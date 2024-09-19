@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 18:33:19**
+As of **2024-09-19 18:58:27**
 
 ## Newspaper Stats
 
-*Scraped **44,770** Articles*
+*Scraped **44,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,139
+adalk | 4,140
 dailymirrorlk | 4,733
 adaderanalk | 5,264
 tamilmirrorlk | 5,860
-virakesarilk | 7,155
+virakesarilk | 7,164
 adaderanasinhalalk | 7,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,770 (100.0%) of 44,770 articles have been extended.
+44,780 (100.0%) of 44,780 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,58 @@ Sri Lanka scored 305 runs for the loss of their first innings in the first innin
 [Data](articles/282d5c8f.json)
 
 [Extended Data](ext_articles/282d5c8f.ext.json)
+
+---
+
+### Respecting the law and fulfilling the duty can ensure peaceful elections
+
+*2024-09-19 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194121) · `ta`
+
+Here's a 200-character summary:
+
+
+
+International election monitors from 7 countries arrived in Sri Lanka to oversee the upcoming presidential election. They met with the Election Commission and emphasized the importance of respecting the law and fulfilling duties to ensure a peaceful electoral process.
+
+🟩
+
+Election is the most popular process. The laws about it are in practice. Therefore, all parties will be able to ensure that the election is held peacefully by fulfilling their duties and fulfilling their duties, said Fuat Dafeek, Chairman of the Election Monitoring Committee, which includes representatives of the international community.
+
+As the country's ninth presidential election is scheduled to be held on the 21st of this month, the Election Commission has officially invited the Election Commission to the Elections Commission, including the European Union, Commonwealth and Independent Elections, as usual to carry out election monitoring.
+
+They are coming to the country and are carrying out their election monitoring in the nine provinces.
+
+Against this backdrop, seven international election monitors from the Philippines, Bhutan, the Maldives, Nepal, Bangladesh and Russia arrived in the country on Wednesday (18).
+
+...
+
+[Data](articles/7641ada2.json)
+
+[Extended Data](ext_articles/7641ada2.ext.json)
+
+---
+
+### The National Security Council is headed by the President
+
+*2024-09-19 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194120) · `ta`
+
+National Security Council meeting: Free & fair 2024 election, law enforcement, candidate safety, polling booth security, Election Commission cooperation, maintaining public order post-election.
+
+🟩
+
+The National Security Council met on Thursday morning (19) at the Presidential Office headed by President Ranil Wickremesinghe.
+
+It was discussed that the upcoming 2024 presidential election was held freely and fairly necessary.
+
+It was also investigated to uphold law and order in the country, ensure the safety of candidates, strengthen the polling booths and voting centers and cooperation with the Election Commission.
+
+In addition, President Ranil Wickremesinghe has directed the security forces to take all necessary steps to uphold law and order in the country so that the people's daily lives are not disrupted during the post -election period.
+
+◼️
+
+[Data](articles/ee229c47.json)
+
+[Extended Data](ext_articles/ee229c47.ext.json)
 
 ---
 
@@ -106,6 +158,34 @@ Thalduwa also noted instances where people attempt to enter polling stations wit
 
 ---
 
+### 11 election complaints so far in Ampara district;Posters have not yet been removed - February
+
+*2024-09-19 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194113) · `ta`
+
+Ampara district: 11 election complaints filed; posters still up. Election monitoring organization reports issues across 4 constituencies. Campaign meetings extended beyond deadline. Fewer complaints compared to previous presidential election. Only authorized personnel allowed near polling booths.
+
+🟩
+
+Kandaya Sathyanathan, District Coordinator of the Election Monitoring Organization, said that 11 election complaints have been received so far in the Ampara district and the posters have not yet been removed.
+
+He was speaking at a press conference held at the Bevasup Media Station in Batticaloa on Thursday (19).
+
+Two complaints in Samanthurai constituency in Ampara district, 3 complaints in Kalmunai constituency, 3 complaints in Pottuvil constituency and 11 complaints from Ampara constituency.
+
+115 polling stations in the district will be monitored in 4 vehicles in 4 constituencies and 4 vehicles per election constituency.
+
+At the polling station, 10 monitors will remain under the voting from the concert to the point of view.
+
+At the same time, if the need to count a second preferential vote, the monitors will stay for 15 hours and work on surveillance.
+
+...
+
+[Data](articles/2b6dfed1.json)
+
+[Extended Data](ext_articles/2b6dfed1.ext.json)
+
+---
+
 ### National Security Council meets
 
 *2024-09-19 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201205) · `si`
@@ -150,6 +230,30 @@ President Wickremesinghe has also instructed the heads of the security agencies 
 
 ---
 
+### Ramith son of Keheliya banned
+
+*2024-09-19 16:53:27* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-පුත්-රමිත්ගේ-නිවාස-දෙකක්-තහනම්/11-412028) · `si`
+
+Colombo High Court bans luxury homes linked to Ramith son of Keheliya Rambukwella. Bribery Commission investigates alleged corruption involving two Rs. 50 million properties.
+
+🟩
+
+Colombo High Court Judge Manjula Tilakaratne was banning two luxury homes in a leading housing complex, which is named as a suspect, who is named as a suspect, Rammbukwella.
+
+The Finance and Requirement Investigation Division of the Investigation Commission has a report to the court in a report of the Investigation Commission, and informed the Minister of Health, Keheliya Rambukwella.
+
+The officials of the Bribery Commission in the 10th floor of the Capital Residenzeli Housing and the 02 Housing of the Capital Residenzeli at the season of former Health Minister Keheliya Rambukwella.It was reported that one house was purchased by two houses at Rs. 50 million.
+
+Did the two state-of-the-art houses have purchased the two state-of-the-art houses that Ramith Rhookwella has been purchased?They also pointed out that the Bribery Commission informed the Bribery Act (Anti-Corruption Act) informed under investigation, the two houses were able to sell or transfer these houses to another party.
+
+...
+
+[Data](articles/8d8525b8.json)
+
+[Extended Data](ext_articles/8d8525b8.ext.json)
+
+---
+
 ### Sri Lanka agrees with international commercial creditors
 
 *2024-09-19 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201204) · `si`
@@ -169,6 +273,34 @@ The Presidential Media Unit strosizes the financial stability of the country thr
 [Data](articles/2addc569.json)
 
 [Extended Data](ext_articles/2addc569.ext.json)
+
+---
+
+### 6,750 officers for election duties in Batticaloa district - Election Commissioner MPM Subiyan
+
+*2024-09-19 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194110) · `ta`
+
+Batticaloa district election preparations: 6,750 officials deployed, 1,514 police on duty. Voting centers set up at Hindu Colleges from Friday morning. Unregistered voters advised to obtain cards at post offices.
+
+🟩
+
+This time, 6,750 government officials are on the election for election obligations and votes in the Batticaloa district.
+
+He was speaking at a media briefing on Thursday (19).
+
+Voting Station at the Mantheevu Hospital in Batticaloa in the past. This is the lowest voting center in Sri Lanka.
+
+Voting for the upcoming presidential election will be distributed from the Hindu Colleges in Batticaloa, which is the Batticaloa election center from 7:00 am on Friday (20).
+
+This time, 6,750 government officials are on the election for election obligations and votes in the Batticaloa district.
+
+A total of 1,514 policemen, including a total of 1,514 police in the district, are on duty.We are asking voters who have not yet received voter cards to go directly to the post offices and obtain the voter card.
+
+◼️
+
+[Data](articles/b69efadf.json)
+
+[Extended Data](ext_articles/b69efadf.ext.json)
 
 ---
 
@@ -244,6 +376,54 @@ He was speaking at a press conference held in the Government Information Departm
 
 ---
 
+### Two persons arrested with heroin drugs in two different parts of Colombo
+
+*2024-09-19 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194094) · `ta`
+
+Colombo: Two arrests made in separate areas. Heroin seized in Grandpass and Kalkissa divisions. Total amount: 1 kg.
+
+🟩
+
+Two suspects have been arrested with heroin drugs in two different parts of Colombo on Wednesday (18).
+
+Accordingly, a suspect has been arrested with 10 grams of 720 kilograms of heroin in the Pababulla road in the Colombo -Grandpass police division.
+
+Meanwhile, a suspect has been arrested with 10 grams of 300 kilograms of heroin in the Badovitta area of ​​the Kalkissa police division.
+
+◼️
+
+[Data](articles/7e34379a.json)
+
+[Extended Data](ext_articles/7e34379a.ext.json)
+
+---
+
+### After a year, long -run passenger boat service
+
+*2024-09-19 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194106) · `ta`
+
+Northern Province Governor hands over rehabilitated passenger boat to Development Authority after Rs 52 million renovation. Boat starts daily service from Nedundi, carrying 80 passengers. Improves transportation for island communities.
+
+🟩
+
+The Governor of the Northern Province officially handed over the rehabilitated passenger boat to the Development Authority today (19).
+
+Governor of the Northern Province BSM. A long -run passenger boat was officially handed over to the Charles Road Development Authority this morning.
+
+The boat, which has been in charge of the provincial council, has been revised at a cost of Rs 52 million and handed over to the Road Development Authority.
+
+The Governor thanked the President, the President of the President, the Ministry of Department of Passengers for the speedy action of the passenger boat.. Steps have been taken to improve transport facilities for the islands
+
+The long -time boat, which has started the passenger service from today, is to travel to the landing department from Nedundi.. It is worth noting that 80 people can travel once in a long time.
+
+◼️
+
+[Data](articles/d4c66ff4.json)
+
+[Extended Data](ext_articles/d4c66ff4.ext.json)
+
+---
+
 ### Lebanon is fearful
 
 *2024-09-19 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201202) · `si`
@@ -291,6 +471,26 @@ The body was taken to the Tangalle Base Hospital and Tangalle Police are conduct
 [Data](articles/cfd8270d.json)
 
 [Extended Data](ext_articles/cfd8270d.ext.json)
+
+---
+
+### Elections Commission forbid
+
+*2024-09-19 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194101) · `ta`
+
+Elections Commission prohibits photography and video recording at polling stations on election day. Violates election law. Social media users and administrators warned against sharing content from polling sites.
+
+🟩
+
+The Elections Commission has stated that the chances of voting at the polling stations on the 21st of this month, the photographing and the release of videos or publishing on social media websites are violating the election law.
+
+Therefore, the Elections Commission has announced to those who hold all social media website accounts and their administrators to avoid such activities.
+
+◼️
+
+[Data](articles/818c81cb.json)
+
+[Extended Data](ext_articles/818c81cb.ext.json)
 
 ---
 
@@ -367,6 +567,54 @@ Recently investigations have revealed that they had to face severe physical, phy
 [Data](articles/5a41330f.json)
 
 [Extended Data](ext_articles/5a41330f.ext.json)
+
+---
+
+### Prohibition of taking some action within the election of the election polling station!
+
+*2024-09-19 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194099) · `ta`
+
+Election Commission bans activities near polling stations. No persuasion, campaign materials allowed within half kilometer radius.
+
+🟩
+
+The Election Commission has issued a statement banning certain measures within the polling station on the 21st of this month.
+
+The Election Commission's report stated that the Election Commission has been banned from carrying out some measures within a distance of half a kilometer from the gate that enters the polling station or into the polling station.
+
+௩. Anyone who should vote for a candidate is trying to persuade Nehru
+
+௫. Related to the election, (no office, pamphlets, paste, poster, poster, photo, photo, or notice), or any symbol of the candidate, the poster, the poster, the poster, the photo or the notification or the symbol of the candidate.
+
+◼️
+
+[Data](articles/12d942da.json)
+
+[Extended Data](ext_articles/12d942da.ext.json)
+
+---
+
+### In the Human Rights Commission on the Election Day
+
+*2024-09-19 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194105) · `ta`
+
+Human Rights Commission Sri Lanka monitors election violations. Officials patrol polling stations. Contact 021-2222021 or 070-3654910 for issues.
+
+🟩
+
+The Human Rights Commission of Sri Lanka's Human Rights Commission said that the officers of the Human Rights Commission will be engaged in the field tasks to monitor the violation of the fundamental rights of the voters on the day of the election.. Regional Coordinator T. Kanagaraj said.
+
+The Human Rights Commission of Sri Lanka has made arrangements to take the "Presidential Election - 2024" surveillance on the 21st and 22nd of this month.
+
+Officials of the Commission will be on duty to monitor whether the basic rights of the voters are violated on the day of the election and to the site of the need for the need.
+
+The Jaffna Regional Office of the Human Rights Commission of Sri Lanka will be open for election monitoring duties on the 21st of this month and it has been announced that voters will be able to contact 021-2222021 and 070-3654910 if they face any rights violation of their voting rights.
+
+◼️
+
+[Data](articles/f8171dd7.json)
+
+[Extended Data](ext_articles/f8171dd7.ext.json)
 
 ---
 
@@ -2219,239 +2467,5 @@ Commenting on the one -day workshop to clarify to those in the construction sect
 [Data](articles/6b1cdbb4.json)
 
 [Extended Data](ext_articles/6b1cdbb4.ext.json)
-
----
-
-### Construction Department has not yet recovered
-
-*2024-09-19 07:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாணத்துறை-இன்னும்-மீளவில்லை/175-344000) · `ta`
-
-Sri Lanka's construction sector struggles post-economic crisis. Small firms leave business due to lack of government support. Industry contributes significantly to national economy. Foreign-funded projects halted; 2024 budget allocates funds to restart stalled constructions. Domestic sector development crucial for economic recovery.
-
-🟩
-
-Sri Lanka National Construction Association president Daryinton Paul said that the construction sector has not yet recovered the economic crisis in Sri Lanka.
-
-He said that the small construction department from about 2000 to 2500 is now leaving their business, with 11 offices in the country's 9 provinces, which are currently underway and strengthening them.
-
-He pointed out that the Sri Lanka National Construction Association has implemented various activities across the country to provide clarity in the country, with the inadequate clarity of them on the country's construction laws and the country's small and medium construction sector.
-
-Commenting on the one -day workshop to clarify to those in the construction sector last Friday, he said, “No government has made efforts to strengthen the collapse of the country in the country.. If the best construction sector is able to create in the country, the public will be wasting money.
-
-...
-
-[Data](articles/cfef7293.json)
-
-[Extended Data](ext_articles/cfef7293.ext.json)
-
----
-
-### Rs. For a parade of police officers who claimed
-
-*2024-09-19 07:34:13* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ-14ක්-කොල්ල-කෑ-බව-කියන-පොලිස්-නිලධාරීන්-හඳුනා-ගැනිමේ-පෙරට්ටුවකට/11-412016) · `si`
-
-Here's a 200-character summary:
-
-
-
-Colombo Additional Magistrate Kamin Damada Perera identified suspects in a police parade case. Residents complained about Modara Police officers. Suspects appeared in court wearing civilian clothes. Attorneys Nishantha Dissanayake and Sanjaya Gamage represented them.
-
-🟩
-
-Colombo Additional Magistrate Kamin Damada Perera was appointed to identify a sum of Rs.
-
-After a complaint lodged by the residents of Modara, a complaint of the officers of the Modara Police were submitted to the courts, to cover the suspects, to hold the suspects in the remand.
-
-The remand was handed over to the Bloonderingal Police, a police sergeant, police sergeant and the Colombo North Intelligence Service.
-
-The suspects of the Modara Police have reportedly appeared to the court and entered the court and entered the house in civilian clothes.
-
-Attorney-at-Law Nissance Dissanayake appeared and Attorney Sanjaya Gamage appeared for the suspect cops.
-
-◼️
-
-[Data](articles/c003610f.json)
-
-[Extended Data](ext_articles/c003610f.ext.json)
-
----
-
-### Commission ready for election
-
-*2024-09-19 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201176) · `si`
-
-Elections Commission prepares for presidential election disruptions. Measures taken to address disappearances. Weather forecast obtained. Special program implemented with Disaster Management Center from today to 22nd.
-
-🟩
-
-The Elections Commission says that all necessary measures have been taken to face disappearances of disappearances during the date of the presidential election campaign.
-
-The Chairman of the top of its president said that the distinguished distinguished distinguishing has been paid to the suspected distress.
-
-The Chairman of the Elections Commission said that the weather conference will also be taken to obtain a weather report from tomorrow (20).
-
-Meanwhile, the Disaster Management Center and the Election Commission are planning to implement a special integrated program to manage the disruption to the presidential election.
-
-According to the Director of the Disaster Management Center Pradeep Kodippili said that the program is scheduled to implement the program from today to 22nd.
-
-◼️
-
-[Data](articles/115d5df1.json)
-
-[Extended Data](ext_articles/115d5df1.ext.json)
-
----
-
-### Kiwalay shopping - Man dies
-
-*2024-09-19 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201175) · `si`
-
-Man killed in Kohuwala shooting; police investigating incident involving two suspects on motorcycle.
-
-🟩
-
-A man was shot dead in Saranaddara Road, Saranaddara Road, Kohuwala police division.
-
-Investigations have been launched into a message from Kohuwala Police regarding this regard.
-
-The shooting last night was the owner of the shot.
-
-Two unidentified persons who came in a motorbike have been shot.
-
-Kohuwala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/483b3ac6.json)
-
-[Extended Data](ext_articles/483b3ac6.ext.json)
-
----
-
-### Sri Lanka expects IMF visit in two weeks: President
-
-*2024-09-19 06:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-imf-visit-in-two-weeks-president-179994/) · `en`
-
-ECONOMYNEXT- Sri Lanka is expecting mission from the International Monetary Fund in two weeks, President Ranil Wickremesinghe told a campaign rally.
-
-“In two weeks when the IMF team comes, we have to say that we will implement the agreement and to give the next instalment,” President Wickremesinghe told a rally in Homagama Wednesday.
-
-“If not, we will have to say that we will change it. Then the installment will not come. Then the rupee will fall to 500 to the dollar.
-
-Sri Lanka’s interest rates have already started to move up amid political uncertainty. The rupee has also slightly weakened.
-
-Currencies typically collapse when soft-pegged central banks resist market interest rate pressure and engages in reverse repo, outright purchases or overnight injections to keep short or long term rates down (prints money), or sterilizes interventions in the forex markets to enforce a policy rate.
-
-President Wickremesinghe said earlier that Sri Lanka expected to reach an agreement with private creditors.
-
-...
-
-[Data](articles/ff65a596.json)
-
-[Extended Data](ext_articles/ff65a596.ext.json)
-
----
-
-### Thundershowers at several areas and strong winds
-
-*2024-09-19 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201173) · `si`
-
-Heavy rain and strong winds expected in Western, Sabaragamuwa, Southern, Eastern, and Uva provinces. Thunderstorms may cause landslides. Take precautions against wind gusts.
-
-🟩
-
-Several spells of showers will occur in the Western, Sabaragamuwa and Southern provinces and several times in the Kandy and Nuwara Eliya Districts.
-
-Showers or thundershowers will occur at several places in the East and Uva provinces.
-
-From time to time in the Western balconies of the Central Mountains and in times of North-middle and Southern provinces.. It is said that there is about strong winds.
-
-The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
-
-◼️
-
-[Data](articles/1ff28fec.json)
-
-[Extended Data](ext_articles/1ff28fec.ext.json)
-
----
-
-### US Federal Reserve cut rates 50pb, quantity tightening to continue
-
-*2024-09-19 05:49:00* · [`economynextcom`](https://economynext.com/us-federal-reserve-cut-rates-50pb-quantity-tightening-to-continue-179980/) · `en`
-
-ECONOMYNEXT – The US Federal Reserve cut rates 50 basis points to target an overnight rate of 4.75/5.00 percent, with Chair Jerome Powell saying inflation and employment was balanced.
-
-“Inflation is now much closer to our objective, and we have gained greater confidence that inflation is moving sustainably toward 2 percent,” Powell told reporters after the rate cut.
-
-“As inflation has declined and the labor market has cooled, the upside risks to inflation have diminished and the downside risks to employment have increased.
-
-“We now see the risks to achieving our employment and inflation goals as roughly in balance, and we are attentive to the risks to both sides of our dual mandate.”
-
-The Fed’s ‘dual mandate’ is blamed for the current high inflation as well as the 1970s collapse of the Bretton Woods system and subsequent Great Inflation.
-
-...
-
-[Data](articles/d425210a.json)
-
-[Extended Data](ext_articles/d425210a.ext.json)
-
----
-
-### Rajitha claims Sajith-Namal have made an alliance to be President and Opposition leader
-
-*2024-09-19 03:14:08* · [`dailyftlk`](https://www.ft.lk/news/Rajitha-claims-Sajith-Namal-have-made-an-alliance-to-be-President-and-Opposition-leader/56-766891) · `en`
-
-Alleges Sajith has given his word to safeguard the Rajapaksas
-
-Says regardless of any alliances, President Wickremesinghe is confident of securing victory
-
-Kalutara District MP Dr. Rajitha Senaratne recently made a statement regarding a perceived alliance between Namal and Sajith.
-
-According to Senaratne, Sajith Premadasa has allegedly assured Namal Rajapaksa the position of Opposition leader in exchange for support in the Presidential election. These claims were addressed during a press conference at President Ranil Wickremesinghe’s political office in Flower Road, Colombo.
-
-Senaratne emphasised that despite any efforts to undermine President Wickremesinghe’s victory in the upcoming election, the President remains a formidable contender.
-
-...
-
-[Data](articles/ba3bc46c.json)
-
-[Extended Data](ext_articles/ba3bc46c.ext.json)
-
----
-
-### IHP reveals election-eve MRP Presidential voting intent estimates
-
-*2024-09-19 03:12:56* · [`dailyftlk`](https://www.ft.lk/news/IHP-reveals-election-eve-MRP-Presidential-voting-intent-estimates/56-766890) · `en`
-
-IHP’s SLOTS MRP estimates using interviews conducted to 13 September indicate that Anura      Dissanayake would have won the Presidential election on a count of second preference votes  if the Presidential election had been held in early September.
-
-In the MRP estimates of the views of all adults, Anura Dissayanake led with 48%, followed by Sajith Premadasa on 25%, Ranil Wickremesinghe on 20%, and Namal Rajapaksa on 5%. These estimates were associated with a margin of error of 3–6% for the three leading candidates. The latest IHP MRP modelling indicates that there was a strong surge in favour of Anura Dissanayake since July, when he briefly trailed Sajith Premadasa in voter preferences.
-
-These MRP estimates are based on a substantially revised MRP model (version 4.0) that is still in beta testing. Data came from 20,714 interviews conducted from 31 August 2021 to 13 September 2024, including 541 interviews conducted in September 2024.
-
-...
-
-[Data](articles/82ba3f5d.json)
-
-[Extended Data](ext_articles/82ba3f5d.ext.json)
-
----
-
-### New Ambassador to Vietnam Poshitha Perera presents credentials
-
-*2024-09-19 03:12:40* · [`dailyftlk`](https://www.ft.lk/news/New-Ambassador-to-Vietnam-Poshitha-Perera-presents-credentials/56-766889) · `en`
-
-Sri Lanka’s new Ambassador to Vietnam, Poshitha Perera presented his Letters of Credence to General Secretary and President of the Socialist Republic of Vietnam To Lam, during a ceremony at the President’s office in Hanoi on 17 September.
-
-The event featured a ceremonial Guard of Honour, followed by the official presentation of credentials and a courtesy call on the President of Vietnam by the new Ambassador. Senior officials from both the President’s Office and the Ministry of Foreign Affairs of Vietnam were in attendance.
-
-General Secretary and President To Lam extended a warm welcome to Ambassador Perera and conveyed his best wishes for the latter’s tenure in Vietnam. Further, he reaffirmed Vietnam’s commitment to enhance relations with Sri Lanka, recognising the longstanding friendship between the two nations and also acknowledging Sri Lanka’s support to his country in multilateral forums.
-
-...
-
-[Data](articles/e615a1af.json)
-
-[Extended Data](ext_articles/e615a1af.ext.json)
 
 ---

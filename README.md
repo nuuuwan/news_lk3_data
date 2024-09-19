@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 21:57:45**
+As of **2024-09-19 22:12:16**
 
 ## Newspaper Stats
 
-*Scraped **44,802** Articles*
+*Scraped **44,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,266
 tamilmirrorlk | 5,865
 virakesarilk | 7,173
-adaderanasinhalalk | 7,677
+adaderanasinhalalk | 7,678
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,802 (100.0%) of 44,802 articles have been extended.
+44,802 (100.0%) of 44,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### මැතිවරණ රාජකාරිවල නිරත රාජ්‍ය නිලධාරීන්ට දැනුම්දීමක්
+
+*2024-09-19 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201211) · `si`
+
+ජනාධිපතිවරණ ඡන්ද විමසීමේ රාජකාරි සඳහා පත්කර ඇති සියලුම රාජ්‍ය නිලධාරීන් වෙත මැතිවරණ කොමිෂන් සභාව විශේෂ පණිවුඩයක් නිකුත් කර තිබේ.
+
+මෙරට 09වන ජනාධිපතිවරයා තෝරා පත් කරගැනීම සඳහා ඡන්ද විමසීම 2024 සැප්තැම්බර් මස 21 වනදා පැවැත්වෙයි.
+
+විශේෂයෙන්ම ඡන්ද විමසීම පැවැත්වෙන කාලය තුළ ඔබ විසින් ඡන්දදායකයන් හා ඡන්ද අපේක්ෂකයන් හා ඔවුන්ගේ බලයලත් නියෝජිතයන් සමග සුහද සම්බන්ධතාවෙන් ක්‍රියා කළ යුතුය.
+
+ඔවුන් සමග කටයුතු කිරීමේදී අර්ථාන්විතව, කාරුණිකව, ඉවසීමෙන් ක්‍රියා කිරීම මැනවි.
+
+එමගින් නිදහස් හා සාධාරණ වාතාවරණයක් තුළ තම හෘද සාක්ෂියට එකඟව ඡන්දය ප්‍රකාශ කිරීමේ හැකියාවක් පවතින බව ජනතාවට ප්‍රදර්ශනය වනු පමණක් නොව ඒත්තු යෑම ද සිදුවනු ඇති බව මැතිවරණ කොමිෂන් සභාව දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/9a9b9cfc.json)
+
+---
 
 ### NAHTTF issues urgent warning on cyber scam centers and human trafficking
 
@@ -2489,27 +2509,5 @@ The Ministry of Education has announced that all schools across the country will
 [Data](articles/67d5088f.json)
 
 [Extended Data](ext_articles/67d5088f.ext.json)
-
----
-
-### EC prepared for any potential weather disruptions during Presidential Election
-
-*2024-09-19 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102072/ec-prepared-for-any-potential-weather-disruptions-during-presidential-election) · `en`
-
-The Election Commission says that all necessary measures have been taken to face any possible disaster situations that might occur due to unexpected weather conditions during the presidential election.
-
-The Chairman of the Election Commission R.M.A.L. Rathnayake said that more attention has been paid to the districts where there are concerns about potential disaster situations or emergencies.
-
-He further stated that starting from tomorrow (20), they will also receive a weather report from the Meteorological Department every three hours.
-
-Meanwhile, the Disaster Management Centre (DMC) and the Election Commission have planned to implement a special joint program to address any disruptions to the presidential election that could be cause by natural disasters.
-
-Accordingly, the Director of the Disaster Management Centre, Pradeep Kodippili mentioned that the program is planned to be implemented from today until September 22.
-
-◼️
-
-[Data](articles/acd08e18.json)
-
-[Extended Data](ext_articles/acd08e18.ext.json)
 
 ---

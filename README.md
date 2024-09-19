@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 11:22:41**
+As of **2024-09-19 11:38:52**
 
 ## Newspaper Stats
 
-*Scraped **44,704** Articles*
+*Scraped **44,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,125
 dailymirrorlk | 4,733
 adaderanalk | 5,256
-tamilmirrorlk | 5,855
+tamilmirrorlk | 5,857
 virakesarilk | 7,141
 adaderanasinhalalk | 7,654
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 7,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,704 (100.0%) of 44,704 articles have been extended.
+44,706 (100.0%) of 44,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Two people die in vehicle accident
+
+*2024-09-19 11:07:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-விபத்தில்-இருவர்-மரணம்/175-344017) · `ta`
+
+Two people killed in vehicle crash in Omanthai, Vavuniya. Motorcycle collides with another motorcycle and bicycle. Both victims, aged 46 and 48, died at Vavuniya General Hospital.
+
+🟩
+
+Omanthai police said that two people were killed in a vehicle accident in Omanthai, Vavuniya.
+
+The deceased was 46 -year -old Weerasingham Janitharan from Kilinochchi and 48 -year -old Shanmugaraja Yogarasa from Omanthai.
+
+Initial investigations by the police have revealed that the motorcycle traveling from Omanthai to Vavuniya from Pairakkayakulam has crashed into a motorcycle with a bicycle in the opposite direction.
+
+The two men who were traveling on a motorcycle and bicycle were injured and died after being admitted to the Vavuniya General Hospital.
+
+◼️
+
+[Data](articles/500de940.json)
+
+[Extended Data](ext_articles/500de940.ext.json)
+
+---
+
+### 500 people are affected by food allergies
+
+*2024-09-19 11:07:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமையால்-500-பேர்-பாதிப்பு/175-344016) · `ta`
+
+500+ garment factory workers hospitalized due to illness; many transferred between hospitals due to overcrowding.
+
+🟩
+
+More than five hundred employees working at a main private garment factory in Bagumuna, Polonnaruwa, have been admitted to the Rural Hospitals of the Baghunai and Attanagalai Rural Hospitals today (19).
+
+The sick workers were taken to the Pakamuna Regional Hospital and Attanagadawala Rural Hospital by buses and ambulances from the garment factory, police said.
+
+Due to lack of space at the Bhagamuna Divisional Hospital, a large number of people have been taken to the Attanagadawala Hospital by buses and ambulances, police said.
+
+A spokesman for the Pakamuna and Attanakadawala Hospital said that the status of the garment workers and maids admitted to the Athanagadawala and Bhagamuna Hospital was not worrisome and they were being treated.
+
+◼️
+
+[Data](articles/6677877d.json)
+
+[Extended Data](ext_articles/6677877d.ext.json)
+
+---
 
 ### Another shooting: Youth gunned down in Kurunegala
 
@@ -2229,51 +2277,5 @@ Similarly, a special train will depart from the Kankesanthurai railway station t
 [Data](articles/dd240a1d.json)
 
 [Extended Data](ext_articles/dd240a1d.ext.json)
-
----
-
-### Anura Kumara Dissanayake: "We are living in winning national unity '
-
-*2024-09-18 19:34:26* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl8n455py1o) · `si`
-
-Anura Kumara Dissanayake claims national unity revival. Criticizes Sajith Premadasa's campaign as racist and religiously biased. Mentions Kandy Perahera restrictions and plans for national development.
-
-🟩
-
-Anura Kumara Dissanayake: "We are living in winning national unity '
-
-Leader of the National Power Anura Kumara Dissanayake says that the national community is revived to national unity.
-
-"Sajith Premadasa's election campaign launched in the aim of racism and religionism. The Kandy Perahera is staying immediately after a government is in power in the national government force. The Perahera of the Ethkanda Viharaya is stopped.. Anura Kumara Dissanayake said at the final rally held in Nugegoda, "said.
-
-He also spoke of the plan to build the country in the national propagation.
-
-◼️
-
-[Data](articles/6690a4ee.json)
-
-[Extended Data](ext_articles/6690a4ee.ext.json)
-
----
-
-### Education Ministry announcement on distribution of school uniforms
-
-*2024-09-18 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102065/education-ministry-announcement-on-distribution-of-school-uniforms) · `en`
-
-The Ministry of Education (MoE) has announced that it will distribute the uniforms necessary for 4.3 million school students and all the needed robes (Sivuru) for 825 ‘Pirivens’ for the upcoming 2025 school term.
-
-Accordingly, the school uniforms and robes are to be distributed before January 20, when the 2025 new school term begins.
-
-The school uniforms have been donated by the Chinese government, following discussions between the Education Minister, the Chinese Ambassador, and other relevant officials of the Chinese government.
-
-According to the announcement, all school uniforms are being provided free of charge and will result in the government saving around Rs. 7 billion.
-
-The Chinese government has confirmed that Sri Lanka will receive the first consignment of uniforms on November 13, the second on November 21, and the third on December 20.
-
-◼️
-
-[Data](articles/777b6247.json)
-
-[Extended Data](ext_articles/777b6247.ext.json)
 
 ---

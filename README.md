@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 20:22:41**
+As of **2024-09-19 20:38:21**
 
 ## Newspaper Stats
 
-*Scraped **44,790** Articles*
+*Scraped **44,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,106 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,142
+adalk | 4,143
 dailymirrorlk | 4,733
 adaderanalk | 5,265
 tamilmirrorlk | 5,864
-virakesarilk | 7,167
-adaderanasinhalalk | 7,675
+virakesarilk | 7,169
+adaderanasinhalalk | 7,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,790 (100.0%) of 44,790 articles have been extended.
+44,794 (100.0%) of 44,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Compliance with International Business Debtors to Reform $ 17.5 billion loans
+
+*2024-09-19 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194129) · `ta`
+
+Sri Lanka agrees to reform $17.5 billion loans under IMF conditions. Negotiations with China, India, and international lenders ongoing. Interest rate reduction and financial framework adjustment planned. Initial compliance with IMF debt services reached in July.
+
+🟩
+
+The International Trade Businessmen have agreed to rehabilitate $ 17.5 billion loans under the conditions imposed under the Extended Finance of the International Monetary Fund.
+
+Sri Lanka has reached the Chinese Exim Bank, the Official Bank of India, the Official Debt Group, the Business Debtors and the International Billy Bank, as Sri Lanka has reached the restructuring of $ 3.3 billion worth of loans with the Chinese Development Bank.
+
+The Presidential Secretariat has announced that it can reduce interest rates and ensure the country's financial framework.
+
+Already last June 21 - July 2, the government held a limited level of negotiations with the International Bailor Group. Representatives from legal and financial consultants Clifford Sans LLP, Lisart, White and Case and Rothschild And Co.
+
+Similarly, the Executive Committee of the International Bilbage Committee, which includes 10 key parties of 50 percent of Sri Lanka's bailouts, held a discussion in Paris on June 27-8.
+
+...
+
+[Data](articles/6d9694c7.json)
+
+[Extended Data](ext_articles/6d9694c7.ext.json)
+
+---
+
+### If you go on election day, they can be arrested
+
+*2024-09-19 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201208) · `si`
+
+Election Commission warns against gatherings on voting day. Chairman states assemblies near polling stations may lead to arrests or involvement with security forces. Public prohibited from fireworks, TV broadcasts during vote counting. Violators face legal consequences.
+
+🟩
+
+The Chairman of the Election Commission is the Chairman of the Election Commission that it is the case with the expiry of television or large screens at the roads at the streets when the vote is counting.. M. A. L. Says Mr. Ratnayake.
+
+He said that such meetings have the potential to dissolve or connect them to the security forces.
+
+Chairman of the Election Commission (Elections Commission)
+
+"In the event of the election date of votes and demanding the home, for no reason or the polling centers. The public is banned by the law and enjoy the crackers, lighting in the roads and enjoying the crackers, with the enjoyment of television programs at the time of counting the votes and broadcasting tv programs.. Sovereign is guilty of such assemblies. They are able to dissolve or connect to the security forces. "
+
+◼️
+
+[Data](articles/d5cd7fe3.json)
+
+[Extended Data](ext_articles/d5cd7fe3.ext.json)
+
+---
+
+### Letham, Villianusan half -centuries accumulation: New Zealand moves towards a strong position
+
+*2024-09-19 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194128) · `ta`
+
+New Zealand leads vs Sri Lanka after Day 2: Letham, Williamson shine. NZ 255/4, Sri Lanka 305 all out. O'Rourke takes 5 wickets.
+
+🟩
+
+New Zealand is moving towards a strong position on Thursday (20), the second day of the first Test cricket match against Sri Lanka and former team captain Kane Williamson.
+
+In response to 305 runs in Sri Lanka in the first innings, New Zealand scored 255 runs for the loss of 4 wickets at the end of the 2nd day.
+
+Both Tom Letham and Devan Konway shared 63 runs.
+
+After Konway lost 16 runs, Tom Letham and Kane Williamson shared 73 runs in the 2nd wicket.
+
+Williamson then shared 51 runs with Rachin Ravindra in the 3rd wicket.
+
+Terril Michelle Michelle, who followed them, did not lose 41 runs and Tom Blundel 18.
+
+Sri Lanka lost their first innings yesterday morning from 302 runs for the loss of 7 wickets and lost their last 3 wickets for 3 more runs.
+
+Ramesh Mendis lost the same number with 14 runs.
+
+William O'Ruq took 5 wickets for 55 runs, Glen Phillips took 2 wickets for 52 runs while Ajaz Patel took 2 wickets for 60 runs.
+
+...
+
+[Data](articles/6298b662.json)
+
+[Extended Data](ext_articles/6298b662.ext.json)
+
+---
 
 ### Born in Chennai and Jadeja, who stuck with Chennai, made India strong;Ashwin's accumulation
 
@@ -187,6 +271,38 @@ Anthony Alpred - Anushan, a young man from Pannangandi, died in the accident.
 [Data](articles/6f11a586.json)
 
 [Extended Data](ext_articles/6f11a586.ext.json)
+
+---
+
+### 147 uniform leaflets that were given to divide
+
+*2024-09-19 19:00:08* · [`adalk`](https://www.ada.lk/breaking_news/බෙදන්න-දුන්න--නිළ-ජන්ද-පත්‍රිකා-147-ක්-කඩයකට-දිලා/11-412033) · `si`
+
+Puttalam Post Master's OIC investigates distribution of 147 voting leaflets. 5,723 official votes sent to TNA. 47,610 votes received but 1,176 undistributed. Investigation ongoing regarding voter sheet distribution.
+
+🟩
+
+The Puttalam Post Master's OIC has commenced an investigation into the instructions of the higher postal officers on the 19th of the 19th.
+
+A total of 5723 official votes were sent to the TNA at the Puttalam Head of Post Office to distribute a 147 official voteral leaflew to be distributed to the project.Inquiry, he said.
+
+47610 official votes have been received at Puttalam Head Programs to the Puttalam Head Office this year, indicating 5638.
+
+Voting leaflets unable to distribute 1176 votes were obtained by the electoral post office.
+
+The post office said that nearly half of the voters sheets had come to the 19th.
+
+47610 Niladhari Papers received from Puttalam Chief Post Office 47610 were divided into 15 zones.
+
+However, the remaining post office has been taken into custody due to the closure of these non-divided by the 14th evening.
+
+However, a special investigation has commenced with the relevant envelope to provide the issues of the vocabulary and the third croach residents.
+
+...
+
+[Data](articles/b660ff09.json)
+
+[Extended Data](ext_articles/b660ff09.ext.json)
 
 ---
 
@@ -2389,105 +2505,5 @@ President Ranil Wickremesinghe said that the agents are due to visit Sri Lanka f
 [Data](articles/b5054ac4.json)
 
 [Extended Data](ext_articles/b5054ac4.ext.json)
-
----
-
-### One dead, 2 injured in shooting at Midigama
-
-*2024-09-19 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102071/one-dead-2-injured-in-shooting-at-midigama) · `en`
-
-One person is reported dead while two others have been injured in a shooting incident at Midigama in Matara.
-
-Police said the two unidentified gunmen, who arrived on a motorcycle, had opened fire at a person who was at a fish market in the Goviyapana area in the Midigama police area this morning (19) and had fled the scene.
-
-The owner of the fish stall, who sustained serious injuries from the gunfire, along with two other individuals who had arrived at the stall and were also injured from the shooting were admitted to the Karapitiya Hospital for treatment.
-
-However, the fish market owner had succumbed to his injuries upon admission to the hospital.
-
-The deceased is a 38-year-old resident of the Goviyapana area.
-
-The body has been placed at the mortuary of the Karapitiya Hospital.
-
-The preliminary investigations indicate that the murder was carried out on the directive of an organized criminal figure who is operating from abroad.
-
-...
-
-[Data](articles/2d3d1061.json)
-
-[Extended Data](ext_articles/2d3d1061.ext.json)
-
----
-
-### Card for jaggery;Manufacturer not to survey
-
-*2024-09-19 08:42:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெல்லத்தில்-அட்டை-கணக்கெடுக்க-வேண்டாம்-என்ற-உற்பத்தியாளர்/175-344007) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Jaggery found in cardboard box at shop. Manufacturer denies responsibility. Shop owner confused about contamination.
-
-🟩
-
-A thousand -foot cardboard (cardboard) has been found in the velvet sold at the shop in the Kodikawatte area.
-
-The jaggery is manufactured by a confectionary manufacturing company located in Hanwella, Kongahawatte, Dundana.
-
-When the shop owner announced this to the manufacturer involved, he said, “Do not understand it. Throw up. ”. Remble
-
-◼️
-
-[Data](articles/06f2fcc1.json)
-
-[Extended Data](ext_articles/06f2fcc1.ext.json)
-
----
-
-### Another shot in the South
-
-*2024-09-19 08:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201179) · `si`
-
-Shooting incident reported in Midigama area near Matara-Galle main road. One person killed, another injured.
-
-🟩
-
-Our correspondent said that a shooting in the Midigama area has been shot in the Matara-Galle main road.
-
-The victim was killed and another injured.
-
-◼️
-
-[Data](articles/ff89b75c.json)
-
-[Extended Data](ext_articles/ff89b75c.ext.json)
-
----
-
-### Death in one of the shootings
-
-*2024-09-19 08:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்/175-344006) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-43-year-old shop owner killed in shooting at Kohuwala grocery store. Another man injured. Police investigating cause and suspects. No details released yet.
-
-🟩
-
-A 43 -year -old shop owner died in a shooting at a grocery store in Saranangara Mawatha, Kohuwala.
-
-A 43 -year -old man from Nedimalai, Dehiwala, was injured after being admitted to the Kalubowila Hospital after being admitted to the Kalubowila Hospital.
-
-No information on the cause of the shooting or the suspects has yet been revealed.
-
-Kohuwala police are conducting further investigations into the murder. Remble
-
-◼️
-
-[Data](articles/c6e56c59.json)
-
-[Extended Data](ext_articles/c6e56c59.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 23:08:39**
+As of **2024-09-19 23:22:38**
 
 ## Newspaper Stats
 
-*Scraped **44,807** Articles*
+*Scraped **44,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
-tamilmirrorlk | 5,865
+tamilmirrorlk | 5,866
 virakesarilk | 7,174
 adaderanasinhalalk | 7,679
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,807 (100.0%) of 44,807 articles have been extended.
+44,807 (100.0%) of 44,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### CID-யின் கைகளுக்குச் சென்றது
+
+*2024-09-19 22:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CID-யின்-கைகளுக்குச்-சென்றது/175-344035) · `ta`
+
+ஐந்தாம் தர புலமைப்பரிசில் பரீட்சையில் சில கேள்விகள் கசிந்தமை தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+இதேவேளை, நேற்று (17) இடம்பெற்ற கலந்துரையாடல் ஒன்றில் முதல் தாளில் இருந்து மூன்று கேள்விகளை நீக்க முடிவு செய்யப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/21a00f6d.json)
+
+---
 
 ### All arrangements for the presidential election in the Jaffna election district
 
@@ -2497,27 +2511,5 @@ The victim woman was killed in admission to the Minuwangoda hospital.
 [Data](articles/9ba85291.json)
 
 [Extended Data](ext_articles/9ba85291.ext.json)
-
----
-
-### Hotel owner shot dead
-
-*2024-09-19 10:29:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-உரிமையாளர்-சுட்டுக்-கொலை/175-344015) · `ta`
-
-Dehiwala hotel owner killed: 43-year-old Ananda Viswanathan shot by motorcyclists. Police investigating.
-
-🟩
-
-The Kohuwala police said that the incident took place on Wednesday night (18), the owner of a hotel in Saranangara Road, Dehiwala.
-
-The 43 -year -old drama Viswanathan (Ananda), the owner of a hotel on 112/1 Saranangara Road, Kalubowila, was murdered.
-
-Two motorcyclists have been shot dead by helmets and further investigations are being carried out by the police.
-
-◼️
-
-[Data](articles/6a7112f9.json)
-
-[Extended Data](ext_articles/6a7112f9.ext.json)
 
 ---

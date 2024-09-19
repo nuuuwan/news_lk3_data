@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 02:08:13**
+As of **2024-09-20 02:38:14**
 
 ## Newspaper Stats
 
-*Scraped **44,818** Articles*
+*Scraped **44,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 435
 colombotelegraphcom | 447
-islandlk | 2,634
+islandlk | 2,635
 economynextcom | 2,715
 dailyftlk | 2,980
 adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
-tamilmirrorlk | 5,867
+tamilmirrorlk | 5,868
 virakesarilk | 7,175
 adaderanasinhalalk | 7,679
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,818 (100.0%) of 44,818 articles have been extended.
+44,820 (100.0%) of 44,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Solar Power Scheme for 1124 schools
+
+*2024-09-20 01:41:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1124-பாடசாலைகளுக்கு-சூரிய-மின்சக்தி-திட்டம்/175-344038) · `ta`
+
+Governor Senthil Thondaman launches solar power scheme for 1124 schools in Eastern Province. Initially, 348 schools in Trincomalee receive panels. Project aims to provide renewable energy to educational institutions across the region. Parents, teachers, and students express gratitude for the initiative.
+
+🟩
+
+Solar Panel was given to 348 schools in Trincomalee for the first time due to the efforts of Governor of the Eastern Province Senthil Thondaman.
+
+The Governor of the Eastern Province launched the solar power project in 1124 schools in the Eastern Province after the notice of Governor Senthil Thondaman was brought to the notice of various schools in the Eastern Province in the past.. In the first phase, the Solar Panel was given to 342 schools by the Governor.
+
+Parents, including school principals, teachers and students, thanked Governor Senthil Thondaman who started the project.
+
+◼️
+
+[Data](articles/f9cd8d60.json)
+
+[Extended Data](ext_articles/f9cd8d60.ext.json)
+
+---
 
 ### Started with a long -haul passenger ferry service
 
@@ -2479,29 +2501,5 @@ The Ministry said that each school mentioned in the circular as schools used as 
 [Data](articles/0988556f.json)
 
 [Extended Data](ext_articles/0988556f.ext.json)
-
----
-
-### Two people die in vehicle accident
-
-*2024-09-19 11:07:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-விபத்தில்-இருவர்-மரணம்/175-344017) · `ta`
-
-Two people killed in vehicle crash in Omanthai, Vavuniya. Motorcycle collides with another motorcycle and bicycle. Both victims, aged 46 and 48, died at Vavuniya General Hospital.
-
-🟩
-
-Omanthai police said that two people were killed in a vehicle accident in Omanthai, Vavuniya.
-
-The deceased was 46 -year -old Weerasingham Janitharan from Kilinochchi and 48 -year -old Shanmugaraja Yogarasa from Omanthai.
-
-Initial investigations by the police have revealed that the motorcycle traveling from Omanthai to Vavuniya from Pairakkayakulam has crashed into a motorcycle with a bicycle in the opposite direction.
-
-The two men who were traveling on a motorcycle and bicycle were injured and died after being admitted to the Vavuniya General Hospital.
-
-◼️
-
-[Data](articles/500de940.json)
-
-[Extended Data](ext_articles/500de940.ext.json)
 
 ---

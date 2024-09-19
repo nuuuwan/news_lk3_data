@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 14:58:04**
+As of **2024-09-19 15:08:44**
 
 ## Newspaper Stats
 
-*Scraped **44,747** Articles*
+*Scraped **44,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,133
+adalk | 4,134
 dailymirrorlk | 4,733
-adaderanalk | 5,259
+adaderanalk | 5,260
 tamilmirrorlk | 5,859
 virakesarilk | 7,152
 adaderanasinhalalk | 7,667
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,747 (100.0%) of 44,747 articles have been extended.
+44,749 (100.0%) of 44,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### 2024 Presidential Election: Guidelines issued for voters
+
+*2024-09-19 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102078/2024-presidential-election-guidelines-issued-for-voters) · `en`
+
+The voting for the presidential poll to elect the 9th executive president of Sri Lanka is scheduled to be held on Saturday (September 21).
+
+The Election Commission stated that voting will take place in 13,421 polling stations from 7.00 a.m. to 4.00 p.m. on Saturday.
+
+The election campaigning activities related to the presidential election concluded at midnight yesterday (18) and the period up to the time of the presidential election has been declared as a silence period.
+
+The Election Commission says all election campaigning activities are strictly prohibited during this period, while police have the authority to arrest any individuals who violate the election laws.
+
+The Commissioner General of Elections, Saman Sri Ratnayake said that all the necessary initial preparations for the election have been already planned.
+
+...
+
+[Data](articles/3c0aa40d.json)
+
+[Extended Data](ext_articles/3c0aa40d.ext.json)
+
+---
 
 ### What can be used to confirm identity when votes
 
@@ -633,6 +655,26 @@ Police Media Spokesperson DIG Nihal Talduuwa today participated in the incident 
 [Data](articles/268efe6c.json)
 
 [Extended Data](ext_articles/268efe6c.ext.json)
+
+---
+
+### 668,676 posters of candidates
+
+*2024-09-19 11:24:24* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්ගේ--පෝස්ටර්--668-676-ක්-පොලීසියෙන්-ගලවලා/11-412021) · `si`
+
+During election campaigns, police removed 668,676 candidate posters, 1,613 vocal banners, and 1,632 propaganda materials. 103,840 more propaganda items were taken into custody.
+
+🟩
+
+Police have taken away 668,68 posters to this day with the end of the election campaigns from 179,203 such posters.
+
+In addition, 1613 vocal banners were removed and 1632 propaganda have been removed and 103,84 propaganda were taken into police custody, police said.
+
+◼️
+
+[Data](articles/1720d128.json)
+
+[Extended Data](ext_articles/1720d128.ext.json)
 
 ---
 
@@ -2325,45 +2367,5 @@ That’s why in politics I tend to look for the position in-between; the third s
 [Data](articles/9b3d95b2.json)
 
 [Extended Data](ext_articles/9b3d95b2.ext.json)
-
----
-
-### Voting with no confidence
-
-*2024-09-19 01:48:31* · [`dailyftlk`](https://www.ft.lk/columns/Voting-with-no-confidence/4-766859) · `en`
-
-We the voters fail to understand that we are only getting cheated
-
-Twenty-two million Sri Lankans are expected to have another leader for the nation after the national election on 21 September. It is interesting that the Election Commissioner is still expressing the potential leaders concern on rahu times! I wrote on voting without much confidence (https://www.ft.lk/columns/My-vote-goes-to-Voting-without-much-confidence/4-688684) just ahead of the last election as I felt the manifestos really did not offer credible and scientifically sound steps to alleviate national issues and also the fact that simple motherhood statements lack coherence with the candidate – the credibility gap!
-
-...
-
-[Data](articles/a23eb552.json)
-
-[Extended Data](ext_articles/a23eb552.ext.json)
-
----
-
-### 3 people killed
-
-*2024-09-19 01:47:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வாக்கி-டாக்கிகள்-வெடித்துச்-சிதறியதால்-3-பேர்-பலி/50-343990) · `ta`
-
-Lebanon: 3 killed, 12 dead in explosion linked to Hezbollah. Over 3000 affected. Incident occurred near hospital in Beirut. Communication equipment destroyed. Foreign reports confirm casualties and injuries.
-
-🟩
-
-In Lebanon, 12 people were killed in a subsequent explosion by Hizbullah organizations used by Hizbullah in Lebanon.. Up to more than 3000 people have reached.
-
-The pagans held by Hizbullah members exploded in various places, including the al-Shahra Hospital in Beirut, the capital of Lebanon.
-
-In the meantime, Hizbullavir's communication equipment, Talkie Talkie equipment, has been raging in the southern parts of Lebanon yesterday in the capital Beirut.
-
-Three people have died and 15 have been injured, according to foreign reports.. (A)
-
-◼️
-
-[Data](articles/7032e86e.json)
-
-[Extended Data](ext_articles/7032e86e.ext.json)
 
 ---

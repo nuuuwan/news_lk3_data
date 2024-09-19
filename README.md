@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 10:38:08**
+As of **2024-09-19 10:56:44**
 
 ## Newspaper Stats
 
-*Scraped **44,697** Articles*
+*Scraped **44,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,125
 dailymirrorlk | 4,733
 adaderanalk | 5,254
-tamilmirrorlk | 5,853
+tamilmirrorlk | 5,855
 virakesarilk | 7,141
 adaderanasinhalalk | 7,651
 
@@ -26,25 +26,75 @@ adaderanasinhalalk | 7,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,696 (100.0%) of 44,697 articles have been extended.
+44,699 (100.0%) of 44,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
 
-### පාසල් නිවාඩු දිනයක් ගැන දැනුම්දීමක්
+### Hotel owner shot dead
+
+*2024-09-19 10:29:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-உரிமையாளர்-சுட்டுக்-கொலை/175-344015) · `ta`
+
+Dehiwala hotel owner killed: 43-year-old Ananda Viswanathan shot by motorcyclists. Police investigating.
+
+🟩
+
+The Kohuwala police said that the incident took place on Wednesday night (18), the owner of a hotel in Saranangara Road, Dehiwala.
+
+The 43 -year -old drama Viswanathan (Ananda), the owner of a hotel on 112/1 Saranangara Road, Kalubowila, was murdered.
+
+Two motorcyclists have been shot dead by helmets and further investigations are being carried out by the police.
+
+◼️
+
+[Data](articles/6a7112f9.json)
+
+[Extended Data](ext_articles/6a7112f9.ext.json)
+
+---
+
+### Notification about a school holiday
 
 *2024-09-19 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201182) · `si`
 
-සැප්තැම්බර් 20 වන සිකුරාදා දින දිවයිනේ සියලුම පාසල්වලට නිවාඩු දිනයක් බව අධ්‍යාපන අමාත්‍යංශය නිවේදනය කෙරෙයි.
+Schools closed Sept 20 due to elections. Holiday declared by Ministry of Education. Classes resume Sept 23.
 
-සැප්තැම්බර් මස 21 වන දින පැවැත්වීමට නියමිත ජනාධිපතිවරණය හේතුවෙන් මැතිවරණ කොමිෂන් සභාවේ සභාපතිගේ ඉල්ලීමක් මත අධ්‍යාපන අමාත්‍යංශය විසින් එම තීරණය ගෙන තිබේ.
+🟩
 
-නැවත පාසල් ආරම්භය සැප්තැම්බර් 23 වන දිනයේදී සිදුවන බව වැඩිදුරටත් දැනුම් දී ඇත.
+The Ministry of Education has announced that all schools in the island on Friday, September 20, announced a holiday.
+
+The decision was taken by the Ministry of Education on the request of the Elections Commission of Elections due to the presidential election on September 21.
+
+The school starts have been reported on September 23.
 
 ◼️
 
 [Data](articles/43fa9911.json)
+
+[Extended Data](ext_articles/43fa9911.ext.json)
+
+---
+
+### Holidays for schools on Friday
+
+*2024-09-19 10:09:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளியன்று-பாடசாலைகளுக்கு-விடுமுறை/175-344013) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Ministry of Education announces nationwide school holiday on Friday."
+
+🟩
+
+The Ministry of Education has announced that all schools across the country will be given a holiday on Friday.
+
+◼️
+
+[Data](articles/67d5088f.json)
+
+[Extended Data](ext_articles/67d5088f.ext.json)
 
 ---
 
@@ -234,17 +284,19 @@ Kohuwala police are conducting further investigations into the shooting incident
 
 One person is reported dead while two others have been injured in a shooting incident at Midigama in Matara.
 
-Police said that two unidentified gunmen who arrived on a motorcycle had opened fire at them.
+Police said the two unidentified gunmen, who arrived on a motorcycle, had opened fire at a person who was at a fish market in the Goviyapana area in the Midigama police area this morning (19) and had fled the scene.
 
-Meanwhile, another shooting had taken place at around 10.00 p.m. last night (18) inside a shop at Saranankara Road in Kohuwala police area.
+The owner of the fish stall, who sustained serious injuries from the gunfire, along with two other individuals who had arrived at the stall and were also injured from the shooting were admitted to the Karapitiya Hospital for treatment.
 
-The shop owner, a 43-year-old resident of Nedimala in Dehiwala, had succumbed to injuries after being admitted to the Kalubowila Hospital following the shooting.
+However, the fish market owner had succumbed to his injuries upon admission to the hospital.
 
-The shooting was reportedly carried out by two unidentified gunmen who had arrived on a motorcycle.
+The deceased is a 38-year-old resident of the Goviyapana area.
 
-The motive behind the shooting or any information regarding the suspects are yet to be uncovered.
+The body has been placed at the mortuary of the Karapitiya Hospital.
 
-◼️
+The preliminary investigations indicate that the murder was carried out on the directive of an organized criminal figure who is operating from abroad.
+
+...
 
 [Data](articles/2d3d1061.json)
 
@@ -2255,57 +2307,5 @@ Minister Premajayantha expressed his gratitude to the Chinese government and the
 [Data](articles/3b2c80a8.json)
 
 [Extended Data](ext_articles/3b2c80a8.ext.json)
-
----
-
-### Two killed in Omanthai accident
-
-*2024-09-18 18:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓமந்தை-விபத்தில்-இருவர்-பலி/175-343971) · `ta`
-
-Omanthai accident: Two killed while traveling to fuel station. Victims Sangeethan (40) and Yogarasa (42). Police investigating.
-
-🟩
-
-The accident occurred when two people were traveling from Omanthai swinethakulam to Vavuniya when they were traveling to the Omanthai refueling station when they were traveling to the Omanthai fuel station.
-
-The two injured in the accident were rescued by the road and admitted to the Vavuniya Hospital. However, they have already died at the hospital.
-
-Sangeethan (age 40) from the Omanthai Pandigaiyadakulam area, Yogarasa (age 42) from Mullaitivu.. Omanthai police are conducting investigations into the incident.
-
-◼️
-
-[Data](articles/458ab4a6.json)
-
-[Extended Data](ext_articles/458ab4a6.ext.json)
-
----
-
-### 63,000 policemen from election duties
-
-*2024-09-18 18:54:36* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-රාජකාරියට-පොලීසියේ-63000ක්/11-412008) · `si`
-
-63,000 police, 12,000 civil defense deployed for elections. 449 complaints, 108 arrests. Police patrolling 3083 locations. Special units guarding Election Commission. Social media monitoring for threats. No gatherings near polls. Alcohol, weapons banned.
-
-🟩
-
-Attorney at Law Talduuwa, the DIG Talduuwa said that over 63,000 police officers and 12,000 civil defense department were deployed for election duties.
-
-He said that 449 complaints have been received regarding the presidential election and 108 persons have been arrested so far.
-
-He said that these officials will be deployed to deploy for election centers and 3083 mobile patrols, he said.
-
-He said that roadbloods were being barred by the election day and the election day and the police special officers were deployed in addition to the police officers.
-
-According to Nihal Talduuwa, he has been deployed for the election duties and the police officers have been deployed for election duties, including the power plants and public places.
-
-He added that a special monastery has been provided to the premises of the Election Commission and mobile patrols covering the island.
-
-He added that the election campaigns ended after 12 pm last night and could run the law and other offices.
-
-...
-
-[Data](articles/78b61319.json)
-
-[Extended Data](ext_articles/78b61319.ext.json)
 
 ---

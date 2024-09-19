@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 10:56:44**
+As of **2024-09-19 11:09:46**
 
 ## Newspaper Stats
 
-*Scraped **44,699** Articles*
+*Scraped **44,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,703
 dailyftlk | 2,980
 adalk | 4,125
 dailymirrorlk | 4,733
-adaderanalk | 5,254
+adaderanalk | 5,256
 tamilmirrorlk | 5,855
 virakesarilk | 7,141
 adaderanasinhalalk | 7,651
@@ -26,11 +26,41 @@ adaderanasinhalalk | 7,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,699 (100.0%) of 44,699 articles have been extended.
+44,699 (100.0%) of 44,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Another shooting: Youth gunned down in Kurunegala
+
+*2024-09-19 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102074/another-shooting-youth-gunned-down-in-kurunegala) · `en`
+
+A 30-year-old youth has been killed in a shooting incident in the Rasanayakapura area in Kurunegala.
+
+This is the third shooting incident reported in the country within the last 24 hours.
+
+◼️
+
+[Data](articles/cff88ebe.json)
+
+---
+
+### Schools closed tomorrow due to presidential election
+
+*2024-09-19 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102073/schools-closed-tomorrow-due-to-presidential-election) · `en`
+
+The Ministry of Education (MoE) has announced that Friday (September 20) has been declared a holiday for all schools islandwide.
+
+Due to the presidential election to be held on September 21, the Ministry of Education has taken this decision on the request of the Chairman of the Election Commission.
+
+It is further informed that the schools are set to reopen on September 23.
+
+◼️
+
+[Data](articles/1f269a8f.json)
+
+---
 
 ### Hotel owner shot dead
 
@@ -2255,57 +2285,5 @@ Meanwhile, the Ministry of Education is informed that all schools in the island 
 [Data](articles/0727bfc1.json)
 
 [Extended Data](ext_articles/0727bfc1.ext.json)
-
----
-
-### The Elections Commission requested the Climate Report
-
-*2024-09-18 19:13:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலை-அறிக்கையை-கோரியது-தேர்தல்கள்-ஆணைக்குழு/175-343973) · `ta`
-
-Election Commission requests climate report to prevent voting disruptions due to weather. Meteorology department prepares forecast. Navy readies boats for potential floods. District officials make emergency preparations.
-
-🟩
-
-The Election Commission has received a full report on the country's climate situation in the coming days.
-
-He also said that the Department of Meteorology has received a report in order to prevent the voting disruption in the case of bad weather conditions and prepare it in advance.
-
-In addition, the Election Commission has requested the weather report once every three hours after 3:30 pm on Wednesday (20th).
-
-In the meantime, the Election Commission has recently advised all district election officials to prepare necessary arrangements to prevent voting from bad weather and disaster.
-
-The Election Commission has advised the Navy to prepare boats to deal with the sudden flood.
-
-◼️
-
-[Data](articles/e5f51a79.json)
-
-[Extended Data](ext_articles/e5f51a79.ext.json)
-
----
-
-### Plan to deliver uniform clothes before January 20
-
-*2024-09-18 19:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடை-துணிகளை-ஜனவரி-20-க்கு-முன்-வழங்க-திட்டம்/175-343972) · `ta`
-
-Sri Lanka's Education Ministry plans to distribute 4.3 million school uniforms, funded by China, before January 20, 2025. Three shipments are scheduled for November 13, 21, and December 20. The uniforms will be provided free of charge, saving the government 7 billion rupees. Minister Premajayantha thanked China for the assistance.
-
-🟩
-
-Minister of Education Susil Premajayantha said that the Ministry of Education is ready to provide school uniforms for 2025 with Chinese assistance on January 20.
-
-Following a discussion with the Chinese Ambassador and the Chinese government -related officials, the Chinese government will grant all 4.3 million uniforms for 4.3 million school students before the 2025 new school installment.
-
-Accordingly, the first reserve for uniform cloth will be received on November 13, the second reserve will be received on November 21 and the third reserve will be received on December 20th.
-
-The Government of Sri Lanka has been able to provide these uniforms for 100% free of Rs.. Has been able to save 7,000 million funds. Uniform fabrics are scheduled to be distributed before January 20.
-
-Minister Premajayantha expressed his gratitude to the Chinese government and the Chinese Ambassador for this funding.
-
-◼️
-
-[Data](articles/3b2c80a8.json)
-
-[Extended Data](ext_articles/3b2c80a8.ext.json)
 
 ---

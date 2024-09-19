@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 17:59:05**
+As of **2024-09-19 18:19:11**
 
 ## Newspaper Stats
 
-*Scraped **44,766** Articles*
+*Scraped **44,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,707
 dailyftlk | 2,980
 adalk | 4,138
 dailymirrorlk | 4,733
-adaderanalk | 5,263
+adaderanalk | 5,264
 tamilmirrorlk | 5,860
 virakesarilk | 7,155
-adaderanasinhalalk | 7,673
+adaderanasinhalalk | 7,674
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,766 (100.0%) of 44,766 articles have been extended.
+44,768 (100.0%) of 44,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### This is how the winner of the presidential election is declared
+
+*2024-09-19 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201206) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Election winner declared after counting postal votes. Candidates need 50%+1 vote to win. If no candidate reaches threshold, preferential votes count. Results announced once all votes tallied.
+
+🟩
+
+After the officers and other requirements are completed. Elections Commission President of Elections. M. A. L. Says Mr. Ratnayake.
+
+Speaking at a press conference held at the Government Information Department regarding the presidential election, Mr. Ratnayake further stated that the counting of postal votes. It has been taken to commence around 4.15.
+
+...
+
+[Data](articles/878e2fe2.json)
+
+[Extended Data](ext_articles/878e2fe2.ext.json)
+
+---
+
+### Sri Lanka Police make request to voters visiting polling stations
+
+*2024-09-19 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102084/sri-lanka-police-make-request-to-voters-visiting-polling-stations-) · `en`
+
+Sri Lanka Police has informed the voters regarding the items that are not permitted at polling stations when they visit to cast their votes.
+
+Joining the “Derana Aruna” program today (19), Police Media Spokesman DIG Nihal Talduwa explained the responsibility of voters when they go to cast their votes.
+
+He stated that they have observed some individuals consume alcohol from the morning and then struggle to enter the polling station where they are unable to make a proper decision.
+
+DIG Nihal Thalduwa further emphasised that the voters should behave in a manner that does not disrupt the voting process.
+
+“If someone arrives intoxicated to that place, the police will have to remove them from the premises”, he added.
+
+Thalduwa also noted instances where people attempt to enter polling stations with objects such as sharp weapons, small knives etc. or mobile phones.
+
+...
+
+[Data](articles/b3a8e89f.json)
+
+[Extended Data](ext_articles/b3a8e89f.ext.json)
+
+---
 
 ### National Security Council meets
 
@@ -2385,41 +2433,5 @@ This year, the Sri Lanka Pavilion featured an impressive line-up of 35 leading S
 [Data](articles/4d20d225.json)
 
 [Extended Data](ext_articles/4d20d225.ext.json)
-
----
-
-### Sri Lanka-UAE business JV to strengthen industry ties on graphene processing partnership in Sri Lanka
-
-*2024-09-19 03:07:46* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-UAE-business-JV-to-strengthen-industry-ties-on-graphene-processing-partnership-in-Sri-Lanka/34-766886) · `en`
-
-From left: Inovartic Investment Chairman and Co-Founder Saif Aldarmaki, and Abu Dhabi Department of Economic Development (ADDED) in UAE Acting Director General of Economic Affairs Badr Al-Olama
-
-Inovartic Investment Lanka to work in collaboration with Abu Dhabi University (ADU) and Sri Lanka Institute of Nanotechnology (SLINTEC) across Sri Lanka and the UAE
-
-Inovartic Investment Lanka Ltd., a joint venture between Sri Lanka’s Apex Asia Holdings and UAE’s Inovartic Investment LLC, has embarked on an initiative to accelerate the advanced manufacturing of graphene and graphene-based products in Sri Lanka and Abu Dhabi.
-
-...
-
-[Data](articles/d5bbc9b0.json)
-
-[Extended Data](ext_articles/d5bbc9b0.ext.json)
-
----
-
-### Delegation from Port City visits Doha to woo investments
-
-*2024-09-19 03:05:35* · [`dailyftlk`](https://www.ft.lk/business/Delegation-from-Port-City-visits-Doha-to-woo-investments/34-766885) · `en`
-
-Marking a significant step toward fostering stronger business ties between Sri Lanka and Qatar to enhance investment opportunities, a special delegation from Port City, Sri Lanka visited key real estate companies in Doha from 3 to 5 September 2024.
-
-The delegation was facilitated by the Embassy of Sri Lanka in Doha in collaboration with the Qatar -Sri Lanka Business Council.
-
-The delegation was led by General Manager of Investment Promotion and Marketing Tian Zheng and Senior Manager of Investment Promotion and Marketing Asiri Peramunegegama. The visit aimed at promoting real estate investment opportunities in Sri Lanka’s landmark project, Port City Colombo, a vibrant international hub for commerce, finance, and tourism. The delegation engaged in high-level discussions with several leading real estate investment companies in Qatar to explore potential partnerships and investments in diverse sectors.
-
-...
-
-[Data](articles/0bf5082f.json)
-
-[Extended Data](ext_articles/0bf5082f.ext.json)
 
 ---

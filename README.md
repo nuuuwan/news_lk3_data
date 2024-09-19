@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 18:19:11**
+As of **2024-09-19 18:33:19**
 
 ## Newspaper Stats
 
-*Scraped **44,768** Articles*
+*Scraped **44,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,138
+adalk | 4,139
 dailymirrorlk | 4,733
 adaderanalk | 5,264
 tamilmirrorlk | 5,860
 virakesarilk | 7,155
-adaderanasinhalalk | 7,674
+adaderanasinhalalk | 7,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,768 (100.0%) of 44,768 articles have been extended.
+44,770 (100.0%) of 44,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### New Zealand a strong answer
+
+*2024-09-19 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201207) · `si`
+
+Here's a 200-character summary:
+
+
+
+NZ: 255/4 (Sealand 70*, Williamson 55*); SL: 305 all out. First Test day 1 update.
+
+🟩
+
+New Zealand scored 255 runs for the loss of 4 wickets at the end of the first day of the first Test match between Sri Lanka and New Zealand.
+
+Tom Sealand (70 points) and Kane Williamson (55) recorded for New Zealand.
+
+Sri Lanka scored 305 runs for the loss of their first innings in the first innings.
+
+◼️
+
+[Data](articles/282d5c8f.json)
+
+[Extended Data](ext_articles/282d5c8f.ext.json)
+
+---
 
 ### This is how the winner of the presidential election is declared
 
@@ -143,6 +169,32 @@ The Presidential Media Unit strosizes the financial stability of the country thr
 [Data](articles/2addc569.json)
 
 [Extended Data](ext_articles/2addc569.ext.json)
+
+---
+
+### Elections to elections
+
+*2024-09-19 16:30:39* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-සුරාසැල්-වසයි/11-412027) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Excise Department: Allocations closed nationwide on 21st and 22nd. Three-day tourist passes allowed for high-end hotels. 1913 hotline open 24/7.
+
+🟩
+
+The Excise Department states that allocations will be closed throughout the country on the day (21st) and the next day.
+
+However, the three-day tourist papers approved in the two days, however, high-quality hotels and special hotels and special tourists have been permitted for travelers who remain allegedly staying.
+
+The 1913 telephone number is open 24 hours a day.
+
+◼️
+
+[Data](articles/fb12da9b.json)
+
+[Extended Data](ext_articles/fb12da9b.ext.json)
 
 ---
 
@@ -2401,37 +2453,5 @@ General Secretary and President To Lam extended a warm welcome to Ambassador Per
 [Data](articles/e615a1af.json)
 
 [Extended Data](ext_articles/e615a1af.ext.json)
-
----
-
-### President Ranil Wickremesinghe last night participated in a special “Adishtana Pooja”
-
-*2024-09-19 03:11:38* · [`dailyftlk`](https://www.ft.lk/news/President-Ranil-Wickremesinghe-last-night-participated-in-a-special-Adishtana-Pooja/56-766888) · `en`
-
-President Ranil Wickremesinghe last night participated in a special “Adishtana Pooja” at the Independence Square seeking blessings for his bid at the 21 September election
-
-◼️
-
-[Data](articles/dc1dc194.json)
-
-[Extended Data](ext_articles/dc1dc194.ext.json)
-
----
-
-### Sri Lanka pavilion shines at 70th Bangkok Gems and Jewellery Fair
-
-*2024-09-19 03:08:57* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-pavilion-shines-at-70thBangkok-Gems-and-Jewellery-Fair/34-766887) · `en`
-
-The Embassy and Permanent Mission of Sri Lanka inaugurated the Sri Lanka Pavilion at the prestigious 70th Bangkok Gems and Jewellery Fair on 9 September.
-
-The Ministry of Commerce of Thailand Permanent Secretary Vuttikrai Leewiraphan, officially inaugurated the Sri Lanka Pavilion, marking a significant milestone in the collaboration between Sri Lanka and Thailand in the gems and jewellery sector.
-
-This year, the Sri Lanka Pavilion featured an impressive line-up of 35 leading Sri Lankan gem and jewellery companies, each showcasing a diverse array of exquisite products. The pavilion highlighted Sri Lanka’s status as a global leader in the gems and jewellery industry, renowned as a cradle of treasures for its precious, natural gemstones and one of the oldest source countries for blue sapphires.
-
-...
-
-[Data](articles/4d20d225.json)
-
-[Extended Data](ext_articles/4d20d225.ext.json)
 
 ---

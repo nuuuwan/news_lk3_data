@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 15:38:16**
+As of **2024-09-19 15:57:14**
 
 ## Newspaper Stats
 
-*Scraped **44,753** Articles*
+*Scraped **44,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,260
 tamilmirrorlk | 5,860
 virakesarilk | 7,155
-adaderanasinhalalk | 7,667
+adaderanasinhalalk | 7,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,753 (100.0%) of 44,753 articles have been extended.
+44,754 (100.0%) of 44,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Knives in China
+
+*2024-09-19 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201200) · `si`
+
+Here's a 200-character summary:
+
+
+
+Japanese student dies from knife wound in China. 44-year-old suspect arrested. Cause unclear. Foreign minister calls for calm. Attacks on foreigners reported in some areas.
+
+🟩
+
+A 10-year-old Japanese student has died of a 10-year-old knife stress.
+
+Foreign media reports that a student who was studying in a Japanese school in the country.
+
+The 44-year-old suspect was arrested by the Chinese security forces and the cause of the murder is yet to be determined.
+
+Japanese External Affairs Minister Yoko Kikika has said that such incidents should not be targeted at no country.
+
+Foreign strikes have been observed in the attacks targeting foreigners in some areas of China.
+
+◼️
+
+[Data](articles/613adaf3.json)
+
+[Extended Data](ext_articles/613adaf3.ext.json)
+
+---
 
 ### Thousands of explosion incidents Lebanon in the grip of fear
 
@@ -636,11 +666,17 @@ The owner of the shopping center said that the fire has caused a loss of about 1
 
 *2024-09-19 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102075/hc-freezes-two-luxury-apartments-purchased-by-keheliyas-son) · `en`
 
-The Colombo High Court has issued an order preventing the use of two luxury apartments located in the Colpetty area which had been purchased by Ramitha Rambukwella, the son of former Health Minister Keheliya Rambukwella.
+The Colombo High Court has issued an order preventing the use of two luxury apartments located in the Colpetty area which had been purchased by Ramith Rambukwella, the son of former Health Minister Keheliya Rambukwella.
 
-The two luxury apartments had reportedly been purchased for Rs. 80 million and Rs. 65 million.
+The two luxury apartments had allegedly been purchased for Rs. 80 million and Rs. 65 million.
 
-The order was issued by the Colombo High Court today after considering a request from the Bribery Commission.
+The order was issued today (19) by Colombo High Court Judge Manjula Thilakaratne after considering a request from the Bribery Commission.
+
+The Bribery Commission informed the court that Mr. Ramith Rambukwella had purchased two apartments from an apartment complex located in Colpetty for Rs. 80 million and Rs. 65 million respectively.
+
+The commission requested the court today to issue an order to prohibit the property from being used or accessed as an investigation is being carried out in this regard.
+
+The High Court Judge, who considered the request, issued an order preventing the use of two luxury apartments until December 19.
 
 ◼️
 
@@ -2367,35 +2403,5 @@ Accordingly, 45 Tamil Nadu fishermen have been fined Rs 10 crore. (A)
 [Data](articles/350a04fe.json)
 
 [Extended Data](ext_articles/350a04fe.ext.json)
-
----
-
-### 45 Tamil Nadu fishermen fined ten crores of rupees
-
-*2024-09-19 02:05:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/45-தமிழக-மீனவர்களுக்கு-பத்து-கோடி-ரூபா-அபராதம்/175-343992) · `ta`
-
-Tamil Nadu fishermen fined 10 crore rupees by Sri Lankan court for illegal fishing activities. 45 fishermen penalized, including 35 from Pamban and 10 from Thoothukudi. Fines range from 35 lakh to 1 crore rupees per person. Some face imprisonment for non-payment.
-
-🟩
-
-The Puttalam court yesterday ordered a total of Rs.
-
-On August 8, the Sri Lankan navy arrested 35 fishermen from the Pamban fishing harbor near Rameswaram.
-
-35 fishermen have been filed under the Criminal Persons under the categories of fishing and the use of banned nets.
-
-Following the fishermen's detention, 35 fishermen were produced before the Puttalam Court. Judge Wimalaratna, who was hearing the case, said that 12 fishermen from a long country boat. 35 lakhs and a fine of Rs.. The Puttalam court has ordered three months' imprisonment for failing to pay the fine.
-
-In addition, 10 fishermen who went to sea from Daruwaikulam in Thoothukudi district were arrested by the Sri Lankan navy in a fishing booth owned by Anthony Then Denilla.
-
-These 10 fishermen. 35 lakhs fined. The Puttalam court has ordered the sentence to be sentenced to six months in prison for failing to pay the fine.
-
-Accordingly, 45 Tamil Nadu fishermen have been fined Rs 10 crore. (A)
-
-◼️
-
-[Data](articles/964a3d49.json)
-
-[Extended Data](ext_articles/964a3d49.ext.json)
 
 ---

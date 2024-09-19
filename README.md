@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 08:57:25**
+As of **2024-09-19 09:10:17**
 
 ## Newspaper Stats
 
-*Scraped **44,677** Articles*
+*Scraped **44,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 2,703
 dailyftlk | 2,980
 adalk | 4,124
 dailymirrorlk | 4,733
-adaderanalk | 5,250
+adaderanalk | 5,253
 tamilmirrorlk | 5,846
 virakesarilk | 7,140
-adaderanasinhalalk | 7,645
+adaderanasinhalalk | 7,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,677 (100.0%) of 44,677 articles have been extended.
+44,682 (100.0%) of 44,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### One dead, 2 injured in shooting at Midigama
+
+*2024-09-19 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102071/one-dead-2-injured-in-shooting-at-midigama) · `en`
+
+One person is reported dead while two others have been injured in a shooting incident at Midigama in Matara.
+
+Police said that two unidentified gunmen who arrived on a motorcycle had opened fire at them.
+
+◼️
+
+[Data](articles/2d3d1061.json)
+
+[Extended Data](ext_articles/2d3d1061.ext.json)
+
+---
 
 ### Death in one of the shootings
 
@@ -82,6 +98,46 @@ Meanwhile, the Railway Department has taken steps to operate a special train bet
 
 ---
 
+### Advertising on presidential election is over
+
+*2024-09-19 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201178) · `si`
+
+Sri Lanka presidential election campaign ends. Voting set for president selection.
+
+🟩
+
+The vote on the presidential election is scheduled to be held for the appointment of the President of Sri Lanka.
+
+◼️
+
+[Data](articles/4af8c160.json)
+
+[Extended Data](ext_articles/4af8c160.ext.json)
+
+---
+
+### Shop owner killed in shooting at Kohuwala
+
+*2024-09-19 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102070/shop-owner-killed-in-shooting-at-kohuwala) · `en`
+
+One person has been killed in a shooting incident inside a shop at Saranankara Road in Kohuwala police area.
+
+The victim, a 43-year-old resident of Nedimala in Dehiwala, had succumbed to injuries after being admitted to the Kalubowila Hospital.
+
+The shooting had taken place last night (19) while the victim is said to be the owner of the shop in question.
+
+The shooting was reportedly carried out by two unidentified gunmen who had arrived on a motorcycle.
+
+The motive behind the shooting or any information regarding the suspects are yet to be uncovered.
+
+◼️
+
+[Data](articles/ee08d6c4.json)
+
+[Extended Data](ext_articles/ee08d6c4.ext.json)
+
+---
+
 ### Will the scholarship exam be canceled?
 
 *2024-09-19 08:06:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-ரத்து-செய்யப்படுமா/175-344004) · `ta`
@@ -103,6 +159,52 @@ He said that the 16 -question paper was in the debate and that there was only th
 [Data](articles/69a14ba6.json)
 
 [Extended Data](ext_articles/69a14ba6.ext.json)
+
+---
+
+### Container accident on Southern Expressway
+
+*2024-09-19 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201177) · `si`
+
+Here's a 200-character summary:
+
+
+
+Container accident blocks lane on Southern Expressway near Colombo. One lane closed; traffic congestion reported. Incident occurred early morning according to Ada Derana.
+
+🟩
+
+Among the 88.3 kilometers near Colombo to Colombo, between 88.3 kilometers near the Southern Expressway.
+
+"Today, Ada Derana reporter said the accident occurred in early morning.
+
+It is reported that one lane has been blocked by two in one lane with one lane, but the other square-traffic is crisis.
+
+◼️
+
+[Data](articles/0de39684.json)
+
+[Extended Data](ext_articles/0de39684.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-09-19 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102069/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and Southern provinces and in Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva provinces during the evening or night, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in North-central and Southern provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/8ca50711.json)
+
+[Extended Data](ext_articles/8ca50711.ext.json)
 
 ---
 
@@ -2203,119 +2305,5 @@ Sierra Cables was trading flat at 9.80 rupees on Wednesday (18).
 [Data](articles/0e694638.json)
 
 [Extended Data](ext_articles/0e694638.ext.json)
-
----
-
-### Kaminda saves innings
-
-*2024-09-18 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201161) · `si`
-
-Sri Lanka vs New Zealand Test: Kaminda saves innings as SL scores 302/7. Komindu Mendis shines with 114*. William O'Reilly takes 3 wkts, Glenn Phillips 2.
-
-🟩
-
-Sri Lanka scored 302 runs for the loss of 7 wickets when the first day of the first Test match between Sri Lanka and New Zealand.
-
-Komindu Mendis, who played a supernicropy for Sri Lanka, scored 114 runs.
-
-William O'ruk took 3 wickets in their bowling on New Zealand. Glenn Phillips took 2 wickets.
-
-◼️
-
-[Data](articles/d38d0810.json)
-
-[Extended Data](ext_articles/d38d0810.ext.json)
-
----
-
-### Sri Lanka on the first day
-
-*2024-09-18 17:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/முதலாம்-நாளில்-முன்னிலையில்-இலங்கை/44-343966) · `ta`
-
-Sri Lanka vs New Zealand: Day 1 summary. Sri Lanka's Tanjaya de Silva led the team in the two-match series opener in Galle. The team faced challenges early but recovered through Dinesh Chandimal's partnership with Tim Southee. Key players like Glenn Phillips and Kusal Mendis contributed significantly. Sri Lanka ended the day at 302/9, with Ramesh Mendis on 14* and Prabath Jayasuriya yet to score.
-
-🟩
-
-In the two -match series, Sri Lanka's leader Tanjaya de Silva Damadhani announced that he would win the first round of the tournament, which began today (18) in Galle.
-
-Sri Lanka, who first played in that way, lost to Dimuth Karunaratne at the outset to William O Rurg. Later in a short time, Nisanga scored 27 runs.
-
-Dinesh Chandimal, a pair, then moved to New Zealand captain Tim Saudi with 30 runs as Angelo Madhus innings moved.
-
-De Silva Glenn Philips fell to the Philips, followed by the Mendis on one side, and Madus fell to O Rurg with 36 runs.. Kusal then fell to Philips with 50 runs with Kusal Mendis, with Kusal Mendis.
-
-In the end, Ajaz Patel fell to 114 runs, losing 7 wickets at the end of the first day and Sri Lanka got 302 runs in their first innings.. Ramesh Mendis is on the field with 14 runs and Prabhat Jayasuriya is not getting the run.
-
-◼️
-
-[Data](articles/651eafc5.json)
-
-[Extended Data](ext_articles/651eafc5.ext.json)
-
----
-
-### Sanjeewa bans several things belonging to Mahanama
-
-*2024-09-18 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201159) · `si`
-
-Sanjeewa bans Mahanama's properties: 3 lands, 3 vehicles. Order issued by High Court until Dec 18. Requested by Bribery Commission.
-
-🟩
-
-Former Assistant Superintendent of Assistant Assistant Superintendent of Police of Anuradhapura has been banned to ban several property belonging to Mr. Mahanama Mahanama.
-
-The order was issued after considering the request made by the Bribery Commission.
-
-The Bribery Commission had requested the court to issue three lands and three vehicles claimed by the Assistant Superintendent of Police.
-
-The High Court issued an order by banning the relevant property until December 18.
-
-◼️
-
-[Data](articles/9a06bea8.json)
-
-[Extended Data](ext_articles/9a06bea8.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 303.75/85, bond yields up
-
-*2024-09-18 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-303-75-85-bond-yields-up-179913/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 303.75/85 to the US dollar on Wednesday, from 302.25/80 on Friday, dealers said, while bond yields were up.
-
-A bond maturing on 15.02.2028 closed at 11.70/80 percent, up from 11.55/65 percent.
-
-A bond maturing on 15.06.2029 closed at 13.80/90 percent, up from 13.70/80 percent. (Colombo/Sep13/2024)
-
-◼️
-
-[Data](articles/25b9742e.json)
-
-[Extended Data](ext_articles/25b9742e.ext.json)
-
----
-
-### The Tamil people should only give the general candidate - Ariyanendran
-
-*2024-09-18 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194029) · `ta`
-
-Tamil candidate Ariyanendran urges voters to support him exclusively in presidential election, warning against spreading false information via AI technology.
-
-🟩
-
-The Tamil Candidate Paa has said that many parties are planning to spread the Tamil general candidate to spread their votes on the 21st.. Ariyanendran said.
-
-Yall. He said this during a media briefing held at the Media Center on Wednesday (18).
-
-Vote for the Tamil general candidate in the upcoming presidential election. Some say to give preferential votes to other candidates. Won't do so. Vote for the Tamil general candidate alone. That is the historical duty of every Tamil people.
-
-On the 23rd of this month, we started the campaign work on "Nam for us" in Jaffna Police Kandy and carried out campaign work in eight districts. Thereby increasing the reception of the general candidate among the people.
-
-...
-
-[Data](articles/0955bb18.json)
-
-[Extended Data](ext_articles/0955bb18.ext.json)
 
 ---

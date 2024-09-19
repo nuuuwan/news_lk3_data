@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 04:56:56**
+As of **2024-09-20 05:07:42**
 
 ## Newspaper Stats
 
-*Scraped **44,829** Articles*
+*Scraped **44,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
-tamilmirrorlk | 5,872
+tamilmirrorlk | 5,873
 virakesarilk | 7,180
 adaderanasinhalalk | 7,679
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,829 (100.0%) of 44,829 articles have been extended.
+44,829 (100.0%) of 44,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### ’வாக்களிக்குமாறு இரந்து கேட்க முடியாது’
+
+*2024-09-20 02:59:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிக்குமாறு-இரந்து-கேட்க-முடியாது/175-344043) · `ta`
+
+ஆறு முக்கிய விடயங்கள் தடை செய்யப்பட்டுள்ளதாக தேர்தல் ஆணைக்குழு அறிவித்துள்ளது. அதனடிப்படையில்,    வாக்களிக்குமாறு இரந்து கேட்டல,  எவரேனும் தேருநரின் வாக்கைப் பரிந்து கேட்டல்,  குறிப்பிட்ட எவரேனும் வேட்பாளருக்கு வாக்களிக்க வேண்டாமென்று எவரேனும் நேருநரை தூண்டி வசப்படுத்த முயலுதல்,  தேர்தலில் வாக்களிக்க வேண்டாமென்று நேருநரை தூண்டி வசப்படுத்த முயலுதல் தடைசெய்யப்பட்டுள்ளது.
+
+அத்துடன், தேர்தல் தொடர்பான, (யாதேனும் அலுவலக முறையிலான துண்டுப் பிரசுரம், ஒட்டு விளம்பரம், சுவரொட்டி, புகைப்படம், சித்திரம் அல்லது அறிவித்தல் எதனையும் தவிர்ந்த) யாதேனும் நுண்டுப் பிரசுரம், ஒட்டு விளம்பரம், சுவரொட்டி, புகைப்படம் அல்லது சித்திரம் அல்லது அறிவித்தல் அல்லது எவரேனும் வேட்பாளருக்கு குறித்தொதுக்கப்பட்ட சின்னம் எதனையும் விநியோகித்தல் அல்லது காட்சிக்கு வைத்தல் போன்ற செயல்களில் ஈடுபட்டால் தண்டனைக்குரிய குற்றமென தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/bd39a96f.json)
+
+---
 
 ### 'Director Tilak' K. 'Where Dad' released by Bhagyaraj independent music
 
@@ -2491,27 +2505,5 @@ The owner of the shopping center said that the fire has caused a loss of about 1
 [Data](articles/b2835e70.json)
 
 [Extended Data](ext_articles/b2835e70.ext.json)
-
----
-
-### HC freezes two luxury apartments purchased by Keheliya’s son
-
-*2024-09-19 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102075/hc-freezes-two-luxury-apartments-purchased-by-keheliyas-son) · `en`
-
-The Colombo High Court has issued an order preventing the use of two luxury apartments located in the Colpetty area which had been purchased by Ramith Rambukwella, the son of former Health Minister Keheliya Rambukwella.
-
-The two luxury apartments had allegedly been purchased for Rs. 80 million and Rs. 65 million.
-
-The order was issued today (19) by Colombo High Court Judge Manjula Thilakaratne after considering a request from the Bribery Commission.
-
-The Bribery Commission informed the court that Mr. Ramith Rambukwella had purchased two apartments from an apartment complex located in Colpetty for Rs. 80 million and Rs. 65 million respectively.
-
-The commission requested the court today to issue an order to prohibit the property from being used or accessed as an investigation is being carried out in this regard, as part of an investigation against former Health Minister Keheliya Rambukwella.
-
-...
-
-[Data](articles/c25928f0.json)
-
-[Extended Data](ext_articles/c25928f0.ext.json)
 
 ---

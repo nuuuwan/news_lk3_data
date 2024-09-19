@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 18:58:27**
+As of **2024-09-19 19:10:18**
 
 ## Newspaper Stats
 
-*Scraped **44,780** Articles*
+*Scraped **44,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,140
+adalk | 4,141
 dailymirrorlk | 4,733
 adaderanalk | 5,264
 tamilmirrorlk | 5,860
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,780 (100.0%) of 44,780 articles have been extended.
+44,780 (100.0%) of 44,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### ජාතික ආරක්ෂක කවුන්සිලය රැස්වෙයි
+
+*2024-09-19 18:23:55* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ආරක්ෂක-කවුන්සිලය-රැස්වෙයි/11-412029) · `si`
+
+ජාතික ආරක්ෂක කවුන්සිලය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (19) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී රැස් විය.
+
+එළැඹෙන 2024 ජනාධිපතිවරණය ස්වාධීන හා නිදහස් මැතිවරණක් ලෙස පැවැත්වීමට අවශ්‍ය ආරක්ෂක විධිවිධාන සැලසීම පිළිබඳ මෙහිදී සාකච්ඡාවට ලක් කෙරිණි.
+
+මැතිවරණ දිනයේ දී රට තුළ නීතිය හා සාමය ආරක්ෂා කිරීම, අපේක්ෂකයන්ගේ ආරක්ෂාව තහවුරු කිරීම, ජන්ද මධ්‍යස්ථාන හා ජන්ද ගණන් කරන ස්ථාන ආශ්‍රිත ආරක්ෂාව සහතික කිරීම සඳහා මැතිවරණ කොමිසමට අවශ්‍ය පූර්ණ සහාය ලබා දීම පිළිබඳ මෙහිදී සාකච්ඡා විය.
+
+එසේම පශ්චාත් මැතිවරණ සමයේදී රට තුළ නීතිය හා සාමය ආරක්ෂා කරමින් ජනතාවගේ දෛනික ජීවිත අඩාල නොවන පරිදි පවත්වාගෙන යාමට හැකි පසුබිම සැලසීමට අවශ්‍ය සියලු පියවර ගන්නා ලෙස ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ආරක්ෂක අංශ ප්‍රධානීන්ට උපදෙස් දුන්නේය.
+
+◼️
+
+[Data](articles/9590744a.json)
+
+---
 
 ### New Zealand a strong answer
 
@@ -2443,29 +2461,5 @@ The public is asked to take care in the events of strong winds and lightning.
 [Data](articles/803fabfb.json)
 
 [Extended Data](ext_articles/803fabfb.ext.json)
-
----
-
-### The construction sector has not yet recovered due to the economic crisis
-
-*2024-09-19 07:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-நெருக்கடியால்-வீழ்ச்சியடைந்த-நிர்மாணத்துறை-இன்னும்-மீளவில்லை/175-344000) · `ta`
-
-Construction sector struggles post-economic crisis in Sri Lanka. Small firms closing, 11 offices shutting down. Government support lacking, foreign funding projects halted. 50 billion rupees allocated for restarting stalled projects in 2024 budget. Domestic sector development crucial for economic recovery.
-
-🟩
-
-Sri Lanka National Construction Association president Daryinton Paul said that the construction sector has not yet recovered the economic crisis in Sri Lanka.
-
-He said that the small construction department from about 2000 to 2500 is now leaving their business, with 11 offices in the 9 provinces of the country, giving clarity to the construction sector and strengthening them.
-
-He pointed out that the Sri Lanka National Construction Association has implemented various activities across the country to provide clarity in the country, with the inadequate clarity of the country's construction laws and the country's small and medium construction sector.
-
-Commenting on the one -day workshop to clarify to those in the construction sector last Friday, he said, “No government has made efforts to strengthen the collapse of the country in the country.. If the best construction sector is able to create in the country, the public can prevent wasting money.
-
-...
-
-[Data](articles/6b1cdbb4.json)
-
-[Extended Data](ext_articles/6b1cdbb4.ext.json)
 
 ---

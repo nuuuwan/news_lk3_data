@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 07:24:25**
+As of **2024-09-19 07:59:18**
 
 ## Newspaper Stats
 
-*Scraped **44,655** Articles*
+*Scraped **44,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,49 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 435
 colombotelegraphcom | 446
-islandlk | 2,624
+islandlk | 2,627
 economynextcom | 2,703
 dailyftlk | 2,980
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,839
+tamilmirrorlk | 5,840
 virakesarilk | 7,140
-adaderanasinhalalk | 7,642
+adaderanasinhalalk | 7,643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,655 (100.0%) of 44,655 articles have been extended.
+44,660 (100.0%) of 44,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Thundershowers at several areas and strong winds
+
+*2024-09-19 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201173) · `si`
+
+Heavy rain and strong winds expected in Western, Sabaragamuwa, Southern, Eastern, and Uva provinces. Thunderstorms may cause landslides. Take precautions against wind gusts.
+
+🟩
+
+Several spells of showers will occur in the Western, Sabaragamuwa and Southern provinces and several times in the Kandy and Nuwara Eliya Districts.
+
+Showers or thundershowers will occur at several places in the East and Uva provinces.
+
+From time to time in the Western balconies of the Central Mountains and in times of North-middle and Southern provinces.. It is said that there is about strong winds.
+
+The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
+
+◼️
+
+[Data](articles/1ff28fec.json)
+
+[Extended Data](ext_articles/1ff28fec.ext.json)
+
+---
 
 ### Rajitha claims Sajith-Namal have made an alliance to be President and Opposition leader
 
@@ -394,6 +418,36 @@ As too often in the past, Sri Lanka appears not to have broken its damaging tend
 
 ---
 
+### 45 Tamil Nadu fishermen fined ten crores of rupees
+
+*2024-09-19 02:05:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/45-தமிழக-மீனவர்களுக்கு-பத்து-கோடி-ரூபா-அபராதம்/175-343992) · `ta`
+
+Tamil Nadu fishermen fined 10 crore rupees by Sri Lankan court for illegal fishing activities. 45 fishermen penalized, including 35 from Pamban and 10 from Thoothukudi. Fines range from 35 lakh to 1 crore rupees per person. Some face imprisonment for non-payment.
+
+🟩
+
+The Puttalam court yesterday ordered a total of Rs.
+
+On August 8, the Sri Lankan navy arrested 35 fishermen from the Pamban fishing harbor near Rameswaram.
+
+35 fishermen have been filed under the Criminal Persons under the categories of fishing and the use of banned nets.
+
+Following the fishermen's detention, 35 fishermen were produced before the Puttalam Court. Judge Wimalaratna, who was hearing the case, said that 12 fishermen from a long country boat. 35 lakhs and a fine of Rs.. The Puttalam court has ordered three months' imprisonment for failing to pay the fine.
+
+In addition, 10 fishermen who went to sea from Daruwaikulam in Thoothukudi district were arrested by the Sri Lankan navy in a fishing booth owned by Anthony Then Denilla.
+
+These 10 fishermen. 35 lakhs fined. The Puttalam court has ordered the sentence to be sentenced to six months in prison for failing to pay the fine.
+
+Accordingly, 45 Tamil Nadu fishermen have been fined Rs 10 crore. (A)
+
+◼️
+
+[Data](articles/964a3d49.json)
+
+[Extended Data](ext_articles/964a3d49.ext.json)
+
+---
+
 ### Raja Bhavatu Dhammiko: May the ruler be righteous
 
 *2024-09-19 02:02:27* · [`dailyftlk`](https://www.ft.lk/columns/Raja-Bhavatu-Dhammiko-May-the-ruler-be-righteous/4-766862) · `en`
@@ -609,6 +663,38 @@ The final rally participated in the presidential claimed by Basil Rajapaksa's ne
 [Data](articles/eae385eb.json)
 
 [Extended Data](ext_articles/eae385eb.ext.json)
+
+---
+
+### Prime Residencies celebrates groundbreaking of ultra-luxury Boutique development
+
+*2024-09-19 00:18:00* · [`islandlk`](http://island.lk/prime-residencies-celebrates-groundbreaking-of-ultra-luxury-boutique-development/) · `en`
+
+Sri Lanka’s most prolific and trusted property developer, Prime Lands Residencies PLC, celebrated the groundbreaking of its latest ultra-luxury boutique development, ‘The Seasons Colombo 8’. The foundation stone laying ceremony marked the official commencement of construction for this unique living experience, poised to set new standards in luxury living.
+
+The event was graced by Prime Group’s Chairman and Co-Chairperson, along with distinguished guests and stakeholders, underlining this significant milestone. It also heralded the beginning of an exciting journey for a vibrant and special community of the One Collection: the Group’s ultra-luxury residential segment.
+
+...
+
+[Data](articles/21f8a034.json)
+
+[Extended Data](ext_articles/21f8a034.ext.json)
+
+---
+
+### Economic stakes of the 2024 presidential election
+
+*2024-09-19 00:16:00* · [`islandlk`](http://island.lk/economic-stakes-of-the-2024-presidential-election/) · `en`
+
+As Sri Lanka gears up for elections, policymakers must avoid rash economic promises that risk a decade of lost growth and an era of relative decline.
+
+As too often in the past, Sri Lanka appears not to have broken its damaging tendency towards ‘competitive populism’ ahead of elections. Fiscally profligate promises ranging from wage increases to loan write-offs and welfare handouts are being made in a bid to win votes. Such pledges often come with a hefty price tag that the country can ill afford, especially given its still fragile economic recovery.
+
+...
+
+[Data](articles/2a80de03.json)
+
+[Extended Data](ext_articles/2a80de03.ext.json)
 
 ---
 
@@ -2203,101 +2289,5 @@ Kumindu Mendis, the Savior of the Sri Lankan Innings, was able to record a centu
 [Data](articles/292aa213.json)
 
 [Extended Data](ext_articles/292aa213.ext.json)
-
----
-
-### Namal ready to prove innocence of Rajapaksa govt
-
-*2024-09-18 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102060/namal-ready-to-prove-innocence-of-rajapaksa-govt) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) presidential candidate, MP Namal Rajapaksa stated that he is prepared to prove the innocence of the ‘Rajapaksa government’.
-
-He made these comments while addressing a public rally held in the Kotikawatta area yesterday (17).
-
-“We didn’t carelessly build roads or housing apartments. We also didn’t bring in investors carelessly. We had a plan and a vision to develop this nation. We accountable for every investment made”, he added.
-
-Namal Rajapaksa further stated that if anyone claims that they stole or engaged in corruption, they are prepared to face any international court to prove their innocence. He also stated that in the past they were questioned about their inability to face the elections after the ‘Aragalaya’ movement.
-
-“There may be a different understanding about us. There may be a wrong opinion, but we have the strength to come before the people and ask them to vote for us,” he said.
-
-...
-
-[Data](articles/cb643032.json)
-
-[Extended Data](ext_articles/cb643032.ext.json)
-
----
-
-### Notice of school uniforms
-
-*2024-09-18 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201155) · `si`
-
-School uniform distribution update: 825 million students to receive free uniforms by January 20, 2025. First shipment arrives November 13, subsequent shipments on November 21 and December 20. Total cost: Rs. 7,000 million.
-
-🟩
-
-The Ministry of Education has announced that all the necessary rooms needed for the new school term and 825 million schools are to be provided with all the necessary number of uniforms and Pirivenas.
-
-Accordingly, the uniforms and robes will be distributed before January 20, which will commence 2025.
-
-The Minister of Education and the Chinese Ambassador have been given this as a grant by the Chinese government after discussing the Chinese government.
-
-According to the statement, the uniforms will receive 100% free of charge and the government is Rs. 7,000 million.
-
-The first stock of these uniforms is expected to receive the second consignment on November 13, on November 21, and the third stock of stock of thirds will be held on the 20th of December.
-
-◼️
-
-[Data](articles/f2cfeedf.json)
-
-[Extended Data](ext_articles/f2cfeedf.ext.json)
-
----
-
-### How to vote?
-
-*2024-09-18 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194013) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Presidential election voting guide: Vote on Saturday (21st). Refer to 1 number or preferential votes. Do not mix 1 and X. Election Commission provides instructions."
-
-🟩
-
-There are still 3 days for the presidential election.Accordingly, the presidential election will be held on Saturday (21st).
-
-The Election Commission has been briefed on how voters should give their vote properly in the presidential election.
-
-The word can be referred to as the 1 number and the preferential votes.
-
-However, when giving a vote, do not refer to both 1 and X's X.
-
-◼️
-
-[Data](articles/09057665.json)
-
-[Extended Data](ext_articles/09057665.ext.json)
-
----
-
-### AKD blames Ranil for Sri Lanka financial crisis, absolves Gotabaya
-
-*2024-09-18 16:17:00* · [`economynextcom`](https://economynext.com/akd-blames-ranil-for-sri-lanka-financial-crisis-absolves-gotabaya-179896/) · `en`
-
-ECONOMYNEXT — Presidential candidate Anura Kumara Dissanayake has blamed Sri Lanka’s 2022 financial crisis on incumbent president Ranil Wickremesinghe, largely absolving former president Gotabaya Rajapaksa whose policy missteps Dissanayake attributed to ignorance.
-
-Speaking at an election rally, Dissanayake claimed that Wickremesinghe was the author of the crisis while Rajapaksa had made a few mistakes out of sheer ignorance. Dissanayake also claimed pity for Rajapaksa.
-
-“They ended oil, gas, milk powder, fuel and electricity supply to this country. Ranil Wickremesinghe is one of the main parties responsible for this though he is hiding today. Who became the accused party in the end? Gotabaya. He was there for just two and a half years. Sad (pau).
-
-“Though he made a few mistakes out of ignorance, the major, serious economic assassins were Ranil and company. This crisis happened because of a few things Gotabya did without understanding (notherena),” said Dissanayake.
-
-...
-
-[Data](articles/3da27339.json)
-
-[Extended Data](ext_articles/3da27339.ext.json)
 
 ---

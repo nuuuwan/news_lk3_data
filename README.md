@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 16:38:07**
+As of **2024-09-19 16:55:43**
 
 ## Newspaper Stats
 
-*Scraped **44,757** Articles*
+*Scraped **44,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,67 @@ dailymirrorlk | 4,733
 adaderanalk | 5,261
 tamilmirrorlk | 5,860
 virakesarilk | 7,155
-adaderanasinhalalk | 7,670
+adaderanasinhalalk | 7,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,756 (100.0%) of 44,757 articles have been extended.
+44,758 (100.0%) of 44,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
 
-### ලෙබනනය බියෙන් සලිත වෙයි
+### Divisional election propaganda office banned afternight
+
+*2024-09-19 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201203) · `si`
+
+Here's a 200-character summary:
+
+
+
+Election Commission bans divisional propaganda offices after midnight. Candidates' homes must be 500m from polling centers. Decorations removed if within limit. Police to enforce removals if offices aren't taken down voluntarily.
+
+🟩
+
+Elections Commission Chairman Religious should be removed at the electoral campaign at the current night after midnight today (19. M. A. L. Says Mr. Ratnayake.
+
+He was speaking at a press conference held in the Government Information Department this morning regarding the presidential election.
+
+"All electoral offices have been required to be removed at the voting divisional level, so far from midnight today. Until yesterday was allowed to maintain one office in one headquarters, every electorate (section of a polling center). But from midnight today, however, only one office for the district or an old seat for the district is not in the division of the election or the district..  ඔවුන් ඉවත්කරගන්නේ නැත්නම් අපි, පොලිසිය මගින් ඒවා ඉවත්කරගන්න කටයුතු කරනවා.
+
+...
+
+[Data](articles/6d3049db.json)
+
+[Extended Data](ext_articles/6d3049db.ext.json)
+
+---
+
+### Lebanon is fearful
 
 *2024-09-19 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201202) · `si`
 
-දින දෙකක් තුළ ලෙබනනයෙන් වාර්තා වූ පේජර් සහ වෝකි ටෝකි යන්ත්‍ර පිපිරීමෙන් මියගිය ගණන 32ක් දක්වා ඉහළගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Lebanon faces crisis: explosions kill dozens, injure thousands. Authorities ban pagers, restrict phone use amid fear and chaos.
 
-අඟහරුවාදා සිදුවූ පේජර් පිපිරීමෙන් 12 දෙනෙක් මියගොස් 3,000කට ආසන්න පිරිසක් තුවාල ලබා තිබුණි.
+🟩
 
-එසේම ඊයේ (18) වාර්තා වූ වෝකීටෝකි යන්ත්‍ර පිපිරීමෙන් 20 දෙනෙක් මියගොස් 500කට ආසන්න පිරිසක් මියගොස් තිබුණි.
+International media reports that 32 days in Lebanon and Vokey Tokoke explosion has been increased to 32 people.
 
-මේ අතර ලෙබනනයේ බේරූට් ජාත්‍යන්තර ගුවන්තොටුපොළ තුළ පේජර් සහ වෝකීටෝකි යන්ත්‍ර භාවිතය තහනම් කිරීමට එරට බලධාරීන් පියවර ගෙන තිබේ.
+12 killed in page explosion on Tuesday, nearly 3,000 injured.
 
-එසේම ලෙබනනයේ ජනතාව මේ වනවිට ජංගම දුරකථන පාවිච්චි කිරීමට පවා බියෙන් පසුවන බව සඳහන් ය.
+Also, 20 people were killed and nearly 500 people were killed and 500 deaths were reported yesterday (18th).
+
+Meanwhile, the Authorities have taken steps to ban a pager and Voketokey machinery in the Bebanic Airport of Lebanon.
+
+The people of Lebanon are also afraid to use mobile phones.
 
 ◼️
 
 [Data](articles/1e02b3d0.json)
+
+[Extended Data](ext_articles/1e02b3d0.ext.json)
 
 ---
 
@@ -2395,19 +2427,5 @@ Deputy Postmaster Rajitha Ranasinghe said the official voter card distribution o
 [Data](articles/c8a0b6ba.json)
 
 [Extended Data](ext_articles/c8a0b6ba.ext.json)
-
----
-
-### Greenpeace South Asia calls on Presidential candidates to commit to Global Ocean Treaty
-
-*2024-09-19 02:12:56* · [`dailyftlk`](https://www.ft.lk/opinion/Greenpeace-South-Asia-calls-on-Presidential-candidates-to-commit-to-Global-Ocean-Treaty/14-766865) · `en`
-
-A year ago, during the UN General Assembly, over 80 countries signed the Global Ocean Treaty (also known as the High Seas Treaty or Agreement on Biodiversity Beyond National Jurisdiction - BBNJ) with fine words and big promises. But there is still work to do.
-
-...
-
-[Data](articles/c3e5799e.json)
-
-[Extended Data](ext_articles/c3e5799e.ext.json)
 
 ---

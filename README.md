@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 16:55:43**
+As of **2024-09-19 17:08:12**
 
 ## Newspaper Stats
 
-*Scraped **44,758** Articles*
+*Scraped **44,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,134
+adalk | 4,137
 dailymirrorlk | 4,733
-adaderanalk | 5,261
+adaderanalk | 5,262
 tamilmirrorlk | 5,860
 virakesarilk | 7,155
-adaderanasinhalalk | 7,671
+adaderanasinhalalk | 7,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,758 (100.0%) of 44,758 articles have been extended.
+44,763 (100.0%) of 44,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Sri Lanka agrees with international commercial creditors
+
+*2024-09-19 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201204) · `si`
+
+Sri Lanka reaches deal with international lenders, securing 40.3% loan relief and improved financial stability.
+
+🟩
+
+Sri Lanka has agreed to an agreement with international commercial creditors.
+
+This is a relief of 40.3% of the current loan.
+
+The Presidential Media Unit strosizes the financial stability of the country through Sri Lanka has a significant debt relief and reducing interest payments.
+
+◼️
+
+[Data](articles/2addc569.json)
+
+[Extended Data](ext_articles/2addc569.ext.json)
+
+---
+
+### Sri Lanka says restructuring deal with bondholders reached
+
+*2024-09-19 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102081/sri-lanka-says-restructuring-deal-with-bondholders-reached) · `en`
+
+Sri Lanka said it’s reached an agreement in principle with bondholders to restructure its $114 billion debt load, just days before the country heads to elections that have rattled investors.
+
+The government held restricted discussions with nine members of the steering committee of the ad-hoc group of bondholders between September 12th and 18th, it said in a statement on Thursday.
+
+The parties agreed to introduce “governance-linked bond features” as part of the revised bond treatment, it said, referring to clauses that would cut Sri Lanka’s repayments if it meets certain governance and anti-corruption-related targets.
+
+◼️
+
+[Data](articles/cf4ede27.json)
+
+[Extended Data](ext_articles/cf4ede27.ext.json)
+
+---
 
 ### Divisional election propaganda office banned afternight
 
@@ -103,6 +143,32 @@ UN Secretary General António Guterres warned of the “serious risk of a dramat
 [Data](articles/ae1b60db.json)
 
 [Extended Data](ext_articles/ae1b60db.ext.json)
+
+---
+
+### A complaint lodged a police officer
+
+*2024-09-19 15:43:34* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරියෙක්-ආගිය-අතක්-නැති-බවට-පැමිණිල්ලක්/11-412025) · `si`
+
+Complaint filed by police constable: Husband missing since 13th. Phone disconnected. No information about him. Not reported to service. Incident linked to Hambantota hospital.
+
+🟩
+
+Weerawila police say that there is no short hand hand with a police constable issued by the Hambantota Headquarters Police.
+
+The incident is attached to the Hambantota Headquarters Hospital in Udugamuwa and Tissamaharama.
+
+The police constable has filed the complaint on the 17th night by the police constable.
+
+The complaint states that his husband went out on the 13th and that he had never returned home and had not returned home. The phone has been disconnected, as he does not return home and will be rescued and handed over to police uniforms if he returns home.. The complaint has further stated that there is no information about her husband since then.
+
+The police constable was not reported to the service, police said.
+
+◼️
+
+[Data](articles/7fa13a2a.json)
+
+[Extended Data](ext_articles/7fa13a2a.ext.json)
 
 ---
 
@@ -400,6 +466,24 @@ He added that he was brought to bringing mobile phones at the time of the electi
 
 ---
 
+### The issue of the scholarship question paper goes to the SID
+
+*2024-09-19 13:46:17* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-ප්‍රශ්න-පත්‍රයේ-අවුල-සි-අයි-ඩියට-යයි/11-412024) · `si`
+
+Scholarship exam cheating scandal: SID investigates exhausted questions. Ministry lodges complaint with CID. Examination department conducts separate probe.
+
+🟩
+
+The Ministry of Education has lodged a complaint with the Criminal Investigation Department to conduct three questions that the five-year-grade scholarship question papers had been exhausted.. The Department of Examinations has also commenced a separate investigation into the matter.
+
+◼️
+
+[Data](articles/2d607542.json)
+
+[Extended Data](ext_articles/2d607542.ext.json)
+
+---
+
 ### Prohibition on screening of election results in public: Police
 
 *2024-09-19 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194096) · `ta`
@@ -579,6 +663,34 @@ Short Train Services may be reduced on Sunday 22nd. However, long -distance trai
 [Data](articles/0696133a.json)
 
 [Extended Data](ext_articles/0696133a.ext.json)
+
+---
+
+### Youth shot dead in Nikaweratiya
+
+*2024-09-19 12:57:01* · [`adalk`](https://www.ada.lk/breaking_news/නිකවැරටිය-වෙඩි-තැබීමකින්-තරුණයෙක්-මරුට/11-412023) · `si`
+
+Youth (24) shot dead in Nikaweratiya. Businessman killed at Rajalama area. Police investigation ongoing under SP Jayantha Jayawardena.
+
+🟩
+
+The businessman had been killed in a business station in the Rajalama area in Rasnayakapura yesterday morning, police said.
+
+The deceased has been identified as a 24-year-old woman named AJD Meniahadhahadhaha, a resident of the post.
+
+The deceased is that the businessman who had arrived in the business and to open his business where the deceased had arrived at home, the businessman was shot dead in the businessman, police said.
+
+The police said that the deceased's chest was shot dead and had not yet been revealed to the magistrate inspection.
+
+A group of officers investigating the supervision of Superintendent of Police Jayantha Jayawardena in accordance with Superccess Unihast Jayarawardena, Nikaweratiya Divisional Secretariat Wasantha Jayawardena.
+
+A group of Nikaweratiya division sector officials are also investigating the incident.
+
+◼️
+
+[Data](articles/a311c1d4.json)
+
+[Extended Data](ext_articles/a311c1d4.ext.json)
 
 ---
 
@@ -2317,115 +2429,5 @@ I have been saying this again and again when I read the election manifesto of An
 [Data](articles/d0629966.json)
 
 [Extended Data](ext_articles/d0629966.ext.json)
-
----
-
-### Risk to fisherman because of biting fish
-
-*2024-09-19 02:42:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்-கடித்ததால்-மீனவருக்கு-ஆபத்து/175-343996) · `ta`
-
-Fishermen face risks when bitten by fish. A fisherman was rescued off the coast and hospitalized after being attacked while fishing in the southern seas. The incident highlights the dangers faced by fishermen during their work.
-
-🟩
-
-A fisherman who was in a state of disrepair in the south sea was rescued on Wednesday (18) and was taken to the Colombo port and admitted to the Colombo National Hospital.
-
-The man who was taken to the hospital was a fisherman who lives on the island of Wennappuwa, the navy said.
-
-Seven fishermen were loaded from the Wennappuwa fishing port for fishing and went to the deep sea on Tuesday (17).. This is the case.
-
-◼️
-
-[Data](articles/21228fa4.json)
-
-[Extended Data](ext_articles/21228fa4.ext.json)
-
----
-
-### Voting center
-
-*2024-09-19 02:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவருக்கு-மட்டுமே-தனி-வாக்களிப்பு-நிலையம்/175-343995) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Batticaloa District: 449,606 voting centers set up. Special arrangements made for hospital patients to vote. Procedures in place for Budur Vigneswara Vidyalaya.
-
-🟩
-
-Batticaloa District Elections Officer and District Government Agent Mrs.. Justina Muralitharan said.
-
-At the same time, 449,606 voting centers have been organized to vote in the district.
-
-During the last elections, two patients were not present at the Mantheevu Hospital as a special voting center was established for two patients who had been treated at the Manmunai North Divisional Secretariat of the Batticaloa District during the last elections.
-
-All procedures will be followed by special arrangements to vote at the Budur Vigneswara Vidyalaya in Batticaloa, and that they can register their votes in the general referendum.
-
-◼️
-
-[Data](articles/29183453.json)
-
-[Extended Data](ext_articles/29183453.ext.json)
-
----
-
-### MSD security
-
-*2024-09-19 02:18:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியநேத்திரனுக்கு-MSD-பாதுகாப்பு/175-343994) · `ta`
-
-Tamil presidential candidate PA Ariyanethran receives police protection. Two MSD officers assigned to ensure his safety during election campaign.
-
-🟩
-
-Police protection has been given to Tamil general candidate PA Ariyanethran contesting the presidential election.
-
-Recently, security has been issued on the warning issued by the Deputy Inspector General of Police regarding the security of the common candidate.
-
-Two officers of the Cabinet Security Division (MSD) have been carrying out the task of providing security since yesterday.
-
-According to sources, Nine of the Cabinet Security Division (MSD) has been allocated to two Ariyanethran.
-
-◼️
-
-[Data](articles/8ba8c0be.json)
-
-[Extended Data](ext_articles/8ba8c0be.ext.json)
-
----
-
-### Elite establishment’s last stand
-
-*2024-09-19 02:17:04* · [`dailyftlk`](https://www.ft.lk/columns/Elite-establishment-s-last-stand/4-766866) · `en`
-
-It was always going to come to this. The first Sri Lankan election in generations where even a remotely leftist party stood a chance of winning was always going to end with an almighty Red Scare. So it is that the presidential campaign of National People’s Power (NPP) candidate Anura Kumara Dissanayake (AKD) is inspiring lurid visions of an impending violent, dystopian regime, splayed across news and social media. This is the prophecy of the Sri Lankan elite establishment, a select cross section of the country’s businesspeople, policymakers, professionals, journalists and academics who have been proximate to state power, especially in the last two years. Scrutiny of them and their crescendoing hysteria reveals much about how power and privilege work in Sri Lanka, and what happens when their wielders are threatened.
-
-...
-
-[Data](articles/e1a2394a.json)
-
-[Extended Data](ext_articles/e1a2394a.ext.json)
-
----
-
-### Voter card can also be obtained on Saturday
-
-*2024-09-19 02:13:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டையை-சனியன்றும்-பெறலாம்/175-343993) · `ta`
-
-Voter cards available until election day: Deputy Postmaster Rajitha Ranasinghe announced that unregistered voters can obtain cards at local post offices until Saturday. About 97% of official cards have been distributed so far.
-
-🟩
-
-Deputy Postmaster Rajitha Ranasinghe said that those who have not received official voter cards can get to the post office in their area until the day of the election (21).
-
-About 97 percent of the official voter cards related to the presidential election have been distributed, the Postal Department said.
-
-Deputy Postmaster Rajitha Ranasinghe said the official voter card distribution of the official voter card, which began on the 3rd, said the voter cards could be obtained at posts until Saturday afternoon.
-
-◼️
-
-[Data](articles/c8a0b6ba.json)
-
-[Extended Data](ext_articles/c8a0b6ba.ext.json)
 
 ---

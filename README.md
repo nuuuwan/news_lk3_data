@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 01:38:22**
+As of **2024-09-20 01:57:15**
 
 ## Newspaper Stats
 
-*Scraped **44,816** Articles*
+*Scraped **44,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,69 @@ dailyftlk | 2,980
 adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
-tamilmirrorlk | 5,866
-virakesarilk | 7,174
+tamilmirrorlk | 5,867
+virakesarilk | 7,175
 adaderanasinhalalk | 7,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,816 (100.0%) of 44,816 articles have been extended.
+44,818 (100.0%) of 44,818 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-20 (Friday)
+
+### Started with a long -haul passenger ferry service
+
+*2024-09-20 01:28:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தாரகை-பயணிகள்-படகு-சேவையை-ஆரம்பித்தது/175-344037) · `ta`
+
+Long-haul passenger ferry service launched, costing Rs 52 million. Governor hands over boat to Road Development Authority. Service connects Nedundi to landing department daily, carrying 80 passengers. Improves transportation for island residents.
+
+🟩
+
+About a year later, the long -run passenger boat launched its service on Thursday (19). Governor of the Northern Province BSM. Charles and Road Development Authority officially handed over a long passenger boat on Thursday (19).
+
+The Governor visited the boat. The boat, which has so far been in charge of the Provincial Council, has been revised at a cost of Rs 52 million and handed over to the Road Development Authority.
+
+The people of Nedundevu expressed their gratitude to the governor for solving the long -standing traffic problem on their island. The people also noted that the governor's hard work is re -launching their service.
+
+The Governor thanked the President, the President, the Ministry of Department of Passengers for the speedy action of the passenger boat.. The governor said measures have been taken to improve the transport facilities for the islands.
+
+...
+
+[Data](articles/6fdc7e63.json)
+
+[Extended Data](ext_articles/6fdc7e63.ext.json)
+
+---
+
+### Are the fundamental rights violated during the presidential election?- Human Rights Commission worked for Special Monitoring Committee
+
+*2024-09-20 00:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194134) · `ta`
+
+Human Rights Commission monitors presidential election for irregularities and rights violations. If issues arise, contact 076 7914695.
+
+🟩
+
+With the country's ninth presidential election to be held on Saturday (21), special surveillance work will be carried out on polling stations nationwide to prevent election irregularities.
+
+Domestic and International Election Monitoring Committees have been carrying out strong surveillance on election violence and irregularities over the past one month since the announcement of the election date.
+
+Against this backdrop, the Sri Lanka Human Rights Commission has announced that it will be involved in special human rights surveillance activities on the day of the election day (21), the election day (21), and the day to announce the results.
+
+If the two days are found to be a fundamental rights violations across the country, the team involved in the above mentioned work will be visited and will take steps to provide a proper solution.
+
+Therefore, if the fundamental rights are violated during the presidential election, it will be able to communicate with the Human Rights Commission on 076 7914695.
+
+◼️
+
+[Data](articles/16032257.json)
+
+[Extended Data](ext_articles/16032257.ext.json)
+
+---
 
 ### 2024-09-19 (Thursday)
 
@@ -2451,57 +2503,5 @@ The two men who were traveling on a motorcycle and bicycle were injured and died
 [Data](articles/500de940.json)
 
 [Extended Data](ext_articles/500de940.ext.json)
-
----
-
-### 500 people are affected by food allergies
-
-*2024-09-19 11:07:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-ஒவ்வாமையால்-500-பேர்-பாதிப்பு/175-344016) · `ta`
-
-500+ garment factory workers hospitalized due to illness; many transferred between hospitals due to overcrowding.
-
-🟩
-
-More than five hundred employees working at a main private garment factory in Bagumuna, Polonnaruwa, have been admitted to the Rural Hospitals of the Baghunai and Attanagalai Rural Hospitals today (19).
-
-The sick workers were taken to the Pakamuna Regional Hospital and Attanagadawala Rural Hospital by buses and ambulances from the garment factory, police said.
-
-Due to lack of space at the Bhagamuna Divisional Hospital, a large number of people have been taken to the Attanagadawala Hospital by buses and ambulances, police said.
-
-A spokesman for the Pakamuna and Attanakadawala Hospital said that the status of the garment workers and maids admitted to the Athanagadawala and Bhagamuna Hospital was not worrisome and they were being treated.
-
-◼️
-
-[Data](articles/6677877d.json)
-
-[Extended Data](ext_articles/6677877d.ext.json)
-
----
-
-### 500 hospital in a garment factory with food poisoning
-
-*2024-09-19 11:00:02* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-විසවීමකින්-ඇඟලුම්-කම්හලක-500ක්-රෝහලට/11-412020) · `si`
-
-500 garment factory workers hospitalized due to food poisoning in Polonnaruwa. Bakamuna and Attanakadawala hospitals admit patients. Symptoms include diarrhea and stomach pain. Investigation ongoing.
-
-🟩
-
-The Bakamuna Police states that nearly five hundred employees have been admitted to the Bakamuna and Attanakadawala rural hospitals in the Polonnaruwa area.
-
-The victims have been admitted to the Bakamuna Regional Hospital by buses and ambulances in the apparel industry.
-
-The Bakamuna Regional Hospital lacks was taken to the Attanakadawala Hospital with buses and ambulances.
-
-A spokesman for the Bakamuna and Attanakadawala Hospital stated that the quality of the workers' status of the Attanakadawala and Bakamuna Hospital stated that they are not treated.
-
-Upaling on the 19th, they were admitted to the apparel industry to work on the 19th and they were admitted to the apparel industry, and they were admitted to the apparel of the 19th and that they were serving as 700 employees in the garment industry.
-
-The Bakamuna OIC Inspector Upul Bollyakura stated that a metermine and stomach has caused a diet and stomach ache in the apparel industry.
-
-◼️
-
-[Data](articles/a9fd5f86.json)
-
-[Extended Data](ext_articles/a9fd5f86.ext.json)
 
 ---

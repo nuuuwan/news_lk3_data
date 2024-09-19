@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 02:38:14**
+As of **2024-09-20 03:07:44**
 
 ## Newspaper Stats
 
-*Scraped **44,820** Articles*
+*Scraped **44,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,169 @@ dailyftlk | 2,980
 adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
-tamilmirrorlk | 5,868
-virakesarilk | 7,175
+tamilmirrorlk | 5,869
+virakesarilk | 7,180
 adaderanasinhalalk | 7,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,820 (100.0%) of 44,820 articles have been extended.
+44,826 (100.0%) of 44,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
+
+*2024-09-20 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
+
+400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
+
+🟩
+
+District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
+
+◼️
+
+[Data](articles/0f8b9cc1.json)
+
+[Extended Data](ext_articles/0f8b9cc1.ext.json)
+
+---
+
+### 'Director Tilak' K. 'Where Dad' released by Bhagyaraj independent music
+
+*2024-09-20 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194141) · `ta`
+
+"Director Tilak's 'Where Dad' released by Bhagyaraj independent music. Newcomer Baby Star Baby Lakshana Rishi stars. Directed by SV Rishi. Special screening in Chennai. Bhagyaraj congratulates Lakshana Rishi, predicting future Tamil film debut."
+
+🟩
+
+Newcomer Baby Star Baby Lakshana Rishi. The director got the empire to release Bhagyaraj.
+
+Independent music albums have been released in the Tamil film industry, gaining widespread attention and huge success. In that line, Baby Lakshana Rishi starred on behalf of Dad Media.The music is written and directed by SV Rishi. A special screening for this was held in Chennai.
+
+The leading character and directors of the Tamil film industry at this moment. Bhagyaraj and Empire participated as the guests.
+
+Director K. Bhagyaraj congratulated him, “Baby Lakshana Rishi, a child star starring in this music alpine, will make his debut in the Tamil film industry in the future.. He has all the qualifications for it right now. I congratulate you for success and video of this song and video that is being devoted and unique. ”
+
+◼️
+
+[Data](articles/abb564fa.json)
+
+[Extended Data](ext_articles/abb564fa.ext.json)
+
+---
+
+### The new release date of Surya's 'Gangua'
+
+*2024-09-20 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194140) · `ta`
+
+Surya's 'Gangua' new release date: Nov 14, Tamil, Telugu, Malayalam, Kannada, Hindi. Directed by Siva, music by Devi Sri Prasad. Produced by Fantasy Exan Entertainment, Studio Green, UV Creations. Starring Surya, Bobby Deol, Disha Patani, Kicha Sudeep.
+
+🟩
+
+The film crew has officially announced the new release date of the film 'Gangua' starring Surya, who is highly anticipated by fans, filmmakers, world Tamils ​​and spectators.
+
+Surya, Bollywood actor Bobi Deol, Bollywood actress Dissa Patani, Naty alias Natraj, Kicha Sudeep, Jagadish Babu, Yogi Babu, directed by director Siva.
+
+The film has been composed by 'Rock Star' Devi Sri Prasad for the film.. The film is being produced as Fantasy Exan Entertainment and has produced the film with Studio Green and UV Creations at an estimated cost of Rs 350 crore.
+
+It was announced that the film will be released worldwide on the 10th of October. Subsequently, it was officially announced that the film 'Vettayan' starring Super Star Rajinikanth in Lyca Company will be released on October 10 at the film House.
+
+...
+
+[Data](articles/73aeb4f1.json)
+
+[Extended Data](ext_articles/73aeb4f1.ext.json)
+
+---
+
+### Music and Preview of Vimal's 'Sir'
+
+*2024-09-20 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194139) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil film "Sir" starring Wimal, music by Inion J. Sidhu Kumar, produced by SS Pictures. Director Vijayamaran praises the film, calling it crucial for modern society.
+
+🟩
+
+Actor Wimal is a realist in the Tamil film industry.. The music and preview of the movie 'Sir', which plays the lead role. 'Paddy Selvan' Vijay Sethupathi and Director Vijayamaran were the special guests at the special ceremony in Chennai.
+
+Actor and director Bose Venkat is directed by Vimal, 'Puthi Veeran' Saravanan, RK Vijay Murugan, Saya Kannan, producer and actor S.. Siraj, Rama, 'Aadukalam' Jayapalan and many others have played.
+
+Inion J. Sidhu Kumar has composed the film, which has been recorded by Harris. Producers SS Pictures on behalf of SS Pictures. Produced by Siraj and Nilofer Siraj.
+
+Director Vijayamaran congratulated the film crew and said, “We are proud to have our name in the creation of our ideas.. I only gave us our name for this movie.
+
+...
+
+[Data](articles/b101ee23.json)
+
+[Extended Data](ext_articles/b101ee23.ext.json)
+
+---
+
+### The 'Banana' film group honoring the shield to the film crew
+
+*2024-09-20 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194138) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Banana" film crew celebrates 25 days. Director Mari Selvaraj thanks cast and crew. Addresses questions about missing scenes and future sequels. Expresses gratitude to supporters.
+
+🟩
+
+'Banana', directed by the leading creator Mari Selvaraj, has been released in the filmmaker. The film crew celebrated the 25th day as a victory.
+
+Speaking at the event, director and producer Mari Selvaraj said, “The way the filmmakers celebrated the banana film made us happy.. I have been harassed by the actors who played the film on the shooting site.
+
+But they realized our instinct behind it and gave them their labor. Why isn't the female teacher's character shown in the culmination of the film?Many asked us.This is the reason why the actress's call sheet is not available on the date.
+
+The song featured in the peak of the film. I just made the film a year and a half later. At first, I thought to film this scene differently. And after the release of the film, the questions about us continue to rise to others.
+
+For this I am ready to create the second part of the film. Because I will always be real to this art form in my life. Thank you to all the good people who succeeded the movie 'Banana'.
+
+◼️
+
+[Data](articles/0fd5ee87.json)
+
+[Extended Data](ext_articles/0fd5ee87.ext.json)
+
+---
+
+### Special Transport Plan on Saturday
+
+*2024-09-20 01:49:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனியன்று-விசேட-போக்குவரத்து-திட்டம்/175-344039) · `ta`
+
+Sri Lanka Transport Board deploys 1,358 buses for presidential election. 175 buses for police duties. Railway Department operates special trains between Colombo Fort and Kankesanthurai for government officials and security personnel. Regular train service continues on election day.
+
+🟩
+
+The Sri Lanka Transport Board (SLTB) has said that 1,358 buses have been deployed for the presidential election on the 21st of this month.
+
+The Deputy General Secretary of the Sri Lanka Transport Board, Panduga Swarnahansa said that steps have been taken to provide special bus services at the request of the District Elections Office.
+
+He added that 175 buses have been deployed for the duties of the police officers ahead of the presidential election.
+
+The Railway Department has announced that a number of special train services will be held between the Colombo Fort and the Kankesanthurai to ease the presidential election duties.
+
+The special rail service has been implemented for government officials and security personnel involved in election activities.Two special trains will be operated from Colombo Fort to Kankesanthurai to Colombo Fort.
+
+...
+
+[Data](articles/a2eef95b.json)
+
+[Extended Data](ext_articles/a2eef95b.ext.json)
+
+---
 
 ### Solar Power Scheme for 1124 schools
 
@@ -2355,151 +2505,5 @@ After the request, the High Court judge issued an order to ban the use of the ma
 [Data](articles/5f176ef0.json)
 
 [Extended Data](ext_articles/5f176ef0.ext.json)
-
----
-
-### The voter card model can be obtained on the Internet - the Election Commission
-
-*2024-09-19 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194066) · `ta`
-
-Election Commission introduces e-commerce system for obtaining voter cards. Visit www.elections.gov.lk to verify identity and download model. Voters without cards can use National ID to access website or nearby post office.
-
-🟩
-
-The Election Commission has introduced the e -commerce system to check voter cards for the presidential election and to obtain a voter card model.
-
-Accordingly, the Voter Cards can be visited by searching for the seat of the Election Commission www.elections.gov.lk.
-
-Voters who have not yet received the official voter card for voting can confirm the identity of the person and vote at the specified polling station.
-
-If voters do not get a voter card, you can get voter cards that do not access the post offices nearby or get voter cards or get into the web site www.elections.gov.lk, using the National Identity Card.
-
-◼️
-
-[Data](articles/0a71cfbc.json)
-
-[Extended Data](ext_articles/0a71cfbc.ext.json)
-
----
-
-### Police request from voters
-
-*2024-09-19 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201188) · `si`
-
-Here's a 200-character summary:
-
-
-
-Police advise voters: No alcohol, weapons, or mobile phones at polling stations. Ensure mental clarity and avoid distractions during voting.
-
-🟩
-
-The police have made an informed of what should be taken when voters arrive at the polling station to use their votes.
-
-Police Media Spokesperson DIG Nihal Talduuwa today participated in the incident with Derana Aruna program.
-
-"When his votes comes, the citizen has a responsibility in sanity in a way. We've seen the experience at the morning and in the morning, there is alcohol that can not make a decision to make alcohol and enter their polling station by morning. They specifically notified them. It must be done with understanding of what he does.  ඒ වගේම ඒ ඡන්ද මධ්‍යස්ථානයට බාධාවක් නොවන ලෙස එන්නට ඕනේ. If a person is coming to the place, remove the police. "
-
-...
-
-[Data](articles/268efe6c.json)
-
-[Extended Data](ext_articles/268efe6c.ext.json)
-
----
-
-### 668,676 posters of candidates
-
-*2024-09-19 11:24:24* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්ගේ--පෝස්ටර්--668-676-ක්-පොලීසියෙන්-ගලවලා/11-412021) · `si`
-
-During election campaigns, police removed 668,676 candidate posters, 1,613 vocal banners, and 1,632 propaganda materials. 103,840 more propaganda items were taken into custody.
-
-🟩
-
-Police have taken away 668,68 posters to this day with the end of the election campaigns from 179,203 such posters.
-
-In addition, 1613 vocal banners were removed and 1632 propaganda have been removed and 103,84 propaganda were taken into police custody, police said.
-
-◼️
-
-[Data](articles/1720d128.json)
-
-[Extended Data](ext_articles/1720d128.ext.json)
-
----
-
-### Vacation for Public and Private Sector Employees
-
-*2024-09-19 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201187) · `si`
-
-Elections Commission announces vacation policy for public and private sector employees for 2024 presidential election. Public sector: minimum 4-hour leave. Private sector: 3-day holiday for eligible voters. All institutions must provide paid leave for voting.
-
-🟩
-
-The Elections Commission (EPL) has held a special press conference to inform the Presidential Election 2024.
-
-Accordingly, public sector employees should be granted leave to leave the polls, including a minimum of four hours, including a minimum of four hours, to leave the polls.. M. A. L. Says Mr. Ratnayake.
-
-The private sector employees are also required to be given holidays as follows.
-
-But if there are three days to vote for some voters that have been nominated by their workplace, the Chairman of the Elections. M. A. L. Mr. Ratnayake said.
-
-All institutions including staff and student staff and garment factories in public and private universities and garment factories are president of all institutions to be paid leave to leave the vote leave. M. A. L. Ratnayake made a request made.
-
-◼️
-
-[Data](articles/1b305eb4.json)
-
-[Extended Data](ext_articles/1b305eb4.ext.json)
-
----
-
-### Sri Lankan innings end
-
-*2024-09-19 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201186) · `si`
-
-Sri Lanka's first innings ended with 305 runs after adding just 2 more points today. They lost 7 wickets yesterday and couldn't improve their score significantly in the second day of the first Test against New Zealand.
-
-🟩
-
-Today is the first day of the first Test match between Sri Lanka and New Zealand.
-
-Sri Lanka scored 303 runs for the loss of 7 wickets at the end of yesterday.
-
-But today they could only add another 2 other points. Accordingly, Sri Lanka's first innings were limited to 305 runs.
-
-◼️
-
-[Data](articles/621ad732.json)
-
-[Extended Data](ext_articles/621ad732.ext.json)
-
----
-
-### Presidential election;Tomorrow holidays for schools
-
-*2024-09-19 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194072) · `ta`
-
-Schools close tomorrow due to presidential election. Ministry orders schools used as polling stations to hand over facilities.
-
-🟩
-
-The Ministry of Education has announced on Thursday (19) that all schools across the country will be granted holidays tomorrow (20).
-
-The decision was taken on the request of the Election Commission to ahead of the presidential election on Saturday (21).
-
-Accordingly, the Ministry of Education further stated that the schools used as polling stations should be handed over to specific Grama Niladhari after the completion of the school on Thursday (19).
-
-All Zonal Education Directors and Principals have been informed to provide the necessary desks, rays and hall facilities for the voting station.
-
-As mentioned in the circular, the schools used as polling stations will be closed during the relevant period of each school, the Ministry further stated.
-
-The Ministry said that each school mentioned in the circular as schools used as voting centers will be closed only during the respective period.
-
-◼️
-
-[Data](articles/0988556f.json)
-
-[Extended Data](ext_articles/0988556f.ext.json)
 
 ---

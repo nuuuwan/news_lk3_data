@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 16:11:05**
+As of **2024-09-19 16:22:26**
 
 ## Newspaper Stats
 
-*Scraped **44,755** Articles*
+*Scraped **44,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,707
 dailyftlk | 2,980
 adalk | 4,134
 dailymirrorlk | 4,733
-adaderanalk | 5,260
+adaderanalk | 5,261
 tamilmirrorlk | 5,860
 virakesarilk | 7,155
 adaderanasinhalalk | 7,669
@@ -26,31 +26,59 @@ adaderanasinhalalk | 7,669
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,754 (100.0%) of 44,755 articles have been extended.
+44,756 (100.0%) of 44,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
 
-### මියන්මාරයේ සයිබර් අපරාධ කඳවුරුවලට මිනිසුන් යොමු කිරීම් වැඩි වෙයි
+### Second wave of Lebanon device explosions kills 20 and wounds 450
+
+*2024-09-19 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102079/second-wave-of-lebanon-device-explosions-kills-20-and-wounds-450) · `en`
+
+At least 20 people have been killed and more than 450 wounded by a second wave of explosions from wireless communication devices in Lebanon, the country’s health ministry says.
+
+Walkie-talkies used by the armed group Hezbollah blew up in the southern suburbs of the capital Beirut, the Bekaa Valley, and southern Lebanon - areas seen as its strongholds.
+
+Some of the blasts took place during funerals for some of the 12 people who the ministry said were killed when Hezbollah members’ pagers exploded on Tuesday. Hezbollah blamed Israel for that attack. Israel has not commented.
+
+The attacks came as Israel’s Defence Minister Yoav Gallant announced a “new phase in the war” and as an Israeli army division was redeployed to the north.
+
+UN Secretary General António Guterres warned of the “serious risk of a dramatic escalation” and called on all parties to “exercise maximum restraint”.
+
+...
+
+[Data](articles/ae1b60db.json)
+
+[Extended Data](ext_articles/ae1b60db.ext.json)
+
+---
+
+### Meanmar's cyber cyber criminal camps increase
 
 *2024-09-19 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201201) · `si`
 
-මියන්මාරයේ සයිබර් අපරාධ කඳවුරුවලට විවිධ ආකාරයෙන් මෙරට පුරවැසියන් යොමු කිරීම්වල වැඩිවීමක් පිළිබඳව අනාවරණය වී ඇත.
+Sri Lanka citizens report surge in cybercrime camp referrals from Myanmar. Criminals target IT professionals with fake job offers, luring them to Dubai under false pretenses. Victims face physical torture and electrocution in these camps. National Task Force warns of increasing human trafficking cases.
 
-තැනැත්තන් වෙළෙඳාමට එරෙහි ජාතික කාර්ය සාධක බළකාය විසින් ඒ පිළිබඳව අනතුරු අඟවමින් තොරතුරු වාර්තා කරයි.
+🟩
 
-විදෙස් රටවල ආකර්ෂණීය වැටුප් ලැබෙන රැකියා අවස්ථා ලබාදෙන බව පවසා තොරතුරු තාක්‍ෂණ දැනුම ඇති වෘත්තිකයන් ඉලක්ක කර ගනිමින් මෙම මිනිස් වෙළෙඳාම් සිදු කෙරෙන බව වාර්තා වෙයි.
+In different ways, citizens of Sri Lanka have revealed an increase in referrals to cyber crimes camps in Myanmar.
 
-තැනැත්තන් වෙළෙඳාමට එරෙහි ජාතික කාර්ය සාධක බළකාය තවදුරටත් පෙන්වා දෙන්නේ තැනැත්තන් වෙළෙඳාමේ නියුතු පුද්ගලයින් තායිලන්තය වැනි රටවල ඉහළ වැටුප් සහිතව තොරතුරු තාක්ෂණ අංශයේ රැකියා ලබාදෙන බවට පොරොන්දු වෙමින් රැකියා සඳහා තරුණ ශ්‍රමිකයින් ආකර්ෂණය කරගන්නා බවය.
+The National Task Force against the trade is warned by the National Task Force against the trade.
 
-පසුව ඔවුන්ව රැකියා සම්මුඛ පරීක්ෂණයන්ට සහභාගී කරන මුවාවෙන් ඩුබායි වැනි රටවලට රැගෙන ගොස් දේශසීමා හරහා මියන්මාරයේ සයිබර් අපරාධ සිදුකරන කඳවුරුවල සේවය සඳහා බලහත්කාරයෙන් යොමුකරනු ලබන බවද අවධාරණය කරයි.
+It is reported that the human trading is targeted targeting information technological professionals, saying they will provide attractive salary employment opportunities in foreign countries.
 
-මෙම සයිබර් අපරාධ කඳවුරුවලදී ඔවුන්ව ම්ලේච්ඡ ශාරීරික, මානසික වධ හිංසනයන්ට මෙන්ම විදුලි සැර ඇල්ලීම්වලට පවා මුහුණ දීමට සිදුවී ඇති බව මෑත කාලීන විමර්ශන මගින් අනාවරණය වී ඇති බවද සඳහන් කරයි.
+The National Task Force against the trade of persons is further indicated that people in trade attracting that they are attracting jobs with high wages of IT.
+
+It is emphasized that they will be taken to countries such as Dubai by the guise of the guise of employment interviews.
+
+Recently investigations have revealed that they had to face severe physical, physical, torture and even electrification in these cyber crime camps.
 
 ◼️
 
 [Data](articles/5a41330f.json)
+
+[Extended Data](ext_articles/5a41330f.ext.json)
 
 ---
 
@@ -696,11 +724,9 @@ The order was issued today (19) by Colombo High Court Judge Manjula Thilakaratne
 
 The Bribery Commission informed the court that Mr. Ramith Rambukwella had purchased two apartments from an apartment complex located in Colpetty for Rs. 80 million and Rs. 65 million respectively.
 
-The commission requested the court today to issue an order to prohibit the property from being used or accessed as an investigation is being carried out in this regard.
+The commission requested the court today to issue an order to prohibit the property from being used or accessed as an investigation is being carried out in this regard, as part of an investigation against former Health Minister Keheliya Rambukwella.
 
-The High Court Judge, who considered the request, issued an order preventing the use of two luxury apartments until December 19.
-
-◼️
+...
 
 [Data](articles/c25928f0.json)
 
@@ -2379,21 +2405,5 @@ We, as a coalition of civil society organisations advocating for the well-being 
 [Data](articles/16556c62.json)
 
 [Extended Data](ext_articles/16556c62.ext.json)
-
----
-
-### Economic stakes of the 2024 Presidential election
-
-*2024-09-19 02:05:08* · [`dailyftlk`](https://www.ft.lk/opinion/Economic-stakes-of-the-2024-Presidential-election/14-766863) · `en`
-
-As Sri Lanka gears up for elections, policymakers must avoid rash economic promises that risk a decade of lost growth and an era of relative decline.
-
-As too often in the past, Sri Lanka appears not to have broken its damaging tendency towards ‘competitive populism’ ahead of elections. Fiscally profligate promises ranging from wage increases to loan write-offs and welfare handouts are being made in a bid to win votes. Such pledges often come with a hefty price tag that the country can ill afford, especially given its still fragile economic recovery.
-
-...
-
-[Data](articles/5a397998.json)
-
-[Extended Data](ext_articles/5a397998.ext.json)
 
 ---

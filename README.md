@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 03:38:30**
+As of **2024-09-20 04:09:30**
 
 ## Newspaper Stats
 
-*Scraped **44,826** Articles*
+*Scraped **44,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
-tamilmirrorlk | 5,869
+tamilmirrorlk | 5,870
 virakesarilk | 7,180
 adaderanasinhalalk | 7,679
 
@@ -26,33 +26,15 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,826 (100.0%) of 44,826 articles have been extended.
+44,827 (100.0%) of 44,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
 
-### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
-
-*2024-09-20 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
-
-400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
-
-🟩
-
-District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
-
-◼️
-
-[Data](articles/0f8b9cc1.json)
-
-[Extended Data](ext_articles/0f8b9cc1.ext.json)
-
----
-
 ### 'Director Tilak' K. 'Where Dad' released by Bhagyaraj independent music
 
-*2024-09-20 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194141) · `ta`
+*2024-09-20 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/194141) · `ta`
 
 "Director Tilak's 'Where Dad' released by Bhagyaraj independent music. Newcomer Baby Star Baby Lakshana Rishi stars. Directed by SV Rishi. Special screening in Chennai. Bhagyaraj congratulates Lakshana Rishi, predicting future Tamil film debut."
 
@@ -71,6 +53,24 @@ Director K. Bhagyaraj congratulated him, “Baby Lakshana Rishi, a child star st
 [Data](articles/abb564fa.json)
 
 [Extended Data](ext_articles/abb564fa.ext.json)
+
+---
+
+### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
+
+*2024-09-20 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
+
+400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
+
+🟩
+
+District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
+
+◼️
+
+[Data](articles/0f8b9cc1.json)
+
+[Extended Data](ext_articles/0f8b9cc1.ext.json)
 
 ---
 
@@ -153,6 +153,32 @@ For this I am ready to create the second part of the film. Because I will always
 [Data](articles/0fd5ee87.json)
 
 [Extended Data](ext_articles/0fd5ee87.ext.json)
+
+---
+
+### We are monitoring in 9 provinces
+
+*2024-09-20 01:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மாகாணங்களிலும்-கண்காணிக்கின்றோம்/175-344040) · `ta`
+
+European Union election monitors deployed in 9 provinces of Sri Lanka. 32 short-term observers oversee voting process. Activities coordinated with local Elections Department. Monitoring began August 29th.
+
+🟩
+
+The European Union election monitors, which are engaged in presidential election monitoring in Sri Lanka, have been deployed under the surveillance of 32 short -term election monitors in all districts.
+
+The short -term monitors will take place in the aftermath of the end of the campaign;Voting, voting, voting, voting, voting, voting, voting, voting, voting, voting, voting, voting, election results.
+
+The short -term visitors who strengthen our work today will go to the cities and villages and their surveillance is essential to observation of nine provinces, said the Deputy Chief Superintendent of the EU, Inta Lase.
+
+The European Union's short -term monitors will act as two international group, and the activities of the Elections Department are well illustrated before they begin their work.
+
+We have already engaged 26 monitors in surveillance tasks, they are August;In all the provinces of Sri Lanka since 29, the preparations for the election have been monitored by the election campaign.
+
+◼️
+
+[Data](articles/d3a24eac.json)
+
+[Extended Data](ext_articles/d3a24eac.ext.json)
 
 ---
 
@@ -2479,31 +2505,5 @@ In this case, the baby died on the 16th. During the anatomical examination, the 
 [Data](articles/16ba6430.json)
 
 [Extended Data](ext_articles/16ba6430.ext.json)
-
----
-
-### Court order forbids two houses belonging to Ramith Rambukwella
-
-*2024-09-19 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201189) · `si`
-
-Colombo High Court bans use of luxury houses owned by Ramith Rambukwella due to bribery allegations. Order issued until December 19. Bribery Commission requested investigation.
-
-🟩
-
-The Colombo High Court today (19) has issued an order today (19) banning the use of luxury houses of the son of former Health Minister Keheliya Rambukwella.
-
-The order was issued by the Colombo High Court Judge Manjula Tilakaratne regarding a request made by the Bribery Commission.
-
-The Bribery Commission had informed the court that a luxury housing complex in Kollupitiya has been purchased at two thousand rupees and Rs. 65 million.
-
-The commission also requested the court today to issue an investigation into the matter.
-
-After the request, the High Court judge issued an order to ban the use of the matter until December 19.
-
-◼️
-
-[Data](articles/5f176ef0.json)
-
-[Extended Data](ext_articles/5f176ef0.ext.json)
 
 ---

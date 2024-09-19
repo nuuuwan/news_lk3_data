@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 14:23:36**
+As of **2024-09-19 14:38:24**
 
 ## Newspaper Stats
 
-*Scraped **44,741** Articles*
+*Scraped **44,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,131
+adalk | 4,132
 dailymirrorlk | 4,733
 adaderanalk | 5,259
 tamilmirrorlk | 5,858
 virakesarilk | 7,152
-adaderanasinhalalk | 7,664
+adaderanasinhalalk | 7,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,741 (100.0%) of 44,741 articles have been extended.
+44,743 (100.0%) of 44,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### 20 years of ban in Dulip Samaraweera
+
+*2024-09-19 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201196) · `si`
+
+Dulip Samaraweera banned 25 years: Former Sri Lanka Test cricketer penalized for inappropriate behavior while coaching Victoria. Prohibited from playing for Australian Institute, state cricket associations, or Big Bash teams. Investigation by SLC authorities.
+
+🟩
+
+Sri Lanka former Sri Lanka Test cricketer, Sri Lanka's former Sri Lanka Test cricketer in Australia, has been imposed to impose a twenty-five years.
+
+He has been accused of violating the conduct of the Institute of Customer Australia.
+
+He is prohibited by the Australian Institute, State or Other Cricket Association or Big Bash teams.
+
+The investigation conducted by SLC authorities have revealed that he was accused of "inappropriate behavior" when serving as a coach of Victoria.
+
+◼️
+
+[Data](articles/ed8be8db.json)
+
+[Extended Data](ext_articles/ed8be8db.ext.json)
+
+---
 
 ### Didn't you receive votes yet?
 
@@ -899,6 +923,32 @@ The suspect was arrested and the Gotadwela Police are conducting further investi
 [Data](articles/a5c70755.json)
 
 [Extended Data](ext_articles/a5c70755.ext.json)
+
+---
+
+### A businessman shot dead
+
+*2024-09-19 10:23:22* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාපාරිකයෙක්-වෙඩි-තබා-ඝාතනය-කරයි/11-412018) · `si`
+
+Businessman killed in shooting incident near Dehiwala. Two victims found dead at 6 PM. Owner of 112/1 Thonean hotel involved. One victim critically injured, hospitalized at Colombo Teaching Hospital. Case under investigation by CID and Kohuwala police.
+
+🟩
+
+Two persons who came to a motorbike with a hotel owner of Dehiwala, Saranankara road have been shot dead at 18.00 pm.
+
+The deceased has been identified as the owner of the 112/1 (Thonean), owner of the 112/1 ('.).
+
+One of the two persons who have come to buy smoking from the hotel and that one of the two persons have come to buy smoking in the hotel, the owner had fled the round.
+
+Accordingly, the person who was seriously injured by the persons who were seriously injured by the persons who were seriously injured were admitted to the Colombo Teaching Hospital.
+
+Kohuwala OIC Chief Inspector Wasantha Pitigala, Criminal Investigation Division Mr. OIC Inspector General of Police OIC.
+
+◼️
+
+[Data](articles/3ec30f53.json)
+
+[Extended Data](ext_articles/3ec30f53.ext.json)
 
 ---
 
@@ -2291,45 +2341,5 @@ The body of a person who died with suspicious shooting injuries in the Nalagama 
 [Data](articles/965dce4a.json)
 
 [Extended Data](ext_articles/965dce4a.ext.json)
-
----
-
-### Namal Rajapaksa: 'The country is not bankrupt and that Gotabhaya has been transformed.'
-
-*2024-09-19 00:31:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c756lklepkqo) · `si`
-
-Namal Rajapaksa denies bankruptcy claim, says Gotabhaya transformed. Port City project reactivated. Rajapaksas accused of financial mismanagement.
-
-🟩
-
-Namal Rajapaksa: 'The country is not bankrupt and that Gotabhaya has been transformed.'
-
-The Colombo Port City Project (PEOT CITY) has been reactivated after 22nd, the Colombo Port City Project (Port City) will react to the 22nd.
-
-"We know why the port city and these development proposals were made. We have the Business Plan. After 22, we translate that Sri Lanka is the center of Sri Lanka in Asia. The Rajapaksas have bankrupted this country, and they are not the Rajapaksas' country bankrupt. "Gotabhaya is sins," he said.
-
-The final rally participated in the presidential claimed by Basil Rajapaksa's nephew of former President Mahinda Rajapakse and the president of Gotabhaya Rajapakse and the Founder of Gotabhaya Rajapakse and the Founder of Gotabhaya Rajapakse was held at the Somaweera Chandrasiri Fonseka.
-
-◼️
-
-[Data](articles/eae385eb.json)
-
-[Extended Data](ext_articles/eae385eb.ext.json)
-
----
-
-### Prime Residencies celebrates groundbreaking of ultra-luxury Boutique development
-
-*2024-09-19 00:18:00* · [`islandlk`](http://island.lk/prime-residencies-celebrates-groundbreaking-of-ultra-luxury-boutique-development/) · `en`
-
-Sri Lanka’s most prolific and trusted property developer, Prime Lands Residencies PLC, celebrated the groundbreaking of its latest ultra-luxury boutique development, ‘The Seasons Colombo 8’. The foundation stone laying ceremony marked the official commencement of construction for this unique living experience, poised to set new standards in luxury living.
-
-The event was graced by Prime Group’s Chairman and Co-Chairperson, along with distinguished guests and stakeholders, underlining this significant milestone. It also heralded the beginning of an exciting journey for a vibrant and special community of the One Collection: the Group’s ultra-luxury residential segment.
-
-...
-
-[Data](articles/21f8a034.json)
-
-[Extended Data](ext_articles/21f8a034.ext.json)
 
 ---

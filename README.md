@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 10:11:04**
+As of **2024-09-19 10:22:46**
 
 ## Newspaper Stats
 
-*Scraped **44,688** Articles*
+*Scraped **44,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,703
 dailyftlk | 2,980
 adalk | 4,125
 dailymirrorlk | 4,733
-adaderanalk | 5,253
-tamilmirrorlk | 5,848
+adaderanalk | 5,254
+tamilmirrorlk | 5,853
 virakesarilk | 7,141
-adaderanasinhalalk | 7,648
+adaderanasinhalalk | 7,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,688 (100.0%) of 44,688 articles have been extended.
+44,688 (100.0%) of 44,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### EC prepared for any potential weather disruptions during Presidential Election
+
+*2024-09-19 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102072/ec-prepared-for-any-potential-weather-disruptions-during-presidential-election) · `en`
+
+The Election Commission says that all necessary measures have been taken to face any possible disaster situations that might occur due to unexpected weather conditions during the presidential election.
+
+The Chairman of the Election Commission R.M.A.L. Rathnayake said that more attention has been paid to the districts where there are concerns about potential disaster situations or emergencies.
+
+He further stated that starting from tomorrow (20), they will also receive a weather report from the Meteorological Department every three hours.
+
+Meanwhile, the Disaster Management Centre (DMC) and the Election Commission have planned to implement a special joint program to address any disruptions to the presidential election that could be cause by natural disasters.
+
+Accordingly, the Director of the Disaster Management Centre, Pradeep Kodippili mentioned that the program is planned to be implemented from today until September 22.
+
+◼️
+
+[Data](articles/acd08e18.json)
+
+---
+
+### வாக்கி-டாக்கி வெடிப்பில்  பலி எண்ணிக்கை 20ஆக அதிகரிப்பு
+
+*2024-09-19 10:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வாக்கி-டாக்கி-வெடிப்பில்-பலி-எண்ணிக்கை-20ஆக-அதிகரிப்பு/50-344011) · `ta`
+
+லெபனானில் பேஜர்கள் வெடித்துச் சிதறிய நிலையில், தற்போது ஹிஸ்புல்லா அமைப்பினர் பயன்படுத்திய வாக்கி-டாக்கிகள் வெடித்ததில் 20 பேர் உயிரிழந்தனர். 450க்கும் மேற்பட்டோர் பலத்த காயமுற்றனர்.
+
+மேற்காசிய நாடான இஸ்ரேலுக்கும், ஹமாஸ் பயங்கரவாத அமைப்புக்கும் இடையேயான போர் கடந்தாண்டு அக்., 7இல் தொடங்கியது.
+
+ஹமாஸ் அமைப்புக்கு, அண்டை நாடான லெபனானில் இருந்து செயல்படும் ஹிஸ்புல்லா பயங்கரவாத அமைப்பு ஆதரவு அளித்து வருகிறது. ஈரானின் ஆதரவைப் பெற்ற ஹிஸ்புல்லா, இஸ்ரேல் மீது தொடர் தாக்குதலில் ஈடுபட்டு வருகிறது. இஸ்ரேலும் பதில் தாக்குதல் நடத்தி வருகிறது.
+
+ஹிஸ்புல்லா அமைப்பை, அமெரிக்கா மற்றும் ஐரோப்பிய யூனியன் ஏற்கனவே தடை விதிக்கப்பட்ட பயங்கரவாத அமைப்பாக அறிவித்துள்ளன. இந்நிலையில், லெபனானில் 3,000க்கும் மேற்பட்ட ஹிஸ்புல்லா பயங்கரவாதிகளின் பேஜர் எனப்படும் தகவல்களை அனுப்ப பயன்படுத்தப்படும் மின்னணு சாதனம், நேற்று முன்தினம் வெடித்து சிதறியது.
+
+பல்வேறு பகுதிகளில் ஒரே சமயத்தில் பேஜர் வெடித்ததில், 12 பேர் பலியாகினர்; 2,750 பேர் காயமடைந்தனர். இவர்களில், 200 பேரின் நிலை கவலைக் கிடமாக உள்ளது.
+
+...
+
+[Data](articles/93a7ce9b.json)
+
+---
 
 ### Notification to election offices
 
@@ -57,6 +97,62 @@ The Election Commission has urged that the election offices functioning beyond t
 [Data](articles/198ac197.json)
 
 [Extended Data](ext_articles/198ac197.ext.json)
+
+---
+
+### “தேர்தல் அலுவலகங்கள் அகற்றப்படும்”
+
+*2024-09-19 09:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அலுவலகங்கள்-அகற்றப்படும்/175-344009) · `ta`
+
+தேர்தல் காலத்தில் அங்கீகரிக்கப்பட்ட தேர்தல் செயல்பாட்டு நேர வரம்புகளை விவரிக்கும் அறிவிப்பை தேர்தல் ஆணையம் வெளியிட்டுள்ளது.
+
+அந்த அறிவிப்பின்படி, தொகுதி அளவில் அறிவிக்கப்பட்ட கிளை தேர்தல் அலுவலகங்களின் செயல்பாடு வியாழக்கிழமை (19) நள்ளிரவுடன் நிறுத்தப்படும்.
+
+ஒவ்வொரு வாக்குச் சாவடியின் மட்டத்திலும் நிறுவப்பட்ட தேர்தல் அலுவலகங்கள் நாளை முதல் செயல்படத் தொடங்கும் மற்றும் செப்டம்பர் 22 ஆம் திகதி வரை பராமரிக்கப்படும். அதேபோல், தொகுதி அளவிலான தேர்தல் அலுவலகங்கள் செயல்படுவதற்கான கால அவகாசமும் செப்டம்பர் 22ஆம் திகதி நள்ளிரவுடன் முடிவடைகிறது.
+
+மேலும், செப்டம்பர் 22ஆம் திகதி நள்ளிரவில் இருந்து, ஜனாதிபதி வேட்பாளர்களோ அல்லது அவர்களது அங்கீகரிக்கப்பட்ட பிரதிநிதிகளோ தங்கள் வீடுகளை தேர்தல் அலுவலகங்களாக பயன்படுத்த அனுமதிக்கப்பட மாட்டார்கள். இந்த காலக்கெடுவிற்கு அப்பால் செயல்படும் தேர்தல் அலுவலகங்கள் தேர்தல் சட்டத்தின்படி உடனடியாக அகற்றப்படும் என தேர்தல் ஆணைக்குழு வலியுறுத்தியுள்ளது
+
+◼️
+
+[Data](articles/558c8080.json)
+
+---
+
+### මැතිවරණ රාජකාරී සඳහා බස් 1,358ක් සුදානම්
+
+*2024-09-19 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201181) · `si`
+
+මෙවර ජනාධිපතිවරණයට අදාළව මැතිවරණ රාජකාරී කටයුතු සඳහා බස් රථ 1,358ක් ලබාදීමට නියමිත බව ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+
+එහි නියෝජ්‍ය සාමාන්‍යාධිකාරී පණ්ඩුක ස්වර්ණහංස මහතා සඳහන් කළේ, දිස්ත්‍රික් මැතිවරණ කාර්යාල හරහා සිදුකර ඇති ඉල්ලීම් පරිදි එම බස් රථ ලබාදීමට කටයුතු කරන බවය.
+
+ඊට අමතරව මැතිවරණයට අදාළ පොලිස් රාජකාරී කටයුතු සඳහා ද බස් රථ 175ක් ලබාදීමට නියමිතව තිබේ.
+
+මේ අතර ඡන්දය භාවිත කිරීම සඳහා ගම්බිම් බලා පිටත් වන ජනතාවගේ පහසුව සඳහා අද (20) සහ හෙට (21) යන දිනවල දුර ගමන් සේවා විශේෂ බස් රථ සේවාවක් ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බව ලංකා ගමනාගමන මණ්ඩලය පැවසුවේය.
+
+මේ අතර කොළඹ කොටුව සහ කන්කසන්තුරය අතර අද දින විශේෂ දුම්රියක් ධාවනය කිරීමට සැලසුම් කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව සඳහන් කළේ, අද සහ ලබන 21 වන දින මෙම දුම්රිය කොළඹ කොටුවේ සිට කන්කසන්තුරය දක්වා ධාවනය කරන අතර හෙට සහ 22 වන දින කන්කසන්තුරයේ සිට කොළඹ දක්වා ධාවනය කිරීමට නියමිත බවය.
+
+...
+
+[Data](articles/f4526966.json)
+
+---
+
+### පුපුරණ ද්‍රව්‍ය සමග සැකකරුවන් පිරිසක් කොටුවෙයි
+
+*2024-09-19 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201180) · `si`
+
+නාඋල පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත ඊයේ (18) අලුයම නාඋල බිබිල ප්‍රදේශයේ සිදුකළ වැටලීමක දී මෙම සැකකරුවන් ත්‍රීරෝද රථයකින් ගමන් කරමින් සිටිය දී අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය අංශය පවසයි.
+
+එහිදී සැකකරුවන් සතුව තිබී සේවා නූල් සවි කරන ලද ඩෙටනේටර් 05ක්, වෝටර් ජෙල් කූරු 03ක් සහ වයර් රෝලක් සොයාගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 38, 49, 50 සහ 65 යන වයස්වල පසුවන කටුගස්තොට, ගම්පොළ, ඇළහැර හා උඩලගවින්න ප්‍රදේශයවල පදිංචිකරුවන් වේ.
+
+◼️
+
+[Data](articles/08c91c16.json)
 
 ---
 
@@ -203,6 +299,22 @@ Meanwhile, the Railway Department has taken steps to operate a special train bet
 [Data](articles/39bd9f23.json)
 
 [Extended Data](ext_articles/39bd9f23.ext.json)
+
+---
+
+### சனியன்று ரயில்கள் ஓடும்
+
+*2024-09-19 08:21:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனியன்று-ரயில்கள்-ஓடும்/175-344005) · `ta`
+
+ஜனாதிபதித் தேர்தல் தினத்தன்று வழக்கமான ரயில் நேர அட்டவணை அமுல்படுத்தப்படும் என ரயில்வே பிரதி பொது முகாமையாளர் நந்தன இடிபோலகே தெரிவித்துள்ளார்.
+
+ஞாயிற்றுக்கிழமை (22) நீண்ட தூர ரயில்கள் இயக்கப்படும் என்றும், குறுகிய தூர ரயில் பயணங்களில் ஒரு குறிப்பிட்ட அளவு குறையும் என்றும் தெரிவித்தார்.
+
+இதேவேளை, தேர்தல் கடமைகளில் ஈடுபடும் அரச அதிகாரிகள் மற்றும் பாதுகாப்பு உத்தியோகத்தர்களுக்காக கொழும்பு கோட்டைக்கும் காங்கேசன்துறைக்கும் இடையில் விசேட புகையிரதத்தை இயக்குவதற்கு ரயில்வே திணைக்களம் நடவடிக்கை எடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/90a42f2a.json)
 
 ---
 
@@ -395,6 +507,22 @@ Commenting on the one -day workshop to clarify to those in the construction sect
 [Data](articles/6b1cdbb4.json)
 
 [Extended Data](ext_articles/6b1cdbb4.ext.json)
+
+---
+
+### ’’நிர்மாணத்துறை இன்னும் மீளவில்லை’’
+
+*2024-09-19 07:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்மாணத்துறை-இன்னும்-மீளவில்லை/175-344000) · `ta`
+
+இலங்கையில் ஏற்பட்ட பொருளாதார நெருக்கடியால் மிகவும் பாதிக்கப்பட்ட நிர்மாணத்துறை இன்னும் மீளவில்லை என இலங்கை தேசிய நிர்மாண சங்கத்தின் தலைவர் டேரின்டன் போல் தெரிவித்தார்.
+
+சுமார்  2000 முதல் 2500 வரையிலான சிறியளவிலான நிர்மாணத்துறையினர் தற்போது தமது தொழிலில் இருந்து விலகியுள்ள நிலையில், நாட்டின் 9 மாகாணங்களில் உள்ள 11 அலுவலகங்களின் ஊடாக, நிர்மாணத்துறையில் உள்ளவர்களுக்கு தெளிவினை பெற்றுக்கொடுத்து அவர்களை வலுப்படுத்தும் நடவடிக்கைகள் தற்போது முன்னெடுக்கப்பட்டு வருவதாக அவர் கூறினார்.
+
+நாட்டில் சிறிய மற்றும் நடுத்தர நிர்மாணத்துறையினரே அதிகளவில் உள்ள நிலையில், நாட்டின் நிர்மாணதுறை சார்ந்த சட்டத்திட்டங்கள் தொடர்பில் அவர்களுக்கு போதிய தெளிவின்மையால் பல்வேறு விதிமீறல்கள் இடம்பெறவதுடன், இது தொடர்பில் தெளிவுப்படுத்தல்களை வழங்குவதற்காக நாடு முழுவதும், பல்வேறு செயமர்வுகளை இலங்கை தேசிய நிர்மாண சங்கம் முன்னெடுத்துள்ளதாக அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/cfef7293.json)
 
 ---
 
@@ -833,6 +961,22 @@ As too often in the past, Sri Lanka appears not to have broken its damaging tend
 [Data](articles/5a397998.json)
 
 [Extended Data](ext_articles/5a397998.ext.json)
+
+---
+
+### 45 தமிழக மீனவர்களுக்கு ரூ.10 கோடி  அபராதம்
+
+*2024-09-19 02:05:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/45-தமிழக-மீனவர்களுக்கு-ரூ-10-கோடி-அபராதம்/175-343992) · `ta`
+
+இலங்கைக் கடற்படையினரால் கைது செய்யப்பட்ட 35 நாட்டுப் படகு மீனவர்கள், 10 விசைப் படகு மீனவர்கள் என 45 தமிழக மீனவர்களுக்கு மொத்தம் பத்துக் கோடி ரூபா அபராதம் விதித்து புத்தளம் நீதிமன்றம் நேற்று  உத்தரவிட்டுள்ளது.
+
+இராமேஸ்வரம் அருகே பாம்பன் மீன்பிடி துறைமுகத்திலிருந்து கடலுக்குச் சென்ற  நான்கு நாட்டுப் படகுகளை கைப்பற்றி அதிலிருந்த 35 மீனவர்களை இலங்கைக் கடற்படையினர் கடந்த ஆகஸ்ட் 8 ஆம் திகதியன்று  கைது செய்தனர்.
+
+35 மீனவர்கள் மீதும் எல்லை தாண்டி மீன்பிடித்தல், தடை செய்யப்பட்ட வலைகளை பயன்படுத்துதல் உள்ளிட்ட பிரிவுகளின் கீழ் குற்றப்பத்திரிக்கை தாக்கல் செய்யப்பட்டு புத்தளம் மாவட்டம் வாரியாபொல சிறையில் அடைக்கப்பட்டிருந்தனர்.
+
+...
+
+[Data](articles/350a04fe.json)
 
 ---
 
@@ -2113,211 +2257,5 @@ Many international reports predicted that the election could go to the second pr
 [Data](articles/82ca9b2d.json)
 
 [Extended Data](ext_articles/82ca9b2d.ext.json)
-
----
-
-### Train services to operate normally on Election Day
-
-*2024-09-18 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102064/train-services-to-operate-normally-on-election-day) · `en`
-
-The Deputy General Manager of Railways, Nandana Idipolage stated that the normal train schedule for Saturdays will be implemented on the day of the Presidential Election (Sept. 21).
-
-Responding to a query from Ada Derana, he further stated that long-distance trains will be operated on Sunday (22) and that there could be a certain decrease in short-distance train journeys.
-
-Meanwhile, the Department of Railways has taken steps to operate a special train to between Colombo Fort and Kankesanturai for government officials and security personnel engaging in election duties.
-
-◼️
-
-[Data](articles/dfe5eb67.json)
-
-[Extended Data](ext_articles/dfe5eb67.ext.json)
-
----
-
-### Dilith says about the decision of the people
-
-*2024-09-18 18:49:42* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාව-ගත-යුතු-තීරණය-ගැන-දිලිත්-කියයි/11-412007) · `si`
-
-Here's a 200-character summary:
-
-
-
-Presidential candidate Dilith Jayaweera urges voters to reject traditional politics, promising to combat corruption and elevate Sri Lanka from third-world status. He emphasizes the importance of making informed decisions based on conscience rather than party loyalty.
-
-🟩
-
-The presidential candidate entreprene of the presidential candidate Dilith Jayaweera said the people should go beyond the traditional politics of the presidential election.
-
-He was speaking at the last massive rally held in Kottawa today (18).Mr. Jayaweera further said:
-
-"Where's the difference now?225 What happened to us to chase the corruptions that were told to changed the sysmity?All those candidates who are contesting for the presidential election today are all that old face. Now give a difference to those who ask for the difference and bring a political narrative to eliminate corruption and touching thieves.. Thieves.
-
-We're so depressed at this decisive election. We want to send this country in front of. Not to send back. We want to put the country to go to the first world in the third world. Not to take the world to the world.
-
-...
-
-[Data](articles/1651ca3a.json)
-
-[Extended Data](ext_articles/1651ca3a.ext.json)
-
----
-
-### Sajith has formed a dishonest alliance to share the posts of President and Opposition Leader - Rajitha Senaratne
-
-*2024-09-18 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/194051) · `ta`
-
-Sajith forms alliance with Namal to share President and Opposition Leader roles. Rajitha Senaratne accuses them of dishonesty. Sajith promises not to act against Rajapaksas. Alliance aims to make Sajith president and Namal opposition leader. President Wickremesinghe accused of protecting Rajapaksas despite economic growth.
-
-🟩
-
-Kalutara District United People's Power MP Rajitha Senaratne said that a dishonest alliance between Namal and Sajith has been formed to share the posts of the President and Opposition Leader. Accordingly, Sajith Premadasa has promised Namal Rajapaksa to win the presidential election and that he will not take any action against the Rajapaksa in response.
-
-President Ranil Wickremesinghe, a member of the United People's Power Kalutara District Parliamentarian, Rajitha Senaratne, who was present at a media briefing held at the political office at the Political Office of Colombo, Colombo.
-
-He said that whatever alliances were formed to bury President Ranil Wickremesinghe's victory in the upcoming presidential election, none of it would win and the president is still at the forefront of the presidential election.
-
-...
-
-[Data](articles/62a467ec.json)
-
-[Extended Data](ext_articles/62a467ec.ext.json)
-
----
-
-### Special train services
-
-*2024-09-18 18:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலன்று-விசேட-ரயில்-சேவைகள்/175-343968) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Extra train services run from Colombo Fort to Kankesanthurai for presidential election duties. Short-range trains may operate on Sunday."
-
-🟩
-
-Special train services have been arranged between Colombo Fort and Kankesanthurai (KKS) to facilitate the presidential election duties.
-
-The department said that the number of short -range train services may occur on Sunday (22).
-
-◼️
-
-[Data](articles/70eafa35.json)
-
-[Extended Data](ext_articles/70eafa35.ext.json)
-
----
-
-### ASP's assets banned the drawing drama on the irrection
-
-*2024-09-18 18:42:56* · [`adalk`](https://www.ada.lk/breaking_news/උද්දිකට-වෙඩි-තැබූ-නාටකය-ලියූ-ඒ-එස්-පීගේ-වත්කම්-තහනම්-කරයි/11-412006) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former ASP Udabba Uddika Premaratne faces investigation over alleged purchase of luxury cars and land from drug dealers. Assets worth millions, including BMWs and land, may be seized. Judge accepts Bribery Commission's request to probe and potentially ban these assets on Dec 18.
-
-🟩
-
-Former Assistant Superintendent of Assistant Superintendent of Assistant Parliamentarian Udabba Uddika Premaratne has planned to ban a luxury car and two acres of land and two acres of land.On the 18th.
-
-Do the former Assistant Superintendent of Police have purchased these vehicles and lands from drug dealers?The judge who accepted a request made by the Bribery Commission to investigate the request of the Bribery Commission and the two lands of corruption will be accepted by the Investigation Division of the Investigation Division of the Commission.As a result, the BMW type of Luxury Car, No. LL is banned by CBC 7199. Three vehicles, including the lorry, 9725, is larger than four acres of land in the North Central Province, the Central Secretary of the Nuwara Eliya of the North Central Province.
-
-The Finance and Real Estaries of Investigation Division (TEC) in connection with the Investigation Commission of Investigation Commission (ICI)
-
-...
-
-[Data](articles/39442e96.json)
-
-[Extended Data](ext_articles/39442e96.ext.json)
-
----
-
-### United People's Power won by 20 lakh votes - Sajith Premadasa
-
-*2024-09-18 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194050) · `ta`
-
-Sajith Premadasa predicts United People's Power win by 20 lakh votes. Promises peaceful celebration, protecting Buddha's blessings, stopping drugs, religious freedom, reducing taxes, eliminating corruption, supporting farmers, eradicating poverty, closing liquor shops.
-
-🟩
-
-According to the Intelligence Agency, the United People's Power will win over 20 lakh votes.Ranil is at the lower level. All the things mentioned in the election manifesto will protect the blessings of the Buddha and we will surely succeed. I urge you to celebrate this victory peacefully, ”the opposition leader said.
-
-He said this while addressing the election campaign organized by the United People's Alliance in Moneragala.
-
-Violence is not the policy of the United People's Power. We will join all partners on the journey of building this country so as not to harm anyone with alternative policy.We will protect that right because anyone has the right to adopt religion, Hindu, Islam and Catholicism.
-
-Similarly, we will make maximum decisions required to stop the drug distribution within the country within six months. We will take steps to bring the drug to the end of the drug. Our victory in this upcoming election is sure.
-
-...
-
-[Data](articles/6ca9b219.json)
-
-[Extended Data](ext_articles/6ca9b219.ext.json)
-
----
-
-### Hezbollah scaressed pajar attack
-
-*2024-09-18 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201162) · `si`
-
-Here's a 200-character summary of the Hezbollah pager attack:
-
-
-
-Hezbollah militants targeted in Lebanon. 12 killed in explosion. Mossad allegedly supplied explosives for pagers. Pagers replaced mobile phones months ago. Gold Apollo denies involvement. Hungarian company claims responsibility. Attack harmed eyes and limbs of victims. Son of MP and daughter of official among casualties.
-
-🟩
-
-More information on the pager attack, aimed at the Hebollah militants in Lebanon, is being revealed.
-
-International media reported that 12 people were killed in the attack.
-
-According to the revealed information, the Mossad intelligence organization of Israel has contacted the explosives for the pagers used by Hezbollah.
-
-The use of mobile phones for members of Hezbollah was banned a few months ago, instead of using pagers to interchange.
-
-The questionful pagers had been purchased recently, and Hisbollah said that the Israeli plan was guessed to know the Israeli plan.
-
-The brand of the bribery of the bribery is a Gold Apoollo, a Gold Apoollo, rejects that allegation.
-
-They say that the relevant pagers are produced a Hungarian company.
-
-They were harming the eyes and limbs of many of those explosions.
-
-The international media reported that the son of a Member of Parliament and the daughter of a member of a member of a member of a member of a member of the Becca Valley.
-
-◼️
-
-[Data](articles/27d3669f.json)
-
-[Extended Data](ext_articles/27d3669f.ext.json)
-
----
-
-### Two banned by the party to sell the party
-
-*2024-09-18 18:36:29* · [`adalk`](https://www.ada.lk/breaking_news/ජනකට-පක්ෂය-විකුණන්න-අල්ලස්-ගත්ත-දෙන්නාට-ඇප/11-412005) · `si`
-
-Here's a summary of 200 characters based on the provided text:
-
-
-
-Colombo Chief Magistrate Thilina Gamage banned two people from selling party tickets. They were released on bail but fled abroad without permission.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage today (18) ordered.
-
-The bail of two worthy of Rs.
-
-After the bail, the suspects were absolutely avoided abroad without permission.
-
-◼️
-
-[Data](articles/f9d160cc.json)
-
-[Extended Data](ext_articles/f9d160cc.ext.json)
 
 ---

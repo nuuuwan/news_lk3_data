@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 19:10:18**
+As of **2024-09-19 19:22:40**
 
 ## Newspaper Stats
 
-*Scraped **44,781** Articles*
+*Scraped **44,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,141
 dailymirrorlk | 4,733
 adaderanalk | 5,264
-tamilmirrorlk | 5,860
+tamilmirrorlk | 5,861
 virakesarilk | 7,164
 adaderanasinhalalk | 7,675
 
@@ -26,27 +26,51 @@ adaderanasinhalalk | 7,675
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,780 (100.0%) of 44,781 articles have been extended.
+44,781 (100.0%) of 44,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
 
-### ජාතික ආරක්ෂක කවුන්සිලය රැස්වෙයි
+### விருப்புத் தேர்வு குறித்த அறிவிப்பு
+
+*2024-09-19 18:53:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்புத்-தேர்வு-குறித்த-அறிவிப்பு/175-344029) · `ta`
+
+இலங்கையின் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க, செப்டம்பர் 21ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலின் இறுதி முடிவுகள், இரண்டாவது விருப்பத்தேர்வு எண்ணுக்கு நகர்ந்தாலும், செப்டெம்பர் 22ஆம் திகதிக்குள் முடிவடையும் என எதிர்பார்க்கப்படுவதாக அறிவித்தார்.
+
+இறுதி அறிவிப்பிற்கான சரியான காலவரையறையை தன்னால் வழங்க முடியாத நிலையில், அந்த நடவடிக்கையை குறித்த நாளுக்குள் முடிக்க ஆணைக்குழு இலக்கு வைத்துள்ளதாக ரத்நாயக்க தெரிவித்தார்.
+
+2024 ஜனாதிபதித் தேர்தல் இலங்கை வரலாற்றில் முதல் தடவையாக இரண்டாவது விருப்பு வாக்கு எண்ணிக்கைக்கு முன்னேறும் என்று பல தகவல்கள் ஊகிக்கின்றன.
+
+நாட்டின் தேர்தல் விதிகளின்படி, ஒரு வேட்பாளர் ஜனாதிபதி பதவியை வெல்வதற்கு மொத்த வாக்குகளில் 50% க்கும் அதிகமான வாக்குகளைப் பெற வேண்டும். எந்தவொரு வேட்பாளரும் இந்த பெரும்பான்மையை அடையவில்லை என்றால், முதல் இரண்டு வேட்பாளர்களைத் தவிர மற்ற அனைவரும் நீக்கப்படுவார்கள், மேலும் நீக்கப்பட்ட வேட்பாளர்களின் வாக்குச்சீட்டில் இருந்து இரண்டாவது விருப்பத்தேர்வுகள் மறுபகிர்வு செய்யப்படும்.
+
+...
+
+[Data](articles/3b2bab32.json)
+
+---
+
+### National Security Council meets
 
 *2024-09-19 18:23:55* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ආරක්ෂක-කවුන්සිලය-රැස්වෙයි/11-412029) · `si`
 
-ජාතික ආරක්ෂක කවුන්සිලය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් අද (19) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී රැස් විය.
+National Security Council meeting: President Wickremesinghe chairs discussion on election security, candidate protection, and post-election stability.
 
-එළැඹෙන 2024 ජනාධිපතිවරණය ස්වාධීන හා නිදහස් මැතිවරණක් ලෙස පැවැත්වීමට අවශ්‍ය ආරක්ෂක විධිවිධාන සැලසීම පිළිබඳ මෙහිදී සාකච්ඡාවට ලක් කෙරිණි.
+🟩
 
-මැතිවරණ දිනයේ දී රට තුළ නීතිය හා සාමය ආරක්ෂා කිරීම, අපේක්ෂකයන්ගේ ආරක්ෂාව තහවුරු කිරීම, ජන්ද මධ්‍යස්ථාන හා ජන්ද ගණන් කරන ස්ථාන ආශ්‍රිත ආරක්ෂාව සහතික කිරීම සඳහා මැතිවරණ කොමිසමට අවශ්‍ය පූර්ණ සහාය ලබා දීම පිළිබඳ මෙහිදී සාකච්ඡා විය.
+The Presidential Secretariat met at the Presidential Secretariat this morning under the patronage of President Ranil Wickremesinghe.
 
-එසේම පශ්චාත් මැතිවරණ සමයේදී රට තුළ නීතිය හා සාමය ආරක්ෂා කරමින් ජනතාවගේ දෛනික ජීවිත අඩාල නොවන පරිදි පවත්වාගෙන යාමට හැකි පසුබිම සැලසීමට අවශ්‍ය සියලු පියවර ගන්නා ලෙස ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ආරක්ෂක අංශ ප්‍රධානීන්ට උපදෙස් දුන්නේය.
+The discussion was discussed with the security forms of the Presidential Election as an independent and independence and independence.
+
+During the election day, it was discussed at the meeting of the election commission to ensure the safety of the candidates, ensuring the safety of the candidates, ensuring the safety of candidates, issues and voting.
+
+President Ranil Wickremesinghe instructed the Heads of the Security Forces to protect the daily lives of the people in the post election.
 
 ◼️
 
 [Data](articles/9590744a.json)
+
+[Extended Data](ext_articles/9590744a.ext.json)
 
 ---
 
@@ -2429,37 +2453,5 @@ Meanwhile, the Emergency Telephone number of the Department of Excise, 1913, has
 [Data](articles/3bacd2f1.json)
 
 [Extended Data](ext_articles/3bacd2f1.ext.json)
-
----
-
-### Today's climate forecast
-
-*2024-09-19 07:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-காலநிலை-முன்னறிவிப்பு/175-344001) · `ta`
-
-Climate forecast: Rainfall expected in Sabaragamuwa, Western, Southern Provinces. Strong winds in Central Highlands and coastal areas. Thunderstorms possible in sea regions. Public advised to be cautious due to strong winds and lightning.
-
-🟩
-
-The Department of Meteorology has said that rainfall will occur today (19), the Sabaragamuwa, the Western and Southern Provinces, as well as the Kandy and Nuwara Eliya districts.
-
-There are many places in the Eastern and Uva provinces in the evening or night.
-
-Strong winds can be frequent at speeds of 40 to 45 km / h in the western slopes of the Central Highlands as well as in the North Central and Southern Provinces.
-
-Rainfall or thunderstorms are likely to occur in many parts of the sea regions along the coast of Colombo to Hambantota via Galle.
-
-Winds from the west or southwest at speeds of 30 - 40 km / h in the sea regions.
-
-From Matara to Hambantota, Pottuvil, from Kankesanthurai to Mannar via Puttalam, the sea can be increased at speeds of 60 kilometers per hour.
-
-From Trincomalee to Kankesanthurai to Kankesanthurai, Puttalam to Colombo and Matara, Matara, Matara, Matara will increase between 50 kilometers per hour.
-
-The public is asked to take care in the events of strong winds and lightning.
-
-◼️
-
-[Data](articles/803fabfb.json)
-
-[Extended Data](ext_articles/803fabfb.ext.json)
 
 ---

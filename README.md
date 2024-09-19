@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 16:22:26**
+As of **2024-09-19 16:38:07**
 
 ## Newspaper Stats
 
-*Scraped **44,756** Articles*
+*Scraped **44,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,261
 tamilmirrorlk | 5,860
 virakesarilk | 7,155
-adaderanasinhalalk | 7,669
+adaderanasinhalalk | 7,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,756 (100.0%) of 44,756 articles have been extended.
+44,756 (100.0%) of 44,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### ලෙබනනය බියෙන් සලිත වෙයි
+
+*2024-09-19 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201202) · `si`
+
+දින දෙකක් තුළ ලෙබනනයෙන් වාර්තා වූ පේජර් සහ වෝකි ටෝකි යන්ත්‍ර පිපිරීමෙන් මියගිය ගණන 32ක් දක්වා ඉහළගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+අඟහරුවාදා සිදුවූ පේජර් පිපිරීමෙන් 12 දෙනෙක් මියගොස් 3,000කට ආසන්න පිරිසක් තුවාල ලබා තිබුණි.
+
+එසේම ඊයේ (18) වාර්තා වූ වෝකීටෝකි යන්ත්‍ර පිපිරීමෙන් 20 දෙනෙක් මියගොස් 500කට ආසන්න පිරිසක් මියගොස් තිබුණි.
+
+මේ අතර ලෙබනනයේ බේරූට් ජාත්‍යන්තර ගුවන්තොටුපොළ තුළ පේජර් සහ වෝකීටෝකි යන්ත්‍ර භාවිතය තහනම් කිරීමට එරට බලධාරීන් පියවර ගෙන තිබේ.
+
+එසේම ලෙබනනයේ ජනතාව මේ වනවිට ජංගම දුරකථන පාවිච්චි කිරීමට පවා බියෙන් පසුවන බව සඳහන් ය.
+
+◼️
+
+[Data](articles/1e02b3d0.json)
+
+---
 
 ### Second wave of Lebanon device explosions kills 20 and wounds 450
 
@@ -2389,21 +2409,5 @@ A year ago, during the UN General Assembly, over 80 countries signed the Global 
 [Data](articles/c3e5799e.json)
 
 [Extended Data](ext_articles/c3e5799e.ext.json)
-
----
-
-### Presidential candidates urged to safeguard children with clear political mandate and timeline
-
-*2024-09-19 02:11:35* · [`dailyftlk`](https://www.ft.lk/opinion/Presidential-candidates-urged-to-safeguard-children-with-clear-political-mandate-and-timeline/14-766864) · `en`
-
-A group of civil society organisations have called upon Presidential candidates to safeguard children and protect children with a clear political mandate and timeline in Sri Lanka’s future administration. The appeal has been endorsed by Sarvodaya Shramadana Movement of Sri Lanka, Children’s Emergency Relief International- Sri Lanka (CERI), Alliance Development Trust (ADT), LEADS, Child Action Lanka, Catholic Care for Children Sri Lanka, Emerge Lanka Foundation, ECPAT Sri Lanka and Community Concern –Kidznet. Following is the full text of the appeal.
-
-We, as a coalition of civil society organisations advocating for the well-being of Children in the country, urge all the Candidates at the 2024 Presidential Elections in Sri Lanka to step up to ensure tangible, timely, and relevant actions in their next government to achieve the aspired impact of development and inclusive societies through the right policy, investment, and action for protecting Children.
-
-...
-
-[Data](articles/16556c62.json)
-
-[Extended Data](ext_articles/16556c62.ext.json)
 
 ---

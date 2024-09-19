@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 22:12:16**
+As of **2024-09-19 22:23:57**
 
 ## Newspaper Stats
 
-*Scraped **44,803** Articles*
+*Scraped **44,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,144
+adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,266
 tamilmirrorlk | 5,865
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,678
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,802 (100.0%) of 44,803 articles have been extended.
+44,804 (100.0%) of 44,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
 
-### මැතිවරණ රාජකාරිවල නිරත රාජ්‍ය නිලධාරීන්ට දැනුම්දීමක්
+### Notice to public officials engaged in election duties
 
 *2024-09-19 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201211) · `si`
 
-ජනාධිපතිවරණ ඡන්ද විමසීමේ රාජකාරි සඳහා පත්කර ඇති සියලුම රාජ්‍ය නිලධාරීන් වෙත මැතිවරණ කොමිෂන් සභාව විශේෂ පණිවුඩයක් නිකුත් කර තිබේ.
+Elections Commission notice: Officials to treat voters and candidates kindly during Sept 21, 2024 presidential election in Sri Lanka. Ensure free and fair voting environment.
 
-මෙරට 09වන ජනාධිපතිවරයා තෝරා පත් කරගැනීම සඳහා ඡන්ද විමසීම 2024 සැප්තැම්බර් මස 21 වනදා පැවැත්වෙයි.
+🟩
 
-විශේෂයෙන්ම ඡන්ද විමසීම පැවැත්වෙන කාලය තුළ ඔබ විසින් ඡන්දදායකයන් හා ඡන්ද අපේක්ෂකයන් හා ඔවුන්ගේ බලයලත් නියෝජිතයන් සමග සුහද සම්බන්ධතාවෙන් ක්‍රියා කළ යුතුය.
+The Elections Commission has issued a special message to all government officials appointed to duty for the duty of the Presidential Election.
 
-ඔවුන් සමග කටයුතු කිරීමේදී අර්ථාන්විතව, කාරුණිකව, ඉවසීමෙන් ක්‍රියා කිරීම මැනවි.
+The election will be held on September 21, 2024 to elect the election of the 9th President of Sri Lanka.
 
-එමගින් නිදහස් හා සාධාරණ වාතාවරණයක් තුළ තම හෘද සාක්ෂියට එකඟව ඡන්දය ප්‍රකාශ කිරීමේ හැකියාවක් පවතින බව ජනතාවට ප්‍රදර්ශනය වනු පමණක් නොව ඒත්තු යෑම ද සිදුවනු ඇති බව මැතිවරණ කොමිෂන් සභාව දැනුම්දෙයි.
+During the election, you must act with voter candidates and their authorized agents.
+
+Seriously, in dealing with them, be kind, patient, to be patient.
+
+The Elections Commission not only exhibits the possibility of voting in a free and fair environment to vote in harmony with his conscience.
 
 ◼️
 
 [Data](articles/9a9b9cfc.json)
+
+[Extended Data](ext_articles/9a9b9cfc.ext.json)
 
 ---
 
@@ -319,6 +325,30 @@ In addition, the total number of election complaints received from July 31 to Se
 [Data](articles/49a3db13.json)
 
 [Extended Data](ext_articles/49a3db13.ext.json)
+
+---
+
+### Announcement Branch Elections should be removed by the midnight today
+
+*2024-09-19 19:35:39* · [`adalk`](https://www.ada.lk/breaking_news/නිවේදිත-ශාඛා-ඡන්ද-කාර්යාල-අද-මධ්‍යම-රාත්‍රී-වන-විට-ඉවත්-කළ-යුතුයි/11-412039) · `si`
+
+Branch elections removal deadline: Midnight today. Announcement branch polls maintainable from 22nd. Electoral district announcements allowed until midnight. Free and fair election call from Elections Commission.
+
+🟩
+
+The Elections Commission states that the announcement that was established at the ballot level should have been removed by the midnight yesterday (19).
+
+The announcement branch-based area, the announcement branch polls can be maintained on the 22nd.
+
+If the announcement was established at the electoral district at the electoral district at the electoral district, the Authorized Representative, the Authorized Representative of the Candidate and the candidate, can be operated up to midnight night.
+
+Elections Commission calls on all tips to announced office offices for a free and fair election.
+
+◼️
+
+[Data](articles/a5762608.json)
+
+[Extended Data](ext_articles/a5762608.ext.json)
 
 ---
 
@@ -2487,27 +2517,5 @@ The school starts have been reported on September 23.
 [Data](articles/43fa9911.json)
 
 [Extended Data](ext_articles/43fa9911.ext.json)
-
----
-
-### Holidays for schools on Friday
-
-*2024-09-19 10:09:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளியன்று-பாடசாலைகளுக்கு-விடுமுறை/175-344013) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Ministry of Education announces nationwide school holiday on Friday."
-
-🟩
-
-The Ministry of Education has announced that all schools across the country will be given a holiday on Friday.
-
-◼️
-
-[Data](articles/67d5088f.json)
-
-[Extended Data](ext_articles/67d5088f.ext.json)
 
 ---

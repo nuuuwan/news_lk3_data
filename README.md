@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 21:38:25**
+As of **2024-09-19 21:57:45**
 
 ## Newspaper Stats
 
-*Scraped **44,797** Articles*
+*Scraped **44,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,707
 dailyftlk | 2,980
 adalk | 4,144
 dailymirrorlk | 4,733
-adaderanalk | 5,265
+adaderanalk | 5,266
 tamilmirrorlk | 5,865
-virakesarilk | 7,170
-adaderanasinhalalk | 7,676
+virakesarilk | 7,173
+adaderanasinhalalk | 7,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,797 (100.0%) of 44,797 articles have been extended.
+44,802 (100.0%) of 44,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### NAHTTF issues urgent warning on cyber scam centers and human trafficking
+
+*2024-09-19 21:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102086/nahttf-issues-urgent-warning-on-cyber-scam-centers-and-human-trafficking) · `en`
+
+Sri Lanka’s National Anti-Human Trafficking Task Force (NAHTTF) has issued a serious warning about a rising trend in forced criminality linked to cyber scam centers in Myanmar.
+
+Human traffickers are actively targeting young IT professionals through fraudulent job offers abroad, it said issuing a statement today.
+
+Investigations reveal that traffickers are luring victims with promises of high-paying IT positions in countries like Thailand.
+
+However, unsuspecting individuals are taken to transit countries such as Dubai for supposed job interviews before being forcibly moved across borders. Many end up in Myanmar, where they are coerced into working at cyber scam centers under brutal conditions, including physical abuse, torture, and electrocution, it said.
+
+“We strongly advise against illegal migration routes,” the NAHTTF warned. “Job seekers must avoid opportunities that require travel on visit visas, as this violates the Sri Lanka Bureau of Foreign Employment Act.”
+
+...
+
+[Data](articles/f851c42e.json)
+
+[Extended Data](ext_articles/f851c42e.ext.json)
+
+---
+
+### The end result explains delay causes
+
+*2024-09-19 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201209) · `si`
+
+Elections Commission delays due to disruptions. Violence threatens polls. Security forces deployed to maintain order. Overall results pending restoration of election process.
+
+🟩
+
+Elections Commission President of the Elections Commission. M. A. L. Says Mr. Ratnayake.
+
+He pointed out that if the entire election results affect the entire election results, he said.. If so, the total voting results cannot be issued. M. A. L. Mr. Ratnayake is informed.
+
+The Chairman of the Elections Commission (Elections Commission) addressed the Presidential Election Council this morning.
+
+The Elections Commission is working to zeal if there is a disruptive act in the polling OIC, according to the report of the electorate.. If the zero is affect the overall election result, it is not possible to issue the entire voting outcome until the election has been restored. "
+
+"As a result of polling, violence is demanding to avoid disrupting the election. All security forces have been instructed to implement the law. The police and the STF have been deployed to protect the peace and the three army has been prepared to be called in any emergency. "
+
+◼️
+
+[Data](articles/4f6e8a2e.json)
+
+[Extended Data](ext_articles/4f6e8a2e.ext.json)
+
+---
 
 ### Professor Arjuna de Silva resigns
 
@@ -57,6 +105,60 @@ Professor Arjuna de Silva worked with eight sports ministers and served under th
 [Data](articles/543850c7.json)
 
 [Extended Data](ext_articles/543850c7.ext.json)
+
+---
+
+### Junior NTR's 'Devara -Bart 1', which is a trafficking work of water
+
+*2024-09-19 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194131) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Junior NTR stars in "Devara Bhart 1", a water-themed film. Directed by Koratala Siva, it features Janavi Kapoor, Saeb Ali Khan, and Prakash Raj. Released in five languages, the movie explores themes of doubt, fear, and bravery under water. Anirudh's music debuts in South Indian cinema.
+
+🟩
+
+Telugu star star Junior NTR is the hero of the story, 'Thevara - Part 1'.. The film crew said that one of the Panchabhutas has been awe -inspiring to the eyes of the audience.
+
+Junior NTR, Bollywood actress Janavi Kapoor, Bollywood actor Saeb Ali Khan, Prakash Raj, Shine Tom Sacco, Kalaiyarasan and many others have been cast in the film 'Devara Bhart 1' directed by director Koratala Siva.
+
+Producer Sudhakar - Hari Krishna has co -produced the film on behalf of Yuva Sudha Arts and ND Rama Rao Arts.. Nandamuri Kalyan Ram presents the film.
+
+The film was released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 27th of this month.. Actors Junior NTR, Kalaiyarasan, actress Janavi Kapoor, composer Anirudh, cinematographer Ratna Velu, director Koratala Siva, art director Sabu Cyril and Tamil Nadu distributor Tirupati Prasad participated.
+
+...
+
+[Data](articles/76223114.json)
+
+[Extended Data](ext_articles/76223114.ext.json)
+
+---
+
+### Israel attack on Hezbullah leader television- Tenlepanan
+
+*2024-09-19 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194130) · `ta`
+
+Israel attacks Hezbollah leader during TV speech in southern Lebanon. Israeli forces claim Hezbollah uses civilians as human shields. Aims to secure northern Israel borders.
+
+🟩
+
+Israel has launched a massive attack on South Lebanon at the moment when Hesbullah's leader Hasan Nasarella's television speech was launching.
+
+The BBC has said that Israeli aircraft are hearing massive noises in the sky due to Israeli planes in the Lebanese capital.
+
+Israel has said that the Hesbullah organization is engaged in the destruction of terrorism.
+
+Israel has said that the Hesbullah organization has militarized the public, and has set up subways within them, using the public as human shields.
+
+Israel has said that the aim is to uphold the security of Northern Israel and create a public return to their homes.
+
+◼️
+
+[Data](articles/78cf3420.json)
+
+[Extended Data](ext_articles/78cf3420.ext.json)
 
 ---
 
@@ -875,6 +977,30 @@ Meanwhile, a suspect has been arrested with 10 grams of 300 kilograms of heroin 
 [Data](articles/7e34379a.json)
 
 [Extended Data](ext_articles/7e34379a.ext.json)
+
+---
+
+### Please all vote: we expect to release the results by 22nd - Elections Commission
+
+*2024-09-19 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194109) · `ta`
+
+Elections Commission announces presidential election results by 22nd. Strict actions against election law violators. Official notice to be issued. Media cooperation expected. Public service and private sector holidays cancelled. State university employees and students eligible to vote. Mobile phone usage prohibited at polling stations. Voting hours 7am-4pm. Candidates' names to be displayed 500m from polling centers. Postal votes to be counted on 21st. Security forces ensure free and fair elections.
+
+🟩
+
+All tasks for the presidential election have been completed. Strict action will be taken against those who act against the election law and the general law. Everyone should avoid unnecessary problems during the election period. RMAL Ratnayake, Chairman of the Election Commission, said that he should be careful with his family.
+
+Official Notice will be issued through the Elections Commission. Do not give importance to fake messages. We are looking forward to issuing an official announcement by the 22nd.. The Elections Commission has urged the people of the country to please all.
+
+He was speaking at a special media briefing held at the Government Information Department on Thursday (19).
+
+All work for the presidential election has been completed. Officers appointed for election work must be served.If it does not socialize on duty, it will be considered a crime in accordance with the law.
+
+...
+
+[Data](articles/723fee7b.json)
+
+[Extended Data](ext_articles/723fee7b.ext.json)
 
 ---
 
@@ -2385,137 +2511,5 @@ Accordingly, the Director of the Disaster Management Centre, Pradeep Kodippili m
 [Data](articles/acd08e18.json)
 
 [Extended Data](ext_articles/acd08e18.ext.json)
-
----
-
-### Increase to 20 deaths in walking-tacki explosion
-
-*2024-09-19 10:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வாக்கி-டாக்கி-வெடிப்பில்-பலி-எண்ணிக்கை-20ஆக-அதிகரிப்பு/50-344011) · `ta`
-
-Explosion kills 20 injures 450 in Lebanon. Walkie-talkies detonated during funeral. Israeli intelligence suspected.
-
-🟩
-
-With the explosion of pagers in Lebanon, 20 people were killed when a walkie-talkie exploded by Hizbullah organizations. More than 450 people were seriously injured.
-
-The war between the Western country of Israel and the Hamas terrorist organization began on October 7 last year.
-
-The Hizbullah terrorist organization, operating from neighboring Lebanon, is supporting the Hamas organization. Hizbullah, who has received Iran's support, is engaged in a series of attacks on Israel. Israel is also in response.
-
-Hizbullah has declared the US and the European Union as a banned terrorist organization. In the meantime, the electronic device, which was used to send more than 3,000 Hezbollah terrorists' pager in Lebanon, exploded yesterday.
-
-12 people were killed when Page exploded at simultaneously in various areas;2,750 people were injured. Of these, 200 are concerned.
-
-...
-
-[Data](articles/93a7ce9b.json)
-
-[Extended Data](ext_articles/93a7ce9b.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 304.25/50, bond yields up
-
-*2024-09-19 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-304-25-50-bond-yields-up-180008/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 304.25/50 to the US dollar on Thursday, from 303.75/85 Wednesday, dealers said. Bond yields were up, they said, while stocks opened up 0.32 percent higher.
-
-In the secondary market, the following bonds were actively quoted;
-
-A bond maturing on 15.12.2028 was quoted at 11.85/90 percent, up from 11.70/80 percent.
-
-A bond maturing on 15.06.2029 was quoted at 13.70/75 percent, down from 13.80/90 percent.
-
-In equities, Colombo’s All Share Price Index was opened 34.15 points higher at 10,860, while the S&P SL20 of more liquid stocks opened up at 0.91 percent or 27.54 points to 3,064.
-
-◼️
-
-[Data](articles/2cad5de7.json)
-
-[Extended Data](ext_articles/2cad5de7.ext.json)
-
----
-
-### Notification to election offices
-
-*2024-09-19 09:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அலுவலகங்களுக்கு-அறிவிப்பு/175-344009) · `ta`
-
-Election Commission notification: Branch offices close Sept 20; booth-level offices open Sept 21; constituency operations end Sept 22; no home use as election office after Sept 22. Violations subject to removal under Election Act.
-
-🟩
-
-The Election Commission has issued a notification that describes the recognized election time limit period during the election period.
-
-According to the announcement, the functioning of the branch election offices, which was announced at the volume, will be stopped at midnight on Thursday (19).
-
-Election offices established at the level of each polling booth will begin tomorrow and maintain from tomorrow.
-
-Similarly, the deadline for operating constituencies in volume -level election offices ends at midnight on September 22.
-
-Moreover, since midnight on September 22, the presidential candidates or their recognized representatives will not be allowed to use their homes as election offices.
-
-The Election Commission has urged that the election offices functioning beyond the deadline will be immediately removed under the Election Act.
-
-◼️
-
-[Data](articles/198ac197.json)
-
-[Extended Data](ext_articles/198ac197.ext.json)
-
----
-
-### “Election offices will be removed”
-
-*2024-09-19 09:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-அலுவலகங்கள்-அகற்றப்படும்/175-344009) · `ta`
-
-"Election offices closing: Branches stop at midnight Thursday. Polling booth offices open Friday, end Sept 22. Presidential candidate home offices banned after Sept 22. Unlawful offices removed."
-
-🟩
-
-The Election Commission has issued a notification that describes the recognized election time limit period during the election period.
-
-According to the announcement, the functioning of the branch election offices announced at the volume will be stopped at midnight on Thursday (19).
-
-Election offices established at the level of each polling booth will begin tomorrow and maintain until September 22. Similarly, the deadline for operating constituencies in volume -level election offices ends at midnight on September 22.
-
-Moreover, from midnight on September 22, the presidential candidates or their recognized representatives will not be allowed to use their homes as election offices. The Election Commission has urged that the election offices functioning beyond the deadline will be immediately removed under the Election Act.
-
-◼️
-
-[Data](articles/558c8080.json)
-
-[Extended Data](ext_articles/558c8080.ext.json)
-
----
-
-### 1,358 buses ready for election duties
-
-*2024-09-19 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201181) · `si`
-
-Sri Lanka prepares for elections: 1,358 buses deployed, 175 for police duty. Special bus service planned for villages. Train runs between Colombo Fort and Kankasanthurai. Road issues delay train operation.
-
-🟩
-
-The Sri Lanka Transport Board says that 1,358 buses will be provided with the presidential election this year.
-
-The Deputy General Manager of Punchuka Swarnasty said that the buses will be provided as per the District Elections Office.
-
-In addition, 175 buses are to be given to the police duties.
-
-Meanwhile, a special bus service is scheduled to implement a special bus service for the convenience of the village and tomorrow (20) and tomorrow (20).
-
-Meanwhile, the Railway Department says that a special train will be operated today between Colombo Fort and Kankasurai.
-
-In a statement, the train will be operated from Colombo Fort on the 21st and the 21st of the 21st of the Kankesanthurai to Colombo.
-
-However, the train drivers' union says that the train will not be added due to the defective condition of Anuradhapura and Mahawa road.
-
-The Locotiv Opposition Engineer Association of Lal, Chandana Lal, said that the reconstruction of the road was completed, but there were signal errors.
-
-◼️
-
-[Data](articles/f4526966.json)
-
-[Extended Data](ext_articles/f4526966.ext.json)
 
 ---

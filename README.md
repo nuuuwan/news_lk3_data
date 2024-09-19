@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 12:23:46**
+As of **2024-09-19 12:38:10**
 
 ## Newspaper Stats
 
-*Scraped **44,720** Articles*
+*Scraped **44,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,257
 tamilmirrorlk | 5,857
 virakesarilk | 7,147
-adaderanasinhalalk | 7,657
+adaderanasinhalalk | 7,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,720 (100.0%) of 44,720 articles have been extended.
+44,720 (100.0%) of 44,721 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,26 @@ In this case, the baby died on the 16th. During the anatomical examination, the 
 [Data](articles/16ba6430.json)
 
 [Extended Data](ext_articles/16ba6430.ext.json)
+
+---
+
+### රමිත් රඹුක්වැල්ලට අයත් නිවාස දෙකක් පරිහරණය තහනම් කරමින් අධිකරණ නියෝගයක්
+
+*2024-09-19 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201189) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍යය කෙහෙළිය රඹුක්වැල්ල මහතාගේ පුත් රමිත් රඹුක්වැල්ල මහතාට අයත් සුඛෝපභෝගී නිවාස දෙකක් පරිහරණය කිරීම තහනම් කරමින් කොළඹ මහාධිකරණය අද (19) නියෝගයක් නිකුත් කර තිබේ.
+
+අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකා බැලූ කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා විසින් මෙම නියෝගය නිකුත් කර ඇත.
+
+අල්ලස් කොමිසම අධිකරණයට දැනුම් දී තිබුණේ රමිත් රඹුක්වැල්ල මහතා විසින් කොල්ලුපිටිය ප්‍රදේශයේ පිහිටි සුඛෝපභෝගී නිවාස සංකීර්ණයක නිවාස දෙකක් රුපියල් මිලියන 80ක් සහ රුපියල් මිලියන 65 බැගින් මිලදී ගෙන තිබෙන බවය.
+
+මේ සම්බන්ධයෙන් විමර්ශනයක් සිදුකරන බවත් ඊට අදාළව එම දේපොළ තහනම් කිරීමේ නියෝගයක් නිකුත් කරන ලෙසත් එම කොමිසම අද අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+එම ඉල්ලීම සලකා බැලූ මහාධිකරණ විනිසුරුවරයා අදාළ දේපොළ ලබන දෙසැම්බර් මස 19 වනදා දක්වා පරිහරණය කිරීම තහනම් කරමින් නියෝගයක් නිකුත් කළේය.
+
+◼️
+
+[Data](articles/5f176ef0.json)
 
 ---
 
@@ -2239,29 +2259,5 @@ Special committees have been appointed to investigate the non -needed campaigns 
 [Data](articles/832d5447.json)
 
 [Extended Data](ext_articles/832d5447.ext.json)
-
----
-
-### Sajith Premadasa: 'I don't drink water sore' with money 'money'
-
-*2024-09-18 21:03:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gl72n4333o) · `si`
-
-Sajith Premadasa claims appointment as first elected President from People's Movement. Promises to prosecute thieves, recover stolen resources, and use funds for national development. Rally held at Colombo 18 Tower Theater.
-
-🟩
-
-Sajith Premadasa: 'I don't drink water sore' with money 'money'
-
-Sajith Premadasa says he is appointed to be the first volugent President to be selected from the People's Meon.
-
-'' The thieves destroyed this country will be brought before the law and bring to compensation in this country. Moreover, the resources lost to the country are acquired for the advancement of the money. "He added.
-
-The final rally participating in Sajith Premadasa was held at the Tower Theater of Colombo 18, Colombo.
-
-◼️
-
-[Data](articles/3036de90.json)
-
-[Extended Data](ext_articles/3036de90.ext.json)
 
 ---

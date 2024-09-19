@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 06:43:35**
+As of **2024-09-19 07:24:25**
 
 ## Newspaper Stats
 
-*Scraped **44,653** Articles*
+*Scraped **44,655** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 434
+bbccomsinhala | 435
 colombotelegraphcom | 446
 islandlk | 2,624
 economynextcom | 2,703
@@ -18,7 +18,7 @@ dailyftlk | 2,980
 adalk | 4,122
 dailymirrorlk | 4,733
 adaderanalk | 5,250
-tamilmirrorlk | 5,838
+tamilmirrorlk | 5,839
 virakesarilk | 7,140
 adaderanasinhalalk | 7,642
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,653 (100.0%) of 44,653 articles have been extended.
+44,655 (100.0%) of 44,655 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -432,6 +432,26 @@ The good news for the country and the bad news for NPP is that the political cul
 
 ---
 
+### Poll
+
+*2024-09-19 01:55:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்கெடுப்பு-நிலையங்களுக்குள்-விதிக்கப்படும்-தடை/175-343991) · `ta`
+
+Election Commission bans: no mobiles, photos/videos, weapons, smoking, drinking, drugs, alcohol in polling stations.
+
+🟩
+
+A key notice has been issued by the Election Commission on the prohibitions that have been banned within the polling stations and the polling stations.
+
+According to the announcement, the law has been banned from the use of mobile phones within the polling stations and the polling stations, photographing, video taking, weapons, smoking, drinking, drug use, and use of alcohol or drugs.. (A)
+
+◼️
+
+[Data](articles/90c3dcaa.json)
+
+[Extended Data](ext_articles/90c3dcaa.ext.json)
+
+---
+
 ### Election 2024 choices for change: Weaponised negativism or progressive centrism
 
 *2024-09-19 01:55:24* · [`dailyftlk`](https://www.ft.lk/columns/Election-2024-choices-for-change-Weaponised-negativism-or-progressive-centrism/4-766860) · `en`
@@ -565,6 +585,30 @@ The body of a person who died with suspicious shooting injuries in the Nalagama 
 [Data](articles/965dce4a.json)
 
 [Extended Data](ext_articles/965dce4a.ext.json)
+
+---
+
+### Namal Rajapaksa: 'The country is not bankrupt and that Gotabhaya has been transformed.'
+
+*2024-09-19 00:31:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c756lklepkqo) · `si`
+
+Namal Rajapaksa denies bankruptcy claim, says Gotabhaya transformed. Port City project reactivated. Rajapaksas accused of financial mismanagement.
+
+🟩
+
+Namal Rajapaksa: 'The country is not bankrupt and that Gotabhaya has been transformed.'
+
+The Colombo Port City Project (PEOT CITY) has been reactivated after 22nd, the Colombo Port City Project (Port City) will react to the 22nd.
+
+"We know why the port city and these development proposals were made. We have the Business Plan. After 22, we translate that Sri Lanka is the center of Sri Lanka in Asia. The Rajapaksas have bankrupted this country, and they are not the Rajapaksas' country bankrupt. "Gotabhaya is sins," he said.
+
+The final rally participated in the presidential claimed by Basil Rajapaksa's nephew of former President Mahinda Rajapakse and the president of Gotabhaya Rajapakse and the Founder of Gotabhaya Rajapakse and the Founder of Gotabhaya Rajapakse was held at the Somaweera Chandrasiri Fonseka.
+
+◼️
+
+[Data](articles/eae385eb.json)
+
+[Extended Data](ext_articles/eae385eb.ext.json)
 
 ---
 
@@ -948,17 +992,19 @@ This includes using mobile phones, photography, recording videos, having a gun a
 
 *2024-09-18 20:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-expects-thursday-talks-with-bondholders-to-end-bankruptcy-179935/) · `en`
 
-ECONOMYNEXT – Sri Lanka will hold talks with sovereign bondholders on Thursday September 19, President Ranil Wickremesinghe was quoted as saying at a rally, signaling that he expected talks to conclude successfully.
+ECONOMYNEXT – Sri Lanka’s talks with sovereign bondholders will end in September 19, President Ranil Wickremesinghe said at a campaign rally, signaling that he expected talks to conclude successfully.
 
-Following the talks Sri Lanka’s “bankruptcy will end and support from all countries will be restored”, he was quoted as saying in a text message.
+He took over a country that was bankrupt and his task was to end it. He discussed with the IMF and reached an agreement. Then discussions were held with bilateral creditors, with two agreements were reached. One with China and another with other countries.
 
-“He was pleased to report that he had completed the task entrusted to him before September 21,” the message said, indicating that President Wickremesinghe expected talks to be successful.
+“By tomorrow the discussions with private bondholders will end,” he told an election rally Wednesday.
 
-Sri Lanka reached a preliminary framework to restructure defaulted bonds with upside/downside securities linked the future gross domestic product growth.
+“There we will enter into an agreement. When all three agreements are considered, the label of bankruptcy will be removed.”
 
-Sri Lanka is currently rated as being in selective default by rating agencies. Once a deal is reached and new bonds issued, they will be upgraded to a higher level. (Colombo/Aug17/2024)
+When combined with earlier agreements, the label of bankruptcy will be removed, he said.
 
-◼️
+“Though we have made the economy stable, it can reverse. We have to re-inforce it.”
+
+...
 
 [Data](articles/87830d5a.json)
 
@@ -2253,53 +2299,5 @@ Speaking at an election rally, Dissanayake claimed that Wickremesinghe was the a
 [Data](articles/3da27339.json)
 
 [Extended Data](ext_articles/3da27339.ext.json)
-
----
-
-### School student killed in accident
-
-*2024-09-18 16:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-பாடசாலை-மாணவி-பலி/175-343960) · `ta`
-
-14-year-old student killed in vehicle accident near Ampara-Kalmunai Road. Private bus crashes into motorcycle carrying student and father. Driver flees scene, later surrenders to police. News spreads quickly in Samanthurai community.
-
-🟩
-
-A 14 -year -old student who studied at the Samanthurai Muslim Central College was tragically killed in a vehicle accident.
-
-A 14 -year -old girl has died in a vehicle accident on Wednesday (18) at 08.15 am in front of the Mavadipalli Periyapalli gate on Ampara -Kalmunai Road.
-
-He is the daughter of the Teacher Advisor to the Special Education at the Samanthurai Zonal Education Workshop.
-
-The accident seems to have occurred when a private transport bus crashed into a student who was traveling with his father on a motorcycle.
-
-The news of the death of a student from Samanthurai spread like a wildfire.
-
-It is reported that the driver of the bus has fled the scene of the accident and that the bus driver has surrendered to the Karadivu police.
-
-◼️
-
-[Data](articles/0e86593d.json)
-
-[Extended Data](ext_articles/0e86593d.ext.json)
-
----
-
-### Here is the verdict of the Supreme Court today about the petition against Deshabandu's interim ban
-
-*2024-09-18 16:04:16* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දුගේ-අතුරු-තහනමට-එරෙහි-පෙත්සම-ගැන-ශ්‍රේෂ්ඨාධිකරණය-අද-ගත්-තීන්දුව-මෙන්න/11-412000) · `si`
-
-Supreme Court refuses to lift Deshabandu's interim ban, bench led by Yasanantha Kodagoda.
-
-🟩
-
-The Supreme Court today (18) has refused to remove the interim injunction order which Deshabandu Tennakoon is prevented from duties the interim injunction.
-
-The petition was called before the three-member Supreme Court Bench, Yasanantha Kodagoda, Yasanantha Kodagoda, Aethantha Kodagoda, Aetala Windsuli and Mahinda Samayawardena.
-
-◼️
-
-[Data](articles/88dccec9.json)
-
-[Extended Data](ext_articles/88dccec9.ext.json)
 
 ---

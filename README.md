@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 19:22:40**
+As of **2024-09-19 19:38:11**
 
 ## Newspaper Stats
 
-*Scraped **44,782** Articles*
+*Scraped **44,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,143 @@ dailyftlk | 2,980
 adalk | 4,141
 dailymirrorlk | 4,733
 adaderanalk | 5,264
-tamilmirrorlk | 5,861
-virakesarilk | 7,164
+tamilmirrorlk | 5,862
+virakesarilk | 7,166
 adaderanasinhalalk | 7,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,781 (100.0%) of 44,782 articles have been extended.
+44,785 (100.0%) of 44,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
 
-### விருப்புத் தேர்வு குறித்த அறிவிப்பு
+### Policy compliance with Sri Lanka's foreign private credit providers
+
+*2024-09-19 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194126) · `ta`
+
+Sri Lanka reaches policy compliance with foreign creditors for $17.5B bailout. Agreement includes 40.3% loan discount and increased credit offers from IMF, Chinese banks, and local consortiums.
+
+🟩
+
+The agreement on Sri Lanka's $ 17.5 billion private business credit restructuring was reached on Thursday (19).
+
+After a discussion between the International Investors (AD HOC Group of Bondaholders - AHGB) and the Local Consortium of Sri Lanka - LCSL, a compliance with private bailouts have been reached. These groups have more than 50% of the country's private bailouts.
+
+According to these compliance, bailouts have agreed to provide a 40.3% discount on the current loan value based on the 11% discount.
+
+In accordance with these compliance, a large amount of credit offer will be available to Sri Lanka than the integrated operations established in July 2024 and will be reduced to interest payments based on the new conditions.
+
+Sri Lanka has reached a policy compliance with the Chinese Development Bank (CDB) on the financial conditions for renovating $ 3.3 billion private loan.
+
+...
+
+[Data](articles/262ffbb5.json)
+
+[Extended Data](ext_articles/262ffbb5.ext.json)
+
+---
+
+### 22 -year -old man killed in accident
+
+*2024-09-19 19:07:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-22-வயது-இளைஞன்-பலி/175-344030) · `ta`
+
+22-year-old man killed in Kilinochchi accident near Pannangandi Bridge. Tipper vehicle collided with youth. Driver arrested. Police investigating.
+
+🟩
+
+A 22 -year -old youth was killed in an accident in Kilinochchi this morning.
+
+The accident occurred near the Pannangandi Bridge on the road from Kilinochchi to Vattakachi.
+
+Police say he was killed when a tipper vehicle collided with a young man.
+
+Police have arrested a vehicle and driver who caused the accident and Kilinochchi police are conducting further investigations into the incident.
+
+Anthony Alpred - Anushan, a young man from Pannangandi, died in the accident.
+
+◼️
+
+[Data](articles/6f11a586.json)
+
+[Extended Data](ext_articles/6f11a586.ext.json)
+
+---
+
+### Notice
 
 *2024-09-19 18:53:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்புத்-தேர்வு-குறித்த-அறிவிப்பு/175-344029) · `ta`
 
-இலங்கையின் தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க, செப்டம்பர் 21ஆம் திகதி நடைபெறவுள்ள ஜனாதிபதித் தேர்தலின் இறுதி முடிவுகள், இரண்டாவது விருப்பத்தேர்வு எண்ணுக்கு நகர்ந்தாலும், செப்டெம்பர் 22ஆம் திகதிக்குள் முடிவடையும் என எதிர்பார்க்கப்படுவதாக அறிவித்தார்.
+Sri Lanka Election Commission Chairman RMAL Ratnayake announces final presidential election results by Sept 22. Second round voting possible due to lack of clear winner. Officials trained for first-time use of second preference vote system. District-level results to be released during second option count.
 
-இறுதி அறிவிப்பிற்கான சரியான காலவரையறையை தன்னால் வழங்க முடியாத நிலையில், அந்த நடவடிக்கையை குறித்த நாளுக்குள் முடிக்க ஆணைக்குழு இலக்கு வைத்துள்ளதாக ரத்நாயக்க தெரிவித்தார்.
+🟩
 
-2024 ஜனாதிபதித் தேர்தல் இலங்கை வரலாற்றில் முதல் தடவையாக இரண்டாவது விருப்பு வாக்கு எண்ணிக்கைக்கு முன்னேறும் என்று பல தகவல்கள் ஊகிக்கின்றன.
+Sri Lanka's Election Commission Chairman RMAL Ratnayake announced that the final results of the presidential election, which will be held on September 21, will be expected to end by September 22, despite the second option number.
 
-நாட்டின் தேர்தல் விதிகளின்படி, ஒரு வேட்பாளர் ஜனாதிபதி பதவியை வெல்வதற்கு மொத்த வாக்குகளில் 50% க்கும் அதிகமான வாக்குகளைப் பெற வேண்டும். எந்தவொரு வேட்பாளரும் இந்த பெரும்பான்மையை அடையவில்லை என்றால், முதல் இரண்டு வேட்பாளர்களைத் தவிர மற்ற அனைவரும் நீக்கப்படுவார்கள், மேலும் நீக்கப்பட்ட வேட்பாளர்களின் வாக்குச்சீட்டில் இருந்து இரண்டாவது விருப்பத்தேர்வுகள் மறுபகிர்வு செய்யப்படும்.
+Ratnayake said the Commission was targeted to complete the action within the day, as he was unable to provide the right time for the final announcement.
+
+There are many reports that the 2024 presidential election will progress to the second preferential vote for the first time in Sri Lankan history.
+
+According to the country's election rules, a candidate must win more than 50% of the total votes to win the presidency. If no candidate has achieved this majority, all except the first two candidates will be deleted, and the second options will be reproduced from the eliminated candidate's ballot.
 
 ...
 
 [Data](articles/3b2bab32.json)
+
+[Extended Data](ext_articles/3b2bab32.ext.json)
+
+---
+
+### After a year, long -run passenger boat service
+
+*2024-09-19 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194106) · `ta`
+
+Northern Province Governor hands over rehabilitated passenger boat to Development Authority after Rs 52 million renovation. Boat starts daily service from Nedundi, carrying 80 passengers. Improves transportation for island communities.
+
+🟩
+
+The Governor of the Northern Province officially handed over the rehabilitated passenger boat to the Development Authority today (19).
+
+Governor of the Northern Province BSM. A long -run passenger boat was officially handed over to the Charles Road Development Authority this morning.
+
+The boat, which has been in charge of the provincial council, has been revised at a cost of Rs 52 million and handed over to the Road Development Authority.
+
+The Governor thanked the President, the President of the President, the Ministry of Department of Passengers for the speedy action of the passenger boat.. Steps have been taken to improve transport facilities for the islands
+
+The long -time boat, which has started the passenger service from today, is to travel to the landing department from Nedundi.. It is worth noting that 80 people can travel once in a long time.
+
+◼️
+
+[Data](articles/d4c66ff4.json)
+
+[Extended Data](ext_articles/d4c66ff4.ext.json)
+
+---
+
+### A romantic couple arrested in a hotel
+
+*2024-09-19 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/194115) · `ta`
+
+Romantic couple arrested in hotel room with drugs. Police seize ice from both suspects. One suspect previously charged by Hiriyala police.
+
+🟩
+
+Yakkala police said that the romantic couple who had been packed with drugs in a room in a hotel in the Belumahara Weliweriya road area have been arrested.
+
+A 32 -year -old man from Kandamulla, Ambakaspitiya and 22 -year -old from Meegaha Kodalla, Avissawella have been arrested.
+
+It has been revealed that the suspect has previously filed a drug charge by Hiriyala police.
+
+The police also seized 260 ml of 250 milligrams of ice from one of the arrested suspects and 3500 milligrams of ice from the other.
+
+◼️
+
+[Data](articles/eb628103.json)
+
+[Extended Data](ext_articles/eb628103.ext.json)
 
 ---
 
@@ -437,32 +545,6 @@ Meanwhile, a suspect has been arrested with 10 grams of 300 kilograms of heroin 
 [Data](articles/7e34379a.json)
 
 [Extended Data](ext_articles/7e34379a.ext.json)
-
----
-
-### After a year, long -run passenger boat service
-
-*2024-09-19 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194106) · `ta`
-
-Northern Province Governor hands over rehabilitated passenger boat to Development Authority after Rs 52 million renovation. Boat starts daily service from Nedundi, carrying 80 passengers. Improves transportation for island communities.
-
-🟩
-
-The Governor of the Northern Province officially handed over the rehabilitated passenger boat to the Development Authority today (19).
-
-Governor of the Northern Province BSM. A long -run passenger boat was officially handed over to the Charles Road Development Authority this morning.
-
-The boat, which has been in charge of the provincial council, has been revised at a cost of Rs 52 million and handed over to the Road Development Authority.
-
-The Governor thanked the President, the President of the President, the Ministry of Department of Passengers for the speedy action of the passenger boat.. Steps have been taken to improve transport facilities for the islands
-
-The long -time boat, which has started the passenger service from today, is to travel to the landing department from Nedundi.. It is worth noting that 80 people can travel once in a long time.
-
-◼️
-
-[Data](articles/d4c66ff4.json)
-
-[Extended Data](ext_articles/d4c66ff4.ext.json)
 
 ---
 
@@ -2383,75 +2465,5 @@ He said that the 16 -question paper was in the debate and that there was only th
 [Data](articles/69a14ba6.json)
 
 [Extended Data](ext_articles/69a14ba6.ext.json)
-
----
-
-### Container accident on Southern Expressway
-
-*2024-09-19 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201177) · `si`
-
-Here's a 200-character summary:
-
-
-
-Container accident blocks lane on Southern Expressway near Colombo. One lane closed; traffic congestion reported. Incident occurred early morning according to Ada Derana.
-
-🟩
-
-Among the 88.3 kilometers near Colombo to Colombo, between 88.3 kilometers near the Southern Expressway.
-
-"Today, Ada Derana reporter said the accident occurred in early morning.
-
-It is reported that one lane has been blocked by two in one lane with one lane, but the other square-traffic is crisis.
-
-◼️
-
-[Data](articles/0de39684.json)
-
-[Extended Data](ext_articles/0de39684.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-09-19 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102069/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa and Southern provinces and in Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva provinces during the evening or night, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in North-central and Southern provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/8ca50711.json)
-
-[Extended Data](ext_articles/8ca50711.ext.json)
-
----
-
-### Notification of the Excise Department
-
-*2024-09-19 07:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-திணைக்களத்தின்-அறிவிப்பு/175-344002) · `ta`
-
-Excise Department bans liquor sales nationwide except high-end hotels and villas. Outlets must close Sept 21-22. Tourist accommodations exempt. Emergency hotline 1913 available 24/7 for violations.
-
-🟩
-
-The department announced yesterday that it has been banned on the orders of the Head of the Excise Department, except for tourists living in high -quality star hotels and potti villas across the country.
-
-The Department of Excise has issued a special notification that all liquor outlets across the country have been ordered to close all over the country on Saturday and 22nd Sunday, September 21st and 22nd.
-
-However, tourist hotels and potti villas beyond the three -star class limit are exempted from the above order and are allowed to serve their guests and tourists in a timely manner.
-
-Meanwhile, the Emergency Telephone number of the Department of Excise, 1913, has been opened 24 hours a day for public complaints and information on the occasions of violation of the Excise Ordinance, said Sanna Weerakkody, a spokesman for the Department of Excise.
-
-◼️
-
-[Data](articles/3bacd2f1.json)
-
-[Extended Data](ext_articles/3bacd2f1.ext.json)
 
 ---

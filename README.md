@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 11:09:46**
+As of **2024-09-19 11:22:41**
 
 ## Newspaper Stats
 
-*Scraped **44,701** Articles*
+*Scraped **44,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,256
 tamilmirrorlk | 5,855
 virakesarilk | 7,141
-adaderanasinhalalk | 7,651
+adaderanasinhalalk | 7,654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,699 (100.0%) of 44,701 articles have been extended.
+44,704 (100.0%) of 44,704 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,30 @@ This is the third shooting incident reported in the country within the last 24 h
 
 [Data](articles/cff88ebe.json)
 
+[Extended Data](ext_articles/cff88ebe.ext.json)
+
+---
+
+### Kurunegala too was shot
+
+*2024-09-19 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201185) · `si`
+
+Multiple shootings reported: Kurunegala (Rasnathapura), Kohuwala, Tangalle, Midigama. One fatality in Kurunegala. Unknown shooter involved.
+
+🟩
+
+A 30-year-old man was killed in a shooting conducted in the Rasnathapura area in Kurunegala.
+
+Police said that the shooting was carried out by an unknown shot.
+
+Other shootings were reported from Kohuwala, Tangalle and Midigama areas.
+
+◼️
+
+[Data](articles/2ae3f1d4.json)
+
+[Extended Data](ext_articles/2ae3f1d4.ext.json)
+
 ---
 
 ### Schools closed tomorrow due to presidential election
@@ -59,6 +83,42 @@ It is further informed that the schools are set to reopen on September 23.
 ◼️
 
 [Data](articles/1f269a8f.json)
+
+[Extended Data](ext_articles/1f269a8f.ext.json)
+
+---
+
+### Several deadly accidents
+
+*2024-09-19 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201184) · `si`
+
+Multiple fatal accidents reported: bus-motorcycle collision kills teen, motorcycle hits pedestrian, elderly man dies in car crash.
+
+🟩
+
+Five persons including a woman, a woman, have been in their livestock in several areas.
+
+A VII of a Carric bus hit by a motorcycle in the Marandu road on Ampara - Mila road, a 14-year-old girl was killed.
+
+The accident had occurred when a private bus heading towards the Samavu junction with the same direction.
+
+The motorcyclist and the post motorcyclist, the driver's daughter, has been seriously injured, the daughter has died after admission to the hospital.
+
+The deceased has been identified as a 14 year old resident of the Sali Road, the Samawatta.
+
+Meanwhile, a motorcycle route a motorcycle route a motorcycle near the Omanthai Co-operative Film, Vavuniya road and two people were killed in a cyclist.
+
+The victims were identified as 48 and 46 years old.
+
+Meanwhile, a motorbike has been confronted with a paved woman who traveled by a motorcycle near the Veyangoda-Minuwangoda road.
+
+The victim woman was killed in admission to the Minuwangoda hospital.
+
+...
+
+[Data](articles/9ba85291.json)
+
+[Extended Data](ext_articles/9ba85291.ext.json)
 
 ---
 
@@ -81,6 +141,30 @@ Two motorcyclists have been shot dead by helmets and further investigations are 
 [Data](articles/6a7112f9.json)
 
 [Extended Data](ext_articles/6a7112f9.ext.json)
+
+---
+
+### The dispute of a life
+
+*2024-09-19 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201183) · `si`
+
+Dispute leads to assault: Man hurt in Godakawela, suspect arrested. Police investigating incident.
+
+🟩
+
+A man was injured in an assault who had been admitted to the Godakawela hospital after a dispute between two people in Godakawela.
+
+This person had come to the suspect's house and had a dispute.
+
+Investigations have revealed that the suspect had been assaulted at the time.
+
+The suspect was arrested and the Gotadwela Police are conducting further investigations.
+
+◼️
+
+[Data](articles/a5c70755.json)
+
+[Extended Data](ext_articles/a5c70755.ext.json)
 
 ---
 
@@ -2191,99 +2275,5 @@ The Chinese government has confirmed that Sri Lanka will receive the first consi
 [Data](articles/777b6247.json)
 
 [Extended Data](ext_articles/777b6247.ext.json)
-
----
-
-### MP of the federation, confluence with Ranil
-
-*2024-09-18 19:30:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டமைப்பின்-எம்-பி-ரணிலுடன்-சங்கமம்/175-343974) · `ta`
-
-TNA MP Vino Nogarathalingam supports President Ranil Wickremesinghe in upcoming election. Statement made at media briefing at President's Political Office in Colombo.
-
-🟩
-
-Tamil National Alliance (TNA) Wanni District Parliamentarian Vino Nogarathalingam said he would support the victory of President Ranil Wickremesinghe in the upcoming presidential election.
-
-He made this statement at a media briefing held at the President's Political Office located on Blaver Road, Colombo
-
-◼️
-
-[Data](articles/496a2905.json)
-
-[Extended Data](ext_articles/496a2905.ext.json)
-
----
-
-### We win more by 20 lakh votes
-
-*2024-09-18 19:24:44* · [`adalk`](https://www.ada.lk/breaking_news/අපි-වැඩි-ඡන්ද-ලක්ෂ-20කින්-ජයග්‍රහණය-කරනවා/11-412011) · `si`
-
-Sajith Premadasa addresses rally, claims victory in election. Promises education reform, poverty eradication, and infrastructure development. Emphasizes support for small businesses and youth development. Assures protection of national resources and democratic rights.
-
-🟩
-
-We have won the majority of 800 million votes.
-
-He was addressing the rally at the Moneragala Pradeshiya Sabha Stadium today (18). Speaking further Mr. Sajith Premadasa
-
-According to intelligence reports, we have won the majority of thousands of votes.
-
-Our victory is permanent. This victory will enjoy peace.. They are not the principles of the unique people. Do not harm anyone's next step.
-
-The people of this country have the right to practice any religion.. Finished.
-
-For the Commerce, I request a member of all other parties in all other parties.
-
-We do not have political deals. We have not been able to bring down the people of the country with the same type of delegation.
-
-We bring the thieves that destroyed the country.. The Intelligence Tax is dedicated to the country.
-
-At this time we win that the judges of the Supreme Court under a fundamental rights petition of judges.
-
-We will be given to Rupee to rupees to the people who have lost their housing to the people who have been deprived of the poor.
-
-...
-
-[Data](articles/9450dcb4.json)
-
-[Extended Data](ext_articles/9450dcb4.ext.json)
-
----
-
-### Presidential Election 2024: What Not Silent
-
-*2024-09-18 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201163) · `si`
-
-Here's a 200-character summary:
-
-
-
-Presidential Election 2024: Campaign ends, "silent period" begins midnight. Major candidate rallies in Colombo suburbs. Special traffic plans in Nugegoda area. Schools close Sept 20-23. Polling centers handover Sept 19.
-
-🟩
-
-The election campaign to the Presidential Election ended today (18).
-
-Accordingly, the term "silenced time" has been stated as "silenced time from 12.00 midnight today (18).
-
-From the date of handing over nominations, candidates began and the propaganda and propaganda.
-
-The final waves of major candidates will be held in Colombo and suburbs.
-
-A special traffic plan is being implemented in Nugegoda, Nugegoda, Kottawa and Piliyandala areas, police headquarters.
-
-The Elections Commission said that during the silent period from midnight today, the Elections Commission (EPL) said.
-
-Meanwhile, the Excise Department announced that the presidential election will be closed throughout the 21th and 22nd.
-
-The Commissioner General of Excise M.G. M.G.. Mr. Gunasiri said.
-
-Meanwhile, the Ministry of Education is informed that all schools in the island will be closed on September 20 and will be started as usual again on Monday, September 23.
-
-...
-
-[Data](articles/0727bfc1.json)
-
-[Extended Data](ext_articles/0727bfc1.ext.json)
 
 ---

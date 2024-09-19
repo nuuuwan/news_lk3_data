@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 14:38:24**
+As of **2024-09-19 14:58:04**
 
 ## Newspaper Stats
 
-*Scraped **44,743** Articles*
+*Scraped **44,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ colombotelegraphcom | 447
 islandlk | 2,634
 economynextcom | 2,707
 dailyftlk | 2,980
-adalk | 4,132
+adalk | 4,133
 dailymirrorlk | 4,733
 adaderanalk | 5,259
-tamilmirrorlk | 5,858
+tamilmirrorlk | 5,859
 virakesarilk | 7,152
-adaderanasinhalalk | 7,665
+adaderanasinhalalk | 7,667
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,743 (100.0%) of 44,743 articles have been extended.
+44,747 (100.0%) of 44,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### What can be used to confirm identity when votes
+
+*2024-09-19 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201198) · `si`
+
+Identity verification methods for voting: National Identity Card, old/new, valid foreign passport, driver's license, public service retirement ID, e-ID. No receipts required.
+
+🟩
+
+A voter should verify its identity before a voter is voted.
+
+The Chairman of the Election Commission RMA VL Ratnayake has revealed about what could be used today (19).
+
+"The election is valid for National Identity Card, Old or New Identity Card. And valid foreign passport, valid driver's license, public service retirement ID, both older or e ID is valid. Also, there is no other document in the victory, such as the receipt of the receivation issued by applying for a new National Identity Card, New National Identity Card. "
+
+◼️
+
+[Data](articles/84debb5e.json)
+
+[Extended Data](ext_articles/84debb5e.ext.json)
+
+---
+
+### Suspect arrested for killing businessman
+
+*2024-09-19 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201197) · `si`
+
+Main suspect arrested for businessman murder in Kalawana Vedagala. Athurugiriya Police investigating personal dispute claim. No evidence found at investigation unit. Victim was Welipillawa resident killed at Homagama residence.
+
+🟩
+
+The main suspect in the incident was arrested in Kalawana Vedagala area.
+
+The Athurugiriya Police are also suspected of conducting a personal dispute.
+
+The suspect was conducted in the Athurugiriya Police Investigation Unit when there was no evidence on the murder case.
+
+The suspect was a businessman who was a resident of Welipillawa area in Welipillawa.
+
+The murder was held at the house of Homagama Samagi Mawatha, Homagama, a resident of Homagama.
+
+◼️
+
+[Data](articles/2b4ae8c1.json)
+
+[Extended Data](ext_articles/2b4ae8c1.ext.json)
+
+---
 
 ### 20 years of ban in Dulip Samaraweera
 
@@ -167,6 +215,26 @@ There is no possibility of marking the votes by the vote. "
 [Data](articles/9f63f3f8.json)
 
 [Extended Data](ext_articles/9f63f3f8.ext.json)
+
+---
+
+### Scholarship Questionnaire: Investigation into controversy
+
+*2024-09-19 13:19:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-வினாத்தாள்-சர்ச்சை-குறித்து-விசாரணை/175-344022) · `ta`
+
+Controversy over Grade Five Scholarship Exam's first question investigated by Ministry of Education, Department of Examinations, and Criminal Investigation Department.
+
+🟩
+
+Investigations have begun on the controversy over the first question of the Grade Five Scholarship Examination held on the 15th.
+
+The Ministry of Education announced on Thursday (19) that the Department of Examinations and the Criminal Investigation Department are conducting investigations.
+
+◼️
+
+[Data](articles/e943fef1.json)
+
+[Extended Data](ext_articles/e943fef1.ext.json)
 
 ---
 
@@ -689,6 +757,34 @@ A spokesman for the Pakamuna and Attanakadawala Hospital said that the status of
 [Data](articles/6677877d.json)
 
 [Extended Data](ext_articles/6677877d.ext.json)
+
+---
+
+### 500 hospital in a garment factory with food poisoning
+
+*2024-09-19 11:00:02* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-විසවීමකින්-ඇඟලුම්-කම්හලක-500ක්-රෝහලට/11-412020) · `si`
+
+500 garment factory workers hospitalized due to food poisoning in Polonnaruwa. Bakamuna and Attanakadawala hospitals admit patients. Symptoms include diarrhea and stomach pain. Investigation ongoing.
+
+🟩
+
+The Bakamuna Police states that nearly five hundred employees have been admitted to the Bakamuna and Attanakadawala rural hospitals in the Polonnaruwa area.
+
+The victims have been admitted to the Bakamuna Regional Hospital by buses and ambulances in the apparel industry.
+
+The Bakamuna Regional Hospital lacks was taken to the Attanakadawala Hospital with buses and ambulances.
+
+A spokesman for the Bakamuna and Attanakadawala Hospital stated that the quality of the workers' status of the Attanakadawala and Bakamuna Hospital stated that they are not treated.
+
+Upaling on the 19th, they were admitted to the apparel industry to work on the 19th and they were admitted to the apparel industry, and they were admitted to the apparel of the 19th and that they were serving as 700 employees in the garment industry.
+
+The Bakamuna OIC Inspector Upul Bollyakura stated that a metermine and stomach has caused a diet and stomach ache in the apparel industry.
+
+◼️
+
+[Data](articles/a9fd5f86.json)
+
+[Extended Data](ext_articles/a9fd5f86.ext.json)
 
 ---
 
@@ -2269,77 +2365,5 @@ Three people have died and 15 have been injured, according to foreign reports.. 
 [Data](articles/7032e86e.json)
 
 [Extended Data](ext_articles/7032e86e.ext.json)
-
----
-
-### Presidenshel Elecshen Gide
-
-*2024-09-19 01:38:58* · [`dailyftlk`](https://www.ft.lk/opinion/Presidenshel-Elecshen-Gide/14-766856) · `en`
-
-Oll are saying that this PE will be the first one decided on a Second Count! Which means the Manaapey olso matters! But before Manaapey counting, first Number 1 & 2 will be decided and then the Manaapeys on every other PEC is counted and winner declared! It is like a game of Musical Chairs, thirty peeples playing, suddenly there is ONLY ONE CHAIR & TWO PEEPLES! And the votes of the eliminated players will determine the winner!
-
-Then you have five happy years of telling the peeples from time to time, “I told you so!”
-
-The day you sit on that chair, everything changes. I know peeples say “The Putuwa won’t change me” I olso said it, before I sat in it, (My dear Frend Wikrama knows oll about this, when he got the Putuwa on a platter from me!) but once you sit on that Putuwa, there are things you must learn to do, you must be SELECTIVE!
-
-SELECT:  What you hear / Who speaks to you / What you remember / Who and What you ignore  (applicable to your manifesto as well)
-
-...
-
-[Data](articles/c1cf3513.json)
-
-[Extended Data](ext_articles/c1cf3513.ext.json)
-
----
-
-### Who should be our leader?
-
-*2024-09-19 01:32:54* · [`dailyftlk`](https://www.ft.lk/columns/Who-should-be-our-leader/4-766855) · `en`
-
-The choice of the most suitable Presidential candidate for Sri Lanka depends on several key factors, including the candidate’s vision for economic recovery, governance, accountability, and social welfare, among other areas. Here are a few qualities and areas of focus that could guide the evaluation of a suitable candidate:
-
-Economic expertise: Given Sri Lanka’s ongoing economic challenges, including debt restructuring and inflation, a candidate with strong economic management skills is essential. They should have a track record in promoting sustainable development, attracting investment, and creating jobs.
-
-Reform-oriented mindset: The candidate should prioritise structural reforms in governance, the judiciary, and public institutions. Addressing corruption and implementing transparency measures are key to restoring public confidence.
-
-...
-
-[Data](articles/c04dd73b.json)
-
-[Extended Data](ext_articles/c04dd73b.ext.json)
-
----
-
-### Great import/re-export scam set to destroy local production
-
-*2024-09-19 01:24:14* · [`dailyftlk`](https://www.ft.lk/columns/Great-import-re-export-scam-set-todestroylocal-production/4-766854) · `en`
-
-In the run up to the Presidential Elections,  what is very visible to the public eye  are  the many incentives, bribes/handouts, gifting of lands, housing, increased Aswesuma  payments, jobs, write off of farmer debts, salary increases, PAYE tax reductions. “You name it and you get it” kind of inducements are given  to all and sundry. This  is practically at the expense of the people and the scarce resources of a bankrupt and  indebted nation.
-
-This article attempts to expose the more insidious and hidden opportunities given to traders and their political supporters alike for circumvention and fraud to thrive in international trade. This is particularly so since it is on the eve of the elections that the Presidential Candidate who is also the Head of the Finance Ministry has decided  to restore some of the concessions hitherto subject to malpractice, misuse and abuse in the import of items for purported value addition and re-export under certain Free Trade Agreements.
-
-...
-
-[Data](articles/7a5fdf63.json)
-
-[Extended Data](ext_articles/7a5fdf63.ext.json)
-
----
-
-### Correct body recovery with shooting injuries in Tangalle
-
-*2024-09-19 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194060) · `ta`
-
-Body recovered from shooting incident in Tangalle's Nalagama area. Suspicious circumstances surrounding death.
-
-🟩
-
-The body of a person who died with suspicious shooting injuries in the Nalagama area in Tangalle has been found.
-
-◼️
-
-[Data](articles/965dce4a.json)
-
-[Extended Data](ext_articles/965dce4a.ext.json)
 
 ---

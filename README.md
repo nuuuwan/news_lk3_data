@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 05:43:52**
+As of **2024-09-19 06:07:13**
 
 ## Newspaper Stats
 
-*Scraped **44,651** Articles*
+*Scraped **44,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 434
 colombotelegraphcom | 446
-islandlk | 2,623
+islandlk | 2,624
 economynextcom | 2,703
 dailyftlk | 2,980
 adalk | 4,122
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,642
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,650 (100.0%) of 44,651 articles have been extended.
+44,652 (100.0%) of 44,652 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -160,21 +160,27 @@ The delegation was led by General Manager of Investment Promotion and Marketing 
 
 ---
 
-### ’20 இலட்சம் மேலதிக வாக்குகளால் வெற்றி நிச்சயம்’
+### The victory is sure to be the highest number of votes
 
 *2024-09-19 02:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-இலட்சம்-மேலதிக-வாக்குகளால்-வெற்றி-நிச்சயம்/175-343999) · `ta`
 
-புலனாய்வுத் துறை அறிக்கையின் பிரகாரம் 20 இலட்சம் மேலதிக வாக்குகளால் ஐக்கிய மக்கள் சக்தி வெற்றி பெறும். காலை வாருகின்ற ரணில் அநுர ஜோடி கீழ் மட்டத்திலே இருக்கின்றது.
+United People's Power likely to win with over 20 lakh votes. Opposition leader Sajith Premadasa urges peaceful celebration. Promises religious freedom, stopping drugs, reducing taxes, increasing investments, eliminating corruption. No political deals or fraud. Focuses on restoring 22 million affected people.
 
-புனித தலதா மாளிகையில் தேர்தல் விஞ்ஞாபனத்தை முதன் முதலில் சமர்ப்பித்து ஆசிர்வாதத்தை பெற்றுக் கொண்ட பின்னரே நாம் தேர்தல் பணிகளை ஆரம்பித்தோம். தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிடப்பட்ட விடயங்கள் அனைத்தையும் புத்தபெருமானின் ஆசீர்வாதங்கள் பாதுகாக்கும் என்பதோடு நாம் நிச்சயமாக வெற்றி பெறுவோம்.
+🟩
 
-இந்த வெற்றியை அமைதியான முறையில் கொண்டாடுமாறு கேட்டுக் கொள்கின்றேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+According to the Investigation Department report, the United People's Power will win with more than 20 lakh votes. Ranil is at the lower level of the pair of Ranil in the morning.
 
-2024 ஆம் ஆண்டு ஜனாதிபதி தேர்தலை முன்னிட்டு ஐக்கிய மக்கள் கூட்டணி ஏற்பாடு செய்த 68 ஆவது மக்கள் வெற்றி பேரணி செப்டம்பர் 18 ஆம் திகதி எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் மொனராகலையில் மிக வெற்றிகரமாக முன்னெடுக்கப்பட்டது. இதில் கலந்துகொண்டு உரையாற்றும் போதே எதிர்க்கட்சித் தலைவர் இவ்வாறு தெரிவித்தார்.
+It was only after the first submission of the election manifesto at the Holy Dalada House and obtained the blessings.. We will certainly succeed in protecting the Buddha's blessings of all things mentioned in the election manifesto.
+
+Opposition leader Sajith Premadasa said that I urge you to celebrate this victory peacefully.
+
+The 68th People's Victory rally organized by the United People's Alliance (UPFA) in front of the 2024 presidential election was held on September 18 under the leadership of Opposition Leader Sajith Premadasa in Moneragala.. The Opposition Leader said this while addressing the gathering.
 
 ...
 
 [Data](articles/6dbd4333.json)
+
+[Extended Data](ext_articles/6dbd4333.ext.json)
 
 ---
 
@@ -559,6 +565,22 @@ The body of a person who died with suspicious shooting injuries in the Nalagama 
 [Data](articles/965dce4a.json)
 
 [Extended Data](ext_articles/965dce4a.ext.json)
+
+---
+
+### Bourse recovers notably but turnover low
+
+*2024-09-19 00:10:00* · [`islandlk`](http://island.lk/bourse-recovers-notably-but-turnover-low/) · `en`
+
+The stock market yesterday bounced back after going through a drop due to political and economic uncertainty stemming from the presidential election, stock market analysts said.
+
+Amid those developments both indices moved upwards despite the lower turnover. All Share Price Index went up by 163.5 points while S and P SL20 rose by 68.25 points. Turnover stood at Rs 931 million with a crossing. The crossing was reported in Commercial Bank, which crossed 300,000 shares to the tune of Rs 24.6 million; its shares traded at Rs 82.
+
+...
+
+[Data](articles/00be9db9.json)
+
+[Extended Data](ext_articles/00be9db9.ext.json)
 
 ---
 
@@ -2285,25 +2307,5 @@ He noted that the right to vote in the election should not be ignored by this vo
 [Data](articles/ce5129ef.json)
 
 [Extended Data](ext_articles/ce5129ef.ext.json)
-
----
-
-### Sri Lanka treasury bill yields spike ahead of elections
-
-*2024-09-18 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-spike-ahead-of-elections-179897/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields shot up across maturities at Wednesday’s auction, ahead of the presidential election this week, with 160.9 billion of an offered 170 billion of bills sold, data from the debt office showed.
-
-The 3-month yield was up 50 basis points to 10.49 percent, with all 90 billion rupees of bills offered sold.
-
-The 6-month yield was up 52 basis points to 10.76 percent, with all 70 billion rupees of bills offered sold.
-
-The 12-month bills held steady at 10.07 percent, with only 989 million sold of an offered 15 billion rupees. (Colombo/Sep18/2024)
-
-◼️
-
-[Data](articles/3937a5bb.json)
-
-[Extended Data](ext_articles/3937a5bb.ext.json)
 
 ---

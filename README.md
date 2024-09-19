@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 22:23:57**
+As of **2024-09-19 22:38:19**
 
 ## Newspaper Stats
 
-*Scraped **44,804** Articles*
+*Scraped **44,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 2,707
 dailyftlk | 2,980
 adalk | 4,145
 dailymirrorlk | 4,733
-adaderanalk | 5,266
+adaderanalk | 5,267
 tamilmirrorlk | 5,865
 virakesarilk | 7,173
-adaderanasinhalalk | 7,678
+adaderanasinhalalk | 7,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,804 (100.0%) of 44,804 articles have been extended.
+44,804 (100.0%) of 44,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### ඡන්දය වෙනුවෙන් විශේෂ බස් රථ සේවාවක්
+
+*2024-09-19 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201212) · `si`
+
+මෙවර ජනාධිපතිවරණයේදී ඡන්දය භාවිතාකිරීම සඳහා ගම්බිම් බලා යන ජනතාවට අවශ්‍ය ප්‍රවාහන පහසුකම් සැපයීම සඳහා සියලු කටයුතු යොදා ඇති බව ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+
+එහි සභාපති ලලිත් ද අල්විස් මහතා පවසා සිටියේ, ඡන්දය භාවිතාකිරීම සඳහා ගම්බිම් බලා යන ජනතාව වෙනුවෙන් හෙට (20) දිනයේ අමතර දුර ගමන් සේවා බස් රථ යෙදවීමට පියවර ගෙන ඇති බවයි.
+
+කෙසේ වෙතත් පෞද්ගලික බස් රථ සේවකයින් ඡන්දය ප්‍රකාශ කිරීම සඳහා ගම්බිම් බලා යාම හේතුවෙන් පෞද්ගලික බස් රථ ධාවනයේ අඩුවීමක් සිදුවිය හැකි බව ලංකා පෞද්ගලික බස් රථ හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා පැවසීය.
+
+◼️
+
+[Data](articles/05b00b63.json)
+
+---
+
+### Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes
+
+*2024-09-19 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102087/hezbollah-leader-vows-retaliation-against-israel-for-attacks-on-devices-as-both-sides-trade-strikes) · `en`
+
+The leader of Hezbollah vowed to keep up daily strikes on Israel despite this week’s mass bombing attack on its communication devices, and said Israelis displaced by the fighting from homes near the Lebanon border would not be able to return until the war in Gaza ends.
+
+Hezbollah and Israel launched fresh attacks across the border as Hassan Nasrallah spoke for the first time since the deadly device bombings he described as a “severe blow” and for which he promised to retaliate.
+
+The two-days of attacks targeting thousands of Hezbollah pagers and walkie-talkies have been widely blamed on Israel, heightening fears that 11 months of near-daily exchanges of fire between Hezbollah and Israel will escalate into all-out war.
+
+...
+
+[Data](articles/9824e5ac.json)
+
+---
 
 ### Notice to public officials engaged in election duties
 
@@ -2469,53 +2501,5 @@ The suspect was arrested and the Gotadwela Police are conducting further investi
 [Data](articles/a5c70755.json)
 
 [Extended Data](ext_articles/a5c70755.ext.json)
-
----
-
-### A businessman shot dead
-
-*2024-09-19 10:23:22* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාපාරිකයෙක්-වෙඩි-තබා-ඝාතනය-කරයි/11-412018) · `si`
-
-Businessman killed in shooting incident near Dehiwala. Two victims found dead at 6 PM. Owner of 112/1 Thonean hotel involved. One victim critically injured, hospitalized at Colombo Teaching Hospital. Case under investigation by CID and Kohuwala police.
-
-🟩
-
-Two persons who came to a motorbike with a hotel owner of Dehiwala, Saranankara road have been shot dead at 18.00 pm.
-
-The deceased has been identified as the owner of the 112/1 (Thonean), owner of the 112/1 ('.).
-
-One of the two persons who have come to buy smoking from the hotel and that one of the two persons have come to buy smoking in the hotel, the owner had fled the round.
-
-Accordingly, the person who was seriously injured by the persons who were seriously injured by the persons who were seriously injured were admitted to the Colombo Teaching Hospital.
-
-Kohuwala OIC Chief Inspector Wasantha Pitigala, Criminal Investigation Division Mr. OIC Inspector General of Police OIC.
-
-◼️
-
-[Data](articles/3ec30f53.json)
-
-[Extended Data](ext_articles/3ec30f53.ext.json)
-
----
-
-### Notification about a school holiday
-
-*2024-09-19 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201182) · `si`
-
-Schools closed Sept 20 due to elections. Holiday declared by Ministry of Education. Classes resume Sept 23.
-
-🟩
-
-The Ministry of Education has announced that all schools in the island on Friday, September 20, announced a holiday.
-
-The decision was taken by the Ministry of Education on the request of the Elections Commission of Elections due to the presidential election on September 21.
-
-The school starts have been reported on September 23.
-
-◼️
-
-[Data](articles/43fa9911.json)
-
-[Extended Data](ext_articles/43fa9911.ext.json)
 
 ---

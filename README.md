@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 13:07:50**
+As of **2024-09-19 13:22:36**
 
 ## Newspaper Stats
 
-*Scraped **44,728** Articles*
+*Scraped **44,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ economynextcom | 2,707
 dailyftlk | 2,980
 adalk | 4,130
 dailymirrorlk | 4,733
-adaderanalk | 5,258
-tamilmirrorlk | 5,857
+adaderanalk | 5,259
+tamilmirrorlk | 5,858
 virakesarilk | 7,147
-adaderanasinhalalk | 7,659
+adaderanasinhalalk | 7,661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,728 (100.0%) of 44,728 articles have been extended.
+44,732 (100.0%) of 44,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### The Canadian government is in the decision of foreign students
+
+*2024-09-19 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201192) · `si`
+
+Canadian government reduces foreign student admissions from 36% in 2023 to 36% in 2025 due to declining population. Employment license laws tightened, affecting Indian students disproportionately.
+
+🟩
+
+The Canadian government has decided to further reduce foreign students to educational institutions.
+
+By 2025, by 2025, by 2025, it will reduce foreign recruitments to 36% compared to 2023.
+
+This is due to the reduction of people who are underway in the country, including foreign students and workers.
+
+The Canadian government has decided to raise laws relating to employment licenses.
+
+According to Indian media, the Canadian government's measures are more impact on Indian students.
+
+◼️
+
+[Data](articles/8bb77408.json)
+
+[Extended Data](ext_articles/8bb77408.ext.json)
+
+---
+
+### More information about Rasnathura
+
+*2024-09-19 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201191) · `si`
+
+Rasnathura shooting: 30-year-old man killed in Kurunegala cafe. Police investigating suspect.
+
+🟩
+
+Another information about the deceased has been revealed in the shooting that was shot dead in Kurunegala, Rasnapura.
+
+The Rasnathpura Police had received a message that a person had fallen in a cafeteria in the area today (19).
+
+The victim was a 30 year old resident of the area.
+
+According to investigations into the incident, the murder had been shot dead by a person.
+
+The Nikaweratiya Magistrate, the body has been informed and the suspect is conducting further investigations.
+
+◼️
+
+[Data](articles/01ab894f.json)
+
+[Extended Data](ext_articles/01ab894f.ext.json)
+
+---
+
+### Cricket Australia bans ex-Sri Lankan cricketer Dulip Samaraweera for 20 years
+
+*2024-09-19 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102077/cricket-australia-bans-ex-sri-lankan-cricketer-dulip-samaraweera-for-20-years) · `en`
+
+Cricket Australia (CA) has banned former Sri Lankan Test player Dulip Samaraweera for 20 years after he “committed a serious breach” of the organisation’s code of conduct.
+
+Samaraweera is banned from holding any position within CA or a state or territory association, including any WBBL or BBL teams.
+
+CA’s conduct commission found Samaraweera engaged in “inappropriate behaviour” while he was employed by Cricket Victoria (CV).
+
+“CA and CV are committed to providing a safe environment for all players and employees and the welfare of those subjected to mistreatment is paramount,” a CA statement read.
+
+CV also released a statement, saying it “strongly” supported CA’s decision to ban Samaraweera, who had worked with the state women’s program.
+
+“It is our view that the conduct was utterly reprehensible and a betrayal of everything we stand for at Cricket Victoria,” CV chief executive Nick Cummins said.
+
+...
+
+[Data](articles/c80caf7c.json)
+
+[Extended Data](ext_articles/c80caf7c.ext.json)
+
+---
+
+### Action ban on Keheliya's son
+
+*2024-09-19 12:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-மகனுக்கு-அதிரடி-தடை/175-344021) · `ta`
+
+Colombo High Court orders seizure of luxury apartments owned by Keheliya Rambukwella's son Ramitha Rambukwella on Bribery Commission's request.
+
+🟩
+
+The Colombo High Court has ordered the occupation of two luxury apartments in Colombo, Colombo 3, belonging to Ramitha Rambukwella, son of former health minister Keheliya Rambukwella.
+
+Colombo High Court Judge Manjula Tilakaratne has issued the order on the request of the Bribery Commission.
+
+◼️
+
+[Data](articles/e9242b91.json)
+
+[Extended Data](ext_articles/e9242b91.ext.json)
+
+---
 
 ### CID and Exams Dept. probing Grade 5 exam paper leak
 
@@ -1448,8 +1544,6 @@ This year, the Sri Lanka Pavilion featured an impressive line-up of 35 leading S
 
 From left: Inovartic Investment Chairman and Co-Founder Saif Aldarmaki, and Abu Dhabi Department of Economic Development (ADDED) in UAE Acting Director General of Economic Affairs Badr Al-Olama
 
-Apex Asia Chairman and Inovartic Investment Lanka Co-Founder Shawn Gajasinghe
-
 Inovartic Investment Lanka to work in collaboration with Abu Dhabi University (ADU) and Sri Lanka Institute of Nanotechnology (SLINTEC) across Sri Lanka and the UAE
 
 Inovartic Investment Lanka Ltd., a joint venture between Sri Lanka’s Apex Asia Holdings and UAE’s Inovartic Investment LLC, has embarked on an initiative to accelerate the advanced manufacturing of graphene and graphene-based products in Sri Lanka and Abu Dhabi.
@@ -2187,95 +2281,5 @@ Police said the body was found today (18).
 [Data](articles/f193e305.json)
 
 [Extended Data](ext_articles/f193e305.ext.json)
-
----
-
-### Second wave of deadly device explosions kill 9, injures at least 300 in Lebanon
-
-*2024-09-18 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102067/second-wave-of-deadly-device-explosions-kill-9-injures-at-least-300-in-lebanon) · `en`
-
-Nine people have died and more than 300 others wounded as walkie-talkies have blown up at Hezbollah strongholds across Lebanon.
-
-This comes a day after pagers exploded across the middle-eastern country, killing twelve people and injuring nearly 3,000 others.
-
-How many walkie-talkies blew up are not know yet. There are reports that landline telephones exploded too at various locations in East Lebanon.
-
-According to reports, the hand-held wireless radio devices and walkie-talkies were bought around five months ago, approximately the same time as the pagers.
-
-Today’s blasts happened across southern Lebanon as well as Beirut’s suburbs. At least one of the blasts happened near a funeral organised by Hezbollah for a member who was killed in yesterday’s pager blasts. A video of the incident was widely circulated on social media platforms.
-
-...
-
-[Data](articles/4bc46089.json)
-
-[Extended Data](ext_articles/4bc46089.ext.json)
-
----
-
-### Never show many changes at the beginning - Anura
-
-*2024-09-18 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201170) · `si`
-
-Anura Kumara Dissanayake emphasizes gradual change, rejecting racism, religious conflicts, and tribalism in his presidential administration. He advocates for a new political approach in Sri Lanka, focusing on unity and equality.
-
-🟩
-
-Anura Kumara Dissanayake says the presidency of the National Power has not allowed racism, religiousism and tribal in his administration.
-
-He was speaking at a public famous famil this afternoon.
-
-"At the beginning we need to show many changes. Creating a new politics in Sri Lanka. To racism in the country. We do not allow any space for religionism. The religious conflict there is no Sri Lanka. "
-
-◼️
-
-[Data](articles/0842d5a0.json)
-
-[Extended Data](ext_articles/0842d5a0.ext.json)
-
----
-
-### Everygo is shortcomings - Namal
-
-*2024-09-18 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201169) · `si`
-
-Namal Rajapaksa denies stealing public funds, claims government accused them falsely. He challenges prosecution, stating "We'll make the shortcomings." This statement was made during a rally in Galle.
-
-🟩
-
-Presidential candidate at the Sri Lanka General Front Namal Rajapaksa says that the Rajapaksas have not stolen public money.
-
-He made these comments addressing a rally in Galle.
-
-"The government thought it was thought to be stored in Mattala. Sooriyawewa Stadium shutted. We haven't stolen us to put us in jail. If you can prosecute us. Ready to prove innocence. The deficiencies of everyone. We'll make the shortcomings. "
-
-◼️
-
-[Data](articles/b0799f09.json)
-
-[Extended Data](ext_articles/b0799f09.ext.json)
-
----
-
-### Happy news in 2 weeks - Ranil
-
-*2024-09-18 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201168) · `si`
-
-Sri Lanka faces bankruptcy in 2 weeks: President Ranil Wickremesinghe announces IMF agreement, bond restructuring plan to prevent default.
-
-🟩
-
-Ranil Wickremesinghe reveals that the country is officially drunk in bankruptcy within two weeks.
-
-He was addressing the 'Ranil' to address the rally of the people today (18).
-
-"I am the IMF and the World Bank.. Discussed with Asian Development Bank. We came to an agreement with a central income country like our. Now the third group should enter a covenant agreement to eliminate the bankruptcy. Those are personal bonds. The covenant will be completed tomorrow. Then I am coming to this election fundamental duties. In this country has come to the loss of the bankruptcy. "
-
-"IMF Director said they don't change these. They come in two weeks of the end of the election. Then you say that bankruptcy is over. "
-
-◼️
-
-[Data](articles/f52f369e.json)
-
-[Extended Data](ext_articles/f52f369e.ext.json)
 
 ---

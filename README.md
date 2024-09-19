@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 13:58:21**
+As of **2024-09-19 14:11:31**
 
 ## Newspaper Stats
 
-*Scraped **44,735** Articles*
+*Scraped **44,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,76 @@ adalk | 4,131
 dailymirrorlk | 4,733
 adaderanalk | 5,259
 tamilmirrorlk | 5,858
-virakesarilk | 7,147
-adaderanasinhalalk | 7,663
+virakesarilk | 7,152
+adaderanasinhalalk | 7,664
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,735 (100.0%) of 44,735 articles have been extended.
+44,741 (100.0%) of 44,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Didn't you receive votes yet?
+
+*2024-09-19 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201195) · `si`
+
+Here's a 200-character summary:
+
+
+
+Election Commission Chairman RMAL Ratnayake: Voters can obtain official ballots at post offices. Mobile phones allowed only with police permission. Propaganda offices near polling stations must be removed.
+
+🟩
+
+Election Commission's Chairman of the Election Commission RMAL Ratnayake says that the voters from the Election Commission (Elections) has been able to obtain the official website of the Election Commission.
+
+He also said that the official ballot paper is also available at the post office of the area.
+
+He was speaking at a media briefing held in the Government Information Department this morning regarding the presidential election.
+
+"If there are no voters that have not been voted yet, he will continue to get them from the due post office. If you want to visit the official website of the Election Commission, you can get a copy of it. The official ballot notice is not mandatory for voting. You have a valid ID you have a valid Identity Card and can vote at the polling center. "
+
+He added that he was brought to bringing mobile phones at the time of the election.
+
+...
+
+[Data](articles/afb6aea9.json)
+
+[Extended Data](ext_articles/afb6aea9.ext.json)
+
+---
+
+### Prohibition on screening of election results in public: Police
+
+*2024-09-19 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194096) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka police ban public display of 2024 election results due to potential violence. Deputy Inspector General Nihal Talduwa advises citizens to view results privately at home.
+
+🟩
+
+Police said that the presidential election results were banned in public in 2024.
+
+Deputy Inspector General of Police Nihal Talduwa addressing a special media briefing held on Thursday (19)
+
+In the public outer space can cause violent incidents. Therefore, this move has been taken to prevent violence.
+
+I urge the public to visit the presidential election personally in their homes.
+
+◼️
+
+[Data](articles/f99dde7f.json)
+
+[Extended Data](ext_articles/f99dde7f.ext.json)
+
+---
 
 ### The proposal approved by the UNP in general area against Israel
 
@@ -140,6 +198,32 @@ The Nikaweratiya Magistrate, the body has been informed and the suspect is condu
 
 ---
 
+### Presidential election;Special Rail Service
+
+*2024-09-19 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194083) · `ta`
+
+Railway Department announces special train services Colombo Fort Kankesanthurai presidential election duties government officials security personnel. Trains operate today tomorrow, usual schedule Saturday, reduced short services Sunday, long-distance unaffected.
+
+🟩
+
+The Railway Department has announced that a number of special train services will be held between the Colombo Fort and the Kankesanthurai to ease the presidential election duties.
+
+The special rail service has been implemented for government officials and security personnel involved in election activities.
+
+The train will depart from Colombo Fort at 9 am today and tomorrow. Also, two special trains will be operated from Kankesanthurai to Colombo Fort tomorrow and September 22.
+
+Meanwhile, the train service will be operated on the usual schedule on Saturday, the 21st of the election.
+
+Short Train Services may be reduced on Sunday 22nd. However, long -distance train services are running as usual, the Railway Department said.
+
+◼️
+
+[Data](articles/0696133a.json)
+
+[Extended Data](ext_articles/0696133a.ext.json)
+
+---
+
 ### Cricket Australia bans ex-Sri Lankan cricketer Dulip Samaraweera for 20 years
 
 *2024-09-19 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102077/cricket-australia-bans-ex-sri-lankan-cricketer-dulip-samaraweera-for-20-years) · `en`
@@ -206,6 +290,74 @@ He had also stated that if investigations uncover that the questions have in fac
 
 ---
 
+### Allow Dileepan's memorial
+
+*2024-09-19 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194086) · `ta`
+
+Jaffna court denies ban on Dileepan martyrdom events, citing 2011 Gazette Notification allowing commemoration. Police petition rejected, sparking debate over freedom of expression vs. national security concerns.
+
+🟩
+
+Jaffna to ban the martyrdom of Dileepan. The magistrate's court has denied.
+
+The police filed a petition last Friday demanding a ban on the martyrdom events in the Jaffna police area.
+
+When the hearing of the petition was held on Wednesday (18), the Gazette Notification was issued on the ban on the use of tiger symbols in 2011. It is not forbidden to commemorate the dead.
+
+People have been continuously carrying out commemoration events for the past 13 years. Neither the President, the Defense Ministry nor the Parliament has taken any legal action in this regard.
+
+The police, however, refused to ban the commemoration, saying that it was not acceptable for the commemoration event.
+
+◼️
+
+[Data](articles/4dc0422d.json)
+
+[Extended Data](ext_articles/4dc0422d.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-09-19 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194084) · `ta`
+
+US dollar exchange rate: 299.2026 rupees buying price, 308.5712 selling price. Central Bank announcement on Thursday, 19th.
+
+🟩
+
+The US dollar purchasing price was 299.2026 rupees and the sales price were Rs 308.5712, based on the currency exchange rate issued by the Central Bank on Thursday (19).
+
+◼️
+
+[Data](articles/a83b9e13.json)
+
+[Extended Data](ext_articles/a83b9e13.ext.json)
+
+---
+
+### Circular action;Three arrests with ice drug
+
+*2024-09-19 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194079) · `ta`
+
+Police arrest three suspects with ice drugs in nationwide operation. Three separate incidents: one in Ragama, another in Borella, and a third in Ukashena. Total of 15 grams of ice seized, along with cash and additional drugs.
+
+🟩
+
+Three suspects have been arrested on Wednesday (18) with ice drugs in a roundabout carried out by police across the country.
+
+Accordingly, a suspect has been arrested with 15 grams of 460 milligrams of ice in the Ukashena area of ​​the Ragama Police Division.
+
+In this case, a suspect has been arrested with 15 grams of 330 milligrams of ice.
+
+Meanwhile, a suspect has been arrested with a sum of Rs 272,000 from the Sahaspura area of ​​the Borella police division of 12 grams of 820 milligrams of ice and drug sales.
+
+◼️
+
+[Data](articles/3e748c8f.json)
+
+[Extended Data](ext_articles/3e748c8f.ext.json)
+
+---
+
 ### Special decision on controversial scholarship question
 
 *2024-09-19 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201190) · `si`
@@ -230,7 +382,7 @@ The statement further states that as soon as those investigations are completed,
 
 ### Damage to the trade center in Tayantha area
 
-*2024-09-19 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194080) · `ta`
+*2024-09-19 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194080) · `ta`
 
 Matara shopping center fire causes 15 lakh rupee damage. Owner reported blaze to police, who helped control it along with residents.
 
@@ -2179,119 +2331,5 @@ The event was graced by Prime Group’s Chairman and Co-Chairperson, along with 
 [Data](articles/21f8a034.json)
 
 [Extended Data](ext_articles/21f8a034.ext.json)
-
----
-
-### Economic stakes of the 2024 presidential election
-
-*2024-09-19 00:16:00* · [`islandlk`](http://island.lk/economic-stakes-of-the-2024-presidential-election/) · `en`
-
-As Sri Lanka gears up for elections, policymakers must avoid rash economic promises that risk a decade of lost growth and an era of relative decline.
-
-As too often in the past, Sri Lanka appears not to have broken its damaging tendency towards ‘competitive populism’ ahead of elections. Fiscally profligate promises ranging from wage increases to loan write-offs and welfare handouts are being made in a bid to win votes. Such pledges often come with a hefty price tag that the country can ill afford, especially given its still fragile economic recovery.
-
-...
-
-[Data](articles/2a80de03.json)
-
-[Extended Data](ext_articles/2a80de03.ext.json)
-
----
-
-### AIA Insurance recognised as Sri Lanka’s Most Loved Insurer in the Corporate Brands Category and one of the Topmost Loved Life Insurance Brands
-
-*2024-09-19 00:15:00* · [`islandlk`](http://island.lk/aia-insurance-recognised-as-sri-lankas-most-loved-insurer-in-the-corporate-brands-category-and-one-of-the-topmost-loved-life-insurance-brands/) · `en`
-
-AIA Insurance is proud to announce its recognition as one of the topmost loved life insurance brands in Sri Lanka. This accolade, awarded by LMD based on a comprehensive survey commissioned to PepperCube, marks a significant milestone for AIA Insurance.
-
-Our journey has been guided by a commitment to excellence and an unwavering focus on meeting the needs of our customers. Being named the Most Loved Insurer in the Corporate Brands category (Compiled by LMD based on a survey commissioned to PepperCube) is a testament to the trust and affection that Sri Lankans have placed in us. It is a validation of our efforts to provide unparalleled service and support to our policyholders, ensuring their financial security and peace of mind.
-
-...
-
-[Data](articles/e31a273f.json)
-
-[Extended Data](ext_articles/e31a273f.ext.json)
-
----
-
-### AAC helps out with Crash helmets for schoolchildren
-
-*2024-09-19 00:11:00* · [`islandlk`](http://island.lk/aac-helps-out-with-crash-helmets-for-schoolchildren/) · `en`
-
-The Automobile Association of Ceylon donated 100 Crash helmets to Lasantha Alagiyawanna, M.P., State Minister of Transport on September 13 at the Transport Ministry to be distributed among schoolchildren in the Western Province. That is, in the Gampaha District, among students of Urapola Madya Maha Vidyalaya, Walpola Ekabadda Vidyalaya, Kooruwamulla Maha Vidyalaya & Galhoragalla Maha Vidyalaya under the Road Safety Programme.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/a33a5c25.json)
-
-[Extended Data](ext_articles/a33a5c25.ext.json)
-
----
-
-### Bourse recovers notably but turnover low
-
-*2024-09-19 00:10:00* · [`islandlk`](http://island.lk/bourse-recovers-notably-but-turnover-low/) · `en`
-
-The stock market yesterday bounced back after going through a drop due to political and economic uncertainty stemming from the presidential election, stock market analysts said.
-
-Amid those developments both indices moved upwards despite the lower turnover. All Share Price Index went up by 163.5 points while S and P SL20 rose by 68.25 points. Turnover stood at Rs 931 million with a crossing. The crossing was reported in Commercial Bank, which crossed 300,000 shares to the tune of Rs 24.6 million; its shares traded at Rs 82.
-
-...
-
-[Data](articles/00be9db9.json)
-
-[Extended Data](ext_articles/00be9db9.ext.json)
-
----
-
-### 2024-09-18 (Wednesday)
-
-### Response to SJB’s allegations over Sajith’s participation in ‘Derana 360°’ program
-
-*2024-09-18 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102068/response-to-sjbs-allegations-over-sajiths-participation-in-derana-360-program) · `en`
-
-Seven candidates contesting the 2024 Presidential Election were each given the opportunity to participate in a special ‘Derana 360°’ program, according to the equal-ground policy followed by Ada Derana.
-
-Accordingly, Ada Derana had also invited the Samagi Jana Balawegaya (SJB) presidential candidate Sajith Premadasa.
-
-The seven special ‘Derana 360°’ programs commenced airing from Thursday (Sept. 12).
-
-After informing SJB leader Sajith Premadasa of this, based on his advice a secretary managing his diary confirmed that the ‘Derana 360°’ program could be conducted as a live recording and the date was also noted down in his diary as September 17.
-
-Following that, on several occasions the Derana News Director exchanged views with Mr. Premadasa over the phone related to this program while the the trailers related to the program also began airing from September 11.
-
-...
-
-[Data](articles/0b84bf2c.json)
-
-[Extended Data](ext_articles/0b84bf2c.ext.json)
-
----
-
-### Ranil Wickremesinghe: 'Are the people who are in the beggar of the Sex?They must lose them '
-
-*2024-09-18 22:43:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl8n4e7g05o) · `si`
-
-Ranil Wickremesinghe criticizes Sajith Premadasa's economic abilities, questioning IMF agreements. He urges stopping bankruptcy proceedings and staying focused on development. The statement was made during his final rally in Colombo on September 18th.
-
-🟩
-
-Ranil Wickremesinghe: 'Are the people who are in the beggar of the Sex?They must lose them '
-
-Independence candidate says that Sajith Premadasara has no ability to strengthen the economy, saying that the agreement with the International Monetary Fund (IMF).
-
-'' What do you say in Dissanayaka, what are the journalists?These are newly discussed. We're going to do newly?We will stay aid for us. Ranil Wickremesinghe said, "Stop abolishing our bankruptcy," Ranil Wickremesinghe said.
-
-The final rally participated in Ranil Wickremesinghe was held on September 18, Colombo 18, Colombo, Grandpass, police.
-
-◼️
-
-[Data](articles/2ebce5fc.json)
-
-[Extended Data](ext_articles/2ebce5fc.ext.json)
 
 ---

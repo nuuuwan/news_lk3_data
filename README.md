@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 13:38:37**
+As of **2024-09-19 13:58:21**
 
 ## Newspaper Stats
 
-*Scraped **44,733** Articles*
+*Scraped **44,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ dailymirrorlk | 4,733
 adaderanalk | 5,259
 tamilmirrorlk | 5,858
 virakesarilk | 7,147
-adaderanasinhalalk | 7,661
+adaderanasinhalalk | 7,663
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,732 (100.0%) of 44,733 articles have been extended.
+44,735 (100.0%) of 44,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### The proposal approved by the UNP in general area against Israel
+
+*2024-09-19 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201194) · `si`
+
+UN proposal: Israel withdrawal from Palestinian territories within 12 months. 14 countries opposed, 43 abstained. Israel seeks compensation for damages.
+
+🟩
+
+The United Nations Council has passed a proposal that Israel's invasion should be completed within 12 months.
+
+The proposal was made by the Palestine yesterday (18) by Palestine yesterday.
+
+Fourteen countries have voted against the proposal and 43 countries have abstained.
+
+The proposal is stated that the troops should withdraw from the Palestinian territories, including East Jerusalema, including East Jerusalem.
+
+Israel has also requested the Palestinians to compensate Palestinians for the damage done.
+
+◼️
+
+[Data](articles/131074fe.json)
+
+[Extended Data](ext_articles/131074fe.ext.json)
+
+---
+
+### This is how the favorite one is elected
+
+*2024-09-19 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201193) · `si`
+
+Here's a 200-character summary:
+
+
+
+Elections Commission explains voting process: Record 4-digit number next to preferred candidate. Mark first preference. Optionally list up to 21 preferences. Invalidates vote if not marked correctly.
+
+🟩
+
+The Elections Commission says he is capable of vote or preferential votes in the presidential election.
+
+At a special press conference held with the Electorate Officers today (19). M. A. L. Mr. Ratnayake made this statement on how to vote.
+
+"Any candidate can vote by recording the number of the 4 digit in front of the candidate's name and mark. If a candidate is intended to mark the preference, the second preference can also be given the 21st preference by recording the third preference 3.
+
+Instead of this, the vote will be a valid vote in this election.
+
+There is no possibility of marking the votes by the vote. "
+
+◼️
+
+[Data](articles/9f63f3f8.json)
+
+[Extended Data](ext_articles/9f63f3f8.ext.json)
+
+---
 
 ### The Canadian government is in the decision of foreign students
 
@@ -138,7 +194,11 @@ The communiqué stated that the Department of Examinations and the Criminal Inve
 
 It is further stated that a decision on the matter will be made after the conclusion of these investigations.
 
-◼️
+On Tuesday (17), the Commissioner General of Examinations Amit Jayasundara said that investigations are being held into an incident where three questions similar to those on the Grade 5 Scholarship exam paper had allegedly been posted online via a model exam paper.
+
+He had also stated that if investigations uncover that the questions have in fact been leaked, the relevant questions would be disregarded during the paper marking process.
+
+...
 
 [Data](articles/e5e48c3e.json)
 
@@ -500,21 +560,21 @@ Police investigations have revealed that the shooting was carried out by a man f
 
 *2024-09-19 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102074/another-shooting-youth-gunned-down-in-kurunegala) · `en`
 
-A 30-year-old youth has been killed in a shooting incident in the Rasanayakapura area in Kurunegala.
+A 30-year-old youth has been killed in a shooting incident in the Rasanayakapura area in Kurunegala this morning (19).
 
-This is the third shooting incident reported in the country within the last 24 hours.
+Police have launched an investigation based on the information received by Rasanayakapura Police regarding a person who was found bleeding and collapsed on the floor of a restaurant located in the Nammuwawa area of the Rasanayakapura police division, with apparent gunshot injuries.
+
+The deceased is a 30-year-old resident of Nammuwawa area in Rasanayakapura.
+
+The preliminary investigations indicate that the murder was carried out using a firearm by an unidentified gunman.
+
+A magisterial inquiry is scheduled to be held by the Nikaweratiya Magistrate.
+
+Rasanayakapura Police is conducting further investigations to arrest the suspects involved.
+
+This is the third fatal shooting incident reported in the country within the last 24 hours.
 
 Meanwhile, in a separate incident, one person was killed and two others were injured in a shooting incident at Midigama in Matara this morning.
-
-Police said the two unidentified gunmen, who arrived on a motorcycle, had opened fire at a person who was at a fish market in the Goviyapana area in the Midigama police area this morning (19) and had fled the scene.
-
-The owner of the fish stall, who sustained serious injuries from the gunfire, along with two other individuals who had arrived at the stall and were also injured from the shooting were admitted to the Karapitiya Hospital for treatment.
-
-However, the fish market owner had succumbed to his injuries upon admission to the hospital.
-
-The deceased is a 38-year-old resident of the Goviyapana area.
-
-The body has been placed at the mortuary of the Karapitiya Hospital.
 
 ...
 
@@ -936,17 +996,23 @@ Kohuwala police are conducting further investigations into the shooting incident
 
 ---
 
-### මීළඟ සමාලෝචනයට අයි.එම්.එෆ්. නිලධාරින් තවත් සති දෙකකින් ලංකාවට
+### IMF for next review. Sri Lanka in two weeks
 
 *2024-09-19 09:07:00* · [`adalk`](https://www.ada.lk/breaking_news/මීළඟ-සමාලෝචනයට-අයි-එම්-එෆ්--නිලධාරින්-තවත්-සති-දෙකකින්-ලංකාවට/11-412017) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල ශ්‍රි ලංකාව සම්බන්ධයෙන් ක්‍රියාත්මක කරන විස්තීරණ ණය පහසුකමට අදාළ ඊළඟ වාරිකය වෙනුවෙන් මුදල් ලබාදීමට අදාල සමාලෝන කටයුතු වෙනුවෙන් තවත් සති දෙකකින් එම අරමුදලේ නියෝජිතයින් ලංකාවට පැමිණීමට නියමිත බව ජනපති රනිල් වික්‍රමසිංහ මහතා පැවැසිය.
+Sri Lanka IMF review: President Wickremesinghe warns against policy changes, citing potential economic collapse. IMF representatives to visit within two weeks.
 
-"ඊළග වාරිකය වෙනුවෙන් මුදල් ලබාදීමට තවත් සති දෙකකින් ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් මෙරටට පැමිණෙනවා. එවිට මේ ගිවිසුම වෙනස් කරන බව අප පැවසුවොත් ඔවුන් අපට මුදල් ලබාදීම නවත්වනවා. එවිට රටේ ආර්ථිකය නැවත කඩා වැටෙනවා."
+🟩
+
+President Ranil Wickremesinghe said that the agents are due to visit Sri Lanka for the next two weeks of the International Monetary Fund for the next premium related to the next premium related to the next instantaneration.
+
+"The International Monetary Fund Representatives From Another Two Weeks. If we say that this covenant is changing, they stop giving us money. Then the economy of the country will collapse again. "
 
 ◼️
 
 [Data](articles/b5054ac4.json)
+
+[Extended Data](ext_articles/b5054ac4.ext.json)
 
 ---
 
@@ -2227,49 +2293,5 @@ The final rally participated in Ranil Wickremesinghe was held on September 18, C
 [Data](articles/2ebce5fc.json)
 
 [Extended Data](ext_articles/2ebce5fc.ext.json)
-
----
-
-### Tamil people gather to vote for the symbol of the unity of the Tamils ​​- CV Vigneswaran
-
-*2024-09-18 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194059) · `ta`
-
-Tamil People's Alliance leader CV Vigneswaran calls for unity vote in presidential election. He urges Tamils to support general candidate P. Ariyanethran to address ongoing issues and unite Tamil communities in North and East provinces.
-
-🟩
-
-While telling the international community that the problems of the Tamil people are still unresolved, the Tamil People's Alliance (TNA) leader and Member of Parliament CV Vigeran has called for all the Tamil people to vote for the general candidate in the presidential election this time to proclaim the unity of the Tamils.
-
-The country's ninth presidential election is scheduled for Saturday (21), and the candidates' campaigns ended on Wednesday (18). Accordingly, he said this while participating in a media briefing held at the Western Hotel in Colombo on Wednesday (18) demanding that all the Tamil people vote for the Tamil general candidate, P. Ariyanethran, who was fielded in the presidential election.. There he added:
-
-...
-
-[Data](articles/cf2dc8c1.json)
-
-[Extended Data](ext_articles/cf2dc8c1.ext.json)
-
----
-
-### How can Sajith win the election even in the parliamentary referendum?- Prime Minister Dinesh Gunawardena
-
-*2024-09-18 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194058) · `ta`
-
-Sajith Premadasa faces challenges winning election despite withdrawing from parliamentary referendum. Prime Minister Dinesh Gunawardena criticizes Sajith's ability to gain majority support.
-
-🟩
-
-Even when a referendum was held in Parliament, how can Sajith Premadasa, who retreated that he could not win, get the votes of the people?Prime Minister Dinesh Gunawardena said that this is not the time for the people to vote and test the country to President Ranil Wickremesinghe.
-
-Speaking at a final election campaign meeting held in Colombo on Wednesday (18), he said this.
-
-After the resignation of former President Gotabhaya Rajapakse, it was decided to hold a referendum in Parliament to elect the president. Although Sajith Premadasa said he was contesting on that occasion, Dullas Alahapperuma was fielded.
-
-Even in Parliament, Sajith retreated on that day, knowing that he could not get too much votes against Ranil Wickremesinghe.. How can such a person win the votes of the majority of the people?
-
-...
-
-[Data](articles/e16e7657.json)
-
-[Extended Data](ext_articles/e16e7657.ext.json)
 
 ---

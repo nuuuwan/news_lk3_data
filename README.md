@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 15:57:14**
+As of **2024-09-19 16:11:05**
 
 ## Newspaper Stats
 
-*Scraped **44,754** Articles*
+*Scraped **44,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,260
 tamilmirrorlk | 5,860
 virakesarilk | 7,155
-adaderanasinhalalk | 7,668
+adaderanasinhalalk | 7,669
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,754 (100.0%) of 44,754 articles have been extended.
+44,754 (100.0%) of 44,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### මියන්මාරයේ සයිබර් අපරාධ කඳවුරුවලට මිනිසුන් යොමු කිරීම් වැඩි වෙයි
+
+*2024-09-19 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201201) · `si`
+
+මියන්මාරයේ සයිබර් අපරාධ කඳවුරුවලට විවිධ ආකාරයෙන් මෙරට පුරවැසියන් යොමු කිරීම්වල වැඩිවීමක් පිළිබඳව අනාවරණය වී ඇත.
+
+තැනැත්තන් වෙළෙඳාමට එරෙහි ජාතික කාර්ය සාධක බළකාය විසින් ඒ පිළිබඳව අනතුරු අඟවමින් තොරතුරු වාර්තා කරයි.
+
+විදෙස් රටවල ආකර්ෂණීය වැටුප් ලැබෙන රැකියා අවස්ථා ලබාදෙන බව පවසා තොරතුරු තාක්‍ෂණ දැනුම ඇති වෘත්තිකයන් ඉලක්ක කර ගනිමින් මෙම මිනිස් වෙළෙඳාම් සිදු කෙරෙන බව වාර්තා වෙයි.
+
+තැනැත්තන් වෙළෙඳාමට එරෙහි ජාතික කාර්ය සාධක බළකාය තවදුරටත් පෙන්වා දෙන්නේ තැනැත්තන් වෙළෙඳාමේ නියුතු පුද්ගලයින් තායිලන්තය වැනි රටවල ඉහළ වැටුප් සහිතව තොරතුරු තාක්ෂණ අංශයේ රැකියා ලබාදෙන බවට පොරොන්දු වෙමින් රැකියා සඳහා තරුණ ශ්‍රමිකයින් ආකර්ෂණය කරගන්නා බවය.
+
+පසුව ඔවුන්ව රැකියා සම්මුඛ පරීක්ෂණයන්ට සහභාගී කරන මුවාවෙන් ඩුබායි වැනි රටවලට රැගෙන ගොස් දේශසීමා හරහා මියන්මාරයේ සයිබර් අපරාධ සිදුකරන කඳවුරුවල සේවය සඳහා බලහත්කාරයෙන් යොමුකරනු ලබන බවද අවධාරණය කරයි.
+
+මෙම සයිබර් අපරාධ කඳවුරුවලදී ඔවුන්ව ම්ලේච්ඡ ශාරීරික, මානසික වධ හිංසනයන්ට මෙන්ම විදුලි සැර ඇල්ලීම්වලට පවා මුහුණ දීමට සිදුවී ඇති බව මෑත කාලීන විමර්ශන මගින් අනාවරණය වී ඇති බවද සඳහන් කරයි.
+
+◼️
+
+[Data](articles/5a41330f.json)
+
+---
 
 ### Knives in China
 
@@ -2373,35 +2395,5 @@ As too often in the past, Sri Lanka appears not to have broken its damaging tend
 [Data](articles/5a397998.json)
 
 [Extended Data](ext_articles/5a397998.ext.json)
-
----
-
-### 45 Tamil Nadu fishermen fined Rs 10 crore
-
-*2024-09-19 02:05:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/45-தமிழக-மீனவர்களுக்கு-ரூ-10-கோடி-அபராதம்/175-343992) · `ta`
-
-Tamil Nadu fishermen fined Rs 10 crore by Sri Lankan court for illegal fishing activities. 45 fishermen penalized, some sentenced to imprisonment for failing to pay fines.
-
-🟩
-
-The Puttalam court yesterday ordered a total of Rs.
-
-On August 8, the Sri Lankan navy arrested 35 fishermen from the Pamban fishing harbor near Rameswaram.
-
-35 fishermen have been filed under the Criminal Persons under the categories of fishing and the use of banned nets.
-
-Following the fishermen's detention, 35 fishermen were produced before the Puttalam Court. Judge Wimalaratna, who was hearing the case, said that 12 fishermen from a long country boat. 35 lakhs and a fine of Rs.. The Puttalam court has ordered three months' imprisonment for failing to pay the fine.
-
-In addition, 10 fishermen who went to sea from Daruwaikulam in Thoothukudi district were arrested by the Sri Lankan navy in a fishing fishing booth belonging to Anthony Then Denilla.
-
-These 10 fishermen. 35 lakhs fined. The Puttalam court has ordered the sentence to be sentenced to six months in prison for failing to pay the fine.
-
-Accordingly, 45 Tamil Nadu fishermen have been fined Rs 10 crore. (A)
-
-◼️
-
-[Data](articles/350a04fe.json)
-
-[Extended Data](ext_articles/350a04fe.ext.json)
 
 ---

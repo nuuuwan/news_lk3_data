@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 22:38:19**
+As of **2024-09-19 22:56:20**
 
 ## Newspaper Stats
 
-*Scraped **44,806** Articles*
+*Scraped **44,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,72 @@ adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
 tamilmirrorlk | 5,865
-virakesarilk | 7,173
+virakesarilk | 7,174
 adaderanasinhalalk | 7,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,804 (100.0%) of 44,806 articles have been extended.
+44,807 (100.0%) of 44,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
 
-### ඡන්දය වෙනුවෙන් විශේෂ බස් රථ සේවාවක්
+### All arrangements for the presidential election in the Jaffna election district
+
+*2024-09-19 22:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194132) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Jaffna election district preparations: 492,280 voters, 511 polling stations. Voting starts Sept 21 at 7 AM. Special transport for remote areas. Ballot boxes to Central College after voting. 55 counting stations set up.
+
+🟩
+
+District Secretary and District Secretary Marudalingam Pradeepan said that all arrangements for the presidential election in the Jaffna election district have been made.
+
+There are 492,280 voters in the Jaffna district and 100,907 voters in the Kilinochchi district.
+
+There are 511 polling stations in Jaffna and 108 polling stations in Kilinochchi.
+
+Jaffna District Secretary and District Secretary Marudalingam Pradeepan said this at a special media briefing held at the Jaffna District Secretariat today.
+
+Voting will be launched at the polling station at 7 am on September 21. Steps will be taken to vote for voters who stand in the polling station at 4 pm. At the same time, it is not possible to enter the polling station at 4 pm.
+
+Transport buses have been made to vote for the people who are temporarily living in the Point Pedro from the Tellippalai.
+
+42 buses through the Sri Lanka Transport Board and 132 buses through the Private Transport Association have been organized for election duties.
+
+...
+
+[Data](articles/163e1bd9.json)
+
+[Extended Data](ext_articles/163e1bd9.ext.json)
+
+---
+
+### Special bus service for election
 
 *2024-09-19 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201212) · `si`
 
-මෙවර ජනාධිපතිවරණයේදී ඡන්දය භාවිතාකිරීම සඳහා ගම්බිම් බලා යන ජනතාවට අවශ්‍ය ප්‍රවාහන පහසුකම් සැපයීම සඳහා සියලු කටයුතු යොදා ඇති බව ලංකා ගමනාගමන මණ්ඩලය පවසයි.
+Ceylon Transport Board prepares special bus service for election day. Chairman Lalith de Alwis confirms deployment of additional buses. However, private bus operators may face challenges due to insufficient drivers.
 
-එහි සභාපති ලලිත් ද අල්විස් මහතා පවසා සිටියේ, ඡන්දය භාවිතාකිරීම සඳහා ගම්බිම් බලා යන ජනතාව වෙනුවෙන් හෙට (20) දිනයේ අමතර දුර ගමන් සේවා බස් රථ යෙදවීමට පියවර ගෙන ඇති බවයි.
+🟩
 
-කෙසේ වෙතත් පෞද්ගලික බස් රථ සේවකයින් ඡන්දය ප්‍රකාශ කිරීම සඳහා ගම්බිම් බලා යාම හේතුවෙන් පෞද්ගලික බස් රථ ධාවනයේ අඩුවීමක් සිදුවිය හැකි බව ලංකා පෞද්ගලික බස් රථ හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා පැවසීය.
+The Ceylon Transport Board says that all arrangements have been made to provide transport facilities to the villages for voting in the presidential election.
+
+Chairman Lalith de Alwis said that steps have been taken to deploy other travel buses tomorrow (20) for the people of the village for voting.
+
+However, the Chairman of the Lanka Private Bus Owners Association Gemunu Wijeratne stated that private bus operators can be decreased due to lack of private bus operators to vote.
 
 ◼️
 
 [Data](articles/05b00b63.json)
+
+[Extended Data](ext_articles/05b00b63.ext.json)
 
 ---
 
@@ -61,6 +101,8 @@ The two-days of attacks targeting thousands of Hezbollah pagers and walkie-talki
 ...
 
 [Data](articles/9824e5ac.json)
+
+[Extended Data](ext_articles/9824e5ac.ext.json)
 
 ---
 
@@ -2477,29 +2519,5 @@ Two motorcyclists have been shot dead by helmets and further investigations are 
 [Data](articles/6a7112f9.json)
 
 [Extended Data](ext_articles/6a7112f9.ext.json)
-
----
-
-### The dispute of a life
-
-*2024-09-19 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201183) · `si`
-
-Dispute leads to assault: Man hurt in Godakawela, suspect arrested. Police investigating incident.
-
-🟩
-
-A man was injured in an assault who had been admitted to the Godakawela hospital after a dispute between two people in Godakawela.
-
-This person had come to the suspect's house and had a dispute.
-
-Investigations have revealed that the suspect had been assaulted at the time.
-
-The suspect was arrested and the Gotadwela Police are conducting further investigations.
-
-◼️
-
-[Data](articles/a5c70755.json)
-
-[Extended Data](ext_articles/a5c70755.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 20:38:21**
+As of **2024-09-19 20:57:23**
 
 ## Newspaper Stats
 
-*Scraped **44,794** Articles*
+*Scraped **44,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,143
 dailymirrorlk | 4,733
 adaderanalk | 5,265
 tamilmirrorlk | 5,864
-virakesarilk | 7,169
+virakesarilk | 7,170
 adaderanasinhalalk | 7,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,794 (100.0%) of 44,794 articles have been extended.
+44,795 (100.0%) of 44,795 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,7 +34,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### Compliance with International Business Debtors to Reform $ 17.5 billion loans
 
-*2024-09-19 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194129) · `ta`
+*2024-09-19 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194129) · `ta`
 
 Sri Lanka agrees to reform $17.5 billion loans under IMF conditions. Negotiations with China, India, and international lenders ongoing. Interest rate reduction and financial framework adjustment planned. Initial compliance with IMF debt services reached in July.
 
@@ -353,6 +353,32 @@ The long -time boat, which has started the passenger service from today, is to t
 [Data](articles/d4c66ff4.json)
 
 [Extended Data](ext_articles/d4c66ff4.ext.json)
+
+---
+
+### Re -conduct the Grade 5 Scholarship Examination?Give the points to the questions?- The Commissioner General of Examinations says the resolution after the inquiry
+
+*2024-09-19 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194117) · `ta`
+
+Grade 5 Scholarship Exam: 3 questions removed, inquiry ongoing. Final decision pending after investigation into pre-exam leak allegations. Parents may protest re-conducting the exam.
+
+🟩
+
+The Commissioner General of Examinations Amit Jayasundera said that the first part of the Grade Five Scholarship Examination will be deleted by three questions in the Questionnaire and the final decision will be taken only after the final resolution of the examination.
+
+The Commissioner said that the Department of Examinations has now launched a full inquiry to see if the Question 5 Scholarship Examination has been released before the examination.
+
+He said that the first part of the Grade Five Scholarship Examination was a preliminary inquiry into the complaint made regarding the publication of a fake questionnaire in social networks.
+
+Accordingly, after a long discussion of the fake questionnaire, it was decided that they had only 3 questions in the query in the engaged scholarship examination.
+
+The Department of Examinations has already decided to delete the three questions on the issue.
+
+...
+
+[Data](articles/0e20c6c6.json)
+
+[Extended Data](ext_articles/0e20c6c6.ext.json)
 
 ---
 
@@ -2485,25 +2511,5 @@ Kohuwala police are conducting further investigations into the shooting incident
 [Data](articles/fc0d8251.json)
 
 [Extended Data](ext_articles/fc0d8251.ext.json)
-
----
-
-### IMF for next review. Sri Lanka in two weeks
-
-*2024-09-19 09:07:00* · [`adalk`](https://www.ada.lk/breaking_news/මීළඟ-සමාලෝචනයට-අයි-එම්-එෆ්--නිලධාරින්-තවත්-සති-දෙකකින්-ලංකාවට/11-412017) · `si`
-
-Sri Lanka IMF review: President Wickremesinghe warns against policy changes, citing potential economic collapse. IMF representatives to visit within two weeks.
-
-🟩
-
-President Ranil Wickremesinghe said that the agents are due to visit Sri Lanka for the next two weeks of the International Monetary Fund for the next premium related to the next premium related to the next instantaneration.
-
-"The International Monetary Fund Representatives From Another Two Weeks. If we say that this covenant is changing, they stop giving us money. Then the economy of the country will collapse again. "
-
-◼️
-
-[Data](articles/b5054ac4.json)
-
-[Extended Data](ext_articles/b5054ac4.ext.json)
 
 ---

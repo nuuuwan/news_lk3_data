@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 23:38:41**
+As of **2024-09-19 23:58:03**
 
 ## Newspaper Stats
 
-*Scraped **44,808** Articles*
+*Scraped **44,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 378
 bbccomsinhala | 435
 colombotelegraphcom | 447
 islandlk | 2,634
-economynextcom | 2,707
+economynextcom | 2,715
 dailyftlk | 2,980
 adalk | 4,145
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,808 (100.0%) of 44,808 articles have been extended.
+44,816 (100.0%) of 44,816 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -470,6 +470,26 @@ During a press conference at the Department of Government Information this morni
 
 ---
 
+### EU deploys 32 election monitors for Sri Lanka’s Presidential poll
+
+*2024-09-19 19:23:00* · [`economynextcom`](https://economynext.com/eu-deploys-32-election-monitors-for-sri-lankas-presidential-poll-180095/) · `en`
+
+ECONOMYNEXT – The European Union Election Observation Mission (EU EOM) to Sri Lanka’s presidential election has deployed 32 short-term observers to all electoral districts, the EU EOM said.
+
+Sri Lanka will hold its ninth presidential poll on September 21 to elect the ninth executive president of the country. 17.1 million voters are eligible to cast their votes in 22 electoral districts which have 160 constituencies.
+
+The EU observers will observe the period of campaign silence and election day proceedings, including the opening of polling stations, voting, and counting of ballots, as well as the tabulation of results.
+
+“The short-term observers who are reinforcing our mission today will visit towns and villages in all nine provinces of Sri Lanka and their observations will be vital for the mission to make a comprehensive, well-informed assessment of this very important election day,” Inta Lase, Deputy Chief Observer of the EU EOM Sri Lanka 2024 said in a statement.
+
+...
+
+[Data](articles/7c954bce.json)
+
+[Extended Data](ext_articles/7c954bce.ext.json)
+
+---
+
 ### The murder of yesterday and today is not politically due to politics
 
 *2024-09-19 19:21:36* · [`adalk`](https://www.ada.lk/breaking_news/ඊයේ-හා-අද-සිදුවූ-ඝාතනයන්-දේශපාලනය-නිසා-නෙමෙයි/11-412036) · `si`
@@ -816,6 +836,46 @@ Against this backdrop, seven international election monitors from the Philippine
 
 ---
 
+### Sri Lanka reaches ISB restructuring deal, finalises agreement with China Dev Bank: official
+
+*2024-09-19 17:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-reaches-isb-restructuring-deal-finalises-agreement-with-china-dev-bank-official-180060/) · `en`
+
+ECONOMYNEXT — Sri Lanka has reached agreements in principle on the restructuring of approximately 14.2 billion US dollars of sovereign debt with international sovereign bond (ISB) holders and also finalised an agreemnet with China Development Bank, State Minister of Finance Shehan Semasinghe said.
+
+Semasinghe tweeted Thursday September 19 afternoon that the ISB agreement was reached following successful negotiations with the Ad Hoc Group of Bondholders, representing international investors, and the Local Consortium of Sri Lanka, representing domestic financial institutions. The two groups collectively hold in excess of 50 percent of the bonds, according to the Treasury.
+
+...
+
+[Data](articles/c21103ac.json)
+
+[Extended Data](ext_articles/c21103ac.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banking shares gain
+
+*2024-09-19 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-shares-gain-180059/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 0.54 percent, or 58.33 points, at 10,884; while the more liquid S&P SL20 Index closed up 0.81 percent, or 24.63 points, at 3,061.
+
+Bank stocks contributed the most (Rs5514mn) to the turnover, and most banks shares closed up.
+
+Top turnover generators were HNB, Commercial Bank, Sampath Bank (down at 72.20), NTB, and Pan Asia Bank (up at 19.40).
+
+Three crossings took place on Nations Trust Bank (up at 114.25), Hatton National Bank (up at 164.25), and Lanka Aluminium Industries (up at 22.50).
+
+Foreign buying was seen in Dipped Products (up at 34.00), Commercial Credit and Finance (up at 31.80), Richard Pieris and Company (flat at 20.50), Browns Investments (up at 5.30), HNB, and Hemas Holdings (up at 72.80).
+
+...
+
+[Data](articles/5b5a9929.json)
+
+[Extended Data](ext_articles/5b5a9929.ext.json)
+
+---
+
 ### The National Security Council is headed by the President
 
 *2024-09-19 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194120) · `ta`
@@ -885,6 +945,26 @@ Thalduwa also noted instances where people attempt to enter polling stations wit
 [Data](articles/b3a8e89f.json)
 
 [Extended Data](ext_articles/b3a8e89f.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 304.50/80, bond yields steady
+
+*2024-09-19 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-50-80-bond-yields-steady-180053/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.50/80 to the US dollar on Thursday, from 303.75/85 on Wednesday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 01.05.2027 closed at 13.00/10 percent, down from 13.00/15 percent.
+
+A bond maturing on 15.02.2028 closed at 13.65/80 percent, down from 13.70/80 percent.
+
+A bond maturing on 15.06.2029 closed at 13.82/90 percent, up from 13.80/90 percent. (Colombo/Sep19/2024)
+
+◼️
+
+[Data](articles/324efda7.json)
+
+[Extended Data](ext_articles/324efda7.ext.json)
 
 ---
 
@@ -1202,6 +1282,34 @@ The body was taken to the Tangalle Base Hospital and Tangalle Police are conduct
 
 ---
 
+### Sri Lanka local banks to get 10-pct haircut on 70-pct of ISBs, balance in rupees
+
+*2024-09-19 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-local-banks-to-get-10-pct-haircut-on-70-pct-of-isbs-balance-in-rupees-180030/) · `en`
+
+ECONOMYNEXT- Sri Lanka had reached a deal with foreign bond holders and local banks to restructure defaulted sovereign bonds, according to a statement.
+
+Foreign bondholders would get bonds linked to gross domestic product (macro-linked bonds) with an initial haircut of 28 percent part of which will be reversed if economic growth exceeds expectations,
+
+Local banks would be able to exchange 70 percent of their ISBs into dollar bonds with a 10 percent haircut.
+
+The statement said the initial joint framework was not consistent with the IMF
+
+The balance 30 percent would be exchanged for rupee securities.
+
+Past due interest will become a bond with an 11 percent hair cut. The same treatment is given to past due interest of foreign bondholders.
+
+Sri Lanka banks had written down their holdings by 50-pct but would still suffer a ‘one-day’ hit, analysts said.
+
+Sri Lanka reached a framework agreement with bondholders in July which was discussed with the IMF and the official creditor committee.
+
+...
+
+[Data](articles/b449f778.json)
+
+[Extended Data](ext_articles/b449f778.ext.json)
+
+---
+
 ### Elections Commission forbid
 
 *2024-09-19 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194101) · `ta`
@@ -1270,6 +1378,26 @@ The police constable was not reported to the service, police said.
 
 ---
 
+### Sri Lanka’s IPS cautions against rash promises, interruptions to IMF programme
+
+*2024-09-19 15:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-ips-cautions-against-rash-promises-interruptions-to-imf-programme-180019/) · `en`
+
+ECONOMYNEXT — As Sri Lanka gears up for elections, policymakers must avoid rash economic promises that risk a
+
+decade of lost growth and an era of relative decline, the Institute of Policy Studies (IPS) said, also cautioning against interruptions to the ongoing International Monetary Fund (IMF) programme.
+
+As too often in the past, Sri Lanka appears not to have broken its damaging tendency towards ‘competitive populism’ ahead of elections, IPS said in a statement on Thursday September 19, two days ahead of Sri Lanka’s highly anticipated presidential election.
+
+“Fiscally profligate promises ranging from wage increases to loan write-offs and welfare handouts are being made in a bid to win votes. Such pledges often come with a hefty price tag that the country can ill afford, especially given its still fragile economic recovery.
+
+...
+
+[Data](articles/74935bb0.json)
+
+[Extended Data](ext_articles/74935bb0.ext.json)
+
+---
+
 ### Meanmar's cyber cyber criminal camps increase
 
 *2024-09-19 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201201) · `si`
@@ -1319,6 +1447,26 @@ The Election Commission's report stated that the Election Commission has been ba
 [Data](articles/12d942da.json)
 
 [Extended Data](ext_articles/12d942da.ext.json)
+
+---
+
+### Windforce increases stake in Sri Lanka’s Rividhanavi after Singapore’s Blue Circle share transfer
+
+*2024-09-19 15:37:00* · [`economynextcom`](https://economynext.com/windforce-increases-stake-in-sri-lankas-rividhanavi-after-singapores-blue-circle-share-transfer-180025/) · `en`
+
+ECONOMYNEXT – WindForce Plc has increased its shareholding in Rividhanavi (Private) Limited from 30 percent to 50 percent upon the transfer of two non-voting ordinary shares held by The Blue Circle Pte Ltd.
+
+“With the aforesaid share transfer, The Blue Circle Pte Ltd has fully exited from the Project and currently the shareholding of Rividhanavi is held equally between WindForce PLC and Lakdhanavi Ltd,” Windforce said in a stock exchange filing.
+
+The state-owned Ceylon Electricity Board signed a power purchase agreement with Rividhanavi for a 100 MW ground mount solar project in Siyambalanduwa in February.
+
+Rividhanavi was established by a consortium of shareholders; Lakdhanavi Ltd, Windforce PLC and The Blue Circle PTE Ltd of Singapore. (Colombo/Sep19/2024)
+
+◼️
+
+[Data](articles/1dad6636.json)
+
+[Extended Data](ext_articles/1dad6636.ext.json)
 
 ---
 
@@ -1453,6 +1601,28 @@ He was sacked from the Pawan Kalyan's Janasena Party in response to this complai
 [Data](articles/55b9f0c2.json)
 
 [Extended Data](ext_articles/55b9f0c2.ext.json)
+
+---
+
+### Sri Lanka manufacturing, services expansion slows in August 2024: PMI
+
+*2024-09-19 14:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-services-expansion-slows-in-august-2024-pmi-180017/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s manufacturing and service sectors continued to expand in August registering index values over 50 in August 2024, but at a slower rate compared to the previous month, according to a Purchasing Managers Index compiled by the central bank.
+
+The Manufacturing PMI was 55.5 in August, after recording 59.5 in July, with new orders and production mainly driven by the manufacture of food and beverages.
+
+All the sub-indices, except for employment, remained above the neutral threshold in August, the statement said. “However, Employment decreased on a month-on-month basis in August.”
+
+The Services PMI recorded 65.2 in August after 71.1 in July. Business activities expansion was driven by improvements observed across most sectors.
+
+“Business activities in the other personal services grew mainly due to improvements in entertainment and recreation activities,” the statement said.
+
+...
+
+[Data](articles/76f7b541.json)
+
+[Extended Data](ext_articles/76f7b541.ext.json)
 
 ---
 
@@ -2333,193 +2503,5 @@ The Bakamuna OIC Inspector Upul Bollyakura stated that a metermine and stomach h
 [Data](articles/a9fd5f86.json)
 
 [Extended Data](ext_articles/a9fd5f86.ext.json)
-
----
-
-### IHP revises Sri Lanka presidential polling model to account for social desirability effect
-
-*2024-09-19 10:53:00* · [`economynextcom`](https://economynext.com/ihp-revises-sri-lanka-presidential-polling-model-to-account-for-social-desirability-effect-180012/) · `en`
-
-ECONOMYNEXT — The Institute for Health Policy (IHP) which has been conducting opinion polls on Sri Lanka’s presidential election said it had to substantially revise its earlier model due to an apparent social desirability effect that had led it to underestimate support for one candidate, though the same effect could also potentially lead to an overestimation.
-
-IHP Executive Director Dr Ravi Rannan-Eliya was quoted as saying in a statement from the institute on Wednesday September 18 that it was forced to revise the model it had used in previous months in order to tackle a substantial rise since July 2024 of respondents over-reporting voting for National People’s Power (NPP) leader Anura Kumara Dissanayake in 2019.
-
-...
-
-[Data](articles/d9e01bfd.json)
-
-[Extended Data](ext_articles/d9e01bfd.ext.json)
-
----
-
-### Shooting at the fish stall;One kills;Two injured
-
-*2024-09-19 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194071) · `ta`
-
-Gunfire hits fish market: 1 dead, 2 hurt. Police probe links to foreign crime syndicate.
-
-🟩
-
-One person was killed and two others were injured in a firing at a fish stall in Matigama area on Thursday morning (19).
-
-The deceased is a 38 -year -old man who runs a fish business.
-
-Police said that two unidentified men who were on a motorbike at a fish stall had fled the shoot.
-
-Police investigations have revealed that the shooting was carried out by a man from a underworld gang abroad.
-
-◼️
-
-[Data](articles/2ae4033f.json)
-
-[Extended Data](ext_articles/2ae4033f.ext.json)
-
----
-
-### Another shooting: Youth gunned down in Kurunegala
-
-*2024-09-19 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102074/another-shooting-youth-gunned-down-in-kurunegala) · `en`
-
-A 30-year-old youth has been killed in a shooting incident in the Rasanayakapura area in Kurunegala this morning (19).
-
-Police have launched an investigation based on the information received by Rasanayakapura Police regarding a person who was found bleeding and collapsed on the floor of a restaurant located in the Nammuwawa area of the Rasanayakapura police division, with apparent gunshot injuries.
-
-The deceased is a 30-year-old resident of Nammuwawa area in Rasanayakapura.
-
-The preliminary investigations indicate that the murder was carried out using a firearm by an unidentified gunman.
-
-A magisterial inquiry is scheduled to be held by the Nikaweratiya Magistrate.
-
-Rasanayakapura Police is conducting further investigations to arrest the suspects involved.
-
-This is the third fatal shooting incident reported in the country within the last 24 hours.
-
-Meanwhile, in a separate incident, one person was killed and two others were injured in a shooting incident at Midigama in Matara this morning.
-
-...
-
-[Data](articles/cff88ebe.json)
-
-[Extended Data](ext_articles/cff88ebe.ext.json)
-
----
-
-### Kurunegala too was shot
-
-*2024-09-19 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201185) · `si`
-
-Multiple shootings reported: Kurunegala (Rasnathapura), Kohuwala, Tangalle, Midigama. One fatality in Kurunegala. Unknown shooter involved.
-
-🟩
-
-A 30-year-old man was killed in a shooting conducted in the Rasnathapura area in Kurunegala.
-
-Police said that the shooting was carried out by an unknown shot.
-
-Other shootings were reported from Kohuwala, Tangalle and Midigama areas.
-
-◼️
-
-[Data](articles/2ae3f1d4.json)
-
-[Extended Data](ext_articles/2ae3f1d4.ext.json)
-
----
-
-### Schools closed tomorrow due to presidential election
-
-*2024-09-19 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102073/schools-closed-tomorrow-due-to-presidential-election) · `en`
-
-The Ministry of Education (MoE) has announced that Friday (September 20) has been declared a holiday for all schools islandwide.
-
-Due to the presidential election to be held on September 21, the Ministry of Education has taken this decision on the request of the Chairman of the Election Commission.
-
-It is further informed that the schools are set to reopen on September 23.
-
-◼️
-
-[Data](articles/1f269a8f.json)
-
-[Extended Data](ext_articles/1f269a8f.ext.json)
-
----
-
-### A dispute between two;One kills;Suspect arrested!
-
-*2024-09-19 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194064) · `ta`
-
-Dispute leads to murder in Kalpalya. Victim dies at hospital. Suspect arrested. Body sent for autopsy. Police investigating further.
-
-🟩
-
-Kodagawala police said that one person was assaulted and murdered in a dispute between two persons in the Kalpalya area of ​​the Kodagawala police division.
-
-The victim was admitted to the Kodakawala Hospital after the injured died without treatment, police said.
-
-The suspect has been arrested by the police in connection with the murder, police said.
-
-Subsequently, the body of the murderer has been placed at the Kodagawala Hospital for autopsy and further investigations are being carried out by the Kodakala police.
-
-◼️
-
-[Data](articles/ce4599f3.json)
-
-[Extended Data](ext_articles/ce4599f3.ext.json)
-
----
-
-### Tomorrow all school leave
-
-*2024-09-19 10:34:57* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සියලුම-පාසල්-නිවාඩු/11-412019) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Tomorrow, all schools nationwide will close due to a Ministry of Education announcement granting leave for March 20th."
-
-🟩
-
-The Ministry of Education has announced that all schools in the country have been granted leave tomorrow (20).
-
-◼️
-
-[Data](articles/a0aa2b28.json)
-
-[Extended Data](ext_articles/a0aa2b28.ext.json)
-
----
-
-### Several deadly accidents
-
-*2024-09-19 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201184) · `si`
-
-Multiple fatal accidents reported: bus-motorcycle collision kills teen, motorcycle hits pedestrian, elderly man dies in car crash.
-
-🟩
-
-Five persons including a woman, a woman, have been in their livestock in several areas.
-
-A VII of a Carric bus hit by a motorcycle in the Marandu road on Ampara - Mila road, a 14-year-old girl was killed.
-
-The accident had occurred when a private bus heading towards the Samavu junction with the same direction.
-
-The motorcyclist and the post motorcyclist, the driver's daughter, has been seriously injured, the daughter has died after admission to the hospital.
-
-The deceased has been identified as a 14 year old resident of the Sali Road, the Samawatta.
-
-Meanwhile, a motorcycle route a motorcycle route a motorcycle near the Omanthai Co-operative Film, Vavuniya road and two people were killed in a cyclist.
-
-The victims were identified as 48 and 46 years old.
-
-Meanwhile, a motorbike has been confronted with a paved woman who traveled by a motorcycle near the Veyangoda-Minuwangoda road.
-
-The victim woman was killed in admission to the Minuwangoda hospital.
-
-...
-
-[Data](articles/9ba85291.json)
-
-[Extended Data](ext_articles/9ba85291.ext.json)
 
 ---

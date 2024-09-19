@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-19 09:10:17**
+As of **2024-09-19 09:38:28**
 
 ## Newspaper Stats
 
-*Scraped **44,682** Articles*
+*Scraped **44,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 2,980
 adalk | 4,124
 dailymirrorlk | 4,733
 adaderanalk | 5,253
-tamilmirrorlk | 5,846
-virakesarilk | 7,140
-adaderanasinhalalk | 7,647
+tamilmirrorlk | 5,847
+virakesarilk | 7,141
+adaderanasinhalalk | 7,648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,682 (100.0%) of 44,682 articles have been extended.
+44,685 (100.0%) of 44,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-19 (Thursday)
+
+### Shooting in Kohuwala;Death
+
+*2024-09-19 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/194063) · `ta`
+
+Kohuwala shooting: 1 dead, 43-year-old man killed in shop, no motive revealed, police investigating
+
+🟩
+
+One person was killed in a shooting car inside a shop on Saranankara Road, Kohuwala.
+
+A 43 -year -old man from Nedimalai, Dehiwala has died after being admitted to Kalubowila Hospital after being injured in the shooting.
+
+The shooting was carried out on Wednesday night (18) night.
+
+No information on the cause of the shooting and the suspects has yet been released.
+
+Kohuwala police are conducting further investigations into the shooting incident.
+
+◼️
+
+[Data](articles/fc0d8251.json)
+
+[Extended Data](ext_articles/fc0d8251.ext.json)
+
+---
 
 ### One dead, 2 injured in shooting at Midigama
 
@@ -45,6 +71,52 @@ Police said that two unidentified gunmen who arrived on a motorcycle had opened 
 [Data](articles/2d3d1061.json)
 
 [Extended Data](ext_articles/2d3d1061.ext.json)
+
+---
+
+### Card for jaggery;Manufacturer not to survey
+
+*2024-09-19 08:42:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெல்லத்தில்-அட்டை-கணக்கெடுக்க-வேண்டாம்-என்ற-உற்பத்தியாளர்/175-344007) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Jaggery found in cardboard box at shop. Manufacturer denies responsibility. Shop owner confused about contamination.
+
+🟩
+
+A thousand -foot cardboard (cardboard) has been found in the velvet sold at the shop in the Kodikawatte area.
+
+The jaggery is manufactured by a confectionary manufacturing company located in Hanwella, Kongahawatte, Dundana.
+
+When the shop owner announced this to the manufacturer involved, he said, “Do not understand it. Throw up. ”. Remble
+
+◼️
+
+[Data](articles/06f2fcc1.json)
+
+[Extended Data](ext_articles/06f2fcc1.ext.json)
+
+---
+
+### Another shot in the South
+
+*2024-09-19 08:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201179) · `si`
+
+Shooting incident reported in Midigama area near Matara-Galle main road. One person killed, another injured.
+
+🟩
+
+Our correspondent said that a shooting in the Midigama area has been shot in the Matara-Galle main road.
+
+The victim was killed and another injured.
+
+◼️
+
+[Data](articles/ff89b75c.json)
+
+[Extended Data](ext_articles/ff89b75c.ext.json)
 
 ---
 
@@ -2227,83 +2299,5 @@ The uniform stock is due to be distributed before January 20, which begins the n
 [Data](articles/14c78ed7.json)
 
 [Extended Data](ext_articles/14c78ed7.ext.json)
-
----
-
-### Sajith assured that Rajapaksas were kept
-
-*2024-09-18 18:03:40* · [`adalk`](https://www.ada.lk/breaking_news/රාජපක්ෂවරුන්-රකින-බවට-සජිත්-සහතික-වෙලා/11-412002) · `si`
-
-Sajith Premadasa promises to appoint Opposition Leader to support winning presidential election without taking action against Rajapaksas. Unique coalition formed between Sajith and Namal for shared leadership roles.
-
-🟩
-
-Kalutara District MP Dr. Rajitha Senaratne stated that an unique coalition between Namal and Sajith has been established in order to share the post of Opposition and the Leader of the Opposition.
-
-Sajith Premadasa has promised to appoint Opposition Leader to the Opposition Leader to support him to win the presidential election and not to take any action against the Rajapaksas.
-
-Kalutara District MP Dr. Rajitha Senaratne was speaking at a media briefing at Malra Wickremesinghe's Political Office, Colombo, Colombo, Colombo.
-
-He said that none of the unlaw coalitions were established in the next presidential election, but none of them would be successful in the presidential election.
-
-◼️
-
-[Data](articles/7ba18d9f.json)
-
-[Extended Data](ext_articles/7ba18d9f.ext.json)
-
----
-
-### What is the mindset of the Northern people for a few days for the presidential election?-Indian Express
-
-*2024-09-18 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194034) · `ta`
-
-Northern Sri Lanka's presidential election mindset: Low interest, economic concerns, unresolved post-war issues, minority vote importance.
-
-🟩
-
-Diaz Peppur Sri Lanka Bollas
-
-With just a few days to go to an important presidential election, the northern capital of Sri Lanka, Jaffna, has not reflected the election interest in other parts of Sri Lanka.
-
-There are a total of 39 candidates, including the general candidate, Bhakiyaselvam Ariyanethran.
-
-The widespread campaign in the south is not in the North and the people are engaged in their daily activities.
-
-Fifteen years after the end of the war in May 2009, Sri Lanka's northern impacts continues to spin.
-
-Long -resolved issues in the North are missing during the war, housing livelihoods under military occupation.
-
-At the end of the presidential campaign, the current and common candidate, President Ranil Wickremesinghe, the leader of the National People's Power, Sajith Premadasa and the Marxist National People's Power (NPP) Anura Dissanayake are trying to attract Tamil votes.
-
-...
-
-[Data](articles/c74eec02.json)
-
-[Extended Data](ext_articles/c74eec02.ext.json)
-
----
-
-### Sri Lanka’s Iconic Trust makes mandatory offer for Sierra Cables
-
-*2024-09-18 17:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-iconic-trust-makes-mandatory-offer-for-sierra-cables-179920/) · `en`
-
-ECONOMYNEXT – Iconic Trust (Private) Limited, a wholly-owned subsidiary of Browns Investments Plc, said it is making a mandatory offer to buy the remaining 373,991,364 ordinary voting shares of Sierra Cables Plc at 8.00 rupees a share.
-
-Last week, Iconic Trust bought 6,654,899 shares of Sierra Cables Plc, increasing its stake in the company to 30.42.
-
-This triggered the threshold limits placed by the Company Takeovers and Mergers Code of the Securities and Exchange Commission of Sri Lanka.
-
-The company is now obliged to make a mandatory offer to purchase the balance 373,991,364 ordinary voting shares, constituting approximately 69.58% of Sierra Cables held by the remaining holders.
-
-“Rs. 8.00 is the highest price paid by the Offeror for an Ordinary Voting Share of the Offeree during the period of one year immediately prior to 11 September 2024,” Iconic Trust said in a stock exchange filing.
-
-Sierra Cables was trading flat at 9.80 rupees on Wednesday (18).
-
-...
-
-[Data](articles/0e694638.json)
-
-[Extended Data](ext_articles/0e694638.ext.json)
 
 ---

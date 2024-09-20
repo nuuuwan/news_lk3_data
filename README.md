@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 21:09:00**
+As of **2024-09-20 21:22:40**
 
 ## Newspaper Stats
 
-*Scraped **44,962** Articles*
+*Scraped **44,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,724
 dailyftlk | 2,999
-adalk | 4,156
+adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,890
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,707
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,962 (100.0%) of 44,962 articles have been extended.
+44,963 (100.0%) of 44,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Everything is ready for the election
+
+*2024-09-20 20:51:26* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දයට-සියල්ල-සූදානම්/11-412048) · `si`
+
+Sri Lanka Election Commission confirms readiness for tomorrow's presidential election. Ballot papers distributed, voting process planned for 7am start. Voter turnout expected from electoral centers.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake says everything is ready for the presidential election tomorrow.
+
+Speaking to the media at Royal College, Colombo today (20). The commission General stated that all confrontations including ballot papers required for tomorrow's election are already sent to the relevant centers.
+
+Accordingly, there is a proper program to vote for the 7th morning and has been prepared to the voter turnout from the electoral centers from the electoral centers.He added that he added.
+
+◼️
+
+[Data](articles/8d59d505.json)
+
+[Extended Data](ext_articles/8d59d505.ext.json)
+
+---
 
 ### Economists say that foreign loan restructuring is a victory achieved
 
@@ -2361,23 +2383,5 @@ All 33 other candidates polled a total of 2.6% of the total valid votes with the
 [Data](articles/de78cc40.json)
 
 [Extended Data](ext_articles/de78cc40.ext.json)
-
----
-
-### No economic policy will work with rampant corruption
-
-*2024-09-20 05:34:34* · [`dailyftlk`](https://www.ft.lk/columns/No-economic-policy-will-work-with-rampant-corruption/4-766920) · `en`
-
-Going to the IMF 17 times is adequate proof that all economic policies of the past have not worked due to rampant corruption
-
-Generally, at crucial times like elections, many people try to become economic wizards by expressing concerns of economic policy without having even a semblance of understanding of how a country’s economy, the Central Bank and the Treasury work, and in the present scenario, how the IMF is formed, operated and funded. It is of course trendy to say about good or bad economic policies purely to promote political bias without any knowledge in what is generally perceived as an esoteric domain.
-
-To understand and analyse economic policies is very good. Then, policies of all competing parties ought to be critically analysed impartially. But what invariably happens is to dismiss policies of others due to preconceived notions. That is really the reluctance to deviate from narrow-minded political affiliations.
-
-...
-
-[Data](articles/4407b8d9.json)
-
-[Extended Data](ext_articles/4407b8d9.ext.json)
 
 ---

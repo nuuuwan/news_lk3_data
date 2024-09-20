@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 14:58:16**
+As of **2024-09-20 15:11:18**
 
 ## Newspaper Stats
 
-*Scraped **44,925** Articles*
+*Scraped **44,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,718
 dailyftlk | 2,999
-adalk | 4,153
+adalk | 4,154
 dailymirrorlk | 4,733
 adaderanalk | 5,278
 tamilmirrorlk | 5,885
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,696
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,925 (100.0%) of 44,925 articles have been extended.
+44,926 (100.0%) of 44,926 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -119,6 +119,30 @@ Garlic Goya Police have started investigations regarding the incident. The body 
 [Data](articles/0e961fbe.json)
 
 [Extended Data](ext_articles/0e961fbe.ext.json)
+
+---
+
+### Namal's mother-in-law leaving the country
+
+*2024-09-20 13:58:02* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-නැන්දම්මා-හා-දරු-දෙදෙනා-රටින්-පිටවෙයි/11-412045) · `si`
+
+Namal Rajapaksa's mother-in-law leaves Sri Lanka for Dubai with family members. Departed from Katunayake airport on September 20, 2023, at 10:05 AM.
+
+🟩
+
+The presidential candidate Namal Rajapaksa's mother-in-law (wife's mother), two children, two children, and another relative woman has left for Dubai via the Silk Route ROUTE Terminal.
+
+The information confirmed the officers in Katunayake airport. The group had left the Emirates Airport on the 9th at 10.05 am on 09/20 am. The airplane left the Katunayake airport on the 651.
+
+They have been opened on the Sunday Road, which charges US $ 52 each.
+
+According to Katunayake airport, the Katunayake Airport was also planning to go to Dubai to the US, and they have often gone to Dubai and have been planning to leave to the United States.
+
+◼️
+
+[Data](articles/f028f14c.json)
+
+[Extended Data](ext_articles/f028f14c.ext.json)
 
 ---
 
@@ -2237,27 +2261,5 @@ Transport buses have been made to vote for the people who are temporarily living
 [Data](articles/163e1bd9.json)
 
 [Extended Data](ext_articles/163e1bd9.ext.json)
-
----
-
-### Special bus service for election
-
-*2024-09-19 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201212) · `si`
-
-Ceylon Transport Board prepares special bus service for election day. Chairman Lalith de Alwis confirms deployment of additional buses. However, private bus operators may face challenges due to insufficient drivers.
-
-🟩
-
-The Ceylon Transport Board says that all arrangements have been made to provide transport facilities to the villages for voting in the presidential election.
-
-Chairman Lalith de Alwis said that steps have been taken to deploy other travel buses tomorrow (20) for the people of the village for voting.
-
-However, the Chairman of the Lanka Private Bus Owners Association Gemunu Wijeratne stated that private bus operators can be decreased due to lack of private bus operators to vote.
-
-◼️
-
-[Data](articles/05b00b63.json)
-
-[Extended Data](ext_articles/05b00b63.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 09:10:29**
+As of **2024-09-20 09:22:26**
 
 ## Newspaper Stats
 
-*Scraped **44,875** Articles*
+*Scraped **44,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 447
 islandlk | 2,645
 economynextcom | 2,718
 dailyftlk | 2,998
-adalk | 4,146
+adalk | 4,147
 dailymirrorlk | 4,733
 adaderanalk | 5,270
-tamilmirrorlk | 5,875
+tamilmirrorlk | 5,876
 virakesarilk | 7,180
-adaderanasinhalalk | 7,686
+adaderanasinhalalk | 7,687
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,875 (100.0%) of 44,875 articles have been extended.
+44,875 (100.0%) of 44,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### දෙහිවල වෙඩිතැබීමෙන් තුවාල ලැබූ පුද්ගලයා මරුට
+
+*2024-09-20 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201221) · `si`
+
+දෙහිවල ප්‍රදේශයේදී අද (20) උදෑසන සිදුකළ වෙඩිතැබීමෙන් තුවාල ලැබූ පුද්ගලයා ජීවිතක්ෂයට පත්වී තිබේ.
+
+යතුරුපැදියකින් පැමිණි නාඳුනන දෙදෙනෙකු විසින් අද අලුයම 6.40ට පමණ දෙහිවල පොලිස් වසමේ කඩවත පාර, කලුබෝවිල ප්‍රදේශයේදී මෙම වෙඩිතැබීම සිදුකර පළාගොස් තිබුණි.
+
+එහිදී තුවාලකරුගේ දකුණු උරහිස අසලට වෙඩි ප්‍රහාර 02ක් එල්ලවී ඇති අතර, ඔහු  කලුබෝවිල රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+
+තුවාල ලැබූ පුද්ගලයා වයස අවුරුදු 45ක් වන නගර සභා සේවකයෙකු බව සඳහන් ය.
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවන් අතර ගැටුමක ප්‍රතිඵලයක් ලෙස මෙම ප්‍රහාරය සිදුකර ඇති බවට තොරතුරු වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/a4c00c09.json)
+
+---
 
 ### Nine govt officials removed from election duties
 
@@ -89,6 +109,20 @@ The shooting had occurred in front of a residence, with the victim being the int
 [Data](articles/77536459.json)
 
 [Extended Data](ext_articles/77536459.ext.json)
+
+---
+
+### பெட்டிகள் விநியோகிக்கும் பணிகள் இன்று
+
+*2024-09-20 08:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெட்டிகள்-விநியோகிக்கும்-பணிகள்-இன்று/175-344049) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கான வாக்கு பெட்டிகளையும், அதிகாரிகளையும் வாக்களிப்பு நிலையங்களுக்கு அனுப்பும் நடவடிக்கை இன்று காலை முதல் இடம்பெறும் என மேலதிக தேர்தல்கள் ஆணையாளர் சிவசுப்ரமணியம் அச்சுதன் தெரிவித்துள்ளார்.
+
+இந்த தேர்தலுக்காக ஒரு கோடியே 71 லட்சத்து 41,354 பேர் வாக்களிக்கத் தகுதி பெற்றுள்ளனர்.
+
+◼️
+
+[Data](articles/64c2754f.json)
 
 ---
 
@@ -1794,6 +1828,26 @@ According to the country's election rules, a candidate must win more than 50% of
 
 ---
 
+### ආයතන තුනකින් රු. ට්‍රිලියන 3.7ක බදු ඉලක්කයක්
+
+*2024-09-19 18:50:45* · [`adalk`](https://www.ada.lk/breaking_news/ආයතන-තුනකින්-රු--ට්‍රිලියන-3-7ක-බදු-ඉලක්කයක්/11-412032) · `si`
+
+මෙම වසරේ දේශීය ආදායම් දෙපාර්තමේන්තුව, ශ්‍රී ලංකා රේගුව සහ ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් ඇස්සතමේන්තු ගත බදු ආදායම රුපියල් බිලියන 3,789ක් රජය විසින් බලාපොරොත්තු වන බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
+
+එහිදී දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් රුපියල් බිලියන 2024ක්ද, ශ්‍රී ලංකා රේගුවෙන් රුපියල් බිලියන 1,533ක්ද සහ ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් රුපියල් බිලියන 232ක් ලෙස මෙම වසරේ ආදායම ඇස්තමේන්තු කර ඇත.
+
+මේ අතර 2023 වසරේදී දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් ඇස්තමේන්තුගත ආදායම රුපියල් බිලියන 1,667ක් බලාපොරොත්තු වුවද එම වසරේදී රුපියල් බිලියන 1550ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව තිබේ.
+
+ශ්‍රී ලංකා රේගුවේන් 2023 වසරේදී ඇස්තමේන්තුගත ආදායම රුපියල් බිලියන 1,220ක් බලාපොරොත්තු වුවද එම වසරේදී රුපියල් බිලියන 974ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව ඇත.
+
+මීට අමතරව ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් 2023 වසරේදී රුපියල් බිලියන 217ක් ලෙස ඇස්සමේන්තුගත ආදායමක් රජය බලාපොරොත්තු වුවද බදු ලෙස එම වසරේදී රුපියල් බිලියන 171.2ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව තිබේ.
+
+...
+
+[Data](articles/9a7e8c84.json)
+
+---
+
 ### After a year, long -run passenger boat service
 
 *2024-09-19 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194106) · `ta`
@@ -2251,77 +2305,5 @@ A total of 1,514 policemen, including a total of 1,514 police in the district, a
 [Data](articles/b69efadf.json)
 
 [Extended Data](ext_articles/b69efadf.ext.json)
-
----
-
-### Elections to elections
-
-*2024-09-19 16:30:39* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-සුරාසැල්-වසයි/11-412027) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Excise Department: Allocations closed nationwide on 21st and 22nd. Three-day tourist passes allowed for high-end hotels. 1913 hotline open 24/7.
-
-🟩
-
-The Excise Department states that allocations will be closed throughout the country on the day (21st) and the next day.
-
-However, the three-day tourist papers approved in the two days, however, high-quality hotels and special hotels and special tourists have been permitted for travelers who remain allegedly staying.
-
-The 1913 telephone number is open 24 hours a day.
-
-◼️
-
-[Data](articles/fb12da9b.json)
-
-[Extended Data](ext_articles/fb12da9b.ext.json)
-
----
-
-### Sri Lanka says restructuring deal with bondholders reached
-
-*2024-09-19 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102081/sri-lanka-says-restructuring-deal-with-bondholders-reached) · `en`
-
-Sri Lanka said it’s reached an agreement in principle with bondholders to restructure its $114 billion debt load, just days before the country heads for presidential elections.
-
-The government held restricted discussions with nine members of the steering committee of the ad-hoc group of bondholders between September 12th and 18th, it said in a statement on Thursday.
-
-The parties agreed to introduce “governance-linked bond features” as part of the revised bond treatment, it said, referring to clauses that would cut Sri Lanka’s repayments if it meets certain governance and anti-corruption-related targets.
-
-Sri Lanka was joined by its legal and financial advisors, Clifford Chance LLP and Lazard, respectively, and the Restricted Members of the Steering Committee were joined by the Group’s legal and financial advisors, White & Case LLP and Rothschild & Co, respectively, the statement said.
-
-...
-
-[Data](articles/cf4ede27.json)
-
-[Extended Data](ext_articles/cf4ede27.ext.json)
-
----
-
-### Divisional election propaganda office banned afternight
-
-*2024-09-19 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201203) · `si`
-
-Here's a 200-character summary:
-
-
-
-Election Commission bans divisional propaganda offices after midnight. Candidates' homes must be 500m from polling centers. Decorations removed if within limit. Police to enforce removals if offices aren't taken down voluntarily.
-
-🟩
-
-Elections Commission Chairman Religious should be removed at the electoral campaign at the current night after midnight today (19. M. A. L. Says Mr. Ratnayake.
-
-He was speaking at a press conference held in the Government Information Department this morning regarding the presidential election.
-
-"All electoral offices have been required to be removed at the voting divisional level, so far from midnight today. Until yesterday was allowed to maintain one office in one headquarters, every electorate (section of a polling center). But from midnight today, however, only one office for the district or an old seat for the district is not in the division of the election or the district..  ඔවුන් ඉවත්කරගන්නේ නැත්නම් අපි, පොලිසිය මගින් ඒවා ඉවත්කරගන්න කටයුතු කරනවා.
-
-...
-
-[Data](articles/6d3049db.json)
-
-[Extended Data](ext_articles/6d3049db.ext.json)
 
 ---

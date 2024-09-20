@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 12:24:02**
+As of **2024-09-20 12:39:05**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 7,692
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,898 (100.0%) of 44,900 articles have been extended.
+44,900 (100.0%) of 44,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
 
-### ශිෂ්‍යත්වය නැවත පැවැත්වෙයි ද ?
+### Will the scholarship reside again?
 
 *2024-09-20 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201227) · `si`
 
-මෙවර පැවැත්වුණු 5 වසර ශිෂ්‍යත්ව විභාගයට අදාළව විභාග ප්‍රශ්න පත්‍රය පිටවී ඇති බවට පරීක්ෂණවලින් අනාවරණය වුවහොත් විභාගය නැවත වතාවක් පැවැත්වීමට කටයුතු කිරීමට හැකි බව අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් තිලකා ජයසුන්දර මහත්මිය අද (20) සඳහන් කළාය.
+Year 5 scholarship exam probe ongoing: Ministry of Education. Investigation by Department of Examinations, CID involved. Action based on findings.
 
-"සැප්තැම්බර් මස 15 වනදා 5 වසර ශිෂ්‍යත්වය විභාගය පැවැත්වුවා. එහි ප්‍රශ්න පත්‍රයක් පිටවී ඇති බවට කරුණු හෙළිවීමත් සමග විභාග දෙපාර්තමේන්තුව මගින් පරීක්ෂණයක් සිදු කළා. ඒ මූලික පරීක්ෂණ වාර්තාවත් සමග අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දැන් පරීක්ෂණ සිදුකරනවා. ඒ අනුව පරීක්ෂණයේ ප්‍රතිඵල අනුව කටයුතු කරන්න කියලා ජනාධිපතිතුමා සහ අමාත්‍යතුමා උපදෙස් දුන්නා."
+🟩
+
+Investigations have to be held once again in relation to the Year 5 scholarship examination this year, the Ministry of Education Thilaka Jayasundara said.
+
+"The Year 5 scholarship was held on September 15. The Department of Examinations conducted an investigation by the Department of Examinations. With the initial investigation report, the CID is currently underway. The President and the Minister instructed to act according to the results of the investigation. "
 
 ◼️
 
 [Data](articles/bd4a30f5.json)
+
+[Extended Data](ext_articles/bd4a30f5.ext.json)
 
 ---
 
@@ -57,6 +63,8 @@ The decision will be based on the findings and recommendations of the relevant i
 ◼️
 
 [Data](articles/0f23d49f.json)
+
+[Extended Data](ext_articles/0f23d49f.ext.json)
 
 ---
 

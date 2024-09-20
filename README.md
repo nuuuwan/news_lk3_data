@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 22:23:41**
+As of **2024-09-20 22:38:04**
 
 ## Newspaper Stats
 
-*Scraped **44,969** Articles*
+*Scraped **44,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,892
 virakesarilk | 7,202
-adaderanasinhalalk | 7,708
+adaderanasinhalalk | 7,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,969 (100.0%) of 44,969 articles have been extended.
+44,971 (100.0%) of 44,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### A driver of drunk duties arrested
+
+*2024-09-20 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201248) · `si`
+
+Driver drunk arrest: Police detained a van driver from Deraniyagala's polling station. Authorities moved ballots and staff to another vehicle due to the incident.
+
+🟩
+
+Police have arrested the ballot, a van driver from the Deraniyagala's polling station, a van driver to a polling station in Deraniyagala.
+
+Accordingly, the authorities have taken steps to carry the ballot papers and the staff from another vehicle.
+
+◼️
+
+[Data](articles/05d586a0.json)
+
+[Extended Data](ext_articles/05d586a0.ext.json)
+
+---
+
+### Election Commission announced for persons with disabilities
+
+*2024-09-20 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201247) · `si`
+
+Election Commission facilitates disabled voters: EPL announces special accommodations for persons with disabilities at polling stations.
+
+🟩
+
+In the presidential election, the Elections Commission (EPL) has facilitated the disabled voters without any inconvenience.
+
+The commission has issued an announcement and the commission has provided facilities for persons with disabilities during the election centers.
+
+◼️
+
+[Data](articles/4b0cdb18.json)
+
+[Extended Data](ext_articles/4b0cdb18.ext.json)
+
+---
 
 ### Special move to vote voters in disability!
 
@@ -57,6 +97,10 @@ Permission has been granted to provide special transport facilities and many oth
 ### India scored in 2nd innings without giving a gift to Bangladesh by 308 runs
 
 *2024-09-20 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194215) · `ta`
+
+India leads Bangladesh by 308 runs after 2nd innings without giving follow-on. Ravichandran Ashwin and Ravindra Jadeja contributed significantly. Bangladesh's top scorers: Shakib Al Hasan (32), Mehidy Hasan Miraz (27). Jasprit Bumrah took 4 wickets for 50 runs.
+
+🟩
 
 Chennai, Chepakkam M. A.. In the first innings of the first Test cricket match at Chidambaram, Bangladesh was rolled out for 149 runs, but in the 2nd innings without giving a Follow One, India are leading the remainder of 7 wickets by 308 runs.
 
@@ -2397,39 +2441,5 @@ The event celebrated the M.AD Class of 2023 from its different programs such as 
 [Data](articles/0254dffc.json)
 
 [Extended Data](ext_articles/0254dffc.ext.json)
-
----
-
-### Commemorative stamp honours “Father of Modern Ayurveda” Dr. Victor Hettigoda
-
-*2024-09-20 05:56:56* · [`dailyftlk`](https://www.ft.lk/business/Commemorative-stamp-honours-Father-of-Modern-Ayurveda-Dr-Victor-Hettigoda/34-766927) · `en`
-
-Launch of a commemorative stamp on Dr. Victor Hettigoda’s birthday at the Shangri-La Colombo
-
-The Sri Lanka Post last week honoured the late, Hettigoda Group visionary founder Sahasrabhisheka Waidhyashuri Deshabandu Dr. Victor Hettigoda, with the launch of a commemorative stamp on his birth anniversary at the event held at Shangri-La Colombo. This significant occasion was a testament to Dr. Hettigoda’s dedication, vision, and unwavering commitment to indigenous medicine and its role in both local and global health practices.
-
-...
-
-[Data](articles/e42b34df.json)
-
-[Extended Data](ext_articles/e42b34df.ext.json)
-
----
-
-### SimCentric Technologies enhances Information Security Standards with ISO 27001:2022 certification
-
-*2024-09-20 05:54:43* · [`dailyftlk`](https://www.ft.lk/business/SimCentric-Technologies-enhances-Information-Security-Standards-with-ISO-27001-2022-certification/34-766926) · `en`
-
-SimCentric Technologies Systems Engineer Disnaka Mallikaarachchi, SimCentric Technologies Systems Lead Kasun Samarasinghe, SimCentric Technologies Managing Director Haridhu Abeygoonaratne, SimCentric Technologies Senior Manager – IT Operations and Security Ishara Jayamanna, Bureau Veritas Lanka Country General Manager Shan Nanayakkara, Bureau Veritas Lanka Manager – Marketing and Sales – Certification Service Line Subash De Silva, and TrustVault Managing Director Buddhika De Alwis
-
-SimCentric Technologies, a leading provider of simulation software and solutions in the defence and security sectors, has achieved a significant milestone by upgrading to the ISO 27001:2022 certification.
-
-This new certification marks a crucial step forward from the previous ISO 27001:2013 standard, reflecting SimCentric’s ongoing commitment to enhancing its information security practices in line with the latest global standards.
-
-...
-
-[Data](articles/93bac0ff.json)
-
-[Extended Data](ext_articles/93bac0ff.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 05:44:11**
+As of **2024-09-20 06:07:17**
 
 ## Newspaper Stats
 
-*Scraped **44,842** Articles*
+*Scraped **44,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 435
 colombotelegraphcom | 447
-islandlk | 2,641
+islandlk | 2,645
 economynextcom | 2,715
 dailyftlk | 2,985
 adalk | 4,145
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,839 (100.0%) of 44,842 articles have been extended.
+44,839 (100.0%) of 44,846 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -408,6 +408,20 @@ The special rail service has been implemented for government officials and secur
 
 ---
 
+### Bank of Ceylon provides financial support to three Colombo hospitals in celebration of 85th anniversary
+
+*2024-09-20 01:48:00* · [`islandlk`](http://island.lk/bank-of-ceylon-provides-financial-support-to-three-colombo-hospitals-in-celebration-of-85th-anniversary/) · `en`
+
+In a gesture of community support, the Bank of Ceylon (BOC) has extended financial assistance to three major hospitals in Colombo to commemorate its 85th anniversary. The bank has donated Rs. 2.2 million to the Lady Ridgeway Hospital for Children, Castle Street Hospital for Women, and De Soysa Maternity Hospital. The funds will be used to purchase essential medical instruments, enhancing the healthcare services provided by these institutions.
+
+The cheque handover ceremony was held with the presence of key BOC officials, including Chairman Kavan Ratnayaka and General Manager W.P. Russel Fonseka. Also in attendance were the Deputy General Manager of Branch Credit Operation Range 01, the Assistant General Manager of Branch Credit Range 01 R M M Weerasekara, and other distinguished guests, including representatives from the three hospitals. Several staff members from the bank also participated in the event.
+
+...
+
+[Data](articles/eab68a9f.json)
+
+---
+
 ### A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
 
 *2024-09-20 01:48:00* · [`islandlk`](http://island.lk/a-knowledge-sharing-session-on-government-securities-market-organized-by-the-national-chamber-of-commerce-of-sri-lanka/) · `en`
@@ -419,6 +433,24 @@ The National Chamber of Commerce of Sri Lanka in collaboration with Wealth Trust
 [Data](articles/fc46eede.json)
 
 [Extended Data](ext_articles/fc46eede.ext.json)
+
+---
+
+### President’s comments on debt negotiations seen as injecting buoyancy to bourse
+
+*2024-09-20 01:45:00* · [`islandlk`](http://island.lk/presidents-comments-on-debt-negotiations-seen-as-injecting-buoyancy-to-bourse/) · `en`
+
+The stock market yesterday bounced back following President Ranil Wickremesinghe’s statement at a political rally in Matara that Sri Lanka will be freed from bankruptcy status if bondholders conclude their negotiations on debt restructuring this week.
+
+Most of local and foreign investors expect bondholders to conclude their negotiations on the external debt before the election and this prompted them to be active in the market.
+
+Amid those developments, both indices moved upwards. The All Share Price Index went up by 61.21 points while S and P SL20 rose by 24.7 points.
+
+Turnover stood at Rs 1.2 billion with three crossings. Those crossings were reported in NTB, which crossed 400,000 shares to the tune of Rs 45.4 million; its shares traded at Rs 114.50, HNB 200,000 shares crossed for Rs 33 million; its shares traded at Rs 165 and Lanka Aluminium 928,000 shares crossed for Rs 20.9 million; its shares sold at Rs 22.50.
+
+...
+
+[Data](articles/390422fd.json)
 
 ---
 
@@ -473,6 +505,20 @@ Reflecting on the company’s 50-year journey, Managing Director Kishan Goonerat
 ...
 
 [Data](articles/e6b15553.json)
+
+---
+
+### Serendib Horticulture Technologies marks 25 years of global plant export excellence
+
+*2024-09-20 01:35:00* · [`islandlk`](http://island.lk/serendib-horticulture-technologies-marks-25-years-of-global-plant-export-excellence/) · `en`
+
+Serendib Horticulture Technologies Pvt Ltd recently celebrated 25 years in the export business. The Deputy Head of Mission at the embassy of the Kingdom of the Netherlands to Sri Lanka and Maldives Iwan Rutjens was the Chief Guest with several academics in the agriculture and floriculture sectors present with other horticulture experts and industry personnel and public sector officials.
+
+Serendib Horticulture Technologies Pvt Ltd, first formed in 1999, has been in the business of exporting plants to countries around the world for 25 years. This is not a small task for an SME company to survive and grow in this very competitive and challenging environment. At present, it is one of the leading companies in the business of exporting plants in Sri Lanka.
+
+...
+
+[Data](articles/9e65d388.json)
 
 ---
 
@@ -2365,81 +2411,5 @@ Israel has also requested the Palestinians to compensate Palestinians for the da
 [Data](articles/131074fe.json)
 
 [Extended Data](ext_articles/131074fe.ext.json)
-
----
-
-### This is how the favorite one is elected
-
-*2024-09-19 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201193) · `si`
-
-Here's a 200-character summary:
-
-
-
-Elections Commission explains voting process: Record 4-digit number next to preferred candidate. Mark first preference. Optionally list up to 21 preferences. Invalidates vote if not marked correctly.
-
-🟩
-
-The Elections Commission says he is capable of vote or preferential votes in the presidential election.
-
-At a special press conference held with the Electorate Officers today (19). M. A. L. Mr. Ratnayake made this statement on how to vote.
-
-"Any candidate can vote by recording the number of the 4 digit in front of the candidate's name and mark. If a candidate is intended to mark the preference, the second preference can also be given the 21st preference by recording the third preference 3.
-
-Instead of this, the vote will be a valid vote in this election.
-
-There is no possibility of marking the votes by the vote. "
-
-◼️
-
-[Data](articles/9f63f3f8.json)
-
-[Extended Data](ext_articles/9f63f3f8.ext.json)
-
----
-
-### Scholarship Questionnaire: Investigation into controversy
-
-*2024-09-19 13:19:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-வினாத்தாள்-சர்ச்சை-குறித்து-விசாரணை/175-344022) · `ta`
-
-Controversy over Grade Five Scholarship Exam's first question investigated by Ministry of Education, Department of Examinations, and Criminal Investigation Department.
-
-🟩
-
-Investigations have begun on the controversy over the first question of the Grade Five Scholarship Examination held on the 15th.
-
-The Ministry of Education announced on Thursday (19) that the Department of Examinations and the Criminal Investigation Department are conducting investigations.
-
-◼️
-
-[Data](articles/e943fef1.json)
-
-[Extended Data](ext_articles/e943fef1.ext.json)
-
----
-
-### The Canadian government is in the decision of foreign students
-
-*2024-09-19 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201192) · `si`
-
-Canadian government reduces foreign student admissions from 36% in 2023 to 36% in 2025 due to declining population. Employment license laws tightened, affecting Indian students disproportionately.
-
-🟩
-
-The Canadian government has decided to further reduce foreign students to educational institutions.
-
-By 2025, by 2025, by 2025, it will reduce foreign recruitments to 36% compared to 2023.
-
-This is due to the reduction of people who are underway in the country, including foreign students and workers.
-
-The Canadian government has decided to raise laws relating to employment licenses.
-
-According to Indian media, the Canadian government's measures are more impact on Indian students.
-
-◼️
-
-[Data](articles/8bb77408.json)
-
-[Extended Data](ext_articles/8bb77408.ext.json)
 
 ---

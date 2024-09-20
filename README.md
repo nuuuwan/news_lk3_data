@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 09:39:04**
+As of **2024-09-20 09:57:34**
 
 ## Newspaper Stats
 
-*Scraped **44,879** Articles*
+*Scraped **44,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 447
 islandlk | 2,645
 economynextcom | 2,718
 dailyftlk | 2,998
-adalk | 4,147
+adalk | 4,148
 dailymirrorlk | 4,733
-adaderanalk | 5,271
+adaderanalk | 5,272
 tamilmirrorlk | 5,876
 virakesarilk | 7,180
 adaderanasinhalalk | 7,687
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,687
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,879 (100.0%) of 44,879 articles have been extended.
+44,881 (100.0%) of 44,881 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -133,6 +133,30 @@ The shooting had occurred in front of a residence, with the victim being the int
 [Data](articles/77536459.json)
 
 [Extended Data](ext_articles/77536459.ext.json)
+
+---
+
+### Dehiwala shooting victim succumbs to injuries
+
+*2024-09-20 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102089/dehiwala-shooting-victim-succumbs-to-injuries) · `en`
+
+UPDATE: The 45-year-old man who was shot by an unidentified gunman at Kadawatha Road in Dehiwala, has succumbed to his injuries after being admitted to the Kalubowila Hospital.
+
+A 45-year-old man has been shot and injured by an unidentified gunman at Kadawatha Road in Dehiwala.
+
+The victim has been admitted to the Kalubowila Hospital for treatment, according to police.
+
+The shooting had occurred at around 6.40 a.m. this morning (20) in front of a residence in the Kalubowila area of the Dehiwala Police Division.
+
+The gunmen had reportedly fired two shots at the target which had hit him near the right shoulder, before fleeing the scene. The victim later succumbed to the injuries while receiving treatment at the Kalubowila Hospital.
+
+It has been reported that the shooting may have been the result of a conflict between drug dealers.
+
+◼️
+
+[Data](articles/cde69f63.json)
+
+[Extended Data](ext_articles/cde69f63.ext.json)
 
 ---
 
@@ -1000,11 +1024,11 @@ The awardees included Shiran Punchihewa, Indika Igalawithana, and Janithi Perera
 
 SimCentric Technologies enhances information security standards with ISO 27001:2022 Certification
 
+A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
+
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
+...
 
 [Data](articles/de3d0f52.json)
 
@@ -1802,6 +1826,30 @@ Anthony Alpred - Anushan, a young man from Pannangandi, died in the accident.
 
 ---
 
+### 4945 complaints regarding the Presidential election
+
+*2024-09-19 19:04:32* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-අදාළව-පැමිණිලි-4945ක්/11-412034) · `si`
+
+Elections Commission reports 4945 complaints: 34 about violence, 4804 others. 4304 resolved, 641 pending. 208 new complaints in 24 hours, including 3 each on violations and violence.
+
+🟩
+
+The Elections Commission states that 4945 complaints have been received in connection with the presidential election.
+
+34 complaints have been received about violence and 4804 complaints have been received by another 107 complaints.
+
+These complaints have been received from 31st July to 18. The Commission states that 4304 complaints have been resolved and the matters relating to the resolution of 641 complaints.
+
+208 complaints received at 4.30 pm on Monday (18th) last 24 hours. The 202 complaints have shown that there have been three complaints regarding violations and three other complaints and violence.
+
+◼️
+
+[Data](articles/4380b9f6.json)
+
+[Extended Data](ext_articles/4380b9f6.ext.json)
+
+---
+
 ### 147 uniform leaflets that were given to divide
 
 *2024-09-19 19:00:08* · [`adalk`](https://www.ada.lk/breaking_news/බෙදන්න-දුන්න--නිළ-ජන්ද-පත්‍රිකා-147-ක්-කඩයකට-දිලා/11-412033) · `si`
@@ -1861,6 +1909,10 @@ According to the country's election rules, a candidate must win more than 50% of
 ### In three institutions, Rs. A Taxography of 3.7 trillion
 
 *2024-09-19 18:50:45* · [`adalk`](https://www.ada.lk/breaking_news/ආයතන-තුනකින්-රු--ට්‍රිලියන-3-7ක-බදු-ඉලක්කයක්/11-412032) · `si`
+
+Sri Lanka's tax revenue institutions: Inland Revenue Department, Customs, Excise. Estimated 2023 income: Rs. 1550 billion (Revenue), Rs. 137 billion (Excise). Committee Chairman Patali Champika Ranawaka presented report to Parliament.
+
+🟩
 
 The Inland Revenue Department, Department of Inland Revenue, Sri Lanka Customs and the Sri Lanka Excise Department (SLAST) is revealed by the government.
 
@@ -2265,51 +2317,5 @@ President Wickremesinghe has also instructed the heads of the security agencies 
 [Data](articles/b1cfa6e7.json)
 
 [Extended Data](ext_articles/b1cfa6e7.ext.json)
-
----
-
-### Ramith son of Keheliya banned
-
-*2024-09-19 16:53:27* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-පුත්-රමිත්ගේ-නිවාස-දෙකක්-තහනම්/11-412028) · `si`
-
-Colombo High Court bans luxury homes linked to Ramith son of Keheliya Rambukwella. Bribery Commission investigates alleged corruption involving two Rs. 50 million properties.
-
-🟩
-
-Colombo High Court Judge Manjula Tilakaratne was banning two luxury homes in a leading housing complex, which is named as a suspect, who is named as a suspect, Rammbukwella.
-
-The Finance and Requirement Investigation Division of the Investigation Commission has a report to the court in a report of the Investigation Commission, and informed the Minister of Health, Keheliya Rambukwella.
-
-The officials of the Bribery Commission in the 10th floor of the Capital Residenzeli Housing and the 02 Housing of the Capital Residenzeli at the season of former Health Minister Keheliya Rambukwella.It was reported that one house was purchased by two houses at Rs. 50 million.
-
-Did the two state-of-the-art houses have purchased the two state-of-the-art houses that Ramith Rhookwella has been purchased?They also pointed out that the Bribery Commission informed the Bribery Act (Anti-Corruption Act) informed under investigation, the two houses were able to sell or transfer these houses to another party.
-
-...
-
-[Data](articles/8d8525b8.json)
-
-[Extended Data](ext_articles/8d8525b8.ext.json)
-
----
-
-### Sri Lanka agrees with international commercial creditors
-
-*2024-09-19 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201204) · `si`
-
-Sri Lanka reaches deal with international lenders, securing 40.3% loan relief and improved financial stability.
-
-🟩
-
-Sri Lanka has agreed to an agreement with international commercial creditors.
-
-This is a relief of 40.3% of the current loan.
-
-The Presidential Media Unit strosizes the financial stability of the country through Sri Lanka has a significant debt relief and reducing interest payments.
-
-◼️
-
-[Data](articles/2addc569.json)
-
-[Extended Data](ext_articles/2addc569.ext.json)
 
 ---

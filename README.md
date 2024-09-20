@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 16:22:33**
+As of **2024-09-20 16:38:13**
 
 ## Newspaper Stats
 
-*Scraped **44,934** Articles*
+*Scraped **44,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 2,999
 adalk | 4,154
 dailymirrorlk | 4,733
 adaderanalk | 5,278
-tamilmirrorlk | 5,887
-virakesarilk | 7,193
+tamilmirrorlk | 5,888
+virakesarilk | 7,194
 adaderanasinhalalk | 7,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,934 (100.0%) of 44,934 articles have been extended.
+44,936 (100.0%) of 44,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Pollboat that goes on the boat
+
+*2024-09-20 16:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகில்-செல்கிறது-வாக்குப்பெட்டி/175-344062) · `ta`
+
+Pollboats transport voting boxes across rivers to islands for elections. Machine boats like Ratnapala Silva's help ensure ballots reach voters safely.
+
+🟩
+
+Voting boxes have been transported by boats and machine boats to vote for the multi -faceted saplings since the implementation of the voting rights in the country.
+
+Since the island is surrounded by a sink river, the islanders cross the river and take the voting box and vote.
+
+As we know, Ratnapala Silva of the sink, who drove the machine boat to carry the ball to the sink.
+
+In this year's presidential election, Ratnapala Silva took the ballot box from the Kodkedera boat to the Madhu boat to the safety of the police officers.
+
+◼️
+
+[Data](articles/147f3396.json)
+
+[Extended Data](ext_articles/147f3396.ext.json)
+
+---
+
+### Amban Divisional Hospital is not a patient carriage, no doctor;Patients are suffering!
+
+*2024-09-20 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/194194) · `ta`
+
+Amban Divisional Hospital lacks doctors and patient transport. Patients suffer due to inadequate staffing, especially at night. Emergency patients are sent to Pedro Resource Hospital. The hospital's patient carriage is unavailable, causing delays. Employees summon another hospital's patient carriage, resulting in 50-minute waits.
+
+🟩
+
+Patients have been greatly affected by the lack of a patient or doctors at the Vadamarachchi East Amban Divisional Hospital in Jaffna.
+
+Amban Divisional Hospital is the Grade Two Grade Two. Here are two doctors on duty during the day. But at night, none of the doctors do.
+
+It is customary to send an emergency patient to the Pedro Resource Hospital when the hospital is going to the hospital at night.
+
+In the meantime, 19/09/2024 Amban Divisional Hospital has taken a girl from Nagercoil area at 8:30 pm.
+
+But there is no patient's carriage of Amban Divisional Hospital. When asked where it is, it is reported that the Pedro Base Hospital has been given.
+
+In the absence of a doctor, the patient is not a cash cart.
+
+However, the employees of the Amban Divisional Hospital have summoned the Maradangani Divisional Hospital Patient Cota Cota. This has delayed up to 50 minutes.
+
+◼️
+
+[Data](articles/15768ba5.json)
+
+[Extended Data](ext_articles/15768ba5.ext.json)
+
+---
 
 ### 17 passengers injured in bus crash
 
@@ -2249,39 +2303,5 @@ The cheque handover ceremony was held with the presence of key BOC officials, in
 [Data](articles/eab68a9f.json)
 
 [Extended Data](ext_articles/eab68a9f.ext.json)
-
----
-
-### A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
-
-*2024-09-20 01:48:00* · [`islandlk`](http://island.lk/a-knowledge-sharing-session-on-government-securities-market-organized-by-the-national-chamber-of-commerce-of-sri-lanka/) · `en`
-
-The National Chamber of Commerce of Sri Lanka in collaboration with Wealth Trust Securities successfully conducted an awareness session on Government Securities Market on 12th September 2024 at the Royal Colombo Golf Club.  This knowledge sharing session was attended by the council and members of the National Chamber. Session was enriched with the inputs shared by the special guest speaker to the session, N D Y C Weerasinghe, Superintendent of Public Debt Department of Central Bank of Sri Lanka (CBSL).
-
-...
-
-[Data](articles/fc46eede.json)
-
-[Extended Data](ext_articles/fc46eede.ext.json)
-
----
-
-### President’s comments on debt negotiations seen as injecting buoyancy to bourse
-
-*2024-09-20 01:45:00* · [`islandlk`](http://island.lk/presidents-comments-on-debt-negotiations-seen-as-injecting-buoyancy-to-bourse/) · `en`
-
-The stock market yesterday bounced back following President Ranil Wickremesinghe’s statement at a political rally in Matara that Sri Lanka will be freed from bankruptcy status if bondholders conclude their negotiations on debt restructuring this week.
-
-Most of local and foreign investors expect bondholders to conclude their negotiations on the external debt before the election and this prompted them to be active in the market.
-
-Amid those developments, both indices moved upwards. The All Share Price Index went up by 61.21 points while S and P SL20 rose by 24.7 points.
-
-Turnover stood at Rs 1.2 billion with three crossings. Those crossings were reported in NTB, which crossed 400,000 shares to the tune of Rs 45.4 million; its shares traded at Rs 114.50, HNB 200,000 shares crossed for Rs 33 million; its shares traded at Rs 165 and Lanka Aluminium 928,000 shares crossed for Rs 20.9 million; its shares sold at Rs 22.50.
-
-...
-
-[Data](articles/390422fd.json)
-
-[Extended Data](ext_articles/390422fd.ext.json)
 
 ---

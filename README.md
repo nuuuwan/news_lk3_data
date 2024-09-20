@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 00:12:07**
+As of **2024-09-21 00:23:23**
 
 ## Newspaper Stats
 
-*Scraped **44,976** Articles*
+*Scraped **44,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 438
 colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,728
-dailyftlk | 2,999
+dailyftlk | 3,001
 adalk | 4,157
 dailymirrorlk | 4,733
-adaderanalk | 5,280
+adaderanalk | 5,286
 tamilmirrorlk | 5,893
 virakesarilk | 7,202
 adaderanasinhalalk | 7,710
@@ -26,9 +26,49 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,976 (100.0%) of 44,976 articles have been extended.
+44,978 (100.0%) of 44,984 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-21 (Saturday)
+
+### Don’t look back in anger
+
+*2024-09-21 00:05:18* · [`dailyftlk`](https://www.ft.lk/columns/Don-t-look-back-in-anger/4-766971) · `en`
+
+It is time for the JVP to own up to their history and for the Sri Lankan people to make informed, rational choices about their future – Pic by Shehan Gunasekara
+
+The role of the JVP in Sri Lanka’s political unrest: A historical and analytical perspective
+
+The Janatha Vimukthi Peramuna (JVP), or the People’s Liberation Front, played a pivotal role in the political upheavals in Sri Lanka during the 1970s and late 1980s. Their violent uprisings were born out of discontent with the Government’s handling of the economy and social issues, especially during the reign of Prime Minister Sirimavo Bandaranaike in the 1970s. The extreme measures taken by the JVP in their quest for revolutionary change left a lasting impact on the nation’s political and social fabric.
+
+...
+
+[Data](articles/e95e4a46.json)
+
+[Extended Data](ext_articles/e95e4a46.ext.json)
+
+---
+
+### Austerity measures on trial in Sri Lanka’s first election since economic collapse
+
+*2024-09-21 00:02:54* · [`dailyftlk`](https://www.ft.lk/opinion/Austerity-measures-on-trial-in-Sri-Lanka-s-first-election-since-economic-collapse/14-766970) · `en`
+
+The economy will be the key issue for voters in Sri Lanka’s upcoming presidential election, set against a backdrop of geopolitical rivalry
+
+When Sri Lanka heads to the polls on 21 September in the country’s first presidential election since its 2022 economic meltdown, the economy will be the key issue for voters. The election will serve as a referendum on the difficult austerity measures imposed on the country’s road to recovery.
+
+Sri Lanka underwent a sovereign default in April 2022 as its foreign exchange reserves ran out and public debt stood at more than $83 billion, half of which was owed to foreign creditors. Soaring inflation at close to 70 per cent and commodity shortages triggered large-scale unrest that ultimately unseated President Gotabaya Rajapaksa from power.
+
+In 2023, the government of Interim President Ranil Wickremesinghe secured a $2.9 billion bailout from the IMF – the 17th in the country’s history.
+
+...
+
+[Data](articles/5ee2fe21.json)
+
+[Extended Data](ext_articles/5ee2fe21.ext.json)
+
+---
 
 ### 2024-09-20 (Friday)
 
@@ -51,6 +91,42 @@ He also said that strict action will be taken against any parties that will affe
 [Data](articles/0e78cfa0.json)
 
 [Extended Data](ext_articles/0e78cfa0.ext.json)
+
+---
+
+### Commonwealth observers deployed across Sri Lanka in preparation of voting
+
+*2024-09-20 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102107/commonwealth-observers-deployed-across-sri-lanka-in-preparation-of-voting) · `en`
+
+Commonwealth observers, working across various teams, have reported to their posts across all nine provinces in Sri Lanka, ahead of the country’s presidential election on 21 September 2024, a statement said.
+
+The teams have been deployed to; Central, Eastern, North Central, Northern, Northwestern, Sabaragamuwa, Southern, Uva and Western and will be observing pre-poll arrangements in the run up to election day.
+
+The teams will be present when voting begins at 7am, and will observe the process until the polls close at 4 pm. As is customary, they will then observe the counting of votes and the tabulation of results.
+
+Commonwealth Observer Group Chairperson, former President of Seychelles, HE Danny Faure, who is following the process from Colombo, has also been observing pre-poll arrangements and has scouted a number of polling stations to which he will return on election day. He will be at the St Thomas Prep School station to observe as the first votes are cast.
+
+...
+
+[Data](articles/ff7d457f.json)
+
+---
+
+### Police Sergeant arrested while accepting bribe
+
+*2024-09-20 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102106/police-sergeant-arrested-while-accepting-bribe) · `en`
+
+A Police Sergeant attached to the Pothuhera Police Station has been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) while accepting a bribe from an individual.
+
+The commission said that a bribe of Rs. 5,000 was solicited by the police officer to provide a police report for a person, who has a pending court case related to illicit liquor, while excluding information related to that.
+
+According to a complaint filed with the Bribery Commission regarding this, the suspected Police Sergeant was arrested while accepting the bribe in front of the Pothuhera Police Station.
+
+The suspect is expected to be produced before the Polgahawela Magistrate’s Court.
+
+◼️
+
+[Data](articles/2f55236b.json)
 
 ---
 
@@ -284,6 +360,26 @@ Accordingly, there is a proper program to vote for the 7th morning and has been 
 
 ---
 
+### Top Hezbollah commander killed in Israeli strike on Beirut - reports
+
+*2024-09-20 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102105/top-hezbollah-commander-killed-in-israeli-strike-on-beirut-reports) · `en`
+
+Top Hezbollah commander Ibrahim Aqil was killed on Friday in an Israeli strike on Beirut’s southern suburbs, two security sources told Reuters.
+
+One of the sources said he was killed alongside members of Hezbollah’s elite Radwan unit as they were holding a meeting.
+
+An Israeli official confirmed that the Israeli military targeted Ibrahim Akil, a senior Hezbollah military official, in Friday’s airstrike on Beirut.
+
+It wasn’t immediately clear if Akil was killed in the Israeli strike on Beirut’s southern suburbs that killed at least three people and wounded 17 others, according to Lebanese health officials.
+
+The Israeli official spoke on condition of anonymity because he was discussing a behind the scenes security matter.
+
+...
+
+[Data](articles/fda8612d.json)
+
+---
+
 ### Economists say that foreign loan restructuring is a victory achieved
 
 *2024-09-20 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201245) · `si`
@@ -364,6 +460,24 @@ At 2,849 children, 323,7879 children appeared for the Grade 5 scholarship examin
 
 ---
 
+### SLPP suspends party membership of three MPs
+
+*2024-09-20 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102103/slpp-suspends-party-membership-of-three-mps) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has suspended the party membership of three Members of Parliament.
+
+Accordingly, the party membership of Anuradhapura District MP S.M. Chandrasena, Ratnapura District MP Pavithra Wanniarachchi and Kalutara District MP Rohitha Abeygunawardena have been suspended.
+
+Their party membership has been suspended for going against the SLPP Politburo’s decision to support the party’s presidential candidate, which was taken at its meeting held on July 29.
+
+The statement further says that the three MPs’ membership in SLPP’s All-Island Working Committee, the Executive Committee and Politburo have also been suspended.
+
+◼️
+
+[Data](articles/0c59cb87.json)
+
+---
+
 ### Considering the passage of the resolution on Sri Lanka with a referendum or vote;The final draft will be submitted in the first week of October
 
 *2024-09-20 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194211) · `ta`
@@ -383,6 +497,24 @@ UN Human Rights High Commissioner Volkar Turk addressed the progress of the cont
 [Data](articles/a0bf2298.json)
 
 [Extended Data](ext_articles/a0bf2298.ext.json)
+
+---
+
+### FR petition filed against Sri Lanka’s debt restructuring deal
+
+*2024-09-20 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102101/fr-petition-filed-against-sri-lankas-debt-restructuring-deal-) · `en`
+
+A fundamental rights petition has been submitted before the Supreme Court requesting the court to issue an order declaring that the government’s decision to restructure the debt associated with Sri Lanka’s international sovereign bonds has violated the basic human rights of the citizens.
+
+The petition has been filed by the former convenor of the Inter-University Students’ Federation (IUSF), Wasantha Mudalige.
+
+The Minister of Finance, the Secretary to the Ministry of Finance, the Governor of the Central Bank of Sri Lanka (CBSL) and others have been named as respondents in the petition.
+
+The petitioner claims that the interest rate of the debt related to international sovereign bonds had initially been between 5% and 7% and that under the debt restructuring program, the government has increased this to 8.2% and then reduced to 7.4%.
+
+...
+
+[Data](articles/be5deb1f.json)
 
 ---
 
@@ -521,6 +653,24 @@ The balance 30 percent would be exchanged for rupee securities.
 [Data](articles/4433d85a.json)
 
 [Extended Data](ext_articles/4433d85a.ext.json)
+
+---
+
+### No decision to arrest Shani Abeysekera and Ravi Seneviratne - AG
+
+*2024-09-20 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102100/no-decision-to-arrest-shani-abeysekera-and-ravi-seneviratne-ag) · `en`
+
+The Attorney General informed the Supreme Court today (20) that no decision has been made to arrest former Director of the Criminal Investigation Department (CID) Shani Abeysekera, and former Senior DIG in charge of the CID Ravi Seneviratne, in connection with the investigations into the Easter Sunday attacks.
+
+This was stated during the hearing of fundamental rights petitions filed by Ravi Seneviratne and Shani Abeysekera, seeking an order preventing them from being arrested in connection with investigations into a complaint made by a group of police officers, including former DIG Palitha Siriwardhane.
+
+The relevant petition was taken up before a three-member Supreme Court judge bench consisting of Justices Preethi Padman Surasena, Achala Vengappuli and Mahinda Samayawardhena.
+
+The Deputy Solicitor General, representing the Attorney General, stated that the CID has sought advice from the Attorney General regarding the investigations.
+
+...
+
+[Data](articles/8d427170.json)
 
 ---
 
@@ -2255,201 +2405,5 @@ The deceased is said to be an Urban Council employee who is a residence of Gunal
 [Data](articles/cde69f63.json)
 
 [Extended Data](ext_articles/cde69f63.ext.json)
-
----
-
-### Task for distributing boxes today
-
-*2024-09-20 08:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெட்டிகள்-விநியோகிக்கும்-பணிகள்-இன்று/175-344049) · `ta`
-
-Election preparations underway: Voting boxes and officials dispatched; 1.71 crore eligible voters; Process began this morning.
-
-🟩
-
-Additional Elections Commissioner Sivasubramaniam Achuthan said that the process of sending the voting boxes and officials to the presidential election will take place from this morning.
-
-One crore 71 lakh 41,354 people are eligible to vote for this election.
-
-◼️
-
-[Data](articles/64c2754f.json)
-
-[Extended Data](ext_articles/64c2754f.ext.json)
-
----
-
-### Why is your vote in a presidential election?
-
-*2024-09-20 08:01:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy5y3nevlewo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan presidential election importance: President leads government, constitutionally. Voting crucial for democracy, determines country's leader. 39 candidates, 17 million eligible voters. Winner needs 50%+. Not voting negates responsibility, wastes ballot costs. Election Commission emphasizes voting rights and power.
-
-🟩
-
-The President is the top ruler of the country by the Constitution of Sri Lanka.
-
-The president is the head of the government, the head of the executive, and the Commander of the armed services, 'The Constitution is stated.
-
-The pillars of the executive, legislature and court are operating the Sri Lankan governance structure.
-
-However, the Chief of the Cabinet representing the legislature is the President of the Executive President, as the President is also the appointment of judges.
-
-According to the Constitution, no courts cannot be transferred against the president.
-
-The Sri Lankan government operates within a half-president framework and is working with a Prime Minister appointed by the President and the President is executive.
-
-According to Section 44 (3) of the Constitution, the President shall bear the post of Minister of Defense.
-
-The President has the power to determine what subjects under the ministries and to determine the ministry.
-
-...
-
-[Data](articles/05db686f.json)
-
-[Extended Data](ext_articles/05db686f.ext.json)
-
----
-
-### Colombo shooting
-
-*2024-09-20 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201220) · `si`
-
-Colombo shooting: Police report incident on Kadawatha Road in Dehiwala. A 45-year-old man was shot and hospitalized. The attack occurred in front of his house.
-
-🟩
-
-The police said that the shooting had been reported in the Kadawatha road in Dehiwala.
-
-The shooting has been targeted at a house in front of a house and the 45 year old man was hospitalized.
-
-◼️
-
-[Data](articles/bc4af35c.json)
-
-[Extended Data](ext_articles/bc4af35c.ext.json)
-
----
-
-### Peliyagoda Manning Market
-
-*2024-09-20 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201219) · `si`
-
-Peliyagoda Manning Market: Heavy traffic causes long queues, affecting fish and vegetable purchases.
-
-🟩
-
-Heavy traffic has occurred at the Peliyagoda Manning Marketplace.
-
-The Ada Derana reporter stated that a long traffic queue is found in a large traffic queue.
-
-The traffic has caused a large number of fish and vegetables to purchase fish and vegetables.
-
-◼️
-
-[Data](articles/eac497ed.json)
-
-[Extended Data](ext_articles/eac497ed.ext.json)
-
----
-
-### Everything for the election is ready
-
-*2024-09-20 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201218) · `si`
-
-Election preparations underway: 1,204 polling centers set, ballot papers available, mandatory voting enforced.
-
-🟩
-
-District Returning Officials point out that all matters for the presidential election are being prepared.
-
-District Returning Officer Prasanna firewoman said that all the necessary arrangements have been made to vote in 1,204 polling centers in the Colombo district.
-
-Meanwhile, the Grama Niladhari Associations have said that despite the problems with financial allocation, all polling centers are currently being implemented.
-
-All Ceylon United Grama Niladhari Association General Secretary Jagath Chandralal said all the Grama Niladhari had joined the incident.
-
-Meanwhile, the official voter ballot papers can be obtained from the post office in the area where he is now available today and tomorrow.
-
-Mr. Rajitha Ranasinghe said that it was obtained after the identity confirmed.
-
-Meanwhile, the Chairman of the Election Commission. M. L. A. Ratnayake said that the official ballot papers is not optional to vote.
-
-◼️
-
-[Data](articles/08013e16.json)
-
-[Extended Data](ext_articles/08013e16.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-09-20 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102088/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Sabaragamuwa province and in Kalutara, Galle and Matara districts.
-
-Several spells of showers will occur in North-western province and in Colombo, Gampaha, Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva provinces during the evening or night, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in North-central and Southern provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e281e7c6.json)
-
-[Extended Data](ext_articles/e281e7c6.ext.json)
-
----
-
-### Nine officials removed from voting duties
-
-*2024-09-20 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201217) · `si`
-
-Nine officials removed from voting duties in Hambantota district due to promoting presidential candidates. Complaints filed against four public health officers, four Samurdhi managers, and three doctors. Investigations led to removal of election duties for all nine officials.
-
-🟩
-
-District Paid Officer M.. P. Mr. Sumanasekara said that 9 public officials from the Hambantota district were removed due to the promotion of presidential candidates.
-
-There were a complaint to the Hambantota District Electoral Resolution to the Hambantota District Disputes, four public health, four public health and a Samurdhi manager and three doctors to promote candidates.
-
-Accordingly, along with the investigations of several occasions, nine officials have resorted to the removal of election duties.
-
-The vacant officials have already completed their removal of election duties, the Hambantota district has completed. P. Mr. Sumanasekara told Ada Derana today.
-
-◼️
-
-[Data](articles/f4990d86.json)
-
-[Extended Data](ext_articles/f4990d86.ext.json)
-
----
-
-### Sri Lanka says bondholders have made further interest cuts, NPV benefit 33-pct
-
-*2024-09-20 07:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-bondholders-have-made-further-interest-cuts-npv-benefit-33-pct-180114/) · `en`
-
-ECONOMYNEXT – Sri Lanka says bondholders have made further concessions during the latest round of negotiation which will see the present value benefit increasing from 27 percent in a July deal to 33 percent in the September deal, if the economy performs better than expected.
-
-Sri Lanka’s bondholders sought so-called macro-linked bonds where the hair cut will reduce if the economy grows faster than the International Monetary Fund expects in a debt sustainability analysis.
-
-If the economy grows as expected, bond holders will concede 40.3 percent in net present value terms at a discount factor of 11 percent, the Finance Ministry said in a statement.
-
-The July deal with bondholders were deemed by the IMF as not meeting its debt sustainability framework, a statement said.
-
-Compared to the July deal with bondholders, coupons at the highest economic performance level would reduce by roughly 160 basis points and second highest by 60 basis points.
-
-...
-
-[Data](articles/8d1e0db2.json)
-
-[Extended Data](ext_articles/8d1e0db2.ext.json)
 
 ---

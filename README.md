@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 11:39:08**
+As of **2024-09-20 11:58:28**
 
 ## Newspaper Stats
 
-*Scraped **44,894** Articles*
+*Scraped **44,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,718
 dailyftlk | 2,999
-adalk | 4,150
+adalk | 4,151
 dailymirrorlk | 4,733
-adaderanalk | 5,273
-tamilmirrorlk | 5,877
+adaderanalk | 5,274
+tamilmirrorlk | 5,878
 virakesarilk | 7,182
-adaderanasinhalalk | 7,690
+adaderanasinhalalk | 7,691
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,894 (100.0%) of 44,894 articles have been extended.
+44,898 (100.0%) of 44,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### New Zealand's first innings end
+
+*2024-09-20 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201226) · `si`
+
+Sri Lanka restricts NZ to 255/4 in first Test. Cahan Williamson and Darrail Michelle score 55 each. Family takes 4/136.
+
+🟩
+
+Sri Lanka were able to limit the first Test of Test match between Sri Lanka and New Zealand today (20).
+
+Sri Lanka bowlers were able to score only 85 runs while the new Zealand scored 255 runs for the loss of 4 wickets.
+
+He was only 35 runs in the first 35 runs.
+
+Cahan Williamson scored 55 runs and Darrail Michelle scored 55 runs for New Zealand innovation.
+
+Family, Prabha Jayasuriya, took 4 wickets for 136 runs.
+
+◼️
+
+[Data](articles/b49b968f.json)
+
+[Extended Data](ext_articles/b49b968f.ext.json)
+
+---
+
+### Two suspects arrested in connection with Midigama shooting
+
+*2024-09-20 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102093/two-suspects-arrested-in-connection-with-midigama-shooting) · `en`
+
+Two suspects have been arrested in connection with the shooting that killed one person and injured two others in the Goviyapana area in the Midigama Police Division yesterday.
+
+The arrests were made during raids in the Digaredda and Hathapelena areas by officers from the Pushparama Sub-Camp of the Police Special Task Force (STF).
+
+The suspects, aged 38 and 30, are residents of Kotte and Angulugaha, respectively. They have been handed over to Midigama Police for further investigation.
+
+During the raid, police also seized 11 grams and 500 milligrams of heroin and a three-wheeler from the suspects’ possession.
+
+It is reported that one of the suspects provided accommodation for the shooters, while the other had arranged a three-wheeler to transport them.
+
+One person was killed while two others were injured in the shooting at Midigama in Matara.
+
+...
+
+[Data](articles/cf434c1f.json)
+
+[Extended Data](ext_articles/cf434c1f.ext.json)
+
+---
+
+### Basil flew to America
+
+*2024-09-20 11:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கா-பறந்தார்-பசில்/175-344051) · `ta`
+
+Basil Rajapaksa, SLPP founder, left Sri Lanka for Dubai then US. Paid $206 for flight access. Arrived at Gold Root terminal.
+
+🟩
+
+Basil Rajapaksa, the founder and former minister of the Sri Lanka PA (SLPP), went to Dubai from Bandaranaike International Airport this morning, said the airport duty manager.
+
+He is said to have paid USD 206 to access the aircraft and has been comforted at the 'Gold Root' terminal at the Bandaranaike International Airport.
+
+Airport sources said that Basil Rajapaksa would first go to Dubai and go to the United States.
+
+◼️
+
+[Data](articles/aa50effb.json)
+
+[Extended Data](ext_articles/aa50effb.ext.json)
+
+---
 
 ### A rehearsal today for the election
 
@@ -1282,11 +1354,11 @@ The awardees included Shiran Punchihewa, Indika Igalawithana, and Janithi Perera
 
 SimCentric Technologies enhances information security standards with ISO 27001:2022 Certification
 
-A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
-
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
-...
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
 
 [Data](articles/de3d0f52.json)
 
@@ -1956,6 +2028,32 @@ During a press conference at the Department of Government Information this morni
 
 ---
 
+### Voting begins tomorrow morning
+
+*2024-09-19 19:25:59* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-විමසීම-හෙට-උදේ-හතට-ඇරඹෙයි/11-412037) · `si`
+
+Election details: Voting starts tomorrow at 7 AM. Only valid ID cards accepted. No ballots without proper IDs. 38 candidates remain after one death. Over 63,000 police deployed for security. Roads closed on election day.
+
+🟩
+
+The Elections Commission states that the election of the presidential election will be held tomorrow (21st) at 7.00 am to 4.00 pm.
+
+The Elections Commission states that it is inevitable to carry one of the nine valid identity documents published in the election.
+
+Thus the National Identity Card issued by the Department of Registration of Persons, Valid Passport, Valid Driving License, Retired Identity Card (Illegal Identified Identity Card), Adult Identified Card (PS)Referring Priest Identity Card issued by the Department of Registration of Persons, the Recommendation letter issued by the Department of Registration of Persons.Is possible.
+
+The Elections Commission states that if any of the above identity cards have been submitted, a ballot is not released.
+
+Also, idiotical cards (unclear or if the photographs are uncovered or readable by the photographs), no other documents issued by the Ministry, Departments and Government InstitutionsAlso pointed out that
+
+...
+
+[Data](articles/36ed802d.json)
+
+[Extended Data](ext_articles/36ed802d.ext.json)
+
+---
+
 ### EU deploys 32 election monitors for Sri Lanka’s Presidential poll
 
 *2024-09-19 19:23:00* · [`economynextcom`](https://economynext.com/eu-deploys-32-election-monitors-for-sri-lankas-presidential-poll-180095/) · `en`
@@ -2183,113 +2281,5 @@ According to the country's election rules, a candidate must win more than 50% of
 [Data](articles/3b2bab32.json)
 
 [Extended Data](ext_articles/3b2bab32.ext.json)
-
----
-
-### In three institutions, Rs. A Taxography of 3.7 trillion
-
-*2024-09-19 18:50:45* · [`adalk`](https://www.ada.lk/breaking_news/ආයතන-තුනකින්-රු--ට්‍රිලියන-3-7ක-බදු-ඉලක්කයක්/11-412032) · `si`
-
-Sri Lanka's tax revenue institutions: Inland Revenue Department, Customs, Excise. Estimated 2023 income: Rs. 1550 billion (Revenue), Rs. 137 billion (Excise). Committee Chairman Patali Champika Ranawaka presented report to Parliament.
-
-🟩
-
-The Inland Revenue Department, Department of Inland Revenue, Sri Lanka Customs and the Sri Lanka Excise Department (SLAST) is revealed by the government.
-
-The income of Rs.
-
-In the year 2023, the estimated income of the Department of Inland Revenue was expected to Rs. 1550 billion in the year.
-
-The estimated income expected of 1,220 billion rupees at 2023, but Rs.
-
-The Government of Sri Lanka Excise, the Government of Sri Lanka (SLTB) is expected to be a 137 billion rupees as taxes that Rs 171.2 billion in the same year.
-
-The Select Committee presented to Parliament by the Chairman of the Committee and the Chairman of the Committee Patali Champika Ranawaka, which was presented to parliament.
-
-◼️
-
-[Data](articles/9a7e8c84.json)
-
-[Extended Data](ext_articles/9a7e8c84.ext.json)
-
----
-
-### After a year, long -run passenger boat service
-
-*2024-09-19 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194106) · `ta`
-
-Northern Province Governor hands over rehabilitated passenger boat to Development Authority after Rs 52 million renovation. Boat starts daily service from Nedundi, carrying 80 passengers. Improves transportation for island communities.
-
-🟩
-
-The Governor of the Northern Province officially handed over the rehabilitated passenger boat to the Development Authority today (19).
-
-Governor of the Northern Province BSM. A long -run passenger boat was officially handed over to the Charles Road Development Authority this morning.
-
-The boat, which has been in charge of the provincial council, has been revised at a cost of Rs 52 million and handed over to the Road Development Authority.
-
-The Governor thanked the President, the President of the President, the Ministry of Department of Passengers for the speedy action of the passenger boat.. Steps have been taken to improve transport facilities for the islands
-
-The long -time boat, which has started the passenger service from today, is to travel to the landing department from Nedundi.. It is worth noting that 80 people can travel once in a long time.
-
-◼️
-
-[Data](articles/d4c66ff4.json)
-
-[Extended Data](ext_articles/d4c66ff4.ext.json)
-
----
-
-### Re -conduct the Grade 5 Scholarship Examination?Give the points to the questions?- The Commissioner General of Examinations says the resolution after the inquiry
-
-*2024-09-19 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194117) · `ta`
-
-Grade 5 Scholarship Exam: 3 questions removed, inquiry ongoing. Final decision pending after investigation into pre-exam leak allegations. Parents may protest re-conducting the exam.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundera said that the first part of the Grade Five Scholarship Examination will be deleted by three questions in the Questionnaire and the final decision will be taken only after the final resolution of the examination.
-
-The Commissioner said that the Department of Examinations has now launched a full inquiry to see if the Question 5 Scholarship Examination has been released before the examination.
-
-He said that the first part of the Grade Five Scholarship Examination was a preliminary inquiry into the complaint made regarding the publication of a fake questionnaire in social networks.
-
-Accordingly, after a long discussion of the fake questionnaire, it was decided that they had only 3 questions in the query in the engaged scholarship examination.
-
-The Department of Examinations has already decided to delete the three questions on the issue.
-
-...
-
-[Data](articles/0e20c6c6.json)
-
-[Extended Data](ext_articles/0e20c6c6.ext.json)
-
----
-
-### Policy agreement to restructure foreign commercial debts
-
-*2024-09-19 18:35:11* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-වාණිජ-ණය-ප්‍රතිව්‍යුහගත-කිරීමට-ප්‍රතිපත්තිමය-එකඟතාව/11-412030) · `si`
-
-Sri Lanka reaches agreement to restructure $17.5B foreign commercial debts under IMF guidance. Bondholders accept 40.3% relief at 11% discount rate. China Development Bank and Exim Bank of China involved in $6.7B debt relief. President Wickremesinghe thanks creditors for support.
-
-🟩
-
-Sri Lanka reaches policy agreements to restructure sovereign debts with foreign commercial creditors
-
-Under the International Monetary Fund, more than US $ 17 billion loan relief.
-
-The policy agreement was held today (19) today (19) on the restructuring of foreign commercial loans of about $ 17.5 billion.
-
-The temporary group of bonds representing international investors (AHGB of Sri Lanka - LCSL) agree with these international sovereign bondsThere is. More than 50% of the sovereignty bonds of the country have over 50% of these groups.
-
-Under these agreements, the bond owners have agreed to provide relief to a current value of 40.3% (40.3%) based on an 11% discount rate.
-
-Sri Lanka has a larger debt relief to Sri Lanka more than 2024, with the integrated action framework established in July 2024, and in the new conditions.
-
-...
-
-[Data](articles/ab3e0709.json)
-
-[Extended Data](ext_articles/ab3e0709.ext.json)
 
 ---

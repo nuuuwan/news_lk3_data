@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 07:58:52**
+As of **2024-09-20 08:20:35**
 
 ## Newspaper Stats
 
-*Scraped **44,863** Articles*
+*Scraped **44,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 2,715
 dailyftlk | 2,998
 adalk | 4,145
 dailymirrorlk | 4,733
-adaderanalk | 5,267
-tamilmirrorlk | 5,874
+adaderanalk | 5,268
+tamilmirrorlk | 5,875
 virakesarilk | 7,180
-adaderanasinhalalk | 7,683
+adaderanasinhalalk | 7,685
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,857 (100.0%) of 44,863 articles have been extended.
+44,857 (100.0%) of 44,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### පෑලියගොඩ මැනිං වෙළෙඳපොළට දිගු පෝලිමක්
+
+*2024-09-20 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201219) · `si`
+
+පෑලියගොඩ මැනිං වෙළඳපොළට ඇතුළුවන මාර්ගයේ මේ වනවිට දැඩි රථවාහන තදබදයක් හටගෙන තිබේ.
+
+අද දෙරණ වාර්තාකරු සඳහන් කළේ ඒ අසල කිලෝමීටර් ගණනාවක දිගු රථවාහන පෝලිමක් දැකගත හැකි බවය.
+
+මාළු සහ එළවලු මිලදී ගැනීම සඳහා වාහනවලින් එකවර පැමිණි විශාල පිරිසක් හේතුවෙන් මෙම තදබදය ඇතිවී තිබේ.
+
+◼️
+
+[Data](articles/eac497ed.json)
+
+---
+
+### ඡන්දෙට සියල්ල සූදානම්
+
+*2024-09-20 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201218) · `si`
+
+ජනාධිපතිවරණය සඳහා සියලු කටයුතු මේ වනවිට සුදානම් බව දිස්ත්‍රික් තේරීම්භාර නිළධාරීන් පෙන්වා දෙයි.
+
+කොළඹ දිස්ත්‍රික්කය තුළ ඡන්ද මධ්‍යස්ථාන 1,204කදී ඡන්දය ප්‍රකාශ කිරීමට අවශ්‍ය සියලු කටයුතු සුදානම් කර ඇති බව දිස්ත්‍රික් තේරීම්භාර නිලධාරී ප්‍රසන්න ගිනිගේ මහතා පැවසීය.
+
+මේ අතර මූල්‍ය ප්‍රතිපාදන සම්බන්ධයෙන් ගැටලු පැවතියද සියලුම ඡන්ද මධ්‍යස්ථාන සුදුසු පරිදි සකස්කිරීමේ කටයුතු මේ වනවිට සිදුකරන බව ග්‍රාම නිලධාරි සංගම් පවසා තිබේ.
+
+සමස්ත ලංකා එක්සත් ග්‍රාම නිලධාරි සංගමයේ ප්‍රධාන ලේකම් ජගත් චන්ද්‍රලාල් මහතා පැවසුවේ සියලු ග්‍රාම නිලධාරින් ඒ සඳහා එක්වී ඇති බවය.
+
+මේ අතර, නිල ඡන්ද දැන්වීම් පත්‍රිකා මෙතෙක් ලබා නොගත් ඡන්දහිමියන්ට අද සහ හෙට තමා පදිංචි ප්‍රදේශයේ තැපැල් කාර්යාලයෙන් ඒ්වා ලබාගත හැකි බව තැපැල් දෙපාර්තමේන්තුව පවසයි.
+
+නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා පැවසුවේ අනන්‍යතාවය තහවුරු කිරීමෙන් පසු එය ලබාගත හැකි බවය.
+
+මේ අතර, මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්. එම්. එල්. ඒ. රත්නායක මහතා පැවසුවේ ඡන්දය ප්‍රකාශ කිරීම සඳහා නිල ඡන්ද දැන්වීම් පත්‍රිකාව අත්‍යවශ්‍ය නොවන බවය.
+
+◼️
+
+[Data](articles/08013e16.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-09-20 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102088/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Sabaragamuwa province and in Kalutara, Galle and Matara districts.
+
+Several spells of showers will occur in North-western province and in Colombo, Gampaha, Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva provinces during the evening or night, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in North-central and Southern provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e281e7c6.json)
+
+---
 
 ### Nine officials removed from voting duties
 
@@ -99,6 +159,24 @@ The suspect is a 32 year old resident of Kandy.
 [Data](articles/633ed662.json)
 
 [Extended Data](ext_articles/633ed662.ext.json)
+
+---
+
+### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
+
+*2024-09-20 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
+
+400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
+
+🟩
+
+District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
+
+◼️
+
+[Data](articles/0f8b9cc1.json)
+
+[Extended Data](ext_articles/0f8b9cc1.ext.json)
 
 ---
 
@@ -436,6 +514,20 @@ Additionally, President Wickremesinghe directed security agency heads to take al
 
 ---
 
+### டிப்பர் வாகனம் மோதி இளைஞர் உயிரிழப்பு
+
+*2024-09-20 03:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிப்பர்-வாகனம்-மோதி-இளைஞர்-உயிரிழப்பு/175-344045) · `ta`
+
+வட்டக்கச்சி, பன்னங்கண்டி பாலத்துக்கு அருகில் நேற்று வியாழக்கிழமை இடம்பெற்ற விபத்தில், அப்பகுதியைச் சேர்ந்த அல்பிரட் அனுசன் (வயது 22) எனும் இளைஞரே உயிரிழந்துள்ளார்.
+
+டிப்பர் சாரதியைக் கைது செய்த கிளிநொச்சி பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/c83f9b41.json)
+
+---
+
 ### Prohibition
 
 *2024-09-20 03:17:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடகங்களில்-வெளியிடத்-தடை/175-344044) · `ta`
@@ -497,24 +589,6 @@ Director K. Bhagyaraj congratulated him, “Baby Lakshana Rishi, a child star st
 [Data](articles/abb564fa.json)
 
 [Extended Data](ext_articles/abb564fa.ext.json)
-
----
-
-### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
-
-*2024-09-20 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
-
-400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
-
-🟩
-
-District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
-
-◼️
-
-[Data](articles/0f8b9cc1.json)
-
-[Extended Data](ext_articles/0f8b9cc1.ext.json)
 
 ---
 
@@ -2217,103 +2291,5 @@ UN Secretary General António Guterres warned of the “serious risk of a dramat
 [Data](articles/ae1b60db.json)
 
 [Extended Data](ext_articles/ae1b60db.ext.json)
-
----
-
-### A complaint lodged a police officer
-
-*2024-09-19 15:43:34* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරියෙක්-ආගිය-අතක්-නැති-බවට-පැමිණිල්ලක්/11-412025) · `si`
-
-Complaint filed by police constable: Husband missing since 13th. Phone disconnected. No information about him. Not reported to service. Incident linked to Hambantota hospital.
-
-🟩
-
-Weerawila police say that there is no short hand hand with a police constable issued by the Hambantota Headquarters Police.
-
-The incident is attached to the Hambantota Headquarters Hospital in Udugamuwa and Tissamaharama.
-
-The police constable has filed the complaint on the 17th night by the police constable.
-
-The complaint states that his husband went out on the 13th and that he had never returned home and had not returned home. The phone has been disconnected, as he does not return home and will be rescued and handed over to police uniforms if he returns home.. The complaint has further stated that there is no information about her husband since then.
-
-The police constable was not reported to the service, police said.
-
-◼️
-
-[Data](articles/7fa13a2a.json)
-
-[Extended Data](ext_articles/7fa13a2a.ext.json)
-
----
-
-### Sri Lanka’s IPS cautions against rash promises, interruptions to IMF programme
-
-*2024-09-19 15:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-ips-cautions-against-rash-promises-interruptions-to-imf-programme-180019/) · `en`
-
-ECONOMYNEXT — As Sri Lanka gears up for elections, policymakers must avoid rash economic promises that risk a
-
-decade of lost growth and an era of relative decline, the Institute of Policy Studies (IPS) said, also cautioning against interruptions to the ongoing International Monetary Fund (IMF) programme.
-
-As too often in the past, Sri Lanka appears not to have broken its damaging tendency towards ‘competitive populism’ ahead of elections, IPS said in a statement on Thursday September 19, two days ahead of Sri Lanka’s highly anticipated presidential election.
-
-“Fiscally profligate promises ranging from wage increases to loan write-offs and welfare handouts are being made in a bid to win votes. Such pledges often come with a hefty price tag that the country can ill afford, especially given its still fragile economic recovery.
-
-...
-
-[Data](articles/74935bb0.json)
-
-[Extended Data](ext_articles/74935bb0.ext.json)
-
----
-
-### Meanmar's cyber cyber criminal camps increase
-
-*2024-09-19 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201201) · `si`
-
-Sri Lanka citizens report surge in cybercrime camp referrals from Myanmar. Criminals target IT professionals with fake job offers, luring them to Dubai under false pretenses. Victims face physical torture and electrocution in these camps. National Task Force warns of increasing human trafficking cases.
-
-🟩
-
-In different ways, citizens of Sri Lanka have revealed an increase in referrals to cyber crimes camps in Myanmar.
-
-The National Task Force against the trade is warned by the National Task Force against the trade.
-
-It is reported that the human trading is targeted targeting information technological professionals, saying they will provide attractive salary employment opportunities in foreign countries.
-
-The National Task Force against the trade of persons is further indicated that people in trade attracting that they are attracting jobs with high wages of IT.
-
-It is emphasized that they will be taken to countries such as Dubai by the guise of the guise of employment interviews.
-
-Recently investigations have revealed that they had to face severe physical, physical, torture and even electrification in these cyber crime camps.
-
-◼️
-
-[Data](articles/5a41330f.json)
-
-[Extended Data](ext_articles/5a41330f.ext.json)
-
----
-
-### Prohibition of taking some action within the election of the election polling station!
-
-*2024-09-19 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194099) · `ta`
-
-Election Commission bans activities near polling stations. No persuasion, campaign materials allowed within half kilometer radius.
-
-🟩
-
-The Election Commission has issued a statement banning certain measures within the polling station on the 21st of this month.
-
-The Election Commission's report stated that the Election Commission has been banned from carrying out some measures within a distance of half a kilometer from the gate that enters the polling station or into the polling station.
-
-௩. Anyone who should vote for a candidate is trying to persuade Nehru
-
-௫. Related to the election, (no office, pamphlets, paste, poster, poster, photo, photo, or notice), or any symbol of the candidate, the poster, the poster, the poster, the photo or the notification or the symbol of the candidate.
-
-◼️
-
-[Data](articles/12d942da.json)
-
-[Extended Data](ext_articles/12d942da.ext.json)
 
 ---

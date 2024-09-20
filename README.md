@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 11:22:28**
+As of **2024-09-20 11:39:08**
 
 ## Newspaper Stats
 
-*Scraped **44,891** Articles*
+*Scraped **44,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,73 @@ bbccomsinhala | 436
 colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,718
-dailyftlk | 2,998
+dailyftlk | 2,999
 adalk | 4,150
 dailymirrorlk | 4,733
 adaderanalk | 5,273
 tamilmirrorlk | 5,877
 virakesarilk | 7,182
-adaderanasinhalalk | 7,688
+adaderanasinhalalk | 7,690
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,891 (100.0%) of 44,891 articles have been extended.
+44,894 (100.0%) of 44,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### A rehearsal today for the election
+
+*2024-09-20 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201225) · `si`
+
+Rehearsal underway for presidential election. Ballot distribution begins. Polling stations open at noon. Voting scheduled 7am-4pm tomorrow. 71 lakh voters across 13,421 centers island-wide.
+
+🟩
+
+The staff, ballot papers and ballots have begun to hold the presidential election.
+
+Elections Commissioner General Saman Sri Ratnayake said that the issuance of ballot boxes was opened this morning.
+
+At about 12 noon, all polling stations will be reached to all polling centers.
+
+It is also planned to conduct a rehearsal today.
+
+Voting will be held from 7 am to 4 pm tomorrow (21).
+
+Of the 71 lakh voter turnover, will vote in 13,421 polling centers island wide.
+
+◼️
+
+[Data](articles/ad2eeccf.json)
+
+[Extended Data](ext_articles/ad2eeccf.ext.json)
+
+---
+
+### Sri Lanka women's group named Sri Lanka's World Cup
+
+*2024-09-20 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201223) · `si`
+
+Sri Lanka women's cricket team named for ICC T20 World Cup in UAE. Team leaves Oct 23. Chamari Athapaththu leads squad. Tournament runs Oct 3-20.
+
+🟩
+
+ICC to be held in the United Arabic Emirates. Sri Lanka women's cricket teams participated in the Twenty20 Women's World Cup were named today (20).
+
+This year's World Cup will be held from October 3 to 20. The Sri Lanka team is due to leave for the United Arab Emirates in the 23rd of this month.
+
+Chamari Atapattu (Lead), Harunami Gunaratra, Uduni Prabhanic, Udakini Prabasy, Sagini Prabasy, Sugandana, Sugandana, Sugandana, Sugandana Kumari
+
+◼️
+
+[Data](articles/0e13fe4c.json)
+
+[Extended Data](ext_articles/0e13fe4c.ext.json)
+
+---
 
 ### All arrangements for the presidential election are fulfilled
 
@@ -603,6 +653,26 @@ This new certification marks a crucial step forward from the previous ISO 27001:
 [Data](articles/93bac0ff.json)
 
 [Extended Data](ext_articles/93bac0ff.ext.json)
+
+---
+
+### ‘The known devil’: Untangling the biased brain
+
+*2024-09-20 05:53:05* · [`dailyftlk`](https://www.ft.lk/columns/The-known-devil-Untangling-the-biased-brain/4-766925) · `en`
+
+A voter might favour a course of action because it aligns with their pre-existing beliefs, and not because it is necessarily the best choice – Pic by Shehan Gunasekara
+
+Birds build nests. Spiders spin intricate webs. Dogs bury bones. The salmon swims upstream. Babies suckle. These are not learned behaviours. They are instincts and reflexive behaviours that we are born with. They are important because they help us adapt to our environment and to survive.
+
+In contrast, ‘learning’ is a change in an organism’s behaviour or thought or knowledge, as a result of experience. Learning involves acquiring knowledge and skills through experience. We have learned when we have changed. But in Sri Lanka, it seems, that we never learn. This is a pithy that is often expressed.
+
+Learning involves complex processes of conscious and unconscious processes. If you have tried to learn a new language or a skill like playing a musical instrument, you will know that learning is not always easy and that outcomes vary.
+
+...
+
+[Data](articles/3dfcd235.json)
+
+[Extended Data](ext_articles/3dfcd235.ext.json)
 
 ---
 
@@ -1212,11 +1282,11 @@ The awardees included Shiran Punchihewa, Indika Igalawithana, and Janithi Perera
 
 SimCentric Technologies enhances information security standards with ISO 27001:2022 Certification
 
+A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
+
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
+...
 
 [Data](articles/de3d0f52.json)
 
@@ -2221,79 +2291,5 @@ Sri Lanka has a larger debt relief to Sri Lanka more than 2024, with the integra
 [Data](articles/ab3e0709.json)
 
 [Extended Data](ext_articles/ab3e0709.ext.json)
-
----
-
-### A romantic couple arrested in a hotel
-
-*2024-09-19 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/194115) · `ta`
-
-Romantic couple arrested in hotel room with drugs. Police seize ice from both suspects. One suspect previously charged by Hiriyala police.
-
-🟩
-
-Yakkala police said that the romantic couple who had been packed with drugs in a room in a hotel in the Belumahara Weliweriya road area have been arrested.
-
-A 32 -year -old man from Kandamulla, Ambakaspitiya and 22 -year -old from Meegaha Kodalla, Avissawella have been arrested.
-
-It has been revealed that the suspect has previously filed a drug charge by Hiriyala police.
-
-The police also seized 260 ml of 250 milligrams of ice from one of the arrested suspects and 3500 milligrams of ice from the other.
-
-◼️
-
-[Data](articles/eb628103.json)
-
-[Extended Data](ext_articles/eb628103.ext.json)
-
----
-
-### National Security Council meets
-
-*2024-09-19 18:23:55* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ආරක්ෂක-කවුන්සිලය-රැස්වෙයි/11-412029) · `si`
-
-National Security Council meeting: President Wickremesinghe chairs discussion on election security, candidate protection, and post-election stability.
-
-🟩
-
-The Presidential Secretariat met at the Presidential Secretariat this morning under the patronage of President Ranil Wickremesinghe.
-
-The discussion was discussed with the security forms of the Presidential Election as an independent and independence and independence.
-
-During the election day, it was discussed at the meeting of the election commission to ensure the safety of the candidates, ensuring the safety of the candidates, ensuring the safety of candidates, issues and voting.
-
-President Ranil Wickremesinghe instructed the Heads of the Security Forces to protect the daily lives of the people in the post election.
-
-◼️
-
-[Data](articles/9590744a.json)
-
-[Extended Data](ext_articles/9590744a.ext.json)
-
----
-
-### New Zealand a strong answer
-
-*2024-09-19 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201207) · `si`
-
-Here's a 200-character summary:
-
-
-
-NZ: 255/4 (Sealand 70*, Williamson 55*); SL: 305 all out. First Test day 1 update.
-
-🟩
-
-New Zealand scored 255 runs for the loss of 4 wickets at the end of the first day of the first Test match between Sri Lanka and New Zealand.
-
-Tom Sealand (70 points) and Kane Williamson (55) recorded for New Zealand.
-
-Sri Lanka scored 305 runs for the loss of their first innings in the first innings.
-
-◼️
-
-[Data](articles/282d5c8f.json)
-
-[Extended Data](ext_articles/282d5c8f.ext.json)
 
 ---

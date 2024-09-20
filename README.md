@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 09:22:26**
+As of **2024-09-20 09:39:04**
 
 ## Newspaper Stats
 
-*Scraped **44,878** Articles*
+*Scraped **44,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,718
 dailyftlk | 2,998
 adalk | 4,147
 dailymirrorlk | 4,733
-adaderanalk | 5,270
+adaderanalk | 5,271
 tamilmirrorlk | 5,876
 virakesarilk | 7,180
 adaderanasinhalalk | 7,687
@@ -26,29 +26,53 @@ adaderanasinhalalk | 7,687
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,875 (100.0%) of 44,878 articles have been extended.
+44,879 (100.0%) of 44,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
 
-### දෙහිවල වෙඩිතැබීමෙන් තුවාල ලැබූ පුද්ගලයා මරුට
+### Suspect wanted for financial fraud arrested at BIA
+
+*2024-09-20 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102091/suspect-wanted-for-financial-fraud-arrested-at-bia) · `en`
+
+A suspect wanted in connection with an investigation has been arrested at the Bandaranaike International Airport (BIA) premises after arriving in Sri Lanka from Dubai.
+
+The Criminal Investigation Department (CID) said the suspect, involved in a financial fraud case, was taken into custody.
+
+The 32-year-old suspect, a resident of Kandy, is accused of defrauding over Rs. 10.8 million while working as a sales representative for a private company.
+
+◼️
+
+[Data](articles/3fe092a4.json)
+
+[Extended Data](ext_articles/3fe092a4.ext.json)
+
+---
+
+### Man killed in shooting in Dehiwala
 
 *2024-09-20 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201221) · `si`
 
-දෙහිවල ප්‍රදේශයේදී අද (20) උදෑසන සිදුකළ වෙඩිතැබීමෙන් තුවාල ලැබූ පුද්ගලයා ජීවිතක්ෂයට පත්වී තිබේ.
+Dehiwala shooting: Man killed, two flee. Victim, 45, died at hospital. Attack linked to drug dealers.
 
-යතුරුපැදියකින් පැමිණි නාඳුනන දෙදෙනෙකු විසින් අද අලුයම 6.40ට පමණ දෙහිවල පොලිස් වසමේ කඩවත පාර, කලුබෝවිල ප්‍රදේශයේදී මෙම වෙඩිතැබීම සිදුකර පළාගොස් තිබුණි.
+🟩
 
-එහිදී තුවාලකරුගේ දකුණු උරහිස අසලට වෙඩි ප්‍රහාර 02ක් එල්ලවී ඇති අතර, ඔහු  කලුබෝවිල රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+The victim was killed in the shooting at the Dehiwala area this morning (20).
 
-තුවාල ලැබූ පුද්ගලයා වයස අවුරුදු 45ක් වන නගර සභා සේවකයෙකු බව සඳහන් ය.
+Two unidentified unidentified unidentified people had fled the shooting at Kabowila Road, Kabowila Road.
 
-මත්ද්‍රව්‍ය ජාවාරම්කරුවන් අතර ගැටුමක ප්‍රතිඵලයක් ලෙස මෙම ප්‍රහාරය සිදුකර ඇති බවට තොරතුරු වාර්තා වෙයි.
+Two shots of the injured personnel were shot dead and died while he was receiving treatment at the Kalubowila Hospital.
+
+The injured person is a 45 year old town.
+
+It is reported that the attack took place as a result of the drug dealers.
 
 ◼️
 
 [Data](articles/a4c00c09.json)
+
+[Extended Data](ext_articles/a4c00c09.ext.json)
 
 ---
 
@@ -112,17 +136,23 @@ The shooting had occurred in front of a residence, with the victim being the int
 
 ---
 
-### பெட்டிகள் விநியோகிக்கும் பணிகள் இன்று
+### Task for distributing boxes today
 
 *2024-09-20 08:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெட்டிகள்-விநியோகிக்கும்-பணிகள்-இன்று/175-344049) · `ta`
 
-ஜனாதிபதித் தேர்தலுக்கான வாக்கு பெட்டிகளையும், அதிகாரிகளையும் வாக்களிப்பு நிலையங்களுக்கு அனுப்பும் நடவடிக்கை இன்று காலை முதல் இடம்பெறும் என மேலதிக தேர்தல்கள் ஆணையாளர் சிவசுப்ரமணியம் அச்சுதன் தெரிவித்துள்ளார்.
+Election preparations underway: Voting boxes and officials dispatched; 1.71 crore eligible voters; Process began this morning.
 
-இந்த தேர்தலுக்காக ஒரு கோடியே 71 லட்சத்து 41,354 பேர் வாக்களிக்கத் தகுதி பெற்றுள்ளனர்.
+🟩
+
+Additional Elections Commissioner Sivasubramaniam Achuthan said that the process of sending the voting boxes and officials to the presidential election will take place from this morning.
+
+One crore 71 lakh 41,354 people are eligible to vote for this election.
 
 ◼️
 
 [Data](articles/64c2754f.json)
+
+[Extended Data](ext_articles/64c2754f.ext.json)
 
 ---
 
@@ -1828,23 +1858,27 @@ According to the country's election rules, a candidate must win more than 50% of
 
 ---
 
-### ආයතන තුනකින් රු. ට්‍රිලියන 3.7ක බදු ඉලක්කයක්
+### In three institutions, Rs. A Taxography of 3.7 trillion
 
 *2024-09-19 18:50:45* · [`adalk`](https://www.ada.lk/breaking_news/ආයතන-තුනකින්-රු--ට්‍රිලියන-3-7ක-බදු-ඉලක්කයක්/11-412032) · `si`
 
-මෙම වසරේ දේශීය ආදායම් දෙපාර්තමේන්තුව, ශ්‍රී ලංකා රේගුව සහ ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් ඇස්සතමේන්තු ගත බදු ආදායම රුපියල් බිලියන 3,789ක් රජය විසින් බලාපොරොත්තු වන බව පාර්ලිමේන්තුවේදී අනාවරණය විය.
+The Inland Revenue Department, Department of Inland Revenue, Sri Lanka Customs and the Sri Lanka Excise Department (SLAST) is revealed by the government.
 
-එහිදී දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් රුපියල් බිලියන 2024ක්ද, ශ්‍රී ලංකා රේගුවෙන් රුපියල් බිලියන 1,533ක්ද සහ ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් රුපියල් බිලියන 232ක් ලෙස මෙම වසරේ ආදායම ඇස්තමේන්තු කර ඇත.
+The income of Rs.
 
-මේ අතර 2023 වසරේදී දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් ඇස්තමේන්තුගත ආදායම රුපියල් බිලියන 1,667ක් බලාපොරොත්තු වුවද එම වසරේදී රුපියල් බිලියන 1550ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව තිබේ.
+In the year 2023, the estimated income of the Department of Inland Revenue was expected to Rs. 1550 billion in the year.
 
-ශ්‍රී ලංකා රේගුවේන් 2023 වසරේදී ඇස්තමේන්තුගත ආදායම රුපියල් බිලියන 1,220ක් බලාපොරොත්තු වුවද එම වසරේදී රුපියල් බිලියන 974ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව ඇත.
+The estimated income expected of 1,220 billion rupees at 2023, but Rs.
 
-මීට අමතරව ශ්‍රී ලංකා සුරා බදු දෙපාර්තමේන්තුවෙන් 2023 වසරේදී රුපියල් බිලියන 217ක් ලෙස ඇස්සමේන්තුගත ආදායමක් රජය බලාපොරොත්තු වුවද බදු ලෙස එම වසරේදී රුපියල් බිලියන 171.2ක් පමණක් බදු ආදායම ලෙස එකතු කර ගැනීමට හැකිව තිබේ.
+The Government of Sri Lanka Excise, the Government of Sri Lanka (SLTB) is expected to be a 137 billion rupees as taxes that Rs 171.2 billion in the same year.
 
-...
+The Select Committee presented to Parliament by the Chairman of the Committee and the Chairman of the Committee Patali Champika Ranawaka, which was presented to parliament.
+
+◼️
 
 [Data](articles/9a7e8c84.json)
+
+[Extended Data](ext_articles/9a7e8c84.ext.json)
 
 ---
 
@@ -2277,33 +2311,5 @@ The Presidential Media Unit strosizes the financial stability of the country thr
 [Data](articles/2addc569.json)
 
 [Extended Data](ext_articles/2addc569.ext.json)
-
----
-
-### 6,750 officers for election duties in Batticaloa district - Election Commissioner MPM Subiyan
-
-*2024-09-19 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194110) · `ta`
-
-Batticaloa district election preparations: 6,750 officials deployed, 1,514 police on duty. Voting centers set up at Hindu Colleges from Friday morning. Unregistered voters advised to obtain cards at post offices.
-
-🟩
-
-This time, 6,750 government officials are on the election for election obligations and votes in the Batticaloa district.
-
-He was speaking at a media briefing on Thursday (19).
-
-Voting Station at the Mantheevu Hospital in Batticaloa in the past. This is the lowest voting center in Sri Lanka.
-
-Voting for the upcoming presidential election will be distributed from the Hindu Colleges in Batticaloa, which is the Batticaloa election center from 7:00 am on Friday (20).
-
-This time, 6,750 government officials are on the election for election obligations and votes in the Batticaloa district.
-
-A total of 1,514 policemen, including a total of 1,514 police in the district, are on duty.We are asking voters who have not yet received voter cards to go directly to the post offices and obtain the voter card.
-
-◼️
-
-[Data](articles/b69efadf.json)
-
-[Extended Data](ext_articles/b69efadf.ext.json)
 
 ---

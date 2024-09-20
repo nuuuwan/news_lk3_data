@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 10:10:39**
+As of **2024-09-20 10:22:29**
 
 ## Newspaper Stats
 
-*Scraped **44,884** Articles*
+*Scraped **44,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,90 @@ adalk | 4,148
 dailymirrorlk | 4,733
 adaderanalk | 5,272
 tamilmirrorlk | 5,876
-virakesarilk | 7,180
-adaderanasinhalalk | 7,687
+virakesarilk | 7,182
+adaderanasinhalalk | 7,688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,884 (100.0%) of 44,884 articles have been extended.
+44,887 (100.0%) of 44,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Two suspects arrested for murder of Midamigama
+
+*2024-09-20 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201222) · `si`
+
+Two suspects, ages 30 and 38, arrested for murder and heroin possession in Midamigama. Residents of Angulugaha and Kotte. Handed to Midigama Police for investigation regarding Gavipavana Bridge incident.
+
+🟩
+
+Two suspects were arrested with heroin in connection with heroin.
+
+The two suspects were residents of Angulugaha and Kotte areas aged 30 and 38 years old.
+
+Accordingly, the arrested persons were handed over to the Midigama Police Station for further investigations.
+
+It is said that the police are able to doubt the suspects in connection with the victim in the Gavivapana Bridge.
+
+◼️
+
+[Data](articles/be2b77bd.json)
+
+[Extended Data](ext_articles/be2b77bd.ext.json)
+
+---
+
+### High positions of the Group for the appointment of the Sri Lankan Ambassador to Kuwait Kingdom
+
+*2024-09-20 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194154) · `ta`
+
+Sri Lanka appoints LP Ratnayaka as Ambassador to Kuwait. Recommendation made by High Commission group. Meeting attended by Speaker Mahinda Yapa Abeywardena and committee members.
+
+🟩
+
+The Group of High Commission on Thursday (18) has been given a recommendation for the appointment of the Sri Lankan Ambassador to Kuwait Kingdom on Thursday (18).
+
+Accordingly, the Group of High positions has recommended the name of LP Ratnayaka as the Ambassador to the Kingdom of Kuwait.
+
+Vidura Wickramanayaka, Members of the Committee, Vidura Wickramanayake, Sudarshini Fernandanpulle and Udaya Kammanpila were present at the Committee meeting chaired by Speaker Mahinda Yapa Abeywardena.
+
+◼️
+
+[Data](articles/c76a329a.json)
+
+[Extended Data](ext_articles/c76a329a.ext.json)
+
+---
+
+### 9 state officials removed from election duties
+
+*2024-09-20 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/194151) · `ta`
+
+9 state officials removed from election duties in Hambantota district due to allegations of bias towards presidential candidates. Investigation led to removal of 9 out of 19 officers. Vacancies filled promptly.
+
+🟩
+
+Nine state officials from the Hambantota district have been removed from the election duties, said District Elections Officer MP Sumanasekara.
+
+They have been sacked from election duties on the allegation that they have acted in favor of the presidential candidates.
+
+The Center to resolve the Hambantota district election disputes has received complaints that the Presidential candidates, including 9 Principals, one Deputy Chancellor, Four Teachers, Public Health Inspector, Samurdhi Manager and three doctors, were acting in favor of the presidential candidates.
+
+Following the investigation, nine out of 19 officers have been sacked from election duties.
+
+District Election Officer Sumanasekera said that the vacancies of those who have been deleted from the duties have already been filled.
+
+◼️
+
+[Data](articles/a5b0f5a3.json)
+
+[Extended Data](ext_articles/a5b0f5a3.ext.json)
+
+---
 
 ### Suspect wanted for financial fraud arrested at BIA
 
@@ -2219,73 +2291,5 @@ In addition, President Ranil Wickremesinghe has directed the security forces to 
 [Data](articles/ee229c47.json)
 
 [Extended Data](ext_articles/ee229c47.ext.json)
-
----
-
-### This is how the winner of the presidential election is declared
-
-*2024-09-19 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201206) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Election winner declared after counting postal votes. Candidates need 50%+1 vote to win. If no candidate reaches threshold, preferential votes count. Results announced once all votes tallied.
-
-🟩
-
-After the officers and other requirements are completed. Elections Commission President of Elections. M. A. L. Says Mr. Ratnayake.
-
-Speaking at a press conference held at the Government Information Department regarding the presidential election, Mr. Ratnayake further stated that the counting of postal votes. It has been taken to commence around 4.15.
-
-...
-
-[Data](articles/878e2fe2.json)
-
-[Extended Data](ext_articles/878e2fe2.ext.json)
-
----
-
-### Sri Lanka Police make request to voters visiting polling stations
-
-*2024-09-19 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102084/sri-lanka-police-make-request-to-voters-visiting-polling-stations-) · `en`
-
-Sri Lanka Police has informed the voters regarding the items that are not permitted at polling stations when they visit to cast their votes.
-
-Joining the “Derana Aruna” program today (19), Police Media Spokesman DIG Nihal Talduwa explained the responsibility of voters when they go to cast their votes.
-
-He stated that they have observed some individuals consume alcohol from the morning and then struggle to enter the polling station where they are unable to make a proper decision.
-
-DIG Nihal Thalduwa further emphasised that the voters should behave in a manner that does not disrupt the voting process.
-
-“If someone arrives intoxicated to that place, the police will have to remove them from the premises”, he added.
-
-Thalduwa also noted instances where people attempt to enter polling stations with objects such as sharp weapons, small knives etc. or mobile phones.
-
-...
-
-[Data](articles/b3a8e89f.json)
-
-[Extended Data](ext_articles/b3a8e89f.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 304.50/80, bond yields steady
-
-*2024-09-19 17:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-304-50-80-bond-yields-steady-180053/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 304.50/80 to the US dollar on Thursday, from 303.75/85 on Wednesday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 01.05.2027 closed at 13.00/10 percent, down from 13.00/15 percent.
-
-A bond maturing on 15.02.2028 closed at 13.65/80 percent, down from 13.70/80 percent.
-
-A bond maturing on 15.06.2029 closed at 13.82/90 percent, up from 13.80/90 percent. (Colombo/Sep19/2024)
-
-◼️
-
-[Data](articles/324efda7.json)
-
-[Extended Data](ext_articles/324efda7.ext.json)
 
 ---

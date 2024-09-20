@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 10:38:07**
+As of **2024-09-20 10:56:54**
 
 ## Newspaper Stats
 
-*Scraped **44,887** Articles*
+*Scraped **44,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,718
 dailyftlk | 2,998
-adalk | 4,148
+adalk | 4,150
 dailymirrorlk | 4,733
 adaderanalk | 5,272
 tamilmirrorlk | 5,876
@@ -26,11 +26,37 @@ adaderanasinhalalk | 7,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,887 (100.0%) of 44,887 articles have been extended.
+44,889 (100.0%) of 44,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Basil goes to America
+
+*2024-09-20 10:26:13* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-ඇමෙරිකාවට-යයි/11-412043) · `si`
+
+Basil travels to America. He uses Gold Route terminal at Bandaranaike Airport, paying $206. Leaves Katunayake Airport at 3:05 AM on September 5th.
+
+🟩
+
+The officer in charge of the airport was leaving the Kandyst of Sri Lanka, the Founder of the Sri Lanka Filling Filling.
+
+Emirates Airlines have left the Emirates Airport at 03.05 am on the morning of the 9.05am.
+
+He paid US $ 206 to access the aircraft and had also obtained the facility of the "Gold Route terminal at the Bandaranaike International Airport.
+
+Under this facility, all clearances, such as the airport, such as Customs and Immigration and Emigration, will come to the terminal.
+
+Sources from Katunayake Airlines said that he has always been used to leave the US to the US to go to the US to the United States.
+
+◼️
+
+[Data](articles/66d09f80.json)
+
+[Extended Data](ext_articles/66d09f80.ext.json)
+
+---
 
 ### Two suspects arrested for murder of Midamigama
 
@@ -1914,6 +1940,28 @@ Sri Lanka has reached a policy compliance with the Chinese Development Bank (CDB
 
 ---
 
+### A half-hick surplus of Rs
+
+*2024-09-19 19:10:00* · [`adalk`](https://www.ada.lk/breaking_news/වසර-ගණනාවකට-පසු-ටොන්-ලක්ෂ-7-2ක-සහල්-අතිරික්තයක්/11-412035) · `si`
+
+Sri Lanka's rice surplus: 5.8 MT paddy harvested, exceeding 3 million metric tons. Annual requirement: 2.4 million metric tons. Import unnecessary this year, says Minister Mahinda Amaraweera.
+
+🟩
+
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that the import of rice is no longer necessary in this year.
+
+The Minister pointed out to 5.8 MT of paddy tonnes of 2.6 million tonnes of 2.6 million tonnes of 2.6 million tonnes of 2.6 million tonnes of Rs.There is. Accordingly, the amount of rice produced is exceeding 3 million metric tons.
+
+According to the Ministry's records, the harvest of paddy has been recorded in other Yala season 1.6 million metric tons or 2 million metric tons.The monthly rice requirement of the country is Rs. 200,000 and the annual rice requirement of about 2.4 million metric tons.
+
+◼️
+
+[Data](articles/95abea42.json)
+
+[Extended Data](ext_articles/95abea42.ext.json)
+
+---
+
 ### 22 -year -old man killed in accident
 
 *2024-09-19 19:07:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-22-வயது-இளைஞன்-பலி/175-344030) · `ta`
@@ -2243,53 +2291,5 @@ Semasinghe tweeted Thursday September 19 afternoon that the ISB agreement was re
 [Data](articles/c21103ac.json)
 
 [Extended Data](ext_articles/c21103ac.ext.json)
-
----
-
-### Sri Lanka stocks close up, banking shares gain
-
-*2024-09-19 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-shares-gain-180059/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 0.54 percent, or 58.33 points, at 10,884; while the more liquid S&P SL20 Index closed up 0.81 percent, or 24.63 points, at 3,061.
-
-Bank stocks contributed the most (Rs5514mn) to the turnover, and most banks shares closed up.
-
-Top turnover generators were HNB, Commercial Bank, Sampath Bank (down at 72.20), NTB, and Pan Asia Bank (up at 19.40).
-
-Three crossings took place on Nations Trust Bank (up at 114.25), Hatton National Bank (up at 164.25), and Lanka Aluminium Industries (up at 22.50).
-
-Foreign buying was seen in Dipped Products (up at 34.00), Commercial Credit and Finance (up at 31.80), Richard Pieris and Company (flat at 20.50), Browns Investments (up at 5.30), HNB, and Hemas Holdings (up at 72.80).
-
-...
-
-[Data](articles/5b5a9929.json)
-
-[Extended Data](ext_articles/5b5a9929.ext.json)
-
----
-
-### The National Security Council is headed by the President
-
-*2024-09-19 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194120) · `ta`
-
-National Security Council meeting: Free & fair 2024 election, law enforcement, candidate safety, polling booth security, Election Commission cooperation, maintaining public order post-election.
-
-🟩
-
-The National Security Council met on Thursday morning (19) at the Presidential Office headed by President Ranil Wickremesinghe.
-
-It was discussed that the upcoming 2024 presidential election was held freely and fairly necessary.
-
-It was also investigated to uphold law and order in the country, ensure the safety of candidates, strengthen the polling booths and voting centers and cooperation with the Election Commission.
-
-In addition, President Ranil Wickremesinghe has directed the security forces to take all necessary steps to uphold law and order in the country so that the people's daily lives are not disrupted during the post -election period.
-
-◼️
-
-[Data](articles/ee229c47.json)
-
-[Extended Data](ext_articles/ee229c47.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 03:38:18**
+As of **2024-09-21 03:57:00**
 
 ## Newspaper Stats
 
-*Scraped **45,001** Articles*
+*Scraped **45,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,162 @@ adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,286
 tamilmirrorlk | 5,894
-virakesarilk | 7,202
+virakesarilk | 7,208
 adaderanasinhalalk | 7,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,001 (100.0%) of 45,001 articles have been extended.
+45,007 (100.0%) of 45,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Security measures have been strengthened;Provide collaboration to the rules of order -request to the public
+
+*2024-09-21 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194222) · `ta`
+
+Security measures enhanced for presidential election: 63k police deployed, 3k soldiers, 12k civil security forces. Road restrictions on 269 routes. Public cooperation requested. Legal action against violators.
+
+🟩
+
+Security measures have been strengthened to ahead of the presidential election. "We are asking the public not to act contrary to the law and law and regulations," said police media spokesman and Deputy Inspector General of Police Nihal Talduwa.
+
+More than 63 thousand policemen have been deployed on duty to mark the presidential election. Over 3083 police mobile service centers have been established across the country and 12,400 police officers have been deployed for this purpose.
+
+Special road restrictions have been set up on 269 roads today (Saturday), tomorrow and (Sunday). Its number may increase if demand is occurred. For this purpose, the police and the Special Task Force will be hired. The security forces who are on duty have been requested to provide public cooperation.
+
+Armed forces are involved in identified areas that threaten national security. Special protection has been provided to some places during the election period.
+
+...
+
+[Data](articles/72a7692e.json)
+
+[Extended Data](ext_articles/72a7692e.ext.json)
+
+---
+
+### European Union Short Superintendents - Starting Surveillance in All Electoral constituencies - Today
+
+*2024-09-21 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194221) · `ta`
+
+EU Election Monitoring: 32 observers deployed nationwide. Focus on post-campaign activities and election processes. Aim to ensure transparency and independence in the upcoming presidential election.
+
+🟩
+
+32 women members of the European Union Election Monitoring Committee have been sent to all electoral districts of the country on Thursday (19) and their widespread surveillance has been carried out in the aftermath of the election since the end of the election.
+
+As the country's ninth presidential election is scheduled for Saturday (21), the Election Commission has issued an official invitation to the EU to carry out election monitoring as usual.
+
+The European Union, led by the European Union, European Parliamentarian, Naco Sanses Amher, was headed by a Deputy Superintendent of Elections and Nine Electoral Experts, a special committee, a group of 26 long -term monitors and a group of 32 short -term supervisors.
+
+...
+
+[Data](articles/6c8901b5.json)
+
+[Extended Data](ext_articles/6c8901b5.ext.json)
+
+---
+
+### 8th presidential election today
+
+*2024-09-21 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194220) · `ta`
+
+Sri Lanka's 8th presidential election summary: 38 candidates, 17 million eligible voters, 13,421 polling stations, 63,000 police deployed. Voting from 7am to 4pm on Saturday. Citizens urged to cooperate for fair elections.
+
+🟩
+
+The eighth presidential election to elect the ninth president of the country will be held on Saturday (21). With 38 people contesting this time, 17, 140,354 are eligible to vote. The Elections Commission has urged all citizens to cooperate with the election of independently and fairly.
+
+With 13421 voting centers nationwide, about 63 thousand policemen will be deployed for security activities.. The Armed Forces are also ready for security. Two hundred and 25 thousand public officials are on duty for election work.
+
+Voting boxes and documents for all electoral constituencies were handed over yesterday morning. In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3151 voting centers in the Colombo Election District.
+
+...
+
+[Data](articles/44cda695.json)
+
+[Extended Data](ext_articles/44cda695.ext.json)
+
+---
+
+### "Parthiban Dileepa! Dileepan is a sacrificial torch !!"Opening of the documentary gallery with the theme
+
+*2024-09-21 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194219) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Dileepan's sacrificial torch ignites history. Documentary opens in Nallur, featuring heroes, ex-militants. Political leaders, civil society attend. Torch lit from Dileepan's main dubbing, marking his legacy."
+
+🟩
+
+The sacrificial torch of Dileepan has taken the history of Dileepan to the future generation, and his history is "Parthiban Dileepan!The documentary with the theme of the theme was opened on Friday (20).
+
+The Sacrifice Deepam Dileepan Memorial in Nallur was opened at 6.30 pm on Friday (20) at 6.30 pm with the participation of Heroes and former militants.
+
+The sacrificial torch began with the flowering of Dileepan's main dubbing, and the historical documentary was launched by the heroes of the heroes.
+
+The parents of the heroes, political leaders, civil society and civilians were present.
+
+◼️
+
+[Data](articles/1b52be85.json)
+
+[Extended Data](ext_articles/1b52be85.ext.json)
+
+---
+
+### Voting Center will be witchcraft if there are adverse events to vote - the Election Commission
+
+*2024-09-21 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/194217) · `ta`
+
+Election Commission warns: Violence at polling stations will disable centers, postpone results. Candidates' reps allowed, others restricted. Civil security deployed. Peaceful voting urged.
+
+🟩
+
+In the event of any incident of violence at polling stations and voting, the polling station will be completely disabled and the voting will be re -voted.. The Commissioner of the Elections Commission said that the election will not be released until then.
+
+He said this while commenting on the presidential election.
+
+Two candidates' representatives are allowed to stay there at all polling stations. Until they can get out of the place until they are voting. Similarly, other representatives cannot go to those stations.Likewise no one should gather near polling stations. I have already reported this.
+
+Similarly, in the event of a vote of voting at the polling station, or if there is a dismantling action, we will take action to deactivate the polling station.
+
+...
+
+[Data](articles/2d2d83cc.json)
+
+[Extended Data](ext_articles/2d2d83cc.ext.json)
+
+---
+
+### All political parties must respect the choice of the people;Should not be accompanied by violence after the election - the National Movement for Social Justice
+
+*2024-09-21 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194218) · `ta`
+
+National Movement for Social Justice urges peaceful elections in Sri Lanka. Political parties should respect voters' choices and avoid post-election violence. The organization aims to create a democratic environment similar to Bangladesh's.
+
+🟩
+
+Efforts to hold elections that are peaceful and non -violent in Sri Lanka. The National Movement for Social Justice, which has pointed out that it will lead to Sri Lanka and Bangladesh like Bangladesh, has urged all political parties to work for the choice of the people.
+
+In a statement issued by the National Movement for Social Justice headed by former Speaker Karu Jayasuriya:
+
+With Sri Lanka's largest presidential election to be held on Saturday (21), people have the opportunity to elect their leader for the next five years.. People have the right to vote independently without any obstacles in this election.
+
+In this context, party leaders still have a strong responsibility than the presidential candidates. Their most important task is to honor people's choice. It will only honor the country's laws and social justice and respect for basic civil standards.
+
+...
+
+[Data](articles/c09d88de.json)
+
+[Extended Data](ext_articles/c09d88de.ext.json)
+
+---
 
 ### How to vote
 
@@ -2197,155 +2341,5 @@ We would like to point out the dedication that Sri Lanka's electoral community h
 [Data](articles/30e4ec9b.json)
 
 [Extended Data](ext_articles/30e4ec9b.ext.json)
-
----
-
-### Two suspects arrested in connection with Midigama shooting
-
-*2024-09-20 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102093/two-suspects-arrested-in-connection-with-midigama-shooting) · `en`
-
-Two suspects have been arrested in connection with the shooting that killed one person and injured two others in the Goviyapana area in the Midigama Police Division yesterday.
-
-The arrests were made during raids in the Digaredda and Hathapelena areas by officers from the Pushparama Sub-Camp of the Police Special Task Force (STF).
-
-The suspects, aged 38 and 30, are residents of Kotte and Angulugaha, respectively. They have been handed over to Midigama Police for further investigation.
-
-During the raid, police also seized 11 grams and 500 milligrams of heroin and a three-wheeler from the suspects’ possession.
-
-It is reported that one of the suspects provided accommodation for the shooters, while the other had arranged a three-wheeler to transport them.
-
-One person was killed while two others were injured in the shooting at Midigama in Matara.
-
-...
-
-[Data](articles/cf434c1f.json)
-
-[Extended Data](ext_articles/cf434c1f.ext.json)
-
----
-
-### Brother life in Jaffna;Sister also attempted to survive
-
-*2024-09-20 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194165) · `ta`
-
-Jaffna tragedy: Brother killed, sister hospitalized after rescue. Young man from Kodikamam makes fatal mistake. Mother of infant sibling treated at Chavakachcheri Hospital.
-
-🟩
-
-The sister has been rescued by relatives and has been admitted to the hospital for treatment in Jaffna's tragedy.
-
-A young man from Kodikamam area made a wrong decision on Wednesday morning.
-
-The mother of a two -month -old child, the sister of the deceased, has been rescued by relatives and has been admitted to the Chavakachcheri Hospital for treatment.
-
-◼️
-
-[Data](articles/c5038244.json)
-
-[Extended Data](ext_articles/c5038244.ext.json)
-
----
-
-### Basil flew to America
-
-*2024-09-20 11:20:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கா-பறந்தார்-பசில்/175-344051) · `ta`
-
-Basil Rajapaksa, SLPP founder, left Sri Lanka for Dubai then US. Paid $206 for flight access. Arrived at Gold Root terminal.
-
-🟩
-
-Basil Rajapaksa, the founder and former minister of the Sri Lanka PA (SLPP), went to Dubai from Bandaranaike International Airport this morning, said the airport duty manager.
-
-He is said to have paid USD 206 to access the aircraft and has been comforted at the 'Gold Root' terminal at the Bandaranaike International Airport.
-
-Airport sources said that Basil Rajapaksa would first go to Dubai and go to the United States.
-
-◼️
-
-[Data](articles/aa50effb.json)
-
-[Extended Data](ext_articles/aa50effb.ext.json)
-
----
-
-### A rehearsal today for the election
-
-*2024-09-20 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201225) · `si`
-
-Rehearsal underway for presidential election. Ballot distribution begins. Polling stations open at noon. Voting scheduled 7am-4pm tomorrow. 71 lakh voters across 13,421 centers island-wide.
-
-🟩
-
-The staff, ballot papers and ballots have begun to hold the presidential election.
-
-Elections Commissioner General Saman Sri Ratnayake said that the issuance of ballot boxes was opened this morning.
-
-At about 12 noon, all polling stations will be reached to all polling centers.
-
-It is also planned to conduct a rehearsal today.
-
-Voting will be held from 7 am to 4 pm tomorrow (21).
-
-Of the 71 lakh voter turnover, will vote in 13,421 polling centers island wide.
-
-◼️
-
-[Data](articles/ad2eeccf.json)
-
-[Extended Data](ext_articles/ad2eeccf.ext.json)
-
----
-
-### In Jaffna
-
-*2024-09-20 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194160) · `ta`
-
-Jaffna: Woman on bike cuts off motorcyclist. Police arrest couple after jewelry shop theft. Ordered to be interrogated by court.
-
-🟩
-
-On the Sanganai Hospital Road, a woman who was traveling in a bicycle, who was on a motorcycle, cut off the motorcycle and tried to flee.
-
-When the police arrested them and carried out investigations, both husband and wife cut off a chain of a person last week in Chunnakam area.. They have also said that a jewelery shop in the city area has been pawned.
-
-After the investigation, the Mallakam Magistrate's Court has ordered the two men to be interrogated.
-
-◼️
-
-[Data](articles/a94e9802.json)
-
-[Extended Data](ext_articles/a94e9802.ext.json)
-
----
-
-### Why were nine government officials removed from election duties?What will happen to them?
-
-*2024-09-20 11:01:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crkd05x34vjo) · `si`
-
-Nine government officials removed from election duties due to complaints. They may face disciplinary action. Election Commission investigates under Establishments Code. Non-staff officers can't engage in politics while working.
-
-🟩
-
-Why were nine government officials removed from election duties?What will happen to them?
-
-The Elections Commission has taken steps to remove the complaints from election duties from election duties.
-
-State officials in the Hambantota electorate have been removed from the election duties and has received complaints regarding further officials.. Sumanasekera had told the media.
-
-He has said that there are teachers and principals among the officers who removed from such duties.
-
-BBC Sinhala Service Chairman of the Election Commission (SLC). Ratnayake was inquiries.
-
-The Chairman said that the election commission could be done only to remove them from election duties.
-
-"These are not taking investigations or action through the Election Commission. These people are conducting an investigation through the institutions that work. "
-
-The Chairman said that investigations are conducted by the officers of the Establishments Code.
-
-...
-
-[Data](articles/7ece5370.json)
-
-[Extended Data](ext_articles/7ece5370.ext.json)
 
 ---

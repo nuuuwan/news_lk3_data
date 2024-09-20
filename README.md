@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 19:22:34**
+As of **2024-09-20 19:38:27**
 
 ## Newspaper Stats
 
-*Scraped **44,958** Articles*
+*Scraped **44,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,890
 virakesarilk | 7,198
-adaderanasinhalalk | 7,705
+adaderanasinhalalk | 7,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,958 (100.0%) of 44,958 articles have been extended.
+44,959 (100.0%) of 44,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Several scholarship question paper and three Whatapps work
+
+*2024-09-20 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201244) · `si`
+
+Scholarship exam controversy: Wissa Vidyalaya banned, exam papers leaked, protests against Department of Examinations. Cut-off marks for university admissions released.
+
+🟩
+
+It is reported that the recommendations have been made to ban the Wissa Vidyalaya, which served and another teacher who worked at the Examination of Ratmalai Tissama Vidyalaya in Anuradhapura regarding the distribution of the scholarship examination.
+
+The recommendations were made by the Deputy Director of Education in charge of the Provincial Department of Examinations, and the Provincial Education Director has approved the implementation of the recommendations and has been sent to the Provincial Education Secretary.
+
+Meanwhile, the Secretary to the Ministry of Education Thilaka Jayasundara says that the exam papers have been exited the Grade 5 Scholarship Examination.
+
+At a press conference held in Colombo today, she said that the answer sheet of the examination has been temporarily suspended until the final decision has been reached.
+
+At 2,849 children, 323,7879 children appeared for the Grade 5 scholarship examination held on the 15th of September.
+
+...
+
+[Data](articles/30820f5e.json)
+
+[Extended Data](ext_articles/30820f5e.ext.json)
+
+---
 
 ### Considering the passage of the resolution on Sri Lanka with a referendum or vote;The final draft will be submitted in the first week of October
 
@@ -2325,21 +2351,5 @@ Realising the existing potential in the Chinese market, a number of trade promot
 [Data](articles/e4ef9270.json)
 
 [Extended Data](ext_articles/e4ef9270.ext.json)
-
----
-
-### BOI discusses strategic investments in key sectors to drive economic recovery
-
-*2024-09-20 05:16:38* · [`dailyftlk`](https://www.ft.lk/business/BOI-discusses-strategic-investments-in-key-sectors-to-drive-economic-recovery/34-766915) · `en`
-
-The Board of Investments of Sri Lanka (BOI) has recently successfully hosted an investor roundtable titled ‘Supporting Sri Lanka’s Recovery Through Resource Commitment’.
-
-The event held at the Ministry of Investment Promotion brought together prominent Sri Lankan and Indian investors and industry leaders to explore strategic investment opportunities aimed at supporting Sri Lanka’s economic recovery.
-
-...
-
-[Data](articles/9caf1163.json)
-
-[Extended Data](ext_articles/9caf1163.ext.json)
 
 ---

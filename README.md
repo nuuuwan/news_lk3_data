@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 16:11:00**
+As of **2024-09-20 16:22:33**
 
 ## Newspaper Stats
 
-*Scraped **44,931** Articles*
+*Scraped **44,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,154
 dailymirrorlk | 4,733
 adaderanalk | 5,278
 tamilmirrorlk | 5,887
-virakesarilk | 7,190
+virakesarilk | 7,193
 adaderanasinhalalk | 7,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,931 (100.0%) of 44,931 articles have been extended.
+44,934 (100.0%) of 44,934 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,28 @@ The car that crashed into the bus ran away. Seven passengers who were injured in
 [Data](articles/365244ce.json)
 
 [Extended Data](ext_articles/365244ce.ext.json)
+
+---
+
+### Sri Jayawardenapura University Opening Tuesday
+
+*2024-09-20 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194192) · `ta`
+
+Sri Jayawardenapura University reopening: Classes resume Tuesday; students return to hostels Monday after temporary closure due to group conflict.
+
+🟩
+
+Vice Chancellor Professor Padmalal M Manej said that the University of Sri Jayawardenapura will be reopened on Tuesday (24) for educational activities.
+
+Thus, Professor Padmalal M Manej said that all students would come to their hostels on Monday (23).
+
+The university was temporarily closed from 6.00 pm on the 12th following a clash between the two groups.
+
+◼️
+
+[Data](articles/1152f911.json)
+
+[Extended Data](ext_articles/1152f911.ext.json)
 
 ---
 
@@ -114,6 +136,32 @@ The murderer in the Badovita area and yesterday (19) were observed that there wa
 
 ---
 
+### Authorization for the financial source for the 32 thousand home project
+
+*2024-09-20 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194184) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Sun Power Group constructs 32,000 homes in Northern Province. Funded by Australian bank. Each house costs Rs 50 lakh. Solar Park built for Housing Scheme. IMF receives Sri Lanka loan certificate. Project nearing completion."
+
+🟩
+
+The funds for the 32 thousand housing project planned to be constructed in the Northern Province have been approved.
+
+The Sun Power Group in the Northern Province has been recognized for the construction of 32 thousand homes planned to be constructed. The project will be funded by a bank -based bank in Australia. These houses will be constructed for free beneficiaries at a cost of Rs 50 lakh each.
+
+The Solar Park (Solar Park) will be constructed by the Sun Power Group, which is to be implemented by the Housing Scheme.. A complete land for this has to be released.Meanwhile, the International Monetary Fund will receive a certificate of Sri Lankan loan release. As these two activities have reached its final stage, the free housing project will be carried out.
+
+...
+
+[Data](articles/3eff8db6.json)
+
+[Extended Data](ext_articles/3eff8db6.ext.json)
+
+---
+
 ### Santantha Mudalige Petition to Supreme Court
 
 *2024-09-20 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201233) · `si`
@@ -139,6 +187,28 @@ As a result, the petition has shown that US $ 16.4 billion has been increased to
 [Data](articles/b9580714.json)
 
 [Extended Data](ext_articles/b9580714.ext.json)
+
+---
+
+### The death of the baby in Jaffna 12 days
+
+*2024-09-20 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194190) · `ta`
+
+Baby dies 12 days after birth at Jaffna hospital. Inquiry underway. Anatomical exam ordered.
+
+🟩
+
+A baby boy was born at the Jaffna Bodhana Hospital on the 31st of last month for couples from Kopay North.
+
+The birth of a newborn was under surveillance at the Jaffna Hospital on Thursday morning.
+
+Jaffna Bodhana Hospital Sudden Death Investigation Officer Namasivayam Premakumar held an inquiry on Thursday and ordered an anatomical examination.
+
+◼️
+
+[Data](articles/31876e52.json)
+
+[Extended Data](ext_articles/31876e52.ext.json)
 
 ---
 
@@ -282,6 +352,30 @@ According to Katunayake airport, the Katunayake Airport was also planning to go 
 
 ---
 
+### Can the 5th grade scholarship exam be held again?- Secretary of the Ministry of Education
+
+*2024-09-20 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/194180) · `ta`
+
+Secretary Tilaka Jayasundara: If leakage confirmed, Grade 5 scholarship exam will be retaken. Investigation ongoing after exam on 15th.
+
+🟩
+
+Tilaka Jayasundara, Secretary to the Ministry of Education, said that if the inquiry revealed that the Grade 5 scholarship examination had been leaked, arrangements would be made to re -conduct the exam.
+
+He was speaking to the media today (20).
+
+Grade 5 Scholarship Examination was held on the 15th. The Department of Examinations conducted an investigation after reports were reported that the questionnaire was leaked.
+
+The Criminal Investigation Department is currently carrying out investigations with the first investigation report.
+
+◼️
+
+[Data](articles/80669724.json)
+
+[Extended Data](ext_articles/80669724.ext.json)
+
+---
+
 ### YouTube channel freeze
 
 *2024-09-20 13:45:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூப்-சேனல்-முடக்கம்/175-344058) · `ta`
@@ -351,32 +445,6 @@ The EU monitors were engaged in monitoring the distribution of voting boxes at t
 [Data](articles/f0c7bfe4.json)
 
 [Extended Data](ext_articles/f0c7bfe4.ext.json)
-
----
-
-### Authorization for the financial source for the 32 thousand home project
-
-*2024-09-20 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/194184) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Sun Power Group constructs 32,000 homes in Northern Province. Funded by Australian bank. Each house costs Rs 50 lakh. Solar Park built for Housing Scheme. IMF receives Sri Lanka loan certificate. Project nearing completion."
-
-🟩
-
-The funds for the 32 thousand housing project planned to be constructed in the Northern Province have been approved.
-
-The Sun Power Group in the Northern Province has been recognized for the construction of 32 thousand homes planned to be constructed. The project will be funded by a bank -based bank in Australia. These houses will be constructed for free beneficiaries at a cost of Rs 50 lakh each.
-
-The Solar Park (Solar Park) will be constructed by the Sun Power Group, which is to be implemented by the Housing Scheme.. A complete land for this has to be released.Meanwhile, the International Monetary Fund will receive a certificate of Sri Lankan loan release. As these two activities have reached its final stage, the free housing project will be carried out.
-
-...
-
-[Data](articles/3eff8db6.json)
-
-[Extended Data](ext_articles/3eff8db6.ext.json)
 
 ---
 
@@ -2215,61 +2283,5 @@ Turnover stood at Rs 1.2 billion with three crossings. Those crossings were repo
 [Data](articles/390422fd.json)
 
 [Extended Data](ext_articles/390422fd.ext.json)
-
----
-
-### Solar Power Scheme for 1124 schools
-
-*2024-09-20 01:41:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1124-பாடசாலைகளுக்கு-சூரிய-மின்சக்தி-திட்டம்/175-344038) · `ta`
-
-Governor Senthil Thondaman launches solar power scheme for 1124 schools in Eastern Province. Initially, 348 schools in Trincomalee receive panels. Project aims to provide renewable energy to educational institutions across the region. Parents, teachers, and students express gratitude for the initiative.
-
-🟩
-
-Solar Panel was given to 348 schools in Trincomalee for the first time due to the efforts of Governor of the Eastern Province Senthil Thondaman.
-
-The Governor of the Eastern Province launched the solar power project in 1124 schools in the Eastern Province after the notice of Governor Senthil Thondaman was brought to the notice of various schools in the Eastern Province in the past.. In the first phase, the Solar Panel was given to 342 schools by the Governor.
-
-Parents, including school principals, teachers and students, thanked Governor Senthil Thondaman who started the project.
-
-◼️
-
-[Data](articles/f9cd8d60.json)
-
-[Extended Data](ext_articles/f9cd8d60.ext.json)
-
----
-
-### Fentons Smart Facilities enhances service excellence by joining IWFM
-
-*2024-09-20 01:37:00* · [`islandlk`](http://island.lk/fentons-smart-facilities-enhances-service-excellence-by-joining-iwfm/) · `en`
-
-Fentons Smart Facilities (FSF), the sole facility management service provider in Sri Lanka to receive ISO 41001:2018 Facility Management System certification, is excited to announce its corporate membership in the Institute of Workplace and Facilities Management (IWFM).
-
-Hasith Prematillake, Managing Director of Hayleys Fentons, says, “This new affiliation with IWFM, an internationally renowned professional body, signifies an exciting phase of growth and opportunity and emphasises our commitment to keeping up with industry standards and best practices. We look forward to leveraging IWFM’s resources to further enhance our service offering and deliver unparalleled value to our clients.”
-
-...
-
-[Data](articles/eecef630.json)
-
-[Extended Data](ext_articles/eecef630.ext.json)
-
----
-
-### Mahogany Masterpieces launches new designs
-
-*2024-09-20 01:36:00* · [`islandlk`](http://island.lk/mahogany-masterpieces-launches-new-designs/) · `en`
-
-Mahogany Masterpieces, Sri Lanka’s leading manufacturer of handcrafted luxury furniture, is proudly celebrating its 50th anniversary, showcasing its dedication to design and innovation.
-
-To commemorate this significant milestone, the company has introduced a new furniture collection that sets industry trends while aligning with contemporary design aesthetics. Additionally, Mahogany Masterpieces has launched an exclusive line of artisanal giftware, featuring branded watch boxes, jewelry boxes, trays, and coasters, further enhancing its offerings for valued customers.
-
-Reflecting on the company’s 50-year journey, Managing Director Kishan Gooneratne shared, “Mahogany Masterpieces was established in 1974 by my father and his brothers under the name Craft Supplies. Although my father initially lacked formal training in the industry, his passion for timber led to our first major success with an order for barrel-shaped wooden buttons for another iconic Sri Lankan brand Barefoot.
-
-...
-
-[Data](articles/e6b15553.json)
-
-[Extended Data](ext_articles/e6b15553.ext.json)
 
 ---

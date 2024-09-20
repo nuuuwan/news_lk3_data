@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 17:07:54**
+As of **2024-09-20 17:39:06**
 
 ## Newspaper Stats
 
-*Scraped **44,951** Articles*
+*Scraped **44,956** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 437
+bbccomsinhala | 438
 colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,724
@@ -19,28 +19,164 @@ adalk | 4,155
 dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,890
-virakesarilk | 7,194
-adaderanasinhalalk | 7,703
+virakesarilk | 7,197
+adaderanasinhalalk | 7,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,948 (100.0%) of 44,951 articles have been extended.
+44,956 (100.0%) of 44,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
 
-### பவித்ராவும், சந்திரசேனவும் நீக்கம்
+### Accident in Mannar big bridge;One injury
+
+*2024-09-20 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194200) · `ta`
+
+Motorcycle crash under Mannar big bridge injures one rider. Rider hospitalized at Mannar District General Hospital. Incident occurred on road beneath bridge.
+
+🟩
+
+The motorcycle has crashed into a ditch on the road under the Mannar big bridge.
+
+It was reported that the man who was driving a motorcycle was injured and admitted to the Mannar District General Hospital.
+
+◼️
+
+[Data](articles/f19b18ac.json)
+
+[Extended Data](ext_articles/f19b18ac.ext.json)
+
+---
+
+### A horrible bus accident
+
+*2024-09-20 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201241) · `si`
+
+Horrible bus accident: Private bus escapes control near Kumbukkana, injures several passengers. Moneragala police investigating incident.
+
+🟩
+
+A private bus traveling from Moneragala to Colombo has accidentally escaped from the Kumbukkana area this evening.
+
+Several people were injured and admitted to the Moneragala district hospital.
+
+The Moneragala Police are conducting further investigations into the accident.
+
+◼️
+
+[Data](articles/74ff725a.json)
+
+[Extended Data](ext_articles/74ff725a.ext.json)
+
+---
+
+### Amban Divisional Hospital is not a patient carriage, no doctor;Patients are suffering!
+
+*2024-09-20 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194194) · `ta`
+
+Amban Divisional Hospital lacks doctors and patient transport. Patients suffer due to inadequate staffing, especially at night. Emergency patients are sent to Pedro Resource Hospital. The hospital's patient carriage is unavailable, causing delays. Employees summon another hospital's patient carriage, resulting in 50-minute waits.
+
+🟩
+
+Patients have been greatly affected by the lack of a patient or doctors at the Vadamarachchi East Amban Divisional Hospital in Jaffna.
+
+Amban Divisional Hospital is the Grade Two Grade Two. Here are two doctors on duty during the day. But at night, none of the doctors do.
+
+It is customary to send an emergency patient to the Pedro Resource Hospital when the hospital is going to the hospital at night.
+
+In the meantime, 19/09/2024 Amban Divisional Hospital has taken a girl from Nagercoil area at 8:30 pm.
+
+But there is no patient's carriage of Amban Divisional Hospital. When asked where it is, it is reported that the Pedro Base Hospital has been given.
+
+In the absence of a doctor, the patient is not a cash cart.
+
+However, the employees of the Amban Divisional Hospital have summoned the Maradangani Divisional Hospital Patient Cota Cota. This has delayed up to 50 minutes.
+
+◼️
+
+[Data](articles/15768ba5.json)
+
+[Extended Data](ext_articles/15768ba5.ext.json)
+
+---
+
+### All arrangements for the presidential election - Mannar District Elections Officer
+
+*2024-09-20 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194202) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Mannar District prepares for presidential election: 98 polling stations set up, 111 officers deployed for security, special arrangements for disabled voters. No election violence reported, only 28 normal law violation complaints addressed.
+
+🟩
+
+Mannar District Government Agent K. Kanageswaran said that all arrangements for the Mannar Election constituency have been made for the 9th Executive Presidential election to be held tomorrow (21st).
+
+He was speaking at a media briefing held at the Mannar District Secretariat at 2.30 pm on Friday (20).
+
+Voting boxes have been completed from the Mannar District Secretariat today (20) to 98 polling stations.. Voting boxes have been sent to all polling stations in the district.
+
+All arrangements have been made for the presidential election to be held in justice and independent. Police and Task Force have been linked to security measures.
+
+64 policemen and 47 Special Task Force (STF) have been recruited for security measures. 11 policemen have been deployed to the complaint unit.
+
+Two policemen have been employed at 98 polling stations. When the voting is over, the voting boxes are taken to the polling station with strong security and the police will be deployed on the road.
+
+...
+
+[Data](articles/3330d54f.json)
+
+[Extended Data](ext_articles/3330d54f.ext.json)
+
+---
+
+### Pavithra and Chandrasena removal
 
 *2024-09-20 16:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பவித்ராவும்-சந்திரசேனவும்-நீக்கம்/175-344064) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவில் இருந்து பவித்ரா வன்னியராச்சி,  எஸ்.எம். சந்திரசேன ஆகியோரும் நீக்கப்பட்டுள்ளனர்.
+Pavithra Wanniyarachchi and Chandrasena removed from Sri Lanka PA. Summary: Two key figures dismissed from political roles.
+
+🟩
+
+Pavithra Wanniyarachchi, SM from Sri Lanka PA. Chandrasena has also been removed.
 
 ◼️
 
 [Data](articles/003189e1.json)
+
+[Extended Data](ext_articles/003189e1.ext.json)
+
+---
+
+### Bore. Two hand grenades recovery in the Vavuniya area
+
+*2024-09-20 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194201) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Explosives seized: 2 grenades & 2 pistols found in Vavuniya. Grenades discovered on private property, pistols recovered during police operations."
+
+🟩
+
+Two handguns have been recovered from the Batticaloa and Vavuniya Police Division, Vavuniya Police said.
+
+It is reported that the bombs have been recovered from the land on Yad Road in the Valawattavan Grama Sevaka Division.
+
+The two hand grenades were found in accordance with public information on Friday (20).
+
+◼️
+
+[Data](articles/fb010ce9.json)
+
+[Extended Data](ext_articles/fb010ce9.ext.json)
 
 ---
 
@@ -56,25 +192,33 @@ The cut-off marks can be viewed through the website, www.ugc.ac.lk.
 
 [Data](articles/cd150804.json)
 
+[Extended Data](ext_articles/cd150804.ext.json)
+
 ---
 
-### அபேகுணவர்தனவை நீங்கியது தாமரை மொட்டு
+### Lotus bud was eliminated
 
 *2024-09-20 16:33:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபேகுணவர்தனவை-நீங்கியது-தாமரை-மொட்டு/175-344063) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன   பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவை   ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்புரிமையிலிருந்தும் தேசிய அழைப்பாளர் பதவியிலிருந்தும் இடைநிறுத்தியுள்ளது.
+Sri Lanka PA suspends Abeygunawardena for supporting rival candidate. Party leader Mahinda Rajapaksa grants permission for suspension from all positions.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் குழுவின் தீர்மானத்திற்கு மாறாக ஜனாதிபதி தேர்தலில் மற்றுமொரு வேட்பாளரை ஆதரித்ததாக கட்சியின் பொதுச் செயலாளர் சாகர காரியவசம், அபேகுணவர்தனவுக்கு எழுதிய கடிதத்தில் தெரிவித்துள்ளார்.
+🟩
 
-அபேகுணவர்தனவை ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் உறுப்புரிமை மற்றும் கட்சியின் ஏனைய அனைத்து பதவிகளில் இருந்தும் இடைநிறுத்துவதற்கு கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷ அனுமதியளித்துள்ளார்.
+Sri Lanka PA has been suspended from the membership of the Sri Lanka Peoples Alliance (PA) and the National Summoner.
+
+In a letter to Abeygunawardena, party general secretary Sakara Kariyawasam said that he supported another candidate in the presidential election, contrary to the decision of the Sri Lanka PA's political committee.
+
+Party leader Mahinda Rajapaksa has granted permission to suspend Abeygunawardena from all other positions of the Sri Lanka PA.
 
 ◼️
 
 [Data](articles/00102376.json)
 
+[Extended Data](ext_articles/00102376.ext.json)
+
 ---
 
-### Sri Lanka voters who mark an ‘X’ cannot place second preference: EC Chief
+### Sri Lanka ballots voted ‘X’ and a number will be rejected: Elections Commission
 
 *2024-09-20 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-voters-who-mark-an-x-cannot-place-second-preference-ec-chief-180202/) · `en`
 
@@ -185,36 +329,6 @@ In this year's presidential election, Ratnapala Silva took the ballot box from t
 [Data](articles/147f3396.json)
 
 [Extended Data](ext_articles/147f3396.ext.json)
-
----
-
-### Amban Divisional Hospital is not a patient carriage, no doctor;Patients are suffering!
-
-*2024-09-20 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/194194) · `ta`
-
-Amban Divisional Hospital lacks doctors and patient transport. Patients suffer due to inadequate staffing, especially at night. Emergency patients are sent to Pedro Resource Hospital. The hospital's patient carriage is unavailable, causing delays. Employees summon another hospital's patient carriage, resulting in 50-minute waits.
-
-🟩
-
-Patients have been greatly affected by the lack of a patient or doctors at the Vadamarachchi East Amban Divisional Hospital in Jaffna.
-
-Amban Divisional Hospital is the Grade Two Grade Two. Here are two doctors on duty during the day. But at night, none of the doctors do.
-
-It is customary to send an emergency patient to the Pedro Resource Hospital when the hospital is going to the hospital at night.
-
-In the meantime, 19/09/2024 Amban Divisional Hospital has taken a girl from Nagercoil area at 8:30 pm.
-
-But there is no patient's carriage of Amban Divisional Hospital. When asked where it is, it is reported that the Pedro Base Hospital has been given.
-
-In the absence of a doctor, the patient is not a cash cart.
-
-However, the employees of the Amban Divisional Hospital have summoned the Maradangani Divisional Hospital Patient Cota Cota. This has delayed up to 50 minutes.
-
-◼️
-
-[Data](articles/15768ba5.json)
-
-[Extended Data](ext_articles/15768ba5.ext.json)
 
 ---
 
@@ -1222,6 +1336,38 @@ After the investigation, the Mallakam Magistrate's Court has ordered the two men
 
 ---
 
+### Why were nine government officials removed from election duties?What will happen to them?
+
+*2024-09-20 11:01:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crkd05x34vjo) · `si`
+
+Nine government officials removed from election duties due to complaints. They may face disciplinary action. Election Commission investigates under Establishments Code. Non-staff officers can't engage in politics while working.
+
+🟩
+
+Why were nine government officials removed from election duties?What will happen to them?
+
+The Elections Commission has taken steps to remove the complaints from election duties from election duties.
+
+State officials in the Hambantota electorate have been removed from the election duties and has received complaints regarding further officials.. Sumanasekera had told the media.
+
+He has said that there are teachers and principals among the officers who removed from such duties.
+
+BBC Sinhala Service Chairman of the Election Commission (SLC). Ratnayake was inquiries.
+
+The Chairman said that the election commission could be done only to remove them from election duties.
+
+"These are not taking investigations or action through the Election Commission. These people are conducting an investigation through the institutions that work. "
+
+The Chairman said that investigations are conducted by the officers of the Establishments Code.
+
+...
+
+[Data](articles/7ece5370.json)
+
+[Extended Data](ext_articles/7ece5370.ext.json)
+
+---
+
 ### Sri Lanka women's group named Sri Lanka's World Cup
 
 *2024-09-20 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201223) · `si`
@@ -2177,87 +2323,5 @@ This elegant gathering was set to provide a unique platform for the members of t
 [Data](articles/7a850f3a.json)
 
 [Extended Data](ext_articles/7a850f3a.ext.json)
-
----
-
-### EU Election Observation Mission to Sri Lanka deploys short-term observers to all districts
-
-*2024-09-20 05:11:41* · [`dailyftlk`](https://www.ft.lk/news/EU-Election-Observation-Mission-to-Sri-Lanka-deploys-short-term-observers-to-all-districts/56-766912) · `en`
-
-The European Union (EU) Election Observation Mission (EOM) yesterday deployed 32 short-term observers to Sri Lanka’s Presidential election covering all electoral districts. These observers will monitor the period of campaign silence, as well as Election Day proceedings, including the opening of polling stations, voting and counting of ballots, as well as the tabulation of results. “The short-term observers who are reinforcing our mission today will visit towns and villages in all nine provinces of Sri Lanka and their observations will be vital for the mission to make a comprehensive, well-informed assessment of this very important Election Day. The presence of our observers in every district counting and tabulation centre underlines our commitment to transparency in the electoral process,” EU EOM Sri Lanka 2024 Deputy Chief Observer Inta Lase said.
-
-...
-
-[Data](articles/8ce12e29.json)
-
-[Extended Data](ext_articles/8ce12e29.ext.json)
-
----
-
-### NMSJ calls for responsible political leadership respecting choice of people
-
-*2024-09-20 05:11:26* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-calls-for-responsible-political-leadership-respecting-choice-of-people/56-766911) · `en`
-
-The National Movement for Social Justice (NMSJ) Chairman and former Speaker of Parliament Karu Jayasuriya in a statement has called for responsible leadership in respecting the choice of the people from all candidates competing at the Presidential election on 21 September as well as party leaders.
-
-“As we approach a crucial Presidential election, the people of Sri Lanka have the opportunity to choose their Head of State for the next five years. Every citizen is entitled to exercise this right freely, without any interference.
-
-In this context, party leaders bear an even greater responsibility than the Presidential candidates themselves. Their foremost duty is to respect the people’s choice. Upholding this decision is not only a matter of adhering to the country’s laws and principles of social justice but also respecting basic moral and civilised standards.
-
-...
-
-[Data](articles/6df9b25b.json)
-
-[Extended Data](ext_articles/6df9b25b.ext.json)
-
----
-
-### National Security Council reviews measures ahead of Presidential poll
-
-*2024-09-20 05:09:16* · [`dailyftlk`](https://www.ft.lk/news/National-Security-Council-reviews-measures-ahead-of-Presidential-poll/56-766910) · `en`
-
-Pledges full support to ensure free, fair, and secure election process
-
-The National Security Council was convened yesterday chaired by President Ranil Wickremesinghe, to discuss security arrangements for tomorrow’s 2024 Presidential election.
-
-The Council focused on ensuring the election is conducted independently and fairly, with full support pledged to the Election Commission to maintain law and order.
-
-Key discussions included safeguarding candidates, securing polling centres, and upholding security at polling stations.
-
-Additionally, President Wickremesinghe directed security agency heads to take all necessary steps to maintain peace and stability in the country during the post-election period, ensuring minimal disruption to the daily lives of citizens.
-
-◼️
-
-[Data](articles/613c5f67.json)
-
-[Extended Data](ext_articles/613c5f67.ext.json)
-
----
-
-### Espionage & Survival: A Book Review Of ‘Spy Tiger: The 05 File’
-
-*2024-09-20 04:10:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/espionage-survival-a-book-review-of-spy-tiger-the-05-file/) · `en`
-
-Spy Tiger: The 05 File, co-written by Kagusthan Ariaratnam and Michael Bramadat-Willcock, offers an intense and eye-opening narrative of Kagusthan’s journey, initially as a forcibly recruited child soldier and later as an informant for the Indian and Sri Lankan governments, throughout the Sri Lankan civil war, one of the most complex and brutal civil wars in recent history. The reader is plunged into the psychological and moral labyrinth of loyalty, betrayal, and survival through his first-person account.
-
-...
-
-[Data](articles/f8ddfd7e.json)
-
-[Extended Data](ext_articles/f8ddfd7e.ext.json)
-
----
-
-### Biodiversity
-
-*2024-09-20 04:03:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/biodiversity/) · `en`
-
-The word biodiversity is gaining both interest and currency worldwide as a result of the Convention on Biological Diversity (CBD), an internationally binding set of agreements ratified by most nations on this planet. The articles of the CBD are legally binding and used today to address many aspects of nature and the role that biodiversity plays in natural processes. Thus it is critical to appreciate the true nature of biodiversity and what role it has in our future.
-
-...
-
-[Data](articles/414d91ca.json)
-
-[Extended Data](ext_articles/414d91ca.ext.json)
 
 ---

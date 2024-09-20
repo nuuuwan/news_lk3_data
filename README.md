@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 16:38:13**
+As of **2024-09-20 16:55:41**
 
 ## Newspaper Stats
 
-*Scraped **44,936** Articles*
+*Scraped **44,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,114 @@ dbsjeyarajcom | 378
 bbccomsinhala | 437
 colombotelegraphcom | 450
 islandlk | 2,645
-economynextcom | 2,718
+economynextcom | 2,724
 dailyftlk | 2,999
-adalk | 4,154
+adalk | 4,155
 dailymirrorlk | 4,733
-adaderanalk | 5,278
+adaderanalk | 5,279
 tamilmirrorlk | 5,888
 virakesarilk | 7,194
-adaderanasinhalalk | 7,699
+adaderanasinhalalk | 7,703
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,936 (100.0%) of 44,936 articles have been extended.
+44,944 (100.0%) of 44,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Sri Lanka voters who mark an ‘X’ cannot place second preference: EC Chief
+
+*2024-09-20 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-voters-who-mark-an-x-cannot-place-second-preference-ec-chief-180202/) · `en`
+
+ECONOMYNEXT – Voters who mark an ‘X’ in front of a candidate cannot vote a second preference, Elections Commission Chairman R M A L Rathnayake said.
+
+“A ballot paper of a person marked ‘X’ and then also place number 2 or 3 will be rejected,” he said.
+
+Electors have to mark numbers 1 and 2 or 3 to show their preference.
+
+A ballot paper with X and a number 1 or 2 or 3 will be rejected.
+
+A ballot paper with number ‘1’ or ‘X’ marked for two or more candidates will be rejected.
+
+If number 2 and 3 only is marked and number ‘1’s is not marked.
+
+Sri Lanka voters who do not have a polling card for whatever reason can vote as long as they know the polling station they are registered and they can prove their identity. (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/e37f6dc8.json)
+
+[Extended Data](ext_articles/e37f6dc8.ext.json)
+
+---
+
+### Grade 5 Scholarship Exam paper marking temporarily halted
+
+*2024-09-20 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102098/grade-5-scholarship-exam-paper-marking-temporarily-halted) · `en`
+
+The Secretary of the Ministry of Education, Thilaka Jayasundara, announced that the paper marking process of the Grade 5 Scholarship Examination, which was held on September 15, has been temporarily suspended.
+
+Speaking at a press conference today (20), she stated, “We do not intend to proceed with the paper marking process, until we receive all the investigation results and make a decision. Until then, activities related to the release of the results have been temporarily suspended.”
+
+An investigation was launched by the Department of Examinations after it was alleged that a question paper from the exam had been leaked. The initial investigation report has been handed over to the Criminal Investigation Department (CID), which is currently conducting further inquiries.
+
+Jayasundara further stated that if it is confirmed that the question paper for the Grade 5 Scholarship Examination was leaked, arrangements will be made to conduct the exam again.
+
+...
+
+[Data](articles/25a83042.json)
+
+[Extended Data](ext_articles/25a83042.ext.json)
+
+---
+
+### Notice of issuing university access cut off marks
+
+*2024-09-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201240) · `si`
+
+University access cutoff marks announced: Visit www.ugc.as.lk for details after 8 PM today.
+
+🟩
+
+According to the University Grants Commission, the cut off marks of the university approach will be released on the evening today (20) by the GCE A / L results.
+
+Accordingly, the cut off marks can be obtained by visiting www.ugc.as.lk.
+
+◼️
+
+[Data](articles/0eaf507b.json)
+
+[Extended Data](ext_articles/0eaf507b.ext.json)
+
+---
+
+### Three member membership of three members of Pohon
+
+*2024-09-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201239) · `si`
+
+Sri Lanka party suspends memberships of 3 MPs for supporting rival candidate on July 29.
+
+🟩
+
+The party has taken steps to suspend the party membership of three MPs in the Sri Lanka General Man.
+
+Accordingly, Anuradhapura District MP SM Chandrasena, Ratnapura District MP Pavithradevi Wanniarachchi and Kalutara District MP Rohitha Abeygunawardene has been suspended.
+
+The party membership has been suspended as a result of supporting the party's candidate against the decision to support the party's candidate on the 29th of July on July 29.
+
+The party's membership of the party, the membership of the party, the party's membership and the party's national convener post have been suspended.
+
+◼️
+
+[Data](articles/3eca7dba.json)
+
+[Extended Data](ext_articles/3eca7dba.ext.json)
+
+---
 
 ### Pollboat that goes on the boat
 
@@ -86,6 +176,60 @@ However, the employees of the Amban Divisional Hospital have summoned the Marada
 
 ---
 
+### The Committee approved the new Sri Lankan Ambassador to Sri Lanka
+
+*2024-09-20 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201238) · `si`
+
+Sri Lankan Committee approves Alp as new Ambassador to Kuwait, Ratnayake also appointed. Decision made during High Posts Meeting on 18th.
+
+🟩
+
+The Committee of the Committee has approved the appointment of the new posts of the Sri Lankan Ambassador to Kuwait.
+
+Alp as the new Ambassador of Kuwait. It has been decided to appoint Ratnayake.
+
+The approval was given by the Committee on High Posts Meeting on the 18th.
+
+◼️
+
+[Data](articles/d8518c55.json)
+
+[Extended Data](ext_articles/d8518c55.ext.json)
+
+---
+
+### Will it be a problem tomorrow?
+
+*2024-09-20 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201237) · `si`
+
+Here's a 200-character summary:
+
+
+
+Police assure peaceful election environment despite 328 reported violations. 480 complaints investigated, 108 suspects arrested. Security measures in place, public cooperation urged.
+
+🟩
+
+At the next few days, a peaceful environment will be in a peaceful environment in the next few days, police spokesman's lawyer said.
+
+Addressing the Ada Derana, "Big FUCUS 'program, he said that the full election violence is very low during the election period.
+
+Meanwhile, Nihal Talduuwa said that 63,000 police officers were deployed to protect the polling centers.
+
+He added that 11,000 armed forces officers have been deployed in the waiting in the waiting work and have the ability to call if there is any need.
+
+A group of STF personnel have also been deployed in electoral duties and the support of about 13,000 Civil Defense Force officials will be given to mobile patrols.
+
+Speaking further Police Media Spokesperson DIG's DIG's lattage
+
+...
+
+[Data](articles/0862bf0f.json)
+
+[Extended Data](ext_articles/0862bf0f.ext.json)
+
+---
+
 ### 17 passengers injured in bus crash
 
 *2024-09-20 15:44:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கவிழ்ந்ததில்-17-பயணிகள்-காயம்/175-344061) · `ta`
@@ -112,6 +256,34 @@ The car that crashed into the bus ran away. Seven passengers who were injured in
 
 ---
 
+### Sri Lanka election commission explains Dos & Don’ts at polling station
+
+*2024-09-20 15:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-commission-explains-dos-donts-at-polling-station-180180/) · `en`
+
+ECONOMYNEXT — Voters must take one of nine valid identification documents with them to their local polling station at Sri Lanka’s presidential election, Election Commission Chairman R L M Ratnayake said.
+
+Speaking to the media on Friday September 20, the eve of the election, Ratnayakae said producing the polling card is not compulsory.
+
+“The official polling card is not compulsory. If you have a valid ID you can produce that at the polling centre and obtain a ballot paper on which you can cast your vote,” he said.
+
+Clergy ID issued by the Department for Registration of Persons
+
+Letter issued by the Department for Registration of Persons confirming the details of the voter’s NIC
+
+Temporary ID issued for disabled people by the election commission,
+
+It is compulsory that any one of these nine IDs be produced at the polling station, said Ratnayake.
+
+Using mobile phones is be prohibited at polling stations, as is taking pictures and recording video.
+
+...
+
+[Data](articles/f39a2f3c.json)
+
+[Extended Data](ext_articles/f39a2f3c.ext.json)
+
+---
+
 ### Sri Jayawardenapura University Opening Tuesday
 
 *2024-09-20 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194192) · `ta`
@@ -131,6 +303,28 @@ The university was temporarily closed from 6.00 pm on the 12th following a clash
 [Data](articles/1152f911.json)
 
 [Extended Data](ext_articles/1152f911.ext.json)
+
+---
+
+### Colombo Plan boosts Sri Lanka Ports staff capacity
+
+*2024-09-20 15:29:00* · [`economynextcom`](https://economynext.com/colombo-plan-boosts-sri-lanka-ports-staff-capacity-180181/) · `en`
+
+ECONOMYNEXT – The Colombo Plan, a regional inter-governmental organization with 28 countries is helping build capacity at Sri Lanka Ports Authority through a three-year maritime advisory program (MAP).
+
+The program aims to help Sri Lanka meet complex maritime challenges and focuses on enhancing maritime safety, security, and connectivity with an aim to foster collaboration and knowledge exchange.
+
+“This project aims to enhance SLPA’s human resource capabilities through professional training in alignment with global standards and best practices,” the Colombo Plan said.
+
+“This three-year project consists of several key activities, including port study-exchanges, capacity building initiatives, and the facilitation of international maritime expert advisory visits to SLPA.”
+
+The MAP program has funding support from the US Department of State’s Bureau of South and Central Asian Affairs via the US Embassy in Colombo.
+
+...
+
+[Data](articles/aa1b4253.json)
+
+[Extended Data](ext_articles/aa1b4253.ext.json)
 
 ---
 
@@ -241,6 +435,24 @@ As a result, the petition has shown that US $ 16.4 billion has been increased to
 [Data](articles/b9580714.json)
 
 [Extended Data](ext_articles/b9580714.ext.json)
+
+---
+
+### Sri Lanka prepares to vote
+
+*2024-09-20 14:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-prepares-to-vote-180166/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s election process has begun with polls stations being established in schools and other public places on Friday (20).
+
+Schools were closed islandwide as requested by the Election Commission, and will reopen on Monday (23).
+
+Voting equipment were moved to demarcated schools under Police guard.
+
+Sri Lanka will hold its ninth presidential poll on September 21 to elect the ninth executive president of the country. 17.1 million voters are eligible to cast their votes in 22 electoral districts which have 160 constituencies. (Colombo/Sep20/2024)
+
+◼️
+
+[Data](articles/e8415819.json)
 
 ---
 
@@ -988,6 +1200,22 @@ Chamari Atapattu (Lead), Harunami Gunaratra, Uduni Prabhanic, Udakini Prabasy, S
 
 ---
 
+### එකිනෙකට සම්බන්ධ වෙඩි තැබීම් තුනක්
+
+*2024-09-20 10:56:37* · [`adalk`](https://www.ada.lk/breaking_news/එකිනෙකට-සම්බන්ධ-වෙඩි-තැබීම්-තුනක්/11-412044) · `si`
+
+අද පෙරවරුවේදී දෙහිවල පොලිස් වසමේ නැදිමාල ක්‍රීඩා පිටිය ආසන්නයේදි යතුරු පැදියකින් පැමිණි දෙදෙනෙකු කළ වෙඩි තැබිමකින් පුද්ගලලයෙක් ජීවිතක්ෂයට පත්ව ඇතැයි පොලිසිය කියයි.
+
+වෙඩි වැදිමෙන් තුවාල ලැබූ පුද්ගලයා කලුබෝවිල රෝහලට ඇතුළත් කිරිමේදී මිය ගොස් තිබේ. මෙම වෙඩි තැබීමෙන් අවුරුදු 45ක පුද්ගලයෙක් ජිවිතක්ෂයට පත්ව තිබේ.
+
+මෙම වෙඩි තැබිම  පසුගිය 15 දා බඩෝවිට ප්‍ර දේශයේ සිදුවු වෙඩි තැබීම හා 18 දා කොහුවල, සරණංකර පාරේදී සිදුවූ වෙඩි තැබීමට සම්බන්ධ බවට පොලිසිය විසින් අණාවරණය කරගෙන තිබේ.
+
+◼️
+
+[Data](articles/da311338.json)
+
+---
+
 ### All arrangements for the presidential election are fulfilled
 
 *2024-09-20 10:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலுக்கான-சகல-ஏற்பாடுகளும்-பூர்த்தி/175-344050) · `ta`
@@ -1061,6 +1289,26 @@ In Thursday’s late operation, Israel’s military said its jets over two hours
 [Data](articles/6cfad2f1.json)
 
 [Extended Data](ext_articles/6cfad2f1.ext.json)
+
+---
+
+### Sri Lanka’s first ambassador to Romania presents credentials
+
+*2024-09-20 10:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-first-ambassador-to-romania-presents-credentials-180104/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ambassador extraordinary and plenipotentiary to Romania Madurika Joseph Weninger presented letters of credence to President Klaus-Werner Iohannis at the historic Cotroceni Palace in Bucharest.
+
+President Iohannis expressed optimism for future collaborations, the Embassy of Sri Lanka in Bucharest said in a statement.
+
+In a discussion afterwards Ambassador Weninger recalled the long-standing friendship with Romania since the establishment of diplomatic relations in 1957, and emphasized that bilateral relations have seen growth across various domains, enhancing cooperation in numerous sectors.
+
+The discussion focused on strengthening and expanding relations between the two countries, especially in economic, trade, investment, and tourism sectors.
+
+Romania provides employment for over 40,000 Sri Lankan nationals across various sectors, including apparel, construction, hospitality, and agriculture.
+
+...
+
+[Data](articles/8170c4e8.json)
 
 ---
 
@@ -1159,6 +1407,24 @@ District Election Officer Sumanasekera said that the vacancies of those who have
 [Data](articles/a5b0f5a3.json)
 
 [Extended Data](ext_articles/a5b0f5a3.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 305.00/75, bond yields broadly steady
+
+*2024-09-20 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-305-00-75-bond-yields-broadly-steady-180159/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 305.00/75 to the US dollar on Friday, from 304.50/80 Thursday, dealers said. Bond yields were broadly steady, they said, while stocks opened up 0.78 percent higher.
+
+A bond maturing on 15.02.2028 was quoted at 13.60/70 percent, down from 13.65/80 percent.
+
+A bond maturing on 15.06.2029 was quoted at 13.85/90 percent, up from 13.82/90 percent.
+
+In equities, Colombo’s All Share Price Index was opened 84.69 points higher at 10,969, while the S&P SL20 of more liquid stocks opened up at 1.40 percent or 42.96 points to 3,104.
+
+◼️
+
+[Data](articles/bc4c9aa0.json)
 
 ---
 
@@ -1997,311 +2263,5 @@ Therefore, the Elections Commission has announced to those who hold all social m
 [Data](articles/eadfc88b.json)
 
 [Extended Data](ext_articles/eadfc88b.ext.json)
-
----
-
-### Can't ask for a vote
-
-*2024-09-20 02:59:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிக்குமாறு-இரந்து-கேட்க-முடியாது/175-344043) · `ta`
-
-Election Commission bans six major issues: asking for votes, inciting voters, campaign materials, posters, photos, notifications. Violations are punishable offenses.
-
-🟩
-
-The Election Commission has announced that six major issues have been banned. Accordingly, it is prohibited, asking for a vote, who is asking for the vote of the chariot, who is trying to incite Nehru Nunnu to vote for the candidate, and to trigger Nehru.
-
-In addition, the election, the office, the pamphlet, the paste, the poster, the poster, the photo, the image or the notification), the paste, the poster, the poster, the photo or the image or the notification or the signing of the candidate.The Election Commission has said that it is a punishable offense.
-
-◼️
-
-[Data](articles/bd39a96f.json)
-
-[Extended Data](ext_articles/bd39a96f.ext.json)
-
----
-
-### 'Director Tilak' K. 'Where Dad' released by Bhagyaraj independent music
-
-*2024-09-20 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/194141) · `ta`
-
-"Director Tilak's 'Where Dad' released by Bhagyaraj independent music. Newcomer Baby Star Baby Lakshana Rishi stars. Directed by SV Rishi. Special screening in Chennai. Bhagyaraj congratulates Lakshana Rishi, predicting future Tamil film debut."
-
-🟩
-
-Newcomer Baby Star Baby Lakshana Rishi. The director got the empire to release Bhagyaraj.
-
-Independent music albums have been released in the Tamil film industry, gaining widespread attention and huge success. In that line, Baby Lakshana Rishi starred on behalf of Dad Media.The music is written and directed by SV Rishi. A special screening for this was held in Chennai.
-
-The leading character and directors of the Tamil film industry at this moment. Bhagyaraj and Empire participated as the guests.
-
-Director K. Bhagyaraj congratulated him, “Baby Lakshana Rishi, a child star starring in this music alpine, will make his debut in the Tamil film industry in the future.. He has all the qualifications for it right now. I congratulate you for success and video of this song and video that is being devoted and unique. ”
-
-◼️
-
-[Data](articles/abb564fa.json)
-
-[Extended Data](ext_articles/abb564fa.ext.json)
-
----
-
-### Prohibition on screening of election results
-
-*2024-09-20 02:36:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகளை-திரையிட-தடை/175-344042) · `ta`
-
-Election results ban: Police restricts public viewing due to potential violence. Deputy IG urges citizens to check results privately at home.
-
-🟩
-
-Police said that the presidential election results were banned in public in 2024.
-
-Deputy Inspector General of Police Nihal Dalduwa addressing a special media briefing held at the Government Information Department on Thursday (19)
-
-In the public outer space can cause violent incidents. Therefore, this move has been taken to prevent violence.
-
-I urge the public to visit the presidential election personally in their homes.
-
-◼️
-
-[Data](articles/eb86fef4.json)
-
-[Extended Data](ext_articles/eb86fef4.ext.json)
-
----
-
-### The new release date of Surya's 'Gangua'
-
-*2024-09-20 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194140) · `ta`
-
-Surya's 'Gangua' new release date: Nov 14, Tamil, Telugu, Malayalam, Kannada, Hindi. Directed by Siva, music by Devi Sri Prasad. Produced by Fantasy Exan Entertainment, Studio Green, UV Creations. Starring Surya, Bobby Deol, Disha Patani, Kicha Sudeep.
-
-🟩
-
-The film crew has officially announced the new release date of the film 'Gangua' starring Surya, who is highly anticipated by fans, filmmakers, world Tamils ​​and spectators.
-
-Surya, Bollywood actor Bobi Deol, Bollywood actress Dissa Patani, Naty alias Natraj, Kicha Sudeep, Jagadish Babu, Yogi Babu, directed by director Siva.
-
-The film has been composed by 'Rock Star' Devi Sri Prasad for the film.. The film is being produced as Fantasy Exan Entertainment and has produced the film with Studio Green and UV Creations at an estimated cost of Rs 350 crore.
-
-It was announced that the film will be released worldwide on the 10th of October. Subsequently, it was officially announced that the film 'Vettayan' starring Super Star Rajinikanth in Lyca Company will be released on October 10 at the film House.
-
-...
-
-[Data](articles/73aeb4f1.json)
-
-[Extended Data](ext_articles/73aeb4f1.ext.json)
-
----
-
-### What if a heurricane candidate could not vote over 50%?
-
-*2024-09-20 02:26:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1l53852v46o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka presidential election rules: No candidate must exceed 50% votes. If none do, runoff between top two candidates based on second preferences. Election Commission selects winner via random draw if tied after all preferences counted.
-
-🟩
-
-What if a heurricane candidate could not vote over 50%?
-
-The election to elect the 9th Executive President in Sri Lanka will be held on September 21.
-
-Nearly 17 million people in the country have been eligible to vote for the new President.
-
-The candidate that the vote exceeding 50% of their votes will be named in the preference of votes.
-
-However, if there is no candidate over 50% of the candidates in this presidential election, which will be competed in the presidential election.
-
-Since 1982, eight presidential elections have been held in Sri Lanka.
-
-The country since then the country is JR. The executive president of Jayawardena, Ranasinghe Premadasa, Chandrika Bandaranaike Kumaratunga, Mahinda Rajapaksa, Maithripala Sirisena and Gotabhaya Rajapakse have been governed.
-
-After the arrival of Gotabhaya Rajapaksa, Ranil Wickremesinghe was now the president of the country.
-
-The election from 1982 to 2019, the number of candidates won by the election from 1982 to 2019 to elect an executive president.
-
-...
-
-[Data](articles/2a8aa3a0.json)
-
-[Extended Data](ext_articles/2a8aa3a0.ext.json)
-
----
-
-### Music and Preview of Vimal's 'Sir'
-
-*2024-09-20 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194139) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil film "Sir" starring Wimal, music by Inion J. Sidhu Kumar, produced by SS Pictures. Director Vijayamaran praises the film, calling it crucial for modern society.
-
-🟩
-
-Actor Wimal is a realist in the Tamil film industry.. The music and preview of the movie 'Sir', which plays the lead role. 'Paddy Selvan' Vijay Sethupathi and Director Vijayamaran were the special guests at the special ceremony in Chennai.
-
-Actor and director Bose Venkat is directed by Vimal, 'Puthi Veeran' Saravanan, RK Vijay Murugan, Saya Kannan, producer and actor S.. Siraj, Rama, 'Aadukalam' Jayapalan and many others have played.
-
-Inion J. Sidhu Kumar has composed the film, which has been recorded by Harris. Producers SS Pictures on behalf of SS Pictures. Produced by Siraj and Nilofer Siraj.
-
-Director Vijayamaran congratulated the film crew and said, “We are proud to have our name in the creation of our ideas.. I only gave us our name for this movie.
-
-...
-
-[Data](articles/b101ee23.json)
-
-[Extended Data](ext_articles/b101ee23.ext.json)
-
----
-
-### The 'Banana' film group honoring the shield to the film crew
-
-*2024-09-20 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194138) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Banana" film crew celebrates 25 days. Director Mari Selvaraj thanks cast and crew. Addresses questions about missing scenes and future sequels. Expresses gratitude to supporters.
-
-🟩
-
-'Banana', directed by the leading creator Mari Selvaraj, has been released in the filmmaker. The film crew celebrated the 25th day as a victory.
-
-Speaking at the event, director and producer Mari Selvaraj said, “The way the filmmakers celebrated the banana film made us happy.. I have been harassed by the actors who played the film on the shooting site.
-
-But they realized our instinct behind it and gave them their labor. Why isn't the female teacher's character shown in the culmination of the film?Many asked us.This is the reason why the actress's call sheet is not available on the date.
-
-The song featured in the peak of the film. I just made the film a year and a half later. At first, I thought to film this scene differently. And after the release of the film, the questions about us continue to rise to others.
-
-For this I am ready to create the second part of the film. Because I will always be real to this art form in my life. Thank you to all the good people who succeeded the movie 'Banana'.
-
-◼️
-
-[Data](articles/0fd5ee87.json)
-
-[Extended Data](ext_articles/0fd5ee87.ext.json)
-
----
-
-### It is witchcraft if the situation occurs
-
-*2024-09-20 02:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசம்பாவித-நிலைமை-ஏற்படுமாயின்-சூனியமாகும்/175-344041) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Elections Commission Chairman warns of potential delays due to voting irregularities. Voters can cast ballots without voter cards but must show valid ID. Strict measures enforced to prevent election violations. Security forces deployed to maintain order. Final results delayed if issues occur at polling stations.
-
-🟩
-
-The Chairman of the Elections Commission, RMAL Ratnayake said that if there is any inconvenience in the voting center during the presidential vote, the voting of the polling station will be witching up and the final election results will not be announced until the referendum is held again.
-
-He said that the voter card is not mandatory to vote in the presidential election and that those who do not get the voter card can vote using the valid ID card at the polling station, “Your right and strength.. Use it. ”Asked.
-
-He was speaking at a media briefing held at the Government Information Department on Thursday (19).. There he continued to say,
-
-“All arrangements have been made to hold the presidential election as a fair and free. So, on September 21, go to the house after voting and asking him to go and use voting rights as possible.. He also called for not to engage in election violation and illegal activities.
-
-...
-
-[Data](articles/0af879b5.json)
-
-[Extended Data](ext_articles/0af879b5.ext.json)
-
----
-
-### We are monitoring in 9 provinces
-
-*2024-09-20 01:58:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மாகாணங்களிலும்-கண்காணிக்கின்றோம்/175-344040) · `ta`
-
-European Union election monitors deployed in 9 provinces of Sri Lanka. 32 short-term observers oversee voting process. Activities coordinated with local Elections Department. Monitoring began August 29th.
-
-🟩
-
-The European Union election monitors, which are engaged in presidential election monitoring in Sri Lanka, have been deployed under the surveillance of 32 short -term election monitors in all districts.
-
-The short -term monitors will take place in the aftermath of the end of the campaign;Voting, voting, voting, voting, voting, voting, voting, voting, voting, voting, voting, voting, election results.
-
-The short -term visitors who strengthen our work today will go to the cities and villages and their surveillance is essential to observation of nine provinces, said the Deputy Chief Superintendent of the EU, Inta Lase.
-
-The European Union's short -term monitors will act as two international group, and the activities of the Elections Department are well illustrated before they begin their work.
-
-We have already engaged 26 monitors in surveillance tasks, they are August;In all the provinces of Sri Lanka since 29, the preparations for the election have been monitored by the election campaign.
-
-◼️
-
-[Data](articles/d3a24eac.json)
-
-[Extended Data](ext_articles/d3a24eac.ext.json)
-
----
-
-### Union Bank celebrates Long Service Awards
-
-*2024-09-20 01:50:00* · [`islandlk`](http://island.lk/union-bank-celebrates-long-service-awards/) · `en`
-
-Union Bank proudly recognised the exceptional contributions of its esteemed team members. Long Service Awards were presented to honour those celebrating 20 and 25 years of dedicated service by Dilshan Rodrigo, Director/CEO and the corporate management team.
-
-The awardees included Shiran Punchihewa, Indika Igalawithana, and Janithi Perera Karunasiri, with 25 years and Jayanath Kariyakarawana, Janaka Iroshan, Karthiga Sridhara, Nirosha Somarathne, and Priyadharshani Corea with 20 years of exemplary service.Union Bank commends these outstanding individuals for their unwavering commitment and invaluable contributions to the organization’s growth and success.
-
-SimCentric Technologies enhances information security standards with ISO 27001:2022 Certification
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/de3d0f52.json)
-
-[Extended Data](ext_articles/de3d0f52.ext.json)
-
----
-
-### Special Transport Plan on Saturday
-
-*2024-09-20 01:49:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனியன்று-விசேட-போக்குவரத்து-திட்டம்/175-344039) · `ta`
-
-Sri Lanka Transport Board deploys 1,358 buses for presidential election. 175 buses for police duties. Railway Department operates special trains between Colombo Fort and Kankesanthurai for government officials and security personnel. Regular train service continues on election day.
-
-🟩
-
-The Sri Lanka Transport Board (SLTB) has said that 1,358 buses have been deployed for the presidential election on the 21st of this month.
-
-The Deputy General Secretary of the Sri Lanka Transport Board, Panduga Swarnahansa said that steps have been taken to provide special bus services at the request of the District Elections Office.
-
-He added that 175 buses have been deployed for the duties of the police officers ahead of the presidential election.
-
-The Railway Department has announced that a number of special train services will be held between the Colombo Fort and the Kankesanthurai to ease the presidential election duties.
-
-The special rail service has been implemented for government officials and security personnel involved in election activities.Two special trains will be operated from Colombo Fort to Kankesanthurai to Colombo Fort.
-
-...
-
-[Data](articles/a2eef95b.json)
-
-[Extended Data](ext_articles/a2eef95b.ext.json)
-
----
-
-### Bank of Ceylon provides financial support to three Colombo hospitals in celebration of 85th anniversary
-
-*2024-09-20 01:48:00* · [`islandlk`](http://island.lk/bank-of-ceylon-provides-financial-support-to-three-colombo-hospitals-in-celebration-of-85th-anniversary/) · `en`
-
-In a gesture of community support, the Bank of Ceylon (BOC) has extended financial assistance to three major hospitals in Colombo to commemorate its 85th anniversary. The bank has donated Rs. 2.2 million to the Lady Ridgeway Hospital for Children, Castle Street Hospital for Women, and De Soysa Maternity Hospital. The funds will be used to purchase essential medical instruments, enhancing the healthcare services provided by these institutions.
-
-The cheque handover ceremony was held with the presence of key BOC officials, including Chairman Kavan Ratnayaka and General Manager W.P. Russel Fonseka. Also in attendance were the Deputy General Manager of Branch Credit Operation Range 01, the Assistant General Manager of Branch Credit Range 01 R M M Weerasekara, and other distinguished guests, including representatives from the three hospitals. Several staff members from the bank also participated in the event.
-
-...
-
-[Data](articles/eab68a9f.json)
-
-[Extended Data](ext_articles/eab68a9f.ext.json)
 
 ---

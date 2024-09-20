@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 13:38:37**
+As of **2024-09-20 13:57:50**
 
 ## Newspaper Stats
 
-*Scraped **44,909** Articles*
+*Scraped **44,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,84 @@ adalk | 4,152
 dailymirrorlk | 4,733
 adaderanalk | 5,276
 tamilmirrorlk | 5,880
-virakesarilk | 7,186
-adaderanasinhalalk | 7,693
+virakesarilk | 7,190
+adaderanasinhalalk | 7,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,909 (100.0%) of 44,909 articles have been extended.
+44,909 (100.0%) of 44,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### ஐரோப்பிய ஒன்றிய கண்காணிப்பாளர்கள் கள ஆய்வு
+
+*2024-09-20 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194185) · `ta`
+
+ஐரோப்பிய ஒன்றிய கண்காணிப்பாளர்கள் நாளைய தினம் (21) நடைபெறவுள்ள ஜனாதிபதி தேர்தல் தொடர்பாக, இன்றைய தினம் (20) யாழ்ப்பாணம் மத்திய கல்லூரியில் நடைபெற்றுக் கொண்டிருக்கும் வாக்குப் பெட்டி விநியோக நடவடிக்கைகளை கண்காணிக்கும் நடவடிக்கைகளில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/f0c7bfe4.json)
+
+---
+
+### 32 ஆயிரம் வீட்டு திட்டத்திற்கான நிதி மூலத்திற்கு அங்கீகாரம்
+
+*2024-09-20 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/194184) · `ta`
+
+வடக்கு மாகாணத்தில் நிர்மாணிக்க திட்டமிடப்பட்டுள்ள 32 ஆயிரம் வீட்டு திட்டத்திற்கான நிதி மூலத்திற்கு அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+வடக்கு மாகாணத்தில் சன் பவர் குழுமத்தினால் நிர்மாணிப்பதற்கு திட்டமிடப்பட்டுள்ள  32 ஆயிரம் வீடுகளுக்கான நிதி மூலத்திற்குரிய அங்கீகாரம் கிடைத்துள்ளது. அவுஸ்திரேலியாவை தளமாகக் கொண்ட வங்கி ஒன்றின் ஊடாக இந்த திட்டத்திற்கான நிதி வழங்கப்படவுள்ளது. தலா 50 இலட்சம் ரூபா செலவில் முற்றுமுழுதாக இலவசமாக பயனாளர்களுக்கு இந்த வீடுகள் நிர்மாணித்துக் கொடுக்கப்படவுள்ளன.
+
+வீட்டுத் திட்டத்தை நடைமுறைப்படுத்தவுள்ள சன் பவர் குழுமத்தினால் சுமார் நான்காயிரம் ஏக்கர் காணியில் சூரிய மின்கல பூங்கா (Solar Park) நிர்மாணிக்கப்படவுள்ளது. இதற்கான முழுமையான காணி விடுவிக்கப்பட வேண்டியுள்ளது.  இதேவேளை, சர்வதேச நாணய நிதியத்தின் இலங்கை கடன் விடுவிப்பு தொடர்பான சான்றுபடுத்தல் பெறப்படவுள்ளது. இந்த இரண்டு செயற்பாடுகளும் இறுதி கட்டத்தை எட்டியுள்ள நிலையில், இலவச வீட்டு திட்டத்திற்கான நடவடிக்கைகள் முன்னெடுக்கப்படவுள்ளன.
+
+...
+
+[Data](articles/3eff8db6.json)
+
+---
+
+### ලෙබනනයට දිගින් දිගටම ප්‍රහාර
+
+*2024-09-20 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201229) · `si`
+
+ලෙබනනයේ බීරූට් ඇතුළු නගර රැසකින් හිස්බුල්ලා සටන්කාමීන් භාවිතකරන පේජර් සහ වෝකි ටෝකි යන්ත්‍ර පුපුරායාම් වාර්තා වූ අතර, එම පිපිරුම් සම්බන්ධයෙන් ඊශ්‍රායලයේ මොසාඩ් ඔත්තු සේවයට චෝදනා එල්ල වී ඇත.
+
+විදෙස් මාධ්‍ය වාර්තා කර සිටියේ මෙම පිපිරුම් මාලාවෙන් 37 දෙනෙකු මියගොස් 3,000කට ආසන්න පිරිසක් තුවාල ලැබූ බවය.
+
+මෙවන් පසුබිමක හිස්බුල්ලා නායක හසාන් නසරල්ලා පිපිරුම් මාලාවෙන් පසුව පළමු වරට ඊයේ (19) සිය ජනතාව ඇමතීය.
+
+එහිදී හෙතෙම අවධාරණය කර සිටියේ, ඊශ්‍රායලය සියලුම සීමා කඩකළ බවය. මෙලෙස රැහැන් රහිත සන්නිවේදන යන්ත්‍ර පුපුරායාම යුද ප්‍රකාශ කිරීමකට සමාන බවට ඔහු චෝදනා කළේය.
+
+මෙම පිපිරුම් මාලාව අනපේක්ෂිත ප්‍රහාරයක් බවට පිළිගත් හිස්බුල්ලා නායකයා, ඒ සම්බන්ධයෙන් ඊශ්‍රායලයට නිසැකව ප්‍රතිවිපාක විඳීමට සිදුවන බවද අවධාරණය කළේය.
+
+කෙසේ වෙතත් හිස්බුල්ලා නායකයාගේ ප්‍රකාශය අතරතුරදී ද ඊශ්‍රායල යුද ගුවන්යානා බීරුට් ගුවනේ පියාසර කරන අයුරු විදෙස් මාධ්‍ය වාර්තා කර සිටියේය.
+
+එමෙන්ම ඔහුගේ ප්‍රකාශයෙන් පසුව ඊයේ රාත්‍රියේ දී ද ඊශ්‍රායලය ලෙබනනයේ රොකට් ප්‍රහාරක අවි ඉලක්ක කරමින් ගුවන් ප්‍රහාර සිය ගණනක් එල්ල කර ඇත.
+
+...
+
+[Data](articles/01b681cb.json)
+
+---
+
+### 145 வாக்காளர் அட்டைகளை  விநியோகிக்காமல் வைத்திருந்த தபால் ஊழியர்
+
+*2024-09-20 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194170) · `ta`
+
+புத்தளத்தில் 145 வாக்காளர் அட்டைகளை விநியோகிக்காமல் தபால் ஊழியர் ஒருவர் தம்வசம் வைத்திருந்ததாக அவர் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+
+புத்தளம் வாக்காளிப்பு நிலையங்களுக்கான ஐக்கிய தேசியக் கட்சியின் முகவரிடம் இருந்து கிடைக்கப்பெற்ற முறைப்பாட்டின் பேரில் புத்தளம் மாவட்ட தபால் அத்தியட்சகர் இந்த சம்பவம் தொடர்பில் விசாரணைகளை ஆரம்பித்துள்ளார்.
+
+◼️
+
+[Data](articles/e778f2d1.json)
+
+---
 
 ### Twis 'comrades' militant win to Australia
 
@@ -65,6 +131,24 @@ In addition to Travis, Manus Laberusan scored 77 runs off 61 balls.
 [Data](articles/0ae2ee2e.json)
 
 [Extended Data](ext_articles/0ae2ee2e.ext.json)
+
+---
+
+### மன்னார் மாவட்டத்தில் 98 வாக்களிப்பு நிலையங்களுக்கும் வாக்குப் பெட்டிகள் அனுப்பிவைப்பு
+
+*2024-09-20 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194175) · `ta`
+
+நாட்டின் ஒன்பதாவது ஜனாதிபதித் தேர்தலுக்கான வாக்களிப்பு நடவடிக்கைகள் நாளை சனிக்கிழமை (21) காலை நடைபெறவுள்ளது.
+
+குறித்த நிலையங்களுக்கு வாக்குப் பெட்டிகள் அனைத்தும் இன்று வெள்ளிக்கிழமை (19) காலை 9 மணி முதல் எடுத்துச் செல்லப்பட்டுள்ளது.
+
+மன்னார் மாவட்டத்தின் வாக்கெண்ணும் மத்திய நிலையமாக செயற்பட்டு வரும் மன்னார் மாவட்டச் செயலகத்தில்  இருந்து குறித்த வாக்குப்பெட்டிகள் அனைத்தும் வாக்களிப்பு நிலையங்களுக்கு பொலிஸாரின் பாதுகாப்புடன் பேருந்துகளின் மூலம் எடுத்துச் செல்லப்பட்டது.
+
+இதேவேளை மன்னார் மாவட்டத்தில்  90 ஆயிரத்து 607 வாக்காளர்கள்  வாக்களிக்க தகுதி பெற்றுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/896371e8.json)
 
 ---
 
@@ -2141,137 +2225,5 @@ William O'Ruq took 5 wickets for 55 runs, Glen Phillips took 2 wickets for 52 ru
 [Data](articles/6298b662.json)
 
 [Extended Data](ext_articles/6298b662.ext.json)
-
----
-
-### Vote leave all public and private employees
-
-*2024-09-19 19:50:02* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-දෙන්න-සියලුම-රාජ්‍ය-හා-පෞද්ගලික-සේවකයන්ට-නිවාඩු-දෙන්න/11-412041) · `si`
-
-Public and private sector employees entitled to voting leave: Chairman of Commander's Office requests minimum 4-hour leave for public sector workers and half-day leave for private sector workers within 2 km radius of polling stations. Applies to university staff, students, and garment factory workers.
-
-🟩
-
-Chairman of the Commander's Office of All Public and Private Sector employees should be paid leave to vote. M. A. L. Mr. Ratnayake said. Accordingly, public sector employees should be granted leave to leave the polls, including a minimum of four hours, including a minimum of four hours.
-
-A special press conference in the Presidential Election in the 2024 was held today (19th). The Chairman of the Election Commission was speaking at the press conference.
-
-The Chairman of the Commission also said that the leave of private sector employees is required to be given holidays on the distance.. According to a half-kilometer vacation, a half-kilometer vacation, a half-kilometer vacation, a two-kilometer vacation, a two-day holidays, the Chairman said.
-
-If three days to vote for voters in the vicinity of their workplace, three days to vote for voters, the Chairman of the Elections. M. A. L. Mr. Ratnayake said.
-
-...
-
-[Data](articles/c98ed9ae.json)
-
-[Extended Data](ext_articles/c98ed9ae.ext.json)
-
----
-
-### Born in Chennai and Jadeja, who stuck with Chennai, made India strong;Ashwin's accumulation
-
-*2024-09-19 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194127) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ravindra Jadeja and Ravichandran Ashwin led India's recovery in the first Test against Bangladesh. Jadeja scored 86 runs, Ashwin 102, sharing 195 runs for the 7th wicket. India reached 339/6 after the first day, with Yaswvi Jayeswal and Rishabh Pant contributing significantly.
-
-🟩
-
-Chennai, Chepakkam M. A.. India scored 339 runs for the loss of 6 wickets in its first innings at the end of the first day of the first day of the first Test cricket match.
-
-Ravindra Jadeja, who was born in Chennai, and Ravindra Jadeja, who sticks to Chennai (Super Kings), rescued India and restored India from the fall.
-
-India's leading batsmen Rohit Sharma (6), Shubman Gill (0) and Virat Kohli (6) lost by 20 runs.. (34 - 3 wig.)
-
-In this case, Yaswvi Jayesw and Rishabh Banta shared 62 runs in the 4th wicket.
-
-Yaswvi Jayeswal and KL after Rishabh Bond lost 39 runs. Rahul also shared 48 runs in the 5th wicket and the two lost the total number of 144 runs.
-
-It was thought that Bangladesh would be going to be in the match against Pakistan.
-
-But Ravichandran Ashwan and Ravindra Jadeja, who were well aware that it was best to recover from the fall, shared 195 runs in the 7th wicket in the 7th wicket that was not divided.
-
-...
-
-[Data](articles/1b8e2dbc.json)
-
-[Extended Data](ext_articles/1b8e2dbc.ext.json)
-
----
-
-### The number of complaints is further increased
-
-*2024-09-19 19:41:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முறைப்பாடுகளின்-எண்ணிக்கை-மேலும்-அதிகரிப்பு/175-344032) · `ta`
-
-Election complaints surge: 208 filed in 24 hours, 4,945 since July 31. Election Commission issues statement.
-
-🟩
-
-During the pre -election period, the number of election complaints received in the presidential election has increased further.
-
-Accordingly, the Election Commission has issued a statement that 208 electoral complaints have been received in 24 hours until 4.30 pm yesterday.
-
-In addition, the total number of election complaints received from July 31 to September 18 is 4,945.. Remble
-
-◼️
-
-[Data](articles/49a3db13.json)
-
-[Extended Data](ext_articles/49a3db13.ext.json)
-
----
-
-### Announcement Branch Elections should be removed by the midnight today
-
-*2024-09-19 19:35:39* · [`adalk`](https://www.ada.lk/breaking_news/නිවේදිත-ශාඛා-ඡන්ද-කාර්යාල-අද-මධ්‍යම-රාත්‍රී-වන-විට-ඉවත්-කළ-යුතුයි/11-412039) · `si`
-
-Branch elections removal deadline: Midnight today. Announcement branch polls maintainable from 22nd. Electoral district announcements allowed until midnight. Free and fair election call from Elections Commission.
-
-🟩
-
-The Elections Commission states that the announcement that was established at the ballot level should have been removed by the midnight yesterday (19).
-
-The announcement branch-based area, the announcement branch polls can be maintained on the 22nd.
-
-If the announcement was established at the electoral district at the electoral district at the electoral district, the Authorized Representative, the Authorized Representative of the Candidate and the candidate, can be operated up to midnight night.
-
-Elections Commission calls on all tips to announced office offices for a free and fair election.
-
-◼️
-
-[Data](articles/a5762608.json)
-
-[Extended Data](ext_articles/a5762608.ext.json)
-
----
-
-### On the 21st Saturday train schedule is on
-
-*2024-09-19 19:31:32* · [`adalk`](https://www.ada.lk/breaking_news/21දා-සාමාන්‍ය-සෙනසුරාදාවක-දුම්රිය-කාලසටහන-ක්‍රියාත්මකයි/11-412038) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Special train runs Sat 21st for election duty. Leaves Kankesanthurai 12pm, arrives Colombo Fort 5:57pm. Returns next day. Shortage of train drivers."
-
-🟩
-
-The Railway Department says that Saturday will be implemented on Saturday on the 21st of the election.. Deputy General Manager General Manager Nandana Schools, Nandana Schools, says that far as fargamman service trains will also be operated. He also said that there is a shortage of the train drive.
-
-The Railway Department has taken steps to run a special train between public officials and the Kankesanthurai for the participation of election duties.
-
-The train will reach Colombo Fort at 10.37 am and reach Kancasanthurai at 1.10 pm at 1.10 pm.
-
-The train was running yesterday (19th) and runs back on the 21st. The train from Kankesanthurai to Colombo Fort will leave Kankasanthura at 12 pm on 12 pm.. 05.57 pm and leaving Kurunegala at Colombo Fort at Fort at 07.35 pm. The train will be traveling today (20) and on the 22nd.
-
-◼️
-
-[Data](articles/fa19829a.json)
-
-[Extended Data](ext_articles/fa19829a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 15:11:18**
+As of **2024-09-20 15:22:33**
 
 ## Newspaper Stats
 
-*Scraped **44,926** Articles*
+*Scraped **44,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,278
 tamilmirrorlk | 5,885
 virakesarilk | 7,190
-adaderanasinhalalk | 7,696
+adaderanasinhalalk | 7,697
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,926 (100.0%) of 44,926 articles have been extended.
+44,927 (100.0%) of 44,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Santantha Mudalige Petition to Supreme Court
+
+*2024-09-20 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201233) · `si`
+
+Wasantha Mudalige petitions SC against loan restructuring affecting human rights
+
+🟩
+
+The Government's decision to restructure the loans relating to international sovereign bonds to the restructuring of the debts relating to the decision of the people's fundamental human rights.
+
+The former convener of the Inter University Students Federation has presented the petition by Mr. Wasantha.
+
+As the respondents, the Minister of Finance, Secretary to the Ministry of Finance, and the Governor of the Central Bank have been named.
+
+The petitioner claims that the loans were obtained between 5 and 07 percent of the debts of the international sovereignty bonds.
+
+The petition states that the government has taken measures to reduce the percentage to 8.2% under the restructuring program.
+
+As a result, the petition has shown that US $ 16.4 billion has been increased to US $ 19.1 billion, which has increased to US $ 19.1 billion.
+
+...
+
+[Data](articles/b9580714.json)
+
+[Extended Data](ext_articles/b9580714.ext.json)
+
+---
 
 ### J’pura University to reopen on Tuesday
 
@@ -2227,39 +2255,5 @@ Meanwhile, a discussion held yesterday (17) decided to remove three questions fr
 [Data](articles/21a00f6d.json)
 
 [Extended Data](ext_articles/21a00f6d.ext.json)
-
----
-
-### All arrangements for the presidential election in the Jaffna election district
-
-*2024-09-19 22:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194132) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Jaffna election district preparations: 492,280 voters, 511 polling stations. Voting starts Sept 21 at 7 AM. Special transport for remote areas. Ballot boxes to Central College after voting. 55 counting stations set up.
-
-🟩
-
-District Secretary and District Secretary Marudalingam Pradeepan said that all arrangements for the presidential election in the Jaffna election district have been made.
-
-There are 492,280 voters in the Jaffna district and 100,907 voters in the Kilinochchi district.
-
-There are 511 polling stations in Jaffna and 108 polling stations in Kilinochchi.
-
-Jaffna District Secretary and District Secretary Marudalingam Pradeepan said this at a special media briefing held at the Jaffna District Secretariat today.
-
-Voting will be launched at the polling station at 7 am on September 21. Steps will be taken to vote for voters who stand in the polling station at 4 pm. At the same time, it is not possible to enter the polling station at 4 pm.
-
-Transport buses have been made to vote for the people who are temporarily living in the Point Pedro from the Tellippalai.
-
-42 buses through the Sri Lanka Transport Board and 132 buses through the Private Transport Association have been organized for election duties.
-
-...
-
-[Data](articles/163e1bd9.json)
-
-[Extended Data](ext_articles/163e1bd9.ext.json)
 
 ---

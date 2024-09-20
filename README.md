@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 13:57:50**
+As of **2024-09-20 14:11:10**
 
 ## Newspaper Stats
 
-*Scraped **44,914** Articles*
+*Scraped **44,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,84 +17,168 @@ economynextcom | 2,718
 dailyftlk | 2,999
 adalk | 4,152
 dailymirrorlk | 4,733
-adaderanalk | 5,276
+adaderanalk | 5,277
 tamilmirrorlk | 5,880
 virakesarilk | 7,190
-adaderanasinhalalk | 7,694
+adaderanasinhalalk | 7,695
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,909 (100.0%) of 44,914 articles have been extended.
+44,916 (100.0%) of 44,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
 
-### ஐரோப்பிய ஒன்றிய கண்காணிப்பாளர்கள் கள ஆய்வு
+### Salaries the test sheet of scholarship
+
+*2024-09-20 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201230) · `si`
+
+Scholarship exam results delayed due to investigation. CID probing alleged cheating. Action against involved teachers. Legal consequences for those responsible.
+
+🟩
+
+Thilaka Jayasundara said that the evaluation of the answer scholarship examination of the Year 5 scholarship examination was held on September 15, Ms. Thilaka Jayasundara said.
+
+"We do not expect to do the answer sheets of the exam, all the results of the investigation have been made to a decision, until we make a decision. Until then, action will be taken to issue results. They have been temporarily suspended. "
+
+Examination Department conducted an investigation by the Department of Examinations. The preliminary investigation has been handed over to the CID and is also investigating the CID.
+
+Thalaka Jayasundara said that the exam question paper was exited to be held regarding the Year 5 scholarship examination.
+
+"And we have reportedly reported tuition teachers in the preceding period before the examination of the teachers.. Accordingly, it is ready to take disciplinary action. "
+
+"If the question paper has been exited, we will take legal action on parties responsible."
+
+...
+
+[Data](articles/e08cfb0b.json)
+
+[Extended Data](ext_articles/e08cfb0b.ext.json)
+
+---
+
+### The field inspection of EU monitors
 
 *2024-09-20 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194185) · `ta`
 
-ஐரோப்பிய ஒன்றிய கண்காணிப்பாளர்கள் நாளைய தினம் (21) நடைபெறவுள்ள ஜனாதிபதி தேர்தல் தொடர்பாக, இன்றைய தினம் (20) யாழ்ப்பாணம் மத்திய கல்லூரியில் நடைபெற்றுக் கொண்டிருக்கும் வாக்குப் பெட்டி விநியோக நடவடிக்கைகளை கண்காணிக்கும் நடவடிக்கைகளில் ஈடுபட்டனர்.
+EU monitors observed voting box distribution at Central College, Jaffna on 20th.
+
+🟩
+
+The EU monitors were engaged in monitoring the distribution of voting boxes at the Central College, Jaffna today (20).
 
 ◼️
 
 [Data](articles/f0c7bfe4.json)
 
+[Extended Data](ext_articles/f0c7bfe4.ext.json)
+
 ---
 
-### 32 ஆயிரம் வீட்டு திட்டத்திற்கான நிதி மூலத்திற்கு அங்கீகாரம்
+### Authorization for the financial source for the 32 thousand home project
 
 *2024-09-20 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/194184) · `ta`
 
-வடக்கு மாகாணத்தில் நிர்மாணிக்க திட்டமிடப்பட்டுள்ள 32 ஆயிரம் வீட்டு திட்டத்திற்கான நிதி மூலத்திற்கு அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+Here's a 200-character summary:
 
-வடக்கு மாகாணத்தில் சன் பவர் குழுமத்தினால் நிர்மாணிப்பதற்கு திட்டமிடப்பட்டுள்ள  32 ஆயிரம் வீடுகளுக்கான நிதி மூலத்திற்குரிய அங்கீகாரம் கிடைத்துள்ளது. அவுஸ்திரேலியாவை தளமாகக் கொண்ட வங்கி ஒன்றின் ஊடாக இந்த திட்டத்திற்கான நிதி வழங்கப்படவுள்ளது. தலா 50 இலட்சம் ரூபா செலவில் முற்றுமுழுதாக இலவசமாக பயனாளர்களுக்கு இந்த வீடுகள் நிர்மாணித்துக் கொடுக்கப்படவுள்ளன.
 
-வீட்டுத் திட்டத்தை நடைமுறைப்படுத்தவுள்ள சன் பவர் குழுமத்தினால் சுமார் நான்காயிரம் ஏக்கர் காணியில் சூரிய மின்கல பூங்கா (Solar Park) நிர்மாணிக்கப்படவுள்ளது. இதற்கான முழுமையான காணி விடுவிக்கப்பட வேண்டியுள்ளது.  இதேவேளை, சர்வதேச நாணய நிதியத்தின் இலங்கை கடன் விடுவிப்பு தொடர்பான சான்றுபடுத்தல் பெறப்படவுள்ளது. இந்த இரண்டு செயற்பாடுகளும் இறுதி கட்டத்தை எட்டியுள்ள நிலையில், இலவச வீட்டு திட்டத்திற்கான நடவடிக்கைகள் முன்னெடுக்கப்படவுள்ளன.
+
+"Sun Power Group constructs 32,000 homes in Northern Province. Funded by Australian bank. Each house costs Rs 50 lakh. Solar Park built for Housing Scheme. IMF receives Sri Lanka loan certificate. Project nearing completion."
+
+🟩
+
+The funds for the 32 thousand housing project planned to be constructed in the Northern Province have been approved.
+
+The Sun Power Group in the Northern Province has been recognized for the construction of 32 thousand homes planned to be constructed. The project will be funded by a bank -based bank in Australia. These houses will be constructed for free beneficiaries at a cost of Rs 50 lakh each.
+
+The Solar Park (Solar Park) will be constructed by the Sun Power Group, which is to be implemented by the Housing Scheme.. A complete land for this has to be released.Meanwhile, the International Monetary Fund will receive a certificate of Sri Lankan loan release. As these two activities have reached its final stage, the free housing project will be carried out.
 
 ...
 
 [Data](articles/3eff8db6.json)
 
+[Extended Data](ext_articles/3eff8db6.ext.json)
+
 ---
 
-### ලෙබනනයට දිගින් දිගටම ප්‍රහාර
+### Rehearsals for presidential poll planned for today
+
+*2024-09-20 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102096/rehearsals-for-presidential-poll-planned-for-today-) · `en`
+
+The departure of relevant staff for duties related to the 2024 Presidential Election and the transporting of ballot papers and ballot boxes has now commenced.
+
+The Chairman of the Elections Commission of Sri Lanka, R.M.A.L. Rathnayake stated that the distribution of ballot boxes began at 7.00 a.m. today (20) under heavy police protection.
+
+The relevant officials are expected to reach their respective polling centers by around 12 noon today.
+
+Meanwhile, it has been planned to conduct rehearsals today (20) after the officials reach their polling stations.
+
+Voting for the 2024 Presidential Election will be held from 7 a.m. to 4 p.m. tomorrow (21).
+
+A total of 17, 140,354 voters are expected to cast their votes at 13,421 polling centers across the island.
+
+◼️
+
+[Data](articles/c95cd2ff.json)
+
+[Extended Data](ext_articles/c95cd2ff.ext.json)
+
+---
+
+### Lebanon continues to attack
 
 *2024-09-20 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201229) · `si`
 
-ලෙබනනයේ බීරූට් ඇතුළු නගර රැසකින් හිස්බුල්ලා සටන්කාමීන් භාවිතකරන පේජර් සහ වෝකි ටෝකි යන්ත්‍ර පුපුරායාම් වාර්තා වූ අතර, එම පිපිරුම් සම්බන්ධයෙන් ඊශ්‍රායලයේ මොසාඩ් ඔත්තු සේවයට චෝදනා එල්ල වී ඇත.
+Lebanon-Israel conflict escalates: Hezbollah accuses Israel of violating limits, Israel launches airstrikes in retaliation. Casualties reported on both sides.
 
-විදෙස් මාධ්‍ය වාර්තා කර සිටියේ මෙම පිපිරුම් මාලාවෙන් 37 දෙනෙකු මියගොස් 3,000කට ආසන්න පිරිසක් තුවාල ලැබූ බවය.
+🟩
 
-මෙවන් පසුබිමක හිස්බුල්ලා නායක හසාන් නසරල්ලා පිපිරුම් මාලාවෙන් පසුව පළමු වරට ඊයේ (19) සිය ජනතාව ඇමතීය.
+In many cities including Beerout in Lebanon, the hezbollah train talks were reported, and Israeli Mossad intelligence was accused of Israel's Mossad intelligence.
 
-එහිදී හෙතෙම අවධාරණය කර සිටියේ, ඊශ්‍රායලය සියලුම සීමා කඩකළ බවය. මෙලෙස රැහැන් රහිත සන්නිවේදන යන්ත්‍ර පුපුරායාම යුද ප්‍රකාශ කිරීමකට සමාන බවට ඔහු චෝදනා කළේය.
+Foreign media reports that 37 deaths were killed and 3,000 injured in the blast.
 
-මෙම පිපිරුම් මාලාව අනපේක්ෂිත ප්‍රහාරයක් බවට පිළිගත් හිස්බුල්ලා නායකයා, ඒ සම්බන්ධයෙන් ඊශ්‍රායලයට නිසැකව ප්‍රතිවිපාක විඳීමට සිදුවන බවද අවධාරණය කළේය.
+Hezbollah leader Hasan Nazaralla Biggest series was held yesterday (19).
 
-කෙසේ වෙතත් හිස්බුල්ලා නායකයාගේ ප්‍රකාශය අතරතුරදී ද ඊශ්‍රායල යුද ගුවන්යානා බීරුට් ගුවනේ පියාසර කරන අයුරු විදෙස් මාධ්‍ය වාර්තා කර සිටියේය.
+He also stressed that Israel had violated all limits. He accused such a wireless communication engine to an eruption of a war.
 
-එමෙන්ම ඔහුගේ ප්‍රකාශයෙන් පසුව ඊයේ රාත්‍රියේ දී ද ඊශ්‍රායලය ලෙබනනයේ රොකට් ප්‍රහාරක අවි ඉලක්ක කරමින් ගුවන් ප්‍රහාර සිය ගණනක් එල්ල කර ඇත.
+The Hezbollah leader, who is recognized into an unexpected attack, emphasized that Israel will certainly be consequenced by the consequences.
 
-...
+However, during the declaration of Hezbollah, Israeli Aircraft Bertresses were also reported to fly.
+
+And after his statement, Israel has also launched hundreds of air strikers at Lebanon in Lebanon last night.
+
+Israel says that the rocket fighter weapons were ready to attack Israel.
+
+Israel has decided to reduce the terrorism of the organization of Hezbollah.
+
+◼️
 
 [Data](articles/01b681cb.json)
 
+[Extended Data](ext_articles/01b681cb.ext.json)
+
 ---
 
-### 145 வாக்காளர் அட்டைகளை  விநியோகிக்காமல் வைத்திருந்த தபால் ஊழியர்
+### The postal employee who kept 145 voter cards without distributing
 
 *2024-09-20 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194170) · `ta`
 
-புத்தளத்தில் 145 வாக்காளர் அட்டைகளை விநியோகிக்காமல் தபால் ஊழியர் ஒருவர் தம்வசம் வைத்திருந்ததாக அவர் மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+Postal worker accused of hoarding 145 voter cards in Puttalam. UNP agent reports incident. District Postal Superintendent investigates.
 
-புத்தளம் வாக்காளிப்பு நிலையங்களுக்கான ஐக்கிய தேசியக் கட்சியின் முகவரிடம் இருந்து கிடைக்கப்பெற்ற முறைப்பாட்டின் பேரில் புத்தளம் மாவட்ட தபால் அத்தியட்சகர் இந்த சம்பவம் தொடர்பில் விசாரணைகளை ஆரம்பித்துள்ளார்.
+🟩
+
+He has been accused of having a postal worker in Puttalam without distributing 145 voter cards.
+
+Puttalam District Postal Superintendent has launched an investigation into the incident on the complaint made from the United National Party (UNP) agent for the Puttalam voting centers.
 
 ◼️
 
 [Data](articles/e778f2d1.json)
+
+[Extended Data](ext_articles/e778f2d1.ext.json)
 
 ---
 
@@ -134,21 +218,27 @@ In addition to Travis, Manus Laberusan scored 77 runs off 61 balls.
 
 ---
 
-### மன்னார் மாவட்டத்தில் 98 வாக்களிப்பு நிலையங்களுக்கும் வாக்குப் பெட்டிகள் அனுப்பிவைப்பு
+### Voting boxes to 98 polling stations in Mannar district
 
 *2024-09-20 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194175) · `ta`
 
-நாட்டின் ஒன்பதாவது ஜனாதிபதித் தேர்தலுக்கான வாக்களிப்பு நடவடிக்கைகள் நாளை சனிக்கிழமை (21) காலை நடைபெறவுள்ளது.
+Tomorrow: Voting begins at 98 Mannar polling stations. Ballot boxes transported under police escort. 90,607 eligible voters in Mannar district.
 
-குறித்த நிலையங்களுக்கு வாக்குப் பெட்டிகள் அனைத்தும் இன்று வெள்ளிக்கிழமை (19) காலை 9 மணி முதல் எடுத்துச் செல்லப்பட்டுள்ளது.
+🟩
 
-மன்னார் மாவட்டத்தின் வாக்கெண்ணும் மத்திய நிலையமாக செயற்பட்டு வரும் மன்னார் மாவட்டச் செயலகத்தில்  இருந்து குறித்த வாக்குப்பெட்டிகள் அனைத்தும் வாக்களிப்பு நிலையங்களுக்கு பொலிஸாரின் பாதுகாப்புடன் பேருந்துகளின் மூலம் எடுத்துச் செல்லப்பட்டது.
+Voting for the country's ninth presidential election will be held tomorrow morning (21st).
 
-இதேவேளை மன்னார் மாவட்டத்தில்  90 ஆயிரத்து 607 வாக்காளர்கள்  வாக்களிக்க தகுதி பெற்றுள்ளமை குறிப்பிடத்தக்கது.
+All the ballot boxes for the stations have been taken today (19) from 9 am.
+
+All the ballot boxes from the Mannar District Secretariat, which operates as a voting center in the Mannar district, was taken by buses to the polling stations with the security of the police.
+
+Meanwhile, 90 thousand 607 voters in Mannar district are eligible to vote.
 
 ◼️
 
 [Data](articles/896371e8.json)
+
+[Extended Data](ext_articles/896371e8.ext.json)
 
 ---
 
@@ -732,19 +822,19 @@ The shooting had occurred in front of a residence, with the victim being the int
 
 *2024-09-20 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102089/dehiwala-shooting-victim-succumbs-to-injuries) · `en`
 
-UPDATE: The 45-year-old man who was shot by an unidentified gunman at Kadawatha Road in Dehiwala, has succumbed to his injuries after being admitted to the Kalubowila Hospital.
+UPDATE: The 45-year-old man, who was shot by an unidentified gunman at Kadawatha Road in Dehiwala, has succumbed to his injuries after being admitted to the Kalubowila Hospital.
 
-The shooting had occurred at around 6.40 a.m. this morning (20) in front of a residence in the Kalubowila area of the Dehiwala Police Division.
+The shooting had occurred at around 6.40 a.m. this morning (20) near the Nedimala Cricket Ground in Dehiwala police division.
+
+The investigations have commenced with information received by Dehiwala Police that two  unidentified gunmen, who had arrived on a motorcycle, opened fire at a person who was traveling on a motorcycle from Kalubowila to Dehiwala, before fleeing the scene.
 
 The gunmen had reportedly fired two shots at the target which had hit him near the right shoulder, before fleeing the scene. The victim later succumbed to the injuries while receiving treatment at the Kalubowila Hospital.
 
-It has been reported that the shooting may have been the result of a conflict between drug dealers.
+It has been reported that the shooting may have been the result of a conflict between rival drug dealers.
 
-A 45-year-old man has been shot and injured by an unidentified gunman at Kadawatha Road in Dehiwala.
+The deceased is said to be an Urban Council employee who is a residence of Gunalankara Mawatha, Saranankara area.
 
-The victim has been admitted to the Kalubowila Hospital for treatment, according to police.
-
-◼️
+...
 
 [Data](articles/cde69f63.json)
 
@@ -2167,63 +2257,5 @@ Similarly, the Executive Committee of the International Bilbage Committee, which
 [Data](articles/6d9694c7.json)
 
 [Extended Data](ext_articles/6d9694c7.ext.json)
-
----
-
-### If you go on election day, they can be arrested
-
-*2024-09-19 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201208) · `si`
-
-Election Commission warns against gatherings on voting day. Chairman states assemblies near polling stations may lead to arrests or involvement with security forces. Public prohibited from fireworks, TV broadcasts during vote counting. Violators face legal consequences.
-
-🟩
-
-The Chairman of the Election Commission is the Chairman of the Election Commission that it is the case with the expiry of television or large screens at the roads at the streets when the vote is counting.. M. A. L. Says Mr. Ratnayake.
-
-He said that such meetings have the potential to dissolve or connect them to the security forces.
-
-Chairman of the Election Commission (Elections Commission)
-
-"In the event of the election date of votes and demanding the home, for no reason or the polling centers. The public is banned by the law and enjoy the crackers, lighting in the roads and enjoying the crackers, with the enjoyment of television programs at the time of counting the votes and broadcasting tv programs.. Sovereign is guilty of such assemblies. They are able to dissolve or connect to the security forces. "
-
-◼️
-
-[Data](articles/d5cd7fe3.json)
-
-[Extended Data](ext_articles/d5cd7fe3.ext.json)
-
----
-
-### Letham, Villianusan half -centuries accumulation: New Zealand moves towards a strong position
-
-*2024-09-19 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194128) · `ta`
-
-New Zealand leads vs Sri Lanka after Day 2: Letham, Williamson shine. NZ 255/4, Sri Lanka 305 all out. O'Rourke takes 5 wickets.
-
-🟩
-
-New Zealand is moving towards a strong position on Thursday (20), the second day of the first Test cricket match against Sri Lanka and former team captain Kane Williamson.
-
-In response to 305 runs in Sri Lanka in the first innings, New Zealand scored 255 runs for the loss of 4 wickets at the end of the 2nd day.
-
-Both Tom Letham and Devan Konway shared 63 runs.
-
-After Konway lost 16 runs, Tom Letham and Kane Williamson shared 73 runs in the 2nd wicket.
-
-Williamson then shared 51 runs with Rachin Ravindra in the 3rd wicket.
-
-Terril Michelle Michelle, who followed them, did not lose 41 runs and Tom Blundel 18.
-
-Sri Lanka lost their first innings yesterday morning from 302 runs for the loss of 7 wickets and lost their last 3 wickets for 3 more runs.
-
-Ramesh Mendis lost the same number with 14 runs.
-
-William O'Ruq took 5 wickets for 55 runs, Glen Phillips took 2 wickets for 52 runs while Ajaz Patel took 2 wickets for 60 runs.
-
-...
-
-[Data](articles/6298b662.json)
-
-[Extended Data](ext_articles/6298b662.ext.json)
 
 ---

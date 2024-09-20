@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 00:23:23**
+As of **2024-09-21 00:38:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,978 (100.0%) of 44,984 articles have been extended.
+44,984 (100.0%) of 44,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -110,6 +110,8 @@ Commonwealth Observer Group Chairperson, former President of Seychelles, HE Dann
 
 [Data](articles/ff7d457f.json)
 
+[Extended Data](ext_articles/ff7d457f.ext.json)
+
 ---
 
 ### Police Sergeant arrested while accepting bribe
@@ -127,6 +129,8 @@ The suspect is expected to be produced before the Polgahawela Magistrate’s Cou
 ◼️
 
 [Data](articles/2f55236b.json)
+
+[Extended Data](ext_articles/2f55236b.ext.json)
 
 ---
 
@@ -378,6 +382,8 @@ The Israeli official spoke on condition of anonymity because he was discussing a
 
 [Data](articles/fda8612d.json)
 
+[Extended Data](ext_articles/fda8612d.ext.json)
+
 ---
 
 ### Economists say that foreign loan restructuring is a victory achieved
@@ -476,6 +482,8 @@ The statement further says that the three MPs’ membership in SLPP’s All-Isla
 
 [Data](articles/0c59cb87.json)
 
+[Extended Data](ext_articles/0c59cb87.ext.json)
+
 ---
 
 ### Considering the passage of the resolution on Sri Lanka with a referendum or vote;The final draft will be submitted in the first week of October
@@ -515,6 +523,8 @@ The petitioner claims that the interest rate of the debt related to internationa
 ...
 
 [Data](articles/be5deb1f.json)
+
+[Extended Data](ext_articles/be5deb1f.ext.json)
 
 ---
 
@@ -671,6 +681,8 @@ The Deputy Solicitor General, representing the Attorney General, stated that the
 ...
 
 [Data](articles/8d427170.json)
+
+[Extended Data](ext_articles/8d427170.ext.json)
 
 ---
 

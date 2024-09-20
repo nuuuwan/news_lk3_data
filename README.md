@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 00:38:12**
+As of **2024-09-21 00:55:24**
 
 ## Newspaper Stats
 
-*Scraped **44,984** Articles*
+*Scraped **44,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 438
 colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,728
-dailyftlk | 3,001
+dailyftlk | 3,012
 adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,286
-tamilmirrorlk | 5,893
+tamilmirrorlk | 5,894
 virakesarilk | 7,202
 adaderanasinhalalk | 7,710
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,984 (100.0%) of 44,984 articles have been extended.
+44,988 (100.0%) of 44,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### 12 people injured in bus accident
+
+*2024-09-21 00:26:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-12-பேருக்கு-காயம்/175-344070) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Bus crash injures 12 near Kumbukana. 5 hospitalized in Moneragala. Accident occurred during Colombo-bound journey from Moneragala.
+
+🟩
+
+At least 12 people were injured when a private bus traveling from Moneragala to Colombo crashed into Kumbukana area.
+
+Five of the injured have been admitted to the Emergency Department of Moneragala District General Hospital. (A)
+
+◼️
+
+[Data](articles/cd700ffa.json)
+
+[Extended Data](ext_articles/cd700ffa.ext.json)
+
+---
+
+### Thoughts for the incoming President
+
+*2024-09-21 00:07:12* · [`dailyftlk`](https://www.ft.lk/columns/Thoughts-for-the-incoming-President/4-766972) · `en`
+
+While thanking all, the winning candidate’s message to all district and electoral organisers, should be that every one should be treated with dignity and respect – Pic by Shehan Gunasekara
+
+I have been asked to share my thoughts, on what the incoming President of Sri Lanka should address in his first few days. These are only a few of my expectations, which I commence with the words “Towards a deliverable or short term milestone”.
+
+A. Towards immediate transition to a laudable benchmark of law and order; preventing and pre-empting post election disturbances, and tempering celebrations of victory
+
+...
+
+[Data](articles/545af133.json)
+
+[Extended Data](ext_articles/545af133.ext.json)
+
+---
 
 ### Don’t look back in anger
 
@@ -72,6 +114,40 @@ In 2023, the government of Interim President Ranil Wickremesinghe secured a $2.9
 
 ### 2024-09-20 (Friday)
 
+### Global dark clouds could be gathering; stabilisation of economy must be top priority of Presidential candidates
+
+*2024-09-20 23:57:29* · [`dailyftlk`](https://www.ft.lk/columns/Global-dark-clouds-could-be-gathering-stabilisation-of-economy-must-be-top-priority-of-Presidential-candidates/4-766968) · `en`
+
+They need to make a careful decision on 21 September when they cast their votes as to who is best placed to guide the country’s destiny in the next five years – Pic by Shehan Gunasekara
+
+“It’s the economy, stupid” quote by Bill Clinton is a phrase that was coined by Jim Carville in 1992. It is often quoted from a televised quip by Carville as “It’s the economy, stupid.” Carville was a strategist in Bill Clinton’s successful 1992 US presidential election against incumbent George H.W. Bush – Wikipedia
+
+...
+
+[Data](articles/c5abe747.json)
+
+[Extended Data](ext_articles/c5abe747.ext.json)
+
+---
+
+### Sri Lanka’s workers live on margins, politicians still want their votes
+
+*2024-09-20 23:54:47* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-workers-live-on-margins-politicians-still-want-their-votes/14-766967) · `en`
+
+AP: Whoever Sri Lanka’s next president is, Muthuthevarkittan Manohari isn’t expecting much to change in her daily struggle to feed the four children and elderly mother with whom she lives in a dilapidated room in a tea plantation.
+
+Both leading candidates in Saturday’s presidential election are promising to give land to the country’s hundreds of thousands of plantation workers, but Manohari says she’s heard it all before. Sri Lanka’s plantation workers are a long-marginalised group who frequently live in dire poverty, but they can swing elections by voting as a bloc.
+
+Mahohari and her family are descended from Indian indentured labourers who were brought in by the British during colonial rule to work on plantations that grew first coffee, and later tea and rubber. Those crops are still Sri Lanka’s leading foreign exchange earners.
+
+...
+
+[Data](articles/4ca0822e.json)
+
+[Extended Data](ext_articles/4ca0822e.ext.json)
+
+---
+
 ### The results of the election will be unable to announce
 
 *2024-09-20 23:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகளை-அறிவிக்க-முடியாத-நிலை-ஏற்படும்/175-344069) · `ta`
@@ -91,6 +167,142 @@ He also said that strict action will be taken against any parties that will affe
 [Data](articles/0e78cfa0.json)
 
 [Extended Data](ext_articles/0e78cfa0.ext.json)
+
+---
+
+### Japan’s Mirai Consulting Group explores investment opportunities in Sri Lanka
+
+*2024-09-20 23:53:16* · [`dailyftlk`](https://www.ft.lk/business/Japan-s-Mirai-Consulting-Group-explores-investment-opportunities-in-Sri-Lanka/34-766966) · `en`
+
+A high-level delegation from Mirai Consulting Group in Japan, recently visited Sri Lanka to explore potential investment opportunities in various sectors.
+
+The delegation, led by Mirai Consulting Group COO Okada Atsushi met with the EDB Chairman and CEO Dr. Kingsley Bernard at the EDB headquarters.
+
+The purpose of the visit was to identify industries that aligned with the investment interests of Japanese companies and to explore the potential for collaboration and partnerships in Sri Lanka.
+
+Mirai Consulting Group International Business Consultant Shaakir Hussain Sathar was also part of the delegation.
+
+During the meeting, the delegation discussed the investment climate in Sri Lanka, explored potential projects and partnerships and gained insights into the country’s economic landscape.
+
+The visit is expected to strengthen the bilateral relationship between Sri Lanka and Japanas well as to promote investment and economic cooperation.
+
+...
+
+[Data](articles/c6f2e5db.json)
+
+---
+
+### 5D Concept unveils website
+
+*2024-09-20 23:52:39* · [`dailyftlk`](https://www.ft.lk/business/5D-Concept-unveils-website/34-766965) · `en`
+
+‘5D Concept’ has recently unveiled its new website, offering valuable insights, knowledge, and experiences to anyone interested in learning more about the concept.
+
+Since its debut in 2015, the 5D Concept has been making waves, and now it is taking the next big step to broaden its impact and connect with audiences worldwide.
+
+5D Concept Founder Deshan Amarasinghe said: “Everything in the 5D Concept started with a purpose, and the launch of this official website can be seen as one of the results of the dedication and determination for that purpose.”
+
+The 5D Concept is structured around five core pillars – Dream, Duty, Discipline, Determination, and Dedication – providing a holistic framework designed to guide users towards achieving their highest potential.
+
+...
+
+[Data](articles/ea296c34.json)
+
+---
+
+### Ceylon Energy and HJT China celebrate completion of Maho and Ampara 33kV power distribution lines under SESRIP
+
+*2024-09-20 23:51:52* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Energy-and-HJT-China-celebrate-completion-of-Maho-and-Ampara-33kV-power-distribution-lines-under-SESRIP/34-766964) · `en`
+
+From left: CEB Project Director – SESRIP K.M.G.U.R. Dias, CEB Chairman N.S. Ilangakoon, HJT China Chairman Liu Kai, and Ceylon Energy Chairman Madushanka Fernando
+
+Ceylon Energy, in partnership with HJT China, proudly announces the successful completion of the Maho and Ampara 33kV power distribution lines. These milestones mark a significant achievement within the broader Supporting Electricity Supply Reliability Improvement Project (SESRIP), a groundbreaking initiative designed to revolutionise energy distribution across Sri Lanka.
+
+...
+
+[Data](articles/2987a125.json)
+
+---
+
+### SIUK Lanka obtains enjoining orders restraining illegally-obtained data use by ex-employee
+
+*2024-09-20 23:50:28* · [`dailyftlk`](https://www.ft.lk/business/SIUK-Lanka-obtains-enjoining-orders-restraining-illegally-obtained-data-use-by-ex-employee/34-766963) · `en`
+
+The plaintiff, SIUK Lanka Ltd., instituted legal proceedings in respect of an ex-employee, the defendant, who had violated the intellectual property rights of the plaintiff by stealing the plaintiff’s data.
+
+The plaintiff’s position, as set out in its plaint, is that they are the Sri Lankan branch of the world-renowned “SIUK Global”, a United Kingdom-based international education consultant organisation, which works with universities and higher education institutions and helps students with the application and selection process for foreign universities including inter alia in the UK, USA, Canada, Ireland, Australia, New Zealand and Dubai. Operating since 2006 and now having over 90 offices in over 40 countries across the world, “SIUK Global” has partnerships with over 100 universities worldwide and assists more than 10,000 students annually.
+
+...
+
+[Data](articles/05f9a5c9.json)
+
+---
+
+### Markspen Holdings opens “Smart Hub” in Kurunegala
+
+*2024-09-20 23:50:16* · [`dailyftlk`](https://www.ft.lk/business/Markspen-Holdings-opens-Smart-Hub-in-Kurunegala/34-766962) · `en`
+
+From left: Directress Dinali Galanga,General Manager Duleep Gunasekera, Directress Sigithi Galanga, Chairman Amil Galanga, Director Suresh Galanga
+
+In an effort to bring superior quality products and services to consumers under one roof, the sole importer and distributor of the DOMA CTP20 automatic rice mill, Markspen Holdings Ltd. recently opened doors to its brand-new showroom in Kurunegala.
+
+The state-of-the-art “Smart Hub” is located at No.389 Bamunuwela, Kurunegala. The new smart hub embodies the theme “We design your future” and ensures that customers get superior quality products and services.
+
+The opening ceremony took place under the patronage of Markspen Group Chairman Amil Galanga. Directors Suresh Galanga and Dinali Galanga, Group General Manager Duleep Gunasekera, and members of staff were also present.
+
+...
+
+[Data](articles/9ddd1e97.json)
+
+---
+
+### The SLASSCOM Mega Mind Quiz Show 2024: An evening of intellectual challenge and networking
+
+*2024-09-20 23:48:57* · [`dailyftlk`](https://www.ft.lk/business/The-SLASSCOM-Mega-Mind-Quiz-Show-2024-An-evening-of-intellectual-challenge-and-networking/34-766961) · `en`
+
+From left: SLASSCOM Executive Director Chaminda de Silva, ADA South Asia Regional Head and Board Director Sanjini
+
+Munaweera, Hexaware Technologies SL Country Head Hariharan Padbanaban, Head of Talent Acquisition Roshen Warnacula
+
+The SLASSCOM Mega Mind Quiz Show 2024, promises to deliver an evening brimming with brain-teasing excitement and networking opportunities. This highly anticipated event is crafted to elevate member engagement and foster collaboration across the tech community.
+
+The quiz will feature rounds that test participants’ knowledge that include current affairs and global politics, general knowledge, technology and trends, sports and entertainment. This diverse array of topics is designed to offer a stimulating experience that promotes continuous learning and will test participants’ knowledge across various domains.
+
+...
+
+[Data](articles/b447ada2.json)
+
+---
+
+### The path ahead after the poll
+
+*2024-09-20 23:35:05* · [`dailyftlk`](https://www.ft.lk/columns/The-path-ahead-after-the-poll/4-766955) · `en`
+
+Vote wisely, and well then, with an eye on the general elections to follow – Pic by Shehan Gunasekara
+
+A radical point has been made often enough: It is an election like no other in our nation’s history.
+
+On one hand, the first election since the flaring up and fading away of the Aragalaya. So Sri Lanka’s most vocal demographic’s premier opportunity to press the case again. There is so much at stake for all those representative stakeholders who agitated for ‘system change’.
+
+On the other hand, one last stand for the traditional parties who are an entrenched part of the system to fight to retain their bastions of influence and privilege. For them too, those powerful elites who have enjoyed state capture at the expense of the poor, average citizens and others marginalised in many ways, so much is at stake...
+
+Today there is no time to think too much. There was a time for that, and it was all our yesterdays leading up to that box inside this polling booth.
+
+...
+
+[Data](articles/8e342c8f.json)
+
+---
+
+### Ethnic reconciliation must be priority for new President
+
+*2024-09-20 23:32:26* · [`dailyftlk`](https://www.ft.lk/opinion/Ethnic-reconciliation-must-be-priority-for-new-President/14-766954) · `en`
+
+As the Presidential election campaign draws to a close, the focus must shift from electoral competition to the urgent challenges facing the country. While the election outcome remains uncertain, what is clear is that the next President will inherit a country grappling with economic instability and deep-rooted problems of impunity and corruption. A pressing challenge that also needs to be at the forefront of the Government that is formed is the need to resolve the long-standing ethnic conflict through a sustainable political solution based on the devolution of power. The new President must prioritise this issue to bring lasting peace and unity to the country.
+
+...
+
+[Data](articles/57208e5c.json)
 
 ---
 
@@ -2149,273 +2361,5 @@ In Thursday’s late operation, Israel’s military said its jets over two hours
 [Data](articles/6cfad2f1.json)
 
 [Extended Data](ext_articles/6cfad2f1.ext.json)
-
----
-
-### Sri Lanka’s first ambassador to Romania presents credentials
-
-*2024-09-20 10:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-first-ambassador-to-romania-presents-credentials-180104/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s ambassador extraordinary and plenipotentiary to Romania Madurika Joseph Weninger presented letters of credence to President Klaus-Werner Iohannis at the historic Cotroceni Palace in Bucharest.
-
-President Iohannis expressed optimism for future collaborations, the Embassy of Sri Lanka in Bucharest said in a statement.
-
-In a discussion afterwards Ambassador Weninger recalled the long-standing friendship with Romania since the establishment of diplomatic relations in 1957, and emphasized that bilateral relations have seen growth across various domains, enhancing cooperation in numerous sectors.
-
-The discussion focused on strengthening and expanding relations between the two countries, especially in economic, trade, investment, and tourism sectors.
-
-Romania provides employment for over 40,000 Sri Lankan nationals across various sectors, including apparel, construction, hospitality, and agriculture.
-
-...
-
-[Data](articles/8170c4e8.json)
-
-[Extended Data](ext_articles/8170c4e8.ext.json)
-
----
-
-### Basil goes to America
-
-*2024-09-20 10:26:13* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්-ඇමෙරිකාවට-යයි/11-412043) · `si`
-
-Basil travels to America. He uses Gold Route terminal at Bandaranaike Airport, paying $206. Leaves Katunayake Airport at 3:05 AM on September 5th.
-
-🟩
-
-The officer in charge of the airport was leaving the Kandyst of Sri Lanka, the Founder of the Sri Lanka Filling Filling.
-
-Emirates Airlines have left the Emirates Airport at 03.05 am on the morning of the 9.05am.
-
-He paid US $ 206 to access the aircraft and had also obtained the facility of the "Gold Route terminal at the Bandaranaike International Airport.
-
-Under this facility, all clearances, such as the airport, such as Customs and Immigration and Emigration, will come to the terminal.
-
-Sources from Katunayake Airlines said that he has always been used to leave the US to the US to go to the US to the United States.
-
-◼️
-
-[Data](articles/66d09f80.json)
-
-[Extended Data](ext_articles/66d09f80.ext.json)
-
----
-
-### Two suspects arrested for murder of Midamigama
-
-*2024-09-20 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201222) · `si`
-
-Two suspects, ages 30 and 38, arrested for murder and heroin possession in Midamigama. Residents of Angulugaha and Kotte. Handed to Midigama Police for investigation regarding Gavipavana Bridge incident.
-
-🟩
-
-Two suspects were arrested with heroin in connection with heroin.
-
-The two suspects were residents of Angulugaha and Kotte areas aged 30 and 38 years old.
-
-Accordingly, the arrested persons were handed over to the Midigama Police Station for further investigations.
-
-It is said that the police are able to doubt the suspects in connection with the victim in the Gavivapana Bridge.
-
-◼️
-
-[Data](articles/be2b77bd.json)
-
-[Extended Data](ext_articles/be2b77bd.ext.json)
-
----
-
-### High positions of the Group for the appointment of the Sri Lankan Ambassador to Kuwait Kingdom
-
-*2024-09-20 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194154) · `ta`
-
-Sri Lanka appoints LP Ratnayaka as Ambassador to Kuwait. Recommendation made by High Commission group. Meeting attended by Speaker Mahinda Yapa Abeywardena and committee members.
-
-🟩
-
-The Group of High Commission on Thursday (18) has been given a recommendation for the appointment of the Sri Lankan Ambassador to Kuwait Kingdom on Thursday (18).
-
-Accordingly, the Group of High positions has recommended the name of LP Ratnayaka as the Ambassador to the Kingdom of Kuwait.
-
-Vidura Wickramanayaka, Members of the Committee, Vidura Wickramanayake, Sudarshini Fernandanpulle and Udaya Kammanpila were present at the Committee meeting chaired by Speaker Mahinda Yapa Abeywardena.
-
-◼️
-
-[Data](articles/c76a329a.json)
-
-[Extended Data](ext_articles/c76a329a.ext.json)
-
----
-
-### 9 state officials removed from election duties
-
-*2024-09-20 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/194151) · `ta`
-
-9 state officials removed from election duties in Hambantota district due to allegations of bias towards presidential candidates. Investigation led to removal of 9 out of 19 officers. Vacancies filled promptly.
-
-🟩
-
-Nine state officials from the Hambantota district have been removed from the election duties, said District Elections Officer MP Sumanasekara.
-
-They have been sacked from election duties on the allegation that they have acted in favor of the presidential candidates.
-
-The Center to resolve the Hambantota district election disputes has received complaints that the Presidential candidates, including 9 Principals, one Deputy Chancellor, Four Teachers, Public Health Inspector, Samurdhi Manager and three doctors, were acting in favor of the presidential candidates.
-
-Following the investigation, nine out of 19 officers have been sacked from election duties.
-
-District Election Officer Sumanasekera said that the vacancies of those who have been deleted from the duties have already been filled.
-
-◼️
-
-[Data](articles/a5b0f5a3.json)
-
-[Extended Data](ext_articles/a5b0f5a3.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 305.00/75, bond yields broadly steady
-
-*2024-09-20 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-305-00-75-bond-yields-broadly-steady-180159/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 305.00/75 to the US dollar on Friday, from 304.50/80 Thursday, dealers said. Bond yields were broadly steady, they said, while stocks opened up 0.78 percent higher.
-
-A bond maturing on 15.02.2028 was quoted at 13.60/70 percent, down from 13.65/80 percent.
-
-A bond maturing on 15.06.2029 was quoted at 13.85/90 percent, up from 13.82/90 percent.
-
-In equities, Colombo’s All Share Price Index was opened 84.69 points higher at 10,969, while the S&P SL20 of more liquid stocks opened up at 1.40 percent or 42.96 points to 3,104.
-
-◼️
-
-[Data](articles/bc4c9aa0.json)
-
-[Extended Data](ext_articles/bc4c9aa0.ext.json)
-
----
-
-### Suspect wanted for financial fraud arrested at BIA
-
-*2024-09-20 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102091/suspect-wanted-for-financial-fraud-arrested-at-bia) · `en`
-
-A suspect wanted in connection with an investigation has been arrested at the Bandaranaike International Airport (BIA) premises after arriving in Sri Lanka from Dubai.
-
-The Criminal Investigation Department (CID) said the suspect, involved in a financial fraud case, was taken into custody.
-
-The 32-year-old suspect, a resident of Kandy, is accused of defrauding over Rs. 10.8 million while working as a sales representative for a private company.
-
-◼️
-
-[Data](articles/3fe092a4.json)
-
-[Extended Data](ext_articles/3fe092a4.ext.json)
-
----
-
-### Man killed in shooting in Dehiwala
-
-*2024-09-20 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201221) · `si`
-
-Dehiwala shooting: Man killed, two flee. Victim, 45, died at hospital. Attack linked to drug dealers.
-
-🟩
-
-The victim was killed in the shooting at the Dehiwala area this morning (20).
-
-Two unidentified unidentified unidentified people had fled the shooting at Kabowila Road, Kabowila Road.
-
-Two shots of the injured personnel were shot dead and died while he was receiving treatment at the Kalubowila Hospital.
-
-The injured person is a 45 year old town.
-
-It is reported that the attack took place as a result of the drug dealers.
-
-◼️
-
-[Data](articles/a4c00c09.json)
-
-[Extended Data](ext_articles/a4c00c09.ext.json)
-
----
-
-### Nine govt officials removed from election duties
-
-*2024-09-20 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102090/nine-govt-officials-removed-from-election-duties) · `en`
-
-District Returning Officer M. P. Sumanasekara stated that nine government officials from the Hambantota District have been removed from their respective election duties after being found guilty of promoting presidential candidates.
-
-The Hambantota District Election Dispute Resolution Center had received complaints regarding 19 government officials, including nine principals, a deputy principal, four teachers, a public health inspector, a ‘Samurdhi’ manager, and three doctors, for allegedly engaging in promotion of candidates.
-
-Following investigations, nine of the 19 officials were relieved of their election duties.
-
-When inquired by Ada Derana, District Returning Officer Sumanasekara stated that the vacancies created by their removal have already been filled.
-
-◼️
-
-[Data](articles/565a2126.json)
-
-[Extended Data](ext_articles/565a2126.ext.json)
-
----
-
-### Mirai Consulting of Japan visit Sri Lanka to scout investment opportunities
-
-*2024-09-20 08:30:00* · [`economynextcom`](https://economynext.com/mirai-consulting-of-japan-visit-sri-lanka-to-scout-investment-opportunities-180099/) · `en`
-
-ECONOMYNEXT – A team from Japan’s Mirai Consulting Group visited Sri Lanka recently to explore potential investment opportunities in various sectors.
-
-The delegation, including Mirai’s COO Okada Atsushi and international business consultant Shaakir Hussain Sathar met with Export Development Board Chairman Kingsley Bernard.
-
-The purpose of the visit was to identify industries that aligned with the investment interests of Japanese companies and to explore the potential for collaboration and partnerships in Sri Lanka, EDB said in a statement.
-
-“During the meeting, the delegation discussed the investment climate in Sri Lanka, explored potential projects and partnerships, and gained insights into the country’s economic landscape.”
-
-The visit is expected to strengthen the bilateral relationship between Sri Lanka and Japan as well as to promote investment and economic cooperation.
-
-...
-
-[Data](articles/fe6ce5d7.json)
-
-[Extended Data](ext_articles/fe6ce5d7.ext.json)
-
----
-
-### 45-year-old injured in shooting in Dehiwala
-
-*2024-09-20 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102089/45-year-old-injured-in-shooting-in-dehiwala) · `en`
-
-A 45-year-old man has been shot and injured by an unidentified gunman at Kadawatha Road in Dehiwala.
-
-The victim has been admitted to the Kalubowila Hospital for treatment, according to police.
-
-The shooting had occurred in front of a residence, with the victim being the intended target.
-
-◼️
-
-[Data](articles/77536459.json)
-
-[Extended Data](ext_articles/77536459.ext.json)
-
----
-
-### Dehiwala shooting victim succumbs to injuries
-
-*2024-09-20 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102089/dehiwala-shooting-victim-succumbs-to-injuries) · `en`
-
-UPDATE: The 45-year-old man, who was shot by an unidentified gunman at Kadawatha Road in Dehiwala, has succumbed to his injuries after being admitted to the Kalubowila Hospital.
-
-The shooting had occurred at around 6.40 a.m. this morning (20) near the Nedimala Cricket Ground in Dehiwala police division.
-
-The investigations have commenced with information received by Dehiwala Police that two  unidentified gunmen, who had arrived on a motorcycle, opened fire at a person who was traveling on a motorcycle from Kalubowila to Dehiwala, before fleeing the scene.
-
-The gunmen had reportedly fired two shots at the target which had hit him near the right shoulder, before fleeing the scene. The victim later succumbed to the injuries while receiving treatment at the Kalubowila Hospital.
-
-It has been reported that the shooting may have been the result of a conflict between rival drug dealers.
-
-The deceased is said to be an Urban Council employee who is a residence of Gunalankara Mawatha, Saranankara area.
-
-...
-
-[Data](articles/cde69f63.json)
-
-[Extended Data](ext_articles/cde69f63.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 12:12:38**
+As of **2024-09-20 12:24:02**
 
 ## Newspaper Stats
 
-*Scraped **44,898** Articles*
+*Scraped **44,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ economynextcom | 2,718
 dailyftlk | 2,999
 adalk | 4,151
 dailymirrorlk | 4,733
-adaderanalk | 5,274
+adaderanalk | 5,275
 tamilmirrorlk | 5,878
 virakesarilk | 7,182
-adaderanasinhalalk | 7,691
+adaderanasinhalalk | 7,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,898 (100.0%) of 44,898 articles have been extended.
+44,898 (100.0%) of 44,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### ශිෂ්‍යත්වය නැවත පැවැත්වෙයි ද ?
+
+*2024-09-20 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201227) · `si`
+
+මෙවර පැවැත්වුණු 5 වසර ශිෂ්‍යත්ව විභාගයට අදාළව විභාග ප්‍රශ්න පත්‍රය පිටවී ඇති බවට පරීක්ෂණවලින් අනාවරණය වුවහොත් විභාගය නැවත වතාවක් පැවැත්වීමට කටයුතු කිරීමට හැකි බව අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් තිලකා ජයසුන්දර මහත්මිය අද (20) සඳහන් කළාය.
+
+"සැප්තැම්බර් මස 15 වනදා 5 වසර ශිෂ්‍යත්වය විභාගය පැවැත්වුවා. එහි ප්‍රශ්න පත්‍රයක් පිටවී ඇති බවට කරුණු හෙළිවීමත් සමග විභාග දෙපාර්තමේන්තුව මගින් පරීක්ෂණයක් සිදු කළා. ඒ මූලික පරීක්ෂණ වාර්තාවත් සමග අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දැන් පරීක්ෂණ සිදුකරනවා. ඒ අනුව පරීක්ෂණයේ ප්‍රතිඵල අනුව කටයුතු කරන්න කියලා ජනාධිපතිතුමා සහ අමාත්‍යතුමා උපදෙස් දුන්නා."
+
+◼️
+
+[Data](articles/bd4a30f5.json)
+
+---
+
+### Decision on re-holding Grade 5 Scholarship exam after probing ‘paper leak’
+
+*2024-09-20 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102094/decision-on-re-holding-grade-5-scholarship-exam-after-probing-paper-leak) · `en`
+
+The Education Ministry says the decision on whether to hold the Grade 5 Scholarship Examination again or not will be made after the CID and the Exams Department complete their investigations into the alleged leaking of questions.
+
+The decision will be based on the findings and recommendations of the relevant investigations, according to the Secretary to the Ministry of Education.
+
+◼️
+
+[Data](articles/0f23d49f.json)
+
+---
 
 ### New Zealand's first innings end
 
@@ -2225,61 +2253,5 @@ These complaints have been received from 31st July to 18. The Commission states 
 [Data](articles/4380b9f6.json)
 
 [Extended Data](ext_articles/4380b9f6.ext.json)
-
----
-
-### 147 uniform leaflets that were given to divide
-
-*2024-09-19 19:00:08* · [`adalk`](https://www.ada.lk/breaking_news/බෙදන්න-දුන්න--නිළ-ජන්ද-පත්‍රිකා-147-ක්-කඩයකට-දිලා/11-412033) · `si`
-
-Puttalam Post Master's OIC investigates distribution of 147 voting leaflets. 5,723 official votes sent to TNA. 47,610 votes received but 1,176 undistributed. Investigation ongoing regarding voter sheet distribution.
-
-🟩
-
-The Puttalam Post Master's OIC has commenced an investigation into the instructions of the higher postal officers on the 19th of the 19th.
-
-A total of 5723 official votes were sent to the TNA at the Puttalam Head of Post Office to distribute a 147 official voteral leaflew to be distributed to the project.Inquiry, he said.
-
-47610 official votes have been received at Puttalam Head Programs to the Puttalam Head Office this year, indicating 5638.
-
-Voting leaflets unable to distribute 1176 votes were obtained by the electoral post office.
-
-The post office said that nearly half of the voters sheets had come to the 19th.
-
-47610 Niladhari Papers received from Puttalam Chief Post Office 47610 were divided into 15 zones.
-
-However, the remaining post office has been taken into custody due to the closure of these non-divided by the 14th evening.
-
-However, a special investigation has commenced with the relevant envelope to provide the issues of the vocabulary and the third croach residents.
-
-...
-
-[Data](articles/b660ff09.json)
-
-[Extended Data](ext_articles/b660ff09.ext.json)
-
----
-
-### Notice
-
-*2024-09-19 18:53:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்புத்-தேர்வு-குறித்த-அறிவிப்பு/175-344029) · `ta`
-
-Sri Lanka Election Commission Chairman RMAL Ratnayake announces final presidential election results by Sept 22. Second round voting possible due to lack of clear winner. Officials trained for first-time use of second preference vote system. District-level results to be released during second option count.
-
-🟩
-
-Sri Lanka's Election Commission Chairman RMAL Ratnayake announced that the final results of the presidential election, which will be held on September 21, will be expected to end by September 22, despite the second option number.
-
-Ratnayake said the Commission was targeted to complete the action within the day, as he was unable to provide the right time for the final announcement.
-
-There are many reports that the 2024 presidential election will progress to the second preferential vote for the first time in Sri Lankan history.
-
-According to the country's election rules, a candidate must win more than 50% of the total votes to win the presidency. If no candidate has achieved this majority, all except the first two candidates will be deleted, and the second options will be reproduced from the eliminated candidate's ballot.
-
-...
-
-[Data](articles/3b2bab32.json)
-
-[Extended Data](ext_articles/3b2bab32.ext.json)
 
 ---

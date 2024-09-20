@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 06:07:17**
+As of **2024-09-20 06:43:43**
 
 ## Newspaper Stats
 
-*Scraped **44,846** Articles*
+*Scraped **44,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 435
 colombotelegraphcom | 447
 islandlk | 2,645
 economynextcom | 2,715
-dailyftlk | 2,985
+dailyftlk | 2,998
 adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
@@ -26,11 +26,225 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,839 (100.0%) of 44,846 articles have been extended.
+44,849 (100.0%) of 44,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Miami Ad School Sri Lanka celebrates Class of 2023
+
+*2024-09-20 05:59:25* · [`dailyftlk`](https://www.ft.lk/business/Miami-Ad-School-Sri-Lanka-celebrates-Class-of-2023/34-766928) · `en`
+
+Continuing its mission to make global changemakers through creativity, Miami Ad School (M.AD) Sri Lanka recently celebrated its latest batch of graduates at an elegant ceremony at Cinnamon Lakeside.
+
+The event celebrated the M.AD Class of 2023 from its different programs such as the 12-week Bootcamp programs in Strategy and Social Media, and the certificate programs including Brand Manager, Content Creator, Creative Director, and AI for Brands and Creativity programs. The graduating class, composed of both local and international students from various creative fields and cultural backgrounds, reflected the diversity and vibrancy of the school.
+
+...
+
+[Data](articles/0254dffc.json)
+
+[Extended Data](ext_articles/0254dffc.ext.json)
+
+---
+
+### Commemorative stamp honours “Father of Modern Ayurveda” Dr. Victor Hettigoda
+
+*2024-09-20 05:56:56* · [`dailyftlk`](https://www.ft.lk/business/Commemorative-stamp-honours-Father-of-Modern-Ayurveda-Dr-Victor-Hettigoda/34-766927) · `en`
+
+Launch of a commemorative stamp on Dr. Victor Hettigoda’s birthday at the Shangri-La Colombo
+
+The Sri Lanka Post last week honoured the late, Hettigoda Group visionary founder Sahasrabhisheka Waidhyashuri Deshabandu Dr. Victor Hettigoda, with the launch of a commemorative stamp on his birth anniversary at the event held at Shangri-La Colombo. This significant occasion was a testament to Dr. Hettigoda’s dedication, vision, and unwavering commitment to indigenous medicine and its role in both local and global health practices.
+
+...
+
+[Data](articles/e42b34df.json)
+
+[Extended Data](ext_articles/e42b34df.ext.json)
+
+---
+
+### SimCentric Technologies enhances Information Security Standards with ISO 27001:2022 certification
+
+*2024-09-20 05:54:43* · [`dailyftlk`](https://www.ft.lk/business/SimCentric-Technologies-enhances-Information-Security-Standards-with-ISO-27001-2022-certification/34-766926) · `en`
+
+SimCentric Technologies Systems Engineer Disnaka Mallikaarachchi, SimCentric Technologies Systems Lead Kasun Samarasinghe, SimCentric Technologies Managing Director Haridhu Abeygoonaratne, SimCentric Technologies Senior Manager – IT Operations and Security Ishara Jayamanna, Bureau Veritas Lanka Country General Manager Shan Nanayakkara, Bureau Veritas Lanka Manager – Marketing and Sales – Certification Service Line Subash De Silva, and TrustVault Managing Director Buddhika De Alwis
+
+SimCentric Technologies, a leading provider of simulation software and solutions in the defence and security sectors, has achieved a significant milestone by upgrading to the ISO 27001:2022 certification.
+
+This new certification marks a crucial step forward from the previous ISO 27001:2013 standard, reflecting SimCentric’s ongoing commitment to enhancing its information security practices in line with the latest global standards.
+
+...
+
+[Data](articles/93bac0ff.json)
+
+[Extended Data](ext_articles/93bac0ff.ext.json)
+
+---
+
+### ‘The known devil’: Untangling the biased brain
+
+*2024-09-20 05:53:05* · [`dailyftlk`](https://www.ft.lk/opinion/The-known-devil-Untangling-the-biased-brain/14-766925) · `en`
+
+A voter might favour a course of action because it aligns with their pre-existing beliefs, and not because it is necessarily the best choice – Pic by Shehan Gunasekara
+
+Birds build nests. Spiders spin intricate webs. Dogs bury bones. The salmon swims upstream. Babies suckle. These are not learned behaviours. They are instincts and reflexive behaviours that we are born with. They are important because they help us adapt to our environment and to survive.
+
+In contrast, ‘learning’ is a change in an organism’s behaviour or thought or knowledge, as a result of experience. Learning involves acquiring knowledge and skills through experience. We have learned when we have changed. But in Sri Lanka, it seems, that we never learn. This is a pithy that is often expressed.
+
+Learning involves complex processes of conscious and unconscious processes. If you have tried to learn a new language or a skill like playing a musical instrument, you will know that learning is not always easy and that outcomes vary.
+
+...
+
+[Data](articles/5838159d.json)
+
+[Extended Data](ext_articles/5838159d.ext.json)
+
+---
+
+### Role of second preference: a simulation of 2024 Presidential election in Sri Lanka
+
+*2024-09-20 05:49:52* · [`dailyftlk`](https://www.ft.lk/columns/Role-of-second-preference-a-simulation-of-2024-Presidential-election-in-Sri-Lanka/4-766924) · `en`
+
+It will be wise to mark a second preference in this election – Pic by Shehan Gunasekara
+
+Sri Lanka awaits the election of its 10th President in a political landscape that has not been seen before in history. For the first time, at least three frontrunners are contending for the presidency – as opposed to the usual bi-candidate race – with a certain possibility of none achieving an over-half majority vote. This new structure of contest has affected many socio-political dimensions of the election.
+
+However, in this article, we wish to focus on how the presence of more than two major candidates would affect the existing voting system and the mathematics governing its outcome. This simulation – rather than a modelling to predict the next president of Sri Lanka – is a critique of the systems designed to measure our social choice, their strengths and limitations in upholding the fundamental notions of democracy.
+
+...
+
+[Data](articles/77a4e892.json)
+
+---
+
+### Lawyers’ Collective issues statement on voting method at Presidential election
+
+*2024-09-20 05:42:56* · [`dailyftlk`](https://www.ft.lk/opinion/Lawyers-Collective-issues-statement-on-voting-method-at-Presidential-election/14-766923) · `en`
+
+Following is statement from Lawyers’ Collective on the manner of voting at the Presidential election
+
+The Lawyers’ Collective reiterates its call on voters to exercise their vote to strengthen democratic governance, the rule of law, and the independence of the judiciary.
+
+The Lawyers’ Collective draws the attention of voters to the following:
+
+All voters have a right to cast their vote for the particular candidate of their choice as President. Voters may mark “X” or “1” against the name of their choice. If a voter marks “X”, no second or third preferences can be marked.
+
+All voters also have a right to cast their second and third preferences for two other candidates of their choice. If voters choose to mark second and/or third preferences. Second and/or third preference may be marked by marking “2” or “3” against the names of those other candidates.
+
+...
+
+[Data](articles/092da673.json)
+
+---
+
+### Get set for more important parliamentary elections
+
+*2024-09-20 05:41:32* · [`dailyftlk`](https://www.ft.lk/columns/Get-set-for-more-important-parliamentary-elections/4-766922) · `en`
+
+Whatever the results and whoever sits on the presidential chair on Sunday 22 September, future of Sri Lanka would not be favourably decided until a new parliament is elected – Pic by Shehan Gunasekara
+
+Now the countdown to the three-cornered presidential tussle is on days, not weeks. Perhaps in another three or four days, Presidential elections will be held on 21 September. That final result will be decided by the majority rural vote, seldom heard in major urban circles.
+
+...
+
+[Data](articles/d6665bc7.json)
+
+---
+
+### 2024 Presidential elections: A mission impossible for many aspirers
+
+*2024-09-20 05:37:52* · [`dailyftlk`](https://www.ft.lk/columns/2024-Presidential-elections-A-mission-impossible-for-many-aspirers/4-766921) · `en`
+
+These voters have during all the previous elections casted the vote to the candidates of their choice. The important factor here is how they change their choice from time to time
+
+Since of late, Sri Lankan Presidential elections have become a battleground with the number of candidates progressively growing. Last Presidential election held on 16 November 2019 fielded 36 contestants while the 2024 candidacy increased to 38 numbers but ironically due to the demise of one candidate the number came down to 37 as of today.
+
+When we look at the results of the last Presidential election in 2019, the contest was polarised between two main candidates, and the final result was:
+
+All 33 other candidates polled a total of 2.6% of the total valid votes with the highest polling 0.37%.
+
+...
+
+[Data](articles/de78cc40.json)
+
+---
+
+### No economic policy will work with rampant corruption
+
+*2024-09-20 05:34:34* · [`dailyftlk`](https://www.ft.lk/columns/No-economic-policy-will-work-with-rampant-corruption/4-766920) · `en`
+
+Going to the IMF 17 times is adequate proof that all economic policies of the past have not worked due to rampant corruption
+
+Generally, at crucial times like elections, many people try to become economic wizards by expressing concerns of economic policy without having even a semblance of understanding of how a country’s economy, the Central Bank and the Treasury work, and in the present scenario, how the IMF is formed, operated and funded. It is of course trendy to say about good or bad economic policies purely to promote political bias without any knowledge in what is generally perceived as an esoteric domain.
+
+To understand and analyse economic policies is very good. Then, policies of all competing parties ought to be critically analysed impartially. But what invariably happens is to dismiss policies of others due to preconceived notions. That is really the reluctance to deviate from narrow-minded political affiliations.
+
+...
+
+[Data](articles/4407b8d9.json)
+
+---
+
+### Presidents may come and go but JR’s Executive Presidency goes on forever
+
+*2024-09-20 05:30:34* · [`dailyftlk`](https://www.ft.lk/columns/Presidents-may-come-and-go-but-JR-s-Executive-Presidency-goes-on-forever/4-766919) · `en`
+
+The blame for almost everything that has gone wrong in Sri Lanka has been laid at the door of JR’s Executive Presidency
+
+Sri Lanka’s ninth Presidential election will be held on Saturday 21 September. More than 17 million (17,140,354) Sri Lankans are registered as eligible voters. Nominally 38 candidates are in the ring but only three are regarded as the leading contenders. The hectic election campaigns ended on 18 September but election fever is high. A large voter turnout is expected on election day.
+
+It is indeed an irony that there is so much of enthusiasm over the election of the executive president despite the criticism directed against the executive presidential system in past years. The Executive Presidency is blamed extensively on the one hand while the country gets involved in presidential poll excitement on the other.
+
+...
+
+[Data](articles/26d3e9db.json)
+
+---
+
+### Election 2024: the real winner is the consumer
+
+*2024-09-20 05:24:33* · [`dailyftlk`](https://www.ft.lk/columns/Election-2024-the-real-winner-is-the-consumer/4-766918) · `en`
+
+The top 4 brands were hit on the reality of the consumer at elections 2024
+
+The last three months has been one of the most interesting times that has really intrigued me. The reason being that I saw the ‘fundamentals of marketing’ in reality. The top four brands – Anura, Sajith, Ranil and Namal launched their campaign with a typical product related/ideological communication campaign and they faced reality where people’s attention could not be elucidated, people complained about coming for meetings, the TV channels captured the disconnect. In my view this was the first time a product owner and consumer (voter) met face to face after the economic collapse.
+
+...
+
+[Data](articles/37132b3f.json)
+
+---
+
+### Canton Fair organisers visit EDB to scale up trade relationship between China and Sri Lanka
+
+*2024-09-20 05:17:54* · [`dailyftlk`](https://www.ft.lk/business/Canton-Fair-organisers-visit-EDB-to-scale-up-trade-relationship-between-China-and-Sri-Lanka/34-766916) · `en`
+
+A delegation from the Canton Fair Operations Department of China visited the Sri Lanka Export Development Board (EDB) on 30 August 2024 to scale up trade relations between the two countries by participating in trade promotional events such as Canton Fair 2024.
+
+China was the 10th largest export destination for Sri Lanka in 2023. The total export value from Sri Lanka to China was $ 258 million in 2023, while total imports from China to Sri Lanka during the same period amounted to $ 3,090 million. China has emerged as one of the key trading partners for Sri Lanka in recent past.
+
+Realising the existing potential in the Chinese market, a number of trade promotional activities are being organised by the EDB in China, aiming to invite Chinese importers and investors to explore business opportunities in Sri Lanka.
+
+...
+
+[Data](articles/e4ef9270.json)
+
+---
+
+### BOI discusses strategic investments in key sectors to drive economic recovery
+
+*2024-09-20 05:16:38* · [`dailyftlk`](https://www.ft.lk/business/BOI-discusses-strategic-investments-in-key-sectors-to-drive-economic-recovery/34-766915) · `en`
+
+The Board of Investments of Sri Lanka (BOI) has recently successfully hosted an investor roundtable titled ‘Supporting Sri Lanka’s Recovery Through Resource Commitment’.
+
+The event held at the Ministry of Investment Promotion brought together prominent Sri Lankan and Indian investors and industry leaders to explore strategic investment opportunities aimed at supporting Sri Lanka’s economic recovery.
+
+...
+
+[Data](articles/9caf1163.json)
+
+---
 
 ### EDB and KPMG Sri Lanka collaborate to create awareness on new EU regulations for ESG
 
@@ -420,6 +634,8 @@ The cheque handover ceremony was held with the presence of key BOC officials, in
 
 [Data](articles/eab68a9f.json)
 
+[Extended Data](ext_articles/eab68a9f.ext.json)
+
 ---
 
 ### A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
@@ -451,6 +667,8 @@ Turnover stood at Rs 1.2 billion with three crossings. Those crossings were repo
 ...
 
 [Data](articles/390422fd.json)
+
+[Extended Data](ext_articles/390422fd.ext.json)
 
 ---
 
@@ -506,6 +724,8 @@ Reflecting on the company’s 50-year journey, Managing Director Kishan Goonerat
 
 [Data](articles/e6b15553.json)
 
+[Extended Data](ext_articles/e6b15553.ext.json)
+
 ---
 
 ### Serendib Horticulture Technologies marks 25 years of global plant export excellence
@@ -519,6 +739,8 @@ Serendib Horticulture Technologies Pvt Ltd, first formed in 1999, has been in th
 ...
 
 [Data](articles/9e65d388.json)
+
+[Extended Data](ext_articles/9e65d388.ext.json)
 
 ---
 
@@ -2093,323 +2315,5 @@ Journalist Sally Abu al -Jud said that I saw the injured in the hospital after t
 [Data](articles/1f32185e.json)
 
 [Extended Data](ext_articles/1f32185e.ext.json)
-
----
-
-### 2024 Presidential Election: Guidelines issued for voters
-
-*2024-09-19 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/102078/2024-presidential-election-guidelines-issued-for-voters) · `en`
-
-The voting for the presidential poll to elect the 9th executive president of Sri Lanka is scheduled to be held on Saturday (September 21).
-
-The Election Commission stated that voting will take place in 13,421 polling stations from 7.00 a.m. to 4.00 p.m. on Saturday.
-
-The election campaigning activities related to the presidential election concluded at midnight yesterday (18) and the period up to the time of the presidential election has been declared as a silence period.
-
-The Election Commission says all election campaigning activities are strictly prohibited during this period, while police have the authority to arrest any individuals who violate the election laws.
-
-The Commissioner General of Elections, Saman Sri Ratnayake said that all the necessary initial preparations for the election have been already planned.
-
-...
-
-[Data](articles/3c0aa40d.json)
-
-[Extended Data](ext_articles/3c0aa40d.ext.json)
-
----
-
-### Arrested by famous choreographer Johnny
-
-*2024-09-19 14:41:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடன-இயக்குனர்-ஜானி-கைது/54-344023) · `ta`
-
-Famous choreographer Johnny arrested in Bangalore for sexual abuse allegations. Accused of harassment and rape. Sacked from political party and industry associations. Arrested after fleeing.
-
-🟩
-
-Popular choreographer Johnny, who has been sexually abused, has been arrested in Bangalore.
-
-Johnny is a famous choreographer in Tamil and Telugu cinema. Fascitators with different dance moves. He has danced to many hit songs such as 'Chellamma Chellamma, Cloud Karakada, Arabikuttu, Jolly O Gimkana, Ranjithame, Kavalaya'.
-
-A few days ago, a 21 -year -old dancer lodged a complaint with the Raidurkam police in Telangana state that Johnny had sexually harassed her.
-
-Subsequently, Johnny has filed a case under sections of 376 (rape), 506 (criminal intimidation) and 323 (voluntary injuries).
-
-Also, the woman was reportedly in the choreographer's association since 2019. At that time she was a minor girl, and Johnny was filed under the Pokso Act.
-
-He was sacked from the Pawan Kalyan's Janasena Party in response to this complaint. He was sacked from the post of Telugu Cinema and TV Dancer Association. Johnny, who was in hiding, was arrested by special police in Bangalore today (Sept. 19).
-
-◼️
-
-[Data](articles/55b9f0c2.json)
-
-[Extended Data](ext_articles/55b9f0c2.ext.json)
-
----
-
-### Sri Lanka manufacturing, services expansion slows in August 2024: PMI
-
-*2024-09-19 14:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-manufacturing-services-expansion-slows-in-august-2024-pmi-180017/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s manufacturing and service sectors continued to expand in August registering index values over 50 in August 2024, but at a slower rate compared to the previous month, according to a Purchasing Managers Index compiled by the central bank.
-
-The Manufacturing PMI was 55.5 in August, after recording 59.5 in July, with new orders and production mainly driven by the manufacture of food and beverages.
-
-All the sub-indices, except for employment, remained above the neutral threshold in August, the statement said. “However, Employment decreased on a month-on-month basis in August.”
-
-The Services PMI recorded 65.2 in August after 71.1 in July. Business activities expansion was driven by improvements observed across most sectors.
-
-“Business activities in the other personal services grew mainly due to improvements in entertainment and recreation activities,” the statement said.
-
-...
-
-[Data](articles/76f7b541.json)
-
-[Extended Data](ext_articles/76f7b541.ext.json)
-
----
-
-### What can be used to confirm identity when votes
-
-*2024-09-19 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201198) · `si`
-
-Identity verification methods for voting: National Identity Card, old/new, valid foreign passport, driver's license, public service retirement ID, e-ID. No receipts required.
-
-🟩
-
-A voter should verify its identity before a voter is voted.
-
-The Chairman of the Election Commission RMA VL Ratnayake has revealed about what could be used today (19).
-
-"The election is valid for National Identity Card, Old or New Identity Card. And valid foreign passport, valid driver's license, public service retirement ID, both older or e ID is valid. Also, there is no other document in the victory, such as the receipt of the receivation issued by applying for a new National Identity Card, New National Identity Card. "
-
-◼️
-
-[Data](articles/84debb5e.json)
-
-[Extended Data](ext_articles/84debb5e.ext.json)
-
----
-
-### Suspect arrested for killing businessman
-
-*2024-09-19 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201197) · `si`
-
-Main suspect arrested for businessman murder in Kalawana Vedagala. Athurugiriya Police investigating personal dispute claim. No evidence found at investigation unit. Victim was Welipillawa resident killed at Homagama residence.
-
-🟩
-
-The main suspect in the incident was arrested in Kalawana Vedagala area.
-
-The Athurugiriya Police are also suspected of conducting a personal dispute.
-
-The suspect was conducted in the Athurugiriya Police Investigation Unit when there was no evidence on the murder case.
-
-The suspect was a businessman who was a resident of Welipillawa area in Welipillawa.
-
-The murder was held at the house of Homagama Samagi Mawatha, Homagama, a resident of Homagama.
-
-◼️
-
-[Data](articles/2b4ae8c1.json)
-
-[Extended Data](ext_articles/2b4ae8c1.ext.json)
-
----
-
-### 705,772 registered voters from the Badulla district electorate. Gandhuban
-
-*2024-09-19 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194090) · `ta`
-
-Badulla district: 705,772 registered voters; 42,061 eligible for postal voting; 530 polling stations set up; 10,000 public servants deployed; official results to be announced from District Secretariat.
-
-🟩
-
-The Assistant Commissioner of Elections of the Badulla District Elections, Ka.. Gandhipan reports.
-
-42061 of the registered voters qualified to vote by post. There are 523 electoral categories of 567 Grama Niladhari Divisions in Badulla District. This time, 530 polling stations have been set up for voters to vote in the presidential election.
-
-Badulla Central Maha Vidyalaya will be the center of distributing other documents, including polling stations.. The process of transporting polling stations to polling stations will begin tomorrow at 6.30 am.
-
-Badulla Central Maha Vidyalaya and Badulla Visakha Vidyalayam. 55 votes, 29 votes and 29 votes stations at the Badulla Central Maha Vidyalaya, 29 voting stations in the Visakha Vidyalaya.
-
-About 10 thousand public servants will be deployed in the Badulla district for the presidential election duties.. Official election results will be announced from the Badulla District Secretariat.
-
-...
-
-[Data](articles/b9c116a5.json)
-
-[Extended Data](ext_articles/b9c116a5.ext.json)
-
----
-
-### Reducing the number of foreign students from 2025 - Terms of foreign workers
-
-*2024-09-19 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194098) · `ta`
-
-Canadian government reduces foreign student admissions 2025 to decrease temporary residents and address housing concerns. Immigration Minister Mark Miller states it's not a right to immigrate to Canada.
-
-🟩
-
-The Canadian government has said it will reduce the number of foreign students admitted to Canada next year.
-
-Canada said the move would be taken to reduce the number of temporary residents in Canada.
-
-The Government of Canada has issued a new announcement as the number of restrictions has been announced following the increase in the number of immigrants in Canada this year.
-
-The Canadian government has said that the country's housing facilities are a major impact on the country's housing services.
-
-Canada's Immigration Minister Mark Miller has said that it is not a right to come to Canada.
-
-We have given permission to students this year, ”he said.
-
-◼️
-
-[Data](articles/415367d6.json)
-
-[Extended Data](ext_articles/415367d6.ext.json)
-
----
-
-### 20 years of ban in Dulip Samaraweera
-
-*2024-09-19 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201196) · `si`
-
-Dulip Samaraweera banned 25 years: Former Sri Lanka Test cricketer penalized for inappropriate behavior while coaching Victoria. Prohibited from playing for Australian Institute, state cricket associations, or Big Bash teams. Investigation by SLC authorities.
-
-🟩
-
-Sri Lanka former Sri Lanka Test cricketer, Sri Lanka's former Sri Lanka Test cricketer in Australia, has been imposed to impose a twenty-five years.
-
-He has been accused of violating the conduct of the Institute of Customer Australia.
-
-He is prohibited by the Australian Institute, State or Other Cricket Association or Big Bash teams.
-
-The investigation conducted by SLC authorities have revealed that he was accused of "inappropriate behavior" when serving as a coach of Victoria.
-
-◼️
-
-[Data](articles/ed8be8db.json)
-
-[Extended Data](ext_articles/ed8be8db.ext.json)
-
----
-
-### Sugar scrub
-
-*2024-09-19 13:58:00* · [`islandlk`](http://island.lk/sugar-scrub/) · `en`
-
-Yes, it’s scrub time, this week, too, as lots of readers did indicate to me that they would like to see a few more body scrub beauty tips. Okay, here we go then…
-
-You will need 1/2 cup of brown sugar and 1/4 cup extra virgin or regular olive oil.
-
-In an air tight storage container, pour in the olive oil and scoop in the brown sugar and mix well, with a fork or metal spoon. Make sure to smash out the clumps. The mixture is now ready when it looks like wet sand.
-
-This scrub can be used anywhere that you are having dry skin issues or want to just do a great exfoliation on. Apply a small amount of the sugar scrub to the area and begin lightly massaging it in circles. You don’t need to press down hard or apply much pressure to this scrub as the granules from the sugar will work to get the dead skin off. By simply massaging it into the area for a few seconds and rinsing it under warm water in the shower, your skin will feel silky and soft.
-
-...
-
-[Data](articles/6786c59f.json)
-
----
-
-### Didn't you receive votes yet?
-
-*2024-09-19 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201195) · `si`
-
-Here's a 200-character summary:
-
-
-
-Election Commission Chairman RMAL Ratnayake: Voters can obtain official ballots at post offices. Mobile phones allowed only with police permission. Propaganda offices near polling stations must be removed.
-
-🟩
-
-Election Commission's Chairman of the Election Commission RMAL Ratnayake says that the voters from the Election Commission (Elections) has been able to obtain the official website of the Election Commission.
-
-He also said that the official ballot paper is also available at the post office of the area.
-
-He was speaking at a media briefing held in the Government Information Department this morning regarding the presidential election.
-
-"If there are no voters that have not been voted yet, he will continue to get them from the due post office. If you want to visit the official website of the Election Commission, you can get a copy of it. The official ballot notice is not mandatory for voting. You have a valid ID you have a valid Identity Card and can vote at the polling center. "
-
-He added that he was brought to bringing mobile phones at the time of the election.
-
-...
-
-[Data](articles/afb6aea9.json)
-
-[Extended Data](ext_articles/afb6aea9.ext.json)
-
----
-
-### The issue of the scholarship question paper goes to the SID
-
-*2024-09-19 13:46:17* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-ප්‍රශ්න-පත්‍රයේ-අවුල-සි-අයි-ඩියට-යයි/11-412024) · `si`
-
-Scholarship exam cheating scandal: SID investigates exhausted questions. Ministry lodges complaint with CID. Examination department conducts separate probe.
-
-🟩
-
-The Ministry of Education has lodged a complaint with the Criminal Investigation Department to conduct three questions that the five-year-grade scholarship question papers had been exhausted.. The Department of Examinations has also commenced a separate investigation into the matter.
-
-◼️
-
-[Data](articles/2d607542.json)
-
-[Extended Data](ext_articles/2d607542.ext.json)
-
----
-
-### Prohibition on screening of election results in public: Police
-
-*2024-09-19 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194096) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka police ban public display of 2024 election results due to potential violence. Deputy Inspector General Nihal Talduwa advises citizens to view results privately at home.
-
-🟩
-
-Police said that the presidential election results were banned in public in 2024.
-
-Deputy Inspector General of Police Nihal Talduwa addressing a special media briefing held on Thursday (19)
-
-In the public outer space can cause violent incidents. Therefore, this move has been taken to prevent violence.
-
-I urge the public to visit the presidential election personally in their homes.
-
-◼️
-
-[Data](articles/f99dde7f.json)
-
-[Extended Data](ext_articles/f99dde7f.ext.json)
-
----
-
-### The proposal approved by the UNP in general area against Israel
-
-*2024-09-19 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201194) · `si`
-
-UN proposal: Israel withdrawal from Palestinian territories within 12 months. 14 countries opposed, 43 abstained. Israel seeks compensation for damages.
-
-🟩
-
-The United Nations Council has passed a proposal that Israel's invasion should be completed within 12 months.
-
-The proposal was made by the Palestine yesterday (18) by Palestine yesterday.
-
-Fourteen countries have voted against the proposal and 43 countries have abstained.
-
-The proposal is stated that the troops should withdraw from the Palestinian territories, including East Jerusalema, including East Jerusalem.
-
-Israel has also requested the Palestinians to compensate Palestinians for the damage done.
-
-◼️
-
-[Data](articles/131074fe.json)
-
-[Extended Data](ext_articles/131074fe.ext.json)
 
 ---

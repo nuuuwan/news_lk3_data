@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 00:55:24**
+As of **2024-09-21 01:07:52**
 
 ## Newspaper Stats
 
-*Scraped **44,996** Articles*
+*Scraped **45,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 438
 colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,728
-dailyftlk | 3,012
+dailyftlk | 3,017
 adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,286
@@ -26,11 +26,101 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,988 (100.0%) of 44,996 articles have been extended.
+44,998 (100.0%) of 45,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### How to vote
+
+*2024-09-21 00:50:10* · [`dailyftlk`](https://www.ft.lk/news/How-to-vote/56-766983) · `en`
+
+◼️
+
+[Data](articles/5bfdc0fa.json)
+
+[Extended Data](ext_articles/5bfdc0fa.ext.json)
+
+---
+
+### Over 100 international observers here for Presidential poll
+
+*2024-09-21 00:49:37* · [`dailyftlk`](https://www.ft.lk/news/Over-100-international-observers-here-for-Presidential-poll/56-766982) · `en`
+
+A total of 116 representatives from various international election observation organisations have arrived in Sri Lanka to monitor the upcoming Presidential election.
+
+Among the observers, 78 are from the European Union (EU), marking a substantial contingent from the EU election observation mission.
+
+Additionally, 22 representatives from the Commonwealth have also arrived to participate in the monitoring activities.
+
+The Asian Election Observation Network has sent 9 observers, while 7 representatives from South Asian regional countries have joined the election monitoring process this year, following an invitation from the Election Commission.
+
+These international observers have been deployed across twenty-five districts to carry out their monitoring duties.
+
+The National Election Commission has assured that all necessary measures have been taken to ensure the safety and security of the observers, with local police stations being duly informed of their presence and responsibilities.
+
+◼️
+
+[Data](articles/9d6b7707.json)
+
+[Extended Data](ext_articles/9d6b7707.ext.json)
+
+---
+
+### SLPP suspends party membership of three MPs
+
+*2024-09-21 00:48:49* · [`dailyftlk`](https://www.ft.lk/news/SLPP-suspends-party-membership-of-three-MPs/56-766981) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has suspended the party membership of three Members of Parliament.
+
+They are Anuradhapura District MP S.M. Chandrasena, Ratnapura District MP Pavithra Wanniarachchi and Kalutara District MP Rohitha Abeygunawardena.
+
+Their party membership has been suspended for going against the SLPP Politburo’s decision to support the party’s Presidential candidate, which was taken at its meeting held on 29 July.
+
+The statement further says that the three MPs’ membership in SLPP’s All-Island Working Committee, the Executive Committee, and Politburo have also been suspended.
+
+◼️
+
+[Data](articles/c34960ed.json)
+
+[Extended Data](ext_articles/c34960ed.ext.json)
+
+---
+
+### Basil leaves for US
+
+*2024-09-21 00:48:43* · [`dailyftlk`](https://www.ft.lk/news/Basil-leaves-for-US/56-766980) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) founder and former Minister Basil Rajapaksa yesterday left for Dubai from the Bandaranaike International Airport (BIA), the airport Duty Manager said.  Sources at the airport said that Rajapaksa will first go to Dubai and then leave for the US from there, adding that he always uses this route to leave for the US.
+
+◼️
+
+[Data](articles/f9771608.json)
+
+[Extended Data](ext_articles/f9771608.ext.json)
+
+---
+
+### AG says no decision to arrest Shani Abeysekera and Ravi Seneviratne
+
+*2024-09-21 00:48:28* · [`dailyftlk`](https://www.ft.lk/news/AG-says-no-decision-to-arrest-Shani-Abeysekera-and-Ravi-Seneviratne/56-766979) · `en`
+
+The Attorney General informed the Supreme Court yesterday that no decision has been made to arrest former Criminal Investigation Department (CID) Director Shani Abeysekera, and former Senior DIG in charge of the CID Ravi Seneviratne, in connection with the investigations into the Easter Sunday attacks.
+
+This was stated during the hearing of fundamental rights petitions filed by Ravi Seneviratne and Shani Abeysekera, seeking an order preventing them from being arrested in connection with investigations into a complaint made by a group of police officers, including former DIG Palitha Siriwardhane.
+
+The relevant petition was taken up before a three-member Supreme Court judge bench consisting of Justices Preethi Padman Surasena, Achala Vengappuli and Mahinda Samayawardhena.
+
+The Deputy Solicitor General, representing the Attorney General, stated that the CID has sought advice from the Attorney General regarding the investigations.
+
+...
+
+[Data](articles/f292d47d.json)
+
+[Extended Data](ext_articles/f292d47d.ext.json)
+
+---
 
 ### 12 people injured in bus accident
 
@@ -190,6 +280,8 @@ The visit is expected to strengthen the bilateral relationship between Sri Lanka
 
 [Data](articles/c6f2e5db.json)
 
+[Extended Data](ext_articles/c6f2e5db.ext.json)
+
 ---
 
 ### 5D Concept unveils website
@@ -208,6 +300,8 @@ The 5D Concept is structured around five core pillars – Dream, Duty, Disciplin
 
 [Data](articles/ea296c34.json)
 
+[Extended Data](ext_articles/ea296c34.ext.json)
+
 ---
 
 ### Ceylon Energy and HJT China celebrate completion of Maho and Ampara 33kV power distribution lines under SESRIP
@@ -222,6 +316,8 @@ Ceylon Energy, in partnership with HJT China, proudly announces the successful c
 
 [Data](articles/2987a125.json)
 
+[Extended Data](ext_articles/2987a125.ext.json)
+
 ---
 
 ### SIUK Lanka obtains enjoining orders restraining illegally-obtained data use by ex-employee
@@ -235,6 +331,8 @@ The plaintiff’s position, as set out in its plaint, is that they are the Sri L
 ...
 
 [Data](articles/05f9a5c9.json)
+
+[Extended Data](ext_articles/05f9a5c9.ext.json)
 
 ---
 
@@ -253,6 +351,8 @@ The opening ceremony took place under the patronage of Markspen Group Chairman A
 ...
 
 [Data](articles/9ddd1e97.json)
+
+[Extended Data](ext_articles/9ddd1e97.ext.json)
 
 ---
 
@@ -2241,125 +2341,5 @@ The Chairman said that investigations are conducted by the officers of the Estab
 [Data](articles/7ece5370.json)
 
 [Extended Data](ext_articles/7ece5370.ext.json)
-
----
-
-### Sri Lanka women's group named Sri Lanka's World Cup
-
-*2024-09-20 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201223) · `si`
-
-Sri Lanka women's cricket team named for ICC T20 World Cup in UAE. Team leaves Oct 23. Chamari Athapaththu leads squad. Tournament runs Oct 3-20.
-
-🟩
-
-ICC to be held in the United Arabic Emirates. Sri Lanka women's cricket teams participated in the Twenty20 Women's World Cup were named today (20).
-
-This year's World Cup will be held from October 3 to 20. The Sri Lanka team is due to leave for the United Arab Emirates in the 23rd of this month.
-
-Chamari Atapattu (Lead), Harunami Gunaratra, Uduni Prabhanic, Udakini Prabasy, Sagini Prabasy, Sugandana, Sugandana, Sugandana, Sugandana Kumari
-
-◼️
-
-[Data](articles/0e13fe4c.json)
-
-[Extended Data](ext_articles/0e13fe4c.ext.json)
-
----
-
-### Three shootings related to each other
-
-*2024-09-20 10:56:37* · [`adalk`](https://www.ada.lk/breaking_news/එකිනෙකට-සම්බන්ධ-වෙඩි-තැබීම්-තුනක්/11-412044) · `si`
-
-Multiple shootings linked: one fatal, victim admitted to hospital; another occurred in Badowita on 15th; third incident reported in Kohuwala yesterday.
-
-🟩
-
-A person with a person was killed in a shooting of two persons who arrived at the Dehiwala Police Division in the Dehiwala Police Division.
-
-The man who was injured in the shooting was killed in admission to Kalubowila hospital. A 45 year person was killed in this shooting.
-
-The shooting has also been revealed to shoot at Badowita on the 15th and the shooting of the area in Kohuwala yesterday.
-
-◼️
-
-[Data](articles/da311338.json)
-
-[Extended Data](ext_articles/da311338.ext.json)
-
----
-
-### All arrangements for the presidential election are fulfilled
-
-*2024-09-20 10:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலுக்கான-சகல-ஏற்பாடுகளும்-பூர்த்தி/175-344050) · `ta`
-
-Presidential election preparations underway: District officials confirm readiness, Grama Niladhari Association addresses funding issues, voter cards available at post offices, Deputy Chief Minister clarifies identity verification process, Election Commission Chairman allows voting without official card.
-
-🟩
-
-District election officials have pointed out that all arrangements for the presidential election are currently being prepared.
-
-The Grama Niladhari Association said that despite problems with funding, all polling stations are being prepared properly.
-
-The General Secretary of the All Ceylon United Grama Niladhari Association, Jegath Chandralal, said that all the Grama Niladhari Officers have come together for this purpose.
-
-Meanwhile, voters who have not yet received official voter cards can get them at the post office in the area where they live today, the Postal Department said.
-
-Deputy Chief Minister Rajitha Ranasinghe said that the identity can be obtained after confirming the identity.
-
-However, the Chairman of the Election Commission RM said that the voter cards could be voted without the official.. L. A. Ratnayake said. Remble
-
-◼️
-
-[Data](articles/92a7bd59.json)
-
-[Extended Data](ext_articles/92a7bd59.ext.json)
-
----
-
-### All arrangements for the presidential election are fulfilled
-
-*2024-09-20 10:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-தேர்தலுக்கான-சகல-ஏற்பாடுகளும்-பூர்த்தி/150-344050) · `ta`
-
-Election preparations underway: Polling stations ready, voter cards available, identity verification process in place.
-
-🟩
-
-District election officials have pointed out that all arrangements for the presidential election are currently being prepared.
-
-The Grama Niladhari Association said that despite problems with funding, all polling stations are being prepared properly.
-
-The General Secretary of the All Ceylon United Grama Niladhari Association, Jegath Chandralal, said that all the Grama Niladhari Officers have come together for this purpose.
-
-Meanwhile, voters who have not yet received official voter cards can get them at the post office in the area where they live today, the Postal Department said.
-
-Deputy Chief Minister Rajitha Ranasinghe said that the identity can be obtained after confirming the identity.
-
-However, the Chairman of the Election Commission RM said that the voter cards could be voted without the official.. L. A. Ratnayake said. Remble
-
-◼️
-
-[Data](articles/cf73756f.json)
-
-[Extended Data](ext_articles/cf73756f.ext.json)
-
----
-
-### Israel unleashes heavy strikes on Lebanon as US, UK urge restraint
-
-*2024-09-20 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102092/israel-unleashes-heavy-strikes-on-lebanon-as-us-uk-urge-restraint) · `en`
-
-Israeli warplanes carried out late on Thursday their most intense strikes on southern Lebanon in nearly a year of war, heightening the conflict between Israel and Lebanese armed group Hezbollah amid calls for restraint.
-
-The White House said a diplomatic solution was achievable and urgent, and Britain called for an immediate ceasefire between Israel and Hezbollah. The U.S. is “afraid and concerned about potential escalation,” White House spokesperson Karine Jean-Pierre told a briefing.
-
-The intense barrage followed attacks earlier in the week attributed by Lebanon and Hezbollah to Israel that blew up Hezbollah radios and pagers, killing 37 people and wounding about 3,000 in Lebanon.
-
-In Thursday’s late operation, Israel’s military said its jets over two hours struck hundreds of multiple-rocket-launcher barrels in southern Lebanon that were set to be fired immediately toward Israel.
-
-...
-
-[Data](articles/6cfad2f1.json)
-
-[Extended Data](ext_articles/6cfad2f1.ext.json)
 
 ---

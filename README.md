@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 04:10:45**
+As of **2024-09-21 04:22:34**
 
 ## Newspaper Stats
 
-*Scraped **45,008** Articles*
+*Scraped **45,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 378
 bbccomsinhala | 438
 colombotelegraphcom | 450
 islandlk | 2,645
-economynextcom | 2,728
+economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,157
 dailymirrorlk | 4,733
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,008 (100.0%) of 45,008 articles have been extended.
+45,009 (100.0%) of 45,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Sri Lanka goes for presidential poll amid uncertainty, partial recovery from crisis
+
+*2024-09-21 04:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-goes-for-presidential-poll-amid-uncertainty-partial-recovery-from-crisis-180231/) · `en`
+
+ECONOMYNEXT – Sri Lanka is going for presidential elections Saturday to elect the ninth president with with candidates promising salary hikes for state workers, more handouts for the poor and tax cuts as the economy recovered from a currency collapse that pushed inflation to 70 percent.
+
+The island nation’s 17.1 voters will elect the new leader in the poll in which the winner is widely expected to be chosen after a second preferential vote count due to a tight race among the top three candidates.
+
+Fighting against corruption, economic recovery from the debt crisis, tax reduction, granting concessions, public sector salary hike, and debt restructuring under International Monetary Fund (IMF) reforms have been at the centre stage of the campaigns.
+
+The election comes two years after a political crisis that ousted former president Gotabaya Rajapasa and his government after mass protests following forex shortages and a currency crisis from rate cuts.
+
+...
+
+[Data](articles/5f58bab1.json)
+
+[Extended Data](ext_articles/5f58bab1.ext.json)
+
+---
 
 ### Driver arrested for alleged election work
 
@@ -2311,31 +2331,5 @@ Speaking at a press conference today, she stated, “Grade 5 scholarship exam co
 [Data](articles/0f23d49f.json)
 
 [Extended Data](ext_articles/0f23d49f.ext.json)
-
----
-
-### New Zealand's first innings end
-
-*2024-09-20 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201226) · `si`
-
-Sri Lanka restricts NZ to 255/4 in first Test. Cahan Williamson and Darrail Michelle score 55 each. Family takes 4/136.
-
-🟩
-
-Sri Lanka were able to limit the first Test of Test match between Sri Lanka and New Zealand today (20).
-
-Sri Lanka bowlers were able to score only 85 runs while the new Zealand scored 255 runs for the loss of 4 wickets.
-
-He was only 35 runs in the first 35 runs.
-
-Cahan Williamson scored 55 runs and Darrail Michelle scored 55 runs for New Zealand innovation.
-
-Family, Prabha Jayasuriya, took 4 wickets for 136 runs.
-
-◼️
-
-[Data](articles/b49b968f.json)
-
-[Extended Data](ext_articles/b49b968f.ext.json)
 
 ---

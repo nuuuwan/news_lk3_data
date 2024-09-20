@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 14:38:26**
+As of **2024-09-20 14:58:16**
 
 ## Newspaper Stats
 
-*Scraped **44,923** Articles*
+*Scraped **44,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,86 @@ economynextcom | 2,718
 dailyftlk | 2,999
 adalk | 4,153
 dailymirrorlk | 4,733
-adaderanalk | 5,277
+adaderanalk | 5,278
 tamilmirrorlk | 5,885
 virakesarilk | 7,190
-adaderanasinhalalk | 7,695
+adaderanasinhalalk | 7,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,921 (100.0%) of 44,923 articles have been extended.
+44,925 (100.0%) of 44,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
 
-### வீட்டுக்குள் புகுந்து வாக்காளர் அட்டைகள் அபகரிப்பு
+### J’pura University to reopen on Tuesday
+
+*2024-09-20 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102097/jpura-university-to-reopen-on-tuesday) · `en`
+
+The University of Sri Jayewardenepura will reopen for academic activities on Tuesday (September 24), according to Vice Chancellor Senior Prof. Pathmalal M. Manage.
+
+He stated that all students may return to their respective hostels starting from Monday (23).
+
+The university was temporarily closed from 6.00 pm on September 12, following a clash between two groups.
+
+Accordingly, all students had been instructed to vacate the university premises before that.
+
+◼️
+
+[Data](articles/cdaf9261.json)
+
+[Extended Data](ext_articles/cdaf9261.ext.json)
+
+---
+
+### J'pura University reopens
+
+*2024-09-20 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201231) · `si`
+
+University of Sri Jayewardenepura reopening: Hostel students allowed back September 23; full campus opening September 24 after temporary closure due to group conflict.
+
+🟩
+
+The administration of the University of Sri Jayewardenepura, which is temporarily closed due to a clash, will be opened again on September 24.
+
+According to September 23, the students in the hostels can return to their hostels.
+
+The University of Sri Jayewardenepura had been temporarily closed due to a clash between two groups.
+
+◼️
+
+[Data](articles/52482a31.json)
+
+[Extended Data](ext_articles/52482a31.ext.json)
+
+---
+
+### Voter cards grabbing into the house
 
 *2024-09-20 14:09:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்குள்-புகுந்து-வாக்காளர்-அட்டைகள்-அபகரிப்பு/175-344060) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் ஆதரவாளர் ஒருவரின் வீட்டுக்குள் நுழைந்த இனந்தெரியாத 6 பேர் வீட்டில் இருந்த 3 வாக்காளர் அட்டைகளை வலுக்கட்டாயமாக எடுத்துச் சென்றுள்ளதாக நிவிதிகல பொலிஸார் தெரிவித்துள்ளனர்.
+Six unidentified individuals stole three voter cards from a UNP supporter's home in Nivitigala. The incident occurred in a remote area without nearby houses or streets. Police investigated CCTV footage but found no evidence.
 
-முறைப்பாட்டாளர் நிவிதிகல, இந்தோல தும்மலவத்த, தெல பிரதேசத்தில் வெறிச்சோடிய இறப்பர் தோட்டத்தில் அமைந்துள்ள வீடொன்றில் வசித்து வருவதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-ஐக்கிய தேசியக் கட்சியின் ஆதரவாளர் எனக் தன்னை கூறிக்கொண்ட, கூலி தொழிலாளியாக வாழ்ந்து வரும் பெண் ஒருவரே முறைப்பாடு செய்துள்ளார்.
+Nivitigala police said that six unidentified persons who had entered the home of a supporter of a UNP had forcibly taken three voter cards in the house.
 
-முறைப்பாட்டாளரின் வீட்டிற்கு அருகில் வீடுகள் இல்லை எனவும், அந்த வீட்டுக்குச் செல்வதற்கு வீதி இல்லை எனவும், வீட்டுக்குச் செல்ல சுமார் 2 கிலோமீற்றர் தூரம் செல்ல வேண்டியுள்ளதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+The complainant Nivitigala, Indoor, Dummalawatta, is living in a house in the dealer's rubber plantation in Tela area, police said.
 
-இச்சம்பவம் தொடர்பான சிசிடிவி காட்சிகளை ஆய்வு செய்த போதிலும் எந்த தடயமும் கிடைக்கவில்லை என பொலிஸார் தெரிவித்தனர்.
+A woman who lives as a wage laborer, who claims to be a supporter of the United National Party, has complained.
+
+Police say that there are no houses near the complainant's house and that there is no street to go to the house.
+
+The CCTV footage of the incident was investigated, but there was no trace, police said.
 
 ◼️
 
 [Data](articles/a6fe9740.json)
+
+[Extended Data](ext_articles/a6fe9740.ext.json)
 
 ---
 
@@ -2211,49 +2259,5 @@ However, the Chairman of the Lanka Private Bus Owners Association Gemunu Wijerat
 [Data](articles/05b00b63.json)
 
 [Extended Data](ext_articles/05b00b63.ext.json)
-
----
-
-### Hezbollah leader vows retaliation against Israel for attacks on devices as both sides trade strikes
-
-*2024-09-19 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102087/hezbollah-leader-vows-retaliation-against-israel-for-attacks-on-devices-as-both-sides-trade-strikes) · `en`
-
-The leader of Hezbollah vowed to keep up daily strikes on Israel despite this week’s mass bombing attack on its communication devices, and said Israelis displaced by the fighting from homes near the Lebanon border would not be able to return until the war in Gaza ends.
-
-Hezbollah and Israel launched fresh attacks across the border as Hassan Nasrallah spoke for the first time since the deadly device bombings he described as a “severe blow” and for which he promised to retaliate.
-
-The two-days of attacks targeting thousands of Hezbollah pagers and walkie-talkies have been widely blamed on Israel, heightening fears that 11 months of near-daily exchanges of fire between Hezbollah and Israel will escalate into all-out war.
-
-...
-
-[Data](articles/9824e5ac.json)
-
-[Extended Data](ext_articles/9824e5ac.ext.json)
-
----
-
-### Notice to public officials engaged in election duties
-
-*2024-09-19 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201211) · `si`
-
-Elections Commission notice: Officials to treat voters and candidates kindly during Sept 21, 2024 presidential election in Sri Lanka. Ensure free and fair voting environment.
-
-🟩
-
-The Elections Commission has issued a special message to all government officials appointed to duty for the duty of the Presidential Election.
-
-The election will be held on September 21, 2024 to elect the election of the 9th President of Sri Lanka.
-
-During the election, you must act with voter candidates and their authorized agents.
-
-Seriously, in dealing with them, be kind, patient, to be patient.
-
-The Elections Commission not only exhibits the possibility of voting in a free and fair environment to vote in harmony with his conscience.
-
-◼️
-
-[Data](articles/9a9b9cfc.json)
-
-[Extended Data](ext_articles/9a9b9cfc.ext.json)
 
 ---

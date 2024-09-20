@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 21:22:40**
+As of **2024-09-20 21:38:24**
 
 ## Newspaper Stats
 
-*Scraped **44,963** Articles*
+*Scraped **44,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,890
 virakesarilk | 7,199
-adaderanasinhalalk | 7,707
+adaderanasinhalalk | 7,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,963 (100.0%) of 44,963 articles have been extended.
+44,964 (100.0%) of 44,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### At work of police sticks
+
+*2024-09-20 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201246) · `si`
+
+Sergeant arrested for bribery: Allegedly took 5000 rupees to expedite police report process.
+
+🟩
+
+Police sergeant has been arrested on charges of bribery.
+
+The Bribery Investigation Commission said that a sergeant in Pothuhehera Police had been arrested on charges of obtaining a bribe of Rs. 5,000.
+
+It is said that the bribe had requested to provide necessary action to grant a police report without entry into a police report.
+
+According to a complaint lodged by the Bribery Commission, the suspect police sergeant has been arrested at the time of the Bribery Commission.
+
+◼️
+
+[Data](articles/2f953d54.json)
+
+[Extended Data](ext_articles/2f953d54.ext.json)
+
+---
 
 ### Everything is ready for the election
 
@@ -2363,25 +2387,5 @@ Now the countdown to the three-cornered presidential tussle is on days, not week
 [Data](articles/d6665bc7.json)
 
 [Extended Data](ext_articles/d6665bc7.ext.json)
-
----
-
-### 2024 Presidential elections: A mission impossible for many aspirers
-
-*2024-09-20 05:37:52* · [`dailyftlk`](https://www.ft.lk/columns/2024-Presidential-elections-A-mission-impossible-for-many-aspirers/4-766921) · `en`
-
-These voters have during all the previous elections casted the vote to the candidates of their choice. The important factor here is how they change their choice from time to time
-
-Since of late, Sri Lankan Presidential elections have become a battleground with the number of candidates progressively growing. Last Presidential election held on 16 November 2019 fielded 36 contestants while the 2024 candidacy increased to 38 numbers but ironically due to the demise of one candidate the number came down to 37 as of today.
-
-When we look at the results of the last Presidential election in 2019, the contest was polarised between two main candidates, and the final result was:
-
-All 33 other candidates polled a total of 2.6% of the total valid votes with the highest polling 0.37%.
-
-...
-
-[Data](articles/de78cc40.json)
-
-[Extended Data](ext_articles/de78cc40.ext.json)
 
 ---

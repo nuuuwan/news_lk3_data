@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 22:12:11**
+As of **2024-09-20 22:23:41**
 
 ## Newspaper Stats
 
-*Scraped **44,966** Articles*
+*Scraped **44,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,100 @@ adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,892
-virakesarilk | 7,199
+virakesarilk | 7,202
 adaderanasinhalalk | 7,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,966 (100.0%) of 44,966 articles have been extended.
+44,969 (100.0%) of 44,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Special move to vote voters in disability!
+
+*2024-09-20 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194216) · `ta`
+
+Election Commission provides special assistance for disabled voters at polling stations. Report allows assistants to accompany voters. Special transport and other facilities offered.
+
+🟩
+
+The Election Commission has taken special measures to provide special measures at all polling stations to vote for voters in the upcoming presidential election.
+
+The Election Commission has also issued a report on this. In the report, the assistant is allowed to take an assistant with the inability of the voter.
+
+Permission has been granted to provide special transport facilities and many other facilities have been made by the Election Commission.
+
+◼️
+
+[Data](articles/bc3b7d3b.json)
+
+[Extended Data](ext_articles/bc3b7d3b.ext.json)
+
+---
+
+### India scored in 2nd innings without giving a gift to Bangladesh by 308 runs
+
+*2024-09-20 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194215) · `ta`
+
+Chennai, Chepakkam M. A.. In the first innings of the first Test cricket match at Chidambaram, Bangladesh was rolled out for 149 runs, but in the 2nd innings without giving a Follow One, India are leading the remainder of 7 wickets by 308 runs.
+
+Today, the second day of the competition, a total of 17 wickets were taken, but India, which continues to dominate, is expected to win tomorrow's third day.
+
+With the help of Ravichandran Ashwin and Ravindra Jadeja, India scored 376 runs in the first innings.
+
+On the second day of the match, India lost their first innings to 336 runs for the loss of 6 wickets on Friday (20).
+
+Ravichandran Ashwin and Ravindra Jadeja 86 were expected to score further runs.
+
+But Bangladesh, who started the 81st over this morning with the second new ball, hit Ravindra Jadeja in the 83rd over.
+
+Dasin Ahmad lost the trio with a new ball.
+
+Hasan Mahmud took 5 wickets for 83 runs while Dasin Ahmad took 3 wickets for 55 runs.
+
+...
+
+[Data](articles/353ea24a.json)
+
+[Extended Data](ext_articles/353ea24a.ext.json)
+
+---
+
+### Sri Lanka in the presence of Timuth, Chandimal, Mathews and Tanjaya with the help of the bats;Tomorrow's retirement is ahead of the presidential election
+
+*2024-09-20 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194214) · `ta`
+
+Sri Lanka vs New Zealand cricket match summary: Dimuth Karunaratne and Dinesh Chandimal score half-centuries. Sri Lanka leads second innings with 6 wickets remaining. Presidential election set for Saturday.
+
+🟩
+
+In the second innings of the first Test cricket match against New Zealand against New Zealand, Dimuth Karunaratne and Dinesh Chandimal scored half -centuries, Angelo Mathews and Tanjaya de Silva.
+
+Sri Lanka, who were 35 runs in the first innings of the two teams, scored 237 runs for the loss of 4 wickets in the second innings at the end of the third day of the match.
+
+Accordingly, Sri Lanka is in the second innings of 6 wickets in the second innings.
+
+Sri Lanka's presidential election will be held on Saturday (21).
+
+In Sri Lanka's second innings, Bethum Nissank (2) lost the third over.
+
+Dimuth Karunaratne and Dinesh Chandimal played half -centuries. They also shared 147 runs in the 2nd wicket.
+
+But when the total number was 153 runs, Dimuth Karunaratne lost 83 runs and Dinesh Chandimal with 61 runs. The two had hit 6 pounds each.
+
+In the first innings, Kamindu Mendis scored only 13 runs in the second innings.
+
+...
+
+[Data](articles/ea7cbb83.json)
+
+[Extended Data](ext_articles/ea7cbb83.ext.json)
+
+---
 
 ### In the hands of the people of the country in the country
 
@@ -2349,63 +2431,5 @@ This new certification marks a crucial step forward from the previous ISO 27001:
 [Data](articles/93bac0ff.json)
 
 [Extended Data](ext_articles/93bac0ff.ext.json)
-
----
-
-### ‘The known devil’: Untangling the biased brain
-
-*2024-09-20 05:53:05* · [`dailyftlk`](https://www.ft.lk/columns/The-known-devil-Untangling-the-biased-brain/4-766925) · `en`
-
-A voter might favour a course of action because it aligns with their pre-existing beliefs, and not because it is necessarily the best choice – Pic by Shehan Gunasekara
-
-Birds build nests. Spiders spin intricate webs. Dogs bury bones. The salmon swims upstream. Babies suckle. These are not learned behaviours. They are instincts and reflexive behaviours that we are born with. They are important because they help us adapt to our environment and to survive.
-
-In contrast, ‘learning’ is a change in an organism’s behaviour or thought or knowledge, as a result of experience. Learning involves acquiring knowledge and skills through experience. We have learned when we have changed. But in Sri Lanka, it seems, that we never learn. This is a pithy that is often expressed.
-
-Learning involves complex processes of conscious and unconscious processes. If you have tried to learn a new language or a skill like playing a musical instrument, you will know that learning is not always easy and that outcomes vary.
-
-...
-
-[Data](articles/3dfcd235.json)
-
-[Extended Data](ext_articles/3dfcd235.ext.json)
-
----
-
-### ‘The known devil’: Untangling the biased brain
-
-*2024-09-20 05:53:05* · [`dailyftlk`](https://www.ft.lk/opinion/The-known-devil-Untangling-the-biased-brain/14-766925) · `en`
-
-A voter might favour a course of action because it aligns with their pre-existing beliefs, and not because it is necessarily the best choice – Pic by Shehan Gunasekara
-
-Birds build nests. Spiders spin intricate webs. Dogs bury bones. The salmon swims upstream. Babies suckle. These are not learned behaviours. They are instincts and reflexive behaviours that we are born with. They are important because they help us adapt to our environment and to survive.
-
-In contrast, ‘learning’ is a change in an organism’s behaviour or thought or knowledge, as a result of experience. Learning involves acquiring knowledge and skills through experience. We have learned when we have changed. But in Sri Lanka, it seems, that we never learn. This is a pithy that is often expressed.
-
-Learning involves complex processes of conscious and unconscious processes. If you have tried to learn a new language or a skill like playing a musical instrument, you will know that learning is not always easy and that outcomes vary.
-
-...
-
-[Data](articles/5838159d.json)
-
-[Extended Data](ext_articles/5838159d.ext.json)
-
----
-
-### Role of second preference: a simulation of 2024 Presidential election in Sri Lanka
-
-*2024-09-20 05:49:52* · [`dailyftlk`](https://www.ft.lk/columns/Role-of-second-preference-a-simulation-of-2024-Presidential-election-in-Sri-Lanka/4-766924) · `en`
-
-It will be wise to mark a second preference in this election – Pic by Shehan Gunasekara
-
-Sri Lanka awaits the election of its 10th President in a political landscape that has not been seen before in history. For the first time, at least three frontrunners are contending for the presidency – as opposed to the usual bi-candidate race – with a certain possibility of none achieving an over-half majority vote. This new structure of contest has affected many socio-political dimensions of the election.
-
-However, in this article, we wish to focus on how the presence of more than two major candidates would affect the existing voting system and the mathematics governing its outcome. This simulation – rather than a modelling to predict the next president of Sri Lanka – is a critique of the systems designed to measure our social choice, their strengths and limitations in upholding the fundamental notions of democracy.
-
-...
-
-[Data](articles/77a4e892.json)
-
-[Extended Data](ext_articles/77a4e892.ext.json)
 
 ---

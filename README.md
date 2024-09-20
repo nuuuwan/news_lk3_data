@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 12:57:00**
+As of **2024-09-20 13:07:44**
 
 ## Newspaper Stats
 
-*Scraped **44,904** Articles*
+*Scraped **44,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,718
 dailyftlk | 2,999
-adalk | 4,151
+adalk | 4,152
 dailymirrorlk | 4,733
-adaderanalk | 5,275
+adaderanalk | 5,276
 tamilmirrorlk | 5,878
 virakesarilk | 7,186
 adaderanasinhalalk | 7,692
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,692
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,904 (100.0%) of 44,904 articles have been extended.
+44,906 (100.0%) of 44,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Preparations completed for 2024 Presidential Election
+
+*2024-09-20 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102095/preparations-completed-for-2024-presidential-election) · `en`
+
+District Returning Officers say that all the necessary arrangements for the 2024 Presidential Election are already completed.
+
+Colombo District Returning Officer Prasanna Ginige stated that all necessary preparations have been completed for voting at 1,204 polling stations within the district.
+
+Meanwhile, the Grama Niladhari Officers’ Association says that they are currently engaged in preparing all the polling stations appropriately, despite facing issues with regard to financial allocations.
+
+The General Secretary of the All-Island Grama Niladhari Officers’ Association, Jagath Chandralal said all the Grama Niladhari officers are participating in these activities.
+
+Meanwhile, the Postal Department says that voters who have not yet received their official ballot papers can collect them today (20) and tomorrow (21) from their local post office.
+
+Deputy Postmaster General Rajitha Ranasinghe stated that voters can obtain their ballot papers after verifying their identity.
+
+...
+
+[Data](articles/4eccebb1.json)
+
+[Extended Data](ext_articles/4eccebb1.ext.json)
+
+---
 
 ### Negotiations with private bail owners - President
 
@@ -84,9 +108,13 @@ Investigations have to be held once again in relation to the Year 5 scholarship 
 
 The Education Ministry says the decision on whether to hold the Grade 5 Scholarship Examination again or not will be made after the CID and the Exams Department complete their investigations into the alleged leaking of questions.
 
-The decision will be based on the findings and recommendations of the relevant investigations, according to the Secretary to the Ministry of Education.
+The decision will be based on the findings and recommendations of the relevant investigations, according to the Secretary to the Ministry of Education Thilaka Jayasundara.
 
-◼️
+Speaking at a press conference today, she stated, “Grade 5 scholarship exam commenced on September 15. Following the allegations revelation of a leaked question paper, the Examination Department initiated an investigation. Based on the initial investigation report, the Criminal Investigation Department is now conducting further inquiries.”
+
+“Accordingly, the President and the Minister have instructed to take necessary actions based on the findings of that investigation,” the Education Secretary said.
+
+...
 
 [Data](articles/0f23d49f.json)
 
@@ -2140,6 +2168,34 @@ Elections Commission calls on all tips to announced office offices for a free an
 
 ---
 
+### On the 21st Saturday train schedule is on
+
+*2024-09-19 19:31:32* · [`adalk`](https://www.ada.lk/breaking_news/21දා-සාමාන්‍ය-සෙනසුරාදාවක-දුම්රිය-කාලසටහන-ක්‍රියාත්මකයි/11-412038) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Special train runs Sat 21st for election duty. Leaves Kankesanthurai 12pm, arrives Colombo Fort 5:57pm. Returns next day. Shortage of train drivers."
+
+🟩
+
+The Railway Department says that Saturday will be implemented on Saturday on the 21st of the election.. Deputy General Manager General Manager Nandana Schools, Nandana Schools, says that far as fargamman service trains will also be operated. He also said that there is a shortage of the train drive.
+
+The Railway Department has taken steps to run a special train between public officials and the Kankesanthurai for the participation of election duties.
+
+The train will reach Colombo Fort at 10.37 am and reach Kancasanthurai at 1.10 pm at 1.10 pm.
+
+The train was running yesterday (19th) and runs back on the 21st. The train from Kankesanthurai to Colombo Fort will leave Kankasanthura at 12 pm on 12 pm.. 05.57 pm and leaving Kurunegala at Colombo Fort at Fort at 07.35 pm. The train will be traveling today (20) and on the 22nd.
+
+◼️
+
+[Data](articles/fa19829a.json)
+
+[Extended Data](ext_articles/fa19829a.ext.json)
+
+---
+
 ### EC directs to remove election campaign offices at electorate level
 
 *2024-09-19 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102085/ec-directs-to-remove-election-campaign-offices-at-electorate-level) · `en`
@@ -2203,61 +2259,5 @@ The EU observers will observe the period of campaign silence and election day pr
 [Data](articles/7c954bce.json)
 
 [Extended Data](ext_articles/7c954bce.ext.json)
-
----
-
-### The murder of yesterday and today is not politically due to politics
-
-*2024-09-19 19:21:36* · [`adalk`](https://www.ada.lk/breaking_news/ඊයේ-හා-අද-සිදුවූ-ඝාතනයන්-දේශපාලනය-නිසා-නෙමෙයි/11-412036) · `si`
-
-Murder cases not politically motivated: Police. Four shootings occurred over two days. No political background found. Investigations ongoing. Organized crime suspected in some areas.
-
-🟩
-
-The police media division states that the four shooting events took place today and yesterday (18).
-
-Police Media Spokesperson DS Spokesperson DS Spokesman Dasada Talduuwa have observed that these incidents were not based on a political background or political activities.
-
-He said that the four murder events had been published on the election of social media networks.
-
-He added that during these investigations, the incidents of murder have not been observed on a political background and several police teams have been investigated into the killings.
-
-He said that the shootings in Midigama and Kalubowila were observed that they had an organized criminal criminals and were observed that the shootings in the Tangalle and Rasissanayake.
-
-◼️
-
-[Data](articles/9d04a621.json)
-
-[Extended Data](ext_articles/9d04a621.ext.json)
-
----
-
-### Confused at the hospital
-
-*2024-09-19 19:20:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தளாய்-வைத்தியசாலையில்-குழப்பம்/175-344031) · `ta`
-
-Kantalai Hospital closes Neonatology division due to pediatrician shortage. Ministry transfers responsibilities to universities. New patients denied until consultants appointed. Impact on ENT, ophthalmology, and cardiovascular treatments worsens crisis. Health Ministry investigates situation.
-
-🟩
-
-The Neonatology Division of the Kantalai Resource Hospital has been forced to be closed due to shortage of pediatricians and neonatologists.
-
-Neonatology is a hospital unit that specializes in the care of newborns, especially in a shortage of people who are born in the month or with health problems.
-
-Accordingly, the Ministry of Health is said to have been transferred to the universities to universities.
-
-As a result, new patients will not be allowed until the consultant is appointed.
-
-Due to the lack of child medical experts at the Peradeniya Sirimavo Bandaranaike Special Children's Hospital, the Neonatology Division is also facing the same situation.
-
-Current patients will be observed by doctors from other fields and emergency will be administered by the Emergency and Emergency Department, sources said.
-
-Moreover, the impact of regular combinations in ENT, ophthalmology and cardiovascular treatment has further enhanced the crisis.
-
-...
-
-[Data](articles/83e1759b.json)
-
-[Extended Data](ext_articles/83e1759b.ext.json)
 
 ---

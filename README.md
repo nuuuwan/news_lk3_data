@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 10:56:54**
+As of **2024-09-20 11:09:50**
 
 ## Newspaper Stats
 
-*Scraped **44,889** Articles*
+*Scraped **44,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,718
 dailyftlk | 2,998
 adalk | 4,150
 dailymirrorlk | 4,733
-adaderanalk | 5,272
-tamilmirrorlk | 5,876
+adaderanalk | 5,273
+tamilmirrorlk | 5,877
 virakesarilk | 7,182
 adaderanasinhalalk | 7,688
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 7,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,889 (100.0%) of 44,889 articles have been extended.
+44,889 (100.0%) of 44,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### ஜனாதிபதி தேர்தலுக்கான சகல ஏற்பாடுகளும் பூர்த்தி
+
+*2024-09-20 10:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலுக்கான-சகல-ஏற்பாடுகளும்-பூர்த்தி/175-344050) · `ta`
+
+ஜனாதிபதி தேர்தலுக்கான சகல ஏற்பாடுகளும் தற்போது தயார் நிலையில் உள்ளதாக மாவட்ட தேர்தல் அதிகாரிகள் சுட்டிக்காட்டியுள்ளனர்.
+
+நிதி ஒதுக்கீடுகள் தொடர்பாக சிக்கல்கள் இருந்தாலும், அனைத்து வாக்களிப்பு நிலையங்களும் உரிய முறையில் தயார்படுத்தப்பட்டு வருவதாக கிராம அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+
+அதற்காக அனைத்து கிராம உத்தியோகத்தர்களும் ஒன்றிணைந்துள்ளதாக அகில இலங்கை ஐக்கிய கிராம உத்தியோகத்தர் சங்கத்தின் பொதுச் செயலாளர் ஜெகத் சந்திரலால் தெரிவித்தார்.
+
+இதேவேளை, உத்தியோகபூர்வ வாக்காளர் அட்டைகள் இதுவரை கிடைக்கப்பெறாத வாக்காளர்கள் இன்றும் நாளையும் தாங்கள் வசிக்கும் பகுதியில் உள்ள தபால் நிலையத்தில் அவற்றை பெற்றுக்கொள்ள முடியும் என தபால் திணைக்களம் தெரிவித்துள்ளது.
+
+அடையாளத்தை உறுதிப்படுத்தியதன் பின்னர் பெற்றுக்கொள்ள முடியும் என பிரதி தபால் மா அதிபர் ராஜித ரணசிங்க தெரிவித்துள்ளார்.
+
+எனினும், உத்தியோகபூர் வாக்காளர் அட்டைகள் இன்றியும் வாக்களிக்க முடியும் என தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர்.எம். எல். ஏ.ரத்நாயக்க தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/92a7bd59.json)
+
+---
+
+### Israel unleashes heavy strikes on Lebanon as US, UK urge restraint
+
+*2024-09-20 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102092/israel-unleashes-heavy-strikes-on-lebanon-as-us-uk-urge-restraint) · `en`
+
+Israeli warplanes carried out late on Thursday their most intense strikes on southern Lebanon in nearly a year of war, heightening the conflict between Israel and Lebanese armed group Hezbollah amid calls for restraint.
+
+The White House said a diplomatic solution was achievable and urgent, and Britain called for an immediate ceasefire between Israel and Hezbollah. The U.S. is “afraid and concerned about potential escalation,” White House spokesperson Karine Jean-Pierre told a briefing.
+
+The intense barrage followed attacks earlier in the week attributed by Lebanon and Hezbollah to Israel that blew up Hezbollah radios and pagers, killing 37 people and wounding about 3,000 in Lebanon.
+
+In Thursday’s late operation, Israel’s military said its jets over two hours struck hundreds of multiple-rocket-launcher barrels in southern Lebanon that were set to be fired immediately toward Israel.
+
+...
+
+[Data](articles/6cfad2f1.json)
+
+---
 
 ### Basil goes to America
 
@@ -2247,49 +2287,5 @@ Sri Lanka scored 305 runs for the loss of their first innings in the first innin
 [Data](articles/282d5c8f.json)
 
 [Extended Data](ext_articles/282d5c8f.ext.json)
-
----
-
-### Respecting the law and fulfilling the duty can ensure peaceful elections
-
-*2024-09-19 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194121) · `ta`
-
-Here's a 200-character summary:
-
-
-
-International election monitors from 7 countries arrived in Sri Lanka to oversee the upcoming presidential election. They met with the Election Commission and emphasized the importance of respecting the law and fulfilling duties to ensure a peaceful electoral process.
-
-🟩
-
-Election is the most popular process. The laws about it are in practice. Therefore, all parties will be able to ensure that the election is held peacefully by fulfilling their duties and fulfilling their duties, said Fuat Dafeek, Chairman of the Election Monitoring Committee, which includes representatives of the international community.
-
-As the country's ninth presidential election is scheduled to be held on the 21st of this month, the Election Commission has officially invited the Election Commission to the Elections Commission, including the European Union, Commonwealth and Independent Elections, as usual to carry out election monitoring.
-
-They are coming to the country and are carrying out their election monitoring in the nine provinces.
-
-Against this backdrop, seven international election monitors from the Philippines, Bhutan, the Maldives, Nepal, Bangladesh and Russia arrived in the country on Wednesday (18).
-
-...
-
-[Data](articles/7641ada2.json)
-
-[Extended Data](ext_articles/7641ada2.ext.json)
-
----
-
-### Sri Lanka reaches ISB restructuring deal, finalises agreement with China Dev Bank: official
-
-*2024-09-19 17:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-reaches-isb-restructuring-deal-finalises-agreement-with-china-dev-bank-official-180060/) · `en`
-
-ECONOMYNEXT — Sri Lanka has reached agreements in principle on the restructuring of approximately 14.2 billion US dollars of sovereign debt with international sovereign bond (ISB) holders and also finalised an agreemnet with China Development Bank, State Minister of Finance Shehan Semasinghe said.
-
-Semasinghe tweeted Thursday September 19 afternoon that the ISB agreement was reached following successful negotiations with the Ad Hoc Group of Bondholders, representing international investors, and the Local Consortium of Sri Lanka, representing domestic financial institutions. The two groups collectively hold in excess of 50 percent of the bonds, according to the Treasury.
-
-...
-
-[Data](articles/c21103ac.json)
-
-[Extended Data](ext_articles/c21103ac.ext.json)
 
 ---

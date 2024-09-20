@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 16:55:41**
+As of **2024-09-20 17:07:54**
 
 ## Newspaper Stats
 
-*Scraped **44,948** Articles*
+*Scraped **44,951** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,724
 dailyftlk | 2,999
 adalk | 4,155
 dailymirrorlk | 4,733
-adaderanalk | 5,279
-tamilmirrorlk | 5,888
+adaderanalk | 5,280
+tamilmirrorlk | 5,890
 virakesarilk | 7,194
 adaderanasinhalalk | 7,703
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 7,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,944 (100.0%) of 44,948 articles have been extended.
+44,948 (100.0%) of 44,951 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### பவித்ராவும், சந்திரசேனவும் நீக்கம்
+
+*2024-09-20 16:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பவித்ராவும்-சந்திரசேனவும்-நீக்கம்/175-344064) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவில் இருந்து பவித்ரா வன்னியராச்சி,  எஸ்.எம். சந்திரசேன ஆகியோரும் நீக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/003189e1.json)
+
+---
+
+### University entrance cut-off marks for 2023 A/L exam out today
+
+*2024-09-20 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102099/university-entrance-cut-off-marks-for-2023-al-exam-out-today) · `en`
+
+The chairman of the University Grants Commission (UGC) has stated that the university entrance cut-off marks for G.C.E. Advanced Level examination 2023 candidates will be released this evening (20).
+
+The cut-off marks can be viewed through the website, www.ugc.ac.lk.
+
+◼️
+
+[Data](articles/cd150804.json)
+
+---
+
+### அபேகுணவர்தனவை நீங்கியது தாமரை மொட்டு
+
+*2024-09-20 16:33:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபேகுணவர்தனவை-நீங்கியது-தாமரை-மொட்டு/175-344063) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன   பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவை   ஸ்ரீலங்கா பொதுஜன பெரமுனவின் உறுப்புரிமையிலிருந்தும் தேசிய அழைப்பாளர் பதவியிலிருந்தும் இடைநிறுத்தியுள்ளது.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் அரசியல் குழுவின் தீர்மானத்திற்கு மாறாக ஜனாதிபதி தேர்தலில் மற்றுமொரு வேட்பாளரை ஆதரித்ததாக கட்சியின் பொதுச் செயலாளர் சாகர காரியவசம், அபேகுணவர்தனவுக்கு எழுதிய கடிதத்தில் தெரிவித்துள்ளார்.
+
+அபேகுணவர்தனவை ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் உறுப்புரிமை மற்றும் கட்சியின் ஏனைய அனைத்து பதவிகளில் இருந்தும் இடைநிறுத்துவதற்கு கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷ அனுமதியளித்துள்ளார்.
+
+◼️
+
+[Data](articles/00102376.json)
+
+---
 
 ### Sri Lanka voters who mark an ‘X’ cannot place second preference: EC Chief
 
@@ -453,6 +495,8 @@ Sri Lanka will hold its ninth presidential poll on September 21 to elect the nin
 ◼️
 
 [Data](articles/e8415819.json)
+
+[Extended Data](ext_articles/e8415819.ext.json)
 
 ---
 
@@ -1200,19 +1244,25 @@ Chamari Atapattu (Lead), Harunami Gunaratra, Uduni Prabhanic, Udakini Prabasy, S
 
 ---
 
-### එකිනෙකට සම්බන්ධ වෙඩි තැබීම් තුනක්
+### Three shootings related to each other
 
 *2024-09-20 10:56:37* · [`adalk`](https://www.ada.lk/breaking_news/එකිනෙකට-සම්බන්ධ-වෙඩි-තැබීම්-තුනක්/11-412044) · `si`
 
-අද පෙරවරුවේදී දෙහිවල පොලිස් වසමේ නැදිමාල ක්‍රීඩා පිටිය ආසන්නයේදි යතුරු පැදියකින් පැමිණි දෙදෙනෙකු කළ වෙඩි තැබිමකින් පුද්ගලලයෙක් ජීවිතක්ෂයට පත්ව ඇතැයි පොලිසිය කියයි.
+Multiple shootings linked: one fatal, victim admitted to hospital; another occurred in Badowita on 15th; third incident reported in Kohuwala yesterday.
 
-වෙඩි වැදිමෙන් තුවාල ලැබූ පුද්ගලයා කලුබෝවිල රෝහලට ඇතුළත් කිරිමේදී මිය ගොස් තිබේ. මෙම වෙඩි තැබීමෙන් අවුරුදු 45ක පුද්ගලයෙක් ජිවිතක්ෂයට පත්ව තිබේ.
+🟩
 
-මෙම වෙඩි තැබිම  පසුගිය 15 දා බඩෝවිට ප්‍ර දේශයේ සිදුවු වෙඩි තැබීම හා 18 දා කොහුවල, සරණංකර පාරේදී සිදුවූ වෙඩි තැබීමට සම්බන්ධ බවට පොලිසිය විසින් අණාවරණය කරගෙන තිබේ.
+A person with a person was killed in a shooting of two persons who arrived at the Dehiwala Police Division in the Dehiwala Police Division.
+
+The man who was injured in the shooting was killed in admission to Kalubowila hospital. A 45 year person was killed in this shooting.
+
+The shooting has also been revealed to shoot at Badowita on the 15th and the shooting of the area in Kohuwala yesterday.
 
 ◼️
 
 [Data](articles/da311338.json)
+
+[Extended Data](ext_articles/da311338.ext.json)
 
 ---
 
@@ -1309,6 +1359,8 @@ Romania provides employment for over 40,000 Sri Lankan nationals across various 
 ...
 
 [Data](articles/8170c4e8.json)
+
+[Extended Data](ext_articles/8170c4e8.ext.json)
 
 ---
 
@@ -1425,6 +1477,8 @@ In equities, Colombo’s All Share Price Index was opened 84.69 points higher at
 ◼️
 
 [Data](articles/bc4c9aa0.json)
+
+[Extended Data](ext_articles/bc4c9aa0.ext.json)
 
 ---
 
@@ -2205,63 +2259,5 @@ The word biodiversity is gaining both interest and currency worldwide as a resul
 [Data](articles/414d91ca.json)
 
 [Extended Data](ext_articles/414d91ca.ext.json)
-
----
-
-### Why A Trump 2.0 Could Benefit China?
-
-*2024-09-20 03:53:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-a-trump-2-0-could-benefit-china/) · `en`
-
-As the 2024 U.S. presidential election approaches, the prospect of Donald Trump’s comeback to the White House has sparked considerable debate across the political spectrum both domestically and internationally. While many analysts think China fears his potential second term, there are compelling reasons to believe that the 45th president’s return to the Oval Office could significantly benefit China. From his ambiguous stance on defending Taiwan to his history of straining transatlantic relations, which could weaken Europe’s unity and NATO’s resolve, Trump’s policies may inadvertently provide strategic opportunities for Beijing. The former Apprentice host’s return, combined with his domestic controversies might shift the global balance of power and provide China with a stronger foothold to establish a “new world order” on the world stage. This analysis explores why a Trump presidency could be advantageous for China, and what that means for international relations.
-
-...
-
-[Data](articles/c1a71946.json)
-
-[Extended Data](ext_articles/c1a71946.ext.json)
-
----
-
-### Tipper vehicle crashes
-
-*2024-09-20 03:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிப்பர்-வாகனம்-மோதி-இளைஞர்-உயிரிழப்பு/175-344045) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Young man dies in crash near bridge. Police investigating. Victim identified as Alphred Anusan, 22. Incident occurred on Thursday in Vattakachchi area.
-
-🟩
-
-Alphred Anusan (22 years old), a youth from the area, died in an accident on Thursday near the Pannangandi Bridge in Vattakachchi.
-
-Kilinochchi police are conducting further investigations. (A)
-
-◼️
-
-[Data](articles/c83f9b41.json)
-
-[Extended Data](ext_articles/c83f9b41.ext.json)
-
----
-
-### Prohibition
-
-*2024-09-20 03:17:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடகங்களில்-வெளியிடத்-தடை/175-344044) · `ta`
-
-Elections Commission warns against photographing, video recording, and social media posting at polling stations on election day. Violates election law. Social media admins advised to prevent such activities.
-
-🟩
-
-The Elections Commission has stated that the chances of voting at the polling stations on the 21st of this month, the photographing and the release of videos or publishing on social media websites are violating the election law.
-
-Therefore, the Elections Commission has announced to those who hold all social media website accounts and their administrators to avoid such activities.
-
-◼️
-
-[Data](articles/eadfc88b.json)
-
-[Extended Data](ext_articles/eadfc88b.ext.json)
 
 ---

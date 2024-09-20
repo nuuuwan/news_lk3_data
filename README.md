@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 14:11:10**
+As of **2024-09-20 14:23:32**
 
 ## Newspaper Stats
 
-*Scraped **44,916** Articles*
+*Scraped **44,921** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 436
+bbccomsinhala | 437
 colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,718
@@ -18,7 +18,7 @@ dailyftlk | 2,999
 adalk | 4,152
 dailymirrorlk | 4,733
 adaderanalk | 5,277
-tamilmirrorlk | 5,880
+tamilmirrorlk | 5,884
 virakesarilk | 7,190
 adaderanasinhalalk | 7,695
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 7,695
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,916 (100.0%) of 44,916 articles have been extended.
+44,916 (100.0%) of 44,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### மரத்திலிருந்து விழுந்தவர் மரணம்
+
+*2024-09-20 14:02:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரத்திலிருந்து-விழுந்தவர்-மரணம்/76-344059) · `ta`
+
+தலவாக்கலை  மடக்கும்புர - புதுக்காடு தோட்டத்தை சேர்ந்த 42 வயது மதிக்கத்தக்கவர், மரத்திலிருந்து தவறிவிழுந்து மரணமடைந்துள்ளார். இவர் மூன்று பிள்ளைகளின் தந்தையாவார்.
+
+பூண்டுலோயா பொலிஸ் பிரிவுக்குட்பட்ட வடக்கிமலை பிரதேசத்திலுள்ள உயரமான மரத்தில் ஏறி விறகு வெட்டிக் கொண்டிருந்த போதே இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
+
+சம்பவம் தொடர்பான விசாரனைகளை பூண்டு கோயா பொலிஸார் ஆரம்பித்துள்ளனர். சடலமானது சம்பவம் நிகழ்ந்த இடத்திலேயே வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/0e961fbe.json)
+
+---
+
+### யூடியூப் சேனல் முடக்கம்
+
+*2024-09-20 13:45:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூப்-சேனல்-முடக்கம்/175-344058) · `ta`
+
+உச்ச நீதிமன்றத்தின் யூடியூப் பக்கத்தை ஹேக்கர்கள் ஹேக் செய்துள்ளனர். அதில் கிரிப்டோ கரன்சியை புரொமோட் செய்யும் வகையிலான வீடியோ இடம்பெற்றுள்ளன.
+
+உச்ச நீதிமன்ற அரசியலமைப்பு அமர்வில் விசாரணைக்கு வரும் வழக்குகள் மற்றும் பொது நலன் சார்ந்த வழக்கு விசாரணைகளை உச்ச நீதிமன்றத்தின் யூடியூப் சேனலில் ஸ்ட்ரீம் செய்வது வழக்கம்.
+
+அண்மையில் கூட கொல்கத்தா ஆர்.ஜி.கர் மருத்துவமனையின் பயிற்சி பெண் மருத்துவர் பாலியல் வன்கொடுமை செய்து கொல்லப்பட்ட வழக்கு விசாரணை நேரலையில் இதில் ஸ்ட்ரீம் ஆனது. இந்தச் சூழலில் தான் ஹேக்கர்கள் அதை ஹேக் செய்துள்ளனர்.
+
+தற்போது ஹேக் செய்யப்பட்ட இந்தப் பக்கத்தில் அமெரிக்காவின் ரிப்பில் லேப்ஸின் எக்ஸ்ஆர்பி கிரிப்டோகரன்சியின் புரொமோஷன் மேற்கொள்ளப்பட்டுள்ளது. இந்நிலையில், முக்கியத்துவம் வாய்ந்த யூடியூப் சேனல்களை ஹேக்கர்கள் முடக்கி, அதில் தங்கள் நிறுவனத்தின் பெயரை பயன்படுத்தி முறைகேடு மேற்கொள்வது தொடர்பாக ரிப்பில் லேப்ஸ் நிறுவனம் யூடியூப் தரப்புக்கு புகார் அளித்துள்ளது.
+
+...
+
+[Data](articles/d45d1c27.json)
+
+---
 
 ### Salaries the test sheet of scholarship
 
@@ -125,6 +159,18 @@ A total of 17, 140,354 voters are expected to cast their votes at 13,421 polling
 [Data](articles/c95cd2ff.json)
 
 [Extended Data](ext_articles/c95cd2ff.ext.json)
+
+---
+
+### வாக்களிப்பது எப்படி
+
+*2024-09-20 13:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/graphics/வாக்களிப்பது-எப்படி/148-344056) · `ta`
+
+2024 ஜனாதிபதி தேர்தல் வாக்களிப்பு, சனிக்கிழமை (21) ஆம் திகதி காலை 7 மணிமுதல் மாலை 4 மணிவரை நடைபெறவுள்ளது. அந்த தேர்தலில் எவ்வாறு வாக்களிப்பது என்பது தொடர்பில் வரைகலைமூலம் தெளிவுப்படுத்தியுள்​ளோம்.
+
+◼️
+
+[Data](articles/9eed48fa.json)
 
 ---
 
@@ -596,6 +642,28 @@ However, the Chairman of the Election Commission RM said that the voter cards co
 
 ---
 
+### ஜனாதிபதி தேர்தலுக்கான சகல ஏற்பாடுகளும் பூர்த்தி
+
+*2024-09-20 10:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-தேர்தலுக்கான-சகல-ஏற்பாடுகளும்-பூர்த்தி/150-344050) · `ta`
+
+ஜனாதிபதி தேர்தலுக்கான சகல ஏற்பாடுகளும் தற்போது தயார் நிலையில் உள்ளதாக மாவட்ட தேர்தல் அதிகாரிகள் சுட்டிக்காட்டியுள்ளனர்.
+
+நிதி ஒதுக்கீடுகள் தொடர்பாக சிக்கல்கள் இருந்தாலும், அனைத்து வாக்களிப்பு நிலையங்களும் உரிய முறையில் தயார்படுத்தப்பட்டு வருவதாக கிராம அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+
+அதற்காக அனைத்து கிராம உத்தியோகத்தர்களும் ஒன்றிணைந்துள்ளதாக அகில இலங்கை ஐக்கிய கிராம உத்தியோகத்தர் சங்கத்தின் பொதுச் செயலாளர் ஜெகத் சந்திரலால் தெரிவித்தார்.
+
+இதேவேளை, உத்தியோகபூர்வ வாக்காளர் அட்டைகள் இதுவரை கிடைக்கப்பெறாத வாக்காளர்கள் இன்றும் நாளையும் தாங்கள் வசிக்கும் பகுதியில் உள்ள தபால் நிலையத்தில் அவற்றை பெற்றுக்கொள்ள முடியும் என தபால் திணைக்களம் தெரிவித்துள்ளது.
+
+அடையாளத்தை உறுதிப்படுத்தியதன் பின்னர் பெற்றுக்கொள்ள முடியும் என பிரதி தபால் மா அதிபர் ராஜித ரணசிங்க தெரிவித்துள்ளார்.
+
+எனினும், உத்தியோகபூர் வாக்காளர் அட்டைகள் இன்றியும் வாக்களிக்க முடியும் என தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர்.எம். எல். ஏ.ரத்நாயக்க தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/cf73756f.json)
+
+---
+
 ### Israel unleashes heavy strikes on Lebanon as US, UK urge restraint
 
 *2024-09-20 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102092/israel-unleashes-heavy-strikes-on-lebanon-as-us-uk-urge-restraint) · `en`
@@ -859,6 +927,30 @@ One crore 71 lakh 41,354 people are eligible to vote for this election.
 [Data](articles/64c2754f.json)
 
 [Extended Data](ext_articles/64c2754f.ext.json)
+
+---
+
+### ජනාධිපතිවරණයකදී ඔබේ ඡන්දය වැදගත් ඇයි?
+
+*2024-09-20 08:01:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy5y3nevlewo) · `si`
+
+ශ්‍රී ලංකාවේ ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව රටේ ඉහළ ම බලතල සහිත පාලකයා වන්නේ, ජනාධිපතිවරයා ය.
+
+‘ජනාධිපතිවරයා යනු රජයේ ප්‍රධානියා ද, විධායකයේ ප්‍රධානියා ද, ආණ්ඩුවේ ප්‍රධානියා ද, සන්නද්ධ සේවාවන්හි සේනාධිනායකයා ද වන්නේ ය,’ යනුවෙන් ශ්‍රී ලංකා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ සඳහන් වේ.
+
+ශ්‍රී ලංකාවේ පාලන ව්‍යුහය විධායකය, ව්‍යවස්ථාදායකය සහ අධිකරණය යන කුලුනු 3 මත ක්‍රියාත්මක වේ.
+
+කෙසේ වෙතත්, ව්‍යවස්ථාදායකය නියෝජනය කරන කැබිනට් මණ්ඩලයේ ප්‍රධානියා ජනාධිපතිවරයා වන අතර, අධිකරණය සඳහා විනිසුරුවරුන් පත් කිරීම ද ජනාධිපතිවරයා විසින් සිදු කෙරෙන හෙයින් විධායක ජනාධිපතිවරයාට වැඩි බලතල තිබේ.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ජනාධිපතිවරයාට එරෙහිව කිසිදු අධිකරණයක කිසිදු නඩුවක් පැවරිය නොහැක.
+
+ශ්‍රී ලංකාවේ ආණ්ඩුව ක්‍රියාත්මක වන්නේ අර්ධ-ජනාධිපති රාමුවක් තුළ වන අතර එහිදී ජනාධිපතිවරයා විසින් පත් කරන ලද අගමැතිවරයෙකු සහ අගමැතිවරයා විසින් යෝජනා කරන ලද කැබිනට් මණ්ඩලයක් සමග වැඩ කරන අතර ජනාධිපතිවරයා විධායක බලයක් දරයි.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 44 (3) වගන්තිය අනුව ආරක්ෂක විෂය භාර අමාත්‍ය ධූරය ජනාධිපතිවරයා විසින් දරනු ලැබිය යුතු ය.
+
+...
+
+[Data](articles/05db686f.json)
 
 ---
 
@@ -2123,139 +2215,5 @@ However, unsuspecting individuals are taken to transit countries such as Dubai f
 [Data](articles/f851c42e.json)
 
 [Extended Data](ext_articles/f851c42e.ext.json)
-
----
-
-### The end result explains delay causes
-
-*2024-09-19 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201209) · `si`
-
-Elections Commission delays due to disruptions. Violence threatens polls. Security forces deployed to maintain order. Overall results pending restoration of election process.
-
-🟩
-
-Elections Commission President of the Elections Commission. M. A. L. Says Mr. Ratnayake.
-
-He pointed out that if the entire election results affect the entire election results, he said.. If so, the total voting results cannot be issued. M. A. L. Mr. Ratnayake is informed.
-
-The Chairman of the Elections Commission (Elections Commission) addressed the Presidential Election Council this morning.
-
-The Elections Commission is working to zeal if there is a disruptive act in the polling OIC, according to the report of the electorate.. If the zero is affect the overall election result, it is not possible to issue the entire voting outcome until the election has been restored. "
-
-"As a result of polling, violence is demanding to avoid disrupting the election. All security forces have been instructed to implement the law. The police and the STF have been deployed to protect the peace and the three army has been prepared to be called in any emergency. "
-
-◼️
-
-[Data](articles/4f6e8a2e.json)
-
-[Extended Data](ext_articles/4f6e8a2e.ext.json)
-
----
-
-### Professor Arjuna de Silva resigns
-
-*2024-09-19 20:51:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-அர்ஜுன-டி-சில்வா-இராஜினாமா/175-344033) · `ta`
-
-Professor Arjuna de Silva resigns as SLADA Chairman, citing satisfaction with achievements in combating doping in Sri Lankan sports. His tenure saw improvements in drug testing and SLADA's growth.
-
-🟩
-
-Professor Arjuna de Silva, Chairman of the Sri Lanka Doping Agency (SLADA), has decided to step down on September 30.
-
-Since he resigns from this post, he will be released from Sri Lankan cricket.
-
-Professor Arjuna de Silva announced his decision at a media briefing held at the Slada headquarters in Colombo.
-
-Professor Arjuna de Silva has been the General and Chairman of Slada since 2011, and that his resignation is his own decision and that there is no other pressure.
-
-Professor Arjuna de Silva said that he was very satisfied and that the role would be given to someone else.
-
-Professor Arjuna de Silva worked with eight sports ministers and served under the rule of three presidents in these 13 years.. He also hopes that Sri Lanka has made a huge improvement in eradicating drug threats among athletes and women in the country.
-
-...
-
-[Data](articles/543850c7.json)
-
-[Extended Data](ext_articles/543850c7.ext.json)
-
----
-
-### Junior NTR's 'Devara -Bart 1', which is a trafficking work of water
-
-*2024-09-19 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194131) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Junior NTR stars in "Devara Bhart 1", a water-themed film. Directed by Koratala Siva, it features Janavi Kapoor, Saeb Ali Khan, and Prakash Raj. Released in five languages, the movie explores themes of doubt, fear, and bravery under water. Anirudh's music debuts in South Indian cinema.
-
-🟩
-
-Telugu star star Junior NTR is the hero of the story, 'Thevara - Part 1'.. The film crew said that one of the Panchabhutas has been awe -inspiring to the eyes of the audience.
-
-Junior NTR, Bollywood actress Janavi Kapoor, Bollywood actor Saeb Ali Khan, Prakash Raj, Shine Tom Sacco, Kalaiyarasan and many others have been cast in the film 'Devara Bhart 1' directed by director Koratala Siva.
-
-Producer Sudhakar - Hari Krishna has co -produced the film on behalf of Yuva Sudha Arts and ND Rama Rao Arts.. Nandamuri Kalyan Ram presents the film.
-
-The film was released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 27th of this month.. Actors Junior NTR, Kalaiyarasan, actress Janavi Kapoor, composer Anirudh, cinematographer Ratna Velu, director Koratala Siva, art director Sabu Cyril and Tamil Nadu distributor Tirupati Prasad participated.
-
-...
-
-[Data](articles/76223114.json)
-
-[Extended Data](ext_articles/76223114.ext.json)
-
----
-
-### Israel attack on Hezbullah leader television- Tenlepanan
-
-*2024-09-19 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194130) · `ta`
-
-Israel attacks Hezbollah leader during TV speech in southern Lebanon. Israeli forces claim Hezbollah uses civilians as human shields. Aims to secure northern Israel borders.
-
-🟩
-
-Israel has launched a massive attack on South Lebanon at the moment when Hesbullah's leader Hasan Nasarella's television speech was launching.
-
-The BBC has said that Israeli aircraft are hearing massive noises in the sky due to Israeli planes in the Lebanese capital.
-
-Israel has said that the Hesbullah organization is engaged in the destruction of terrorism.
-
-Israel has said that the Hesbullah organization has militarized the public, and has set up subways within them, using the public as human shields.
-
-Israel has said that the aim is to uphold the security of Northern Israel and create a public return to their homes.
-
-◼️
-
-[Data](articles/78cf3420.json)
-
-[Extended Data](ext_articles/78cf3420.ext.json)
-
----
-
-### Compliance with International Business Debtors to Reform $ 17.5 billion loans
-
-*2024-09-19 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194129) · `ta`
-
-Sri Lanka agrees to reform $17.5 billion loans under IMF conditions. Negotiations with China, India, and international lenders ongoing. Interest rate reduction and financial framework adjustment planned. Initial compliance with IMF debt services reached in July.
-
-🟩
-
-The International Trade Businessmen have agreed to rehabilitate $ 17.5 billion loans under the conditions imposed under the Extended Finance of the International Monetary Fund.
-
-Sri Lanka has reached the Chinese Exim Bank, the Official Bank of India, the Official Debt Group, the Business Debtors and the International Billy Bank, as Sri Lanka has reached the restructuring of $ 3.3 billion worth of loans with the Chinese Development Bank.
-
-The Presidential Secretariat has announced that it can reduce interest rates and ensure the country's financial framework.
-
-Already last June 21 - July 2, the government held a limited level of negotiations with the International Bailor Group. Representatives from legal and financial consultants Clifford Sans LLP, Lisart, White and Case and Rothschild And Co.
-
-Similarly, the Executive Committee of the International Bilbage Committee, which includes 10 key parties of 50 percent of Sri Lanka's bailouts, held a discussion in Paris on June 27-8.
-
-...
-
-[Data](articles/6d9694c7.json)
-
-[Extended Data](ext_articles/6d9694c7.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 01:07:52**
+As of **2024-09-21 01:22:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,998 (100.0%) of 45,001 articles have been extended.
+45,001 (100.0%) of 45,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -372,6 +372,8 @@ The quiz will feature rounds that test participants’ knowledge that include cu
 
 [Data](articles/b447ada2.json)
 
+[Extended Data](ext_articles/b447ada2.ext.json)
+
 ---
 
 ### The path ahead after the poll
@@ -392,6 +394,8 @@ Today there is no time to think too much. There was a time for that, and it was 
 
 [Data](articles/8e342c8f.json)
 
+[Extended Data](ext_articles/8e342c8f.ext.json)
+
 ---
 
 ### Ethnic reconciliation must be priority for new President
@@ -403,6 +407,8 @@ As the Presidential election campaign draws to a close, the focus must shift fro
 ...
 
 [Data](articles/57208e5c.json)
+
+[Extended Data](ext_articles/57208e5c.ext.json)
 
 ---
 

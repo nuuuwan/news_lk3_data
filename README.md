@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 07:24:13**
+As of **2024-09-20 07:58:52**
 
 ## Newspaper Stats
 
-*Scraped **44,860** Articles*
+*Scraped **44,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,87 @@ dailymirrorlk | 4,733
 adaderanalk | 5,267
 tamilmirrorlk | 5,874
 virakesarilk | 7,180
-adaderanasinhalalk | 7,680
+adaderanasinhalalk | 7,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,852 (100.0%) of 44,860 articles have been extended.
+44,857 (100.0%) of 44,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Nine officials removed from voting duties
+
+*2024-09-20 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201217) · `si`
+
+Nine officials removed from voting duties in Hambantota district due to promoting presidential candidates. Complaints filed against four public health officers, four Samurdhi managers, and three doctors. Investigations led to removal of election duties for all nine officials.
+
+🟩
+
+District Paid Officer M.. P. Mr. Sumanasekara said that 9 public officials from the Hambantota district were removed due to the promotion of presidential candidates.
+
+There were a complaint to the Hambantota District Electoral Resolution to the Hambantota District Disputes, four public health, four public health and a Samurdhi manager and three doctors to promote candidates.
+
+Accordingly, along with the investigations of several occasions, nine officials have resorted to the removal of election duties.
+
+The vacant officials have already completed their removal of election duties, the Hambantota district has completed. P. Mr. Sumanasekara told Ada Derana today.
+
+◼️
+
+[Data](articles/f4990d86.json)
+
+[Extended Data](ext_articles/f4990d86.ext.json)
+
+---
+
+### 46 percent of Tissenal patients from West
+
+*2024-09-20 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201216) · `si`
+
+Tuberculosis cases: 46% in West, 2% in Colombo. Smoking and alcohol linked to most cases.
+
+🟩
+
+According to the National Program of Tubisan Disease Control and Child Campaign, 46% of tuberculosis patients reported last year have been reported from the Western Province.
+
+Two percent of the number of tuberculosis in the Health Promotion of Sri Lanka and Bangladesh has been reported from the Colombo Municipal Council.Did.
+
+Specialist Dr. Markage Kader added that most of the reported tuberculosis patients is the cause of smoking and drinking.
+
+◼️
+
+[Data](articles/ad5efed6.json)
+
+[Extended Data](ext_articles/ad5efed6.ext.json)
+
+---
+
+### Suspect arrested from Dubai arrested
+
+*2024-09-20 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201215) · `si`
+
+Dubai suspect arrested at Katunayake airport for cash fraud scam targeting private company for 108 lakhs. 32-year-old Kandy resident under investigation.
+
+🟩
+
+A suspect for investigation has been arrested from Dubai to the Katunayake airport premises.
+
+The CID said that a suspect involved in a cash fraud was arrested.
+
+The suspect has been accused of cheating over Rs. 108 lakhs from a private company.
+
+The suspect is a 32 year old resident of Kandy.
+
+◼️
+
+[Data](articles/633ed662.json)
+
+[Extended Data](ext_articles/633ed662.ext.json)
+
+---
 
 ### Weather today
 
@@ -180,6 +250,8 @@ Now the countdown to the three-cornered presidential tussle is on days, not week
 
 [Data](articles/d6665bc7.json)
 
+[Extended Data](ext_articles/d6665bc7.ext.json)
+
 ---
 
 ### 2024 Presidential elections: A mission impossible for many aspirers
@@ -197,6 +269,8 @@ All 33 other candidates polled a total of 2.6% of the total valid votes with the
 ...
 
 [Data](articles/de78cc40.json)
+
+[Extended Data](ext_articles/de78cc40.ext.json)
 
 ---
 
@@ -2241,79 +2315,5 @@ The Election Commission's report stated that the Election Commission has been ba
 [Data](articles/12d942da.json)
 
 [Extended Data](ext_articles/12d942da.ext.json)
-
----
-
-### Windforce increases stake in Sri Lanka’s Rividhanavi after Singapore’s Blue Circle share transfer
-
-*2024-09-19 15:37:00* · [`economynextcom`](https://economynext.com/windforce-increases-stake-in-sri-lankas-rividhanavi-after-singapores-blue-circle-share-transfer-180025/) · `en`
-
-ECONOMYNEXT – WindForce Plc has increased its shareholding in Rividhanavi (Private) Limited from 30 percent to 50 percent upon the transfer of two non-voting ordinary shares held by The Blue Circle Pte Ltd.
-
-“With the aforesaid share transfer, The Blue Circle Pte Ltd has fully exited from the Project and currently the shareholding of Rividhanavi is held equally between WindForce PLC and Lakdhanavi Ltd,” Windforce said in a stock exchange filing.
-
-The state-owned Ceylon Electricity Board signed a power purchase agreement with Rividhanavi for a 100 MW ground mount solar project in Siyambalanduwa in February.
-
-Rividhanavi was established by a consortium of shareholders; Lakdhanavi Ltd, Windforce PLC and The Blue Circle PTE Ltd of Singapore. (Colombo/Sep19/2024)
-
-◼️
-
-[Data](articles/1dad6636.json)
-
-[Extended Data](ext_articles/1dad6636.ext.json)
-
----
-
-### In the Human Rights Commission on the Election Day
-
-*2024-09-19 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194105) · `ta`
-
-Human Rights Commission Sri Lanka monitors election violations. Officials patrol polling stations. Contact 021-2222021 or 070-3654910 for issues.
-
-🟩
-
-The Human Rights Commission of Sri Lanka's Human Rights Commission said that the officers of the Human Rights Commission will be engaged in the field tasks to monitor the violation of the fundamental rights of the voters on the day of the election.. Regional Coordinator T. Kanagaraj said.
-
-The Human Rights Commission of Sri Lanka has made arrangements to take the "Presidential Election - 2024" surveillance on the 21st and 22nd of this month.
-
-Officials of the Commission will be on duty to monitor whether the basic rights of the voters are violated on the day of the election and to the site of the need for the need.
-
-The Jaffna Regional Office of the Human Rights Commission of Sri Lanka will be open for election monitoring duties on the 21st of this month and it has been announced that voters will be able to contact 021-2222021 and 070-3654910 if they face any rights violation of their voting rights.
-
-◼️
-
-[Data](articles/f8171dd7.json)
-
-[Extended Data](ext_articles/f8171dd7.ext.json)
-
----
-
-### Knives in China
-
-*2024-09-19 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201200) · `si`
-
-Here's a 200-character summary:
-
-
-
-Japanese student dies from knife wound in China. 44-year-old suspect arrested. Cause unclear. Foreign minister calls for calm. Attacks on foreigners reported in some areas.
-
-🟩
-
-A 10-year-old Japanese student has died of a 10-year-old knife stress.
-
-Foreign media reports that a student who was studying in a Japanese school in the country.
-
-The 44-year-old suspect was arrested by the Chinese security forces and the cause of the murder is yet to be determined.
-
-Japanese External Affairs Minister Yoko Kikika has said that such incidents should not be targeted at no country.
-
-Foreign strikes have been observed in the attacks targeting foreigners in some areas of China.
-
-◼️
-
-[Data](articles/613adaf3.json)
-
-[Extended Data](ext_articles/613adaf3.ext.json)
 
 ---

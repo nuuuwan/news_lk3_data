@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 13:22:28**
+As of **2024-09-20 13:38:37**
 
 ## Newspaper Stats
 
@@ -26,33 +26,45 @@ adaderanasinhalalk | 7,693
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,906 (100.0%) of 44,909 articles have been extended.
+44,909 (100.0%) of 44,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
 
-### ටැවිස්ගේ කරමතින් ඔස්ට්‍රේලියාවට සටන්කාමී ජයක්
+### Twis 'comrades' militant win to Australia
 
 *2024-09-20 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201228) · `si`
 
-සත්කාරක එංගලන්ත කණ්ඩායම පරාජයකර ඊයේ (19) පැවති පළමු එක්දින ක්‍රිකට් තරගයෙන් කඩුලු 07ක පහසු ජයක් ලැබීමට සංචාරක ඔස්ට්‍රේලියානු කණ්ඩායම සමත් විය.
+Australian tourists win first ODI match against England, advancing to 13th victory. Travis scores 154 not out, highest individual score in ODI history. England scores 315 runs in 49.4 overs. Australia aims for consecutive wins in second leg of series starting September 2023.
 
-මෙය ජාත්‍යන්තර එක්දින ක්‍රිකට් පිටියේ ඔස්ට්‍රේලියාව අඛණ්ඩව ලැබූ 13වැනි තරග ජයග්‍රහණය වෙයි.
+🟩
 
-ඒ අනුව තවත් එක් ජයක් සම්පූර්ණ කරගතහොත් අඛණ්ඩව වැඩිම තරග සංඛ්‍යවක් ජයත් කණ්ඩායම් අතර දෙවැනි ස්ථානය දක්වා ඉදිරියට පැමිණීමට ඔස්ට්‍රේලියාවට හැකිවේ.
+Tourist Australian group won the first one-day match yesterday (19).
 
-අඛණ්ඩ තරග 13ක් ජයගෙන මෙහි සම දෙවැනි ස්ථානයේ මේ වනවිට ශ්‍රී ලංකා කණ්ඩායම ( 2023 ජනවාරි - 2023 සැප්තැම්බර්) රැඳී සිටියි.
+This will win the 13th competitions for Australia in the International ODI cricket.
 
-කෙසේ නමුත් අඛණ්ඩව වැඩිම තරග සංඛ්‍යාවක් ජයගත් කණ්ඩායම වන්නේද ඔස්ට්‍රේලියාවය. ඔවුන් 2003 වසරේදී තරග 21ක් අඛණ්ඩව ජයග්‍රහණ කර ඇත.
+Accordingly, Australia will be able to advance the highest number of consecutive matches to the second largest matches if another win.
 
-තවද මෙය එක්දින ක්‍රිකට් පිටියේ ඔස්ට්‍රේලියාව හඹාගොස් ලැබූ 05වැනි ඉහළම ජයග්‍රහණය ද වෙයි.
+The Second station sets of 13 continuous matches (September 2023).
 
-තරග 5කින් යුත් එක්දින ක්‍රිකට් තරගාවලියේ නොටින්හැම්හිදී පැවති මෙම තරගයේ එංගලන්තයෙන් හිමි වූ ලකුණු 316ක දැවැන්ත ඉලක්කය තරගයේ 44වැනි පන්දුවාරයේදී පසුකර යෑමට ඔස්ට්‍රේලියාවට හැකිවිය.
+However, Australia is the team that won the most continuous number of matches. They have won 21 matches in 2003.
+
+It is also the 5th highest achievement of Australia, which was chased at the ODI cricket.
+
+Australia was able to cross the 44th Occurrence of England, which was played in England, held in England.
+
+The opening batsman, who played a great innings, were able to stay in the wicket and score 154 most precious marks. His innings included in 129 balls with 20 fours and five sixes.
+
+This was the highest One Day innings as well as the sixth day century.
+
+In addition to Travis, Manus Laberusan scored 77 runs off 61 balls.
 
 ...
 
 [Data](articles/0ae2ee2e.json)
+
+[Extended Data](ext_articles/0ae2ee2e.ext.json)
 
 ---
 
@@ -80,35 +92,47 @@ Deputy Postmaster General Rajitha Ranasinghe stated that voters can obtain their
 
 ---
 
-### கண்காணிப்பு குழு ஜனாதிபதியை சந்தித்தது
+### Monitoring Committee met the president
 
 *2024-09-20 12:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்காணிப்பு-குழு-ஜனாதிபதியை-சந்தித்தது/175-344055) · `ta`
 
-ஐரோப்பிய ஒன்றிய தேர்தல் கண்காணிப்பு குழு ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சற்று முன்னர் சந்தித்து தமது விஜயத்தின் நோக்கத்தை ஜனாதிபதியுடன் பகிர்ந்து கொண்டதுடன் அமைதியான தேர்தலுக்கான பின்னணியை ஏற்படுத்தியமைக்கு பாராட்டுகளைத் தெரிவித்தது  என ஜனாதிபதி ஊடகப் பிரிவு அறிவித்துள்ளது.
+European Union Election Monitoring Committee met President Wickremesinghe at Presidential Secretariat. Praised President's Media Unit. Commonwealth Election Monitoring Committee, led by former President Danny Faure, discussed visit progress and national surveillance plans.
 
-சீஷெல்ஸின் முன்னாள் ஜனாதிபதி டேனி போரே (Danny Faure) தலைமையிலான பொதுநலவாய தேர்தல் கண்காணிப்பு குழு சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்ததுடன், தற்போதைய விஜயத்தின் முன்னேற்றம் மற்றும் நாடு முழுவதும் கண்காணிப்பு நடவடிக்கைகளை மேற்கொள்ளும் திட்டம் குறித்தும் கலந்துரையாடினர்
+🟩
+
+The European Union Election Monitoring Committee met with President Ranil Wickremesinghe at the Presidential Secretariat and shared the purpose of his visit with the president and praised the President's Media Unit of the President.
+
+The Commonwealth Election Monitoring Committee, led by former President Danny Faure, met with President Ranil Wickremesinghe at the Presidential Secretariat and discussed the progress of the current visit and the plan to carry out surveillance activities nationwide.
 
 ◼️
 
 [Data](articles/888992dd.json)
 
+[Extended Data](ext_articles/888992dd.ext.json)
+
 ---
 
-### நாமலின் மாமியார் பறந்தார்
+### Namal's mother -in -law flew
 
 *2024-09-20 12:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-மாமியார்-பறந்தார்/175-344054) · `ta`
 
-ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவின் மாமியார் (மனைவியின் தாய்), இரண்டு பிள்ளைகள், இரண்டு பணிப்பெண்கள் மற்றும் மற்றொரு பெண் உறவினர் ஆகியோர் 09/20 காலை கட்டுநாயக்க விமான நிலையத்தின் "சில்க் ரூட்" முனையத்தின் ஊடாக டுபாய் சென்றுள்ளனர்.
+Namal Rajapaksa's mother-in-law and family traveled from Katunayake airport to Dubai via Emirates Airlines flight EK-651 on September 20th. The group included her husband, two children, two maids, and another female relative. They used the Silk Road Terminal, paying $52 per person. This trip was likely part of their journey to the United States, as there are no direct flights from Sri Lanka to the US.
 
-வெள்ளிக்கிழமை (20)  காலை 10.05 மணிக்கு டுபாய் நோக்கிப் புறப்பட்ட எமிரேட்ஸ் எயார்லைன்ஸின் EK-651 விமானத்தில் இந்தக் குழு கட்டுநாயக்க விமான நிலையத்திலிருந்து புறப்பட்டது.
+🟩
 
-ஒரு பயணிக்கு 52 அமெரிக்க டாலர்கள் வசூலிக்கும் சில்க் ரோடு டெர்மினல் வழியாக அவர்கள் சம்பந்தப்பட்ட விமானத்திற்குள் நுழைந்துள்ளனர்.
+Presidential candidate Namal Rajapaksa's mother -in -law (wife's mother), two children, two maids and another female relative went through the "Silk Root" terminal of the Katunayake airport on 09/20 in the morning.
 
-இலங்கையில் இருந்து அமெரிக்காவிற்கு நேரடி விமான சேவைகள் இல்லை எனவும், டுபாய் சென்று அமெரிக்கா செல்ல திட்டமிட்டுள்ளதாகவும் கட்டுநாயக்க விமான நிலைய தகவல்கள் தெரிவிக்கின்றன.
+The team departed from Katunayake airport on the EK-651 flight of Emirates Airlines, which departed at Tubai at 10.05 am on Friday (20).
+
+They have entered the plane that grosses $ 52 per passenger through the Silk Road Terminal.
+
+Katunayake airport reports that there are no direct flights from Sri Lanka to the US and are planning to travel to Dubai.
 
 ◼️
 
 [Data](articles/8beb68de.json)
+
+[Extended Data](ext_articles/8beb68de.ext.json)
 
 ---
 

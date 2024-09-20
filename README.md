@@ -1,124 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 08:34:33**
+As of **2024-09-20 07:58:52**
 
 ## Newspaper Stats
 
-*Scraped **44,870** Articles*
+*Scraped **44,863** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 436
+bbccomsinhala | 435
 colombotelegraphcom | 447
 islandlk | 2,645
 economynextcom | 2,715
 dailyftlk | 2,998
-adalk | 4,146
+adalk | 4,145
 dailymirrorlk | 4,733
-adaderanalk | 5,268
-tamilmirrorlk | 5,875
+adaderanalk | 5,267
+tamilmirrorlk | 5,874
 virakesarilk | 7,180
-adaderanasinhalalk | 7,686
+adaderanasinhalalk | 7,683
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,862 (100.0%) of 44,870 articles have been extended.
+44,857 (100.0%) of 44,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
-
-### දෙහිවල වෙඩිතැබීමක්
-
-*2024-09-20 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201220) · `si`
-
-පොලීසිය සඳහන් කළේ දෙහිවල කඩවත පාර ප්‍රදේශයේදී මෙම වෙඩිතැබීම වාර්තාවී ඇති බවය.
-
-නිවසක් ඉදිරිපිටදී පුද්ගලයෙක් ඉලක්ක කර මෙම වෙඩිතැබීම සිදුකර ඇති අතර ඉන් තුවාල ලැබූ 45 හැවිරිදි එම පුද්ගලයා රෝහල්ගත කර තිබේ.
-
-◼️
-
-[Data](articles/bc4af35c.json)
-
----
-
-### Peliyagoda Manning Market
-
-*2024-09-20 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201219) · `si`
-
-Peliyagoda Manning Market: Heavy traffic causes long queues, affecting fish and vegetable purchases.
-
-🟩
-
-Heavy traffic has occurred at the Peliyagoda Manning Marketplace.
-
-The Ada Derana reporter stated that a long traffic queue is found in a large traffic queue.
-
-The traffic has caused a large number of fish and vegetables to purchase fish and vegetables.
-
-◼️
-
-[Data](articles/eac497ed.json)
-
-[Extended Data](ext_articles/eac497ed.ext.json)
-
----
-
-### Everything for the election is ready
-
-*2024-09-20 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201218) · `si`
-
-Election preparations underway: 1,204 polling centers set, ballot papers available, mandatory voting enforced.
-
-🟩
-
-District Returning Officials point out that all matters for the presidential election are being prepared.
-
-District Returning Officer Prasanna firewoman said that all the necessary arrangements have been made to vote in 1,204 polling centers in the Colombo district.
-
-Meanwhile, the Grama Niladhari Associations have said that despite the problems with financial allocation, all polling centers are currently being implemented.
-
-All Ceylon United Grama Niladhari Association General Secretary Jagath Chandralal said all the Grama Niladhari had joined the incident.
-
-Meanwhile, the official voter ballot papers can be obtained from the post office in the area where he is now available today and tomorrow.
-
-Mr. Rajitha Ranasinghe said that it was obtained after the identity confirmed.
-
-Meanwhile, the Chairman of the Election Commission. M. L. A. Ratnayake said that the official ballot papers is not optional to vote.
-
-◼️
-
-[Data](articles/08013e16.json)
-
-[Extended Data](ext_articles/08013e16.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-09-20 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102088/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Sabaragamuwa province and in Kalutara, Galle and Matara districts.
-
-Several spells of showers will occur in North-western province and in Colombo, Gampaha, Kandy and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva provinces during the evening or night, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in North-central and Southern provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e281e7c6.json)
-
-[Extended Data](ext_articles/e281e7c6.ext.json)
-
----
 
 ### Nine officials removed from voting duties
 
@@ -187,24 +99,6 @@ The suspect is a 32 year old resident of Kandy.
 [Data](articles/633ed662.json)
 
 [Extended Data](ext_articles/633ed662.ext.json)
-
----
-
-### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
-
-*2024-09-20 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
-
-400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
-
-🟩
-
-District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
-
-◼️
-
-[Data](articles/0f8b9cc1.json)
-
-[Extended Data](ext_articles/0f8b9cc1.ext.json)
 
 ---
 
@@ -394,8 +288,6 @@ To understand and analyse economic policies is very good. Then, policies of all 
 
 [Data](articles/4407b8d9.json)
 
-[Extended Data](ext_articles/4407b8d9.ext.json)
-
 ---
 
 ### Presidents may come and go but JR’s Executive Presidency goes on forever
@@ -411,8 +303,6 @@ It is indeed an irony that there is so much of enthusiasm over the election of t
 ...
 
 [Data](articles/26d3e9db.json)
-
-[Extended Data](ext_articles/26d3e9db.ext.json)
 
 ---
 
@@ -546,20 +436,6 @@ Additionally, President Wickremesinghe directed security agency heads to take al
 
 ---
 
-### டிப்பர் வாகனம் மோதி இளைஞர் உயிரிழப்பு
-
-*2024-09-20 03:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிப்பர்-வாகனம்-மோதி-இளைஞர்-உயிரிழப்பு/175-344045) · `ta`
-
-வட்டக்கச்சி, பன்னங்கண்டி பாலத்துக்கு அருகில் நேற்று வியாழக்கிழமை இடம்பெற்ற விபத்தில், அப்பகுதியைச் சேர்ந்த அல்பிரட் அனுசன் (வயது 22) எனும் இளைஞரே உயிரிழந்துள்ளார்.
-
-டிப்பர் சாரதியைக் கைது செய்த கிளிநொச்சி பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
-
-◼️
-
-[Data](articles/c83f9b41.json)
-
----
-
 ### Prohibition
 
 *2024-09-20 03:17:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடகங்களில்-வெளியிடத்-தடை/175-344044) · `ta`
@@ -624,6 +500,24 @@ Director K. Bhagyaraj congratulated him, “Baby Lakshana Rishi, a child star st
 
 ---
 
+### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
+
+*2024-09-20 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
+
+400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
+
+🟩
+
+District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
+
+◼️
+
+[Data](articles/0f8b9cc1.json)
+
+[Extended Data](ext_articles/0f8b9cc1.ext.json)
+
+---
+
 ### Prohibition on screening of election results
 
 *2024-09-20 02:36:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகளை-திரையிட-தடை/175-344042) · `ta`
@@ -669,30 +563,6 @@ It was announced that the film will be released worldwide on the 10th of October
 [Data](articles/73aeb4f1.json)
 
 [Extended Data](ext_articles/73aeb4f1.ext.json)
-
----
-
-### ජනපති ධූර අපේක්ෂකයෙකුට 50% ඉක්මවා ඡන්ද ගන්න බැරි වුණොත් මොකද වෙන්නේ?
-
-*2024-09-20 02:26:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1l53852v46o) · `si`
-
-ජනපති ධූර අපේක්ෂකයෙකුට 50% ඉක්මවා ඡන්ද ගන්න බැරි වුණොත් මොකද වෙන්නේ?
-
-ශ්‍රී ලංකාවේ 9 වන විධායක ජනාධිපතිවරයා තෝරා පත් කර ගැනීම සඳහා වන ඡන්ද විමසීම සැප්තැම්බර් 21 වන දා පැවැත්වේ.
-
-මෙරට මිලියන 22ක් වන ජනතාවගෙන් මිලියන 17කට ආසන්න සංඛ්‍යාවක් නව ජනාධිපතිවරයා තෝරා පත්කර ගැනීම සඳහා ඡන්දය භාවිත කිරීමට සුදුසුකම් ලබා ඇත.
-
-ඡන්ද දායකයින්ට තමන් කැමති අපේක්ෂකයින් තිදෙනෙකු කැමැත්තේ අනුපිළිවෙළ අනුව නම් කිරීමට ඡන්ද පත්‍රිකාවේ ඉඩ සලසා ඇති අතර ඔවුන් ප්‍රකාශ කරන ඡන්දයෙන් 50% ඉක්මවූ ඡන්ද ප්‍රතිශතයක් හිමි කර ගන්නා අපේක්ෂකයා ජනාධිපතිවරණයේ ජයග්‍රාහකයා ලෙස තේරී පත් වේ.
-
-කෙසේ වෙතත්, අපේක්ෂකයින් 38 දෙනෙකු තරග වදින මෙම ජනාධිපතිවරණයේදී කිසිදු අපේක්ෂකයෙකුට 50% ඉක්මවූ ඡන්ද ප්‍රතිශතයක් ලබා ගැනීමට නොහැකි වුවහොත් කුමක් විය හැකි ද?
-
-1982 වසරේ සිට ශ්‍රී ලංකාව තුළ ජනාධිපතිවරණ ඡන්ද විමසීම් 8ක් පවත්වා තිබේ.
-
-එතැන් පටන් රට ජේ.ආර්. ජයවර්ධන, රණසිංහ ප්‍රේමදාස, චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග, මහින්ද රාජපක්ෂ, මෛත්‍රීපාල සිරිසේන, ගෝඨාභය රාජපක්ෂ යන විධායක ජනාධිපතිවරුන් යටතේ පාලනය වී ඇත.
-
-...
-
-[Data](articles/2a8aa3a0.json)
 
 ---
 
@@ -1365,22 +1235,6 @@ William O'Ruq took 5 wickets for 55 runs, Glen Phillips took 2 wickets for 52 ru
 [Data](articles/6298b662.json)
 
 [Extended Data](ext_articles/6298b662.ext.json)
-
----
-
-### ඡන්දය දෙන්න සියලුම රාජ්‍ය හා පෞද්ගලික සේවකයන්ට නිවාඩු දෙන්න
-
-*2024-09-19 19:50:02* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-දෙන්න-සියලුම-රාජ්‍ය-හා-පෞද්ගලික-සේවකයන්ට-නිවාඩු-දෙන්න/11-412041) · `si`
-
-ඡන්දය ප්‍රකාශ කිරීම සඳහා සියලුම රාජ්‍ය හා පෞද්ගලික අංශයේ සේවකයන්ට නිවාඩු ලබාදිය යුතු බව මැතිවරණ කොම්සමේ සභාපති ආර්. එම්. ඒ. එල්. රත්නායක මහතා පැවසීය. ඒ අනුව රාජ්‍ය අංශයේ සේවකයන්ට ආයතන සංග්‍රහය අනුව අවම පැය 4ක කාලයක් ඇතුළුව දුර ප්‍රමාණය අනුව ඡන්ද පොළට යෑම සඳහා නිවාඩු ලබාදිය යුතු බව රත්නායක මහතා පැවසුවේය.
-
-2024 ජනාධිපතිවරණය සම්බන්ධයෙන් දැනුම්වත් කිරීමේ විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් අද (19දා) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ දී පැවැත්විණ. එම ප්‍රවෘත්ති සාකච්ඡාවේ දී මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයා මේ බව සඳහන් කළේය.
-
-පෞද්ගලික අංශයේ සේවකයන් සඳහා දුර ප්‍රමාණය අනුව නිවාඩු ලබාදීම අවශ්‍ය බව ද කොමිසමේ සභාපතිවරයා පැවසුවේය. ඒ අනුව කිලෝමීටර් 40ක් හෝ ඊට අඩු නම් දින භාගයක නිවාඩුවක්, කිලෝමීටර් 40 - 100 අතර දුරක නම් දිනක නිවාඩුවක්, කිලෝමීටර් 100 - 150 අතර දුරක නම් දින එකහමාරක නිවාඩුවක්, කිලෝමීටර් 150ට වැඩි දුරක නම් දින දෙකක නිවාඩුවක් ලබාදිය යුතු බව සභාපතිවරයා සඳහන් කළේය.
-
-...
-
-[Data](articles/c98ed9ae.json)
 
 ---
 
@@ -2293,5 +2147,173 @@ The body was taken to the Tangalle Base Hospital and Tangalle Police are conduct
 [Data](articles/cfd8270d.json)
 
 [Extended Data](ext_articles/cfd8270d.ext.json)
+
+---
+
+### Sri Lanka local banks to get 10-pct haircut on 70-pct of ISBs, balance in rupees
+
+*2024-09-19 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-local-banks-to-get-10-pct-haircut-on-70-pct-of-isbs-balance-in-rupees-180030/) · `en`
+
+ECONOMYNEXT- Sri Lanka had reached a deal with foreign bond holders and local banks to restructure defaulted sovereign bonds, according to a statement.
+
+Foreign bondholders would get bonds linked to gross domestic product (macro-linked bonds) with an initial haircut of 28 percent part of which will be reversed if economic growth exceeds expectations,
+
+Local banks would be able to exchange 70 percent of their ISBs into dollar bonds with a 10 percent haircut.
+
+The statement said the initial joint framework was not consistent with the IMF
+
+The balance 30 percent would be exchanged for rupee securities.
+
+Past due interest will become a bond with an 11 percent hair cut. The same treatment is given to past due interest of foreign bondholders.
+
+Sri Lanka banks had written down their holdings by 50-pct but would still suffer a ‘one-day’ hit, analysts said.
+
+Sri Lanka reached a framework agreement with bondholders in July which was discussed with the IMF and the official creditor committee.
+
+...
+
+[Data](articles/b449f778.json)
+
+[Extended Data](ext_articles/b449f778.ext.json)
+
+---
+
+### Elections Commission forbid
+
+*2024-09-19 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194101) · `ta`
+
+Elections Commission prohibits photography and video recording at polling stations on election day. Violates election law. Social media users and administrators warned against sharing content from polling sites.
+
+🟩
+
+The Elections Commission has stated that the chances of voting at the polling stations on the 21st of this month, the photographing and the release of videos or publishing on social media websites are violating the election law.
+
+Therefore, the Elections Commission has announced to those who hold all social media website accounts and their administrators to avoid such activities.
+
+◼️
+
+[Data](articles/818c81cb.json)
+
+[Extended Data](ext_articles/818c81cb.ext.json)
+
+---
+
+### Second wave of Lebanon device explosions kills 20 and wounds 450
+
+*2024-09-19 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102079/second-wave-of-lebanon-device-explosions-kills-20-and-wounds-450) · `en`
+
+At least 20 people have been killed and more than 450 wounded by a second wave of explosions from wireless communication devices in Lebanon, the country’s health ministry says.
+
+Walkie-talkies used by the armed group Hezbollah blew up in the southern suburbs of the capital Beirut, the Bekaa Valley, and southern Lebanon - areas seen as its strongholds.
+
+Some of the blasts took place during funerals for some of the 12 people who the ministry said were killed when Hezbollah members’ pagers exploded on Tuesday. Hezbollah blamed Israel for that attack. Israel has not commented.
+
+The attacks came as Israel’s Defence Minister Yoav Gallant announced a “new phase in the war” and as an Israeli army division was redeployed to the north.
+
+UN Secretary General António Guterres warned of the “serious risk of a dramatic escalation” and called on all parties to “exercise maximum restraint”.
+
+...
+
+[Data](articles/ae1b60db.json)
+
+[Extended Data](ext_articles/ae1b60db.ext.json)
+
+---
+
+### A complaint lodged a police officer
+
+*2024-09-19 15:43:34* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරියෙක්-ආගිය-අතක්-නැති-බවට-පැමිණිල්ලක්/11-412025) · `si`
+
+Complaint filed by police constable: Husband missing since 13th. Phone disconnected. No information about him. Not reported to service. Incident linked to Hambantota hospital.
+
+🟩
+
+Weerawila police say that there is no short hand hand with a police constable issued by the Hambantota Headquarters Police.
+
+The incident is attached to the Hambantota Headquarters Hospital in Udugamuwa and Tissamaharama.
+
+The police constable has filed the complaint on the 17th night by the police constable.
+
+The complaint states that his husband went out on the 13th and that he had never returned home and had not returned home. The phone has been disconnected, as he does not return home and will be rescued and handed over to police uniforms if he returns home.. The complaint has further stated that there is no information about her husband since then.
+
+The police constable was not reported to the service, police said.
+
+◼️
+
+[Data](articles/7fa13a2a.json)
+
+[Extended Data](ext_articles/7fa13a2a.ext.json)
+
+---
+
+### Sri Lanka’s IPS cautions against rash promises, interruptions to IMF programme
+
+*2024-09-19 15:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-ips-cautions-against-rash-promises-interruptions-to-imf-programme-180019/) · `en`
+
+ECONOMYNEXT — As Sri Lanka gears up for elections, policymakers must avoid rash economic promises that risk a
+
+decade of lost growth and an era of relative decline, the Institute of Policy Studies (IPS) said, also cautioning against interruptions to the ongoing International Monetary Fund (IMF) programme.
+
+As too often in the past, Sri Lanka appears not to have broken its damaging tendency towards ‘competitive populism’ ahead of elections, IPS said in a statement on Thursday September 19, two days ahead of Sri Lanka’s highly anticipated presidential election.
+
+“Fiscally profligate promises ranging from wage increases to loan write-offs and welfare handouts are being made in a bid to win votes. Such pledges often come with a hefty price tag that the country can ill afford, especially given its still fragile economic recovery.
+
+...
+
+[Data](articles/74935bb0.json)
+
+[Extended Data](ext_articles/74935bb0.ext.json)
+
+---
+
+### Meanmar's cyber cyber criminal camps increase
+
+*2024-09-19 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201201) · `si`
+
+Sri Lanka citizens report surge in cybercrime camp referrals from Myanmar. Criminals target IT professionals with fake job offers, luring them to Dubai under false pretenses. Victims face physical torture and electrocution in these camps. National Task Force warns of increasing human trafficking cases.
+
+🟩
+
+In different ways, citizens of Sri Lanka have revealed an increase in referrals to cyber crimes camps in Myanmar.
+
+The National Task Force against the trade is warned by the National Task Force against the trade.
+
+It is reported that the human trading is targeted targeting information technological professionals, saying they will provide attractive salary employment opportunities in foreign countries.
+
+The National Task Force against the trade of persons is further indicated that people in trade attracting that they are attracting jobs with high wages of IT.
+
+It is emphasized that they will be taken to countries such as Dubai by the guise of the guise of employment interviews.
+
+Recently investigations have revealed that they had to face severe physical, physical, torture and even electrification in these cyber crime camps.
+
+◼️
+
+[Data](articles/5a41330f.json)
+
+[Extended Data](ext_articles/5a41330f.ext.json)
+
+---
+
+### Prohibition of taking some action within the election of the election polling station!
+
+*2024-09-19 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194099) · `ta`
+
+Election Commission bans activities near polling stations. No persuasion, campaign materials allowed within half kilometer radius.
+
+🟩
+
+The Election Commission has issued a statement banning certain measures within the polling station on the 21st of this month.
+
+The Election Commission's report stated that the Election Commission has been banned from carrying out some measures within a distance of half a kilometer from the gate that enters the polling station or into the polling station.
+
+௩. Anyone who should vote for a candidate is trying to persuade Nehru
+
+௫. Related to the election, (no office, pamphlets, paste, poster, poster, photo, photo, or notice), or any symbol of the candidate, the poster, the poster, the poster, the photo or the notification or the symbol of the candidate.
+
+◼️
+
+[Data](articles/12d942da.json)
+
+[Extended Data](ext_articles/12d942da.ext.json)
 
 ---

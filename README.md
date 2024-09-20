@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 15:38:14**
+As of **2024-09-20 15:57:10**
 
 ## Newspaper Stats
 
-*Scraped **44,927** Articles*
+*Scraped **44,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailyftlk | 2,999
 adalk | 4,154
 dailymirrorlk | 4,733
 adaderanalk | 5,278
-tamilmirrorlk | 5,885
+tamilmirrorlk | 5,886
 virakesarilk | 7,190
-adaderanasinhalalk | 7,697
+adaderanasinhalalk | 7,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,927 (100.0%) of 44,927 articles have been extended.
+44,930 (100.0%) of 44,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Attorney General's notice on Ravi Seneviratne and Shani Abeysekera
+
+*2024-09-20 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201236) · `si`
+
+Attorney General informs Supreme Court about CID investigation into Ravi Seneviratne and Shani Abeysekera. Case related to former DIG Palitha Siriwardena's complaint. Two petitioners' arrests pending.
+
+🟩
+
+The Attorney General also informed the Supreme Court today that the Criminal Investigation Department (CID) for the investigation into the investigation into the incident.
+
+The notice was made when the fundamental rights petitions were called for a complaint made by former DIG Palitha Siriwardena.
+
+These petitions were called before the three-member Supreme Court Judge of the three-member Supreme Court Bedule, Assered Surware, Achala Windsu and Mahinda Samayawardena.
+
+The Deputy Solicitor General appearing on behalf of the Attorney General said that the Criminal Investigations Department has asked the Attorney General.
+
+Accordingly, these investigations are still in the primary phase and that the two petitioners have not taken a decision on the arrest.
+
+However, he also informed the court if the two petitioners have been revealed to the arrest.
+
+◼️
+
+[Data](articles/d2775693.json)
+
+[Extended Data](ext_articles/d2775693.ext.json)
+
+---
+
+### More information about the murder of Dehiwala
+
+*2024-09-20 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201234) · `si`
+
+Dehiwala murder: 45-year-old councilor killed near playground. Suspected link to drug dealer. Two shooters on motorcycle targeted another motorcycle. Case connected to Kohuwala murder.
+
+🟩
+
+A man was shot dead in Dehiwala and Nedimala this morning (20).
+
+The victim was suspected to be a close relative of a drug dealer in the area.
+
+The shooting was carried out near the Dehiwala and Nedimala playground at Dehiwala.
+
+Two people who came in a motorcycle were targeting another motorcycle.
+
+The victim was one of the 45-year-old Dehiwala Municipal Council Anura Kospea.
+
+The murderer in the Badovita area and yesterday (19) were observed that there was a connection between the murders and the murder held in Kohuwala.
+
+◼️
+
+[Data](articles/582bb838.json)
+
+[Extended Data](ext_articles/582bb838.ext.json)
+
+---
 
 ### Santantha Mudalige Petition to Supreme Court
 
@@ -147,6 +203,32 @@ Garlic Goya Police have started investigations regarding the incident. The body 
 [Data](articles/0e961fbe.json)
 
 [Extended Data](ext_articles/0e961fbe.ext.json)
+
+---
+
+### The man who fell from the tree was death
+
+*2024-09-20 14:02:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டியதால்-மரத்திலிருந்து-விழுந்தவர்-மரணம்/76-344059) · `ta`
+
+A 31-year-old man named N. Kanageswaran fell from a 100-foot-tall kandis tree during woodcutting. He died after falling. Police suspect wasps caused his fall. Another person was hospitalized due to a wasp attack. The victim's body will undergo an autopsy.
+
+🟩
+
+Talawakelle police said that a person who climbed into the tree in the Madukumbura estate belonging to the Talawakelle police division had died and fell down from the tree while he was on the tree.
+
+The deceased is N. Kanageswaran (age 31) of the same estate. He is the father of a child.
+
+The deceased person was climbing into a 100 -foot -tall kandis tree with another person and cutting the branches of the tree for firewood.
+
+Talawakelle police have expressed suspicion that the person in the tree may have fallen off the tree due to fear of the wasps.
+
+The other person who was attacked by the wasp attack has been admitted to the Lithulla Divisional Hospital and the body of the person who fell from the tree will be sent to the Nuwara Eliya District General Hospital for autopsy.. Talawakelle police officers said.
+
+◼️
+
+[Data](articles/f17bf100.json)
+
+[Extended Data](ext_articles/f17bf100.ext.json)
 
 ---
 
@@ -2022,11 +2104,11 @@ The awardees included Shiran Punchihewa, Indika Igalawithana, and Janithi Perera
 
 SimCentric Technologies enhances information security standards with ISO 27001:2022 Certification
 
-A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
-
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
-...
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
 
 [Data](articles/de3d0f52.json)
 
@@ -2179,81 +2261,5 @@ Serendib Horticulture Technologies Pvt Ltd, first formed in 1999, has been in th
 [Data](articles/9e65d388.json)
 
 [Extended Data](ext_articles/9e65d388.ext.json)
-
----
-
-### Started with a long -haul passenger ferry service
-
-*2024-09-20 01:28:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெடுந்தாரகை-பயணிகள்-படகு-சேவையை-ஆரம்பித்தது/175-344037) · `ta`
-
-Long-haul passenger ferry service launched, costing Rs 52 million. Governor hands over boat to Road Development Authority. Service connects Nedundi to landing department daily, carrying 80 passengers. Improves transportation for island residents.
-
-🟩
-
-About a year later, the long -run passenger boat launched its service on Thursday (19). Governor of the Northern Province BSM. Charles and Road Development Authority officially handed over a long passenger boat on Thursday (19).
-
-The Governor visited the boat. The boat, which has so far been in charge of the Provincial Council, has been revised at a cost of Rs 52 million and handed over to the Road Development Authority.
-
-The people of Nedundevu expressed their gratitude to the governor for solving the long -standing traffic problem on their island. The people also noted that the governor's hard work is re -launching their service.
-
-The Governor thanked the President, the President, the Ministry of Department of Passengers for the speedy action of the passenger boat.. The governor said measures have been taken to improve the transport facilities for the islands.
-
-...
-
-[Data](articles/6fdc7e63.json)
-
-[Extended Data](ext_articles/6fdc7e63.ext.json)
-
----
-
-### Are the fundamental rights violated during the presidential election?- Human Rights Commission worked for Special Monitoring Committee
-
-*2024-09-20 00:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194134) · `ta`
-
-Human Rights Commission monitors presidential election for irregularities and rights violations. If issues arise, contact 076 7914695.
-
-🟩
-
-With the country's ninth presidential election to be held on Saturday (21), special surveillance work will be carried out on polling stations nationwide to prevent election irregularities.
-
-Domestic and International Election Monitoring Committees have been carrying out strong surveillance on election violence and irregularities over the past one month since the announcement of the election date.
-
-Against this backdrop, the Sri Lanka Human Rights Commission has announced that it will be involved in special human rights surveillance activities on the day of the election day (21), the election day (21), and the day to announce the results.
-
-If the two days are found to be a fundamental rights violations across the country, the team involved in the above mentioned work will be visited and will take steps to provide a proper solution.
-
-Therefore, if the fundamental rights are violated during the presidential election, it will be able to communicate with the Human Rights Commission on 076 7914695.
-
-◼️
-
-[Data](articles/16032257.json)
-
-[Extended Data](ext_articles/16032257.ext.json)
-
----
-
-### 2024-09-19 (Thursday)
-
-### Went to the hands of CID
-
-*2024-09-19 22:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CID-யின்-கைகளுக்குச்-சென்றது/175-344035) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-CID investigates leaked exam questions. Three questions removed from first paper after discussion.
-
-🟩
-
-The Criminal Investigation Department (CID) has launched an investigation into some questions leaking at the fifth grade scholarship examination.
-
-Meanwhile, a discussion held yesterday (17) decided to remove three questions from the first paper.. Remble
-
-◼️
-
-[Data](articles/21a00f6d.json)
-
-[Extended Data](ext_articles/21a00f6d.ext.json)
 
 ---

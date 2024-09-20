@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 18:32:55**
+As of **2024-09-20 18:58:23**
 
 ## Newspaper Stats
 
-*Scraped **44,957** Articles*
+*Scraped **44,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 4,155
 dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,890
-virakesarilk | 7,197
+virakesarilk | 7,198
 adaderanasinhalalk | 7,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,957 (100.0%) of 44,957 articles have been extended.
+44,958 (100.0%) of 44,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Considering the passage of the resolution on Sri Lanka with a referendum or vote;The final draft will be submitted in the first week of October
+
+*2024-09-20 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194211) · `ta`
+
+UN Human Rights Council examines Sri Lanka resolution renewal. Draft expected early October. British-led coalition proposes extending 51/1 resolution for two more years. Final draft to be released before presidential elections. Civil society groups to discuss with member states.
+
+🟩
+
+The UN Human Rights Council (UNHRC) has examined the possibility of passing a draft referendum or voting, prepared by the British -led internet countries to set a resolution passed on Sri Lanka.
+
+The 57th session of the United Nations Human Rights Council commenced on the 9th. On that day, the Sri Lankan affair was examined following the speech of UN Human Rights Council Volkar Turk's speech on the Global Human Rights Status and the Writing Report on Myanmar Human Rights.
+
+UN Human Rights High Commissioner Volkar Turk addressed the progress of the content implementation of the 51/1 resolution on the 'Reconciliation, Liability and Human Rights Improves in Sri Lanka' which has already been passed at the Human Rights Council on Sri Lanka.
+
+...
+
+[Data](articles/a0bf2298.json)
+
+[Extended Data](ext_articles/a0bf2298.ext.json)
+
+---
 
 ### Dimuth and Chandimal strengthens Sri Lankan innings
 
@@ -2319,21 +2341,5 @@ The event held at the Ministry of Investment Promotion brought together prominen
 [Data](articles/9caf1163.json)
 
 [Extended Data](ext_articles/9caf1163.ext.json)
-
----
-
-### EDB and KPMG Sri Lanka collaborate to create awareness on new EU regulations for ESG
-
-*2024-09-20 05:14:50* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-KPMG-Sri-Lanka-collaborate-to-create-awareness-on-new-EU-regulations-for-ESG/34-766914) · `en`
-
-Export Development Board (EDB) and KPMG Sri Lanka jointly organised a knowledge-sharing session on the new European Union (EU) regulations concerning Environmental, Social, and Governance (ESG) factors on 11 September 2024. The session took place at the auditorium of the Postgraduate Institute of Management (PIM), with around 200 Sri Lankan export companies.
-
-The European Union has introduced regulations that will have a significant impact on the Sri Lankan export sector, particularly as ESG considerations. The event provided a platform to discuss the critical challenges and opportunities that the export industry will encounter as a result of the EU’s new ESG regulations.
-
-...
-
-[Data](articles/06d6e7b0.json)
-
-[Extended Data](ext_articles/06d6e7b0.ext.json)
 
 ---

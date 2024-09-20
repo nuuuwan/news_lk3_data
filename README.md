@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 05:22:29**
+As of **2024-09-20 05:44:11**
 
 ## Newspaper Stats
 
-*Scraped **44,830** Articles*
+*Scraped **44,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 435
 colombotelegraphcom | 447
-islandlk | 2,635
+islandlk | 2,641
 economynextcom | 2,715
-dailyftlk | 2,980
+dailyftlk | 2,985
 adalk | 4,145
 dailymirrorlk | 4,733
 adaderanalk | 5,267
-tamilmirrorlk | 5,873
+tamilmirrorlk | 5,874
 virakesarilk | 7,180
 adaderanasinhalalk | 7,679
 
@@ -26,11 +26,117 @@ adaderanasinhalalk | 7,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,830 (100.0%) of 44,830 articles have been extended.
+44,839 (100.0%) of 44,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### EDB and KPMG Sri Lanka collaborate to create awareness on new EU regulations for ESG
+
+*2024-09-20 05:14:50* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-KPMG-Sri-Lanka-collaborate-to-create-awareness-on-new-EU-regulations-for-ESG/34-766914) · `en`
+
+Export Development Board (EDB) and KPMG Sri Lanka jointly organised a knowledge-sharing session on the new European Union (EU) regulations concerning Environmental, Social, and Governance (ESG) factors on 11 September 2024. The session took place at the auditorium of the Postgraduate Institute of Management (PIM), with around 200 Sri Lankan export companies.
+
+The European Union has introduced regulations that will have a significant impact on the Sri Lankan export sector, particularly as ESG considerations. The event provided a platform to discuss the critical challenges and opportunities that the export industry will encounter as a result of the EU’s new ESG regulations.
+
+...
+
+[Data](articles/06d6e7b0.json)
+
+[Extended Data](ext_articles/06d6e7b0.ext.json)
+
+---
+
+### Embassy in Stockholm promotes greater SL, Sweden business ties
+
+*2024-09-20 05:13:32* · [`dailyftlk`](https://www.ft.lk/business/Embassy-in-Stockholm-promotes-greater-SL-Sweden-business-ties/34-766913) · `en`
+
+The Embassy of Sri Lanka in Stockholm hosted the members of the Sweden Sri Lanka Business Council for an evening reception at the Embassy recently.
+
+This elegant gathering was set to provide a unique platform for the members of the Business Council to explore opportunities for synergy, exchange ideas, and build more partnerships between Sri Lanka and Sweden.
+
+...
+
+[Data](articles/7a850f3a.json)
+
+[Extended Data](ext_articles/7a850f3a.ext.json)
+
+---
+
+### EU Election Observation Mission to Sri Lanka deploys short-term observers to all districts
+
+*2024-09-20 05:11:41* · [`dailyftlk`](https://www.ft.lk/news/EU-Election-Observation-Mission-to-Sri-Lanka-deploys-short-term-observers-to-all-districts/56-766912) · `en`
+
+The European Union (EU) Election Observation Mission (EOM) yesterday deployed 32 short-term observers to Sri Lanka’s Presidential election covering all electoral districts. These observers will monitor the period of campaign silence, as well as Election Day proceedings, including the opening of polling stations, voting and counting of ballots, as well as the tabulation of results. “The short-term observers who are reinforcing our mission today will visit towns and villages in all nine provinces of Sri Lanka and their observations will be vital for the mission to make a comprehensive, well-informed assessment of this very important Election Day. The presence of our observers in every district counting and tabulation centre underlines our commitment to transparency in the electoral process,” EU EOM Sri Lanka 2024 Deputy Chief Observer Inta Lase said.
+
+...
+
+[Data](articles/8ce12e29.json)
+
+[Extended Data](ext_articles/8ce12e29.ext.json)
+
+---
+
+### NMSJ calls for responsible political leadership respecting choice of people
+
+*2024-09-20 05:11:26* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-calls-for-responsible-political-leadership-respecting-choice-of-people/56-766911) · `en`
+
+The National Movement for Social Justice (NMSJ) Chairman and former Speaker of Parliament Karu Jayasuriya in a statement has called for responsible leadership in respecting the choice of the people from all candidates competing at the Presidential election on 21 September as well as party leaders.
+
+“As we approach a crucial Presidential election, the people of Sri Lanka have the opportunity to choose their Head of State for the next five years. Every citizen is entitled to exercise this right freely, without any interference.
+
+In this context, party leaders bear an even greater responsibility than the Presidential candidates themselves. Their foremost duty is to respect the people’s choice. Upholding this decision is not only a matter of adhering to the country’s laws and principles of social justice but also respecting basic moral and civilised standards.
+
+...
+
+[Data](articles/6df9b25b.json)
+
+[Extended Data](ext_articles/6df9b25b.ext.json)
+
+---
+
+### National Security Council reviews measures ahead of Presidential poll
+
+*2024-09-20 05:09:16* · [`dailyftlk`](https://www.ft.lk/news/National-Security-Council-reviews-measures-ahead-of-Presidential-poll/56-766910) · `en`
+
+Pledges full support to ensure free, fair, and secure election process
+
+The National Security Council was convened yesterday chaired by President Ranil Wickremesinghe, to discuss security arrangements for tomorrow’s 2024 Presidential election.
+
+The Council focused on ensuring the election is conducted independently and fairly, with full support pledged to the Election Commission to maintain law and order.
+
+Key discussions included safeguarding candidates, securing polling centres, and upholding security at polling stations.
+
+Additionally, President Wickremesinghe directed security agency heads to take all necessary steps to maintain peace and stability in the country during the post-election period, ensuring minimal disruption to the daily lives of citizens.
+
+◼️
+
+[Data](articles/613c5f67.json)
+
+[Extended Data](ext_articles/613c5f67.ext.json)
+
+---
+
+### Prohibition
+
+*2024-09-20 03:17:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடகங்களில்-வெளியிடத்-தடை/175-344044) · `ta`
+
+Elections Commission warns against photographing, video recording, and social media posting at polling stations on election day. Violates election law. Social media admins advised to prevent such activities.
+
+🟩
+
+The Elections Commission has stated that the chances of voting at the polling stations on the 21st of this month, the photographing and the release of videos or publishing on social media websites are violating the election law.
+
+Therefore, the Elections Commission has announced to those who hold all social media website accounts and their administrators to avoid such activities.
+
+◼️
+
+[Data](articles/eadfc88b.json)
+
+[Extended Data](ext_articles/eadfc88b.ext.json)
+
+---
 
 ### Can't ask for a vote
 
@@ -254,6 +360,28 @@ We have already engaged 26 monitors in surveillance tasks, they are August;In al
 
 ---
 
+### Union Bank celebrates Long Service Awards
+
+*2024-09-20 01:50:00* · [`islandlk`](http://island.lk/union-bank-celebrates-long-service-awards/) · `en`
+
+Union Bank proudly recognised the exceptional contributions of its esteemed team members. Long Service Awards were presented to honour those celebrating 20 and 25 years of dedicated service by Dilshan Rodrigo, Director/CEO and the corporate management team.
+
+The awardees included Shiran Punchihewa, Indika Igalawithana, and Janithi Perera Karunasiri, with 25 years and Jayanath Kariyakarawana, Janaka Iroshan, Karthiga Sridhara, Nirosha Somarathne, and Priyadharshani Corea with 20 years of exemplary service.Union Bank commends these outstanding individuals for their unwavering commitment and invaluable contributions to the organization’s growth and success.
+
+SimCentric Technologies enhances information security standards with ISO 27001:2022 Certification
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/de3d0f52.json)
+
+[Extended Data](ext_articles/de3d0f52.ext.json)
+
+---
+
 ### Special Transport Plan on Saturday
 
 *2024-09-20 01:49:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனியன்று-விசேட-போக்குவரத்து-திட்டம்/175-344039) · `ta`
@@ -280,6 +408,20 @@ The special rail service has been implemented for government officials and secur
 
 ---
 
+### A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
+
+*2024-09-20 01:48:00* · [`islandlk`](http://island.lk/a-knowledge-sharing-session-on-government-securities-market-organized-by-the-national-chamber-of-commerce-of-sri-lanka/) · `en`
+
+The National Chamber of Commerce of Sri Lanka in collaboration with Wealth Trust Securities successfully conducted an awareness session on Government Securities Market on 12th September 2024 at the Royal Colombo Golf Club.  This knowledge sharing session was attended by the council and members of the National Chamber. Session was enriched with the inputs shared by the special guest speaker to the session, N D Y C Weerasinghe, Superintendent of Public Debt Department of Central Bank of Sri Lanka (CBSL).
+
+...
+
+[Data](articles/fc46eede.json)
+
+[Extended Data](ext_articles/fc46eede.ext.json)
+
+---
+
 ### Solar Power Scheme for 1124 schools
 
 *2024-09-20 01:41:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1124-பாடசாலைகளுக்கு-சூரிய-மின்சக்தி-திட்டம்/175-344038) · `ta`
@@ -299,6 +441,38 @@ Parents, including school principals, teachers and students, thanked Governor Se
 [Data](articles/f9cd8d60.json)
 
 [Extended Data](ext_articles/f9cd8d60.ext.json)
+
+---
+
+### Fentons Smart Facilities enhances service excellence by joining IWFM
+
+*2024-09-20 01:37:00* · [`islandlk`](http://island.lk/fentons-smart-facilities-enhances-service-excellence-by-joining-iwfm/) · `en`
+
+Fentons Smart Facilities (FSF), the sole facility management service provider in Sri Lanka to receive ISO 41001:2018 Facility Management System certification, is excited to announce its corporate membership in the Institute of Workplace and Facilities Management (IWFM).
+
+Hasith Prematillake, Managing Director of Hayleys Fentons, says, “This new affiliation with IWFM, an internationally renowned professional body, signifies an exciting phase of growth and opportunity and emphasises our commitment to keeping up with industry standards and best practices. We look forward to leveraging IWFM’s resources to further enhance our service offering and deliver unparalleled value to our clients.”
+
+...
+
+[Data](articles/eecef630.json)
+
+[Extended Data](ext_articles/eecef630.ext.json)
+
+---
+
+### Mahogany Masterpieces launches new designs
+
+*2024-09-20 01:36:00* · [`islandlk`](http://island.lk/mahogany-masterpieces-launches-new-designs/) · `en`
+
+Mahogany Masterpieces, Sri Lanka’s leading manufacturer of handcrafted luxury furniture, is proudly celebrating its 50th anniversary, showcasing its dedication to design and innovation.
+
+To commemorate this significant milestone, the company has introduced a new furniture collection that sets industry trends while aligning with contemporary design aesthetics. Additionally, Mahogany Masterpieces has launched an exclusive line of artisanal giftware, featuring branded watch boxes, jewelry boxes, trays, and coasters, further enhancing its offerings for valued customers.
+
+Reflecting on the company’s 50-year journey, Managing Director Kishan Gooneratne shared, “Mahogany Masterpieces was established in 1974 by my father and his brothers under the name Craft Supplies. Although my father initially lacked formal training in the industry, his passion for timber led to our first major success with an order for barrel-shaped wooden buttons for another iconic Sri Lankan brand Barefoot.
+
+...
+
+[Data](articles/e6b15553.json)
 
 ---
 
@@ -2074,6 +2248,24 @@ The investigation conducted by SLC authorities have revealed that he was accused
 
 ---
 
+### Sugar scrub
+
+*2024-09-19 13:58:00* · [`islandlk`](http://island.lk/sugar-scrub/) · `en`
+
+Yes, it’s scrub time, this week, too, as lots of readers did indicate to me that they would like to see a few more body scrub beauty tips. Okay, here we go then…
+
+You will need 1/2 cup of brown sugar and 1/4 cup extra virgin or regular olive oil.
+
+In an air tight storage container, pour in the olive oil and scoop in the brown sugar and mix well, with a fork or metal spoon. Make sure to smash out the clumps. The mixture is now ready when it looks like wet sand.
+
+This scrub can be used anywhere that you are having dry skin issues or want to just do a great exfoliation on. Apply a small amount of the sugar scrub to the area and begin lightly massaging it in circles. You don’t need to press down hard or apply much pressure to this scrub as the granules from the sugar will work to get the dead skin off. By simply massaging it into the area for a few seconds and rinsing it under warm water in the shower, your skin will feel silky and soft.
+
+...
+
+[Data](articles/6786c59f.json)
+
+---
+
 ### Didn't you receive votes yet?
 
 *2024-09-19 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201195) · `si`
@@ -2249,267 +2441,5 @@ According to Indian media, the Canadian government's measures are more impact on
 [Data](articles/8bb77408.json)
 
 [Extended Data](ext_articles/8bb77408.ext.json)
-
----
-
-### More information about Rasnathura
-
-*2024-09-19 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201191) · `si`
-
-Rasnathura shooting: 30-year-old man killed in Kurunegala cafe. Police investigating suspect.
-
-🟩
-
-Another information about the deceased has been revealed in the shooting that was shot dead in Kurunegala, Rasnapura.
-
-The Rasnathpura Police had received a message that a person had fallen in a cafeteria in the area today (19).
-
-The victim was a 30 year old resident of the area.
-
-According to investigations into the incident, the murder had been shot dead by a person.
-
-The Nikaweratiya Magistrate, the body has been informed and the suspect is conducting further investigations.
-
-◼️
-
-[Data](articles/01ab894f.json)
-
-[Extended Data](ext_articles/01ab894f.ext.json)
-
----
-
-### Presidential election;Special Rail Service
-
-*2024-09-19 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194083) · `ta`
-
-Railway Department announces special train services Colombo Fort Kankesanthurai presidential election duties government officials security personnel. Trains operate today tomorrow, usual schedule Saturday, reduced short services Sunday, long-distance unaffected.
-
-🟩
-
-The Railway Department has announced that a number of special train services will be held between the Colombo Fort and the Kankesanthurai to ease the presidential election duties.
-
-The special rail service has been implemented for government officials and security personnel involved in election activities.
-
-The train will depart from Colombo Fort at 9 am today and tomorrow. Also, two special trains will be operated from Kankesanthurai to Colombo Fort tomorrow and September 22.
-
-Meanwhile, the train service will be operated on the usual schedule on Saturday, the 21st of the election.
-
-Short Train Services may be reduced on Sunday 22nd. However, long -distance train services are running as usual, the Railway Department said.
-
-◼️
-
-[Data](articles/0696133a.json)
-
-[Extended Data](ext_articles/0696133a.ext.json)
-
----
-
-### Youth shot dead in Nikaweratiya
-
-*2024-09-19 12:57:01* · [`adalk`](https://www.ada.lk/breaking_news/නිකවැරටිය-වෙඩි-තැබීමකින්-තරුණයෙක්-මරුට/11-412023) · `si`
-
-Youth (24) shot dead in Nikaweratiya. Businessman killed at Rajalama area. Police investigation ongoing under SP Jayantha Jayawardena.
-
-🟩
-
-The businessman had been killed in a business station in the Rajalama area in Rasnayakapura yesterday morning, police said.
-
-The deceased has been identified as a 24-year-old woman named AJD Meniahadhahadhaha, a resident of the post.
-
-The deceased is that the businessman who had arrived in the business and to open his business where the deceased had arrived at home, the businessman was shot dead in the businessman, police said.
-
-The police said that the deceased's chest was shot dead and had not yet been revealed to the magistrate inspection.
-
-A group of officers investigating the supervision of Superintendent of Police Jayantha Jayawardena in accordance with Superccess Unihast Jayarawardena, Nikaweratiya Divisional Secretariat Wasantha Jayawardena.
-
-A group of Nikaweratiya division sector officials are also investigating the incident.
-
-◼️
-
-[Data](articles/a311c1d4.json)
-
-[Extended Data](ext_articles/a311c1d4.ext.json)
-
----
-
-### Cricket Australia bans ex-Sri Lankan cricketer Dulip Samaraweera for 20 years
-
-*2024-09-19 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102077/cricket-australia-bans-ex-sri-lankan-cricketer-dulip-samaraweera-for-20-years) · `en`
-
-Cricket Australia (CA) has banned former Sri Lankan Test player Dulip Samaraweera for 20 years after he “committed a serious breach” of the organisation’s code of conduct.
-
-Samaraweera is banned from holding any position within CA or a state or territory association, including any WBBL or BBL teams.
-
-CA’s conduct commission found Samaraweera engaged in “inappropriate behaviour” while he was employed by Cricket Victoria (CV).
-
-“CA and CV are committed to providing a safe environment for all players and employees and the welfare of those subjected to mistreatment is paramount,” a CA statement read.
-
-CV also released a statement, saying it “strongly” supported CA’s decision to ban Samaraweera, who had worked with the state women’s program.
-
-“It is our view that the conduct was utterly reprehensible and a betrayal of everything we stand for at Cricket Victoria,” CV chief executive Nick Cummins said.
-
-...
-
-[Data](articles/c80caf7c.json)
-
-[Extended Data](ext_articles/c80caf7c.ext.json)
-
----
-
-### Action ban on Keheliya's son
-
-*2024-09-19 12:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-மகனுக்கு-அதிரடி-தடை/175-344021) · `ta`
-
-Colombo High Court orders seizure of luxury apartments owned by Keheliya Rambukwella's son Ramitha Rambukwella on Bribery Commission's request.
-
-🟩
-
-The Colombo High Court has ordered the occupation of two luxury apartments in Colombo, Colombo 3, belonging to Ramitha Rambukwella, son of former health minister Keheliya Rambukwella.
-
-Colombo High Court Judge Manjula Tilakaratne has issued the order on the request of the Bribery Commission.
-
-◼️
-
-[Data](articles/e9242b91.json)
-
-[Extended Data](ext_articles/e9242b91.ext.json)
-
----
-
-### CID and Exams Dept. probing Grade 5 exam paper leak
-
-*2024-09-19 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102076/cid-and-exams-dept-probing-grade-5-exam-paper-leak) · `en`
-
-The Ministry of Education (MoE) has issued a special statement regarding the controversy over the incident of the Grade 5 Scholarship examination paper allegedly being leaked.
-
-The communiqué stated that the Department of Examinations and the Criminal Investigation Department (CID) are conducting an investigation regarding the issue with the first paper of the 2024 Grade 5 Scholarship Examination.
-
-It is further stated that a decision on the matter will be made after the conclusion of these investigations.
-
-On Tuesday (17), the Commissioner General of Examinations Amit Jayasundara said that investigations are being held into an incident where three questions similar to those on the Grade 5 Scholarship exam paper had allegedly been posted online via a model exam paper.
-
-He had also stated that if investigations uncover that the questions have in fact been leaked, the relevant questions would be disregarded during the paper marking process.
-
-...
-
-[Data](articles/e5e48c3e.json)
-
-[Extended Data](ext_articles/e5e48c3e.ext.json)
-
----
-
-### Allow Dileepan's memorial
-
-*2024-09-19 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194086) · `ta`
-
-Jaffna court denies ban on Dileepan martyrdom events, citing 2011 Gazette Notification allowing commemoration. Police petition rejected, sparking debate over freedom of expression vs. national security concerns.
-
-🟩
-
-Jaffna to ban the martyrdom of Dileepan. The magistrate's court has denied.
-
-The police filed a petition last Friday demanding a ban on the martyrdom events in the Jaffna police area.
-
-When the hearing of the petition was held on Wednesday (18), the Gazette Notification was issued on the ban on the use of tiger symbols in 2011. It is not forbidden to commemorate the dead.
-
-People have been continuously carrying out commemoration events for the past 13 years. Neither the President, the Defense Ministry nor the Parliament has taken any legal action in this regard.
-
-The police, however, refused to ban the commemoration, saying that it was not acceptable for the commemoration event.
-
-◼️
-
-[Data](articles/4dc0422d.json)
-
-[Extended Data](ext_articles/4dc0422d.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-09-19 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194084) · `ta`
-
-US dollar exchange rate: 299.2026 rupees buying price, 308.5712 selling price. Central Bank announcement on Thursday, 19th.
-
-🟩
-
-The US dollar purchasing price was 299.2026 rupees and the sales price were Rs 308.5712, based on the currency exchange rate issued by the Central Bank on Thursday (19).
-
-◼️
-
-[Data](articles/a83b9e13.json)
-
-[Extended Data](ext_articles/a83b9e13.ext.json)
-
----
-
-### Circular action;Three arrests with ice drug
-
-*2024-09-19 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194079) · `ta`
-
-Police arrest three suspects with ice drugs in nationwide operation. Three separate incidents: one in Ragama, another in Borella, and a third in Ukashena. Total of 15 grams of ice seized, along with cash and additional drugs.
-
-🟩
-
-Three suspects have been arrested on Wednesday (18) with ice drugs in a roundabout carried out by police across the country.
-
-Accordingly, a suspect has been arrested with 15 grams of 460 milligrams of ice in the Ukashena area of ​​the Ragama Police Division.
-
-In this case, a suspect has been arrested with 15 grams of 330 milligrams of ice.
-
-Meanwhile, a suspect has been arrested with a sum of Rs 272,000 from the Sahaspura area of ​​the Borella police division of 12 grams of 820 milligrams of ice and drug sales.
-
-◼️
-
-[Data](articles/3e748c8f.json)
-
-[Extended Data](ext_articles/3e748c8f.ext.json)
-
----
-
-### Special decision on controversial scholarship question
-
-*2024-09-19 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201190) · `si`
-
-Ministry of Education issues special announcement regarding Grade 5 Scholarship Examination controversy. Investigations by Department of Examinations and Criminal Investigations Department to be conducted on first question paper issue. Further action pending completion of investigations.
-
-🟩
-
-The Ministry of Education has issued a special announcement on Grade 5 Scholarship Examinations.
-
-It states that the Department of Examinations and the Criminal Investigations Department will be conducted regarding the issue of the first question paper of the Grade 5 Scholarship Examination.
-
-The statement further states that as soon as those investigations are completed, the statement added.
-
-◼️
-
-[Data](articles/b793e425.json)
-
-[Extended Data](ext_articles/b793e425.ext.json)
-
----
-
-### Damage to the trade center in Tayantha area
-
-*2024-09-19 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194080) · `ta`
-
-Matara shopping center fire causes 15 lakh rupee damage. Owner reported blaze to police, who helped control it along with residents.
-
-🟩
-
-A shopping center in Matara, Matara, was burnt by fire, police said.
-
-The owner of the shop has telephoned the owner of the shop and informed the fire.
-
-Subsequently, the owner of the shopping center rushed to the scene and immediately informed the police.
-
-Later, the police and the residents of the area have controlled the fire, police said.
-
-The owner of the shopping center said that the fire has caused a loss of about 15 lakh rupees.
-
-◼️
-
-[Data](articles/b2835e70.json)
-
-[Extended Data](ext_articles/b2835e70.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 20:57:20**
+As of **2024-09-20 21:09:00**
 
 ## Newspaper Stats
 
-*Scraped **44,961** Articles*
+*Scraped **44,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,724
 dailyftlk | 2,999
-adalk | 4,155
+adalk | 4,156
 dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,890
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,707
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,961 (100.0%) of 44,961 articles have been extended.
+44,962 (100.0%) of 44,962 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -589,6 +589,32 @@ The university was temporarily closed from 6.00 pm on the 12th following a clash
 [Data](articles/1152f911.json)
 
 [Extended Data](ext_articles/1152f911.ext.json)
+
+---
+
+### STF arrested for supporting the murder of Midamigama
+
+*2024-09-20 15:31:54* · [`adalk`](https://www.ada.lk/breaking_news/මිදිගම-ඝාතනයට-අධාර-අනුබල-දුන්-දෙදෙනෙකු-එස්-ටී-එෆ්--අත්අඩංගුවට/11-412046) · `si`
+
+STF arrests 2 for heroin, murder support. 38yo, 30yo men held. Heroin found, suspects taken in. Investigation ongoing.
+
+🟩
+
+Police Special Task Force says that 2,500 milligrams of heroin and two persons with a three-wheeler have been arrested in connection with the fish movement of the fish campaign at the Gidigama Gavigapana Bridge yesterday.
+
+The 38 and 30-year-old residents of the Pushparavya Vavuniya Taborator's motorbike group of the Police Special Task Force of the Vidigama Police Division was arrested in the Vidigama Police Division and Hatigaha areas in the Vidigama Police Division.
+
+One of these has been given lodges to staying in the shooters and the other suspect has been transported from a three-wheeler.
+
+Two strangers have come to a motorbike and have been shot dead by a 38-year-old dwelling in the shooting, police said.
+
+The two suspects have been submitted to the Midigama Police for further investigations.
+
+◼️
+
+[Data](articles/592071a4.json)
+
+[Extended Data](ext_articles/592071a4.ext.json)
 
 ---
 
@@ -2353,23 +2379,5 @@ To understand and analyse economic policies is very good. Then, policies of all 
 [Data](articles/4407b8d9.json)
 
 [Extended Data](ext_articles/4407b8d9.ext.json)
-
----
-
-### Presidents may come and go but JR’s Executive Presidency goes on forever
-
-*2024-09-20 05:30:34* · [`dailyftlk`](https://www.ft.lk/columns/Presidents-may-come-and-go-but-JR-s-Executive-Presidency-goes-on-forever/4-766919) · `en`
-
-The blame for almost everything that has gone wrong in Sri Lanka has been laid at the door of JR’s Executive Presidency
-
-Sri Lanka’s ninth Presidential election will be held on Saturday 21 September. More than 17 million (17,140,354) Sri Lankans are registered as eligible voters. Nominally 38 candidates are in the ring but only three are regarded as the leading contenders. The hectic election campaigns ended on 18 September but election fever is high. A large voter turnout is expected on election day.
-
-It is indeed an irony that there is so much of enthusiasm over the election of the executive president despite the criticism directed against the executive presidential system in past years. The Executive Presidency is blamed extensively on the one hand while the country gets involved in presidential poll excitement on the other.
-
-...
-
-[Data](articles/26d3e9db.json)
-
-[Extended Data](ext_articles/26d3e9db.ext.json)
 
 ---

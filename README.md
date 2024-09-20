@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 15:57:10**
+As of **2024-09-20 16:11:00**
 
 ## Newspaper Stats
 
-*Scraped **44,930** Articles*
+*Scraped **44,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,999
 adalk | 4,154
 dailymirrorlk | 4,733
 adaderanalk | 5,278
-tamilmirrorlk | 5,886
+tamilmirrorlk | 5,887
 virakesarilk | 7,190
 adaderanasinhalalk | 7,699
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 7,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,930 (100.0%) of 44,930 articles have been extended.
+44,931 (100.0%) of 44,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### 17 passengers injured in bus crash
+
+*2024-09-20 15:44:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கவிழ்ந்ததில்-17-பயணிகள்-காயம்/175-344061) · `ta`
+
+Here's a summary of the article in 200 characters:
+
+
+
+"17 passengers hurt in bus crash near Colombo. Private bus collided with car; both vehicles damaged. 7 injured taken to hospital, 10 treated elsewhere."
+
+🟩
+
+Moneragala police said that 17 passengers were injured in a private bus traveling to Colombo on Wednesday (20).
+
+When the private bus crashed into the car, the car crashed into the bus.
+
+The car that crashed into the bus ran away. Seven passengers who were injured in the accident are being treated at the Moneragala District General Hospital and ten passengers.
+
+◼️
+
+[Data](articles/365244ce.json)
+
+[Extended Data](ext_articles/365244ce.ext.json)
+
+---
 
 ### Attorney General's notice on Ravi Seneviratne and Shani Abeysekera
 
@@ -2245,21 +2271,5 @@ Reflecting on the company’s 50-year journey, Managing Director Kishan Goonerat
 [Data](articles/e6b15553.json)
 
 [Extended Data](ext_articles/e6b15553.ext.json)
-
----
-
-### Serendib Horticulture Technologies marks 25 years of global plant export excellence
-
-*2024-09-20 01:35:00* · [`islandlk`](http://island.lk/serendib-horticulture-technologies-marks-25-years-of-global-plant-export-excellence/) · `en`
-
-Serendib Horticulture Technologies Pvt Ltd recently celebrated 25 years in the export business. The Deputy Head of Mission at the embassy of the Kingdom of the Netherlands to Sri Lanka and Maldives Iwan Rutjens was the Chief Guest with several academics in the agriculture and floriculture sectors present with other horticulture experts and industry personnel and public sector officials.
-
-Serendib Horticulture Technologies Pvt Ltd, first formed in 1999, has been in the business of exporting plants to countries around the world for 25 years. This is not a small task for an SME company to survive and grow in this very competitive and challenging environment. At present, it is one of the leading companies in the business of exporting plants in Sri Lanka.
-
-...
-
-[Data](articles/9e65d388.json)
-
-[Extended Data](ext_articles/9e65d388.ext.json)
 
 ---

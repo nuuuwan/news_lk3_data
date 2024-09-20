@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 13:07:44**
+As of **2024-09-20 13:22:28**
 
 ## Newspaper Stats
 
-*Scraped **44,906** Articles*
+*Scraped **44,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ dailyftlk | 2,999
 adalk | 4,152
 dailymirrorlk | 4,733
 adaderanalk | 5,276
-tamilmirrorlk | 5,878
+tamilmirrorlk | 5,880
 virakesarilk | 7,186
-adaderanasinhalalk | 7,692
+adaderanasinhalalk | 7,693
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,906 (100.0%) of 44,906 articles have been extended.
+44,906 (100.0%) of 44,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### ටැවිස්ගේ කරමතින් ඔස්ට්‍රේලියාවට සටන්කාමී ජයක්
+
+*2024-09-20 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201228) · `si`
+
+සත්කාරක එංගලන්ත කණ්ඩායම පරාජයකර ඊයේ (19) පැවති පළමු එක්දින ක්‍රිකට් තරගයෙන් කඩුලු 07ක පහසු ජයක් ලැබීමට සංචාරක ඔස්ට්‍රේලියානු කණ්ඩායම සමත් විය.
+
+මෙය ජාත්‍යන්තර එක්දින ක්‍රිකට් පිටියේ ඔස්ට්‍රේලියාව අඛණ්ඩව ලැබූ 13වැනි තරග ජයග්‍රහණය වෙයි.
+
+ඒ අනුව තවත් එක් ජයක් සම්පූර්ණ කරගතහොත් අඛණ්ඩව වැඩිම තරග සංඛ්‍යවක් ජයත් කණ්ඩායම් අතර දෙවැනි ස්ථානය දක්වා ඉදිරියට පැමිණීමට ඔස්ට්‍රේලියාවට හැකිවේ.
+
+අඛණ්ඩ තරග 13ක් ජයගෙන මෙහි සම දෙවැනි ස්ථානයේ මේ වනවිට ශ්‍රී ලංකා කණ්ඩායම ( 2023 ජනවාරි - 2023 සැප්තැම්බර්) රැඳී සිටියි.
+
+කෙසේ නමුත් අඛණ්ඩව වැඩිම තරග සංඛ්‍යාවක් ජයගත් කණ්ඩායම වන්නේද ඔස්ට්‍රේලියාවය. ඔවුන් 2003 වසරේදී තරග 21ක් අඛණ්ඩව ජයග්‍රහණ කර ඇත.
+
+තවද මෙය එක්දින ක්‍රිකට් පිටියේ ඔස්ට්‍රේලියාව හඹාගොස් ලැබූ 05වැනි ඉහළම ජයග්‍රහණය ද වෙයි.
+
+තරග 5කින් යුත් එක්දින ක්‍රිකට් තරගාවලියේ නොටින්හැම්හිදී පැවති මෙම තරගයේ එංගලන්තයෙන් හිමි වූ ලකුණු 316ක දැවැන්ත ඉලක්කය තරගයේ 44වැනි පන්දුවාරයේදී පසුකර යෑමට ඔස්ට්‍රේලියාවට හැකිවිය.
+
+...
+
+[Data](articles/0ae2ee2e.json)
+
+---
 
 ### Preparations completed for 2024 Presidential Election
 
@@ -53,6 +77,38 @@ Deputy Postmaster General Rajitha Ranasinghe stated that voters can obtain their
 [Data](articles/4eccebb1.json)
 
 [Extended Data](ext_articles/4eccebb1.ext.json)
+
+---
+
+### கண்காணிப்பு குழு ஜனாதிபதியை சந்தித்தது
+
+*2024-09-20 12:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்காணிப்பு-குழு-ஜனாதிபதியை-சந்தித்தது/175-344055) · `ta`
+
+ஐரோப்பிய ஒன்றிய தேர்தல் கண்காணிப்பு குழு ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சற்று முன்னர் சந்தித்து தமது விஜயத்தின் நோக்கத்தை ஜனாதிபதியுடன் பகிர்ந்து கொண்டதுடன் அமைதியான தேர்தலுக்கான பின்னணியை ஏற்படுத்தியமைக்கு பாராட்டுகளைத் தெரிவித்தது  என ஜனாதிபதி ஊடகப் பிரிவு அறிவித்துள்ளது.
+
+சீஷெல்ஸின் முன்னாள் ஜனாதிபதி டேனி போரே (Danny Faure) தலைமையிலான பொதுநலவாய தேர்தல் கண்காணிப்பு குழு சற்று முன்னர் ஜனாதிபதி செயலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவை சந்தித்ததுடன், தற்போதைய விஜயத்தின் முன்னேற்றம் மற்றும் நாடு முழுவதும் கண்காணிப்பு நடவடிக்கைகளை மேற்கொள்ளும் திட்டம் குறித்தும் கலந்துரையாடினர்
+
+◼️
+
+[Data](articles/888992dd.json)
+
+---
+
+### நாமலின் மாமியார் பறந்தார்
+
+*2024-09-20 12:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-மாமியார்-பறந்தார்/175-344054) · `ta`
+
+ஜனாதிபதி வேட்பாளர் நாமல் ராஜபக்ஷவின் மாமியார் (மனைவியின் தாய்), இரண்டு பிள்ளைகள், இரண்டு பணிப்பெண்கள் மற்றும் மற்றொரு பெண் உறவினர் ஆகியோர் 09/20 காலை கட்டுநாயக்க விமான நிலையத்தின் "சில்க் ரூட்" முனையத்தின் ஊடாக டுபாய் சென்றுள்ளனர்.
+
+வெள்ளிக்கிழமை (20)  காலை 10.05 மணிக்கு டுபாய் நோக்கிப் புறப்பட்ட எமிரேட்ஸ் எயார்லைன்ஸின் EK-651 விமானத்தில் இந்தக் குழு கட்டுநாயக்க விமான நிலையத்திலிருந்து புறப்பட்டது.
+
+ஒரு பயணிக்கு 52 அமெரிக்க டாலர்கள் வசூலிக்கும் சில்க் ரோடு டெர்மினல் வழியாக அவர்கள் சம்பந்தப்பட்ட விமானத்திற்குள் நுழைந்துள்ளனர்.
+
+இலங்கையில் இருந்து அமெரிக்காவிற்கு நேரடி விமான சேவைகள் இல்லை எனவும், டுபாய் சென்று அமெரிக்கா செல்ல திட்டமிட்டுள்ளதாகவும் கட்டுநாயக்க விமான நிலைய தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/8beb68de.json)
 
 ---
 
@@ -2193,71 +2249,5 @@ The train was running yesterday (19th) and runs back on the 21st. The train from
 [Data](articles/fa19829a.json)
 
 [Extended Data](ext_articles/fa19829a.ext.json)
-
----
-
-### EC directs to remove election campaign offices at electorate level
-
-*2024-09-19 19:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102085/ec-directs-to-remove-election-campaign-offices-at-electorate-level) · `en`
-
-The Chairman of the Election Commission, R.M.A.L. Rathnayake, says that all election campaign offices which have been established at the electorate level must be removed after midnight today (19).
-
-During a press conference at the Department of Government Information this morning (19) regarding the presidential poll, he stated that it is essential to remove all current election campaign offices at the constituency level from midnight today.
-
-“Up until yesterday, the maintaining of one main office for the district and one for each constituency related to a polling station had been allowed. However, from midnight today, only one office per election division or district and one for a polling area or previous electoral electorate can be kept open.
-
-“If these offices are not removed, the police will proceed to remove them,” he added.
-
-...
-
-[Data](articles/fbc97b26.json)
-
-[Extended Data](ext_articles/fbc97b26.ext.json)
-
----
-
-### Voting begins tomorrow morning
-
-*2024-09-19 19:25:59* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-විමසීම-හෙට-උදේ-හතට-ඇරඹෙයි/11-412037) · `si`
-
-Election details: Voting starts tomorrow at 7 AM. Only valid ID cards accepted. No ballots without proper IDs. 38 candidates remain after one death. Over 63,000 police deployed for security. Roads closed on election day.
-
-🟩
-
-The Elections Commission states that the election of the presidential election will be held tomorrow (21st) at 7.00 am to 4.00 pm.
-
-The Elections Commission states that it is inevitable to carry one of the nine valid identity documents published in the election.
-
-Thus the National Identity Card issued by the Department of Registration of Persons, Valid Passport, Valid Driving License, Retired Identity Card (Illegal Identified Identity Card), Adult Identified Card (PS)Referring Priest Identity Card issued by the Department of Registration of Persons, the Recommendation letter issued by the Department of Registration of Persons.Is possible.
-
-The Elections Commission states that if any of the above identity cards have been submitted, a ballot is not released.
-
-Also, idiotical cards (unclear or if the photographs are uncovered or readable by the photographs), no other documents issued by the Ministry, Departments and Government InstitutionsAlso pointed out that
-
-...
-
-[Data](articles/36ed802d.json)
-
-[Extended Data](ext_articles/36ed802d.ext.json)
-
----
-
-### EU deploys 32 election monitors for Sri Lanka’s Presidential poll
-
-*2024-09-19 19:23:00* · [`economynextcom`](https://economynext.com/eu-deploys-32-election-monitors-for-sri-lankas-presidential-poll-180095/) · `en`
-
-ECONOMYNEXT – The European Union Election Observation Mission (EU EOM) to Sri Lanka’s presidential election has deployed 32 short-term observers to all electoral districts, the EU EOM said.
-
-Sri Lanka will hold its ninth presidential poll on September 21 to elect the ninth executive president of the country. 17.1 million voters are eligible to cast their votes in 22 electoral districts which have 160 constituencies.
-
-The EU observers will observe the period of campaign silence and election day proceedings, including the opening of polling stations, voting, and counting of ballots, as well as the tabulation of results.
-
-“The short-term observers who are reinforcing our mission today will visit towns and villages in all nine provinces of Sri Lanka and their observations will be vital for the mission to make a comprehensive, well-informed assessment of this very important election day,” Inta Lase, Deputy Chief Observer of the EU EOM Sri Lanka 2024 said in a statement.
-
-...
-
-[Data](articles/7c954bce.json)
-
-[Extended Data](ext_articles/7c954bce.ext.json)
 
 ---

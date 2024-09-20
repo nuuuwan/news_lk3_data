@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 17:59:28**
+As of **2024-09-20 18:19:16**
 
 ## Newspaper Stats
 
-*Scraped **44,956** Articles*
+*Scraped **44,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,890
 virakesarilk | 7,197
-adaderanasinhalalk | 7,704
+adaderanasinhalalk | 7,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,956 (100.0%) of 44,956 articles have been extended.
+44,957 (100.0%) of 44,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Dimuth and Chandimal strengthens Sri Lankan innings
+
+*2024-09-20 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201242) · `si`
+
+Sri Lanka's Dimuth Karunaratne and Dinesh Chandimal formed a strong partnership, scoring 147 runs together. Sri Lanka scored 305 in the first innings and 237 in the second, with Dananjaya de Silva and Angelo Mathews remaining unbeaten at the end of day three. Prabe Jayasuriya took 4 wickets for Sri Lanka, while Ramesh Mendis claimed 3.
+
+🟩
+
+When the third day of the first Test match between Sri Lanka and New Zealand, Sri Lanka scored 237 runs for the loss of 4 wickets for their second innings.
+
+Waduwela wicket was bowled out for six marks while the first wicket of Sri Lanka.
+
+Dimuth Karunaratne and Dinesh Chandimal were strengthened by 147 runs for the second wicket.
+
+When the day was completed, Leader Dananjaya de Silva (34) and Angelo Mathews (32) remained the wicket.
+
+Batting first Sri Lanka scored 305 runs for the first innings and the New Zealand scored 340 runs for the first innings.
+
+Prabe Jayasuriya took 4 wickets for Sri Lanka and Ramesh Mendis took 3 wickets.
+
+◼️
+
+[Data](articles/2fcd734a.json)
+
+[Extended Data](ext_articles/2fcd734a.ext.json)
+
+---
 
 ### Accident in Mannar big bridge;One injury
 
@@ -2307,21 +2335,5 @@ The European Union has introduced regulations that will have a significant impac
 [Data](articles/06d6e7b0.json)
 
 [Extended Data](ext_articles/06d6e7b0.ext.json)
-
----
-
-### Embassy in Stockholm promotes greater SL, Sweden business ties
-
-*2024-09-20 05:13:32* · [`dailyftlk`](https://www.ft.lk/business/Embassy-in-Stockholm-promotes-greater-SL-Sweden-business-ties/34-766913) · `en`
-
-The Embassy of Sri Lanka in Stockholm hosted the members of the Sweden Sri Lanka Business Council for an evening reception at the Embassy recently.
-
-This elegant gathering was set to provide a unique platform for the members of the Business Council to explore opportunities for synergy, exchange ideas, and build more partnerships between Sri Lanka and Sweden.
-
-...
-
-[Data](articles/7a850f3a.json)
-
-[Extended Data](ext_articles/7a850f3a.ext.json)
 
 ---

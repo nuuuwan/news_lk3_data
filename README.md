@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 11:09:50**
+As of **2024-09-20 11:22:28**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 7,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,889 (100.0%) of 44,891 articles have been extended.
+44,891 (100.0%) of 44,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
 
-### ஜனாதிபதி தேர்தலுக்கான சகல ஏற்பாடுகளும் பூர்த்தி
+### All arrangements for the presidential election are fulfilled
 
 *2024-09-20 10:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலுக்கான-சகல-ஏற்பாடுகளும்-பூர்த்தி/175-344050) · `ta`
 
-ஜனாதிபதி தேர்தலுக்கான சகல ஏற்பாடுகளும் தற்போது தயார் நிலையில் உள்ளதாக மாவட்ட தேர்தல் அதிகாரிகள் சுட்டிக்காட்டியுள்ளனர்.
+Presidential election preparations underway: District officials confirm readiness, Grama Niladhari Association addresses funding issues, voter cards available at post offices, Deputy Chief Minister clarifies identity verification process, Election Commission Chairman allows voting without official card.
 
-நிதி ஒதுக்கீடுகள் தொடர்பாக சிக்கல்கள் இருந்தாலும், அனைத்து வாக்களிப்பு நிலையங்களும் உரிய முறையில் தயார்படுத்தப்பட்டு வருவதாக கிராம அதிகாரிகள் சங்கம் தெரிவித்துள்ளது.
+🟩
 
-அதற்காக அனைத்து கிராம உத்தியோகத்தர்களும் ஒன்றிணைந்துள்ளதாக அகில இலங்கை ஐக்கிய கிராம உத்தியோகத்தர் சங்கத்தின் பொதுச் செயலாளர் ஜெகத் சந்திரலால் தெரிவித்தார்.
+District election officials have pointed out that all arrangements for the presidential election are currently being prepared.
 
-இதேவேளை, உத்தியோகபூர்வ வாக்காளர் அட்டைகள் இதுவரை கிடைக்கப்பெறாத வாக்காளர்கள் இன்றும் நாளையும் தாங்கள் வசிக்கும் பகுதியில் உள்ள தபால் நிலையத்தில் அவற்றை பெற்றுக்கொள்ள முடியும் என தபால் திணைக்களம் தெரிவித்துள்ளது.
+The Grama Niladhari Association said that despite problems with funding, all polling stations are being prepared properly.
 
-அடையாளத்தை உறுதிப்படுத்தியதன் பின்னர் பெற்றுக்கொள்ள முடியும் என பிரதி தபால் மா அதிபர் ராஜித ரணசிங்க தெரிவித்துள்ளார்.
+The General Secretary of the All Ceylon United Grama Niladhari Association, Jegath Chandralal, said that all the Grama Niladhari Officers have come together for this purpose.
 
-எனினும், உத்தியோகபூர் வாக்காளர் அட்டைகள் இன்றியும் வாக்களிக்க முடியும் என தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர்.எம். எல். ஏ.ரத்நாயக்க தெரிவித்துள்ளார். R
+Meanwhile, voters who have not yet received official voter cards can get them at the post office in the area where they live today, the Postal Department said.
+
+Deputy Chief Minister Rajitha Ranasinghe said that the identity can be obtained after confirming the identity.
+
+However, the Chairman of the Election Commission RM said that the voter cards could be voted without the official.. L. A. Ratnayake said. Remble
 
 ◼️
 
 [Data](articles/92a7bd59.json)
+
+[Extended Data](ext_articles/92a7bd59.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ In Thursday’s late operation, Israel’s military said its jets over two hours
 ...
 
 [Data](articles/6cfad2f1.json)
+
+[Extended Data](ext_articles/6cfad2f1.ext.json)
 
 ---
 
@@ -1204,11 +1212,11 @@ The awardees included Shiran Punchihewa, Indika Igalawithana, and Janithi Perera
 
 SimCentric Technologies enhances information security standards with ISO 27001:2022 Certification
 
-A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
-
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
-...
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
 
 [Data](articles/de3d0f52.json)
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 06:43:43**
+As of **2024-09-20 07:24:13**
 
 ## Newspaper Stats
 
-*Scraped **44,859** Articles*
+*Scraped **44,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,267
 tamilmirrorlk | 5,874
 virakesarilk | 7,180
-adaderanasinhalalk | 7,679
+adaderanasinhalalk | 7,680
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,849 (100.0%) of 44,859 articles have been extended.
+44,852 (100.0%) of 44,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Weather today
+
+*2024-09-20 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201214) · `si`
+
+Kalutara, Galle, Matara: Showers expected. North Western, Gampaha, Kandy, Nuwara Eliya: Light showers. East, Uva: Scattered thundershowers. Central Highlands: Occasional rain. Strong winds (40-45 mph). Public advised to prepare for potential damage from wind and lightning.
+
+🟩
+
+Showers will occur at times in Kalutara, Galle and Matara districts today (20), the Met Department said.
+
+Showers will occur in the North Western, Gampaha, Kandy, Kandy and Nuwara Eliya districts.
+
+Showers or thundershowers will occur at several places in the East and Uva provinces.
+
+From time to time in the Western balconies of the Central Mountains and in times of North-middle and Southern provinces.. There are about 40-45th strong winds.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/459f4d65.json)
+
+[Extended Data](ext_articles/459f4d65.ext.json)
+
+---
 
 ### Miami Ad School Sri Lanka celebrates Class of 2023
 
@@ -116,6 +142,8 @@ However, in this article, we wish to focus on how the presence of more than two 
 
 [Data](articles/77a4e892.json)
 
+[Extended Data](ext_articles/77a4e892.ext.json)
+
 ---
 
 ### Lawyers’ Collective issues statement on voting method at Presidential election
@@ -135,6 +163,8 @@ All voters also have a right to cast their second and third preferences for two 
 ...
 
 [Data](articles/092da673.json)
+
+[Extended Data](ext_articles/092da673.ext.json)
 
 ---
 
@@ -2285,35 +2315,5 @@ Foreign strikes have been observed in the attacks targeting foreigners in some a
 [Data](articles/613adaf3.json)
 
 [Extended Data](ext_articles/613adaf3.ext.json)
-
----
-
-### Thousands of explosion incidents Lebanon in the grip of fear
-
-*2024-09-19 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194100) · `ta`
-
-Lebanon gripped by fear after massive explosions. Thousands injured, hospitals overwhelmed. People terrified, unable to leave homes. Children and women especially affected.
-
-🟩
-
-The BBC said that the Lebanese people were in the grip of fear following thousands of explosions.
-
-After a two -day explosion, people from the Arabian service of the BBC are talking to the public in Lebanon.
-
-Whatever the assassination we saw, the woman said that it was a slaughter and that the young men were seen with injuries in the hips in their hands and she could not see anything.
-
-He said that people were in the grip and fear of tension, and that the situation is so fearful that they are afraid of walking close to their fellow human being, and the situation is very fearful.
-
-One person on the street said that the people are unable to hide their concern and fear, they are scared of their children and women.
-
-I was going to go for a convention, but there is no way to go, he said.
-
-Journalist Sally Abu al -Jud said that I saw the injured in the hospital after the explosion in Beirut, the capital of Lebanon.
-
-...
-
-[Data](articles/1f32185e.json)
-
-[Extended Data](ext_articles/1f32185e.ext.json)
 
 ---

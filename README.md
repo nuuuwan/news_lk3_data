@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 23:58:00**
+As of **2024-09-21 00:12:07**
 
 ## Newspaper Stats
 
-*Scraped **44,975** Articles*
+*Scraped **44,976** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,999
 adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,280
-tamilmirrorlk | 5,892
+tamilmirrorlk | 5,893
 virakesarilk | 7,202
 adaderanasinhalalk | 7,710
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,975 (100.0%) of 44,975 articles have been extended.
+44,976 (100.0%) of 44,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### The results of the election will be unable to announce
+
+*2024-09-20 23:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகளை-அறிவிக்க-முடியாத-நிலை-ஏற்படும்/175-344069) · `ta`
+
+Election results delayed due to violence: RMAL Ratnayake warns. Strict action against parties causing unrest. Polling stations may remain closed until situation stabilizes.
+
+🟩
+
+RMAL Ratnayake, Chairman of the Election Commission, said that if the violence took place during the presidential election, the election results would not be announced.
+
+He said that if there were any violent incidents at the polling station during the presidential election, the voting station would be unable to announce the final election results until the voting of the polling station would be witching and referendum in those constituencies.
+
+He also said that strict action will be taken against any parties that will affect the election.. Remble
+
+◼️
+
+[Data](articles/0e78cfa0.json)
+
+[Extended Data](ext_articles/0e78cfa0.ext.json)
+
+---
 
 ### A driver of drunk duties arrested
 
@@ -2429,27 +2451,5 @@ Compared to the July deal with bondholders, coupons at the highest economic perf
 [Data](articles/8d1e0db2.json)
 
 [Extended Data](ext_articles/8d1e0db2.ext.json)
-
----
-
-### 46 percent of Tissenal patients from West
-
-*2024-09-20 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201216) · `si`
-
-Tuberculosis cases: 46% in West, 2% in Colombo. Smoking and alcohol linked to most cases.
-
-🟩
-
-According to the National Program of Tubisan Disease Control and Child Campaign, 46% of tuberculosis patients reported last year have been reported from the Western Province.
-
-Two percent of the number of tuberculosis in the Health Promotion of Sri Lanka and Bangladesh has been reported from the Colombo Municipal Council.Did.
-
-Specialist Dr. Markage Kader added that most of the reported tuberculosis patients is the cause of smoking and drinking.
-
-◼️
-
-[Data](articles/ad5efed6.json)
-
-[Extended Data](ext_articles/ad5efed6.ext.json)
 
 ---

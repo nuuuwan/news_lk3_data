@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 23:38:51**
+As of **2024-09-20 23:58:00**
 
 ## Newspaper Stats
 
-*Scraped **44,971** Articles*
+*Scraped **44,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 378
 bbccomsinhala | 438
 colombotelegraphcom | 450
 islandlk | 2,645
-economynextcom | 2,724
+economynextcom | 2,728
 dailyftlk | 2,999
 adalk | 4,157
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,971 (100.0%) of 44,971 articles have been extended.
+44,975 (100.0%) of 44,975 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -392,6 +392,26 @@ Prabe Jayasuriya took 4 wickets for Sri Lanka and Ramesh Mendis took 3 wickets.
 
 ---
 
+### Sri Lanka calls bids to develop Mannar North pier on BOT basis
+
+*2024-09-20 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-calls-bids-to-develop-mannar-north-pier-on-bot-basis-180218/) · `en`
+
+ECONOMYNEXT – State-owned Sri Lanka Ports Authority (SLPA) has called for a prequalified expression of interest to develop Talaimannar- North Pier at the island nation’s North Western Port of Mannar on build, operate and transfer (BOT) basis.
+
+The new move comes as India’s Adani Group’s plan to build two wind power projects of 250 MW in Mannar and 234 MW in the Northern Pooneryn area. The proposed project site in Mannar spans across 250 acres of an environmentally sensitive location amid legal challenges to the project.
+
+The SLPA has planned to develop the Port of Mannar as a regional port mainly focusing on passenger and cargo handling activities. Already, a passenger ferry is on service between Sri Lanka’s North and South India.
+
+In November last year, the Sri Lanka government declared the Mannar port to be brought under the purview of the Sri Lanka Ports Authority Act with an aim to facilitate the launch of a new passenger and cargo ferry service between Mannar and India.
+
+...
+
+[Data](articles/e5f57a28.json)
+
+[Extended Data](ext_articles/e5f57a28.ext.json)
+
+---
+
 ### Accident in Mannar big bridge;One injury
 
 *2024-09-20 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194200) · `ta`
@@ -431,6 +451,54 @@ The Moneragala Police are conducting further investigations into the accident.
 [Data](articles/74ff725a.json)
 
 [Extended Data](ext_articles/74ff725a.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 305.25/306.00, bond yields steady
+
+*2024-09-20 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-305-25-306-00-bond-yields-steady-180224/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 305.25/306.00 to the US dollar on Friday, from 304.50/80 on Thursday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 01.05.2027 closed at 12.90/13.10 percent, down from 13.00/10 percent.
+
+A bond maturing on 15.02.2028 closed at 13.60/70 percent, down from 13.65/80 percent.
+
+A bond maturing on 15.06.2029 closed at 13.85/95 percent, up from 13.82/90 percent. (Colombo/Sep20/2024)
+
+◼️
+
+[Data](articles/8c1f5850.json)
+
+[Extended Data](ext_articles/8c1f5850.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banks gain after ISB deal
+
+*2024-09-20 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-gain-after-isb-deal-180211/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.75 percent, or 81.94 points, at 10,966; while the more liquid S&P SL20 Index closed up 1.32 percent, or 40.44 points, at 3,102.
+
+“Today was all about the ISB deal; banking sector counters were up. That’s what mostly drove the market yesterday and today,” Softlogic Stockbrokers said.
+
+Sri Lanka reached a deal with foreign bond holders and local banks to restructure defaulted sovereign bonds.
+
+Sri Lanka local banks to get 10-pct haircut on 70-pct of ISBs, balance in rupees
+
+“It was a good end to the week which saw back to back positive days.”
+
+Local banks would be able to exchange 70 percent of their ISBs into dollar bonds with a 10 percent haircut.
+
+The balance 30 percent would be exchanged for rupee securities.
+
+...
+
+[Data](articles/4433d85a.json)
+
+[Extended Data](ext_articles/4433d85a.ext.json)
 
 ---
 
@@ -575,6 +643,32 @@ Party leader Mahinda Rajapaksa has granted permission to suspend Abeygunawardena
 [Data](articles/00102376.json)
 
 [Extended Data](ext_articles/00102376.ext.json)
+
+---
+
+### Sri Lanka ballots voted ‘X’ and a number will be rejected: Elections Commission
+
+*2024-09-20 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-ballots-voted-x-and-a-number-will-be-rejected-elections-commission-180202/) · `en`
+
+ECONOMYNEXT – Voters who mark an ‘X’ in front of a candidate cannot vote a second preference, Elections Commission Chairman R M A L Rathnayake said.
+
+“A ballot paper of a person marked ‘X’ and then also place number 2 or 3 will be rejected,” he said.
+
+Electors have to mark numbers 1 and 2 or 3 to show their preference.
+
+A ballot paper with X and a number 1 or 2 or 3 will be rejected.
+
+A ballot paper with number ‘1’ or ‘X’ marked for two or more candidates will be rejected.
+
+If number 2 and 3 only is marked and number ‘1’s is not marked.
+
+Sri Lanka voters who do not have a polling card for whatever reason can vote as long as they know the polling station they are registered and they can prove their identity. (Colombo/Aug20/2024)
+
+◼️
+
+[Data](articles/d73a5fd4.json)
+
+[Extended Data](ext_articles/d73a5fd4.ext.json)
 
 ---
 
@@ -2357,89 +2451,5 @@ Specialist Dr. Markage Kader added that most of the reported tuberculosis patien
 [Data](articles/ad5efed6.json)
 
 [Extended Data](ext_articles/ad5efed6.ext.json)
-
----
-
-### Suspect arrested from Dubai arrested
-
-*2024-09-20 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201215) · `si`
-
-Dubai suspect arrested at Katunayake airport for cash fraud scam targeting private company for 108 lakhs. 32-year-old Kandy resident under investigation.
-
-🟩
-
-A suspect for investigation has been arrested from Dubai to the Katunayake airport premises.
-
-The CID said that a suspect involved in a cash fraud was arrested.
-
-The suspect has been accused of cheating over Rs. 108 lakhs from a private company.
-
-The suspect is a 32 year old resident of Kandy.
-
-◼️
-
-[Data](articles/633ed662.json)
-
-[Extended Data](ext_articles/633ed662.ext.json)
-
----
-
-### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
-
-*2024-09-20 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
-
-400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
-
-🟩
-
-District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
-
-◼️
-
-[Data](articles/0f8b9cc1.json)
-
-[Extended Data](ext_articles/0f8b9cc1.ext.json)
-
----
-
-### Weather today
-
-*2024-09-20 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201214) · `si`
-
-Kalutara, Galle, Matara: Showers expected. North Western, Gampaha, Kandy, Nuwara Eliya: Light showers. East, Uva: Scattered thundershowers. Central Highlands: Occasional rain. Strong winds (40-45 mph). Public advised to prepare for potential damage from wind and lightning.
-
-🟩
-
-Showers will occur at times in Kalutara, Galle and Matara districts today (20), the Met Department said.
-
-Showers will occur in the North Western, Gampaha, Kandy, Kandy and Nuwara Eliya districts.
-
-Showers or thundershowers will occur at several places in the East and Uva provinces.
-
-From time to time in the Western balconies of the Central Mountains and in times of North-middle and Southern provinces.. There are about 40-45th strong winds.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/459f4d65.json)
-
-[Extended Data](ext_articles/459f4d65.ext.json)
-
----
-
-### Miami Ad School Sri Lanka celebrates Class of 2023
-
-*2024-09-20 05:59:25* · [`dailyftlk`](https://www.ft.lk/business/Miami-Ad-School-Sri-Lanka-celebrates-Class-of-2023/34-766928) · `en`
-
-Continuing its mission to make global changemakers through creativity, Miami Ad School (M.AD) Sri Lanka recently celebrated its latest batch of graduates at an elegant ceremony at Cinnamon Lakeside.
-
-The event celebrated the M.AD Class of 2023 from its different programs such as the 12-week Bootcamp programs in Strategy and Social Media, and the certificate programs including Brand Manager, Content Creator, Creative Director, and AI for Brands and Creativity programs. The graduating class, composed of both local and international students from various creative fields and cultural backgrounds, reflected the diversity and vibrancy of the school.
-
-...
-
-[Data](articles/0254dffc.json)
-
-[Extended Data](ext_articles/0254dffc.ext.json)
 
 ---

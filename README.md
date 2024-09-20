@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 03:57:00**
+As of **2024-09-21 04:10:45**
 
 ## Newspaper Stats
 
-*Scraped **45,007** Articles*
+*Scraped **45,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,286
 tamilmirrorlk | 5,894
-virakesarilk | 7,208
+virakesarilk | 7,209
 adaderanasinhalalk | 7,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,007 (100.0%) of 45,007 articles have been extended.
+45,008 (100.0%) of 45,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Driver arrested for alleged election work
+
+*2024-09-21 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194223) · `ta`
+
+Van driver arrested for transporting election workers. Police seized ballot boxes and staff. Alternative transport arranged for polling day.
+
+🟩
+
+A van driver has been arrested by police for taking employees to the polling station in Teraniyagala.
+
+A van driver has been arrested by police on Friday (20) during his duty to take polling, ballot boxes and employees to the polling station in Teraniyagala for the presidential election.
+
+Accordingly, the authorities have taken steps to take the ballot, ballot boxes and employees in a different vehicle.
+
+◼️
+
+[Data](articles/1383ea75.json)
+
+[Extended Data](ext_articles/1383ea75.ext.json)
+
+---
 
 ### Security measures have been strengthened;Provide collaboration to the rules of order -request to the public
 
@@ -2315,31 +2337,5 @@ Family, Prabha Jayasuriya, took 4 wickets for 136 runs.
 [Data](articles/b49b968f.json)
 
 [Extended Data](ext_articles/b49b968f.ext.json)
-
----
-
-### Political leadership should respect the decisions of the people - Karujayasuriya plea before the election
-
-*2024-09-20 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194162) · `ta`
-
-Karujayasuriya urges political leaders to respect voters' choices ahead of Sri Lanka's election. He emphasizes the importance of adhering to democratic norms and avoiding post-election violence, drawing parallels with other nations. The former Speaker calls for reforming Sri Lanka's electoral system to reduce presidential powers.
-
-🟩
-
-Former Speaker and President of the National Movement for Social Justice Karujayasuriya have appealed to the presidential candidates and leaders of the political party to express their responsible political leadership to respect the people's decisions.
-
-As we are approaching the most important election, all the people of Sri Lanka have the opportunity to elect their president for the next five years.
-
-In this context, the party's leaders are more responsible than the presidential candidates, and their most important duty is to respect the decisions of the people.
-
-Respecting the decisions of the people, not only to respect the laws of the country and the basic principles of social justice, but also to adopt basic moral civilized standards.
-
-We would like to point out the dedication that Sri Lanka's electoral community has recently expressed in the creation of a peaceful electoral culture without peaceful violence.
-
-...
-
-[Data](articles/30e4ec9b.json)
-
-[Extended Data](ext_articles/30e4ec9b.ext.json)
 
 ---

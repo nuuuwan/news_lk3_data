@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 20:43:04**
+As of **2024-09-20 20:22:51**
 
 ## Newspaper Stats
 
-*Scraped **44,961** Articles*
+*Scraped **44,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,60 +19,18 @@ adalk | 4,155
 dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,890
-virakesarilk | 7,199
-adaderanasinhalalk | 7,707
+virakesarilk | 7,198
+adaderanasinhalalk | 7,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,960 (100.0%) of 44,961 articles have been extended.
+44,959 (100.0%) of 44,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
-
-### විදෙස් ණය ප්‍රතිව්‍යූහගතකරණය රට ලැබූ ජයග්‍රහණයක් බව ආර්ථික විශේෂඥයන් පවසයි
-
-*2024-09-20 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201245) · `si`
-
-ශ්‍රී ලංකාව ජාත්‍යන්තර වාණිජ ණය හිමියන් සමඟ අමෙරිකානු ඩොලර් බිලියන 17කට අධික ණය ප්‍රතිව්‍යුහගතකරණ සඳහා ගිවිසුම්වලට එළැඹීම පෙරළිකාර ජයග්‍රහණයක් බව ආර්ථික විශ්ලේෂකයන් පෙන්වා දී තිබේ.
-
-ශ්‍රී ලංකාව 2022 වසර මුල් භාගයේදී දරුණු ආර්ථික අර්බුදයකට මුහුණ දුන් අතර එහි ප්‍රතිඵලයක් ලෙස එම වසරේ අප්‍රේල් 12 වැනිදා ශ්‍රී ලංකා මහ බැංකු අධිපතිවරයා හා මුදල් අමාත්‍යාංශ ලේකම්වරයා මෙරට ණය ආපසු ගෙවිය නොහැකි බව නිල වශයෙන් නිවේදනය කළේය.
-
-ඒ සමඟ ශ්‍රී ලංකාව ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වැඩපිළිවෙළකට ඇතුළත් වූ අතර අමෙරිකානු ඩොලර් බිලියන 37ක පමණ විදෙස් ණය  ප්‍රතිව්‍යුහගතකරණය කෙරෙහි අවධානය යොමු විය.
-
-ඒ අනුව ජාත්‍යන්තර මූල්‍ය අරමුදලේ වැඩසටහන අනුව යමින් පළමුව අවසන් කෙරුණේ දේශීය ණය ප්‍රතිව්‍යුහගතකරණයයි.
-
-අනතුරුව ඉන්දියාව මෙන්ම ප්‍රංශය ඇතුළත් පැරිස් සමාජය සහ චීනය සමග ණය ප්‍රතිව්‍යුහගතකරණ සාකච්ඡා වෙන්වෙන් වශයෙන් පැවති අතර ද්විපාර්ශ්වික ණය හිමියන් සමඟ පැවති සාකච්ඡා ඵලදායි අවසානයකට රැගෙන යමින් පැරිස් සමාජය සමඟ ජුලි මසදී ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුම්වලට එළඹීමට ශ්‍රී ලංකාවට හැකිවිය.
-
-...
-
-[Data](articles/ab83366d.json)
-
----
-
-### Vote for the appropriate candidate and calm down the houses;Do not engage in violence- the 'Sarvodayam' organization demands people
-
-*2024-09-20 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194213) · `ta`
-
-Sarvodayam urges calm voting: "Cast ballots peacefully, avoid violence. Follow Election Commission rules. Choose wisely based on policies, not emotions."
-
-🟩
-
-All the nations must remain in the political policies they believe on Saturday (21) and vote for the appropriate candidate and remain silent in their homes. The 'Sarvodayam' organization has urged the people to abstain from engaging in violent incidents associated with the election.
-
-In a statement issued by the 'Sarvodayam' organization, the ninth presidential election is scheduled for Saturday (21).
-
-Sri Lanka's ninth presidential election will be held on Saturday (21). The presidential election is being held in the context of many of our country's unprecedented challenges. Over the past few years, we are in the face of the most economic crisis and are still unable to find a steady way to recover from it.
-
-...
-
-[Data](articles/fb3d7b91.json)
-
-[Extended Data](ext_articles/fb3d7b91.ext.json)
-
----
 
 ### Several scholarship question paper and three Whatapps work
 
@@ -2359,5 +2317,39 @@ It is indeed an irony that there is so much of enthusiasm over the election of t
 [Data](articles/26d3e9db.json)
 
 [Extended Data](ext_articles/26d3e9db.ext.json)
+
+---
+
+### Election 2024: the real winner is the consumer
+
+*2024-09-20 05:24:33* · [`dailyftlk`](https://www.ft.lk/columns/Election-2024-the-real-winner-is-the-consumer/4-766918) · `en`
+
+The top 4 brands were hit on the reality of the consumer at elections 2024
+
+The last three months has been one of the most interesting times that has really intrigued me. The reason being that I saw the ‘fundamentals of marketing’ in reality. The top four brands – Anura, Sajith, Ranil and Namal launched their campaign with a typical product related/ideological communication campaign and they faced reality where people’s attention could not be elucidated, people complained about coming for meetings, the TV channels captured the disconnect. In my view this was the first time a product owner and consumer (voter) met face to face after the economic collapse.
+
+...
+
+[Data](articles/37132b3f.json)
+
+[Extended Data](ext_articles/37132b3f.ext.json)
+
+---
+
+### Canton Fair organisers visit EDB to scale up trade relationship between China and Sri Lanka
+
+*2024-09-20 05:17:54* · [`dailyftlk`](https://www.ft.lk/business/Canton-Fair-organisers-visit-EDB-to-scale-up-trade-relationship-between-China-and-Sri-Lanka/34-766916) · `en`
+
+A delegation from the Canton Fair Operations Department of China visited the Sri Lanka Export Development Board (EDB) on 30 August 2024 to scale up trade relations between the two countries by participating in trade promotional events such as Canton Fair 2024.
+
+China was the 10th largest export destination for Sri Lanka in 2023. The total export value from Sri Lanka to China was $ 258 million in 2023, while total imports from China to Sri Lanka during the same period amounted to $ 3,090 million. China has emerged as one of the key trading partners for Sri Lanka in recent past.
+
+Realising the existing potential in the Chinese market, a number of trade promotional activities are being organised by the EDB in China, aiming to invite Chinese importers and investors to explore business opportunities in Sri Lanka.
+
+...
+
+[Data](articles/e4ef9270.json)
+
+[Extended Data](ext_articles/e4ef9270.ext.json)
 
 ---

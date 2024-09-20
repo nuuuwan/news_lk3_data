@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 08:57:35**
+As of **2024-09-20 09:10:29**
 
 ## Newspaper Stats
 
-*Scraped **44,874** Articles*
+*Scraped **44,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,718
 dailyftlk | 2,998
 adalk | 4,146
 dailymirrorlk | 4,733
-adaderanalk | 5,269
+adaderanalk | 5,270
 tamilmirrorlk | 5,875
 virakesarilk | 7,180
 adaderanasinhalalk | 7,686
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,686
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,870 (100.0%) of 44,874 articles have been extended.
+44,875 (100.0%) of 44,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Nine govt officials removed from election duties
+
+*2024-09-20 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102090/nine-govt-officials-removed-from-election-duties) · `en`
+
+District Returning Officer M. P. Sumanasekara stated that nine government officials from the Hambantota District have been removed from their respective election duties after being found guilty of promoting presidential candidates.
+
+The Hambantota District Election Dispute Resolution Center had received complaints regarding 19 government officials, including nine principals, a deputy principal, four teachers, a public health inspector, a ‘Samurdhi’ manager, and three doctors, for allegedly engaging in promotion of candidates.
+
+Following investigations, nine of the 19 officials were relieved of their election duties.
+
+When inquired by Ada Derana, District Returning Officer Sumanasekara stated that the vacancies created by their removal have already been filled.
+
+◼️
+
+[Data](articles/565a2126.json)
+
+[Extended Data](ext_articles/565a2126.ext.json)
+
+---
 
 ### Mirai Consulting of Japan visit Sri Lanka to scout investment opportunities
 
@@ -50,6 +70,8 @@ The visit is expected to strengthen the bilateral relationship between Sri Lanka
 
 [Data](articles/fe6ce5d7.json)
 
+[Extended Data](ext_articles/fe6ce5d7.ext.json)
+
 ---
 
 ### 45-year-old injured in shooting in Dehiwala
@@ -65,6 +87,8 @@ The shooting had occurred in front of a residence, with the victim being the int
 ◼️
 
 [Data](articles/77536459.json)
+
+[Extended Data](ext_articles/77536459.ext.json)
 
 ---
 
@@ -203,6 +227,8 @@ Compared to the July deal with bondholders, coupons at the highest economic perf
 ...
 
 [Data](articles/8d1e0db2.json)
+
+[Extended Data](ext_articles/8d1e0db2.ext.json)
 
 ---
 
@@ -2297,27 +2323,5 @@ He was speaking at a press conference held in the Government Information Departm
 [Data](articles/6d3049db.json)
 
 [Extended Data](ext_articles/6d3049db.ext.json)
-
----
-
-### Two persons arrested with heroin drugs in two different parts of Colombo
-
-*2024-09-19 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194094) · `ta`
-
-Colombo: Two arrests made in separate areas. Heroin seized in Grandpass and Kalkissa divisions. Total amount: 1 kg.
-
-🟩
-
-Two suspects have been arrested with heroin drugs in two different parts of Colombo on Wednesday (18).
-
-Accordingly, a suspect has been arrested with 10 grams of 720 kilograms of heroin in the Pababulla road in the Colombo -Grandpass police division.
-
-Meanwhile, a suspect has been arrested with 10 grams of 300 kilograms of heroin in the Badovitta area of ​​the Kalkissa police division.
-
-◼️
-
-[Data](articles/7e34379a.json)
-
-[Extended Data](ext_articles/7e34379a.ext.json)
 
 ---

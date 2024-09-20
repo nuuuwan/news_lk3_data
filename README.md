@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 21:38:24**
+As of **2024-09-20 21:57:53**
 
 ## Newspaper Stats
 
-*Scraped **44,964** Articles*
+*Scraped **44,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 2,999
 adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,280
-tamilmirrorlk | 5,890
+tamilmirrorlk | 5,892
 virakesarilk | 7,199
 adaderanasinhalalk | 7,708
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 7,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,964 (100.0%) of 44,964 articles have been extended.
+44,966 (100.0%) of 44,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### In the hands of the people of the country in the country
+
+*2024-09-20 21:36:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-அமைதி-மக்களின்-கைகளில்/175-344068) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Police spokesperson Nihal Dalduwa: Citizens' support crucial for peaceful elections. Low election violence. 63,000 police, 11,000 armed forces, 3,000 special task force, 13,000 civil defense deployed. 241 rebel groups identified.
+
+🟩
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa today said that if all citizens support independent and fair elections, there will be a peaceful situation in the country over the next few days.
+
+During this election, he said that election violence was very low.
+
+Meanwhile, Nihal Taldua said that 63,000 police officers have been deployed to protect the polling stations and that there are 241 rebellious groups.
+
+He added that 11,000 officers from the Armed Forces have been prepared and they can call them in the event of any need.
+
+He said that about 3,000 officers of the Police Special Task Force were deployed in the election duties, while the Civil Defense Force would be carrying out the support of about 13,000 officers of the Civil Defense Force.. Remble
+
+◼️
+
+[Data](articles/dd33a294.json)
+
+[Extended Data](ext_articles/dd33a294.ext.json)
+
+---
+
+### 3 people stunning work suspension
+
+*2024-09-20 21:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-பேர்-அதிரடியாக-பணி-இடைநீக்கம்/175-344067) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Headmaster, superintendent, and teacher suspended over exam irregularities at Anuradhapura Ratmalai Tissa College. Director of Education recommends suspension. Secretary of Education suggests re-conducting Grade 5 Scholarship Examination if question papers released. Answer sheets suspended pending final decision.
+
+🟩
+
+It is reported that a headmaster, superintendent and a teacher who served at the Anuradhapura Ratmalai Tissa College Examination at the Anuradhapura Tissa College Examination has been recommended to suspend the job.
+
+The recommendations have been made in a statement issued by the Director of Education in charge of the North Central Provincial Examinations and has been sent to the Provincial Education Secretary to recognize the implementation of the Provincial Director of Education.
+
+Meanwhile, Secretary of Education Tilaka Jayasundara said that if the question papers of the Grade 5 Scholarship Examination have been released, there are opportunities to re -conduct the exam.
+
+He said that the answer sheet has been suspended until the final resolution is followed.. Remble
+
+◼️
+
+[Data](articles/a871e5d9.json)
+
+[Extended Data](ext_articles/a871e5d9.ext.json)
+
+---
 
 ### At work of police sticks
 
@@ -2349,43 +2407,5 @@ However, in this article, we wish to focus on how the presence of more than two 
 [Data](articles/77a4e892.json)
 
 [Extended Data](ext_articles/77a4e892.ext.json)
-
----
-
-### Lawyers’ Collective issues statement on voting method at Presidential election
-
-*2024-09-20 05:42:56* · [`dailyftlk`](https://www.ft.lk/opinion/Lawyers-Collective-issues-statement-on-voting-method-at-Presidential-election/14-766923) · `en`
-
-Following is statement from Lawyers’ Collective on the manner of voting at the Presidential election
-
-The Lawyers’ Collective reiterates its call on voters to exercise their vote to strengthen democratic governance, the rule of law, and the independence of the judiciary.
-
-The Lawyers’ Collective draws the attention of voters to the following:
-
-All voters have a right to cast their vote for the particular candidate of their choice as President. Voters may mark “X” or “1” against the name of their choice. If a voter marks “X”, no second or third preferences can be marked.
-
-All voters also have a right to cast their second and third preferences for two other candidates of their choice. If voters choose to mark second and/or third preferences. Second and/or third preference may be marked by marking “2” or “3” against the names of those other candidates.
-
-...
-
-[Data](articles/092da673.json)
-
-[Extended Data](ext_articles/092da673.ext.json)
-
----
-
-### Get set for more important parliamentary elections
-
-*2024-09-20 05:41:32* · [`dailyftlk`](https://www.ft.lk/columns/Get-set-for-more-important-parliamentary-elections/4-766922) · `en`
-
-Whatever the results and whoever sits on the presidential chair on Sunday 22 September, future of Sri Lanka would not be favourably decided until a new parliament is elected – Pic by Shehan Gunasekara
-
-Now the countdown to the three-cornered presidential tussle is on days, not weeks. Perhaps in another three or four days, Presidential elections will be held on 21 September. That final result will be decided by the majority rural vote, seldom heard in major urban circles.
-
-...
-
-[Data](articles/d6665bc7.json)
-
-[Extended Data](ext_articles/d6665bc7.ext.json)
 
 ---

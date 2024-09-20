@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 09:57:34**
+As of **2024-09-20 10:10:39**
 
 ## Newspaper Stats
 
-*Scraped **44,881** Articles*
+*Scraped **44,884** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 436
-colombotelegraphcom | 447
+colombotelegraphcom | 450
 islandlk | 2,645
 economynextcom | 2,718
 dailyftlk | 2,998
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,687
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,881 (100.0%) of 44,881 articles have been extended.
+44,884 (100.0%) of 44,884 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -142,15 +142,15 @@ The shooting had occurred in front of a residence, with the victim being the int
 
 UPDATE: The 45-year-old man who was shot by an unidentified gunman at Kadawatha Road in Dehiwala, has succumbed to his injuries after being admitted to the Kalubowila Hospital.
 
-A 45-year-old man has been shot and injured by an unidentified gunman at Kadawatha Road in Dehiwala.
-
-The victim has been admitted to the Kalubowila Hospital for treatment, according to police.
-
 The shooting had occurred at around 6.40 a.m. this morning (20) in front of a residence in the Kalubowila area of the Dehiwala Police Division.
 
 The gunmen had reportedly fired two shots at the target which had hit him near the right shoulder, before fleeing the scene. The victim later succumbed to the injuries while receiving treatment at the Kalubowila Hospital.
 
 It has been reported that the shooting may have been the result of a conflict between drug dealers.
+
+A 45-year-old man has been shot and injured by an unidentified gunman at Kadawatha Road in Dehiwala.
+
+The victim has been admitted to the Kalubowila Hospital for treatment, according to police.
 
 ◼️
 
@@ -725,6 +725,48 @@ Additionally, President Wickremesinghe directed security agency heads to take al
 [Data](articles/613c5f67.json)
 
 [Extended Data](ext_articles/613c5f67.ext.json)
+
+---
+
+### Espionage & Survival: A Book Review Of ‘Spy Tiger: The 05 File’
+
+*2024-09-20 04:10:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/espionage-survival-a-book-review-of-spy-tiger-the-05-file/) · `en`
+
+Spy Tiger: The 05 File, co-written by Kagusthan Ariaratnam and Michael Bramadat-Willcock, offers an intense and eye-opening narrative of Kagusthan’s journey, initially as a forcibly recruited child soldier and later as an informant for the Indian and Sri Lankan governments, throughout the Sri Lankan civil war, one of the most complex and brutal civil wars in recent history. The reader is plunged into the psychological and moral labyrinth of loyalty, betrayal, and survival through his first-person account.
+
+...
+
+[Data](articles/f8ddfd7e.json)
+
+[Extended Data](ext_articles/f8ddfd7e.ext.json)
+
+---
+
+### Biodiversity
+
+*2024-09-20 04:03:02* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/biodiversity/) · `en`
+
+The word biodiversity is gaining both interest and currency worldwide as a result of the Convention on Biological Diversity (CBD), an internationally binding set of agreements ratified by most nations on this planet. The articles of the CBD are legally binding and used today to address many aspects of nature and the role that biodiversity plays in natural processes. Thus it is critical to appreciate the true nature of biodiversity and what role it has in our future.
+
+...
+
+[Data](articles/414d91ca.json)
+
+[Extended Data](ext_articles/414d91ca.ext.json)
+
+---
+
+### Why A Trump 2.0 Could Benefit China?
+
+*2024-09-20 03:53:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-a-trump-2-0-could-benefit-china/) · `en`
+
+As the 2024 U.S. presidential election approaches, the prospect of Donald Trump’s comeback to the White House has sparked considerable debate across the political spectrum both domestically and internationally. While many analysts think China fears his potential second term, there are compelling reasons to believe that the 45th president’s return to the Oval Office could significantly benefit China. From his ambiguous stance on defending Taiwan to his history of straining transatlantic relations, which could weaken Europe’s unity and NATO’s resolve, Trump’s policies may inadvertently provide strategic opportunities for Beijing. The former Apprentice host’s return, combined with his domestic controversies might shift the global balance of power and provide China with a stronger foothold to establish a “new world order” on the world stage. This analysis explores why a Trump presidency could be advantageous for China, and what that means for international relations.
+
+...
+
+[Data](articles/c1a71946.json)
+
+[Extended Data](ext_articles/c1a71946.ext.json)
 
 ---
 
@@ -2245,77 +2287,5 @@ A bond maturing on 15.06.2029 closed at 13.82/90 percent, up from 13.80/90 perce
 [Data](articles/324efda7.json)
 
 [Extended Data](ext_articles/324efda7.ext.json)
-
----
-
-### 11 election complaints so far in Ampara district;Posters have not yet been removed - February
-
-*2024-09-19 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194113) · `ta`
-
-Ampara district: 11 election complaints filed; posters still up. Election monitoring organization reports issues across 4 constituencies. Campaign meetings extended beyond deadline. Fewer complaints compared to previous presidential election. Only authorized personnel allowed near polling booths.
-
-🟩
-
-Kandaya Sathyanathan, District Coordinator of the Election Monitoring Organization, said that 11 election complaints have been received so far in the Ampara district and the posters have not yet been removed.
-
-He was speaking at a press conference held at the Bevasup Media Station in Batticaloa on Thursday (19).
-
-Two complaints in Samanthurai constituency in Ampara district, 3 complaints in Kalmunai constituency, 3 complaints in Pottuvil constituency and 11 complaints from Ampara constituency.
-
-115 polling stations in the district will be monitored in 4 vehicles in 4 constituencies and 4 vehicles per election constituency.
-
-At the polling station, 10 monitors will remain under the voting from the concert to the point of view.
-
-At the same time, if the need to count a second preferential vote, the monitors will stay for 15 hours and work on surveillance.
-
-...
-
-[Data](articles/2b6dfed1.json)
-
-[Extended Data](ext_articles/2b6dfed1.ext.json)
-
----
-
-### National Security Council meets
-
-*2024-09-19 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201205) · `si`
-
-National Security Council meeting: President Wickremesinghe chairs discussion on election security measures. Focus on protecting candidates and maintaining public order during polls. Heads of security advised to safeguard citizens' daily lives after elections.
-
-🟩
-
-The National Security Council met today (19) a special discussion on the provision of the security forms of the presidential election independent and independent electorate.
-
-The presidential office was presided over by President Ranil Wickremesinghe this morning.
-
-At the election day, the election has been paid to providing necessary support to the Election Commission to ensure the safety of the candidates, ensuring the safety of the candidates, ensuring the safety of the candidates, and enrolling security.
-
-President Ranil Wickremesinghe has also advised the heads of security for security forces to protect the daily lives of the people in the post election.
-
-◼️
-
-[Data](articles/f0fd4069.json)
-
-[Extended Data](ext_articles/f0fd4069.ext.json)
-
----
-
-### President chairs National Security Council meeting ahead of polls
-
-*2024-09-19 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102082/president-chairs-national-security-council-meeting-ahead-of-polls-) · `en`
-
-The National Security Council of Sri Lanka has met and discussed ensuring security for the 2024 presidential election and maintaining law and order during the post-election period.
-
-The National Security Council, chaired by President Ranil Wickremesinghe, met today (19) at the Presidential Secretariat in Colombo.
-
-They discussed ensuring security for the 2024 presidential election, supporting the Election Commission, securing candidates and polling stations and maintaining law and order post-election without disrupting daily life, the President’s Media Division said.
-
-President Wickremesinghe has also instructed the heads of the security agencies to take all necessary steps to maintain law and order in the country without disrupting the daily lives of the people during the post-election period, the PMD said.
-
-◼️
-
-[Data](articles/b1cfa6e7.json)
-
-[Extended Data](ext_articles/b1cfa6e7.ext.json)
 
 ---

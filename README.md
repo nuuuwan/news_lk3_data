@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 12:39:05**
+As of **2024-09-20 12:57:00**
 
 ## Newspaper Stats
 
-*Scraped **44,900** Articles*
+*Scraped **44,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 4,151
 dailymirrorlk | 4,733
 adaderanalk | 5,275
 tamilmirrorlk | 5,878
-virakesarilk | 7,182
+virakesarilk | 7,186
 adaderanasinhalalk | 7,692
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,900 (100.0%) of 44,900 articles have been extended.
+44,904 (100.0%) of 44,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Negotiations with private bail owners - President
+
+*2024-09-20 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194178) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+President Ranil Wickremesinghe announces completion of negotiations with private bail owners. Country to exit bankruptcy soon. Focus on export-based economy and agricultural modernization. Sri Lanka Youth Entrepreneurship Council gains G20 membership, launches projects with IIT Chennai and KPMG/PMI.
+
+🟩
+
+President Ranil Wickremesinghe said the negotiations with private bail owners have been completed and all negotiations on the release of the country have been successfully completed and that the country will be implemented soon with the official recognition of the country's liberation from the bankruptcy.
+
+The President made this statement at a meeting with the Sri Lanka Youth Entrepreneurship Council (COY) Executive Council held at the Presidential Office on Friday (20).
+
+The President said that it was his expectation that the country would be ahead of the export economy, and that the strategic projects needed for it have already been prepared and the main sect of agricultural modernization.
+
+...
+
+[Data](articles/c05df512.json)
+
+[Extended Data](ext_articles/c05df512.ext.json)
+
+---
 
 ### Will the scholarship reside again?
 
@@ -94,6 +120,32 @@ Family, Prabha Jayasuriya, took 4 wickets for 136 runs.
 
 ---
 
+### Political leadership should respect the decisions of the people - Karujayasuriya plea before the election
+
+*2024-09-20 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194162) · `ta`
+
+Karujayasuriya urges political leaders to respect voters' choices ahead of Sri Lanka's election. He emphasizes the importance of adhering to democratic norms and avoiding post-election violence, drawing parallels with other nations. The former Speaker calls for reforming Sri Lanka's electoral system to reduce presidential powers.
+
+🟩
+
+Former Speaker and President of the National Movement for Social Justice Karujayasuriya have appealed to the presidential candidates and leaders of the political party to express their responsible political leadership to respect the people's decisions.
+
+As we are approaching the most important election, all the people of Sri Lanka have the opportunity to elect their president for the next five years.
+
+In this context, the party's leaders are more responsible than the presidential candidates, and their most important duty is to respect the decisions of the people.
+
+Respecting the decisions of the people, not only to respect the laws of the country and the basic principles of social justice, but also to adopt basic moral civilized standards.
+
+We would like to point out the dedication that Sri Lanka's electoral community has recently expressed in the creation of a peaceful electoral culture without peaceful violence.
+
+...
+
+[Data](articles/30e4ec9b.json)
+
+[Extended Data](ext_articles/30e4ec9b.ext.json)
+
+---
+
 ### Two suspects arrested in connection with Midigama shooting
 
 *2024-09-20 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102093/two-suspects-arrested-in-connection-with-midigama-shooting) · `en`
@@ -115,6 +167,28 @@ One person was killed while two others were injured in the shooting at Midigama 
 [Data](articles/cf434c1f.json)
 
 [Extended Data](ext_articles/cf434c1f.ext.json)
+
+---
+
+### Brother life in Jaffna;Sister also attempted to survive
+
+*2024-09-20 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194165) · `ta`
+
+Jaffna tragedy: Brother killed, sister hospitalized after rescue. Young man from Kodikamam makes fatal mistake. Mother of infant sibling treated at Chavakachcheri Hospital.
+
+🟩
+
+The sister has been rescued by relatives and has been admitted to the hospital for treatment in Jaffna's tragedy.
+
+A young man from Kodikamam area made a wrong decision on Wednesday morning.
+
+The mother of a two -month -old child, the sister of the deceased, has been rescued by relatives and has been admitted to the Chavakachcheri Hospital for treatment.
+
+◼️
+
+[Data](articles/c5038244.json)
+
+[Extended Data](ext_articles/c5038244.ext.json)
 
 ---
 
@@ -165,6 +239,28 @@ Of the 71 lakh voter turnover, will vote in 13,421 polling centers island wide.
 [Data](articles/ad2eeccf.json)
 
 [Extended Data](ext_articles/ad2eeccf.ext.json)
+
+---
+
+### In Jaffna
+
+*2024-09-20 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194160) · `ta`
+
+Jaffna: Woman on bike cuts off motorcyclist. Police arrest couple after jewelry shop theft. Ordered to be interrogated by court.
+
+🟩
+
+On the Sanganai Hospital Road, a woman who was traveling in a bicycle, who was on a motorcycle, cut off the motorcycle and tried to flee.
+
+When the police arrested them and carried out investigations, both husband and wife cut off a chain of a person last week in Chunnakam area.. They have also said that a jewelery shop in the city area has been pawned.
+
+After the investigation, the Mallakam Magistrate's Court has ordered the two men to be interrogated.
+
+◼️
+
+[Data](articles/a94e9802.json)
+
+[Extended Data](ext_articles/a94e9802.ext.json)
 
 ---
 
@@ -1390,11 +1486,11 @@ The awardees included Shiran Punchihewa, Indika Igalawithana, and Janithi Perera
 
 SimCentric Technologies enhances information security standards with ISO 27001:2022 Certification
 
+A knowledge sharing session on Government Securities Market, organized by the National Chamber of Commerce of Sri Lanka
+
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
+...
 
 [Data](articles/de3d0f52.json)
 
@@ -2163,103 +2259,5 @@ Moreover, the impact of regular combinations in ENT, ophthalmology and cardiovas
 [Data](articles/83e1759b.json)
 
 [Extended Data](ext_articles/83e1759b.ext.json)
-
----
-
-### Policy compliance with Sri Lanka's foreign private credit providers
-
-*2024-09-19 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194126) · `ta`
-
-Sri Lanka reaches policy compliance with foreign creditors for $17.5B bailout. Agreement includes 40.3% loan discount and increased credit offers from IMF, Chinese banks, and local consortiums.
-
-🟩
-
-The agreement on Sri Lanka's $ 17.5 billion private business credit restructuring was reached on Thursday (19).
-
-After a discussion between the International Investors (AD HOC Group of Bondaholders - AHGB) and the Local Consortium of Sri Lanka - LCSL, a compliance with private bailouts have been reached. These groups have more than 50% of the country's private bailouts.
-
-According to these compliance, bailouts have agreed to provide a 40.3% discount on the current loan value based on the 11% discount.
-
-In accordance with these compliance, a large amount of credit offer will be available to Sri Lanka than the integrated operations established in July 2024 and will be reduced to interest payments based on the new conditions.
-
-Sri Lanka has reached a policy compliance with the Chinese Development Bank (CDB) on the financial conditions for renovating $ 3.3 billion private loan.
-
-...
-
-[Data](articles/262ffbb5.json)
-
-[Extended Data](ext_articles/262ffbb5.ext.json)
-
----
-
-### A half-hick surplus of Rs
-
-*2024-09-19 19:10:00* · [`adalk`](https://www.ada.lk/breaking_news/වසර-ගණනාවකට-පසු-ටොන්-ලක්ෂ-7-2ක-සහල්-අතිරික්තයක්/11-412035) · `si`
-
-Sri Lanka's rice surplus: 5.8 MT paddy harvested, exceeding 3 million metric tons. Annual requirement: 2.4 million metric tons. Import unnecessary this year, says Minister Mahinda Amaraweera.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera stated that the import of rice is no longer necessary in this year.
-
-The Minister pointed out to 5.8 MT of paddy tonnes of 2.6 million tonnes of 2.6 million tonnes of 2.6 million tonnes of 2.6 million tonnes of Rs.There is. Accordingly, the amount of rice produced is exceeding 3 million metric tons.
-
-According to the Ministry's records, the harvest of paddy has been recorded in other Yala season 1.6 million metric tons or 2 million metric tons.The monthly rice requirement of the country is Rs. 200,000 and the annual rice requirement of about 2.4 million metric tons.
-
-◼️
-
-[Data](articles/95abea42.json)
-
-[Extended Data](ext_articles/95abea42.ext.json)
-
----
-
-### 22 -year -old man killed in accident
-
-*2024-09-19 19:07:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-22-வயது-இளைஞன்-பலி/175-344030) · `ta`
-
-22-year-old man killed in Kilinochchi accident near Pannangandi Bridge. Tipper vehicle collided with youth. Driver arrested. Police investigating.
-
-🟩
-
-A 22 -year -old youth was killed in an accident in Kilinochchi this morning.
-
-The accident occurred near the Pannangandi Bridge on the road from Kilinochchi to Vattakachi.
-
-Police say he was killed when a tipper vehicle collided with a young man.
-
-Police have arrested a vehicle and driver who caused the accident and Kilinochchi police are conducting further investigations into the incident.
-
-Anthony Alpred - Anushan, a young man from Pannangandi, died in the accident.
-
-◼️
-
-[Data](articles/6f11a586.json)
-
-[Extended Data](ext_articles/6f11a586.ext.json)
-
----
-
-### 4945 complaints regarding the Presidential election
-
-*2024-09-19 19:04:32* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයට-අදාළව-පැමිණිලි-4945ක්/11-412034) · `si`
-
-Elections Commission reports 4945 complaints: 34 about violence, 4804 others. 4304 resolved, 641 pending. 208 new complaints in 24 hours, including 3 each on violations and violence.
-
-🟩
-
-The Elections Commission states that 4945 complaints have been received in connection with the presidential election.
-
-34 complaints have been received about violence and 4804 complaints have been received by another 107 complaints.
-
-These complaints have been received from 31st July to 18. The Commission states that 4304 complaints have been resolved and the matters relating to the resolution of 641 complaints.
-
-208 complaints received at 4.30 pm on Monday (18th) last 24 hours. The 202 complaints have shown that there have been three complaints regarding violations and three other complaints and violence.
-
-◼️
-
-[Data](articles/4380b9f6.json)
-
-[Extended Data](ext_articles/4380b9f6.ext.json)
 
 ---

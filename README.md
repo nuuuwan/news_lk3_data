@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 18:44:36**
+As of **2024-09-20 18:32:55**
 
 ## Newspaper Stats
 
-*Scraped **44,958** Articles*
+*Scraped **44,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,18 @@ adalk | 4,155
 dailymirrorlk | 4,733
 adaderanalk | 5,280
 tamilmirrorlk | 5,890
-virakesarilk | 7,198
+virakesarilk | 7,197
 adaderanasinhalalk | 7,705
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,957 (100.0%) of 44,958 articles have been extended.
+44,957 (100.0%) of 44,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
-
-### இலங்கை தொடர்பான தீர்மானத்தை வாக்கெடுப்புடனோ, வாக்கெடுப்பின்றியோ நிறைவேற்றுவது குறித்து ஆராய்வு ; இறுதி வரைபு ஒக்டோபர் முதல் வாரத்தில் சமர்ப்பிக்கப்படும்
-
-*2024-09-20 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194211) · `ta`
-
-இலங்கை தொடர்பில் நிறைவேற்றப்பட்ட 51/1 தீர்மானத்தைக் காலநீடிப்பு செய்யக்கோரி பிரிட்டன் தலைமையிலான இணையனுசரணை நாடுகளால் தயாரிக்கப்பட்டுள்ள வரைபை வாக்கெடுப்புடனோ அல்லது வாக்கெடுப்பின்றியோ நிறைவேற்றுவதற்கான சாத்தியப்பாடுகள் குறித்து நேற்று முன்தினம் ஐ.நா மனித உரிமைகள் பேரவையில் ஆராயப்பட்டுள்ளது.
-
-ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 57 ஆவது கூட்டத்தொடர் கடந்த 9 ஆம் திகதி ஆரம்பமானது. அன்றைய தினம் உலகளாவிய மனித உரிமைகள் நிலைவரம் தொடர்பான ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டர்க்கின் உரை மற்றும் மியன்மார் மனித உரிமைகள் நிலைவரம் தொடர்பான எழுத்துமூல அறிக்கை, அதன்மீதான விவாதம் என்பவற்றைத் தொடர்ந்து இலங்கை விவகாரம் குறித்து ஆராயப்பட்டது.
-
-...
-
-[Data](articles/a0bf2298.json)
-
----
 
 ### Dimuth and Chandimal strengthens Sri Lankan innings
 
@@ -2333,5 +2319,21 @@ The event held at the Ministry of Investment Promotion brought together prominen
 [Data](articles/9caf1163.json)
 
 [Extended Data](ext_articles/9caf1163.ext.json)
+
+---
+
+### EDB and KPMG Sri Lanka collaborate to create awareness on new EU regulations for ESG
+
+*2024-09-20 05:14:50* · [`dailyftlk`](https://www.ft.lk/business/EDB-and-KPMG-Sri-Lanka-collaborate-to-create-awareness-on-new-EU-regulations-for-ESG/34-766914) · `en`
+
+Export Development Board (EDB) and KPMG Sri Lanka jointly organised a knowledge-sharing session on the new European Union (EU) regulations concerning Environmental, Social, and Governance (ESG) factors on 11 September 2024. The session took place at the auditorium of the Postgraduate Institute of Management (PIM), with around 200 Sri Lankan export companies.
+
+The European Union has introduced regulations that will have a significant impact on the Sri Lankan export sector, particularly as ESG considerations. The event provided a platform to discuss the critical challenges and opportunities that the export industry will encounter as a result of the EU’s new ESG regulations.
+
+...
+
+[Data](articles/06d6e7b0.json)
+
+[Extended Data](ext_articles/06d6e7b0.ext.json)
 
 ---

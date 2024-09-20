@@ -1,36 +1,166 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-20 07:58:52**
+As of **2024-09-20 08:57:35**
 
 ## Newspaper Stats
 
-*Scraped **44,863** Articles*
+*Scraped **44,874** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 435
+bbccomsinhala | 436
 colombotelegraphcom | 447
 islandlk | 2,645
-economynextcom | 2,715
+economynextcom | 2,718
 dailyftlk | 2,998
-adalk | 4,145
+adalk | 4,146
 dailymirrorlk | 4,733
-adaderanalk | 5,267
-tamilmirrorlk | 5,874
+adaderanalk | 5,269
+tamilmirrorlk | 5,875
 virakesarilk | 7,180
-adaderanasinhalalk | 7,683
+adaderanasinhalalk | 7,686
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-44,857 (100.0%) of 44,863 articles have been extended.
+44,870 (100.0%) of 44,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-20 (Friday)
+
+### Mirai Consulting of Japan visit Sri Lanka to scout investment opportunities
+
+*2024-09-20 08:30:00* · [`economynextcom`](https://economynext.com/mirai-consulting-of-japan-visit-sri-lanka-to-scout-investment-opportunities-180099/) · `en`
+
+ECONOMYNEXT – A team from Japan’s Mirai Consulting Group visited Sri Lanka recently to explore potential investment opportunities in various sectors.
+
+The delegation, including Mirai’s COO Okada Atsushi and international business consultant Shaakir Hussain Sathar met with Export Development Board Chairman Kingsley Bernard.
+
+The purpose of the visit was to identify industries that aligned with the investment interests of Japanese companies and to explore the potential for collaboration and partnerships in Sri Lanka, EDB said in a statement.
+
+“During the meeting, the delegation discussed the investment climate in Sri Lanka, explored potential projects and partnerships, and gained insights into the country’s economic landscape.”
+
+The visit is expected to strengthen the bilateral relationship between Sri Lanka and Japan as well as to promote investment and economic cooperation.
+
+...
+
+[Data](articles/fe6ce5d7.json)
+
+---
+
+### 45-year-old injured in shooting in Dehiwala
+
+*2024-09-20 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102089/45-year-old-injured-in-shooting-in-dehiwala) · `en`
+
+A 45-year-old man has been shot and injured by an unidentified gunman at Kadawatha Road in Dehiwala.
+
+The victim has been admitted to the Kalubowila Hospital for treatment, according to police.
+
+The shooting had occurred in front of a residence, with the victim being the intended target.
+
+◼️
+
+[Data](articles/77536459.json)
+
+---
+
+### Colombo shooting
+
+*2024-09-20 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201220) · `si`
+
+Colombo shooting: Police report incident on Kadawatha Road in Dehiwala. A 45-year-old man was shot and hospitalized. The attack occurred in front of his house.
+
+🟩
+
+The police said that the shooting had been reported in the Kadawatha road in Dehiwala.
+
+The shooting has been targeted at a house in front of a house and the 45 year old man was hospitalized.
+
+◼️
+
+[Data](articles/bc4af35c.json)
+
+[Extended Data](ext_articles/bc4af35c.ext.json)
+
+---
+
+### Peliyagoda Manning Market
+
+*2024-09-20 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201219) · `si`
+
+Peliyagoda Manning Market: Heavy traffic causes long queues, affecting fish and vegetable purchases.
+
+🟩
+
+Heavy traffic has occurred at the Peliyagoda Manning Marketplace.
+
+The Ada Derana reporter stated that a long traffic queue is found in a large traffic queue.
+
+The traffic has caused a large number of fish and vegetables to purchase fish and vegetables.
+
+◼️
+
+[Data](articles/eac497ed.json)
+
+[Extended Data](ext_articles/eac497ed.ext.json)
+
+---
+
+### Everything for the election is ready
+
+*2024-09-20 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201218) · `si`
+
+Election preparations underway: 1,204 polling centers set, ballot papers available, mandatory voting enforced.
+
+🟩
+
+District Returning Officials point out that all matters for the presidential election are being prepared.
+
+District Returning Officer Prasanna firewoman said that all the necessary arrangements have been made to vote in 1,204 polling centers in the Colombo district.
+
+Meanwhile, the Grama Niladhari Associations have said that despite the problems with financial allocation, all polling centers are currently being implemented.
+
+All Ceylon United Grama Niladhari Association General Secretary Jagath Chandralal said all the Grama Niladhari had joined the incident.
+
+Meanwhile, the official voter ballot papers can be obtained from the post office in the area where he is now available today and tomorrow.
+
+Mr. Rajitha Ranasinghe said that it was obtained after the identity confirmed.
+
+Meanwhile, the Chairman of the Election Commission. M. L. A. Ratnayake said that the official ballot papers is not optional to vote.
+
+◼️
+
+[Data](articles/08013e16.json)
+
+[Extended Data](ext_articles/08013e16.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-09-20 07:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102088/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Sabaragamuwa province and in Kalutara, Galle and Matara districts.
+
+Several spells of showers will occur in North-western province and in Colombo, Gampaha, Kandy and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva provinces during the evening or night, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in North-central and Southern provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e281e7c6.json)
+
+[Extended Data](ext_articles/e281e7c6.ext.json)
+
+---
 
 ### Nine officials removed from voting duties
 
@@ -53,6 +183,26 @@ The vacant officials have already completed their removal of election duties, th
 [Data](articles/f4990d86.json)
 
 [Extended Data](ext_articles/f4990d86.ext.json)
+
+---
+
+### Sri Lanka says bondholders have made further interest cuts, NPV benefit 33-pct
+
+*2024-09-20 07:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-bondholders-have-made-further-interest-cuts-npv-benefit-33-pct-180114/) · `en`
+
+ECONOMYNEXT – Sri Lanka says bondholders have made further concessions during the latest round of negotiation which will see the present value benefit increasing from 27 percent in a July deal to 33 percent in the September deal, if the economy performs better than expected.
+
+Sri Lanka’s bondholders sought so-called macro-linked bonds where the hair cut will reduce if the economy grows faster than the International Monetary Fund expects in a debt sustainability analysis.
+
+If the economy grows as expected, bond holders will concede 40.3 percent in net present value terms at a discount factor of 11 percent, the Finance Ministry said in a statement.
+
+The July deal with bondholders were deemed by the IMF as not meeting its debt sustainability framework, a statement said.
+
+Compared to the July deal with bondholders, coupons at the highest economic performance level would reduce by roughly 160 basis points and second highest by 60 basis points.
+
+...
+
+[Data](articles/8d1e0db2.json)
 
 ---
 
@@ -99,6 +249,24 @@ The suspect is a 32 year old resident of Kandy.
 [Data](articles/633ed662.json)
 
 [Extended Data](ext_articles/633ed662.ext.json)
+
+---
+
+### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
+
+*2024-09-20 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
+
+400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
+
+🟩
+
+District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
+
+◼️
+
+[Data](articles/0f8b9cc1.json)
+
+[Extended Data](ext_articles/0f8b9cc1.ext.json)
 
 ---
 
@@ -288,6 +456,8 @@ To understand and analyse economic policies is very good. Then, policies of all 
 
 [Data](articles/4407b8d9.json)
 
+[Extended Data](ext_articles/4407b8d9.ext.json)
+
 ---
 
 ### Presidents may come and go but JR’s Executive Presidency goes on forever
@@ -304,6 +474,8 @@ It is indeed an irony that there is so much of enthusiasm over the election of t
 
 [Data](articles/26d3e9db.json)
 
+[Extended Data](ext_articles/26d3e9db.ext.json)
+
 ---
 
 ### Election 2024: the real winner is the consumer
@@ -317,6 +489,8 @@ The last three months has been one of the most interesting times that has really
 ...
 
 [Data](articles/37132b3f.json)
+
+[Extended Data](ext_articles/37132b3f.ext.json)
 
 ---
 
@@ -334,6 +508,8 @@ Realising the existing potential in the Chinese market, a number of trade promot
 
 [Data](articles/e4ef9270.json)
 
+[Extended Data](ext_articles/e4ef9270.ext.json)
+
 ---
 
 ### BOI discusses strategic investments in key sectors to drive economic recovery
@@ -347,6 +523,8 @@ The event held at the Ministry of Investment Promotion brought together prominen
 ...
 
 [Data](articles/9caf1163.json)
+
+[Extended Data](ext_articles/9caf1163.ext.json)
 
 ---
 
@@ -436,6 +614,30 @@ Additionally, President Wickremesinghe directed security agency heads to take al
 
 ---
 
+### Tipper vehicle crashes
+
+*2024-09-20 03:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிப்பர்-வாகனம்-மோதி-இளைஞர்-உயிரிழப்பு/175-344045) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Young man dies in crash near bridge. Police investigating. Victim identified as Alphred Anusan, 22. Incident occurred on Thursday in Vattakachchi area.
+
+🟩
+
+Alphred Anusan (22 years old), a youth from the area, died in an accident on Thursday near the Pannangandi Bridge in Vattakachchi.
+
+Kilinochchi police are conducting further investigations. (A)
+
+◼️
+
+[Data](articles/c83f9b41.json)
+
+[Extended Data](ext_articles/c83f9b41.ext.json)
+
+---
+
 ### Prohibition
 
 *2024-09-20 03:17:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடகங்களில்-வெளியிடத்-தடை/175-344044) · `ta`
@@ -500,24 +702,6 @@ Director K. Bhagyaraj congratulated him, “Baby Lakshana Rishi, a child star st
 
 ---
 
-### 400 policemen - S Muralitharan in the presidential election in Kilinochchi
-
-*2024-09-20 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194142) · `ta`
-
-400 police deployed for Kilinochchi presidential election. 108 polling stations set up. 97,000 voters eligible. All preparations complete.
-
-🟩
-
-District Government Agent S Muralitharan said that 400 policemen have been deployed for security duties in the Kilinochchi district and all arrangements for the election have been completed.He was speaking to the media following a discussion on the instructions for the polling officers at the Kilinochchi District Secretariat today (19-09-2024).Subsequently, one lakh ninety -seven voters in the Kilinochchi district are eligible to vote.108 polling stations and eight polling stations have been arranged in Kilinochchi district.40 buses have been prepared to take voting boxes. In the Kilinochchi district, 400 police have been deployed for the presidential election and all arrangements for the election have been completed, said District Government Agent S Muralitharan.
-
-◼️
-
-[Data](articles/0f8b9cc1.json)
-
-[Extended Data](ext_articles/0f8b9cc1.ext.json)
-
----
-
 ### Prohibition on screening of election results
 
 *2024-09-20 02:36:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகளை-திரையிட-தடை/175-344042) · `ta`
@@ -563,6 +747,44 @@ It was announced that the film will be released worldwide on the 10th of October
 [Data](articles/73aeb4f1.json)
 
 [Extended Data](ext_articles/73aeb4f1.ext.json)
+
+---
+
+### What if a heurricane candidate could not vote over 50%?
+
+*2024-09-20 02:26:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1l53852v46o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka presidential election rules: No candidate must exceed 50% votes. If none do, runoff between top two candidates based on second preferences. Election Commission selects winner via random draw if tied after all preferences counted.
+
+🟩
+
+What if a heurricane candidate could not vote over 50%?
+
+The election to elect the 9th Executive President in Sri Lanka will be held on September 21.
+
+Nearly 17 million people in the country have been eligible to vote for the new President.
+
+The candidate that the vote exceeding 50% of their votes will be named in the preference of votes.
+
+However, if there is no candidate over 50% of the candidates in this presidential election, which will be competed in the presidential election.
+
+Since 1982, eight presidential elections have been held in Sri Lanka.
+
+The country since then the country is JR. The executive president of Jayawardena, Ranasinghe Premadasa, Chandrika Bandaranaike Kumaratunga, Mahinda Rajapaksa, Maithripala Sirisena and Gotabhaya Rajapakse have been governed.
+
+After the arrival of Gotabhaya Rajapaksa, Ranil Wickremesinghe was now the president of the country.
+
+The election from 1982 to 2019, the number of candidates won by the election from 1982 to 2019 to elect an executive president.
+
+...
+
+[Data](articles/2a8aa3a0.json)
+
+[Extended Data](ext_articles/2a8aa3a0.ext.json)
 
 ---
 
@@ -1235,6 +1457,30 @@ William O'Ruq took 5 wickets for 55 runs, Glen Phillips took 2 wickets for 52 ru
 [Data](articles/6298b662.json)
 
 [Extended Data](ext_articles/6298b662.ext.json)
+
+---
+
+### Vote leave all public and private employees
+
+*2024-09-19 19:50:02* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-දෙන්න-සියලුම-රාජ්‍ය-හා-පෞද්ගලික-සේවකයන්ට-නිවාඩු-දෙන්න/11-412041) · `si`
+
+Public and private sector employees entitled to voting leave: Chairman of Commander's Office requests minimum 4-hour leave for public sector workers and half-day leave for private sector workers within 2 km radius of polling stations. Applies to university staff, students, and garment factory workers.
+
+🟩
+
+Chairman of the Commander's Office of All Public and Private Sector employees should be paid leave to vote. M. A. L. Mr. Ratnayake said. Accordingly, public sector employees should be granted leave to leave the polls, including a minimum of four hours, including a minimum of four hours.
+
+A special press conference in the Presidential Election in the 2024 was held today (19th). The Chairman of the Election Commission was speaking at the press conference.
+
+The Chairman of the Commission also said that the leave of private sector employees is required to be given holidays on the distance.. According to a half-kilometer vacation, a half-kilometer vacation, a half-kilometer vacation, a two-kilometer vacation, a two-day holidays, the Chairman said.
+
+If three days to vote for voters in the vicinity of their workplace, three days to vote for voters, the Chairman of the Elections. M. A. L. Mr. Ratnayake said.
+
+...
+
+[Data](articles/c98ed9ae.json)
+
+[Extended Data](ext_articles/c98ed9ae.ext.json)
 
 ---
 
@@ -2073,247 +2319,5 @@ Meanwhile, a suspect has been arrested with 10 grams of 300 kilograms of heroin 
 [Data](articles/7e34379a.json)
 
 [Extended Data](ext_articles/7e34379a.ext.json)
-
----
-
-### Please all vote: we expect to release the results by 22nd - Elections Commission
-
-*2024-09-19 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194109) · `ta`
-
-Elections Commission announces presidential election results by 22nd. Strict actions against election law violators. Official notice to be issued. Media cooperation expected. Public service and private sector holidays cancelled. State university employees and students eligible to vote. Mobile phone usage prohibited at polling stations. Voting hours 7am-4pm. Candidates' names to be displayed 500m from polling centers. Postal votes to be counted on 21st. Security forces ensure free and fair elections.
-
-🟩
-
-All tasks for the presidential election have been completed. Strict action will be taken against those who act against the election law and the general law. Everyone should avoid unnecessary problems during the election period. RMAL Ratnayake, Chairman of the Election Commission, said that he should be careful with his family.
-
-Official Notice will be issued through the Elections Commission. Do not give importance to fake messages. We are looking forward to issuing an official announcement by the 22nd.. The Elections Commission has urged the people of the country to please all.
-
-He was speaking at a special media briefing held at the Government Information Department on Thursday (19).
-
-All work for the presidential election has been completed. Officers appointed for election work must be served.If it does not socialize on duty, it will be considered a crime in accordance with the law.
-
-...
-
-[Data](articles/723fee7b.json)
-
-[Extended Data](ext_articles/723fee7b.ext.json)
-
----
-
-### Lebanon is fearful
-
-*2024-09-19 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201202) · `si`
-
-Lebanon faces crisis: explosions kill dozens, injure thousands. Authorities ban pagers, restrict phone use amid fear and chaos.
-
-🟩
-
-International media reports that 32 days in Lebanon and Vokey Tokoke explosion has been increased to 32 people.
-
-12 killed in page explosion on Tuesday, nearly 3,000 injured.
-
-Also, 20 people were killed and nearly 500 people were killed and 500 deaths were reported yesterday (18th).
-
-Meanwhile, the Authorities have taken steps to ban a pager and Voketokey machinery in the Bebanic Airport of Lebanon.
-
-The people of Lebanon are also afraid to use mobile phones.
-
-◼️
-
-[Data](articles/1e02b3d0.json)
-
-[Extended Data](ext_articles/1e02b3d0.ext.json)
-
----
-
-### Dead body found in coconut land
-
-*2024-09-19 16:01:23* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩි-තබා-ඝාතනය-කළ-තරුණයකුගේ-මළ-සිරුරක්-පොල්-ඉඩමක/11-412026) · `si`
-
-Body found in coconut field: Youth shot dead in Tangalle, police investigating.
-
-🟩
-
-The body of a youth who had been shot dead at around 8 pm yesterday (18) was found in a coconut land in Colombo, Tangalle Police, Tangalle Police said.
-
-According to police, Phan Erandu, a 33 year old cattle, he was a resident of Tangalle, police said.
-
-The police said that his body was found dead in search of his family after the death of the young man
-
-The body was taken to the Tangalle Base Hospital and Tangalle Police are conducting further investigations.
-
-◼️
-
-[Data](articles/cfd8270d.json)
-
-[Extended Data](ext_articles/cfd8270d.ext.json)
-
----
-
-### Sri Lanka local banks to get 10-pct haircut on 70-pct of ISBs, balance in rupees
-
-*2024-09-19 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-local-banks-to-get-10-pct-haircut-on-70-pct-of-isbs-balance-in-rupees-180030/) · `en`
-
-ECONOMYNEXT- Sri Lanka had reached a deal with foreign bond holders and local banks to restructure defaulted sovereign bonds, according to a statement.
-
-Foreign bondholders would get bonds linked to gross domestic product (macro-linked bonds) with an initial haircut of 28 percent part of which will be reversed if economic growth exceeds expectations,
-
-Local banks would be able to exchange 70 percent of their ISBs into dollar bonds with a 10 percent haircut.
-
-The statement said the initial joint framework was not consistent with the IMF
-
-The balance 30 percent would be exchanged for rupee securities.
-
-Past due interest will become a bond with an 11 percent hair cut. The same treatment is given to past due interest of foreign bondholders.
-
-Sri Lanka banks had written down their holdings by 50-pct but would still suffer a ‘one-day’ hit, analysts said.
-
-Sri Lanka reached a framework agreement with bondholders in July which was discussed with the IMF and the official creditor committee.
-
-...
-
-[Data](articles/b449f778.json)
-
-[Extended Data](ext_articles/b449f778.ext.json)
-
----
-
-### Elections Commission forbid
-
-*2024-09-19 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194101) · `ta`
-
-Elections Commission prohibits photography and video recording at polling stations on election day. Violates election law. Social media users and administrators warned against sharing content from polling sites.
-
-🟩
-
-The Elections Commission has stated that the chances of voting at the polling stations on the 21st of this month, the photographing and the release of videos or publishing on social media websites are violating the election law.
-
-Therefore, the Elections Commission has announced to those who hold all social media website accounts and their administrators to avoid such activities.
-
-◼️
-
-[Data](articles/818c81cb.json)
-
-[Extended Data](ext_articles/818c81cb.ext.json)
-
----
-
-### Second wave of Lebanon device explosions kills 20 and wounds 450
-
-*2024-09-19 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102079/second-wave-of-lebanon-device-explosions-kills-20-and-wounds-450) · `en`
-
-At least 20 people have been killed and more than 450 wounded by a second wave of explosions from wireless communication devices in Lebanon, the country’s health ministry says.
-
-Walkie-talkies used by the armed group Hezbollah blew up in the southern suburbs of the capital Beirut, the Bekaa Valley, and southern Lebanon - areas seen as its strongholds.
-
-Some of the blasts took place during funerals for some of the 12 people who the ministry said were killed when Hezbollah members’ pagers exploded on Tuesday. Hezbollah blamed Israel for that attack. Israel has not commented.
-
-The attacks came as Israel’s Defence Minister Yoav Gallant announced a “new phase in the war” and as an Israeli army division was redeployed to the north.
-
-UN Secretary General António Guterres warned of the “serious risk of a dramatic escalation” and called on all parties to “exercise maximum restraint”.
-
-...
-
-[Data](articles/ae1b60db.json)
-
-[Extended Data](ext_articles/ae1b60db.ext.json)
-
----
-
-### A complaint lodged a police officer
-
-*2024-09-19 15:43:34* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරියෙක්-ආගිය-අතක්-නැති-බවට-පැමිණිල්ලක්/11-412025) · `si`
-
-Complaint filed by police constable: Husband missing since 13th. Phone disconnected. No information about him. Not reported to service. Incident linked to Hambantota hospital.
-
-🟩
-
-Weerawila police say that there is no short hand hand with a police constable issued by the Hambantota Headquarters Police.
-
-The incident is attached to the Hambantota Headquarters Hospital in Udugamuwa and Tissamaharama.
-
-The police constable has filed the complaint on the 17th night by the police constable.
-
-The complaint states that his husband went out on the 13th and that he had never returned home and had not returned home. The phone has been disconnected, as he does not return home and will be rescued and handed over to police uniforms if he returns home.. The complaint has further stated that there is no information about her husband since then.
-
-The police constable was not reported to the service, police said.
-
-◼️
-
-[Data](articles/7fa13a2a.json)
-
-[Extended Data](ext_articles/7fa13a2a.ext.json)
-
----
-
-### Sri Lanka’s IPS cautions against rash promises, interruptions to IMF programme
-
-*2024-09-19 15:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-ips-cautions-against-rash-promises-interruptions-to-imf-programme-180019/) · `en`
-
-ECONOMYNEXT — As Sri Lanka gears up for elections, policymakers must avoid rash economic promises that risk a
-
-decade of lost growth and an era of relative decline, the Institute of Policy Studies (IPS) said, also cautioning against interruptions to the ongoing International Monetary Fund (IMF) programme.
-
-As too often in the past, Sri Lanka appears not to have broken its damaging tendency towards ‘competitive populism’ ahead of elections, IPS said in a statement on Thursday September 19, two days ahead of Sri Lanka’s highly anticipated presidential election.
-
-“Fiscally profligate promises ranging from wage increases to loan write-offs and welfare handouts are being made in a bid to win votes. Such pledges often come with a hefty price tag that the country can ill afford, especially given its still fragile economic recovery.
-
-...
-
-[Data](articles/74935bb0.json)
-
-[Extended Data](ext_articles/74935bb0.ext.json)
-
----
-
-### Meanmar's cyber cyber criminal camps increase
-
-*2024-09-19 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201201) · `si`
-
-Sri Lanka citizens report surge in cybercrime camp referrals from Myanmar. Criminals target IT professionals with fake job offers, luring them to Dubai under false pretenses. Victims face physical torture and electrocution in these camps. National Task Force warns of increasing human trafficking cases.
-
-🟩
-
-In different ways, citizens of Sri Lanka have revealed an increase in referrals to cyber crimes camps in Myanmar.
-
-The National Task Force against the trade is warned by the National Task Force against the trade.
-
-It is reported that the human trading is targeted targeting information technological professionals, saying they will provide attractive salary employment opportunities in foreign countries.
-
-The National Task Force against the trade of persons is further indicated that people in trade attracting that they are attracting jobs with high wages of IT.
-
-It is emphasized that they will be taken to countries such as Dubai by the guise of the guise of employment interviews.
-
-Recently investigations have revealed that they had to face severe physical, physical, torture and even electrification in these cyber crime camps.
-
-◼️
-
-[Data](articles/5a41330f.json)
-
-[Extended Data](ext_articles/5a41330f.ext.json)
-
----
-
-### Prohibition of taking some action within the election of the election polling station!
-
-*2024-09-19 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194099) · `ta`
-
-Election Commission bans activities near polling stations. No persuasion, campaign materials allowed within half kilometer radius.
-
-🟩
-
-The Election Commission has issued a statement banning certain measures within the polling station on the 21st of this month.
-
-The Election Commission's report stated that the Election Commission has been banned from carrying out some measures within a distance of half a kilometer from the gate that enters the polling station or into the polling station.
-
-௩. Anyone who should vote for a candidate is trying to persuade Nehru
-
-௫. Related to the election, (no office, pamphlets, paste, poster, poster, photo, photo, or notice), or any symbol of the candidate, the poster, the poster, the poster, the photo or the notification or the symbol of the candidate.
-
-◼️
-
-[Data](articles/12d942da.json)
-
-[Extended Data](ext_articles/12d942da.ext.json)
 
 ---

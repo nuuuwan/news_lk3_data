@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 08:57:09**
+As of **2024-09-21 09:09:13**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,715
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,034 (100.0%) of 45,036 articles have been extended.
+45,036 (100.0%) of 45,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
 
-### 9 மாகாணங்களிலும் அதி உச்ச பாதுகாப்பு
+### High Security in 9 provinces
 
 *2024-09-21 08:35:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மாகாணங்களிலும்-அதி-உச்ச-பாதுகாப்பு/175-344077) · `ta`
 
-நாடளாவிய ரீதியாக ஸ்தாபிக்கப்பட்டுள்ள வாக்களிப்பு நிலையங்களுக்கு அண்மித்த பகுதிகளில் விசேட பாதுகாப்பு ஏற்பாடுகள் மேற்கொள்ளப்பட்டுள்ளன.
+Security measures: 80,000 personnel, 2 officers per station, special transport, central monitoring system in 9 provinces.
 
-தேர்தல் பாதுகாப்பு கடமைகளுக்காக பொலிஸார் உள்ளிட்ட 80,000 பாதுகாப்பு தரப்பினர் ஈடுபடுத்தப்பட்டுள்ளனர் என பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ்மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+🟩
 
-அதேநேரம் சகல வாக்களிப்பு நிலையங்களுக்கும் தலா 2 பொலிஸ் உத்தியோகத்தர்கள் கடமையில் ஈடுபடுத்தப்பட்டுள்ளனர்.
+Special security arrangements have been made in the recent areas of polling stations across the country.
 
-அதேநேரம் வாக்குப் பெட்டிகளைக் கொண்டு செல்வதற்காகவும் வாக்கு எண்ணும் நிலையங்களுக்கும் விசேட பாதுகாப்பு ஏற்பாடுகள் மேற்கொள்ளப்பட்டுள்ளன.
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that 80,000 security personnel, including the police, have been deployed for election security.
 
-அத்துடன் பொலிஸ் தலைமையகத்தில் விசேட கண்காணிப்பு மையம் நிர்மாணிக்கப்பட்டுள்ளதுடன் 9 மாகாணங்களிலும் விசேட கண்காணிப்பு நிலையங்கள் ஸ்தாபிக்கப்பட்டுள்ளன. R
+At the same time, 2 police officers have been deployed for all polling stations.
+
+At the same time, special security arrangements have been made to carry the ballot boxes and the polling stations.
+
+The Special Monitoring Center has been constructed at the Police Headquarters and special monitoring centers have been established in all 9 provinces.. Remble
 
 ◼️
 
 [Data](articles/8ec75c1e.json)
+
+[Extended Data](ext_articles/8ec75c1e.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ Saman Sri Rathnayake further stated that for those wishing to indicate preferenc
 ...
 
 [Data](articles/f945e284.json)
+
+[Extended Data](ext_articles/f945e284.ext.json)
 
 ---
 

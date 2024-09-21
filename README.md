@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 10:22:34**
+As of **2024-09-21 10:38:06**
 
 ## Newspaper Stats
 
-*Scraped **45,043** Articles*
+*Scraped **45,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 450
 islandlk | 2,656
 economynextcom | 2,729
 dailyftlk | 3,017
-adalk | 4,159
+adalk | 4,160
 dailymirrorlk | 4,733
 adaderanalk | 5,292
-tamilmirrorlk | 5,900
+tamilmirrorlk | 5,901
 virakesarilk | 7,211
 adaderanasinhalalk | 7,717
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,717
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,043 (100.0%) of 45,043 articles have been extended.
+45,045 (100.0%) of 45,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### The Election Commission is ready for the general election
+
+*2024-09-21 10:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்தேர்தலுக்கு-தேர்தல்-ஆணைக்குழு-தயார்/175-344078) · `ta`
+
+Election Commission prepares for general election. Political parties discuss dissolving parliament post-presidential election. Four upcoming elections planned. Some parties demand cancellation of local government nominations. Legal consultations ongoing regarding nomination cancellations and parliamentary resolutions.
+
+🟩
+
+The Election Commission has announced that all district election officials will be ready to hold a general election if the new president dissolves parliament.
+
+Political critics think that parliament is more likely to be dissolved after the appointment of the new president.
+
+It is reported that the respective political parties have been discussed separately on the dissolution of parliament after the presidential election.
+
+Meanwhile, the Election Commission is preparing to hold four more elections over the next two years.
+
+There are four elections, the general election, the Elpiti Local Government election, the local government elections and the provincial council election.
+
+Several parties, including political parties, have already demanded the cancellation of nominations in the local government elections. The Election Commission seems to be consulting with the legal departments in this regard.
+
+...
+
+[Data](articles/72b83c14.json)
+
+[Extended Data](ext_articles/72b83c14.ext.json)
+
+---
 
 ### Presidential election;Voting in Jaffna
 
@@ -137,6 +165,32 @@ The Elections Commission says that 4929 complaints have been resolved.
 [Data](articles/f9695201.json)
 
 [Extended Data](ext_articles/f9695201.ext.json)
+
+---
+
+### President is an extraordinary
+
+*2024-09-21 09:06:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-අතිවිශේෂ-ගැසට්ටුවක්/11-412050) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"President Ranil Wickremesinghe declares electricity and petroleum services essential. Gazette notification issued, applies to state corporations, departments, local bodies, and branches."
+
+🟩
+
+All services related to electricity and petroleum production and delivery of petroleum produces and supply of fueling or distribution of fueling or distribution is essential by President Ranil Wickremesinghe.
+
+The gazette notification that made these services essential services was issued by the President EMSBA yesterday.
+
+This gazette notification is prescribed by the President that these services provided by any state corporations, department, a local government body, or branch provided by a branch.
+
+◼️
+
+[Data](articles/74de628f.json)
+
+[Extended Data](ext_articles/74de628f.ext.json)
 
 ---
 
@@ -550,7 +604,7 @@ Also, here are the photos and some news published on the country's first preside
 
 ECONOMYNEXT – Sri Lanka is going for presidential elections Saturday to elect the ninth president with with candidates promising salary hikes for state workers, more handouts for the poor and tax cuts as the economy recovered from a currency collapse that pushed inflation to 70 percent.
 
-The island nation’s 17.1 voters will elect the new leader in the poll in which the winner is widely expected to be chosen after a second preferential vote count due to a tight race among the top three candidates.
+The island nation’s 17.1 million voters will elect the new leader in the poll in which the winner is widely expected to be chosen after a second preferential vote count due to a tight race among the top three candidates.
 
 Fighting against corruption, economic recovery from the debt crisis, tax reduction, granting concessions, public sector salary hike, and debt restructuring under International Monetary Fund (IMF) reforms have been at the centre stage of the campaigns.
 
@@ -2225,55 +2279,5 @@ The car that crashed into the bus ran away. Seven passengers who were injured in
 [Data](articles/365244ce.json)
 
 [Extended Data](ext_articles/365244ce.ext.json)
-
----
-
-### Sri Lanka election commission explains Dos & Don’ts at polling station
-
-*2024-09-20 15:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-commission-explains-dos-donts-at-polling-station-180180/) · `en`
-
-ECONOMYNEXT — Voters must take one of nine valid identification documents with them to their local polling station at Sri Lanka’s presidential election, Election Commission Chairman R L M Ratnayake said.
-
-Speaking to the media on Friday September 20, the eve of the election, Ratnayakae said producing the polling card is not compulsory.
-
-“The official polling card is not compulsory. If you have a valid ID you can produce that at the polling centre and obtain a ballot paper on which you can cast your vote,” he said.
-
-Clergy ID issued by the Department for Registration of Persons
-
-Letter issued by the Department for Registration of Persons confirming the details of the voter’s NIC
-
-Temporary ID issued for disabled people by the election commission,
-
-It is compulsory that any one of these nine IDs be produced at the polling station, said Ratnayake.
-
-Using mobile phones is be prohibited at polling stations, as is taking pictures and recording video.
-
-...
-
-[Data](articles/f39a2f3c.json)
-
-[Extended Data](ext_articles/f39a2f3c.ext.json)
-
----
-
-### Sri Jayawardenapura University Opening Tuesday
-
-*2024-09-20 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194192) · `ta`
-
-Sri Jayawardenapura University reopening: Classes resume Tuesday; students return to hostels Monday after temporary closure due to group conflict.
-
-🟩
-
-Vice Chancellor Professor Padmalal M Manej said that the University of Sri Jayawardenapura will be reopened on Tuesday (24) for educational activities.
-
-Thus, Professor Padmalal M Manej said that all students would come to their hostels on Monday (23).
-
-The university was temporarily closed from 6.00 pm on the 12th following a clash between the two groups.
-
-◼️
-
-[Data](articles/1152f911.json)
-
-[Extended Data](ext_articles/1152f911.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 12:38:16**
+As of **2024-09-21 13:07:39**
 
 ## Newspaper Stats
 
-*Scraped **45,067** Articles*
+*Scraped **45,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,729
 dailyftlk | 3,017
-adalk | 4,160
+adalk | 4,161
 dailymirrorlk | 4,733
 adaderanalk | 5,296
-tamilmirrorlk | 5,906
+tamilmirrorlk | 5,907
 virakesarilk | 7,217
 adaderanasinhalalk | 7,722
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,722
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,067 (100.0%) of 45,067 articles have been extended.
+45,069 (100.0%) of 45,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### "Curfew if needed"
+
+*2024-09-21 12:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவை-ஏற்பட்டால்-ஊரடங்கு/175-344084) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Curfew may be imposed if necessary. Public Security Minister Tran Ales warns severe enforcement if violence occurs. Presidential election proceeding calmly. Minister appeals for continued peace and safety."
+
+🟩
+
+Public Security Minister Tran Ales said the curfew would be implemented in the event of need and that if the violence erupted, it would be severely implemented.
+
+“The presidential election is being held quietly. I appeal to the public and political party leaders to maintain this situation.. We have done everything we can to ensure the safety of the nation during the presidential election, ”Minister Ales said.
+
+◼️
+
+[Data](articles/fb7f0205.json)
+
+[Extended Data](ext_articles/fb7f0205.ext.json)
+
+---
 
 ### Woman hacked to death in Mirihana
 
@@ -509,6 +533,30 @@ Several parties, including political parties, have already demanded the cancella
 [Data](articles/72b83c14.json)
 
 [Extended Data](ext_articles/72b83c14.ext.json)
+
+---
+
+### Dubai returns Dubasad reverses Priyasad
+
+*2024-09-21 10:08:34* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායි-යන්න-ගිය-ඩෑන්-ප්‍රියසාද්-ආපසු-හරවා-යවයි/11-412051) · `si`
+
+Dubai-bound passenger Dan Priyasad returned to Sri Lanka after court order. His flight from Katunayake Airport was cancelled due to legal restrictions. He faces charges related to a May 9, 2022 protest incident.
+
+🟩
+
+Dan Priyasad, who had arrived at the Bandaranaike International Airport, was back on the Bandaranaike International Airport by the Deliyana Airport.
+
+Liyanage Suresh Priyasad, named Suresh Priyasad, the Emirates Privaway to leave for Dubai on 08.35 pm was to leave the Katunayake Airport to enter the 653.
+
+However, as the judiciary was banned by the courts, the Katunayake airport has been reversed by Immigration and Emigration Department officials.
+
+Dan Priyasad has been named as the 6th Defender in the case of the attack on the peaceful protest in Colombo on 09 May 20, 2022.
+
+◼️
+
+[Data](articles/c9dc2b8a.json)
+
+[Extended Data](ext_articles/c9dc2b8a.ext.json)
 
 ---
 
@@ -2193,47 +2241,5 @@ The statement further says that the three MPs’ membership in SLPP’s All-Isla
 [Data](articles/0c59cb87.json)
 
 [Extended Data](ext_articles/0c59cb87.ext.json)
-
----
-
-### Considering the passage of the resolution on Sri Lanka with a referendum or vote;The final draft will be submitted in the first week of October
-
-*2024-09-20 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194211) · `ta`
-
-UN Human Rights Council examines Sri Lanka resolution renewal. Draft expected early October. British-led coalition proposes extending 51/1 resolution for two more years. Final draft to be released before presidential elections. Civil society groups to discuss with member states.
-
-🟩
-
-The UN Human Rights Council (UNHRC) has examined the possibility of passing a draft referendum or voting, prepared by the British -led internet countries to set a resolution passed on Sri Lanka.
-
-The 57th session of the United Nations Human Rights Council commenced on the 9th. On that day, the Sri Lankan affair was examined following the speech of UN Human Rights Council Volkar Turk's speech on the Global Human Rights Status and the Writing Report on Myanmar Human Rights.
-
-UN Human Rights High Commissioner Volkar Turk addressed the progress of the content implementation of the 51/1 resolution on the 'Reconciliation, Liability and Human Rights Improves in Sri Lanka' which has already been passed at the Human Rights Council on Sri Lanka.
-
-...
-
-[Data](articles/a0bf2298.json)
-
-[Extended Data](ext_articles/a0bf2298.ext.json)
-
----
-
-### FR petition filed against Sri Lanka’s debt restructuring deal
-
-*2024-09-20 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102101/fr-petition-filed-against-sri-lankas-debt-restructuring-deal-) · `en`
-
-A fundamental rights petition has been submitted before the Supreme Court requesting the court to issue an order declaring that the government’s decision to restructure the debt associated with Sri Lanka’s international sovereign bonds has violated the basic human rights of the citizens.
-
-The petition has been filed by the former convenor of the Inter-University Students’ Federation (IUSF), Wasantha Mudalige.
-
-The Minister of Finance, the Secretary to the Ministry of Finance, the Governor of the Central Bank of Sri Lanka (CBSL) and others have been named as respondents in the petition.
-
-The petitioner claims that the interest rate of the debt related to international sovereign bonds had initially been between 5% and 7% and that under the debt restructuring program, the government has increased this to 8.2% and then reduced to 7.4%.
-
-...
-
-[Data](articles/be5deb1f.json)
-
-[Extended Data](ext_articles/be5deb1f.ext.json)
 
 ---

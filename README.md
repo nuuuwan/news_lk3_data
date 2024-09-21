@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 17:39:16**
+As of **2024-09-21 17:58:52**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 7,732
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,103 (100.0%) of 45,106 articles have been extended.
+45,106 (100.0%) of 45,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
 
-### ඡන්දය ප්‍රකාශ කිරීමෙන් පසු අනුර කළ ඉල්ලීම
+### Anura request after votes
 
 *2024-09-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201271) · `si`
 
-ලංකා ඉතිහාසය වෙනස්කරන මැතිවරණයක් බවට මෙම  මැතිවරණය පත්වන බව ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+Sri Lanka presidential election: Anura speaks at Punchikawatta temple, calls it historic event changing country's future. Emphasizes importance of high voter turnout and democratic rights.
 
-පංචිකාවත්ත අබේසිංහාරාම විහාරස්ථානයේ ස්ථාපනය කර තිබූ ඡන්ද මධ්‍යස්ථානයේදී සිය ඡන්දය භාවිත කිරීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු ඒ බව සඳහන් කළේය.
+🟩
 
-"මම හිතනවා ලංකා ඉතිහාසය වෙනස්කරන මැතිවරණයක් බවට මේ මැතිවරණය පත්වේවී. කාලාන්තරයක් තිස්සේ ආණ්ඩු හදන්න, ආණ්ඩු පෙරළන්න, ආණ්ඩු මාරුකරන්න, නායකයෝ මාරුකරන්න ඡන්ද පවත්වලා තිබෙනවා. මම හිතනවා මේ මැතිවරණය ලංකා ඉතිහාසයේ ප්‍රබලතම හැරවුම් ලක්ෂයක් දෙන මැතිවරණය බව. ඒ වගේම ජයග්‍රහණයෙන් පසුව සියලුදෙනා සාමකාමි වන ලෙසත්, ප්‍රජාතන්ත්‍රවාදයේ ගතිලක්ෂණය තමයි, ඕනෑම පුද්ගලයෙකුට තමන් කැමති දේශපාලන ව්‍යපාරයකට වැඩකරන්න, තමන් කැමති දේශපාලන ව්‍යාපාරයකට ඡන්දය ප්‍රකාශ කරන්න අයිතිය තිබෙනවා. ඒ අයිති අපි දිගටම ආරක්ෂා කළ යුතුයි."
+The presidency of the National Jathika Sector said that the election will be elected to an election that will change the history of Lanka history.
+
+He was speaking at the polling station at the Punchikawatta Abeymana Temple.
+
+"I think this election has been organized into an election that changes the history of Sri Lanka. For a long time, governments have been established, to overcome governments, to transfer government leaders, to change the leaders. I hope this election will give the elections for a major turnout in the history of Sri Lanka. And after the victory, everyone has the right to a political movement of democracy and the political movement they want to vote for their own. We must keep our belongings. "
 
 ◼️
 
 [Data](articles/c92cc8db.json)
 
+[Extended Data](ext_articles/c92cc8db.ext.json)
+
 ---
 
-### பென்சிலில் புள்ளடி: என்ன நடக்கும்
+### Pencil dotted: what happens
 
 *2024-09-21 17:04:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பென்சிலில்-புள்ளடி-என்ன-நடக்கும்/175-344089) · `ta`
 
-பென்சில்களால் குறிக்கப்பட்ட வாக்குச் சீட்டுகள் நிராகரிக்கப்பட மாட்டாது என்றும், எனவே வாக்காளர்கள் தேவையற்ற கவலைகளை ஏற்படுத்த வேண்டாம் என்றும் தேர்தல் ஆணையம் தெரிவித்துள்ளது.
+Election Commission clarifies pencil votes valid, no rejection. Voters may use either milkpoint pens or pencils. No need for concern about ballot marks.
 
-ஊடக அறிக்கையை வெளியிட்ட ஆணைக்குழு, வாக்காளர்கள் தங்களது வாக்குச் சீட்டுகளை குறிப்பதற்காக வாக்களிப்பு நிலையங்களுக்கு பால்பாயின்ட் பேனாக்கள் கிடைக்கப்பெற்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-சில இடங்களில் பால்பாயின்ட் பேனாக்கள் அனுப்பப்பட்ட போதிலும், சில இடங்களில் பென்சில்கள் பயன்படுத்தப்படுவதாக புகார்கள் இருப்பதாகவும் அது கூறியது.
+The Election Commission said that the ballot marks marked by pencils would not be rejected and voters should not cause unnecessary concerns.
+
+The Commission, which issued the media report, said that voters had received milkpoint pens to vote for their ballots.
+
+It also stated that there were complaints that the milkypoint pens were sent in some places, but in some places there were complaints that pencils were used.
 
 ◼️
 
 [Data](articles/53b3b1b1.json)
+
+[Extended Data](ext_articles/53b3b1b1.ext.json)
 
 ---
 
@@ -77,6 +89,8 @@ Meanwhile, it was earlier reported that the overall voter turnout as at 2.00 p.m
 ◼️
 
 [Data](articles/b9c8bfdd.json)
+
+[Extended Data](ext_articles/b9c8bfdd.ext.json)
 
 ---
 

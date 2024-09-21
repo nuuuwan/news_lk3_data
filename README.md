@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 04:09:15**
+As of **2024-09-22 04:22:20**
 
 ## Newspaper Stats
 
-*Scraped **45,212** Articles*
+*Scraped **45,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,122 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,173
 dailymirrorlk | 4,733
-adaderanalk | 5,321
-tamilmirrorlk | 5,938
+adaderanalk | 5,325
+tamilmirrorlk | 5,940
 virakesarilk | 7,241
-adaderanasinhalalk | 7,757
+adaderanasinhalalk | 7,759
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,212 (100.0%) of 45,212 articles have been extended.
+45,212 (100.0%) of 45,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Digamadulla District postal vote results
+
+*2024-09-22 04:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102147/digamadulla-district-postal-vote-results) · `en`
+
+The postal vote result of the Digamadulla District in the 2024 Presidential Election has been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake coming up top.
+
+Dissanayake has received the highest number of postal votes in the district with a total of 11,120 postal votes.
+
+◼️
+
+[Data](articles/2325803f.json)
+
+---
+
+### அனுராதபுரம் மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+
+*2024-09-22 04:01:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுராதபுரம்-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344129) · `ta`
+
+◼️
+
+[Data](articles/aa7662fc.json)
+
+---
+
+### Postal vote results for Batticaloa and Kegalle districts released
+
+*2024-09-22 03:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102146/postal-vote-results-for-batticaloa-and-kegalle-districts-released) · `en`
+
+The postal vote result of the Batticaloa District in the 2024 Presidential Election has been released by the Election Commission.
+
+Independent candidate President Ranil Wickremesinghe has secured the highest number of postal votes in Batticaloa District postal votes.
+
+Meanwhile, National People’s Power (NPP) candidate Anura Kumara Dissanayake has topped the postal vote result of the Kegalle District securing 20,062 postal votes.
+
+◼️
+
+[Data](articles/25316019.json)
+
+---
+
+### யாழ்ப்பாண மாவட்ட நல்லூர்: தேர்தல் முடிவுகள்
+
+*2024-09-22 03:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்ட-நல்லூர்-தேர்தல்-முடிவுகள்/175-344128) · `ta`
+
+◼️
+
+[Data](articles/6014c68a.json)
+
+---
+
+### කෑගල්ල නිල තැපැල් ඡන්ද ප්‍රතිඵලය
+
+*2024-09-22 03:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201298) · `si`
+
+කෑගල්ල දිස්ත්‍රික්කයේ නිල තැපැල් ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද  20,062ක් ලබා ඉදිරියෙන් පසුවෙයි.
+
+◼️
+
+[Data](articles/d8cc7d0a.json)
+
+---
+
+### Anura leads Anuradhapura District postal votes
+
+*2024-09-22 03:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102145/anura-leads-anuradhapura-district-postal-votes) · `en`
+
+The postal vote result of the Anuradhapura District in the 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has secured the highest number of postal votes in the Anuradhapura District.
+
+◼️
+
+[Data](articles/c6031524.json)
+
+---
+
+### අනුරාධපුර නිල තැපැල් ඡන්ද ප්‍රතිඵලය
+
+*2024-09-22 03:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201297) · `si`
+
+අනුරාධපුර දිස්ත්‍රික්කයේ නිල තැපැල් ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 32,750ක් ලබා ඉදිරියෙන් පසුවෙයි.
+
+◼️
+
+[Data](articles/8cf132ae.json)
+
+---
+
+### First polling division result of Presidential Election released
+
+*2024-09-22 03:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102144/first-polling-division-result-of-presidential-election-released) · `en`
+
+The first polling division result of the 2024 Presidential Election is out with the release of the result of the Nallur polling division in Jaffna District.
+
+Tamil common candidate P. Ariyanethiran has received the highest number of votes in the polling division with a total of 10,097 votes.
+
+◼️
+
+[Data](articles/cdecf1e8.json)
+
+---
 
 ### Batticaloa Official Postal Vote
 
@@ -2131,179 +2233,5 @@ The police also requests the public to inform the following telephone numbers if
 [Data](articles/6b23a84a.json)
 
 [Extended Data](ext_articles/6b23a84a.ext.json)
-
----
-
-### Presidential Election 2024: District -wide voting rates
-
-*2024-09-21 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194303) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Presidential Election 2024: Voting began at 7 AM and ended at 4 PM. National turnout ranges from 75% to 80%. Specific district percentages not provided."
-
-🟩
-
-Voting for the presidential election to elect the country's 9th executive president commenced today (21) at 7.00 am and ended at 4 pm.
-
-Meanwhile, the Pepral Organization said that voting has been ranging from 75 to 80 percent nationwide.
-
-Accordingly, below the percentage of votes recorded in some districts across the country,
-
-◼️
-
-[Data](articles/78b00fdf.json)
-
-[Extended Data](ext_articles/78b00fdf.ext.json)
-
----
-
-### Voting the main candidates
-
-*2024-09-21 18:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதான-வேட்பாளர்கள்-வாக்களிப்பு/175-344091) · `ta`
-
-Presidential election voting began nationwide at 7 AM. Main candidates cast their votes between 7 AM and 4 PM.
-
-🟩
-
-The voting for the presidential election commenced nationwide at 7 am today (21) at 4 pm. The main candidates voted.
-
-◼️
-
-[Data](articles/095ca5dd.json)
-
-[Extended Data](ext_articles/095ca5dd.ext.json)
-
----
-
-### Arrest
-
-*2024-09-21 17:59:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-விதியை-மீறிய-ஒருவர்-கைது/175-344090) · `ta`
-
-Man (21) arrested for distributing leaflets near polling station. Released on bail after agreeing not to distribute within 500 meters of booth. Incident occurred in Ipulkoda under Kalapitamada police division.
-
-🟩
-
-A man (21) has been arrested for illegally distributing leaflets near the polling station under the Kalapitamada police division.
-
-The arrested person is 51 years old from Ipulkoda, Kalapitamada police said.
-
-It is reported that the police arrested him and then released him on bail if he distributed leaflets in a roundabout of 500 meters to the polling booth.. Remble
-
-◼️
-
-[Data](articles/6fe8c02c.json)
-
-[Extended Data](ext_articles/6fe8c02c.ext.json)
-
----
-
-### Did you mark your vote with pen or pencil? - EC clarifies concerns
-
-*2024-09-21 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102124/did-you-mark-your-vote-with-pen-or-pencil-ec-clarifies-concerns) · `en`
-
-The Election Commission states that it has received complaints regarding the use of pencils instead of pens at certain polling stations for the marking of votes during the 2024 Presidential Election.
-
-In response to this, the election regulatory body had issued instructions to all relevant polling centers to use carbon pens going forward, addressing concerns about the integrity of the voting process.
-
-Despite the complaints, the Election Commission has reassured that any ballot papers marked with pencils will not be invalidated.
-
-Issuing an announcement in this regard, the Election Commission clarified that all votes marked with either pen or pencil will be considered as valid.
-
-◼️
-
-[Data](articles/32de584d.json)
-
-[Extended Data](ext_articles/32de584d.ext.json)
-
----
-
-### What Namal said about the people after votes
-
-*2024-09-21 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201272) · `si`
-
-Namal Rajapaksa praised volunteers' efforts in election campaign, emphasizing honesty and courage. He criticized politicians who prioritize personal interests over public welfare.
-
-🟩
-
-Namal Rajapaksa, presidential, Sri Lanka General's Front, President Rajapaksa. A. At the polling station of the Rajapaksa Vidyalaya, Rajapakse voted.
-
-Namal Rajapaksa said his votes after the election.
-
-"Many people volunteer in a very short time have been able to implement a successful election campaign because of many. We didn't do what we couldn't do, we're not lied to. If husband is voting, the wife, the kids, don't care. And we're not a political power that runs in fear. Clearly, some people are more intelligent than many politicians ".
-
-◼️
-
-[Data](articles/ad385691.json)
-
-[Extended Data](ext_articles/ad385691.ext.json)
-
----
-
-### Telephone Numbers of Telephone Numbers of the Presidential Election
-
-*2024-09-21 17:35:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-අදාළ-හදීසි-දැනුම්-දීම්-සිදු-කිරීමට-පොලීසියෙන්-දුරකථන-අංක/11-412057) · `si`
-
-Here's a 200-character summary:
-
-
-
-Presidential election-related phone numbers: Police spokespersons mention possible notification numbers, but details unclear.
-
-🟩
-
-Police Media Spokesperson DIG Talkaweera said that if any information was informed in relation to the presidential election, police spokesman Nihal Talduuwa said.
-
-The telephone numbers could be notified, the police spokesman said.
-
-◼️
-
-[Data](articles/08129e36.json)
-
-[Extended Data](ext_articles/08129e36.ext.json)
-
----
-
-### Anura request after votes
-
-*2024-09-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201271) · `si`
-
-Sri Lanka presidential election: Anura speaks at Punchikawatta temple, calls it historic event changing country's future. Emphasizes importance of high voter turnout and democratic rights.
-
-🟩
-
-The presidency of the National Jathika Sector said that the election will be elected to an election that will change the history of Lanka history.
-
-He was speaking at the polling station at the Punchikawatta Abeymana Temple.
-
-"I think this election has been organized into an election that changes the history of Sri Lanka. For a long time, governments have been established, to overcome governments, to transfer government leaders, to change the leaders. I hope this election will give the elections for a major turnout in the history of Sri Lanka. And after the victory, everyone has the right to a political movement of democracy and the political movement they want to vote for their own. We must keep our belongings. "
-
-◼️
-
-[Data](articles/c92cc8db.json)
-
-[Extended Data](ext_articles/c92cc8db.ext.json)
-
----
-
-### Counting of postal votes
-
-*2024-09-21 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194299) · `ta`
-
-Postal vote counting update: Elections Commissioner R.M.A.L. Ratnayake announced the first results will be released by midnight today.
-
-🟩
-
-Elections Commissioner R.. M.. A.. L. Ratnayake said.
-
-He also said that the first election will be released by midnight today.
-
-◼️
-
-[Data](articles/a7016edd.json)
-
-[Extended Data](ext_articles/a7016edd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 03:38:03**
+As of **2024-09-22 03:56:37**
 
 ## Newspaper Stats
 
-*Scraped **45,210** Articles*
+*Scraped **45,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ dailymirrorlk | 4,733
 adaderanalk | 5,321
 tamilmirrorlk | 5,938
 virakesarilk | 7,241
-adaderanasinhalalk | 7,755
+adaderanasinhalalk | 7,757
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,210 (100.0%) of 45,210 articles have been extended.
+45,212 (100.0%) of 45,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Batticaloa Official Postal Vote
+
+*2024-09-22 03:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201296) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ranil Wickremesinghe wins Batticaloa district postal vote. Official results confirm his victory in this key electoral area.
+
+🟩
+
+Ranil Wickremesinghe has been released by the official postal voting outcome of the Batticaloa district.
+
+◼️
+
+[Data](articles/2adbb976.json)
+
+[Extended Data](ext_articles/2adbb976.ext.json)
+
+---
+
+### Jaffna - Nallur
+
+*2024-09-22 03:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201295) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Jaffna: Nallur election results announced. Mr. Patrianthran wins with 10,097 votes.
+
+🟩
+
+The Nallur official voting results of the Jaffna district has been released and Mr. Patrianthran receives 10,097 votes.
+
+◼️
+
+[Data](articles/11b9b9bc.json)
+
+[Extended Data](ext_articles/11b9b9bc.ext.json)
+
+---
 
 ### Anura wins in 10 districts so far
 
@@ -122,7 +166,11 @@ The official postal voting outcome of the Nuwara Eliya District has been release
 
 The postal vote result of the Nuwara Eliya District in the 2024 Presidential Election has been released by the Election Commission.
 
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 8,946 votes.
+The postal vote result of the Nuwara Eliya District in the 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has secured the highest number of postal votes in the Nuwara-Eliya District.
+
+The NPP leader has received 8,946 postal votes while incumbent President and independent candidate Ranil Wickremesinghe has polled 5,087 postal votes.
 
 ◼️
 
@@ -151,6 +199,14 @@ National People’s Power (NPP) candidate Anura Kumara Dissanayake has received 
 ### Matara official postal voting results
 
 *2024-09-22 02:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201293) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Matara district postal voting results: Anura Kumara Dissanayake wins with 19,712 votes."
+
+🟩
 
 The official postal voting outcome of the Matara district has been released and Anura Kumara Dissanayake returns to 19,712 votes.
 
@@ -2249,51 +2305,5 @@ He also said that the first election will be released by midnight today.
 [Data](articles/a7016edd.json)
 
 [Extended Data](ext_articles/a7016edd.ext.json)
-
----
-
-### Presidential Election 2024: District -wide voting rates
-
-*2024-09-21 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/194297) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Presidential Election 2024: Voting began at 7 AM and ended at 4 PM. District-wide voting rates reported. Results pending."
-
-🟩
-
-Voting for the presidential election to elect the country's 9th executive president commenced today (21) at 7.00 am and ended at 4 pm.
-
-Accordingly, below the percentage of votes recorded in some districts across the country,
-
-◼️
-
-[Data](articles/aecedfb9.json)
-
-[Extended Data](ext_articles/aecedfb9.ext.json)
-
----
-
-### Pencil dotted: what happens
-
-*2024-09-21 17:04:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பென்சிலில்-புள்ளடி-என்ன-நடக்கும்/175-344089) · `ta`
-
-Election Commission clarifies pencil votes valid, no rejection. Voters may use either milkpoint pens or pencils. No need for concern about ballot marks.
-
-🟩
-
-The Election Commission said that the ballot marks marked by pencils would not be rejected and voters should not cause unnecessary concerns.
-
-The Commission, which issued the media report, said that voters had received milkpoint pens to vote for their ballots.
-
-It also stated that there were complaints that the milkypoint pens were sent in some places, but in some places there were complaints that pencils were used.
-
-◼️
-
-[Data](articles/53b3b1b1.json)
-
-[Extended Data](ext_articles/53b3b1b1.ext.json)
 
 ---

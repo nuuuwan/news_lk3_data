@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 00:38:19**
+As of **2024-09-22 00:54:32**
 
 ## Newspaper Stats
 
-*Scraped **45,167** Articles*
+*Scraped **45,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,18 +17,68 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,171
 dailymirrorlk | 4,733
-adaderanalk | 5,310
+adaderanalk | 5,311
 tamilmirrorlk | 5,926
 virakesarilk | 7,235
-adaderanasinhalalk | 7,744
+adaderanasinhalalk | 7,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,167 (100.0%) of 45,167 articles have been extended.
+45,169 (100.0%) of 45,169 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-22 (Sunday)
+
+### Sri Lanka Police announcement on curfew passes
+
+*2024-09-22 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102133/sri-lanka-police-announcement-on-curfew-passes-) · `en`
+
+Sri Lanka Police announced that police stations will not be issuing curfew passes for travel during the curfew period.
+
+Issuing a release, The Police Media Division said that essential workers and emergency services personnel can use their official identity cards as a curfew pass.
+
+Curfew has been imposed islandwide with effect from 10.00 p.m. tonight (21) until 06.00 a.m. tomorrow (22).
+
+This decision has been taken by the incumbent President Ranil Wickramasinghe under the provisions of the Public Security Ordinance, in view of the releasing of the results of 2024 presidential election tonight.
+
+However, the Police Media Division had stated that although the post-election situation in the country is very peaceful, this curfew was imposed for further safety of the public. Furthermore, Sri Lanka Police urged the general public to stay in their houses during the curfew period.
+
+...
+
+[Data](articles/508ffc55.json)
+
+[Extended Data](ext_articles/508ffc55.ext.json)
+
+---
+
+### Police notice of drawing licenses
+
+*2024-09-22 00:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201284) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Police notice: No driving licenses issued during period. Essential/emergency services exempt."
+
+🟩
+
+The Head of the Dragro has issued a statement from the Police Headquarters regarding the use of the road during the period.
+
+It states that the drawings of the drawing will not be issued by police stations to travel during the period.
+
+The Police Headquarters has not used his duty card as a license to travel for essential services and emergency services.
+
+◼️
+
+[Data](articles/a3de78e0.json)
+
+[Extended Data](ext_articles/a3de78e0.ext.json)
+
+---
 
 ### 2024-09-21 (Saturday)
 
@@ -2273,49 +2323,5 @@ It is reported that the total number of votes has exceeded 30% by 10 am today.
 [Data](articles/2b40e399.json)
 
 [Extended Data](ext_articles/2b40e399.ext.json)
-
----
-
-### Here are the percentage of votes cast in Colombo including Colombo
-
-*2024-09-21 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201260) · `si`
-
-Colombo election results summary: 200 characters limit reached. Please provide more details about the specific percentages or data points you'd like included in the summary.
-
-🟩
-
-Specifications have been published by the officers who voted in several other districts, including Colombo.
-
-◼️
-
-[Data](articles/8436e6ad.json)
-
-[Extended Data](ext_articles/8436e6ad.ext.json)
-
----
-
-### Mirihana murder suspect
-
-*2024-09-21 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201259) · `si`
-
-Here's a 200-character summary:
-
-
-
-Woman killed in Mirihana home assault. Victim from Sandanampitiya, lived there 35 years. Murderer identified as house driver.
-
-🟩
-
-A woman in a house in a house in the Mirihana Police, a woman was assaulted with a sharp weapon.
-
-The murdered was a resident of Sandanampitiya area for 35 years.
-
-It has been revealed that the murder was taken as a driver of the house.
-
-◼️
-
-[Data](articles/b1e716c7.json)
-
-[Extended Data](ext_articles/b1e716c7.ext.json)
 
 ---

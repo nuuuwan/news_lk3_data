@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 02:07:54**
+As of **2024-09-22 02:37:58**
 
 ## Newspaper Stats
 
-*Scraped **45,194** Articles*
+*Scraped **45,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 453
 islandlk | 2,656
 economynextcom | 2,741
 dailyftlk | 3,017
-adalk | 4,171
+adalk | 4,172
 dailymirrorlk | 4,733
-adaderanalk | 5,317
+adaderanalk | 5,318
 tamilmirrorlk | 5,932
 virakesarilk | 7,241
 adaderanasinhalalk | 7,751
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,751
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,190 (100.0%) of 45,194 articles have been extended.
+45,196 (100.0%) of 45,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Presidential Election: Matale District postal vote results
+
+*2024-09-22 02:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102140/presidential-election-matale-district-postal-vote-results) · `en`
+
+The postal vote result of the Matale District in the 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 12,186 votes.
+
+Independent candidate President Ranil Wickremesinghe (4,243) has received the second highest number of votes followed by Samagi Jana Sandhanaya candidate Sajith Premadasa who has polled 3,816
+
+Meanwhile, Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa has polled 372 while ‘Sarvajana Balaya’ alliance Dilith Jayaweera has obtained 128 votes.
+
+◼️
+
+[Data](articles/d17898f2.json)
+
+[Extended Data](ext_articles/d17898f2.ext.json)
+
+---
 
 ### Vanni official postal voting results
 
@@ -526,23 +546,35 @@ However, the Police Media Division had stated that although the post-election si
 
 ---
 
-### டெஸ்ட் மீள்வருகையில் ரிஷாப் பான்ட் சதம் குவித்து இந்திய விக்கெட் காப்பாளருக்கான சாதனையை சமன் செய்தார்
+### Rishabh Bond scored a century and equals the record for Indian wicketkeeper
 
 *2024-09-22 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194336) · `ta`
 
-இந்தியாவுக்கும் பங்களாதேஷுக்கும் இடையில் சென்னை, சேப்பாக்கம் எம். ஏ. சிதம்பரம் விளையாட்டரங்கில் நடைபெற்றுவரும் முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் ரிஷாப் பான்ட் தனது 6ஆவது சதத்தைக் குவித்து இந்தியாவின் முதல் நிலை விக்கெட்  காப்பாளர் என்பதை நிரூபித்தார்.
+Rishabh Bond scores century, equals MS Dhoni's record as India's first wicketkeeper to achieve 6 Test centuries. India vs Bangladesh match update: India sets 515-run target, Bangladesh struggles in second innings.
 
-கிட்டத்தட்ட இரண்டு வருடங்களுக்கு பின்னர் டெஸ்ட் கிரிக்கெட்டில் மீள் பிரவேசம் செய்த ரிஷாப் பான்ட் 6ஆவது சதம் குவித்து அதிக சதங்கள் குவித்த இந்திய விக்கெட் காப்பாளருக்கான சாதனையை சமப்படுத்தினார்.
+🟩
 
-விக்கெட் காப்பாளராக எம். எஸ். தோனி குவித்த 6 டெஸ்ட் சதங்கள் என்ற சாதனையையே பான்ட்  சமப்படுத்தினார்.
+Chennai, Chepakkam M between India and Bangladesh. A.. Rishabh Bond has scored his 6th century in the first Test cricket match at Chidambaram Stadium and proved to be India's first wicketkeeper.
 
-போட்டியின் 3ஆம் நாளான இன்று காலை தனது 2ஆவது இன்னிங்ஸை 3 விக்கெட் இழப்புக்கு 83 ஓட்டங்களிலிருந்து தொடர்ந்த இந்தியா 4 விக்கெட்களை இழந்து 287 ஓட்டங்கள் பெற்றிருந்தபோது டிக்ளயார்ட்  செய்து பங்களாதேஷுக்கு 515 ஓட்டங்களை வெற்றி இலக்காக நிர்ணயித்தது.
+Almost two years later, Rishabh Bond, who re -entered Test cricket, equaled the record for the Indian wicketkeeper who scored the 6th century.
 
-இந்தியாவின் இரண்டாவது இன்னிங்ஸில் 109 ஓட்டங்களைப் பெற்ற ரிஷாப் பான்ட் 4ஆவது விக்கெட்டில் ஷுப்மான் கில்லுடன் 167 ஓட்டங்களைப் பகிர்ந்தார்.
+M.. S.. Dhoni balanced the record of 6 Test centuries.
+
+On the 3rd day of the match, India set their target of 515 runs for Bangladesh when they lost 4 wickets for 4 wickets for the loss of 83 runs for the loss of 3 wickets.
+
+Rishabh Bond, who scored 109 runs in India's second innings, shared 167 runs with Shubman Kill in the 4th wicket.
+
+Kill with 119 runs when India stopped the second innings. Rahul did not lose 22 runs.
+
+Bangladesh were bowled out for the most difficult, unthinkable 515 runs in the 2nd innings, losing 4 wickets at the end of the third day's play and scoring 158 runs.
+
+Team captain Najmul Hosain Santo did not lose 51 runs and Shakib Al Hasan 5.
 
 ...
 
 [Data](articles/3a25f247.json)
+
+[Extended Data](ext_articles/3a25f247.ext.json)
 
 ---
 
@@ -572,23 +604,33 @@ The Police Headquarters has not used his duty card as a license to travel for es
 
 ---
 
-### நந்தன் - திரைப்பட விமர்சனம்
+### Nandan - Movie Review
 
 *2024-09-22 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194334) · `ta`
 
-நடிகர்கள் : சசிகுமார், பாலாஜி சக்திவேல், ஸ்ருதி பெரியசாமி, சமுத்திரக்கனி மற்றும் பலர்.
+"Nandan" movie review: Sasikumar stars alongside Balaji Sakthivel in a tale of panchayat elections and caste politics in Tamil Nadu. Director Ira explores themes of oppression and political power struggles.
 
-'கத்துக்குட்டி', 'உடன்பிறப்பே' ஆகிய படங்களை இயக்கிய இயக்குநர் இரா. சரவணன் இயக்கத்தில் உருவாகி இருக்கும் இந்தியா போன்ற ஜனநாயக நாட்டின் நடைபெறும் தேர்தல் அரசியல் தொடர்பான திரைப்படம் 'நந்தன்'. சசிகுமார் வித்தியாசமான வேடத்தில் நடித்திருக்கும் இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+🟩
 
-தமிழகத்தில் உள்ள வணங்கான்குடி எனும் ஊரக உள்ளாட்சி பகுதியில் ஊராட்சி மன்றத்திற்கான தேர்தல் நடைபெறுகிறது.
+Actors: Sasikumar, Balaji Sakthivel, Shruti Periyasamy, Samudrakani and many others.
 
-இதற்கான வேட்பு மனு தாக்கல் தொடர்பான ஆலோசனை கூட்டத்துடன் கதை தொடங்குகிறது. இந்த ஆலோசனை கூட்டத்தில் இந்த ஊராட்சிக்கு பரம்பரை பரம்பரையாக கோப்பு லிங்கம் என்பவர் தான் தலைவர் பதவிக்கு போட்டியிடுகிறார்.
+Director Ira, who directed the films 'Kattukutty' and 'Siblings'. 'Nandan'. Sasikumar, who plays a different role, has attracted all the fans?Or not?We will continue to see.
 
-இந்த முறையும் அவர் தலைவர் பதவிக்கான ஏலத்தில் பங்கு பற்றி ஊராட்சிக்கு 20 இலட்சம் ரூபாயை செலுத்தி, தலைவர் பதவியை பெறுவதற்கான முயற்சியில் வெற்றி பெறுகிறார். இந்த தருணத்தில் அந்த ஊராட்சி தாழ்த்தப்பட்ட மற்றும் ஒடுக்கப்பட்ட மக்களுக்கான தொகுதி என மறு வரையறை செய்யப்பட்டு அறிவிக்கப்படுகிறது.
+Elections for the Panchayat Council are being held in the local government of Vanangankudi in Tamil Nadu.
+
+The story begins with a consultation meeting on filing nominations. At this consultation meeting, the Panchayat is the hereditary hereditary of the Lingam Lingam.
+
+This time he pays Rs.. At this moment the panchayat has been re -defined as a constituency for the lower and oppressed people.
+
+Thus, the post of the Panchayat Council of the file lingam is going to be the dream. However, he selects one of the lower castes of his dominance and is contesting for the post of Chairman of the Panchayat.
+
+Suitable for this, the believer of the file lingam selects Ambedkumar, the pulp pot, which works in the house.
 
 ...
 
 [Data](articles/ae84f810.json)
+
+[Extended Data](ext_articles/ae84f810.ext.json)
 
 ---
 
@@ -660,25 +702,33 @@ Namal Rajapaksa of the Sri Lanka Podujana Peramuna (SLPP) has polled 500 postal 
 
 ---
 
-### லப்பர் பந்து -  திரைப்பட விமர்சனம்
+### Luper Ball - Movie Review
 
 *2024-09-21 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194326) · `ta`
 
-நடிகர்கள் : 'அட்டக்கத்தி' தினேஷ், ஹரிஷ் கல்யாண், சஞ்சனா கிருஷ்ணமூர்த்தி, சுவாசிகா விஜய், பால சரவணன், ஜென்சன் திவாகர், டி எஸ் கே மற்றும் பலர்
+"Luper Ball" movie review summary: Local cricket-themed film starring Attakathi Dinesh, Harish Kalyan, and Sanjana Krishnamurthy. Director Thamilarasan Pachamuttu explores themes of ego and family dynamics through cricket. Unique cinematography captures local cricket atmosphere.
 
-அதிலும் குறிப்பாக உள்ளூர் துடுப்பாட்டத்தை மையப்படுத்தி பல படங்கள் வெளியாகி வெற்றி பெற்றுள்ளன இந்நிலையில் மீண்டும் உள்ளூர் துடுப்பாட்டத்தை கதைக் களமாக கொண்டு வெளியாகி இருக்கும் திரைப்படம் தான் 'லப்பர் பந்து'. இந்த உள்ளூர் துடுப்பாட்ட பின்னணியிலான லப்பர் பந்து ரசிகர்களை கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+🟩
 
-துடுப்பாட்டத்தில் சிறந்த மட்டை வீரராகவும், ஓட்டங்களை குவிப்பதில் வல்லவராகவும் இருக்கிறார் கெத்து எனும் பூமாலை (அட்டக்கத்தி தினேஷ்).
+Actors: 'Attakathi' Dinesh, Harish Kalyan, Sanjana Krishnamurthy, Wasika Vijay, Bala Saravanan, Jenson Divakar, TSK and many others
 
-இவர் முதல் பந்தை தவிர, ஒவ்வொரு பந்தை எதிர்கொள்ளும் போதும் ஓட்டங்களை அதிரடியாக குவிக்கிறார்.
+Especially a number of films that focus on the local cricket, have been released and the local cricket is once again a film 'Lapper Ball'.. Did this local cricket backdrop attracted the fans?Or not?We will continue to see.
 
-இவர் எந்த அணியில் ஆடுகிறாரோ ...! அந்த அணிதான் வெற்றி கோப்பையை வெல்லும். ஆனால் இவர் துடுப்பாட்டம் ஆடுவது அவருடைய மனைவிக்கு சுத்தமாக பிடிக்காது.
+Ketu is the best player in the bats and is a powerful player.
 
-அதே தருணத்தில் ஓட்டத்தை குவிப்பதில் வல்லவரான கெத்துவிற்கு எதிராக அன்பு (ஹரிஷ் கல்யாண்) பந்து வீசுவதில்  நிபுணராக இருக்கிறார்.
+Apart from the first ball, he accumulates the runs as he faces each ball.
+
+Which team he is playing ...!That team will win the trophy. But his wife does not like his wife clean.
+
+At the same time, Anubha (Harish Kalyan) is an expert in bowling against Kethu, who is capable of accumulating the run.
+
+If he bowls, the opponents will be struggling to take the runs. Stumble. He once fell on the bowling team against the Ketu playing team. But he was not elected as a player on the field unexpectedly.
 
 ...
 
 [Data](articles/933575cd.json)
+
+[Extended Data](ext_articles/933575cd.ext.json)
 
 ---
 
@@ -2299,29 +2349,5 @@ It was previously reported that the overall voter turnout as at 2.00 p.m. today 
 [Data](articles/633857d2.json)
 
 [Extended Data](ext_articles/633857d2.ext.json)
-
----
-
-### Sri Lanka presidential election candidates cast vote, speak to media
-
-*2024-09-21 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-candidates-cast-vote-speak-to-media-180283/) · `en`
-
-ECONOMYNEXT — Sri Lanka presidential election candidates Ranil Wickremesinghe, Sajith Premadasa and Anura Kumara Dissanayake cast their votes Saturday September 21 morning.
-
-Speaking to an Indian reporter at his local polling booth, President Wickremesinghe said he plans to develop Sri Lanka.
-
-“My hopes are for Sri Lanka, that we’ll have a developed Sri Lanka. As I said, Sri Lanka can and Sri Lanka will,” he said.
-
-Noting that this election is being framed as a contest between the old guard and a new political formation, the journalist asked Wickremesinghe to comment.
-
-“No, no, no, the old guard ran away. I’m putting a new (policy? unclear) for Sri Lanka,” Wickremesinghe responded.
-
-“I’ve already delivered. I’ve taken this country out of bankruptcy. I will now deliver Sri Lanka with a developed economy, a developed social system and a developed political system where leaders don’t run away, ” he said.
-
-...
-
-[Data](articles/a77c820d.json)
-
-[Extended Data](ext_articles/a77c820d.ext.json)
 
 ---

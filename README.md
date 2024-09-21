@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 09:57:47**
+As of **2024-09-21 10:22:34**
 
 ## Newspaper Stats
 
-*Scraped **45,041** Articles*
+*Scraped **45,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,159
 dailymirrorlk | 4,733
-adaderanalk | 5,291
+adaderanalk | 5,292
 tamilmirrorlk | 5,900
-virakesarilk | 7,210
+virakesarilk | 7,211
 adaderanasinhalalk | 7,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,041 (100.0%) of 45,041 articles have been extended.
+45,043 (100.0%) of 45,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Presidential election;Voting in Jaffna
+
+*2024-09-21 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194229) · `ta`
+
+Sri Lanka's 9th Presidential Election: 492,280 Jaffna voters cast ballots at 511 polling stations across 5 schools. Voting began at 7 AM on 21st day.
+
+🟩
+
+The presidential election to elect Sri Lanka's 9th Executive President began today (21st) at 7 am.
+
+In Jaffna, 492,280 voters have been eligible to vote and 511 polling stations have been set up.
+
+In this case, people vote in the voting centers set up in the Vaddukoddai electorate, Valliamyam Vidyalaya, Murugamoorthy Vidyalaya, Arali Saraswati College and Vaddukoddai Hindu College schools
+
+◼️
+
+[Data](articles/0152ac3e.json)
+
+[Extended Data](ext_articles/0152ac3e.ext.json)
+
+---
+
+### Top Hezbollah commander among 14 killed in Israeli strike on Beirut
+
+*2024-09-21 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102113/top-hezbollah-commander-among-14-killed-in-israeli-strike-on-beirut) · `en`
+
+Israel killed a top Hezbollah commander and other senior figures in the Lebanese movement in an airstrike on Beirut on Friday, vowing to press on with a new military campaign until it is able to secure the area around the Lebanese border.
+
+The Israeli military and a security source in Lebanon said Ibrahim Aqil had been killed with other senior members of an elite Hezbollah unit in the airstrike, sharply escalating the year-long conflict between Israel and the Iran-backed group.
+
+Hezbollah confirmed Aqil’s death in a statement just after midnight that called him “one of its top leaders,” without providing details of how he died.
+
+In a later statement summarising Aqil’s biography, Hezbollah said he was killed in Beirut’s southern suburbs of Dahiyeh in what it called a “treacherous Israeli assassination”.
+
+...
+
+[Data](articles/b8907e28.json)
+
+[Extended Data](ext_articles/b8907e28.ext.json)
+
+---
 
 ### A gazette notification with essential services essential
 
@@ -400,6 +442,28 @@ Eligible voters are required to carry one of nine accepted forms of identificati
 
 ---
 
+### 8th presidential election today
+
+*2024-09-21 06:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194220) · `ta`
+
+Sri Lanka's 8th presidential election summary: 38 candidates, 17 million eligible voters, 13,421 polling stations, 63,000 police deployed. Voting from 7am to 4pm on Saturday. Citizens urged to cooperate for fair elections.
+
+🟩
+
+The eighth presidential election to elect the ninth president of the country will be held on Saturday (21). With 38 people contesting this time, 17, 140,354 are eligible to vote. The Elections Commission has urged all citizens to cooperate with the election of independently and fairly.
+
+With 13421 voting centers nationwide, about 63 thousand policemen will be deployed for security activities.. The Armed Forces are also ready for security. Two hundred and 25 thousand public officials are on duty for election work.
+
+Voting boxes and documents for all electoral constituencies were handed over yesterday morning. In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3151 voting centers in the Colombo Election District.
+
+...
+
+[Data](articles/44cda695.json)
+
+[Extended Data](ext_articles/44cda695.ext.json)
+
+---
+
 ### Selecting the 9th Executive President election today
 
 *2024-09-21 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201249) · `si`
@@ -451,6 +515,32 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/a6fc905c.json)
 
 [Extended Data](ext_articles/a6fc905c.ext.json)
+
+---
+
+### History: Sri Lanka's first presidential election- 1982 Veerakesari ...
+
+*2024-09-21 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194103) · `ta`
+
+Sri Lanka's 1st presidential election 1982: J.R. Jayewardene re-elected as president. Multi-party competition. Strong police presence during voting. Weerakesari magazine coverage.
+
+🟩
+
+Who is the winner in the multi -competition field?Who is the new President elected by the people?Sri Lanka's 9th presidential election will be held nationwide on Saturday (21st).
+
+Voting has been carried out amidst the strong security of the police who are on duty throughout the country.
+
+Today, the country, which is a political turning point, faced Sri Lanka's first presidential election on October 20, 1982.
+
+On the front page of the Weerakesari magazine published in Attikathi, the news was published on the topic "Cooperate in the election today: go and vote for the time - the Election Commissioner Request."
+
+Also, here are the photos and some news published on the country's first presidential election on October 20, 1982, on October 20, 1982.
+
+◼️
+
+[Data](articles/5314e0e9.json)
+
+[Extended Data](ext_articles/5314e0e9.ext.json)
 
 ---
 
@@ -539,28 +629,6 @@ Armed forces are involved in identified areas that threaten national security. S
 [Data](articles/72a7692e.json)
 
 [Extended Data](ext_articles/72a7692e.ext.json)
-
----
-
-### 8th presidential election today
-
-*2024-09-21 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194220) · `ta`
-
-Sri Lanka's 8th presidential election summary: 38 candidates, 17 million eligible voters, 13,421 polling stations, 63,000 police deployed. Voting from 7am to 4pm on Saturday. Citizens urged to cooperate for fair elections.
-
-🟩
-
-The eighth presidential election to elect the ninth president of the country will be held on Saturday (21). With 38 people contesting this time, 17, 140,354 are eligible to vote. The Elections Commission has urged all citizens to cooperate with the election of independently and fairly.
-
-With 13421 voting centers nationwide, about 63 thousand policemen will be deployed for security activities.. The Armed Forces are also ready for security. Two hundred and 25 thousand public officials are on duty for election work.
-
-Voting boxes and documents for all electoral constituencies were handed over yesterday morning. In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3151 voting centers in the Colombo Election District.
-
-...
-
-[Data](articles/44cda695.json)
-
-[Extended Data](ext_articles/44cda695.ext.json)
 
 ---
 
@@ -2207,81 +2275,5 @@ The university was temporarily closed from 6.00 pm on the 12th following a clash
 [Data](articles/1152f911.json)
 
 [Extended Data](ext_articles/1152f911.ext.json)
-
----
-
-### STF arrested for supporting the murder of Midamigama
-
-*2024-09-20 15:31:54* · [`adalk`](https://www.ada.lk/breaking_news/මිදිගම-ඝාතනයට-අධාර-අනුබල-දුන්-දෙදෙනෙකු-එස්-ටී-එෆ්--අත්අඩංගුවට/11-412046) · `si`
-
-STF arrests 2 for heroin, murder support. 38yo, 30yo men held. Heroin found, suspects taken in. Investigation ongoing.
-
-🟩
-
-Police Special Task Force says that 2,500 milligrams of heroin and two persons with a three-wheeler have been arrested in connection with the fish movement of the fish campaign at the Gidigama Gavigapana Bridge yesterday.
-
-The 38 and 30-year-old residents of the Pushparavya Vavuniya Taborator's motorbike group of the Police Special Task Force of the Vidigama Police Division was arrested in the Vidigama Police Division and Hatigaha areas in the Vidigama Police Division.
-
-One of these has been given lodges to staying in the shooters and the other suspect has been transported from a three-wheeler.
-
-Two strangers have come to a motorbike and have been shot dead by a 38-year-old dwelling in the shooting, police said.
-
-The two suspects have been submitted to the Midigama Police for further investigations.
-
-◼️
-
-[Data](articles/592071a4.json)
-
-[Extended Data](ext_articles/592071a4.ext.json)
-
----
-
-### Colombo Plan boosts Sri Lanka Ports staff capacity
-
-*2024-09-20 15:29:00* · [`economynextcom`](https://economynext.com/colombo-plan-boosts-sri-lanka-ports-staff-capacity-180181/) · `en`
-
-ECONOMYNEXT – The Colombo Plan, a regional inter-governmental organization with 28 countries is helping build capacity at Sri Lanka Ports Authority through a three-year maritime advisory program (MAP).
-
-The program aims to help Sri Lanka meet complex maritime challenges and focuses on enhancing maritime safety, security, and connectivity with an aim to foster collaboration and knowledge exchange.
-
-“This project aims to enhance SLPA’s human resource capabilities through professional training in alignment with global standards and best practices,” the Colombo Plan said.
-
-“This three-year project consists of several key activities, including port study-exchanges, capacity building initiatives, and the facilitation of international maritime expert advisory visits to SLPA.”
-
-The MAP program has funding support from the US Department of State’s Bureau of South and Central Asian Affairs via the US Embassy in Colombo.
-
-...
-
-[Data](articles/aa1b4253.json)
-
-[Extended Data](ext_articles/aa1b4253.ext.json)
-
----
-
-### Attorney General's notice on Ravi Seneviratne and Shani Abeysekera
-
-*2024-09-20 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201236) · `si`
-
-Attorney General informs Supreme Court about CID investigation into Ravi Seneviratne and Shani Abeysekera. Case related to former DIG Palitha Siriwardena's complaint. Two petitioners' arrests pending.
-
-🟩
-
-The Attorney General also informed the Supreme Court today that the Criminal Investigation Department (CID) for the investigation into the investigation into the incident.
-
-The notice was made when the fundamental rights petitions were called for a complaint made by former DIG Palitha Siriwardena.
-
-These petitions were called before the three-member Supreme Court Judge of the three-member Supreme Court Bedule, Assered Surware, Achala Windsu and Mahinda Samayawardena.
-
-The Deputy Solicitor General appearing on behalf of the Attorney General said that the Criminal Investigations Department has asked the Attorney General.
-
-Accordingly, these investigations are still in the primary phase and that the two petitioners have not taken a decision on the arrest.
-
-However, he also informed the court if the two petitioners have been revealed to the arrest.
-
-◼️
-
-[Data](articles/d2775693.json)
-
-[Extended Data](ext_articles/d2775693.ext.json)
 
 ---

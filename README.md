@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 23:22:47**
+As of **2024-09-21 23:38:21**
 
 ## Newspaper Stats
 
-*Scraped **45,155** Articles*
+*Scraped **45,156** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 440
+bbccomsinhala | 441
 colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,734
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,743
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,155 (100.0%) of 45,155 articles have been extended.
+45,156 (100.0%) of 45,156 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1580,6 +1580,32 @@ Accordingly, the transportation of 1713 counting centers has already begun at pr
 
 ---
 
+### Isolated people on the Delft Island: Balled box taken from the sea and brought the ballot box
+
+*2024-09-21 15:49:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c148nmmx1vko) · `si`
+
+Delft Island residents struggle with isolation, limited resources, and transportation issues. Only 5,000 remain due to difficulties. No roads, schools, or hospitals available.
+
+🟩
+
+Isolated people on the Delft Island: Balled box taken from the sea and brought the ballot box
+
+Battle boxes that came to the sea to the residents of Delft Island to use the votes were brought to Jaffna today (September 21).
+
+Currently live around 5,000 people on Delft Island. The people told the BBC Sinhala service that many residents left the island due to transportation and other difficulties.
+
+This island is one bus with no road number. There is no fuel station. Transportation prices have gone up due to transport difficulties.
+
+In the island, the kingdoms of the Delft Island said we were not enough to have a school and hospital.
+
+◼️
+
+[Data](articles/e6ba9518.json)
+
+[Extended Data](ext_articles/e6ba9518.ext.json)
+
+---
+
 ### Elections are peaceful - crying law
 
 *2024-09-21 15:39:04* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණය-සාමකාමීයි---අවශ්‍ය-වුවහොත්-ඇඳිරි-නීතිය-දානවා/11-412054) · `si`
@@ -2309,31 +2335,5 @@ The EU's election monitoring team, in particular, has been visiting and engaged 
 [Data](articles/3187b768.json)
 
 [Extended Data](ext_articles/3187b768.ext.json)
-
----
-
-### Sanjeewa's cell inspection to an emergency
-
-*2024-09-21 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201257) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sanjeewa's cell inspection: STF officers accused of organized crime at Harazerry Prison. Sanjeewa allegedly destroyed Manjeewa's modern smartphone. Device seized by STF, location unknown.
-
-🟩
-
-Special Task Force (STF) officers have been investigated as an organized criminal at the bus Harazerry Prison.
-
-Sanjeewa had been destroyed by Manjeewa and destroyed a modern cell phone he hidden.
-
-The device has taken the device by the Special Task Force personnel and has not been found in the phone.
-
-◼️
-
-[Data](articles/9ac7545b.json)
-
-[Extended Data](ext_articles/9ac7545b.ext.json)
 
 ---

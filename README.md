@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 18:57:31**
+As of **2024-09-21 19:07:58**
 
 ## Newspaper Stats
 
-*Scraped **45,116** Articles*
+*Scraped **45,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,734
 dailyftlk | 3,017
-adalk | 4,167
+adalk | 4,168
 dailymirrorlk | 4,733
 adaderanalk | 5,302
 tamilmirrorlk | 5,914
 virakesarilk | 7,226
-adaderanasinhalalk | 7,734
+adaderanasinhalalk | 7,735
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,116 (100.0%) of 45,116 articles have been extended.
+45,118 (100.0%) of 45,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Sept. 23 Special Holiday
+
+*2024-09-21 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201274) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Sept 23 declared special holiday. Secretary Ministry Home Affairs Provincial Councils Local Government informs Pradeep Yasaratne."
+
+🟩
+
+September 23 has been declared as a special holiday.
+
+Secretary, Ministry of Home Affairs, Provincial Councils, Provincial Councils and Local Government informs Pradeep Yasaratne
+
+◼️
+
+[Data](articles/db770d15.json)
+
+[Extended Data](ext_articles/db770d15.ext.json)
+
+---
 
 ### Police statement on security
 
@@ -165,6 +189,30 @@ Namal Rajapaksa said his votes after the election.
 [Data](articles/ad385691.json)
 
 [Extended Data](ext_articles/ad385691.ext.json)
+
+---
+
+### Telephone Numbers of Telephone Numbers of the Presidential Election
+
+*2024-09-21 17:35:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිවරණයට-අදාළ-හදීසි-දැනුම්-දීම්-සිදු-කිරීමට-පොලීසියෙන්-දුරකථන-අංක/11-412057) · `si`
+
+Here's a 200-character summary:
+
+
+
+Presidential election-related phone numbers: Police spokespersons mention possible notification numbers, but details unclear.
+
+🟩
+
+Police Media Spokesperson DIG Talkaweera said that if any information was informed in relation to the presidential election, police spokesman Nihal Talduuwa said.
+
+The telephone numbers could be notified, the police spokesman said.
+
+◼️
+
+[Data](articles/08129e36.json)
+
+[Extended Data](ext_articles/08129e36.ext.json)
 
 ---
 
@@ -2293,55 +2341,5 @@ Armed forces are involved in identified areas that threaten national security. S
 [Data](articles/72a7692e.json)
 
 [Extended Data](ext_articles/72a7692e.ext.json)
-
----
-
-### "Parthiban Dileepa! Dileepan is a sacrificial torch !!"Opening of the documentary gallery with the theme
-
-*2024-09-21 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194219) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Dileepan's sacrificial torch ignites history. Documentary opens in Nallur, featuring heroes, ex-militants. Political leaders, civil society attend. Torch lit from Dileepan's main dubbing, marking his legacy."
-
-🟩
-
-The sacrificial torch of Dileepan has taken the history of Dileepan to the future generation, and his history is "Parthiban Dileepan!The documentary with the theme of the theme was opened on Friday (20).
-
-The Sacrifice Deepam Dileepan Memorial in Nallur was opened at 6.30 pm on Friday (20) at 6.30 pm with the participation of Heroes and former militants.
-
-The sacrificial torch began with the flowering of Dileepan's main dubbing, and the historical documentary was launched by the heroes of the heroes.
-
-The parents of the heroes, political leaders, civil society and civilians were present.
-
-◼️
-
-[Data](articles/1b52be85.json)
-
-[Extended Data](ext_articles/1b52be85.ext.json)
-
----
-
-### 9th presidential election today
-
-*2024-09-21 02:37:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-ஆவது-ஜனாதிபதித்-தேர்தல்-இன்று/175-344072) · `ta`
-
-Presidential election today: Election Commission prepares fair process, urges voter participation; police ensure security measures in place.
-
-🟩
-
-The Election Commission has announced that all arrangements are being prepared to end the presidential election in justice and independently.
-
-The Election Commission has also urged all voters to fulfill their democratic duty.
-
-At the same time, the police department said that proper security arrangements will be implemented during the voting time and its subsequent period.. (A)
-
-◼️
-
-[Data](articles/700c1ee4.json)
-
-[Extended Data](ext_articles/700c1ee4.ext.json)
 
 ---

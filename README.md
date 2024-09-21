@@ -1,36 +1,152 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 01:57:01**
+As of **2024-09-22 02:07:54**
 
 ## Newspaper Stats
 
-*Scraped **45,177** Articles*
+*Scraped **45,194** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 441
-colombotelegraphcom | 452
+colombotelegraphcom | 453
 islandlk | 2,656
 economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,171
 dailymirrorlk | 4,733
-adaderanalk | 5,316
-tamilmirrorlk | 5,927
-virakesarilk | 7,235
-adaderanasinhalalk | 7,747
+adaderanalk | 5,317
+tamilmirrorlk | 5,932
+virakesarilk | 7,241
+adaderanasinhalalk | 7,751
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,177 (100.0%) of 45,177 articles have been extended.
+45,190 (100.0%) of 45,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Vanni official postal voting results
+
+*2024-09-22 01:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201290) · `si`
+
+Sajith Premadasa wins Vanni District postal vote with 4,899 votes.
+
+🟩
+
+The official postal voting outcome of the Vanni District has been released and Sajith Premadasa receives 4,899 votes.
+
+◼️
+
+[Data](articles/3b2fc96d.json)
+
+[Extended Data](ext_articles/3b2fc96d.ext.json)
+
+---
+
+### Sajith leads Vanni District postal votes
+
+*2024-09-22 01:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102139/sajith-leads-vanni-district-postal-votes) · `en`
+
+The postal vote result of the Vanni District in the 2024 Presidential Election has been released, with opposition leader Sajith Premadasa coming up top.
+
+Premadasa has received the highest number of postal votes in the district with a total of 4,899 votes (38.38%).
+
+Independent candidate President Ranil Wickremesinghe (4,257) has received the second highest number of votes (33.35%) followed by National People’s Power (NPP) candidate Anura Kumara Dissanayake who has polled 2,092.
+
+Meanwhile, Tamil common candidate P. Ariyanethiran has polled 1,260 while K.K. Piyadasa has obtained 113 postal votes in the Vanni District.
+
+◼️
+
+[Data](articles/ee5ffc30.json)
+
+[Extended Data](ext_articles/ee5ffc30.ext.json)
+
+---
+
+### Vanni District: Postal Voting
+
+*2024-09-22 01:45:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344121) · `ta`
+
+Here's a summary of "Vanni District: Postal Voting" in approximately 200 characters:
+
+
+
+Vanni District postal voting system implemented during Sri Lanka's civil war. Allows citizens to cast ballots from remote areas without risking travel. Ensures democratic participation despite conflict. Challenges included logistical hurdles and security concerns.
+
+🟩
+
+◼️
+
+[Data](articles/c772896c.json)
+
+[Extended Data](ext_articles/c772896c.ext.json)
+
+---
+
+### Hambantota District: Postal Voting
+
+*2024-09-22 01:38:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாந்தோட்டை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344120) · `ta`
+
+Here's a summary of "Hambantota District: Postal Voting" in approximately 200 characters:
+
+
+
+Hambantota District postal voting system overview:
+
+- Implemented for local elections
+
+- Allows citizens to cast ballots from home
+
+- Ensures accessibility for remote areas
+
+- Requires voter registration and ID verification
+
+- Ballots mailed to registered voters
+
+- Completed votes returned via post
+
+- Results tabulated after election day
+
+
+
+This summary provides a concise overview of the key aspects of the Hambantota District's postal voting system, highlighting its purpose, implementation details, and process.
+
+🟩
+
+◼️
+
+[Data](articles/eb8e2260.json)
+
+[Extended Data](ext_articles/eb8e2260.ext.json)
+
+---
+
+### Trincomalee District: Postal Voting
+
+*2024-09-22 01:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344119) · `ta`
+
+Here's a summary of "Trincomalee District: Postal Voting" in approximately 200 characters:
+
+
+
+Trincomalee District postal voting system overview. Ensures fair election process for remote areas. Secure ballot collection and counting methods implemented. Voter registration and verification procedures in place.
+
+🟩
+
+◼️
+
+[Data](articles/4fbd3db9.json)
+
+[Extended Data](ext_articles/4fbd3db9.ext.json)
+
+---
 
 ### Anura Kumara tops Galle District postal votes
 
@@ -48,23 +164,87 @@ Independent candidate President Ranil Wickremesinghe has obtained 7,226 postal v
 
 ---
 
+### Moneragala District: Postal Voting
+
+*2024-09-22 01:25:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344118) · `ta`
+
+Here's a summary of Moneragala District: Postal Voting in approximately 200 characters:
+
+
+
+Moneragala District conducts postal voting for elections. Eligible voters receive ballot papers by post. They mark choices and return ballots via mail. This system allows remote participation in local polls.
+
+🟩
+
+◼️
+
+[Data](articles/0998eb0f.json)
+
+[Extended Data](ext_articles/0998eb0f.ext.json)
+
+---
+
+### Trincomalee Official Postal Vote
+
+*2024-09-22 01:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201289) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Trincomalee District postal vote results: Anura Kumara Dissanayake receives 5,480 votes."
+
+🟩
+
+The official postal voting outcome of the Trincomalee District has been released and Anura Kumara Dissanayake returns 5,480 votes.
+
+◼️
+
+[Data](articles/053e1ce0.json)
+
+[Extended Data](ext_articles/053e1ce0.ext.json)
+
+---
+
 ### Trincomalee District postal vote results released
 
 *2024-09-22 01:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102137/trincomalee-district-postal-vote-results-released) · `en`
 
-The postal vote result of the Galle district in 2024 Presidential Election has been released by the Election Commission.
+The postal vote result of the Galle district in 2024 Presidential Election has been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake once again topping the list.
 
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 5,480 votes.
+Dissanayake has received a total of 5,480 postal votes, which is 37.89%.
 
-Samagi Jana Sandhanaya candidate Sajith Premadasa (4,537) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 3,830.
+Samagi Jana Sandhanaya candidate Sajith Premadasa (4,537) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 3,830 postal votes.
 
-Meanwhile, Tamil common candidate P. Ariyanethiran has polled 431 while Sri Lanka Podujana Peramuna (SLPP) candidate Namal Rajapaksa has obtained 129 votes.
+Meanwhile, Tamil common candidate P. Ariyanethiran has polled 431 while Sri Lanka Podujana Peramuna (SLPP) candidate Namal Rajapaksa has obtained 129 postal votes.
 
 ◼️
 
 [Data](articles/a1a5ca54.json)
 
 [Extended Data](ext_articles/a1a5ca54.ext.json)
+
+---
+
+### Galle official postal voting results
+
+*2024-09-22 01:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201288) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Galle district postal voting results: Anura Kumara Dissanayake wins with 25,892 votes."
+
+🟩
+
+The official postal voting outcome of the Galle District has been released and Anura Kumara Dissanayake returns to 25,892 votes.
+
+◼️
+
+[Data](articles/3eccff9e.json)
+
+[Extended Data](ext_articles/3eccff9e.ext.json)
 
 ---
 
@@ -85,6 +265,48 @@ Meanwhile, Sri Lanka Podujana Peramuna (SLPP) candidate Namal Rajapaksa has poll
 [Data](articles/efa49788.json)
 
 [Extended Data](ext_articles/efa49788.ext.json)
+
+---
+
+### Moneragala Official Postal Vote
+
+*2024-09-22 01:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201287) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Anura Kumara Dissanayake received 14,050 postal votes in Moneragala district."
+
+🟩
+
+Anura Kumara Dissanayake has returned 14,050 votes in the Moneragala district.
+
+◼️
+
+[Data](articles/3056f34b.json)
+
+[Extended Data](ext_articles/3056f34b.ext.json)
+
+---
+
+### Polonnaruwa District: Postal Voting
+
+*2024-09-22 01:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலன்னறுவை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344117) · `ta`
+
+Here's a summary of "Polonnaruwa District: Postal Voting" in approximately 200 characters:
+
+
+
+Polonnaruwa District conducts postal voting for elections. Eligible voters receive ballot papers by post. They mark choices and return ballots via mail. This system allows remote participation in local polls.
+
+🟩
+
+◼️
+
+[Data](articles/c35bc74a.json)
+
+[Extended Data](ext_articles/c35bc74a.ext.json)
 
 ---
 
@@ -170,6 +392,26 @@ The official postal voting outcome of the Polonnaruwa District has been released
 
 ---
 
+### Travel at the curfew - the main announcement made by the police
+
+*2024-09-22 00:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194335) · `ta`
+
+Curfew restrictions: No permits issued for travel. Essential/emergency services exempt. Public may use duties as valid reason for movement.
+
+🟩
+
+The police will not issue a curfew permit to travel during the period of curfew.
+
+In addition, the general public can use their duty as a curfew, while traveling for essential services and emergency services, the police media unit said.
+
+◼️
+
+[Data](articles/81ffe9fe.json)
+
+[Extended Data](ext_articles/81ffe9fe.ext.json)
+
+---
+
 ### Curfew Law: Police Special Notice
 
 *2024-09-22 00:36:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-சட்டம்-பொலிஸ்-விசேட-அறிவிப்பு/175-344116) · `ta`
@@ -194,6 +436,74 @@ During this period, the curfew will not be distributed through police stations. 
 
 ---
 
+### Chaw Championship under 17 years old: Sri Lanka's worst defeat to Bhutan
+
+*2024-09-22 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194337) · `ta`
+
+Sri Lanka's U-17 football team suffered a 5-1 loss to Bhutan in the South Asian Championship. Critics blame poor training and coach Aruna Sampath. Young Sri Lankan players struggled against Bhutan's dominant performance.
+
+🟩
+
+Sri Lanka lost to Bhutan at the under -17 South Asian Football Championship B team at the Sanglimitang Stadium in Bhutan's capital Timbu on Saturday night.
+
+Bhutan won the match by 5 - 1 in the upting match.
+
+The reason for this failure is that the players are not properly trained. Football critics have stated that team instructor Aruna Sampath should take responsibility for this.
+
+Young Sri Lankan players did not play as an entire item on YouTube.
+
+In the 14th minute of the match, Karma Yeesay Tabke hit the ball with his head and put a stupid goal in the presence of Bhutan.
+
+Sayon Lama inserted Bhutan's 2nd goal as it was within 5 minutes of the break.
+
+Bhutan, who dominated the match after the break, scored 3 more goals.
+
+In the 57th minute, Sismi Topten Dorjee, Dinley Yesar in the 78th minute, and Tundin Fantsho in the 83rd minute scored goals on behalf of Bhutan.
+
+In the 65th minute of Sri Lanka, Mohammed Zayed Mohammed Ibam scored a comfort goal.
+
+◼️
+
+[Data](articles/7442cf81.json)
+
+[Extended Data](ext_articles/7442cf81.ext.json)
+
+---
+
+### Poultry Paddy Chelladurai - Film Review
+
+*2024-09-22 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194322) · `ta`
+
+"Poultry Paddy Chelladurai" film review summary:
+
+
+
+Seanu Ramaswamy directs actors Egan, Yogi Babu, Brigita Saga, Satya Devi, Leo Sivakumar. Story follows soldier family struggles, sibling rivalry, and personal growth. Director fails to convey emotional depth, but newcomers shine. Cinematography and music provide comfort. Overall mixed reception due to predictable plot and underdeveloped themes.
+
+🟩
+
+Actors: Egan, Yogi Babu, Brigita Saga, Satya Devi, Leo Sivakumar, Bawa Chelladurai, Kutty Tiger Dinesh and many others.
+
+The film was directed by Seanu Ramaswamy, the winner of the national award -winning creator Seenu Ramaswamy.. Did the film impress all the fans?Or not?We will continue to see.
+
+The Indian Army (Riaz) and his wife (Aishwarya Dutta) have a male child at the age of 11, and the female child at an early age.
+
+The husband goes to the training camp to become an agent of a life insurance company, who wants to spend the leisure time available for her husband to work in her life.
+
+At the event where one person sings the movie song. He faints to his voice.
+
+After the children went to school.. The singer is looking for the house where the wife of the soldier.
+
+Marriage occurs in the past relationship for both. To inform her husband of the neighbors who work in Amy.. They both escape from there to visit both hands and hands.
+
+...
+
+[Data](articles/f8dc358b.json)
+
+[Extended Data](ext_articles/f8dc358b.ext.json)
+
+---
+
 ### Sri Lanka Police announcement on curfew passes
 
 *2024-09-22 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102133/sri-lanka-police-announcement-on-curfew-passes-) · `en`
@@ -213,6 +523,26 @@ However, the Police Media Division had stated that although the post-election si
 [Data](articles/508ffc55.json)
 
 [Extended Data](ext_articles/508ffc55.ext.json)
+
+---
+
+### டெஸ்ட் மீள்வருகையில் ரிஷாப் பான்ட் சதம் குவித்து இந்திய விக்கெட் காப்பாளருக்கான சாதனையை சமன் செய்தார்
+
+*2024-09-22 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194336) · `ta`
+
+இந்தியாவுக்கும் பங்களாதேஷுக்கும் இடையில் சென்னை, சேப்பாக்கம் எம். ஏ. சிதம்பரம் விளையாட்டரங்கில் நடைபெற்றுவரும் முதலாவது டெஸ்ட் கிரிக்கெட் போட்டியில் ரிஷாப் பான்ட் தனது 6ஆவது சதத்தைக் குவித்து இந்தியாவின் முதல் நிலை விக்கெட்  காப்பாளர் என்பதை நிரூபித்தார்.
+
+கிட்டத்தட்ட இரண்டு வருடங்களுக்கு பின்னர் டெஸ்ட் கிரிக்கெட்டில் மீள் பிரவேசம் செய்த ரிஷாப் பான்ட் 6ஆவது சதம் குவித்து அதிக சதங்கள் குவித்த இந்திய விக்கெட் காப்பாளருக்கான சாதனையை சமப்படுத்தினார்.
+
+விக்கெட் காப்பாளராக எம். எஸ். தோனி குவித்த 6 டெஸ்ட் சதங்கள் என்ற சாதனையையே பான்ட்  சமப்படுத்தினார்.
+
+போட்டியின் 3ஆம் நாளான இன்று காலை தனது 2ஆவது இன்னிங்ஸை 3 விக்கெட் இழப்புக்கு 83 ஓட்டங்களிலிருந்து தொடர்ந்த இந்தியா 4 விக்கெட்களை இழந்து 287 ஓட்டங்கள் பெற்றிருந்தபோது டிக்ளயார்ட்  செய்து பங்களாதேஷுக்கு 515 ஓட்டங்களை வெற்றி இலக்காக நிர்ணயித்தது.
+
+இந்தியாவின் இரண்டாவது இன்னிங்ஸில் 109 ஓட்டங்களைப் பெற்ற ரிஷாப் பான்ட் 4ஆவது விக்கெட்டில் ஷுப்மான் கில்லுடன் 167 ஓட்டங்களைப் பகிர்ந்தார்.
+
+...
+
+[Data](articles/3a25f247.json)
 
 ---
 
@@ -239,6 +569,26 @@ The Police Headquarters has not used his duty card as a license to travel for es
 [Data](articles/a3de78e0.json)
 
 [Extended Data](ext_articles/a3de78e0.ext.json)
+
+---
+
+### நந்தன் - திரைப்பட விமர்சனம்
+
+*2024-09-22 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194334) · `ta`
+
+நடிகர்கள் : சசிகுமார், பாலாஜி சக்திவேல், ஸ்ருதி பெரியசாமி, சமுத்திரக்கனி மற்றும் பலர்.
+
+'கத்துக்குட்டி', 'உடன்பிறப்பே' ஆகிய படங்களை இயக்கிய இயக்குநர் இரா. சரவணன் இயக்கத்தில் உருவாகி இருக்கும் இந்தியா போன்ற ஜனநாயக நாட்டின் நடைபெறும் தேர்தல் அரசியல் தொடர்பான திரைப்படம் 'நந்தன்'. சசிகுமார் வித்தியாசமான வேடத்தில் நடித்திருக்கும் இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+தமிழகத்தில் உள்ள வணங்கான்குடி எனும் ஊரக உள்ளாட்சி பகுதியில் ஊராட்சி மன்றத்திற்கான தேர்தல் நடைபெறுகிறது.
+
+இதற்கான வேட்பு மனு தாக்கல் தொடர்பான ஆலோசனை கூட்டத்துடன் கதை தொடங்குகிறது. இந்த ஆலோசனை கூட்டத்தில் இந்த ஊராட்சிக்கு பரம்பரை பரம்பரையாக கோப்பு லிங்கம் என்பவர் தான் தலைவர் பதவிக்கு போட்டியிடுகிறார்.
+
+இந்த முறையும் அவர் தலைவர் பதவிக்கான ஏலத்தில் பங்கு பற்றி ஊராட்சிக்கு 20 இலட்சம் ரூபாயை செலுத்தி, தலைவர் பதவியை பெறுவதற்கான முயற்சியில் வெற்றி பெறுகிறார். இந்த தருணத்தில் அந்த ஊராட்சி தாழ்த்தப்பட்ட மற்றும் ஒடுக்கப்பட்ட மக்களுக்கான தொகுதி என மறு வரையறை செய்யப்பட்டு அறிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/ae84f810.json)
 
 ---
 
@@ -307,6 +657,28 @@ Namal Rajapaksa of the Sri Lanka Podujana Peramuna (SLPP) has polled 500 postal 
 [Data](articles/cb1a7342.json)
 
 [Extended Data](ext_articles/cb1a7342.ext.json)
+
+---
+
+### லப்பர் பந்து -  திரைப்பட விமர்சனம்
+
+*2024-09-21 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194326) · `ta`
+
+நடிகர்கள் : 'அட்டக்கத்தி' தினேஷ், ஹரிஷ் கல்யாண், சஞ்சனா கிருஷ்ணமூர்த்தி, சுவாசிகா விஜய், பால சரவணன், ஜென்சன் திவாகர், டி எஸ் கே மற்றும் பலர்
+
+அதிலும் குறிப்பாக உள்ளூர் துடுப்பாட்டத்தை மையப்படுத்தி பல படங்கள் வெளியாகி வெற்றி பெற்றுள்ளன இந்நிலையில் மீண்டும் உள்ளூர் துடுப்பாட்டத்தை கதைக் களமாக கொண்டு வெளியாகி இருக்கும் திரைப்படம் தான் 'லப்பர் பந்து'. இந்த உள்ளூர் துடுப்பாட்ட பின்னணியிலான லப்பர் பந்து ரசிகர்களை கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+துடுப்பாட்டத்தில் சிறந்த மட்டை வீரராகவும், ஓட்டங்களை குவிப்பதில் வல்லவராகவும் இருக்கிறார் கெத்து எனும் பூமாலை (அட்டக்கத்தி தினேஷ்).
+
+இவர் முதல் பந்தை தவிர, ஒவ்வொரு பந்தை எதிர்கொள்ளும் போதும் ஓட்டங்களை அதிரடியாக குவிக்கிறார்.
+
+இவர் எந்த அணியில் ஆடுகிறாரோ ...! அந்த அணிதான் வெற்றி கோப்பையை வெல்லும். ஆனால் இவர் துடுப்பாட்டம் ஆடுவது அவருடைய மனைவிக்கு சுத்தமாக பிடிக்காது.
+
+அதே தருணத்தில் ஓட்டத்தை குவிப்பதில் வல்லவரான கெத்துவிற்கு எதிராக அன்பு (ஹரிஷ் கல்யாண்) பந்து வீசுவதில்  நிபுணராக இருக்கிறார்.
+
+...
+
+[Data](articles/933575cd.json)
 
 ---
 
@@ -1951,361 +2323,5 @@ Noting that this election is being framed as a contest between the old guard and
 [Data](articles/a77c820d.json)
 
 [Extended Data](ext_articles/a77c820d.ext.json)
-
----
-
-### Did you vote in the pen?
-
-*2024-09-21 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201265) · `si`
-
-Elections Commission announces pencils instead of pens for presidential voting. Recommends using carbon pens but EPL advises against them. Confusion over voting tools.
-
-🟩
-
-The Elections Commission (Elections) has been informed of a special announcement that the pencil has been used instead of the pen in order to mark the Presidential election.
-
-According to the statement, it is also advised to use carbon pen.
-
-However, the Elections Commission (EPL) has informed the Elections for the peninsula instead of carbon pen to vote.
-
-◼️
-
-[Data](articles/beeb29e2.json)
-
-[Extended Data](ext_articles/beeb29e2.ext.json)
-
----
-
-### Sri Lanka EC validates pencil-marked ballot paper
-
-*2024-09-21 15:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-validates-pencil-marked-ballot-paper-180290/) · `en`
-
-ECONOMYNEXT – Ballot papers marked with pencil will be valid and accepted in Sri Lanka’s Presidential poll, the Election Commission (EC) said after complaints over some polling stations using pencils instead of carbon-pen, the EC said in a statement on Saturday.
-
-“Carbon pens have been provided to all polling stations to mark ballot papers. However, the Election Commission has received complaints of pencils being used to mark ballot papers in some polling stations as in the past,” the EC said in a statement issued around 1500 hours.
-
-“With this regard, the Commission has already advised the relevant polling stations to use carbon pens.”
-
-“The Election Commission, however, would like to make voters aware that no ballot paper marked with pencils instead of carbon pens will be invalidated and not to have any doubts on this.” (Colombo/September 21/2024)
-
-◼️
-
-[Data](articles/aed3e470.json)
-
-[Extended Data](ext_articles/aed3e470.ext.json)
-
----
-
-### 2024 Presidential Election End
-
-*2024-09-21 15:49:29* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජනාධිපතිවරණ-ඡන්ද-විමසීම-අවසන්/11-412055) · `si`
-
-2024 Presidential Election concluded. EPL announced voting day as 21st. Counting process underway at 1,713 centers. 60,000 officials deployed for vote tabulation.
-
-🟩
-
-The election for the Presidential Election 2024 ended a few moments ago.
-
-The Elections Council (EPL) said that the election was commissioned to today (21st).
-
-Accordingly, the transportation of 1713 counting centers has already begun at present. The Commissioner General of Elections Saman Sri Ratnayake said that 60,000 officers have been deployed for counting.
-
-◼️
-
-[Data](articles/97749e42.json)
-
-[Extended Data](ext_articles/97749e42.ext.json)
-
----
-
-### Isolated people on the Delft Island: Balled box taken from the sea and brought the ballot box
-
-*2024-09-21 15:49:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c148nmmx1vko) · `si`
-
-Delft Island residents struggle with isolation, limited resources, and transportation issues. Only 5,000 remain due to difficulties. No roads, schools, or hospitals available.
-
-🟩
-
-Isolated people on the Delft Island: Balled box taken from the sea and brought the ballot box
-
-Battle boxes that came to the sea to the residents of Delft Island to use the votes were brought to Jaffna today (September 21).
-
-Currently live around 5,000 people on Delft Island. The people told the BBC Sinhala service that many residents left the island due to transportation and other difficulties.
-
-This island is one bus with no road number. There is no fuel station. Transportation prices have gone up due to transport difficulties.
-
-In the island, the kingdoms of the Delft Island said we were not enough to have a school and hospital.
-
-◼️
-
-[Data](articles/e6ba9518.json)
-
-[Extended Data](ext_articles/e6ba9518.ext.json)
-
----
-
-### Elections are peaceful - crying law
-
-*2024-09-21 15:39:04* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණය-සාමකාමීයි---අවශ්‍ය-වුවහොත්-ඇඳිරි-නීතිය-දානවා/11-412054) · `si`
-
-Elections peaceful: Curfews imposed to ensure safety. Security measures effective. Police and armed forces praised. No tolerance for violence. Maximum power used to maintain order.
-
-🟩
-
-The Voting for the Presidential Election 2024 is peaceful.
-
-He said curfews to impose a curfew at some point.
-
-"The security measures are going well on the country, the police and the armed forces. And this vote is very peaceful. I thank all the police officers and the public.
-
-We will not allow any violence. We use it by using the maximum power. If we put curfew, we will put the curry law and operates so hard. "
-
-◼️
-
-[Data](articles/24d43dda.json)
-
-[Extended Data](ext_articles/24d43dda.ext.json)
-
----
-
-### The death of the police officer at the polling station
-
-*2024-09-21 15:23:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையத்தில்-பொலிஸ்-அதிகாரி-மரணம்/175-344088) · `ta`
-
-A police officer died suddenly at a polling station in Polonnaruwa. The officer was rushed to hospital but didn't survive. Investigations are ongoing led by Senior Superintendent of Police Nishan de Silva.
-
-🟩
-
-Pulastipura police said that the police officer who was on duty at the polling station was admitted to the Polonnaruwa General Hospital after a sudden illness.
-
-This was the case while on duty at the polling station of the Pulastipura Vijitha Primary School, Polonnaruwa.
-
-Police Sergeant 53419, HM. A Pulasipura police officer who is conducting investigations into the matter said Ratnapala was the police officer during our investigation.
-
-Pulasipura police are conducting further investigations on the advice of Senior Superintendent of Police, Mr. Nishan de Silva, the Polonnaruwa Senior Superintendent of Police.
-
-◼️
-
-[Data](articles/6080bd1d.json)
-
-[Extended Data](ext_articles/6080bd1d.ext.json)
-
----
-
-### Presidential Election: Voter turnout as at 2pm
-
-*2024-09-21 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102120/presidential-election-voter-turnout-as-at-2pm) · `en`
-
-The district-level voter turnout percentages for the 2024 Presidential Election as at 2.00 p.m. today have been reported with several districts already seeing a turnout of over 60 percent.
-
-Meanwhile, it is reported that the overall voter turnout as at 2.00 p.m. today has exceeded 60 percent.
-
-Accordingly, the voter turnout percentages of several districts as at 2.00 p.m. today (21) are as follows:
-
-Voting for the presidential election commenced at 7.00 a.m. this morning at 13,421 polling stations across the island and will continue until 4.00 p.m.
-
-◼️
-
-[Data](articles/20c97c24.json)
-
-[Extended Data](ext_articles/20c97c24.ext.json)
-
----
-
-### Risk of flooding;Order to exit people in two cities in Japan
-
-*2024-09-21 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194277) · `ta`
-
-Heavy rain forecast prompts evacuation orders for 30,000 in central Japan. 18,000 in Vajima and 12,000 in Susu advised to seek shelter in Ishikawa Province. High warning issued for heavy rains across multiple regions. Water levels exceed shores in 12 rivers. Area still recovering from January earthquake.
-
-🟩
-
-Weather forecasts have warned that heavy rains in Japan will cause flooding. As a result, 30,000 people in two cities in Central Japan have been ordered to leave.
-
-Accordingly, about 18,000 people in Vajima and 12,000 people in Susu have been advised to seek asylum in Ishikawa Province in Honshu Island.
-
-The Department of Meteorology has issued a high warning of heavy rains in many provinces in Japan.
-
-Japan's public broadcasting company NHK reports that the water level of 12 rivers has crossed the shore.
-
-It is noteworthy that the area is currently recovering from the 7.5 magnitude earthquake on the New Year.
-
-◼️
-
-[Data](articles/b3a53443.json)
-
-[Extended Data](ext_articles/b3a53443.ext.json)
-
----
-
-### Percentage of voting by 2 districts in several districts
-
-*2024-09-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201264) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Today (21), election percentages for several districts will be displayed. The data shows voting results from multiple areas."
-
-🟩
-
-The percentage of elections in several districts will be shown today (21).
-
-◼️
-
-[Data](articles/838a61cb.json)
-
-[Extended Data](ext_articles/838a61cb.ext.json)
-
----
-
-### The curfew will be issued if needed;Train Ales
-
-*2024-09-21 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194278) · `ta`
-
-Curfew may be implemented if unrest occurs. Public Security Minister appeals for calm during peaceful presidential election.
-
-🟩
-
-Public Security Minister Thon Alas told journalists today (21) that the curfew would be imposed and curfew would be tightened if the violence erupted.
-
-“The presidential election is being held quietly. I appeal to the public and political party leaders to maintain this situation.. We have done everything we can to ensure the safety of the nation during the presidential election. ”
-
-◼️
-
-[Data](articles/1f072eff.json)
-
-[Extended Data](ext_articles/1f072eff.ext.json)
-
----
-
-### The voting results before 12 midnight
-
-*2024-09-21 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201263) · `si`
-
-Saman Sri Ratnayake announced presidential election results before midnight.
-
-🟩
-
-The Commissioner General of Elections Saman Sri Ratnayake said that the Presidential election results were issued today before 12 midnight.
-
-◼️
-
-[Data](articles/85c7288b.json)
-
-[Extended Data](ext_articles/85c7288b.ext.json)
-
----
-
-### Explainer: Sri Lanka’s key political risks after presidential election
-
-*2024-09-21 14:25:00* · [`economynextcom`](https://economynext.com/explainer-sri-lankas-key-political-risks-after-presidential-election-180287/) · `en`
-
-ECONOMYNEXT – Sri Lanka is in the process of electing its ninth president poll for the next five years among a record 38 candidates as the island nation is looking to come out of unprecedented bankruptcy declared in 2022.
-
-The election comes two years after President Ranil Wickremesinghe was elected as the 8th leader of the country through the parliament in an unprecedented manner after his predecessor Gotabaya Rajapaksa fled the country fearing for his life in July 2022 amid mass protests across the country following an economic crisis.
-
-Wickremesinghe, since then, had to implement a raft of hard economic reforms committed to the International Monetary Fund (IMF) including tax hikes and new laws to ensure the economic recovery under an IMF programme.
-
-...
-
-[Data](articles/c16f1497.json)
-
-[Extended Data](ext_articles/c16f1497.ext.json)
-
----
-
-### Who is wrong with the loss of voting for several villages?
-
-*2024-09-21 13:43:22* · [`adalk`](https://www.ada.lk/breaking_news/ගම්-කිහිපයකටම-ඡන්දය-අහිමි-කිරීමේ-වරද-කාගෙද-/11-412053) · `si`
-
-Voting issues: Many villagers unable to cast ballots due to incorrect ID numbers on voting slips despite correct printouts. Complaints filed with Election Commission and Human Rights Commission.
-
-🟩
-
-A large number of people who had been operating at the Madagama electorate in the Madagama electorate had to vote without votes.
-
-Several voters in Madampagama and around Madampagama and around Madamagama and around Madampagama were held today.
-
-They said they had incorporated the identity cards number of their votes and their votes were incorrect, but that the recline was correct, but the people were not allowed to vote.
-
-The people who were subjected to this injustice have been subjected to the Elections Commission and the Human Rights Commission
-
-Although these votes were printed correctly, the identity card numbers were mistaken.
-
-◼️
-
-[Data](articles/451772fa.json)
-
-[Extended Data](ext_articles/451772fa.ext.json)
-
----
-
-### Voting on the floor: Many have not climbed
-
-*2024-09-21 13:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாடியில்-வாக்களிப்பு-பலரும்-ஏறாமல்-விட்டனர்/76-344087) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Voting challenges: Polling station at tea factory's top floor caused inconvenience for many, especially elderly unable to climb stairs.
-
-🟩
-
-Those who had to vote at the polling station were facing great inconveniences by the polling station set up at the tea factory.
-
-As the polling station was set up on the top floor of the tea factory, the old age of those who were unable to climb the stairs faced great difficulties.
-
-◼️
-
-[Data](articles/0cb2a832.json)
-
-[Extended Data](ext_articles/0cb2a832.ext.json)
-
----
-
-### Trouble for the young man who tears the ballot
-
-*2024-09-21 13:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டை-கிழித்த-இளைஞனுக்கு-சிக்கல்/175-344086) · `ta`
-
-Young voter tears ballot during Sri Lanka presidential election. Officials investigating first-time voter's actions. Incident occurred at Jaffna school polling station.
-
-🟩
-
-There is an incident where a youth who went to vote. The Jaffna Nayanmarkattu Maheshwari Vidyalaya is held.
-
-As the presidential election takes place, the youth has torn the ballot by the referendum officials.
-
-Jaffna Elections Department officials are conducting investigations to the person.
-
-Investigations have revealed that this is the first time the youth has voted in the election.
-
-◼️
-
-[Data](articles/018e5ffa.json)
-
-[Extended Data](ext_articles/018e5ffa.ext.json)
-
----
-
-### Presidential Election 2024: Voter turnout as at 12 noon
-
-*2024-09-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102119/presidential-election-2024-voter-turnout-as-at-12-noon) · `en`
-
-The district-level voter turnout percentages for the 2024 Presidential Election as at 12 noon today have been reported with several districts already seeing a turnout of over 40 percent.
-
-Meanwhile, it is reported that the overall voter turnout as at 12 noon today has exceeded 45 percent.
-
-Accordingly, the voter turnout percentages of several districts as at 12.00 noon today (21) are as follows:
-
-Voting for the presidential election commenced at 7.00 a.m. this morning at 13,421 polling stations across the island and will continue until 4.00 p.m.
-
-◼️
-
-[Data](articles/38cbbe10.json)
-
-[Extended Data](ext_articles/38cbbe10.ext.json)
 
 ---

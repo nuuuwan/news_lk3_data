@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 16:54:49**
+As of **2024-09-21 17:07:46**
 
 ## Newspaper Stats
 
-*Scraped **45,095** Articles*
+*Scraped **45,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,734
 dailyftlk | 3,017
 adalk | 4,165
 dailymirrorlk | 4,733
-adaderanalk | 5,299
+adaderanalk | 5,300
 tamilmirrorlk | 5,911
 virakesarilk | 7,219
-adaderanasinhalalk | 7,728
+adaderanasinhalalk | 7,729
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,095 (100.0%) of 45,095 articles have been extended.
+45,095 (100.0%) of 45,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Presidential Election results expected before midnight
+
+*2024-09-21 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102122/presidential-election-results-expected-before-midnight-) · `en`
+
+The Commissioner General of Elections Saman Sri Ratnayake says that the first results of the 2024 presidential election, which commenced today (21), will be released before 12.00 midnight.
+
+Speaking to the media, Ratnayake noted that the counting of votes across all centers nationwide is expected to begin between 08.00 p.m. and 09.00 p.m. today.
+
+He further clarified that the vote counting in each polling station will commence only after all the respective ballot boxes have been delivered to the counting centers.
+
+Meanwhile, the Elections Commissioner General mentioned that this year’s presidential election has seen a significant number of postal voters, with 712,318 registered for postal voting and that all except 6,200 registered postal voters had casted their votes.
+
+Furthermore, he stated that the counting of postal votes will begin at 429 designated counting centers across the island after 04.00 p.m.
+
+◼️
+
+[Data](articles/793f300b.json)
+
+---
+
+### සජිත් ඡන්දය ප්‍රකාශ කළ අයුරු
+
+*2024-09-21 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201268) · `si`
+
+සමගි ජන බලවේගය ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා රාජගිරිය කොටුවේගොඩ විවේකාරාම පුරාණ විහාරස්ථානයේ ස්ථාපිත ඡන්ද මධ්‍යස්ථානයේදී සිය ඡන්දය භාවිත කළේය.
+
+ප්‍රජාතන්ත්‍රවාදය ආරක්ෂා කරමින් සාමයෙන්, මිත්‍රශීලීත්වයෙන් සහ එකමුතුකමින් කටයුතු කිරීම සැමගේම යුතුකම සහ වගකීම බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙහිදී පැවසීය.
+
+"ප්‍රජාතන්ත්‍රවාදය ජයග්‍රහණය කරවමින් සාමයෙන්, මිත්‍රශීලිත්වයෙන් ප්‍රජාතන්ත්‍රවාදීව මේ මැතිවරණය කටයුතු ක්‍රියාත්මක කිරීම අප සැමගේම වගකීමක් හා යුතුකමයි".
+
+◼️
+
+[Data](articles/e8722bc6.json)
+
+---
 
 ### Renil voted
 
@@ -2219,41 +2255,5 @@ In 2023, the government of Interim President Ranil Wickremesinghe secured a $2.9
 [Data](articles/5ee2fe21.json)
 
 [Extended Data](ext_articles/5ee2fe21.ext.json)
-
----
-
-### 2024-09-20 (Friday)
-
-### Global dark clouds could be gathering; stabilisation of economy must be top priority of Presidential candidates
-
-*2024-09-20 23:57:29* · [`dailyftlk`](https://www.ft.lk/columns/Global-dark-clouds-could-be-gathering-stabilisation-of-economy-must-be-top-priority-of-Presidential-candidates/4-766968) · `en`
-
-They need to make a careful decision on 21 September when they cast their votes as to who is best placed to guide the country’s destiny in the next five years – Pic by Shehan Gunasekara
-
-“It’s the economy, stupid” quote by Bill Clinton is a phrase that was coined by Jim Carville in 1992. It is often quoted from a televised quip by Carville as “It’s the economy, stupid.” Carville was a strategist in Bill Clinton’s successful 1992 US presidential election against incumbent George H.W. Bush – Wikipedia
-
-...
-
-[Data](articles/c5abe747.json)
-
-[Extended Data](ext_articles/c5abe747.ext.json)
-
----
-
-### Sri Lanka’s workers live on margins, politicians still want their votes
-
-*2024-09-20 23:54:47* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-workers-live-on-margins-politicians-still-want-their-votes/14-766967) · `en`
-
-AP: Whoever Sri Lanka’s next president is, Muthuthevarkittan Manohari isn’t expecting much to change in her daily struggle to feed the four children and elderly mother with whom she lives in a dilapidated room in a tea plantation.
-
-Both leading candidates in Saturday’s presidential election are promising to give land to the country’s hundreds of thousands of plantation workers, but Manohari says she’s heard it all before. Sri Lanka’s plantation workers are a long-marginalised group who frequently live in dire poverty, but they can swing elections by voting as a bloc.
-
-Mahohari and her family are descended from Indian indentured labourers who were brought in by the British during colonial rule to work on plantations that grew first coffee, and later tea and rubber. Those crops are still Sri Lanka’s leading foreign exchange earners.
-
-...
-
-[Data](articles/4ca0822e.json)
-
-[Extended Data](ext_articles/4ca0822e.ext.json)
 
 ---

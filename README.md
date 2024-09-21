@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 11:22:50**
+As of **2024-09-21 11:38:25**
 
 ## Newspaper Stats
 
-*Scraped **45,059** Articles*
+*Scraped **45,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,60 @@ adalk | 4,160
 dailymirrorlk | 4,733
 adaderanalk | 5,295
 tamilmirrorlk | 5,904
-virakesarilk | 7,216
+virakesarilk | 7,217
 adaderanasinhalalk | 7,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,056 (100.0%) of 45,059 articles have been extended.
+45,060 (100.0%) of 45,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
 
-### வவுனியாவில் வாக்களிப்பு ஆரம்பம்
+### 2024 Presidential Election Voting: Status at 10 am
+
+*2024-09-21 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/194244) · `ta`
+
+Here's a summary of the 2024 Presidential Election Voting status in 200 characters:
+
+
+
+Kalutara: 32%, Nuwara Eliya: 30%, Mullaitivu: 25%, Mannar: 29%, Gampaha: 25%
+
+🟩
+
+In the 2024 presidential polling polls, 32 percent of the voting in the Kalutara district, 30 percent of the voting in the Nuwara Eliya district, 25 percent voting in the Mullaitivu district30 percent of the voting, 29 percent of the voting in Mannar district and 25 percent of the voting in Gampaha district.
+
+◼️
+
+[Data](articles/c6410ef3.json)
+
+[Extended Data](ext_articles/c6410ef3.ext.json)
+
+---
+
+### Voting is beginning in Vavuniya
 
 *2024-09-21 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194242) · `ta`
 
-9 ஆவது  நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி தேர்தலுக்கான வாக்களிப்புக்கள் இன்று சனிக்கிழமை (21) நாடு முழுவதும் நடைபெற்று வருகிறது.
+Voting begins in Vavuniya for Sri Lanka's 9th executive presidential election. People queue early at polling stations. Election Commission monitors process, assisted by European observers.
 
-இந்நிலையில், வவுனியாவிலும் காலையிலேயே மக்கள் ஆர்வமுடன் வாக்களிப்பு நிலையங்களுக்கு சென்று ஆர்வத்துடன் வாக்களித்து வருகின்றனர்.
+🟩
 
-இதேவேளை, அனைத்து வாக்களிப்பு நிலையங்களுக்கும் வவுனியா தேர்தல் ஆணைக்குழுவினர் சென்று பார்வையிட்டு வருவதுடன், ஐரோப்பிய ஓன்றியத்தின் தேர்தல் கண்காணிப்பு குழுவினரும் கண்காணிப்பில் ஈடுபட்டு வருகின்றனர் என்பதும் குறிப்பிடத்தக்கது.
+Voting for the 9th executive presidential election is being held nationwide on Saturday (21).
+
+In the morning, people are eagerly voting in Vavuniya and going to polling stations.
+
+Meanwhile, the Vavuniya Election Commission is visiting all the polling stations and is being monitored by the European Election Monitoring Committee.
 
 ◼️
 
 [Data](articles/729e57c7.json)
+
+[Extended Data](ext_articles/729e57c7.ext.json)
 
 ---
 
@@ -86,19 +114,25 @@ The presidential election, which began at 7am this morning, will conclude at 4 p
 
 ---
 
-### வாக்குச்சீட்டை படம் எடுத்தவர் கைது
+### Arrested
 
 *2024-09-21 10:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டை-படம்-எடுத்தவர்-கைது/175-344081) · `ta`
 
-காலி மாவட்ட, மித்தியகொட பொலிஸ் பிரிவிற்குட்பட்ட தெல்வத்த சுமணராம விகாரையின் வாக்களிப்பு நிலையத்தில் இன்று (21) காலை வாக்களிப்பில் ஈடுபட்ட நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+Man arrested while voting at polling station in Sri Lanka. Retired army soldier, 44 years old, taken into custody after casting ballot. Incident occurred at Telvatta Sumanaarama Viharaya in Galle District.
 
-ஹிக்கடுவ தெல்வத்த போயகொட வீதியைச் சேர்ந்த 44 வயதுடைய ஓய்வுபெற்ற இராணுவ சிப்பாய் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-வாக்களிப்பு நிலையத்திற்கு இன்று காலை வந்த அவர், தனது வாக்குச்சீட்டை பெற்றுக்கொண்டு வாக்களித்த பின்னர், அதனை புகைப்படம் எடுக்கும் போது பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A man who was voting in the polling station of the Telvatta Sumanaarama Viharaya voting at the Galle District, Mithiyagoda Police Division has been arrested this morning.
+
+A 44 -year -old retired army soldier from Hikkaduwa Telvatta Road has been arrested.
+
+He arrived at the polling station this morning and was arrested by the police after receiving his ballot and voting.
 
 ◼️
 
 [Data](articles/36ac5400.json)
+
+[Extended Data](ext_articles/36ac5400.ext.json)
 
 ---
 
@@ -889,6 +923,8 @@ It is alarming that many middle-class Sri Lankans, the majority group, continue 
 ...
 
 [Data](articles/c9665dbe.json)
+
+[Extended Data](ext_articles/c9665dbe.ext.json)
 
 ---
 
@@ -2209,35 +2245,5 @@ The Deputy Solicitor General, representing the Attorney General, stated that the
 [Data](articles/8d427170.json)
 
 [Extended Data](ext_articles/8d427170.ext.json)
-
----
-
-### Amban Divisional Hospital is not a patient carriage, no doctor;Patients are suffering!
-
-*2024-09-20 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194194) · `ta`
-
-Amban Divisional Hospital lacks doctors and patient transport. Patients suffer due to inadequate staffing, especially at night. Emergency patients are sent to Pedro Resource Hospital. The hospital's patient carriage is unavailable, causing delays. Employees summon another hospital's patient carriage, resulting in 50-minute waits.
-
-🟩
-
-Patients have been greatly affected by the lack of a patient or doctors at the Vadamarachchi East Amban Divisional Hospital in Jaffna.
-
-Amban Divisional Hospital is the Grade Two Grade Two. Here are two doctors on duty during the day. But at night, none of the doctors do.
-
-It is customary to send an emergency patient to the Pedro Resource Hospital when the hospital is going to the hospital at night.
-
-In the meantime, 19/09/2024 Amban Divisional Hospital has taken a girl from Nagercoil area at 8:30 pm.
-
-But there is no patient's carriage of Amban Divisional Hospital. When asked where it is, it is reported that the Pedro Base Hospital has been given.
-
-In the absence of a doctor, the patient is not a cash cart.
-
-However, the employees of the Amban Divisional Hospital have summoned the Maradangani Divisional Hospital Patient Cota Cota. This has delayed up to 50 minutes.
-
-◼️
-
-[Data](articles/15768ba5.json)
-
-[Extended Data](ext_articles/15768ba5.ext.json)
 
 ---

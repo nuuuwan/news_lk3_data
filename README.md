@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 20:22:48**
+As of **2024-09-21 20:38:10**
 
 ## Newspaper Stats
 
-*Scraped **45,133** Articles*
+*Scraped **45,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,169
 dailymirrorlk | 4,733
 adaderanalk | 5,306
-tamilmirrorlk | 5,918
+tamilmirrorlk | 5,920
 virakesarilk | 7,228
 adaderanasinhalalk | 7,739
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,130 (100.0%) of 45,133 articles have been extended.
+45,135 (100.0%) of 45,135 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Watch the live broadcast below and stay tuned for the results of the 2024 Presid
 ◼️
 
 [Data](articles/cdfcad4f.json)
+
+[Extended Data](ext_articles/cdfcad4f.ext.json)
 
 ---
 
@@ -63,6 +65,28 @@ Mr. Ratnayake also announced that vote counting will take place at 1,713 designa
 ◼️
 
 [Data](articles/560f9ff6.json)
+
+[Extended Data](ext_articles/560f9ff6.ext.json)
+
+---
+
+### Security has been strengthened
+
+*2024-09-21 19:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-பலப்படுத்தப்படுள்ளது/175-344097) · `ta`
+
+Security enhanced at Bandaranaike International Airport: 200 SLAF soldiers deployed for search operations.
+
+🟩
+
+Security has been strengthened to carry out search operations at the Bandaranaike International Airport.
+
+About 200 Sri Lanka Air Force (SLAF) soldiers have been deployed at the airport.
+
+◼️
+
+[Data](articles/0188409b.json)
+
+[Extended Data](ext_articles/0188409b.ext.json)
 
 ---
 
@@ -91,6 +115,28 @@ At the same time, we are ready to close the Derana Election Resource Restoration
 [Data](articles/562467ad.json)
 
 [Extended Data](ext_articles/562467ad.ext.json)
+
+---
+
+### Murder
+
+*2024-09-21 19:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-சட்டத்தரணி-வெட்டிக்-கொலை/175-344096) · `ta`
+
+Lawyer murdered in home invasion. Suspect from Matara cuts victim's neck. Police investigate, arrest suspect after attempted suicide.
+
+🟩
+
+A 35 -year -old leading lawyer has been hacked to death by a driver of a house in her house in Bengirivatta, police said.
+
+The suspect from Matara has cut off the victim's neck and escaped.
+
+Mirihana police have launched an investigation into the arrest of the suspect and have arrested the suspect who tried to commit suicide by jumping into the Bendra River.
+
+◼️
+
+[Data](articles/7cda9d63.json)
+
+[Extended Data](ext_articles/7cda9d63.ext.json)
 
 ---
 
@@ -283,6 +329,8 @@ Additionally, the Police Media Spokesman warned that for the next week, all publ
 ...
 
 [Data](articles/a7fb4a5c.json)
+
+[Extended Data](ext_articles/a7fb4a5c.ext.json)
 
 ---
 
@@ -2289,55 +2337,5 @@ The Commission has issued a complaint with the Commission to ensure transparency
 [Data](articles/a833f2a4.json)
 
 [Extended Data](ext_articles/a833f2a4.ext.json)
-
----
-
-### Information that Namal's family left the country
-
-*2024-09-21 07:38:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-குடும்பம்-நாட்டை-விட்டு-வெளியேறியதாக-தகவல்/175-344076) · `ta`
-
-Namal Rajapaksa's family members, including his mother-in-law and children, left Sri Lanka via Katunayake airport. They flew to Dubai on Emirates Airlines, reportedly paying $52 per person. The group includes relatives of Sri Lanka's presidential candidate.
-
-🟩
-
-Namal Rajapaksa's mother -in -law, two children, two children, and a relative of the Sri Lankan PA's presidential candidate, have left Sri Lanka.
-
-A Katunayake airport official said that the Katunayake airport has gone through the Silk Route terminal of the Katunayake airport yesterday.
-
-They traveled to Dubai through the EK-651 flight of Emirates Airlines at around 10.05 am yesterday.
-
-It is reported that the Silk Route terminal located at the Katunayake airport has also paid $ 52 each for the airline.
-
-The official added that they may have planned to go to Dubai, which is harvesting.. Remble
-
-◼️
-
-[Data](articles/36aae0d0.json)
-
-[Extended Data](ext_articles/36aae0d0.ext.json)
-
----
-
-### Kalladi Pachiyamman Temple is burnt ashes
-
-*2024-09-21 07:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்லடி-பேச்சியம்மன்-ஆலயம்-தீபற்றி-எரிந்து-சாம்பல்/175-344075) · `ta`
-
-Batticaloa Kalladi Pachiyamman temple fire contained quickly by firefighters. Thousands gathered to witness and pay respects after blaze.
-
-🟩
-
-The fire broke out on Friday night in the Batticaloa Kalladi Pachiyamman temple in Batticaloa.
-
-The lamp of the Pachiyamman temple, located in front of the Kalladi Sivananda College, the main road in Batticaloa, is in front of the Kalladi Sivananda College.
-
-The area, which saw the fire, began to burn brightly, but the firefighters united and brought the fire under control in a few hours.
-
-Thousands of people from the area have invaded the temple and have been surrounded by thousands of people who have heard about the fire as the statue of the mother was placed in the early hours of the statue and was praised by the people of the area.
-
-◼️
-
-[Data](articles/addfca2e.json)
-
-[Extended Data](ext_articles/addfca2e.ext.json)
 
 ---

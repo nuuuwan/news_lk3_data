@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 09:38:45**
+As of **2024-09-21 09:57:47**
 
 ## Newspaper Stats
 
-*Scraped **45,040** Articles*
+*Scraped **45,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,291
 tamilmirrorlk | 5,900
 virakesarilk | 7,210
-adaderanasinhalalk | 7,716
+adaderanasinhalalk | 7,717
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,040 (100.0%) of 45,040 articles have been extended.
+45,041 (100.0%) of 45,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### A gazette notification with essential services essential
+
+*2024-09-21 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201255) · `si`
+
+President issues gazette notification declaring electricity, petroleum supply as essential services. Gazette signed by Secretary to the President EMSB Ekanayake on 20th.
+
+🟩
+
+The President has taken steps to issue a special gazette notification by converting several services into essential services.
+
+Accordingly, all services relating to electricity supply and supply of petroleum products and delivery are essential services to the supply or distribution.
+
+Gazette notification that made these services essential services to the Secretary to the President EMSB. Mr. Ekanayake has released yesterday (20).
+
+◼️
+
+[Data](articles/a6430b4e.json)
+
+[Extended Data](ext_articles/a6430b4e.ext.json)
+
+---
 
 ### Special bus service for Presidential Election
 
@@ -2261,33 +2283,5 @@ However, he also informed the court if the two petitioners have been revealed to
 [Data](articles/d2775693.json)
 
 [Extended Data](ext_articles/d2775693.ext.json)
-
----
-
-### More information about the murder of Dehiwala
-
-*2024-09-20 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201234) · `si`
-
-Dehiwala murder: 45-year-old councilor killed near playground. Suspected link to drug dealer. Two shooters on motorcycle targeted another motorcycle. Case connected to Kohuwala murder.
-
-🟩
-
-A man was shot dead in Dehiwala and Nedimala this morning (20).
-
-The victim was suspected to be a close relative of a drug dealer in the area.
-
-The shooting was carried out near the Dehiwala and Nedimala playground at Dehiwala.
-
-Two people who came in a motorcycle were targeting another motorcycle.
-
-The victim was one of the 45-year-old Dehiwala Municipal Council Anura Kospea.
-
-The murderer in the Badovita area and yesterday (19) were observed that there was a connection between the murders and the murder held in Kohuwala.
-
-◼️
-
-[Data](articles/582bb838.json)
-
-[Extended Data](ext_articles/582bb838.ext.json)
 
 ---

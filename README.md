@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 19:56:06**
+As of **2024-09-21 20:08:14**
 
 ## Newspaper Stats
 
-*Scraped **45,129** Articles*
+*Scraped **45,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,303
 tamilmirrorlk | 5,918
 virakesarilk | 7,228
-adaderanasinhalalk | 7,738
+adaderanasinhalalk | 7,739
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,129 (100.0%) of 45,129 articles have been extended.
+45,129 (100.0%) of 45,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### අද දෙරණ ජනාධිපතිවරණ ප්‍රතිඵල සජීවි විකාශය ඇරඹෙයි
+
+*2024-09-21 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201278) · `si`
+
+අද දෙරණ ජනාධිපතිවරණ ප්‍රතිඵල සජීවි විකාශය මේ වනවිට ආරම්භ කර තිබේ.
+
+ඒ අනුව 2024 ජනාධිපතිවරණයේ සියලු තොරතුරු අවසන් නිල ඡන්ද ප්‍රතිඵලය දක්වා, එසැණින් ගෙනඒමට අද දෙරණ මාධ්‍ය ජාලය මේ වන විටත් සියලු කටයුතු සූදානම් කර තිබේ.
+
+මොහොතින් මොහොත වෙනස් වන ඡන්ද ප්‍රතිඵලයේ උණුසුම, ලොව නවීන ටෙලිවිෂන් තාක්ෂණය සමගින් ඔබ වෙත ගෙනඑන්නේ SRI LANKA DECIDES විශේෂ මැතිවරණ විකාශය ඔස්සේ ය.
+
+ඒ අනුව අති නවීනතම තාක්ෂණය සහ ග්‍රැෆික් සජීවීකරණ ක්‍රමවේද උපයෝගී කරගනිමින් අංග සම්පූර්ණ ජාත්‍යන්තර ප්‍රමිතියේ ප්‍රතිඵල විකාශයක අත්දැකීම දකුණු ආසියාවේ විශාලතම ප්‍රවෘත්ති මැදිරියේ සිට ඔබගේ ටෙලිවිෂන් තිරය මත දිගහැරෙන්නේ විදෙස් විශේෂඥ කණ්ඩායම් රැසකගේ තාක්ෂණික සහායද ඇතිවය.
+
+ඒ අනුව ටෙලිවිෂනයෙන් පමණක් නොනැවතී  FM දෙරණ, අද දෙරණ වෙඩ් අඩවිය, අද දෙරණ කෙටි පණිවුඩ සේවාව ඔස්සේ භාෂා ත්‍රිත්වයෙන්ම සෑම ජංගම දුරකථන ජාලයක් මගින්ම නිල ඡන්ද ප්‍රතිඵල ඔබේ ඡංගම දුරකථනය වෙත යොමු කෙරෙයි.
+
+ඒ අතරම Facebook, YouTube සහ X අවකාශය ඔස්සේද අද දෙරණ මැතිවරණ ප්‍රතිඵල විකාශය ඔබ වෙත සමීප කිරීමට අප සූදානම්.
+
+◼️
+
+[Data](articles/562467ad.json)
+
+---
 
 ### Police reveal events on election day
 
@@ -2353,23 +2375,5 @@ Taking the vote is banned to take a mobile phone to the polling station.
 [Data](articles/894d10db.json)
 
 [Extended Data](ext_articles/894d10db.ext.json)
-
----
-
-### Voting starts in Sri Lanka’s Presidential poll with record candidates
-
-*2024-09-21 07:19:00* · [`economynextcom`](https://economynext.com/voting-starts-in-sri-lankas-presidential-poll-with-record-candidates-180270/) · `en`
-
-ECONOMYNEXT – Voting in Sri Lanka’s presidential poll started on Saturday to elect a leader for the next five years with a record 38 candidates vying for the plum post of the island nation.
-
-The voting started at 0700 hours local time (0130 GMT) and will go until 1600 hours (1030 GMT). A record 17.1 million voters are eligible to cast their votes.
-
-The new president is expected to be declared by Sunday (22) if the counting process goes smoothly, Election Commission officials have said. (Colombo/September 21/2024)
-
-◼️
-
-[Data](articles/e01a0607.json)
-
-[Extended Data](ext_articles/e01a0607.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 11:58:05**
+As of **2024-09-21 12:11:38**
 
 ## Newspaper Stats
 
-*Scraped **45,062** Articles*
+*Scraped **45,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,295
 tamilmirrorlk | 5,904
 virakesarilk | 7,217
-adaderanasinhalalk | 7,720
+adaderanasinhalalk | 7,721
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,062 (100.0%) of 45,062 articles have been extended.
+45,063 (100.0%) of 45,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Here are the percentage of votes cast in Colombo including Colombo
+
+*2024-09-21 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201260) · `si`
+
+Colombo election results summary: 200 characters limit reached. Please provide more details about the specific percentages or data points you'd like included in the summary.
+
+🟩
+
+Specifications have been published by the officers who voted in several other districts, including Colombo.
+
+◼️
+
+[Data](articles/8436e6ad.json)
+
+[Extended Data](ext_articles/8436e6ad.ext.json)
+
+---
 
 ### 2024 Presidential Election Voting: Status at 10 am
 
@@ -2215,25 +2233,5 @@ The Moneragala Police are conducting further investigations into the accident.
 [Data](articles/74ff725a.json)
 
 [Extended Data](ext_articles/74ff725a.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 305.25/306.00, bond yields steady
-
-*2024-09-20 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-305-25-306-00-bond-yields-steady-180224/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 305.25/306.00 to the US dollar on Friday, from 304.50/80 on Thursday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 01.05.2027 closed at 12.90/13.10 percent, down from 13.00/10 percent.
-
-A bond maturing on 15.02.2028 closed at 13.60/70 percent, down from 13.65/80 percent.
-
-A bond maturing on 15.06.2029 closed at 13.85/95 percent, up from 13.82/90 percent. (Colombo/Sep20/2024)
-
-◼️
-
-[Data](articles/8c1f5850.json)
-
-[Extended Data](ext_articles/8c1f5850.ext.json)
 
 ---

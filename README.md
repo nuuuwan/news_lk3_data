@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 09:22:33**
+As of **2024-09-21 09:38:45**
 
 ## Newspaper Stats
 
-*Scraped **45,036** Articles*
+*Scraped **45,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ colombotelegraphcom | 450
 islandlk | 2,656
 economynextcom | 2,729
 dailyftlk | 3,017
-adalk | 4,157
+adalk | 4,159
 dailymirrorlk | 4,733
-adaderanalk | 5,290
+adaderanalk | 5,291
 tamilmirrorlk | 5,900
 virakesarilk | 7,210
-adaderanasinhalalk | 7,715
+adaderanasinhalalk | 7,716
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,036 (100.0%) of 45,036 articles have been extended.
+45,040 (100.0%) of 45,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Special bus service for Presidential Election
+
+*2024-09-21 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102112/special-bus-service-for-presidential-election) · `en`
+
+Lanka Private Bus Owners’ Association (LPBOA) states that measures will be taken to deploy buses today (21) for people travelling to their hometown to cast votes for the presidential election.
+
+Its chairman Gemunu Wijeratne urged passengers to arrive early in the morning to ensure they can reach their destinations on time.
+
+Meanwhile, the chairman of the Sri Lanka Transport Board (SLTB) Lalith de Alwis stated that 3,300 SLTB buses will also operate today.
+
+◼️
+
+[Data](articles/8eafd943.json)
+
+[Extended Data](ext_articles/8eafd943.ext.json)
+
+---
+
+### Number of election complaints reported in the last 24 hours
+
+*2024-09-21 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201254) · `si`
+
+Election complaints surge: 5551 filed, 4929 resolved. Highest count: 336. Complaints increase from 337 previously.
+
+🟩
+
+The number of election complaints reported for the presidential election has further increased.
+
+The number of election commissioner has issued announcement in a statement that the total number of complaints has increased to 5551 complaints.
+
+Meanwhile, the number of election complaints had been reported in 337 election complaints.
+
+The highest number of complaints have been reported and 336 complaints have been reported.
+
+The Elections Commission says that 4929 complaints have been resolved.
+
+◼️
+
+[Data](articles/f9695201.json)
+
+[Extended Data](ext_articles/f9695201.ext.json)
+
+---
+
+### President launches
+
+*2024-09-21 08:53:46* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-ඇරඹෙයි/11-412049) · `si`
+
+Election voting begins at 7 AM, ends at 4 PM. Eligible voters must present valid national ID cards. Temporary IDs accepted for disabled individuals.
+
+🟩
+
+The vote on the presidential election began from 7.00 am today (21) and will vote to vote until 4:00 pm.
+
+The National Identity Card issued by the Department of Registration, the National Identity Card issued by the Department of Registration, the National Identity Card issued by the Department of Opportunity, is issued by the Department of RegistrationDuly), Elders Identity Card (Illegal Identity Card issued by the Department of Indigenous) and the Department of Registration of PersonsThe Commission informs to carry the temporary identity card issued by the Elections Commission for temporary ID or disabled persons.
+
+◼️
+
+[Data](articles/bb4370f9.json)
+
+[Extended Data](ext_articles/bb4370f9.ext.json)
+
+---
 
 ### High Security in 9 provinces
 
@@ -1368,6 +1432,26 @@ Accordingly, there is a proper program to vote for the 7th morning and has been 
 
 ---
 
+### If you take photos of the vote
+
+*2024-09-20 20:45:24* · [`adalk`](https://www.ada.lk/breaking_news/දාන-ඡන්දය-ඡායාරූප-ගත-කළොත්-වැඩ-වරදියි/11-412047) · `si`
+
+Election Commission warns against taking photos of voting process. Announces restrictions on social media usage during elections.
+
+🟩
+
+The Election Commission points out that the election stages of the election centers on the election centers tomorrow (21) and the release of votes marked by the election centers.
+
+Therefore, the Elections Commission issues announcement that all social media keeps and administrators will be informed of all social media holders and administrators to prevent them.
+
+◼️
+
+[Data](articles/a60c6fdb.json)
+
+[Extended Data](ext_articles/a60c6fdb.ext.json)
+
+---
+
 ### Top Hezbollah commander killed in Israeli strike on Beirut - reports
 
 *2024-09-20 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102105/top-hezbollah-commander-killed-in-israeli-strike-on-beirut-reports) · `en`
@@ -2205,101 +2289,5 @@ The murderer in the Badovita area and yesterday (19) were observed that there wa
 [Data](articles/582bb838.json)
 
 [Extended Data](ext_articles/582bb838.ext.json)
-
----
-
-### Authorization for the financial source for the 32 thousand home project
-
-*2024-09-20 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194184) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Sun Power Group constructs 32,000 homes in Northern Province. Funded by Australian bank. Each house costs Rs 50 lakh. Solar Park built for Housing Scheme. IMF receives Sri Lanka loan certificate. Project nearing completion."
-
-🟩
-
-The funds for the 32 thousand housing project planned to be constructed in the Northern Province have been approved.
-
-The Sun Power Group in the Northern Province has been recognized for the construction of 32 thousand homes planned to be constructed. The project will be funded by a bank -based bank in Australia. These houses will be constructed for free beneficiaries at a cost of Rs 50 lakh each.
-
-The Solar Park (Solar Park) will be constructed by the Sun Power Group, which is to be implemented by the Housing Scheme.. A complete land for this has to be released.Meanwhile, the International Monetary Fund will receive a certificate of Sri Lankan loan release. As these two activities have reached its final stage, the free housing project will be carried out.
-
-...
-
-[Data](articles/3eff8db6.json)
-
-[Extended Data](ext_articles/3eff8db6.ext.json)
-
----
-
-### Santantha Mudalige Petition to Supreme Court
-
-*2024-09-20 14:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201233) · `si`
-
-Wasantha Mudalige petitions SC against loan restructuring affecting human rights
-
-🟩
-
-The Government's decision to restructure the loans relating to international sovereign bonds to the restructuring of the debts relating to the decision of the people's fundamental human rights.
-
-The former convener of the Inter University Students Federation has presented the petition by Mr. Wasantha.
-
-As the respondents, the Minister of Finance, Secretary to the Ministry of Finance, and the Governor of the Central Bank have been named.
-
-The petitioner claims that the loans were obtained between 5 and 07 percent of the debts of the international sovereignty bonds.
-
-The petition states that the government has taken measures to reduce the percentage to 8.2% under the restructuring program.
-
-As a result, the petition has shown that US $ 16.4 billion has been increased to US $ 19.1 billion, which has increased to US $ 19.1 billion.
-
-...
-
-[Data](articles/b9580714.json)
-
-[Extended Data](ext_articles/b9580714.ext.json)
-
----
-
-### Sri Lanka prepares to vote
-
-*2024-09-20 14:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-prepares-to-vote-180166/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s election process has begun with polls stations being established in schools and other public places on Friday (20).
-
-Schools were closed islandwide as requested by the Election Commission, and will reopen on Monday (23).
-
-Voting equipment were moved to demarcated schools under Police guard.
-
-Sri Lanka will hold its ninth presidential poll on September 21 to elect the ninth executive president of the country. 17.1 million voters are eligible to cast their votes in 22 electoral districts which have 160 constituencies. (Colombo/Sep20/2024)
-
-◼️
-
-[Data](articles/e8415819.json)
-
-[Extended Data](ext_articles/e8415819.ext.json)
-
----
-
-### The death of the baby in Jaffna 12 days
-
-*2024-09-20 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194190) · `ta`
-
-Baby dies 12 days after birth at Jaffna hospital. Inquiry underway. Anatomical exam ordered.
-
-🟩
-
-A baby boy was born at the Jaffna Bodhana Hospital on the 31st of last month for couples from Kopay North.
-
-The birth of a newborn was under surveillance at the Jaffna Hospital on Thursday morning.
-
-Jaffna Bodhana Hospital Sudden Death Investigation Officer Namasivayam Premakumar held an inquiry on Thursday and ordered an anatomical examination.
-
-◼️
-
-[Data](articles/31876e52.json)
-
-[Extended Data](ext_articles/31876e52.ext.json)
 
 ---

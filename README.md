@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 15:07:34**
+As of **2024-09-21 15:22:37**
 
 ## Newspaper Stats
 
-*Scraped **45,077** Articles*
+*Scraped **45,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ dailymirrorlk | 4,733
 adaderanalk | 5,297
 tamilmirrorlk | 5,910
 virakesarilk | 7,217
-adaderanasinhalalk | 7,724
+adaderanasinhalalk | 7,725
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,077 (100.0%) of 45,077 articles have been extended.
+45,077 (100.0%) of 45,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### දිස්ත්‍රික්ක කිහිපයක දහවල් 2 වනවිට ඡන්දය ප්‍රකාශ කිරීමේ ප්‍රතිශතය
+
+*2024-09-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201264) · `si`
+
+අද (21) දහවල් 2 වනවිට දිස්ත්‍රික්ක කිහිපයක ඡන්ද ප්‍රකාශ කිරීමේ ප්‍රතිශත පහතින් දැක්වෙයි.
+
+◼️
+
+[Data](articles/838a61cb.json)
+
+---
 
 ### The voting results before 12 midnight
 
@@ -2213,33 +2225,5 @@ He said that about 3,000 officers of the Police Special Task Force were deployed
 [Data](articles/dd33a294.json)
 
 [Extended Data](ext_articles/dd33a294.ext.json)
-
----
-
-### 3 people stunning work suspension
-
-*2024-09-20 21:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-பேர்-அதிரடியாக-பணி-இடைநீக்கம்/175-344067) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Headmaster, superintendent, and teacher suspended over exam irregularities at Anuradhapura Ratmalai Tissa College. Director of Education recommends suspension. Secretary of Education suggests re-conducting Grade 5 Scholarship Examination if question papers released. Answer sheets suspended pending final decision.
-
-🟩
-
-It is reported that a headmaster, superintendent and a teacher who served at the Anuradhapura Ratmalai Tissa College Examination at the Anuradhapura Tissa College Examination has been recommended to suspend the job.
-
-The recommendations have been made in a statement issued by the Director of Education in charge of the North Central Provincial Examinations and has been sent to the Provincial Education Secretary to recognize the implementation of the Provincial Director of Education.
-
-Meanwhile, Secretary of Education Tilaka Jayasundara said that if the question papers of the Grade 5 Scholarship Examination have been released, there are opportunities to re -conduct the exam.
-
-He said that the answer sheet has been suspended until the final resolution is followed.. Remble
-
-◼️
-
-[Data](articles/a871e5d9.json)
-
-[Extended Data](ext_articles/a871e5d9.ext.json)
 
 ---

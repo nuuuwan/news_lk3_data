@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 21:57:54**
+As of **2024-09-21 22:11:41**
 
 ## Newspaper Stats
 
-*Scraped **45,140** Articles*
+*Scraped **45,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,30 +15,62 @@ colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,734
 dailyftlk | 3,017
-adalk | 4,169
+adalk | 4,170
 dailymirrorlk | 4,733
 adaderanalk | 5,307
 tamilmirrorlk | 5,922
 virakesarilk | 7,229
-adaderanasinhalalk | 7,740
+adaderanasinhalalk | 7,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,140 (100.0%) of 45,140 articles have been extended.
+45,142 (100.0%) of 45,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
 
+### Differently imposed from 10 pm today
+
+*2024-09-21 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201280) · `si`
+
+Sri Lanka imposes curfew from 10 PM. Gazette states president orders due to unrest. Public must stay home. Essential service workers need ID. Police enforce restrictions. Violation penalties apply.
+
+🟩
+
+The humiliation has been imposed from 10 pm today (22).
+
+The gazette issued by the police stating that the president was issued by the police as at the end of the 2402.2012 to the entire country and the local water.As the drawing has been declared.
+
+Although there is a peaceful situation in the country, this humiliation has been published to safeguard the public and requests the public to spend time in their homes.
+
+During this period, identity cards issued by authorized officers in relation to the officials of the officials and authorized documents can be used as a licensed.
+
+It can be used as a license to travel to the airport and to ensure that the airport or the documents that leave the airport.
+
+In addition, they should use their duties ID or appropriate document for employees who run essential services, and should be submitted to the police.
+
+During this period, all police officers have been instructed to implement the hideous.
+
+...
+
+[Data](articles/34aa9e4d.json)
+
+[Extended Data](ext_articles/34aa9e4d.ext.json)
+
+---
+
 ### Curfew imposed islandwide
 
 *2024-09-21 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102129/curfew-imposed-islandwide) · `en`
 
-Curfew has been imposed islandwide with effect from 10.00 p.m. today (21) until 06.00 a.m. tomorrow (22).
+Curfew has been imposed islandwide with effect from 10.00 p.m. tonight (21) until 06.00 a.m. tomorrow (22).
 
-This decision has been taken by the incumbent President Ranil Wickramasinghe in view of the releasing of the results of 2024 presidential election tonight.
+This decision has been taken by the incumbent President Ranil Wickramasinghe in view of the release of the results of the 2024 Presidential Election tonight.
+
+The relevant Gazette notification has been issued by the President under the Public Security Ordinance (Chapter 40) Curfew Order under Section 16.
 
 ◼️
 
@@ -519,6 +551,24 @@ This was communicated in a special statement issued by the Ministry of Home Affa
 [Data](articles/9bb1c253.json)
 
 [Extended Data](ext_articles/9bb1c253.ext.json)
+
+---
+
+### Special public holiday will be held on Sep.23
+
+*2024-09-21 18:56:23* · [`adalk`](https://www.ada.lk/breaking_news/සැප්-23-දා-විශේෂ-රජයේ-නිවාඩු-දිනයක්-කරයි/11-412059) · `si`
+
+September 23: Special government holiday declared by Ministry of Public Administration.
+
+🟩
+
+A special government holiday has been declared on September 23. The Ministry of Public Administration has announced this special public holiday.
+
+◼️
+
+[Data](articles/a38630c9.json)
+
+[Extended Data](ext_articles/a38630c9.ext.json)
 
 ---
 
@@ -2291,45 +2341,5 @@ This gazette notification is prescribed by the President that these services pro
 [Data](articles/74de628f.json)
 
 [Extended Data](ext_articles/74de628f.ext.json)
-
----
-
-### Voting over 75 percent
-
-*2024-09-21 08:53:46* · [`adalk`](https://www.ada.lk/breaking_news/සියයට-75-ඉක්මවා-ඡන්දය-දෙයි/11-412049) · `si`
-
-Presidential election voting begins at 7 AM, ends at 4 PM. Eligible voters must present valid national ID cards. Temporary IDs accepted for disabled individuals.
-
-🟩
-
-The vote on the presidential election began from 7.00 am today (21) and will vote to vote until 4:00 pm.
-
-The National Identity Card issued by the Department of Registration, the National Identity Card issued by the Department of Registration, the National Identity Card issued by the Department of Opportunity, is issued by the Department of RegistrationDuly), Elders Identity Card (Illegal Identity Card issued by the Department of Indigenous) and the Department of Registration of PersonsThe Commission informs to carry the temporary identity card issued by the Elections Commission for temporary ID or disabled persons.
-
-◼️
-
-[Data](articles/2cc0fee5.json)
-
-[Extended Data](ext_articles/2cc0fee5.ext.json)
-
----
-
-### President launches
-
-*2024-09-21 08:53:46* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-ඇරඹෙයි/11-412049) · `si`
-
-Election voting begins at 7 AM, ends at 4 PM. Eligible voters must present valid national ID cards. Temporary IDs accepted for disabled individuals.
-
-🟩
-
-The vote on the presidential election began from 7.00 am today (21) and will vote to vote until 4:00 pm.
-
-The National Identity Card issued by the Department of Registration, the National Identity Card issued by the Department of Registration, the National Identity Card issued by the Department of Opportunity, is issued by the Department of RegistrationDuly), Elders Identity Card (Illegal Identity Card issued by the Department of Indigenous) and the Department of Registration of PersonsThe Commission informs to carry the temporary identity card issued by the Elections Commission for temporary ID or disabled persons.
-
-◼️
-
-[Data](articles/bb4370f9.json)
-
-[Extended Data](ext_articles/bb4370f9.ext.json)
 
 ---

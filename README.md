@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 01:38:27**
+As of **2024-09-22 01:57:01**
 
 ## Newspaper Stats
 
-*Scraped **45,174** Articles*
+*Scraped **45,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,171
 dailymirrorlk | 4,733
-adaderanalk | 5,313
+adaderanalk | 5,316
 tamilmirrorlk | 5,927
 virakesarilk | 7,235
 adaderanasinhalalk | 7,747
@@ -26,11 +26,67 @@ adaderanasinhalalk | 7,747
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,174 (100.0%) of 45,174 articles have been extended.
+45,177 (100.0%) of 45,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Anura Kumara tops Galle District postal votes
+
+*2024-09-22 01:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102138/anura-kumara-tops-galle-district-postal-votes) · `en`
+
+National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has received the highest number of postal votes in the Galle District.
+
+Independent candidate President Ranil Wickremesinghe has obtained 7,226 postal votes while Opposition Leader Sajith Premadasa has received 5,338 postal votes.
+
+◼️
+
+[Data](articles/f7418f32.json)
+
+[Extended Data](ext_articles/f7418f32.ext.json)
+
+---
+
+### Trincomalee District postal vote results released
+
+*2024-09-22 01:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102137/trincomalee-district-postal-vote-results-released) · `en`
+
+The postal vote result of the Galle district in 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 5,480 votes.
+
+Samagi Jana Sandhanaya candidate Sajith Premadasa (4,537) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 3,830.
+
+Meanwhile, Tamil common candidate P. Ariyanethiran has polled 431 while Sri Lanka Podujana Peramuna (SLPP) candidate Namal Rajapaksa has obtained 129 votes.
+
+◼️
+
+[Data](articles/a1a5ca54.json)
+
+[Extended Data](ext_articles/a1a5ca54.ext.json)
+
+---
+
+### Moneragala District postal vote results released
+
+*2024-09-22 01:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102136/moneragala-district-postal-vote-results-released) · `en`
+
+The postal vote result for Galle district in the 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 14,050 votes.
+
+Samagi Jana Sandhanaya candidate Sajith Premadasa (5,733) has received the second highest number of votes followed by independent candidate President Ranil Wickremesinghe who has polled 3,401 postal votes.
+
+Meanwhile, Sri Lanka Podujana Peramuna (SLPP) candidate Namal Rajapaksa has polled 470 postal votes while ‘Sarvajana Balaya’ alliance candidate Dilith Jayaweera has obtained 89.
+
+◼️
+
+[Data](articles/efa49788.json)
+
+[Extended Data](ext_articles/efa49788.ext.json)
+
+---
 
 ### Hambantota Official Postal Vote
 
@@ -2251,73 +2307,5 @@ Voting for the presidential election commenced at 7.00 a.m. this morning at 13,4
 [Data](articles/38cbbe10.json)
 
 [Extended Data](ext_articles/38cbbe10.ext.json)
-
----
-
-### Percentage of votes in several districts by 12 noon
-
-*2024-09-21 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201262) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Voter turnout percentages in various districts as of 12:00 PM today (21).
-
-🟩
-
-The percentage of the voter turnout in several districts is as follows today (21).
-
-◼️
-
-[Data](articles/d9024e6c.json)
-
-[Extended Data](ext_articles/d9024e6c.ext.json)
-
----
-
-### Woman on the road to vote
-
-*2024-09-21 13:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வாக்களிக்க-சென்ற-பெண்-வைத்திய-சாலையில்/76-344085) · `ta`
-
-A 61-year-old woman was injured while voting on Saturday. She was hit by a vehicle driven by Otto on the Maskeliya-Nallathani road. The victim was initially taken to Maskeliya Hospital before being transferred to Tikoya-Klangan Hospital for further treatment.
-
-🟩
-
-The injured woman has been admitted to the Dikoya-Klangan hospital when Otto crashed into a woman who was going to vote.
-
-The incident took place on Saturday (21) at 10.30 am on the Maskeliya-Nallathani road.
-
-Jarangani (age 61), who went to Maskeliya Kudamaskeliya area, was injured.He has been admitted to the Maskeliya Hospital and has been transferred to the Tikoya -Klangan Base Hospital for further treatment, a Maskeliya Police Station official said.
-
-◼️
-
-[Data](articles/8744d138.json)
-
-[Extended Data](ext_articles/8744d138.ext.json)
-
----
-
-### A Suspect arrested for ballot paper
-
-*2024-09-21 12:21:35* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-පත්‍රිකාව-ඉරූ-පුද්ගලයෙක්-අත්අඩංගුවට/11-412052) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Police arrest suspect found with ballot papers at voting center. Part of ballot in pocket, rest elsewhere. Investigation ongoing.
-
-🟩
-
-Police have arrested a man who was handed over to the two ballot papers at the Voting Center at the Voting Center at Warakaplowy.
-
-A part of the suspected ballot was placed in his pants pocket and the rest of the party.
-
-◼️
-
-[Data](articles/79a13c25.json)
-
-[Extended Data](ext_articles/79a13c25.ext.json)
 
 ---

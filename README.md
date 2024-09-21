@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 15:56:43**
+As of **2024-09-21 16:09:45**
 
 ## Newspaper Stats
 
-*Scraped **45,080** Articles*
+*Scraped **45,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,298
 tamilmirrorlk | 5,911
 virakesarilk | 7,217
-adaderanasinhalalk | 7,725
+adaderanasinhalalk | 7,726
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,080 (100.0%) of 45,080 articles have been extended.
+45,081 (100.0%) of 45,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Did you vote in the pen?
+
+*2024-09-21 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201265) · `si`
+
+Elections Commission announces pencils instead of pens for presidential voting. Recommends using carbon pens but EPL advises against them. Confusion over voting tools.
+
+🟩
+
+The Elections Commission (Elections) has been informed of a special announcement that the pencil has been used instead of the pen in order to mark the Presidential election.
+
+According to the statement, it is also advised to use carbon pen.
+
+However, the Elections Commission (EPL) has informed the Elections for the peninsula instead of carbon pen to vote.
+
+◼️
+
+[Data](articles/beeb29e2.json)
+
+[Extended Data](ext_articles/beeb29e2.ext.json)
+
+---
 
 ### The death of the police officer at the polling station
 
@@ -61,6 +83,8 @@ Pulasipura police are conducting further investigations on the advice of Senior 
 *2024-09-21 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102120/presidential-election-voter-turnout-as-at-2pm) · `en`
 
 The district-level voter turnout percentages for the 2024 Presidential Election as at 2.00 p.m. today have been reported with several districts already seeing a turnout of over 60 percent.
+
+Meanwhile, it is reported that the overall voter turnout as at 2.00 p.m. today has exceeded 60 percent.
 
 Accordingly, the voter turnout percentages of several districts as at 2.00 p.m. today (21) are as follows:
 
@@ -2183,37 +2207,5 @@ Permission has been granted to provide special transport facilities and many oth
 [Data](articles/bc3b7d3b.json)
 
 [Extended Data](ext_articles/bc3b7d3b.ext.json)
-
----
-
-### India scored in 2nd innings without giving a gift to Bangladesh by 308 runs
-
-*2024-09-20 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194215) · `ta`
-
-India leads Bangladesh by 308 runs after 2nd innings without giving follow-on. Ravichandran Ashwin and Ravindra Jadeja contributed significantly. Bangladesh's top scorers: Shakib Al Hasan (32), Mehidy Hasan Miraz (27). Jasprit Bumrah took 4 wickets for 50 runs.
-
-🟩
-
-Chennai, Chepakkam M. A.. In the first innings of the first Test cricket match at Chidambaram, Bangladesh was rolled out for 149 runs, but in the 2nd innings without giving a Follow One, India are leading the remainder of 7 wickets by 308 runs.
-
-Today, the second day of the competition, a total of 17 wickets were taken, but India, which continues to dominate, is expected to win tomorrow's third day.
-
-With the help of Ravichandran Ashwin and Ravindra Jadeja, India scored 376 runs in the first innings.
-
-On the second day of the match, India lost their first innings to 336 runs for the loss of 6 wickets on Friday (20).
-
-Ravichandran Ashwin and Ravindra Jadeja 86 were expected to score further runs.
-
-But Bangladesh, who started the 81st over this morning with the second new ball, hit Ravindra Jadeja in the 83rd over.
-
-Dasin Ahmad lost the trio with a new ball.
-
-Hasan Mahmud took 5 wickets for 83 runs while Dasin Ahmad took 3 wickets for 55 runs.
-
-...
-
-[Data](articles/353ea24a.json)
-
-[Extended Data](ext_articles/353ea24a.ext.json)
 
 ---

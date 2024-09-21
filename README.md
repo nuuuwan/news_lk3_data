@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 22:22:37**
+As of **2024-09-21 22:38:21**
 
 ## Newspaper Stats
 
-*Scraped **45,146** Articles*
+*Scraped **45,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,734
 dailyftlk | 3,017
-adalk | 4,170
+adalk | 4,171
 dailymirrorlk | 4,733
 adaderanalk | 5,307
 tamilmirrorlk | 5,922
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,146 (100.0%) of 45,146 articles have been extended.
+45,147 (100.0%) of 45,147 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,26 @@ What is dopamine?There is a murder at 2.22 am and what is the reason for this?Th
 [Data](articles/4f5824f8.json)
 
 [Extended Data](ext_articles/4f5824f8.ext.json)
+
+---
+
+### The dravaries will be imposed from 10 pm to 6 pm
+
+*2024-09-21 21:45:45* · [`adalk`](https://www.ada.lk/breaking_news/රෑ-10-සිට-උ​දේ-06-දක්වා-ඇඳිරිනීතිය-පනවයි/11-412060) · `si`
+
+Curfew: 10 pm to 6 pm daily. Police to strictly enforce rules starting 10 am today (21).
+
+🟩
+
+The curfew has been imposed from 10 am today (21).
+
+This period has advised the police to carry out the woods tightly.
+
+◼️
+
+[Data](articles/fc493afe.json)
+
+[Extended Data](ext_articles/fc493afe.ext.json)
 
 ---
 
@@ -2329,25 +2349,5 @@ In this case, people vote in the voting centers set up in the Vaddukoddai electo
 [Data](articles/0152ac3e.json)
 
 [Extended Data](ext_articles/0152ac3e.ext.json)
-
----
-
-### Top Hezbollah commander among 14 killed in Israeli strike on Beirut
-
-*2024-09-21 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102113/top-hezbollah-commander-among-14-killed-in-israeli-strike-on-beirut) · `en`
-
-Israel killed a top Hezbollah commander and other senior figures in the Lebanese movement in an airstrike on Beirut on Friday, vowing to press on with a new military campaign until it is able to secure the area around the Lebanese border.
-
-The Israeli military and a security source in Lebanon said Ibrahim Aqil had been killed with other senior members of an elite Hezbollah unit in the airstrike, sharply escalating the year-long conflict between Israel and the Iran-backed group.
-
-Hezbollah confirmed Aqil’s death in a statement just after midnight that called him “one of its top leaders,” without providing details of how he died.
-
-In a later statement summarising Aqil’s biography, Hezbollah said he was killed in Beirut’s southern suburbs of Dahiyeh in what it called a “treacherous Israeli assassination”.
-
-...
-
-[Data](articles/b8907e28.json)
-
-[Extended Data](ext_articles/b8907e28.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 20:38:10**
+As of **2024-09-21 20:57:09**
 
 ## Newspaper Stats
 
-*Scraped **45,135** Articles*
+*Scraped **45,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 4,169
 dailymirrorlk | 4,733
 adaderanalk | 5,306
 tamilmirrorlk | 5,920
-virakesarilk | 7,228
+virakesarilk | 7,229
 adaderanasinhalalk | 7,739
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,135 (100.0%) of 45,135 articles have been extended.
+45,136 (100.0%) of 45,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Celebrate Success in Quietly -The Presidential candidates request people
+
+*2024-09-21 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194317) · `ta`
+
+Sri Lanka presidential election peaceful, candidates urge calm celebration of democracy.
+
+🟩
+
+Presidential candidates Ranil Wickremesinghe, Anura Kumara Dissanayake, Sajith Premadasa and Namal Rajapaksa voted. Celebrate the success of success. They urged the public not to accommodate violence.
+
+The referendum for the presidential election took place today (21) from 7 am to 4 pm. A large number of people enthusiastically voted in the morning.
+
+Ranil Wickremesinghe as the Independent Presidential candidate and the first woman Maithri Wickremesinghe voted with the public at the voting center at the University of Colombo.
+
+President Ranil Wickremesinghe commented to the media after the vote, and I thank all who voted for me.I created the order for the voting. The voting would not have been placed if the instability of the day was prolonged.
+
+The election was held peacefully.Let's go toward the new journey. Act in a non -violent. I would like to thank the candidates and the Elections Commission.
+
+...
+
+[Data](articles/77295542.json)
+
+[Extended Data](ext_articles/77295542.ext.json)
+
+---
 
 ### Ada Derana’s special live broadcast of election results begins
 
@@ -2303,39 +2329,5 @@ Meanwhile, Chairman of the Ceylon Transport Board Lalith de Alwis said that 3300
 [Data](articles/31f3c97f.json)
 
 [Extended Data](ext_articles/31f3c97f.ext.json)
-
----
-
-### 2024 Presidential Election: What happened in the first few hours?
-
-*2024-09-21 07:42:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ced0nvdxp52o) · `si`
-
-Here's a summary of the key points in 200 characters:
-
-
-
-Sri Lanka's 2024 presidential election began peacefully. 39 candidates contested. 85 election law violations reported. Voter turnout at 50%. No major incidents in first few hours. Election monitors praised process so far.
-
-🟩
-
-The Presidential Electional Elections for the election of the 9th Executive President in Sri Lanka began at 7.00 am today (September 21).
-
-BBC Sinhala Regional Reporters said that the voters are coming to the polling centers at present.
-
-International and local election monitors are participating in election monitoring duties.
-
-39 candidates contesting for the presidential election, one of them died before the presidential election, but his name is mentioned in the ballot.
-
-The official ballot printed for the presidential election this year is the longest ballot.
-
-The Elections Commission announced that 85 violations of election law violations have been received by the Sri Lankan presidential election today (Sew 21).
-
-The Commission has issued a complaint with the Commission to ensure transparency and equity throughout the election process.
-
-...
-
-[Data](articles/a833f2a4.json)
-
-[Extended Data](ext_articles/a833f2a4.ext.json)
 
 ---

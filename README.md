@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 18:17:35**
+As of **2024-09-21 18:30:09**
 
 ## Newspaper Stats
 
-*Scraped **45,107** Articles*
+*Scraped **45,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,734
 dailyftlk | 3,017
 adalk | 4,165
 dailymirrorlk | 4,733
-adaderanalk | 5,301
-tamilmirrorlk | 5,912
+adaderanalk | 5,302
+tamilmirrorlk | 5,914
 virakesarilk | 7,223
 adaderanasinhalalk | 7,733
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 7,733
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,107 (100.0%) of 45,107 articles have been extended.
+45,110 (100.0%) of 45,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Voting the main candidates
+
+*2024-09-21 18:04:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதான-வேட்பாளர்கள்-வாக்களிப்பு/175-344091) · `ta`
+
+Presidential election voting began nationwide at 7 AM. Main candidates cast their votes between 7 AM and 4 PM.
+
+🟩
+
+The voting for the presidential election commenced nationwide at 7 am today (21) at 4 pm. The main candidates voted.
+
+◼️
+
+[Data](articles/095ca5dd.json)
+
+[Extended Data](ext_articles/095ca5dd.ext.json)
+
+---
+
+### Arrest
+
+*2024-09-21 17:59:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-விதியை-மீறிய-ஒருவர்-கைது/175-344090) · `ta`
+
+Man (21) arrested for distributing leaflets near polling station. Released on bail after agreeing not to distribute within 500 meters of booth. Incident occurred in Ipulkoda under Kalapitamada police division.
+
+🟩
+
+A man (21) has been arrested for illegally distributing leaflets near the polling station under the Kalapitamada police division.
+
+The arrested person is 51 years old from Ipulkoda, Kalapitamada police said.
+
+It is reported that the police arrested him and then released him on bail if he distributed leaflets in a roundabout of 500 meters to the polling booth.. Remble
+
+◼️
+
+[Data](articles/6fe8c02c.json)
+
+[Extended Data](ext_articles/6fe8c02c.ext.json)
+
+---
+
+### Did you mark your vote with pen or pencil? - EC clarifies concerns
+
+*2024-09-21 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102124/did-you-mark-your-vote-with-pen-or-pencil-ec-clarifies-concerns) · `en`
+
+The Election Commission states that it has received complaints regarding the use of pencils instead of pens at certain polling stations for the marking of votes during the 2024 Presidential Election.
+
+In response to this, the election regulatory body had issued instructions to all relevant polling centers to use carbon pens going forward, addressing concerns about the integrity of the voting process.
+
+Despite the complaints, the Election Commission has reassured that any ballot papers marked with pencils will not be invalidated.
+
+Issuing an announcement in this regard, the Election Commission clarified that all votes marked with either pen or pencil will be considered as valid.
+
+◼️
+
+[Data](articles/32de584d.json)
+
+[Extended Data](ext_articles/32de584d.ext.json)
+
+---
 
 ### What Namal said about the people after votes
 
@@ -2253,63 +2313,5 @@ Building on the success of the SMS and voice-based Sayuru service introduced in 
 [Data](articles/05848cf9.json)
 
 [Extended Data](ext_articles/05848cf9.ext.json)
-
----
-
-### SriLankan Airlines and SLCB showcase Sri Lanka to top South Indian journalists
-
-*2024-09-21 01:00:00* · [`islandlk`](http://island.lk/srilankan-airlines-and-slcb-showcase-sri-lanka-to-top-south-indian-journalists/) · `en`
-
-SriLankan Airlines, together with its the leisure arm, SriLankan Holidays, and the Sri Lanka Convention Bureau (SLCB), recently hosted a group of senior journalists from some of South India’s most prominent media outlets: Deccan Chronicle; Tourism India; Malayala Manorama; Sun Group TV; Mathrubhumi Newspaper; DT Next; and Provoke Magazine.
-
-...
-
-[Data](articles/7e81bef7.json)
-
-[Extended Data](ext_articles/7e81bef7.ext.json)
-
----
-
-### ComBank commences planting 10,000 trees in Kilinochchi and Jaffna districts
-
-*2024-09-21 00:59:00* · [`islandlk`](http://island.lk/combank-commences-planting-10000-trees-in-kilinochchi-and-jaffna-districts/) · `en`
-
-The Commercial Bank of Ceylon has embarked on a project to plant 10,000 trees in the northern districts of Jaffna and Kilinochchi as part of the Bank’s country-wide effort to promote sustainability.
-
-The trees are to be planted on 600 acres of land owned by the University of Jaffna in Kilinochchi and Jaffna, and on the sides of sections of the A9 road that runs through the Kilinochchi District, the Bank said. The project will be executed in partnership with Green Layer, a not-for-profit an environmental organisation operating in Jaffna.
-
-Dialog launches trilingual Sayuru App to support Sri Lankan fishing communities
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/6498bc7d.json)
-
-[Extended Data](ext_articles/6498bc7d.ext.json)
-
----
-
-### Banking sector counters further sustain CSE revival
-
-*2024-09-21 00:57:00* · [`islandlk`](http://island.lk/banking-sector-counters-further-sustain-cse-revival/) · `en`
-
-The stock market yesterday revived further with a high performance in banking sector counters following the announcement that bondholders have made more concessions during the latest round of negotiations in the debt restructuring process.
-
-Consequently, the present value benefit may increase from 27 percent in a July deal to 33 percent in a September deal, if the economy performs better than expected.
-
-Sri Lanka’s bondholders sought so-called macro-linked bonds where the hair cut will reduce if the economy grows faster than the IMF expects in a debt sustainability analysis.
-
-Amid those developments both indices moved up. The All Share Price Index went up by 89.7 points while S and P SL20 rose by 41.7 points.
-
-Turnover stood at Rs 1.3 billion with a crossing. The crossing was reported in HNB, which crossed 1.14 million shares to the tune of Rs 189 million; its shares traded at Rs 109.
-
-...
-
-[Data](articles/9f84feec.json)
-
-[Extended Data](ext_articles/9f84feec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 06:43:36**
+As of **2024-09-21 07:23:01**
 
 ## Newspaper Stats
 
-*Scraped **45,011** Articles*
+*Scraped **45,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,286
-tamilmirrorlk | 5,895
+tamilmirrorlk | 5,896
 virakesarilk | 7,210
 adaderanasinhalalk | 7,710
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,011 (100.0%) of 45,011 articles have been extended.
+45,012 (100.0%) of 45,012 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -327,6 +327,28 @@ The Deputy Solicitor General, representing the Attorney General, stated that the
 [Data](articles/f292d47d.json)
 
 [Extended Data](ext_articles/f292d47d.ext.json)
+
+---
+
+### The train service will be held as usual
+
+*2024-09-21 00:29:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமை-போன்று-ரயில்-சேவை-இடம்பெறும்/175-344071) · `ta`
+
+Train services normal today: Railway Department confirms usual operations despite concerns. Deputy General Manager NJ Indibollake stated measures in place for regular train schedules across all routes.
+
+🟩
+
+The Railway Department said that the train services will be held as usual today.
+
+Commenting on a media briefing held at the Government Information Department yesterday, Deputy General Manager of the Department NJ Indibollake made this statement.
+
+He said that steps have been taken to carry out train services at all religions as usual.. (A)
+
+◼️
+
+[Data](articles/fbf137c8.json)
+
+[Extended Data](ext_articles/fbf137c8.ext.json)
 
 ---
 
@@ -2313,31 +2335,5 @@ Katunayake airport reports that there are no direct flights from Sri Lanka to th
 [Data](articles/8beb68de.json)
 
 [Extended Data](ext_articles/8beb68de.ext.json)
-
----
-
-### Negotiations with private bail owners - President
-
-*2024-09-20 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194178) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Ranil Wickremesinghe announces completion of negotiations with private bail owners. Country to exit bankruptcy soon. Focus on export-based economy and agricultural modernization. Sri Lanka Youth Entrepreneurship Council gains G20 membership, launches projects with IIT Chennai and KPMG/PMI.
-
-🟩
-
-President Ranil Wickremesinghe said the negotiations with private bail owners have been completed and all negotiations on the release of the country have been successfully completed and that the country will be implemented soon with the official recognition of the country's liberation from the bankruptcy.
-
-The President made this statement at a meeting with the Sri Lanka Youth Entrepreneurship Council (COY) Executive Council held at the Presidential Office on Friday (20).
-
-The President said that it was his expectation that the country would be ahead of the export economy, and that the strategic projects needed for it have already been prepared and the main sect of agricultural modernization.
-
-...
-
-[Data](articles/c05df512.json)
-
-[Extended Data](ext_articles/c05df512.ext.json)
 
 ---

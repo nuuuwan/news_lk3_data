@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 05:22:33**
+As of **2024-09-21 05:43:41**
 
 ## Newspaper Stats
 
-*Scraped **45,009** Articles*
+*Scraped **45,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,286
-tamilmirrorlk | 5,894
+tamilmirrorlk | 5,895
 virakesarilk | 7,209
 adaderanasinhalalk | 7,710
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,009 (100.0%) of 45,009 articles have been extended.
+45,010 (100.0%) of 45,010 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,6 +74,28 @@ Accordingly, the authorities have taken steps to take the ballot, ballot boxes a
 
 ---
 
+### European Union Short Superintendents - Starting Surveillance in All Electoral constituencies - Today
+
+*2024-09-21 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194221) · `ta`
+
+EU Election Monitoring: 32 observers deployed nationwide. Focus on post-campaign activities and election processes. Aim to ensure transparency and independence in the upcoming presidential election.
+
+🟩
+
+32 women members of the European Union Election Monitoring Committee have been sent to all electoral districts of the country on Thursday (19) and their widespread surveillance has been carried out in the aftermath of the election since the end of the election.
+
+As the country's ninth presidential election is scheduled for Saturday (21), the Election Commission has issued an official invitation to the EU to carry out election monitoring as usual.
+
+The European Union, led by the European Union, European Parliamentarian, Naco Sanses Amher, was headed by a Deputy Superintendent of Elections and Nine Electoral Experts, a special committee, a group of 26 long -term monitors and a group of 32 short -term supervisors.
+
+...
+
+[Data](articles/6c8901b5.json)
+
+[Extended Data](ext_articles/6c8901b5.ext.json)
+
+---
+
 ### Security measures have been strengthened;Provide collaboration to the rules of order -request to the public
 
 *2024-09-21 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194222) · `ta`
@@ -95,28 +117,6 @@ Armed forces are involved in identified areas that threaten national security. S
 [Data](articles/72a7692e.json)
 
 [Extended Data](ext_articles/72a7692e.ext.json)
-
----
-
-### European Union Short Superintendents - Starting Surveillance in All Electoral constituencies - Today
-
-*2024-09-21 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194221) · `ta`
-
-EU Election Monitoring: 32 observers deployed nationwide. Focus on post-campaign activities and election processes. Aim to ensure transparency and independence in the upcoming presidential election.
-
-🟩
-
-32 women members of the European Union Election Monitoring Committee have been sent to all electoral districts of the country on Thursday (19) and their widespread surveillance has been carried out in the aftermath of the election since the end of the election.
-
-As the country's ninth presidential election is scheduled for Saturday (21), the Election Commission has issued an official invitation to the EU to carry out election monitoring as usual.
-
-The European Union, led by the European Union, European Parliamentarian, Naco Sanses Amher, was headed by a Deputy Superintendent of Elections and Nine Electoral Experts, a special committee, a group of 26 long -term monitors and a group of 32 short -term supervisors.
-
-...
-
-[Data](articles/6c8901b5.json)
-
-[Extended Data](ext_articles/6c8901b5.ext.json)
 
 ---
 
@@ -167,6 +167,28 @@ The parents of the heroes, political leaders, civil society and civilians were p
 [Data](articles/1b52be85.json)
 
 [Extended Data](ext_articles/1b52be85.ext.json)
+
+---
+
+### 9th presidential election today
+
+*2024-09-21 02:37:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-ஆவது-ஜனாதிபதித்-தேர்தல்-இன்று/175-344072) · `ta`
+
+Presidential election today: Election Commission prepares fair process, urges voter participation; police ensure security measures in place.
+
+🟩
+
+The Election Commission has announced that all arrangements are being prepared to end the presidential election in justice and independently.
+
+The Election Commission has also urged all voters to fulfill their democratic duty.
+
+At the same time, the police department said that proper security arrangements will be implemented during the voting time and its subsequent period.. (A)
+
+◼️
+
+[Data](articles/700c1ee4.json)
+
+[Extended Data](ext_articles/700c1ee4.ext.json)
 
 ---
 
@@ -2311,25 +2333,5 @@ Investigations have to be held once again in relation to the Year 5 scholarship 
 [Data](articles/bd4a30f5.json)
 
 [Extended Data](ext_articles/bd4a30f5.ext.json)
-
----
-
-### Decision on re-holding Grade 5 Scholarship exam after probing ‘paper leak’
-
-*2024-09-20 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102094/decision-on-re-holding-grade-5-scholarship-exam-after-probing-paper-leak) · `en`
-
-The Education Ministry says the decision on whether to hold the Grade 5 Scholarship Examination again or not will be made after the CID and the Exams Department complete their investigations into the alleged leaking of questions.
-
-The decision will be based on the findings and recommendations of the relevant investigations, according to the Secretary to the Ministry of Education Thilaka Jayasundara.
-
-Speaking at a press conference today, she stated, “Grade 5 scholarship exam commenced on September 15. Following the allegations revelation of a leaked question paper, the Examination Department initiated an investigation. Based on the initial investigation report, the Criminal Investigation Department is now conducting further inquiries.”
-
-“Accordingly, the President and the Minister have instructed to take necessary actions based on the findings of that investigation,” the Education Secretary said.
-
-...
-
-[Data](articles/0f23d49f.json)
-
-[Extended Data](ext_articles/0f23d49f.ext.json)
 
 ---

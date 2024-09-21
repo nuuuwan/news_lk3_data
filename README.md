@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 13:22:37**
+As of **2024-09-21 13:38:39**
 
 ## Newspaper Stats
 
-*Scraped **45,069** Articles*
+*Scraped **45,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,161
 dailymirrorlk | 4,733
-adaderanalk | 5,296
+adaderanalk | 5,297
 tamilmirrorlk | 5,907
 virakesarilk | 7,217
-adaderanasinhalalk | 7,722
+adaderanasinhalalk | 7,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,069 (100.0%) of 45,069 articles have been extended.
+45,071 (100.0%) of 45,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Presidential Election 2024: Voter turnout as at 12 noon
+
+*2024-09-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102119/presidential-election-2024-voter-turnout-as-at-12-noon) · `en`
+
+The district-level voter turnout percentages for the 2024 Presidential Election as at 12 noon today have been reported with several districts already seeing a turnout of over 40 percent.
+
+Accordingly, the voter turnout percentages of several districts as at 12.00 noon today (21) are as follows:
+
+Voting for the presidential election commenced at 7.00 a.m. this morning at 13,421 polling stations and will continue until 4.00 p.m.
+
+◼️
+
+[Data](articles/38cbbe10.json)
+
+[Extended Data](ext_articles/38cbbe10.ext.json)
+
+---
+
+### Percentage of votes in several districts by 12 noon
+
+*2024-09-21 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201262) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Voter turnout percentages in various districts as of 12:00 PM today (21).
+
+🟩
+
+The percentage of the voter turnout in several districts is as follows today (21).
+
+◼️
+
+[Data](articles/d9024e6c.json)
+
+[Extended Data](ext_articles/d9024e6c.ext.json)
+
+---
 
 ### "Curfew if needed"
 
@@ -2195,51 +2235,5 @@ Sri Lanka's ninth presidential election will be held on Saturday (21). The presi
 [Data](articles/fb3d7b91.json)
 
 [Extended Data](ext_articles/fb3d7b91.ext.json)
-
----
-
-### Several scholarship question paper and three Whatapps work
-
-*2024-09-20 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201244) · `si`
-
-Scholarship exam controversy: Wissa Vidyalaya banned, exam papers leaked, protests against Department of Examinations. Cut-off marks for university admissions released.
-
-🟩
-
-It is reported that the recommendations have been made to ban the Wissa Vidyalaya, which served and another teacher who worked at the Examination of Ratmalai Tissama Vidyalaya in Anuradhapura regarding the distribution of the scholarship examination.
-
-The recommendations were made by the Deputy Director of Education in charge of the Provincial Department of Examinations, and the Provincial Education Director has approved the implementation of the recommendations and has been sent to the Provincial Education Secretary.
-
-Meanwhile, the Secretary to the Ministry of Education Thilaka Jayasundara says that the exam papers have been exited the Grade 5 Scholarship Examination.
-
-At a press conference held in Colombo today, she said that the answer sheet of the examination has been temporarily suspended until the final decision has been reached.
-
-At 2,849 children, 323,7879 children appeared for the Grade 5 scholarship examination held on the 15th of September.
-
-...
-
-[Data](articles/30820f5e.json)
-
-[Extended Data](ext_articles/30820f5e.ext.json)
-
----
-
-### SLPP suspends party membership of three MPs
-
-*2024-09-20 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102103/slpp-suspends-party-membership-of-three-mps) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) has suspended the party membership of three Members of Parliament.
-
-Accordingly, the party membership of Anuradhapura District MP S.M. Chandrasena, Ratnapura District MP Pavithra Wanniarachchi and Kalutara District MP Rohitha Abeygunawardena have been suspended.
-
-Their party membership has been suspended for going against the SLPP Politburo’s decision to support the party’s presidential candidate, which was taken at its meeting held on July 29.
-
-The statement further says that the three MPs’ membership in SLPP’s All-Island Working Committee, the Executive Committee and Politburo have also been suspended.
-
-◼️
-
-[Data](articles/0c59cb87.json)
-
-[Extended Data](ext_articles/0c59cb87.ext.json)
 
 ---

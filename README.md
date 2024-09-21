@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 02:37:58**
+As of **2024-09-22 03:08:01**
 
 ## Newspaper Stats
 
-*Scraped **45,196** Articles*
+*Scraped **45,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ colombotelegraphcom | 453
 islandlk | 2,656
 economynextcom | 2,741
 dailyftlk | 3,017
-adalk | 4,172
+adalk | 4,173
 dailymirrorlk | 4,733
-adaderanalk | 5,318
-tamilmirrorlk | 5,932
+adaderanalk | 5,321
+tamilmirrorlk | 5,935
 virakesarilk | 7,241
-adaderanasinhalalk | 7,751
+adaderanasinhalalk | 7,753
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,196 (100.0%) of 45,196 articles have been extended.
+45,200 (100.0%) of 45,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Anura wins Nuwara Eliya District postal votes
+
+*2024-09-22 02:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102143/anura-wins-nuwara-eliya-district-postal-votes) · `en`
+
+The postal vote result of the Nuwara Eliya District in the 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 8,946 votes.
+
+◼️
+
+[Data](articles/e3d3fe7e.json)
+
+---
+
+### Matara District postal vote results
+
+*2024-09-22 02:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102142/matara-district-postal-vote-results) · `en`
+
+The postal vote result of the Matara District in the 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 19,712 votes.
+
+◼️
+
+[Data](articles/171bb2b0.json)
+
+---
+
+### மாத்தளை மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+
+*2024-09-22 02:34:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344124) · `ta`
+
+◼️
+
+[Data](articles/0fd5d982.json)
+
+---
+
+### கொழும்பில் அனுர முன்னிலையில்
+
+*2024-09-22 02:33:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பில்-அனுர-முன்னிலையில்/95-344123) · `ta`
+
+◼️
+
+[Data](articles/3a259e26.json)
+
+---
+
+### Anura Kumara tops postal votes in Colombo District
+
+*2024-09-22 02:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102141/anura-kumara-tops-postal-votes-in-colombo-district) · `en`
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has obtained the highest number of postal votes in the Colombo District.
+
+The NPP leader has polled 20,864 postal votes, which is 61.02 as a percentage.
+
+Independent candidate President Ranil Wickremesinghe is second in the list with 7,645 postal votes (22.36%).
+
+Samagi Jana Balawegaya (SJB) candidate Sajith Premadasa has obtained 4,080 postal votes and Sri Lanka while Podujana Peramuna’s (SLPP) Namal Rajapaksa has received 561 and ‘Sarvajana Balaya’ alliance candidate Dilith Jayaweera has polled 552.
+
+◼️
+
+[Data](articles/44b2978e.json)
+
+[Extended Data](ext_articles/44b2978e.ext.json)
+
+---
 
 ### Presidential Election: Matale District postal vote results
 
@@ -49,6 +117,60 @@ Meanwhile, Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa has polled 372 whi
 [Data](articles/d17898f2.json)
 
 [Extended Data](ext_articles/d17898f2.ext.json)
+
+---
+
+### Colombo Official Postal Vote
+
+*2024-09-22 02:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201292) · `si`
+
+Here's a 200-character summary:
+
+
+
+Colombo Official Postal Vote: Anura Kumara Dissanayake wins with 20,864 votes in Colombo district.
+
+🟩
+
+Anura Kumara Dissanayake is released after 20,864 votes in the Colombo district.
+
+◼️
+
+[Data](articles/dd368f66.json)
+
+[Extended Data](ext_articles/dd368f66.ext.json)
+
+---
+
+### Matale official postal voting
+
+*2024-09-22 02:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201291) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Anura Kumara Dissanayake received 12,186 votes in Matale District's official postal voting."
+
+🟩
+
+Anura Kumara Dissanayake has returned 12,186 votes in the Matale District.
+
+◼️
+
+[Data](articles/fda11f34.json)
+
+[Extended Data](ext_articles/fda11f34.ext.json)
+
+---
+
+### காலி மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+
+*2024-09-22 02:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344122) · `ta`
+
+◼️
+
+[Data](articles/1caed756.json)
 
 ---
 
@@ -2157,197 +2279,5 @@ Furthermore, he stated that the counting of postal votes will begin at 429 desig
 [Data](articles/793f300b.json)
 
 [Extended Data](ext_articles/793f300b.ext.json)
-
----
-
-### How Sajith was voted
-
-*2024-09-21 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201268) · `si`
-
-Sajith Premadasa, opposition leader, won election at Rajagiriya's Ecclinal Viharaya. He emphasized protecting democracy, promoting peace, unity, and conducting fair elections.
-
-🟩
-
-The presidential force presidential candidates Sajith Premadasa, Rajagiriya, was voted at the Ecclinal Viharaya in Rajagiriya.
-
-Leader of the Opposition Sajith Premadasa said that it is due to the duty and responsibility to protect democracy and work in peace, friendly and unity.
-
-"It is our own responsibility and obligation to implement these elections in peace, friendly, in peace, and democratically."
-
-◼️
-
-[Data](articles/e8722bc6.json)
-
-[Extended Data](ext_articles/e8722bc6.ext.json)
-
----
-
-### The presidential election is about to bring about an unexpected change - common candidate Ariyanethran
-
-*2024-09-21 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194288) · `ta`
-
-Ariyanethran, a common candidate in Sri Lanka's presidential election, promises change for Tamil people in the Northeast. He vows to address long-standing issues and seeks votes from Tamil communities. Despite opposition from some groups, he urges Tamil voters to remain committed and cast their ballots.
-
-🟩
-
-The ongoing presidential election is about to bring about an unexpected change.. He said this while speaking to the media after his vote.
-
-The Tamil people of the Northeast are struggling for a unique self -determination right. The last eight presidents have not given any solution to them. For that purpose, the Tamil Public Framework Organization 83 Civil Organizations and Seven Tamil Political Parties have joined me as a common candidate.
-
-This election decision must be given a political solution for the Tamil people in the Northeast.. We have the hope of giving a message to the ninth president of Sri Lanka, the Sri Lankan government, the international and the neighboring country.
-
-I went to the eight districts in the northeast and engaged. The Tamil people in the Northeast, beyond the Northeast, have continued their news to vote for me.
-
-So I am obligated to thank all the relationships that vote for my symbol. The election result is based on the next change after the election.
-
-...
-
-[Data](articles/6e631f73.json)
-
-[Extended Data](ext_articles/6e631f73.ext.json)
-
----
-
-### The first election result may be released at midnight- the Election Commission
-
-*2024-09-21 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194292) · `ta`
-
-First election results expected midnight: Election Commissioner General Saman Sri Ratnayake announces 2024 presidential election outcome release date. Postal voting results based on station capabilities. Voting concluded 7am-4pm across 13,421 polling stations nationwide.
-
-🟩
-
-Election Commissioner General Saman Sri Ratnayake said that the first election result of the 2024 presidential election will be released today (21).
-
-He told the media that the postal voting results or registration votes would be based on the ability of the authorities in the polling stations.
-
-However, based on past experiences, the first results will be announced at midnight today, he added.
-
-Voting for the 2024 presidential election began at 7.00 am at 13,421 polling stations nationwide and ended at 4 pm.
-
-◼️
-
-[Data](articles/28b950bf.json)
-
-[Extended Data](ext_articles/28b950bf.ext.json)
-
----
-
-### Presidential candidates who voted
-
-*2024-09-21 16:27:55* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-භාවිතා-කළ-ජනාධිපතිවරණ-අපේක්ෂකයන්/11-412056) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Presidential candidates who voted: Several candidates revealed their voting choices post-election, sparking public interest and debate about political transparency."
-
-🟩
-
-Several presidential candidates who have come forward for the Presidential Electorate have been released to the media after the election.
-
-◼️
-
-[Data](articles/ca1a56dd.json)
-
-[Extended Data](ext_articles/ca1a56dd.ext.json)
-
----
-
-### Renil voted
-
-*2024-09-21 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201267) · `si`
-
-Ranil Wickremesinghe wins presidency election at University of Colombo. Promises stability and urges police to end violence. Grateful to voters.
-
-🟩
-
-Independent Presidency, Ranil Wickremesinghe was voted at the Election Station in the University of Colombo.
-
-"Thank everyone who votes me. This pledge now I made. If the country was in a unstable situation, we will not be voted today. We have advised the police to stop engaging violence. "
-
-◼️
-
-[Data](articles/79d1428c.json)
-
-[Extended Data](ext_articles/79d1428c.ext.json)
-
----
-
-### Sri Lanka presidential elections 2024 live updates
-
-*2024-09-21 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-elections-2024-live-updates-180294/) · `en`
-
-ECONOMYNEXT – Voting in Sri Lanka’s presidential poll closed peacefully on Saturday at 1600 hours (1030 GMT) with the Election Commission giving some flexibility on the closing.
-
-The voting started at 0700 hours local time (0130 GMT) with a record 17.1 million voters were eligible to cast their votes.
-
-The Commissioner General of Election said it had decided to allow all the voters who have arrived at 1600 hours to their respective polling booths to cast their votes instead of closing the polling booths at that time. [story link]
-
-The Saturday polls will elect Sri Lanka’s ninth president to govern the economic crisis-hit nation for the next five years with a record 38 candidates vying for the plum post of the island nation
-
-The new president is expected to be declared by Sunday (22) if the counting process goes smoothly, Election Commission officials have said.
-
-◼️
-
-[Data](articles/459d25a7.json)
-
-[Extended Data](ext_articles/459d25a7.ext.json)
-
----
-
-### The voting is over
-
-*2024-09-21 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201266) · `si`
-
-Sri Lanka presidential election concludes peacefully. Voting began at 4 PM and ended at 4 PM. Postal votes cast in Moneragala and Polonnaruwa districts. Election observed as calm across 13,421 polling centers.
-
-🟩
-
-The vote on the presidential election held today has been concluded today to select the 9th President of Sri Lanka.
-
-The vote commenced today (21) at 4 pm, which ended at 4 pm.
-
-Accordingly, the voters have come to the polling stations this morning and elected their votes.
-
-According to the voting register in 13,421 polling centers, the number of voter centers was qualified to vote this year.
-
-Elections observers said that the votes were peaceable in a whole.
-
-It is reported that postal votes have been launched in the Moneragala and Polonnaruwa Districts.
-
-◼️
-
-[Data](articles/dba2513c.json)
-
-[Extended Data](ext_articles/dba2513c.ext.json)
-
----
-
-### Voting ends in 2024 Presidential Election
-
-*2024-09-21 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102121/voting-ends-in-2024-presidential-election) · `en`
-
-The voting for the 2024 Presidential Election has officially concluded at 4.00 p.m. today (21).
-
-Accordingly, the ballot boxes have been closed while counting is expected to begin shortly.
-
-Meanwhile, it is reported that the counting of postal votes has already commenced in Moneragala and Polonnaruwa districts.
-
-A total of 17,140,354 Sri Lankans were eligible to vote, with the Gampaha District registering the highest number of voters with 1,881,129.
-
-Colombo District was second with 1,765,351 registered voters, and Kurunegala District had 1,417,226 voters. The Northern Province had a combined total of 899,268 registered voters.
-
-Voting took place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (21).
-
-A record-breaking 38 candidates are contesting this year’s election, the highest number of presidential candidates in the country’s history.
-
-It was previously reported that the overall voter turnout as at 2.00 p.m. today had exceeded 60 percent.
-
-◼️
-
-[Data](articles/633857d2.json)
-
-[Extended Data](ext_articles/633857d2.ext.json)
 
 ---

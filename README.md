@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 07:23:01**
+As of **2024-09-21 07:57:18**
 
 ## Newspaper Stats
 
-*Scraped **45,012** Articles*
+*Scraped **45,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 438
 colombotelegraphcom | 450
-islandlk | 2,645
+islandlk | 2,647
 economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,157
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,012 (100.0%) of 45,012 articles have been extended.
+45,014 (100.0%) of 45,014 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -237,6 +237,42 @@ In this context, party leaders still have a strong responsibility than the presi
 [Data](articles/c09d88de.json)
 
 [Extended Data](ext_articles/c09d88de.ext.json)
+
+---
+
+### SriLankan Airlines and SLCB showcase Sri Lanka to top South Indian journalists
+
+*2024-09-21 01:00:00* · [`islandlk`](http://island.lk/srilankan-airlines-and-slcb-showcase-sri-lanka-to-top-south-indian-journalists/) · `en`
+
+SriLankan Airlines, together with its the leisure arm, SriLankan Holidays, and the Sri Lanka Convention Bureau (SLCB), recently hosted a group of senior journalists from some of South India’s most prominent media outlets: Deccan Chronicle; Tourism India; Malayala Manorama; Sun Group TV; Mathrubhumi Newspaper; DT Next; and Provoke Magazine.
+
+...
+
+[Data](articles/7e81bef7.json)
+
+[Extended Data](ext_articles/7e81bef7.ext.json)
+
+---
+
+### ComBank commences planting 10,000 trees in Kilinochchi and Jaffna districts
+
+*2024-09-21 00:59:00* · [`islandlk`](http://island.lk/combank-commences-planting-10000-trees-in-kilinochchi-and-jaffna-districts/) · `en`
+
+The Commercial Bank of Ceylon has embarked on a project to plant 10,000 trees in the northern districts of Jaffna and Kilinochchi as part of the Bank’s country-wide effort to promote sustainability.
+
+The trees are to be planted on 600 acres of land owned by the University of Jaffna in Kilinochchi and Jaffna, and on the sides of sections of the A9 road that runs through the Kilinochchi District, the Bank said. The project will be executed in partnership with Green Layer, a not-for-profit an environmental organisation operating in Jaffna.
+
+Dialog launches trilingual Sayuru App to support Sri Lankan fishing communities
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/6498bc7d.json)
+
+[Extended Data](ext_articles/6498bc7d.ext.json)
 
 ---
 
@@ -2291,49 +2327,5 @@ Deputy Postmaster General Rajitha Ranasinghe stated that voters can obtain their
 [Data](articles/4eccebb1.json)
 
 [Extended Data](ext_articles/4eccebb1.ext.json)
-
----
-
-### Monitoring Committee met the president
-
-*2024-09-20 12:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்காணிப்பு-குழு-ஜனாதிபதியை-சந்தித்தது/175-344055) · `ta`
-
-European Union Election Monitoring Committee met President Wickremesinghe at Presidential Secretariat. Praised President's Media Unit. Commonwealth Election Monitoring Committee, led by former President Danny Faure, discussed visit progress and national surveillance plans.
-
-🟩
-
-The European Union Election Monitoring Committee met with President Ranil Wickremesinghe at the Presidential Secretariat and shared the purpose of his visit with the president and praised the President's Media Unit of the President.
-
-The Commonwealth Election Monitoring Committee, led by former President Danny Faure, met with President Ranil Wickremesinghe at the Presidential Secretariat and discussed the progress of the current visit and the plan to carry out surveillance activities nationwide.
-
-◼️
-
-[Data](articles/888992dd.json)
-
-[Extended Data](ext_articles/888992dd.ext.json)
-
----
-
-### Namal's mother -in -law flew
-
-*2024-09-20 12:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-மாமியார்-பறந்தார்/175-344054) · `ta`
-
-Namal Rajapaksa's mother-in-law and family traveled from Katunayake airport to Dubai via Emirates Airlines flight EK-651 on September 20th. The group included her husband, two children, two maids, and another female relative. They used the Silk Road Terminal, paying $52 per person. This trip was likely part of their journey to the United States, as there are no direct flights from Sri Lanka to the US.
-
-🟩
-
-Presidential candidate Namal Rajapaksa's mother -in -law (wife's mother), two children, two maids and another female relative went through the "Silk Root" terminal of the Katunayake airport on 09/20 in the morning.
-
-The team departed from Katunayake airport on the EK-651 flight of Emirates Airlines, which departed at Tubai at 10.05 am on Friday (20).
-
-They have entered the plane that grosses $ 52 per passenger through the Silk Road Terminal.
-
-Katunayake airport reports that there are no direct flights from Sri Lanka to the US and are planning to travel to Dubai.
-
-◼️
-
-[Data](articles/8beb68de.json)
-
-[Extended Data](ext_articles/8beb68de.ext.json)
 
 ---

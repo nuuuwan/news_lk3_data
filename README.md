@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 19:07:58**
+As of **2024-09-21 19:22:41**
 
 ## Newspaper Stats
 
-*Scraped **45,118** Articles*
+*Scraped **45,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,734
 dailyftlk | 3,017
-adalk | 4,168
+adalk | 4,169
 dailymirrorlk | 4,733
-adaderanalk | 5,302
-tamilmirrorlk | 5,914
+adaderanalk | 5,303
+tamilmirrorlk | 5,915
 virakesarilk | 7,226
 adaderanasinhalalk | 7,735
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 7,735
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,118 (100.0%) of 45,118 articles have been extended.
+45,121 (100.0%) of 45,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Special holiday on Monday
+
+*2024-09-21 19:00:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கட்கிழமை-விசேட-விடுமுறை/175-344092) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Monday, the 23rd, declared special holiday announcement."
+
+🟩
+
+Monday, the 23rd, has been announced as a special holiday.
+
+◼️
+
+[Data](articles/2cab6e75.json)
+
+[Extended Data](ext_articles/2cab6e75.ext.json)
+
+---
+
+### September 23 declared a public holiday
+
+*2024-09-21 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102125/september-23-declared-a-public-holiday) · `en`
+
+The government has declared September 23 (Monday) as a special public holiday, in view of the post-presidential election period.
+
+This was communicated in a special statement issued by the Ministry of Home Affairs.
+
+◼️
+
+[Data](articles/9bb1c253.json)
+
+[Extended Data](ext_articles/9bb1c253.ext.json)
+
+---
 
 ### Sept. 23 Special Holiday
 
@@ -53,6 +91,32 @@ Secretary, Ministry of Home Affairs, Provincial Councils, Provincial Councils an
 [Data](articles/db770d15.json)
 
 [Extended Data](ext_articles/db770d15.ext.json)
+
+---
+
+### Let us join peacefully and go to a new trip
+
+*2024-09-21 18:34:13* · [`adalk`](https://www.ada.lk/breaking_news/සාමකාමීව-කටයුතු-කර-අලුත්-ගමනක්-යාමට-එක්වෙමු/11-412058) · `si`
+
+President Wickremesinghe visits Vidy Center, calls for peaceful unity and new journey for Sri Lanka. Emphasizes democracy and building a new political-social system. Expresses gratitude to voters and candidates.
+
+🟩
+
+President Ranil Wickremesinghe and Professor Maithree Wickremasinghe visited the Vidy Center at the University of Colombo today (21).
+
+Speaking to the media, the President said that everyone should be peaceable and to take a new trip.
+
+President Ranil Wickremesinghe, who recalled that he could end the situation in Sri Lanka, it was decided that he was able to hold the backdrop of the election today and said the future of the people of Sri Lanka.
+
+In response to a new leadership, the President said that this was the right time to consider the situation in the country, the President said that this was the right time to consider this.. The President said that he was humble and proud to be able to hold the democratic rights of the people and said that he was committed to protecting the democratic rights of the people.
+
+The President pointed out that the election is a circular point in Sri Lanka and is a valuable to build a new social and political system in the country.
+
+...
+
+[Data](articles/d280751b.json)
+
+[Extended Data](ext_articles/d280751b.ext.json)
 
 ---
 
@@ -2273,73 +2337,5 @@ The election comes two years after a political crisis that ousted former preside
 [Data](articles/5f58bab1.json)
 
 [Extended Data](ext_articles/5f58bab1.ext.json)
-
----
-
-### Driver arrested for alleged election work
-
-*2024-09-21 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194223) · `ta`
-
-Van driver arrested for transporting election workers. Police seized ballot boxes and staff. Alternative transport arranged for polling day.
-
-🟩
-
-A van driver has been arrested by police for taking employees to the polling station in Teraniyagala.
-
-A van driver has been arrested by police on Friday (20) during his duty to take polling, ballot boxes and employees to the polling station in Teraniyagala for the presidential election.
-
-Accordingly, the authorities have taken steps to take the ballot, ballot boxes and employees in a different vehicle.
-
-◼️
-
-[Data](articles/1383ea75.json)
-
-[Extended Data](ext_articles/1383ea75.ext.json)
-
----
-
-### European Union Short Superintendents - Starting Surveillance in All Electoral constituencies - Today
-
-*2024-09-21 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194221) · `ta`
-
-EU Election Monitoring: 32 observers deployed nationwide. Focus on post-campaign activities and election processes. Aim to ensure transparency and independence in the upcoming presidential election.
-
-🟩
-
-32 women members of the European Union Election Monitoring Committee have been sent to all electoral districts of the country on Thursday (19) and their widespread surveillance has been carried out in the aftermath of the election since the end of the election.
-
-As the country's ninth presidential election is scheduled for Saturday (21), the Election Commission has issued an official invitation to the EU to carry out election monitoring as usual.
-
-The European Union, led by the European Union, European Parliamentarian, Naco Sanses Amher, was headed by a Deputy Superintendent of Elections and Nine Electoral Experts, a special committee, a group of 26 long -term monitors and a group of 32 short -term supervisors.
-
-...
-
-[Data](articles/6c8901b5.json)
-
-[Extended Data](ext_articles/6c8901b5.ext.json)
-
----
-
-### Security measures have been strengthened;Provide collaboration to the rules of order -request to the public
-
-*2024-09-21 03:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194222) · `ta`
-
-Security measures enhanced for presidential election: 63k police deployed, 3k soldiers, 12k civil security forces. Road restrictions on 269 routes. Public cooperation requested. Legal action against violators.
-
-🟩
-
-Security measures have been strengthened to ahead of the presidential election. "We are asking the public not to act contrary to the law and law and regulations," said police media spokesman and Deputy Inspector General of Police Nihal Talduwa.
-
-More than 63 thousand policemen have been deployed on duty to mark the presidential election. Over 3083 police mobile service centers have been established across the country and 12,400 police officers have been deployed for this purpose.
-
-Special road restrictions have been set up on 269 roads today (Saturday), tomorrow and (Sunday). Its number may increase if demand is occurred. For this purpose, the police and the Special Task Force will be hired. The security forces who are on duty have been requested to provide public cooperation.
-
-Armed forces are involved in identified areas that threaten national security. Special protection has been provided to some places during the election period.
-
-...
-
-[Data](articles/72a7692e.json)
-
-[Extended Data](ext_articles/72a7692e.ext.json)
 
 ---

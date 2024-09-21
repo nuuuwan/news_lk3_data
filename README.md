@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 12:11:38**
+As of **2024-09-21 12:38:16**
 
 ## Newspaper Stats
 
-*Scraped **45,063** Articles*
+*Scraped **45,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,160
 dailymirrorlk | 4,733
-adaderanalk | 5,295
-tamilmirrorlk | 5,904
+adaderanalk | 5,296
+tamilmirrorlk | 5,906
 virakesarilk | 7,217
-adaderanasinhalalk | 7,721
+adaderanasinhalalk | 7,722
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,063 (100.0%) of 45,063 articles have been extended.
+45,067 (100.0%) of 45,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Woman hacked to death in Mirihana
+
+*2024-09-21 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102118/woman-hacked-to-death-in-mirihana) · `en`
+
+A woman has been found hacked to death inside a residence at Santhanampitiya in Pangiriwatta, Mirihana.
+
+The deceased is a 35-year-old female who had been residing at the house in question.
+
+Preliminary investigations have uncovered that the murder has been committed by an individual who had previously served as the driver at the residence.
+
+The magistrate’s inquest regarding the murder is to be carried out by the Gangodawila Magistrate.
+
+Mirihana Police is conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/976b8a35.json)
+
+[Extended Data](ext_articles/976b8a35.ext.json)
+
+---
+
+### "If Ranil wins, Parliament will not be dissolved"
+
+*2024-09-21 12:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-வென்றால்-பாராளுமன்றம்-கலைக்கப்படாது/175-344083) · `ta`
+
+Ranil Wickremesinghe likely to win: Parliament won't dissolve for 1.5 years, says MP Dileepan.
+
+🟩
+
+Parliamentarian Dileepan said that if Ranil Wickremesinghe wins the presidential election, Parliament will not be dissolved for a year and a half.
+
+He said this while commenting to the media after registering his vote at the Anna Nagar Parameswara Vidyalaya in Vavuniya.
+
+“People are interested in voting more voting. Ranil Wickremesinghe is more likely to win.
+
+If Ranil Wickremesinghe wins, Parliament will not be dissolved for a year and a half. ”
+
+◼️
+
+[Data](articles/d02cddc5.json)
+
+[Extended Data](ext_articles/d02cddc5.ext.json)
+
+---
+
+### Here is the total percentage of votes that have ever been expressed
+
+*2024-09-21 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201261) · `si`
+
+Total vote percentage exceeds 30% by 10am today.
+
+🟩
+
+It is reported that the total number of votes has exceeded 30% by 10 am today.
+
+◼️
+
+[Data](articles/2b40e399.json)
+
+[Extended Data](ext_articles/2b40e399.ext.json)
+
+---
 
 ### Here are the percentage of votes cast in Colombo including Colombo
 
@@ -389,6 +453,34 @@ In the election, 82,830 in the Kalmunai election, 99,727 in the Samanthurai elec
 [Data](articles/a6861f24.json)
 
 [Extended Data](ext_articles/a6861f24.ext.json)
+
+---
+
+### The Election Commission is ready for the general election
+
+*2024-09-21 10:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பொதுத்தேர்தலுக்கு-தேர்தல்-ஆணைக்குழு-தயார்/150-344078) · `ta`
+
+Election Commission prepares for general election, considering potential dissolution of parliament. Political parties discuss post-presidential election strategies. Four upcoming elections planned, including local government and provincial council polls. Some parties demand cancellation of local government nominations, sparking legal consultations.
+
+🟩
+
+The Election Commission has announced that all district election officials will be ready to hold a general election if the new president dissolves parliament.
+
+Political critics think that parliament is more likely to be dissolved after the appointment of the new president.
+
+It is reported that the respective political parties have been discussed separately on the dissolution of parliament after the presidential election.
+
+Meanwhile, the Election Commission is preparing to hold four more elections over the next two years.
+
+There are four elections, the general election, the Elpiti Local Government election, the local government elections and the provincial council election.
+
+Several parties, including political parties, have already demanded the cancellation of nominations in the local government elections. The Election Commission seems to be consulting with the legal departments in this regard.
+
+...
+
+[Data](articles/5d45c414.json)
+
+[Extended Data](ext_articles/5d45c414.ext.json)
 
 ---
 
@@ -2143,95 +2235,5 @@ The petitioner claims that the interest rate of the debt related to internationa
 [Data](articles/be5deb1f.json)
 
 [Extended Data](ext_articles/be5deb1f.ext.json)
-
----
-
-### Dimuth and Chandimal strengthens Sri Lankan innings
-
-*2024-09-20 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201242) · `si`
-
-Sri Lanka's Dimuth Karunaratne and Dinesh Chandimal formed a strong partnership, scoring 147 runs together. Sri Lanka scored 305 in the first innings and 237 in the second, with Dananjaya de Silva and Angelo Mathews remaining unbeaten at the end of day three. Prabe Jayasuriya took 4 wickets for Sri Lanka, while Ramesh Mendis claimed 3.
-
-🟩
-
-When the third day of the first Test match between Sri Lanka and New Zealand, Sri Lanka scored 237 runs for the loss of 4 wickets for their second innings.
-
-Waduwela wicket was bowled out for six marks while the first wicket of Sri Lanka.
-
-Dimuth Karunaratne and Dinesh Chandimal were strengthened by 147 runs for the second wicket.
-
-When the day was completed, Leader Dananjaya de Silva (34) and Angelo Mathews (32) remained the wicket.
-
-Batting first Sri Lanka scored 305 runs for the first innings and the New Zealand scored 340 runs for the first innings.
-
-Prabe Jayasuriya took 4 wickets for Sri Lanka and Ramesh Mendis took 3 wickets.
-
-◼️
-
-[Data](articles/2fcd734a.json)
-
-[Extended Data](ext_articles/2fcd734a.ext.json)
-
----
-
-### Sri Lanka calls bids to develop Mannar North pier on BOT basis
-
-*2024-09-20 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-calls-bids-to-develop-mannar-north-pier-on-bot-basis-180218/) · `en`
-
-ECONOMYNEXT – State-owned Sri Lanka Ports Authority (SLPA) has called for a prequalified expression of interest to develop Talaimannar- North Pier at the island nation’s North Western Port of Mannar on build, operate and transfer (BOT) basis.
-
-The new move comes as India’s Adani Group’s plan to build two wind power projects of 250 MW in Mannar and 234 MW in the Northern Pooneryn area. The proposed project site in Mannar spans across 250 acres of an environmentally sensitive location amid legal challenges to the project.
-
-The SLPA has planned to develop the Port of Mannar as a regional port mainly focusing on passenger and cargo handling activities. Already, a passenger ferry is on service between Sri Lanka’s North and South India.
-
-In November last year, the Sri Lanka government declared the Mannar port to be brought under the purview of the Sri Lanka Ports Authority Act with an aim to facilitate the launch of a new passenger and cargo ferry service between Mannar and India.
-
-...
-
-[Data](articles/e5f57a28.json)
-
-[Extended Data](ext_articles/e5f57a28.ext.json)
-
----
-
-### Accident in Mannar big bridge;One injury
-
-*2024-09-20 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194200) · `ta`
-
-Motorcycle crash under Mannar big bridge injures one rider. Rider hospitalized at Mannar District General Hospital. Incident occurred on road beneath bridge.
-
-🟩
-
-The motorcycle has crashed into a ditch on the road under the Mannar big bridge.
-
-It was reported that the man who was driving a motorcycle was injured and admitted to the Mannar District General Hospital.
-
-◼️
-
-[Data](articles/f19b18ac.json)
-
-[Extended Data](ext_articles/f19b18ac.ext.json)
-
----
-
-### A horrible bus accident
-
-*2024-09-20 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201241) · `si`
-
-Horrible bus accident: Private bus escapes control near Kumbukkana, injures several passengers. Moneragala police investigating incident.
-
-🟩
-
-A private bus traveling from Moneragala to Colombo has accidentally escaped from the Kumbukkana area this evening.
-
-Several people were injured and admitted to the Moneragala district hospital.
-
-The Moneragala Police are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/74ff725a.json)
-
-[Extended Data](ext_articles/74ff725a.ext.json)
 
 ---

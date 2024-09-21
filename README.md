@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 07:57:18**
+As of **2024-09-21 08:19:58**
 
 ## Newspaper Stats
 
-*Scraped **45,014** Articles*
+*Scraped **45,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,195 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 438
 colombotelegraphcom | 450
-islandlk | 2,647
+islandlk | 2,656
 economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,286
-tamilmirrorlk | 5,896
+tamilmirrorlk | 5,899
 virakesarilk | 7,210
-adaderanasinhalalk | 7,710
+adaderanasinhalalk | 7,713
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,014 (100.0%) of 45,014 articles have been extended.
+45,023 (100.0%) of 45,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Information that Namal's family left the country
+
+*2024-09-21 07:38:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமலின்-குடும்பம்-நாட்டை-விட்டு-வெளியேறியதாக-தகவல்/175-344076) · `ta`
+
+Namal Rajapaksa's family members, including his mother-in-law and children, left Sri Lanka via Katunayake airport. They flew to Dubai on Emirates Airlines, reportedly paying $52 per person. The group includes relatives of Sri Lanka's presidential candidate.
+
+🟩
+
+Namal Rajapaksa's mother -in -law, two children, two children, and a relative of the Sri Lankan PA's presidential candidate, have left Sri Lanka.
+
+A Katunayake airport official said that the Katunayake airport has gone through the Silk Route terminal of the Katunayake airport yesterday.
+
+They traveled to Dubai through the EK-651 flight of Emirates Airlines at around 10.05 am yesterday.
+
+It is reported that the Silk Route terminal located at the Katunayake airport has also paid $ 52 each for the airline.
+
+The official added that they may have planned to go to Dubai, which is harvesting.. Remble
+
+◼️
+
+[Data](articles/36aae0d0.json)
+
+[Extended Data](ext_articles/36aae0d0.ext.json)
+
+---
+
+### Kalladi Pachiyamman Temple is burnt ashes
+
+*2024-09-21 07:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்லடி-பேச்சியம்மன்-ஆலயம்-தீபற்றி-எரிந்து-சாம்பல்/175-344075) · `ta`
+
+Batticaloa Kalladi Pachiyamman temple fire contained quickly by firefighters. Thousands gathered to witness and pay respects after blaze.
+
+🟩
+
+The fire broke out on Friday night in the Batticaloa Kalladi Pachiyamman temple in Batticaloa.
+
+The lamp of the Pachiyamman temple, located in front of the Kalladi Sivananda College, the main road in Batticaloa, is in front of the Kalladi Sivananda College.
+
+The area, which saw the fire, began to burn brightly, but the firefighters united and brought the fire under control in a few hours.
+
+Thousands of people from the area have invaded the temple and have been surrounded by thousands of people who have heard about the fire as the statue of the mother was placed in the early hours of the statue and was praised by the people of the area.
+
+◼️
+
+[Data](articles/addfca2e.json)
+
+[Extended Data](ext_articles/addfca2e.ext.json)
+
+---
+
+### Severe traffic congestion in Colombo
+
+*2024-09-21 07:25:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-கடுமையான-வாகன-நெரிசல்/175-344074) · `ta`
+
+Colombo traffic congestion: Peliyagoda Menning Market area affected. Police officer shortage causes delays on Colombo-Negombo main road. Increased market visitors exacerbate issue. Significant disruptions reported in surrounding areas.
+
+🟩
+
+It is reported that there is a traffic congestion on the roads near the Peliyagoda Menning Market and the Colombo -Negombo main road.
+
+The congestion is due to the shortage of police officers who are involved in traffic duties and the number of customers visiting the Peliyagoda Menning Market has increased.
+
+It is noteworthy that a significant delay and disruption in the surrounding areas. Remble
+
+◼️
+
+[Data](articles/de9de3c6.json)
+
+[Extended Data](ext_articles/de9de3c6.ext.json)
+
+---
+
+### One of these is enough to vote
+
+*2024-09-21 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201251) · `si`
+
+To vote in the presidential election:
+
+
+
+1. Bring a recognized document
+
+2. Use only one ballot paper
+
+3. Mark 1-3 for top 3 candidates
+
+4. No phones allowed in polling stations
+
+
+
+Remember: One vote per person, mandatory attendance.
+
+🟩
+
+It is mandatory to take a recognized document to ensure that you have to vote for the Presidential Election today (21).
+
+• Temporary ID issued for disabled citizens
+
+* Temporary identity card issued to the other people
+
+Among the 9 recognized writings can be submitted.
+
+How do you get into the polling, how do you accurately vote in the presidential election?
+
+The names of 39 candidates and the ballot of the ballot, a valid way to use only one scholar before a candidate.
+
+If three candidates declare preferential votes, they should only mark the number 1, 2 or 3 before the candidates.
+
+If one candidate is only sufficient in preferential declaration of preferential, the number 1 will be valid and applying only number 1 and 2 if two are marked.
+
+Taking the vote is banned to take a mobile phone to the polling station.
+
+◼️
+
+[Data](articles/894d10db.json)
+
+[Extended Data](ext_articles/894d10db.ext.json)
+
+---
+
+### Presidential election begins
+
+*2024-09-21 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201250) · `si`
+
+Presidential election starts today. Voting takes place at 13,421 locations nationwide from 7:00 AM to 4:00 PM.
+
+🟩
+
+Accordingly, the election is scheduled to be held from 13,421 polling centers across the country from 7.00 am to 4.00 pm.
+
+◼️
+
+[Data](articles/011d3336.json)
+
+[Extended Data](ext_articles/011d3336.ext.json)
+
+---
+
+### Selecting the 9th Executive President election today
+
+*2024-09-21 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201249) · `si`
+
+Sri Lanka's 9th Executive President election summary: 39 candidates, 17.14 million voters, 13,421 polling centers, voting from 7 AM to 4 PM. Highest turnout in Gampaha district. Lowest in Vavuniya, Mannar, Mullaitivu.
+
+🟩
+
+The election of the 9th Executive president in Sri Lanka is scheduled to commence today (21).
+
+Chairman of the Election Commission RML Ratnayake requests voters to go in the morning and vote.
+
+Accordingly, the election will commence in 13,421 polling centers across the country from 7.00 am to 4 pm.
+
+The number of candidates who sat for the presidential election in the history of the country have come forward.
+
+39 candidates have volunteered to do so, it was reduced to 38 with the death of Mr. Mohammed requests.
+
+Meanwhile, 17,140,354 are the total number of voters eligible for the presidential election.
+
+The Gampaha District has been elected district with the highest voter turnover among the 10 electoral districts and 1,881,129 registered voters in the district.
+
+The number of registered voters in the Kurunegala District is 1,417,226 and the number of voters in the Kandy district is 1,191,399.
+
+...
+
+[Data](articles/3c231401.json)
+
+[Extended Data](ext_articles/3c231401.ext.json)
+
+---
 
 ### Sri Lanka goes for presidential poll amid uncertainty, partial recovery from crisis
 
@@ -240,6 +410,66 @@ In this context, party leaders still have a strong responsibility than the presi
 
 ---
 
+### MMCA Sri Lanka opens ‘Total Landscaping’ Rotation 1
+
+*2024-09-21 01:13:00* · [`islandlk`](http://island.lk/mmca-sri-lanka-opens-total-landscaping-rotation-1/) · `en`
+
+The Museum of Modern and Contemporary Art Sri Lanka (MMCA Sri Lanka) opened Rotation 1 of their new exhibition ‘Total Landscaping’ on 12 September. Curated by Sandev Handy and Thinal Sajeewa, ‘Rotation 1 of ‘Total Landscaping’ is open to the public until 1 December 2024. Entry to the exhibition is free and the museum is located on the ground floor of Crescat Boulevard, Colombo 03.
+
+‘Total Landscaping’ explores the broad, dramatic, and stirring ways in which land has been transformed in Sri Lanka. The exhibition brings together 29 contemporary artists whose works go beyond traditional illustrations of landscapes. Instead, their works register the different ways in which perceptions of land have been constructed and contested. ‘Total Landscaping’ unfolds as a sequence of changing displays that elicit an all-out renegotiation of our relationships to land.
+
+...
+
+[Data](articles/0b5e08c0.json)
+
+[Extended Data](ext_articles/0b5e08c0.ext.json)
+
+---
+
+### NDB Bank partners with University of Sri Jayewardenepura to empower next generation of leaders
+
+*2024-09-21 01:09:00* · [`islandlk`](http://island.lk/ndb-bank-partners-with-university-of-sri-jayewardenepura-to-empower-next-generation-of-leaders/) · `en`
+
+NDB Bank is proud to announce the signing of a Memorandum of Understanding (MOU) with the University of Sri Jayewardenepura, marking a significant milestone in its ongoing efforts to shape the future of Sri Lanka’s financial sector. This partnership symbolizes NDB’s commitment to bridging the gap between academia and industry, providing a platform where young talent can thrive and contribute to the evolving landscape of banking and finance.
+
+This collaboration will offer students a wealth of opportunities, from internships and training programs to collaborative research initiatives. By working alongside one of Sri Lanka’s most prestigious educational institutions, NDB is investing in the future workforce, ensuring that the next generation of leaders is equipped with the skills and knowledge to excel in a dynamic, technology-driven industry.
+
+...
+
+[Data](articles/a03f7d96.json)
+
+[Extended Data](ext_articles/a03f7d96.ext.json)
+
+---
+
+### Major entities come together to create value from waste via Public-Private Partnership
+
+*2024-09-21 01:03:00* · [`islandlk`](http://island.lk/major-entities-come-together-to-create-value-from-waste-via-public-private-partnership/) · `en`
+
+In light of the solid waste management challenges faced, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH and three of Sri Lanka’s largest Fast Moving Consumer Goods (FMCG) companies – Coca-Cola Sri Lanka Beverages Ltd. along with The Coca-Cola Foundation, Nestlé, and Unilever, have come together to launch a sustainable plastic waste management project, with the ambition of tackling plastic pollution and leveraging the untapped potential of plastic waste. This Public-Private Partnership (PPP) named ‘Waste to Value’ aims to strengthen infrastructure on collection, segregation, recycling and upcycling of plastic waste, whilst driving a behavioural change towards a circular economy by creating awareness on the value of responsibly disposed waste to livelihoods and the environment.
+
+...
+
+[Data](articles/cd80ab5b.json)
+
+[Extended Data](ext_articles/cd80ab5b.ext.json)
+
+---
+
+### Dialog launches trilingual Sayuru App to support Sri Lankan fishing communities
+
+*2024-09-21 01:01:00* · [`islandlk`](http://island.lk/dialog-launches-trilingual-sayuru-app-to-support-sri-lankan-fishing-communities/) · `en`
+
+In a continued effort to empower Sri Lanka’s fishing communities, Dialog Axiata PLC, the country’s #1 connectivity provider, has launched the Sayuru mobile app, available in Sinhala, Tamil, and English. Designed for day-boat fishermen, the app offers real-time weather updates and other essential services, in partnership with the Department of Fisheries and Aquatic Resources and the Department of Meteorology.
+
+Building on the success of the SMS and voice-based Sayuru service introduced in 2020, the enhanced app includes features such as ‘Today’s Weather,’ ‘Mark My Route,’ ‘Saved Locations,’ ‘Department Services,’ ‘Awareness Programmes,’ a digital compass, SOS alerts, and a fuel calculator. While the Sayuru SMS and voice service remains free, the app provides a 90-day trial for the new features, followed by a daily subscription fee of Rs. 2 + tax. The app can be downloaded for free from the Google Play Store, and Dialog customers can access it without incurring data charges.
+
+...
+
+[Data](articles/05848cf9.json)
+
+---
+
 ### SriLankan Airlines and SLCB showcase Sri Lanka to top South Indian journalists
 
 *2024-09-21 01:00:00* · [`islandlk`](http://island.lk/srilankan-airlines-and-slcb-showcase-sri-lanka-to-top-south-indian-journalists/) · `en`
@@ -273,6 +503,26 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/6498bc7d.json)
 
 [Extended Data](ext_articles/6498bc7d.ext.json)
+
+---
+
+### Banking sector counters further sustain CSE revival
+
+*2024-09-21 00:57:00* · [`islandlk`](http://island.lk/banking-sector-counters-further-sustain-cse-revival/) · `en`
+
+The stock market yesterday revived further with a high performance in banking sector counters following the announcement that bondholders have made more concessions during the latest round of negotiations in the debt restructuring process.
+
+Consequently, the present value benefit may increase from 27 percent in a July deal to 33 percent in a September deal, if the economy performs better than expected.
+
+Sri Lanka’s bondholders sought so-called macro-linked bonds where the hair cut will reduce if the economy grows faster than the IMF expects in a debt sustainability analysis.
+
+Amid those developments both indices moved up. The All Share Price Index went up by 89.7 points while S and P SL20 rose by 41.7 points.
+
+Turnover stood at Rs 1.3 billion with a crossing. The crossing was reported in HNB, which crossed 1.14 million shares to the tune of Rs 189 million; its shares traded at Rs 109.
+
+...
+
+[Data](articles/9f84feec.json)
 
 ---
 
@@ -2047,285 +2297,5 @@ Also, here are the photos and some news published on the country's first preside
 [Data](articles/5314e0e9.json)
 
 [Extended Data](ext_articles/5314e0e9.ext.json)
-
----
-
-### Can the 5th grade scholarship exam be held again?- Secretary of the Ministry of Education
-
-*2024-09-20 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/194180) · `ta`
-
-Secretary Tilaka Jayasundara: If leakage confirmed, Grade 5 scholarship exam will be retaken. Investigation ongoing after exam on 15th.
-
-🟩
-
-Tilaka Jayasundara, Secretary to the Ministry of Education, said that if the inquiry revealed that the Grade 5 scholarship examination had been leaked, arrangements would be made to re -conduct the exam.
-
-He was speaking to the media today (20).
-
-Grade 5 Scholarship Examination was held on the 15th. The Department of Examinations conducted an investigation after reports were reported that the questionnaire was leaked.
-
-The Criminal Investigation Department is currently carrying out investigations with the first investigation report.
-
-◼️
-
-[Data](articles/80669724.json)
-
-[Extended Data](ext_articles/80669724.ext.json)
-
----
-
-### YouTube channel freeze
-
-*2024-09-20 13:45:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூப்-சேனல்-முடக்கம்/175-344058) · `ta`
-
-Supreme Court YouTube channel hacked, promotes cryptocurrency. Hackers target official streaming platform. Court's tech team works to recover compromised account.
-
-🟩
-
-Hackers have hacked the YouTube page of the Supreme Court. It features a video that promote crypto currency.
-
-It is customary for the Supreme Court's Constitution to stream the hearing of the Supreme Court on the YouTube channel of the Supreme Court.
-
-Recently, the training of a training female doctor at Kolkata Kolkata Kill. It is in this context that the hackers have hacked it.
-
-The promotion of Labs's XRP Cryptocurrency of the United States of America is currently being hacked. In the meantime, Ripl Labs has lodged a complaint with the YouTube side of the hackers to disable the important YouTube channels and use their company's name.
-
-In this context, it has been reported that the Supreme Court's technology unit is in the process of recovering the YouTube page, which was hacked.
-
-◼️
-
-[Data](articles/d45d1c27.json)
-
-[Extended Data](ext_articles/d45d1c27.ext.json)
-
----
-
-### Salaries the test sheet of scholarship
-
-*2024-09-20 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201230) · `si`
-
-Scholarship exam results delayed due to investigation. CID probing alleged cheating. Action against involved teachers. Legal consequences for those responsible.
-
-🟩
-
-Thilaka Jayasundara said that the evaluation of the answer scholarship examination of the Year 5 scholarship examination was held on September 15, Ms. Thilaka Jayasundara said.
-
-"We do not expect to do the answer sheets of the exam, all the results of the investigation have been made to a decision, until we make a decision. Until then, action will be taken to issue results. They have been temporarily suspended. "
-
-Examination Department conducted an investigation by the Department of Examinations. The preliminary investigation has been handed over to the CID and is also investigating the CID.
-
-Thalaka Jayasundara said that the exam question paper was exited to be held regarding the Year 5 scholarship examination.
-
-"And we have reportedly reported tuition teachers in the preceding period before the examination of the teachers.. Accordingly, it is ready to take disciplinary action. "
-
-"If the question paper has been exited, we will take legal action on parties responsible."
-
-...
-
-[Data](articles/e08cfb0b.json)
-
-[Extended Data](ext_articles/e08cfb0b.ext.json)
-
----
-
-### The field inspection of EU monitors
-
-*2024-09-20 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194185) · `ta`
-
-EU monitors observed voting box distribution at Central College, Jaffna on 20th.
-
-🟩
-
-The EU monitors were engaged in monitoring the distribution of voting boxes at the Central College, Jaffna today (20).
-
-◼️
-
-[Data](articles/f0c7bfe4.json)
-
-[Extended Data](ext_articles/f0c7bfe4.ext.json)
-
----
-
-### Rehearsals for presidential poll planned for today
-
-*2024-09-20 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102096/rehearsals-for-presidential-poll-planned-for-today-) · `en`
-
-The departure of relevant staff for duties related to the 2024 Presidential Election and the transporting of ballot papers and ballot boxes has now commenced.
-
-The Chairman of the Elections Commission of Sri Lanka, R.M.A.L. Rathnayake stated that the distribution of ballot boxes began at 7.00 a.m. today (20) under heavy police protection.
-
-The relevant officials are expected to reach their respective polling centers by around 12 noon today.
-
-Meanwhile, it has been planned to conduct rehearsals today (20) after the officials reach their polling stations.
-
-Voting for the 2024 Presidential Election will be held from 7 a.m. to 4 p.m. tomorrow (21).
-
-A total of 17, 140,354 voters are expected to cast their votes at 13,421 polling centers across the island.
-
-◼️
-
-[Data](articles/c95cd2ff.json)
-
-[Extended Data](ext_articles/c95cd2ff.ext.json)
-
----
-
-### How to vote
-
-*2024-09-20 13:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/graphics/வாக்களிப்பது-எப்படி/148-344056) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Vote in 2024 presidential election: Saturday, 7 AM - 4 PM. Follow official voting instructions."
-
-🟩
-
-The 2024 presidential election will be held on Saturday (21st) from 7 am to 4 pm. We have made it clear about how to vote in that election.
-
-◼️
-
-[Data](articles/9eed48fa.json)
-
-[Extended Data](ext_articles/9eed48fa.ext.json)
-
----
-
-### Lebanon continues to attack
-
-*2024-09-20 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201229) · `si`
-
-Lebanon-Israel conflict escalates: Hezbollah accuses Israel of violating limits, Israel launches airstrikes in retaliation. Casualties reported on both sides.
-
-🟩
-
-In many cities including Beerout in Lebanon, the hezbollah train talks were reported, and Israeli Mossad intelligence was accused of Israel's Mossad intelligence.
-
-Foreign media reports that 37 deaths were killed and 3,000 injured in the blast.
-
-Hezbollah leader Hasan Nazaralla Biggest series was held yesterday (19).
-
-He also stressed that Israel had violated all limits. He accused such a wireless communication engine to an eruption of a war.
-
-The Hezbollah leader, who is recognized into an unexpected attack, emphasized that Israel will certainly be consequenced by the consequences.
-
-However, during the declaration of Hezbollah, Israeli Aircraft Bertresses were also reported to fly.
-
-And after his statement, Israel has also launched hundreds of air strikers at Lebanon in Lebanon last night.
-
-Israel says that the rocket fighter weapons were ready to attack Israel.
-
-Israel has decided to reduce the terrorism of the organization of Hezbollah.
-
-◼️
-
-[Data](articles/01b681cb.json)
-
-[Extended Data](ext_articles/01b681cb.ext.json)
-
----
-
-### The postal employee who kept 145 voter cards without distributing
-
-*2024-09-20 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194170) · `ta`
-
-Postal worker accused of hoarding 145 voter cards in Puttalam. UNP agent reports incident. District Postal Superintendent investigates.
-
-🟩
-
-He has been accused of having a postal worker in Puttalam without distributing 145 voter cards.
-
-Puttalam District Postal Superintendent has launched an investigation into the incident on the complaint made from the United National Party (UNP) agent for the Puttalam voting centers.
-
-◼️
-
-[Data](articles/e778f2d1.json)
-
-[Extended Data](ext_articles/e778f2d1.ext.json)
-
----
-
-### Twis 'comrades' militant win to Australia
-
-*2024-09-20 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201228) · `si`
-
-Australian tourists win first ODI match against England, advancing to 13th victory. Travis scores 154 not out, highest individual score in ODI history. England scores 315 runs in 49.4 overs. Australia aims for consecutive wins in second leg of series starting September 2023.
-
-🟩
-
-Tourist Australian group won the first one-day match yesterday (19).
-
-This will win the 13th competitions for Australia in the International ODI cricket.
-
-Accordingly, Australia will be able to advance the highest number of consecutive matches to the second largest matches if another win.
-
-The Second station sets of 13 continuous matches (September 2023).
-
-However, Australia is the team that won the most continuous number of matches. They have won 21 matches in 2003.
-
-It is also the 5th highest achievement of Australia, which was chased at the ODI cricket.
-
-Australia was able to cross the 44th Occurrence of England, which was played in England, held in England.
-
-The opening batsman, who played a great innings, were able to stay in the wicket and score 154 most precious marks. His innings included in 129 balls with 20 fours and five sixes.
-
-This was the highest One Day innings as well as the sixth day century.
-
-In addition to Travis, Manus Laberusan scored 77 runs off 61 balls.
-
-...
-
-[Data](articles/0ae2ee2e.json)
-
-[Extended Data](ext_articles/0ae2ee2e.ext.json)
-
----
-
-### Voting boxes to 98 polling stations in Mannar district
-
-*2024-09-20 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194175) · `ta`
-
-Tomorrow: Voting begins at 98 Mannar polling stations. Ballot boxes transported under police escort. 90,607 eligible voters in Mannar district.
-
-🟩
-
-Voting for the country's ninth presidential election will be held tomorrow morning (21st).
-
-All the ballot boxes for the stations have been taken today (19) from 9 am.
-
-All the ballot boxes from the Mannar District Secretariat, which operates as a voting center in the Mannar district, was taken by buses to the polling stations with the security of the police.
-
-Meanwhile, 90 thousand 607 voters in Mannar district are eligible to vote.
-
-◼️
-
-[Data](articles/896371e8.json)
-
-[Extended Data](ext_articles/896371e8.ext.json)
-
----
-
-### Preparations completed for 2024 Presidential Election
-
-*2024-09-20 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102095/preparations-completed-for-2024-presidential-election) · `en`
-
-District Returning Officers say that all the necessary arrangements for the 2024 Presidential Election are already completed.
-
-Colombo District Returning Officer Prasanna Ginige stated that all necessary preparations have been completed for voting at 1,204 polling stations within the district.
-
-Meanwhile, the Grama Niladhari Officers’ Association says that they are currently engaged in preparing all the polling stations appropriately, despite facing issues with regard to financial allocations.
-
-The General Secretary of the All-Island Grama Niladhari Officers’ Association, Jagath Chandralal said all the Grama Niladhari officers are participating in these activities.
-
-Meanwhile, the Postal Department says that voters who have not yet received their official ballot papers can collect them today (20) and tomorrow (21) from their local post office.
-
-Deputy Postmaster General Rajitha Ranasinghe stated that voters can obtain their ballot papers after verifying their identity.
-
-...
-
-[Data](articles/4eccebb1.json)
-
-[Extended Data](ext_articles/4eccebb1.ext.json)
 
 ---

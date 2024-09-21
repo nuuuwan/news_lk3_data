@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 14:22:24**
+As of **2024-09-21 14:38:04**
 
 ## Newspaper Stats
 
-*Scraped **45,075** Articles*
+*Scraped **45,076** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 438
+bbccomsinhala | 439
 colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,729
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,074 (100.0%) of 45,075 articles have been extended.
+45,076 (100.0%) of 45,076 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,9 +86,11 @@ Investigations have revealed that this is the first time the youth has voted in 
 
 The district-level voter turnout percentages for the 2024 Presidential Election as at 12 noon today have been reported with several districts already seeing a turnout of over 40 percent.
 
+Meanwhile, it is reported that the overall voter turnout as at 12 noon today has exceeded 45 percent.
+
 Accordingly, the voter turnout percentages of several districts as at 12.00 noon today (21) are as follows:
 
-Voting for the presidential election commenced at 7.00 a.m. this morning at 13,421 polling stations and will continue until 4.00 p.m.
+Voting for the presidential election commenced at 7.00 a.m. this morning at 13,421 polling stations across the island and will continue until 4.00 p.m.
 
 ◼️
 
@@ -142,17 +144,27 @@ Jarangani (age 61), who went to Maskeliya Kudamaskeliya area, was injured.He has
 
 ---
 
-### ඡන්ද පත්‍රිකාව ඉරූ පුද්ගලයෙක් අත්අඩංගුවට
+### A Suspect arrested for ballot paper
 
 *2024-09-21 12:21:35* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-පත්‍රිකාව-ඉරූ-පුද්ගලයෙක්-අත්අඩංගුවට/11-412052) · `si`
 
-වරාකාපොල, බෞද්ධ විද්‍යාලයේ පැවැත්වෙන ඡන්දය ප්‍රකාශ කිරිමේ මධ්‍යස්ථානයේදි සිය ඡන්ද පත්‍රිකාව දෙකට ඉරා දැමූ පුද්ගලයෙක් පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of 200 characters:
 
-මෙහිදී සැකකරු ඉරා දැමූ ඡන්ද පත්‍රිකාවෙන් කොටසක් තම කලිසම් සාක්කුවටත් ඉතිරි කොටස ඡන්ද පෙට්ටියටත් දමා තිබේ.
+
+
+Police arrest suspect found with ballot papers at voting center. Part of ballot in pocket, rest elsewhere. Investigation ongoing.
+
+🟩
+
+Police have arrested a man who was handed over to the two ballot papers at the Voting Center at the Voting Center at Warakaplowy.
+
+A part of the suspected ballot was placed in his pants pocket and the rest of the party.
 
 ◼️
 
 [Data](articles/79a13c25.json)
+
+[Extended Data](ext_articles/79a13c25.ext.json)
 
 ---
 
@@ -951,6 +963,40 @@ Meanwhile, Chairman of the Ceylon Transport Board Lalith de Alwis said that 3300
 [Data](articles/31f3c97f.json)
 
 [Extended Data](ext_articles/31f3c97f.ext.json)
+
+---
+
+### 2024 Presidential Election: What happened in the first few hours?
+
+*2024-09-21 07:42:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ced0nvdxp52o) · `si`
+
+Here's a summary of the key points in 200 characters:
+
+
+
+Sri Lanka's 2024 presidential election began peacefully. 39 candidates contested. 85 election law violations reported. Voter turnout at 50%. No major incidents in first few hours. Election monitors praised process so far.
+
+🟩
+
+The Presidential Electional Elections for the election of the 9th Executive President in Sri Lanka began at 7.00 am today (September 21).
+
+BBC Sinhala Regional Reporters said that the voters are coming to the polling centers at present.
+
+International and local election monitors are participating in election monitoring duties.
+
+39 candidates contesting for the presidential election, one of them died before the presidential election, but his name is mentioned in the ballot.
+
+The official ballot printed for the presidential election this year is the longest ballot.
+
+The Elections Commission announced that 85 violations of election law violations have been received by the Sri Lankan presidential election today (Sew 21).
+
+The Commission has issued a complaint with the Commission to ensure transparency and equity throughout the election process.
+
+...
+
+[Data](articles/a833f2a4.json)
+
+[Extended Data](ext_articles/a833f2a4.ext.json)
 
 ---
 
@@ -2201,27 +2247,5 @@ According to a complaint lodged by the Bribery Commission, the suspect police se
 [Data](articles/2f953d54.json)
 
 [Extended Data](ext_articles/2f953d54.ext.json)
-
----
-
-### Everything is ready for the election
-
-*2024-09-20 20:51:26* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දයට-සියල්ල-සූදානම්/11-412048) · `si`
-
-Sri Lanka Election Commission confirms readiness for tomorrow's presidential election. Ballot papers distributed, voting process planned for 7am start. Voter turnout expected from electoral centers.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says everything is ready for the presidential election tomorrow.
-
-Speaking to the media at Royal College, Colombo today (20). The commission General stated that all confrontations including ballot papers required for tomorrow's election are already sent to the relevant centers.
-
-Accordingly, there is a proper program to vote for the 7th morning and has been prepared to the voter turnout from the electoral centers from the electoral centers.He added that he added.
-
-◼️
-
-[Data](articles/8d59d505.json)
-
-[Extended Data](ext_articles/8d59d505.ext.json)
 
 ---

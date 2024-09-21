@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 08:33:10**
+As of **2024-09-21 08:19:58**
 
 ## Newspaper Stats
 
-*Scraped **45,030** Articles*
+*Scraped **45,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,17 @@ dailymirrorlk | 4,733
 adaderanalk | 5,286
 tamilmirrorlk | 5,899
 virakesarilk | 7,210
-adaderanasinhalalk | 7,714
+adaderanasinhalalk | 7,713
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,023 (100.0%) of 45,030 articles have been extended.
+45,023 (100.0%) of 45,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
-
-### ඡන්දය වෙනුවෙන් විශේෂ බස් රථ සේවාව අදත්
-
-*2024-09-21 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201252) · `si`
-
-ජනාධිපතිවරණය සදහා ඡන්දය ප්‍රකාශ කිරීමට ගම්බිම් බලායන ජනතාවට අද (21) දිනයේදී ද බස් රථ යෙදවීමට පියවර  ගන්නා බව ලංකා පෞද්ගලික බස් රථ හිමියන්ගේ සංගමය පවසයි.
-
-එහි සභාපති ගැමුණු විජේරත්න මහතා සඳහන් කලේ උදෑසනම පැමිණ සිය ගමනාත්ත වෙත ගමන් කිරීමට පියවර ගන්නා ලෙස මගී ජනතාවලෙන් ඉල්ලා සිටින බවයි.
-
-මේ අතර ලංකා ගමනා ගමන මණ්ඩලයේ සභාපති ලලිත් ද අල්විස් මහතා සඳහන් කරනුයේ අද දිනයේ ලංගම බස් රථ 3300ක් ද ධාවනයට එක් කරන බවය.
-
-◼️
-
-[Data](articles/31f3c97f.json)
-
----
 
 ### Information that Namal's family left the country
 
@@ -2287,5 +2271,31 @@ According to Katunayake airport, the Katunayake Airport was also planning to go 
 [Data](articles/f028f14c.json)
 
 [Extended Data](ext_articles/f028f14c.ext.json)
+
+---
+
+### History: Sri Lanka's first presidential election- 1982 Veerakesari ...
+
+*2024-09-20 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194103) · `ta`
+
+Sri Lanka's 1st presidential election 1982: J.R. Jayewardene re-elected as president. Multi-party competition. Strong police presence during voting. Weerakesari magazine coverage.
+
+🟩
+
+Who is the winner in the multi -competition field?Who is the new President elected by the people?Sri Lanka's 9th presidential election will be held nationwide on Saturday (21st).
+
+Voting has been carried out amidst the strong security of the police who are on duty throughout the country.
+
+Today, the country, which is a political turning point, faced Sri Lanka's first presidential election on October 20, 1982.
+
+On the front page of the Weerakesari magazine published in Attikathi, the news was published on the topic "Cooperate in the election today: go and vote for the time - the Election Commissioner Request."
+
+Also, here are the photos and some news published on the country's first presidential election on October 20, 1982, on October 20, 1982.
+
+◼️
+
+[Data](articles/5314e0e9.json)
+
+[Extended Data](ext_articles/5314e0e9.ext.json)
 
 ---

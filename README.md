@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 18:30:09**
+As of **2024-09-21 18:41:00**
 
 ## Newspaper Stats
 
-*Scraped **45,110** Articles*
+*Scraped **45,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,734
 dailyftlk | 3,017
-adalk | 4,165
+adalk | 4,167
 dailymirrorlk | 4,733
 adaderanalk | 5,302
 tamilmirrorlk | 5,914
-virakesarilk | 7,223
-adaderanasinhalalk | 7,733
+virakesarilk | 7,226
+adaderanasinhalalk | 7,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,110 (100.0%) of 45,110 articles have been extended.
+45,116 (100.0%) of 45,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Police statement on security
+
+*2024-09-21 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201273) · `si`
+
+Sri Lanka police announce future security measures post-election. Public urged to report incidents via specified phone numbers.
+
+🟩
+
+Police Media Spokesperson DIG Talduuwa says that a special security measures in the country will be implemented in the future.
+
+He was speaking at a press conference held after the end of the vote at 4 pm today.
+
+He said the security measures in the country will be implemented until the results of the police officers and the repressive unit of repression unit.
+
+Meanwhile, the Police Media Spokesperson has not understood the rules of these rules and the patriarchs of the post-election duration and in a week.
+
+He demanded that the Sri Lankan Police to support the Sri Lankan Police to take necessary steps to protect the law and order of the country peacefully.
+
+The police also requests the public to inform the following telephone numbers if there is no information about peace.
+
+◼️
+
+[Data](articles/6b23a84a.json)
+
+[Extended Data](ext_articles/6b23a84a.ext.json)
+
+---
+
+### Presidential Election 2024: District -wide voting rates
+
+*2024-09-21 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194303) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Presidential Election 2024: Voting began at 7 AM and ended at 4 PM. National turnout ranges from 75% to 80%. Specific district percentages not provided."
+
+🟩
+
+Voting for the presidential election to elect the country's 9th executive president commenced today (21) at 7.00 am and ended at 4 pm.
+
+Meanwhile, the Pepral Organization said that voting has been ranging from 75 to 80 percent nationwide.
+
+Accordingly, below the percentage of votes recorded in some districts across the country,
+
+◼️
+
+[Data](articles/78b00fdf.json)
+
+[Extended Data](ext_articles/78b00fdf.ext.json)
+
+---
 
 ### Voting the main candidates
 
@@ -114,6 +168,36 @@ Namal Rajapaksa said his votes after the election.
 
 ---
 
+### Voting boxes are taken to polling stations!
+
+*2024-09-21 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194296) · `ta`
+
+Sri Lanka's 2024 presidential election results: Gotabhaya Rajapakse wins with 52.25% of votes. First results announced at midnight. 17 million eligible voters cast ballots across 22 districts.
+
+🟩
+
+The 2024 presidential election voting was completed independently and quietly on Saturday (21st).
+
+The voting, which began at 7 am today, ended at 4 pm.
+
+In this case, voting boxes from polling stations have been taken to polling stations.
+
+The first election result will be released at midnight today, said Saman Sri Ratnayake, Commissioner General of the Election Commission.
+
+With 38 presidential candidates contesting this time, 17, 140,354 were eligible to vote.
+
+In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3,151 voting centers in the Colombo Election District.
+
+Gotabhaya Rajapakse, who contested the presidential candidate of Sri Lanka PA as the presidential candidate, was elected as the 7th Executive President of the country with 52.25 per cent votes with 52.25 per cent votes.
+
+...
+
+[Data](articles/c3e05b41.json)
+
+[Extended Data](ext_articles/c3e05b41.ext.json)
+
+---
+
 ### Anura request after votes
 
 *2024-09-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201271) · `si`
@@ -133,6 +217,50 @@ He was speaking at the polling station at the Punchikawatta Abeymana Temple.
 [Data](articles/c92cc8db.json)
 
 [Extended Data](ext_articles/c92cc8db.ext.json)
+
+---
+
+### Counting of postal votes
+
+*2024-09-21 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194299) · `ta`
+
+Postal vote counting update: Elections Commissioner R.M.A.L. Ratnayake announced the first results will be released by midnight today.
+
+🟩
+
+Elections Commissioner R.. M.. A.. L. Ratnayake said.
+
+He also said that the first election will be released by midnight today.
+
+◼️
+
+[Data](articles/a7016edd.json)
+
+[Extended Data](ext_articles/a7016edd.ext.json)
+
+---
+
+### Presidential Election 2024: District -wide voting rates
+
+*2024-09-21 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/194297) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Presidential Election 2024: Voting began at 7 AM and ended at 4 PM. District-wide voting rates reported. Results pending."
+
+🟩
+
+Voting for the presidential election to elect the country's 9th executive president commenced today (21) at 7.00 am and ended at 4 pm.
+
+Accordingly, below the percentage of votes recorded in some districts across the country,
+
+◼️
+
+[Data](articles/aecedfb9.json)
+
+[Extended Data](ext_articles/aecedfb9.ext.json)
 
 ---
 
@@ -173,36 +301,6 @@ Meanwhile, it was earlier reported that the overall voter turnout as at 2.00 p.m
 [Data](articles/b9c8bfdd.json)
 
 [Extended Data](ext_articles/b9c8bfdd.ext.json)
-
----
-
-### Voting boxes are taken to polling stations!
-
-*2024-09-21 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194296) · `ta`
-
-Sri Lanka's 2024 presidential election results: Gotabhaya Rajapakse wins with 52.25% of votes. First results announced at midnight. 17 million eligible voters cast ballots across 22 districts.
-
-🟩
-
-The 2024 presidential election voting was completed independently and quietly on Saturday (21st).
-
-The voting, which began at 7 am today, ended at 4 pm.
-
-In this case, voting boxes from polling stations have been taken to polling stations.
-
-The first election result will be released at midnight today, said Saman Sri Ratnayake, Commissioner General of the Election Commission.
-
-With 38 presidential candidates contesting this time, 17, 140,354 were eligible to vote.
-
-In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3,151 voting centers in the Colombo Election District.
-
-Gotabhaya Rajapakse, who contested the presidential candidate of Sri Lanka PA as the presidential candidate, was elected as the 7th Executive President of the country with 52.25 per cent votes with 52.25 per cent votes.
-
-...
-
-[Data](articles/c3e05b41.json)
-
-[Extended Data](ext_articles/c3e05b41.ext.json)
 
 ---
 
@@ -373,6 +471,28 @@ Voting for the 2024 presidential election began at 7.00 am at 13,421 polling sta
 [Data](articles/28b950bf.json)
 
 [Extended Data](ext_articles/28b950bf.ext.json)
+
+---
+
+### Presidential candidates who voted
+
+*2024-09-21 16:27:55* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-භාවිතා-කළ-ජනාධිපතිවරණ-අපේක්ෂකයන්/11-412056) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Presidential candidates who voted: Several candidates revealed their voting choices post-election, sparking public interest and debate about political transparency."
+
+🟩
+
+Several presidential candidates who have come forward for the Presidential Electorate have been released to the media after the election.
+
+◼️
+
+[Data](articles/ca1a56dd.json)
+
+[Extended Data](ext_articles/ca1a56dd.ext.json)
 
 ---
 
@@ -1608,6 +1728,26 @@ This gazette notification is prescribed by the President that these services pro
 
 ---
 
+### Voting over 75 percent
+
+*2024-09-21 08:53:46* · [`adalk`](https://www.ada.lk/breaking_news/සියයට-75-ඉක්මවා-ඡන්දය-දෙයි/11-412049) · `si`
+
+Presidential election voting begins at 7 AM, ends at 4 PM. Eligible voters must present valid national ID cards. Temporary IDs accepted for disabled individuals.
+
+🟩
+
+The vote on the presidential election began from 7.00 am today (21) and will vote to vote until 4:00 pm.
+
+The National Identity Card issued by the Department of Registration, the National Identity Card issued by the Department of Registration, the National Identity Card issued by the Department of Opportunity, is issued by the Department of RegistrationDuly), Elders Identity Card (Illegal Identity Card issued by the Department of Indigenous) and the Department of Registration of PersonsThe Commission informs to carry the temporary identity card issued by the Elections Commission for temporary ID or disabled persons.
+
+◼️
+
+[Data](articles/2cc0fee5.json)
+
+[Extended Data](ext_articles/2cc0fee5.ext.json)
+
+---
+
 ### President launches
 
 *2024-09-21 08:53:46* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-ඇරඹෙයි/11-412049) · `si`
@@ -2203,115 +2343,5 @@ At the same time, the police department said that proper security arrangements w
 [Data](articles/700c1ee4.json)
 
 [Extended Data](ext_articles/700c1ee4.ext.json)
-
----
-
-### Voting Center will be witchcraft if there are adverse events to vote - the Election Commission
-
-*2024-09-21 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/194217) · `ta`
-
-Election Commission warns: Violence at polling stations will disable centers, postpone results. Candidates' reps allowed, others restricted. Civil security deployed. Peaceful voting urged.
-
-🟩
-
-In the event of any incident of violence at polling stations and voting, the polling station will be completely disabled and the voting will be re -voted.. The Commissioner of the Elections Commission said that the election will not be released until then.
-
-He said this while commenting on the presidential election.
-
-Two candidates' representatives are allowed to stay there at all polling stations. Until they can get out of the place until they are voting. Similarly, other representatives cannot go to those stations.Likewise no one should gather near polling stations. I have already reported this.
-
-Similarly, in the event of a vote of voting at the polling station, or if there is a dismantling action, we will take action to deactivate the polling station.
-
-...
-
-[Data](articles/2d2d83cc.json)
-
-[Extended Data](ext_articles/2d2d83cc.ext.json)
-
----
-
-### All political parties must respect the choice of the people;Should not be accompanied by violence after the election - the National Movement for Social Justice
-
-*2024-09-21 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194218) · `ta`
-
-National Movement for Social Justice urges peaceful elections in Sri Lanka. Political parties should respect voters' choices and avoid post-election violence. The organization aims to create a democratic environment similar to Bangladesh's.
-
-🟩
-
-Efforts to hold elections that are peaceful and non -violent in Sri Lanka. The National Movement for Social Justice, which has pointed out that it will lead to Sri Lanka and Bangladesh like Bangladesh, has urged all political parties to work for the choice of the people.
-
-In a statement issued by the National Movement for Social Justice headed by former Speaker Karu Jayasuriya:
-
-With Sri Lanka's largest presidential election to be held on Saturday (21), people have the opportunity to elect their leader for the next five years.. People have the right to vote independently without any obstacles in this election.
-
-In this context, party leaders still have a strong responsibility than the presidential candidates. Their most important task is to honor people's choice. It will only honor the country's laws and social justice and respect for basic civil standards.
-
-...
-
-[Data](articles/c09d88de.json)
-
-[Extended Data](ext_articles/c09d88de.ext.json)
-
----
-
-### MMCA Sri Lanka opens ‘Total Landscaping’ Rotation 1
-
-*2024-09-21 01:13:00* · [`islandlk`](http://island.lk/mmca-sri-lanka-opens-total-landscaping-rotation-1/) · `en`
-
-The Museum of Modern and Contemporary Art Sri Lanka (MMCA Sri Lanka) opened Rotation 1 of their new exhibition ‘Total Landscaping’ on 12 September. Curated by Sandev Handy and Thinal Sajeewa, ‘Rotation 1 of ‘Total Landscaping’ is open to the public until 1 December 2024. Entry to the exhibition is free and the museum is located on the ground floor of Crescat Boulevard, Colombo 03.
-
-‘Total Landscaping’ explores the broad, dramatic, and stirring ways in which land has been transformed in Sri Lanka. The exhibition brings together 29 contemporary artists whose works go beyond traditional illustrations of landscapes. Instead, their works register the different ways in which perceptions of land have been constructed and contested. ‘Total Landscaping’ unfolds as a sequence of changing displays that elicit an all-out renegotiation of our relationships to land.
-
-...
-
-[Data](articles/0b5e08c0.json)
-
-[Extended Data](ext_articles/0b5e08c0.ext.json)
-
----
-
-### NDB Bank partners with University of Sri Jayewardenepura to empower next generation of leaders
-
-*2024-09-21 01:09:00* · [`islandlk`](http://island.lk/ndb-bank-partners-with-university-of-sri-jayewardenepura-to-empower-next-generation-of-leaders/) · `en`
-
-NDB Bank is proud to announce the signing of a Memorandum of Understanding (MOU) with the University of Sri Jayewardenepura, marking a significant milestone in its ongoing efforts to shape the future of Sri Lanka’s financial sector. This partnership symbolizes NDB’s commitment to bridging the gap between academia and industry, providing a platform where young talent can thrive and contribute to the evolving landscape of banking and finance.
-
-This collaboration will offer students a wealth of opportunities, from internships and training programs to collaborative research initiatives. By working alongside one of Sri Lanka’s most prestigious educational institutions, NDB is investing in the future workforce, ensuring that the next generation of leaders is equipped with the skills and knowledge to excel in a dynamic, technology-driven industry.
-
-...
-
-[Data](articles/a03f7d96.json)
-
-[Extended Data](ext_articles/a03f7d96.ext.json)
-
----
-
-### Major entities come together to create value from waste via Public-Private Partnership
-
-*2024-09-21 01:03:00* · [`islandlk`](http://island.lk/major-entities-come-together-to-create-value-from-waste-via-public-private-partnership/) · `en`
-
-In light of the solid waste management challenges faced, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH and three of Sri Lanka’s largest Fast Moving Consumer Goods (FMCG) companies – Coca-Cola Sri Lanka Beverages Ltd. along with The Coca-Cola Foundation, Nestlé, and Unilever, have come together to launch a sustainable plastic waste management project, with the ambition of tackling plastic pollution and leveraging the untapped potential of plastic waste. This Public-Private Partnership (PPP) named ‘Waste to Value’ aims to strengthen infrastructure on collection, segregation, recycling and upcycling of plastic waste, whilst driving a behavioural change towards a circular economy by creating awareness on the value of responsibly disposed waste to livelihoods and the environment.
-
-...
-
-[Data](articles/cd80ab5b.json)
-
-[Extended Data](ext_articles/cd80ab5b.ext.json)
-
----
-
-### Dialog launches trilingual Sayuru App to support Sri Lankan fishing communities
-
-*2024-09-21 01:01:00* · [`islandlk`](http://island.lk/dialog-launches-trilingual-sayuru-app-to-support-sri-lankan-fishing-communities/) · `en`
-
-In a continued effort to empower Sri Lanka’s fishing communities, Dialog Axiata PLC, the country’s #1 connectivity provider, has launched the Sayuru mobile app, available in Sinhala, Tamil, and English. Designed for day-boat fishermen, the app offers real-time weather updates and other essential services, in partnership with the Department of Fisheries and Aquatic Resources and the Department of Meteorology.
-
-Building on the success of the SMS and voice-based Sayuru service introduced in 2020, the enhanced app includes features such as ‘Today’s Weather,’ ‘Mark My Route,’ ‘Saved Locations,’ ‘Department Services,’ ‘Awareness Programmes,’ a digital compass, SOS alerts, and a fuel calculator. While the Sayuru SMS and voice service remains free, the app provides a 90-day trial for the new features, followed by a daily subscription fee of Rs. 2 + tax. The app can be downloaded for free from the Google Play Store, and Dialog customers can access it without incurring data charges.
-
-...
-
-[Data](articles/05848cf9.json)
-
-[Extended Data](ext_articles/05848cf9.ext.json)
 
 ---

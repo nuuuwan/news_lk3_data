@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 14:38:04**
+As of **2024-09-21 14:56:44**
 
 ## Newspaper Stats
 
-*Scraped **45,076** Articles*
+*Scraped **45,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,297
 tamilmirrorlk | 5,910
 virakesarilk | 7,217
-adaderanasinhalalk | 7,723
+adaderanasinhalalk | 7,724
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,076 (100.0%) of 45,076 articles have been extended.
+45,077 (100.0%) of 45,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### The voting results before 12 midnight
+
+*2024-09-21 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201263) · `si`
+
+Saman Sri Ratnayake announced presidential election results before midnight.
+
+🟩
+
+The Commissioner General of Elections Saman Sri Ratnayake said that the Presidential election results were issued today before 12 midnight.
+
+◼️
+
+[Data](articles/85c7288b.json)
+
+[Extended Data](ext_articles/85c7288b.ext.json)
+
+---
 
 ### Voting on the floor: Many have not climbed
 
@@ -2223,29 +2241,5 @@ He said that the answer sheet has been suspended until the final resolution is f
 [Data](articles/a871e5d9.json)
 
 [Extended Data](ext_articles/a871e5d9.ext.json)
-
----
-
-### At work of police sticks
-
-*2024-09-20 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201246) · `si`
-
-Sergeant arrested for bribery: Allegedly took 5000 rupees to expedite police report process.
-
-🟩
-
-Police sergeant has been arrested on charges of bribery.
-
-The Bribery Investigation Commission said that a sergeant in Pothuhehera Police had been arrested on charges of obtaining a bribe of Rs. 5,000.
-
-It is said that the bribe had requested to provide necessary action to grant a police report without entry into a police report.
-
-According to a complaint lodged by the Bribery Commission, the suspect police sergeant has been arrested at the time of the Bribery Commission.
-
-◼️
-
-[Data](articles/2f953d54.json)
-
-[Extended Data](ext_articles/2f953d54.ext.json)
 
 ---

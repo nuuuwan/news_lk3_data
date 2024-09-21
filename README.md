@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 06:06:37**
+As of **2024-09-21 06:43:36**
 
 ## Newspaper Stats
 
-*Scraped **45,010** Articles*
+*Scraped **45,011** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,157
 dailymirrorlk | 4,733
 adaderanalk | 5,286
 tamilmirrorlk | 5,895
-virakesarilk | 7,209
+virakesarilk | 7,210
 adaderanasinhalalk | 7,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,010 (100.0%) of 45,010 articles have been extended.
+45,011 (100.0%) of 45,011 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1966,6 +1966,32 @@ According to Katunayake airport, the Katunayake Airport was also planning to go 
 
 ---
 
+### History: Sri Lanka's first presidential election- 1982 Veerakesari ...
+
+*2024-09-20 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194103) · `ta`
+
+Sri Lanka's 1st presidential election 1982: J.R. Jayewardene re-elected as president. Multi-party competition. Strong police presence during voting. Weerakesari magazine coverage.
+
+🟩
+
+Who is the winner in the multi -competition field?Who is the new President elected by the people?Sri Lanka's 9th presidential election will be held nationwide on Saturday (21st).
+
+Voting has been carried out amidst the strong security of the police who are on duty throughout the country.
+
+Today, the country, which is a political turning point, faced Sri Lanka's first presidential election on October 20, 1982.
+
+On the front page of the Weerakesari magazine published in Attikathi, the news was published on the topic "Cooperate in the election today: go and vote for the time - the Election Commissioner Request."
+
+Also, here are the photos and some news published on the country's first presidential election on October 20, 1982, on October 20, 1982.
+
+◼️
+
+[Data](articles/5314e0e9.json)
+
+[Extended Data](ext_articles/5314e0e9.ext.json)
+
+---
+
 ### Can the 5th grade scholarship exam be held again?- Secretary of the Ministry of Education
 
 *2024-09-20 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/194180) · `ta`
@@ -2313,25 +2339,5 @@ The President said that it was his expectation that the country would be ahead o
 [Data](articles/c05df512.json)
 
 [Extended Data](ext_articles/c05df512.ext.json)
-
----
-
-### Will the scholarship reside again?
-
-*2024-09-20 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201227) · `si`
-
-Year 5 scholarship exam probe ongoing: Ministry of Education. Investigation by Department of Examinations, CID involved. Action based on findings.
-
-🟩
-
-Investigations have to be held once again in relation to the Year 5 scholarship examination this year, the Ministry of Education Thilaka Jayasundara said.
-
-"The Year 5 scholarship was held on September 15. The Department of Examinations conducted an investigation by the Department of Examinations. With the initial investigation report, the CID is currently underway. The President and the Minister instructed to act according to the results of the investigation. "
-
-◼️
-
-[Data](articles/bd4a30f5.json)
-
-[Extended Data](ext_articles/bd4a30f5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 01:07:51**
+As of **2024-09-22 01:22:39**
 
 ## Newspaper Stats
 
-*Scraped **45,169** Articles*
+*Scraped **45,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,171
 dailymirrorlk | 4,733
 adaderanalk | 5,311
-tamilmirrorlk | 5,926
+tamilmirrorlk | 5,927
 virakesarilk | 7,235
 adaderanasinhalalk | 7,745
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,169 (100.0%) of 45,169 articles have been extended.
+45,169 (100.0%) of 45,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### ஊரடங்கு சட்டம்: பொலிஸ் விசேட அறிவிப்பு
+
+*2024-09-22 00:36:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-சட்டம்-பொலிஸ்-விசேட-அறிவிப்பு/175-344116) · `ta`
+
+​பொலிஸ் ஊரடங்கு சட்டம், சனிக்கிழமை (21) இரவு 10 மணி முதல், ஞாயிற்றுக்கிழமை (22) காலை 6 மணி வரையிலும் அமுலில் இருக்கும்.
+
+இக்காலப்பகுதியில், பொலிஸ் நிலையங்களின் ஊடாக, ஊரடங்கு அனுமதிப்பத்திரம் விநியோகிக்கப்படமாட்டாது. அத்தியாவசிய மற்றும் அவசர சேவைகள் நிமிர்த்தம் அலுவலக அடையாள அட்டையை ஊரடங்கு அனுமதிப்பத்திரமாக பயன்படுத்த முடியும் என்று பொலிஸ் ஊடகப்பிரிவு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1da4a4bb.json)
+
+---
 
 ### Sri Lanka Police announcement on curfew passes
 
@@ -2305,23 +2319,5 @@ If Ranil Wickremesinghe wins, Parliament will not be dissolved for a year and a 
 [Data](articles/d02cddc5.json)
 
 [Extended Data](ext_articles/d02cddc5.ext.json)
-
----
-
-### Here is the total percentage of votes that have ever been expressed
-
-*2024-09-21 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201261) · `si`
-
-Total vote percentage exceeds 30% by 10am today.
-
-🟩
-
-It is reported that the total number of votes has exceeded 30% by 10 am today.
-
-◼️
-
-[Data](articles/2b40e399.json)
-
-[Extended Data](ext_articles/2b40e399.ext.json)
 
 ---

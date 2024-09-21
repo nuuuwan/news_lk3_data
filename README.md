@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 16:09:45**
+As of **2024-09-21 16:22:38**
 
 ## Newspaper Stats
 
-*Scraped **45,081** Articles*
+*Scraped **45,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,162
 dailymirrorlk | 4,733
-adaderanalk | 5,298
+adaderanalk | 5,299
 tamilmirrorlk | 5,911
 virakesarilk | 7,217
 adaderanasinhalalk | 7,726
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,726
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,081 (100.0%) of 45,081 articles have been extended.
+45,082 (100.0%) of 45,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Voting ends in 2024 Presidential Election
+
+*2024-09-21 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102121/voting-ends-in-2024-presidential-election) · `en`
+
+The voting for the 2024 Presidential Election has officially concluded at 4.00 p.m. today (21).
+
+◼️
+
+[Data](articles/633857d2.json)
+
+[Extended Data](ext_articles/633857d2.ext.json)
+
+---
 
 ### Did you vote in the pen?
 
@@ -2185,27 +2199,5 @@ The commission has issued an announcement and the commission has provided facili
 [Data](articles/4b0cdb18.json)
 
 [Extended Data](ext_articles/4b0cdb18.ext.json)
-
----
-
-### Special move to vote voters in disability!
-
-*2024-09-20 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194216) · `ta`
-
-Election Commission provides special assistance for disabled voters at polling stations. Report allows assistants to accompany voters. Special transport and other facilities offered.
-
-🟩
-
-The Election Commission has taken special measures to provide special measures at all polling stations to vote for voters in the upcoming presidential election.
-
-The Election Commission has also issued a report on this. In the report, the assistant is allowed to take an assistant with the inability of the voter.
-
-Permission has been granted to provide special transport facilities and many other facilities have been made by the Election Commission.
-
-◼️
-
-[Data](articles/bc3b7d3b.json)
-
-[Extended Data](ext_articles/bc3b7d3b.ext.json)
 
 ---

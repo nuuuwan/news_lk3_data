@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 21:38:16**
+As of **2024-09-21 21:57:54**
 
 ## Newspaper Stats
 
-*Scraped **45,137** Articles*
+*Scraped **45,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,734
 dailyftlk | 3,017
 adalk | 4,169
 dailymirrorlk | 4,733
-adaderanalk | 5,306
-tamilmirrorlk | 5,920
+adaderanalk | 5,307
+tamilmirrorlk | 5,922
 virakesarilk | 7,229
 adaderanasinhalalk | 7,740
 
@@ -26,37 +26,105 @@ adaderanasinhalalk | 7,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,136 (100.0%) of 45,137 articles have been extended.
+45,140 (100.0%) of 45,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
 
-### ඡන්දය ප්‍රකාශ කළ සමස්ත ප්‍රතිශතය සියයට 75ක්
+### Curfew imposed islandwide
+
+*2024-09-21 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102129/curfew-imposed-islandwide) · `en`
+
+Curfew has been imposed islandwide with effect from 10.00 p.m. today (21) until 06.00 a.m. tomorrow (22).
+
+This decision has been taken by the incumbent President Ranil Wickramasinghe in view of the releasing of the results of 2024 presidential election tonight.
+
+◼️
+
+[Data](articles/ed58d695.json)
+
+[Extended Data](ext_articles/ed58d695.ext.json)
+
+---
+
+### Overall percentage of voted 75 percent
 
 *2024-09-21 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201279) · `si`
 
-ශ්‍රී ලංකාවේ 9වන විධායක ජනාධිපතිවරයා තෝරාගැනීමේ ඡන්ද විමසීම අද (21)  පැවැත්වුණි.
+Sri Lanka presidential election: 75% voter turnout reported. Election commission expects first official postal voting results tonight. Polling stations open from 7am to 4pm. Voter participation varies by district, ranging from 65% to 89%.
 
-මේ වන විටත් ඡන්ද ගණන් කිරීමේ කටයුතු ආරම්භ කර ඇති අතර පළමු නිල තැපැල් ඡන්ද ප්‍රතිඵලය අද මැදියම් රැයට පෙර නිකුත් කිරීමට බලාපොරොත්තු වන බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+🟩
 
-මැතිවරණ කොමිසම මෙන්ම මැතිවරණ නිරීක්ෂකයන්ද ප්‍රකාශ කළේ මෙරට ඉතිහාසයේ සාමකාමීම ජනපතිවරණය මෙය බවය.
+The election of the 9th Executive President of Sri Lanka was held today (21st).
 
-2024 ඡන්ද හිමි නාමලේඛනයට අනුව මෙවර ජනාධිපතිවරණය සඳහා ලියාපදිංචි වී ඇති ඡන්ද දායකයින් සංඛ්‍යාව17,140,354කි.
+The counting of votes has already begun and the first official postal voting results are expected to be released before midnight today.
 
-ඒ සඳහා දිවයින පුරා ඡන්ද මධ්‍යස්ථාන 13,421ක ස්ථාපිත කර තිබුණි.
+Elections Commission as well as election monitor, the presidential election was the Peace of the country.
 
-ඒ අනුව ඡන්ද දායකයින් අද පෙරවරුවේ සිටම ඡන්ද මධ්‍යස්ථානවලට පැමිණ සිය වටිනා ඡන්දය භාවිත කරනු දක්නට ලැබුණි.
+According to the 2024 electoral register, 17,140,354 were registered for the presidential election this year.
 
-ඇතැම් ප්‍රදේශවල ඡන්ද දායකයින් පැවැති අයහපත් කාලගුණ තත්ත්වය ද නොතකමින් ඡන්දය භාවිත කිරීම සඳහා වැඩි උනන්දුවක් දැක්වු බව අප වාර්තාකරුවන් සඳහන් කළේය.
+It was established in 13,421 polling centers across the country.
 
-අද උදෑසන 7ට ආරම්භ වූ ජනාධිපතිවරණ ඡන්ද විමසීම පස්වරු 4 ට නිමාවට පත්වුණි.
+Accordingly, the voters have come to the polling stations this morning and elected their votes.
 
-මෙවර ජනාධිපතිවරණයේදී සමස්ත ඡන්ද දායකයන්ගෙන් සියයට 75 ක් පමණ ඡන්දය ප්‍රකාශ කර ඇතැයි මැතිවරණ තේරීම් භාර නිලධාරීන් පවසයි.
+In some areas, hostile weather, we have been interested in the vote weather.
+
+Presidential election, which began at 7am this morning, was completed at 4 pm.
+
+Elections for election selection officers say that about 75% of the total voters voted in this year's presidential election.
+
+75% of the Colombo District of the Western Province have been voted in the Colombo District, 85% in the Gampaha District.
 
 ...
 
 [Data](articles/18c94e45.json)
+
+[Extended Data](ext_articles/18c94e45.ext.json)
+
+---
+
+### This election will be the main turning point in the country
+
+*2024-09-21 21:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தத்-தேர்தல்-நாட்டின்-முக்கிய-திருப்பு-முனையாக-இருக்கும்/175-344099) · `ta`
+
+Sri Lanka's presidential election is considered a pivotal moment in the country's history. Candidate Anuradha Dissanayake emphasizes its significance as a turning point. The election aims to establish a stable government and protect democratic rights. Maintaining peace and supporting chosen political parties are crucial post-election priorities.
+
+🟩
+
+The presidential election will be the presidential election of Sri Lanka's history, said the National People's Power Presidential candidate Anurakumara Dissanayake.
+
+Long -time elections have been held to set up a government, to coup, change the government and to change leaders. But I think this election is the main turning point in the country.
+
+So after success, all should maintain peace. Democratic feature is the right to each individual to vote for parties who want to support any political party. We will continue to protect it. Remble
+
+◼️
+
+[Data](articles/c9c1a733.json)
+
+[Extended Data](ext_articles/c9c1a733.ext.json)
+
+---
+
+### “I voted in 9 presidential elections"
+
+*2024-09-21 21:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/9-ஜனாதிபதி-தேர்தல்களிலும்-வாக்களித்தேன்/75-344098) · `ta`
+
+Senior citizen John Philip Louis votes 9th time at 106 years old, casting ballot at St. Mary's College, Trincomalee.
+
+🟩
+
+John Philip Louis, a senior citizen of Trincomalee district, registered his vote at the age of 106.
+
+He had given his vote on Saturday (21) at St. Mary's College, Trincomalee.
+
+“He has the experience of voting in the nine presidential elections in the country,” he said.. (Geeta Ponkalan)
+
+◼️
+
+[Data](articles/64cb2adf.json)
+
+[Extended Data](ext_articles/64cb2adf.ext.json)
 
 ---
 
@@ -2263,77 +2331,5 @@ The National Identity Card issued by the Department of Registration, the Nationa
 [Data](articles/bb4370f9.json)
 
 [Extended Data](ext_articles/bb4370f9.ext.json)
-
----
-
-### High Security in 9 provinces
-
-*2024-09-21 08:35:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மாகாணங்களிலும்-அதி-உச்ச-பாதுகாப்பு/175-344077) · `ta`
-
-Security measures: 80,000 personnel, 2 officers per station, special transport, central monitoring system in 9 provinces.
-
-🟩
-
-Special security arrangements have been made in the recent areas of polling stations across the country.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that 80,000 security personnel, including the police, have been deployed for election security.
-
-At the same time, 2 police officers have been deployed for all polling stations.
-
-At the same time, special security arrangements have been made to carry the ballot boxes and the polling stations.
-
-The Special Monitoring Center has been constructed at the Police Headquarters and special monitoring centers have been established in all 9 provinces.. Remble
-
-◼️
-
-[Data](articles/8ec75c1e.json)
-
-[Extended Data](ext_articles/8ec75c1e.ext.json)
-
----
-
-### Presidential Election 2024: How to vote and accepted forms of ID
-
-*2024-09-21 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102111/presidential-election-2024-how-to-vote-and-accepted-forms-of-id) · `en`
-
-Eligible voters for the Presidential Election 2024 are required to carry one of nine accepted forms of identification to cast their vote.
-
-8. Temporary ID card issued by the Election Commission for disabled persons
-
-9. Temporary ID card issued by the Election Commission for others
-
-The Commissioner General of Elections, Saman Sri Ratnayake explaining how the vote should be marked said: “If someone wants to use their vote, they can use the ‘X’ mark to cast their votes. Similar to previous elections, the ‘X’ mark will be accepted by the Election commission. In addition, the Arabic numeral ‘1’ is also valid for marking the vote”, he added.
-
-Saman Sri Rathnayake further stated that for those wishing to indicate preferences, they can mark their first choice with the Arabic numeral ‘1’ and their second choice with the Arabic numeral ‘2’. To express all three preferences, voters must use Arabic numerals ‘1’, ‘2’, and ‘3’ and any other markings will be considered invalid, he said.
-
-...
-
-[Data](articles/f945e284.json)
-
-[Extended Data](ext_articles/f945e284.ext.json)
-
----
-
-### Hebollah leader killed in Israel
-
-*2024-09-21 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201253) · `si`
-
-Hezbollah leader killed in Israel airstrike. Ibrahim Akil, 14th leader, died along with 14 others injured. Second attack targets residential building.
-
-🟩
-
-An Hezbollah Head of Israel has died in an air strike at Israel's flights to the Lort of Lebtern Lertiest.
-
-The deceased has been identified as Ibrahim Akil and he was one of the 14th leaders of Hezbollah.
-
-Foreligar's media reports that 14 others were injured in this attack.
-
-This is the second attack on the Israeli and Walki Toki, targeting a residential building.
-
-◼️
-
-[Data](articles/dbabe217.json)
-
-[Extended Data](ext_articles/dbabe217.ext.json)
 
 ---

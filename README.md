@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 17:58:52**
+As of **2024-09-21 18:17:35**
 
 ## Newspaper Stats
 
-*Scraped **45,106** Articles*
+*Scraped **45,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,301
 tamilmirrorlk | 5,912
 virakesarilk | 7,223
-adaderanasinhalalk | 7,732
+adaderanasinhalalk | 7,733
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,106 (100.0%) of 45,106 articles have been extended.
+45,107 (100.0%) of 45,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### What Namal said about the people after votes
+
+*2024-09-21 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201272) · `si`
+
+Namal Rajapaksa praised volunteers' efforts in election campaign, emphasizing honesty and courage. He criticized politicians who prioritize personal interests over public welfare.
+
+🟩
+
+Namal Rajapaksa, presidential, Sri Lanka General's Front, President Rajapaksa. A. At the polling station of the Rajapaksa Vidyalaya, Rajapakse voted.
+
+Namal Rajapaksa said his votes after the election.
+
+"Many people volunteer in a very short time have been able to implement a successful election campaign because of many. We didn't do what we couldn't do, we're not lied to. If husband is voting, the wife, the kids, don't care. And we're not a political power that runs in fear. Clearly, some people are more intelligent than many politicians ".
+
+◼️
+
+[Data](articles/ad385691.json)
+
+[Extended Data](ext_articles/ad385691.ext.json)
+
+---
 
 ### Anura request after votes
 
@@ -2289,17 +2311,5 @@ Turnover stood at Rs 1.3 billion with a crossing. The crossing was reported in H
 [Data](articles/9f84feec.json)
 
 [Extended Data](ext_articles/9f84feec.ext.json)
-
----
-
-### How to vote
-
-*2024-09-21 00:50:10* · [`dailyftlk`](https://www.ft.lk/news/How-to-vote/56-766983) · `en`
-
-◼️
-
-[Data](articles/5bfdc0fa.json)
-
-[Extended Data](ext_articles/5bfdc0fa.ext.json)
 
 ---

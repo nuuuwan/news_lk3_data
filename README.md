@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 17:22:34**
+As of **2024-09-21 17:39:16**
 
 ## Newspaper Stats
 
-*Scraped **45,103** Articles*
+*Scraped **45,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,734
 dailyftlk | 3,017
 adalk | 4,165
 dailymirrorlk | 4,733
-adaderanalk | 5,300
-tamilmirrorlk | 5,911
+adaderanalk | 5,301
+tamilmirrorlk | 5,912
 virakesarilk | 7,223
-adaderanasinhalalk | 7,731
+adaderanasinhalalk | 7,732
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,103 (100.0%) of 45,103 articles have been extended.
+45,103 (100.0%) of 45,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### ඡන්දය ප්‍රකාශ කිරීමෙන් පසු අනුර කළ ඉල්ලීම
+
+*2024-09-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201271) · `si`
+
+ලංකා ඉතිහාසය වෙනස්කරන මැතිවරණයක් බවට මෙම  මැතිවරණය පත්වන බව ජාතික ජන බලවේගයේ ජනාධිපති ධුර අපේක්ෂක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+පංචිකාවත්ත අබේසිංහාරාම විහාරස්ථානයේ ස්ථාපනය කර තිබූ ඡන්ද මධ්‍යස්ථානයේදී සිය ඡන්දය භාවිත කිරීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු ඒ බව සඳහන් කළේය.
+
+"මම හිතනවා ලංකා ඉතිහාසය වෙනස්කරන මැතිවරණයක් බවට මේ මැතිවරණය පත්වේවී. කාලාන්තරයක් තිස්සේ ආණ්ඩු හදන්න, ආණ්ඩු පෙරළන්න, ආණ්ඩු මාරුකරන්න, නායකයෝ මාරුකරන්න ඡන්ද පවත්වලා තිබෙනවා. මම හිතනවා මේ මැතිවරණය ලංකා ඉතිහාසයේ ප්‍රබලතම හැරවුම් ලක්ෂයක් දෙන මැතිවරණය බව. ඒ වගේම ජයග්‍රහණයෙන් පසුව සියලුදෙනා සාමකාමි වන ලෙසත්, ප්‍රජාතන්ත්‍රවාදයේ ගතිලක්ෂණය තමයි, ඕනෑම පුද්ගලයෙකුට තමන් කැමති දේශපාලන ව්‍යපාරයකට වැඩකරන්න, තමන් කැමති දේශපාලන ව්‍යාපාරයකට ඡන්දය ප්‍රකාශ කරන්න අයිතිය තිබෙනවා. ඒ අයිති අපි දිගටම ආරක්ෂා කළ යුතුයි."
+
+◼️
+
+[Data](articles/c92cc8db.json)
+
+---
+
+### பென்சிலில் புள்ளடி: என்ன நடக்கும்
+
+*2024-09-21 17:04:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பென்சிலில்-புள்ளடி-என்ன-நடக்கும்/175-344089) · `ta`
+
+பென்சில்களால் குறிக்கப்பட்ட வாக்குச் சீட்டுகள் நிராகரிக்கப்பட மாட்டாது என்றும், எனவே வாக்காளர்கள் தேவையற்ற கவலைகளை ஏற்படுத்த வேண்டாம் என்றும் தேர்தல் ஆணையம் தெரிவித்துள்ளது.
+
+ஊடக அறிக்கையை வெளியிட்ட ஆணைக்குழு, வாக்காளர்கள் தங்களது வாக்குச் சீட்டுகளை குறிப்பதற்காக வாக்களிப்பு நிலையங்களுக்கு பால்பாயின்ட் பேனாக்கள் கிடைக்கப்பெற்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+சில இடங்களில் பால்பாயின்ட் பேனாக்கள் அனுப்பப்பட்ட போதிலும், சில இடங்களில் பென்சில்கள் பயன்படுத்தப்படுவதாக புகார்கள் இருப்பதாகவும் அது கூறியது.
+
+◼️
+
+[Data](articles/53b3b1b1.json)
+
+---
+
+### 2024 Presidential Election: Voter turnout after polls close
+
+*2024-09-21 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102123/2024-presidential-election-voter-turnout-after-polls-close) · `en`
+
+The district-level voter turnout percentages for the 2024 Presidential Election at the close of polls at 04.00 p.m. today have been released.
+
+Accordingly, the voter turnout percentages of several districts at the close of polls are as follows:
+
+Meanwhile, it was earlier reported that the overall voter turnout as at 2.00 p.m. today had exceeded 60 percent.
+
+◼️
+
+[Data](articles/b9c8bfdd.json)
+
+---
 
 ### Voting boxes are taken to polling stations!
 
@@ -2239,63 +2287,5 @@ Turnover stood at Rs 1.3 billion with a crossing. The crossing was reported in H
 [Data](articles/5bfdc0fa.json)
 
 [Extended Data](ext_articles/5bfdc0fa.ext.json)
-
----
-
-### Over 100 international observers here for Presidential poll
-
-*2024-09-21 00:49:37* · [`dailyftlk`](https://www.ft.lk/news/Over-100-international-observers-here-for-Presidential-poll/56-766982) · `en`
-
-A total of 116 representatives from various international election observation organisations have arrived in Sri Lanka to monitor the upcoming Presidential election.
-
-Among the observers, 78 are from the European Union (EU), marking a substantial contingent from the EU election observation mission.
-
-Additionally, 22 representatives from the Commonwealth have also arrived to participate in the monitoring activities.
-
-The Asian Election Observation Network has sent 9 observers, while 7 representatives from South Asian regional countries have joined the election monitoring process this year, following an invitation from the Election Commission.
-
-These international observers have been deployed across twenty-five districts to carry out their monitoring duties.
-
-The National Election Commission has assured that all necessary measures have been taken to ensure the safety and security of the observers, with local police stations being duly informed of their presence and responsibilities.
-
-◼️
-
-[Data](articles/9d6b7707.json)
-
-[Extended Data](ext_articles/9d6b7707.ext.json)
-
----
-
-### SLPP suspends party membership of three MPs
-
-*2024-09-21 00:48:49* · [`dailyftlk`](https://www.ft.lk/news/SLPP-suspends-party-membership-of-three-MPs/56-766981) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) has suspended the party membership of three Members of Parliament.
-
-They are Anuradhapura District MP S.M. Chandrasena, Ratnapura District MP Pavithra Wanniarachchi and Kalutara District MP Rohitha Abeygunawardena.
-
-Their party membership has been suspended for going against the SLPP Politburo’s decision to support the party’s Presidential candidate, which was taken at its meeting held on 29 July.
-
-The statement further says that the three MPs’ membership in SLPP’s All-Island Working Committee, the Executive Committee, and Politburo have also been suspended.
-
-◼️
-
-[Data](articles/c34960ed.json)
-
-[Extended Data](ext_articles/c34960ed.ext.json)
-
----
-
-### Basil leaves for US
-
-*2024-09-21 00:48:43* · [`dailyftlk`](https://www.ft.lk/news/Basil-leaves-for-US/56-766980) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) founder and former Minister Basil Rajapaksa yesterday left for Dubai from the Bandaranaike International Airport (BIA), the airport Duty Manager said.  Sources at the airport said that Rajapaksa will first go to Dubai and then leave for the US from there, adding that he always uses this route to leave for the US.
-
-◼️
-
-[Data](articles/f9771608.json)
-
-[Extended Data](ext_articles/f9771608.ext.json)
 
 ---

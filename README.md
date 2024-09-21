@@ -1,42 +1,104 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 16:37:59**
+As of **2024-09-21 16:54:49**
 
 ## Newspaper Stats
 
-*Scraped **45,091** Articles*
+*Scraped **45,095** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
-bbccomsinhala | 439
+bbccomsinhala | 440
 colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,734
 dailyftlk | 3,017
-adalk | 4,164
+adalk | 4,165
 dailymirrorlk | 4,733
 adaderanalk | 5,299
 tamilmirrorlk | 5,911
 virakesarilk | 7,219
-adaderanasinhalalk | 7,726
+adaderanasinhalalk | 7,728
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,088 (100.0%) of 45,091 articles have been extended.
+45,095 (100.0%) of 45,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Renil voted
+
+*2024-09-21 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201267) · `si`
+
+Ranil Wickremesinghe wins presidency election at University of Colombo. Promises stability and urges police to end violence. Grateful to voters.
+
+🟩
+
+Independent Presidency, Ranil Wickremesinghe was voted at the Election Station in the University of Colombo.
+
+"Thank everyone who votes me. This pledge now I made. If the country was in a unstable situation, we will not be voted today. We have advised the police to stop engaging violence. "
+
+◼️
+
+[Data](articles/79d1428c.json)
+
+[Extended Data](ext_articles/79d1428c.ext.json)
+
+---
+
+### The voting is over
+
+*2024-09-21 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201266) · `si`
+
+Sri Lanka presidential election concludes peacefully. Voting began at 4 PM and ended at 4 PM. Postal votes cast in Moneragala and Polonnaruwa districts. Election observed as calm across 13,421 polling centers.
+
+🟩
+
+The vote on the presidential election held today has been concluded today to select the 9th President of Sri Lanka.
+
+The vote commenced today (21) at 4 pm, which ended at 4 pm.
+
+Accordingly, the voters have come to the polling stations this morning and elected their votes.
+
+According to the voting register in 13,421 polling centers, the number of voter centers was qualified to vote this year.
+
+Elections observers said that the votes were peaceable in a whole.
+
+It is reported that postal votes have been launched in the Moneragala and Polonnaruwa Districts.
+
+◼️
+
+[Data](articles/dba2513c.json)
+
+[Extended Data](ext_articles/dba2513c.ext.json)
+
+---
 
 ### Voting ends in 2024 Presidential Election
 
 *2024-09-21 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102121/voting-ends-in-2024-presidential-election) · `en`
 
 The voting for the 2024 Presidential Election has officially concluded at 4.00 p.m. today (21).
+
+Accordingly, the ballot boxes have been closed while counting is expected to begin shortly.
+
+Meanwhile, it is reported that the counting of postal votes has already commenced in Moneragala and Polonnaruwa districts.
+
+A total of 17,140,354 Sri Lankans were eligible to vote, with the Gampaha District registering the highest number of voters with 1,881,129.
+
+Colombo District was second with 1,765,351 registered voters, and Kurunegala District had 1,417,226 voters. The Northern Province had a combined total of 899,268 registered voters.
+
+Voting took place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (21).
+
+A record-breaking 38 candidates are contesting this year’s election, the highest number of presidential candidates in the country’s history.
+
+It was previously reported that the overall voter turnout as at 2.00 p.m. today had exceeded 60 percent.
 
 ◼️
 
@@ -109,6 +171,28 @@ ECONOMYNEXT – Ballot papers marked with pencil will be valid and accepted in S
 [Data](articles/aed3e470.json)
 
 [Extended Data](ext_articles/aed3e470.ext.json)
+
+---
+
+### 2024 Presidential Election End
+
+*2024-09-21 15:49:29* · [`adalk`](https://www.ada.lk/breaking_news/2024-ජනාධිපතිවරණ-ඡන්ද-විමසීම-අවසන්/11-412055) · `si`
+
+2024 Presidential Election concluded. EPL announced voting day as 21st. Counting process underway at 1,713 centers. 60,000 officials deployed for vote tabulation.
+
+🟩
+
+The election for the Presidential Election 2024 ended a few moments ago.
+
+The Elections Council (EPL) said that the election was commissioned to today (21st).
+
+Accordingly, the transportation of 1713 counting centers has already begun at present. The Commissioner General of Elections Saman Sri Ratnayake said that 60,000 officers have been deployed for counting.
+
+◼️
+
+[Data](articles/97749e42.json)
+
+[Extended Data](ext_articles/97749e42.ext.json)
 
 ---
 
@@ -284,23 +368,29 @@ Wickremesinghe, since then, had to implement a raft of hard economic reforms com
 
 ---
 
-### ගම් කිහිපයකටම ඡන්දය අහිමි කිරීමේ වරද කාගෙද?
+### Who is wrong with the loss of voting for several villages?
 
 *2024-09-21 13:43:22* · [`adalk`](https://www.ada.lk/breaking_news/ගම්-කිහිපයකටම-ඡන්දය-අහිමි-කිරීමේ-වරද-කාගෙද-/11-412053) · `si`
 
-රත්ගම ආසනයේ මාදම්පා මධ්‍ය විදුහලේ පවත්වාගෙන ගිය ඡන්ද මධ්‍යස්ථානයට පැමිණි විශාල පිරිසකට සිය   ඡන්ද පතිකාවේ හැදුනුම්පත් අංකය වැරදියට මුදණය කර තිබීම නිසා ඔවුනට ඡන්දය නොදමා ආපසු යාමට සිදුවූහ.
+Voting issues: Many villagers unable to cast ballots due to incorrect ID numbers on voting slips despite correct printouts. Complaints filed with Election Commission and Human Rights Commission.
 
-අම්බලන්ගොඩ මාදම්පාගම සහ ඒ අවට ගාම නිලධාරීවසම් කිහිපයක ජන්දදායකයන් රැසකටම මේ අකටයුත්තට මුහුණදීමට අද(21) සිදුවූහ.
+🟩
 
-ඔවුනගේ ඡන්ද පතිකාවේ හැඳුනුම්පත් අංකය  වැරදියට සටහන් වී  තිබුණ නමුත් එම පතිකාවේ  නම නිවැරදි වුවත් ඡන්දය දීමට එම  ජනතාවට එම චන්ද මධස්ථානයෙන් ඉඩ නොදුන් බව ඔවුහු පැවසූහ.
+A large number of people who had been operating at the Madagama electorate in the Madagama electorate had to vote without votes.
 
-මේ සම්බන්ධයෙන් මැතිවරණ කොමිෂමට හා මානව හිමිකම් කොමිෂන් සභාවට පැමිණිළි කරන බව මේ අසාධාරණයට ලක්වූ ජනතාව කීහ
+Several voters in Madampagama and around Madampagama and around Madamagama and around Madampagama were held today.
 
-මේ  එම  ඡන්ද පතිකා කිහිපයක නම් නිවැරදිවට මුදණයවී තිබුණත් හැදුනුම්පත් අංක වැරදියට මුදණයවී තිබෙන අයුරුයි.
+They said they had incorporated the identity cards number of their votes and their votes were incorrect, but that the recline was correct, but the people were not allowed to vote.
+
+The people who were subjected to this injustice have been subjected to the Elections Commission and the Human Rights Commission
+
+Although these votes were printed correctly, the identity card numbers were mistaken.
 
 ◼️
 
 [Data](articles/451772fa.json)
+
+[Extended Data](ext_articles/451772fa.ext.json)
 
 ---
 
@@ -650,6 +740,8 @@ ECONOMYNEXT – Sri Lanka’s Election Commission has decided to allow all the v
 
 [Data](articles/153f3974.json)
 
+[Extended Data](ext_articles/153f3974.ext.json)
+
 ---
 
 ### Here are the percentage of votes polled in several districts
@@ -711,6 +803,36 @@ The local and foreign election monitoring team is visiting polling stations in t
 [Data](articles/1dd0e43c.json)
 
 [Extended Data](ext_articles/1dd0e43c.ext.json)
+
+---
+
+### President Mahinda Rajapaksa, 2024: Official Effects here
+
+*2024-09-21 10:40:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl83lw4531o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's 2024 presidential election saw over 17 million voters choose a new leader amid economic crisis. The outcome remains uncertain as no candidate reached 50%. COVID-19 symptoms and transmission details are also mentioned but not elaborated upon.
+
+🟩
+
+Note: Please note that the data update begins after the beginning of the 2024 presidential election.
+
+More than 17 million voters in Sri Lanka voted for a new president.
+
+This is the first election that the country was facing a serious economic crisis in 2022.
+
+What if a heurricane candidate could not vote over 50%?
+
+XEC Covid New Genre: What are the symptoms?What is its spread?
+
+◼️
+
+[Data](articles/1eff26dc.json)
+
+[Extended Data](ext_articles/1eff26dc.ext.json)
 
 ---
 
@@ -1448,6 +1570,8 @@ The new president is expected to be declared by Sunday (22) if the counting proc
 
 [Data](articles/e01a0607.json)
 
+[Extended Data](ext_articles/e01a0607.ext.json)
+
 ---
 
 ### Presidential election begins
@@ -1480,7 +1604,7 @@ A total of 17,140,354 Sri Lankans are eligible to vote, with the Gampaha Distric
 
 Colombo District is second with 1,765,351 registered voters, and Kurunegala District has 1,417,226 voters. The Northern Province has a combined total of 899,268 registered voters.
 
-Voting will take place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (20).
+Voting will take place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (21).
 
 Eligible voters are required to carry one of nine accepted forms of identification to cast their vote:
 
@@ -2131,87 +2255,5 @@ Mahohari and her family are descended from Indian indentured labourers who were 
 [Data](articles/4ca0822e.json)
 
 [Extended Data](ext_articles/4ca0822e.ext.json)
-
----
-
-### The results of the election will be unable to announce
-
-*2024-09-20 23:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகளை-அறிவிக்க-முடியாத-நிலை-ஏற்படும்/175-344069) · `ta`
-
-Election results delayed due to violence: RMAL Ratnayake warns. Strict action against parties causing unrest. Polling stations may remain closed until situation stabilizes.
-
-🟩
-
-RMAL Ratnayake, Chairman of the Election Commission, said that if the violence took place during the presidential election, the election results would not be announced.
-
-He said that if there were any violent incidents at the polling station during the presidential election, the voting station would be unable to announce the final election results until the voting of the polling station would be witching and referendum in those constituencies.
-
-He also said that strict action will be taken against any parties that will affect the election.. Remble
-
-◼️
-
-[Data](articles/0e78cfa0.json)
-
-[Extended Data](ext_articles/0e78cfa0.ext.json)
-
----
-
-### Japan’s Mirai Consulting Group explores investment opportunities in Sri Lanka
-
-*2024-09-20 23:53:16* · [`dailyftlk`](https://www.ft.lk/business/Japan-s-Mirai-Consulting-Group-explores-investment-opportunities-in-Sri-Lanka/34-766966) · `en`
-
-A high-level delegation from Mirai Consulting Group in Japan, recently visited Sri Lanka to explore potential investment opportunities in various sectors.
-
-The delegation, led by Mirai Consulting Group COO Okada Atsushi met with the EDB Chairman and CEO Dr. Kingsley Bernard at the EDB headquarters.
-
-The purpose of the visit was to identify industries that aligned with the investment interests of Japanese companies and to explore the potential for collaboration and partnerships in Sri Lanka.
-
-Mirai Consulting Group International Business Consultant Shaakir Hussain Sathar was also part of the delegation.
-
-During the meeting, the delegation discussed the investment climate in Sri Lanka, explored potential projects and partnerships and gained insights into the country’s economic landscape.
-
-The visit is expected to strengthen the bilateral relationship between Sri Lanka and Japanas well as to promote investment and economic cooperation.
-
-...
-
-[Data](articles/c6f2e5db.json)
-
-[Extended Data](ext_articles/c6f2e5db.ext.json)
-
----
-
-### 5D Concept unveils website
-
-*2024-09-20 23:52:39* · [`dailyftlk`](https://www.ft.lk/business/5D-Concept-unveils-website/34-766965) · `en`
-
-‘5D Concept’ has recently unveiled its new website, offering valuable insights, knowledge, and experiences to anyone interested in learning more about the concept.
-
-Since its debut in 2015, the 5D Concept has been making waves, and now it is taking the next big step to broaden its impact and connect with audiences worldwide.
-
-5D Concept Founder Deshan Amarasinghe said: “Everything in the 5D Concept started with a purpose, and the launch of this official website can be seen as one of the results of the dedication and determination for that purpose.”
-
-The 5D Concept is structured around five core pillars – Dream, Duty, Discipline, Determination, and Dedication – providing a holistic framework designed to guide users towards achieving their highest potential.
-
-...
-
-[Data](articles/ea296c34.json)
-
-[Extended Data](ext_articles/ea296c34.ext.json)
-
----
-
-### Ceylon Energy and HJT China celebrate completion of Maho and Ampara 33kV power distribution lines under SESRIP
-
-*2024-09-20 23:51:52* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Energy-and-HJT-China-celebrate-completion-of-Maho-and-Ampara-33kV-power-distribution-lines-under-SESRIP/34-766964) · `en`
-
-From left: CEB Project Director – SESRIP K.M.G.U.R. Dias, CEB Chairman N.S. Ilangakoon, HJT China Chairman Liu Kai, and Ceylon Energy Chairman Madushanka Fernando
-
-Ceylon Energy, in partnership with HJT China, proudly announces the successful completion of the Maho and Ampara 33kV power distribution lines. These milestones mark a significant achievement within the broader Supporting Electricity Supply Reliability Improvement Project (SESRIP), a groundbreaking initiative designed to revolutionise energy distribution across Sri Lanka.
-
-...
-
-[Data](articles/2987a125.json)
-
-[Extended Data](ext_articles/2987a125.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 20:08:14**
+As of **2024-09-21 20:22:48**
 
 ## Newspaper Stats
 
-*Scraped **45,130** Articles*
+*Scraped **45,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,734
 dailyftlk | 3,017
 adalk | 4,169
 dailymirrorlk | 4,733
-adaderanalk | 5,303
+adaderanalk | 5,306
 tamilmirrorlk | 5,918
 virakesarilk | 7,228
 adaderanasinhalalk | 7,739
@@ -26,31 +26,71 @@ adaderanasinhalalk | 7,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,129 (100.0%) of 45,130 articles have been extended.
+45,130 (100.0%) of 45,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
 
-### අද දෙරණ ජනාධිපතිවරණ ප්‍රතිඵල සජීවි විකාශය ඇරඹෙයි
+### Ada Derana’s special live broadcast of election results begins
+
+*2024-09-21 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102128/ada-deranas-special-live-broadcast-of-election-results-begins) · `en`
+
+Ada Derana’s special live broadcast of the results of the 2024 Presidential Election commenced, a short while ago.
+
+Watch the live broadcast below and stay tuned for the results of the 2024 Presidential Election as and when they are released.
+
+◼️
+
+[Data](articles/cdfcad4f.json)
+
+---
+
+### 2024 Presidential Poll the most peaceful in history with no violence reported - EC
+
+*2024-09-21 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102127/2024-presidential-poll-the-most-peaceful-in-history-with-no-violence-reported-ec) · `en`
+
+The Commissioner General of Elections Saman Sri Ratnayake described the 2024 Presidential Election as the best in the nation’s electoral history, emphasizing that the election process was notably peaceful, with no reports of violence during the polling period.
+
+The Elections Commissioner General mentioned this, while making a special statement to the media this evening (21), after the voting for the 2024 presidential election concluded.
+
+The voting for this year’s presidential election commenced at 7.00 a.m. this morning and concluded at 4.00 p.m., at a total of 13,421 polling stations across the country facilitating the election.
+
+The voter turnout was reported remarkably high, exceeding 75% in several key districts.
+
+Mr. Ratnayake also announced that vote counting will take place at 1,713 designated counting centers, with results expected to be processed efficiently in the coming hours.
+
+◼️
+
+[Data](articles/560f9ff6.json)
+
+---
+
+### Ada Derana results begins today
 
 *2024-09-21 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201278) · `si`
 
-අද දෙරණ ජනාධිපතිවරණ ප්‍රතිඵල සජීවි විකාශය මේ වනවිට ආරම්භ කර තිබේ.
+Ada Derana election results begin today. Derana website and SMS services now available. Final official results announced. Special coverage of Sri Lanka's DeCides election. Foreign groups assist with technical support. Derana Wad Site continuously updates results.
 
-ඒ අනුව 2024 ජනාධිපතිවරණයේ සියලු තොරතුරු අවසන් නිල ඡන්ද ප්‍රතිඵලය දක්වා, එසැණින් ගෙනඒමට අද දෙරණ මාධ්‍ය ජාලය මේ වන විටත් සියලු කටයුතු සූදානම් කර තිබේ.
+🟩
 
-මොහොතින් මොහොත වෙනස් වන ඡන්ද ප්‍රතිඵලයේ උණුසුම, ලොව නවීන ටෙලිවිෂන් තාක්ෂණය සමගින් ඔබ වෙත ගෙනඑන්නේ SRI LANKA DECIDES විශේෂ මැතිවරණ විකාශය ඔස්සේ ය.
+Derana presence results have commenced today.
 
-ඒ අනුව අති නවීනතම තාක්ෂණය සහ ග්‍රැෆික් සජීවීකරණ ක්‍රමවේද උපයෝගී කරගනිමින් අංග සම්පූර්ණ ජාත්‍යන්තර ප්‍රමිතියේ ප්‍රතිඵල විකාශයක අත්දැකීම දකුණු ආසියාවේ විශාලතම ප්‍රවෘත්ති මැදිරියේ සිට ඔබගේ ටෙලිවිෂන් තිරය මත දිගහැරෙන්නේ විදෙස් විශේෂඥ කණ්ඩායම් රැසකගේ තාක්ෂණික සහායද ඇතිවය.
+Accordingly, the Ada Derana Media Network has already arranged for the Ada Derana Results of 2024 to the end of the final official election results.
 
-ඒ අනුව ටෙලිවිෂනයෙන් පමණක් නොනැවතී  FM දෙරණ, අද දෙරණ වෙඩ් අඩවිය, අද දෙරණ කෙටි පණිවුඩ සේවාව ඔස්සේ භාෂා ත්‍රිත්වයෙන්ම සෑම ජංගම දුරකථන ජාලයක් මගින්ම නිල ඡන්ද ප්‍රතිඵල ඔබේ ඡංගම දුරකථනය වෙත යොමු කෙරෙයි.
+The moment of warmth voting voting results on the world's modern telecommunication, the Sri Lanka DeCides is through special election.
 
-ඒ අතරම Facebook, YouTube සහ X අවකාශය ඔස්සේද අද දෙරණ මැතිවරණ ප්‍රතිඵල විකාශය ඔබ වෙත සමීප කිරීමට අප සූදානම්.
+Accordingly, the largest newspaper of South Asia is the largest newspaper of the largest newspaper in South Asia, with the largest newspaper of the South Asia, is unfolding on the most technical assistance of many foreign groups.
+
+The Derana Wad Site of Derana, today continuously continuously, is referred to the Ada Derana, the Ada Derana SMS.
+
+At the same time, we are ready to close the Derana Election Resource Restoration Today, on the same time.
 
 ◼️
 
 [Data](articles/562467ad.json)
+
+[Extended Data](ext_articles/562467ad.ext.json)
 
 ---
 
@@ -225,6 +265,24 @@ In this preview, Super Star Rajinikanth is back in the police station and that h
 [Data](articles/c488b2fd.json)
 
 [Extended Data](ext_articles/c488b2fd.ext.json)
+
+---
+
+### Special security program in place during post-election period
+
+*2024-09-21 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102126/special-security-program-in-place-during-post-election-period) · `en`
+
+Police Media Spokesman DIG Nihal Thalduwa announced this evening (21) that a special security program will be enforced across the country in the coming days.
+
+Speaking at a press conference following the conclusion of voting in the presidential poll today, he emphasized that the measures are in place to ensure public safety during the post-election period.
+
+DIG Thalduwa noted that police officers and anti-riot units have been deployed as necessary, and roadblocks have been set up in strategic locations. These security measures will remain fully operational until election results are officially announced, he added.
+
+Additionally, the Police Media Spokesman warned that for the next week, all public marches—whether on foot or by vehicle—are strictly prohibited. He urged citizens to comply with these regulations and cooperate with law enforcement to maintain peace and order.
+
+...
+
+[Data](articles/a7fb4a5c.json)
 
 ---
 
@@ -2281,99 +2339,5 @@ Thousands of people from the area have invaded the temple and have been surround
 [Data](articles/addfca2e.json)
 
 [Extended Data](ext_articles/addfca2e.ext.json)
-
----
-
-### Voting for 2024 Presidential Election begins
-
-*2024-09-21 07:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102110/voting-for-2024-presidential-election-begins) · `en`
-
-The voting for Sri Lanka’s Presidential Election 2024 has officially commenced this morning (September 21).
-
-Accordingly, polling is scheduled to be held today (21) at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m.
-
-A record-breaking 38 candidates are contesting this year’s election, the highest number of presidential candidates in the country’s history.
-
-A total of 17,140,354 Sri Lankans are eligible to vote, with the Gampaha District registering the highest number of voters with 1,881,129.
-
-Colombo District is second with 1,765,351 registered voters, and Kurunegala District has 1,417,226 voters. The Northern Province has a combined total of 899,268 registered voters.
-
-Large numbers of voters were seen gathering at the Colombo Central Bus Station, Private Bus Stations, Fort Railway Station, and Makumbura Multimodal Transport Center since yesterday, preparing to travel to their respective hometowns to cast their votes.
-
-...
-
-[Data](articles/101c2214.json)
-
-[Extended Data](ext_articles/101c2214.ext.json)
-
----
-
-### Severe traffic congestion in Colombo
-
-*2024-09-21 07:25:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-கடுமையான-வாகன-நெரிசல்/175-344074) · `ta`
-
-Colombo traffic congestion: Peliyagoda Menning Market area affected. Police officer shortage causes delays on Colombo-Negombo main road. Increased market visitors exacerbate issue. Significant disruptions reported in surrounding areas.
-
-🟩
-
-It is reported that there is a traffic congestion on the roads near the Peliyagoda Menning Market and the Colombo -Negombo main road.
-
-The congestion is due to the shortage of police officers who are involved in traffic duties and the number of customers visiting the Peliyagoda Menning Market has increased.
-
-It is noteworthy that a significant delay and disruption in the surrounding areas. Remble
-
-◼️
-
-[Data](articles/de9de3c6.json)
-
-[Extended Data](ext_articles/de9de3c6.ext.json)
-
----
-
-### One of these is enough to vote
-
-*2024-09-21 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201251) · `si`
-
-To vote in the presidential election:
-
-
-
-1. Bring a recognized document
-
-2. Use only one ballot paper
-
-3. Mark 1-3 for top 3 candidates
-
-4. No phones allowed in polling stations
-
-
-
-Remember: One vote per person, mandatory attendance.
-
-🟩
-
-It is mandatory to take a recognized document to ensure that you have to vote for the Presidential Election today (21).
-
-• Temporary ID issued for disabled citizens
-
-* Temporary identity card issued to the other people
-
-Among the 9 recognized writings can be submitted.
-
-How do you get into the polling, how do you accurately vote in the presidential election?
-
-The names of 39 candidates and the ballot of the ballot, a valid way to use only one scholar before a candidate.
-
-If three candidates declare preferential votes, they should only mark the number 1, 2 or 3 before the candidates.
-
-If one candidate is only sufficient in preferential declaration of preferential, the number 1 will be valid and applying only number 1 and 2 if two are marked.
-
-Taking the vote is banned to take a mobile phone to the polling station.
-
-◼️
-
-[Data](articles/894d10db.json)
-
-[Extended Data](ext_articles/894d10db.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 23:38:21**
+As of **2024-09-21 23:57:49**
 
 ## Newspaper Stats
 
-*Scraped **45,156** Articles*
+*Scraped **45,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,309
 tamilmirrorlk | 5,924
 virakesarilk | 7,235
-adaderanasinhalalk | 7,743
+adaderanasinhalalk | 7,744
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,156 (100.0%) of 45,156 articles have been extended.
+45,157 (100.0%) of 45,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Ratnapura official postal voting results released
+
+*2024-09-21 23:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201283) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ratnapura district presidential election postal voting results announced. Anura Kumara Dissanayake secured 19,185 votes. This marks the first official release of postal voting outcomes for the election.
+
+🟩
+
+The first official postal voting outcome of the Presidential election has been released.
+
+Anura Kumara Dissanayake received 19185 votes in the Ratnapura District.
+
+◼️
+
+[Data](articles/514f35c8.json)
+
+[Extended Data](ext_articles/514f35c8.ext.json)
+
+---
 
 ### Sri Lanka records 75% voter turnout in 2024 Presidential Election
 
@@ -2309,31 +2333,5 @@ Presidential Secretary Saman Ekanayake has issued the Extraordinary Gazette noti
 [Data](articles/3031f3ab.json)
 
 [Extended Data](ext_articles/3031f3ab.ext.json)
-
----
-
-### Voting in Mannar peacefully
-
-*2024-09-21 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194234) · `ta`
-
-Peaceful voting underway in Mannar district. 98 polling stations open from 7 AM. Local and international observers present. EU team conducting surveillance.
-
-🟩
-
-Voting will be held at the voting centers selected in the district from 7 am today (21) at 7 am.
-
-Voting is taking place in 98 polling stations in the Mannar electorate of Vanni district.
-
-Although voting in the morning in the morning, it is possible to observe that people visit and vote.
-
-The local and foreign election monitoring team is visiting polling stations in Mannar district and observing the vote.
-
-The EU's election monitoring team, in particular, has been visiting and engaged in surveillance.
-
-◼️
-
-[Data](articles/3187b768.json)
-
-[Extended Data](ext_articles/3187b768.ext.json)
 
 ---

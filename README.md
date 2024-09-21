@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 01:22:39**
+As of **2024-09-22 01:38:27**
 
 ## Newspaper Stats
 
-*Scraped **45,170** Articles*
+*Scraped **45,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,124 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,171
 dailymirrorlk | 4,733
-adaderanalk | 5,311
+adaderanalk | 5,313
 tamilmirrorlk | 5,927
 virakesarilk | 7,235
-adaderanasinhalalk | 7,745
+adaderanasinhalalk | 7,747
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,169 (100.0%) of 45,170 articles have been extended.
+45,174 (100.0%) of 45,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
 
-### ஊரடங்கு சட்டம்: பொலிஸ் விசேட அறிவிப்பு
+### Hambantota Official Postal Vote
+
+*2024-09-22 01:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201286) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Hambantota postal vote: Anura Kumara Dissanayake leads with 14,482 votes."
+
+🟩
+
+Anura Kumara Dissanayake is released before 14,482 votes in the Hambantota district.
+
+◼️
+
+[Data](articles/34cb19cb.json)
+
+[Extended Data](ext_articles/34cb19cb.ext.json)
+
+---
+
+### 2024 Presidential Election: Hambantota District postal vote results released
+
+*2024-09-22 01:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102135/2024-presidential-election-hambantota-district-postal-vote-results-released) · `en`
+
+The postal vote result of the Hambantota district in 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 14,482 votes.
+
+Samagi Jana Sandhanaya candidate Sajith Premadasa (3,397) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 2,502.
+
+◼️
+
+[Data](articles/61e0ddce.json)
+
+[Extended Data](ext_articles/61e0ddce.ext.json)
+
+---
+
+### 2024 Presidential Election: Polonnaruwa District postal vote results released
+
+*2024-09-22 01:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102134/2024-presidential-election-polonnaruwa-district-postal-vote-results-released) · `en`
+
+The postal vote result of the Polonnaruwa district in 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 11,768 votes (61.26%).
+
+Samagi Jana Sandhanaya candidate Sajith Premadasa (4,120) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 2,762.
+
+Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa has polled 188 postal votes while ‘Sarvajana Balaya’ alliance candidate Dilith Jayaweera has obtained 56 votes.
+
+◼️
+
+[Data](articles/a321eb72.json)
+
+[Extended Data](ext_articles/a321eb72.ext.json)
+
+---
+
+### Polonnaruwa Official Postal Vote
+
+*2024-09-22 01:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201285) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Polonnaruwa District postal vote results: Anura Kumara Dissanayake receives 11,768 votes.
+
+🟩
+
+The official postal voting outcome of the Polonnaruwa District has been released and Anura Kumara Dissanayake returns to 11,768 votes.
+
+◼️
+
+[Data](articles/f48af72b.json)
+
+[Extended Data](ext_articles/f48af72b.ext.json)
+
+---
+
+### Curfew Law: Police Special Notice
 
 *2024-09-22 00:36:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-சட்டம்-பொலிஸ்-விசேட-அறிவிப்பு/175-344116) · `ta`
 
-​பொலிஸ் ஊரடங்கு சட்டம், சனிக்கிழமை (21) இரவு 10 மணி முதல், ஞாயிற்றுக்கிழமை (22) காலை 6 மணி வரையிலும் அமுலில் இருக்கும்.
+Here's a summary of the text in 200 characters:
 
-இக்காலப்பகுதியில், பொலிஸ் நிலையங்களின் ஊடாக, ஊரடங்கு அனுமதிப்பத்திரம் விநியோகிக்கப்படமாட்டாது. அத்தியாவசிய மற்றும் அவசர சேவைகள் நிமிர்த்தம் அலுவலக அடையாள அட்டையை ஊரடங்கு அனுமதிப்பத்திரமாக பயன்படுத்த முடியும் என்று பொலிஸ் ஊடகப்பிரிவு அறிவித்துள்ளது.
+
+
+"Saturday night curfew: 10 PM to 6 AM Sunday. No distribution via police stations. Essential/Emergency services exempt."
+
+🟩
+
+The Police curfew will be in force on Saturday (21) from 10 pm to 6 am on Sunday (22).
+
+During this period, the curfew will not be distributed through police stations. The police media unit has announced that the Essential and Emergency Services can be used as a curfew as a curfew.
 
 ◼️
 
 [Data](articles/1da4a4bb.json)
+
+[Extended Data](ext_articles/1da4a4bb.ext.json)
 
 ---
 
@@ -2227,97 +2319,5 @@ A part of the suspected ballot was placed in his pants pocket and the rest of th
 [Data](articles/79a13c25.json)
 
 [Extended Data](ext_articles/79a13c25.ext.json)
-
----
-
-### 2024 Presidential Election Voting: Status at 10 am
-
-*2024-09-21 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194244) · `ta`
-
-Here's a summary of the 2024 Presidential Election Voting status in 200 characters:
-
-
-
-Kalutara: 32%, Nuwara Eliya: 30%, Mullaitivu: 25%, Mannar: 29%, Gampaha: 25%
-
-🟩
-
-In the 2024 presidential polling polls, 32 percent of the voting in the Kalutara district, 30 percent of the voting in the Nuwara Eliya district, 25 percent voting in the Mullaitivu district30 percent of the voting, 29 percent of the voting in Mannar district and 25 percent of the voting in Gampaha district.
-
-◼️
-
-[Data](articles/c6410ef3.json)
-
-[Extended Data](ext_articles/c6410ef3.ext.json)
-
----
-
-### "Curfew if needed"
-
-*2024-09-21 12:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவை-ஏற்பட்டால்-ஊரடங்கு/175-344084) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Curfew may be imposed if necessary. Public Security Minister Tran Ales warns severe enforcement if violence occurs. Presidential election proceeding calmly. Minister appeals for continued peace and safety."
-
-🟩
-
-Public Security Minister Tran Ales said the curfew would be implemented in the event of need and that if the violence erupted, it would be severely implemented.
-
-“The presidential election is being held quietly. I appeal to the public and political party leaders to maintain this situation.. We have done everything we can to ensure the safety of the nation during the presidential election, ”Minister Ales said.
-
-◼️
-
-[Data](articles/fb7f0205.json)
-
-[Extended Data](ext_articles/fb7f0205.ext.json)
-
----
-
-### Woman hacked to death in Mirihana
-
-*2024-09-21 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102118/woman-hacked-to-death-in-mirihana) · `en`
-
-A woman has been found hacked to death inside a residence at Santhanampitiya in Pangiriwatta, Mirihana.
-
-The deceased is a 35-year-old female who had been residing at the house in question.
-
-Preliminary investigations have uncovered that the murder has been committed by an individual who had previously served as the driver at the residence.
-
-The magistrate’s inquest regarding the murder is to be carried out by the Gangodawila Magistrate.
-
-Mirihana Police is conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/976b8a35.json)
-
-[Extended Data](ext_articles/976b8a35.ext.json)
-
----
-
-### "If Ranil wins, Parliament will not be dissolved"
-
-*2024-09-21 12:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-வென்றால்-பாராளுமன்றம்-கலைக்கப்படாது/175-344083) · `ta`
-
-Ranil Wickremesinghe likely to win: Parliament won't dissolve for 1.5 years, says MP Dileepan.
-
-🟩
-
-Parliamentarian Dileepan said that if Ranil Wickremesinghe wins the presidential election, Parliament will not be dissolved for a year and a half.
-
-He said this while commenting to the media after registering his vote at the Anna Nagar Parameswara Vidyalaya in Vavuniya.
-
-“People are interested in voting more voting. Ranil Wickremesinghe is more likely to win.
-
-If Ranil Wickremesinghe wins, Parliament will not be dissolved for a year and a half. ”
-
-◼️
-
-[Data](articles/d02cddc5.json)
-
-[Extended Data](ext_articles/d02cddc5.ext.json)
 
 ---

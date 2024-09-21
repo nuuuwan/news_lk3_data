@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 22:56:42**
+As of **2024-09-21 23:22:47**
 
 ## Newspaper Stats
 
-*Scraped **45,149** Articles*
+*Scraped **45,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,152 @@ economynextcom | 2,734
 dailyftlk | 3,017
 adalk | 4,171
 dailymirrorlk | 4,733
-adaderanalk | 5,307
+adaderanalk | 5,309
 tamilmirrorlk | 5,924
-virakesarilk | 7,232
-adaderanasinhalalk | 7,742
+virakesarilk | 7,235
+adaderanasinhalalk | 7,743
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,149 (100.0%) of 45,149 articles have been extended.
+45,155 (100.0%) of 45,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Sri Lanka records 75% voter turnout in 2024 Presidential Election
+
+*2024-09-21 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102131/sri-lanka-records-75-voter-turnout-in-2024-presidential-election) · `en`
+
+The voting for the presidential election to elect the 9th Executive President of Sri Lanka was held today (21).
+
+The Election Commission says that counting of votes has already started and the first results of the 2024 presidential election, which commenced today (21), will be released before 12.00 midnight.
+
+The Commissioner General of Elections Saman Sri Ratnayake described the 2024 Presidential Election as the best in the nation’s electoral history, emphasizing that the election process was notably peaceful, with no reports of violence during the polling period.
+
+A total of 17,140,354 Sri Lankans were eligible to vote, with the Gampaha District registering the highest number of voters with 1,881,129.
+
+Voting took place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (21).
+
+...
+
+[Data](articles/16a1a9c1.json)
+
+[Extended Data](ext_articles/16a1a9c1.ext.json)
+
+---
+
+### People's verdict will be a turning point - MA Sumanthiran
+
+*2024-09-21 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194329) · `ta`
+
+MA Sumanthiran: People's verdict crucial in presidential election. Their decision will be a turning point for the country, especially amid economic crisis. Strong public stance expected.
+
+🟩
+
+President's Attorney MA Sumanthiran said that the judgment of the people in the presidential election would be a turning point.
+
+He made this comment while commenting to the media after a referendum was held on Saturday night (21) at the Tamil Kalavan school in Kudanatha Tamil Kalavan School.
+
+He added that the people are responsible for deciding the country's leadership. So it is expected that people will make the right judgment.
+
+There is also hope that this presidential election will be a right turning point.
+
+Two years later, the opinion of the people is being demanded as the country is in a state of economic crisis. So we expect people to express their strong position.
+
+I hope that the change in the election will show a better way for the country and the people.
+
+◼️
+
+[Data](articles/f8e31298.json)
+
+[Extended Data](ext_articles/f8e31298.ext.json)
+
+---
+
+### NPP issues statement on imposing of curfew after polls close
+
+*2024-09-21 22:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102130/npp-issues-statement-on-imposing-of-curfew-after-polls-close-) · `en`
+
+The National People’s Power (NPP) has issued a special statement following the imposing of curfew across Sri Lanka from 10 pm to 6 am as a precaution after the presidential election.
+
+In the statement, the NPP said that they believe that the Election Commission and its officials will conduct the vote counting and releasing results of the 2024 presidential election with accuracy and transparency, free from any irregularities.
+
+“We also believe that security forces including the police will work to ensure the safety of the counting centers.”
+
+The party further stated that in this context, they believe that imposing of a curfew during the night is intended to maintain public peace during the announcing of election results and therefore request the security forces to take the necessary measures to maintain a peaceful environment in the post-election period.
+
+◼️
+
+[Data](articles/be83d572.json)
+
+[Extended Data](ext_articles/be83d572.ext.json)
+
+---
+
+### In spite of all confusion, Sri Lanka is still a vibrant democratic country - Saliya Peiris is proud
+
+*2024-09-21 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194327) · `ta`
+
+Despite turmoil, Sri Lanka remains vibrant democracy. Saliya Peiris praises ability to hold elections despite crises. Country celebrates democratic spirit amidst challenges.
+
+🟩
+
+We must certainly celebrate Sri Lanka as a vibrant democratic country amid all confusion, waiting for the presidential election results.. Former president and president of the Sri Lanka Lawyers Association and President's Attorney Saliya Peiris pointed out that even after many years of crisis, we are able to vote in the election and thereby change the leadership.
+
+The country's ninth presidential election voting was held on Saturday (21). The then President Gotabhaya Rajapakse was forced to resign as a result of the people's spontaneous struggle in the wake of the country's most economic crisis in 2022.. Ranil Wickremesinghe then took over as president with a two -thirds majority in Parliament. In this context, the presidential election held on Saturday (21) is a major election.
+
+...
+
+[Data](articles/0d0aa0d9.json)
+
+[Extended Data](ext_articles/0d0aa0d9.ext.json)
+
+---
+
+### Presidential Election 2024 - Watch out here
+
+*2024-09-21 22:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201282) · `si`
+
+Sri Lanka's Derana presidential election results announced. Special voting process conducted via modern telecommunications platform.
+
+🟩
+
+The results of the Derana presidential election have been launched.
+
+The moment of warmth voting voting results on the world's modern telecommunication, the Sri Lanka DeCides is through special election.
+
+◼️
+
+[Data](articles/ec18e6f3.json)
+
+[Extended Data](ext_articles/ec18e6f3.ext.json)
+
+---
+
+### 80 % voting in Nuwara Eliya Election District;Whatever the election results, Sri Lanka's democracy has spoken- Minister Jeevan Thondaman
+
+*2024-09-21 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194324) · `ta`
+
+Nuwara Eliya election sees record 80% turnout. Minister Jeevan Thondaman hails high voter participation as victory for Sri Lanka's democracy.
+
+🟩
+
+Water Supply and Plantation Infrastructure Minister Jeevan Thondaman, who has said that more than 80 per cent of the votes in the Nuwara Eliya electoral district have been cast in the history of Sri Lanka for the first time in the history of Sri Lanka, said that the democracy of Sri Lanka has been spoken of whatever the results of the presidential election.
+
+The country's ninth presidential election voting was held on Saturday (21). According to the Minister of Water Supply and Plantation Infrastructure, Jeevan Thondaman has said that the election has exceeded 80 per cent of the votes cast in the Nuwara Eliya electoral district and this is the first time in the history of such high voting in the Nuwara Eliya district.
+
+In addition, the other rights were denied as a result of the decades of citizenship for plantation people. So voting for many of us was a high offer. But as Sri Lankans today, we have exempted that right and I am very proud of it. ”
+
+...
+
+[Data](articles/c19c2d19.json)
+
+[Extended Data](ext_articles/c19c2d19.ext.json)
+
+---
 
 ### Announcement from National Society
 
@@ -2203,159 +2335,5 @@ The device has taken the device by the Special Task Force personnel and has not 
 [Data](articles/9ac7545b.json)
 
 [Extended Data](ext_articles/9ac7545b.ext.json)
-
----
-
-### Took drunken ballot boxes
-
-*2024-09-21 10:21:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிபோதையில்-வாக்குப்பெட்டிகளை-எடுத்தார்/175-344079) · `ta`
-
-Drunk driver takes voting boxes. Police seize vehicle. Ballot papers moved separately. Driver sent for medical exam. Incident reported to election officials.
-
-🟩
-
-Ruwanwella police say that the driver of the van carrying voting boxes and employees of the Ehaliyagoda police border from Teraniyagala from the Kegalle District Polling Center was in the bar.
-
-The driver and the vehicle were seized by the police after two senior voting centers notified the Assistant Election Commissioner of Kegalle, realizing that the driver could not drive a liquor bar.
-
-It is also said that the center's ballot and ballot papers were taken to the respective polling station in a different vehicle on the instructions of the Assistant Election Commissioner.
-
-The driver has been sent for medical examination in the case of the incident and he hails from Valpola Dell Olua Teraniyagala area, police said.
-
-◼️
-
-[Data](articles/e6815bb6.json)
-
-[Extended Data](ext_articles/e6815bb6.ext.json)
-
----
-
-### Over 300 election violation complaints reported within 24 hours
-
-*2024-09-21 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102115/over-300-election-violation-complaints-reported-within-24-hours-) · `en`
-
-The number of complaints received by the Election Commission regarding the 2024 Presidential Poll has further increased.
-
-The commission issued a statement stating that the total number of election complaints has increased to 5,551.
-
-Meanwhile, a total of 337 complaints were reported within the last 24 hours.
-
-A majority of those complaints have been received related to election law violations and the figure is 336.
-
-Meanwhile, the Election Commission says that 4,929 of the total number of complaints received have been resolved thus far.
-
-◼️
-
-[Data](articles/90d24ed6.json)
-
-[Extended Data](ext_articles/90d24ed6.ext.json)
-
----
-
-### Voting in Ampara District
-
-*2024-09-21 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194232) · `ta`
-
-Ampara District 2024 presidential election summary: Smooth process with 39 candidates across 4 seats. Voting stations set up in Ampara, Pottuvil, Samanthurai, and Kalmunai. Police and Special Task Force provide security. Total voters: 82,830 (Kalmunai), 99,727 (Samanthurai), 184,653 (Pottuvil), 188,222 (Ampara). 528 voting centers established, including 447 in Ampara district. Election Department ensures free and fair polls.
-
-🟩
-
-The 9th presidential election for 2024 is being held in the Ampara district smoothly and recession.
-
-In particular, voters are voting in voting stations in the electorates of Ampara, Pottuvil, Samanthurai and Kalmunai constituencies.
-
-In addition, police and special Task Force are providing security to the polling booths.
-
-39 candidates for 4 seats in the Digamadulla electorate of the Ampara district are political parties and many independents.
-
-In the election, 82,830 in the Kalmunai election, 99,727 in the Samanthurai election, 184,653 in Pottuvil election and 188,222 in the Ampara election.
-
-528 voting centers will be set up, including 184 Ampara polling stations, 93 Ampara polling stations, 74 Kalmunai polling stations and 177 polling stations in the Ampara district, and the Elections Department has taken all steps to hold elections freely and neutral.
-
-◼️
-
-[Data](articles/a6861f24.json)
-
-[Extended Data](ext_articles/a6861f24.ext.json)
-
----
-
-### The Election Commission is ready for the general election
-
-*2024-09-21 10:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பொதுத்தேர்தலுக்கு-தேர்தல்-ஆணைக்குழு-தயார்/150-344078) · `ta`
-
-Election Commission prepares for general election, considering potential dissolution of parliament. Political parties discuss post-presidential election strategies. Four upcoming elections planned, including local government and provincial council polls. Some parties demand cancellation of local government nominations, sparking legal consultations.
-
-🟩
-
-The Election Commission has announced that all district election officials will be ready to hold a general election if the new president dissolves parliament.
-
-Political critics think that parliament is more likely to be dissolved after the appointment of the new president.
-
-It is reported that the respective political parties have been discussed separately on the dissolution of parliament after the presidential election.
-
-Meanwhile, the Election Commission is preparing to hold four more elections over the next two years.
-
-There are four elections, the general election, the Elpiti Local Government election, the local government elections and the provincial council election.
-
-Several parties, including political parties, have already demanded the cancellation of nominations in the local government elections. The Election Commission seems to be consulting with the legal departments in this regard.
-
-...
-
-[Data](articles/5d45c414.json)
-
-[Extended Data](ext_articles/5d45c414.ext.json)
-
----
-
-### The Election Commission is ready for the general election
-
-*2024-09-21 10:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்தேர்தலுக்கு-தேர்தல்-ஆணைக்குழு-தயார்/175-344078) · `ta`
-
-Election Commission prepares for general election. Political parties discuss dissolving parliament post-presidential election. Four upcoming elections planned. Some parties demand cancellation of local government nominations. Legal consultations ongoing regarding nomination cancellations and parliamentary resolutions.
-
-🟩
-
-The Election Commission has announced that all district election officials will be ready to hold a general election if the new president dissolves parliament.
-
-Political critics think that parliament is more likely to be dissolved after the appointment of the new president.
-
-It is reported that the respective political parties have been discussed separately on the dissolution of parliament after the presidential election.
-
-Meanwhile, the Election Commission is preparing to hold four more elections over the next two years.
-
-There are four elections, the general election, the Elpiti Local Government election, the local government elections and the provincial council election.
-
-Several parties, including political parties, have already demanded the cancellation of nominations in the local government elections. The Election Commission seems to be consulting with the legal departments in this regard.
-
-...
-
-[Data](articles/72b83c14.json)
-
-[Extended Data](ext_articles/72b83c14.ext.json)
-
----
-
-### Dubai returns Dubasad reverses Priyasad
-
-*2024-09-21 10:08:34* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායි-යන්න-ගිය-ඩෑන්-ප්‍රියසාද්-ආපසු-හරවා-යවයි/11-412051) · `si`
-
-Dubai-bound passenger Dan Priyasad returned to Sri Lanka after court order. His flight from Katunayake Airport was cancelled due to legal restrictions. He faces charges related to a May 9, 2022 protest incident.
-
-🟩
-
-Dan Priyasad, who had arrived at the Bandaranaike International Airport, was back on the Bandaranaike International Airport by the Deliyana Airport.
-
-Liyanage Suresh Priyasad, named Suresh Priyasad, the Emirates Privaway to leave for Dubai on 08.35 pm was to leave the Katunayake Airport to enter the 653.
-
-However, as the judiciary was banned by the courts, the Katunayake airport has been reversed by Immigration and Emigration Department officials.
-
-Dan Priyasad has been named as the 6th Defender in the case of the attack on the peaceful protest in Colombo on 09 May 20, 2022.
-
-◼️
-
-[Data](articles/c9dc2b8a.json)
-
-[Extended Data](ext_articles/c9dc2b8a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 13:38:39**
+As of **2024-09-21 13:57:29**
 
 ## Newspaper Stats
 
-*Scraped **45,071** Articles*
+*Scraped **45,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,161
 dailymirrorlk | 4,733
 adaderanalk | 5,297
-tamilmirrorlk | 5,907
+tamilmirrorlk | 5,910
 virakesarilk | 7,217
 adaderanasinhalalk | 7,723
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 7,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,071 (100.0%) of 45,071 articles have been extended.
+45,074 (100.0%) of 45,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Voting on the floor: Many have not climbed
+
+*2024-09-21 13:37:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மாடியில்-வாக்களிப்பு-பலரும்-ஏறாமல்-விட்டனர்/76-344087) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Voting challenges: Polling station at tea factory's top floor caused inconvenience for many, especially elderly unable to climb stairs.
+
+🟩
+
+Those who had to vote at the polling station were facing great inconveniences by the polling station set up at the tea factory.
+
+As the polling station was set up on the top floor of the tea factory, the old age of those who were unable to climb the stairs faced great difficulties.
+
+◼️
+
+[Data](articles/0cb2a832.json)
+
+[Extended Data](ext_articles/0cb2a832.ext.json)
+
+---
+
+### Trouble for the young man who tears the ballot
+
+*2024-09-21 13:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டை-கிழித்த-இளைஞனுக்கு-சிக்கல்/175-344086) · `ta`
+
+Young voter tears ballot during Sri Lanka presidential election. Officials investigating first-time voter's actions. Incident occurred at Jaffna school polling station.
+
+🟩
+
+There is an incident where a youth who went to vote. The Jaffna Nayanmarkattu Maheshwari Vidyalaya is held.
+
+As the presidential election takes place, the youth has torn the ballot by the referendum officials.
+
+Jaffna Elections Department officials are conducting investigations to the person.
+
+Investigations have revealed that this is the first time the youth has voted in the election.
+
+◼️
+
+[Data](articles/018e5ffa.json)
+
+[Extended Data](ext_articles/018e5ffa.ext.json)
+
+---
 
 ### Presidential Election 2024: Voter turnout as at 12 noon
 
@@ -69,6 +117,28 @@ The percentage of the voter turnout in several districts is as follows today (21
 [Data](articles/d9024e6c.json)
 
 [Extended Data](ext_articles/d9024e6c.ext.json)
+
+---
+
+### Woman on the road to vote
+
+*2024-09-21 13:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வாக்களிக்க-சென்ற-பெண்-வைத்திய-சாலையில்/76-344085) · `ta`
+
+A 61-year-old woman was injured while voting on Saturday. She was hit by a vehicle driven by Otto on the Maskeliya-Nallathani road. The victim was initially taken to Maskeliya Hospital before being transferred to Tikoya-Klangan Hospital for further treatment.
+
+🟩
+
+The injured woman has been admitted to the Dikoya-Klangan hospital when Otto crashed into a woman who was going to vote.
+
+The incident took place on Saturday (21) at 10.30 am on the Maskeliya-Nallathani road.
+
+Jarangani (age 61), who went to Maskeliya Kudamaskeliya area, was injured.He has been admitted to the Maskeliya Hospital and has been transferred to the Tikoya -Klangan Base Hospital for further treatment, a Maskeliya Police Station official said.
+
+◼️
+
+[Data](articles/8744d138.json)
+
+[Extended Data](ext_articles/8744d138.ext.json)
 
 ---
 
@@ -2159,81 +2229,5 @@ Therefore, the Elections Commission issues announcement that all social media ke
 [Data](articles/a60c6fdb.json)
 
 [Extended Data](ext_articles/a60c6fdb.ext.json)
-
----
-
-### Top Hezbollah commander killed in Israeli strike on Beirut - reports
-
-*2024-09-20 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102105/top-hezbollah-commander-killed-in-israeli-strike-on-beirut-reports) · `en`
-
-Top Hezbollah commander Ibrahim Aqil was killed on Friday in an Israeli strike on Beirut’s southern suburbs, two security sources told Reuters.
-
-One of the sources said he was killed alongside members of Hezbollah’s elite Radwan unit as they were holding a meeting.
-
-An Israeli official confirmed that the Israeli military targeted Ibrahim Akil, a senior Hezbollah military official, in Friday’s airstrike on Beirut.
-
-It wasn’t immediately clear if Akil was killed in the Israeli strike on Beirut’s southern suburbs that killed at least three people and wounded 17 others, according to Lebanese health officials.
-
-The Israeli official spoke on condition of anonymity because he was discussing a behind the scenes security matter.
-
-...
-
-[Data](articles/fda8612d.json)
-
-[Extended Data](ext_articles/fda8612d.ext.json)
-
----
-
-### Economists say that foreign loan restructuring is a victory achieved
-
-*2024-09-20 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201245) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka achieves major debt restructuring victory. Over $17 billion in foreign loans restructured. Significant interest rate reductions and debt relief secured. Economy expected to enter growth path. Stock market shows positive signs with overall price index increase.
-
-🟩
-
-Economic analysts have pointed out that Sri Lanka's international trade creditors have reached agreements for over $ 17 billion debt restructuring.
-
-In the early 2022, Sri Lanka officially faced an economic crisis in the early 2022, officially announced that the Central Bank of Sri Lanka and the Secretary to the Secretary to the Finance Ministry cannot repay the debt of the country on April 12.
-
-Sri Lanka included a program with the International Monetary Fund and focuses on the restructuring of foreign loans of about US $ 37 billion.
-
-Accordingly, according to the International Monetary Fund program, the restructuring of local debts.
-
-After India and France, France, the Credit-Receiptive talks with China, Sri Lanka was able to reach the restructuring agreements with Paris society to an effective end with bilateral creditors.
-
-Sri Lanka was restructured by a $ 5.8 billion debt covering debts from 17 countries.
-
-...
-
-[Data](articles/ab83366d.json)
-
-[Extended Data](ext_articles/ab83366d.ext.json)
-
----
-
-### Vote for the appropriate candidate and calm down the houses;Do not engage in violence- the 'Sarvodayam' organization demands people
-
-*2024-09-20 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194213) · `ta`
-
-Sarvodayam urges calm voting: "Cast ballots peacefully, avoid violence. Follow Election Commission rules. Choose wisely based on policies, not emotions."
-
-🟩
-
-All the nations must remain in the political policies they believe on Saturday (21) and vote for the appropriate candidate and remain silent in their homes. The 'Sarvodayam' organization has urged the people to abstain from engaging in violent incidents associated with the election.
-
-In a statement issued by the 'Sarvodayam' organization, the ninth presidential election is scheduled for Saturday (21).
-
-Sri Lanka's ninth presidential election will be held on Saturday (21). The presidential election is being held in the context of many of our country's unprecedented challenges. Over the past few years, we are in the face of the most economic crisis and are still unable to find a steady way to recover from it.
-
-...
-
-[Data](articles/fb3d7b91.json)
-
-[Extended Data](ext_articles/fb3d7b91.ext.json)
 
 ---

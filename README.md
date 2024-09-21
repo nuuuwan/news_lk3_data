@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 03:22:40**
+As of **2024-09-22 03:38:03**
 
 ## Newspaper Stats
 
-*Scraped **45,209** Articles*
+*Scraped **45,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,173
 dailymirrorlk | 4,733
 adaderanalk | 5,321
-tamilmirrorlk | 5,937
+tamilmirrorlk | 5,938
 virakesarilk | 7,241
 adaderanasinhalalk | 7,755
 
@@ -26,41 +26,93 @@ adaderanasinhalalk | 7,755
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,205 (100.0%) of 45,209 articles have been extended.
+45,210 (100.0%) of 45,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
 
-### மாத்தறை மாவட்டம்: தபால்மூல வாக்குபதிவு
+### Anura wins in 10 districts so far
+
+*2024-09-22 03:06:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-10-மாவட்டங்களில்-அனுர-வெற்றி/175-344127) · `ta`
+
+Anura wins 10 districts; Anurakumara Dissanayake leads NPP; Sajith Premadasa wins one district.
+
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power (NPP), has won the postal voting results in the eleven districts.
+
+United People's Power President Sajith Premadasa Wanni was only able to win.
+
+Anurakumara won the districts of Colombo, Galle, Hambantota, Matale, Matara, Moneragala, Polonnaruwa, Ratnapura, Trincomalee and Nuwara Eliya.
+
+◼️
+
+[Data](articles/deb6f2f8.json)
+
+[Extended Data](ext_articles/deb6f2f8.ext.json)
+
+---
+
+### Matara District: Postal Voting
 
 *2024-09-22 02:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/மாத்தறை-மாவட்டம்-தபால்மூல-வாக்குபதிவு/93-344126) · `ta`
+
+Here's a summary of "Matara District: Postal Voting" in 200 characters:
+
+
+
+Matara District conducts postal voting for elections. Eligible voters receive ballot papers by mail. They mark choices and return ballots via post office. This system allows remote participation in local polls.
+
+🟩
 
 ◼️
 
 [Data](articles/eb0ffbec.json)
 
+[Extended Data](ext_articles/eb0ffbec.ext.json)
+
 ---
 
-### நுவரெலியா மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+### Nuwara Eliya District: Postal Voting
 
 *2024-09-22 02:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியா-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344125) · `ta`
+
+Here's a summary of "Nuwara Eliya District: Postal Voting" in approximately 200 characters:
+
+
+
+Nuwara Eliya District conducts postal voting for elections. Eligible voters can apply online or through local authorities. Ballots are sent via post, allowing citizens to cast votes from anywhere within the district. The process ensures accessibility for remote areas and busy professionals.
+
+🟩
 
 ◼️
 
 [Data](articles/cd9a2794.json)
 
+[Extended Data](ext_articles/cd9a2794.ext.json)
+
 ---
 
-### නුවරඑළිය නිල තැපැල් ඡන්ද ප්‍රතිඵලය
+### Nuwara Eliya Official Postal Vote
 
 *2024-09-22 02:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201294) · `si`
 
-නුවරඑළිය දිස්ත්‍රික්කයේ නිල තැපැල් ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක මහතා ඡන්ද 8,946 ක් ලබා ඉදිරියෙන් පසුවෙයි.
+Here's a summary of the text in 200 characters:
+
+
+
+Nuwara Eliya District postal vote results: Anura Kumara Dissanayake receives 8,946 votes.
+
+🟩
+
+The official postal voting outcome of the Nuwara Eliya District has been released and Anura Kumara Dissanayake returns to 8,946 votes.
 
 ◼️
 
 [Data](articles/9162612f.json)
+
+[Extended Data](ext_articles/9162612f.ext.json)
 
 ---
 
@@ -96,15 +148,17 @@ National People’s Power (NPP) candidate Anura Kumara Dissanayake has received 
 
 ---
 
-### මාතර නිල තැපැල් ඡන්ද ප්‍රතිඵලය
+### Matara official postal voting results
 
 *2024-09-22 02:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201293) · `si`
 
-මාතර දිස්ත්‍රික්කයේ නිල තැපැල් ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක මහතා ඡන්ද 19,712 ක් ලබා ඉදිරියෙන් පසුවෙයි.
+The official postal voting outcome of the Matara district has been released and Anura Kumara Dissanayake returns to 19,712 votes.
 
 ◼️
 
 [Data](articles/68e0e253.json)
+
+[Extended Data](ext_articles/68e0e253.ext.json)
 
 ---
 
@@ -2241,23 +2295,5 @@ It also stated that there were complaints that the milkypoint pens were sent in 
 [Data](articles/53b3b1b1.json)
 
 [Extended Data](ext_articles/53b3b1b1.ext.json)
-
----
-
-### 2024 Presidential Election: Voter turnout after polls close
-
-*2024-09-21 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102123/2024-presidential-election-voter-turnout-after-polls-close) · `en`
-
-The district-level voter turnout percentages for the 2024 Presidential Election at the close of polls at 04.00 p.m. today have been released.
-
-Accordingly, the voter turnout percentages of several districts at the close of polls are as follows:
-
-Meanwhile, it was earlier reported that the overall voter turnout as at 2.00 p.m. today had exceeded 60 percent.
-
-◼️
-
-[Data](articles/b9c8bfdd.json)
-
-[Extended Data](ext_articles/b9c8bfdd.ext.json)
 
 ---

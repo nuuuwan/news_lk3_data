@@ -1,36 +1,52 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 11:09:49**
+As of **2024-09-21 11:22:50**
 
 ## Newspaper Stats
 
-*Scraped **45,056** Articles*
+*Scraped **45,059** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 438
-colombotelegraphcom | 450
+colombotelegraphcom | 451
 islandlk | 2,656
 economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,160
 dailymirrorlk | 4,733
 adaderanalk | 5,295
-tamilmirrorlk | 5,903
-virakesarilk | 7,215
+tamilmirrorlk | 5,904
+virakesarilk | 7,216
 adaderanasinhalalk | 7,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,056 (100.0%) of 45,056 articles have been extended.
+45,056 (100.0%) of 45,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### வவுனியாவில் வாக்களிப்பு ஆரம்பம்
+
+*2024-09-21 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194242) · `ta`
+
+9 ஆவது  நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி தேர்தலுக்கான வாக்களிப்புக்கள் இன்று சனிக்கிழமை (21) நாடு முழுவதும் நடைபெற்று வருகிறது.
+
+இந்நிலையில், வவுனியாவிலும் காலையிலேயே மக்கள் ஆர்வமுடன் வாக்களிப்பு நிலையங்களுக்கு சென்று ஆர்வத்துடன் வாக்களித்து வருகின்றனர்.
+
+இதேவேளை, அனைத்து வாக்களிப்பு நிலையங்களுக்கும் வவுனியா தேர்தல் ஆணைக்குழுவினர் சென்று பார்வையிட்டு வருவதுடன், ஐரோப்பிய ஓன்றியத்தின் தேர்தல் கண்காணிப்பு குழுவினரும் கண்காணிப்பில் ஈடுபட்டு வருகின்றனர் என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/729e57c7.json)
+
+---
 
 ### Presidential Election: Voter turnout as at 10am
 
@@ -67,6 +83,22 @@ The presidential election, which began at 7am this morning, will conclude at 4 p
 [Data](articles/18d20ca0.json)
 
 [Extended Data](ext_articles/18d20ca0.ext.json)
+
+---
+
+### வாக்குச்சீட்டை படம் எடுத்தவர் கைது
+
+*2024-09-21 10:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டை-படம்-எடுத்தவர்-கைது/175-344081) · `ta`
+
+காலி மாவட்ட, மித்தியகொட பொலிஸ் பிரிவிற்குட்பட்ட தெல்வத்த சுமணராம விகாரையின் வாக்களிப்பு நிலையத்தில் இன்று (21) காலை வாக்களிப்பில் ஈடுபட்ட நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+ஹிக்கடுவ தெல்வத்த போயகொட வீதியைச் சேர்ந்த 44 வயதுடைய ஓய்வுபெற்ற இராணுவ சிப்பாய் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+வாக்களிப்பு நிலையத்திற்கு இன்று காலை வந்த அவர், தனது வாக்குச்சீட்டை பெற்றுக்கொண்டு வாக்களித்த பின்னர், அதனை புகைப்படம் எடுக்கும் போது பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/36ac5400.json)
 
 ---
 
@@ -845,6 +877,18 @@ Also, here are the photos and some news published on the country's first preside
 [Data](articles/5314e0e9.json)
 
 [Extended Data](ext_articles/5314e0e9.ext.json)
+
+---
+
+### Basis For Voting To Select Next Members Of Parliament & The President
+
+*2024-09-21 05:33:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/basis-for-voting-to-select-next-members-of-parliament-the-president/) · `en`
+
+It is alarming that many middle-class Sri Lankans, the majority group, continue to rely on family-driven, self-proclaimed, high-class politicians to lead the country, from the presidency to the parliament. These families, who have held the reins of power for the past five decades, have failed to uplift the nation socially, morally, and economically. This has led to a decline in the country’s wealth and foreign reserves, and an increase in unemployment, poverty, and malnutrition. Sri Lanka has been ensnared in this destructive cycle for far too long, and the need for a change in the political system is more urgent than ever.
+
+...
+
+[Data](articles/c9665dbe.json)
 
 ---
 
@@ -2195,81 +2239,5 @@ However, the employees of the Amban Divisional Hospital have summoned the Marada
 [Data](articles/15768ba5.json)
 
 [Extended Data](ext_articles/15768ba5.ext.json)
-
----
-
-### All arrangements for the presidential election - Mannar District Elections Officer
-
-*2024-09-20 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194202) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Mannar District prepares for presidential election: 98 polling stations set up, 111 officers deployed for security, special arrangements for disabled voters. No election violence reported, only 28 normal law violation complaints addressed.
-
-🟩
-
-Mannar District Government Agent K. Kanageswaran said that all arrangements for the Mannar Election constituency have been made for the 9th Executive Presidential election to be held tomorrow (21st).
-
-He was speaking at a media briefing held at the Mannar District Secretariat at 2.30 pm on Friday (20).
-
-Voting boxes have been completed from the Mannar District Secretariat today (20) to 98 polling stations.. Voting boxes have been sent to all polling stations in the district.
-
-All arrangements have been made for the presidential election to be held in justice and independent. Police and Task Force have been linked to security measures.
-
-64 policemen and 47 Special Task Force (STF) have been recruited for security measures. 11 policemen have been deployed to the complaint unit.
-
-Two policemen have been employed at 98 polling stations. When the voting is over, the voting boxes are taken to the polling station with strong security and the police will be deployed on the road.
-
-...
-
-[Data](articles/3330d54f.json)
-
-[Extended Data](ext_articles/3330d54f.ext.json)
-
----
-
-### Pavithra and Chandrasena removal
-
-*2024-09-20 16:44:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பவித்ராவும்-சந்திரசேனவும்-நீக்கம்/175-344064) · `ta`
-
-Pavithra Wanniyarachchi and Chandrasena removed from Sri Lanka PA. Summary: Two key figures dismissed from political roles.
-
-🟩
-
-Pavithra Wanniyarachchi, SM from Sri Lanka PA. Chandrasena has also been removed.
-
-◼️
-
-[Data](articles/003189e1.json)
-
-[Extended Data](ext_articles/003189e1.ext.json)
-
----
-
-### Bore. Two hand grenades recovery in the Vavuniya area
-
-*2024-09-20 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194201) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Explosives seized: 2 grenades & 2 pistols found in Vavuniya. Grenades discovered on private property, pistols recovered during police operations."
-
-🟩
-
-Two handguns have been recovered from the Batticaloa and Vavuniya Police Division, Vavuniya Police said.
-
-It is reported that the bombs have been recovered from the land on Yad Road in the Valawattavan Grama Sevaka Division.
-
-The two hand grenades were found in accordance with public information on Friday (20).
-
-◼️
-
-[Data](articles/fb010ce9.json)
-
-[Extended Data](ext_articles/fb010ce9.ext.json)
 
 ---

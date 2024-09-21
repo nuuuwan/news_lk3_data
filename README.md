@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 11:38:25**
+As of **2024-09-21 11:58:05**
 
 ## Newspaper Stats
 
-*Scraped **45,060** Articles*
+*Scraped **45,062** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 438
-colombotelegraphcom | 451
+colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,729
 dailyftlk | 3,017
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,295
 tamilmirrorlk | 5,904
 virakesarilk | 7,217
-adaderanasinhalalk | 7,719
+adaderanasinhalalk | 7,720
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,060 (100.0%) of 45,060 articles have been extended.
+45,062 (100.0%) of 45,062 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,32 @@ In the 2024 presidential polling polls, 32 percent of the voting in the Kalutara
 [Data](articles/c6410ef3.json)
 
 [Extended Data](ext_articles/c6410ef3.ext.json)
+
+---
+
+### Mirihana murder suspect
+
+*2024-09-21 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201259) · `si`
+
+Here's a 200-character summary:
+
+
+
+Woman killed in Mirihana home assault. Victim from Sandanampitiya, lived there 35 years. Murderer identified as house driver.
+
+🟩
+
+A woman in a house in a house in the Mirihana Police, a woman was assaulted with a sharp weapon.
+
+The murdered was a resident of Sandanampitiya area for 35 years.
+
+It has been revealed that the murder was taken as a driver of the house.
+
+◼️
+
+[Data](articles/b1e716c7.json)
+
+[Extended Data](ext_articles/b1e716c7.ext.json)
 
 ---
 
@@ -82,7 +108,7 @@ Meanwhile, the Vavuniya Election Commission is visiting all the polling stations
 
 The district-level voter turnout for the 2024 Presidential Election thus far has already exceeded 20 percent in several districts, according to reports.
 
-Accordingly, the voter turnout of several districts as at 10.00 a.m. this morning (21) is as follows:
+Accordingly, the voter turnout percentages of several districts as at 10.00 a.m. this morning (21) are as follows:
 
 Voting for the presidential election is currently taking place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (20).
 
@@ -911,6 +937,18 @@ Also, here are the photos and some news published on the country's first preside
 [Data](articles/5314e0e9.json)
 
 [Extended Data](ext_articles/5314e0e9.ext.json)
+
+---
+
+### Charting Sri Lanka’s Future: A Political Economy Blueprint For The Next Presidency
+
+*2024-09-21 05:58:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/charting-sri-lankas-future-a-political-economy-blueprint-for-the-next-presidency/) · `en`
+
+...
+
+[Data](articles/3d109d05.json)
+
+[Extended Data](ext_articles/3d109d05.ext.json)
 
 ---
 
@@ -2197,53 +2235,5 @@ A bond maturing on 15.06.2029 closed at 13.85/95 percent, up from 13.82/90 perce
 [Data](articles/8c1f5850.json)
 
 [Extended Data](ext_articles/8c1f5850.ext.json)
-
----
-
-### Sri Lanka stocks close up, banks gain after ISB deal
-
-*2024-09-20 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-gain-after-isb-deal-180211/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.75 percent, or 81.94 points, at 10,966; while the more liquid S&P SL20 Index closed up 1.32 percent, or 40.44 points, at 3,102.
-
-“Today was all about the ISB deal; banking sector counters were up. That’s what mostly drove the market yesterday and today,” Softlogic Stockbrokers said.
-
-Sri Lanka reached a deal with foreign bond holders and local banks to restructure defaulted sovereign bonds.
-
-Sri Lanka local banks to get 10-pct haircut on 70-pct of ISBs, balance in rupees
-
-“It was a good end to the week which saw back to back positive days.”
-
-Local banks would be able to exchange 70 percent of their ISBs into dollar bonds with a 10 percent haircut.
-
-The balance 30 percent would be exchanged for rupee securities.
-
-...
-
-[Data](articles/4433d85a.json)
-
-[Extended Data](ext_articles/4433d85a.ext.json)
-
----
-
-### No decision to arrest Shani Abeysekera and Ravi Seneviratne - AG
-
-*2024-09-20 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102100/no-decision-to-arrest-shani-abeysekera-and-ravi-seneviratne-ag) · `en`
-
-The Attorney General informed the Supreme Court today (20) that no decision has been made to arrest former Director of the Criminal Investigation Department (CID) Shani Abeysekera, and former Senior DIG in charge of the CID Ravi Seneviratne, in connection with the investigations into the Easter Sunday attacks.
-
-This was stated during the hearing of fundamental rights petitions filed by Ravi Seneviratne and Shani Abeysekera, seeking an order preventing them from being arrested in connection with investigations into a complaint made by a group of police officers, including former DIG Palitha Siriwardhane.
-
-The relevant petition was taken up before a three-member Supreme Court judge bench consisting of Justices Preethi Padman Surasena, Achala Vengappuli and Mahinda Samayawardhena.
-
-The Deputy Solicitor General, representing the Attorney General, stated that the CID has sought advice from the Attorney General regarding the investigations.
-
-...
-
-[Data](articles/8d427170.json)
-
-[Extended Data](ext_articles/8d427170.ext.json)
 
 ---

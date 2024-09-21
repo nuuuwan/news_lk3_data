@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 17:07:46**
+As of **2024-09-21 17:22:34**
 
 ## Newspaper Stats
 
-*Scraped **45,097** Articles*
+*Scraped **45,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,124 @@ adalk | 4,165
 dailymirrorlk | 4,733
 adaderanalk | 5,300
 tamilmirrorlk | 5,911
-virakesarilk | 7,219
-adaderanasinhalalk | 7,729
+virakesarilk | 7,223
+adaderanasinhalalk | 7,731
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,095 (100.0%) of 45,097 articles have been extended.
+45,103 (100.0%) of 45,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Voting boxes are taken to polling stations!
+
+*2024-09-21 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194296) · `ta`
+
+Sri Lanka's 2024 presidential election results: Gotabhaya Rajapakse wins with 52.25% of votes. First results announced at midnight. 17 million eligible voters cast ballots across 22 districts.
+
+🟩
+
+The 2024 presidential election voting was completed independently and quietly on Saturday (21st).
+
+The voting, which began at 7 am today, ended at 4 pm.
+
+In this case, voting boxes from polling stations have been taken to polling stations.
+
+The first election result will be released at midnight today, said Saman Sri Ratnayake, Commissioner General of the Election Commission.
+
+With 38 presidential candidates contesting this time, 17, 140,354 were eligible to vote.
+
+In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3,151 voting centers in the Colombo Election District.
+
+Gotabhaya Rajapakse, who contested the presidential candidate of Sri Lanka PA as the presidential candidate, was elected as the 7th Executive President of the country with 52.25 per cent votes with 52.25 per cent votes.
+
+...
+
+[Data](articles/c3e05b41.json)
+
+[Extended Data](ext_articles/c3e05b41.ext.json)
+
+---
+
+### Percentage of votes published at 4 pm
+
+*2024-09-21 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201269) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Voter turnout percentage published: [X]% at 4 pm today."
+
+
+
+This summary captures the key information from the original text while staying within the character limit. It conveys that a specific percentage of voter turnout was released at 4 pm on the current day.
+
+🟩
+
+The percentage of voter turnout is as 4 pm today.
+
+◼️
+
+[Data](articles/940d96bb.json)
+
+[Extended Data](ext_articles/940d96bb.ext.json)
+
+---
+
+### Dilith's confidence
+
+*2024-09-21 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201270) · `si`
+
+Dilith Jayaweera, presidential candidate, votes at temple. Promises happy future, challenges status quo. Aims to transform Sri Lanka from third to first world.
+
+🟩
+
+Dilith Jayaweera, the presidential seminar, the presidential candidate, Dilith Jayaweera, voted at the Jihihanhana Sri Chandrama Viharaya today (21).
+
+Dilith Jayaweera gave birth to the mandate of the 2024 presidential election to create a "happy.
+
+Speaking to the media After the election, Presidential candidate entrepreneurship Dilith Jayaweera said,
+
+"The people had a chance to be a decisive presidential election after the independence of Sri Lanka. I have faith in a season of traditional politics is still rooting, I have made a big challenge to this situation. It helped us to comfort us a different Sri Lanka who wished the people and to the first world from the third world. "
+
+◼️
+
+[Data](articles/d6a83832.json)
+
+[Extended Data](ext_articles/d6a83832.ext.json)
+
+---
+
+### Nuwara Eliya District Strike - 80% Voting Registration Completed
+
+*2024-09-21 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194294) · `ta`
+
+Nuwara Eliya District: Smooth presidential election with 80% turnout. Peaceful process, high participation from plantation workers and young women. International observers present.
+
+🟩
+
+Nandana Kaladapada, the Nuwara Eliya District Secretary and Elections Officer, said that the voting of the presidential election in Nuwara Eliya in the Nuwara Eliya district on Saturday (21) was smooth and 80% of the votes were cast.
+
+He further stated that the election votes were done in a very peaceful manner without any incident and that the police had taken up their duties properly and that the authorities had ended their duties better.
+
+Voting began at 07.00 am, but in many parts of the country in the morning. However, the voting in the plantation and urban areas later was very active.
+
+In Nuwara Eliya district, 30 percent of the votes were cast till 9 am. It was 45 percent at 12 o'clock and 72 percent at 01 pm. At 01 at 01. The plantation workers were able to vote with more people.
+
+Members of the International Monitoring Committee have visited Nuwara Eliya District. The people also commented that the election is very quiet.
+
+...
+
+[Data](articles/a365b819.json)
+
+[Extended Data](ext_articles/a365b819.ext.json)
+
+---
 
 ### Presidential Election results expected before midnight
 
@@ -50,21 +156,79 @@ Furthermore, he stated that the counting of postal votes will begin at 429 desig
 
 [Data](articles/793f300b.json)
 
+[Extended Data](ext_articles/793f300b.ext.json)
+
 ---
 
-### සජිත් ඡන්දය ප්‍රකාශ කළ අයුරු
+### How Sajith was voted
 
 *2024-09-21 16:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201268) · `si`
 
-සමගි ජන බලවේගය ජනාධිපති ධුර අපේක්ෂක සජිත් ප්‍රේමදාස මහතා රාජගිරිය කොටුවේගොඩ විවේකාරාම පුරාණ විහාරස්ථානයේ ස්ථාපිත ඡන්ද මධ්‍යස්ථානයේදී සිය ඡන්දය භාවිත කළේය.
+Sajith Premadasa, opposition leader, won election at Rajagiriya's Ecclinal Viharaya. He emphasized protecting democracy, promoting peace, unity, and conducting fair elections.
 
-ප්‍රජාතන්ත්‍රවාදය ආරක්ෂා කරමින් සාමයෙන්, මිත්‍රශීලීත්වයෙන් සහ එකමුතුකමින් කටයුතු කිරීම සැමගේම යුතුකම සහ වගකීම බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙහිදී පැවසීය.
+🟩
 
-"ප්‍රජාතන්ත්‍රවාදය ජයග්‍රහණය කරවමින් සාමයෙන්, මිත්‍රශීලිත්වයෙන් ප්‍රජාතන්ත්‍රවාදීව මේ මැතිවරණය කටයුතු ක්‍රියාත්මක කිරීම අප සැමගේම වගකීමක් හා යුතුකමයි".
+The presidential force presidential candidates Sajith Premadasa, Rajagiriya, was voted at the Ecclinal Viharaya in Rajagiriya.
+
+Leader of the Opposition Sajith Premadasa said that it is due to the duty and responsibility to protect democracy and work in peace, friendly and unity.
+
+"It is our own responsibility and obligation to implement these elections in peace, friendly, in peace, and democratically."
 
 ◼️
 
 [Data](articles/e8722bc6.json)
+
+[Extended Data](ext_articles/e8722bc6.ext.json)
+
+---
+
+### The presidential election is about to bring about an unexpected change - common candidate Ariyanethran
+
+*2024-09-21 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194288) · `ta`
+
+Ariyanethran, a common candidate in Sri Lanka's presidential election, promises change for Tamil people in the Northeast. He vows to address long-standing issues and seeks votes from Tamil communities. Despite opposition from some groups, he urges Tamil voters to remain committed and cast their ballots.
+
+🟩
+
+The ongoing presidential election is about to bring about an unexpected change.. He said this while speaking to the media after his vote.
+
+The Tamil people of the Northeast are struggling for a unique self -determination right. The last eight presidents have not given any solution to them. For that purpose, the Tamil Public Framework Organization 83 Civil Organizations and Seven Tamil Political Parties have joined me as a common candidate.
+
+This election decision must be given a political solution for the Tamil people in the Northeast.. We have the hope of giving a message to the ninth president of Sri Lanka, the Sri Lankan government, the international and the neighboring country.
+
+I went to the eight districts in the northeast and engaged. The Tamil people in the Northeast, beyond the Northeast, have continued their news to vote for me.
+
+So I am obligated to thank all the relationships that vote for my symbol. The election result is based on the next change after the election.
+
+...
+
+[Data](articles/6e631f73.json)
+
+[Extended Data](ext_articles/6e631f73.ext.json)
+
+---
+
+### The first election result may be released at midnight- the Election Commission
+
+*2024-09-21 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194292) · `ta`
+
+First election results expected midnight: Election Commissioner General Saman Sri Ratnayake announces 2024 presidential election outcome release date. Postal voting results based on station capabilities. Voting concluded 7am-4pm across 13,421 polling stations nationwide.
+
+🟩
+
+Election Commissioner General Saman Sri Ratnayake said that the first election result of the 2024 presidential election will be released today (21).
+
+He told the media that the postal voting results or registration votes would be based on the ability of the authorities in the polling stations.
+
+However, based on past experiences, the first results will be announced at midnight today, he added.
+
+Voting for the 2024 presidential election began at 7.00 am at 13,421 polling stations nationwide and ended at 4 pm.
+
+◼️
+
+[Data](articles/28b950bf.json)
+
+[Extended Data](ext_articles/28b950bf.ext.json)
 
 ---
 
@@ -2133,127 +2297,5 @@ Sri Lanka Podujana Peramuna (SLPP) founder and former Minister Basil Rajapaksa y
 [Data](articles/f9771608.json)
 
 [Extended Data](ext_articles/f9771608.ext.json)
-
----
-
-### AG says no decision to arrest Shani Abeysekera and Ravi Seneviratne
-
-*2024-09-21 00:48:28* · [`dailyftlk`](https://www.ft.lk/news/AG-says-no-decision-to-arrest-Shani-Abeysekera-and-Ravi-Seneviratne/56-766979) · `en`
-
-The Attorney General informed the Supreme Court yesterday that no decision has been made to arrest former Criminal Investigation Department (CID) Director Shani Abeysekera, and former Senior DIG in charge of the CID Ravi Seneviratne, in connection with the investigations into the Easter Sunday attacks.
-
-This was stated during the hearing of fundamental rights petitions filed by Ravi Seneviratne and Shani Abeysekera, seeking an order preventing them from being arrested in connection with investigations into a complaint made by a group of police officers, including former DIG Palitha Siriwardhane.
-
-The relevant petition was taken up before a three-member Supreme Court judge bench consisting of Justices Preethi Padman Surasena, Achala Vengappuli and Mahinda Samayawardhena.
-
-The Deputy Solicitor General, representing the Attorney General, stated that the CID has sought advice from the Attorney General regarding the investigations.
-
-...
-
-[Data](articles/f292d47d.json)
-
-[Extended Data](ext_articles/f292d47d.ext.json)
-
----
-
-### The train service will be held as usual
-
-*2024-09-21 00:29:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமை-போன்று-ரயில்-சேவை-இடம்பெறும்/175-344071) · `ta`
-
-Train services normal today: Railway Department confirms usual operations despite concerns. Deputy General Manager NJ Indibollake stated measures in place for regular train schedules across all routes.
-
-🟩
-
-The Railway Department said that the train services will be held as usual today.
-
-Commenting on a media briefing held at the Government Information Department yesterday, Deputy General Manager of the Department NJ Indibollake made this statement.
-
-He said that steps have been taken to carry out train services at all religions as usual.. (A)
-
-◼️
-
-[Data](articles/fbf137c8.json)
-
-[Extended Data](ext_articles/fbf137c8.ext.json)
-
----
-
-### 12 people injured in bus accident
-
-*2024-09-21 00:26:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-12-பேருக்கு-காயம்/175-344070) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Bus crash injures 12 near Kumbukana. 5 hospitalized in Moneragala. Accident occurred during Colombo-bound journey from Moneragala.
-
-🟩
-
-At least 12 people were injured when a private bus traveling from Moneragala to Colombo crashed into Kumbukana area.
-
-Five of the injured have been admitted to the Emergency Department of Moneragala District General Hospital. (A)
-
-◼️
-
-[Data](articles/cd700ffa.json)
-
-[Extended Data](ext_articles/cd700ffa.ext.json)
-
----
-
-### Thoughts for the incoming President
-
-*2024-09-21 00:07:12* · [`dailyftlk`](https://www.ft.lk/columns/Thoughts-for-the-incoming-President/4-766972) · `en`
-
-While thanking all, the winning candidate’s message to all district and electoral organisers, should be that every one should be treated with dignity and respect – Pic by Shehan Gunasekara
-
-I have been asked to share my thoughts, on what the incoming President of Sri Lanka should address in his first few days. These are only a few of my expectations, which I commence with the words “Towards a deliverable or short term milestone”.
-
-A. Towards immediate transition to a laudable benchmark of law and order; preventing and pre-empting post election disturbances, and tempering celebrations of victory
-
-...
-
-[Data](articles/545af133.json)
-
-[Extended Data](ext_articles/545af133.ext.json)
-
----
-
-### Don’t look back in anger
-
-*2024-09-21 00:05:18* · [`dailyftlk`](https://www.ft.lk/columns/Don-t-look-back-in-anger/4-766971) · `en`
-
-It is time for the JVP to own up to their history and for the Sri Lankan people to make informed, rational choices about their future – Pic by Shehan Gunasekara
-
-The role of the JVP in Sri Lanka’s political unrest: A historical and analytical perspective
-
-The Janatha Vimukthi Peramuna (JVP), or the People’s Liberation Front, played a pivotal role in the political upheavals in Sri Lanka during the 1970s and late 1980s. Their violent uprisings were born out of discontent with the Government’s handling of the economy and social issues, especially during the reign of Prime Minister Sirimavo Bandaranaike in the 1970s. The extreme measures taken by the JVP in their quest for revolutionary change left a lasting impact on the nation’s political and social fabric.
-
-...
-
-[Data](articles/e95e4a46.json)
-
-[Extended Data](ext_articles/e95e4a46.ext.json)
-
----
-
-### Austerity measures on trial in Sri Lanka’s first election since economic collapse
-
-*2024-09-21 00:02:54* · [`dailyftlk`](https://www.ft.lk/opinion/Austerity-measures-on-trial-in-Sri-Lanka-s-first-election-since-economic-collapse/14-766970) · `en`
-
-The economy will be the key issue for voters in Sri Lanka’s upcoming presidential election, set against a backdrop of geopolitical rivalry
-
-When Sri Lanka heads to the polls on 21 September in the country’s first presidential election since its 2022 economic meltdown, the economy will be the key issue for voters. The election will serve as a referendum on the difficult austerity measures imposed on the country’s road to recovery.
-
-Sri Lanka underwent a sovereign default in April 2022 as its foreign exchange reserves ran out and public debt stood at more than $83 billion, half of which was owed to foreign creditors. Soaring inflation at close to 70 per cent and commodity shortages triggered large-scale unrest that ultimately unseated President Gotabaya Rajapaksa from power.
-
-In 2023, the government of Interim President Ranil Wickremesinghe secured a $2.9 billion bailout from the IMF – the 17th in the country’s history.
-
-...
-
-[Data](articles/5ee2fe21.json)
-
-[Extended Data](ext_articles/5ee2fe21.ext.json)
 
 ---

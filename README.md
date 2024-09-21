@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 03:08:01**
+As of **2024-09-22 03:22:40**
 
 ## Newspaper Stats
 
-*Scraped **45,205** Articles*
+*Scraped **45,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 3,017
 adalk | 4,173
 dailymirrorlk | 4,733
 adaderanalk | 5,321
-tamilmirrorlk | 5,935
+tamilmirrorlk | 5,937
 virakesarilk | 7,241
-adaderanasinhalalk | 7,753
+adaderanasinhalalk | 7,755
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,200 (100.0%) of 45,205 articles have been extended.
+45,205 (100.0%) of 45,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### மாத்தறை மாவட்டம்: தபால்மூல வாக்குபதிவு
+
+*2024-09-22 02:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/மாத்தறை-மாவட்டம்-தபால்மூல-வாக்குபதிவு/93-344126) · `ta`
+
+◼️
+
+[Data](articles/eb0ffbec.json)
+
+---
+
+### நுவரெலியா மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+
+*2024-09-22 02:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியா-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344125) · `ta`
+
+◼️
+
+[Data](articles/cd9a2794.json)
+
+---
+
+### නුවරඑළිය නිල තැපැල් ඡන්ද ප්‍රතිඵලය
+
+*2024-09-22 02:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201294) · `si`
+
+නුවරඑළිය දිස්ත්‍රික්කයේ නිල තැපැල් ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක මහතා ඡන්ද 8,946 ක් ලබා ඉදිරියෙන් පසුවෙයි.
+
+◼️
+
+[Data](articles/9162612f.json)
+
+---
 
 ### Anura wins Nuwara Eliya District postal votes
 
@@ -43,6 +75,8 @@ National People’s Power (NPP) candidate Anura Kumara Dissanayake has received 
 ◼️
 
 [Data](articles/e3d3fe7e.json)
+
+[Extended Data](ext_articles/e3d3fe7e.ext.json)
 
 ---
 
@@ -58,25 +92,59 @@ National People’s Power (NPP) candidate Anura Kumara Dissanayake has received 
 
 [Data](articles/171bb2b0.json)
 
+[Extended Data](ext_articles/171bb2b0.ext.json)
+
 ---
 
-### மாத்தளை மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+### මාතර නිල තැපැල් ඡන්ද ප්‍රතිඵලය
+
+*2024-09-22 02:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201293) · `si`
+
+මාතර දිස්ත්‍රික්කයේ නිල තැපැල් ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක මහතා ඡන්ද 19,712 ක් ලබා ඉදිරියෙන් පසුවෙයි.
+
+◼️
+
+[Data](articles/68e0e253.json)
+
+---
+
+### Matale District: Postal Voting
 
 *2024-09-22 02:34:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344124) · `ta`
+
+Here's a summary of "Matale District: Postal Voting" in approximately 200 characters:
+
+
+
+Matale District conducts postal voting for elections. Eligible voters receive ballot papers by post. They mark choices and return via mail. This system allows remote participation, increasing voter accessibility. Postal voting aims to boost turnout, especially in rural areas. However, it requires careful management to prevent fraud and ensure secrecy. The process involves voter registration, ballot distribution, and secure collection of completed votes.
+
+🟩
 
 ◼️
 
 [Data](articles/0fd5d982.json)
 
+[Extended Data](ext_articles/0fd5d982.ext.json)
+
 ---
 
-### கொழும்பில் அனுர முன்னிலையில்
+### In the presence of Anura in Colombo
 
 *2024-09-22 02:33:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பில்-அனுர-முன்னிலையில்/95-344123) · `ta`
+
+Here's a summary of "In the presence of Anura in Colombo" in approximately 200 characters:
+
+
+
+"In the bustling city of Colombo, I encountered Anura. We met at a local café, where we discussed his latest project. Anura, a software engineer, shared insights about modern web development trends. His enthusiasm was contagious as he explained the potential of AI in enhancing user experiences. Our conversation flowed effortlessly, covering everything from coding challenges to personal interests."
+
+🟩
 
 ◼️
 
 [Data](articles/3a259e26.json)
+
+[Extended Data](ext_articles/3a259e26.ext.json)
 
 ---
 
@@ -164,13 +232,23 @@ Anura Kumara Dissanayake has returned 12,186 votes in the Matale District.
 
 ---
 
-### காலி மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+### Galle District: Postal Voting
 
 *2024-09-22 02:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344122) · `ta`
+
+Here's a summary of "Galle District: Postal Voting" in approximately 200 characters:
+
+
+
+Galle District conducts postal voting for elections. Eligible voters can apply online or through local authorities. Ballots are sent via registered mail. Completed ballots must be returned within specified deadlines. The process aims to increase voter participation, especially among remote communities.
+
+🟩
 
 ◼️
 
 [Data](articles/1caed756.json)
+
+[Extended Data](ext_articles/1caed756.ext.json)
 
 ---
 
@@ -2181,103 +2259,5 @@ Meanwhile, it was earlier reported that the overall voter turnout as at 2.00 p.m
 [Data](articles/b9c8bfdd.json)
 
 [Extended Data](ext_articles/b9c8bfdd.ext.json)
-
----
-
-### Percentage of votes published at 4 pm
-
-*2024-09-21 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201269) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Voter turnout percentage published: [X]% at 4 pm today."
-
-
-
-This summary captures the key information from the original text while staying within the character limit. It conveys that a specific percentage of voter turnout was released at 4 pm on the current day.
-
-🟩
-
-The percentage of voter turnout is as 4 pm today.
-
-◼️
-
-[Data](articles/940d96bb.json)
-
-[Extended Data](ext_articles/940d96bb.ext.json)
-
----
-
-### Dilith's confidence
-
-*2024-09-21 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201270) · `si`
-
-Dilith Jayaweera, presidential candidate, votes at temple. Promises happy future, challenges status quo. Aims to transform Sri Lanka from third to first world.
-
-🟩
-
-Dilith Jayaweera, the presidential seminar, the presidential candidate, Dilith Jayaweera, voted at the Jihihanhana Sri Chandrama Viharaya today (21).
-
-Dilith Jayaweera gave birth to the mandate of the 2024 presidential election to create a "happy.
-
-Speaking to the media After the election, Presidential candidate entrepreneurship Dilith Jayaweera said,
-
-"The people had a chance to be a decisive presidential election after the independence of Sri Lanka. I have faith in a season of traditional politics is still rooting, I have made a big challenge to this situation. It helped us to comfort us a different Sri Lanka who wished the people and to the first world from the third world. "
-
-◼️
-
-[Data](articles/d6a83832.json)
-
-[Extended Data](ext_articles/d6a83832.ext.json)
-
----
-
-### Nuwara Eliya District Strike - 80% Voting Registration Completed
-
-*2024-09-21 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194294) · `ta`
-
-Nuwara Eliya District: Smooth presidential election with 80% turnout. Peaceful process, high participation from plantation workers and young women. International observers present.
-
-🟩
-
-Nandana Kaladapada, the Nuwara Eliya District Secretary and Elections Officer, said that the voting of the presidential election in Nuwara Eliya in the Nuwara Eliya district on Saturday (21) was smooth and 80% of the votes were cast.
-
-He further stated that the election votes were done in a very peaceful manner without any incident and that the police had taken up their duties properly and that the authorities had ended their duties better.
-
-Voting began at 07.00 am, but in many parts of the country in the morning. However, the voting in the plantation and urban areas later was very active.
-
-In Nuwara Eliya district, 30 percent of the votes were cast till 9 am. It was 45 percent at 12 o'clock and 72 percent at 01 pm. At 01 at 01. The plantation workers were able to vote with more people.
-
-Members of the International Monitoring Committee have visited Nuwara Eliya District. The people also commented that the election is very quiet.
-
-...
-
-[Data](articles/a365b819.json)
-
-[Extended Data](ext_articles/a365b819.ext.json)
-
----
-
-### Presidential Election results expected before midnight
-
-*2024-09-21 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102122/presidential-election-results-expected-before-midnight-) · `en`
-
-The Commissioner General of Elections Saman Sri Ratnayake says that the first results of the 2024 presidential election, which commenced today (21), will be released before 12.00 midnight.
-
-Speaking to the media, Ratnayake noted that the counting of votes across all centers nationwide is expected to begin between 08.00 p.m. and 09.00 p.m. today.
-
-He further clarified that the vote counting in each polling station will commence only after all the respective ballot boxes have been delivered to the counting centers.
-
-Meanwhile, the Elections Commissioner General mentioned that this year’s presidential election has seen a significant number of postal voters, with 712,318 registered for postal voting and that all except 6,200 registered postal voters had casted their votes.
-
-Furthermore, he stated that the counting of postal votes will begin at 429 designated counting centers across the island after 04.00 p.m.
-
-◼️
-
-[Data](articles/793f300b.json)
-
-[Extended Data](ext_articles/793f300b.ext.json)
 
 ---

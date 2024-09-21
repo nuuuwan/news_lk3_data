@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 10:38:06**
+As of **2024-09-21 10:56:59**
 
 ## Newspaper Stats
 
-*Scraped **45,045** Articles*
+*Scraped **45,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,160
 dailymirrorlk | 4,733
-adaderanalk | 5,292
-tamilmirrorlk | 5,901
+adaderanalk | 5,293
+tamilmirrorlk | 5,903
 virakesarilk | 7,211
-adaderanasinhalalk | 7,717
+adaderanasinhalalk | 7,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,045 (100.0%) of 45,045 articles have been extended.
+45,049 (100.0%) of 45,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Dies
+
+*2024-09-21 10:34:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணொருவர்-தீயில்-எரிந்து-உயிரிழப்பு/175-344080) · `ta`
+
+House fire kills elderly woman. Gas cylinders exploded, causing burns. Chilli powder scattered outside. Firefighters and forensic police investigating. Possible arson or accidental explosion being probed by Kopay police.
+
+🟩
+
+The house of a 65 -year -old woman who lives alone has set fire to. The woman in the house was burnt.
+
+Case cylinders in the house were burnt in a fire that was thrown out. Also, the chilli powder used for cooking at the door of the house is thrown.
+
+Firefighters of the Jaffna Municipal Council and forensic police are conducting investigations.
+
+Kopay police are conducting investigations into the fact that someone may have set fire to the house or that gas cylinders may explode.
+
+◼️
+
+[Data](articles/23ea55c1.json)
+
+[Extended Data](ext_articles/23ea55c1.ext.json)
+
+---
+
+### Sanjeewa's cell inspection to an emergency
+
+*2024-09-21 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201257) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sanjeewa's cell inspection: STF officers accused of organized crime at Harazerry Prison. Sanjeewa allegedly destroyed Manjeewa's modern smartphone. Device seized by STF, location unknown.
+
+🟩
+
+Special Task Force (STF) officers have been investigated as an organized criminal at the bus Harazerry Prison.
+
+Sanjeewa had been destroyed by Manjeewa and destroyed a modern cell phone he hidden.
+
+The device has taken the device by the Special Task Force personnel and has not been found in the phone.
+
+◼️
+
+[Data](articles/9ac7545b.json)
+
+[Extended Data](ext_articles/9ac7545b.ext.json)
+
+---
+
+### Took drunken ballot boxes
+
+*2024-09-21 10:21:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிபோதையில்-வாக்குப்பெட்டிகளை-எடுத்தார்/175-344079) · `ta`
+
+Drunk driver takes voting boxes. Police seize vehicle. Ballot papers moved separately. Driver sent for medical exam. Incident reported to election officials.
+
+🟩
+
+Ruwanwella police say that the driver of the van carrying voting boxes and employees of the Ehaliyagoda police border from Teraniyagala from the Kegalle District Polling Center was in the bar.
+
+The driver and the vehicle were seized by the police after two senior voting centers notified the Assistant Election Commissioner of Kegalle, realizing that the driver could not drive a liquor bar.
+
+It is also said that the center's ballot and ballot papers were taken to the respective polling station in a different vehicle on the instructions of the Assistant Election Commissioner.
+
+The driver has been sent for medical examination in the case of the incident and he hails from Valpola Dell Olua Teraniyagala area, police said.
+
+◼️
+
+[Data](articles/e6815bb6.json)
+
+[Extended Data](ext_articles/e6815bb6.ext.json)
+
+---
+
+### Over 300 election violation complaints reported within 24 hours
+
+*2024-09-21 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102115/over-300-election-violation-complaints-reported-within-24-hours-) · `en`
+
+The number of complaints received by the Election Commission regarding the 2024 Presidential Poll has further increased.
+
+The commission issued a statement stating that the total number of election complaints has increased to 5,551.
+
+Meanwhile, a total of 337 complaints were reported within the last 24 hours.
+
+A majority of those complaints have been received related to election law violations and the figure is 336.
+
+Meanwhile, the Election Commission says that 4,929 of the total number of complaints received have been resolved thus far.
+
+◼️
+
+[Data](articles/90d24ed6.json)
+
+[Extended Data](ext_articles/90d24ed6.ext.json)
+
+---
 
 ### The Election Commission is ready for the general election
 
@@ -2175,109 +2271,5 @@ The party's membership of the party, the membership of the party, the party's me
 [Data](articles/3eca7dba.json)
 
 [Extended Data](ext_articles/3eca7dba.ext.json)
-
----
-
-### Pollboat that goes on the boat
-
-*2024-09-20 16:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகில்-செல்கிறது-வாக்குப்பெட்டி/175-344062) · `ta`
-
-Pollboats transport voting boxes across rivers to islands for elections. Machine boats like Ratnapala Silva's help ensure ballots reach voters safely.
-
-🟩
-
-Voting boxes have been transported by boats and machine boats to vote for the multi -faceted saplings since the implementation of the voting rights in the country.
-
-Since the island is surrounded by a sink river, the islanders cross the river and take the voting box and vote.
-
-As we know, Ratnapala Silva of the sink, who drove the machine boat to carry the ball to the sink.
-
-In this year's presidential election, Ratnapala Silva took the ballot box from the Kodkedera boat to the Madhu boat to the safety of the police officers.
-
-◼️
-
-[Data](articles/147f3396.json)
-
-[Extended Data](ext_articles/147f3396.ext.json)
-
----
-
-### The Committee approved the new Sri Lankan Ambassador to Sri Lanka
-
-*2024-09-20 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201238) · `si`
-
-Sri Lankan Committee approves Alp as new Ambassador to Kuwait, Ratnayake also appointed. Decision made during High Posts Meeting on 18th.
-
-🟩
-
-The Committee of the Committee has approved the appointment of the new posts of the Sri Lankan Ambassador to Kuwait.
-
-Alp as the new Ambassador of Kuwait. It has been decided to appoint Ratnayake.
-
-The approval was given by the Committee on High Posts Meeting on the 18th.
-
-◼️
-
-[Data](articles/d8518c55.json)
-
-[Extended Data](ext_articles/d8518c55.ext.json)
-
----
-
-### Will it be a problem tomorrow?
-
-*2024-09-20 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201237) · `si`
-
-Here's a 200-character summary:
-
-
-
-Police assure peaceful election environment despite 328 reported violations. 480 complaints investigated, 108 suspects arrested. Security measures in place, public cooperation urged.
-
-🟩
-
-At the next few days, a peaceful environment will be in a peaceful environment in the next few days, police spokesman's lawyer said.
-
-Addressing the Ada Derana, "Big FUCUS 'program, he said that the full election violence is very low during the election period.
-
-Meanwhile, Nihal Talduuwa said that 63,000 police officers were deployed to protect the polling centers.
-
-He added that 11,000 armed forces officers have been deployed in the waiting in the waiting work and have the ability to call if there is any need.
-
-A group of STF personnel have also been deployed in electoral duties and the support of about 13,000 Civil Defense Force officials will be given to mobile patrols.
-
-Speaking further Police Media Spokesperson DIG's DIG's lattage
-
-...
-
-[Data](articles/0862bf0f.json)
-
-[Extended Data](ext_articles/0862bf0f.ext.json)
-
----
-
-### 17 passengers injured in bus crash
-
-*2024-09-20 15:44:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கவிழ்ந்ததில்-17-பயணிகள்-காயம்/175-344061) · `ta`
-
-Here's a summary of the article in 200 characters:
-
-
-
-"17 passengers hurt in bus crash near Colombo. Private bus collided with car; both vehicles damaged. 7 injured taken to hospital, 10 treated elsewhere."
-
-🟩
-
-Moneragala police said that 17 passengers were injured in a private bus traveling to Colombo on Wednesday (20).
-
-When the private bus crashed into the car, the car crashed into the bus.
-
-The car that crashed into the bus ran away. Seven passengers who were injured in the accident are being treated at the Moneragala District General Hospital and ten passengers.
-
-◼️
-
-[Data](articles/365244ce.json)
-
-[Extended Data](ext_articles/365244ce.ext.json)
 
 ---

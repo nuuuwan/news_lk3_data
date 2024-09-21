@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 23:57:49**
+As of **2024-09-22 00:11:08**
 
 ## Newspaper Stats
 
-*Scraped **45,157** Articles*
+*Scraped **45,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 378
 bbccomsinhala | 441
 colombotelegraphcom | 452
 islandlk | 2,656
-economynextcom | 2,734
+economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,171
 dailymirrorlk | 4,733
-adaderanalk | 5,309
-tamilmirrorlk | 5,924
+adaderanalk | 5,310
+tamilmirrorlk | 5,926
 virakesarilk | 7,235
 adaderanasinhalalk | 7,744
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,744
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,157 (100.0%) of 45,157 articles have been extended.
+45,167 (100.0%) of 45,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Ratnapura District: Postal Voting
+
+*2024-09-21 23:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344115) · `ta`
+
+Here's a summary of Ratnapura District: Postal Voting in 200 characters:
+
+
+
+Ratnapura District conducts postal voting for elections. Eligible voters receive ballot papers by post. They mark choices and return ballots through designated channels. This system ensures remote participation in local polls.
+
+🟩
+
+◼️
+
+[Data](articles/097198a4.json)
+
+[Extended Data](ext_articles/097198a4.ext.json)
+
+---
 
 ### Ratnapura official postal voting results released
 
@@ -53,6 +73,52 @@ Anura Kumara Dissanayake received 19185 votes in the Ratnapura District.
 [Data](articles/514f35c8.json)
 
 [Extended Data](ext_articles/514f35c8.ext.json)
+
+---
+
+### First postal vote result of 2024 Presidential Election released
+
+*2024-09-21 23:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102132/first-postal-vote-result-of-2024-presidential-election-released) · `en`
+
+The first postal vote result of the 2024 Presidential Election has been released, a short while ago.
+
+Accordingly, the postal vote result for the Ratnapura district has been released by the Election Commission of Sri Lanka.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 19,185 votes.
+
+Independent candidate President Ranil Wickremesinghe is second with 6,641 votes followed by Samagi Jana Sandhanaya candidate Sajith Premadasa with 4,675 postal votes.
+
+Namal Rajapaksa of the Sri Lanka Podujana Peramuna (SLPP) has polled 500 postal votes, while Dilith Jayaweera of the ‘Sarvajana Balaya’ alliance has received 251 postal votes.
+
+◼️
+
+[Data](articles/cb1a7342.json)
+
+[Extended Data](ext_articles/cb1a7342.ext.json)
+
+---
+
+### Official voting results
+
+*2024-09-21 23:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாரப்பூர்வ-வாக்கு-முடிவுகள்/175-344114) · `ta`
+
+Sri Lanka presidential election: 9th executive president elected. First official postal voting results expected tonight. Most peaceful election in history. 17,140,354 voters registered.
+
+🟩
+
+A referendum was held today (21) to elect a 9th executive president in Sri Lanka.
+
+The Election Commission said that the number of votes has already begun and the first official postal voting results are expected to be released by midnight today.
+
+The Election Commission and the Election Superintendent have announced that this is the most peaceful presidential election in the history of this country.
+
+According to the voter list of 2024, the number of voters registered for the presidential election was 17,140,354.
+
+◼️
+
+[Data](articles/daabf13b.json)
+
+[Extended Data](ext_articles/daabf13b.ext.json)
 
 ---
 
@@ -103,6 +169,24 @@ I hope that the change in the election will show a better way for the country an
 [Data](articles/f8e31298.json)
 
 [Extended Data](ext_articles/f8e31298.ext.json)
+
+---
+
+### Sri Lanka’s NPP believes curfew to maintain peace
+
+*2024-09-21 23:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-believes-curfew-to-maintain-peace-180351/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National People’s Power said a curfew declared overnight is expected to be to maintain the peace.
+
+“We expect that the curfew imposed during vote counting is only for the purpose of maintaining public peace, and ask the security force to maintain the maximum peaceful conditions in the post election period, and also request maximum public co-operation,” a statement said.
+
+Sri Lanka’s National People’s Power said a curfew declared overnight is expected to be to maintain the peace.
+
+◼️
+
+[Data](articles/7984854e.json)
+
+[Extended Data](ext_articles/7984854e.ext.json)
 
 ---
 
@@ -286,6 +370,24 @@ After completing foreign trips, those who return to the country have been advise
 
 ---
 
+### Sri Lanka president declares curfew
+
+*2024-09-21 21:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-declares-curfew-180326/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president Ranil Wickremesinghe has declared an island-wide Police curfew from 10 pm Saturday (21) to 6 am Sunday (22).
+
+The curfew was comes after voting concluded on what election monitors called the most peaceful election in the island’s history.
+
+Counting of the votes has begun at designated counting stations. (Colombo/Sep21/2024)
+
+◼️
+
+[Data](articles/c9ef8107.json)
+
+[Extended Data](ext_articles/c9ef8107.ext.json)
+
+---
+
 ### Differently imposed from 10 pm today
 
 *2024-09-21 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201280) · `si`
@@ -335,6 +437,24 @@ Meanwhile, the officials engaged in election related duties during the curfew pe
 [Data](articles/ed58d695.json)
 
 [Extended Data](ext_articles/ed58d695.ext.json)
+
+---
+
+### Sri Lanka voter turnout below 80-pct in most districts
+
+*2024-09-21 21:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-voter-turnout-below-80-pct-in-most-districts-180322/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s voter turnout has been below 80 percent in most districts at the 2024 Presidential election, according to initial reports.
+
+Except for Nuwara-Eliya and Moneragala which have seen 80 percent turnout, others are lower, according to a report on state-run Rupavahini.
+
+Chairman of Sri Lanka’s Elections Commission R M A L Rathnayake said on Rupavahini that an official turnout number was not yet released, amid official estimates of 75 percent.
+
+◼️
+
+[Data](articles/c5444d3d.json)
+
+[Extended Data](ext_articles/c5444d3d.ext.json)
 
 ---
 
@@ -666,6 +786,24 @@ The moment of warmth voting voting results on the world's modern telecommunicati
 
 ---
 
+### Election Commission receives 2,010 complaints on social media use
+
+*2024-09-21 19:30:00* · [`economynextcom`](https://economynext.com/election-commission-receives-2010-complaints-on-social-media-use-180335/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Election Commission said it had received 2,010 complaints related to social media mis-use in the last week upto noon today (21).
+
+Complaints were received about hate speech (713), disinformation (389), children in advertising (13), and misinformation (231).
+
+The number of posts that were taken down was 872. But 201 posts were not taken down. (Colombo/Sep21/2024)
+
+◼️
+
+[Data](articles/bfd3eef0.json)
+
+[Extended Data](ext_articles/bfd3eef0.ext.json)
+
+---
+
 ### Voting boxes are taken to polling stations!
 
 *2024-09-21 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194296) · `ta`
@@ -816,6 +954,24 @@ Additionally, the Police Media Spokesman warned that for the next week, all publ
 
 ---
 
+### Sri Lanka declares special holiday for Monday after end of Presidential polls
+
+*2024-09-21 19:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-declares-special-holiday-for-monday-after-end-of-presidential-polls-180320/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s has declared a special government holiday on Monday, September 23, the Department of Government Information (DGI) said, nearly three hours after the conclusion of the country’s presidential elections.
+
+“September 23 Monday has been declared as a special government holiday,” the DGI said quoting Pradeep Yasarathna, Secretary, Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government.
+
+There was no reasons given for declaring the holiday. (Colombo/September 21/2024)
+
+◼️
+
+[Data](articles/b9a31d87.json)
+
+[Extended Data](ext_articles/b9a31d87.ext.json)
+
+---
+
 ### What's going to happen next?Emergency digits notice
 
 *2024-09-21 19:03:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்து-நடக்கப்போவது-என்ன-அவசர-இலக்கங்கள்-அறிவிப்பு/175-344093) · `ta`
@@ -921,6 +1077,30 @@ Secretary, Ministry of Home Affairs, Provincial Councils, Provincial Councils an
 [Data](articles/db770d15.json)
 
 [Extended Data](ext_articles/db770d15.ext.json)
+
+---
+
+### FACTBOX – Sri Lanka’s past presidential elections, results
+
+*2024-09-21 18:43:00* · [`economynextcom`](https://economynext.com/factbox-sri-lankas-past-presidential-elections-results-180310/) · `en`
+
+ECONOMYNEXT – Sri Lanka closed polling for the presidential election at 1600 hours on Saturday (21) amid a tight race among the top three candidates: President Ranil Wickremesinghe, opposition leader Sajith Premadasa, and Marxists party leader Anura Kumara Dissanayaka.
+
+Analysts expect the winner to be chosen after second preferential vote counting for the first time in Sri Lankan history because no candidate is expected to secure more than 50 percent.
+
+Here’s a list of all the Sri Lankan Presidential Election results since the establishment of the executive presidency in 1978:
+
+Main Opponent: Hector Kobbekaduwa (Sri Lanka Freedom Party – SLFP)
+
+This was the first presidential election in Sri Lanka, and Jayewardene was the incumbent prime minister who became the country’s first executive president in 1978.
+
+Main Opponent: Sirimavo Bandaranaike (Sri Lanka Freedom Party – SLFP)
+
+...
+
+[Data](articles/cc24aa86.json)
+
+[Extended Data](ext_articles/cc24aa86.ext.json)
 
 ---
 
@@ -1457,6 +1637,28 @@ Independent Presidency, Ranil Wickremesinghe was voted at the Election Station i
 [Data](articles/79d1428c.json)
 
 [Extended Data](ext_articles/79d1428c.ext.json)
+
+---
+
+### Sri Lanka presidential elections 2024 live updates
+
+*2024-09-21 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-elections-2024-live-updates-180294/) · `en`
+
+ECONOMYNEXT – Voting in Sri Lanka’s presidential poll closed peacefully on Saturday at 1600 hours (1030 GMT) with the Election Commission giving some flexibility on the closing.
+
+The voting started at 0700 hours local time (0130 GMT) with a record 17.1 million voters were eligible to cast their votes.
+
+The Commissioner General of Election said it had decided to allow all the voters who have arrived at 1600 hours to their respective polling booths to cast their votes instead of closing the polling booths at that time. [story link]
+
+The Saturday polls will elect Sri Lanka’s ninth president to govern the economic crisis-hit nation for the next five years with a record 38 candidates vying for the plum post of the island nation
+
+The new president is expected to be declared by Sunday (22) if the counting process goes smoothly, Election Commission officials have said.
+
+◼️
+
+[Data](articles/459d25a7.json)
+
+[Extended Data](ext_articles/459d25a7.ext.json)
 
 ---
 
@@ -2115,223 +2317,5 @@ It has been revealed that the murder was taken as a driver of the house.
 [Data](articles/b1e716c7.json)
 
 [Extended Data](ext_articles/b1e716c7.ext.json)
-
----
-
-### Voting is beginning in Vavuniya
-
-*2024-09-21 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194242) · `ta`
-
-Voting begins in Vavuniya for Sri Lanka's 9th executive presidential election. People queue early at polling stations. Election Commission monitors process, assisted by European observers.
-
-🟩
-
-Voting for the 9th executive presidential election is being held nationwide on Saturday (21).
-
-In the morning, people are eagerly voting in Vavuniya and going to polling stations.
-
-Meanwhile, the Vavuniya Election Commission is visiting all the polling stations and is being monitored by the European Election Monitoring Committee.
-
-◼️
-
-[Data](articles/729e57c7.json)
-
-[Extended Data](ext_articles/729e57c7.ext.json)
-
----
-
-### Presidential Election: Voter turnout as at 10am
-
-*2024-09-21 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102117/presidential-election-voter-turnout-as-at-10am) · `en`
-
-The district-level voter turnout for the 2024 Presidential Election thus far has already exceeded 20 percent in several districts, according to reports.
-
-Accordingly, the voter turnout percentages of several districts as at 10.00 a.m. this morning (21) are as follows:
-
-Voting for the presidential election is currently taking place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (20).
-
-◼️
-
-[Data](articles/d7298904.json)
-
-[Extended Data](ext_articles/d7298904.ext.json)
-
----
-
-### Sri Lanka EC becomes flexible on poll closing
-
-*2024-09-21 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-becomes-flexible-on-poll-closing-180281/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Election Commission has decided to allow all the voters who have arrived at 4 pm to their respective polling booths to cast their votes instead of closing the polling booths at that time, Commissioner General of Election said.
-
-“Instead of closing polling at 4 pm we have decided to allow all those who will line up at their respective polling booths to cast their votes,” Saman Sri Ratnayaka, the Commissioner General of Election, told Economy Next.
-
-“There could be situations where voters turning to their polling booth late because of work and some other issues specially in plantation areas. So one polling booth officer will stand in the line at 4 pm and all the voters who have lined up before the officer will be allowed to cast their votes.”
-
-“However, people who arrive at the polling booth after 4 pm or who join the line behind the officer will not be allowed.”
-
-...
-
-[Data](articles/153f3974.json)
-
-[Extended Data](ext_articles/153f3974.ext.json)
-
----
-
-### Here are the percentage of votes polled in several districts
-
-*2024-09-21 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201258) · `si`
-
-Presidential election voting percentages in 21st district: 50% reported so far. Election started at 7am, ends at 4pm today.
-
-🟩
-
-The percentage of the votes in several districts (21st) were said:
-
-The presidential election, which began at 7am this morning, will conclude at 4 pm.
-
-◼️
-
-[Data](articles/18d20ca0.json)
-
-[Extended Data](ext_articles/18d20ca0.ext.json)
-
----
-
-### Arrested
-
-*2024-09-21 10:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டை-படம்-எடுத்தவர்-கைது/175-344081) · `ta`
-
-Man arrested while voting at polling station in Sri Lanka. Retired army soldier, 44 years old, taken into custody after casting ballot. Incident occurred at Telvatta Sumanaarama Viharaya in Galle District.
-
-🟩
-
-A man who was voting in the polling station of the Telvatta Sumanaarama Viharaya voting at the Galle District, Mithiyagoda Police Division has been arrested this morning.
-
-A 44 -year -old retired army soldier from Hikkaduwa Telvatta Road has been arrested.
-
-He arrived at the polling station this morning and was arrested by the police after receiving his ballot and voting.
-
-◼️
-
-[Data](articles/36ac5400.json)
-
-[Extended Data](ext_articles/36ac5400.ext.json)
-
----
-
-### People who go to vote in Mullaitivu with enthusiasm
-
-*2024-09-21 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194240) · `ta`
-
-Enthusiastic voters head to Mullaitivu polls. Voting begins at 7 AM at designated centers. Local and international observers monitor proceedings.
-
-🟩
-
-Voting will be held at the voting centers selected in the district from 7 am today (21) at 7 am.
-
-The local and foreign election monitoring team is visiting polling stations in the Mullaitivu district and observing the voting.
-
-◼️
-
-[Data](articles/1dd0e43c.json)
-
-[Extended Data](ext_articles/1dd0e43c.ext.json)
-
----
-
-### President Mahinda Rajapaksa, 2024: Official Effects here
-
-*2024-09-21 10:40:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl83lw4531o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's 2024 presidential election saw over 17 million voters choose a new leader amid economic crisis. The outcome remains uncertain as no candidate reached 50%. COVID-19 symptoms and transmission details are also mentioned but not elaborated upon.
-
-🟩
-
-Note: Please note that the data update begins after the beginning of the 2024 presidential election.
-
-More than 17 million voters in Sri Lanka voted for a new president.
-
-This is the first election that the country was facing a serious economic crisis in 2022.
-
-What if a heurricane candidate could not vote over 50%?
-
-XEC Covid New Genre: What are the symptoms?What is its spread?
-
-◼️
-
-[Data](articles/1eff26dc.json)
-
-[Extended Data](ext_articles/1eff26dc.ext.json)
-
----
-
-### Voting with enthusiasm people of the hill plantation
-
-*2024-09-21 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194237) · `ta`
-
-Nuwara Eliya election: 347,646 eligible voters, 52 polling centers, 8,500 staff, 1,748 security personnel. Voting underway across Central, Kandy, Matale, Uva provinces.
-
-🟩
-
-Voting for Sri Lanka's 9th Executive Elections begins today (21st) at 7 am. Especially in the hill country, everyone, including plantation people, go to polling stations and use their votes.
-
-347,646 voters in Nuwara Eliya-Maskeliya constituency are eligible to vote. 88,219 voters are eligible to vote in the Kotmalai electorate.90,990 voters are eligible to vote in the Walapane electoral constituency and 78,437 voters in the Hunguranketta electorate are eligible to vote.
-
-Also, 52 voting centers have been set up. There are 41 voting centers at the Nuwara Eliya Gamini National College to count the votes and the Nuwara Eliya District Secretariat has set up 11 voting centers to count postal votes.
-
-There are 8,500 people on duty at polling stations and 1,748 security officers and police are on duty for security.
-
-Similarly, voting is being held in the Central Province, Kandy, Matale and Uva Province, Badulla and Bandarawela.
-
-◼️
-
-[Data](articles/10aaacd3.json)
-
-[Extended Data](ext_articles/10aaacd3.ext.json)
-
----
-
-### Dies
-
-*2024-09-21 10:34:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணொருவர்-தீயில்-எரிந்து-உயிரிழப்பு/175-344080) · `ta`
-
-House fire kills elderly woman. Gas cylinders exploded, causing burns. Chilli powder scattered outside. Firefighters and forensic police investigating. Possible arson or accidental explosion being probed by Kopay police.
-
-🟩
-
-The house of a 65 -year -old woman who lives alone has set fire to. The woman in the house was burnt.
-
-Case cylinders in the house were burnt in a fire that was thrown out. Also, the chilli powder used for cooking at the door of the house is thrown.
-
-Firefighters of the Jaffna Municipal Council and forensic police are conducting investigations.
-
-Kopay police are conducting investigations into the fact that someone may have set fire to the house or that gas cylinders may explode.
-
-◼️
-
-[Data](articles/23ea55c1.json)
-
-[Extended Data](ext_articles/23ea55c1.ext.json)
-
----
-
-### Electricity and petroleum supply gazetted as essential services
-
-*2024-09-21 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102116/electricity-and-petroleum-supply-gazetted-as-essential-services) · `en`
-
-A special gazette notification has been issued declaring the supply of electricity and all related services as well as the supply or distribution of petroleum products and fuel, as essential services.
-
-Presidential Secretary Saman Ekanayake has issued the Extraordinary Gazette notification yesterday (20) on the directive of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/3031f3ab.json)
-
-[Extended Data](ext_articles/3031f3ab.ext.json)
 
 ---

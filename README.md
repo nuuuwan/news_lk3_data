@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 08:41:39**
+As of **2024-09-21 08:57:09**
 
 ## Newspaper Stats
 
-*Scraped **45,034** Articles*
+*Scraped **45,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,157
 dailymirrorlk | 4,733
-adaderanalk | 5,289
-tamilmirrorlk | 5,899
+adaderanalk | 5,290
+tamilmirrorlk | 5,900
 virakesarilk | 7,210
 adaderanasinhalalk | 7,715
 
@@ -26,27 +26,73 @@ adaderanasinhalalk | 7,715
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,029 (100.0%) of 45,034 articles have been extended.
+45,034 (100.0%) of 45,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
 
-### ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් හිස්බුල්ලා හමුදා ප්‍රධානියෙකු මරුට
+### 9 மாகாணங்களிலும் அதி உச்ச பாதுகாப்பு
+
+*2024-09-21 08:35:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மாகாணங்களிலும்-அதி-உச்ச-பாதுகாப்பு/175-344077) · `ta`
+
+நாடளாவிய ரீதியாக ஸ்தாபிக்கப்பட்டுள்ள வாக்களிப்பு நிலையங்களுக்கு அண்மித்த பகுதிகளில் விசேட பாதுகாப்பு ஏற்பாடுகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+தேர்தல் பாதுகாப்பு கடமைகளுக்காக பொலிஸார் உள்ளிட்ட 80,000 பாதுகாப்பு தரப்பினர் ஈடுபடுத்தப்பட்டுள்ளனர் என பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ்மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+அதேநேரம் சகல வாக்களிப்பு நிலையங்களுக்கும் தலா 2 பொலிஸ் உத்தியோகத்தர்கள் கடமையில் ஈடுபடுத்தப்பட்டுள்ளனர்.
+
+அதேநேரம் வாக்குப் பெட்டிகளைக் கொண்டு செல்வதற்காகவும் வாக்கு எண்ணும் நிலையங்களுக்கும் விசேட பாதுகாப்பு ஏற்பாடுகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+அத்துடன் பொலிஸ் தலைமையகத்தில் விசேட கண்காணிப்பு மையம் நிர்மாணிக்கப்பட்டுள்ளதுடன் 9 மாகாணங்களிலும் விசேட கண்காணிப்பு நிலையங்கள் ஸ்தாபிக்கப்பட்டுள்ளன. R
+
+◼️
+
+[Data](articles/8ec75c1e.json)
+
+---
+
+### Presidential Election 2024: How to vote and accepted forms of ID
+
+*2024-09-21 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102111/presidential-election-2024-how-to-vote-and-accepted-forms-of-id) · `en`
+
+Eligible voters for the Presidential Election 2024 are required to carry one of nine accepted forms of identification to cast their vote.
+
+8. Temporary ID card issued by the Election Commission for disabled persons
+
+9. Temporary ID card issued by the Election Commission for others
+
+The Commissioner General of Elections, Saman Sri Ratnayake explaining how the vote should be marked said: “If someone wants to use their vote, they can use the ‘X’ mark to cast their votes. Similar to previous elections, the ‘X’ mark will be accepted by the Election commission. In addition, the Arabic numeral ‘1’ is also valid for marking the vote”, he added.
+
+Saman Sri Rathnayake further stated that for those wishing to indicate preferences, they can mark their first choice with the Arabic numeral ‘1’ and their second choice with the Arabic numeral ‘2’. To express all three preferences, voters must use Arabic numerals ‘1’, ‘2’, and ‘3’ and any other markings will be considered invalid, he said.
+
+...
+
+[Data](articles/f945e284.json)
+
+---
+
+### Hebollah leader killed in Israel
 
 *2024-09-21 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201253) · `si`
 
-ලෙබනයේ බේරූට් අගනුවර වෙත ඊශ්‍රායල එල්ල කළ ගුවන් ප්‍රහාරයකින් හිස්බුල්ලා හමුදා ප්‍රධානියෙකු මිය ගිය ගොස් තිබේ.
+Hezbollah leader killed in Israel airstrike. Ibrahim Akil, 14th leader, died along with 14 others injured. Second attack targets residential building.
 
-ඊබ්‍රාහිම් අකිල් නැමති පුද්ගලයෙකු මෙලෙස මියගොස් ඇති අතර ඔහු හිස්බුල්ලා ජෙෂ්ඨ නායකයින් කිහිප දෙනෙකුගෙන් එක් අයෙකි.
+🟩
 
-මෙම ප්‍රහාරයෙන් තවත් පුද්ගලයින් 14 දෙනෙකු තුවාල ලබා ඇති බවයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+An Hezbollah Head of Israel has died in an air strike at Israel's flights to the Lort of Lebtern Lertiest.
 
-නේවාසික ගොඩනැගිල්ලක් ඉලක්ක කරමින් මෙම ප්‍රහාරය එල්ල කර ඇති අතර පේජර් සහ වෝකි ටෝකි පුපුරවා හැරීමෙන් පසුව ඊශ්‍රායල එල්ල කල දෙවන ප්‍රහාරය මෙය වේ.
+The deceased has been identified as Ibrahim Akil and he was one of the 14th leaders of Hezbollah.
+
+Foreligar's media reports that 14 others were injured in this attack.
+
+This is the second attack on the Israeli and Walki Toki, targeting a residential building.
 
 ◼️
 
 [Data](articles/dbabe217.json)
+
+[Extended Data](ext_articles/dbabe217.ext.json)
 
 ---
 
@@ -141,6 +187,8 @@ Large numbers of voters were seen gathering at the Colombo Central Bus Station, 
 ...
 
 [Data](articles/101c2214.json)
+
+[Extended Data](ext_articles/101c2214.ext.json)
 
 ---
 
@@ -254,6 +302,8 @@ Eligible voters are required to carry one of nine accepted forms of identificati
 
 [Data](articles/31db4c57.json)
 
+[Extended Data](ext_articles/31db4c57.ext.json)
+
 ---
 
 ### Selecting the 9th Executive President election today
@@ -305,6 +355,8 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/a6fc905c.json)
+
+[Extended Data](ext_articles/a6fc905c.ext.json)
 
 ---
 
@@ -2241,47 +2293,5 @@ Jaffna Bodhana Hospital Sudden Death Investigation Officer Namasivayam Premakuma
 [Data](articles/31876e52.json)
 
 [Extended Data](ext_articles/31876e52.ext.json)
-
----
-
-### J’pura University to reopen on Tuesday
-
-*2024-09-20 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102097/jpura-university-to-reopen-on-tuesday) · `en`
-
-The University of Sri Jayewardenepura will reopen for academic activities on Tuesday (September 24), according to Vice Chancellor Senior Prof. Pathmalal M. Manage.
-
-He stated that all students may return to their respective hostels starting from Monday (23).
-
-The university was temporarily closed from 6.00 pm on September 12, following a clash between two groups.
-
-Accordingly, all students had been instructed to vacate the university premises before that.
-
-◼️
-
-[Data](articles/cdaf9261.json)
-
-[Extended Data](ext_articles/cdaf9261.ext.json)
-
----
-
-### J'pura University reopens
-
-*2024-09-20 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201231) · `si`
-
-University of Sri Jayewardenepura reopening: Hostel students allowed back September 23; full campus opening September 24 after temporary closure due to group conflict.
-
-🟩
-
-The administration of the University of Sri Jayewardenepura, which is temporarily closed due to a clash, will be opened again on September 24.
-
-According to September 23, the students in the hostels can return to their hostels.
-
-The University of Sri Jayewardenepura had been temporarily closed due to a clash between two groups.
-
-◼️
-
-[Data](articles/52482a31.json)
-
-[Extended Data](ext_articles/52482a31.ext.json)
 
 ---

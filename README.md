@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 15:38:07**
+As of **2024-09-21 15:56:43**
 
 ## Newspaper Stats
 
-*Scraped **45,079** Articles*
+*Scraped **45,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,162
 dailymirrorlk | 4,733
 adaderanalk | 5,298
-tamilmirrorlk | 5,910
+tamilmirrorlk | 5,911
 virakesarilk | 7,217
 adaderanasinhalalk | 7,725
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,079 (100.0%) of 45,079 articles have been extended.
+45,080 (100.0%) of 45,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### The death of the police officer at the polling station
+
+*2024-09-21 15:23:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையத்தில்-பொலிஸ்-அதிகாரி-மரணம்/175-344088) · `ta`
+
+A police officer died suddenly at a polling station in Polonnaruwa. The officer was rushed to hospital but didn't survive. Investigations are ongoing led by Senior Superintendent of Police Nishan de Silva.
+
+🟩
+
+Pulastipura police said that the police officer who was on duty at the polling station was admitted to the Polonnaruwa General Hospital after a sudden illness.
+
+This was the case while on duty at the polling station of the Pulastipura Vijitha Primary School, Polonnaruwa.
+
+Police Sergeant 53419, HM. A Pulasipura police officer who is conducting investigations into the matter said Ratnapala was the police officer during our investigation.
+
+Pulasipura police are conducting further investigations on the advice of Senior Superintendent of Police, Mr. Nishan de Silva, the Polonnaruwa Senior Superintendent of Police.
+
+◼️
+
+[Data](articles/6080bd1d.json)
+
+[Extended Data](ext_articles/6080bd1d.ext.json)
+
+---
 
 ### Presidential Election: Voter turnout as at 2pm
 
@@ -2191,37 +2215,5 @@ Hasan Mahmud took 5 wickets for 83 runs while Dasin Ahmad took 3 wickets for 55 
 [Data](articles/353ea24a.json)
 
 [Extended Data](ext_articles/353ea24a.ext.json)
-
----
-
-### Sri Lanka in the presence of Timuth, Chandimal, Mathews and Tanjaya with the help of the bats;Tomorrow's retirement is ahead of the presidential election
-
-*2024-09-20 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194214) · `ta`
-
-Sri Lanka vs New Zealand cricket match summary: Dimuth Karunaratne and Dinesh Chandimal score half-centuries. Sri Lanka leads second innings with 6 wickets remaining. Presidential election set for Saturday.
-
-🟩
-
-In the second innings of the first Test cricket match against New Zealand against New Zealand, Dimuth Karunaratne and Dinesh Chandimal scored half -centuries, Angelo Mathews and Tanjaya de Silva.
-
-Sri Lanka, who were 35 runs in the first innings of the two teams, scored 237 runs for the loss of 4 wickets in the second innings at the end of the third day of the match.
-
-Accordingly, Sri Lanka is in the second innings of 6 wickets in the second innings.
-
-Sri Lanka's presidential election will be held on Saturday (21).
-
-In Sri Lanka's second innings, Bethum Nissank (2) lost the third over.
-
-Dimuth Karunaratne and Dinesh Chandimal played half -centuries. They also shared 147 runs in the 2nd wicket.
-
-But when the total number was 153 runs, Dimuth Karunaratne lost 83 runs and Dinesh Chandimal with 61 runs. The two had hit 6 pounds each.
-
-In the first innings, Kamindu Mendis scored only 13 runs in the second innings.
-
-...
-
-[Data](articles/ea7cbb83.json)
-
-[Extended Data](ext_articles/ea7cbb83.ext.json)
 
 ---

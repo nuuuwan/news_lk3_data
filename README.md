@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 08:19:58**
+As of **2024-09-21 08:41:39**
 
 ## Newspaper Stats
 
-*Scraped **45,029** Articles*
+*Scraped **45,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,157
 dailymirrorlk | 4,733
-adaderanalk | 5,286
+adaderanalk | 5,289
 tamilmirrorlk | 5,899
 virakesarilk | 7,210
-adaderanasinhalalk | 7,713
+adaderanasinhalalk | 7,715
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,023 (100.0%) of 45,029 articles have been extended.
+45,029 (100.0%) of 45,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් හිස්බුල්ලා හමුදා ප්‍රධානියෙකු මරුට
+
+*2024-09-21 08:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201253) · `si`
+
+ලෙබනයේ බේරූට් අගනුවර වෙත ඊශ්‍රායල එල්ල කළ ගුවන් ප්‍රහාරයකින් හිස්බුල්ලා හමුදා ප්‍රධානියෙකු මිය ගිය ගොස් තිබේ.
+
+ඊබ්‍රාහිම් අකිල් නැමති පුද්ගලයෙකු මෙලෙස මියගොස් ඇති අතර ඔහු හිස්බුල්ලා ජෙෂ්ඨ නායකයින් කිහිප දෙනෙකුගෙන් එක් අයෙකි.
+
+මෙම ප්‍රහාරයෙන් තවත් පුද්ගලයින් 14 දෙනෙකු තුවාල ලබා ඇති බවයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+නේවාසික ගොඩනැගිල්ලක් ඉලක්ක කරමින් මෙම ප්‍රහාරය එල්ල කර ඇති අතර පේජර් සහ වෝකි ටෝකි පුපුරවා හැරීමෙන් පසුව ඊශ්‍රායල එල්ල කල දෙවන ප්‍රහාරය මෙය වේ.
+
+◼️
+
+[Data](articles/dbabe217.json)
+
+---
+
+### Special bus service for election
+
+*2024-09-21 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201252) · `si`
+
+Gammbima Forces requests special bus service for election day. Government to provide transportation. Ceylon Transport Board adds 3300 buses.
+
+🟩
+
+The Gammbima Forces will take steps to the government to vote for the presidential election today (21).
+
+The Chairman of the Gemunu Wijeratne said that it is requested to come and take steps to move to its destination.
+
+Meanwhile, Chairman of the Ceylon Transport Board Lalith de Alwis said that 3300 SLTB buses will also be added today.
+
+◼️
+
+[Data](articles/31f3c97f.json)
+
+[Extended Data](ext_articles/31f3c97f.ext.json)
+
+---
 
 ### Information that Namal's family left the country
 
@@ -79,6 +119,28 @@ Thousands of people from the area have invaded the temple and have been surround
 [Data](articles/addfca2e.json)
 
 [Extended Data](ext_articles/addfca2e.ext.json)
+
+---
+
+### Voting for 2024 Presidential Election begins
+
+*2024-09-21 07:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102110/voting-for-2024-presidential-election-begins) · `en`
+
+The voting for Sri Lanka’s Presidential Election 2024 has officially commenced this morning (September 21).
+
+Accordingly, polling is scheduled to be held today (21) at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m.
+
+A record-breaking 38 candidates are contesting this year’s election, the highest number of presidential candidates in the country’s history.
+
+A total of 17,140,354 Sri Lankans are eligible to vote, with the Gampaha District registering the highest number of voters with 1,881,129.
+
+Colombo District is second with 1,765,351 registered voters, and Kurunegala District has 1,417,226 voters. The Northern Province has a combined total of 899,268 registered voters.
+
+Large numbers of voters were seen gathering at the Colombo Central Bus Station, Private Bus Stations, Fort Railway Station, and Makumbura Multimodal Transport Center since yesterday, preparing to travel to their respective hometowns to cast their votes.
+
+...
+
+[Data](articles/101c2214.json)
 
 ---
 
@@ -170,6 +232,30 @@ Accordingly, the election is scheduled to be held from 13,421 polling centers ac
 
 ---
 
+### Presidential Poll 2024: Sri Lanka to vote today in crucial election
+
+*2024-09-21 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102109/presidential-poll-2024-sri-lanka-to-vote-today-in-crucial-election) · `en`
+
+Over 17 million Sri Lankans will have the chance to vote for the country’s next president today (September 21) in a crucial presidential election, the first major poll to be held after Sri Lanka’s worst economic crisis in 2022.
+
+A record-breaking 38 candidates are contesting this year’s election, the highest number of presidential candidates in the country’s history.
+
+A total of 17,140,354 Sri Lankans are eligible to vote, with the Gampaha District registering the highest number of voters with 1,881,129.
+
+Colombo District is second with 1,765,351 registered voters, and Kurunegala District has 1,417,226 voters. The Northern Province has a combined total of 899,268 registered voters.
+
+Voting will take place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (20).
+
+Eligible voters are required to carry one of nine accepted forms of identification to cast their vote:
+
+8. Temporary ID card issued by the Election Commission for disabled persons
+
+...
+
+[Data](articles/31db4c57.json)
+
+---
+
 ### Selecting the 9th Executive President election today
 
 *2024-09-21 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201249) · `si`
@@ -199,6 +285,26 @@ The number of registered voters in the Kurunegala District is 1,417,226 and the 
 [Data](articles/3c231401.json)
 
 [Extended Data](ext_articles/3c231401.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-09-21 06:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102108/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts with fairly heavy showers of about 50 mm likely at some places.
+
+Several spells of showers may occur in North-western province and in Matale district, it said.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva provinces during the evening or night.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central and Southern provinces and in Matale and Puttalam districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/a6fc905c.json)
 
 ---
 
@@ -468,6 +574,8 @@ Building on the success of the SMS and voice-based Sayuru service introduced in 
 
 [Data](articles/05848cf9.json)
 
+[Extended Data](ext_articles/05848cf9.ext.json)
+
 ---
 
 ### SriLankan Airlines and SLCB showcase Sri Lanka to top South Indian journalists
@@ -523,6 +631,8 @@ Turnover stood at Rs 1.3 billion with a crossing. The crossing was reported in H
 ...
 
 [Data](articles/9f84feec.json)
+
+[Extended Data](ext_articles/9f84feec.ext.json)
 
 ---
 
@@ -2173,129 +2283,5 @@ The University of Sri Jayewardenepura had been temporarily closed due to a clash
 [Data](articles/52482a31.json)
 
 [Extended Data](ext_articles/52482a31.ext.json)
-
----
-
-### Voter cards grabbing into the house
-
-*2024-09-20 14:09:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்குள்-புகுந்து-வாக்காளர்-அட்டைகள்-அபகரிப்பு/175-344060) · `ta`
-
-Six unidentified individuals stole three voter cards from a UNP supporter's home in Nivitigala. The incident occurred in a remote area without nearby houses or streets. Police investigated CCTV footage but found no evidence.
-
-🟩
-
-Nivitigala police said that six unidentified persons who had entered the home of a supporter of a UNP had forcibly taken three voter cards in the house.
-
-The complainant Nivitigala, Indoor, Dummalawatta, is living in a house in the dealer's rubber plantation in Tela area, police said.
-
-A woman who lives as a wage laborer, who claims to be a supporter of the United National Party, has complained.
-
-Police say that there are no houses near the complainant's house and that there is no street to go to the house.
-
-The CCTV footage of the incident was investigated, but there was no trace, police said.
-
-◼️
-
-[Data](articles/a6fe9740.json)
-
-[Extended Data](ext_articles/a6fe9740.ext.json)
-
----
-
-### Death
-
-*2024-09-20 14:02:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரத்திலிருந்து-விழுந்தவர்-மரணம்/76-344059) · `ta`
-
-42-year-old man dies after falling from tree while cutting wood near Thalawakkalai. Father of three. Incident under investigation by Garlic Goya Police. Body remains at scene.
-
-🟩
-
-A 42 -year -old man from Pudukkadu estate, Thalawakkalai, died from a tree. He is the father of three children.
-
-This is the case when the firewood was cut off into a tall tree in the Vadakkimalai area of ​​the Punduloya police division.
-
-Garlic Goya Police have started investigations regarding the incident. The body is kept on the spot where the incident occurred.
-
-◼️
-
-[Data](articles/0e961fbe.json)
-
-[Extended Data](ext_articles/0e961fbe.ext.json)
-
----
-
-### The man who fell from the tree was death
-
-*2024-09-20 14:02:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டியதால்-மரத்திலிருந்து-விழுந்தவர்-மரணம்/76-344059) · `ta`
-
-A 31-year-old man named N. Kanageswaran fell from a 100-foot-tall kandis tree during woodcutting. He died after falling. Police suspect wasps caused his fall. Another person was hospitalized due to a wasp attack. The victim's body will undergo an autopsy.
-
-🟩
-
-Talawakelle police said that a person who climbed into the tree in the Madukumbura estate belonging to the Talawakelle police division had died and fell down from the tree while he was on the tree.
-
-The deceased is N. Kanageswaran (age 31) of the same estate. He is the father of a child.
-
-The deceased person was climbing into a 100 -foot -tall kandis tree with another person and cutting the branches of the tree for firewood.
-
-Talawakelle police have expressed suspicion that the person in the tree may have fallen off the tree due to fear of the wasps.
-
-The other person who was attacked by the wasp attack has been admitted to the Lithulla Divisional Hospital and the body of the person who fell from the tree will be sent to the Nuwara Eliya District General Hospital for autopsy.. Talawakelle police officers said.
-
-◼️
-
-[Data](articles/f17bf100.json)
-
-[Extended Data](ext_articles/f17bf100.ext.json)
-
----
-
-### Namal's mother-in-law leaving the country
-
-*2024-09-20 13:58:02* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-නැන්දම්මා-හා-දරු-දෙදෙනා-රටින්-පිටවෙයි/11-412045) · `si`
-
-Namal Rajapaksa's mother-in-law leaves Sri Lanka for Dubai with family members. Departed from Katunayake airport on September 20, 2023, at 10:05 AM.
-
-🟩
-
-The presidential candidate Namal Rajapaksa's mother-in-law (wife's mother), two children, two children, and another relative woman has left for Dubai via the Silk Route ROUTE Terminal.
-
-The information confirmed the officers in Katunayake airport. The group had left the Emirates Airport on the 9th at 10.05 am on 09/20 am. The airplane left the Katunayake airport on the 651.
-
-They have been opened on the Sunday Road, which charges US $ 52 each.
-
-According to Katunayake airport, the Katunayake Airport was also planning to go to Dubai to the US, and they have often gone to Dubai and have been planning to leave to the United States.
-
-◼️
-
-[Data](articles/f028f14c.json)
-
-[Extended Data](ext_articles/f028f14c.ext.json)
-
----
-
-### History: Sri Lanka's first presidential election- 1982 Veerakesari ...
-
-*2024-09-20 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194103) · `ta`
-
-Sri Lanka's 1st presidential election 1982: J.R. Jayewardene re-elected as president. Multi-party competition. Strong police presence during voting. Weerakesari magazine coverage.
-
-🟩
-
-Who is the winner in the multi -competition field?Who is the new President elected by the people?Sri Lanka's 9th presidential election will be held nationwide on Saturday (21st).
-
-Voting has been carried out amidst the strong security of the police who are on duty throughout the country.
-
-Today, the country, which is a political turning point, faced Sri Lanka's first presidential election on October 20, 1982.
-
-On the front page of the Weerakesari magazine published in Attikathi, the news was published on the topic "Cooperate in the election today: go and vote for the time - the Election Commissioner Request."
-
-Also, here are the photos and some news published on the country's first presidential election on October 20, 1982, on October 20, 1982.
-
-◼️
-
-[Data](articles/5314e0e9.json)
-
-[Extended Data](ext_articles/5314e0e9.ext.json)
 
 ---

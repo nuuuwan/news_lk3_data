@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 14:09:51**
+As of **2024-09-21 14:22:24**
 
 ## Newspaper Stats
 
-*Scraped **45,074** Articles*
+*Scraped **45,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 452
 islandlk | 2,656
 economynextcom | 2,729
 dailyftlk | 3,017
-adalk | 4,161
+adalk | 4,162
 dailymirrorlk | 4,733
 adaderanalk | 5,297
 tamilmirrorlk | 5,910
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,074 (100.0%) of 45,074 articles have been extended.
+45,074 (100.0%) of 45,075 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -139,6 +139,20 @@ Jarangani (age 61), who went to Maskeliya Kudamaskeliya area, was injured.He has
 [Data](articles/8744d138.json)
 
 [Extended Data](ext_articles/8744d138.ext.json)
+
+---
+
+### ඡන්ද පත්‍රිකාව ඉරූ පුද්ගලයෙක් අත්අඩංගුවට
+
+*2024-09-21 12:21:35* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-පත්‍රිකාව-ඉරූ-පුද්ගලයෙක්-අත්අඩංගුවට/11-412052) · `si`
+
+වරාකාපොල, බෞද්ධ විද්‍යාලයේ පැවැත්වෙන ඡන්දය ප්‍රකාශ කිරිමේ මධ්‍යස්ථානයේදි සිය ඡන්ද පත්‍රිකාව දෙකට ඉරා දැමූ පුද්ගලයෙක් පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙහිදී සැකකරු ඉරා දැමූ ඡන්ද පත්‍රිකාවෙන් කොටසක් තම කලිසම් සාක්කුවටත් ඉතිරි කොටස ඡන්ද පෙට්ටියටත් දමා තිබේ.
+
+◼️
+
+[Data](articles/79a13c25.json)
 
 ---
 
@@ -2209,25 +2223,5 @@ Accordingly, there is a proper program to vote for the 7th morning and has been 
 [Data](articles/8d59d505.json)
 
 [Extended Data](ext_articles/8d59d505.ext.json)
-
----
-
-### If you take photos of the vote
-
-*2024-09-20 20:45:24* · [`adalk`](https://www.ada.lk/breaking_news/දාන-ඡන්දය-ඡායාරූප-ගත-කළොත්-වැඩ-වරදියි/11-412047) · `si`
-
-Election Commission warns against taking photos of voting process. Announces restrictions on social media usage during elections.
-
-🟩
-
-The Election Commission points out that the election stages of the election centers on the election centers tomorrow (21) and the release of votes marked by the election centers.
-
-Therefore, the Elections Commission issues announcement that all social media keeps and administrators will be informed of all social media holders and administrators to prevent them.
-
-◼️
-
-[Data](articles/a60c6fdb.json)
-
-[Extended Data](ext_articles/a60c6fdb.ext.json)
 
 ---

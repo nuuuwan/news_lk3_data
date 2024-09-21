@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 10:56:59**
+As of **2024-09-21 11:09:49**
 
 ## Newspaper Stats
 
-*Scraped **45,049** Articles*
+*Scraped **45,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,160
 dailymirrorlk | 4,733
-adaderanalk | 5,293
+adaderanalk | 5,295
 tamilmirrorlk | 5,903
-virakesarilk | 7,211
-adaderanasinhalalk | 7,718
+virakesarilk | 7,215
+adaderanasinhalalk | 7,719
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,049 (100.0%) of 45,049 articles have been extended.
+45,056 (100.0%) of 45,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Presidential Election: Voter turnout as at 10am
+
+*2024-09-21 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102117/presidential-election-voter-turnout-as-at-10am) · `en`
+
+The district-level voter turnout for the 2024 Presidential Election thus far has already exceeded 20 percent in several districts, according to reports.
+
+Accordingly, the voter turnout of several districts as at 10.00 a.m. this morning (21) is as follows:
+
+Voting for the presidential election is currently taking place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (20).
+
+◼️
+
+[Data](articles/d7298904.json)
+
+[Extended Data](ext_articles/d7298904.ext.json)
+
+---
+
+### Here are the percentage of votes polled in several districts
+
+*2024-09-21 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201258) · `si`
+
+Presidential election voting percentages in 21st district: 50% reported so far. Election started at 7am, ends at 4pm today.
+
+🟩
+
+The percentage of the votes in several districts (21st) were said:
+
+The presidential election, which began at 7am this morning, will conclude at 4 pm.
+
+◼️
+
+[Data](articles/18d20ca0.json)
+
+[Extended Data](ext_articles/18d20ca0.ext.json)
+
+---
+
+### People who go to vote in Mullaitivu with enthusiasm
+
+*2024-09-21 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194240) · `ta`
+
+Enthusiastic voters head to Mullaitivu polls. Voting begins at 7 AM at designated centers. Local and international observers monitor proceedings.
+
+🟩
+
+Voting will be held at the voting centers selected in the district from 7 am today (21) at 7 am.
+
+The local and foreign election monitoring team is visiting polling stations in the Mullaitivu district and observing the voting.
+
+◼️
+
+[Data](articles/1dd0e43c.json)
+
+[Extended Data](ext_articles/1dd0e43c.ext.json)
+
+---
+
+### Voting with enthusiasm people of the hill plantation
+
+*2024-09-21 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194237) · `ta`
+
+Nuwara Eliya election: 347,646 eligible voters, 52 polling centers, 8,500 staff, 1,748 security personnel. Voting underway across Central, Kandy, Matale, Uva provinces.
+
+🟩
+
+Voting for Sri Lanka's 9th Executive Elections begins today (21st) at 7 am. Especially in the hill country, everyone, including plantation people, go to polling stations and use their votes.
+
+347,646 voters in Nuwara Eliya-Maskeliya constituency are eligible to vote. 88,219 voters are eligible to vote in the Kotmalai electorate.90,990 voters are eligible to vote in the Walapane electoral constituency and 78,437 voters in the Hunguranketta electorate are eligible to vote.
+
+Also, 52 voting centers have been set up. There are 41 voting centers at the Nuwara Eliya Gamini National College to count the votes and the Nuwara Eliya District Secretariat has set up 11 voting centers to count postal votes.
+
+There are 8,500 people on duty at polling stations and 1,748 security officers and police are on duty for security.
+
+Similarly, voting is being held in the Central Province, Kandy, Matale and Uva Province, Badulla and Bandarawela.
+
+◼️
+
+[Data](articles/10aaacd3.json)
+
+[Extended Data](ext_articles/10aaacd3.ext.json)
+
+---
 
 ### Dies
 
@@ -53,6 +137,48 @@ Kopay police are conducting investigations into the fact that someone may have s
 [Data](articles/23ea55c1.json)
 
 [Extended Data](ext_articles/23ea55c1.ext.json)
+
+---
+
+### Electricity and petroleum supply gazetted as essential services
+
+*2024-09-21 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102116/electricity-and-petroleum-supply-gazetted-as-essential-services) · `en`
+
+A special gazette notification has been issued declaring the supply of electricity and all related services as well as the supply or distribution of petroleum products and fuel, as essential services.
+
+Presidential Secretary Saman Ekanayake has issued the Extraordinary Gazette notification yesterday (20) on the directive of President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/3031f3ab.json)
+
+[Extended Data](ext_articles/3031f3ab.ext.json)
+
+---
+
+### Voting in Mannar peacefully
+
+*2024-09-21 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194234) · `ta`
+
+Peaceful voting underway in Mannar district. 98 polling stations open from 7 AM. Local and international observers present. EU team conducting surveillance.
+
+🟩
+
+Voting will be held at the voting centers selected in the district from 7 am today (21) at 7 am.
+
+Voting is taking place in 98 polling stations in the Mannar electorate of Vanni district.
+
+Although voting in the morning in the morning, it is possible to observe that people visit and vote.
+
+The local and foreign election monitoring team is visiting polling stations in Mannar district and observing the vote.
+
+The EU's election monitoring team, in particular, has been visiting and engaged in surveillance.
+
+◼️
+
+[Data](articles/3187b768.json)
+
+[Extended Data](ext_articles/3187b768.ext.json)
 
 ---
 
@@ -128,6 +254,34 @@ Meanwhile, the Election Commission says that 4,929 of the total number of compla
 
 ---
 
+### Voting in Ampara District
+
+*2024-09-21 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194232) · `ta`
+
+Ampara District 2024 presidential election summary: Smooth process with 39 candidates across 4 seats. Voting stations set up in Ampara, Pottuvil, Samanthurai, and Kalmunai. Police and Special Task Force provide security. Total voters: 82,830 (Kalmunai), 99,727 (Samanthurai), 184,653 (Pottuvil), 188,222 (Ampara). 528 voting centers established, including 447 in Ampara district. Election Department ensures free and fair polls.
+
+🟩
+
+The 9th presidential election for 2024 is being held in the Ampara district smoothly and recession.
+
+In particular, voters are voting in voting stations in the electorates of Ampara, Pottuvil, Samanthurai and Kalmunai constituencies.
+
+In addition, police and special Task Force are providing security to the polling booths.
+
+39 candidates for 4 seats in the Digamadulla electorate of the Ampara district are political parties and many independents.
+
+In the election, 82,830 in the Kalmunai election, 99,727 in the Samanthurai election, 184,653 in Pottuvil election and 188,222 in the Ampara election.
+
+528 voting centers will be set up, including 184 Ampara polling stations, 93 Ampara polling stations, 74 Kalmunai polling stations and 177 polling stations in the Ampara district, and the Elections Department has taken all steps to hold elections freely and neutral.
+
+◼️
+
+[Data](articles/a6861f24.json)
+
+[Extended Data](ext_articles/a6861f24.ext.json)
+
+---
+
 ### The Election Commission is ready for the general election
 
 *2024-09-21 10:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்தேர்தலுக்கு-தேர்தல்-ஆணைக்குழு-தயார்/175-344078) · `ta`
@@ -156,9 +310,31 @@ Several parties, including political parties, have already demanded the cancella
 
 ---
 
+### 8th presidential election today
+
+*2024-09-21 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194220) · `ta`
+
+Sri Lanka's 8th presidential election summary: 38 candidates, 17 million eligible voters, 13,421 polling stations, 63,000 police deployed. Voting from 7am to 4pm on Saturday. Citizens urged to cooperate for fair elections.
+
+🟩
+
+The eighth presidential election to elect the ninth president of the country will be held on Saturday (21). With 38 people contesting this time, 17, 140,354 are eligible to vote. The Elections Commission has urged all citizens to cooperate with the election of independently and fairly.
+
+With 13421 voting centers nationwide, about 63 thousand policemen will be deployed for security activities.. The Armed Forces are also ready for security. Two hundred and 25 thousand public officials are on duty for election work.
+
+Voting boxes and documents for all electoral constituencies were handed over yesterday morning. In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3151 voting centers in the Colombo Election District.
+
+...
+
+[Data](articles/44cda695.json)
+
+[Extended Data](ext_articles/44cda695.ext.json)
+
+---
+
 ### Presidential election;Voting in Jaffna
 
-*2024-09-21 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194229) · `ta`
+*2024-09-21 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194229) · `ta`
 
 Sri Lanka's 9th Presidential Election: 492,280 Jaffna voters cast ballots at 511 polling stations across 5 schools. Voting began at 7 AM on 21st day.
 
@@ -589,28 +765,6 @@ Eligible voters are required to carry one of nine accepted forms of identificati
 [Data](articles/31db4c57.json)
 
 [Extended Data](ext_articles/31db4c57.ext.json)
-
----
-
-### 8th presidential election today
-
-*2024-09-21 06:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194220) · `ta`
-
-Sri Lanka's 8th presidential election summary: 38 candidates, 17 million eligible voters, 13,421 polling stations, 63,000 police deployed. Voting from 7am to 4pm on Saturday. Citizens urged to cooperate for fair elections.
-
-🟩
-
-The eighth presidential election to elect the ninth president of the country will be held on Saturday (21). With 38 people contesting this time, 17, 140,354 are eligible to vote. The Elections Commission has urged all citizens to cooperate with the election of independently and fairly.
-
-With 13421 voting centers nationwide, about 63 thousand policemen will be deployed for security activities.. The Armed Forces are also ready for security. Two hundred and 25 thousand public officials are on duty for election work.
-
-Voting boxes and documents for all electoral constituencies were handed over yesterday morning. In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3151 voting centers in the Colombo Election District.
-
-...
-
-[Data](articles/44cda695.json)
-
-[Extended Data](ext_articles/44cda695.ext.json)
 
 ---
 
@@ -2117,159 +2271,5 @@ The two hand grenades were found in accordance with public information on Friday
 [Data](articles/fb010ce9.json)
 
 [Extended Data](ext_articles/fb010ce9.ext.json)
-
----
-
-### University entrance cut-off marks for 2023 A/L exam out today
-
-*2024-09-20 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102099/university-entrance-cut-off-marks-for-2023-al-exam-out-today) · `en`
-
-The chairman of the University Grants Commission (UGC) has stated that the university entrance cut-off marks for G.C.E. Advanced Level examination 2023 candidates will be released this evening (20).
-
-The cut-off marks can be viewed through the website, www.ugc.ac.lk.
-
-◼️
-
-[Data](articles/cd150804.json)
-
-[Extended Data](ext_articles/cd150804.ext.json)
-
----
-
-### Lotus bud was eliminated
-
-*2024-09-20 16:33:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அபேகுணவர்தனவை-நீங்கியது-தாமரை-மொட்டு/175-344063) · `ta`
-
-Sri Lanka PA suspends Abeygunawardena for supporting rival candidate. Party leader Mahinda Rajapaksa grants permission for suspension from all positions.
-
-🟩
-
-Sri Lanka PA has been suspended from the membership of the Sri Lanka Peoples Alliance (PA) and the National Summoner.
-
-In a letter to Abeygunawardena, party general secretary Sakara Kariyawasam said that he supported another candidate in the presidential election, contrary to the decision of the Sri Lanka PA's political committee.
-
-Party leader Mahinda Rajapaksa has granted permission to suspend Abeygunawardena from all other positions of the Sri Lanka PA.
-
-◼️
-
-[Data](articles/00102376.json)
-
-[Extended Data](ext_articles/00102376.ext.json)
-
----
-
-### Sri Lanka ballots voted ‘X’ and a number will be rejected: Elections Commission
-
-*2024-09-20 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-ballots-voted-x-and-a-number-will-be-rejected-elections-commission-180202/) · `en`
-
-ECONOMYNEXT – Voters who mark an ‘X’ in front of a candidate cannot vote a second preference, Elections Commission Chairman R M A L Rathnayake said.
-
-“A ballot paper of a person marked ‘X’ and then also place number 2 or 3 will be rejected,” he said.
-
-Electors have to mark numbers 1 and 2 or 3 to show their preference.
-
-A ballot paper with X and a number 1 or 2 or 3 will be rejected.
-
-A ballot paper with number ‘1’ or ‘X’ marked for two or more candidates will be rejected.
-
-If number 2 and 3 only is marked and number ‘1’s is not marked.
-
-Sri Lanka voters who do not have a polling card for whatever reason can vote as long as they know the polling station they are registered and they can prove their identity. (Colombo/Aug20/2024)
-
-◼️
-
-[Data](articles/d73a5fd4.json)
-
-[Extended Data](ext_articles/d73a5fd4.ext.json)
-
----
-
-### Sri Lanka ballots voted ‘X’ and a number will be rejected: Elections Commission
-
-*2024-09-20 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-voters-who-mark-an-x-cannot-place-second-preference-ec-chief-180202/) · `en`
-
-ECONOMYNEXT – Voters who mark an ‘X’ in front of a candidate cannot vote a second preference, Elections Commission Chairman R M A L Rathnayake said.
-
-“A ballot paper of a person marked ‘X’ and then also place number 2 or 3 will be rejected,” he said.
-
-Electors have to mark numbers 1 and 2 or 3 to show their preference.
-
-A ballot paper with X and a number 1 or 2 or 3 will be rejected.
-
-A ballot paper with number ‘1’ or ‘X’ marked for two or more candidates will be rejected.
-
-If number 2 and 3 only is marked and number ‘1’s is not marked.
-
-Sri Lanka voters who do not have a polling card for whatever reason can vote as long as they know the polling station they are registered and they can prove their identity. (Colombo/Aug20/2024)
-
-◼️
-
-[Data](articles/e37f6dc8.json)
-
-[Extended Data](ext_articles/e37f6dc8.ext.json)
-
----
-
-### Grade 5 Scholarship Exam paper marking temporarily halted
-
-*2024-09-20 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102098/grade-5-scholarship-exam-paper-marking-temporarily-halted) · `en`
-
-The Secretary of the Ministry of Education, Thilaka Jayasundara, announced that the paper marking process of the Grade 5 Scholarship Examination, which was held on September 15, has been temporarily suspended.
-
-Speaking at a press conference today (20), she stated, “We do not intend to proceed with the paper marking process, until we receive all the investigation results and make a decision. Until then, activities related to the release of the results have been temporarily suspended.”
-
-An investigation was launched by the Department of Examinations after it was alleged that a question paper from the exam had been leaked. The initial investigation report has been handed over to the Criminal Investigation Department (CID), which is currently conducting further inquiries.
-
-Jayasundara further stated that if it is confirmed that the question paper for the Grade 5 Scholarship Examination was leaked, arrangements will be made to conduct the exam again.
-
-...
-
-[Data](articles/25a83042.json)
-
-[Extended Data](ext_articles/25a83042.ext.json)
-
----
-
-### Notice of issuing university access cut off marks
-
-*2024-09-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201240) · `si`
-
-University access cutoff marks announced: Visit www.ugc.as.lk for details after 8 PM today.
-
-🟩
-
-According to the University Grants Commission, the cut off marks of the university approach will be released on the evening today (20) by the GCE A / L results.
-
-Accordingly, the cut off marks can be obtained by visiting www.ugc.as.lk.
-
-◼️
-
-[Data](articles/0eaf507b.json)
-
-[Extended Data](ext_articles/0eaf507b.ext.json)
-
----
-
-### Three member membership of three members of Pohon
-
-*2024-09-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201239) · `si`
-
-Sri Lanka party suspends memberships of 3 MPs for supporting rival candidate on July 29.
-
-🟩
-
-The party has taken steps to suspend the party membership of three MPs in the Sri Lanka General Man.
-
-Accordingly, Anuradhapura District MP SM Chandrasena, Ratnapura District MP Pavithradevi Wanniarachchi and Kalutara District MP Rohitha Abeygunawardene has been suspended.
-
-The party membership has been suspended as a result of supporting the party's candidate against the decision to support the party's candidate on the 29th of July on July 29.
-
-The party's membership of the party, the membership of the party, the party's membership and the party's national convener post have been suspended.
-
-◼️
-
-[Data](articles/3eca7dba.json)
-
-[Extended Data](ext_articles/3eca7dba.ext.json)
 
 ---

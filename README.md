@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 22:11:41**
+As of **2024-09-21 22:22:37**
 
 ## Newspaper Stats
 
-*Scraped **45,142** Articles*
+*Scraped **45,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 4,170
 dailymirrorlk | 4,733
 adaderanalk | 5,307
 tamilmirrorlk | 5,922
-virakesarilk | 7,229
-adaderanasinhalalk | 7,741
+virakesarilk | 7,232
+adaderanasinhalalk | 7,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,142 (100.0%) of 45,142 articles have been extended.
+45,146 (100.0%) of 45,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Announcement from National Society
+
+*2024-09-21 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201281) · `si`
+
+National Folk Force statement: Elections Commission, officials aware of presidential election. Police and security forces to ensure counting center safety. Request security forces maintain national peace during post-election period. Call for public support.
+
+🟩
+
+The National Folk Force issued a statement that the Elections Commission and the relevant officials will be clearly aware of the election of the Presidential Election.
+
+"We also believe that the police and the security forces will be able to ensure the safety of the counting centers."
+
+"In this case, we ask the security forces to take steps to maintain a maximum peace in the country during the post-election conditions when the results of the election.We call upon the people to support the maximum support. "
+
+◼️
+
+[Data](articles/c8aa5f20.json)
+
+[Extended Data](ext_articles/c8aa5f20.ext.json)
+
+---
+
+### Preview release of 'Dopamine 2.22' starring Thirav
+
+*2024-09-21 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194321) · `ta`
+
+"Dopamine 2.22" preview: Murder mystery thriller directed by Thirav. Starring Thirav, Thiruv, Vijay, Vipita. Produced by Thirav. Fans intrigued by plot involving murder at 2.22 AM.
+
+🟩
+
+The preview of the film 'Dopamine 2.22' has been released by the famous actor Thrav's story.
+
+Directed by director Thirav, 'Dopamine 2.22', Thiruv, Vijay, Vipita, Nikila, Raghav, Satya, Samson, Sakthivelan, Satish Selvaraj, Vijayalakshmi, Vijayalakshmi.
+
+The film was produced by Producer Thrav, on behalf of hashtag F de FS Productions.
+
+All the tasks of the film are completed and waiting for the release. In this case, the film has been released.
+
+What is dopamine?There is a murder at 2.22 am and what is the reason for this?The preview of the fanatic has attracted the attention of the fans.
+
+◼️
+
+[Data](articles/4f5824f8.json)
+
+[Extended Data](ext_articles/4f5824f8.ext.json)
+
+---
 
 ### Differently imposed from 10 pm today
 
@@ -68,15 +116,37 @@ During this period, all police officers have been instructed to implement the hi
 
 Curfew has been imposed islandwide with effect from 10.00 p.m. tonight (21) until 06.00 a.m. tomorrow (22).
 
-This decision has been taken by the incumbent President Ranil Wickramasinghe in view of the release of the results of the 2024 Presidential Election tonight.
+This decision has been taken by the incumbent President Ranil Wickramasinghe under the provisions of the Public Security Ordinance, in view of the releasing of the results of 2024 presidential election tonight.
 
 The relevant Gazette notification has been issued by the President under the Public Security Ordinance (Chapter 40) Curfew Order under Section 16.
 
-◼️
+However, the Police Media Division stated that although the post-election situation in the country is very peaceful, this curfew was imposed for further safety of the public. Furthermore, Sri Lanka Police urged the general public to stay in their houses during the curfew period.
+
+Meanwhile, the officials engaged in election related duties during the curfew period are allowed to use their ID cards or authorized documents as curfew permits, police said issuing a special notice.
+
+...
 
 [Data](articles/ed58d695.json)
 
 [Extended Data](ext_articles/ed58d695.ext.json)
+
+---
+
+### Photos of candidates, parliamentarians and ministers voting in the presidential election
+
+*2024-09-21 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194314) · `ta`
+
+Photos show President Mahinda Rajapaksa, PM Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, and other officials casting votes in Sri Lanka's presidential election on January 21st.
+
+🟩
+
+President Mahinda Rajapaksa, Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Adivasi Chairperson Etho, Etho, Chairman of the Adivasi, Etho, Presidential candidates, MPs and Ministers have been released in the presidential election on Saturday (21).
+
+◼️
+
+[Data](articles/68a5daba.json)
+
+[Extended Data](ext_articles/68a5daba.ext.json)
 
 ---
 
@@ -157,6 +227,36 @@ He had given his vote on Saturday (21) at St. Mary's College, Trincomalee.
 [Data](articles/64cb2adf.json)
 
 [Extended Data](ext_articles/64cb2adf.ext.json)
+
+---
+
+### Second Look of 'Ban Butter Jam' released on the ship
+
+*2024-09-21 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194313) · `ta`
+
+"Ban Butter Jam" second look poster released on ship. Starring Raju Jayamohan, Adia Prasad, Pavya Tarika. Directed by Raghav Mirdad. Music by Prasanna. Produced by Suresh Subramanian. Unique release method attracts fans.
+
+🟩
+
+Actor Raju Jayamohan has released the second look poster of the film 'Ban Butter Jam' starring the story.
+
+For the first time in Tamil cinema, the poster has been released by the film crew while traveling in a huge ship in the sea.
+
+Raju Jayamohan, Adia Prasad, Pavya Tarika, Charlie, Saranya Ponvannan, Devadarshini, Michael Thangadurai and many others have starred in the film 'Ban Butter Jam' directed by director Raghav Mirdad.
+
+Niwas K is the cinematography by Babu Kumar. Prasanna has composed the music.
+
+The film was produced by producer Suresh Subramanian on behalf of the film company Rain of Auros Entertainment.
+
+Look has already been released in the title of the movie. In this case, the second look poster of the film has been released and has attracted the attention of the fans.
+
+In particular, Raju Mohan, who plays the hero of the story, is the heroes of the fan as the oldest king and the king of Pavya Tarika, who appears to be the heroes of the story.
+
+◼️
+
+[Data](articles/246b4ad1.json)
+
+[Extended Data](ext_articles/246b4ad1.ext.json)
 
 ---
 
@@ -2249,97 +2349,5 @@ In a later statement summarising Aqil’s biography, Hezbollah said he was kille
 [Data](articles/b8907e28.json)
 
 [Extended Data](ext_articles/b8907e28.ext.json)
-
----
-
-### A gazette notification with essential services essential
-
-*2024-09-21 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201255) · `si`
-
-President issues gazette notification declaring electricity, petroleum supply as essential services. Gazette signed by Secretary to the President EMSB Ekanayake on 20th.
-
-🟩
-
-The President has taken steps to issue a special gazette notification by converting several services into essential services.
-
-Accordingly, all services relating to electricity supply and supply of petroleum products and delivery are essential services to the supply or distribution.
-
-Gazette notification that made these services essential services to the Secretary to the President EMSB. Mr. Ekanayake has released yesterday (20).
-
-◼️
-
-[Data](articles/a6430b4e.json)
-
-[Extended Data](ext_articles/a6430b4e.ext.json)
-
----
-
-### Special bus service for Presidential Election
-
-*2024-09-21 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102112/special-bus-service-for-presidential-election) · `en`
-
-Lanka Private Bus Owners’ Association (LPBOA) states that measures will be taken to deploy buses today (21) for people travelling to their hometown to cast votes for the presidential election.
-
-Its chairman Gemunu Wijeratne urged passengers to arrive early in the morning to ensure they can reach their destinations on time.
-
-Meanwhile, the chairman of the Sri Lanka Transport Board (SLTB) Lalith de Alwis stated that 3,300 SLTB buses will also operate today.
-
-◼️
-
-[Data](articles/8eafd943.json)
-
-[Extended Data](ext_articles/8eafd943.ext.json)
-
----
-
-### Number of election complaints reported in the last 24 hours
-
-*2024-09-21 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201254) · `si`
-
-Election complaints surge: 5551 filed, 4929 resolved. Highest count: 336. Complaints increase from 337 previously.
-
-🟩
-
-The number of election complaints reported for the presidential election has further increased.
-
-The number of election commissioner has issued announcement in a statement that the total number of complaints has increased to 5551 complaints.
-
-Meanwhile, the number of election complaints had been reported in 337 election complaints.
-
-The highest number of complaints have been reported and 336 complaints have been reported.
-
-The Elections Commission says that 4929 complaints have been resolved.
-
-◼️
-
-[Data](articles/f9695201.json)
-
-[Extended Data](ext_articles/f9695201.ext.json)
-
----
-
-### President is an extraordinary
-
-*2024-09-21 09:06:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-අතිවිශේෂ-ගැසට්ටුවක්/11-412050) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"President Ranil Wickremesinghe declares electricity and petroleum services essential. Gazette notification issued, applies to state corporations, departments, local bodies, and branches."
-
-🟩
-
-All services related to electricity and petroleum production and delivery of petroleum produces and supply of fueling or distribution of fueling or distribution is essential by President Ranil Wickremesinghe.
-
-The gazette notification that made these services essential services was issued by the President EMSBA yesterday.
-
-This gazette notification is prescribed by the President that these services provided by any state corporations, department, a local government body, or branch provided by a branch.
-
-◼️
-
-[Data](articles/74de628f.json)
-
-[Extended Data](ext_articles/74de628f.ext.json)
 
 ---

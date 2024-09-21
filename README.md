@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 19:22:41**
+As of **2024-09-21 19:56:06**
 
 ## Newspaper Stats
 
-*Scraped **45,121** Articles*
+*Scraped **45,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,221 @@ dailyftlk | 3,017
 adalk | 4,169
 dailymirrorlk | 4,733
 adaderanalk | 5,303
-tamilmirrorlk | 5,915
-virakesarilk | 7,226
-adaderanasinhalalk | 7,735
+tamilmirrorlk | 5,918
+virakesarilk | 7,228
+adaderanasinhalalk | 7,738
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,121 (100.0%) of 45,121 articles have been extended.
+45,129 (100.0%) of 45,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
+
+### Police reveal events on election day
+
+*2024-09-21 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201277) · `si`
+
+Election day incidents: Police report minor arrests, PAFFREL director says peaceful, single violent incident, ballot paper issues.
+
+🟩
+
+According to the DIG Talduwa, the DIG Talduuwa said that several small incidents were arrested during the period during the election.
+
+Meanwhile, the Director General of PAFFREL Rohana Hettiarachchi said that this presidential election was a peaceful in recent history.
+
+He said that only one violent incident was reported this year.
+
+He also said that two incidents of tearing the ballot papers and two instances of the ballot were reported.
+
+◼️
+
+[Data](articles/20cdd773.json)
+
+[Extended Data](ext_articles/20cdd773.ext.json)
+
+---
+
+### Deraana operation brought by the results
+
+*2024-09-21 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201276) · `si`
+
+Ada Derana prepares coverage of presidential election results. Special broadcast brings live updates from Sri Lanka Decides.
+
+🟩
+
+The Ada Derana Media Network has already been prepared today to bring all the details of the Presidential election.
+
+The moment of warmth voting voting results on the world's modern telecommunication, the Sri Lanka DeCides is through special election.
+
+◼️
+
+[Data](articles/b13aeb66.json)
+
+[Extended Data](ext_articles/b13aeb66.ext.json)
+
+---
+
+### Voting boxes are taken to polling stations!
+
+*2024-09-21 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194296) · `ta`
+
+Sri Lanka's 2024 presidential election results: Gotabhaya Rajapakse wins with 52.25% of votes. First results announced at midnight. 17 million eligible voters cast ballots across 22 districts.
+
+🟩
+
+The 2024 presidential election voting was completed independently and quietly on Saturday (21st).
+
+The voting, which began at 7 am today, ended at 4 pm.
+
+In this case, voting boxes from polling stations have been taken to polling stations.
+
+The first election result will be released at midnight today, said Saman Sri Ratnayake, Commissioner General of the Election Commission.
+
+With 38 presidential candidates contesting this time, 17, 140,354 were eligible to vote.
+
+In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3,151 voting centers in the Colombo Election District.
+
+Gotabhaya Rajapakse, who contested the presidential candidate of Sri Lanka PA as the presidential candidate, was elected as the 7th Executive President of the country with 52.25 per cent votes with 52.25 per cent votes.
+
+...
+
+[Data](articles/c3e05b41.json)
+
+[Extended Data](ext_articles/c3e05b41.ext.json)
+
+---
+
+### Blocked on the rally
+
+*2024-09-21 19:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேரணி-செல்ல-தடை/175-344095) · `ta`
+
+Rally ban: Vehicles prohibited for one week, including election period. Cooperation urged to maintain law and order. Violations may face legal consequences.
+
+🟩
+
+Deputy Inspector General of Media Spokesperson Nihal Talduwa today (21) said that the rally was banned from the vehicles or a walk for a week, including the period of the presidential election and its subsequent period.
+
+He added that the people should cooperate to protect the legal order and that if they violate the laws that are in force, the power will be used to protect the legal order.
+
+◼️
+
+[Data](articles/2bcf8985.json)
+
+[Extended Data](ext_articles/2bcf8985.ext.json)
+
+---
+
+### Special statement on election commissioner
+
+*2024-09-21 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201275) · `si`
+
+Election Commissioner Saman Sri Ratnayake declares best election ever. No violence reported. Voter turnout starts at 7 AM. Counting in 1,713 centers.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake said this is the best election held in the history of election history.
+
+He was speaking at a special statement to the media this morning.
+
+And he added that the time was not reported that there was no violence in that time.
+
+The voter turnout at the Presidential Election began at 7 am today (21).
+
+Ratnayake further stated that the counting of votes will be held in 1,713 counting centers.
+
+◼️
+
+[Data](articles/6b6e3f0f.json)
+
+[Extended Data](ext_articles/6b6e3f0f.ext.json)
+
+---
+
+### I am not retiring from politics
+
+*2024-09-21 19:25:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-அரசியலில்-இருந்து-ஓய்வு-பெறவில்லை/175-344094) · `ta`
+
+Maithripala Sirisena supports newly elected president, warns of economic challenges and high election costs. He denies retirement from politics, hinting at future involvement in presidential or parliamentary races.
+
+🟩
+
+Former President Maithripala Sirisena said he would support him who was elected president in this election today after voting in Polonnaruwa.
+
+Speaking to reporters, he said the upcoming president would face many challenges and the government in the upcoming election at least Rs.. Ver said he would have to carry out 40 billion.
+
+“This election alone costs more than 10 billion. More than 10 billion costs for the provincial council and the Pradeshiya Sabha elections.
+
+He said the new president would face significant problems in managing the economy and providing services to the public.
+
+"I have not retired from politics, but in the future, the president or the parliamentary elections have not been decided," he added.
+
+◼️
+
+[Data](articles/cc6eb351.json)
+
+[Extended Data](ext_articles/cc6eb351.ext.json)
+
+---
+
+### Super Star Rajinikanth's preview release of 'Vettayan'
+
+*2024-09-21 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194309) · `ta`
+
+Rajinikanth's 'Vettayan' preview attracts 2 million viewers. Starring Rajinikanth, Amitabh Bachchan, Rana Daggubati. Directed by Rajinikanth himself. Police action thriller releasing Oct 10 in multiple languages.
+
+🟩
+
+Super Star Rajinikanth's Preview of 'Vettayan' has been released.
+
+Within a short time of this preview, more than two million viewers have been visited and achieved.
+
+Director The. Cm. Super Star Rajinikanth, Bollywood Super Star Amitabh Bachchan, Rana Dagupati, Bhagat Basil, Manju Warrior, Dushara Vijayan, Abirami, Ritika Singh and many others have starred in the film 'Vettayan'.
+
+The film is being produced as an exercise entertainer and has produced the famous producer Subhashkaran on behalf of Leica Productions.
+
+The film, which is being released in Tamil, Telugu, Malayalam, Kannada and Hindi at the World House on the 10th of October, was released at a special ceremony in Chennai.
+
+In this preview, Super Star Rajinikanth is back in the police station and that he appears to be a high -ranking policeman and a encounter specialist, and that the scenes are stunned.
+
+◼️
+
+[Data](articles/c488b2fd.json)
+
+[Extended Data](ext_articles/c488b2fd.ext.json)
+
+---
+
+### What's going to happen next?Emergency digits notice
+
+*2024-09-21 19:03:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்து-நடக்கப்போவது-என்ன-அவசர-இலக்கங்கள்-அறிவிப்பு/175-344093) · `ta`
+
+Sri Lanka: Emergency measures announced post-referendum. Police deployed, roadblocks set up. Vehicle processions banned. Public urged to report disturbances via emergency hotline. Security plan to remain in effect until election results released.
+
+🟩
+
+Deputy Inspector General of Police Nihal Talduwa said that the special security program in the country will be implemented in the coming days.
+
+He said this at a media briefing held after the referendum ended at 4 pm today.
+
+He said that police officers and riot officers were on duty as per the requirements and that there were police roadblocks and therefore the security plan would be fully working in the country until the results were released.
+
+Meanwhile, the police media spokesman says that within a week of the election, any person has been completely banned from marching in vehicles or trail.
+
+As a citizen, he urged the Sri Lankan police to take necessary steps to maintain the law and maintain the law and order in the country.
+
+The police have also asked the public to inform the following telephone numbers if they find any information on the act of disrupting peace.
+
+◼️
+
+[Data](articles/cdae4738.json)
+
+[Extended Data](ext_articles/cdae4738.ext.json)
+
+---
 
 ### Special holiday on Monday
 
@@ -117,6 +319,38 @@ The President pointed out that the election is a circular point in Sri Lanka and
 [Data](articles/d280751b.json)
 
 [Extended Data](ext_articles/d280751b.ext.json)
+
+---
+
+### Burst Look release of Mahendran starring 'Pulse'
+
+*2024-09-21 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194306) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil film "Pulse" stars Mahendran, Rishika Kapoor. Directed by Naveen Ganesh, produced by Raj Jayapalan. First look released, filming ongoing.
+
+🟩
+
+Actor Mahendran, who is struggling to get the market value of being a star actor in the Tamil film industry, has been named 'Pulse' and its first look has been released.
+
+Master Mahendran and Rishika Kapoor are playing the lead roles in 'Pulse' directed by debutant director Naveen Ganesh.
+
+K. Ravi Varma is a cinematography.. R. Abhishek has composed the music.
+
+The film was produced by producer Raj Jayapalan on behalf of Global Pictures.
+
+The first shooting of the film is currently underway. In this case, the film is titled 'Pulse' and its first look has been released.
+
+Mahendran, the hero of the story in this poster, is on the lookout for the film, as the back appearance of the film has increased.
+
+◼️
+
+[Data](articles/f38df8a8.json)
+
+[Extended Data](ext_articles/f38df8a8.ext.json)
 
 ---
 
@@ -277,36 +511,6 @@ The telephone numbers could be notified, the police spokesman said.
 [Data](articles/08129e36.json)
 
 [Extended Data](ext_articles/08129e36.ext.json)
-
----
-
-### Voting boxes are taken to polling stations!
-
-*2024-09-21 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194296) · `ta`
-
-Sri Lanka's 2024 presidential election results: Gotabhaya Rajapakse wins with 52.25% of votes. First results announced at midnight. 17 million eligible voters cast ballots across 22 districts.
-
-🟩
-
-The 2024 presidential election voting was completed independently and quietly on Saturday (21st).
-
-The voting, which began at 7 am today, ended at 4 pm.
-
-In this case, voting boxes from polling stations have been taken to polling stations.
-
-The first election result will be released at midnight today, said Saman Sri Ratnayake, Commissioner General of the Election Commission.
-
-With 38 presidential candidates contesting this time, 17, 140,354 were eligible to vote.
-
-In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3,151 voting centers in the Colombo Election District.
-
-Gotabhaya Rajapakse, who contested the presidential candidate of Sri Lanka PA as the presidential candidate, was elected as the 7th Executive President of the country with 52.25 per cent votes with 52.25 per cent votes.
-
-...
-
-[Data](articles/c3e05b41.json)
-
-[Extended Data](ext_articles/c3e05b41.ext.json)
 
 ---
 
@@ -2167,175 +2371,5 @@ The new president is expected to be declared by Sunday (22) if the counting proc
 [Data](articles/e01a0607.json)
 
 [Extended Data](ext_articles/e01a0607.ext.json)
-
----
-
-### Presidential election begins
-
-*2024-09-21 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201250) · `si`
-
-Presidential election starts today. Voting takes place at 13,421 locations nationwide from 7:00 AM to 4:00 PM.
-
-🟩
-
-Accordingly, the election is scheduled to be held from 13,421 polling centers across the country from 7.00 am to 4.00 pm.
-
-◼️
-
-[Data](articles/011d3336.json)
-
-[Extended Data](ext_articles/011d3336.ext.json)
-
----
-
-### Presidential Poll 2024: Sri Lanka to vote today in crucial election
-
-*2024-09-21 06:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102109/presidential-poll-2024-sri-lanka-to-vote-today-in-crucial-election) · `en`
-
-Over 17 million Sri Lankans will have the chance to vote for the country’s next president today (September 21) in a crucial presidential election, the first major poll to be held after Sri Lanka’s worst economic crisis in 2022.
-
-A record-breaking 38 candidates are contesting this year’s election, the highest number of presidential candidates in the country’s history.
-
-A total of 17,140,354 Sri Lankans are eligible to vote, with the Gampaha District registering the highest number of voters with 1,881,129.
-
-Colombo District is second with 1,765,351 registered voters, and Kurunegala District has 1,417,226 voters. The Northern Province has a combined total of 899,268 registered voters.
-
-Voting will take place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (21).
-
-Eligible voters are required to carry one of nine accepted forms of identification to cast their vote:
-
-8. Temporary ID card issued by the Election Commission for disabled persons
-
-...
-
-[Data](articles/31db4c57.json)
-
-[Extended Data](ext_articles/31db4c57.ext.json)
-
----
-
-### Selecting the 9th Executive President election today
-
-*2024-09-21 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201249) · `si`
-
-Sri Lanka's 9th Executive President election summary: 39 candidates, 17.14 million voters, 13,421 polling centers, voting from 7 AM to 4 PM. Highest turnout in Gampaha district. Lowest in Vavuniya, Mannar, Mullaitivu.
-
-🟩
-
-The election of the 9th Executive president in Sri Lanka is scheduled to commence today (21).
-
-Chairman of the Election Commission RML Ratnayake requests voters to go in the morning and vote.
-
-Accordingly, the election will commence in 13,421 polling centers across the country from 7.00 am to 4 pm.
-
-The number of candidates who sat for the presidential election in the history of the country have come forward.
-
-39 candidates have volunteered to do so, it was reduced to 38 with the death of Mr. Mohammed requests.
-
-Meanwhile, 17,140,354 are the total number of voters eligible for the presidential election.
-
-The Gampaha District has been elected district with the highest voter turnover among the 10 electoral districts and 1,881,129 registered voters in the district.
-
-The number of registered voters in the Kurunegala District is 1,417,226 and the number of voters in the Kandy district is 1,191,399.
-
-...
-
-[Data](articles/3c231401.json)
-
-[Extended Data](ext_articles/3c231401.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-09-21 06:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102108/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts with fairly heavy showers of about 50 mm likely at some places.
-
-Several spells of showers may occur in North-western province and in Matale district, it said.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva provinces during the evening or night.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central and Southern provinces and in Matale and Puttalam districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/a6fc905c.json)
-
-[Extended Data](ext_articles/a6fc905c.ext.json)
-
----
-
-### History: Sri Lanka's first presidential election- 1982 Veerakesari ...
-
-*2024-09-21 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194103) · `ta`
-
-Sri Lanka's 1st presidential election 1982: J.R. Jayewardene re-elected as president. Multi-party competition. Strong police presence during voting. Weerakesari magazine coverage.
-
-🟩
-
-Who is the winner in the multi -competition field?Who is the new President elected by the people?Sri Lanka's 9th presidential election will be held nationwide on Saturday (21st).
-
-Voting has been carried out amidst the strong security of the police who are on duty throughout the country.
-
-Today, the country, which is a political turning point, faced Sri Lanka's first presidential election on October 20, 1982.
-
-On the front page of the Weerakesari magazine published in Attikathi, the news was published on the topic "Cooperate in the election today: go and vote for the time - the Election Commissioner Request."
-
-Also, here are the photos and some news published on the country's first presidential election on October 20, 1982, on October 20, 1982.
-
-◼️
-
-[Data](articles/5314e0e9.json)
-
-[Extended Data](ext_articles/5314e0e9.ext.json)
-
----
-
-### Charting Sri Lanka’s Future: A Political Economy Blueprint For The Next Presidency
-
-*2024-09-21 05:58:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/charting-sri-lankas-future-a-political-economy-blueprint-for-the-next-presidency/) · `en`
-
-...
-
-[Data](articles/3d109d05.json)
-
-[Extended Data](ext_articles/3d109d05.ext.json)
-
----
-
-### Basis For Voting To Select Next Members Of Parliament & The President
-
-*2024-09-21 05:33:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/basis-for-voting-to-select-next-members-of-parliament-the-president/) · `en`
-
-It is alarming that many middle-class Sri Lankans, the majority group, continue to rely on family-driven, self-proclaimed, high-class politicians to lead the country, from the presidency to the parliament. These families, who have held the reins of power for the past five decades, have failed to uplift the nation socially, morally, and economically. This has led to a decline in the country’s wealth and foreign reserves, and an increase in unemployment, poverty, and malnutrition. Sri Lanka has been ensnared in this destructive cycle for far too long, and the need for a change in the political system is more urgent than ever.
-
-...
-
-[Data](articles/c9665dbe.json)
-
-[Extended Data](ext_articles/c9665dbe.ext.json)
-
----
-
-### Sri Lanka goes for presidential poll amid uncertainty, partial recovery from crisis
-
-*2024-09-21 04:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-goes-for-presidential-poll-amid-uncertainty-partial-recovery-from-crisis-180231/) · `en`
-
-ECONOMYNEXT – Sri Lanka is going for presidential elections Saturday to elect the ninth president with with candidates promising salary hikes for state workers, more handouts for the poor and tax cuts as the economy recovered from a currency collapse that pushed inflation to 70 percent.
-
-The island nation’s 17.1 million voters will elect the new leader in the poll in which the winner is widely expected to be chosen after a second preferential vote count due to a tight race among the top three candidates.
-
-Fighting against corruption, economic recovery from the debt crisis, tax reduction, granting concessions, public sector salary hike, and debt restructuring under International Monetary Fund (IMF) reforms have been at the centre stage of the campaigns.
-
-The election comes two years after a political crisis that ousted former president Gotabaya Rajapasa and his government after mass protests following forex shortages and a currency crisis from rate cuts.
-
-...
-
-[Data](articles/5f58bab1.json)
-
-[Extended Data](ext_articles/5f58bab1.ext.json)
 
 ---

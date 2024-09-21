@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 04:38:09**
+As of **2024-09-22 05:07:45**
 
 ## Newspaper Stats
 
-*Scraped **45,221** Articles*
+*Scraped **45,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,28 +17,106 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,173
 dailymirrorlk | 4,733
-adaderanalk | 5,325
+adaderanalk | 5,328
 tamilmirrorlk | 5,941
 virakesarilk | 7,241
-adaderanasinhalalk | 7,759
+adaderanasinhalalk | 7,762
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,220 (100.0%) of 45,221 articles have been extended.
+45,227 (100.0%) of 45,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
 
-### மட்டக்களப்பு மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+### Results of Ambalangoda polling division
+
+*2024-09-22 04:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102149/results-of-ambalangoda-polling-division-) · `en`
+
+The results of the Ambalangoda polling division in Galle District for the 2024 Presidential Election have been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has topped the Ambalangoda polling division securing 33,026 votes.
+
+◼️
+
+[Data](articles/e017405c.json)
+
+[Extended Data](ext_articles/e017405c.ext.json)
+
+---
+
+### Galle - Ambalangoda
+
+*2024-09-22 04:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201301) · `si`
+
+Anura Kumara Dissanayake wins Ambalangoda electorate in Galle District with 33,026 votes.
+
+🟩
+
+The official voting outcome of the Ambalangoda Electorate in Galle District has been released and Anura Kumara Dissanayake has won the area with 33,026 votes.
+
+◼️
+
+[Data](articles/2adab80a.json)
+
+[Extended Data](ext_articles/2adab80a.ext.json)
+
+---
+
+### Anura Kumara wins Matara polling division
+
+*2024-09-22 04:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102148/anura-kumara-wins-matara-polling-division) · `en`
+
+The results of the Matara polling division in Matara District for the 2024 Presidential Election have been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake coming up top.
+
+Dissanayake has received the highest number of votes in the Matara polling division with a total of 43,827 votes.
+
+◼️
+
+[Data](articles/58c6acdd.json)
+
+[Extended Data](ext_articles/58c6acdd.ext.json)
+
+---
+
+### Matara District - Matara
+
+*2024-09-22 04:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201300) · `si`
+
+Matara District election results: Anura Kumara Dissanayake leads with 43,827 votes.
+
+🟩
+
+The official voting outcome of the Matara Electorate in the Matara District has been released and Anura Kumara Dissanayake is returning ahead of 43,827 votes.
+
+◼️
+
+[Data](articles/2100ec12.json)
+
+[Extended Data](ext_articles/2100ec12.ext.json)
+
+---
+
+### Batticaloa District: Postal Voting
 
 *2024-09-22 04:14:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344130) · `ta`
+
+Here's a summary of "Batticaloa District: Postal Voting" in approximately 200 characters:
+
+
+
+Batticaloa District postal voting system overview. Key points: voter registration process, ballot design, voting centers, security measures, and election day procedures. The system aims to increase voter accessibility and reduce fraud risks while maintaining transparency and fairness.
+
+🟩
 
 ◼️
 
 [Data](articles/95616c53.json)
+
+[Extended Data](ext_articles/95616c53.ext.json)
 
 ---
 
@@ -75,6 +153,28 @@ Anuradhapura District conducts postal voting for elections. Eligible voters rece
 [Data](articles/aa7662fc.json)
 
 [Extended Data](ext_articles/aa7662fc.ext.json)
+
+---
+
+### Digamadulla Official Postal Vote
+
+*2024-09-22 04:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201299) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Anura Kumara Dissanayake released after casting 11,120 postal votes in Digamadulla."
+
+🟩
+
+Anura Kumara Dissanayake is released after 11,120 votes.
+
+◼️
+
+[Data](articles/2843d757.json)
+
+[Extended Data](ext_articles/2843d757.ext.json)
 
 ---
 
@@ -1762,6 +1862,22 @@ Watch the live broadcast below and stay tuned for the results of the 2024 Presid
 
 ---
 
+### Ada Derana’s special live broadcast of election results
+
+*2024-09-21 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102128/ada-deranas-special-live-broadcast-of-election-results-) · `en`
+
+Ada Derana’s special live broadcast of the results of the 2024 Presidential Election commenced, a short while ago.
+
+Watch the live broadcast below and stay tuned for the results of the 2024 Presidential Election as and when they are released.
+
+◼️
+
+[Data](articles/efb0562b.json)
+
+[Extended Data](ext_articles/efb0562b.ext.json)
+
+---
+
 ### 2024 Presidential Poll the most peaceful in history with no violence reported - EC
 
 *2024-09-21 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102127/2024-presidential-poll-the-most-peaceful-in-history-with-no-violence-reported-ec) · `en`
@@ -2131,145 +2247,5 @@ Monday, the 23rd, has been announced as a special holiday.
 [Data](articles/2cab6e75.json)
 
 [Extended Data](ext_articles/2cab6e75.ext.json)
-
----
-
-### September 23 declared a public holiday
-
-*2024-09-21 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102125/september-23-declared-a-public-holiday) · `en`
-
-The government has declared September 23 (Monday) as a special public holiday, in view of the post-presidential election period.
-
-This was communicated in a special statement issued by the Ministry of Home Affairs.
-
-◼️
-
-[Data](articles/9bb1c253.json)
-
-[Extended Data](ext_articles/9bb1c253.ext.json)
-
----
-
-### Special public holiday will be held on Sep.23
-
-*2024-09-21 18:56:23* · [`adalk`](https://www.ada.lk/breaking_news/සැප්-23-දා-විශේෂ-රජයේ-නිවාඩු-දිනයක්-කරයි/11-412059) · `si`
-
-September 23: Special government holiday declared by Ministry of Public Administration.
-
-🟩
-
-A special government holiday has been declared on September 23. The Ministry of Public Administration has announced this special public holiday.
-
-◼️
-
-[Data](articles/a38630c9.json)
-
-[Extended Data](ext_articles/a38630c9.ext.json)
-
----
-
-### Sept. 23 Special Holiday
-
-*2024-09-21 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201274) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Sept 23 declared special holiday. Secretary Ministry Home Affairs Provincial Councils Local Government informs Pradeep Yasaratne."
-
-🟩
-
-September 23 has been declared as a special holiday.
-
-Secretary, Ministry of Home Affairs, Provincial Councils, Provincial Councils and Local Government informs Pradeep Yasaratne
-
-◼️
-
-[Data](articles/db770d15.json)
-
-[Extended Data](ext_articles/db770d15.ext.json)
-
----
-
-### FACTBOX – Sri Lanka’s past presidential elections, results
-
-*2024-09-21 18:43:00* · [`economynextcom`](https://economynext.com/factbox-sri-lankas-past-presidential-elections-results-180310/) · `en`
-
-ECONOMYNEXT – Sri Lanka closed polling for the presidential election at 1600 hours on Saturday (21) amid a tight race among the top three candidates: President Ranil Wickremesinghe, opposition leader Sajith Premadasa, and Marxists party leader Anura Kumara Dissanayaka.
-
-Analysts expect the winner to be chosen after second preferential vote counting for the first time in Sri Lankan history because no candidate is expected to secure more than 50 percent.
-
-Here’s a list of all the Sri Lankan Presidential Election results since the establishment of the executive presidency in 1978:
-
-Main Opponent: Hector Kobbekaduwa (Sri Lanka Freedom Party – SLFP)
-
-This was the first presidential election in Sri Lanka, and Jayewardene was the incumbent prime minister who became the country’s first executive president in 1978.
-
-Main Opponent: Sirimavo Bandaranaike (Sri Lanka Freedom Party – SLFP)
-
-...
-
-[Data](articles/cc24aa86.json)
-
-[Extended Data](ext_articles/cc24aa86.ext.json)
-
----
-
-### Let us join peacefully and go to a new trip
-
-*2024-09-21 18:34:13* · [`adalk`](https://www.ada.lk/breaking_news/සාමකාමීව-කටයුතු-කර-අලුත්-ගමනක්-යාමට-එක්වෙමු/11-412058) · `si`
-
-President Wickremesinghe visits Vidy Center, calls for peaceful unity and new journey for Sri Lanka. Emphasizes democracy and building a new political-social system. Expresses gratitude to voters and candidates.
-
-🟩
-
-President Ranil Wickremesinghe and Professor Maithree Wickremasinghe visited the Vidy Center at the University of Colombo today (21).
-
-Speaking to the media, the President said that everyone should be peaceable and to take a new trip.
-
-President Ranil Wickremesinghe, who recalled that he could end the situation in Sri Lanka, it was decided that he was able to hold the backdrop of the election today and said the future of the people of Sri Lanka.
-
-In response to a new leadership, the President said that this was the right time to consider the situation in the country, the President said that this was the right time to consider this.. The President said that he was humble and proud to be able to hold the democratic rights of the people and said that he was committed to protecting the democratic rights of the people.
-
-The President pointed out that the election is a circular point in Sri Lanka and is a valuable to build a new social and political system in the country.
-
-...
-
-[Data](articles/d280751b.json)
-
-[Extended Data](ext_articles/d280751b.ext.json)
-
----
-
-### Burst Look release of Mahendran starring 'Pulse'
-
-*2024-09-21 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194306) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil film "Pulse" stars Mahendran, Rishika Kapoor. Directed by Naveen Ganesh, produced by Raj Jayapalan. First look released, filming ongoing.
-
-🟩
-
-Actor Mahendran, who is struggling to get the market value of being a star actor in the Tamil film industry, has been named 'Pulse' and its first look has been released.
-
-Master Mahendran and Rishika Kapoor are playing the lead roles in 'Pulse' directed by debutant director Naveen Ganesh.
-
-K. Ravi Varma is a cinematography.. R. Abhishek has composed the music.
-
-The film was produced by producer Raj Jayapalan on behalf of Global Pictures.
-
-The first shooting of the film is currently underway. In this case, the film is titled 'Pulse' and its first look has been released.
-
-Mahendran, the hero of the story in this poster, is on the lookout for the film, as the back appearance of the film has increased.
-
-◼️
-
-[Data](articles/f38df8a8.json)
-
-[Extended Data](ext_articles/f38df8a8.ext.json)
 
 ---

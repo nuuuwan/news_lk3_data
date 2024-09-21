@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 16:22:38**
+As of **2024-09-21 16:37:59**
 
 ## Newspaper Stats
 
-*Scraped **45,082** Articles*
+*Scraped **45,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ dbsjeyarajcom | 378
 bbccomsinhala | 439
 colombotelegraphcom | 452
 islandlk | 2,656
-economynextcom | 2,729
+economynextcom | 2,734
 dailyftlk | 3,017
-adalk | 4,162
+adalk | 4,164
 dailymirrorlk | 4,733
 adaderanalk | 5,299
 tamilmirrorlk | 5,911
-virakesarilk | 7,217
+virakesarilk | 7,219
 adaderanasinhalalk | 7,726
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,082 (100.0%) of 45,082 articles have been extended.
+45,088 (100.0%) of 45,091 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,30 @@ The voting for the 2024 Presidential Election has officially concluded at 4.00 p
 [Data](articles/633857d2.json)
 
 [Extended Data](ext_articles/633857d2.ext.json)
+
+---
+
+### Sri Lanka presidential election candidates cast vote, speak to media
+
+*2024-09-21 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidential-election-candidates-cast-vote-speak-to-media-180283/) · `en`
+
+ECONOMYNEXT — Sri Lanka presidential election candidates Ranil Wickremesinghe, Sajith Premadasa and Anura Kumara Dissanayake cast their votes Saturday September 21 morning.
+
+Speaking to an Indian reporter at his local polling booth, President Wickremesinghe said he plans to develop Sri Lanka.
+
+“My hopes are for Sri Lanka, that we’ll have a developed Sri Lanka. As I said, Sri Lanka can and Sri Lanka will,” he said.
+
+Noting that this election is being framed as a contest between the old guard and a new political formation, the journalist asked Wickremesinghe to comment.
+
+“No, no, no, the old guard ran away. I’m putting a new (policy? unclear) for Sri Lanka,” Wickremesinghe responded.
+
+“I’ve already delivered. I’ve taken this country out of bankruptcy. I will now deliver Sri Lanka with a developed economy, a developed social system and a developed political system where leaders don’t run away, ” he said.
+
+...
+
+[Data](articles/a77c820d.json)
+
+[Extended Data](ext_articles/a77c820d.ext.json)
 
 ---
 
@@ -65,6 +89,50 @@ However, the Elections Commission (EPL) has informed the Elections for the penin
 [Data](articles/beeb29e2.json)
 
 [Extended Data](ext_articles/beeb29e2.ext.json)
+
+---
+
+### Sri Lanka EC validates pencil-marked ballot paper
+
+*2024-09-21 15:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-validates-pencil-marked-ballot-paper-180290/) · `en`
+
+ECONOMYNEXT – Ballot papers marked with pencil will be valid and accepted in Sri Lanka’s Presidential poll, the Election Commission (EC) said after complaints over some polling stations using pencils instead of carbon-pen, the EC said in a statement on Saturday.
+
+“Carbon pens have been provided to all polling stations to mark ballot papers. However, the Election Commission has received complaints of pencils being used to mark ballot papers in some polling stations as in the past,” the EC said in a statement issued around 1500 hours.
+
+“With this regard, the Commission has already advised the relevant polling stations to use carbon pens.”
+
+“The Election Commission, however, would like to make voters aware that no ballot paper marked with pencils instead of carbon pens will be invalidated and not to have any doubts on this.” (Colombo/September 21/2024)
+
+◼️
+
+[Data](articles/aed3e470.json)
+
+[Extended Data](ext_articles/aed3e470.ext.json)
+
+---
+
+### Elections are peaceful - crying law
+
+*2024-09-21 15:39:04* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණය-සාමකාමීයි---අවශ්‍ය-වුවහොත්-ඇඳිරි-නීතිය-දානවා/11-412054) · `si`
+
+Elections peaceful: Curfews imposed to ensure safety. Security measures effective. Police and armed forces praised. No tolerance for violence. Maximum power used to maintain order.
+
+🟩
+
+The Voting for the Presidential Election 2024 is peaceful.
+
+He said curfews to impose a curfew at some point.
+
+"The security measures are going well on the country, the police and the armed forces. And this vote is very peaceful. I thank all the police officers and the public.
+
+We will not allow any violence. We use it by using the maximum power. If we put curfew, we will put the curry law and operates so hard. "
+
+◼️
+
+[Data](articles/24d43dda.json)
+
+[Extended Data](ext_articles/24d43dda.ext.json)
 
 ---
 
@@ -112,6 +180,32 @@ Voting for the presidential election commenced at 7.00 a.m. this morning at 13,4
 
 ---
 
+### Risk of flooding;Order to exit people in two cities in Japan
+
+*2024-09-21 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194277) · `ta`
+
+Heavy rain forecast prompts evacuation orders for 30,000 in central Japan. 18,000 in Vajima and 12,000 in Susu advised to seek shelter in Ishikawa Province. High warning issued for heavy rains across multiple regions. Water levels exceed shores in 12 rivers. Area still recovering from January earthquake.
+
+🟩
+
+Weather forecasts have warned that heavy rains in Japan will cause flooding. As a result, 30,000 people in two cities in Central Japan have been ordered to leave.
+
+Accordingly, about 18,000 people in Vajima and 12,000 people in Susu have been advised to seek asylum in Ishikawa Province in Honshu Island.
+
+The Department of Meteorology has issued a high warning of heavy rains in many provinces in Japan.
+
+Japan's public broadcasting company NHK reports that the water level of 12 rivers has crossed the shore.
+
+It is noteworthy that the area is currently recovering from the 7.5 magnitude earthquake on the New Year.
+
+◼️
+
+[Data](articles/b3a53443.json)
+
+[Extended Data](ext_articles/b3a53443.ext.json)
+
+---
+
 ### Percentage of voting by 2 districts in several districts
 
 *2024-09-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201264) · `si`
@@ -134,6 +228,26 @@ The percentage of elections in several districts will be shown today (21).
 
 ---
 
+### The curfew will be issued if needed;Train Ales
+
+*2024-09-21 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194278) · `ta`
+
+Curfew may be implemented if unrest occurs. Public Security Minister appeals for calm during peaceful presidential election.
+
+🟩
+
+Public Security Minister Thon Alas told journalists today (21) that the curfew would be imposed and curfew would be tightened if the violence erupted.
+
+“The presidential election is being held quietly. I appeal to the public and political party leaders to maintain this situation.. We have done everything we can to ensure the safety of the nation during the presidential election. ”
+
+◼️
+
+[Data](articles/1f072eff.json)
+
+[Extended Data](ext_articles/1f072eff.ext.json)
+
+---
+
 ### The voting results before 12 midnight
 
 *2024-09-21 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201263) · `si`
@@ -149,6 +263,44 @@ The Commissioner General of Elections Saman Sri Ratnayake said that the Presiden
 [Data](articles/85c7288b.json)
 
 [Extended Data](ext_articles/85c7288b.ext.json)
+
+---
+
+### Explainer: Sri Lanka’s key political risks after presidential election
+
+*2024-09-21 14:25:00* · [`economynextcom`](https://economynext.com/explainer-sri-lankas-key-political-risks-after-presidential-election-180287/) · `en`
+
+ECONOMYNEXT – Sri Lanka is in the process of electing its ninth president poll for the next five years among a record 38 candidates as the island nation is looking to come out of unprecedented bankruptcy declared in 2022.
+
+The election comes two years after President Ranil Wickremesinghe was elected as the 8th leader of the country through the parliament in an unprecedented manner after his predecessor Gotabaya Rajapaksa fled the country fearing for his life in July 2022 amid mass protests across the country following an economic crisis.
+
+Wickremesinghe, since then, had to implement a raft of hard economic reforms committed to the International Monetary Fund (IMF) including tax hikes and new laws to ensure the economic recovery under an IMF programme.
+
+...
+
+[Data](articles/c16f1497.json)
+
+[Extended Data](ext_articles/c16f1497.ext.json)
+
+---
+
+### ගම් කිහිපයකටම ඡන්දය අහිමි කිරීමේ වරද කාගෙද?
+
+*2024-09-21 13:43:22* · [`adalk`](https://www.ada.lk/breaking_news/ගම්-කිහිපයකටම-ඡන්දය-අහිමි-කිරීමේ-වරද-කාගෙද-/11-412053) · `si`
+
+රත්ගම ආසනයේ මාදම්පා මධ්‍ය විදුහලේ පවත්වාගෙන ගිය ඡන්ද මධ්‍යස්ථානයට පැමිණි විශාල පිරිසකට සිය   ඡන්ද පතිකාවේ හැදුනුම්පත් අංකය වැරදියට මුදණය කර තිබීම නිසා ඔවුනට ඡන්දය නොදමා ආපසු යාමට සිදුවූහ.
+
+අම්බලන්ගොඩ මාදම්පාගම සහ ඒ අවට ගාම නිලධාරීවසම් කිහිපයක ජන්දදායකයන් රැසකටම මේ අකටයුත්තට මුහුණදීමට අද(21) සිදුවූහ.
+
+ඔවුනගේ ඡන්ද පතිකාවේ හැඳුනුම්පත් අංකය  වැරදියට සටහන් වී  තිබුණ නමුත් එම පතිකාවේ  නම නිවැරදි වුවත් ඡන්දය දීමට එම  ජනතාවට එම චන්ද මධස්ථානයෙන් ඉඩ නොදුන් බව ඔවුහු පැවසූහ.
+
+මේ සම්බන්ධයෙන් මැතිවරණ කොමිෂමට හා මානව හිමිකම් කොමිෂන් සභාවට පැමිණිළි කරන බව මේ අසාධාරණයට ලක්වූ ජනතාව කීහ
+
+මේ  එම  ඡන්ද පතිකා කිහිපයක නම් නිවැරදිවට මුදණයවී තිබුණත් හැදුනුම්පත් අංක වැරදියට මුදණයවී තිබෙන අයුරුයි.
+
+◼️
+
+[Data](articles/451772fa.json)
 
 ---
 
@@ -288,6 +440,28 @@ A part of the suspected ballot was placed in his pants pocket and the rest of th
 
 ---
 
+### 2024 Presidential Election Voting: Status at 10 am
+
+*2024-09-21 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194244) · `ta`
+
+Here's a summary of the 2024 Presidential Election Voting status in 200 characters:
+
+
+
+Kalutara: 32%, Nuwara Eliya: 30%, Mullaitivu: 25%, Mannar: 29%, Gampaha: 25%
+
+🟩
+
+In the 2024 presidential polling polls, 32 percent of the voting in the Kalutara district, 30 percent of the voting in the Nuwara Eliya district, 25 percent voting in the Mullaitivu district30 percent of the voting, 29 percent of the voting in Mannar district and 25 percent of the voting in Gampaha district.
+
+◼️
+
+[Data](articles/c6410ef3.json)
+
+[Extended Data](ext_articles/c6410ef3.ext.json)
+
+---
+
 ### "Curfew if needed"
 
 *2024-09-21 12:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவை-ஏற்பட்டால்-ஊரடங்கு/175-344084) · `ta`
@@ -394,28 +568,6 @@ Specifications have been published by the officers who voted in several other di
 
 ---
 
-### 2024 Presidential Election Voting: Status at 10 am
-
-*2024-09-21 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/194244) · `ta`
-
-Here's a summary of the 2024 Presidential Election Voting status in 200 characters:
-
-
-
-Kalutara: 32%, Nuwara Eliya: 30%, Mullaitivu: 25%, Mannar: 29%, Gampaha: 25%
-
-🟩
-
-In the 2024 presidential polling polls, 32 percent of the voting in the Kalutara district, 30 percent of the voting in the Nuwara Eliya district, 25 percent voting in the Mullaitivu district30 percent of the voting, 29 percent of the voting in Mannar district and 25 percent of the voting in Gampaha district.
-
-◼️
-
-[Data](articles/c6410ef3.json)
-
-[Extended Data](ext_articles/c6410ef3.ext.json)
-
----
-
 ### Mirihana murder suspect
 
 *2024-09-21 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201259) · `si`
@@ -479,6 +631,24 @@ Voting for the presidential election is currently taking place at 13,421 polling
 [Data](articles/d7298904.json)
 
 [Extended Data](ext_articles/d7298904.ext.json)
+
+---
+
+### Sri Lanka EC becomes flexible on poll closing
+
+*2024-09-21 10:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-becomes-flexible-on-poll-closing-180281/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Election Commission has decided to allow all the voters who have arrived at 4 pm to their respective polling booths to cast their votes instead of closing the polling booths at that time, Commissioner General of Election said.
+
+“Instead of closing polling at 4 pm we have decided to allow all those who will line up at their respective polling booths to cast their votes,” Saman Sri Ratnayaka, the Commissioner General of Election, told Economy Next.
+
+“There could be situations where voters turning to their polling booth late because of work and some other issues specially in plantation areas. So one polling booth officer will stand in the line at 4 pm and all the voters who have lined up before the officer will be allowed to cast their votes.”
+
+“However, people who arrive at the polling booth after 4 pm or who join the line behind the officer will not be allowed.”
+
+...
+
+[Data](articles/153f3974.json)
 
 ---
 
@@ -1264,6 +1434,22 @@ Taking the vote is banned to take a mobile phone to the polling station.
 
 ---
 
+### Voting starts in Sri Lanka’s Presidential poll with record candidates
+
+*2024-09-21 07:19:00* · [`economynextcom`](https://economynext.com/voting-starts-in-sri-lankas-presidential-poll-with-record-candidates-180270/) · `en`
+
+ECONOMYNEXT – Voting in Sri Lanka’s presidential poll started on Saturday to elect a leader for the next five years with a record 38 candidates vying for the plum post of the island nation.
+
+The voting started at 0700 hours local time (0130 GMT) and will go until 1600 hours (1030 GMT). A record 17.1 million voters are eligible to cast their votes.
+
+The new president is expected to be declared by Sunday (22) if the counting process goes smoothly, Election Commission officials have said. (Colombo/September 21/2024)
+
+◼️
+
+[Data](articles/e01a0607.json)
+
+---
+
 ### Presidential election begins
 
 *2024-09-21 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201250) · `si`
@@ -2027,177 +2213,5 @@ Ceylon Energy, in partnership with HJT China, proudly announces the successful c
 [Data](articles/2987a125.json)
 
 [Extended Data](ext_articles/2987a125.ext.json)
-
----
-
-### SIUK Lanka obtains enjoining orders restraining illegally-obtained data use by ex-employee
-
-*2024-09-20 23:50:28* · [`dailyftlk`](https://www.ft.lk/business/SIUK-Lanka-obtains-enjoining-orders-restraining-illegally-obtained-data-use-by-ex-employee/34-766963) · `en`
-
-The plaintiff, SIUK Lanka Ltd., instituted legal proceedings in respect of an ex-employee, the defendant, who had violated the intellectual property rights of the plaintiff by stealing the plaintiff’s data.
-
-The plaintiff’s position, as set out in its plaint, is that they are the Sri Lankan branch of the world-renowned “SIUK Global”, a United Kingdom-based international education consultant organisation, which works with universities and higher education institutions and helps students with the application and selection process for foreign universities including inter alia in the UK, USA, Canada, Ireland, Australia, New Zealand and Dubai. Operating since 2006 and now having over 90 offices in over 40 countries across the world, “SIUK Global” has partnerships with over 100 universities worldwide and assists more than 10,000 students annually.
-
-...
-
-[Data](articles/05f9a5c9.json)
-
-[Extended Data](ext_articles/05f9a5c9.ext.json)
-
----
-
-### Markspen Holdings opens “Smart Hub” in Kurunegala
-
-*2024-09-20 23:50:16* · [`dailyftlk`](https://www.ft.lk/business/Markspen-Holdings-opens-Smart-Hub-in-Kurunegala/34-766962) · `en`
-
-From left: Directress Dinali Galanga,General Manager Duleep Gunasekera, Directress Sigithi Galanga, Chairman Amil Galanga, Director Suresh Galanga
-
-In an effort to bring superior quality products and services to consumers under one roof, the sole importer and distributor of the DOMA CTP20 automatic rice mill, Markspen Holdings Ltd. recently opened doors to its brand-new showroom in Kurunegala.
-
-The state-of-the-art “Smart Hub” is located at No.389 Bamunuwela, Kurunegala. The new smart hub embodies the theme “We design your future” and ensures that customers get superior quality products and services.
-
-The opening ceremony took place under the patronage of Markspen Group Chairman Amil Galanga. Directors Suresh Galanga and Dinali Galanga, Group General Manager Duleep Gunasekera, and members of staff were also present.
-
-...
-
-[Data](articles/9ddd1e97.json)
-
-[Extended Data](ext_articles/9ddd1e97.ext.json)
-
----
-
-### The SLASSCOM Mega Mind Quiz Show 2024: An evening of intellectual challenge and networking
-
-*2024-09-20 23:48:57* · [`dailyftlk`](https://www.ft.lk/business/The-SLASSCOM-Mega-Mind-Quiz-Show-2024-An-evening-of-intellectual-challenge-and-networking/34-766961) · `en`
-
-From left: SLASSCOM Executive Director Chaminda de Silva, ADA South Asia Regional Head and Board Director Sanjini
-
-Munaweera, Hexaware Technologies SL Country Head Hariharan Padbanaban, Head of Talent Acquisition Roshen Warnacula
-
-The SLASSCOM Mega Mind Quiz Show 2024, promises to deliver an evening brimming with brain-teasing excitement and networking opportunities. This highly anticipated event is crafted to elevate member engagement and foster collaboration across the tech community.
-
-The quiz will feature rounds that test participants’ knowledge that include current affairs and global politics, general knowledge, technology and trends, sports and entertainment. This diverse array of topics is designed to offer a stimulating experience that promotes continuous learning and will test participants’ knowledge across various domains.
-
-...
-
-[Data](articles/b447ada2.json)
-
-[Extended Data](ext_articles/b447ada2.ext.json)
-
----
-
-### The path ahead after the poll
-
-*2024-09-20 23:35:05* · [`dailyftlk`](https://www.ft.lk/columns/The-path-ahead-after-the-poll/4-766955) · `en`
-
-Vote wisely, and well then, with an eye on the general elections to follow – Pic by Shehan Gunasekara
-
-A radical point has been made often enough: It is an election like no other in our nation’s history.
-
-On one hand, the first election since the flaring up and fading away of the Aragalaya. So Sri Lanka’s most vocal demographic’s premier opportunity to press the case again. There is so much at stake for all those representative stakeholders who agitated for ‘system change’.
-
-On the other hand, one last stand for the traditional parties who are an entrenched part of the system to fight to retain their bastions of influence and privilege. For them too, those powerful elites who have enjoyed state capture at the expense of the poor, average citizens and others marginalised in many ways, so much is at stake...
-
-Today there is no time to think too much. There was a time for that, and it was all our yesterdays leading up to that box inside this polling booth.
-
-...
-
-[Data](articles/8e342c8f.json)
-
-[Extended Data](ext_articles/8e342c8f.ext.json)
-
----
-
-### Ethnic reconciliation must be priority for new President
-
-*2024-09-20 23:32:26* · [`dailyftlk`](https://www.ft.lk/opinion/Ethnic-reconciliation-must-be-priority-for-new-President/14-766954) · `en`
-
-As the Presidential election campaign draws to a close, the focus must shift from electoral competition to the urgent challenges facing the country. While the election outcome remains uncertain, what is clear is that the next President will inherit a country grappling with economic instability and deep-rooted problems of impunity and corruption. A pressing challenge that also needs to be at the forefront of the Government that is formed is the need to resolve the long-standing ethnic conflict through a sustainable political solution based on the devolution of power. The new President must prioritise this issue to bring lasting peace and unity to the country.
-
-...
-
-[Data](articles/57208e5c.json)
-
-[Extended Data](ext_articles/57208e5c.ext.json)
-
----
-
-### Commonwealth observers deployed across Sri Lanka in preparation of voting
-
-*2024-09-20 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102107/commonwealth-observers-deployed-across-sri-lanka-in-preparation-of-voting) · `en`
-
-Commonwealth observers, working across various teams, have reported to their posts across all nine provinces in Sri Lanka, ahead of the country’s presidential election on 21 September 2024, a statement said.
-
-The teams have been deployed to; Central, Eastern, North Central, Northern, Northwestern, Sabaragamuwa, Southern, Uva and Western and will be observing pre-poll arrangements in the run up to election day.
-
-The teams will be present when voting begins at 7am, and will observe the process until the polls close at 4 pm. As is customary, they will then observe the counting of votes and the tabulation of results.
-
-Commonwealth Observer Group Chairperson, former President of Seychelles, HE Danny Faure, who is following the process from Colombo, has also been observing pre-poll arrangements and has scouted a number of polling stations to which he will return on election day. He will be at the St Thomas Prep School station to observe as the first votes are cast.
-
-...
-
-[Data](articles/ff7d457f.json)
-
-[Extended Data](ext_articles/ff7d457f.ext.json)
-
----
-
-### Police Sergeant arrested while accepting bribe
-
-*2024-09-20 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102106/police-sergeant-arrested-while-accepting-bribe) · `en`
-
-A Police Sergeant attached to the Pothuhera Police Station has been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) while accepting a bribe from an individual.
-
-The commission said that a bribe of Rs. 5,000 was solicited by the police officer to provide a police report for a person, who has a pending court case related to illicit liquor, while excluding information related to that.
-
-According to a complaint filed with the Bribery Commission regarding this, the suspected Police Sergeant was arrested while accepting the bribe in front of the Pothuhera Police Station.
-
-The suspect is expected to be produced before the Polgahawela Magistrate’s Court.
-
-◼️
-
-[Data](articles/2f55236b.json)
-
-[Extended Data](ext_articles/2f55236b.ext.json)
-
----
-
-### A driver of drunk duties arrested
-
-*2024-09-20 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201248) · `si`
-
-Driver drunk arrest: Police detained a van driver from Deraniyagala's polling station. Authorities moved ballots and staff to another vehicle due to the incident.
-
-🟩
-
-Police have arrested the ballot, a van driver from the Deraniyagala's polling station, a van driver to a polling station in Deraniyagala.
-
-Accordingly, the authorities have taken steps to carry the ballot papers and the staff from another vehicle.
-
-◼️
-
-[Data](articles/05d586a0.json)
-
-[Extended Data](ext_articles/05d586a0.ext.json)
-
----
-
-### Election Commission announced for persons with disabilities
-
-*2024-09-20 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201247) · `si`
-
-Election Commission facilitates disabled voters: EPL announces special accommodations for persons with disabilities at polling stations.
-
-🟩
-
-In the presidential election, the Elections Commission (EPL) has facilitated the disabled voters without any inconvenience.
-
-The commission has issued an announcement and the commission has provided facilities for persons with disabilities during the election centers.
-
-◼️
-
-[Data](articles/4b0cdb18.json)
-
-[Extended Data](ext_articles/4b0cdb18.ext.json)
 
 ---

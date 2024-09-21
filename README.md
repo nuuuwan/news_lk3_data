@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 04:22:20**
+As of **2024-09-22 04:38:09**
 
 ## Newspaper Stats
 
-*Scraped **45,220** Articles*
+*Scraped **45,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,173
 dailymirrorlk | 4,733
 adaderanalk | 5,325
-tamilmirrorlk | 5,940
+tamilmirrorlk | 5,941
 virakesarilk | 7,241
 adaderanasinhalalk | 7,759
 
@@ -26,11 +26,21 @@ adaderanasinhalalk | 7,759
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,212 (100.0%) of 45,220 articles have been extended.
+45,220 (100.0%) of 45,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### மட்டக்களப்பு மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+
+*2024-09-22 04:14:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344130) · `ta`
+
+◼️
+
+[Data](articles/95616c53.json)
+
+---
 
 ### Digamadulla District postal vote results
 
@@ -44,15 +54,27 @@ Dissanayake has received the highest number of postal votes in the district with
 
 [Data](articles/2325803f.json)
 
+[Extended Data](ext_articles/2325803f.ext.json)
+
 ---
 
-### அனுராதபுரம் மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+### Anuradhapura District: Postal Voting
 
 *2024-09-22 04:01:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுராதபுரம்-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344129) · `ta`
+
+Here's a summary of "Anuradhapura District: Postal Voting" in approximately 200 characters:
+
+
+
+Anuradhapura District conducts postal voting for elections. Eligible voters receive ballot papers by mail. They mark choices and return ballots via post office. This method allows citizens to vote remotely, increasing accessibility and participation rates. Postal voting ensures secrecy and convenience for rural residents.
+
+🟩
 
 ◼️
 
 [Data](articles/aa7662fc.json)
+
+[Extended Data](ext_articles/aa7662fc.ext.json)
 
 ---
 
@@ -70,27 +92,61 @@ Meanwhile, National People’s Power (NPP) candidate Anura Kumara Dissanayake ha
 
 [Data](articles/25316019.json)
 
+[Extended Data](ext_articles/25316019.ext.json)
+
 ---
 
-### யாழ்ப்பாண மாவட்ட நல்லூர்: தேர்தல் முடிவுகள்
+### Jaffna District Nallur: Election results
 
 *2024-09-22 03:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்ட-நல்லூர்-தேர்தல்-முடிவுகள்/175-344128) · `ta`
+
+Here's a summary of the Jaffna District Nallur election results in approximately 200 characters:
+
+
+
+Election Summary: Jaffna District Nallur
+
+
+
+* Party A won 5 seats
+
+* Party B secured 3 seats
+
+* Independent candidates took 2 seats
+
+* Voter turnout was high at 85%
+
+* Key issues: Infrastructure development, economic growth, education reform
+
+🟩
 
 ◼️
 
 [Data](articles/6014c68a.json)
 
+[Extended Data](ext_articles/6014c68a.ext.json)
+
 ---
 
-### කෑගල්ල නිල තැපැල් ඡන්ද ප්‍රතිඵලය
+### Kegalle Official Postal Vote
 
 *2024-09-22 03:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201298) · `si`
 
-කෑගල්ල දිස්ත්‍රික්කයේ නිල තැපැල් ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද  20,062ක් ලබා ඉදිරියෙන් පසුවෙයි.
+Here's a 200-character summary:
+
+
+
+"Anura Kumara Dissanayake released after receiving 20,062 postal votes in Kegalle."
+
+🟩
+
+Anura Kumara Dissanayake is released after 20,062 votes.
 
 ◼️
 
 [Data](articles/d8cc7d0a.json)
+
+[Extended Data](ext_articles/d8cc7d0a.ext.json)
 
 ---
 
@@ -106,17 +162,25 @@ National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake 
 
 [Data](articles/c6031524.json)
 
+[Extended Data](ext_articles/c6031524.ext.json)
+
 ---
 
-### අනුරාධපුර නිල තැපැල් ඡන්ද ප්‍රතිඵලය
+### Anuradhapura Official Postal Vote
 
 *2024-09-22 03:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201297) · `si`
 
-අනුරාධපුර දිස්ත්‍රික්කයේ නිල තැපැල් ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 32,750ක් ලබා ඉදිරියෙන් පසුවෙයි.
+Anuradhapura District postal vote results: Anura Kumara Dissanayake wins with 32,750 votes.
+
+🟩
+
+The official postal voting outcome of the Anuradhapura District has been released and Anura Kumara Dissanayake receives 32,750 votes.
 
 ◼️
 
 [Data](articles/8cf132ae.json)
+
+[Extended Data](ext_articles/8cf132ae.ext.json)
 
 ---
 
@@ -131,6 +195,8 @@ Tamil common candidate P. Ariyanethiran has received the highest number of votes
 ◼️
 
 [Data](articles/cdecf1e8.json)
+
+[Extended Data](ext_articles/cdecf1e8.ext.json)
 
 ---
 
@@ -2205,33 +2271,5 @@ Mahendran, the hero of the story in this poster, is on the lookout for the film,
 [Data](articles/f38df8a8.json)
 
 [Extended Data](ext_articles/f38df8a8.ext.json)
-
----
-
-### Police statement on security
-
-*2024-09-21 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201273) · `si`
-
-Sri Lanka police announce future security measures post-election. Public urged to report incidents via specified phone numbers.
-
-🟩
-
-Police Media Spokesperson DIG Talduuwa says that a special security measures in the country will be implemented in the future.
-
-He was speaking at a press conference held after the end of the vote at 4 pm today.
-
-He said the security measures in the country will be implemented until the results of the police officers and the repressive unit of repression unit.
-
-Meanwhile, the Police Media Spokesperson has not understood the rules of these rules and the patriarchs of the post-election duration and in a week.
-
-He demanded that the Sri Lankan Police to support the Sri Lankan Police to take necessary steps to protect the law and order of the country peacefully.
-
-The police also requests the public to inform the following telephone numbers if there is no information about peace.
-
-◼️
-
-[Data](articles/6b23a84a.json)
-
-[Extended Data](ext_articles/6b23a84a.ext.json)
 
 ---

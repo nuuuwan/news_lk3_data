@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 15:22:37**
+As of **2024-09-21 15:38:07**
 
 ## Newspaper Stats
 
-*Scraped **45,078** Articles*
+*Scraped **45,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,729
 dailyftlk | 3,017
 adalk | 4,162
 dailymirrorlk | 4,733
-adaderanalk | 5,297
+adaderanalk | 5,298
 tamilmirrorlk | 5,910
 virakesarilk | 7,217
 adaderanasinhalalk | 7,725
@@ -26,21 +26,49 @@ adaderanasinhalalk | 7,725
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,077 (100.0%) of 45,078 articles have been extended.
+45,079 (100.0%) of 45,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-21 (Saturday)
 
-### දිස්ත්‍රික්ක කිහිපයක දහවල් 2 වනවිට ඡන්දය ප්‍රකාශ කිරීමේ ප්‍රතිශතය
+### Presidential Election: Voter turnout as at 2pm
+
+*2024-09-21 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102120/presidential-election-voter-turnout-as-at-2pm) · `en`
+
+The district-level voter turnout percentages for the 2024 Presidential Election as at 2.00 p.m. today have been reported with several districts already seeing a turnout of over 60 percent.
+
+Accordingly, the voter turnout percentages of several districts as at 2.00 p.m. today (21) are as follows:
+
+Voting for the presidential election commenced at 7.00 a.m. this morning at 13,421 polling stations across the island and will continue until 4.00 p.m.
+
+◼️
+
+[Data](articles/20c97c24.json)
+
+[Extended Data](ext_articles/20c97c24.ext.json)
+
+---
+
+### Percentage of voting by 2 districts in several districts
 
 *2024-09-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201264) · `si`
 
-අද (21) දහවල් 2 වනවිට දිස්ත්‍රික්ක කිහිපයක ඡන්ද ප්‍රකාශ කිරීමේ ප්‍රතිශත පහතින් දැක්වෙයි.
+Here's a 200-character summary:
+
+
+
+"Today (21), election percentages for several districts will be displayed. The data shows voting results from multiple areas."
+
+🟩
+
+The percentage of elections in several districts will be shown today (21).
 
 ◼️
 
 [Data](articles/838a61cb.json)
+
+[Extended Data](ext_articles/838a61cb.ext.json)
 
 ---
 
@@ -2195,35 +2223,5 @@ In the first innings, Kamindu Mendis scored only 13 runs in the second innings.
 [Data](articles/ea7cbb83.json)
 
 [Extended Data](ext_articles/ea7cbb83.ext.json)
-
----
-
-### In the hands of the people of the country in the country
-
-*2024-09-20 21:36:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-அமைதி-மக்களின்-கைகளில்/175-344068) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Police spokesperson Nihal Dalduwa: Citizens' support crucial for peaceful elections. Low election violence. 63,000 police, 11,000 armed forces, 3,000 special task force, 13,000 civil defense deployed. 241 rebel groups identified.
-
-🟩
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa today said that if all citizens support independent and fair elections, there will be a peaceful situation in the country over the next few days.
-
-During this election, he said that election violence was very low.
-
-Meanwhile, Nihal Taldua said that 63,000 police officers have been deployed to protect the polling stations and that there are 241 rebellious groups.
-
-He added that 11,000 officers from the Armed Forces have been prepared and they can call them in the event of any need.
-
-He said that about 3,000 officers of the Police Special Task Force were deployed in the election duties, while the Civil Defense Force would be carrying out the support of about 13,000 officers of the Civil Defense Force.. Remble
-
-◼️
-
-[Data](articles/dd33a294.json)
-
-[Extended Data](ext_articles/dd33a294.ext.json)
 
 ---

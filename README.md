@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-21 22:38:21**
+As of **2024-09-21 22:56:42**
 
 ## Newspaper Stats
 
-*Scraped **45,147** Articles*
+*Scraped **45,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,171
 dailymirrorlk | 4,733
 adaderanalk | 5,307
-tamilmirrorlk | 5,922
+tamilmirrorlk | 5,924
 virakesarilk | 7,232
 adaderanasinhalalk | 7,742
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,147 (100.0%) of 45,147 articles have been extended.
+45,149 (100.0%) of 45,149 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,36 @@ This period has advised the police to carry out the woods tightly.
 [Data](articles/fc493afe.json)
 
 [Extended Data](ext_articles/fc493afe.ext.json)
+
+---
+
+### Curfew enforcement
+
+*2024-09-21 21:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்குச்-சட்டம்-அமுல்/175-344100) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Curfew enforced 10pm-6am due to safety concerns. Election-related officers exempt. Essential service workers need ID. Travelers must show documents. Returning citizens should present flight tickets."
+
+🟩
+
+The Police curfew is implemented from the country from 10 pm to 6 am today (21) at 6 am
+
+Despite the election, the curfew has been implemented in view of the safety of the public, police said.
+
+Officers who are involved in election obligations and those who work in essential services have been advised to take their official identity documents as a curfew.
+
+Those who go to the airport for a foreign trip are advised to carry their travel documents and travel documents.
+
+After completing foreign trips, those who return to the country have been advised to use their flight tickets and other travel documents as curfews.
+
+◼️
+
+[Data](articles/18a71b10.json)
+
+[Extended Data](ext_articles/18a71b10.ext.json)
 
 ---
 
@@ -203,6 +233,28 @@ Elections for election selection officers say that about 75% of the total voters
 [Data](articles/18c94e45.json)
 
 [Extended Data](ext_articles/18c94e45.ext.json)
+
+---
+
+### The main turning point is the telephone number
+
+*2024-09-21 21:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முக்கிய-திருப்பு-முனையாக-இருக்கும்/175-344099) · `ta`
+
+Sri Lanka's presidential election is seen as a pivotal moment in the country's history. Candidate Anuragumara Dissanayake emphasizes its significance, stating it will change the nation's trajectory. The election marks a shift from traditional power struggles to a potential turning point for the country's future.
+
+🟩
+
+"This presidential election will be an election that will change the history of Sri Lanka," said National People's Power Presidential candidate Anuragumara Dissanayake.
+
+Elections have been held for a long time to set up a government, to coup, change the government and to change leaders. But I think this election is the main turning point in the country.
+
+So after success, all should maintain peace. Democratic feature is the right to each individual to vote for parties who want to support any political party. We will continue to protect it. Remble
+
+◼️
+
+[Data](articles/5ec0e184.json)
+
+[Extended Data](ext_articles/5ec0e184.ext.json)
 
 ---
 
@@ -2305,49 +2357,5 @@ Dan Priyasad has been named as the 6th Defender in the case of the attack on the
 [Data](articles/c9dc2b8a.json)
 
 [Extended Data](ext_articles/c9dc2b8a.ext.json)
-
----
-
-### 8th presidential election today
-
-*2024-09-21 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194220) · `ta`
-
-Sri Lanka's 8th presidential election summary: 38 candidates, 17 million eligible voters, 13,421 polling stations, 63,000 police deployed. Voting from 7am to 4pm on Saturday. Citizens urged to cooperate for fair elections.
-
-🟩
-
-The eighth presidential election to elect the ninth president of the country will be held on Saturday (21). With 38 people contesting this time, 17, 140,354 are eligible to vote. The Elections Commission has urged all citizens to cooperate with the election of independently and fairly.
-
-With 13421 voting centers nationwide, about 63 thousand policemen will be deployed for security activities.. The Armed Forces are also ready for security. Two hundred and 25 thousand public officials are on duty for election work.
-
-Voting boxes and documents for all electoral constituencies were handed over yesterday morning. In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3151 voting centers in the Colombo Election District.
-
-...
-
-[Data](articles/44cda695.json)
-
-[Extended Data](ext_articles/44cda695.ext.json)
-
----
-
-### Presidential election;Voting in Jaffna
-
-*2024-09-21 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194229) · `ta`
-
-Sri Lanka's 9th Presidential Election: 492,280 Jaffna voters cast ballots at 511 polling stations across 5 schools. Voting began at 7 AM on 21st day.
-
-🟩
-
-The presidential election to elect Sri Lanka's 9th Executive President began today (21st) at 7 am.
-
-In Jaffna, 492,280 voters have been eligible to vote and 511 polling stations have been set up.
-
-In this case, people vote in the voting centers set up in the Vaddukoddai electorate, Valliamyam Vidyalaya, Murugamoorthy Vidyalaya, Arali Saraswati College and Vaddukoddai Hindu College schools
-
-◼️
-
-[Data](articles/0152ac3e.json)
-
-[Extended Data](ext_articles/0152ac3e.ext.json)
 
 ---

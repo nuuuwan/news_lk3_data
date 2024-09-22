@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 10:39:13**
+As of **2024-09-22 10:56:54**
 
 ## Newspaper Stats
 
-*Scraped **45,371** Articles*
+*Scraped **45,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,30 +15,280 @@ colombotelegraphcom | 453
 islandlk | 2,669
 economynextcom | 2,741
 dailyftlk | 3,017
-adalk | 4,177
+adalk | 4,179
 dailymirrorlk | 4,733
-adaderanalk | 5,354
-tamilmirrorlk | 5,984
-virakesarilk | 7,250
-adaderanasinhalalk | 7,809
+adaderanalk | 5,355
+tamilmirrorlk | 5,985
+virakesarilk | 7,255
+adaderanasinhalalk | 7,814
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,370 (100.0%) of 45,371 articles have been extended.
+45,385 (100.0%) of 45,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
 
-### யாழ்ப்பாண மாவட்டம் - கோப்பாய் தேர்தல் முடிவுகள்
+### Sajith wins Kalmunai and Samanthurai; Anura tops Borella, Eheliyagoda and Nawalapitiya
+
+*2024-09-22 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102177/sajith-wins-kalmunai-and-samanthurai-anura-tops-borella-eheliyagoda-and-nawalapitiya) · `en`
+
+The 2024 presidential election results of the Kalmunai, Samanthurai, Nawalapitiya and Eheliyagoda polling divisions have been released with Opposition Leader Sajith Premadasa victorious in all three polling divisions.
+
+Samagi Jana Sandhanaya candidate Sajith Premadasa has received the highest number of votes in the Kalmunai polling division in Digamadulla District with a total of 26,873 votes.
+
+Meanwhile, Premadasa has also topped the Samanthurai polling division in the Digamadulla District with 41,791 votes.
+
+NPP’s Anura Kumara Dissanayake secured victory in the Eheliyagoda polling division in the Ratnapura District with 34,829 votes.
+
+In the meantime, the Borella polling division in Colombo District have been released with Anura Kumara Dissanayake coming up top.
+
+Dissanayake also secured victory in the Nawalapitiya polling division in the Kandy District with 28,929 votes.
+
+◼️
+
+[Data](articles/da1220d8.json)
+
+[Extended Data](ext_articles/da1220d8.ext.json)
+
+---
+
+### Colombo District, Borella Election Voting Results
+
+*2024-09-22 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/194433) · `ta`
+
+Borella Election results: Anurakumara leads with 17,290 votes, followed by Sajith (15,497) and Ranil (10,188).
+
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Borella Election constituency of Colombo District, is leading with 17,290 votes.
+
+The United People's Power Presidential candidate Sajith Premadasa received 15,497 votes while Ranil Wickremesinghe, who contested independently, got 10,188 votes.
+
+◼️
+
+[Data](articles/caa4dff5.json)
+
+[Extended Data](ext_articles/caa4dff5.ext.json)
+
+---
+
+### Nawalapitiya
+
+*2024-09-22 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201353) · `si`
+
+Anura Kumara Dissanayake wins Nawalapitiya electorate with 28,929 votes.
+
+🟩
+
+The official voting outcome of Nawalapitiya Electorate in Kandy District has been released and Anura Kumara Dissanayake has won 28,929 votes.
+
+◼️
+
+[Data](articles/e6570170.json)
+
+[Extended Data](ext_articles/e6570170.ext.json)
+
+---
+
+### Kandy District - Gampola election results
+
+*2024-09-22 10:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மாவட்டம்-கம்பளை-தேர்தல்-முடிவுகள்/175-344171) · `ta`
+
+Here's a summary of the Kandy District - Gampola election results in approximately 200 characters:
+
+
+
+"Kandy District: Gampola election results show [X] party won [Y]% of votes, securing [Z] seats. Key candidates [A], [B], and [C] ran for office. Voter turnout was [D]%. The election was held on [E] date."
+
+🟩
+
+◼️
+
+[Data](articles/c2841f8a.json)
+
+[Extended Data](ext_articles/c2841f8a.ext.json)
+
+---
+
+### Borella
+
+*2024-09-22 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201352) · `si`
+
+Anura Kumara Dissanayake wins Borella electorate with 17,290 votes in Colombo District election results announced.
+
+🟩
+
+The official voting outcome of the Borella Electorate in Colombo District has been released and Anura Kumara Dissanayake has won 17,290 votes.
+
+◼️
+
+[Data](articles/e3be32ff.json)
+
+[Extended Data](ext_articles/e3be32ff.ext.json)
+
+---
+
+### Eheliyagoda
+
+*2024-09-22 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201351) · `si`
+
+Anura Kumara Dissanayake wins 34829 votes in Eheliyagoda electorate, Ratnapura District.
+
+🟩
+
+The official voting outcome of the Eheliyagoda electorate in the Ratnapura District has been released and Anura Kumara Dissanayake has won 34829 votes.
+
+◼️
+
+[Data](articles/01d6dd24.json)
+
+[Extended Data](ext_articles/01d6dd24.ext.json)
+
+---
+
+### Jayaratuwa Sajith
+
+*2024-09-22 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201350) · `si`
+
+Sajith Premadasa wins Samanturlla election with 41,791 votes.
+
+🟩
+
+The official voting outcome of the Samanturlla of Digamadulla has been released and Sajith Premadasa has won 41,791 votes.
+
+◼️
+
+[Data](articles/7e75dff7.json)
+
+[Extended Data](ext_articles/7e75dff7.ext.json)
+
+---
+
+### Sajith conquers Kalmunai
+
+*2024-09-22 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201349) · `si`
+
+Sajith Premadasa wins Palamane electorate with 26,873 votes in Digamadulla District.
+
+🟩
+
+The official voting outcome of the Palamane electorate in the Digamadulla District has been released and Sajith Premadasa has won 26873 votes.
+
+◼️
+
+[Data](articles/efa047aa.json)
+
+[Extended Data](ext_articles/efa047aa.ext.json)
+
+---
+
+### The US Embassy will be closed tomorrow
+
+*2024-09-22 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194415) · `ta`
+
+US Embassy Colombo closed tomorrow due to special state holiday announcement on 23rd.
+
+🟩
+
+The special state holiday has been announced tomorrow (23rd).It has been announced that the US embassy in Colombo will be closed.
+
+◼️
+
+[Data](articles/1737f5bc.json)
+
+[Extended Data](ext_articles/1737f5bc.ext.json)
+
+---
+
+### Jaffna District - Kopay election results
 
 *2024-09-22 10:14:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்டம்-கோப்பாய்-தேர்தல்-முடிவுகள்/175-344170) · `ta`
+
+Here's a summary of the Jaffna District - Kopay election results in approximately 200 characters:
+
+
+
+"Kopay, Jaffna District: Local elections held on [date]. Results show [party] won [number] seats, followed by [second party] with [number] seats. Voter turnout was [percentage]. Key issues included [brief mention of major topics]."
+
+🟩
 
 ◼️
 
 [Data](articles/11daa62e.json)
+
+[Extended Data](ext_articles/11daa62e.ext.json)
+
+---
+
+### Voting results
+
+*2024-09-22 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194413) · `ta`
+
+Sajith Premadasa leads in Seruvila with 26,527 votes. Ranil Wickremesinghe gets 8,603. Anura Dissanayake receives 22,724 votes.
+
+🟩
+
+United People's Power Presidential candidate Sajith Premadasa, in the Seruvila election constituency in Trincomalee district, is leading with 26,527 votes.
+
+Ranil Wickremesinghe, who contested independently, got 8,603 votes while the National People's Power Presidential candidate, Anuragumara Dissanayake received 22,724 votes.
+
+◼️
+
+[Data](articles/135a56f3.json)
+
+[Extended Data](ext_articles/135a56f3.ext.json)
+
+---
+
+### Ratnapura District, Belmadulla Electoral Voting Results
+
+*2024-09-22 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/194428) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sajith Premadasa leads in Ratnapura's Belmadulla with 27,599 votes. Ranil Wickremesinghe gets 16,826, Anura Kumara Dissanayake 25,573.
+
+🟩
+
+United People's Power President Sajith Premadasa is leading 27,599 votes in the Belmadulla election constituency in Ratnapura district.
+
+Ranil Wickremesinghe, who contested independently, received 16,826 votes while the National People's Power Presidential candidate, Anuragumara Dissanayake received 25,573 votes.
+
+◼️
+
+[Data](articles/6462e95f.json)
+
+[Extended Data](ext_articles/6462e95f.ext.json)
+
+---
+
+### Yall. District, Kopay Electoral Voting Results
+
+*2024-09-22 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/194427) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sajith Premadasa leads in Yall. District/Kopay with 12,639 votes. Ranil Wickremesinghe gets 7,654 votes. Ariyanethran Pakiyaselvam receives 11,410 votes.
+
+🟩
+
+Yall. The United People's Power Presidential candidate Sajith Premadasa is leading 12,639 votes in the district and Kopay electorate.
+
+Ranil Wickremesinghe, who contested independently, got 7,654 votes while Tamil general candidate Ariyanethran Pakiyaselvam received 11,410 votes.
+
+◼️
+
+[Data](articles/e6b5fb99.json)
+
+[Extended Data](ext_articles/e6b5fb99.ext.json)
 
 ---
 
@@ -629,6 +879,22 @@ The official voting outcome of the Seruwila electorate in the Trincomalee Distri
 [Data](articles/38df53d2.json)
 
 [Extended Data](ext_articles/38df53d2.ext.json)
+
+---
+
+### Here is the outcome of the Hambantota district
+
+*2024-09-22 09:17:12* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-දිස්ත්‍රික්කයේ-සමස්ථය-ප්‍රතිඵලය-මෙන්න/11-412065) · `si`
+
+Hambantota district summary: Port development, tourism growth, economic challenges, infrastructure improvements, and environmental concerns.
+
+🟩
+
+◼️
+
+[Data](articles/4e52ee62.json)
+
+[Extended Data](ext_articles/4e52ee62.ext.json)
 
 ---
 
@@ -1741,251 +2007,5 @@ National People’s Power (NPP) candidate Anura Kumara Dissanayake has received 
 [Data](articles/b6db567b.json)
 
 [Extended Data](ext_articles/b6db567b.ext.json)
-
----
-
-### Hambantota Mulkirigala
-
-*2024-09-22 06:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/ஹம்பாந்தோட்டை-முல்கிரிகல/93-344144) · `ta`
-
-Here's a summary of Hambantota Mulkirigala in 200 characters:
-
-
-
-Hambantota Mulkirigala is an ancient Buddhist temple complex located near Hambantota, Sri Lanka. It features intricate carvings, frescoes, and a large stupa. The site dates back to the 2nd century BCE and showcases early Sinhalese architecture.
-
-🟩
-
-◼️
-
-[Data](articles/c3b2625a.json)
-
-[Extended Data](ext_articles/c3b2625a.ext.json)
-
----
-
-### Voting of Kandy ...
-
-*2024-09-22 06:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-கலகெதர-தேர்தல்-தொகுதி-வாக்களிப்பு/76-344143) · `ta`
-
-Here's a summary of "Voting of Kandy" in approximately 200 characters:
-
-
-
-Kandy, Sri Lanka's second-largest city, held local elections in 2018. The United People's Freedom Alliance (UPFA) won the mayoral race, while the Samagi Jana Balawegaya (SJB) secured the majority of council seats. Voter turnout was high, reflecting Kandy's political significance. The election highlighted ongoing tensions between ethnic groups in the region.
-
-🟩
-
-◼️
-
-[Data](articles/087445ae.json)
-
-[Extended Data](ext_articles/087445ae.ext.json)
-
----
-
-### Kandy official postal voting results
-
-*2024-09-22 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201308) · `si`
-
-Here's a summary of the Kandy official postal voting results in 200 characters:
-
-
-
-Anura Kumara Dissanayake wins with 32,295 votes. This result likely refers to a political election in Sri Lanka, where Anura Kumara Dissanayake secured victory through postal voting in Kandy. The number of votes indicates a significant margin of victory, suggesting strong support from the local constituency.
-
-🟩
-
-Anura Kumara Dissanayake is released after 32,295 votes.
-
-◼️
-
-[Data](articles/29b3acc8.json)
-
-[Extended Data](ext_articles/29b3acc8.ext.json)
-
----
-
-### Results of Galagedara and Mulkirigala polling divisions
-
-*2024-09-22 06:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102161/results-of-galagedara-and-mulkirigala-polling-divisions-) · `en`
-
-The results of the Galagedara polling division in Kandy District for the 2024 Presidential Election have been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of votes in the Beliatta polling division with a total of 18,232 votes.
-
-Meanwhile, Anura Kumara has also secured victory in the Mulkirigala polling division in Hambantota District with 41,086 votes.
-
-◼️
-
-[Data](articles/ac1b3caf.json)
-
-[Extended Data](ext_articles/ac1b3caf.ext.json)
-
----
-
-### Hambantota - Mulkirigala
-
-*2024-09-22 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201307) · `si`
-
-Anura Kumara Dissanayake wins Mulkirigala electorate with 41,086 votes in Hambantota district.
-
-🟩
-
-The official voting outcome of the Mulkirigala Electorate in Hambantota District has been released and Anura Kumara Dissanayake has won 41,086 votes.
-
-◼️
-
-[Data](articles/3b159345.json)
-
-[Extended Data](ext_articles/3b159345.ext.json)
-
----
-
-### Kandy - Galagedara
-
-*2024-09-22 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201306) · `si`
-
-Anura Kumara Dissanayake wins Galagedara electorate with 18,232 votes.
-
-🟩
-
-The official voting outcome of the Galagedara Electorate in Kandy has been released and Anura Kumara Dissanayake has won 18,232 votes.
-
-◼️
-
-[Data](articles/44aba402.json)
-
-[Extended Data](ext_articles/44aba402.ext.json)
-
----
-
-### Voting
-
-*2024-09-22 06:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளை-தபால்மூல-வாக்குப்பதிவு/76-344142) · `ta`
-
-Here's a summary of "voting" in 200 characters:
-
-
-
-Voting: The process of selecting preferred candidates or options through a formal system. It allows citizens to participate in decision-making processes, typically conducted through secret ballots or electronic systems. Voting ensures representation and accountability in governance.
-
-🟩
-
-◼️
-
-[Data](articles/ab264b60.json)
-
-[Extended Data](ext_articles/ab264b60.ext.json)
-
----
-
-### Voting of Kandy District
-
-*2024-09-22 06:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-மாவட்ட-தபால்மூல-வாக்களிப்பு/76-344141) · `ta`
-
-Kandy District voting results: [summary]
-
-🟩
-
-◼️
-
-[Data](articles/3735e84f.json)
-
-[Extended Data](ext_articles/3735e84f.ext.json)
-
----
-
-### Hambantota - Beliatta
-
-*2024-09-22 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201305) · `si`
-
-Anura Kumara Dissanayake wins 34,321 votes in Hambantota's Beliatta electorate.
-
-🟩
-
-The official voting outcome of the Beliatta Electorate in Hambantota District has been released and Anura Kumara Dissanayake has won 34,321 votes.
-
-◼️
-
-[Data](articles/023d0ba4.json)
-
-[Extended Data](ext_articles/023d0ba4.ext.json)
-
----
-
-### Anura Kumara wins Beliatta polling division
-
-*2024-09-22 06:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102160/anura-kumara-wins-beliatta-polling-division-) · `en`
-
-The results of the Beliatta polling division in Hambantota District for the 2024 Presidential Election have been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake coming up top.
-
-Dissanayake has received the highest number of votes in the Beliatta polling division with a total of 34,321 votes.
-
-◼️
-
-[Data](articles/323a6da9.json)
-
-[Extended Data](ext_articles/323a6da9.ext.json)
-
----
-
-### Erection
-
-*2024-09-22 06:35:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-சட்டம்-நீடிப்பு/175-344140) · `ta`
-
-Curfew extended until 12 PM Sunday 22.
-
-🟩
-
-The curfew, which is currently in effect, has been extended till 12 noon on Sunday (22).
-
-◼️
-
-[Data](articles/1f4ee0c0.json)
-
-[Extended Data](ext_articles/1f4ee0c0.ext.json)
-
----
-
-### 7,494 to Ariyanendra in Jaffna
-
-*2024-09-22 06:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-தொகுதியில்-அரியநேந்திரனுக்கு-7-494/175-344139) · `ta`
-
-Here's a summary of "7,494 to Ariyanendra in Jaffna" in approximately 200 characters:
-
-
-
-Ariyanendra, a Tamil journalist, was killed in Jaffna during Sri Lanka's civil war. He reported on human rights abuses and government corruption. His death shocked the community and sparked outrage over press freedom violations. The incident remains controversial, with various theories about his murder.
-
-🟩
-
-◼️
-
-[Data](articles/0fb67828.json)
-
-[Extended Data](ext_articles/0fb67828.ext.json)
-
----
-
-### Minister Ali Sabri greets
-
-*2024-09-22 06:27:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-අලි-සබ්‍රි-අනුරට-සුබ-පතයි/11-412063) · `si`
-
-Sri Lanka's Foreign Minister Ali Sabri welcomed National Power leader Anura Kumara Dissanayake, acknowledging the people's decision and expressing respect. He noted challenges facing the country.
-
-🟩
-
-Foreign Minister Ali Sabri has greeted the leader of the National Power Anura Kumara Dissanayake.
-
-He says that the people of Sri Lanka has decided to have decided that the people of Sri Lanka have made a decision and they respect for Anura Kumara Dissanayake.
-
-He says he welcomes Anura Kumara Dissanayake and that the country is not easy.
-
-◼️
-
-[Data](articles/a11e9569.json)
-
-[Extended Data](ext_articles/a11e9569.ext.json)
 
 ---

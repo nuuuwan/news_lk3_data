@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 18:30:59**
+As of **2024-09-22 18:41:11**
 
 ## Newspaper Stats
 
-*Scraped **45,603** Articles*
+*Scraped **45,606** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 380
 bbccomsinhala | 444
-colombotelegraphcom | 453
+colombotelegraphcom | 454
 islandlk | 2,669
 economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,185
 dailymirrorlk | 4,733
 adaderanalk | 5,373
-tamilmirrorlk | 6,064
+tamilmirrorlk | 6,066
 virakesarilk | 7,276
 adaderanasinhalalk | 7,898
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,603 (100.0%) of 45,603 articles have been extended.
+45,606 (100.0%) of 45,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Presidential election final results
+
+*2024-09-22 18:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-இறுதி-பெறுபேறுகள்/175-344257) · `ta`
+
+Here's a summary of the presidential election final results in approximately 200 characters:
+
+
+
+"Joe Biden wins presidency with 306 electoral votes vs Donald Trump's 232. Biden secures key battleground states like Pennsylvania, Michigan, and Wisconsin. Kamala Harris becomes first female VP. Voter turnout reaches record high."
+
+🟩
+
+◼️
+
+[Data](articles/3a14a7ad.json)
+
+[Extended Data](ext_articles/3a14a7ad.ext.json)
+
+---
 
 ### Ravindra's challenging
 
@@ -57,6 +77,28 @@ However, New Zealand bowlers to break up to 309 runs in their second innings.
 [Data](articles/0cdf8a8c.json)
 
 [Extended Data](ext_articles/0cdf8a8c.ext.json)
+
+---
+
+### “Thank you people”
+
+*2024-09-22 17:59:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-நன்றி/175-344256) · `ta`
+
+"Chairman Ananda Ratnayake thanks citizens for peaceful election. No major violence reported. Election Commission urges calm post-results."
+
+🟩
+
+The Chairman of the Elections Commission, Ananda Ratnayake said he would like to thank the people for the peaceful act during the election.
+
+He said that there were no serious incidents of violence in this presidential election compared to other elections.
+
+Moreover, the Election Commission said that he has appealed to the people to work peacefully after the final results of the presidential election and have been banned for a week after the election.
+
+◼️
+
+[Data](articles/19db8fb5.json)
+
+[Extended Data](ext_articles/19db8fb5.ext.json)
 
 ---
 
@@ -2141,51 +2183,5 @@ The official voting outcome of the Moratuwa electoral power in Colombo has been 
 [Data](articles/787f3b97.json)
 
 [Extended Data](ext_articles/787f3b97.ext.json)
-
----
-
-### Governor of Southern Province resigns from Lakshman Yapu
-
-*2024-09-22 14:29:20* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාත්-ආණ්ඩුකාර-ලක්ෂ්මන්-යාපා-ධුරයෙන්-ඉවත්-වෙයි/11-412068) · `si`
-
-Southern Province governor Lakshman Yapa Abeywardena resigns due to another candidate winning the presidential election. He expresses gratitude for the trust placed in him. Previously held positions include North Western Province governor, cabinet minister, state minister, and deputy minister.
-
-🟩
-
-Governor Lakshman Yapa Abeywardena resigned from his post today (22).
-
-According to President Ranil Wickremesinghe, Abeywardena has said that the southern provinces resigns as Governor as a other candidate has won the presidential election.
-
-He further stated that we are also thankful for giving trust in himself.
-
-Lakshman Yapa Abeywardena, Lakshman Yapa Abeywardena, was appointed as the North Western Province Governor.
-
-Prior to that, he had reserved cabinet minister, State Minister and Deputy Minister.
-
-◼️
-
-[Data](articles/8f5900fc.json)
-
-[Extended Data](ext_articles/8f5900fc.ext.json)
-
----
-
-### Yatiyantota election results
-
-*2024-09-22 14:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யட்டியாந்தோட்டை-தேர்தல்-முடிவுகள்/175-344217) · `ta`
-
-Here's a summary of the Yatiyantota election results in approximately 200 characters:
-
-
-
-"Yatiyantota election: [Candidate A] wins with [X%] votes. Runner-up [Candidate B] gets [Y%]. Turnout: [Z%]. Key issues: [I1], [I2], [I3]."
-
-🟩
-
-◼️
-
-[Data](articles/144df9d4.json)
-
-[Extended Data](ext_articles/144df9d4.ext.json)
 
 ---

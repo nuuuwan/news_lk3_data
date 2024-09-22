@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 19:56:15**
+As of **2024-09-22 20:22:38**
 
 ## Newspaper Stats
 
-*Scraped **45,618** Articles*
+*Scraped **45,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,187
 dailymirrorlk | 4,733
-adaderanalk | 5,373
-tamilmirrorlk | 6,067
+adaderanalk | 5,375
+tamilmirrorlk | 6,068
 virakesarilk | 7,278
-adaderanasinhalalk | 7,904
+adaderanasinhalalk | 7,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,618 (100.0%) of 45,618 articles have been extended.
+45,622 (100.0%) of 45,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Anura Kumara Dissanayake elected President of Sri Lanka
+
+*2024-09-22 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102197/anura-kumara-dissanayake-elected-president-of-sri-lanka) · `en`
+
+National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has been elected as the 9th Executive President of Sri Lanka.
+
+The election commission formally announced on Sunday (September 22) NPP leader Anura Kumara Dissanayake as the winner of the 2024 Presidential Election.
+
+The commission said on its website that Mr. Dissanayake, 55, won the presidency with 42.31% of the vote at Saturday’s (September 21) election, pushing opposition leader Sajith Premadasa to second place and incumbent Ranil Wickremesinghe to a distant third.
+
+Mr. Dissanayake is due to be sworn in on Monday (September 23), according to unconfirmed repors.
+
+In a post on ‘X’ (formerly Twitter) after the release of results concluded, Dissanayake said:
+
+...
+
+[Data](articles/e922e9de.json)
+
+[Extended Data](ext_articles/e922e9de.ext.json)
+
+---
+
+### District-wise final results of Anura and Sajith
+
+*2024-09-22 19:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102196/district-wise-final-results-of-anura-and-sajith-) · `en`
+
+The district-wise final results of the two main candidates following the counting of preferences results has been released.
+
+Accordingly, the total votes obtained by NPP’s Anura Kumara Dissanayake and SJB’s Sajith Premadasa after the second count with preferences are as follows;
+
+◼️
+
+[Data](articles/edbb82b9.json)
+
+[Extended Data](ext_articles/edbb82b9.ext.json)
+
+---
+
+### New President Anura
+
+*2024-09-22 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201446) · `si`
+
+Anura Kumara Dissanayake elected 9th President of Sri Lanka. Born 1968 in Devahava. Educated at Thambuttegama Central College and University of Kelaniya. Joined JVP in 1987, became Politburo member in 1998. Elected MP in 2004. Served as JVP leader since 2014.
+
+🟩
+
+Anura Kumara Dissanayake has been elected as the 9th Executive President of Sri Lanka.
+
+Anura Kumara Dissanayake is born on November 24, 1968 in the village of Devahava.
+
+The Sithalati of the Dissanayake Mudiyanselage Robida and Dissanayake were the couple.
+
+Thambuththegama Primary Primary School includes Anura Basket Education, Dissanayake family.
+
+The student who is passing over the GCE O / L examination include the Thambuttegama Central College, Thambuttegama Central College.
+
+He is elected to the University of the Science and Mathematics, which is elected to the University of Kelaniya.
+
+In 1987, a prominent political figure, an activist of the Socialist Students Union, is a prominent political figure in 1987.
+
+The Socialist Students Union affiliated to the JVP has been rebuilt and attracted to Anura University students, "Aravinda '.
+
+Moreover, he is the Chairman of the University of Kelaniya University of Kelaniya.
+
+...
+
+[Data](articles/ee4b9403.json)
+
+[Extended Data](ext_articles/ee4b9403.ext.json)
+
+---
 
 ### Here are the second preferential results
 
@@ -363,6 +435,32 @@ Yapahuwa and Kurunegala were key victories in Sri Lanka's history. Yapahuwa was 
 [Data](articles/cb697685.json)
 
 [Extended Data](ext_articles/cb697685.ext.json)
+
+---
+
+### 50 killed in Iranian coal mining accident
+
+*2024-09-22 17:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-நிலக்கரி-சுரங்க-வெடி-விபத்தில்-50-பேர்-பலி/50-344255) · `ta`
+
+Iranian coal mine explosion kills 50, injures 17, leaves 24 missing. Rescue efforts ongoing. Investigation launched.
+
+🟩
+
+50 workers were killed in an explosion caused by methane leak in coal mine in Iran. 17 people were seriously injured. 24 people have become magical. The search for them is fast.
+
+A coal mine operated 540 km southeast of Iran's capital Tehran. There were 70 workers working in this tunnel.
+
+Sudden explosion caused by methane leak in the mine. Firefighters rushed to the scene and fought for a long time and extinguished the fire. Rescuers were involved in the rescue of the victims.
+
+Of these, 30 were tragically killed. Another 17 people were seriously injured. They have been admitted to the hospital for treatment.
+
+Also, 24 people who were working during the explosion were missing. Authorities suspect that the crash may be trapped in the tunnel. The search for them is fast.
+
+...
+
+[Data](articles/3bd98308.json)
+
+[Extended Data](ext_articles/3bd98308.ext.json)
 
 ---
 
@@ -2119,83 +2217,5 @@ The official voting outcome of Rattota in Matale District has been released and 
 [Data](articles/27dec411.json)
 
 [Extended Data](ext_articles/27dec411.ext.json)
-
----
-
-### Maskeliya Sajith
-
-*2024-09-22 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201408) · `si`
-
-Sajith Premadasa wins Maskeliya electorate with 117,232 votes.
-
-🟩
-
-The official voting outcome of the Nuwara Eliya Maskeliya Electorate has been released and Sajith Premadasa has won 117,232 votes.
-
-◼️
-
-[Data](articles/69bd5a54.json)
-
-[Extended Data](ext_articles/69bd5a54.ext.json)
-
----
-
-### Mawanella
-
-*2024-09-22 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201407) · `si`
-
-Here's a 200-character summary:
-
-
-
-Mawanella Election Results: Anura Kumara Dissanayake wins Kegalle District with 33,447 votes.
-
-🟩
-
-The official voting outcome of Mawanella Elections in Kegalle District has been released and Anura Kumara Dissanayake has won the area with 33,447 votes.
-
-◼️
-
-[Data](articles/2626d3b9.json)
-
-[Extended Data](ext_articles/2626d3b9.ext.json)
-
----
-
-### Sajith appointed by Padirippu
-
-*2024-09-22 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201406) · `si`
-
-Sajith Premadasa wins 26,512 votes in Batticaloa District election.
-
-🟩
-
-The official voting outcome of the Padirippuwa electoral results in Batticaloa District has been released and Sajith Premadasa has won 26,512 votes.
-
-◼️
-
-[Data](articles/7dc6a0ee.json)
-
-[Extended Data](ext_articles/7dc6a0ee.ext.json)
-
----
-
-### Nuwara Eliya District - Kotmalai election results
-
-*2024-09-22 14:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியா-மாவட்டம்-கொத்மலை-தேர்தல்-முடிவுகள்/175-344219) · `ta`
-
-Here's a summary of the Nuwara Eliya District - Kotmalai election results in approximately 200 characters:
-
-
-
-"Election results for Nuwara Eliya District's Kotmalai area show [X] party won with [Y]% of votes, defeating [Z] party who secured [W]%."
-
-🟩
-
-◼️
-
-[Data](articles/3e67526d.json)
-
-[Extended Data](ext_articles/3e67526d.ext.json)
 
 ---

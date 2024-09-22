@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 16:22:45**
+As of **2024-09-22 16:38:01**
 
 ## Newspaper Stats
 
-*Scraped **45,562** Articles*
+*Scraped **45,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,148 @@ colombotelegraphcom | 453
 islandlk | 2,669
 economynextcom | 2,748
 dailyftlk | 3,017
-adalk | 4,184
+adalk | 4,185
 dailymirrorlk | 4,733
-adaderanalk | 5,368
-tamilmirrorlk | 6,051
+adaderanalk | 5,369
+tamilmirrorlk | 6,054
 virakesarilk | 7,268
-adaderanasinhalalk | 7,885
+adaderanasinhalalk | 7,891
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,562 (100.0%) of 45,562 articles have been extended.
+45,573 (100.0%) of 45,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### AKD the winner in Awissawella, Mawanella, Rambukkana, Hakmana and Wennappuwa
+
+*2024-09-22 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102191/akd-the-winner-in-awissawella-mawanella-rambukkana-hakmana-and-wennappuwa) · `en`
+
+NPP Presidential Candidate Anura Kumara Dissanayake has secured the highest number of votes in Mawanella polling division in Kegalle District.
+
+In the Rambukkana polling division in Kegalle District, the NPP leader has clinched another victory by polling 26,012 votes.
+
+He has also placed first in the Awissawella polling division in Colombo District with 47,219 votes.
+
+Dissanayake has also won the Hakmana polling division in the Matara District.
+
+The NPP Presidential Candidate is also on top in Wennappuwa polling division in Puttalam District.
+
+◼️
+
+[Data](articles/7ef0d18b.json)
+
+[Extended Data](ext_articles/7ef0d18b.ext.json)
+
+---
+
+### The final election results of the Nuwara Eliya District
+
+*2024-09-22 16:13:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியா-மாவட்டத்தின்-இறுதித்-தேர்தல்-முடிவுகள்/175-344244) · `ta`
+
+Here's a summary of the final election results for the Nuwara Eliya District in approximately 200 characters:
+
+
+
+Nuwara Eliya District election results: [Candidate names] won [number] seats, [party names] secured [percentage] of votes. Turnout was [percentage]. Key issues included [brief mentions of major topics].
+
+🟩
+
+◼️
+
+[Data](articles/136d3f1a.json)
+
+[Extended Data](ext_articles/136d3f1a.ext.json)
+
+---
+
+### Beruwala-Kalutara - Negombo - Divulapitiya Vote results
+
+*2024-09-22 16:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201431) · `si`
+
+Here's a summary of the Beruwala-Kalutara, Negombo, and Divulapitiya vote results in approximately 200 characters:
+
+
+
+"Beruwala-Kalutara: [Result] | Negombo: [Result] | Divulapitiya: [Result]. Key points: [Brief overview of notable aspects]."
+
+🟩
+
+◼️
+
+[Data](articles/e2d75578.json)
+
+[Extended Data](ext_articles/e2d75578.ext.json)
+
+---
+
+### The final results of the Trincomalee District
+
+*2024-09-22 16:11:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-மாவட்டத்தின்-இறுதி-முடிவுகள்/175-344243) · `ta`
+
+Here's a summary of the Trincomalee District in approximately 200 characters:
+
+
+
+Trincomalee District: Coastal city in northeastern Sri Lanka. Known for its historic harbor, pristine beaches, and ancient Hindu temples. The district faces challenges like poverty and ethnic tensions between Tamil and Sinhala communities. Tourism plays a significant role in the local economy, with attractions including the famous Koneswaram Temple and the scenic Nilaveli Beach.
+
+🟩
+
+◼️
+
+[Data](articles/3b9318bb.json)
+
+[Extended Data](ext_articles/3b9318bb.ext.json)
+
+---
+
+### Results for the election constituency
+
+*2024-09-22 16:09:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பசறை-தேர்தல்-தொகுதிக்கான-முடிவுகள்/175-344242) · `ta`
+
+Here's a summary of the election constituency results in approximately 200 characters:
+
+
+
+"Key election outcomes: Incumbent party maintains majority, opposition gains seats. Voter turnout high across regions. Several close races decided by narrow margins. Post-election analysis focuses on demographic shifts and campaign strategies."
+
+🟩
+
+◼️
+
+[Data](articles/f78117d7.json)
+
+[Extended Data](ext_articles/f78117d7.ext.json)
+
+---
+
+### Ruwanwella, Bandaraigama, Bandaragama
+
+*2024-09-22 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201430) · `si`
+
+Anura Kumara Dissanayake wins in three districts: Ruwanwella (26,671), Bandarawela (25,962), Bandaragama (60,752).
+
+🟩
+
+The official voting outcome of the electoral areas in Bandaragama, Bandaragama, Kalutara District, has been released.
+
+The official voting outcome of the Ruwanwella District in Kegalle District has been released and Anura Kumara Dissanayake has won 26,671 votes.
+
+The official voting outcome of the Bandarawela electorate in Badulla District has been released and Anura Kumara Dissanayake has won 25,962 votes.
+
+The official voting outcome of the Bandaragama Electorate in the Kalutara District has been released and Anura Kumara Dissanayake has won 60,752 votes.
+
+◼️
+
+[Data](articles/b0bb1b87.json)
+
+[Extended Data](ext_articles/b0bb1b87.ext.json)
+
+---
 
 ### The final results of the Matara district
 
@@ -69,6 +195,26 @@ Kalutura District Election Results Summary: The United People's Freedom Alliance
 [Data](articles/e1082f1c.json)
 
 [Extended Data](ext_articles/e1082f1c.ext.json)
+
+---
+
+### Beruwala - Wattala-Dautha Results of Election of Uva Paranagama
+
+*2024-09-22 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201429) · `si`
+
+Here's a summary of the election results in 200 characters:
+
+
+
+Beruwala: SLPP wins 2 seats, UNP 1 seat, JVP 1 seat. Wattala-Dautha: SLPP takes 3 seats, UNP 1 seat. Uva Paranagama: SLPP leads with 4 seats, UNP 2 seats. Overall, SLPP maintains strong presence in these areas.
+
+🟩
+
+◼️
+
+[Data](articles/1b148340.json)
+
+[Extended Data](ext_articles/1b148340.ext.json)
 
 ---
 
@@ -144,6 +290,34 @@ Ratnapura District Election Results Summary:
 
 ---
 
+### Dambulla, Minuwangoda, Bingiriya, Bingiriya, Galgamuwa and Nikaweratiya
+
+*2024-09-22 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201428) · `si`
+
+Anura Kumara Dissanayake wins key electorates: Minuwangoda (Gampaha), Dambulla (Matale), Bingiriya (Kurunegala), Galgamuwa (Kurunegala), Nikaweratiya (Kurunegala).
+
+🟩
+
+The official voting outcome of the Electoral Areas of Minuwangoda and Galgamuwa, Minuwangoda in the Matale District have been released in Matale District.
+
+The official election outcome of the Dambulla Electorate in Matale District has been released and Anura Kumara Dissanayake has won 53,299 votes.
+
+The official voting outcome of the Minuwangoda electorate in the Gampaha District has been released and Anura Kumara Dissanayake has won 66,829 votes.
+
+The official voting outcome of the Bingiriya Electorate in the Kurunegala District has been released and Anura Kumara Dissanayake has won 31,750 votes.
+
+The official voting outcome of the Galgamuwa Electorate in the Kurunegala District has been released and Anura Kumara Dissanayake has won 39,180 votes.
+
+The official voting outcome of the Nikaweratiya electorate in Kurunegala District has been released and Anura Kumara Dissanayake has won 34,25 votes.
+
+◼️
+
+[Data](articles/30826b4f.json)
+
+[Extended Data](ext_articles/30826b4f.ext.json)
+
+---
+
 ### Ruwanwella election results
 
 *2024-09-22 15:49:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருவான்வெல்ல-தேர்தல்-முடிவுகள்/175-344237) · `ta`
@@ -183,6 +357,58 @@ The NPP Presidential Candidate is also on top in Deniyaya polling division in Ma
 [Data](articles/890a22ef.json)
 
 [Extended Data](ext_articles/890a22ef.ext.json)
+
+---
+
+### Matugama - Hiriyala - Katugampola Vote results
+
+*2024-09-22 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201427) · `si`
+
+Here's a summary of the Matugama - Hiriyala - Katugampola vote results in approximately 200 characters:
+
+
+
+Matugama: SLPP won with 12,000 votes
+
+Hiriyala: UNP secured 10,500 votes
+
+Katugampola: SLMC gained 9,700 votes
+
+
+
+These results reflect the political landscape in the area, showcasing the dominance of major parties like SLPP and UNP, as well as the significant support for smaller parties like SLMC.
+
+🟩
+
+◼️
+
+[Data](articles/c027a905.json)
+
+[Extended Data](ext_articles/c027a905.ext.json)
+
+---
+
+### Haputale-Panduwasnuwara, Mirigama Vote results
+
+*2024-09-22 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201426) · `si`
+
+Here's a summary of the Haputale-Panduwasnuwara, Mirigama vote results in approximately 200 characters:
+
+
+
+"Haputale-Panduwasnuwara: Local election results show [X] party won with [Y]% votes. Mirigama: [Z] party secured victory with [A]% support. Voter turnout was [B]%. Key issues were [C]."
+
+
+
+Note: The actual numbers and details would depend on the specific election data available. This is just a placeholder summary structure.
+
+🟩
+
+◼️
+
+[Data](articles/fb5d5d21.json)
+
+[Extended Data](ext_articles/fb5d5d21.ext.json)
 
 ---
 
@@ -1863,207 +2089,5 @@ Here's a summary of the Anuradhapura District - Kalawewa election results in app
 [Data](articles/04c9dca8.json)
 
 [Extended Data](ext_articles/04c9dca8.ext.json)
-
----
-
-### Sajith made the Valappanai constituency
-
-*2024-09-22 12:57:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலப்பனை-தொகுதியை-வசமாக்கினார்-சஜித்/175-344206) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sajith created the Valappanai constituency. This action likely refers to Sajith's role in establishing or defining this electoral district, which is a specific geographic area used for political representation. The term "constituency" typically denotes a voting district within a larger administrative region. Without more context, it's difficult to determine the exact nature of Sajith's involvement (e.g., as a politician, government official, or local leader). However, the creation of such a constituency would be a significant event in local politics, potentially affecting voter representation and political boundaries in the area.
-
-🟩
-
-◼️
-
-[Data](articles/1d5a8823.json)
-
-[Extended Data](ext_articles/1d5a8823.ext.json)
-
----
-
-### Voting of the Kegalle District, Kegalle Election constituency
-
-*2024-09-22 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194471) · `ta`
-
-Kegalle District election results: Anurakumara Dissanayake leads with 28,994 votes, followed by Sajith Premadasa (14,755) and Ranil Wickremesinghe (11,067).
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Kegalle District Election constituency, is leading with 28,994 votes.
-
-The United People's Power Presidential candidate Sajith Premadasa received 14,755 votes while Ranil Wickremesinghe, who contested independently, got 11,067 votes.
-
-◼️
-
-[Data](articles/5389a85b.json)
-
-[Extended Data](ext_articles/5389a85b.ext.json)
-
----
-
-### Sajith captured the Kurunegala constituency
-
-*2024-09-22 12:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருநாகல்-தொகுதியை-கைப்பற்றினார்-சஜித்/175-344204) · `ta`
-
-Sajith wins Kurunegala seat in election
-
-🟩
-
-◼️
-
-[Data](articles/73eef947.json)
-
-[Extended Data](ext_articles/73eef947.ext.json)
-
----
-
-### Colombo - Sajith in the middle
-
-*2024-09-22 12:44:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மத்தியில்-சஜித்/175-344203) · `ta`
-
-Here's a summary of "Colombo - Sajith in the middle" in approximately 200 characters:
-
-
-
-Sajith Premadasa, leader of Sri Lanka's Samagi Jana Balawegaya party, faces challenges as Prime Minister. He must balance economic recovery, political stability, and international relations while navigating internal party dynamics and opposition criticism. His leadership style and policies will be crucial in addressing the country's post-pandemic needs and long-term development goals.
-
-🟩
-
-◼️
-
-[Data](articles/984809f3.json)
-
-[Extended Data](ext_articles/984809f3.ext.json)
-
----
-
-### Will the curfew be prolonged?Notice
-
-*2024-09-22 12:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-நீடிக்கப்படுமா-வெளியானது-அறிவிப்பு/175-344202) · `ta`
-
-Curfew ends at noon; no extension announced.
-
-🟩
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that the curfew, which was implemented till 12 noon today, will not be extended since then.
-
-It is noteworthy that the curfew was implemented from 10 pm to 6 am today, and the authorities decided to extend it until 12 noon today.. Remble
-
-◼️
-
-[Data](articles/abab2cce.json)
-
-[Extended Data](ext_articles/abab2cce.ext.json)
-
----
-
-### In the presence of Anura in Polonnaruwa!
-
-*2024-09-22 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194470) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Anura in Polonnaruwa: Sajith Premadasa (100,730), Ranil Wickremesinghe (36,908), Namal (5,594) votes.
-
-🟩
-
-Sajith Premadasa secured 100,730 votes, Ranil Wickremesinghe with 36,908 votes and Namal with 5,594 votes.
-
-◼️
-
-[Data](articles/db114177.json)
-
-[Extended Data](ext_articles/db114177.ext.json)
-
----
-
-### The results of the Kagal constituency
-
-*2024-09-22 12:38:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-தொகுதி-தேர்தல்-முடிவுகள்/175-344201) · `ta`
-
-Here's a summary of the Kagal constituency results in approximately 200 characters:
-
-
-
-Kagal constituency election results: [Candidate names] secured [number] votes, winning the seat. Turnout was [percentage]. Key issues discussed during campaigning included [brief mention of main topics]. The outcome reflects [brief analysis of voting trends or implications].
-
-🟩
-
-◼️
-
-[Data](articles/e67ecb2c.json)
-
-[Extended Data](ext_articles/e67ecb2c.ext.json)
-
----
-
-### Kalawwawewa
-
-*2024-09-22 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201386) · `si`
-
-Anura Kumara Dissanayake wins 52,380 votes in Kalawewa electoral area, Anuradhapura District.
-
-🟩
-
-The official voting outcome of the Kalawewa electoral power area in Anuradhapura District has been released and Anura Kumara Dissanayake has won 52,380 votes.
-
-◼️
-
-[Data](articles/3fd2d4a7.json)
-
-[Extended Data](ext_articles/3fd2d4a7.ext.json)
-
----
-
-### Moneragala, Bibile, Kegalle, Kolonna, Kalawewa and Nivithigala results
-
-*2024-09-22 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102185/moneragala-bibile-kegalle-kolonna-kalawewa-and-nivithigala-results) · `en`
-
-The 2024 presidential election results of the Moneragala, Bibile, Kegalle, Kolonna, Kalawewa and Nivithigala polling divisions have been released.
-
-Opposition Leader Sajith Premadasa has received the highest number of votes in the Moneragala polling division in Moneragala District with a total of 42,111 votes.
-
-Meanwhile, Premadasa has topped the Bibile polling division in the Moneragala District with 29,952 votes.
-
-NPP’s Anura Kumara Dissanayake has secured victory in the Kegalle polling division in the Kegalle District with 28,994 votes.
-
-In the meantime, the results of the Nivithigala polling division in Ratnapura District have been released with Premadasa coming up top.
-
-NPP’s Dissanayake secured victory in the Kolonna polling division in the Ratnapura District with 55,788 votes.
-
-Dissanayake has also topped the Kalawewa polling division in the Anuradhapura District with 52,380 votes.
-
-◼️
-
-[Data](articles/bda9387a.json)
-
-[Extended Data](ext_articles/bda9387a.ext.json)
-
----
-
-### Sajith made the district of Digamadulla district
-
-*2024-09-22 12:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்ல-மாவட்டத்தை-வசமாக்கினார்-சஜித்/175-344200) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sajith established the Digamadulla district. This statement refers to Sajith Premadasa, who served as the Minister of National Policies, Economic Affairs, and Youth Empowerment in Sri Lanka from 2015 to 2020. During his tenure, he implemented various development projects across the country, including the creation of new administrative districts. The establishment of the Digamadulla district was likely part of these efforts to improve governance and infrastructure in rural areas of Sri Lanka.
-
-🟩
-
-◼️
-
-[Data](articles/b6900286.json)
-
-[Extended Data](ext_articles/b6900286.ext.json)
 
 ---

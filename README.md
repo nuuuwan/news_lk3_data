@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 04:57:01**
+As of **2024-09-23 05:08:09**
 
 ## Newspaper Stats
 
-*Scraped **45,663** Articles*
+*Scraped **45,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 447
 colombotelegraphcom | 454
 islandlk | 2,669
 economynextcom | 2,757
-dailyftlk | 3,020
+dailyftlk | 3,021
 adalk | 4,192
 dailymirrorlk | 4,733
 adaderanalk | 5,376
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,662 (100.0%) of 45,663 articles have been extended.
+45,664 (100.0%) of 45,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Congratulations and cautionary notes
+
+*2024-09-23 04:35:03* · [`dailyftlk`](https://www.ft.lk/columns/Congratulations-and-cautionary-notes/4-767003) · `en`
+
+Here’s wishing Anura Kumara Dissanayake heartiest congratulations on behalf of all those bleeding hearts that yearned for systemic change
+
+The ‘too close to call’ Presidential poll has been called and lo, the name of Anura Kumara Dissanayake (AKD) heads all the rest. Case closed, with the pundits who predicted the necessity to appeal to the preferential voting silenced? Perhaps not, for there is cause for proceeding with caution:
+
+In the first flush of a famous victory, AKD and his colleagues may be inclined to interpret their fearless leader’s electoral landslide as incontrovertible proof of his popularity, as much as a mandate to implement the National People’s Power (NPP) manifesto with aplomb and despatch.
+
+But it is best for ‘business as unusual’ to sound a warning note in the bell-like ear of the Janatha Vimukthi Peramuna (JVP) stalwart who is now unequivocally Sri Lanka’s tenth Executive President.
+
+...
+
+[Data](articles/587433c1.json)
+
+[Extended Data](ext_articles/587433c1.ext.json)
+
+---
 
 ### AKD’s victory a historic shift in power
 
@@ -69,6 +89,8 @@ What is the economy which the new President has inherited from the outgoing Pres
 ◼️
 
 [Data](articles/73cc1ffc.json)
+
+[Extended Data](ext_articles/73cc1ffc.ext.json)
 
 ---
 
@@ -2293,21 +2315,5 @@ Here's a summary of election results in 200 characters:
 [Data](articles/7a6fef23.json)
 
 [Extended Data](ext_articles/7a6fef23.ext.json)
-
----
-
-### Attanagalla
-
-*2024-09-22 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201424) · `si`
-
-Attanagalla: A small town in Sri Lanka known for its historical significance and natural beauty. It features ancient ruins, scenic landscapes, and cultural attractions. The area offers opportunities for hiking, birdwatching, and exploring local traditions.
-
-🟩
-
-◼️
-
-[Data](articles/0ebea96e.json)
-
-[Extended Data](ext_articles/0ebea96e.ext.json)
 
 ---

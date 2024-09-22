@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 08:02:42**
+As of **2024-09-22 08:24:04**
 
 ## Newspaper Stats
 
-*Scraped **45,290** Articles*
+*Scraped **45,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,177
 dailymirrorlk | 4,733
-adaderanalk | 5,342
-tamilmirrorlk | 5,958
+adaderanalk | 5,344
+tamilmirrorlk | 5,965
 virakesarilk | 7,245
 adaderanasinhalalk | 7,772
 
@@ -26,11 +26,127 @@ adaderanasinhalalk | 7,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,280 (100.0%) of 45,290 articles have been extended.
+45,280 (100.0%) of 45,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### தமிழ் மக்களுக்கு நன்றி - அநுரவுக்கு வாழ்த்து கூறினார் சுமந்திரன்
+
+*2024-09-22 08:00:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்களுக்கு-நன்றி-அநுரவுக்கு-வாழ்த்து-கூறினார்-சுமந்திரன்/175-344152) · `ta`
+
+2024 ஜனாதிபதித் தேர்தலில் வெற்றியீட்டவுள்ள NPP ஜனாதிபதி வேட்பாளர் அனுரகுமார திஸாநாயக்கவிற்கு தமிழ் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.சுமந்திரன் வாழ்த்து தெரிவித்தார்.
+
+இன, மத வெறியின்றி சாதித்த அபார வெற்றிக்கு வாழ்த்துகள் அனுர குமார திசாநாயக்க. சஜித் பிரேமதாசவுக்கு வாக்களித்த வடக்கு, கிழக்கு தமிழ் மக்களுக்கு இலங்கை தமிழரசுக்கட்சியின் ஆலோசனையின் பேரில் மற்றவர்களை நிராகரித்து தேர்தல் வரைபடத்தில் வித்தியாசத்தை காட்டிய தமிழ் மக்களுக்கு எங்கள் நன்றிகள். என்றும் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/58e5b40f.json)
+
+---
+
+### Sajith wins Mullaitivu & Medawachchiya; Anura takes Bentara-Elpitiya
+
+*2024-09-22 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102165/sajith-wins-mullaitivu-medawachchiya-anura-takes-bentara-elpitiya) · `en`
+
+The results of the Mullaitivu polling division in Vanni District, Medawachchiya polling division in the Anuradhapura District and the Bentara-Elpitiya polling division in Galle District have been released.
+
+Samagi Jana Sandhanaya candidate Sajith Premadasa has received the highest number of votes in the Mullaitivu polling division with a total of 28,301 votes.
+
+Meanwhile, Premadasa has also topped the Medawachchiya polling division in the Anuradhapura District in the 2024 Presidential Election with 30,877 votes.
+
+In the meantime, the Bentara-Elpitiya polling division in Galle District for the 2024 Presidential Election have also been released with NPP’s Dissanayake coming up top.
+
+◼️
+
+[Data](articles/a6c3dd82.json)
+
+---
+
+### முல்லைத்தீவி்ல் அரியநேந்திரனுக்கு 12,810 வாக்குகள்
+
+*2024-09-22 07:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவி்ல்-அரியநேந்திரனுக்கு-12-810-வாக்குகள்/175-344151) · `ta`
+
+◼️
+
+[Data](articles/df7fa5ae.json)
+
+---
+
+### கிளிநொச்சி தொகுதியில், அரியநேந்திரனுக்கு 20,348 வாக்குகள்
+
+*2024-09-22 07:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கிளிநொச்சி-தொகுதியில்-அரியநேந்திரனுக்கு-20-348-வாக்குகள்/71-344150) · `ta`
+
+◼️
+
+[Data](articles/60575846.json)
+
+---
+
+### அனுரவுக்கு வாழ்த்து கூறினார் ஹர்ஷ
+
+*2024-09-22 07:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-வாழ்த்து-கூறினார்-ஹர்ஷ/175-344149) · `ta`
+
+சஜித் பிரேமதாசவுக்காக நாங்கள் கடுமையாக பிரச்சாரம் செய்தோம் ஆனால் அது நடக்கவில்லை. இலங்கையின் புதிய ஜனாதிபதியாக அனுராதிசநாயக்க பதவியேற்பார் என்பது தற்போது தெளிவாகியுள்ளது என ஹர்ஷ டி சில்வா தெரிவித்தார்.
+
+ஜனநாயகம் மற்றும் நல்லெண்ணத்தின் உணர்வில் நான் எனது நண்பரை அழைப்பதுடன், கடினமான பாதையில் சிறந்து விளங்க வாழ்த்துவதாகவும் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/3f9ddf46.json)
+
+---
+
+### புதிய ஜனாதிபதி இன்று பதவிப்பிரமாணம் செய்ய வாய்ப்பு
+
+*2024-09-22 07:44:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதி-இன்று-பதவிப்பிரமாணம்-செய்ய-வாய்ப்பு/175-344148) · `ta`
+
+தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்கவை வெற்றியாளராக அறிவிக்கும் இறுதி அறிவிப்பு சரியான நேரத்தில் தேர்தல்கள் ஆணைக்குழுவினால் வெளியிடப்பட்டால் இன்று பிற்பகல் அவர் புதிய ஜனாதிபதியாக பதவிப்பிரமாணம் செய்ய முடியும் என டெய்லி மிரர் தெரிவித்துள்ளது.
+
+முடிவுகள் வெளியிடுவதில் தாமதம் ஏற்பட்டுள்ளதால் பதவிப் பிரமாண நேரத்தை உறுதிப்படுத்த முடியாது என தேசிய மக்கள் சக்தியின் பொதுச் செயலாளர் கலாநிதி நிஹால் அபேசிங்க டெய்லி மிரருக்கு தெரிவித்தார்.
+
+இறுதி அறிவிப்பு சரியான நேரத்தில் வெளியிடப்பட்டால், இன்று பதவியேற்பு நடக்கலாம் என்றும் கூறினார். R
+
+◼️
+
+[Data](articles/b2347e0b.json)
+
+---
+
+### வெற்றி உறுதியானது - அனுரவுக்கு பறந்த செய்தி
+
+*2024-09-22 07:38:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றி-உறுதியானது-அனுரவுக்கு-பறந்த-செய்தி/175-344147) · `ta`
+
+இலங்கை சட்டத்தரணிகள் சங்கத்தின் (BASL) முன்னாள் தலைவர் சாலிய பீரிஸ், NPP இன் ஜனாதிபதி வேட்பாளர் அனுரகுமார திஸாநாயக்கவின் வெற்றியானது உண்மையான மாற்றத்திற்கான பொதுமக்களின் வலுவான விருப்பத்தை பிரதிபலிக்கிறது என்று கூறினார்.
+
+"இறுதி முடிவு இன்னும் அறிவிக்கப்படாவிட்டாலும், இலங்கையின் அடுத்த ஜனாதிபதி அனுரகுமார திசாநாயக்க என்பது இப்போது தெளிவாகிறது" என்று பீரிஸ் தனது முகநூல் பதிவில் தெரிவித்துள்ளார்.
+
+நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியின் பரந்த அதிகாரங்கள் குறித்து எச்சரிக்கையாக இருக்குமாறும், பொதுப் பொறுப்புணர்வுடன் அவற்றைப் பிரயோகிக்குமாறும் திஸாநாயக்கவை பீரிஸ் எச்சரித்தார்.
+
+"ஜனாதிபதி என்ற ரீதியில் அவர் ஒரு ஐக்கியமான நபராக இருக்க வேண்டும் என்பதை புதிய ஜனாதிபதி உணர்ந்து கொள்ள வேண்டும், கிட்டத்தட்ட பாதி வாக்காளர்கள் தனக்கு வாக்களிக்கவில்லை, ஆனால் அவர் அவர்களின் ஜனாதிபதி என்பதையும் உணர்ந்து கொள்ள வேண்டும்" என்று பீரிஸ் கூறினார். R
+
+◼️
+
+[Data](articles/31778788.json)
+
+---
+
+### Anura Kumara claims big wins in Rathgama and Tangalle
+
+*2024-09-22 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102164/anura-kumara-claims-big-wins-in-rathgama-and-tangalle) · `en`
+
+The results of the Rathgama polling division in Galle District for the 2024 Presidential Election have been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of votes in the Rathgama polling division with a total of 30,323 votes.
+
+Meanwhile, Dissanayake has also topped the Tangalle polling division in the Hambantota District with 59,117 votes.
+
+◼️
+
+[Data](articles/05040396.json)
+
+---
 
 ### Galle - Rathgama
 
@@ -87,6 +203,18 @@ In the presidential election held yesterday, a Sri Lankan citizen voted for him 
 [Data](articles/834f4951.json)
 
 [Extended Data](ext_articles/834f4951.ext.json)
+
+---
+
+### இலங்கை தேர்தலில்  ட்ரம்புக்கு வாக்களிப்பு
+
+*2024-09-22 07:14:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தேர்தலில்-ட்ரம்புக்கு-வாக்களிப்பு/175-344146) · `ta`
+
+நேற்று இடம்பெற்ற ஜனாதிபதி தேர்தலில் இலங்கை பிரஜை ஒருவர் தமக்கு வழங்கப்பட்ட வாக்கு சீட்டில், அமெரிக்க ஜனாதிபதி வேட்பாளர் டொனால்ட் ட்ரம்பின் பெயரை எழுதி, அவருக்கு வாக்களித்துள்ளார்.
+
+◼️
+
+[Data](articles/e359c20d.json)
 
 ---
 
@@ -1857,231 +1985,5 @@ Anura Kumara Dissanayake is released before 14,482 votes in the Hambantota distr
 [Data](articles/34cb19cb.json)
 
 [Extended Data](ext_articles/34cb19cb.ext.json)
-
----
-
-### 2024 Presidential Election: Hambantota District postal vote results released
-
-*2024-09-22 01:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102135/2024-presidential-election-hambantota-district-postal-vote-results-released) · `en`
-
-The postal vote result of the Hambantota district in 2024 Presidential Election has been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 14,482 votes.
-
-Samagi Jana Sandhanaya candidate Sajith Premadasa (3,397) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 2,502.
-
-◼️
-
-[Data](articles/61e0ddce.json)
-
-[Extended Data](ext_articles/61e0ddce.ext.json)
-
----
-
-### 2024 Presidential Election: Polonnaruwa District postal vote results released
-
-*2024-09-22 01:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102134/2024-presidential-election-polonnaruwa-district-postal-vote-results-released) · `en`
-
-The postal vote result of the Polonnaruwa district in 2024 Presidential Election has been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 11,768 votes (61.26%).
-
-Samagi Jana Sandhanaya candidate Sajith Premadasa (4,120) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 2,762.
-
-Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa has polled 188 postal votes while ‘Sarvajana Balaya’ alliance candidate Dilith Jayaweera has obtained 56 votes.
-
-◼️
-
-[Data](articles/a321eb72.json)
-
-[Extended Data](ext_articles/a321eb72.ext.json)
-
----
-
-### Polonnaruwa Official Postal Vote
-
-*2024-09-22 01:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201285) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Polonnaruwa District postal vote results: Anura Kumara Dissanayake receives 11,768 votes.
-
-🟩
-
-The official postal voting outcome of the Polonnaruwa District has been released and Anura Kumara Dissanayake returns to 11,768 votes.
-
-◼️
-
-[Data](articles/f48af72b.json)
-
-[Extended Data](ext_articles/f48af72b.ext.json)
-
----
-
-### Travel at the curfew - the main announcement made by the police
-
-*2024-09-22 00:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194335) · `ta`
-
-Curfew restrictions: No permits issued for travel. Essential/emergency services exempt. Public may use duties as valid reason for movement.
-
-🟩
-
-The police will not issue a curfew permit to travel during the period of curfew.
-
-In addition, the general public can use their duty as a curfew, while traveling for essential services and emergency services, the police media unit said.
-
-◼️
-
-[Data](articles/81ffe9fe.json)
-
-[Extended Data](ext_articles/81ffe9fe.ext.json)
-
----
-
-### Curfew Law: Police Special Notice
-
-*2024-09-22 00:36:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-சட்டம்-பொலிஸ்-விசேட-அறிவிப்பு/175-344116) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Saturday night curfew: 10 PM to 6 AM Sunday. No distribution via police stations. Essential/Emergency services exempt."
-
-🟩
-
-The Police curfew will be in force on Saturday (21) from 10 pm to 6 am on Sunday (22).
-
-During this period, the curfew will not be distributed through police stations. The police media unit has announced that the Essential and Emergency Services can be used as a curfew as a curfew.
-
-◼️
-
-[Data](articles/1da4a4bb.json)
-
-[Extended Data](ext_articles/1da4a4bb.ext.json)
-
----
-
-### Chaw Championship under 17 years old: Sri Lanka's worst defeat to Bhutan
-
-*2024-09-22 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194337) · `ta`
-
-Sri Lanka's U-17 football team suffered a 5-1 loss to Bhutan in the South Asian Championship. Critics blame poor training and coach Aruna Sampath. Young Sri Lankan players struggled against Bhutan's dominant performance.
-
-🟩
-
-Sri Lanka lost to Bhutan at the under -17 South Asian Football Championship B team at the Sanglimitang Stadium in Bhutan's capital Timbu on Saturday night.
-
-Bhutan won the match by 5 - 1 in the upting match.
-
-The reason for this failure is that the players are not properly trained. Football critics have stated that team instructor Aruna Sampath should take responsibility for this.
-
-Young Sri Lankan players did not play as an entire item on YouTube.
-
-In the 14th minute of the match, Karma Yeesay Tabke hit the ball with his head and put a stupid goal in the presence of Bhutan.
-
-Sayon Lama inserted Bhutan's 2nd goal as it was within 5 minutes of the break.
-
-Bhutan, who dominated the match after the break, scored 3 more goals.
-
-In the 57th minute, Sismi Topten Dorjee, Dinley Yesar in the 78th minute, and Tundin Fantsho in the 83rd minute scored goals on behalf of Bhutan.
-
-In the 65th minute of Sri Lanka, Mohammed Zayed Mohammed Ibam scored a comfort goal.
-
-◼️
-
-[Data](articles/7442cf81.json)
-
-[Extended Data](ext_articles/7442cf81.ext.json)
-
----
-
-### Poultry Paddy Chelladurai - Film Review
-
-*2024-09-22 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194322) · `ta`
-
-"Poultry Paddy Chelladurai" film review summary:
-
-
-
-Seanu Ramaswamy directs actors Egan, Yogi Babu, Brigita Saga, Satya Devi, Leo Sivakumar. Story follows soldier family struggles, sibling rivalry, and personal growth. Director fails to convey emotional depth, but newcomers shine. Cinematography and music provide comfort. Overall mixed reception due to predictable plot and underdeveloped themes.
-
-🟩
-
-Actors: Egan, Yogi Babu, Brigita Saga, Satya Devi, Leo Sivakumar, Bawa Chelladurai, Kutty Tiger Dinesh and many others.
-
-The film was directed by Seanu Ramaswamy, the winner of the national award -winning creator Seenu Ramaswamy.. Did the film impress all the fans?Or not?We will continue to see.
-
-The Indian Army (Riaz) and his wife (Aishwarya Dutta) have a male child at the age of 11, and the female child at an early age.
-
-The husband goes to the training camp to become an agent of a life insurance company, who wants to spend the leisure time available for her husband to work in her life.
-
-At the event where one person sings the movie song. He faints to his voice.
-
-After the children went to school.. The singer is looking for the house where the wife of the soldier.
-
-Marriage occurs in the past relationship for both. To inform her husband of the neighbors who work in Amy.. They both escape from there to visit both hands and hands.
-
-...
-
-[Data](articles/f8dc358b.json)
-
-[Extended Data](ext_articles/f8dc358b.ext.json)
-
----
-
-### Sri Lanka Police announcement on curfew passes
-
-*2024-09-22 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102133/sri-lanka-police-announcement-on-curfew-passes-) · `en`
-
-Sri Lanka Police announced that police stations will not be issuing curfew passes for travel during the curfew period.
-
-Issuing a release, The Police Media Division said that essential workers and emergency services personnel can use their official identity cards as a curfew pass.
-
-Curfew has been imposed islandwide with effect from 10.00 p.m. tonight (21) until 06.00 a.m. tomorrow (22).
-
-This decision has been taken by the incumbent President Ranil Wickramasinghe under the provisions of the Public Security Ordinance, in view of the releasing of the results of 2024 presidential election tonight.
-
-However, the Police Media Division had stated that although the post-election situation in the country is very peaceful, this curfew was imposed for further safety of the public. Furthermore, Sri Lanka Police urged the general public to stay in their houses during the curfew period.
-
-...
-
-[Data](articles/508ffc55.json)
-
-[Extended Data](ext_articles/508ffc55.ext.json)
-
----
-
-### Rishabh Bond scored a century and equals the record for Indian wicketkeeper
-
-*2024-09-22 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194336) · `ta`
-
-Rishabh Bond scores century, equals MS Dhoni's record as India's first wicketkeeper to achieve 6 Test centuries. India vs Bangladesh match update: India sets 515-run target, Bangladesh struggles in second innings.
-
-🟩
-
-Chennai, Chepakkam M between India and Bangladesh. A.. Rishabh Bond has scored his 6th century in the first Test cricket match at Chidambaram Stadium and proved to be India's first wicketkeeper.
-
-Almost two years later, Rishabh Bond, who re -entered Test cricket, equaled the record for the Indian wicketkeeper who scored the 6th century.
-
-M.. S.. Dhoni balanced the record of 6 Test centuries.
-
-On the 3rd day of the match, India set their target of 515 runs for Bangladesh when they lost 4 wickets for 4 wickets for the loss of 83 runs for the loss of 3 wickets.
-
-Rishabh Bond, who scored 109 runs in India's second innings, shared 167 runs with Shubman Kill in the 4th wicket.
-
-Kill with 119 runs when India stopped the second innings. Rahul did not lose 22 runs.
-
-Bangladesh were bowled out for the most difficult, unthinkable 515 runs in the 2nd innings, losing 4 wickets at the end of the third day's play and scoring 158 runs.
-
-Team captain Najmul Hosain Santo did not lose 51 runs and Shakib Al Hasan 5.
-
-...
-
-[Data](articles/3a25f247.json)
-
-[Extended Data](ext_articles/3a25f247.ext.json)
 
 ---

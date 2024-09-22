@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 01:22:16**
+As of **2024-09-23 01:38:35**
 
 ## Newspaper Stats
 
-*Scraped **45,659** Articles*
+*Scraped **45,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,192
 dailymirrorlk | 4,733
 adaderanalk | 5,376
-tamilmirrorlk | 6,072
+tamilmirrorlk | 6,073
 virakesarilk | 7,292
 adaderanasinhalalk | 7,907
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 7,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,657 (100.0%) of 45,659 articles have been extended.
+45,660 (100.0%) of 45,660 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-09-23 (Monday)
+
+### Indian High Commissioner Santosh Ja meets President Anura
+
+*2024-09-23 01:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/194559) · `ta`
+
+Indian High Commissioner Santosh Jha meets Sri Lankan President Anura Kumara Dissanayake. Congratulates India's leadership and Sri Lankan people on election victory. Emphasizes shared values and commitment to strengthen bilateral ties for mutual prosperity.
+
+🟩
+
+Indian High Commissioner Santosh Ja, who met with Anura Kumara Dissanayake, who was elected as the 9th Executive President of Sri Lanka, congratulated the Indian leadership and congratulated the people's mandate.
+
+He added that the twins with many civilized similarities are committed to further strengthening relationships for the prosperity of the people of our two countries.
+
+◼️
+
+[Data](articles/e7d71edc.json)
+
+[Extended Data](ext_articles/e7d71edc.ext.json)
+
+---
+
+### Greeting the US
+
+*2024-09-23 01:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுக்கு-அமெரிக்கா-வாழ்த்து/175-344277) · `ta`
+
+US Ambassador Julie Sung congratulates Anura Kumara Dissanayake on his presidential election win, praising Sri Lanka's peaceful democracy. She expresses readiness to collaborate based on mutual interests.
+
+🟩
+
+US Ambassador to Sri Lanka Julie Sung has congratulated Anura Kumara Dissanayake for his victory in the presidential election.
+
+"We appreciate the Sri Lankan people for peaceful use of their democratic rights," he said.
+
+Julie Sung said he was ready to work together on the basis of shared preferences. (A)
+
+◼️
+
+[Data](articles/cb44c8f8.json)
+
+[Extended Data](ext_articles/cb44c8f8.ext.json)
+
+---
+
 ### 2024-09-22 (Sunday)
+
+### Everyone should unite as a grid for the country - the new president's appeal!
+
+*2024-09-22 23:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194556) · `ta`
+
+New president appeals unity: "We must unite as a grid for our country," said Anura Kumara Dissanayake. He emphasized collective effort over individual success. All citizens, regardless of support, should work together as Sri Lankans.
+
+🟩
+
+Anurakumara Dissanayake, the new president, said that the presidential election was the first victory.
+
+President Anura Kumara Dissanayake said this while addressing the event at the Election Commission.
+
+Challenges cannot be succeeded by individual and team. President Anura Kumara Dissanayake said that everyone should unite for the country and negotiate for it.
+
+President Anura Kumara Dissanayake said that all citizens who did not support and support me would work together as a Sri Lankan.
+
+◼️
+
+[Data](articles/537c35c6.json)
+
+[Extended Data](ext_articles/537c35c6.ext.json)
+
+---
 
 ### Governor of Sabaragamuwa Province
 
@@ -47,20 +115,6 @@ Governor of Sabaragamuwa Province Naveen Dissanayake resigned from his post on S
 [Data](articles/1e5fe4cb.json)
 
 [Extended Data](ext_articles/1e5fe4cb.ext.json)
-
----
-
-### ஜனாதிபதி அநுரவை சந்தித்தார் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா
-
-*2024-09-22 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194559) · `ta`
-
-இலங்கையின் 9 ஆவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாகத் தெரிவு செய்யப்பட்டுள்ள அநுர குமார திசாநாயக்கவைச் சந்தித்த இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, இந்தியத் தலைமைத்துவத்தின் நல்வாழ்த்துகளைத் தெரிவித்ததுடன், மக்களின் ஆணையினை வென்றமைக்காக பாராட்டுகளையும் தெரிவித்திருந்தார்.
-
-பல நாகரிக ஒற்றுமைகளை கொண்டுள்ள இரட்டையராகவும் நமது இரு நாடுகளினதும் மக்களது செழுமைக்காக உறவுகளை மேலும் வலுவாக்க உறுதிபூண்டுள்ளது என அவர் மேலும் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/e7d71edc.json)
 
 ---
 
@@ -114,25 +168,35 @@ Despite the lack of war Sri Lanka began to experience severe balance of payments
 
 ---
 
-### இலங்கை இளையோர் கால்பந்தாட்ட அணிகளுக்கு தொடரும் தோல்விகள்
+### Continuing failures for Sri Lankan youth football teams
 
 *2024-09-22 22:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194558) · `ta`
 
-பூட்டான் தலைநகர் திம்புவில் நடைபெற்றுவரும் 17 வயதுக்குட்பட்ட சாவ் சம்பியன்ஷிப் கால்பந்தாட்டப் போட்டியில் பூட்டானிடம் இலங்கை தோல்வி அடைந்த 20 வயதுக்குட்ட இலங்கை அணி வட கொரியாவிடம் தோல்வி அடைந்தது.
+Sri Lankan youth football teams face setbacks: loss to North Korea in Bhutan tournament, defeat to Bhutan 1-5 in under-17 match. North Korea also loses 0-4 in AFC Asian Cup qualifiers. Sri Lanka faces Tajikistan, Oman, and Malaysia upcoming matches.
 
-17 வயதுக்குட்பட்ட கால்பந்தாட்டத்தில் பூட்டானிடம் 1 - 5 என்ற கோல்கள் வித்தியாசத்தில் இலங்கை தோல்வி அடைந்தது.
+🟩
 
-தொடர்ந்து தஜிகிஸ்தானின் டுஷான்பேயில் நடைபெற்றுவரும் 20 வயதுக்குட்பட்ட AFC ஆசிய கிண்ண 2025 தகுதிகாண் ஈ குழு போட்டியில் வட கொரியாவிடம் 0 - 4 என்ற கோல்கள் வித்தியாசத்தில் இலக்கை தோல்வி அடைந்தது.
+Sri Lanka's 20 -year -old Sri Lankan team lost to North Korea in Bhutan in the under -17 Chaw Championship Football Tournament in Bhutan's capital Timbu.
 
-போட்டியின் முதலாவது பகுதியில் வட கொரியாவை ஒரு கோலுக்கு கட்டுப்படுத்திய இலங்கை, இரண்டாவது பகுதியில் மோசமான ஆட்டத்தை வெளிப்படுத்தி 3 கோல்களை தாரைவார்த்தது.
+Sri Lanka lost to Bhutan by a margin of 1 - 5 in the under -17 football.
 
-அப் போட்டியில் வட கொரியாவின் முன்கள வீரர் ரி ஜொங் டொக், ஹெட் - ட்ரிக் முறையில் கோல்களைப் போட்டு அசத்தினார். அவர் அந்த 3 கோல்களையும்  தலையால் முட்டி போட்டமை விசேட அம்சமாகும்.
+Subsequently, North Korea lost the target by 0 - 4 in the AFC Asian Bowl 2025 qualifying E. Group Under -20, in Tusanbay, Dushanbe.
 
-போட்டியின் 34ஆவது நிமிடத்தில் அணித் தலைவர் ச்சோ குக் பரிமாறிய பந்தை ரி ஜொங் டொக் தலையால் முட்டி முதலாவது கோலைப் போட்டு வட கொரியாவை முன்னிலையில் இட்டார்.
+In the first part of the match, Sri Lanka controlled North Korea for a goal and scored 3 goals in the second part.
+
+North Korea's forerunner Ri Jong Doc, a head -trick score in the upting match. It is a special feature that he is knocked out with those 3 goals.
+
+In the 34th minute of the match, team captain Xo Cook scored the ball with R Jong Dog with his first goal in the presence of North Korea.
+
+In the first minute (46th minute), Ri Jong Dog kicked the ball in the first minute (46th minute).
+
+In the 64th minute of the match, Kim Jin Song scored the ball with Ri Jong Dog's head and doubled his own goal.
 
 ...
 
 [Data](articles/61d2021e.json)
+
+[Extended Data](ext_articles/61d2021e.ext.json)
 
 ---
 
@@ -195,30 +259,6 @@ I accepted that responsibility when many did not have much spirit of self-streng
 [Data](articles/e068f9f6.json)
 
 [Extended Data](ext_articles/e068f9f6.ext.json)
-
----
-
-### Everyone should unite as a grid for the country - the new president's appeal!
-
-*2024-09-22 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194556) · `ta`
-
-New president appeals unity: "We must unite as a grid for our country," said Anura Kumara Dissanayake. He emphasized collective effort over individual success. All citizens, regardless of support, should work together as Sri Lankans.
-
-🟩
-
-Anurakumara Dissanayake, the new president, said that the presidential election was the first victory.
-
-President Anura Kumara Dissanayake said this while addressing the event at the Election Commission.
-
-Challenges cannot be succeeded by individual and team. President Anura Kumara Dissanayake said that everyone should unite for the country and negotiate for it.
-
-President Anura Kumara Dissanayake said that all citizens who did not support and support me would work together as a Sri Lankan.
-
-◼️
-
-[Data](articles/537c35c6.json)
-
-[Extended Data](ext_articles/537c35c6.ext.json)
 
 ---
 
@@ -2295,25 +2335,5 @@ Horana: A small town located in Sri Lanka. It is known for its lush green landsc
 [Data](articles/fe17ade5.json)
 
 [Extended Data](ext_articles/fe17ade5.ext.json)
-
----
-
-### Matale District - Matale Election Results
-
-*2024-09-22 15:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-மாவட்டம்-மாத்தளை-தேர்தல்-முடிவுகள்/175-344231) · `ta`
-
-Here's a summary of the Matale District election results in approximately 200 characters:
-
-
-
-Matale District election results: [Insert specific details about party wins, candidate names, and vote percentages here]. Key highlights: [Brief mention of any notable outcomes or trends].
-
-🟩
-
-◼️
-
-[Data](articles/278abef1.json)
-
-[Extended Data](ext_articles/278abef1.ext.json)
 
 ---

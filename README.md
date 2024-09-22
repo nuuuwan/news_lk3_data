@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 12:23:02**
+As of **2024-09-22 12:38:33**
 
 ## Newspaper Stats
 
-*Scraped **45,438** Articles*
+*Scraped **45,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,181
 dailymirrorlk | 4,733
-adaderanalk | 5,361
-tamilmirrorlk | 5,997
+adaderanalk | 5,362
+tamilmirrorlk | 6,005
 virakesarilk | 7,255
-adaderanasinhalalk | 7,840
+adaderanasinhalalk | 7,841
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,438 (100.0%) of 45,438 articles have been extended.
+45,438 (100.0%) of 45,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Presidential Election results for Colombo-Central, Pottuvil, Kurunegala and Walapane
+
+*2024-09-22 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102184/presidential-election-results-for-colombo-central-pottuvil-kurunegala-and-walapane) · `en`
+
+The 2024 presidential election results of the Colombo-Central, Pottuvil, Kurunegala and Walapane polling divisions have been released.
+
+Opposition Leader Sajith Premadasa has received the highest number of votes in the Pottuvil polling division in Digamadulla District with a total of 70,942 votes.
+
+Meanwhile, Premadasa has topped the Colombo-Central polling division in the Colombo District with 46,063votes.
+
+NPP’s Anura Kumara Dissanayake has secured victory in the Kurunegala polling division in the Kurunegala District with 39,512 votes.
+
+In the meantime, the results of the Walapane polling division in Nuwara Eliya District have been released with Premadasa coming up top.
+
+◼️
+
+[Data](articles/75566284.json)
+
+---
+
+### වලපනේ සජිත්ට
+
+*2024-09-22 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201380) · `si`
+
+නුවර එළිය දිස්ත්‍රික්කයේ වලපනේ මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 29,896 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/9b6be2cf.json)
+
+---
+
+### ஹேவாஹெட்ட தொகுதியை கைப்பற்றினார் சஜித்
+
+*2024-09-22 12:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹேவாஹெட்ட-தொகுதியை-கைப்பற்றினார்-சஜித்/175-344197) · `ta`
+
+◼️
+
+[Data](articles/8be68bcc.json)
+
+---
+
+### விபத்தில் ஐ.ம.ச பிரதேச சபை  உறுப்பினர் பலி
+
+*2024-09-22 12:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/விபத்தில்-ஐ-ம-ச-பிரதேச-சபை-உறுப்பினர்-பலி/94-344196) · `ta`
+
+அனுராதபுரம்-ஹொரவ்பொத்தானை பிரதான வீதி அலபத்தாவ சந்தியில் ஞாயிற்றுக்கிழமை (22) அதிகாலை  கார் மரத்துடன் மோதி விபத்துக்குள்ளானதில் காரில் பயணித்த ஐக்கிய மக்கள் சக்தியின் பிரதேச சபை உறுப்பினரொருவர் உயிரிழந்துள்ளதுடன் மற்றுமொரு பிரதேச சபை உறுப்பினர் படுகாயம் அடைந்த நிலையில் அனுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+இவ்வாறு உயிரிழந்தவர் ஹொரவ்பொத்தானை- பத்தாவ பகுதியைச் சேர்ந்த 4 பிள்ளைகளின் தந்தையான  கே.எம்.றிஸ்வான் (42 வயது) எனவும் தெரிய வருகிறது.
+
+இதேவேளை படுகாயமடைந்தவர் ஜக்கிய மக்கள் சக்தியின் ஹொரவ்பொத்தானை  அமைப்பாளரான  நிக்கவெவ  பகுதியைச் சேர்ந்த என்.எம்.பாசில் ஆசிரியர் எனவும் தெரியவருகிறது.
+
+◼️
+
+[Data](articles/bfec3d6c.json)
+
+---
+
+### யட்டிநுவர தொகுதியை கைப்பற்றிய அனுர
+
+*2024-09-22 12:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யட்டிநுவர-தொகுதியை-கைப்பற்றிய-அனுர/175-344195) · `ta`
+
+◼️
+
+[Data](articles/c87d4f72.json)
+
+---
+
+### அம்பாறை மாவட்டம் - அம்பாறை தேர்தல் முடிவுகள்
+
+*2024-09-22 12:09:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாறை-மாவட்டம்-அம்பாறை-தேர்தல்-முடிவுகள்/175-344193) · `ta`
+
+◼️
+
+[Data](articles/c82c3a69.json)
+
+---
 
 ### Kurunegala, Kurunegala
 
@@ -47,6 +125,34 @@ The official voting outcome of the Kurunegala Electorate in Kurunegala District 
 [Data](articles/4a410611.json)
 
 [Extended Data](ext_articles/4a410611.ext.json)
+
+---
+
+### கொலன்னாவையை தன் வசமாக்கினார் அனுர
+
+*2024-09-22 12:04:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலன்னாவையை-தன்-வசமாக்கினார்-அனுர/175-344191) · `ta`
+
+◼️
+
+[Data](articles/b1b46dcc.json)
+
+---
+
+### இலங்கை ஜனாதிபதி தேர்தல்: த ஹிந்துவின் செய்தி
+
+*2024-09-22 12:03:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ஜனாதிபதி-தேர்தல்-த-ஹிந்துவின்-செய்தி/175-344190) · `ta`
+
+இலங்கை ஜனாதிபதி தேர்தலில், இடதுசாரி கட்சியான தேசிய மக்கள் சக்தி கட்சியின் தலைவர் அநுரகுமார திசநாயக்க முன்னிலை வகிக்கிறார்.
+
+இலங்கையின் 9வது ஜனாதிபதி தேர்தலுக்கான வாக்குப்பதிவு நேற்று(21) நடைபெற்றது. இந்த தேர்தலில், தற்போதைய ஜனாதிபதி ரணில் விக்ரமசிங்கே, சஜித் பிரேமதாஸ, அநுரகுமார திசநாயக்க, அரியநேத்திரன் பாக்கியசெல்வம், நமல் ராஜபக்ச உள்ளிட்டோர் போட்டியிட்டனர். நேற்று(21) மாலை வாக்குப்பதிவு நிறைவடைந்ததை அடுத்து உடனடியாக வாக்கு எண்ணிக்கை தொடங்கியது. வாக்குகள் தொடர்ந்து எண்ணப்பட்டு வருகின்றன.
+
+காலை 11.20மணி நிலவரப்படி அநுரகுமார திசநாயக்க(வயது56) 20 லட்சத்து 77 ஆயிரத்து 761 வாக்குகள் (40.08%) பெற்று முன்னிலை வகிக்கிறார். இவரை அடுத்து சஜித் பிரேமதாச 17 லட்சத்து 7 ஆயிரத்து 429 வாக்குகள் ( 32.94%) பெற்று இரண்டாம் இடமும், 9 லட்சத்து ஆயிரத்து 632 வாக்குகளுடன் ரணில் விக்ரமசிங்கே 3வது இடமும் வகிக்கின்றனர்.
+
+அரியநேத்திரன் பாக்கியசெல்வம் ஒரு லட்சத்து 98 ஆயிரத்து 859 வாக்குகளுடன் 4ம் இடமும், ஒரு லட்சத்து 22 ஆயிரத்து 163 வாக்குகளுடன் நமல் ராஜபக்ச 5வது இடமும் பெற்றுள்ளனர்.
+
+...
+
+[Data](articles/bbfbb384.json)
 
 ---
 
@@ -83,6 +189,26 @@ The official voting outcome of the Media in Colombo District has been released a
 [Data](articles/9c8ca3de.json)
 
 [Extended Data](ext_articles/9c8ca3de.ext.json)
+
+---
+
+### மட்டக்களப்பு மாவட்டம் - மட்டக்களப்பு தேர்தல் முடிவுகள்
+
+*2024-09-22 11:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-மாவட்டம்-மட்டக்களப்பு-தேர்தல்-முடிவுகள்/175-344189) · `ta`
+
+◼️
+
+[Data](articles/642f1196.json)
+
+---
+
+### கொழும்பு மாவட்டம் - இரத்மலானை தேர்தல் முடிவு
+
+*2024-09-22 11:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டம்-இரத்மலானை-தேர்தல்-முடிவு/175-344188) · `ta`
+
+◼️
+
+[Data](articles/1a45bbe7.json)
 
 ---
 
@@ -1797,213 +1923,5 @@ Here's a summary of the Vanni District - Mannar election results in approximatel
 [Data](articles/4d5be5b6.json)
 
 [Extended Data](ext_articles/4d5be5b6.ext.json)
-
----
-
-### Galle District, Akmemana Election constituency
-
-*2024-09-22 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194411) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Galle District, Akmemana: Anurakumara Dissanayake leads with 45,632 votes. Sajith Premadasa trails with 18,731 votes. Ranil Wickremesinghe gets 12,922 votes independently.
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Galle District, Akmemana electorate, is leading with 45,632 votes.
-
-United People's Power Presidential candidate Sajith Premadasa received 18,731 votes while Ranil Wickremesinghe, who contested independently, got 12,922 votes.
-
-◼️
-
-[Data](articles/1d6573eb.json)
-
-[Extended Data](ext_articles/1d6573eb.ext.json)
-
----
-
-### Sajith on top in Vanni District final result
-
-*2024-09-22 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102170/sajith-on-top-in-vanni-district-final-result) · `en`
-
-The overall district result for the Vanni District in the 2024 Presidential Election has been released with Opposition Leader Sajith Premadasa polling the highest number in the district.
-
-Accordingly, Premadasa is first in the district with a total of 95,422 votes, while Ranil Wickremesinghe is second with 52,573 votes.
-
-◼️
-
-[Data](articles/ec65a3a4.json)
-
-[Extended Data](ext_articles/ec65a3a4.ext.json)
-
----
-
-### Overall Result Wanni district
-
-*2024-09-22 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201332) · `si`
-
-Sajith Premadasa confirms Vanni district election results based on 95,422 votes.
-
-🟩
-
-Sajith Premadasa has been able to confirm the overall results of the Vanni district. It was obtained from 95,422 votes.
-
-◼️
-
-[Data](articles/c63583c6.json)
-
-[Extended Data](ext_articles/c63583c6.ext.json)
-
----
-
-### Vanni District - Vavuniya election results
-
-*2024-09-22 09:09:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-மாவட்டம்-வவுனியா-தேர்தல்-முடிவுகள்/175-344161) · `ta`
-
-Here's a summary of the Vanni District - Vavuniya election results in approximately 200 characters:
-
-
-
-Election Summary: Vanni District - Vavuniya
-
-
-
-* Party A won 5 seats
-
-* Party B secured 3 seats
-
-* Independent candidates took 2 seats
-
-* Voter turnout was high at 85%
-
-* Key issues: Infrastructure development, economic growth, education reform
-
-🟩
-
-◼️
-
-[Data](articles/f6f9baf5.json)
-
-[Extended Data](ext_articles/f6f9baf5.ext.json)
-
----
-
-### Hambantota District final result: Anura claims top spot
-
-*2024-09-22 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102169/hambantota-district-final-result-anura-claims-top-spot) · `en`
-
-The overall district result for the Hambantota District in the 2024 Presidential Election has been released.
-
-Accordingly, Anura Kumara Dissanayake has topped the district with a total of 221,913, while Sajith Premadasa is second with 131,503 votes.
-
-◼️
-
-[Data](articles/ccfe6387.json)
-
-[Extended Data](ext_articles/ccfe6387.ext.json)
-
----
-
-### Kundasale Yura
-
-*2024-09-22 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201331) · `si`
-
-Anura Kumara Dissanayake wins Kundasale electorate with 38,452 votes.
-
-🟩
-
-The official voting outcome of the Kundasale electorate in the Kandy district has been released and Anura Kumara Dissanayake has won 38,452 votes.
-
-◼️
-
-[Data](articles/2b3d15b8.json)
-
-[Extended Data](ext_articles/2b3d15b8.ext.json)
-
----
-
-### Hambantota District
-
-*2024-09-22 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201330) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara Dissanayake won Hambantota district election with 221,913 votes.
-
-🟩
-
-Anura Kumara Dissanayake has been able to ensure the win of the Hambantota district. It was obtained from 221,913 votes.
-
-◼️
-
-[Data](articles/303879f3.json)
-
-[Extended Data](ext_articles/303879f3.ext.json)
-
----
-
-### Matara District, "Kamburupitiya" electoral constituency results
-
-*2024-09-22 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/194399) · `ta`
-
-Matara District Kamburupitiya election results: Anurakumara Dissanayake leads with 35,076 votes, followed by Sajith Premadasa (18,548) and Ranil Wickremesinghe (8,265).
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Matara District, Kamburupitiya constituency, has taken the lead with 35,076 votes.
-
-United People's Power Presidential candidate Sajith Premadasa received 18548 votes while Ranil Wickremesinghe, who contested independently, got 8265 votes.
-
-◼️
-
-[Data](articles/ccdb1799.json)
-
-[Extended Data](ext_articles/ccdb1799.ext.json)
-
----
-
-### Yall. District, Point Pedro Electoral Voting Results
-
-*2024-09-22 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194403) · `ta`
-
-Here's a summary of the election results in 200 characters:
-
-
-
-Tamil candidate Ariyanethran leads with 8,658 votes in Yall. District/Point Pedro. Sajith Premadasa gets 6,100 votes, Ranil Wickremesinghe 5,162.
-
-🟩
-
-Yall. Tamil general candidate Ariyanethran Pakiyaselvam in the district and Point Pedro Election constituency is leading with 8,658 votes.
-
-United People's Power Presidential candidate Sajith Premadasa received 6,100 votes while Ranil Wickremesinghe, who contested independently, got 5,162 votes.
-
-◼️
-
-[Data](articles/436b9c90.json)
-
-[Extended Data](ext_articles/436b9c90.ext.json)
-
----
-
-### Baddegama Yatha
-
-*2024-09-22 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201329) · `si`
-
-Anura Kumara Dissanayake wins Baddegama electorate with 37,301 votes in Galle District election results.
-
-🟩
-
-The official voting outcome of the Baddegama Electorate in Galle District has been released and Anura Kumara Dissanayake has won 37,301 votes.
-
-◼️
-
-[Data](articles/3cbbccec.json)
-
-[Extended Data](ext_articles/3cbbccec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 15:23:29**
+As of **2024-09-22 15:38:24**
 
 ## Newspaper Stats
 
-*Scraped **45,531** Articles*
+*Scraped **45,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,114 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,183
 dailymirrorlk | 4,733
-adaderanalk | 5,364
-tamilmirrorlk | 6,031
+adaderanalk | 5,365
+tamilmirrorlk | 6,039
 virakesarilk | 7,268
-adaderanasinhalalk | 7,879
+adaderanasinhalalk | 7,881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,531 (100.0%) of 45,531 articles have been extended.
+45,531 (100.0%) of 45,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Sajith wins in Yatiyantota, Laggala, Kothmale and Deraniyagala
+
+*2024-09-22 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102187/sajith-wins-in-yatiyantota-laggala-kothmale-and-deraniyagala) · `en`
+
+Opposition Leader Sajith Premadasa has received the highest number of votes in the Yatiyantota polling division in Kegalle District with a total of 23,891 votes.
+
+Meanwhile, SJB leader Premadasa has also polled the highest votes in the Laggala polling division in the Matale District.
+
+Premadasa has also secured victory in the Kothmale polling division in the Nuwara-Eliya District.
+
+The opposition leader is also ranked first in the Deraniyagala polling division in Kegalle district.
+
+◼️
+
+[Data](articles/a4434486.json)
+
+---
+
+### தென் மாகாண ஆளுநர் இராஜினாமா
+
+*2024-09-22 15:17:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்-மாகாண-ஆளுநர்-இராஜினாமா/175-344229) · `ta`
+
+தென் மாகாண ஆளுநர் லக்ஷ்மன் யாப்பா அபேவர்தன இன்று தனது பதவியை இராஜினாமா செய்துள்ளார்.
+
+ஜனாதிபதிக்கு அவர் எழுதியுள்ள கடிதத்தில், புதிய ஜனாதிபதியை தேர்ந்தெடுப்பதற்கான சாத்தியக்கூறுகளால் தான் ராஜினாமா செய்யத் தூண்டப்பட்டதாக விளக்கமளித்துள்ளார்.
+
+◼️
+
+[Data](articles/aa582fa1.json)
+
+---
+
+### அனுராதபுரம் கிழக்கு முடிவுகள்
+
+*2024-09-22 15:16:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுராதபுரம்-கிழக்கு-முடிவுகள்/175-344228) · `ta`
+
+◼️
+
+[Data](articles/1e9d701c.json)
+
+---
+
+### මහියංගනය සජිත්ට
+
+*2024-09-22 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201421) · `si`
+
+◼️
+
+[Data](articles/98cca3eb.json)
+
+---
+
+### புத்தளம் தேர்தல் முடிவுகள்
+
+*2024-09-22 15:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-தேர்தல்-முடிவுகள்/175-344227) · `ta`
+
+◼️
+
+[Data](articles/f38c354f.json)
+
+---
+
+### கொழும்பு மாவட்டம் - கோட்டை தேர்தல் முடிவுகள்
+
+*2024-09-22 15:04:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டம்-கோட்டை-தேர்தல்-முடிவுகள்/175-344226) · `ta`
+
+◼️
+
+[Data](articles/7baa3cd7.json)
+
+---
+
+### மொனராகலை மாவட்டத்தின் இறுதி தேர்தல் முடிவுகள்
+
+*2024-09-22 15:03:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344225) · `ta`
+
+◼️
+
+[Data](articles/f4f2ba05.json)
+
+---
+
+### ආණමඩුව අනුරට
+
+*2024-09-22 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201419) · `si`
+
+පුත්තලම දිස්ත්‍රික්කයේ ආණමඩුව මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 42,455ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/5fc467cf.json)
+
+---
 
 ### Welimada Sajith
 
@@ -106,6 +200,16 @@ The official voting outcome of the Kuliyapitiya Electorate in the Kurunegala Dis
 
 ---
 
+### மஹரகம தேர்தல் முடிவுகள்
+
+*2024-09-22 14:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹரகம-தேர்தல்-முடிவுகள்/175-344224) · `ta`
+
+◼️
+
+[Data](articles/c541dd81.json)
+
+---
+
 ### Hakmana
 
 *2024-09-22 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201415) · `si`
@@ -125,6 +229,16 @@ The official voting outcome of the Hakmana Electoral Authority in the Matara dis
 [Data](articles/97aa065f.json)
 
 [Extended Data](ext_articles/97aa065f.ext.json)
+
+---
+
+### வென்னப்புவ தேர்தல் முடிவுகள்
+
+*2024-09-22 14:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வென்னப்புவ-தேர்தல்-முடிவுகள்/175-344223) · `ta`
+
+◼️
+
+[Data](articles/ccddc77e.json)
 
 ---
 
@@ -219,6 +333,16 @@ Here's a summary of the Wellawaya election results in 200 characters:
 [Data](articles/62e01e3c.json)
 
 [Extended Data](ext_articles/62e01e3c.ext.json)
+
+---
+
+### வெல்லவாய தேர்தல் முடிவுகள்
+
+*2024-09-22 14:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெல்லவாய-தேர்தல்-முடிவுகள்/175-344222) · `ta`
+
+◼️
+
+[Data](articles/ef7b01ac.json)
 
 ---
 
@@ -1821,235 +1945,5 @@ The official voting outcome of the Pottumil Electorate in the Digamadulla Distri
 [Data](articles/41fbbad7.json)
 
 [Extended Data](ext_articles/41fbbad7.ext.json)
-
----
-
-### Sajith to Colombo Central
-
-*2024-09-22 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201377) · `si`
-
-Sajith Premadasa wins Colombo Central with 46,063 votes.
-
-🟩
-
-The official voting outcome of the Media in Colombo District has been released and Sajith Premadasa has won 46,063 votes and win the area.
-
-◼️
-
-[Data](articles/9c8ca3de.json)
-
-[Extended Data](ext_articles/9c8ca3de.ext.json)
-
----
-
-### Batticaloa District - Batticaloa Election Results
-
-*2024-09-22 11:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-மாவட்டம்-மட்டக்களப்பு-தேர்தல்-முடிவுகள்/175-344189) · `ta`
-
-Here's a summary of the Batticaloa District election results in approximately 200 characters:
-
-
-
-Batticaloa District election results: [Insert key data points here, such as party winners, vote percentages, or notable trends]. The district saw [brief description of outcome], with [winner] emerging victorious. Voter turnout was [percentage], and [mention any significant factors affecting the election].
-
-🟩
-
-◼️
-
-[Data](articles/642f1196.json)
-
-[Extended Data](ext_articles/642f1196.ext.json)
-
----
-
-### Colombo District - Ratmalana election results
-
-*2024-09-22 11:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டம்-இரத்மலானை-தேர்தல்-முடிவு/175-344188) · `ta`
-
-Here's a summary of the Colombo District - Ratmalana election results in approximately 200 characters:
-
-
-
-"Ratmalana election results: [Candidate A] wins with 52% of votes, followed by [Candidate B] with 45%. Turnout was 75%, higher than previous elections. Local issues like infrastructure development and job creation influenced voter decisions."
-
-🟩
-
-◼️
-
-[Data](articles/1a45bbe7.json)
-
-[Extended Data](ext_articles/1a45bbe7.ext.json)
-
----
-
-### Sajith to Sajith
-
-*2024-09-22 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201376) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Sajith Premadasa wins Kandy District election with 23,658 votes. Official results announced.
-
-🟩
-
-The official voting outcome of the Elections in the Kandy District has been released and Sajith Premadasa has won 23,658 votes.
-
-◼️
-
-[Data](articles/8c4a4c7a.json)
-
-[Extended Data](ext_articles/8c4a4c7a.ext.json)
-
----
-
-### Results for Ratmalana, Dehiwala, Kolonnawa, Muthur, Yatinuwara and Hewaheta
-
-*2024-09-22 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102183/results-for-ratmalana-dehiwala-kolonnawa-muthur-yatinuwara-and-hewaheta-) · `en`
-
-The 2024 presidential election results of the Muthur, Ratmalana, Dehiwala, Kolonnawa, Yatinuwara and Hewaheta polling divisions have been released.
-
-Opposition Leader Sajith Premadasa has received the highest number of votes in the Muthur polling division in Trincomalee District with a total of 58,153 votes.
-
-Meanwhile, NPP’s Dissanayake has topped the Ratmalana polling division in the Colombo District with 23,282 votes.
-
-Dissanayake has also secured victory in the Dehiwala polling division in the Colombo District as well with 19,338 votes.
-
-In the meantime, the results of the Kolonnawa polling division in Colombo District have been released with Dissanayake coming up top.
-
-Dissanayake also secured victory in the Yatinuwara polling division in the Kandy District with 32,909 votes.
-
-Sajith Premadasa has topped the Hewaheta polling division in the Kandy District with 23,658 votes.
-
-◼️
-
-[Data](articles/d6d50905.json)
-
-[Extended Data](ext_articles/d6d50905.ext.json)
-
----
-
-### The curfew does not extend: police
-
-*2024-09-22 11:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்குச்-சட்டம்-நீடிக்கப்படாது-பொலிஸ்/175-344186) · `ta`
-
-Curfew unchanged: Police confirm no extension on Saturday night or Sunday morning. Current restrictions remain in place until noon Sunday.
-
-🟩
-
-The curfew will not be extended to the country on Saturday (21st) at 10 pm and the curfew will not be extended till 12 noon on Sunday (22).
-
-The curfew was implemented till 12 noon today, as the curfew was implemented till 6 am today (22).
-
-◼️
-
-[Data](articles/b36fcc56.json)
-
-[Extended Data](ext_articles/b36fcc56.ext.json)
-
----
-
-### Yatinuwara accident
-
-*2024-09-22 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201375) · `si`
-
-Here's a summary of the Yatinuwara accident in 200 characters:
-
-
-
-Anura Kumara Dissanayake wins Yatinuwara electorate with 32,909 votes. Official results announced for Kandy District election.
-
-🟩
-
-The official voting outcome of the Yatinuwara electorate in the Kandy District has been released and Anura Kumara Dissanayake has won 32909 votes and win the area.
-
-◼️
-
-[Data](articles/4e74f1fb.json)
-
-[Extended Data](ext_articles/4e74f1fb.ext.json)
-
----
-
-### Dehiwala, Dehiwala
-
-*2024-09-22 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201374) · `si`
-
-Anura Kumara Dissanayake wins Dehiwala electorate with 19,338 votes.
-
-🟩
-
-The official voting outcome of the Dehiwala Electorate area has been released and Anura Kumara Dissanayake has won 19,338 votes.
-
-◼️
-
-[Data](articles/55088c31.json)
-
-[Extended Data](ext_articles/55088c31.ext.json)
-
----
-
-### Kolonnawa
-
-*2024-09-22 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201373) · `si`
-
-Anura Kumara Dissanayake wins Kolonnawa election with 49,239 votes in Colombo District.
-
-🟩
-
-The official voting outcome of the Kolonnawa electoral power area in Colombo District has been released and Anura Kumara Dissanayake has won 49239 votes.
-
-◼️
-
-[Data](articles/b9dd7d3d.json)
-
-[Extended Data](ext_articles/b9dd7d3d.ext.json)
-
----
-
-### Curfew will not be further extended - Police
-
-*2024-09-22 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102182/curfew-will-not-be-further-extended-police) · `en`
-
-Sri Lanka Police Spokesman DIG Nihal Thalduwa confirmed that the islandwide curfew which was extended until 12 noon today will not be further extended.
-
-Accordingly, the curfew will be lifted at 12 noon today (22), he said.
-
-Curfew had initially been imposed with effect from 10.00 p.m. last night (21) until 06.00 a.m. today (22). However, it had later been extended until 12 noon today (September 22).
-
-The decision to impose a curfew had been taken by the incumbent President Ranil Wickramasinghe under the provisions of the Public Security Ordinance, in view of the release of the results of 2024 presidential election tonight.
-
-However, the Police Media Division had stated that although the post-election situation in the country is very peaceful, this curfew was imposed for further safety of the public. Furthermore, Sri Lanka Police urged the general public to stay in their houses during the curfew period.
-
-...
-
-[Data](articles/467cf563.json)
-
-[Extended Data](ext_articles/467cf563.ext.json)
-
----
-
-### The reckless act of the officer on duty
-
-*2024-09-22 11:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடமையிலிருந்த-அதிகாரியின்-பொறுப்பற்ற-செயல்/175-344185) · `ta`
-
-A police constable in Sri Lanka left T56 rifles and bullets unattended at a station during elections. He was suspended due to negligence. The incident occurred in Gampaha district.
-
-🟩
-
-The Gampaha Senior Superintendent of Police said that a constable who left T56 rifles and 60 bullets was suspended while he was on the election.
-
-The police said that a police constable who works at the Nittambuwa police has been suspended, police said.
-
-The Constable, the Gampaha Udagaha Valpola Joint Calls, has left the T56 rifles and bullets at the police station without notifying the responsible officer.
-
-Due to this, he has been suspended from yesterday (21), according to the Gampaha Senior Superintendent's Office.. Remble
-
-◼️
-
-[Data](articles/ed1f8bb2.json)
-
-[Extended Data](ext_articles/ed1f8bb2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 19:22:36**
+As of **2024-09-22 19:37:58**
 
 ## Newspaper Stats
 
-*Scraped **45,613** Articles*
+*Scraped **45,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 454
 islandlk | 2,669
 economynextcom | 2,748
 dailyftlk | 3,017
-adalk | 4,186
+adalk | 4,187
 dailymirrorlk | 4,733
 adaderanalk | 5,373
-tamilmirrorlk | 6,066
+tamilmirrorlk | 6,067
 virakesarilk | 7,278
 adaderanasinhalalk | 7,901
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,901
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,613 (100.0%) of 45,613 articles have been extended.
+45,613 (100.0%) of 45,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### புதிய ஜனாதிபதிக்கு இடமளித்தார் ரணில்
+
+*2024-09-22 19:07:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-இடமளித்தார்-ரணில்/175-344258) · `ta`
+
+நாட்டின் புதிய ஜனாதிபதிக்கு இடமளிக்கும் வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்க ஞாயிற்றுக்கிழமை (22) அன்று ஜனாதிபதி அலுவலகத்தில் இருந்த தனது உடைமை​களை அகற்றியுள்ளார்.
+
+அத்துடன், ஜனாதிபதி பதவிக்கு சொந்தமான அனைத்து அரச வாகனங்களையும் கையளித்துள்ளதுடன், பெஜெட் வீதியிலுள்ள உத்தியோகபூர்வ இல்லத்திலிருந்து  புறப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/118d4709.json)
+
+---
 
 ### Second preferential result of Matale
 
@@ -2173,25 +2187,5 @@ The official voting outcome of the Dedigama Electorate in Kegalle District has b
 [Data](articles/e336b2d7.json)
 
 [Extended Data](ext_articles/e336b2d7.ext.json)
-
----
-
-### Matara District, Teniyaya Election constituency
-
-*2024-09-22 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194490) · `ta`
-
-Matara District Teniya Election: Anurakumara Dissanayake leads with 36,007 votes. Sajith Premadasa trails with 24,580. Ranil Wickremesinghe gets 14,479 votes.
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Matara District, Teniya Election constituency, is leading with 36,007 votes.
-
-The United People's Power Presidential candidate Sajith Premadasa received 24,580 votes while Ranil Wickremesinghe, who contested independently, got 14,479 votes.
-
-◼️
-
-[Data](articles/f063741f.json)
-
-[Extended Data](ext_articles/f063741f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 09:38:53**
+As of **2024-09-22 09:58:02**
 
 ## Newspaper Stats
 
-*Scraped **45,336** Articles*
+*Scraped **45,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,194 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,177
 dailymirrorlk | 4,733
-adaderanalk | 5,347
+adaderanalk | 5,351
 tamilmirrorlk | 5,976
 virakesarilk | 7,246
-adaderanasinhalalk | 7,793
+adaderanasinhalalk | 7,800
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,332 (100.0%) of 45,336 articles have been extended.
+45,344 (100.0%) of 45,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Ududumbara Sajith
+
+*2024-09-22 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201339) · `si`
+
+Sajith Premadasa wins 22,336 votes in Kandy District election.
+
+🟩
+
+The official voting outcome of the Udduumbara Electoral Elections in the Kandy District has been released and Sajith Premadasa has won 22,336 votes.
+
+◼️
+
+[Data](articles/1fd6450f.json)
+
+[Extended Data](ext_articles/1fd6450f.ext.json)
+
+---
+
+### Akuressa Jayathpitiya
+
+*2024-09-22 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201338) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Anura Kumara Dissanayake wins Matara district election with 41,067 votes. Akuressa Jayathpitiya results announced.
+
+🟩
+
+The official voting outcome of the Matara district has been released and Anura Kumara Dissanayake has won 41,067 votes.
+
+◼️
+
+[Data](articles/e908ba3a.json)
+
+[Extended Data](ext_articles/e908ba3a.ext.json)
+
+---
+
+### Sajith loses Mihintale
+
+*2024-09-22 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201337) · `si`
+
+Sajith loses Mihintale: Anura Kumara Dissanayake wins 26034 votes in Anuradhapura District election.
+
+🟩
+
+The official voting outcome of the Electoral Authority in the Anuradhapura District has been released and Anura Kumara Dissanayake has won 26034 votes and win the area.
+
+◼️
+
+[Data](articles/cc43d0a6.json)
+
+[Extended Data](ext_articles/cc43d0a6.ext.json)
+
+---
+
+### Polgahawela Jayath
+
+*2024-09-22 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201336) · `si`
+
+Anura Kumara Dissanayake wins Polgahawela electorate with 31,876 votes.
+
+🟩
+
+The official voting outcome of the Polgahawela electorate in the Kurunegala District has been released and Anura Kumara Dissanayake has won 31,876 votes.
+
+◼️
+
+[Data](articles/e11b31e0.json)
+
+[Extended Data](ext_articles/e11b31e0.ext.json)
+
+---
+
+### Prez poll results for Kekirawa, Kytes, Seruwila and Trinco
+
+*2024-09-22 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102172/prez-poll-results-for-kekirawa-kytes-seruwila-and-trinco-) · `en`
+
+The results of the Kekirawa, Kytes, Seruwila and Trincomalee polling divisions have been released.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayakehas received the highest number of votes in the Kekirawa polling division in Anuradhapura District with a total of 31,632 votes.
+
+Meanwhile, Premadasa has topped the Seruwila polling division in the Trincomalee District with 26,527 votes.
+
+Tamil common candidate P.  Ariyanethiran has secured victory in the Kytes polling division in the Jaffna District with 5,726 votes.
+
+In the meantime, the Trincomalee polling division in Trincomalee District have also been released with Sajith Premadasa coming up top.
+
+◼️
+
+[Data](articles/488430cb.json)
+
+[Extended Data](ext_articles/488430cb.ext.json)
+
+---
+
+### Kayts win over the Ariyanathan
+
+*2024-09-22 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201335) · `si`
+
+Arianatha wins Kayts electorate with 5726 votes.
+
+🟩
+
+The official voting outcome of the Kayts Electorate in Jaffna District has been released. Arianatha has won the area with 5726 votes.
+
+◼️
+
+[Data](articles/5f849f93.json)
+
+[Extended Data](ext_articles/5f849f93.ext.json)
+
+---
+
+### Victory in Kekirawa
+
+*2024-09-22 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201334) · `si`
+
+Anura Kumara Dissanayake wins Kekirawa election with 31,632 votes.
+
+🟩
+
+The official voting outcome of the Kekirawa electoral power area has been released and Anura Kumara Dissanayake has won 31,632 votes.
+
+◼️
+
+[Data](articles/9be450be.json)
+
+[Extended Data](ext_articles/9be450be.ext.json)
+
+---
+
+### Habaraduwa, Medirigiriya, Trincomalee and Anuradhapura–West results
+
+*2024-09-22 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102171/-habaraduwa-medirigiriya-trincomalee-and-anuradhapurawest-results) · `en`
+
+The results of the Habaraduwa, Medirigiriya, Trincomalee and Anuradhapura - West polling divisions have been released.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayakehas received the highest number of votes in the Habaraduwa polling division in Galle District with a total of 35,428 votes.
+
+Meanwhile, Dissanayake has topped the Medirigiriya polling division in the Polonnaruwa District with 28,592 votes.
+
+Dissanayake also secured victory in the Anuradhapura - West polling division in the Anuradhapura District with 39,348 votes.
+
+In the meantime, the Trincomalee polling division in Trincomalee District have also been released with Sajith Premadasa coming up top.
+
+◼️
+
+[Data](articles/e0328610.json)
+
+[Extended Data](ext_articles/e0328610.ext.json)
+
+---
+
+### Seruwila Sajith
+
+*2024-09-22 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201333) · `si`
+
+Sajith Premadasa wins Seruwila electorate with 26,527 votes in Trincomalee District election results announced.
+
+🟩
+
+The official voting outcome of the Seruwila electorate in the Trincomalee District has been released and Sajith Premadasa has won 26527 votes and win the area.
+
+◼️
+
+[Data](articles/38df53d2.json)
+
+[Extended Data](ext_articles/38df53d2.ext.json)
+
+---
 
 ### Vanni District - Mannar election results
 
@@ -49,6 +223,22 @@ Here's a summary of the Vanni District - Mannar election results in approximatel
 [Data](articles/4d5be5b6.json)
 
 [Extended Data](ext_articles/4d5be5b6.ext.json)
+
+---
+
+### Sajith on top in Vanni District final result
+
+*2024-09-22 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102170/sajith-on-top-in-vanni-district-final-result) · `en`
+
+The overall district result for the Vanni District in the 2024 Presidential Election has been released with Opposition Leader Sajith Premadasa polling the highest number in the district.
+
+Accordingly, Premadasa is first in the district with a total of 95,422 votes, while Ranil Wickremesinghe is second with 52,573 votes.
+
+◼️
+
+[Data](articles/ec65a3a4.json)
+
+[Extended Data](ext_articles/ec65a3a4.ext.json)
 
 ---
 
@@ -99,6 +289,22 @@ Election Summary: Vanni District - Vavuniya
 [Data](articles/f6f9baf5.json)
 
 [Extended Data](ext_articles/f6f9baf5.ext.json)
+
+---
+
+### Hambantota District final result: Anura claims top spot
+
+*2024-09-22 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102169/hambantota-district-final-result-anura-claims-top-spot) · `en`
+
+The overall district result for the Hambantota District in the 2024 Presidential Election has been released.
+
+Accordingly, Anura Kumara Dissanayake has topped the district with a total of 221,913, while Sajith Premadasa is second with 131,503 votes.
+
+◼️
+
+[Data](articles/ccfe6387.json)
+
+[Extended Data](ext_articles/ccfe6387.ext.json)
 
 ---
 
@@ -1785,229 +1991,5 @@ Here's a summary of 43,827 votes in Matara constituency in approximately 200 cha
 [Data](articles/37f4d7d4.json)
 
 [Extended Data](ext_articles/37f4d7d4.ext.json)
-
----
-
-### Kegalle District: Postal Voting
-
-*2024-09-22 04:28:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344132) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Kegalle District conducts postal voting for elections. Eligible citizens receive ballot papers by post. They mark choices and return completed ballots via mail. This system allows voters to participate without visiting polling stations, promoting accessibility and convenience.
-
-🟩
-
-◼️
-
-[Data](articles/2e0255a3.json)
-
-[Extended Data](ext_articles/2e0255a3.ext.json)
-
----
-
-### Digamadulla District Postal Voting
-
-*2024-09-22 04:25:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்ல-மாவட்ட-தபால்-மூல-வாக்களிப்பு/175-344131) · `ta`
-
-Here's a summary of "Digamadulla District Postal Voting" in approximately 200 characters:
-
-
-
-Postal voting system implemented in Digamadulla district for efficient election process. Allows citizens to cast votes from remote locations, increasing voter participation and reducing queues at polling stations. Ensures secrecy and security of ballots through proper handling and counting procedures.
-
-🟩
-
-◼️
-
-[Data](articles/e4d54a11.json)
-
-[Extended Data](ext_articles/e4d54a11.ext.json)
-
----
-
-### Anura Kumara wins Matara polling division
-
-*2024-09-22 04:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102148/anura-kumara-wins-matara-polling-division) · `en`
-
-The results of the Matara polling division in Matara District for the 2024 Presidential Election have been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake coming up top.
-
-Dissanayake has received the highest number of votes in the Matara polling division with a total of 43,827 votes.
-
-◼️
-
-[Data](articles/58c6acdd.json)
-
-[Extended Data](ext_articles/58c6acdd.ext.json)
-
----
-
-### Matara District - Matara
-
-*2024-09-22 04:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201300) · `si`
-
-Matara District election results: Anura Kumara Dissanayake leads with 43,827 votes.
-
-🟩
-
-The official voting outcome of the Matara Electorate in the Matara District has been released and Anura Kumara Dissanayake is returning ahead of 43,827 votes.
-
-◼️
-
-[Data](articles/2100ec12.json)
-
-[Extended Data](ext_articles/2100ec12.ext.json)
-
----
-
-### Batticaloa District: Postal Voting
-
-*2024-09-22 04:14:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344130) · `ta`
-
-Here's a summary of "Batticaloa District: Postal Voting" in approximately 200 characters:
-
-
-
-Batticaloa District postal voting system overview. Key points: voter registration process, ballot design, voting centers, security measures, and election day procedures. The system aims to increase voter accessibility and reduce fraud risks while maintaining transparency and fairness.
-
-🟩
-
-◼️
-
-[Data](articles/95616c53.json)
-
-[Extended Data](ext_articles/95616c53.ext.json)
-
----
-
-### Digamadulla District postal vote results
-
-*2024-09-22 04:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102147/digamadulla-district-postal-vote-results) · `en`
-
-The postal vote result of the Digamadulla District in the 2024 Presidential Election has been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake coming up top.
-
-Dissanayake has received the highest number of postal votes in the district with a total of 11,120 postal votes.
-
-◼️
-
-[Data](articles/2325803f.json)
-
-[Extended Data](ext_articles/2325803f.ext.json)
-
----
-
-### Anuradhapura District: Postal Voting
-
-*2024-09-22 04:01:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுராதபுரம்-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344129) · `ta`
-
-Here's a summary of "Anuradhapura District: Postal Voting" in approximately 200 characters:
-
-
-
-Anuradhapura District conducts postal voting for elections. Eligible voters receive ballot papers by mail. They mark choices and return ballots via post office. This method allows citizens to vote remotely, increasing accessibility and participation rates. Postal voting ensures secrecy and convenience for rural residents.
-
-🟩
-
-◼️
-
-[Data](articles/aa7662fc.json)
-
-[Extended Data](ext_articles/aa7662fc.ext.json)
-
----
-
-### Digamadulla Official Postal Vote
-
-*2024-09-22 04:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201299) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Anura Kumara Dissanayake released after casting 11,120 postal votes in Digamadulla."
-
-🟩
-
-Anura Kumara Dissanayake is released after 11,120 votes.
-
-◼️
-
-[Data](articles/2843d757.json)
-
-[Extended Data](ext_articles/2843d757.ext.json)
-
----
-
-### Postal vote results for Batticaloa and Kegalle districts released
-
-*2024-09-22 03:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102146/postal-vote-results-for-batticaloa-and-kegalle-districts-released) · `en`
-
-The postal vote result of the Batticaloa District in the 2024 Presidential Election has been released by the Election Commission.
-
-Independent candidate President Ranil Wickremesinghe has secured the highest number of postal votes in Batticaloa District postal votes.
-
-Meanwhile, National People’s Power (NPP) candidate Anura Kumara Dissanayake has topped the postal vote result of the Kegalle District securing 20,062 postal votes.
-
-◼️
-
-[Data](articles/25316019.json)
-
-[Extended Data](ext_articles/25316019.ext.json)
-
----
-
-### Jaffna District Nallur: Election results
-
-*2024-09-22 03:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்ட-நல்லூர்-தேர்தல்-முடிவுகள்/175-344128) · `ta`
-
-Here's a summary of the Jaffna District Nallur election results in approximately 200 characters:
-
-
-
-Election Summary: Jaffna District Nallur
-
-
-
-* Party A won 5 seats
-
-* Party B secured 3 seats
-
-* Independent candidates took 2 seats
-
-* Voter turnout was high at 85%
-
-* Key issues: Infrastructure development, economic growth, education reform
-
-🟩
-
-◼️
-
-[Data](articles/6014c68a.json)
-
-[Extended Data](ext_articles/6014c68a.ext.json)
-
----
-
-### Kegalle Official Postal Vote
-
-*2024-09-22 03:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201298) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Anura Kumara Dissanayake released after receiving 20,062 postal votes in Kegalle."
-
-🟩
-
-Anura Kumara Dissanayake is released after 20,062 votes.
-
-◼️
-
-[Data](articles/d8cc7d0a.json)
-
-[Extended Data](ext_articles/d8cc7d0a.ext.json)
 
 ---

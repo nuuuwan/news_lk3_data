@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 10:23:48**
+As of **2024-09-22 10:39:13**
 
 ## Newspaper Stats
 
-*Scraped **45,370** Articles*
+*Scraped **45,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,177
 dailymirrorlk | 4,733
 adaderanalk | 5,354
-tamilmirrorlk | 5,983
+tamilmirrorlk | 5,984
 virakesarilk | 7,250
 adaderanasinhalalk | 7,809
 
@@ -26,11 +26,21 @@ adaderanasinhalalk | 7,809
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,370 (100.0%) of 45,370 articles have been extended.
+45,370 (100.0%) of 45,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### யாழ்ப்பாண மாவட்டம் - கோப்பாய் தேர்தல் முடிவுகள்
+
+*2024-09-22 10:14:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்டம்-கோப்பாய்-தேர்தல்-முடிவுகள்/175-344170) · `ta`
+
+◼️
+
+[Data](articles/11daa62e.json)
+
+---
 
 ### Jaffna District - Udupiti Election Results
 
@@ -1977,29 +1987,5 @@ He says he welcomes Anura Kumara Dissanayake and that the country is not easy.
 [Data](articles/a11e9569.json)
 
 [Extended Data](ext_articles/a11e9569.ext.json)
-
----
-
-### Crys released to the island extended
-
-*2024-09-22 06:24:23* · [`adalk`](https://www.ada.lk/breaking_news/දිවයිනට-පැනවූ-ඇඳිරි-නීතිය-දීර්ඝ-කෙරේ/11-412062) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Crys released to the island extended. Steps taken to extend 12 Model 12 on Monday. Humiliation scheduled from 10 AM to 6 AM today.
-
-🟩
-
-Steps have been taken to extend the 12 Model 12 (on Monday).
-
-The humiliation was made up 10 o'clock, and it was to be over at 6am this morning.
-
-◼️
-
-[Data](articles/21743824.json)
-
-[Extended Data](ext_articles/21743824.ext.json)
 
 ---

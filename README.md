@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 12:11:54**
+As of **2024-09-22 12:23:02**
 
 ## Newspaper Stats
 
-*Scraped **45,433** Articles*
+*Scraped **45,438** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ colombotelegraphcom | 453
 islandlk | 2,669
 economynextcom | 2,748
 dailyftlk | 3,017
-adalk | 4,180
+adalk | 4,181
 dailymirrorlk | 4,733
 adaderanalk | 5,361
 tamilmirrorlk | 5,997
 virakesarilk | 7,255
-adaderanasinhalalk | 7,836
+adaderanasinhalalk | 7,840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,429 (100.0%) of 45,433 articles have been extended.
+45,438 (100.0%) of 45,438 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Kurunegala, Kurunegala
+
+*2024-09-22 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201379) · `si`
+
+Anura Kumara Dissanayake wins Kurunegala electorate with 39,512 votes.
+
+🟩
+
+The official voting outcome of the Kurunegala Electorate in Kurunegala District has been released and Anura Kumara Dissanayake has won 39512 votes.
+
+◼️
+
+[Data](articles/4a410611.json)
+
+[Extended Data](ext_articles/4a410611.ext.json)
+
+---
+
+### Pottuvil Sajith
+
+*2024-09-22 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201378) · `si`
+
+Sajith Premadasa wins 70942 votes in Pottumil electorate, Digamadulla District.
+
+🟩
+
+The official voting outcome of the Pottumil Electorate in the Digamadulla District has been released and Sajith Premadasa has won 70942 votes.
+
+◼️
+
+[Data](articles/41fbbad7.json)
+
+[Extended Data](ext_articles/41fbbad7.ext.json)
+
+---
+
+### Sajith to Colombo Central
+
+*2024-09-22 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201377) · `si`
+
+Sajith Premadasa wins Colombo Central with 46,063 votes.
+
+🟩
+
+The official voting outcome of the Media in Colombo District has been released and Sajith Premadasa has won 46,063 votes and win the area.
+
+◼️
+
+[Data](articles/9c8ca3de.json)
+
+[Extended Data](ext_articles/9c8ca3de.ext.json)
+
+---
+
+### Sajith to Sajith
+
+*2024-09-22 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201376) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Sajith Premadasa wins Kandy District election with 23,658 votes. Official results announced.
+
+🟩
+
+The official voting outcome of the Elections in the Kandy District has been released and Sajith Premadasa has won 23,658 votes.
+
+◼️
+
+[Data](articles/8c4a4c7a.json)
+
+[Extended Data](ext_articles/8c4a4c7a.ext.json)
+
+---
 
 ### Results for Ratmalana, Dehiwala, Kolonnawa, Muthur, Yatinuwara and Hewaheta
 
@@ -141,6 +217,8 @@ The official voting outcome of the Kolonnawa electoral power area in Colombo Dis
 *2024-09-22 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102182/curfew-will-not-be-further-extended-police) · `en`
 
 Sri Lanka Police Spokesman DIG Nihal Thalduwa confirmed that the islandwide curfew which was extended until 12 noon today will not be further extended.
+
+Accordingly, the curfew will be lifted at 12 noon today (22), he said.
 
 Curfew had initially been imposed with effect from 10.00 p.m. last night (21) until 06.00 a.m. today (22). However, it had later been extended until 12 noon today (September 22).
 
@@ -1927,85 +2005,5 @@ The official voting outcome of the Baddegama Electorate in Galle District has be
 [Data](articles/3cbbccec.json)
 
 [Extended Data](ext_articles/3cbbccec.ext.json)
-
----
-
-### Kandy District, Paththambara constituency election results
-
-*2024-09-22 09:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-மாவட்டம்-பாத்ததும்பர-தொகுதி-தேர்தல்-முடிவு/76-344160) · `ta`
-
-Here's a summary of the Kandy District, Paththambara constituency election results in approximately 200 characters:
-
-
-
-"Paththambara constituency election results: [Candidate A] wins with [X]% votes, defeating [Candidate B] who secured [Y]%."
-
-🟩
-
-◼️
-
-[Data](articles/dad311cb.json)
-
-[Extended Data](ext_articles/dad311cb.ext.json)
-
----
-
-### Hiniduma
-
-*2024-09-22 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201328) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Anura Kumara Dissanayake wins Hiniduma electorate Galle District election with 35,67 votes. Official voting outcome released.
-
-🟩
-
-The official voting outcome of the Hiniduma Electorate in the Galle District has been released and Anura Kumara Dissanayake has won 35,67 votes.
-
-◼️
-
-[Data](articles/6d874080.json)
-
-[Extended Data](ext_articles/6d874080.ext.json)
-
----
-
-### Galle - Hiniduma: Election Results
-
-*2024-09-22 09:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-ஹினிதும-தேர்தல்-முடிவுகள்/175-344159) · `ta`
-
-Here's a summary of the election results for Galle-Hiniduma in 200 characters:
-
-
-
-Galle-Hiniduma election results: [Candidate names] won with [percentage] votes. Turnout was [percentage]. Key issues were [list briefly].
-
-🟩
-
-◼️
-
-[Data](articles/9a618813.json)
-
-[Extended Data](ext_articles/9a618813.ext.json)
-
----
-
-### Devinuwara
-
-*2024-09-22 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201327) · `si`
-
-Anura Kumara Dissanayake wins 34,690 votes in Devinuwara, Matara district election.
-
-🟩
-
-The official voting outcome of the Devinuwara electoral results in the Matara district has been released and Anura Kumara Dissanayake has won 34,690 votes.
-
-◼️
-
-[Data](articles/5a40bf6d.json)
-
-[Extended Data](ext_articles/5a40bf6d.ext.json)
 
 ---

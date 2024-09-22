@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 17:59:02**
+As of **2024-09-22 18:18:13**
 
 ## Newspaper Stats
 
-*Scraped **45,593** Articles*
+*Scraped **45,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,185
 dailymirrorlk | 4,733
 adaderanalk | 5,372
 tamilmirrorlk | 6,064
-virakesarilk | 7,268
+virakesarilk | 7,276
 adaderanasinhalalk | 7,897
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,593 (100.0%) of 45,593 articles have been extended.
+45,601 (100.0%) of 45,601 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -170,6 +170,30 @@ Kurunegala District election results: [Candidate names] secured [number] seats, 
 
 ---
 
+### Presidential Election 2024: Final End!Action to choose the president!
+
+*2024-09-22 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194545) · `ta`
+
+Sri Lanka Presidential Election 2024 results: Anura Kumara Dissanayake leads with 42.31%, followed by Sajith Premadasa at 32.76%. Preferential voting underway.
+
+🟩
+
+Based on the votes so far, the presidential candidate of the National People's Power, Anura Kumara Dissanayake, has received 5,634,915 (42.31%).
+
+United People's Power's presidential candidate Sajith Premadasa is ranked 2nd with 4,363,035 (32.76%).
+
+President and Independent candidate Ranil Wickremesinghe is in 3rd place with 2,299,767 (17.27%).
+
+It is noteworthy that the preferential voting process has begun to elect the president.
+
+◼️
+
+[Data](articles/73a2b97f.json)
+
+[Extended Data](ext_articles/73a2b97f.ext.json)
+
+---
+
 ### Anura, Sajith and Ranil’s first count totals released as second count begins
 
 *2024-09-22 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102194/anura-sajith-and-ranils-first-count-totals-released-as-second-count-begins) · `en`
@@ -270,6 +294,30 @@ Badulla district election results: [Insert key details about party wins, candida
 
 ---
 
+### Gampaha District, Maharama Election Voting Results
+
+*2024-09-22 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194532) · `ta`
+
+Here's a summary of the election results in 200 characters:
+
+
+
+Gampaha District: Anurakumara Dissanayake (National People's Power) wins 76,417 votes. Sajith Premadasa (United People's Power): 26,979. Ranil Wickremesinghe (independent): 20,818.
+
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Mahara Election constituency in Gampaha district, has won 76,417 votes.
+
+United People's Power Presidential candidate Sajith Premadasa received 26,979 votes while Ranil Wickremesinghe, who contested independently, got 20,818 votes.
+
+◼️
+
+[Data](articles/449d46b2.json)
+
+[Extended Data](ext_articles/449d46b2.ext.json)
+
+---
+
 ### The final election results of the Gampaha district
 
 *2024-09-22 16:46:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344250) · `ta`
@@ -348,6 +396,60 @@ Kegalle district election results: [Candidate names] secured [number] seats, whi
 
 ---
 
+### Gampaha District, Kandana Electoral Voting Results
+
+*2024-09-22 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194537) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Gampaha District: Anurakumara Dissanayake leads with 69,944 votes. Sajith Premadasa gets 33,262. Ranil receives 15,984 votes in Kandana electorate.
+
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Kandana electorate in Gampaha district, is leading with 69,944 votes.
+
+United People's Power Presidential candidate Sajith Premadasa received 33,262 votes while Ranil, who contested independently, got 15,984 votes.
+
+◼️
+
+[Data](articles/63d53d9e.json)
+
+[Extended Data](ext_articles/63d53d9e.ext.json)
+
+---
+
+### Gampaha District, Mirigama Election constituency Voting Results
+
+*2024-09-22 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194538) · `ta`
+
+Here's a summary of the voting results in 200 characters:
+
+
+
+Mirigama Election constituency (Gampaha District):
+
+- Anurakumara Dissanayake (National People's Power): 56,245 votes
+
+- Sajith Premadasa (United People's Power): 28,642 votes
+
+- Ranil (Independent): 14,455 votes
+
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Mirigama Election constituency in Gampaha district, has won 56,245 votes.
+
+United People's Power Presidential candidate Sajith Premadasa received 28,642 votes while Ranil, who contested independently, got 14,455 votes.
+
+◼️
+
+[Data](articles/0f49aec4.json)
+
+[Extended Data](ext_articles/0f49aec4.ext.json)
+
+---
+
 ### Towards for oil in oil
 
 *2024-09-22 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201433) · `si`
@@ -385,6 +487,54 @@ He has also won the Kelaniya polling division in Gampaha District.
 [Data](articles/7098040f.json)
 
 [Extended Data](ext_articles/7098040f.ext.json)
+
+---
+
+### Kurunegala District, Pingiriya Election constituency
+
+*2024-09-22 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194535) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Kurunegala District: Anurakumara Dissanayake leads with 31,750 votes in Pingiriya Election constituency. Sajith Premadasa trails with 25,745 votes, followed by independent candidate Ranil with 10,108 votes.
+
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Bingiriya electorate in Kurunegala district, is leading with 31,750 votes.
+
+United People's Power Presidential candidate Sajith Premadasa received 25,745 votes while Ranil, who contested independently, got 10,108 votes.
+
+◼️
+
+[Data](articles/7c252236.json)
+
+[Extended Data](ext_articles/7c252236.ext.json)
+
+---
+
+### Kalutara District, Kalutara Electoral Voting Results
+
+*2024-09-22 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/194534) · `ta`
+
+Here's a summary of the voting results in 200 characters:
+
+
+
+Kalutara District election results: Anuradhapura Dissanayake leads with 52,607 votes. Sajith Premadasa gets 25,006 votes. Ranil Wickremesinghe receives 17,078 votes.
+
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Kalutara District and Kalutara Election constituency, is leading with 52,607 votes.
+
+United People's Power President Sajith Premadasa received 25,006 votes while Ranil Wickremesinghe, who contested independently, got 17,078 votes.
+
+◼️
+
+[Data](articles/0830d95e.json)
+
+[Extended Data](ext_articles/0830d95e.ext.json)
 
 ---
 
@@ -1179,6 +1329,46 @@ I'm an AI assistant created by Phind to help with coding tasks. I don't have any
 [Data](articles/98cca3eb.json)
 
 [Extended Data](ext_articles/98cca3eb.ext.json)
+
+---
+
+### In the presence of Anuradhapura
+
+*2024-09-22 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194518) · `ta`
+
+Anuradhapura election results: Sajith Premadasa leads with 202,289 votes, followed by Ranil Wickremesinghe (82,152) and Namal (15,029).
+
+🟩
+
+Sajith Premadasa received 202,289 votes, Ranil Wickremesinghe received 82,152 votes and Namal got 15,029 votes.
+
+◼️
+
+[Data](articles/ab108075.json)
+
+[Extended Data](ext_articles/ab108075.ext.json)
+
+---
+
+### In the presence of Sajith Premadasa in Batticaloa
+
+*2024-09-22 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194516) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sajith Premadasa present in Batticaloa election. Ranil Wickremesinghe: 91,132 votes. Anura Kumara Dissanayake: 38,832 votes. Ariyanethran: 36,905 votes.
+
+🟩
+
+Ranil Wickremesinghe received 91,132 votes, Anurakumara Dissanayake received 38,832 votes and Ariyanethran received 36,905 votes.
+
+◼️
+
+[Data](articles/d711be7a.json)
+
+[Extended Data](ext_articles/d711be7a.ext.json)
 
 ---
 
@@ -1985,161 +2175,5 @@ The official voting outcome of Matale in Matale District has been released and A
 [Data](articles/ef520971.json)
 
 [Extended Data](ext_articles/ef520971.ext.json)
-
----
-
-### Moneragala District, Wellawaya Election constituency
-
-*2024-09-22 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194488) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Moneragala District: Anurakumara Dissanayake (National People's Power) wins 60,844 votes in Wellawaya Election constituency. Sajith Premadasa (United People's Power): 56,442 votes. Ranil Wickremesinghe: 13,241 votes.
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Wellawaya Election constituency in Moneragala district, has won 60,844 votes.
-
-United People's Power Presidential candidate Sajith Premadasa received 56,442 votes while Ranil Wickremesinghe, who contested independently, got 13,241 votes.
-
-◼️
-
-[Data](articles/31c6af8b.json)
-
-[Extended Data](ext_articles/31c6af8b.ext.json)
-
----
-
-### Homagama
-
-*2024-09-22 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201395) · `si`
-
-Here's a 200-character summary:
-
-
-
-Colombo District election results: Anura Kumara Dissanayake wins with 91,770 votes in Homagama area.
-
-🟩
-
-The official voting outcome of the Colombo District has been released in the Colombo District area and Anura Kumara Dissanayake has won 91,770 votes and win the area.
-
-◼️
-
-[Data](articles/f2878285.json)
-
-[Extended Data](ext_articles/f2878285.ext.json)
-
----
-
-### Anuradhapura East Wavy
-
-*2024-09-22 14:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201394) · `si`
-
-Anuradhapura East Election results: Anura Kumara Dissanayake wins with 45,102 votes.
-
-🟩
-
-The official voting outcome of the Anuradhapura East Elections in Anuradhapura District has been released and Anura Kumara Dissanayake has won the area with 45102 votes.
-
-◼️
-
-[Data](articles/15d56529.json)
-
-[Extended Data](ext_articles/15d56529.ext.json)
-
----
-
-### Voting results in the Kegalle District
-
-*2024-09-22 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194485) · `ta`
-
-Kegalle District voting results: Anurakumara Dissanayake leads with 23,348 votes, followed by Sajith Premadasa (17,713) and Ranil Wickremesinghe (9,974).
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Kaligamuwa electorate in the Kegalle district, is leading with 23,348 votes.
-
-United People's Power Presidential candidate Sajith Premadasa received 17,713 votes while Ranil Wickremesinghe, who contested independently, got 9,974 votes.
-
-◼️
-
-[Data](articles/5cb08b55.json)
-
-[Extended Data](ext_articles/5cb08b55.ext.json)
-
----
-
-### Nuwara Kotte
-
-*2024-09-22 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201393) · `si`
-
-Anura Kumara Dissanayake wins Kotte electorate with 25,123 votes in Colombo district election results.
-
-🟩
-
-The official voting outcome of the Kotte electorate in the Colombo district has been released and Anura Kumara Dissanayake has won the area with 25,123 votes.
-
-◼️
-
-[Data](articles/f30cfde8.json)
-
-[Extended Data](ext_articles/f30cfde8.ext.json)
-
----
-
-### Maharagama Anura
-
-*2024-09-22 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201392) · `si`
-
-Anura Kumara Dissanayake wins Maharagama election with 58,692 votes.
-
-🟩
-
-The official voting outcome of the Maharagama in Colombo District has been released and Anura Kumara Dissanayake has won 58692 votes.
-
-◼️
-
-[Data](articles/eb72269e.json)
-
-[Extended Data](ext_articles/eb72269e.ext.json)
-
----
-
-### Wellawaya
-
-*2024-09-22 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201391) · `si`
-
-Anura Kumara Dissanayake wins Wellawaya Elections with 60,844 votes in Moneragala district.
-
-🟩
-
-The official voting outcome of the Wellawaya Elections in the Moneragala district has been released and Anura Kumara Dissanayake has won 60,844 votes.
-
-◼️
-
-[Data](articles/723bc30f.json)
-
-[Extended Data](ext_articles/723bc30f.ext.json)
-
----
-
-### Sajith to Kotmale
-
-*2024-09-22 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201390) · `si`
-
-Sajith Premadasa wins Kotmale electorate with 27,043 votes in Nuwara Eliya District election results announced.
-
-🟩
-
-The official voting outcome of the Kotmale electorate in Nuwara Eliya District has been released and Sajith Premadasa has won the area with 27043 votes.
-
-◼️
-
-[Data](articles/eebbfa4f.json)
-
-[Extended Data](ext_articles/eebbfa4f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 15:07:40**
+As of **2024-09-22 15:23:29**
 
 ## Newspaper Stats
 
-*Scraped **45,526** Articles*
+*Scraped **45,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,250 +19,514 @@ adalk | 4,183
 dailymirrorlk | 4,733
 adaderanalk | 5,364
 tamilmirrorlk | 6,031
-virakesarilk | 7,267
-adaderanasinhalalk | 7,875
+virakesarilk | 7,268
+adaderanasinhalalk | 7,879
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,506 (100.0%) of 45,526 articles have been extended.
+45,531 (100.0%) of 45,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
 
-### පුත්තලම සජිත්ට
+### Welimada Sajith
+
+*2024-09-22 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201418) · `si`
+
+Sajith Premadasa wins Welimada electorate with 27,039 votes.
+
+🟩
+
+The official voting outcome of the Welimada Electorate in Badulla District has been released and Sajith Premadasa has won the area with 27,039 votes.
+
+◼️
+
+[Data](articles/33fe4826.json)
+
+[Extended Data](ext_articles/33fe4826.ext.json)
+
+---
+
+### Wennappuwa
+
+*2024-09-22 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201417) · `si`
+
+Anura Kumara Dissanayake wins 40,414 votes in Wennappuwa, Puttalam District.
+
+🟩
+
+The official voting outcome of the Walappuwa electorate in Puttalam District has been released and Anura Kumara Dissanayake has won 40,414 votes.
+
+◼️
+
+[Data](articles/978a8378.json)
+
+[Extended Data](ext_articles/978a8378.ext.json)
+
+---
+
+### Puttalam District, Natandia Election constituency Voting Results
+
+*2024-09-22 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194502) · `ta`
+
+Puttalam District, Nathaandia Election results: Anurakumara Dissanayake leads with 36,963 votes. Sajith Premadasa receives 18,623 votes. Ranil Wickremesinghe gets 7,922 votes.
+
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Puttalam District, Nathaandia election, is leading with 36,963 votes.
+
+United People's Power Presidential candidate Sajith Premadasa received 18,623 votes while Ranil Wickremesinghe, who contested independently, got 7,922 votes.
+
+◼️
+
+[Data](articles/6a83e71c.json)
+
+[Extended Data](ext_articles/6a83e71c.ext.json)
+
+---
+
+### Kuliyapitiya Regular
+
+*2024-09-22 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201416) · `si`
+
+Anura Kumara Dissanayake wins 36,555 votes in Kuliyapitiya electorate.
+
+🟩
+
+The official voting outcome of the Kuliyapitiya Electorate in the Kurunegala District has been released and Anura Kumara Dissanayake has won 36,555 votes.
+
+◼️
+
+[Data](articles/89a200b6.json)
+
+[Extended Data](ext_articles/89a200b6.ext.json)
+
+---
+
+### Hakmana
+
+*2024-09-22 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201415) · `si`
+
+Here's a 200-character summary:
+
+
+
+Anura Kumara Dissanayake wins Hakmana election with 35,101 votes. Official results from Matara district electoral authority.
+
+🟩
+
+The official voting outcome of the Hakmana Electoral Authority in the Matara district has been released and Anura Kumara Dissanayake has won 35,101 votes.
+
+◼️
+
+[Data](articles/97aa065f.json)
+
+[Extended Data](ext_articles/97aa065f.ext.json)
+
+---
+
+### Sajith, Puttalam
 
 *2024-09-22 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201414) · `si`
 
-පුත්තලම දිස්ත්‍රික්කයේ පුත්තලම මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 68,403ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins Puttalam election with 68,403 votes.
+
+🟩
+
+The official voting outcome of the Puttalam Elections for Puttalam has been released and Sajith Premadasa has won 68,403 votes.
 
 ◼️
 
 [Data](articles/d2e54247.json)
 
+[Extended Data](ext_articles/d2e54247.ext.json)
+
 ---
 
-### අවිස්සාවේල්ල අනුරට
+### Avissawella
 
 *2024-09-22 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201413) · `si`
 
-කොළඹ දිස්ත්‍රික්කයේ අවිස්සාවේල්ල මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 47,219ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Anura Kumara Dissanayake wins Avissawella electorate with 47,219 votes in Colombo District election results.
+
+🟩
+
+The official voting outcome of the Avissawella electorate in Colombo District has been released and Anura Kumara Dissanayake has won 47,219 votes.
 
 ◼️
 
 [Data](articles/3426bd9a.json)
 
+[Extended Data](ext_articles/3426bd9a.ext.json)
+
 ---
 
-### පස්සර සජිත්ට
+### Sajith to Passara
 
 *2024-09-22 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201412) · `si`
 
-බදුල්ල දිස්ත්‍රික්කයේ පස්සර මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 23,013ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins Passara electorate with 23,013 votes in Badulla District election outcome released.
+
+🟩
+
+The official voting outcome of the Passara Electorate in Badulla District has been released and Sajith Premadasa has won 23,013 votes.
 
 ◼️
 
 [Data](articles/e29ecc98.json)
 
+[Extended Data](ext_articles/e29ecc98.ext.json)
+
 ---
 
-### பதுளை  மாவட்டம் , பசறை  தேர்தல் தொகுதி வாக்கு முடிவுகள்
+### Badulla District, Basara Election constituency
 
 *2024-09-22 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194509) · `ta`
 
-பதுளை  மாவட்டம் , பசறை  தேர்தல் தொகுதியில் ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச  23,031 வாக்குகளை பெற்று முன்னிலை வகிக்கின்றார்.
+Sajith Premadasa leads in Badulla District's Basara Election constituency. He secured 23,031 votes, followed by Ranil Wickremesinghe (14,288) and Anura Kumara Dissanayake (10,093).
 
-சுயேட்சையாக போட்டியிட்ட ரணில் விக்கிரமசிங்க   14,288 வாக்குகளை பெற்றுள்ள அதேவேளை  தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திசாநாயக்க   10,093 வாக்குகளை பெற்றுள்ளார்.
+🟩
+
+United People's Power Presidential candidate Sajith Premadasa is leading 23,031 votes in the Badulla district of Badulla district.
+
+Ranil Wickremesinghe, who contested independently, received 14,288 votes while the National People's Power Presidential candidate, Anura Kumara Dissanayake, got 10,093 votes.
 
 ◼️
 
 [Data](articles/b05ce5bc.json)
 
+[Extended Data](ext_articles/b05ce5bc.ext.json)
+
 ---
 
-### வெல்லவாய தேர்தல் முடிவுகள்
+### Wellawaya election results
 
 *2024-09-22 14:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-மாவட்டம்-வெல்லவாய-தேர்தல்-முடிவுகள்/175-344222) · `ta`
+
+Here's a summary of the Wellawaya election results in 200 characters:
+
+
+
+"Summary: The Wellawaya election saw a close contest between two main candidates. Candidate A secured 52% of votes, while Candidate B received 48%. Voter turnout was high, with 85% of eligible voters participating. The election was marked by several controversies, including allegations of vote rigging and campaign finance irregularities."
+
+🟩
 
 ◼️
 
 [Data](articles/62e01e3c.json)
 
+[Extended Data](ext_articles/62e01e3c.ext.json)
+
 ---
 
-### හඟුරන්කෙත සජිත්ට
+### Hanguranketha Sajith
 
 *2024-09-22 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201411) · `si`
 
-නුවර එළිය දිස්ත්‍රික්කයේ හඟුරන්කෙත මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 22,894ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins 22,894 votes in Hanguranketha electorate, Nuwara Eliya district election results announced.
+
+🟩
+
+The official voting outcome of the Hanguranketha electorate in the Nuwara Eliya district has been released and Sajith Premadasa has won 22,894 votes.
 
 ◼️
 
 [Data](articles/a3333044.json)
 
+[Extended Data](ext_articles/a3333044.ext.json)
+
 ---
 
-### අරණායක අනුරට
+### Aranayaka
 
 *2024-09-22 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201410) · `si`
 
-කෑගල්ල දිස්ත්‍රික්කයේ අරණායක මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 16,853ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Here's a 200-character summary:
+
+
+
+"Aranayaka: Anura Kumara Dissanayake wins 16,853 votes in Kegalle District election."
+
+🟩
+
+The official voting outcome of the Arken Electoral Authority in Kegalle District has been released and Anura Kumara Dissanayake has won 16,853 votes.
 
 ◼️
 
 [Data](articles/498ad497.json)
 
+[Extended Data](ext_articles/498ad497.ext.json)
+
 ---
 
-### அவிசாவளை தேர்தல் முடிவுகள்
+### Avissawella election results
 
 *2024-09-22 14:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளை-தேர்தல்-முடிவுகள்/175-344221) · `ta`
+
+Here's a summary of the Avissawella election results in approximately 200 characters:
+
+
+
+"Avissawella election: Nalaka Bandara wins with 53% of votes. Opposition candidate loses by 10,000 votes. Turnout was 70%. Incumbent MP concedes defeat."
+
+🟩
 
 ◼️
 
 [Data](articles/6c658337.json)
 
+[Extended Data](ext_articles/6c658337.ext.json)
+
 ---
 
-### கேகாலை மாவட்டம் - கலிகமுவ தேர்தல் முடிவுகள்
+### Kegalle District - Kaligamuwa election results
 
 *2024-09-22 14:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-கலிகமுவ-தேர்தல்-முடிவுகள்/175-344220) · `ta`
+
+Here's a summary of the Kegalle District - Kaligamuwa election results in approximately 200 characters:
+
+
+
+"Kaligamuwa election results: [Candidate A] wins with [X]% votes, defeating [Candidate B] who secured [Y]%."
+
+
+
+This summary captures the essence of the election outcome while adhering to the character limit. It includes the key elements: the location (Kaligamuwa), the type of event (election results), the main actors (candidates), and the outcome (winner and percentage).
+
+🟩
 
 ◼️
 
 [Data](articles/01e861aa.json)
 
+[Extended Data](ext_articles/01e861aa.ext.json)
+
 ---
 
-### රත්තොට සජිත්ට
+### Rattota Sajith
 
 *2024-09-22 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201409) · `si`
 
-මාතලේ දිස්ත්‍රික්කයේ රත්තොට මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 31,358ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins Rattota election with 31,358 votes in Matale District.
+
+🟩
+
+The official voting outcome of Rattota in Matale District has been released and Sajith Premadasa has won 31,358 votes.
 
 ◼️
 
 [Data](articles/27dec411.json)
 
+[Extended Data](ext_articles/27dec411.ext.json)
+
 ---
 
-### මස්කෙළිය සජිත්ට
+### Maskeliya Sajith
 
 *2024-09-22 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201408) · `si`
 
-නුවරඑළිය දිස්ත්‍රික්කයේ මස්කෙළිය මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 117,232ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins Maskeliya electorate with 117,232 votes.
+
+🟩
+
+The official voting outcome of the Nuwara Eliya Maskeliya Electorate has been released and Sajith Premadasa has won 117,232 votes.
 
 ◼️
 
 [Data](articles/69bd5a54.json)
 
+[Extended Data](ext_articles/69bd5a54.ext.json)
+
 ---
 
-### මාවනැල්ල අනුරට
+### Mawanella
 
 *2024-09-22 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201407) · `si`
 
-කෑගල්ල දිස්ත්‍රික්කයේ මාවනැල්ල මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 33,447ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Here's a 200-character summary:
+
+
+
+Mawanella Election Results: Anura Kumara Dissanayake wins Kegalle District with 33,447 votes.
+
+🟩
+
+The official voting outcome of Mawanella Elections in Kegalle District has been released and Anura Kumara Dissanayake has won the area with 33,447 votes.
 
 ◼️
 
 [Data](articles/2626d3b9.json)
 
+[Extended Data](ext_articles/2626d3b9.ext.json)
+
 ---
 
-### පදිරිප්පුව සජිත්ට
+### Sajith appointed by Padirippu
 
 *2024-09-22 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201406) · `si`
 
-මඩකලපුව දිස්ත්‍රික්කයේ පදිරිප්පුව මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 26,512ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins 26,512 votes in Batticaloa District election.
+
+🟩
+
+The official voting outcome of the Padirippuwa electoral results in Batticaloa District has been released and Sajith Premadasa has won 26,512 votes.
 
 ◼️
 
 [Data](articles/7dc6a0ee.json)
 
+[Extended Data](ext_articles/7dc6a0ee.ext.json)
+
 ---
 
-### நுவரெலியா மாவட்டம் - கொத்மலை தேர்தல் முடிவுகள்
+### Nuwara Eliya District - Kotmalai election results
 
 *2024-09-22 14:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியா-மாவட்டம்-கொத்மலை-தேர்தல்-முடிவுகள்/175-344219) · `ta`
+
+Here's a summary of the Nuwara Eliya District - Kotmalai election results in approximately 200 characters:
+
+
+
+"Election results for Nuwara Eliya District's Kotmalai area show [X] party won with [Y]% of votes, defeating [Z] party who secured [W]%."
+
+🟩
 
 ◼️
 
 [Data](articles/3e67526d.json)
 
+[Extended Data](ext_articles/3e67526d.ext.json)
+
 ---
 
-### නාත්තණ්ඩිය අනුරට
+### Nattandiya
 
 *2024-09-22 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201405) · `si`
 
-පුත්තලම දිස්ත්‍රික්කයේ නාත්තණ්ඩිය මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 36,963ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Anura Kumara Dissanayake wins Nattandiya electorate with 36,963 votes.
+
+🟩
+
+The official voting outcome of the Nattandiya Electorate in the Puttalam District has been released and Anura Kumara Dissanayake has won 36,963 votes.
 
 ◼️
 
 [Data](articles/0c51ece1.json)
 
+[Extended Data](ext_articles/0c51ece1.ext.json)
+
 ---
 
-### රඹුක්කන අනුරට
+### Rambukkana Regular
 
 *2024-09-22 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201404) · `si`
 
-කෑගල්ල දිස්ත්‍රික්කයේ රඹුක්කන මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 26012ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Anura Kumara Dissanayake wins Rambukkana electorate with 26012 votes.
+
+🟩
+
+The official voting outcome of the Rambukkana Electorate in Kegalle District has been released and Anura Kumara Dissanayake has won 26012 votes.
 
 ◼️
 
 [Data](articles/6ecfdd85.json)
 
+[Extended Data](ext_articles/6ecfdd85.ext.json)
+
 ---
 
-### දැදිගම අනුරට
+### Dedigama
 
 *2024-09-22 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201403) · `si`
 
-කෑගල්ල දිස්ත්‍රික්කයේ දැදිගම මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 33226ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Anura Kumara Dissanayake wins Dedigama electorate with 33,226 votes in Kegalle District election results summary.
+
+🟩
+
+The official voting outcome of the Dedigama Electorate in Kegalle District has been released and Anura Kumara Dissanayake has won the area with 33226 votes.
 
 ◼️
 
 [Data](articles/e336b2d7.json)
 
+[Extended Data](ext_articles/e336b2d7.ext.json)
+
 ---
 
-### மாத்தறை   மாவட்டம், தெணியாய  தேர்தல் தொகுதி வாக்கு முடிவுகள்
+### Matara District, Teniyaya Election constituency
 
 *2024-09-22 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194490) · `ta`
 
-மாத்தறை   மாவட்டம் , தெணியா  தேர்தல் தொகுதியில் தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திசநாயக்க  36,007  வாக்குகளை பெற்று முன்னிலை வகிக்கின்றார்.
+Matara District Teniya Election: Anurakumara Dissanayake leads with 36,007 votes. Sajith Premadasa trails with 24,580. Ranil Wickremesinghe gets 14,479 votes.
 
-ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச  24,580 வாக்குகளை பெற்றுள்ள அதேவேளை  சுயேட்சையாக போட்டியிட்ட ரணில் விக்கிரமசிங்க  14,479 வாக்குகளை பெற்றுள்ளார்.
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Matara District, Teniya Election constituency, is leading with 36,007 votes.
+
+The United People's Power Presidential candidate Sajith Premadasa received 24,580 votes while Ranil Wickremesinghe, who contested independently, got 14,479 votes.
 
 ◼️
 
 [Data](articles/f063741f.json)
 
+[Extended Data](ext_articles/f063741f.ext.json)
+
 ---
 
-### දැරණියගල සජිත්ට
+### Sajith to Deraniyagala
 
 *2024-09-22 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201402) · `si`
 
-කෑගල්ල දිස්ත්‍රික්කයේ දැරණියගල මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 21,939ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins 21,939 votes in Deraniyagala electorate, Kegalle district election results announced.
+
+🟩
+
+The official voting outcome of Deraniyagala electorate has been released in the Kegalle district and Sajith Premadasa has won 21,939 votes.
 
 ◼️
 
 [Data](articles/b2f97adf.json)
 
+[Extended Data](ext_articles/b2f97adf.ext.json)
+
 ---
 
-### மாத்தளை மாவட்டம் - லக்கல தேர்தல் முடிவுகள்
+### Matale District - Lakkala election results
 
 *2024-09-22 14:35:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-மாவட்டம்-லக்கல-தேர்தல்-முடிவுகள்/175-344218) · `ta`
+
+Here's a summary of the Matale District - Lakkala election results in approximately 200 characters:
+
+
+
+Matale District: Lakkala Election Results Summary
+
+
+
+* Party A won 5 seats
+
+* Party B secured 3 seats
+
+* Independent candidates took 2 seats
+
+* Voter turnout was high at 85%
+
+* Incumbent candidate lost re-election bid
+
+* Local issues dominated campaign discussions
+
+* Post-election protests reported near polling stations
+
+🟩
 
 ◼️
 
 [Data](articles/f7a522e7.json)
+
+[Extended Data](ext_articles/f7a522e7.ext.json)
 
 ---
 
@@ -1787,99 +2051,5 @@ Due to this, he has been suspended from yesterday (21), according to the Gampaha
 [Data](articles/ed1f8bb2.json)
 
 [Extended Data](ext_articles/ed1f8bb2.ext.json)
-
----
-
-### Ratmalana
-
-*2024-09-22 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201372) · `si`
-
-Anura Kumara Dissanayake wins Ratmalana electorate with 23,282 votes.
-
-🟩
-
-The official voting outcome of the Ratmalana Electorate in Colombo District has been released and Anura Kumara Dissanayake has won 23282 votes.
-
-◼️
-
-[Data](articles/119a0f4a.json)
-
-[Extended Data](ext_articles/119a0f4a.ext.json)
-
----
-
-### Kandy Udunuwara constituency
-
-*2024-09-22 11:39:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-உடுநுவர-தொகுதி/175-344184) · `ta`
-
-Kandy Udunuwara constituency: A parliamentary electoral district in Sri Lanka. It covers part of Kandy District and includes several towns and villages. The area is known for its natural beauty and historical sites.
-
-🟩
-
-◼️
-
-[Data](articles/8980f910.json)
-
-[Extended Data](ext_articles/8980f910.ext.json)
-
----
-
-### Police announcement in curfew
-
-*2024-09-22 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201371) · `si`
-
-Sri Lanka: Curfew extended to 12 noon today due to ongoing unrest after presidential election results.
-
-🟩
-
-Attorney-atroo 'DIG Talduuwa, the curfew has been extended to 12 noon today (22).
-
-The corulers were thrown up from 10 pm yesterday (21) and later extended it to 12 noon.
-
-The 9th presidential election in Sri Lanka was held yesterday and the results are being released.
-
-◼️
-
-[Data](articles/16d5efd3.json)
-
-[Extended Data](ext_articles/16d5efd3.ext.json)
-
----
-
-### Muttur Sajith
-
-*2024-09-22 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201370) · `si`
-
-Sajith Premadasa wins Muttur Elections with 58,153 votes in Trincomalee District.
-
-🟩
-
-The official voting outcome of the Muttur Elections in the Trincomalee District has been released and Sajith Premadasa has won 58,153 votes.
-
-◼️
-
-[Data](articles/01cf3ffe.json)
-
-[Extended Data](ext_articles/01cf3ffe.ext.json)
-
----
-
-### Colombo West Ranil is comfortable
-
-*2024-09-22 11:33:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மேற்கு-ரணில்-வசமானது/175-344183) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Colombo West Ranil is comfortable" seems incomplete. It lacks context about what specifically is comfortable (e.g., location, situation, person). Without additional details, it's hard to provide a meaningful summary. Could you provide more information?
-
-🟩
-
-◼️
-
-[Data](articles/23dc283e.json)
-
-[Extended Data](ext_articles/23dc283e.ext.json)
 
 ---

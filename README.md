@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 11:58:02**
+As of **2024-09-22 12:11:54**
 
 ## Newspaper Stats
 
-*Scraped **45,413** Articles*
+*Scraped **45,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,228 @@ dbsjeyarajcom | 380
 bbccomsinhala | 441
 colombotelegraphcom | 453
 islandlk | 2,669
-economynextcom | 2,741
+economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,180
 dailymirrorlk | 4,733
-adaderanalk | 5,359
-tamilmirrorlk | 5,991
+adaderanalk | 5,361
+tamilmirrorlk | 5,997
 virakesarilk | 7,255
-adaderanasinhalalk | 7,831
+adaderanasinhalalk | 7,836
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,413 (100.0%) of 45,413 articles have been extended.
+45,429 (100.0%) of 45,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Results for Ratmalana, Dehiwala, Kolonnawa, Muthur, Yatinuwara and Hewaheta
+
+*2024-09-22 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102183/results-for-ratmalana-dehiwala-kolonnawa-muthur-yatinuwara-and-hewaheta-) · `en`
+
+The 2024 presidential election results of the Muthur, Ratmalana, Dehiwala, Kolonnawa, Yatinuwara and Hewaheta polling divisions have been released.
+
+Opposition Leader Sajith Premadasa has received the highest number of votes in the Muthur polling division in Trincomalee District with a total of 58,153 votes.
+
+Meanwhile, NPP’s Dissanayake has topped the Ratmalana polling division in the Colombo District with 23,282 votes.
+
+Dissanayake has also secured victory in the Dehiwala polling division in the Colombo District as well with 19,338 votes.
+
+In the meantime, the results of the Kolonnawa polling division in Colombo District have been released with Dissanayake coming up top.
+
+Dissanayake also secured victory in the Yatinuwara polling division in the Kandy District with 32,909 votes.
+
+Sajith Premadasa has topped the Hewaheta polling division in the Kandy District with 23,658 votes.
+
+◼️
+
+[Data](articles/d6d50905.json)
+
+[Extended Data](ext_articles/d6d50905.ext.json)
+
+---
+
+### The curfew does not extend: police
+
+*2024-09-22 11:48:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்குச்-சட்டம்-நீடிக்கப்படாது-பொலிஸ்/175-344186) · `ta`
+
+Curfew unchanged: Police confirm no extension on Saturday night or Sunday morning. Current restrictions remain in place until noon Sunday.
+
+🟩
+
+The curfew will not be extended to the country on Saturday (21st) at 10 pm and the curfew will not be extended till 12 noon on Sunday (22).
+
+The curfew was implemented till 12 noon today, as the curfew was implemented till 6 am today (22).
+
+◼️
+
+[Data](articles/b36fcc56.json)
+
+[Extended Data](ext_articles/b36fcc56.ext.json)
+
+---
+
+### Yatinuwara accident
+
+*2024-09-22 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201375) · `si`
+
+Here's a summary of the Yatinuwara accident in 200 characters:
+
+
+
+Anura Kumara Dissanayake wins Yatinuwara electorate with 32,909 votes. Official results announced for Kandy District election.
+
+🟩
+
+The official voting outcome of the Yatinuwara electorate in the Kandy District has been released and Anura Kumara Dissanayake has won 32909 votes and win the area.
+
+◼️
+
+[Data](articles/4e74f1fb.json)
+
+[Extended Data](ext_articles/4e74f1fb.ext.json)
+
+---
+
+### Dehiwala, Dehiwala
+
+*2024-09-22 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201374) · `si`
+
+Anura Kumara Dissanayake wins Dehiwala electorate with 19,338 votes.
+
+🟩
+
+The official voting outcome of the Dehiwala Electorate area has been released and Anura Kumara Dissanayake has won 19,338 votes.
+
+◼️
+
+[Data](articles/55088c31.json)
+
+[Extended Data](ext_articles/55088c31.ext.json)
+
+---
+
+### Kolonnawa
+
+*2024-09-22 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201373) · `si`
+
+Anura Kumara Dissanayake wins Kolonnawa election with 49,239 votes in Colombo District.
+
+🟩
+
+The official voting outcome of the Kolonnawa electoral power area in Colombo District has been released and Anura Kumara Dissanayake has won 49239 votes.
+
+◼️
+
+[Data](articles/b9dd7d3d.json)
+
+[Extended Data](ext_articles/b9dd7d3d.ext.json)
+
+---
+
+### Curfew will not be further extended - Police
+
+*2024-09-22 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102182/curfew-will-not-be-further-extended-police) · `en`
+
+Sri Lanka Police Spokesman DIG Nihal Thalduwa confirmed that the islandwide curfew which was extended until 12 noon today will not be further extended.
+
+Curfew had initially been imposed with effect from 10.00 p.m. last night (21) until 06.00 a.m. today (22). However, it had later been extended until 12 noon today (September 22).
+
+The decision to impose a curfew had been taken by the incumbent President Ranil Wickramasinghe under the provisions of the Public Security Ordinance, in view of the release of the results of 2024 presidential election tonight.
+
+However, the Police Media Division had stated that although the post-election situation in the country is very peaceful, this curfew was imposed for further safety of the public. Furthermore, Sri Lanka Police urged the general public to stay in their houses during the curfew period.
+
+...
+
+[Data](articles/467cf563.json)
+
+[Extended Data](ext_articles/467cf563.ext.json)
+
+---
+
+### The reckless act of the officer on duty
+
+*2024-09-22 11:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடமையிலிருந்த-அதிகாரியின்-பொறுப்பற்ற-செயல்/175-344185) · `ta`
+
+A police constable in Sri Lanka left T56 rifles and bullets unattended at a station during elections. He was suspended due to negligence. The incident occurred in Gampaha district.
+
+🟩
+
+The Gampaha Senior Superintendent of Police said that a constable who left T56 rifles and 60 bullets was suspended while he was on the election.
+
+The police said that a police constable who works at the Nittambuwa police has been suspended, police said.
+
+The Constable, the Gampaha Udagaha Valpola Joint Calls, has left the T56 rifles and bullets at the police station without notifying the responsible officer.
+
+Due to this, he has been suspended from yesterday (21), according to the Gampaha Senior Superintendent's Office.. Remble
+
+◼️
+
+[Data](articles/ed1f8bb2.json)
+
+[Extended Data](ext_articles/ed1f8bb2.ext.json)
+
+---
+
+### Ratmalana
+
+*2024-09-22 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201372) · `si`
+
+Anura Kumara Dissanayake wins Ratmalana electorate with 23,282 votes.
+
+🟩
+
+The official voting outcome of the Ratmalana Electorate in Colombo District has been released and Anura Kumara Dissanayake has won 23282 votes.
+
+◼️
+
+[Data](articles/119a0f4a.json)
+
+[Extended Data](ext_articles/119a0f4a.ext.json)
+
+---
+
+### Kandy Udunuwara constituency
+
+*2024-09-22 11:39:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-உடுநுவர-தொகுதி/175-344184) · `ta`
+
+Kandy Udunuwara constituency: A parliamentary electoral district in Sri Lanka. It covers part of Kandy District and includes several towns and villages. The area is known for its natural beauty and historical sites.
+
+🟩
+
+◼️
+
+[Data](articles/8980f910.json)
+
+[Extended Data](ext_articles/8980f910.ext.json)
+
+---
+
+### Police announcement in curfew
+
+*2024-09-22 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201371) · `si`
+
+Sri Lanka: Curfew extended to 12 noon today due to ongoing unrest after presidential election results.
+
+🟩
+
+Attorney-atroo 'DIG Talduuwa, the curfew has been extended to 12 noon today (22).
+
+The corulers were thrown up from 10 pm yesterday (21) and later extended it to 12 noon.
+
+The 9th presidential election in Sri Lanka was held yesterday and the results are being released.
+
+◼️
+
+[Data](articles/16d5efd3.json)
+
+[Extended Data](ext_articles/16d5efd3.ext.json)
+
+---
 
 ### Muttur Sajith
 
@@ -47,6 +251,26 @@ The official voting outcome of the Muttur Elections in the Trincomalee District 
 [Data](articles/01cf3ffe.json)
 
 [Extended Data](ext_articles/01cf3ffe.ext.json)
+
+---
+
+### Colombo West Ranil is comfortable
+
+*2024-09-22 11:33:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மேற்கு-ரணில்-வசமானது/175-344183) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Colombo West Ranil is comfortable" seems incomplete. It lacks context about what specifically is comfortable (e.g., location, situation, person). Without additional details, it's hard to provide a meaningful summary. Could you provide more information?
+
+🟩
+
+◼️
+
+[Data](articles/23dc283e.json)
+
+[Extended Data](ext_articles/23dc283e.ext.json)
 
 ---
 
@@ -109,6 +333,22 @@ The official voting outcome of the Colombo Vidyalaya in Colombo District has bee
 [Data](articles/1393d9cc.json)
 
 [Extended Data](ext_articles/1393d9cc.ext.json)
+
+---
+
+### Sajith captured Colombo North
+
+*2024-09-22 11:30:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பு-வடக்கை-கைப்பற்றினார்-சஜித்/95-344182) · `ta`
+
+Sajith captures Colombo North.
+
+🟩
+
+◼️
+
+[Data](articles/3e48a9df.json)
+
+[Extended Data](ext_articles/3e48a9df.ext.json)
 
 ---
 
@@ -225,6 +465,26 @@ The official voting outcome of the Ampara electorate in the Digamadulla District
 [Data](articles/2c3bd287.json)
 
 [Extended Data](ext_articles/2c3bd287.ext.json)
+
+---
+
+### Kandy District - Nawalapitiya election results
+
+*2024-09-22 11:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மாவட்டம்-நாவலப்பிட்டி-தேர்தல்-முடிவுகள்/175-344180) · `ta`
+
+Here's a summary of the Kandy District - Nawalapitiya election results in approximately 200 characters:
+
+
+
+Nawalapitiya election results: [Candidate names] won with [number] votes (percentage). [Opponent] secured [votes] (percentage). Turnout was [percentage]. Key issues were [brief mentions].
+
+🟩
+
+◼️
+
+[Data](articles/e2974584.json)
+
+[Extended Data](ext_articles/e2974584.ext.json)
 
 ---
 
@@ -1747,253 +2007,5 @@ The official voting outcome of the Devinuwara electoral results in the Matara di
 [Data](articles/5a40bf6d.json)
 
 [Extended Data](ext_articles/5a40bf6d.ext.json)
-
----
-
-### Kundasale wins
-
-*2024-09-22 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201326) · `si`
-
-Anura Kumara Dissanayake wins Kundasale electorate with 38,452 votes.
-
-🟩
-
-The official voting outcome of the Kundasale electorate in the Kandy district has been released and Anura Kumara Dissanayake has won 38,452 votes.
-
-◼️
-
-[Data](articles/84bcbab8.json)
-
-[Extended Data](ext_articles/84bcbab8.ext.json)
-
----
-
-### Sajith wins Vavuniya, Mannar and Anura leads in Senkadagala, Akuressa
-
-*2024-09-22 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102168/sajith-wins-vavuniya-mannar-and-anura-leads-in-senkadagala-akuressa) · `en`
-
-The results of the Vavuniya, Akuressa, Senkadagala and Mannar polling divisions have been released.
-
-Sajith Premadasa has received the highest number of votes in the Vavuniya polling division in Vanni District with a total of 33,731 votes.
-
-Meanwhile, Dissanayake has topped the Akuressa polling division in the Matara District with 41,067 votes.
-
-Dissanayake also secured victory in the Senkadagala polling division in the Kandy District with 30,655 votes.
-
-In the meantime, the Mannar polling division in Vanni District have also been released with Sajith Premadasa coming up top.
-
-◼️
-
-[Data](articles/25322201.json)
-
-[Extended Data](ext_articles/25322201.ext.json)
-
----
-
-### The US Embassy will close Monday
-
-*2024-09-22 08:58:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-தூதரகம்-திங்கள்-மூடப்படும்/175-344158) · `ta`
-
-US Embassy Colombo closes Monday 23rd announcement
-
-🟩
-
-The US embassy in Colombo has officially announced that it will officially shut down on Monday (23).
-
-◼️
-
-[Data](articles/b887256f.json)
-
-[Extended Data](ext_articles/b887256f.ext.json)
-
----
-
-### Pathadumbara Sajith
-
-*2024-09-22 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201325) · `si`
-
-Sajith Premadasa wins Pathadumbara electorate with 29,760 votes.
-
-🟩
-
-The official voting outcome of the Pathadumbara Electorate in the Kandy District has been released and Sajith Premadasa has won 29,760 votes.
-
-◼️
-
-[Data](articles/92e41912.json)
-
-[Extended Data](ext_articles/92e41912.ext.json)
-
----
-
-### Jaya Sajith visited Kankesanthurai
-
-*2024-09-22 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201324) · `si`
-
-Jaya Sajith visits Kankesanthurai. Official results from Palandeniya Electorate show Sajith Premadasa wins 8708 votes in Galle District.
-
-🟩
-
-The official voting outcome of the Palandeniya Electorate in Galle District has been released and Sajith Premadasa has won 8708 votes.
-
-◼️
-
-[Data](articles/07c21bfb.json)
-
-[Extended Data](ext_articles/07c21bfb.ext.json)
-
----
-
-### Point Pedro to the Ariyalana
-
-*2024-09-22 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201323) · `si`
-
-Arianatha wins Point Pedro electorate in Jaffna District with 8,658 votes.
-
-🟩
-
-The official voting outcome of Point Pedro Electorates in the Jaffna District has been released. Arianatha has won the area with 8,658 votes.
-
-◼️
-
-[Data](articles/b82e78d7.json)
-
-[Extended Data](ext_articles/b82e78d7.ext.json)
-
----
-
-### 3,204 in Battegama constituency
-
-*2024-09-22 08:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/பத்தேகம-தொகுதியில்-நாமலுக்கு-3-204/93-344157) · `ta`
-
-Here's a summary of "3,204 in Battagama constituency" in 200 characters:
-
-
-
-Battagama constituency: 3,204 residents. A small electoral district with a specific number of voters.
-
-🟩
-
-◼️
-
-[Data](articles/8a478670.json)
-
-[Extended Data](ext_articles/8a478670.ext.json)
-
----
-
-### Karandeniya too
-
-*2024-09-22 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201322) · `si`
-
-Anura Kumara Dissanayake wins Palandeniya electorate with 32,895 votes.
-
-🟩
-
-The official voting outcome of the Palandeniya Electorate in Galle District has been released and Anura Kumara Dissanayake has won 32895 votes.
-
-◼️
-
-[Data](articles/9d499c16.json)
-
-[Extended Data](ext_articles/9d499c16.ext.json)
-
----
-
-### Hiniduma, Akmeemana, Baddegama, Point Pedro, Pathadumbara and Polgahawela  results
-
-*2024-09-22 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102167/hiniduma-akmeemana-baddegama-point-pedro-pathadumbara-and-polgahawela-results) · `en`
-
-The results of the Hiniduma, Akmeemana and Baddegama polling divisions in Galle District, Point Pedro polling division in Jaffna District, Pathadumbara polling division in the Kandy District and Polgahawela polling division in the Kurunegala District have been released.
-
-Anura Kumara Dissanayake has received the highest number of votes in the Hiniduma polling division with a total of 35,677 votes.
-
-Meanwhile, Dissanayake has topped the Baddegama polling division in the Galle District as well with 37,301 votes.
-
-Dissanayake also secured victory in the Akmeemana polling division in the Galle District with 45,632 votes.
-
-In the meantime, the Point Pedro polling division in Jaffna District for the 2024 Presidential Election have also been released with P.  Ariyanethiran coming up top.
-
-Sajith Premadasa secured victory in the Pathadumbara polling division in the Kandy District with 29,760 votes.
-
-...
-
-[Data](articles/fe30041b.json)
-
-[Extended Data](ext_articles/fe30041b.ext.json)
-
----
-
-### Akmeemana
-
-*2024-09-22 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201321) · `si`
-
-Anura Krama Dissanayake wins Akmeemana electorate with 45,63 votes in Galle District election results summary.
-
-🟩
-
-The official voting outcome of the Akmeemana Electorate in Galle District has been released and Anura Krama Dissanayake has won the area with 45,63 votes.
-
-◼️
-
-[Data](articles/f5227145.json)
-
-[Extended Data](ext_articles/f5227145.ext.json)
-
----
-
-### Tissamaharama wins
-
-*2024-09-22 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201320) · `si`
-
-Anura Kumara Dissanayake wins Tissamaharama electorate with 72,907 votes.
-
-🟩
-
-The official voting outcome of the Tissamaharama electorate in the Hambantota district has been released and Anura Kumara Dissanayake has won 72,907 votes.
-
-◼️
-
-[Data](articles/3850c351.json)
-
-[Extended Data](ext_articles/3850c351.ext.json)
-
----
-
-### The Kundasalai constituency went to Anura
-
-*2024-09-22 08:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குண்டசாலை-தொகுதி-அனுரவிடம்-சென்றது/76-344156) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Anura won the Kundasalai constituency election.
-
-🟩
-
-◼️
-
-[Data](articles/0a469f5e.json)
-
-[Extended Data](ext_articles/0a469f5e.ext.json)
-
----
-
-### Chavakachcheri
-
-*2024-09-22 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201319) · `si`
-
-Sajith Premadasa wins Chavakachcheri electorate with 10,956 votes in Jaffna District election results.
-
-🟩
-
-The official voting outcome of the Chavakachcheri Electorate in Jaffna District has been released and Sajith Premadasa has won 10,956 votes.
-
-◼️
-
-[Data](articles/33a5c124.json)
-
-[Extended Data](ext_articles/33a5c124.ext.json)
 
 ---

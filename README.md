@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 13:38:22**
+As of **2024-09-22 13:57:31**
 
 ## Newspaper Stats
 
-*Scraped **45,472** Articles*
+*Scraped **45,476** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 380
-bbccomsinhala | 442
+bbccomsinhala | 443
 colombotelegraphcom | 453
 islandlk | 2,669
 economynextcom | 2,748
 dailyftlk | 3,017
-adalk | 4,181
+adalk | 4,182
 dailymirrorlk | 4,733
-adaderanalk | 5,363
-tamilmirrorlk | 6,020
+adaderanalk | 5,364
+tamilmirrorlk | 6,021
 virakesarilk | 7,255
 adaderanasinhalalk | 7,848
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 7,848
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,472 (100.0%) of 45,472 articles have been extended.
+45,476 (100.0%) of 45,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Sri Lanka heads to first-ever presidential run-off as second count confirmed
+
+*2024-09-22 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102186/sri-lanka-heads-to-first-ever-presidential-run-off-as-second-count-confirmed) · `en`
+
+The Chairman of the Election Commission, R.M.A.L. Ratnayake officially announced the counting of second preference of the two leading candidates of the 2024 presidential election, in view of the prevailing situation of the vote results.
+
+Mr. Ratnayake stated that accordingly, all the other candidates except for the National People’s Power (NPP) candidate Anura Kumara Dissanayake and Samagi Jana Sandhanaya candidate Sajith Premadasa will be disqualified from the race.
+
+The Election Commission Chairman announced this during a special media briefing, a short while ago.
+
+◼️
+
+[Data](articles/d81da62f.json)
+
+[Extended Data](ext_articles/d81da62f.ext.json)
+
+---
+
+### Four people die in US shooting;Many injured
+
+*2024-09-22 13:27:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவில்-துப்பாக்கிச்சுட்டில்-4-பேர்-உயிரிழப்பு-பலர்-படுகாயம்/50-344211) · `ta`
+
+US shooting: 4 dead, 20+ injured in Birmingham hotel attack. Police investigate gunman. Gun laws restrict ownership but not all violators.
+
+🟩
+
+The shootings of the United States are frequently happening. The government allows individuals to hold firearms. However, there are countless restrictions to use it. There is also a hindrance to the fire, including individuals under the age of 18, convicted criminals and mentally ill.
+
+In this case, a mysterious person suddenly opened fire on the hotel in Birmingham, Alabama, the United States. Four people died on the spot. More than 20 people were injured. They have been admitted to the hospital for treatment.
+
+Most of them are worrisome. It is feared that the number of casualties will increase.
+
+In this case, police are investigating the mysterious man who fired.
+
+◼️
+
+[Data](articles/05ffcf9e.json)
+
+[Extended Data](ext_articles/05ffcf9e.ext.json)
+
+---
 
 ### The second preference has to count
 
@@ -1977,45 +2019,5 @@ The official voting outcome of the Vavuniya Electorate in Vavuniya district has 
 [Data](articles/bee66751.json)
 
 [Extended Data](ext_articles/bee66751.ext.json)
-
----
-
-### Galle District, Galle Electoral Voting Results
-
-*2024-09-22 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/194422) · `ta`
-
-Galle District election results: Anurakumara Dissanayake leads with 34,839 votes. Sajith Premadasa receives 17,935. Ranil Wickremesinghe gets 9,478 votes.
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Galle Election constituency, is leading with 34,839 votes.
-
-The United People's Power Presidential candidate Sajith Premadasa received 17,935 votes while Ranil Wickremesinghe, who contested independently, got 9478 votes.
-
-◼️
-
-[Data](articles/a2b8adaf.json)
-
-[Extended Data](ext_articles/a2b8adaf.ext.json)
-
----
-
-### Ariyanethiran tops Vaddukoddai and Uduppidy, Sajith wins Manipay
-
-*2024-09-22 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102175/ariyanethiran-tops-vaddukoddai-and-uduppidy-sajith-wins-manipay) · `en`
-
-The results of the Vaddukoddai, Manipay and Uduppidy polling divisions in Jaffna District have been released.
-
-Tamil common candidate P.  Ariyanethiran has received the highest number of votes in the Vaddukoddai polling division in Jaffna District with a total of 11,170 votes.
-
-Meanwhile, Sajith Premadasa has topped the Manipay polling division in the Jaffna District with 11,609 votes.
-
-Ariyanethiran has also secured victory in the Uduppidy polling division in the Jaffna District with 8,467 votes.
-
-◼️
-
-[Data](articles/2bd026e7.json)
-
-[Extended Data](ext_articles/2bd026e7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 04:38:20**
+As of **2024-09-23 04:57:01**
 
 ## Newspaper Stats
 
-*Scraped **45,661** Articles*
+*Scraped **45,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 447
 colombotelegraphcom | 454
 islandlk | 2,669
 economynextcom | 2,757
-dailyftlk | 3,018
+dailyftlk | 3,020
 adalk | 4,192
 dailymirrorlk | 4,733
 adaderanalk | 5,376
@@ -26,11 +26,41 @@ adaderanasinhalalk | 7,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,660 (100.0%) of 45,661 articles have been extended.
+45,662 (100.0%) of 45,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### AKD’s victory a historic shift in power
+
+*2024-09-23 04:26:49* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-victory-a-historic-shift-in-power/4-767002) · `en`
+
+All the noise from various parties has now faded, as Anura Kumara Dissanayake (AKD) is set to be sworn in as Sri Lanka’s 9th President, marking the change the public has long awaited. Personally, I’m not concerned with what others think; our responsibility remains to work for our children’s future, regardless of who is in power. Both Ranil Wickremesinghe and Sajith Premadasa allowed rogue elements from Pohottuwa into their ranks, leading to their downfall, while Namal Rajapaksa was a non-factor, as the results clearly showed.
+
+...
+
+[Data](articles/5f8b7742.json)
+
+[Extended Data](ext_articles/5f8b7742.ext.json)
+
+---
+
+### AKD’s top priority should be to appease a population boiling from within
+
+*2024-09-23 04:19:54* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-top-priority-should-be-to-appease-a-population-boiling-from-within/4-767000) · `en`
+
+Beneath this diabolic calmness on the surface, the economy is dangerously boiling, heating up gradually every moment without an internally built cooling mechanism and ready for eruption like a volcano
+
+What is the economy which the new President has inherited from the outgoing President? On the surface, it is a more orderly economy compared with the chaos-filled one which Sri Lanka had about two and a half years ago. There are no long queues for essential consumer items like fuel, cooking gas, and basic food items. There are no curse-generating power cuts anymore. Foreign exchange is available to users – both consumers and producers – through banking channels. The foreign exchange black market is virtually non-existent. People are enjoying life travelling locally as well as overseas on holidays or pilgrimages
+
+...
+
+[Data](articles/1aee9760.json)
+
+[Extended Data](ext_articles/1aee9760.ext.json)
+
+---
 
 ### Presidential Election 2024
 
@@ -2279,55 +2309,5 @@ Attanagalla: A small town in Sri Lanka known for its historical significance and
 [Data](articles/0ebea96e.json)
 
 [Extended Data](ext_articles/0ebea96e.ext.json)
-
----
-
-### The final election results of the Batticaloa district
-
-*2024-09-22 15:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344232) · `ta`
-
-Here's a summary of the Batticaloa district election results in approximately 200 characters:
-
-
-
-Batticaloa district election results: [Insert specific details about party wins, voter turnout, and notable candidates]. The outcome reflects local preferences and national trends.
-
-🟩
-
-◼️
-
-[Data](articles/80cf78c0.json)
-
-[Extended Data](ext_articles/80cf78c0.ext.json)
-
----
-
-### Chilaw, Welimada, Kelaniya, Kelaniya, Hali Ela Vote
-
-*2024-09-22 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201423) · `si`
-
-Here's a summary of the election results in 200 characters:
-
-
-
-Anura Kumara Dissanayake wins Chilaw (47,231) and Kelaniya (37,049). Sajith Premadasa wins Welimada (27,039) and Eleven (22,562).
-
-🟩
-
-The official voting results of the Welimada and Kelaniya, Keyniya District in the Puttalam District of Puttalam has been released.
-
-The official voting outcome of the Chilaw Electorate in the Puttalam District has been released and Anura Kumara Dissanayake has won 47,231 votes.
-
-The official voting outcome of the Welimada Electorate in Badulla District has been released and Sajith Premadasa has won the area with 27,039 votes.
-
-The official voting outcome of the Kelaniya electorate in the Gampaha District has been released and Anura Kumara Dissanayake has won 37,049 votes.
-
-The official voting outcome of the Eleven Electorate in Badulla District has been released and Sajith Premadasa has won 22,562 votes.
-
-◼️
-
-[Data](articles/d0339dfd.json)
-
-[Extended Data](ext_articles/d0339dfd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 14:56:50**
+As of **2024-09-22 15:07:40**
 
 ## Newspaper Stats
 
-*Scraped **45,506** Articles*
+*Scraped **45,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,253 @@ dailyftlk | 3,017
 adalk | 4,183
 dailymirrorlk | 4,733
 adaderanalk | 5,364
-tamilmirrorlk | 6,026
-virakesarilk | 7,265
-adaderanasinhalalk | 7,862
+tamilmirrorlk | 6,031
+virakesarilk | 7,267
+adaderanasinhalalk | 7,875
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,506 (100.0%) of 45,506 articles have been extended.
+45,506 (100.0%) of 45,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### පුත්තලම සජිත්ට
+
+*2024-09-22 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201414) · `si`
+
+පුත්තලම දිස්ත්‍රික්කයේ පුත්තලම මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 68,403ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/d2e54247.json)
+
+---
+
+### අවිස්සාවේල්ල අනුරට
+
+*2024-09-22 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201413) · `si`
+
+කොළඹ දිස්ත්‍රික්කයේ අවිස්සාවේල්ල මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 47,219ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/3426bd9a.json)
+
+---
+
+### පස්සර සජිත්ට
+
+*2024-09-22 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201412) · `si`
+
+බදුල්ල දිස්ත්‍රික්කයේ පස්සර මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 23,013ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/e29ecc98.json)
+
+---
+
+### பதுளை  மாவட்டம் , பசறை  தேர்தல் தொகுதி வாக்கு முடிவுகள்
+
+*2024-09-22 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194509) · `ta`
+
+பதுளை  மாவட்டம் , பசறை  தேர்தல் தொகுதியில் ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச  23,031 வாக்குகளை பெற்று முன்னிலை வகிக்கின்றார்.
+
+சுயேட்சையாக போட்டியிட்ட ரணில் விக்கிரமசிங்க   14,288 வாக்குகளை பெற்றுள்ள அதேவேளை  தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திசாநாயக்க   10,093 வாக்குகளை பெற்றுள்ளார்.
+
+◼️
+
+[Data](articles/b05ce5bc.json)
+
+---
+
+### வெல்லவாய தேர்தல் முடிவுகள்
+
+*2024-09-22 14:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-மாவட்டம்-வெல்லவாய-தேர்தல்-முடிவுகள்/175-344222) · `ta`
+
+◼️
+
+[Data](articles/62e01e3c.json)
+
+---
+
+### හඟුරන්කෙත සජිත්ට
+
+*2024-09-22 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201411) · `si`
+
+නුවර එළිය දිස්ත්‍රික්කයේ හඟුරන්කෙත මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 22,894ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/a3333044.json)
+
+---
+
+### අරණායක අනුරට
+
+*2024-09-22 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201410) · `si`
+
+කෑගල්ල දිස්ත්‍රික්කයේ අරණායක මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 16,853ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/498ad497.json)
+
+---
+
+### அவிசாவளை தேர்தல் முடிவுகள்
+
+*2024-09-22 14:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளை-தேர்தல்-முடிவுகள்/175-344221) · `ta`
+
+◼️
+
+[Data](articles/6c658337.json)
+
+---
+
+### கேகாலை மாவட்டம் - கலிகமுவ தேர்தல் முடிவுகள்
+
+*2024-09-22 14:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-கலிகமுவ-தேர்தல்-முடிவுகள்/175-344220) · `ta`
+
+◼️
+
+[Data](articles/01e861aa.json)
+
+---
+
+### රත්තොට සජිත්ට
+
+*2024-09-22 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201409) · `si`
+
+මාතලේ දිස්ත්‍රික්කයේ රත්තොට මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 31,358ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/27dec411.json)
+
+---
+
+### මස්කෙළිය සජිත්ට
+
+*2024-09-22 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201408) · `si`
+
+නුවරඑළිය දිස්ත්‍රික්කයේ මස්කෙළිය මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 117,232ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/69bd5a54.json)
+
+---
+
+### මාවනැල්ල අනුරට
+
+*2024-09-22 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201407) · `si`
+
+කෑගල්ල දිස්ත්‍රික්කයේ මාවනැල්ල මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 33,447ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/2626d3b9.json)
+
+---
+
+### පදිරිප්පුව සජිත්ට
+
+*2024-09-22 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201406) · `si`
+
+මඩකලපුව දිස්ත්‍රික්කයේ පදිරිප්පුව මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 26,512ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/7dc6a0ee.json)
+
+---
+
+### நுவரெலியா மாவட்டம் - கொத்மலை தேர்தல் முடிவுகள்
+
+*2024-09-22 14:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியா-மாவட்டம்-கொத்மலை-தேர்தல்-முடிவுகள்/175-344219) · `ta`
+
+◼️
+
+[Data](articles/3e67526d.json)
+
+---
+
+### නාත්තණ්ඩිය අනුරට
+
+*2024-09-22 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201405) · `si`
+
+පුත්තලම දිස්ත්‍රික්කයේ නාත්තණ්ඩිය මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 36,963ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/0c51ece1.json)
+
+---
+
+### රඹුක්කන අනුරට
+
+*2024-09-22 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201404) · `si`
+
+කෑගල්ල දිස්ත්‍රික්කයේ රඹුක්කන මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 26012ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/6ecfdd85.json)
+
+---
+
+### දැදිගම අනුරට
+
+*2024-09-22 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201403) · `si`
+
+කෑගල්ල දිස්ත්‍රික්කයේ දැදිගම මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 33226ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/e336b2d7.json)
+
+---
+
+### மாத்தறை   மாவட்டம், தெணியாய  தேர்தல் தொகுதி வாக்கு முடிவுகள்
+
+*2024-09-22 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194490) · `ta`
+
+மாத்தறை   மாவட்டம் , தெணியா  தேர்தல் தொகுதியில் தேசிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் அனுரகுமார திசநாயக்க  36,007  வாக்குகளை பெற்று முன்னிலை வகிக்கின்றார்.
+
+ஐக்கிய மக்கள் சக்தியின் ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாச  24,580 வாக்குகளை பெற்றுள்ள அதேவேளை  சுயேட்சையாக போட்டியிட்ட ரணில் விக்கிரமசிங்க  14,479 வாக்குகளை பெற்றுள்ளார்.
+
+◼️
+
+[Data](articles/f063741f.json)
+
+---
+
+### දැරණියගල සජිත්ට
+
+*2024-09-22 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201402) · `si`
+
+කෑගල්ල දිස්ත්‍රික්කයේ දැරණියගල මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 21,939ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/b2f97adf.json)
+
+---
+
+### மாத்தளை மாவட்டம் - லக்கல தேர்தல் முடிவுகள்
+
+*2024-09-22 14:35:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-மாவட்டம்-லக்கல-தேர்தல்-முடிவுகள்/175-344218) · `ta`
+
+◼️
+
+[Data](articles/f7a522e7.json)
+
+---
 
 ### Anura will win the Kesbewa
 
@@ -1647,401 +1881,5 @@ Here's a 200-character summary:
 [Data](articles/23dc283e.json)
 
 [Extended Data](ext_articles/23dc283e.ext.json)
-
----
-
-### Udunuwara
-
-*2024-09-22 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201369) · `si`
-
-Anura Kumara Dissanayake wins Udunuwara electorate with 3332 votes.
-
-🟩
-
-The official voting outcome of the Udunuwara Electorate in Kandy has been released and Anura Kumara Dissanayake has won 3332 votes.
-
-◼️
-
-[Data](articles/2a4f5f90.json)
-
-[Extended Data](ext_articles/2a4f5f90.ext.json)
-
----
-
-### Colombo-North, East, West, Ampara, Harispattuwa, Wariyapola and Udunuwara results
-
-*2024-09-22 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102181/colombo-north-east-west-ampara-harispattuwa-wariyapola-and-udunuwara-results) · `en`
-
-The 2024 presidential election results of the Ampara, Colombo-North, Harispaththuwa, Colombo-East and Colombo-West polling divisions have been released.
-
-NPP’s Anura Kumara Dissanayake has received the highest number of votes in the Ampara polling division in Digamadulla District with a total of 60,292 votes.
-
-Meanwhile, Sajith Premadasa has topped the Colombo-North polling division in the Colombo District with 32,289 votes.
-
-NPP’s Dissanayake has secured victory in the Harispaththuwa polling division in the Kandy District as well with 59,456 votes.
-
-In the meantime, the results of the Colombo-East polling division in Colombo District have been released with Dissanayake coming up top.
-
-Dissanayake also secured victory in the Wariyapola polling division in the Kurunegala District with 32,527 votes.
-
-Sajith Premadasa has topped the Colombo-West polling division in the Colombo District with 9,697 votes.
-
-...
-
-[Data](articles/e5455146.json)
-
-[Extended Data](ext_articles/e5455146.ext.json)
-
----
-
-### Sajith to Colombo
-
-*2024-09-22 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201368) · `si`
-
-Sajith Premadasa wins 9,697 votes in Colombo Vidyalaya election.
-
-🟩
-
-The official voting outcome of the Colombo Vidyalaya in Colombo District has been released and Sajith Premadasa has won 9,697 votes.
-
-◼️
-
-[Data](articles/1393d9cc.json)
-
-[Extended Data](ext_articles/1393d9cc.ext.json)
-
----
-
-### Sajith captured Colombo North
-
-*2024-09-22 11:30:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/கொழும்பு-வடக்கை-கைப்பற்றினார்-சஜித்/95-344182) · `ta`
-
-Sajith captures Colombo North.
-
-🟩
-
-◼️
-
-[Data](articles/3e48a9df.json)
-
-[Extended Data](ext_articles/3e48a9df.ext.json)
-
----
-
-### Akiyapola
-
-*2024-09-22 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201367) · `si`
-
-Anura Kumara Dissanayake wins 32527 votes in Wariyapola electorate, Kurunegala District.
-
-🟩
-
-The official voting outcome of the Wariyapola electorate in the Kurunegala District has been released and Anura Kumara Dissanayake has won 32527 votes.
-
-◼️
-
-[Data](articles/419309cf.json)
-
-[Extended Data](ext_articles/419309cf.ext.json)
-
----
-
-### East Colombo
-
-*2024-09-22 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201366) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Anura Kumara Dissanayake wins East Colombo election with 18,523 votes."
-
-🟩
-
-The official voting outcome of the Eastern Colombo District has been released, and Anura Kumara Dissanayake has won 18,523 votes.
-
-◼️
-
-[Data](articles/aa842031.json)
-
-[Extended Data](ext_articles/aa842031.ext.json)
-
----
-
-### Anura Harispattuwa win
-
-*2024-09-22 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201365) · `si`
-
-Anura Kumara Dissanayake wins Kandy District election with 59,456 votes.
-
-🟩
-
-The official voting outcome of Harispatuwa electoral results in the Kandy District has been released and Anura Kumara Dissanayake has won 59456 votes.
-
-◼️
-
-[Data](articles/ecf490b9.json)
-
-[Extended Data](ext_articles/ecf490b9.ext.json)
-
----
-
-### Sajith to Colombo North
-
-*2024-09-22 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201364) · `si`
-
-Sajith Premadasa wins Colombo North election with 32,289 votes.
-
-🟩
-
-The official voting outcome of the Colombo North Colombo District has been released and Sajith Premadasa has won 32,289 votes.
-
-◼️
-
-[Data](articles/583c1488.json)
-
-[Extended Data](ext_articles/583c1488.ext.json)
-
----
-
-### Official postal voting results of Kalutara District
-
-*2024-09-22 11:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201363) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Kalutara District official postal voting results: Anura Kumara Dissanayake received 21,589 votes.
-
-🟩
-
-Anura Kumara Dissanayake is published 21,589 votes in the Kalutara district.
-
-◼️
-
-[Data](articles/2369acb4.json)
-
-[Extended Data](ext_articles/2369acb4.ext.json)
-
----
-
-### Anura wins Ampara
-
-*2024-09-22 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201362) · `si`
-
-Anura Kumara Dissanayake wins Ampara election with 60,292 votes.
-
-🟩
-
-The official voting outcome of the Ampara electorate in the Digamadulla District has been released and Anura Kumara Dissanayake has won 60292 votes.
-
-◼️
-
-[Data](articles/2c3bd287.json)
-
-[Extended Data](ext_articles/2c3bd287.ext.json)
-
----
-
-### Kandy District - Nawalapitiya election results
-
-*2024-09-22 11:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மாவட்டம்-நாவலப்பிட்டி-தேர்தல்-முடிவுகள்/175-344180) · `ta`
-
-Here's a summary of the Kandy District - Nawalapitiya election results in approximately 200 characters:
-
-
-
-Nawalapitiya election results: [Candidate names] won with [number] votes (percentage). [Opponent] secured [votes] (percentage). Turnout was [percentage]. Key issues were [brief mentions].
-
-🟩
-
-◼️
-
-[Data](articles/e2974584.json)
-
-[Extended Data](ext_articles/e2974584.ext.json)
-
----
-
-### Kalawana, Rakwana, Batticaloa and Kalkuda results out
-
-*2024-09-22 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102180/kalawana-rakwana-batticaloa-and-kalkuda-results-out) · `en`
-
-The 2024 presidential election results of the Kalawana, Rakwana, Batticaloa and Kalkuda polling divisions have been released.
-
-NPP’s Anura Kumara Dissanayake has received the highest number of votes in the Kalawana polling division in Ratnapura District with a total of 19,850 votes.
-
-Meanwhile, Sajith Premadasa has topped the Rakwana polling division in the Ratnapura District with 37,151 votes.
-
-Premadasa has also secured victory in the Batticaloa polling division in the Batticaloa District as well with 64,068 votes.
-
-In the meantime, the results of the Kalkuda polling division in Batticaloa District have been released with Sajith Premadasa coming up top.
-
-◼️
-
-[Data](articles/5233309a.json)
-
-[Extended Data](ext_articles/5233309a.ext.json)
-
----
-
-### Kalkudah Sajith
-
-*2024-09-22 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201361) · `si`
-
-Sajith Premadasa wins Kalkuda electorate with 45,325 votes in Batticaloa District election results summary.
-
-🟩
-
-The official voting outcome of the Kalkuda Electorate in the Batticaloa District has been released and Sajith Premadasa has won the area with 45,325 votes.
-
-◼️
-
-[Data](articles/e61a672e.json)
-
-[Extended Data](ext_articles/e61a672e.ext.json)
-
----
-
-### Final postal vote result released
-
-*2024-09-22 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102179/final-postal-vote-result-released) · `en`
-
-The postal vote result of the Kalutara District in the 2024 Presidential Election has been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake coming up top.
-
-Dissanayake has received the highest number of postal votes in the district with a total of 21,589 postal votes.
-
-◼️
-
-[Data](articles/ab7dc47e.json)
-
-[Extended Data](ext_articles/ab7dc47e.ext.json)
-
----
-
-### Sajith to Batticaloa
-
-*2024-09-22 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201360) · `si`
-
-Sajith Premadasa wins Batticaloa election with 64,068 votes.
-
-🟩
-
-The official voting outcome of Batticaloa Elections in Batticaloa has been released and Sajith Premadasa has won 64,068 votes.
-
-◼️
-
-[Data](articles/4baec5a7.json)
-
-[Extended Data](ext_articles/4baec5a7.ext.json)
-
----
-
-### Colombo District - Borella election results
-
-*2024-09-22 11:05:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டம்-பொரளை-தேர்தல்-முடிவுகள்/175-344177) · `ta`
-
-Here's a summary of the Colombo District - Borella election results in approximately 200 characters:
-
-
-
-"Colombo District: Borella election results show [X] party won [Y]% of votes, securing [Z] seats. Key candidates [A], [B], and [C] ran strong campaigns. Voter turnout was [D]%. The outcome reflects local preferences and national trends."
-
-🟩
-
-◼️
-
-[Data](articles/b77f456f.json)
-
-[Extended Data](ext_articles/b77f456f.ext.json)
-
----
-
-### Rakwana Sajith
-
-*2024-09-22 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201359) · `si`
-
-Sajith Premadasa wins Ratnapura District election with 37,151 votes.
-
-🟩
-
-The official voting outcome of the Ratnapura District has been released and Sajith Premadasa has won 37151 votes.
-
-◼️
-
-[Data](articles/3cbd7528.json)
-
-[Extended Data](ext_articles/3cbd7528.ext.json)
-
----
-
-### Kalawana
-
-*2024-09-22 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201358) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara Dissanayake wins Kalawana electorate with 19,850 votes in Ratnapura district election results announced.
-
-🟩
-
-The official voting outcome of the Kalawana Electorate in the Ratnapura District has been released and Anura Kumara Dissanayake has won 19,850 votes.
-
-◼️
-
-[Data](articles/e289bb6d.json)
-
-[Extended Data](ext_articles/e289bb6d.ext.json)
-
----
-
-### Sajith, Mannar
-
-*2024-09-22 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201357) · `si`
-
-Sajith Premadasa wins Mannar Elections Vanni District 28491 votes summary:
-
-🟩
-
-The official voting outcome of the Mannar Elections in the Vanni District has been released and Sajith Premadasa has won 28491 votes.
-
-◼️
-
-[Data](articles/9a18a9c4.json)
-
-[Extended Data](ext_articles/9a18a9c4.ext.json)
-
----
-
-### Lawyer launched suicide with driver
-
-*2024-09-22 10:54:24* · [`adalk`](https://www.ada.lk/breaking_news/රියදුරුත්-සමග-අනියම්-සබඳතාවක්-පැවැත්වූ-නීතිඥවරියට-දිවි-අහිමිවෙයි/11-412067) · `si`
-
-Lawyer killed by driver in Sri Lanka. Driver arrested after investigation. Case ongoing in court.
-
-🟩
-
-Mirihana Police say that a lawyer was killed in a sharp object in a hurricane in Gangodawila road in Gangodawila road.. Mrs. Muthu Arthur's Jayani de Silva has been killed in the incident.
-
-In connection with the murder, a 45-year-old man was arrested by the Aluthgama police station and handed over to Mirimita Police
-
-The deceased lawyer was a divorce of marriage and two years ago, police investigations revealed that the suspect was recruited as her driver.
-
-The police said that the lawyer had stopped and removed the driver
-
-The suspect driver had been bothering the deceased and a case is being heard in the Nugegoda Magistrate's Court.
-
-Police say that there was a casual affair with the driver of her worker before marriage and had received the assassination into the man
-
-The suspect is a resident of the Puhul Wadagoda road. Investigations are conducted on the instructions of Mirihana Headquarters Chief Inspector Manjula Thushara
-
-◼️
-
-[Data](articles/5e179bc9.json)
-
-[Extended Data](ext_articles/5e179bc9.ext.json)
 
 ---

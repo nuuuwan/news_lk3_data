@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 13:07:54**
+As of **2024-09-22 13:38:22**
 
 ## Newspaper Stats
 
-*Scraped **45,464** Articles*
+*Scraped **45,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,154 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,181
 dailymirrorlk | 4,733
-adaderanalk | 5,362
-tamilmirrorlk | 6,014
+adaderanalk | 5,363
+tamilmirrorlk | 6,020
 virakesarilk | 7,255
-adaderanasinhalalk | 7,847
+adaderanasinhalalk | 7,848
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,464 (100.0%) of 45,464 articles have been extended.
+45,472 (100.0%) of 45,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### The second preference has to count
+
+*2024-09-22 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201387) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+"Second preference counts in 2024 US presidential election announcement."
+
+🟩
+
+The 2124 presidential election has officially announced the counting of the presidential election.
+
+◼️
+
+[Data](articles/eacff831.json)
+
+[Extended Data](ext_articles/eacff831.ext.json)
+
+---
+
+### Kegalle District - Kegalle election results
+
+*2024-09-22 13:12:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-கேகாலை-தேர்தல்-முடிவுகள்/175-344210) · `ta`
+
+Here's a summary of the Kegalle District election results in approximately 200 characters:
+
+
+
+Kegalle District election results: [Insert specific details about winners, margins, turnout, etc.]
+
+🟩
+
+◼️
+
+[Data](articles/ed38d58d.json)
+
+[Extended Data](ext_articles/ed38d58d.ext.json)
+
+---
+
+### Anura in Bibila constituency
+
+*2024-09-22 13:07:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிபில-தொகுதியில்-அனுர/175-344209) · `ta`
+
+Here's a summary of "Anura in Bibila constituency" in approximately 200 characters:
+
+
+
+Anura is a town located within the Bibila electorate in Sri Lanka. It's known for its agricultural production, particularly rice and vegetables. The area experiences moderate temperatures year-round, with two distinct monsoon seasons affecting local farming practices. Anura residents primarily engage in agriculture and small-scale trading activities.
+
+🟩
+
+◼️
+
+[Data](articles/718b4bec.json)
+
+[Extended Data](ext_articles/718b4bec.ext.json)
+
+---
+
+### Anura seized the Moneragala constituency
+
+*2024-09-22 13:03:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-தொகுதியை-கைப்பற்றினார்-அனுர/175-344208) · `ta`
+
+Anura won the Moneragala constituency election.
+
+🟩
+
+◼️
+
+[Data](articles/32d594fc.json)
+
+[Extended Data](ext_articles/32d594fc.ext.json)
+
+---
+
+### Anuradhapura District - Kalawewa election results
+
+*2024-09-22 13:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுராதபுரம்-மாவட்டம்-கலாவெவ-தேர்தல்-முடிவுகள்/175-344207) · `ta`
+
+Here's a summary of the Anuradhapura District - Kalawewa election results in approximately 200 characters:
+
+
+
+"Kalawewa election results: [Candidate A] won with 52% of votes, followed by [Candidate B] with 45%. Turnout was 75%, higher than previous elections. Local issues like infrastructure development and economic growth influenced voter decisions."
+
+🟩
+
+◼️
+
+[Data](articles/04c9dca8.json)
+
+[Extended Data](ext_articles/04c9dca8.ext.json)
+
+---
+
+### Sajith made the Valappanai constituency
+
+*2024-09-22 12:57:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலப்பனை-தொகுதியை-வசமாக்கினார்-சஜித்/175-344206) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sajith created the Valappanai constituency. This action likely refers to Sajith's role in establishing or defining this electoral district, which is a specific geographic area used for political representation. The term "constituency" typically denotes a voting district within a larger administrative region. Without more context, it's difficult to determine the exact nature of Sajith's involvement (e.g., as a politician, government official, or local leader). However, the creation of such a constituency would be a significant event in local politics, potentially affecting voter representation and political boundaries in the area.
+
+🟩
+
+◼️
+
+[Data](articles/1d5a8823.json)
+
+[Extended Data](ext_articles/1d5a8823.ext.json)
+
+---
+
+### Sajith captured the Kurunegala constituency
+
+*2024-09-22 12:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருநாகல்-தொகுதியை-கைப்பற்றினார்-சஜித்/175-344204) · `ta`
+
+Sajith wins Kurunegala seat in election
+
+🟩
+
+◼️
+
+[Data](articles/73eef947.json)
+
+[Extended Data](ext_articles/73eef947.ext.json)
+
+---
 
 ### Colombo - Sajith in the middle
 
@@ -96,6 +230,10 @@ Kagal constituency election results: [Candidate names] secured [number] votes, w
 
 *2024-09-22 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201386) · `si`
 
+Anura Kumara Dissanayake wins 52,380 votes in Kalawewa electoral area, Anuradhapura District.
+
+🟩
+
 The official voting outcome of the Kalawewa electoral power area in Anuradhapura District has been released and Anura Kumara Dissanayake has won 52,380 votes.
 
 ◼️
@@ -103,6 +241,32 @@ The official voting outcome of the Kalawewa electoral power area in Anuradhapura
 [Data](articles/3fd2d4a7.json)
 
 [Extended Data](ext_articles/3fd2d4a7.ext.json)
+
+---
+
+### Moneragala, Bibile, Kegalle, Kolonna, Kalawewa and Nivithigala results
+
+*2024-09-22 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102185/moneragala-bibile-kegalle-kolonna-kalawewa-and-nivithigala-results) · `en`
+
+The 2024 presidential election results of the Moneragala, Bibile, Kegalle, Kolonna, Kalawewa and Nivithigala polling divisions have been released.
+
+Opposition Leader Sajith Premadasa has received the highest number of votes in the Moneragala polling division in Moneragala District with a total of 42,111 votes.
+
+Meanwhile, Premadasa has topped the Bibile polling division in the Moneragala District with 29,952 votes.
+
+NPP’s Anura Kumara Dissanayake has secured victory in the Kegalle polling division in the Kegalle District with 28,994 votes.
+
+In the meantime, the results of the Nivithigala polling division in Ratnapura District have been released with Premadasa coming up top.
+
+NPP’s Dissanayake secured victory in the Kolonna polling division in the Ratnapura District with 55,788 votes.
+
+Dissanayake has also topped the Kalawewa polling division in the Anuradhapura District with 52,380 votes.
+
+◼️
+
+[Data](articles/bda9387a.json)
+
+[Extended Data](ext_articles/bda9387a.ext.json)
 
 ---
 
@@ -1853,171 +2017,5 @@ Ariyanethiran has also secured victory in the Uduppidy polling division in the J
 [Data](articles/2bd026e7.json)
 
 [Extended Data](ext_articles/2bd026e7.ext.json)
-
----
-
-### Manipay Jaya Sajith
-
-*2024-09-22 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201344) · `si`
-
-Sajith Premadasa wins Manipay electorate with 11,609 votes in Jaffna District election results.
-
-🟩
-
-The official voting outcome of the Manipayi Electorate in Jaffna District has been released and Sajith Premadasa has won 11,609 votes.
-
-◼️
-
-[Data](articles/8b82dcda.json)
-
-[Extended Data](ext_articles/8b82dcda.ext.json)
-
----
-
-### Udapidi Arianatriwala
-
-*2024-09-22 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201343) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Patianerta wins Udupidi electorate Jaffna District election with 8467 votes.
-
-🟩
-
-The official voting outcome of the Udupidi Electorate in Jaffna District has been released and Patianerta has won 8467 votes.
-
-◼️
-
-[Data](articles/0958422d.json)
-
-[Extended Data](ext_articles/0958422d.ext.json)
-
----
-
-### Engkk Wadukcoadai win to Arianatriya
-
-*2024-09-22 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201342) · `si`
-
-Ariyandran wins Jaffna District election with 11,170 votes.
-
-🟩
-
-The official voting outcome of the Jaffna District is issued. Ariyandran has won the area with 11,170 votes.
-
-◼️
-
-[Data](articles/e81d4a25.json)
-
-[Extended Data](ext_articles/e81d4a25.ext.json)
-
----
-
-### Politicians and monks leave the country
-
-*2024-09-22 09:46:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்வாதிகள்-பிக்குகள்-நாட்டை-விட்டு-வெளியேறுகின்றனர்/175-344167) · `ta`
-
-Several politicians and a Buddhist monk departed Sri Lanka via Bandaranaike International Airport recently. Notable departures included former Minister Susantha Punjilame, UNP General Secretary Palitha Range Bandara, and followers of Sadatissa Thera traveling to Hong Kong.
-
-🟩
-
-A senior official of the airport said that many politicians, including a Buddhist monk, have left the country through the Bandaranaike International Airport.
-
-Accordingly, former minister Susantha Punjilame left the country at around 2.25 pm yesterday (21).
-
-United National Party General Secretary Palitha Range Bandara traveled to Thailand at 11.15 pm yesterday. .
-
-Meanwhile, the worshipers of the Sadatissa Thera left for Hong Kong at around 12.50 am this morning.. Remble
-
-◼️
-
-[Data](articles/517eab2f.json)
-
-[Extended Data](ext_articles/517eab2f.ext.json)
-
----
-
-### Hambantota district
-
-*2024-09-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194420) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Hambantota district election results: Sajith Premadasa leads with 131,503 votes, followed by Ranil Wickremesinghe (33,217) and Namal Rajapaksa (26,707).
-
-🟩
-
-Sajith Premadasa received 131,503 votes, Ranil Wickremesinghe received 33,217 votes and Namal Rajapaksa received 26,707 votes.
-
-◼️
-
-[Data](articles/10eca6a5.json)
-
-[Extended Data](ext_articles/10eca6a5.ext.json)
-
----
-
-### Habaraduwa Jayath
-
-*2024-09-22 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201341) · `si`
-
-Anura Kumara Dissanayake wins 35,438 votes in Habaraduwa election.
-
-🟩
-
-The official voting outcome of the Habaraduwa electoral results in Galle District has been released and Anura Kumara Dissanayake has won 35,438 votes.
-
-◼️
-
-[Data](articles/440702a3.json)
-
-[Extended Data](ext_articles/440702a3.ext.json)
-
----
-
-### Jaffna District Kayts Election Results
-
-*2024-09-22 09:39:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்ட-ஊர்காவற்துறை-தேர்தல்-முடிவுகள்/175-344166) · `ta`
-
-Here's a summary of the Jaffna District Kayts Election Results in approximately 200 characters:
-
-
-
-"Jaffna District Kayts election results: [Insert specific details about winners, margins, turnout, etc.]"
-
-
-
-Note: As an AI language model, I don't have real-time access to current election data. The actual summary would depend on the specific results available when this prompt was generated.
-
-🟩
-
-◼️
-
-[Data](articles/e9b60723.json)
-
-[Extended Data](ext_articles/e9b60723.ext.json)
-
----
-
-### Sajith wins in Ududumbara, AKD clinches Mihintale and Galle
-
-*2024-09-22 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102173/sajith-wins-in-ududumbara-akd-clinches-mihintale-and-galle-) · `en`
-
-The 2024 presidential election results of the Mihintale, Ududumbara and Galle polling divisions have been released.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of votes in the Mihintale polling division in Anuradhapura District with a total of 26,034 votes.
-
-Meanwhile, Sajith Premadasa has topped the Ududumbara polling division in the Kandy District with 22,336 votes.
-
-Dissanayake has also secured victory in the Galle polling division in the Galle District with 34,839 votes.
-
-◼️
-
-[Data](articles/5cf71f8b.json)
-
-[Extended Data](ext_articles/5cf71f8b.ext.json)
 
 ---

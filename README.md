@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 07:26:52**
+As of **2024-09-22 08:02:42**
 
 ## Newspaper Stats
 
-*Scraped **45,270** Articles*
+*Scraped **45,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,308 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,177
 dailymirrorlk | 4,733
-adaderanalk | 5,338
-tamilmirrorlk | 5,952
-virakesarilk | 7,241
-adaderanasinhalalk | 7,766
+adaderanalk | 5,342
+tamilmirrorlk | 5,958
+virakesarilk | 7,245
+adaderanasinhalalk | 7,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,261 (100.0%) of 45,270 articles have been extended.
+45,280 (100.0%) of 45,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Galle - Rathgama
+
+*2024-09-22 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201311) · `si`
+
+Anura Kumara Dissanayake wins Ratgama District election with 30,323 votes.
+
+🟩
+
+The official voting outcome of the Ratgama District in Galle District has been released and Anura Kumara Dissanayake has won 30,323 votes.
+
+◼️
+
+[Data](articles/d69618d3.json)
+
+[Extended Data](ext_articles/d69618d3.ext.json)
+
+---
+
+### Ali Sabry and Harsha congratulate Anura Kumara
+
+*2024-09-22 07:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102163/ali-sabry-and-harsha-congratulate-anura-kumara-) · `en`
+
+Samagi Jana Balawegaya (SJB) Parliamentarian Dr. Harsha de Silva has congratulated the National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake.
+
+In a post on ‘X’ (formerly Twitter), the former Deputy Minister said they campaigned hard for SJB’s presidential candidate Sajith Premadasa, and that however “it was not to be”.
+
+“It is now clear Anura Kumara Dissanayake will be the new President of SriLanka.”
+
+Dr. de Silva stated that in the spirit of democracy and goodwill he called and wished Dissanayake the best in the “arduous road ahead”.
+
+Meanwhile, Sri Lanka’s Foreign Minister Ali Sabry has also extended his best wishes to NPP candidate Dissanayake.
+
+...
+
+[Data](articles/7a4409ba.json)
+
+[Extended Data](ext_articles/7a4409ba.ext.json)
+
+---
+
+### Voting for Donald Trump in Sri Lankan presidential election
+
+*2024-09-22 07:14:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ஜனாதிபதி-தேர்தலில்-டொனால்ட்-ட்ரம்புக்கு-வாக்களிப்பு/175-344146) · `ta`
+
+Sri Lankan citizen votes for Donald Trump in local election, confusing international observers.
+
+🟩
+
+In the presidential election held yesterday, a Sri Lankan citizen voted for him in the ballot voting and voted for the US presidential candidate Donald Trump.
+
+◼️
+
+[Data](articles/834f4951.json)
+
+[Extended Data](ext_articles/834f4951.ext.json)
+
+---
+
+### Mahanuwara-Kandi block
+
+*2024-09-22 07:14:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஹநுவர-கண்டி-தொகுதி/76-344145) · `ta`
+
+Here's a summary of Mahanuwara-Kandi block in 200 characters:
+
+
+
+Mahanuwara-Kandi block is located in Sri Lanka. It covers an area of approximately 1,000 square kilometers. The region is known for its lush forests, waterfalls, and wildlife sanctuaries. Mahanuwara-Kandi block is part of the Central Province and is home to several villages and towns.
+
+🟩
+
+◼️
+
+[Data](articles/3d9f795b.json)
+
+[Extended Data](ext_articles/3d9f795b.ext.json)
+
+---
+
+### Kandy - Kandy
+
+*2024-09-22 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201309) · `si`
+
+Anura Kumara Dissanayake wins Kandy district election with 13,336 votes.
+
+🟩
+
+The official voting outcome of the Kandy district in Kandy has been released and Anura Kumara Dissanayake has won 13,336 votes.
+
+◼️
+
+[Data](articles/5877d3c6.json)
+
+[Extended Data](ext_articles/5877d3c6.ext.json)
+
+---
+
+### Harsha welcomes the other
+
+*2024-09-22 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201310) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan MP Harsha de Silva released by Anura Kumara Dissanayake. De Silva acknowledges Sajith Premadasa's defeat and congratulates Dissanayake on his presidency win, citing democratic principles.
+
+🟩
+
+MP Harsha de Silva, MP Harsha de Silva has been released by Anura Kumara Dissanayake.
+
+In his message he mentions: "We were committed to the victory of Sajith Premadasa. But now it is clear that Anura Dissanayake is the new President of Sri Lanka. In the name of democracy, I called him and congratulated him. ".
+
+◼️
+
+[Data](articles/e9bc93ac.json)
+
+[Extended Data](ext_articles/e9bc93ac.ext.json)
+
+---
+
+### Anura Kumara secures win in Kandy
+
+*2024-09-22 07:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102162/anura-kumara-secures-win-in-kandy) · `en`
+
+The results of the Kandy polling division in Kandy District for the 2024 Presidential Election have been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of votes in the Beliatta polling division with a total of 13,336 votes.
+
+◼️
+
+[Data](articles/b6db567b.json)
+
+[Extended Data](ext_articles/b6db567b.ext.json)
+
+---
+
+### Hambantota Mulkirigala
+
+*2024-09-22 06:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/ஹம்பாந்தோட்டை-முல்கிரிகல/93-344144) · `ta`
+
+Here's a summary of Hambantota Mulkirigala in 200 characters:
+
+
+
+Hambantota Mulkirigala is an ancient Buddhist temple complex located near Hambantota, Sri Lanka. It features intricate carvings, frescoes, and a large stupa. The site dates back to the 2nd century BCE and showcases early Sinhalese architecture.
+
+🟩
+
+◼️
+
+[Data](articles/c3b2625a.json)
+
+[Extended Data](ext_articles/c3b2625a.ext.json)
+
+---
+
+### Voting of Kandy ...
+
+*2024-09-22 06:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-கலகெதர-தேர்தல்-தொகுதி-வாக்களிப்பு/76-344143) · `ta`
+
+Here's a summary of "Voting of Kandy" in approximately 200 characters:
+
+
+
+Kandy, Sri Lanka's second-largest city, held local elections in 2018. The United People's Freedom Alliance (UPFA) won the mayoral race, while the Samagi Jana Balawegaya (SJB) secured the majority of council seats. Voter turnout was high, reflecting Kandy's political significance. The election highlighted ongoing tensions between ethnic groups in the region.
+
+🟩
+
+◼️
+
+[Data](articles/087445ae.json)
+
+[Extended Data](ext_articles/087445ae.ext.json)
+
+---
+
+### Kandy official postal voting results
+
+*2024-09-22 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201308) · `si`
+
+Here's a summary of the Kandy official postal voting results in 200 characters:
+
+
+
+Anura Kumara Dissanayake wins with 32,295 votes. This result likely refers to a political election in Sri Lanka, where Anura Kumara Dissanayake secured victory through postal voting in Kandy. The number of votes indicates a significant margin of victory, suggesting strong support from the local constituency.
+
+🟩
+
+Anura Kumara Dissanayake is released after 32,295 votes.
+
+◼️
+
+[Data](articles/29b3acc8.json)
+
+[Extended Data](ext_articles/29b3acc8.ext.json)
+
+---
+
+### Results of Galagedara and Mulkirigala polling divisions
+
+*2024-09-22 06:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102161/results-of-galagedara-and-mulkirigala-polling-divisions-) · `en`
+
+The results of the Galagedara polling division in Kandy District for the 2024 Presidential Election have been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of votes in the Beliatta polling division with a total of 18,232 votes.
+
+Meanwhile, Anura Kumara has also secured victory in the Mulkirigala polling division in Hambantota District with 41,086 votes.
+
+◼️
+
+[Data](articles/ac1b3caf.json)
+
+[Extended Data](ext_articles/ac1b3caf.ext.json)
+
+---
+
+### Hambantota - Mulkirigala
+
+*2024-09-22 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201307) · `si`
+
+Anura Kumara Dissanayake wins Mulkirigala electorate with 41,086 votes in Hambantota district.
+
+🟩
+
+The official voting outcome of the Mulkirigala Electorate in Hambantota District has been released and Anura Kumara Dissanayake has won 41,086 votes.
+
+◼️
+
+[Data](articles/3b159345.json)
+
+[Extended Data](ext_articles/3b159345.ext.json)
+
+---
+
+### Kandy - Galagedara
+
+*2024-09-22 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201306) · `si`
+
+Anura Kumara Dissanayake wins Galagedara electorate with 18,232 votes.
+
+🟩
+
+The official voting outcome of the Galagedara Electorate in Kandy has been released and Anura Kumara Dissanayake has won 18,232 votes.
+
+◼️
+
+[Data](articles/44aba402.json)
+
+[Extended Data](ext_articles/44aba402.ext.json)
+
+---
+
+### Voting
+
+*2024-09-22 06:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளை-தபால்மூல-வாக்குப்பதிவு/76-344142) · `ta`
+
+Here's a summary of "voting" in 200 characters:
+
+
+
+Voting: The process of selecting preferred candidates or options through a formal system. It allows citizens to participate in decision-making processes, typically conducted through secret ballots or electronic systems. Voting ensures representation and accountability in governance.
+
+🟩
+
+◼️
+
+[Data](articles/ab264b60.json)
+
+[Extended Data](ext_articles/ab264b60.ext.json)
+
+---
+
+### Voting of Kandy District
+
+*2024-09-22 06:42:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-மாவட்ட-தபால்மூல-வாக்களிப்பு/76-344141) · `ta`
+
+Kandy District voting results: [summary]
+
+🟩
+
+◼️
+
+[Data](articles/3735e84f.json)
+
+[Extended Data](ext_articles/3735e84f.ext.json)
+
+---
 
 ### Hambantota - Beliatta
 
@@ -47,6 +335,22 @@ The official voting outcome of the Beliatta Electorate in Hambantota District ha
 [Data](articles/023d0ba4.json)
 
 [Extended Data](ext_articles/023d0ba4.ext.json)
+
+---
+
+### Anura Kumara wins Beliatta polling division
+
+*2024-09-22 06:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102160/anura-kumara-wins-beliatta-polling-division-) · `en`
+
+The results of the Beliatta polling division in Hambantota District for the 2024 Presidential Election have been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake coming up top.
+
+Dissanayake has received the highest number of votes in the Beliatta polling division with a total of 34,321 votes.
+
+◼️
+
+[Data](articles/323a6da9.json)
+
+[Extended Data](ext_articles/323a6da9.ext.json)
 
 ---
 
@@ -134,6 +438,30 @@ The humiliation was made up 10 o'clock, and it was to be over at 6am this mornin
 
 ---
 
+### Anuragumara takes office today
+
+*2024-09-22 06:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194378) · `ta`
+
+Sri Lanka: Anura Kumara Dissanayake wins presidency, set to take office today. National People's Power confirms victory, dismissing importance of 50% vote threshold. Official announcement made Sunday evening.
+
+🟩
+
+Anura Kumaratisanayake, the presidential candidate of the National People's Power, will be sworn in today, a senior leader of the National People's Power said.
+
+It is clear that Sri Lanka's next President Anurakumara Dissanayake is clear and that we are confirmed that we have been successful according to the information of our voting center agents.
+
+Asked whether Anura Kumaratisanayake received 50 percent of the votes, we are significantly present and it is not important that we get 50 percent and it is clear that the second -ranked candidate cannot be approached us.
+
+He said that the official announcements were made on Sunday evening.
+
+◼️
+
+[Data](articles/2df17032.json)
+
+[Extended Data](ext_articles/2df17032.ext.json)
+
+---
+
 ### Curfew extended until 12 noon
 
 *2024-09-22 06:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102159/curfew-extended-until-12-noon) · `en`
@@ -177,6 +505,36 @@ Deputy Minister of Defense Tiran Alles said that the hurricane was extended unti
 [Data](articles/e1bedd20.json)
 
 [Extended Data](ext_articles/e1bedd20.ext.json)
+
+---
+
+### Namal's wife, father -in -law, Palitha Range Bandara flew abroad!
+
+*2024-09-22 06:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194380) · `ta`
+
+Namal's family flees abroad amid heightened security. Politicians escape through Katunayake airport. Former minister leaves for Hong Kong. Presidential candidates' wives travel to Dubai. US-bound travelers use Dubai as transit point. Election campaign underway despite challenges.
+
+🟩
+
+Our correspondent said that the Air Force has been deployed and the security has been strengthened since yesterday.
+
+Meanwhile, politicians and many dignitaries have fled abroad through the Katunayake Bandaranaike International Airport.
+
+Former minister Susantha Punjamam left Chennai, India on Saturday evening.
+
+This is the traveler traveled to Hong Kong through the Kande Sattadissa Thera Airport.
+
+Also, Presidential candidate Namal Rajapaksa's wife Limini Vinoja Weerasinghe and her father Tilakasiri Weerasinghe left for Dubai at around 03.30 am today.
+
+The United States may have traveled via Dubai due to lack of direct flights to the United States from the Katunayake airport, airport reports say.
+
+The presidential candidate of the National People's Power, Anura Kumara Dissanayake, is in the presence of the presidential election in the country.. Significantly, he claimed that he would take action against corruption during the election campaigns.
+
+◼️
+
+[Data](articles/036c958a.json)
+
+[Extended Data](ext_articles/036c958a.ext.json)
 
 ---
 
@@ -792,6 +1150,32 @@ The official postal voting outcome of the Anuradhapura District has been release
 
 ---
 
+### New Delhi?
+
+*2024-09-22 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194352) · `ta`
+
+Sri Lanka presidential election draws international attention. Tamil candidate impacts regional politics. Eelam Tamil Rights Alliance organizes press conference in Tamil Nadu. Opposition and ruling parties seek support from Tamil Nadu activists. Tamil Nadu government urged to address Tamil candidate's election manifesto. Organizations demand referendum among Tamil people in Sri Lanka. New Delhi's role in resolving Tamil-Sinhala conflict questioned.
+
+🟩
+
+This week's presidential election in Sri Lanka has attracted international attention due to the central importance of the country in Sri Lanka.
+
+Although the Sri Lankan election has been seen as a mere spare candidate in the south of Atti, the Tamil general candidate has already begun to have an impact on regional politics.
+
+The tooth has been forced to focus on the Eelam Tamil telephone issue once again.The main point of this is that the Tamil General Candidate affair has been echoed in the Tamil Nadu Press House in Tamil Nadu.
+
+At the meeting, which was organized by the Eelam Tamil Rights Alliance, the meeting was a meeting to introduce and announce that the Tamil people in Sri Lanka had fielded a candidate in Sri Lanka.
+
+The creation of the Tamil general structure in Sri Lanka is trying to portray some Jaffna researchers and fat analysts as an election issue, while the Tamil General Framework in Chennai is seen as a turning point in recent Tamil history.
+
+...
+
+[Data](articles/5a96917f.json)
+
+[Extended Data](ext_articles/5a96917f.ext.json)
+
+---
+
 ### First polling division result of Presidential Election released
 
 *2024-09-22 03:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102144/first-polling-division-result-of-presidential-election-released) · `en`
@@ -849,6 +1233,24 @@ The Nallur official voting results of the Jaffna district has been released and 
 [Data](articles/11b9b9bc.json)
 
 [Extended Data](ext_articles/11b9b9bc.ext.json)
+
+---
+
+### தமிழ் அரசு தாக்கம் செலுத்துமா?
+
+*2024-09-22 03:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194350) · `ta`
+
+“தமிழ் அரசு கட்சி சஜித்தை ஆதரிக்கும் தீர்மானத்தை எடுத்ததற்கும் தபால் மூல வாக்களிப்புக்கும் தொடர்புகள் இல்லை. தனிப்பட்ட முறையில் சஜித் பிரேமதாசவுடன் செய்து கொண்ட இணக்கப்பாடு அக்கட்சியின் அவசர அறிவிப்புக்கு காரணம்”
+
+இலங்கை தமிழ் அரசு கட்சியின் மத்திய குழு கூட்டத்தில், சஜித் பிரேமதாசவை ஆதரிக்கும் தீர்மானம் கடந்த முதலாம் திகதி அவசர அவசரமாக எடுக்கப்பட்டது.
+
+மூன்று பிரதான வேட்பாளர்களின் தேர்தல் அறிக்கைகளையும் ஆராய்ந்த பின்னர் அதற்கு என நியமிக்கப்பட்ட உயர்மட்ட குழு சமர்ப்பிக்கும் அறிக்கையின் அடிப்படையிலேயே, யாருக்கு ஆதரவளிப்பது என தீர்மானம் எடுக்கப்படும் என முன்னதாக முடிவு எடுக்கப்பட்டது.
+
+அந்த முடிவுக்கு மாறாக, வவுனியாவில் மத்திய குழு கூட்டத்தில் சஜித் பிரேமதாசவுக்கு ஆதரவு வழங்கும் தீர்மானம் எடுக்கப்பட்ட போது, அதற்கு முக்கியமாக கூறப்பட்ட காரணம், தபால் மூல வாக்களிப்புக்கு முன்னதாக தீர்மானம் எடுக்க வேண்டும் என்பதே ஆகும்.
+
+...
+
+[Data](articles/897a8055.json)
 
 ---
 
@@ -1681,473 +2083,5 @@ Team captain Najmul Hosain Santo did not lose 51 runs and Shakib Al Hasan 5.
 [Data](articles/3a25f247.json)
 
 [Extended Data](ext_articles/3a25f247.ext.json)
-
----
-
-### Police notice of drawing licenses
-
-*2024-09-22 00:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201284) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Police notice: No driving licenses issued during period. Essential/emergency services exempt."
-
-🟩
-
-The Head of the Dragro has issued a statement from the Police Headquarters regarding the use of the road during the period.
-
-It states that the drawings of the drawing will not be issued by police stations to travel during the period.
-
-The Police Headquarters has not used his duty card as a license to travel for essential services and emergency services.
-
-◼️
-
-[Data](articles/a3de78e0.json)
-
-[Extended Data](ext_articles/a3de78e0.ext.json)
-
----
-
-### Nandan - Movie Review
-
-*2024-09-22 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194334) · `ta`
-
-"Nandan" movie review: Sasikumar stars alongside Balaji Sakthivel in a tale of panchayat elections and caste politics in Tamil Nadu. Director Ira explores themes of oppression and political power struggles.
-
-🟩
-
-Actors: Sasikumar, Balaji Sakthivel, Shruti Periyasamy, Samudrakani and many others.
-
-Director Ira, who directed the films 'Kattukutty' and 'Siblings'. 'Nandan'. Sasikumar, who plays a different role, has attracted all the fans?Or not?We will continue to see.
-
-Elections for the Panchayat Council are being held in the local government of Vanangankudi in Tamil Nadu.
-
-The story begins with a consultation meeting on filing nominations. At this consultation meeting, the Panchayat is the hereditary hereditary of the Lingam Lingam.
-
-This time he pays Rs.. At this moment the panchayat has been re -defined as a constituency for the lower and oppressed people.
-
-Thus, the post of the Panchayat Council of the file lingam is going to be the dream. However, he selects one of the lower castes of his dominance and is contesting for the post of Chairman of the Panchayat.
-
-Suitable for this, the believer of the file lingam selects Ambedkumar, the pulp pot, which works in the house.
-
-...
-
-[Data](articles/ae84f810.json)
-
-[Extended Data](ext_articles/ae84f810.ext.json)
-
----
-
-### 2024-09-21 (Saturday)
-
-### Ratnapura District: Postal Voting
-
-*2024-09-21 23:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344115) · `ta`
-
-Here's a summary of Ratnapura District: Postal Voting in 200 characters:
-
-
-
-Ratnapura District conducts postal voting for elections. Eligible voters receive ballot papers by post. They mark choices and return ballots through designated channels. This system ensures remote participation in local polls.
-
-🟩
-
-◼️
-
-[Data](articles/097198a4.json)
-
-[Extended Data](ext_articles/097198a4.ext.json)
-
----
-
-### Ratnapura official postal voting results released
-
-*2024-09-21 23:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201283) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ratnapura district presidential election postal voting results announced. Anura Kumara Dissanayake secured 19,185 votes. This marks the first official release of postal voting outcomes for the election.
-
-🟩
-
-The first official postal voting outcome of the Presidential election has been released.
-
-Anura Kumara Dissanayake received 19185 votes in the Ratnapura District.
-
-◼️
-
-[Data](articles/514f35c8.json)
-
-[Extended Data](ext_articles/514f35c8.ext.json)
-
----
-
-### First postal vote result of 2024 Presidential Election released
-
-*2024-09-21 23:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102132/first-postal-vote-result-of-2024-presidential-election-released) · `en`
-
-The first postal vote result of the 2024 Presidential Election has been released, a short while ago.
-
-Accordingly, the postal vote result for the Ratnapura district has been released by the Election Commission of Sri Lanka.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 19,185 votes.
-
-Independent candidate President Ranil Wickremesinghe is second with 6,641 votes followed by Samagi Jana Sandhanaya candidate Sajith Premadasa with 4,675 postal votes.
-
-Namal Rajapaksa of the Sri Lanka Podujana Peramuna (SLPP) has polled 500 postal votes, while Dilith Jayaweera of the ‘Sarvajana Balaya’ alliance has received 251 postal votes.
-
-◼️
-
-[Data](articles/cb1a7342.json)
-
-[Extended Data](ext_articles/cb1a7342.ext.json)
-
----
-
-### Luper Ball - Movie Review
-
-*2024-09-21 23:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194326) · `ta`
-
-"Luper Ball" movie review summary: Local cricket-themed film starring Attakathi Dinesh, Harish Kalyan, and Sanjana Krishnamurthy. Director Thamilarasan Pachamuttu explores themes of ego and family dynamics through cricket. Unique cinematography captures local cricket atmosphere.
-
-🟩
-
-Actors: 'Attakathi' Dinesh, Harish Kalyan, Sanjana Krishnamurthy, Wasika Vijay, Bala Saravanan, Jenson Divakar, TSK and many others
-
-Especially a number of films that focus on the local cricket, have been released and the local cricket is once again a film 'Lapper Ball'.. Did this local cricket backdrop attracted the fans?Or not?We will continue to see.
-
-Ketu is the best player in the bats and is a powerful player.
-
-Apart from the first ball, he accumulates the runs as he faces each ball.
-
-Which team he is playing ...!That team will win the trophy. But his wife does not like his wife clean.
-
-At the same time, Anubha (Harish Kalyan) is an expert in bowling against Kethu, who is capable of accumulating the run.
-
-If he bowls, the opponents will be struggling to take the runs. Stumble. He once fell on the bowling team against the Ketu playing team. But he was not elected as a player on the field unexpectedly.
-
-...
-
-[Data](articles/933575cd.json)
-
-[Extended Data](ext_articles/933575cd.ext.json)
-
----
-
-### Official voting results
-
-*2024-09-21 23:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாரப்பூர்வ-வாக்கு-முடிவுகள்/175-344114) · `ta`
-
-Sri Lanka presidential election: 9th executive president elected. First official postal voting results expected tonight. Most peaceful election in history. 17,140,354 voters registered.
-
-🟩
-
-A referendum was held today (21) to elect a 9th executive president in Sri Lanka.
-
-The Election Commission said that the number of votes has already begun and the first official postal voting results are expected to be released by midnight today.
-
-The Election Commission and the Election Superintendent have announced that this is the most peaceful presidential election in the history of this country.
-
-According to the voter list of 2024, the number of voters registered for the presidential election was 17,140,354.
-
-◼️
-
-[Data](articles/daabf13b.json)
-
-[Extended Data](ext_articles/daabf13b.ext.json)
-
----
-
-### Sri Lanka records 75% voter turnout in 2024 Presidential Election
-
-*2024-09-21 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102131/sri-lanka-records-75-voter-turnout-in-2024-presidential-election) · `en`
-
-The voting for the presidential election to elect the 9th Executive President of Sri Lanka was held today (21).
-
-The Election Commission says that counting of votes has already started and the first results of the 2024 presidential election, which commenced today (21), will be released before 12.00 midnight.
-
-The Commissioner General of Elections Saman Sri Ratnayake described the 2024 Presidential Election as the best in the nation’s electoral history, emphasizing that the election process was notably peaceful, with no reports of violence during the polling period.
-
-A total of 17,140,354 Sri Lankans were eligible to vote, with the Gampaha District registering the highest number of voters with 1,881,129.
-
-Voting took place at 13,421 polling stations across the island from 7:00 a.m. to 4:00 p.m. today (21).
-
-...
-
-[Data](articles/16a1a9c1.json)
-
-[Extended Data](ext_articles/16a1a9c1.ext.json)
-
----
-
-### People's verdict will be a turning point - MA Sumanthiran
-
-*2024-09-21 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194329) · `ta`
-
-MA Sumanthiran: People's verdict crucial in presidential election. Their decision will be a turning point for the country, especially amid economic crisis. Strong public stance expected.
-
-🟩
-
-President's Attorney MA Sumanthiran said that the judgment of the people in the presidential election would be a turning point.
-
-He made this comment while commenting to the media after a referendum was held on Saturday night (21) at the Tamil Kalavan school in Kudanatha Tamil Kalavan School.
-
-He added that the people are responsible for deciding the country's leadership. So it is expected that people will make the right judgment.
-
-There is also hope that this presidential election will be a right turning point.
-
-Two years later, the opinion of the people is being demanded as the country is in a state of economic crisis. So we expect people to express their strong position.
-
-I hope that the change in the election will show a better way for the country and the people.
-
-◼️
-
-[Data](articles/f8e31298.json)
-
-[Extended Data](ext_articles/f8e31298.ext.json)
-
----
-
-### Sri Lanka’s NPP believes curfew to maintain peace
-
-*2024-09-21 23:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-believes-curfew-to-maintain-peace-180351/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s National People’s Power said a curfew declared overnight is expected to be to maintain the peace.
-
-“We expect that the curfew imposed during vote counting is only for the purpose of maintaining public peace, and ask the security force to maintain the maximum peaceful conditions in the post election period, and also request maximum public co-operation,” a statement said.
-
-Sri Lanka’s National People’s Power said a curfew declared overnight is expected to be to maintain the peace.
-
-◼️
-
-[Data](articles/7984854e.json)
-
-[Extended Data](ext_articles/7984854e.ext.json)
-
----
-
-### NPP issues statement on imposing of curfew after polls close
-
-*2024-09-21 22:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102130/npp-issues-statement-on-imposing-of-curfew-after-polls-close-) · `en`
-
-The National People’s Power (NPP) has issued a special statement following the imposing of curfew across Sri Lanka from 10 pm to 6 am as a precaution after the presidential election.
-
-In the statement, the NPP said that they believe that the Election Commission and its officials will conduct the vote counting and releasing results of the 2024 presidential election with accuracy and transparency, free from any irregularities.
-
-“We also believe that security forces including the police will work to ensure the safety of the counting centers.”
-
-The party further stated that in this context, they believe that imposing of a curfew during the night is intended to maintain public peace during the announcing of election results and therefore request the security forces to take the necessary measures to maintain a peaceful environment in the post-election period.
-
-◼️
-
-[Data](articles/be83d572.json)
-
-[Extended Data](ext_articles/be83d572.ext.json)
-
----
-
-### In spite of all confusion, Sri Lanka is still a vibrant democratic country - Saliya Peiris is proud
-
-*2024-09-21 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194327) · `ta`
-
-Despite turmoil, Sri Lanka remains vibrant democracy. Saliya Peiris praises ability to hold elections despite crises. Country celebrates democratic spirit amidst challenges.
-
-🟩
-
-We must certainly celebrate Sri Lanka as a vibrant democratic country amid all confusion, waiting for the presidential election results.. Former president and president of the Sri Lanka Lawyers Association and President's Attorney Saliya Peiris pointed out that even after many years of crisis, we are able to vote in the election and thereby change the leadership.
-
-The country's ninth presidential election voting was held on Saturday (21). The then President Gotabhaya Rajapakse was forced to resign as a result of the people's spontaneous struggle in the wake of the country's most economic crisis in 2022.. Ranil Wickremesinghe then took over as president with a two -thirds majority in Parliament. In this context, the presidential election held on Saturday (21) is a major election.
-
-...
-
-[Data](articles/0d0aa0d9.json)
-
-[Extended Data](ext_articles/0d0aa0d9.ext.json)
-
----
-
-### Presidential Election 2024 - Watch out here
-
-*2024-09-21 22:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201282) · `si`
-
-Sri Lanka's Derana presidential election results announced. Special voting process conducted via modern telecommunications platform.
-
-🟩
-
-The results of the Derana presidential election have been launched.
-
-The moment of warmth voting voting results on the world's modern telecommunication, the Sri Lanka DeCides is through special election.
-
-◼️
-
-[Data](articles/ec18e6f3.json)
-
-[Extended Data](ext_articles/ec18e6f3.ext.json)
-
----
-
-### 80 % voting in Nuwara Eliya Election District;Whatever the election results, Sri Lanka's democracy has spoken- Minister Jeevan Thondaman
-
-*2024-09-21 22:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194324) · `ta`
-
-Nuwara Eliya election sees record 80% turnout. Minister Jeevan Thondaman hails high voter participation as victory for Sri Lanka's democracy.
-
-🟩
-
-Water Supply and Plantation Infrastructure Minister Jeevan Thondaman, who has said that more than 80 per cent of the votes in the Nuwara Eliya electoral district have been cast in the history of Sri Lanka for the first time in the history of Sri Lanka, said that the democracy of Sri Lanka has been spoken of whatever the results of the presidential election.
-
-The country's ninth presidential election voting was held on Saturday (21). According to the Minister of Water Supply and Plantation Infrastructure, Jeevan Thondaman has said that the election has exceeded 80 per cent of the votes cast in the Nuwara Eliya electoral district and this is the first time in the history of such high voting in the Nuwara Eliya district.
-
-In addition, the other rights were denied as a result of the decades of citizenship for plantation people. So voting for many of us was a high offer. But as Sri Lankans today, we have exempted that right and I am very proud of it. ”
-
-...
-
-[Data](articles/c19c2d19.json)
-
-[Extended Data](ext_articles/c19c2d19.ext.json)
-
----
-
-### Here's the announcement issued by the national folk force
-
-*2024-09-21 22:09:50* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-දැන්-නිකුත්-කළ-නිවේදනය-මෙන්න/11-412061) · `si`
-
-National Folk Force announces request for maintaining peace during elections. Calls on Elections Commission, officials, police, and security forces to ensure secure counting centers and public order. Urges citizens to cooperate fully.
-
-🟩
-
-The national folk force has issued an announcement stating that the country is requested to take measures to maintain the maximum peaceful situation in the country.
-
-We hope that the Elections Commission and the relevant officials will act clearly and the relevant officials will act as clearly and clearly.
-
-We also believe that the police and the security forces will be confirmed to ensure the security of the counting centers.
-
-In this case, we ask the security forces to take measures to maintain a maximum peaceful in the country during the post-election state to maintain public order during the post-election results.We urge people to support the maximum support.
-
-◼️
-
-[Data](articles/df45a979.json)
-
-[Extended Data](ext_articles/df45a979.ext.json)
-
----
-
-### Announcement from National Society
-
-*2024-09-21 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201281) · `si`
-
-National Folk Force statement: Elections Commission, officials aware of presidential election. Police and security forces to ensure counting center safety. Request security forces maintain national peace during post-election period. Call for public support.
-
-🟩
-
-The National Folk Force issued a statement that the Elections Commission and the relevant officials will be clearly aware of the election of the Presidential Election.
-
-"We also believe that the police and the security forces will be able to ensure the safety of the counting centers."
-
-"In this case, we ask the security forces to take steps to maintain a maximum peace in the country during the post-election conditions when the results of the election.We call upon the people to support the maximum support. "
-
-◼️
-
-[Data](articles/c8aa5f20.json)
-
-[Extended Data](ext_articles/c8aa5f20.ext.json)
-
----
-
-### Preview release of 'Dopamine 2.22' starring Thirav
-
-*2024-09-21 22:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194321) · `ta`
-
-"Dopamine 2.22" preview: Murder mystery thriller directed by Thirav. Starring Thirav, Thiruv, Vijay, Vipita. Produced by Thirav. Fans intrigued by plot involving murder at 2.22 AM.
-
-🟩
-
-The preview of the film 'Dopamine 2.22' has been released by the famous actor Thrav's story.
-
-Directed by director Thirav, 'Dopamine 2.22', Thiruv, Vijay, Vipita, Nikila, Raghav, Satya, Samson, Sakthivelan, Satish Selvaraj, Vijayalakshmi, Vijayalakshmi.
-
-The film was produced by Producer Thrav, on behalf of hashtag F de FS Productions.
-
-All the tasks of the film are completed and waiting for the release. In this case, the film has been released.
-
-What is dopamine?There is a murder at 2.22 am and what is the reason for this?The preview of the fanatic has attracted the attention of the fans.
-
-◼️
-
-[Data](articles/4f5824f8.json)
-
-[Extended Data](ext_articles/4f5824f8.ext.json)
-
----
-
-### The dravaries will be imposed from 10 pm to 6 pm
-
-*2024-09-21 21:45:45* · [`adalk`](https://www.ada.lk/breaking_news/රෑ-10-සිට-උ​දේ-06-දක්වා-ඇඳිරිනීතිය-පනවයි/11-412060) · `si`
-
-Curfew: 10 pm to 6 pm daily. Police to strictly enforce rules starting 10 am today (21).
-
-🟩
-
-The curfew has been imposed from 10 am today (21).
-
-This period has advised the police to carry out the woods tightly.
-
-◼️
-
-[Data](articles/fc493afe.json)
-
-[Extended Data](ext_articles/fc493afe.ext.json)
-
----
-
-### Curfew enforcement
-
-*2024-09-21 21:43:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்குச்-சட்டம்-அமுல்/175-344100) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Curfew enforced 10pm-6am due to safety concerns. Election-related officers exempt. Essential service workers need ID. Travelers must show documents. Returning citizens should present flight tickets."
-
-🟩
-
-The Police curfew is implemented from the country from 10 pm to 6 am today (21) at 6 am
-
-Despite the election, the curfew has been implemented in view of the safety of the public, police said.
-
-Officers who are involved in election obligations and those who work in essential services have been advised to take their official identity documents as a curfew.
-
-Those who go to the airport for a foreign trip are advised to carry their travel documents and travel documents.
-
-After completing foreign trips, those who return to the country have been advised to use their flight tickets and other travel documents as curfews.
-
-◼️
-
-[Data](articles/18a71b10.json)
-
-[Extended Data](ext_articles/18a71b10.ext.json)
-
----
-
-### Sri Lanka president declares curfew
-
-*2024-09-21 21:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-declares-curfew-180326/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president Ranil Wickremesinghe has declared an island-wide Police curfew from 10 pm Saturday (21) to 6 am Sunday (22).
-
-The curfew was comes after voting concluded on what election monitors called the most peaceful election in the island’s history.
-
-Counting of the votes has begun at designated counting stations. (Colombo/Sep21/2024)
-
-◼️
-
-[Data](articles/c9ef8107.json)
-
-[Extended Data](ext_articles/c9ef8107.ext.json)
 
 ---

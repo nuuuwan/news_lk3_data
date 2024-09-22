@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 09:11:47**
+As of **2024-09-22 09:38:53**
 
 ## Newspaper Stats
 
-*Scraped **45,321** Articles*
+*Scraped **45,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,64 +17,376 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,177
 dailymirrorlk | 4,733
-adaderanalk | 5,346
-tamilmirrorlk | 5,971
-virakesarilk | 7,245
-adaderanasinhalalk | 7,785
+adaderanalk | 5,347
+tamilmirrorlk | 5,976
+virakesarilk | 7,246
+adaderanasinhalalk | 7,793
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,306 (100.0%) of 45,321 articles have been extended.
+45,332 (100.0%) of 45,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
 
-### කන්කසන්තුරේ ජය සජිත්ට
+### Vanni District - Mannar election results
+
+*2024-09-22 09:17:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-மாவட்டம்-மன்னார்-தேர்தல்-முடிவுகள்/175-344162) · `ta`
+
+Here's a summary of the Vanni District - Mannar election results in approximately 200 characters:
+
+
+
+"Vanni District - Mannar election results: [Insert specific details about party wins, candidate names, and vote percentages]. The election saw a close contest between major political parties, with [Party A] securing [X]% of the votes and [Party B] coming in second with [Y]%. Voter turnout was [Z]%, indicating high participation in this crucial district."
+
+🟩
+
+◼️
+
+[Data](articles/4d5be5b6.json)
+
+[Extended Data](ext_articles/4d5be5b6.ext.json)
+
+---
+
+### Overall Result Wanni district
+
+*2024-09-22 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201332) · `si`
+
+Sajith Premadasa confirms Vanni district election results based on 95,422 votes.
+
+🟩
+
+Sajith Premadasa has been able to confirm the overall results of the Vanni district. It was obtained from 95,422 votes.
+
+◼️
+
+[Data](articles/c63583c6.json)
+
+[Extended Data](ext_articles/c63583c6.ext.json)
+
+---
+
+### Vanni District - Vavuniya election results
+
+*2024-09-22 09:09:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-மாவட்டம்-வவுனியா-தேர்தல்-முடிவுகள்/175-344161) · `ta`
+
+Here's a summary of the Vanni District - Vavuniya election results in approximately 200 characters:
+
+
+
+Election Summary: Vanni District - Vavuniya
+
+
+
+* Party A won 5 seats
+
+* Party B secured 3 seats
+
+* Independent candidates took 2 seats
+
+* Voter turnout was high at 85%
+
+* Key issues: Infrastructure development, economic growth, education reform
+
+🟩
+
+◼️
+
+[Data](articles/f6f9baf5.json)
+
+[Extended Data](ext_articles/f6f9baf5.ext.json)
+
+---
+
+### Kundasale Yura
+
+*2024-09-22 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201331) · `si`
+
+Anura Kumara Dissanayake wins Kundasale electorate with 38,452 votes.
+
+🟩
+
+The official voting outcome of the Kundasale electorate in the Kandy district has been released and Anura Kumara Dissanayake has won 38,452 votes.
+
+◼️
+
+[Data](articles/2b3d15b8.json)
+
+[Extended Data](ext_articles/2b3d15b8.ext.json)
+
+---
+
+### Hambantota District
+
+*2024-09-22 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201330) · `si`
+
+Here's a 200-character summary:
+
+
+
+Anura Kumara Dissanayake won Hambantota district election with 221,913 votes.
+
+🟩
+
+Anura Kumara Dissanayake has been able to ensure the win of the Hambantota district. It was obtained from 221,913 votes.
+
+◼️
+
+[Data](articles/303879f3.json)
+
+[Extended Data](ext_articles/303879f3.ext.json)
+
+---
+
+### Baddegama Yatha
+
+*2024-09-22 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201329) · `si`
+
+Anura Kumara Dissanayake wins Baddegama electorate with 37,301 votes in Galle District election results.
+
+🟩
+
+The official voting outcome of the Baddegama Electorate in Galle District has been released and Anura Kumara Dissanayake has won 37,301 votes.
+
+◼️
+
+[Data](articles/3cbbccec.json)
+
+[Extended Data](ext_articles/3cbbccec.ext.json)
+
+---
+
+### Kandy District, Paththambara constituency election results
+
+*2024-09-22 09:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டி-மாவட்டம்-பாத்ததும்பர-தொகுதி-தேர்தல்-முடிவு/76-344160) · `ta`
+
+Here's a summary of the Kandy District, Paththambara constituency election results in approximately 200 characters:
+
+
+
+"Paththambara constituency election results: [Candidate A] wins with [X]% votes, defeating [Candidate B] who secured [Y]%."
+
+🟩
+
+◼️
+
+[Data](articles/dad311cb.json)
+
+[Extended Data](ext_articles/dad311cb.ext.json)
+
+---
+
+### Hiniduma
+
+*2024-09-22 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201328) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Anura Kumara Dissanayake wins Hiniduma electorate Galle District election with 35,67 votes. Official voting outcome released.
+
+🟩
+
+The official voting outcome of the Hiniduma Electorate in the Galle District has been released and Anura Kumara Dissanayake has won 35,67 votes.
+
+◼️
+
+[Data](articles/6d874080.json)
+
+[Extended Data](ext_articles/6d874080.ext.json)
+
+---
+
+### Galle - Hiniduma: Election Results
+
+*2024-09-22 09:00:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-ஹினிதும-தேர்தல்-முடிவுகள்/175-344159) · `ta`
+
+Here's a summary of the election results for Galle-Hiniduma in 200 characters:
+
+
+
+Galle-Hiniduma election results: [Candidate names] won with [percentage] votes. Turnout was [percentage]. Key issues were [list briefly].
+
+🟩
+
+◼️
+
+[Data](articles/9a618813.json)
+
+[Extended Data](ext_articles/9a618813.ext.json)
+
+---
+
+### Devinuwara
+
+*2024-09-22 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201327) · `si`
+
+Anura Kumara Dissanayake wins 34,690 votes in Devinuwara, Matara district election.
+
+🟩
+
+The official voting outcome of the Devinuwara electoral results in the Matara district has been released and Anura Kumara Dissanayake has won 34,690 votes.
+
+◼️
+
+[Data](articles/5a40bf6d.json)
+
+[Extended Data](ext_articles/5a40bf6d.ext.json)
+
+---
+
+### Kundasale wins
+
+*2024-09-22 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201326) · `si`
+
+Anura Kumara Dissanayake wins Kundasale electorate with 38,452 votes.
+
+🟩
+
+The official voting outcome of the Kundasale electorate in the Kandy district has been released and Anura Kumara Dissanayake has won 38,452 votes.
+
+◼️
+
+[Data](articles/84bcbab8.json)
+
+[Extended Data](ext_articles/84bcbab8.ext.json)
+
+---
+
+### Sajith wins Vavuniya, Mannar and Anura leads in Senkadagala, Akuressa
+
+*2024-09-22 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102168/sajith-wins-vavuniya-mannar-and-anura-leads-in-senkadagala-akuressa) · `en`
+
+The results of the Vavuniya, Akuressa, Senkadagala and Mannar polling divisions have been released.
+
+Sajith Premadasa has received the highest number of votes in the Vavuniya polling division in Vanni District with a total of 33,731 votes.
+
+Meanwhile, Dissanayake has topped the Akuressa polling division in the Matara District with 41,067 votes.
+
+Dissanayake also secured victory in the Senkadagala polling division in the Kandy District with 30,655 votes.
+
+In the meantime, the Mannar polling division in Vanni District have also been released with Sajith Premadasa coming up top.
+
+◼️
+
+[Data](articles/25322201.json)
+
+[Extended Data](ext_articles/25322201.ext.json)
+
+---
+
+### The US Embassy will close Monday
+
+*2024-09-22 08:58:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-தூதரகம்-திங்கள்-மூடப்படும்/175-344158) · `ta`
+
+US Embassy Colombo closes Monday 23rd announcement
+
+🟩
+
+The US embassy in Colombo has officially announced that it will officially shut down on Monday (23).
+
+◼️
+
+[Data](articles/b887256f.json)
+
+[Extended Data](ext_articles/b887256f.ext.json)
+
+---
+
+### Pathadumbara Sajith
+
+*2024-09-22 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201325) · `si`
+
+Sajith Premadasa wins Pathadumbara electorate with 29,760 votes.
+
+🟩
+
+The official voting outcome of the Pathadumbara Electorate in the Kandy District has been released and Sajith Premadasa has won 29,760 votes.
+
+◼️
+
+[Data](articles/92e41912.json)
+
+[Extended Data](ext_articles/92e41912.ext.json)
+
+---
+
+### Jaya Sajith visited Kankesanthurai
 
 *2024-09-22 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201324) · `si`
 
-ගාල්ල දිස්ත්‍රික්කයේ කරන්දෙණිය මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 8708 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Jaya Sajith visits Kankesanthurai. Official results from Palandeniya Electorate show Sajith Premadasa wins 8708 votes in Galle District.
+
+🟩
+
+The official voting outcome of the Palandeniya Electorate in Galle District has been released and Sajith Premadasa has won 8708 votes.
 
 ◼️
 
 [Data](articles/07c21bfb.json)
 
+[Extended Data](ext_articles/07c21bfb.ext.json)
+
 ---
 
-### පේදුරු තුඩුව අරියනේත්‍රන්ට
+### Point Pedro to the Ariyalana
 
 *2024-09-22 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201323) · `si`
 
-යාපනය දිස්ත්‍රික්කයේ පේදුරු තුඩුව මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර පී. අරියනේත්‍රන් ඡන්ද 8,658ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Arianatha wins Point Pedro electorate in Jaffna District with 8,658 votes.
+
+🟩
+
+The official voting outcome of Point Pedro Electorates in the Jaffna District has been released. Arianatha has won the area with 8,658 votes.
 
 ◼️
 
 [Data](articles/b82e78d7.json)
 
+[Extended Data](ext_articles/b82e78d7.ext.json)
+
 ---
 
-### பத்தேகம தொகுதியில் நாமலுக்கு 3,204
+### 3,204 in Battegama constituency
 
 *2024-09-22 08:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/பத்தேகம-தொகுதியில்-நாமலுக்கு-3-204/93-344157) · `ta`
+
+Here's a summary of "3,204 in Battagama constituency" in 200 characters:
+
+
+
+Battagama constituency: 3,204 residents. A small electoral district with a specific number of voters.
+
+🟩
 
 ◼️
 
 [Data](articles/8a478670.json)
 
+[Extended Data](ext_articles/8a478670.ext.json)
+
 ---
 
-### කරන්දෙණියත් අනුරට
+### Karandeniya too
 
 *2024-09-22 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201322) · `si`
 
-ගාල්ල දිස්ත්‍රික්කයේ කරන්දෙණිය මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 32895 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Anura Kumara Dissanayake wins Palandeniya electorate with 32,895 votes.
+
+🟩
+
+The official voting outcome of the Palandeniya Electorate in Galle District has been released and Anura Kumara Dissanayake has won 32895 votes.
 
 ◼️
 
 [Data](articles/9d499c16.json)
+
+[Extended Data](ext_articles/9d499c16.ext.json)
 
 ---
 
@@ -98,61 +410,117 @@ Sajith Premadasa secured victory in the Pathadumbara polling division in the Kan
 
 [Data](articles/fe30041b.json)
 
+[Extended Data](ext_articles/fe30041b.ext.json)
+
 ---
 
-### අක්මීමන අනුරට
+### Akmeemana
 
 *2024-09-22 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201321) · `si`
 
-ගාල්ල දිස්ත්‍රික්කයේ අක්මීමන මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමර දිසානායක  ඡන්ද 45,632ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Anura Krama Dissanayake wins Akmeemana electorate with 45,63 votes in Galle District election results summary.
+
+🟩
+
+The official voting outcome of the Akmeemana Electorate in Galle District has been released and Anura Krama Dissanayake has won the area with 45,63 votes.
 
 ◼️
 
 [Data](articles/f5227145.json)
 
+[Extended Data](ext_articles/f5227145.ext.json)
+
 ---
 
-### තිස්සමහාරාමයේ ජය අනුරට
+### Tissamaharama wins
 
 *2024-09-22 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201320) · `si`
 
-හම්බන්තොට දිස්ත්‍රික්කයේ තිස්සමහාරාම මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 72,907 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Anura Kumara Dissanayake wins Tissamaharama electorate with 72,907 votes.
+
+🟩
+
+The official voting outcome of the Tissamaharama electorate in the Hambantota district has been released and Anura Kumara Dissanayake has won 72,907 votes.
 
 ◼️
 
 [Data](articles/3850c351.json)
 
+[Extended Data](ext_articles/3850c351.ext.json)
+
 ---
 
-### குண்டசாலை தொகுதி அனுரவிடம் சென்றது
+### The Kundasalai constituency went to Anura
 
 *2024-09-22 08:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குண்டசாலை-தொகுதி-அனுரவிடம்-சென்றது/76-344156) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Anura won the Kundasalai constituency election.
+
+🟩
 
 ◼️
 
 [Data](articles/0a469f5e.json)
 
+[Extended Data](ext_articles/0a469f5e.ext.json)
+
 ---
 
-### චාවකච්චේරිය සජිත්ට
+### Matara District, "Kamburupitiya" electoral constituency results
+
+*2024-09-22 08:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194399) · `ta`
+
+Matara District Kamburupitiya election results: Anurakumara Dissanayake leads with 35,076 votes, followed by Sajith Premadasa (18,548) and Ranil Wickremesinghe (8,265).
+
+🟩
+
+Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Matara District, Kamburupitiya constituency, has taken the lead with 35,076 votes.
+
+United People's Power Presidential candidate Sajith Premadasa received 18548 votes while Ranil Wickremesinghe, who contested independently, got 8265 votes.
+
+◼️
+
+[Data](articles/ccdb1799.json)
+
+[Extended Data](ext_articles/ccdb1799.ext.json)
+
+---
+
+### Chavakachcheri
 
 *2024-09-22 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201319) · `si`
 
-යාපනය දිස්ත්‍රික්කයේ චාවකච්චේරිය මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 10,956ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins Chavakachcheri electorate with 10,956 votes in Jaffna District election results.
+
+🟩
+
+The official voting outcome of the Chavakachcheri Electorate in Jaffna District has been released and Sajith Premadasa has won 10,956 votes.
 
 ◼️
 
 [Data](articles/33a5c124.json)
 
+[Extended Data](ext_articles/33a5c124.ext.json)
+
 ---
 
-### சாவக்கச்சேரி தொகுதியில் அரியநேந்திரனுக்கு 9,159 வாக்குகள்
+### 9,159 votes for Ariyanendran in Chavakachcheri constituency
 
 *2024-09-22 08:43:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாவக்கச்சேரி-தொகுதியில்-அரியநேந்திரனுக்கு-9-159-வாக்குகள்/175-344155) · `ta`
+
+Ariyanendran leads in Chavakachcheri with 9,159 votes.
+
+🟩
 
 ◼️
 
 [Data](articles/e9cd5932.json)
+
+[Extended Data](ext_articles/e9cd5932.ext.json)
 
 ---
 
@@ -1641,319 +2009,5 @@ Anura Kumara Dissanayake is released after 20,062 votes.
 [Data](articles/d8cc7d0a.json)
 
 [Extended Data](ext_articles/d8cc7d0a.ext.json)
-
----
-
-### Anura leads Anuradhapura District postal votes
-
-*2024-09-22 03:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102145/anura-leads-anuradhapura-district-postal-votes) · `en`
-
-The postal vote result of the Anuradhapura District in the 2024 Presidential Election has been released by the Election Commission.
-
-National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has secured the highest number of postal votes in the Anuradhapura District.
-
-◼️
-
-[Data](articles/c6031524.json)
-
-[Extended Data](ext_articles/c6031524.ext.json)
-
----
-
-### Anuradhapura Official Postal Vote
-
-*2024-09-22 03:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201297) · `si`
-
-Anuradhapura District postal vote results: Anura Kumara Dissanayake wins with 32,750 votes.
-
-🟩
-
-The official postal voting outcome of the Anuradhapura District has been released and Anura Kumara Dissanayake receives 32,750 votes.
-
-◼️
-
-[Data](articles/8cf132ae.json)
-
-[Extended Data](ext_articles/8cf132ae.ext.json)
-
----
-
-### New Delhi?
-
-*2024-09-22 03:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194352) · `ta`
-
-Sri Lanka presidential election draws international attention. Tamil candidate impacts regional politics. Eelam Tamil Rights Alliance organizes press conference in Tamil Nadu. Opposition and ruling parties seek support from Tamil Nadu activists. Tamil Nadu government urged to address Tamil candidate's election manifesto. Organizations demand referendum among Tamil people in Sri Lanka. New Delhi's role in resolving Tamil-Sinhala conflict questioned.
-
-🟩
-
-This week's presidential election in Sri Lanka has attracted international attention due to the central importance of the country in Sri Lanka.
-
-Although the Sri Lankan election has been seen as a mere spare candidate in the south of Atti, the Tamil general candidate has already begun to have an impact on regional politics.
-
-The tooth has been forced to focus on the Eelam Tamil telephone issue once again.The main point of this is that the Tamil General Candidate affair has been echoed in the Tamil Nadu Press House in Tamil Nadu.
-
-At the meeting, which was organized by the Eelam Tamil Rights Alliance, the meeting was a meeting to introduce and announce that the Tamil people in Sri Lanka had fielded a candidate in Sri Lanka.
-
-The creation of the Tamil general structure in Sri Lanka is trying to portray some Jaffna researchers and fat analysts as an election issue, while the Tamil General Framework in Chennai is seen as a turning point in recent Tamil history.
-
-...
-
-[Data](articles/5a96917f.json)
-
-[Extended Data](ext_articles/5a96917f.ext.json)
-
----
-
-### First polling division result of Presidential Election released
-
-*2024-09-22 03:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102144/first-polling-division-result-of-presidential-election-released) · `en`
-
-The first polling division result of the 2024 Presidential Election is out with the release of the result of the Nallur polling division in Jaffna District.
-
-Tamil common candidate P. Ariyanethiran has received the highest number of votes in the polling division with a total of 10,097 votes.
-
-◼️
-
-[Data](articles/cdecf1e8.json)
-
-[Extended Data](ext_articles/cdecf1e8.ext.json)
-
----
-
-### Batticaloa Official Postal Vote
-
-*2024-09-22 03:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201296) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ranil Wickremesinghe wins Batticaloa district postal vote. Official results confirm his victory in this key electoral area.
-
-🟩
-
-Ranil Wickremesinghe has been released by the official postal voting outcome of the Batticaloa district.
-
-◼️
-
-[Data](articles/2adbb976.json)
-
-[Extended Data](ext_articles/2adbb976.ext.json)
-
----
-
-### Jaffna - Nallur
-
-*2024-09-22 03:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201295) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Jaffna: Nallur election results announced. Mr. Patrianthran wins with 10,097 votes.
-
-🟩
-
-The Nallur official voting results of the Jaffna district has been released and Mr. Patrianthran receives 10,097 votes.
-
-◼️
-
-[Data](articles/11b9b9bc.json)
-
-[Extended Data](ext_articles/11b9b9bc.ext.json)
-
----
-
-### Will the Tamil government have an impact?
-
-*2024-09-22 03:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194350) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil State Party rushed support for Sajith Premadasa without influencing postal votes. Postal voters' decisions independent of parties. Sajith received higher percentages in postal votes than expected, indicating limited party impact.
-
-🟩
-
-“The Tamil State Party has no contact with the decision to support Sajith and the postal vote. The compliance with Sajith Premadasa personally is attributed to the urgent announcement of the party. ”
-
-At the Central Committee of the Sri Lanka Tamil State Party, a resolution to support Sajith Premadasa was taken in a hurry on the first day.
-
-It was earlier decided that the decision would be taken on the basis of a report submitted by a high -level committee appointed by the three major candidates.
-
-On the contrary, when a decision was taken to support Sajith Premadasa at the Central Committee meeting in Vavuniya, the main reason was that the decision was to be made before the postal voting.
-
-Postal voting has begun on the fourth day. Followed three consecutive days. On those occasions, those who did not vote were given the opportunity to vote in the District Secretariats on the 11th and 12th.
-
-Those who are eligible to vote by post are public servants, police and soldiers.
-
-...
-
-[Data](articles/897a8055.json)
-
-[Extended Data](ext_articles/897a8055.ext.json)
-
----
-
-### Anura wins in 10 districts so far
-
-*2024-09-22 03:06:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-10-மாவட்டங்களில்-அனுர-வெற்றி/175-344127) · `ta`
-
-Anura wins 10 districts; Anurakumara Dissanayake leads NPP; Sajith Premadasa wins one district.
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power (NPP), has won the postal voting results in the eleven districts.
-
-United People's Power President Sajith Premadasa Wanni was only able to win.
-
-Anurakumara won the districts of Colombo, Galle, Hambantota, Matale, Matara, Moneragala, Polonnaruwa, Ratnapura, Trincomalee and Nuwara Eliya.
-
-◼️
-
-[Data](articles/deb6f2f8.json)
-
-[Extended Data](ext_articles/deb6f2f8.ext.json)
-
----
-
-### Matara District: Postal Voting
-
-*2024-09-22 02:57:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/மாத்தறை-மாவட்டம்-தபால்மூல-வாக்குபதிவு/93-344126) · `ta`
-
-Here's a summary of "Matara District: Postal Voting" in 200 characters:
-
-
-
-Matara District conducts postal voting for elections. Eligible voters receive ballot papers by mail. They mark choices and return ballots via post office. This system allows remote participation in local polls.
-
-🟩
-
-◼️
-
-[Data](articles/eb0ffbec.json)
-
-[Extended Data](ext_articles/eb0ffbec.ext.json)
-
----
-
-### Nuwara Eliya District: Postal Voting
-
-*2024-09-22 02:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/76-344125) · `ta`
-
-Here's a summary of the Nuwara Eliya District postal voting in approximately 200 characters:
-
-
-
-Nuwara Eliya District conducts postal voting for elections. Eligible voters receive ballot papers by post. They mark choices and return ballots through designated channels. This system allows remote participation in local polls.
-
-🟩
-
-◼️
-
-[Data](articles/a25936be.json)
-
-[Extended Data](ext_articles/a25936be.ext.json)
-
----
-
-### Nuwara Eliya District: Postal Voting
-
-*2024-09-22 02:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியா-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344125) · `ta`
-
-Here's a summary of "Nuwara Eliya District: Postal Voting" in approximately 200 characters:
-
-
-
-Nuwara Eliya District conducts postal voting for elections. Eligible voters can apply online or through local authorities. Ballots are sent via post, allowing citizens to cast votes from anywhere within the district. The process ensures accessibility for remote areas and busy professionals.
-
-🟩
-
-◼️
-
-[Data](articles/cd9a2794.json)
-
-[Extended Data](ext_articles/cd9a2794.ext.json)
-
----
-
-### Nuwara Eliya Official Postal Vote
-
-*2024-09-22 02:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201294) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Nuwara Eliya District postal vote results: Anura Kumara Dissanayake receives 8,946 votes.
-
-🟩
-
-The official postal voting outcome of the Nuwara Eliya District has been released and Anura Kumara Dissanayake returns to 8,946 votes.
-
-◼️
-
-[Data](articles/9162612f.json)
-
-[Extended Data](ext_articles/9162612f.ext.json)
-
----
-
-### Anura wins Nuwara Eliya District postal votes
-
-*2024-09-22 02:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102143/anura-wins-nuwara-eliya-district-postal-votes) · `en`
-
-The postal vote result of the Nuwara Eliya District in the 2024 Presidential Election has been released by the Election Commission.
-
-The postal vote result of the Nuwara Eliya District in the 2024 Presidential Election has been released by the Election Commission.
-
-National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has secured the highest number of postal votes in the Nuwara-Eliya District.
-
-The NPP leader has received 8,946 postal votes while incumbent President and independent candidate Ranil Wickremesinghe has polled 5,087 postal votes.
-
-◼️
-
-[Data](articles/e3d3fe7e.json)
-
-[Extended Data](ext_articles/e3d3fe7e.ext.json)
-
----
-
-### Matara District postal vote results
-
-*2024-09-22 02:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102142/matara-district-postal-vote-results) · `en`
-
-The postal vote result of the Matara District in the 2024 Presidential Election has been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 19,712 votes.
-
-◼️
-
-[Data](articles/171bb2b0.json)
-
-[Extended Data](ext_articles/171bb2b0.ext.json)
-
----
-
-### Matara official postal voting results
-
-*2024-09-22 02:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201293) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Matara district postal voting results: Anura Kumara Dissanayake wins with 19,712 votes."
-
-🟩
-
-The official postal voting outcome of the Matara district has been released and Anura Kumara Dissanayake returns to 19,712 votes.
-
-◼️
-
-[Data](articles/68e0e253.json)
-
-[Extended Data](ext_articles/68e0e253.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 05:22:38**
+As of **2024-09-22 05:44:46**
 
 ## Newspaper Stats
 
-*Scraped **45,227** Articles*
+*Scraped **45,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,173
 dailymirrorlk | 4,733
-adaderanalk | 5,328
-tamilmirrorlk | 5,941
+adaderanalk | 5,329
+tamilmirrorlk | 5,945
 virakesarilk | 7,241
 adaderanasinhalalk | 7,762
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,227 (100.0%) of 45,227 articles have been extended.
+45,227 (100.0%) of 45,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Postal vote results of Kurunegala
+
+*2024-09-22 05:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102150/postal-vote-results-of-kurunegala-) · `en`
+
+The postal vote result of the Kurunegala District in the 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 47,126 postal votes.
+
+◼️
+
+[Data](articles/9af8b3a5.json)
+
+---
 
 ### Results of Ambalangoda polling division
 
@@ -63,6 +77,36 @@ The official voting outcome of the Ambalangoda Electorate in Galle District has 
 [Data](articles/2adab80a.json)
 
 [Extended Data](ext_articles/2adab80a.ext.json)
+
+---
+
+### மாத்தறை தொகுதியில் அனுரவுக்கு 43,827 வாக்குகள்
+
+*2024-09-22 04:35:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறை-தொகுதியில்-அனுரவுக்கு-43-827-வாக்குகள்/175-344133) · `ta`
+
+◼️
+
+[Data](articles/37f4d7d4.json)
+
+---
+
+### கேகாலை மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+
+*2024-09-22 04:28:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344132) · `ta`
+
+◼️
+
+[Data](articles/2e0255a3.json)
+
+---
+
+### திகாமடுல்ல மாவட்ட தபால் மூல வாக்களிப்பு
+
+*2024-09-22 04:25:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்ல-மாவட்ட-தபால்-மூல-வாக்களிப்பு/175-344131) · `ta`
+
+◼️
+
+[Data](articles/e4d54a11.json)
 
 ---
 
@@ -383,6 +427,16 @@ Matara District conducts postal voting for elections. Eligible voters receive ba
 [Data](articles/eb0ffbec.json)
 
 [Extended Data](ext_articles/eb0ffbec.ext.json)
+
+---
+
+### நுவரெலியா மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+
+*2024-09-22 02:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/76-344125) · `ta`
+
+◼️
+
+[Data](articles/a25936be.json)
 
 ---
 
@@ -2131,121 +2185,5 @@ He said the new president would face significant problems in managing the econom
 [Data](articles/cc6eb351.json)
 
 [Extended Data](ext_articles/cc6eb351.ext.json)
-
----
-
-### Super Star Rajinikanth's preview release of 'Vettayan'
-
-*2024-09-21 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194309) · `ta`
-
-Rajinikanth's 'Vettayan' preview attracts 2 million viewers. Starring Rajinikanth, Amitabh Bachchan, Rana Daggubati. Directed by Rajinikanth himself. Police action thriller releasing Oct 10 in multiple languages.
-
-🟩
-
-Super Star Rajinikanth's Preview of 'Vettayan' has been released.
-
-Within a short time of this preview, more than two million viewers have been visited and achieved.
-
-Director The. Cm. Super Star Rajinikanth, Bollywood Super Star Amitabh Bachchan, Rana Dagupati, Bhagat Basil, Manju Warrior, Dushara Vijayan, Abirami, Ritika Singh and many others have starred in the film 'Vettayan'.
-
-The film is being produced as an exercise entertainer and has produced the famous producer Subhashkaran on behalf of Leica Productions.
-
-The film, which is being released in Tamil, Telugu, Malayalam, Kannada and Hindi at the World House on the 10th of October, was released at a special ceremony in Chennai.
-
-In this preview, Super Star Rajinikanth is back in the police station and that he appears to be a high -ranking policeman and a encounter specialist, and that the scenes are stunned.
-
-◼️
-
-[Data](articles/c488b2fd.json)
-
-[Extended Data](ext_articles/c488b2fd.ext.json)
-
----
-
-### Special security program in place during post-election period
-
-*2024-09-21 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102126/special-security-program-in-place-during-post-election-period) · `en`
-
-Police Media Spokesman DIG Nihal Thalduwa announced this evening (21) that a special security program will be enforced across the country in the coming days.
-
-Speaking at a press conference following the conclusion of voting in the presidential poll today, he emphasized that the measures are in place to ensure public safety during the post-election period.
-
-DIG Thalduwa noted that police officers and anti-riot units have been deployed as necessary, and roadblocks have been set up in strategic locations. These security measures will remain fully operational until election results are officially announced, he added.
-
-Additionally, the Police Media Spokesman warned that for the next week, all public marches—whether on foot or by vehicle—are strictly prohibited. He urged citizens to comply with these regulations and cooperate with law enforcement to maintain peace and order.
-
-...
-
-[Data](articles/a7fb4a5c.json)
-
-[Extended Data](ext_articles/a7fb4a5c.ext.json)
-
----
-
-### Sri Lanka declares special holiday for Monday after end of Presidential polls
-
-*2024-09-21 19:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-declares-special-holiday-for-monday-after-end-of-presidential-polls-180320/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s has declared a special government holiday on Monday, September 23, the Department of Government Information (DGI) said, nearly three hours after the conclusion of the country’s presidential elections.
-
-“September 23 Monday has been declared as a special government holiday,” the DGI said quoting Pradeep Yasarathna, Secretary, Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government.
-
-There was no reasons given for declaring the holiday. (Colombo/September 21/2024)
-
-◼️
-
-[Data](articles/b9a31d87.json)
-
-[Extended Data](ext_articles/b9a31d87.ext.json)
-
----
-
-### What's going to happen next?Emergency digits notice
-
-*2024-09-21 19:03:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்து-நடக்கப்போவது-என்ன-அவசர-இலக்கங்கள்-அறிவிப்பு/175-344093) · `ta`
-
-Sri Lanka: Emergency measures announced post-referendum. Police deployed, roadblocks set up. Vehicle processions banned. Public urged to report disturbances via emergency hotline. Security plan to remain in effect until election results released.
-
-🟩
-
-Deputy Inspector General of Police Nihal Talduwa said that the special security program in the country will be implemented in the coming days.
-
-He said this at a media briefing held after the referendum ended at 4 pm today.
-
-He said that police officers and riot officers were on duty as per the requirements and that there were police roadblocks and therefore the security plan would be fully working in the country until the results were released.
-
-Meanwhile, the police media spokesman says that within a week of the election, any person has been completely banned from marching in vehicles or trail.
-
-As a citizen, he urged the Sri Lankan police to take necessary steps to maintain the law and maintain the law and order in the country.
-
-The police have also asked the public to inform the following telephone numbers if they find any information on the act of disrupting peace.
-
-◼️
-
-[Data](articles/cdae4738.json)
-
-[Extended Data](ext_articles/cdae4738.ext.json)
-
----
-
-### Special holiday on Monday
-
-*2024-09-21 19:00:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கட்கிழமை-விசேட-விடுமுறை/175-344092) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Monday, the 23rd, declared special holiday announcement."
-
-🟩
-
-Monday, the 23rd, has been announced as a special holiday.
-
-◼️
-
-[Data](articles/2cab6e75.json)
-
-[Extended Data](ext_articles/2cab6e75.ext.json)
 
 ---

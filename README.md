@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 15:56:53**
+As of **2024-09-22 16:10:05**
 
 ## Newspaper Stats
 
-*Scraped **45,548** Articles*
+*Scraped **45,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,184
 dailymirrorlk | 4,733
-adaderanalk | 5,366
+adaderanalk | 5,367
 tamilmirrorlk | 6,039
 virakesarilk | 7,268
 adaderanasinhalalk | 7,885
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,885
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,548 (100.0%) of 45,548 articles have been extended.
+45,549 (100.0%) of 45,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Anura also tops Matale, Moratuwa, Homagama, Deniyaya and Anuradhapura East
+
+*2024-09-22 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102189/anura-also-tops-matale-moratuwa-homagama-deniyaya-and-anuradhapura-east) · `en`
+
+NPP Presidential Candidate Anura Kumara Dissanayake has secured the highest number of votes in Anuradhapura East polling division in Anuradhapura District.
+
+In the Matale polling division in Matale District, the NPP leader has clinched another victory by polling 27,693 votes.
+
+He has also placed first in the Moratuwa polling division in Colombo District with 45, 299 votes.
+
+Dissanayake has also won the Homagama polling division in the Colombo District.
+
+The NPP Presidential Candidate is also on top in Deniyaya polling division in Matara District.
+
+◼️
+
+[Data](articles/890a22ef.json)
+
+[Extended Data](ext_articles/890a22ef.ext.json)
+
+---
 
 ### AKD wins in Kotte, Maharagama, Galigamuwa and Wellawaya
 
@@ -2035,25 +2057,5 @@ Meanwhile, the victim is also the author of the NM Basil of Nikwewa, the organiz
 [Data](articles/bfec3d6c.json)
 
 [Extended Data](ext_articles/bfec3d6c.ext.json)
-
----
-
-### Anura, who captured the Yatinuwara constituency
-
-*2024-09-22 12:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யட்டிநுவர-தொகுதியை-கைப்பற்றிய-அனுர/175-344195) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Anura won the Yatinuwara constituency election. This statement provides concise information about Anura's political victory in a specific electoral district. It lacks context but conveys the essential fact of the outcome.
-
-🟩
-
-◼️
-
-[Data](articles/c87d4f72.json)
-
-[Extended Data](ext_articles/c87d4f72.ext.json)
 
 ---

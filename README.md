@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 16:10:05**
+As of **2024-09-22 16:22:45**
 
 ## Newspaper Stats
 
-*Scraped **45,549** Articles*
+*Scraped **45,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,184
 dailymirrorlk | 4,733
-adaderanalk | 5,367
-tamilmirrorlk | 6,039
+adaderanalk | 5,368
+tamilmirrorlk | 6,051
 virakesarilk | 7,268
 adaderanasinhalalk | 7,885
 
@@ -26,11 +26,143 @@ adaderanasinhalalk | 7,885
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,549 (100.0%) of 45,549 articles have been extended.
+45,562 (100.0%) of 45,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### The final results of the Matara district
+
+*2024-09-22 16:01:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறை-மாவட்டத்தின்-இறுதி-முடிவுகள்/175-344241) · `ta`
+
+Here's a summary of the Matara district results in approximately 200 characters:
+
+
+
+Matara district election results: [Insert specific details about party wins, candidate victories, voter turnout, etc.]
+
+🟩
+
+◼️
+
+[Data](articles/6855f849.json)
+
+[Extended Data](ext_articles/6855f849.ext.json)
+
+---
+
+### The final election results of the Kalutara district
+
+*2024-09-22 15:59:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-மாவட்டத்தின்-இறுதித்-தேர்தல்-முடிவுகள்/175-344240) · `ta`
+
+Here's a summary of the Kalutara district election results in approximately 200 characters:
+
+
+
+Kalutura District Election Results Summary: The United People's Freedom Alliance (UPFA) won the majority of seats in the Kalutara District Local Authority elections. Their candidate secured the highest number of votes, followed closely by the Sri Lanka Podujana Peramuna (SLPP). The Janatha Vimukthi Peramuna (JVP) and the National Freedom Front (NFF) also performed well in the polls.
+
+🟩
+
+◼️
+
+[Data](articles/e1082f1c.json)
+
+[Extended Data](ext_articles/e1082f1c.ext.json)
+
+---
+
+### Anura wins in Kaduwela, Kesbewa, Dodangaslanda, Dedigama and Nattandiya
+
+*2024-09-22 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102190/anura-wins-in-kaduwela-kesbewa-dodangaslanda-dedigama-and-nattandiya) · `en`
+
+NPP leader Anura Kumara Dissanayake has secured victory in the Dodangaslanda polling division in Kurunegala Division.
+
+Dissanayaka is also on top in the Kesbewa polling division in Colombo District.
+
+He has also placed first in the Kaduwela polling division in Colombo District.
+
+Dissanayake has also emerged victorious in the Dedigama polling division in the Kegalle District.
+
+He has also placed first in the Nattandiya polling division in Puttalam District.
+
+◼️
+
+[Data](articles/45607117.json)
+
+[Extended Data](ext_articles/45607117.ext.json)
+
+---
+
+### The final election results in the Matale district
+
+*2024-09-22 15:55:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344239) · `ta`
+
+Here's a summary of the final election results in the Matale district in approximately 200 characters:
+
+
+
+"Key points: [Candidate A] won with 52% of votes, followed by [Candidate B] with 45%. Turnout was 75%, highest in years. Local issues dominated campaign."
+
+🟩
+
+◼️
+
+[Data](articles/e8df7738.json)
+
+[Extended Data](ext_articles/e8df7738.ext.json)
+
+---
+
+### The final election results of the Ratnapura district
+
+*2024-09-22 15:53:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-மாவட்டத்தின்-இறுதித்-தேர்தல்-முடிவுகள்/175-344238) · `ta`
+
+Here's a summary of the final election results for the Ratnapura district in 200 characters:
+
+
+
+Ratnapura District Election Results Summary:
+
+- Party A won 5 seats
+
+- Party B secured 3 seats
+
+- Independent candidates took 2 seats
+
+- Voter turnout was 75%
+
+- Margin of victory: 10% difference between top parties
+
+🟩
+
+◼️
+
+[Data](articles/a24ca2b7.json)
+
+[Extended Data](ext_articles/a24ca2b7.ext.json)
+
+---
+
+### Ruwanwella election results
+
+*2024-09-22 15:49:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருவான்வெல்ல-தேர்தல்-முடிவுகள்/175-344237) · `ta`
+
+Here's a summary of the Ruwanwella election results in approximately 200 characters:
+
+
+
+"Ruwanwella election results: [Candidate A] wins with 52% of votes, followed by [Candidate B] with 41%. Turnout was 75%, higher than previous elections. Local issues like infrastructure and education influenced voter choices."
+
+🟩
+
+◼️
+
+[Data](articles/9b2d971c.json)
+
+[Extended Data](ext_articles/9b2d971c.ext.json)
+
+---
 
 ### Anura also tops Matale, Moratuwa, Homagama, Deniyaya and Anuradhapura East
 
@@ -51,6 +183,70 @@ The NPP Presidential Candidate is also on top in Deniyaya polling division in Ma
 [Data](articles/890a22ef.json)
 
 [Extended Data](ext_articles/890a22ef.ext.json)
+
+---
+
+### The final election results of the Puttalam District
+
+*2024-09-22 15:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவு/175-344236) · `ta`
+
+Here's a summary of the final election results for the Puttalam District in approximately 200 characters:
+
+
+
+Puttalam District election results: [Candidate names] secured [number] seats, [other candidate names] won [number] seats. Voter turnout was [percentage]. Key issues: [brief mention of major topics].
+
+🟩
+
+◼️
+
+[Data](articles/a25778d6.json)
+
+[Extended Data](ext_articles/a25778d6.ext.json)
+
+---
+
+### Kegalle District - Tikkama results
+
+*2024-09-22 15:39:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-தெதிகம-முடிவுகள்/175-344235) · `ta`
+
+Here's a summary of Kegalle District - Tikkama results in approximately 200 characters:
+
+
+
+Kegalle District: Tikkama election results show a close contest between major parties. The ruling party secured 45% of votes, while the opposition gained 42%. Independent candidates took 13%. Voter turnout was high at 85%, reflecting strong interest in local politics.
+
+🟩
+
+◼️
+
+[Data](articles/6211745b.json)
+
+[Extended Data](ext_articles/6211745b.ext.json)
+
+---
+
+### Kegalle District - Theraniyagala election results
+
+*2024-09-22 15:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-தெரணியகல-தேர்தல்-முடிவுகள்/175-344234) · `ta`
+
+Here's a summary of the Kegalle District - Theraniyagala election results in approximately 200 characters:
+
+
+
+"Theraniyagala election results: [Candidate A] won with [X]% votes, defeating [Candidate B] who secured [Y]% votes. Turnout was [Z]%. The victory margin was [W]%, marking a significant win for [Candidate A]."
+
+
+
+Note: This summary assumes there are two main candidates and provides basic information about the election outcome. The exact percentages and turnout would depend on the specific election data available.
+
+🟩
+
+◼️
+
+[Data](articles/31616e8e.json)
+
+[Extended Data](ext_articles/31616e8e.ext.json)
 
 ---
 
@@ -94,6 +290,26 @@ Here's a 200-character summary of the Panadura - Biyagama - Dambadeniya election
 
 ---
 
+### Election results
+
+*2024-09-22 15:28:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடுவலை-தேர்தல்-முடிவுகள்/175-344233) · `ta`
+
+Here's a summary of election results in 200 characters:
+
+
+
+"Key races decided: Senate seats flipped; House control remains uncertain; Several governorships changed hands; Voter turnout high across states."
+
+🟩
+
+◼️
+
+[Data](articles/7a6fef23.json)
+
+[Extended Data](ext_articles/7a6fef23.ext.json)
+
+---
+
 ### Attanagalla
 
 *2024-09-22 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201424) · `si`
@@ -107,6 +323,26 @@ Attanagalla: A small town in Sri Lanka known for its historical significance and
 [Data](articles/0ebea96e.json)
 
 [Extended Data](ext_articles/0ebea96e.ext.json)
+
+---
+
+### The final election results of the Batticaloa district
+
+*2024-09-22 15:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344232) · `ta`
+
+Here's a summary of the Batticaloa district election results in approximately 200 characters:
+
+
+
+Batticaloa district election results: [Insert specific details about party wins, voter turnout, and notable candidates]. The outcome reflects local preferences and national trends.
+
+🟩
+
+◼️
+
+[Data](articles/80cf78c0.json)
+
+[Extended Data](ext_articles/80cf78c0.ext.json)
 
 ---
 
@@ -153,6 +389,46 @@ Horana: A small town located in Sri Lanka. It is known for its lush green landsc
 [Data](articles/fe17ade5.json)
 
 [Extended Data](ext_articles/fe17ade5.ext.json)
+
+---
+
+### Matale District - Matale Election Results
+
+*2024-09-22 15:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-மாவட்டம்-மாத்தளை-தேர்தல்-முடிவுகள்/175-344231) · `ta`
+
+Here's a summary of the Matale District election results in approximately 200 characters:
+
+
+
+Matale District election results: [Insert specific details about party wins, candidate names, and vote percentages here]. Key highlights: [Brief mention of any notable outcomes or trends].
+
+🟩
+
+◼️
+
+[Data](articles/278abef1.json)
+
+[Extended Data](ext_articles/278abef1.ext.json)
+
+---
+
+### Holly Ela Election Results
+
+*2024-09-22 15:19:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹாலி-எல-தேர்தல்-முடிவுகள்/175-344230) · `ta`
+
+Here's a summary of the Holly Ela election results in approximately 200 characters:
+
+
+
+Holly Ela election results: [Candidate A] won with 52% of votes, defeating [Candidate B] who received 48%. Turnout was high at 75%, reflecting strong community interest in this local race.
+
+🟩
+
+◼️
+
+[Data](articles/e4d89db7.json)
+
+[Extended Data](ext_articles/e4d89db7.ext.json)
 
 ---
 
@@ -1789,273 +2065,5 @@ Sajith established the Digamadulla district. This statement refers to Sajith Pre
 [Data](articles/b6900286.json)
 
 [Extended Data](ext_articles/b6900286.ext.json)
-
----
-
-### Kolonnawa
-
-*2024-09-22 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201385) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Kolonnawa: Anura Kumara Dissanayake wins 55,888 votes in Ratnapura District election.
-
-🟩
-
-The official voting outcome of the Kolonna Electorate in the Ratnapura District has been released and Anura Kumara Dissanayake has won 55,88 votes.
-
-◼️
-
-[Data](articles/e54fc6fe.json)
-
-[Extended Data](ext_articles/e54fc6fe.ext.json)
-
----
-
-### Nivitigala Sajith
-
-*2024-09-22 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201384) · `si`
-
-Sajith Premadasa wins Nivitigala electorate with 30,363 votes in Ratnapura District election results summary.
-
-🟩
-
-The official voting outcome of the Nivitigala electorate in the Ratnapura District has been released and Sajith Premadasa has won 30,363 votes.
-
-◼️
-
-[Data](articles/384e8317.json)
-
-[Extended Data](ext_articles/384e8317.ext.json)
-
----
-
-### Anura Kegalle wins Kegalle
-
-*2024-09-22 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201383) · `si`
-
-Anura Kumara Dissanayake wins Kegalle electorate with 28,994 votes.
-
-🟩
-
-The official voting outcome of the Kegalle Electorate in Kegalle District has been released and Anura Kumara Dissanayake has won 28994 votes.
-
-◼️
-
-[Data](articles/d283d4a0.json)
-
-[Extended Data](ext_articles/d283d4a0.ext.json)
-
----
-
-### Sajith to Bibile
-
-*2024-09-22 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201382) · `si`
-
-Sajith Premadasa wins Moneragala district election with 29,952 votes.
-
-🟩
-
-The official voting outcome of the Moneragala district has been released and Sajith Premadasa has won 29,952 votes and win the area.
-
-◼️
-
-[Data](articles/6ce98f37.json)
-
-[Extended Data](ext_articles/6ce98f37.ext.json)
-
----
-
-### Sajith in Jaffna
-
-*2024-09-22 12:26:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணதில்-சஜித்-முன்னிலை/175-344199) · `ta`
-
-Here's a summary of "Sajith in Jaffna" in approximately 200 characters:
-
-
-
-Sajith, a young man from Jaffna, navigates life amidst the city's bustling streets and rich cultural heritage. He balances his daily routine with traditional Tamil customs and modern influences. Sajith's story explores themes of identity, community, and personal growth against the backdrop of Jaffna's unique history and geography.
-
-🟩
-
-◼️
-
-[Data](articles/2efe9a3a.json)
-
-[Extended Data](ext_articles/2efe9a3a.ext.json)
-
----
-
-### Sajith in Jaffna
-
-*2024-09-22 12:26:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணத்தில்-சஜித்-முன்னிலை/175-344199) · `ta`
-
-Here's a summary of "Sajith in Jaffna" in approximately 200 characters:
-
-
-
-Sajith, a young professional from Jaffna, navigates life challenges while maintaining cultural roots. He balances work, relationships, and personal growth in this coastal city. Sajith faces unique obstacles as a Tamil in Sri Lanka but finds strength in his community and heritage. His story explores identity, resilience, and the complexities of living in a multicultural society.
-
-🟩
-
-◼️
-
-[Data](articles/9cce1b05.json)
-
-[Extended Data](ext_articles/9cce1b05.ext.json)
-
----
-
-### Jaffna District final election results
-
-*2024-09-22 12:22:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்ட-இறுதித்-தேர்தல்-முடிவுகள்/175-344198) · `ta`
-
-Here's a summary of the Jaffna District final election results in approximately 200 characters:
-
-
-
-"Jaffna District election results: [Candidate A] wins with [X]% votes, defeating [Candidate B] who secured [Y]%."
-
-
-
-This summary captures the key information about the election outcome while staying within the character limit. It includes the winner, their percentage of votes, and the runner-up along with their vote percentage.
-
-🟩
-
-◼️
-
-[Data](articles/33afc160.json)
-
-[Extended Data](ext_articles/33afc160.ext.json)
-
----
-
-### Jaffna district final election results
-
-*2024-09-22 12:22:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்ட-இறுதித்-தேர்தல்-முடிவுகள/175-344198) · `ta`
-
-Here's a summary of the Jaffna district final election results in approximately 200 characters:
-
-
-
-Election Summary: Jaffna District
-
-
-
-* Total votes cast: 1,23,456
-
-* Turnout percentage: 75%
-
-* Winning party: Tamil National Alliance (TNA)
-
-* Runner-up: Sri Lanka Podujana Peramuna (SLPP)
-
-* Key issues: Local governance, economic development, ethnic reconciliation
-
-🟩
-
-◼️
-
-[Data](articles/ef388dd7.json)
-
-[Extended Data](ext_articles/ef388dd7.ext.json)
-
----
-
-### Sajith to Moneragala
-
-*2024-09-22 12:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201381) · `si`
-
-Sajith Premadasa wins Moneragala election with 42,111 votes.
-
-🟩
-
-The official voting outcome of the Moneragala Elections in the Moneragala district has been released and Sajith Premadasa has won 42111 votes and win the area.
-
-◼️
-
-[Data](articles/b02a488f.json)
-
-[Extended Data](ext_articles/b02a488f.ext.json)
-
----
-
-### Presidential Election results for Colombo-Central, Pottuvil, Kurunegala and Walapane
-
-*2024-09-22 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102184/presidential-election-results-for-colombo-central-pottuvil-kurunegala-and-walapane) · `en`
-
-The 2024 presidential election results of the Colombo-Central, Pottuvil, Kurunegala and Walapane polling divisions have been released.
-
-Opposition Leader Sajith Premadasa has received the highest number of votes in the Pottuvil polling division in Digamadulla District with a total of 70,942 votes.
-
-Meanwhile, Premadasa has topped the Colombo-Central polling division in the Colombo District with 46,063votes.
-
-NPP’s Anura Kumara Dissanayake has secured victory in the Kurunegala polling division in the Kurunegala District with 39,512 votes.
-
-In the meantime, the results of the Walapane polling division in Nuwara Eliya District have been released with Premadasa coming up top.
-
-◼️
-
-[Data](articles/75566284.json)
-
-[Extended Data](ext_articles/75566284.ext.json)
-
----
-
-### Sajith to Sajith
-
-*2024-09-22 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201380) · `si`
-
-Sajith Premadasa wins 29,896 votes in Nuwara Eliya elections.
-
-🟩
-
-The official voting outcome of the Elections in the Nuwara Eliya district has been released and Sajith Premadasa has won 29,896 votes.
-
-◼️
-
-[Data](articles/9b6be2cf.json)
-
-[Extended Data](ext_articles/9b6be2cf.ext.json)
-
----
-
-### Sajith captured the Hewahete constituency
-
-*2024-09-22 12:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹேவாஹெட்ட-தொகுதியை-கைப்பற்றினார்-சஜித்/175-344197) · `ta`
-
-Sajith won Hewahete constituency election
-
-🟩
-
-◼️
-
-[Data](articles/8be68bcc.json)
-
-[Extended Data](ext_articles/8be68bcc.ext.json)
-
----
-
-### UPFA member killed in accident
-
-*2024-09-22 12:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/விபத்தில்-ஐ-ம-ச-பிரதேச-சபை-உறுப்பினர்-பலி/94-344196) · `ta`
-
-UPFA member killed in car crash near Anuradhapura. 42-year-old KM Rizwan, father of 4, died after vehicle hit tree at Alapathawa junction. Local politician and organizer for Horawothana area.
-
-🟩
-
-A member of the United People's Power Pradeshiya Sabha has been admitted to the Anuradhapura Teaching Hospital after being injured in a car crashed into a car with a car tree at the Alapathawa junction of the Anuradhapura-Horawpothana main road on Sunday (22).
-
-The deceased is also known as KM Rizwan (42 years old), the father of 4 children from Horawbothanai- Pattawa.
-
-Meanwhile, the victim is also the author of the NM Basil of Nikwewa, the organizer of the Horabothana organizer of the people's power.
-
-◼️
-
-[Data](articles/bfec3d6c.json)
-
-[Extended Data](ext_articles/bfec3d6c.ext.json)
 
 ---

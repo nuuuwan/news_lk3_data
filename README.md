@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 20:56:58**
+As of **2024-09-22 21:07:42**
 
 ## Newspaper Stats
 
-*Scraped **45,630** Articles*
+*Scraped **45,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,198 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,190
 dailymirrorlk | 4,733
-adaderanalk | 5,375
+adaderanalk | 5,376
 tamilmirrorlk | 6,069
-virakesarilk | 7,282
+virakesarilk | 7,289
 adaderanasinhalalk | 7,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,630 (100.0%) of 45,630 articles have been extended.
+45,638 (100.0%) of 45,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Anurakumara Dissanayake is elected as the 9th Executive President of Sri Lanka
+
+*2024-09-22 20:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/194554) · `ta`
+
+Anurakumara Dissanayake elected 9th Executive President of Sri Lanka. Won with 55.87% preferential votes, defeating Sajith Premadasa and Ranil Wickremesinghe.
+
+🟩
+
+Anurakumara has been elected as the 9th Executive President of Sri Lanka on the basis of the preferential vote in the ongoing presidential election.
+
+Anura Kumara Dissanayake, the presidential candidate of the National People's Power Based on the presidential election votes, was in the forefront of 5,634,915 (42.31%).
+
+In second place, United People's Power President Sajith Premadasa was in 2nd place with 4,363,035 (32.76%).
+
+President and Independent candidate Ranil Wickremesinghe was 3rd place with 2,299,767 (17.27%).
+
+In this case, no one received 50 percent of the votes, and the president was to be elected on the basis of preferential vote.
+
+Based on this preferential vote, the voting census was based on 22 electoral districts and the National People's Power Presidential candidate Anura Kumara Dissanayake was elected.
+
+At the second precedence, Sajith Premadasa received 167,867 votes and Anurakumara Dissanayake received 105 and 264 votes.
+
+...
+
+[Data](articles/f92bfbbc.json)
+
+[Extended Data](ext_articles/f92bfbbc.ext.json)
+
+---
+
+### Why this cheat?
+
+*2024-09-22 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194365) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil state party involvement in political settlement regardless of presidential election outcome.
+
+🟩
+
+Whoever wins the presidential election, the Tamil state party will be involved in a political settlement
+
+◼️
+
+[Data](articles/0c207be0.json)
+
+[Extended Data](ext_articles/0c207be0.ext.json)
+
+---
+
+### “I handover to you with much love, the dear child called Sri Lanka” – Ranil to president-elect Anura
+
+*2024-09-22 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102198/i-handover-to-you-with-much-love-the-dear-child-called-sri-lanka-ranil-to-president-elect-anura) · `en`
+
+In a special address, President Ranil Wickremesinghe expressed his deep gratitude to the people of Sri Lanka for the mandate granted during the 21st presidential election. He acknowledged that, in accordance with the will of the people, the leadership of the country should now be passed on to President Anura Dissanayake.
+
+President Wickremesinghe extended his sincere thanks to all those who supported him during his tenure. He reflected on his role as a caretaker, stating that he had guided “the beloved child of Sri Lanka” across significant challenges, symbolized by the “Vine Bridge,” and expressed his confidence that under President Dissanayake’s leadership, the journey will continue safely and successfully.
+
+The full transcript of President Ranil Wickremesinghe’s speech is shown below;
+
+...
+
+[Data](articles/2e8c79d5.json)
+
+[Extended Data](ext_articles/2e8c79d5.ext.json)
+
+---
+
+### Is the life of Parliament ending?
+
+*2024-09-22 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194366) · `ta`
+
+Parliament dissolution likely after election due to candidate promises. This could mark end of current legislative term.
+
+🟩
+
+During the campaign, the main candidates who contested the presidential election would dissolve parliament if they win.
+
+◼️
+
+[Data](articles/a6786cba.json)
+
+[Extended Data](ext_articles/a6786cba.ext.json)
+
+---
+
+### New President and India
+
+*2024-09-22 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194369) · `ta`
+
+Anuragumara project cancellation impacts India-Sri Lanka relations.
+
+🟩
+
+With the success of Anuragumara, the Adani wind power project is being canceled, it will have significant impact on Indian -Sri Lankan relations.
+
+◼️
+
+[Data](articles/f7dd7cfa.json)
+
+[Extended Data](ext_articles/f7dd7cfa.ext.json)
+
+---
+
+### The future of the Tamil state party
+
+*2024-09-22 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194371) · `ta`
+
+Tamil state party future: Maui Senathirajah, Sridharan face opposition from Central Committee. Leaders may be ousted if actions against them continue.
+
+🟩
+
+If you are to take action against those who have taken action against the Central Committee of the Tamil State Party, Maui Senathirajah and Sridharan will have to throw out the leaders of the party and many central committee members.
+
+◼️
+
+[Data](articles/1ceef060.json)
+
+[Extended Data](ext_articles/1ceef060.ext.json)
+
+---
+
+### Thanks for the unwavering commitment of President Ranil for building a prosperous Sri Lankan
+
+*2024-09-22 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194544) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+President Wickremesinghe's commitment builds prosperity. Finance Minister Semasinghe praises his efforts to stabilize politics and economy. Gratitude expressed for his leadership during Sri Lanka's economic crisis. Support appreciated for his presidential campaign.
+
+🟩
+
+I would like to express my gratitude for President Wickremesinghe's unwavering commitment to build a stable and prosperous Sri Lanka. Finance Minister Shehan Semasinghe has said that his tireless efforts are truly significant to protect the rule of law and to bring about political and economic stability.
+
+He mentioned this in the post made on his official X page. It has further stated:
+
+I am proud to have the opportunity to work with him from the moment when President Ranil Wickremesinghe has embraced the biggest challenge to solve the massive economic crisis in Sri Lanka's history.
+
+In the last two years, he has not only dealt with this crisis but also changed the country's economy. His tireless efforts to protect the rule of law and to promote political and economic stability are truly significant.
+
+...
+
+[Data](articles/bfff8b90.json)
+
+[Extended Data](ext_articles/bfff8b90.ext.json)
+
+---
+
+### Election Voting Work is not carried out by election law
+
+*2024-09-22 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194546) · `ta`
+
+Election Voting Work not conducted as per Election Act. United People's Power threatens legal action against officials acting politically. First two candidates didn't reach 50% threshold. Second preference vote counting irregularities reported. Candidates lodge complaints with Election Commission.
+
+🟩
+
+The Voting Voting Work has not been carried out by the Election Act. The United People's Power has announced that legal action will be taken against officials who are politically functioning on behalf of the election duties.
+
+The first two candidates did not receive 50 percent of the votes when the presidential election results were released on Sunday (22). The Election Commission announced that the preferential votes were counted.
+
+United People's Power General Secretary Ranjith Mathuma Bandara and Sampika Ranawaka said at a press conference held today that the appropriate legal procedure was not followed.
+
+According to Ranjith Mathuma Bandara, the second preferential voting process is being carried out against the law. Officials are acting side by side in most areas. This should be an independent election.
+
+So the voting work must be carried out independently. We will take legal action in this regard. However, we will all work together to win the general election.
+
+...
+
+[Data](articles/ed0beb46.json)
+
+[Extended Data](ext_articles/ed0beb46.ext.json)
+
+---
 
 ### I entertain you with a affectionate child ”
 
@@ -2089,159 +2267,5 @@ United People's Power Presidential candidate Sajith Premadasa received 18,623 vo
 [Data](articles/6a83e71c.json)
 
 [Extended Data](ext_articles/6a83e71c.ext.json)
-
----
-
-### Kuliyapitiya Regular
-
-*2024-09-22 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201416) · `si`
-
-Anura Kumara Dissanayake wins 36,555 votes in Kuliyapitiya electorate.
-
-🟩
-
-The official voting outcome of the Kuliyapitiya Electorate in the Kurunegala District has been released and Anura Kumara Dissanayake has won 36,555 votes.
-
-◼️
-
-[Data](articles/89a200b6.json)
-
-[Extended Data](ext_articles/89a200b6.ext.json)
-
----
-
-### Maharagama election results
-
-*2024-09-22 14:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹரகம-தேர்தல்-முடிவுகள்/175-344224) · `ta`
-
-Here's a summary of the Maharagama election results in approximately 200 characters:
-
-
-
-"Maharagama election results: [Candidate Name] wins with [percentage] votes. Runner-up [candidate name] secures [percentage]. Voter turnout at [percentage]. Key issues: [brief mention of main topics]."
-
-🟩
-
-◼️
-
-[Data](articles/c541dd81.json)
-
-[Extended Data](ext_articles/c541dd81.ext.json)
-
----
-
-### Hakmana
-
-*2024-09-22 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201415) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara Dissanayake wins Hakmana election with 35,101 votes. Official results from Matara district electoral authority.
-
-🟩
-
-The official voting outcome of the Hakmana Electoral Authority in the Matara district has been released and Anura Kumara Dissanayake has won 35,101 votes.
-
-◼️
-
-[Data](articles/97aa065f.json)
-
-[Extended Data](ext_articles/97aa065f.ext.json)
-
----
-
-### Wennappuwa election results
-
-*2024-09-22 14:55:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வென்னப்புவ-தேர்தல்-முடிவுகள்/175-344223) · `ta`
-
-Here's a summary of the Wennappuwa election results in approximately 200 characters:
-
-
-
-Wennappuwa election results: SLPP candidate won with 53,000 votes, defeating UNP by 20,000 votes. Voter turnout was 70%. Local issues and economic policies influenced voting decisions.
-
-🟩
-
-◼️
-
-[Data](articles/ccddc77e.json)
-
-[Extended Data](ext_articles/ccddc77e.ext.json)
-
----
-
-### Sajith, Puttalam
-
-*2024-09-22 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201414) · `si`
-
-Sajith Premadasa wins Puttalam election with 68,403 votes.
-
-🟩
-
-The official voting outcome of the Puttalam Elections for Puttalam has been released and Sajith Premadasa has won 68,403 votes.
-
-◼️
-
-[Data](articles/d2e54247.json)
-
-[Extended Data](ext_articles/d2e54247.ext.json)
-
----
-
-### Avissawella
-
-*2024-09-22 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201413) · `si`
-
-Anura Kumara Dissanayake wins Avissawella electorate with 47,219 votes in Colombo District election results.
-
-🟩
-
-The official voting outcome of the Avissawella electorate in Colombo District has been released and Anura Kumara Dissanayake has won 47,219 votes.
-
-◼️
-
-[Data](articles/3426bd9a.json)
-
-[Extended Data](ext_articles/3426bd9a.ext.json)
-
----
-
-### Sajith to Passara
-
-*2024-09-22 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201412) · `si`
-
-Sajith Premadasa wins Passara electorate with 23,013 votes in Badulla District election outcome released.
-
-🟩
-
-The official voting outcome of the Passara Electorate in Badulla District has been released and Sajith Premadasa has won 23,013 votes.
-
-◼️
-
-[Data](articles/e29ecc98.json)
-
-[Extended Data](ext_articles/e29ecc98.ext.json)
-
----
-
-### Badulla District, Basara Election constituency
-
-*2024-09-22 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194509) · `ta`
-
-Sajith Premadasa leads in Badulla District's Basara Election constituency. He secured 23,031 votes, followed by Ranil Wickremesinghe (14,288) and Anura Kumara Dissanayake (10,093).
-
-🟩
-
-United People's Power Presidential candidate Sajith Premadasa is leading 23,031 votes in the Badulla district of Badulla district.
-
-Ranil Wickremesinghe, who contested independently, received 14,288 votes while the National People's Power Presidential candidate, Anura Kumara Dissanayake, got 10,093 votes.
-
-◼️
-
-[Data](articles/b05ce5bc.json)
-
-[Extended Data](ext_articles/b05ce5bc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 06:10:52**
+As of **2024-09-22 06:43:58**
 
 ## Newspaper Stats
 
-*Scraped **45,250** Articles*
+*Scraped **45,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,173
 dailymirrorlk | 4,733
 adaderanalk | 5,334
-tamilmirrorlk | 5,945
+tamilmirrorlk | 5,949
 virakesarilk | 7,241
 adaderanasinhalalk | 7,762
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,239 (100.0%) of 45,250 articles have been extended.
+45,246 (100.0%) of 45,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Jaffna Mawatha Postal Voting ...
+
+*2024-09-22 06:01:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-மாவட்ட-தபால்-மூல-வாக்களிப்பு/71-344137) · `ta`
+
+Here's a summary of "Jaffna Mawatha Postal Voting" in approximately 200 characters:
+
+
+
+Jaffna Mawatha Postal Voting refers to the controversial voting system used during Sri Lanka's presidential election in 2019. It involved postal voting for military personnel stationed outside Jaffna, raising concerns about potential fraud and disenfranchisement of other voters. Critics argued this method could lead to vote manipulation, while supporters claimed it ensured equal representation for all citizens regardless of location.
+
+🟩
+
+◼️
+
+[Data](articles/e1f37e54.json)
+
+[Extended Data](ext_articles/e1f37e54.ext.json)
+
+---
 
 ### Anura Kumara secures win in Badulla polling division
 
@@ -66,6 +86,24 @@ Meanwhile, Dissanayake has also topped the postal vote result of the Puttalam Di
 
 ---
 
+### Anura's success is firm
+
+*2024-09-22 05:33:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவின்-வெற்றி-உறுதியானது/175-344136) · `ta`
+
+Anura's success confirmed: National People's Power presidential candidate Anuragumara Dissanayake receives 353,318 votes.
+
+🟩
+
+According to the results released so far, the Presidential candidate of the National People's Power, Anuragumara Dissanayake, received 353,318 votes.
+
+◼️
+
+[Data](articles/532e807c.json)
+
+[Extended Data](ext_articles/532e807c.ext.json)
+
+---
+
 ### AKD secures win in Balapitiya polling division
 
 *2024-09-22 05:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102153/akd-secures-win-in-balapitiya-polling-division) · `en`
@@ -79,6 +117,26 @@ National People’s Power (NPP) candidate Anura Kumara Dissanayake has topped th
 [Data](articles/d07ce624.json)
 
 [Extended Data](ext_articles/d07ce624.ext.json)
+
+---
+
+### Voting by the Kurunegala District
+
+*2024-09-22 05:28:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/குருநாகல்-மாவட்ட-தபால்மூல-வாக்களிப்பு/94-344135) · `ta`
+
+Here's a summary of "Voting by the Kurunegala District" in approximately 200 characters:
+
+
+
+Kurunegala District voting process: Citizens cast ballots at designated polling stations. Eligible voters must present ID and be registered. Ballots are counted after polls close. Results are announced publicly. The district uses electronic voting machines for efficiency. Security measures ensure fair elections.
+
+🟩
+
+◼️
+
+[Data](articles/31500b30.json)
+
+[Extended Data](ext_articles/31500b30.ext.json)
 
 ---
 
@@ -111,6 +169,26 @@ Ariyanethiran has topped the Jaffna polling division securing 7,494 votes.
 [Data](articles/6cc3bb48.json)
 
 [Extended Data](ext_articles/6cc3bb48.ext.json)
+
+---
+
+### Galle District: Ambalangoda Volume
+
+*2024-09-22 05:20:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/காலி-மாவட்டம்-அம்பலாங்கொட-தொகுதி/93-344134) · `ta`
+
+Here's a summary of "Galle District: Ambalangoda Volume" in approximately 200 characters:
+
+
+
+Ambalangoda, a coastal town in Galle District, Sri Lanka, known for its traditional mask-making industry. The area produces various types of masks used in local theater performances.
+
+🟩
+
+◼️
+
+[Data](articles/6cbeb7fa.json)
+
+[Extended Data](ext_articles/6cbeb7fa.ext.json)
 
 ---
 
@@ -2095,99 +2173,5 @@ About 200 Sri Lanka Air Force (SLAF) soldiers have been deployed at the airport.
 [Data](articles/0188409b.json)
 
 [Extended Data](ext_articles/0188409b.ext.json)
-
----
-
-### Ada Derana results begins today
-
-*2024-09-21 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201278) · `si`
-
-Ada Derana election results begin today. Derana website and SMS services now available. Final official results announced. Special coverage of Sri Lanka's DeCides election. Foreign groups assist with technical support. Derana Wad Site continuously updates results.
-
-🟩
-
-Derana presence results have commenced today.
-
-Accordingly, the Ada Derana Media Network has already arranged for the Ada Derana Results of 2024 to the end of the final official election results.
-
-The moment of warmth voting voting results on the world's modern telecommunication, the Sri Lanka DeCides is through special election.
-
-Accordingly, the largest newspaper of South Asia is the largest newspaper of the largest newspaper in South Asia, with the largest newspaper of the South Asia, is unfolding on the most technical assistance of many foreign groups.
-
-The Derana Wad Site of Derana, today continuously continuously, is referred to the Ada Derana, the Ada Derana SMS.
-
-At the same time, we are ready to close the Derana Election Resource Restoration Today, on the same time.
-
-◼️
-
-[Data](articles/562467ad.json)
-
-[Extended Data](ext_articles/562467ad.ext.json)
-
----
-
-### Murder
-
-*2024-09-21 19:39:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-சட்டத்தரணி-வெட்டிக்-கொலை/175-344096) · `ta`
-
-Lawyer murdered in home invasion. Suspect from Matara cuts victim's neck. Police investigate, arrest suspect after attempted suicide.
-
-🟩
-
-A 35 -year -old leading lawyer has been hacked to death by a driver of a house in her house in Bengirivatta, police said.
-
-The suspect from Matara has cut off the victim's neck and escaped.
-
-Mirihana police have launched an investigation into the arrest of the suspect and have arrested the suspect who tried to commit suicide by jumping into the Bendra River.
-
-◼️
-
-[Data](articles/7cda9d63.json)
-
-[Extended Data](ext_articles/7cda9d63.ext.json)
-
----
-
-### Police reveal events on election day
-
-*2024-09-21 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201277) · `si`
-
-Election day incidents: Police report minor arrests, PAFFREL director says peaceful, single violent incident, ballot paper issues.
-
-🟩
-
-According to the DIG Talduwa, the DIG Talduuwa said that several small incidents were arrested during the period during the election.
-
-Meanwhile, the Director General of PAFFREL Rohana Hettiarachchi said that this presidential election was a peaceful in recent history.
-
-He said that only one violent incident was reported this year.
-
-He also said that two incidents of tearing the ballot papers and two instances of the ballot were reported.
-
-◼️
-
-[Data](articles/20cdd773.json)
-
-[Extended Data](ext_articles/20cdd773.ext.json)
-
----
-
-### Deraana operation brought by the results
-
-*2024-09-21 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201276) · `si`
-
-Ada Derana prepares coverage of presidential election results. Special broadcast brings live updates from Sri Lanka Decides.
-
-🟩
-
-The Ada Derana Media Network has already been prepared today to bring all the details of the Presidential election.
-
-The moment of warmth voting voting results on the world's modern telecommunication, the Sri Lanka DeCides is through special election.
-
-◼️
-
-[Data](articles/b13aeb66.json)
-
-[Extended Data](ext_articles/b13aeb66.ext.json)
 
 ---

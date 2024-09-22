@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 09:58:02**
+As of **2024-09-22 10:12:20**
 
 ## Newspaper Stats
 
-*Scraped **45,347** Articles*
+*Scraped **45,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,177
 dailymirrorlk | 4,733
-adaderanalk | 5,351
-tamilmirrorlk | 5,976
+adaderanalk | 5,353
+tamilmirrorlk | 5,981
 virakesarilk | 7,246
 adaderanasinhalalk | 7,800
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 7,800
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,344 (100.0%) of 45,347 articles have been extended.
+45,347 (100.0%) of 45,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Ariyanethiran tops Vaddukoddai and Uduppidy, Sajith wins Manipay
+
+*2024-09-22 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102175/ariyanethiran-tops-vaddukoddai-and-uduppidy-sajith-wins-manipay) · `en`
+
+The results of the Vaddukoddai, Manipay and Uduppidy polling divisions in Jaffna District have been released.
+
+Tamil common candidate P.  Ariyanethiran has received the highest number of votes in the Vaddukoddai polling division in Jaffna District with a total of 11,170 votes.
+
+Meanwhile, Sajith Premadasa has topped the Manipay polling division in the Jaffna District with 11,609 votes.
+
+Ariyanethiran has also secured victory in the Uduppidy polling division in the Jaffna District with 8,467 votes.
+
+◼️
+
+[Data](articles/2bd026e7.json)
+
+---
+
+### அரசியல்வாதிகள், பிக்குகள் நாட்டை விட்டு வெளியேறுகின்றனர்
+
+*2024-09-22 09:46:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்வாதிகள்-பிக்குகள்-நாட்டை-விட்டு-வெளியேறுகின்றனர்/175-344167) · `ta`
+
+பண்டாரநாயக்க சர்வதேச விமான நிலையத்தின் ஊடாக பௌத்த பிக்கு ஒருவர் உட்பட பல அரசியல்வாதிகள் நாட்டை விட்டு வெளியேறியுள்ளதாக விமான நிலையத்தின் மூத்த அதிகாரி ஒருவர் தெரிவித்தார்.
+
+அதன்படி, முன்னாள் அமைச்சர் சுசந்த புஞ்சிநிலமே நேற்று மாலை (21) பிற்பகல் 2.25 மணியளவில் நாட்டிலிருந்து சென்னைக்கு புறப்பட்டார்.
+
+ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார நேற்று 11.15 மணியளவில் தாய்லாந்துக்கு பயணமானார். .
+
+இதேவேளை, வணக்கத்திற்குரிய இத்தேகந்தே சத்தாதிஸ்ஸ தேரர் இன்று அதிகாலை 12.50 மணியளவில் ஹொங்கொங்கிற்கு புறப்பட்டார். R
+
+◼️
+
+[Data](articles/517eab2f.json)
+
+---
+
+### யாழ்ப்பாண மாவட்ட ஊர்காவற்துறை தேர்தல் முடிவுகள்
+
+*2024-09-22 09:39:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்ட-ஊர்காவற்துறை-தேர்தல்-முடிவுகள்/175-344166) · `ta`
+
+◼️
+
+[Data](articles/e9b60723.json)
+
+---
+
+### Sajith wins in Ududumbara, AKD clinches Mihintale and Galle
+
+*2024-09-22 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102173/sajith-wins-in-ududumbara-akd-clinches-mihintale-and-galle-) · `en`
+
+The 2024 presidential election results of the Mihintale, Ududumbara and Galle polling divisions have been released.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of votes in the Mihintale polling division in Anuradhapura District with a total of 26,034 votes.
+
+Meanwhile, Sajith Premadasa has topped the Ududumbara polling division in the Kandy District with 22,336 votes.
+
+Dissanayake has also secured victory in the Galle polling division in the Galle District with 34,839 votes.
+
+◼️
+
+[Data](articles/5cf71f8b.json)
+
+---
 
 ### Ududumbara Sajith
 
@@ -47,6 +111,16 @@ The official voting outcome of the Udduumbara Electoral Elections in the Kandy D
 [Data](articles/1fd6450f.json)
 
 [Extended Data](ext_articles/1fd6450f.ext.json)
+
+---
+
+### திருகோணமலை மாவட்ட சேருவில தேர்தல் முடிவுகள்
+
+*2024-09-22 09:31:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-மாவட்ட-சேருவில-தேர்தல்-முடிவுகள்/175-344165) · `ta`
+
+◼️
+
+[Data](articles/8a2e9603.json)
 
 ---
 
@@ -90,6 +164,16 @@ The official voting outcome of the Electoral Authority in the Anuradhapura Distr
 
 ---
 
+### திருகோணமலை சேருவில தொகுதி வாக்களிப்பு
+
+*2024-09-22 09:28:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திருகோணமலை-சேருவில-தொகுதி-வாக்களிப்பு/75-344164) · `ta`
+
+◼️
+
+[Data](articles/159dfa7d.json)
+
+---
+
 ### Polgahawela Jayath
 
 *2024-09-22 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201336) · `si`
@@ -105,6 +189,16 @@ The official voting outcome of the Polgahawela electorate in the Kurunegala Dist
 [Data](articles/e11b31e0.json)
 
 [Extended Data](ext_articles/e11b31e0.ext.json)
+
+---
+
+### திருகோணமலை மாவட்டம்: தேர்தல் முடிவுகள்
+
+*2024-09-22 09:27:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-மாவட்டம்-தேர்தல்-முடிவுகள்/175-344163) · `ta`
+
+◼️
+
+[Data](articles/438889f4.json)
 
 ---
 
@@ -1869,127 +1963,5 @@ Kurunegala District voting process: Citizens cast ballots at designated polling 
 [Data](articles/31500b30.json)
 
 [Extended Data](ext_articles/31500b30.ext.json)
-
----
-
-### Ranil tops Jaffna postal votes
-
-*2024-09-22 05:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102152/ranil-tops-jaffna-postal-votes) · `en`
-
-The postal vote result of the Jaffna District in the 2024 Presidential Election has been released by the Election Commission.
-
-Independent candidate President Ranil Wickremesinghehas received the highest number of postal votes in the district with a total of 9,277 postal votes.
-
-◼️
-
-[Data](articles/0afc9b47.json)
-
-[Extended Data](ext_articles/0afc9b47.ext.json)
-
----
-
-### Ariyanethiran wins in Jaffna
-
-*2024-09-22 05:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102151/ariyanethiran-wins-in-jaffna) · `en`
-
-The results of the Jaffna polling division in Jaffna District for the 2024 Presidential Election have been released by the Election Commission with Tamil common candidate P. Ariyanethiran coming up top.
-
-Ariyanethiran has topped the Jaffna polling division securing 7,494 votes.
-
-◼️
-
-[Data](articles/6cc3bb48.json)
-
-[Extended Data](ext_articles/6cc3bb48.ext.json)
-
----
-
-### Galle District: Ambalangoda Volume
-
-*2024-09-22 05:20:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/காலி-மாவட்டம்-அம்பலாங்கொட-தொகுதி/93-344134) · `ta`
-
-Here's a summary of "Galle District: Ambalangoda Volume" in approximately 200 characters:
-
-
-
-Ambalangoda, a coastal town in Galle District, Sri Lanka, known for its traditional mask-making industry. The area produces various types of masks used in local theater performances.
-
-🟩
-
-◼️
-
-[Data](articles/6cbeb7fa.json)
-
-[Extended Data](ext_articles/6cbeb7fa.ext.json)
-
----
-
-### Postal vote results of Kurunegala
-
-*2024-09-22 05:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102150/postal-vote-results-of-kurunegala-) · `en`
-
-The postal vote result of the Kurunegala District in the 2024 Presidential Election has been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 47,126 postal votes.
-
-◼️
-
-[Data](articles/9af8b3a5.json)
-
-[Extended Data](ext_articles/9af8b3a5.ext.json)
-
----
-
-### Results of Ambalangoda polling division
-
-*2024-09-22 04:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102149/results-of-ambalangoda-polling-division-) · `en`
-
-The results of the Ambalangoda polling division in Galle District for the 2024 Presidential Election have been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has topped the Ambalangoda polling division securing 33,026 votes.
-
-◼️
-
-[Data](articles/e017405c.json)
-
-[Extended Data](ext_articles/e017405c.ext.json)
-
----
-
-### Galle - Ambalangoda
-
-*2024-09-22 04:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201301) · `si`
-
-Anura Kumara Dissanayake wins Ambalangoda electorate in Galle District with 33,026 votes.
-
-🟩
-
-The official voting outcome of the Ambalangoda Electorate in Galle District has been released and Anura Kumara Dissanayake has won the area with 33,026 votes.
-
-◼️
-
-[Data](articles/2adab80a.json)
-
-[Extended Data](ext_articles/2adab80a.ext.json)
-
----
-
-### 43,827 votes in Matara constituency
-
-*2024-09-22 04:35:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறை-தொகுதியில்-அனுரவுக்கு-43-827-வாக்குகள்/175-344133) · `ta`
-
-Here's a summary of 43,827 votes in Matara constituency in approximately 200 characters:
-
-
-
-"Matara constituency election results: 43,827 total votes cast. This number represents the combined votes from all candidates in this specific electoral district."
-
-🟩
-
-◼️
-
-[Data](articles/37f4d7d4.json)
-
-[Extended Data](ext_articles/37f4d7d4.ext.json)
 
 ---

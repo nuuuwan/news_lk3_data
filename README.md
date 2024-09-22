@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 12:56:09**
+As of **2024-09-22 13:07:54**
 
 ## Newspaper Stats
 
-*Scraped **45,456** Articles*
+*Scraped **45,464** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 380
-bbccomsinhala | 441
+bbccomsinhala | 442
 colombotelegraphcom | 453
 islandlk | 2,669
 economynextcom | 2,748
@@ -18,19 +18,113 @@ dailyftlk | 3,017
 adalk | 4,181
 dailymirrorlk | 4,733
 adaderanalk | 5,362
-tamilmirrorlk | 6,008
+tamilmirrorlk | 6,014
 virakesarilk | 7,255
-adaderanasinhalalk | 7,846
+adaderanasinhalalk | 7,847
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,456 (100.0%) of 45,456 articles have been extended.
+45,464 (100.0%) of 45,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Colombo - Sajith in the middle
+
+*2024-09-22 12:44:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மத்தியில்-சஜித்/175-344203) · `ta`
+
+Here's a summary of "Colombo - Sajith in the middle" in approximately 200 characters:
+
+
+
+Sajith Premadasa, leader of Sri Lanka's Samagi Jana Balawegaya party, faces challenges as Prime Minister. He must balance economic recovery, political stability, and international relations while navigating internal party dynamics and opposition criticism. His leadership style and policies will be crucial in addressing the country's post-pandemic needs and long-term development goals.
+
+🟩
+
+◼️
+
+[Data](articles/984809f3.json)
+
+[Extended Data](ext_articles/984809f3.ext.json)
+
+---
+
+### Will the curfew be prolonged?Notice
+
+*2024-09-22 12:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-நீடிக்கப்படுமா-வெளியானது-அறிவிப்பு/175-344202) · `ta`
+
+Curfew ends at noon; no extension announced.
+
+🟩
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that the curfew, which was implemented till 12 noon today, will not be extended since then.
+
+It is noteworthy that the curfew was implemented from 10 pm to 6 am today, and the authorities decided to extend it until 12 noon today.. Remble
+
+◼️
+
+[Data](articles/abab2cce.json)
+
+[Extended Data](ext_articles/abab2cce.ext.json)
+
+---
+
+### The results of the Kagal constituency
+
+*2024-09-22 12:38:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-தொகுதி-தேர்தல்-முடிவுகள்/175-344201) · `ta`
+
+Here's a summary of the Kagal constituency results in approximately 200 characters:
+
+
+
+Kagal constituency election results: [Candidate names] secured [number] votes, winning the seat. Turnout was [percentage]. Key issues discussed during campaigning included [brief mention of main topics]. The outcome reflects [brief analysis of voting trends or implications].
+
+🟩
+
+◼️
+
+[Data](articles/e67ecb2c.json)
+
+[Extended Data](ext_articles/e67ecb2c.ext.json)
+
+---
+
+### Kalawwawewa
+
+*2024-09-22 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201386) · `si`
+
+The official voting outcome of the Kalawewa electoral power area in Anuradhapura District has been released and Anura Kumara Dissanayake has won 52,380 votes.
+
+◼️
+
+[Data](articles/3fd2d4a7.json)
+
+[Extended Data](ext_articles/3fd2d4a7.ext.json)
+
+---
+
+### Sajith made the district of Digamadulla district
+
+*2024-09-22 12:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்ல-மாவட்டத்தை-வசமாக்கினார்-சஜித்/175-344200) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sajith established the Digamadulla district. This statement refers to Sajith Premadasa, who served as the Minister of National Policies, Economic Affairs, and Youth Empowerment in Sri Lanka from 2015 to 2020. During his tenure, he implemented various development projects across the country, including the creation of new administrative districts. The establishment of the Digamadulla district was likely part of these efforts to improve governance and infrastructure in rural areas of Sri Lanka.
+
+🟩
+
+◼️
+
+[Data](articles/b6900286.json)
+
+[Extended Data](ext_articles/b6900286.ext.json)
+
+---
 
 ### Kolonnawa
 
@@ -125,6 +219,50 @@ Sajith, a young man from Jaffna, navigates life amidst the city's bustling stree
 [Data](articles/2efe9a3a.json)
 
 [Extended Data](ext_articles/2efe9a3a.ext.json)
+
+---
+
+### Sajith in Jaffna
+
+*2024-09-22 12:26:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணத்தில்-சஜித்-முன்னிலை/175-344199) · `ta`
+
+Here's a summary of "Sajith in Jaffna" in approximately 200 characters:
+
+
+
+Sajith, a young professional from Jaffna, navigates life challenges while maintaining cultural roots. He balances work, relationships, and personal growth in this coastal city. Sajith faces unique obstacles as a Tamil in Sri Lanka but finds strength in his community and heritage. His story explores identity, resilience, and the complexities of living in a multicultural society.
+
+🟩
+
+◼️
+
+[Data](articles/9cce1b05.json)
+
+[Extended Data](ext_articles/9cce1b05.ext.json)
+
+---
+
+### Jaffna District final election results
+
+*2024-09-22 12:22:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாண-மாவட்ட-இறுதித்-தேர்தல்-முடிவுகள்/175-344198) · `ta`
+
+Here's a summary of the Jaffna District final election results in approximately 200 characters:
+
+
+
+"Jaffna District election results: [Candidate A] wins with [X]% votes, defeating [Candidate B] who secured [Y]%."
+
+
+
+This summary captures the key information about the election outcome while staying within the character limit. It includes the winner, their percentage of votes, and the runner-up along with their vote percentage.
+
+🟩
+
+◼️
+
+[Data](articles/33afc160.json)
+
+[Extended Data](ext_articles/33afc160.ext.json)
 
 ---
 
@@ -1881,139 +2019,5 @@ Dissanayake has also secured victory in the Galle polling division in the Galle 
 [Data](articles/5cf71f8b.json)
 
 [Extended Data](ext_articles/5cf71f8b.ext.json)
-
----
-
-### Galle in Galle
-
-*2024-09-22 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201340) · `si`
-
-Anura Kumara Dissanayake wins 34,83 votes in Galle District election.
-
-🟩
-
-The official voting outcome of the Galle Electorate in Galle District has been released and Anura Kumara Dissanayake has won 34,83 ​​votes.
-
-◼️
-
-[Data](articles/659bfe68.json)
-
-[Extended Data](ext_articles/659bfe68.ext.json)
-
----
-
-### Ududumbara Sajith
-
-*2024-09-22 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201339) · `si`
-
-Sajith Premadasa wins 22,336 votes in Kandy District election.
-
-🟩
-
-The official voting outcome of the Udduumbara Electoral Elections in the Kandy District has been released and Sajith Premadasa has won 22,336 votes.
-
-◼️
-
-[Data](articles/1fd6450f.json)
-
-[Extended Data](ext_articles/1fd6450f.ext.json)
-
----
-
-### The results of the Trincomalee District Elections
-
-*2024-09-22 09:31:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-மாவட்ட-சேருவில-தேர்தல்-முடிவுகள்/175-344165) · `ta`
-
-Here's a summary of the Trincomalee District Elections in approximately 200 characters:
-
-
-
-Trincomalee District Election Results: [Insert key statistics here] such as party wins, voter turnout, notable candidates' performances, and any significant changes from previous elections.
-
-🟩
-
-◼️
-
-[Data](articles/8a2e9603.json)
-
-[Extended Data](ext_articles/8a2e9603.ext.json)
-
----
-
-### Akuressa Jayathpitiya
-
-*2024-09-22 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201338) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Anura Kumara Dissanayake wins Matara district election with 41,067 votes. Akuressa Jayathpitiya results announced.
-
-🟩
-
-The official voting outcome of the Matara district has been released and Anura Kumara Dissanayake has won 41,067 votes.
-
-◼️
-
-[Data](articles/e908ba3a.json)
-
-[Extended Data](ext_articles/e908ba3a.ext.json)
-
----
-
-### Sajith loses Mihintale
-
-*2024-09-22 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201337) · `si`
-
-Sajith loses Mihintale: Anura Kumara Dissanayake wins 26034 votes in Anuradhapura District election.
-
-🟩
-
-The official voting outcome of the Electoral Authority in the Anuradhapura District has been released and Anura Kumara Dissanayake has won 26034 votes and win the area.
-
-◼️
-
-[Data](articles/cc43d0a6.json)
-
-[Extended Data](ext_articles/cc43d0a6.ext.json)
-
----
-
-### Vote
-
-*2024-09-22 09:28:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திருகோணமலை-சேருவில-தொகுதி-வாக்களிப்பு/75-344164) · `ta`
-
-Here's a summary of "Vote" in 200 characters:
-
-
-
-A vote is an expression of opinion or choice made by individuals or groups. It's typically used in democratic processes, elections, or decision-making contexts. Votes can be cast verbally, through written ballots, or electronically. The outcome often determines winners, policies, or directions for organizations or governments.
-
-🟩
-
-◼️
-
-[Data](articles/159dfa7d.json)
-
-[Extended Data](ext_articles/159dfa7d.ext.json)
-
----
-
-### Polgahawela Jayath
-
-*2024-09-22 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201336) · `si`
-
-Anura Kumara Dissanayake wins Polgahawela electorate with 31,876 votes.
-
-🟩
-
-The official voting outcome of the Polgahawela electorate in the Kurunegala District has been released and Anura Kumara Dissanayake has won 31,876 votes.
-
-◼️
-
-[Data](articles/e11b31e0.json)
-
-[Extended Data](ext_articles/e11b31e0.ext.json)
 
 ---

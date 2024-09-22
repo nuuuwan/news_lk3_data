@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 14:10:09**
+As of **2024-09-22 14:22:30**
 
 ## Newspaper Stats
 
-*Scraped **45,476** Articles*
+*Scraped **45,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ dailymirrorlk | 4,733
 adaderanalk | 5,364
 tamilmirrorlk | 6,021
 virakesarilk | 7,255
-adaderanasinhalalk | 7,848
+adaderanasinhalalk | 7,849
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,476 (100.0%) of 45,476 articles have been extended.
+45,476 (100.0%) of 45,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### යටියන්තොට සජිත්ට
+
+*2024-09-22 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201388) · `si`
+
+කෑගල්ල දිස්ත්‍රික්කයේ යටියන්තොට මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 23,891ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/0eda0ed8.json)
+
+---
 
 ### Sri Lanka heads to first-ever presidential run-off as second count confirmed
 
@@ -2003,23 +2015,5 @@ Galle District election results: [Insert specific details about party wins, cand
 [Data](articles/66cb4ae7.json)
 
 [Extended Data](ext_articles/66cb4ae7.ext.json)
-
----
-
-### Jaya Sajith to Vavuniya
-
-*2024-09-22 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201345) · `si`
-
-Sajith Premadasa wins Vavuniya electorate with 33,731 votes.
-
-🟩
-
-The official voting outcome of the Vavuniya Electorate in Vavuniya district has been released and Sajith Premadasa has won 33,731 categories.
-
-◼️
-
-[Data](articles/bee66751.json)
-
-[Extended Data](ext_articles/bee66751.ext.json)
 
 ---

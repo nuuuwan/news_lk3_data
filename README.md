@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 17:22:51**
+As of **2024-09-22 17:39:09**
 
 ## Newspaper Stats
 
-*Scraped **45,584** Articles*
+*Scraped **45,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,185
 dailymirrorlk | 4,733
-adaderanalk | 5,370
+adaderanalk | 5,372
 tamilmirrorlk | 6,061
 virakesarilk | 7,268
-adaderanasinhalalk | 7,894
+adaderanasinhalalk | 7,895
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,584 (100.0%) of 45,584 articles have been extended.
+45,587 (100.0%) of 45,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Mahara - Katana - Gampaha Election Results
+
+*2024-09-22 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201435) · `si`
+
+Here's a summary of the Mahara - Katana - Gampaha election results in approximately 200 characters:
+
+
+
+"Mahara-Katana-Gampaha election: [Candidate names] won seats. Turnout was high. Issues like infrastructure development and economic growth were key campaign topics. The election saw increased voter participation compared to previous years."
+
+🟩
+
+◼️
+
+[Data](articles/cff517db.json)
+
+[Extended Data](ext_articles/cff517db.ext.json)
+
+---
+
+### Anura, Sajith and Ranil’s first count totals released as second count begins
+
+*2024-09-22 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102194/anura-sajith-and-ranils-first-count-totals-released-as-second-count-begins) · `en`
+
+The final cumulative result of the all-island vote count of the top three candidates, prior to the second count as previously announced by the Election Commission, has been announced.
+
+Accordingly, based on the first count of the cumulative result of the 2024 Presidential Election, NPP’s Anura Kumara Dissanayake leads with 5,634,915 votes (42.31%).
+
+SJB’s Sajith Premadasa is second with 4,363,035 votes, which is 32.76% of the total votes.
+
+Meanwhile, incumbent President Ranil Wickremesinghe has polled a total of 2,299,767 votes (17.27%) but fails to qualify for the second count.
+
+Earlier today, the Chairman of the Election Commission, R.M.A.L. Ratnayake officially announced the counting of second preference of the two leading candidates of the 2024 presidential election, in view of the prevailing situation of the vote results.
+
+...
+
+[Data](articles/e21a1729.json)
+
+[Extended Data](ext_articles/e21a1729.ext.json)
+
+---
 
 ### The final election results of the Kandy district
 
@@ -63,6 +105,30 @@ Note: The exact details would depend on the specific election data available. Th
 [Data](articles/a4dd1693.json)
 
 [Extended Data](ext_articles/a4dd1693.ext.json)
+
+---
+
+### Sajith wins in Mahiyanganaya, Hali-Ela, Welimada, Puttalam, Passara, Nuwara-Eliya  and Maskeliya
+
+*2024-09-22 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102193/sajith-wins-in-mahiyanganaya-hali-ela-welimada-puttalam-passara-nuwara-eliya-and-maskeliya) · `en`
+
+Opposition Leader Sajith Premadasa has obtained the highest number of votes in the Mahiyanganaya polling division in Badulla District with a total of 38,564 votes.
+
+Meanwhile, SJB leader Premadasa has also polled the highest votes in the Hali-Ela polling division in the Badulla District.
+
+Premadasa has also secured victory in the Welimada polling division in the Badulla District.
+
+The opposition leader is also placed first in the Puttalam polling division in Puttalam district.
+
+The Passara polling division in Badulla District has also been won by Sajith Premadasa after obtaining 23,031 votes.
+
+He is also the winner in the Nuwara-Eliya Maskeliya polling division in the Nuwara-Eliya District.
+
+◼️
+
+[Data](articles/cbee7df9.json)
+
+[Extended Data](ext_articles/cbee7df9.ext.json)
 
 ---
 
@@ -2057,71 +2123,5 @@ Ranil Wickremesinghe, who contested independently, got 14,893 votes while the Na
 [Data](articles/6be1f9a6.json)
 
 [Extended Data](ext_articles/6be1f9a6.ext.json)
-
----
-
-### Has the teacher assistant appointment issue been abandoned?
-
-*2024-09-22 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/194480) · `ta`
-
-Teacher Assistant interviews suspended by court order. Presidential candidates promise withdrawal after election, but timing uncertain due to campaign schedule.
-
-🟩
-
-Interviews for Teacher Assistants, which are scheduled to be held on August 17, have been suspended by a court order. Even though the presidential politicians have said that the petition for the ban will be withdrawn on the orders of the president immediately, but they do not have time to take action due to the presidential election period.
-
-◼️
-
-[Data](articles/49ac97cd.json)
-
-[Extended Data](ext_articles/49ac97cd.ext.json)
-
----
-
-### Work on the second vote
-
-*2024-09-22 13:56:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டாவது-வாக்கெண்ணுமாறு-பணிப்பு/175-344213) · `ta`
-
-Elections Commission announces second preferential vote due to no candidate reaching 50%+1 threshold. Candidates Anuradha Dissanayake and Sajith Premadasa removed from race. Remaining candidates' votes will be counted. Voting centers instructed to proceed with second option.
-
-🟩
-
-The Chairman of the Elections Commission, RLAM, announced the decision to go to the second preferential vote, as no candidates received a 50 percent plus one vote in this year's presidential election in accordance with the 1981 Presidential Elections Act.
-
-He also announced that all other candidates are expecting the National People's Power candidate Anurakumara Dissanayake and Sajith Premadasa have been sacked in the presidential election.
-
-"However, if the second and third preferential votes were marked to Dissanayake and Premadasa, they would be added to the remaining two candidates," Ratnayake announced.
-
-“All voting counts and centers have been asked to go to the second option number and send the decision to the Commission,” he added.
-
-◼️
-
-[Data](articles/1d5ac24a.json)
-
-[Extended Data](ext_articles/1d5ac24a.ext.json)
-
----
-
-### Who is the candidate for the presidency?
-
-*2024-09-22 13:40:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பதவிக்கு-தகுதியான-வேட்பாளர்-யார்/175-344212) · `ta`
-
-Candidate for presidency: Elections Commissioner Saman Sri Ratnayake states results finalized today. Candidate needs 50% +1 vote. If not achieved, preferential votes counted. Overall results announcement determines presidential candidate.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake said that the Presidential election results will be finalized today (22) evening.
-
-A candidate must get 50 percent of the votes and one more votes.
-
-The Election Commission said that if a candidate does not get that percentage, he should count the preferential votes.
-
-After the overall election results are released, it will be announced who will be the candidate for the presidency. Remble
-
-◼️
-
-[Data](articles/151588ef.json)
-
-[Extended Data](ext_articles/151588ef.ext.json)
 
 ---

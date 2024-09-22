@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 18:41:11**
+As of **2024-09-22 18:57:49**
 
 ## Newspaper Stats
 
-*Scraped **45,606** Articles*
+*Scraped **45,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 454
 islandlk | 2,669
 economynextcom | 2,748
 dailyftlk | 3,017
-adalk | 4,185
+adalk | 4,186
 dailymirrorlk | 4,733
 adaderanalk | 5,373
 tamilmirrorlk | 6,066
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,898
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,606 (100.0%) of 45,606 articles have been extended.
+45,607 (100.0%) of 45,607 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1326,6 +1326,28 @@ Matale District election results: [Insert specific details about party wins, can
 
 ---
 
+### We have won a major vote in more than 13 lakhs
+
+*2024-09-22 15:20:11* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-13ක-වැඩි-ඡන්ද-ප්‍රමාණයකින්-අපි-ජයගෙන-තිබෙනවා/11-412069) · `si`
+
+Sri Lanka election: UNP MP Vijitha Herath claims Anura Kumara Dissanayake will win by over 1 million votes. Second preference due to inability to exceed 50%. Victory not threatened despite action taken.
+
+🟩
+
+UNP MP Vijitha Herath said that Anura Kumara Dissanayake in the national popularity will win elections by 13 lakhs.
+
+Special Statement, he said that the second preference was calculated due to the unable to exceed the 50 percent.
+
+However, he said that the action was not a problem for Anura Kumara Dissanayake's victory.
+
+◼️
+
+[Data](articles/0b7a9c7e.json)
+
+[Extended Data](ext_articles/0b7a9c7e.ext.json)
+
+---
+
 ### Holly Ela Election Results
 
 *2024-09-22 15:19:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹாலி-எல-தேர்தல்-முடிவுகள்/175-344230) · `ta`
@@ -2165,23 +2187,5 @@ The official voting outcome of Dodangaslanda Elections in the Kurunegala Distric
 [Data](articles/b5c2c9ac.json)
 
 [Extended Data](ext_articles/b5c2c9ac.ext.json)
-
----
-
-### Moratuwa Win
-
-*2024-09-22 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201398) · `si`
-
-Anura Kumara Dissanayake wins Moratuwa election with 45,299 votes.
-
-🟩
-
-The official voting outcome of the Moratuwa electoral power in Colombo has been released and Anura Kumara Dissanayake has won the area with 45299 votes.
-
-◼️
-
-[Data](articles/787f3b97.json)
-
-[Extended Data](ext_articles/787f3b97.ext.json)
 
 ---

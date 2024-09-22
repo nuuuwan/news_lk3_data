@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 16:38:01**
+As of **2024-09-22 16:54:53**
 
 ## Newspaper Stats
 
-*Scraped **45,573** Articles*
+*Scraped **45,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,185
 dailymirrorlk | 4,733
-adaderanalk | 5,369
+adaderanalk | 5,370
 tamilmirrorlk | 6,054
 virakesarilk | 7,268
 adaderanasinhalalk | 7,891
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,891
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,573 (100.0%) of 45,573 articles have been extended.
+45,574 (100.0%) of 45,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Kelaniya, Chilaw, Kuliyapitiya and Anamaduwa won by Anura Kumara
+
+*2024-09-22 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102192/kelaniya-chilaw-kuliyapitiya-and-anamaduwa-won-by-anura-kumara) · `en`
+
+Nationals People’s Power (NPP) Presidential Candidate Anura Kumara Dissanayake has emerged victorious in the Anamaduwa polling division in the Puttalam District.
+
+He has also polled the highest number of votes in the Chilaw polling division in the Puttalam District with 47,231 votes.
+
+In the Kuliyapitiya polling division of the Kurunegala District, Dissanayake has taken top spot with 36,555 votes.
+
+He has also won the Kelaniya polling division in Gampaha District.
+
+◼️
+
+[Data](articles/7098040f.json)
+
+[Extended Data](ext_articles/7098040f.ext.json)
+
+---
 
 ### AKD the winner in Awissawella, Mawanella, Rambukkana, Hakmana and Wennappuwa
 
@@ -2069,25 +2089,5 @@ Anura won the Moneragala constituency election.
 [Data](articles/32d594fc.json)
 
 [Extended Data](ext_articles/32d594fc.ext.json)
-
----
-
-### Anuradhapura District - Kalawewa election results
-
-*2024-09-22 13:02:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுராதபுரம்-மாவட்டம்-கலாவெவ-தேர்தல்-முடிவுகள்/175-344207) · `ta`
-
-Here's a summary of the Anuradhapura District - Kalawewa election results in approximately 200 characters:
-
-
-
-"Kalawewa election results: [Candidate A] won with 52% of votes, followed by [Candidate B] with 45%. Turnout was 75%, higher than previous elections. Local issues like infrastructure development and economic growth influenced voter decisions."
-
-🟩
-
-◼️
-
-[Data](articles/04c9dca8.json)
-
-[Extended Data](ext_articles/04c9dca8.ext.json)
 
 ---

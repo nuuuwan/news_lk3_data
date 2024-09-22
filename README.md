@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 19:37:58**
+As of **2024-09-22 19:56:15**
 
 ## Newspaper Stats
 
-*Scraped **45,615** Articles*
+*Scraped **45,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,93 @@ dailymirrorlk | 4,733
 adaderanalk | 5,373
 tamilmirrorlk | 6,067
 virakesarilk | 7,278
-adaderanasinhalalk | 7,901
+adaderanasinhalalk | 7,904
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,613 (100.0%) of 45,615 articles have been extended.
+45,618 (100.0%) of 45,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
 
-### புதிய ஜனாதிபதிக்கு இடமளித்தார் ரணில்
+### Here are the second preferential results
+
+*2024-09-22 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201445) · `si`
+
+Second preference presidential election results announced tonight. Several districts' outcomes revealed.
+
+🟩
+
+The second preference of the Presidential Election was established this evening today (22) and the results of several districts have been released.
+
+◼️
+
+[Data](articles/1cdc7e21.json)
+
+[Extended Data](ext_articles/1cdc7e21.ext.json)
+
+---
+
+### Moneragala Second Preferences
+
+*2024-09-22 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201444) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Anura Kumara Dissanayake received 1,3395 preferential votes as his second preference in Moneragala.
+
+🟩
+
+The second number of preferential votes received by Anura Kumara Dissanayake was 1,3,395.
+
+◼️
+
+[Data](articles/b8af1302.json)
+
+[Extended Data](ext_articles/b8af1302.ext.json)
+
+---
+
+### Ranil allowed the new president
 
 *2024-09-22 19:07:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-இடமளித்தார்-ரணில்/175-344258) · `ta`
 
-நாட்டின் புதிய ஜனாதிபதிக்கு இடமளிக்கும் வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்க ஞாயிற்றுக்கிழமை (22) அன்று ஜனாதிபதி அலுவலகத்தில் இருந்த தனது உடைமை​களை அகற்றியுள்ளார்.
+Ranil Wickremesinghe vacated presidential office, handing over state vehicles to new president.
 
-அத்துடன், ஜனாதிபதி பதவிக்கு சொந்தமான அனைத்து அரச வாகனங்களையும் கையளித்துள்ளதுடன், பெஜெட் வீதியிலுள்ள உத்தியோகபூர்வ இல்லத்திலிருந்து  புறப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+President Ranil Wickremesinghe removed his possessions at the presidential office on Sunday (22) to accommodate the country's new president.
+
+It is also worth noting that all the state vehicles belonging to the presidency have been handed over from the official residence of Bejet Road.
 
 ◼️
 
 [Data](articles/118d4709.json)
+
+[Extended Data](ext_articles/118d4709.ext.json)
+
+---
+
+### Second preferential result of Matara
+
+*2024-09-22 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201443) · `si`
+
+Anura Kumara Dissanayake received 3,130 preferential votes as his second-best result in Matara.
+
+🟩
+
+The second number of preferential votes received by Anura Kumara Dissanayake was 3,130 preferential votes.
+
+◼️
+
+[Data](articles/ae65e8ff.json)
+
+[Extended Data](ext_articles/ae65e8ff.ext.json)
 
 ---
 
@@ -2133,59 +2197,5 @@ Here's a summary of the Nuwara Eliya District - Kotmalai election results in app
 [Data](articles/3e67526d.json)
 
 [Extended Data](ext_articles/3e67526d.ext.json)
-
----
-
-### Nattandiya
-
-*2024-09-22 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201405) · `si`
-
-Anura Kumara Dissanayake wins Nattandiya electorate with 36,963 votes.
-
-🟩
-
-The official voting outcome of the Nattandiya Electorate in the Puttalam District has been released and Anura Kumara Dissanayake has won 36,963 votes.
-
-◼️
-
-[Data](articles/0c51ece1.json)
-
-[Extended Data](ext_articles/0c51ece1.ext.json)
-
----
-
-### Rambukkana Regular
-
-*2024-09-22 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201404) · `si`
-
-Anura Kumara Dissanayake wins Rambukkana electorate with 26012 votes.
-
-🟩
-
-The official voting outcome of the Rambukkana Electorate in Kegalle District has been released and Anura Kumara Dissanayake has won 26012 votes.
-
-◼️
-
-[Data](articles/6ecfdd85.json)
-
-[Extended Data](ext_articles/6ecfdd85.ext.json)
-
----
-
-### Dedigama
-
-*2024-09-22 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201403) · `si`
-
-Anura Kumara Dissanayake wins Dedigama electorate with 33,226 votes in Kegalle District election results summary.
-
-🟩
-
-The official voting outcome of the Dedigama Electorate in Kegalle District has been released and Anura Kumara Dissanayake has won the area with 33226 votes.
-
-◼️
-
-[Data](articles/e336b2d7.json)
-
-[Extended Data](ext_articles/e336b2d7.ext.json)
 
 ---

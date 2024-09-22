@@ -1,0 +1,17 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0dad\u0dca\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dbd\u0dba \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba: \u0db8\u0dd0\u0dad\u0dd2\u0dc0\u0dbb\u0dab \u0db4\u0dca\u0dbb\u0dad\u0dd2 .\u0dbd",
+      "body_lines": []
+    },
+    "en": {
+      "title": "Trincomalee District: Election Results",
+      "body_lines": []
+    }
+  },
+  "summary_lines": [
+    "Here's a summary of the Trincomalee District election results in approximately 200 characters:",
+    "",
+    "\"Trincomalee District election results show [party] won [number] seats, while [opposing party] secured [number]. Voter turnout was [percentage]. Key issues included [issue1], [issue2], and [issue3].\""
+  ]
+}

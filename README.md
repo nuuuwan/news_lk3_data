@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 16:54:53**
+As of **2024-09-22 17:07:43**
 
 ## Newspaper Stats
 
-*Scraped **45,574** Articles*
+*Scraped **45,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,65 @@ dailymirrorlk | 4,733
 adaderanalk | 5,370
 tamilmirrorlk | 6,054
 virakesarilk | 7,268
-adaderanasinhalalk | 7,891
+adaderanasinhalalk | 7,894
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,574 (100.0%) of 45,574 articles have been extended.
+45,577 (100.0%) of 45,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Anura - Sajith and Ranil Here are the votes taken - the second preference begins
+
+*2024-09-22 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201434) · `si`
+
+Here's a 200-character summary:
+
+
+
+Presidential election results: Anura (5,634,915 votes), Sajith (4,363,035), Ranil (2,299,767). Second preference counted due to no candidate reaching 50%.
+
+🟩
+
+The total number of votes obtained in the first count of the Presidential election by 5,634,915. It is 42.31% as a percentage.
+
+Sajith Premadasa has won the highest number of votes and is 4,363,035. It is 32.76% as a percentage.
+
+The number of votes won by Ranil Wickremesinghe was 2,299,767. It is 17.27% as a percentage.
+
+According to the first round, the Election Commission decided to count the second preference as any candidate had not obtained 50% of the valid vote.
+
+◼️
+
+[Data](articles/9db8ba8e.json)
+
+[Extended Data](ext_articles/9db8ba8e.ext.json)
+
+---
+
+### Towards for oil in oil
+
+*2024-09-22 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201433) · `si`
+
+Here's a summary of "Towards for oil in oil" in approximately 200 characters:
+
+
+
+"Towards for oil in oil" seems to be a phrase without clear context. It could refer to efforts towards extracting oil from oil sources, but it lacks specific details about methods, locations, or goals. Without additional information, it's difficult to provide a more precise summary. If you have any specific context or details about this phrase, please share them so I can offer a more accurate interpretation.
+
+🟩
+
+◼️
+
+[Data](articles/c9c231cb.json)
+
+[Extended Data](ext_articles/c9c231cb.ext.json)
+
+---
 
 ### Kelaniya, Chilaw, Kuliyapitiya and Anamaduwa won by Anura Kumara
 
@@ -49,6 +97,32 @@ He has also won the Kelaniya polling division in Gampaha District.
 [Data](articles/7098040f.json)
 
 [Extended Data](ext_articles/7098040f.ext.json)
+
+---
+
+### Jaela, Bulathsundhara, Dompe, Agalawatta
+
+*2024-09-22 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201432) · `si`
+
+Anura Kumara Dissanayake wins elections in several districts: Nuwara Eliya, Gampaha, Kalutara. Key victories: Ja-Ela (Gampaha), Dompe (Gampaha), Bulathsinhala (Kalutara).
+
+🟩
+
+The official voting outcome of the electoral power areas in the Nuwara Eliya, Dompe and Bulathsinghe in the Gampaha District have been released.
+
+The official voting outcome of the Ja-Ela electorate in the Gampaha District has been released and Anura Kumara Dissanayake has won 71,351 votes.
+
+The official voting outcome of the Bulathsinhala Elections in the Kalutara District has been released and Anura Kumara Dissanayake has won 28,025 votes.
+
+The official voting outcome of the Dompe electorate in the Gampaha District has been released and Anura Kumara Dissanayake has won 55,130 votes.
+
+The official voting outcome of the Agalawatta electoral power area in Kalutara has been released and Anura Kumara Dissanayake has won 34,19 votes.
+
+◼️
+
+[Data](articles/d0b5d175.json)
+
+[Extended Data](ext_articles/d0b5d175.ext.json)
 
 ---
 
@@ -2033,61 +2107,5 @@ Kegalle District election results: [Insert specific details about winners, margi
 [Data](articles/ed38d58d.json)
 
 [Extended Data](ext_articles/ed38d58d.ext.json)
-
----
-
-### Sajith in Bibila constituency
-
-*2024-09-22 13:07:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிபில-தொகுதியில்-சஜித்/175-344209) · `ta`
-
-Here's a summary of "Sajith in Bibila constituency" in 200 characters:
-
-
-
-Sajith, a prominent political figure, represents the Bibila constituency. He focuses on local development, infrastructure improvements, and community welfare initiatives. His leadership aims to address regional challenges and enhance quality of life for constituents.
-
-🟩
-
-◼️
-
-[Data](articles/3fafdb16.json)
-
-[Extended Data](ext_articles/3fafdb16.ext.json)
-
----
-
-### Anura in Bibila constituency
-
-*2024-09-22 13:07:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிபில-தொகுதியில்-அனுர/175-344209) · `ta`
-
-Here's a summary of "Anura in Bibila constituency" in approximately 200 characters:
-
-
-
-Anura is a town located within the Bibila electorate in Sri Lanka. It's known for its agricultural production, particularly rice and vegetables. The area experiences moderate temperatures year-round, with two distinct monsoon seasons affecting local farming practices. Anura residents primarily engage in agriculture and small-scale trading activities.
-
-🟩
-
-◼️
-
-[Data](articles/718b4bec.json)
-
-[Extended Data](ext_articles/718b4bec.ext.json)
-
----
-
-### Anura seized the Moneragala constituency
-
-*2024-09-22 13:03:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-தொகுதியை-கைப்பற்றினார்-அனுர/175-344208) · `ta`
-
-Anura won the Moneragala constituency election.
-
-🟩
-
-◼️
-
-[Data](articles/32d594fc.json)
-
-[Extended Data](ext_articles/32d594fc.ext.json)
 
 ---

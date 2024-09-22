@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 17:39:09**
+As of **2024-09-22 17:59:02**
 
 ## Newspaper Stats
 
-*Scraped **45,587** Articles*
+*Scraped **45,593** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 380
-bbccomsinhala | 443
+bbccomsinhala | 444
 colombotelegraphcom | 453
 islandlk | 2,669
 economynextcom | 2,748
@@ -18,19 +18,117 @@ dailyftlk | 3,017
 adalk | 4,185
 dailymirrorlk | 4,733
 adaderanalk | 5,372
-tamilmirrorlk | 6,061
+tamilmirrorlk | 6,064
 virakesarilk | 7,268
-adaderanasinhalalk | 7,895
+adaderanasinhalalk | 7,897
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,587 (100.0%) of 45,587 articles have been extended.
+45,593 (100.0%) of 45,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Polonnaruwa, Trincomalee and Kamburupitiya Vote results
+
+*2024-09-22 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201438) · `si`
+
+Here's a summary of the vote results for Polonnaruwa, Trincomalee, and Kamburupitiya in approximately 200 characters:
+
+
+
+Polonnaruwa: [Insert result]
+
+Trincomalee: [Insert result]
+
+Kamburupitiya: [Insert result]
+
+
+
+Note: The actual results would depend on the specific election data available. This placeholder indicates where the actual results should be inserted.
+
+🟩
+
+◼️
+
+[Data](articles/e3a547e9.json)
+
+[Extended Data](ext_articles/e3a547e9.ext.json)
+
+---
+
+### Yapahuwa and Kurunegala wins
+
+*2024-09-22 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201436) · `si`
+
+Here's a summary of Yapahuwa and Kurunegala wins in 200 characters:
+
+
+
+Yapahuwa and Kurunegala were key victories in Sri Lanka's history. Yapahuwa was captured from South Indian invaders in 1272 CE, marking a significant military triumph. Kurunegala, conquered in 1284 CE, became a crucial base for future campaigns against Tamil rebels. These wins showcased the strength and strategic prowess of Sri Lankan rulers during this period.
+
+🟩
+
+◼️
+
+[Data](articles/cb697685.json)
+
+[Extended Data](ext_articles/cb697685.ext.json)
+
+---
+
+### 30 people killed in Iranian coal mining accident24 people magic
+
+*2024-09-22 17:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-நிலக்கரி-சுரங்க-வெடி-விபத்தில்-30-பேர்-பலி-24-பேர்-மாயம்/50-344255) · `ta`
+
+Iranian coal mine explosion kills 30 injures 17; 24 workers missing. Rescue efforts ongoing. Investigation underway.
+
+🟩
+
+At least 30 workers were killed in an explosion caused by methane leak in coal mine in Iran. 17 people were seriously injured. 24 people have become magical. The search for them is fast.
+
+A coal mine operated 540 km southeast of Iran's capital Tehran. There were 70 workers working in this tunnel.
+
+Sudden explosion caused by methane leak in the mine. Firefighters rushed to the scene and fought for a long time and extinguished the fire. Rescuers were involved in the rescue of the accident.
+
+Of these, 30 were tragically killed. Another 17 people were seriously injured. They have been admitted to the hospital for treatment.
+
+Also, 24 people who were working during the explosion were missing. Authorities suspect that the crash may be trapped in the tunnel. The search for them is fast.
+
+...
+
+[Data](articles/d5453fb8.json)
+
+[Extended Data](ext_articles/d5453fb8.ext.json)
+
+---
+
+### Anuragumara Dissanayake ...
+
+*2024-09-22 17:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரகுமார-திசாநாயக்க-முதலிடத்தில்/175-344254) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Anuragumara Dissanayake leads election polls with 5,634,915 (42.31%) votes. Sajith Premadasa follows with 4,363,035 (32.76%). Ranil Wickremesinghe trails behind with 2,299,767 (17.27%) votes.
+
+🟩
+
+In the first polls based on the number of votes nationwide, Anuragumara Dissanayake tops the list with 5,634,915 - 42.31%.
+
+Sajith Premadasa secured 4,363,035 - 32.76% votes and Ranil Wickremesinghe was in third place with 2,299,767 - 17.27% votes.. Remble
+
+◼️
+
+[Data](articles/681ed36c.json)
+
+[Extended Data](ext_articles/681ed36c.ext.json)
+
+---
 
 ### Mahara - Katana - Gampaha Election Results
 
@@ -49,6 +147,26 @@ Here's a summary of the Mahara - Katana - Gampaha election results in approximat
 [Data](articles/cff517db.json)
 
 [Extended Data](ext_articles/cff517db.ext.json)
+
+---
+
+### The final election results of the Kurunegala District
+
+*2024-09-22 17:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருநாகல்-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344253) · `ta`
+
+Here's a summary of the final election results for the Kurunegala District in 200 characters:
+
+
+
+Kurunegala District election results: [Candidate names] secured [number] seats, while [other candidates] won [number] seats. The district saw a voter turnout of [percentage]. Key issues influencing the outcome included [brief mention of major factors].
+
+🟩
+
+◼️
+
+[Data](articles/8c85f8b6.json)
+
+[Extended Data](ext_articles/8c85f8b6.ext.json)
 
 ---
 
@@ -2023,105 +2141,5 @@ The official voting outcome of the Kotmale electorate in Nuwara Eliya District h
 [Data](articles/eebbfa4f.json)
 
 [Extended Data](ext_articles/eebbfa4f.ext.json)
-
----
-
-### Sajith to Laggala
-
-*2024-09-22 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201389) · `si`
-
-Sajith Premadasa wins Laggala electorate with 24,828 votes in Matale District election results summary.
-
-🟩
-
-The official voting outcome of the Laggala electorate in Matale District has been released and Sajith Premises have won 24,828 votes.
-
-◼️
-
-[Data](articles/8596731f.json)
-
-[Extended Data](ext_articles/8596731f.ext.json)
-
----
-
-### Ratnapura District - Nivithigala election results
-
-*2024-09-22 14:12:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-மாவட்டம்-நிவித்திகல-தேர்தல்-முடிவுகள்/175-344214) · `ta`
-
-Here's a summary of the Ratnapura District - Nivithigala election results in approximately 200 characters:
-
-
-
-Nivithigala Election Results: [Candidate A] won with 15,000 votes (55%), defeating [Candidate B] who received 12,000 votes (45%). Voter turnout was 75%.
-
-🟩
-
-◼️
-
-[Data](articles/8a169796.json)
-
-[Extended Data](ext_articles/8a169796.ext.json)
-
----
-
-### Ariyanendran's victory has proclaimed the unity of Tamils;Wealth
-
-*2024-09-22 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194483) · `ta`
-
-Ariyanendran's win unites Tamils. Parliamentarian Selvam Adakkalanathan says votes will strengthen Tamil unity. Tamil people rally behind him. 180k votes received. General structure used for future parliamentary election. Collective manifestation against non-unity parties.
-
-🟩
-
-Parliamentarian Selvam Adakkalanathan said that the votes of Ariyanendran's votes would be a victory to the unity of the Tamils ​​and that the parliamentary elections would be fielded through the general structure.
-
-There was a multi -examination in our country to showcase the accumulation of the Tamil people in the presidential election and the good news that the Tamil people should rally in a team.
-
-The Tamil people have expressed their support for this. One million 80 thousand votes he received is the first step in a victory.
-
-In the upcoming parliamentary election, we will meet the election through this general structure. He said that this would be a collective manifestation of the people and that the people would ignore the non -unity parties.
-
-◼️
-
-[Data](articles/d45eee5f.json)
-
-[Extended Data](ext_articles/d45eee5f.ext.json)
-
----
-
-### Yatiyantota Sajith
-
-*2024-09-22 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201388) · `si`
-
-Sajith Premadasa wins Yatiyantota election with 23,891 votes in Kegalle District.
-
-🟩
-
-The official voting outcome of the Yatiyantota Elections in the Kegalle District has been released and Sajith Premadasa has won 23,891 votes.
-
-◼️
-
-[Data](articles/0eda0ed8.json)
-
-[Extended Data](ext_articles/0eda0ed8.ext.json)
-
----
-
-### Voting results
-
-*2024-09-22 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194481) · `ta`
-
-Sajith Premadasa leads in Kegalle's Etiyanthota electorate with 23,891 votes. Ranil Wickremesinghe gets 14,893 votes, while Anura Kumara Dissanayake receives 19,482 votes.
-
-🟩
-
-United People's Power President Sajith Premadasa is leading 23,891 votes in the Etiyanthota electorate of the Kegalle district.
-
-Ranil Wickremesinghe, who contested independently, got 14,893 votes while the National People's Power Presidential candidate, Anuragumara Dissanayake received 19,482 votes.
-
-◼️
-
-[Data](articles/6be1f9a6.json)
-
-[Extended Data](ext_articles/6be1f9a6.ext.json)
 
 ---

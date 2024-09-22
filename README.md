@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 11:22:40**
+As of **2024-09-22 11:38:42**
 
 ## Newspaper Stats
 
-*Scraped **45,398** Articles*
+*Scraped **45,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,86 +15,158 @@ colombotelegraphcom | 453
 islandlk | 2,669
 economynextcom | 2,741
 dailyftlk | 3,017
-adalk | 4,179
+adalk | 4,180
 dailymirrorlk | 4,733
 adaderanalk | 5,356
 tamilmirrorlk | 5,991
 virakesarilk | 7,255
-adaderanasinhalalk | 7,820
+adaderanasinhalalk | 7,822
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,389 (100.0%) of 45,398 articles have been extended.
+45,398 (100.0%) of 45,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
 
-### கொழும்பு மாவட்டம் - பொரளை தேர்தல் முடிவுகள்
+### කල්කුඩා සජිත්ට
+
+*2024-09-22 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201361) · `si`
+
+මඩකලපුව දිස්ත්‍රික්කයේ කල්කුඩා මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 45,325ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/e61a672e.json)
+
+---
+
+### මඩකලපුව සජිත්ට
+
+*2024-09-22 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201360) · `si`
+
+මඩකලපුව දිස්ත්‍රික්කයේ මඩකලපුව මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 64,068ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/4baec5a7.json)
+
+---
+
+### Colombo District - Borella election results
 
 *2024-09-22 11:05:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டம்-பொரளை-தேர்தல்-முடிவுகள்/175-344177) · `ta`
+
+Here's a summary of the Colombo District - Borella election results in approximately 200 characters:
+
+
+
+"Colombo District: Borella election results show [X] party won [Y]% of votes, securing [Z] seats. Key candidates [A], [B], and [C] ran strong campaigns. Voter turnout was [D]%. The outcome reflects local preferences and national trends."
+
+🟩
 
 ◼️
 
 [Data](articles/b77f456f.json)
 
+[Extended Data](ext_articles/b77f456f.ext.json)
+
 ---
 
-### රක්වාන සජිත්ට
+### Rakwana Sajith
 
 *2024-09-22 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201359) · `si`
 
-රත්නපුර දිස්ත්‍රික්කයේ  රක්වාන මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 37151 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins Ratnapura District election with 37,151 votes.
+
+🟩
+
+The official voting outcome of the Ratnapura District has been released and Sajith Premadasa has won 37151 votes.
 
 ◼️
 
 [Data](articles/3cbd7528.json)
 
+[Extended Data](ext_articles/3cbd7528.ext.json)
+
 ---
 
-### කලවාන අනුරට
+### Kalawana
 
 *2024-09-22 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201358) · `si`
 
-රත්නපුර දිස්ත්‍රික්කයේ කලවාන මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 19,850ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Here's a 200-character summary:
+
+
+
+Anura Kumara Dissanayake wins Kalawana electorate with 19,850 votes in Ratnapura district election results announced.
+
+🟩
+
+The official voting outcome of the Kalawana Electorate in the Ratnapura District has been released and Anura Kumara Dissanayake has won 19,850 votes.
 
 ◼️
 
 [Data](articles/e289bb6d.json)
 
+[Extended Data](ext_articles/e289bb6d.ext.json)
+
 ---
 
-### මන්නාරම සජිත්ට
+### Sajith, Mannar
 
 *2024-09-22 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201357) · `si`
 
-වන්නි දිස්ත්‍රික්කයේ මන්නාරම මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 28491 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+Sajith Premadasa wins Mannar Elections Vanni District 28491 votes summary:
+
+🟩
+
+The official voting outcome of the Mannar Elections in the Vanni District has been released and Sajith Premadasa has won 28491 votes.
 
 ◼️
 
 [Data](articles/9a18a9c4.json)
 
+[Extended Data](ext_articles/9a18a9c4.ext.json)
+
 ---
 
-### அம்பாறை மாவட்டம் - சம்மாந்துறை தேர்தல் முடிவுகள்
+### Ampara District - Samanthurai election results
 
 *2024-09-22 10:53:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாறை-மாவட்டம்-சம்மாந்துறை-தேர்தல்-முடிவுகள்/175-344176) · `ta`
+
+Here's a summary of the Ampara District - Samanthurai election results in approximately 200 characters:
+
+
+
+Samanthurai election results: [Insert specific details about the election outcome, including party winners, vote percentages, and any notable trends or surprises.]
+
+🟩
 
 ◼️
 
 [Data](articles/fe2d2889.json)
 
+[Extended Data](ext_articles/fe2d2889.ext.json)
+
 ---
 
-### பொலன்னறுவையை அள்ளினார் அனுர
+### Anura
 
 *2024-09-22 10:51:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலன்னறுவையை-அள்ளினார்-அனுர/175-344175) · `ta`
+
+Anura: A genus of frogs native to tropical regions worldwide. They have smooth skin, long legs, and typically live near water sources. Anura includes over 6,000 species, ranging from small microhylids to large bullfrogs.
+
+🟩
 
 ◼️
 
 [Data](articles/3aacbb39.json)
+
+[Extended Data](ext_articles/3aacbb39.ext.json)
 
 ---
 
@@ -156,33 +228,53 @@ The official voting outcome of the Ratnapura District has been released, and Anu
 
 ---
 
-### அம்பாறை மாவட்டம் - கல்முனை தேர்தல் முடிவுகள்
+### Ampara District - Kalmunai Election Results
 
 *2024-09-22 10:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாறை-மாவட்டம்-கல்முனை-தேர்தல்-முடிவுகள்/175-344174) · `ta`
+
+Here's a summary of the Ampara District - Kalmunai Election Results in approximately 200 characters:
+
+
+
+Election results from Ampara District's Kalmunai area show [X] party winning [Y]% of votes, followed by [Z] party with [W]%. Key issues: [Brief mention of main topics]. Voter turnout was [percentage].
+
+🟩
 
 ◼️
 
 [Data](articles/d80a8a77.json)
 
+[Extended Data](ext_articles/d80a8a77.ext.json)
+
 ---
 
-### முதலாவது அமைதியான தேர்தல்
+### The first is peaceful election
 
 *2024-09-22 10:40:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாவது-அமைதியான-தேர்தல்/175-344173) · `ta`
 
-2024 ஆம் ஆண்டு நடைபெற்ற ஜனாதிபதித் தேர்தல் வரலாற்றில் மிகவும் அமைதியான தேர்தலாக அமைந்துள்ளதாக சுதந்திரமான மற்றும் நியாயமான தேர்தலுக்கான மக்கள் செயற்பாடு (PAFFREL) அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி இன்று தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், தேர்தல் சட்டத்தை மீறிய 108 சம்பவங்கள் இன்று வரை பதிவாகியுள்ளன.
 
-தேர்தலின் போது அரச சொத்துக்கள் துஷ்பிரயோகம் மிகவும் குறைவாகவே காணப்பட்டதாக ஹெட்டியாராச்சி குறிப்பிட்டுள்ளார்.
 
-பொலிஸ் மா அதிபர் (IGP) நாட்டில் இல்லாத போதும் தேர்தல்களை நடத்துவதற்கு பொலிஸார் சிறந்த ஆதரவை வழங்கியதாகவும் அவர் கூறினார்.
+2024 Sri Lanka presidential election: Most peaceful, 108 election law violations reported, low state asset abuse, 75-80% voter turnout, police provided good support despite IGP absence.
 
-இதேவேளை, இவ்வருட ஜனாதிபதி தேர்தலில் 75% முதல் 80% வரையிலான வாக்குகள் பதிவாகியுள்ளதாக PAFFREL குறிப்பிட்டுள்ளது.
+🟩
+
+Rohana Hettiarachchi, Executive Director of the PAFFrel for the Independent and Fair Elections, said today that the 2024 presidential election was the most peaceful election.
+
+He told the media that 108 incidents of violating the election law have been reported.
+
+Hettiarachchi noted that abuse of state assets was very low during the election.
+
+He said the police had given good support to hold elections even though the police chief (IGP) was not in the country.
+
+Meanwhile, Paffrel noted that 75% to 80% of the votes were cast in the presidential election this year.
 
 ◼️
 
 [Data](articles/8eb8d2c7.json)
+
+[Extended Data](ext_articles/8eb8d2c7.ext.json)
 
 ---
 
@@ -228,15 +320,21 @@ Dissanayake also secured victory in the Nawalapitiya polling division in the Kan
 
 ---
 
-### டபிள்யூ ஜெயசிறி காலமானார்
+### W. Jayasiri has passed away
 
 *2024-09-22 10:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டபிள்யூ-ஜெயசிறி-காலமானார்/175-344172) · `ta`
 
-மூத்த இலங்கை நடிகர், திரைக்கதை எழுத்தாளர் மற்றும் பாடலாசிரியர் டபிள்யூ ஜெயசிறி தனது 77வது வயதில் காலமாகியுள்ளார்.
+Sri Lankan actor W. Jayasiri (77) passes away. Senior artist known for acting, screenwriting, and songwriting.
+
+🟩
+
+Senior Sri Lankan actor, screenwriter and songwriter W. Jayasiri passed away at the age of 77.
 
 ◼️
 
 [Data](articles/0d2e2eda.json)
+
+[Extended Data](ext_articles/0d2e2eda.ext.json)
 
 ---
 
@@ -513,6 +611,16 @@ Premadasa also secured victory in the Pelamdulla polling division in the Ratnapu
 [Data](articles/6560ee78.json)
 
 [Extended Data](ext_articles/6560ee78.ext.json)
+
+---
+
+### ඩබ්ලිව්.ජයසිරි දිවි රඟ මඩලට සමුදෙයි
+
+*2024-09-22 10:05:51* · [`adalk`](https://www.ada.lk/breaking_news/ඩබ්ලිව්-ජයසිරි-දිවි-රඟ-මඩලට-සමුදෙයි/11-412066) · `si`
+
+◼️
+
+[Data](articles/52f239c3.json)
 
 ---
 
@@ -1875,63 +1983,5 @@ The official voting outcome of the Medawachchiya Electorate in the Anuradhapura 
 [Data](articles/9338b6c2.json)
 
 [Extended Data](ext_articles/9338b6c2.ext.json)
-
----
-
-### In the Kilinochchi constituency, Ariyanendran has 20,348 votes
-
-*2024-09-22 07:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கிளிநொச்சி-தொகுதியில்-அரியநேந்திரனுக்கு-20-348-வாக்குகள்/71-344150) · `ta`
-
-Ariyanendran leads in Kilinochchi with 20,348 votes.
-
-🟩
-
-◼️
-
-[Data](articles/60575846.json)
-
-[Extended Data](ext_articles/60575846.ext.json)
-
----
-
-### Harsha congratulates Anura
-
-*2024-09-22 07:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-வாழ்த்து-கூறினார்-ஹர்ஷ/175-344149) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Harsha congratulates Anura on his presidential win. Despite strong support for Sajith Premadasa, Anuradha Sanayake will likely become Sri Lanka's new president. Harsha acknowledges the democratic process and extends congratulations to his friend.
-
-🟩
-
-We have been strongly campaigning for Sajith Premadasa but it didn't happen. Harsha de Silva said that it is clear that Anuradhasanayake will be sworn in as the new president of Sri Lanka.
-
-In a sense of democracy and goodwill, I call my friend and congratulate you on the hard path. Remble
-
-◼️
-
-[Data](articles/3f9ddf46.json)
-
-[Extended Data](ext_articles/3f9ddf46.ext.json)
-
----
-
-### Mullaitivu Jayaja Sajith
-
-*2024-09-22 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201314) · `si`
-
-Sajith Premadasa wins 28,301 votes in Mullaitivu electorate.
-
-🟩
-
-The official voting outcome of Mullaitivu Electorate in the Vanni District has been released and Sajith Premadasa has won 28,301 votes.
-
-◼️
-
-[Data](articles/f0972b33.json)
-
-[Extended Data](ext_articles/f0972b33.ext.json)
 
 ---

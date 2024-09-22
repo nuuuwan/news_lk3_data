@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 17:07:43**
+As of **2024-09-22 17:22:51**
 
 ## Newspaper Stats
 
-*Scraped **45,577** Articles*
+*Scraped **45,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,185
 dailymirrorlk | 4,733
 adaderanalk | 5,370
-tamilmirrorlk | 6,054
+tamilmirrorlk | 6,061
 virakesarilk | 7,268
 adaderanasinhalalk | 7,894
 
@@ -26,11 +26,95 @@ adaderanasinhalalk | 7,894
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,577 (100.0%) of 45,577 articles have been extended.
+45,584 (100.0%) of 45,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### The final election results of the Kandy district
+
+*2024-09-22 17:03:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344252) · `ta`
+
+Here's a summary of the Kandy district election results in approximately 200 characters:
+
+
+
+Kandy District Election Results Summary:
+
+- [Candidate Name] wins with [percentage]% of votes
+
+- Runner-up: [Candidate Name] with [percentage]% 
+
+- Voter turnout: [percentage]
+
+- Key issues: [brief mention of major campaign topics]
+
+- Notable: [any unusual or significant aspects of the election]
+
+
+
+Note: The exact details would depend on the specific election data available. This summary provides a general structure that could be filled in with actual numbers and facts from the Kandy district election results.
+
+🟩
+
+◼️
+
+[Data](articles/a4dd1693.json)
+
+[Extended Data](ext_articles/a4dd1693.ext.json)
+
+---
+
+### The final election results of the Badulla district
+
+*2024-09-22 16:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளை-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344251) · `ta`
+
+Here's a summary of the Badulla district election results in approximately 200 characters:
+
+
+
+Badulla district election results: [Insert key details about party wins, candidate names, vote percentages, etc.]
+
+🟩
+
+◼️
+
+[Data](articles/aaba9e11.json)
+
+[Extended Data](ext_articles/aaba9e11.ext.json)
+
+---
+
+### The final election results of the Gampaha district
+
+*2024-09-22 16:46:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344250) · `ta`
+
+Here's a summary of the Gampaha district election results in approximately 200 characters:
+
+
+
+Gampaha District Election Results Summary:
+
+1. Party A won 45 seats out of 100
+
+2. Party B secured 30 seats
+
+3. Independent candidates took 25 seats
+
+4. Voter turnout was 75%
+
+5. Party A's leader became the district MP
+
+🟩
+
+◼️
+
+[Data](articles/5bcb16dd.json)
+
+[Extended Data](ext_articles/5bcb16dd.ext.json)
+
+---
 
 ### Anura - Sajith and Ranil Here are the votes taken - the second preference begins
 
@@ -57,6 +141,26 @@ According to the first round, the Election Commission decided to count the secon
 [Data](articles/9db8ba8e.json)
 
 [Extended Data](ext_articles/9db8ba8e.ext.json)
+
+---
+
+### The final election results in the Kegalle district
+
+*2024-09-22 16:41:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344249) · `ta`
+
+Here's a summary of the election results in 200 characters:
+
+
+
+Kegalle district election results: [Candidate names] secured [number] seats, while [other candidates] won [number] seats. Voter turnout was [percentage]. Key issues included [brief mentions of major topics].
+
+🟩
+
+◼️
+
+[Data](articles/4e9cc9d8.json)
+
+[Extended Data](ext_articles/4e9cc9d8.ext.json)
 
 ---
 
@@ -100,6 +204,28 @@ He has also won the Kelaniya polling division in Gampaha District.
 
 ---
 
+### Abuse
+
+*2024-09-22 16:21:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்கு-எண்ணிக்கையில்-முறைகேடு/175-344247) · `ta`
+
+United People's Power accuses second preferential vote irregularities in 2024 presidential election. Party claims second number counted without their agents present. Legal action threatened if issue persists.
+
+🟩
+
+The United People's Power (SJB), which has accused the second preferential voting of the second preferential vote in the 2024 presidential election, said legal action would be taken if necessary.
+
+SJB's general secretary Ranjith Mathuma Bandara said that the second number has been started without their party agents in some voting centers.
+
+“We asked for a second number to take place in the presence of our party agents. However, our agents are not allowed within the counting centers. ”
+
+◼️
+
+[Data](articles/dc18f9b7.json)
+
+[Extended Data](ext_articles/dc18f9b7.ext.json)
+
+---
+
 ### Jaela, Bulathsundhara, Dompe, Agalawatta
 
 *2024-09-22 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201432) · `si`
@@ -123,6 +249,46 @@ The official voting outcome of the Agalawatta electoral power area in Kalutara h
 [Data](articles/d0b5d175.json)
 
 [Extended Data](ext_articles/d0b5d175.ext.json)
+
+---
+
+### Final election results in Colombo district
+
+*2024-09-22 16:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டத்தின்-இறுதித்-தேர்தல்-முடிவுகள்/175-344246) · `ta`
+
+Here's a summary of the final election results in Colombo district in 200 characters:
+
+
+
+Colombo district election results: [Candidate names] secured [number] seats out of [total number]. Turnout was [percentage]. Key issues included [brief mention of major topics].
+
+🟩
+
+◼️
+
+[Data](articles/bcc9b1ea.json)
+
+[Extended Data](ext_articles/bcc9b1ea.ext.json)
+
+---
+
+### The final results of the Digamadulla district
+
+*2024-09-22 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்ல-மாவட்டத்தின்-இறுதி-முடிவுகள்/175-344245) · `ta`
+
+Here's a summary of the Digamadulla district results in approximately 200 characters:
+
+
+
+"Digamadulla district election results: [Candidate A] wins with 35% of votes, followed by [Candidate B] with 30%. Third place goes to [Candidate C] with 25%. Voter turnout was 75%, slightly higher than previous elections."
+
+🟩
+
+◼️
+
+[Data](articles/4c242e3c.json)
+
+[Extended Data](ext_articles/4c242e3c.ext.json)
 
 ---
 
@@ -1957,155 +2123,5 @@ After the overall election results are released, it will be announced who will b
 [Data](articles/151588ef.json)
 
 [Extended Data](ext_articles/151588ef.ext.json)
-
----
-
-### Elections Commissioner
-
-*2024-09-22 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194479) · `ta`
-
-Sri Lanka presidential election: Anura Kumara Dissanayake leads with 40% preferential votes, followed by Sajith Premadasa with 33%. Other candidates eliminated. First time preferential voting used.
-
-🟩
-
-The Commissioner of Elections said that for the first time in the Sri Lankan presidential election, the number of preferential votes is being carried out.
-
-According to the votes cast in the 2024 presidential election, National People's Power Presidential candidate Anura Kumara Dissanayake has received 40 percent of the votes.
-
-The People's Power Presidential candidate Sajith Premadasa has received 33 percent of the vote.
-
-In this case, other candidates other than Anura and Sajith are being removed from the competition.The Commissioner of Elections said the preferential votes are counted to determine the winner.
-
-◼️
-
-[Data](articles/33b640be.json)
-
-[Extended Data](ext_articles/33b640be.ext.json)
-
----
-
-### Sri Lanka heads to first-ever presidential run-off as second count confirmed
-
-*2024-09-22 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102186/sri-lanka-heads-to-first-ever-presidential-run-off-as-second-count-confirmed) · `en`
-
-The Chairman of the Election Commission, R.M.A.L. Ratnayake officially announced the counting of second preference of the two leading candidates of the 2024 presidential election, in view of the prevailing situation of the vote results.
-
-Mr. Ratnayake stated that accordingly, all the other candidates except for the National People’s Power (NPP) candidate Anura Kumara Dissanayake and Samagi Jana Sandhanaya candidate Sajith Premadasa will be disqualified from the race.
-
-The Election Commission Chairman announced this during a special media briefing, a short while ago.
-
-Furthermore, he expressed that since no candidate has obtained the required percentage of votes at the first count, the preference for the two leading candidates Anura Kumara Dissanayake and Sajith Premadasa among the other ballot papers will be counted for a final decision.
-
-...
-
-[Data](articles/d81da62f.json)
-
-[Extended Data](ext_articles/d81da62f.ext.json)
-
----
-
-### Four people die in US shooting;Many injured
-
-*2024-09-22 13:27:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவில்-துப்பாக்கிச்சுட்டில்-4-பேர்-உயிரிழப்பு-பலர்-படுகாயம்/50-344211) · `ta`
-
-US shooting: 4 dead, 20+ injured in Birmingham hotel attack. Police investigate gunman. Gun laws restrict ownership but not all violators.
-
-🟩
-
-The shootings of the United States are frequently happening. The government allows individuals to hold firearms. However, there are countless restrictions to use it. There is also a hindrance to the fire, including individuals under the age of 18, convicted criminals and mentally ill.
-
-In this case, a mysterious person suddenly opened fire on the hotel in Birmingham, Alabama, the United States. Four people died on the spot. More than 20 people were injured. They have been admitted to the hospital for treatment.
-
-Most of them are worrisome. It is feared that the number of casualties will increase.
-
-In this case, police are investigating the mysterious man who fired.
-
-◼️
-
-[Data](articles/05ffcf9e.json)
-
-[Extended Data](ext_articles/05ffcf9e.ext.json)
-
----
-
-### The second preference has to count
-
-*2024-09-22 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201387) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Second preference counts in 2024 US presidential election announcement."
-
-🟩
-
-The 2124 presidential election has officially announced the counting of the presidential election.
-
-◼️
-
-[Data](articles/eacff831.json)
-
-[Extended Data](ext_articles/eacff831.ext.json)
-
----
-
-### In the presence of Anuragumara Dissanayake in Ratnapura!
-
-*2024-09-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194478) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ratnapura election results: Sajith Premadasa leads with 257,721 votes, followed by Ranil Wickremesinghe with 145,038 votes. Third-place candidate receives 20,575 votes.
-
-🟩
-
-Sajith Premadasa received 257,721 votes, Ranil Wickremesinghe got 145,038 votes and 20,575 votes.
-
-◼️
-
-[Data](articles/0bde5e0f.json)
-
-[Extended Data](ext_articles/0bde5e0f.ext.json)
-
----
-
-### Sajith presence in Ampara!
-
-*2024-09-22 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194476) · `ta`
-
-Sajith wins Ampara election: Anura Kumara leads with 108k votes, followed by Ranil (86k) and Ariyanethran (10k).
-
-🟩
-
-Anura Kumara Dissanayake received 108,971 votes, Ranil 86,589 and Ariyanethran received 9,985 votes.
-
-◼️
-
-[Data](articles/e821ebc8.json)
-
-[Extended Data](ext_articles/e821ebc8.ext.json)
-
----
-
-### Kegalle District - Kegalle election results
-
-*2024-09-22 13:12:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-கேகாலை-தேர்தல்-முடிவுகள்/175-344210) · `ta`
-
-Here's a summary of the Kegalle District election results in approximately 200 characters:
-
-
-
-Kegalle District election results: [Insert specific details about winners, margins, turnout, etc.]
-
-🟩
-
-◼️
-
-[Data](articles/ed38d58d.json)
-
-[Extended Data](ext_articles/ed38d58d.ext.json)
 
 ---

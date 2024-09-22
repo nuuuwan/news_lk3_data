@@ -1,36 +1,292 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 06:43:58**
+As of **2024-09-22 07:26:52**
 
 ## Newspaper Stats
 
-*Scraped **45,254** Articles*
+*Scraped **45,270** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 378
+dbsjeyarajcom | 379
 bbccomsinhala | 441
 colombotelegraphcom | 453
 islandlk | 2,669
 economynextcom | 2,741
 dailyftlk | 3,017
-adalk | 4,173
+adalk | 4,177
 dailymirrorlk | 4,733
-adaderanalk | 5,334
-tamilmirrorlk | 5,949
+adaderanalk | 5,338
+tamilmirrorlk | 5,952
 virakesarilk | 7,241
-adaderanasinhalalk | 7,762
+adaderanasinhalalk | 7,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,246 (100.0%) of 45,254 articles have been extended.
+45,261 (100.0%) of 45,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Hambantota - Beliatta
+
+*2024-09-22 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201305) · `si`
+
+Anura Kumara Dissanayake wins 34,321 votes in Hambantota's Beliatta electorate.
+
+🟩
+
+The official voting outcome of the Beliatta Electorate in Hambantota District has been released and Anura Kumara Dissanayake has won 34,321 votes.
+
+◼️
+
+[Data](articles/023d0ba4.json)
+
+[Extended Data](ext_articles/023d0ba4.ext.json)
+
+---
+
+### Erection
+
+*2024-09-22 06:35:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-சட்டம்-நீடிப்பு/175-344140) · `ta`
+
+Curfew extended until 12 PM Sunday 22.
+
+🟩
+
+The curfew, which is currently in effect, has been extended till 12 noon on Sunday (22).
+
+◼️
+
+[Data](articles/1f4ee0c0.json)
+
+[Extended Data](ext_articles/1f4ee0c0.ext.json)
+
+---
+
+### 7,494 to Ariyanendra in Jaffna
+
+*2024-09-22 06:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-தொகுதியில்-அரியநேந்திரனுக்கு-7-494/175-344139) · `ta`
+
+Here's a summary of "7,494 to Ariyanendra in Jaffna" in approximately 200 characters:
+
+
+
+Ariyanendra, a Tamil journalist, was killed in Jaffna during Sri Lanka's civil war. He reported on human rights abuses and government corruption. His death shocked the community and sparked outrage over press freedom violations. The incident remains controversial, with various theories about his murder.
+
+🟩
+
+◼️
+
+[Data](articles/0fb67828.json)
+
+[Extended Data](ext_articles/0fb67828.ext.json)
+
+---
+
+### Minister Ali Sabri greets
+
+*2024-09-22 06:27:06* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-අලි-සබ්‍රි-අනුරට-සුබ-පතයි/11-412063) · `si`
+
+Sri Lanka's Foreign Minister Ali Sabri welcomed National Power leader Anura Kumara Dissanayake, acknowledging the people's decision and expressing respect. He noted challenges facing the country.
+
+🟩
+
+Foreign Minister Ali Sabri has greeted the leader of the National Power Anura Kumara Dissanayake.
+
+He says that the people of Sri Lanka has decided to have decided that the people of Sri Lanka have made a decision and they respect for Anura Kumara Dissanayake.
+
+He says he welcomes Anura Kumara Dissanayake and that the country is not easy.
+
+◼️
+
+[Data](articles/a11e9569.json)
+
+[Extended Data](ext_articles/a11e9569.ext.json)
+
+---
+
+### Crys released to the island extended
+
+*2024-09-22 06:24:23* · [`adalk`](https://www.ada.lk/breaking_news/දිවයිනට-පැනවූ-ඇඳිරි-නීතිය-දීර්ඝ-කෙරේ/11-412062) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Crys released to the island extended. Steps taken to extend 12 Model 12 on Monday. Humiliation scheduled from 10 AM to 6 AM today.
+
+🟩
+
+Steps have been taken to extend the 12 Model 12 (on Monday).
+
+The humiliation was made up 10 o'clock, and it was to be over at 6am this morning.
+
+◼️
+
+[Data](articles/21743824.json)
+
+[Extended Data](ext_articles/21743824.ext.json)
+
+---
+
+### Curfew extended until 12 noon
+
+*2024-09-22 06:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102159/curfew-extended-until-12-noon) · `en`
+
+Minister of Public Security Tiran Alles says that the islandwide curfew imposed until 6.00 a.m. this morning has been extended until 12 noon today (September 22).
+
+Curfew had initially been imposed with effect from 10.00 p.m. last (21) until 06.00 a.m. tomorrow (22).
+
+This decision has been taken by the incumbent President Ranil Wickramasinghe under the provisions of the Public Security Ordinance, in view of the releasing of the results of 2024 presidential election tonight.
+
+However, the Police Media Division had stated that although the post-election situation in the country is very peaceful, this curfew was imposed for further safety of the public. Furthermore, Sri Lanka Police urged the general public to stay in their houses during the curfew period.
+
+Meanwhile, the officials engaged in election related duties during the curfew period are allowed to use their ID cards or authorized documents as curfew permits, police said issuing a special notice.
+
+...
+
+[Data](articles/ceb6e4b2.json)
+
+[Extended Data](ext_articles/ceb6e4b2.ext.json)
+
+---
+
+### The humiliation extended
+
+*2024-09-22 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201304) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Humiliation extended: Deputy Minister of Defense Tiran Alles announced the hurricane warning will continue until 12 noon tomorrow. The original punishment was set to end in the morning but now it will persist through lunchtime.
+
+🟩
+
+It has been decided to extend the humiliation that was imposed to the next morning.
+
+Deputy Minister of Defense Tiran Alles said that the hurricane was extended until 12 noon.
+
+◼️
+
+[Data](articles/e1bedd20.json)
+
+[Extended Data](ext_articles/e1bedd20.ext.json)
+
+---
+
+### Puttalam - Gampaha - Jaffna Postal Vote Results
+
+*2024-09-22 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201303) · `si`
+
+Anura Kumara Dissanayake leads in Puttalam (8,614), Gampaha (33,226) & Kurunegala (47,126). Ranil Wickremesinghe wins Jaffna (9,277).
+
+🟩
+
+The official postal voting outcome of the Puttalam District has been released and Anura Kumara Dissanayake has won 8,614 votes.
+
+The official postal voting outcome of the Gampaha District has been released and Anura Kumara Dissanayake has won 33,226 votes.
+
+The official postal voting results of the Jaffna district has been released and Ranil Wickremesing has won 9,277 votes.
+
+The official postal voting outcome of the Kurunegala District has been released and Anura Kumara Dissanayake has won 47,126 votes.
+
+◼️
+
+[Data](articles/a9b85c67.json)
+
+[Extended Data](ext_articles/a9b85c67.ext.json)
+
+---
+
+### Details of those who fly abroad…
+
+*2024-09-22 06:09:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளுக்கு-பறந்தவர்களின்-விபரம்/175-344138) · `ta`
+
+Sri Lanka Air Force deployed near Bandaranaike International Airport. Political figures leaving country amid protests. Former ministers, UNP officials, Buddhist monk, presidential candidate's family members departing. Security tightened at airport.
+
+🟩
+
+The Air Force has been concentrated on Saturday (21st) in the area near the Bandaranaike International Airport and the security has been strengthened.
+
+It is in this context that the Sri Lankan Air Force gathered in order to prevent political figures from the airport to be investigated by the general public who were near the Katunayake airport during the last Arakalai protest.
+
+Many Sri Lankan political figures have gone abroad through the Katunayake Bandaranaike International Airport.
+
+Accordingly, at 09/21 pm on 02.25 pm, former minister Susantha Punji left India on the AI-272 flight of Indian Airlines.
+
+Also, at around 09/21 pm, former United National Party general secretary Palitha Range Bandara Katunayake departed from Thailand's Bangkok on FD-141 from the Air Asia flight from the Katunayake airport.
+
+Also, the Chathadisa Thera, a native of Kandavai, departed at Hong Kong at Cathay Pacific Airlines, CX-610 at 12.50 pm on 09/22.
+
+...
+
+[Data](articles/7e6b29bc.json)
+
+[Extended Data](ext_articles/7e6b29bc.ext.json)
+
+---
+
+### Anura on top in Kandy District postal votes
+
+*2024-09-22 06:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102158/anura-on-top-in-kandy-district-postal-votes) · `en`
+
+The postal vote result of the Kandy District in the 2024 Presidential Election has been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake coming up top.
+
+Dissanayake has received the highest number of postal votes in the district with a total of 32,295 postal votes.
+
+◼️
+
+[Data](articles/7a006ed4.json)
+
+[Extended Data](ext_articles/7a006ed4.ext.json)
+
+---
+
+### Weligama - Badulla - Jaffna election results
+
+*2024-09-22 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201302) · `si`
+
+Anura Kumara Dissanayake wins in Matara (42,182), Badulla (17,983) and Galle (20,096). Patianerta wins Jaffna with 7,494 votes.
+
+🟩
+
+The official voting outcome of the Weligama electorate in the Matara district has been released and Anura Kumara Dissanayake has won 42,182 votes.
+
+The official voting outcome of the Badulla Elections in Badulla District has been released and Anura Kumara Dissanayake has won 17,983 votes.
+
+The official voting outcome of the Balapitiya electorate in the Galle District has been released and Anura Kumara Dissanayake has won 20,096 votes.
+
+The official voting outcome of the Jaffna Elections in Jaffna District has been released and Patianerta has won the area with 7494 votes.
+
+◼️
+
+[Data](articles/742bf0fa.json)
+
+[Extended Data](ext_articles/742bf0fa.ext.json)
+
+---
+
+### Badulla District postal vote results
+
+*2024-09-22 06:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102157/badulla-district-postal-vote-results) · `en`
+
+The postal vote result of the Badulla District in the 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 23,629 postal votes.
+
+◼️
+
+[Data](articles/878d545d.json)
+
+[Extended Data](ext_articles/878d545d.ext.json)
+
+---
 
 ### Jaffna Mawatha Postal Voting ...
 
@@ -49,6 +305,22 @@ Jaffna Mawatha Postal Voting refers to the controversial voting system used duri
 [Data](articles/e1f37e54.json)
 
 [Extended Data](ext_articles/e1f37e54.ext.json)
+
+---
+
+### Presidential Election: Weligama polling division results
+
+*2024-09-22 05:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102156/presidential-election-weligama-polling-division-results-) · `en`
+
+The results of the Weligama polling division in Matara District for the 2024 Presidential Election have been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake coming up top.
+
+Dissanayake has received the highest number of votes in the Weligama polling division with a total of 42,182 votes.
+
+◼️
+
+[Data](articles/9feca5e5.json)
+
+[Extended Data](ext_articles/9feca5e5.ext.json)
 
 ---
 
@@ -1740,6 +2012,30 @@ In addition, the other rights were denied as a result of the decades of citizens
 
 ---
 
+### Here's the announcement issued by the national folk force
+
+*2024-09-21 22:09:50* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-දැන්-නිකුත්-කළ-නිවේදනය-මෙන්න/11-412061) · `si`
+
+National Folk Force announces request for maintaining peace during elections. Calls on Elections Commission, officials, police, and security forces to ensure secure counting centers and public order. Urges citizens to cooperate fully.
+
+🟩
+
+The national folk force has issued an announcement stating that the country is requested to take measures to maintain the maximum peaceful situation in the country.
+
+We hope that the Elections Commission and the relevant officials will act clearly and the relevant officials will act as clearly and clearly.
+
+We also believe that the police and the security forces will be confirmed to ensure the security of the counting centers.
+
+In this case, we ask the security forces to take measures to maintain a maximum peaceful in the country during the post-election state to maintain public order during the post-election results.We urge people to support the maximum support.
+
+◼️
+
+[Data](articles/df45a979.json)
+
+[Extended Data](ext_articles/df45a979.ext.json)
+
+---
+
 ### Announcement from National Society
 
 *2024-09-21 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201281) · `si`
@@ -1853,325 +2149,5 @@ Counting of the votes has begun at designated counting stations. (Colombo/Sep21/
 [Data](articles/c9ef8107.json)
 
 [Extended Data](ext_articles/c9ef8107.ext.json)
-
----
-
-### Differently imposed from 10 pm today
-
-*2024-09-21 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201280) · `si`
-
-Sri Lanka imposes curfew from 10 PM. Gazette states president orders due to unrest. Public must stay home. Essential service workers need ID. Police enforce restrictions. Violation penalties apply.
-
-🟩
-
-The humiliation has been imposed from 10 pm today (22).
-
-The gazette issued by the police stating that the president was issued by the police as at the end of the 2402.2012 to the entire country and the local water.As the drawing has been declared.
-
-Although there is a peaceful situation in the country, this humiliation has been published to safeguard the public and requests the public to spend time in their homes.
-
-During this period, identity cards issued by authorized officers in relation to the officials of the officials and authorized documents can be used as a licensed.
-
-It can be used as a license to travel to the airport and to ensure that the airport or the documents that leave the airport.
-
-In addition, they should use their duties ID or appropriate document for employees who run essential services, and should be submitted to the police.
-
-During this period, all police officers have been instructed to implement the hideous.
-
-...
-
-[Data](articles/34aa9e4d.json)
-
-[Extended Data](ext_articles/34aa9e4d.ext.json)
-
----
-
-### Curfew imposed islandwide
-
-*2024-09-21 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102129/curfew-imposed-islandwide) · `en`
-
-Curfew has been imposed islandwide with effect from 10.00 p.m. tonight (21) until 06.00 a.m. tomorrow (22).
-
-This decision has been taken by the incumbent President Ranil Wickramasinghe under the provisions of the Public Security Ordinance, in view of the releasing of the results of 2024 presidential election tonight.
-
-The relevant Gazette notification has been issued by the President under the Public Security Ordinance (Chapter 40) Curfew Order under Section 16.
-
-However, the Police Media Division stated that although the post-election situation in the country is very peaceful, this curfew was imposed for further safety of the public. Furthermore, Sri Lanka Police urged the general public to stay in their houses during the curfew period.
-
-Meanwhile, the officials engaged in election related duties during the curfew period are allowed to use their ID cards or authorized documents as curfew permits, police said issuing a special notice.
-
-...
-
-[Data](articles/ed58d695.json)
-
-[Extended Data](ext_articles/ed58d695.ext.json)
-
----
-
-### Sri Lanka voter turnout below 80-pct in most districts
-
-*2024-09-21 21:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-voter-turnout-below-80-pct-in-most-districts-180322/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s voter turnout has been below 80 percent in most districts at the 2024 Presidential election, according to initial reports.
-
-Except for Nuwara-Eliya and Moneragala which have seen 80 percent turnout, others are lower, according to a report on state-run Rupavahini.
-
-Chairman of Sri Lanka’s Elections Commission R M A L Rathnayake said on Rupavahini that an official turnout number was not yet released, amid official estimates of 75 percent.
-
-◼️
-
-[Data](articles/c5444d3d.json)
-
-[Extended Data](ext_articles/c5444d3d.ext.json)
-
----
-
-### Photos of candidates, parliamentarians and ministers voting in the presidential election
-
-*2024-09-21 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194314) · `ta`
-
-Photos show President Mahinda Rajapaksa, PM Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, and other officials casting votes in Sri Lanka's presidential election on January 21st.
-
-🟩
-
-President Mahinda Rajapaksa, Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena, Adivasi Chairperson Etho, Etho, Chairman of the Adivasi, Etho, Presidential candidates, MPs and Ministers have been released in the presidential election on Saturday (21).
-
-◼️
-
-[Data](articles/68a5daba.json)
-
-[Extended Data](ext_articles/68a5daba.ext.json)
-
----
-
-### Overall percentage of voted 75 percent
-
-*2024-09-21 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201279) · `si`
-
-Sri Lanka presidential election: 75% voter turnout reported. Election commission expects first official postal voting results tonight. Polling stations open from 7am to 4pm. Voter participation varies by district, ranging from 65% to 89%.
-
-🟩
-
-The election of the 9th Executive President of Sri Lanka was held today (21st).
-
-The counting of votes has already begun and the first official postal voting results are expected to be released before midnight today.
-
-Elections Commission as well as election monitor, the presidential election was the Peace of the country.
-
-According to the 2024 electoral register, 17,140,354 were registered for the presidential election this year.
-
-It was established in 13,421 polling centers across the country.
-
-Accordingly, the voters have come to the polling stations this morning and elected their votes.
-
-In some areas, hostile weather, we have been interested in the vote weather.
-
-Presidential election, which began at 7am this morning, was completed at 4 pm.
-
-Elections for election selection officers say that about 75% of the total voters voted in this year's presidential election.
-
-75% of the Colombo District of the Western Province have been voted in the Colombo District, 85% in the Gampaha District.
-
-...
-
-[Data](articles/18c94e45.json)
-
-[Extended Data](ext_articles/18c94e45.ext.json)
-
----
-
-### The main turning point is the telephone number
-
-*2024-09-21 21:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முக்கிய-திருப்பு-முனையாக-இருக்கும்/175-344099) · `ta`
-
-Sri Lanka's presidential election is seen as a pivotal moment in the country's history. Candidate Anuragumara Dissanayake emphasizes its significance, stating it will change the nation's trajectory. The election marks a shift from traditional power struggles to a potential turning point for the country's future.
-
-🟩
-
-"This presidential election will be an election that will change the history of Sri Lanka," said National People's Power Presidential candidate Anuragumara Dissanayake.
-
-Elections have been held for a long time to set up a government, to coup, change the government and to change leaders. But I think this election is the main turning point in the country.
-
-So after success, all should maintain peace. Democratic feature is the right to each individual to vote for parties who want to support any political party. We will continue to protect it. Remble
-
-◼️
-
-[Data](articles/5ec0e184.json)
-
-[Extended Data](ext_articles/5ec0e184.ext.json)
-
----
-
-### This election will be the main turning point in the country
-
-*2024-09-21 21:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தத்-தேர்தல்-நாட்டின்-முக்கிய-திருப்பு-முனையாக-இருக்கும்/175-344099) · `ta`
-
-Sri Lanka's presidential election is considered a pivotal moment in the country's history. Candidate Anuradha Dissanayake emphasizes its significance as a turning point. The election aims to establish a stable government and protect democratic rights. Maintaining peace and supporting chosen political parties are crucial post-election priorities.
-
-🟩
-
-The presidential election will be the presidential election of Sri Lanka's history, said the National People's Power Presidential candidate Anurakumara Dissanayake.
-
-Long -time elections have been held to set up a government, to coup, change the government and to change leaders. But I think this election is the main turning point in the country.
-
-So after success, all should maintain peace. Democratic feature is the right to each individual to vote for parties who want to support any political party. We will continue to protect it. Remble
-
-◼️
-
-[Data](articles/c9c1a733.json)
-
-[Extended Data](ext_articles/c9c1a733.ext.json)
-
----
-
-### “I voted in 9 presidential elections"
-
-*2024-09-21 21:06:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/9-ஜனாதிபதி-தேர்தல்களிலும்-வாக்களித்தேன்/75-344098) · `ta`
-
-Senior citizen John Philip Louis votes 9th time at 106 years old, casting ballot at St. Mary's College, Trincomalee.
-
-🟩
-
-John Philip Louis, a senior citizen of Trincomalee district, registered his vote at the age of 106.
-
-He had given his vote on Saturday (21) at St. Mary's College, Trincomalee.
-
-“He has the experience of voting in the nine presidential elections in the country,” he said.. (Geeta Ponkalan)
-
-◼️
-
-[Data](articles/64cb2adf.json)
-
-[Extended Data](ext_articles/64cb2adf.ext.json)
-
----
-
-### Second Look of 'Ban Butter Jam' released on the ship
-
-*2024-09-21 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194313) · `ta`
-
-"Ban Butter Jam" second look poster released on ship. Starring Raju Jayamohan, Adia Prasad, Pavya Tarika. Directed by Raghav Mirdad. Music by Prasanna. Produced by Suresh Subramanian. Unique release method attracts fans.
-
-🟩
-
-Actor Raju Jayamohan has released the second look poster of the film 'Ban Butter Jam' starring the story.
-
-For the first time in Tamil cinema, the poster has been released by the film crew while traveling in a huge ship in the sea.
-
-Raju Jayamohan, Adia Prasad, Pavya Tarika, Charlie, Saranya Ponvannan, Devadarshini, Michael Thangadurai and many others have starred in the film 'Ban Butter Jam' directed by director Raghav Mirdad.
-
-Niwas K is the cinematography by Babu Kumar. Prasanna has composed the music.
-
-The film was produced by producer Suresh Subramanian on behalf of the film company Rain of Auros Entertainment.
-
-Look has already been released in the title of the movie. In this case, the second look poster of the film has been released and has attracted the attention of the fans.
-
-In particular, Raju Mohan, who plays the hero of the story, is the heroes of the fan as the oldest king and the king of Pavya Tarika, who appears to be the heroes of the story.
-
-◼️
-
-[Data](articles/246b4ad1.json)
-
-[Extended Data](ext_articles/246b4ad1.ext.json)
-
----
-
-### Celebrate Success in Quietly -The Presidential candidates request people
-
-*2024-09-21 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194317) · `ta`
-
-Sri Lanka presidential election peaceful, candidates urge calm celebration of democracy.
-
-🟩
-
-Presidential candidates Ranil Wickremesinghe, Anura Kumara Dissanayake, Sajith Premadasa and Namal Rajapaksa voted. Celebrate the success of success. They urged the public not to accommodate violence.
-
-The referendum for the presidential election took place today (21) from 7 am to 4 pm. A large number of people enthusiastically voted in the morning.
-
-Ranil Wickremesinghe as the Independent Presidential candidate and the first woman Maithri Wickremesinghe voted with the public at the voting center at the University of Colombo.
-
-President Ranil Wickremesinghe commented to the media after the vote, and I thank all who voted for me.I created the order for the voting. The voting would not have been placed if the instability of the day was prolonged.
-
-The election was held peacefully.Let's go toward the new journey. Act in a non -violent. I would like to thank the candidates and the Elections Commission.
-
-...
-
-[Data](articles/77295542.json)
-
-[Extended Data](ext_articles/77295542.ext.json)
-
----
-
-### Ada Derana’s special live broadcast of election results begins
-
-*2024-09-21 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102128/ada-deranas-special-live-broadcast-of-election-results-begins) · `en`
-
-Ada Derana’s special live broadcast of the results of the 2024 Presidential Election commenced, a short while ago.
-
-Watch the live broadcast below and stay tuned for the results of the 2024 Presidential Election as and when they are released.
-
-◼️
-
-[Data](articles/cdfcad4f.json)
-
-[Extended Data](ext_articles/cdfcad4f.ext.json)
-
----
-
-### Ada Derana’s special live broadcast of election results
-
-*2024-09-21 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102128/ada-deranas-special-live-broadcast-of-election-results-) · `en`
-
-Ada Derana’s special live broadcast of the results of the 2024 Presidential Election commenced, a short while ago.
-
-Watch the live broadcast below and stay tuned for the results of the 2024 Presidential Election as and when they are released.
-
-◼️
-
-[Data](articles/efb0562b.json)
-
-[Extended Data](ext_articles/efb0562b.ext.json)
-
----
-
-### 2024 Presidential Poll the most peaceful in history with no violence reported - EC
-
-*2024-09-21 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102127/2024-presidential-poll-the-most-peaceful-in-history-with-no-violence-reported-ec) · `en`
-
-The Commissioner General of Elections Saman Sri Ratnayake described the 2024 Presidential Election as the best in the nation’s electoral history, emphasizing that the election process was notably peaceful, with no reports of violence during the polling period.
-
-The Elections Commissioner General mentioned this, while making a special statement to the media this evening (21), after the voting for the 2024 presidential election concluded.
-
-The voting for this year’s presidential election commenced at 7.00 a.m. this morning and concluded at 4.00 p.m., at a total of 13,421 polling stations across the country facilitating the election.
-
-The voter turnout was reported remarkably high, exceeding 75% in several key districts.
-
-Mr. Ratnayake also announced that vote counting will take place at 1,713 designated counting centers, with results expected to be processed efficiently in the coming hours.
-
-◼️
-
-[Data](articles/560f9ff6.json)
-
-[Extended Data](ext_articles/560f9ff6.ext.json)
-
----
-
-### Security has been strengthened
-
-*2024-09-21 19:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-பலப்படுத்தப்படுள்ளது/175-344097) · `ta`
-
-Security enhanced at Bandaranaike International Airport: 200 SLAF soldiers deployed for search operations.
-
-🟩
-
-Security has been strengthened to carry out search operations at the Bandaranaike International Airport.
-
-About 200 Sri Lanka Air Force (SLAF) soldiers have been deployed at the airport.
-
-◼️
-
-[Data](articles/0188409b.json)
-
-[Extended Data](ext_articles/0188409b.ext.json)
 
 ---

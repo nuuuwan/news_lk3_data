@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 04:22:49**
+As of **2024-09-23 04:38:20**
 
 ## Newspaper Stats
 
-*Scraped **45,660** Articles*
+*Scraped **45,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 447
 colombotelegraphcom | 454
 islandlk | 2,669
 economynextcom | 2,757
-dailyftlk | 3,017
+dailyftlk | 3,018
 adalk | 4,192
 dailymirrorlk | 4,733
 adaderanalk | 5,376
@@ -26,11 +26,21 @@ adaderanasinhalalk | 7,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,660 (100.0%) of 45,660 articles have been extended.
+45,660 (100.0%) of 45,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Presidential Election 2024
+
+*2024-09-23 04:06:43* · [`dailyftlk`](https://www.ft.lk/business/Presidential-Election-2024/34-766999) · `en`
+
+◼️
+
+[Data](articles/73cc1ffc.json)
+
+---
 
 ### Indian High Commissioner Santosh Ja meets President Anura
 
@@ -2319,21 +2329,5 @@ The official voting outcome of the Eleven Electorate in Badulla District has bee
 [Data](articles/d0339dfd.json)
 
 [Extended Data](ext_articles/d0339dfd.ext.json)
-
----
-
-### Horana
-
-*2024-09-22 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201422) · `si`
-
-Horana: A small town located in Sri Lanka. It is known for its lush green landscapes and natural beauty. The area is home to several temples and religious sites, attracting visitors interested in history and culture. Horana offers opportunities for outdoor activities like hiking and nature walks, allowing tourists to connect with nature while exploring the region's charm.
-
-🟩
-
-◼️
-
-[Data](articles/fe17ade5.json)
-
-[Extended Data](ext_articles/fe17ade5.ext.json)
 
 ---

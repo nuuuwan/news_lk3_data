@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 08:02:42**
+As of **2024-09-22 08:44:10**
 
 ## Newspaper Stats
 
-*Scraped **45,290** Articles*
+*Scraped **45,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,262 @@ economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,177
 dailymirrorlk | 4,733
-adaderanalk | 5,342
-tamilmirrorlk | 5,958
+adaderanalk | 5,344
+tamilmirrorlk | 5,966
 virakesarilk | 7,245
-adaderanasinhalalk | 7,772
+adaderanasinhalalk | 7,777
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,280 (100.0%) of 45,290 articles have been extended.
+45,291 (100.0%) of 45,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Thanks to the Tamil people - Sumanthiran congratulated Anura
+
+*2024-09-22 08:00:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-மக்களுக்கு-நன்றி-அநுரவுக்கு-வாழ்த்து-கூறினார்-சுமந்திரன்/175-344152) · `ta`
+
+Sumanthiran congratulates Anura Kumara Dissanayake on his likely victory in the 2024 presidential election. Thanks Tamil voters for supporting Sajith Premadasa, advised by Sri Lankan Tamil parties.
+
+🟩
+
+Tamil National Alliance (TNA) parliamentarian M Sumanthiran congratulated NPP Presidential candidate Anurakumara Dissanayake, who will win the 2024 presidential election.
+
+Congratulations to Anura Kumara Dissanayake. Our thanks to the Tamil people who voted for Sajith Premadasa on the advice of the Sri Lankan Tamil party on the advice of the Sri Lankan Tamil party. He said. Remble
+
+◼️
+
+[Data](articles/58e5b40f.json)
+
+[Extended Data](ext_articles/58e5b40f.ext.json)
+
+---
+
+### “தமிழர்களுக்கு நன்றி:  அநுரவுக்கு வாழ்த்து”
+
+*2024-09-22 08:00:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்களுக்கு-நன்றி-அநுரவுக்கு-வாழ்த்து/175-344152) · `ta`
+
+2024 ஜனாதிபதித் தேர்தலில் வெற்றியீட்டவுள்ள NPP ஜனாதிபதி வேட்பாளர் அனுரகுமார திஸாநாயக்கவிற்கு தமிழ் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் எம்.சுமந்திரன் வாழ்த்து தெரிவித்தார்.
+
+இன, மத வெறியின்றி சாதித்த அபார வெற்றிக்கு வாழ்த்துகள் அனுர குமார திசாநாயக்க. சஜித் பிரேமதாசவுக்கு வாக்களித்த வடக்கு, கிழக்கு தமிழ் மக்களுக்கு இலங்கை தமிழரசுக்கட்சியின் ஆலோசனையின் பேரில் மற்றவர்களை நிராகரித்து தேர்தல் வரைபடத்தில் வித்தியாசத்தை காட்டிய தமிழ் மக்களுக்கு எங்கள் நன்றிகள். என்றும் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/b29aa66a.json)
+
+---
+
+### Sajith wins Mullaitivu & Medawachchiya; Anura takes Bentara-Elpitiya
+
+*2024-09-22 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102165/sajith-wins-mullaitivu-medawachchiya-anura-takes-bentara-elpitiya) · `en`
+
+The results of the Mullaitivu polling division in Vanni District, Medawachchiya polling division in the Anuradhapura District and the Bentara-Elpitiya polling division in Galle District have been released.
+
+Samagi Jana Sandhanaya candidate Sajith Premadasa has received the highest number of votes in the Mullaitivu polling division with a total of 28,301 votes.
+
+Meanwhile, Premadasa has also topped the Medawachchiya polling division in the Anuradhapura District in the 2024 Presidential Election with 30,877 votes.
+
+In the meantime, the Bentara-Elpitiya polling division in Galle District for the 2024 Presidential Election have also been released with NPP’s Dissanayake coming up top.
+
+◼️
+
+[Data](articles/a6c3dd82.json)
+
+[Extended Data](ext_articles/a6c3dd82.ext.json)
+
+---
+
+### බෙන්තර-ඇල්පිටිය අනුරට
+
+*2024-09-22 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201316) · `si`
+
+ගාල්ල දිස්ත්‍රික්කයේ බෙන්තර-ඇල්පිටිය මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 35,612ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/e9f399b3.json)
+
+---
+
+### 12,810 votes for Ariyanendra in Mullaitivu
+
+*2024-09-22 07:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவி்ல்-அரியநேந்திரனுக்கு-12-810-வாக்குகள்/175-344151) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ariyanendra received 12,810 votes in Mullaitivu. This number represents the electoral support he garnered during an election in this specific district. The context suggests it was likely a local or regional election, as the vote count is not unusually high for a national-level race.
+
+🟩
+
+◼️
+
+[Data](articles/df7fa5ae.json)
+
+[Extended Data](ext_articles/df7fa5ae.ext.json)
+
+---
+
+### මැදවච්චියත් සජිත්ට
+
+*2024-09-22 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201315) · `si`
+
+අනුරාධපුර දිස්ත්‍රික්කයේ මැදවච්චිය මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස මහතා ඡන්ද 30,877 ක් ලබාගනිමින් එම  බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/9338b6c2.json)
+
+---
+
+### In the Kilinochchi constituency, Ariyanendran has 20,348 votes
+
+*2024-09-22 07:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கிளிநொச்சி-தொகுதியில்-அரியநேந்திரனுக்கு-20-348-வாக்குகள்/71-344150) · `ta`
+
+Ariyanendran leads in Kilinochchi with 20,348 votes.
+
+🟩
+
+◼️
+
+[Data](articles/60575846.json)
+
+[Extended Data](ext_articles/60575846.ext.json)
+
+---
+
+### Harsha congratulates Anura
+
+*2024-09-22 07:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-வாழ்த்து-கூறினார்-ஹர்ஷ/175-344149) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Harsha congratulates Anura on his presidential win. Despite strong support for Sajith Premadasa, Anuradha Sanayake will likely become Sri Lanka's new president. Harsha acknowledges the democratic process and extends congratulations to his friend.
+
+🟩
+
+We have been strongly campaigning for Sajith Premadasa but it didn't happen. Harsha de Silva said that it is clear that Anuradhasanayake will be sworn in as the new president of Sri Lanka.
+
+In a sense of democracy and goodwill, I call my friend and congratulate you on the hard path. Remble
+
+◼️
+
+[Data](articles/3f9ddf46.json)
+
+[Extended Data](ext_articles/3f9ddf46.ext.json)
+
+---
+
+### මුලතිව් ජය සජිත්ට
+
+*2024-09-22 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201314) · `si`
+
+වන්නි දිස්ත්‍රික්කයේ මුලතිව් මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 28,301 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/f0972b33.json)
+
+---
+
+### The new president is likely to be sworn in today
+
+*2024-09-22 07:44:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதி-இன்று-பதவிப்பிரமாணம்-செய்ய-வாய்ப்பு/175-344148) · `ta`
+
+New president likely to be sworn in today. Election commission must announce winner first. Delay in result release causes uncertainty about exact timing.
+
+🟩
+
+Daily Mirror said that if the final announcement of the National People's Power Leader Anura Kumara Dissanayake as the winner, he could be sworn in as the new president this afternoon if the Elections Commission was issued by the Elections Commission.
+
+National People's Power General Secretary Dr. Nihal Abeysinghe told the Daily Mirror that the time of office was not confirmed due to the delay in the release of the results.
+
+He also said that if the final announcement was made in time, the swearing -in could take place today. Remble
+
+◼️
+
+[Data](articles/b2347e0b.json)
+
+[Extended Data](ext_articles/b2347e0b.ext.json)
+
+---
+
+### Success is firm - News that flew to Anura
+
+*2024-09-22 07:38:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றி-உறுதியானது-அனுரவுக்கு-பறந்த-செய்தி/175-344147) · `ta`
+
+Anura Kumara Dissanayake wins presidency, reflecting desire for real change. Saliya Peiris warns new president about executive power and public responsibility.
+
+🟩
+
+Saliya Peiris, former president of the Sri Lanka Lawyers Association (BASL), said that the victory of NPP's presidential candidate Anura Kumara Dissanayake reflects the stronger wishes for the actual change.
+
+"Even though the final result is not yet announced, it is clear that Sri Lanka's next President Anurakumara Dissanayake is now clear," Peiris said in his Facebook page.
+
+Peiris warned Dissanayake to be alert to the vast powers of the executive president and to use public responsibility.
+
+"The new president must realize that he should be a united person, and almost half voters have not voted for him, but he must realize that he is their president," Peiris said.. Remble
+
+◼️
+
+[Data](articles/31778788.json)
+
+[Extended Data](ext_articles/31778788.ext.json)
+
+---
+
+### සුමන්තිරන් අනුරට සුබ පතමින් පැවසූ දේ
+
+*2024-09-22 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201313) · `si`
+
+අනුර කුමාර දිසානායක මහතා ලබාගත් සුවිශේෂී ජයග්‍රහණය වෙනුවෙන් සුබ පතමින් පාර්ලිමේන්තු මන්ත්‍රී එම් ඒ සුමන්තිරන් මහතා X පණිවුඩයක් නිකුත්කර තිබේ.
+
+ඔහු එහි දක්වා ඇත්තේ වාර්ගික හෝ ආගමික මතවාදයේ පිහිටක් නොමැතිව ඔහු එම ජයග්‍රහණය ලබාගෙන ඇති බවයි.
+
+එසේම ඉලංගෙයි තමිල් අරසු කච්චි හි ඉල්ලීම පරිදි සජිත් ප්‍රේමදාස මහතාට ඡන්දය ලබාදුන් උතුරු නැගෙනහිර ජනතාවට සිය ස්තූතිය පළ කරන බවද ඔහු පවසයි.
+
+◼️
+
+[Data](articles/77014a30.json)
+
+---
+
+### Anura Kumara claims big wins in Rathgama and Tangalle
+
+*2024-09-22 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102164/anura-kumara-claims-big-wins-in-rathgama-and-tangalle) · `en`
+
+The results of the Rathgama polling division in Galle District for the 2024 Presidential Election have been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of votes in the Rathgama polling division with a total of 30,323 votes.
+
+Meanwhile, Dissanayake has also topped the Tangalle polling division in the Hambantota District with 59,117 votes.
+
+◼️
+
+[Data](articles/05040396.json)
+
+[Extended Data](ext_articles/05040396.ext.json)
+
+---
+
+### හම්බන්තොට - තංගල්ල
+
+*2024-09-22 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201312) · `si`
+
+හම්බන්තොට දිස්ත්‍රික්කයේ තංගල්ල මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 59,117 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/5175806a.json)
+
+---
 
 ### Galle - Rathgama
 
@@ -87,6 +329,24 @@ In the presidential election held yesterday, a Sri Lankan citizen voted for him 
 [Data](articles/834f4951.json)
 
 [Extended Data](ext_articles/834f4951.ext.json)
+
+---
+
+### Voting for Trump in Sri Lanka
+
+*2024-09-22 07:14:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தேர்தலில்-ட்ரம்புக்கு-வாக்களிப்பு/175-344146) · `ta`
+
+Sri Lankan citizen votes for Trump in US election. This unusual event highlights international interest in American politics. The vote demonstrates global reach of US elections and potential influence beyond national borders.
+
+🟩
+
+In the presidential election held yesterday, a Sri Lankan citizen voted for him in the ballot voted by US presidential candidate Donald Trump.
+
+◼️
+
+[Data](articles/e359c20d.json)
+
+[Extended Data](ext_articles/e359c20d.ext.json)
 
 ---
 
@@ -1236,21 +1496,35 @@ The Nallur official voting results of the Jaffna district has been released and 
 
 ---
 
-### தமிழ் அரசு தாக்கம் செலுத்துமா?
+### Will the Tamil government have an impact?
 
 *2024-09-22 03:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194350) · `ta`
 
-“தமிழ் அரசு கட்சி சஜித்தை ஆதரிக்கும் தீர்மானத்தை எடுத்ததற்கும் தபால் மூல வாக்களிப்புக்கும் தொடர்புகள் இல்லை. தனிப்பட்ட முறையில் சஜித் பிரேமதாசவுடன் செய்து கொண்ட இணக்கப்பாடு அக்கட்சியின் அவசர அறிவிப்புக்கு காரணம்”
+Here's a 200-character summary:
 
-இலங்கை தமிழ் அரசு கட்சியின் மத்திய குழு கூட்டத்தில், சஜித் பிரேமதாசவை ஆதரிக்கும் தீர்மானம் கடந்த முதலாம் திகதி அவசர அவசரமாக எடுக்கப்பட்டது.
 
-மூன்று பிரதான வேட்பாளர்களின் தேர்தல் அறிக்கைகளையும் ஆராய்ந்த பின்னர் அதற்கு என நியமிக்கப்பட்ட உயர்மட்ட குழு சமர்ப்பிக்கும் அறிக்கையின் அடிப்படையிலேயே, யாருக்கு ஆதரவளிப்பது என தீர்மானம் எடுக்கப்படும் என முன்னதாக முடிவு எடுக்கப்பட்டது.
 
-அந்த முடிவுக்கு மாறாக, வவுனியாவில் மத்திய குழு கூட்டத்தில் சஜித் பிரேமதாசவுக்கு ஆதரவு வழங்கும் தீர்மானம் எடுக்கப்பட்ட போது, அதற்கு முக்கியமாக கூறப்பட்ட காரணம், தபால் மூல வாக்களிப்புக்கு முன்னதாக தீர்மானம் எடுக்க வேண்டும் என்பதே ஆகும்.
+Tamil State Party rushed support for Sajith Premadasa without influencing postal votes. Postal voters' decisions independent of parties. Sajith received higher percentages in postal votes than expected, indicating limited party impact.
+
+🟩
+
+“The Tamil State Party has no contact with the decision to support Sajith and the postal vote. The compliance with Sajith Premadasa personally is attributed to the urgent announcement of the party. ”
+
+At the Central Committee of the Sri Lanka Tamil State Party, a resolution to support Sajith Premadasa was taken in a hurry on the first day.
+
+It was earlier decided that the decision would be taken on the basis of a report submitted by a high -level committee appointed by the three major candidates.
+
+On the contrary, when a decision was taken to support Sajith Premadasa at the Central Committee meeting in Vavuniya, the main reason was that the decision was to be made before the postal voting.
+
+Postal voting has begun on the fourth day. Followed three consecutive days. On those occasions, those who did not vote were given the opportunity to vote in the District Secretariats on the 11th and 12th.
+
+Those who are eligible to vote by post are public servants, police and soldiers.
 
 ...
 
 [Data](articles/897a8055.json)
+
+[Extended Data](ext_articles/897a8055.ext.json)
 
 ---
 
@@ -1731,357 +2005,5 @@ The official postal voting outcome of the Trincomalee District has been released
 [Data](articles/053e1ce0.json)
 
 [Extended Data](ext_articles/053e1ce0.ext.json)
-
----
-
-### Trincomalee District postal vote results released
-
-*2024-09-22 01:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102137/trincomalee-district-postal-vote-results-released) · `en`
-
-The postal vote result of the Galle district in 2024 Presidential Election has been released with National People’s Power (NPP) candidate Anura Kumara Dissanayake once again topping the list.
-
-Dissanayake has received a total of 5,480 postal votes, which is 37.89%.
-
-Samagi Jana Sandhanaya candidate Sajith Premadasa (4,537) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 3,830 postal votes.
-
-Meanwhile, Tamil common candidate P. Ariyanethiran has polled 431 while Sri Lanka Podujana Peramuna (SLPP) candidate Namal Rajapaksa has obtained 129 postal votes.
-
-◼️
-
-[Data](articles/a1a5ca54.json)
-
-[Extended Data](ext_articles/a1a5ca54.ext.json)
-
----
-
-### Galle official postal voting results
-
-*2024-09-22 01:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201288) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Galle district postal voting results: Anura Kumara Dissanayake wins with 25,892 votes."
-
-🟩
-
-The official postal voting outcome of the Galle District has been released and Anura Kumara Dissanayake returns to 25,892 votes.
-
-◼️
-
-[Data](articles/3eccff9e.json)
-
-[Extended Data](ext_articles/3eccff9e.ext.json)
-
----
-
-### Moneragala District postal vote results released
-
-*2024-09-22 01:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102136/moneragala-district-postal-vote-results-released) · `en`
-
-The postal vote result for Galle district in the 2024 Presidential Election has been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 14,050 votes.
-
-Samagi Jana Sandhanaya candidate Sajith Premadasa (5,733) has received the second highest number of votes followed by independent candidate President Ranil Wickremesinghe who has polled 3,401 postal votes.
-
-Meanwhile, Sri Lanka Podujana Peramuna (SLPP) candidate Namal Rajapaksa has polled 470 postal votes while ‘Sarvajana Balaya’ alliance candidate Dilith Jayaweera has obtained 89.
-
-◼️
-
-[Data](articles/efa49788.json)
-
-[Extended Data](ext_articles/efa49788.ext.json)
-
----
-
-### Moneragala Official Postal Vote
-
-*2024-09-22 01:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201287) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Anura Kumara Dissanayake received 14,050 postal votes in Moneragala district."
-
-🟩
-
-Anura Kumara Dissanayake has returned 14,050 votes in the Moneragala district.
-
-◼️
-
-[Data](articles/3056f34b.json)
-
-[Extended Data](ext_articles/3056f34b.ext.json)
-
----
-
-### Polonnaruwa District: Postal Voting
-
-*2024-09-22 01:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலன்னறுவை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344117) · `ta`
-
-Here's a summary of "Polonnaruwa District: Postal Voting" in approximately 200 characters:
-
-
-
-Polonnaruwa District conducts postal voting for elections. Eligible voters receive ballot papers by post. They mark choices and return ballots via mail. This system allows remote participation in local polls.
-
-🟩
-
-◼️
-
-[Data](articles/c35bc74a.json)
-
-[Extended Data](ext_articles/c35bc74a.ext.json)
-
----
-
-### Hambantota Official Postal Vote
-
-*2024-09-22 01:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201286) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Hambantota postal vote: Anura Kumara Dissanayake leads with 14,482 votes."
-
-🟩
-
-Anura Kumara Dissanayake is released before 14,482 votes in the Hambantota district.
-
-◼️
-
-[Data](articles/34cb19cb.json)
-
-[Extended Data](ext_articles/34cb19cb.ext.json)
-
----
-
-### 2024 Presidential Election: Hambantota District postal vote results released
-
-*2024-09-22 01:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102135/2024-presidential-election-hambantota-district-postal-vote-results-released) · `en`
-
-The postal vote result of the Hambantota district in 2024 Presidential Election has been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 14,482 votes.
-
-Samagi Jana Sandhanaya candidate Sajith Premadasa (3,397) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 2,502.
-
-◼️
-
-[Data](articles/61e0ddce.json)
-
-[Extended Data](ext_articles/61e0ddce.ext.json)
-
----
-
-### 2024 Presidential Election: Polonnaruwa District postal vote results released
-
-*2024-09-22 01:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102134/2024-presidential-election-polonnaruwa-district-postal-vote-results-released) · `en`
-
-The postal vote result of the Polonnaruwa district in 2024 Presidential Election has been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 11,768 votes (61.26%).
-
-Samagi Jana Sandhanaya candidate Sajith Premadasa (4,120) has received the second highest number of votes followed by Independent candidate President Ranil Wickremesinghe who has polled 2,762.
-
-Sri Lanka Podujana Peramuna (SLPP) Namal Rajapaksa has polled 188 postal votes while ‘Sarvajana Balaya’ alliance candidate Dilith Jayaweera has obtained 56 votes.
-
-◼️
-
-[Data](articles/a321eb72.json)
-
-[Extended Data](ext_articles/a321eb72.ext.json)
-
----
-
-### Polonnaruwa Official Postal Vote
-
-*2024-09-22 01:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201285) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Polonnaruwa District postal vote results: Anura Kumara Dissanayake receives 11,768 votes.
-
-🟩
-
-The official postal voting outcome of the Polonnaruwa District has been released and Anura Kumara Dissanayake returns to 11,768 votes.
-
-◼️
-
-[Data](articles/f48af72b.json)
-
-[Extended Data](ext_articles/f48af72b.ext.json)
-
----
-
-### Travel at the curfew - the main announcement made by the police
-
-*2024-09-22 00:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194335) · `ta`
-
-Curfew restrictions: No permits issued for travel. Essential/emergency services exempt. Public may use duties as valid reason for movement.
-
-🟩
-
-The police will not issue a curfew permit to travel during the period of curfew.
-
-In addition, the general public can use their duty as a curfew, while traveling for essential services and emergency services, the police media unit said.
-
-◼️
-
-[Data](articles/81ffe9fe.json)
-
-[Extended Data](ext_articles/81ffe9fe.ext.json)
-
----
-
-### Curfew Law: Police Special Notice
-
-*2024-09-22 00:36:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-சட்டம்-பொலிஸ்-விசேட-அறிவிப்பு/175-344116) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Saturday night curfew: 10 PM to 6 AM Sunday. No distribution via police stations. Essential/Emergency services exempt."
-
-🟩
-
-The Police curfew will be in force on Saturday (21) from 10 pm to 6 am on Sunday (22).
-
-During this period, the curfew will not be distributed through police stations. The police media unit has announced that the Essential and Emergency Services can be used as a curfew as a curfew.
-
-◼️
-
-[Data](articles/1da4a4bb.json)
-
-[Extended Data](ext_articles/1da4a4bb.ext.json)
-
----
-
-### Chaw Championship under 17 years old: Sri Lanka's worst defeat to Bhutan
-
-*2024-09-22 00:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194337) · `ta`
-
-Sri Lanka's U-17 football team suffered a 5-1 loss to Bhutan in the South Asian Championship. Critics blame poor training and coach Aruna Sampath. Young Sri Lankan players struggled against Bhutan's dominant performance.
-
-🟩
-
-Sri Lanka lost to Bhutan at the under -17 South Asian Football Championship B team at the Sanglimitang Stadium in Bhutan's capital Timbu on Saturday night.
-
-Bhutan won the match by 5 - 1 in the upting match.
-
-The reason for this failure is that the players are not properly trained. Football critics have stated that team instructor Aruna Sampath should take responsibility for this.
-
-Young Sri Lankan players did not play as an entire item on YouTube.
-
-In the 14th minute of the match, Karma Yeesay Tabke hit the ball with his head and put a stupid goal in the presence of Bhutan.
-
-Sayon Lama inserted Bhutan's 2nd goal as it was within 5 minutes of the break.
-
-Bhutan, who dominated the match after the break, scored 3 more goals.
-
-In the 57th minute, Sismi Topten Dorjee, Dinley Yesar in the 78th minute, and Tundin Fantsho in the 83rd minute scored goals on behalf of Bhutan.
-
-In the 65th minute of Sri Lanka, Mohammed Zayed Mohammed Ibam scored a comfort goal.
-
-◼️
-
-[Data](articles/7442cf81.json)
-
-[Extended Data](ext_articles/7442cf81.ext.json)
-
----
-
-### Poultry Paddy Chelladurai - Film Review
-
-*2024-09-22 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194322) · `ta`
-
-"Poultry Paddy Chelladurai" film review summary:
-
-
-
-Seanu Ramaswamy directs actors Egan, Yogi Babu, Brigita Saga, Satya Devi, Leo Sivakumar. Story follows soldier family struggles, sibling rivalry, and personal growth. Director fails to convey emotional depth, but newcomers shine. Cinematography and music provide comfort. Overall mixed reception due to predictable plot and underdeveloped themes.
-
-🟩
-
-Actors: Egan, Yogi Babu, Brigita Saga, Satya Devi, Leo Sivakumar, Bawa Chelladurai, Kutty Tiger Dinesh and many others.
-
-The film was directed by Seanu Ramaswamy, the winner of the national award -winning creator Seenu Ramaswamy.. Did the film impress all the fans?Or not?We will continue to see.
-
-The Indian Army (Riaz) and his wife (Aishwarya Dutta) have a male child at the age of 11, and the female child at an early age.
-
-The husband goes to the training camp to become an agent of a life insurance company, who wants to spend the leisure time available for her husband to work in her life.
-
-At the event where one person sings the movie song. He faints to his voice.
-
-After the children went to school.. The singer is looking for the house where the wife of the soldier.
-
-Marriage occurs in the past relationship for both. To inform her husband of the neighbors who work in Amy.. They both escape from there to visit both hands and hands.
-
-...
-
-[Data](articles/f8dc358b.json)
-
-[Extended Data](ext_articles/f8dc358b.ext.json)
-
----
-
-### Sri Lanka Police announcement on curfew passes
-
-*2024-09-22 00:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102133/sri-lanka-police-announcement-on-curfew-passes-) · `en`
-
-Sri Lanka Police announced that police stations will not be issuing curfew passes for travel during the curfew period.
-
-Issuing a release, The Police Media Division said that essential workers and emergency services personnel can use their official identity cards as a curfew pass.
-
-Curfew has been imposed islandwide with effect from 10.00 p.m. tonight (21) until 06.00 a.m. tomorrow (22).
-
-This decision has been taken by the incumbent President Ranil Wickramasinghe under the provisions of the Public Security Ordinance, in view of the releasing of the results of 2024 presidential election tonight.
-
-However, the Police Media Division had stated that although the post-election situation in the country is very peaceful, this curfew was imposed for further safety of the public. Furthermore, Sri Lanka Police urged the general public to stay in their houses during the curfew period.
-
-...
-
-[Data](articles/508ffc55.json)
-
-[Extended Data](ext_articles/508ffc55.ext.json)
-
----
-
-### Rishabh Bond scored a century and equals the record for Indian wicketkeeper
-
-*2024-09-22 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194336) · `ta`
-
-Rishabh Bond scores century, equals MS Dhoni's record as India's first wicketkeeper to achieve 6 Test centuries. India vs Bangladesh match update: India sets 515-run target, Bangladesh struggles in second innings.
-
-🟩
-
-Chennai, Chepakkam M between India and Bangladesh. A.. Rishabh Bond has scored his 6th century in the first Test cricket match at Chidambaram Stadium and proved to be India's first wicketkeeper.
-
-Almost two years later, Rishabh Bond, who re -entered Test cricket, equaled the record for the Indian wicketkeeper who scored the 6th century.
-
-M.. S.. Dhoni balanced the record of 6 Test centuries.
-
-On the 3rd day of the match, India set their target of 515 runs for Bangladesh when they lost 4 wickets for 4 wickets for the loss of 83 runs for the loss of 3 wickets.
-
-Rishabh Bond, who scored 109 runs in India's second innings, shared 167 runs with Shubman Kill in the 4th wicket.
-
-Kill with 119 runs when India stopped the second innings. Rahul did not lose 22 runs.
-
-Bangladesh were bowled out for the most difficult, unthinkable 515 runs in the 2nd innings, losing 4 wickets at the end of the third day's play and scoring 158 runs.
-
-Team captain Najmul Hosain Santo did not lose 51 runs and Shakib Al Hasan 5.
-
-...
-
-[Data](articles/3a25f247.json)
-
-[Extended Data](ext_articles/3a25f247.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 05:44:46**
+As of **2024-09-22 06:10:52**
 
 ## Newspaper Stats
 
-*Scraped **45,232** Articles*
+*Scraped **45,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 378
 bbccomsinhala | 441
 colombotelegraphcom | 453
-islandlk | 2,656
+islandlk | 2,669
 economynextcom | 2,741
 dailyftlk | 3,017
 adalk | 4,173
 dailymirrorlk | 4,733
-adaderanalk | 5,329
+adaderanalk | 5,334
 tamilmirrorlk | 5,945
 virakesarilk | 7,241
 adaderanasinhalalk | 7,762
@@ -26,11 +26,93 @@ adaderanasinhalalk | 7,762
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,227 (100.0%) of 45,232 articles have been extended.
+45,239 (100.0%) of 45,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Anura Kumara secures win in Badulla polling division
+
+*2024-09-22 05:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102155/anura-kumara-secures-win-in-badulla-polling-division) · `en`
+
+The results of the Badulla polling division in Badulla District for the 2024 Presidential Election have been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake received the highest number of votes in the Badulla polling division securing 17,983 votes.
+
+◼️
+
+[Data](articles/d25aa6fa.json)
+
+[Extended Data](ext_articles/d25aa6fa.ext.json)
+
+---
+
+### Anura leads in Gamaha and Puttalam postal votes
+
+*2024-09-22 05:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102154/-anura-leads-in-gamaha-and-puttalam-postal-votes) · `en`
+
+The postal vote result of the Gampaha District in the 2024 Presidential Election has been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of postal votes in the district with a total of 33,226 postal votes.
+
+Meanwhile, Dissanayake has also topped the postal vote result of the Puttalam District securing 8,614 postal votes.
+
+◼️
+
+[Data](articles/f416fe05.json)
+
+[Extended Data](ext_articles/f416fe05.ext.json)
+
+---
+
+### AKD secures win in Balapitiya polling division
+
+*2024-09-22 05:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102153/akd-secures-win-in-balapitiya-polling-division) · `en`
+
+The results of the Balapitiya polling division in Galle District for the 2024 Presidential Election have been released by the Election Commission.
+
+National People’s Power (NPP) candidate Anura Kumara Dissanayake has topped the Balapitiya polling division securing 20,096 votes.
+
+◼️
+
+[Data](articles/d07ce624.json)
+
+[Extended Data](ext_articles/d07ce624.ext.json)
+
+---
+
+### Ranil tops Jaffna postal votes
+
+*2024-09-22 05:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102152/ranil-tops-jaffna-postal-votes) · `en`
+
+The postal vote result of the Jaffna District in the 2024 Presidential Election has been released by the Election Commission.
+
+Independent candidate President Ranil Wickremesinghehas received the highest number of postal votes in the district with a total of 9,277 postal votes.
+
+◼️
+
+[Data](articles/0afc9b47.json)
+
+[Extended Data](ext_articles/0afc9b47.ext.json)
+
+---
+
+### Ariyanethiran wins in Jaffna
+
+*2024-09-22 05:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102151/ariyanethiran-wins-in-jaffna) · `en`
+
+The results of the Jaffna polling division in Jaffna District for the 2024 Presidential Election have been released by the Election Commission with Tamil common candidate P. Ariyanethiran coming up top.
+
+Ariyanethiran has topped the Jaffna polling division securing 7,494 votes.
+
+◼️
+
+[Data](articles/6cc3bb48.json)
+
+[Extended Data](ext_articles/6cc3bb48.ext.json)
+
+---
 
 ### Postal vote results of Kurunegala
 
@@ -43,6 +125,8 @@ National People’s Power (NPP) candidate Anura Kumara Dissanayake has received 
 ◼️
 
 [Data](articles/9af8b3a5.json)
+
+[Extended Data](ext_articles/9af8b3a5.ext.json)
 
 ---
 
@@ -80,33 +164,63 @@ The official voting outcome of the Ambalangoda Electorate in Galle District has 
 
 ---
 
-### மாத்தறை தொகுதியில் அனுரவுக்கு 43,827 வாக்குகள்
+### 43,827 votes in Matara constituency
 
 *2024-09-22 04:35:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறை-தொகுதியில்-அனுரவுக்கு-43-827-வாக்குகள்/175-344133) · `ta`
+
+Here's a summary of 43,827 votes in Matara constituency in approximately 200 characters:
+
+
+
+"Matara constituency election results: 43,827 total votes cast. This number represents the combined votes from all candidates in this specific electoral district."
+
+🟩
 
 ◼️
 
 [Data](articles/37f4d7d4.json)
 
+[Extended Data](ext_articles/37f4d7d4.ext.json)
+
 ---
 
-### கேகாலை மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+### Kegalle District: Postal Voting
 
 *2024-09-22 04:28:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/175-344132) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Kegalle District conducts postal voting for elections. Eligible citizens receive ballot papers by post. They mark choices and return completed ballots via mail. This system allows voters to participate without visiting polling stations, promoting accessibility and convenience.
+
+🟩
 
 ◼️
 
 [Data](articles/2e0255a3.json)
 
+[Extended Data](ext_articles/2e0255a3.ext.json)
+
 ---
 
-### திகாமடுல்ல மாவட்ட தபால் மூல வாக்களிப்பு
+### Digamadulla District Postal Voting
 
 *2024-09-22 04:25:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்ல-மாவட்ட-தபால்-மூல-வாக்களிப்பு/175-344131) · `ta`
+
+Here's a summary of "Digamadulla District Postal Voting" in approximately 200 characters:
+
+
+
+Postal voting system implemented in Digamadulla district for efficient election process. Allows citizens to cast votes from remote locations, increasing voter participation and reducing queues at polling stations. Ensures secrecy and security of ballots through proper handling and counting procedures.
+
+🟩
 
 ◼️
 
 [Data](articles/e4d54a11.json)
+
+[Extended Data](ext_articles/e4d54a11.ext.json)
 
 ---
 
@@ -430,13 +544,23 @@ Matara District conducts postal voting for elections. Eligible voters receive ba
 
 ---
 
-### நுவரெலியா மாவட்டம்: தபால்மூல வாக்குப்பதிவு
+### Nuwara Eliya District: Postal Voting
 
 *2024-09-22 02:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-மாவட்டம்-தபால்மூல-வாக்குப்பதிவு/76-344125) · `ta`
+
+Here's a summary of the Nuwara Eliya District postal voting in approximately 200 characters:
+
+
+
+Nuwara Eliya District conducts postal voting for elections. Eligible voters receive ballot papers by post. They mark choices and return ballots through designated channels. This system allows remote participation in local polls.
+
+🟩
 
 ◼️
 
 [Data](articles/a25936be.json)
+
+[Extended Data](ext_articles/a25936be.ext.json)
 
 ---
 
@@ -2065,125 +2189,5 @@ The moment of warmth voting voting results on the world's modern telecommunicati
 [Data](articles/b13aeb66.json)
 
 [Extended Data](ext_articles/b13aeb66.ext.json)
-
----
-
-### Election Commission receives 2,010 complaints on social media use
-
-*2024-09-21 19:30:00* · [`economynextcom`](https://economynext.com/election-commission-receives-2010-complaints-on-social-media-use-180335/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Election Commission said it had received 2,010 complaints related to social media mis-use in the last week upto noon today (21).
-
-Complaints were received about hate speech (713), disinformation (389), children in advertising (13), and misinformation (231).
-
-The number of posts that were taken down was 872. But 201 posts were not taken down. (Colombo/Sep21/2024)
-
-◼️
-
-[Data](articles/bfd3eef0.json)
-
-[Extended Data](ext_articles/bfd3eef0.ext.json)
-
----
-
-### Voting boxes are taken to polling stations!
-
-*2024-09-21 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194296) · `ta`
-
-Sri Lanka's 2024 presidential election results: Gotabhaya Rajapakse wins with 52.25% of votes. First results announced at midnight. 17 million eligible voters cast ballots across 22 districts.
-
-🟩
-
-The 2024 presidential election voting was completed independently and quietly on Saturday (21st).
-
-The voting, which began at 7 am today, ended at 4 pm.
-
-In this case, voting boxes from polling stations have been taken to polling stations.
-
-The first election result will be released at midnight today, said Saman Sri Ratnayake, Commissioner General of the Election Commission.
-
-With 38 presidential candidates contesting this time, 17, 140,354 were eligible to vote.
-
-In the 22 election districts, the Colombo district has the highest number of electoral constituencies and 3,151 voting centers in the Colombo Election District.
-
-Gotabhaya Rajapakse, who contested the presidential candidate of Sri Lanka PA as the presidential candidate, was elected as the 7th Executive President of the country with 52.25 per cent votes with 52.25 per cent votes.
-
-...
-
-[Data](articles/c3e05b41.json)
-
-[Extended Data](ext_articles/c3e05b41.ext.json)
-
----
-
-### Blocked on the rally
-
-*2024-09-21 19:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேரணி-செல்ல-தடை/175-344095) · `ta`
-
-Rally ban: Vehicles prohibited for one week, including election period. Cooperation urged to maintain law and order. Violations may face legal consequences.
-
-🟩
-
-Deputy Inspector General of Media Spokesperson Nihal Talduwa today (21) said that the rally was banned from the vehicles or a walk for a week, including the period of the presidential election and its subsequent period.
-
-He added that the people should cooperate to protect the legal order and that if they violate the laws that are in force, the power will be used to protect the legal order.
-
-◼️
-
-[Data](articles/2bcf8985.json)
-
-[Extended Data](ext_articles/2bcf8985.ext.json)
-
----
-
-### Special statement on election commissioner
-
-*2024-09-21 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201275) · `si`
-
-Election Commissioner Saman Sri Ratnayake declares best election ever. No violence reported. Voter turnout starts at 7 AM. Counting in 1,713 centers.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake said this is the best election held in the history of election history.
-
-He was speaking at a special statement to the media this morning.
-
-And he added that the time was not reported that there was no violence in that time.
-
-The voter turnout at the Presidential Election began at 7 am today (21).
-
-Ratnayake further stated that the counting of votes will be held in 1,713 counting centers.
-
-◼️
-
-[Data](articles/6b6e3f0f.json)
-
-[Extended Data](ext_articles/6b6e3f0f.ext.json)
-
----
-
-### I am not retiring from politics
-
-*2024-09-21 19:25:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-அரசியலில்-இருந்து-ஓய்வு-பெறவில்லை/175-344094) · `ta`
-
-Maithripala Sirisena supports newly elected president, warns of economic challenges and high election costs. He denies retirement from politics, hinting at future involvement in presidential or parliamentary races.
-
-🟩
-
-Former President Maithripala Sirisena said he would support him who was elected president in this election today after voting in Polonnaruwa.
-
-Speaking to reporters, he said the upcoming president would face many challenges and the government in the upcoming election at least Rs.. Ver said he would have to carry out 40 billion.
-
-“This election alone costs more than 10 billion. More than 10 billion costs for the provincial council and the Pradeshiya Sabha elections.
-
-He said the new president would face significant problems in managing the economy and providing services to the public.
-
-"I have not retired from politics, but in the future, the president or the parliamentary elections have not been decided," he added.
-
-◼️
-
-[Data](articles/cc6eb351.json)
-
-[Extended Data](ext_articles/cc6eb351.ext.json)
 
 ---

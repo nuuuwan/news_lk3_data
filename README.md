@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 11:09:17**
+As of **2024-09-22 11:22:40**
 
 ## Newspaper Stats
 
-*Scraped **45,389** Articles*
+*Scraped **45,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,85 @@ dailyftlk | 3,017
 adalk | 4,179
 dailymirrorlk | 4,733
 adaderanalk | 5,356
-tamilmirrorlk | 5,985
+tamilmirrorlk | 5,991
 virakesarilk | 7,255
-adaderanasinhalalk | 7,817
+adaderanasinhalalk | 7,820
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,389 (100.0%) of 45,389 articles have been extended.
+45,389 (100.0%) of 45,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### கொழும்பு மாவட்டம் - பொரளை தேர்தல் முடிவுகள்
+
+*2024-09-22 11:05:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டம்-பொரளை-தேர்தல்-முடிவுகள்/175-344177) · `ta`
+
+◼️
+
+[Data](articles/b77f456f.json)
+
+---
+
+### රක්වාන සජිත්ට
+
+*2024-09-22 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201359) · `si`
+
+රත්නපුර දිස්ත්‍රික්කයේ  රක්වාන මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 37151 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/3cbd7528.json)
+
+---
+
+### කලවාන අනුරට
+
+*2024-09-22 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201358) · `si`
+
+රත්නපුර දිස්ත්‍රික්කයේ කලවාන මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර අනුර කුමාර දිසානායක ඡන්ද 19,850ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/e289bb6d.json)
+
+---
+
+### මන්නාරම සජිත්ට
+
+*2024-09-22 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201357) · `si`
+
+වන්නි දිස්ත්‍රික්කයේ මන්නාරම මැතිවරණ බල ප්‍රදේශයේ නිල ඡන්ද ප්‍රතිඵලය නිකුත්වී ඇති අතර සජිත් ප්‍රේමදාස ඡන්ද 28491 ක් ලබාගනිමින් එම බල ප්‍රදේශය ජයගැනීමට සමත්වී ඇත.
+
+◼️
+
+[Data](articles/9a18a9c4.json)
+
+---
+
+### அம்பாறை மாவட்டம் - சம்மாந்துறை தேர்தல் முடிவுகள்
+
+*2024-09-22 10:53:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாறை-மாவட்டம்-சம்மாந்துறை-தேர்தல்-முடிவுகள்/175-344176) · `ta`
+
+◼️
+
+[Data](articles/fe2d2889.json)
+
+---
+
+### பொலன்னறுவையை அள்ளினார் அனுர
+
+*2024-09-22 10:51:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலன்னறுவையை-அள்ளினார்-அனுர/175-344175) · `ta`
+
+◼️
+
+[Data](articles/3aacbb39.json)
+
+---
 
 ### 2024 presidential election: Polonnaruwa, Balangoda, Ratnapura and Horowpathana results
 
@@ -90,6 +156,36 @@ The official voting outcome of the Ratnapura District has been released, and Anu
 
 ---
 
+### அம்பாறை மாவட்டம் - கல்முனை தேர்தல் முடிவுகள்
+
+*2024-09-22 10:45:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாறை-மாவட்டம்-கல்முனை-தேர்தல்-முடிவுகள்/175-344174) · `ta`
+
+◼️
+
+[Data](articles/d80a8a77.json)
+
+---
+
+### முதலாவது அமைதியான தேர்தல்
+
+*2024-09-22 10:40:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாவது-அமைதியான-தேர்தல்/175-344173) · `ta`
+
+2024 ஆம் ஆண்டு நடைபெற்ற ஜனாதிபதித் தேர்தல் வரலாற்றில் மிகவும் அமைதியான தேர்தலாக அமைந்துள்ளதாக சுதந்திரமான மற்றும் நியாயமான தேர்தலுக்கான மக்கள் செயற்பாடு (PAFFREL) அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி இன்று தெரிவித்தார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், தேர்தல் சட்டத்தை மீறிய 108 சம்பவங்கள் இன்று வரை பதிவாகியுள்ளன.
+
+தேர்தலின் போது அரச சொத்துக்கள் துஷ்பிரயோகம் மிகவும் குறைவாகவே காணப்பட்டதாக ஹெட்டியாராச்சி குறிப்பிட்டுள்ளார்.
+
+பொலிஸ் மா அதிபர் (IGP) நாட்டில் இல்லாத போதும் தேர்தல்களை நடத்துவதற்கு பொலிஸார் சிறந்த ஆதரவை வழங்கியதாகவும் அவர் கூறினார்.
+
+இதேவேளை, இவ்வருட ஜனாதிபதி தேர்தலில் 75% முதல் 80% வரையிலான வாக்குகள் பதிவாகியுள்ளதாக PAFFREL குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/8eb8d2c7.json)
+
+---
+
 ### Polonnaruwa
 
 *2024-09-22 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201354) · `si`
@@ -129,6 +225,18 @@ Dissanayake also secured victory in the Nawalapitiya polling division in the Kan
 [Data](articles/da1220d8.json)
 
 [Extended Data](ext_articles/da1220d8.ext.json)
+
+---
+
+### டபிள்யூ ஜெயசிறி காலமானார்
+
+*2024-09-22 10:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டபிள்யூ-ஜெயசிறி-காலமானார்/175-344172) · `ta`
+
+மூத்த இலங்கை நடிகர், திரைக்கதை எழுத்தாளர் மற்றும் பாடலாசிரியர் டபிள்யூ ஜெயசிறி தனது 77வது வயதில் காலமாகியுள்ளார்.
+
+◼️
+
+[Data](articles/0d2e2eda.json)
 
 ---
 
@@ -1825,185 +1933,5 @@ The official voting outcome of Mullaitivu Electorate in the Vanni District has b
 [Data](articles/f0972b33.json)
 
 [Extended Data](ext_articles/f0972b33.ext.json)
-
----
-
-### The new president is likely to be sworn in today
-
-*2024-09-22 07:44:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதி-இன்று-பதவிப்பிரமாணம்-செய்ய-வாய்ப்பு/175-344148) · `ta`
-
-New president likely to be sworn in today. Election commission must announce winner first. Delay in result release causes uncertainty about exact timing.
-
-🟩
-
-Daily Mirror said that if the final announcement of the National People's Power Leader Anura Kumara Dissanayake as the winner, he could be sworn in as the new president this afternoon if the Elections Commission was issued by the Elections Commission.
-
-National People's Power General Secretary Dr. Nihal Abeysinghe told the Daily Mirror that the time of office was not confirmed due to the delay in the release of the results.
-
-He also said that if the final announcement was made in time, the swearing -in could take place today. Remble
-
-◼️
-
-[Data](articles/b2347e0b.json)
-
-[Extended Data](ext_articles/b2347e0b.ext.json)
-
----
-
-### Success is firm - News that flew to Anura
-
-*2024-09-22 07:38:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றி-உறுதியானது-அனுரவுக்கு-பறந்த-செய்தி/175-344147) · `ta`
-
-Anura Kumara Dissanayake wins presidency, reflecting desire for real change. Saliya Peiris warns new president about executive power and public responsibility.
-
-🟩
-
-Saliya Peiris, former president of the Sri Lanka Lawyers Association (BASL), said that the victory of NPP's presidential candidate Anura Kumara Dissanayake reflects the stronger wishes for the actual change.
-
-"Even though the final result is not yet announced, it is clear that Sri Lanka's next President Anurakumara Dissanayake is now clear," Peiris said in his Facebook page.
-
-Peiris warned Dissanayake to be alert to the vast powers of the executive president and to use public responsibility.
-
-"The new president must realize that he should be a united person, and almost half voters have not voted for him, but he must realize that he is their president," Peiris said.. Remble
-
-◼️
-
-[Data](articles/31778788.json)
-
-[Extended Data](ext_articles/31778788.ext.json)
-
----
-
-### What the best of Sumanthiran said
-
-*2024-09-22 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201313) · `si`
-
-MP MA Sumanthiran praised Anura Kumara Dissanayake's victory, noting it was achieved without racial or religious ideology. He thanked voters in the North and East who supported Sajith Premadasa at the request of Ilankai Tamil Arasu Kachchi.
-
-🟩
-
-Member of Parliament MP MA Sumanthiran has issued a message from the best rewards for the unique victory of Anura Kumara Dissanayake.
-
-He has been given there that he had taken that victory without help in racial or religious ideology.
-
-He also thanked the North and the East who voted for Sajith Premadasa at the request of Mr. Ilangai Tamil Arasu Kachchi.
-
-◼️
-
-[Data](articles/77014a30.json)
-
-[Extended Data](ext_articles/77014a30.ext.json)
-
----
-
-### Anura Kumara claims big wins in Rathgama and Tangalle
-
-*2024-09-22 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102164/anura-kumara-claims-big-wins-in-rathgama-and-tangalle) · `en`
-
-The results of the Rathgama polling division in Galle District for the 2024 Presidential Election have been released by the Election Commission.
-
-National People’s Power (NPP) candidate Anura Kumara Dissanayake has received the highest number of votes in the Rathgama polling division with a total of 30,323 votes.
-
-Meanwhile, Dissanayake has also topped the Tangalle polling division in the Hambantota District with 59,117 votes.
-
-◼️
-
-[Data](articles/05040396.json)
-
-[Extended Data](ext_articles/05040396.ext.json)
-
----
-
-### Hambantota - Tangalle
-
-*2024-09-22 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201312) · `si`
-
-Anura Kumara Dissanayake wins Tangalle electorate with 59,117 votes in Hambantota district.
-
-🟩
-
-The official voting outcome of the Tangalle electorate in the Hambantota district has been released and Anura Kumara Dissanayake has won 59,117 votes.
-
-◼️
-
-[Data](articles/5175806a.json)
-
-[Extended Data](ext_articles/5175806a.ext.json)
-
----
-
-### Galle - Rathgama
-
-*2024-09-22 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201311) · `si`
-
-Anura Kumara Dissanayake wins Ratgama District election with 30,323 votes.
-
-🟩
-
-The official voting outcome of the Ratgama District in Galle District has been released and Anura Kumara Dissanayake has won 30,323 votes.
-
-◼️
-
-[Data](articles/d69618d3.json)
-
-[Extended Data](ext_articles/d69618d3.ext.json)
-
----
-
-### Ali Sabry and Harsha congratulate Anura Kumara
-
-*2024-09-22 07:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102163/ali-sabry-and-harsha-congratulate-anura-kumara-) · `en`
-
-Samagi Jana Balawegaya (SJB) Parliamentarian Dr. Harsha de Silva has congratulated the National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake.
-
-In a post on ‘X’ (formerly Twitter), the former Deputy Minister said they campaigned hard for SJB’s presidential candidate Sajith Premadasa, and that however “it was not to be”.
-
-“It is now clear Anura Kumara Dissanayake will be the new President of SriLanka.”
-
-Dr. de Silva stated that in the spirit of democracy and goodwill he called and wished Dissanayake the best in the “arduous road ahead”.
-
-Meanwhile, Sri Lanka’s Foreign Minister Ali Sabry has also extended his best wishes to NPP candidate Dissanayake.
-
-...
-
-[Data](articles/7a4409ba.json)
-
-[Extended Data](ext_articles/7a4409ba.ext.json)
-
----
-
-### Voting for Donald Trump in Sri Lankan presidential election
-
-*2024-09-22 07:14:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ஜனாதிபதி-தேர்தலில்-டொனால்ட்-ட்ரம்புக்கு-வாக்களிப்பு/175-344146) · `ta`
-
-Sri Lankan citizen votes for Donald Trump in local election, confusing international observers.
-
-🟩
-
-In the presidential election held yesterday, a Sri Lankan citizen voted for him in the ballot voting and voted for the US presidential candidate Donald Trump.
-
-◼️
-
-[Data](articles/834f4951.json)
-
-[Extended Data](ext_articles/834f4951.ext.json)
-
----
-
-### Voting for Trump in Sri Lanka
-
-*2024-09-22 07:14:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தேர்தலில்-ட்ரம்புக்கு-வாக்களிப்பு/175-344146) · `ta`
-
-Sri Lankan citizen votes for Trump in US election. This unusual event highlights international interest in American politics. The vote demonstrates global reach of US elections and potential influence beyond national borders.
-
-🟩
-
-In the presidential election held yesterday, a Sri Lankan citizen voted for him in the ballot voted by US presidential candidate Donald Trump.
-
-◼️
-
-[Data](articles/e359c20d.json)
-
-[Extended Data](ext_articles/e359c20d.ext.json)
 
 ---

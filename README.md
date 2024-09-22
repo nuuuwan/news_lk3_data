@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 23:38:26**
+As of **2024-09-23 00:11:12**
 
 ## Newspaper Stats
 
-*Scraped **45,647** Articles*
+*Scraped **45,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 380
 bbccomsinhala | 447
 colombotelegraphcom | 454
 islandlk | 2,669
-economynextcom | 2,748
+economynextcom | 2,757
 dailyftlk | 3,017
 adalk | 4,192
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,647 (100.0%) of 45,647 articles have been extended.
+45,656 (100.0%) of 45,656 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,28 @@ Multiply the many divisions in our country are to be compromised very quickly. W
 [Data](articles/f1952b64.json)
 
 [Extended Data](ext_articles/f1952b64.ext.json)
+
+---
+
+### Sri Lanka President-elect calls for united effort to take country forward
+
+*2024-09-22 22:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-elect-calls-for-united-effort-to-take-country-forward-180511/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has called for united effort to take the country forward after being declared winner of presidential polls winning 42 percent of the popular vote.
+
+“My expectation is to treat as sri Lankans without any division all those who placed their trust in me and take the country forward,” Dissanayake said after being declared the winner by the island’s independent Elections Commission.
+
+Sri Lanka needed a government with a mandate to take the country out of economic crisis, he said.
+
+Sri Lanka is emerging from the worst currency crisis triggered by extreme macroeconomic policy, which ended in sovereign default.
+
+Despite the lack of war Sri Lanka began to experience severe balance of payments troubles from 2011 as the central bank printed money to target short term rates within a policy corridor and also narrowed it.
+
+...
+
+[Data](articles/c15a2321.json)
+
+[Extended Data](ext_articles/c15a2321.ext.json)
 
 ---
 
@@ -318,6 +340,28 @@ If you are to take action against those who have taken action against the Centra
 
 ---
 
+### I handover to you with much love, the dear child called Sri Lanka: Ranil Wickremesinghe
+
+*2024-09-22 20:34:00* · [`economynextcom`](https://economynext.com/i-handover-to-you-with-much-love-the-dear-child-called-sri-lanka-ranil-wickremesinghe-180469/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s eighth executive president Ranil Wickremesinghe has reflected on his role as a caretaker in a concession statement, and said he entrusts “the beloved child of Sri Lanka” to President Anura Dissanayake.
+
+“I am aware that my place in history as the ruler of this country will be decided not today, but in future,” Wickremesinghe said.
+
+Wickremesinghe thanked all those who supported him during his tenure, acknowledging that, in accordance with the will of the people, the leadership of the country should now be passed on to President Anura Dissanayake.
+
+“I followed the right path and saved people from hunger and sorrow. I hope that the new President will also follow the right path and put an end to the remaining issues that the people are facing.
+
+“I was eventually able to carry the dear child called Sri Lanka along a long distance safely – on the dangerous rope bridge.
+
+...
+
+[Data](articles/c09b3976.json)
+
+[Extended Data](ext_articles/c09b3976.ext.json)
+
+---
+
 ### Thanks for the unwavering commitment of President Ranil for building a prosperous Sri Lankan
 
 *2024-09-22 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194544) · `ta`
@@ -419,6 +463,30 @@ I took over this country in a very difficult situation, which had been bankrupt 
 [Data](articles/819c5a88.json)
 
 [Extended Data](ext_articles/819c5a88.ext.json)
+
+---
+
+### Anura Dissanayake declared Sri Lanka Presidential poll winner
+
+*2024-09-22 20:04:00* · [`economynextcom`](https://economynext.com/anura-dissanayake-declared-sri-lanka-presidential-poll-winner-180470/) · `en`
+
+ECONOMYNEXT- Anura Dissanayake of National People’s Power party backed by the Marxist Janatha Vimukthi Peramuna was declared Sri Lanka’s President by the Chairman of the Elections Commission R M A L Rathnayake.
+
+Sri Lanka’s Anura Dissanayake won 5.74 million votes, with 105,264 preferences beating Sajith Premadasa who got 4.53 million votes with 167,867 preferences, data from the Election Commission shows.
+
+Dissanayake garnered 42 percent of votes, the lowest for a winning president in history, and Premadasa 32 percent.
+
+Incumbent President Ranil Wickremesinghe got 2.9 million votes or 17.27 percent.
+
+Dissanayake campaigned on a platform to end corruption, while Wickremesinghe was hit by visa controversy and allegations of consorting with corrupt politicians of the last regime.
+
+Premadasa himself was hit by criticism for taking ex-Rajapaksa allies.
+
+...
+
+[Data](articles/b83a3e45.json)
+
+[Extended Data](ext_articles/b83a3e45.ext.json)
 
 ---
 
@@ -906,6 +974,26 @@ Moreover, the Election Commission said that he has appealed to the people to wor
 
 ---
 
+### Sri Lanka’s President by default loses for third time after tough economic reforms
+
+*2024-09-22 17:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-president-by-default-loses-for-third-time-after-tough-economic-reforms-180464/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe, who rose to the helm through a parliament vote two years back, has lost the presidential election for the third time in the Saturday poll after implementing two years of tough and unpopular economic reforms including tax hikes and state-owned enterprise restructuring.
+
+Wickremesinghe lost the 2020 parliament election, but became a legislator in 2021 through a solitary national list vacancy his party secured in the poll.
+
+He accepted the challenge of resurrecting a bankrupt economy in 2022 after former leader Gotabaya Rajapaksa invited him to take over as the Sri Lankan Prime Minister for the sixth time.
+
+After he was elected as the parliament through a parliament vote, he stubbornly implemented some unpalatable economic reforms under an International Monetary Fund (IMF)-led bailout package.
+
+...
+
+[Data](articles/f5efa548.json)
+
+[Extended Data](ext_articles/f5efa548.ext.json)
+
+---
+
 ### Gampaha, Kalutara, Katana, Wattala, Ja-Ela and Negombo won by Anura Kumara
 
 *2024-09-22 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102195/gampaha-kalutara-katana-wattala-ja-ela-and-negombo-won-by-anura-kumara) · `en`
@@ -1051,6 +1139,26 @@ Sajith Premadasa secured 4,363,035 - 32.76% votes and Ranil Wickremesinghe was i
 [Data](articles/681ed36c.json)
 
 [Extended Data](ext_articles/681ed36c.ext.json)
+
+---
+
+### Sri Lanka’s Marxist leader secures 42.3% of votes at presidency; tipped to win after second count
+
+*2024-09-22 17:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-marxist-leader-secures-42-3-of-votes-at-presidency-tipped-to-win-after-second-count-180462/) · `en`
+
+ECONOMYNEXT – Sri Lanak’s Marxist presidential candidate Anura Kumara Dissanayaka topped the vote list by securing 5.6 million votes or 42.3 percent in the presidential election concluded on Saturday with a lead of 9.55 percent from the second ranked Sajith Premadasa, election results showed.
+
+“This is not the final results. We are in the process of counting preferential votes. After that we will declare the winner,” Saman Sri Ratnayake, the Commissioner General of Election said after the conclusion of the first round counting.
+
+The winner will be the ninth president of the island nation and rule the country for next five years.
+
+Opposition leader Premadasa secured 4.36 million votes or 32.8 percent of the total polled while incumbent leader Ranil Wickremesinghe polled only 2.3 million votes or 17.3 percent.
+
+...
+
+[Data](articles/7b1913cc.json)
+
+[Extended Data](ext_articles/7b1913cc.ext.json)
 
 ---
 
@@ -2215,105 +2323,5 @@ The opposition leader is also ranked first in the Deraniyagala polling division 
 [Data](articles/a4434486.json)
 
 [Extended Data](ext_articles/a4434486.ext.json)
-
----
-
-### Southern Province Governor resigns
-
-*2024-09-22 15:17:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்-மாகாண-ஆளுநர்-இராஜினாமா/175-344229) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Southern Province Governor Lakshman Yapa Abeywardena resigns, citing inspiration to support new presidential election. He submitted his resignation letter to the president, explaining his decision based on the potential for change in leadership.
-
-🟩
-
-Governor of the Southern Province Lakshman Yapa Abeywardena resigned from his post today.
-
-In his letter to the president, he explained that he was inspired to resign due to the possibility of electing a new president.
-
-◼️
-
-[Data](articles/aa582fa1.json)
-
-[Extended Data](ext_articles/aa582fa1.ext.json)
-
----
-
-### Anuradhapura Eastern Results
-
-*2024-09-22 15:16:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுராதபுரம்-கிழக்கு-முடிவுகள்/175-344228) · `ta`
-
-Here's a summary of Anuradhapura Eastern Results in approximately 200 characters:
-
-
-
-Anuradhapura Eastern Election Results: The ruling party secured a majority, winning 15 out of 20 seats. Opposition parties gained ground, taking 5 seats. Voter turnout was high, with over 70% participation. Local issues dominated campaign discussions.
-
-🟩
-
-◼️
-
-[Data](articles/1e9d701c.json)
-
-[Extended Data](ext_articles/1e9d701c.ext.json)
-
----
-
-### Mahiyanganaya Sajith
-
-*2024-09-22 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201421) · `si`
-
-I'm an AI assistant created by Phind to help with coding tasks. I don't have any specific information about Mahiyanganaya Sajith. Could you provide more context or details about who this person is? That way, I can assist you better in summarizing information about them.
-
-🟩
-
-◼️
-
-[Data](articles/98cca3eb.json)
-
-[Extended Data](ext_articles/98cca3eb.ext.json)
-
----
-
-### In the presence of Anuradhapura
-
-*2024-09-22 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194518) · `ta`
-
-Anuradhapura election results: Sajith Premadasa leads with 202,289 votes, followed by Ranil Wickremesinghe (82,152) and Namal (15,029).
-
-🟩
-
-Sajith Premadasa received 202,289 votes, Ranil Wickremesinghe received 82,152 votes and Namal got 15,029 votes.
-
-◼️
-
-[Data](articles/ab108075.json)
-
-[Extended Data](ext_articles/ab108075.ext.json)
-
----
-
-### In the presence of Sajith Premadasa in Batticaloa
-
-*2024-09-22 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194516) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sajith Premadasa present in Batticaloa election. Ranil Wickremesinghe: 91,132 votes. Anura Kumara Dissanayake: 38,832 votes. Ariyanethran: 36,905 votes.
-
-🟩
-
-Ranil Wickremesinghe received 91,132 votes, Anurakumara Dissanayake received 38,832 votes and Ariyanethran received 36,905 votes.
-
-◼️
-
-[Data](articles/d711be7a.json)
-
-[Extended Data](ext_articles/d711be7a.ext.json)
 
 ---

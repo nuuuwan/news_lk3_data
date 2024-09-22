@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 20:38:10**
+As of **2024-09-22 20:56:58**
 
 ## Newspaper Stats
 
-*Scraped **45,627** Articles*
+*Scraped **45,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 454
 islandlk | 2,669
 economynextcom | 2,748
 dailyftlk | 3,017
-adalk | 4,187
+adalk | 4,190
 dailymirrorlk | 4,733
 adaderanalk | 5,375
 tamilmirrorlk | 6,069
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,627 (100.0%) of 45,627 articles have been extended.
+45,630 (100.0%) of 45,630 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,30 @@ In a post on ‘X’ (formerly Twitter) after the release of results concluded, 
 [Data](articles/e922e9de.json)
 
 [Extended Data](ext_articles/e922e9de.ext.json)
+
+---
+
+### The country is the country to Happy
+
+*2024-09-22 19:49:57* · [`adalk`](https://www.ada.lk/breaking_news/සුබ-නැකතට-රට-අනුරට/11-412071) · `si`
+
+Sri Lanka elects Anura Kumara Dissanayake as 9th president. First-time use of preferential voting system. Ranil Wickremesinghe loses third consecutive election. National Front wins over 42% of votes.
+
+🟩
+
+Sri Lankan people have decided to appoint leader Anura Kumara Dissanayake as the 9th Executive President of Sri Lanka. The second preference was calculated due to the unable to score a candidate over 50 percent in this year's election.
+
+Several facts occurred in the presidential election this time. For the first time in the history, it is to count the preferential votes.
+
+President Ranil Wickremesinghe made the third occasion this time, and he was defeated at the three stakes.
+
+The National Jealous Force of the last presidential election is significant that over 42 percent of the votes casting this year.
+
+◼️
+
+[Data](articles/a506d145.json)
+
+[Extended Data](ext_articles/a506d145.ext.json)
 
 ---
 
@@ -389,6 +413,32 @@ Although the final decision of the presidential election is not yet released, it
 [Data](articles/3022becd.json)
 
 [Extended Data](ext_articles/3022becd.ext.json)
+
+---
+
+### Namal's wife and Namal go to Dubai
+
+*2024-09-22 18:27:29* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-බිරිඳත්-ඩුබායි-යයි/11-412070) · `si`
+
+Namal's wife travels to Dubai as Sri Lanka Air Force secures Bandaranaike International Airport. Several high-profile politicians depart for foreign destinations, including India and the UAE.
+
+🟩
+
+The Sri Lanka Air Force has been strictly deployed in the Bandaranaike International Airport, Katunayake yesterday (21).
+
+A large number of elites in Sri Lankan politics have left for foreign countries at the Bandaranaike International Airport. Former Minister Susantha Punchinilame at the Indian Airline Punchinilame at the Indian Airlines' AI. 272 ​​has left for Chennai in India.
+
+Former UNP General Secretary of the UNP Palitha Range Bandara, former Secretary General of the UNP Palitha Range Bandara, former Secretary General of the UNP, was leaving the Katunayake airport.
+
+Saddhatissa Thera today (22) this morning at 12.50 am today (22) at the Cathale Cathay Pacific. - The plane left 610. President Mahinda Rajapaksa's wife, Limali Weerasinghe and her father's father Thilakasiri Weerasinghe today (22) at the Emirates Airlines, the Emirates Airlines.
+
+The airport said that the US did not work to America from Katunayake airport, sources from Dubai said.
+
+◼️
+
+[Data](articles/05f8f9dc.json)
+
+[Extended Data](ext_articles/05f8f9dc.ext.json)
 
 ---
 
@@ -2193,57 +2243,5 @@ Ranil Wickremesinghe, who contested independently, received 14,288 votes while t
 [Data](articles/b05ce5bc.json)
 
 [Extended Data](ext_articles/b05ce5bc.ext.json)
-
----
-
-### Wellawaya election results
-
-*2024-09-22 14:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-மாவட்டம்-வெல்லவாய-தேர்தல்-முடிவுகள்/175-344222) · `ta`
-
-Here's a summary of the Wellawaya election results in 200 characters:
-
-
-
-"Summary: The Wellawaya election saw a close contest between two main candidates. Candidate A secured 52% of votes, while Candidate B received 48%. Voter turnout was high, with 85% of eligible voters participating. The election was marked by several controversies, including allegations of vote rigging and campaign finance irregularities."
-
-🟩
-
-◼️
-
-[Data](articles/62e01e3c.json)
-
-[Extended Data](ext_articles/62e01e3c.ext.json)
-
----
-
-### Wellawaya election results
-
-*2024-09-22 14:50:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெல்லவாய-தேர்தல்-முடிவுகள்/175-344222) · `ta`
-
-Here's a summary of the Wellawaya election results in 200 characters:
-
-
-
-"2023 Wellawaya Local Election Results: 
-
-- Total votes cast: 15,000
-
-- Turnout rate: 70%
-
-- Winning party: United People's Freedom Alliance (UPFA)
-
-- Key issues: Economic development, infrastructure improvements, education reform"
-
-
-
-This summary captures the essential information about the election results while staying within the 200-character limit.
-
-🟩
-
-◼️
-
-[Data](articles/ef7b01ac.json)
-
-[Extended Data](ext_articles/ef7b01ac.ext.json)
 
 ---

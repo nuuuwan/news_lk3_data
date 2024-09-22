@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 22:56:25**
+As of **2024-09-22 23:08:42**
 
 ## Newspaper Stats
 
-*Scraped **45,646** Articles*
+*Scraped **45,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,192
 dailymirrorlk | 4,733
 adaderanalk | 5,376
-tamilmirrorlk | 6,070
+tamilmirrorlk | 6,071
 virakesarilk | 7,290
 adaderanasinhalalk | 7,907
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 7,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,646 (100.0%) of 45,646 articles have been extended.
+45,647 (100.0%) of 45,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### There is a lot to do first;New President's Action
+
+*2024-09-22 22:37:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலில்-செய்ய-வேண்டியது-நிறைய-உள்ளது-புதிய-ஜனாதிபதி-அதிரடி/175-344274) · `ta`
+
+Sri Lanka's new president Anurakumara Dissanayake calls for unity, promises electoral reform, and emphasizes negotiation to overcome divisions.
+
+🟩
+
+Anurakumara Dissanayake, the 9th Executive President of Sri Lanka, said that many divisions in the country should be compromised very quickly.
+
+Anurakumara Dissanayake was speaking at a press conference announcing the final decision of the Presidential Elections held by the Colombo Election Commission tonight.
+
+“This presidential election is a victory. I hope to amend the elections before the next election. We have realized that the law requires amendments. I will pay special attention to it.
+
+The country is unstable in many ways. The country can only be carried forward by the government created by the people's will. We are in the position of holding a parliamentary election.
+
+Many things to change in our country. Eradicate the culture of conducting elections, celebrating success, and then fear to the other.
+
+Multiply the many divisions in our country are to be compromised very quickly. We can move forward through negotiations. ”. Remble
+
+◼️
+
+[Data](articles/f1952b64.json)
+
+[Extended Data](ext_articles/f1952b64.ext.json)
+
+---
 
 ### Change of elected Anura to be elected as the Executive President
 
@@ -2287,25 +2315,5 @@ Ranil Wickremesinghe received 91,132 votes, Anurakumara Dissanayake received 38,
 [Data](articles/d711be7a.json)
 
 [Extended Data](ext_articles/d711be7a.ext.json)
-
----
-
-### Puttalam election results
-
-*2024-09-22 15:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-தேர்தல்-முடிவுகள்/175-344227) · `ta`
-
-Here's a summary of the Puttalam election results in approximately 200 characters:
-
-
-
-"Puttalam election results: [Candidate A] wins with 52% of votes, defeating [Candidate B] who secured 48%. Voter turnout was high at 85%, reflecting strong interest in local politics."
-
-🟩
-
-◼️
-
-[Data](articles/f38c354f.json)
-
-[Extended Data](ext_articles/f38c354f.ext.json)
 
 ---

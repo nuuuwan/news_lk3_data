@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 21:38:13**
+As of **2024-09-22 21:57:43**
 
 ## Newspaper Stats
 
-*Scraped **45,643** Articles*
+*Scraped **45,646** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 380
-bbccomsinhala | 446
+bbccomsinhala | 447
 colombotelegraphcom | 454
 islandlk | 2,669
 economynextcom | 2,748
@@ -20,47 +20,125 @@ dailymirrorlk | 4,733
 adaderanalk | 5,376
 tamilmirrorlk | 6,070
 virakesarilk | 7,290
-adaderanasinhalalk | 7,905
+adaderanasinhalalk | 7,907
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,640 (100.0%) of 45,643 articles have been extended.
+45,646 (100.0%) of 45,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
 
-### நாட்டுக்காக கட்டம் கட்டமாக அனைவரும் ஒன்றிணைய வேண்டும் - புதிய ஜனாதிபதி அநுர வேண்டுகோள்!
+### Change of elected Anura to be elected as the Executive President
+
+*2024-09-22 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201448) · `si`
+
+Anura Kumara Dissanayake elected 9th Executive President of Sri Lanka. He calls presidential election a victory, seeks election reforms. Emphasizes stability, opposition-free governance, and peaceful polls.
+
+🟩
+
+He was elected to the 9th Executive President of Sri Lanka, he was elected as the 9th Executive President of Sri Lanka.
+
+Anura Kumara Dissanayake made this statement participating in the news discussion of the Colombo Elections Commission today (22).
+
+Anura Kumara Dissanayake, who further said,
+
+"This presidential election is a victory. We hope that election revisions can be made before the next elections. We have realized that the law needs the amendments. Special attention is paying special attention.
+
+The country is unstable in a number of areas. Only a government that is willing to come to the country. We have the position that we should hold a parliamentary election.
+
+No person should have to die in any election in our country.
+
+Many of our country needs to be different. We must remove the culture of elections, victory and fearing the other.
+
+We need to relieve many divisions in our country. We can go in front of discussions ".
+
+◼️
+
+[Data](articles/59dddf97.json)
+
+[Extended Data](ext_articles/59dddf97.ext.json)
+
+---
+
+### I Handy to Love You Lightly Child, Sri Lanka - Ranil tells the accident
+
+*2024-09-22 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201447) · `si`
+
+Here's a 200-character summary:
+
+
+
+Ranil Wickremesinghe hands power to Anura Dissanayake, praising his economic achievements and wishing him success in governing Sri Lanka.
+
+🟩
+
+President Ranil Wickremesinghe said that President Ranil Wickremesinghe said that he would give the new President Anura Dissanayake and thanks to all those who did not support him in the 21st.
+
+The President has noted that the dear child, the dear child, brought them safely in the vines, and that he is safe to be able to cross the vines safely.
+
+The majority of the people in this country have been given a decision from the presidential election on September 21. We should respect that decision. The recovery of the Government of Sri Lanka should be established in accordance with the verdict.
+
+Two years ago, two years ago, I accepted this country in a very crisis environment.
+
+I accepted that responsibility when many did not have much spirit of self-strength to deal with that challenge.
+
+...
+
+[Data](articles/e068f9f6.json)
+
+[Extended Data](ext_articles/e068f9f6.ext.json)
+
+---
+
+### Everyone should unite as a grid for the country - the new president's appeal!
 
 *2024-09-22 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194556) · `ta`
 
-ஜனாதிபதி தேர்தல் இடம்பெற்றமை முதல் வெற்றியாகும் என புதிய ஜனாதிபதியாகத் தெரிவாகியுள்ள அனுரகுமார திசாநாயக்க தெரிவித்தார்.
+New president appeals unity: "We must unite as a grid for our country," said Anura Kumara Dissanayake. He emphasized collective effort over individual success. All citizens, regardless of support, should work together as Sri Lankans.
 
-தேர்தல் ஆணைக்குழுவில் இடம்பெற்ற நிகழ்வில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி அநுரகுமார திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-சவால்களைத் தனி நபராலும், அணியாலும் வெற்றி கொள்ள முடியாது. நாட்டுக்காகக் கட்டம் கட்டமாக அனைவரும் ஒன்றிணைய வேண்டும், அதற்கான  பேச்சுவார்த்தைகளை முன்னெடுப்போம் என்றும் ஜனாதிபதி அநுரகுமார திஸாநாயக்க குறிப்பிட்டார்.
+Anurakumara Dissanayake, the new president, said that the presidential election was the first victory.
 
-எனக்கு ஆதரவளித்த மற்றும் ஆதரவளிக்காத அனைத்து பிரஜைகளையும் இலங்கையர் என்ற அடிப்படையில் பேதமற்ற வகையில் ஒன்றிணைத்து செயற்படுவேன் என்றும் ஜனாதிபதி அனுரகுமார திஸாநாயக்க தெரிவித்தார்.
+President Anura Kumara Dissanayake said this while addressing the event at the Election Commission.
+
+Challenges cannot be succeeded by individual and team. President Anura Kumara Dissanayake said that everyone should unite for the country and negotiate for it.
+
+President Anura Kumara Dissanayake said that all citizens who did not support and support me would work together as a Sri Lankan.
 
 ◼️
 
 [Data](articles/537c35c6.json)
 
+[Extended Data](ext_articles/537c35c6.ext.json)
+
 ---
 
-### මහමැතිවරණය ඉක්මනින් පවත්වනවා - ජනපති අනුර
+### General Election will be fast - President Anura
 
 *2024-09-22 20:56:55* · [`adalk`](https://www.ada.lk/breaking_news/මහමැතිවරණය-ඉක්මනින්-පවත්වනවා---ජනපති-අනුර/11-412073) · `si`
 
-මහ මැතිවරණය ඉතා ඉක්මනින් පැවැත්වෙනු ඇති බව නව ජනපති අනුර කුමාර දිසානායක මහතා මැතිවරණ කොමිෂන් සභාවේදී ප්‍රකාශ කළේය.
+Here's a summary of 200 characters:
 
-මෙවර මැතිවරණය සාමකාමීව පැවැත්වූ බවත් පශ්චාත් මැතිවරණ ප්‍රචණ්ඩ ක්‍රියා අවම වීම පිළිබඳව සතුටු වන බවත් ඔහු පැවැසීය.
+
+
+President Anura Kumara Dissanayake announced a quick general election at the Elections Commission. He praised this year's peace and reduced post-election violence.
+
+🟩
+
+President Anura Kumara Dissanayake stated at the Elections Commission that the general election will be very quickly.
+
+He added that this year was peaceful this year, and he was pleased with the reduction of post-election violence.
 
 ◼️
 
 [Data](articles/aa8e402f.json)
+
+[Extended Data](ext_articles/aa8e402f.ext.json)
 
 ---
 
@@ -2229,45 +2307,5 @@ Here's a summary of the Puttalam election results in approximately 200 character
 [Data](articles/f38c354f.json)
 
 [Extended Data](ext_articles/f38c354f.ext.json)
-
----
-
-### Colombo District - Fort Election Results
-
-*2024-09-22 15:04:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்டம்-கோட்டை-தேர்தல்-முடிவுகள்/175-344226) · `ta`
-
-Here's a summary of the Colombo District - Fort Election Results in approximately 200 characters:
-
-
-
-"Colombo District - Fort election results: [Candidate A] wins with [X%] votes, defeating [Candidate B] who secured [Y%]. Turnout was [Z%], higher than previous elections. Key issues were infrastructure development and economic growth."
-
-🟩
-
-◼️
-
-[Data](articles/7baa3cd7.json)
-
-[Extended Data](ext_articles/7baa3cd7.ext.json)
-
----
-
-### The final election results of the Moneragala district
-
-*2024-09-22 15:03:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344225) · `ta`
-
-Here's a summary of the Moneragala district election results in 200 characters:
-
-
-
-Moneragala district election results: [Candidate names] won [number] seats. [Party names] secured [percentage]% of votes. Turnout was [percentage]%. Key issues were [brief mentions of major topics].
-
-🟩
-
-◼️
-
-[Data](articles/f4f2ba05.json)
-
-[Extended Data](ext_articles/f4f2ba05.ext.json)
 
 ---

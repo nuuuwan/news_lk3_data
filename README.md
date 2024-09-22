@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 19:08:17**
+As of **2024-09-22 19:22:36**
 
 ## Newspaper Stats
 
-*Scraped **45,608** Articles*
+*Scraped **45,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,98 @@ adalk | 4,186
 dailymirrorlk | 4,733
 adaderanalk | 5,373
 tamilmirrorlk | 6,066
-virakesarilk | 7,276
-adaderanasinhalalk | 7,898
+virakesarilk | 7,278
+adaderanasinhalalk | 7,901
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,608 (100.0%) of 45,608 articles have been extended.
+45,613 (100.0%) of 45,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Second preferential result of Matale
+
+*2024-09-22 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201442) · `si`
+
+Anura Kumara Dissanayake received 1,909 second preference votes in Matale.
+
+🟩
+
+Second of the second preferential votes received by Anura Kumara Dissanayake is 1,909.
+
+◼️
+
+[Data](articles/cde9a8f8.json)
+
+[Extended Data](ext_articles/cde9a8f8.ext.json)
+
+---
+
+### Second preferential result of Hambantota
+
+*2024-09-22 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201441) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Anura Kumara Dissanayake received 1,763 second-preference votes in Hambantota. This was his second-best result among all candidates.
+
+🟩
+
+Second of the second preferential votes received by Anura Kumara Dissanayake was 1763.
+
+◼️
+
+[Data](articles/52c0a919.json)
+
+[Extended Data](ext_articles/52c0a919.ext.json)
+
+---
+
+### Second preferential consequence of Badulla
+
+*2024-09-22 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201440) · `si`
+
+Anura Kumara Dissanayake received 3,437 preferential votes as his second preference in Badulla.
+
+🟩
+
+The second number of preferential votes received by Anura Kumara Dissanayake was 3,437.
+
+◼️
+
+[Data](articles/c9e1b687.json)
+
+[Extended Data](ext_articles/c9e1b687.ext.json)
+
+---
+
+### Anuragumara Dissanayake's magnificent victory has completely changed the country's political area - Saliya Peiris
+
+*2024-09-22 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194549) · `ta`
+
+Anuragumara Dissanayake's victory reshapes Sri Lanka's politics. Saliya Peiris hails it as a gift for change, citing Dissanayake's win as next president. Challenges await, including dissolving parliament and facing opposition voters. Peiris urges Dissanayake to address people's needs and maintain transparency.
+
+🟩
+
+The victory of the Anuragumara Dissanayake and the power of the national people has completely changed the political area of ​​the country. Former President of the Sri Lanka Attorneys' Association, president of the Sri Lanka Lawyers Association, said that this is a gift to the people who voted for him to make a real change in the country.
+
+Saliya Peiris has insisted that the votes of the country's ninth presidential election were counted and in the presence of Anura Kumara Dissanayake, who contested on behalf of the national people's power, on his official Facebook page.. In it he added:
+
+Although the final decision of the presidential election is not yet released, it is now evident that Anurakumara Dissanayake is the next President of Sri Lanka. The victory of the Anuragumara Dissanayake and the power of the national people has completely changed the political area of ​​the country.
+
+...
+
+[Data](articles/3022becd.json)
+
+[Extended Data](ext_articles/3022becd.ext.json)
+
+---
 
 ### Presidential election final results
 
@@ -77,6 +157,40 @@ However, New Zealand bowlers to break up to 309 runs in their second innings.
 [Data](articles/0cdf8a8c.json)
 
 [Extended Data](ext_articles/0cdf8a8c.ext.json)
+
+---
+
+### Chennai Man Ashwin's all -round match made India 1 - 0;Bangladesh defeated 280 runs
+
+*2024-09-22 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194548) · `ta`
+
+India defeats Bangladesh in Test match, Ashwin shines with century and 6-wicket haul. India leads ICC World Test Championship 1-0.
+
+🟩
+
+Chennai Chepakkam M. A.. India won by 280 runs in the first Test against Bangladesh at Chidambaram Stadium.
+
+With this victory, India are leading the ICC World Test Championships 1 - 0.
+
+Ravichandran Ashwin's all -rounder game, Ravindra Jadeja, Shubman Gill and Rishabh Bant played the lead role in India's success
+
+Ravichandran Ashwin, who scored a century in India's first innings, registered a 6 -wicket focal in Bangladesh's 2nd innings and became the hero of the match.
+
+With a further 357 runs to win the match, Bangladesh lost all the wickets for 234 runs for the loss of 158 runs for the loss of 4 wickets on Sunday (22), the fourth day of the match.
+
+Team captain Najmul Hossain fought for 82 runs.
+
+The last 6 wickets, including Shakib Al Hasan (25), fell by 40 runs.
+
+Ravichandran Ashwin took 6 wickets for 88 runs in bowling. This is the 37th opportunity for Ashwin to take 5 or more wickets in the 101st Test.
+
+Meanwhile, Ravindra Jadeja, who bowled him, took 3 wickets for 58 runs.
+
+...
+
+[Data](articles/4e7d7be6.json)
+
+[Extended Data](ext_articles/4e7d7be6.ext.json)
 
 ---
 
@@ -2079,113 +2193,5 @@ The United People's Power Presidential candidate Sajith Premadasa received 24,58
 [Data](articles/f063741f.json)
 
 [Extended Data](ext_articles/f063741f.ext.json)
-
----
-
-### Sajith to Deraniyagala
-
-*2024-09-22 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201402) · `si`
-
-Sajith Premadasa wins 21,939 votes in Deraniyagala electorate, Kegalle district election results announced.
-
-🟩
-
-The official voting outcome of Deraniyagala electorate has been released in the Kegalle district and Sajith Premadasa has won 21,939 votes.
-
-◼️
-
-[Data](articles/b2f97adf.json)
-
-[Extended Data](ext_articles/b2f97adf.ext.json)
-
----
-
-### Matale District - Lakkala election results
-
-*2024-09-22 14:35:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-மாவட்டம்-லக்கல-தேர்தல்-முடிவுகள்/175-344218) · `ta`
-
-Here's a summary of the Matale District - Lakkala election results in approximately 200 characters:
-
-
-
-Matale District: Lakkala Election Results Summary
-
-
-
-* Party A won 5 seats
-
-* Party B secured 3 seats
-
-* Independent candidates took 2 seats
-
-* Voter turnout was high at 85%
-
-* Incumbent candidate lost re-election bid
-
-* Local issues dominated campaign discussions
-
-* Post-election protests reported near polling stations
-
-🟩
-
-◼️
-
-[Data](articles/f7a522e7.json)
-
-[Extended Data](ext_articles/f7a522e7.ext.json)
-
----
-
-### Anura will win the Kesbewa
-
-*2024-09-22 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201401) · `si`
-
-Anura Kumara Dissanayake wins Kesbewa election with 85049 votes in Colombo District.
-
-🟩
-
-The official voting outcome of the Elections in Colombo District has been released and Anura Kumara Dissanayake has won 85049 votes.
-
-◼️
-
-[Data](articles/892aa980.json)
-
-[Extended Data](ext_articles/892aa980.ext.json)
-
----
-
-### Kaduwela
-
-*2024-09-22 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201400) · `si`
-
-Anura Kumara Dissanayake wins Kaduwela electorate with 84,299 votes.
-
-🟩
-
-The official voting outcome of the Kaduwela Electorate in Colombo District has been released and Anura Kumara Dissanayake has won 84,299 votes.
-
-◼️
-
-[Data](articles/014bb01c.json)
-
-[Extended Data](ext_articles/014bb01c.ext.json)
-
----
-
-### Dodangaslanda
-
-*2024-09-22 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201399) · `si`
-
-Anura Kumara Dissanayake wins Dodangaslanda election with 28,051 votes in Kurunegala District.
-
-🟩
-
-The official voting outcome of Dodangaslanda Elections in the Kurunegala District has been released and Anura Kumara Dissanayake has won 28,051 votes.
-
-◼️
-
-[Data](articles/b5c2c9ac.json)
-
-[Extended Data](ext_articles/b5c2c9ac.ext.json)
 
 ---

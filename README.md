@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 13:57:31**
+As of **2024-09-22 14:10:09**
 
 ## Newspaper Stats
 
@@ -42,7 +42,9 @@ Mr. Ratnayake stated that accordingly, all the other candidates except for the N
 
 The Election Commission Chairman announced this during a special media briefing, a short while ago.
 
-◼️
+Furthermore, he expressed that since no candidate has obtained the required percentage of votes at the first count, the preference for the two leading candidates Anura Kumara Dissanayake and Sajith Premadasa among the other ballot papers will be counted for a final decision.
+
+...
 
 [Data](articles/d81da62f.json)
 

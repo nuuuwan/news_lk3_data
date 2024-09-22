@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 21:07:42**
+As of **2024-09-22 21:22:31**
 
 ## Newspaper Stats
 
-*Scraped **45,638** Articles*
+*Scraped **45,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 454
 islandlk | 2,669
 economynextcom | 2,748
 dailyftlk | 3,017
-adalk | 4,190
+adalk | 4,191
 dailymirrorlk | 4,733
 adaderanalk | 5,376
-tamilmirrorlk | 6,069
+tamilmirrorlk | 6,070
 virakesarilk | 7,289
 adaderanasinhalalk | 7,905
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,638 (100.0%) of 45,638 articles have been extended.
+45,640 (100.0%) of 45,640 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -99,6 +99,30 @@ The full transcript of President Ranil Wickremesinghe’s speech is shown below;
 [Data](articles/2e8c79d5.json)
 
 [Extended Data](ext_articles/2e8c79d5.ext.json)
+
+---
+
+### The first news to be released by the new President
+
+*2024-09-22 20:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதி-வெளியிட்ட-முதல்-செய்தி/175-344260) · `ta`
+
+New President Anura Kumara Dissanayake elected. Tweets gratitude, unity message. Promises rewriting Sri Lanka's history. Emphasizes collective effort and shared vision.
+
+🟩
+
+The Chairman of the Elections Commission, RMAL Ratnayake, has announced Anura Kumara Dissanayake as the 9th Executive President of the country in accordance with the 2024 presidential election.
+
+Anurakumara Dissanayake has then posted on his Twitter page.
+
+In it, “The dream we have developed for centuries has finally come true. This achievement is not the result of any person's labor, a hundreds of thousands of your joint effort. Your dedication has brought us so far and I am very grateful for it. This success belongs to all of us.
+
+Our journey is carved by the sacrifice of many who dedicated their sweat, tears and even their lives for this purpose. Their sacrifices are not forgotten. We bear the scepter of their beliefs and struggles, knowing the responsibility of carrying it. Millions of eyes packed with confidence and expectation are pushing us forward, and we are ready to re -write Sri Lankan history.
+
+...
+
+[Data](articles/b16ccdef.json)
+
+[Extended Data](ext_articles/b16ccdef.ext.json)
 
 ---
 
@@ -207,6 +231,26 @@ So the voting work must be carried out independently. We will take legal action 
 [Data](articles/ed0beb46.json)
 
 [Extended Data](ext_articles/ed0beb46.ext.json)
+
+---
+
+### Anura sworn in tomorrow
+
+*2024-09-22 20:15:09* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හෙට-දිවුරුම්-දෙයි/11-412072) · `si`
+
+Anura Kumara Dissanayake to be sworn in as Sri Lanka's 9th President tomorrow. JVP General Secretary Tilvin Silva calls for celebration of this political victory.
+
+🟩
+
+Anura Kumara Dissanayake is to be sworn in at the Presidential Secretariat in Colombo tomorrow (Jump) president as the 9th Executive President of Sri Lanka.
+
+The General Secretary of the JVP Tilvin Silva urged the public to celebrate the power and celebrate the victory.
+
+◼️
+
+[Data](articles/ebac199b.json)
+
+[Extended Data](ext_articles/ebac199b.ext.json)
 
 ---
 
@@ -2229,43 +2273,5 @@ The official voting outcome of the Welimada Electorate in Badulla District has b
 [Data](articles/33fe4826.json)
 
 [Extended Data](ext_articles/33fe4826.ext.json)
-
----
-
-### Wennappuwa
-
-*2024-09-22 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201417) · `si`
-
-Anura Kumara Dissanayake wins 40,414 votes in Wennappuwa, Puttalam District.
-
-🟩
-
-The official voting outcome of the Walappuwa electorate in Puttalam District has been released and Anura Kumara Dissanayake has won 40,414 votes.
-
-◼️
-
-[Data](articles/978a8378.json)
-
-[Extended Data](ext_articles/978a8378.ext.json)
-
----
-
-### Puttalam District, Natandia Election constituency Voting Results
-
-*2024-09-22 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194502) · `ta`
-
-Puttalam District, Nathaandia Election results: Anurakumara Dissanayake leads with 36,963 votes. Sajith Premadasa receives 18,623 votes. Ranil Wickremesinghe gets 7,922 votes.
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Puttalam District, Nathaandia election, is leading with 36,963 votes.
-
-United People's Power Presidential candidate Sajith Premadasa received 18,623 votes while Ranil Wickremesinghe, who contested independently, got 7,922 votes.
-
-◼️
-
-[Data](articles/6a83e71c.json)
-
-[Extended Data](ext_articles/6a83e71c.ext.json)
 
 ---

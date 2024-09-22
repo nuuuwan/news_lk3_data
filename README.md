@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 00:22:43**
+As of **2024-09-23 00:37:57**
 
 ## Newspaper Stats
 
-*Scraped **45,656** Articles*
+*Scraped **45,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,017
 adalk | 4,192
 dailymirrorlk | 4,733
 adaderanalk | 5,376
-tamilmirrorlk | 6,071
+tamilmirrorlk | 6,072
 virakesarilk | 7,290
 adaderanasinhalalk | 7,907
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,656 (100.0%) of 45,656 articles have been extended.
+45,657 (100.0%) of 45,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Governor of Sabaragamuwa Province
+
+*2024-09-22 23:43:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்ரகமுவ-மாகாண-ஆளுநர்-இராஜிநாமா/175-344275) · `ta`
+
+Sabaragamuwa Province Governor Naveen Dissanayake resigns on Sunday 22.
+
+🟩
+
+Governor of Sabaragamuwa Province Naveen Dissanayake resigned from his post on Sunday (22).
+
+◼️
+
+[Data](articles/1e5fe4cb.json)
+
+[Extended Data](ext_articles/1e5fe4cb.ext.json)
+
+---
 
 ### There is a lot to do first;New President's Action
 
@@ -2303,25 +2321,5 @@ Holly Ela election results: [Candidate A] won with 52% of votes, defeating [Cand
 [Data](articles/e4d89db7.json)
 
 [Extended Data](ext_articles/e4d89db7.ext.json)
-
----
-
-### Sajith wins in Yatiyantota, Laggala, Kothmale and Deraniyagala
-
-*2024-09-22 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102187/sajith-wins-in-yatiyantota-laggala-kothmale-and-deraniyagala) · `en`
-
-Opposition Leader Sajith Premadasa has received the highest number of votes in the Yatiyantota polling division in Kegalle District with a total of 23,891 votes.
-
-Meanwhile, SJB leader Premadasa has also polled the highest votes in the Laggala polling division in the Matale District.
-
-Premadasa has also secured victory in the Kothmale polling division in the Nuwara-Eliya District.
-
-The opposition leader is also ranked first in the Deraniyagala polling division in Kegalle district.
-
-◼️
-
-[Data](articles/a4434486.json)
-
-[Extended Data](ext_articles/a4434486.ext.json)
 
 ---

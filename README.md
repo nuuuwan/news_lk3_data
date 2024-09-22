@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 20:22:38**
+As of **2024-09-22 20:38:10**
 
 ## Newspaper Stats
 
-*Scraped **45,622** Articles*
+*Scraped **45,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,103 @@ dailyftlk | 3,017
 adalk | 4,187
 dailymirrorlk | 4,733
 adaderanalk | 5,375
-tamilmirrorlk | 6,068
-virakesarilk | 7,278
+tamilmirrorlk | 6,069
+virakesarilk | 7,282
 adaderanasinhalalk | 7,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,622 (100.0%) of 45,622 articles have been extended.
+45,627 (100.0%) of 45,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### I entertain you with a affectionate child ”
+
+*2024-09-22 20:09:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாசம்-மிகுந்த-குழந்தையினை-உங்களிடம்-ஒப்படைக்கிறேன்/175-344259) · `ta`
+
+Here's a 200-character summary of the text:
+
+
+
+President Ranil Wickremesinghe addresses Sri Lanka, praising his economic achievements and urging the new president to continue progress. He expresses hope for the country's future and thanks citizens for support.
+
+🟩
+
+"Oh, President of Anura Dissanayake, I entertain you with the affectionate child of Sri Lanka I love."
+
+President Ranil Wickremesinghe said in a special media announcement that President Anura Kumara Dissanayake should be handed over to the country and thanked all those who supported him.
+
+The President further stated in his announcement that he has brought a loving child known as Sri Lanka through the challenging hanging bridge and that the current president can still bring the child through the hanging bridge.
+
+Most people of this country have given a resolution in the presidential election held on September 21st. We have to value that resolution. According to that resolution, the Government of Sri Lanka must ensure the goodness of the Government of Sri Lanka.
+
+I took over this country in a very difficult situation, which had been bankrupt two years ago and fell sharply due to the economic crisis.
+
+...
+
+[Data](articles/819c5a88.json)
+
+[Extended Data](ext_articles/819c5a88.ext.json)
+
+---
+
+### "I entertain you with the affectionate child of Sri Lanka I love."President Ranil Ranil for newly elected President Anura
+
+*2024-09-22 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/194553) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's President Ranil Wickremesinghe addresses the nation, praising his economic achievements and urging the newly elected President Anura Kumara Dissanayake to continue his policies. He expresses gratitude to supporters and acknowledges challenges faced during his tenure.
+
+🟩
+
+President Ranil Wickremesinghe said in a special media announcement that President Anura Kumara Dissanayake should be handed over to the country and thanked all those who supported him.
+
+The President further stated in his announcement that he has brought a loving child known as Sri Lanka through the challenging hanging bridge and that the current president can still bring the child through the hanging bridge.
+
+Most people of this country have given a resolution in the presidential election held on September 21st. We have to value that resolution. According to that resolution, the Government of Sri Lanka must ensure the goodness of the Government of Sri Lanka.
+
+I took over this country in a very difficult situation, which had been bankrupt two years ago and fell sharply due to the economic crisis.
+
+I took that responsibility when most people did not have the soul power that would face the challenge.
+
+Within a short period of time, I was able to restore this country from bankruptcy.
+
+...
+
+[Data](articles/4ba25a42.json)
+
+[Extended Data](ext_articles/4ba25a42.ext.json)
+
+---
+
+### We are proud of the president during the national crisis - Ranil's support side
+
+*2024-09-22 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194552) · `ta`
+
+Key supporters praise President Ranil Wickremesinghe's leadership during national crisis. They congratulate Anura Kumara Dissanayake on his election victory, acknowledging his historic achievement in creating a social revolution in Sri Lankan politics.
+
+🟩
+
+The key parties who supported President Ranil Wickremesinghe are proud of the work with President Ranil Wickremesinghe during the national crisis and congratulated Anura Kumara Dissanayake, who won the election.
+
+In his X -site record, Manusha Nanayakkara said, "I have no regrets that Ranil Wickremesinghe was in the group during the national crisis. I used the power given by the people under his guidance. Whatever the case, we are determined to complete what we started. My congratulations to Ranil.
+
+In his record, Sabaragamuwa Province Governor Naveen Dissanayake said, "I applaud Anuragumara Dissanayake for the elected President of Sri Lanka. The people of Sri Lanka are talking. And have won democracy. I congratulate the future president for gaining strength, wisdom and courage to bring our country forward. He said that I would resign from the post of Governor of Sabaragamuwa Province soon.
+
+...
+
+[Data](articles/13334d32.json)
+
+[Extended Data](ext_articles/13334d32.ext.json)
+
+---
 
 ### Anura Kumara Dissanayake elected President of Sri Lanka
 
@@ -41,6 +125,8 @@ National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake 
 The election commission formally announced on Sunday (September 22) NPP leader Anura Kumara Dissanayake as the winner of the 2024 Presidential Election.
 
 The commission said on its website that Mr. Dissanayake, 55, won the presidency with 42.31% of the vote at Saturday’s (September 21) election, pushing opposition leader Sajith Premadasa to second place and incumbent Ranil Wickremesinghe to a distant third.
+
+It was a strong showing for Dissanayake, who won just over 3% of votes in a previous presidential election in 2019, and suggests voters are fatigued with the old political guard, which has been accused of pushing Sri Lanka toward economic instability.
 
 Mr. Dissanayake is due to be sworn in on Monday (September 23), according to unconfirmed repors.
 
@@ -104,6 +190,28 @@ Moreover, he is the Chairman of the University of Kelaniya University of Kelaniy
 
 ---
 
+### Tamil general candidate Ariyanethran received 226,343 votes
+
+*2024-09-22 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194550) · `ta`
+
+Tamil candidate Ariyanethran received 226,343 votes in presidential election, securing 1.70% of valid votes. He won 116,688 votes in Northern Province and 36,377 in Vanni Election District. In Eastern Province, he secured 18,524 votes in Trincomalee and 36,905 in Batticaloa.
+
+🟩
+
+Bhagiyachchelvam Ariyanethran, who was fielded as the Tamil General candidate on behalf of the Tamil people of the North and East by the Tamil General Assembly in the ninth presidential election of the country, received a total of 226,343 votes. This is 1.70 percent of valid votes.
+
+Some Tamil national political parties and civil organizations have joined the Tamil National Alliance (TNA) Member of Parliament PA Ariyaneth as the Tamil General candidate, which represents the Northern and Eastern Provinces in the presidential election.
+
+While proclaiming the unity of the Tamil people, the general public, which is said to have been aimed at the international community that the problems of the Tamils ​​have not yet been resolved, have been launched to get more than 50 percent of the votes in the North and Eastern Provinces.
+
+...
+
+[Data](articles/0c54f6aa.json)
+
+[Extended Data](ext_articles/0c54f6aa.ext.json)
+
+---
+
 ### Here are the second preferential results
 
 *2024-09-22 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201445) · `si`
@@ -119,6 +227,28 @@ The second preference of the Presidential Election was established this evening 
 [Data](articles/1cdc7e21.json)
 
 [Extended Data](ext_articles/1cdc7e21.ext.json)
+
+---
+
+### The success of the new Sri Lanka will be the beginning of the success of Anura - Manohanesan
+
+*2024-09-22 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194551) · `ta`
+
+Manohanesan hopes Anuragumara Dissanayake's win marks Sri Lanka's new era, emphasizing pluralism and social justice. He congratulates Dissanayake and thanks voters in several provinces for supporting Sajith Premadasa.
+
+🟩
+
+Manohanesan, the leader of the Tamil Progressive Corporation and Member of Parliament, has expressed hope that the success of Anuragumara Dissanayake will be the beginning of the new Sri Lanka, including the principles of pluralism and social justice.
+
+Manohanesan, who posted on his official 'X' site on his official 'X' site, congratulated his victory, while he was contesting on behalf of the National People's Power, as the first votes of the country's ninth presidential election were counted.
+
+'Congratulations to Anurakumara Dissanayake, who received the people's mandate. Similarly, we thank the voters of the Central, Upper, Sabaragamuwa and Media provinces for the success of Sajith Premadasa.. The democratic process has emerged. I hope that this victory of Anuragumara Dissanayake will be the beginning of the new Sri Lanka, including the principles of pluralism and social justice. ”
+
+◼️
+
+[Data](articles/6d82928e.json)
+
+[Extended Data](ext_articles/6d82928e.ext.json)
 
 ---
 
@@ -2115,107 +2245,5 @@ This summary captures the essential information about the election results while
 [Data](articles/ef7b01ac.json)
 
 [Extended Data](ext_articles/ef7b01ac.ext.json)
-
----
-
-### Hanguranketha Sajith
-
-*2024-09-22 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201411) · `si`
-
-Sajith Premadasa wins 22,894 votes in Hanguranketha electorate, Nuwara Eliya district election results announced.
-
-🟩
-
-The official voting outcome of the Hanguranketha electorate in the Nuwara Eliya district has been released and Sajith Premadasa has won 22,894 votes.
-
-◼️
-
-[Data](articles/a3333044.json)
-
-[Extended Data](ext_articles/a3333044.ext.json)
-
----
-
-### Aranayaka
-
-*2024-09-22 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201410) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Aranayaka: Anura Kumara Dissanayake wins 16,853 votes in Kegalle District election."
-
-🟩
-
-The official voting outcome of the Arken Electoral Authority in Kegalle District has been released and Anura Kumara Dissanayake has won 16,853 votes.
-
-◼️
-
-[Data](articles/498ad497.json)
-
-[Extended Data](ext_articles/498ad497.ext.json)
-
----
-
-### Avissawella election results
-
-*2024-09-22 14:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளை-தேர்தல்-முடிவுகள்/175-344221) · `ta`
-
-Here's a summary of the Avissawella election results in approximately 200 characters:
-
-
-
-"Avissawella election: Nalaka Bandara wins with 53% of votes. Opposition candidate loses by 10,000 votes. Turnout was 70%. Incumbent MP concedes defeat."
-
-🟩
-
-◼️
-
-[Data](articles/6c658337.json)
-
-[Extended Data](ext_articles/6c658337.ext.json)
-
----
-
-### Kegalle District - Kaligamuwa election results
-
-*2024-09-22 14:46:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-கலிகமுவ-தேர்தல்-முடிவுகள்/175-344220) · `ta`
-
-Here's a summary of the Kegalle District - Kaligamuwa election results in approximately 200 characters:
-
-
-
-"Kaligamuwa election results: [Candidate A] wins with [X]% votes, defeating [Candidate B] who secured [Y]%."
-
-
-
-This summary captures the essence of the election outcome while adhering to the character limit. It includes the key elements: the location (Kaligamuwa), the type of event (election results), the main actors (candidates), and the outcome (winner and percentage).
-
-🟩
-
-◼️
-
-[Data](articles/01e861aa.json)
-
-[Extended Data](ext_articles/01e861aa.ext.json)
-
----
-
-### Rattota Sajith
-
-*2024-09-22 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201409) · `si`
-
-Sajith Premadasa wins Rattota election with 31,358 votes in Matale District.
-
-🟩
-
-The official voting outcome of Rattota in Matale District has been released and Sajith Premadasa has won 31,358 votes.
-
-◼️
-
-[Data](articles/27dec411.json)
-
-[Extended Data](ext_articles/27dec411.ext.json)
 
 ---

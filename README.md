@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-22 18:18:13**
+As of **2024-09-22 18:30:59**
 
 ## Newspaper Stats
 
-*Scraped **45,601** Articles*
+*Scraped **45,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,748
 dailyftlk | 3,017
 adalk | 4,185
 dailymirrorlk | 4,733
-adaderanalk | 5,372
+adaderanalk | 5,373
 tamilmirrorlk | 6,064
 virakesarilk | 7,276
-adaderanasinhalalk | 7,897
+adaderanasinhalalk | 7,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,601 (100.0%) of 45,601 articles have been extended.
+45,603 (100.0%) of 45,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-22 (Sunday)
+
+### Ravindra's challenging
+
+*2024-09-22 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201439) · `si`
+
+New Zealand faces challenge in Galle Test: Need 68 runs from 2 wickets, Sri Lanka leads with 4 wickets down. Ramesh Mendis and Prabath Jayasuriya shine with 3 wickets each. Ajas Patel struggles, scoring only 9 runs.
+
+🟩
+
+New Zealand scored eight wickets in their second innings when the first Test match was held in Galle this afternoon.
+
+Pursuing 275 runs, they should score 68 runs tomorrow (23) and two wickets left for it.
+
+Ajas Patel has not scored a four-run-run resorting to the nine-day wicket with Sri Lanka.
+
+Ramesh Mendis (3/83) and Prabath Jayasuriya (3/66) were taken to a bowling bowler for Sri Lanka.
+
+The Sri Lankan team scored 237 runs for the loss of 04 wickets.
+
+However, New Zealand bowlers to break up to 309 runs in their second innings.
+
+◼️
+
+[Data](articles/0cdf8a8c.json)
+
+[Extended Data](ext_articles/0cdf8a8c.ext.json)
+
+---
+
+### Gampaha, Kalutara, Katana, Wattala, Ja-Ela and Negombo won by Anura Kumara
+
+*2024-09-22 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102195/gampaha-kalutara-katana-wattala-ja-ela-and-negombo-won-by-anura-kumara) · `en`
+
+NPP Presidential Candidate Anura Kumara Dissanayake has secured the highest number of votes in the Gampaha polling division in the Gampaha District.
+
+In the Katana polling division in Gampaha District, the NPP leader has clinched another victory by polling 69,944 votes.
+
+He has also placed first in the Wattala polling division in Gampaha District with 47,505 votes.
+
+Dissanayake has also won the Ja-Ela polling division in the Gampaha District.
+
+The NPP Presidential Candidate is also on top in the Negombo polling division in Gampaha District.
+
+He is also the winner in the Kalutara polling division in Kaluatara District.
+
+◼️
+
+[Data](articles/79fd97f2.json)
+
+[Extended Data](ext_articles/79fd97f2.ext.json)
+
+---
 
 ### Polonnaruwa, Trincomalee and Kamburupitiya Vote results
 
@@ -2135,45 +2187,5 @@ Here's a summary of the Yatiyantota election results in approximately 200 charac
 [Data](articles/144df9d4.json)
 
 [Extended Data](ext_articles/144df9d4.ext.json)
-
----
-
-### Deniyaya
-
-*2024-09-22 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201397) · `si`
-
-Anura Kumara Dissanayake wins Deniyaya electorate with 36,007 votes.
-
-🟩
-
-The official voting outcome of the Deniyaya Electorate in Matara District has been released and Anura Kumara Dissanayake has won 36,007 votes.
-
-◼️
-
-[Data](articles/d8f42c06.json)
-
-[Extended Data](ext_articles/d8f42c06.ext.json)
-
----
-
-### Matale Victory
-
-*2024-09-22 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201396) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Matale Election Results: Anura Kumara Dissanayake wins with 27,693 votes in Matale District. Official results announced.
-
-🟩
-
-The official voting outcome of Matale in Matale District has been released and Anura Kumara Dissanayake has won the area with 27693 votes.
-
-◼️
-
-[Data](articles/ef520971.json)
-
-[Extended Data](ext_articles/ef520971.ext.json)
 
 ---

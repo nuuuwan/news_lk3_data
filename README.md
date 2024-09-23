@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 03:23:18**
+As of **2024-09-24 03:38:26**
 
 ## Newspaper Stats
 
-*Scraped **45,872** Articles*
+*Scraped **45,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 449
 colombotelegraphcom | 456
 islandlk | 2,684
 economynextcom | 2,773
-dailyftlk | 3,036
+dailyftlk | 3,037
 adalk | 4,212
 dailymirrorlk | 4,733
 adaderanalk | 5,402
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,872 (100.0%) of 45,872 articles have been extended.
+45,872 (100.0%) of 45,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Will NPP embrace a new development trajectory?
+
+*2024-09-24 02:16:49* · [`dailyftlk`](https://www.ft.lk/columns/Will-NPP-embrace-a-new-development-trajectory/4-767054) · `en`
+
+All the debate about Sri Lanka’s current state of sovereign default implies a much deeper question: what is the macroeconomic framework that the NPP will adopt?
+
+With Sri Lanka continuing to reel from the economic crisis, the popular frustration paved the way for the victory of the NPP candidate, Anura Kumara Dissanayake, in the recent Presidential election. Meanwhile, as indicated by the premature announcement of a settlement with bondholders just days earlier, the complex question of debt restructuring hangs like a shadow over the incoming Government. It invokes a web of international actors led by the IMF who apply pressure at different levels.
+
+...
+
+[Data](articles/79176cd9.json)
+
+---
 
 ### The people’s choice: Quest for a new political era
 
@@ -2101,27 +2115,5 @@ According to the most reliable political sources, one of the two senior politici
 [Data](articles/c92bb1b0.json)
 
 [Extended Data](ext_articles/c92bb1b0.ext.json)
-
----
-
-### Pongal to Anura in Jaffna
-
-*2024-09-23 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194598) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Pongal supporters celebrate outside his party office in Jaffna, expressing joy.
-
-🟩
-
-In this case, supporters of Pongal expressed their happiness in front of his party office in Jaffna.
-
-◼️
-
-[Data](articles/9538cb04.json)
-
-[Extended Data](ext_articles/9538cb04.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 04:38:28**
+As of **2024-09-24 04:57:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,886 (100.0%) of 45,890 articles have been extended.
+45,890 (100.0%) of 45,890 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ Ahimsa holding a portrait of her father Lasantha Wickrematunge who was assassina
 
 [Data](articles/d6647474.json)
 
+[Extended Data](ext_articles/d6647474.ext.json)
+
 ---
 
 ### Dr. Nandika Sanath Kumanayake appointed as Secretary to the President
@@ -51,6 +53,8 @@ Ahimsa holding a portrait of her father Lasantha Wickrematunge who was assassina
 ...
 
 [Data](articles/20f99362.json)
+
+[Extended Data](ext_articles/20f99362.ext.json)
 
 ---
 
@@ -69,6 +73,8 @@ Former Member of Parliament K.D. Lal Kantha was also present on this occasion.
 ◼️
 
 [Data](articles/128c6a81.json)
+
+[Extended Data](ext_articles/128c6a81.ext.json)
 
 ---
 
@@ -449,6 +455,8 @@ However, with this great honour comes an even greater responsibility. The task o
 ...
 
 [Data](articles/ae774143.json)
+
+[Extended Data](ext_articles/ae774143.ext.json)
 
 ---
 

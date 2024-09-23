@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 12:56:54**
+As of **2024-09-23 13:07:50**
 
 ## Newspaper Stats
 
-*Scraped **45,756** Articles*
+*Scraped **45,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,387
 tamilmirrorlk | 6,088
 virakesarilk | 7,304
-adaderanasinhalalk | 7,923
+adaderanasinhalalk | 7,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,756 (100.0%) of 45,756 articles have been extended.
+45,757 (100.0%) of 45,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### 21% of the presidential election has not been voted
+
+*2024-09-23 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201466) · `si`
+
+21% of voters unaccounted for in presidential election. Over 35 lakh votes not cast. Election Commissioner cites low turnout compared to previous polls. Political parties questioned about ballot center roles.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake says that over 35 lakhs have not voted in the presidential election.
+
+The Ada Derana joined the Big FUCUS program and said that it was 21% as a percentage.
+
+"One million Thirty 5 million rupees have not been voted in one hundred and thirty-eight. It is 21.54% as a percentage. Generally after taking a number of presidential election, a polling falls is happening. But this road was less than that. Not only on the commissions of the commissions, we have to think of the role of the party to the ballot centers.. We provide that necessary feature. We ask for how political parties formulate a different way "
+
+◼️
+
+[Data](articles/e2ef5c13.json)
+
+[Extended Data](ext_articles/e2ef5c13.ext.json)
+
+---
 
 ### New Secretary Appointment to New President
 
@@ -2189,37 +2211,5 @@ In the 64th minute of the match, Kim Jin Song scored the ball with Ri Jong Dog's
 [Data](articles/61d2021e.json)
 
 [Extended Data](ext_articles/61d2021e.ext.json)
-
----
-
-### Change of elected Anura to be elected as the Executive President
-
-*2024-09-22 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201448) · `si`
-
-Anura Kumara Dissanayake elected 9th Executive President of Sri Lanka. He calls presidential election a victory, seeks election reforms. Emphasizes stability, opposition-free governance, and peaceful polls.
-
-🟩
-
-He was elected to the 9th Executive President of Sri Lanka, he was elected as the 9th Executive President of Sri Lanka.
-
-Anura Kumara Dissanayake made this statement participating in the news discussion of the Colombo Elections Commission today (22).
-
-Anura Kumara Dissanayake, who further said,
-
-"This presidential election is a victory. We hope that election revisions can be made before the next elections. We have realized that the law needs the amendments. Special attention is paying special attention.
-
-The country is unstable in a number of areas. Only a government that is willing to come to the country. We have the position that we should hold a parliamentary election.
-
-No person should have to die in any election in our country.
-
-Many of our country needs to be different. We must remove the culture of elections, victory and fearing the other.
-
-We need to relieve many divisions in our country. We can go in front of discussions ".
-
-◼️
-
-[Data](articles/59dddf97.json)
-
-[Extended Data](ext_articles/59dddf97.ext.json)
 
 ---

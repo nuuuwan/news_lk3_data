@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 20:38:30**
+As of **2024-09-23 20:57:20**
 
 ## Newspaper Stats
 
-*Scraped **45,848** Articles*
+*Scraped **45,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,030
 adalk | 4,212
 dailymirrorlk | 4,733
 adaderanalk | 5,400
-tamilmirrorlk | 6,110
+tamilmirrorlk | 6,112
 virakesarilk | 7,327
 adaderanasinhalalk | 7,936
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 7,936
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,848 (100.0%) of 45,848 articles have been extended.
+45,850 (100.0%) of 45,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Anura, Sajith and Ranil are the only opportunity ..
+
+*2024-09-23 19:56:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-சஜித்-மற்றும்-ரணிலுக்கு-மட்டுமே-வாய்ப்பு/175-344333) · `ta`
+
+Saman Sri Ratnayake: Only Anura, Sajith, Ranil likely to win. Other 35 candidates lost control. Authorized parties get 50k, independents 75k.
+
+🟩
+
+Commissioner General of Elections Commission Saman Sri Ratnayake said that the other 35 candidates have lost their control, except for the three candidates who contested the presidential election this time.
+
+He noted that President Anuragumara Dissanayake, the second place, Sajith Premadasa and former President Ranil Wickremesinghe were only likely to regain control.
+
+Accordingly, 50,000 rupees for a candidate who contested through the authorized political party and 75,000 rupees for an independent candidate.. Remble
+
+◼️
+
+[Data](articles/61d2d39b.json)
+
+[Extended Data](ext_articles/61d2d39b.ext.json)
+
+---
+
+### Ali Sabri put an end to politics
+
+*2024-09-23 19:29:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலுக்கு-முற்றுப்புள்ளி-வைத்தார்-அலி-சப்ரி/175-344332) · `ta`
+
+Sri Lanka's External Affairs Minister Ali Sabri announces retirement from politics. He expresses gratitude to supporters, acknowledging their guidance and constructive criticism. Sabri remains optimistic about Sri Lanka's future, closing his political chapter with hope for the country's progress.
+
+🟩
+
+External Affairs Minister Ali Sabri said he is now leaving political life.
+
+I extend my sincere gratitude to all those who have concluded my public duties and supported my efforts, guided, and constructive criticism. Your confidence and encouragement are the pillars that have bear me throughout this journey.
+
+When I close this chapter, I will always carry with me the subjects and memories of the period of this service. Like all of you, I am confident that Sri Lanka will fulfill its full energy in the coming days. Once again he mentioned thanks. Remble
+
+◼️
+
+[Data](articles/a441105d.json)
+
+[Extended Data](ext_articles/a441105d.ext.json)
+
+---
 
 ### Kanchana says goodbye
 
@@ -2151,51 +2195,5 @@ The child died after being admitted to Manjolai Hospital after falling into the 
 [Data](articles/1bebefb1.json)
 
 [Extended Data](ext_articles/1bebefb1.ext.json)
-
----
-
-### US congratulations to Sri Lankan people
-
-*2024-09-23 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194572) · `ta`
-
-US congratulates Sri Lankans on election. State Dept praises democracy. Aims for stronger ties, economic & security cooperation.
-
-🟩
-
-The US State Department congratulates President Anura Kumara Dissanayake, who won the Sri Lankan presidential election.
-
-This election is a testament to the dedication of citizens in determining their future through the strength, peace and democratic methods of the democratic system of Sri Lanka.
-
-The US will cooperate with Sri Lanka to build a standard, prosperous and integrated society.
-
-We are looking forward to working with Anuragumara Dissanayake, elected president to further strengthen our bilateral relations based on democratic values ​​and national sovereignty.
-
-"We also expect to improve economic, security and deep cooperation between our countries," the official site of the United States states.
-
-◼️
-
-[Data](articles/3a83e464.json)
-
-[Extended Data](ext_articles/3a83e464.ext.json)
-
----
-
-### Maithri action notice
-
-*2024-09-23 10:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-அதிரடி-அறிவிப்பு/175-344297) · `ta`
-
-Former President Maithripala Sirisena announces retirement from politics, stating he won't contest elections but may engage in political activities.
-
-🟩
-
-Former President Maithripala Sirisena has said that he will no longer contest any election.
-
-Maithripala Sirisena further stated that even if it did not field in the election, it was intended to engage in political activities.
-
-◼️
-
-[Data](articles/15eb05ab.json)
-
-[Extended Data](ext_articles/15eb05ab.ext.json)
 
 ---

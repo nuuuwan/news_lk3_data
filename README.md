@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 17:07:55**
+As of **2024-09-23 17:22:54**
 
 ## Newspaper Stats
 
-*Scraped **45,809** Articles*
+*Scraped **45,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,32 +15,62 @@ colombotelegraphcom | 454
 islandlk | 2,678
 economynextcom | 2,768
 dailyftlk | 3,030
-adalk | 4,208
+adalk | 4,209
 dailymirrorlk | 4,733
 adaderanalk | 5,396
 tamilmirrorlk | 6,099
 virakesarilk | 7,319
-adaderanasinhalalk | 7,931
+adaderanasinhalalk | 7,932
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,808 (100.0%) of 45,809 articles have been extended.
+45,811 (100.0%) of 45,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
 
-### ஜனாதிபதிக்கு சபாநாயகரின் வாழ்த்து
+### Lakshman Qunaarachchi's name gazetted
+
+*2024-09-23 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201475) · `si`
+
+Lakshman Qunaarachchi named to fill parliamentary seat after Anura Kumara Dissanayake's election. Gazette notification issued by Elections Commission due to vacancy caused by resignation.
+
+🟩
+
+As a result of the election of Anura Kumara Dissanayake, Lakshman Nakunarachchi has issued a special gazette notification for the vacant parliamentary seat.
+
+The gazette notification had been issued by the Elections Commission.
+
+Anura Kumara Dissanayake had informed the Elections Commission that there was a vacancy of a parliamentary post with a parliamentary parliamentary parliamentarian with resignation.
+
+Accordingly, Lakshman Nakunarachchi has been appointed to the vacant section of the 2020 general election preferential votes.
+
+◼️
+
+[Data](articles/b1637974.json)
+
+[Extended Data](ext_articles/b1637974.ext.json)
+
+---
+
+### Congratulations to the President
 
 *2024-09-23 16:49:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-சபாநாயகரின்-வாழ்த்து/175-344319) · `ta`
 
-இலங்கையின் நிறைவேற்று அதிகாரம் கொண்ட ஒன்பதாவது ஜனாதிபதியாக  தெரிவு செய்யப்பட்ட அனுரகுமார திஸாநாயக்கவிற்கு தனது வாழ்த்துக்களை தெரிவிப்பதாக பாராளுமன்ற சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன உத்தியோகபூர்வ வாழ்த்துச் செய்தியூடாக தெரிவித்துள்ளார்.
+Speaker Mahinda Yapa Abeywardena congratulates Anuradha Dissanayake as Sri Lanka's 9th president.
+
+🟩
+
+Speaker of Parliament Mahinda Yapa Abeywardena expressed his congratulations to Anuragumara Dissanayake, the ninth president of Sri Lanka.
 
 ◼️
 
 [Data](articles/7439ff08.json)
+
+[Extended Data](ext_articles/7439ff08.ext.json)
 
 ---
 
@@ -54,7 +84,9 @@ Accordingly, Lakshman Nipuna Arachchi has been appointed to the Parliament as a 
 
 He was next on the preference list for the district in 2020 General Elections after Anura Kumara Dissanayake.
 
-◼️
+Earlier today (23), the Secretary General of Parliament, Mrs. Kushani Rohanadeera had informed the Chairman of the Election Commission in writing that Anura Kumara Dissanayake informed her under his hand that he has resigned from his seat in Parliament with effect from today, since he has assumed duties as the President of the Democratic Socialist Republic of Sri Lanka.
+
+...
 
 [Data](articles/0ad2b19a.json)
 
@@ -91,6 +123,28 @@ After the new President Anuragumara Dissanayake was sworn in, he went to the Dal
 [Data](articles/75ed4f44.json)
 
 [Extended Data](ext_articles/75ed4f44.ext.json)
+
+---
+
+### President makes two new appointments regarding Anura Security
+
+*2024-09-23 15:27:02* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-ආරක්ෂාව-සම්බන්ධයෙන්-නව-පත්-කිරීම්-දෙකක්-සිදු-කරයි/11-412090) · `si`
+
+President Anura Kumara Dissanayake appoints two: Vice Marshal (Retired) as Defense Secretary and Former DIG Deputy Inspector General of Investigations CID as Secretary Defense Secretary.
+
+🟩
+
+He has been appointed as Vice Marshal (Retired) as the new Defense Secretary.
+
+Former DIG Deputy Inspector General of Investigations (CID) has also been appointed as the Secretary Defense Secretary.
+
+The appointments have been made by President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/2320e2b8.json)
+
+[Extended Data](ext_articles/2320e2b8.ext.json)
 
 ---
 
@@ -1176,9 +1230,13 @@ The arrested suspects have been identified as 43,45 years old from Hevlok Road, 
 
 The Director of the Planning Division of the National Institute of Education (NIE) in Maharagama has been arrested by the Criminal Investigations Department (CID) over the Grade 5 scholarship examination question paper issue, the Police Spokesman, DIG Nihal Thalduwa said.
 
-On Friday (20), an investigation was launched by the Department of Examinations after it was alleged that a question paper from the exam had been leaked. Later, the initial investigation report has been handed over to the Criminal Investigation Department (CID), which is currently conducting further inquiries.
+The arrested suspect had also served as a member in the committee that had prepared the question paper of the Grade 5 Scholarship examination.
 
-Meanwhile, the Secretary of the Ministry of Education, Thilaka Jayasundara, announced that the paper marking process of the Grade 5 Scholarship Examination, which was held on September 15, has been temporarily suspended, owing to the issue.
+Accordingly, the relevant suspect, a 57- year- old resident of the Thiththwella area in Kurunegala, was arrested in Kurunegala on Sunday (22).
+
+He was arrested for allegedly providing confidential information pertaining to the question papers of the Grade 5 Scholarship exam to outside parties, police said.
+
+Further investigations related to the incident is carried out by the Criminal Investigations Department.
 
 ...
 
@@ -2157,43 +2215,5 @@ Anura Kumara Dissanayake is to be sworn in at the Presidential Secretariat. He w
 [Data](articles/41831414.json)
 
 [Extended Data](ext_articles/41831414.ext.json)
-
----
-
-### Indian Prime Minister Modi congratulates President Anura
-
-*2024-09-23 08:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அனுரவுக்கு-இந்திய-பிரதமர்-மோடி-வாழ்த்து/175-344285) · `ta`
-
-Indian PM Modi congratulates Sri Lanka's new President Anura Kumara Dissanayake, expressing desire to strengthen ties between nations for mutual benefit.
-
-🟩
-
-Indian Prime Minister Narendra Modi congratulates Sri Lanka's new President Anura Kumara Dissanayake.
-
-“Sri Lanka has a special place under India's neighboring policy. I would like to work closely with you to further strengthen our diversity for the benefit of our people and the entire region ”. He said that on his X page.
-
-◼️
-
-[Data](articles/305c6d9c.json)
-
-[Extended Data](ext_articles/305c6d9c.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-09-23 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102199/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts while a few showers may occur in North-western province.
-
-Showers or thundershowers may occur at a few places in Uva and Eastern provinces and in Mullaittivu district during the evening or night. Mainly fair weather will prevail elsewhere, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, North-western and Southern provinces and in Trincomalee, Matale and Monaragala districts.
-
-◼️
-
-[Data](articles/6041240f.json)
-
-[Extended Data](ext_articles/6041240f.ext.json)
 
 ---

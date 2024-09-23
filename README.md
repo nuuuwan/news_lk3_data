@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 14:38:35**
+As of **2024-09-23 14:57:49**
 
 ## Newspaper Stats
 
-*Scraped **45,788** Articles*
+*Scraped **45,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,764
 dailyftlk | 3,030
 adalk | 4,205
 dailymirrorlk | 4,733
-adaderanalk | 5,390
+adaderanalk | 5,391
 tamilmirrorlk | 6,094
 virakesarilk | 7,319
 adaderanasinhalalk | 7,929
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,787 (100.0%) of 45,788 articles have been extended.
+45,789 (100.0%) of 45,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Uva Province Governor resigns
+
+*2024-09-23 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102212/uva-province-governor-resigns) · `en`
+
+The Governor of the Uva Province Anura Vidanagamage has resigned from his position this morning (23).
+
+He had tendered his letter of resignation to former President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/70223908.json)
+
+[Extended Data](ext_articles/70223908.ext.json)
+
+---
 
 ### Chinese president to Sri Lanka new President
 
@@ -328,7 +344,9 @@ Meanwhile, Anura Dissanayake is due to appoint Lakshman Nipunarachchi next to th
 
 *2024-09-23 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102209/new-secretary-to-the-president-appointed-) · `en`
 
-Dr. Nandika Sanath Kumanayaka has been appointed as the Secretary to the President, the Government Information Department announced.
+Dr. Nandika Sanath Kumanayake has been appointed as the Secretary to the President, the Government Information Department announced.
+
+Dr. Kumanayake had previously served as the Deputy Director of Sri Lanka Customs, focusing on research areas such as Corruption and Integrity in Customs, International Trade, and Development Economics.
 
 ◼️
 
@@ -338,25 +356,31 @@ Dr. Nandika Sanath Kumanayaka has been appointed as the Secretary to the Preside
 
 ---
 
-### நவம்பர் இறுதியில் நாடாளுமன்ற தேர்தல்?
+### Parliamentary election at the end of November?
 
 *2024-09-23 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194603) · `ta`
 
-இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார தெரிவு செய்யப்பட்டுள்ள நிலையில் நவம்பர் மாதத்தின் இறுதியில் நாடாளுமன்ற தேர்தல் இடம்பெறலாம் என ஊகங்கள் வெளியாகியுள்ளன.
+Sri Lanka parliamentary election: End of November; Anurakumara elected President; Election monitors confirm November date; Announcement expected October 25; Nomination period October 4-11; Election window November 22-30.
 
-தேர்தல் வெற்றி உரையின் போது அனுரகுமாரதிசநாயக்க நாடாளுமன்ற தேர்தல் குறித்து கோடிட்டுக்காட்டியுள்ள போதிலும் எப்போது தேர்தல் இடம்பெறும் என்பதை அவர் குறிப்பிடவில்லை.
+🟩
 
-அனுரகுமாரதிசநாயக்க தனது முன்னைய அறிவிப்புகளிற்கு ஏற்ப நாடாளுமன்றத்தை இந்த வாரம் கலைத்தால் நவம்பர் இறுதியில் தேர்தல் நடைபெறலாம் என தேர்தல் கண்காணிப்பாளர்கள் தெரிவித்துள்ளனர்.
+Anurakumara has been elected as the new President of Sri Lanka, which is expected to take place at the end of November.
 
-நாடாளுமன்றம் கலைப்பு,தேர்தல் குறித்த அறிவிப்பு 25ம் திகதி வெளியாகலாம் என தேர்தல் கண்காணிப்பாளர் கீர்த்தி தென்னக்கோன் தெரிவித்துள்ளார்.
+During the election victory, Anura Kumaratisanayake has outlined the parliamentary election, but he does not mention when the election will take place.
 
-வேட்பு மனுகாலம்,ஒக்டோபர் 4ம் திகதிக்குள் -அறிவிப்பு வெளியாகி பத்து நாட்களிற்குள்- வேட்பு மனு தாக்கல் செய்வதற்கு ஏழு நாட்கள்
+Election monitors have said that the election of Parliament will be held at the end of November this week in accordance with its previous announcements.
 
-தேர்தல் வாக்களிப்பு திகதி -நவம்பர் 22 லிருந்து 30ற்க்குள் - நாடாளுமன்றம் கலைக்கப்பட்டு 52 முதல் 66 நாட்களிற்குள் தேர்தலை நடத்தவேண்டும்.
+Elections Superintendent Keerthi Tennakoon said the announcement of the dissolution of Parliament and the election of the election may be issued on the 25th.
+
+Ten days after the announcement of the nomination papers, by October 4 - seven days to file nominations
+
+The election date - from 22nd to 30th of November - the parliament will be dissolved within 52 to 66 days.
 
 ◼️
 
 [Data](articles/85f3987b.json)
+
+[Extended Data](ext_articles/85f3987b.ext.json)
 
 ---
 
@@ -2263,25 +2287,5 @@ Speaking to the media, Ranawaka asserted the importance of upholding injustice t
 [Data](articles/d7823e8a.json)
 
 [Extended Data](ext_articles/d7823e8a.ext.json)
-
----
-
-### My congratulations to President Anura;Cooperation with all activities that promote the welfare of the people- Sajith Premadasa
-
-*2024-09-23 05:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194565) · `ta`
-
-Sajith Premadasa congratulates Anura Kumara Dissanayake on his election as Sri Lanka's 9th executive president. He pledges cooperation for democratic activities focusing on public welfare.
-
-🟩
-
-While I congratulate Anuragumara Dissanayake, the ninth executive president of the country, he will be the United People's Power Presidential candidate, who contested the second place by the United People's Power Presidential candidate, saying that he would provide full cooperation to all democratic activities that focus on the welfare of the people within and out of Parliament.
-
-All candidates who contested the country's ninth presidential election were summoned to the Elections Commission in Colombo yesterday and the election of the ninth executive president of the Elections Commission, RMAL Ratnayake, has officially announced that Anura Kumara Dissanayake has been elected as the ninth executive president.. Subsequently, the new President Anura Kumara Dissanayake addressed the gathering and followed by Sajith Premadasa, who was followed by him.. He further stated that
-
-...
-
-[Data](articles/477bfba8.json)
-
-[Extended Data](ext_articles/477bfba8.ext.json)
 
 ---

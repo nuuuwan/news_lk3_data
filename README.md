@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 13:58:20**
+As of **2024-09-23 14:11:59**
 
 ## Newspaper Stats
 
-*Scraped **45,776** Articles*
+*Scraped **45,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,764
 dailyftlk | 3,030
-adalk | 4,204
+adalk | 4,205
 dailymirrorlk | 4,733
 adaderanalk | 5,389
-tamilmirrorlk | 6,093
+tamilmirrorlk | 6,094
 virakesarilk | 7,312
-adaderanasinhalalk | 7,927
+adaderanasinhalalk | 7,928
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,776 (100.0%) of 45,776 articles have been extended.
+45,779 (100.0%) of 45,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### New President pledges to reinforce democracy in the country
+
+*2024-09-23 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201470) · `si`
+
+New President Anura Kumara Dissanayake vows to strengthen democracy and create positive political culture. He promises to address public concerns and build trust with citizens who didn't vote for him.
+
+🟩
+
+New President Anura Kumara Dissanayake says he is doing the best to strengthen democracy in the country.
+
+President Anura Dissanayake made this statement by calling the race and make a special statement.
+
+He also said that he will create a good political culture in the country.
+
+President Anura Kumara Dissanayake added that steps will be taken to deal with the belief in the people he did not believe.
+
+"Democracy in our country has been elected President. Former President Ranil Wickremesinghe, his commitment to this democratic exchange is very thankful for this democratic power exchange. I'm ready to show my maximum commitment to strengthening democracy in our country. We have been deeply understood that we get a very challenging country. As a deepest challenge, I do not see a human government to be a man of a political party or a person.
+
+...
+
+[Data](articles/21b1f2ad.json)
+
+[Extended Data](ext_articles/21b1f2ad.ext.json)
+
+---
+
+### Anura Vidhanagamage resigns
+
+*2024-09-23 13:50:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-விதானகமகே-இராஜினாமா/175-344309) · `ta`
+
+Anura Vidhanagamage resigns: Summary (200 characters)
+
+Anura Vidhanagamage, a prominent figure, has announced his resignation. This news has significant implications for the organization he served. The reasons behind his departure remain unclear, fueling speculation among stakeholders. As details emerge, it becomes apparent that this decision will have far-reaching consequences for the entity and its future direction.
+
+🟩
+
+◼️
+
+[Data](articles/14693c87.json)
+
+[Extended Data](ext_articles/14693c87.ext.json)
+
+---
 
 ### CWE Chairman resigns
 
@@ -265,6 +309,30 @@ The Ada Derana joined the Big FUCUS program and said that it was 21% as a percen
 [Data](articles/e2ef5c13.json)
 
 [Extended Data](ext_articles/e2ef5c13.ext.json)
+
+---
+
+### Secretary General
+
+*2024-09-23 12:27:57* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රීධුරයක්-හිස්වූ-බව-මහලේකම්-මැතිවරණ-කොමිසමට-දැනුම්-දෙයි/11-412086) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Parliamentary vacancy: Anura Kumara Dissanayake resigned as MP. Kushani Rohandera appointed as new Secretary General."
+
+🟩
+
+Anura Kumara Dissanayake has informed the election of a vacancy of a parliamentary post as a result of resigns from the post of MP.
+
+The Secretary General of Parliament Kushani Rohandera has been made by the Secretary General of Parliament today (23).
+
+◼️
+
+[Data](articles/1894a7aa.json)
+
+[Extended Data](ext_articles/1894a7aa.ext.json)
 
 ---
 
@@ -2197,71 +2265,5 @@ Accordingly, Sajith Premadasa received 216,599 votes in the North and Vanni elec
 [Data](articles/338cd220.json)
 
 [Extended Data](ext_articles/338cd220.ext.json)
-
----
-
-### We worked hard for Sajith's success;Congratulations to Anura for the constructive of the post -United People's Power MPs
-
-*2024-09-23 04:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194561) · `ta`
-
-Sajith Premadasa supporters congratulate Anura Dissanayake on presidency win despite campaign efforts. United People's Power MPs express support for new leader.
-
-🟩
-
-We have been strongly propagated for Sajith Premadasa. But that didn't happen. It is now clear that Anura Dissanayake will be sworn in as the new President of Sri Lanka. United People's Power MP Dr. Harsha de Silva said,
-
-He stated this on his X -X -X. Meanwhile, MP Saritha Herath has also shared his position on the X site.
-
-'I worked tirelessly with my team on the path of presidential candidate Sajith Premadasavina's campaign. Our efforts have given us a strong second place. Anuragumara Dissanayake has won voters and major districts across the country.
-
-Although we are different in political ideas, I congratulate my heartfelt congratulations on the success of Anura Dissanayake, elected president. Congratulations to him in these challenging times that he will lead the nation. 'He mentioned.
-
-◼️
-
-[Data](articles/424e63b2.json)
-
-[Extended Data](ext_articles/424e63b2.ext.json)
-
----
-
-### Congratulations and cautionary notes
-
-*2024-09-23 04:35:03* · [`dailyftlk`](https://www.ft.lk/columns/Congratulations-and-cautionary-notes/4-767003) · `en`
-
-Here’s wishing Anura Kumara Dissanayake heartiest congratulations on behalf of all those bleeding hearts that yearned for systemic change
-
-The ‘too close to call’ Presidential poll has been called and lo, the name of Anura Kumara Dissanayake (AKD) heads all the rest. Case closed, with the pundits who predicted the necessity to appeal to the preferential voting silenced? Perhaps not, for there is cause for proceeding with caution:
-
-In the first flush of a famous victory, AKD and his colleagues may be inclined to interpret their fearless leader’s electoral landslide as incontrovertible proof of his popularity, as much as a mandate to implement the National People’s Power (NPP) manifesto with aplomb and despatch.
-
-But it is best for ‘business as unusual’ to sound a warning note in the bell-like ear of the Janatha Vimukthi Peramuna (JVP) stalwart who is now unequivocally Sri Lanka’s tenth Executive President.
-
-...
-
-[Data](articles/587433c1.json)
-
-[Extended Data](ext_articles/587433c1.ext.json)
-
----
-
-### Reflection of the aspirations of Anuragumara Dissanayake - Rishad Bathiudeen - promoting integrity and development - Rishad Bathiudeen
-
-*2024-09-23 04:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/194560) · `ta`
-
-Rishad Bathiudeen congratulates Anura Kumara Dissanayake on presidency win, citing it as people's aspiration for integrity and development in Sri Lanka.
-
-🟩
-
-Rishad Bathiudeen, the leader of the All Ceylon Peoples Congress and Member of Parliament, has said he hopes to fulfill the mandate by promoting integrity and development, pointing out that the victory of Anura Kumara Dissanayake reflects the aspirations of the people.
-
-Rishad Bathiudeen, who posted on his official 'X' site on his official 'X' site, in the presence of Anura Kumara Dissanayake, who contested on behalf of the National People's Power as the first votes of the country's ninth presidential election.
-
-“Congratulations to Anurakumara Dissanayake, who has been elected president of Sri Lanka. This success is an expression of the aspirations of the people. We hope that the people will be appropriately made by promoting development and promoting development among the people of the country.. Congratulations on your success and the leadership you will give. '
-
-◼️
-
-[Data](articles/fc7a9cbe.json)
-
-[Extended Data](ext_articles/fc7a9cbe.ext.json)
 
 ---

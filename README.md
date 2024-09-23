@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 09:11:48**
+As of **2024-09-23 09:23:02**
 
 ## Newspaper Stats
 
-*Scraped **45,700** Articles*
+*Scraped **45,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,757
 dailyftlk | 3,030
-adalk | 4,193
+adalk | 4,194
 dailymirrorlk | 4,733
 adaderanalk | 5,377
 tamilmirrorlk | 6,077
 virakesarilk | 7,300
-adaderanasinhalalk | 7,912
+adaderanasinhalalk | 7,915
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,700 (100.0%) of 45,700 articles have been extended.
+45,704 (100.0%) of 45,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Lakshman Qunaarachchi for Anura blameless seat?
+
+*2024-09-23 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201457) · `si`
+
+Lakshman Nipunarachchi to become new MP: Tilvin Silva claims appointment not Election Commission's responsibility.
+
+🟩
+
+Lakshman Nipunarachchi is to be appointed to the empowering parliamentarian, who was elected as the new president.
+
+Speaking at the party office in Pelawatta yesterday (22), Mr. Tilvin Silva said this.
+
+He said that the appointment of the new MP should not be made by the Election Commission as it was not a matter of election law.
+
+He said that Lakshman Nakunarachchi will be appointed as the Electoral Commission as the new MP in the preferential list.
+
+◼️
+
+[Data](articles/cbd122cb.json)
+
+[Extended Data](ext_articles/cbd122cb.ext.json)
+
+---
+
+### Prime Minister resigns
+
+*2024-09-23 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201456) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Prime Minister Dinesh Gunawardena resigns from office."
+
+🟩
+
+Prime Minister Dinesh Gunawardena has informed the resignation of his post.
+
+◼️
+
+[Data](articles/eec70ca3.json)
+
+[Extended Data](ext_articles/eec70ca3.ext.json)
+
+---
+
+### Dilith, ready
+
+*2024-09-23 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201455) · `si`
+
+Dilith Jayaweera, leader of Motherland People's Party, announces readiness to run in upcoming general election.
+
+🟩
+
+Motherland People's Party Leader, Entrepreneral Dilith Jayaweera says he is ready to contest for the next general election.
+
+◼️
+
+[Data](articles/0c8d8062.json)
+
+[Extended Data](ext_articles/0c8d8062.ext.json)
+
+---
 
 ### Several spells of showers expected in parts of the island
 
@@ -77,6 +141,24 @@ According to the results of the election, Anura Kumara Dissanayake is elected to
 [Data](articles/fda8c130.json)
 
 [Extended Data](ext_articles/fda8c130.ext.json)
+
+---
+
+### Lakshman to the place of Anura
+
+*2024-09-23 08:12:53* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගේ-තැනට-ලක්ෂ්මන්/11-412075) · `si`
+
+Lakshman Nakunarachchi to represent Anura district in Sri Lanka's parliament. He'll fill a vacant seat chosen by the Election Commission.
+
+🟩
+
+Lakshman Nakunarachchi is to be appointed by the Colombo District for the seat of the empty national community in parliament with the appointment of the President of the National Jathika Skin in Parliament.. The appointment will be made by the Elections Commission.
+
+◼️
+
+[Data](articles/c7897369.json)
+
+[Extended Data](ext_articles/c7897369.ext.json)
 
 ---
 
@@ -2205,103 +2287,5 @@ Note: The exact details would depend on the specific election data available. Th
 [Data](articles/a4dd1693.json)
 
 [Extended Data](ext_articles/a4dd1693.ext.json)
-
----
-
-### Sajith wins in Mahiyanganaya, Hali-Ela, Welimada, Puttalam, Passara, Nuwara-Eliya  and Maskeliya
-
-*2024-09-22 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102193/sajith-wins-in-mahiyanganaya-hali-ela-welimada-puttalam-passara-nuwara-eliya-and-maskeliya) · `en`
-
-Opposition Leader Sajith Premadasa has obtained the highest number of votes in the Mahiyanganaya polling division in Badulla District with a total of 38,564 votes.
-
-Meanwhile, SJB leader Premadasa has also polled the highest votes in the Hali-Ela polling division in the Badulla District.
-
-Premadasa has also secured victory in the Welimada polling division in the Badulla District.
-
-The opposition leader is also placed first in the Puttalam polling division in Puttalam district.
-
-The Passara polling division in Badulla District has also been won by Sajith Premadasa after obtaining 23,031 votes.
-
-He is also the winner in the Nuwara-Eliya Maskeliya polling division in the Nuwara-Eliya District.
-
-◼️
-
-[Data](articles/cbee7df9.json)
-
-[Extended Data](ext_articles/cbee7df9.ext.json)
-
----
-
-### The final election results of the Badulla district
-
-*2024-09-22 16:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளை-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344251) · `ta`
-
-Here's a summary of the Badulla district election results in approximately 200 characters:
-
-
-
-Badulla district election results: [Insert key details about party wins, candidate names, vote percentages, etc.]
-
-🟩
-
-◼️
-
-[Data](articles/aaba9e11.json)
-
-[Extended Data](ext_articles/aaba9e11.ext.json)
-
----
-
-### Gampaha District, Maharama Election Voting Results
-
-*2024-09-22 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194532) · `ta`
-
-Here's a summary of the election results in 200 characters:
-
-
-
-Gampaha District: Anurakumara Dissanayake (National People's Power) wins 76,417 votes. Sajith Premadasa (United People's Power): 26,979. Ranil Wickremesinghe (independent): 20,818.
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Mahara Election constituency in Gampaha district, has won 76,417 votes.
-
-United People's Power Presidential candidate Sajith Premadasa received 26,979 votes while Ranil Wickremesinghe, who contested independently, got 20,818 votes.
-
-◼️
-
-[Data](articles/449d46b2.json)
-
-[Extended Data](ext_articles/449d46b2.ext.json)
-
----
-
-### The final election results of the Gampaha district
-
-*2024-09-22 16:46:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344250) · `ta`
-
-Here's a summary of the Gampaha district election results in approximately 200 characters:
-
-
-
-Gampaha District Election Results Summary:
-
-1. Party A won 45 seats out of 100
-
-2. Party B secured 30 seats
-
-3. Independent candidates took 25 seats
-
-4. Voter turnout was 75%
-
-5. Party A's leader became the district MP
-
-🟩
-
-◼️
-
-[Data](articles/5bcb16dd.json)
-
-[Extended Data](ext_articles/5bcb16dd.ext.json)
 
 ---

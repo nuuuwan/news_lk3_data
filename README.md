@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 21:38:23**
+As of **2024-09-23 21:57:56**
 
 ## Newspaper Stats
 
-*Scraped **45,854** Articles*
+*Scraped **45,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,401
 tamilmirrorlk | 6,114
 virakesarilk | 7,328
-adaderanasinhalalk | 7,936
+adaderanasinhalalk | 7,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,854 (100.0%) of 45,854 articles have been extended.
+45,855 (100.0%) of 45,855 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,7 +36,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-09-23 20:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102222/us-congratulates-new-president-stresses-strengthening-bilateral-ties) · `en`
 
-The US extended wishes to Sri Lanka President-designate Anura Kumara Dissanayake following his win in the presidential elections.
+The Unites States extended wishes to Sri Lanka’s newly elected President Anura Kumara Dissanayake following his win in the presidential elections.
 
 US State Department spokesperson Matthew Miller, in a statement on Sunday, dubbed the election as a “testament to the strength of Sri Lanka’s democratic institutions” and extended commitment to supporting Sri Lanka “as it builds a stable, prosperous, and cohesive society.”
 
@@ -107,6 +107,32 @@ Northern Governor steps down amid controversy. Official reasons undisclosed. Pol
 [Data](articles/ffae3dd3.json)
 
 [Extended Data](ext_articles/ffae3dd3.ext.json)
+
+---
+
+### Request of Ceylon Chamber of Commerce
+
+*2024-09-23 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201480) · `si`
+
+Ceylon Chamber of Commerce President Anura Kumara Dissanayake prioritizes 10 sectors in IMF loan restructuring. Visits temples, meets religious leaders, receives blessings. Focuses on economic policies and public debt management.
+
+🟩
+
+Commerce President Anura Kumara Dissanayake has also been greeted by the Ceylon Chamber of Commerce.
+
+During this context and the new President's policy expression, the President urges the President to priorify 10 fields in the first six sectors of the 630 policy statement.
+
+Accordingly, the International Monetary Fund has recently restructured the external loans based on the aliaries issued by the Commercial Creditors issued by the Commercial Creditors and implementing the expected changes and reliable income proposals in government spending as specified in the policy statement.The solution, the Economic Translation Act, Public Debt Management Act, Fiscal Management Act, Fiscal Management and Sri Lanka Electricity Management and Sri Lanka Electricity Act, China, India and Indonesia.
+
+Meanwhile, President Anura Kumara Dissanayake arrived in Kandy this morning after he was sworn in.
+
+The President visited the Dalada Maligawa and was a warm welcome from the devotees.
+
+...
+
+[Data](articles/688317bf.json)
+
+[Extended Data](ext_articles/688317bf.ext.json)
 
 ---
 
@@ -2153,37 +2179,5 @@ Accordingly, the Governor of Sabaragamuwa Province Naveen Dissanayake, Uva Provi
 [Data](articles/37b48f90.json)
 
 [Extended Data](ext_articles/37b48f90.ext.json)
-
----
-
-### "Thank you for your kind words": President respondents to the congratulations of Heads of Heads
-
-*2024-09-23 11:31:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy8931eyl3yo) · `si`
-
-Here's a 200-character summary of the key points:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake thanks world leaders for congratulations. He emphasizes international cooperation, seeking support from countries like India, China, US, Japan, and Maldives. The president vows to strengthen relations and work towards collective progress.
-
-🟩
-
-"Thank you for your kind words": President respondents to the congratulations of Heads of Heads
-
-Speaking as the 9th Executive President of Sri Lanka, Anura Kumara Dissanayake addressing the president, the nation was said to be the most important thing in the world and the most advanced devices to the country.
-
-After releasing the official results of the presidential election, the Sri Lankan Indian Ambassador, Sri Lanka, met the President of Anura Kumara Dissanayake and joined the President.
-
-The invitation of India to visit Anura Kumara Dissanayake before the presidential election was a strong conversation in the political sector.
-
-In his speech, President Anura Kumara Dissanayake addressing the nation after his swearing in the presidency, Sri Lanka should collectively move in a collective movement with the world.
-
-"We are not a kingdom of isolated from the world. A state that should collectively move with the world. We will not hesitate to make decisions about it, "the President said.
-
-...
-
-[Data](articles/c9d6e659.json)
-
-[Extended Data](ext_articles/c9d6e659.ext.json)
 
 ---

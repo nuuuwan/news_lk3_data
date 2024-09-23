@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 13:22:53**
+As of **2024-09-23 13:39:27**
 
 ## Newspaper Stats
 
-*Scraped **45,770** Articles*
+*Scraped **45,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,77 +18,147 @@ dailyftlk | 3,030
 adalk | 4,204
 dailymirrorlk | 4,733
 adaderanalk | 5,387
-tamilmirrorlk | 6,092
+tamilmirrorlk | 6,093
 virakesarilk | 7,312
-adaderanasinhalalk | 7,924
+adaderanasinhalalk | 7,926
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,757 (100.0%) of 45,770 articles have been extended.
+45,770 (100.0%) of 45,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
 
-### புதிய ஜனாதிபதிக்கு சீன ஜனாதிபதியும் வாழ்த்து
+### ආචාර්ය නන්දික කුමනායක ජනාධිපති ලේකම් ධුරයට
+
+*2024-09-23 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201468) · `si`
+
+ආචාර්ය නන්දික සනත් කුමනායක මහතා ජනාධිපති ලේකම් ලෙස පත්කර තිබේ.
+
+◼️
+
+[Data](articles/7a02d7d0.json)
+
+---
+
+### புதிய  ஜனாதிபதிக்கு கேத்ரின் வெஸ்ட்டின், வாழ்த்து
+
+*2024-09-23 13:06:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-கேத்ரின்-வெஸ்ட்டின்-வாழ்த்து/175-344308) · `ta`
+
+இலங்கையின் 9ஆவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக தெரிவு செய்யப்பட்ட அனுரகுமார திஸாநாயக்கவுக்கு, ஐக்கிய இராச்சிய பாராளுமன்ற உறுப்பினர்  கேத்ரின் வெஸ்ட் வாழ்த்துக்களை தெரிவித்துக் கொள்வதாக தனது ட்விட்டரில் பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/08cb4441.json)
+
+---
+
+### පාර්ලිමේන්තුවේ මන්ත්‍රී ධුරයක් හිස්වෙයි
+
+*2024-09-23 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201467) · `si`
+
+ඒ නව වැනි ජනාධිපති ලෙස තේරි පත්වූ අනුර කුමාර මහතා පාර්ලිමේන්තු මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වීම හේතුවෙනි.
+
+පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණදීර මහත්මිය විසින් මේ බව මැතිවරණ කොමිෂන් සභාව වෙත දන්වා යවා ඇත.
+
+පුරප්පාඩු වූ එම මන්ත්‍රී ධුරය සඳහා ජාතික ජනබලවේගයේ ලක්ෂ්මන් නිපුණආරච්චි මහතා පත් කිරීමට නියමිත බව මැතිවරණ කොමිසම පවසයි.
+
+එම කොමිසමේ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා අද දෙරණ Big Focus වැඩසටහනට එක් වෙමින් පැවසුවේ ඒ සඳහා අවශ්‍ය කටයුතු මේ වන විට සිදුවනු ඇති බවය.
+
+◼️
+
+[Data](articles/2072c9c4.json)
+
+---
+
+### Chinese president also congratulates the new president
 
 *2024-09-23 12:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-சீன-ஜனாதிபதியும்-வாழ்த்து/175-344307) · `ta`
 
-இலங்கையின் புதிய ஜனாதிபதியாக தெரிவு செய்யப்பட்டுள்ள  அனுரகுமாரதிசநாயக்கவிற்கு சீன ஜனாதிபதி ஜி ஜின்பிங் தனது வாழ்த்துக்களை தெரிவித்துள்ளார்.
+Chinese President Xi Jinping congratulates Anura Kumaratisanayake as Sri Lanka's new president. He extends greetings from the Chinese government and people. The two nations have maintained diplomatic ties for 67 years, fostering mutual support and cooperation. Xi expresses eagerness to enhance bilateral relations, strengthen political trust, and promote joint success in the Belt and Road Initiative.
 
-சீன அரசாங்கத்தின் சார்பிலும் மக்களின் சார்பிலும் வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றேன் என்றும் தனது வாழ்த்து மடலில் தெரிவித்துள்ளார்.
+🟩
 
-இலங்கையும் சீனாவும் பாரம்பரிய நட்பு அயல்நாடுகள், இருநாடுகளும் இராஜதந்திர உறவை ஏற்படுத்தி 67 வருடங்களாகின்ற நிலையில் இரு நாடுகளும் பரஸ்பரம் ஒருவருக்கொருவர் புரிந்துணர்வையும்,ஆதரவையும் வழங்கிவருகின்றன.
+Chinese President Xi Jinping congratulates Anura Kumaratisanayake, the new president of Sri Lanka.
 
-இதன் மூலம் இருநாடுகளும் நட்புறவுமிக்க சகவாழ்வு வேவ்வேறு அளவிலான நாடுகளிடையிலான பரஸ்பரம் நன்மையளிக்க கூடிய  ஒத்துழைப்பு ஆகியவற்றிற்கான சிறந்த உதாரணங்களாகும்
+He congratulated the Chinese government and on behalf of the people.
 
-நான் இலங்கை சீன உறவுகளிற்கு பெரும்முக்கியத்துவத்தை வழங்குகின்றேன் உங்களுடன் பாரம்பரிய நட்புறவை முன்னெடுப்பதற்கும் ,பரஸ்பர அரசியல் நம்பிக்கையை வலுப்படுத்துவதற்கும்  புதிய பட்டுப்பாதை திட்டத்தில் வெற்றிகரமான விடயங்கள சாதிப்பதற்கும்நான் ஆர்வமாக உள்ளேன்.
+Sri Lanka and China are traditional alienated neighbors and the two countries have been in 67 years of diplomatic relations and the two countries have been mutually understanding and supporting each other.
+
+This is the best examples of the two countries and the cooperation of mutual benefit between different countries.
+
+I am eager to carry out a great deal of Sri Lankan Chinese relations, to carry out the traditional friendship with you, to strengthen mutual political confidence and achieve successful things in the new silk road.
 
 ◼️
 
 [Data](articles/1ed6671a.json)
 
+[Extended Data](ext_articles/1ed6671a.ext.json)
+
 ---
 
-### மத்திய மாகாண ஆளுநர் இராஜினாமா
+### Central Province Governor resigns
 
 *2024-09-23 12:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மத்திய-மாகாண-ஆளுநர்-இராஜினாமா/76-344305) · `ta`
 
-மத்திய மாகாண ஆளுநரின் சட்டத்தரணி லலித் யு கமகே, ஆளுநர் பதவியிலிருந்து விலகுவதற்கான கடிதத்தை சமர்ப்பித்துள்ளதாக மத்திய மாகாண ஆளுநர் அலுவலகப் பேச்சாளர் தெரிவித்துள்ளார்.
+Central Province Governor resigns: Lalit U Kamage steps down. New governor likely to be chosen from Kandy-based senior politician with local expertise.
 
-மத்திய மாகாணம் மற்றும் கண்டியின் அனைத்து அம்சங்களிலும் சிறப்பு அறிவும் அனுபவமும் கொண்ட கண்டியில் வசிக்கும் மூத்த அரசியல்வாதிகள் இருவரில் ஒருவர் மத்திய மாகாணத்தின் புதிய ஆளுநராக நியமிக்கப்பட வாய்ப்புள்ளதாக மிகவும் நம்பகமான அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+🟩
+
+The Central Provincial Governor's Office spokesman said that Lalit U Kamage, the Governor of the Central Province, has submitted a letter of resignation from the post of Governor.
+
+According to the most reliable political sources, one of the two senior politicians living in Kandy with special knowledge and experience in all aspects of the Central Province and Kandy is likely to be appointed as the new Governor of the Central Province.
 
 ◼️
 
 [Data](articles/c92bb1b0.json)
 
+[Extended Data](ext_articles/c92bb1b0.ext.json)
+
 ---
 
-### யாழில் அநுரவிற்கு பொங்கல்
+### Pongal to Anura in Jaffna
 
 *2024-09-23 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194598) · `ta`
 
-இந்நிலையில், யாழ்ப்பாணத்தில் உள்ள அவரது கட்சி அலுவலகம் முன்பாக, ஆதரவாளர்கள் பொங்கல் பொங்கி தமது மகிழ்ச்சியை வெளிப்படுத்தினர்.
+Here's a 200-character summary:
+
+
+
+Pongal supporters celebrate outside his party office in Jaffna, expressing joy.
+
+🟩
+
+In this case, supporters of Pongal expressed their happiness in front of his party office in Jaffna.
 
 ◼️
 
 [Data](articles/9538cb04.json)
 
+[Extended Data](ext_articles/9538cb04.ext.json)
+
 ---
 
-### வினாத்தாள் கசிவு: ஒருவர் கைது
+### Questionnaire leak: One arrested
 
 *2024-09-23 12:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-கசிவு-ஒருவர்-கைது/175-344304) · `ta`
 
-2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை வினாத்தாளின் வினாக்கள் வெளியாகிய சம்பவம் தொடர்பில் மஹரகமவில் உள்ள தேசிய கல்வி நிறுவகத்தின் திட்டமிடல் பிரிவின் பணிப்பாளர் ஒருவர் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+Grade 5 Scholarship Exam question leak: Director arrested. 57-year-old suspect from National Education Institute's Planning Unit. CID investigation ongoing.
 
-சந்தேக நபரினால் தரம் 5 புலமைப்பரிசில் பரீட்சை வினாத்தாளின் சில வினாக்கள்  வெளியாகியுள்ளதாக விசாரணையில் தெரியவந்துள்ளது. 57 வயதுடைய நபரொருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
+
+The Director of the Planning Unit of the National Education Institute in Maharagama has been arrested by the Criminal Investigation Department officials in connection with the release of the Grade 5 Scholarship Examination Questionnaire for 2024.
+
+Investigations have revealed that some questions have been released by the suspect's Grade 5 Scholarship Examination Questionnaire. A 57 -year -old man has been arrested.
 
 ◼️
 
 [Data](articles/48e30ed9.json)
+
+[Extended Data](ext_articles/48e30ed9.ext.json)
 
 ---
 
@@ -114,33 +184,45 @@ The Ada Derana joined the Big FUCUS program and said that it was 21% as a percen
 
 ---
 
-### பட்டாசு கொளுத்தியவர் வைத்தியசாலை அனுமதி
+### Crackers
 
 *2024-09-23 12:26:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டாசு-கொளுத்தியவர்-வைத்தியசாலை-அனுமதி/175-344303) · `ta`
 
-தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க பதவியேற்ற மகிழ்ச்சியில் பட்டாசு கொளுத்திக்கொண்டிருந்த நபரொருவர் தீ காயங்களுக்குள்ளாகி படுகாயமடைந்துள்ளதாக ஹொரணை பொலிஸார் தெரிவித்தனர் .
+Fireworks explosion injures 28-year-old man in Horana. He's hospitalized with burns and plans for multiple surgeries. Police investigating incident.
 
-ஹொரண இலிப கொஸ்வத்த பகுதியைச் சேர்ந்த 28 வயதுடைய ஒருவரே இவ்வாறு தீ காயங்களுக்குள்ளாகி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் .
+🟩
 
-குறித்த நபர் பட்டாசு கொளுத்தி சிறிது நேரத்தின் பின்னரும்  அது வெடிக்காததால், அருகில் சென்று சோதனையிட்டு பார்த்தபோது திடீரென பட்டாசு வெடித்துள்ளதுடன் இதனால் அவரது வலது கை மணிக்கட்டு உட்பட உடலின் பல பாகங்களில் பலத்த தீ காயங்கள் ஏற்பட்டுள்ளதாகவும் அவருக்கு அறுவை சிகிச்சை செய்ய திட்டமிடப்பட்டுள்ளதாகவும் ஹொரண ஆதார வைத்தியசாலையின் ஊடக பேச்சாளர் தெரிவித்தார்.
+Horana police said that a person who was burning fireworks was injured in fire injuries in the joy of taking over the post of National People's Power Leader Anura Kumara Dissanayake.
 
-மேலும் இது தொடர்பான மேலதிக விசாரணைகளை ஹொரணை தலைமையக பொலிஸார் மேற்கொண்டு வருவதாக தெரியவந்துள்ளது .
+A 28 -year -old man from Horana Iliba Koswatta has been admitted to the hospital.
+
+The man spokesman at the Horana Hospital said that the fireworks had suddenly exploded when the fire was not exploded shortly after the fireworks, and the fireworks had suddenly exploded and he was planning to perform surgery in several parts of the body, including his right wrist.
+
+Further investigations are being carried out by the Horana Headquarters Police.
 
 ◼️
 
 [Data](articles/b0147d1a.json)
 
+[Extended Data](ext_articles/b0147d1a.ext.json)
+
 ---
 
-### அநுரவின் பாராளுமன்ற இடத்திற்கு லக்ஷ்மன் நிபுன ஆராச்சி
+### Lakshman Nipuna Arachchi
 
 *2024-09-23 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/194597) · `ta`
 
-ஜனாதிபதியாக அநுரகுமார திசாநாயக்க தெரிவுசெய்யப்பட்டதையடுத்து ஏற்பட்ட வெற்றிடத்திற்கு லக்ஷ்மன் நிபுன ஆராச்சி பாராளுமன்ற உறுப்பினராக நியமிக்கப்படவுள்ள தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+Saman Sri Ratnayake appointed Election Commissioner General Lakshman Nipuna Arachchi Parliament vacancy due to election as President.
+
+🟩
+
+Election Commissioner General Saman Sri Ratnayake, who is to be appointed as a member of the Lakshman Nipuna Arachchi Parliament for the vacancy that was elected as President.
 
 ◼️
 
 [Data](articles/774a3e6f.json)
+
+[Extended Data](ext_articles/774a3e6f.ext.json)
 
 ---
 
@@ -186,15 +268,25 @@ However, he added that Lakshman Nipuna Arachchi is next on the preference list a
 
 ---
 
-### கடிவாளம் போடாத காலநீடிப்பு
+### Chronology
 
 *2024-09-23 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/194581) · `ta`
 
-ஜெனிவாவில் மீண்டும் ஒரு வருட கால அவகாசம் வழங்கப்படவுள்ளதானது, பாதிக்கப்பட்ட தரப்பினரை பொறுத்தவரையில் ஏமாற்றம் அளிக்கின்ற ஒரு விடயம்”
+Here's a summary of the text in 200 characters:
+
+
+
+Geneva: One-year delay for re-giving disappointing affected parties.
+
+🟩
+
+The fact that a one -year time to be re -given in Geneva is a disappointment of the affected parties. ”
 
 ◼️
 
 [Data](articles/34133633.json)
+
+[Extended Data](ext_articles/34133633.ext.json)
 
 ---
 
@@ -250,29 +342,37 @@ Prabath Jayasuriya took 5 wickets for 68 runs in New Zealand in New Zealand.
 
 ---
 
-### இலங்கையில் அரசியல் பூகம்பம்
+### Political earthquake in Sri Lanka
 
 *2024-09-23 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/194591) · `ta`
 
-பாரம்பரிய உயர்குழாமிற்கு வெளியே ஒருவரை இலங்கை மக்கள் ஜனாதிபதியாக தெரிவு செய்வது சுதந்திரத்தி;ற்கு பின்னரான இலங்கையில் இதுவே முதல் தடவை.
+Sri Lanka election: Dissanayake wins, first outsider leader. Economic crisis impact. AKD promises welfare services. Complex government challenges. No chauvinism. Western countries learn lesson. Ranil Wickremesinghe's economic legacy. IMF plan implementation.
 
-ஏகேடி என அழைக்கப்படும் திசநாயக்க அனுராதபுரத்தி;ல் மிகவும் சாதாரண குடும்ப பி;ன்னணியை கொண்டவர்.
+🟩
 
-பொருளாதார நெருக்கடியின் போது வறிய  ஏழ்மையான நிலையில் உள்ள இலங்கையர்கள் அனுபவித்த வலிக்கு இந்த தேர்தல் முடிவு ஒரு சான்று.
+This is the first time in Sri Lanka that the Sri Lankan people elect a person outside the traditional aristocracy.
 
-ஊழலிற்கு எதிரான ஏகேடியின் போராட்டத்திற்கும,; மக்களிற்கு அதிகளவு நலன்புரிசேவைகளை வழங்கவேண்டும் என்ற  அவரது வேண்டுகோள்களிற்கும் பரந்துபட்ட ஆதரவுள்ளது.
+Dissanayake, also known as AKD, has a very common family b;
 
-தேர்தல் வெற்றியாளரின் பலவீனம் என்னவென்றால் அவரது கூட்டணிக்கு இலங்கை போன்ற ஒரு  சிக்கலான அரசாங்கத்தை நிர்வகித்த அனுபவம் மிகவும் குறைவு.
+This election result is a testament to the pain experienced by Sri Lankans who are impoverished during the economic crisis.
 
-மிகவும் சவாலான பொருளாதார சூழலில் தங்களின் பல வாக்குறுதிகளை நடைமுறைப்படுத்துவது அவர்களிற்கு மிகவும் சவாலான விடயமாக காணப்படலாம்.
+For Aadi's struggle against corruption;His requests to provide more welfare services to the people have a widespread support.
 
-தனது தேர்தல் பிரச்சாரத்தின் போது ஏகேடி இந்தியா சீனா மேற்குலகை நோக்கி தனது நேசக்கரங்களை நீட்டினார்.
+The weakness of the election winner is that his coalition managed a complex government like Sri Lanka.
 
-இலங்கையின் தேர்தல் பிரச்சாரத்தில் பேரினவாதமும் இனதீவிரவாதமும் நீண்டகாலத்தின் பின்னர் எந்த முக்கியத்துவத்தையும் பெறாத தேர்தல் இது.
+The implementation of many of their promises in the most challenging economic environment may be a very challenging issue.
+
+During his election campaign, AK India extended its allies to the West.
+
+This is an election that has no significance in Sri Lanka's election campaign, chauvinism and racism.
+
+Many Western countries can learn lessons from the silence of this election and the defeat of Sajit Preadasa and Ranilwickramasinghe, who lost the election.
 
 ...
 
 [Data](articles/fa4868a3.json)
+
+[Extended Data](ext_articles/fa4868a3.ext.json)
 
 ---
 
@@ -356,35 +456,51 @@ The Director of the Planning Division of the Planning Division of the National E
 
 ---
 
-### ආණ්ඩුකාරවරුන් 03ක් ඉල්ලා අස්වෙයි
+### 03 Governors resign
 
 *2024-09-23 11:33:14* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුකාරවරුන්-03ක්-ඉල්ලා-අස්වෙයි/11-412085) · `si`
 
-සබරගමුව, ඌව සහ උතුරු මැද පළාත් ආණ්ඩුකාරවරුන් ඉල්ලා අස්වී තිබේ.
+Three provincial governors resign: Sabaragamuwa (Naveen Dissanayake), Uva (Anura Vidanagamage), and North Central (Maheepala Herath).
 
-ඒ අනුව සබරගමු පළාත් ආණ්ඩුකාර නවීන් දිසානායක, ඌව පළාත් ආණ්ඩුකාර අනුර විදානගමගේ සහ උතුරු මැද පළාත් ආණ්ඩුකාර මහීපාල හේරත් යන මහත්වරුන් මෙලෙස ඉල්ලා අස්වී ඇත.
+🟩
+
+Governors of Sabaragamuwa, Uva and North Central Province have resigned.
+
+Accordingly, the Governor of Sabaragamuwa Province Naveen Dissanayake, Uva Provincial Anura Vidanagamage and Northern Governor Maheepala Herath have resigned.
 
 ◼️
 
 [Data](articles/37b48f90.json)
 
+[Extended Data](ext_articles/37b48f90.ext.json)
+
 ---
 
-### அனுரகுமாரவின் தலைமைத்துவம் எனது  தந்தையின் படுகொலைக்கு நீதிவழங்கவேண்டும் - லசந்தவின் மகள்
+### Anurakumara's leadership should be judged for my father's assassination - Lasantha's daughter
 
 *2024-09-23 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194584) · `ta`
 
-சண்டே லீடர் ஆசிரியர் லசந்த லசந்தவிக்கிரமதுங்கவின் படுகொலைக்கு புதிய ஜனாதிபதி அனுரகுமாரதிசநாயக்க  நீதிவழங்கவேண்டும் என லசந்த விக்கிரமதுங்கவின் மகள் அஹிம்சா விக்கிரமதுங்க வேண்டுகோள் விடுத்துள்ளார்.
+Ahimsa Wickrematunge appeals to new President Anura Kumara Dissanayake regarding her father Lasantha Wickrematunge's assassination. She seeks justice and accountability, criticizing the previous government's inaction over the past 15 years.
 
-அதிகாரத்தில் உள்ளவர்களிற்கு எதிராக உண்மையை பேசியமைக்காக நியாயமற்ற விதத்தில் பறிக்கப்பட்ட எனது தந்தையின் உயிருக்காக நீதியை பெற்றுக்கொள்வது குறித்து நானும் எனது குடும்பமும் உறுதியாக உள்ளோம் என அவர் தெரிவித்துள்ளார்.
+🟩
 
-அதிகாரத்தின் முன்னால் உண்மைய பேசியமைக்காக 15 வருடங்களிற்கு முன்னர் நியாயமற்ற விதத்தில் பறிக்கப்பட்ட எங்களின் தந்தைக்கு உயிருக்கு நீதியை பெற்றுக்கொள்வது குறித்து நானும் எனது குடும்பமும் தளராத உறுதியுடன் காணப்படுகின்றோம் என அறிக்கையொன்றி;ல் அவர்  தெரிவித்துள்ளார்.
+Ahimsa Wickrematunge, daughter of Lasantha Wickrematunge, has appealed to the new President Anuragumaratisanayake to the assassination of Sunday Leader editor Lasanthavikramathunga.
 
-15வருடங்களாகின்ற போதிலும் அந்த வலி வேதனை தொடர்கின்றது,ஆனால் உண்மை பொறுப்புக்கூறலை நிலைநாட்டுவது குறித்து நான் மிகவும் உறுதியான அர்ப்பணிப்புடன் உள்ளேன் என அவர் தெரிவித்துள்ளார்.
+"My family and I are sure to seek justice for the life of my father who was unfairly plundered for the truth against those in power," he said.
+
+"I and my family are unreasonable for our father, who were unfairly plucked 15 years ago for the truth of power," he said.
+
+Despite 15 years, the pain continues, but I am very firmly committed to establishing true accountability, ”he said.
+
+He said that for the past 15 years, the government has failed to take a meaningful action on my father's assassination, which has revealed the culture of exempting the clutches of the country.
+
+Yesterday's election results have renewed my confidence. The JVP has severely criticized the bureaucracy.
 
 ...
 
 [Data](articles/6d44e541.json)
+
+[Extended Data](ext_articles/6d44e541.ext.json)
 
 ---
 
@@ -428,37 +544,49 @@ Addressing the nation, President Dissanayake said: “The most significant featu
 
 ---
 
-### தண்ணீர் நிரம்பிய தொட்டியில் விழுந்து 11 மாத குழந்தை உயிரிழப்பு
+### 11 -month -old baby death
 
 *2024-09-23 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194573) · `ta`
 
-முல்லைத்தீவு, முள்ளிவாய்க்கால்  கிழக்கு பகுதியில் தண்ணீர் நிரம்பிய தொட்டியில் விழுந்து குழந்தை உயிரிழந்துள்ளதாக முல்லைத்தீவு பொலிஸார் தெரிவித்தனர்.
+11-month-old baby dies in water-filled tank incident in Mullaitivu, Sri Lanka. Child fell into tank during bathroom use with mother, later hospitalized but succumbed to injuries.
 
-குழந்தை தனது தாயுடன் குளியலறையில் இருந்த போது தண்ணீர் நிறைந்த தொட்டியில் விழுந்து நீரில் மூழ்கியுள்ள நிலையில் மாஞ்சோலை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர்  உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
+
+Mullaitivu police said that the child died in a water -filled tank in the east of Mullivaikkal and Mullivaikkal.
+
+The child died after being admitted to Manjolai Hospital after falling into the water tank while in the bathroom with her mother, police said.
 
 ◼️
 
 [Data](articles/1bebefb1.json)
 
+[Extended Data](ext_articles/1bebefb1.ext.json)
+
 ---
 
-### இலங்கை மக்களுக்கு அமெரிக்கா பாராட்டு : ஜனாதிபதி அநுரகுமாரவுக்கு வாழ்த்து
+### US congratulations to Sri Lankan people
 
 *2024-09-23 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194572) · `ta`
 
-இலங்கை ஜனாதிபதி தேர்தலில் வெற்றி பெற்ற ஜனாதிபதி அநுரகுமார திஸாநாயக்கவிற்கு அமெரிக்க இராஜாங்கத் திணைக்களம் வாழ்த்து தெரிவித்துள்ளது.
+US congratulates Sri Lankans on election. State Dept praises democracy. Aims for stronger ties, economic & security cooperation.
 
-இந்த தேர்தல் இலங்கையின் ஜனநாயக அமைப்பின் பலம், அமைதி மற்றும் ஜனநாயக வழிமுறைகளின் மூலம் அவர்களின் எதிர்காலத்தை தீர்மானிப்பதில் குடிமக்களின் அர்ப்பணிப்புக்கு ஒரு சான்றாகும்.
+🟩
 
-ஒரு நிலையான, வளமான மற்றும் ஒருங்கிணைக்கப்பட்ட சமூகத்தை கட்டியெழுப்ப இலங்கைக்கு அமெரிக்கா ஒத்துழைப்பு வழங்கும்.
+The US State Department congratulates President Anura Kumara Dissanayake, who won the Sri Lankan presidential election.
 
-ஜனநாயக விழுமியங்கள் மற்றும் தேசிய இறையாண்மைக்கு மதிப்பளிக்கும் அடிப்படையிலான எமது இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவதற்காக ஜனாதிபதியாக தெரிவு செய்யப்பட்ட அநுரகுமார திஸாநாயக்கவுடன் இணைந்து செயற்பட நாங்கள் எதிர்பார்த்துள்ளோம்.
+This election is a testament to the dedication of citizens in determining their future through the strength, peace and democratic methods of the democratic system of Sri Lanka.
 
-நமது நாடுகளுக்கு இடையே பொருளாதார, பாதுகாப்பு மற்றும் ஆழமான ஒத்துழைப்பை மேம்படுத்துவதையும் நாங்கள் எதிர்பார்க்கிறோம் என அமெரிக்காவின் உத்தியோகபூர்வ தளத்தில் குறிப்பிடப்பட்டுள்ளது.
+The US will cooperate with Sri Lanka to build a standard, prosperous and integrated society.
+
+We are looking forward to working with Anuragumara Dissanayake, elected president to further strengthen our bilateral relations based on democratic values ​​and national sovereignty.
+
+"We also expect to improve economic, security and deep cooperation between our countries," the official site of the United States states.
 
 ◼️
 
 [Data](articles/3a83e464.json)
+
+[Extended Data](ext_articles/3a83e464.ext.json)
 
 ---
 
@@ -604,15 +732,25 @@ Sri Lanka won the first Test match between the two countries, the forefront of 1
 
 ---
 
-### லெபனானில் பேஜர்கள்  மரணப் பொறிகளாக மாறிய கதை : ‘ஆழ்ந்த அறிவை அழிக்கப் பயன்படுத்தும் இஸ்ரேலின் கோரத்தாண்டவம்’
+### The story of the pagans in Lebanon becomes death traps:
 
 *2024-09-23 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194354) · `ta`
 
-ஆட்களைக் கொல்வதற்காக பயன்படுத்தப்பட்ட தொடர்பாடல் கருவிகள், அழிக்க நினைக்க சக்தியால் காசு கொடுத்து வாங்கப்பட்டவை அல்ல. ஓர்டருக்கும், தயாரிப்பிற்கும், விற்பனைக்கும் இடையிலான வர்த்தகத்திற்குள் உள்ளே நுழைந்த சக்தியால் யாரும் அறியாமல் குண்டுகளாக மாற்றப்பட்டவை.
+Here's a 200-character summary:
+
+
+
+Pagan communities in Lebanon face deadly consequences. Communication tools meant for destruction become weapons. Unintentionally, power structures transform trade relationships into lethal devices, putting innocent lives at risk.
+
+🟩
+
+Communication tools used to kill people are not bought by the power to destroy. The power that entered the trade between the Order, the manufacturer, and the sale was unknowingly transformed into bombs.
 
 ◼️
 
 [Data](articles/5468895f.json)
+
+[Extended Data](ext_articles/5468895f.ext.json)
 
 ---
 
@@ -2083,59 +2221,5 @@ What is the economy which the new President has inherited from the outgoing Pres
 [Data](articles/73cc1ffc.json)
 
 [Extended Data](ext_articles/73cc1ffc.ext.json)
-
----
-
-### Sri Lanka tea production: All elevations record an increase
-
-*2024-09-23 02:21:00* · [`islandlk`](http://island.lk/sri-lanka-tea-production-all-elevations-record-an-increase/) · `en`
-
-* Sri Lanka Tea Production for the month of August 2024 totalled 21.28 M/Kgs, recording an increase of 2.92 M/Kgs vis-à-vis 18.36 M/Kgs of August 2023. All Elevations have recorded an increase, while the High Grown elevation saw a marginal decline of 0.39 M/Kgs in comparison with the corresponding period of 2023.
-
-* January-August 2024 cumulative production totalled 172.03 M/Kgs, recording a decrease of 2.56 M/Kgs vis-à-vis 174.59 M/Kgs of January-August 2023. Compared to the corresponding period in 2023, all elevations except for the Medium Grown elevation have shown negative variances in the year 2024.
-
-* Compared to 171.54 M/Kgs of January-August 2022, cumulative production of 2024 shows an increase of 0.49 M/Kgs. On a cumulative basis, apart from the Medium Grown elevation, all elevations have shown a decrease over the corresponding period of 2022 (Refer table below).
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/440826cf.json)
-
-[Extended Data](ext_articles/440826cf.ext.json)
-
----
-
-### HNB boosts microfinance expertise through IBSL diploma programme
-
-*2024-09-23 02:21:00* · [`islandlk`](http://island.lk/hnb-boosts-microfinance-expertise-through-ibsl-diploma-programme/) · `en`
-
-HNB PLC, recently collaborated with the Institute of Bankers of Sri Lanka (IBSL) to introduce IBSL’s Diploma in Microfinance program to HNB’s microfinance staff.
-
-The inauguration ceremony of the programme was held recently at HNB Towers, with the participation of IBSL Director General, C. P. A. Karunatilake, IBSL Director of the College of Banking & Finance, Buddhika Godakanda, CBSL Director – Regional Development Department, G. C. A. Ariyadasa, HNB Chief Operating Officer, Sanjay Wijemanne, HNB DGM (SME & MF), Rajive Dissanayake, HNB CHRO, K. Indravasan, HNB Head of Microfinance, Mahinda Senevirathne, and over 100 enthusiastic attendees from the Bank.
-
-...
-
-[Data](articles/96621081.json)
-
-[Extended Data](ext_articles/96621081.ext.json)
-
----
-
-### Sampath Bank makes history as Asia’s Best for Corporate Responsibility at Euromoney 2024
-
-*2024-09-23 02:21:00* · [`islandlk`](http://island.lk/sampath-bank-makes-history-as-asias-best-for-corporate-responsibility-at-euromoney-2024/) · `en`
-
-Sampath Bank made history by receiving the prestigious ‘Asia’s Best Bank for Corporate Responsibility’ award at the Euromoney Awards for Excellence 2024, held recently at The Westin, Singapore.
-
-The award was presented to Sampath Bank’s Managing Director, Ayodhya Iddawella Perera, in recognition of the Bank’s outstanding contributions to corporate responsibility. Sampath Bank’s initiatives, including its flagship ‘Wewata Jeewayak’ Tank Restoration Programme and various environmental and social sustainability projects, reflect its deep commitment to addressing the nation’s core challenges.
-
-“This remarkable achievement recognises Sampath Bank as the only Sri Lankan bank honoured as the best bank for corporate responsibility, and even more so, Asia’s best. We are immensely proud, and this award reinforces our dedication to creating lasting, positive impacts in the communities we serve,” said Ayodhya Iddawella Perera.
-
-...
-
-[Data](articles/dbb4c3ad.json)
-
-[Extended Data](ext_articles/dbb4c3ad.ext.json)
 
 ---

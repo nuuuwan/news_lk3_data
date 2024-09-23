@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 17:39:51**
+As of **2024-09-23 17:59:31**
 
 ## Newspaper Stats
 
-*Scraped **45,811** Articles*
+*Scraped **45,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,768
 dailyftlk | 3,030
 adalk | 4,209
 dailymirrorlk | 4,733
-adaderanalk | 5,396
+adaderanalk | 5,397
 tamilmirrorlk | 6,099
 virakesarilk | 7,319
-adaderanasinhalalk | 7,932
+adaderanasinhalalk | 7,933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,811 (100.0%) of 45,811 articles have been extended.
+45,813 (100.0%) of 45,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### NIE Director remanded over scholarship exam paper ‘leak’
+
+*2024-09-23 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102218/nie-director-remanded-over-scholarship-exam-paper-leak-) · `en`
+
+The Director of the Planning Division of the National Institute of Education (NIE) in Maharagama, who was arrested by the Criminal Investigations Department (CID) over the Grade 5 scholarship examination question paper issue, has been ordered to be remanded until October 07.
+
+This order was issued after the arrested 57-year-old was produced before the Kaduwela Magistrate’s Court, Ada Derana reporter said.
+
+The suspect, who had also served as a member in the committee that had prepared the question paper of the Grade 5 Scholarship examination, was arrested on Sunday (23) for allegedly providing confidential information pertaining to the question papers of the Grade 5 Scholarship exam to outside parties, police said.
+
+...
+
+[Data](articles/5c8ab123.json)
+
+[Extended Data](ext_articles/5c8ab123.ext.json)
+
+---
+
+### Increase in all stock price index
+
+*2024-09-23 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201476) · `si`
+
+Colombo Stock Exchange CSE saw significant increase in stock prices today. Price index rose by 130.30 points, ending at 11,096.81 units. This represents a substantial growth in overall market value.
+
+🟩
+
+The Colombo Stock Exchange (CSE) was seen in the price indicators today (23). The price index has increased by 130.30 points.
+
+At the end of the day, all stock price index indicated at 11,096.81 units.
+
+◼️
+
+[Data](articles/6496e7bb.json)
+
+[Extended Data](ext_articles/6496e7bb.ext.json)
+
+---
 
 ### Lakshman Qunaarachchi's name gazetted
 
@@ -2179,41 +2217,5 @@ Prime Minister Dinesh Gunawardena has resigned. He has sent his resignation lett
 [Data](articles/68bd6d3a.json)
 
 [Extended Data](ext_articles/68bd6d3a.ext.json)
-
----
-
-### Dilith, ready
-
-*2024-09-23 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201455) · `si`
-
-Dilith Jayaweera, leader of Motherland People's Party, announces readiness to run in upcoming general election.
-
-🟩
-
-Motherland People's Party Leader, Entrepreneral Dilith Jayaweera says he is ready to contest for the next general election.
-
-◼️
-
-[Data](articles/0c8d8062.json)
-
-[Extended Data](ext_articles/0c8d8062.ext.json)
-
----
-
-### Anura oaths as new President
-
-*2024-09-23 09:02:19* · [`adalk`](https://www.ada.lk/breaking_news/නව-ජනපති-ලෙස-අනුර-දිවුරුම්-දීම/11-412077) · `si`
-
-Anura Kumara Dissanayake to be sworn in as President at Presidential Secretariat. Will take oath before Chief Justice. Event to be held at Secretary's office.
-
-🟩
-
-Anura Kumara Dissanayake is to be sworn in at the Presidential Secretariat. He will be sworn in as the Chief Justice to the Chief Justice. President is to be held at the Secretary to the Presidential Secretariat.
-
-◼️
-
-[Data](articles/41831414.json)
-
-[Extended Data](ext_articles/41831414.ext.json)
 
 ---

@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 09:38:55**
+As of **2024-09-23 09:57:53**
 
 ## Newspaper Stats
 
-*Scraped **45,708** Articles*
+*Scraped **45,712** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 380
+dbsjeyarajcom | 381
 bbccomsinhala | 447
 colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,757
 dailyftlk | 3,030
-adalk | 4,194
+adalk | 4,195
 dailymirrorlk | 4,733
-adaderanalk | 5,378
+adaderanalk | 5,379
 tamilmirrorlk | 6,080
 virakesarilk | 7,300
-adaderanasinhalalk | 7,915
+adaderanasinhalalk | 7,916
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,708 (100.0%) of 45,708 articles have been extended.
+45,712 (100.0%) of 45,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Anura sworn in as new President
+
+*2024-09-23 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201458) · `si`
+
+Anura Kumara Dissanayake sworn in as President at Presidential Secretariat before Chief Justice Jayantha Jayasuriya.
+
+🟩
+
+Anura Kumara Dissanayake is to be sworn in as the President at the Presidential Secretariat before Chief Justice Jayantha Jayasuriya.
+
+◼️
+
+[Data](articles/c1998062.json)
+
+[Extended Data](ext_articles/c1998062.ext.json)
+
+---
+
+### Prime Minister Dinesh Gunawardane resigns
+
+*2024-09-23 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102201/prime-minister-dinesh-gunawardane-resigns) · `en`
+
+Prime Minister Dinesh Gunawardane has tendered his resignation to the President.
+
+He has tendered his letter of resignation to President Ranil Wickremesinghe.
+
+Mr. Gunawardena has stated in the relevant letter that as the 9th Executive President of Sri Lanka has been elected in the presidential election held on September 21, he will resign from his position in accordance with Article 47 (2) of the Constitution of the Socialist Republic of Sri Lanka.
+
+◼️
+
+[Data](articles/ca4c7d78.json)
+
+[Extended Data](ext_articles/ca4c7d78.ext.json)
+
+---
 
 ### Anura Kumara to be sworn in as President today
 
@@ -131,6 +167,24 @@ Motherland People's Party Leader, Entrepreneral Dilith Jayaweera says he is read
 [Data](articles/0c8d8062.json)
 
 [Extended Data](ext_articles/0c8d8062.ext.json)
+
+---
+
+### Anura oaths as new President
+
+*2024-09-23 09:02:19* · [`adalk`](https://www.ada.lk/breaking_news/නව-ජනපති-ලෙස-අනුර-දිවුරුම්-දීම/11-412077) · `si`
+
+Anura Kumara Dissanayake to be sworn in as President at Presidential Secretariat. Will take oath before Chief Justice. Event to be held at Secretary's office.
+
+🟩
+
+Anura Kumara Dissanayake is to be sworn in at the Presidential Secretariat. He will be sworn in as the Chief Justice to the Chief Justice. President is to be held at the Secretary to the Presidential Secretariat.
+
+◼️
+
+[Data](articles/41831414.json)
+
+[Extended Data](ext_articles/41831414.ext.json)
 
 ---
 
@@ -1256,6 +1310,22 @@ I was able to reduce inflation to five (0.5%) in the country at the time of the 
 
 ---
 
+### Presidents May Come and  Presidents May Go but JR Jayewardene’s Executive Presidency Goes on Forever.
+
+*2024-09-22 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84762) · `en`
+
+Sri Lanka’s ninth presidential election will be held  on Saturday the 21st of September. More than 17 million (17,140, 354)  Sri Lankans are registered as eligible voters. Nominally thirty-eight candidates are in the ring but only three are regarded as  te leading contenders. The hectic election campaigns ended on Sep 18 but election fever is high.  A large voter turn out is expected on election day.
+
+It is indeed an irony that there is so much of enthusiasm  over the election of the executive president  despite the criticism directed against the executive presidential system in past  years. The executive presidency is blamed extensively on the one hand while the country gets involved in  presidential poll excitement on the other.
+
+...
+
+[Data](articles/eabab93d.json)
+
+[Extended Data](ext_articles/eabab93d.ext.json)
+
+---
+
 ### General Election will be fast - President Anura
 
 *2024-09-22 20:56:55* · [`adalk`](https://www.ada.lk/breaking_news/මහමැතිවරණය-ඉක්මනින්-පවත්වනවා---ජනපති-අනුර/11-412073) · `si`
@@ -1958,6 +2028,36 @@ The airport said that the US did not work to America from Katunayake airport, so
 
 ---
 
+### “I was able to rescue my motherland from bankruptcy within a short period of two years. I believe this to be the most important thing I could do for my country during my political career.”- Ranil Wickremesinghe.
+
+*2024-09-22 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84770) · `en`
+
+(Text of Farewell Message  delivwred by outgoing President Rani Wickremesinghe on 22 September 2024)
+
+The people of the country have given their decision at this Presidential Election held on 21st September 2024. Therefore, we must respect their decision and act according to that mandate to ensure the functioning of the country.
+
+Two years ago, I took over a bankrupt country and a collapsed economy at an extremely turbulent time.
+
+I accepted the challenge at a time when no one else had the courage to face it.
+
+I successfully completed the responsibility that history put upon my shoulders.
+
+I was able to rescue my motherland from bankruptcy within a short period of two years.
+
+I believe this to be the most important thing I could do for my country during my political career.
+
+Inflation was 70% when I took over the country, but I could reduce it to 0.5% during my time as the President.
+
+I increased the Foreign Reserve, which was at USD 20 Million when I came to power, to USD 5.7 Billion.
+
+...
+
+[Data](articles/cae2283f.json)
+
+[Extended Data](ext_articles/cae2283f.ext.json)
+
+---
+
 ### Presidential election final results
 
 *2024-09-22 18:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-இறுதி-பெறுபேறுகள்/175-344257) · `ta`
@@ -2151,121 +2251,5 @@ Yapahuwa and Kurunegala were key victories in Sri Lanka's history. Yapahuwa was 
 [Data](articles/cb697685.json)
 
 [Extended Data](ext_articles/cb697685.ext.json)
-
----
-
-### 50 killed in Iranian coal mining accident
-
-*2024-09-22 17:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-நிலக்கரி-சுரங்க-வெடி-விபத்தில்-50-பேர்-பலி/50-344255) · `ta`
-
-Iranian coal mine explosion kills 50, injures 17, leaves 24 missing. Rescue efforts ongoing. Investigation launched.
-
-🟩
-
-50 workers were killed in an explosion caused by methane leak in coal mine in Iran. 17 people were seriously injured. 24 people have become magical. The search for them is fast.
-
-A coal mine operated 540 km southeast of Iran's capital Tehran. There were 70 workers working in this tunnel.
-
-Sudden explosion caused by methane leak in the mine. Firefighters rushed to the scene and fought for a long time and extinguished the fire. Rescuers were involved in the rescue of the victims.
-
-Of these, 30 were tragically killed. Another 17 people were seriously injured. They have been admitted to the hospital for treatment.
-
-Also, 24 people who were working during the explosion were missing. Authorities suspect that the crash may be trapped in the tunnel. The search for them is fast.
-
-...
-
-[Data](articles/3bd98308.json)
-
-[Extended Data](ext_articles/3bd98308.ext.json)
-
----
-
-### 30 people killed in Iranian coal mining accident24 people magic
-
-*2024-09-22 17:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-நிலக்கரி-சுரங்க-வெடி-விபத்தில்-30-பேர்-பலி-24-பேர்-மாயம்/50-344255) · `ta`
-
-Iranian coal mine explosion kills 30 injures 17; 24 workers missing. Rescue efforts ongoing. Investigation underway.
-
-🟩
-
-At least 30 workers were killed in an explosion caused by methane leak in coal mine in Iran. 17 people were seriously injured. 24 people have become magical. The search for them is fast.
-
-A coal mine operated 540 km southeast of Iran's capital Tehran. There were 70 workers working in this tunnel.
-
-Sudden explosion caused by methane leak in the mine. Firefighters rushed to the scene and fought for a long time and extinguished the fire. Rescuers were involved in the rescue of the accident.
-
-Of these, 30 were tragically killed. Another 17 people were seriously injured. They have been admitted to the hospital for treatment.
-
-Also, 24 people who were working during the explosion were missing. Authorities suspect that the crash may be trapped in the tunnel. The search for them is fast.
-
-...
-
-[Data](articles/d5453fb8.json)
-
-[Extended Data](ext_articles/d5453fb8.ext.json)
-
----
-
-### Anuragumara Dissanayake ...
-
-*2024-09-22 17:23:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரகுமார-திசாநாயக்க-முதலிடத்தில்/175-344254) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Anuragumara Dissanayake leads election polls with 5,634,915 (42.31%) votes. Sajith Premadasa follows with 4,363,035 (32.76%). Ranil Wickremesinghe trails behind with 2,299,767 (17.27%) votes.
-
-🟩
-
-In the first polls based on the number of votes nationwide, Anuragumara Dissanayake tops the list with 5,634,915 - 42.31%.
-
-Sajith Premadasa secured 4,363,035 - 32.76% votes and Ranil Wickremesinghe was in third place with 2,299,767 - 17.27% votes.. Remble
-
-◼️
-
-[Data](articles/681ed36c.json)
-
-[Extended Data](ext_articles/681ed36c.ext.json)
-
----
-
-### Sri Lanka’s Marxist leader secures 42.3% of votes at presidency; tipped to win after second count
-
-*2024-09-22 17:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-marxist-leader-secures-42-3-of-votes-at-presidency-tipped-to-win-after-second-count-180462/) · `en`
-
-ECONOMYNEXT – Sri Lanak’s Marxist presidential candidate Anura Kumara Dissanayaka topped the vote list by securing 5.6 million votes or 42.3 percent in the presidential election concluded on Saturday with a lead of 9.55 percent from the second ranked Sajith Premadasa, election results showed.
-
-“This is not the final results. We are in the process of counting preferential votes. After that we will declare the winner,” Saman Sri Ratnayake, the Commissioner General of Election said after the conclusion of the first round counting.
-
-The winner will be the ninth president of the island nation and rule the country for next five years.
-
-Opposition leader Premadasa secured 4.36 million votes or 32.8 percent of the total polled while incumbent leader Ranil Wickremesinghe polled only 2.3 million votes or 17.3 percent.
-
-...
-
-[Data](articles/7b1913cc.json)
-
-[Extended Data](ext_articles/7b1913cc.ext.json)
-
----
-
-### Mahara - Katana - Gampaha Election Results
-
-*2024-09-22 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201435) · `si`
-
-Here's a summary of the Mahara - Katana - Gampaha election results in approximately 200 characters:
-
-
-
-"Mahara-Katana-Gampaha election: [Candidate names] won seats. Turnout was high. Issues like infrastructure development and economic growth were key campaign topics. The election saw increased voter participation compared to previous years."
-
-🟩
-
-◼️
-
-[Data](articles/cff517db.json)
-
-[Extended Data](ext_articles/cff517db.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 01:38:41**
+As of **2024-09-24 02:10:06**
 
 ## Newspaper Stats
 
-*Scraped **45,867** Articles*
+*Scraped **45,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 449
 colombotelegraphcom | 456
 islandlk | 2,684
 economynextcom | 2,773
-dailyftlk | 3,032
+dailyftlk | 3,035
 adalk | 4,212
 dailymirrorlk | 4,733
 adaderanalk | 5,402
@@ -26,11 +26,71 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,867 (100.0%) of 45,867 articles have been extended.
+45,870 (100.0%) of 45,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### EU Election Observation Mission gives thumbs up for fair and peaceful election, highlights areas for improvement
+
+*2024-09-24 01:43:01* · [`dailyftlk`](https://www.ft.lk/news/EU-Election-Observation-Mission-gives-thumbs-up-for-fair-and-peaceful-election-highlights-areas-for-improvement/56-767050) · `en`
+
+EU Parliament Member and EOM Chief Observer Nacho Sánchez Amor gestures during the media briefing yesterday in Colombo, flanked by Deputy Chief Observer Inta Lase (right) and Press Officer Marek Mracka - Pic by Lasantha Kumara
+
+EU EOM Chief Observer Nacho Sánchez Amor praises smooth transition of power, cites it rare compared to other countries
+
+Expresses disappointment over imposing curfew, calling it unnecessary and contradicted peaceful atmosphere reported by EC
+
+Outlines summary of preliminary statement post-election, adding reforms are needed to further improve electoral processes
+
+Raises concerns over unprecedented number of candidates, lack of female representation, campaign financing issues
+
+Flags off misuse of incumbency, including salary increments and social benefits during campaign
+
+Points to media biases; hostile rhetoric, manipulated content on social media and disregard for campaign silence online
+
+...
+
+[Data](articles/35eba2d7.json)
+
+[Extended Data](ext_articles/35eba2d7.ext.json)
+
+---
+
+### Commonwealth Observer Group says Presidential poll peaceful
+
+*2024-09-24 01:39:28* · [`dailyftlk`](https://www.ft.lk/news/Commonwealth-Observer-Group-says-Presidential-poll-peaceful/56-767049) · `en`
+
+Commonwealth Secretariat Temi Kalejaiye (left), Commonwealth Observation Group Chairperson Danny Faure, and Commonwealth Secretariat Lindiwe Maleleka at the press briefing in Colombo yesterday – Pic by Ruwan Walpola
+
+Issuing preliminary findings, says voter education lacking on preferential voting system
+
+The Commonwealth Observer Group yesterday shared its preliminary assessment of Sri Lanka’s 2024 Presidential election saying it has been deemed peaceful, but noted that some voters and polling staff did not appear to fully understand the preferential system of voting.
+
+Led by a delegation of 14 independent experts, the Commonwealth’s mission arrived in Sri Lanka on 14 September following an invitation from the Election Commission of Sri Lanka. The team will conclude its observations on 27 September.
+
+...
+
+[Data](articles/00cbb3e5.json)
+
+[Extended Data](ext_articles/00cbb3e5.ext.json)
+
+---
+
+### Transcending from Thambuththegama to topmost office
+
+*2024-09-24 01:26:35* · [`dailyftlk`](https://www.ft.lk/news/Transcending-from-Thambuththegama-to-topmost-office/56-767048) · `en`
+
+Born in Thambuththegama in North Central Province, Anura Kumara Dissanayake, the 55 year old leader of National People’s Power (NPP) yesterday assumed office as the 9th Executive President of Sri Lanka following the victory at the 21 September elections defeating incumbent Ranil Wickremesinghe and Opposition Leader Sajith Premadasa. Here are some highlights of the simple swear-in ceremony held yesterday at the Presidential Secretariat, Colombo
+
+◼️
+
+[Data](articles/2ccc7fe5.json)
+
+[Extended Data](ext_articles/2ccc7fe5.ext.json)
+
+---
 
 ### President Anura Kumara Dissanayake: Sri Lanka’s desire to chart a new course
 
@@ -2071,71 +2131,5 @@ The Ada Derana joined the Big FUCUS program and said that it was 21% as a percen
 [Data](articles/e2ef5c13.json)
 
 [Extended Data](ext_articles/e2ef5c13.ext.json)
-
----
-
-### Secretary General
-
-*2024-09-23 12:27:57* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-මන්ත්‍රීධුරයක්-හිස්වූ-බව-මහලේකම්-මැතිවරණ-කොමිසමට-දැනුම්-දෙයි/11-412086) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Parliamentary vacancy: Anura Kumara Dissanayake resigned as MP. Kushani Rohandera appointed as new Secretary General."
-
-🟩
-
-Anura Kumara Dissanayake has informed the election of a vacancy of a parliamentary post as a result of resigns from the post of MP.
-
-The Secretary General of Parliament Kushani Rohandera has been made by the Secretary General of Parliament today (23).
-
-◼️
-
-[Data](articles/1894a7aa.json)
-
-[Extended Data](ext_articles/1894a7aa.ext.json)
-
----
-
-### Crackers
-
-*2024-09-23 12:26:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டாசு-கொளுத்தியவர்-வைத்தியசாலை-அனுமதி/175-344303) · `ta`
-
-Fireworks explosion injures 28-year-old man in Horana. He's hospitalized with burns and plans for multiple surgeries. Police investigating incident.
-
-🟩
-
-Horana police said that a person who was burning fireworks was injured in fire injuries in the joy of taking over the post of National People's Power Leader Anura Kumara Dissanayake.
-
-A 28 -year -old man from Horana Iliba Koswatta has been admitted to the hospital.
-
-The man spokesman at the Horana Hospital said that the fireworks had suddenly exploded when the fire was not exploded shortly after the fireworks, and the fireworks had suddenly exploded and he was planning to perform surgery in several parts of the body, including his right wrist.
-
-Further investigations are being carried out by the Horana Headquarters Police.
-
-◼️
-
-[Data](articles/b0147d1a.json)
-
-[Extended Data](ext_articles/b0147d1a.ext.json)
-
----
-
-### Lakshman Nipuna Arachchi
-
-*2024-09-23 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/194597) · `ta`
-
-Saman Sri Ratnayake appointed Election Commissioner General Lakshman Nipuna Arachchi Parliament vacancy due to election as President.
-
-🟩
-
-Election Commissioner General Saman Sri Ratnayake, who is to be appointed as a member of the Lakshman Nipuna Arachchi Parliament for the vacancy that was elected as President.
-
-◼️
-
-[Data](articles/774a3e6f.json)
-
-[Extended Data](ext_articles/774a3e6f.ext.json)
 
 ---

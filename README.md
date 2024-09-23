@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 14:11:59**
+As of **2024-09-23 14:25:05**
 
 ## Newspaper Stats
 
-*Scraped **45,779** Articles*
+*Scraped **45,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 2,764
 dailyftlk | 3,030
 adalk | 4,205
 dailymirrorlk | 4,733
-adaderanalk | 5,389
+adaderanalk | 5,390
 tamilmirrorlk | 6,094
 virakesarilk | 7,312
-adaderanasinhalalk | 7,928
+adaderanasinhalalk | 7,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,779 (100.0%) of 45,779 articles have been extended.
+45,779 (100.0%) of 45,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### ශ්‍රී ලංකා නව ජනාධිපතිවරයාට චීන ජනපතිගෙන් සුබ පැතුම්
+
+*2024-09-23 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201471) · `si`
+
+ශ්‍රී ලංකා නව ජනාධිපති ධුරයට පත් අනුර කුමාර දිසානායක මහතා වෙත චීන ජනාධිපති ෂී ජින් පිං මහතා සුබ පැතුම් පිරිනමා තිබේ.
+
+සුබ පැතුම මගින් චීන ජනාධිපතිවරයා පෙන්වා දී ඇත්තේ  චීනය සහ ශ්‍රී ලංකාව සාම්ප්‍රදායික මිත්‍ර අසල්වැසියන් බවය.
+
+මීට වසර 67 කට පෙර චීනය සහ ශ්‍රී ලංකාව අතර රාජ්‍ය තාන්ත්‍රික සබඳතා ආරම්භ කළ දා සිට දෙරට සෑම විටම එකිනෙකා අවබෝධ කර ගනිමින් සහයෝගය ලබා දෙමින් මිත්‍රශීලී සහජීවනය සහ අන්‍යෝන්‍ය වශයෙන් වාසිදායක සහයෝගීතාවය සඳහා ලොකු කුඩා රටවලට ආදර්ශයක් සපයා ඇති බවයි.
+
+චීන-ශ්‍රී ලංකා සබඳතා වර්ධනයට තමන් විශාල වැදගත්කමක් ලබා දෙන බවත් සාම්ප්‍රදායික මිත්‍රත්වය පවත්වා ගැනීමට සහ දේශපාලන අන්‍යෝන්‍ය විශ්වාසය වැඩි දියුණු කිරීමට ජනපති අනුර කුමාර දිසානායක මහතා සමඟ කටයුතු කිරීමට කැමැත්තෙන් සිටින බවත් චීන ජනාධිපතිවරයා පවසයි.
+
+...
+
+[Data](articles/27f78f18.json)
+
+---
 
 ### New President pledges to reinforce democracy in the country
 
@@ -73,6 +91,22 @@ Anura Vidhanagamage, a prominent figure, has announced his resignation. This new
 [Data](articles/14693c87.json)
 
 [Extended Data](ext_articles/14693c87.ext.json)
+
+---
+
+### Lanka Sathosa Chairman resigns
+
+*2024-09-23 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102211/lanka-sathosa-chairman-resigns-) · `en`
+
+The Chairman of the Lanka Sathosa, Pasanda Yapa Abeywardena has resigned from his position.
+
+Abeywardena has sent his resignation letter to the Minister of Trade Nalin Fernando today (23).
+
+In his resignation letter, Abeywardena has stated that he made this decision allowing the newly elected President to appoint a new Chairman for Lanka Sathosa Ltd. as he sees fit.
+
+◼️
+
+[Data](articles/4e9e1628.json)
 
 ---
 
@@ -2215,55 +2249,5 @@ He also stated that he was implementing the provincial council system as in the 
 [Data](articles/93fbd942.json)
 
 [Extended Data](ext_articles/93fbd942.ext.json)
-
----
-
-### Vote of others contesting the country's ninth presidential election!
-
-*2024-09-23 05:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/194563) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential election results: Dilith Jayaweera (122,396), Sarath Fonseka (21,306), Nuwan Bopke (11,191). Other notable candidates: Osala Herath (4,253), Sarath Manamendra (1,911), Battaramulla Seelaratne Thera (6,839).
-
-🟩
-
-Dilith Jayaweera, who contested the country's ninth presidential election, received 122,396 votes, 21,306 votes, Sarath Fonseka, 22,407 votes, Nuwan Bopke 11,191 votes and M Dilakarajah 2,138 votes.
-
-The presidential election, which was followed by the biggest economic crisis and the popular struggle of the people in 2022, was aimed at the highest number of candidates.
-
-Although 39 candidates filed nominations, only 38 candidates contested the election last Saturday due to the death of Independent candidate Idurus Muhammad Ilias before the election.
-
-Dilith Jayaweera, who contested the Communist Party of Sri Lanka, 21,306 votes on behalf of the National Democratic Front, 22,407 votes, and the Socialist People's Forum. Have received.
-
-...
-
-[Data](articles/09f0f161.json)
-
-[Extended Data](ext_articles/09f0f161.ext.json)
-
----
-
-### Sajith Premadasa supported by the Tamil party;In all the electoral districts of the North and East - the total number of 676,681 votes for Sajith
-
-*2024-09-23 04:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194562) · `ta`
-
-Sajith Premadasa leads in North and East provinces with 676,681 votes, backed by Tamil parties. He won 216,599 votes in Northern districts and 460,082 in Eastern districts.
-
-🟩
-
-Sajith Premadasa, the United People's Power's presidential candidate, supported by the Sri Lankan TNA, in the five electoral districts of the North and East;He is leading the highest number of votes in a total of 676,681.
-
-The Tamil nationalist parties representing the North and Eastern Provinces have taken different positions on which candidate to support the country's ninth presidential election. Accordingly, the Sri Lankan Tamil party supported the United People's Power President Sajith Premadasa.
-
-Accordingly, Sajith Premadasa received 216,599 votes in the North and Vanni electoral districts of the North and 460,082 in the East, Trincomalee, Batticaloa and Digamadulla election districts.
-
-...
-
-[Data](articles/338cd220.json)
-
-[Extended Data](ext_articles/338cd220.ext.json)
 
 ---

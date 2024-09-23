@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 23:58:28**
+As of **2024-09-24 00:12:47**
 
 ## Newspaper Stats
 
-*Scraped **45,859** Articles*
+*Scraped **45,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ dbsjeyarajcom | 382
 bbccomsinhala | 449
 colombotelegraphcom | 456
 islandlk | 2,684
-economynextcom | 2,768
+economynextcom | 2,773
 dailyftlk | 3,030
 adalk | 4,212
 dailymirrorlk | 4,733
 adaderanalk | 5,402
 tamilmirrorlk | 6,115
-virakesarilk | 7,328
+virakesarilk | 7,329
 adaderanasinhalalk | 7,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,859 (100.0%) of 45,859 articles have been extended.
+45,865 (100.0%) of 45,865 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,6 +79,26 @@ In Sri Lanka, the newly elected President Anura Kumara Dissanayake, who is Marxi
 [Data](articles/e3bed3b7.json)
 
 [Extended Data](ext_articles/e3bed3b7.ext.json)
+
+---
+
+### Ananda Wijebala appoints the President's Private Secretary
+
+*2024-09-23 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194638) · `ta`
+
+Ananda Wijebala, National Organizer of National People's Power, appointed as President's Private Secretary. Previously served as party's exclusive secretary and Anti-Corruption Secretariat head.
+
+🟩
+
+The National Organizer of the National People's Power, Ananda Wijepala has been appointed as the Exclusive Secretary of President Anura Kumara Dissanayake.
+
+Ananda Wijebala has long been the exclusive secretary of the National People's Power.He also served as the Secretary of the Anti -Corruption Secretariat established under the Government of Good Governance.
+
+◼️
+
+[Data](articles/4dba251d.json)
+
+[Extended Data](ext_articles/4dba251d.ext.json)
 
 ---
 
@@ -319,6 +339,26 @@ Ananda Wijebala, who has long been the personal secretary of the JVP leader, ser
 [Data](articles/83cab67e.json)
 
 [Extended Data](ext_articles/83cab67e.ext.json)
+
+---
+
+### Sri Lanka’s new President appoints Chinese-educated defence secretary
+
+*2024-09-23 18:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-president-appoints-chinese-educated-defence-secretary-180684/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s newly elected President Anura Kumara Dissanayaka appointed retired Air Vice Marshal Sampath Thuyacontha, who had got his higher education in China, as the new defence secretary replacing an ex-army general.
+
+Thuyacontha has completed his Master’s degree in Defence Studies at the National Defence University of China. He had also served as the former Defence Advisor at the Sri Lankan High Commission in Pakistan.
+
+He has also served as the former commanding officer of the Chinese Harbour Air Force College.
+
+Defence Secretary post is once of the important portfolio in the island nation as it deals with a geopolitical cold war due to Sri Lanka’s strategic location in the Indian Ocean.
+
+...
+
+[Data](articles/e6a11551.json)
+
+[Extended Data](ext_articles/e6a11551.ext.json)
 
 ---
 
@@ -806,6 +846,48 @@ Speaker of Parliament Mahinda Yapa Abeywardena expressed his congratulations to 
 
 ---
 
+### Envoy from China, India rush to meet Sri Lanka’s new president before taking oath
+
+*2024-09-23 16:47:00* · [`economynextcom`](https://economynext.com/envoy-from-china-india-rush-to-meet-sri-lankas-new-president-before-taking-oath-180664/) · `en`
+
+ECONOMYNEXT – Envoys from India and China in Sri Lanka were the first to meet newly-elected President Anura Kumara Dissanayake even before he took office on Monday (23) as the ninth leader of the country.
+
+Both India and China are in a geopolitical cold war in Sri Lanka with Beijing having invested and lent billions of dollars to the island nation while India has been eying to win hearts of average Sri Lankans after bitter relations due to its role in the 26-year civil war.
+
+Indian High Commissioner for Sri Lanka Santosh Jha called on President-elect Dissanayake at his party office and tweeted that he conveyed greetings from India’s leadership and congratulated him on winning the people’s mandate.
+
+“India as Sri Lanka’s civilisational twin is committed to further deepen ties for the prosperity of the people of our two countries,” he tweeted.
+
+Indian Prime Minister Narendra Modi in a tweet said Sri Lanka holds a special place in India’s Neighbourhood First Policy.
+
+...
+
+[Data](articles/fbe4b75a.json)
+
+[Extended Data](ext_articles/fbe4b75a.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 304.25/75, bond yields down
+
+*2024-09-23 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-304-25-75-bond-yields-down-180660/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee recovered to close stronger at 304.25/75 to the US dollar on Monday, from 305.25/306.00 on Friday, dealers said, while bond yields rallied.
+
+A bond maturing on 01.05.2027 closed at 12.70/90 percent, down from 12.90/13.10 percent.
+
+A bond maturing on 15.02.2028 closed at 13.25/40 percent, down from 13.60/70 percent.
+
+A bond maturing on 15.06.2029 closed at 13.55/65 percent, up from 13.85/95 percent. (Colombo/Sep23/2024)
+
+◼️
+
+[Data](articles/fdbfcfdf.json)
+
+[Extended Data](ext_articles/fdbfcfdf.ext.json)
+
+---
+
 ### Ravi Seneviratne as Secretary to the Ministry of Public Security
 
 *2024-09-23 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194615) · `ta`
@@ -897,6 +979,30 @@ He demanded an immediate solution to some issues in the Mannar district, which h
 [Data](articles/f5cb064d.json)
 
 [Extended Data](ext_articles/f5cb064d.ext.json)
+
+---
+
+### Sri Lanka stocks close up, banks continue to gain
+
+*2024-09-23 16:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-continue-to-gain-180656/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 1.19 percent, or 130.30 points, at 11,096; while the more liquid S&P SL20 Index closed up 1.88 percent, or 58.43 points, at 3,160.
+
+“The positive momentum from last week continued, and investors – some of them who probably voted for the new president – are waiting to see what will be implemented,” Softlogic Stockbrokers said.
+
+“The new government has signaled that they are open to suggestions. They’ve proposed cutting expenditure. We are yet to hear how they will address issues.”
+
+The bigger banks were up; Hatton National Bank (up at 174.25), Commercial Bank (up at 90.90), Sampath Bank (up at 74.00), DFCC Bank (up at 71.00) and National Development Bank (up at 71.00).
+
+Smaller banks closed down or flat; Union Bank (down at 9.00), HDFC Bank (flat at 31.80), and NTB (down at 120.00).
+
+...
+
+[Data](articles/9c148faa.json)
+
+[Extended Data](ext_articles/9c148faa.ext.json)
 
 ---
 
@@ -1353,6 +1459,26 @@ FCCISL Congratulates President-Elect Anura Kumara Dissanayake and Calls for a Ne
 [Data](articles/7d894943.json)
 
 [Extended Data](ext_articles/7d894943.ext.json)
+
+---
+
+### FCCISL congratulates Sri Lanka President, hopes for good governance
+
+*2024-09-23 14:30:00* · [`economynextcom`](https://economynext.com/fccisl-congratulates-sri-lanka-president-hopes-for-good-governance-180646/) · `en`
+
+ECONOMYNEXT – The Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) has congratulated President Anura Kumara Dissanayake, and called for ‘a new era of good governance and development’.
+
+“As President, we trust that you will inspire the nation with your commitment to good governance, transparency, and accountability,” FCCISL said in a statement.
+
+The FCCISL urged the new government to entrust capable and experienced leaders with the responsibility of steering key national institutions.
+
+FCCISL Congratulates President-Elect Anura Kumara Dissanayake and Calls for a New Era of Good Governance and Development
+
+...
+
+[Data](articles/8c2bf544.json)
+
+[Extended Data](ext_articles/8c2bf544.ext.json)
 
 ---
 
@@ -2021,159 +2147,5 @@ However, he added that Lakshman Nipuna Arachchi is next on the preference list a
 [Data](articles/ac3863a9.json)
 
 [Extended Data](ext_articles/ac3863a9.ext.json)
-
----
-
-### Chronology
-
-*2024-09-23 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/194581) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Geneva: One-year delay for re-giving disappointing affected parties.
-
-🟩
-
-The fact that a one -year time to be re -given in Geneva is a disappointment of the affected parties. ”
-
-◼️
-
-[Data](articles/34133633.json)
-
-[Extended Data](ext_articles/34133633.ext.json)
-
----
-
-### Sri Lanka stocks pick up after opening lower
-
-*2024-09-23 12:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-pick-up-after-opening-lower-180620/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange began to pick up after opening lower following Sri Lanka’s presidential election over the weekend.
-
-The ASPI was up 81.21 points, or 0.74 percent, in mid-day trading at 11,047, while the S&P SL20 was up 1.43 percent, or 44.27 points at 3,146. Turnover was 682 million.
-
-Stockbrokers said it was too early to comment, and that “There’s nothing concrete yet, we can’t put a weight on any one fact.”
-
-“The perception is that there might be a more practical view from the new government, they are open to suggestions, and promise to cut expenditure.”
-
-“People are waiting to see what will be implemented, if they address the needs of the capital market.”
-
-The positive momentum from last week ISB deal was continuing, they said, with banking stocks trading up.
-
-The island nation’s new President Anura Dissanayake was sworn in at 10 am on Monday. (Colombo/Sep23/2024)
-
-◼️
-
-[Data](articles/b09f9b39.json)
-
-[Extended Data](ext_articles/b09f9b39.ext.json)
-
----
-
-### Two Governors resign
-
-*2024-09-23 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102207/two-governors-resign) · `en`
-
-Two Provincial Governors have reportedly resigned from their respective positions this morning (23).
-
-Accordingly, the Governor of the North Central Province Maheepala Herath and the Governor of the Sabaragamuwa Province Naveen Dissanayake have tendered their letters of resignation today.
-
-◼️
-
-[Data](articles/7ff1810a.json)
-
-[Extended Data](ext_articles/7ff1810a.ext.json)
-
----
-
-### Sri Lanka to the 3rd place in Test rankings
-
-*2024-09-23 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201465) · `si`
-
-Sri Lanka rises to 3rd in Test rankings after winning 1st Test vs New Zealand. Prabath Jayasuriya takes 5/68, Ramesh Mendis 3/83. Second Test starts Sept 26 in Galle.
-
-🟩
-
-The Sri Lankan team has come forward to the third place in the World Test Championship tournament.
-
-The first Test between New Zealand and Sri Lanka, Sri Lanka won the first Test match against Sri Lanka by 63 runs.
-
-New Zealand scored 207 runs for the loss of 8 wickets in their second innings when the match was commenced today (23).
-
-Sri Lanka should have lived two wickets and New Zealand scored 68 runs.
-
-Ravindra, a headache for the bowlers, was raweled for 91 runs and Ajas Patel remained in the disadvantage.
-
-Prabath Jayasuri seized Sri Lanka's victory in Sri Lanka at the beginning of the day.
-
-Accordingly, New Zealand scored 211 runs in his second innings and scored 340 runs in their first innings.
-
-It was only 15 minutes to play the match today.
-
-Batting first Sri Lanka scored 305 runs in their first innings and scored 309 runs in their second innings.
-
-Prabath Jayasuriya took 5 wickets for 68 runs in New Zealand in New Zealand.
-
-...
-
-[Data](articles/3e173c43.json)
-
-[Extended Data](ext_articles/3e173c43.ext.json)
-
----
-
-### Political earthquake in Sri Lanka
-
-*2024-09-23 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/194591) · `ta`
-
-Sri Lanka election: Dissanayake wins, first outsider leader. Economic crisis impact. AKD promises welfare services. Complex government challenges. No chauvinism. Western countries learn lesson. Ranil Wickremesinghe's economic legacy. IMF plan implementation.
-
-🟩
-
-This is the first time in Sri Lanka that the Sri Lankan people elect a person outside the traditional aristocracy.
-
-Dissanayake, also known as AKD, has a very common family b;
-
-This election result is a testament to the pain experienced by Sri Lankans who are impoverished during the economic crisis.
-
-For Aadi's struggle against corruption;His requests to provide more welfare services to the people have a widespread support.
-
-The weakness of the election winner is that his coalition managed a complex government like Sri Lanka.
-
-The implementation of many of their promises in the most challenging economic environment may be a very challenging issue.
-
-During his election campaign, AK India extended its allies to the West.
-
-This is an election that has no significance in Sri Lanka's election campaign, chauvinism and racism.
-
-Many Western countries can learn lessons from the silence of this election and the defeat of Sajit Preadasa and Ranilwickramasinghe, who lost the election.
-
-...
-
-[Data](articles/fa4868a3.json)
-
-[Extended Data](ext_articles/fa4868a3.ext.json)
-
----
-
-### Anura Vidanagamage resigns
-
-*2024-09-23 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201464) · `si`
-
-Governor Anura Vidanagamage resigns, submits letter to former President Ranil Wickremesinghe.
-
-🟩
-
-Governor Anura Vidanagamage has resigned from his post.
-
-He has asked for his resignation by a letter to former President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/734acd18.json)
-
-[Extended Data](ext_articles/734acd18.ext.json)
 
 ---

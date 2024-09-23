@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 17:59:31**
+As of **2024-09-23 18:19:26**
 
 ## Newspaper Stats
 
-*Scraped **45,813** Articles*
+*Scraped **45,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 454
 islandlk | 2,678
 economynextcom | 2,768
 dailyftlk | 3,030
-adalk | 4,209
+adalk | 4,211
 dailymirrorlk | 4,733
-adaderanalk | 5,397
-tamilmirrorlk | 6,099
+adaderanalk | 5,398
+tamilmirrorlk | 6,103
 virakesarilk | 7,319
 adaderanasinhalalk | 7,933
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 7,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,813 (100.0%) of 45,813 articles have been extended.
+45,820 (100.0%) of 45,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Israel strikes more than 300 Hezbollah targets
+
+*2024-09-23 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102219/israel-strikes-more-than-300-hezbollah-targets) · `en`
+
+Israel unleashed its most widespread wave of airstrikes against hundreds of Hezbollah targets on Monday, killing at least 100 people by Lebanese tallies, and warned citizens to evacuate areas where it said the armed group was storing weapons.
+
+Israel deepened its attacks after some of the heaviest cross-border exchanges of fire in almost a year of conflict, as Israel shifts its focus to its northern border, where Hezbollah has been firing rockets into Israel in support of its ally Hamas which is fighting a war with Israel in Gaza.
+
+“We are deepening our attacks in Lebanon, the actions will continue until we achieve our goal to return the northern residents safely to their homes,” Israeli Defence Minister Yoav Gallant said in a video published by his office on Monday.
+
+“These are days in which the Israeli public will have to show composure.”
+
+He was speaking after the Israeli military targeted Iran-backed Hezbollah in Lebanon’s south, eastern Bekaa valley and northern region near Syria.
+
+...
+
+[Data](articles/92345148.json)
+
+[Extended Data](ext_articles/92345148.ext.json)
+
+---
+
+### Senthil Thondaman congratulates President
+
+*2024-09-23 17:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-செந்தில்-தொண்டமான்-வாழ்த்து/175-344324) · `ta`
+
+Senthil Thondaman congratulates Anuragumara Dissanayake, Sri Lanka's new president. He hopes the president will boost the economy within five years and drive national development. Thondaman also thanks hill country voters who supported Wickremesinghe at his party's request.
+
+🟩
+
+Senthil Thondaman, President of the Ceylon Workers Congress and Eastern Governor, said that he congratulates Anuragumara Dissanayake, the ninth president of Sri Lanka.
+
+He said that the new president could be able to bring the country's economy to the country within five years and take the country towards development.
+
+He also thanked the hill country people who voted for former President Ranil Wickremesinghe at the request of his party and thanked the elections to the elections.
+
+◼️
+
+[Data](articles/5ec3892d.json)
+
+[Extended Data](ext_articles/5ec3892d.ext.json)
+
+---
+
+### Lakshman to the vacuum;Publish
+
+*2024-09-23 17:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றிடத்திற்கு-லக்ஷ்மன்-வர்த்தமானி-அறிவித்தல்-வெளியிடு/175-344323) · `ta`
+
+Lakshman Nipuna Arachchi elected to fill vacancy in Colombo Election District Parliament after Anuragumara Dissanayake became president. Gazette notification published.
+
+🟩
+
+The gazette notification for the election of Lakshman Nipuna Arachchi has been released as a member of the Colombo Election District Parliamentarian for the vacancy caused by Anuragumara Dissanayake, who was sworn in as president.
+
+◼️
+
+[Data](articles/46176efe.json)
+
+[Extended Data](ext_articles/46176efe.ext.json)
+
+---
 
 ### NIE Director remanded over scholarship exam paper ‘leak’
 
@@ -47,6 +109,24 @@ The suspect, who had also served as a member in the committee that had prepared 
 [Data](articles/5c8ab123.json)
 
 [Extended Data](ext_articles/5c8ab123.ext.json)
+
+---
+
+### Explanation for Sunil Premaratne
+
+*2024-09-23 17:14:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுனில்-பிரேமரத்னவுக்கு-விளக்கமறியல்/175-344322) · `ta`
+
+Sunil Premaratne, director of Maharagama National Institute of Education's planning unit, arrested over Grade 5 Scholarship Exam 2024 question controversy. Kaduwela Magistrate Sunima Wijebandara issued order.
+
+🟩
+
+Kaduwela Magistrate Sunima Wijebandara has ordered Sunil Premaratne, the Director of the Planning Unit of the Maharagama National Institute of Education, who was arrested in connection with the incident of the Grade 5 Scholarship Examination Questionnaire for 2024.
+
+◼️
+
+[Data](articles/e87c749a.json)
+
+[Extended Data](ext_articles/e87c749a.ext.json)
 
 ---
 
@@ -67,6 +147,68 @@ At the end of the day, all stock price index indicated at 11,096.81 units.
 [Data](articles/6496e7bb.json)
 
 [Extended Data](ext_articles/6496e7bb.ext.json)
+
+---
+
+### Here is another appointment made by the president
+
+*2024-09-23 17:06:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සිදු-කළ-තවත්-පත්-කිරීමක්-මෙන්න/11-412092) · `si`
+
+President Anura Kumara Dissanayake appoints Kananda Wijayapala as Presidential Private Secretary.
+
+🟩
+
+President Anura Kumara Dissanayake has appointed another appointment.
+
+Accordingly, Mr. Kananda Wijayapala has been appointed as the Presidential Private Secretary.
+
+◼️
+
+[Data](articles/c69bbc55.json)
+
+[Extended Data](ext_articles/c69bbc55.ext.json)
+
+---
+
+### First Muslim female announcer has passed away
+
+*2024-09-23 16:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாவது-முஸ்லிம்-பெண்-அறிவிப்பாளர்-காலமானார்/175-344320) · `ta`
+
+Aisha Junaidin, pioneering Muslim female announcer, passes away at 74. She was Sri Lanka's first Muslim female news reader on radio and TV. Junaidin also produced children's events and translated Tamil programs for Rupavahini. Her legacy in media and broadcasting is significant.
+
+🟩
+
+Aisha Junaidin passed away as the first Muslim female news reader to read the news on Sri Lankan radio and the first Muslim female announcer in the television.. He was 74 years old at the time.
+
+The first woman producer of the Muslim Service, VA Kapoor's recommendation, has the opportunity to perform the "Finch Mind" children's event, entered the old city from the old city of Chilaw from the old city and became the first female producer of the Muslim service.. She was the first Muslim woman news reader to read the news on Sri Lankan radio.
+
+He also has the first Muslim female announcer who was reported in television at the beginning of the Rupavahini television.
+
+He has written a Tamil language translation to many famous countries aired in Rupawahini.. After the Janasa Azar prayer was done at the center of Kuppiawatam
+
+◼️
+
+[Data](articles/623d77a3.json)
+
+[Extended Data](ext_articles/623d77a3.ext.json)
+
+---
+
+### New Member of Parliament appointed to the empty seat of Parliament
+
+*2024-09-23 16:54:00* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-හිස්-වූ-අසුනට-නව-මන්ත්‍රීවරයෙක්-පත්-කෙරේ/11-412091) · `si`
+
+Anura Kumara Dissanayake appoints new MP to vacant seat after previous member resigned. Special gazette notification issued for appointment.
+
+🟩
+
+Anura Kumara Dissanayake has issued a special gazette notification for the Parliament seat was empty by the resignation of the post of MP.
+
+◼️
+
+[Data](articles/a5420c8f.json)
+
+[Extended Data](ext_articles/a5420c8f.ext.json)
 
 ---
 
@@ -2065,157 +2207,5 @@ Anura Kumara Dissanayake is to be sworn in as the President at the Presidential 
 [Data](articles/c1998062.json)
 
 [Extended Data](ext_articles/c1998062.ext.json)
-
----
-
-### Prime Minister Dinesh Gunawardane resigns
-
-*2024-09-23 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102201/prime-minister-dinesh-gunawardane-resigns) · `en`
-
-Prime Minister Dinesh Gunawardane has tendered his resignation to the President.
-
-He has tendered his letter of resignation to President Ranil Wickremesinghe.
-
-Mr. Gunawardena has stated in the relevant letter that as the 9th Executive President of Sri Lanka has been elected in the presidential election held on September 21, he will resign from his position in accordance with Article 47 (2) of the Constitution of the Socialist Republic of Sri Lanka.
-
-Mr. Gunawardena has also congratulated the newly elected President of Sri Lanka, Anura Kumara Dissanayake, following his victory in the presidential election last night.
-
-“I respectfully offer my congratulations to you for being elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka in the Presidential election held on 21st September 2024.
-
-...
-
-[Data](articles/ca4c7d78.json)
-
-[Extended Data](ext_articles/ca4c7d78.ext.json)
-
----
-
-### Prime Minister Dinesh Gunawardena resigns
-
-*2024-09-23 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/194570) · `ta`
-
-Sri Lanka Prime Minister Dinesh Gunawardena resigns, submits letter to President Ranil Wickremesinghe.
-
-🟩
-
-Prime Minister Dinesh Gunawardena has sent his resignation letter to President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/090c9b17.json)
-
-[Extended Data](ext_articles/090c9b17.ext.json)
-
----
-
-### Prime Minister Dinesh resigns
-
-*2024-09-23 09:18:39* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-දිනේෂ්-ඉල්ලා-අස්වෙයි/11-412078) · `si`
-
-Here's a 200-character summary:
-
-
-
-PM Dinesh resigns after new president elected. Sent letter to Ranil Wickremesinghe.
-
-🟩
-
-He has resigned from his post as a new President was elected by the people.
-
-He has sent his resignation letter to Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/c75bee7e.json)
-
-[Extended Data](ext_articles/c75bee7e.ext.json)
-
----
-
-### Anura Kumara to be sworn in as President today
-
-*2024-09-23 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102200/anura-kumara-to-be-sworn-in-as-president-today) · `en`
-
-National People’s Power (NPP) leader Anura Kumara Dissanayake is scheduled to be sworn in today (23) as the 9th Executive President of Sri Lanka.
-
-Mr. Dissanayake is scheduled to be sworn in as the President before Chief Justice Jayantha Jayasuriya this morning at the Presidential Secretariat in Colombo.
-
-After a historic first of second round of counting, the country of Sri Lanka has elecetd a new president — Anura Kumara Dissanayake. The 55-year-old fended off competition from opposition leader Sajith Premadasa, while current President, Ranil Wikremesinghe trailed in third.
-
-Dissanayake received 5,740,179 votes, followed by Premadasa with 4,530,902, Election Commission data showed.
-
-...
-
-[Data](articles/f327b53d.json)
-
-[Extended Data](ext_articles/f327b53d.ext.json)
-
----
-
-### Lakshman Qunaarachchi for Anura blameless seat?
-
-*2024-09-23 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201457) · `si`
-
-Lakshman Nipunarachchi to become new MP: Tilvin Silva claims appointment not Election Commission's responsibility.
-
-🟩
-
-Lakshman Nipunarachchi is to be appointed to the empowering parliamentarian, who was elected as the new president.
-
-Speaking at the party office in Pelawatta yesterday (22), Mr. Tilvin Silva said this.
-
-He said that the appointment of the new MP should not be made by the Election Commission as it was not a matter of election law.
-
-He said that Lakshman Nakunarachchi will be appointed as the Electoral Commission as the new MP in the preferential list.
-
-◼️
-
-[Data](articles/cbd122cb.json)
-
-[Extended Data](ext_articles/cbd122cb.ext.json)
-
----
-
-### Prime Minister resigns
-
-*2024-09-23 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201456) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Prime Minister Dinesh Gunawardena resigns from office."
-
-🟩
-
-Prime Minister Dinesh Gunawardena has informed the resignation of his post.
-
-◼️
-
-[Data](articles/eec70ca3.json)
-
-[Extended Data](ext_articles/eec70ca3.ext.json)
-
----
-
-### Prime Minister Dinesh resigns
-
-*2024-09-23 09:07:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-தினேஷ்-இராஜினாமா/175-344286) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Prime Minister Dinesh Gunawardena resigns, submits letter to new President Anura Kumara Dissanayake."
-
-🟩
-
-Prime Minister Dinesh Gunawardena has resigned. He has sent his resignation letter to the new President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/68bd6d3a.json)
-
-[Extended Data](ext_articles/68bd6d3a.ext.json)
 
 ---

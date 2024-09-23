@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 10:11:12**
+As of **2024-09-23 10:22:45**
 
 ## Newspaper Stats
 
-*Scraped **45,714** Articles*
+*Scraped **45,719** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 381
+dbsjeyarajcom | 382
 bbccomsinhala | 447
 colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,757
 dailyftlk | 3,030
-adalk | 4,195
+adalk | 4,197
 dailymirrorlk | 4,733
 adaderanalk | 5,380
-tamilmirrorlk | 6,080
+tamilmirrorlk | 6,082
 virakesarilk | 7,300
 adaderanasinhalalk | 7,917
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,917
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,714 (100.0%) of 45,714 articles have been extended.
+45,714 (100.0%) of 45,719 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,13 +40,37 @@ National People’s Power (NPP) leader Anura Kumara Dissanayake is scheduled to 
 
 Mr. Dissanayake is scheduled to be sworn in as the country’s new President before Chief Justice Jayantha Jayasuriya at the Presidential Secretariat in Colombo.
 
-It is reported that Mr. Dissanayake has already left the Janatha Vimukthi Peramuna (JVP) head office in Pelawatte and is currently on his way to the Presidential Secretariat in Colombo.
+The swearing in ceremony commenced following Dissanayake’s arrival at the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/61832dba.json)
 
 [Extended Data](ext_articles/61832dba.ext.json)
+
+---
+
+### අපි අභියෝගය භාර ගන්නවා
+
+*2024-09-23 09:45:19* · [`adalk`](https://www.ada.lk/breaking_news/අපි-අභියෝගය-භාර-ගන්නවා/11-412079) · `si`
+
+පොහොසත් රටක් ලස්සන ජීවිතයක් වෙනුවෙන් ජනතාව භාරදුන් වගකීම ඉටුකිරිමේ අභියෝගය භාර ගන්නා බව ජාතික ජන බලවේගයේ විධායක කමිටු සාමාජික සමන්ත විද්‍යාරත්න මහතා පැවැසීය. අද කොළඹදී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවැසීය.
+
+◼️
+
+[Data](articles/89790a60.json)
+
+---
+
+### அமைச்சரவை கலைந்தது
+
+*2024-09-23 09:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-கலைந்தது/175-344288) · `ta`
+
+பிரதமர் தினேஷ் குணவர்தன தனது பிரதமர் பதவியை இராஜினாமா செய்ததை அடுத்தே, அமைச்சரவை கலைந்தது.
+
+◼️
+
+[Data](articles/66ad2827.json)
 
 ---
 
@@ -69,6 +93,20 @@ Anura Kumara went to the Presidential Secretariat a short while before the new p
 [Data](articles/5077f656.json)
 
 [Extended Data](ext_articles/5077f656.ext.json)
+
+---
+
+### அரசிதழ் வெளியானது: 10 மணிக்கு பதவியேற்பு
+
+*2024-09-23 09:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசிதழ்-வெளியானது-10-மணிக்கு-பதவியேற்பு/175-344287) · `ta`
+
+இலங்கை ஜனநாயக சோசலிச குடியரசின் நிறைவேற்று அதிகாரம் கொண்ட 9ஆவது ஜனாதிபதியாக தெரிவு செய்யப்பட்டுள்ள அனுரகுமார திஸாநாயக்க, பதவிப்பிரமாணம் செய்யும் வைபவம், ஜனாதிபதி மாளிகையில், இன்று (23) காலை 10 மணியளவில் மிகவும் எளிமையான முறையில் நடைபெறவுள்ளது.
+
+நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க, தெரிவு செய்யப்பட்டுள்ளார் என்பதற்கான அரசிதழும் ( வர்த்தமானி) வெளியிடப்பட்டது.
+
+◼️
+
+[Data](articles/450c4577.json)
 
 ---
 
@@ -109,6 +147,20 @@ Mr. Gunawardena has also congratulated the newly elected President of Sri Lanka,
 [Data](articles/ca4c7d78.json)
 
 [Extended Data](ext_articles/ca4c7d78.ext.json)
+
+---
+
+### අගමැති දිනේෂ් ඉල්ලා අස්වෙයි
+
+*2024-09-23 09:18:39* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-දිනේෂ්-ඉල්ලා-අස්වෙයි/11-412078) · `si`
+
+නව ජනපතිවරයෙක් ජනතාව විසින් තෝරාපත් ගැනීම හේතුවෙන් ඔහු මෙසේ සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+ඔහු සිය ඉල්ලා අස්වීමේ ලිපිය රනිල් වික්‍රමසිංහ මහතා වෙත යොමුකර තිබේ.
+
+◼️
+
+[Data](articles/c75bee7e.json)
 
 ---
 
@@ -2151,105 +2203,5 @@ However, New Zealand bowlers to break up to 309 runs in their second innings.
 [Data](articles/0cdf8a8c.json)
 
 [Extended Data](ext_articles/0cdf8a8c.ext.json)
-
----
-
-### Chennai Man Ashwin's all -round match made India 1 - 0;Bangladesh defeated 280 runs
-
-*2024-09-22 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194548) · `ta`
-
-India defeats Bangladesh in Test match, Ashwin shines with century and 6-wicket haul. India leads ICC World Test Championship 1-0.
-
-🟩
-
-Chennai Chepakkam M. A.. India won by 280 runs in the first Test against Bangladesh at Chidambaram Stadium.
-
-With this victory, India are leading the ICC World Test Championships 1 - 0.
-
-Ravichandran Ashwin's all -rounder game, Ravindra Jadeja, Shubman Gill and Rishabh Bant played the lead role in India's success
-
-Ravichandran Ashwin, who scored a century in India's first innings, registered a 6 -wicket focal in Bangladesh's 2nd innings and became the hero of the match.
-
-With a further 357 runs to win the match, Bangladesh lost all the wickets for 234 runs for the loss of 158 runs for the loss of 4 wickets on Sunday (22), the fourth day of the match.
-
-Team captain Najmul Hossain fought for 82 runs.
-
-The last 6 wickets, including Shakib Al Hasan (25), fell by 40 runs.
-
-Ravichandran Ashwin took 6 wickets for 88 runs in bowling. This is the 37th opportunity for Ashwin to take 5 or more wickets in the 101st Test.
-
-Meanwhile, Ravindra Jadeja, who bowled him, took 3 wickets for 58 runs.
-
-...
-
-[Data](articles/4e7d7be6.json)
-
-[Extended Data](ext_articles/4e7d7be6.ext.json)
-
----
-
-### “Thank you people”
-
-*2024-09-22 17:59:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-நன்றி/175-344256) · `ta`
-
-"Chairman Ananda Ratnayake thanks citizens for peaceful election. No major violence reported. Election Commission urges calm post-results."
-
-🟩
-
-The Chairman of the Elections Commission, Ananda Ratnayake said he would like to thank the people for the peaceful act during the election.
-
-He said that there were no serious incidents of violence in this presidential election compared to other elections.
-
-Moreover, the Election Commission said that he has appealed to the people to work peacefully after the final results of the presidential election and have been banned for a week after the election.
-
-◼️
-
-[Data](articles/19db8fb5.json)
-
-[Extended Data](ext_articles/19db8fb5.ext.json)
-
----
-
-### Sri Lanka’s President by default loses for third time after tough economic reforms
-
-*2024-09-22 17:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-president-by-default-loses-for-third-time-after-tough-economic-reforms-180464/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe, who rose to the helm through a parliament vote two years back, has lost the presidential election for the third time in the Saturday poll after implementing two years of tough and unpopular economic reforms including tax hikes and state-owned enterprise restructuring.
-
-Wickremesinghe lost the 2020 parliament election, but became a legislator in 2021 through a solitary national list vacancy his party secured in the poll.
-
-He accepted the challenge of resurrecting a bankrupt economy in 2022 after former leader Gotabaya Rajapaksa invited him to take over as the Sri Lankan Prime Minister for the sixth time.
-
-After he was elected as the parliament through a parliament vote, he stubbornly implemented some unpalatable economic reforms under an International Monetary Fund (IMF)-led bailout package.
-
-...
-
-[Data](articles/f5efa548.json)
-
-[Extended Data](ext_articles/f5efa548.ext.json)
-
----
-
-### Gampaha, Kalutara, Katana, Wattala, Ja-Ela and Negombo won by Anura Kumara
-
-*2024-09-22 17:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102195/gampaha-kalutara-katana-wattala-ja-ela-and-negombo-won-by-anura-kumara) · `en`
-
-NPP Presidential Candidate Anura Kumara Dissanayake has secured the highest number of votes in the Gampaha polling division in the Gampaha District.
-
-In the Katana polling division in Gampaha District, the NPP leader has clinched another victory by polling 69,944 votes.
-
-He has also placed first in the Wattala polling division in Gampaha District with 47,505 votes.
-
-Dissanayake has also won the Ja-Ela polling division in the Gampaha District.
-
-The NPP Presidential Candidate is also on top in the Negombo polling division in Gampaha District.
-
-He is also the winner in the Kalutara polling division in Kaluatara District.
-
-◼️
-
-[Data](articles/79fd97f2.json)
-
-[Extended Data](ext_articles/79fd97f2.ext.json)
 
 ---

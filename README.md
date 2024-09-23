@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 14:25:05**
+As of **2024-09-23 14:38:35**
 
 ## Newspaper Stats
 
-*Scraped **45,781** Articles*
+*Scraped **45,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,60 @@ adalk | 4,205
 dailymirrorlk | 4,733
 adaderanalk | 5,390
 tamilmirrorlk | 6,094
-virakesarilk | 7,312
+virakesarilk | 7,319
 adaderanasinhalalk | 7,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,779 (100.0%) of 45,781 articles have been extended.
+45,787 (100.0%) of 45,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
 
-### ශ්‍රී ලංකා නව ජනාධිපතිවරයාට චීන ජනපතිගෙන් සුබ පැතුම්
+### Chinese president to Sri Lanka new President
 
 *2024-09-23 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201471) · `si`
 
-ශ්‍රී ලංකා නව ජනාධිපති ධුරයට පත් අනුර කුමාර දිසානායක මහතා වෙත චීන ජනාධිපති ෂී ජින් පිං මහතා සුබ පැතුම් පිරිනමා තිබේ.
+Chinese President Xi Jinping greets Sri Lanka's new leader. Emphasizes strong bilateral ties, mutual support since diplomatic relations began two years ago. Both nations aim to strengthen ties, boost political trust, and foster long-term strategic cooperation.
 
-සුබ පැතුම මගින් චීන ජනාධිපතිවරයා පෙන්වා දී ඇත්තේ  චීනය සහ ශ්‍රී ලංකාව සාම්ප්‍රදායික මිත්‍ර අසල්වැසියන් බවය.
+🟩
 
-මීට වසර 67 කට පෙර චීනය සහ ශ්‍රී ලංකාව අතර රාජ්‍ය තාන්ත්‍රික සබඳතා ආරම්භ කළ දා සිට දෙරට සෑම විටම එකිනෙකා අවබෝධ කර ගනිමින් සහයෝගය ලබා දෙමින් මිත්‍රශීලී සහජීවනය සහ අන්‍යෝන්‍ය වශයෙන් වාසිදායක සහයෝගීතාවය සඳහා ලොකු කුඩා රටවලට ආදර්ශයක් සපයා ඇති බවයි.
+Chinese President Xi Jin Pin has greeted the Sri Lanka President of Sri Lanka.
 
-චීන-ශ්‍රී ලංකා සබඳතා වර්ධනයට තමන් විශාල වැදගත්කමක් ලබා දෙන බවත් සාම්ප්‍රදායික මිත්‍රත්වය පවත්වා ගැනීමට සහ දේශපාලන අන්‍යෝන්‍ය විශ්වාසය වැඩි දියුණු කිරීමට ජනපති අනුර කුමාර දිසානායක මහතා සමඟ කටයුතු කිරීමට කැමැත්තෙන් සිටින බවත් චීන ජනාධිපතිවරයා පවසයි.
+The Chinese President has pointed out that China and Sri Lanka are traditional friendly neighbors.
 
-...
+Since the commencement of diplomatic relations between China and Sri Lanka, two years ago, the two countries have always been able to support and support each other.
+
+President Anura Kumara Dissanayake is willing to deal with Chinese-Sri Lanka relations to enhance the Chinese-Sri Lankan relationships and to maintain traditional friendship and improve political mutual confidence.
+
+Also, the two countries continue to produce more effective and long-term strategic cooperation between China and Sri Lanka, promoting the most effective and long-term strategic partnership between China and a traditional cooperation and traditional collaboration and traditional cooperation.He also said that action is being done.
+
+◼️
 
 [Data](articles/27f78f18.json)
+
+[Extended Data](ext_articles/27f78f18.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-09-23 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194601) · `ta`
+
+US Dollar exchange rate: Buying price Rs 300.1800, Selling price Rs 309.2836. Released by Central Bank on 23rd.
+
+🟩
+
+The US dollar purchasing price was Rs 300.1800 and the sales price were Rs 309.2836, based on a currency exchange rate released by the Central Bank on Monday (23).
+
+◼️
+
+[Data](articles/47beca99.json)
+
+[Extended Data](ext_articles/47beca99.ext.json)
 
 ---
 
@@ -94,6 +120,32 @@ Anura Vidhanagamage, a prominent figure, has announced his resignation. This new
 
 ---
 
+### Sealing a restaurant in Jaffna;15 to the owners of restaurants
+
+*2024-09-23 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194594) · `ta`
+
+Jaffna restaurant sealed, 15 owners fined 140,000 rupees for health violations.
+
+🟩
+
+A restaurant operating in Jaffna has been sealed and 15 restaurants have been fined one lakh 40 thousand rupees.
+
+Sudden examination activities were carried out by health inspectors at Uduvil Health Medical Officer's workshop.
+
+At the same time, the Mallakam Magistrate's Court has filed a case against the owners of the failure of the reflection of the refrigerator, the failure of personal hygiene, the absence of medical certification, the failure of the health system, and the failure of the equipment.
+
+When the case was taken up for hearing on Thursday (19), 15 owners accepted the charge against them, and the owners were sentenced to Rs 1 lakh forty thousand rupees.
+
+At the same time, it was ordered to seal the restaurant until the owner's restaurant was reached.
+
+◼️
+
+[Data](articles/ce8579c6.json)
+
+[Extended Data](ext_articles/ce8579c6.ext.json)
+
+---
+
 ### Lanka Sathosa Chairman resigns
 
 *2024-09-23 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102211/lanka-sathosa-chairman-resigns-) · `en`
@@ -107,6 +159,74 @@ In his resignation letter, Abeywardena has stated that he made this decision all
 ◼️
 
 [Data](articles/4e9e1628.json)
+
+[Extended Data](ext_articles/4e9e1628.ext.json)
+
+---
+
+### The corpse of the missing teacher during the sea tirtha
+
+*2024-09-23 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194587) · `ta`
+
+Teacher's body recovered from sea during temple ritual. Two deaths reported. Anatomical exam conducted before handing over to relatives. Incident shocks devotees.
+
+🟩
+
+Yall. During the Vallipura Alwar Temple Sea Tirtha, the body of a rescued teacher has been handed over to relatives.
+
+Dayasilan Vaishnavan (age 28), a resident of Vembadi Women's College, was drowned in the sea during the sea tirtha last Tuesday.
+
+He was found dead in the sea near the Tamil Nadu seas on Saturday (21) as he was searching for him.
+
+The body was brought to the shore and handed over to the Pedro Base Hospital for anatomical examination.
+
+The body was handed over to relatives on Sunday (22) following the body's anatomical examination and death investigation
+
+Meanwhile, Kandasamy Vinokaran (age 54), a rescue of the sea, was found dead on the same day.
+
+This time, two people drowned in the sea during the sea tirtha have shocked the devotees.
+
+◼️
+
+[Data](articles/95431934.json)
+
+[Extended Data](ext_articles/95431934.ext.json)
+
+---
+
+### Will the new president fulfill the aspirations of the minority?
+
+*2024-09-23 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194590) · `ta`
+
+The new president's role is to fulfill minority aspirations while maintaining democratic principles, supporting political, economic development, and peace.
+
+🟩
+
+Whatever the new president is, it is the duty of all of us to accept the people's democratic basis and support the country's political development, economic development and peace ...
+
+◼️
+
+[Data](articles/2096b37d.json)
+
+[Extended Data](ext_articles/2096b37d.ext.json)
+
+---
+
+### Dr. Nandika Sanath Kumanayake appointed as the new President's Secretary
+
+*2024-09-23 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194602) · `ta`
+
+Dr. Nandika Sanath Kumanayake named President's Secretary under Anura Kumara Dissanayake.
+
+🟩
+
+Dr. Nandika Sanath Kumanayake has been appointed as the Secretary of the new President Anura Kumara Dissanayake, the Government Information Department said.
+
+◼️
+
+[Data](articles/361e2a46.json)
+
+[Extended Data](ext_articles/361e2a46.ext.json)
 
 ---
 
@@ -150,6 +270,34 @@ Meanwhile, approximately 300,300 (2.2%) votes were rejected, according to the El
 
 ---
 
+### The challenges that will continue in the new government
+
+*2024-09-23 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194580) · `ta`
+
+Challenges in new government: Election delays, potential dissolution, Tamil parliamentary election complexities, party divisions, diaspora involvement, state occupation issues, accountability concerns, international pressure needed for solutions.
+
+🟩
+
+The presidential election results will be fully arrived in the evening of the 22nd. However, if the 2nd and 3rd preferential votes are counted, it may be delayed.
+
+Probably a situation where parliament can be dissolved following the election. If so, the parliamentary election will come before the end of this year.
+
+As far as Tamil politics is concerned, the parliamentary election will be a big challenge. It is not possible to say that how many teams will compete from the Tamil nationality. Three or four teams have the opportunity to compete.
+
+The Tamil National Party can contest alone, the Tamil National People's Front and the Democratic Tamil National Alliance alone.
+
+May try to put pressure on them to go to the coalition. At least the Tamil state party and the Democratic Tamil National Alliance may be forced to act as the Old Tamil National Alliance.
+
+The Tamil state party is now clearly divided and many difficulties in making decisions.
+
+...
+
+[Data](articles/8befa636.json)
+
+[Extended Data](ext_articles/8befa636.ext.json)
+
+---
+
 ### Dr. Nandika to be appointed Secretary to the President
 
 *2024-09-23 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201468) · `si`
@@ -187,6 +335,28 @@ Dr. Nandika Sanath Kumanayaka has been appointed as the Secretary to the Preside
 [Data](articles/96424c28.json)
 
 [Extended Data](ext_articles/96424c28.ext.json)
+
+---
+
+### நவம்பர் இறுதியில் நாடாளுமன்ற தேர்தல்?
+
+*2024-09-23 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194603) · `ta`
+
+இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார தெரிவு செய்யப்பட்டுள்ள நிலையில் நவம்பர் மாதத்தின் இறுதியில் நாடாளுமன்ற தேர்தல் இடம்பெறலாம் என ஊகங்கள் வெளியாகியுள்ளன.
+
+தேர்தல் வெற்றி உரையின் போது அனுரகுமாரதிசநாயக்க நாடாளுமன்ற தேர்தல் குறித்து கோடிட்டுக்காட்டியுள்ள போதிலும் எப்போது தேர்தல் இடம்பெறும் என்பதை அவர் குறிப்பிடவில்லை.
+
+அனுரகுமாரதிசநாயக்க தனது முன்னைய அறிவிப்புகளிற்கு ஏற்ப நாடாளுமன்றத்தை இந்த வாரம் கலைத்தால் நவம்பர் இறுதியில் தேர்தல் நடைபெறலாம் என தேர்தல் கண்காணிப்பாளர்கள் தெரிவித்துள்ளனர்.
+
+நாடாளுமன்றம் கலைப்பு,தேர்தல் குறித்த அறிவிப்பு 25ம் திகதி வெளியாகலாம் என தேர்தல் கண்காணிப்பாளர் கீர்த்தி தென்னக்கோன் தெரிவித்துள்ளார்.
+
+வேட்பு மனுகாலம்,ஒக்டோபர் 4ம் திகதிக்குள் -அறிவிப்பு வெளியாகி பத்து நாட்களிற்குள்- வேட்பு மனு தாக்கல் செய்வதற்கு ஏழு நாட்கள்
+
+தேர்தல் வாக்களிப்பு திகதி -நவம்பர் 22 லிருந்து 30ற்க்குள் - நாடாளுமன்றம் கலைக்கப்பட்டு 52 முதல் 66 நாட்களிற்குள் தேர்தலை நடத்தவேண்டும்.
+
+◼️
+
+[Data](articles/85f3987b.json)
 
 ---
 
@@ -2113,141 +2283,5 @@ All candidates who contested the country's ninth presidential election were summ
 [Data](articles/477bfba8.json)
 
 [Extended Data](ext_articles/477bfba8.ext.json)
-
----
-
-### Dilith shines as newcomer in 2024 Presidential election
-
-*2024-09-23 05:27:34* · [`dailyftlk`](https://www.ft.lk/news/Dilith-shines-as-newcomer-in-2024-Presidential-election/56-767019) · `en`
-
-Former Army General Sarath Fornseka who secured 4,173,185 in 2010, received only 22,407 votes, ranking ninth
-
-Dilith Jayaweera, leader of the Mawbima Janatha Party (MJP) made a notable debut in the 2024 Presidential election, securing sixth place in the national race.
-
-Contesting under Sri Lanka Communist Party (SLCP), Jayaweera garnered a total of 122,396 votes across the country.
-
-His performance as a first-time Presidential candidate has been remarkable, especially as he outperformed established candidates in key electorates.
-
-Jayaweera outpaced Sri Lanka Podujana Peramuna (SLPP) candidate Namal Rajapaksa in areas such as Maharagama and Homagama. In Maharagama, Jayaweera received 3,020 voted surpassing Rajapaksa’s 2,424 votes. Similarly, in Homagama, he secured 4,304 votes, outshining Rajapaksa who received 3,979 votes. Jayaweera secured most of his votes from the Colombo, Kalutara, Kurunegala, Gampaha, Galle, Matara, and Ratnapura districts.
-
-...
-
-[Data](articles/be8ad399.json)
-
-[Extended Data](ext_articles/be8ad399.ext.json)
-
----
-
-### Japanese Ambassador congratulates New President Anura
-
-*2024-09-23 05:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194566) · `ta`
-
-Japanese Ambassador congratulates Sri Lanka's new president Anura Kumara Dissanayake, expressing eagerness to strengthen bilateral ties and support democratic processes.
-
-🟩
-
-Japan Ambassador to Sri Lanka Miss Koshoshi Hidegi congratulated Anura Kumara Dissanayake, the new President of the Democratic Socialist Republic of Sri Lanka.
-
-He is looking forward to working with Anuragumara Dissanayake to improve the friendship between Japan and Sri Lanka.
-
-We would like to congratulate the people of Sri Lanka to participate in the democratic activities of Sri Lanka in choosing their leader. Japan will be ready to achieve economic and social goals and achieve our strong relationship with the new administration led by Anuragumara Dissanayake and the Sri Lankan people.
-
-History is that our friendship has been strengthened even though leaders change in Sri Lanka and Japan. We hope that this time in Sri Lanka will return to our relationship with the stories of renewed friendship and cooperation on the new pages, as in the past.
-
-◼️
-
-[Data](articles/c70eb762.json)
-
-[Extended Data](ext_articles/c70eb762.ext.json)
-
----
-
-### Indian envoy calls on President-elect, congratulates on election win
-
-*2024-09-23 05:23:12* · [`dailyftlk`](https://www.ft.lk/news/Indian-envoy-calls-on-President-elect-congratulates-on-election-win/56-767018) · `en`
-
-Indian High Commissioner to Sri Lanka, Santosh Jha, yesterday met with President-elect Anura Kumara Dissanayake and conveyed congratulations on behalf of India’s leadership.
-
-During the meeting, Jha extended India’s well-wishes for Dissanayake’s victory and affirmed the country’s commitment to strengthening bilateral relations.
-
-◼️
-
-[Data](articles/2f67ca40.json)
-
-[Extended Data](ext_articles/2f67ca40.ext.json)
-
----
-
-### Japan congratulates AKD
-
-*2024-09-23 05:18:13* · [`dailyftlk`](https://www.ft.lk/news/Japan-congratulates-AKD/56-767017) · `en`
-
-Japanese Ambassador to Sri Lanka Mizukoshi Hideaki, yesterday expressed his heartfelt congratulations to President-elect Anura Kumara Dissanayake for his election as the new President of the Democratic Socialist Republic of Sri Lanka.
-
-In a statement he said Japan is looking forward to working closely with President Anura Kumara Dissanayake in furthering the friendly relationship between Japan and Sri Lanka.
-
-“We would like to congratulate the people of Sri Lanka on their active participation in Sri Lanka’s democratic process in electing their leader. Japan will stand ready to cooperate with the new administration under the leadership of President Anura Kumara Dissanayake and the people of Sri Lanka in achieving economic and social goals as well as our stronger relationship,” he said.
-
-...
-
-[Data](articles/94ab235a.json)
-
-[Extended Data](ext_articles/94ab235a.ext.json)
-
----
-
-### UK congratulates AKD
-
-*2024-09-23 05:16:30* · [`dailyftlk`](https://www.ft.lk/news/UK-congratulates-AKD/56-767016) · `en`
-
-British High Commissioner to Sri Lanka Andrew Patrick yesterday congratulated President-elect Anura Kumara Dissanayake in a post on X yesterday.
-
-“Congratulations to President-elect @anuradisanayake on his victory. Sri Lanka and the UK share a long-standing friendship – strong people to people links, close economic ties and many shared values. I look forward to working with the President-elect and his Government,” he said in a post on X.
-
-◼️
-
-[Data](articles/da5b55ea.json)
-
-[Extended Data](ext_articles/da5b55ea.ext.json)
-
----
-
-### US envoy congratulates AKD
-
-*2024-09-23 05:13:28* · [`dailyftlk`](https://www.ft.lk/news/US-envoy-congratulates-AKD/56-767015) · `en`
-
-In a post on X yesterday, US Ambassador Julie Chung congratulated President-elect Anura Kumara Dissanayake on his victory in Sri Lanka’s Presidential election.
-
-She also praised the Sri Lankan people for peacefully exercising their democratic rights. Ambassador Chung reaffirmed the strength of the bilateral relationship, stating, “We value the strong US-Sri Lanka partnership and stand ready to work together on shared priorities.” Her message emphasised the continued commitment to collaboration between the two countries.
-
-◼️
-
-[Data](articles/4a4eb98a.json)
-
-[Extended Data](ext_articles/4a4eb98a.ext.json)
-
----
-
-### The success of Anuragumara Dissanayake is a progressive change;We will talk about the political solution in the near future-representatives of Tamil national political parties
-
-*2024-09-23 05:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/194564) · `ta`
-
-Anuragumara Dissanayake's election hailed as progressive change by Tamil nationalists. They pledge support for his policies, including constitutional reforms and addressing Tamil issues.
-
-🟩
-
-Representatives of Tamil National Political Parties have said that the new president, Anuragumara Dissanayake, has been fully supported by the new constitution, and that he will give him full support for his actions and will talk to the Tamil people for a long time.
-
-Representatives of the Tamil nationalist political parties representing the North and East have commented on his victory as the ninth president of Anuragumara Dissanayake, who contested on behalf of the National People's Power, has been elected as the ninth president of the country.
-
-'The success of Anuragumara Dissanayake is the best progressive move. When we analyzed which candidate, there were many issues that were not in the election manifesto of Sajith Premadasa.
-
-He also stated that he was implementing the provincial council system as in the Constitution and that he could discuss land and police powers.
-
-...
-
-[Data](articles/93fbd942.json)
-
-[Extended Data](ext_articles/93fbd942.ext.json)
 
 ---

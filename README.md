@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 11:58:54**
+As of **2024-09-23 12:13:41**
 
 ## Newspaper Stats
 
-*Scraped **45,746** Articles*
+*Scraped **45,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,764
 dailyftlk | 3,030
-adalk | 4,202
+adalk | 4,203
 dailymirrorlk | 4,733
 adaderanalk | 5,384
-tamilmirrorlk | 6,086
+tamilmirrorlk | 6,087
 virakesarilk | 7,304
-adaderanasinhalalk | 7,920
+adaderanasinhalalk | 7,922
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,746 (100.0%) of 45,746 articles have been extended.
+45,750 (100.0%) of 45,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Anura Vidanagamage resigns
+
+*2024-09-23 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201464) · `si`
+
+Governor Anura Vidanagamage resigns, submits letter to former President Ranil Wickremesinghe.
+
+🟩
+
+Governor Anura Vidanagamage has resigned from his post.
+
+He has asked for his resignation by a letter to former President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/734acd18.json)
+
+[Extended Data](ext_articles/734acd18.ext.json)
+
+---
+
+### Two persons arrested for pushing the woman
+
+*2024-09-23 11:39:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-தள்ளிவிட்ட-இருவர்-கைது/175-344301) · `ta`
+
+Two men arrested for pushing woman at Royal College polling station during presidential election. Incident occurred due to political party dispute. Woman hospitalized and filed police report. Suspects aged 43 and 45 from Wellawatte area.
+
+🟩
+
+Kurundwatte police said that two persons were arrested for allegedly pushing and injuring a woman at Royal College, Colombo, which was set up as a voting center for the presidential election.
+
+The injured woman belongs to Galle Road, Wellawatte, and she has been admitted to the Colombo National Hospital and lodged a complaint at the police station after treatment.
+
+It was revealed that the second round of the vote on Sunday (22) was revealed that the suspects were pushed to the spot after a dispute between political party members.
+
+The arrested suspects have been identified as 43,45 years old from Hevlok Road, Mayura Place and Wellawatte.
+
+◼️
+
+[Data](articles/dfed66ee.json)
+
+[Extended Data](ext_articles/dfed66ee.ext.json)
+
+---
+
+### CID arrested for scholarship examination problem
+
+*2024-09-23 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201463) · `si`
+
+National Education Institute Director arrested CID scholarship exam issue summary: 200 characters
+
+🟩
+
+The Director of the Planning Division of the Planning Division of the National Education Institute has been arrested by the Criminal Investigation Department.
+
+◼️
+
+[Data](articles/6aae3432.json)
+
+[Extended Data](ext_articles/6aae3432.ext.json)
+
+---
 
 ### "This is my last election" -Donald Trump
 
@@ -125,6 +187,30 @@ The 56-year-old leader’s response came after PM Modi expressed his wish to wor
 [Data](articles/ad7bf027.json)
 
 [Extended Data](ext_articles/ad7bf027.ext.json)
+
+---
+
+### Sri Lanka wins first Test against New Zealand
+
+*2024-09-23 10:47:50* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-පළමු-ටෙස්ට්-තරගයේ-ජය-ශ්‍රී-ලංකාවට/9-412084) · `si`
+
+Sri Lanka defeats New Zealand in first Test match by 63 runs. Sri Lanka scores 305 and 309 runs in two innings, while New Zealand manages 211 in its second innings chasing 275 target.
+
+🟩
+
+Sri Lanka beat New Zealand by 63 runs in the first Test match against New Zealand.
+
+Chasing a target of 275 runs, New Zealand, who was chaired by 275 runs, was only 211 in their second innings.
+
+Batting first Sri Lanka scored 305 runs for the loss of all wickets in the first innings.
+
+The Sri Lankan team then played the second innings and scored 309 runs for the loss of all wickets. Accordingly, New Zealand won a target of 275 runs.
+
+◼️
+
+[Data](articles/0ab79eef.json)
+
+[Extended Data](ext_articles/0ab79eef.ext.json)
 
 ---
 
@@ -2143,83 +2229,5 @@ Whoever wins the presidential election, the Tamil state party will be involved i
 [Data](articles/0c207be0.json)
 
 [Extended Data](ext_articles/0c207be0.ext.json)
-
----
-
-### “I handover to you with much love, the dear child called Sri Lanka” – Ranil to president-elect Anura
-
-*2024-09-22 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/102198/i-handover-to-you-with-much-love-the-dear-child-called-sri-lanka-ranil-to-president-elect-anura) · `en`
-
-In a special address, President Ranil Wickremesinghe expressed his deep gratitude to the people of Sri Lanka for the mandate granted during the 21st presidential election. He acknowledged that, in accordance with the will of the people, the leadership of the country should now be passed on to President Anura Dissanayake.
-
-President Wickremesinghe extended his sincere thanks to all those who supported him during his tenure. He reflected on his role as a caretaker, stating that he had guided “the beloved child of Sri Lanka” across significant challenges, symbolized by the “Vine Bridge,” and expressed his confidence that under President Dissanayake’s leadership, the journey will continue safely and successfully.
-
-The full transcript of President Ranil Wickremesinghe’s speech is shown below;
-
-...
-
-[Data](articles/2e8c79d5.json)
-
-[Extended Data](ext_articles/2e8c79d5.ext.json)
-
----
-
-### The first news to be released by the new President
-
-*2024-09-22 20:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதி-வெளியிட்ட-முதல்-செய்தி/175-344260) · `ta`
-
-New President Anura Kumara Dissanayake elected. Tweets gratitude, unity message. Promises rewriting Sri Lanka's history. Emphasizes collective effort and shared vision.
-
-🟩
-
-The Chairman of the Elections Commission, RMAL Ratnayake, has announced Anura Kumara Dissanayake as the 9th Executive President of the country in accordance with the 2024 presidential election.
-
-Anurakumara Dissanayake has then posted on his Twitter page.
-
-In it, “The dream we have developed for centuries has finally come true. This achievement is not the result of any person's labor, a hundreds of thousands of your joint effort. Your dedication has brought us so far and I am very grateful for it. This success belongs to all of us.
-
-Our journey is carved by the sacrifice of many who dedicated their sweat, tears and even their lives for this purpose. Their sacrifices are not forgotten. We bear the scepter of their beliefs and struggles, knowing the responsibility of carrying it. Millions of eyes packed with confidence and expectation are pushing us forward, and we are ready to re -write Sri Lankan history.
-
-...
-
-[Data](articles/b16ccdef.json)
-
-[Extended Data](ext_articles/b16ccdef.ext.json)
-
----
-
-### Is the life of Parliament ending?
-
-*2024-09-22 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194366) · `ta`
-
-Parliament dissolution likely after election due to candidate promises. This could mark end of current legislative term.
-
-🟩
-
-During the campaign, the main candidates who contested the presidential election would dissolve parliament if they win.
-
-◼️
-
-[Data](articles/a6786cba.json)
-
-[Extended Data](ext_articles/a6786cba.ext.json)
-
----
-
-### New President and India
-
-*2024-09-22 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194369) · `ta`
-
-Anuragumara project cancellation impacts India-Sri Lanka relations.
-
-🟩
-
-With the success of Anuragumara, the Adani wind power project is being canceled, it will have significant impact on Indian -Sri Lankan relations.
-
-◼️
-
-[Data](articles/f7dd7cfa.json)
-
-[Extended Data](ext_articles/f7dd7cfa.ext.json)
 
 ---

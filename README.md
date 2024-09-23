@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 19:38:22**
+As of **2024-09-23 19:57:02**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 7,936
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,835 (100.0%) of 45,848 articles have been extended.
+45,842 (100.0%) of 45,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
 
-### விடைபெறுகிறார் காஞ்சன
+### Kanchana says goodbye
 
 *2024-09-23 19:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைபெறுகிறார்-காஞ்சன/175-344331) · `ta`
 
-நான் நேற்றைய தினம் அரசு வாகனங்கள் மற்றும் எனது அலுவலகத்தை மீள கையளித்து விட்டேன், மேலும் எனது அதிகாரம் மற்றும் எரிசக்தி அமைச்சகம் மற்றும் நிறுவனங்களை எனது அதிகாரத்திற்குட்பட்ட நிதி நிலையிலும், போதுமான அளவு பெட்ரோலிய பொருட்கள் மற்றும் மின்சார உற்பத்தி மற்றும் எரிபொருள் விநியோகத்திற்காக நிலக்கரி இருப்பு வைத்துள்ளேன்.
+Kanchana bids farewell, mentioning vehicle renovation, energy reserve management, and economic improvements. She thanks supporters and highlights challenges in electricity and fuel supply.
 
-அனைத்து நிறுவனங்களும் இப்போது நேர்மறையான இருப்புநிலைக் குறிப்பில் உள்ளன, அதன் சேவைகளுக்கான செலவுகளை மீட்டெடுக்கின்றன, வழங்குனர்களுக்கு சரியான நேரத்தில் பணம் செலுத்துகின்றன, நிலுவையில் உள்ள கடனைச் செலுத்துகின்றன மற்றும் கருவூலத்திற்கு அது உருவாக்கும் கூடுதல் வருவாயை வழங்குகின்றன.
+🟩
 
-ஜனாதிபதி ரணில், சக ஊழியர்கள், எனது குடும்பத்தினர், நண்பர்கள், அமைச்சகம் மற்றும் நிறுவனங்களின் அதிகாரிகள் மற்றும் ஊழியர்கள், இராஜதந்திர பணிகள், மேம்பாட்டு முகமைகள், பல்வேறு அரசு மற்றும் தனியார் பங்குதாரர்கள் மற்றும் கடந்த இரண்டு ஆண்டுகளில் உதவிய அனைவருக்கும் நன்றி தெரிவிக்க விரும்புகிறேன்.
+I renovated the government vehicles and my office yesterday, and I have kept the coal reserves for adequate petroleum products and electricity production and fuel supply, despite my authority and the Ministry of Energy and Energy.
 
-...
+All companies are now in a positive balance sheet, restoring costs for its services, paying offer timely payment, paying off the outstanding loan and providing extra revenue to the treasury.
+
+President Ranil, colleagues, my family, friends, ministries and officials of the Ministry and Institutions, I would like to thank all those who have helped various government and private partners in the last two years.
+
+4-13 hours of electricity, no fuel situation, no coal, no coal, no petroleum products, no suppliers, no money, no money, no defined hydro capacity from 2022, uninterrupted fuel supply and power generation for coal, petroleum products, hydro accalib and financially strong enoughI am currently holding it, he said.
+
+◼️
 
 [Data](articles/15389499.json)
+
+[Extended Data](ext_articles/15389499.ext.json)
 
 ---
 
@@ -64,37 +72,55 @@ He had earlier vowed to reopen negotiations with the IMF over its $3 billion bai
 
 [Data](articles/d242690d.json)
 
+[Extended Data](ext_articles/d242690d.ext.json)
+
 ---
 
-### எமக்கு அதில் அனுபவம் இல்லை- ஹரினி
+### We have no experience in it- Harini
 
 *2024-09-23 19:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமக்கு-அதில்-அனுபவம்-இல்லை-ஹரினி/175-344330) · `ta`
 
-தேசிய மக்கள் சக்தி (NPP) ஒரு ஆணை மற்றும் ஒரு சமூக ஒப்பந்தத்துடன் வருகிறது என்று NPP பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரிய தெரிவித்தார்.
+Here's a 200-character summary:
 
-நாளை முதல் அதற்கான வேலைகளை NPP ஆரம்பிக்கும் என இன்று ஊடகங்களுக்கு கருத்து தெரிவித்த பாராளுமன்ற உறுப்பினர் அமரசூரிய தெரிவித்தார்.
 
-புதிய அரசாங்கத்தின் அனுபவம் பற்றி வினவியபோது, ​​" நிச்சயமாக நாட்டை திவாலாக்கிய அனுபவம் எங்களுக்கு இல்லை, " என்று பதிலளித்தார்.
 
-எவ்வாறாயினும், நாட்டைக் கட்டியெழுப்புவதில் NPP அரசாங்கம் அனுபவத்தைப் பெறும் என அவர் மேலும் தெரிவித்துள்ளார்.
+NPP MP Harini Amarasuriya claims NPP lacks experience in country bankruptcy but promises building expertise. New government starts work tomorrow under order and social agreement.
+
+🟩
+
+NPP MP Harini Amarasuriya said that the National People's Power (NPP) is coming with an order and a social agreement.
+
+MP Amarasuriya told the media today that the NPP will start its work from tomorrow.
+
+When asked about the experience of the new government, he replied, "We have no experience of bankruptcy of the country," he replied.
+
+However, the NPP government will have the experience of building the country, he added.
 
 ◼️
 
 [Data](articles/573b7d2d.json)
 
+[Extended Data](ext_articles/573b7d2d.ext.json)
+
 ---
 
-### ஜனாதிபதியின் பிரத்தியேக செயலாளர் நியமனம்
+### The appointment of the President's Exclusive Secretary
 
 *2024-09-23 18:59:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பிரத்தியேக-செயலாளர்-நியமனம்/175-344329) · `ta`
 
-தேசிய மக்கள் சக்தியின் புத்திஜீவி அமைப்பின் தேசிய அமைப்பாளர் ஆனந்த விஜேபால ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் பிரத்தியேக செயலாளராக நியமிக்கப்பட்டுள்ளார்.
+Ananda Wijepala, former personal secretary to JVP leader, appointed External Secretary to President Anura Kumara Dissanayake. Previously served as Secretary of Anti-Corruption Secretariat under 2015 government.
 
-நீண்டகாலமாக ஜே.வி.பி தலைவரின் தனிப்பட்ட செயலாளராக இருந்த ஆனந்த விஜேபால, 2015 நல்லாட்சி அரசாங்கத்தின் கீழ் நிறுவப்பட்ட ஊழல் எதிர்ப்பு செயலகத்தின் செயலாளராகவும் பணியாற்றினார்.
+🟩
+
+National Organizer of the National People's Power, Ananda Wijepala has been appointed as the External Secretary of President Anura Kumara Dissanayake.
+
+Ananda Wijebala, who has long been the personal secretary of the JVP leader, served as the Secretary of the Anti -Corruption Secretariat established under the Government of 2015.
 
 ◼️
 
 [Data](articles/83cab67e.json)
+
+[Extended Data](ext_articles/83cab67e.ext.json)
 
 ---
 
@@ -118,19 +144,29 @@ The Government Information Department issued a statement.
 
 ---
 
-### ஊடகவியலாளர் சதுரங்க குற்றவாளி என தீர்ப்பு
+### The journalist verdict as a chess criminal
 
 *2024-09-23 18:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்-சதுரங்க-குற்றவாளி-என-தீர்ப்பு/175-344328) · `ta`
 
-மேன்முறையீட்டு நீதிமன்ற நீதிபதிகளுக்கு எதிரான பொய்யான குற்றச்சாட்டுகள் அடங்கிய இணையக் கட்டுரையை பதிவேற்றியதற்காக நீதிமன்ற அவமதிப்பு குற்றச்சாட்டில் இணைய ஊடகவியலாளர் டெஸ்மண்ட் சதுரங்க டி அல்விஸ் குற்றவாளி என மேன்முறையீட்டு நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+Journalist Desmond Chenga de Alwis convicted of contempt for false allegations against Court of Appeal judges. He fled before trial, leading to prosecution in absentia. Attorney General filed charges under Article 105(3) of Constitution.
 
-மேன்முறையீட்டு நீதிமன்றத்தின் நீதியரசர்களான சோபித ராஜகருணா, மேனகா விஜேசுந்தர மற்றும் மாயாதுன்னே கொரியா ஆகிய மூவரடங்கிய நீதியரசர்கள் குழாம், குற்றம் சாட்டப்பட்டவர்களுக்கு எதிரான குற்றச்சாட்டுகள் சந்தேகத்திற்கு இடமின்றி நிரூபிக்கப்பட்டுள்ளதாகத் தெரிவித்துள்ளது. இதுபோன்ற அவமதிப்புக்காக குற்றம் சாட்டப்பட்டவர்கள் தண்டிக்கப்பட வேண்டும் என்று நீதிமன்றம் மேலும் தீர்ப்பளித்தது.
+🟩
 
-எனினும், மஜிஸ்திரேட் விசாரணை நிலுவையில் இருக்கும் போதே அவர் நீதிமன்றத்தை ஏவிவிட்டு நாட்டை விட்டு வெளியேறியதால், குற்றம் சாட்டப்பட்டவர் இல்லாத நிலையில் நீதிமன்ற அவமதிப்பு வழக்கு நடத்தப்பட்டது.
+The Court of Appeal has ruled that Internet journalist Desmond Chenga de Alwis is guilty of contempt of court for uploading a web article containing false allegations against the Court of Appeal.
 
-...
+Judges of the Court of Appeal, Sobhitha Rajakaruna, Menaka Wijesundara and Mayadunne Korea, said the allegations against the accused have been undoubtedly proved.. The court further ruled that the accused should be punished for such contempt.
+
+However, when the Magistrate's investigation was pending, he left the court and left the country, and the court contempt was sued in the absence of the accused.
+
+On April 30, 2020, the Attorney General filed a law against him under Article 105 (3) of the Constitution for imposing bribery and corruption charges against the appeals court judges on April 30, 2020.
+
+Additional Solicitor General Thilan Ratnayake appeared with Deputy Solicitor General Saya Sri Namuni on behalf of the Attorney General.
+
+◼️
 
 [Data](articles/47295e63.json)
+
+[Extended Data](ext_articles/47295e63.ext.json)
 
 ---
 
@@ -404,41 +440,63 @@ Accordingly, Mr. Kananda Wijayapala has been appointed as the Presidential Priva
 
 ---
 
-### நடிகர் கார்த்தி வெளியிட்ட மகத் ராகவேந்திராவின் 'காதலே காதலே' திரைப்பட கிளர்வோட்டம்
+### Actor Karthi's Mahad Raghavendra's 'Kadaye Kalvee'
 
 *2024-09-23 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194618) · `ta`
 
-நடிகர் மகத் ராகவேந்திரா காதல் இளவரசனாக நடித்திருக்கும் 'காதலே காதலே' எனும் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது. இதனை முன்னணி நட்சத்திர நடிகரான கார்த்தி அவருடைய இணைய பக்கத்தில் வெளியிட்டு, படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+Here's a 200-character summary of the article:
 
-இயக்குநர் ஆர். பிரேம்நாத் இயக்கத்தில் உருவாகி இருக்கும் 'காதலே காதலே' எனும் திரைப்படத்தில் மகத் ராகவேந்திரா, மீனாட்சி கோவிந்தராஜன், இயக்குநர் இமயம் பாரதிராஜா, வி டி வி கணேஷ், ரவீனா ரவி, ராஜ் ஐயப்பா, ஸ்ரீஜா, வி ஜே ஆஷிக், அக்ஷதா, பர்வேஷ், அத்வைத், அன்ஷிதா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-இந்த திரைப்படத்தை ஸ்ரீ வாரி ஃபிலிம் நிறுவனம் சார்பில் தயாரிப்பாளர் பி. ரங்கநாதன் தயாரித்திருக்கிறார்.
 
-இப்படத்தின் படப்பிடிப்பு பணிகள் நிறைவடைந்து தற்போது படப்பிடிப்புக்கு பிந்தைய இறுதிக்கட்ட மற்றும் தொழில்நுட்ப பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது.
+Actor Karthi congratulates Mahad Raghavendra's romantic film 'Kadaye Kalvee'. Directed by R. Mahath Raghavendra, produced by Sri Vari Film Company. Shooting complete, post-production underway. Heroine's expectations raised, love story unfolds.
 
-...
+🟩
+
+Actor Mahad Raghavendra has been released as a romantic prince. The leading star actor Karthi posted it on his web page and congratulated the film crew.
+
+Director r. Mahath Raghavendra, Meenakshi Govindarajan, Director Himayam Bharathiraja, VTV Ganesh, Ravina Ravi, Raj Iyappa, Raja Iyappa, Srija, V J Ashik, Akshada, Parvesh
+
+Producer Bu on behalf of Sri Vari Film Company. Produced by Ranganathan.
+
+The shooting of the film is completed and the post -shooting final and technical work is underway.
+
+In this case, the film has been released. In this, the hero of the story has increased the expectation of the heroine of the story, love, and then appearing as a young man who is abandoning, and the heroine of the heroine.
+
+◼️
 
 [Data](articles/511232f7.json)
 
+[Extended Data](ext_articles/511232f7.ext.json)
+
 ---
 
-### கடைசி உலக போர் - திரைப்பட விமர்சனம்
+### Last World War - Film Review
 
 *2024-09-23 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194625) · `ta`
 
-நடிகர்கள் : ஹிப் ஹாப் தமிழா ஆதி, நாசர், ஹரிஷ் உத்தமன், நட்டி என்கிற நட்ராஜ், அனகா, குமரவேல், கல்யாண் மாஸ்டர், முனீஸ்காந்த், அழகம் பெருமாள் மற்றும் பலர்.
+"Last World War" film review: Tamil Nadu 2028. Politician's daughter kidnapped. UN officer saves her. Riots erupt. China-Russia alliance attacks India. Hero blamed as terrorist. Action-packed plot with weak screenplay. Director Hip Hop Tamil Adi delivers engaging background score.
 
-இசையமைப்பாளராகவும், நடிகராகவும் வெற்றி கொடி நாட்டிய ஹிப் ஹாப் தமிழா ஆதி இயக்குநராகவும், தயாரிப்பாளராகவும் அவதாரம் எடுத்திருக்கும் திரைப்படம் 'கடைசி உலக போர்'. போரைப் பற்றியும், போருக்கு பின்னரான நிகழ்வுகளைப் பற்றியும் போர் ஏன் தேவையில்லை என்பது பற்றியும் தனக்குத் தெரிந்த வகையில் ஹிப் ஹாப் தமிழா ஆதி உருவாக்கி இருக்கும் 'கடைசி உலக போர்' அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை பார்ப்போம்.
+🟩
 
-நட்டி என்கிற நட்ராஜ் குரல் வழியாக கதை தொடங்குகிறது. மேலும் இந்த கதை 2028 ஆம் ஆண்டில் தமிழகத்தில் நிகழ்வது போல் கதைக்களம் உருவாக்கப்பட்டிருக்கிறது.
+Actors: Hip Hop Tamil Adi, Nasser, Harish Uthaman, Natti alias Natraj, Anaka, Kumaravel, Kalyan Master, Muniskant, Beauty Perumal and many others.
 
-அந்த தருணத்தில் தமிழ்நாடு எனும் மாநிலத்தின் முதலமைச்சராக நாசர் மக்களுக்கு நல்லாட்சி நடத்தி வருகிறார்.
+Hip Hop Tamil Adi Director and Producer of the film 'Last World War'. Did the 'Last World War' attracted the Hip Hop Tamil Adi attracted all the fans of the war, the war, and why the war is not necessary?Or not?Let's see.
 
-இவருக்கு கீர்த்தனா (அனகா) என ஒரு மகள் இருக்கிறார். அத்துடன் மச்சான் என்ற உறவில் முதலமைச்சரின் பினாமியாக நட்டி என்கிற நட்ராஜ் இருக்கிறார்.
+The story begins through the voice of Natraj. The story is also created in Tamil Nadu in 2028.
+
+At that moment, Nasser is the Chief Minister of the state of Tamil Nadu.
+
+He has a daughter as Kirtana (Anaka). Natraj alias Natti is the Chief Minister's proximity in the relationship of Machan.
+
+He calls himself a King Maker and invests in Nasser's reputation and earns a large sum of money.
+
+At this moment, the containers with several thousand crores of rupees visit the port of Chennai.
 
 ...
 
 [Data](articles/e7d85478.json)
+
+[Extended Data](ext_articles/e7d85478.ext.json)
 
 ---
 
@@ -865,6 +923,8 @@ Former senior DIG Ravi Seneviratne has been appointed as the new Secretary of th
 *2024-09-23 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102215/ravi-seneviratne-appointed-secretary-of-public-security-) · `en`
 
 The newly-elected President Anura Kumara Dissanayake has appointed former Senior Deputy Inspector General (DIG) Ravi Seneviratne as the Secretary to the Ministry of Public Security.
+
+Seneviratne had previously served as the Senior DIG in charge of the Criminal Investigation Department (CID).
 
 ◼️
 

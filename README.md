@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 03:57:11**
+As of **2024-09-24 04:10:28**
 
 ## Newspaper Stats
 
-*Scraped **45,873** Articles*
+*Scraped **45,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 449
 colombotelegraphcom | 456
 islandlk | 2,684
 economynextcom | 2,773
-dailyftlk | 3,037
+dailyftlk | 3,050
 adalk | 4,212
 dailymirrorlk | 4,733
 adaderanalk | 5,402
@@ -26,11 +26,239 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,873 (100.0%) of 45,873 articles have been extended.
+45,886 (100.0%) of 45,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### UAE President congratulates AKD
+
+*2024-09-24 03:55:02* · [`dailyftlk`](https://www.ft.lk/news/UAE-President-congratulates-AKD/56-767075) · `en`
+
+United Arab Emirates President Sheikh Mohamed bin Zayed Al Nahyan has extended his best wishes to newly elected President Anura Kumara Dissanayake.
+
+“I wish him success in leading his country and its people to further progress and stability, and I look forward to working with him to strengthen bilateral relations between the UAE and Sri Lanka,” the UAE President said in a post on X.
+
+◼️
+
+[Data](articles/3cef8c8a.json)
+
+[Extended Data](ext_articles/3cef8c8a.ext.json)
+
+---
+
+### Japan envoy calls on new President; pledges support
+
+*2024-09-24 03:43:31* · [`dailyftlk`](https://www.ft.lk/news/Japan-envoy-calls-on-new-President-pledges-support/56-767074) · `en`
+
+Japanese Ambassador Mizukoshi Hideaki yesterday paid a courtesy call on the newly elected President Anura Kumara Dissanayake shortly after the swearing-in ceremony at the Presidential Secretariat.
+
+Ambassador Mizukoshi conveyed his heartfelt congratulations on the President’s victory in the election and on the people of Sri Lanka’s participation in the democratic process. The Ambassador also expressed his readiness to support the President in his endeavour to rebuild the economy of Sri Lanka.
+
+◼️
+
+[Data](articles/486ee159.json)
+
+[Extended Data](ext_articles/486ee159.ext.json)
+
+---
+
+### Sampath Thuyacontha appointed Defence Secretary
+
+*2024-09-24 03:41:30* · [`dailyftlk`](https://www.ft.lk/news/Sampath-Thuyacontha-appointed-Defence-Secretary/56-767073) · `en`
+
+Air Vice Marshal (Rtd.) Sampath Thuyacontha was yesterday appointed as the new Defence Secretary. The appointment was made by President Anura Kumara Dissanayake, under the authority vested in him by Section 52 (I) of the Constitution of the Democratic Socialist Republic of Sri Lanka.
+
+Thuyacontha holds a Master’s degree in Defence Studies from the National Defence University of China and a Master’s from the Kotelawala National Defence University in Sri Lanka.
+
+He has served as the former Commanding Officer of the MI-24 Attack Helicopter Squadron, the Anuradhapura Air Force Base, and the Chinese Harbour Air Force College.
+
+Additionally, he was the former Defence Adviser at the Sri Lankan High Commission in Pakistan, and Commanding Officer of the Katunayake Air Force Base.
+
+He also held the position of Director of Training at the Air Force Headquarters. He has been awarded the Weera Wickrama Vibushana, Rana Wickrama, and Rana Sura medals for his valiant service.
+
+◼️
+
+[Data](articles/a539dff3.json)
+
+[Extended Data](ext_articles/a539dff3.ext.json)
+
+---
+
+### Ravi Seneviratne appointed as Public Security Ministry Secretary
+
+*2024-09-24 03:39:18* · [`dailyftlk`](https://www.ft.lk/news/Ravi-Seneviratne-appointed-as-Public-Security-Ministry-Secretary/56-767072) · `en`
+
+The newly-elected President Anura Kumara Dissanayake yesterday appointed former Senior Deputy Inspector General (DIG) Ravi Seneviratne as the Public Security Ministry Secretary.
+
+Seneviratne, a retired Senior Deputy Inspector General of Police, holds a Master’s Degree in Human Rights from the University of Colombo. He has served as a founding member of the Special Task Force (STF), former Deputy Director of the State Intelligence Service (SIS), First Secretary of the Sri Lanka Embassy in Thailand, and the Head of Sri Lanka Interpol Sri Lanka.
+
+◼️
+
+[Data](articles/16762110.json)
+
+[Extended Data](ext_articles/16762110.ext.json)
+
+---
+
+### Veteran traditional dancer Vajira Chitrasena passes away
+
+*2024-09-24 03:37:12* · [`dailyftlk`](https://www.ft.lk/news/Veteran-traditional-dancer-Vajira-Chitrasena-passes-away/56-767071) · `en`
+
+Veteran Sri Lankan traditional dancer, choreographer, and teacher Deshamanya Dr. Vajira Chitrasena has passed away at the age of 92.
+
+Vajira and her husband Chitrasena are known for their close bond with India and for their contributions in strengthening the ties between the two countries in the field of arts. She made her debut as a soloist in the role of Prakriti in the ballet ‘Chandali’ in 1952.  Her rise to stardom was coupled with unswerving discipline and dedication as a teacher, performer, and choreographer, even as she illumined her husband’s career.
+
+She was announced as an honourable recipient of the prestigious Padma Shri award for her achievement in arts in January 2020, and the award was given by Indian President Ram Nath Kovind in 2021.
+
+◼️
+
+[Data](articles/036c3c3f.json)
+
+[Extended Data](ext_articles/036c3c3f.ext.json)
+
+---
+
+### National Chamber of Exporters congratulates AKD
+
+*2024-09-24 03:33:25* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-congratulates-AKD/34-767070) · `en`
+
+The National Chamber of Exporters (NCE) in a statement yesterday extended its sincere congratulations to Anura Kumara Dissanayake on his historic victory as the newly elected President of Sri Lanka.
+
+“This decisive mandate reflects the trust and confidence the people have placed in his leadership to guide the country forward,” the NCE said.
+
+“We also take this opportunity to express our deepest gratitude to outgoing President Ranil Wickremesinghe, whose exceptional leadership steered the country through one of its most challenging periods. Under his stewardship, Sri Lanka experienced a remarkable economic recovery, particularly during a time when the nation was on the brink of collapse. His efforts to stabilise the country and lay the groundwork for recovery will be remembered as a key chapter in our nation’s history.”
+
+...
+
+[Data](articles/f2156485.json)
+
+[Extended Data](ext_articles/f2156485.ext.json)
+
+---
+
+### Hotel Suppliers Association congratulates AKD
+
+*2024-09-24 03:30:29* · [`dailyftlk`](https://www.ft.lk/business/Hotel-Suppliers-Association-congratulates-AKD/34-767069) · `en`
+
+The Hotel Suppliers Association (HSA) has extended its heartfelt congratulations to Anura Kumara Dissanayake on his election as the ninth Executive President of Sri Lanka.
+
+“This momentous achievement reflects the trust and confidence the people of this great nation have placed in your leadership,” said HSA President Azad Mansoor in a statement.
+
+...
+
+[Data](articles/320e7555.json)
+
+[Extended Data](ext_articles/320e7555.ext.json)
+
+---
+
+### COSMI congratulates AKD
+
+*2024-09-24 03:29:49* · [`dailyftlk`](https://www.ft.lk/business/COSMIcongratulates-AKD/34-767068) · `en`
+
+Confederation of Micro, Small and Medium Industries (COSMI) President Nawaz Rajabdeen extended his best wishes to the newly elected President Anura Kumara Dissanayake.
+
+“Congratulations. Our best wishes for the President-elect Anura Dissanayake for a land slide victory. This is a historic victory for the people of Sri Lanka,” Rajabdeen said in a statement.
+
+◼️
+
+[Data](articles/50a01fc4.json)
+
+[Extended Data](ext_articles/50a01fc4.ext.json)
+
+---
+
+### Free Trade Zone Manufacturers’ congratulates AKD
+
+*2024-09-24 03:29:08* · [`dailyftlk`](https://www.ft.lk/business/Free-Trade-Zone-Manufacturers-congratulates-AKD/34-767067) · `en`
+
+The Executive Committee and members of the Free Trade Zone Manufacturers’ Association (FTZMA) have extended their heartfelt congratulations to the newly elected President Anura Kumara Dissanayake.
+
+They said his significant victory was a true reflection of the majority’s trust in him during the recent Presidential election and the historic win demonstrates the people’s urgent desire for democratic change and new leadership.
+
+...
+
+[Data](articles/068a0d0b.json)
+
+[Extended Data](ext_articles/068a0d0b.ext.json)
+
+---
+
+### Indian CEO Forum congratulates AKD
+
+*2024-09-24 03:28:27* · [`dailyftlk`](https://www.ft.lk/business/Indian-CEO-Forum-congratulates-AKD/34-767066) · `en`
+
+The Indian CEO Forum (ICF) has extended its best wishes to newly elected President Anura Kumara Dissanayake.
+
+The ICF also said it will work towards strengthening the economic relationship between both countries by leveraging mutual strengths.
+
+◼️
+
+[Data](articles/81a67ff0.json)
+
+[Extended Data](ext_articles/81a67ff0.ext.json)
+
+---
+
+### National Chamber of Commerce congratulates AKD
+
+*2024-09-24 03:27:40* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Commerce-congratulates-AKD/34-767065) · `en`
+
+The National Chamber of Commerce of Sri Lanka (NCCSL) in a statement congratulated Anura Kumara Dissanayake on his election as the ninth Executive President of the Democratic Socialist Republic of Sri Lanka.
+
+“As he takes office during this pivotal period, we recognise the importance of his role in steering the nation through current economic challenges,” the NCCSL said.
+
+NCCSL President Deepal Nelson, on behalf of the council, extended warmest congratulations to President Dissanayake. He also thanked Dissanayake for taking the time, while being a candidate, to attend the NCCSL ‘Voice of Leaders’ forum to educate his vision to members.
+
+...
+
+[Data](articles/3ea3e17c.json)
+
+[Extended Data](ext_articles/3ea3e17c.ext.json)
+
+---
+
+### AmCham Sri Lanka gets new Secretary General
+
+*2024-09-24 03:26:58* · [`dailyftlk`](https://www.ft.lk/business/AmCham-Sri-Lanka-gets-new-Secretary-General/34-767064) · `en`
+
+The AmCham Sri Lanka has announced the appointment of Neelika Tillekeratne as the new Secretary General.
+
+The AmCham said her extensive experience in leading prestigious organisations and her commitment to environmental stewardship bring in a wealth of timely knowledge to the Chamber.
+
+Tillekeratne is a seasoned Marketing and Communications professional with an extensive track record spanning over 25 years. With over 20 years of leadership expertise within renowned multinational corporations, including Coca-Cola and Unilever, as well as a distinguished tenure at a local conglomerate, CIC Holdings PLC, her experience encompasses a diverse range of sectors such as multinational organisations, fintech, agri, pharma, investment banking, real estate, and manufacturing.
+
+Most recently, she concluded her role as the Communications Director for the USAID Sri Lanka Energy Program.
+
+◼️
+
+[Data](articles/fae90122.json)
+
+[Extended Data](ext_articles/fae90122.ext.json)
+
+---
+
+### SAPPTA congratulates President Anura Kumara Dissanayake
+
+*2024-09-24 03:23:38* · [`dailyftlk`](https://www.ft.lk/business/SAPPTA-congratulates-President-Anura-Kumara-Dissanayake/34-767063) · `en`
+
+The Spices and Allied Products Producers’ and Traders’ Association (SAPPTA) yesterday extended its congratulations to President Anura Kumara Dissanayake, who was sworn in as the ninth Executive President of Sri Lanka.
+
+In a statement, the SAPPTA expressed confidence in the President’s leadership and commitment to advancing the country’s economic and development goals.
+
+The Association pledged its support to collaborate with the new administration in addressing key challenges and opportunities in the sector. “We look forward to working closely with President Dissanayake to promote the growth of the spice industry and enhance export potential,” SAPPTA President Christopher Fernando said.
+
+He emphasised the importance of addressing some of the key reforms and Government support to boost the country’s spice production and exports to surpass the $ 1 billion mark.
+
+◼️
+
+[Data](articles/319db49a.json)
+
+[Extended Data](ext_articles/319db49a.ext.json)
+
+---
 
 ### Will NPP embrace a new development trajectory?
 
@@ -1831,291 +2059,5 @@ At the same time, it was ordered to seal the restaurant until the owner's restau
 [Data](articles/ce8579c6.json)
 
 [Extended Data](ext_articles/ce8579c6.ext.json)
-
----
-
-### Lanka Sathosa Chairman resigns
-
-*2024-09-23 13:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102211/lanka-sathosa-chairman-resigns-) · `en`
-
-The Chairman of the Lanka Sathosa, Pasanda Yapa Abeywardena has resigned from his position.
-
-Abeywardena has sent his resignation letter to the Minister of Trade Nalin Fernando today (23).
-
-In his resignation letter, Abeywardena has stated that he made this decision allowing the newly elected President to appoint a new Chairman for Lanka Sathosa Ltd. as he sees fit.
-
-◼️
-
-[Data](articles/4e9e1628.json)
-
-[Extended Data](ext_articles/4e9e1628.ext.json)
-
----
-
-### The corpse of the missing teacher during the sea tirtha
-
-*2024-09-23 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194587) · `ta`
-
-Teacher's body recovered from sea during temple ritual. Two deaths reported. Anatomical exam conducted before handing over to relatives. Incident shocks devotees.
-
-🟩
-
-Yall. During the Vallipura Alwar Temple Sea Tirtha, the body of a rescued teacher has been handed over to relatives.
-
-Dayasilan Vaishnavan (age 28), a resident of Vembadi Women's College, was drowned in the sea during the sea tirtha last Tuesday.
-
-He was found dead in the sea near the Tamil Nadu seas on Saturday (21) as he was searching for him.
-
-The body was brought to the shore and handed over to the Pedro Base Hospital for anatomical examination.
-
-The body was handed over to relatives on Sunday (22) following the body's anatomical examination and death investigation
-
-Meanwhile, Kandasamy Vinokaran (age 54), a rescue of the sea, was found dead on the same day.
-
-This time, two people drowned in the sea during the sea tirtha have shocked the devotees.
-
-◼️
-
-[Data](articles/95431934.json)
-
-[Extended Data](ext_articles/95431934.ext.json)
-
----
-
-### Will the new president fulfill the aspirations of the minority?
-
-*2024-09-23 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194590) · `ta`
-
-The new president's role is to fulfill minority aspirations while maintaining democratic principles, supporting political, economic development, and peace.
-
-🟩
-
-Whatever the new president is, it is the duty of all of us to accept the people's democratic basis and support the country's political development, economic development and peace ...
-
-◼️
-
-[Data](articles/2096b37d.json)
-
-[Extended Data](ext_articles/2096b37d.ext.json)
-
----
-
-### Dr. Nandika Sanath Kumanayake appointed as the new President's Secretary
-
-*2024-09-23 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/194602) · `ta`
-
-Dr. Nandika Sanath Kumanayake named President's Secretary under Anura Kumara Dissanayake.
-
-🟩
-
-Dr. Nandika Sanath Kumanayake has been appointed as the Secretary of the new President Anura Kumara Dissanayake, the Government Information Department said.
-
-◼️
-
-[Data](articles/361e2a46.json)
-
-[Extended Data](ext_articles/361e2a46.ext.json)
-
----
-
-### CWE Chairman resigns
-
-*2024-09-23 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201469) · `si`
-
-CWE Chairman resigns, citing new President's appointment. Sent letter to Minister Nalin Fernando.
-
-🟩
-
-He has sent a letter to the Minister of Trade, Commerce and Food Security Nalin Fernando.
-
-It states that he resigns with the appointment of a chairman for the new President.
-
-◼️
-
-[Data](articles/f83cc931.json)
-
-[Extended Data](ext_articles/f83cc931.ext.json)
-
----
-
-### Over 21% registered voters didn’t vote in presidential election - EC
-
-*2024-09-23 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102210/over-21-registered-voters-didnt-vote-in-presidential-election-ec) · `en`
-
-The Commissioner General of Elections Saman Sri Ratnayake states that over 3.5 million citizens who are eligible to vote, have not casted their votes during 2024 Presidential Election.
-
-Speaking during Ada Derana’s current affairs programme “Big Focus” on Monday (23), Ratnayake said that the figure is 21.54% of the population that are eligible to cast their vote.
-
-Furthermore, he clarified that out of 17,140,354 registered voters, a total of 13,619,916 have cast their votes in the Presidential Election which is 79.46%, while 3,520,438 (21.54%) did not vote.
-
-Meanwhile, approximately 300,300 (2.2%) votes were rejected, according to the Elections Commissioner General.
-
-...
-
-[Data](articles/55d0944f.json)
-
-[Extended Data](ext_articles/55d0944f.ext.json)
-
----
-
-### Dr. Nandika to be appointed Secretary to the President
-
-*2024-09-23 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201468) · `si`
-
-Dr. Nilika Sanath named Secretary to the President. New President appointed for Sri Lanka. Cabinet formed. Parliament dissolution planned. Anura Dissanayake to appoint Lakshman Nipunarachchi for vacant parliamentary seat.
-
-🟩
-
-Dr. Nilika Sanath has been appointed as the Secretary to the President.
-
-The new President has been appointed as the new President of the National Fundamental Executive President as the new Executive President of Sri Lanka.
-
-Meanwhile, referring to the media after his swearing in the president, National Executive Member Sunil Handunnetti is due to dissolve the Parliament.
-
-He added that the decision was made after appointing the new cabinet.
-
-Meanwhile, Anura Dissanayake is due to appoint Lakshman Nipunarachchi next to the Lecture List for the post-emptied parliamentary seat after Anura Dissanayake was appointed President.
-
-◼️
-
-[Data](articles/7a02d7d0.json)
-
-[Extended Data](ext_articles/7a02d7d0.ext.json)
-
----
-
-### New Secretary to the President appointed
-
-*2024-09-23 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102209/new-secretary-to-the-president-appointed-) · `en`
-
-Dr. Nandika Sanath Kumanayake has been appointed as the Secretary to the President, the Government Information Department announced.
-
-Dr. Kumanayake had previously served as the Deputy Director of Sri Lanka Customs, focusing on research areas such as Corruption and Integrity in Customs, International Trade, and Development Economics.
-
-◼️
-
-[Data](articles/96424c28.json)
-
-[Extended Data](ext_articles/96424c28.ext.json)
-
----
-
-### Parliamentary election at the end of November?
-
-*2024-09-23 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194603) · `ta`
-
-Sri Lanka parliamentary election: End of November; Anurakumara elected President; Election monitors confirm November date; Announcement expected October 25; Nomination period October 4-11; Election window November 22-30.
-
-🟩
-
-Anurakumara has been elected as the new President of Sri Lanka, which is expected to take place at the end of November.
-
-During the election victory, Anura Kumaratisanayake has outlined the parliamentary election, but he does not mention when the election will take place.
-
-Election monitors have said that the election of Parliament will be held at the end of November this week in accordance with its previous announcements.
-
-Elections Superintendent Keerthi Tennakoon said the announcement of the dissolution of Parliament and the election of the election may be issued on the 25th.
-
-Ten days after the announcement of the nomination papers, by October 4 - seven days to file nominations
-
-The election date - from 22nd to 30th of November - the parliament will be dissolved within 52 to 66 days.
-
-◼️
-
-[Data](articles/85f3987b.json)
-
-[Extended Data](ext_articles/85f3987b.ext.json)
-
----
-
-### Catherine Westin, congratulations to the new president
-
-*2024-09-23 13:06:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-கேத்ரின்-வெஸ்ட்டின்-வாழ்த்து/175-344308) · `ta`
-
-Here's a 200-character summary:
-
-
-
-UK MP Catherine West congratulates Anuragumara Dissanayake on becoming Sri Lanka's 9th Executive President.
-
-🟩
-
-United Kingdom MP Katherine West has posted on his Twitter on his Twitter congratulations to Anuragumara Dissanayake, the 9th Executive President of Sri Lanka.
-
-◼️
-
-[Data](articles/08cb4441.json)
-
-[Extended Data](ext_articles/08cb4441.ext.json)
-
----
-
-### Parliament emptying in parliament
-
-*2024-09-23 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201467) · `si`
-
-Anura's president resigns; new president elected. Parliament empties. Secretary General informs Elections Commission. National popularity to fill vacant seat. Arrangements to be made.
-
-🟩
-
-He was the resignation of elected President of Anura, as the new President.
-
-Mrs. Kushani Rohana, Secretary General of Parliament has been informed to the Elections Commission.
-
-The Elections Commission states that the national popularity is to be appointed as the vacant parliamentarian.
-
-The Commissioner General of the Commission Saman Sri Ratnayake participating at the Ada Derana Big FUCUS Program, said that necessary arrants will take place.
-
-◼️
-
-[Data](articles/2072c9c4.json)
-
-[Extended Data](ext_articles/2072c9c4.ext.json)
-
----
-
-### Chinese president also congratulates the new president
-
-*2024-09-23 12:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-சீன-ஜனாதிபதியும்-வாழ்த்து/175-344307) · `ta`
-
-Chinese President Xi Jinping congratulates Anura Kumaratisanayake as Sri Lanka's new president. He extends greetings from the Chinese government and people. The two nations have maintained diplomatic ties for 67 years, fostering mutual support and cooperation. Xi expresses eagerness to enhance bilateral relations, strengthen political trust, and promote joint success in the Belt and Road Initiative.
-
-🟩
-
-Chinese President Xi Jinping congratulates Anura Kumaratisanayake, the new president of Sri Lanka.
-
-He congratulated the Chinese government and on behalf of the people.
-
-Sri Lanka and China are traditional alienated neighbors and the two countries have been in 67 years of diplomatic relations and the two countries have been mutually understanding and supporting each other.
-
-This is the best examples of the two countries and the cooperation of mutual benefit between different countries.
-
-I am eager to carry out a great deal of Sri Lankan Chinese relations, to carry out the traditional friendship with you, to strengthen mutual political confidence and achieve successful things in the new silk road.
-
-◼️
-
-[Data](articles/1ed6671a.json)
-
-[Extended Data](ext_articles/1ed6671a.ext.json)
-
----
-
-### Central Province Governor resigns
-
-*2024-09-23 12:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மத்திய-மாகாண-ஆளுநர்-இராஜினாமா/76-344305) · `ta`
-
-Central Province Governor resigns: Lalit U Kamage steps down. New governor likely to be chosen from Kandy-based senior politician with local expertise.
-
-🟩
-
-The Central Provincial Governor's Office spokesman said that Lalit U Kamage, the Governor of the Central Province, has submitted a letter of resignation from the post of Governor.
-
-According to the most reliable political sources, one of the two senior politicians living in Kandy with special knowledge and experience in all aspects of the Central Province and Kandy is likely to be appointed as the new Governor of the Central Province.
-
-◼️
-
-[Data](articles/c92bb1b0.json)
-
-[Extended Data](ext_articles/c92bb1b0.ext.json)
 
 ---

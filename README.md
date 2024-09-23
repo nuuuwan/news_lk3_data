@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 10:38:34**
+As of **2024-09-23 10:57:05**
 
 ## Newspaper Stats
 
-*Scraped **45,724** Articles*
+*Scraped **45,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,194 @@ colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,757
 dailyftlk | 3,030
-adalk | 4,199
+adalk | 4,201
 dailymirrorlk | 4,733
 adaderanalk | 5,381
-tamilmirrorlk | 6,082
-virakesarilk | 7,300
+tamilmirrorlk | 6,083
+virakesarilk | 7,304
 adaderanasinhalalk | 7,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,719 (100.0%) of 45,724 articles have been extended.
+45,731 (100.0%) of 45,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
 
-### ආණ්ඩුකාරවරු දෙදෙනෙක් ඉල්ලා අස්වෙති
+### I will work together with all countries and everyone - the President is sure
+
+*2024-09-23 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194576) · `ta`
+
+President Anura Kumara Dissanayake pledges international cooperation, emphasizing collaboration with all nations and implementation of general policies during his inauguration as Sri Lanka's 9th Executive President.
+
+🟩
+
+President Anura Kumara Dissanayake promised to work with all countries and everyone.
+
+Anurakumara Dissanayake, Chief Justice of the Sri Lanka Democratic Socialist Republic, was sworn in as the 9th Executive President of the Republic of Sri Lanka.
+
+The swearing -in ceremony was held at the Presidential Secretariat this morning.
+
+It is not only democratic to hold elections and elect the head of state.
+
+Cannot be solitary as a country. President Anuragumara Dissanayake added that he will work with all countries and work with the general policy.
+
+◼️
+
+[Data](articles/0cf9ffd6.json)
+
+[Extended Data](ext_articles/0cf9ffd6.ext.json)
+
+---
+
+### Shooting in Colombo;One injury
+
+*2024-09-23 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/194571) · `ta`
+
+Colombo shooting: One injured in Maligawatte. Unidentified motorcyclist fires at 52-year-old hotel owner. Suspect remains unknown. Police investigating.
+
+🟩
+
+One person was injured in a shooting in Sri Satharma Mawatha area in Colombo, Maligawatte, Colombo, police said.
+
+An unidentified person who was riding a motorcycle on a motorcycle on Sunday night (22) night in Maligawatta, Maligawatte, fired at a man in front of a house.
+
+The owner of the 52 -year -old Dehiwala Soul Beach Hotel, a resident of Maligawatte, has been injured.
+
+Also, the suspect who carried out the shooting has not yet been identified. Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/76105cee.json)
+
+[Extended Data](ext_articles/76105cee.ext.json)
+
+---
+
+### The work I have received to make this challenge is done properly
+
+*2024-09-23 10:20:44* · [`adalk`](https://www.ada.lk/breaking_news/මේ-අභියෝගය-පියමන්-කිරීමට-මට-ලැබී-ඇති-වැඩ-කොටස-නිසි-පරිදි-සිදු-කරනවා/11-412082) · `si`
+
+Here's a 200-character summary:
+
+
+
+Anura Kumara Dissanayake inaugurated as 9th President. Addressed nation, emphasizing readiness to address challenges responsibly.
+
+🟩
+
+Anura Kumara Dissanayake was sworn in as the 9th President.
+
+President Anura Kumara Dissanayake addressed the nation.
+
+I know that I have the leading and main responsibility of the country as the president of the country. Therefore, I am ready to convince this society that I am responsible for this challenge every time I am ready to convince this challenge every time.
+
+◼️
+
+[Data](articles/aadb28d4.json)
+
+[Extended Data](ext_articles/aadb28d4.ext.json)
+
+---
+
+### Anuragumara Dissanayake was sworn in as president
+
+*2024-09-23 10:17:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதியாக-அனுரகுமார-திஸாநாயக்க-பதவியேற்றார்/150-344290) · `ta`
+
+Anuragumara Dissanayake inaugurated as Sri Lanka's 9th president on 23rd at Presidential Secretariat.
+
+🟩
+
+Anuragumara Dissanayake was sworn in as the ninth president of Sri Lanka on Monday (23) at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/3eec09b2.json)
+
+[Extended Data](ext_articles/3eec09b2.ext.json)
+
+---
+
+### Two Governors resign
 
 *2024-09-23 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201461) · `si`
 
-ඒ අනුව උතුරු මැද පළාත් ආණ්ඩුකාර මහීපාල හේරත් සහ සබරගමු පලාත් ආණ්ඩුකාර නවීන් දිසානායක තමන් දැරූ ආණ්ඩුකාර තනතුරින් ඉල්ලා අස් වී තිබේ.
+Two governors resign: Maheepala Herath (North Central) and Naveen Dissanayake (Sabaragamuwa). Both step down from their positions.
+
+🟩
+
+Governor of the North Central Province Maheepala Herath and Sabaragamuwa Province, Naveen Dissanayake has resigned from his post.
 
 ◼️
 
 [Data](articles/bbaed7d1.json)
 
+[Extended Data](ext_articles/bbaed7d1.ext.json)
+
 ---
 
-### අනුර කුමාර දිසානායක 09 වැනි විධායක ජනාධිපති ලෙස දිවුරුම් දෙයි
+### Anura complaints
+
+*2024-09-23 10:10:19* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ජනපති-ලෙස-දිවුරුම්-දෙයි/11-412081) · `si`
+
+Here's a 200-character summary:
+
+
+
+Anura Kumara Dissanayake becomes 9th President of Sri Lanka, sworn in at Presidential Secretariat.
+
+🟩
+
+Anura Kumara Dissanayake was sworn in as the 9th Executive President of Sri Lanka at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/89cb259f.json)
+
+[Extended Data](ext_articles/89cb259f.ext.json)
+
+---
+
+### Anura Kumara Dissanayake sworn in as the 9th Executive President
 
 *2024-09-23 10:10:05* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-කුමාර-දිසානායක-09-වැනි-විධායක-ජනාධිපති-ලෙස-දිවුරුම්-දෙයි/11-412080) · `si`
 
-මෙරට 09 වැනි විධායක ජනාධිපතිවරයා ලෙස අනුර කුමාර දිසානායක මහතා මීට සුළු මොහොතකට පෙර අගවිනිසුරුවරයා ඉදිරියේ දිවුරුම් දෙනු ලැබුවේය.
+Anura Kumara Dissanayake inaugurated as 9th Sri Lankan president. Sworn in by Chief Justice, marking historic moment in country's political landscape.
+
+🟩
+
+Anura Kumara Dissanayake was sworn in before the Chief Justice as the 9th Executive President of Sri Lanka.
 
 ◼️
 
 [Data](articles/e6753fcc.json)
+
+[Extended Data](ext_articles/e6753fcc.ext.json)
+
+---
+
+### Anurakumara Dissanayake sworn in as the 9th executive president of Sri Lanka
+
+*2024-09-23 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194575) · `ta`
+
+Anurakumara Dissanayake inaugurated as Sri Lanka's 9th president. Sworn in by Chief Justice Jayantha Jayasuriya at Presidential Secretariat.
+
+🟩
+
+Anurakumara Dissanayake was sworn in as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka.
+
+In the presence of Chief Justice Jayantha Jayasuriya, Anurakumara Dissanayake was sworn in as the 9th executive president of the country.
+
+The swearing -in ceremony was held at the Presidential Secretariat this morning.
+
+◼️
+
+[Data](articles/22290004.json)
+
+[Extended Data](ext_articles/22290004.ext.json)
 
 ---
 
@@ -64,37 +214,53 @@ Anura Kumara Dissanayake has been sworn in as the 9th Executive of the Democrati
 
 He was ceremonially sworn in as the country’s new President before Chief Justice Jayantha Jayasuriya at the Presidential Secretariat in Colombo.
 
-The swearing in ceremony commenced following Dissanayake’s arrival at the Presidential Secretariat.
+The swearing in ceremony commenced following Dissanayake’s arrival at the Presidential Secretariat with a large number of party supporters and well-wishers gathered outside to welcome him.
+
+After taking oath as the new President in a simple ceremony, Dissanayake delivered a brief statement emphasizing his commitment to the nation and the citizens of Sri Lanka.
 
 The Election Commission declared 56-year-old Anura Kumara Dissanayake the winner last night after the second round of counting.
 
-◼️
+...
 
 [Data](articles/1d09282b.json)
 
+[Extended Data](ext_articles/1d09282b.ext.json)
+
 ---
 
-### නව ජනපති ලෙස අනුර දිවුරුම් දෙයි
+### Anura oaths as new President
 
 *2024-09-23 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201460) · `si`
 
-09 වන විධායක ජනාධිපතිවරයා ලෙස අනුර කුමාර දිසානායක මහතා මීට සුළු වේලාවකට පෙර ධුරයේ දිවුරුම් දුන්නේය.
+Here's a 200-character summary:
 
-ඒ අගවිනිසුරු ජයන්ත ජයසුරිය මහතා ඉදිරියේ, ජනාධිපති ලේකම් කාර්යාලයේ දී ය.
 
-සිය ධුරයේ දිවුරුම් දීමෙන් අනතුරුව අනුර කුමාර දිසානායක මහතා, ජාතිය අමතා විශේෂ ප්‍රකාශයක් සිදුකරමින් සිටී.
 
-1966 වසරේ නොවැම්බර් මස 24 වනදා උපත ලැබු අනුර කුමාර දිසානායක මහතා තඹුත්තේගම ප්‍රාථමික විද්‍යාලයෙන් සිය ප්‍රාථමික අධ්‍යාපනය ලබා ගනු ලැබීය.
+Anura Kumara Dissanayake sworn in as Sri Lanka's 9th President. Formerly JVP leader, educated at Thambuttegama schools. Won 2000 parliamentary seat, served as National List MP from 2010. Ran for president in 2019, receiving 3.16% of votes. Led National Folk Council since 2021.
 
-අනතුරුව තඹුත්තේගම මධ්‍ය මහා විද්‍යාලයට ඇතුලත් ව අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගය සඳහා විද්‍යා ගණිත අංශයෙන් පෙනී සිටිමින් විශ්වවිද්‍යාල අධ්‍යාපනය සඳහා සුදුසුකම් ලබා ගැනීමට සමත් වුණි.
+🟩
 
-1992 වර්ෂයේ දී කැලණිය විශ්වවිද්‍යාලයේ විද්‍යා පීඨයට ඇතුළත් වු අනුර කුමාර දිසානායක මහතා 1995 වර්ෂයේ දී විද්‍යාවේදී උපාධිය ලබාගෙන තිබේ.
+Anura Kumara Dissanayake was sworn in as the post before he was the 9th Executive President.
 
-1987 වසරේ දී එවකට පැවති ආණ්ඩුව විසින් අත්සන් කරන ලද ඉන්දු - ලංකා ගිවිසුමට එරෙහිව රට පුරා ගොඩ නැගුණු දැවැන්ත මහජන විරෝධතාවලට ශිෂ්‍ය ක්‍රියාධරයෙකු ලෙස දායකත්වය ලබාදුන් ඔහු සමාජවාදී ශිෂ්‍ය සංගමයේ ක්‍රියාකාරිකයෙකු බවට පත් වුණි.
+The Chief Justice Jayantha Jayasuriya is at the Presidential Secretariat.
+
+After his swearing in office, Anura Kumara Dissanayake is addressing the race.
+
+Anura Kumara Dissanayake received his primary education at Thambuttegama Primary School on November 24, 1966.
+
+Thereafter, the GCE Advanced Level examination included in the GCE Advanced Level Examination, including the GCE Advanced Level Examination included in the Thambuttegama Central College.
+
+Anura Kumara Dissanayake, who was admitted to the Vidyalaya of University of Kelaniya in 1992, has graduated in Science in 1995.
+
+He contributed to the massive popular protests throughout the country against the Indo-Lanka Accord celebrated in 1987 in 1987.
+
+Anura Kumara Dissanayake has won the post of National Organizer of the Socialist Students Union in 1997 after the massive state repression was undergoing repression.
 
 ...
 
 [Data](articles/776ad57d.json)
+
+[Extended Data](ext_articles/776ad57d.ext.json)
 
 ---
 
@@ -243,6 +409,24 @@ Mr. Gunawardena has also congratulated the newly elected President of Sri Lanka,
 [Data](articles/ca4c7d78.json)
 
 [Extended Data](ext_articles/ca4c7d78.ext.json)
+
+---
+
+### Prime Minister Dinesh Gunawardena resigns
+
+*2024-09-23 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/194570) · `ta`
+
+Sri Lanka Prime Minister Dinesh Gunawardena resigns, submits letter to President Ranil Wickremesinghe.
+
+🟩
+
+Prime Minister Dinesh Gunawardena has sent his resignation letter to President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/090c9b17.json)
+
+[Extended Data](ext_articles/090c9b17.ext.json)
 
 ---
 
@@ -454,17 +638,23 @@ The meeting was held following the announcement of Dissanayake as President by t
 
 ---
 
-### අනුර නව ජනපති ලෙස පත් කිරීමේ ගැසට්ටුව නිකුත් කරයි
+### Issues the gazette to appoint Anura New President
 
 *2024-09-23 08:31:06* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-නව-ජනපති-ලෙස-පත්-කිරීමේ-ගැසට්ටුව-නිකුත්-කරයි/11-412076) · `si`
 
-2024 ජනාධිපතිවරණය මගින්   නව ජනාධිපති ලෙස අනුර කුමාර දිසානායක මහතා තෝරා පත්කර ගැනීම  පිළිබඳව වූ අති විශේෂ ගැසට් පත්‍රය මැතිවරණ කොමිෂන් සභාව විසින් ඊයේ( 22) දාතමින් නිකුත් කර කෙරිණි .
+Elections Commission appoints Anura as new president. Gazette issued under Article 15 of 1981 Act. Senior Kumara Dissanayake declared president under Section 64(2).
 
-ඒ අනුව 1981 අංක 15 දරන ජනාධිපතිවරයා තෝරා පත්කර ගැනීම පිලිබඳ පනතේ 61 වන වගන්තිය යටතේ අනුර කුමාර දිසානායක මහතා ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ජනාධිපතිවරයා ලෙස තෝරා පත්කර ගත්  ලෙස ප්‍රකාශයට පත්කළ බව එම පනතේ 64(2) වගන්තිය යටතේ මැතිවරණ කොමිෂන් සභාව විසින්   මෙම ගැසට් නිවේදනය මගින් ප්‍රකාශයට පත් කර තිබේ.
+🟩
+
+The Elections Commission was released by the Elections Commission yesterday (22).
+
+According to Section 61 of Articles Act No. 15 of 1981, Senior Kumara Dissanayake was declared as the President of the Democratic Socialist Republic of Sri Lanka, by the Elections Commission under Section 64 (2)Published.
 
 ◼️
 
 [Data](articles/42796475.json)
+
+[Extended Data](ext_articles/42796475.ext.json)
 
 ---
 
@@ -2057,145 +2247,5 @@ The second preference of the Presidential Election was established this evening 
 [Data](articles/1cdc7e21.json)
 
 [Extended Data](ext_articles/1cdc7e21.ext.json)
-
----
-
-### The success of the new Sri Lanka will be the beginning of the success of Anura - Manohanesan
-
-*2024-09-22 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194551) · `ta`
-
-Manohanesan hopes Anuragumara Dissanayake's win marks Sri Lanka's new era, emphasizing pluralism and social justice. He congratulates Dissanayake and thanks voters in several provinces for supporting Sajith Premadasa.
-
-🟩
-
-Manohanesan, the leader of the Tamil Progressive Corporation and Member of Parliament, has expressed hope that the success of Anuragumara Dissanayake will be the beginning of the new Sri Lanka, including the principles of pluralism and social justice.
-
-Manohanesan, who posted on his official 'X' site on his official 'X' site, congratulated his victory, while he was contesting on behalf of the National People's Power, as the first votes of the country's ninth presidential election were counted.
-
-'Congratulations to Anurakumara Dissanayake, who received the people's mandate. Similarly, we thank the voters of the Central, Upper, Sabaragamuwa and Media provinces for the success of Sajith Premadasa.. The democratic process has emerged. I hope that this victory of Anuragumara Dissanayake will be the beginning of the new Sri Lanka, including the principles of pluralism and social justice. ”
-
-◼️
-
-[Data](articles/6d82928e.json)
-
-[Extended Data](ext_articles/6d82928e.ext.json)
-
----
-
-### Moneragala Second Preferences
-
-*2024-09-22 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201444) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Anura Kumara Dissanayake received 1,3395 preferential votes as his second preference in Moneragala.
-
-🟩
-
-The second number of preferential votes received by Anura Kumara Dissanayake was 1,3,395.
-
-◼️
-
-[Data](articles/b8af1302.json)
-
-[Extended Data](ext_articles/b8af1302.ext.json)
-
----
-
-### Ranil allowed the new president
-
-*2024-09-22 19:07:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-இடமளித்தார்-ரணில்/175-344258) · `ta`
-
-Ranil Wickremesinghe vacated presidential office, handing over state vehicles to new president.
-
-🟩
-
-President Ranil Wickremesinghe removed his possessions at the presidential office on Sunday (22) to accommodate the country's new president.
-
-It is also worth noting that all the state vehicles belonging to the presidency have been handed over from the official residence of Bejet Road.
-
-◼️
-
-[Data](articles/118d4709.json)
-
-[Extended Data](ext_articles/118d4709.ext.json)
-
----
-
-### Second preferential result of Matara
-
-*2024-09-22 19:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201443) · `si`
-
-Anura Kumara Dissanayake received 3,130 preferential votes as his second-best result in Matara.
-
-🟩
-
-The second number of preferential votes received by Anura Kumara Dissanayake was 3,130 preferential votes.
-
-◼️
-
-[Data](articles/ae65e8ff.json)
-
-[Extended Data](ext_articles/ae65e8ff.ext.json)
-
----
-
-### Second preferential result of Matale
-
-*2024-09-22 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201442) · `si`
-
-Anura Kumara Dissanayake received 1,909 second preference votes in Matale.
-
-🟩
-
-Second of the second preferential votes received by Anura Kumara Dissanayake is 1,909.
-
-◼️
-
-[Data](articles/cde9a8f8.json)
-
-[Extended Data](ext_articles/cde9a8f8.ext.json)
-
----
-
-### Second preferential result of Hambantota
-
-*2024-09-22 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201441) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Anura Kumara Dissanayake received 1,763 second-preference votes in Hambantota. This was his second-best result among all candidates.
-
-🟩
-
-Second of the second preferential votes received by Anura Kumara Dissanayake was 1763.
-
-◼️
-
-[Data](articles/52c0a919.json)
-
-[Extended Data](ext_articles/52c0a919.ext.json)
-
----
-
-### Second preferential consequence of Badulla
-
-*2024-09-22 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201440) · `si`
-
-Anura Kumara Dissanayake received 3,437 preferential votes as his second preference in Badulla.
-
-🟩
-
-The second number of preferential votes received by Anura Kumara Dissanayake was 3,437.
-
-◼️
-
-[Data](articles/c9e1b687.json)
-
-[Extended Data](ext_articles/c9e1b687.ext.json)
 
 ---

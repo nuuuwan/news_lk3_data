@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 16:23:00**
+As of **2024-09-23 16:55:34**
 
 ## Newspaper Stats
 
-*Scraped **45,806** Articles*
+*Scraped **45,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,768
 dailyftlk | 3,030
 adalk | 4,208
 dailymirrorlk | 4,733
-adaderanalk | 5,394
+adaderanalk | 5,396
 tamilmirrorlk | 6,098
 virakesarilk | 7,319
 adaderanasinhalalk | 7,931
@@ -26,11 +26,43 @@ adaderanasinhalalk | 7,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,806 (100.0%) of 45,806 articles have been extended.
+45,808 (100.0%) of 45,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Lakshman Nipuna Arachchi appointed to Anura’s MP seat
+
+*2024-09-23 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102217/lakshman-nipuna-arachchi-appointed-to-anuras-mp-seat) · `en`
+
+The Election Commission has gazetted the name of Lakshman Nipuna Arachchi to fill the vacancy created in parliament following the election of Anura Kumara Dissanayake as the 9th executive President of Sri Lanka.
+
+Accordingly, Lakshman Nipuna Arachchi has been appointed to the Parliament as a Colombo District MP of the National People’s Power (NPP).
+
+He was next on the preference list for the district in 2020 General Elections after Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/0ad2b19a.json)
+
+[Extended Data](ext_articles/0ad2b19a.ext.json)
+
+---
+
+### CSE’s ASPI gains over 130 points
+
+*2024-09-23 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102216/cses-aspi-gains-over-130-points) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has increased by 130.3 points to close at 11,096.81 today (23).
+
+◼️
+
+[Data](articles/b05384a7.json)
+
+[Extended Data](ext_articles/b05384a7.ext.json)
+
+---
 
 ### Worship at the new President's Dalada House
 
@@ -2173,55 +2205,5 @@ The meeting was held following the announcement of Dissanayake as President by t
 [Data](articles/66f3e9d6.json)
 
 [Extended Data](ext_articles/66f3e9d6.ext.json)
-
----
-
-### Issues the gazette to appoint Anura New President
-
-*2024-09-23 08:31:06* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-නව-ජනපති-ලෙස-පත්-කිරීමේ-ගැසට්ටුව-නිකුත්-කරයි/11-412076) · `si`
-
-Elections Commission appoints Anura as new president. Gazette issued under Article 15 of 1981 Act. Senior Kumara Dissanayake declared president under Section 64(2).
-
-🟩
-
-The Elections Commission was released by the Elections Commission yesterday (22).
-
-According to Section 61 of Articles Act No. 15 of 1981, Senior Kumara Dissanayake was declared as the President of the Democratic Socialist Republic of Sri Lanka, by the Elections Commission under Section 64 (2)Published.
-
-◼️
-
-[Data](articles/42796475.json)
-
-[Extended Data](ext_articles/42796475.ext.json)
-
----
-
-### Commission is a gazett about the elections
-
-*2024-09-23 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201454) · `si`
-
-Elections Commission announces Anura Kumara Dissanayake elected 9th Executive President of Sri Lanka. Special gazette issued. Second preference count conducted due to no clear winner initially. Final tally: Dissanayake 5,740,179; Sajith Premadasa 4,363,035.
-
-🟩
-
-The Elections Commission has announced that he was elected President of the Democratic Socialist Republic of Sri Lanka under Section 61 of the Act.
-
-It is said that this has been announced by a special gazette by the Elections Commission.
-
-The election to elect the 9th Executive President of Sri Lanka was held on Saturday last Saturday.
-
-The second and third preferential calculations were calculated for candidates in the first and second places as a candidate could not be obtained in the election.
-
-Anura Kumara Dissanayake obtained 105,264 preferential votes and Sajith Premadasa received 167,867 preferential votes.
-
-Accordingly, Anura Kumara Dissanayake increased to 5,740,179 votes and Sajith Premadasa rose to 4,363,035.
-
-According to the results of the election, Anura Kumara Dissanayake is elected to the 9th Executive President of the Commission, Mr. RMA V. Ratnayake said yesterday (22).
-
-◼️
-
-[Data](articles/fda8c130.json)
-
-[Extended Data](ext_articles/fda8c130.ext.json)
 
 ---

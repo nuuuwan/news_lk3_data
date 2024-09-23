@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 12:38:34**
+As of **2024-09-23 12:56:54**
 
 ## Newspaper Stats
 
@@ -26,25 +26,37 @@ adaderanasinhalalk | 7,923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,755 (100.0%) of 45,756 articles have been extended.
+45,756 (100.0%) of 45,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
 
-### புதிய ஜனாதிபதிக்கு புதிய  செயலாளர் நியமனம்
+### New Secretary Appointment to New President
 
 *2024-09-23 12:17:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-புதிய-செயலாளர்-நியமனம்/175-344302) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"New Secretary Appointed: The newly elected president has announced the appointment of a new secretary to their cabinet. This move aims to bring fresh perspectives and expertise to the administration."
+
+🟩
 
 ◼️
 
 [Data](articles/d42950e7.json)
+
+[Extended Data](ext_articles/d42950e7.ext.json)
 
 ---
 
 ### Lakshman Nipuna Arachchi to be appointed to Anura’s MP seat
 
 *2024-09-23 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102208/lakshman-nipuna-arachchi-to-be-appointed-to-anuras-mp-seat) · `en`
+
+The Commissioner General of Elections, Saman Sri Ratnayake announced that Laxman Nipuna Arachchi will be named an MP to fill the vacancy created in the Parliament by Anura Kumara Dissanayake’s election as President.
 
 Lakshman Nipuna Arachchi is to be appointed to the parliamentary seat left vacant by Anura Kumara Dissanayake, who has been elected as the 9th executive President of Sri Lanka.
 

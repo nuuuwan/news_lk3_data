@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 21:09:01**
+As of **2024-09-23 21:22:36**
 
 ## Newspaper Stats
 
@@ -68,6 +68,28 @@ The Israeli military spokesman today (23) said that more than 300 Hezbollah targ
 
 ---
 
+### United National Party resolution to call the United People's Power to work together - Special meeting today
+
+*2024-09-23 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194644) · `ta`
+
+UNP invites UPF to unite against national power in elections. Decision made at special meeting. Senior UNP leader calls for joint contesting.
+
+🟩
+
+The United National Party has decided to invite the United People's Power to work against the national people's power in the general election.
+
+It has been reported that this has been decided at a special meeting of the United National Party (UNP) this evening.
+
+A senior UNP leader has decided to call on the United People's Power to contest the upcoming general election.
+
+◼️
+
+[Data](articles/ba3ec2ec.json)
+
+[Extended Data](ext_articles/ba3ec2ec.ext.json)
+
+---
+
 ### Northern Governor resigns
 
 *2024-09-23 20:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-ஆளுநர்-இராஜினாமா/175-344335) · `ta`
@@ -85,28 +107,6 @@ Northern Governor steps down amid controversy. Official reasons undisclosed. Pol
 [Data](articles/ffae3dd3.json)
 
 [Extended Data](ext_articles/ffae3dd3.ext.json)
-
----
-
-### United National Party resolution to call the United People's Power to work together - Special meeting today
-
-*2024-09-23 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194644) · `ta`
-
-UNP invites UPF to unite against national power in elections. Decision made at special meeting. Senior UNP leader calls for joint contesting.
-
-🟩
-
-The United National Party has decided to invite the United People's Power to work against the national people's power in the general election.
-
-It has been reported that this has been decided at a special meeting of the United National Party (UNP) this evening.
-
-A senior UNP leader has decided to call on the United People's Power to contest the upcoming general election.
-
-◼️
-
-[Data](articles/ba3ec2ec.json)
-
-[Extended Data](ext_articles/ba3ec2ec.ext.json)
 
 ---
 

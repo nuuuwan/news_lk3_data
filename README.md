@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 15:57:46**
+As of **2024-09-23 16:12:18**
 
 ## Newspaper Stats
 
-*Scraped **45,804** Articles*
+*Scraped **45,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 454
 islandlk | 2,678
 economynextcom | 2,768
 dailyftlk | 3,030
-adalk | 4,207
+adalk | 4,208
 dailymirrorlk | 4,733
 adaderanalk | 5,394
 tamilmirrorlk | 6,097
@@ -26,11 +26,23 @@ adaderanasinhalalk | 7,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,804 (100.0%) of 45,804 articles have been extended.
+45,804 (100.0%) of 45,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### සතොස සභාපති ඉල්ලා අස්වෙයි
+
+*2024-09-23 15:17:29* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-සභාපති-ඉල්ලා-අස්වෙයි/11-412089) · `si`
+
+සතොස සභාපති පසඳ යාපා අබේවර්ධන මහතා සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+◼️
+
+[Data](articles/8f2e9261.json)
+
+---
 
 ### Appointment of Secretary to the Ministry of Public Security
 
@@ -2201,31 +2213,5 @@ Lakshman Nakunarachchi is to be appointed by the Colombo District for the seat o
 [Data](articles/c7897369.json)
 
 [Extended Data](ext_articles/c7897369.ext.json)
-
----
-
-### Maligawatte shooting
-
-*2024-09-23 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201453) · `si`
-
-Maligawatta shooting: Unidentified gunman injures 52-year-old man in Sri Saddharma Mawatha. Victim hospitalized, police investigating.
-
-🟩
-
-In Maligawatta, a person was injured in a shooting incident in Sri Saddharma Mawatha.
-
-The police said that the shooting was carried out by an unidentified person who was suspected of a motorcycle yesterday (22).
-
-The man was shot in front of the house and was admitted to the Colombo National Hospital for treatment.
-
-The 52-year-old was a resident of Malgalawatta, a 52 year old resident of Malgalawatta, police said.
-
-The suspects have not been identified yet and the Maligawatta Police have commenced further investigations to arrest them.
-
-◼️
-
-[Data](articles/084cd33a.json)
-
-[Extended Data](ext_articles/084cd33a.ext.json)
 
 ---

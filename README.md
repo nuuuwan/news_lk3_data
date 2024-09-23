@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 15:22:46**
+As of **2024-09-23 15:38:40**
 
 ## Newspaper Stats
 
-*Scraped **45,798** Articles*
+*Scraped **45,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,768
 dailyftlk | 3,030
-adalk | 4,206
+adalk | 4,207
 dailymirrorlk | 4,733
 adaderanalk | 5,394
-tamilmirrorlk | 6,094
+tamilmirrorlk | 6,097
 virakesarilk | 7,319
-adaderanasinhalalk | 7,930
+adaderanasinhalalk | 7,931
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,798 (100.0%) of 45,798 articles have been extended.
+45,803 (100.0%) of 45,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Appointment of Secretary to the Ministry of Public Security
+
+*2024-09-23 15:15:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-பாதுகாப்பு-அமைச்சின்-செயலாளர்-நியமனம்/175-344313) · `ta`
+
+Ravi Seneviratne, ex-Senior Deputy Inspector General of CID, appointed Secretary to Ministry of Public Security by President Anuradhapura Dissanayake.
+
+🟩
+
+Former Senior Deputy Inspector General of Police Ravi Seneviratne has been appointed as the Secretary to the Ministry of Public Security by President Anurakumara Dissanayake.
+
+Seneviratne is a former Senior Deputy Inspector General of Police of the Criminal Investigation Department (CID).
+
+◼️
+
+[Data](articles/0043581e.json)
+
+[Extended Data](ext_articles/0043581e.ext.json)
+
+---
+
+### New Secretary of the Ministry of Defense will be appointed
+
+*2024-09-23 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201473) · `si`
+
+Ravi Seneviratne named new Defense Minister Secretary. Former senior DIG appointed to key position.
+
+🟩
+
+Former senior DIG Ravi Seneviratne has been appointed as the new Secretary of the Ministry of Defense.
+
+◼️
+
+[Data](articles/ef386523.json)
+
+[Extended Data](ext_articles/ef386523.ext.json)
+
+---
 
 ### Ravi Seneviratne appointed Secretary of Public Security
 
@@ -65,6 +103,50 @@ Xi said he hoped bilateral cooperation under his flagship BRI would “bear more
 [Data](articles/140876e8.json)
 
 [Extended Data](ext_articles/140876e8.ext.json)
+
+---
+
+### Sathosa leader resigns
+
+*2024-09-23 14:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-தலைவர்-இராஜினாமா/175-344312) · `ta`
+
+Sathosa leader resigns: Basantha Yapa Abeywardena steps down as director, citing need for new leadership under the newly elected president. He submits resignation letter to Commerce Minister Nalin Fernando on March 23rd.
+
+🟩
+
+Lanka Sathosa leader Basantha Yapa Abeywardena has resigned from his post.
+
+Abeywardena has sent his resignation letter to Commerce Minister Nalin Fernando today (23).
+
+He has made this decision by giving permission to the newly elected president to appoint a new chairman for Lanka Sathosa Limited.
+
+◼️
+
+[Data](articles/eec78601.json)
+
+[Extended Data](ext_articles/eec78601.ext.json)
+
+---
+
+### Appointment of New Defense Secretary
+
+*2024-09-23 14:57:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாதுகாப்புச்-செயலாளர்-நியமனம்/175-344311) · `ta`
+
+Sri Lanka appoints new Defense Secretary Air Vice Marshal Sampath Dadagonda. Retired from Sri Lanka Air Force after 33 years service. Born in Colombo 1966.
+
+🟩
+
+Air Vice Marshal (Retired) Sampath Dadagonda has been appointed as the new Defense Secretary by President Anuragumara Dissanayake.
+
+Diugonda retired from the Sri Lanka Air Force on November 26, 2021 after completing a service for more than 33 years.
+
+Born in Colombo on November 26, 1966, Tuagonda is the production of Thurston College, Colombo.
+
+◼️
+
+[Data](articles/f327c73c.json)
+
+[Extended Data](ext_articles/f327c73c.ext.json)
 
 ---
 
@@ -127,6 +209,26 @@ FCCISL Congratulates President-Elect Anura Kumara Dissanayake and Calls for a Ne
 [Data](articles/7d894943.json)
 
 [Extended Data](ext_articles/7d894943.ext.json)
+
+---
+
+### Here is the Declaration of the Prime Minister and Cabinet Ministers
+
+*2024-09-23 14:24:20* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-ධුරය-සහ-කැබිනට්-ඇමති-ධුර--ගැන-හරිණි-කළ-ප්‍රකාශය-මෙන්න/11-412088) · `si`
+
+National Prime Minister Dr. Welure Amarasuriya announced a four-member cabinet. Former PM resigned; new cabinet to be appointed soon. Process ongoing; details to be discussed tomorrow.
+
+🟩
+
+The National Prime Minister Dr. Welure Amarasuriya said that a cabinet was made to appoint a four-member cabinet and a final decision on the portfolio of the Prime Minister.
+
+"Nothing happens today. This work is going to take place as soon as possible. Former Prime Minister has resigned. Need to fill in our vacancy. When the process is over, we will appoint our cabinet. The cabinet is about four people. Let's talk about it tomorrow. "
+
+◼️
+
+[Data](articles/82a6173a.json)
+
+[Extended Data](ext_articles/82a6173a.ext.json)
 
 ---
 
@@ -2125,139 +2227,5 @@ The suspects have not been identified yet and the Maligawatta Police have commen
 [Data](articles/084cd33a.json)
 
 [Extended Data](ext_articles/084cd33a.ext.json)
-
----
-
-### Cabinet Government - Four Cabinet - National People's Power Information
-
-*2024-09-23 07:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194568) · `ta`
-
-National People's Power forms Cabinet Government. Anuragumara Dissanayake elected president. Four-member cabinet to be appointed. Harini Amarasuriya may become Prime Minister. Government to administer until next parliamentary election.
-
-🟩
-
-The National People's Power has said that the priority is to form a government as the Anuragumara Dissanayake has been elected president.
-
-The party, which has been promoted to form a Kabanth government after the election of President Anura Kumaratisanayake, has said that the government will be set up to carry out the country's administrative actions until the parliamentary election is held.
-
-Former Member of Parliament Nalinda Jayatisa said that a four -member cabinet will be appointed.
-
-He said the Cabinet would reflect the mandate issued by the people of the Cabinet.
-
-He said that our main purpose is to carry out the mandate of the people to form our government rather than join other parties.
-
-Harini Amarasuriya has not yet been decided on who is the Prime Minister, he said, adding that Harini Amarasuriya could be appointed as the prime minister of the Kapandu government.
-
-◼️
-
-[Data](articles/4a45fefd.json)
-
-[Extended Data](ext_articles/4a45fefd.ext.json)
-
----
-
-### Anura's swearing in electronic president
-
-*2024-09-23 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201452) · `si`
-
-Anura Kumara Dissanayake set to become Sri Lanka's 9th President. Born in 1966, educated at Thambuttegama Primary School and University of Kelaniya. Joined JVP in 1997, elected MP in 2000. Ran for president in 2019, won 3.16% votes. Recently elected National Folk Council leader. To be sworn in today at Presidential Secretariat.
-
-🟩
-
-Anura Kumara Dissanayake is due to be sworn in as his post today as the 9th Executive President.
-
-Anura Kumara Dissanayake is to be sworn in as the President at the Presidential Secretariat before Chief Justice Jayantha Jayasuriya.
-
-Anura Kumara Dissanayake received his primary education at Thambuttegama Primary School on November 24, 1966.
-
-Thereafter, the GCE Advanced Level examination included in the GCE Advanced Level Examination, including the GCE Advanced Level Examination included in the Thambuttegama Central College.
-
-Anura Kumara Dissanayake, who was admitted to the Vidyalaya of University of Kelaniya in 1992, has graduated in Science in 1995.
-
-He contributed to the massive popular protests throughout the country against the Indo-Lanka Accord celebrated in 1987 in 1987.
-
-Anura Kumara Dissanayake has won the post of National Organizer of the Socialist Students Union in 1997 after the massive state repression was undergoing repression.
-
-...
-
-[Data](articles/0fbc0883.json)
-
-[Extended Data](ext_articles/0fbc0883.ext.json)
-
----
-
-### Lakshman to the place of Anura
-
-*2024-09-23 07:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவின்-இடத்திற்கு-லக்ஷ்மன்/175-344280) · `ta`
-
-National People's Power (NPP) appoints Lakshman as new MP. Election Commission responsible for selection under election law. NPP General Secretary Dilvin Silva clarifies party's role in parliamentary vacancy.
-
-🟩
-
-NPP Executive Committee General Secretary Dilvin Silva said yesterday that National People's Power Member Lakshman expert, next to Anura Kumara Dissanayake, will fill the vacuum of Parliament.
-
-He told the media that the appointment of a new MP is not their job and that the Election Commission should do it under the election law.
-
-Silva said that NPP member Lakshman experts will be appointed as a new Member of Parliament by the Election Commission.
-
-◼️
-
-[Data](articles/ba67e8eb.json)
-
-[Extended Data](ext_articles/ba67e8eb.ext.json)
-
----
-
-### Congratting to new President Anura
-
-*2024-09-23 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201451) · `si`
-
-Congratulations to new President Anura Kumara Dissanayake, elected as India's High Commissioner in Sri Lanka. Leaders from both nations and international figures like PM Modi have welcomed this development, emphasizing strengthened cooperation between the two countries.
-
-🟩
-
-Anura Kumara Dissanayake was elected to be the new President of the Indian High Commissioner in Sri Lanka.
-
-The meeting was taken place yesterday (22) at the Indian High Commission.
-
-President Anura Kumara Dissanayake has been awarded the elected President of the Indian High Commissioner.
-
-Indian High Commissioner Says Mr. Commemoranda, Sanararha Jaya stated that the two countries will continue to expand their prospects of the people of the two countries.
-
-Meanwhile, Indian Prime Minister Narendra Modi has also joined the new President Anura Kumara Dissanayake.
-
-Narendra Modi puts a note of X account, says Narendra Modi is expected to work closely to strengthen the collaboration between the two countries.
-
-Meanwhile, the United States has been awarded to elected President Anura Kumara Dissanayake, who was elected to be the new President of Sri Lanka.
-
-Sri Lanka's ambassador to Sri Lanka Julie Chang, Julie Chang, has expressed his appreciation for the strong partnership between the two countries.
-
-...
-
-[Data](articles/14a74824.json)
-
-[Extended Data](ext_articles/14a74824.ext.json)
-
----
-
-### “We will support when needed”
-
-*2024-09-23 07:36:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவைப்படும்-போது-ஆதரவளிப்போம்/175-344279) · `ta`
-
-Sajith Premadasa supports Anura Kumara Dissanayake's presidency, calling it crucial to address national crisis.
-
-🟩
-
-The party's presidential candidate and opposition leader Sajith Premadasa has said that the United People's Power (SJB) new President Anura Kumara Dissanayake will support it.
-
-“It is the duty of all presidential candidates to support the country from the current crisis,” said Premadasa at the election office.
-
-I congratulate Anuragumara Dissanayake, who won the 2024 presidential election. I believe he has the strength to stabilize the nation and recover from the crisis, ”he added.
-
-◼️
-
-[Data](articles/621578ae.json)
-
-[Extended Data](ext_articles/621578ae.ext.json)
 
 ---

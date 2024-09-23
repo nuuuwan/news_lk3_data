@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 22:38:37**
+As of **2024-09-23 22:57:12**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,857 (100.0%) of 45,859 articles have been extended.
+45,859 (100.0%) of 45,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
 
-### UNP-யுடன் இணையும் SJB ; ரணிலின் இராஜதந்திரம்
+### SJB joins the UNP;Ranil's diplomacy
 
 *2024-09-23 22:15:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UNP-யுடன்-இணையும்-SJB-ரணிலின்-இராஜதந்திரம்/175-344337) · `ta`
 
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் ஐக்கிய தேசியக் கட்சியின் சிரேஷ்ட உறுப்பினர்களுடனான சந்திப்பு இன்று மாலை இடம்பெற்றதாக பிரபல ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+SJB joins UNP; Ranil leads talks. Parties unite for elections against NPP-JVP alliance. Key UNP members attend meeting.
 
-எதிர்வரும் பாராளுமன்றத் தேர்தலில் போட்டியிடுவதற்கு ஐக்கிய தேசியக் கட்சி, ஐக்கிய மக்கள் சக்தியை (SJB) இணைத்துக்கொள்ள தீர்மானிக்கப்பட்டுள்ளதாக ஐக்கிய தேசியக் கட்சியின் மூத்த உறுப்பினர் ஒருவர் தெரிவித்துள்ளார்.
+🟩
 
-இரு கட்சிகளும் மீண்டும் ஒன்றிணைய வேண்டும் என பொதுமக்கள் விடுத்த கோரிக்கையை கருத்தில் கொண்டு, எதிர்வரும் பாராளுமன்றத் தேர்தலில் ஒன்றிணைய அழைப்பு விடுக்கப்பட்டுள்ளது.
+A popular media reported that a meeting with senior members of the United National Party (UNP) led by former President Ranil Wickremesinghe took place this evening.
 
-மக்கள் விடுதலை முன்னணி (JVP) தலைமையிலான தேசிய மக்கள் சக்திக்கு (NPP) எதிராக ஏனைய கட்சிகளுடனும் கலந்துரையாடல்களை மேற்கொள்ள தீர்மானிக்கப்பட்டதாக ஐக்கிய தேசியக் கட்சியின் மூத்த உறுப்பினர் மேலும் குறிப்பிட்டார்.
+A senior member of the United National Party (UNP) has said that the United National Party has decided to join the United National Party (SJB) to contest the upcoming parliamentary elections.
 
-இந்தச் சந்திப்பில் ஐக்கிய தேசியக் கட்சியின் பிரதித் தலைவர் ருவான் விஜேவர்தன மற்றும் தலதா அத்துகோரள ஆகியோரும் கலந்துகொண்டனர். R
+Considering the public's demand for the reunion of both parties, the upcoming parliamentary election has been called for.
+
+The senior member of the United National Party further stated that it was decided to hold discussions with other parties against the National People's Power (NPP) led by the Janatha Vimukthi Peramuna (JVP).
+
+United National Party Deputy Leader Ruwan Wijewardena and Dalada Attukorala were also present at the meeting.. Remble
 
 ◼️
 
 [Data](articles/d4079527.json)
+
+[Extended Data](ext_articles/d4079527.ext.json)
 
 ---
 
@@ -56,7 +62,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-09-23 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102223/former-sri-lankan-president-gotabaya-arrives-in-kathmandu-report) · `en`
 
-Former president of Sri Lanka Gotabaya Rajapaksa has landed at the Tribhuvan International Airport via Sri Lankan Airlines on Monday.
+Former president of Sri Lanka Gotabaya Rajapaksa has landed at the Tribhuvan International Airport in Kathmandu, Nepal via Sri Lankan Airlines on Monday.
 
 A source within the embassy stated that he has plans to visit different Buddhist sites and is also scheduled to visit Bharatpur.
 
@@ -71,6 +77,8 @@ In Sri Lanka, the newly elected President Anura Kumara Dissanayake, who is Marxi
 ◼️
 
 [Data](articles/e3bed3b7.json)
+
+[Extended Data](ext_articles/e3bed3b7.ext.json)
 
 ---
 

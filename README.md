@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 08:42:34**
+As of **2024-09-23 08:58:03**
 
 ## Newspaper Stats
 
-*Scraped **45,696** Articles*
+*Scraped **45,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,757
 dailyftlk | 3,030
-adalk | 4,192
+adalk | 4,193
 dailymirrorlk | 4,733
 adaderanalk | 5,376
 tamilmirrorlk | 6,077
-virakesarilk | 7,299
-adaderanasinhalalk | 7,911
+virakesarilk | 7,300
+adaderanasinhalalk | 7,912
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,696 (100.0%) of 45,696 articles have been extended.
+45,699 (100.0%) of 45,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Commission is a gazett about the elections
+
+*2024-09-23 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201454) · `si`
+
+Elections Commission announces Anura Kumara Dissanayake elected 9th Executive President of Sri Lanka. Special gazette issued. Second preference count conducted due to no clear winner initially. Final tally: Dissanayake 5,740,179; Sajith Premadasa 4,363,035.
+
+🟩
+
+The Elections Commission has announced that he was elected President of the Democratic Socialist Republic of Sri Lanka under Section 61 of the Act.
+
+It is said that this has been announced by a special gazette by the Elections Commission.
+
+The election to elect the 9th Executive President of Sri Lanka was held on Saturday last Saturday.
+
+The second and third preferential calculations were calculated for candidates in the first and second places as a candidate could not be obtained in the election.
+
+Anura Kumara Dissanayake obtained 105,264 preferential votes and Sajith Premadasa received 167,867 preferential votes.
+
+Accordingly, Anura Kumara Dissanayake increased to 5,740,179 votes and Sajith Premadasa rose to 4,363,035.
+
+According to the results of the election, Anura Kumara Dissanayake is elected to the 9th Executive President of the Commission, Mr. RMA V. Ratnayake said yesterday (22).
+
+◼️
+
+[Data](articles/fda8c130.json)
+
+[Extended Data](ext_articles/fda8c130.ext.json)
+
+---
 
 ### Maligawatte shooting
 
@@ -55,6 +85,34 @@ The suspects have not been identified yet and the Maligawatta Police have commen
 [Data](articles/084cd33a.json)
 
 [Extended Data](ext_articles/084cd33a.ext.json)
+
+---
+
+### Cabinet Government - Four Cabinet - National People's Power Information
+
+*2024-09-23 07:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194568) · `ta`
+
+National People's Power forms Cabinet Government. Anuragumara Dissanayake elected president. Four-member cabinet to be appointed. Harini Amarasuriya may become Prime Minister. Government to administer until next parliamentary election.
+
+🟩
+
+The National People's Power has said that the priority is to form a government as the Anuragumara Dissanayake has been elected president.
+
+The party, which has been promoted to form a Kabanth government after the election of President Anura Kumaratisanayake, has said that the government will be set up to carry out the country's administrative actions until the parliamentary election is held.
+
+Former Member of Parliament Nalinda Jayatisa said that a four -member cabinet will be appointed.
+
+He said the Cabinet would reflect the mandate issued by the people of the Cabinet.
+
+He said that our main purpose is to carry out the mandate of the people to form our government rather than join other parties.
+
+Harini Amarasuriya has not yet been decided on who is the Prime Minister, he said, adding that Harini Amarasuriya could be appointed as the prime minister of the Kapandu government.
+
+◼️
+
+[Data](articles/4a45fefd.json)
+
+[Extended Data](ext_articles/4a45fefd.ext.json)
 
 ---
 
@@ -981,6 +1039,40 @@ I accepted that responsibility when many did not have much spirit of self-streng
 [Data](articles/e068f9f6.json)
 
 [Extended Data](ext_articles/e068f9f6.ext.json)
+
+---
+
+### Ranil handed over the power smoothly
+
+*2024-09-22 21:07:28* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-බලය-සුමටව-අනුරට-භාර-දෙයි/11-412074) · `si`
+
+Here's a 200-character summary:
+
+
+
+Ranil Wickremesinghe transfers power to Anura Dissanayake. Acknowledges challenges faced during presidency. Highlights achievements: reduced inflation, increased foreign reserves, improved economy. Urges new president to continue progress. Hands over "lovely child" Sri Lanka.
+
+🟩
+
+President Ranil Wickremesinghe said that he would give the new President Anura Dissanayake and thank all the people who were given the people in the presidential election on the 21st.
+
+The President has noted that the dear child, the dear child, brought them safely in the vines, and that he is safe to be able to cross the vines safely.
+
+The majority of the people in this country have been given a decision from the presidential election on September 21. We need to honor that decision. The recovery of the state of Sri Lanka must ensure the verdict.
+
+Two years ago, I took over the country in a very crisis environment that had fallen into the challenge to face the challenge.
+
+I have successfully accomplished that responsibility for me to successfully liberated this country from bankruptcy in two years.
+
+I believe that it is the most valuable role to do for my country in my political life.
+
+I was able to reduce inflation to five (0.5%) in the country at the time of the hands of the country.
+
+...
+
+[Data](articles/d089a9a9.json)
+
+[Extended Data](ext_articles/d089a9a9.ext.json)
 
 ---
 
@@ -2221,79 +2313,5 @@ According to the first round, the Election Commission decided to count the secon
 [Data](articles/9db8ba8e.json)
 
 [Extended Data](ext_articles/9db8ba8e.ext.json)
-
----
-
-### The final election results in the Kegalle district
-
-*2024-09-22 16:41:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344249) · `ta`
-
-Here's a summary of the election results in 200 characters:
-
-
-
-Kegalle district election results: [Candidate names] secured [number] seats, while [other candidates] won [number] seats. Voter turnout was [percentage]. Key issues included [brief mentions of major topics].
-
-🟩
-
-◼️
-
-[Data](articles/4e9cc9d8.json)
-
-[Extended Data](ext_articles/4e9cc9d8.ext.json)
-
----
-
-### Gampaha District, Kandana Electoral Voting Results
-
-*2024-09-22 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194537) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Gampaha District: Anurakumara Dissanayake leads with 69,944 votes. Sajith Premadasa gets 33,262. Ranil receives 15,984 votes in Kandana electorate.
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Kandana electorate in Gampaha district, is leading with 69,944 votes.
-
-United People's Power Presidential candidate Sajith Premadasa received 33,262 votes while Ranil, who contested independently, got 15,984 votes.
-
-◼️
-
-[Data](articles/63d53d9e.json)
-
-[Extended Data](ext_articles/63d53d9e.ext.json)
-
----
-
-### Gampaha District, Mirigama Election constituency Voting Results
-
-*2024-09-22 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194538) · `ta`
-
-Here's a summary of the voting results in 200 characters:
-
-
-
-Mirigama Election constituency (Gampaha District):
-
-- Anurakumara Dissanayake (National People's Power): 56,245 votes
-
-- Sajith Premadasa (United People's Power): 28,642 votes
-
-- Ranil (Independent): 14,455 votes
-
-🟩
-
-Anurakumara Dissanayake, the presidential candidate of the National People's Power in the Mirigama Election constituency in Gampaha district, has won 56,245 votes.
-
-United People's Power Presidential candidate Sajith Premadasa received 28,642 votes while Ranil, who contested independently, got 14,455 votes.
-
-◼️
-
-[Data](articles/0f49aec4.json)
-
-[Extended Data](ext_articles/0f49aec4.ext.json)
 
 ---

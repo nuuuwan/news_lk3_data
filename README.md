@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 18:19:26**
+As of **2024-09-23 18:33:46**
 
 ## Newspaper Stats
 
-*Scraped **45,820** Articles*
+*Scraped **45,829** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 382
-bbccomsinhala | 448
+bbccomsinhala | 449
 colombotelegraphcom | 454
-islandlk | 2,678
+islandlk | 2,684
 economynextcom | 2,768
 dailyftlk | 3,030
 adalk | 4,211
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,398
 tamilmirrorlk | 6,103
 virakesarilk | 7,319
-adaderanasinhalalk | 7,933
+adaderanasinhalalk | 7,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,820 (100.0%) of 45,820 articles have been extended.
+45,824 (100.0%) of 45,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Israeli air strikes killed in Lebanon
+
+*2024-09-23 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201478) · `si`
+
+Israel's air strikes in Lebanon resulted in over 100 casualties. The attacks targeted specific locations in South Lebanon.
+
+🟩
+
+At least 100 people were killed by Israel's air strikes at the South Lebanon on the target targets.
+
+◼️
+
+[Data](articles/030febdf.json)
+
+[Extended Data](ext_articles/030febdf.ext.json)
+
+---
 
 ### Israel strikes more than 300 Hezbollah targets
 
@@ -73,6 +91,32 @@ He also thanked the hill country people who voted for former President Ranil Wic
 [Data](articles/5ec3892d.json)
 
 [Extended Data](ext_articles/5ec3892d.ext.json)
+
+---
+
+### Officer suspected to be released scholarships
+
+*2024-09-23 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201477) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National Institute of Education officer accused of leaking exam questions. Remanded until Oct 5. Police investigation reveals 57-year-old suspect ejected questions from test paper.
+
+🟩
+
+The Director of the Planning Division of the National Institute of Education, the National Education Institute of the National Education, has been remanded until October 5.
+
+The Kaduwela Magistrate was given the order by the Ada Derana reporter today.
+
+Police investigations have revealed that the 57-year-old suspect had ejected several questions on the question paper and was arrested by a team of officers of the CID.
+
+◼️
+
+[Data](articles/082fd2cc.json)
+
+[Extended Data](ext_articles/082fd2cc.ext.json)
 
 ---
 
@@ -303,6 +347,96 @@ After the new President Anuragumara Dissanayake was sworn in, he went to the Dal
 [Data](articles/75ed4f44.json)
 
 [Extended Data](ext_articles/75ed4f44.ext.json)
+
+---
+
+### Trump’s second “apparent” assassination attempt
+
+*2024-09-23 16:06:00* · [`islandlk`](http://island.lk/trumps-second-apparent-assassination-attempt/) · `en`
+
+In view of this weekend’s elections in Sri Lanka, I had decided to take the week off, as few would have any interest in American politics. In spite of the strangest “apparent” assassination attempt on former president and current Republican candidate for the 2024 presidency, Donald J. Trump.
+
+However, some news items this Friday morning from the US bemused me so much that I decided to pen a few lines in an attempt to beat the deadline, especially, as they required little creativity and less controversy.
+
+The assassination attempt was made on the morning of last Sunday, September 15, when Trump was playing an unscheduled round of golf on his golf course in West Palm Beach, Florida.
+
+I used the word “strangest” because plans for this round of golf was not on the official schedule given the previous day to the secret service detail responsible for the security of a former president of the United States. The decision to play golf was made by Trump on the morning of that Sunday.
+
+...
+
+[Data](articles/330e858a.json)
+
+[Extended Data](ext_articles/330e858a.ext.json)
+
+---
+
+### Visit to Britain, Canada and the United States
+
+*2024-09-23 16:01:00* · [`islandlk`](http://island.lk/visit-to-britain-canada-and-the-united-states/) · `en`
+
+(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+In early 1972, the US government extended an invitation to me and to the Public Trustee, Mr. Barnes Ratwatte, to visit America under one of their leadership grants. The period was to be close upon a month. I was reluctant to ask the PM time off for such a long program. But she had heard about it, and wanted me to go. She was convinced that I needed a break, and said “At this rate you will fall ill.” This was both unselfish and gracious of her.
+
+...
+
+[Data](articles/0bc19c17.json)
+
+[Extended Data](ext_articles/0bc19c17.ext.json)
+
+---
+
+### Listen to the verdict of the ballot box, says International Crisis Group
+
+*2024-09-23 15:53:00* · [`islandlk`](http://island.lk/listen-to-the-verdict-of-the-ballot-box-says-international-crisis-group/) · `en`
+
+With a presidential election due on 21 September amid widespread economic misery, 2024 is a pivotal year for Sri Lanka. President Ranil Wickremesinghe has enjoyed some success carrying out International Monetary Fund (IMF) reforms, but millions of Sri Lankans mired in poverty and debt have yet to feel much relief. Wickremesinghe came to power in July 2022 after his predecessor Gotabaya Rajapaksa was forced to resign following waves of mass protest; but he owes his appointment to the Rajapaksa clan’s political party, and he has relied on it for his majority in parliament.
+
+...
+
+[Data](articles/678cc56f.json)
+
+[Extended Data](ext_articles/678cc56f.ext.json)
+
+---
+
+### Sri Lanka elections:Change or more of the same?
+
+*2024-09-23 15:49:00* · [`islandlk`](http://island.lk/sri-lanka-electionschange-or-more-of-the-same/) · `en`
+
+According to a Facebook report compiled by two Sri Lankans, Ranil Wickremesinghe and Opposition Leader Sajith Premadasa have spent extensively on ads on Meta. Each has disbursed around Rs 32 million so far. Anura Kumara Dissanayake comes third at Rs 7.1 million, after Wijeyadasa Rajapakshe at Rs 8.6 million. Namal Rajapaksa comes seventh at Rs 665,000, after Dilith Jayaweera, who has spent Rs 1.6 million.
+
+...
+
+[Data](articles/71a39366.json)
+
+[Extended Data](ext_articles/71a39366.ext.json)
+
+---
+
+### Statesmen of the 21st Century
+
+*2024-09-23 15:43:00* · [`islandlk`](http://island.lk/statesmen-of-the-21st-century/) · `en`
+
+It is totally unnecessary to explain the choice of subject of my article today – the day after the presidential election. We have voted and I am sure as of this morning of September 22, the new President or the next five years, is still to be announced. After all, our Sunday newspapers are printed on the Saturday night, some even on Friday. Most unlikely a stop press announcement will be made in the print media.
+
+The definition of a statesman is: “A skilled, experienced, and respected political leader or figure.” Are any of Sri Lanka’s 39 contenders for the presidency such? A definite no is the answer I get from myself.
+
+...
+
+[Data](articles/142db218.json)
+
+---
+
+### JVP’s hidden ideology and post-election risk: Interview with Dayan Jayatilleka
+
+*2024-09-23 15:37:00* · [`islandlk`](http://island.lk/jvps-hidden-ideology-and-post-election-risk-interview-with-dayan-jayatilleka/) · `en`
+
+Sri Lanka stands at a historic crossroads as it approaches its ninth presidential election, scheduled for September 21. This moment carries profound implications for the nation’s political and social fabric. The election arrives in the wake of a tumultuous period where public outcry led to the ousting of the sitting president and the emergence of a new leader through constitutional maneuvering. Out of the 39 candidates, one has passed away, while those remaining vie for the top seat. Despite the previous elections being effectively two-horse races, three main contenders have emerged this time. In this climate of uncertainty and transformation, I met with one of the country’s leading political scientist, Dr. Dayan Jayatilleka—a scholar, diplomat, and thinker of considerable depth—to explore not only the intricate state of Sri Lankan politics but also the shifting tectonic plates of the global order.
+
+...
+
+[Data](articles/723fa89b.json)
 
 ---
 
@@ -1464,6 +1598,26 @@ Accordingly, the Governor of Sabaragamuwa Province Naveen Dissanayake, Uva Provi
 
 ---
 
+### 'මෝදි, ඔබේ කාරුණික වචනවලට ස්තුතියි': රාජ්‍ය නායකයින්ගේ සුබ පැතුම්වලට ජනපතිගෙන් ප්‍රතිචාර
+
+*2024-09-23 11:31:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy8931eyl3yo) · `si`
+
+'මෝදි, ඔබේ කාරුණික වචනවලට ස්තුතියි': රාජ්‍ය නායකයින්ගේ සුබ පැතුම්වලට ජනපතිගෙන් ප්‍රතිචාර
+
+ශ්‍රී ලංකාවේ 9 වන විධායක ජනාධිපතිවරයා ලෙස තේරී පත්වූ අනුර කුමාර දිසානායක ජනාධිපති ධූරයේ දිවුරුම් දීමෙන් පසු ජාතිය අමතමින් කියා සිටියේ, ලෝකයේ කවර ආකාරයේ බල බෙදීම් පැවතිය ද රටට වඩාත් වාසිසහගත ලෙස ඒ ඒ රාජ්‍යයන් සමග කටයුතු කිරීම සිය අපේක්ෂාව බව ය.
+
+ජනාධිපතිවරණයේ නිල ප්‍රතිඵල නිකුත් කිරීමෙන් පසු ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමාසාරිස්වරයා සහ ශ්‍රී ලංකාවේ චීන තානාපතිවරයා අනුර කුමාර දිසානායක ජනාධිපතිවරයා හමුවී සිය සුබ පැතුම් එක් කළහ.
+
+ජනාධිපතිවරණය පැවැත්වීමට පෙර ඉන්දියාව අනුර කුමාර දිසානායකට එරට සංචාරයක් සඳහා ඇරයුම් කිරීම මෙරට දේශපාලන කේෂ්ත්‍රය තුළ දැඩි කතාබහට ලක්වූ කරුණක් විය.
+
+ජනාධිපති ධුරයේ දිවුරුම් දීමෙන් පසුව ජනාධිපති අනුර කුමාර දිසානායක ජාතිය අමතමින් සිදුකළ සිය කතාවේදී සඳහන් කළේ, ශ්‍රී ලංකාව ලෝකයෙන් හුදෙකලා විය යුතු රාජ්‍යයක් නොවී ලෝකයත් සමග සාමූහිකව ඉදිරියට යා යුතු බව ය.
+
+...
+
+[Data](articles/c9d6e659.json)
+
+---
+
 ### Anurakumara's leadership should be judged for my father's assassination - Lasantha's daughter
 
 *2024-09-23 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194584) · `ta`
@@ -2005,207 +2159,5 @@ The Election Commission declared 56-year-old Anura Kumara Dissanayake the winner
 [Data](articles/1d09282b.json)
 
 [Extended Data](ext_articles/1d09282b.ext.json)
-
----
-
-### Anura oaths as new President
-
-*2024-09-23 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201460) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara Dissanayake sworn in as Sri Lanka's 9th President. Formerly JVP leader, educated at Thambuttegama schools. Won 2000 parliamentary seat, served as National List MP from 2010. Ran for president in 2019, receiving 3.16% of votes. Led National Folk Council since 2021.
-
-🟩
-
-Anura Kumara Dissanayake was sworn in as the post before he was the 9th Executive President.
-
-The Chief Justice Jayantha Jayasuriya is at the Presidential Secretariat.
-
-After his swearing in office, Anura Kumara Dissanayake is addressing the race.
-
-Anura Kumara Dissanayake received his primary education at Thambuttegama Primary School on November 24, 1966.
-
-Thereafter, the GCE Advanced Level examination included in the GCE Advanced Level Examination, including the GCE Advanced Level Examination included in the Thambuttegama Central College.
-
-Anura Kumara Dissanayake, who was admitted to the Vidyalaya of University of Kelaniya in 1992, has graduated in Science in 1995.
-
-He contributed to the massive popular protests throughout the country against the Indo-Lanka Accord celebrated in 1987 in 1987.
-
-Anura Kumara Dissanayake has won the post of National Organizer of the Socialist Students Union in 1997 after the massive state repression was undergoing repression.
-
-...
-
-[Data](articles/776ad57d.json)
-
-[Extended Data](ext_articles/776ad57d.ext.json)
-
----
-
-### Sri Lanka’s prime minister resigns
-
-*2024-09-23 09:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-prime-minister-resigns-180582/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Prime Minister Dinesh Gunawardena has resigned, after congratulating president elect Anura Dissanayake.
-
-“I hope that you as the President will be able to provide welfare to the people by continuing the work we have done to recover and lift the country and the countrymen from the difficult and challenging situation that Sri Lanka has faced,” Gunawardena said in a statement.
-
-I respectfully offer my congratulations to you for being elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka in the Presidential election held on 21st September 2024.
-
-I hope that you as the President will be able to provide welfare to the people by continuing the work we have done to recover and lift the country and the countrymen from the difficult and challenging situation that Sri Lanka has faced.
-
-◼️
-
-[Data](articles/0feb038b.json)
-
-[Extended Data](ext_articles/0feb038b.ext.json)
-
----
-
-### Swearing-in ceremony of new President Anura Kumara Dissanayake
-
-*2024-09-23 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102202/swearing-in-ceremony-of-new-president-anura-kumara-dissanayake) · `en`
-
-National People’s Power (NPP) leader Anura Kumara Dissanayake is scheduled to be sworn in as the 9th Executive President of Sri Lanka in a few moments.
-
-Mr. Dissanayake is scheduled to be sworn in as the country’s new President before Chief Justice Jayantha Jayasuriya at the Presidential Secretariat in Colombo.
-
-The swearing in ceremony commenced following Dissanayake’s arrival at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/61832dba.json)
-
-[Extended Data](ext_articles/61832dba.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 303.90/304.10, bond yields down
-
-*2024-09-23 09:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-90-304-10-bond-yields-down-180574/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.90/304.10 to the US dollar on Monday after a new president was elected, from 305.25/306.00 Friday, dealers said. Bond yields were down, they said, and stocks opened 1.33 percent lower.
-
-A bond maturing on 15.02.2028 was quoted at 13.58/63 percent, down from 13.60/70 percent.
-
-A bond maturing on 15.06.2029 was quoted at 13.75/85 percent, down from 13.85/90 percent.
-
-In equities, Colombo’s All Share Price Index was opened 145.67 points lower at 10,820, while the S&P SL20 of more liquid stocks opened down 1.66 percent or 51.56 points lower at 3,050.
-
-◼️
-
-[Data](articles/dceda9e3.json)
-
-[Extended Data](ext_articles/dceda9e3.ext.json)
-
----
-
-### We accept the challenge
-
-*2024-09-23 09:45:19* · [`adalk`](https://www.ada.lk/breaking_news/අපි-අභියෝගය-භාර-ගන්නවා/11-412079) · `si`
-
-Here's a 200-character summary:
-
-
-
-Samantha Vidyaratne, Executive Committee Member, says a wealthy nation accepts challenges to fulfill citizens' responsibilities for a better life. She spoke to media in Colombo today.
-
-🟩
-
-The Executive Committee Member Samantha Vidyaratne said that a rich country will accept the challenge of fulfilling the responsibility of the people for a beautiful life,. Speaking to the media in Colombo today, he said.
-
-◼️
-
-[Data](articles/89790a60.json)
-
-[Extended Data](ext_articles/89790a60.ext.json)
-
----
-
-### The cabinet dissolved
-
-*2024-09-23 09:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-கலைந்தது/175-344288) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Cabinet dissolved: PM Dinesh Gunawardena resigns. Government restructuring begins.
-
-🟩
-
-The cabinet dissolved after Prime Minister Dinesh Gunawardena resigned his post as Prime Minister.
-
-◼️
-
-[Data](articles/66ad2827.json)
-
-[Extended Data](ext_articles/66ad2827.ext.json)
-
----
-
-### Anura heads off the oaths
-
-*2024-09-23 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201459) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara visited the Presidential Secretariat shortly before the new president of Palawatgama was inaugurated.
-
-🟩
-
-Anura Kumara went to the Presidential Secretariat a short while before the new president of the Palawatgama.
-
-◼️
-
-[Data](articles/5077f656.json)
-
-[Extended Data](ext_articles/5077f656.ext.json)
-
----
-
-### Released: Inauguration at 10 am
-
-*2024-09-23 09:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசிதழ்-வெளியானது-10-மணிக்கு-பதவியேற்பு/175-344287) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Inauguration at 10 AM: Anura Kumara Dissanayake becomes 9th President of Sri Lanka Democratic Socialist Republic. Ceremony takes place at Presidential Palace today at 10 AM.
-
-🟩
-
-Anura Kumara Dissanayake, the 9th President of the Sri Lanka Democratic Socialist Republic, will be held at the Presidential Palace at 10 am today (23) at 10 am.
-
-Anuragumara Dissanayake has been elected as the Executive President and has been released.
-
-◼️
-
-[Data](articles/450c4577.json)
-
-[Extended Data](ext_articles/450c4577.ext.json)
-
----
-
-### Anura sworn in as new President
-
-*2024-09-23 09:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201458) · `si`
-
-Anura Kumara Dissanayake sworn in as President at Presidential Secretariat before Chief Justice Jayantha Jayasuriya.
-
-🟩
-
-Anura Kumara Dissanayake is to be sworn in as the President at the Presidential Secretariat before Chief Justice Jayantha Jayasuriya.
-
-◼️
-
-[Data](articles/c1998062.json)
-
-[Extended Data](ext_articles/c1998062.ext.json)
 
 ---

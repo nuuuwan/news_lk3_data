@@ -1,36 +1,94 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 12:13:41**
+As of **2024-09-23 12:24:29**
 
 ## Newspaper Stats
 
-*Scraped **45,750** Articles*
+*Scraped **45,755** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 382
-bbccomsinhala | 447
+bbccomsinhala | 448
 colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,764
 dailyftlk | 3,030
 adalk | 4,203
 dailymirrorlk | 4,733
-adaderanalk | 5,384
+adaderanalk | 5,387
 tamilmirrorlk | 6,087
 virakesarilk | 7,304
-adaderanasinhalalk | 7,922
+adaderanasinhalalk | 7,923
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,750 (100.0%) of 45,750 articles have been extended.
+45,750 (100.0%) of 45,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Lakshman Nipuna Arachchi to be appointed to Anura’s MP seat
+
+*2024-09-23 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102208/lakshman-nipuna-arachchi-to-be-appointed-to-anuras-mp-seat) · `en`
+
+Lakshman Nipuna Arachchi is to be appointed to the parliamentary seat left vacant by Anura Kumara Dissanayake, who has been elected as the 9th executive President of Sri Lanka.
+
+The executive member of the National People’s Power (NPP) Tilvin Silva communicated this, while speaking at the party office in Pelwatte yesterday (22).
+
+During a press conference held yesterday, Tilvin Silva stated that the process of appointing the new Member of Parliament is not their responsibility and it falls under the Election Commission as per the law.
+
+However, he added that Lakshman Nipuna Arachchi is next on the preference list after Anura Kumara Dissanayake and the Election Commission will proceed with his appointment as the new Member of Parliament.
+
+◼️
+
+[Data](articles/ac3863a9.json)
+
+---
+
+### Two Governors resign
+
+*2024-09-23 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102207/two-governors-resign) · `en`
+
+Two Provincial Governors have reportedly resigned from their respective positions this morning (23).
+
+Accordingly, the Governor of the North Central Province Maheepala Herath and the Governor of the Sabaragamuwa Province Naveen Dissanayake have tendered their letters of resignation today.
+
+◼️
+
+[Data](articles/7ff1810a.json)
+
+---
+
+### ශ්‍රී ලංකාව ටෙස්ට් ශ්‍රේණිගත කිරීම්වල 3 වැනි තැනට
+
+*2024-09-23 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201465) · `si`
+
+ලෝක ටෙස්ට් ශූරතා තරගාවලියේ ප්‍රසාද ලකුණු සටහනේ තුන්වන ස්ථානය දක්වා ශ්‍රී ලංකා කණ්ඩායම ඉදිරියට පැමිණ තිබේ.
+
+ඒ සංචාරක නවසීලන්ත කණ්ඩායම සහ ශ්‍රී ලංකාව අතර පැවති පළමු ටෙස්ට් තරගය ශ්‍රී ලංකාව ලකුණු 63කින් ජයගැනීමත් සමඟය.
+
+අද (23) දිනය සඳහා තරගය ආරම්භ කරනවිට ලකුණු 275ක ජයග්‍රාහි ඉලක්කයක් හඹායෑමට පිටියට පිවිසි නවසීලන්ත කණ්ඩායම සිය දෙවන ඉනිමට කඩුලු 8ක් දැවි ලකුණු 207ක් රැස්කරගෙන සිටියේය.
+
+ජයග්‍රහණය වෙනුවෙන් ශ්‍රී ලංකාව කඩුලු දෙකක් දවාගත යුතුවු අතර නවසීලන්තය ලකුණු 68ක් රැස්කරගත යුතුවුණි.
+
+ශ්‍රී ලංකා පන්දු යවන්නන්ට හිසරදයක්වූ රචින් රවීන්ද්‍ර නොදැවි ලකුණු 91ක් රැස්කරගෙන සිටි අතර අජාස් පටෙල්  ලකුණු නොලබා කඩුල්ලේ රැඳි සිටියේය.
+
+තරගයේ ජය දෙපිලටම දෝලනය වෙමින් අද දිනය ආරම්භ වූ අතර  දිනය ආරම්භයේදීම රචින් රවීන්ද්‍ර දවාගත් ප්‍රභාත් ජයසූරීය  ශ්‍රී ලංකාවේ ජයග්‍රහණය තහවුරු කළේය.
+
+ඒ අනුව නවසීලන්තය සිය දෙවන ඉනිමට සියලු දෙනා දැවි ලකුණු 211ක් රැස්කළ අතර ඔවුන් සිය පළමු ඉනිමට ලකුණු 340ක් රැස්කළේය.
+
+අද දිනයේදී තරගය ක්‍රියාත්මක වුණේ විනාඩි 15ක් පමණක් වීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/3e173c43.json)
+
+---
 
 ### Anura Vidanagamage resigns
 
@@ -73,6 +131,22 @@ The arrested suspects have been identified as 43,45 years old from Hevlok Road, 
 [Data](articles/dfed66ee.json)
 
 [Extended Data](ext_articles/dfed66ee.ext.json)
+
+---
+
+### Maharagama NIE Director arrested over Grade 5 scholarship exam paper issue
+
+*2024-09-23 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102206/maharagama-nie-director-arrested-over-grade-5-scholarship-exam-paper-issue) · `en`
+
+The Director of the Planning Division of the National Institute of Education (NIE) in Maharagama has been arrested by the Criminal Investigations Department (CID) over the Grade 5 scholarship examination question paper issue, the Police Spokesman, DIG Nihal Thalduwa said.
+
+On Friday (20), an investigation was launched by the Department of Examinations after it was alleged that a question paper from the exam had been leaked. Later, the initial investigation report has been handed over to the Criminal Investigation Department (CID), which is currently conducting further inquiries.
+
+Meanwhile, the Secretary of the Ministry of Education, Thilaka Jayasundara, announced that the paper marking process of the Grade 5 Scholarship Examination, which was held on September 15, has been temporarily suspended, owing to the issue.
+
+...
+
+[Data](articles/08b8ec0e.json)
 
 ---
 
@@ -1324,6 +1398,32 @@ India’s envoy to Sri Lanka also met Dissanayake after his election.
 
 ---
 
+### නව ජනපති අනුරගේ කැබිනට් මණ්ඩලය කුමක් වෙයි ද? ඉදිරි පියවර මොනවා ද?
+
+*2024-09-23 06:34:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c625q40537no) · `si`
+
+නව ජනපති අනුරගේ කැබිනට් මණ්ඩලය කුමක් වෙයි ද? ඉදිරි පියවර මොනවා ද?
+
+ජනාධිපතිවරයා ලෙස දිවුරුම් දීමෙන් පසු පාර්ලිමේන්තුව විසුරුවා හැර මහ මැතිවරණයක් කැඳවන බව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක පවසා තිබිණි.
+
+ඒ අනුව, ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූලව ඔහුට ගත හැකි ක්‍රියාමාර්ග මොනවා ද?
+
+මේ, ඒ පිළිබඳව ව්‍යවස්ථා කටයුතු විශේෂඥයෙකු වන ආචාර්ය ජයම්පති වික්‍රමරත්න කළ පැහැදිලි කිරීමකි.
+
+අනුර කුමාර දිසානායක ජනාධිපති ධූරයේ දිවුරුම් දුන් විගස පාර්ලිමේන්තුව විසුරුවා හැරියහොත් ඊළඟ මහ මැතිවරණය අවසන් වන තෙක් වත්මන් කැබිනට් මණ්ඩලය ක්‍රියාත්මක වන බව ආචාර්ය ජයම්පති වික්‍රමරත්න පවසයි.
+
+“ජනාධිපති වුණු ගමන් පාර්ලිමේන්තුව විසුරුවා හැරියොත් ජනාධිපතිවරයාට සිද්ධ වෙනවා ඒ මොහොතේ ඉන්න අගමැතිවරයා සහ කැබිනට් මණ්ඩලය සමග වැඩ කරගෙන යන්න, මහ මැතිවරණය අවසන් වන තුරු.”
+
+මේ වන විට දිනේෂ් ගුණවර්ධන අග්‍රාමාත්‍ය ධූරයෙන් ඉවත් වී ඇති හෙයින් නව කැබිනට් මණ්ඩලයක් පත් කළ හැකි ය.
+
+දිනේෂ් ගුණවර්ධන අග්‍රාමාත්‍ය ධූරයෙන් ඉවත් වීමෙන් පසු කැබිනට් මණ්ඩලය ද අහෝසි වී තිබේ.
+
+...
+
+[Data](articles/8b296131.json)
+
+---
+
 ### Cabinet approves National Trade Facilitation Roadmap for Sri Lanka bill
 
 *2024-09-23 05:45:22* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-National-Trade-Facilitation-Roadmap-for-Sri-Lanka-bill/34-767023) · `en`
@@ -2103,131 +2203,5 @@ I accepted that responsibility when many did not have much spirit of self-streng
 [Data](articles/e068f9f6.json)
 
 [Extended Data](ext_articles/e068f9f6.ext.json)
-
----
-
-### Ranil handed over the power smoothly
-
-*2024-09-22 21:07:28* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-බලය-සුමටව-අනුරට-භාර-දෙයි/11-412074) · `si`
-
-Here's a 200-character summary:
-
-
-
-Ranil Wickremesinghe transfers power to Anura Dissanayake. Acknowledges challenges faced during presidency. Highlights achievements: reduced inflation, increased foreign reserves, improved economy. Urges new president to continue progress. Hands over "lovely child" Sri Lanka.
-
-🟩
-
-President Ranil Wickremesinghe said that he would give the new President Anura Dissanayake and thank all the people who were given the people in the presidential election on the 21st.
-
-The President has noted that the dear child, the dear child, brought them safely in the vines, and that he is safe to be able to cross the vines safely.
-
-The majority of the people in this country have been given a decision from the presidential election on September 21. We need to honor that decision. The recovery of the state of Sri Lanka must ensure the verdict.
-
-Two years ago, I took over the country in a very crisis environment that had fallen into the challenge to face the challenge.
-
-I have successfully accomplished that responsibility for me to successfully liberated this country from bankruptcy in two years.
-
-I believe that it is the most valuable role to do for my country in my political life.
-
-I was able to reduce inflation to five (0.5%) in the country at the time of the hands of the country.
-
-...
-
-[Data](articles/d089a9a9.json)
-
-[Extended Data](ext_articles/d089a9a9.ext.json)
-
----
-
-### Presidents May Come and  Presidents May Go but JR Jayewardene’s Executive Presidency Goes on Forever.
-
-*2024-09-22 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84762) · `en`
-
-Sri Lanka’s ninth presidential election will be held  on Saturday the 21st of September. More than 17 million (17,140, 354)  Sri Lankans are registered as eligible voters. Nominally thirty-eight candidates are in the ring but only three are regarded as  te leading contenders. The hectic election campaigns ended on Sep 18 but election fever is high.  A large voter turn out is expected on election day.
-
-It is indeed an irony that there is so much of enthusiasm  over the election of the executive president  despite the criticism directed against the executive presidential system in past  years. The executive presidency is blamed extensively on the one hand while the country gets involved in  presidential poll excitement on the other.
-
-...
-
-[Data](articles/eabab93d.json)
-
-[Extended Data](ext_articles/eabab93d.ext.json)
-
----
-
-### General Election will be fast - President Anura
-
-*2024-09-22 20:56:55* · [`adalk`](https://www.ada.lk/breaking_news/මහමැතිවරණය-ඉක්මනින්-පවත්වනවා---ජනපති-අනුර/11-412073) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Kumara Dissanayake announced a quick general election at the Elections Commission. He praised this year's peace and reduced post-election violence.
-
-🟩
-
-President Anura Kumara Dissanayake stated at the Elections Commission that the general election will be very quickly.
-
-He added that this year was peaceful this year, and he was pleased with the reduction of post-election violence.
-
-◼️
-
-[Data](articles/aa8e402f.json)
-
-[Extended Data](ext_articles/aa8e402f.ext.json)
-
----
-
-### Anurakumara Dissanayake is elected as the 9th Executive President of Sri Lanka
-
-*2024-09-22 20:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/194554) · `ta`
-
-Anurakumara Dissanayake elected 9th Executive President of Sri Lanka. Won with 55.87% preferential votes, defeating Sajith Premadasa and Ranil Wickremesinghe.
-
-🟩
-
-Anurakumara has been elected as the 9th Executive President of Sri Lanka on the basis of the preferential vote in the ongoing presidential election.
-
-Anura Kumara Dissanayake, the presidential candidate of the National People's Power Based on the presidential election votes, was in the forefront of 5,634,915 (42.31%).
-
-In second place, United People's Power President Sajith Premadasa was in 2nd place with 4,363,035 (32.76%).
-
-President and Independent candidate Ranil Wickremesinghe was 3rd place with 2,299,767 (17.27%).
-
-In this case, no one received 50 percent of the votes, and the president was to be elected on the basis of preferential vote.
-
-Based on this preferential vote, the voting census was based on 22 electoral districts and the National People's Power Presidential candidate Anura Kumara Dissanayake was elected.
-
-At the second precedence, Sajith Premadasa received 167,867 votes and Anurakumara Dissanayake received 105 and 264 votes.
-
-...
-
-[Data](articles/f92bfbbc.json)
-
-[Extended Data](ext_articles/f92bfbbc.ext.json)
-
----
-
-### Why this cheat?
-
-*2024-09-22 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194365) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil state party involvement in political settlement regardless of presidential election outcome.
-
-🟩
-
-Whoever wins the presidential election, the Tamil state party will be involved in a political settlement
-
-◼️
-
-[Data](articles/0c207be0.json)
-
-[Extended Data](ext_articles/0c207be0.ext.json)
 
 ---

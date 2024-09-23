@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 10:57:05**
+As of **2024-09-23 11:22:48**
 
 ## Newspaper Stats
 
-*Scraped **45,731** Articles*
+*Scraped **45,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,120 @@ colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,757
 dailyftlk | 3,030
-adalk | 4,201
+adalk | 4,202
 dailymirrorlk | 4,733
-adaderanalk | 5,381
-tamilmirrorlk | 6,083
+adaderanalk | 5,382
+tamilmirrorlk | 6,085
 virakesarilk | 7,304
-adaderanasinhalalk | 7,919
+adaderanasinhalalk | 7,920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,731 (100.0%) of 45,731 articles have been extended.
+45,736 (100.0%) of 45,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Maithri action notice
+
+*2024-09-23 10:51:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-அதிரடி-அறிவிப்பு/175-344297) · `ta`
+
+Former President Maithripala Sirisena announces retirement from politics, stating he won't contest elections but may engage in political activities.
+
+🟩
+
+Former President Maithripala Sirisena has said that he will no longer contest any election.
+
+Maithripala Sirisena further stated that even if it did not field in the election, it was intended to engage in political activities.
+
+◼️
+
+[Data](articles/15eb05ab.json)
+
+[Extended Data](ext_articles/15eb05ab.ext.json)
+
+---
+
+### Newly Elected Sri Lankan President Dissanayake thanks PM Modi for his wishes, commits to strengthening ties
+
+*2024-09-23 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102204/newly-elected-sri-lankan-president-dissanayake-thanks-pm-modi-for-his-wishes-commits-to-strengthening-ties) · `en`
+
+Newly elected Sri Lankan President Dissanayake thanked Prime Minister Narendra Modi on Sunday after Modi congratulated the Marxist leader on his victory in the presidential election.
+
+The 56-year-old leader’s response came after PM Modi expressed his wish to work closely with him to strengthen multifaceted cooperation between the two neighbours. In his reply on the social media platform X, Dissanayake promised to engage in cooperation for the benefit of the entire region.
+
+“Thank you, Prime Minister Modi, for your kind words and support. I share your commitment to strengthening the ties between our nations. Together, we can work towards enhancing cooperation for the benefit of our peoples and the entire region,” he said.
+
+...
+
+[Data](articles/1f96bd8c.json)
+
+[Extended Data](ext_articles/1f96bd8c.ext.json)
+
+---
+
+### Sri Lanka is a militan win
+
+*2024-09-23 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201462) · `si`
+
+Sri Lanka wins first Test vs New Zealand by 63 runs. Prabath Jayasuriya takes 5/68, Ramesh Mendis 3/83. Sri Lanka leads 2-0 in 3-match series.
+
+🟩
+
+Sri Lanka won the first Test match between Sri Lanka and 63 runs.
+
+Accordingly, Sri Lanka is the 100 match Test series as 0 matches.
+
+New Zealand scored 207 runs for the loss of 8 wickets in their second innings when he commenced today.
+
+Sri Lanka has been thrown to two wickets and New Zealand had to score 68 runs.
+
+Ravindra, a headache for the bowlers, was raweled for 91 runs.
+
+Prabath Jayasuri seized Sri Lanka's victory in Sri Lanka at the beginning of the day.
+
+Accordingly, New Zealand scored 211 runs in his second innings, and they scored 340 runs in their first innings.
+
+It was only 15 minutes to play the match today.
+
+Batting first Sri Lanka scored 305 runs in their first innings and scored 309 runs in their second innings.
+
+Prabath Jayasuriya took 5 wickets for 68 runs in New Zealand in New Zealand.
+
+Ramesh Mendis took three wickets in New Zealand at 83 runs and 6 wickets.
+
+Sri Lanka won the first Test match between the two countries, the forefront of 1 match.
+
+◼️
+
+[Data](articles/ca4df6f7.json)
+
+[Extended Data](ext_articles/ca4df6f7.ext.json)
+
+---
+
+### Fisherman's body recovery
+
+*2024-09-23 10:41:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கடற்றொழிலுக்கு-சென்றவர்-சடலமாக-மீட்பு/71-344295) · `ta`
+
+Body recovered from sea after missing fisherman not returning home. Wounds found on corpse during search operation.
+
+🟩
+
+A man who went to the fishermen at 5.30 pm on Sunday (22).  அராலி மத்தி, வட்டுக்கோட்டையைச் பேரானந்த சிதம்பரம் நாகராஜா (வயது 53) என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+The person went to the fishermen alone from Arali at 5.30 pm on Sunday (23). The man did not return until Monday (23). In this case, the residents who were searching for the body were shoreing in the Ponnal Sea with a boat. One of the wounds in the mouth of the corpse is found.
+
+◼️
+
+[Data](articles/d166831a.json)
+
+[Extended Data](ext_articles/d166831a.ext.json)
+
+---
 
 ### I will work together with all countries and everyone - the President is sure
 
@@ -55,6 +153,34 @@ Cannot be solitary as a country. President Anuragumara Dissanayake added that he
 [Data](articles/0cf9ffd6.json)
 
 [Extended Data](ext_articles/0cf9ffd6.ext.json)
+
+---
+
+### I'm not a magician or magicman
+
+*2024-09-23 10:34:43* · [`adalk`](https://www.ada.lk/breaking_news/මම-ඉන්ද්‍රජාලිකයෙක්-හෝ-මැජික්කරුවෙක්-නෙමෙයි/11-412083) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake acknowledges challenges, emphasizes collective effort. He credits former President Ranil Wickremesinghe for maintaining peace. The president clarifies he's no magician, promising to fulfill responsibilities through cooperation.
+
+🟩
+
+President Anura Kumara Dissanayake expressed his knowledge of the challenge facing the country and to win a collective effort.
+
+The President also said that thanks to the commitment of former President Ranil Wickremesinghe for a peaceful exchange.
+
+He added that he was not a magician or magic.
+
+He added that he would fulfill his responsibility and is a collective effort.
+
+◼️
+
+[Data](articles/4a85318c.json)
+
+[Extended Data](ext_articles/4a85318c.ext.json)
 
 ---
 
@@ -2133,119 +2259,5 @@ In a post on ‘X’ (formerly Twitter) after the release of results concluded, 
 [Data](articles/e922e9de.json)
 
 [Extended Data](ext_articles/e922e9de.ext.json)
-
----
-
-### The country is the country to Happy
-
-*2024-09-22 19:49:57* · [`adalk`](https://www.ada.lk/breaking_news/සුබ-නැකතට-රට-අනුරට/11-412071) · `si`
-
-Sri Lanka elects Anura Kumara Dissanayake as 9th president. First-time use of preferential voting system. Ranil Wickremesinghe loses third consecutive election. National Front wins over 42% of votes.
-
-🟩
-
-Sri Lankan people have decided to appoint leader Anura Kumara Dissanayake as the 9th Executive President of Sri Lanka. The second preference was calculated due to the unable to score a candidate over 50 percent in this year's election.
-
-Several facts occurred in the presidential election this time. For the first time in the history, it is to count the preferential votes.
-
-President Ranil Wickremesinghe made the third occasion this time, and he was defeated at the three stakes.
-
-The National Jealous Force of the last presidential election is significant that over 42 percent of the votes casting this year.
-
-◼️
-
-[Data](articles/a506d145.json)
-
-[Extended Data](ext_articles/a506d145.ext.json)
-
----
-
-### District-wise final results of Anura and Sajith
-
-*2024-09-22 19:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102196/district-wise-final-results-of-anura-and-sajith-) · `en`
-
-The district-wise final results of the two main candidates following the counting of preferences results has been released.
-
-Accordingly, the total votes obtained by NPP’s Anura Kumara Dissanayake and SJB’s Sajith Premadasa after the second count with preferences are as follows;
-
-◼️
-
-[Data](articles/edbb82b9.json)
-
-[Extended Data](ext_articles/edbb82b9.ext.json)
-
----
-
-### New President Anura
-
-*2024-09-22 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201446) · `si`
-
-Anura Kumara Dissanayake elected 9th President of Sri Lanka. Born 1968 in Devahava. Educated at Thambuttegama Central College and University of Kelaniya. Joined JVP in 1987, became Politburo member in 1998. Elected MP in 2004. Served as JVP leader since 2014.
-
-🟩
-
-Anura Kumara Dissanayake has been elected as the 9th Executive President of Sri Lanka.
-
-Anura Kumara Dissanayake is born on November 24, 1968 in the village of Devahava.
-
-The Sithalati of the Dissanayake Mudiyanselage Robida and Dissanayake were the couple.
-
-Thambuththegama Primary Primary School includes Anura Basket Education, Dissanayake family.
-
-The student who is passing over the GCE O / L examination include the Thambuttegama Central College, Thambuttegama Central College.
-
-He is elected to the University of the Science and Mathematics, which is elected to the University of Kelaniya.
-
-In 1987, a prominent political figure, an activist of the Socialist Students Union, is a prominent political figure in 1987.
-
-The Socialist Students Union affiliated to the JVP has been rebuilt and attracted to Anura University students, "Aravinda '.
-
-Moreover, he is the Chairman of the University of Kelaniya University of Kelaniya.
-
-...
-
-[Data](articles/ee4b9403.json)
-
-[Extended Data](ext_articles/ee4b9403.ext.json)
-
----
-
-### Tamil general candidate Ariyanethran received 226,343 votes
-
-*2024-09-22 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194550) · `ta`
-
-Tamil candidate Ariyanethran received 226,343 votes in presidential election, securing 1.70% of valid votes. He won 116,688 votes in Northern Province and 36,377 in Vanni Election District. In Eastern Province, he secured 18,524 votes in Trincomalee and 36,905 in Batticaloa.
-
-🟩
-
-Bhagiyachchelvam Ariyanethran, who was fielded as the Tamil General candidate on behalf of the Tamil people of the North and East by the Tamil General Assembly in the ninth presidential election of the country, received a total of 226,343 votes. This is 1.70 percent of valid votes.
-
-Some Tamil national political parties and civil organizations have joined the Tamil National Alliance (TNA) Member of Parliament PA Ariyaneth as the Tamil General candidate, which represents the Northern and Eastern Provinces in the presidential election.
-
-While proclaiming the unity of the Tamil people, the general public, which is said to have been aimed at the international community that the problems of the Tamils ​​have not yet been resolved, have been launched to get more than 50 percent of the votes in the North and Eastern Provinces.
-
-...
-
-[Data](articles/0c54f6aa.json)
-
-[Extended Data](ext_articles/0c54f6aa.ext.json)
-
----
-
-### Here are the second preferential results
-
-*2024-09-22 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201445) · `si`
-
-Second preference presidential election results announced tonight. Several districts' outcomes revealed.
-
-🟩
-
-The second preference of the Presidential Election was established this evening today (22) and the results of several districts have been released.
-
-◼️
-
-[Data](articles/1cdc7e21.json)
-
-[Extended Data](ext_articles/1cdc7e21.ext.json)
 
 ---

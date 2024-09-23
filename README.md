@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 21:57:56**
+As of **2024-09-23 22:24:36**
 
 ## Newspaper Stats
 
-*Scraped **45,855** Articles*
+*Scraped **45,857** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 382
 bbccomsinhala | 449
-colombotelegraphcom | 454
+colombotelegraphcom | 456
 islandlk | 2,684
 economynextcom | 2,768
 dailyftlk | 3,030
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,855 (100.0%) of 45,855 articles have been extended.
+45,857 (100.0%) of 45,857 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -872,6 +872,24 @@ Meanwhile, the Commonwealth Election Monitoring Committee has said that there is
 
 ---
 
+### Welcome, Comrade Anura!
+
+*2024-09-23 16:18:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/welcome-comrade-anura/) · `en`
+
+It’s official – Dissanayake Mudiyanselage Anura Kumara Dissanayake is the ninth Executive President of Sri Lanka.
+
+For those who don’t know, between 1948 – when it obtained independence from the British Empire – and 1977, the highest elected political official in Sri Lanka was the Prime Minister. He or she – Sri Lanka has the distinction of electing the world’s first woman Prime Minister – was invested with a tremendous array of powers, while the President served a more ceremonial role.
+
+In 1978, the government of JR Jayewardene enacted a new Constitution which transformed the office of the Prime Minister into that of an all-powerful, almost omniscient Executive President. The then Prime Minister’s rationale was that the parliamentary system which had prevailed until then had become a hindrance to the head of state and that the country required a new political arrangement which would shield its leaders from the vagaries of parliamentary politics.
+
+...
+
+[Data](articles/a07057cf.json)
+
+[Extended Data](ext_articles/a07057cf.ext.json)
+
+---
+
 ### CSE’s ASPI gains over 130 points
 
 *2024-09-23 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102216/cses-aspi-gains-over-130-points) · `en`
@@ -883,6 +901,18 @@ The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has increas
 [Data](articles/b05384a7.json)
 
 [Extended Data](ext_articles/b05384a7.ext.json)
+
+---
+
+### Dawn Of A New Era With Cautious Optimism
+
+*2024-09-23 16:08:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dawn-of-a-new-era-with-cautious-optimism/) · `en`
+
+...
+
+[Data](articles/df8c7528.json)
+
+[Extended Data](ext_articles/df8c7528.ext.json)
 
 ---
 
@@ -2141,43 +2171,5 @@ Further investigations related to the incident is carried out by the Criminal In
 [Data](articles/08b8ec0e.json)
 
 [Extended Data](ext_articles/08b8ec0e.ext.json)
-
----
-
-### CID arrested for scholarship examination problem
-
-*2024-09-23 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201463) · `si`
-
-National Education Institute Director arrested CID scholarship exam issue summary: 200 characters
-
-🟩
-
-The Director of the Planning Division of the Planning Division of the National Education Institute has been arrested by the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/6aae3432.json)
-
-[Extended Data](ext_articles/6aae3432.ext.json)
-
----
-
-### 03 Governors resign
-
-*2024-09-23 11:33:14* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුකාරවරුන්-03ක්-ඉල්ලා-අස්වෙයි/11-412085) · `si`
-
-Three provincial governors resign: Sabaragamuwa (Naveen Dissanayake), Uva (Anura Vidanagamage), and North Central (Maheepala Herath).
-
-🟩
-
-Governors of Sabaragamuwa, Uva and North Central Province have resigned.
-
-Accordingly, the Governor of Sabaragamuwa Province Naveen Dissanayake, Uva Provincial Anura Vidanagamage and Northern Governor Maheepala Herath have resigned.
-
-◼️
-
-[Data](articles/37b48f90.json)
-
-[Extended Data](ext_articles/37b48f90.ext.json)
 
 ---

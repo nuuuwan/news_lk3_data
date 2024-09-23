@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 18:58:48**
+As of **2024-09-23 19:11:16**
 
 ## Newspaper Stats
 
-*Scraped **45,834** Articles*
+*Scraped **45,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ dailymirrorlk | 4,733
 adaderanalk | 5,399
 tamilmirrorlk | 6,106
 virakesarilk | 7,319
-adaderanasinhalalk | 7,935
+adaderanasinhalalk | 7,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,829 (100.0%) of 45,834 articles have been extended.
+45,831 (100.0%) of 45,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### ජනාධිපති පෞද්ගලික ලේකම් ලෙස ආනන්ද විජයපාල පත් කෙරේ
+
+*2024-09-23 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201479) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ පෞද්ගලික ලේකම් ලෙස කේ. ආනන්ද විජයපාල මහතා පත්කර තිබේ.
+
+රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/14cf3039.json)
+
+---
 
 ### Chandrika congratulates President Anura
 
@@ -527,6 +541,8 @@ Sri Lanka stands at a historic crossroads as it approaches its ninth presidentia
 ...
 
 [Data](articles/723fa89b.json)
+
+[Extended Data](ext_articles/723fa89b.ext.json)
 
 ---
 
@@ -1688,23 +1704,35 @@ Accordingly, the Governor of Sabaragamuwa Province Naveen Dissanayake, Uva Provi
 
 ---
 
-### 'මෝදි, ඔබේ කාරුණික වචනවලට ස්තුතියි': රාජ්‍ය නායකයින්ගේ සුබ පැතුම්වලට ජනපතිගෙන් ප්‍රතිචාර
+### "Thank you for your kind words": President respondents to the congratulations of Heads of Heads
 
 *2024-09-23 11:31:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy8931eyl3yo) · `si`
 
-'මෝදි, ඔබේ කාරුණික වචනවලට ස්තුතියි': රාජ්‍ය නායකයින්ගේ සුබ පැතුම්වලට ජනපතිගෙන් ප්‍රතිචාර
+Here's a 200-character summary of the key points:
 
-ශ්‍රී ලංකාවේ 9 වන විධායක ජනාධිපතිවරයා ලෙස තේරී පත්වූ අනුර කුමාර දිසානායක ජනාධිපති ධූරයේ දිවුරුම් දීමෙන් පසු ජාතිය අමතමින් කියා සිටියේ, ලෝකයේ කවර ආකාරයේ බල බෙදීම් පැවතිය ද රටට වඩාත් වාසිසහගත ලෙස ඒ ඒ රාජ්‍යයන් සමග කටයුතු කිරීම සිය අපේක්ෂාව බව ය.
 
-ජනාධිපතිවරණයේ නිල ප්‍රතිඵල නිකුත් කිරීමෙන් පසු ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමාසාරිස්වරයා සහ ශ්‍රී ලංකාවේ චීන තානාපතිවරයා අනුර කුමාර දිසානායක ජනාධිපතිවරයා හමුවී සිය සුබ පැතුම් එක් කළහ.
 
-ජනාධිපතිවරණය පැවැත්වීමට පෙර ඉන්දියාව අනුර කුමාර දිසානායකට එරට සංචාරයක් සඳහා ඇරයුම් කිරීම මෙරට දේශපාලන කේෂ්ත්‍රය තුළ දැඩි කතාබහට ලක්වූ කරුණක් විය.
+Sri Lankan President Anura Kumara Dissanayake thanks world leaders for congratulations. He emphasizes international cooperation, seeking support from countries like India, China, US, Japan, and Maldives. The president vows to strengthen relations and work towards collective progress.
 
-ජනාධිපති ධුරයේ දිවුරුම් දීමෙන් පසුව ජනාධිපති අනුර කුමාර දිසානායක ජාතිය අමතමින් සිදුකළ සිය කතාවේදී සඳහන් කළේ, ශ්‍රී ලංකාව ලෝකයෙන් හුදෙකලා විය යුතු රාජ්‍යයක් නොවී ලෝකයත් සමග සාමූහිකව ඉදිරියට යා යුතු බව ය.
+🟩
+
+"Thank you for your kind words": President respondents to the congratulations of Heads of Heads
+
+Speaking as the 9th Executive President of Sri Lanka, Anura Kumara Dissanayake addressing the president, the nation was said to be the most important thing in the world and the most advanced devices to the country.
+
+After releasing the official results of the presidential election, the Sri Lankan Indian Ambassador, Sri Lanka, met the President of Anura Kumara Dissanayake and joined the President.
+
+The invitation of India to visit Anura Kumara Dissanayake before the presidential election was a strong conversation in the political sector.
+
+In his speech, President Anura Kumara Dissanayake addressing the nation after his swearing in the presidency, Sri Lanka should collectively move in a collective movement with the world.
+
+"We are not a kingdom of isolated from the world. A state that should collectively move with the world. We will not hesitate to make decisions about it, "the President said.
 
 ...
 
 [Data](articles/c9d6e659.json)
+
+[Extended Data](ext_articles/c9d6e659.ext.json)
 
 ---
 
@@ -2137,27 +2165,5 @@ Anuragumara Dissanayake was sworn in as the ninth president of Sri Lanka on Mond
 ◼️
 
 [Data](articles/9c62aaf7.json)
-
----
-
-### Sri Lanka’s ninth president Anura Kumara Dissanayake sworn in
-
-*2024-09-23 10:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-ninth-president-anura-kumara-dissanayake-sworn-in-180594/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s president-elect Anura Kumara Dissanayake was sworn is as the island nation’s ninth executive president in Colombo.
-
-The swearing in ceremony took place at the presidential secretariat in Colombo Monday September 23 morning, two days after a hotly contested election.
-
-Dissanayake won the election obtaining 5.74 million votes, with 105,264 preferences beating oppositoin Sajith Premadasa who got 4.53 million votes with 167,867 preferences.
-
-In his inaugural address to the nation, Dissanayake thanked outgoing President Ranil Wickremesinghe for respecting the people’s mandate and facilitating a peaceful transfer of power.
-
-“We have a history of peaceful transfers of power. No leader has ever rejected a post-election transfer of power. Former President Ranil Wickremesinghe graciously accepted the people’s mandate and I’m thankful for his commitment and his example in facilitating a peaceful transfer,” he said.
-
-...
-
-[Data](articles/4d940b3f.json)
-
-[Extended Data](ext_articles/4d940b3f.ext.json)
 
 ---

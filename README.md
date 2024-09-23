@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 08:58:03**
+As of **2024-09-23 09:11:48**
 
 ## Newspaper Stats
 
-*Scraped **45,699** Articles*
+*Scraped **45,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,757
 dailyftlk | 3,030
 adalk | 4,193
 dailymirrorlk | 4,733
-adaderanalk | 5,376
+adaderanalk | 5,377
 tamilmirrorlk | 6,077
 virakesarilk | 7,300
 adaderanasinhalalk | 7,912
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,912
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,699 (100.0%) of 45,699 articles have been extended.
+45,700 (100.0%) of 45,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Several spells of showers expected in parts of the island
+
+*2024-09-23 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102199/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts while a few showers may occur in North-western province.
+
+Showers or thundershowers may occur at a few places in Uva and Eastern provinces and in Mullaittivu district during the evening or night. Mainly fair weather will prevail elsewhere, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, North-western and Southern provinces and in Trincomalee, Matale and Monaragala districts.
+
+◼️
+
+[Data](articles/6041240f.json)
+
+[Extended Data](ext_articles/6041240f.ext.json)
+
+---
 
 ### Commission is a gazett about the elections
 
@@ -2285,33 +2303,5 @@ Gampaha District Election Results Summary:
 [Data](articles/5bcb16dd.json)
 
 [Extended Data](ext_articles/5bcb16dd.ext.json)
-
----
-
-### Anura - Sajith and Ranil Here are the votes taken - the second preference begins
-
-*2024-09-22 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201434) · `si`
-
-Here's a 200-character summary:
-
-
-
-Presidential election results: Anura (5,634,915 votes), Sajith (4,363,035), Ranil (2,299,767). Second preference counted due to no candidate reaching 50%.
-
-🟩
-
-The total number of votes obtained in the first count of the Presidential election by 5,634,915. It is 42.31% as a percentage.
-
-Sajith Premadasa has won the highest number of votes and is 4,363,035. It is 32.76% as a percentage.
-
-The number of votes won by Ranil Wickremesinghe was 2,299,767. It is 17.27% as a percentage.
-
-According to the first round, the Election Commission decided to count the second preference as any candidate had not obtained 50% of the valid vote.
-
-◼️
-
-[Data](articles/9db8ba8e.json)
-
-[Extended Data](ext_articles/9db8ba8e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 16:12:18**
+As of **2024-09-23 16:23:00**
 
 ## Newspaper Stats
 
-*Scraped **45,805** Articles*
+*Scraped **45,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,030
 adalk | 4,208
 dailymirrorlk | 4,733
 adaderanalk | 5,394
-tamilmirrorlk | 6,097
+tamilmirrorlk | 6,098
 virakesarilk | 7,319
 adaderanasinhalalk | 7,931
 
@@ -26,21 +26,49 @@ adaderanasinhalalk | 7,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,804 (100.0%) of 45,805 articles have been extended.
+45,806 (100.0%) of 45,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
 
-### සතොස සභාපති ඉල්ලා අස්වෙයි
+### Worship at the new President's Dalada House
+
+*2024-09-23 16:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதி-தலதா-மாளிகையில்-வழிபாடு/175-344316) · `ta`
+
+New President Anuragumara Dissanayake visits Dalada Maligai after inauguration. Performs religious rites, meets Maha Nayaka Thera of Malwattu Asgiriya Peetars.
+
+🟩
+
+After the new President Anuragumara Dissanayake was sworn in, he went to the Dalada Maligai of Kandy and engaged in religious rituals and met the Maha Nayaka Thera of the Malwattu Asgiriya Peetars.
+
+◼️
+
+[Data](articles/75ed4f44.json)
+
+[Extended Data](ext_articles/75ed4f44.ext.json)
+
+---
+
+### CWE Chairman resigns
 
 *2024-09-23 15:17:29* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-සභාපති-ඉල්ලා-අස්වෙයි/11-412089) · `si`
 
-සතොස සභාපති පසඳ යාපා අබේවර්ධන මහතා සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+Here's a 200-character summary:
+
+
+
+"CWE Chairman Suda Pasolma Abeywardena resigns from position."
+
+🟩
+
+Suda Chairman Pasolma Abeywardena has resigned from his post.
 
 ◼️
 
 [Data](articles/8f2e9261.json)
+
+[Extended Data](ext_articles/8f2e9261.ext.json)
 
 ---
 
@@ -204,7 +232,7 @@ During his long tenure, he actively participated for all major operations which 
 
 ---
 
-### FCCISL congratulate Sri Lanka President, hopes for good governance
+### FCCISL congratulates Sri Lanka President, hopes for good governance
 
 *2024-09-23 14:30:00* · [`economynextcom`](https://economynext.com/fccisl-congratulate-sri-lanka-president-hopes-for-good-governance-180646/) · `en`
 
@@ -2195,23 +2223,5 @@ According to the results of the election, Anura Kumara Dissanayake is elected to
 [Data](articles/fda8c130.json)
 
 [Extended Data](ext_articles/fda8c130.ext.json)
-
----
-
-### Lakshman to the place of Anura
-
-*2024-09-23 08:12:53* · [`adalk`](https://www.ada.lk/breaking_news/අනුරගේ-තැනට-ලක්ෂ්මන්/11-412075) · `si`
-
-Lakshman Nakunarachchi to represent Anura district in Sri Lanka's parliament. He'll fill a vacant seat chosen by the Election Commission.
-
-🟩
-
-Lakshman Nakunarachchi is to be appointed by the Colombo District for the seat of the empty national community in parliament with the appointment of the President of the National Jathika Skin in Parliament.. The appointment will be made by the Elections Commission.
-
-◼️
-
-[Data](articles/c7897369.json)
-
-[Extended Data](ext_articles/c7897369.ext.json)
 
 ---

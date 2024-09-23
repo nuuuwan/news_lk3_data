@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 02:10:06**
+As of **2024-09-24 02:22:45**
 
 ## Newspaper Stats
 
-*Scraped **45,870** Articles*
+*Scraped **45,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 449
 colombotelegraphcom | 456
 islandlk | 2,684
 economynextcom | 2,773
-dailyftlk | 3,035
+dailyftlk | 3,036
 adalk | 4,212
 dailymirrorlk | 4,733
 adaderanalk | 5,402
-tamilmirrorlk | 6,115
+tamilmirrorlk | 6,116
 virakesarilk | 7,329
 adaderanasinhalalk | 7,937
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,870 (100.0%) of 45,870 articles have been extended.
+45,870 (100.0%) of 45,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### The people’s choice: Quest for a new political era
+
+*2024-09-24 02:07:00* · [`dailyftlk`](https://www.ft.lk/columns/The-people-s-choice-Quest-for-a-new-political-era/4-767053) · `en`
+
+Congratulations to Anura Kumara Dissanayake (AKD), the ninth Executive President of Sri Lanka! As you take on the profound responsibility of leading our nation, we trust that your leadership will bring about transparency, integrity, and a renewed focus on the well-being of all Sri Lankans.
+
+AKD’s election marks a critical turning point in Sri Lanka’s political landscape, as voters signal a deep desire for change. However, the real challenge begins now. His journey will be defined not merely by the electoral victory but by how well he can deliver on the promises and expectations of the people.
+
+...
+
+[Data](articles/e1a4bd0e.json)
+
+---
+
+### ஜனாதிபதி அநுரகுமார தலதா மாளிகையில் வழிபாடு
+
+*2024-09-24 01:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அநுரகுமார-தலதா-மாளிகையில்-வழிபாடு/175-344351) · `ta`
+
+இலங்கையின் 9 ஆவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக நேற்று காலை பதவிப்பிரமாணம் செய்து கொண்ட ஜனாதிபதி அநுரகுமார திஸாநாயக்க தலதா மாளிகையில் விசேட வழிபாடுகளில் ஈடுபட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0b626f2d.json)
+
+---
 
 ### EU Election Observation Mission gives thumbs up for fair and peaceful election, highlights areas for improvement
 
@@ -2089,47 +2115,5 @@ In this case, supporters of Pongal expressed their happiness in front of his par
 [Data](articles/9538cb04.json)
 
 [Extended Data](ext_articles/9538cb04.ext.json)
-
----
-
-### Questionnaire leak: One arrested
-
-*2024-09-23 12:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-கசிவு-ஒருவர்-கைது/175-344304) · `ta`
-
-Grade 5 Scholarship Exam question leak: Director arrested. 57-year-old suspect from National Education Institute's Planning Unit. CID investigation ongoing.
-
-🟩
-
-The Director of the Planning Unit of the National Education Institute in Maharagama has been arrested by the Criminal Investigation Department officials in connection with the release of the Grade 5 Scholarship Examination Questionnaire for 2024.
-
-Investigations have revealed that some questions have been released by the suspect's Grade 5 Scholarship Examination Questionnaire. A 57 -year -old man has been arrested.
-
-◼️
-
-[Data](articles/48e30ed9.json)
-
-[Extended Data](ext_articles/48e30ed9.ext.json)
-
----
-
-### 21% of the presidential election has not been voted
-
-*2024-09-23 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201466) · `si`
-
-21% of voters unaccounted for in presidential election. Over 35 lakh votes not cast. Election Commissioner cites low turnout compared to previous polls. Political parties questioned about ballot center roles.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that over 35 lakhs have not voted in the presidential election.
-
-The Ada Derana joined the Big FUCUS program and said that it was 21% as a percentage.
-
-"One million Thirty 5 million rupees have not been voted in one hundred and thirty-eight. It is 21.54% as a percentage. Generally after taking a number of presidential election, a polling falls is happening. But this road was less than that. Not only on the commissions of the commissions, we have to think of the role of the party to the ballot centers.. We provide that necessary feature. We ask for how political parties formulate a different way "
-
-◼️
-
-[Data](articles/e2ef5c13.json)
-
-[Extended Data](ext_articles/e2ef5c13.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 11:22:48**
+As of **2024-09-23 11:38:58**
 
 ## Newspaper Stats
 
-*Scraped **45,736** Articles*
+*Scraped **45,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,757
 dailyftlk | 3,030
 adalk | 4,202
 dailymirrorlk | 4,733
-adaderanalk | 5,382
+adaderanalk | 5,384
 tamilmirrorlk | 6,085
 virakesarilk | 7,304
 adaderanasinhalalk | 7,920
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,736 (100.0%) of 45,736 articles have been extended.
+45,738 (100.0%) of 45,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### President Anura Kumara highlights commitment to democracy and crisis recovery in first speech
+
+*2024-09-23 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102205/president-anura-kumara-highlights-commitment-to-democracy-and-crisis-recovery-in-first-speech) · `en`
+
+The newly elected President Anura Kumara Dissanayake, in his inaugural address to the nation after sworn-in as the Head of the State, assured his full commitment to strengthen and safeguard the democracy of the country, through which he was elected to the office.
+
+Addressing the nation, President Dissanayake said: “The most significant feature of our country’s democracy is the election of the ruler of the country by the general public, but the democracy is not all about just casting the votes or electing the ruler. We accept that we need a little more strengthening of the structures and strong legislations. Therefore, at first, I assure the public that I am ready to showcase my maximum commitment for the protection of the democracy in the country during my term as the president.”
+
+...
+
+[Data](articles/1671cdd9.json)
+
+[Extended Data](ext_articles/1671cdd9.ext.json)
+
+---
 
 ### Maithri action notice
 
@@ -67,6 +83,24 @@ The 56-year-old leader’s response came after PM Modi expressed his wish to wor
 [Data](articles/1f96bd8c.json)
 
 [Extended Data](ext_articles/1f96bd8c.ext.json)
+
+---
+
+### Newly elected President Dissanayake thanks India’s PM for wishes, commits to strengthening ties
+
+*2024-09-23 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102204/newly-elected-president-dissanayake-thanks-indias-pm-for-wishes-commits-to-strengthening-ties) · `en`
+
+Newly elected Sri Lankan President Dissanayake thanked Prime Minister Narendra Modi on Sunday after Modi congratulated the Marxist leader on his victory in the presidential election.
+
+The 56-year-old leader’s response came after PM Modi expressed his wish to work closely with him to strengthen multifaceted cooperation between the two neighbours. In his reply on the social media platform X, Dissanayake promised to engage in cooperation for the benefit of the entire region.
+
+“Thank you, Prime Minister Modi, for your kind words and support. I share your commitment to strengthening the ties between our nations. Together, we can work towards enhancing cooperation for the benefit of our peoples and the entire region,” he said.
+
+...
+
+[Data](articles/ad7bf027.json)
+
+[Extended Data](ext_articles/ad7bf027.ext.json)
 
 ---
 
@@ -2213,51 +2247,5 @@ Within a short period of time, I was able to restore this country from bankruptc
 [Data](articles/4ba25a42.json)
 
 [Extended Data](ext_articles/4ba25a42.ext.json)
-
----
-
-### We are proud of the president during the national crisis - Ranil's support side
-
-*2024-09-22 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194552) · `ta`
-
-Key supporters praise President Ranil Wickremesinghe's leadership during national crisis. They congratulate Anura Kumara Dissanayake on his election victory, acknowledging his historic achievement in creating a social revolution in Sri Lankan politics.
-
-🟩
-
-The key parties who supported President Ranil Wickremesinghe are proud of the work with President Ranil Wickremesinghe during the national crisis and congratulated Anura Kumara Dissanayake, who won the election.
-
-In his X -site record, Manusha Nanayakkara said, "I have no regrets that Ranil Wickremesinghe was in the group during the national crisis. I used the power given by the people under his guidance. Whatever the case, we are determined to complete what we started. My congratulations to Ranil.
-
-In his record, Sabaragamuwa Province Governor Naveen Dissanayake said, "I applaud Anuragumara Dissanayake for the elected President of Sri Lanka. The people of Sri Lanka are talking. And have won democracy. I congratulate the future president for gaining strength, wisdom and courage to bring our country forward. He said that I would resign from the post of Governor of Sabaragamuwa Province soon.
-
-...
-
-[Data](articles/13334d32.json)
-
-[Extended Data](ext_articles/13334d32.ext.json)
-
----
-
-### Anura Kumara Dissanayake elected President of Sri Lanka
-
-*2024-09-22 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102197/anura-kumara-dissanayake-elected-president-of-sri-lanka) · `en`
-
-National People’s Power (NPP) presidential candidate Anura Kumara Dissanayake has been elected as the 9th Executive President of Sri Lanka.
-
-The election commission formally announced on Sunday (September 22) NPP leader Anura Kumara Dissanayake as the winner of the 2024 Presidential Election.
-
-The commission said on its website that Mr. Dissanayake, 55, won the presidency with 42.31% of the vote at Saturday’s (September 21) election, pushing opposition leader Sajith Premadasa to second place and incumbent Ranil Wickremesinghe to a distant third.
-
-It was a strong showing for Dissanayake, who won just over 3% of votes in a previous presidential election in 2019, and suggests voters are fatigued with the old political guard, which has been accused of pushing Sri Lanka toward economic instability.
-
-Mr. Dissanayake is due to be sworn in on Monday (September 23), according to unconfirmed repors.
-
-In a post on ‘X’ (formerly Twitter) after the release of results concluded, Dissanayake said:
-
-...
-
-[Data](articles/e922e9de.json)
-
-[Extended Data](ext_articles/e922e9de.ext.json)
 
 ---

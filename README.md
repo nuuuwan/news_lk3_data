@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 05:44:27**
+As of **2024-09-23 06:09:59**
 
 ## Newspaper Stats
 
-*Scraped **45,664** Articles*
+*Scraped **45,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 380
 bbccomsinhala | 447
 colombotelegraphcom | 454
-islandlk | 2,669
+islandlk | 2,677
 economynextcom | 2,757
-dailyftlk | 3,021
+dailyftlk | 3,029
 adalk | 4,192
 dailymirrorlk | 4,733
 adaderanalk | 5,376
@@ -26,11 +26,155 @@ adaderanasinhalalk | 7,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,664 (100.0%) of 45,664 articles have been extended.
+45,676 (100.0%) of 45,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### German Federal Ministry for Economic Affairs explores opportunities at HIP
+
+*2024-09-23 05:42:01* · [`dailyftlk`](https://www.ft.lk/business/German-Federal-Ministry-for-Economic-Affairs-explores-opportunities-at-HIP/34-767022) · `en`
+
+HIPG Deputy GM Commercial and Marketing Bindu Ranasinghe with German Federal Ministry for Economic Affairs and Climate Action, Berlin Director and Head of Division for SA and SEA Asia Tobias Pierlings
+
+German Federal Ministry for Economic Affairs and Climate Action, Berlin Director and Head of Division for South Asia and Southeast Asia Tobias Pierlings, and a delegation from the German Embassy in Sri Lanka, visited the Hambantota International Port (HIP) last week.
+
+The visit was to explore potential business opportunities in Sri Lanka and assess the capabilities of the Hambantota International Port Group (HIPG).
+
+...
+
+[Data](articles/46641b43.json)
+
+[Extended Data](ext_articles/46641b43.ext.json)
+
+---
+
+### Kosala meets top trade official of Sichuan Council
+
+*2024-09-23 05:38:51* · [`dailyftlk`](https://www.ft.lk/business/Kosala-meets-top-trade-official-of-Sichuan-Council/34-767021) · `en`
+
+International Business Council President Kosala Wickramanayake recently held a meeting with China Council for the Promotion of International Trade Sichuan Council in Chengdu China President Huang Li at the 2024 Sichuan-South Asia Businesses Cooperation Development Conference.
+
+◼️
+
+[Data](articles/9bdb66f4.json)
+
+[Extended Data](ext_articles/9bdb66f4.ext.json)
+
+---
+
+### Samagi Jana Sandanaya MPs alleges vote-counting officials violated election law
+
+*2024-09-23 05:31:26* · [`dailyftlk`](https://www.ft.lk/news/Samagi-Jana-Sandanaya-MPs-alleges-vote-counting-officials-violated-election-law/56-767020) · `en`
+
+Samagi Jana Sandanaya MPs Ranjith Madduma Bandara and Patali Champika Ranawaka have lodged a complaint with the Election Commission, alleging that some vote-counting officials had violated the election law.
+
+They claimed that some vote-counting officials began calculating second preference votes, prematurely, before receiving official authorisation.
+
+They claimed that a prominent group was behind this violation, raising concerns about the integrity of the counting process.
+
+The move comes after the 2024 Presidential Election Commission announced that no candidate was able to secure an absolute majority, marking the first time in history that a second preference count was required to determine the winner.
+
+Leader of National People’s Power (NPP) Anura Kumara Dissanayake emerged as the front-runner with 42% of the vote, while leader of Samagi Jana Sandanaya followed 32% of the vote.
+
+Speaking to the media, Ranawaka asserted the importance of upholding injustice to his candidate.
+
+...
+
+[Data](articles/d7823e8a.json)
+
+[Extended Data](ext_articles/d7823e8a.ext.json)
+
+---
+
+### Dilith shines as newcomer in 2024 Presidential election
+
+*2024-09-23 05:27:34* · [`dailyftlk`](https://www.ft.lk/news/Dilith-shines-as-newcomer-in-2024-Presidential-election/56-767019) · `en`
+
+Former Army General Sarath Fornseka who secured 4,173,185 in 2010, received only 22,407 votes, ranking ninth
+
+Dilith Jayaweera, leader of the Mawbima Janatha Party (MJP) made a notable debut in the 2024 Presidential election, securing sixth place in the national race.
+
+Contesting under Sri Lanka Communist Party (SLCP), Jayaweera garnered a total of 122,396 votes across the country.
+
+His performance as a first-time Presidential candidate has been remarkable, especially as he outperformed established candidates in key electorates.
+
+Jayaweera outpaced Sri Lanka Podujana Peramuna (SLPP) candidate Namal Rajapaksa in areas such as Maharagama and Homagama. In Maharagama, Jayaweera received 3,020 voted surpassing Rajapaksa’s 2,424 votes. Similarly, in Homagama, he secured 4,304 votes, outshining Rajapaksa who received 3,979 votes. Jayaweera secured most of his votes from the Colombo, Kalutara, Kurunegala, Gampaha, Galle, Matara, and Ratnapura districts.
+
+...
+
+[Data](articles/be8ad399.json)
+
+[Extended Data](ext_articles/be8ad399.ext.json)
+
+---
+
+### Indian envoy calls on President-elect, congratulates on election win
+
+*2024-09-23 05:23:12* · [`dailyftlk`](https://www.ft.lk/news/Indian-envoy-calls-on-President-elect-congratulates-on-election-win/56-767018) · `en`
+
+Indian High Commissioner to Sri Lanka, Santosh Jha, yesterday met with President-elect Anura Kumara Dissanayake and conveyed congratulations on behalf of India’s leadership.
+
+During the meeting, Jha extended India’s well-wishes for Dissanayake’s victory and affirmed the country’s commitment to strengthening bilateral relations.
+
+◼️
+
+[Data](articles/2f67ca40.json)
+
+[Extended Data](ext_articles/2f67ca40.ext.json)
+
+---
+
+### Japan congratulates AKD
+
+*2024-09-23 05:18:13* · [`dailyftlk`](https://www.ft.lk/news/Japan-congratulates-AKD/56-767017) · `en`
+
+Japanese Ambassador to Sri Lanka Mizukoshi Hideaki, yesterday expressed his heartfelt congratulations to President-elect Anura Kumara Dissanayake for his election as the new President of the Democratic Socialist Republic of Sri Lanka.
+
+In a statement he said Japan is looking forward to working closely with President Anura Kumara Dissanayake in furthering the friendly relationship between Japan and Sri Lanka.
+
+“We would like to congratulate the people of Sri Lanka on their active participation in Sri Lanka’s democratic process in electing their leader. Japan will stand ready to cooperate with the new administration under the leadership of President Anura Kumara Dissanayake and the people of Sri Lanka in achieving economic and social goals as well as our stronger relationship,” he said.
+
+...
+
+[Data](articles/94ab235a.json)
+
+[Extended Data](ext_articles/94ab235a.ext.json)
+
+---
+
+### UK congratulates AKD
+
+*2024-09-23 05:16:30* · [`dailyftlk`](https://www.ft.lk/news/UK-congratulates-AKD/56-767016) · `en`
+
+British High Commissioner to Sri Lanka Andrew Patrick yesterday congratulated President-elect Anura Kumara Dissanayake in a post on X yesterday.
+
+“Congratulations to President-elect @anuradisanayake on his victory. Sri Lanka and the UK share a long-standing friendship – strong people to people links, close economic ties and many shared values. I look forward to working with the President-elect and his Government,” he said in a post on X.
+
+◼️
+
+[Data](articles/da5b55ea.json)
+
+[Extended Data](ext_articles/da5b55ea.ext.json)
+
+---
+
+### US envoy congratulates AKD
+
+*2024-09-23 05:13:28* · [`dailyftlk`](https://www.ft.lk/news/US-envoy-congratulates-AKD/56-767015) · `en`
+
+In a post on X yesterday, US Ambassador Julie Chung congratulated President-elect Anura Kumara Dissanayake on his victory in Sri Lanka’s Presidential election.
+
+She also praised the Sri Lankan people for peacefully exercising their democratic rights. Ambassador Chung reaffirmed the strength of the bilateral relationship, stating, “We value the strong US-Sri Lanka partnership and stand ready to work together on shared priorities.” Her message emphasised the continued commitment to collaboration between the two countries.
+
+◼️
+
+[Data](articles/4a4eb98a.json)
+
+[Extended Data](ext_articles/4a4eb98a.ext.json)
+
+---
 
 ### Congratulations and cautionary notes
 
@@ -91,6 +235,122 @@ What is the economy which the new President has inherited from the outgoing Pres
 [Data](articles/73cc1ffc.json)
 
 [Extended Data](ext_articles/73cc1ffc.ext.json)
+
+---
+
+### Sri Lanka tea production: All elevations record an increase
+
+*2024-09-23 02:21:00* · [`islandlk`](http://island.lk/sri-lanka-tea-production-all-elevations-record-an-increase/) · `en`
+
+* Sri Lanka Tea Production for the month of August 2024 totalled 21.28 M/Kgs, recording an increase of 2.92 M/Kgs vis-à-vis 18.36 M/Kgs of August 2023. All Elevations have recorded an increase, while the High Grown elevation saw a marginal decline of 0.39 M/Kgs in comparison with the corresponding period of 2023.
+
+* January-August 2024 cumulative production totalled 172.03 M/Kgs, recording a decrease of 2.56 M/Kgs vis-à-vis 174.59 M/Kgs of January-August 2023. Compared to the corresponding period in 2023, all elevations except for the Medium Grown elevation have shown negative variances in the year 2024.
+
+* Compared to 171.54 M/Kgs of January-August 2022, cumulative production of 2024 shows an increase of 0.49 M/Kgs. On a cumulative basis, apart from the Medium Grown elevation, all elevations have shown a decrease over the corresponding period of 2022 (Refer table below).
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/440826cf.json)
+
+[Extended Data](ext_articles/440826cf.ext.json)
+
+---
+
+### HNB boosts microfinance expertise through IBSL diploma programme
+
+*2024-09-23 02:21:00* · [`islandlk`](http://island.lk/hnb-boosts-microfinance-expertise-through-ibsl-diploma-programme/) · `en`
+
+HNB PLC, recently collaborated with the Institute of Bankers of Sri Lanka (IBSL) to introduce IBSL’s Diploma in Microfinance program to HNB’s microfinance staff.
+
+The inauguration ceremony of the programme was held recently at HNB Towers, with the participation of IBSL Director General, C. P. A. Karunatilake, IBSL Director of the College of Banking & Finance, Buddhika Godakanda, CBSL Director – Regional Development Department, G. C. A. Ariyadasa, HNB Chief Operating Officer, Sanjay Wijemanne, HNB DGM (SME & MF), Rajive Dissanayake, HNB CHRO, K. Indravasan, HNB Head of Microfinance, Mahinda Senevirathne, and over 100 enthusiastic attendees from the Bank.
+
+...
+
+[Data](articles/96621081.json)
+
+[Extended Data](ext_articles/96621081.ext.json)
+
+---
+
+### Sampath Bank makes history as Asia’s Best for Corporate Responsibility at Euromoney 2024
+
+*2024-09-23 02:21:00* · [`islandlk`](http://island.lk/sampath-bank-makes-history-as-asias-best-for-corporate-responsibility-at-euromoney-2024/) · `en`
+
+Sampath Bank made history by receiving the prestigious ‘Asia’s Best Bank for Corporate Responsibility’ award at the Euromoney Awards for Excellence 2024, held recently at The Westin, Singapore.
+
+The award was presented to Sampath Bank’s Managing Director, Ayodhya Iddawella Perera, in recognition of the Bank’s outstanding contributions to corporate responsibility. Sampath Bank’s initiatives, including its flagship ‘Wewata Jeewayak’ Tank Restoration Programme and various environmental and social sustainability projects, reflect its deep commitment to addressing the nation’s core challenges.
+
+“This remarkable achievement recognises Sampath Bank as the only Sri Lankan bank honoured as the best bank for corporate responsibility, and even more so, Asia’s best. We are immensely proud, and this award reinforces our dedication to creating lasting, positive impacts in the communities we serve,” said Ayodhya Iddawella Perera.
+
+...
+
+[Data](articles/dbb4c3ad.json)
+
+[Extended Data](ext_articles/dbb4c3ad.ext.json)
+
+---
+
+### Empowering Sri Lankan students through debate and social-emotional learning
+
+*2024-09-23 02:02:00* · [`islandlk`](http://island.lk/empowering-sri-lankan-students-through-debate-and-social-emotional-learning/) · `en`
+
+Learn for Life Lanka is proud to announce its partnership with Debate Mate, a globally reputed leader in transformative debating programmes. The partnership began with a pilot programme aimed at empowering 250 underprivileged students from low-income schools in Sri Lanka. Furthermore, 60 teachers from schools and community centres also received specialised training. The initiative is designed to develop essential skills such as listening, speaking and thinking in students to help boost their confidence and prepare them for success in the future.
+
+As part of this programme, students and teachers from 18 schools in the Serendib Schools Development Foundation (SSDF), St. Anthony’s Balika, Dematagoda and selected trainers from the Foundation of Goodness participated in an intensive training programme which took place at the Khairiya Muslim Girls College over a period of one week.
+
+...
+
+[Data](articles/007ce794.json)
+
+[Extended Data](ext_articles/007ce794.ext.json)
+
+---
+
+### SriLankan Airlines launches new pre-order meal service ‘Serendib Delights’
+
+*2024-09-23 02:02:00* · [`islandlk`](http://island.lk/srilankan-airlines-launches-new-pre-order-meal-service-serendib-delights-2/) · `en`
+
+SriLankan Airlines has introduced “Serendib Delights,” an exciting new pre-order meal service exclusively for Economy Class passengers. This service enhancement allows travellers to select from a carefully curated menu before their journey, offering an elevated onboard dining experience.
+
+With Serendib Delights, Economy Class passengers can choose from an assortment of meals designed to meet a variety of dietary preferences. The menu features options such as Salmon Steaks, Chicken Lamprais, Fillet Steaks, Fish Fritters, Beef Burgers, Seafood Pies and authentic Arabic, Western and Indian breakfasts.
+
+Each meal is meticulously prepared from fresh, high-quality ingredients to create a gastronomic treat. The menu also includes vegetarian, vegan and gluten-free options, ensuring that every passenger can find something to delight their taste buds. All meals catered from Colombo and many other locations across the SriLankan network are Halal Certified.
+
+...
+
+[Data](articles/0b0b2bdb.json)
+
+---
+
+### German Federal Ministry for Economic Affairs explores opportunities at HIP
+
+*2024-09-23 02:02:00* · [`islandlk`](http://island.lk/german-federal-ministry-for-economic-affairs-explores-opportunities-at-hip/) · `en`
+
+Tobias Pierlings, Director and Head of Division for South Asia and Southeast Asia at the German Federal Ministry for Economic Affairs and Climate Action, Berlin and a delegation from the German Embassy in Sri Lanka, visited the Hambantota International Port (HIP) last week.
+
+The visit was to explore potential business opportunities in Sri Lanka and assess the capabilities of the Hambantota International Port Group (HIPG).
+
+...
+
+[Data](articles/f242d22e.json)
+
+---
+
+### First Capital Research publishes its pre-policy analysis report
+
+*2024-09-23 01:57:00* · [`islandlk`](http://island.lk/first-capital-research-publishes-its-pre-policy-analysis-report/) · `en`
+
+As per our view, at the upcoming policy meeting, there is an 80% probability for the Central Bank of Sri Lanka (CBSL) to maintain rates at the current levels, allowing further strengthening of key economic indicators, say Dimantha Mathew and Anjali Mathews, analysts at First Capital Research.
+
+In their report titled, “The Road ahead: Steering Interest rates in an uncertain economy’. They say, “There is, however, a 20% probability for CBSL to relax the policy rates, with a probability of 15% for a rate cut of 25bps and a lower level of 5% for 50bps rate cut in order to further reduce rates and government security yields to accelerate economic growth.
+
+“Further, there is an 80% probability to keep SRR unchanged; while considering the improved liquidity levels in the system, we consider a 20% probability for a SRR hike of 100bps.”
+
+...
+
+[Data](articles/2c344cf7.json)
 
 ---
 
@@ -1977,343 +2237,5 @@ Kalutura District Election Results Summary: The United People's Freedom Alliance
 [Data](articles/e1082f1c.json)
 
 [Extended Data](ext_articles/e1082f1c.ext.json)
-
----
-
-### Beruwala - Wattala-Dautha Results of Election of Uva Paranagama
-
-*2024-09-22 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201429) · `si`
-
-Here's a summary of the election results in 200 characters:
-
-
-
-Beruwala: SLPP wins 2 seats, UNP 1 seat, JVP 1 seat. Wattala-Dautha: SLPP takes 3 seats, UNP 1 seat. Uva Paranagama: SLPP leads with 4 seats, UNP 2 seats. Overall, SLPP maintains strong presence in these areas.
-
-🟩
-
-◼️
-
-[Data](articles/1b148340.json)
-
-[Extended Data](ext_articles/1b148340.ext.json)
-
----
-
-### Anura wins in Kaduwela, Kesbewa, Dodangaslanda, Dedigama and Nattandiya
-
-*2024-09-22 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102190/anura-wins-in-kaduwela-kesbewa-dodangaslanda-dedigama-and-nattandiya) · `en`
-
-NPP leader Anura Kumara Dissanayake has secured victory in the Dodangaslanda polling division in Kurunegala Division.
-
-Dissanayaka is also on top in the Kesbewa polling division in Colombo District.
-
-He has also placed first in the Kaduwela polling division in Colombo District.
-
-Dissanayake has also emerged victorious in the Dedigama polling division in the Kegalle District.
-
-He has also placed first in the Nattandiya polling division in Puttalam District.
-
-◼️
-
-[Data](articles/45607117.json)
-
-[Extended Data](ext_articles/45607117.ext.json)
-
----
-
-### The final election results in the Matale district
-
-*2024-09-22 15:55:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344239) · `ta`
-
-Here's a summary of the final election results in the Matale district in approximately 200 characters:
-
-
-
-"Key points: [Candidate A] won with 52% of votes, followed by [Candidate B] with 45%. Turnout was 75%, highest in years. Local issues dominated campaign."
-
-🟩
-
-◼️
-
-[Data](articles/e8df7738.json)
-
-[Extended Data](ext_articles/e8df7738.ext.json)
-
----
-
-### The final election results of the Ratnapura district
-
-*2024-09-22 15:53:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-மாவட்டத்தின்-இறுதித்-தேர்தல்-முடிவுகள்/175-344238) · `ta`
-
-Here's a summary of the final election results for the Ratnapura district in 200 characters:
-
-
-
-Ratnapura District Election Results Summary:
-
-- Party A won 5 seats
-
-- Party B secured 3 seats
-
-- Independent candidates took 2 seats
-
-- Voter turnout was 75%
-
-- Margin of victory: 10% difference between top parties
-
-🟩
-
-◼️
-
-[Data](articles/a24ca2b7.json)
-
-[Extended Data](ext_articles/a24ca2b7.ext.json)
-
----
-
-### Dambulla, Minuwangoda, Bingiriya, Bingiriya, Galgamuwa and Nikaweratiya
-
-*2024-09-22 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201428) · `si`
-
-Anura Kumara Dissanayake wins key electorates: Minuwangoda (Gampaha), Dambulla (Matale), Bingiriya (Kurunegala), Galgamuwa (Kurunegala), Nikaweratiya (Kurunegala).
-
-🟩
-
-The official voting outcome of the Electoral Areas of Minuwangoda and Galgamuwa, Minuwangoda in the Matale District have been released in Matale District.
-
-The official election outcome of the Dambulla Electorate in Matale District has been released and Anura Kumara Dissanayake has won 53,299 votes.
-
-The official voting outcome of the Minuwangoda electorate in the Gampaha District has been released and Anura Kumara Dissanayake has won 66,829 votes.
-
-The official voting outcome of the Bingiriya Electorate in the Kurunegala District has been released and Anura Kumara Dissanayake has won 31,750 votes.
-
-The official voting outcome of the Galgamuwa Electorate in the Kurunegala District has been released and Anura Kumara Dissanayake has won 39,180 votes.
-
-The official voting outcome of the Nikaweratiya electorate in Kurunegala District has been released and Anura Kumara Dissanayake has won 34,25 votes.
-
-◼️
-
-[Data](articles/30826b4f.json)
-
-[Extended Data](ext_articles/30826b4f.ext.json)
-
----
-
-### Ruwanwella election results
-
-*2024-09-22 15:49:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருவான்வெல்ல-தேர்தல்-முடிவுகள்/175-344237) · `ta`
-
-Here's a summary of the Ruwanwella election results in approximately 200 characters:
-
-
-
-"Ruwanwella election results: [Candidate A] wins with 52% of votes, followed by [Candidate B] with 41%. Turnout was 75%, higher than previous elections. Local issues like infrastructure and education influenced voter choices."
-
-🟩
-
-◼️
-
-[Data](articles/9b2d971c.json)
-
-[Extended Data](ext_articles/9b2d971c.ext.json)
-
----
-
-### Anura also tops Matale, Moratuwa, Homagama, Deniyaya and Anuradhapura East
-
-*2024-09-22 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102189/anura-also-tops-matale-moratuwa-homagama-deniyaya-and-anuradhapura-east) · `en`
-
-NPP Presidential Candidate Anura Kumara Dissanayake has secured the highest number of votes in Anuradhapura East polling division in Anuradhapura District.
-
-In the Matale polling division in Matale District, the NPP leader has clinched another victory by polling 27,693 votes.
-
-He has also placed first in the Moratuwa polling division in Colombo District with 45, 299 votes.
-
-Dissanayake has also won the Homagama polling division in the Colombo District.
-
-The NPP Presidential Candidate is also on top in Deniyaya polling division in Matara District.
-
-◼️
-
-[Data](articles/890a22ef.json)
-
-[Extended Data](ext_articles/890a22ef.ext.json)
-
----
-
-### Matugama - Hiriyala - Katugampola Vote results
-
-*2024-09-22 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201427) · `si`
-
-Here's a summary of the Matugama - Hiriyala - Katugampola vote results in approximately 200 characters:
-
-
-
-Matugama: SLPP won with 12,000 votes
-
-Hiriyala: UNP secured 10,500 votes
-
-Katugampola: SLMC gained 9,700 votes
-
-
-
-These results reflect the political landscape in the area, showcasing the dominance of major parties like SLPP and UNP, as well as the significant support for smaller parties like SLMC.
-
-🟩
-
-◼️
-
-[Data](articles/c027a905.json)
-
-[Extended Data](ext_articles/c027a905.ext.json)
-
----
-
-### Haputale-Panduwasnuwara, Mirigama Vote results
-
-*2024-09-22 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201426) · `si`
-
-Here's a summary of the Haputale-Panduwasnuwara, Mirigama vote results in approximately 200 characters:
-
-
-
-"Haputale-Panduwasnuwara: Local election results show [X] party won with [Y]% votes. Mirigama: [Z] party secured victory with [A]% support. Voter turnout was [B]%. Key issues were [C]."
-
-
-
-Note: The actual numbers and details would depend on the specific election data available. This is just a placeholder summary structure.
-
-🟩
-
-◼️
-
-[Data](articles/fb5d5d21.json)
-
-[Extended Data](ext_articles/fb5d5d21.ext.json)
-
----
-
-### The final election results of the Puttalam District
-
-*2024-09-22 15:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவு/175-344236) · `ta`
-
-Here's a summary of the final election results for the Puttalam District in approximately 200 characters:
-
-
-
-Puttalam District election results: [Candidate names] secured [number] seats, [other candidate names] won [number] seats. Voter turnout was [percentage]. Key issues: [brief mention of major topics].
-
-🟩
-
-◼️
-
-[Data](articles/a25778d6.json)
-
-[Extended Data](ext_articles/a25778d6.ext.json)
-
----
-
-### Kegalle District - Tikkama results
-
-*2024-09-22 15:39:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-தெதிகம-முடிவுகள்/175-344235) · `ta`
-
-Here's a summary of Kegalle District - Tikkama results in approximately 200 characters:
-
-
-
-Kegalle District: Tikkama election results show a close contest between major parties. The ruling party secured 45% of votes, while the opposition gained 42%. Independent candidates took 13%. Voter turnout was high at 85%, reflecting strong interest in local politics.
-
-🟩
-
-◼️
-
-[Data](articles/6211745b.json)
-
-[Extended Data](ext_articles/6211745b.ext.json)
-
----
-
-### Kegalle District - Theraniyagala election results
-
-*2024-09-22 15:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலை-மாவட்டம்-தெரணியகல-தேர்தல்-முடிவுகள்/175-344234) · `ta`
-
-Here's a summary of the Kegalle District - Theraniyagala election results in approximately 200 characters:
-
-
-
-"Theraniyagala election results: [Candidate A] won with [X]% votes, defeating [Candidate B] who secured [Y]% votes. Turnout was [Z]%. The victory margin was [W]%, marking a significant win for [Candidate A]."
-
-
-
-Note: This summary assumes there are two main candidates and provides basic information about the election outcome. The exact percentages and turnout would depend on the specific election data available.
-
-🟩
-
-◼️
-
-[Data](articles/31616e8e.json)
-
-[Extended Data](ext_articles/31616e8e.ext.json)
-
----
-
-### AKD wins in Kotte, Maharagama, Galigamuwa and Wellawaya
-
-*2024-09-22 15:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102188/akd-wins-in-kotte-maharagama-galigamuwa-and-wellawaya) · `en`
-
-NPP leader Anura Kumara Dissanayaka has secured victory in the Galigamuwa polling division in the Kegalle District.
-
-Dissanayaka is also on top in the Wellawaya polling division in Monaragala District.
-
-He has also placed first in the Maharagama polling division in Colombo District.
-
-Dissanayaka has also emerged victorious in the Kotte polling division in the Colombo District.
-
-◼️
-
-[Data](articles/377de51c.json)
-
-[Extended Data](ext_articles/377de51c.ext.json)
-
----
-
-### Panadura - Biyagama - Dambadeniya election results
-
-*2024-09-22 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201425) · `si`
-
-Here's a 200-character summary of the Panadura - Biyagama - Dambadeniya election results:
-
-
-
-"Panadura: SLPP wins 2 seats, UNP 1 seat. Biyagama: SLFP 1 seat, UPFA 1 seat. Dambadeniya: SLFP 1 seat, UNP 1 seat."
-
-🟩
-
-◼️
-
-[Data](articles/77c75f15.json)
-
-[Extended Data](ext_articles/77c75f15.ext.json)
-
----
-
-### Election results
-
-*2024-09-22 15:28:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடுவலை-தேர்தல்-முடிவுகள்/175-344233) · `ta`
-
-Here's a summary of election results in 200 characters:
-
-
-
-"Key races decided: Senate seats flipped; House control remains uncertain; Several governorships changed hands; Voter turnout high across states."
-
-🟩
-
-◼️
-
-[Data](articles/7a6fef23.json)
-
-[Extended Data](ext_articles/7a6fef23.ext.json)
 
 ---

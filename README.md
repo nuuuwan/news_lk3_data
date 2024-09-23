@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 09:23:02**
+As of **2024-09-23 09:38:55**
 
 ## Newspaper Stats
 
-*Scraped **45,704** Articles*
+*Scraped **45,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,757
 dailyftlk | 3,030
 adalk | 4,194
 dailymirrorlk | 4,733
-adaderanalk | 5,377
-tamilmirrorlk | 6,077
+adaderanalk | 5,378
+tamilmirrorlk | 6,080
 virakesarilk | 7,300
 adaderanasinhalalk | 7,915
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,704 (100.0%) of 45,704 articles have been extended.
+45,708 (100.0%) of 45,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Anura Kumara to be sworn in as President today
+
+*2024-09-23 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102200/anura-kumara-to-be-sworn-in-as-president-today) · `en`
+
+National People’s Power (NPP) leader Anura Kumara Dissanayake is scheduled to be sworn in today (23) as the 9th Executive President of Sri Lanka.
+
+Mr. Dissanayake is scheduled to be sworn in as the President before Chief Justice Jayantha Jayasuriya this morning at the Presidential Secretariat in Colombo.
+
+◼️
+
+[Data](articles/f327b53d.json)
+
+[Extended Data](ext_articles/f327b53d.ext.json)
+
+---
 
 ### Lakshman Qunaarachchi for Anura blameless seat?
 
@@ -78,6 +94,28 @@ Prime Minister Dinesh Gunawardena has informed the resignation of his post.
 
 ---
 
+### Prime Minister Dinesh resigns
+
+*2024-09-23 09:07:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-தினேஷ்-இராஜினாமா/175-344286) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Prime Minister Dinesh Gunawardena resigns, submits letter to new President Anura Kumara Dissanayake."
+
+🟩
+
+Prime Minister Dinesh Gunawardena has resigned. He has sent his resignation letter to the new President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/68bd6d3a.json)
+
+[Extended Data](ext_articles/68bd6d3a.ext.json)
+
+---
+
 ### Dilith, ready
 
 *2024-09-23 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201455) · `si`
@@ -96,6 +134,26 @@ Motherland People's Party Leader, Entrepreneral Dilith Jayaweera says he is read
 
 ---
 
+### Indian Prime Minister Modi congratulates President Anura
+
+*2024-09-23 08:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அனுரவுக்கு-இந்திய-பிரதமர்-மோடி-வாழ்த்து/175-344285) · `ta`
+
+Indian PM Modi congratulates Sri Lanka's new President Anura Kumara Dissanayake, expressing desire to strengthen ties between nations for mutual benefit.
+
+🟩
+
+Indian Prime Minister Narendra Modi congratulates Sri Lanka's new President Anura Kumara Dissanayake.
+
+“Sri Lanka has a special place under India's neighboring policy. I would like to work closely with you to further strengthen our diversity for the benefit of our people and the entire region ”. He said that on his X page.
+
+◼️
+
+[Data](articles/305c6d9c.json)
+
+[Extended Data](ext_articles/305c6d9c.ext.json)
+
+---
+
 ### Several spells of showers expected in parts of the island
 
 *2024-09-23 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102199/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
@@ -111,6 +169,28 @@ Strong winds of about 40-45 kmph can be expected at times over the western slope
 [Data](articles/6041240f.json)
 
 [Extended Data](ext_articles/6041240f.ext.json)
+
+---
+
+### Greeting Indian High Commissioner New President
+
+*2024-09-23 08:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-புதிய-ஜனாதிபதிக்கு-வாழ்த்து/175-344284) · `ta`
+
+Indian High Commissioner Santos Ja met newly elected Sri Lankan President Dissanayake. He congratulated both nations, emphasizing strengthened bilateral ties for mutual prosperity. The meeting followed Dissanayake's announcement as President by the Election Commission Chair.
+
+🟩
+
+Indian High Commissioner Santos Ja met with Dissanayake, who was elected president at the National People's Power Office in Battaramulla yesterday evening.
+
+He congratulated India's leadership and congratulated Dissanayake on the success of the election, and the High Commissioner has posted on 'X' on 'X' that he emphasized India's commitment to strengthen relations for the prosperity of the two countries.
+
+The meeting was held following the announcement of Dissanayake as President by the Chairman of the Elections Commission.
+
+◼️
+
+[Data](articles/66f3e9d6.json)
+
+[Extended Data](ext_articles/66f3e9d6.ext.json)
 
 ---
 
@@ -2187,105 +2267,5 @@ Here's a summary of the Mahara - Katana - Gampaha election results in approximat
 [Data](articles/cff517db.json)
 
 [Extended Data](ext_articles/cff517db.ext.json)
-
----
-
-### The final election results of the Kurunegala District
-
-*2024-09-22 17:14:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருநாகல்-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344253) · `ta`
-
-Here's a summary of the final election results for the Kurunegala District in 200 characters:
-
-
-
-Kurunegala District election results: [Candidate names] secured [number] seats, while [other candidates] won [number] seats. The district saw a voter turnout of [percentage]. Key issues influencing the outcome included [brief mention of major factors].
-
-🟩
-
-◼️
-
-[Data](articles/8c85f8b6.json)
-
-[Extended Data](ext_articles/8c85f8b6.ext.json)
-
----
-
-### Presidential Election 2024: Final End!Action to choose the president!
-
-*2024-09-22 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194545) · `ta`
-
-Sri Lanka Presidential Election 2024 results: Anura Kumara Dissanayake leads with 42.31%, followed by Sajith Premadasa at 32.76%. Preferential voting underway.
-
-🟩
-
-Based on the votes so far, the presidential candidate of the National People's Power, Anura Kumara Dissanayake, has received 5,634,915 (42.31%).
-
-United People's Power's presidential candidate Sajith Premadasa is ranked 2nd with 4,363,035 (32.76%).
-
-President and Independent candidate Ranil Wickremesinghe is in 3rd place with 2,299,767 (17.27%).
-
-It is noteworthy that the preferential voting process has begun to elect the president.
-
-◼️
-
-[Data](articles/73a2b97f.json)
-
-[Extended Data](ext_articles/73a2b97f.ext.json)
-
----
-
-### Anura, Sajith and Ranil’s first count totals released as second count begins
-
-*2024-09-22 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102194/anura-sajith-and-ranils-first-count-totals-released-as-second-count-begins) · `en`
-
-The final cumulative result of the all-island vote count of the top three candidates, prior to the second count as previously announced by the Election Commission, has been announced.
-
-Accordingly, based on the first count of the cumulative result of the 2024 Presidential Election, NPP’s Anura Kumara Dissanayake leads with 5,634,915 votes (42.31%).
-
-SJB’s Sajith Premadasa is second with 4,363,035 votes, which is 32.76% of the total votes.
-
-Meanwhile, incumbent President Ranil Wickremesinghe has polled a total of 2,299,767 votes (17.27%) but fails to qualify for the second count.
-
-Earlier today, the Chairman of the Election Commission, R.M.A.L. Ratnayake officially announced the counting of second preference of the two leading candidates of the 2024 presidential election, in view of the prevailing situation of the vote results.
-
-...
-
-[Data](articles/e21a1729.json)
-
-[Extended Data](ext_articles/e21a1729.ext.json)
-
----
-
-### The final election results of the Kandy district
-
-*2024-09-22 17:03:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மாவட்டத்தின்-இறுதி-தேர்தல்-முடிவுகள்/175-344252) · `ta`
-
-Here's a summary of the Kandy district election results in approximately 200 characters:
-
-
-
-Kandy District Election Results Summary:
-
-- [Candidate Name] wins with [percentage]% of votes
-
-- Runner-up: [Candidate Name] with [percentage]% 
-
-- Voter turnout: [percentage]
-
-- Key issues: [brief mention of major campaign topics]
-
-- Notable: [any unusual or significant aspects of the election]
-
-
-
-Note: The exact details would depend on the specific election data available. This summary provides a general structure that could be filled in with actual numbers and facts from the Kandy district election results.
-
-🟩
-
-◼️
-
-[Data](articles/a4dd1693.json)
-
-[Extended Data](ext_articles/a4dd1693.ext.json)
 
 ---

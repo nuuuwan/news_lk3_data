@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 13:07:50**
+As of **2024-09-23 13:22:53**
 
 ## Newspaper Stats
 
-*Scraped **45,757** Articles*
+*Scraped **45,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,764
 dailyftlk | 3,030
-adalk | 4,203
+adalk | 4,204
 dailymirrorlk | 4,733
 adaderanalk | 5,387
-tamilmirrorlk | 6,088
-virakesarilk | 7,304
+tamilmirrorlk | 6,092
+virakesarilk | 7,312
 adaderanasinhalalk | 7,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,757 (100.0%) of 45,757 articles have been extended.
+45,757 (100.0%) of 45,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### புதிய ஜனாதிபதிக்கு சீன ஜனாதிபதியும் வாழ்த்து
+
+*2024-09-23 12:48:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-சீன-ஜனாதிபதியும்-வாழ்த்து/175-344307) · `ta`
+
+இலங்கையின் புதிய ஜனாதிபதியாக தெரிவு செய்யப்பட்டுள்ள  அனுரகுமாரதிசநாயக்கவிற்கு சீன ஜனாதிபதி ஜி ஜின்பிங் தனது வாழ்த்துக்களை தெரிவித்துள்ளார்.
+
+சீன அரசாங்கத்தின் சார்பிலும் மக்களின் சார்பிலும் வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றேன் என்றும் தனது வாழ்த்து மடலில் தெரிவித்துள்ளார்.
+
+இலங்கையும் சீனாவும் பாரம்பரிய நட்பு அயல்நாடுகள், இருநாடுகளும் இராஜதந்திர உறவை ஏற்படுத்தி 67 வருடங்களாகின்ற நிலையில் இரு நாடுகளும் பரஸ்பரம் ஒருவருக்கொருவர் புரிந்துணர்வையும்,ஆதரவையும் வழங்கிவருகின்றன.
+
+இதன் மூலம் இருநாடுகளும் நட்புறவுமிக்க சகவாழ்வு வேவ்வேறு அளவிலான நாடுகளிடையிலான பரஸ்பரம் நன்மையளிக்க கூடிய  ஒத்துழைப்பு ஆகியவற்றிற்கான சிறந்த உதாரணங்களாகும்
+
+நான் இலங்கை சீன உறவுகளிற்கு பெரும்முக்கியத்துவத்தை வழங்குகின்றேன் உங்களுடன் பாரம்பரிய நட்புறவை முன்னெடுப்பதற்கும் ,பரஸ்பர அரசியல் நம்பிக்கையை வலுப்படுத்துவதற்கும்  புதிய பட்டுப்பாதை திட்டத்தில் வெற்றிகரமான விடயங்கள சாதிப்பதற்கும்நான் ஆர்வமாக உள்ளேன்.
+
+◼️
+
+[Data](articles/1ed6671a.json)
+
+---
+
+### மத்திய மாகாண ஆளுநர் இராஜினாமா
+
+*2024-09-23 12:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மத்திய-மாகாண-ஆளுநர்-இராஜினாமா/76-344305) · `ta`
+
+மத்திய மாகாண ஆளுநரின் சட்டத்தரணி லலித் யு கமகே, ஆளுநர் பதவியிலிருந்து விலகுவதற்கான கடிதத்தை சமர்ப்பித்துள்ளதாக மத்திய மாகாண ஆளுநர் அலுவலகப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+மத்திய மாகாணம் மற்றும் கண்டியின் அனைத்து அம்சங்களிலும் சிறப்பு அறிவும் அனுபவமும் கொண்ட கண்டியில் வசிக்கும் மூத்த அரசியல்வாதிகள் இருவரில் ஒருவர் மத்திய மாகாணத்தின் புதிய ஆளுநராக நியமிக்கப்பட வாய்ப்புள்ளதாக மிகவும் நம்பகமான அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/c92bb1b0.json)
+
+---
+
+### யாழில் அநுரவிற்கு பொங்கல்
+
+*2024-09-23 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194598) · `ta`
+
+இந்நிலையில், யாழ்ப்பாணத்தில் உள்ள அவரது கட்சி அலுவலகம் முன்பாக, ஆதரவாளர்கள் பொங்கல் பொங்கி தமது மகிழ்ச்சியை வெளிப்படுத்தினர்.
+
+◼️
+
+[Data](articles/9538cb04.json)
+
+---
+
+### வினாத்தாள் கசிவு: ஒருவர் கைது
+
+*2024-09-23 12:35:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-கசிவு-ஒருவர்-கைது/175-344304) · `ta`
+
+2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை வினாத்தாளின் வினாக்கள் வெளியாகிய சம்பவம் தொடர்பில் மஹரகமவில் உள்ள தேசிய கல்வி நிறுவகத்தின் திட்டமிடல் பிரிவின் பணிப்பாளர் ஒருவர் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரினால் தரம் 5 புலமைப்பரிசில் பரீட்சை வினாத்தாளின் சில வினாக்கள்  வெளியாகியுள்ளதாக விசாரணையில் தெரியவந்துள்ளது. 57 வயதுடைய நபரொருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/48e30ed9.json)
+
+---
 
 ### 21% of the presidential election has not been voted
 
@@ -51,6 +111,36 @@ The Ada Derana joined the Big FUCUS program and said that it was 21% as a percen
 [Data](articles/e2ef5c13.json)
 
 [Extended Data](ext_articles/e2ef5c13.ext.json)
+
+---
+
+### பட்டாசு கொளுத்தியவர் வைத்தியசாலை அனுமதி
+
+*2024-09-23 12:26:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டாசு-கொளுத்தியவர்-வைத்தியசாலை-அனுமதி/175-344303) · `ta`
+
+தேசிய மக்கள் சக்தியின் தலைவர் அனுரகுமார திஸாநாயக்க பதவியேற்ற மகிழ்ச்சியில் பட்டாசு கொளுத்திக்கொண்டிருந்த நபரொருவர் தீ காயங்களுக்குள்ளாகி படுகாயமடைந்துள்ளதாக ஹொரணை பொலிஸார் தெரிவித்தனர் .
+
+ஹொரண இலிப கொஸ்வத்த பகுதியைச் சேர்ந்த 28 வயதுடைய ஒருவரே இவ்வாறு தீ காயங்களுக்குள்ளாகி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார் .
+
+குறித்த நபர் பட்டாசு கொளுத்தி சிறிது நேரத்தின் பின்னரும்  அது வெடிக்காததால், அருகில் சென்று சோதனையிட்டு பார்த்தபோது திடீரென பட்டாசு வெடித்துள்ளதுடன் இதனால் அவரது வலது கை மணிக்கட்டு உட்பட உடலின் பல பாகங்களில் பலத்த தீ காயங்கள் ஏற்பட்டுள்ளதாகவும் அவருக்கு அறுவை சிகிச்சை செய்ய திட்டமிடப்பட்டுள்ளதாகவும் ஹொரண ஆதார வைத்தியசாலையின் ஊடக பேச்சாளர் தெரிவித்தார்.
+
+மேலும் இது தொடர்பான மேலதிக விசாரணைகளை ஹொரணை தலைமையக பொலிஸார் மேற்கொண்டு வருவதாக தெரியவந்துள்ளது .
+
+◼️
+
+[Data](articles/b0147d1a.json)
+
+---
+
+### அநுரவின் பாராளுமன்ற இடத்திற்கு லக்ஷ்மன் நிபுன ஆராச்சி
+
+*2024-09-23 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/194597) · `ta`
+
+ஜனாதிபதியாக அநுரகுமார திசாநாயக்க தெரிவுசெய்யப்பட்டதையடுத்து ஏற்பட்ட வெற்றிடத்திற்கு லக்ஷ்மன் நிபுன ஆராச்சி பாராளுமன்ற உறுப்பினராக நியமிக்கப்படவுள்ள தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/774a3e6f.json)
 
 ---
 
@@ -93,6 +183,18 @@ However, he added that Lakshman Nipuna Arachchi is next on the preference list a
 [Data](articles/ac3863a9.json)
 
 [Extended Data](ext_articles/ac3863a9.ext.json)
+
+---
+
+### கடிவாளம் போடாத காலநீடிப்பு
+
+*2024-09-23 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/194581) · `ta`
+
+ஜெனிவாவில் மீண்டும் ஒரு வருட கால அவகாசம் வழங்கப்படவுள்ளதானது, பாதிக்கப்பட்ட தரப்பினரை பொறுத்தவரையில் ஏமாற்றம் அளிக்கின்ற ஒரு விடயம்”
+
+◼️
+
+[Data](articles/34133633.json)
 
 ---
 
@@ -145,6 +247,32 @@ Prabath Jayasuriya took 5 wickets for 68 runs in New Zealand in New Zealand.
 [Data](articles/3e173c43.json)
 
 [Extended Data](ext_articles/3e173c43.ext.json)
+
+---
+
+### இலங்கையில் அரசியல் பூகம்பம்
+
+*2024-09-23 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/194591) · `ta`
+
+பாரம்பரிய உயர்குழாமிற்கு வெளியே ஒருவரை இலங்கை மக்கள் ஜனாதிபதியாக தெரிவு செய்வது சுதந்திரத்தி;ற்கு பின்னரான இலங்கையில் இதுவே முதல் தடவை.
+
+ஏகேடி என அழைக்கப்படும் திசநாயக்க அனுராதபுரத்தி;ல் மிகவும் சாதாரண குடும்ப பி;ன்னணியை கொண்டவர்.
+
+பொருளாதார நெருக்கடியின் போது வறிய  ஏழ்மையான நிலையில் உள்ள இலங்கையர்கள் அனுபவித்த வலிக்கு இந்த தேர்தல் முடிவு ஒரு சான்று.
+
+ஊழலிற்கு எதிரான ஏகேடியின் போராட்டத்திற்கும,; மக்களிற்கு அதிகளவு நலன்புரிசேவைகளை வழங்கவேண்டும் என்ற  அவரது வேண்டுகோள்களிற்கும் பரந்துபட்ட ஆதரவுள்ளது.
+
+தேர்தல் வெற்றியாளரின் பலவீனம் என்னவென்றால் அவரது கூட்டணிக்கு இலங்கை போன்ற ஒரு  சிக்கலான அரசாங்கத்தை நிர்வகித்த அனுபவம் மிகவும் குறைவு.
+
+மிகவும் சவாலான பொருளாதார சூழலில் தங்களின் பல வாக்குறுதிகளை நடைமுறைப்படுத்துவது அவர்களிற்கு மிகவும் சவாலான விடயமாக காணப்படலாம்.
+
+தனது தேர்தல் பிரச்சாரத்தின் போது ஏகேடி இந்தியா சீனா மேற்குலகை நோக்கி தனது நேசக்கரங்களை நீட்டினார்.
+
+இலங்கையின் தேர்தல் பிரச்சாரத்தில் பேரினவாதமும் இனதீவிரவாதமும் நீண்டகாலத்தின் பின்னர் எந்த முக்கியத்துவத்தையும் பெறாத தேர்தல் இது.
+
+...
+
+[Data](articles/fa4868a3.json)
 
 ---
 
@@ -228,6 +356,38 @@ The Director of the Planning Division of the Planning Division of the National E
 
 ---
 
+### ආණ්ඩුකාරවරුන් 03ක් ඉල්ලා අස්වෙයි
+
+*2024-09-23 11:33:14* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුකාරවරුන්-03ක්-ඉල්ලා-අස්වෙයි/11-412085) · `si`
+
+සබරගමුව, ඌව සහ උතුරු මැද පළාත් ආණ්ඩුකාරවරුන් ඉල්ලා අස්වී තිබේ.
+
+ඒ අනුව සබරගමු පළාත් ආණ්ඩුකාර නවීන් දිසානායක, ඌව පළාත් ආණ්ඩුකාර අනුර විදානගමගේ සහ උතුරු මැද පළාත් ආණ්ඩුකාර මහීපාල හේරත් යන මහත්වරුන් මෙලෙස ඉල්ලා අස්වී ඇත.
+
+◼️
+
+[Data](articles/37b48f90.json)
+
+---
+
+### அனுரகுமாரவின் தலைமைத்துவம் எனது  தந்தையின் படுகொலைக்கு நீதிவழங்கவேண்டும் - லசந்தவின் மகள்
+
+*2024-09-23 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194584) · `ta`
+
+சண்டே லீடர் ஆசிரியர் லசந்த லசந்தவிக்கிரமதுங்கவின் படுகொலைக்கு புதிய ஜனாதிபதி அனுரகுமாரதிசநாயக்க  நீதிவழங்கவேண்டும் என லசந்த விக்கிரமதுங்கவின் மகள் அஹிம்சா விக்கிரமதுங்க வேண்டுகோள் விடுத்துள்ளார்.
+
+அதிகாரத்தில் உள்ளவர்களிற்கு எதிராக உண்மையை பேசியமைக்காக நியாயமற்ற விதத்தில் பறிக்கப்பட்ட எனது தந்தையின் உயிருக்காக நீதியை பெற்றுக்கொள்வது குறித்து நானும் எனது குடும்பமும் உறுதியாக உள்ளோம் என அவர் தெரிவித்துள்ளார்.
+
+அதிகாரத்தின் முன்னால் உண்மைய பேசியமைக்காக 15 வருடங்களிற்கு முன்னர் நியாயமற்ற விதத்தில் பறிக்கப்பட்ட எங்களின் தந்தைக்கு உயிருக்கு நீதியை பெற்றுக்கொள்வது குறித்து நானும் எனது குடும்பமும் தளராத உறுதியுடன் காணப்படுகின்றோம் என அறிக்கையொன்றி;ல் அவர்  தெரிவித்துள்ளார்.
+
+15வருடங்களாகின்ற போதிலும் அந்த வலி வேதனை தொடர்கின்றது,ஆனால் உண்மை பொறுப்புக்கூறலை நிலைநாட்டுவது குறித்து நான் மிகவும் உறுதியான அர்ப்பணிப்புடன் உள்ளேன் என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/6d44e541.json)
+
+---
+
 ### "This is my last election" -Donald Trump
 
 *2024-09-23 11:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்முறை-தோற்றால்-இதுவே-என்-கடைசி-தேர்தல்-டொனால்ட்-டிரம்ப்/50-344299) · `ta`
@@ -265,6 +425,40 @@ Addressing the nation, President Dissanayake said: “The most significant featu
 [Data](articles/1671cdd9.json)
 
 [Extended Data](ext_articles/1671cdd9.ext.json)
+
+---
+
+### தண்ணீர் நிரம்பிய தொட்டியில் விழுந்து 11 மாத குழந்தை உயிரிழப்பு
+
+*2024-09-23 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194573) · `ta`
+
+முல்லைத்தீவு, முள்ளிவாய்க்கால்  கிழக்கு பகுதியில் தண்ணீர் நிரம்பிய தொட்டியில் விழுந்து குழந்தை உயிரிழந்துள்ளதாக முல்லைத்தீவு பொலிஸார் தெரிவித்தனர்.
+
+குழந்தை தனது தாயுடன் குளியலறையில் இருந்த போது தண்ணீர் நிறைந்த தொட்டியில் விழுந்து நீரில் மூழ்கியுள்ள நிலையில் மாஞ்சோலை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர்  உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/1bebefb1.json)
+
+---
+
+### இலங்கை மக்களுக்கு அமெரிக்கா பாராட்டு : ஜனாதிபதி அநுரகுமாரவுக்கு வாழ்த்து
+
+*2024-09-23 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194572) · `ta`
+
+இலங்கை ஜனாதிபதி தேர்தலில் வெற்றி பெற்ற ஜனாதிபதி அநுரகுமார திஸாநாயக்கவிற்கு அமெரிக்க இராஜாங்கத் திணைக்களம் வாழ்த்து தெரிவித்துள்ளது.
+
+இந்த தேர்தல் இலங்கையின் ஜனநாயக அமைப்பின் பலம், அமைதி மற்றும் ஜனநாயக வழிமுறைகளின் மூலம் அவர்களின் எதிர்காலத்தை தீர்மானிப்பதில் குடிமக்களின் அர்ப்பணிப்புக்கு ஒரு சான்றாகும்.
+
+ஒரு நிலையான, வளமான மற்றும் ஒருங்கிணைக்கப்பட்ட சமூகத்தை கட்டியெழுப்ப இலங்கைக்கு அமெரிக்கா ஒத்துழைப்பு வழங்கும்.
+
+ஜனநாயக விழுமியங்கள் மற்றும் தேசிய இறையாண்மைக்கு மதிப்பளிக்கும் அடிப்படையிலான எமது இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவதற்காக ஜனாதிபதியாக தெரிவு செய்யப்பட்ட அநுரகுமார திஸாநாயக்கவுடன் இணைந்து செயற்பட நாங்கள் எதிர்பார்த்துள்ளோம்.
+
+நமது நாடுகளுக்கு இடையே பொருளாதார, பாதுகாப்பு மற்றும் ஆழமான ஒத்துழைப்பை மேம்படுத்துவதையும் நாங்கள் எதிர்பார்க்கிறோம் என அமெரிக்காவின் உத்தியோகபூர்வ தளத்தில் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3a83e464.json)
 
 ---
 
@@ -407,6 +601,18 @@ Sri Lanka won the first Test match between the two countries, the forefront of 1
 [Data](articles/ca4df6f7.json)
 
 [Extended Data](ext_articles/ca4df6f7.ext.json)
+
+---
+
+### லெபனானில் பேஜர்கள்  மரணப் பொறிகளாக மாறிய கதை : ‘ஆழ்ந்த அறிவை அழிக்கப் பயன்படுத்தும் இஸ்ரேலின் கோரத்தாண்டவம்’
+
+*2024-09-23 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194354) · `ta`
+
+ஆட்களைக் கொல்வதற்காக பயன்படுத்தப்பட்ட தொடர்பாடல் கருவிகள், அழிக்க நினைக்க சக்தியால் காசு கொடுத்து வாங்கப்பட்டவை அல்ல. ஓர்டருக்கும், தயாரிப்பிற்கும், விற்பனைக்கும் இடையிலான வர்த்தகத்திற்குள் உள்ளே நுழைந்த சக்தியால் யாரும் அறியாமல் குண்டுகளாக மாற்றப்பட்டவை.
+
+◼️
+
+[Data](articles/5468895f.json)
 
 ---
 
@@ -1931,285 +2137,5 @@ The award was presented to Sampath Bank’s Managing Director, Ayodhya Iddawella
 [Data](articles/dbb4c3ad.json)
 
 [Extended Data](ext_articles/dbb4c3ad.ext.json)
-
----
-
-### Empowering Sri Lankan students through debate and social-emotional learning
-
-*2024-09-23 02:02:00* · [`islandlk`](http://island.lk/empowering-sri-lankan-students-through-debate-and-social-emotional-learning/) · `en`
-
-Learn for Life Lanka is proud to announce its partnership with Debate Mate, a globally reputed leader in transformative debating programmes. The partnership began with a pilot programme aimed at empowering 250 underprivileged students from low-income schools in Sri Lanka. Furthermore, 60 teachers from schools and community centres also received specialised training. The initiative is designed to develop essential skills such as listening, speaking and thinking in students to help boost their confidence and prepare them for success in the future.
-
-As part of this programme, students and teachers from 18 schools in the Serendib Schools Development Foundation (SSDF), St. Anthony’s Balika, Dematagoda and selected trainers from the Foundation of Goodness participated in an intensive training programme which took place at the Khairiya Muslim Girls College over a period of one week.
-
-...
-
-[Data](articles/007ce794.json)
-
-[Extended Data](ext_articles/007ce794.ext.json)
-
----
-
-### SriLankan Airlines launches new pre-order meal service ‘Serendib Delights’
-
-*2024-09-23 02:02:00* · [`islandlk`](http://island.lk/srilankan-airlines-launches-new-pre-order-meal-service-serendib-delights-2/) · `en`
-
-SriLankan Airlines has introduced “Serendib Delights,” an exciting new pre-order meal service exclusively for Economy Class passengers. This service enhancement allows travellers to select from a carefully curated menu before their journey, offering an elevated onboard dining experience.
-
-With Serendib Delights, Economy Class passengers can choose from an assortment of meals designed to meet a variety of dietary preferences. The menu features options such as Salmon Steaks, Chicken Lamprais, Fillet Steaks, Fish Fritters, Beef Burgers, Seafood Pies and authentic Arabic, Western and Indian breakfasts.
-
-Each meal is meticulously prepared from fresh, high-quality ingredients to create a gastronomic treat. The menu also includes vegetarian, vegan and gluten-free options, ensuring that every passenger can find something to delight their taste buds. All meals catered from Colombo and many other locations across the SriLankan network are Halal Certified.
-
-...
-
-[Data](articles/0b0b2bdb.json)
-
-[Extended Data](ext_articles/0b0b2bdb.ext.json)
-
----
-
-### German Federal Ministry for Economic Affairs explores opportunities at HIP
-
-*2024-09-23 02:02:00* · [`islandlk`](http://island.lk/german-federal-ministry-for-economic-affairs-explores-opportunities-at-hip/) · `en`
-
-Tobias Pierlings, Director and Head of Division for South Asia and Southeast Asia at the German Federal Ministry for Economic Affairs and Climate Action, Berlin and a delegation from the German Embassy in Sri Lanka, visited the Hambantota International Port (HIP) last week.
-
-The visit was to explore potential business opportunities in Sri Lanka and assess the capabilities of the Hambantota International Port Group (HIPG).
-
-...
-
-[Data](articles/f242d22e.json)
-
-[Extended Data](ext_articles/f242d22e.ext.json)
-
----
-
-### First Capital Research publishes its pre-policy analysis report
-
-*2024-09-23 01:57:00* · [`islandlk`](http://island.lk/first-capital-research-publishes-its-pre-policy-analysis-report/) · `en`
-
-As per our view, at the upcoming policy meeting, there is an 80% probability for the Central Bank of Sri Lanka (CBSL) to maintain rates at the current levels, allowing further strengthening of key economic indicators, say Dimantha Mathew and Anjali Mathews, analysts at First Capital Research.
-
-In their report titled, “The Road ahead: Steering Interest rates in an uncertain economy’. They say, “There is, however, a 20% probability for CBSL to relax the policy rates, with a probability of 15% for a rate cut of 25bps and a lower level of 5% for 50bps rate cut in order to further reduce rates and government security yields to accelerate economic growth.
-
-“Further, there is an 80% probability to keep SRR unchanged; while considering the improved liquidity levels in the system, we consider a 20% probability for a SRR hike of 100bps.”
-
-...
-
-[Data](articles/2c344cf7.json)
-
-[Extended Data](ext_articles/2c344cf7.ext.json)
-
----
-
-### Apparel forum congratulates Sri Lanka’s new President
-
-*2024-09-23 01:42:00* · [`economynextcom`](https://economynext.com/apparel-forum-congratulates-sri-lankas-new-president-180515/) · `en`
-
-ECONOMYNEXT – The Joint Apparel Association Forum (JAAF) of Sri Lanka has congratulated National People’s Power leader Anura Dissanayake on being elected as the country’s new president.
-
-The trade body highlighted the importance of the apparel sector, a key driver of Sri Lanka’s export-led growth, and expressed its support to the president and his team.
-
-“We look forward to working closely with the new President and the Government to ensure the continued success of the apparel sector,” Secretary General of JAAF Yohan Lawrence said.
-
-The Joint Apparel Association Forum (JAAF), Sri Lanka’s apex body for the textile and apparel industry, warmly congratulates NPP leader Anura Kumara Dissanayake on being elected as the new President of Sri Lanka.
-
-...
-
-[Data](articles/243cc7c5.json)
-
-[Extended Data](ext_articles/243cc7c5.ext.json)
-
----
-
-### Indian High Commissioner Santosh Ja meets President Anura
-
-*2024-09-23 01:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/194559) · `ta`
-
-Indian High Commissioner Santosh Jha meets Sri Lankan President Anura Kumara Dissanayake. Congratulates India's leadership and Sri Lankan people on election victory. Emphasizes shared values and commitment to strengthen bilateral ties for mutual prosperity.
-
-🟩
-
-Indian High Commissioner Santosh Ja, who met with Anura Kumara Dissanayake, who was elected as the 9th Executive President of Sri Lanka, congratulated the Indian leadership and congratulated the people's mandate.
-
-He added that the twins with many civilized similarities are committed to further strengthening relationships for the prosperity of the people of our two countries.
-
-◼️
-
-[Data](articles/e7d71edc.json)
-
-[Extended Data](ext_articles/e7d71edc.ext.json)
-
----
-
-### Greeting the US
-
-*2024-09-23 01:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுக்கு-அமெரிக்கா-வாழ்த்து/175-344277) · `ta`
-
-US Ambassador Julie Sung congratulates Anura Kumara Dissanayake on his presidential election win, praising Sri Lanka's peaceful democracy. She expresses readiness to collaborate based on mutual interests.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Sung has congratulated Anura Kumara Dissanayake for his victory in the presidential election.
-
-"We appreciate the Sri Lankan people for peaceful use of their democratic rights," he said.
-
-Julie Sung said he was ready to work together on the basis of shared preferences. (A)
-
-◼️
-
-[Data](articles/cb44c8f8.json)
-
-[Extended Data](ext_articles/cb44c8f8.ext.json)
-
----
-
-### Iran's tunnel exploded: 50 killed
-
-*2024-09-23 00:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-சுரங்கத்தில்-வெடி-விபத்து-50-பேர்-பலி/50-344276) · `ta`
-
-Iran mine explosion kills 51 injures 20 due to methane gas. Rescue efforts ongoing in C Block where 30 workers died.
-
-🟩
-
-51 people were killed and 20 injured in a gas explosion in a mine explosion in the southern Korasan region of Iran, according to media reports yesterday.
-
-State media reports that the accident occurred due to methane gas explosion in the 'B' and 'C' block in the mine -run mine, operating in the area.
-
-Commenting on the accident, the governor of the South Korasan region, Ali Akbar Rahimi, said, “76 percent of the country's overall coal use is received from the area.. There are 8 to 10 large companies, including Madanju.
-
-The rescue work has been completed in B Block. 30 out of 47 employees who were on the job died. 17 people were injured. Rescue work has begun in C Black. Methane density is very high in this area. So it takes more time to complete the rescue work. ”. State television said 69 people were working there before the accident.(a)
-
-◼️
-
-[Data](articles/8f6a38c7.json)
-
-[Extended Data](ext_articles/8f6a38c7.ext.json)
-
----
-
-### 2024-09-22 (Sunday)
-
-### Everyone should unite as a grid for the country - the new president's appeal!
-
-*2024-09-22 23:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194556) · `ta`
-
-New president appeals unity: "We must unite as a grid for our country," said Anura Kumara Dissanayake. He emphasized collective effort over individual success. All citizens, regardless of support, should work together as Sri Lankans.
-
-🟩
-
-Anurakumara Dissanayake, the new president, said that the presidential election was the first victory.
-
-President Anura Kumara Dissanayake said this while addressing the event at the Election Commission.
-
-Challenges cannot be succeeded by individual and team. President Anura Kumara Dissanayake said that everyone should unite for the country and negotiate for it.
-
-President Anura Kumara Dissanayake said that all citizens who did not support and support me would work together as a Sri Lankan.
-
-◼️
-
-[Data](articles/537c35c6.json)
-
-[Extended Data](ext_articles/537c35c6.ext.json)
-
----
-
-### Governor of Sabaragamuwa Province
-
-*2024-09-22 23:43:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சப்ரகமுவ-மாகாண-ஆளுநர்-இராஜிநாமா/175-344275) · `ta`
-
-Sabaragamuwa Province Governor Naveen Dissanayake resigns on Sunday 22.
-
-🟩
-
-Governor of Sabaragamuwa Province Naveen Dissanayake resigned from his post on Sunday (22).
-
-◼️
-
-[Data](articles/1e5fe4cb.json)
-
-[Extended Data](ext_articles/1e5fe4cb.ext.json)
-
----
-
-### There is a lot to do first;New President's Action
-
-*2024-09-22 22:37:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலில்-செய்ய-வேண்டியது-நிறைய-உள்ளது-புதிய-ஜனாதிபதி-அதிரடி/175-344274) · `ta`
-
-Sri Lanka's new president Anurakumara Dissanayake calls for unity, promises electoral reform, and emphasizes negotiation to overcome divisions.
-
-🟩
-
-Anurakumara Dissanayake, the 9th Executive President of Sri Lanka, said that many divisions in the country should be compromised very quickly.
-
-Anurakumara Dissanayake was speaking at a press conference announcing the final decision of the Presidential Elections held by the Colombo Election Commission tonight.
-
-“This presidential election is a victory. I hope to amend the elections before the next election. We have realized that the law requires amendments. I will pay special attention to it.
-
-The country is unstable in many ways. The country can only be carried forward by the government created by the people's will. We are in the position of holding a parliamentary election.
-
-Many things to change in our country. Eradicate the culture of conducting elections, celebrating success, and then fear to the other.
-
-Multiply the many divisions in our country are to be compromised very quickly. We can move forward through negotiations. ”. Remble
-
-◼️
-
-[Data](articles/f1952b64.json)
-
-[Extended Data](ext_articles/f1952b64.ext.json)
-
----
-
-### Sri Lanka President-elect calls for united effort to take country forward
-
-*2024-09-22 22:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-elect-calls-for-united-effort-to-take-country-forward-180511/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has called for united effort to take the country forward after being declared winner of presidential polls winning 42 percent of the popular vote.
-
-“My expectation is to treat as sri Lankans without any division all those who placed their trust in me and take the country forward,” Dissanayake said after being declared the winner by the island’s independent Elections Commission.
-
-Sri Lanka needed a government with a mandate to take the country out of economic crisis, he said.
-
-Sri Lanka is emerging from the worst currency crisis triggered by extreme macroeconomic policy, which ended in sovereign default.
-
-Despite the lack of war Sri Lanka began to experience severe balance of payments troubles from 2011 as the central bank printed money to target short term rates within a policy corridor and also narrowed it.
-
-...
-
-[Data](articles/c15a2321.json)
-
-[Extended Data](ext_articles/c15a2321.ext.json)
-
----
-
-### Continuing failures for Sri Lankan youth football teams
-
-*2024-09-22 22:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194558) · `ta`
-
-Sri Lankan youth football teams face setbacks: loss to North Korea in Bhutan tournament, defeat to Bhutan 1-5 in under-17 match. North Korea also loses 0-4 in AFC Asian Cup qualifiers. Sri Lanka faces Tajikistan, Oman, and Malaysia upcoming matches.
-
-🟩
-
-Sri Lanka's 20 -year -old Sri Lankan team lost to North Korea in Bhutan in the under -17 Chaw Championship Football Tournament in Bhutan's capital Timbu.
-
-Sri Lanka lost to Bhutan by a margin of 1 - 5 in the under -17 football.
-
-Subsequently, North Korea lost the target by 0 - 4 in the AFC Asian Bowl 2025 qualifying E. Group Under -20, in Tusanbay, Dushanbe.
-
-In the first part of the match, Sri Lanka controlled North Korea for a goal and scored 3 goals in the second part.
-
-North Korea's forerunner Ri Jong Doc, a head -trick score in the upting match. It is a special feature that he is knocked out with those 3 goals.
-
-In the 34th minute of the match, team captain Xo Cook scored the ball with R Jong Dog with his first goal in the presence of North Korea.
-
-In the first minute (46th minute), Ri Jong Dog kicked the ball in the first minute (46th minute).
-
-In the 64th minute of the match, Kim Jin Song scored the ball with Ri Jong Dog's head and doubled his own goal.
-
-...
-
-[Data](articles/61d2021e.json)
-
-[Extended Data](ext_articles/61d2021e.ext.json)
 
 ---

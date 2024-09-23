@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 13:39:27**
+As of **2024-09-23 13:58:20**
 
 ## Newspaper Stats
 
-*Scraped **45,773** Articles*
+*Scraped **45,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,60 +17,144 @@ economynextcom | 2,764
 dailyftlk | 3,030
 adalk | 4,204
 dailymirrorlk | 4,733
-adaderanalk | 5,387
+adaderanalk | 5,389
 tamilmirrorlk | 6,093
 virakesarilk | 7,312
-adaderanasinhalalk | 7,926
+adaderanasinhalalk | 7,927
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,770 (100.0%) of 45,773 articles have been extended.
+45,776 (100.0%) of 45,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
 
-### ආචාර්ය නන්දික කුමනායක ජනාධිපති ලේකම් ධුරයට
+### CWE Chairman resigns
+
+*2024-09-23 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201469) · `si`
+
+CWE Chairman resigns, citing new President's appointment. Sent letter to Minister Nalin Fernando.
+
+🟩
+
+He has sent a letter to the Minister of Trade, Commerce and Food Security Nalin Fernando.
+
+It states that he resigns with the appointment of a chairman for the new President.
+
+◼️
+
+[Data](articles/f83cc931.json)
+
+[Extended Data](ext_articles/f83cc931.ext.json)
+
+---
+
+### Over 21% registered voters didn’t vote in presidential election - EC
+
+*2024-09-23 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102210/over-21-registered-voters-didnt-vote-in-presidential-election-ec) · `en`
+
+The Commissioner General of Elections Saman Sri Ratnayake states that over 3.5 million citizens who are eligible to vote, have not casted their votes during 2024 Presidential Election.
+
+Speaking during Ada Derana’s current affairs programme “Big Focus” on Monday (23), Ratnayake said that the figure is 21.54% of the population that are eligible to cast their vote.
+
+Furthermore, he clarified that out of 17,140,354 registered voters, a total of 13,619,916 have cast their votes in the Presidential Election which is 79.46%, while 3,520,438 (21.54%) did not vote.
+
+Meanwhile, approximately 300,300 (2.2%) votes were rejected, according to the Elections Commissioner General.
+
+...
+
+[Data](articles/55d0944f.json)
+
+[Extended Data](ext_articles/55d0944f.ext.json)
+
+---
+
+### Dr. Nandika to be appointed Secretary to the President
 
 *2024-09-23 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201468) · `si`
 
-ආචාර්ය නන්දික සනත් කුමනායක මහතා ජනාධිපති ලේකම් ලෙස පත්කර තිබේ.
+Dr. Nilika Sanath named Secretary to the President. New President appointed for Sri Lanka. Cabinet formed. Parliament dissolution planned. Anura Dissanayake to appoint Lakshman Nipunarachchi for vacant parliamentary seat.
+
+🟩
+
+Dr. Nilika Sanath has been appointed as the Secretary to the President.
+
+The new President has been appointed as the new President of the National Fundamental Executive President as the new Executive President of Sri Lanka.
+
+Meanwhile, referring to the media after his swearing in the president, National Executive Member Sunil Handunnetti is due to dissolve the Parliament.
+
+He added that the decision was made after appointing the new cabinet.
+
+Meanwhile, Anura Dissanayake is due to appoint Lakshman Nipunarachchi next to the Lecture List for the post-emptied parliamentary seat after Anura Dissanayake was appointed President.
 
 ◼️
 
 [Data](articles/7a02d7d0.json)
 
+[Extended Data](ext_articles/7a02d7d0.ext.json)
+
 ---
 
-### புதிய  ஜனாதிபதிக்கு கேத்ரின் வெஸ்ட்டின், வாழ்த்து
+### New Secretary to the President appointed
+
+*2024-09-23 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102209/new-secretary-to-the-president-appointed-) · `en`
+
+Dr. Nandika Sanath Kumanayaka has been appointed as the Secretary to the President, the Government Information Department announced.
+
+◼️
+
+[Data](articles/96424c28.json)
+
+[Extended Data](ext_articles/96424c28.ext.json)
+
+---
+
+### Catherine Westin, congratulations to the new president
 
 *2024-09-23 13:06:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-கேத்ரின்-வெஸ்ட்டின்-வாழ்த்து/175-344308) · `ta`
 
-இலங்கையின் 9ஆவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக தெரிவு செய்யப்பட்ட அனுரகுமார திஸாநாயக்கவுக்கு, ஐக்கிய இராச்சிய பாராளுமன்ற உறுப்பினர்  கேத்ரின் வெஸ்ட் வாழ்த்துக்களை தெரிவித்துக் கொள்வதாக தனது ட்விட்டரில் பதிவிட்டுள்ளார்.
+Here's a 200-character summary:
+
+
+
+UK MP Catherine West congratulates Anuragumara Dissanayake on becoming Sri Lanka's 9th Executive President.
+
+🟩
+
+United Kingdom MP Katherine West has posted on his Twitter on his Twitter congratulations to Anuragumara Dissanayake, the 9th Executive President of Sri Lanka.
 
 ◼️
 
 [Data](articles/08cb4441.json)
 
+[Extended Data](ext_articles/08cb4441.ext.json)
+
 ---
 
-### පාර්ලිමේන්තුවේ මන්ත්‍රී ධුරයක් හිස්වෙයි
+### Parliament emptying in parliament
 
 *2024-09-23 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201467) · `si`
 
-ඒ නව වැනි ජනාධිපති ලෙස තේරි පත්වූ අනුර කුමාර මහතා පාර්ලිමේන්තු මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වීම හේතුවෙනි.
+Anura's president resigns; new president elected. Parliament empties. Secretary General informs Elections Commission. National popularity to fill vacant seat. Arrangements to be made.
 
-පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණදීර මහත්මිය විසින් මේ බව මැතිවරණ කොමිෂන් සභාව වෙත දන්වා යවා ඇත.
+🟩
 
-පුරප්පාඩු වූ එම මන්ත්‍රී ධුරය සඳහා ජාතික ජනබලවේගයේ ලක්ෂ්මන් නිපුණආරච්චි මහතා පත් කිරීමට නියමිත බව මැතිවරණ කොමිසම පවසයි.
+He was the resignation of elected President of Anura, as the new President.
 
-එම කොමිසමේ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා අද දෙරණ Big Focus වැඩසටහනට එක් වෙමින් පැවසුවේ ඒ සඳහා අවශ්‍ය කටයුතු මේ වන විට සිදුවනු ඇති බවය.
+Mrs. Kushani Rohana, Secretary General of Parliament has been informed to the Elections Commission.
+
+The Elections Commission states that the national popularity is to be appointed as the vacant parliamentarian.
+
+The Commissioner General of the Commission Saman Sri Ratnayake participating at the Ada Derana Big FUCUS Program, said that necessary arrants will take place.
 
 ◼️
 
 [Data](articles/2072c9c4.json)
+
+[Extended Data](ext_articles/2072c9c4.ext.json)
 
 ---
 
@@ -2179,47 +2263,5 @@ Rishad Bathiudeen, who posted on his official 'X' site on his official 'X' site,
 [Data](articles/fc7a9cbe.json)
 
 [Extended Data](ext_articles/fc7a9cbe.ext.json)
-
----
-
-### AKD’s victory a historic shift in power
-
-*2024-09-23 04:26:49* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-victory-a-historic-shift-in-power/4-767002) · `en`
-
-All the noise from various parties has now faded, as Anura Kumara Dissanayake (AKD) is set to be sworn in as Sri Lanka’s 9th President, marking the change the public has long awaited. Personally, I’m not concerned with what others think; our responsibility remains to work for our children’s future, regardless of who is in power. Both Ranil Wickremesinghe and Sajith Premadasa allowed rogue elements from Pohottuwa into their ranks, leading to their downfall, while Namal Rajapaksa was a non-factor, as the results clearly showed.
-
-...
-
-[Data](articles/5f8b7742.json)
-
-[Extended Data](ext_articles/5f8b7742.ext.json)
-
----
-
-### AKD’s top priority should be to appease a population boiling from within
-
-*2024-09-23 04:19:54* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-top-priority-should-be-to-appease-a-population-boiling-from-within/4-767000) · `en`
-
-Beneath this diabolic calmness on the surface, the economy is dangerously boiling, heating up gradually every moment without an internally built cooling mechanism and ready for eruption like a volcano
-
-What is the economy which the new President has inherited from the outgoing President? On the surface, it is a more orderly economy compared with the chaos-filled one which Sri Lanka had about two and a half years ago. There are no long queues for essential consumer items like fuel, cooking gas, and basic food items. There are no curse-generating power cuts anymore. Foreign exchange is available to users – both consumers and producers – through banking channels. The foreign exchange black market is virtually non-existent. People are enjoying life travelling locally as well as overseas on holidays or pilgrimages
-
-...
-
-[Data](articles/1aee9760.json)
-
-[Extended Data](ext_articles/1aee9760.ext.json)
-
----
-
-### Presidential Election 2024
-
-*2024-09-23 04:06:43* · [`dailyftlk`](https://www.ft.lk/business/Presidential-Election-2024/34-766999) · `en`
-
-◼️
-
-[Data](articles/73cc1ffc.json)
-
-[Extended Data](ext_articles/73cc1ffc.ext.json)
 
 ---

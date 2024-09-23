@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 11:38:58**
+As of **2024-09-23 11:58:54**
 
 ## Newspaper Stats
 
-*Scraped **45,738** Articles*
+*Scraped **45,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 382
 bbccomsinhala | 447
 colombotelegraphcom | 454
 islandlk | 2,677
-economynextcom | 2,757
+economynextcom | 2,764
 dailyftlk | 3,030
 adalk | 4,202
 dailymirrorlk | 4,733
 adaderanalk | 5,384
-tamilmirrorlk | 6,085
+tamilmirrorlk | 6,086
 virakesarilk | 7,304
 adaderanasinhalalk | 7,920
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,920
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,738 (100.0%) of 45,738 articles have been extended.
+45,746 (100.0%) of 45,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### "This is my last election" -Donald Trump
+
+*2024-09-23 11:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்முறை-தோற்றால்-இதுவே-என்-கடைசி-தேர்தல்-டொனால்ட்-டிரம்ப்/50-344299) · `ta`
+
+Donald Trump declares 2024 as his final presidential bid. He vows not to run again if he loses, setting stage for potential 2028 rematch.
+
+🟩
+
+"This is my last election if the 2024 US presidential election is lost," Donald Trump said.
+
+The US presidential election is scheduled for November 5. There is fierce competition between Kamala Harris and Trump. Although Kamala Harris has begun to take the lead in nationwide polls, Trump is making various allegations against the ruling Democratic Party.
+
+In this case, Donald Trump, a former president of the United States, interviewed a reporter. Then he said to him, "Will you contest the election again?"The question was raised.
+
+Responding to this, Trump issued a statement saying, "If he fails to return to the White House in 2024, he will not contest the presidential election in 2028."
+
+◼️
+
+[Data](articles/8ed0d649.json)
+
+[Extended Data](ext_articles/8ed0d649.ext.json)
+
+---
 
 ### President Anura Kumara highlights commitment to democracy and crisis recovery in first speech
 
@@ -101,6 +125,28 @@ The 56-year-old leader’s response came after PM Modi expressed his wish to wor
 [Data](articles/ad7bf027.json)
 
 [Extended Data](ext_articles/ad7bf027.ext.json)
+
+---
+
+### Sri Lanka President says will build trust of all citizens, gain international support
+
+*2024-09-23 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-says-will-build-trust-of-all-citizens-gain-international-support-180609/) · `en`
+
+EOCNOMYNEX – Sri Lanka’s president Anura Dissanayake calls for support for all citizens to take the country out of its current economic crisis, and promised to build the trust of those who voted and did not vote for him.
+
+“We do not believe that this this deep crisis can be got over by a government, a party or an individual,” he said after being sworn in by the chief justice at the Presidential Secretariat.
+
+“I have said before I am not a magician, I am an ordinary citizen born in this country. There are some skills and knowledge. My main task is to absord skills, absorb knowledge, take the best decisions to guide the country
+
+“My responsibility is to be part of that collective intervention.”
+
+President Dissanayake won 42 percent of the popular vote unlike his predecessors, who got 50 percent, and also did not do well in minority areas.
+
+...
+
+[Data](articles/e5975443.json)
+
+[Extended Data](ext_articles/e5975443.ext.json)
 
 ---
 
@@ -286,6 +332,28 @@ Anuragumara Dissanayake was sworn in as the ninth president of Sri Lanka on Mond
 
 ---
 
+### Sri Lanka’s ninth president Anura Kumara Dissanayake sworn in
+
+*2024-09-23 10:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-ninth-president-anura-kumara-dissanayake-sworn-in-180594/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s president-elect Anura Kumara Dissanayake was sworn is as the island nation’s ninth executive president in Colombo.
+
+The swearing in ceremony took place at the presidential secretariat in Colombo Monday September 23 morning, two days after a hotly contested election.
+
+Dissanayake won the election obtaining 5.74 million votes, with 105,264 preferences beating oppositoin Sajith Premadasa who got 4.53 million votes with 167,867 preferences.
+
+In his inaugural address to the nation, Dissanayake thanked outgoing President Ranil Wickremesinghe for respecting the people’s mandate and facilitating a peaceful transfer of power.
+
+“We have a history of peaceful transfers of power. No leader has ever rejected a post-election transfer of power. Former President Ranil Wickremesinghe graciously accepted the people’s mandate and I’m thankful for his commitment and his example in facilitating a peaceful transfer,” he said.
+
+...
+
+[Data](articles/4d940b3f.json)
+
+[Extended Data](ext_articles/4d940b3f.ext.json)
+
+---
+
 ### Two Governors resign
 
 *2024-09-23 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201461) · `si`
@@ -424,6 +492,26 @@ Anura Kumara Dissanayake has won the post of National Organizer of the Socialist
 
 ---
 
+### Sri Lanka’s prime minister resigns
+
+*2024-09-23 09:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-prime-minister-resigns-180582/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Prime Minister Dinesh Gunawardena has resigned, after congratulating president elect Anura Dissanayake.
+
+“I hope that you as the President will be able to provide welfare to the people by continuing the work we have done to recover and lift the country and the countrymen from the difficult and challenging situation that Sri Lanka has faced,” Gunawardena said in a statement.
+
+I respectfully offer my congratulations to you for being elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka in the Presidential election held on 21st September 2024.
+
+I hope that you as the President will be able to provide welfare to the people by continuing the work we have done to recover and lift the country and the countrymen from the difficult and challenging situation that Sri Lanka has faced.
+
+◼️
+
+[Data](articles/0feb038b.json)
+
+[Extended Data](ext_articles/0feb038b.ext.json)
+
+---
+
 ### Swearing-in ceremony of new President Anura Kumara Dissanayake
 
 *2024-09-23 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102202/swearing-in-ceremony-of-new-president-anura-kumara-dissanayake) · `en`
@@ -439,6 +527,26 @@ The swearing in ceremony commenced following Dissanayake’s arrival at the Pres
 [Data](articles/61832dba.json)
 
 [Extended Data](ext_articles/61832dba.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 303.90/304.10, bond yields down
+
+*2024-09-23 09:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-303-90-304-10-bond-yields-down-180574/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.90/304.10 to the US dollar on Monday after a new president was elected, from 305.25/306.00 Friday, dealers said. Bond yields were down, they said, and stocks opened 1.33 percent lower.
+
+A bond maturing on 15.02.2028 was quoted at 13.58/63 percent, down from 13.60/70 percent.
+
+A bond maturing on 15.06.2029 was quoted at 13.75/85 percent, down from 13.85/90 percent.
+
+In equities, Colombo’s All Share Price Index was opened 145.67 points lower at 10,820, while the S&P SL20 of more liquid stocks opened down 1.66 percent or 51.56 points lower at 3,050.
+
+◼️
+
+[Data](articles/dceda9e3.json)
+
+[Extended Data](ext_articles/dceda9e3.ext.json)
 
 ---
 
@@ -1084,6 +1192,52 @@ Atlanditum in the North, North-Central, North Western and Southern provinces, Tr
 
 ---
 
+### Sri Lanka President to be sworn in, four member cabinet
+
+*2024-09-23 07:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-be-sworn-in-four-member-cabinet-180521/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President-elect Anura Dissanayake would be sworn in on September 2024 and a four member cabinet will be appointed, National People’s Power party officials said.
+
+The Janatha Vimukthi Peramuna, the driving force behind the National People’s Power of now has three members in parliament.
+
+The resignation of Dissanayake would create a vacancy which will be filled with a new member, legislator Harini Amarasuriya said.
+
+The parliament would be dissolved in about a week, an NPP official said. The new government is expected to have at least 15 ministries.
+
+“I have always believed that the only government that can take the country out of the crisis should have a mandate from the people,” Dissanayake said Sunday after being declared the winner by the island’s independent Elections Commission.
+
+Sri Lanka’s challenges cannot be solved by a single party he said.
+
+...
+
+[Data](articles/4506a21f.json)
+
+[Extended Data](ext_articles/4506a21f.ext.json)
+
+---
+
+### India PM congratulates Sri Lanka’s president elect
+
+*2024-09-23 07:00:00* · [`economynextcom`](https://economynext.com/india-pm-congratulates-sri-lankas-president-elect-180563/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president-elect Anura Dissanayake has received congratulatory messages from leaders and envoys since his election victory.
+
+“Sri Lanka holds a special place in India’s Neighbourhood First Policy and Vision SAGAR,” India’s Prime Minister Narenda Modi said.
+
+“I look forward to working closely with you to further strengthen our multifaceted cooperation for the benefit of our people and the entire region.”
+
+Thank you, Prime Minister Modi, for your kind words and support. I share your commitment to strengthening the ties between our nations. Together, we can work towards enhancing cooperation for the benefit of our peoples and the entire region. https://t.co/rtQEXyiFUI
+
+India’s envoy to Sri Lanka also met Dissanayake after his election.
+
+...
+
+[Data](articles/88a38475.json)
+
+[Extended Data](ext_articles/88a38475.ext.json)
+
+---
+
 ### Cabinet approves National Trade Facilitation Roadmap for Sri Lanka bill
 
 *2024-09-23 05:45:22* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-National-Trade-Facilitation-Roadmap-for-Sri-Lanka-bill/34-767023) · `en`
@@ -1592,6 +1746,26 @@ In their report titled, “The Road ahead: Steering Interest rates in an uncerta
 
 ---
 
+### Apparel forum congratulates Sri Lanka’s new President
+
+*2024-09-23 01:42:00* · [`economynextcom`](https://economynext.com/apparel-forum-congratulates-sri-lankas-new-president-180515/) · `en`
+
+ECONOMYNEXT – The Joint Apparel Association Forum (JAAF) of Sri Lanka has congratulated National People’s Power leader Anura Dissanayake on being elected as the country’s new president.
+
+The trade body highlighted the importance of the apparel sector, a key driver of Sri Lanka’s export-led growth, and expressed its support to the president and his team.
+
+“We look forward to working closely with the new President and the Government to ensure the continued success of the apparel sector,” Secretary General of JAAF Yohan Lawrence said.
+
+The Joint Apparel Association Forum (JAAF), Sri Lanka’s apex body for the textile and apparel industry, warmly congratulates NPP leader Anura Kumara Dissanayake on being elected as the new President of Sri Lanka.
+
+...
+
+[Data](articles/243cc7c5.json)
+
+[Extended Data](ext_articles/243cc7c5.ext.json)
+
+---
+
 ### Indian High Commissioner Santosh Ja meets President Anura
 
 *2024-09-23 01:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/194559) · `ta`
@@ -2047,205 +2221,5 @@ With the success of Anuragumara, the Adani wind power project is being canceled,
 [Data](articles/f7dd7cfa.json)
 
 [Extended Data](ext_articles/f7dd7cfa.ext.json)
-
----
-
-### The future of the Tamil state party
-
-*2024-09-22 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/194371) · `ta`
-
-Tamil state party future: Maui Senathirajah, Sridharan face opposition from Central Committee. Leaders may be ousted if actions against them continue.
-
-🟩
-
-If you are to take action against those who have taken action against the Central Committee of the Tamil State Party, Maui Senathirajah and Sridharan will have to throw out the leaders of the party and many central committee members.
-
-◼️
-
-[Data](articles/1ceef060.json)
-
-[Extended Data](ext_articles/1ceef060.ext.json)
-
----
-
-### I handover to you with much love, the dear child called Sri Lanka: Ranil Wickremesinghe
-
-*2024-09-22 20:34:00* · [`economynextcom`](https://economynext.com/i-handover-to-you-with-much-love-the-dear-child-called-sri-lanka-ranil-wickremesinghe-180469/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s eighth executive president Ranil Wickremesinghe has reflected on his role as a caretaker in a concession statement, and said he entrusts “the beloved child of Sri Lanka” to President Anura Dissanayake.
-
-“I am aware that my place in history as the ruler of this country will be decided not today, but in future,” Wickremesinghe said.
-
-Wickremesinghe thanked all those who supported him during his tenure, acknowledging that, in accordance with the will of the people, the leadership of the country should now be passed on to President Anura Dissanayake.
-
-“I followed the right path and saved people from hunger and sorrow. I hope that the new President will also follow the right path and put an end to the remaining issues that the people are facing.
-
-“I was eventually able to carry the dear child called Sri Lanka along a long distance safely – on the dangerous rope bridge.
-
-...
-
-[Data](articles/c09b3976.json)
-
-[Extended Data](ext_articles/c09b3976.ext.json)
-
----
-
-### Thanks for the unwavering commitment of President Ranil for building a prosperous Sri Lankan
-
-*2024-09-22 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194544) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Wickremesinghe's commitment builds prosperity. Finance Minister Semasinghe praises his efforts to stabilize politics and economy. Gratitude expressed for his leadership during Sri Lanka's economic crisis. Support appreciated for his presidential campaign.
-
-🟩
-
-I would like to express my gratitude for President Wickremesinghe's unwavering commitment to build a stable and prosperous Sri Lanka. Finance Minister Shehan Semasinghe has said that his tireless efforts are truly significant to protect the rule of law and to bring about political and economic stability.
-
-He mentioned this in the post made on his official X page. It has further stated:
-
-I am proud to have the opportunity to work with him from the moment when President Ranil Wickremesinghe has embraced the biggest challenge to solve the massive economic crisis in Sri Lanka's history.
-
-In the last two years, he has not only dealt with this crisis but also changed the country's economy. His tireless efforts to protect the rule of law and to promote political and economic stability are truly significant.
-
-...
-
-[Data](articles/bfff8b90.json)
-
-[Extended Data](ext_articles/bfff8b90.ext.json)
-
----
-
-### Election Voting Work is not carried out by election law
-
-*2024-09-22 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194546) · `ta`
-
-Election Voting Work not conducted as per Election Act. United People's Power threatens legal action against officials acting politically. First two candidates didn't reach 50% threshold. Second preference vote counting irregularities reported. Candidates lodge complaints with Election Commission.
-
-🟩
-
-The Voting Voting Work has not been carried out by the Election Act. The United People's Power has announced that legal action will be taken against officials who are politically functioning on behalf of the election duties.
-
-The first two candidates did not receive 50 percent of the votes when the presidential election results were released on Sunday (22). The Election Commission announced that the preferential votes were counted.
-
-United People's Power General Secretary Ranjith Mathuma Bandara and Sampika Ranawaka said at a press conference held today that the appropriate legal procedure was not followed.
-
-According to Ranjith Mathuma Bandara, the second preferential voting process is being carried out against the law. Officials are acting side by side in most areas. This should be an independent election.
-
-So the voting work must be carried out independently. We will take legal action in this regard. However, we will all work together to win the general election.
-
-...
-
-[Data](articles/ed0beb46.json)
-
-[Extended Data](ext_articles/ed0beb46.ext.json)
-
----
-
-### Anura sworn in tomorrow
-
-*2024-09-22 20:15:09* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හෙට-දිවුරුම්-දෙයි/11-412072) · `si`
-
-Anura Kumara Dissanayake to be sworn in as Sri Lanka's 9th President tomorrow. JVP General Secretary Tilvin Silva calls for celebration of this political victory.
-
-🟩
-
-Anura Kumara Dissanayake is to be sworn in at the Presidential Secretariat in Colombo tomorrow (Jump) president as the 9th Executive President of Sri Lanka.
-
-The General Secretary of the JVP Tilvin Silva urged the public to celebrate the power and celebrate the victory.
-
-◼️
-
-[Data](articles/ebac199b.json)
-
-[Extended Data](ext_articles/ebac199b.ext.json)
-
----
-
-### I entertain you with a affectionate child ”
-
-*2024-09-22 20:09:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாசம்-மிகுந்த-குழந்தையினை-உங்களிடம்-ஒப்படைக்கிறேன்/175-344259) · `ta`
-
-Here's a 200-character summary of the text:
-
-
-
-President Ranil Wickremesinghe addresses Sri Lanka, praising his economic achievements and urging the new president to continue progress. He expresses hope for the country's future and thanks citizens for support.
-
-🟩
-
-"Oh, President of Anura Dissanayake, I entertain you with the affectionate child of Sri Lanka I love."
-
-President Ranil Wickremesinghe said in a special media announcement that President Anura Kumara Dissanayake should be handed over to the country and thanked all those who supported him.
-
-The President further stated in his announcement that he has brought a loving child known as Sri Lanka through the challenging hanging bridge and that the current president can still bring the child through the hanging bridge.
-
-Most people of this country have given a resolution in the presidential election held on September 21st. We have to value that resolution. According to that resolution, the Government of Sri Lanka must ensure the goodness of the Government of Sri Lanka.
-
-I took over this country in a very difficult situation, which had been bankrupt two years ago and fell sharply due to the economic crisis.
-
-...
-
-[Data](articles/819c5a88.json)
-
-[Extended Data](ext_articles/819c5a88.ext.json)
-
----
-
-### Anura Dissanayake declared Sri Lanka Presidential poll winner
-
-*2024-09-22 20:04:00* · [`economynextcom`](https://economynext.com/anura-dissanayake-declared-sri-lanka-presidential-poll-winner-180470/) · `en`
-
-ECONOMYNEXT- Anura Dissanayake of National People’s Power party backed by the Marxist Janatha Vimukthi Peramuna was declared Sri Lanka’s President by the Chairman of the Elections Commission R M A L Rathnayake.
-
-Sri Lanka’s Anura Dissanayake won 5.74 million votes, with 105,264 preferences beating Sajith Premadasa who got 4.53 million votes with 167,867 preferences, data from the Election Commission shows.
-
-Dissanayake garnered 42 percent of votes, the lowest for a winning president in history, and Premadasa 32 percent.
-
-Incumbent President Ranil Wickremesinghe got 2.9 million votes or 17.27 percent.
-
-Dissanayake campaigned on a platform to end corruption, while Wickremesinghe was hit by visa controversy and allegations of consorting with corrupt politicians of the last regime.
-
-Premadasa himself was hit by criticism for taking ex-Rajapaksa allies.
-
-...
-
-[Data](articles/b83a3e45.json)
-
-[Extended Data](ext_articles/b83a3e45.ext.json)
-
----
-
-### "I entertain you with the affectionate child of Sri Lanka I love."President Ranil Ranil for newly elected President Anura
-
-*2024-09-22 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/194553) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's President Ranil Wickremesinghe addresses the nation, praising his economic achievements and urging the newly elected President Anura Kumara Dissanayake to continue his policies. He expresses gratitude to supporters and acknowledges challenges faced during his tenure.
-
-🟩
-
-President Ranil Wickremesinghe said in a special media announcement that President Anura Kumara Dissanayake should be handed over to the country and thanked all those who supported him.
-
-The President further stated in his announcement that he has brought a loving child known as Sri Lanka through the challenging hanging bridge and that the current president can still bring the child through the hanging bridge.
-
-Most people of this country have given a resolution in the presidential election held on September 21st. We have to value that resolution. According to that resolution, the Government of Sri Lanka must ensure the goodness of the Government of Sri Lanka.
-
-I took over this country in a very difficult situation, which had been bankrupt two years ago and fell sharply due to the economic crisis.
-
-I took that responsibility when most people did not have the soul power that would face the challenge.
-
-Within a short period of time, I was able to restore this country from bankruptcy.
-
-...
-
-[Data](articles/4ba25a42.json)
-
-[Extended Data](ext_articles/4ba25a42.ext.json)
 
 ---

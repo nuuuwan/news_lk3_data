@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 18:33:46**
+As of **2024-09-23 18:58:48**
 
 ## Newspaper Stats
 
-*Scraped **45,829** Articles*
+*Scraped **45,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 454
 islandlk | 2,684
 economynextcom | 2,768
 dailyftlk | 3,030
-adalk | 4,211
+adalk | 4,212
 dailymirrorlk | 4,733
-adaderanalk | 5,398
-tamilmirrorlk | 6,103
+adaderanalk | 5,399
+tamilmirrorlk | 6,106
 virakesarilk | 7,319
 adaderanasinhalalk | 7,935
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,824 (100.0%) of 45,829 articles have been extended.
+45,829 (100.0%) of 45,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Chandrika congratulates President Anura
+
+*2024-09-23 18:08:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அனுரவுக்கு-சந்திரிக்கா-வாழ்த்து/175-344325) · `ta`
+
+Chandrika congratulates President Anura Dissanayake, wishing strength for a new era of Sri Lankans.
+
+🟩
+
+Former President Chandrika Bandaranaike Kumaratunga congratulates President Anura Dissanayake.
+
+The greeting message stated that they will be strengthened to create the new era of Sri Lankans.
+
+◼️
+
+[Data](articles/c5e22015.json)
+
+[Extended Data](ext_articles/c5e22015.ext.json)
+
+---
 
 ### Israeli air strikes killed in Lebanon
 
@@ -47,6 +67,26 @@ At least 100 people were killed by Israel's air strikes at the South Lebanon on 
 [Data](articles/030febdf.json)
 
 [Extended Data](ext_articles/030febdf.ext.json)
+
+---
+
+### Veteran traditional dancer Vajira Chitrasena passes away
+
+*2024-09-23 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102220/veteran-traditional-dancer-vajira-chitrasena-passes-away) · `en`
+
+Veteran Sri Lankan traditional dancer, choreographer and teacher, Deshamanya Dr. Vajira Chitrasena has passed away at the age of 92.
+
+Vajira and her husband Chitrasena are known for their close bond with India and for their contributions in strengthening the ties between the two countries in the field of arts. She made her debut as soloist in the role of Prakriti in the ballet ‘Chandali’ in 1952.
+
+Her rise to stardom was coupled with unswerving discipline and dedication both as teacher, performer and choreographer, even as she illumined her husband’s career.
+
+She was announced as an honorable recipient of the prestigious Padma Shri award for her achievement in arts in January 2020 and the award was given by Indian President Ram Nath Govind during the Padma Awards Investiture Ceremony which was held on 8 November 2021.
+
+◼️
+
+[Data](articles/13a4e2e3.json)
+
+[Extended Data](ext_articles/13a4e2e3.ext.json)
 
 ---
 
@@ -94,6 +134,32 @@ He also thanked the hill country people who voted for former President Ranil Wic
 
 ---
 
+### Special message from Speaker
+
+*2024-09-23 17:32:03* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකගෙන්-ජනපතිට-විශේෂ-පණිවිඩයක්/11-412093) · `si`
+
+Sri Lanka's President-elect Mahinda Yapa Abeywardena greets citizens. The Speaker highlights peaceful elections as a victory. Public trust in Minister Anura Kumara Dissanayake strengthens Parliament democracy. Sri Lanka embarks on a new journey under the executive president. General Secretary Kushapitiya Rohana leads the National Secretariat alongside Deputy Secretary-General Maminda Kararatne and Assistant Secretary-General Hansa Abeyratne.
+
+🟩
+
+President Mahinda Yapa Abeywardena, the newly elected representative president of Sri Lanka, issues official greeting a greeting message.
+
+The Elections Commission has officially proved that Sri Lankan citizens have been officially proved to be the new pilot to move their motherland to the future of the country.The Speaker has stated that his observation is insight.
+
+The Speaker points out that the honor of acquiring such a result without the violence of the serious election violence is a definitely victory for the defendance of the election.
+
+Speaker also pointed out that the public confidence in the public confidence in Minister Anura Kumara Dissanayake is a prolonged to the lengthy of Parliament democracy. Today he is not a convenient challenge and identifies the variations of our socio-economic political body's variations, the Speaker said.
+
+The Speaker states that Sri Lanka will bring good luck with a new executive president with a new journey with a new journey.
+
+...
+
+[Data](articles/b694cd36.json)
+
+[Extended Data](ext_articles/b694cd36.ext.json)
+
+---
+
 ### Officer suspected to be released scholarships
 
 *2024-09-23 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201477) · `si`
@@ -117,6 +183,28 @@ Police investigations have revealed that the 57-year-old suspect had ejected sev
 [Data](articles/082fd2cc.json)
 
 [Extended Data](ext_articles/082fd2cc.ext.json)
+
+---
+
+### Lakshman to the vacuum;Gazette notification
+
+*2024-09-23 17:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றிடத்திற்கு-லக்ஷ்மன்-வர்த்தமானி-அறிவித்தல்/175-344323) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Colombo Election District: Gazette notification issued for Lakshman Expert Arachchi's election as MP, replacing Anura Kumara Dissanayake after his presidential oath.
+
+🟩
+
+The gazette notification for the election of Lakshman Expert Arachchi has been issued as a member of the Colombo Election District Parliamentarian for the vacancy caused by Anura Kumara Dissanayake, who was sworn in as president.
+
+◼️
+
+[Data](articles/10486130.json)
+
+[Extended Data](ext_articles/10486130.ext.json)
 
 ---
 
@@ -425,6 +513,8 @@ The definition of a statesman is: “A skilled, experienced, and respected polit
 ...
 
 [Data](articles/142db218.json)
+
+[Extended Data](ext_articles/142db218.ext.json)
 
 ---
 
@@ -2038,6 +2128,18 @@ Anuragumara Dissanayake was sworn in as the ninth president of Sri Lanka on Mond
 
 ---
 
+### ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க பதவியேற்றார்
+
+*2024-09-23 10:17:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியாக-அனுரகுமார-திஸாநாயக்க-பதவியேற்றார்/175-344290) · `ta`
+
+இலங்கையின் நிறைவேற்று அதிகாரம் கொண்ட ஒன்பதாவது ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க ஜனாதிபதி செயலகத்தில் திங்கட்கிழமை (23) சுபநேரத்தில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/9c62aaf7.json)
+
+---
+
 ### Sri Lanka’s ninth president Anura Kumara Dissanayake sworn in
 
 *2024-09-23 10:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-ninth-president-anura-kumara-dissanayake-sworn-in-180594/) · `en`
@@ -2057,107 +2159,5 @@ In his inaugural address to the nation, Dissanayake thanked outgoing President R
 [Data](articles/4d940b3f.json)
 
 [Extended Data](ext_articles/4d940b3f.ext.json)
-
----
-
-### Two Governors resign
-
-*2024-09-23 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201461) · `si`
-
-Two governors resign: Maheepala Herath (North Central) and Naveen Dissanayake (Sabaragamuwa). Both step down from their positions.
-
-🟩
-
-Governor of the North Central Province Maheepala Herath and Sabaragamuwa Province, Naveen Dissanayake has resigned from his post.
-
-◼️
-
-[Data](articles/bbaed7d1.json)
-
-[Extended Data](ext_articles/bbaed7d1.ext.json)
-
----
-
-### Anura complaints
-
-*2024-09-23 10:10:19* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-ජනපති-ලෙස-දිවුරුම්-දෙයි/11-412081) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara Dissanayake becomes 9th President of Sri Lanka, sworn in at Presidential Secretariat.
-
-🟩
-
-Anura Kumara Dissanayake was sworn in as the 9th Executive President of Sri Lanka at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/89cb259f.json)
-
-[Extended Data](ext_articles/89cb259f.ext.json)
-
----
-
-### Anura Kumara Dissanayake sworn in as the 9th Executive President
-
-*2024-09-23 10:10:05* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-කුමාර-දිසානායක-09-වැනි-විධායක-ජනාධිපති-ලෙස-දිවුරුම්-දෙයි/11-412080) · `si`
-
-Anura Kumara Dissanayake inaugurated as 9th Sri Lankan president. Sworn in by Chief Justice, marking historic moment in country's political landscape.
-
-🟩
-
-Anura Kumara Dissanayake was sworn in before the Chief Justice as the 9th Executive President of Sri Lanka.
-
-◼️
-
-[Data](articles/e6753fcc.json)
-
-[Extended Data](ext_articles/e6753fcc.ext.json)
-
----
-
-### Anurakumara Dissanayake sworn in as the 9th executive president of Sri Lanka
-
-*2024-09-23 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194575) · `ta`
-
-Anurakumara Dissanayake inaugurated as Sri Lanka's 9th president. Sworn in by Chief Justice Jayantha Jayasuriya at Presidential Secretariat.
-
-🟩
-
-Anurakumara Dissanayake was sworn in as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka.
-
-In the presence of Chief Justice Jayantha Jayasuriya, Anurakumara Dissanayake was sworn in as the 9th executive president of the country.
-
-The swearing -in ceremony was held at the Presidential Secretariat this morning.
-
-◼️
-
-[Data](articles/22290004.json)
-
-[Extended Data](ext_articles/22290004.ext.json)
-
----
-
-### Anura Kumara Dissanayake sworn in as President of Sri Lanka
-
-*2024-09-23 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102203/anura-kumara-dissanayake-sworn-in-as-president-of-sri-lanka) · `en`
-
-Anura Kumara Dissanayake has been sworn in as the 9th Executive of the Democratic Socialist Republic of Sri Lanka, a short while ago.
-
-He was ceremonially sworn in as the country’s new President before Chief Justice Jayantha Jayasuriya at the Presidential Secretariat in Colombo.
-
-The swearing in ceremony commenced following Dissanayake’s arrival at the Presidential Secretariat with a large number of party supporters and well-wishers gathered outside to welcome him.
-
-After taking oath as the new President in a simple ceremony, Dissanayake delivered a brief statement emphasizing his commitment to the nation and the citizens of Sri Lanka.
-
-The Election Commission declared 56-year-old Anura Kumara Dissanayake the winner last night after the second round of counting.
-
-...
-
-[Data](articles/1d09282b.json)
-
-[Extended Data](ext_articles/1d09282b.ext.json)
 
 ---

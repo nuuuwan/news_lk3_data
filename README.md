@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 20:57:20**
+As of **2024-09-23 21:09:01**
 
 ## Newspaper Stats
 
-*Scraped **45,850** Articles*
+*Scraped **45,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ economynextcom | 2,768
 dailyftlk | 3,030
 adalk | 4,212
 dailymirrorlk | 4,733
-adaderanalk | 5,400
-tamilmirrorlk | 6,112
-virakesarilk | 7,327
+adaderanalk | 5,401
+tamilmirrorlk | 6,114
+virakesarilk | 7,328
 adaderanasinhalalk | 7,936
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,850 (100.0%) of 45,850 articles have been extended.
+45,854 (100.0%) of 45,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### US congratulates new President, stresses strengthening bilateral ties
+
+*2024-09-23 20:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102222/us-congratulates-new-president-stresses-strengthening-bilateral-ties) · `en`
+
+The US extended wishes to Sri Lanka President-designate Anura Kumara Dissanayake following his win in the presidential elections.
+
+US State Department spokesperson Matthew Miller, in a statement on Sunday, dubbed the election as a “testament to the strength of Sri Lanka’s democratic institutions” and extended commitment to supporting Sri Lanka “as it builds a stable, prosperous, and cohesive society.”
+
+“The United States congratulates President-elect Anura Kumara Dissanayake on his victory in the Sri Lankan presidential election, as confirmed by the vote results on September 22. We commend the people of Sri Lanka for peacefully exercising their right to vote. This election is a testament to the strength of Sri Lanka’s democratic institutions and the commitment of its citizens to shaping their future through peaceful and democratic means,” the statement read.
+
+...
+
+[Data](articles/0f1a062c.json)
+
+[Extended Data](ext_articles/0f1a062c.ext.json)
+
+---
+
+### 182 people killed in Israel's attack: Lebanon
+
+*2024-09-23 20:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-182-பேர்-கொல்லப்பட்டனர்-லெபனான்/50-344336) · `ta`
+
+Israel's attack on Lebanon resulted in 182 deaths, including civilians and medical personnel, with 727 injuries reported. The Israeli military targeted over 300 Hezbollah sites.
+
+🟩
+
+The Israeli military spokesman today (23) said that more than 300 Hezbollah targets were attacked, with 182 people, including children and medical staff, were killed in Israeli attacks and 727 were injured today, according to Lebanon's Health Ministry.
+
+◼️
+
+[Data](articles/31dc0468.json)
+
+[Extended Data](ext_articles/31dc0468.ext.json)
+
+---
+
+### Northern Governor resigns
+
+*2024-09-23 20:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-ஆளுநர்-இராஜினாமா/175-344335) · `ta`
+
+Here's a summary of "Northern Governor resigns" in 200 characters:
+
+
+
+Northern Governor steps down amid controversy. Official reasons undisclosed. Political implications unclear. Local leaders react cautiously. Public opinion mixed. Investigation pending.
+
+🟩
+
+◼️
+
+[Data](articles/ffae3dd3.json)
+
+[Extended Data](ext_articles/ffae3dd3.ext.json)
+
+---
+
+### United National Party resolution to call the United People's Power to work together - Special meeting today
+
+*2024-09-23 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194644) · `ta`
+
+UNP invites UPF to unite against national power in elections. Decision made at special meeting. Senior UNP leader calls for joint contesting.
+
+🟩
+
+The United National Party has decided to invite the United People's Power to work against the national people's power in the general election.
+
+It has been reported that this has been decided at a special meeting of the United National Party (UNP) this evening.
+
+A senior UNP leader has decided to call on the United People's Power to contest the upcoming general election.
+
+◼️
+
+[Data](articles/ba3ec2ec.json)
+
+[Extended Data](ext_articles/ba3ec2ec.ext.json)
+
+---
 
 ### Anura, Sajith and Ranil are the only opportunity ..
 
@@ -904,6 +982,34 @@ The definition of a statesman is: “A skilled, experienced, and respected polit
 
 ---
 
+### The challenges that will continue in the new government
+
+*2024-09-23 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194580) · `ta`
+
+Challenges in new government: Election delays, potential dissolution, Tamil parliamentary election complexities, party divisions, diaspora involvement, state occupation issues, accountability concerns, international pressure needed for solutions.
+
+🟩
+
+The presidential election results will be fully arrived in the evening of the 22nd. However, if the 2nd and 3rd preferential votes are counted, it may be delayed.
+
+Probably a situation where parliament can be dissolved following the election. If so, the parliamentary election will come before the end of this year.
+
+As far as Tamil politics is concerned, the parliamentary election will be a big challenge. It is not possible to say that how many teams will compete from the Tamil nationality. Three or four teams have the opportunity to compete.
+
+The Tamil National Party can contest alone, the Tamil National People's Front and the Democratic Tamil National Alliance alone.
+
+May try to put pressure on them to go to the coalition. At least the Tamil state party and the Democratic Tamil National Alliance may be forced to act as the Old Tamil National Alliance.
+
+The Tamil state party is now clearly divided and many difficulties in making decisions.
+
+...
+
+[Data](articles/8befa636.json)
+
+[Extended Data](ext_articles/8befa636.ext.json)
+
+---
+
 ### JVP’s hidden ideology and post-election risk: Interview with Dayan Jayatilleka
 
 *2024-09-23 15:37:00* · [`islandlk`](http://island.lk/jvps-hidden-ideology-and-post-election-risk-interview-with-dayan-jayatilleka/) · `en`
@@ -1475,34 +1581,6 @@ Meanwhile, approximately 300,300 (2.2%) votes were rejected, according to the El
 [Data](articles/55d0944f.json)
 
 [Extended Data](ext_articles/55d0944f.ext.json)
-
----
-
-### The challenges that will continue in the new government
-
-*2024-09-23 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194580) · `ta`
-
-Challenges in new government: Election delays, potential dissolution, Tamil parliamentary election complexities, party divisions, diaspora involvement, state occupation issues, accountability concerns, international pressure needed for solutions.
-
-🟩
-
-The presidential election results will be fully arrived in the evening of the 22nd. However, if the 2nd and 3rd preferential votes are counted, it may be delayed.
-
-Probably a situation where parliament can be dissolved following the election. If so, the parliamentary election will come before the end of this year.
-
-As far as Tamil politics is concerned, the parliamentary election will be a big challenge. It is not possible to say that how many teams will compete from the Tamil nationality. Three or four teams have the opportunity to compete.
-
-The Tamil National Party can contest alone, the Tamil National People's Front and the Democratic Tamil National Alliance alone.
-
-May try to put pressure on them to go to the coalition. At least the Tamil state party and the Democratic Tamil National Alliance may be forced to act as the Old Tamil National Alliance.
-
-The Tamil state party is now clearly divided and many difficulties in making decisions.
-
-...
-
-[Data](articles/8befa636.json)
-
-[Extended Data](ext_articles/8befa636.ext.json)
 
 ---
 
@@ -2107,93 +2185,5 @@ In his speech, President Anura Kumara Dissanayake addressing the nation after hi
 [Data](articles/c9d6e659.json)
 
 [Extended Data](ext_articles/c9d6e659.ext.json)
-
----
-
-### Anurakumara's leadership should be judged for my father's assassination - Lasantha's daughter
-
-*2024-09-23 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194584) · `ta`
-
-Ahimsa Wickrematunge appeals to new President Anura Kumara Dissanayake regarding her father Lasantha Wickrematunge's assassination. She seeks justice and accountability, criticizing the previous government's inaction over the past 15 years.
-
-🟩
-
-Ahimsa Wickrematunge, daughter of Lasantha Wickrematunge, has appealed to the new President Anuragumaratisanayake to the assassination of Sunday Leader editor Lasanthavikramathunga.
-
-"My family and I are sure to seek justice for the life of my father who was unfairly plundered for the truth against those in power," he said.
-
-"I and my family are unreasonable for our father, who were unfairly plucked 15 years ago for the truth of power," he said.
-
-Despite 15 years, the pain continues, but I am very firmly committed to establishing true accountability, ”he said.
-
-He said that for the past 15 years, the government has failed to take a meaningful action on my father's assassination, which has revealed the culture of exempting the clutches of the country.
-
-Yesterday's election results have renewed my confidence. The JVP has severely criticized the bureaucracy.
-
-...
-
-[Data](articles/6d44e541.json)
-
-[Extended Data](ext_articles/6d44e541.ext.json)
-
----
-
-### "This is my last election" -Donald Trump
-
-*2024-09-23 11:22:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்முறை-தோற்றால்-இதுவே-என்-கடைசி-தேர்தல்-டொனால்ட்-டிரம்ப்/50-344299) · `ta`
-
-Donald Trump declares 2024 as his final presidential bid. He vows not to run again if he loses, setting stage for potential 2028 rematch.
-
-🟩
-
-"This is my last election if the 2024 US presidential election is lost," Donald Trump said.
-
-The US presidential election is scheduled for November 5. There is fierce competition between Kamala Harris and Trump. Although Kamala Harris has begun to take the lead in nationwide polls, Trump is making various allegations against the ruling Democratic Party.
-
-In this case, Donald Trump, a former president of the United States, interviewed a reporter. Then he said to him, "Will you contest the election again?"The question was raised.
-
-Responding to this, Trump issued a statement saying, "If he fails to return to the White House in 2024, he will not contest the presidential election in 2028."
-
-◼️
-
-[Data](articles/8ed0d649.json)
-
-[Extended Data](ext_articles/8ed0d649.ext.json)
-
----
-
-### President Anura Kumara highlights commitment to democracy and crisis recovery in first speech
-
-*2024-09-23 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102205/president-anura-kumara-highlights-commitment-to-democracy-and-crisis-recovery-in-first-speech) · `en`
-
-The newly elected President Anura Kumara Dissanayake, in his inaugural address to the nation after sworn-in as the Head of the State, assured his full commitment to strengthen and safeguard the democracy of the country, through which he was elected to the office.
-
-Addressing the nation, President Dissanayake said: “The most significant feature of our country’s democracy is the election of the ruler of the country by the general public, but the democracy is not all about just casting the votes or electing the ruler. We accept that we need a little more strengthening of the structures and strong legislations. Therefore, at first, I assure the public that I am ready to showcase my maximum commitment for the protection of the democracy in the country during my term as the president.”
-
-...
-
-[Data](articles/1671cdd9.json)
-
-[Extended Data](ext_articles/1671cdd9.ext.json)
-
----
-
-### 11 -month -old baby death
-
-*2024-09-23 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194573) · `ta`
-
-11-month-old baby dies in water-filled tank incident in Mullaitivu, Sri Lanka. Child fell into tank during bathroom use with mother, later hospitalized but succumbed to injuries.
-
-🟩
-
-Mullaitivu police said that the child died in a water -filled tank in the east of Mullivaikkal and Mullivaikkal.
-
-The child died after being admitted to Manjolai Hospital after falling into the water tank while in the bathroom with her mother, police said.
-
-◼️
-
-[Data](articles/1bebefb1.json)
-
-[Extended Data](ext_articles/1bebefb1.ext.json)
 
 ---

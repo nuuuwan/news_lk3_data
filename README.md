@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 22:24:36**
+As of **2024-09-23 22:38:37**
 
 ## Newspaper Stats
 
-*Scraped **45,857** Articles*
+*Scraped **45,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,768
 dailyftlk | 3,030
 adalk | 4,212
 dailymirrorlk | 4,733
-adaderanalk | 5,401
-tamilmirrorlk | 6,114
+adaderanalk | 5,402
+tamilmirrorlk | 6,115
 virakesarilk | 7,328
 adaderanasinhalalk | 7,937
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,857 (100.0%) of 45,857 articles have been extended.
+45,857 (100.0%) of 45,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### UNP-யுடன் இணையும் SJB ; ரணிலின் இராஜதந்திரம்
+
+*2024-09-23 22:15:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UNP-யுடன்-இணையும்-SJB-ரணிலின்-இராஜதந்திரம்/175-344337) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் ஐக்கிய தேசியக் கட்சியின் சிரேஷ்ட உறுப்பினர்களுடனான சந்திப்பு இன்று மாலை இடம்பெற்றதாக பிரபல ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+
+எதிர்வரும் பாராளுமன்றத் தேர்தலில் போட்டியிடுவதற்கு ஐக்கிய தேசியக் கட்சி, ஐக்கிய மக்கள் சக்தியை (SJB) இணைத்துக்கொள்ள தீர்மானிக்கப்பட்டுள்ளதாக ஐக்கிய தேசியக் கட்சியின் மூத்த உறுப்பினர் ஒருவர் தெரிவித்துள்ளார்.
+
+இரு கட்சிகளும் மீண்டும் ஒன்றிணைய வேண்டும் என பொதுமக்கள் விடுத்த கோரிக்கையை கருத்தில் கொண்டு, எதிர்வரும் பாராளுமன்றத் தேர்தலில் ஒன்றிணைய அழைப்பு விடுக்கப்பட்டுள்ளது.
+
+மக்கள் விடுதலை முன்னணி (JVP) தலைமையிலான தேசிய மக்கள் சக்திக்கு (NPP) எதிராக ஏனைய கட்சிகளுடனும் கலந்துரையாடல்களை மேற்கொள்ள தீர்மானிக்கப்பட்டதாக ஐக்கிய தேசியக் கட்சியின் மூத்த உறுப்பினர் மேலும் குறிப்பிட்டார்.
+
+இந்தச் சந்திப்பில் ஐக்கிய தேசியக் கட்சியின் பிரதித் தலைவர் ருவான் விஜேவர்தன மற்றும் தலதா அத்துகோரள ஆகியோரும் கலந்துகொண்டனர். R
+
+◼️
+
+[Data](articles/d4079527.json)
+
+---
+
+### Former Sri Lankan President Gotabaya arrives in Kathmandu - report
+
+*2024-09-23 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102223/former-sri-lankan-president-gotabaya-arrives-in-kathmandu-report) · `en`
+
+Former president of Sri Lanka Gotabaya Rajapaksa has landed at the Tribhuvan International Airport via Sri Lankan Airlines on Monday.
+
+A source within the embassy stated that he has plans to visit different Buddhist sites and is also scheduled to visit Bharatpur.
+
+It is reported that Rajapaksa is believed to have close ties with the Chaudhary Group, which has investments in various sectors in Sri Lanka and has been inviting him to visit Nepal. This trip is more personal and family-oriented rather than political.
+
+Rajapaksa will be staying at Hotel Vivanta in Jhamsikhel today.
+
+Following a massive uprising in Sri Lanka, Rajapaksa had to flee the country two years ago. He later returned to Sri Lanka.
+
+In Sri Lanka, the newly elected President Anura Kumara Dissanayake, who is Marxist-leaning, was sworn in today.
+
+◼️
+
+[Data](articles/e3bed3b7.json)
+
+---
 
 ### US congratulates new President, stresses strengthening bilateral ties
 
@@ -2125,51 +2167,5 @@ He has asked for his resignation by a letter to former President Ranil Wickremes
 [Data](articles/734acd18.json)
 
 [Extended Data](ext_articles/734acd18.ext.json)
-
----
-
-### Two persons arrested for pushing the woman
-
-*2024-09-23 11:39:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-தள்ளிவிட்ட-இருவர்-கைது/175-344301) · `ta`
-
-Two men arrested for pushing woman at Royal College polling station during presidential election. Incident occurred due to political party dispute. Woman hospitalized and filed police report. Suspects aged 43 and 45 from Wellawatte area.
-
-🟩
-
-Kurundwatte police said that two persons were arrested for allegedly pushing and injuring a woman at Royal College, Colombo, which was set up as a voting center for the presidential election.
-
-The injured woman belongs to Galle Road, Wellawatte, and she has been admitted to the Colombo National Hospital and lodged a complaint at the police station after treatment.
-
-It was revealed that the second round of the vote on Sunday (22) was revealed that the suspects were pushed to the spot after a dispute between political party members.
-
-The arrested suspects have been identified as 43,45 years old from Hevlok Road, Mayura Place and Wellawatte.
-
-◼️
-
-[Data](articles/dfed66ee.json)
-
-[Extended Data](ext_articles/dfed66ee.ext.json)
-
----
-
-### Maharagama NIE Director arrested over Grade 5 scholarship exam paper issue
-
-*2024-09-23 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102206/maharagama-nie-director-arrested-over-grade-5-scholarship-exam-paper-issue) · `en`
-
-The Director of the Planning Division of the National Institute of Education (NIE) in Maharagama has been arrested by the Criminal Investigations Department (CID) over the Grade 5 scholarship examination question paper issue, the Police Spokesman, DIG Nihal Thalduwa said.
-
-The arrested suspect had also served as a member in the committee that had prepared the question paper of the Grade 5 Scholarship examination.
-
-Accordingly, the relevant suspect, a 57- year- old resident of the Thiththwella area in Kurunegala, was arrested in Kurunegala on Sunday (22).
-
-He was arrested for allegedly providing confidential information pertaining to the question papers of the Grade 5 Scholarship exam to outside parties, police said.
-
-Further investigations related to the incident is carried out by the Criminal Investigations Department.
-
-...
-
-[Data](articles/08b8ec0e.json)
-
-[Extended Data](ext_articles/08b8ec0e.ext.json)
 
 ---

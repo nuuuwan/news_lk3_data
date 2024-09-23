@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 06:09:59**
+As of **2024-09-23 06:44:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,907
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,676 (100.0%) of 45,680 articles have been extended.
+45,680 (100.0%) of 45,680 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -322,6 +322,8 @@ Each meal is meticulously prepared from fresh, high-quality ingredients to creat
 
 [Data](articles/0b0b2bdb.json)
 
+[Extended Data](ext_articles/0b0b2bdb.ext.json)
+
 ---
 
 ### German Federal Ministry for Economic Affairs explores opportunities at HIP
@@ -335,6 +337,8 @@ The visit was to explore potential business opportunities in Sri Lanka and asses
 ...
 
 [Data](articles/f242d22e.json)
+
+[Extended Data](ext_articles/f242d22e.ext.json)
 
 ---
 
@@ -351,6 +355,8 @@ In their report titled, “The Road ahead: Steering Interest rates in an uncerta
 ...
 
 [Data](articles/2c344cf7.json)
+
+[Extended Data](ext_articles/2c344cf7.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 01:07:45**
+As of **2024-09-24 01:38:41**
 
 ## Newspaper Stats
 
-*Scraped **45,865** Articles*
+*Scraped **45,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 449
 colombotelegraphcom | 456
 islandlk | 2,684
 economynextcom | 2,773
-dailyftlk | 3,030
+dailyftlk | 3,032
 adalk | 4,212
 dailymirrorlk | 4,733
 adaderanalk | 5,402
@@ -26,9 +26,41 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,865 (100.0%) of 45,865 articles have been extended.
+45,867 (100.0%) of 45,867 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-24 (Tuesday)
+
+### President Anura Kumara Dissanayake: Sri Lanka’s desire to chart a new course
+
+*2024-09-24 01:03:52* · [`dailyftlk`](https://www.ft.lk/columns/President-Anura-Kumara-Dissanayake-Sri-Lanka-s-desire-to-chart-a-new-course/4-767043) · `en`
+
+The people of Sri Lanka have spoken. In a historic moment, Anura Kumara Dissanayake has been elected as the nation’s president, marking a new chapter in Sri Lanka’s political history. This election, deeply rooted in the widespread calls for systemic change during the 2022 Aragalaya protests, represents the will of the people and their demand for a just and equitable future.
+
+...
+
+[Data](articles/44a5257e.json)
+
+[Extended Data](ext_articles/44a5257e.ext.json)
+
+---
+
+### Open letter to AKD
+
+*2024-09-24 00:54:49* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-AKD/14-767042) · `en`
+
+Congratulations on your remarkable election as the President of Sri Lanka. This victory represents the hopes of a nation that has long awaited genuine change and leadership focused on the well-being of all its people. Your rise from very humble beginnings to the highest office in the country reflects the deep trust and belief the Sri Lankan public has placed in you and your party.
+
+However, with this great honour comes an even greater responsibility. The task of healing the ethnic, religious, and political divisions that have plagued our country for decades now lies in your hands. Sri Lankans have endured the painful consequences of racism and division in politics. You now have the opportunity to lead us away from that harmful past, towards a future where unity, fairness, and justice prevail for all communities, regardless of their background. The people of Sri Lanka look to you to foster reconciliation and solidarity across the nation.
+
+...
+
+[Data](articles/db753bee.json)
+
+[Extended Data](ext_articles/db753bee.ext.json)
+
+---
 
 ### 2024-09-23 (Monday)
 
@@ -2105,47 +2137,5 @@ Election Commissioner General Saman Sri Ratnayake, who is to be appointed as a m
 [Data](articles/774a3e6f.json)
 
 [Extended Data](ext_articles/774a3e6f.ext.json)
-
----
-
-### New Secretary Appointment to New President
-
-*2024-09-23 12:17:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-புதிய-செயலாளர்-நியமனம்/175-344302) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"New Secretary Appointed: The newly elected president has announced the appointment of a new secretary to their cabinet. This move aims to bring fresh perspectives and expertise to the administration."
-
-🟩
-
-◼️
-
-[Data](articles/d42950e7.json)
-
-[Extended Data](ext_articles/d42950e7.ext.json)
-
----
-
-### Lakshman Nipuna Arachchi to be appointed to Anura’s MP seat
-
-*2024-09-23 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102208/lakshman-nipuna-arachchi-to-be-appointed-to-anuras-mp-seat) · `en`
-
-The Commissioner General of Elections, Saman Sri Ratnayake announced that Laxman Nipuna Arachchi will be named an MP to fill the vacancy created in the Parliament by Anura Kumara Dissanayake’s election as President.
-
-Lakshman Nipuna Arachchi is to be appointed to the parliamentary seat left vacant by Anura Kumara Dissanayake, who has been elected as the 9th executive President of Sri Lanka.
-
-The executive member of the National People’s Power (NPP) Tilvin Silva communicated this, while speaking at the party office in Pelwatte yesterday (22).
-
-During a press conference held yesterday, Tilvin Silva stated that the process of appointing the new Member of Parliament is not their responsibility and it falls under the Election Commission as per the law.
-
-However, he added that Lakshman Nipuna Arachchi is next on the preference list after Anura Kumara Dissanayake and the Election Commission will proceed with his appointment as the new Member of Parliament.
-
-◼️
-
-[Data](articles/ac3863a9.json)
-
-[Extended Data](ext_articles/ac3863a9.ext.json)
 
 ---

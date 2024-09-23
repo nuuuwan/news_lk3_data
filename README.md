@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 10:22:45**
+As of **2024-09-23 10:38:34**
 
 ## Newspaper Stats
 
-*Scraped **45,719** Articles*
+*Scraped **45,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,757
 dailyftlk | 3,030
-adalk | 4,197
+adalk | 4,199
 dailymirrorlk | 4,733
-adaderanalk | 5,380
+adaderanalk | 5,381
 tamilmirrorlk | 6,082
 virakesarilk | 7,300
-adaderanasinhalalk | 7,917
+adaderanasinhalalk | 7,919
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,714 (100.0%) of 45,719 articles have been extended.
+45,719 (100.0%) of 45,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### ආණ්ඩුකාරවරු දෙදෙනෙක් ඉල්ලා අස්වෙති
+
+*2024-09-23 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201461) · `si`
+
+ඒ අනුව උතුරු මැද පළාත් ආණ්ඩුකාර මහීපාල හේරත් සහ සබරගමු පලාත් ආණ්ඩුකාර නවීන් දිසානායක තමන් දැරූ ආණ්ඩුකාර තනතුරින් ඉල්ලා අස් වී තිබේ.
+
+◼️
+
+[Data](articles/bbaed7d1.json)
+
+---
+
+### අනුර කුමාර දිසානායක 09 වැනි විධායක ජනාධිපති ලෙස දිවුරුම් දෙයි
+
+*2024-09-23 10:10:05* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-කුමාර-දිසානායක-09-වැනි-විධායක-ජනාධිපති-ලෙස-දිවුරුම්-දෙයි/11-412080) · `si`
+
+මෙරට 09 වැනි විධායක ජනාධිපතිවරයා ලෙස අනුර කුමාර දිසානායක මහතා මීට සුළු මොහොතකට පෙර අගවිනිසුරුවරයා ඉදිරියේ දිවුරුම් දෙනු ලැබුවේය.
+
+◼️
+
+[Data](articles/e6753fcc.json)
+
+---
+
+### Anura Kumara Dissanayake sworn in as President of Sri Lanka
+
+*2024-09-23 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102203/anura-kumara-dissanayake-sworn-in-as-president-of-sri-lanka) · `en`
+
+Anura Kumara Dissanayake has been sworn in as the 9th Executive of the Democratic Socialist Republic of Sri Lanka, a short while ago.
+
+He was ceremonially sworn in as the country’s new President before Chief Justice Jayantha Jayasuriya at the Presidential Secretariat in Colombo.
+
+The swearing in ceremony commenced following Dissanayake’s arrival at the Presidential Secretariat.
+
+The Election Commission declared 56-year-old Anura Kumara Dissanayake the winner last night after the second round of counting.
+
+◼️
+
+[Data](articles/1d09282b.json)
+
+---
+
+### නව ජනපති ලෙස අනුර දිවුරුම් දෙයි
+
+*2024-09-23 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201460) · `si`
+
+09 වන විධායක ජනාධිපතිවරයා ලෙස අනුර කුමාර දිසානායක මහතා මීට සුළු වේලාවකට පෙර ධුරයේ දිවුරුම් දුන්නේය.
+
+ඒ අගවිනිසුරු ජයන්ත ජයසුරිය මහතා ඉදිරියේ, ජනාධිපති ලේකම් කාර්යාලයේ දී ය.
+
+සිය ධුරයේ දිවුරුම් දීමෙන් අනතුරුව අනුර කුමාර දිසානායක මහතා, ජාතිය අමතා විශේෂ ප්‍රකාශයක් සිදුකරමින් සිටී.
+
+1966 වසරේ නොවැම්බර් මස 24 වනදා උපත ලැබු අනුර කුමාර දිසානායක මහතා තඹුත්තේගම ප්‍රාථමික විද්‍යාලයෙන් සිය ප්‍රාථමික අධ්‍යාපනය ලබා ගනු ලැබීය.
+
+අනතුරුව තඹුත්තේගම මධ්‍ය මහා විද්‍යාලයට ඇතුලත් ව අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගය සඳහා විද්‍යා ගණිත අංශයෙන් පෙනී සිටිමින් විශ්වවිද්‍යාල අධ්‍යාපනය සඳහා සුදුසුකම් ලබා ගැනීමට සමත් වුණි.
+
+1992 වර්ෂයේ දී කැලණිය විශ්වවිද්‍යාලයේ විද්‍යා පීඨයට ඇතුළත් වු අනුර කුමාර දිසානායක මහතා 1995 වර්ෂයේ දී විද්‍යාවේදී උපාධිය ලබාගෙන තිබේ.
+
+1987 වසරේ දී එවකට පැවති ආණ්ඩුව විසින් අත්සන් කරන ලද ඉන්දු - ලංකා ගිවිසුමට එරෙහිව රට පුරා ගොඩ නැගුණු දැවැන්ත මහජන විරෝධතාවලට ශිෂ්‍ය ක්‍රියාධරයෙකු ලෙස දායකත්වය ලබාදුන් ඔහු සමාජවාදී ශිෂ්‍ය සංගමයේ ක්‍රියාකාරිකයෙකු බවට පත් වුණි.
+
+...
+
+[Data](articles/776ad57d.json)
+
+---
 
 ### Swearing-in ceremony of new President Anura Kumara Dissanayake
 
@@ -50,27 +116,47 @@ The swearing in ceremony commenced following Dissanayake’s arrival at the Pres
 
 ---
 
-### අපි අභියෝගය භාර ගන්නවා
+### We accept the challenge
 
 *2024-09-23 09:45:19* · [`adalk`](https://www.ada.lk/breaking_news/අපි-අභියෝගය-භාර-ගන්නවා/11-412079) · `si`
 
-පොහොසත් රටක් ලස්සන ජීවිතයක් වෙනුවෙන් ජනතාව භාරදුන් වගකීම ඉටුකිරිමේ අභියෝගය භාර ගන්නා බව ජාතික ජන බලවේගයේ විධායක කමිටු සාමාජික සමන්ත විද්‍යාරත්න මහතා පැවැසීය. අද කොළඹදී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පැවැසීය.
+Here's a 200-character summary:
+
+
+
+Samantha Vidyaratne, Executive Committee Member, says a wealthy nation accepts challenges to fulfill citizens' responsibilities for a better life. She spoke to media in Colombo today.
+
+🟩
+
+The Executive Committee Member Samantha Vidyaratne said that a rich country will accept the challenge of fulfilling the responsibility of the people for a beautiful life,. Speaking to the media in Colombo today, he said.
 
 ◼️
 
 [Data](articles/89790a60.json)
 
+[Extended Data](ext_articles/89790a60.ext.json)
+
 ---
 
-### அமைச்சரவை கலைந்தது
+### The cabinet dissolved
 
 *2024-09-23 09:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-கலைந்தது/175-344288) · `ta`
 
-பிரதமர் தினேஷ் குணவர்தன தனது பிரதமர் பதவியை இராஜினாமா செய்ததை அடுத்தே, அமைச்சரவை கலைந்தது.
+Here's a 200-character summary:
+
+
+
+Cabinet dissolved: PM Dinesh Gunawardena resigns. Government restructuring begins.
+
+🟩
+
+The cabinet dissolved after Prime Minister Dinesh Gunawardena resigned his post as Prime Minister.
 
 ◼️
 
 [Data](articles/66ad2827.json)
+
+[Extended Data](ext_articles/66ad2827.ext.json)
 
 ---
 
@@ -96,17 +182,27 @@ Anura Kumara went to the Presidential Secretariat a short while before the new p
 
 ---
 
-### அரசிதழ் வெளியானது: 10 மணிக்கு பதவியேற்பு
+### Released: Inauguration at 10 am
 
 *2024-09-23 09:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசிதழ்-வெளியானது-10-மணிக்கு-பதவியேற்பு/175-344287) · `ta`
 
-இலங்கை ஜனநாயக சோசலிச குடியரசின் நிறைவேற்று அதிகாரம் கொண்ட 9ஆவது ஜனாதிபதியாக தெரிவு செய்யப்பட்டுள்ள அனுரகுமார திஸாநாயக்க, பதவிப்பிரமாணம் செய்யும் வைபவம், ஜனாதிபதி மாளிகையில், இன்று (23) காலை 10 மணியளவில் மிகவும் எளிமையான முறையில் நடைபெறவுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க, தெரிவு செய்யப்பட்டுள்ளார் என்பதற்கான அரசிதழும் ( வர்த்தமானி) வெளியிடப்பட்டது.
+
+
+Inauguration at 10 AM: Anura Kumara Dissanayake becomes 9th President of Sri Lanka Democratic Socialist Republic. Ceremony takes place at Presidential Palace today at 10 AM.
+
+🟩
+
+Anura Kumara Dissanayake, the 9th President of the Sri Lanka Democratic Socialist Republic, will be held at the Presidential Palace at 10 am today (23) at 10 am.
+
+Anuragumara Dissanayake has been elected as the Executive President and has been released.
 
 ◼️
 
 [Data](articles/450c4577.json)
+
+[Extended Data](ext_articles/450c4577.ext.json)
 
 ---
 
@@ -150,17 +246,27 @@ Mr. Gunawardena has also congratulated the newly elected President of Sri Lanka,
 
 ---
 
-### අගමැති දිනේෂ් ඉල්ලා අස්වෙයි
+### Prime Minister Dinesh resigns
 
 *2024-09-23 09:18:39* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-දිනේෂ්-ඉල්ලා-අස්වෙයි/11-412078) · `si`
 
-නව ජනපතිවරයෙක් ජනතාව විසින් තෝරාපත් ගැනීම හේතුවෙන් ඔහු මෙසේ සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+Here's a 200-character summary:
 
-ඔහු සිය ඉල්ලා අස්වීමේ ලිපිය රනිල් වික්‍රමසිංහ මහතා වෙත යොමුකර තිබේ.
+
+
+PM Dinesh resigns after new president elected. Sent letter to Ranil Wickremesinghe.
+
+🟩
+
+He has resigned from his post as a new President was elected by the people.
+
+He has sent his resignation letter to Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/c75bee7e.json)
+
+[Extended Data](ext_articles/c75bee7e.ext.json)
 
 ---
 
@@ -345,6 +451,20 @@ The meeting was held following the announcement of Dissanayake as President by t
 [Data](articles/66f3e9d6.json)
 
 [Extended Data](ext_articles/66f3e9d6.ext.json)
+
+---
+
+### අනුර නව ජනපති ලෙස පත් කිරීමේ ගැසට්ටුව නිකුත් කරයි
+
+*2024-09-23 08:31:06* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-නව-ජනපති-ලෙස-පත්-කිරීමේ-ගැසට්ටුව-නිකුත්-කරයි/11-412076) · `si`
+
+2024 ජනාධිපතිවරණය මගින්   නව ජනාධිපති ලෙස අනුර කුමාර දිසානායක මහතා තෝරා පත්කර ගැනීම  පිළිබඳව වූ අති විශේෂ ගැසට් පත්‍රය මැතිවරණ කොමිෂන් සභාව විසින් ඊයේ( 22) දාතමින් නිකුත් කර කෙරිණි .
+
+ඒ අනුව 1981 අංක 15 දරන ජනාධිපතිවරයා තෝරා පත්කර ගැනීම පිලිබඳ පනතේ 61 වන වගන්තිය යටතේ අනුර කුමාර දිසානායක මහතා ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජයේ ජනාධිපතිවරයා ලෙස තෝරා පත්කර ගත්  ලෙස ප්‍රකාශයට පත්කළ බව එම පනතේ 64(2) වගන්තිය යටතේ මැතිවරණ කොමිෂන් සභාව විසින්   මෙම ගැසට් නිවේදනය මගින් ප්‍රකාශයට පත් කර තිබේ.
+
+◼️
+
+[Data](articles/42796475.json)
 
 ---
 
@@ -2077,131 +2197,5 @@ The second number of preferential votes received by Anura Kumara Dissanayake was
 [Data](articles/c9e1b687.json)
 
 [Extended Data](ext_articles/c9e1b687.ext.json)
-
----
-
-### Anuragumara Dissanayake's magnificent victory has completely changed the country's political area - Saliya Peiris
-
-*2024-09-22 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194549) · `ta`
-
-Anuragumara Dissanayake's victory reshapes Sri Lanka's politics. Saliya Peiris hails it as a gift for change, citing Dissanayake's win as next president. Challenges await, including dissolving parliament and facing opposition voters. Peiris urges Dissanayake to address people's needs and maintain transparency.
-
-🟩
-
-The victory of the Anuragumara Dissanayake and the power of the national people has completely changed the political area of ​​the country. Former President of the Sri Lanka Attorneys' Association, president of the Sri Lanka Lawyers Association, said that this is a gift to the people who voted for him to make a real change in the country.
-
-Saliya Peiris has insisted that the votes of the country's ninth presidential election were counted and in the presence of Anura Kumara Dissanayake, who contested on behalf of the national people's power, on his official Facebook page.. In it he added:
-
-Although the final decision of the presidential election is not yet released, it is now evident that Anurakumara Dissanayake is the next President of Sri Lanka. The victory of the Anuragumara Dissanayake and the power of the national people has completely changed the political area of ​​the country.
-
-...
-
-[Data](articles/3022becd.json)
-
-[Extended Data](ext_articles/3022becd.ext.json)
-
----
-
-### Namal's wife and Namal go to Dubai
-
-*2024-09-22 18:27:29* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-බිරිඳත්-ඩුබායි-යයි/11-412070) · `si`
-
-Namal's wife travels to Dubai as Sri Lanka Air Force secures Bandaranaike International Airport. Several high-profile politicians depart for foreign destinations, including India and the UAE.
-
-🟩
-
-The Sri Lanka Air Force has been strictly deployed in the Bandaranaike International Airport, Katunayake yesterday (21).
-
-A large number of elites in Sri Lankan politics have left for foreign countries at the Bandaranaike International Airport. Former Minister Susantha Punchinilame at the Indian Airline Punchinilame at the Indian Airlines' AI. 272 ​​has left for Chennai in India.
-
-Former UNP General Secretary of the UNP Palitha Range Bandara, former Secretary General of the UNP Palitha Range Bandara, former Secretary General of the UNP, was leaving the Katunayake airport.
-
-Saddhatissa Thera today (22) this morning at 12.50 am today (22) at the Cathale Cathay Pacific. - The plane left 610. President Mahinda Rajapaksa's wife, Limali Weerasinghe and her father's father Thilakasiri Weerasinghe today (22) at the Emirates Airlines, the Emirates Airlines.
-
-The airport said that the US did not work to America from Katunayake airport, sources from Dubai said.
-
-◼️
-
-[Data](articles/05f8f9dc.json)
-
-[Extended Data](ext_articles/05f8f9dc.ext.json)
-
----
-
-### “I was able to rescue my motherland from bankruptcy within a short period of two years. I believe this to be the most important thing I could do for my country during my political career.”- Ranil Wickremesinghe.
-
-*2024-09-22 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84770) · `en`
-
-(Text of Farewell Message  delivwred by outgoing President Rani Wickremesinghe on 22 September 2024)
-
-The people of the country have given their decision at this Presidential Election held on 21st September 2024. Therefore, we must respect their decision and act according to that mandate to ensure the functioning of the country.
-
-Two years ago, I took over a bankrupt country and a collapsed economy at an extremely turbulent time.
-
-I accepted the challenge at a time when no one else had the courage to face it.
-
-I successfully completed the responsibility that history put upon my shoulders.
-
-I was able to rescue my motherland from bankruptcy within a short period of two years.
-
-I believe this to be the most important thing I could do for my country during my political career.
-
-Inflation was 70% when I took over the country, but I could reduce it to 0.5% during my time as the President.
-
-I increased the Foreign Reserve, which was at USD 20 Million when I came to power, to USD 5.7 Billion.
-
-...
-
-[Data](articles/cae2283f.json)
-
-[Extended Data](ext_articles/cae2283f.ext.json)
-
----
-
-### Presidential election final results
-
-*2024-09-22 18:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-இறுதி-பெறுபேறுகள்/175-344257) · `ta`
-
-Here's a summary of the presidential election final results in approximately 200 characters:
-
-
-
-"Joe Biden wins presidency with 306 electoral votes vs Donald Trump's 232. Biden secures key battleground states like Pennsylvania, Michigan, and Wisconsin. Kamala Harris becomes first female VP. Voter turnout reaches record high."
-
-🟩
-
-◼️
-
-[Data](articles/3a14a7ad.json)
-
-[Extended Data](ext_articles/3a14a7ad.ext.json)
-
----
-
-### Ravindra's challenging
-
-*2024-09-22 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201439) · `si`
-
-New Zealand faces challenge in Galle Test: Need 68 runs from 2 wickets, Sri Lanka leads with 4 wickets down. Ramesh Mendis and Prabath Jayasuriya shine with 3 wickets each. Ajas Patel struggles, scoring only 9 runs.
-
-🟩
-
-New Zealand scored eight wickets in their second innings when the first Test match was held in Galle this afternoon.
-
-Pursuing 275 runs, they should score 68 runs tomorrow (23) and two wickets left for it.
-
-Ajas Patel has not scored a four-run-run resorting to the nine-day wicket with Sri Lanka.
-
-Ramesh Mendis (3/83) and Prabath Jayasuriya (3/66) were taken to a bowling bowler for Sri Lanka.
-
-The Sri Lankan team scored 237 runs for the loss of 04 wickets.
-
-However, New Zealand bowlers to break up to 309 runs in their second innings.
-
-◼️
-
-[Data](articles/0cdf8a8c.json)
-
-[Extended Data](ext_articles/0cdf8a8c.ext.json)
 
 ---

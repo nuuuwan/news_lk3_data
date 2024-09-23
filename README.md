@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 02:22:45**
+As of **2024-09-24 02:38:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,870 (100.0%) of 45,872 articles have been extended.
+45,872 (100.0%) of 45,872 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,17 +44,25 @@ AKD’s election marks a critical turning point in Sri Lanka’s political lands
 
 [Data](articles/e1a4bd0e.json)
 
+[Extended Data](ext_articles/e1a4bd0e.ext.json)
+
 ---
 
-### ஜனாதிபதி அநுரகுமார தலதா மாளிகையில் வழிபாடு
+### President of President Anurakumara Dalada House
 
 *2024-09-24 01:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அநுரகுமார-தலதா-மாளிகையில்-வழிபாடு/175-344351) · `ta`
 
-இலங்கையின் 9 ஆவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக நேற்று காலை பதவிப்பிரமாணம் செய்து கொண்ட ஜனாதிபதி அநுரகுமார திஸாநாயக்க தலதா மாளிகையில் விசேட வழிபாடுகளில் ஈடுபட்டுள்ளார்.
+<PHIND_TIMEOUT>
+
+🟩
+
+President Anura Kumara Dissanayake, who was sworn in as the 9th Executive President of Sri Lanka yesterday morning, was engaged in special worship at the Dalada House.
 
 ◼️
 
 [Data](articles/0b626f2d.json)
+
+[Extended Data](ext_articles/0b626f2d.ext.json)
 
 ---
 

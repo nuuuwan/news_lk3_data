@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 16:55:34**
+As of **2024-09-23 17:07:55**
 
 ## Newspaper Stats
 
-*Scraped **45,808** Articles*
+*Scraped **45,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,030
 adalk | 4,208
 dailymirrorlk | 4,733
 adaderanalk | 5,396
-tamilmirrorlk | 6,098
+tamilmirrorlk | 6,099
 virakesarilk | 7,319
 adaderanasinhalalk | 7,931
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 7,931
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,808 (100.0%) of 45,808 articles have been extended.
+45,808 (100.0%) of 45,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### ஜனாதிபதிக்கு சபாநாயகரின் வாழ்த்து
+
+*2024-09-23 16:49:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-சபாநாயகரின்-வாழ்த்து/175-344319) · `ta`
+
+இலங்கையின் நிறைவேற்று அதிகாரம் கொண்ட ஒன்பதாவது ஜனாதிபதியாக  தெரிவு செய்யப்பட்ட அனுரகுமார திஸாநாயக்கவிற்கு தனது வாழ்த்துக்களை தெரிவிப்பதாக பாராளுமன்ற சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன உத்தியோகபூர்வ வாழ்த்துச் செய்தியூடாக தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/7439ff08.json)
+
+---
 
 ### Lakshman Nipuna Arachchi appointed to Anura’s MP seat
 
@@ -2183,27 +2195,5 @@ Strong winds of about 40-45 kmph can be expected at times over the western slope
 [Data](articles/6041240f.json)
 
 [Extended Data](ext_articles/6041240f.ext.json)
-
----
-
-### Greeting Indian High Commissioner New President
-
-*2024-09-23 08:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-புதிய-ஜனாதிபதிக்கு-வாழ்த்து/175-344284) · `ta`
-
-Indian High Commissioner Santos Ja met newly elected Sri Lankan President Dissanayake. He congratulated both nations, emphasizing strengthened bilateral ties for mutual prosperity. The meeting followed Dissanayake's announcement as President by the Election Commission Chair.
-
-🟩
-
-Indian High Commissioner Santos Ja met with Dissanayake, who was elected president at the National People's Power Office in Battaramulla yesterday evening.
-
-He congratulated India's leadership and congratulated Dissanayake on the success of the election, and the High Commissioner has posted on 'X' on 'X' that he emphasized India's commitment to strengthen relations for the prosperity of the two countries.
-
-The meeting was held following the announcement of Dissanayake as President by the Chairman of the Elections Commission.
-
-◼️
-
-[Data](articles/66f3e9d6.json)
-
-[Extended Data](ext_articles/66f3e9d6.ext.json)
 
 ---

@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 04:22:20**
+As of **2024-09-24 04:38:28**
 
 ## Newspaper Stats
 
-*Scraped **45,886** Articles*
+*Scraped **45,890** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 382
 bbccomsinhala | 449
-colombotelegraphcom | 456
+colombotelegraphcom | 457
 islandlk | 2,684
 economynextcom | 2,773
-dailyftlk | 3,050
+dailyftlk | 3,053
 adalk | 4,212
 dailymirrorlk | 4,733
 adaderanalk | 5,402
@@ -26,11 +26,51 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,886 (100.0%) of 45,886 articles have been extended.
+45,886 (100.0%) of 45,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Murdered journalist Lasantha’s daughter hopes AKD will bring justice
+
+*2024-09-24 04:08:31* · [`dailyftlk`](https://www.ft.lk/news/Murdered-journalist-Lasantha-s-daughter-hopes-AKD-will-bring-justice/56-767078) · `en`
+
+Ahimsa holding a portrait of her father Lasantha Wickrematunge who was assassinated in broad daylight in January 2009
+
+...
+
+[Data](articles/d6647474.json)
+
+---
+
+### Dr. Nandika Sanath Kumanayake appointed as Secretary to the President
+
+*2024-09-24 04:03:18* · [`dailyftlk`](https://www.ft.lk/news/Dr-Nandika-Sanath-Kumanayake-appointed-as-Secretary-to-the-President/56-767077) · `en`
+
+...
+
+[Data](articles/20f99362.json)
+
+---
+
+### President visits Kandy to seek blessings from Sacred Tooth Relic
+
+*2024-09-24 03:57:13* · [`dailyftlk`](https://www.ft.lk/news/President-visits-Kandy-to-seek-blessings-from-Sacred-Tooth-Relic/56-767076) · `en`
+
+President Anura Kumara Dissanayake yesterday paid homage to the Temple of the Tooth Relic (Dalada Maligawa) and received blessings.
+
+Upon his arrival at the Dalada Maligawa, the President was ceremonially welcomed by the Diyawadana Nilame of the Dalada Maligawa Nilanga Dela.
+
+Following this, the Maha Sangha chanted Seth Pirith and offered blessings to the President, who took part in religious observances before the sacred Tooth Relic. The President also signed the special visitors’ book placed within the historic Dalada Maligawa.
+
+Former Member of Parliament K.D. Lal Kantha was also present on this occasion.
+
+◼️
+
+[Data](articles/128c6a81.json)
+
+---
 
 ### UAE President congratulates AKD
 
@@ -401,6 +441,16 @@ However, with this great honour comes an even greater responsibility. The task o
 ---
 
 ### 2024-09-23 (Monday)
+
+### Kudos President AKD! Your Mandate Reflects People’s Strong Desire For Genuine Change!
+
+*2024-09-23 22:47:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kudos-president-akd-your-mandate-reflects-peoples-strong-desire-for-genuine-change/) · `en`
+
+...
+
+[Data](articles/ae774143.json)
+
+---
 
 ### SJB joins the UNP;Ranil's diplomacy
 
@@ -1977,87 +2027,5 @@ Wickrematunge had accused then defence ministry secretary Gotabaya Rajapaksa of 
 [Data](articles/ebc2c390.json)
 
 [Extended Data](ext_articles/ebc2c390.ext.json)
-
----
-
-### Here is the new Secretary to the President
-
-*2024-09-23 13:51:07* · [`adalk`](https://www.ada.lk/breaking_news/නව-ජනාධිපති-ලේකම්-මෙන්න/11-412087) · `si`
-
-Sanath Nandika appointed Secretary to President Anura Kumara Dissanayake.
-
-🟩
-
-Sanath Nandika, Senathathu Nandika, has been appointed as the Secretary to the President.
-
-The appointment was made by President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/1e6b78a5.json)
-
-[Extended Data](ext_articles/1e6b78a5.ext.json)
-
----
-
-### Nandika Kumanayake appointed Sri Lanka President’s secretary
-
-*2024-09-23 13:51:00* · [`economynextcom`](https://economynext.com/nandika-kumanayake-appointed-sri-lanka-presidents-secretary-180633/) · `en`
-
-ECONOMYNEXT – Nandika Sanath Kumanayake has been appointed Secretary to the President of Sri Lanka, shortly after Anura Kumara Dissanayake was sworn in as the country’s ninth executive president.
-
-Kumanayake worked at Sri Lanka Customs, where he was a integrity development advisor, a statement by the government information department said.
-
-He has a PhD in Development Economics and is a graduate of the Kelaniya University. (Colombo/Sep23/2024)
-
-◼️
-
-[Data](articles/c4ff4ad2.json)
-
-[Extended Data](ext_articles/c4ff4ad2.ext.json)
-
----
-
-### Anura Vidhanagamage resigns
-
-*2024-09-23 13:50:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-விதானகமகே-இராஜினாமா/175-344309) · `ta`
-
-Anura Vidhanagamage resigns: Summary (200 characters)
-
-Anura Vidhanagamage, a prominent figure, has announced his resignation. This news has significant implications for the organization he served. The reasons behind his departure remain unclear, fueling speculation among stakeholders. As details emerge, it becomes apparent that this decision will have far-reaching consequences for the entity and its future direction.
-
-🟩
-
-◼️
-
-[Data](articles/14693c87.json)
-
-[Extended Data](ext_articles/14693c87.ext.json)
-
----
-
-### Sealing a restaurant in Jaffna;15 to the owners of restaurants
-
-*2024-09-23 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194594) · `ta`
-
-Jaffna restaurant sealed, 15 owners fined 140,000 rupees for health violations.
-
-🟩
-
-A restaurant operating in Jaffna has been sealed and 15 restaurants have been fined one lakh 40 thousand rupees.
-
-Sudden examination activities were carried out by health inspectors at Uduvil Health Medical Officer's workshop.
-
-At the same time, the Mallakam Magistrate's Court has filed a case against the owners of the failure of the reflection of the refrigerator, the failure of personal hygiene, the absence of medical certification, the failure of the health system, and the failure of the equipment.
-
-When the case was taken up for hearing on Thursday (19), 15 owners accepted the charge against them, and the owners were sentenced to Rs 1 lakh forty thousand rupees.
-
-At the same time, it was ordered to seal the restaurant until the owner's restaurant was reached.
-
-◼️
-
-[Data](articles/ce8579c6.json)
-
-[Extended Data](ext_articles/ce8579c6.ext.json)
 
 ---

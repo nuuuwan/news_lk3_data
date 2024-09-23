@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 12:24:29**
+As of **2024-09-23 12:38:34**
 
 ## Newspaper Stats
 
-*Scraped **45,755** Articles*
+*Scraped **45,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,030
 adalk | 4,203
 dailymirrorlk | 4,733
 adaderanalk | 5,387
-tamilmirrorlk | 6,087
+tamilmirrorlk | 6,088
 virakesarilk | 7,304
 adaderanasinhalalk | 7,923
 
@@ -26,11 +26,21 @@ adaderanasinhalalk | 7,923
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,750 (100.0%) of 45,755 articles have been extended.
+45,755 (100.0%) of 45,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### புதிய ஜனாதிபதிக்கு புதிய  செயலாளர் நியமனம்
+
+*2024-09-23 12:17:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-புதிய-செயலாளர்-நியமனம்/175-344302) · `ta`
+
+◼️
+
+[Data](articles/d42950e7.json)
+
+---
 
 ### Lakshman Nipuna Arachchi to be appointed to Anura’s MP seat
 
@@ -48,6 +58,8 @@ However, he added that Lakshman Nipuna Arachchi is next on the preference list a
 
 [Data](articles/ac3863a9.json)
 
+[Extended Data](ext_articles/ac3863a9.ext.json)
+
 ---
 
 ### Two Governors resign
@@ -62,31 +74,43 @@ Accordingly, the Governor of the North Central Province Maheepala Herath and the
 
 [Data](articles/7ff1810a.json)
 
+[Extended Data](ext_articles/7ff1810a.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව ටෙස්ට් ශ්‍රේණිගත කිරීම්වල 3 වැනි තැනට
+### Sri Lanka to the 3rd place in Test rankings
 
 *2024-09-23 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201465) · `si`
 
-ලෝක ටෙස්ට් ශූරතා තරගාවලියේ ප්‍රසාද ලකුණු සටහනේ තුන්වන ස්ථානය දක්වා ශ්‍රී ලංකා කණ්ඩායම ඉදිරියට පැමිණ තිබේ.
+Sri Lanka rises to 3rd in Test rankings after winning 1st Test vs New Zealand. Prabath Jayasuriya takes 5/68, Ramesh Mendis 3/83. Second Test starts Sept 26 in Galle.
 
-ඒ සංචාරක නවසීලන්ත කණ්ඩායම සහ ශ්‍රී ලංකාව අතර පැවති පළමු ටෙස්ට් තරගය ශ්‍රී ලංකාව ලකුණු 63කින් ජයගැනීමත් සමඟය.
+🟩
 
-අද (23) දිනය සඳහා තරගය ආරම්භ කරනවිට ලකුණු 275ක ජයග්‍රාහි ඉලක්කයක් හඹායෑමට පිටියට පිවිසි නවසීලන්ත කණ්ඩායම සිය දෙවන ඉනිමට කඩුලු 8ක් දැවි ලකුණු 207ක් රැස්කරගෙන සිටියේය.
+The Sri Lankan team has come forward to the third place in the World Test Championship tournament.
 
-ජයග්‍රහණය වෙනුවෙන් ශ්‍රී ලංකාව කඩුලු දෙකක් දවාගත යුතුවු අතර නවසීලන්තය ලකුණු 68ක් රැස්කරගත යුතුවුණි.
+The first Test between New Zealand and Sri Lanka, Sri Lanka won the first Test match against Sri Lanka by 63 runs.
 
-ශ්‍රී ලංකා පන්දු යවන්නන්ට හිසරදයක්වූ රචින් රවීන්ද්‍ර නොදැවි ලකුණු 91ක් රැස්කරගෙන සිටි අතර අජාස් පටෙල්  ලකුණු නොලබා කඩුල්ලේ රැඳි සිටියේය.
+New Zealand scored 207 runs for the loss of 8 wickets in their second innings when the match was commenced today (23).
 
-තරගයේ ජය දෙපිලටම දෝලනය වෙමින් අද දිනය ආරම්භ වූ අතර  දිනය ආරම්භයේදීම රචින් රවීන්ද්‍ර දවාගත් ප්‍රභාත් ජයසූරීය  ශ්‍රී ලංකාවේ ජයග්‍රහණය තහවුරු කළේය.
+Sri Lanka should have lived two wickets and New Zealand scored 68 runs.
 
-ඒ අනුව නවසීලන්තය සිය දෙවන ඉනිමට සියලු දෙනා දැවි ලකුණු 211ක් රැස්කළ අතර ඔවුන් සිය පළමු ඉනිමට ලකුණු 340ක් රැස්කළේය.
+Ravindra, a headache for the bowlers, was raweled for 91 runs and Ajas Patel remained in the disadvantage.
 
-අද දිනයේදී තරගය ක්‍රියාත්මක වුණේ විනාඩි 15ක් පමණක් වීම විශේෂත්වයකි.
+Prabath Jayasuri seized Sri Lanka's victory in Sri Lanka at the beginning of the day.
+
+Accordingly, New Zealand scored 211 runs in his second innings and scored 340 runs in their first innings.
+
+It was only 15 minutes to play the match today.
+
+Batting first Sri Lanka scored 305 runs in their first innings and scored 309 runs in their second innings.
+
+Prabath Jayasuriya took 5 wickets for 68 runs in New Zealand in New Zealand.
 
 ...
 
 [Data](articles/3e173c43.json)
+
+[Extended Data](ext_articles/3e173c43.ext.json)
 
 ---
 
@@ -147,6 +171,8 @@ Meanwhile, the Secretary of the Ministry of Education, Thilaka Jayasundara, anno
 ...
 
 [Data](articles/08b8ec0e.json)
+
+[Extended Data](ext_articles/08b8ec0e.ext.json)
 
 ---
 
@@ -1398,29 +1424,39 @@ India’s envoy to Sri Lanka also met Dissanayake after his election.
 
 ---
 
-### නව ජනපති අනුරගේ කැබිනට් මණ්ඩලය කුමක් වෙයි ද? ඉදිරි පියවර මොනවා ද?
+### What is the new President Anura's Cabinet?What is the next step?
 
 *2024-09-23 06:34:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c625q40537no) · `si`
 
-නව ජනපති අනුරගේ කැබිනට් මණ්ඩලය කුමක් වෙයි ද? ඉදිරි පියවර මොනවා ද?
+Here's a 200-character summary:
 
-ජනාධිපතිවරයා ලෙස දිවුරුම් දීමෙන් පසු පාර්ලිමේන්තුව විසුරුවා හැර මහ මැතිවරණයක් කැඳවන බව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක පවසා තිබිණි.
 
-ඒ අනුව, ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූලව ඔහුට ගත හැකි ක්‍රියාමාර්ග මොනවා ද?
 
-මේ, ඒ පිළිබඳව ව්‍යවස්ථා කටයුතු විශේෂඥයෙකු වන ආචාර්ය ජයම්පති වික්‍රමරත්න කළ පැහැදිලි කිරීමකි.
+New President Anura Kumara Dissanayake forms cabinet after parliamentary oath. Next steps involve general election process, potentially within 3 months.
 
-අනුර කුමාර දිසානායක ජනාධිපති ධූරයේ දිවුරුම් දුන් විගස පාර්ලිමේන්තුව විසුරුවා හැරියහොත් ඊළඟ මහ මැතිවරණය අවසන් වන තෙක් වත්මන් කැබිනට් මණ්ඩලය ක්‍රියාත්මක වන බව ආචාර්ය ජයම්පති වික්‍රමරත්න පවසයි.
+🟩
 
-“ජනාධිපති වුණු ගමන් පාර්ලිමේන්තුව විසුරුවා හැරියොත් ජනාධිපතිවරයාට සිද්ධ වෙනවා ඒ මොහොතේ ඉන්න අගමැතිවරයා සහ කැබිනට් මණ්ඩලය සමග වැඩ කරගෙන යන්න, මහ මැතිවරණය අවසන් වන තුරු.”
+What is the new President Anura's Cabinet?What is the next step?
 
-මේ වන විට දිනේෂ් ගුණවර්ධන අග්‍රාමාත්‍ය ධූරයෙන් ඉවත් වී ඇති හෙයින් නව කැබිනට් මණ්ඩලයක් පත් කළ හැකි ය.
+Leader of the National Power Anura Kumara Dissanayake said that after the swearing in the president, the leader of the National July national elections said.
 
-දිනේෂ් ගුණවර්ධන අග්‍රාමාත්‍ය ධූරයෙන් ඉවත් වීමෙන් පසු කැබිනට් මණ්ඩලය ද අහෝසි වී තිබේ.
+Accordingly, what measures can be taken in accordance with the Constitution?
+
+This is an explanation made by Hon. Jayampathi Wickremratne, a constitutional expert.
+
+If the Parliament is sworn in as the president as soon as the Parliament was sworn in as the president, Dr. Jayampathi Wickramaratne says that the Cabinet is operating until the next general election will be completed.
+
+"If the president is dissolved, the President has to work with the Prime Minister and the Cabinet until the end of the general election."
+
+Dinesh Gunawardena has been removed from the post of Prime Minister, a new cabinet can be appointed.
+
+After leaving Dinesh Gunawardena, the cabinet has also been abolished.
 
 ...
 
 [Data](articles/8b296131.json)
+
+[Extended Data](ext_articles/8b296131.ext.json)
 
 ---
 
@@ -2173,35 +2209,5 @@ We need to relieve many divisions in our country. We can go in front of discussi
 [Data](articles/59dddf97.json)
 
 [Extended Data](ext_articles/59dddf97.ext.json)
-
----
-
-### I Handy to Love You Lightly Child, Sri Lanka - Ranil tells the accident
-
-*2024-09-22 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201447) · `si`
-
-Here's a 200-character summary:
-
-
-
-Ranil Wickremesinghe hands power to Anura Dissanayake, praising his economic achievements and wishing him success in governing Sri Lanka.
-
-🟩
-
-President Ranil Wickremesinghe said that President Ranil Wickremesinghe said that he would give the new President Anura Dissanayake and thanks to all those who did not support him in the 21st.
-
-The President has noted that the dear child, the dear child, brought them safely in the vines, and that he is safe to be able to cross the vines safely.
-
-The majority of the people in this country have been given a decision from the presidential election on September 21. We should respect that decision. The recovery of the Government of Sri Lanka should be established in accordance with the verdict.
-
-Two years ago, two years ago, I accepted this country in a very crisis environment.
-
-I accepted that responsibility when many did not have much spirit of self-strength to deal with that challenge.
-
-...
-
-[Data](articles/e068f9f6.json)
-
-[Extended Data](ext_articles/e068f9f6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 14:57:49**
+As of **2024-09-23 15:22:46**
 
 ## Newspaper Stats
 
-*Scraped **45,789** Articles*
+*Scraped **45,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,122 @@ dbsjeyarajcom | 382
 bbccomsinhala | 448
 colombotelegraphcom | 454
 islandlk | 2,677
-economynextcom | 2,764
+economynextcom | 2,768
 dailyftlk | 3,030
-adalk | 4,205
+adalk | 4,206
 dailymirrorlk | 4,733
-adaderanalk | 5,391
+adaderanalk | 5,394
 tamilmirrorlk | 6,094
 virakesarilk | 7,319
-adaderanasinhalalk | 7,929
+adaderanasinhalalk | 7,930
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,789 (100.0%) of 45,789 articles have been extended.
+45,798 (100.0%) of 45,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Ravi Seneviratne appointed Secretary of Public Security
+
+*2024-09-23 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102215/ravi-seneviratne-appointed-secretary-of-public-security-) · `en`
+
+The newly-elected President Anura Kumara Dissanayake has appointed former Senior Deputy Inspector General (DIG) Ravi Seneviratne as the Secretary to the Ministry of Public Security.
+
+◼️
+
+[Data](articles/886af626.json)
+
+[Extended Data](ext_articles/886af626.ext.json)
+
+---
+
+### China’s President says hopes to deepen ties with Sri Lanka’s new leader
+
+*2024-09-23 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102214/chinas-president-says-hopes-to-deepen-ties-with-sri-lankas-new-leader) · `en`
+
+Chinese President Xi Jinping on Monday said he hoped to broaden cooperation with Sri Lanka under his Belt and Road infrastructure initiative (BRI) as he congratulated the island nation’s new leader Anura Kumara Dissanayaka.
+
+Dissanayaka took his oath at the Presidential Secretariat in Colombo on Monday, vowing to restore public faith in politics.
+
+The country is emerging from a years-long economic collapse blamed partly on struggling high-debt Chinese mega-projects coordinated through the BRI, the massive infrastructure project that is a central pillar of Xi’s bid to expand his country’s clout overseas.
+
+“I attach great importance to the development of China-Sri Lanka relations and am willing to work with Mr. President to continue our traditional friendship (and) enhance mutual political trust,” Xi said in a message to Dissanayaka, according to state broadcaster CCTV.
+
+Xi said he hoped bilateral cooperation under his flagship BRI would “bear more fruit”, CCTV added.
+
+...
+
+[Data](articles/140876e8.json)
+
+[Extended Data](ext_articles/140876e8.ext.json)
+
+---
+
+### New Defense Secretary appoints
+
+*2024-09-23 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201472) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Air Vice Marshal (Retired) Sampath named new Defense Secretary."
+
+🟩
+
+Air Vice Marshal (Retired) Sampath has been appointed as the new Defense Secretary.
+
+◼️
+
+[Data](articles/64e135f1.json)
+
+[Extended Data](ext_articles/64e135f1.ext.json)
+
+---
+
+### New Defence Secretary appointed
+
+*2024-09-23 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102213/new-defence-secretary-appointed) · `en`
+
+Air Vice Marshal (Retired) Sampath Thuyacontha has been appointed as the new Secretary of Defence.
+
+Thuyacontha joined the Sri Lanka Air Force on 17th of May 1988 to the 19th Intake as an Officer Cadet and was commissioned as a Pilot Officer in the General Duties Pilot Branch in the year 1990.
+
+After completion of training in the year 1990 he was deployed for flying duties as an operational pilot in Bell 212/412 helicopters. In 2001, he was posted to No 9 Attack Helicopter Squadron, Sri Lanka Air Force Base Hingurakgoda as the Second in Command and later was appointed as the Commanding Officer in the year 2005.
+
+During his long tenure, he actively participated for all major operations which includes Humantarian War to liberate North and East and he managed to log more than 7000 flying hours as an Operations/ VIP and Attack Helicopter Pilot of Sri Lanka Air Force.
+
+...
+
+[Data](articles/ff4d1031.json)
+
+[Extended Data](ext_articles/ff4d1031.ext.json)
+
+---
+
+### FCCISL congratulate Sri Lanka President, hopes for good governance
+
+*2024-09-23 14:30:00* · [`economynextcom`](https://economynext.com/fccisl-congratulate-sri-lanka-president-hopes-for-good-governance-180646/) · `en`
+
+ECONOMYNEXT – The Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) has congratulated President Anura Kumara Dissanayake, and called for ‘a new era of good governance and development’.
+
+“As President, we trust that you will inspire the nation with your commitment to good governance, transparency, and accountability,” FCCISL said in a statement.
+
+The FCCISL urged the new government to entrust capable and experienced leaders with the responsibility of steering key national institutions.
+
+FCCISL Congratulates President-Elect Anura Kumara Dissanayake and Calls for a New Era of Good Governance and Development
+
+...
+
+[Data](articles/7d894943.json)
+
+[Extended Data](ext_articles/7d894943.ext.json)
+
+---
 
 ### Uva Province Governor resigns
 
@@ -115,6 +213,66 @@ President Anura Kumara Dissanayake added that steps will be taken to deal with t
 [Data](articles/21b1f2ad.json)
 
 [Extended Data](ext_articles/21b1f2ad.ext.json)
+
+---
+
+### Family of murdered Sri Lanka editor seek justice from new president
+
+*2024-09-23 13:54:00* · [`economynextcom`](https://economynext.com/family-of-murdered-sri-lanka-editor-seek-justice-from-new-president-180641/) · `en`
+
+ECONOMYNEXT – The family of murdered Sri Lanka journalist Lasantha Wickrematunge appealed on Tuesday to the island’s new president to reopen an investigation into the internationally-condemned assassination.
+
+The anti-establishment editor was murdered as he drove to work in January 2009 by attackers later identified by police as members of a military intelligence unit linked to the once-powerful Rajapaksa family.
+
+Saturday’s election of the country’s first leftist president, Anura Kumara Dissanayaka, had given the family “a renewed sense of hope” of justice, Wickrematunge’s daughter Ahimsa said.
+
+“We are hopeful that this leadership will bring a fresh perspective into finally addressing the atrocities that have taken place in Sri Lanka’s recent human rights history,” she said in a statement.
+
+Wickrematunge had accused then defence ministry secretary Gotabaya Rajapaksa of taking kickbacks in arms procurements, including the purchase of second-hand MiG jet fighters from Ukraine.
+
+...
+
+[Data](articles/ebc2c390.json)
+
+[Extended Data](ext_articles/ebc2c390.ext.json)
+
+---
+
+### Here is the new Secretary to the President
+
+*2024-09-23 13:51:07* · [`adalk`](https://www.ada.lk/breaking_news/නව-ජනාධිපති-ලේකම්-මෙන්න/11-412087) · `si`
+
+Sanath Nandika appointed Secretary to President Anura Kumara Dissanayake.
+
+🟩
+
+Sanath Nandika, Senathathu Nandika, has been appointed as the Secretary to the President.
+
+The appointment was made by President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/1e6b78a5.json)
+
+[Extended Data](ext_articles/1e6b78a5.ext.json)
+
+---
+
+### Nandika Kumanayake appointed Sri Lanka President’s secretary
+
+*2024-09-23 13:51:00* · [`economynextcom`](https://economynext.com/nandika-kumanayake-appointed-sri-lanka-presidents-secretary-180633/) · `en`
+
+ECONOMYNEXT – Nandika Sanath Kumanayake has been appointed Secretary to the President of Sri Lanka, shortly after Anura Kumara Dissanayake was sworn in as the country’s ninth executive president.
+
+Kumanayake worked at Sri Lanka Customs, where he was a integrity development advisor, a statement by the government information department said.
+
+He has a PhD in Development Economics and is a graduate of the Kelaniya University. (Colombo/Sep23/2024)
+
+◼️
+
+[Data](articles/c4ff4ad2.json)
+
+[Extended Data](ext_articles/c4ff4ad2.ext.json)
 
 ---
 
@@ -667,6 +825,32 @@ The fact that a one -year time to be re -given in Geneva is a disappointment of 
 [Data](articles/34133633.json)
 
 [Extended Data](ext_articles/34133633.ext.json)
+
+---
+
+### Sri Lanka stocks pick up after opening lower
+
+*2024-09-23 12:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-pick-up-after-opening-lower-180620/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange began to pick up after opening lower following Sri Lanka’s presidential election over the weekend.
+
+The ASPI was up 81.21 points, or 0.74 percent, in mid-day trading at 11,047, while the S&P SL20 was up 1.43 percent, or 44.27 points at 3,146. Turnover was 682 million.
+
+Stockbrokers said it was too early to comment, and that “There’s nothing concrete yet, we can’t put a weight on any one fact.”
+
+“The perception is that there might be a more practical view from the new government, they are open to suggestions, and promise to cut expenditure.”
+
+“People are waiting to see what will be implemented, if they address the needs of the capital market.”
+
+The positive momentum from last week ISB deal was continuing, they said, with banking stocks trading up.
+
+The island nation’s new President Anura Dissanayake was sworn in at 10 am on Monday. (Colombo/Sep23/2024)
+
+◼️
+
+[Data](articles/b09f9b39.json)
+
+[Extended Data](ext_articles/b09f9b39.ext.json)
 
 ---
 
@@ -2075,217 +2259,5 @@ I congratulate Anuragumara Dissanayake, who won the 2024 presidential election. 
 [Data](articles/621578ae.json)
 
 [Extended Data](ext_articles/621578ae.ext.json)
-
----
-
-### In the middle of the middle of the rainfall
-
-*2024-09-23 07:31:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைக்கிடையே-மழை-பெய்யக்கூடும்/175-344278) · `ta`
-
-Rainfall forecast: NW, Sabaragamuwa, Western Provinces; Eastern, Uva Provinces; Central Highlands. Thunderstorms possible. Strong winds (40-45km/h) in several provinces. Sea areas face increased wind speeds. Public advised to remain vigilant due to potential lightning and strong gusts.
-
-🟩
-
-The Department of Meteorology has said that rainfall is expected in the North Western Province and in the Sabaragamuwa and the Western Provinces as well as the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-There is a chance of rain or thunderstorms in the evening or night in some parts of the Eastern and Uva provinces, as well as some parts of the Mullaitivu district.
-
-Heavy winds can be frequent at speeds of 40 - 45 km / h in the western slopes of the Central Highlands, the North, North Central and Southern Provinces as well as in the Matale, Trincomalee and Moneragala districts.
-
-Showers or thunderstorms are likely to occur in some parts of the sea regions beyond the coast of Chilaw to Hambantota via Galle.
-
-Winds from the west or southwest at speeds of 30 - 40 km / h in the sea regions.
-
-From Matara to Hambantota, Pottuvil, from Kankesanthurai to Mannar via Puttalam, the sea can be increased at speeds of 60 kilometers per hour.
-
-...
-
-[Data](articles/f1bfd71e.json)
-
-[Extended Data](ext_articles/f1bfd71e.ext.json)
-
----
-
-### Weather today
-
-*2024-09-23 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201449) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Showers in Western & Sabaragamuwa provinces, affecting Kandy, Nuwara Eliya, Galle, Matara. Thundershowers in Uva & Eastern provinces. Heavy rain possible in North, North-Central, North Western, Southern provinces."
-
-🟩
-
-Several spells of showers in the Western and Sabaragamuwa provinces may have a number of showers in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The department states that the North Western Province can be in the North Western Province.
-
-Showers or thundershowers will occur at several places in the Uva and Eastern Provinces or in the evening or at night.
-
-The Department of Meteorology announces that there is a key weather in other areas.
-
-Atlanditum in the North, North-Central, North Western and Southern provinces, Trincomalee, North-Central, Northwestern and Southern provinces.. The Department of Meteorology added that there could be 40-45 feet.
-
-◼️
-
-[Data](articles/219c2a40.json)
-
-[Extended Data](ext_articles/219c2a40.ext.json)
-
----
-
-### Sri Lanka President to be sworn in, four member cabinet
-
-*2024-09-23 07:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-be-sworn-in-four-member-cabinet-180521/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President-elect Anura Dissanayake would be sworn in on September 2024 and a four member cabinet will be appointed, National People’s Power party officials said.
-
-The Janatha Vimukthi Peramuna, the driving force behind the National People’s Power of now has three members in parliament.
-
-The resignation of Dissanayake would create a vacancy which will be filled with a new member, legislator Harini Amarasuriya said.
-
-The parliament would be dissolved in about a week, an NPP official said. The new government is expected to have at least 15 ministries.
-
-“I have always believed that the only government that can take the country out of the crisis should have a mandate from the people,” Dissanayake said Sunday after being declared the winner by the island’s independent Elections Commission.
-
-Sri Lanka’s challenges cannot be solved by a single party he said.
-
-...
-
-[Data](articles/4506a21f.json)
-
-[Extended Data](ext_articles/4506a21f.ext.json)
-
----
-
-### India PM congratulates Sri Lanka’s president elect
-
-*2024-09-23 07:00:00* · [`economynextcom`](https://economynext.com/india-pm-congratulates-sri-lankas-president-elect-180563/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president-elect Anura Dissanayake has received congratulatory messages from leaders and envoys since his election victory.
-
-“Sri Lanka holds a special place in India’s Neighbourhood First Policy and Vision SAGAR,” India’s Prime Minister Narenda Modi said.
-
-“I look forward to working closely with you to further strengthen our multifaceted cooperation for the benefit of our people and the entire region.”
-
-Thank you, Prime Minister Modi, for your kind words and support. I share your commitment to strengthening the ties between our nations. Together, we can work towards enhancing cooperation for the benefit of our peoples and the entire region. https://t.co/rtQEXyiFUI
-
-India’s envoy to Sri Lanka also met Dissanayake after his election.
-
-...
-
-[Data](articles/88a38475.json)
-
-[Extended Data](ext_articles/88a38475.ext.json)
-
----
-
-### What is the new President Anura's Cabinet?What is the next step?
-
-*2024-09-23 06:34:16* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c625q40537no) · `si`
-
-Here's a 200-character summary:
-
-
-
-New President Anura Kumara Dissanayake forms cabinet after parliamentary oath. Next steps involve general election process, potentially within 3 months.
-
-🟩
-
-What is the new President Anura's Cabinet?What is the next step?
-
-Leader of the National Power Anura Kumara Dissanayake said that after the swearing in the president, the leader of the National July national elections said.
-
-Accordingly, what measures can be taken in accordance with the Constitution?
-
-This is an explanation made by Hon. Jayampathi Wickremratne, a constitutional expert.
-
-If the Parliament is sworn in as the president as soon as the Parliament was sworn in as the president, Dr. Jayampathi Wickramaratne says that the Cabinet is operating until the next general election will be completed.
-
-"If the president is dissolved, the President has to work with the Prime Minister and the Cabinet until the end of the general election."
-
-Dinesh Gunawardena has been removed from the post of Prime Minister, a new cabinet can be appointed.
-
-After leaving Dinesh Gunawardena, the cabinet has also been abolished.
-
-...
-
-[Data](articles/8b296131.json)
-
-[Extended Data](ext_articles/8b296131.ext.json)
-
----
-
-### Cabinet approves National Trade Facilitation Roadmap for Sri Lanka bill
-
-*2024-09-23 05:45:22* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-National-Trade-Facilitation-Roadmap-for-Sri-Lanka-bill/34-767023) · `en`
-
-Workshop on NTFC best practices and National Trade Facilitation Roadmap for Sri Lanka
-
-In a landmark decision, the Cabinet approved the National Trade Facilitation Roadmap for Sri Lanka bill marking a significant step forward in Sri Lanka’s journey to modernise its cross-border trade processes and align with global trade facilitation standards. The roadmap now serves as the country’s official strategy for driving comprehensive trade reforms, aimed at streamlining trade procedures and enhancing the nation’s competitiveness in international markets.
-
-...
-
-[Data](articles/24209f41.json)
-
-[Extended Data](ext_articles/24209f41.ext.json)
-
----
-
-### German Federal Ministry for Economic Affairs explores opportunities at HIP
-
-*2024-09-23 05:42:01* · [`dailyftlk`](https://www.ft.lk/business/German-Federal-Ministry-for-Economic-Affairs-explores-opportunities-at-HIP/34-767022) · `en`
-
-HIPG Deputy GM Commercial and Marketing Bindu Ranasinghe with German Federal Ministry for Economic Affairs and Climate Action, Berlin Director and Head of Division for SA and SEA Asia Tobias Pierlings
-
-German Federal Ministry for Economic Affairs and Climate Action, Berlin Director and Head of Division for South Asia and Southeast Asia Tobias Pierlings, and a delegation from the German Embassy in Sri Lanka, visited the Hambantota International Port (HIP) last week.
-
-The visit was to explore potential business opportunities in Sri Lanka and assess the capabilities of the Hambantota International Port Group (HIPG).
-
-...
-
-[Data](articles/46641b43.json)
-
-[Extended Data](ext_articles/46641b43.ext.json)
-
----
-
-### Kosala meets top trade official of Sichuan Council
-
-*2024-09-23 05:38:51* · [`dailyftlk`](https://www.ft.lk/business/Kosala-meets-top-trade-official-of-Sichuan-Council/34-767021) · `en`
-
-International Business Council President Kosala Wickramanayake recently held a meeting with China Council for the Promotion of International Trade Sichuan Council in Chengdu China President Huang Li at the 2024 Sichuan-South Asia Businesses Cooperation Development Conference.
-
-◼️
-
-[Data](articles/9bdb66f4.json)
-
-[Extended Data](ext_articles/9bdb66f4.ext.json)
-
----
-
-### Samagi Jana Sandanaya MPs alleges vote-counting officials violated election law
-
-*2024-09-23 05:31:26* · [`dailyftlk`](https://www.ft.lk/news/Samagi-Jana-Sandanaya-MPs-alleges-vote-counting-officials-violated-election-law/56-767020) · `en`
-
-Samagi Jana Sandanaya MPs Ranjith Madduma Bandara and Patali Champika Ranawaka have lodged a complaint with the Election Commission, alleging that some vote-counting officials had violated the election law.
-
-They claimed that some vote-counting officials began calculating second preference votes, prematurely, before receiving official authorisation.
-
-They claimed that a prominent group was behind this violation, raising concerns about the integrity of the counting process.
-
-The move comes after the 2024 Presidential Election Commission announced that no candidate was able to secure an absolute majority, marking the first time in history that a second preference count was required to determine the winner.
-
-Leader of National People’s Power (NPP) Anura Kumara Dissanayake emerged as the front-runner with 42% of the vote, while leader of Samagi Jana Sandanaya followed 32% of the vote.
-
-Speaking to the media, Ranawaka asserted the importance of upholding injustice to his candidate.
-
-...
-
-[Data](articles/d7823e8a.json)
-
-[Extended Data](ext_articles/d7823e8a.ext.json)
 
 ---

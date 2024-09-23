@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 06:44:06**
+As of **2024-09-23 08:01:01**
 
 ## Newspaper Stats
 
-*Scraped **45,680** Articles*
+*Scraped **45,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,69 @@ bbccomsinhala | 447
 colombotelegraphcom | 454
 islandlk | 2,677
 economynextcom | 2,757
-dailyftlk | 3,029
+dailyftlk | 3,030
 adalk | 4,192
 dailymirrorlk | 4,733
 adaderanalk | 5,376
-tamilmirrorlk | 6,073
+tamilmirrorlk | 6,074
 virakesarilk | 7,292
-adaderanasinhalalk | 7,907
+adaderanasinhalalk | 7,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,680 (100.0%) of 45,680 articles have been extended.
+45,683 (100.0%) of 45,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Weather today
+
+*2024-09-23 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201449) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Showers in Western & Sabaragamuwa provinces, affecting Kandy, Nuwara Eliya, Galle, Matara. Thundershowers in Uva & Eastern provinces. Heavy rain possible in North, North-Central, North Western, Southern provinces."
+
+🟩
+
+Several spells of showers in the Western and Sabaragamuwa provinces may have a number of showers in the Kandy, Nuwara Eliya, Galle and Matara districts.
+
+The department states that the North Western Province can be in the North Western Province.
+
+Showers or thundershowers will occur at several places in the Uva and Eastern Provinces or in the evening or at night.
+
+The Department of Meteorology announces that there is a key weather in other areas.
+
+Atlanditum in the North, North-Central, North Western and Southern provinces, Trincomalee, North-Central, Northwestern and Southern provinces.. The Department of Meteorology added that there could be 40-45 feet.
+
+◼️
+
+[Data](articles/219c2a40.json)
+
+[Extended Data](ext_articles/219c2a40.ext.json)
+
+---
+
+### Cabinet approves National Trade Facilitation Roadmap for Sri Lanka bill
+
+*2024-09-23 05:45:22* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-National-Trade-Facilitation-Roadmap-for-Sri-Lanka-bill/34-767023) · `en`
+
+Workshop on NTFC best practices and National Trade Facilitation Roadmap for Sri Lanka
+
+In a landmark decision, the Cabinet approved the National Trade Facilitation Roadmap for Sri Lanka bill marking a significant step forward in Sri Lanka’s journey to modernise its cross-border trade processes and align with global trade facilitation standards. The roadmap now serves as the country’s official strategy for driving comprehensive trade reforms, aimed at streamlining trade procedures and enhancing the nation’s competitiveness in international markets.
+
+...
+
+[Data](articles/24209f41.json)
+
+[Extended Data](ext_articles/24209f41.ext.json)
+
+---
 
 ### German Federal Ministry for Economic Affairs explores opportunities at HIP
 
@@ -399,6 +445,30 @@ Julie Sung said he was ready to work together on the basis of shared preferences
 [Data](articles/cb44c8f8.json)
 
 [Extended Data](ext_articles/cb44c8f8.ext.json)
+
+---
+
+### Iran's tunnel exploded: 50 killed
+
+*2024-09-23 00:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரான்-சுரங்கத்தில்-வெடி-விபத்து-50-பேர்-பலி/50-344276) · `ta`
+
+Iran mine explosion kills 51 injures 20 due to methane gas. Rescue efforts ongoing in C Block where 30 workers died.
+
+🟩
+
+51 people were killed and 20 injured in a gas explosion in a mine explosion in the southern Korasan region of Iran, according to media reports yesterday.
+
+State media reports that the accident occurred due to methane gas explosion in the 'B' and 'C' block in the mine -run mine, operating in the area.
+
+Commenting on the accident, the governor of the South Korasan region, Ali Akbar Rahimi, said, “76 percent of the country's overall coal use is received from the area.. There are 8 to 10 large companies, including Madanju.
+
+The rescue work has been completed in B Block. 30 out of 47 employees who were on the job died. 17 people were injured. Rescue work has begun in C Black. Methane density is very high in this area. So it takes more time to complete the rescue work. ”. State television said 69 people were working there before the accident.(a)
+
+◼️
+
+[Data](articles/8f6a38c7.json)
+
+[Extended Data](ext_articles/8f6a38c7.ext.json)
 
 ---
 
@@ -2179,69 +2249,5 @@ Here's a summary of the election constituency results in approximately 200 chara
 [Data](articles/f78117d7.json)
 
 [Extended Data](ext_articles/f78117d7.ext.json)
-
----
-
-### Ruwanwella, Bandaraigama, Bandaragama
-
-*2024-09-22 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201430) · `si`
-
-Anura Kumara Dissanayake wins in three districts: Ruwanwella (26,671), Bandarawela (25,962), Bandaragama (60,752).
-
-🟩
-
-The official voting outcome of the electoral areas in Bandaragama, Bandaragama, Kalutara District, has been released.
-
-The official voting outcome of the Ruwanwella District in Kegalle District has been released and Anura Kumara Dissanayake has won 26,671 votes.
-
-The official voting outcome of the Bandarawela electorate in Badulla District has been released and Anura Kumara Dissanayake has won 25,962 votes.
-
-The official voting outcome of the Bandaragama Electorate in the Kalutara District has been released and Anura Kumara Dissanayake has won 60,752 votes.
-
-◼️
-
-[Data](articles/b0bb1b87.json)
-
-[Extended Data](ext_articles/b0bb1b87.ext.json)
-
----
-
-### The final results of the Matara district
-
-*2024-09-22 16:01:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறை-மாவட்டத்தின்-இறுதி-முடிவுகள்/175-344241) · `ta`
-
-Here's a summary of the Matara district results in approximately 200 characters:
-
-
-
-Matara district election results: [Insert specific details about party wins, candidate victories, voter turnout, etc.]
-
-🟩
-
-◼️
-
-[Data](articles/6855f849.json)
-
-[Extended Data](ext_articles/6855f849.ext.json)
-
----
-
-### The final election results of the Kalutara district
-
-*2024-09-22 15:59:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-மாவட்டத்தின்-இறுதித்-தேர்தல்-முடிவுகள்/175-344240) · `ta`
-
-Here's a summary of the Kalutara district election results in approximately 200 characters:
-
-
-
-Kalutura District Election Results Summary: The United People's Freedom Alliance (UPFA) won the majority of seats in the Kalutara District Local Authority elections. Their candidate secured the highest number of votes, followed closely by the Sri Lanka Podujana Peramuna (SLPP). The Janatha Vimukthi Peramuna (JVP) and the National Freedom Front (NFF) also performed well in the polls.
-
-🟩
-
-◼️
-
-[Data](articles/e1082f1c.json)
-
-[Extended Data](ext_articles/e1082f1c.ext.json)
 
 ---

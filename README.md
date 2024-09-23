@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-23 09:57:53**
+As of **2024-09-23 10:11:12**
 
 ## Newspaper Stats
 
-*Scraped **45,712** Articles*
+*Scraped **45,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,757
 dailyftlk | 3,030
 adalk | 4,195
 dailymirrorlk | 4,733
-adaderanalk | 5,379
+adaderanalk | 5,380
 tamilmirrorlk | 6,080
 virakesarilk | 7,300
-adaderanasinhalalk | 7,916
+adaderanasinhalalk | 7,917
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,712 (100.0%) of 45,712 articles have been extended.
+45,714 (100.0%) of 45,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-23 (Monday)
+
+### Swearing-in ceremony of new President Anura Kumara Dissanayake
+
+*2024-09-23 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102202/swearing-in-ceremony-of-new-president-anura-kumara-dissanayake) · `en`
+
+National People’s Power (NPP) leader Anura Kumara Dissanayake is scheduled to be sworn in as the 9th Executive President of Sri Lanka in a few moments.
+
+Mr. Dissanayake is scheduled to be sworn in as the country’s new President before Chief Justice Jayantha Jayasuriya at the Presidential Secretariat in Colombo.
+
+It is reported that Mr. Dissanayake has already left the Janatha Vimukthi Peramuna (JVP) head office in Pelawatte and is currently on his way to the Presidential Secretariat in Colombo.
+
+◼️
+
+[Data](articles/61832dba.json)
+
+[Extended Data](ext_articles/61832dba.ext.json)
+
+---
+
+### Anura heads off the oaths
+
+*2024-09-23 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201459) · `si`
+
+Here's a 200-character summary:
+
+
+
+Anura Kumara visited the Presidential Secretariat shortly before the new president of Palawatgama was inaugurated.
+
+🟩
+
+Anura Kumara went to the Presidential Secretariat a short while before the new president of the Palawatgama.
+
+◼️
+
+[Data](articles/5077f656.json)
+
+[Extended Data](ext_articles/5077f656.ext.json)
+
+---
 
 ### Anura sworn in as new President
 
@@ -60,7 +100,11 @@ He has tendered his letter of resignation to President Ranil Wickremesinghe.
 
 Mr. Gunawardena has stated in the relevant letter that as the 9th Executive President of Sri Lanka has been elected in the presidential election held on September 21, he will resign from his position in accordance with Article 47 (2) of the Constitution of the Socialist Republic of Sri Lanka.
 
-◼️
+Mr. Gunawardena has also congratulated the newly elected President of Sri Lanka, Anura Kumara Dissanayake, following his victory in the presidential election last night.
+
+“I respectfully offer my congratulations to you for being elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka in the Presidential election held on 21st September 2024.
+
+...
 
 [Data](articles/ca4c7d78.json)
 
@@ -76,7 +120,11 @@ National People’s Power (NPP) leader Anura Kumara Dissanayake is scheduled to 
 
 Mr. Dissanayake is scheduled to be sworn in as the President before Chief Justice Jayantha Jayasuriya this morning at the Presidential Secretariat in Colombo.
 
-◼️
+After a historic first of second round of counting, the country of Sri Lanka has elecetd a new president — Anura Kumara Dissanayake. The 55-year-old fended off competition from opposition leader Sajith Premadasa, while current President, Ranil Wikremesinghe trailed in third.
+
+Dissanayake received 5,740,179 votes, followed by Premadasa with 4,530,902, Election Commission data showed.
+
+...
 
 [Data](articles/f327b53d.json)
 
@@ -2203,53 +2251,5 @@ He is also the winner in the Kalutara polling division in Kaluatara District.
 [Data](articles/79fd97f2.json)
 
 [Extended Data](ext_articles/79fd97f2.ext.json)
-
----
-
-### Polonnaruwa, Trincomalee and Kamburupitiya Vote results
-
-*2024-09-22 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201438) · `si`
-
-Here's a summary of the vote results for Polonnaruwa, Trincomalee, and Kamburupitiya in approximately 200 characters:
-
-
-
-Polonnaruwa: [Insert result]
-
-Trincomalee: [Insert result]
-
-Kamburupitiya: [Insert result]
-
-
-
-Note: The actual results would depend on the specific election data available. This placeholder indicates where the actual results should be inserted.
-
-🟩
-
-◼️
-
-[Data](articles/e3a547e9.json)
-
-[Extended Data](ext_articles/e3a547e9.ext.json)
-
----
-
-### Yapahuwa and Kurunegala wins
-
-*2024-09-22 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201436) · `si`
-
-Here's a summary of Yapahuwa and Kurunegala wins in 200 characters:
-
-
-
-Yapahuwa and Kurunegala were key victories in Sri Lanka's history. Yapahuwa was captured from South Indian invaders in 1272 CE, marking a significant military triumph. Kurunegala, conquered in 1284 CE, became a crucial base for future campaigns against Tamil rebels. These wins showcased the strength and strategic prowess of Sri Lankan rulers during this period.
-
-🟩
-
-◼️
-
-[Data](articles/cb697685.json)
-
-[Extended Data](ext_articles/cb697685.ext.json)
 
 ---

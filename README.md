@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 21:38:34**
+As of **2024-09-24 21:58:10**
 
 ## Newspaper Stats
 
-*Scraped **46,074** Articles*
+*Scraped **46,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,242
+adalk | 4,243
 dailymirrorlk | 4,733
 adaderanalk | 5,426
 tamilmirrorlk | 6,159
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,074 (100.0%) of 46,074 articles have been extended.
+46,075 (100.0%) of 46,075 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -128,7 +128,13 @@ President Anura Kumara Dissanayake will make a special statement while addressin
 
 *2024-09-24 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102248/president-to-address-the-nation-tomorrow) · `en`
 
-President Anura Kumara Dissanayake will make a special statement while addressing the nation at 7.30 pm tomorrow (25 September).
+President Anura Kumara Dissanayake is expected to make a special statement while addressing the nation at 7.30 pm tomorrow (25 September), according to the Department of Government Information.
+
+Dissanayake, leader of the People’s Liberation Front (JVP) and the National People’s Power (NPP) alliance, won a landslide victory over the weekend by beating 38 other candidates and garnering over 5.6 million or 42.3 per cent of the votes.
+
+He was sworn into office on Monday after a landslide win in weekend presidential polls.
+
+During the election campaign, Dissanayake vowed to dissolve Parliament if he wins and call snap elections. The present Parliament’s five-year term ends in August next year.
 
 ◼️
 
@@ -229,6 +235,32 @@ President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorro
 [Data](articles/1bd9b14c.json)
 
 [Extended Data](ext_articles/1bd9b14c.ext.json)
+
+---
+
+### Israeli hotel opens to Sri Lankans
+
+*2024-09-24 19:38:26* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලයේ-හෝටල්-රැකියා-ලාංකිකයින්ට-විවර-වෙයි/11-412126) · `si`
+
+Israel-Sri Lanka MoU: Sri Lankans can work in Israeli hotels as housekeepers/cleaners. Requirements: 25-45 years old, NVQ III certificate, IELTS 3.0. High wage ($1500+ monthly). Apply through SLBFE website.
+
+🟩
+
+Israeli government and the Government of Sri Lanka were taken to a Memorandum of Understanding (MoU) to provide employment opportunities to Sri Lankans in Israel.
+
+Accordingly, in addition to the number of nursing services, agricultural and constructions in Israel, Sri Lankans will be able to get employment of hotel Housekeeping & Cleaning.
+
+The Sri Lanka Bureau of Foreign Employment and the Sri Lanka Bureau of Sri Lanka (PIBA) is led by the Employer of Israel (PIBA) for the Israeli government.
+
+With high wages, accommodations, food and drink, there is a monthly salary over 1500 USD.
+
+Sri Lankan women and women will be able to apply for 25-45 years of age.Applicants should also be given the NVQ III certificate of the hotel industry, and the IELTS 3.0 or similar qualifications should be provided with the consumers who can communicate with customers with well-communicated knowledge.
+
+...
+
+[Data](articles/9d39ce87.json)
+
+[Extended Data](ext_articles/9d39ce87.ext.json)
 
 ---
 
@@ -2371,29 +2403,5 @@ He further stated that they will discuss with the President regarding the dissol
 [Data](articles/19711082.json)
 
 [Extended Data](ext_articles/19711082.ext.json)
-
----
-
-### Cut over the warned driver
-
-*2024-09-24 11:26:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எச்சரித்த-சாரதி-மீது-வெட்டு/71-344367) · `ta`
-
-Sword attack on bus driver in Jaffna. Driver hospitalized after being assaulted by youths near bus station. Incident occurred on Monday.
-
-🟩
-
-Yall. The incident took place on Monday (23) when a sword attack on a private bus driver warned youths who had been chatting with women near the central bus station.
-
-Vinasithambi Jegadeeswaran is thus under attack. He has been admitted to the Teaching Hospital for treatment.
-
-Last week Jaffna. The driver, who had been harassed by four youths near the Central Bus Stand, had been harassed by the women coming to the bus station and harassed the youth.
-
-After the incident, two youths arrived on a motorcycle on Monday (23) and fled the driver of the driver of the bus from Colombo to Jaffna.
-
-◼️
-
-[Data](articles/abcc32ac.json)
-
-[Extended Data](ext_articles/abcc32ac.ext.json)
 
 ---

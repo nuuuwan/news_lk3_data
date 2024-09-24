@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 13:07:50**
+As of **2024-09-24 13:22:45**
 
 ## Newspaper Stats
 
-*Scraped **45,974** Articles*
+*Scraped **45,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 384
 bbccomsinhala | 449
 colombotelegraphcom | 458
 islandlk | 2,696
-economynextcom | 2,773
+economynextcom | 2,781
 dailyftlk | 3,053
 adalk | 4,226
 dailymirrorlk | 4,733
-adaderanalk | 5,412
-tamilmirrorlk | 6,132
+adaderanalk | 5,413
+tamilmirrorlk | 6,135
 virakesarilk | 7,344
 adaderanasinhalalk | 7,951
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 7,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,974 (100.0%) of 45,974 articles have been extended.
+45,985 (100.0%) of 45,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Lonely
+
+*2024-09-24 12:56:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியாக-ஓடிய-ரயில்-இயந்திரம்/175-344375) · `ta`
+
+Train separation incident: Colombo-bound train splits near Kottawa, causing inconvenience to passengers. Driver reconnects cars at Colombo Fort station. Incident occurred due to flat terrain near Kelaniya.
+
+🟩
+
+Travelers said that the train traveling to Colombo on the Kelaniweli railway line was separated from the train compartments in the Kottawa area.
+
+The passengers were overflowing with the office train from Koskama Center to Colombo, Colombo, and the passengers were severely inconvenienced due to the sudden split.
+
+The train driver and the assistant then re -driven the train machine to the Colombo fort after being tied together.
+
+According to the Kelani External Railway Station, the incident has taken place since the place is the plain.
+
+◼️
+
+[Data](articles/2502cef7.json)
+
+[Extended Data](ext_articles/2502cef7.ext.json)
+
+---
+
+### Dissolution
+
+*2024-09-24 12:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிப்பிரமாணத்துக்கு-பின்னரே-கலைப்பு/175-344374) · `ta`
+
+New cabinet sworn in today. Discussion on Parliament dissolution follows. Four ministers appointed by President.
+
+🟩
+
+National People's Power MP Vijitha Herath says the new cabinet will take office today.
+
+He told the media that the cabinet would be sworn in first and thereafter a discussion on the dissolution of Parliament.
+
+Earlier, the National People's Power had stated that the four ministers cabinet would be appointed by the President.
+
+◼️
+
+[Data](articles/6758fc26.json)
+
+[Extended Data](ext_articles/6758fc26.ext.json)
+
+---
 
 ### Ranil's decision
 
@@ -49,6 +95,30 @@ He added that the former President does not expect parliament from the national 
 [Data](articles/176502cc.json)
 
 [Extended Data](ext_articles/176502cc.ext.json)
+
+---
+
+### Ranil Action Resolution
+
+*2024-09-24 12:40:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-அதிரடி-தீர்மானம்/175-344372) · `ta`
+
+Ranil Wickremesinghe: Not contesting election, won't return to Parliament, but remains UNP advisor. Decision confirmed by party leaders Ruwan Wijewardena and Vajira Abeywardena.
+
+🟩
+
+Former President and UNP leader Ranil Wickremesinghe has said that he will not contest the parliamentary election.
+
+He also said that he would not come to Parliament again through the national bar.
+
+Subsequently, it is reported that he will continue to act as the UNP adviser.
+
+United National Party Deputy Leader Ruwan Wijewardena and Chairman Vajira Abeywardena confirmed the decision taken by former President Wickremesinghe.
+
+◼️
+
+[Data](articles/6a695215.json)
+
+[Extended Data](ext_articles/6a695215.ext.json)
 
 ---
 
@@ -79,6 +149,22 @@ In 1876 William S, Bode (William S. Bodey) found this village. Because of this, 
 [Data](articles/835658ef.json)
 
 [Extended Data](ext_articles/835658ef.ext.json)
+
+---
+
+### Ex-President Ranil decides not to contest General Election
+
+*2024-09-24 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102235/ex-president-ranil-decides-not-to-contest-general-election) · `en`
+
+The United National Party (UNP) says that former President Ranil Wickremesinghe will not contest the upcoming General Election.
+
+The Deputy Leader of the UNP, Ruwan Wijewardena also stated that Wickremesinghe does not expect to enter Parliament through the National List.
+
+◼️
+
+[Data](articles/be4e372d.json)
+
+[Extended Data](ext_articles/be4e372d.ext.json)
 
 ---
 
@@ -504,6 +590,24 @@ President Anura Kumara Dissanayake visited the Thevatakaha Muslim School in Colo
 
 ---
 
+### Sri Lanka power & energy sector in stronger financial position: ex minister
+
+*2024-09-24 10:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-power-energy-sector-in-stronger-financial-position-ex-minister-180784/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s outgoing Power & Energy Minister Kanchana Wijesekara said he leaves the ministry and institutes under his purview in stronger financial positions with adequate stocks of petroleum products and coal for power generation and fuel supply.
+
+All the institutes are now on positive balance sheets, recovering costs for its services, making payments on time for suppliers, servicing outstanding debt and providing and supporting the treasury with the additional revenue it’s generating,” Wijesekara tweeted Monday September 23 evening.
+
+According to the former minister, Ceylon Petroleum Storage Terminals LTD (CPSTL) and Ceylon Petroleum Corporation (CPC) plants have between them: 123,888 metric tonnes of diesel, 13,627 metric tonnes of super diesel, 90,972 metric tones of 92 Octane Petrol, 18,729 metric tonnes of 95 Octane Petrol, and 30,295 metric tonnes of Jet A1 fuel.
+
+...
+
+[Data](articles/0a460a54.json)
+
+[Extended Data](ext_articles/0a460a54.ext.json)
+
+---
+
 ### A statement on Sri Lanka from the International Monetary Fund
 
 *2024-09-24 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201491) · `si`
@@ -545,6 +649,26 @@ No major tremor was observed since the earthquake occurred undersea near the unp
 [Data](articles/61dfccba.json)
 
 [Extended Data](ext_articles/61dfccba.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger, bond yields down
+
+*2024-09-24 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-bond-yields-down-180783/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 304.20/50 to the US dollar Tuesday, stronger from 304.25/75 a day earlier, while bond yields were also down for the second day since the elections.
+
+A bond maturing on 01.05.2027 was quoted (indicative) at 12.60/80 down from 12.70/90 percent, after also falling on Monday.
+
+A bond maturing on 15.02.2028 was quoted at 13.15/20 percent, down from 13.25/40 percent.
+
+A bond maturing on 15.06.2029 was quoted at 13.40/45 percent down from 13.55/65 percent. (Colombo/Sep23/2024)
+
+◼️
+
+[Data](articles/b39e2d82.json)
+
+[Extended Data](ext_articles/b39e2d82.ext.json)
 
 ---
 
@@ -593,6 +717,26 @@ The President visited the official residence of the Archbishop of Borella, met w
 [Data](articles/1598a508.json)
 
 [Extended Data](ext_articles/1598a508.ext.json)
+
+---
+
+### AKD Sri Lanka’s last executive president, says party spokesman
+
+*2024-09-24 10:09:00* · [`economynextcom`](https://economynext.com/akd-sri-lankas-last-executive-president-says-party-spokesman-180780/) · `en`
+
+ECONOMYNEXT  — Newly sworn-in President Anura Kumara Dissanayake will be Sri Lanka’s last executive president, a senior member of his party the National People’s Power (NPP) said calling for public support in that regard.
+
+“You have elected today this country’s last executive president,” former MP and NPP front-liner Sunil Handunneththi said speaking to reporters outside the presidential secretariat in Colombo Monday September 23 morning.
+
+“There will be no more executive presidents henceforth. The president to abolish the executive president has been elected. We ask the people of the country to support that,” he said.
+
+The parliament will also be dissolved, Handunneththi, after a cabinet of ministers has been appointed. The privately owned Daily Mirror reported Tuesday morning that parliament will be dissolved at midnight. NPP legislator Harini Amarasuriya is also reported to be sworn in as prime minister on Tuesday.
+
+...
+
+[Data](articles/237611f3.json)
+
+[Extended Data](ext_articles/237611f3.ext.json)
 
 ---
 
@@ -1572,6 +1716,110 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### IMF to discuss Sri Lanka review timing with new government
+
+*2024-09-24 06:16:00* · [`economynextcom`](https://economynext.com/imf-to-discuss-sri-lanka-review-timing-with-new-government-180703/) · `en`
+
+ECONOMYNEXT – The International Monetary fund said it will discuss the timing of the next review of the program and looked forward to working with the new President.
+
+“We look forward to working together with President Dissanayake and his team towards building on the hard-won gains that have helped put Sri Lanka on a path to economic recovery since entering one of its worst economic crises in 2022,” an IMF spokesperson said.
+
+“We will discuss the timing of the third review of the IMF-supported program with the new administration as soon as practicable.”
+
+Sri Lanka has reached key quantity targets in the program including foreign reserves and the Asian Development Bank has already disbursed funds on structural benchmarks linked to its policy loans.
+
+Sri Lanka however has to reach a new staff level agreement on the next phase of the IMF program and also compile a budget in line with program targets, analysts say.
+
+...
+
+[Data](articles/82ef17b0.json)
+
+[Extended Data](ext_articles/82ef17b0.ext.json)
+
+---
+
+### Sri Lanka ISB restructure deal needs OCC nod: IMF
+
+*2024-09-24 05:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-isb-restructure-deal-needs-occ-nod-imf-180700/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund said it welcomed Sri Lanka’s deal with international sovereign bondholders but still required clearance from the official creditor committee of bilateral lenders.
+
+“We welcome the announcement of an agreement in principle between Sri Lanka and international bondholders’ representatives, subject to confirmation on comparability of treatment by Sri Lanka’s Official Creditors Committee,” an IMF spokesperson said.
+
+“This represents significant progress in Sri Lanka’s debt restructuring process.”
+
+The revised restructure terms were arrived at after consultations with the IMF “to ensure that the agreed terms were fully compatible with the Debt Sustainability Analysis of the program, the Finance Ministry said at the time.
+
+The revised proposal was made “following an iterative process with IMF staff at technical level” and also took into account feedback received from the OCC on the July deal, Sri Lanka said.
+
+...
+
+[Data](articles/116daa51.json)
+
+[Extended Data](ext_articles/116daa51.ext.json)
+
+---
+
+### Sri Lanka Cardinal says President promised probe on Easter Sunday attack
+
+*2024-09-24 05:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-cardinal-says-president-promised-probe-on-easter-sunday-attack-180775/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Catholic Cardinal Malcolm Ranjith has said President Anura Dissanayake has promised to thoroughly investigate Easter Sunday attacks.
+
+President Dissanayake met Cardinal Ranjith at the Archbishops house in Colombo.
+
+The people have entrusted the new President with the significant responsibility to bring aobut necessary changes in the country, a task that may prove to be challenging, the Cardinal had told the President.
+
+“The Cardinal assured the President of his full support and blessings in this endeavour and urged him to prioritize the needs of the poor in his efforts,” the President’s media office said in a statement after the meeting on September 23.
+
+Talking to journalists after the meeting Cardinal Ranjith had said the President expressed “his commitment to thoroughly investigate the Easter attacks and to take steps towards uncovering the truth.”
+
+...
+
+[Data](articles/45556108.json)
+
+[Extended Data](ext_articles/45556108.ext.json)
+
+---
+
+### National Chamber of Commerce of Sri Lanka congratulates new president
+
+*2024-09-24 05:42:00* · [`economynextcom`](https://economynext.com/national-chamber-of-commerce-of-sri-lanka-congratulates-new-president-180743/) · `en`
+
+ECONOMYNEXT- The National Chamber of Commerce of Sri Lanka has issued a congratulatory message to President Anura Dissanayake, and was ready collaborate with the President in supporting the economy.
+
+“The NCCSL, representing the business community, is prepared to support and collaborate with the President in fostering economic growth, developing the local businesses, especially the MSME sector, and enhancing international trade relations,” the chamber said.
+
+The National Chamber of Commerce of Sri Lanka Congratulates H.E Anura Kumara Dissanayake, elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka
+
+The National Chamber of Commerce of Sri Lanka (NCCSL) congratulates His Excellency Anura Kumara Dissanayake on his election as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka. As he takes office during this pivotal period, we recognize the importance of his role in steering the nation through current economic challenges.
+
+...
+
+[Data](articles/29b09666.json)
+
+[Extended Data](ext_articles/29b09666.ext.json)
+
+---
+
+### IMF expects to work with Sri Lanka’s new leader, to reschedule third review
+
+*2024-09-24 04:31:00* · [`economynextcom`](https://economynext.com/imf-expects-to-work-with-sri-lankas-new-leader-to-reschedule-third-review-180694/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund (IMF) expects to work under Sri Lanka’s new President Anura Kumara Dissanayake and said it will discuss the timing of the third review of its ongoing economic reform under a 48-month loan.
+
+Sri Lanka has committed a raft of economic reforms including increasing tax revenue and restructuring of state-owned enterprises.
+
+Dissananayake’s Marxists Janatha Vimukthi Peramuna (JVP)-led National People’s Power (NPP) has pledged to renegotiate the IMF deal citing it has led to some unbearable difficulties for common people.
+
+“We look forward to working together with President Dissanayake and his team towards building on the hard-won gains that have helped put Sri Lanka on a path to economic recovery since entering one of its worst economic crises in 2022,” an IMF spokesperson said in a statement.
+
+...
+
+[Data](articles/238476fa.json)
+
+---
+
 ### Murdered journalist Lasantha’s daughter hopes AKD will bring justice
 
 *2024-09-24 04:08:31* · [`dailyftlk`](https://www.ft.lk/news/Murdered-journalist-Lasantha-s-daughter-hopes-AKD-will-bring-justice/56-767078) · `en`
@@ -1957,211 +2205,5 @@ Points to media biases; hostile rhetoric, manipulated content on social media an
 [Data](articles/35eba2d7.json)
 
 [Extended Data](ext_articles/35eba2d7.ext.json)
-
----
-
-### Commonwealth Observer Group says Presidential poll peaceful
-
-*2024-09-24 01:39:28* · [`dailyftlk`](https://www.ft.lk/news/Commonwealth-Observer-Group-says-Presidential-poll-peaceful/56-767049) · `en`
-
-Commonwealth Secretariat Temi Kalejaiye (left), Commonwealth Observation Group Chairperson Danny Faure, and Commonwealth Secretariat Lindiwe Maleleka at the press briefing in Colombo yesterday – Pic by Ruwan Walpola
-
-Issuing preliminary findings, says voter education lacking on preferential voting system
-
-The Commonwealth Observer Group yesterday shared its preliminary assessment of Sri Lanka’s 2024 Presidential election saying it has been deemed peaceful, but noted that some voters and polling staff did not appear to fully understand the preferential system of voting.
-
-Led by a delegation of 14 independent experts, the Commonwealth’s mission arrived in Sri Lanka on 14 September following an invitation from the Election Commission of Sri Lanka. The team will conclude its observations on 27 September.
-
-...
-
-[Data](articles/00cbb3e5.json)
-
-[Extended Data](ext_articles/00cbb3e5.ext.json)
-
----
-
-### Transcending from Thambuththegama to topmost office
-
-*2024-09-24 01:26:35* · [`dailyftlk`](https://www.ft.lk/news/Transcending-from-Thambuththegama-to-topmost-office/56-767048) · `en`
-
-Born in Thambuththegama in North Central Province, Anura Kumara Dissanayake, the 55 year old leader of National People’s Power (NPP) yesterday assumed office as the 9th Executive President of Sri Lanka following the victory at the 21 September elections defeating incumbent Ranil Wickremesinghe and Opposition Leader Sajith Premadasa. Here are some highlights of the simple swear-in ceremony held yesterday at the Presidential Secretariat, Colombo
-
-◼️
-
-[Data](articles/2ccc7fe5.json)
-
-[Extended Data](ext_articles/2ccc7fe5.ext.json)
-
----
-
-### President Anura Kumara Dissanayake: Sri Lanka’s desire to chart a new course
-
-*2024-09-24 01:03:52* · [`dailyftlk`](https://www.ft.lk/columns/President-Anura-Kumara-Dissanayake-Sri-Lanka-s-desire-to-chart-a-new-course/4-767043) · `en`
-
-The people of Sri Lanka have spoken. In a historic moment, Anura Kumara Dissanayake has been elected as the nation’s president, marking a new chapter in Sri Lanka’s political history. This election, deeply rooted in the widespread calls for systemic change during the 2022 Aragalaya protests, represents the will of the people and their demand for a just and equitable future.
-
-...
-
-[Data](articles/44a5257e.json)
-
-[Extended Data](ext_articles/44a5257e.ext.json)
-
----
-
-### President  Dissanayake to Appont  Four Member Cabinet Including Himself,  to be in charge of 15 Portfolios. Harini Amarasuria to be Prime Ministe with  Vijitha Herath and Lakshman Nipuna Arachchi as Ministers.Parliament will be Dissolved and Fresh Elections held in December
-
-*2024-09-24 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84782) · `en`
-
-Parliament will be dissolved tonight(24) and a Parliamentary Election will be held by December, the Daily Mirror exclusively learns.
-
-Following the resignation of Dinesh Gunawardena as the Prime Minister yesterday, a senior source from the National People’s Power (NPP) said that President Anura Kumara Dissanayake will today appoint an interim cabinet of four ministers, including himself, where 15 portfolios will be divided within them.
-
-According to a list exclusively obtained by the Daily Mirror, President Dissanayake will keep the Tourism, Defence, Finance, Justice, Industry and Investment Promotion portfolios while the Prime Minister will become the Minister of Foreign Affairs, Education, and Mass Media among others.
-
-NPP MP Dr. Harini Amarasuriya will be sworn in as the Prime Minister while senior MP Vijitha Herath and newly sworn-in MP Lakshman Nipuna Arachchi will be appointed as ministers with several portfolios each.
-
-...
-
-[Data](articles/4f007bb6.json)
-
-[Extended Data](ext_articles/4f007bb6.ext.json)
-
----
-
-### Open letter to AKD
-
-*2024-09-24 00:54:49* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-AKD/14-767042) · `en`
-
-Congratulations on your remarkable election as the President of Sri Lanka. This victory represents the hopes of a nation that has long awaited genuine change and leadership focused on the well-being of all its people. Your rise from very humble beginnings to the highest office in the country reflects the deep trust and belief the Sri Lankan public has placed in you and your party.
-
-However, with this great honour comes an even greater responsibility. The task of healing the ethnic, religious, and political divisions that have plagued our country for decades now lies in your hands. Sri Lankans have endured the painful consequences of racism and division in politics. You now have the opportunity to lead us away from that harmful past, towards a future where unity, fairness, and justice prevail for all communities, regardless of their background. The people of Sri Lanka look to you to foster reconciliation and solidarity across the nation.
-
-...
-
-[Data](articles/db753bee.json)
-
-[Extended Data](ext_articles/db753bee.ext.json)
-
----
-
-### 2024-09-23 (Monday)
-
-### Vision-impaired musicians
-
-*2024-09-23 23:27:00* · [`islandlk`](http://island.lk/vision-impaired-musicians/) · `en`
-
-There is a group of extraordinary musicians who are blind and, over the past year, Melantha Perera has personally taken it upon himself to mentor these vision-impaired students through his music school Riversheen School of Music.
-
-Melantha, who is a big name in the showbiz scene, both here and abroad, has named this group of musicians as ‘Bright Light’.
-
-Says Melantha: “‘Bright Light’ is Sri Lanka’s first beat band made up of vision-impaired musicians and their passion for music is truly inspiring.”
-
-He went on to say that he teaches them, online, and that they meet once a month for a practice session at MJF Centre, Katubadda, Moratuwa.
-
-“I share my expertise with them, individually, to play as a band, and we are planning to have a show for them, early next year, to showcase the incredible talent of these young musicians.
-
-“The event would give them the opportunity to share their gifts with the world and take a step closer to realizing their dreams.”
-
-...
-
-[Data](articles/66c0e142.json)
-
-[Extended Data](ext_articles/66c0e142.ext.json)
-
----
-
-### Neon Night by Browns Hotels & Resorts: A dazzling evening of industry partner networking
-
-*2024-09-23 23:07:00* · [`islandlk`](http://island.lk/neon-night-by-browns-hotels-resorts-a-dazzling-evening-of-industry-partner-networking/) · `en`
-
-Under the effervescent glow of neon lights, Browns Hotels & Resorts hosted a spectacular networking event on September 6th, transforming the Excel World Colombo Convention Centre into a hub of vibrant energy and festivity. The function attracted over 500 travel agents, alongside general managers from Browns Hotels & Resorts’ properties, corporate representatives and key figures from the tourism industry. The radiant Neon theme provided the perfect backdrop for an evening of meaningful connections, animated collaboration and industry celebration.
-
-The event commenced with guests being welcomed by the smooth sounds of jazz music, setting a refined and elegant tone for a night of exquisite cocktails and gourmet canapés, while captivating dance performances by Browns’ hotel staff added an exciting dynamic to the proceedings.
-
-...
-
-[Data](articles/84bd29e5.json)
-
-[Extended Data](ext_articles/84bd29e5.ext.json)
-
----
-
-### UNESCO-Huawei Open School Initiative set to transform education in Egypt, Brazil and Thailand
-
-*2024-09-23 23:07:00* · [`islandlk`](http://island.lk/unesco-huawei-open-school-initiative-set-to-transform-education-in-egypt-brazil-and-thailand/) · `en`
-
-Huawei announced the implementation stage of the Technology-enabled Open Schools for All Phase II project in Brazil, Egypt, and Thailand at Digital Learning Week, UNESCO’s flagship event on digital learning and the transformation of education.
-
-Running from 2024 to 2027, Phase II of the UNESCO-Huawei initiative will support the digital transformation of education in each of the three nations through digital open school models. These models combine technology innovations and human capabilities to create flexible, resilient, inclusive, and quality learning environments that blend offline and online learning.
-
-The implementation stage of the project’s Phase II follows the design stage, which was launched in April 2024, to establish the specific needs and priorities of the three nations.
-
-...
-
-[Data](articles/f9bda6a2.json)
-
-[Extended Data](ext_articles/f9bda6a2.ext.json)
-
----
-
-### AIA Insurance supports HelpAge Sri Lanka in transforming lives through cataract surgeries
-
-*2024-09-23 23:06:00* · [`islandlk`](http://island.lk/aia-insurance-supports-helpage-sri-lanka-in-transforming-lives-through-cataract-surgeries/) · `en`
-
-AIA Insurance partners with HelpAge Sri Lanka reinforcing our commitment to improving the lives of those in need. This donation has sponsored 10 cataract surgeries for underprivileged patients, offering them the precious gift of sight. Cataract surgery is a life-changing procedure that not only restores vision but also enhances the quality of life, enabling individuals to regain their independence and continue contributing to their families and communities.
-
-...
-
-[Data](articles/0c8f6638.json)
-
-[Extended Data](ext_articles/0c8f6638.ext.json)
-
----
-
-### HNB relaunches Affinity Card for Holy Family Convent Bambalapitiya PPA
-
-*2024-09-23 23:03:00* · [`islandlk`](http://island.lk/hnb-relaunches-affinity-card-for-holy-family-convent-bambalapitiya-ppa/) · `en`
-
-HNB PLC, recently announced the relaunch of the PPA Affinity Card from HNB, exclusively for the Past Pupils Association (PPA) of Holy Family Convent, Bambalapitiya.
-
-“Holy Family Convent Bambalapitiya has been a beacon of excellence in education, shaping the lives of countless Sri Lankan women for generations. At HNB, we recognize the profound impact of this institution and its network. Our partnership with the Past Pupils Association is more than an agreement; it’s a commitment to supporting a community of accomplished individuals who continue to inspire and lead across various sectors of our society. By offering exclusive benefits to PPA members, we’re not just providing financial services; we’re investing in a network that has consistently contributed to Sri Lanka’s progress and innovation,” HNB Head of Cards, Gauthami Niranjan stated.
-
-PMF Finance strengthens financial foundation with major financial backing from Commercial Bank of Ceylon
-
-...
-
-[Data](articles/a6d00e2f.json)
-
-[Extended Data](ext_articles/a6d00e2f.ext.json)
-
----
-
-### Successful conclusion of presidential poll energizes share market
-
-*2024-09-23 23:02:00* · [`islandlk`](http://island.lk/successful-conclusion-of-presidential-poll-energizes-share-market/) · `en`
-
-The stock exchange was initially highly volatile yesterday as it kicked off amid huge selling pressure but later picked up in vibrancy. Some of the dynamism derived from the successful conclusion of the presidential poll.
-
-‘The perception is that there might be more practicable approaches to resolving share market issues by the new government. They are open to suggestions and promise to curtail expenditure. There’s nothing concrete yet; we can’t put any weight on any one fact, stockbrokers said.
-
-‘People are waiting to see what will be implemented, if they address the needs of the capital market. There is positive momentum from last week’s poll, with banking stocks trading up, market analysts said.
-
-...
-
-[Data](articles/f09e7801.json)
-
-[Extended Data](ext_articles/f09e7801.ext.json)
-
----
-
-### Kudos President AKD! Your Mandate Reflects People’s Strong Desire For Genuine Change!
-
-*2024-09-23 22:47:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/kudos-president-akd-your-mandate-reflects-peoples-strong-desire-for-genuine-change/) · `en`
-
-...
-
-[Data](articles/ae774143.json)
-
-[Extended Data](ext_articles/ae774143.ext.json)
 
 ---

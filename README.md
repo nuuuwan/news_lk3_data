@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 19:38:31**
+As of **2024-09-24 19:56:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,060 (100.0%) of 46,061 articles have been extended.
+46,061 (100.0%) of 46,061 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,33 +84,43 @@ Ranil Wickremesinghe and Sajith Premadasa Alliance talks are made by outsiders. 
 
 ---
 
-### නව ලේකම්වරු පත්කෙරේ
+### New secretaries appointed
 
 *2024-09-24 18:37:14* · [`adalk`](https://www.ada.lk/breaking_news/නව-ලේකම්වරු-පත්කෙරේ/11-412120) · `si`
 
-නව අග්‍රාමාත්‍ය ලේකම්, අමාත්‍ය මණ්ඩල ලේකම් ඇතුළු අමාත්‍යාංශ 15 සඳහා නව ලේකම්වරු පත් කර තිබේ.
+Here's a 200-character summary:
 
-03   කේ.ඩී.එස්. රුවන්චන්ද්‍ර මහතා  ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශය
 
-04   කේ.එම්.එම්. සිරිවර්ධන මහතා - මුදල්, ආර්ථික සංවර්ධන, ප්‍රතිපත්ති සම්පාදන, සැලසුම් සහ සංචාරක අමාත්‍යාංශය
 
-06    ජේ.එම්.ටී. ජයසුන්දර මහත්මිය  - අධ්‍යාපන, විද්‍යා සහ තාක්ෂණ අමාත්‍යාංශය
+"New secretaries appointed: 15 roles filled under Sri Lanka's Prime Minister. Key positions include transport, finance, education, defense, health, and energy ministries."
 
-07    කේ. මහේසන් මහතා - කාන්තා, ළමා හා තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යාංශය
+🟩
 
-08    එම්.එම්. නයිමුදීන් මහතා - වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා, සමුපකාර සංවර්ධන, කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය
+New secretaries have been appointed to 15 new Prime Minister, Secretary to the Cabinet.
 
-09      ඒ.එම්.පී.එම්.බී. අතපත්තු මහතා  -  ග්‍රාමීය හා නාගරික සංවර්ධන, නිවාස හා ඉදිකිරීම් අමාත්‍යාංශය
+03 KDS. Mr. Ruwanchandra Ministry of Transport, Highways, Ports and Civil Aviation
 
-10       පාලිත ගුණරත්න මහීපාල මහතා -      සෞඛ්‍ය අමාත්‍යාංශය
+04 KMM. Mr. Siriwardena - Ministry of Finance, Economic Development, Policy, Planning and Tourism
 
-11      ඩබ්ලිව්.පී.පී. යසරත්න මහතා -      අධිකරණ, රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා, පළාත් පාලන සහ කම්කරු අමාත්‍යාංශය
+06 JMT. Mrs. Jayasundera - Ministry of Education, Science and Technology
 
-12      බී.කේ. ප්‍රභාත් චන්ද්‍රකීර්ති මහතා - පරිසර, වනජීවි, වන සම්පත්, ජල සම්පාදන, වැවිලි සහ ප්‍රජා යටිතල පහසුකම් අමාත්‍යාංශය
+07 K. Mr. Machent - Ministry of Women, Children's and Youth Affairs and Sports
+
+08 MM. NiMudin - Trade, Commerce, Food Security, Co-operative Development, Industry and Entrepreneurs Development
+
+09 AMPMB. Atapattu - Ministry of Rural and Urban Development, Housing and Construction
+
+Palitha Gunaratne Mahipala - Ministry of Health
+
+11 WPP. Yasarathne - Judicial, Public Administration, Home Affairs, Provincial Councils, Local Government and Labor
+
+12 BK. Prabath Chandrakyerthi - Environment, Wildlife, Forest Resources, Water Supply and Community Infrastructure
 
 ...
 
 [Data](articles/bb7f0888.json)
+
+[Extended Data](ext_articles/bb7f0888.ext.json)
 
 ---
 

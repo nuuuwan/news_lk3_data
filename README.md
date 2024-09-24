@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 10:11:06**
+As of **2024-09-24 10:23:06**
 
 ## Newspaper Stats
 
-*Scraped **45,931** Articles*
+*Scraped **45,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,100 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,773
 dailyftlk | 3,053
-adalk | 4,218
+adalk | 4,219
 dailymirrorlk | 4,733
-adaderanalk | 5,406
+adaderanalk | 5,407
 tamilmirrorlk | 6,126
 virakesarilk | 7,329
-adaderanasinhalalk | 7,945
+adaderanasinhalalk | 7,946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,930 (100.0%) of 45,931 articles have been extended.
+45,931 (100.0%) of 45,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
 
-### ලාංකිකයින් දිනකට රු බිලියන 6.5කින්  ණයකරුවන් වන හැටි
+### ජපානයේ ඉසූ දූපත් ආශ්‍රිතව ප්‍රබල භූකම්පනයක්
+
+*2024-09-24 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201490) · `si`
+
+විදෙස් මාධ්‍ය පවසන්නේ රික්ටර් මාපකයේ ඒකක 5.6ක ප්‍රභලත්වයකින් එම භූකම්පනය හටගෙන ඇති බවය.
+
+මේ හේතුවෙන් එරට කාලගුණ අංශ සුනාමි අනතුරු ඇඟවීම් ද නිකුත් කර තිබේ.
+
+ඒ අනුව ඉසූ දුපත්වලට සහ ඔගවසර දූපත්වලට එම සුනාමි අනතුරු ඇඟවීම් නිකුත් කර ඇති බව විදෙස් මාධ්‍ය පැවසුවේය.
+
+එම දූපත්වලට මීටරයක පමණ උසට මුහුදු රළ ගොඩබිමට එනු ඇති බවට අපේක්ෂා කළ හැකි බව ජපාන කාලගුණ අංශ වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/4126a2b6.json)
+
+---
+
+### New Cabinet to be sworn in today?
+
+*2024-09-24 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102228/new-cabinet-to-be-sworn-in-today) · `en`
+
+It is reported that the new Cabinet of Ministers to be formed under President Anura Kumara Dissanayake will likely be sworn in today (24).
+
+Political sources said that this swearing-in of the new Cabinet is aimed at preparing for the upcoming General Election.
+
+A special gazette had announced the appointment of Lakshman Nipuna Arachchi as a Member of Parliament, filling the vacancy created following Anura Kumara Dissanayake’s election as the new President.
+
+Accordingly, this means that four representatives from the National People’s Power (NPP), including the President, will remain in Parliament and would receive Cabinet Ministerial portfolios.
+
+The newly formed Cabinet is expected to serve in their positions until the new Parliament is elected.
+
+After the swearing-in of the Cabinet of Ministers, President Dissanayake would convene the Cabinet and after allocating funds for a parliamentary election, the Parliament will be dissolved, political sources told Ada Derana.
+
+...
+
+[Data](articles/98ee3378.json)
+
+---
+
+### How Sri Lankans are borrowed by Rs 6.5 billion a day
 
 *2024-09-24 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201489) · `si`
 
-පසුගිය මාස 26ක කාලයේ දී පාලකයින් දේශීය වශයෙන් ලබාගත් ණය ප්‍රමාණය සැලකිමේ දී මෙරට ජනතාව සෑම දිනකම රුපියල් බිලියන 6.5ක පමණ මුදලකින් ණයකරුවන් කර ඇති බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යාන විද්‍යා අධ්‍යන අංශයේ ජ්‍යෙෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාල මහතා පවසයි.
+Sri Lankans owe Rs 6.5 billion daily due to economic crisis. Inflation rose 106% since 2021, food prices increased 138%. Experts call for urgent reforms to address debt burden and economic challenges.
 
-ඔහු පෙන්වා දෙන්නේ, ණය සම්බන්ධයෙන් රට පත්ව ඇත්තේ දැඩි අර්බුදයක බවය.
+🟩
 
-මේ හේතුවෙන් නව ආර්ථික ප්‍රතිසංස්කරණ මාලාවක් කඩිනමින් සිදුකළ යුතු බව ජ්‍යෙෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාල මහතා සඳහන් කළේය.
+Senior Professor Wasantha Athukorala, Senior Professor of the Statistics and Statistical Department of Economics and Statistical Department of Economics (Economic Development Institute) of the Department of Economics and Statistics Department of Economics and Statistics, the Department of Economics and Statistical Studies of the Department of Economics and Statistics of the University of Peradeniya said.
+
+He points out that the country is in a strict crisis.
+
+As a result, a series of new economic reforms should be carried out expeditiously, Senior Professor Wasantha Athukorala said.
 
 ...
 
 [Data](articles/35fd3966.json)
+
+[Extended Data](ext_articles/35fd3966.ext.json)
+
+---
+
+### නව ආරක්ෂක ලේකම් වැඩ අරඹයි
+
+*2024-09-24 09:14:39* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආරක්ෂක-ලේකම්-වැඩ-අරඹයි/11-412101) · `si`
+
+ආරක්‍ෂක අමාත්‍යාංශයේ නව ආරක්‍ෂක ලේකම්වරයා වශයෙන් එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික) WWV, RWP and 2 bars, RSP and bar, USP, MMSc (Strat Stu- China), MSc (Def Stu) in Mgt, MSc (Def & Strat Stu), fndu (China), psc අතිගරු ජනාධිපති අනුර කුමාර දිසානායක මැතිතුමා විසින් පත් කොට ඇත.
+
+එයාර් වයිස් මාර්ෂල් තුයියකොන්තා, ශ්‍රී ජයවර්ධනපුර කෝට්ටේ, ආරක්‍ෂක මූලස්ථාන සංකීර්ණයේ පිහිටි ආරක්‍ෂක අමාත්‍යාංශයේ දී අද (සැප්තැම්බර් 23) දින සන්ධ්‍යාවේ සිය නව පත්වීමට අදාළ රාජකාරින්හි  නිල වශයෙන් වැඩ භාර ගන්නා ලදි.
+
+නව ධූරයේ පත්වීම් ලැබීමෙන් අනතුරුව ආරක්‍ෂක ලේකම්වරයා ආරක්‍ෂක අමාත්‍යාංශයේ අතිරේක ලේකම්වරුන්, ආරක්‍ෂක මාණ්ඩලික ප්‍රධානී, ත්‍රිවිධ හමුදාපතිවරුන් සහ ජාතික බුද්ධි ප්‍රධානී ඇතුළු ආරක්‍ෂක අංශ ප්‍රධානීන් සමඟ විශේෂ සාකච්ඡාවක නිරත විය.
+
+ශ්‍රී ලංකා ගුවන් හමුදාවේ කීර්තිමත් නිලධාරියෙකු වන එයාර් වයිස් මාර්ෂල් තුයියකොන්තා, වසර 33කට අධික කීර්තිමත් හමුදා සේවා කාලයක් නිම කොට 2021 වසරේ නොවැම්බර් මාසයේ දී විශ්‍රාම ලැබීය. විශ්‍රාම යන විට ඔහු ශ්‍රී ලංකා ගුවන් හමුදාවේ අධ්‍යක්‍ෂ පුහුණු තනතුර දැරීය.
+
+...
+
+[Data](articles/c3f7d207.json)
 
 ---
 
@@ -2051,67 +2115,5 @@ Speaker of Parliament Mahinda Yapa Abeywardena expressed his congratulations to 
 [Data](articles/7439ff08.json)
 
 [Extended Data](ext_articles/7439ff08.ext.json)
-
----
-
-### Envoy from China, India rush to meet Sri Lanka’s new president before taking oath
-
-*2024-09-23 16:47:00* · [`economynextcom`](https://economynext.com/envoy-from-china-india-rush-to-meet-sri-lankas-new-president-before-taking-oath-180664/) · `en`
-
-ECONOMYNEXT – Envoys from India and China in Sri Lanka were the first to meet newly-elected President Anura Kumara Dissanayake even before he took office on Monday (23) as the ninth leader of the country.
-
-Both India and China are in a geopolitical cold war in Sri Lanka with Beijing having invested and lent billions of dollars to the island nation while India has been eying to win hearts of average Sri Lankans after bitter relations due to its role in the 26-year civil war.
-
-Indian High Commissioner for Sri Lanka Santosh Jha called on President-elect Dissanayake at his party office and tweeted that he conveyed greetings from India’s leadership and congratulated him on winning the people’s mandate.
-
-“India as Sri Lanka’s civilisational twin is committed to further deepen ties for the prosperity of the people of our two countries,” he tweeted.
-
-Indian Prime Minister Narendra Modi in a tweet said Sri Lanka holds a special place in India’s Neighbourhood First Policy.
-
-...
-
-[Data](articles/fbe4b75a.json)
-
-[Extended Data](ext_articles/fbe4b75a.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 304.25/75, bond yields down
-
-*2024-09-23 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-304-25-75-bond-yields-down-180660/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee recovered to close stronger at 304.25/75 to the US dollar on Monday, from 305.25/306.00 on Friday, dealers said, while bond yields rallied.
-
-A bond maturing on 01.05.2027 closed at 12.70/90 percent, down from 12.90/13.10 percent.
-
-A bond maturing on 15.02.2028 closed at 13.25/40 percent, down from 13.60/70 percent.
-
-A bond maturing on 15.06.2029 closed at 13.55/65 percent, up from 13.85/95 percent. (Colombo/Sep23/2024)
-
-◼️
-
-[Data](articles/fdbfcfdf.json)
-
-[Extended Data](ext_articles/fdbfcfdf.ext.json)
-
----
-
-### Ravi Seneviratne as Secretary to the Ministry of Public Security
-
-*2024-09-23 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194615) · `ta`
-
-Ravi Seneviratne: Appointed Secretary to Ministry of Public Security. Holds degree in human rights from University of Colombo. Retired Senior Deputy Inspector General of Police. Former roles include Deputy Director of Special Task Force and Chief Secretary of Sri Lanka Embassy in Thailand. Former President of Interpol Sri Lanka Branch.
-
-🟩
-
-According to the authority given to the Constitution of the Constitution of the Democratic Socialist Republic of Sri Lanka, President Anura Kumara Dissanayake is the Secretary to the Ministry of Public Security. Seneviratne has been appointed.
-
-Ravi Seneviratne, who holds a graduate of human rights at the University of Colombo. He is a retired Senior Deputy Inspector General of Police, former Deputy Director of the Special Task Force, former Deputy Director of the State Intelligence Unit, former Chief Secretary of the Sri Lanka Embassy in Thailand and former President of the Interpol Sri Lanka Branch.
-
-◼️
-
-[Data](articles/75b61dd6.json)
-
-[Extended Data](ext_articles/75b61dd6.ext.json)
 
 ---

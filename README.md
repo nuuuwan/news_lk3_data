@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 08:21:41**
+As of **2024-09-24 08:42:28**
 
 ## Newspaper Stats
 
-*Scraped **45,915** Articles*
+*Scraped **45,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,84 +15,210 @@ colombotelegraphcom | 457
 islandlk | 2,695
 economynextcom | 2,773
 dailyftlk | 3,053
-adalk | 4,215
+adalk | 4,216
 dailymirrorlk | 4,733
-adaderanalk | 5,404
+adaderanalk | 5,405
 tamilmirrorlk | 6,121
 virakesarilk | 7,329
-adaderanasinhalalk | 7,941
+adaderanasinhalalk | 7,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,905 (100.0%) of 45,915 articles have been extended.
+45,919 (100.0%) of 45,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
 
-### பேராயரை சந்தித்தார் ஜனாதிபதி
+### Sri Lankans in Lebanon reunite before high tension
+
+*2024-09-24 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201487) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan community in Lebanon gathers amid rising tensions. Israeli ambassador requests ceasefire over shelling and rocket attacks targeting Israeli goals.
+
+🟩
+
+The Israeli Ambassador in Sri Lanka has requested that the shell and rocket attacks on the goals of Israel.
+
+◼️
+
+[Data](articles/b56c3e27.json)
+
+[Extended Data](ext_articles/b56c3e27.ext.json)
+
+---
+
+### New President Anura Cadinal Thero
+
+*2024-09-24 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201486) · `si`
+
+Here's a 200-character summary:
+
+
+
+New President Anura Kumara Dissanayake wins election. Meets Cardinal Thera, receives blessing from Malcolm Cardinal Ranjith. Promises to help poor, faces challenges in governance.
+
+🟩
+
+The new President Anura Kumara Dissanayake has won the Colombo Higantam Kadinal Ranjith.
+
+The President arrived at the Archbishop of Borella, the Archbishop, Visiting the Archbishop, and was engaged in a brief resistance, the Presidential Media Unit said.
+
+The Cardinal Thera has joined the President Anura Kumara Dissanayake.
+
+Malcolm Cardinal Ranjith speaking to the media after the meeting,
+
+"I wish the highest number of people in Sri Lanka to be appointed as the presidency. And I wonder, the people of Sri Lanka have been handed over to the people of Sri Lanka to make a difference in Sri Lanka.. This can be a difficult task. But our full support and blessings are given. I urge you to continue the poor people and continue you. "
+
+Meanwhile, President Anura Kumara Dissanayake had gone to Dentegahapuliya, Colombo yesterday (23) and the Presidential Media Unit said.
+
+◼️
+
+[Data](articles/1a9fab80.json)
+
+[Extended Data](ext_articles/1a9fab80.ext.json)
+
+---
+
+### IMF to work with Sri Lanka’s new president, welcomes creditor agreement
+
+*2024-09-24 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102226/imf-to-work-with-sri-lankas-new-president-welcomes-creditor-agreement) · `en`
+
+(Reuters) - The International Monetary Fund welcomed on Monday last week’s announcement of an agreement in principle between Sri Lanka and a group of its international bondholders to restructure $12.5 billion in bonds, the fund said, adding it looks forward to working with newly elected president Anura Kumara Dissanayake.
+
+“We look forward to working together with President Dissanayake and his team towards building on the hard-won gains that have helped put Sri Lanka on a path to economic recovery,” a spokesperson for the fund said via email.
+
+The fund said it will discuss the timing of its third review of the current program with Sri Lanka “as soon as practicable.”
+
+◼️
+
+[Data](articles/64e10161.json)
+
+[Extended Data](ext_articles/64e10161.ext.json)
+
+---
+
+### The President met the Archbishop
 
 *2024-09-24 07:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராயரை-சந்தித்தார்-ஜனாதிபதி/175-344356) · `ta`
 
-புதிய ஜனாதிபதி அநுரகுமார திஸாநாயக்க நேற்று (23) கொழும்பு பேராயர் கர்தினால் மெல்கம் ரஞ்சித் ஆண்டகையைச் சந்தித்து ஆசி பெற்றார். பொரளையில் பேராயரின் உத்தியோகபூர்வ இல்லத்திற்கு விஜயம் செய்த ஜனாதிபதி, பேராயரைச் சந்தித்து நலம் விசாரித்ததுடன் சிறிது நேரம் உரையாடலில் ஈடுபட்டார்.
+President Anura Kumara Dissanayake meets Archbishop of Colombo, discusses investigation into Easter attacks and visits local school.
 
-இலங்கையின் பெரும்பான்மையான மக்களின் விருப்பத்தினால் ஜனாதிபதியாக தெரிவுசெய்யப்பட்டுள்ள அநுரகுமார திஸாநாயக்க அவர்களுக்கு எனது வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றேன். இந்தச் சந்தர்ப்பத்தில் இலங்கையில் தேவையான மாற்றத்தை ஏற்படுத்தும் பாரிய பொறுப்பை நாட்டு மக்கள் அவரிடம் ஒப்படைத்துள்ளனர்.
+🟩
 
-இது பொறுப்பு வாய்ந்த மற்றும் கடினமான பணியாக இருக்கலாம். அதற்காக அவருக்கு நாம் முழு ஆதரவையும் ஆசிகளையும் வழங்குவோம் என்று உறுதியளிக்கிறோம். குறிப்பாக இந்நாட்டின் வறிய மக்களைப் பற்றி சிந்தித்து உங்கள் பணியை தொடருமாறு கேட்டுக்கொள்கிறேன்.
+New President Anura Kumara Dissanayake met with Archbishop of Colombo yesterday (23). The President visited the official residence of the Archbishop in Borella, met with the Archbishop and inquired for a while.
+
+My congratulations to Anuragumara Dissanayake, who has been elected president by the wishes of the majority of Sri Lanka.. On this occasion, the people of Sri Lanka have entrusted him with the responsibility of making the necessary change in Sri Lanka.
+
+This may be a responsible and difficult task. We promise to give him full support and blessings for that. I urge you to think about the poor people in particular and continue your work.
+
+Responding to a question asked by a journalist, Archbishop Cardinal Malcolm Ranjit said that the president had assured him that he was doing everything possible to investigate the survival Sunday attack and prepare the foundation needed to bring out the truth.
 
 ...
 
 [Data](articles/168be29d.json)
 
+[Extended Data](ext_articles/168be29d.ext.json)
+
 ---
 
-### இலங்கை வங்கி தலைவர் இராஜினாமா
+### Ceylon Bank Chairman resigns
 
 *2024-09-24 07:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வங்கி-தலைவர்-இராஜினாமா/175-344355) · `ta`
 
-அரசுக்கு சொந்தமான இலங்கை வங்கி (BOC) தலைவர் கவன் ரத்நாயக்க நேற்று தனது பதவியில் இருந்து விலகினார்.
+Here's a 200-character summary:
 
-நேற்றைய தினம் கொழும்பு பங்குச் சந்தைக்கு வழங்கிய அறிவிப்பில், ரத்நாயக்க, செப்டெம்பர் 22ஆம் திகதி முதல் அமுலுக்கு வரும் வகையில், வங்கியின் சுயாதீன, நிறைவேற்று அதிகாரமற்ற தலைவர் பதவியில் இருந்து இராஜினாமா செய்துள்ளதாக BOC தெரிவித்துள்ளது.
+
+
+Ceylon Bank Chairman Kavan Ratnayake resigns. Effective September 22, he steps down as independent and executive leader. Announcement made to Colombo Stock Exchange.
+
+🟩
+
+State -owned Ceylon Bank (BOC) Chairman Kavan Ratnayake resigned from his post yesterday.
+
+In a statement issued to the Colombo Stock Exchange yesterday, Ratnayake has resigned from the post of independent and executive leader of the bank with implementation on September 22, BOC said.
 
 ◼️
 
 [Data](articles/8b6b12c8.json)
 
+[Extended Data](ext_articles/8b6b12c8.ext.json)
+
 ---
 
-### இன்று இரவு பாராளுமன்றம் கலைக்கப்படும்
+### Parliament will be dissolved tonight
 
 *2024-09-24 07:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இரவு-பாராளுமன்றம்-கலைக்கப்படும்/175-344354) · `ta`
 
-இன்று இரவு பாராளுமன்றம் கலைக்கப்படும் எனவும் டிசம்பர் மாதத்திற்குள் பாராளுமன்ற தேர்தல் நடத்தப்படும் எனவும் எமது சகோதர ஊடகமான டெய்லி மிரர் பிரத்தியேகமாக அறிந்து செய்தி வெளியிட்டுள்ளது.
+Sri Lanka: Parliament dissolved, elections by December. President appoints new PM, sets cabinet roles. NPP likely to contest, aiming for majority. Campaign expected soon.
 
-பிரதமர் பதவியில் இருந்து தினேஷ் குணவர்தன நேற்று இராஜினாமா செய்ததையடுத்து, ஜனாதிபதி அனுரகுமார திஸாநாயக்க இன்று அவர் உட்பட நான்கு அமைச்சர்களைக் கொண்ட இடைக்கால அமைச்சரவையை நியமிக்கவுள்ளதாக தேசிய மக்கள் சக்தியின் (NPP) மூத்த வட்டாரம் தெரிவித்துள்ளது.
+🟩
 
-டெய்லி மிரர் பிரத்தியேகமாக பெற்ற பட்டியலின்படி, ஜனாதிபதி திஸாநாயக்க சுற்றுலா, பாதுகாப்பு, நிதி, நீதி, கைத்தொழில் மற்றும் முதலீட்டு ஊக்குவிப்பு பதவிகளை வைத்திருப்பார், அதே நேரத்தில் பிரதமர் வெளியுறவு, கல்வி மற்றும் வெகுஜன ஊடக அமைச்சராக இருப்பார்.
+Our brother -in -law, Daily Mirror, has released the news that parliament will be dissolved tonight and parliamentary elections will be held by December.
 
-NPP பாராளுமன்ற உறுப்பினர் கலாநிதி ஹரிணி அமரசூரிய பிரதமராக பதவிப் பிரமாணம் செய்து கொள்ளவுள்ளதுடன், சிரேஷ்ட பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் மற்றும் புதிதாக பதவிப்பிரமாணம் செய்துள்ள பாராளுமன்ற உறுப்பினர் லக்ஷ்மன் நிபுன ஆராச்சி ஆகியோர் தலா பல அமைச்சுகளுடன் அமைச்சர்களாக நியமிக்கப்படவுள்ளனர்.
+Dinesh Gunawardena's resignation from the post of Prime Minister yesterday will be appointed by President Anura Kumara Dissanayake today, the National People's Power (NPP) senior source said.
+
+According to the exclusive list of Daily Mirror, President Dissanayake will have tourism, security, finance, justice, industrial and investment promotion, while the Prime Minister will be the Minister of Foreign Affairs, Education and Mass.
+
+NPP Parliamentarian Dr. Harini Amarasuriya will be sworn in as Prime Minister and Senior Parliamentarian Vijitha Herath and newly sworn in the newly elected parliamentarian Lakshman Nipuna Arachchi will be appointed as ministers.
+
+Nipuna Arachchi yesterday sworn in as a Member of Parliament for the vacancy caused by Anurakumara Dissanayake in the Colombo electorate.
 
 ...
 
 [Data](articles/77d3f450.json)
 
+[Extended Data](ext_articles/77d3f450.ext.json)
+
 ---
 
-### උතුරේ ආණ්ඩුකාරවරියත් ඉල්ලා අස්වෙයි
+### Governor of the North resigns
 
 *2024-09-24 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201485) · `si`
 
-උතුරු පළාත් ආණ්ඩුකාර ලෙස කටයුතු කළ පී.එස්.එම්. චාල්ස් මහත්මිය එම ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+North Province Governor resigns; others follow suit after oath ceremony led by Anura Kumara Dissanayake.
 
-මේ අතර ඊයේ දිනයේ දී තවත් පළාත් කිහිපයක ආණ්ඩුකාරවරු සිය ධුරයන්ගෙන් ඉල්ලා අස්වන බවට ලිපි නිකුත් කර තිබුණි.
+🟩
 
-අනුර කුමාර දිසානායක මහතා ඊයේ (23) ජනාධිපති ධුරයේ දිවුරුම් දීමත් සමග ආණ්ඩුකාරවරු මෙම තීරණය ගෙන ඇත.
+Northern Province Governor PSM. Mrs. Charles has resigned from the post.
+
+Meanwhile, the governors of several other provinces have been resigned from their post yesterday.
+
+The governors have taken the oath of Anura Kumara Dissanayake yesterday (23).
 
 ◼️
 
 [Data](articles/64a22ee9.json)
+
+[Extended Data](ext_articles/64a22ee9.ext.json)
+
+---
+
+### Northern Governor resigns
+
+*2024-09-24 07:42:36* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-ආණ්ඩුකාරවරිය-ඉල්ලා-අස්වෙයි/11-412097) · `si`
+
+Northern Province Governor PSM Ratnayake resigns due to President Ranil Wickremesinghe's inauguration. She previously served as Election Commissioner and Director General of Sri Lanka Institute.
+
+🟩
+
+Northern Province Governor Pasm. The Governor has announced that Mrs. Charles resigned from the post of Governor yesterday (23).
+
+PSM Ratals was taken to resign from the post of President Ranil Wickremesinghe with the swearing in of President Ranil Wickremesinghe.
+
+She has been a member of the Vavuniya and Batticaloa District as a member of the Vavuniya and Batticaloa District before he has held the post of Governor of the UPFA and then the Director General of the Sri Lanka Institute and the Elections Commissioner.
+
+◼️
+
+[Data](articles/80487fcc.json)
+
+[Extended Data](ext_articles/80487fcc.ext.json)
 
 ---
 
@@ -112,21 +238,29 @@ In a recorded message, Israeli Prime Minister Benjamin Netanyahu urged Lebanese 
 
 [Data](articles/7774561a.json)
 
+[Extended Data](ext_articles/7774561a.ext.json)
+
 ---
 
-### இன்றைய வானிலை தொடர்பான அறிவிப்பு
+### Today's weather -related announcement
 
 *2024-09-24 07:38:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-தொடர்பான-அறிவிப்பு/175-344353) · `ta`
 
-மேல் மற்றும் சபரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Rainfall forecasted in Western, Sabaragamuwa provinces and Kandy, Nuwara Eliya, Galle, Matara districts. Thunderstorms possible in Uva, Eastern provinces evenings/night. Strong winds predicted in Central Highlands, Northern, North Central, Southern provinces, Trincomalee, Matale, Moneragala districts.
 
-அத்துடன் ஊவா மற்றும் கிழக்கு மாகாணங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-அதேநேரம் மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் தென் மாகாணங்களிலும் திருகோணமலை, மாத்தளை மற்றும் மொனராகலை மாவட்டங்களிலும் இடைக்கிடையே மணிக்கு 40 முதல் 45 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் எனவும், வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. (a)
+The Department of Meteorology has forecast rainfall in the Western and Sabaragamuwa Provinces and Kandy, Nuwara Eliya, Galle and Matara districts today.
+
+It has also been reported that rain or thunderstorms are expected in the evening or night in some areas of Uva and the Eastern Provinces.
+
+Meanwhile, the Department of Meteorology has forecast strong winds at the western slopes of the Central Highlands and the Northern, North Central and Southern Provinces, Trincomalee, Matale and Moneragala districts at speeds of 40 to 45 km / h.. (A)
 
 ◼️
 
 [Data](articles/eb1dbb78.json)
+
+[Extended Data](ext_articles/eb1dbb78.ext.json)
 
 ---
 
@@ -146,47 +280,59 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/32c1b61c.json)
 
+[Extended Data](ext_articles/32c1b61c.ext.json)
+
 ---
 
-### නව අමාත්‍ය මණ්ඩලය අද දිවුරුම් දෙන ලකුණු
+### The new Cabinet is sworn in today
 
 *2024-09-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201484) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා යටතේ පිහිටුවනු ලබන නව කැබිනට් මණ්ඩලය අද (24) දිනයේ දී දිවුරුම් දෙනු ඇති බව වාර්තා වේ.
+The new cabinet formed under President Anura Kumara Dissanayake will be sworn in this day.
 
-මහ මැතිවරණය පැවැත්වීමේ අරමුණින් මෙම දිවුරුම් දීම සිදුවනු ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+Political sources say that the swearing in is to hold general election.
 
-අනුර කුමාර දිසානායක මහතා ජනාධිපති ධුරයට පත්වීමත් සමග ඔහුගෙන් පුරප්පාඩු වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා ලක්ෂ්මන් නිපුණආරච්චි මහතාගේ නම විශේෂ ගැසට් පත්‍රයක් මඟින් ප්‍රකාශයට පත්කරනු ලැබීය.
+The name of Lakshman Nipunarachchi was announced by a special gazetteth for the appointment of Anura Kumara Dissanayake.
 
-ඒ අනුව ජාතික ජන බලවේගය නියෝජනය කරමින් ජනාධිපතිවරයා ද ඇතුළුව සිව්දෙනෙකු පාර්ලිමේන්තුවේ රැඳී සිටින අතර ඔවුන්ට කැබිනට් අමාත්‍ය ධුර හිමිවනු ඇත.
+Four persons, including the President representing the national folk force, remains in Parliament and will bear the portfolio.
 
-නව පාර්ලිමේන්තුව තේරී පත්වන තෙක් මෙම කැබිනට් මණ්ඩලය එම ධුරවල කටයුතු කිරීමට නියමිතය.
+The Cabinet is due to be in the rural until the new Parliament is elected.
 
-කෙසේවෙතත් අමාත්‍ය මණ්ඩලය දිවුරුම් දීමෙන් පසු ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් කැබිනට් මණ්ඩලය රැස්කර පාර්ලිමේන්තු මැතිවරණයක් සඳහා මුදල් වෙන්කර ගැනීමෙන් අනතුරුව පාර්ලිමේන්තුව විසුරුවා හරිනු ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+However, after the swearing in of the Cabinet, President Anura Kumara Dissanayake will be dissolved and resolved for a parliamentary election.
 
-පාර්ලිමේන්තුව විසුරුවා හැරීමට ප්‍රථම තවත් නව අමාත්‍යංශ ලේකම් ධුර කිහිපයක් පිරි නැමීමට ද නියමිතව තිබේ.
+There are also another new Ministry Secretaries before the dissolution of Parliament.
 
-...
+According to the situation, there is much more likely to issue gazette notification to dissolve Parliament in midnight today.
+
+◼️
 
 [Data](articles/a54e1344.json)
 
+[Extended Data](ext_articles/a54e1344.ext.json)
+
 ---
 
-### එජාපය සජබය හා එක්වෙන්න යයි
+### UNP to be joined by the UNP
 
 *2024-09-24 07:20:43* · [`adalk`](https://www.ada.lk/breaking_news/එජාපය-සජබය-හා-එක්වෙන්න-යයි/11-412096) · `si`
 
-ඉදිරි මැතිවරණ සහ දේශපාලන තත්ත්වයන්ට මුහුණදීම සඳහා විපක්ෂය නියෝජනය කරන සියලු දේශපාලන පක්ෂ එක්කරගත් පොදු සන්ධානයක් ඇතිකර ගැනීමට එක්සත් ජාතික පක්ෂය තීරණය කර තිබේ.
+United National Party decides to unite opposition parties for future elections. Former President Ranil Wickremesinghe proposes inviting all political parties to join forces.
 
-එක්සත් ජාතික පක්ෂය මෙම තීරණය ගත්තේ කොළඹ මල් පාරේ පිහිටි හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලයේ ඊයේ (23දා) පැවති එක්සත් ජාතික පක්ෂයේ නායකත්ව මණ්ඩල හමුවේදීය .
+🟩
 
-එහිදී හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අදාළ යෝජනාව ඉදිරිපත් කර ඇත .
+The United National Party has decided to establish all political parties representing the opposition to face the future elections and political situation.
 
-ඒ අනුව ඉදිරි මැතිවරණ සහ දේශපාලන තත්ත්වයන්ට මුහුණදීම සඳහා විපක්ෂය නියෝජනය කරන සියලු දේශපාලන පක්ෂ එක්කරගත් පොදු සන්ධානයක් ඇතිකර ගැනීම වෙනුවෙන් සමගි ජනබලවේගය පක්ෂය ඇතුළු සියලු පක්ෂ වෙත ආරාධනා කිරීමට කටයුතු කරන ලෙස හිටපු ජනාධිපතිවරයා උපදෙස් දී තිබේ .
+The UNP decided at the meeting of the Leadership Council at the United National Party (UNP) yesterday (23) at the political office of former President Ranil Wickremesinghe's political office on Flowing President Ranil Wickremesinghe.
+
+Former President Ranil Wickremesinghe has presented the proposal.
+
+Accordingly, the former President has instructed to invite all parties including the party, including all the political parties representing all the political parties representing all the political parties representing the opposition and political parties.
 
 ◼️
 
 [Data](articles/62f7a624.json)
+
+[Extended Data](ext_articles/62f7a624.ext.json)
 
 ---
 
@@ -216,23 +362,31 @@ Meanwhile, 35 children and 58 women have 35 women among the dead.
 
 ---
 
-### දින දෙකකින් පාර්ලිමේන්තුව විසුරුවා හරිනවා
+### The Parliament dissolved in two days
 
 *2024-09-24 07:00:18* · [`adalk`](https://www.ada.lk/breaking_news/දින-දෙකකින්-පාර්ලිමේන්තුව-විසුරුවා-හරිනවා/11-412095) · `si`
 
-තවත් දින දෙකකින් පාර්ලිමේන්තුව විසුරුවා හරින බවට අභිනව ජනාධිපති අනුර කුමාර දිසානායක මහතා මහනුවරදී ඉඟි පළ කළේය .
+Parliament dissolved in 2 days. President calls for change in laws, economy, culture. Promises to address monk welfare, village infrastructure. Seeks support from industrialists, workers, legal system. Aims to fulfill public expectations for national transformation.
 
-මල්වතු අස්ගිරි මහනාහිමිවරුන් බැහැ දැකීමෙන් අනතුරුව පාර්ලිමේන්තුව විසුරුවා හැරීම සම්බන්ධයෙන් මාධ්‍යවේදීන් නැගූ පැනයකට පිළිතුරු දෙමින් ජනාධිපතිවරයා පවසා සිටියේ ලිහා බැලිය හැකි මල්ල ඔබා නොබැලිය යුතු බවත් තවත් දින දෙකක් ඒ සඳහා ඉවසා සිටින ලෙසත්ය .
+🟩
 
-රටේ අලුත් වෙනසකට මුල පිරිය යුතු බව අපේ රටේ ජනතාව තමන්ගේ ජන මතයෙන් ප්‍රකාශ කොට තිබෙනවා . එසේ වෙනස් කළ යුත්තේ රටේ නීතිය, රටේ ආර්ථික ගමන මෙන්ම සංස්කෘතිය ඇතුළු සියල්ලගේ වෙනසක් අවශ්‍යව තිබෙනවා .
+President Anura Kumara Dissanayake expressed tips in Kandy that Parliament was dissolved in two days.
 
-අපි මානායක ස්වාමීන්ද්‍රයන් වහන්සේලාට පෙන්වා දෙනු ලැබුවා මේ අලුත් ජනවරමේ තිබෙන එම වෙනසට අනුව අප රට පාලනය කිරීමට සූදානම් බව .
+After answering the dissolution of parliament, the President said that he should not be able to tolerate the bag that could be considered for the dissolution of the Malwatte Asgiriya.
 
-මේ රටේ ජනතාවගේ විශාල අහිංසක බලාපොරොත්තුවක් තිබෙනවා . එම බලාපොරොත්තු ඉටු කිරීමටත් අප සූදානම් බව මානායක ස්වාමීන්ද්‍රයන් වහන්සේලාට අපේ පැත්තෙන් පෙන්වා දෙනු ලැබුවා .
+The people of our country have expressed their popularity that the country should be initiated. The law of the country needs a change in the country's law, the economic journey of the country, and culture.
+
+We showed that we have shown that we are ready to control the country according to the fact that the new mandate is ready to control the country.
+
+There is a large innocent hope in this country. We showed us that we are ready to fulfill those expectations.
+
+They have been looking forward to the prospect of the monks and to improve the infrastructure of the poor, especially the infrastructure of the villages.
 
 ...
 
 [Data](articles/28748d48.json)
+
+[Extended Data](ext_articles/28748d48.ext.json)
 
 ---
 
@@ -1935,71 +2089,5 @@ In early 1972, the US government extended an invitation to me and to the Public 
 [Data](articles/0bc19c17.json)
 
 [Extended Data](ext_articles/0bc19c17.ext.json)
-
----
-
-### Listen to the verdict of the ballot box, says International Crisis Group
-
-*2024-09-23 15:53:00* · [`islandlk`](http://island.lk/listen-to-the-verdict-of-the-ballot-box-says-international-crisis-group/) · `en`
-
-With a presidential election due on 21 September amid widespread economic misery, 2024 is a pivotal year for Sri Lanka. President Ranil Wickremesinghe has enjoyed some success carrying out International Monetary Fund (IMF) reforms, but millions of Sri Lankans mired in poverty and debt have yet to feel much relief. Wickremesinghe came to power in July 2022 after his predecessor Gotabaya Rajapaksa was forced to resign following waves of mass protest; but he owes his appointment to the Rajapaksa clan’s political party, and he has relied on it for his majority in parliament.
-
-...
-
-[Data](articles/678cc56f.json)
-
-[Extended Data](ext_articles/678cc56f.ext.json)
-
----
-
-### New PresidentVarious ceremony
-
-*2024-09-23 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194624) · `ta`
-
-Anura Kumara Dissanayake inaugurated as Sri Lanka's 9th president. Ceremony included religious leaders. National People's Power party officials attended. Large crowd present.
-
-🟩
-
-Sri Lanka's ninth executive President Anura Kumara Dissanayake was sworn in on Monday (23). Religious leaders also participated.
-
-The Executive Committee of the National People's Power Batticaloa District was held in front of the National People's Power Office in Batticaloa's Navakkuda main road.
-
-District Executive Committee Member N.. Several National People's Party leaders, including Sushakaran, attended.
-
-A large number of civilians were present at the event that the national people were beverage for passengers to travel on the road.
-
-◼️
-
-[Data](articles/c18be109.json)
-
-[Extended Data](ext_articles/c18be109.ext.json)
-
----
-
-### Sri Lanka elections:Change or more of the same?
-
-*2024-09-23 15:49:00* · [`islandlk`](http://island.lk/sri-lanka-electionschange-or-more-of-the-same/) · `en`
-
-According to a Facebook report compiled by two Sri Lankans, Ranil Wickremesinghe and Opposition Leader Sajith Premadasa have spent extensively on ads on Meta. Each has disbursed around Rs 32 million so far. Anura Kumara Dissanayake comes third at Rs 7.1 million, after Wijeyadasa Rajapakshe at Rs 8.6 million. Namal Rajapaksa comes seventh at Rs 665,000, after Dilith Jayaweera, who has spent Rs 1.6 million.
-
-...
-
-[Data](articles/71a39366.json)
-
-[Extended Data](ext_articles/71a39366.ext.json)
-
----
-
-### Waiting for the Next President or the Return of Mr. Bean!
-
-*2024-09-23 15:46:00* · [`islandlk`](http://island.lk/waiting-for-the-next-president-or-the-return-of-mr-bean/) · `en`
-
-Who will it be? Ranil, Sajith or Anura? The hard copy version of this article will be public while the voting is going on. By the time it appears online the vote count will be on and at least who is in the lead, if not the actual winner, will be known. Writing a day before the vote, I do not have a crystal ball to say who Sri Lanka’s next president will be. Suffice it to say that as the countdown week draws to a close there are strong assertions from the Ranil camp that he is going to be the winner. If those assertions are proven correct and if Ranil Wickremesinghe gets elected as the next president, then it will be political business as usual for the next few weeks, if not for the next few months, bar the shouting and ceremonies.
-
-...
-
-[Data](articles/b8d910bd.json)
-
-[Extended Data](ext_articles/b8d910bd.ext.json)
 
 ---

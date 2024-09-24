@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 21:23:12**
+As of **2024-09-24 21:38:34**
 
 ## Newspaper Stats
 
@@ -26,27 +26,35 @@ adaderanasinhalalk | 7,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,070 (100.0%) of 46,074 articles have been extended.
+46,074 (100.0%) of 46,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
 
-### පාර්ලිමේන්තු ඡන්දෙ ගැන මැතිවරණ කොමිසමෙන් පැහැදිලි කිරීමක්
+### Elections Commission explains about parliamentary elections
 
 *2024-09-24 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201510) · `si`
 
-ජනාධිපතිවරයා විසින් පාර්ලිමේන්තුව විසුරුවා හරින ඕනෑම අවස්ථාවකදී එම දිනයේ සිට දින 52ත් 66ත් අතර කාලය තුළදී මැතිවරණයක් පැවැත්වීමට මැතිවරණ කොමිසම බැඳී සිටින බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+Elections Commission mandates holding polls within 52-66 days post-parliament dissolution. Commissioner General Saman Sri Ratnayake explained process at press conference. No election scheduled for 2024; next set for 2025 with estimated budget of Rs 11 billion.
 
-අද (24) මැතිවරණ කොමිසමේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඒ මහතා මෙම කරුණු පැහැදිලි කළේය.
+🟩
 
-"පාර්ලිමේන්තුව විසුරුවා හැරින ඕනෑම අවස්ථාවකදී එම දිනයේ සිට දින 52ත් 66ත් අතර කාලය තුළදී මැතිවරණයක් පැවැත්වීමට මැතිවරණ කොමිසම බැඳී සිටිනවා. පාර්ලිමේන්තුව විසුරුවාහැරීමේ නිවේදනය ජනපති ලේකම්ගේ අත්සනින් නිවේදනය කරාට පසුව ඒ අනුව එම ගැසට් නිවේදනයේ සඳහන් වෙනවා නාමයෝජනා භාරගන්නා දින කවදා ද?, මැතිවරණය පැවත්වීමේ දිනය කවදා ද ? සහ පාර්ලිමේන්තුව නැවත රැස්වන දිනය කවදා ද ? කියලා."
+Elections Commissioner General Saman Sri Ratnayake says that the election commission is obliged to hold an election within 52 and 66 days from the date.
 
-"මේ කරුණු තුන ඇතුළත් ගැසට් නිවේදනයක් ජනාධිපති ලේකම්වරයාගේ අත්සනින් යුතුව නිකුත් වුණාට පසුව තමයි පාර්ලිමේන්තු මැතිවරණය ගැන නීත්‍යාණුකූලව කතා කරන්න පුළුවන් වෙන්නේ."
+He was speaking at a press conference held today (24).
 
-...
+"The Elections Commission is obliged to hold an election within 52 to 66 days from the date on whenever Parliament dissolved. After the announcement of the dissolving parliamentary dissolving the Parliament, the gazette notification will be given the nomination date?And the date on which Parliament will meet again?That is. "
+
+"It is only after the signature of the Presidential Secretary has been released with the signature of the Secretary to the President.
+
+"In 2024, no form of a parliamentary election.  2025 වසරට තමයි නියම වශයෙන් තියෙන්නේ. But if the President dissolves the parliament, he will join the dissolving announcement by the Treasury to the election. 2025 The prediction of the budget is that a sum of Rs 11 billion has been an election. "
+
+◼️
 
 [Data](articles/1c74dde8.json)
+
+[Extended Data](ext_articles/1c74dde8.ext.json)
 
 ---
 
@@ -70,27 +78,35 @@ Herath, who was sworn in today, expressed his commitment to strengthen diplomati
 
 ---
 
-### 15 அமைச்சுகளுக்கான புதிய செயலாளர்கள் நியமனம்
+### Appoint new secretaries for 15 ministries
 
 *2024-09-24 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194726) · `ta`
 
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க தலைமையிலான இடைக்கால அரசாங்கத்தின் 15  அமைச்சுகளுக்கான  செயலாளர்கள் நியமிக்கப்பட்டுள்ளார்கள். ஜனாதிபதி செயலகத்தில் செவ்வாய்க்கிழமை (24) புதிய செயலாளர்களுக்கான நியமனங்கள் ஜனாதிபதியால் வழங்கி வைக்கப்பட்டன.
+New secretaries appointed for 15 ministries under President Anura Kumara Dissanayake. Key roles: Transport, Finance, Women & Youth, Sports, Business, Rural Development, Justice, Environment, Communication, Buddha Sasana.
 
-போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகம் மற்றும் சிவில் விமான சேவைகள் அமைச்சின் செயலாளர் - டி.எஸ்.ருவன் சந்திர,
+🟩
 
-நிதி, பொருளாதார அபிவிருத்தி, கொள்கைத் திட்டமிடல் மற்றும் சுற்றுலாத்துறை அமைச்சின் செயலாளர் - கே.எம்.எம். சிறிவர்தன,
+Secretaries for 15 Ministries of the Interim Government headed by President Anura Kumara Dissanayake have been appointed. The president was given appointments for new secretaries on Tuesday (24) at the Presidential Secretariat.
 
-மகளிர் , சிறுவர் மற்றும் இளைஞர் விவகாரம்,மற்றும் விளையாட்டுத்துறை அமைச்சின் செயலாளர் - கே. மகேஷன்,
+Secretary of the Ministry of Transport, Highways, Port and Civil Airlines - TS Ruan Chandra,
 
-வர்த்தகம், வாணிப, உணவு பாதுகாப்பு, கூட்டுறவு அபிவிருத்தி, கைத்தொழில் மற்றும்  முயற்சியாண்மை அபிவிருத்தி அமைச்சு – எம்.எம். தய்முதீன்
+Secretary to the Ministry of Finance, Economic Development, Policy Planning and Tourism - KMM. Siriwardena,
 
-கிராமிய மற்றும் நகர அபிவிருத்தி, வீடமைப்பு மற்றும் நிர்மாணத்துறை அமைச்சின் செயலாளர் - எம்.பி அதபத்து,
+Women, Child and Youth Affairs, and Secretary to the Ministry of Sports - K. Mahesh,
 
-நீதி, அரச நிர்வாகம், உள்நாட்டலுவல்கள்,  மாகாண மற்றும் உள்ளூராட்சி மன்றங்கள் அமைச்சு மற்றும் தொழில் அமைச்சின் செயலாளர் - பி.பி. யசரத்ன,
+Business, Commerce, Food Security, Co -operative Development, Industry and Entrepreneurship Ministry - MMM. Thymuddin
+
+Secretary to the Ministry of Rural and Urban Development, Housing and Construction
+
+Secretary of the Ministry of Justice, Public Administration, Home Affairs, Provincial and Local Government Ministry and Labor Ministry - PP. Yasaratne,
+
+Secretary of the Ministry of Environment, Wildlife, Resources, Water Supply, Plantation and Social Infrastructure
 
 ...
 
 [Data](articles/b358788e.json)
+
+[Extended Data](ext_articles/b358788e.ext.json)
 
 ---
 
@@ -122,15 +138,25 @@ President Anura Kumara Dissanayake will make a special statement while addressin
 
 ---
 
-### ஜனாதிபதி நாளை நாட்டு மக்களுக்கு விசேட உரை
+### Special speech to the people of the country tomorrow
 
 *2024-09-24 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194725) · `ta`
 
-புதிய ஜனாதிபதி அநுர குமார திஸாநாயக்க 25ஆம் திகதி புதன்கிழமை இரவு 7.30 மணிக்கு நாட்டு மக்களுக்கு விசேட உரையாற்றவுள்ளார்.
+Here's a 200-character summary:
+
+
+
+"New President Anura Kumara Dissanayake addresses nation tomorrow at 7:30 pm on Wednesday, 25th."
+
+🟩
+
+New President Anura Kumara Dissanayake will address the people of the country at 7.30 pm on Wednesday 25th.
 
 ◼️
 
 [Data](articles/0fc9d1a0.json)
+
+[Extended Data](ext_articles/0fc9d1a0.ext.json)
 
 ---
 
@@ -206,17 +232,23 @@ President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorro
 
 ---
 
-### புதிய ஜனாதிபதிக்கு சவுதி மன்னர் வாழ்த்து
+### Congratulations to the new president
 
 *2024-09-24 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194724) · `ta`
 
-இரண்டு புனிதத் தலங்களின் சேவகரும், சவுதி மன்னருமான ஸல்மான் பின் அப்துல் அஸிஸ் அல் ஸஃஊத் மற்றும், முடிக்குரிய இளவரசரும் சவுதி பிரதமருமான இளவரசர் முஹம்மத் பின் ஸல்மான் ஆகியோர் இலங்கை ஜனநாயக சோசலிசக் குடியரசின் ஜனாதிபதியாக தேர்ந்தெடுக்கப்பட்டு,   சத்தியப்பிரமாணம் செய்துகொண்டுள்ள  அனுர குமார திசாநாயகக்வுகு வாழ்த்துக்களைத் தெரிவித்துள்ளனர்.
+Saudi princes elected as Sri Lanka president. Anura Kumara Dissanayake congratulates, calls for progress and prosperity.
 
-ஜனாதிபதி அனுர குமார திசாநாயக்கவுக்கு வெற்றிகரமான ஆட்சி மற்றும் இலங்கை மக்களுக்கு மேலும் முன்னேற்றமும் வளமும் கிடைக்க  வேண்டுமென பிராத்திப்பதாகவும் தெரிவித்துள்ளனர்.
+🟩
+
+Salman bin Abdul Aziz al -Sa'ud, the servant of the two holy places, and the prince and prince of the Saudi, Prince Muhammad bin Salman, have been elected as the President of the Democratic Socialist Republic of Sri Lanka.
+
+President Anura Kumara Dissanayake has said that the successful regime and the Sri Lankan people have to make more progress and prosperity.
 
 ◼️
 
 [Data](articles/10079085.json)
+
+[Extended Data](ext_articles/10079085.ext.json)
 
 ---
 

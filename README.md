@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 23:22:32**
+As of **2024-09-24 23:39:10**
 
 ## Newspaper Stats
 
-*Scraped **46,088** Articles*
+*Scraped **46,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,053
 adalk | 4,246
 dailymirrorlk | 4,733
 adaderanalk | 5,428
-tamilmirrorlk | 6,160
+tamilmirrorlk | 6,161
 virakesarilk | 7,366
 adaderanasinhalalk | 7,968
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,084 (100.0%) of 46,088 articles have been extended.
+46,089 (100.0%) of 46,089 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,7 +38,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Extraordinary Gazette notification issued by President Anura Kumara Dissanayake dissolving the Parliament of Sri Lanka effective from midnight today (24), has been published by the Department of Government Printing.
 
-The proclamation dissolve Parliament with effect from midnight today and summon the new Parliament to meet on the November 21, 2024.
+The proclamation dissolves Parliament with effect from midnight today and summons the new Parliament to meet on the November 21, 2024.
 
 It has also fixed November 14, 2024 as the date for the election of the new Members of Parliament.
 
@@ -50,31 +50,75 @@ The President has issued the Gazette by virtue of the powers vested in him by Ar
 
 [Data](articles/929561e8.json)
 
+[Extended Data](ext_articles/929561e8.ext.json)
+
 ---
 
-### நவம்பர் 14  பொதுத்தேர்தல்
+### November 14 General Elections
 
 *2024-09-24 22:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பர்-14-பொதுத்தேர்தல்/175-344413) · `ta`
 
-பாராளுமன்றம் தற்போது கலைக்கப்பட்டது. வம்பர் 14ஆம் திகதி பொதுத்தேர்தல் நடைபெறும். 21 ஆம் திகதியன்று புதிய பாராளுமன்றத்தின் கன்னியமர்வு நடைபெறும்.
+General Elections on November 14: Parliament dissolved. New session begins on November 21.
+
+🟩
+
+Parliament is currently dissolved. The General Elections will be held on the 14th. The virginity of the new Parliament will be held on the 21st.
 
 ◼️
 
 [Data](articles/c55c13ea.json)
 
+[Extended Data](ext_articles/c55c13ea.ext.json)
+
 ---
 
-### පාර්ලිමේන්තුව විසුරුවයි - මහමැතිවරණය නොවැම්බර් 14
+### November 14 General Elections
+
+*2024-09-24 22:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/நவம்பர்-14-பொதுத்தேர்தல்/150-344413) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka: Nov 14 general elections announced. Parliament dissolved. New session starts Nov 21. Nomination period Oct 4-11.
+
+🟩
+
+The gazette notification was released with the signing of President Anura Kumara Dissa Nayaka to dissolve parliament.
+
+Accordingly, the parliamentary elections will be held on the 14th of November and the new parliamentary session begins on November 21.
+
+It is also reported that nominations for the parliamentary election will be accepted from October 4 to 11. (A)
+
+◼️
+
+[Data](articles/c7dcb3d2.json)
+
+[Extended Data](ext_articles/c7dcb3d2.ext.json)
+
+---
+
+### Parliament dissolved - General Election November 14
 
 *2024-09-24 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201514) · `si`
 
-අද (24) මධ්‍යම රාත්‍රියේ සිට පාර්ලිමේන්තුව විසුරුවාහැරීමට ජනාධිපතිවරයා තීරණය කර තිබේ.
+Here's a summary of 200 characters:
 
-ඒ අනුව ඔක්තෝබර් මස 04 වන දින සිට ඔක්තෝබර් මස 11 වන දින දහවල් 12 දක්වා කාලය තුළ නාමයෝජනා භාරගැනීමට නියමිතය.
+
+
+Parliament dissolved: General Election set for Nov 14. President announces dissolution effective midnight. Nominations open Oct 4, 12 PM cutoff.
+
+🟩
+
+The President has decided to dissolve Parliament from midnight today.
+
+Accordingly, the nominations are to be accepted on the 4th of October to 12 afternoon.
 
 ◼️
 
 [Data](articles/73e67973.json)
+
+[Extended Data](ext_articles/73e67973.ext.json)
 
 ---
 
@@ -174,7 +218,7 @@ Meanwhile, the Government Printer confirmed that the Gazette notification pertai
 
 The President has issued the Gazette by virtue of the powers vested in him by Article 70 of the Constitution of the Democratic Socialist Republic of Sri Lanka and in pursuance of the provisions of Section 10 of the Parliamentary Elections Act, No. 1 of 1981.
 
-The proclamation dissolve Parliament with effect from midnight today and summon the new Parliament to meet on the November 21, 2024.
+The proclamation dissolves Parliament with effect from midnight today and summons the new Parliament to meet on the November 21, 2024.
 
 It also fixes November 14, 2024 as the date for the election of the new Members of Parliament.
 
@@ -652,19 +696,25 @@ Commercial Bank, Melstakop, LOLC Holdings, Hatton Calding and Ceylon Cold Store 
 
 ---
 
-### පරජයේ වගකීම මම භාර ගන්නවා
+### I take responsibility for the Pornography
 
 *2024-09-24 18:54:04* · [`adalk`](https://www.ada.lk/breaking_news/පරජයේ-වගකීම-මම-භාර-ගන්නවා/11-412122) · `si`
 
-පරාජයේ වගකීම තමන් භාර ගන්නා බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි. සමගි ජන බලවේගයේ පැවැති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු පැවැසීය.
+Sajith Premadasa assumes responsibility for UPFA's defeat. Party appoints him Prime Minister candidate. UNP not joining UPFA. UPFA will contest elections independently.
 
-එසේම ඉදිරි මහ මැතිවරණයේදී සමගි ජන සන්ධානයේ අගමැති අපේක්ෂකයා ලෙස තමන් ඉදිරි පත් කිරීමට පක්ෂය තීන්දු කර ඇති බවත් ඔහු පැවැසීය.
+🟩
 
-එසේම එක්සත් ජාතික පක්ෂය විසින් සකස් කිරිමට යෝජනා කර ඇති සන්ධානයට එක් නොවන බවත් සමගි ජන සන්ධානය ලෙස මැතිවරණයට ඉදිරිපත් වන බවත් ඔහු පැවැසීය.
+Opposition Leader Sajith Premadasa says he will take over the responsibility of defeat. Speaking to the media after a discussion held in the power force, he said.
+
+He also said that the party has decided to appoint himself as the Prime Minister of UPFA at the next general election.
+
+He added that the UPFA is not joining by the UNP and that the UPFA will contest the elections.
 
 ◼️
 
 [Data](articles/6b5c22f5.json)
+
+[Extended Data](ext_articles/6b5c22f5.ext.json)
 
 ---
 
@@ -2413,29 +2463,5 @@ United National Party Deputy Leader Ruwan Wijewardena and Chairman Vajira Abeywa
 [Data](articles/6a695215.json)
 
 [Extended Data](ext_articles/6a695215.ext.json)
-
----
-
-### Ranil Action Resolution
-
-*2024-09-24 12:40:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-அதிரடி-தீர்மானம்/150-344372) · `ta`
-
-Ranil Wickremesinghe: No parliamentary election bid, won't return via national list. Continues as UNP advisor. Decision confirmed by party leaders Ruwan Wijewardena and Vajira Abeywardena.
-
-🟩
-
-Former President and UNP leader Ranil Wickremesinghe has said that he will not contest the parliamentary election.
-
-He also said that he would not come to Parliament again through the national bar.
-
-Subsequently, it is reported that he will continue to act as the UNP adviser.
-
-United National Party Deputy Leader Ruwan Wijewardena and Chairman Vajira Abeywardena confirmed the decision taken by former President Wickremesinghe.
-
-◼️
-
-[Data](articles/a03ba210.json)
-
-[Extended Data](ext_articles/a03ba210.ext.json)
 
 ---

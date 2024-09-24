@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 11:10:26**
+As of **2024-09-24 11:23:11**
 
 ## Newspaper Stats
 
-*Scraped **45,940** Articles*
+*Scraped **45,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 4,219
 dailymirrorlk | 4,733
 adaderanalk | 5,408
 tamilmirrorlk | 6,128
-virakesarilk | 7,329
-adaderanasinhalalk | 7,947
+virakesarilk | 7,338
+adaderanasinhalalk | 7,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,940 (100.0%) of 45,940 articles have been extended.
+45,950 (100.0%) of 45,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Vijitha Herath ordered to appear in court
+
+*2024-09-24 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201493) · `si`
+
+Colombo High Court orders Vijitha Herath to appear November 29 in bribery case against Chandushaja Pathiraja over National Lottery Board promotion deal in 2010. Attorney Namal Rajapaksa requests adjournment.
+
+🟩
+
+The Colombo High Court today (24), the Colombo High Court today (24) was appointed to appear before the court to appear before the court to appear before the court in a bribery case filed by the last good governance.
+
+When the Bribery Commission had filed a case filed by the Bribery Commission, a case filed by the Bribery Commission was taken up against the former Chandushaja Pathiraja against the former Chairman of the Development Lottery Panel.
+
+Attorney-at-Law Namal Rajapaksa appeared before the courts as a member of the Cabinet in the Cabinet of Ministers, he requested to give a different date for evidence.
+
+The General Assembly the General Assembly was ordered to appear again to Vijitha Herath on November 29.
+
+The case had been filed against Chandration Pathiraja against the agreement with a private company in the promotional activities of the National Lottery Board in 2010.
+
+◼️
+
+[Data](articles/c1f32e40.json)
+
+[Extended Data](ext_articles/c1f32e40.ext.json)
+
+---
+
+### New President visited Colombo Thevatakaha Muslim School
+
+*2024-09-24 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194667) · `ta`
+
+President Anura Kumara Dissanayake visited Thevatakaha Muslim School in Colombo, attending religious events on Monday (23).
+
+🟩
+
+President Anura Kumara Dissanayake visited the Thevatakaha Muslim School in Colombo on Monday (23) and attended religious events.
+
+◼️
+
+[Data](articles/c20a2294.json)
+
+[Extended Data](ext_articles/c20a2294.ext.json)
+
+---
 
 ### A statement on Sri Lanka from the International Monetary Fund
 
@@ -73,6 +117,74 @@ No major tremor was observed since the earthquake occurred undersea near the unp
 [Data](articles/61dfccba.json)
 
 [Extended Data](ext_articles/61dfccba.ext.json)
+
+---
+
+### President Anura Kumara Dissanayake should understand that the actual change is not possible without providing a federal solution to the Tamils ​​- MP Gajendrakumar
+
+*2024-09-24 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194659) · `ta`
+
+Here's a 200-character summary:
+
+
+
+MP Gajendrakumar criticizes President Anura Kumara Dissanayake for not addressing Tamil issues. He urges a federal solution for Tamils, emphasizing self-determination and political recognition. The Tamil community largely boycotted the election, showing strong support for Tamil nationalism.
+
+🟩
+
+President Anurakumara Dissanayake should tell the fact that the change of people in the South is incompletely to accept the self -determination of the Tamils, recognize them separately and give them a political solution.. Tamil National People's Front parliamentarian Gajendrakumar Ponnambalam pointed out that he should understand that it would never be possible if he thought it would be possible without providing solutions to the problems of the Tamils.
+
+He pointed out that he was speaking at a special media briefing organized by his residence in Colombo yesterday (23).
+
+The Tamil people of the North and East have expressed their desire in the ninth presidential election of the country held last Saturday (21).
+
+In spite of various challenges and crises that continue for more than 70 years, the Tamil people praise such a firm stand and bow down.
+
+...
+
+[Data](articles/4577f327.json)
+
+[Extended Data](ext_articles/4577f327.ext.json)
+
+---
+
+### New President Anura Kumara Dissanayake met Archbishop
+
+*2024-09-24 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/194662) · `ta`
+
+New Sri Lanka President Anura Kumara Dissanayake met with Archbishop Cardinal Malcolm Ranjith on Monday. The President visited the Archbishop's official residence in Borella and had a brief meeting.
+
+🟩
+
+New President Anura Kumara Dissanayake met with Archbishop Cardinal Malcolm Ranjith Annag of Colombo on Monday (23).
+
+The President visited the official residence of the Archbishop of Borella, met with the Archbishop and inquired for a while.
+
+◼️
+
+[Data](articles/1598a508.json)
+
+[Extended Data](ext_articles/1598a508.ext.json)
+
+---
+
+### World Heads and diplomats congratulate New President Anura Kumara Dissanayake
+
+*2024-09-24 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194660) · `ta`
+
+World leaders congratulate Anura Kumara Dissanayake on his presidency. US State Department pledges cooperation, emphasizing democratic values and national sovereignty. Diplomats from Pakistan, Maldives, India, UK, and France express support, promising strengthened bilateral ties and economic growth.
+
+🟩
+
+The US State Department, which has congratulated Anuragumara Dissanayake, the new president of Sri Lanka, has been prepared to work with the new president to further strengthen mutual relations between the two countries based on the value of democratic and national sovereignty.
+
+Many of the world's leaders, political representatives and diplomats congratulate Anuragumara Dissanayake, the country's ninth executive president.. Accordingly, the issues mentioned in the greeting of the leaders of the world and international diplomats are:
+
+...
+
+[Data](articles/3551c84e.json)
+
+[Extended Data](ext_articles/3551c84e.ext.json)
 
 ---
 
@@ -122,6 +234,32 @@ The Presidential Secretariat has issued a gazette notification for the details o
 
 ---
 
+### I leave the strong financial stock for uninterrupted fuel supply - Kanchana Wijesekera
+
+*2024-09-24 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/194657) · `ta`
+
+Kanchana Wijesekera hands over strong financial stockpile of coal and petroleum products, ensuring uninterrupted fuel and electricity supply.
+
+🟩
+
+Former Electricity and Power Minister Kanchana Wijesekera said that I will hand over a structure with a strong financial situation with the stockpile of sufficient coal and petroleum products that can provide uninterrupted fuel and electricity.
+
+He has uploaded the X website to the X website after handing over vehicles and responsibilities for the ministry on Monday (23).
+
+I have handed over the state vehicles, including the Ministry of Electricity and Shakti, which has a strong financial framework, with the coal reserves that are essential for adequate petroleum production and power supply.
+
+All these structures are in a position to provide positive consequences, including the benefit of redemption of a favorable expenditure service, and the support of the Treasury through additional revenue for distributors.
+
+I thank all those who have cooperated in all ways over the past two years, including former President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/78ac2ca5.json)
+
+[Extended Data](ext_articles/78ac2ca5.ext.json)
+
+---
+
 ### New Cabinet to be sworn in today?
 
 *2024-09-24 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102228/new-cabinet-to-be-sworn-in-today) · `en`
@@ -146,6 +284,28 @@ After the swearing-in of the Cabinet of Ministers, President Dissanayake would c
 
 ---
 
+### Corporation
+
+*2024-09-24 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194658) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Extraordinary 2022 events concluded in recent presidential election."
+
+🟩
+
+The extraordinary events that took place in 2022 have reached their end in the recent presidential election.
+
+◼️
+
+[Data](articles/5249957f.json)
+
+[Extended Data](ext_articles/5249957f.ext.json)
+
+---
+
 ### How Sri Lankans are borrowed by Rs 6.5 billion a day
 
 *2024-09-24 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201489) · `si`
@@ -165,6 +325,52 @@ As a result, a series of new economic reforms should be carried out expeditiousl
 [Data](articles/35fd3966.json)
 
 [Extended Data](ext_articles/35fd3966.ext.json)
+
+---
+
+### Sword attack on private bus driver in Jaffna
+
+*2024-09-24 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194656) · `ta`
+
+Sword attack on bus driver in Jaffna. Driver assaulted near Maniyantottam. Admitted to hospital. Suspicions of harassment involvement.
+
+🟩
+
+Jaffna - Colombo from Jaffna. A sword attack has been attacked by a driver of a private bus heading to the city.
+
+Police said they had attacked the face of two motorcycles on Monday (23) at the 11th Cross Road, Maniyantottam.
+
+The driver has been admitted to the Jaffna Teaching Hospital for treatment.
+
+Jaffna a few days ago. Relatives of the injured have expressed suspicion that the youths have been warned of teasing some girls at the bus station and that the youth have hurt the driver.
+
+◼️
+
+[Data](articles/34a32926.json)
+
+[Extended Data](ext_articles/34a32926.ext.json)
+
+---
+
+### Their visit to the people who want change has made the light of hope - Chandrakumar
+
+*2024-09-24 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194653) · `ta`
+
+Chandrakumar, former MP and Equality Party leader, congratulates new Sri Lankan president. His visit brings hope for change after decades of political stagnation. The Equality Party supports rebuilding Sri Lanka as a prosperous nation in the Indian Ocean.
+
+🟩
+
+Former parliamentarian and general secretary of the Equality Party, who has said that they have been elected as the ninth executive president of Sri Lanka.. Chandrakumar also congratulated the new president.
+
+On behalf of the Equality Party, those who have been elected as the ninth executive president of Sri Lanka, who contributed to a historical victory in the ongoing presidential election.
+
+Sri Lankans who have been waiting for a political change for decades have thrown their arrival and the light of hope. It has been noted that the support and blessing of our party will always be in their efforts to rebuild the Eelam Ocean as a rich country of the Indian Ocean.
+
+◼️
+
+[Data](articles/d463dd68.json)
+
+[Extended Data](ext_articles/d463dd68.ext.json)
 
 ---
 
@@ -191,6 +397,30 @@ Born in Colombo on November 26, 1966, Air Vice Marshal Tubonanu Vishaluwoman stu
 [Data](articles/c3f7d207.json)
 
 [Extended Data](ext_articles/c3f7d207.ext.json)
+
+---
+
+### Elephant death in Majma for 8 days
+
+*2024-09-24 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194655) · `ta`
+
+Elephant dies after 8-day battle in Batticaloa's Majma Nagar. Wildlife team treats but fails to save animal. Community helps provide care during illness.
+
+🟩
+
+An elephant who was fighting for life in Majma Nagar, Batticaloa, Koralaipattu, Koralaipattu, died on Monday (23) evening, said the President of the area Rural Development Association and social activist AL Sameem.
+
+Ottamavadi - Majma Nagar Kovit Center in the area on the 16th of last month has suddenly fell into a sickness.
+
+In the meantime, the Elephant Team of Wildlife Department from Ampara has been treated for treatment of the elephant and the elephant has died yesterday after treatment.
+
+It is also noteworthy that the community activists were involved in providing water and providing food to save the elephant.
+
+◼️
+
+[Data](articles/12211363.json)
+
+[Extended Data](ext_articles/12211363.ext.json)
 
 ---
 
@@ -1250,17 +1480,17 @@ The people of Sri Lanka have spoken. In a historic moment, Anura Kumara Dissanay
 
 ---
 
-### 
+### President  Dissanayake to Appont  Four Member Cabinet Including Himself,  to be in charge of 15 Portfolios. Harini Amarasuria to be Prime Ministe with  Vijitha Herath and Lakshman Nipuna Arachchi as Ministers.Parliament will be Dissolved and Fresh Elections held in December
 
 *2024-09-24 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84782) · `en`
-
-President  Dissanayake to Appont  Four Member Cabinet Including Himself,  to be in charge of 15 Portfolios. Harini Amarasuria to be Prime Ministe with  Vijitha Herath and Lakshman Nipuna Arachchi as Ministers.Parliament will be Dissolved and Fresh Elections held in December
 
 Parliament will be dissolved tonight(24) and a Parliamentary Election will be held by December, the Daily Mirror exclusively learns.
 
 Following the resignation of Dinesh Gunawardena as the Prime Minister yesterday, a senior source from the National People’s Power (NPP) said that President Anura Kumara Dissanayake will today appoint an interim cabinet of four ministers, including himself, where 15 portfolios will be divided within them.
 
 According to a list exclusively obtained by the Daily Mirror, President Dissanayake will keep the Tourism, Defence, Finance, Justice, Industry and Investment Promotion portfolios while the Prime Minister will become the Minister of Foreign Affairs, Education, and Mass Media among others.
+
+NPP MP Dr. Harini Amarasuriya will be sworn in as the Prime Minister while senior MP Vijitha Herath and newly sworn-in MP Lakshman Nipuna Arachchi will be appointed as ministers with several portfolios each.
 
 ...
 
@@ -1895,217 +2125,5 @@ She was announced as an honorable recipient of the prestigious Padma Shri award 
 [Data](articles/13a4e2e3.json)
 
 [Extended Data](ext_articles/13a4e2e3.ext.json)
-
----
-
-### Israel strikes more than 300 Hezbollah targets
-
-*2024-09-23 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102219/israel-strikes-more-than-300-hezbollah-targets) · `en`
-
-Israel unleashed its most widespread wave of airstrikes against hundreds of Hezbollah targets on Monday, killing at least 100 people by Lebanese tallies, and warned citizens to evacuate areas where it said the armed group was storing weapons.
-
-Israel deepened its attacks after some of the heaviest cross-border exchanges of fire in almost a year of conflict, as Israel shifts its focus to its northern border, where Hezbollah has been firing rockets into Israel in support of its ally Hamas which is fighting a war with Israel in Gaza.
-
-“We are deepening our attacks in Lebanon, the actions will continue until we achieve our goal to return the northern residents safely to their homes,” Israeli Defence Minister Yoav Gallant said in a video published by his office on Monday.
-
-“These are days in which the Israeli public will have to show composure.”
-
-He was speaking after the Israeli military targeted Iran-backed Hezbollah in Lebanon’s south, eastern Bekaa valley and northern region near Syria.
-
-...
-
-[Data](articles/92345148.json)
-
-[Extended Data](ext_articles/92345148.ext.json)
-
----
-
-### Senthil Thondaman congratulates President
-
-*2024-09-23 17:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-செந்தில்-தொண்டமான்-வாழ்த்து/175-344324) · `ta`
-
-Senthil Thondaman congratulates Anuragumara Dissanayake, Sri Lanka's new president. He hopes the president will boost the economy within five years and drive national development. Thondaman also thanks hill country voters who supported Wickremesinghe at his party's request.
-
-🟩
-
-Senthil Thondaman, President of the Ceylon Workers Congress and Eastern Governor, said that he congratulates Anuragumara Dissanayake, the ninth president of Sri Lanka.
-
-He said that the new president could be able to bring the country's economy to the country within five years and take the country towards development.
-
-He also thanked the hill country people who voted for former President Ranil Wickremesinghe at the request of his party and thanked the elections to the elections.
-
-◼️
-
-[Data](articles/5ec3892d.json)
-
-[Extended Data](ext_articles/5ec3892d.ext.json)
-
----
-
-### Special message from Speaker
-
-*2024-09-23 17:32:03* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකගෙන්-ජනපතිට-විශේෂ-පණිවිඩයක්/11-412093) · `si`
-
-Sri Lanka's President-elect Mahinda Yapa Abeywardena greets citizens. The Speaker highlights peaceful elections as a victory. Public trust in Minister Anura Kumara Dissanayake strengthens Parliament democracy. Sri Lanka embarks on a new journey under the executive president. General Secretary Kushapitiya Rohana leads the National Secretariat alongside Deputy Secretary-General Maminda Kararatne and Assistant Secretary-General Hansa Abeyratne.
-
-🟩
-
-President Mahinda Yapa Abeywardena, the newly elected representative president of Sri Lanka, issues official greeting a greeting message.
-
-The Elections Commission has officially proved that Sri Lankan citizens have been officially proved to be the new pilot to move their motherland to the future of the country.The Speaker has stated that his observation is insight.
-
-The Speaker points out that the honor of acquiring such a result without the violence of the serious election violence is a definitely victory for the defendance of the election.
-
-Speaker also pointed out that the public confidence in the public confidence in Minister Anura Kumara Dissanayake is a prolonged to the lengthy of Parliament democracy. Today he is not a convenient challenge and identifies the variations of our socio-economic political body's variations, the Speaker said.
-
-The Speaker states that Sri Lanka will bring good luck with a new executive president with a new journey with a new journey.
-
-...
-
-[Data](articles/b694cd36.json)
-
-[Extended Data](ext_articles/b694cd36.ext.json)
-
----
-
-### Officer suspected to be released scholarships
-
-*2024-09-23 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201477) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National Institute of Education officer accused of leaking exam questions. Remanded until Oct 5. Police investigation reveals 57-year-old suspect ejected questions from test paper.
-
-🟩
-
-The Director of the Planning Division of the National Institute of Education, the National Education Institute of the National Education, has been remanded until October 5.
-
-The Kaduwela Magistrate was given the order by the Ada Derana reporter today.
-
-Police investigations have revealed that the 57-year-old suspect had ejected several questions on the question paper and was arrested by a team of officers of the CID.
-
-◼️
-
-[Data](articles/082fd2cc.json)
-
-[Extended Data](ext_articles/082fd2cc.ext.json)
-
----
-
-### Lakshman to the vacuum;Gazette notification
-
-*2024-09-23 17:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றிடத்திற்கு-லக்ஷ்மன்-வர்த்தமானி-அறிவித்தல்/175-344323) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Colombo Election District: Gazette notification issued for Lakshman Expert Arachchi's election as MP, replacing Anura Kumara Dissanayake after his presidential oath.
-
-🟩
-
-The gazette notification for the election of Lakshman Expert Arachchi has been issued as a member of the Colombo Election District Parliamentarian for the vacancy caused by Anura Kumara Dissanayake, who was sworn in as president.
-
-◼️
-
-[Data](articles/10486130.json)
-
-[Extended Data](ext_articles/10486130.ext.json)
-
----
-
-### Lakshman to the vacuum;Publish
-
-*2024-09-23 17:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றிடத்திற்கு-லக்ஷ்மன்-வர்த்தமானி-அறிவித்தல்-வெளியிடு/175-344323) · `ta`
-
-Lakshman Nipuna Arachchi elected to fill vacancy in Colombo Election District Parliament after Anuragumara Dissanayake became president. Gazette notification published.
-
-🟩
-
-The gazette notification for the election of Lakshman Nipuna Arachchi has been released as a member of the Colombo Election District Parliamentarian for the vacancy caused by Anuragumara Dissanayake, who was sworn in as president.
-
-◼️
-
-[Data](articles/46176efe.json)
-
-[Extended Data](ext_articles/46176efe.ext.json)
-
----
-
-### NIE Director remanded over scholarship exam paper ‘leak’
-
-*2024-09-23 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102218/nie-director-remanded-over-scholarship-exam-paper-leak-) · `en`
-
-The Director of the Planning Division of the National Institute of Education (NIE) in Maharagama, who was arrested by the Criminal Investigations Department (CID) over the Grade 5 scholarship examination question paper issue, has been ordered to be remanded until October 07.
-
-This order was issued after the arrested 57-year-old was produced before the Kaduwela Magistrate’s Court, Ada Derana reporter said.
-
-The suspect, who had also served as a member in the committee that had prepared the question paper of the Grade 5 Scholarship examination, was arrested on Sunday (23) for allegedly providing confidential information pertaining to the question papers of the Grade 5 Scholarship exam to outside parties, police said.
-
-...
-
-[Data](articles/5c8ab123.json)
-
-[Extended Data](ext_articles/5c8ab123.ext.json)
-
----
-
-### Explanation for Sunil Premaratne
-
-*2024-09-23 17:14:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுனில்-பிரேமரத்னவுக்கு-விளக்கமறியல்/175-344322) · `ta`
-
-Sunil Premaratne, director of Maharagama National Institute of Education's planning unit, arrested over Grade 5 Scholarship Exam 2024 question controversy. Kaduwela Magistrate Sunima Wijebandara issued order.
-
-🟩
-
-Kaduwela Magistrate Sunima Wijebandara has ordered Sunil Premaratne, the Director of the Planning Unit of the Maharagama National Institute of Education, who was arrested in connection with the incident of the Grade 5 Scholarship Examination Questionnaire for 2024.
-
-◼️
-
-[Data](articles/e87c749a.json)
-
-[Extended Data](ext_articles/e87c749a.ext.json)
-
----
-
-### Increase in all stock price index
-
-*2024-09-23 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201476) · `si`
-
-Colombo Stock Exchange CSE saw significant increase in stock prices today. Price index rose by 130.30 points, ending at 11,096.81 units. This represents a substantial growth in overall market value.
-
-🟩
-
-The Colombo Stock Exchange (CSE) was seen in the price indicators today (23). The price index has increased by 130.30 points.
-
-At the end of the day, all stock price index indicated at 11,096.81 units.
-
-◼️
-
-[Data](articles/6496e7bb.json)
-
-[Extended Data](ext_articles/6496e7bb.ext.json)
-
----
-
-### Here is another appointment made by the president
-
-*2024-09-23 17:06:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සිදු-කළ-තවත්-පත්-කිරීමක්-මෙන්න/11-412092) · `si`
-
-President Anura Kumara Dissanayake appoints Kananda Wijayapala as Presidential Private Secretary.
-
-🟩
-
-President Anura Kumara Dissanayake has appointed another appointment.
-
-Accordingly, Mr. Kananda Wijayapala has been appointed as the Presidential Private Secretary.
-
-◼️
-
-[Data](articles/c69bbc55.json)
-
-[Extended Data](ext_articles/c69bbc55.ext.json)
 
 ---

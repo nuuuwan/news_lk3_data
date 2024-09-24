@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 01:38:17**
+As of **2024-09-25 01:57:41**
 
 ## Newspaper Stats
 
-*Scraped **46,100** Articles*
+*Scraped **46,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 4,247
 dailymirrorlk | 4,733
 adaderanalk | 5,428
 tamilmirrorlk | 6,161
-virakesarilk | 7,366
+virakesarilk | 7,368
 adaderanasinhalalk | 7,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,100 (100.0%) of 46,100 articles have been extended.
+46,102 (100.0%) of 46,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### We hope that President Anura Kumara Dissanayake will fulfill the confidence of the people -Vajira Abeywardena
+
+*2024-09-24 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194731) · `ta`
+
+UNP MP Vajira Abeywardena hopes President Anura Kumara Dissanayake fulfills public trust after Ranil Wickremesinghe's IMF-backed rescue.
+
+🟩
+
+Ranil Wickremesinghe has rescued the country with the help of the International Monetary Fund and handed over the responsibility to President Anura Kumara Dissanayake.. "We hope the new president will fulfill that responsibility," said UNP MP Vajira Abeywardena.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (24).
+
+Ranil Wickremesinghe, who contested as an independent candidate in the presidential election, voted for various political positions. We thank them as our party.
+
+Similarly, more than 42 percent of the people in the country should cooperate with the new President Anuragumara Dissanayake, or to implement the issues stated in the election policy proposed by him.. People are hugely anticipated to implement the stated issues.
+
+...
+
+[Data](articles/0c8b8581.json)
+
+[Extended Data](ext_articles/0c8b8581.ext.json)
+
+---
+
+### Parliament dissolves at midnight today!
+
+*2024-09-24 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194728) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Parliament dissolved: President signs Gazette, effective midnight Tuesday 24th. Document sent to Government Print Department."
+
+🟩
+
+It is reported that the Gazette to dissolve Parliament from midnight on Tuesday 24th is signed by President Anura Kumara Dissanayake and has been sent to the Government Print Department.
+
+◼️
+
+[Data](articles/930fd044.json)
+
+[Extended Data](ext_articles/930fd044.ext.json)
+
+---
 
 ### Sri Lanka’s General Election on November 14
 
@@ -145,28 +191,6 @@ It is estimated to cost 11 billion rupees to hold the general election. Treasury
 [Data](articles/2dd030c8.json)
 
 [Extended Data](ext_articles/2dd030c8.ext.json)
-
----
-
-### Parliament dissolves at midnight today!
-
-*2024-09-24 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194728) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Parliament dissolved: President signs Gazette, effective midnight Tuesday 24th. Document sent to Government Print Department."
-
-🟩
-
-It is reported that the Gazette to dissolve Parliament from midnight on Tuesday 24th is signed by President Anura Kumara Dissanayake and has been sent to the Government Print Department.
-
-◼️
-
-[Data](articles/930fd044.json)
-
-[Extended Data](ext_articles/930fd044.ext.json)
 
 ---
 
@@ -833,6 +857,30 @@ However, he had not yet decided as a party as a party regarding whether he suppo
 [Data](articles/7066d706.json)
 
 [Extended Data](ext_articles/7066d706.ext.json)
+
+---
+
+### We will talk about the new government on the time of third phase review - the International Monetary Fund Notification
+
+*2024-09-24 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194716) · `ta`
+
+Sri Lanka's new government, led by President Anura Kumara Dissanayake, aims to work with the IMF to recover from economic crisis. The IMF plans to conduct its third phase review of Sri Lanka's financial system with the new administration.
+
+🟩
+
+The International Monetary Fund said that President Anura Kumara Dissanayake and his team were looking forward to working with the target of contributing to hard efforts to contribute to Sri Lanka's recovery from the most economic crisis.
+
+The election to elect the ninth executive president of the country was held last Saturday. Earlier, the economic recovery and negotiations with the International Monetary Fund were the main speech of the campaigns carried out by all candidates nationwide.
+
+At a media briefing in Washington before the election, Julie Kozak, Director of the International Monetary Fund Communications Division, stressed that the country's economic situation has yet to be fully recovered, but it is necessary to protect the directors that have been reached through the crisis.
+
+He also said that the third phase of the review of the expanded financial system of the Monetary Fund will be held with the new government, which is elected through the upcoming presidential election.
+
+...
+
+[Data](articles/c7847296.json)
+
+[Extended Data](ext_articles/c7847296.ext.json)
 
 ---
 
@@ -2391,57 +2439,5 @@ Speaking at the election campaign office located in Colombo, Colombo. Although h
 [Data](articles/02c41ff2.json)
 
 [Extended Data](ext_articles/02c41ff2.ext.json)
-
----
-
-### Tips to Sajoba from UNP deputy leader
-
-*2024-09-24 13:40:05* · [`adalk`](https://www.ada.lk/breaking_news/සියලු-දෙනා-එක්ව-මහ-මැතිවරණයට-තරග-කරමු--එජාප-නියෝජ්‍ය-නායකගෙන්-සජබට-යෝජනාවක්/11-412111) · `si`
-
-UNP Deputy Leader Ruwan Wijewardene proposes competing in next general election. Ranil Wickremesinghe declines participation. Party seeks leadership from experienced members.
-
-🟩
-
-Deputy Leader of the UNP MP Ruwan Wijewardene said that the proposal to compete in the next general election is proposed to be constantly.
-
-He was speaking at a media briefing held in Colombo today (24) he said.
-
-"Ranil Wickremesinghe has decided not to present the general election.. Also, the national list has no intention of hearing. And as a senior man, as a former president, we offer the leadership of our Leader. But he does not come forward at general election. We look forward to awaiting the general election.. We suggest the leadership of the unique people and the party to the party. "
-
-◼️
-
-[Data](articles/93932624.json)
-
-[Extended Data](ext_articles/93932624.ext.json)
-
----
-
-### Maskeliya student Abhinaya's humanity
-
-*2024-09-24 13:32:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஸ்கெலியா-மாணவி-அபிநயாவின்-மனிதநேயம்/76-344377) · `ta`
-
-Abhinaya, a high school student, found a gold necklace and cash on the road. She turned it over to the police and school authorities. Her honesty earned praise from teachers and the item's owner.
-
-🟩
-
-Not everyone can do it. They want a mind for that. Balakrishnan Abhinaya, a high school student at the Maskeliya Sen Joseph National School, has made it a role model for all the other student community.
-
-Student Balakrishnan Abhinaya has handed over a half -pound gold tali on the highway.
-
-The student found a half-pound gold tali and 3000 rupees of money lying on the main road in Amman Temple on Maskeliya-Samimalai Road on Tuesday morning.
-
-They have been handed over to the police officer G. Wigneswaran, who was on duty in the area and informed the school principal N. Parameswaran.
-
-Maskeliya Police Station Superintendent SAS.Brought to the attention of Puspakumara.
-
-During the investigation, Maskeliya Brownweek was identified as the owner of the items in the Queen of the Queen of Maskeliya.
-
-The items were handed over to the owner in the presence of Pushpakumara in charge of the police station.
-
-...
-
-[Data](articles/581fe27a.json)
-
-[Extended Data](ext_articles/581fe27a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 15:09:13**
+As of **2024-09-24 15:22:46**
 
 ## Newspaper Stats
 
-*Scraped **46,004** Articles*
+*Scraped **46,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,781
 dailyftlk | 3,053
 adalk | 4,229
 dailymirrorlk | 4,733
-adaderanalk | 5,415
+adaderanalk | 5,416
 tamilmirrorlk | 6,142
 virakesarilk | 7,346
-adaderanasinhalalk | 7,953
+adaderanasinhalalk | 7,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,004 (100.0%) of 46,004 articles have been extended.
+46,006 (100.0%) of 46,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Harini Amarasuriya sworn-in as Prime Minister
+
+*2024-09-24 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102239/-harini-amarasuriya-sworn-in-as-prime-minister) · `en`
+
+National People’s Power (NPP) MP Dr. Harini Amarasuriya has been sworn-in as the new Prime Minister of Sri Lanka, a short while ago.
+
+She was sworn-in before President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo.
+
+Accordingly, she is the third female Prime Minister in the history of Sri Lanka.
+
+◼️
+
+[Data](articles/19fadccf.json)
+
+[Extended Data](ext_articles/19fadccf.ext.json)
+
+---
+
+### New Prime Minister sworn in
+
+*2024-09-24 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201499) · `si`
+
+Dr. Harini Amarasuriya sworn in as Prime Minister by President Anura Kumara Dissanayake.
+
+🟩
+
+Dr. Harini Amarasuriya has been sworn in before President Anura Kumara Dissanayake as the Prime Minister of the New Government.
+
+◼️
+
+[Data](articles/f6f0fa41.json)
+
+[Extended Data](ext_articles/f6f0fa41.ext.json)
+
+---
 
 ### Roshan Gunathilake resigns as Western Province Governor
 
@@ -2315,37 +2351,5 @@ Former Member of Parliament K.D. Lal Kantha was also present on this occasion.
 [Data](articles/128c6a81.json)
 
 [Extended Data](ext_articles/128c6a81.ext.json)
-
----
-
-### UAE President congratulates AKD
-
-*2024-09-24 03:55:02* · [`dailyftlk`](https://www.ft.lk/news/UAE-President-congratulates-AKD/56-767075) · `en`
-
-United Arab Emirates President Sheikh Mohamed bin Zayed Al Nahyan has extended his best wishes to newly elected President Anura Kumara Dissanayake.
-
-“I wish him success in leading his country and its people to further progress and stability, and I look forward to working with him to strengthen bilateral relations between the UAE and Sri Lanka,” the UAE President said in a post on X.
-
-◼️
-
-[Data](articles/3cef8c8a.json)
-
-[Extended Data](ext_articles/3cef8c8a.ext.json)
-
----
-
-### Japan envoy calls on new President; pledges support
-
-*2024-09-24 03:43:31* · [`dailyftlk`](https://www.ft.lk/news/Japan-envoy-calls-on-new-President-pledges-support/56-767074) · `en`
-
-Japanese Ambassador Mizukoshi Hideaki yesterday paid a courtesy call on the newly elected President Anura Kumara Dissanayake shortly after the swearing-in ceremony at the Presidential Secretariat.
-
-Ambassador Mizukoshi conveyed his heartfelt congratulations on the President’s victory in the election and on the people of Sri Lanka’s participation in the democratic process. The Ambassador also expressed his readiness to support the President in his endeavour to rebuild the economy of Sri Lanka.
-
-◼️
-
-[Data](articles/486ee159.json)
-
-[Extended Data](ext_articles/486ee159.ext.json)
 
 ---

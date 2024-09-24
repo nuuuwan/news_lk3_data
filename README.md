@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 00:38:29**
+As of **2024-09-25 00:54:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,090 (100.0%) of 46,100 articles have been extended.
+46,099 (100.0%) of 46,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -227,6 +227,8 @@ Harini Amarasuriya was made Prime Minister. President Dissanayake kept the Finan
 ◼️
 
 [Data](articles/944be042.json)
+
+[Extended Data](ext_articles/944be042.ext.json)
 
 ---
 
@@ -600,6 +602,8 @@ They will run the ministries until general elections are concluded.
 
 [Data](articles/8b402e9a.json)
 
+[Extended Data](ext_articles/8b402e9a.ext.json)
+
 ---
 
 ### 11 months of the 11 months of security guard at hospital
@@ -649,6 +653,8 @@ President is expected to dissolve parliament calling for snap polls. (Colombo/Au
 ◼️
 
 [Data](articles/4e41305e.json)
+
+[Extended Data](ext_articles/4e41305e.ext.json)
 
 ---
 
@@ -803,6 +809,8 @@ Trade, Commercial, Food Security, Co-operative Development, Industries and Entre
 ...
 
 [Data](articles/35c19eae.json)
+
+[Extended Data](ext_articles/35c19eae.ext.json)
 
 ---
 
@@ -1326,6 +1334,8 @@ A bond maturing on 15.06.2029 closed at 13.20/28 percent down from 13.55/65 perc
 
 [Data](articles/eee24562.json)
 
+[Extended Data](ext_articles/eee24562.ext.json)
+
 ---
 
 ### A statement from the new Prime Minister about the confidence of the people - a hint of dissolutionizing Parliament
@@ -1375,6 +1385,8 @@ Sri Lanka saw a peaceful transition of power, but investors are still awaiting a
 ◼️
 
 [Data](articles/e285f516.json)
+
+[Extended Data](ext_articles/e285f516.ext.json)
 
 ---
 
@@ -2040,6 +2052,8 @@ NPP parliamentarians Vijith Herath and Lakshman Nipunaarachchi were also sworn i
 
 [Data](articles/1a972200.json)
 
+[Extended Data](ext_articles/1a972200.ext.json)
+
 ---
 
 ### New Prime Minister sworn in
@@ -2078,6 +2092,8 @@ Courts ordered the old process to be re-instated, but the Department of Immigrat
 
 [Data](articles/ed9be65e.json)
 
+[Extended Data](ext_articles/ed9be65e.ext.json)
+
 ---
 
 ### Sri Lanka former president won’t contest elections, his party stalwarts say
@@ -2095,6 +2111,8 @@ Wijewardene said the UNP has invited senior members of the SJB for discussions o
 ...
 
 [Data](articles/1b3ea8db.json)
+
+[Extended Data](ext_articles/1b3ea8db.ext.json)
 
 ---
 

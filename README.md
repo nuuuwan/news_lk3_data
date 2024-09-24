@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 09:23:09**
+As of **2024-09-24 09:39:16**
 
 ## Newspaper Stats
 
-*Scraped **45,928** Articles*
+*Scraped **45,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,773
 dailyftlk | 3,053
-adalk | 4,216
+adalk | 4,218
 dailymirrorlk | 4,733
 adaderanalk | 5,406
 tamilmirrorlk | 6,126
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,944
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,928 (100.0%) of 45,928 articles have been extended.
+45,930 (100.0%) of 45,930 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,32 @@ In every case of security noise, he said that Sri Lankans working in the norther
 [Data](articles/97e6aa8b.json)
 
 [Extended Data](ext_articles/97e6aa8b.ext.json)
+
+---
+
+### New President assumed Presidential post for five years
+
+*2024-09-24 09:08:22* · [`adalk`](https://www.ada.lk/breaking_news/නව-ජනපති-වසර-පහකට-ජනාධිපති-ධුරය-භාරගත්-බවට-ගැසට්ටුවක්/11-412100) · `si`
+
+Here's a 200-character summary:
+
+
+
+Anura Kumara Dissanayake elected President for 5 years. Gazetted under 32nd Constitution, 47th Sub-Registration. New President Dr. NSumantay issues gazette notification.
+
+🟩
+
+Anura Kumara Dissanayake was elected President by the Presidential Election, announcing a special gazette notification, declaring that he accepted the presidency for five years.
+
+Anura Kumara Dissanayake was signed by the 32nd Constitution of the Constitution and the 47th Sub-Regreignment of the Constitution and in the Seventh Sub Register, the Democratic Socialist Republic of Sri LankaThe gazette announced that the presidency was handed over.
+
+The gazette notification was issued by the new President Dr. NSumantay yesterday.
+
+◼️
+
+[Data](articles/dfdb7a7b.json)
+
+[Extended Data](ext_articles/dfdb7a7b.ext.json)
 
 ---
 
@@ -335,6 +361,28 @@ Nipuna Arachchi yesterday sworn in as a Member of Parliament for the vacancy cau
 [Data](articles/77d3f450.json)
 
 [Extended Data](ext_articles/77d3f450.ext.json)
+
+---
+
+### Missing of three fishermen
+
+*2024-09-24 07:46:53* · [`adalk`](https://www.ada.lk/breaking_news/ධීවරයින්-තිදෙනෙක්-සමග-යාත්‍රාවක්-අතුරුදන්/11-412098) · `si`
+
+Three fishermen missing: Kudawella harbor, Mihinthiye, Nakulugoda locations. Family seeks help at Tangalle headquarters.
+
+🟩
+
+The fishing vessel with three fishermen from the Kudawella Fisheries Harbor to be fishermen at the Kudawella Fisheries Harbor said.
+
+Three fishing youths who have been living in Kudawella, who is missing in the Mihinthiye, who is missing at the Nakulugoda Seennimodara West Malugara, police said.
+
+The fishermen's family had come to the Tangalle Headquarters, the Kudavella Fisheries Harbor to look into the disappearance vessel.
+
+◼️
+
+[Data](articles/5036141e.json)
+
+[Extended Data](ext_articles/5036141e.ext.json)
 
 ---
 
@@ -2069,59 +2117,5 @@ Earlier today (23), the Secretary General of Parliament, Mrs. Kushani Rohanadeer
 [Data](articles/0ad2b19a.json)
 
 [Extended Data](ext_articles/0ad2b19a.ext.json)
-
----
-
-### I am ending political life - Ali Sabri
-
-*2024-09-23 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/194632) · `ta`
-
-Ali Sabri ends political career, becomes Sri Lanka's Foreign Minister. Expresses gratitude for support during challenging times, including economic crisis and war. Proud of contributions despite sacrifices. Looks forward to returning to legal field.
-
-🟩
-
-Alisabri will work as the Minister of Foreign Affairs in Sri Lanka and end his political career
-
-I would like to express my sincere gratitude to all those who supported, guided and constructively criticized my efforts.
-
-When I set foot in politics in 2019, I was motivated by a clear view in the field I dedicated to the majority of my life, especially in order to serve my country.
-
-The Govt 19 Ground, and the subsequent war in Ukraine, and its serious long -standing, have affected international stability. This has led to the worst crisis in our country's history.
-
-During these difficult times, I had the honor to serve in many positions, and as the Minister of Finance and Finance Minister finally as Minister of Finance.
-
-As the Minister of Foreign Affairs, the global leaders and diplomats had the opportunity to meet leaders of international organizations.
-
-...
-
-[Data](articles/20d69802.json)
-
-[Extended Data](ext_articles/20d69802.ext.json)
-
----
-
-### Anura Kumara Dissanayake sworn in as the new president;Success
-
-*2024-09-23 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194630) · `ta`
-
-Anura Kumara Dissanayake inaugurated as Sri Lanka's 9th president. Sworn in by Chief Justice Jayantha Jayasuriya. Celebratory event in Mannar district. Promised solutions to local issues.
-
-🟩
-
-Anurakumara Dissanayake was elected as the 9th Executive President of Sri Lanka and was sworn in as Chief Justice Jayantha Jayasuriya in the presence of Chief Justice on Monday (23).
-
-The victory celebration was held at Mannar today (23) at 11.30 am.
-
-The event was organized by the Mannar District Branch of the National People's Power in the Mannar Bazaar area.
-
-Pongal Pongi was given to the people and celebrated their success in peace.
-
-He demanded an immediate solution to some issues in the Mannar district, which he promised.
-
-◼️
-
-[Data](articles/f5cb064d.json)
-
-[Extended Data](ext_articles/f5cb064d.ext.json)
 
 ---

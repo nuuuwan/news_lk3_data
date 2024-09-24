@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 12:56:56**
+As of **2024-09-24 13:07:50**
 
 ## Newspaper Stats
 
-*Scraped **45,970** Articles*
+*Scraped **45,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,118 @@ adalk | 4,226
 dailymirrorlk | 4,733
 adaderanalk | 5,412
 tamilmirrorlk | 6,132
-virakesarilk | 7,341
-adaderanasinhalalk | 7,950
+virakesarilk | 7,344
+adaderanasinhalalk | 7,951
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,970 (100.0%) of 45,970 articles have been extended.
+45,974 (100.0%) of 45,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Ranil's decision
+
+*2024-09-24 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201496) · `si`
+
+Ranil Wickremesinghe contests general election as UNP Deputy Leader Ruwan Wijewardena confirms. Former president does not seek parliamentary seat via national list.
+
+🟩
+
+Deputy Leader of the UNP, Ruwan Wijewardena said former President Ranil Wickremesinghe is contesting the general election.
+
+He added that the former President does not expect parliament from the national list.
+
+◼️
+
+[Data](articles/176502cc.json)
+
+[Extended Data](ext_articles/176502cc.ext.json)
+
+---
+
+### Mysterious City of the United States
+
+*2024-09-24 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194676) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Bodie: A former California mining town turned ghost town due to gold depletion and violent crimes. Now shrouded in paranormal legends and curses, it attracts curious tourists despite its abandoned state.
+
+🟩
+
+Superstitious beliefs and customs should be said to be the only people living in the lower countries.. People in the West have some bizarre customs.
+
+The number 13 is viewed as a dagger number in the United States. There are no rooms in number 13 in many hotels. There are no 13th digits for the order and homes in some streets.
+
+Thus, a city with mysterious beliefs and habits is in California. The place, which was considered a lucky place in the late 19th century, is a cursed city today.
+
+This is an example of the fact that Americans believe in curses. The name of this city is Bodie. What happened to this city?Why is it a curse?What happened to Bodi, which was once a very fortunate city?Come on.
+
+In 1876 William S, Bode (William S. Bodey) found this village. Because of this, the village became the name of Bodi when the village became a city with prosperity.Bode first knew that there was gold in the area. The village then became a lucky place to many.
+
+...
+
+[Data](articles/835658ef.json)
+
+[Extended Data](ext_articles/835658ef.ext.json)
+
+---
+
+### Sri Lanka does not want to get caught up in geopolitical competition between India and China - New President Anurakumara
+
+*2024-09-24 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194683) · `ta`
+
+Sri Lanka's new President Anura Kumaratisanayake emphasizes neutrality in geopolitical conflicts, seeking balanced relations with both India and China while maintaining ties with other regions.
+
+🟩
+
+For India;New President Anura Kumaratisanayake has said that Sri Lanka does not want to be in a generic political conflict between China.
+
+He has expressed his desire for the attitude of a strong independent foreign policy.
+
+In an interview with an international magazine, Anura Kumaratisanayake has issued his government's desire to withdraw from geopolitical conflicts.
+
+Under his leadership, the National People's Power Government, which is the two closest neighboring countries of Sri Lanka, will not try to join a mentioned country, saying that China is trying to maintain balanced relations with India.
+
+Sri Lanka's new president has said that we will not become part of the geopolitical conflict and we will not join any party.
+
+We want to become close colleagues under our government, ”said Anuragumaratisanayake.
+
+We want to maintain a good relationship with European Middle East Africa, ”he said.
+
+...
+
+[Data](articles/9d55740d.json)
+
+[Extended Data](ext_articles/9d55740d.ext.json)
+
+---
+
+### Ranil Wickremesinghe's action decision!
+
+*2024-09-24 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194682) · `ta`
+
+Former President Ranil Wickremesinghe won't run in general election or join parliament via national list, according to Ruwan Wijewardena.
+
+🟩
+
+Ruwan Wijewardena has said that former President Ranil Wickremesinghe will no longer contest the general election.
+
+Meanwhile, Ruwan Wijewardena has said that he will not enter Parliament through the national list.
+
+◼️
+
+[Data](articles/097d26e8.json)
+
+[Extended Data](ext_articles/097d26e8.ext.json)
+
+---
 
 ### EU assures support to Sri Lanka’s new president for reforms
 
@@ -2063,91 +2163,5 @@ The stock exchange was initially highly volatile yesterday as it kicked off amid
 [Data](articles/ae774143.json)
 
 [Extended Data](ext_articles/ae774143.ext.json)
-
----
-
-### SJB joins the UNP;Ranil's diplomacy
-
-*2024-09-23 22:15:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/UNP-யுடன்-இணையும்-SJB-ரணிலின்-இராஜதந்திரம்/175-344337) · `ta`
-
-SJB joins UNP; Ranil leads talks. Parties unite for elections against NPP-JVP alliance. Key UNP members attend meeting.
-
-🟩
-
-A popular media reported that a meeting with senior members of the United National Party (UNP) led by former President Ranil Wickremesinghe took place this evening.
-
-A senior member of the United National Party (UNP) has said that the United National Party has decided to join the United National Party (SJB) to contest the upcoming parliamentary elections.
-
-Considering the public's demand for the reunion of both parties, the upcoming parliamentary election has been called for.
-
-The senior member of the United National Party further stated that it was decided to hold discussions with other parties against the National People's Power (NPP) led by the Janatha Vimukthi Peramuna (JVP).
-
-United National Party Deputy Leader Ruwan Wijewardena and Dalada Attukorala were also present at the meeting.. Remble
-
-◼️
-
-[Data](articles/d4079527.json)
-
-[Extended Data](ext_articles/d4079527.ext.json)
-
----
-
-### Former Sri Lankan President Gotabaya arrives in Kathmandu - report
-
-*2024-09-23 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102223/former-sri-lankan-president-gotabaya-arrives-in-kathmandu-report) · `en`
-
-Former president of Sri Lanka Gotabaya Rajapaksa has landed at the Tribhuvan International Airport in Kathmandu, Nepal via Sri Lankan Airlines on Monday.
-
-A source within the embassy stated that he has plans to visit different Buddhist sites and is also scheduled to visit Bharatpur.
-
-It is reported that Rajapaksa is believed to have close ties with the Chaudhary Group, which has investments in various sectors in Sri Lanka and has been inviting him to visit Nepal. This trip is more personal and family-oriented rather than political.
-
-Rajapaksa will be staying at Hotel Vivanta in Jhamsikhel today.
-
-Following a massive uprising in Sri Lanka, Rajapaksa had to flee the country two years ago. He later returned to Sri Lanka.
-
-In Sri Lanka, the newly elected President Anura Kumara Dissanayake, who is Marxist-leaning, was sworn in today.
-
-◼️
-
-[Data](articles/e3bed3b7.json)
-
-[Extended Data](ext_articles/e3bed3b7.ext.json)
-
----
-
-### Ananda Wijebala appoints the President's Private Secretary
-
-*2024-09-23 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194638) · `ta`
-
-Ananda Wijebala, National Organizer of National People's Power, appointed as President's Private Secretary. Previously served as party's exclusive secretary and Anti-Corruption Secretariat head.
-
-🟩
-
-The National Organizer of the National People's Power, Ananda Wijepala has been appointed as the Exclusive Secretary of President Anura Kumara Dissanayake.
-
-Ananda Wijebala has long been the exclusive secretary of the National People's Power.He also served as the Secretary of the Anti -Corruption Secretariat established under the Government of Good Governance.
-
-◼️
-
-[Data](articles/4dba251d.json)
-
-[Extended Data](ext_articles/4dba251d.ext.json)
-
----
-
-### Presidents May Come and  Presidents May Go but JR Jayewardene’s Executive Presidency Goes on Forever.
-
-*2024-09-23 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84762) · `en`
-
-Sri Lanka’s ninth presidential election will be held  on Saturday the 21st of September. More than 17 million (17,140, 354)  Sri Lankans are registered as eligible voters. Nominally thirty-eight candidates are in the ring but only three are regarded as  te leading contenders. The hectic election campaigns ended on Sep 18 but election fever is high.  A large voter turn out is expected on election day.
-
-It is indeed an irony that there is so much of enthusiasm  over the election of the executive president  despite the criticism directed against the executive presidential system in past  years. The executive presidency is blamed extensively on the one hand while the country gets involved in  presidential poll excitement on the other.
-
-...
-
-[Data](articles/eabab93d.json)
-
-[Extended Data](ext_articles/eabab93d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 00:23:55**
+As of **2024-09-25 00:38:29**
 
 ## Newspaper Stats
 
-*Scraped **46,090** Articles*
+*Scraped **46,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 384
 bbccomsinhala | 452
 colombotelegraphcom | 458
 islandlk | 2,696
-economynextcom | 2,781
+economynextcom | 2,791
 dailyftlk | 3,053
 adalk | 4,247
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,090 (100.0%) of 46,090 articles have been extended.
+46,090 (100.0%) of 46,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -203,6 +203,30 @@ When we reach the site, a group was still trying to dig soil.
 [Data](articles/56368b43.json)
 
 [Extended Data](ext_articles/56368b43.ext.json)
+
+---
+
+### Sri Lanka President dissolves parliament, election Nov 14
+
+*2024-09-24 22:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-dissolves-parliament-election-nov-14-180845/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has signed a gazette notice dissolving parliament, calling elections on November 14.
+
+President Dissanayake was elected with 42 percent of the vote, the first time a president had been elected below 50 percent of the vote.
+
+He had only three members in the current legislature. Following his resignation, another member was appointed to fill his vacancy.
+
+Earlier on Tuesday he appointed a cabinet of three, distributing 15 ministries among them.
+
+Sri Lanka sets up 15 ministries ahead of polls, Treasury secretary re-appointed
+
+Sri Lanka leader appoints smallest Cabinet in history before dissolving parliament
+
+Harini Amarasuriya was made Prime Minister. President Dissanayake kept the Finance Ministry and Vijitha Herath was made Foreign Minister. (Colombo/Aug24/2024)
+
+◼️
+
+[Data](articles/944be042.json)
 
 ---
 
@@ -552,6 +576,32 @@ President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorro
 
 ---
 
+### Sri Lanka sets up 15 ministries ahead of polls, Treasury secretary re-appointed
+
+*2024-09-24 19:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-sets-up-15-ministries-ahead-of-polls-treasury-secretary-re-appointed-180823/) · `en`
+
+ECONOMYNEXT – Sri Lanka has appointed secretaries to run 15 ministries after appointing a three member cabinet, who will hold the portfolios, including President Anura Dissanayake, following the change of government.
+
+They will run the ministries until general elections are concluded.
+
+3.	K.D.S. Ruwanchandra – Secretary to the Ministry of Transport, Highways, Ports, and Civil Aviation
+
+4.	K.M.M. Siriwardena – Secretary to the Ministry of Finance, Economic Development, Policy Formulation, Planning, and Tourism
+
+5.	Aruni Wijewardena – Secretary to the Ministry of Foreign Affairs
+
+6.	J.M.T. Jayasundara – Secretary to the Ministry of Education, Science and Technology
+
+7.	K. Maheson – Secretary to the Ministry of Women, Children, Youth Affairs, and Sports
+
+8.	M.M. Naimuddin – Secretary to the Ministry of Trade, Commerce, Food Security, Cooperative Development, Industry, and Entrepreneurship Development
+
+...
+
+[Data](articles/8b402e9a.json)
+
+---
+
 ### 11 months of the 11 months of security guard at hospital
 
 *2024-09-24 19:48:19* · [`adalk`](https://www.ada.lk/breaking_news/මවුපිය-ගැටුමට-මැදි-වූ-මාස-11-සිඟිත්තිය--ආරක්ෂක-හිස්-වැසුම්-පහරින්-බරපතල-තුවාල-ලබා-රෝහලේ/11-412127) · `si`
@@ -583,6 +633,22 @@ Investigations are conducted on the instructions of OIC of Athuruguratota
 [Data](articles/1fa11d1f.json)
 
 [Extended Data](ext_articles/1fa11d1f.ext.json)
+
+---
+
+### Sri Lanka President to address nation Wednesday
+
+*2024-09-24 19:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-address-nation-wednesday-180841/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s newly elected President Anura Dissanayake will address the nation on Wednesday at 7.30 pm, his media office said.
+
+The address will be broadcast live on all major electronic media channels, the statement said.
+
+President is expected to dissolve parliament calling for snap polls. (Colombo/Aug24/2024)
+
+◼️
+
+[Data](articles/4e41305e.json)
 
 ---
 
@@ -715,6 +781,28 @@ He added that the UPFA is not joining by the UNP and that the UPFA will contest 
 [Data](articles/6b5c22f5.json)
 
 [Extended Data](ext_articles/6b5c22f5.ext.json)
+
+---
+
+### Sri Lanka leader appoints smallest Cabinet in history before dissolving parliament
+
+*2024-09-24 18:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-appoints-smallest-cabinet-in-history-before-dissolving-parliament-180822/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s newly elected President Anura Kumara Dissanayake appointed a three-member cabinet, the smallest in the history, to run the country after appointing his party’s reputed solitary women legislator as the Prime Minister on Tuesday.
+
+The move comes a day after Dissanayake took oaths as the island nation’s ninth president and his party members have said the president will dissolve the parliament after appointing the cabinet to run the country as an interim government until the next parliament election is held.
+
+Parliamentarian Harini Amarasuriya was sworn in as the new Prime Minister of Sri Lanka before Dissanayake followed by the cabinet appointments.
+
+President Dissanayake held four Ministries including some merged together. He held
+
+Prime Minister Harini Amarasuriya was appointed as the Minister for the following portfolios:
+
+Trade, Commercial, Food Security, Co-operative Development, Industries and Entrepreneur Development
+
+...
+
+[Data](articles/35c19eae.json)
 
 ---
 
@@ -1220,6 +1308,26 @@ Amarasuriya, a national executive committee member of the National People’s Po
 
 ---
 
+### Sri Lanka rupee closes stronger at 303.00/14 to US dollar, bond yields down
+
+*2024-09-24 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-00-14-to-us-dollar-bond-yields-down-180819/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.00/303.15 to the US dollar Tuesday stronger from 304.25/75 a day earlier, while bond yields were also down for the second day since the elections.
+
+President Anura Dissanayake is expected to dissolve parliament soon, after appointing a cabinet of three other ministers.
+
+A bond maturing on 01.05.2027 closed at 12.40/50 percent quoted down from 12.70/90 percent, after also falling on Monday.
+
+A bond maturing on 15.02.2028 closed at 13.00/08 percent down from 13.25/40 percent.
+
+A bond maturing on 15.06.2029 closed at 13.20/28 percent down from 13.55/65 percent. (Colombo/Sep23/2024)
+
+◼️
+
+[Data](articles/eee24562.json)
+
+---
+
 ### A statement from the new Prime Minister about the confidence of the people - a hint of dissolutionizing Parliament
 
 *2024-09-24 17:33:16* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාවගේ-විශ්වාසය-ගැන-නව-අගමැතිණියගෙන්-ප්‍රකාශයක්---පාර්ලිමේන්තුව-විසුරවාහැරීම-ගැනත්-ඉඟියක්/11-412116) · `si`
@@ -1245,6 +1353,28 @@ A. Thank you so much to the people to believe in our. It'll protect it like that
 [Data](articles/60d33b2f.json)
 
 [Extended Data](ext_articles/60d33b2f.ext.json)
+
+---
+
+### Sri Lanka stocks surge 2.1-pct, boosted by banks
+
+*2024-09-24 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-surge-2-1-pct-boosted-by-banks-180817/) · `en`
+
+ECONOMYNEXT – Sri Lanka stocks surged 2.1 percent Tuesday, with retail interest in banks driving demand, brokers said.
+
+The Colombo Stock Exchange All share index closed up 237.31 points at 11,334.12 points, and the S&P SL20 Index of more liquid shares up 74 points (2.36 percent) to 3,253.22 points.
+
+The market was driven mostly by retail activity and foreign investors were also quiet looking for direction, brokers said.
+
+Commercial Bank up 3.10 rupees to 94.00, Melstacorp up 3.70 to 84.70, LOLC was up 17.50 to 402 rupees, Hatton National Bank was up 2.50 rupees to 150, and Ceylon Cold Stores was up 5.30 rupees to 57.50 contributed most to the index gain.
+
+Stocks have come down in the run up to the elections with fears over the continuation of prudent economic policies and monetary stability.
+
+Sri Lanka saw a peaceful transition of power, but investors are still awaiting a firm policy direction. (Colombo/Aug24/2024)
+
+◼️
+
+[Data](articles/e285f516.json)
 
 ---
 
@@ -1896,6 +2026,22 @@ Accordingly, she is the third female Prime Minister in the history of Sri Lanka.
 
 ---
 
+### Harini Amarasuriya appointed Sri Lanka prime minister
+
+*2024-09-24 14:55:00* · [`economynextcom`](https://economynext.com/harini-amarasuriya-appointed-sri-lanka-prime-minister-180801/) · `en`
+
+ECONOMYNEXT — National People’s Power (NPP) MP Harini Amarasuriya has been sworn in as Sri Lanka’s prime minister.
+
+Amarasuriya was sworn in before President Anura Kumara Dissanayake at the presidential secretariat Tuesday September 24 afternoon, a day after Dissanayake himself was sworn as president, visuals broadcast on Swarnavahini showed.
+
+NPP parliamentarians Vijith Herath and Lakshman Nipunaarachchi were also sworn in as cabinet ministers, according to media reports, while President Dissanayake will hold the defence ministry and other portfolios. (Colombo/Sep24/2024)
+
+◼️
+
+[Data](articles/1a972200.json)
+
+---
+
 ### New Prime Minister sworn in
 
 *2024-09-24 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201499) · `si`
@@ -1911,6 +2057,44 @@ Dr. Harini Amarasuriya has been sworn in before President Anura Kumara Dissanaya
 [Data](articles/f6f0fa41.json)
 
 [Extended Data](ext_articles/f6f0fa41.ext.json)
+
+---
+
+### Sri Lanka Tourism says arrivals to grow after polls, industry wants ETA re-started
+
+*2024-09-24 14:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourism-says-arrivals-to-grow-after-polls-industry-wants-eta-re-started-180798/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tourist arrivals are expected to grow after the most peaceful elections in the nation’s history, the island’s tourism promotions office said.
+
+Sri Lanka’s elected President Anura Kumara Dissanayake has prioritized the sector, pledging to unlock its full potential, the statement said.
+
+Visa-free travel for citizens of 39 countries will begin in October, and the tourism industry is optimistic about the reinstatement of the streamlined Electronic Travel Authorization (ETA) system pending a court decision, the agency said.
+
+Sri Lanka’s electronic travel authorization system, acclaimed as one of the least hassle free in the world, was hit by a controversy after a consortium involving VFS Global was awarded a processing monopoly without public tender.
+
+Courts ordered the old process to be re-instated, but the Department of Immigration has so far not taken action to re-start the system.
+
+...
+
+[Data](articles/ed9be65e.json)
+
+---
+
+### Sri Lanka former president won’t contest elections, his party stalwarts say
+
+*2024-09-24 14:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-president-wont-contest-elections-his-party-stalwarts-say-180792/) · `en`
+
+ECONOMYNEXT — United National Party (UNP) seniors backing former President Ranil Wickremesinghe said he will not contest Sri Lanka’s next parliamentary election as per UNP convention.
+
+MP and UNP deputy leader Ruwan Wijewardene, Samagi Jana Balawegaya (SJB) MPs Thalatha Atukorala and Rajitha Senaratne, former UNP MP Akila Viraj Kariyawasam and former Tourism Minister Harin Fernando speaking to reporters at the political office of Wickremesinghe in Colombo said that former president J R Jayawardena had set a precedent of not contesting elections following the end of his term.
+
+Wickremesinghe himself has said that he does not intend to contest elections again, said Fernando.
+
+Wijewardene said the UNP has invited senior members of the SJB for discussions on a possible alliance targeting the next parliamentary election which will likely be held in December 2024 following a widely anticipated dissolution of parliament by newly sworn-in President Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/1b3ea8db.json)
 
 ---
 
@@ -2055,6 +2239,28 @@ The Railway Control Room further said that the railway track has been severely d
 [Data](articles/ff1f9d3b.json)
 
 [Extended Data](ext_articles/ff1f9d3b.ext.json)
+
+---
+
+### Sri Lanka ex-President Ranil not to contest amid unification moves with SJB
+
+*2024-09-24 14:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-not-to-contest-amid-unification-moves-with-sjb-180793/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ex-President Ranil Wickremesinghe will not contest the upcoming general elections, a senior party official said amid attempts to form a coalition with the Samagi Jana Balawegaya.
+
+Wickremesinghe will also not take a national list seat, Ruwan Wijewardene of the United National Party told reporters Tuesday.
+
+However he will still have a role and be ready to help the country, he said.
+
+In the Presidential elections, Wickremesinghe came third, but with the SJB, the two groups won slightly over 50 percent of the vote.
+
+Political sources said there were attempts to bring the two groups together with Wickremesinghe playing the role of ‘mentor’.
+
+The SJB broke away with many members unhappy over the favoritism and the way the UNP working committee was packed.
+
+...
+
+[Data](articles/9c98c8b7.json)
 
 ---
 
@@ -2217,249 +2423,5 @@ The items were handed over to the owner in the presence of Pushpakumara in charg
 [Data](articles/581fe27a.json)
 
 [Extended Data](ext_articles/581fe27a.ext.json)
-
----
-
-### Roshan Gunatilleke resigns
-
-*2024-09-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201498) · `si`
-
-Roshan Gunatilleke resigns as Governor of Western Province. President Anura Kumara Dissanayake accepts resignation. Gunatilleke cites ability to strengthen province and council during 2020-2021.
-
-🟩
-
-Roshan Gunatilleke has resigned from the post of Governor of Western Province.
-
-President Anura Kumara Dissanayake has informed him that he is resigned with respect.
-
-The letter further stated that he was able to be the highest strength for the benefit of the Western Province and the Western Provincial Council as well as the Western Provincial Council.
-
-Roshan Gunatilleke also said that he was the privilege of leading the security and health of the Western Provincial Public Service to uplift the protection and health of the people in the past 2020 and 2021.
-
-◼️
-
-[Data](articles/0ac6b6f8.json)
-
-[Extended Data](ext_articles/0ac6b6f8.ext.json)
-
----
-
-### Railway watching compartment
-
-*2024-09-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201497) · `si`
-
-Train track dejoins Badulla-Kandy route due to damage near Ella-Demodara stations. Repair work underway. Service disrupted for about 30 days starting December 24th.
-
-🟩
-
-A track of a passenger and freight train operated from Badulla to Kandy has dejoined.
-
-The Badulla Railway Control Room states that the track of the passenger and freight train, which was traveling from Badulla to Kandy, has been interrupted due to the track of the track and transport train.
-
-The railwaylines have begun today (24) 12 days. About only 30.
-
-The inspired was the case between Ella and Demodara railway stations.
-
-The Railway Control Room added that the railway track has been severely damaged due to the delegation and the tracks have been carried out expeditiously, he said.
-
-◼️
-
-[Data](articles/88d0100c.json)
-
-[Extended Data](ext_articles/88d0100c.ext.json)
-
----
-
-### Sudden fall in the price of egg
-
-*2024-09-24 13:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-திடீர்-வீழ்ச்சி/175-344376) · `ta`
-
-Egg prices drop 10 rupees. Association cites increased production and decreased demand. Eggs now sell for 28-30 rupees.
-
-🟩
-
-The All Ceylon Egg Dealers Association said that the price of an egg has suddenly reduced by 10 rupees.
-
-Following this, the secretary of the association Anurasiri Marasinghe said that eggs will be sold for Rs 28 to Rs 30.
-
-He noted that the increase in production and the decline in demand was the cause of egg prices.
-
-◼️
-
-[Data](articles/f193fc56.json)
-
-[Extended Data](ext_articles/f193fc56.ext.json)
-
----
-
-### Army soldier and woman killed in two accidents
-
-*2024-09-24 13:13:57* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරු-දෙකකින්-යුද-හමුදා-සෙබළෙකු-හා-කාන්තාවක්-ජීවිතක්ෂයට/11-412110) · `si`
-
-Two accidents: soldier (29) killed in motorcycle crash near Dambulla; woman (30s) dies after being hit by tractor in Thiction. Investigations ongoing.
-
-🟩
-
-A soldier and a woman had died in two road accidents in the campaign of Thiction and Kekirawa Police said.
-
-The accident had occurred when the motorcycle was seen by a motorcycle, which was impossible to control the motorcycle due to the motorcycle, to go to the Dambulla cricket.
-
-The victim was a 29 year old Army Society, a 29 year old resident of the Medawachchiya, Medawachchiya.
-
-The accident had occurred in the Jaffna Nine 90km, between the motorcyclist in the accident in Kandy, and the motorcyclist in the accident is receiving treatment at the Kandy General Hospital.
-
-The accident had occurred on the 19th and the soldier was injured in the accident and was killed while he was admitted to Dambulla Hospital.
-
-The woman killed in a tractor motorcycle while a woman motorcycle hit by a tractor in the Thiction Police Division.
-
-The deceased is a woman named Kiarya Indravathi, a resident of the Maradakadawala address.
-
-...
-
-[Data](articles/e08ad3f6.json)
-
-[Extended Data](ext_articles/e08ad3f6.ext.json)
-
----
-
-### Mysterious City of the United States
-
-*2024-09-24 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194676) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Bodie: A former California mining town turned ghost town due to gold depletion and violent crimes. Now shrouded in paranormal legends and curses, it attracts curious tourists despite its abandoned state.
-
-🟩
-
-Superstitious beliefs and customs should be said to be the only people living in the lower countries.. People in the West have some bizarre customs.
-
-The number 13 is viewed as a dagger number in the United States. There are no rooms in number 13 in many hotels. There are no 13th digits for the order and homes in some streets.
-
-Thus, a city with mysterious beliefs and habits is in California. The place, which was considered a lucky place in the late 19th century, is a cursed city today.
-
-This is an example of the fact that Americans believe in curses. The name of this city is Bodie. What happened to this city?Why is it a curse?What happened to Bodi, which was once a very fortunate city?Come on.
-
-In 1876 William S, Bode (William S. Bodey) found this village. Because of this, the village became the name of Bodi when the village became a city with prosperity.Bode first knew that there was gold in the area. The village then became a lucky place to many.
-
-...
-
-[Data](articles/835658ef.json)
-
-[Extended Data](ext_articles/835658ef.ext.json)
-
----
-
-### Gotabhaya goes to Nepal
-
-*2024-09-24 13:02:47* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාභය-නේපාලයට-යයි/11-412109) · `si`
-
-Former Sri Lankan President Gotabhaya Rajapaksa arrives in Kathmandu, stays at Lalitpur hotel, meets police inspector general.
-
-🟩
-
-Former President Gotabhaya Rajapaksa had arrived in Kathmandu yesterday.
-
-He is located on Monday morning to Kathmandu to Kathmandu and she is staying at the Internet Hotel in Lalthpol.
-
-Lalithpour District Police Inspector General of Police Narees Narees Narees Narees 'Narees' to visit Gotabhaya Rajapaksa.
-
-◼️
-
-[Data](articles/9bc7ac74.json)
-
-[Extended Data](ext_articles/9bc7ac74.ext.json)
-
----
-
-### Lonely
-
-*2024-09-24 12:56:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியாக-ஓடிய-ரயில்-இயந்திரம்/175-344375) · `ta`
-
-Train separation incident: Colombo-bound train splits near Kottawa, causing inconvenience to passengers. Driver reconnects cars at Colombo Fort station. Incident occurred due to flat terrain near Kelaniya.
-
-🟩
-
-Travelers said that the train traveling to Colombo on the Kelaniweli railway line was separated from the train compartments in the Kottawa area.
-
-The passengers were overflowing with the office train from Koskama Center to Colombo, Colombo, and the passengers were severely inconvenienced due to the sudden split.
-
-The train driver and the assistant then re -driven the train machine to the Colombo fort after being tied together.
-
-According to the Kelani External Railway Station, the incident has taken place since the place is the plain.
-
-◼️
-
-[Data](articles/2502cef7.json)
-
-[Extended Data](ext_articles/2502cef7.ext.json)
-
----
-
-### Dissolution
-
-*2024-09-24 12:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவிப்பிரமாணத்துக்கு-பின்னரே-கலைப்பு/175-344374) · `ta`
-
-New cabinet sworn in today. Discussion on Parliament dissolution follows. Four ministers appointed by President.
-
-🟩
-
-National People's Power MP Vijitha Herath says the new cabinet will take office today.
-
-He told the media that the cabinet would be sworn in first and thereafter a discussion on the dissolution of Parliament.
-
-Earlier, the National People's Power had stated that the four ministers cabinet would be appointed by the President.
-
-◼️
-
-[Data](articles/6758fc26.json)
-
-[Extended Data](ext_articles/6758fc26.ext.json)
-
----
-
-### Increase in wildfire spread!
-
-*2024-09-24 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194674) · `ta`
-
-Wildfire surge: Drought fuels blazes, destroying over 10 acres in Hikurugamuwa forest. Firefighters contain inferno with support from police and locals. New outbreak reported in Kottalerakala, Wellawaya.
-
-🟩
-
-The Disaster Management Center said that the incidents of wildfire have increased due to the drought -stricken weather in the country.
-
-In the meantime, more than 10 acres of land has been destroyed due to the spread of fire in the Hikurugamuwa forest in Badulla yesterday.
-
-The fire has been controlled by the Disaster Management Center, the police and the residents of the area this morning (24).
-
-Meanwhile, police said that the fire that broke out last night in the Kottalerakala area in Wellawaya is being controlled.
-
-◼️
-
-[Data](articles/246cc9ef.json)
-
-[Extended Data](ext_articles/246cc9ef.ext.json)
-
----
-
-### Ranil's decision
-
-*2024-09-24 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201496) · `si`
-
-Ranil Wickremesinghe contests general election as UNP Deputy Leader Ruwan Wijewardena confirms. Former president does not seek parliamentary seat via national list.
-
-🟩
-
-Deputy Leader of the UNP, Ruwan Wijewardena said former President Ranil Wickremesinghe is contesting the general election.
-
-He added that the former President does not expect parliament from the national list.
-
-◼️
-
-[Data](articles/176502cc.json)
-
-[Extended Data](ext_articles/176502cc.ext.json)
 
 ---

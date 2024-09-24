@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 16:38:16**
+As of **2024-09-24 16:55:55**
 
 ## Newspaper Stats
 
-*Scraped **46,018** Articles*
+*Scraped **46,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,134 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,232
+adalk | 4,233
 dailymirrorlk | 4,733
-adaderanalk | 5,419
-tamilmirrorlk | 6,146
+adaderanalk | 5,420
+tamilmirrorlk | 6,148
 virakesarilk | 7,346
-adaderanasinhalalk | 7,955
+adaderanasinhalalk | 7,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,018 (100.0%) of 46,018 articles have been extended.
+46,024 (100.0%) of 46,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Mahinda made the Action Notification
+
+*2024-09-24 16:31:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-அதிரடி-அறிவிப்பை-விடுத்தார்/175-344385) · `ta`
+
+Sri Lanka: UNP leader Mahinda Rajapaksa announces party won't join coalition for general election. He aims to regain strength and secure majority seats.
+
+🟩
+
+Leader of the United National Party (UNP) will not join the coalition for the next general election, said the leader of the party, Mahinda Rajapaksa on Tuesday (24).
+
+Former President Mahinda Rajapakse said this while speaking to the media after a political faculty meeting held on Tuesday (24) at the Sri Lanka Peoples Alliance's Headquarters Office in Battaramulla.
+
+“Since it is believed that the general election will be held soon, the grassroots level will be made and the party will act as a strong party again.”
+
+Mahinda Rajapaksa added that he would take necessary steps to get the majority of seats in the upcoming general election.
+
+◼️
+
+[Data](articles/a5134040.json)
+
+[Extended Data](ext_articles/a5134040.ext.json)
+
+---
+
+### Sri Lanka’s inflation drops in August 2024
+
+*2024-09-24 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102243/sri-lankas-inflation-drops-in-august-2024) · `en`
+
+The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to 1.1% in August 2024, compared to 2.5% in July 2024, according to the latest data released by the Department of Census and Statistics.
+
+Meanwhile, food inflation has decreased to 2.3% in August 2024 compared to 2.9% in July 2024 and the Year-on-Year inflation of the non-food group increased to 0.2% in August 2024 from 2.2% in July 2024.
+
+The NCPI for all items for the month of August 2024 is 204.1 and it records a decrease of 2.8 in index points compared to July 2024.
+
+◼️
+
+[Data](articles/e0fdbd96.json)
+
+[Extended Data](ext_articles/e0fdbd96.ext.json)
+
+---
+
+### The horrific attack sent 50 children to the dead
+
+*2024-09-24 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201502) · `si`
+
+Horrific attack kills 50 children, injures 1500 in Lebanon. Israel warns Hezbollah may strike targets. 558 deaths reported in South Lebanon, worst attack since 1990 civil war.
+
+🟩
+
+Israel warns that the Hezbollah in Lebanon will attack targets.
+
+According to foreign media reports, 558 people have been killed in South Lebanon due to the attacks on Monday.
+
+This is the worst attack on the country after the end of the civil war in Lebanon in 1990.
+
+The Health Minister of Lebanon said that over 1500 people were injured in the attack.
+
+◼️
+
+[Data](articles/93715333.json)
+
+[Extended Data](ext_articles/93715333.ext.json)
+
+---
+
+### Vijitha Herath
+
+*2024-09-24 16:13:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-நீதிமன்றில்-ஆஜர்/175-344384) · `ta`
+
+Vijitha Herath NPP MP appears Colombo High Court case former DLB Chairman Patraja illegal loss advertising private companies tender violation postponement oath cabinet minister appointment
+
+🟩
+
+The National People's Power (NPP) MP Vijitha Herath has appeared before the Colombo High Court today (24) in a case against the former Chairman of the Development Lotter Board (DLB).
+
+It is alleged that Patraja had caused an illegal loss to DLB by providing advertising activities for several lottery tickets to private companies in violation of the accepted tender practice.
+
+The case is that Colombo High Court Judge RSS. Taken in the presence of Vijitha Herath. Attorney -at -Law Vijitha Herath, who appeared on behalf of Vijitha Herath, appealed to his party's testimony to postpone the testimony of his party, pointing to the need to attend the oath of appointment as a cabinet status minister.
+
+Considering the request, the High Court judge asked Hera to appear in court on November 29.
+
+◼️
+
+[Data](articles/23efb908.json)
+
+[Extended Data](ext_articles/23efb908.ext.json)
+
+---
+
+### Inflation down
+
+*2024-09-24 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201501) · `si`
+
+Inflation drops from 2.5% to 1.1%, food prices fall from 2.3% to 0.2%.
+
+🟩
+
+Inflation, which was 2.5% in July, 2024, fell to 1.1% for August 2024.
+
+The point of the food category of food recorded in July 2024 has fallen to 2.3% in August 2024.
+
+The latest announcement issued by the Northern Province, which was 2.2% of food in July 2024, was down to 0.2% in August 2024, the Department of Census and Statistics.
+
+◼️
+
+[Data](articles/0580f7d8.json)
+
+[Extended Data](ext_articles/0580f7d8.ext.json)
+
+---
 
 ### I am the Prime Minister's candidate - Sajith
 
@@ -305,6 +417,28 @@ The Railway Control Room further said that the railway track has been severely d
 [Data](articles/ff1f9d3b.json)
 
 [Extended Data](ext_articles/ff1f9d3b.ext.json)
+
+---
+
+### Upcountry train interrupts
+
+*2024-09-24 14:06:14* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-412113) · `si`
+
+Train from Badulla to Nawalapitiya derailed due to cargo transport issue. Railway control room taking steps to repair tracks and restore service.
+
+🟩
+
+The Nawalapitiya Railway Control Room stated that a train traveling from Badulla to the Badulla's afternoon today (24) was interrupted by the railway line today (24).
+
+The Railway Control Room says that a cargo transport has been derailed and taken steps to conduct tracks and derail.
+
+The Railway Control Room added that the delegation trains will be derailed to be derailed and implementing the railway radio train.
+
+◼️
+
+[Data](articles/1675aeae.json)
+
+[Extended Data](ext_articles/1675aeae.ext.json)
 
 ---
 
@@ -2211,173 +2345,5 @@ The governors have taken the oath of Anura Kumara Dissanayake yesterday (23).
 [Data](articles/64a22ee9.json)
 
 [Extended Data](ext_articles/64a22ee9.ext.json)
-
----
-
-### Northern Governor resigns
-
-*2024-09-24 07:42:36* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-ආණ්ඩුකාරවරිය-ඉල්ලා-අස්වෙයි/11-412097) · `si`
-
-Northern Province Governor PSM Ratnayake resigns due to President Ranil Wickremesinghe's inauguration. She previously served as Election Commissioner and Director General of Sri Lanka Institute.
-
-🟩
-
-Northern Province Governor Pasm. The Governor has announced that Mrs. Charles resigned from the post of Governor yesterday (23).
-
-PSM Ratals was taken to resign from the post of President Ranil Wickremesinghe with the swearing in of President Ranil Wickremesinghe.
-
-She has been a member of the Vavuniya and Batticaloa District as a member of the Vavuniya and Batticaloa District before he has held the post of Governor of the UPFA and then the Director General of the Sri Lanka Institute and the Elections Commissioner.
-
-◼️
-
-[Data](articles/80487fcc.json)
-
-[Extended Data](ext_articles/80487fcc.ext.json)
-
----
-
-### Message to the new President and he should 'definitely win seven challenges
-
-*2024-09-24 07:39:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp8m2l2rvmxo) · `si`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Sri Lanka's new President Anura Kumara Dissanayake faces seven major challenges:
-
-
-
-1. Economic recovery 
-
-2. IMF negotiations
-
-3. Increasing tax revenue
-
-4. Reducing cost of living
-
-5. Political instability
-
-6. Foreign relations management
-
-7. Human rights issues
-
-
-
-Experts suggest focusing on entrepreneurship education, public sector efficiency, and creative industries to address these challenges.
-
-🟩
-
-Message to the new President and he should 'definitely win seven challenges
-
-The International Monetary Fund (IMF) says Sri Lanka's new President Anura Kumara Dissanayake and his team.
-
-A spokesperson said, "The International Monetary Fund (IMF) is discussed with the new administration as soon as possible with the new administration."
-
-"We look forward to working with President Dissanayake and his team to rebuild Sri Lanka from the most victories that Sri Lanka is in a worst victories that Sri Lanka has been able to bring Sri Lanka to its worst economic crisis."
-
-"We are welcome to publish a covenant among the representatives of Sri Lanka and international bonds, subject to confirm the comparativeness of the committee of the official creditors of Sri Lanka.. This represents significant progress in the restructuring process of Sri Lanka. "
-
-The new President Anura Kumara Dissanayake is a huge challenge to discuss the implementation of the International Monetary Fund.
-
-...
-
-[Data](articles/4c58e0b2.json)
-
-[Extended Data](ext_articles/4c58e0b2.ext.json)
-
----
-
-### Israeli strikes kill 492 in Lebanon’s deadliest day of conflict since 2006
-
-*2024-09-24 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102225/israeli-strikes-kill-492-in-lebanons-deadliest-day-of-conflict-since-2006) · `en`
-
-(AP) — Israeli strikes Monday on Lebanon killed more than 490 people, including more than 90 women and children, Lebanese authorities said, in the deadliest barrage since the 2006 Israel-Hezbollah war. The Israeli military warned residents in southern and eastern Lebanon to evacuate ahead of its widening air campaign against Hezbollah.
-
-Thousands of Lebanese fled the south, and the main highway out of the southern port city of Sidon was jammed with cars heading toward Beirut in the biggest exodus since 2006.
-
-Lebanon’s health ministry said the strikes killed 492 people, including 35 children and 58 women, and wounded 1,645 people — a staggering one-day toll for a country still reeling from a deadly attack on communication devices last week.
-
-In a recorded message, Israeli Prime Minister Benjamin Netanyahu urged Lebanese civilians to heed Israeli calls to evacuate, saying “take this warning seriously.”
-
-...
-
-[Data](articles/7774561a.json)
-
-[Extended Data](ext_articles/7774561a.ext.json)
-
----
-
-### Today's weather -related announcement
-
-*2024-09-24 07:38:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-தொடர்பான-அறிவிப்பு/175-344353) · `ta`
-
-Rainfall forecasted in Western, Sabaragamuwa provinces and Kandy, Nuwara Eliya, Galle, Matara districts. Thunderstorms possible in Uva, Eastern provinces evenings/night. Strong winds predicted in Central Highlands, Northern, North Central, Southern provinces, Trincomalee, Matale, Moneragala districts.
-
-🟩
-
-The Department of Meteorology has forecast rainfall in the Western and Sabaragamuwa Provinces and Kandy, Nuwara Eliya, Galle and Matara districts today.
-
-It has also been reported that rain or thunderstorms are expected in the evening or night in some areas of Uva and the Eastern Provinces.
-
-Meanwhile, the Department of Meteorology has forecast strong winds at the western slopes of the Central Highlands and the Northern, North Central and Southern Provinces, Trincomalee, Matale and Moneragala districts at speeds of 40 to 45 km / h.. (A)
-
-◼️
-
-[Data](articles/eb1dbb78.json)
-
-[Extended Data](ext_articles/eb1dbb78.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-09-24 07:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102224/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts while a few showers may occur in North-western province.
-
-Showers or thundershowers may occur at a few places in Uva and Eastern provinces during the evening or night.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, North-western and Southern provinces and in Trincomalee, Matale and Monaragala districts, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/32c1b61c.json)
-
-[Extended Data](ext_articles/32c1b61c.ext.json)
-
----
-
-### The new Cabinet is sworn in today
-
-*2024-09-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201484) · `si`
-
-New Cabinet sworn in today under President Anura Kumara Dissanayake. Political sources indicate it's for general elections. Four members from National Folk Force remain in Parliament. Cabinet to serve until new Parliament elected. Gazette notification expected tonight dissolving Parliament.
-
-🟩
-
-The new cabinet formed under President Anura Kumara Dissanayake will be sworn in this day.
-
-Political sources say that the swearing in is to hold general election.
-
-The name of Lakshman Nipunarachchi was announced by a special gazetteth for the appointment of Anura Kumara Dissanayake.
-
-Four persons, including the President representing the national folk force, remains in Parliament and will bear the portfolio.
-
-The Cabinet is due to be in the rural until the new Parliament is elected.
-
-However, after the swearing in of the Cabinet, President Anura Kumara Dissanayake will be dissolved and resolved for a parliamentary election.
-
-There are also another new Ministry Secretaries before the dissolution of Parliament.
-
-According to the situation, there is much more likely to issue gazette notification to dissolve Parliament in midnight today.
-
-◼️
-
-[Data](articles/a54e1344.json)
-
-[Extended Data](ext_articles/a54e1344.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 15:38:47**
+As of **2024-09-24 15:57:40**
 
 ## Newspaper Stats
 
-*Scraped **46,007** Articles*
+*Scraped **46,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,781
 dailyftlk | 3,053
 adalk | 4,229
 dailymirrorlk | 4,733
-adaderanalk | 5,417
+adaderanalk | 5,418
 tamilmirrorlk | 6,142
 virakesarilk | 7,346
 adaderanasinhalalk | 7,954
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,007 (100.0%) of 46,007 articles have been extended.
+46,008 (100.0%) of 46,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### CSE’s ASPI gains for second consecutive day
+
+*2024-09-24 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102241/cses-aspi-gains-for-second-consecutive-day) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has increased by 237.31 points to close at 11,334.12 today (24).
+
+◼️
+
+[Data](articles/57576c32.json)
+
+[Extended Data](ext_articles/57576c32.ext.json)
+
+---
 
 ### Sajith says he is PM candidate, no collaboration with Ranil
 
@@ -2335,17 +2349,5 @@ Ahimsa holding a portrait of her father Lasantha Wickrematunge who was assassina
 [Data](articles/d6647474.json)
 
 [Extended Data](ext_articles/d6647474.ext.json)
-
----
-
-### Dr. Nandika Sanath Kumanayake appointed as Secretary to the President
-
-*2024-09-24 04:03:18* · [`dailyftlk`](https://www.ft.lk/news/Dr-Nandika-Sanath-Kumanayake-appointed-as-Secretary-to-the-President/56-767077) · `en`
-
-...
-
-[Data](articles/20f99362.json)
-
-[Extended Data](ext_articles/20f99362.ext.json)
 
 ---

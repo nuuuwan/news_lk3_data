@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 13:22:45**
+As of **2024-09-24 13:39:18**
 
 ## Newspaper Stats
 
-*Scraped **45,986** Articles*
+*Scraped **45,988** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 384
-bbccomsinhala | 449
+bbccomsinhala | 450
 colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,226
+adalk | 4,227
 dailymirrorlk | 4,733
 adaderanalk | 5,413
 tamilmirrorlk | 6,135
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,951
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,985 (100.0%) of 45,986 articles have been extended.
+45,987 (100.0%) of 45,988 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -195,6 +195,32 @@ We want to maintain a good relationship with European Middle East Africa, ”he 
 [Data](articles/9d55740d.json)
 
 [Extended Data](ext_articles/9d55740d.ext.json)
+
+---
+
+### President contests a special discussion today - Today is the dissolution of Parliament today?
+
+*2024-09-24 12:16:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අද-විශේෂ-සාකච්ඡාවක්-කැඳවයි---පාර්ලිමේන්තුව-විසුරවා-හැරීම-අද-/11-412108) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka: President Anura Kumara Dissanayake calls emergency meeting today to discuss dissolving Parliament. Decision expected after Cabinet swearing-in ceremony.
+
+🟩
+
+President Anura Kumara Dissanayake has called a special discussion today (24), and he will decide on the dissolution of parliament.
+
+He was responding to a journalist's question.
+
+A. The cabinet is sworn in today. The President has then called on a discussion. That is the decision about Parliament.
+
+◼️
+
+[Data](articles/435b313d.json)
+
+[Extended Data](ext_articles/435b313d.ext.json)
 
 ---
 
@@ -1520,6 +1546,58 @@ She has been a member of the Vavuniya and Batticaloa District as a member of the
 
 ---
 
+### Message to the new President and he should 'definitely win seven challenges
+
+*2024-09-24 07:39:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp8m2l2rvmxo) · `si`
+
+Here's a summary of the key points in approximately 200 characters:
+
+
+
+Sri Lanka's new President Anura Kumara Dissanayake faces seven major challenges:
+
+
+
+1. Economic recovery 
+
+2. IMF negotiations
+
+3. Increasing tax revenue
+
+4. Reducing cost of living
+
+5. Political instability
+
+6. Foreign relations management
+
+7. Human rights issues
+
+
+
+Experts suggest focusing on entrepreneurship education, public sector efficiency, and creative industries to address these challenges.
+
+🟩
+
+Message to the new President and he should 'definitely win seven challenges
+
+The International Monetary Fund (IMF) says Sri Lanka's new President Anura Kumara Dissanayake and his team.
+
+A spokesperson said, "The International Monetary Fund (IMF) is discussed with the new administration as soon as possible with the new administration."
+
+"We look forward to working with President Dissanayake and his team to rebuild Sri Lanka from the most victories that Sri Lanka is in a worst victories that Sri Lanka has been able to bring Sri Lanka to its worst economic crisis."
+
+"We are welcome to publish a covenant among the representatives of Sri Lanka and international bonds, subject to confirm the comparativeness of the committee of the official creditors of Sri Lanka.. This represents significant progress in the restructuring process of Sri Lanka. "
+
+The new President Anura Kumara Dissanayake is a huge challenge to discuss the implementation of the International Monetary Fund.
+
+...
+
+[Data](articles/4c58e0b2.json)
+
+[Extended Data](ext_articles/4c58e0b2.ext.json)
+
+---
+
 ### Israeli strikes kill 492 in Lebanon’s deadliest day of conflict since 2006
 
 *2024-09-24 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102225/israeli-strikes-kill-492-in-lebanons-deadliest-day-of-conflict-since-2006) · `en`
@@ -2161,49 +2239,5 @@ AKD’s election marks a critical turning point in Sri Lanka’s political lands
 [Data](articles/e1a4bd0e.json)
 
 [Extended Data](ext_articles/e1a4bd0e.ext.json)
-
----
-
-### President of President Anurakumara Dalada House
-
-*2024-09-24 01:58:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அநுரகுமார-தலதா-மாளிகையில்-வழிபாடு/175-344351) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-President Anura Kumara Dissanayake, who was sworn in as the 9th Executive President of Sri Lanka yesterday morning, was engaged in special worship at the Dalada House.
-
-◼️
-
-[Data](articles/0b626f2d.json)
-
-[Extended Data](ext_articles/0b626f2d.ext.json)
-
----
-
-### EU Election Observation Mission gives thumbs up for fair and peaceful election, highlights areas for improvement
-
-*2024-09-24 01:43:01* · [`dailyftlk`](https://www.ft.lk/news/EU-Election-Observation-Mission-gives-thumbs-up-for-fair-and-peaceful-election-highlights-areas-for-improvement/56-767050) · `en`
-
-EU Parliament Member and EOM Chief Observer Nacho Sánchez Amor gestures during the media briefing yesterday in Colombo, flanked by Deputy Chief Observer Inta Lase (right) and Press Officer Marek Mracka - Pic by Lasantha Kumara
-
-EU EOM Chief Observer Nacho Sánchez Amor praises smooth transition of power, cites it rare compared to other countries
-
-Expresses disappointment over imposing curfew, calling it unnecessary and contradicted peaceful atmosphere reported by EC
-
-Outlines summary of preliminary statement post-election, adding reforms are needed to further improve electoral processes
-
-Raises concerns over unprecedented number of candidates, lack of female representation, campaign financing issues
-
-Flags off misuse of incumbency, including salary increments and social benefits during campaign
-
-Points to media biases; hostile rhetoric, manipulated content on social media and disregard for campaign silence online
-
-...
-
-[Data](articles/35eba2d7.json)
-
-[Extended Data](ext_articles/35eba2d7.ext.json)
 
 ---

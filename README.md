@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 20:22:58**
+As of **2024-09-24 20:38:50**
 
 ## Newspaper Stats
 
-*Scraped **46,063** Articles*
+*Scraped **46,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,240
+adalk | 4,241
 dailymirrorlk | 4,733
-adaderanalk | 5,424
-tamilmirrorlk | 6,156
+adaderanalk | 5,425
+tamilmirrorlk | 6,158
 virakesarilk | 7,360
 adaderanasinhalalk | 7,963
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 7,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,063 (100.0%) of 46,063 articles have been extended.
+46,067 (100.0%) of 46,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### President to make a special statement tomorrow
+
+*2024-09-24 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102248/president-to-make-a-special-statement-tomorrow-) · `en`
+
+President Anura Kumara Dissanayake will make a special statement while addressing the nation at 7.30 pm tomorrow (25 September).
+
+◼️
+
+[Data](articles/63bee3a7.json)
+
+[Extended Data](ext_articles/63bee3a7.ext.json)
+
+---
+
+### New Director General Appointment
+
+*2024-09-24 20:02:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பணிப்பாளர்-நாயகம்-நியமனம்/175-344397) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"President appoints Dr. Najith Indika as new Director General of President's Media Division. He's a medical doctor with experience in government hospitals."
+
+🟩
+
+President Anurakumara Dissanayake has appointed Dr. Najith Indika as the new Director General of the President's Media Division (PMD).
+
+Dr. Najith Hambantota was an alumnus of Ranna Maha Vidyalaya and Royal College, Colombo and graduated from the University of Colombo at the Faculty of Medicine, Colombo.
+
+For the past five years, it is noteworthy that he has been a doctor and a medical officer in various government hospitals.
+
+◼️
+
+[Data](articles/5a40604f.json)
+
+[Extended Data](ext_articles/5a40604f.ext.json)
+
+---
+
+### Questionnaire abuse;Arrest
+
+*2024-09-24 20:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-முறைகேடு-மற்றுமொருவர்-கைது/175-344396) · `ta`
+
+Teacher arrested over leaked exam questions. Parents complained, CID investigating. Earlier director held.
+
+🟩
+
+An additional class teacher from Kurunegala has been arrested in connection with the Grade Five Scholarship Examination Questionnaire.
+
+A group of parents of students who appeared for the examination in connection with the alleged leak of the Grade Five Scholarship Examination Questionnaire had earlier filed a complaint with the Criminal Investigation Department demanding a formal inquiry.
+
+In addition, the Criminal Investigation Department and the Department of Examinations are conducting investigations into the incident.
+
+Based on these investigations, the Director of the Planning Unit of the Maharagama National Education Institute, who was arrested earlier, has been kept in remand until October 7.. Remble
+
+◼️
+
+[Data](articles/3915e4c0.json)
+
+[Extended Data](ext_articles/3915e4c0.ext.json)
+
+---
 
 ### President calls nation tomorrow
 
@@ -51,6 +115,28 @@ President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorro
 [Data](articles/1bd9b14c.json)
 
 [Extended Data](ext_articles/1bd9b14c.ext.json)
+
+---
+
+### Presidential Media Director General Dr. Nagith Indika
+
+*2024-09-24 19:26:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-මාධ්‍ය-අධ්‍යක්ෂ-ජනරාල්-වෛද්‍ය-නජිත්-ඉන්දික/11-412124) · `si`
+
+Dr. Nagith Indika appointed Director General of Parliament. Formerly medical officer in government hospitals. Old boy of Ranna Maha Vidyalaya, Hambantota. Completed Faculty of Medicine.
+
+🟩
+
+Dr. Nagith Indika has been appointed as the Director General of President Mahinda Rajapaksa as the Director General of Parliament.
+
+Dr. Nagith Indika, an old boy of the Ranna Maha Vidyalaya, Hambantota, has been completed by the Faculty of Medicine.
+
+He served as a medical officer of several government hospitals and institutions in the last five years.
+
+◼️
+
+[Data](articles/6739d1f8.json)
+
+[Extended Data](ext_articles/6739d1f8.ext.json)
 
 ---
 
@@ -2319,85 +2405,5 @@ On July 14, Gotabaya became the first President of Sri Lanka to resign as presid
 [Data](articles/24308b20.json)
 
 [Extended Data](ext_articles/24308b20.ext.json)
-
----
-
-### New President visited Colombo Thevatakaha Muslim School
-
-*2024-09-24 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194667) · `ta`
-
-President Anura Kumara Dissanayake visited Thevatakaha Muslim School in Colombo, attending religious events on Monday (23).
-
-🟩
-
-President Anura Kumara Dissanayake visited the Thevatakaha Muslim School in Colombo on Monday (23) and attended religious events.
-
-◼️
-
-[Data](articles/c20a2294.json)
-
-[Extended Data](ext_articles/c20a2294.ext.json)
-
----
-
-### Sri Lanka power & energy sector in stronger financial position: ex minister
-
-*2024-09-24 10:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-power-energy-sector-in-stronger-financial-position-ex-minister-180784/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s outgoing Power & Energy Minister Kanchana Wijesekara said he leaves the ministry and institutes under his purview in stronger financial positions with adequate stocks of petroleum products and coal for power generation and fuel supply.
-
-All the institutes are now on positive balance sheets, recovering costs for its services, making payments on time for suppliers, servicing outstanding debt and providing and supporting the treasury with the additional revenue it’s generating,” Wijesekara tweeted Monday September 23 evening.
-
-According to the former minister, Ceylon Petroleum Storage Terminals LTD (CPSTL) and Ceylon Petroleum Corporation (CPC) plants have between them: 123,888 metric tonnes of diesel, 13,627 metric tonnes of super diesel, 90,972 metric tones of 92 Octane Petrol, 18,729 metric tonnes of 95 Octane Petrol, and 30,295 metric tonnes of Jet A1 fuel.
-
-...
-
-[Data](articles/0a460a54.json)
-
-[Extended Data](ext_articles/0a460a54.ext.json)
-
----
-
-### A statement on Sri Lanka from the International Monetary Fund
-
-*2024-09-24 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201491) · `si`
-
-International Monetary Fund supports Sri Lanka's economic recovery efforts, focusing on maintaining stability during the ongoing crisis. IMF program discussions continue with new governance for the next phase.
-
-🟩
-
-A Sri Lankan President Anura Kumara Dissanayake and his team is expected to deal with his team.
-
-The International Monetary Fund says that it can maintain economic fund, especially when Sri Lanka has faced the economic crisis achieved.
-
-It is also discussed that the International Monetary Fund program will discuss with the new governance regarding the third period.
-
-◼️
-
-[Data](articles/2a040e34.json)
-
-[Extended Data](ext_articles/2a040e34.ext.json)
-
----
-
-### Japan’s remote Izu islands hit by small tsunami after magnitude 5.9 earthquake
-
-*2024-09-24 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102229/japans-remote-izu-islands-hit-by-small-tsunami-after-magnitude-59-earthquake) · `en`
-
-Japan’s remote Izu islands south of Tokyo were hit by a small tsunami on Tuesday with no immediate reports of damage, after a magnitude-5.9 earthquake occurred near an unpopulated island farther south in the Pacific Ocean.
-
-A tsunami of 50 cm (1.6 ft) reached Hachijo island, one of the Izu islands, about 40 minutes after the earthquake, according to the Japan Meteorological Agency.
-
-No damage from the tsunami or the earthquake has been confirmed, public broadcaster NHK reported.
-
-The meteorological agency previously said residents of Izu and Ogasawara islands must be prepared for a tsunami as high as 1 m (3.3 ft) hitting the coast.
-
-No major tremor was observed since the earthquake occurred undersea near the unpopulated Torishima island about 600 km (370 miles) south of Tokyo, the agency added.
-
-...
-
-[Data](articles/61dfccba.json)
-
-[Extended Data](ext_articles/61dfccba.ext.json)
 
 ---

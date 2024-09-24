@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 18:34:12**
+As of **2024-09-24 18:59:48**
 
 ## Newspaper Stats
 
-*Scraped **46,049** Articles*
+*Scraped **46,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,235
+adalk | 4,238
 dailymirrorlk | 4,733
 adaderanalk | 5,424
-tamilmirrorlk | 6,149
+tamilmirrorlk | 6,154
 virakesarilk | 7,359
 adaderanasinhalalk | 7,962
 
@@ -26,11 +26,133 @@ adaderanasinhalalk | 7,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,049 (100.0%) of 46,049 articles have been extended.
+46,052 (100.0%) of 46,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### ”அவர்களை அங்கொடைக்கு அனுப்ப வேண்டும்”
+
+*2024-09-24 18:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவர்களை-அங்கொடைக்கு-அனுப்ப-வேண்டும்/175-344393) · `ta`
+
+ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க, தாம் எந்தக் கட்சியை ஆதரித்தாலும் அந்தக் கட்சி தேர்தலில் தோல்வியடையும் என்று கூறுவதை விமர்சித்தார். ஊடகங்களுக்குப் பேட்டியளித்த SJB எம்.பி., இந்தக் கூற்றுக்கள் தற்போது தம்மைத் தாக்கும் வழக்கமான முயற்சியின் ஒரு பகுதியாகும் என்று கூறினார்.
+
+"எப்போதுமே வெற்றி பெற்ற ஒருவரின் பெயரைக் கூறுங்கள்? அப்படியானால், அநுரகுமார திஸாநாயக்கவின் கட்சி 60 வருடங்கள் தோல்வியடைந்தது. நாங்கள் மிகவும் கடினமாக உழைத்துள்ளோம், நீங்கள் வெற்றி பெறலாம் அல்லது தோற்கலாம். தொடர்ந்து வெற்றி பெற்றவர்களோ, தோற்றவர்களோ எங்கும் இல்லை” என்று கூறினார்.
+
+இத்தகைய கருத்துகளின் நியாயம் குறித்து கேள்வி எழுப்பிய அத்தநாயக்க, இந்த கூற்றுக்கள் பழிவாங்கும் மற்றும் மனநலம் பாதிக்கப்பட்டவர்களால் கூறப்பட்டுள்ளதாக கூறினார். “இவ்வாறான கேள்விகளைக் கேட்பவர்களை அங்கொடைக்கு அனுப்ப வேண்டும், ஏனென்றால் அவர்கள் அரசியலில் ஈடுபடுபவர்கள் அல்ல,” என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/fceb8c62.json)
+
+---
+
+### புதிய செயலாளர்கள் நியமனம்: விபரம் இணைப்பு
+
+*2024-09-24 18:35:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்கள்-நியமனம்-விபரம்-இணைப்பு/175-344392) · `ta`
+
+பிரதமரின் செயலாளர் மற்றும் அமைச்சரவை செயலாளர் போன்ற முக்கிய பதவிகளை வகிக்கும் 15 அமைச்சுகளுக்கு புதிய செயலாளர்கள் செவ்வாய்க்கிழமை (24) நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+3.   கே.டி.எஸ். ருவன்சந்திரா - போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சின் செயலாளர்
+
+4.   கே.எம்.எம். சிறிவர்தன - நிதி, பொருளாதார அபிவிருத்தி, கொள்கை உருவாக்கம், திட்டமிடல் மற்றும் சுற்றுலா அமைச்சின் செயலாளர்
+
+6. செல்வி ஜே.எம்.டி. ஜெயசுந்தர - ​​கல்வி, அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சின் செயலாளர்
+
+7.   கே. மகேசன் - பெண்கள், குழந்தைகள், இளைஞர் விவகாரம் மற்றும் விளையாட்டு அமைச்சகத்தின் செயலாளர்
+
+8.   எம்.எம். நைமுதீன் - வர்த்தகம், வர்த்தகம், உணவுப் பாதுகாப்பு, கூட்டுறவு மேம்பாடு, தொழில் மற்றும் தொழில்முனைவோர் மேம்பாட்டு அமைச்சகத்தின் செயலாளர்
+
+9.   ஏ.எம்.பி.எம்.பி. அடபத்து - ஊரக மற்றும் நகர்ப்புற வளர்ச்சி, வீட்டுவசதி மற்றும் கட்டுமான அமைச்சகத்தின் செயலாளர்
+
+...
+
+[Data](articles/77988478.json)
+
+---
+
+### மூவர் அடங்கிய அமைச்சரவை நியமனம்
+
+*2024-09-24 18:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூவர்-அடங்கிய-அமைச்சரவை-நியமனம்/175-344391) · `ta`
+
+ஜனாதிபதி அனுரகுமார திஸாநாயக்கவினால் மூன்று பேர் கொண்ட அமைச்சரவை இன்று (24)  நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு   தெரிவித்துள்ளது.
+
+ஜனாதிபதி அனுரகுமார: பாதுகாப்பு, நிதி, பொருளாதார அபிவிருத்தி, கொள்கை உருவாக்கம், திட்டமிடல் மற்றும் சுற்றுலா, எரிசக்தி, விவசாயம், காணி, கால்நடைகள், நீர்ப்பாசனம், மீன்பிடி மற்றும் நீரியல் வளங்கள் ஆகிய அமைச்சுகள் ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் கீழ் வருகின்றன.
+
+பிரதமர் ஹரிணி அமரசூரிய நீதி, பொது நிர்வாகம், மாகாண சபைகள், உள்ளூராட்சி மற்றும் தொழிலாளர், கல்வி, விஞ்ஞானம் மற்றும் தொழில்நுட்பம், பெண்கள், சிறுவர் மற்றும் இளைஞர் விவகாரம் மற்றும் விளையாட்டு, வர்த்தகம், வர்த்தகம், உணவு பாதுகாப்பு, கூட்டுறவு அபிவிருத்தி அமைச்சராக பதவிப் பிரமாணம் செய்துகொண்டார். தொழில்கள் மற்றும் தொழில்முனைவோர் மேம்பாடு மற்றும் ஆரோக்கியம்.
+
+...
+
+[Data](articles/b016dc49.json)
+
+---
+
+### නව අමාත්‍ය මණ්ඩලය පත්කරයි
+
+*2024-09-24 18:30:37* · [`adalk`](https://www.ada.lk/breaking_news/නව-අමාත්‍ය-මණ්ඩලය-පත්කරයි/11-412119) · `si`
+
+04 කෘෂිකර්ම, ඉඩම්, පශු සම්පත්, වාරිමාර්ග, ධීවර හා ජලජ සම්පත්
+
+05අධිකරණ, රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා, පළාත් පාලන සහ කම්කරු
+
+08 වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා, සමූපකාර සංවර්ධන, කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන
+
+10 බුද්ධශාසන, ආගමික සහ සංස්කෘතික කටයුතු, ජාතික ඒකාබද්ධතා, සමාජ ආරක්ෂණ සහ ජනමාධ්‍ය
+
+14  පරිසර, වනජීවි, වන සම්පත්, ජල සම්පාදන, වැවිලි සහ ප්‍රජා යටිතල පහසුකම්
+
+පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් නිපුණආරච්චි, හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන  සුනිල් හඳුන්නෙත්ති, බිමල් රත්නායක, වෛද්‍ය නලින්ද ජයතිස්ස , වසන්ත සමරසිංහ යන මහත්වරුන්ද, ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක, ආර්ක්ෂක අමාත්‍යාංශයේ ලේකම් එච්.එස්. තුයියකොන්ත යන මහත්වරුන් ඇතුළු  පිරිසක් මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/c0885cca.json)
+
+---
+
+### "This is the right moment"
+
+*2024-09-24 18:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவே-சரியான-தருணம்-தாமதிக்க-வேண்டாம்/175-344390) · `ta`
+
+Sri Lanka PA supports abolishing executive presidency and changing electoral system. National Organizer Namal Rajapaksa emphasizes urgency of reforming presidential powers.
+
+🟩
+
+Sri Lanka PA will provide its full support if the national people's power takes action to abolish the executive presidency and change the electoral system, said Namal Rajapaksa, National Organizer of the Sri Lanka PA.
+
+Since 1994, all the presidents have said that all the presidents have been abolishing the executive presidency, but that no one has done so.
+
+Namal Rajapaksa added that if there is a need to abolish the executive presidency.
+
+◼️
+
+[Data](articles/6594d3f8.json)
+
+[Extended Data](ext_articles/6594d3f8.ext.json)
+
+---
+
+### Swearing in new cabinet
+
+*2024-09-24 18:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-பதவியேற்பு/175-344389) · `ta`
+
+New cabinet sworn in: President Anura Kumara Dissanayake takes defense, finance roles. Prime Minister Harini Amarasuriya assumes justice, education portfolios. Vijitha Herath named housing minister. Key appointments include Lakshman Specialist, Sunil Handunnethi, Bimal Ratnayake, Nalinda Jayatissa, Vasantha Samarasinghe, Nandika Sanath Kumanayake.
+
+🟩
+
+President Anura Kumara Dissanayake has been appointed as the Minister of Defense, Financial, Economic Development, National Policies, Planning and Travel, Power, Power, Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources.
+
+Prime Minister Harini Amarasuriya as the Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Local Government, Education, Science and TechnologyTaken over
+
+Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Media Department, Transport, Highways, Ports and Civil Aviation, Public Safety, Foreign, Environment, Wildlife, Water Resources, Water Resources, Water Supply, Plantation and Social Infrastructure and Rural and Urban DevelopmentVijitha Herath was sworn in as Minister of Housing and Construction.
+
+...
+
+[Data](articles/00db9240.json)
+
+[Extended Data](ext_articles/00db9240.ext.json)
+
+---
 
 ### New secretaries appointed
 
@@ -91,6 +213,22 @@ New Secretaries have been appointed for 15 ministries, including the positions o
 [Data](articles/002208ef.json)
 
 [Extended Data](ext_articles/002208ef.ext.json)
+
+---
+
+### ජනපති අනුරගේ රජය සමග වැඩ කරන්න අයි.එම්.එෆ්. සූදානම්
+
+*2024-09-24 18:09:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුරගේ-රජය-සමග-වැඩ-කරන්න-අයි-එම්-එෆ්--සූදානම්/11-412118) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල (IMF) අඟහරුවාදා නව ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ නව රජය සමඟ සමීපව කටයුතු කිරීමට ජාත්‍යන්තර මූල්‍ය අරමුදල සූදානමින් සිටින බවත් ශ්‍රී ලංකාව සම්බන්ධයෙන් ක්‍රියාත්මක විස්තීර්ණ ණය පහසුකමට අදාළ මීළඟ සමාලෝචනය පවත්වන්නේ කවදාද යන්න පිළිබඳව නව රජය සමග සාකච්ඡා කිරීමට සූදානම් බව IMF නිවේදනයක් නිකුත් කරමින් කියා සිටියේය.
+
+මැතිවරණය හේතුවෙන් කල් දැමුණු ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තර්ණ ණය පහසුකමේ මීළඟ සමාලෝචනය නිමා විරීමෙන් අනතුරුව ශ්‍රී ලංකාවට මීළඟ වාරිකය ලෙස ඇමෙරිකානු ඩොලර් මිලියන 360කට ආසන්න මුදලක් ලැබීමට නියමිතය.
+
+තුන්වැනි සමාලෝචනයට අදාළ කාල රාමුව සම්බන්ධයෙන් ශ්‍රි ලංකා සමග ඉතා ඉක්මනින් සාකච්ඡා කිරීමට කටයුතු කරන බවද අරමුදල පවසයි.
+
+◼️
+
+[Data](articles/bf712e67.json)
 
 ---
 
@@ -191,6 +329,32 @@ Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community,
 [Data](articles/9f5108bf.json)
 
 [Extended Data](ext_articles/9f5108bf.ext.json)
+
+---
+
+### Those who have corrupted charges are unable to return
+
+*2024-09-24 17:54:58* · [`adalk`](https://www.ada.lk/breaking_news/දුෂණ-චෝදනා-ඇති-අය-නැවත-පොහොට්ටුවට-ගන්නේ-නැතිලු/11-412117) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Corrupted charges prevent return. Sri Lanka Knowledge discusses general election strategy. Party representatives debate next steps. Sri Lanka Knowledge addresses Sri Lanka Crowd Front. General Front issues statement, many restored party members request SLMC involvement.
+
+🟩
+
+Sri Lanka Knowledge Against Sri Lanka Maha Croad. Party representatives have been discussed at length of how to deal with the next general election at Nelum Road.
+
+The Sri Lanka Known Knowledge of the Sri Lanka Knowledge has decided to address the Sri Lanka Crowd's Front.
+
+The Sri Lanka General Front issued a statement that many people who have been restored with the party again have requested the SLMC.
+
+◼️
+
+[Data](articles/8caeda8f.json)
+
+[Extended Data](ext_articles/8caeda8f.ext.json)
 
 ---
 
@@ -2173,209 +2337,5 @@ The islands can be expected to come to land on the height of the height.
 [Data](articles/4126a2b6.json)
 
 [Extended Data](ext_articles/4126a2b6.ext.json)
-
----
-
-### The resignation of Chareter is in the Gazette.
-
-*2024-09-24 09:58:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுவரின்-இராஜினாமா-வர்த்தமானியில்-வௌியானது/175-344362) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Chareter resigns as Governor of Eastern Province. Presidential Secretariat issues gazette notification detailing resignation."
-
-🟩
-
-The Presidential Secretariat has issued a gazette notification for the details of Cardar who resigned from the posts of Governor Senthil Thondaman, including the Governor of the Eastern Province.
-
-◼️
-
-[Data](articles/1d08ab70.json)
-
-[Extended Data](ext_articles/1d08ab70.ext.json)
-
----
-
-### Dr. Harini Amarasuriya: Prime Minister appointed Sri Lanka after 2 years
-
-*2024-09-24 09:56:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2dp41z26xgo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dr. Harini Amarasuriya becomes Sri Lanka's PM without political ties. Born 1970, educated in sociology and social anthropology. Served as university lecturer and activist. Elected to parliament in 2020, focusing on education, rights, and healthcare. Appointed PM after PM resignation, making history as first female PM without political family background in South Asia.
-
-🟩
-
-Dr. Harini Amarasuriya: Prime Minister appointed Sri Lanka after 2 years
-
-Anura Kumara Dissanayake was appointed as the president on September 21, 2024, changing the political history of Sri Lanka, and the Prime Minister resigned from his post.
-
-Accordingly, MP Harinini Amarasuriya was sworn in as Prime Minister this afternoon.
-
-Who is Dr. Harini Amarasuriya, who was appointed as the Prime Minister without a political family backsuriya after his inheritance in her own inheritance?
-
-Dr. Haraini Amarasuriya of Dr. Harini Amarasuriya was born on March 6, 1970. She has two siblings.
-
-Those who have studied the basic education from Bishop's College Colombo have gone abroad for higher education.
-
-She has been graduated by a Bachelor of Arts in Sociology as a Bachelor's Degree from University of Sri Lanka, and a Masters Degree in Applied Human Science and Development Studies from the University of Sydney, Australia.
-
-...
-
-[Data](articles/f7c1ba1b.json)
-
-[Extended Data](ext_articles/f7c1ba1b.ext.json)
-
----
-
-### I leave the strong financial stock for uninterrupted fuel supply - Kanchana Wijesekera
-
-*2024-09-24 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/194657) · `ta`
-
-Kanchana Wijesekera hands over strong financial stockpile of coal and petroleum products, ensuring uninterrupted fuel and electricity supply.
-
-🟩
-
-Former Electricity and Power Minister Kanchana Wijesekera said that I will hand over a structure with a strong financial situation with the stockpile of sufficient coal and petroleum products that can provide uninterrupted fuel and electricity.
-
-He has uploaded the X website to the X website after handing over vehicles and responsibilities for the ministry on Monday (23).
-
-I have handed over the state vehicles, including the Ministry of Electricity and Shakti, which has a strong financial framework, with the coal reserves that are essential for adequate petroleum production and power supply.
-
-All these structures are in a position to provide positive consequences, including the benefit of redemption of a favorable expenditure service, and the support of the Treasury through additional revenue for distributors.
-
-I thank all those who have cooperated in all ways over the past two years, including former President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/78ac2ca5.json)
-
-[Extended Data](ext_articles/78ac2ca5.ext.json)
-
----
-
-### New Cabinet to be sworn in today?
-
-*2024-09-24 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102228/new-cabinet-to-be-sworn-in-today) · `en`
-
-It is reported that the new Cabinet of Ministers to be formed under President Anura Kumara Dissanayake will likely be sworn in today (24).
-
-Political sources said that this swearing-in of the new Cabinet is aimed at preparing for the upcoming General Election.
-
-A special gazette had announced the appointment of Lakshman Nipuna Arachchi as a Member of Parliament, filling the vacancy created following Anura Kumara Dissanayake’s election as the new President.
-
-Accordingly, this means that four representatives from the National People’s Power (NPP), including the President, will remain in Parliament and would receive Cabinet Ministerial portfolios.
-
-The newly formed Cabinet is expected to serve in their positions until the new Parliament is elected.
-
-After the swearing-in of the Cabinet of Ministers, President Dissanayake would convene the Cabinet and after allocating funds for a parliamentary election, the Parliament will be dissolved, political sources told Ada Derana.
-
-...
-
-[Data](articles/98ee3378.json)
-
-[Extended Data](ext_articles/98ee3378.ext.json)
-
----
-
-### President congratulates Chinese President
-
-*2024-09-24 09:44:59* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුරට-චීන-ජනපතිගෙන්-සුබ-පැතුම්/11-412103) · `si`
-
-Sri Lanka's new president congratulates China's Xi Jinping. Both nations have maintained friendly neighborly ties since 1957. They aim to strengthen bilateral relations and boost mutual trust through strategic cooperation.
-
-🟩
-
-New President Anura Kumara Dissanayake congratulates Chinese President Xi Jin Pin. The message has been forwarded today (23).
-
-Shi Jin Pin pointed out that China and Sri Lanka is friendly neighbors.. The two countries always set a fine example of mutual beneficiary cooperation between China and Sri Lanka 67 years ago.
-
-Anura Kumara Dissanayake is ready to work with the Chinese-Sri Lanka relations to enhance the Chinese-Sri Lanka relations and to improve mutual political confidence.
-
-The Chinese President has also continued to meet the high quality and strategic cooperation between China and Sri Lanka.
-
-◼️
-
-[Data](articles/08cce46c.json)
-
-[Extended Data](ext_articles/08cce46c.ext.json)
-
----
-
-### Corporation
-
-*2024-09-24 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194658) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Extraordinary 2022 events concluded in recent presidential election."
-
-🟩
-
-The extraordinary events that took place in 2022 have reached their end in the recent presidential election.
-
-◼️
-
-[Data](articles/5249957f.json)
-
-[Extended Data](ext_articles/5249957f.ext.json)
-
----
-
-### Certificate given to Anura Cardinal Thero
-
-*2024-09-24 09:38:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-කාදිනල්-හිමියන්ට-දුන්-සහතිකය/11-412102) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake visits Archbishop Malcolm Cardinal. Presents certificate to Anura Cardinal Thero. Promises support for country's development. Attends religious ceremony at Dangea and Molomel.
-
-🟩
-
-New President Anura Kumara Dissanayake visited the Archbishop of Colombo yesterday (23) last evening.
-
-The President who arrived at the Archbishop of Borella, the President visited the Archbishop and consult the healing suffering.
-
-The Archbishop of Colombo is completely undoubtedly Malcolm Cardinal.,
-
-I wish the highest number of people in Sri Lanka as the most popular. The people of the country have been assigned to the ruling responsibility to make the necessary change in Sri Lanka. This may be a blevant and dash. We promise him our full support and blessings. I urge you, especially to continue the ridiculous people in the country.
-
-The President insisted that a journalist was responding to a question raised by the President.
-
-...
-
-[Data](articles/61543dc1.json)
-
-[Extended Data](ext_articles/61543dc1.ext.json)
-
----
-
-### Presidential Certificate of Anura Cardinal
-
-*2024-09-24 09:38:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-කාදිනල්-හිමියන්ට-දුන-සහතිකය/11-412102) · `si`
-
-Sri Lanka's new President Anura Kumara Dissanayake met with Archbishop Malcolm Cardinal. They discussed healing suffering and national issues. The President emphasized his commitment to change and received support from religious leaders and officials.
-
-🟩
-
-New President Anura Kumara Dissanayake visited the Archbishop of Colombo yesterday (23) last evening.
-
-The President who arrived at the Archbishop of Borella, the President visited the Archbishop and consult the healing suffering.
-
-The Archbishop of Colombo is completely undoubtedly Malcolm Cardinal.,
-
-I wish the highest number of people in Sri Lanka as the most popular. The people of the country have been assigned to the ruling responsibility to make the necessary change in Sri Lanka. This may be a blevant and dash. We promise him our full support and blessings. I urge you, especially to continue the ridiculous people in the country.
-
-The President insisted that a journalist was responding to a question raised by the President.
-
-...
-
-[Data](articles/eed9aa7f.json)
-
-[Extended Data](ext_articles/eed9aa7f.ext.json)
 
 ---

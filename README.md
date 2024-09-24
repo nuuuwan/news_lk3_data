@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 17:59:34**
+As of **2024-09-24 18:19:55**
 
 ## Newspaper Stats
 
-*Scraped **46,041** Articles*
+*Scraped **46,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,118 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,234
+adalk | 4,235
 dailymirrorlk | 4,733
-adaderanalk | 5,421
+adaderanalk | 5,423
 tamilmirrorlk | 6,149
 virakesarilk | 7,357
-adaderanasinhalalk | 7,960
+adaderanasinhalalk | 7,961
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,038 (100.0%) of 46,041 articles have been extended.
+46,045 (100.0%) of 46,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### New Cabinet sworn in
+
+*2024-09-24 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201506) · `si`
+
+Dr. Weli Amarasuriya sworn in as MP before President Anura Kumara Dissanayake at Presidential Secretariat on 24th.
+
+🟩
+
+MP Dr. Weli Amarasuriya was sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat today (24) at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/99bf2643.json)
+
+[Extended Data](ext_articles/99bf2643.ext.json)
+
+---
+
+### Sri Lanka’s new three-member Cabinet appointed
+
+*2024-09-24 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102246/sri-lankas-new-three-member-cabinet-appointed) · `en`
+
+Sri Lanka’s new three-member Cabinet of Ministers was sworn-in before President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo, a short while ago.
+
+Dr. Harini Amarasuriya was sworn-in as the Minister of Justice, Education, Labour, Industries, Science and Tech, Health and Investment, shortly after taking oath as the new Prime Minister.
+
+President Anura Kumara Dissanayake has retained the following Ministerial portfolios:
+
+Prime Minister Dr. Harini Amarasuriya has been given the following Ministerial portfolios:
+
+Trade, Commercial, Food Security, Co-operative Development, Industries and Entrepreneur Development
+
+Buddhasasana, Religious and Cultural Affairs, National Integration, Social Security and Mass Media
+
+Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community, Infrastructure
+
+...
+
+[Data](articles/9f5108bf.json)
+
+[Extended Data](ext_articles/9f5108bf.ext.json)
+
+---
+
+### Harini Amarasuriya: 7 things to know about Sri Lanka’s first female PM in 25 years
+
+*2024-09-24 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102245/harini-amarasuriya-7-things-to-know-about-sri-lankas-first-female-pm-in-25-years) · `en`
+
+Days after getting a new President, Sri Lanka on Tuesday got Harini Amarasuriya as its new Prime Minister who became the first woman leader to hold the post since Sirimavo Bandaranaike in 2000.
+
+Amarasuriya, a national executive committee member of the National People’s Power (NPP), was administered the oath by President Anura Kumara Dissanayake at a ceremony in the capital, Colombo.
+
+1 - Daughter of a homemaker mother and a tea plantation father, Amarasuriya is the first one to enter politics from her family.
+
+2 - 54-year-old Amarasuriya is an academic, rights activist, and university lecturer and is known for her work in education and social justice.
+
+3 - She has served as a senior lecturer in Sociology and Social Anthropology in the Department of Social Sciences of Open University, Sri Lanka and has made significant contributions to social justice and education in the country.
+
+4 - She is the first academic-turned-politician to take charge of the prime minister of Sri Lanka.
+
+...
+
+[Data](articles/700488f1.json)
+
+[Extended Data](ext_articles/700488f1.ext.json)
+
+---
+
+### A statement from the new Prime Minister about the confidence of the people - a hint of dissolutionizing Parliament
+
+*2024-09-24 17:33:16* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාවගේ-විශ්වාසය-ගැන-නව-අගමැතිණියගෙන්-ප්‍රකාශයක්---පාර්ලිමේන්තුව-විසුරවාහැරීම-ගැනත්-ඉඟියක්/11-412116) · `si`
+
+Here's a 200-character summary of the statement:
+
+
+
+New PM Dr. Harunne Amauriya vows to protect people's trust after swearing-in. Promises swift action, thanking supporters for faith. Hints at Parliament dissolution.
+
+🟩
+
+New Prime Minister Dr. Harunne Amauriya said that the belief that the people were preserved in the same way.
+
+She made this statement after his swearing in the post of Prime Minister.
+
+Want to take up work now. It's been to accept work and get to work.
+
+A. Thank you so much to the people to believe in our. It'll protect it like that.
+
+◼️
+
+[Data](articles/60d33b2f.json)
+
+[Extended Data](ext_articles/60d33b2f.ext.json)
+
+---
 
 ### ‘Parliament will most likely be dissolved today’ – PM Harini
 
@@ -746,39 +842,57 @@ He also mentioned that he was fortunate to have led the public service of the We
 
 ---
 
-### ஊழல் குற்றச்சாட்டுக்கு ஆளான எவரையும் மீண்டும் சேர்த்துக் கொள்ள போவதில்லை  - ஸ்ரீலங்கா பொதுஜன பெரமுன
+### Sri Lanka PA is not going to recruit anyone who is accused of corruption
 
 *2024-09-24 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194692) · `ta`
 
-இந்நிலையில்,  ஸ்ரீலங்கா பொதுஜன பெரமுன பாராளுமன்ற தேர்தலை எவ்வாறு அணுகுவது என்பது குறித்து விரிவான கலந்துரையாடல் இன்று செவ்வாய்க்கிழமை (24) நெலும் மாவத்தையில் நடைபெற்றுள்ளது.
+Sri Lanka PA rejects corrupt candidates, discusses former members' return. Party meeting focuses on recruitment standards and reconciliation efforts.
 
-அதில், ஜனாதிபதி தேர்தலின் போது கட்சியில் இருந்து விலகியவர்கள் மீண்டும் ஸ்ரீலங்கா பொதுஜன பெரமுனவில் இணைந்து கொள்வதா என்பது தொடர்பில் கலந்துரையாடப்பட்டுள்ளது.
+🟩
 
-ஊழல் குற்றச்சாட்டுக்கு ஆளான எவரையும் மீண்டும் சேர்க்க வேண்டாம் என்றும் கட்சி முடிவு செய்துள்ளது.  அத்தோடு, முன்னதாக கட்சியில் இருந்து விலகியவர்களில் பலரை மீண்டும் இணையுமாறு வேண்டுகோள் விடுத்துள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுன கடட்சியின் பேச்சாளர்  தெரிவித்துள்ளார்.
+In this context, a detailed discussion on how to approach the PA is being held in Nelum Mawatha on Tuesday (24).
+
+It has been discussed whether those who resigned from the party during the presidential election will rejoin the Sri Lankan PA.
+
+The party has also decided not to recruit anyone who has been accused of corruption.The spokesman for the Sri Lanka PA has been requested to re -join many of those who resigned from the party.
 
 ◼️
 
 [Data](articles/7e998869.json)
 
+[Extended Data](ext_articles/7e998869.ext.json)
+
 ---
 
-### தமிழ்த்தேசிய உணர்வுத் தளத்தை மீளக் கட்டமைப்பதில் பொதுவேட்பாளர் காத்திரமாக பங்காற்றியுள்ளார் - பொ.ஐங்கரநேசன்
+### General Candidate
 
 *2024-09-24 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194686) · `ta`
 
-முள்ளிவாய்க்கால் யுத்தத்தின் முடிவுவரை தேசமாகத் திரண்டிருந்த தமிழ் மக்கள் அதன் பின்னர் சாதிகளாகவும், சமயங்களாகவும், பிரதேசங்களாகவும், கட்சிகளாகவும் சிதறடிக்கப்பட்டுள்ளனர்.
+Here's a 200-character summary:
 
-தென்னிலங்கை அரசியல்வாதிகளோடு தமிழ் அரசியல்வாதிகள் சிலரும் கைகோர்த்து திட்டமிட்டு இதனை நிறைவேற்றி வந்துள்ளனர்.
 
-"இந்நிலையில், ஜனாதிபதித் தேர்தலில் தமிழ்த் தேசியப் பொதுக்கட்டமைப்பின் சார்பில் தமிழ்ப் பொதுவேட்பாளராகப் போட்டியிட்ட பா.அரியநேத்திரன் சிதறிக்கிடக்கும் தமிழ்த் தேசிய உணர்வுத் தளத்தை மீளக்கட்டமைப்பதில் காத்திரமான பங்காற்றியுள்ளார்." என்று தமிழ்த் தேசியப் பசுமை இயக்கத்தின் தலைவர் பொ.ஐங்கரநேசன் சுட்டிக்காட்யுள்ளார்.
 
-ஜனாதிபதித் தேர்தலில் போட்டியிட்ட தமிழ்ப் பொதுவேட்பாளர் குறித்து பொ.ஐங்கரநேசன் வெளியிட்டுள்ள ஊடக அறிக்கையிலேயே இவ்வாறு சுட்டிக்காட்டியுள்ளார்.
+Tamil politician PA Ariyanethran contests presidential election under TNA banner. Leader P.Ingaranesan highlights candidate's efforts to unite Tamil people and rebuild national sentiment. Despite spending by southern parties, candidate garners significant Tamil votes, strengthening Tamil nationalism.
 
-“ஒரு இனத்தைத் தேசமாகக் கட்டியமைப்பதில் அந்த இனம் பேசுகின்ற மொழி, தாயகமாகக் கொண்டிருக்கும் நிலப்பரப்பு, பண்பாடு ஆகியன வகிக்கும் பங்களிப்புகளுக்கு நிகராக தேசம் என்ற உணர்வு நிலையும் இன்றியமையாதது.
+🟩
+
+The Tamil people who gathered in the nation until the end of the war, and then have been scattered into castes, religions, territories and parties.
+
+Some Tamil politicians have joined hands with the South Sri Lanka politicians.
+
+"In this case, PA Ariyanethran, who contested the Tamil National Alliance on behalf of the Tamil National Alliance (TNA) in the presidential election, has played a role in the reconstruction of the Tamil national sentimental base."The leader of the Tamil National Green Movement P.Ingaranesan pointed out.
+
+In a media statement issued by P.Ingaranesan on the Tamil general candidate who contested the presidential election.
+
+“The consciousness of the nation is not essential to the contributions of the language, the homeland and the culture that the race speaks of a nation as a nation.
+
+The consciousness of the nation of the post -war Tamil politics has been blurred by the majority of the worlds and their stages that have infiltrated the Tamil context.
 
 ...
 
 [Data](articles/e3d2b807.json)
+
+[Extended Data](ext_articles/e3d2b807.ext.json)
 
 ---
 
@@ -804,21 +918,27 @@ The Railway Control Room further said that the railway track has been severely d
 
 ---
 
-### பேருவளையில் ஹெரோயினுடன் ஒருவர் கைது
+### Arrested with heroin in Beruwala
 
 *2024-09-24 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194684) · `ta`
 
-களுத்துறை, பேருவளை பொலிஸ் பிரிவுக்குட்பட்ட மாகல்கந்த பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று திங்கட்கிழமை (23) கைது  செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Heroin arrest in Beruwala: 49-year-old man caught with 303g of 500mg heroin pills. Arrest made after tip to local police station.
 
-பேருவளை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் மினுவாங்கொடை பகுதியைச் சேர்ந்த 49 வயதுடையவர் ஆவார்.
+A suspect has been arrested on Monday (23) in Magalkanda area of ​​the Kalutara and Beruwala police division, police said.
 
-கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 303 கிராம் 500 மில்லிகிராம் ஹெரோயின் போதைப்பொருள்  கைப்பற்றப்பட்டுள்ளது.
+The suspect has been arrested during a roundup on the basis of information received by the Beruwala police station.
+
+The arrested suspect is 49 -year -old from Minuwangoda.
+
+303 grams of 500 milligrams of heroin has been seized from the arrested suspect.
 
 ◼️
 
 [Data](articles/5afd481b.json)
+
+[Extended Data](ext_articles/5afd481b.ext.json)
 
 ---
 
@@ -2233,97 +2353,5 @@ Born in Colombo on November 26, 1966, Air Vice Marshal Tubonanu Vishaluwoman stu
 [Data](articles/c3f7d207.json)
 
 [Extended Data](ext_articles/c3f7d207.ext.json)
-
----
-
-### Elephant death in Majma for 8 days
-
-*2024-09-24 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194655) · `ta`
-
-Elephant dies after 8-day battle in Batticaloa's Majma Nagar. Wildlife team treats but fails to save animal. Community helps provide care during illness.
-
-🟩
-
-An elephant who was fighting for life in Majma Nagar, Batticaloa, Koralaipattu, Koralaipattu, died on Monday (23) evening, said the President of the area Rural Development Association and social activist AL Sameem.
-
-Ottamavadi - Majma Nagar Kovit Center in the area on the 16th of last month has suddenly fell into a sickness.
-
-In the meantime, the Elephant Team of Wildlife Department from Ampara has been treated for treatment of the elephant and the elephant has died yesterday after treatment.
-
-It is also noteworthy that the community activists were involved in providing water and providing food to save the elephant.
-
-◼️
-
-[Data](articles/12211363.json)
-
-[Extended Data](ext_articles/12211363.ext.json)
-
----
-
-### Northern Province Governor resigns
-
-*2024-09-24 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102227/northern-province-governor-resigns-) · `en`
-
-The Governor of the Northern Province P. S. M. Charles has resigned from her position.
-
-Meanwhile, several other provincial governors had also issued letters of resignation yesterday (23).
-
-The Governors had taken this decision following Anura Kumara Dissanayake’s swearing in as the President of Sri Lanka yesterday.
-
-◼️
-
-[Data](articles/59cc70fa.json)
-
-[Extended Data](ext_articles/59cc70fa.ext.json)
-
----
-
-### Special announcement for Sri Lankans in Israel
-
-*2024-09-24 09:08:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலில்-உள்ள-இலங்கையர்களுக்கு-விஷேட-அறிவிப்பு/50-344361) · `ta`
-
-Sri Lankan Ambassador warns citizens in Israel about Hezbollah attacks. Advises them to seek shelter in nearby safe houses during security incidents.
-
-🟩
-
-The Sri Lankan Ambassador to Israel has appealed to the Sri Lankans who are staying in Israel.
-
-The Hizbullah organization from South Lebanon has carried out several shell and rocket attacks through the air in Haifa, Galile, Kollan and Nazareth in the northern part of Israel.
-
-The Sri Lankan Ambassador to Israel has announced to the Sri Lankans in Israel to look into these attacks from time to time.
-
-In every case of security noise, he said that Sri Lankans working in the northern region of Israel would go to the nearest safe houses and protect themselves.. Remble
-
-◼️
-
-[Data](articles/97e6aa8b.json)
-
-[Extended Data](ext_articles/97e6aa8b.ext.json)
-
----
-
-### New President assumed Presidential post for five years
-
-*2024-09-24 09:08:22* · [`adalk`](https://www.ada.lk/breaking_news/නව-ජනපති-වසර-පහකට-ජනාධිපති-ධුරය-භාරගත්-බවට-ගැසට්ටුවක්/11-412100) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara Dissanayake elected President for 5 years. Gazetted under 32nd Constitution, 47th Sub-Registration. New President Dr. NSumantay issues gazette notification.
-
-🟩
-
-Anura Kumara Dissanayake was elected President by the Presidential Election, announcing a special gazette notification, declaring that he accepted the presidency for five years.
-
-Anura Kumara Dissanayake was signed by the 32nd Constitution of the Constitution and the 47th Sub-Regreignment of the Constitution and in the Seventh Sub Register, the Democratic Socialist Republic of Sri LankaThe gazette announced that the presidency was handed over.
-
-The gazette notification was issued by the new President Dr. NSumantay yesterday.
-
-◼️
-
-[Data](articles/dfdb7a7b.json)
-
-[Extended Data](ext_articles/dfdb7a7b.ext.json)
 
 ---

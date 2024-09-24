@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 13:58:17**
+As of **2024-09-24 14:24:42**
 
 ## Newspaper Stats
 
-*Scraped **45,997** Articles*
+*Scraped **46,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,227
+adalk | 4,229
 dailymirrorlk | 4,733
 adaderanalk | 5,413
 tamilmirrorlk | 6,142
-virakesarilk | 7,344
+virakesarilk | 7,346
 adaderanasinhalalk | 7,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,997 (100.0%) of 45,997 articles have been extended.
+46,001 (100.0%) of 46,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Earthquake in Japan;Tsunami warning
+
+*2024-09-24 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194672) · `ta`
+
+Japan earthquake triggers tsunami warning: USGS issues alert for remote islands. Local authorities advise waves may reach 1 meter.
+
+🟩
+
+A tsunami warning has been issued on Tuesday following an earthquake in Japan's remote island, Islands.
+
+The US Geological Survey Center and local weather officials have issued the tsunami warning.
+
+The Japanese Meteorological Department has advised that waves will rise from sea level to 1 meter (gajam).
+
+◼️
+
+[Data](articles/3447ce57.json)
+
+[Extended Data](ext_articles/3447ce57.ext.json)
+
+---
+
+### New President Anura Kumara Dissanayake
+
+*2024-09-24 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194680) · `ta`
+
+Here's a 200-character summary:
+
+
+
+New President Anura Kumara Dissanayake: "I'm no wizard. I'll focus on improving skills, expanding knowledge, and making informed decisions to protect democracy."
+
+🟩
+
+I am not a wizard. There are things I know and I don't know. My primary priority is to improve my skills, expand my knowledge and make the best decisions to rule the country. I will act to protect democracy
+
+◼️
+
+[Data](articles/688f34ea.json)
+
+[Extended Data](ext_articles/688f34ea.ext.json)
+
+---
+
+### Tips to Sajoba from UNP deputy leader
+
+*2024-09-24 13:40:05* · [`adalk`](https://www.ada.lk/breaking_news/සියලු-දෙනා-එක්ව-මහ-මැතිවරණයට-තරග-කරමු--එජාප-නියෝජ්‍ය-නායකගෙන්-සජබට-යෝජනාවක්/11-412111) · `si`
+
+UNP Deputy Leader Ruwan Wijewardene proposes competing in next general election. Ranil Wickremesinghe declines participation. Party seeks leadership from experienced members.
+
+🟩
+
+Deputy Leader of the UNP MP Ruwan Wijewardene said that the proposal to compete in the next general election is proposed to be constantly.
+
+He was speaking at a media briefing held in Colombo today (24) he said.
+
+"Ranil Wickremesinghe has decided not to present the general election.. Also, the national list has no intention of hearing. And as a senior man, as a former president, we offer the leadership of our Leader. But he does not come forward at general election. We look forward to awaiting the general election.. We suggest the leadership of the unique people and the party to the party. "
+
+◼️
+
+[Data](articles/93932624.json)
+
+[Extended Data](ext_articles/93932624.ext.json)
+
+---
 
 ### Maskeliya student Abhinaya's humanity
 
@@ -134,6 +200,58 @@ He noted that the increase in production and the decline in demand was the cause
 
 ---
 
+### Mysterious City of the United States
+
+*2024-09-24 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194676) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Bodie: A former California mining town turned ghost town due to gold depletion and violent crimes. Now shrouded in paranormal legends and curses, it attracts curious tourists despite its abandoned state.
+
+🟩
+
+Superstitious beliefs and customs should be said to be the only people living in the lower countries.. People in the West have some bizarre customs.
+
+The number 13 is viewed as a dagger number in the United States. There are no rooms in number 13 in many hotels. There are no 13th digits for the order and homes in some streets.
+
+Thus, a city with mysterious beliefs and habits is in California. The place, which was considered a lucky place in the late 19th century, is a cursed city today.
+
+This is an example of the fact that Americans believe in curses. The name of this city is Bodie. What happened to this city?Why is it a curse?What happened to Bodi, which was once a very fortunate city?Come on.
+
+In 1876 William S, Bode (William S. Bodey) found this village. Because of this, the village became the name of Bodi when the village became a city with prosperity.Bode first knew that there was gold in the area. The village then became a lucky place to many.
+
+...
+
+[Data](articles/835658ef.json)
+
+[Extended Data](ext_articles/835658ef.ext.json)
+
+---
+
+### Gotabhaya goes to Nepal
+
+*2024-09-24 13:02:47* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාභය-නේපාලයට-යයි/11-412109) · `si`
+
+Former Sri Lankan President Gotabhaya Rajapaksa arrives in Kathmandu, stays at Lalitpur hotel, meets police inspector general.
+
+🟩
+
+Former President Gotabhaya Rajapaksa had arrived in Kathmandu yesterday.
+
+He is located on Monday morning to Kathmandu to Kathmandu and she is staying at the Internet Hotel in Lalthpol.
+
+Lalithpour District Police Inspector General of Police Narees Narees Narees Narees 'Narees' to visit Gotabhaya Rajapaksa.
+
+◼️
+
+[Data](articles/9bc7ac74.json)
+
+[Extended Data](ext_articles/9bc7ac74.ext.json)
+
+---
+
 ### Lonely
 
 *2024-09-24 12:56:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியாக-ஓடிய-ரயில்-இயந்திரம்/175-344375) · `ta`
@@ -177,6 +295,30 @@ Earlier, the National People's Power had stated that the four ministers cabinet 
 [Data](articles/6758fc26.json)
 
 [Extended Data](ext_articles/6758fc26.ext.json)
+
+---
+
+### Increase in wildfire spread!
+
+*2024-09-24 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194674) · `ta`
+
+Wildfire surge: Drought fuels blazes, destroying over 10 acres in Hikurugamuwa forest. Firefighters contain inferno with support from police and locals. New outbreak reported in Kottalerakala, Wellawaya.
+
+🟩
+
+The Disaster Management Center said that the incidents of wildfire have increased due to the drought -stricken weather in the country.
+
+In the meantime, more than 10 acres of land has been destroyed due to the spread of fire in the Hikurugamuwa forest in Badulla yesterday.
+
+The fire has been controlled by the Disaster Management Center, the police and the residents of the area this morning (24).
+
+Meanwhile, police said that the fire that broke out last night in the Kottalerakala area in Wellawaya is being controlled.
+
+◼️
+
+[Data](articles/246cc9ef.json)
+
+[Extended Data](ext_articles/246cc9ef.ext.json)
 
 ---
 
@@ -245,36 +387,6 @@ United National Party Deputy Leader Ruwan Wijewardena and Chairman Vajira Abeywa
 [Data](articles/a03ba210.json)
 
 [Extended Data](ext_articles/a03ba210.ext.json)
-
----
-
-### Mysterious City of the United States
-
-*2024-09-24 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194676) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Bodie: A former California mining town turned ghost town due to gold depletion and violent crimes. Now shrouded in paranormal legends and curses, it attracts curious tourists despite its abandoned state.
-
-🟩
-
-Superstitious beliefs and customs should be said to be the only people living in the lower countries.. People in the West have some bizarre customs.
-
-The number 13 is viewed as a dagger number in the United States. There are no rooms in number 13 in many hotels. There are no 13th digits for the order and homes in some streets.
-
-Thus, a city with mysterious beliefs and habits is in California. The place, which was considered a lucky place in the late 19th century, is a cursed city today.
-
-This is an example of the fact that Americans believe in curses. The name of this city is Bodie. What happened to this city?Why is it a curse?What happened to Bodi, which was once a very fortunate city?Come on.
-
-In 1876 William S, Bode (William S. Bodey) found this village. Because of this, the village became the name of Bodi when the village became a city with prosperity.Bode first knew that there was gold in the area. The village then became a lucky place to many.
-
-...
-
-[Data](articles/835658ef.json)
-
-[Extended Data](ext_articles/835658ef.ext.json)
 
 ---
 
@@ -651,28 +763,6 @@ Furthermore, he said that later they will discuss the dissolution of the Parliam
 [Data](articles/55b3ca77.json)
 
 [Extended Data](ext_articles/55b3ca77.ext.json)
-
----
-
-### Earthquake in Japan;Tsunami warning
-
-*2024-09-24 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194672) · `ta`
-
-Japan earthquake triggers tsunami warning: USGS issues alert for remote islands. Local authorities advise waves may reach 1 meter.
-
-🟩
-
-A tsunami warning has been issued on Tuesday following an earthquake in Japan's remote island, Islands.
-
-The US Geological Survey Center and local weather officials have issued the tsunami warning.
-
-The Japanese Meteorological Department has advised that waves will rise from sea level to 1 meter (gajam).
-
-◼️
-
-[Data](articles/3447ce57.json)
-
-[Extended Data](ext_articles/3447ce57.ext.json)
 
 ---
 
@@ -2233,71 +2323,5 @@ She was announced as an honourable recipient of the prestigious Padma Shri award
 [Data](articles/036c3c3f.json)
 
 [Extended Data](ext_articles/036c3c3f.ext.json)
-
----
-
-### National Chamber of Exporters congratulates AKD
-
-*2024-09-24 03:33:25* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-congratulates-AKD/34-767070) · `en`
-
-The National Chamber of Exporters (NCE) in a statement yesterday extended its sincere congratulations to Anura Kumara Dissanayake on his historic victory as the newly elected President of Sri Lanka.
-
-“This decisive mandate reflects the trust and confidence the people have placed in his leadership to guide the country forward,” the NCE said.
-
-“We also take this opportunity to express our deepest gratitude to outgoing President Ranil Wickremesinghe, whose exceptional leadership steered the country through one of its most challenging periods. Under his stewardship, Sri Lanka experienced a remarkable economic recovery, particularly during a time when the nation was on the brink of collapse. His efforts to stabilise the country and lay the groundwork for recovery will be remembered as a key chapter in our nation’s history.”
-
-...
-
-[Data](articles/f2156485.json)
-
-[Extended Data](ext_articles/f2156485.ext.json)
-
----
-
-### Hotel Suppliers Association congratulates AKD
-
-*2024-09-24 03:30:29* · [`dailyftlk`](https://www.ft.lk/business/Hotel-Suppliers-Association-congratulates-AKD/34-767069) · `en`
-
-The Hotel Suppliers Association (HSA) has extended its heartfelt congratulations to Anura Kumara Dissanayake on his election as the ninth Executive President of Sri Lanka.
-
-“This momentous achievement reflects the trust and confidence the people of this great nation have placed in your leadership,” said HSA President Azad Mansoor in a statement.
-
-...
-
-[Data](articles/320e7555.json)
-
-[Extended Data](ext_articles/320e7555.ext.json)
-
----
-
-### COSMI congratulates AKD
-
-*2024-09-24 03:29:49* · [`dailyftlk`](https://www.ft.lk/business/COSMIcongratulates-AKD/34-767068) · `en`
-
-Confederation of Micro, Small and Medium Industries (COSMI) President Nawaz Rajabdeen extended his best wishes to the newly elected President Anura Kumara Dissanayake.
-
-“Congratulations. Our best wishes for the President-elect Anura Dissanayake for a land slide victory. This is a historic victory for the people of Sri Lanka,” Rajabdeen said in a statement.
-
-◼️
-
-[Data](articles/50a01fc4.json)
-
-[Extended Data](ext_articles/50a01fc4.ext.json)
-
----
-
-### Free Trade Zone Manufacturers’ congratulates AKD
-
-*2024-09-24 03:29:08* · [`dailyftlk`](https://www.ft.lk/business/Free-Trade-Zone-Manufacturers-congratulates-AKD/34-767067) · `en`
-
-The Executive Committee and members of the Free Trade Zone Manufacturers’ Association (FTZMA) have extended their heartfelt congratulations to the newly elected President Anura Kumara Dissanayake.
-
-They said his significant victory was a true reflection of the majority’s trust in him during the recent Presidential election and the historic win demonstrates the people’s urgent desire for democratic change and new leadership.
-
-...
-
-[Data](articles/068a0d0b.json)
-
-[Extended Data](ext_articles/068a0d0b.ext.json)
 
 ---

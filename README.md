@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 08:01:10**
+As of **2024-09-24 08:21:41**
 
 ## Newspaper Stats
 
-*Scraped **45,905** Articles*
+*Scraped **45,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,180 @@ colombotelegraphcom | 457
 islandlk | 2,695
 economynextcom | 2,773
 dailyftlk | 3,053
-adalk | 4,213
+adalk | 4,215
 dailymirrorlk | 4,733
-adaderanalk | 5,402
-tamilmirrorlk | 6,117
+adaderanalk | 5,404
+tamilmirrorlk | 6,121
 virakesarilk | 7,329
-adaderanasinhalalk | 7,939
+adaderanasinhalalk | 7,941
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,905 (100.0%) of 45,905 articles have been extended.
+45,905 (100.0%) of 45,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### பேராயரை சந்தித்தார் ஜனாதிபதி
+
+*2024-09-24 07:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராயரை-சந்தித்தார்-ஜனாதிபதி/175-344356) · `ta`
+
+புதிய ஜனாதிபதி அநுரகுமார திஸாநாயக்க நேற்று (23) கொழும்பு பேராயர் கர்தினால் மெல்கம் ரஞ்சித் ஆண்டகையைச் சந்தித்து ஆசி பெற்றார். பொரளையில் பேராயரின் உத்தியோகபூர்வ இல்லத்திற்கு விஜயம் செய்த ஜனாதிபதி, பேராயரைச் சந்தித்து நலம் விசாரித்ததுடன் சிறிது நேரம் உரையாடலில் ஈடுபட்டார்.
+
+இலங்கையின் பெரும்பான்மையான மக்களின் விருப்பத்தினால் ஜனாதிபதியாக தெரிவுசெய்யப்பட்டுள்ள அநுரகுமார திஸாநாயக்க அவர்களுக்கு எனது வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றேன். இந்தச் சந்தர்ப்பத்தில் இலங்கையில் தேவையான மாற்றத்தை ஏற்படுத்தும் பாரிய பொறுப்பை நாட்டு மக்கள் அவரிடம் ஒப்படைத்துள்ளனர்.
+
+இது பொறுப்பு வாய்ந்த மற்றும் கடினமான பணியாக இருக்கலாம். அதற்காக அவருக்கு நாம் முழு ஆதரவையும் ஆசிகளையும் வழங்குவோம் என்று உறுதியளிக்கிறோம். குறிப்பாக இந்நாட்டின் வறிய மக்களைப் பற்றி சிந்தித்து உங்கள் பணியை தொடருமாறு கேட்டுக்கொள்கிறேன்.
+
+...
+
+[Data](articles/168be29d.json)
+
+---
+
+### இலங்கை வங்கி தலைவர் இராஜினாமா
+
+*2024-09-24 07:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வங்கி-தலைவர்-இராஜினாமா/175-344355) · `ta`
+
+அரசுக்கு சொந்தமான இலங்கை வங்கி (BOC) தலைவர் கவன் ரத்நாயக்க நேற்று தனது பதவியில் இருந்து விலகினார்.
+
+நேற்றைய தினம் கொழும்பு பங்குச் சந்தைக்கு வழங்கிய அறிவிப்பில், ரத்நாயக்க, செப்டெம்பர் 22ஆம் திகதி முதல் அமுலுக்கு வரும் வகையில், வங்கியின் சுயாதீன, நிறைவேற்று அதிகாரமற்ற தலைவர் பதவியில் இருந்து இராஜினாமா செய்துள்ளதாக BOC தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/8b6b12c8.json)
+
+---
+
+### இன்று இரவு பாராளுமன்றம் கலைக்கப்படும்
+
+*2024-09-24 07:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இரவு-பாராளுமன்றம்-கலைக்கப்படும்/175-344354) · `ta`
+
+இன்று இரவு பாராளுமன்றம் கலைக்கப்படும் எனவும் டிசம்பர் மாதத்திற்குள் பாராளுமன்ற தேர்தல் நடத்தப்படும் எனவும் எமது சகோதர ஊடகமான டெய்லி மிரர் பிரத்தியேகமாக அறிந்து செய்தி வெளியிட்டுள்ளது.
+
+பிரதமர் பதவியில் இருந்து தினேஷ் குணவர்தன நேற்று இராஜினாமா செய்ததையடுத்து, ஜனாதிபதி அனுரகுமார திஸாநாயக்க இன்று அவர் உட்பட நான்கு அமைச்சர்களைக் கொண்ட இடைக்கால அமைச்சரவையை நியமிக்கவுள்ளதாக தேசிய மக்கள் சக்தியின் (NPP) மூத்த வட்டாரம் தெரிவித்துள்ளது.
+
+டெய்லி மிரர் பிரத்தியேகமாக பெற்ற பட்டியலின்படி, ஜனாதிபதி திஸாநாயக்க சுற்றுலா, பாதுகாப்பு, நிதி, நீதி, கைத்தொழில் மற்றும் முதலீட்டு ஊக்குவிப்பு பதவிகளை வைத்திருப்பார், அதே நேரத்தில் பிரதமர் வெளியுறவு, கல்வி மற்றும் வெகுஜன ஊடக அமைச்சராக இருப்பார்.
+
+NPP பாராளுமன்ற உறுப்பினர் கலாநிதி ஹரிணி அமரசூரிய பிரதமராக பதவிப் பிரமாணம் செய்து கொள்ளவுள்ளதுடன், சிரேஷ்ட பாராளுமன்ற உறுப்பினர் விஜித ஹேரத் மற்றும் புதிதாக பதவிப்பிரமாணம் செய்துள்ள பாராளுமன்ற உறுப்பினர் லக்ஷ்மன் நிபுன ஆராச்சி ஆகியோர் தலா பல அமைச்சுகளுடன் அமைச்சர்களாக நியமிக்கப்படவுள்ளனர்.
+
+...
+
+[Data](articles/77d3f450.json)
+
+---
+
+### උතුරේ ආණ්ඩුකාරවරියත් ඉල්ලා අස්වෙයි
+
+*2024-09-24 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201485) · `si`
+
+උතුරු පළාත් ආණ්ඩුකාර ලෙස කටයුතු කළ පී.එස්.එම්. චාල්ස් මහත්මිය එම ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+මේ අතර ඊයේ දිනයේ දී තවත් පළාත් කිහිපයක ආණ්ඩුකාරවරු සිය ධුරයන්ගෙන් ඉල්ලා අස්වන බවට ලිපි නිකුත් කර තිබුණි.
+
+අනුර කුමාර දිසානායක මහතා ඊයේ (23) ජනාධිපති ධුරයේ දිවුරුම් දීමත් සමග ආණ්ඩුකාරවරු මෙම තීරණය ගෙන ඇත.
+
+◼️
+
+[Data](articles/64a22ee9.json)
+
+---
+
+### Israeli strikes kill 492 in Lebanon’s deadliest day of conflict since 2006
+
+*2024-09-24 07:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102225/israeli-strikes-kill-492-in-lebanons-deadliest-day-of-conflict-since-2006) · `en`
+
+(AP) — Israeli strikes Monday on Lebanon killed more than 490 people, including more than 90 women and children, Lebanese authorities said, in the deadliest barrage since the 2006 Israel-Hezbollah war. The Israeli military warned residents in southern and eastern Lebanon to evacuate ahead of its widening air campaign against Hezbollah.
+
+Thousands of Lebanese fled the south, and the main highway out of the southern port city of Sidon was jammed with cars heading toward Beirut in the biggest exodus since 2006.
+
+Lebanon’s health ministry said the strikes killed 492 people, including 35 children and 58 women, and wounded 1,645 people — a staggering one-day toll for a country still reeling from a deadly attack on communication devices last week.
+
+In a recorded message, Israeli Prime Minister Benjamin Netanyahu urged Lebanese civilians to heed Israeli calls to evacuate, saying “take this warning seriously.”
+
+...
+
+[Data](articles/7774561a.json)
+
+---
+
+### இன்றைய வானிலை தொடர்பான அறிவிப்பு
+
+*2024-09-24 07:38:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-தொடர்பான-அறிவிப்பு/175-344353) · `ta`
+
+மேல் மற்றும் சபரகமுவ மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் இன்று மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அத்துடன் ஊவா மற்றும் கிழக்கு மாகாணங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+
+அதேநேரம் மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய மற்றும் தென் மாகாணங்களிலும் திருகோணமலை, மாத்தளை மற்றும் மொனராகலை மாவட்டங்களிலும் இடைக்கிடையே மணிக்கு 40 முதல் 45 கிலோ மீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் எனவும், வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. (a)
+
+◼️
+
+[Data](articles/eb1dbb78.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-09-24 07:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102224/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western and Sabaragamuwa provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts while a few showers may occur in North-western province.
+
+Showers or thundershowers may occur at a few places in Uva and Eastern provinces during the evening or night.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, North-western and Southern provinces and in Trincomalee, Matale and Monaragala districts, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/32c1b61c.json)
+
+---
+
+### නව අමාත්‍ය මණ්ඩලය අද දිවුරුම් දෙන ලකුණු
+
+*2024-09-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201484) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා යටතේ පිහිටුවනු ලබන නව කැබිනට් මණ්ඩලය අද (24) දිනයේ දී දිවුරුම් දෙනු ඇති බව වාර්තා වේ.
+
+මහ මැතිවරණය පැවැත්වීමේ අරමුණින් මෙම දිවුරුම් දීම සිදුවනු ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+
+අනුර කුමාර දිසානායක මහතා ජනාධිපති ධුරයට පත්වීමත් සමග ඔහුගෙන් පුරප්පාඩු වූ පාර්ලිමේන්තු මන්ත්‍රී ධුරය සඳහා ලක්ෂ්මන් නිපුණආරච්චි මහතාගේ නම විශේෂ ගැසට් පත්‍රයක් මඟින් ප්‍රකාශයට පත්කරනු ලැබීය.
+
+ඒ අනුව ජාතික ජන බලවේගය නියෝජනය කරමින් ජනාධිපතිවරයා ද ඇතුළුව සිව්දෙනෙකු පාර්ලිමේන්තුවේ රැඳී සිටින අතර ඔවුන්ට කැබිනට් අමාත්‍ය ධුර හිමිවනු ඇත.
+
+නව පාර්ලිමේන්තුව තේරී පත්වන තෙක් මෙම කැබිනට් මණ්ඩලය එම ධුරවල කටයුතු කිරීමට නියමිතය.
+
+කෙසේවෙතත් අමාත්‍ය මණ්ඩලය දිවුරුම් දීමෙන් පසු ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් කැබිනට් මණ්ඩලය රැස්කර පාර්ලිමේන්තු මැතිවරණයක් සඳහා මුදල් වෙන්කර ගැනීමෙන් අනතුරුව පාර්ලිමේන්තුව විසුරුවා හරිනු ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+
+පාර්ලිමේන්තුව විසුරුවා හැරීමට ප්‍රථම තවත් නව අමාත්‍යංශ ලේකම් ධුර කිහිපයක් පිරි නැමීමට ද නියමිතව තිබේ.
+
+...
+
+[Data](articles/a54e1344.json)
+
+---
+
+### එජාපය සජබය හා එක්වෙන්න යයි
+
+*2024-09-24 07:20:43* · [`adalk`](https://www.ada.lk/breaking_news/එජාපය-සජබය-හා-එක්වෙන්න-යයි/11-412096) · `si`
+
+ඉදිරි මැතිවරණ සහ දේශපාලන තත්ත්වයන්ට මුහුණදීම සඳහා විපක්ෂය නියෝජනය කරන සියලු දේශපාලන පක්ෂ එක්කරගත් පොදු සන්ධානයක් ඇතිකර ගැනීමට එක්සත් ජාතික පක්ෂය තීරණය කර තිබේ.
+
+එක්සත් ජාතික පක්ෂය මෙම තීරණය ගත්තේ කොළඹ මල් පාරේ පිහිටි හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලයේ ඊයේ (23දා) පැවති එක්සත් ජාතික පක්ෂයේ නායකත්ව මණ්ඩල හමුවේදීය .
+
+එහිදී හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අදාළ යෝජනාව ඉදිරිපත් කර ඇත .
+
+ඒ අනුව ඉදිරි මැතිවරණ සහ දේශපාලන තත්ත්වයන්ට මුහුණදීම සඳහා විපක්ෂය නියෝජනය කරන සියලු දේශපාලන පක්ෂ එක්කරගත් පොදු සන්ධානයක් ඇතිකර ගැනීම වෙනුවෙන් සමගි ජනබලවේගය පක්ෂය ඇතුළු සියලු පක්ෂ වෙත ආරාධනා කිරීමට කටයුතු කරන ලෙස හිටපු ජනාධිපතිවරයා උපදෙස් දී තිබේ .
+
+◼️
+
+[Data](articles/62f7a624.json)
+
+---
 
 ### Israeli attacks losses 492 lives
 
@@ -55,6 +213,26 @@ Meanwhile, 35 children and 58 women have 35 women among the dead.
 [Data](articles/4956237e.json)
 
 [Extended Data](ext_articles/4956237e.ext.json)
+
+---
+
+### දින දෙකකින් පාර්ලිමේන්තුව විසුරුවා හරිනවා
+
+*2024-09-24 07:00:18* · [`adalk`](https://www.ada.lk/breaking_news/දින-දෙකකින්-පාර්ලිමේන්තුව-විසුරුවා-හරිනවා/11-412095) · `si`
+
+තවත් දින දෙකකින් පාර්ලිමේන්තුව විසුරුවා හරින බවට අභිනව ජනාධිපති අනුර කුමාර දිසානායක මහතා මහනුවරදී ඉඟි පළ කළේය .
+
+මල්වතු අස්ගිරි මහනාහිමිවරුන් බැහැ දැකීමෙන් අනතුරුව පාර්ලිමේන්තුව විසුරුවා හැරීම සම්බන්ධයෙන් මාධ්‍යවේදීන් නැගූ පැනයකට පිළිතුරු දෙමින් ජනාධිපතිවරයා පවසා සිටියේ ලිහා බැලිය හැකි මල්ල ඔබා නොබැලිය යුතු බවත් තවත් දින දෙකක් ඒ සඳහා ඉවසා සිටින ලෙසත්ය .
+
+රටේ අලුත් වෙනසකට මුල පිරිය යුතු බව අපේ රටේ ජනතාව තමන්ගේ ජන මතයෙන් ප්‍රකාශ කොට තිබෙනවා . එසේ වෙනස් කළ යුත්තේ රටේ නීතිය, රටේ ආර්ථික ගමන මෙන්ම සංස්කෘතිය ඇතුළු සියල්ලගේ වෙනසක් අවශ්‍යව තිබෙනවා .
+
+අපි මානායක ස්වාමීන්ද්‍රයන් වහන්සේලාට පෙන්වා දෙනු ලැබුවා මේ අලුත් ජනවරමේ තිබෙන එම වෙනසට අනුව අප රට පාලනය කිරීමට සූදානම් බව .
+
+මේ රටේ ජනතාවගේ විශාල අහිංසක බලාපොරොත්තුවක් තිබෙනවා . එම බලාපොරොත්තු ඉටු කිරීමටත් අප සූදානම් බව මානායක ස්වාමීන්ද්‍රයන් වහන්සේලාට අපේ පැත්තෙන් පෙන්වා දෙනු ලැබුවා .
+
+...
+
+[Data](articles/28748d48.json)
 
 ---
 
@@ -1823,205 +2001,5 @@ Who will it be? Ranil, Sajith or Anura? The hard copy version of this article wi
 [Data](articles/b8d910bd.json)
 
 [Extended Data](ext_articles/b8d910bd.ext.json)
-
----
-
-### Statesmen of the 21st Century
-
-*2024-09-23 15:43:00* · [`islandlk`](http://island.lk/statesmen-of-the-21st-century/) · `en`
-
-It is totally unnecessary to explain the choice of subject of my article today – the day after the presidential election. We have voted and I am sure as of this morning of September 22, the new President or the next five years, is still to be announced. After all, our Sunday newspapers are printed on the Saturday night, some even on Friday. Most unlikely a stop press announcement will be made in the print media.
-
-The definition of a statesman is: “A skilled, experienced, and respected political leader or figure.” Are any of Sri Lanka’s 39 contenders for the presidency such? A definite no is the answer I get from myself.
-
-...
-
-[Data](articles/142db218.json)
-
-[Extended Data](ext_articles/142db218.ext.json)
-
----
-
-### The challenges that will continue in the new government
-
-*2024-09-23 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194580) · `ta`
-
-Challenges in new government: Election delays, potential dissolution, Tamil parliamentary election complexities, party divisions, diaspora involvement, state occupation issues, accountability concerns, international pressure needed for solutions.
-
-🟩
-
-The presidential election results will be fully arrived in the evening of the 22nd. However, if the 2nd and 3rd preferential votes are counted, it may be delayed.
-
-Probably a situation where parliament can be dissolved following the election. If so, the parliamentary election will come before the end of this year.
-
-As far as Tamil politics is concerned, the parliamentary election will be a big challenge. It is not possible to say that how many teams will compete from the Tamil nationality. Three or four teams have the opportunity to compete.
-
-The Tamil National Party can contest alone, the Tamil National People's Front and the Democratic Tamil National Alliance alone.
-
-May try to put pressure on them to go to the coalition. At least the Tamil state party and the Democratic Tamil National Alliance may be forced to act as the Old Tamil National Alliance.
-
-The Tamil state party is now clearly divided and many difficulties in making decisions.
-
-...
-
-[Data](articles/8befa636.json)
-
-[Extended Data](ext_articles/8befa636.ext.json)
-
----
-
-### JVP’s hidden ideology and post-election risk: Interview with Dayan Jayatilleka
-
-*2024-09-23 15:37:00* · [`islandlk`](http://island.lk/jvps-hidden-ideology-and-post-election-risk-interview-with-dayan-jayatilleka/) · `en`
-
-Sri Lanka stands at a historic crossroads as it approaches its ninth presidential election, scheduled for September 21. This moment carries profound implications for the nation’s political and social fabric. The election arrives in the wake of a tumultuous period where public outcry led to the ousting of the sitting president and the emergence of a new leader through constitutional maneuvering. Out of the 39 candidates, one has passed away, while those remaining vie for the top seat. Despite the previous elections being effectively two-horse races, three main contenders have emerged this time. In this climate of uncertainty and transformation, I met with one of the country’s leading political scientist, Dr. Dayan Jayatilleka—a scholar, diplomat, and thinker of considerable depth—to explore not only the intricate state of Sri Lankan politics but also the shifting tectonic plates of the global order.
-
-...
-
-[Data](articles/723fa89b.json)
-
-[Extended Data](ext_articles/723fa89b.ext.json)
-
----
-
-### President makes two new appointments regarding Anura Security
-
-*2024-09-23 15:27:02* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-ආරක්ෂාව-සම්බන්ධයෙන්-නව-පත්-කිරීම්-දෙකක්-සිදු-කරයි/11-412090) · `si`
-
-President Anura Kumara Dissanayake appoints two: Vice Marshal (Retired) as Defense Secretary and Former DIG Deputy Inspector General of Investigations CID as Secretary Defense Secretary.
-
-🟩
-
-He has been appointed as Vice Marshal (Retired) as the new Defense Secretary.
-
-Former DIG Deputy Inspector General of Investigations (CID) has also been appointed as the Secretary Defense Secretary.
-
-The appointments have been made by President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/2320e2b8.json)
-
-[Extended Data](ext_articles/2320e2b8.ext.json)
-
----
-
-### CWE Chairman resigns
-
-*2024-09-23 15:17:29* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-සභාපති-ඉල්ලා-අස්වෙයි/11-412089) · `si`
-
-Here's a 200-character summary:
-
-
-
-"CWE Chairman Suda Pasolma Abeywardena resigns from position."
-
-🟩
-
-Suda Chairman Pasolma Abeywardena has resigned from his post.
-
-◼️
-
-[Data](articles/8f2e9261.json)
-
-[Extended Data](ext_articles/8f2e9261.ext.json)
-
----
-
-### Appointment of Secretary to the Ministry of Public Security
-
-*2024-09-23 15:15:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-பாதுகாப்பு-அமைச்சின்-செயலாளர்-நியமனம்/175-344313) · `ta`
-
-Ravi Seneviratne, ex-Senior Deputy Inspector General of CID, appointed Secretary to Ministry of Public Security by President Anuradhapura Dissanayake.
-
-🟩
-
-Former Senior Deputy Inspector General of Police Ravi Seneviratne has been appointed as the Secretary to the Ministry of Public Security by President Anurakumara Dissanayake.
-
-Seneviratne is a former Senior Deputy Inspector General of Police of the Criminal Investigation Department (CID).
-
-◼️
-
-[Data](articles/0043581e.json)
-
-[Extended Data](ext_articles/0043581e.ext.json)
-
----
-
-### New Secretary of the Ministry of Defense will be appointed
-
-*2024-09-23 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201473) · `si`
-
-Ravi Seneviratne named new Defense Minister Secretary. Former senior DIG appointed to key position.
-
-🟩
-
-Former senior DIG Ravi Seneviratne has been appointed as the new Secretary of the Ministry of Defense.
-
-◼️
-
-[Data](articles/ef386523.json)
-
-[Extended Data](ext_articles/ef386523.ext.json)
-
----
-
-### Ravi Seneviratne appointed Secretary of Public Security
-
-*2024-09-23 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102215/ravi-seneviratne-appointed-secretary-of-public-security-) · `en`
-
-The newly-elected President Anura Kumara Dissanayake has appointed former Senior Deputy Inspector General (DIG) Ravi Seneviratne as the Secretary to the Ministry of Public Security.
-
-Seneviratne had previously served as the Senior DIG in charge of the Criminal Investigation Department (CID).
-
-◼️
-
-[Data](articles/886af626.json)
-
-[Extended Data](ext_articles/886af626.ext.json)
-
----
-
-### China’s President says hopes to deepen ties with Sri Lanka’s new leader
-
-*2024-09-23 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102214/chinas-president-says-hopes-to-deepen-ties-with-sri-lankas-new-leader) · `en`
-
-Chinese President Xi Jinping on Monday said he hoped to broaden cooperation with Sri Lanka under his Belt and Road infrastructure initiative (BRI) as he congratulated the island nation’s new leader Anura Kumara Dissanayaka.
-
-Dissanayaka took his oath at the Presidential Secretariat in Colombo on Monday, vowing to restore public faith in politics.
-
-The country is emerging from a years-long economic collapse blamed partly on struggling high-debt Chinese mega-projects coordinated through the BRI, the massive infrastructure project that is a central pillar of Xi’s bid to expand his country’s clout overseas.
-
-“I attach great importance to the development of China-Sri Lanka relations and am willing to work with Mr. President to continue our traditional friendship (and) enhance mutual political trust,” Xi said in a message to Dissanayaka, according to state broadcaster CCTV.
-
-Xi said he hoped bilateral cooperation under his flagship BRI would “bear more fruit”, CCTV added.
-
-...
-
-[Data](articles/140876e8.json)
-
-[Extended Data](ext_articles/140876e8.ext.json)
-
----
-
-### Sathosa leader resigns
-
-*2024-09-23 14:59:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சதொச-தலைவர்-இராஜினாமா/175-344312) · `ta`
-
-Sathosa leader resigns: Basantha Yapa Abeywardena steps down as director, citing need for new leadership under the newly elected president. He submits resignation letter to Commerce Minister Nalin Fernando on March 23rd.
-
-🟩
-
-Lanka Sathosa leader Basantha Yapa Abeywardena has resigned from his post.
-
-Abeywardena has sent his resignation letter to Commerce Minister Nalin Fernando today (23).
-
-He has made this decision by giving permission to the newly elected president to appoint a new chairman for Lanka Sathosa Limited.
-
-◼️
-
-[Data](articles/eec78601.json)
-
-[Extended Data](ext_articles/eec78601.ext.json)
 
 ---

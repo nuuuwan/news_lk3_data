@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 05:07:53**
+As of **2024-09-25 05:22:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,112 (100.0%) of 46,122 articles have been extended.
+46,116 (100.0%) of 46,122 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -192,6 +192,8 @@ In addition to his medical career, Dr. Najith is a student and political activis
 
 [Data](articles/242b443d.json)
 
+[Extended Data](ext_articles/242b443d.ext.json)
+
 ---
 
 ### Ranil to skip General Election, focus on party leadership: Ruwan Wijewardene
@@ -205,6 +207,8 @@ United National Party (UNP) Deputy Leader Ruwan Wijewardene announced today that
 ...
 
 [Data](articles/77f2be7e.json)
+
+[Extended Data](ext_articles/77f2be7e.ext.json)
 
 ---
 
@@ -223,6 +227,8 @@ The economy and the political culture were the main issues in the campaign, but 
 ...
 
 [Data](articles/a7e40669.json)
+
+[Extended Data](ext_articles/a7e40669.ext.json)
 
 ---
 
@@ -243,6 +249,8 @@ Hence this brief essay. If its order and reasoning is a little convoluted, I req
 ...
 
 [Data](articles/667e474f.json)
+
+[Extended Data](ext_articles/667e474f.ext.json)
 
 ---
 

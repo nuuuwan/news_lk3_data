@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 11:39:19**
+As of **2024-09-24 11:58:32**
 
 ## Newspaper Stats
 
-*Scraped **45,957** Articles*
+*Scraped **45,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 3,053
 adalk | 4,221
 dailymirrorlk | 4,733
 adaderanalk | 5,409
-tamilmirrorlk | 6,131
+tamilmirrorlk | 6,132
 virakesarilk | 7,339
-adaderanasinhalalk | 7,948
+adaderanasinhalalk | 7,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,950 (100.0%) of 45,957 articles have been extended.
+45,960 (100.0%) of 45,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Nishan Peiris summoned to reserve
+
+*2024-09-24 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201495) · `si`
+
+Sri Lanka replaces injured fast bowler with spinner Nishan Peiris for NZ Test series starting Sept 26.
+
+🟩
+
+Since fast bowler is under a disorder, he has added to the spin-player Nishan Peiris to the Sri Lanka Test squad.
+
+The second Test between New Zealand and Sri Lanka will commence on September 26.
+
+◼️
+
+[Data](articles/5a0befbb.json)
+
+[Extended Data](ext_articles/5a0befbb.ext.json)
+
+---
+
+### New Cabinet sworn in today
+
+*2024-09-24 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201494) · `si`
+
+Here's a 200-character summary:
+
+
+
+"New Cabinet sworn in today. Vijitha Herath, MP, confirms swearing-in ceremony. Cabinet to discuss Parliament dissolution with President."
+
+🟩
+
+Vijitha Herath, MP, says that the new cabinet is to be sworn in this day.
+
+He further stated that they will discuss with the President regarding the dissolution of Parliament.
+
+◼️
+
+[Data](articles/19711082.json)
+
+[Extended Data](ext_articles/19711082.ext.json)
+
+---
+
+### Sword cutting on warned driver
+
+*2024-09-24 11:26:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எச்சரித்த-சாரதி-மீது-வாள்-வெட்டு-தாக்குதல்/71-344367) · `ta`
+
+Driver attacked with sword near bus station. Admitted to hospital after incident involving harassment. Two suspects fled on motorcycle.
+
+🟩
+
+Yall. The incident took place on Monday (23) when a sword attack on a private bus driver warned youths who had been chatting with women near the central bus station.
+
+Vinasithambi Jegadeeswaran is thus under attack. He has been admitted to the Teaching Hospital for treatment.
+
+Last week Jaffna. The driver, who had been harassed by four youths near the Central Bus Stand, had been harassed by the women coming to the bus station and harassed the youth.
+
+After the incident, two youths arrived on a motorcycle on Monday (23) and fled the driver of the driver of the bus from Colombo to Jaffna.
+
+◼️
+
+[Data](articles/dcbf27ac.json)
+
+[Extended Data](ext_articles/dcbf27ac.ext.json)
+
+---
 
 ### New Cabinet to be sworn in today; discussion on dissolving Parliament
 
@@ -44,21 +112,29 @@ Furthermore, he said that later they will discuss the dissolution of the Parliam
 
 [Data](articles/55b3ca77.json)
 
+[Extended Data](ext_articles/55b3ca77.ext.json)
+
 ---
 
-### ஜப்பானில்  பூகம்பம் ;  சுனாமி எச்சரிக்கை
+### Earthquake in Japan;Tsunami warning
 
 *2024-09-24 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194672) · `ta`
 
-ஜப்பானின் தொலைதூர தீவான இசு தீவுகளுக்கு அருகே  5.6 ரிச்டர்  அளவில் பூகம்பம் ஏற்பட்டதை அடுத்து செவ்வாய்க்கிழமை சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+Japan earthquake triggers tsunami warning: USGS issues alert for remote islands. Local authorities advise waves may reach 1 meter.
 
-அமெரிக்க புவியியல் ஆய்வு மையம் மற்றும் உள்ளூர் வானிலை அதிகாரிகள்  இந்த  சுனாமி எச்சரிக்கையை வெளியிட்டுள்ளனர்.
+🟩
 
-இந்நிலையில், கடல்  மட்டத்திலிருந்து  1 மீட்டர் (கஜம்) வரை அலைகள் உயரும் என ஜப்பான் வானிலை ஆய்வு மையம் அறிவுறுத்தியுள்ளது.
+A tsunami warning has been issued on Tuesday following an earthquake in Japan's remote island, Islands.
+
+The US Geological Survey Center and local weather officials have issued the tsunami warning.
+
+The Japanese Meteorological Department has advised that waves will rise from sea level to 1 meter (gajam).
 
 ◼️
 
 [Data](articles/3447ce57.json)
+
+[Extended Data](ext_articles/3447ce57.ext.json)
 
 ---
 
@@ -88,21 +164,29 @@ The case had been filed against Chandration Pathiraja against the agreement with
 
 ---
 
-### காத்மண்டு சென்றடைந்தார் கோட்டா
+### Kathmandu reached Kota
 
 *2024-09-24 10:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்மண்டு-சென்றடைந்தார்-கோட்டா/175-344366) · `ta`
 
-இலங்கையின் முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச பூடான் தலைநகர் திம்பு வழியாக திங்கட்கிழமை (23) காத்மண்டு வந்தடைந்தார்.
+Gotabhaya Rajapaksa arrives in Kathmandu after fleeing Sri Lanka. Stays at hotel, security measures in place for his visit. Former president resigned in 2022 amid protests.
 
-காத்மாண்டுவில் திங்கள்கிழமை காலை இறங்கிய அவர், லலித்பூரில் உள்ள ஜாம்சிகேலில் உள்ள விவாண்டா ஹோட்டலில் தங்கியுள்ளார். திரிபுவன் சர்வதேச விமான நிலையத்திற்கு ட்ரூக் ஏர் விமானம் எண் KB 400 இல் ராஜபக்ஷ வந்தார்.
+🟩
 
-லலித்பூர் மாவட்ட காவல்துறையின் எஸ்பி நரேஷ் சுபேடியின் கூற்றுப்படி, கோட்டாபய ராஜபக்சே தனது வருகையின் போது பங்கேற்கும் நிகழ்வுகளுக்கு பாதுகாப்பு ஏற்பாடுகள் செய்யப்பட்டுள்ளன, இதில் சித்வானுக்கும் பயணம் செய்வதற்கான திட்டங்கள் அடங்கும்.
+Former Sri Lankan President Gotabhaya Rajapaksa arrived in Kathmandu on Monday (23) via Bhutan, the capital of Bhutan.
 
-13 ஜூலை 2022 அன்று, மாபெரும் போராட்டங்களைத் தொடர்ந்து, இறுதியில் அவரது உத்தியோகபூர்வ இல்லம் மற்றும் பணியிடத்தை எதிர்ப்பாளர்களால் பொதுமக்கள் கையகப்படுத்தியதில் உச்சக்கட்டத்தை அடைந்தார், ராஜபக்ச தனது மனைவி மற்றும் தனிப்பட்ட பாதுகாப்பு விவரங்களுடன் நாட்டை விட்டு வெளியேறி, மேலும் பின்வாங்குவதற்கு முன், மாலத்தீவுக்கு சென்றார். ஜூலை 14 அன்று சிங்கப்பூரை சென்றடைந்தார்.
+He landed at Kathmandu on Monday morning and stays at Vivanda Hotel in Jamsigale, Lalitpur. Rajapaksa arrived at Tribuwan International Airport on Truck Air Air Airline Number KB 400.
 
-...
+According to SP Naresh Subhadi of the Lalitpur district police, security arrangements have been made for the events of Gotabhaya Rajapaksa during his visit, including plans to travel to Sidwan.
+
+On July 13, 2022, following great protests, Rajapakse left the country with his wife and personal security details and went to the Maldives before he retreated, following the massive acquisition of his official residence and workplace opponents.. He reached Singapore on July 14.
+
+On July 14, Gotabaya became the first President of Sri Lanka to resign as president and resign as president.
+
+◼️
 
 [Data](articles/0abb319c.json)
+
+[Extended Data](ext_articles/0abb319c.ext.json)
 
 ---
 
@@ -332,21 +416,27 @@ After the swearing-in of the Cabinet of Ministers, President Dissanayake would c
 
 ---
 
-### ජනපති අනුරට චීන ජනපතිගෙන් සුබ පැතුම්
+### President congratulates Chinese President
 
 *2024-09-24 09:44:59* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුරට-චීන-ජනපතිගෙන්-සුබ-පැතුම්/11-412103) · `si`
 
-නව ජනාධිපති අනුර කුමාර දිසානායක මහතාට චීන ජනාධිපති ෂී ජින් පිං මහතා සුබ පැතුම් පිරිනමයි. එම පණිවුඩය අද (23) යොමු කර ඇත.
+Sri Lanka's new president congratulates China's Xi Jinping. Both nations have maintained friendly neighborly ties since 1957. They aim to strengthen bilateral relations and boost mutual trust through strategic cooperation.
 
-චීනය සහ ශ්‍රී ලංකාව මිත්‍රශීලී අසල්වැසියන් බව ෂී ජින් පිං මහතා එහිදී පෙන්වා දුන්නේය. මීට වසර 67 කට පෙර චීනය සහ ශ්‍රී ලංකාව අතර රාජ්‍යතාන්ත්‍රික සබඳතා ආරම්භ වූ දා සිට දෙරට සෑමවිටම මිත්‍රත්වයේ සහජීවනය මෙන්ම විශාල සහ කුඩා රටවල් අතර අන්‍යෝන්‍ය ප්‍රතිලාභී සහයෝගිතාව පිළිබඳ මනා ආදර්ශයක් සපයා ඇත.
+🟩
 
-චීන-ශ්‍රී ලංකා සබඳතා වර්ධනයට තමා ඉහළ ප්‍රමුඛතාවක් ලබා දෙන බවත්, අන්‍යෝන්‍ය දේශපාලන විශ්වාසය වැඩිදියුණු කිරීමට අනුර කුමාර දිසානායක මහතා සමග එක්ව ක්‍රියාකිරීමට සූදානම් බවත් ෂී ජින් පිං මහතා පවසයි.
+New President Anura Kumara Dissanayake congratulates Chinese President Xi Jin Pin. The message has been forwarded today (23).
 
-එසේම, චීනය සහ ශ්‍රී ලංකාව අතර“එක් තීරයක් එක් මාවතක්”වැඩපිළිවෙළින් උසස් තත්ත්වයේ  ප්‍රතිඵල අත් කරගැනීමටත්, දෙරට අතර ස්ථාවර හා උපායමාර්ගික සහයෝගිතා හවුල්කාරිත්වය ප්‍රවර්ධනය සඳහාත් අඛණ්ඩව කටයුතු කරන බව චීන ජනාධිපතිවරයා සිය සුබ පැතුම් පණිවුඩයෙන් කියාසිටී.
+Shi Jin Pin pointed out that China and Sri Lanka is friendly neighbors.. The two countries always set a fine example of mutual beneficiary cooperation between China and Sri Lanka 67 years ago.
+
+Anura Kumara Dissanayake is ready to work with the Chinese-Sri Lanka relations to enhance the Chinese-Sri Lanka relations and to improve mutual political confidence.
+
+The Chinese President has also continued to meet the high quality and strategic cooperation between China and Sri Lanka.
 
 ◼️
 
 [Data](articles/08cce46c.json)
+
+[Extended Data](ext_articles/08cce46c.ext.json)
 
 ---
 
@@ -372,21 +462,29 @@ The extraordinary events that took place in 2022 have reached their end in the r
 
 ---
 
-### ජනපති අනුර කාදිනල් හිමියන්ට දුන සහතිකය
+### Presidential Certificate of Anura Cardinal
 
 *2024-09-24 09:38:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-කාදිනල්-හිමියන්ට-දුන-සහතිකය/11-412102) · `si`
 
-නව ජනාධිපති අනුර කුමාර දිසානායක මහතා ඊයේ (23) පස්වරුවේ කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබා ගත්තේය.
+Sri Lanka's new President Anura Kumara Dissanayake met with Archbishop Malcolm Cardinal. They discussed healing suffering and national issues. The President emphasized his commitment to change and received support from religious leaders and officials.
 
-බොරැල්ල අගරදගුරු නිල නිවස වෙත පැමිණි ජනාධිපතිවරයා අගරදගුරු හිමිපාණන් වහන්සේ බැහැදැක සුව දුක් විමසා කෙටි පිළිසඳරක නිරත විය.
+🟩
 
-මෙහිදී අදහස් දැක්වූ කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් වහන්සේ,
+New President Anura Kumara Dissanayake visited the Archbishop of Colombo yesterday (23) last evening.
 
-ශ්‍රී ලංකාවේ වැඩිම ජනතාවකගේ කැමැත්තෙන් ජනාධිපති ධූරයට පත් අනුර කුමාර දිසානායක මහතාට මම සුබ පතනවා. මේ අවස්ථාවේදී ශ්‍රී ලංකාව තුළ අවශ්‍යම වෙනසක් ඇති කිරීමේ භාරදූර වගකීම එතුමාගේ කර මතට රටේ ජනතාව විසින් පවරා තිබෙනවා. මෙය භාරදූර හා දූෂ්කර කටයුත්තක් විය හැකියි. අප එතුමාට අපේ සම්පූර්ණ සහයෝගයත්, ආශිර්වාදයත් ඒ සඳහා ලබාදෙන බවට ප්‍රතිඥා දෙනවා. විශේෂයෙන් මෙරට දිළිදු ජනතාව පිළිබඳ නිතරම සිතමින් ඔබතුමාගේ කටයුතු ඉදිරියට කරගෙන යන ලෙස මා ඔබතුමාගෙන් ඉල්ලා සිටිනවා.
+The President who arrived at the Archbishop of Borella, the President visited the Archbishop and consult the healing suffering.
+
+The Archbishop of Colombo is completely undoubtedly Malcolm Cardinal.,
+
+I wish the highest number of people in Sri Lanka as the most popular. The people of the country have been assigned to the ruling responsibility to make the necessary change in Sri Lanka. This may be a blevant and dash. We promise him our full support and blessings. I urge you, especially to continue the ridiculous people in the country.
+
+The President insisted that a journalist was responding to a question raised by the President.
 
 ...
 
 [Data](articles/eed9aa7f.json)
+
+[Extended Data](ext_articles/eed9aa7f.ext.json)
 
 ---
 
@@ -816,19 +914,27 @@ Responding to a question asked by a journalist, Archbishop Cardinal Malcolm Ranj
 
 ---
 
-### பேராயரை சந்தித்தார் ஜனாதிபதி அனுர...
+### President Anura met Archbishop ...
 
 *2024-09-24 07:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராயரை-சந்தித்தார்-ஜனாதிபதி-அனுர/175-344356) · `ta`
 
-புதிய ஜனாதிபதி அநுரகுமார திஸாநாயக்க நேற்று (23) கொழும்பு பேராயர் கர்தினால் மெல்கம் ரஞ்சித் ஆண்டகையைச் சந்தித்து ஆசி பெற்றார். பொரளையில் பேராயரின் உத்தியோகபூர்வ இல்லத்திற்கு விஜயம் செய்த ஜனாதிபதி, பேராயரைச் சந்தித்து நலம் விசாரித்ததுடன் சிறிது நேரம் உரையாடலில் ஈடுபட்டார்.
+Sri Lanka's new President Anura Kumara Dissanayake met with Archbishop of Colombo, discussing investigations into Easter attacks and promising support for the poor.
 
-இலங்கையின் பெரும்பான்மையான மக்களின் விருப்பத்தினால் ஜனாதிபதியாக தெரிவுசெய்யப்பட்டுள்ள அநுரகுமார திஸாநாயக்க அவர்களுக்கு எனது வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றேன். இந்தச் சந்தர்ப்பத்தில் இலங்கையில் தேவையான மாற்றத்தை ஏற்படுத்தும் பாரிய பொறுப்பை நாட்டு மக்கள் அவரிடம் ஒப்படைத்துள்ளனர்.
+🟩
 
-இது பொறுப்பு வாய்ந்த மற்றும் கடினமான பணியாக இருக்கலாம். அதற்காக அவருக்கு நாம் முழு ஆதரவையும் ஆசிகளையும் வழங்குவோம் என்று உறுதியளிக்கிறோம். குறிப்பாக இந்நாட்டின் வறிய மக்களைப் பற்றி சிந்தித்து உங்கள் பணியை தொடருமாறு கேட்டுக்கொள்கிறேன்.
+New President Anura Kumara Dissanayake met with Archbishop of Colombo yesterday (23). The President visited the official residence of the Archbishop in Borella, met with the Archbishop and inquired for a while.
+
+My congratulations to Anuragumara Dissanayake, who has been elected president by the wishes of the majority of Sri Lanka.. On this occasion, the people of Sri Lanka have entrusted him with the responsibility of making the necessary change in Sri Lanka.
+
+This may be a responsible and difficult task. We promise to give him full support and blessings for that. I urge you to think about the poor people in particular and continue your work.
+
+Responding to a question asked by a journalist, Archbishop Cardinal Malcolm Ranjit said that the president had assured him that he was doing everything possible to investigate the survival Sunday attack and prepare the foundation needed to bring out the truth.
 
 ...
 
 [Data](articles/7c15102f.json)
+
+[Extended Data](ext_articles/7c15102f.ext.json)
 
 ---
 
@@ -1860,15 +1966,21 @@ The Israeli military spokesman today (23) said that more than 300 Hezbollah targ
 
 ---
 
-### இஸ்ரேலின் தாக்குதலில் 182 பேர் பலி
+### 182 killed in Israel attack
 
 *2024-09-23 20:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-182-பேர்-பலி/50-344336) · `ta`
 
-300க்கும் மேற்பட்ட ஹிஸ்புல்லா இலக்குகள் தாக்கப்பட்டதாக இஸ்ரேலிய இராணுவப் பேச்சாளர் இன்று (23) தெரிவித்துள்ள நிலையில், சிறுவர்கள், பெண்கள், மருத்துவப் பணியாளர்கள் உள்ளடங்கலாக 182 பேர் இஸ்ரேலியத் தாக்குதல்களில் இன்று கொல்லப்பட்டதாகவும் 727 பேர் காயமடைந்துள்ளதாகவும் லெபனானின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
+Israel-Lebanon conflict: 182 killed, 727 injured in Israeli attacks on Hezbollah targets.
+
+🟩
+
+The Israeli military spokesman today (23) said that more than 300 Hezbollah targets were attacked, with 182 people, including children and medical staff, were killed in Israeli attacks and 727 were injured today, according to Lebanon's Health Ministry.
 
 ◼️
 
 [Data](articles/62e208b9.json)
+
+[Extended Data](ext_articles/62e208b9.ext.json)
 
 ---
 
@@ -2025,73 +2137,5 @@ He had earlier vowed to reopen negotiations with the IMF over its $3 billion bai
 [Data](articles/d242690d.json)
 
 [Extended Data](ext_articles/d242690d.ext.json)
-
----
-
-### We have no experience in it- Harini
-
-*2024-09-23 19:08:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமக்கு-அதில்-அனுபவம்-இல்லை-ஹரினி/175-344330) · `ta`
-
-Here's a 200-character summary:
-
-
-
-NPP MP Harini Amarasuriya claims NPP lacks experience in country bankruptcy but promises building expertise. New government starts work tomorrow under order and social agreement.
-
-🟩
-
-NPP MP Harini Amarasuriya said that the National People's Power (NPP) is coming with an order and a social agreement.
-
-MP Amarasuriya told the media today that the NPP will start its work from tomorrow.
-
-When asked about the experience of the new government, he replied, "We have no experience of bankruptcy of the country," he replied.
-
-However, the NPP government will have the experience of building the country, he added.
-
-◼️
-
-[Data](articles/573b7d2d.json)
-
-[Extended Data](ext_articles/573b7d2d.ext.json)
-
----
-
-### The appointment of the President's Exclusive Secretary
-
-*2024-09-23 18:59:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பிரத்தியேக-செயலாளர்-நியமனம்/175-344329) · `ta`
-
-Ananda Wijepala, former personal secretary to JVP leader, appointed External Secretary to President Anura Kumara Dissanayake. Previously served as Secretary of Anti-Corruption Secretariat under 2015 government.
-
-🟩
-
-National Organizer of the National People's Power, Ananda Wijepala has been appointed as the External Secretary of President Anura Kumara Dissanayake.
-
-Ananda Wijebala, who has long been the personal secretary of the JVP leader, served as the Secretary of the Anti -Corruption Secretariat established under the Government of 2015.
-
-◼️
-
-[Data](articles/83cab67e.json)
-
-[Extended Data](ext_articles/83cab67e.ext.json)
-
----
-
-### Sri Lanka’s new President appoints Chinese-educated defence secretary
-
-*2024-09-23 18:57:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-president-appoints-chinese-educated-defence-secretary-180684/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s newly elected President Anura Kumara Dissanayaka appointed retired Air Vice Marshal Sampath Thuyacontha, who had got his higher education in China, as the new defence secretary replacing an ex-army general.
-
-Thuyacontha has completed his Master’s degree in Defence Studies at the National Defence University of China. He had also served as the former Defence Advisor at the Sri Lankan High Commission in Pakistan.
-
-He has also served as the former commanding officer of the Chinese Harbour Air Force College.
-
-Defence Secretary post is once of the important portfolio in the island nation as it deals with a geopolitical cold war due to Sri Lanka’s strategic location in the Indian Ocean.
-
-...
-
-[Data](articles/e6a11551.json)
-
-[Extended Data](ext_articles/e6a11551.ext.json)
 
 ---

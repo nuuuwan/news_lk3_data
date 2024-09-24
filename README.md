@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 18:19:55**
+As of **2024-09-24 18:34:12**
 
 ## Newspaper Stats
 
-*Scraped **46,045** Articles*
+*Scraped **46,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,138 @@ economynextcom | 2,781
 dailyftlk | 3,053
 adalk | 4,235
 dailymirrorlk | 4,733
-adaderanalk | 5,423
+adaderanalk | 5,424
 tamilmirrorlk | 6,149
-virakesarilk | 7,357
-adaderanasinhalalk | 7,961
+virakesarilk | 7,359
+adaderanasinhalalk | 7,962
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,045 (100.0%) of 46,045 articles have been extended.
+46,049 (100.0%) of 46,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### New secretaries appointed
+
+*2024-09-24 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201507) · `si`
+
+New secretaries appointed: PM, Cabinet, 15 ministries. Key roles: transport, finance, education, women affairs, trade, rural development, judiciary, environment, agriculture, religion, energy.
+
+🟩
+
+The secretaries of the Prime Minister and the Secretary to the Cabinet of Ministers have been appointed.
+
+The Presidential Media Unit said that the new Prime Minister's Secretary, Cabinet Secretary and 15 new Secretaries have been appointed.
+
+03 KDS. Mr. Ruwanchandra - Ministry of Transport, Highways, Ports and Civil Aviation
+
+04 KMM. Mr. Siriwardena - Ministry of Finance, Economic Development, Policy, Planning and Tourism
+
+06 - JMT. Mrs. Jayasundera - Ministry of Education, Science and Technology
+
+07 - K. Mr. Machent - Ministry of Women, Children's and Youth Affairs and Sports
+
+08 MM. NiMudin - Trade, Commerce, Food Security, Co-operative Development, Industry and Entrepreneurs Development
+
+09 AMPMB. Atapattu - Ministry of Rural and Urban Development, Housing and Construction
+
+11 WPP. Yasarathne - Judicial, Public Administration, Home Affairs, Provincial Councils, Local Government and Labor
+
+...
+
+[Data](articles/52ec136d.json)
+
+[Extended Data](ext_articles/52ec136d.ext.json)
+
+---
+
+### New Secretaries appointed for 15 ministries including PM’s Secretary
+
+*2024-09-24 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102247/new-secretaries-appointed-for-15-ministries-including-pms-secretary) · `en`
+
+New Secretaries have been appointed for 15 ministries, including the positions of Prime Minister’s Secretary and Cabinet Secretary, according to the President’s Media Division (PMD).
+
+3. Mr. K.D.S. Ruwanchandra - Secretary to the Ministry of Transport, Highways, Ports, and Civil Aviation
+
+4. Mr. K.M.M. Siriwardena - Secretary to the Ministry of Finance, Economic Development, Policy Formulation, Planning, and Tourism
+
+5. Mrs. Aruni Wijewardena - Secretary to the Ministry of Foreign Affairs
+
+6. Ms. J.M.T. Jayasundara - Secretary to the Ministry of Education, Science and Technology
+
+7. Mr. K. Maheson - Secretary to the Ministry of Women, Children, Youth Affairs, and Sports
+
+8. Mr. M.M. Naimuddin - Secretary to the Ministry of Trade, Commerce, Food Security, Cooperative Development, Industry, and Entrepreneurship Development
+
+9. Mr. A.M.P.M.B. Atapattu - Secretary to the Ministry of Rural and Urban Development, Housing, and Construction
+
+...
+
+[Data](articles/002208ef.json)
+
+[Extended Data](ext_articles/002208ef.ext.json)
+
+---
+
+### Gold and Silver Winners were given cash prize in the Asian series
+
+*2024-09-24 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194721) · `ta`
+
+Sri Lanka Athletics awarded Rs 24 lakhs to gold/silver winners in inaugural Asian series. Team won gold in men's 4x400m with 3:04.48, silver in mixed relay with 3:17.00. Athletes received prizes at SL Athletic Institute.
+
+🟩
+
+Sri Lanka Athletic (Sri Lanka Athletics) was distributed by a cash prize of Rs 24 lakhs in honor of the athletes who won gold and silver medals in the inaugural Asian race in Thailand last May.
+
+Sri Lanka Athletics Chairman Major General (Retirement) Palitha Fernando presented the money to the relevant athletes.
+
+The event was held this morning (24) at the headquarters of the Sri Lanka Athletic Institute.
+
+Sri Lanka won the gold medal in the men's 4 x 400m race in the Men's 4 x 400m race in the inaugural Asian Asian series.
+
+The Sri Lankan team won the gold medal in the men's 4 x 400m race in 3 minutes and 04.48 seconds.
+
+Aruna Darshana, Pasindu Lakshan Kodikara, Dinukka Deshan and Kalinga Kumarake were featured in the Sri Lankan -winning Sri Lankan series.
+
+The Sri Lankan team completed the silver medal in 3 minutes 17.00 seconds for the 4 x 400m series for hybrids.
+
+Aruna Darshana, Sayuri Mendis, Pasundu Kodikara and Nadisha Ramanayake were included in the silver medalist Sri Lanka hybrid series.
+
+...
+
+[Data](articles/467a446c.json)
+
+[Extended Data](ext_articles/467a446c.ext.json)
+
+---
+
+### Donation Ceremony at Colombo Open University, Sri Lanka - Korea International Cooperation Institute
+
+*2024-09-24 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/194717) · `ta`
+
+Colombo Open University receives donation from KOICA for Korean Language Classroom Development. Ceremony attended by officials from both countries. Aims to provide modern educational tools and enhance employability skills for students.
+
+🟩
+
+The donation ceremony was successfully held to the Colombo Open University of Sri Lanka through the Korea International Cooperation Organization (KOICA) for the Korean Language Classroom Development and Skills Development Program.
+
+The ceremony was held on the 20th of this month under the leadership of Korea International Cooperation Institute, Park Yangsan.
+
+This will ensure that the students of the university and the university will get modern educational products and increase the number of youths for employment and entrepreneurs.
+
+The function was attended by Koica Sri Lanka Office Director Kim Miyung, Colombo Open University Registrar, Language Department Head Kala Chandramohan, Professor Anton Piyaratne and Korean Language Coordinator Nirosha Abeeshekara.
+
+...
+
+[Data](articles/f96a637c.json)
+
+[Extended Data](ext_articles/f96a637c.ext.json)
+
+---
 
 ### New Cabinet sworn in
 
@@ -56,7 +174,7 @@ MP Dr. Weli Amarasuriya was sworn in before President Anura Kumara Dissanayake a
 
 Sri Lanka’s new three-member Cabinet of Ministers was sworn-in before President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo, a short while ago.
 
-Dr. Harini Amarasuriya was sworn-in as the Minister of Justice, Education, Labour, Industries, Science and Tech, Health and Investment, shortly after taking oath as the new Prime Minister.
+Dr. Harini Amarasuriya was sworn-in as the Minister of Justice, Education, Labour, Industries, Science and Tech, Health and Food Security, shortly after taking oath as the new Prime Minister.
 
 President Anura Kumara Dissanayake has retained the following Ministerial portfolios:
 
@@ -2259,99 +2377,5 @@ The President insisted that a journalist was responding to a question raised by 
 [Data](articles/eed9aa7f.json)
 
 [Extended Data](ext_articles/eed9aa7f.ext.json)
-
----
-
-### How Sri Lankans are borrowed by Rs 6.5 billion a day
-
-*2024-09-24 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201489) · `si`
-
-Sri Lankans owe Rs 6.5 billion daily due to economic crisis. Inflation rose 106% since 2021, food prices increased 138%. Experts call for urgent reforms to address debt burden and economic challenges.
-
-🟩
-
-Senior Professor Wasantha Athukorala, Senior Professor of the Statistics and Statistical Department of Economics and Statistical Department of Economics (Economic Development Institute) of the Department of Economics and Statistics Department of Economics and Statistics, the Department of Economics and Statistical Studies of the Department of Economics and Statistics of the University of Peradeniya said.
-
-He points out that the country is in a strict crisis.
-
-As a result, a series of new economic reforms should be carried out expeditiously, Senior Professor Wasantha Athukorala said.
-
-...
-
-[Data](articles/35fd3966.json)
-
-[Extended Data](ext_articles/35fd3966.ext.json)
-
----
-
-### Sword attack on private bus driver in Jaffna
-
-*2024-09-24 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194656) · `ta`
-
-Sword attack on bus driver in Jaffna. Driver assaulted near Maniyantottam. Admitted to hospital. Suspicions of harassment involvement.
-
-🟩
-
-Jaffna - Colombo from Jaffna. A sword attack has been attacked by a driver of a private bus heading to the city.
-
-Police said they had attacked the face of two motorcycles on Monday (23) at the 11th Cross Road, Maniyantottam.
-
-The driver has been admitted to the Jaffna Teaching Hospital for treatment.
-
-Jaffna a few days ago. Relatives of the injured have expressed suspicion that the youths have been warned of teasing some girls at the bus station and that the youth have hurt the driver.
-
-◼️
-
-[Data](articles/34a32926.json)
-
-[Extended Data](ext_articles/34a32926.ext.json)
-
----
-
-### Their visit to the people who want change has made the light of hope - Chandrakumar
-
-*2024-09-24 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194653) · `ta`
-
-Chandrakumar, former MP and Equality Party leader, congratulates new Sri Lankan president. His visit brings hope for change after decades of political stagnation. The Equality Party supports rebuilding Sri Lanka as a prosperous nation in the Indian Ocean.
-
-🟩
-
-Former parliamentarian and general secretary of the Equality Party, who has said that they have been elected as the ninth executive president of Sri Lanka.. Chandrakumar also congratulated the new president.
-
-On behalf of the Equality Party, those who have been elected as the ninth executive president of Sri Lanka, who contributed to a historical victory in the ongoing presidential election.
-
-Sri Lankans who have been waiting for a political change for decades have thrown their arrival and the light of hope. It has been noted that the support and blessing of our party will always be in their efforts to rebuild the Eelam Ocean as a rich country of the Indian Ocean.
-
-◼️
-
-[Data](articles/d463dd68.json)
-
-[Extended Data](ext_articles/d463dd68.ext.json)
-
----
-
-### New Defense Secretary begins work
-
-*2024-09-24 09:14:39* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආරක්ෂක-ලේකම්-වැඩ-අරඹයි/11-412101) · `si`
-
-New Defense Secretary Anura Kumara Dissanayake appointed. Air Vice Marshal Thusiiyankantha named Chief of Defense. Key roles: Chief of Defense Staff, Chief Justice. Notable achievements: Humanitarian missions, helicopter operations, security advisor positions. Honored with medals for bravery.
-
-🟩
-
-As the new Defense Secretary at the Ministry of DefenseAnura Kumara Dissanayake has been appointed by His Excellency the President of His Excellency the President, Fndu (China).
-
-Air Vice Marshal Thusiiyankantha, Sri Jayawardenapura Kotte, Security
-
-The Defense Secretary held a special discussion with the Chief of Defense Staff, Chief of Defense and Chief of Defense, including the Chief of Defense Staff, Chief of Defense and Chief Justice, including appointments in the new post.
-
-Air Vice Marshakantha, an outstanding officer of the Sri Lanka Air Force, retired in November 2021 while over 33 years of reputation. When he retired, he was the Director of the Sri Lanka Air Force.
-
-Born in Colombo on November 26, 1966, Air Vice Marshal Tubonanu Vishaluwoman studied his education at Thurston College.He loved educational work and rugby in his school life. He was elected to represent the Colombo school rugby team in 1986, representing the rugby team at Thurston Vidyalaya.
-
-...
-
-[Data](articles/c3f7d207.json)
-
-[Extended Data](ext_articles/c3f7d207.ext.json)
 
 ---

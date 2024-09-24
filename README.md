@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 12:38:56**
+As of **2024-09-24 12:56:56**
 
 ## Newspaper Stats
 
-*Scraped **45,969** Articles*
+*Scraped **45,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,773
 dailyftlk | 3,053
-adalk | 4,225
+adalk | 4,226
 dailymirrorlk | 4,733
 adaderanalk | 5,412
 tamilmirrorlk | 6,132
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,969 (100.0%) of 45,969 articles have been extended.
+45,970 (100.0%) of 45,970 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,28 @@ Issuing a statement, the EU further said that the people of Sri Lanka demonstrat
 [Data](articles/edd959b7.json)
 
 [Extended Data](ext_articles/edd959b7.ext.json)
+
+---
+
+### Universal Fernando is injured - the opportunity for a new player
+
+*2024-09-24 12:05:57* · [`adalk`](https://www.ada.lk/sports/විශ්ව-ප්‍රනාන්දු-ආබාධයකට-ලක්වෙයි---ඒ-වෙනුවට-නවක-ක්‍රීඩකයෙකුට-අවස්ථාව/9-412107) · `si`
+
+Sri Lanka Select Committee names Nishan Peiris for second Test due to Fernando's injury. Match starts on 26th.
+
+🟩
+
+The Sri Lanka Select Committee has taken steps to name Nishan Peiris for the second and final Test match between Sri Lanka and the Sri Lankan team.
+
+Nishan Peiris has been named due to a universal Fernando's disorder during training.
+
+The second and final Test match between the two countries will commence on the 26th.
+
+◼️
+
+[Data](articles/dacbe333.json)
+
+[Extended Data](ext_articles/dacbe333.ext.json)
 
 ---
 
@@ -2127,23 +2149,5 @@ It is indeed an irony that there is so much of enthusiasm  over the election of 
 [Data](articles/eabab93d.json)
 
 [Extended Data](ext_articles/eabab93d.ext.json)
-
----
-
-### US congratulates new President, stresses strengthening bilateral ties
-
-*2024-09-23 20:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102222/us-congratulates-new-president-stresses-strengthening-bilateral-ties) · `en`
-
-The Unites States extended wishes to Sri Lanka’s newly elected President Anura Kumara Dissanayake following his win in the presidential elections.
-
-US State Department spokesperson Matthew Miller, in a statement on Sunday, dubbed the election as a “testament to the strength of Sri Lanka’s democratic institutions” and extended commitment to supporting Sri Lanka “as it builds a stable, prosperous, and cohesive society.”
-
-“The United States congratulates President-elect Anura Kumara Dissanayake on his victory in the Sri Lankan presidential election, as confirmed by the vote results on September 22. We commend the people of Sri Lanka for peacefully exercising their right to vote. This election is a testament to the strength of Sri Lanka’s democratic institutions and the commitment of its citizens to shaping their future through peaceful and democratic means,” the statement read.
-
-...
-
-[Data](articles/0f1a062c.json)
-
-[Extended Data](ext_articles/0f1a062c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 17:22:47**
+As of **2024-09-24 17:39:13**
 
 ## Newspaper Stats
 
-*Scraped **46,026** Articles*
+*Scraped **46,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 3,053
 adalk | 4,233
 dailymirrorlk | 4,733
 adaderanalk | 5,420
-tamilmirrorlk | 6,148
+tamilmirrorlk | 6,149
 virakesarilk | 7,346
-adaderanasinhalalk | 7,959
+adaderanasinhalalk | 7,960
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,026 (100.0%) of 46,026 articles have been extended.
+46,026 (100.0%) of 46,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### ශ්‍රී ලංකා නීතිඥ සංගමයෙන් ජනපතිට ලිපියක්
+
+*2024-09-24 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201505) · `si`
+
+දේශපාලනමය, සමාජයීය සහ ආර්ථිකමය වශයෙන් රට තුළ ඇති දූෂිත සංස්කෘතිය මින් ඉදිරියට තුරන් වනු ඇතැයි අපේක්ෂා කරන බව ශ්‍රී ලංකා නීතිඥ සංගමය පවසයි.
+
+මෙරට 9වන විධායක ජනාධිපතිවරයා ලෙස තේරී පත්වූ අනුර කුමාර දිසානායක මහතා වෙත සුබ පැතුම් එක් කරමින් ශ්‍රී ලංකා නීතිඥ සංගමය ඒ බව පැවසීය.
+
+ශ්‍රී ලංකා නීතිඥ සංගමයේ වැඩබලන සභාපති ජනාධිපති නීතිඥ අනුර මැද්දෙගොඩ මහතාගේ අත්සනින් යුතුව නිකුත් කළ නිවේදනයක ඒ බව දැක්වෙයි.
+
+"නව ජනාධිපතිවරයාට විධායක ජනාධිපති ධූරයේ කාර්යයන් සහ කර්තව්‍යයන් නොපිරිහෙළා ඉටු කිරීම පිණිස ශක්තිය ධෛර්යය ලැබේවායි ද ප්‍රර්ථනා කරමු."
+
+"නීතියේ ආධිපත්‍යය හා අධිකරණයේ ස්වාධීනත්වය බාධා රහිතව පවත්වාගෙන යනු ඇතැයි නව ජනාධිපති කෙරෙහි ජනතාව තැබූ විශ්වාසය එතුමන් විසින් රැක ගනු ඇතැයි ද, අකාර්යක්ෂම රාජ්‍ය පරිපාලනය සහ මෙතෙක් අප මාතෘ භූමිය පුරා පැතිරී තිබූ දේශපාලනමය, සමාජයීය සහ ආර්ථිකමය වශයෙන් සිදුවී ඇති දූෂිත සංස්කෘතිය මින් ඉදිරියට තුරන් වනු ඇතැයි ද අප අපේක්ෂා කරමු."
+
+...
+
+[Data](articles/d5359369.json)
+
+---
+
+### ஜனாதிபதி இன்றிரவு 7 மணிக்கு விசேட உரை
+
+*2024-09-24 16:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்றிரவு-7-மணிக்கு-விசேட-உரை/175-344386) · `ta`
+
+ஜனாதிபதி அனுரகுமார திஸாநாயக்க இன்று (24) இரவு 7 மணிக்கு நாட்டு மக்களுக்கு உரையாற்றி விசேட அறிக்கையொன்றை வெளியிட உள்ளார்.
+
+இதன்போது , புதிய அரசாங்கத்தின் எதிர் காலத் திட்டங்களை அறிவிக்க உள்ளார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9237b165.json)
+
+---
 
 ### Welney to assume duties before dissolution
 
@@ -2303,57 +2337,5 @@ In a statement issued to the Colombo Stock Exchange yesterday, Ratnayake has res
 [Data](articles/8b6b12c8.json)
 
 [Extended Data](ext_articles/8b6b12c8.ext.json)
-
----
-
-### Parliament will be dissolved tonight
-
-*2024-09-24 07:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இரவு-பாராளுமன்றம்-கலைக்கப்படும்/175-344354) · `ta`
-
-Sri Lanka: Parliament dissolved, elections by December. President appoints new PM, sets cabinet roles. NPP likely to contest, aiming for majority. Campaign expected soon.
-
-🟩
-
-Our brother -in -law, Daily Mirror, has released the news that parliament will be dissolved tonight and parliamentary elections will be held by December.
-
-Dinesh Gunawardena's resignation from the post of Prime Minister yesterday will be appointed by President Anura Kumara Dissanayake today, the National People's Power (NPP) senior source said.
-
-According to the exclusive list of Daily Mirror, President Dissanayake will have tourism, security, finance, justice, industrial and investment promotion, while the Prime Minister will be the Minister of Foreign Affairs, Education and Mass.
-
-NPP Parliamentarian Dr. Harini Amarasuriya will be sworn in as Prime Minister and Senior Parliamentarian Vijitha Herath and newly sworn in the newly elected parliamentarian Lakshman Nipuna Arachchi will be appointed as ministers.
-
-Nipuna Arachchi yesterday sworn in as a Member of Parliament for the vacancy caused by Anurakumara Dissanayake in the Colombo electorate.
-
-...
-
-[Data](articles/77d3f450.json)
-
-[Extended Data](ext_articles/77d3f450.ext.json)
-
----
-
-### Parliament will be dissolved tonight
-
-*2024-09-24 07:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-இன்றிரவு-கலைக்கப்படும்/175-344354) · `ta`
-
-Sri Lanka: Parliament dissolved, elections by December. President Dissanayake forms cabinet, Dr. Harini Amarasuriya sworn in as Prime Minister. National People's Power plans election campaign.
-
-🟩
-
-Our brother -in -law Daily Mirror has released the news that Parliament will be dissolved tonight (24) and parliamentary elections will be held by December.
-
-Dinesh Gunawardena's resignation from the post of Prime Minister yesterday (23) will be appointed by President Anura Kumara Dissanayake today (24).
-
-President Dissanayake will have tourism, security, finance, justice, industrial and investment promotion, while the Prime Minister will be the Minister of Foreign Affairs, Education and Mass.
-
-National People's Power Member of Parliament, Dr. Harini Amarasuriya will be sworn in as Prime Minister and Senior Parliamentarian Vijitha Herath and the newly sworn in by MP Lakshman Nipuna Arachchi will be appointed as ministers.
-
-Nipuna Arachchi was sworn in as a Member of Parliament yesterday (23) for the vacuum caused by Anurakumara Dissanayake in the Colombo electorate.
-
-...
-
-[Data](articles/b92fe6c6.json)
-
-[Extended Data](ext_articles/b92fe6c6.ext.json)
 
 ---

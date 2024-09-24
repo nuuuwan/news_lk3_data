@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 20:10:38**
+As of **2024-09-24 20:22:58**
 
 ## Newspaper Stats
 
-*Scraped **46,061** Articles*
+*Scraped **46,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,239
+adalk | 4,240
 dailymirrorlk | 4,733
 adaderanalk | 5,424
 tamilmirrorlk | 6,156
 virakesarilk | 7,360
-adaderanasinhalalk | 7,962
+adaderanasinhalalk | 7,963
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,061 (100.0%) of 46,061 articles have been extended.
+46,063 (100.0%) of 46,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### President calls nation tomorrow
+
+*2024-09-24 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201509) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Tomorrow, President Anura Kumara Dissanayake will address the nation at 7:30 pm. The announcement was made regarding his upcoming speech."
+
+🟩
+
+President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorrow (25).
+
+◼️
+
+[Data](articles/1bd9b14c.json)
+
+[Extended Data](ext_articles/1bd9b14c.ext.json)
+
+---
+
+### Outstanding growth in the stock market
+
+*2024-09-24 19:09:16* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොලේ-කැපී-පෙනෙන-වර්ධනයක්/11-412123) · `si`
+
+Colombo Stock Market sees significant growth: All indices rise, S&P SL20 increases by 76.16, Commercial Bank leads gains among 170 companies.
+
+🟩
+
+Outstanding growth in Colombo Stock Market Price Index was reported today (24). Accordingly, all stock price index value increased by 237.31 units in the day, and the S & PL20 index increased by Rs. 76.16.
+
+At the end of transactions, all stock price index value was 11,334.12 units and the S & P SL20 index value amounted to 3,236.79.
+
+Commercial Bank, Melstakop, LOLC Holdings, Hatton Calding and Ceylon Cold Store has increased compared to the date of 170 companies to increase all stock price index.
+
+◼️
+
+[Data](articles/85cd389e.json)
+
+[Extended Data](ext_articles/85cd389e.ext.json)
+
+---
 
 ### “Should be sent to Anga”
 
@@ -2355,53 +2399,5 @@ No major tremor was observed since the earthquake occurred undersea near the unp
 [Data](articles/61dfccba.json)
 
 [Extended Data](ext_articles/61dfccba.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger, bond yields down
-
-*2024-09-24 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-bond-yields-down-180783/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 304.20/50 to the US dollar Tuesday, stronger from 304.25/75 a day earlier, while bond yields were also down for the second day since the elections.
-
-A bond maturing on 01.05.2027 was quoted (indicative) at 12.60/80 down from 12.70/90 percent, after also falling on Monday.
-
-A bond maturing on 15.02.2028 was quoted at 13.15/20 percent, down from 13.25/40 percent.
-
-A bond maturing on 15.06.2029 was quoted at 13.40/45 percent down from 13.55/65 percent. (Colombo/Sep23/2024)
-
-◼️
-
-[Data](articles/b39e2d82.json)
-
-[Extended Data](ext_articles/b39e2d82.ext.json)
-
----
-
-### President Anura Kumara Dissanayake should understand that the actual change is not possible without providing a federal solution to the Tamils ​​- MP Gajendrakumar
-
-*2024-09-24 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194659) · `ta`
-
-Here's a 200-character summary:
-
-
-
-MP Gajendrakumar criticizes President Anura Kumara Dissanayake for not addressing Tamil issues. He urges a federal solution for Tamils, emphasizing self-determination and political recognition. The Tamil community largely boycotted the election, showing strong support for Tamil nationalism.
-
-🟩
-
-President Anurakumara Dissanayake should tell the fact that the change of people in the South is incompletely to accept the self -determination of the Tamils, recognize them separately and give them a political solution.. Tamil National People's Front parliamentarian Gajendrakumar Ponnambalam pointed out that he should understand that it would never be possible if he thought it would be possible without providing solutions to the problems of the Tamils.
-
-He pointed out that he was speaking at a special media briefing organized by his residence in Colombo yesterday (23).
-
-The Tamil people of the North and East have expressed their desire in the ninth presidential election of the country held last Saturday (21).
-
-In spite of various challenges and crises that continue for more than 70 years, the Tamil people praise such a firm stand and bow down.
-
-...
-
-[Data](articles/4577f327.json)
-
-[Extended Data](ext_articles/4577f327.ext.json)
 
 ---

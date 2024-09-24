@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 15:22:46**
+As of **2024-09-24 15:38:47**
 
 ## Newspaper Stats
 
-*Scraped **46,006** Articles*
+*Scraped **46,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,781
 dailyftlk | 3,053
 adalk | 4,229
 dailymirrorlk | 4,733
-adaderanalk | 5,416
+adaderanalk | 5,417
 tamilmirrorlk | 6,142
 virakesarilk | 7,346
 adaderanasinhalalk | 7,954
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,954
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,006 (100.0%) of 46,006 articles have been extended.
+46,007 (100.0%) of 46,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Sajith says he is PM candidate, no collaboration with Ranil
+
+*2024-09-24 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102240/sajith-says-he-is-pm-candidate-no-collaboration-with-ranil) · `en`
+
+Opposition Leader Sajith Premadasa says that he was unanimously chosen as the Prime Ministerial candidate of the ‘Samagi Jana Sandhanaya’ for the upcoming General Election.
+
+Furthermore, he stated that there will be no collaboration between former President Ranil Wickremesinghe and him.
+
+◼️
+
+[Data](articles/4a8d3700.json)
+
+[Extended Data](ext_articles/4a8d3700.ext.json)
+
+---
 
 ### Harini Amarasuriya sworn-in as Prime Minister
 
@@ -2331,25 +2347,5 @@ Ahimsa holding a portrait of her father Lasantha Wickrematunge who was assassina
 [Data](articles/20f99362.json)
 
 [Extended Data](ext_articles/20f99362.ext.json)
-
----
-
-### President visits Kandy to seek blessings from Sacred Tooth Relic
-
-*2024-09-24 03:57:13* · [`dailyftlk`](https://www.ft.lk/news/President-visits-Kandy-to-seek-blessings-from-Sacred-Tooth-Relic/56-767076) · `en`
-
-President Anura Kumara Dissanayake yesterday paid homage to the Temple of the Tooth Relic (Dalada Maligawa) and received blessings.
-
-Upon his arrival at the Dalada Maligawa, the President was ceremonially welcomed by the Diyawadana Nilame of the Dalada Maligawa Nilanga Dela.
-
-Following this, the Maha Sangha chanted Seth Pirith and offered blessings to the President, who took part in religious observances before the sacred Tooth Relic. The President also signed the special visitors’ book placed within the historic Dalada Maligawa.
-
-Former Member of Parliament K.D. Lal Kantha was also present on this occasion.
-
-◼️
-
-[Data](articles/128c6a81.json)
-
-[Extended Data](ext_articles/128c6a81.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 23:10:22**
+As of **2024-09-24 23:22:32**
 
 ## Newspaper Stats
 
-*Scraped **46,084** Articles*
+*Scraped **46,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,26 +15,76 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,245
+adalk | 4,246
 dailymirrorlk | 4,733
-adaderanalk | 5,427
-tamilmirrorlk | 6,159
+adaderanalk | 5,428
+tamilmirrorlk | 6,160
 virakesarilk | 7,366
-adaderanasinhalalk | 7,967
+adaderanasinhalalk | 7,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,084 (100.0%) of 46,084 articles have been extended.
+46,084 (100.0%) of 46,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
 
+### Sri Lanka’s General Election on November 14
+
+*2024-09-24 22:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102250/sri-lankas-general-election-on-november-14) · `en`
+
+The Extraordinary Gazette notification issued by President Anura Kumara Dissanayake dissolving the Parliament of Sri Lanka effective from midnight today (24), has been published by the Department of Government Printing.
+
+The proclamation dissolve Parliament with effect from midnight today and summon the new Parliament to meet on the November 21, 2024.
+
+It has also fixed November 14, 2024 as the date for the election of the new Members of Parliament.
+
+The Gazette notification further specifies the period beginning on October 04 and ending at 12 noon October 11, 2024 as the nomination period, during which nomination papers shall be received by the Returning Officers.
+
+The President has issued the Gazette by virtue of the powers vested in him by Article 70 of the Constitution of the Democratic Socialist Republic of Sri Lanka and in pursuance of the provisions of Section 10 of the Parliamentary Elections Act, No. 1 of 1981.
+
+...
+
+[Data](articles/929561e8.json)
+
+---
+
+### நவம்பர் 14  பொதுத்தேர்தல்
+
+*2024-09-24 22:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பர்-14-பொதுத்தேர்தல்/175-344413) · `ta`
+
+பாராளுமன்றம் தற்போது கலைக்கப்பட்டது. வம்பர் 14ஆம் திகதி பொதுத்தேர்தல் நடைபெறும். 21 ஆம் திகதியன்று புதிய பாராளுமன்றத்தின் கன்னியமர்வு நடைபெறும்.
+
+◼️
+
+[Data](articles/c55c13ea.json)
+
+---
+
+### පාර්ලිමේන්තුව විසුරුවයි - මහමැතිවරණය නොවැම්බර් 14
+
+*2024-09-24 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201514) · `si`
+
+අද (24) මධ්‍යම රාත්‍රියේ සිට පාර්ලිමේන්තුව විසුරුවාහැරීමට ජනාධිපතිවරයා තීරණය කර තිබේ.
+
+ඒ අනුව ඔක්තෝබර් මස 04 වන දින සිට ඔක්තෝබර් මස 11 වන දින දහවල් 12 දක්වා කාලය තුළ නාමයෝජනා භාරගැනීමට නියමිතය.
+
+◼️
+
+[Data](articles/73e67973.json)
+
+---
+
 ### We are ready to hold the general election cost 11 billion rupees- Elections Commission
 
 *2024-09-24 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194729) · `ta`
+
+Elections Commission announces general election cost: 11 billion rupees. Election date set after presidential decree dissolves Parliament. Treasury allocates funds. Election to be held within 5-7 weeks after dissolution.
+
+🟩
 
 The next step is based on the extravagant gazette published by the President by dissolving Parliament. Elections Commissioner Saman Sri Ratnayake said that it is estimated that the general election costs are required.
 
@@ -599,6 +649,22 @@ Commercial Bank, Melstakop, LOLC Holdings, Hatton Calding and Ceylon Cold Store 
 [Data](articles/85cd389e.json)
 
 [Extended Data](ext_articles/85cd389e.ext.json)
+
+---
+
+### පරජයේ වගකීම මම භාර ගන්නවා
+
+*2024-09-24 18:54:04* · [`adalk`](https://www.ada.lk/breaking_news/පරජයේ-වගකීම-මම-භාර-ගන්නවා/11-412122) · `si`
+
+පරාජයේ වගකීම තමන් භාර ගන්නා බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි. සමගි ජන බලවේගයේ පැවැති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු පැවැසීය.
+
+එසේම ඉදිරි මහ මැතිවරණයේදී සමගි ජන සන්ධානයේ අගමැති අපේක්ෂකයා ලෙස තමන් ඉදිරි පත් කිරීමට පක්ෂය තීන්දු කර ඇති බවත් ඔහු පැවැසීය.
+
+එසේම එක්සත් ජාතික පක්ෂය විසින් සකස් කිරිමට යෝජනා කර ඇති සන්ධානයට එක් නොවන බවත් සමගි ජන සන්ධානය ලෙස මැතිවරණයට ඉදිරිපත් වන බවත් ඔහු පැවැසීය.
+
+◼️
+
+[Data](articles/6b5c22f5.json)
 
 ---
 
@@ -2371,97 +2437,5 @@ United National Party Deputy Leader Ruwan Wijewardena and Chairman Vajira Abeywa
 [Data](articles/a03ba210.json)
 
 [Extended Data](ext_articles/a03ba210.ext.json)
-
----
-
-### Ex-President Ranil decides not to contest General Election
-
-*2024-09-24 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102235/ex-president-ranil-decides-not-to-contest-general-election) · `en`
-
-The United National Party (UNP) says that former President Ranil Wickremesinghe will not contest the upcoming General Election.
-
-The Deputy Leader of the UNP, Ruwan Wijewardena also stated that Wickremesinghe does not expect to enter Parliament through the National List.
-
-◼️
-
-[Data](articles/be4e372d.json)
-
-[Extended Data](ext_articles/be4e372d.ext.json)
-
----
-
-### Sri Lanka does not want to get caught up in geopolitical competition between India and China - New President Anurakumara
-
-*2024-09-24 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194683) · `ta`
-
-Sri Lanka's new President Anura Kumaratisanayake emphasizes neutrality in geopolitical conflicts, seeking balanced relations with both India and China while maintaining ties with other regions.
-
-🟩
-
-For India;New President Anura Kumaratisanayake has said that Sri Lanka does not want to be in a generic political conflict between China.
-
-He has expressed his desire for the attitude of a strong independent foreign policy.
-
-In an interview with an international magazine, Anura Kumaratisanayake has issued his government's desire to withdraw from geopolitical conflicts.
-
-Under his leadership, the National People's Power Government, which is the two closest neighboring countries of Sri Lanka, will not try to join a mentioned country, saying that China is trying to maintain balanced relations with India.
-
-Sri Lanka's new president has said that we will not become part of the geopolitical conflict and we will not join any party.
-
-We want to become close colleagues under our government, ”said Anuragumaratisanayake.
-
-We want to maintain a good relationship with European Middle East Africa, ”he said.
-
-...
-
-[Data](articles/9d55740d.json)
-
-[Extended Data](ext_articles/9d55740d.ext.json)
-
----
-
-### President contests a special discussion today - Today is the dissolution of Parliament today?
-
-*2024-09-24 12:16:39* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අද-විශේෂ-සාකච්ඡාවක්-කැඳවයි---පාර්ලිමේන්තුව-විසුරවා-හැරීම-අද-/11-412108) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka: President Anura Kumara Dissanayake calls emergency meeting today to discuss dissolving Parliament. Decision expected after Cabinet swearing-in ceremony.
-
-🟩
-
-President Anura Kumara Dissanayake has called a special discussion today (24), and he will decide on the dissolution of parliament.
-
-He was responding to a journalist's question.
-
-A. The cabinet is sworn in today. The President has then called on a discussion. That is the decision about Parliament.
-
-◼️
-
-[Data](articles/435b313d.json)
-
-[Extended Data](ext_articles/435b313d.ext.json)
-
----
-
-### Ranil Wickremesinghe's action decision!
-
-*2024-09-24 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194682) · `ta`
-
-Former President Ranil Wickremesinghe won't run in general election or join parliament via national list, according to Ruwan Wijewardena.
-
-🟩
-
-Ruwan Wijewardena has said that former President Ranil Wickremesinghe will no longer contest the general election.
-
-Meanwhile, Ruwan Wijewardena has said that he will not enter Parliament through the national list.
-
-◼️
-
-[Data](articles/097d26e8.json)
-
-[Extended Data](ext_articles/097d26e8.ext.json)
 
 ---

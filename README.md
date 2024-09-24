@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 17:39:13**
+As of **2024-09-24 17:59:34**
 
 ## Newspaper Stats
 
-*Scraped **46,028** Articles*
+*Scraped **46,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,146 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,233
+adalk | 4,234
 dailymirrorlk | 4,733
-adaderanalk | 5,420
+adaderanalk | 5,421
 tamilmirrorlk | 6,149
-virakesarilk | 7,346
+virakesarilk | 7,357
 adaderanasinhalalk | 7,960
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,026 (100.0%) of 46,028 articles have been extended.
+46,038 (100.0%) of 46,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
 
-### ශ්‍රී ලංකා නීතිඥ සංගමයෙන් ජනපතිට ලිපියක්
+### ‘Parliament will most likely be dissolved today’ – PM Harini
+
+*2024-09-24 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102244/parliament-will-most-likely-be-dissolved-today-pm-harini) · `en`
+
+The newly appointed Prime Minister Dr. Harini Amarasuriya stated that Sri Lanka’s Parliament is most likely to be dissolved today (24).
+
+Speaking to the media after being sworn-in as the Prime Minister, Dr. Amarasuriya said that she will assume the duties in the office of the Prime Minister before the dissolution of Parliament.
+
+“I have to assume duties now. After that, we have to start our work. Parliament will most likely be dissolved today. I have to go assume duties before that.”
+
+Furthermore, she expressed: “We are very thankful to the public for trusting us. We will safeguard that trust.”
+
+National People’s Power (NPP) MP Dr. Harini Amarasuriya was sworn-in as the new Prime Minister of Sri Lanka, before President Anura Kumara Dissanayake at the Presidential Secretariat this afternoon.
+
+Accordingly, she is the third female Prime Minister in the history of Sri Lanka.
+
+◼️
+
+[Data](articles/d5752d5a.json)
+
+[Extended Data](ext_articles/d5752d5a.ext.json)
+
+---
+
+### A letter from the Bar Association of Sri Lanka
 
 *2024-09-24 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201505) · `si`
 
-දේශපාලනමය, සමාජයීය සහ ආර්ථිකමය වශයෙන් රට තුළ ඇති දූෂිත සංස්කෘතිය මින් ඉදිරියට තුරන් වනු ඇතැයි අපේක්ෂා කරන බව ශ්‍රී ලංකා නීතිඥ සංගමය පවසයි.
+Bar Association of Sri Lanka urges new president to combat corruption, strengthen judiciary, and promote unity among communities.
 
-මෙරට 9වන විධායක ජනාධිපතිවරයා ලෙස තේරී පත්වූ අනුර කුමාර දිසානායක මහතා වෙත සුබ පැතුම් එක් කරමින් ශ්‍රී ලංකා නීතිඥ සංගමය ඒ බව පැවසීය.
+🟩
 
-ශ්‍රී ලංකා නීතිඥ සංගමයේ වැඩබලන සභාපති ජනාධිපති නීතිඥ අනුර මැද්දෙගොඩ මහතාගේ අත්සනින් යුතුව නිකුත් කළ නිවේදනයක ඒ බව දැක්වෙයි.
+The Bar Association of Sri Lanka says that the corrupt culture in the country is a political, social and economically the corrupt culture of the country will be eradicated.
 
-"නව ජනාධිපතිවරයාට විධායක ජනාධිපති ධූරයේ කාර්යයන් සහ කර්තව්‍යයන් නොපිරිහෙළා ඉටු කිරීම පිණිස ශක්තිය ධෛර්යය ලැබේවායි ද ප්‍රර්ථනා කරමු."
+The Bar Association of Sri Lanka (BASL) was speaking to Anura Kumara Dissanayake, who was elected as the 9th Executive President of Sri Lanka.
 
-"නීතියේ ආධිපත්‍යය හා අධිකරණයේ ස්වාධීනත්වය බාධා රහිතව පවත්වාගෙන යනු ඇතැයි නව ජනාධිපති කෙරෙහි ජනතාව තැබූ විශ්වාසය එතුමන් විසින් රැක ගනු ඇතැයි ද, අකාර්යක්ෂම රාජ්‍ය පරිපාලනය සහ මෙතෙක් අප මාතෘ භූමිය පුරා පැතිරී තිබූ දේශපාලනමය, සමාජයීය සහ ආර්ථිකමය වශයෙන් සිදුවී ඇති දූෂිත සංස්කෘතිය මින් ඉදිරියට තුරන් වනු ඇතැයි ද අප අපේක්ෂා කරමු."
+Attorney issued by the Acting Chairman of the Bar Association of Sri Lanka.
+
+"Let the new president wishes to courage to fulfill the tasks of the executive presidency and the tasks of the executive presidency."
+
+"The political, social administration and the political, social and economic corrupt culture that the ineffective state administration and the ineffective state administration, which is widely spread throughout our motherland, will continue to defend the confidence of the law and independence of the judiciary.We expect. "
 
 ...
 
 [Data](articles/d5359369.json)
 
+[Extended Data](ext_articles/d5359369.ext.json)
+
 ---
 
-### ஜனாதிபதி இன்றிரவு 7 மணிக்கு விசேட உரை
+### The President's Speech at 7 o'clock tonight
 
 *2024-09-24 16:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்றிரவு-7-மணிக்கு-விசேட-உரை/175-344386) · `ta`
 
-ஜனாதிபதி அனுரகுமார திஸாநாயக்க இன்று (24) இரவு 7 மணிக்கு நாட்டு மக்களுக்கு உரையாற்றி விசேட அறிக்கையொன்றை வெளியிட உள்ளார்.
+Here's a 200-character summary:
 
-இதன்போது , புதிய அரசாங்கத்தின் எதிர் காலத் திட்டங்களை அறிவிக்க உள்ளார் என்பது குறிப்பிடத்தக்கது.
+
+
+"Tonight at 7pm, President Anura Kumara Dissanayake addresses the nation. He'll unveil the opposition's plans for the new government."
+
+🟩
+
+President Anura Kumara Dissanayake will address the people of the country at 7 pm tonight.
+
+It is noteworthy that he is going to announce the new government's opposition plans.
 
 ◼️
 
 [Data](articles/9237b165.json)
+
+[Extended Data](ext_articles/9237b165.ext.json)
+
+---
+
+### Parliament can be dissolved tonight- the new Prime Minister
+
+*2024-09-24 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194708) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Parliament may dissolve tonight: New PM Harini Amarasuriya hints at potential dissolution of Parliament tonight, citing unspecified reasons."
+
+🟩
+
+New Prime Minister Harini Amarasuriya has said that there is a possibility of dissolution of Parliament tonight.
+
+◼️
+
+[Data](articles/3e8106d2.json)
+
+[Extended Data](ext_articles/3e8106d2.ext.json)
+
+---
+
+### 'Aka Kadavana' that makes sense of the strength of speech
+
+*2024-09-24 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194705) · `ta`
+
+"Aka Kadavana" summary: Newcomer Adiran Suresh stars as "Akhak Kadavana," a hero whose speech determines his fate. Directed by Raja, featuring a star-studded cast, the film explores the power of words. Music by Shanthan Anbalakan, produced by Sara Art Gallery. Post-production ongoing.
+
+🟩
+
+Newcomer Adiran Suresh is the hero of the story and has been named 'Akhak Kadavana' and its first look has been released.
+
+Adiran Suresh, Vincent, C. R. Rahul, Michael, Raja Sivan, Satish Ramadas, Tatshana, Niwas and many others have been cast.
+
+Leo. The film, which has been recorded by Raja, has composed the music of Shantan Anbalakan.
+
+The film was made on behalf of the film company called Sara Art Gallery.Raja has co -produced.
+
+The shooting of the film is complete and the post -shooting is currently underway.
+
+Commenting on the film, the director said, “There is a Chinese proverb that one is talking to him.. It is the words he speaks to determine the good and evil of one's life.
+
+Speaking of good things.. If you speak evil, the evil will result in. The story is written in the film.
+
+◼️
+
+[Data](articles/c3d8ff05.json)
+
+[Extended Data](ext_articles/c3d8ff05.ext.json)
 
 ---
 
@@ -117,6 +209,34 @@ The World Health Organization has also informed the World Health Suddenness of '
 [Data](articles/aaa3b5a7.json)
 
 [Extended Data](ext_articles/aaa3b5a7.ext.json)
+
+---
+
+### A Virtual Production Hall in Chennai. R. Rahman
+
+*2024-09-24 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194703) · `ta`
+
+R. Rahman launches "U Stream" virtual production hall in Chennai, featuring modern tech for music and film. International directors attend inaugural event, highlighting fusion of art and technology in Indian storytelling.
+
+🟩
+
+The music industry. R. Rahman has launched a virtual manufacturing hall with sophisticated technology facilities under the name 'You Stream' at AR Flim City, Chennai.
+
+'Music Flower' is a person who continues to entertain fans with songs and background music combining new sounds in the music of the Tamil cinema world. R. Rahman. As technology grows up, its usage is interested in introducing various modern technologies to fully use the music industry. R. Rahman-Currently launched a virtual manufacturing hall with modern technology in Chennai under the name 'U Stream'.
+
+Various international filmmakers, including director Mani Ratnam, participated in the inauguration.
+
+A. at the event. R. Rahman said, “The 'U Stream' is a place where art and modern technology are a high -level association.
+
+Indian storytelling can be carried out to international audiences through modern technologies.
+
+This modern technology will provide new opportunities to producers, creators and technicians. ”
+
+◼️
+
+[Data](articles/ada32035.json)
+
+[Extended Data](ext_articles/ada32035.ext.json)
 
 ---
 
@@ -186,6 +306,50 @@ The Health Minister of Lebanon said that over 1500 people were injured in the at
 
 ---
 
+### Sajith proposal unanimously to Sajith
+
+*2024-09-24 16:24:39* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිකම-ගැන-ඒකමතිකව-සජිත්ට-යෝජනාවක්/11-412115) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sajith Premadasa proposes himself as PM candidate for upcoming general election. All electoral organizers unanimously support his candidacy.
+
+🟩
+
+Opposition Leader Sajith Premadasa said that a proposal was conducted to conduct the coming general election as the Prime Minister's Candidate.
+
+"Today all the electoral organizers of the reconciliation are unanimously promoted to all MPs as the Prime Minister's candidate. "
+
+◼️
+
+[Data](articles/ac9ada6c.json)
+
+[Extended Data](ext_articles/ac9ada6c.ext.json)
+
+---
+
+### Else
+
+*2024-09-24 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194702) · `ta`
+
+Massive wildfire spreads in forest, burns over 10 acres. Military deployed to extinguish flames.
+
+🟩
+
+Ella police said that a massive wildfire is spreading in the forest.
+
+Ella police said that more than ten acres of forest has been burnt and the fire has been sought by the military to extinguish the fire.
+
+◼️
+
+[Data](articles/a6ae36f1.json)
+
+[Extended Data](ext_articles/a6ae36f1.ext.json)
+
+---
+
 ### Vijitha Herath
 
 *2024-09-24 16:13:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-நீதிமன்றில்-ஆஜர்/175-344384) · `ta`
@@ -210,6 +374,60 @@ Considering the request, the High Court judge asked Hera to appear in court on N
 
 ---
 
+### Mirchi Siva's 'Sumo' will be released in October
+
+*2024-09-24 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194699) · `ta`
+
+"Mirchi Siva's 'Sumo' releases Oct. Director S.B., Priya Anand star. Produced by Dr. Isari K. Ganesh. Cinematography by Rajiv Menon, music by Niwas K. Prasanna."
+
+🟩
+
+The film 'Sumo' will be released in the film House in October, which will be released in the film House in October.
+
+Director S.. B.. Mirchi Siva, Priya Anand, Mahesh Manjarekar, Yogi Babu, VTV Ganesh, Manopalaf, Lizzie Antony, M. S.. Bhaskar has played many others, including Yoshinori Tasiro, a Japanese player Sumo. Rajiv Menon's cinematography by Niwas K.. Prasanna has composed the music.
+
+The film was made on behalf of the famous producer Dr. Isari K.. Ganesh has produced.
+
+The film, which was announced by 2020, has not been released for several reasons.
+
+In this case, the film will be released at the filmmaker in October and will be officially announced as soon as the film will be officially announced.
+
+◼️
+
+[Data](articles/054509d8.json)
+
+[Extended Data](ext_articles/054509d8.ext.json)
+
+---
+
+### Actor Akash Murali starrer 'Niripayapaya'
+
+*2024-09-24 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194697) · `ta`
+
+"Niripayapaya" starring Akash Murali, directed by Vishnuvardhan. Romantic comedy with young actors. Music by Cameron Eric Brisan. Produced by HP Film Creators.
+
+🟩
+
+The film has been released by the film 'Niripayapaya' which is the leading actor Murali's successor and debutant actor Akash Murali.
+
+Akash Murali, Aditi Shankar, R in the film 'Niripaya' directed by star director Vishnuvardhan. Sarathkumar, Prabhu, Khushboo Sundar, Raja, Kalki Kochlin, Shiv Pandit are many others.
+
+The film, which has been recorded by Cameron Eric Brisan, has composed the film.
+
+The film is mixed with love and excitement on behalf of HP Film Creators.. Produced by Xavier Brito.
+
+The film has been released, waiting for the release of all the work of the film.
+
+The expectation of the film has increased as the romantic scenes and the existence scenes of the younger generation want.
+
+◼️
+
+[Data](articles/77fdd90a.json)
+
+[Extended Data](ext_articles/77fdd90a.ext.json)
+
+---
+
 ### Inflation down
 
 *2024-09-24 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201501) · `si`
@@ -229,6 +447,26 @@ The latest announcement issued by the Northern Province, which was 2.2% of food 
 [Data](articles/0580f7d8.json)
 
 [Extended Data](ext_articles/0580f7d8.ext.json)
+
+---
+
+### United People's Power Candidate Sajith- 'Ranil is not likely to work together'
+
+*2024-09-24 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194698) · `ta`
+
+Sajith Premadasa, United People's Power candidate, rules out alliance with UNP. He claims Ranil Wickremesinghe unlikely to collaborate. This statement comes ahead of the upcoming parliamentary elections.
+
+🟩
+
+Sajitprematasa has been officially announced as the United People's Power Public Council candidate in the upcoming parliamentary election.
+
+Meanwhile, Sajith Premadasa has said that there is no chance of working with the United National Party.
+
+◼️
+
+[Data](articles/84475370.json)
+
+[Extended Data](ext_articles/84475370.ext.json)
 
 ---
 
@@ -275,6 +513,26 @@ He urged that Sri Lankans employed in northern zones of Israel to move to the ne
 [Data](articles/2ccfde19.json)
 
 [Extended Data](ext_articles/2ccfde19.ext.json)
+
+---
+
+### Mountaineer train services impact
+
+*2024-09-24 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194691) · `ta`
+
+Train derails Badulla-Kandy route near Temodara station. Repair efforts underway. Impact on mountaineer services unclear.
+
+🟩
+
+A train traveling from Badulla to Kandy has derailed near the Temodara railway station this afternoon, the Nawalapitiya Railway Control Unit said.
+
+The Railway Control Division further stated that steps have been taken to repair the train that has been deployed by a group of employees from the Badulla railway station.
+
+◼️
+
+[Data](articles/b6e26bcb.json)
+
+[Extended Data](ext_articles/b6e26bcb.ext.json)
 
 ---
 
@@ -334,7 +592,9 @@ UNP Deputy Leader, Ruwan Wijewardena also stated that Wickremesinghe does not ex
 
 However, Premadasa has now said that there will be no collaboration between Wickremesinghe and himself.
 
-◼️
+Responding to a question from reporters regarding claims that he could have won the election if he had contested together with UNP leader Ranil Wickremesinghe, Premadasa said:
+
+...
 
 [Data](articles/4a8d3700.json)
 
@@ -486,6 +746,42 @@ He also mentioned that he was fortunate to have led the public service of the We
 
 ---
 
+### ஊழல் குற்றச்சாட்டுக்கு ஆளான எவரையும் மீண்டும் சேர்த்துக் கொள்ள போவதில்லை  - ஸ்ரீலங்கா பொதுஜன பெரமுன
+
+*2024-09-24 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194692) · `ta`
+
+இந்நிலையில்,  ஸ்ரீலங்கா பொதுஜன பெரமுன பாராளுமன்ற தேர்தலை எவ்வாறு அணுகுவது என்பது குறித்து விரிவான கலந்துரையாடல் இன்று செவ்வாய்க்கிழமை (24) நெலும் மாவத்தையில் நடைபெற்றுள்ளது.
+
+அதில், ஜனாதிபதி தேர்தலின் போது கட்சியில் இருந்து விலகியவர்கள் மீண்டும் ஸ்ரீலங்கா பொதுஜன பெரமுனவில் இணைந்து கொள்வதா என்பது தொடர்பில் கலந்துரையாடப்பட்டுள்ளது.
+
+ஊழல் குற்றச்சாட்டுக்கு ஆளான எவரையும் மீண்டும் சேர்க்க வேண்டாம் என்றும் கட்சி முடிவு செய்துள்ளது.  அத்தோடு, முன்னதாக கட்சியில் இருந்து விலகியவர்களில் பலரை மீண்டும் இணையுமாறு வேண்டுகோள் விடுத்துள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுன கடட்சியின் பேச்சாளர்  தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/7e998869.json)
+
+---
+
+### தமிழ்த்தேசிய உணர்வுத் தளத்தை மீளக் கட்டமைப்பதில் பொதுவேட்பாளர் காத்திரமாக பங்காற்றியுள்ளார் - பொ.ஐங்கரநேசன்
+
+*2024-09-24 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194686) · `ta`
+
+முள்ளிவாய்க்கால் யுத்தத்தின் முடிவுவரை தேசமாகத் திரண்டிருந்த தமிழ் மக்கள் அதன் பின்னர் சாதிகளாகவும், சமயங்களாகவும், பிரதேசங்களாகவும், கட்சிகளாகவும் சிதறடிக்கப்பட்டுள்ளனர்.
+
+தென்னிலங்கை அரசியல்வாதிகளோடு தமிழ் அரசியல்வாதிகள் சிலரும் கைகோர்த்து திட்டமிட்டு இதனை நிறைவேற்றி வந்துள்ளனர்.
+
+"இந்நிலையில், ஜனாதிபதித் தேர்தலில் தமிழ்த் தேசியப் பொதுக்கட்டமைப்பின் சார்பில் தமிழ்ப் பொதுவேட்பாளராகப் போட்டியிட்ட பா.அரியநேத்திரன் சிதறிக்கிடக்கும் தமிழ்த் தேசிய உணர்வுத் தளத்தை மீளக்கட்டமைப்பதில் காத்திரமான பங்காற்றியுள்ளார்." என்று தமிழ்த் தேசியப் பசுமை இயக்கத்தின் தலைவர் பொ.ஐங்கரநேசன் சுட்டிக்காட்யுள்ளார்.
+
+ஜனாதிபதித் தேர்தலில் போட்டியிட்ட தமிழ்ப் பொதுவேட்பாளர் குறித்து பொ.ஐங்கரநேசன் வெளியிட்டுள்ள ஊடக அறிக்கையிலேயே இவ்வாறு சுட்டிக்காட்டியுள்ளார்.
+
+“ஒரு இனத்தைத் தேசமாகக் கட்டியமைப்பதில் அந்த இனம் பேசுகின்ற மொழி, தாயகமாகக் கொண்டிருக்கும் நிலப்பரப்பு, பண்பாடு ஆகியன வகிக்கும் பங்களிப்புகளுக்கு நிகராக தேசம் என்ற உணர்வு நிலையும் இன்றியமையாதது.
+
+...
+
+[Data](articles/e3d2b807.json)
+
+---
+
 ### Derailment disrupts train services on up-country line
 
 *2024-09-24 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102237/derailment-disrupts-train-services-on-up-country-line) · `en`
@@ -505,6 +801,24 @@ The Railway Control Room further said that the railway track has been severely d
 [Data](articles/ff1f9d3b.json)
 
 [Extended Data](ext_articles/ff1f9d3b.ext.json)
+
+---
+
+### பேருவளையில் ஹெரோயினுடன் ஒருவர் கைது
+
+*2024-09-24 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194684) · `ta`
+
+களுத்துறை, பேருவளை பொலிஸ் பிரிவுக்குட்பட்ட மாகல்கந்த பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று திங்கட்கிழமை (23) கைது  செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பேருவளை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் மினுவாங்கொடை பகுதியைச் சேர்ந்த 49 வயதுடையவர் ஆவார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 303 கிராம் 500 மில்லிகிராம் ஹெரோயின் போதைப்பொருள்  கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5afd481b.json)
 
 ---
 
@@ -2011,331 +2325,5 @@ The gazette notification was issued by the new President Dr. NSumantay yesterday
 [Data](articles/dfdb7a7b.json)
 
 [Extended Data](ext_articles/dfdb7a7b.ext.json)
-
----
-
-### Israel's strike is nearing death 500
-
-*2024-09-24 09:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-சரமாரி-தாக்குதலில்-உயிரிழப்பு-500ஐ-நெருங்கியது/50-344360) · `ta`
-
-Israel strikes Hezbollah in Lebanon, killing 492 civilians, injuring over 700. UN expresses concern as Iran condemns the attack. Displaced residents flee, seeking shelter from ongoing airstrikes.
-
-🟩
-
-492 people, including women and children, were killed in an Israeli military's rocket attack targeting the status of Hizbullah terrorists in Lebanon;More than 700 people were injured.
-
-Hamas terrorists attacked last year. In support of Hamas, Hizbullah organizations in Lebanon, Israel's neighbor, also occasionally attack.
-
-Israel, who was hoping to end this, launched a direct attack on Hezbollah. With the help of the intelligence agencies, the pagers captured walkie talkies.
-
-Subsequently, airstrikes have launched an air strike on the Hizbullah soldiers lurking in Lebanon. Hundreds of people have been killed in the attack for the third day.
-
-Shortly before the attack, the phone calls from Israel to Lebanon cities. Leave the house immediately in it. A warning announcement will come about. In the next few minutes, Israeli planes are pouring bombshell.
-
-...
-
-[Data](articles/0563c476.json)
-
-[Extended Data](ext_articles/0563c476.ext.json)
-
----
-
-### The main meeting to be held today in Colombo
-
-*2024-09-24 09:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-இடம்பெறவுள்ள-முக்கிய-சந்திப்பு/175-344359) · `ta`
-
-Colombo meeting: United People's Alliance party leaders gather today to discuss general election strategy. UNP invited to participate.
-
-🟩
-
-It is reported that a meeting between party leaders who are part of the United People's Alliance will take place today.
-
-The meeting will be held to discuss the upcoming general election.
-
-Leaders of political parties in the United People's Alliance have been invited to meet in Colombo.
-
-Meanwhile, it was reported that the United National Party (UNP) had been invited to contest the general election.. Remble
-
-◼️
-
-[Data](articles/13efd427.json)
-
-[Extended Data](ext_articles/13efd427.ext.json)
-
----
-
-### The main meeting in Colombo today
-
-*2024-09-24 09:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-முக்கிய-சந்திப்பு/175-344359) · `ta`
-
-Colombo meeting: United People's Alliance party leaders gather today to discuss general election strategy. UNP invited to participate.
-
-🟩
-
-It is reported that a meeting between party leaders who are part of the United People's Alliance will take place today.
-
-The meeting will be held to discuss the upcoming general election.
-
-Leaders of political parties in the United People's Alliance have been invited to meet in Colombo.
-
-Meanwhile, it was reported that the United National Party (UNP) had been invited to contest the general election.. Remble
-
-◼️
-
-[Data](articles/a8c5cf1f.json)
-
-[Extended Data](ext_articles/a8c5cf1f.ext.json)
-
----
-
-### What do we know about the new office bearer of President Anura?
-
-*2024-09-24 08:54:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2lw4lrvelo) · `si`
-
-Here's a 200-character summary:
-
-
-
-New cabinet sworn in under President Anura Kumara Dissanayake. Key appointments include Dr. Nandika Sanath Kanayake as Secretary to the President and Retired General Kamal Gunaratne as Defense Minister. Other notable appointees include Air Vice Marshal Sampath Sanjeewa Thusithacontha and Senior DIG Ravi Seneviratne. President Dissanayake appointed his private secretary, Ananda Wipelal.
-
-🟩
-
-The new cabinet of President Anura Kumara Dissanayake sworn in this evening (On 24th September).
-
-Dr. Nandika Sanath Sanath Kannathan was appointed as the Secretary to the President yesterday.
-
-New Letsters were appointed for security and public security, within a few hours after the president was swear.
-
-Dr. Nandika Sanath Sanath Sanath Kanayake, who was appointed Secretary to the President, is a doctorate.
-
-Graduate Degree in Honorable Arts (GRIS)
-
-Dr. The research on Customs Corruption (Customs Corruption) has been conducted and the research has been declared in international publications.
-
-He is a Characition consultant on customs innovation by World Customs Organization.
-
-Dr. Kunaweera has also participated in the development of Customs support in other countries.
-
-The Sri Lanka Customs Department served as a customs officer in 1997 as a Deputy Director of the Sri Lanka Customs Department.
-
-...
-
-[Data](articles/373cf7ab.json)
-
-[Extended Data](ext_articles/373cf7ab.ext.json)
-
----
-
-### The new cabinet is sworn in today
-
-*2024-09-24 08:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-இன்று-பதவிப்பிரமாணம்/175-344358) · `ta`
-
-New cabinet led by President Anura Kumara Dissanayake sworn in today. Cabinet appointments expected for general election. Funds allocated for parliamentary election. Gazette notification for parliament dissolution issued.
-
-🟩
-
-It is reported that the new Cabinet, which is headed by President Anura Kumara Dissanayake, will be sworn in today (24).
-
-Political sources say that Cabinet appointments will be made to hold a general election.
-
-However, political sources say that President Anura Kumara Dissanayake will convene the cabinet after the cabinet's sworn in and allocates the funds for the parliamentary election.
-
-Accordingly, it is also reported that the gazette notification for the dissolution of Parliament at midnight today is highly considering the current situation.. Remble
-
-◼️
-
-[Data](articles/4a890e5a.json)
-
-[Extended Data](ext_articles/4a890e5a.ext.json)
-
----
-
-### Extension of extensive investigations into the scholarship question paper
-
-*2024-09-24 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201488) · `si`
-
-Criminal Investigations Department probing Grade 05 Scholarship Exam question paper leak investigation ongoing
-
-🟩
-
-The Criminal Investigations Department (CID) is underway through the Criminal Investigation Department (CID) regarding the question departure of the question paper of the Grade 05 Scholarship Examination.
-
-◼️
-
-[Data](articles/66c60c12.json)
-
-[Extended Data](ext_articles/66c60c12.ext.json)
-
----
-
-### IMF to work with Anura. Ready
-
-*2024-09-24 08:26:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுடன்-பணியாற்ற-ஐ-எம்-எப்-தயார்/175-344357) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"IMF ready to work with Sri Lanka's new President Anura Kumara Dissanayake. Discussions to launch soon regarding third review."
-
-🟩
-
-The International Monetary Fund has announced that it is ready to work with Sri Lanka's new President Anura Kumara Dissanayake.
-
-This was stated in a statement issued by a spokesman for the IMF.
-
-In addition, the IMF spokesman said that discussions will be launched soon in connection with the third review.. (A)
-
-◼️
-
-[Data](articles/8c569554.json)
-
-[Extended Data](ext_articles/8c569554.ext.json)
-
----
-
-### Sri Lankans in Lebanon reunite before high tension
-
-*2024-09-24 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201487) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan community in Lebanon gathers amid rising tensions. Israeli ambassador requests ceasefire over shelling and rocket attacks targeting Israeli goals.
-
-🟩
-
-The Israeli Ambassador in Sri Lanka has requested that the shell and rocket attacks on the goals of Israel.
-
-◼️
-
-[Data](articles/b56c3e27.json)
-
-[Extended Data](ext_articles/b56c3e27.ext.json)
-
----
-
-### New President Anura Cadinal Thero
-
-*2024-09-24 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201486) · `si`
-
-Here's a 200-character summary:
-
-
-
-New President Anura Kumara Dissanayake wins election. Meets Cardinal Thera, receives blessing from Malcolm Cardinal Ranjith. Promises to help poor, faces challenges in governance.
-
-🟩
-
-The new President Anura Kumara Dissanayake has won the Colombo Higantam Kadinal Ranjith.
-
-The President arrived at the Archbishop of Borella, the Archbishop, Visiting the Archbishop, and was engaged in a brief resistance, the Presidential Media Unit said.
-
-The Cardinal Thera has joined the President Anura Kumara Dissanayake.
-
-Malcolm Cardinal Ranjith speaking to the media after the meeting,
-
-"I wish the highest number of people in Sri Lanka to be appointed as the presidency. And I wonder, the people of Sri Lanka have been handed over to the people of Sri Lanka to make a difference in Sri Lanka.. This can be a difficult task. But our full support and blessings are given. I urge you to continue the poor people and continue you. "
-
-Meanwhile, President Anura Kumara Dissanayake had gone to Dentegahapuliya, Colombo yesterday (23) and the Presidential Media Unit said.
-
-◼️
-
-[Data](articles/1a9fab80.json)
-
-[Extended Data](ext_articles/1a9fab80.ext.json)
-
----
-
-### IMF to work with Sri Lanka’s new president, welcomes creditor agreement
-
-*2024-09-24 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102226/imf-to-work-with-sri-lankas-new-president-welcomes-creditor-agreement) · `en`
-
-The International Monetary Fund welcomed on Monday last week’s announcement of an agreement in principle between Sri Lanka and a group of its international bondholders to restructure $12.5 billion in bonds, the fund said, adding it looks forward to working with newly elected president Anura Kumara Dissanayake.
-
-“We look forward to working together with President Dissanayake and his team towards building on the hard-won gains that have helped put Sri Lanka on a path to economic recovery,” a spokesperson for the fund said via email.
-
-The fund said it will discuss the timing of its third review of the current program with Sri Lanka “as soon as practicable.”
-
-Full Statement by the IMF Spokesman: “We look forward to working together with President Dissanayake and his team towards building on the hard-won gains that have helped put Sri Lanka on a path to economic recovery since entering one of its worst economic crises in 2022.
-
-...
-
-[Data](articles/64e10161.json)
-
-[Extended Data](ext_articles/64e10161.ext.json)
-
----
-
-### The President met the Archbishop
-
-*2024-09-24 07:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராயரை-சந்தித்தார்-ஜனாதிபதி/175-344356) · `ta`
-
-President Anura Kumara Dissanayake meets Archbishop of Colombo, discusses investigation into Easter attacks and visits local school.
-
-🟩
-
-New President Anura Kumara Dissanayake met with Archbishop of Colombo yesterday (23). The President visited the official residence of the Archbishop in Borella, met with the Archbishop and inquired for a while.
-
-My congratulations to Anuragumara Dissanayake, who has been elected president by the wishes of the majority of Sri Lanka.. On this occasion, the people of Sri Lanka have entrusted him with the responsibility of making the necessary change in Sri Lanka.
-
-This may be a responsible and difficult task. We promise to give him full support and blessings for that. I urge you to think about the poor people in particular and continue your work.
-
-Responding to a question asked by a journalist, Archbishop Cardinal Malcolm Ranjit said that the president had assured him that he was doing everything possible to investigate the survival Sunday attack and prepare the foundation needed to bring out the truth.
-
-...
-
-[Data](articles/168be29d.json)
-
-[Extended Data](ext_articles/168be29d.ext.json)
-
----
-
-### President Anura met Archbishop ...
-
-*2024-09-24 07:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராயரை-சந்தித்தார்-ஜனாதிபதி-அனுர/175-344356) · `ta`
-
-Sri Lanka's new President Anura Kumara Dissanayake met with Archbishop of Colombo, discussing investigations into Easter attacks and promising support for the poor.
-
-🟩
-
-New President Anura Kumara Dissanayake met with Archbishop of Colombo yesterday (23). The President visited the official residence of the Archbishop in Borella, met with the Archbishop and inquired for a while.
-
-My congratulations to Anuragumara Dissanayake, who has been elected president by the wishes of the majority of Sri Lanka.. On this occasion, the people of Sri Lanka have entrusted him with the responsibility of making the necessary change in Sri Lanka.
-
-This may be a responsible and difficult task. We promise to give him full support and blessings for that. I urge you to think about the poor people in particular and continue your work.
-
-Responding to a question asked by a journalist, Archbishop Cardinal Malcolm Ranjit said that the president had assured him that he was doing everything possible to investigate the survival Sunday attack and prepare the foundation needed to bring out the truth.
-
-...
-
-[Data](articles/7c15102f.json)
-
-[Extended Data](ext_articles/7c15102f.ext.json)
-
----
-
-### Ceylon Bank Chairman resigns
-
-*2024-09-24 07:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வங்கி-தலைவர்-இராஜினாமா/175-344355) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ceylon Bank Chairman Kavan Ratnayake resigns. Effective September 22, he steps down as independent and executive leader. Announcement made to Colombo Stock Exchange.
-
-🟩
-
-State -owned Ceylon Bank (BOC) Chairman Kavan Ratnayake resigned from his post yesterday.
-
-In a statement issued to the Colombo Stock Exchange yesterday, Ratnayake has resigned from the post of independent and executive leader of the bank with implementation on September 22, BOC said.
-
-◼️
-
-[Data](articles/8b6b12c8.json)
-
-[Extended Data](ext_articles/8b6b12c8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 04:56:47**
+As of **2024-09-25 05:07:53**
 
 ## Newspaper Stats
 
-*Scraped **46,105** Articles*
+*Scraped **46,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,331 @@ bbccomsinhala | 452
 colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,791
-dailyftlk | 3,053
+dailyftlk | 3,067
 adalk | 4,247
 dailymirrorlk | 4,733
 adaderanalk | 5,428
 tamilmirrorlk | 6,161
-virakesarilk | 7,371
+virakesarilk | 7,374
 adaderanasinhalalk | 7,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,105 (100.0%) of 46,105 articles have been extended.
+46,112 (100.0%) of 46,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### International Chamber of Commerce Sri Lanka signs MoU with Port City Colombo
+
+*2024-09-25 04:52:04* · [`dailyftlk`](https://www.ft.lk/business/International-Chamber-of-Commerce-Sri-Lanka-signs-MoU-with-Port-City-Colombo/34-767113) · `en`
+
+ICCSL Chairman Shanil Fernando (left) exchanges the agreement with Port City Colombo Managing Director Xiong Hongfeng, others (from left): Port City Colombo Business Development Manager Imran Ahamed, ICCSL Vice Chairman Indika Rajapakshe, Secretary Hemakumara Gunesekara, Deputy Secretary Buddhapriya Ramanayake, COO Sanjeeva Karunaratne, Port City
+
+Colombo General Manager Tian Zheng, and Port City Colombo Investment Promotions and Marketing Director Radika Obeyesekere
+
+Initiative aimed to enhance collaboration in promoting Port City Colombo as a prime investment destination for local and international investors
+
+The International Chamber of Commerce (ICC) Sri Lanka yesterday announced the signing of a Memorandum of Understanding (MoU) with Port City Colombo.
+
+This strategic partnership aims to enhance collaboration in promoting Port City Colombo as a prime investment destination for local and international investors.
+
+...
+
+[Data](articles/1b8dd729.json)
+
+[Extended Data](ext_articles/1b8dd729.ext.json)
+
+---
+
+### Tea Exporters congratulates AKD
+
+*2024-09-25 04:50:45* · [`dailyftlk`](https://www.ft.lk/business/Tea-Exporters-congratulates-AKD/34-767112) · `en`
+
+The Tea Exporters Association (TEA), the apex private sector body of tea exporters of Sri Lanka, has extended its best wishes to Anura Kumara Dissanayake on his election as the new President.
+
+The membership of Tea Exporters Association accounts for 80% of the volume and value of the annual tea exports of the country. Tea exports industry brings an annual export income of $ 1.3 billion to the country and is a vital cog in the economic wheel of the country. Approximately 2 million people directly and indirectly depends on the tea industry.
+
+...
+
+[Data](articles/40339323.json)
+
+[Extended Data](ext_articles/40339323.ext.json)
+
+---
+
+### Sajith denies possibility of alliance with defeated President Ranil Wickremesinghe
+
+*2024-09-25 04:49:57* · [`dailyftlk`](https://www.ft.lk/news/Sajith-denies-possibility-of-alliance-with-defeated-President-Ranil-Wickremesinghe/56-767111) · `en`
+
+Premadasa to be SJB’s Prime Ministerial candidate on agreement with all parties in SJS
+
+Says alliance between him and Wickremesinghe could be successful based on “arithmetic,” but deeper political analysis would reveal otherwise
+
+Opposition leader Sajith Premadasa announced his readiness to contest the upcoming General Elections, confirming that he will run as the leader of the Samagi Jana Balavega (SJB) and Samagi Jana Sandhanaya (SJS).
+
+Premadasa emphasised his willingness to join forces with progressive groups who align with the party’s principles and are committed to serving the people.
+
+During a meeting held in Colombo with Members of Parliament, district, and constituency organisers of the SJB and Samagi Jana Sandhanaya, the group unanimously agreed to entrust Premadasa with the responsibility of leading the coalition as their Prime Ministerial candidate in the upcoming elections.
+
+...
+
+[Data](articles/c40a1ad9.json)
+
+[Extended Data](ext_articles/c40a1ad9.ext.json)
+
+---
+
+### Sajith congratulates new Premier Dr.Harini
+
+*2024-09-25 04:48:19* · [`dailyftlk`](https://www.ft.lk/news/Sajith-congratulates-new-Premier-Dr-Harini/56-767110) · `en`
+
+Opposition leader SajithPremadasa yesterday congratulated the newly appointed Prime MinisterDr.HariniAmarasuriya.
+
+“I hope your appointment will inspire women of Sri Lanka to bring their talents, strength and vision to the forefront,” he noted via a post on ‘X’.
+
+◼️
+
+[Data](articles/a4e66ec5.json)
+
+[Extended Data](ext_articles/a4e66ec5.ext.json)
+
+---
+
+### SajithPremadasa named Prime Ministerial candidate for SJS in upcoming election
+
+*2024-09-25 04:47:56* · [`dailyftlk`](https://www.ft.lk/news/SajithPremadasa-named-Prime-Ministerial-candidate-for-SJS-in-upcoming-election/56-767109) · `en`
+
+Opposition leader Sajith Premadasa was officially named yesterday as the Prime Ministerial candidate for the Samagi Jana Sandanata (SJS) in the upcoming General Election.
+
+The decision was unanimously approved during a party meeting, cementing his leadership role within the coalition as it prepares to challenge for Parliamentary control.
+
+Speaking to the media following the meeting, he vehemently denied any collaboration with the former President Ranil Wickremesinghe, clarifying that there is no alliance between them.
+
+As the SJS gears up for the next election, Premadasa took the opportunity to thank his supporters for their unwavering commitment during the recently concluded Presidential election where he was defeated by National People’s Power (NPP) leader Anura Kumara Dissanayake.
+
+“Thank you for believing in me and I promise I will not stop fighting for the future we all deserve,” Premadasa said.
+
+...
+
+[Data](articles/1115ac6a.json)
+
+[Extended Data](ext_articles/1115ac6a.ext.json)
+
+---
+
+### New Ministry Secretaries appointed
+
+*2024-09-25 04:47:30* · [`dailyftlk`](https://www.ft.lk/news/New-Ministry-Secretaries-appointed/56-767108) · `en`
+
+President Anura Kumara Dissanayake yesterday appointed new Secretaries for 15 Ministries, including Prime Minister’s and Cabinet Secretaries.
+
+3. K.D.S. Ruwanchandra – Secretary to the Ministry of Transport, Highways, Ports, and Civil Aviation
+
+4. K.M.M. Siriwardena – Secretary to the Ministry of Finance, Economic Development, Policy Formulation, Planning, and Tourism
+
+5. Aruni Wijewardena – Secretary to the Ministry of Foreign Affairs
+
+6. J.M.T. Jayasundara – Secretary to the Ministry of Education, Science and Technology
+
+7. K. Maheson – Secretary to the Ministry of Women, Children, Youth Affairs, and Sports
+
+8. M.M. Naimuddin – Secretary to the Ministry of Trade, Commerce, Food Security, Cooperative Development, Industry, and Entrepreneurship Development
+
+9. A.M.P.M.B. Atapattu – Secretary to the Ministry of Rural and Urban Development, Housing, and Construction
+
+10. Palitha Gunaratne Mahipala – Secretary to the Ministry of Health
+
+...
+
+[Data](articles/edbf498a.json)
+
+[Extended Data](ext_articles/edbf498a.ext.json)
+
+---
+
+### Korean President congratulates President AKD
+
+*2024-09-25 04:47:07* · [`dailyftlk`](https://www.ft.lk/news/Korean-President-congratulates-President-AKD/56-767107) · `en`
+
+Republic of Korea President Yoon Suk Yeol has extended his congratulations to President Anura Kumara Dissanayake on his inauguration.
+
+Highlighting the friendship between the Republic of Korea and the Democratic Socialist Republic of Sri Lanka since 1977, President Yoon expressed his expectation for a bolstered relationship between the two countries under the new leadership, a statement from the Korean Embassy said yesterday.
+
+◼️
+
+[Data](articles/912dd93d.json)
+
+[Extended Data](ext_articles/912dd93d.ext.json)
+
+---
+
+### New DG at President’s Media
+
+*2024-09-25 04:46:49* · [`dailyftlk`](https://www.ft.lk/news/New-DG-at-President-s-Media/56-767106) · `en`
+
+President Anura Kumara Dissanayake has appointed Dr. Najith Indika as the new Director
+
+Dr. Najith is a past pupil of Ranna Maha Vidyalaya, Hambantota and Royal College, Colombo. He earned his medical degree from the Faculty of Medicine, University of Colombo.
+
+Over the past five years, he has served as a doctor and medical officer in various government hospitals.
+
+In addition to his medical career, Dr. Najith is a student and political activist.
+
+◼️
+
+[Data](articles/242b443d.json)
+
+---
+
+### Ranil to skip General Election, focus on party leadership: Ruwan Wijewardene
+
+*2024-09-25 04:46:24* · [`dailyftlk`](https://www.ft.lk/news/Ranil-to-skip-General-Election-focus-on-party-leadership-Ruwan-Wijewardene/56-767105) · `en`
+
+United National Party (UNP) Deputy Leader Ruwan Wijewardene announced today that President Ranil Wickremesinghe will not be contesting in the upcoming General Election or seeking a seat in Parliament via the national list. The decision, according to Wijewardene, has been made by Wickremesinghe himself, but he will continue to provide crucial leadership to the UNP during the election campaign.
+
+“Ranil Wickremesinghe has made the decision not to contest or enter Parliament through the national list in the forthcoming election,” Wijewardene confirmed, adding that despite this, Wickremesinghe will remain actively involved in guiding the party through this critical period.
+
+...
+
+[Data](articles/77f2be7e.json)
+
+---
+
+### Restraint on economy and full-steam on governance – AKD’s implicit strategy?
+
+*2024-09-25 04:45:20* · [`dailyftlk`](https://www.ft.lk/columns/Restraint-on-economy-and-full-steam-on-governance-AKD-s-implicit-strategy/4-767104) · `en`
+
+What will be the strategy of the new President who soon will be going into a Parliamentary election? My reading is that the implicit strategy of AKD is to practice restraint on economic issues and go full steam on governance. This is evident from the way the campaign progressed with convergence on the economic front between candidates, but with AKD managing to rise above others with his convincing battle cry to restore trust in politicians and politics.
+
+If that indeed is the strategy, it will be a win-win for all concerned.
+
+Notwithstanding the enthusiasm of the 42% who voted for AKD, there is the 58% who did not. AKD won first-past-the-post, but the electoral result is clearly a mandate for consultation and compromise to take the concerns of at least some of the other 58%.
+
+The economy and the political culture were the main issues in the campaign, but the NPP manifesto was short on details on each.
+
+...
+
+[Data](articles/a7e40669.json)
+
+---
+
+### Middle class angst of Karl Marx
+
+*2024-09-25 04:40:37* · [`dailyftlk`](https://www.ft.lk/columns/Middle-class-angst-of-Karl-Marx/4-767103) · `en`
+
+Karl Marx made some prophetic and positive observations about capitalism
+
+The collapse of the Soviet Union, China’s adoption of market driven policy, North Korea’s boorish behaviour and the history of brutal, totalitarian regimes that claimed to be “Marxist” have contributed to the erroneous notion that Karl Marx was an authoritarian thinker.
+
+Some of my granddaughters have asked me who this Karl Marx was. I told them that Karl Marx was an Enlightenment age humanist and a philosopher who perceived the possibility of a utopian post capitalist society in which people could lead rich, fulfilling lives.
+
+I also explained that Karl Marx said some very positive stuff about ‘Capitalism’ and that distinguished economists such as Kenneth Arrow regard his work as a revolutionary historical project.
+
+Hence this brief essay. If its order and reasoning is a little convoluted, I request the indulgence of the reader for some allowance towards the muddled memory of a weary pilgrim.
+
+...
+
+[Data](articles/667e474f.json)
+
+---
+
+### Growth is necessary but not sufficient
+
+*2024-09-25 04:36:29* · [`dailyftlk`](https://www.ft.lk/columns/Growth-is-necessary-but-not-sufficient/4-767102) · `en`
+
+A spark of protest emerged in July 2021. It has grown into an island-wide mass protest (Aragalaya) involving people of all walks of life. They gathered at Galle Face Green and delivered a message: “The country is bankrupt”. The messenger was taken to task.
+
+Central Bank is located within sight of the Galle Face Green. Newly appointed Governor of the Central Bank delivered a message. “Sri Lanka is bankrupt and is unable to settle its mountain of debts”. Messenger, the Governor of Central Bank, has been listed under A- grade in the Central Banker Report Cards 2023.
+
+As my friend Pali says, for us Sri Lankans what matters is not the message but the messenger who delivers it.
+
+...
+
+[Data](articles/ed4951a3.json)
+
+---
+
+### AKD’s challenge: Increasing national productivity in improving standard of living
+
+*2024-09-25 04:28:49* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-challenge-Increasing-national-productivity-in-improving-standard-of-living/4-767101) · `en`
+
+President-elect of Sri Lanka, Anura Kumara Dissanayake signs official documents during his swearing-in ceremony, marking the commencement of his Presidency
+
+Anura Kumara Dissanayake (AKD) has been elected as the ninth Executive President of Sri Lanka. The ‘election’ dust has settled, and it is time for all the competing candidates and their supporters to unite wherever, whenever, and however possible in the best interest of our motherland.
+
+In their campaigns, the candidates spoke little on the important aspect of improving national productivity. Now that he is in power, I hope that AKD will give it his highest priority.
+
+...
+
+[Data](articles/9cd0ccc5.json)
+
+---
+
+### Dawn of a new era with cautious optimism
+
+*2024-09-25 04:21:30* · [`dailyftlk`](https://www.ft.lk/columns/Dawn-of-a-new-era-with-cautious-optimism/4-767100) · `en`
+
+What happened on 21 September 2024 was historic. It was another milestone in the long march towards a new era in the history of this country.
+
+...
+
+[Data](articles/caa8d52d.json)
+
+---
+
+### ஜனாதிபதி ஊடகப் பணிப்பாளர் நாயகமாக வைத்தியர் நஜித் இந்திக்க நியமனம்
+
+*2024-09-25 03:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194736) · `ta`
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் ஜனாதிபதி ஊடகப் பணிப்பாளர் நாயகமாக வைத்தியர் நஜித் இந்திக்க நியமிக்கப்பட்டுள்ளார்.
+
+ஹம்பாந்தோட்டை ரன்ன மத்திய கல்லூரி மற்றும் கொழும்பு ரோயல் கல்லூரியின் பழைய மாணவரான வைத்தியர் நஜித் இந்திக்க, கொழும்பு மருத்துவ பீடத்தில் தனது மருத்துவ பட்டப்படிப்பை நிறைவு செய்தார்.
+
+கடந்த 05 வருடங்களில் பல அரச வைத்தியசாலைகளில் வைத்தியராகவும் வைத்திய அதிகாரியாகவும் இவர் கடமையாற்றியுள்ளார்.
+
+வைத்தியர் நஜித் இந்திக்க பல்கலைக்கழக மாணவர் செயற்பாட்டாளர் மற்றும்  அரசியல் செயற்பாட்டாளர் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5075c08b.json)
+
+---
+
+### மட்டு. களுதாவளையில் வீடொன்றிலிருந்து குடும்பப் பெண் ஒருவர் சடலமாக மீட்பு!
+
+*2024-09-25 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194735) · `ta`
+
+மட்டக்களப்பு மாவட்டம் களுவாஞ்சிகுடிப் பொலிஸ் பிரிவுக்குட்பட்ட களுதாவளை 4 ஆம் பிரிவு பாலர் பாடசாலை வீதியிலுள்ள வீடொன்றிலிருந்து குடும்பப் பெண் ஒருவர் சடலமாக செவ்வாய்க்கிழமை (24) மாலை மீட்கப்பட்டுள்ளதாக களுவாஞ்சிகுடி பொலிசார் தெரிவித்தனர்.
+
+குறித்த வீட்டில் கணவன் மனைவி ஆகிய இருவரும் வசித்து வந்துள்ளனர். எனினும் கணவன் மனைவி இருவருக்கும் இடையிடையே தகராறுகள் இடம்பெற்று வருவதாக அயலவர்கள் தெரிவித்தனர்.
+
+குறித்த குடும்பப் பெண் தனியார் ஆடைத் தொழிற்சாலை ஒன்றில் பணிபுரிந்து வருகின்றார். சம்பவதினமான செவ்வாய்க்கிழமை தனது மகள் வேலைக்குச் சென்றுள்ளார் என நினைத்துக் கொண்டு அவரது தாயார் உயிரிழந்த மகளின் தொலைபேசிக்கு பலதடவை  அழைப்பெடுத்துள்ளார். எனினும் அவரது தொலைபேசி இயங்கவில்லை. உயிரிழந்த பெண்ணின் சகோதரன் தனது அக்காவின் வீட்டிற்குச் சென்று பார்த்தபோது அவரது வீடு பூட்டப்பட்டிருந்தது. ஆனாலும் அக்காவின் செருப்பு வீட்டின் முன்னால் கிடந்துள்ளன.
+
+...
+
+[Data](articles/743329f8.json)
+
+---
+
+### ராஜபக்ஷ ஆட்சியின் அட்டூழியங்களுக்கான பொறுப்புக்கூறலை அரசாங்கம் புதிய கோணத்தில் அணுகும் - மகள் அஹிம்சா
+
+*2024-09-25 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/194734) · `ta`
+
+ஜனாதிபதித்தேர்தல் முடிவு எமக்கு மீண்டும் புதுப்பிக்கப்பட்ட நம்பிக்கையை அளித்திருக்கிறது. எனது தந்தையின் படுகொலை உள்ளடங்கலாக இலங்கையின் சமகால மனித உரிமைகள் வரலாற்றில் பதிவான மீறல்களை புதிய அரசாங்கம் மாறுபட்ட புதியதொரு கோணத்தில் அணுகும் என நம்புகின்றோம் என படுகொலை செய்யப்பட்ட ஊடகவியலாளர் லசந்த விக்ரமதுங்கவின் மகள் அஹிம்சா விக்ரமதுங்க தெரிவித்துள்ளார்.
+
+நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் முடிவுகள் வெளியானதன் பின்னர் திங்கட்கிழமை (23) தனது உத்தியோகபூர்வ 'எக்ஸ்' தளப்பக்கத்தில் பதிவொன்றைச் செய்திருக்கும் அஹிம்சா விக்ரமதுங்க, அதில் மேலும் கூறியிருப்பதாவது:
+
+உண்மையைச் சொன்னதற்காக நியாயமற்ற வகையில் எனது தந்தையின் உயிர் பறிக்கப்பட்டது. அதற்கு நீதிகோரி இன்று நாம் நம்பிக்கையுடனும் இடைவிடாத அர்ப்பணிப்புடனும் காத்திருக்கின்றோம். 15 வருடங்கள் கடந்த பின்னரும் அதனால் ஏற்பட்ட வலி இன்னமும் தொடர்கிறது. ஆனால் உண்மை மற்றும் பொறுப்புக்கூறலை அடைந்துகொள்வதற்கான எனது போராட்டத்தில் நான் திடமாக இருக்கிறேன்.
+
+...
+
+[Data](articles/b0bad07f.json)
+
+---
 
 ### Teacher arrested for sexually abusing student in Vavuniya
 
@@ -2081,379 +2389,5 @@ The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has increas
 [Data](articles/57576c32.json)
 
 [Extended Data](ext_articles/57576c32.ext.json)
-
----
-
-### Sajith says he is PM candidate, no collaboration with Ranil
-
-*2024-09-24 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102240/sajith-says-he-is-pm-candidate-no-collaboration-with-ranil) · `en`
-
-Opposition Leader Sajith Premadasa says that he was unanimously chosen as the Prime Ministerial candidate of the ‘Samagi Jana Sandhanaya’ for the upcoming General Election.
-
-Furthermore, he stated that there would be no collaboration between former President Ranil Wickremesinghe and him.
-
-Earlier today, the United National Party (UNP) announced that former President Ranil Wickremesinghe will not contest the upcoming General Election.
-
-UNP Deputy Leader, Ruwan Wijewardena also stated that Wickremesinghe does not expect to enter Parliament through the National List and that instead, he has invited the Samagi Jana Sandhanaya to contest collectively.
-
-However, Premadasa has now said that there will be no collaboration between Wickremesinghe and himself.
-
-Responding to a question from reporters regarding claims that he could have won the election if he had contested together with UNP leader Ranil Wickremesinghe, Premadasa said:
-
-...
-
-[Data](articles/4a8d3700.json)
-
-[Extended Data](ext_articles/4a8d3700.ext.json)
-
----
-
-### Harini took office as the new prime minister
-
-*2024-09-24 15:09:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதமராக-ஹரிணி-பதவியேற்றார்/175-344381) · `ta`
-
-Dr. Harini Amarasuriya becomes Sri Lanka's 3rd female PM, 16th overall. She was sworn in alongside roles including Education, Industry, Health, and Investment ministries.
-
-🟩
-
-Dr. Harini Amarasuriya, Member of Parliament of the National People's Power (NPP), was sworn in as the Prime Minister of Sri Lanka on Tuesday (24) in the presence of President Anura Kumara Dissanayake.
-
-Subsequently, Prime Minister Harini Amarasuriya was sworn in as the Minister of Education, Industry, Industry Science and Technology, Health and Investment in the presence of President Anura Kumara Dissanayake a few minutes ago.
-
-In the history of Sri Lanka, Dr. Harini Amarasuriya joins the third female prime minister. He is the 16th Prime Minister of Sri Lanka.
-
-◼️
-
-[Data](articles/647a393d.json)
-
-[Extended Data](ext_articles/647a393d.ext.json)
-
----
-
-### Harvion sworn in as new Prime Minister
-
-*2024-09-24 15:03:31* · [`adalk`](https://www.ada.lk/breaking_news/නව-අගමැති-ලෙස-හරිණි-දිවුරුම්දෙයි/11-412114) · `si`
-
-Dr. Harunnev Amarasuriya sworn in as new Prime Minister before President Anura Kumara Dissanayake.
-
-🟩
-
-Dr. Harunnev Amarasuriya has been sworn in before President Anura Kumara Dissanayake as the Prime Minister of the New Government.
-
-◼️
-
-[Data](articles/ab763cc7.json)
-
-[Extended Data](ext_articles/ab763cc7.ext.json)
-
----
-
-### Harini Amarasuriya sworn-in as Prime Minister
-
-*2024-09-24 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102239/-harini-amarasuriya-sworn-in-as-prime-minister) · `en`
-
-National People’s Power (NPP) MP Dr. Harini Amarasuriya has been sworn-in as the new Prime Minister of Sri Lanka, a short while ago.
-
-She was sworn-in before President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo.
-
-Accordingly, she is the third female Prime Minister in the history of Sri Lanka.
-
-◼️
-
-[Data](articles/19fadccf.json)
-
-[Extended Data](ext_articles/19fadccf.ext.json)
-
----
-
-### Harini Amarasuriya appointed Sri Lanka prime minister
-
-*2024-09-24 14:55:00* · [`economynextcom`](https://economynext.com/harini-amarasuriya-appointed-sri-lanka-prime-minister-180801/) · `en`
-
-ECONOMYNEXT — National People’s Power (NPP) MP Harini Amarasuriya has been sworn in as Sri Lanka’s prime minister.
-
-Amarasuriya was sworn in before President Anura Kumara Dissanayake at the presidential secretariat Tuesday September 24 afternoon, a day after Dissanayake himself was sworn as president, visuals broadcast on Swarnavahini showed.
-
-NPP parliamentarians Vijith Herath and Lakshman Nipunaarachchi were also sworn in as cabinet ministers, according to media reports, while President Dissanayake will hold the defence ministry and other portfolios. (Colombo/Sep24/2024)
-
-◼️
-
-[Data](articles/1a972200.json)
-
-[Extended Data](ext_articles/1a972200.ext.json)
-
----
-
-### New Prime Minister sworn in
-
-*2024-09-24 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201499) · `si`
-
-Dr. Harini Amarasuriya sworn in as Prime Minister by President Anura Kumara Dissanayake.
-
-🟩
-
-Dr. Harini Amarasuriya has been sworn in before President Anura Kumara Dissanayake as the Prime Minister of the New Government.
-
-◼️
-
-[Data](articles/f6f0fa41.json)
-
-[Extended Data](ext_articles/f6f0fa41.ext.json)
-
----
-
-### Sri Lanka Tourism says arrivals to grow after polls, industry wants ETA re-started
-
-*2024-09-24 14:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourism-says-arrivals-to-grow-after-polls-industry-wants-eta-re-started-180798/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tourist arrivals are expected to grow after the most peaceful elections in the nation’s history, the island’s tourism promotions office said.
-
-Sri Lanka’s elected President Anura Kumara Dissanayake has prioritized the sector, pledging to unlock its full potential, the statement said.
-
-Visa-free travel for citizens of 39 countries will begin in October, and the tourism industry is optimistic about the reinstatement of the streamlined Electronic Travel Authorization (ETA) system pending a court decision, the agency said.
-
-Sri Lanka’s electronic travel authorization system, acclaimed as one of the least hassle free in the world, was hit by a controversy after a consortium involving VFS Global was awarded a processing monopoly without public tender.
-
-Courts ordered the old process to be re-instated, but the Department of Immigration has so far not taken action to re-start the system.
-
-...
-
-[Data](articles/ed9be65e.json)
-
-[Extended Data](ext_articles/ed9be65e.ext.json)
-
----
-
-### Sri Lanka former president won’t contest elections, his party stalwarts say
-
-*2024-09-24 14:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-president-wont-contest-elections-his-party-stalwarts-say-180792/) · `en`
-
-ECONOMYNEXT — United National Party (UNP) seniors backing former President Ranil Wickremesinghe said he will not contest Sri Lanka’s next parliamentary election as per UNP convention.
-
-MP and UNP deputy leader Ruwan Wijewardene, Samagi Jana Balawegaya (SJB) MPs Thalatha Atukorala and Rajitha Senaratne, former UNP MP Akila Viraj Kariyawasam and former Tourism Minister Harin Fernando speaking to reporters at the political office of Wickremesinghe in Colombo said that former president J R Jayawardena had set a precedent of not contesting elections following the end of his term.
-
-Wickremesinghe himself has said that he does not intend to contest elections again, said Fernando.
-
-Wijewardene said the UNP has invited senior members of the SJB for discussions on a possible alliance targeting the next parliamentary election which will likely be held in December 2024 following a widely anticipated dissolution of parliament by newly sworn-in President Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/1b3ea8db.json)
-
-[Extended Data](ext_articles/1b3ea8db.ext.json)
-
----
-
-### Sajith will not join Ranil
-
-*2024-09-24 14:46:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-சஜித்-இணையமாட்டார்/175-344379) · `ta`
-
-Samagi Balawaya party rejects UNP alliance, fields Sajith as PM candidate for general election.
-
-🟩
-
-A spokesman for the party has said that senior leaders of the Samagi Balavaya party have decided not to join the United National Party in the general election and to field its leader Sajith Premadasa as the prime ministerial candidate in the general election.
-
-◼️
-
-[Data](articles/b1d40fd1.json)
-
-[Extended Data](ext_articles/b1d40fd1.ext.json)
-
----
-
-### Elderly Woman Hurry: Prison for Crime
-
-*2024-09-24 14:43:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயோதிப-பெண்-வன்புணர்வு-குற்றவாளிக்கு-சிறை/175-344378) · `ta`
-
-A 69-year-old woman faces 7+15 years in prison for rape. She's also fined and must compensate the victim. The case highlights unusual sentencing for elderly offenders.
-
-🟩
-
-High Court Judge Kavindaya Nanayakkara has imposed a seven and 15 years rigorous imprisonment under each charges after a 69 -year -old grandmother was convicted of being accused of raping a man.
-
-The judge has ordered that the imprisonment be sentenced to 15 years under two charges.
-
-In addition to the imprisonment, he has been fined 20,000 rupees and ordered to pay Rs 500,000 as compensation to the victim.
-
-Failure to pay a fine of six months in prison is to be sent to pay a further one year in prison.
-
-Heinathila Pedige Roshan Madusaka, known as Hichi Kollam, from Galle Telikkadai, has been sentenced to jail.
-
-On the night of January 18, 2013, he was asking for a sermon on the radio and forcibly entered the house and raped.
-
-The verdict has been issued following the establishment of the state government beyond reasonable doubts against the suspect.
-
-◼️
-
-[Data](articles/7288ea89.json)
-
-[Extended Data](ext_articles/7288ea89.ext.json)
-
----
-
-### Roshan Gunathilake resigns as Western Province Governor
-
-*2024-09-24 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102238/roshan-gunathilake-resigns-as-western-province-governor) · `en`
-
-The Governor of the Western Province, Marshal of the Air Force Roshan Gunathilake, has resigned from his position.
-
-In a letter addressed to newly elected President Anura Kumara Dissanayake, he has officially informed of his decision to step down from the position.
-
-In the letter, he further stated that he had worked with utmost dedication for the development of the Western Province, public service in the province, and for the benefit of its people, in accordance with the powers vested in him as Governor, since his appointment to the position on March 25, 2020.
-
-He also mentioned that he was fortunate to have led the public service of the Western Province in efforts to enhance the safety and health of the people during the Covid-19 pandemic in 2020 and 2021, as well as during other crises in recent years.
-
-◼️
-
-[Data](articles/1102b2d0.json)
-
-[Extended Data](ext_articles/1102b2d0.ext.json)
-
----
-
-### Sri Lanka PA is not going to recruit anyone who is accused of corruption
-
-*2024-09-24 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194692) · `ta`
-
-Sri Lanka PA rejects corrupt candidates, discusses former members' return. Party meeting focuses on recruitment standards and reconciliation efforts.
-
-🟩
-
-In this context, a detailed discussion on how to approach the PA is being held in Nelum Mawatha on Tuesday (24).
-
-It has been discussed whether those who resigned from the party during the presidential election will rejoin the Sri Lankan PA.
-
-The party has also decided not to recruit anyone who has been accused of corruption.The spokesman for the Sri Lanka PA has been requested to re -join many of those who resigned from the party.
-
-◼️
-
-[Data](articles/7e998869.json)
-
-[Extended Data](ext_articles/7e998869.ext.json)
-
----
-
-### General Candidate
-
-*2024-09-24 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194686) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil politician PA Ariyanethran contests presidential election under TNA banner. Leader P.Ingaranesan highlights candidate's efforts to unite Tamil people and rebuild national sentiment. Despite spending by southern parties, candidate garners significant Tamil votes, strengthening Tamil nationalism.
-
-🟩
-
-The Tamil people who gathered in the nation until the end of the war, and then have been scattered into castes, religions, territories and parties.
-
-Some Tamil politicians have joined hands with the South Sri Lanka politicians.
-
-"In this case, PA Ariyanethran, who contested the Tamil National Alliance on behalf of the Tamil National Alliance (TNA) in the presidential election, has played a role in the reconstruction of the Tamil national sentimental base."The leader of the Tamil National Green Movement P.Ingaranesan pointed out.
-
-In a media statement issued by P.Ingaranesan on the Tamil general candidate who contested the presidential election.
-
-“The consciousness of the nation is not essential to the contributions of the language, the homeland and the culture that the race speaks of a nation as a nation.
-
-The consciousness of the nation of the post -war Tamil politics has been blurred by the majority of the worlds and their stages that have infiltrated the Tamil context.
-
-...
-
-[Data](articles/e3d2b807.json)
-
-[Extended Data](ext_articles/e3d2b807.ext.json)
-
----
-
-### Derailment disrupts train services on up-country line
-
-*2024-09-24 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102237/derailment-disrupts-train-services-on-up-country-line) · `en`
-
-An observation compartment of a passenger and freight train travelling from Badulla to Kandy has derailed.
-
-Train services along the up-country railway line have been disrupted owing to the derailment of the observation compartment of the ‘1596’ passenger and freight train plying from Badulla to Kandy, the Badulla railway control room said.
-
-The derailment had reportedly occurred at around 12.30 p.m. this afternoon (24).
-
-The train’s observation compartment had derailed between the Ella and Demodara railway stations.
-
-The Railway Control Room further said that the railway track has been severely damaged due to the train derailment while the work related to restoring the derailed train is currently being carried out.
-
-◼️
-
-[Data](articles/ff1f9d3b.json)
-
-[Extended Data](ext_articles/ff1f9d3b.ext.json)
-
----
-
-### Sri Lanka ex-President Ranil not to contest amid unification moves with SJB
-
-*2024-09-24 14:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-president-ranil-not-to-contest-amid-unification-moves-with-sjb-180793/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s ex-President Ranil Wickremesinghe will not contest the upcoming general elections, a senior party official said amid attempts to form a coalition with the Samagi Jana Balawegaya.
-
-Wickremesinghe will also not take a national list seat, Ruwan Wijewardene of the United National Party told reporters Tuesday.
-
-However he will still have a role and be ready to help the country, he said.
-
-In the Presidential elections, Wickremesinghe came third, but with the SJB, the two groups won slightly over 50 percent of the vote.
-
-Political sources said there were attempts to bring the two groups together with Wickremesinghe playing the role of ‘mentor’.
-
-The SJB broke away with many members unhappy over the favoritism and the way the UNP working committee was packed.
-
-...
-
-[Data](articles/9c98c8b7.json)
-
-[Extended Data](ext_articles/9c98c8b7.ext.json)
-
----
-
-### Arrested with heroin in Beruwala
-
-*2024-09-24 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194684) · `ta`
-
-Heroin arrest in Beruwala: 49-year-old man caught with 303g of 500mg heroin pills. Arrest made after tip to local police station.
-
-🟩
-
-A suspect has been arrested on Monday (23) in Magalkanda area of ​​the Kalutara and Beruwala police division, police said.
-
-The suspect has been arrested during a roundup on the basis of information received by the Beruwala police station.
-
-The arrested suspect is 49 -year -old from Minuwangoda.
-
-303 grams of 500 milligrams of heroin has been seized from the arrested suspect.
-
-◼️
-
-[Data](articles/5afd481b.json)
-
-[Extended Data](ext_articles/5afd481b.ext.json)
-
----
-
-### Upcountry train interrupts
-
-*2024-09-24 14:06:14* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-412113) · `si`
-
-Train from Badulla to Nawalapitiya derailed due to cargo transport issue. Railway control room taking steps to repair tracks and restore service.
-
-🟩
-
-The Nawalapitiya Railway Control Room stated that a train traveling from Badulla to the Badulla's afternoon today (24) was interrupted by the railway line today (24).
-
-The Railway Control Room says that a cargo transport has been derailed and taken steps to conduct tracks and derail.
-
-The Railway Control Room added that the delegation trains will be derailed to be derailed and implementing the railway radio train.
-
-◼️
-
-[Data](articles/1675aeae.json)
-
-[Extended Data](ext_articles/1675aeae.ext.json)
 
 ---

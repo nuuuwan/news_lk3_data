@@ -1,36 +1,110 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 15:57:40**
+As of **2024-09-24 16:23:05**
 
 ## Newspaper Stats
 
-*Scraped **46,008** Articles*
+*Scraped **46,018** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 384
-bbccomsinhala | 451
+bbccomsinhala | 452
 colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,229
+adalk | 4,232
 dailymirrorlk | 4,733
-adaderanalk | 5,418
-tamilmirrorlk | 6,142
+adaderanalk | 5,419
+tamilmirrorlk | 6,146
 virakesarilk | 7,346
-adaderanasinhalalk | 7,954
+adaderanasinhalalk | 7,955
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,008 (100.0%) of 46,008 articles have been extended.
+46,018 (100.0%) of 46,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### I am the Prime Minister's candidate - Sajith
+
+*2024-09-24 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201500) · `si`
+
+Sajith Premadasa denies winning election prediction, emphasizes UPFA alliance and unity among electoral organizers.
+
+🟩
+
+Sajith Premadasa responded today regarding the statements that Sajith Premadasa said that Sajith Premadasa could win the election this year.
+
+"If only mathematics weigh, you can go. But it is clear if you go to a deep political analysis.. That's not reality. "
+
+"We move forward as the UPFA alliance. The people can accompany the people. "
+
+"Today, all the electoral organizers of the reconciliation today have unanimously handle the election campaign as the Prime Minister as a prime minister ...
+
+◼️
+
+[Data](articles/afd5f61a.json)
+
+[Extended Data](ext_articles/afd5f61a.ext.json)
+
+---
+
+### Sri Lankans in Israel cautioned as attacks intensifies
+
+*2024-09-24 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102242/sri-lankans-in-israel-cautioned-as-attacks-intensifies) · `en`
+
+Sri Lanka’s Ambassador to Israel has requested Sri Lankan nationals residing in Israel to exercise caution due to recent shelling and rocket attacks from Lebanon-based militant group Hezbollah targeting Israel.
+
+Hezbollah has fired a fresh barrage of strikes into northern Israel, including Haifa, Galilee, Golan, and Nazareth areas, a day after Israeli airstrikes targeting the militant group in Lebanon killed nearly 500 people and wounded 1,600 others.
+
+However, debris from the interceptions of these shelling and missile attacks by Israel’s iron dorm system have caused fires in the dry forest areas.
+
+Under these circumstances, the Sri Lankan Ambassador to Israel, Nimal Bandara has advised the Sri Lankans residing in Israel to remain vigilant with regard to these attacks that are being carried out from time to time.
+
+He urged that Sri Lankans employed in northern zones of Israel to move to the nearest safety shelters for their protection whenever the alarms signaling such attacks are activated.
+
+◼️
+
+[Data](articles/2ccfde19.json)
+
+[Extended Data](ext_articles/2ccfde19.ext.json)
+
+---
+
+### Parents who cooperated with the daughter
+
+*2024-09-24 15:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளை-வன்புணர-ஒத்துழைத்த-பெற்றோர்/175-344383) · `ta`
+
+Parents accused of aiding daughter's rape. Officer & wife charged after 15-year-old daughter impregnated. Police investigation underway.
+
+🟩
+
+A police officer and his wife have been brought to the court's notice that they helped her rape their 15 -year -old daughter.
+
+The man who raped the girl was arrested by the police and produced before the Kapithikollawa District Judge and Magistrate Kasun Kanjana Dasanayake and kept in detention till September 26.
+
+Police told the court that the suspect had allowed her to rape the girl, she hid her pregnancy and went to school when she was six months pregnant.
+
+Police said that the police have begun investigations on information received by the residents of the Women's and Children's Bureau of the Wahalkata Police Division.
+
+The Sergeant Dissanayake of the Wahalkada Police Division, who produced the suspect, said that the police have begun investigations to arrest the father of the girl and her mother for the crime that helped and hid the crime.
+
+The JMO, who examined the girl, confirmed that the girl was six months pregnant.
+
+◼️
+
+[Data](articles/b9358746.json)
+
+[Extended Data](ext_articles/b9358746.ext.json)
+
+---
 
 ### CSE’s ASPI gains for second consecutive day
 
@@ -52,13 +126,59 @@ The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has increas
 
 Opposition Leader Sajith Premadasa says that he was unanimously chosen as the Prime Ministerial candidate of the ‘Samagi Jana Sandhanaya’ for the upcoming General Election.
 
-Furthermore, he stated that there will be no collaboration between former President Ranil Wickremesinghe and him.
+Furthermore, he stated that there would be no collaboration between former President Ranil Wickremesinghe and him.
+
+Earlier today, the United National Party (UNP) announced that former President Ranil Wickremesinghe will not contest the upcoming General Election.
+
+UNP Deputy Leader, Ruwan Wijewardena also stated that Wickremesinghe does not expect to enter Parliament through the National List and that instead, he has invited the Samagi Jana Sandhanaya to contest collectively.
+
+However, Premadasa has now said that there will be no collaboration between Wickremesinghe and himself.
 
 ◼️
 
 [Data](articles/4a8d3700.json)
 
 [Extended Data](ext_articles/4a8d3700.ext.json)
+
+---
+
+### Harini took office as the new prime minister
+
+*2024-09-24 15:09:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதமராக-ஹரிணி-பதவியேற்றார்/175-344381) · `ta`
+
+Dr. Harini Amarasuriya becomes Sri Lanka's 3rd female PM, 16th overall. She was sworn in alongside roles including Education, Industry, Health, and Investment ministries.
+
+🟩
+
+Dr. Harini Amarasuriya, Member of Parliament of the National People's Power (NPP), was sworn in as the Prime Minister of Sri Lanka on Tuesday (24) in the presence of President Anura Kumara Dissanayake.
+
+Subsequently, Prime Minister Harini Amarasuriya was sworn in as the Minister of Education, Industry, Industry Science and Technology, Health and Investment in the presence of President Anura Kumara Dissanayake a few minutes ago.
+
+In the history of Sri Lanka, Dr. Harini Amarasuriya joins the third female prime minister. He is the 16th Prime Minister of Sri Lanka.
+
+◼️
+
+[Data](articles/647a393d.json)
+
+[Extended Data](ext_articles/647a393d.ext.json)
+
+---
+
+### Harvion sworn in as new Prime Minister
+
+*2024-09-24 15:03:31* · [`adalk`](https://www.ada.lk/breaking_news/නව-අගමැති-ලෙස-හරිණි-දිවුරුම්දෙයි/11-412114) · `si`
+
+Dr. Harunnev Amarasuriya sworn in as new Prime Minister before President Anura Kumara Dissanayake.
+
+🟩
+
+Dr. Harunnev Amarasuriya has been sworn in before President Anura Kumara Dissanayake as the Prime Minister of the New Government.
+
+◼️
+
+[Data](articles/ab763cc7.json)
+
+[Extended Data](ext_articles/ab763cc7.ext.json)
 
 ---
 
@@ -95,6 +215,54 @@ Dr. Harini Amarasuriya has been sworn in before President Anura Kumara Dissanaya
 [Data](articles/f6f0fa41.json)
 
 [Extended Data](ext_articles/f6f0fa41.ext.json)
+
+---
+
+### Sajith will not join Ranil
+
+*2024-09-24 14:46:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலுடன்-சஜித்-இணையமாட்டார்/175-344379) · `ta`
+
+Samagi Balawaya party rejects UNP alliance, fields Sajith as PM candidate for general election.
+
+🟩
+
+A spokesman for the party has said that senior leaders of the Samagi Balavaya party have decided not to join the United National Party in the general election and to field its leader Sajith Premadasa as the prime ministerial candidate in the general election.
+
+◼️
+
+[Data](articles/b1d40fd1.json)
+
+[Extended Data](ext_articles/b1d40fd1.ext.json)
+
+---
+
+### Elderly Woman Hurry: Prison for Crime
+
+*2024-09-24 14:43:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயோதிப-பெண்-வன்புணர்வு-குற்றவாளிக்கு-சிறை/175-344378) · `ta`
+
+A 69-year-old woman faces 7+15 years in prison for rape. She's also fined and must compensate the victim. The case highlights unusual sentencing for elderly offenders.
+
+🟩
+
+High Court Judge Kavindaya Nanayakkara has imposed a seven and 15 years rigorous imprisonment under each charges after a 69 -year -old grandmother was convicted of being accused of raping a man.
+
+The judge has ordered that the imprisonment be sentenced to 15 years under two charges.
+
+In addition to the imprisonment, he has been fined 20,000 rupees and ordered to pay Rs 500,000 as compensation to the victim.
+
+Failure to pay a fine of six months in prison is to be sent to pay a further one year in prison.
+
+Heinathila Pedige Roshan Madusaka, known as Hichi Kollam, from Galle Telikkadai, has been sentenced to jail.
+
+On the night of January 18, 2013, he was asking for a sermon on the radio and forcibly entered the house and raped.
+
+The verdict has been issued following the establishment of the state government beyond reasonable doubts against the suspect.
+
+◼️
+
+[Data](articles/7288ea89.json)
+
+[Extended Data](ext_articles/7288ea89.ext.json)
 
 ---
 
@@ -181,6 +349,26 @@ I am not a wizard. There are things I know and I don't know. My primary priority
 [Data](articles/688f34ea.json)
 
 [Extended Data](ext_articles/688f34ea.ext.json)
+
+---
+
+### Ranil is not coming back to a general election, not even a national list
+
+*2024-09-24 13:45:38* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-නැවත-මහ-මැතිවරණයකට-එන්නේ-නෑ--ජාතික-ලැයිස්තුවකින්වත්-එන්නේ-නෑ/11-412112) · `si`
+
+Ranil Wickremesinghe won't contest general election or national list. UNP Deputy Leader Ruwan Wijewardene also absent from parliament. Wijewardene leads UNP despite not running. Campaign office speech in Colombo.
+
+🟩
+
+UNP Deputy Leader Ruwan Wijewardene is not returning to the parliament again.
+
+Speaking at the election campaign office located in Colombo, Colombo. Although he has not contested the election, he will lead the UNP and the political forces.
+
+◼️
+
+[Data](articles/02c41ff2.json)
+
+[Extended Data](ext_articles/02c41ff2.ext.json)
 
 ---
 
@@ -305,6 +493,36 @@ He noted that the increase in production and the decline in demand was the cause
 [Data](articles/f193fc56.json)
 
 [Extended Data](ext_articles/f193fc56.ext.json)
+
+---
+
+### Army soldier and woman killed in two accidents
+
+*2024-09-24 13:13:57* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරු-දෙකකින්-යුද-හමුදා-සෙබළෙකු-හා-කාන්තාවක්-ජීවිතක්ෂයට/11-412110) · `si`
+
+Two accidents: soldier (29) killed in motorcycle crash near Dambulla; woman (30s) dies after being hit by tractor in Thiction. Investigations ongoing.
+
+🟩
+
+A soldier and a woman had died in two road accidents in the campaign of Thiction and Kekirawa Police said.
+
+The accident had occurred when the motorcycle was seen by a motorcycle, which was impossible to control the motorcycle due to the motorcycle, to go to the Dambulla cricket.
+
+The victim was a 29 year old Army Society, a 29 year old resident of the Medawachchiya, Medawachchiya.
+
+The accident had occurred in the Jaffna Nine 90km, between the motorcyclist in the accident in Kandy, and the motorcyclist in the accident is receiving treatment at the Kandy General Hospital.
+
+The accident had occurred on the 19th and the soldier was injured in the accident and was killed while he was admitted to Dambulla Hospital.
+
+The woman killed in a tractor motorcycle while a woman motorcycle hit by a tractor in the Thiction Police Division.
+
+The deceased is a woman named Kiarya Indravathi, a resident of the Maradakadawala address.
+
+...
+
+[Data](articles/e08ad3f6.json)
+
+[Extended Data](ext_articles/e08ad3f6.ext.json)
 
 ---
 
@@ -1203,6 +1421,32 @@ The Presidential Secretariat has issued a gazette notification for the details o
 [Data](articles/1d08ab70.json)
 
 [Extended Data](ext_articles/1d08ab70.ext.json)
+
+---
+
+### Dr. Harini Amarasuriya: Prime Minister appointed Sri Lanka after 2 years
+
+*2024-09-24 09:56:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2dp41z26xgo) · `si`
+
+Dr. Harini Amarasuriya: Prime Minister appointed Sri Lanka after 2 years
+
+Anura Kumara Dissanayake was appointed as the president on September 21, 2024, changing the political history of Sri Lanka, and the Prime Minister resigned from his post.
+
+Accordingly, MP Harinini Amarasuriya was sworn in as Prime Minister this afternoon.
+
+Who is Dr. Harini Amarasuriya, who was appointed as the Prime Minister without a political family backsuriya after his inheritance in her own inheritance?
+
+Dr. Haraini Amarasuriya of Dr. Harini Amarasuriya was born on March 6, 1970. She has two siblings.
+
+Those who have studied the basic education from Bishop's College Colombo have gone abroad for higher education.
+
+She has been graduated by a Bachelor of Arts in Sociology as a Bachelor's Degree from University of Sri Lanka, and a Masters Degree in Applied Human Science and Development Studies from the University of Sydney, Australia.
+
+...
+
+[Data](articles/f7c1ba1b.json)
+
+[Extended Data](ext_articles/f7c1ba1b.ext.json)
 
 ---
 
@@ -2127,227 +2371,5 @@ According to the situation, there is much more likely to issue gazette notificat
 [Data](articles/a54e1344.json)
 
 [Extended Data](ext_articles/a54e1344.ext.json)
-
----
-
-### UNP to be joined by the UNP
-
-*2024-09-24 07:20:43* · [`adalk`](https://www.ada.lk/breaking_news/එජාපය-සජබය-හා-එක්වෙන්න-යයි/11-412096) · `si`
-
-United National Party decides to unite opposition parties for future elections. Former President Ranil Wickremesinghe proposes inviting all political parties to join forces.
-
-🟩
-
-The United National Party has decided to establish all political parties representing the opposition to face the future elections and political situation.
-
-The UNP decided at the meeting of the Leadership Council at the United National Party (UNP) yesterday (23) at the political office of former President Ranil Wickremesinghe's political office on Flowing President Ranil Wickremesinghe.
-
-Former President Ranil Wickremesinghe has presented the proposal.
-
-Accordingly, the former President has instructed to invite all parties including the party, including all the political parties representing all the political parties representing all the political parties representing the opposition and political parties.
-
-◼️
-
-[Data](articles/62f7a624.json)
-
-[Extended Data](ext_articles/62f7a624.ext.json)
-
----
-
-### Israeli attacks losses 492 lives
-
-*2024-09-24 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201483) · `si`
-
-Israel-Lebanon conflict: 492 deaths reported, 1,645 injuries. Foreign sources claim over 200 rockets fired. Children and women among casualties.
-
-🟩
-
-The Health Ministry said that 492 people were killed due to Israeli attacks.
-
-Foreign reports say that 1,645 persons were injured in these attacks on the organization of Hezbollawa in Lebanon.
-
-The Ministry of Health of Lebanese points out that the deadly day of these conflicts was yesterday (23).
-
-According to foreign reports, more rocketers launched over 200 rockets in the unclear army.
-
-Meanwhile, 35 children and 58 women have 35 women among the dead.
-
-◼️
-
-[Data](articles/4956237e.json)
-
-[Extended Data](ext_articles/4956237e.ext.json)
-
----
-
-### The Parliament dissolved in two days
-
-*2024-09-24 07:00:18* · [`adalk`](https://www.ada.lk/breaking_news/දින-දෙකකින්-පාර්ලිමේන්තුව-විසුරුවා-හරිනවා/11-412095) · `si`
-
-Parliament dissolved in 2 days. President calls for change in laws, economy, culture. Promises to address monk welfare, village infrastructure. Seeks support from industrialists, workers, legal system. Aims to fulfill public expectations for national transformation.
-
-🟩
-
-President Anura Kumara Dissanayake expressed tips in Kandy that Parliament was dissolved in two days.
-
-After answering the dissolution of parliament, the President said that he should not be able to tolerate the bag that could be considered for the dissolution of the Malwatte Asgiriya.
-
-The people of our country have expressed their popularity that the country should be initiated. The law of the country needs a change in the country's law, the economic journey of the country, and culture.
-
-We showed that we have shown that we are ready to control the country according to the fact that the new mandate is ready to control the country.
-
-There is a large innocent hope in this country. We showed us that we are ready to fulfill those expectations.
-
-They have been looking forward to the prospect of the monks and to improve the infrastructure of the poor, especially the infrastructure of the villages.
-
-...
-
-[Data](articles/28748d48.json)
-
-[Extended Data](ext_articles/28748d48.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-09-24 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201481) · `si`
-
-Showers forecasted in Western, Sabaragamuwa, Kandy, Nuwara Eliya, Galle, Matara, and North Western provinces. Thunderstorms possible in Uva and Eastern provinces. Strong winds (40-45 km/h) expected. Public advised to take precautions against lightning and wind-related accidents.
-
-🟩
-
-Several spells of showers in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya, Galle and Matara districts. Showers may occur in the North Western Province.
-
-The Department of Meteorological Department announced that showers or thundershowers during the evening or night in the Uva and Eastern provinces could have occur.
-
-At times, the North, North-Central, North-Central, North Western and Southern provinces will be held in the North, North-Central, Northwestern and Southern provinces.. There may be 40-45-strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/0860b6c4.json)
-
-[Extended Data](ext_articles/0860b6c4.ext.json)
-
----
-
-### IMF to discuss Sri Lanka review timing with new government
-
-*2024-09-24 06:16:00* · [`economynextcom`](https://economynext.com/imf-to-discuss-sri-lanka-review-timing-with-new-government-180703/) · `en`
-
-ECONOMYNEXT – The International Monetary fund said it will discuss the timing of the next review of the program and looked forward to working with the new President.
-
-“We look forward to working together with President Dissanayake and his team towards building on the hard-won gains that have helped put Sri Lanka on a path to economic recovery since entering one of its worst economic crises in 2022,” an IMF spokesperson said.
-
-“We will discuss the timing of the third review of the IMF-supported program with the new administration as soon as practicable.”
-
-Sri Lanka has reached key quantity targets in the program including foreign reserves and the Asian Development Bank has already disbursed funds on structural benchmarks linked to its policy loans.
-
-Sri Lanka however has to reach a new staff level agreement on the next phase of the IMF program and also compile a budget in line with program targets, analysts say.
-
-...
-
-[Data](articles/82ef17b0.json)
-
-[Extended Data](ext_articles/82ef17b0.ext.json)
-
----
-
-### Sri Lanka ISB restructure deal needs OCC nod: IMF
-
-*2024-09-24 05:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-isb-restructure-deal-needs-occ-nod-imf-180700/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund said it welcomed Sri Lanka’s deal with international sovereign bondholders but still required clearance from the official creditor committee of bilateral lenders.
-
-“We welcome the announcement of an agreement in principle between Sri Lanka and international bondholders’ representatives, subject to confirmation on comparability of treatment by Sri Lanka’s Official Creditors Committee,” an IMF spokesperson said.
-
-“This represents significant progress in Sri Lanka’s debt restructuring process.”
-
-The revised restructure terms were arrived at after consultations with the IMF “to ensure that the agreed terms were fully compatible with the Debt Sustainability Analysis of the program, the Finance Ministry said at the time.
-
-The revised proposal was made “following an iterative process with IMF staff at technical level” and also took into account feedback received from the OCC on the July deal, Sri Lanka said.
-
-...
-
-[Data](articles/116daa51.json)
-
-[Extended Data](ext_articles/116daa51.ext.json)
-
----
-
-### Sri Lanka Cardinal says President promised probe on Easter Sunday attack
-
-*2024-09-24 05:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-cardinal-says-president-promised-probe-on-easter-sunday-attack-180775/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Catholic Cardinal Malcolm Ranjith has said President Anura Dissanayake has promised to thoroughly investigate Easter Sunday attacks.
-
-President Dissanayake met Cardinal Ranjith at the Archbishops house in Colombo.
-
-The people have entrusted the new President with the significant responsibility to bring aobut necessary changes in the country, a task that may prove to be challenging, the Cardinal had told the President.
-
-“The Cardinal assured the President of his full support and blessings in this endeavour and urged him to prioritize the needs of the poor in his efforts,” the President’s media office said in a statement after the meeting on September 23.
-
-Talking to journalists after the meeting Cardinal Ranjith had said the President expressed “his commitment to thoroughly investigate the Easter attacks and to take steps towards uncovering the truth.”
-
-...
-
-[Data](articles/45556108.json)
-
-[Extended Data](ext_articles/45556108.ext.json)
-
----
-
-### National Chamber of Commerce of Sri Lanka congratulates new president
-
-*2024-09-24 05:42:00* · [`economynextcom`](https://economynext.com/national-chamber-of-commerce-of-sri-lanka-congratulates-new-president-180743/) · `en`
-
-ECONOMYNEXT- The National Chamber of Commerce of Sri Lanka has issued a congratulatory message to President Anura Dissanayake, and was ready collaborate with the President in supporting the economy.
-
-“The NCCSL, representing the business community, is prepared to support and collaborate with the President in fostering economic growth, developing the local businesses, especially the MSME sector, and enhancing international trade relations,” the chamber said.
-
-The National Chamber of Commerce of Sri Lanka Congratulates H.E Anura Kumara Dissanayake, elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) congratulates His Excellency Anura Kumara Dissanayake on his election as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka. As he takes office during this pivotal period, we recognize the importance of his role in steering the nation through current economic challenges.
-
-...
-
-[Data](articles/29b09666.json)
-
-[Extended Data](ext_articles/29b09666.ext.json)
-
----
-
-### IMF expects to work with Sri Lanka’s new leader, to reschedule third review
-
-*2024-09-24 04:31:00* · [`economynextcom`](https://economynext.com/imf-expects-to-work-with-sri-lankas-new-leader-to-reschedule-third-review-180694/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund (IMF) expects to work under Sri Lanka’s new President Anura Kumara Dissanayake and said it will discuss the timing of the third review of its ongoing economic reform under a 48-month loan.
-
-Sri Lanka has committed a raft of economic reforms including increasing tax revenue and restructuring of state-owned enterprises.
-
-Dissananayake’s Marxists Janatha Vimukthi Peramuna (JVP)-led National People’s Power (NPP) has pledged to renegotiate the IMF deal citing it has led to some unbearable difficulties for common people.
-
-“We look forward to working together with President Dissanayake and his team towards building on the hard-won gains that have helped put Sri Lanka on a path to economic recovery since entering one of its worst economic crises in 2022,” an IMF spokesperson said in a statement.
-
-...
-
-[Data](articles/238476fa.json)
-
-[Extended Data](ext_articles/238476fa.ext.json)
-
----
-
-### Murdered journalist Lasantha’s daughter hopes AKD will bring justice
-
-*2024-09-24 04:08:31* · [`dailyftlk`](https://www.ft.lk/news/Murdered-journalist-Lasantha-s-daughter-hopes-AKD-will-bring-justice/56-767078) · `en`
-
-Ahimsa holding a portrait of her father Lasantha Wickrematunge who was assassinated in broad daylight in January 2009
-
-...
-
-[Data](articles/d6647474.json)
-
-[Extended Data](ext_articles/d6647474.ext.json)
 
 ---

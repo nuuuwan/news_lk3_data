@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 22:38:12**
+As of **2024-09-24 22:57:25**
 
 ## Newspaper Stats
 
@@ -26,37 +26,45 @@ adaderanasinhalalk | 7,967
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,079 (100.0%) of 46,081 articles have been extended.
+46,081 (100.0%) of 46,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
 
-### අද දෙරණ උකුස්සා රට හමුවේ හෙළි කළ මහා පස් ජාවාරම
+### Derana racket exposed to Ukrana
 
 *2024-09-24 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201513) · `si`
 
-බලපත්‍ර අවභාවිත කරමින් නීතිවිරෝධි මෙන්ම අවිධිමත් ලෙස හා මහාපරිමාණයෙන් සිදුකළ පස් කැණීමේ ජාවාරමක් නීතියේ රැහැනට හසුකර දීමට අද දෙරණ 'උකුස්සා' සමත් විය.
+Ada Derana exposes illegal soil excavation racket in Sri Lanka. Geological and Mines Bureau investigates, arrests perpetrators. Misuse of licenses uncovered.
 
-බුලත්සිංහල ඉංගිරිය ප්‍රදේශයේ අවිධිමත් අයුරින් සිදුකරන පස් කැණීමක් සම්බන්ධයෙන් අද දෙරණ උකුස්සාට තොරතුරක් ලැබුණි.
+🟩
 
-ඒ අනුව භූ විද්‍යා හා පතල් කැණීමේ කාර්යංශයේ නිලධාරින් ද සමග අද දෙරණ උකුස්සා එම ප්‍රදේශයට ගියේ ඒ සම්බන්ධයෙන් තොරතුරු සොයා බැලීමටය.
+Ada Derana Uk has been able to cover an illegal soil excavation racket by misuse of licenses.
 
-අප එම ප්‍රදේශයට ළඟාවන අතරතුරදීත් පස් පටවාගත් ලොරි රථ කිහිපයක්ම මාර්ගයේ ගමන් කරන අයුරු නිරීක්ෂණය වුණි.
+Ada Derana Ukkusa received information regarding the soil that was carried out in the Bulathsinhala ingiriya.
 
-ඒ අනුව භූ විද්‍යා හා පතල් කාර්යාංශයේ නිලධාරින් අදාළ ලොරි රථ නවත්වා ඒවායේ බලපත්‍ර පරීක්ෂා කරණු ලැබීය.
+According to the officers of the Geological and Mines Bureau, Ada Derana went to the area to look into the matter.
 
-එම බලපත්‍ර ව්‍යාජ ඒවා බවට ඇතිවූ සැකය මත ප්‍රවාහනය කරන පස් ප්‍රමාණ සඳහන් ප්‍රවාහන විස්තර පත්‍රිකාව පරීක්ෂා කිරීමට පියවර ගැනුණි.
+While we were reaching the area, we were observed to pass the soil.
 
-එහිදී සීමා උල්ලංඝනය කර සහ බලපත්‍ර අවභාවිත කරමින් ඔවුන් අසීමිත ලෙස පස් ප්‍රවාහනය කරන බව තහවුරු විය.
+Accordingly, the officers of the Geological and Mines Bureau have stopped the lorries and tested their licenses.
 
-මෙම ජාවාරම සඳහා ඔවුන් විස්තර මැකී යන පෑනක් භාවිත කරමින් තොරතුරු පියා තිබූ අයුරුත් හෙළිවුණි.
+Steps were taken to inspect the transportation brochure, which is shipped on suspicion that the permits were false.
 
-අනතුරුව එම ලොරි රථ රියදුරා ද සමග අද දෙරණ උකුස්සා  ළඟා වූයේ පස් කැණිම් සිදුකෙරෙන ස්ථානයටය.
+It was confirmed that they carry infinitely soil, misusing the boundaries and misuse the licenses.
+
+In this racket, they have revealed the father's father, using a pen.
+
+The lorry was then the lorry hawk and was reached the place where the soil was carried out.
+
+When we reach the site, a group was still trying to dig soil.
 
 ...
 
 [Data](articles/56368b43.json)
+
+[Extended Data](ext_articles/56368b43.ext.json)
 
 ---
 
@@ -64,11 +72,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-09-24 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102249/sri-lankas-new-president-dissolves-parliament) · `en`
 
-President Anura Kumara Dissanayake has signed the Extraordinary Gazette notification dissolving the Parliament of Sri Lanka effective from tonight (24).
+President Anura Kumara Dissanayake has signed the Extraordinary Gazette notification dissolving the Parliament of Sri Lanka effective from midnight today (24).
 
 The relevant Gazette notification has been sent to the Government Printer to be published, according to the President’s Media Division (PMD).
 
-◼️
+Dissanayake, leader of the People’s Liberation Front (JVP) and the National People’s Power (NPP) alliance, won a landslide victory over the weekend by beating 38 other candidates and garnering over 5.6 million or 42.3 per cent of the votes.
+
+During the election campaign, Dissanayake vowed to dissolve Parliament if he wins and call snap elections. The present Parliament’s five-year term ends in August next year.
+
+His party had just three lawmakers in Sri Lanka’s 225-member parliament.
+
+Dissanayake was sworn into office on Monday while he appointed academic and first-time lawmaker Harini Amarasuriya as the new prime minister on Tuesday, making her the third woman to be appointed to the post.
+
+...
 
 [Data](articles/f49e26e9.json)
 
@@ -274,15 +290,25 @@ New President Anura Kumara Dissanayake will address the people of the country at
 
 ---
 
-### ජනපති හෙට ජාතිය අමතයි
+### President calls nation tomorrow
 
 *2024-09-24 20:03:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-ජාතිය-අමතයි/11-412129) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා හෙට (25) රාත්‍රී 7.30ට ජාතිය අමතා විශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිතය.
+Here's a 200-character summary:
+
+
+
+"Tomorrow at 7:30 PM, President Anura Kumara Dissanayake will address the nation."
+
+🟩
+
+President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorrow (25).
 
 ◼️
 
 [Data](articles/8910e9f5.json)
+
+[Extended Data](ext_articles/8910e9f5.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 14:57:41**
+As of **2024-09-24 15:09:13**
 
 ## Newspaper Stats
 
-*Scraped **46,003** Articles*
+*Scraped **46,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,781
 dailyftlk | 3,053
 adalk | 4,229
 dailymirrorlk | 4,733
-adaderanalk | 5,414
+adaderanalk | 5,415
 tamilmirrorlk | 6,142
 virakesarilk | 7,346
 adaderanasinhalalk | 7,953
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,003 (100.0%) of 46,003 articles have been extended.
+46,004 (100.0%) of 46,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Roshan Gunathilake resigns as Western Province Governor
+
+*2024-09-24 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102238/roshan-gunathilake-resigns-as-western-province-governor) · `en`
+
+The Governor of the Western Province, Marshal of the Air Force Roshan Gunathilake, has resigned from his position.
+
+In a letter addressed to newly elected President Anura Kumara Dissanayake, he has officially informed of his decision to step down from the position.
+
+In the letter, he further stated that he had worked with utmost dedication for the development of the Western Province, public service in the province, and for the benefit of its people, in accordance with the powers vested in him as Governor, since his appointment to the position on March 25, 2020.
+
+He also mentioned that he was fortunate to have led the public service of the Western Province in efforts to enhance the safety and health of the people during the Covid-19 pandemic in 2020 and 2021, as well as during other crises in recent years.
+
+◼️
+
+[Data](articles/1102b2d0.json)
+
+[Extended Data](ext_articles/1102b2d0.ext.json)
+
+---
 
 ### Derailment disrupts train services on up-country line
 
@@ -2327,27 +2347,5 @@ Ambassador Mizukoshi conveyed his heartfelt congratulations on the President’s
 [Data](articles/486ee159.json)
 
 [Extended Data](ext_articles/486ee159.ext.json)
-
----
-
-### Sampath Thuyacontha appointed Defence Secretary
-
-*2024-09-24 03:41:30* · [`dailyftlk`](https://www.ft.lk/news/Sampath-Thuyacontha-appointed-Defence-Secretary/56-767073) · `en`
-
-Air Vice Marshal (Rtd.) Sampath Thuyacontha was yesterday appointed as the new Defence Secretary. The appointment was made by President Anura Kumara Dissanayake, under the authority vested in him by Section 52 (I) of the Constitution of the Democratic Socialist Republic of Sri Lanka.
-
-Thuyacontha holds a Master’s degree in Defence Studies from the National Defence University of China and a Master’s from the Kotelawala National Defence University in Sri Lanka.
-
-He has served as the former Commanding Officer of the MI-24 Attack Helicopter Squadron, the Anuradhapura Air Force Base, and the Chinese Harbour Air Force College.
-
-Additionally, he was the former Defence Adviser at the Sri Lankan High Commission in Pakistan, and Commanding Officer of the Katunayake Air Force Base.
-
-He also held the position of Director of Training at the Air Force Headquarters. He has been awarded the Weera Wickrama Vibushana, Rana Wickrama, and Rana Sura medals for his valiant service.
-
-◼️
-
-[Data](articles/a539dff3.json)
-
-[Extended Data](ext_articles/a539dff3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 18:47:27**
+As of **2024-09-24 18:34:12**
 
 ## Newspaper Stats
 
-*Scraped **46,052** Articles*
+*Scraped **46,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,236
+adalk | 4,235
 dailymirrorlk | 4,733
 adaderanalk | 5,424
-tamilmirrorlk | 6,151
+tamilmirrorlk | 6,149
 virakesarilk | 7,359
 adaderanasinhalalk | 7,962
 
@@ -26,41 +26,11 @@ adaderanasinhalalk | 7,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,049 (100.0%) of 46,052 articles have been extended.
+46,049 (100.0%) of 46,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
-
-### ”இதுவே சரியான தருணம் தாமதிக்க வேண்டாம்”
-
-*2024-09-24 18:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவே-சரியான-தருணம்-தாமதிக்க-வேண்டாம்/175-344390) · `ta`
-
-நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை நீக்குவதற்கும், தேர்தல் முறையை மாற்றுவதற்கும் தேசிய மக்கள் சக்தி நடவடிக்கை எடுத்தால், ஸ்ரீலங்கா பொதுஜன பெரமுன தனது பூரண ஆதரவை வழங்கும் என ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
-
-1994ஆம் ஆண்டு தொடக்கம் இதுவரை அனைத்து ஜனாதிபதிகளும் நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை ஒழிப்பதாக கூறிய போதிலும், எவரும் அவ்வாறு செய்யவில்லை எனவும் அவர் ஊடகங்களுக்கு தெரிவித்தார்.
-
-எனவே நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறைமையை ஒழிக்க வேண்டிய தேவை இருந்தால் தாமதிக்க வேண்டாம் என நாமல் ராஜபக்ஷ மேலும் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/6594d3f8.json)
-
----
-
-### புதிய அமைச்சரவை பதவியேற்பு
-
-*2024-09-24 18:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-பதவியேற்பு/175-344389) · `ta`
-
-பாதுகாப்பு, நிதி, பொருளாதார அபிவிருத்தி, தேசிய கொள்கைகள், திட்டமிடல் மற்றும் சுற்றுலா, வலுசக்தி, விவசாயம், காணி, கால்நடை , நீர்ப்பாசனம், மீன்பிடி மற்றும் நீரியல் வளங்கள் அமைச்சராக ஜனாதிபதி அநுர குமார திசாநாயக்க பதவியேற்றார்.
-
-நீதி, பொது நிர்வாகம், உள்நாட்டலுவல்கள், மாகாண சபைகள், உள்ளூராட்சி மற்றும் தொழில், கல்வி, விஞ்ஞான மற்றும் தொழில்நுட்பம், பெண்கள், சிறுவர்கள் மற்றும் இளைஞர் விவகாரம் மற்றும் விளையாட்டு, வர்த்தகம், வாணிபம், உணவுப் பாதுகாப்பு, கூட்டுறவு அபிவிருத்தி, கைத்தொழில் மற்றும் தொழில் முனைவோர் அபிவிருத்தி மற்றும் சுகாதார அமைச்சராக பிரதமர் ஹரிணி அமரசூரிய பதவியேற்றார்
-
-...
-
-[Data](articles/00db9240.json)
-
----
 
 ### New secretaries appointed
 
@@ -221,22 +191,6 @@ Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community,
 [Data](articles/9f5108bf.json)
 
 [Extended Data](ext_articles/9f5108bf.ext.json)
-
----
-
-### දුෂණ චෝදනා ඇති අය නැවත පොහොට්ටුවට ගන්නේ නැතිලු
-
-*2024-09-24 17:54:58* · [`adalk`](https://www.ada.lk/breaking_news/දුෂණ-චෝදනා-ඇති-අය-නැවත-පොහොට්ටුවට-ගන්නේ-නැතිලු/11-412117) · `si`
-
-ඉදිරි මහ මැතිවරණයට සූදානම් බව  ශ්‍රී ලංකා පොදුජන පෙරමුණ පවසයි. අද දින නෙළුම් මාවතේදි ඉදිරි මහ මැතිවරණයට මුහුණ දෙන ආකාරය පිලිබදව පක්ෂ නියෝජිතයන් දීර්ඝ ලෙස සාකච්ඡා කර තිබේ.
-
-මෙහිදී පසුගිය ජනාධිපතිවරණයේදී පක්ෂය හැරගිය අය ආපසු ශ්‍රී ලංකා පොදුජන පෙරමුණ වෙත එක්කර ගන්නවාද  යන්නෙ වැඩිදුරටත් සාකච්ඡා කල අතර දූෂණ චෝදනා ඇති කිසිවකු නැවත පක්ෂයට එක්කර නොගැනීමට මෙහිදී තීරණය කල බව ශ්‍රී ලංකා පොදුජන පෙරමුණ පවසයි.
-
-නැවත පක්ෂය සමග එක්වීමට පක්ෂය හැරගිය අය බොහෝ දෙනෙකු ඉල්ලීම් කර තිබෙන බවද ශ්‍රී ලංකා පොදුජන පෙරමුණ නිවේදනයක් නිකුත් කරමින් පවසයි.
-
-◼️
-
-[Data](articles/8caeda8f.json)
 
 ---
 
@@ -2349,5 +2303,79 @@ The Chinese President has also continued to meet the high quality and strategic 
 [Data](articles/08cce46c.json)
 
 [Extended Data](ext_articles/08cce46c.ext.json)
+
+---
+
+### Corporation
+
+*2024-09-24 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194658) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Extraordinary 2022 events concluded in recent presidential election."
+
+🟩
+
+The extraordinary events that took place in 2022 have reached their end in the recent presidential election.
+
+◼️
+
+[Data](articles/5249957f.json)
+
+[Extended Data](ext_articles/5249957f.ext.json)
+
+---
+
+### Certificate given to Anura Cardinal Thero
+
+*2024-09-24 09:38:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-කාදිනල්-හිමියන්ට-දුන්-සහතිකය/11-412102) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake visits Archbishop Malcolm Cardinal. Presents certificate to Anura Cardinal Thero. Promises support for country's development. Attends religious ceremony at Dangea and Molomel.
+
+🟩
+
+New President Anura Kumara Dissanayake visited the Archbishop of Colombo yesterday (23) last evening.
+
+The President who arrived at the Archbishop of Borella, the President visited the Archbishop and consult the healing suffering.
+
+The Archbishop of Colombo is completely undoubtedly Malcolm Cardinal.,
+
+I wish the highest number of people in Sri Lanka as the most popular. The people of the country have been assigned to the ruling responsibility to make the necessary change in Sri Lanka. This may be a blevant and dash. We promise him our full support and blessings. I urge you, especially to continue the ridiculous people in the country.
+
+The President insisted that a journalist was responding to a question raised by the President.
+
+...
+
+[Data](articles/61543dc1.json)
+
+[Extended Data](ext_articles/61543dc1.ext.json)
+
+---
+
+### Presidential Certificate of Anura Cardinal
+
+*2024-09-24 09:38:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-කාදිනල්-හිමියන්ට-දුන-සහතිකය/11-412102) · `si`
+
+Sri Lanka's new President Anura Kumara Dissanayake met with Archbishop Malcolm Cardinal. They discussed healing suffering and national issues. The President emphasized his commitment to change and received support from religious leaders and officials.
+
+🟩
+
+New President Anura Kumara Dissanayake visited the Archbishop of Colombo yesterday (23) last evening.
+
+The President who arrived at the Archbishop of Borella, the President visited the Archbishop and consult the healing suffering.
+
+The Archbishop of Colombo is completely undoubtedly Malcolm Cardinal.,
+
+I wish the highest number of people in Sri Lanka as the most popular. The people of the country have been assigned to the ruling responsibility to make the necessary change in Sri Lanka. This may be a blevant and dash. We promise him our full support and blessings. I urge you, especially to continue the ridiculous people in the country.
+
+The President insisted that a journalist was responding to a question raised by the President.
+
+...
+
+[Data](articles/eed9aa7f.json)
+
+[Extended Data](ext_articles/eed9aa7f.ext.json)
 
 ---

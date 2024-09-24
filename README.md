@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 22:12:58**
+As of **2024-09-24 22:24:16**
 
 ## Newspaper Stats
 
-*Scraped **46,077** Articles*
+*Scraped **46,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,781
 dailyftlk | 3,053
 adalk | 4,244
 dailymirrorlk | 4,733
-adaderanalk | 5,426
+adaderanalk | 5,427
 tamilmirrorlk | 6,159
 virakesarilk | 7,363
-adaderanasinhalalk | 7,965
+adaderanasinhalalk | 7,966
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,077 (100.0%) of 46,077 articles have been extended.
+46,079 (100.0%) of 46,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Sri Lanka’s new President dissolves Parliament
+
+*2024-09-24 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102249/sri-lankas-new-president-dissolves-parliament) · `en`
+
+President Anura Kumara Dissanayake has signed the Extraordinary Gazette notification dissolving the Parliament of Sri Lanka effective from tonight (24).
+
+The relevant Gazette notification has been sent to the Government Printer to be published, according to the President’s Media Division (PMD).
+
+◼️
+
+[Data](articles/f49e26e9.json)
+
+[Extended Data](ext_articles/f49e26e9.ext.json)
+
+---
+
+### President signals gazette to dissolved parliament
+
+*2024-09-24 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201512) · `si`
+
+Here's a 200-character summary:
+
+
+
+"President Anura Kumara Dissanayake signs gazette dissolving Parliament effective midnight. Gazette sent to Government Press."
+
+🟩
+
+It is reported that President Anura Kumara Dissanayake has signed a gazette to the dissolution of Parliament from midnight today (24).
+
+Accordingly, the gazette has been forwarded to the Government Press.
+
+◼️
+
+[Data](articles/f20fffdd.json)
+
+[Extended Data](ext_articles/f20fffdd.ext.json)
+
+---
 
 ### The girl who was sleeping in the father's arms
 
@@ -281,6 +321,14 @@ President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorro
 ### 11 months of the 11 months of security guard at hospital
 
 *2024-09-24 19:48:19* · [`adalk`](https://www.ada.lk/breaking_news/මවුපිය-ගැටුමට-මැදි-වූ-මාස-11-සිඟිත්තිය--ආරක්ෂක-හිස්-වැසුම්-පහරින්-බරපතල-තුවාල-ලබා-රෝහලේ/11-412127) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+A 28-year-old man and his wife (31) were involved in a dispute over a casual affair. The man allegedly attacked his wife in front of a shop, causing her serious injury. She was hospitalized at Horana Base Hospital. Police investigations are ongoing under the instructions of OIC Athuruguratota.
+
+🟩
 
 Anguruwa Police said that the 11 months old injuries have been hospitalized after the husband's helmets
 
@@ -2387,43 +2435,5 @@ The report was issued by the University of Ruhuna, 2023.
 [Data](articles/3d1e682b.json)
 
 [Extended Data](ext_articles/3d1e682b.ext.json)
-
----
-
-### Grade 5 Scholarship Exam ‘paper leak’: Ministry promises ‘fair solution’
-
-*2024-09-24 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102231/grade-5-scholarship-exam-paper-leak-ministry-promises-fair-solution) · `en`
-
-The Ministry of Education says that further investigations area being carried out through the Criminal Investigation Department (CID) regarding the alleged leakage of questions in the question paper of the 2024 Grade 05 Scholarship Examination.
-
-The Secretary of the Education Ministry, Thilaka Jayasundara stated that a decision regarding whether to hold the Scholarship Examination again will be made immediately after considering the outcome of the investigations.
-
-Speaking to Ada Derana, the Education Ministry Secretary further stated that a ‘fair solution’ will be reached once the relevant investigations are completed.
-
-Meanwhile, the Director of the Planning Division of the National Institute of Education (NIE) in Maharagama, who was arrested by the CID yesterday (24) over the Grade 5 scholarship examination question paper issue, had been remanded until October 07.
-
-◼️
-
-[Data](articles/86b7212b.json)
-
-[Extended Data](ext_articles/86b7212b.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-09-24 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194677) · `ta`
-
-US dollar exchange rate: 299.7192 rupees buying, 309.0850 selling.
-
-🟩
-
-The US dollar purchasing price was 299.7192 rupees and the sales price at Rs 309.0850, based on the Central Bank's currency exchange rate today (24).
-
-◼️
-
-[Data](articles/f33bc906.json)
-
-[Extended Data](ext_articles/f33bc906.ext.json)
 
 ---

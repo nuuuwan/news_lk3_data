@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 23:39:10**
+As of **2024-09-24 23:58:08**
 
 ## Newspaper Stats
 
-*Scraped **46,089** Articles*
+*Scraped **46,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,246
+adalk | 4,247
 dailymirrorlk | 4,733
 adaderanalk | 5,428
 tamilmirrorlk | 6,161
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,089 (100.0%) of 46,089 articles have been extended.
+46,090 (100.0%) of 46,090 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -715,6 +715,28 @@ He added that the UPFA is not joining by the UNP and that the UPFA will contest 
 [Data](articles/6b5c22f5.json)
 
 [Extended Data](ext_articles/6b5c22f5.ext.json)
+
+---
+
+### President can lead the country
+
+*2024-09-24 18:47:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුරට-රට-ගෙනියන්න-පුළුවන්/11-412121) · `si`
+
+Former President Mahinda Rajapaksa suggests new President Anura Kumara Dissanayake may continue his policies. However, Rajapaksa hasn't officially endorsed Dissanayake yet.
+
+🟩
+
+Former President Mahinda Rajapaksa said the new President Anura Kumara Dissanayake could continue the country.
+
+"Ap can. I think that ability, "he said.
+
+However, he had not yet decided as a party as a party regarding whether he supports Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/7066d706.json)
+
+[Extended Data](ext_articles/7066d706.ext.json)
 
 ---
 
@@ -2439,29 +2461,5 @@ He added that the former President does not expect parliament from the national 
 [Data](articles/176502cc.json)
 
 [Extended Data](ext_articles/176502cc.ext.json)
-
----
-
-### Ranil Action Resolution
-
-*2024-09-24 12:40:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-அதிரடி-தீர்மானம்/175-344372) · `ta`
-
-Ranil Wickremesinghe: Not contesting election, won't return to Parliament, but remains UNP advisor. Decision confirmed by party leaders Ruwan Wijewardena and Vajira Abeywardena.
-
-🟩
-
-Former President and UNP leader Ranil Wickremesinghe has said that he will not contest the parliamentary election.
-
-He also said that he would not come to Parliament again through the national bar.
-
-Subsequently, it is reported that he will continue to act as the UNP adviser.
-
-United National Party Deputy Leader Ruwan Wijewardena and Chairman Vajira Abeywardena confirmed the decision taken by former President Wickremesinghe.
-
-◼️
-
-[Data](articles/6a695215.json)
-
-[Extended Data](ext_articles/6a695215.ext.json)
 
 ---

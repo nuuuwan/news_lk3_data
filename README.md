@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 21:09:42**
+As of **2024-09-24 21:23:12**
 
 ## Newspaper Stats
 
-*Scraped **46,070** Articles*
+*Scraped **46,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 4,242
 dailymirrorlk | 4,733
 adaderanalk | 5,426
 tamilmirrorlk | 6,159
-virakesarilk | 7,360
-adaderanasinhalalk | 7,963
+virakesarilk | 7,363
+adaderanasinhalalk | 7,964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,070 (100.0%) of 46,070 articles have been extended.
+46,070 (100.0%) of 46,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### පාර්ලිමේන්තු ඡන්දෙ ගැන මැතිවරණ කොමිසමෙන් පැහැදිලි කිරීමක්
+
+*2024-09-24 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201510) · `si`
+
+ජනාධිපතිවරයා විසින් පාර්ලිමේන්තුව විසුරුවා හරින ඕනෑම අවස්ථාවකදී එම දිනයේ සිට දින 52ත් 66ත් අතර කාලය තුළදී මැතිවරණයක් පැවැත්වීමට මැතිවරණ කොමිසම බැඳී සිටින බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+
+අද (24) මැතිවරණ කොමිසමේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී ඒ මහතා මෙම කරුණු පැහැදිලි කළේය.
+
+"පාර්ලිමේන්තුව විසුරුවා හැරින ඕනෑම අවස්ථාවකදී එම දිනයේ සිට දින 52ත් 66ත් අතර කාලය තුළදී මැතිවරණයක් පැවැත්වීමට මැතිවරණ කොමිසම බැඳී සිටිනවා. පාර්ලිමේන්තුව විසුරුවාහැරීමේ නිවේදනය ජනපති ලේකම්ගේ අත්සනින් නිවේදනය කරාට පසුව ඒ අනුව එම ගැසට් නිවේදනයේ සඳහන් වෙනවා නාමයෝජනා භාරගන්නා දින කවදා ද?, මැතිවරණය පැවත්වීමේ දිනය කවදා ද ? සහ පාර්ලිමේන්තුව නැවත රැස්වන දිනය කවදා ද ? කියලා."
+
+"මේ කරුණු තුන ඇතුළත් ගැසට් නිවේදනයක් ජනාධිපති ලේකම්වරයාගේ අත්සනින් යුතුව නිකුත් වුණාට පසුව තමයි පාර්ලිමේන්තු මැතිවරණය ගැන නීත්‍යාණුකූලව කතා කරන්න පුළුවන් වෙන්නේ."
+
+...
+
+[Data](articles/1c74dde8.json)
+
+---
 
 ### Foreign Minister on Saudi National Day
 
@@ -49,6 +67,30 @@ Herath, who was sworn in today, expressed his commitment to strengthen diplomati
 [Data](articles/8c5a3ec8.json)
 
 [Extended Data](ext_articles/8c5a3ec8.ext.json)
+
+---
+
+### 15 அமைச்சுகளுக்கான புதிய செயலாளர்கள் நியமனம்
+
+*2024-09-24 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194726) · `ta`
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க தலைமையிலான இடைக்கால அரசாங்கத்தின் 15  அமைச்சுகளுக்கான  செயலாளர்கள் நியமிக்கப்பட்டுள்ளார்கள். ஜனாதிபதி செயலகத்தில் செவ்வாய்க்கிழமை (24) புதிய செயலாளர்களுக்கான நியமனங்கள் ஜனாதிபதியால் வழங்கி வைக்கப்பட்டன.
+
+போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகம் மற்றும் சிவில் விமான சேவைகள் அமைச்சின் செயலாளர் - டி.எஸ்.ருவன் சந்திர,
+
+நிதி, பொருளாதார அபிவிருத்தி, கொள்கைத் திட்டமிடல் மற்றும் சுற்றுலாத்துறை அமைச்சின் செயலாளர் - கே.எம்.எம். சிறிவர்தன,
+
+மகளிர் , சிறுவர் மற்றும் இளைஞர் விவகாரம்,மற்றும் விளையாட்டுத்துறை அமைச்சின் செயலாளர் - கே. மகேஷன்,
+
+வர்த்தகம், வாணிப, உணவு பாதுகாப்பு, கூட்டுறவு அபிவிருத்தி, கைத்தொழில் மற்றும்  முயற்சியாண்மை அபிவிருத்தி அமைச்சு – எம்.எம். தய்முதீன்
+
+கிராமிய மற்றும் நகர அபிவிருத்தி, வீடமைப்பு மற்றும் நிர்மாணத்துறை அமைச்சின் செயலாளர் - எம்.பி அதபத்து,
+
+நீதி, அரச நிர்வாகம், உள்நாட்டலுவல்கள்,  மாகாண மற்றும் உள்ளூராட்சி மன்றங்கள் அமைச்சு மற்றும் தொழில் அமைச்சின் செயலாளர் - பி.பி. யசரத்ன,
+
+...
+
+[Data](articles/b358788e.json)
 
 ---
 
@@ -77,6 +119,18 @@ President Anura Kumara Dissanayake will make a special statement while addressin
 [Data](articles/93f3944a.json)
 
 [Extended Data](ext_articles/93f3944a.ext.json)
+
+---
+
+### ஜனாதிபதி நாளை நாட்டு மக்களுக்கு விசேட உரை
+
+*2024-09-24 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194725) · `ta`
+
+புதிய ஜனாதிபதி அநுர குமார திஸாநாயக்க 25ஆம் திகதி புதன்கிழமை இரவு 7.30 மணிக்கு நாட்டு மக்களுக்கு விசேட உரையாற்றவுள்ளார்.
+
+◼️
+
+[Data](articles/0fc9d1a0.json)
 
 ---
 
@@ -149,6 +203,20 @@ President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorro
 [Data](articles/1bd9b14c.json)
 
 [Extended Data](ext_articles/1bd9b14c.ext.json)
+
+---
+
+### புதிய ஜனாதிபதிக்கு சவுதி மன்னர் வாழ்த்து
+
+*2024-09-24 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194724) · `ta`
+
+இரண்டு புனிதத் தலங்களின் சேவகரும், சவுதி மன்னருமான ஸல்மான் பின் அப்துல் அஸிஸ் அல் ஸஃஊத் மற்றும், முடிக்குரிய இளவரசரும் சவுதி பிரதமருமான இளவரசர் முஹம்மத் பின் ஸல்மான் ஆகியோர் இலங்கை ஜனநாயக சோசலிசக் குடியரசின் ஜனாதிபதியாக தேர்ந்தெடுக்கப்பட்டு,   சத்தியப்பிரமாணம் செய்துகொண்டுள்ள  அனுர குமார திசாநாயகக்வுகு வாழ்த்துக்களைத் தெரிவித்துள்ளனர்.
+
+ஜனாதிபதி அனுர குமார திசாநாயக்கவுக்கு வெற்றிகரமான ஆட்சி மற்றும் இலங்கை மக்களுக்கு மேலும் முன்னேற்றமும் வளமும் கிடைக்க  வேண்டுமென பிராத்திப்பதாகவும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/10079085.json)
 
 ---
 
@@ -2295,91 +2363,5 @@ After the incident, two youths arrived on a motorcycle on Monday (23) and fled t
 [Data](articles/abcc32ac.json)
 
 [Extended Data](ext_articles/abcc32ac.ext.json)
-
----
-
-### Sword cutting on warned driver
-
-*2024-09-24 11:26:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எச்சரித்த-சாரதி-மீது-வாள்-வெட்டு-தாக்குதல்/71-344367) · `ta`
-
-Driver attacked with sword near bus station. Admitted to hospital after incident involving harassment. Two suspects fled on motorcycle.
-
-🟩
-
-Yall. The incident took place on Monday (23) when a sword attack on a private bus driver warned youths who had been chatting with women near the central bus station.
-
-Vinasithambi Jegadeeswaran is thus under attack. He has been admitted to the Teaching Hospital for treatment.
-
-Last week Jaffna. The driver, who had been harassed by four youths near the Central Bus Stand, had been harassed by the women coming to the bus station and harassed the youth.
-
-After the incident, two youths arrived on a motorcycle on Monday (23) and fled the driver of the driver of the bus from Colombo to Jaffna.
-
-◼️
-
-[Data](articles/dcbf27ac.json)
-
-[Extended Data](ext_articles/dcbf27ac.ext.json)
-
----
-
-### 31 people arrested by police with 300 liters of leaks in Kattankudi
-
-*2024-09-24 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194665) · `ta`
-
-31 arrests made in Kattankudi for illegal liquor production. 300 liters of illicit alcohol seized. Suspects to appear in court today.
-
-🟩
-
-Kattankudy police said that 31 persons have been arrested in areas under the Kattankudy Police Division with 300 liters of illegal leaky liquor.
-
-The Kattankudy Police Station Crime Branch and the Drug Prevention Police have been seized by the police.
-
-They have been arrested during a searches carried out by the Kattankudy Police under the guidance of Kattankudy Police Station, G. Gajanayake, under the direction of the Batticaloa District Senior Superintendent of Police, Amal.
-
-It has been revealed that the leak has been found in the Kattankudy Police Division, including Nagakkuda, Kalladi, Gramkulam, Thalanguda, Arayambathi, and housed in houses.
-
-The suspects are to be produced before the Batticaloa Magistrate's Court today, police said.
-
-◼️
-
-[Data](articles/bb0445e0.json)
-
-[Extended Data](ext_articles/bb0445e0.ext.json)
-
----
-
-### New Cabinet to be sworn in today; discussion on dissolving Parliament
-
-*2024-09-24 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102230/new-cabinet-to-be-sworn-in-today-discussion-on-dissolving-parliament) · `en`
-
-National People’s Power (NPP) Parliamentarian Vijitha Herath confirmed that the new Cabinet of Ministers will be sworn in today (24).
-
-Furthermore, he said that later they will discuss the dissolution of the Parliament with President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/55b3ca77.json)
-
-[Extended Data](ext_articles/55b3ca77.ext.json)
-
----
-
-### Former McCo's opinion on the possibility of parliamentary voting for Lakshman
-
-*2024-09-24 11:07:09* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-ඡන්දය--ලක්ෂ්මන්ට-ඇමතිකමක්-දැරීමේ-හැකියාව-ගැන-හිටපු-මැකෝගේ-මතය/11-412104) · `si`
-
-Former Chairman Mahinda Deshapriya expressed support for Lakshman's potential parliamentary candidacy. He noted the timing of elections post-parliament dissolution.
-
-🟩
-
-Former Chairman Mahinda Deshapriya, the former Chairman Mahinda Deshapriya, a note of his Facebook account has stated in his Facebook account to be sworn in as a Member of Parliament.
-
-He also pointed out about the days of the election after the dissolution of parliament.
-
-◼️
-
-[Data](articles/5bab2610.json)
-
-[Extended Data](ext_articles/5bab2610.ext.json)
 
 ---

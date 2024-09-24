@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 16:55:55**
+As of **2024-09-24 17:07:50**
 
 ## Newspaper Stats
 
-*Scraped **46,024** Articles*
+*Scraped **46,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ dailymirrorlk | 4,733
 adaderanalk | 5,420
 tamilmirrorlk | 6,148
 virakesarilk | 7,346
-adaderanasinhalalk | 7,957
+adaderanasinhalalk | 7,959
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,024 (100.0%) of 46,024 articles have been extended.
+46,026 (100.0%) of 46,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Welney to assume duties before dissolution
+
+*2024-09-24 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201503) · `si`
+
+Dr. Harini Amarasuriya sworn in as Sri Lanka's new Prime Minister. She thanked the public and vowed to protect their interests. Parliament dissolution expected soon.
+
+🟩
+
+Dr. Harini Amarasuriya was sworn in before President Anura Kumara Dissanayake as the Prime Minister of the New Government.
+
+When the place left the place, the Prime Minister expressed these views to the media.
+
+"Now you have to take over work. Then you have to go to work. The most likely dissolves parliament today. I have to go to work early. Thank you very much to the people. That is exactly what we will protect. "
+
+◼️
+
+[Data](articles/0fd18558.json)
+
+[Extended Data](ext_articles/0fd18558.ext.json)
+
+---
+
+### MPox New Genre meets in India
+
+*2024-09-24 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201504) · `si`
+
+Here's a 200-character summary:
+
+
+
+New MPox variant "Cloade 1b" spreads rapidly in Africa. Identified in India, it causes flu-like symptoms and skin lesions. WHO reports high mortality rate of 4%. Cases found in South Kerala, linked to traveler from Dubai. Also known as "Emphox" in Africa.
+
+🟩
+
+The Indians have identified the Indians that the new variety of prospects were named by the World Health Organization (WHO), which was named a flock of public health, has identified the Indian.
+
+This new variety of fast spreading in Africa is called "Cloade 1b".
+
+According to Indian media, the infected is a 38 year old resident of the state of South Kerala, who came from Dubai.
+
+The virus is the flu as the basic symptoms of infection and injuries such as the skin.
+
+It is reported that about 4 in every 100 infections may be killed.
+
+The World Health Organization has also informed the World Health Suddenness of 'Emphox' as a side of 'pimpax' in several countries in the African continent.
+
+◼️
+
+[Data](articles/aaa3b5a7.json)
+
+[Extended Data](ext_articles/aaa3b5a7.ext.json)
+
+---
 
 ### Mahinda made the Action Notification
 
@@ -2301,49 +2355,5 @@ Nipuna Arachchi was sworn in as a Member of Parliament yesterday (23) for the va
 [Data](articles/b92fe6c6.json)
 
 [Extended Data](ext_articles/b92fe6c6.ext.json)
-
----
-
-### Missing of three fishermen
-
-*2024-09-24 07:46:53* · [`adalk`](https://www.ada.lk/breaking_news/ධීවරයින්-තිදෙනෙක්-සමග-යාත්‍රාවක්-අතුරුදන්/11-412098) · `si`
-
-Three fishermen missing: Kudawella harbor, Mihinthiye, Nakulugoda locations. Family seeks help at Tangalle headquarters.
-
-🟩
-
-The fishing vessel with three fishermen from the Kudawella Fisheries Harbor to be fishermen at the Kudawella Fisheries Harbor said.
-
-Three fishing youths who have been living in Kudawella, who is missing in the Mihinthiye, who is missing at the Nakulugoda Seennimodara West Malugara, police said.
-
-The fishermen's family had come to the Tangalle Headquarters, the Kudavella Fisheries Harbor to look into the disappearance vessel.
-
-◼️
-
-[Data](articles/5036141e.json)
-
-[Extended Data](ext_articles/5036141e.ext.json)
-
----
-
-### Governor of the North resigns
-
-*2024-09-24 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201485) · `si`
-
-North Province Governor resigns; others follow suit after oath ceremony led by Anura Kumara Dissanayake.
-
-🟩
-
-Northern Province Governor PSM. Mrs. Charles has resigned from the post.
-
-Meanwhile, the governors of several other provinces have been resigned from their post yesterday.
-
-The governors have taken the oath of Anura Kumara Dissanayake yesterday (23).
-
-◼️
-
-[Data](articles/64a22ee9.json)
-
-[Extended Data](ext_articles/64a22ee9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 11:23:11**
+As of **2024-09-24 11:39:19**
 
 ## Newspaper Stats
 
-*Scraped **45,950** Articles*
+*Scraped **45,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,773
 dailyftlk | 3,053
-adalk | 4,219
+adalk | 4,221
 dailymirrorlk | 4,733
-adaderanalk | 5,408
-tamilmirrorlk | 6,128
-virakesarilk | 7,338
+adaderanalk | 5,409
+tamilmirrorlk | 6,131
+virakesarilk | 7,339
 adaderanasinhalalk | 7,948
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,950 (100.0%) of 45,950 articles have been extended.
+45,950 (100.0%) of 45,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### New Cabinet to be sworn in today; discussion on dissolving Parliament
+
+*2024-09-24 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102230/new-cabinet-to-be-sworn-in-today-discussion-on-dissolving-parliament) · `en`
+
+National People’s Power (NPP) Parliamentarian Vijitha Herath confirmed that the new Cabinet of Ministers will be sworn in today (24).
+
+Furthermore, he said that later they will discuss the dissolution of the Parliament with President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/55b3ca77.json)
+
+---
+
+### ஜப்பானில்  பூகம்பம் ;  சுனாமி எச்சரிக்கை
+
+*2024-09-24 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194672) · `ta`
+
+ஜப்பானின் தொலைதூர தீவான இசு தீவுகளுக்கு அருகே  5.6 ரிச்டர்  அளவில் பூகம்பம் ஏற்பட்டதை அடுத்து செவ்வாய்க்கிழமை சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+அமெரிக்க புவியியல் ஆய்வு மையம் மற்றும் உள்ளூர் வானிலை அதிகாரிகள்  இந்த  சுனாமி எச்சரிக்கையை வெளியிட்டுள்ளனர்.
+
+இந்நிலையில், கடல்  மட்டத்திலிருந்து  1 மீட்டர் (கஜம்) வரை அலைகள் உயரும் என ஜப்பான் வானிலை ஆய்வு மையம் அறிவுறுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/3447ce57.json)
+
+---
 
 ### Vijitha Herath ordered to appear in court
 
@@ -55,6 +85,24 @@ The case had been filed against Chandration Pathiraja against the agreement with
 [Data](articles/c1f32e40.json)
 
 [Extended Data](ext_articles/c1f32e40.ext.json)
+
+---
+
+### காத்மண்டு சென்றடைந்தார் கோட்டா
+
+*2024-09-24 10:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்மண்டு-சென்றடைந்தார்-கோட்டா/175-344366) · `ta`
+
+இலங்கையின் முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ச பூடான் தலைநகர் திம்பு வழியாக திங்கட்கிழமை (23) காத்மண்டு வந்தடைந்தார்.
+
+காத்மாண்டுவில் திங்கள்கிழமை காலை இறங்கிய அவர், லலித்பூரில் உள்ள ஜாம்சிகேலில் உள்ள விவாண்டா ஹோட்டலில் தங்கியுள்ளார். திரிபுவன் சர்வதேச விமான நிலையத்திற்கு ட்ரூக் ஏர் விமானம் எண் KB 400 இல் ராஜபக்ஷ வந்தார்.
+
+லலித்பூர் மாவட்ட காவல்துறையின் எஸ்பி நரேஷ் சுபேடியின் கூற்றுப்படி, கோட்டாபய ராஜபக்சே தனது வருகையின் போது பங்கேற்கும் நிகழ்வுகளுக்கு பாதுகாப்பு ஏற்பாடுகள் செய்யப்பட்டுள்ளன, இதில் சித்வானுக்கும் பயணம் செய்வதற்கான திட்டங்கள் அடங்கும்.
+
+13 ஜூலை 2022 அன்று, மாபெரும் போராட்டங்களைத் தொடர்ந்து, இறுதியில் அவரது உத்தியோகபூர்வ இல்லம் மற்றும் பணியிடத்தை எதிர்ப்பாளர்களால் பொதுமக்கள் கையகப்படுத்தியதில் உச்சக்கட்டத்தை அடைந்தார், ராஜபக்ச தனது மனைவி மற்றும் தனிப்பட்ட பாதுகாப்பு விவரங்களுடன் நாட்டை விட்டு வெளியேறி, மேலும் பின்வாங்குவதற்கு முன், மாலத்தீவுக்கு சென்றார். ஜூலை 14 அன்று சிங்கப்பூரை சென்றடைந்தார்.
+
+...
+
+[Data](articles/0abb319c.json)
 
 ---
 
@@ -284,6 +332,24 @@ After the swearing-in of the Cabinet of Ministers, President Dissanayake would c
 
 ---
 
+### ජනපති අනුරට චීන ජනපතිගෙන් සුබ පැතුම්
+
+*2024-09-24 09:44:59* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුරට-චීන-ජනපතිගෙන්-සුබ-පැතුම්/11-412103) · `si`
+
+නව ජනාධිපති අනුර කුමාර දිසානායක මහතාට චීන ජනාධිපති ෂී ජින් පිං මහතා සුබ පැතුම් පිරිනමයි. එම පණිවුඩය අද (23) යොමු කර ඇත.
+
+චීනය සහ ශ්‍රී ලංකාව මිත්‍රශීලී අසල්වැසියන් බව ෂී ජින් පිං මහතා එහිදී පෙන්වා දුන්නේය. මීට වසර 67 කට පෙර චීනය සහ ශ්‍රී ලංකාව අතර රාජ්‍යතාන්ත්‍රික සබඳතා ආරම්භ වූ දා සිට දෙරට සෑමවිටම මිත්‍රත්වයේ සහජීවනය මෙන්ම විශාල සහ කුඩා රටවල් අතර අන්‍යෝන්‍ය ප්‍රතිලාභී සහයෝගිතාව පිළිබඳ මනා ආදර්ශයක් සපයා ඇත.
+
+චීන-ශ්‍රී ලංකා සබඳතා වර්ධනයට තමා ඉහළ ප්‍රමුඛතාවක් ලබා දෙන බවත්, අන්‍යෝන්‍ය දේශපාලන විශ්වාසය වැඩිදියුණු කිරීමට අනුර කුමාර දිසානායක මහතා සමග එක්ව ක්‍රියාකිරීමට සූදානම් බවත් ෂී ජින් පිං මහතා පවසයි.
+
+එසේම, චීනය සහ ශ්‍රී ලංකාව අතර“එක් තීරයක් එක් මාවතක්”වැඩපිළිවෙළින් උසස් තත්ත්වයේ  ප්‍රතිඵල අත් කරගැනීමටත්, දෙරට අතර ස්ථාවර හා උපායමාර්ගික සහයෝගිතා හවුල්කාරිත්වය ප්‍රවර්ධනය සඳහාත් අඛණ්ඩව කටයුතු කරන බව චීන ජනාධිපතිවරයා සිය සුබ පැතුම් පණිවුඩයෙන් කියාසිටී.
+
+◼️
+
+[Data](articles/08cce46c.json)
+
+---
+
 ### Corporation
 
 *2024-09-24 09:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194658) · `ta`
@@ -303,6 +369,24 @@ The extraordinary events that took place in 2022 have reached their end in the r
 [Data](articles/5249957f.json)
 
 [Extended Data](ext_articles/5249957f.ext.json)
+
+---
+
+### ජනපති අනුර කාදිනල් හිමියන්ට දුන සහතිකය
+
+*2024-09-24 09:38:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-කාදිනල්-හිමියන්ට-දුන-සහතිකය/11-412102) · `si`
+
+නව ජනාධිපති අනුර කුමාර දිසානායක මහතා ඊයේ (23) පස්වරුවේ කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් වහන්සේ බැහැදැක ආශිර්වාද ලබා ගත්තේය.
+
+බොරැල්ල අගරදගුරු නිල නිවස වෙත පැමිණි ජනාධිපතිවරයා අගරදගුරු හිමිපාණන් වහන්සේ බැහැදැක සුව දුක් විමසා කෙටි පිළිසඳරක නිරත විය.
+
+මෙහිදී අදහස් දැක්වූ කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් වහන්සේ,
+
+ශ්‍රී ලංකාවේ වැඩිම ජනතාවකගේ කැමැත්තෙන් ජනාධිපති ධූරයට පත් අනුර කුමාර දිසානායක මහතාට මම සුබ පතනවා. මේ අවස්ථාවේදී ශ්‍රී ලංකාව තුළ අවශ්‍යම වෙනසක් ඇති කිරීමේ භාරදූර වගකීම එතුමාගේ කර මතට රටේ ජනතාව විසින් පවරා තිබෙනවා. මෙය භාරදූර හා දූෂ්කර කටයුත්තක් විය හැකියි. අප එතුමාට අපේ සම්පූර්ණ සහයෝගයත්, ආශිර්වාදයත් ඒ සඳහා ලබාදෙන බවට ප්‍රතිඥා දෙනවා. විශේෂයෙන් මෙරට දිළිදු ජනතාව පිළිබඳ නිතරම සිතමින් ඔබතුමාගේ කටයුතු ඉදිරියට කරගෙන යන ලෙස මා ඔබතුමාගෙන් ඉල්ලා සිටිනවා.
+
+...
+
+[Data](articles/eed9aa7f.json)
 
 ---
 
@@ -729,6 +813,22 @@ Responding to a question asked by a journalist, Archbishop Cardinal Malcolm Ranj
 [Data](articles/168be29d.json)
 
 [Extended Data](ext_articles/168be29d.ext.json)
+
+---
+
+### பேராயரை சந்தித்தார் ஜனாதிபதி அனுர...
+
+*2024-09-24 07:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராயரை-சந்தித்தார்-ஜனாதிபதி-அனுர/175-344356) · `ta`
+
+புதிய ஜனாதிபதி அநுரகுமார திஸாநாயக்க நேற்று (23) கொழும்பு பேராயர் கர்தினால் மெல்கம் ரஞ்சித் ஆண்டகையைச் சந்தித்து ஆசி பெற்றார். பொரளையில் பேராயரின் உத்தியோகபூர்வ இல்லத்திற்கு விஜயம் செய்த ஜனாதிபதி, பேராயரைச் சந்தித்து நலம் விசாரித்ததுடன் சிறிது நேரம் உரையாடலில் ஈடுபட்டார்.
+
+இலங்கையின் பெரும்பான்மையான மக்களின் விருப்பத்தினால் ஜனாதிபதியாக தெரிவுசெய்யப்பட்டுள்ள அநுரகுமார திஸாநாயக்க அவர்களுக்கு எனது வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றேன். இந்தச் சந்தர்ப்பத்தில் இலங்கையில் தேவையான மாற்றத்தை ஏற்படுத்தும் பாரிய பொறுப்பை நாட்டு மக்கள் அவரிடம் ஒப்படைத்துள்ளனர்.
+
+இது பொறுப்பு வாய்ந்த மற்றும் கடினமான பணியாக இருக்கலாம். அதற்காக அவருக்கு நாம் முழு ஆதரவையும் ஆசிகளையும் வழங்குவோம் என்று உறுதியளிக்கிறோம். குறிப்பாக இந்நாட்டின் வறிய மக்களைப் பற்றி சிந்தித்து உங்கள் பணியை தொடருமாறு கேட்டுக்கொள்கிறேன்.
+
+...
+
+[Data](articles/7c15102f.json)
 
 ---
 
@@ -1760,6 +1860,18 @@ The Israeli military spokesman today (23) said that more than 300 Hezbollah targ
 
 ---
 
+### இஸ்ரேலின் தாக்குதலில் 182 பேர் பலி
+
+*2024-09-23 20:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-182-பேர்-பலி/50-344336) · `ta`
+
+300க்கும் மேற்பட்ட ஹிஸ்புல்லா இலக்குகள் தாக்கப்பட்டதாக இஸ்ரேலிய இராணுவப் பேச்சாளர் இன்று (23) தெரிவித்துள்ள நிலையில், சிறுவர்கள், பெண்கள், மருத்துவப் பணியாளர்கள் உள்ளடங்கலாக 182 பேர் இஸ்ரேலியத் தாக்குதல்களில் இன்று கொல்லப்பட்டதாகவும் 727 பேர் காயமடைந்துள்ளதாகவும் லெபனானின் சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/62e208b9.json)
+
+---
+
 ### United National Party resolution to call the United People's Power to work together - Special meeting today
 
 *2024-09-23 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194644) · `ta`
@@ -1981,149 +2093,5 @@ Defence Secretary post is once of the important portfolio in the island nation a
 [Data](articles/e6a11551.json)
 
 [Extended Data](ext_articles/e6a11551.ext.json)
-
----
-
-### Ananda Wijayapala was appointed as the Presidential Private Secretary
-
-*2024-09-23 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201479) · `si`
-
-Ananda Wijayapala named Presidential Private Secretary. President Anura Kumara Dissanayake appoints him. Government Information Department issues statement.
-
-🟩
-
-President Anura Kumara Dissanayake is the Private Secretary.Ananda Wijayapala has been appointed.
-
-The Government Information Department issued a statement.
-
-◼️
-
-[Data](articles/14cf3039.json)
-
-[Extended Data](ext_articles/14cf3039.ext.json)
-
----
-
-### The journalist verdict as a chess criminal
-
-*2024-09-23 18:47:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்-சதுரங்க-குற்றவாளி-என-தீர்ப்பு/175-344328) · `ta`
-
-Journalist Desmond Chenga de Alwis convicted of contempt for false allegations against Court of Appeal judges. He fled before trial, leading to prosecution in absentia. Attorney General filed charges under Article 105(3) of Constitution.
-
-🟩
-
-The Court of Appeal has ruled that Internet journalist Desmond Chenga de Alwis is guilty of contempt of court for uploading a web article containing false allegations against the Court of Appeal.
-
-Judges of the Court of Appeal, Sobhitha Rajakaruna, Menaka Wijesundara and Mayadunne Korea, said the allegations against the accused have been undoubtedly proved.. The court further ruled that the accused should be punished for such contempt.
-
-However, when the Magistrate's investigation was pending, he left the court and left the country, and the court contempt was sued in the absence of the accused.
-
-On April 30, 2020, the Attorney General filed a law against him under Article 105 (3) of the Constitution for imposing bribery and corruption charges against the appeals court judges on April 30, 2020.
-
-Additional Solicitor General Thilan Ratnayake appeared with Deputy Solicitor General Saya Sri Namuni on behalf of the Attorney General.
-
-◼️
-
-[Data](articles/47295e63.json)
-
-[Extended Data](ext_articles/47295e63.ext.json)
-
----
-
-### “I am not a magician; I am not a miracle-worker. There are things I know and don’t know. But I will commit myself to doing the right thing at all times, and lead a collective effort to rebuild our nation,” Says Sri Lanka’s new President Anura Kumara Dissanayake at swearing in event
-
-*2024-09-23 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84780) · `en`
-
-Sri Lanka’s newly elected President Anura Kumara Dissanayake on Monday (September 23, 2024) promised to strengthen democracy and “work hard to win people’s trust”, with the disclaimer that he is no “magician”.
-
-“I am not a magician; I am not a miracle-worker. There are things I know and don’t know. But I will commit myself to doing the right thing at all times, and lead a collective effort to rebuild our nation,” he said, in his first address as President, just after being sworn in at the Presidential Secretariat in Colombo. It is the building that protesters stormed in July 2022, as they ousted former President Gotabaya Rajapaksa amid a severe financial meltdown.
-
-...
-
-[Data](articles/f47bfe9c.json)
-
-[Extended Data](ext_articles/f47bfe9c.ext.json)
-
----
-
-### 120,000 Treasury Bills of Rs. 120,000 million
-
-*2024-09-23 18:11:31* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-120-000-ක---භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-අනිද්දා/11-412094) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Central Bank auctions Treasury Bills: 120,000 million total value, 25,000 million auctioned. 70,000 million issued. Payment due Sept 27.
-
-🟩
-
-The Treasury Bill auction is held will be held on a sum of Rs. 25,000 million.
-
-The Central Bank said that the Treasury bills of Rs. 70,000 worth Rs.. The Treasury bill issue and payment is due to be made on September 27.
-
-◼️
-
-[Data](articles/5a33a26e.json)
-
-[Extended Data](ext_articles/5a33a26e.ext.json)
-
----
-
-### Chandrika congratulates President Anura
-
-*2024-09-23 18:08:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அனுரவுக்கு-சந்திரிக்கா-வாழ்த்து/175-344325) · `ta`
-
-Chandrika congratulates President Anura Dissanayake, wishing strength for a new era of Sri Lankans.
-
-🟩
-
-Former President Chandrika Bandaranaike Kumaratunga congratulates President Anura Dissanayake.
-
-The greeting message stated that they will be strengthened to create the new era of Sri Lankans.
-
-◼️
-
-[Data](articles/c5e22015.json)
-
-[Extended Data](ext_articles/c5e22015.ext.json)
-
----
-
-### Israeli air strikes killed in Lebanon
-
-*2024-09-23 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201478) · `si`
-
-Israel's air strikes in Lebanon resulted in over 100 casualties. The attacks targeted specific locations in South Lebanon.
-
-🟩
-
-At least 100 people were killed by Israel's air strikes at the South Lebanon on the target targets.
-
-◼️
-
-[Data](articles/030febdf.json)
-
-[Extended Data](ext_articles/030febdf.ext.json)
-
----
-
-### Veteran traditional dancer Vajira Chitrasena passes away
-
-*2024-09-23 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102220/veteran-traditional-dancer-vajira-chitrasena-passes-away) · `en`
-
-Veteran Sri Lankan traditional dancer, choreographer and teacher, Deshamanya Dr. Vajira Chitrasena has passed away at the age of 92.
-
-Vajira and her husband Chitrasena are known for their close bond with India and for their contributions in strengthening the ties between the two countries in the field of arts. She made her debut as soloist in the role of Prakriti in the ballet ‘Chandali’ in 1952.
-
-Her rise to stardom was coupled with unswerving discipline and dedication both as teacher, performer and choreographer, even as she illumined her husband’s career.
-
-She was announced as an honorable recipient of the prestigious Padma Shri award for her achievement in arts in January 2020 and the award was given by Indian President Ram Nath Govind during the Padma Awards Investiture Ceremony which was held on 8 November 2021.
-
-◼️
-
-[Data](articles/13a4e2e3.json)
-
-[Extended Data](ext_articles/13a4e2e3.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 10:38:30**
+As of **2024-09-24 10:57:09**
 
 ## Newspaper Stats
 
-*Scraped **45,936** Articles*
+*Scraped **45,940** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 382
+dbsjeyarajcom | 384
 bbccomsinhala | 449
 colombotelegraphcom | 458
 islandlk | 2,696
@@ -17,20 +17,64 @@ economynextcom | 2,773
 dailyftlk | 3,053
 adalk | 4,219
 dailymirrorlk | 4,733
-adaderanalk | 5,407
+adaderanalk | 5,408
 tamilmirrorlk | 6,128
 virakesarilk | 7,329
-adaderanasinhalalk | 7,946
+adaderanasinhalalk | 7,947
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,936 (100.0%) of 45,936 articles have been extended.
+45,940 (100.0%) of 45,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### A statement on Sri Lanka from the International Monetary Fund
+
+*2024-09-24 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201491) · `si`
+
+International Monetary Fund supports Sri Lanka's economic recovery efforts, focusing on maintaining stability during the ongoing crisis. IMF program discussions continue with new governance for the next phase.
+
+🟩
+
+A Sri Lankan President Anura Kumara Dissanayake and his team is expected to deal with his team.
+
+The International Monetary Fund says that it can maintain economic fund, especially when Sri Lanka has faced the economic crisis achieved.
+
+It is also discussed that the International Monetary Fund program will discuss with the new governance regarding the third period.
+
+◼️
+
+[Data](articles/2a040e34.json)
+
+[Extended Data](ext_articles/2a040e34.ext.json)
+
+---
+
+### Japan’s remote Izu islands hit by small tsunami after magnitude 5.9 earthquake
+
+*2024-09-24 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102229/japans-remote-izu-islands-hit-by-small-tsunami-after-magnitude-59-earthquake) · `en`
+
+Japan’s remote Izu islands south of Tokyo were hit by a small tsunami on Tuesday with no immediate reports of damage, after a magnitude-5.9 earthquake occurred near an unpopulated island farther south in the Pacific Ocean.
+
+A tsunami of 50 cm (1.6 ft) reached Hachijo island, one of the Izu islands, about 40 minutes after the earthquake, according to the Japan Meteorological Agency.
+
+No damage from the tsunami or the earthquake has been confirmed, public broadcaster NHK reported.
+
+The meteorological agency previously said residents of Izu and Ogasawara islands must be prepared for a tsunami as high as 1 m (3.3 ft) hitting the coast.
+
+No major tremor was observed since the earthquake occurred undersea near the unpopulated Torishima island about 600 km (370 miles) south of Tokyo, the agency added.
+
+...
+
+[Data](articles/61dfccba.json)
+
+[Extended Data](ext_articles/61dfccba.ext.json)
+
+---
 
 ### A powerful earthquake in Japan's islands
 
@@ -418,13 +462,15 @@ Meanwhile, President Anura Kumara Dissanayake had gone to Dentegahapuliya, Colom
 
 *2024-09-24 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102226/imf-to-work-with-sri-lankas-new-president-welcomes-creditor-agreement) · `en`
 
-(Reuters) - The International Monetary Fund welcomed on Monday last week’s announcement of an agreement in principle between Sri Lanka and a group of its international bondholders to restructure $12.5 billion in bonds, the fund said, adding it looks forward to working with newly elected president Anura Kumara Dissanayake.
+The International Monetary Fund welcomed on Monday last week’s announcement of an agreement in principle between Sri Lanka and a group of its international bondholders to restructure $12.5 billion in bonds, the fund said, adding it looks forward to working with newly elected president Anura Kumara Dissanayake.
 
 “We look forward to working together with President Dissanayake and his team towards building on the hard-won gains that have helped put Sri Lanka on a path to economic recovery,” a spokesperson for the fund said via email.
 
 The fund said it will discuss the timing of its third review of the current program with Sri Lanka “as soon as practicable.”
 
-◼️
+Full Statement by the IMF Spokesman: “We look forward to working together with President Dissanayake and his team towards building on the hard-won gains that have helped put Sri Lanka on a path to economic recovery since entering one of its worst economic crises in 2022.
+
+...
 
 [Data](articles/64e10161.json)
 
@@ -1204,6 +1250,26 @@ The people of Sri Lanka have spoken. In a historic moment, Anura Kumara Dissanay
 
 ---
 
+### 
+
+*2024-09-24 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84782) · `en`
+
+President  Dissanayake to Appont  Four Member Cabinet Including Himself,  to be in charge of 15 Portfolios. Harini Amarasuria to be Prime Ministe with  Vijitha Herath and Lakshman Nipuna Arachchi as Ministers.Parliament will be Dissolved and Fresh Elections held in December
+
+Parliament will be dissolved tonight(24) and a Parliamentary Election will be held by December, the Daily Mirror exclusively learns.
+
+Following the resignation of Dinesh Gunawardena as the Prime Minister yesterday, a senior source from the National People’s Power (NPP) said that President Anura Kumara Dissanayake will today appoint an interim cabinet of four ministers, including himself, where 15 portfolios will be divided within them.
+
+According to a list exclusively obtained by the Daily Mirror, President Dissanayake will keep the Tourism, Defence, Finance, Justice, Industry and Investment Promotion portfolios while the Prime Minister will become the Minister of Foreign Affairs, Education, and Mass Media among others.
+
+...
+
+[Data](articles/4f007bb6.json)
+
+[Extended Data](ext_articles/4f007bb6.ext.json)
+
+---
+
 ### Open letter to AKD
 
 *2024-09-24 00:54:49* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-AKD/14-767042) · `en`
@@ -1409,6 +1475,22 @@ Ananda Wijebala has long been the exclusive secretary of the National People's P
 [Data](articles/4dba251d.json)
 
 [Extended Data](ext_articles/4dba251d.ext.json)
+
+---
+
+### Presidents May Come and  Presidents May Go but JR Jayewardene’s Executive Presidency Goes on Forever.
+
+*2024-09-23 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84762) · `en`
+
+Sri Lanka’s ninth presidential election will be held  on Saturday the 21st of September. More than 17 million (17,140, 354)  Sri Lankans are registered as eligible voters. Nominally thirty-eight candidates are in the ring but only three are regarded as  te leading contenders. The hectic election campaigns ended on Sep 18 but election fever is high.  A large voter turn out is expected on election day.
+
+It is indeed an irony that there is so much of enthusiasm  over the election of the executive president  despite the criticism directed against the executive presidential system in past  years. The executive presidency is blamed extensively on the one hand while the country gets involved in  presidential poll excitement on the other.
+
+...
+
+[Data](articles/eabab93d.json)
+
+[Extended Data](ext_articles/eabab93d.ext.json)
 
 ---
 
@@ -1718,6 +1800,22 @@ Additional Solicitor General Thilan Ratnayake appeared with Deputy Solicitor Gen
 
 ---
 
+### “I am not a magician; I am not a miracle-worker. There are things I know and don’t know. But I will commit myself to doing the right thing at all times, and lead a collective effort to rebuild our nation,” Says Sri Lanka’s new President Anura Kumara Dissanayake at swearing in event
+
+*2024-09-23 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84780) · `en`
+
+Sri Lanka’s newly elected President Anura Kumara Dissanayake on Monday (September 23, 2024) promised to strengthen democracy and “work hard to win people’s trust”, with the disclaimer that he is no “magician”.
+
+“I am not a magician; I am not a miracle-worker. There are things I know and don’t know. But I will commit myself to doing the right thing at all times, and lead a collective effort to rebuild our nation,” he said, in his first address as President, just after being sworn in at the Presidential Secretariat in Colombo. It is the building that protesters stormed in July 2022, as they ousted former President Gotabaya Rajapaksa amid a severe financial meltdown.
+
+...
+
+[Data](articles/f47bfe9c.json)
+
+[Extended Data](ext_articles/f47bfe9c.ext.json)
+
+---
+
 ### 120,000 Treasury Bills of Rs. 120,000 million
 
 *2024-09-23 18:11:31* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-120-000-ක---භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-අනිද්දා/11-412094) · `si`
@@ -2009,131 +2107,5 @@ Accordingly, Mr. Kananda Wijayapala has been appointed as the Presidential Priva
 [Data](articles/c69bbc55.json)
 
 [Extended Data](ext_articles/c69bbc55.ext.json)
-
----
-
-### Actor Karthi's Mahad Raghavendra's 'Kadaye Kalvee'
-
-*2024-09-23 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194618) · `ta`
-
-Here's a 200-character summary of the article:
-
-
-
-Actor Karthi congratulates Mahad Raghavendra's romantic film 'Kadaye Kalvee'. Directed by R. Mahath Raghavendra, produced by Sri Vari Film Company. Shooting complete, post-production underway. Heroine's expectations raised, love story unfolds.
-
-🟩
-
-Actor Mahad Raghavendra has been released as a romantic prince. The leading star actor Karthi posted it on his web page and congratulated the film crew.
-
-Director r. Mahath Raghavendra, Meenakshi Govindarajan, Director Himayam Bharathiraja, VTV Ganesh, Ravina Ravi, Raj Iyappa, Raja Iyappa, Srija, V J Ashik, Akshada, Parvesh
-
-Producer Bu on behalf of Sri Vari Film Company. Produced by Ranganathan.
-
-The shooting of the film is completed and the post -shooting final and technical work is underway.
-
-In this case, the film has been released. In this, the hero of the story has increased the expectation of the heroine of the story, love, and then appearing as a young man who is abandoning, and the heroine of the heroine.
-
-◼️
-
-[Data](articles/511232f7.json)
-
-[Extended Data](ext_articles/511232f7.ext.json)
-
----
-
-### Last World War - Film Review
-
-*2024-09-23 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194625) · `ta`
-
-"Last World War" film review: Tamil Nadu 2028. Politician's daughter kidnapped. UN officer saves her. Riots erupt. China-Russia alliance attacks India. Hero blamed as terrorist. Action-packed plot with weak screenplay. Director Hip Hop Tamil Adi delivers engaging background score.
-
-🟩
-
-Actors: Hip Hop Tamil Adi, Nasser, Harish Uthaman, Natti alias Natraj, Anaka, Kumaravel, Kalyan Master, Muniskant, Beauty Perumal and many others.
-
-Hip Hop Tamil Adi Director and Producer of the film 'Last World War'. Did the 'Last World War' attracted the Hip Hop Tamil Adi attracted all the fans of the war, the war, and why the war is not necessary?Or not?Let's see.
-
-The story begins through the voice of Natraj. The story is also created in Tamil Nadu in 2028.
-
-At that moment, Nasser is the Chief Minister of the state of Tamil Nadu.
-
-He has a daughter as Kirtana (Anaka). Natraj alias Natti is the Chief Minister's proximity in the relationship of Machan.
-
-He calls himself a King Maker and invests in Nasser's reputation and earns a large sum of money.
-
-At this moment, the containers with several thousand crores of rupees visit the port of Chennai.
-
-...
-
-[Data](articles/e7d85478.json)
-
-[Extended Data](ext_articles/e7d85478.ext.json)
-
----
-
-### Appointment of New Defense Secretary
-
-*2024-09-23 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/194614) · `ta`
-
-New Defense Secretary: Air Vice Marshal HS Tuyakonda appointed by President Anura Kumara Dissanayake. Retired Air Force officer with Chinese security education background. Former commanding officer of attack helicopters and air force base commander.
-
-🟩
-
-Air Vice Marshal HS of retired Air Force as the new Secretary of the Ministry of Defense. Tuyakonda has been appointed.
-
-The appointment has been appointed by President Anura Kumara Dissanayake in accordance with the authority given by Article 52 (i) of the Constitution of the Democratic Socialist Republic of Sri Lanka.
-
-He is a scientific graduate of the Chinese National Security University Security Education and is a graduate of the National Security University of Kotalawala.
-
-Former Commanding Officer of the MI 24 Attack Helicopter, Former Commander of the Anuradhapura Air Force BaseSurah has also won medals.
-
-◼️
-
-[Data](articles/17be5eb2.json)
-
-[Extended Data](ext_articles/17be5eb2.ext.json)
-
----
-
-### First Muslim female announcer has passed away
-
-*2024-09-23 16:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாவது-முஸ்லிம்-பெண்-அறிவிப்பாளர்-காலமானார்/175-344320) · `ta`
-
-Aisha Junaidin, pioneering Muslim female announcer, passes away at 74. She was Sri Lanka's first Muslim female news reader on radio and TV. Junaidin also produced children's events and translated Tamil programs for Rupavahini. Her legacy in media and broadcasting is significant.
-
-🟩
-
-Aisha Junaidin passed away as the first Muslim female news reader to read the news on Sri Lankan radio and the first Muslim female announcer in the television.. He was 74 years old at the time.
-
-The first woman producer of the Muslim Service, VA Kapoor's recommendation, has the opportunity to perform the "Finch Mind" children's event, entered the old city from the old city of Chilaw from the old city and became the first female producer of the Muslim service.. She was the first Muslim woman news reader to read the news on Sri Lankan radio.
-
-He also has the first Muslim female announcer who was reported in television at the beginning of the Rupavahini television.
-
-He has written a Tamil language translation to many famous countries aired in Rupawahini.. After the Janasa Azar prayer was done at the center of Kuppiawatam
-
-◼️
-
-[Data](articles/623d77a3.json)
-
-[Extended Data](ext_articles/623d77a3.ext.json)
-
----
-
-### New Member of Parliament appointed to the empty seat of Parliament
-
-*2024-09-23 16:54:00* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-හිස්-වූ-අසුනට-නව-මන්ත්‍රීවරයෙක්-පත්-කෙරේ/11-412091) · `si`
-
-Anura Kumara Dissanayake appoints new MP to vacant seat after previous member resigned. Special gazette notification issued for appointment.
-
-🟩
-
-Anura Kumara Dissanayake has issued a special gazette notification for the Parliament seat was empty by the resignation of the post of MP.
-
-◼️
-
-[Data](articles/a5420c8f.json)
-
-[Extended Data](ext_articles/a5420c8f.ext.json)
 
 ---

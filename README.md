@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 11:58:32**
+As of **2024-09-24 12:13:27**
 
 ## Newspaper Stats
 
-*Scraped **45,960** Articles*
+*Scraped **45,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,773
 dailyftlk | 3,053
 adalk | 4,221
 dailymirrorlk | 4,733
-adaderanalk | 5,409
+adaderanalk | 5,410
 tamilmirrorlk | 6,132
-virakesarilk | 7,339
+virakesarilk | 7,341
 adaderanasinhalalk | 7,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,960 (100.0%) of 45,960 articles have been extended.
+45,963 (100.0%) of 45,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Grade 5 Scholarship Exam ‘paper leak’: Ministry promises ‘fair solution’
+
+*2024-09-24 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102231/grade-5-scholarship-exam-paper-leak-ministry-promises-fair-solution) · `en`
+
+The Ministry of Education says that further investigations area being carried out through the Criminal Investigation Department (CID) regarding the alleged leakage of questions in the question paper of the 2024 Grade 05 Scholarship Examination.
+
+The Secretary of the Education Ministry, Thilaka Jayasundara stated that a decision regarding whether to hold the Scholarship Examination again will be made immediately after considering the outcome of the investigations.
+
+Speaking to Ada Derana, the Education Ministry Secretary further stated that a ‘fair solution’ will be reached once the relevant investigations are completed.
+
+Meanwhile, the Director of the Planning Division of the National Institute of Education (NIE) in Maharagama, who was arrested by the CID yesterday (24) over the Grade 5 scholarship examination question paper issue, had been remanded until October 07.
+
+◼️
+
+[Data](articles/86b7212b.json)
+
+[Extended Data](ext_articles/86b7212b.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-09-24 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194677) · `ta`
+
+US dollar exchange rate: 299.7192 rupees buying, 309.0850 selling.
+
+🟩
+
+The US dollar purchasing price was 299.7192 rupees and the sales price at Rs 309.0850, based on the Central Bank's currency exchange rate today (24).
+
+◼️
+
+[Data](articles/f33bc906.json)
+
+[Extended Data](ext_articles/f33bc906.ext.json)
+
+---
 
 ### Nishan Peiris summoned to reserve
 
@@ -100,6 +138,32 @@ After the incident, two youths arrived on a motorcycle on Monday (23) and fled t
 
 ---
 
+### 31 people arrested by police with 300 liters of leaks in Kattankudi
+
+*2024-09-24 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194665) · `ta`
+
+31 arrests made in Kattankudi for illegal liquor production. 300 liters of illicit alcohol seized. Suspects to appear in court today.
+
+🟩
+
+Kattankudy police said that 31 persons have been arrested in areas under the Kattankudy Police Division with 300 liters of illegal leaky liquor.
+
+The Kattankudy Police Station Crime Branch and the Drug Prevention Police have been seized by the police.
+
+They have been arrested during a searches carried out by the Kattankudy Police under the guidance of Kattankudy Police Station, G. Gajanayake, under the direction of the Batticaloa District Senior Superintendent of Police, Amal.
+
+It has been revealed that the leak has been found in the Kattankudy Police Division, including Nagakkuda, Kalladi, Gramkulam, Thalanguda, Arayambathi, and housed in houses.
+
+The suspects are to be produced before the Batticaloa Magistrate's Court today, police said.
+
+◼️
+
+[Data](articles/bb0445e0.json)
+
+[Extended Data](ext_articles/bb0445e0.ext.json)
+
+---
+
 ### New Cabinet to be sworn in today; discussion on dissolving Parliament
 
 *2024-09-24 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102230/new-cabinet-to-be-sworn-in-today-discussion-on-dissolving-parliament) · `en`
@@ -118,7 +182,7 @@ Furthermore, he said that later they will discuss the dissolution of the Parliam
 
 ### Earthquake in Japan;Tsunami warning
 
-*2024-09-24 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194672) · `ta`
+*2024-09-24 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194672) · `ta`
 
 Japan earthquake triggers tsunami warning: USGS issues alert for remote islands. Local authorities advise waves may reach 1 meter.
 
@@ -2071,71 +2135,5 @@ Accordingly, 50,000 rupees for a candidate who contested through the authorized 
 [Data](articles/61d2d39b.json)
 
 [Extended Data](ext_articles/61d2d39b.ext.json)
-
----
-
-### Ali Sabri put an end to politics
-
-*2024-09-23 19:29:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலுக்கு-முற்றுப்புள்ளி-வைத்தார்-அலி-சப்ரி/175-344332) · `ta`
-
-Sri Lanka's External Affairs Minister Ali Sabri announces retirement from politics. He expresses gratitude to supporters, acknowledging their guidance and constructive criticism. Sabri remains optimistic about Sri Lanka's future, closing his political chapter with hope for the country's progress.
-
-🟩
-
-External Affairs Minister Ali Sabri said he is now leaving political life.
-
-I extend my sincere gratitude to all those who have concluded my public duties and supported my efforts, guided, and constructive criticism. Your confidence and encouragement are the pillars that have bear me throughout this journey.
-
-When I close this chapter, I will always carry with me the subjects and memories of the period of this service. Like all of you, I am confident that Sri Lanka will fulfill its full energy in the coming days. Once again he mentioned thanks. Remble
-
-◼️
-
-[Data](articles/a441105d.json)
-
-[Extended Data](ext_articles/a441105d.ext.json)
-
----
-
-### Kanchana says goodbye
-
-*2024-09-23 19:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைபெறுகிறார்-காஞ்சன/175-344331) · `ta`
-
-Kanchana bids farewell, mentioning vehicle renovation, energy reserve management, and economic improvements. She thanks supporters and highlights challenges in electricity and fuel supply.
-
-🟩
-
-I renovated the government vehicles and my office yesterday, and I have kept the coal reserves for adequate petroleum products and electricity production and fuel supply, despite my authority and the Ministry of Energy and Energy.
-
-All companies are now in a positive balance sheet, restoring costs for its services, paying offer timely payment, paying off the outstanding loan and providing extra revenue to the treasury.
-
-President Ranil, colleagues, my family, friends, ministries and officials of the Ministry and Institutions, I would like to thank all those who have helped various government and private partners in the last two years.
-
-4-13 hours of electricity, no fuel situation, no coal, no coal, no petroleum products, no suppliers, no money, no money, no defined hydro capacity from 2022, uninterrupted fuel supply and power generation for coal, petroleum products, hydro accalib and financially strong enoughI am currently holding it, he said.
-
-◼️
-
-[Data](articles/15389499.json)
-
-[Extended Data](ext_articles/15389499.ext.json)
-
----
-
-### Sri Lankan bonds slide as election result puts IMF loan at risk - Bloomberg
-
-*2024-09-23 19:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102221/sri-lankan-bonds-slide-as-election-result-puts-imf-loan-at-risk-bloomberg) · `en`
-
-Sri Lanka’s dollar bonds slid as leftist candidate Anura Kumara Dissanayake’s victory at the presidential election put the nation’s bailout by the International Monetary Fund and debt deals at peril, the Bloomberg reported.
-
-Bonds maturing in March 2029 declined 3.1 cents, the biggest drop in about two years, to 50.2 cents on the dollar on Monday. The S&P Sri Lanka 20 Index of blue-chip stocks reversed intraday losses to trade 2.2% higher. The rupee gained as Dissanayake said the island nation needs international support and his government will work with all.
-
-He had earlier vowed to reopen negotiations with the IMF over its $3 billion bailout, which comes with spending cuts and tax hikes that proved deeply unpopular with voters.
-
-“A Dissanayake win is the worst possible outcome for Sri Lanka’s bonds,” Tellimer strategists Hasnain Malik and Patrick Curran wrote in a note Sunday.
-
-...
-
-[Data](articles/d242690d.json)
-
-[Extended Data](ext_articles/d242690d.ext.json)
 
 ---

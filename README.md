@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 21:58:10**
+As of **2024-09-24 22:12:58**
 
 ## Newspaper Stats
 
-*Scraped **46,075** Articles*
+*Scraped **46,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,243
+adalk | 4,244
 dailymirrorlk | 4,733
 adaderanalk | 5,426
 tamilmirrorlk | 6,159
 virakesarilk | 7,363
-adaderanasinhalalk | 7,964
+adaderanasinhalalk | 7,965
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,075 (100.0%) of 46,075 articles have been extended.
+46,077 (100.0%) of 46,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### The girl who was sleeping in the father's arms
+
+*2024-09-24 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201511) · `si`
+
+Here's a 200-character summary:
+
+
+
+17-year-old youth arrested for abducting sleeping girl (17) in Piliyandala. Incident occurred on 22nd. Suspect claims "heavy consent". Girl identified by mother. Case to be presented in court. Victim unharmed.
+
+🟩
+
+A 17-year-old youth was arrested in Piliyandala area.
+
+The suspect had worked to leave the wrap near the house due to the girl scream.
+
+The incident had occurred at a house in Piliyandiya on the 22nd.
+
+The girl's mother is sleeping in another room due to illness and is sleeping with father the girl.
+
+She also observed how the girl was sleeping at the time of his visit to the bathroom about 11.45 pm.
+
+"A plastic chair is shaking sound. Mother's shouting is no child. The window was far away. I thought someone took the child. "
+
+"I and daughter were sleeping. When the baby didn't hear, I heard. I went into the kitchen and didn't run. Mom and note shouted. I climbed out ... Then I took the daughter in the nearby daughter. "
+
+The police stating that after the incident, the police had revealed the suspect.
+
+According to the serupe, a 17-year-old youth was resident of Siyambalagahawatta area.
+
+After showing the mother of the prelate, she showed the mother of the suspect, she was confirmed by her son.
+
+...
+
+[Data](articles/8d1c33ea.json)
+
+[Extended Data](ext_articles/8d1c33ea.ext.json)
+
+---
 
 ### Elections Commission explains about parliamentary elections
 
@@ -235,6 +275,32 @@ President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorro
 [Data](articles/1bd9b14c.json)
 
 [Extended Data](ext_articles/1bd9b14c.ext.json)
+
+---
+
+### 11 months of the 11 months of security guard at hospital
+
+*2024-09-24 19:48:19* · [`adalk`](https://www.ada.lk/breaking_news/මවුපිය-ගැටුමට-මැදි-වූ-මාස-11-සිඟිත්තිය--ආරක්ෂක-හිස්-වැසුම්-පහරින්-බරපතල-තුවාල-ලබා-රෝහලේ/11-412127) · `si`
+
+Anguruwa Police said that the 11 months old injuries have been hospitalized after the husband's helmets
+
+Police said that the attack had been attacked in front of a green gallery shop after a dispute between 28 and 31 years old-old coupled in the Green village door.
+
+Police investigations have revealed that the dispute had taken place on a casual affair that a woman was running with a woman in an adjoining house, police investigations
+
+Hospital news reportsMeans the roads
+
+The police said that the complainant had gone to the Horana Base Hospital with the court medical form and had been injured and taken to the Horana Base Hospital.
+
+The girl and mother are currently receiving treatment at the Horana Base Hospital Number Number at Horana Base Hospital Number
+
+Investigations are conducted on the instructions of OIC of Athuruguratota
+
+◼️
+
+[Data](articles/1fa11d1f.json)
+
+[Extended Data](ext_articles/1fa11d1f.ext.json)
 
 ---
 
@@ -2359,49 +2425,5 @@ The US dollar purchasing price was 299.7192 rupees and the sales price at Rs 309
 [Data](articles/f33bc906.json)
 
 [Extended Data](ext_articles/f33bc906.ext.json)
-
----
-
-### Nishan Peiris summoned to reserve
-
-*2024-09-24 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201495) · `si`
-
-Sri Lanka replaces injured fast bowler with spinner Nishan Peiris for NZ Test series starting Sept 26.
-
-🟩
-
-Since fast bowler is under a disorder, he has added to the spin-player Nishan Peiris to the Sri Lanka Test squad.
-
-The second Test between New Zealand and Sri Lanka will commence on September 26.
-
-◼️
-
-[Data](articles/5a0befbb.json)
-
-[Extended Data](ext_articles/5a0befbb.ext.json)
-
----
-
-### New Cabinet sworn in today
-
-*2024-09-24 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201494) · `si`
-
-Here's a 200-character summary:
-
-
-
-"New Cabinet sworn in today. Vijitha Herath, MP, confirms swearing-in ceremony. Cabinet to discuss Parliament dissolution with President."
-
-🟩
-
-Vijitha Herath, MP, says that the new cabinet is to be sworn in this day.
-
-He further stated that they will discuss with the President regarding the dissolution of Parliament.
-
-◼️
-
-[Data](articles/19711082.json)
-
-[Extended Data](ext_articles/19711082.ext.json)
 
 ---

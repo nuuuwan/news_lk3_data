@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 19:11:43**
+As of **2024-09-24 19:23:12**
 
 ## Newspaper Stats
 
-*Scraped **46,058** Articles*
+*Scraped **46,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,053
 adalk | 4,238
 dailymirrorlk | 4,733
 adaderanalk | 5,424
-tamilmirrorlk | 6,154
+tamilmirrorlk | 6,156
 virakesarilk | 7,360
 adaderanasinhalalk | 7,962
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 7,962
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,057 (100.0%) of 46,058 articles have been extended.
+46,058 (100.0%) of 46,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### ”அங்கொடைக்கு அனுப்ப வேண்டும்”
+
+*2024-09-24 18:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கொடைக்கு-அனுப்ப-வேண்டும்/175-344393) · `ta`
+
+தாம் எந்தக் கட்சியை ஆதரித்தாலும் அந்தக் கட்சி தேர்தலில் தோல்வியடையும் என்று கூறுவதை விமர்சித்த ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க, இந்தக் கூற்றுக்கள் தற்போது தம்மைத் தாக்கும் வழக்கமான முயற்சியின் ஒரு பகுதியாகும் என்று கூறினார்.
+
+"எப்போதுமே வெற்றி பெற்ற ஒருவரின் பெயரைக் கூறுங்கள்? அப்படியானால், அநுரகுமார திஸாநாயக்கவின் கட்சி 60 வருடங்கள் தோல்வியடைந்தது. நாங்கள் மிகவும் கடினமாக உழைத்துள்ளோம், நீங்கள் வெற்றி பெறலாம் அல்லது தோற்கலாம். தொடர்ந்து வெற்றி பெற்றவர்களோ, தோற்றவர்களோ எங்கும் இல்லை” என்று கூறினார்.
+
+இத்தகைய கருத்துகளின் நியாயம் குறித்து கேள்வி எழுப்பிய அத்தநாயக்க, இந்த கூற்றுக்கள் பழிவாங்கும் மற்றும் மனநலம் பாதிக்கப்பட்டவர்களால் கூறப்பட்டுள்ளதாக கூறினார். “இவ்வாறான கேள்விகளைக் கேட்பவர்களை அங்கொடைக்கு அனுப்ப வேண்டும், ஏனென்றால் அவர்கள் அரசியலில் ஈடுபடுபவர்கள் அல்ல,” என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/1b82fbf9.json)
+
+---
 
 ### "Send them to the place"
 
@@ -58,23 +74,31 @@ Ranil Wickremesinghe and Sajith Premadasa Alliance talks are made by outsiders. 
 
 ---
 
-### நாட்டில் நிலவும் ஊழல் கலாச்சாரம் இனிமேல் இல்லாதொழிக்கப்படும் என எதிர்பார்க்கிறோம் - இலங்கை சட்டத்தரணிகள் சங்கம்
+### We expect the corruption culture in the country to be eliminated - the Sri Lanka Lawyers Association
 
 *2024-09-24 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194723) · `ta`
 
-அரசியல், சமூக மற்றும் பொருளாதார ரீதியில் நாட்டில் நிலவும் ஊழல் கலாச்சாரம் இனிமேல் இல்லாதொழிக்கப்படும் என எதிர்பார்ப்பதாக இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+Sri Lanka Lawyers Association calls for elimination of corruption under new president. They congratulate Anura Kumara Dissanayake and hope he'll maintain rule of law, judicial independence, and unite communities free from racial, religious, and caste divisions.
 
-இலங்கை சட்டத்தரணிகள் சங்கம், நாட்டின் 9வது நிறைவேற்று ஜனாதிபதியாக தெரிவு செய்யப்பட்ட அனுரகுமார திஸாநாயக்கவுக்கு வாழ்த்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்துள்ளது.
+🟩
 
-இலங்கை சட்டத்தரணிகள் சங்கத்தின் பதில் தலைவர் ஜனாதிபதி சட்டத்தரணி அநுர மத்தேகொட கையொப்பமிட்ட அறிவிப்பிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+The Sri Lanka Lawyers Association says it expects the abolition of corruption culture in the country, political, social and economically.
 
-நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதி முறையின் கடமைகளையும் பொறுப்புக்களையும் நிறைவேற்றும் வலிமையும் தைரியமும் புதிய ஜனாதிபதிக்கு இருக்கும் என்றும் நம்புவோம்.
+The Sri Lanka Lawyers Association said this while congratulating Anura Kumara Dissanayake, the country's 9th Executive President.
 
-“சட்டத்தின் ஆட்சியும் நீதித்துறையின் சுதந்திரமும் தடையின்றி பேணப்படும் என்று புதிய ஜனாதிபதி மீது மக்கள் வைத்துள்ள நம்பிக்கையையும், திறமையற்ற அரச நிர்வாகத்தையும், அரசியல் ரீதியாக எமது தாய்நாடு முழுவதும் பரவியுள்ள ஊழல் கலாசாரத்தையும் மக்கள் காப்பாற்றுவார்கள், சமூக மற்றும் பொருளாதார விதிமுறைகள் இனி அகற்றப்படும் என்று நாங்கள் நம்புகிறோம்."
+The President of the Sri Lanka Lawyers Association, President's Attorney General Anura Mattegoda has announced this in a statement.
 
-...
+We hope that the new president will have the strength and courage to fulfill the duties and responsibilities of the executive presidency.
+
+“We hope that the rule of law and the independence of the judiciary will be maintained uninterrupted by the people's confidence in the new president, the ineffective state administration and the corruption that has spread throughout our homeland will be eliminated."
+
+He also said that the president would put a strong foundation for the great task of uniting the Sri Lankan community and creating a race, religion and caste -free communities that have affected us.
+
+◼️
 
 [Data](articles/57f49102.json)
+
+[Extended Data](ext_articles/57f49102.ext.json)
 
 ---
 
@@ -537,6 +561,20 @@ It is noteworthy that he is going to announce the new government's opposition pl
 [Data](articles/9237b165.json)
 
 [Extended Data](ext_articles/9237b165.ext.json)
+
+---
+
+### ஜனாதிபதி நாளை இரவு விசேட உரை
+
+*2024-09-24 16:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நாளை-இரவு-விசேட-உரை/175-344386) · `ta`
+
+ஜனாதிபதி அனுரகுமார திஸாநாயக்க நாளை(25) இரவு 7 மணிக்கு நாட்டு மக்களுக்கு உரையாற்றி விசேட அறிக்கையொன்றை வெளியிட உள்ளார்.
+
+இதன்போது , புதிய அரசாங்கத்தின் எதிர் காலத் திட்டங்களை அறிவிக்க உள்ளார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d07d2ebf.json)
 
 ---
 
@@ -2329,45 +2367,5 @@ The President visited the official residence of the Archbishop of Borella, met w
 [Data](articles/1598a508.json)
 
 [Extended Data](ext_articles/1598a508.ext.json)
-
----
-
-### AKD Sri Lanka’s last executive president, says party spokesman
-
-*2024-09-24 10:09:00* · [`economynextcom`](https://economynext.com/akd-sri-lankas-last-executive-president-says-party-spokesman-180780/) · `en`
-
-ECONOMYNEXT  — Newly sworn-in President Anura Kumara Dissanayake will be Sri Lanka’s last executive president, a senior member of his party the National People’s Power (NPP) said calling for public support in that regard.
-
-“You have elected today this country’s last executive president,” former MP and NPP front-liner Sunil Handunneththi said speaking to reporters outside the presidential secretariat in Colombo Monday September 23 morning.
-
-“There will be no more executive presidents henceforth. The president to abolish the executive president has been elected. We ask the people of the country to support that,” he said.
-
-The parliament will also be dissolved, Handunneththi, after a cabinet of ministers has been appointed. The privately owned Daily Mirror reported Tuesday morning that parliament will be dissolved at midnight. NPP legislator Harini Amarasuriya is also reported to be sworn in as prime minister on Tuesday.
-
-...
-
-[Data](articles/237611f3.json)
-
-[Extended Data](ext_articles/237611f3.ext.json)
-
----
-
-### World Heads and diplomats congratulate New President Anura Kumara Dissanayake
-
-*2024-09-24 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194660) · `ta`
-
-World leaders congratulate Anura Kumara Dissanayake on his presidency. US State Department pledges cooperation, emphasizing democratic values and national sovereignty. Diplomats from Pakistan, Maldives, India, UK, and France express support, promising strengthened bilateral ties and economic growth.
-
-🟩
-
-The US State Department, which has congratulated Anuragumara Dissanayake, the new president of Sri Lanka, has been prepared to work with the new president to further strengthen mutual relations between the two countries based on the value of democratic and national sovereignty.
-
-Many of the world's leaders, political representatives and diplomats congratulate Anuragumara Dissanayake, the country's ninth executive president.. Accordingly, the issues mentioned in the greeting of the leaders of the world and international diplomats are:
-
-...
-
-[Data](articles/3551c84e.json)
-
-[Extended Data](ext_articles/3551c84e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 09:11:57**
+As of **2024-09-24 09:23:09**
 
 ## Newspaper Stats
 
-*Scraped **45,921** Articles*
+*Scraped **45,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 382
 bbccomsinhala | 449
 colombotelegraphcom | 458
-islandlk | 2,695
+islandlk | 2,696
 economynextcom | 2,773
 dailyftlk | 3,053
 adalk | 4,216
 dailymirrorlk | 4,733
-adaderanalk | 5,405
-tamilmirrorlk | 6,121
+adaderanalk | 5,406
+tamilmirrorlk | 6,126
 virakesarilk | 7,329
 adaderanasinhalalk | 7,944
 
@@ -26,11 +26,127 @@ adaderanasinhalalk | 7,944
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,921 (100.0%) of 45,921 articles have been extended.
+45,928 (100.0%) of 45,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Northern Province Governor resigns
+
+*2024-09-24 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102227/northern-province-governor-resigns-) · `en`
+
+The Governor of the Northern Province P. S. M. Charles has resigned from her position.
+
+Meanwhile, several other provincial governors had also issued letters of resignation yesterday (23).
+
+The Governors had taken this decision following Anura Kumara Dissanayake’s swearing in as the President of Sri Lanka yesterday.
+
+◼️
+
+[Data](articles/59cc70fa.json)
+
+[Extended Data](ext_articles/59cc70fa.ext.json)
+
+---
+
+### Special announcement for Sri Lankans in Israel
+
+*2024-09-24 09:08:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலில்-உள்ள-இலங்கையர்களுக்கு-விஷேட-அறிவிப்பு/50-344361) · `ta`
+
+Sri Lankan Ambassador warns citizens in Israel about Hezbollah attacks. Advises them to seek shelter in nearby safe houses during security incidents.
+
+🟩
+
+The Sri Lankan Ambassador to Israel has appealed to the Sri Lankans who are staying in Israel.
+
+The Hizbullah organization from South Lebanon has carried out several shell and rocket attacks through the air in Haifa, Galile, Kollan and Nazareth in the northern part of Israel.
+
+The Sri Lankan Ambassador to Israel has announced to the Sri Lankans in Israel to look into these attacks from time to time.
+
+In every case of security noise, he said that Sri Lankans working in the northern region of Israel would go to the nearest safe houses and protect themselves.. Remble
+
+◼️
+
+[Data](articles/97e6aa8b.json)
+
+[Extended Data](ext_articles/97e6aa8b.ext.json)
+
+---
+
+### Israel's strike is nearing death 500
+
+*2024-09-24 09:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-சரமாரி-தாக்குதலில்-உயிரிழப்பு-500ஐ-நெருங்கியது/50-344360) · `ta`
+
+Israel strikes Hezbollah in Lebanon, killing 492 civilians, injuring over 700. UN expresses concern as Iran condemns the attack. Displaced residents flee, seeking shelter from ongoing airstrikes.
+
+🟩
+
+492 people, including women and children, were killed in an Israeli military's rocket attack targeting the status of Hizbullah terrorists in Lebanon;More than 700 people were injured.
+
+Hamas terrorists attacked last year. In support of Hamas, Hizbullah organizations in Lebanon, Israel's neighbor, also occasionally attack.
+
+Israel, who was hoping to end this, launched a direct attack on Hezbollah. With the help of the intelligence agencies, the pagers captured walkie talkies.
+
+Subsequently, airstrikes have launched an air strike on the Hizbullah soldiers lurking in Lebanon. Hundreds of people have been killed in the attack for the third day.
+
+Shortly before the attack, the phone calls from Israel to Lebanon cities. Leave the house immediately in it. A warning announcement will come about. In the next few minutes, Israeli planes are pouring bombshell.
+
+...
+
+[Data](articles/0563c476.json)
+
+[Extended Data](ext_articles/0563c476.ext.json)
+
+---
+
+### The main meeting to be held today in Colombo
+
+*2024-09-24 09:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-இடம்பெறவுள்ள-முக்கிய-சந்திப்பு/175-344359) · `ta`
+
+Colombo meeting: United People's Alliance party leaders gather today to discuss general election strategy. UNP invited to participate.
+
+🟩
+
+It is reported that a meeting between party leaders who are part of the United People's Alliance will take place today.
+
+The meeting will be held to discuss the upcoming general election.
+
+Leaders of political parties in the United People's Alliance have been invited to meet in Colombo.
+
+Meanwhile, it was reported that the United National Party (UNP) had been invited to contest the general election.. Remble
+
+◼️
+
+[Data](articles/13efd427.json)
+
+[Extended Data](ext_articles/13efd427.ext.json)
+
+---
+
+### The new cabinet is sworn in today
+
+*2024-09-24 08:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-இன்று-பதவிப்பிரமாணம்/175-344358) · `ta`
+
+New cabinet led by President Anura Kumara Dissanayake sworn in today. Cabinet appointments expected for general election. Funds allocated for parliamentary election. Gazette notification for parliament dissolution issued.
+
+🟩
+
+It is reported that the new Cabinet, which is headed by President Anura Kumara Dissanayake, will be sworn in today (24).
+
+Political sources say that Cabinet appointments will be made to hold a general election.
+
+However, political sources say that President Anura Kumara Dissanayake will convene the cabinet after the cabinet's sworn in and allocates the funds for the parliamentary election.
+
+Accordingly, it is also reported that the gazette notification for the dissolution of Parliament at midnight today is highly considering the current situation.. Remble
+
+◼️
+
+[Data](articles/4a890e5a.json)
+
+[Extended Data](ext_articles/4a890e5a.ext.json)
+
+---
 
 ### Extension of extensive investigations into the scholarship question paper
 
@@ -47,6 +163,32 @@ The Criminal Investigations Department (CID) is underway through the Criminal In
 [Data](articles/66c60c12.json)
 
 [Extended Data](ext_articles/66c60c12.ext.json)
+
+---
+
+### IMF to work with Anura. Ready
+
+*2024-09-24 08:26:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுடன்-பணியாற்ற-ஐ-எம்-எப்-தயார்/175-344357) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"IMF ready to work with Sri Lanka's new President Anura Kumara Dissanayake. Discussions to launch soon regarding third review."
+
+🟩
+
+The International Monetary Fund has announced that it is ready to work with Sri Lanka's new President Anura Kumara Dissanayake.
+
+This was stated in a statement issued by a spokesman for the IMF.
+
+In addition, the IMF spokesman said that discussions will be launched soon in connection with the third review.. (A)
+
+◼️
+
+[Data](articles/8c569554.json)
+
+[Extended Data](ext_articles/8c569554.ext.json)
 
 ---
 
@@ -1981,113 +2123,5 @@ He demanded an immediate solution to some issues in the Mannar district, which h
 [Data](articles/f5cb064d.json)
 
 [Extended Data](ext_articles/f5cb064d.ext.json)
-
----
-
-### Sri Lanka stocks close up, banks continue to gain
-
-*2024-09-23 16:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-continue-to-gain-180656/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 1.19 percent, or 130.30 points, at 11,096; while the more liquid S&P SL20 Index closed up 1.88 percent, or 58.43 points, at 3,160.
-
-“The positive momentum from last week continued, and investors – some of them who probably voted for the new president – are waiting to see what will be implemented,” Softlogic Stockbrokers said.
-
-“The new government has signaled that they are open to suggestions. They’ve proposed cutting expenditure. We are yet to hear how they will address issues.”
-
-The bigger banks were up; Hatton National Bank (up at 174.25), Commercial Bank (up at 90.90), Sampath Bank (up at 74.00), DFCC Bank (up at 71.00) and National Development Bank (up at 71.00).
-
-Smaller banks closed down or flat; Union Bank (down at 9.00), HDFC Bank (flat at 31.80), and NTB (down at 120.00).
-
-...
-
-[Data](articles/9c148faa.json)
-
-[Extended Data](ext_articles/9c148faa.ext.json)
-
----
-
-### There is insufficient clarity among voters regarding preferential votes - Commonwealth Election Monitoring Committee
-
-*2024-09-23 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194628) · `ta`
-
-Commonwealth Election Monitoring Committee report: Election Commission praised for accommodating special needs voters. Concerns raised about misuse of state assets for propaganda. Ambiguity noted regarding preferential voting process. Recommendations made for improving upcoming elections.
-
-🟩
-
-The Commonwealth Election Monitoring Committee has said that the arrangements made by the Election Commission are commendable in accordance with the voters of special needs in the presidential election.
-
-The Commonwealth Election Monitoring Committee has pointed out that there have been a lot of complaints regarding the use of state assets during propaganda.
-
-Meanwhile, the Commonwealth Election Monitoring Committee has said that there is an adequate ambiguity among voters in connection with the preferential voting process and that the upcoming elections should be raised.
-
-◼️
-
-[Data](articles/11ef07cd.json)
-
-[Extended Data](ext_articles/11ef07cd.ext.json)
-
----
-
-### Welcome, Comrade Anura!
-
-*2024-09-23 16:18:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/welcome-comrade-anura/) · `en`
-
-It’s official – Dissanayake Mudiyanselage Anura Kumara Dissanayake is the ninth Executive President of Sri Lanka.
-
-For those who don’t know, between 1948 – when it obtained independence from the British Empire – and 1977, the highest elected political official in Sri Lanka was the Prime Minister. He or she – Sri Lanka has the distinction of electing the world’s first woman Prime Minister – was invested with a tremendous array of powers, while the President served a more ceremonial role.
-
-In 1978, the government of JR Jayewardene enacted a new Constitution which transformed the office of the Prime Minister into that of an all-powerful, almost omniscient Executive President. The then Prime Minister’s rationale was that the parliamentary system which had prevailed until then had become a hindrance to the head of state and that the country required a new political arrangement which would shield its leaders from the vagaries of parliamentary politics.
-
-...
-
-[Data](articles/a07057cf.json)
-
-[Extended Data](ext_articles/a07057cf.ext.json)
-
----
-
-### CSE’s ASPI gains over 130 points
-
-*2024-09-23 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102216/cses-aspi-gains-over-130-points) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has increased by 130.3 points to close at 11,096.81 today (23).
-
-◼️
-
-[Data](articles/b05384a7.json)
-
-[Extended Data](ext_articles/b05384a7.ext.json)
-
----
-
-### Dawn Of A New Era With Cautious Optimism
-
-*2024-09-23 16:08:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dawn-of-a-new-era-with-cautious-optimism/) · `en`
-
-...
-
-[Data](articles/df8c7528.json)
-
-[Extended Data](ext_articles/df8c7528.ext.json)
-
----
-
-### Worship at the new President's Dalada House
-
-*2024-09-23 16:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதி-தலதா-மாளிகையில்-வழிபாடு/175-344316) · `ta`
-
-New President Anuragumara Dissanayake visits Dalada Maligai after inauguration. Performs religious rites, meets Maha Nayaka Thera of Malwattu Asgiriya Peetars.
-
-🟩
-
-After the new President Anuragumara Dissanayake was sworn in, he went to the Dalada Maligai of Kandy and engaged in religious rituals and met the Maha Nayaka Thera of the Malwattu Asgiriya Peetars.
-
-◼️
-
-[Data](articles/75ed4f44.json)
-
-[Extended Data](ext_articles/75ed4f44.ext.json)
 
 ---

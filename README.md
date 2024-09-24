@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 10:23:06**
+As of **2024-09-24 10:38:30**
 
 ## Newspaper Stats
 
-*Scraped **45,934** Articles*
+*Scraped **45,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,053
 adalk | 4,219
 dailymirrorlk | 4,733
 adaderanalk | 5,407
-tamilmirrorlk | 6,126
+tamilmirrorlk | 6,128
 virakesarilk | 7,329
 adaderanasinhalalk | 7,946
 
@@ -26,27 +26,55 @@ adaderanasinhalalk | 7,946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,931 (100.0%) of 45,934 articles have been extended.
+45,936 (100.0%) of 45,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
 
-### ජපානයේ ඉසූ දූපත් ආශ්‍රිතව ප්‍රබල භූකම්පනයක්
+### A powerful earthquake in Japan's islands
 
 *2024-09-24 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201490) · `si`
 
-විදෙස් මාධ්‍ය පවසන්නේ රික්ටර් මාපකයේ ඒකක 5.6ක ප්‍රභලත්වයකින් එම භූකම්පනය හටගෙන ඇති බවය.
+Powerful earthquake hits Japan's islands, measuring 5.6 on Richter scale. Tsunami warnings issued for schools and Ogasawara Islands.
 
-මේ හේතුවෙන් එරට කාලගුණ අංශ සුනාමි අනතුරු ඇඟවීම් ද නිකුත් කර තිබේ.
+🟩
 
-ඒ අනුව ඉසූ දුපත්වලට සහ ඔගවසර දූපත්වලට එම සුනාමි අනතුරු ඇඟවීම් නිකුත් කර ඇති බව විදෙස් මාධ්‍ය පැවසුවේය.
+Foreign media states that the earthquake has broken out of the remedy of 5.6 units of the Richter.
 
-එම දූපත්වලට මීටරයක පමණ උසට මුහුදු රළ ගොඩබිමට එනු ඇති බවට අපේක්ෂා කළ හැකි බව ජපාන කාලගුණ අංශ වැඩිදුරටත් පවසයි.
+As a result, the country's weather causes tsunami warnings.
+
+Accordingly, the tsunami warnings have been issued to the school and the ozaus islands.
+
+The islands can be expected to come to land on the height of the height.
 
 ◼️
 
 [Data](articles/4126a2b6.json)
+
+[Extended Data](ext_articles/4126a2b6.ext.json)
+
+---
+
+### The resignation of Chareter is in the Gazette.
+
+*2024-09-24 09:58:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுவரின்-இராஜினாமா-வர்த்தமானியில்-வௌியானது/175-344362) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Chareter resigns as Governor of Eastern Province. Presidential Secretariat issues gazette notification detailing resignation."
+
+🟩
+
+The Presidential Secretariat has issued a gazette notification for the details of Cardar who resigned from the posts of Governor Senthil Thondaman, including the Governor of the Eastern Province.
+
+◼️
+
+[Data](articles/1d08ab70.json)
+
+[Extended Data](ext_articles/1d08ab70.ext.json)
 
 ---
 
@@ -69,6 +97,8 @@ After the swearing-in of the Cabinet of Ministers, President Dissanayake would c
 ...
 
 [Data](articles/98ee3378.json)
+
+[Extended Data](ext_articles/98ee3378.ext.json)
 
 ---
 
@@ -94,21 +124,29 @@ As a result, a series of new economic reforms should be carried out expeditiousl
 
 ---
 
-### නව ආරක්ෂක ලේකම් වැඩ අරඹයි
+### New Defense Secretary begins work
 
 *2024-09-24 09:14:39* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආරක්ෂක-ලේකම්-වැඩ-අරඹයි/11-412101) · `si`
 
-ආරක්‍ෂක අමාත්‍යාංශයේ නව ආරක්‍ෂක ලේකම්වරයා වශයෙන් එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික) WWV, RWP and 2 bars, RSP and bar, USP, MMSc (Strat Stu- China), MSc (Def Stu) in Mgt, MSc (Def & Strat Stu), fndu (China), psc අතිගරු ජනාධිපති අනුර කුමාර දිසානායක මැතිතුමා විසින් පත් කොට ඇත.
+New Defense Secretary Anura Kumara Dissanayake appointed. Air Vice Marshal Thusiiyankantha named Chief of Defense. Key roles: Chief of Defense Staff, Chief Justice. Notable achievements: Humanitarian missions, helicopter operations, security advisor positions. Honored with medals for bravery.
 
-එයාර් වයිස් මාර්ෂල් තුයියකොන්තා, ශ්‍රී ජයවර්ධනපුර කෝට්ටේ, ආරක්‍ෂක මූලස්ථාන සංකීර්ණයේ පිහිටි ආරක්‍ෂක අමාත්‍යාංශයේ දී අද (සැප්තැම්බර් 23) දින සන්ධ්‍යාවේ සිය නව පත්වීමට අදාළ රාජකාරින්හි  නිල වශයෙන් වැඩ භාර ගන්නා ලදි.
+🟩
 
-නව ධූරයේ පත්වීම් ලැබීමෙන් අනතුරුව ආරක්‍ෂක ලේකම්වරයා ආරක්‍ෂක අමාත්‍යාංශයේ අතිරේක ලේකම්වරුන්, ආරක්‍ෂක මාණ්ඩලික ප්‍රධානී, ත්‍රිවිධ හමුදාපතිවරුන් සහ ජාතික බුද්ධි ප්‍රධානී ඇතුළු ආරක්‍ෂක අංශ ප්‍රධානීන් සමඟ විශේෂ සාකච්ඡාවක නිරත විය.
+As the new Defense Secretary at the Ministry of DefenseAnura Kumara Dissanayake has been appointed by His Excellency the President of His Excellency the President, Fndu (China).
 
-ශ්‍රී ලංකා ගුවන් හමුදාවේ කීර්තිමත් නිලධාරියෙකු වන එයාර් වයිස් මාර්ෂල් තුයියකොන්තා, වසර 33කට අධික කීර්තිමත් හමුදා සේවා කාලයක් නිම කොට 2021 වසරේ නොවැම්බර් මාසයේ දී විශ්‍රාම ලැබීය. විශ්‍රාම යන විට ඔහු ශ්‍රී ලංකා ගුවන් හමුදාවේ අධ්‍යක්‍ෂ පුහුණු තනතුර දැරීය.
+Air Vice Marshal Thusiiyankantha, Sri Jayawardenapura Kotte, Security
+
+The Defense Secretary held a special discussion with the Chief of Defense Staff, Chief of Defense and Chief of Defense, including the Chief of Defense Staff, Chief of Defense and Chief Justice, including appointments in the new post.
+
+Air Vice Marshakantha, an outstanding officer of the Sri Lanka Air Force, retired in November 2021 while over 33 years of reputation. When he retired, he was the Director of the Sri Lanka Air Force.
+
+Born in Colombo on November 26, 1966, Air Vice Marshal Tubonanu Vishaluwoman studied his education at Thurston College.He loved educational work and rugby in his school life. He was elected to represent the Colombo school rugby team in 1986, representing the rugby team at Thurston Vidyalaya.
 
 ...
 
 [Data](articles/c3f7d207.json)
+
+[Extended Data](ext_articles/c3f7d207.ext.json)
 
 ---
 
@@ -227,6 +265,30 @@ Meanwhile, it was reported that the United National Party (UNP) had been invited
 [Data](articles/13efd427.json)
 
 [Extended Data](ext_articles/13efd427.ext.json)
+
+---
+
+### The main meeting in Colombo today
+
+*2024-09-24 09:01:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-முக்கிய-சந்திப்பு/175-344359) · `ta`
+
+Colombo meeting: United People's Alliance party leaders gather today to discuss general election strategy. UNP invited to participate.
+
+🟩
+
+It is reported that a meeting between party leaders who are part of the United People's Alliance will take place today.
+
+The meeting will be held to discuss the upcoming general election.
+
+Leaders of political parties in the United People's Alliance have been invited to meet in Colombo.
+
+Meanwhile, it was reported that the United National Party (UNP) had been invited to contest the general election.. Remble
+
+◼️
+
+[Data](articles/a8c5cf1f.json)
+
+[Extended Data](ext_articles/a8c5cf1f.ext.json)
 
 ---
 
@@ -2073,47 +2135,5 @@ Anura Kumara Dissanayake has issued a special gazette notification for the Parli
 [Data](articles/a5420c8f.json)
 
 [Extended Data](ext_articles/a5420c8f.ext.json)
-
----
-
-### Lakshman Qunaarachchi's name gazetted
-
-*2024-09-23 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201475) · `si`
-
-Lakshman Qunaarachchi named to fill parliamentary seat after Anura Kumara Dissanayake's election. Gazette notification issued by Elections Commission due to vacancy caused by resignation.
-
-🟩
-
-As a result of the election of Anura Kumara Dissanayake, Lakshman Nakunarachchi has issued a special gazette notification for the vacant parliamentary seat.
-
-The gazette notification had been issued by the Elections Commission.
-
-Anura Kumara Dissanayake had informed the Elections Commission that there was a vacancy of a parliamentary post with a parliamentary parliamentary parliamentarian with resignation.
-
-Accordingly, Lakshman Nakunarachchi has been appointed to the vacant section of the 2020 general election preferential votes.
-
-◼️
-
-[Data](articles/b1637974.json)
-
-[Extended Data](ext_articles/b1637974.ext.json)
-
----
-
-### Congratulations to the President
-
-*2024-09-23 16:49:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-சபாநாயகரின்-வாழ்த்து/175-344319) · `ta`
-
-Speaker Mahinda Yapa Abeywardena congratulates Anuradha Dissanayake as Sri Lanka's 9th president.
-
-🟩
-
-Speaker of Parliament Mahinda Yapa Abeywardena expressed his congratulations to Anuragumara Dissanayake, the ninth president of Sri Lanka.
-
-◼️
-
-[Data](articles/7439ff08.json)
-
-[Extended Data](ext_articles/7439ff08.ext.json)
 
 ---

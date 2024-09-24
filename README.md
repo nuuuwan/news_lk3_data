@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 06:08:02**
+As of **2024-09-24 06:43:54**
 
 ## Newspaper Stats
 
-*Scraped **45,890** Articles*
+*Scraped **45,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 382
 bbccomsinhala | 449
 colombotelegraphcom | 457
-islandlk | 2,684
+islandlk | 2,693
 economynextcom | 2,773
 dailyftlk | 3,053
 adalk | 4,212
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,937
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,890 (100.0%) of 45,890 articles have been extended.
+45,897 (100.0%) of 45,899 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -447,6 +447,114 @@ However, with this great honour comes an even greater responsibility. The task o
 ---
 
 ### 2024-09-23 (Monday)
+
+### Vision-impaired musicians
+
+*2024-09-23 23:27:00* · [`islandlk`](http://island.lk/vision-impaired-musicians/) · `en`
+
+There is a group of extraordinary musicians who are blind and, over the past year, Melantha Perera has personally taken it upon himself to mentor these vision-impaired students through his music school Riversheen School of Music.
+
+Melantha, who is a big name in the showbiz scene, both here and abroad, has named this group of musicians as ‘Bright Light’.
+
+Says Melantha: “‘Bright Light’ is Sri Lanka’s first beat band made up of vision-impaired musicians and their passion for music is truly inspiring.”
+
+He went on to say that he teaches them, online, and that they meet once a month for a practice session at MJF Centre, Katubadda, Moratuwa.
+
+“I share my expertise with them, individually, to play as a band, and we are planning to have a show for them, early next year, to showcase the incredible talent of these young musicians.
+
+“The event would give them the opportunity to share their gifts with the world and take a step closer to realizing their dreams.”
+
+...
+
+[Data](articles/66c0e142.json)
+
+[Extended Data](ext_articles/66c0e142.ext.json)
+
+---
+
+### Neon Night by Browns Hotels & Resorts: A dazzling evening of industry partner networking
+
+*2024-09-23 23:07:00* · [`islandlk`](http://island.lk/neon-night-by-browns-hotels-resorts-a-dazzling-evening-of-industry-partner-networking/) · `en`
+
+Under the effervescent glow of neon lights, Browns Hotels & Resorts hosted a spectacular networking event on September 6th, transforming the Excel World Colombo Convention Centre into a hub of vibrant energy and festivity. The function attracted over 500 travel agents, alongside general managers from Browns Hotels & Resorts’ properties, corporate representatives and key figures from the tourism industry. The radiant Neon theme provided the perfect backdrop for an evening of meaningful connections, animated collaboration and industry celebration.
+
+The event commenced with guests being welcomed by the smooth sounds of jazz music, setting a refined and elegant tone for a night of exquisite cocktails and gourmet canapés, while captivating dance performances by Browns’ hotel staff added an exciting dynamic to the proceedings.
+
+...
+
+[Data](articles/84bd29e5.json)
+
+[Extended Data](ext_articles/84bd29e5.ext.json)
+
+---
+
+### UNESCO-Huawei Open School Initiative set to transform education in Egypt, Brazil and Thailand
+
+*2024-09-23 23:07:00* · [`islandlk`](http://island.lk/unesco-huawei-open-school-initiative-set-to-transform-education-in-egypt-brazil-and-thailand/) · `en`
+
+Huawei announced the implementation stage of the Technology-enabled Open Schools for All Phase II project in Brazil, Egypt, and Thailand at Digital Learning Week, UNESCO’s flagship event on digital learning and the transformation of education.
+
+Running from 2024 to 2027, Phase II of the UNESCO-Huawei initiative will support the digital transformation of education in each of the three nations through digital open school models. These models combine technology innovations and human capabilities to create flexible, resilient, inclusive, and quality learning environments that blend offline and online learning.
+
+The implementation stage of the project’s Phase II follows the design stage, which was launched in April 2024, to establish the specific needs and priorities of the three nations.
+
+...
+
+[Data](articles/f9bda6a2.json)
+
+[Extended Data](ext_articles/f9bda6a2.ext.json)
+
+---
+
+### AIA Insurance supports HelpAge Sri Lanka in transforming lives through cataract surgeries
+
+*2024-09-23 23:06:00* · [`islandlk`](http://island.lk/aia-insurance-supports-helpage-sri-lanka-in-transforming-lives-through-cataract-surgeries/) · `en`
+
+AIA Insurance partners with HelpAge Sri Lanka reinforcing our commitment to improving the lives of those in need. This donation has sponsored 10 cataract surgeries for underprivileged patients, offering them the precious gift of sight. Cataract surgery is a life-changing procedure that not only restores vision but also enhances the quality of life, enabling individuals to regain their independence and continue contributing to their families and communities.
+
+...
+
+[Data](articles/0c8f6638.json)
+
+[Extended Data](ext_articles/0c8f6638.ext.json)
+
+---
+
+### HNB relaunches Affinity Card for Holy Family Convent Bambalapitiya PPA
+
+*2024-09-23 23:03:00* · [`islandlk`](http://island.lk/hnb-relaunches-affinity-card-for-holy-family-convent-bambalapitiya-ppa/) · `en`
+
+HNB PLC, recently announced the relaunch of the PPA Affinity Card from HNB, exclusively for the Past Pupils Association (PPA) of Holy Family Convent, Bambalapitiya.
+
+“Holy Family Convent Bambalapitiya has been a beacon of excellence in education, shaping the lives of countless Sri Lankan women for generations. At HNB, we recognize the profound impact of this institution and its network. Our partnership with the Past Pupils Association is more than an agreement; it’s a commitment to supporting a community of accomplished individuals who continue to inspire and lead across various sectors of our society. By offering exclusive benefits to PPA members, we’re not just providing financial services; we’re investing in a network that has consistently contributed to Sri Lanka’s progress and innovation,” HNB Head of Cards, Gauthami Niranjan stated.
+
+PMF Finance strengthens financial foundation with major financial backing from Commercial Bank of Ceylon
+
+...
+
+[Data](articles/a6d00e2f.json)
+
+[Extended Data](ext_articles/a6d00e2f.ext.json)
+
+---
+
+### Successful conclusion of presidential poll energizes share market
+
+*2024-09-23 23:02:00* · [`islandlk`](http://island.lk/successful-conclusion-of-presidential-poll-energizes-share-market/) · `en`
+
+The stock exchange was initially highly volatile yesterday as it kicked off amid huge selling pressure but later picked up in vibrancy. Some of the dynamism derived from the successful conclusion of the presidential poll.
+
+‘The perception is that there might be more practicable approaches to resolving share market issues by the new government. They are open to suggestions and promise to curtail expenditure. There’s nothing concrete yet; we can’t put any weight on any one fact, stockbrokers said.
+
+‘People are waiting to see what will be implemented, if they address the needs of the capital market. There is positive momentum from last week’s poll, with banking stocks trading up, market analysts said.
+
+...
+
+[Data](articles/f09e7801.json)
+
+[Extended Data](ext_articles/f09e7801.ext.json)
+
+---
 
 ### Kudos President AKD! Your Mandate Reflects People’s Strong Desire For Genuine Change!
 
@@ -1606,6 +1714,20 @@ According to a Facebook report compiled by two Sri Lankans, Ranil Wickremesinghe
 
 ---
 
+### Waiting for the Next President or the Return of Mr. Bean!
+
+*2024-09-23 15:46:00* · [`islandlk`](http://island.lk/waiting-for-the-next-president-or-the-return-of-mr-bean/) · `en`
+
+Who will it be? Ranil, Sajith or Anura? The hard copy version of this article will be public while the voting is going on. By the time it appears online the vote count will be on and at least who is in the lead, if not the actual winner, will be known. Writing a day before the vote, I do not have a crystal ball to say who Sri Lanka’s next president will be. Suffice it to say that as the countdown week draws to a close there are strong assertions from the Ranil camp that he is going to be the winner. If those assertions are proven correct and if Ranil Wickremesinghe gets elected as the next president, then it will be political business as usual for the next few weeks, if not for the next few months, bar the shouting and ceremonies.
+
+...
+
+[Data](articles/b8d910bd.json)
+
+[Extended Data](ext_articles/b8d910bd.ext.json)
+
+---
+
 ### Statesmen of the 21st Century
 
 *2024-09-23 15:43:00* · [`islandlk`](http://island.lk/statesmen-of-the-21st-century/) · `en`
@@ -1887,153 +2009,5 @@ FCCISL Congratulates President-Elect Anura Kumara Dissanayake and Calls for a Ne
 [Data](articles/7d894943.json)
 
 [Extended Data](ext_articles/7d894943.ext.json)
-
----
-
-### FCCISL congratulates Sri Lanka President, hopes for good governance
-
-*2024-09-23 14:30:00* · [`economynextcom`](https://economynext.com/fccisl-congratulates-sri-lanka-president-hopes-for-good-governance-180646/) · `en`
-
-ECONOMYNEXT – The Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) has congratulated President Anura Kumara Dissanayake, and called for ‘a new era of good governance and development’.
-
-“As President, we trust that you will inspire the nation with your commitment to good governance, transparency, and accountability,” FCCISL said in a statement.
-
-The FCCISL urged the new government to entrust capable and experienced leaders with the responsibility of steering key national institutions.
-
-FCCISL Congratulates President-Elect Anura Kumara Dissanayake and Calls for a New Era of Good Governance and Development
-
-...
-
-[Data](articles/8c2bf544.json)
-
-[Extended Data](ext_articles/8c2bf544.ext.json)
-
----
-
-### Here is the Declaration of the Prime Minister and Cabinet Ministers
-
-*2024-09-23 14:24:20* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති-ධුරය-සහ-කැබිනට්-ඇමති-ධුර--ගැන-හරිණි-කළ-ප්‍රකාශය-මෙන්න/11-412088) · `si`
-
-National Prime Minister Dr. Welure Amarasuriya announced a four-member cabinet. Former PM resigned; new cabinet to be appointed soon. Process ongoing; details to be discussed tomorrow.
-
-🟩
-
-The National Prime Minister Dr. Welure Amarasuriya said that a cabinet was made to appoint a four-member cabinet and a final decision on the portfolio of the Prime Minister.
-
-"Nothing happens today. This work is going to take place as soon as possible. Former Prime Minister has resigned. Need to fill in our vacancy. When the process is over, we will appoint our cabinet. The cabinet is about four people. Let's talk about it tomorrow. "
-
-◼️
-
-[Data](articles/82a6173a.json)
-
-[Extended Data](ext_articles/82a6173a.ext.json)
-
----
-
-### Uva Province Governor resigns
-
-*2024-09-23 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102212/uva-province-governor-resigns) · `en`
-
-The Governor of the Uva Province Anura Vidanagamage has resigned from his position this morning (23).
-
-He had tendered his letter of resignation to former President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/70223908.json)
-
-[Extended Data](ext_articles/70223908.ext.json)
-
----
-
-### Chinese president to Sri Lanka new President
-
-*2024-09-23 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201471) · `si`
-
-Chinese President Xi Jinping greets Sri Lanka's new leader. Emphasizes strong bilateral ties, mutual support since diplomatic relations began two years ago. Both nations aim to strengthen ties, boost political trust, and foster long-term strategic cooperation.
-
-🟩
-
-Chinese President Xi Jin Pin has greeted the Sri Lanka President of Sri Lanka.
-
-The Chinese President has pointed out that China and Sri Lanka are traditional friendly neighbors.
-
-Since the commencement of diplomatic relations between China and Sri Lanka, two years ago, the two countries have always been able to support and support each other.
-
-President Anura Kumara Dissanayake is willing to deal with Chinese-Sri Lanka relations to enhance the Chinese-Sri Lankan relationships and to maintain traditional friendship and improve political mutual confidence.
-
-Also, the two countries continue to produce more effective and long-term strategic cooperation between China and Sri Lanka, promoting the most effective and long-term strategic partnership between China and a traditional cooperation and traditional collaboration and traditional cooperation.He also said that action is being done.
-
-◼️
-
-[Data](articles/27f78f18.json)
-
-[Extended Data](ext_articles/27f78f18.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-09-23 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194601) · `ta`
-
-US Dollar exchange rate: Buying price Rs 300.1800, Selling price Rs 309.2836. Released by Central Bank on 23rd.
-
-🟩
-
-The US dollar purchasing price was Rs 300.1800 and the sales price were Rs 309.2836, based on a currency exchange rate released by the Central Bank on Monday (23).
-
-◼️
-
-[Data](articles/47beca99.json)
-
-[Extended Data](ext_articles/47beca99.ext.json)
-
----
-
-### New President pledges to reinforce democracy in the country
-
-*2024-09-23 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201470) · `si`
-
-New President Anura Kumara Dissanayake vows to strengthen democracy and create positive political culture. He promises to address public concerns and build trust with citizens who didn't vote for him.
-
-🟩
-
-New President Anura Kumara Dissanayake says he is doing the best to strengthen democracy in the country.
-
-President Anura Dissanayake made this statement by calling the race and make a special statement.
-
-He also said that he will create a good political culture in the country.
-
-President Anura Kumara Dissanayake added that steps will be taken to deal with the belief in the people he did not believe.
-
-"Democracy in our country has been elected President. Former President Ranil Wickremesinghe, his commitment to this democratic exchange is very thankful for this democratic power exchange. I'm ready to show my maximum commitment to strengthening democracy in our country. We have been deeply understood that we get a very challenging country. As a deepest challenge, I do not see a human government to be a man of a political party or a person.
-
-...
-
-[Data](articles/21b1f2ad.json)
-
-[Extended Data](ext_articles/21b1f2ad.ext.json)
-
----
-
-### Family of murdered Sri Lanka editor seek justice from new president
-
-*2024-09-23 13:54:00* · [`economynextcom`](https://economynext.com/family-of-murdered-sri-lanka-editor-seek-justice-from-new-president-180641/) · `en`
-
-ECONOMYNEXT – The family of murdered Sri Lanka journalist Lasantha Wickrematunge appealed on Tuesday to the island’s new president to reopen an investigation into the internationally-condemned assassination.
-
-The anti-establishment editor was murdered as he drove to work in January 2009 by attackers later identified by police as members of a military intelligence unit linked to the once-powerful Rajapaksa family.
-
-Saturday’s election of the country’s first leftist president, Anura Kumara Dissanayaka, had given the family “a renewed sense of hope” of justice, Wickrematunge’s daughter Ahimsa said.
-
-“We are hopeful that this leadership will bring a fresh perspective into finally addressing the atrocities that have taken place in Sri Lanka’s recent human rights history,” she said in a statement.
-
-Wickrematunge had accused then defence ministry secretary Gotabaya Rajapaksa of taking kickbacks in arms procurements, including the purchase of second-hand MiG jet fighters from Ukraine.
-
-...
-
-[Data](articles/ebc2c390.json)
-
-[Extended Data](ext_articles/ebc2c390.ext.json)
 
 ---

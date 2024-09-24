@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 14:38:23**
+As of **2024-09-24 14:57:41**
 
 ## Newspaper Stats
 
-*Scraped **46,001** Articles*
+*Scraped **46,003** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 384
-bbccomsinhala | 450
+bbccomsinhala | 451
 colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
 adalk | 4,229
 dailymirrorlk | 4,733
-adaderanalk | 5,413
+adaderanalk | 5,414
 tamilmirrorlk | 6,142
 virakesarilk | 7,346
 adaderanasinhalalk | 7,953
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,953
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,001 (100.0%) of 46,001 articles have been extended.
+46,003 (100.0%) of 46,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Derailment disrupts train services on up-country line
+
+*2024-09-24 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102237/derailment-disrupts-train-services-on-up-country-line) · `en`
+
+An observation compartment of a passenger and freight train travelling from Badulla to Kandy has derailed.
+
+Train services along the up-country railway line have been disrupted owing to the derailment of the observation compartment of the ‘1596’ passenger and freight train plying from Badulla to Kandy, the Badulla railway control room said.
+
+The derailment had reportedly occurred at around 12.30 p.m. this afternoon (24).
+
+The train’s observation compartment had derailed between the Ella and Demodara railway stations.
+
+The Railway Control Room further said that the railway track has been severely damaged due to the train derailment while the work related to restoring the derailed train is currently being carried out.
+
+◼️
+
+[Data](articles/ff1f9d3b.json)
+
+[Extended Data](ext_articles/ff1f9d3b.ext.json)
+
+---
 
 ### Earthquake in Japan;Tsunami warning
 
@@ -1506,6 +1528,44 @@ Meanwhile, it was reported that the United National Party (UNP) had been invited
 
 ---
 
+### What do we know about the new office bearer of President Anura?
+
+*2024-09-24 08:54:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2lw4lrvelo) · `si`
+
+Here's a 200-character summary:
+
+
+
+New cabinet sworn in under President Anura Kumara Dissanayake. Key appointments include Dr. Nandika Sanath Kanayake as Secretary to the President and Retired General Kamal Gunaratne as Defense Minister. Other notable appointees include Air Vice Marshal Sampath Sanjeewa Thusithacontha and Senior DIG Ravi Seneviratne. President Dissanayake appointed his private secretary, Ananda Wipelal.
+
+🟩
+
+The new cabinet of President Anura Kumara Dissanayake sworn in this evening (On 24th September).
+
+Dr. Nandika Sanath Sanath Kannathan was appointed as the Secretary to the President yesterday.
+
+New Letsters were appointed for security and public security, within a few hours after the president was swear.
+
+Dr. Nandika Sanath Sanath Sanath Kanayake, who was appointed Secretary to the President, is a doctorate.
+
+Graduate Degree in Honorable Arts (GRIS)
+
+Dr. The research on Customs Corruption (Customs Corruption) has been conducted and the research has been declared in international publications.
+
+He is a Characition consultant on customs innovation by World Customs Organization.
+
+Dr. Kunaweera has also participated in the development of Customs support in other countries.
+
+The Sri Lanka Customs Department served as a customs officer in 1997 as a Deputy Director of the Sri Lanka Customs Department.
+
+...
+
+[Data](articles/373cf7ab.json)
+
+[Extended Data](ext_articles/373cf7ab.ext.json)
+
+---
+
 ### The new cabinet is sworn in today
 
 *2024-09-24 08:54:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-இன்று-பதவிப்பிரமாணம்/175-344358) · `ta`
@@ -2289,39 +2349,5 @@ He also held the position of Director of Training at the Air Force Headquarters.
 [Data](articles/a539dff3.json)
 
 [Extended Data](ext_articles/a539dff3.ext.json)
-
----
-
-### Ravi Seneviratne appointed as Public Security Ministry Secretary
-
-*2024-09-24 03:39:18* · [`dailyftlk`](https://www.ft.lk/news/Ravi-Seneviratne-appointed-as-Public-Security-Ministry-Secretary/56-767072) · `en`
-
-The newly-elected President Anura Kumara Dissanayake yesterday appointed former Senior Deputy Inspector General (DIG) Ravi Seneviratne as the Public Security Ministry Secretary.
-
-Seneviratne, a retired Senior Deputy Inspector General of Police, holds a Master’s Degree in Human Rights from the University of Colombo. He has served as a founding member of the Special Task Force (STF), former Deputy Director of the State Intelligence Service (SIS), First Secretary of the Sri Lanka Embassy in Thailand, and the Head of Sri Lanka Interpol Sri Lanka.
-
-◼️
-
-[Data](articles/16762110.json)
-
-[Extended Data](ext_articles/16762110.ext.json)
-
----
-
-### Veteran traditional dancer Vajira Chitrasena passes away
-
-*2024-09-24 03:37:12* · [`dailyftlk`](https://www.ft.lk/news/Veteran-traditional-dancer-Vajira-Chitrasena-passes-away/56-767071) · `en`
-
-Veteran Sri Lankan traditional dancer, choreographer, and teacher Deshamanya Dr. Vajira Chitrasena has passed away at the age of 92.
-
-Vajira and her husband Chitrasena are known for their close bond with India and for their contributions in strengthening the ties between the two countries in the field of arts. She made her debut as a soloist in the role of Prakriti in the ballet ‘Chandali’ in 1952.  Her rise to stardom was coupled with unswerving discipline and dedication as a teacher, performer, and choreographer, even as she illumined her husband’s career.
-
-She was announced as an honourable recipient of the prestigious Padma Shri award for her achievement in arts in January 2020, and the award was given by Indian President Ram Nath Kovind in 2021.
-
-◼️
-
-[Data](articles/036c3c3f.json)
-
-[Extended Data](ext_articles/036c3c3f.ext.json)
 
 ---

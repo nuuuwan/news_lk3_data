@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 12:13:27**
+As of **2024-09-24 12:24:22**
 
 ## Newspaper Stats
 
-*Scraped **45,963** Articles*
+*Scraped **45,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,773
 dailyftlk | 3,053
-adalk | 4,221
+adalk | 4,224
 dailymirrorlk | 4,733
-adaderanalk | 5,410
+adaderanalk | 5,412
 tamilmirrorlk | 6,132
 virakesarilk | 7,341
 adaderanasinhalalk | 7,950
@@ -26,11 +26,101 @@ adaderanasinhalalk | 7,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,963 (100.0%) of 45,963 articles have been extended.
+45,968 (100.0%) of 45,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### EU assures support to Sri Lanka’s new president for reforms
+
+*2024-09-24 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102233/eu-assures-support-to-sri-lankas-new-president-for-reforms) · `en`
+
+The European Union has congratulated Anura Kumara Dissanayake upon his election and inauguration as President of the Democratic Socialist Republic of Sri Lanka.
+
+Issuing a statement, the EU further said that the people of Sri Lanka demonstrated once again their commitment to democracy, with a high voter turnout at the presidential elections held on 21 September.
+
+“Elections took place in a peaceful manner and in a competitive political environment. By invitation of the authorities of Sri Lanka, the EU deployed an Election Observation Mission (EU EOM) to undertake an independent, impartial and technical assessment of all aspects of the electoral process. This further reflects EU’s close cooperation with Sri Lanka on good governance and democracy”, the statement added.
+
+...
+
+[Data](articles/edd959b7.json)
+
+[Extended Data](ext_articles/edd959b7.ext.json)
+
+---
+
+### MP Vijitha Herath ordered to appear before court on Nov. 29
+
+*2024-09-24 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102232/mp-vijitha-herath-ordered-to-appear-before-court-on-nov-29) · `en`
+
+The Colombo High Court today (24) ordered National People’s Power (NPP) Member of Parliament Vijitha Herath to appear before the court on November 29 to testify in connection with a bribery case filed during the tenure of the previous ‘Good Governance’ Government.
+
+When the case which had been filed by the Bribery Commission against the former Chairman of the Development Lotteries Board (DLB), Chandrawansa Pathiraja, was taken up in court today the plaintiff Vijitha Herath was scheduled to testify.
+
+However, appearing on behalf of Vijitha Herath, Attorney-at-Law Namal Rajapaksa requested for another date to testify, due to the fact that Herath will be swearing-in as a member of the Cabinet of Ministers today. The court accepted the request and rescheduled Herath’s testimony for November 29 while ordering him to appear before the court on the said date.
+
+...
+
+[Data](articles/53bdf52e.json)
+
+[Extended Data](ext_articles/53bdf52e.ext.json)
+
+---
+
+### Message sent to the new President
+
+*2024-09-24 12:00:57* · [`adalk`](https://www.ada.lk/breaking_news/කථානායක-නව-ජනපතිට-යැවූ-පණිවිඩය/11-412106) · `si`
+
+Here's a summary of the message in approximately 200 characters:
+
+
+
+Speaker Mahinda Yapa Abeywardena congratulates Anura Kumara Dissanayake on becoming the new Executive President. He mentions the Elections Commission's confirmation of Dissanayake's victory and expresses hope for Sri Lanka's future under his leadership. The Speaker also notes declining public trust in parliament due to ongoing political instability.
+
+🟩
+
+Speaker Mahinda Yapa Abeywardena reassures her official greetings from the newly selected Anura Kumara Dissanayake as the new Executive President.
+
+The Elections Commission has officially proved that Sri Lankan citizens have been officially proved to be the new pilot to move their motherland to the future world.The Speaker mentioned in his message that the Speaker is said.
+
+The Speaker has noted that the public confidence in this public confidence in Mr. Jaya A Dissanayake is no longer a long-standing result of parliamentary democracy.
+
+◼️
+
+[Data](articles/bd4e6078.json)
+
+[Extended Data](ext_articles/bd4e6078.ext.json)
+
+---
+
+### Ruhunu University with a telephone tower. A stick of 53 lakhs
+
+*2024-09-24 12:00:05* · [`adalk`](https://www.ada.lk/breaking_news/දුරකතන-කුළුනකින්-රුහුණු-සරසවියට-රු--ලක්ෂ-53ක-පොල්ලක්/11-412105) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Ruhuna University audit report: Telephone tower cost 53 lakhs. 26506 rupees found. E-money recovery suggested. Management unresponsive. Report released 2023.
+
+🟩
+
+A recent audit report is issued by the National Audit Office of Ruhuna
+
+This is Rs.The Audit Report also states that an eight hundred (2,6506) are available.
+
+The audit has been led by the auditions that the e-money should be recovered from external parties. The management of the University of Ruhuna did not answer the audit.
+
+The report was issued by the University of Ruhuna, 2023.
+
+◼️
+
+[Data](articles/3d1e682b.json)
+
+[Extended Data](ext_articles/3d1e682b.ext.json)
+
+---
 
 ### Grade 5 Scholarship Exam ‘paper leak’: Ministry promises ‘fair solution’
 
@@ -199,6 +289,26 @@ The Japanese Meteorological Department has advised that waves will rise from sea
 [Data](articles/3447ce57.json)
 
 [Extended Data](ext_articles/3447ce57.ext.json)
+
+---
+
+### Former McCo's opinion on the possibility of parliamentary voting for Lakshman
+
+*2024-09-24 11:07:09* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-ඡන්දය--ලක්ෂ්මන්ට-ඇමතිකමක්-දැරීමේ-හැකියාව-ගැන-හිටපු-මැකෝගේ-මතය/11-412104) · `si`
+
+Former Chairman Mahinda Deshapriya expressed support for Lakshman's potential parliamentary candidacy. He noted the timing of elections post-parliament dissolution.
+
+🟩
+
+Former Chairman Mahinda Deshapriya, the former Chairman Mahinda Deshapriya, a note of his Facebook account has stated in his Facebook account to be sworn in as a Member of Parliament.
+
+He also pointed out about the days of the election after the dissolution of parliament.
+
+◼️
+
+[Data](articles/5bab2610.json)
+
+[Extended Data](ext_articles/5bab2610.ext.json)
 
 ---
 
@@ -2027,113 +2137,5 @@ The Israeli military spokesman today (23) said that more than 300 Hezbollah targ
 [Data](articles/31dc0468.json)
 
 [Extended Data](ext_articles/31dc0468.ext.json)
-
----
-
-### 182 killed in Israel attack
-
-*2024-09-23 20:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-182-பேர்-பலி/50-344336) · `ta`
-
-Israel-Lebanon conflict: 182 killed, 727 injured in Israeli attacks on Hezbollah targets.
-
-🟩
-
-The Israeli military spokesman today (23) said that more than 300 Hezbollah targets were attacked, with 182 people, including children and medical staff, were killed in Israeli attacks and 727 were injured today, according to Lebanon's Health Ministry.
-
-◼️
-
-[Data](articles/62e208b9.json)
-
-[Extended Data](ext_articles/62e208b9.ext.json)
-
----
-
-### United National Party resolution to call the United People's Power to work together - Special meeting today
-
-*2024-09-23 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194644) · `ta`
-
-UNP invites UPF to unite against national power in elections. Decision made at special meeting. Senior UNP leader calls for joint contesting.
-
-🟩
-
-The United National Party has decided to invite the United People's Power to work against the national people's power in the general election.
-
-It has been reported that this has been decided at a special meeting of the United National Party (UNP) this evening.
-
-A senior UNP leader has decided to call on the United People's Power to contest the upcoming general election.
-
-◼️
-
-[Data](articles/ba3ec2ec.json)
-
-[Extended Data](ext_articles/ba3ec2ec.ext.json)
-
----
-
-### Northern Governor resigns
-
-*2024-09-23 20:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-ஆளுநர்-இராஜினாமா/175-344335) · `ta`
-
-Here's a summary of "Northern Governor resigns" in 200 characters:
-
-
-
-Northern Governor steps down amid controversy. Official reasons undisclosed. Political implications unclear. Local leaders react cautiously. Public opinion mixed. Investigation pending.
-
-🟩
-
-◼️
-
-[Data](articles/ffae3dd3.json)
-
-[Extended Data](ext_articles/ffae3dd3.ext.json)
-
----
-
-### Request of Ceylon Chamber of Commerce
-
-*2024-09-23 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201480) · `si`
-
-Ceylon Chamber of Commerce President Anura Kumara Dissanayake prioritizes 10 sectors in IMF loan restructuring. Visits temples, meets religious leaders, receives blessings. Focuses on economic policies and public debt management.
-
-🟩
-
-Commerce President Anura Kumara Dissanayake has also been greeted by the Ceylon Chamber of Commerce.
-
-During this context and the new President's policy expression, the President urges the President to priorify 10 fields in the first six sectors of the 630 policy statement.
-
-Accordingly, the International Monetary Fund has recently restructured the external loans based on the aliaries issued by the Commercial Creditors issued by the Commercial Creditors and implementing the expected changes and reliable income proposals in government spending as specified in the policy statement.The solution, the Economic Translation Act, Public Debt Management Act, Fiscal Management Act, Fiscal Management and Sri Lanka Electricity Management and Sri Lanka Electricity Act, China, India and Indonesia.
-
-Meanwhile, President Anura Kumara Dissanayake arrived in Kandy this morning after he was sworn in.
-
-The President visited the Dalada Maligawa and was a warm welcome from the devotees.
-
-...
-
-[Data](articles/688317bf.json)
-
-[Extended Data](ext_articles/688317bf.ext.json)
-
----
-
-### Anura, Sajith and Ranil are the only opportunity ..
-
-*2024-09-23 19:56:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுர-சஜித்-மற்றும்-ரணிலுக்கு-மட்டுமே-வாய்ப்பு/175-344333) · `ta`
-
-Saman Sri Ratnayake: Only Anura, Sajith, Ranil likely to win. Other 35 candidates lost control. Authorized parties get 50k, independents 75k.
-
-🟩
-
-Commissioner General of Elections Commission Saman Sri Ratnayake said that the other 35 candidates have lost their control, except for the three candidates who contested the presidential election this time.
-
-He noted that President Anuragumara Dissanayake, the second place, Sajith Premadasa and former President Ranil Wickremesinghe were only likely to regain control.
-
-Accordingly, 50,000 rupees for a candidate who contested through the authorized political party and 75,000 rupees for an independent candidate.. Remble
-
-◼️
-
-[Data](articles/61d2d39b.json)
-
-[Extended Data](ext_articles/61d2d39b.ext.json)
 
 ---

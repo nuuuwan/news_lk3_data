@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 08:42:28**
+As of **2024-09-24 09:11:57**
 
 ## Newspaper Stats
 
-*Scraped **45,919** Articles*
+*Scraped **45,921** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 382
 bbccomsinhala | 449
-colombotelegraphcom | 457
+colombotelegraphcom | 458
 islandlk | 2,695
 economynextcom | 2,773
 dailyftlk | 3,053
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,405
 tamilmirrorlk | 6,121
 virakesarilk | 7,329
-adaderanasinhalalk | 7,943
+adaderanasinhalalk | 7,944
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,919 (100.0%) of 45,919 articles have been extended.
+45,921 (100.0%) of 45,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Extension of extensive investigations into the scholarship question paper
+
+*2024-09-24 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201488) · `si`
+
+Criminal Investigations Department probing Grade 05 Scholarship Exam question paper leak investigation ongoing
+
+🟩
+
+The Criminal Investigations Department (CID) is underway through the Criminal Investigation Department (CID) regarding the question departure of the question paper of the Grade 05 Scholarship Examination.
+
+◼️
+
+[Data](articles/66c60c12.json)
+
+[Extended Data](ext_articles/66c60c12.ext.json)
+
+---
 
 ### Sri Lankans in Lebanon reunite before high tension
 
@@ -287,6 +305,10 @@ The general public is kindly requested to take adequate precautions to minimize 
 ### The new Cabinet is sworn in today
 
 *2024-09-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201484) · `si`
+
+New Cabinet sworn in today under President Anura Kumara Dissanayake. Political sources indicate it's for general elections. Four members from National Folk Force remain in Parliament. Cabinet to serve until new Parliament elected. Gazette notification expected tonight dissolving Parliament.
+
+🟩
 
 The new cabinet formed under President Anura Kumara Dissanayake will be sworn in this day.
 
@@ -685,6 +707,20 @@ He emphasised the importance of addressing some of the key reforms and Governmen
 [Data](articles/319db49a.json)
 
 [Extended Data](ext_articles/319db49a.ext.json)
+
+---
+
+### AKD’s Top Priority Should Be To Appease A Population Boiling From Within
+
+*2024-09-24 03:22:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akds-top-priority-should-be-to-appease-a-population-boiling-from-within/) · `en`
+
+By the time of writing this article on Sunday morning, it seemed that Sri Lankans have chosen the National People’s Power or NPP Presidential candidate Anura Kumara Dissanayake, known as AKD, as their new President for the next five years. As expected, the supporters of the new President are celebrating the victory with over-jubilation in the social media due to the curfew imposed and later extended by the Government of Ranil Wickremesinghe, introduced to voters as Ranil by Wickremesinghe himself.
+
+...
+
+[Data](articles/63b3c05e.json)
+
+[Extended Data](ext_articles/63b3c05e.ext.json)
 
 ---
 
@@ -2053,41 +2089,5 @@ After the new President Anuragumara Dissanayake was sworn in, he went to the Dal
 [Data](articles/75ed4f44.json)
 
 [Extended Data](ext_articles/75ed4f44.ext.json)
-
----
-
-### Trump’s second “apparent” assassination attempt
-
-*2024-09-23 16:06:00* · [`islandlk`](http://island.lk/trumps-second-apparent-assassination-attempt/) · `en`
-
-In view of this weekend’s elections in Sri Lanka, I had decided to take the week off, as few would have any interest in American politics. In spite of the strangest “apparent” assassination attempt on former president and current Republican candidate for the 2024 presidency, Donald J. Trump.
-
-However, some news items this Friday morning from the US bemused me so much that I decided to pen a few lines in an attempt to beat the deadline, especially, as they required little creativity and less controversy.
-
-The assassination attempt was made on the morning of last Sunday, September 15, when Trump was playing an unscheduled round of golf on his golf course in West Palm Beach, Florida.
-
-I used the word “strangest” because plans for this round of golf was not on the official schedule given the previous day to the secret service detail responsible for the security of a former president of the United States. The decision to play golf was made by Trump on the morning of that Sunday.
-
-...
-
-[Data](articles/330e858a.json)
-
-[Extended Data](ext_articles/330e858a.ext.json)
-
----
-
-### Visit to Britain, Canada and the United States
-
-*2024-09-23 16:01:00* · [`islandlk`](http://island.lk/visit-to-britain-canada-and-the-united-states/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-In early 1972, the US government extended an invitation to me and to the Public Trustee, Mr. Barnes Ratwatte, to visit America under one of their leadership grants. The period was to be close upon a month. I was reluctant to ask the PM time off for such a long program. But she had heard about it, and wanted me to go. She was convinced that I needed a break, and said “At this rate you will fall ill.” This was both unselfish and gracious of her.
-
-...
-
-[Data](articles/0bc19c17.json)
-
-[Extended Data](ext_articles/0bc19c17.ext.json)
 
 ---

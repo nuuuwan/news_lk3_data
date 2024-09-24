@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 20:57:46**
+As of **2024-09-24 21:09:42**
 
 ## Newspaper Stats
 
-*Scraped **46,067** Articles*
+*Scraped **46,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,241
+adalk | 4,242
 dailymirrorlk | 4,733
-adaderanalk | 5,425
-tamilmirrorlk | 6,158
+adaderanalk | 5,426
+tamilmirrorlk | 6,159
 virakesarilk | 7,360
 adaderanasinhalalk | 7,963
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,963
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,067 (100.0%) of 46,067 articles have been extended.
+46,070 (100.0%) of 46,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Foreign Minister on Saudi National Day
+
+*2024-09-24 20:29:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவூதி-தேசிய-தினத்தில்-வெளிவிவகார-அமைச்சர்/175-344398) · `ta`
+
+Sri Lanka's Foreign Minister Vijitha Herath attended Saudi Arabia's National Day celebration, marking her first official engagement. She pledged to enhance bilateral ties between the two countries.
+
+🟩
+
+The newly appointed External Affairs Minister Vijitha Herath has participated in the National Day celebrations of Saudi Arabia and recorded his first official involvement.
+
+Herath, who was sworn in today, expressed his commitment to strengthen diplomatic relations between Sri Lanka and Saudi Arabia during the event.
+
+◼️
+
+[Data](articles/8c5a3ec8.json)
+
+[Extended Data](ext_articles/8c5a3ec8.ext.json)
+
+---
 
 ### President to make a special statement tomorrow
 
@@ -43,6 +63,20 @@ President Anura Kumara Dissanayake will make a special statement while addressin
 [Data](articles/63bee3a7.json)
 
 [Extended Data](ext_articles/63bee3a7.ext.json)
+
+---
+
+### President to address the nation tomorrow
+
+*2024-09-24 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102248/president-to-address-the-nation-tomorrow) · `en`
+
+President Anura Kumara Dissanayake will make a special statement while addressing the nation at 7.30 pm tomorrow (25 September).
+
+◼️
+
+[Data](articles/93f3944a.json)
+
+[Extended Data](ext_articles/93f3944a.ext.json)
 
 ---
 
@@ -115,6 +149,26 @@ President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorro
 [Data](articles/1bd9b14c.json)
 
 [Extended Data](ext_articles/1bd9b14c.ext.json)
+
+---
+
+### Inflation down
+
+*2024-09-24 19:30:57* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-පහළට/11-412125) · `si`
+
+Inflation decreases: July 2024 rate drops from 2.9% to 1.1%. Food inflation falls from 2.3% to 0.2%.
+
+🟩
+
+According to the latest reports issued by the Department of Census and Statistics, the country's point surface inflation has been significant in July 2024 to 1.1% in July 20, 2021.
+
+The inflation that was 2.9% in July 2024, the food inflation was up to 2.3% in August 2024 to 2.2% to 0.2% to 0.2%.
+
+◼️
+
+[Data](articles/38d6c642.json)
+
+[Extended Data](ext_articles/38d6c642.ext.json)
 
 ---
 
@@ -2327,83 +2381,5 @@ He also pointed out about the days of the election after the dissolution of parl
 [Data](articles/5bab2610.json)
 
 [Extended Data](ext_articles/5bab2610.ext.json)
-
----
-
-### Vijitha Herath ordered to appear in court
-
-*2024-09-24 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201493) · `si`
-
-Colombo High Court orders Vijitha Herath to appear November 29 in bribery case against Chandushaja Pathiraja over National Lottery Board promotion deal in 2010. Attorney Namal Rajapaksa requests adjournment.
-
-🟩
-
-The Colombo High Court today (24), the Colombo High Court today (24) was appointed to appear before the court to appear before the court to appear before the court in a bribery case filed by the last good governance.
-
-When the Bribery Commission had filed a case filed by the Bribery Commission, a case filed by the Bribery Commission was taken up against the former Chandushaja Pathiraja against the former Chairman of the Development Lottery Panel.
-
-Attorney-at-Law Namal Rajapaksa appeared before the courts as a member of the Cabinet in the Cabinet of Ministers, he requested to give a different date for evidence.
-
-The General Assembly the General Assembly was ordered to appear again to Vijitha Herath on November 29.
-
-The case had been filed against Chandration Pathiraja against the agreement with a private company in the promotional activities of the National Lottery Board in 2010.
-
-◼️
-
-[Data](articles/c1f32e40.json)
-
-[Extended Data](ext_articles/c1f32e40.ext.json)
-
----
-
-### Kathmandu reached Kota
-
-*2024-09-24 10:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காத்மண்டு-சென்றடைந்தார்-கோட்டா/175-344366) · `ta`
-
-Gotabhaya Rajapaksa arrives in Kathmandu after fleeing Sri Lanka. Stays at hotel, security measures in place for his visit. Former president resigned in 2022 amid protests.
-
-🟩
-
-Former Sri Lankan President Gotabhaya Rajapaksa arrived in Kathmandu on Monday (23) via Bhutan, the capital of Bhutan.
-
-He landed at Kathmandu on Monday morning and stays at Vivanda Hotel in Jamsigale, Lalitpur. Rajapaksa arrived at Tribuwan International Airport on Truck Air Air Airline Number KB 400.
-
-According to SP Naresh Subhadi of the Lalitpur district police, security arrangements have been made for the events of Gotabhaya Rajapaksa during his visit, including plans to travel to Sidwan.
-
-On July 13, 2022, following great protests, Rajapakse left the country with his wife and personal security details and went to the Maldives before he retreated, following the massive acquisition of his official residence and workplace opponents.. He reached Singapore on July 14.
-
-On July 14, Gotabaya became the first President of Sri Lanka to resign as president and resign as president.
-
-◼️
-
-[Data](articles/0abb319c.json)
-
-[Extended Data](ext_articles/0abb319c.ext.json)
-
----
-
-### Kota also flew
-
-*2024-09-24 10:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவும்-பறந்தார்/175-344366) · `ta`
-
-Gotabhaya Rajapaksa arrives in Kathmandu after fleeing Sri Lanka due to protests. He stayed briefly in Bhutan before reaching Nepal. Security arrangements made for his visit, including travel plans to Sidwan. He became Sri Lanka's first president to resign on July 14, 2022.
-
-🟩
-
-Former Sri Lankan President Gotabhaya Rajapaksa arrived in Kathmandu on Monday (23) via Bhutan, the capital of Bhutan.
-
-He landed at Kathmandu on Monday morning and stays at Vivanda Hotel in Jamsigale, Lalitpur. Rajapaksa arrived at Tribuwan International Airport on Truck Air Air Airline Number KB 400.
-
-According to SP Naresh Subhadi of the Lalitpur district police, security arrangements have been made for the events of Gotabhaya Rajapaksa during his visit, including plans to travel to Sidwan.
-
-On July 13, 2022, following great protests, Rajapakse left the country with his wife and personal security details and went to the Maldives before he retreated, following the massive acquisition of his official residence and workplace opponents.. He reached Singapore on July 14.
-
-On July 14, Gotabaya became the first President of Sri Lanka to resign as president and resign as president.
-
-◼️
-
-[Data](articles/24308b20.json)
-
-[Extended Data](ext_articles/24308b20.ext.json)
 
 ---

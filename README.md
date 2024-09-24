@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 22:24:16**
+As of **2024-09-24 22:38:12**
 
 ## Newspaper Stats
 
-*Scraped **46,079** Articles*
+*Scraped **46,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,781
 dailyftlk | 3,053
-adalk | 4,244
+adalk | 4,245
 dailymirrorlk | 4,733
 adaderanalk | 5,427
 tamilmirrorlk | 6,159
 virakesarilk | 7,363
-adaderanasinhalalk | 7,966
+adaderanasinhalalk | 7,967
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,079 (100.0%) of 46,079 articles have been extended.
+46,079 (100.0%) of 46,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### අද දෙරණ උකුස්සා රට හමුවේ හෙළි කළ මහා පස් ජාවාරම
+
+*2024-09-24 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201513) · `si`
+
+බලපත්‍ර අවභාවිත කරමින් නීතිවිරෝධි මෙන්ම අවිධිමත් ලෙස හා මහාපරිමාණයෙන් සිදුකළ පස් කැණීමේ ජාවාරමක් නීතියේ රැහැනට හසුකර දීමට අද දෙරණ 'උකුස්සා' සමත් විය.
+
+බුලත්සිංහල ඉංගිරිය ප්‍රදේශයේ අවිධිමත් අයුරින් සිදුකරන පස් කැණීමක් සම්බන්ධයෙන් අද දෙරණ උකුස්සාට තොරතුරක් ලැබුණි.
+
+ඒ අනුව භූ විද්‍යා හා පතල් කැණීමේ කාර්යංශයේ නිලධාරින් ද සමග අද දෙරණ උකුස්සා එම ප්‍රදේශයට ගියේ ඒ සම්බන්ධයෙන් තොරතුරු සොයා බැලීමටය.
+
+අප එම ප්‍රදේශයට ළඟාවන අතරතුරදීත් පස් පටවාගත් ලොරි රථ කිහිපයක්ම මාර්ගයේ ගමන් කරන අයුරු නිරීක්ෂණය වුණි.
+
+ඒ අනුව භූ විද්‍යා හා පතල් කාර්යාංශයේ නිලධාරින් අදාළ ලොරි රථ නවත්වා ඒවායේ බලපත්‍ර පරීක්ෂා කරණු ලැබීය.
+
+එම බලපත්‍ර ව්‍යාජ ඒවා බවට ඇතිවූ සැකය මත ප්‍රවාහනය කරන පස් ප්‍රමාණ සඳහන් ප්‍රවාහන විස්තර පත්‍රිකාව පරීක්ෂා කිරීමට පියවර ගැනුණි.
+
+එහිදී සීමා උල්ලංඝනය කර සහ බලපත්‍ර අවභාවිත කරමින් ඔවුන් අසීමිත ලෙස පස් ප්‍රවාහනය කරන බව තහවුරු විය.
+
+මෙම ජාවාරම සඳහා ඔවුන් විස්තර මැකී යන පෑනක් භාවිත කරමින් තොරතුරු පියා තිබූ අයුරුත් හෙළිවුණි.
+
+අනතුරුව එම ලොරි රථ රියදුරා ද සමග අද දෙරණ උකුස්සා  ළඟා වූයේ පස් කැණිම් සිදුකෙරෙන ස්ථානයටය.
+
+...
+
+[Data](articles/56368b43.json)
+
+---
 
 ### Sri Lanka’s new President dissolves Parliament
 
@@ -243,6 +271,18 @@ New President Anura Kumara Dissanayake will address the people of the country at
 [Data](articles/0fc9d1a0.json)
 
 [Extended Data](ext_articles/0fc9d1a0.ext.json)
+
+---
+
+### ජනපති හෙට ජාතිය අමතයි
+
+*2024-09-24 20:03:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-ජාතිය-අමතයි/11-412129) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා හෙට (25) රාත්‍රී 7.30ට ජාතිය අමතා විශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/8910e9f5.json)
 
 ---
 
@@ -2381,59 +2421,5 @@ However, appearing on behalf of Vijitha Herath, Attorney-at-Law Namal Rajapaksa 
 [Data](articles/53bdf52e.json)
 
 [Extended Data](ext_articles/53bdf52e.ext.json)
-
----
-
-### Message sent to the new President
-
-*2024-09-24 12:00:57* · [`adalk`](https://www.ada.lk/breaking_news/කථානායක-නව-ජනපතිට-යැවූ-පණිවිඩය/11-412106) · `si`
-
-Here's a summary of the message in approximately 200 characters:
-
-
-
-Speaker Mahinda Yapa Abeywardena congratulates Anura Kumara Dissanayake on becoming the new Executive President. He mentions the Elections Commission's confirmation of Dissanayake's victory and expresses hope for Sri Lanka's future under his leadership. The Speaker also notes declining public trust in parliament due to ongoing political instability.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena reassures her official greetings from the newly selected Anura Kumara Dissanayake as the new Executive President.
-
-The Elections Commission has officially proved that Sri Lankan citizens have been officially proved to be the new pilot to move their motherland to the future world.The Speaker mentioned in his message that the Speaker is said.
-
-The Speaker has noted that the public confidence in this public confidence in Mr. Jaya A Dissanayake is no longer a long-standing result of parliamentary democracy.
-
-◼️
-
-[Data](articles/bd4e6078.json)
-
-[Extended Data](ext_articles/bd4e6078.ext.json)
-
----
-
-### Ruhunu University with a telephone tower. A stick of 53 lakhs
-
-*2024-09-24 12:00:05* · [`adalk`](https://www.ada.lk/breaking_news/දුරකතන-කුළුනකින්-රුහුණු-සරසවියට-රු--ලක්ෂ-53ක-පොල්ලක්/11-412105) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Ruhuna University audit report: Telephone tower cost 53 lakhs. 26506 rupees found. E-money recovery suggested. Management unresponsive. Report released 2023.
-
-🟩
-
-A recent audit report is issued by the National Audit Office of Ruhuna
-
-This is Rs.The Audit Report also states that an eight hundred (2,6506) are available.
-
-The audit has been led by the auditions that the e-money should be recovered from external parties. The management of the University of Ruhuna did not answer the audit.
-
-The report was issued by the University of Ruhuna, 2023.
-
-◼️
-
-[Data](articles/3d1e682b.json)
-
-[Extended Data](ext_articles/3d1e682b.ext.json)
 
 ---

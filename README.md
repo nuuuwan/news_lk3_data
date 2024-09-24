@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 22:57:25**
+As of **2024-09-24 23:10:22**
 
 ## Newspaper Stats
 
-*Scraped **46,081** Articles*
+*Scraped **46,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 4,245
 dailymirrorlk | 4,733
 adaderanalk | 5,427
 tamilmirrorlk | 6,159
-virakesarilk | 7,363
+virakesarilk | 7,366
 adaderanasinhalalk | 7,967
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,081 (100.0%) of 46,081 articles have been extended.
+46,084 (100.0%) of 46,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### We are ready to hold the general election cost 11 billion rupees- Elections Commission
+
+*2024-09-24 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194729) · `ta`
+
+The next step is based on the extravagant gazette published by the President by dissolving Parliament. Elections Commissioner Saman Sri Ratnayake said that it is estimated that the general election costs are required.
+
+He made this statement during a media briefing held at the Elections Commission's office on Tuesday (24).
+
+The authority to dissolve parliament is fully for the president. The Commission is obliged to act in accordance with the president's announcement of a general election once the parliament is dissolved. Details of the General Elections Date and the New Parliamentary Session will be mentioned in the Gazette of Parliament.
+
+Once the Parliament is dissolved. Thereafter, the general election should be held within five to 7 weeks.
+
+It is estimated to cost 11 billion rupees to hold the general election. Treasury should allocate funds for the election. We are ready to hold elections.
+
+◼️
+
+[Data](articles/2dd030c8.json)
+
+[Extended Data](ext_articles/2dd030c8.ext.json)
+
+---
+
+### Parliament dissolves at midnight today!
+
+*2024-09-24 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194728) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Parliament dissolved: President signs Gazette, effective midnight Tuesday 24th. Document sent to Government Print Department."
+
+🟩
+
+It is reported that the Gazette to dissolve Parliament from midnight on Tuesday 24th is signed by President Anura Kumara Dissanayake and has been sent to the Government Print Department.
+
+◼️
+
+[Data](articles/930fd044.json)
+
+[Extended Data](ext_articles/930fd044.ext.json)
+
+---
 
 ### Derana racket exposed to Ukrana
 
@@ -76,13 +120,13 @@ President Anura Kumara Dissanayake has signed the Extraordinary Gazette notifica
 
 The relevant Gazette notification has been sent to the Government Printer to be published, according to the President’s Media Division (PMD).
 
-Dissanayake, leader of the People’s Liberation Front (JVP) and the National People’s Power (NPP) alliance, won a landslide victory over the weekend by beating 38 other candidates and garnering over 5.6 million or 42.3 per cent of the votes.
+Meanwhile, the Government Printer confirmed that the Gazette notification pertaining to the dissolution of the Parliament has been received by the Department of Government Printing.
 
-During the election campaign, Dissanayake vowed to dissolve Parliament if he wins and call snap elections. The present Parliament’s five-year term ends in August next year.
+The President has issued the Gazette by virtue of the powers vested in him by Article 70 of the Constitution of the Democratic Socialist Republic of Sri Lanka and in pursuance of the provisions of Section 10 of the Parliamentary Elections Act, No. 1 of 1981.
 
-His party had just three lawmakers in Sri Lanka’s 225-member parliament.
+The proclamation dissolve Parliament with effect from midnight today and summon the new Parliament to meet on the November 21, 2024.
 
-Dissanayake was sworn into office on Monday while he appointed academic and first-time lawmaker Harini Amarasuriya as the new prime minister on Tuesday, making her the third woman to be appointed to the post.
+It also fixes November 14, 2024 as the date for the election of the new Members of Parliament.
 
 ...
 
@@ -153,6 +197,36 @@ After showing the mother of the prelate, she showed the mother of the suspect, s
 [Data](articles/8d1c33ea.json)
 
 [Extended Data](ext_articles/8d1c33ea.ext.json)
+
+---
+
+### Mother arrested for killing a baby in Kalaha
+
+*2024-09-24 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194727) · `ta`
+
+Mother arrested for killing infant in Kalaha. 21-year-old suffocated 18-month-old daughter. Police investigation underway.
+
+🟩
+
+A 21 -year -old mother in Kalaha has been suffocating her child with bloody.
+
+Galaha police have launched an investigation into the incident where the body of the child was taken to the hospital after three hours of video and photography.
+
+The mother has killed her 18 -month -old baby, Litumi Sehansa, a resident of Kulathunga Mannanzel, who lived in a rented house in Kalaha Kasturi Land.
+
+A woman named Varadhaveeran Lakshika, a twenty -one -year -old woman who married Kulathunga, is working as an Ishu image in a garment factory in Horana, and the Kalaha police are investigating the occasional fighting between the two.
+
+He said that he had left the house again on Monday (23), who had come to the IMs home from Horana to vote in the presidential election held this year.
+
+The mother, who was thrown into the baby at around 7 pm, was told that the baby had been unable to breathe for the baby's mouth and nose for a long time.
+
+But the child fell back and fell to the door of the room and died.
+
+...
+
+[Data](articles/fcdff2bb.json)
+
+[Extended Data](ext_articles/fcdff2bb.ext.json)
 
 ---
 
@@ -774,6 +848,30 @@ Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Secu
 
 ---
 
+### Donation Ceremony at Colombo Open University, Sri Lanka - Korea International Cooperation Institute
+
+*2024-09-24 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194717) · `ta`
+
+Colombo Open University receives donation from KOICA for Korean Language Classroom Development. Ceremony attended by officials from both countries. Aims to provide modern educational tools and enhance employability skills for students.
+
+🟩
+
+The donation ceremony was successfully held to the Colombo Open University of Sri Lanka through the Korea International Cooperation Organization (KOICA) for the Korean Language Classroom Development and Skills Development Program.
+
+The ceremony was held on the 20th of this month under the leadership of Korea International Cooperation Institute, Park Yangsan.
+
+This will ensure that the students of the university and the university will get modern educational products and increase the number of youths for employment and entrepreneurs.
+
+The function was attended by Koica Sri Lanka Office Director Kim Miyung, Colombo Open University Registrar, Language Department Head Kala Chandramohan, Professor Anton Piyaratne and Korean Language Coordinator Nirosha Abeeshekara.
+
+...
+
+[Data](articles/f96a637c.json)
+
+[Extended Data](ext_articles/f96a637c.ext.json)
+
+---
+
 ### New secretaries appointed
 
 *2024-09-24 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201507) · `si`
@@ -887,30 +985,6 @@ Aruna Darshana, Sayuri Mendis, Pasundu Kodikara and Nadisha Ramanayake were incl
 [Data](articles/467a446c.json)
 
 [Extended Data](ext_articles/467a446c.ext.json)
-
----
-
-### Donation Ceremony at Colombo Open University, Sri Lanka - Korea International Cooperation Institute
-
-*2024-09-24 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/194717) · `ta`
-
-Colombo Open University receives donation from KOICA for Korean Language Classroom Development. Ceremony attended by officials from both countries. Aims to provide modern educational tools and enhance employability skills for students.
-
-🟩
-
-The donation ceremony was successfully held to the Colombo Open University of Sri Lanka through the Korea International Cooperation Organization (KOICA) for the Korean Language Classroom Development and Skills Development Program.
-
-The ceremony was held on the 20th of this month under the leadership of Korea International Cooperation Institute, Park Yangsan.
-
-This will ensure that the students of the university and the university will get modern educational products and increase the number of youths for employment and entrepreneurs.
-
-The function was attended by Koica Sri Lanka Office Director Kim Miyung, Colombo Open University Registrar, Language Department Head Kala Chandramohan, Professor Anton Piyaratne and Korean Language Coordinator Nirosha Abeeshekara.
-
-...
-
-[Data](articles/f96a637c.json)
-
-[Extended Data](ext_articles/f96a637c.ext.json)
 
 ---
 
@@ -2389,63 +2463,5 @@ Meanwhile, Ruwan Wijewardena has said that he will not enter Parliament through 
 [Data](articles/097d26e8.json)
 
 [Extended Data](ext_articles/097d26e8.ext.json)
-
----
-
-### EU assures support to Sri Lanka’s new president for reforms
-
-*2024-09-24 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102233/eu-assures-support-to-sri-lankas-new-president-for-reforms) · `en`
-
-The European Union has congratulated Anura Kumara Dissanayake upon his election and inauguration as President of the Democratic Socialist Republic of Sri Lanka.
-
-Issuing a statement, the EU further said that the people of Sri Lanka demonstrated once again their commitment to democracy, with a high voter turnout at the presidential elections held on 21 September.
-
-“Elections took place in a peaceful manner and in a competitive political environment. By invitation of the authorities of Sri Lanka, the EU deployed an Election Observation Mission (EU EOM) to undertake an independent, impartial and technical assessment of all aspects of the electoral process. This further reflects EU’s close cooperation with Sri Lanka on good governance and democracy”, the statement added.
-
-...
-
-[Data](articles/edd959b7.json)
-
-[Extended Data](ext_articles/edd959b7.ext.json)
-
----
-
-### Universal Fernando is injured - the opportunity for a new player
-
-*2024-09-24 12:05:57* · [`adalk`](https://www.ada.lk/sports/විශ්ව-ප්‍රනාන්දු-ආබාධයකට-ලක්වෙයි---ඒ-වෙනුවට-නවක-ක්‍රීඩකයෙකුට-අවස්ථාව/9-412107) · `si`
-
-Sri Lanka Select Committee names Nishan Peiris for second Test due to Fernando's injury. Match starts on 26th.
-
-🟩
-
-The Sri Lanka Select Committee has taken steps to name Nishan Peiris for the second and final Test match between Sri Lanka and the Sri Lankan team.
-
-Nishan Peiris has been named due to a universal Fernando's disorder during training.
-
-The second and final Test match between the two countries will commence on the 26th.
-
-◼️
-
-[Data](articles/dacbe333.json)
-
-[Extended Data](ext_articles/dacbe333.ext.json)
-
----
-
-### MP Vijitha Herath ordered to appear before court on Nov. 29
-
-*2024-09-24 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102232/mp-vijitha-herath-ordered-to-appear-before-court-on-nov-29) · `en`
-
-The Colombo High Court today (24) ordered National People’s Power (NPP) Member of Parliament Vijitha Herath to appear before the court on November 29 to testify in connection with a bribery case filed during the tenure of the previous ‘Good Governance’ Government.
-
-When the case which had been filed by the Bribery Commission against the former Chairman of the Development Lotteries Board (DLB), Chandrawansa Pathiraja, was taken up in court today the plaintiff Vijitha Herath was scheduled to testify.
-
-However, appearing on behalf of Vijitha Herath, Attorney-at-Law Namal Rajapaksa requested for another date to testify, due to the fact that Herath will be swearing-in as a member of the Cabinet of Ministers today. The court accepted the request and rescheduled Herath’s testimony for November 29 while ordering him to appear before the court on the said date.
-
-...
-
-[Data](articles/53bdf52e.json)
-
-[Extended Data](ext_articles/53bdf52e.ext.json)
 
 ---

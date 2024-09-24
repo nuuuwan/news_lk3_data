@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 07:25:48**
+As of **2024-09-24 08:01:10**
 
 ## Newspaper Stats
 
-*Scraped **45,903** Articles*
+*Scraped **45,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ colombotelegraphcom | 457
 islandlk | 2,695
 economynextcom | 2,773
 dailyftlk | 3,053
-adalk | 4,212
+adalk | 4,213
 dailymirrorlk | 4,733
 adaderanalk | 5,402
 tamilmirrorlk | 6,117
 virakesarilk | 7,329
-adaderanasinhalalk | 7,938
+adaderanasinhalalk | 7,939
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,902 (100.0%) of 45,903 articles have been extended.
+45,905 (100.0%) of 45,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Israeli attacks losses 492 lives
+
+*2024-09-24 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201483) · `si`
+
+Israel-Lebanon conflict: 492 deaths reported, 1,645 injuries. Foreign sources claim over 200 rockets fired. Children and women among casualties.
+
+🟩
+
+The Health Ministry said that 492 people were killed due to Israeli attacks.
+
+Foreign reports say that 1,645 persons were injured in these attacks on the organization of Hezbollawa in Lebanon.
+
+The Ministry of Health of Lebanese points out that the deadly day of these conflicts was yesterday (23).
+
+According to foreign reports, more rocketers launched over 200 rockets in the unclear army.
+
+Meanwhile, 35 children and 58 women have 35 women among the dead.
+
+◼️
+
+[Data](articles/4956237e.json)
+
+[Extended Data](ext_articles/4956237e.ext.json)
+
+---
 
 ### Showers in several areas
 
@@ -989,6 +1015,30 @@ Additional Solicitor General Thilan Ratnayake appeared with Deputy Solicitor Gen
 [Data](articles/47295e63.json)
 
 [Extended Data](ext_articles/47295e63.ext.json)
+
+---
+
+### 120,000 Treasury Bills of Rs. 120,000 million
+
+*2024-09-23 18:11:31* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-120-000-ක---භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-අනිද්දා/11-412094) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Central Bank auctions Treasury Bills: 120,000 million total value, 25,000 million auctioned. 70,000 million issued. Payment due Sept 27.
+
+🟩
+
+The Treasury Bill auction is held will be held on a sum of Rs. 25,000 million.
+
+The Central Bank said that the Treasury bills of Rs. 70,000 worth Rs.. The Treasury bill issue and payment is due to be made on September 27.
+
+◼️
+
+[Data](articles/5a33a26e.json)
+
+[Extended Data](ext_articles/5a33a26e.ext.json)
 
 ---
 
@@ -1973,49 +2023,5 @@ He has made this decision by giving permission to the newly elected president to
 [Data](articles/eec78601.json)
 
 [Extended Data](ext_articles/eec78601.ext.json)
-
----
-
-### Appointment of New Defense Secretary
-
-*2024-09-23 14:57:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாதுகாப்புச்-செயலாளர்-நியமனம்/175-344311) · `ta`
-
-Sri Lanka appoints new Defense Secretary Air Vice Marshal Sampath Dadagonda. Retired from Sri Lanka Air Force after 33 years service. Born in Colombo 1966.
-
-🟩
-
-Air Vice Marshal (Retired) Sampath Dadagonda has been appointed as the new Defense Secretary by President Anuragumara Dissanayake.
-
-Diugonda retired from the Sri Lanka Air Force on November 26, 2021 after completing a service for more than 33 years.
-
-Born in Colombo on November 26, 1966, Tuagonda is the production of Thurston College, Colombo.
-
-◼️
-
-[Data](articles/f327c73c.json)
-
-[Extended Data](ext_articles/f327c73c.ext.json)
-
----
-
-### New Defense Secretary appoints
-
-*2024-09-23 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201472) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Air Vice Marshal (Retired) Sampath named new Defense Secretary."
-
-🟩
-
-Air Vice Marshal (Retired) Sampath has been appointed as the new Defense Secretary.
-
-◼️
-
-[Data](articles/64e135f1.json)
-
-[Extended Data](ext_articles/64e135f1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 09:57:57**
+As of **2024-09-24 10:11:06**
 
 ## Newspaper Stats
 
-*Scraped **45,930** Articles*
+*Scraped **45,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ dailymirrorlk | 4,733
 adaderanalk | 5,406
 tamilmirrorlk | 6,126
 virakesarilk | 7,329
-adaderanasinhalalk | 7,944
+adaderanasinhalalk | 7,945
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,930 (100.0%) of 45,930 articles have been extended.
+45,930 (100.0%) of 45,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### ලාංකිකයින් දිනකට රු බිලියන 6.5කින්  ණයකරුවන් වන හැටි
+
+*2024-09-24 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201489) · `si`
+
+පසුගිය මාස 26ක කාලයේ දී පාලකයින් දේශීය වශයෙන් ලබාගත් ණය ප්‍රමාණය සැලකිමේ දී මෙරට ජනතාව සෑම දිනකම රුපියල් බිලියන 6.5ක පමණ මුදලකින් ණයකරුවන් කර ඇති බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යාන විද්‍යා අධ්‍යන අංශයේ ජ්‍යෙෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාල මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ, ණය සම්බන්ධයෙන් රට පත්ව ඇත්තේ දැඩි අර්බුදයක බවය.
+
+මේ හේතුවෙන් නව ආර්ථික ප්‍රතිසංස්කරණ මාලාවක් කඩිනමින් සිදුකළ යුතු බව ජ්‍යෙෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාල මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/35fd3966.json)
+
+---
 
 ### Northern Province Governor resigns
 
@@ -2097,25 +2113,5 @@ Ravi Seneviratne, who holds a graduate of human rights at the University of Colo
 [Data](articles/75b61dd6.json)
 
 [Extended Data](ext_articles/75b61dd6.ext.json)
-
----
-
-### Lakshman Nipuna Arachchi appointed to Anura’s MP seat
-
-*2024-09-23 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102217/lakshman-nipuna-arachchi-appointed-to-anuras-mp-seat) · `en`
-
-The Election Commission has gazetted the name of Lakshman Nipuna Arachchi to fill the vacancy created in parliament following the election of Anura Kumara Dissanayake as the 9th executive President of Sri Lanka.
-
-Accordingly, Lakshman Nipuna Arachchi has been appointed to the Parliament as a Colombo District MP of the National People’s Power (NPP).
-
-He was next on the preference list for the district in 2020 General Elections after Anura Kumara Dissanayake.
-
-Earlier today (23), the Secretary General of Parliament, Mrs. Kushani Rohanadeera had informed the Chairman of the Election Commission in writing that Anura Kumara Dissanayake informed her under his hand that he has resigned from his seat in Parliament with effect from today, since he has assumed duties as the President of the Democratic Socialist Republic of Sri Lanka.
-
-...
-
-[Data](articles/0ad2b19a.json)
-
-[Extended Data](ext_articles/0ad2b19a.ext.json)
 
 ---

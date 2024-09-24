@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 16:23:05**
+As of **2024-09-24 16:38:16**
 
 ## Newspaper Stats
 
@@ -1427,6 +1427,14 @@ The Presidential Secretariat has issued a gazette notification for the details o
 ### Dr. Harini Amarasuriya: Prime Minister appointed Sri Lanka after 2 years
 
 *2024-09-24 09:56:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2dp41z26xgo) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dr. Harini Amarasuriya becomes Sri Lanka's PM without political ties. Born 1970, educated in sociology and social anthropology. Served as university lecturer and activist. Elected to parliament in 2020, focusing on education, rights, and healthcare. Appointed PM after PM resignation, making history as first female PM without political family background in South Asia.
+
+🟩
 
 Dr. Harini Amarasuriya: Prime Minister appointed Sri Lanka after 2 years
 

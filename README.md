@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 06:43:54**
+As of **2024-09-24 07:25:48**
 
 ## Newspaper Stats
 
-*Scraped **45,899** Articles*
+*Scraped **45,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,49 @@ newsfirstlk | 363
 dbsjeyarajcom | 382
 bbccomsinhala | 449
 colombotelegraphcom | 457
-islandlk | 2,693
+islandlk | 2,695
 economynextcom | 2,773
 dailyftlk | 3,053
 adalk | 4,212
 dailymirrorlk | 4,733
 adaderanalk | 5,402
-tamilmirrorlk | 6,116
+tamilmirrorlk | 6,117
 virakesarilk | 7,329
-adaderanasinhalalk | 7,937
+adaderanasinhalalk | 7,938
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,897 (100.0%) of 45,899 articles have been extended.
+45,902 (100.0%) of 45,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Showers in several areas
+
+*2024-09-24 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201481) · `si`
+
+Showers forecasted in Western, Sabaragamuwa, Kandy, Nuwara Eliya, Galle, Matara, and North Western provinces. Thunderstorms possible in Uva and Eastern provinces. Strong winds (40-45 km/h) expected. Public advised to take precautions against lightning and wind-related accidents.
+
+🟩
+
+Several spells of showers in the Western and Sabaragamuwa provinces, Kandy, Nuwara Eliya, Galle and Matara districts. Showers may occur in the North Western Province.
+
+The Department of Meteorological Department announced that showers or thundershowers during the evening or night in the Uva and Eastern provinces could have occur.
+
+At times, the North, North-Central, North-Central, North Western and Southern provinces will be held in the North, North-Central, Northwestern and Southern provinces.. There may be 40-45-strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/0860b6c4.json)
+
+[Extended Data](ext_articles/0860b6c4.ext.json)
+
+---
 
 ### Murdered journalist Lasantha’s daughter hopes AKD will bring justice
 
@@ -303,6 +327,30 @@ He emphasised the importance of addressing some of the key reforms and Governmen
 [Data](articles/319db49a.json)
 
 [Extended Data](ext_articles/319db49a.ext.json)
+
+---
+
+### The man who went to the sea is the body of the body
+
+*2024-09-24 02:18:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலுக்குச்-சென்றவர்-சடலமாக-மீட்பு/175-344352) · `ta`
+
+Man found dead after sea search: C. Nagarasa, 53, went missing near Arali, body discovered off Ponnalai coast.
+
+🟩
+
+A family member who went to the Vallavas in Jaffna has been found dead in a boy who died in a boy.
+
+C. Nagarasa (age 53) has been recovered.
+
+The man who went to the sea yesterday evening from Arali to the sea did not return to shore until Monday morning.
+
+Subsequently, fellow workers and relatives searched him in the sea, and he was found dead in Vallin when he saw his boils on the coast of Ponnalai.
+
+◼️
+
+[Data](articles/eef5322b.json)
+
+[Extended Data](ext_articles/eef5322b.ext.json)
 
 ---
 
@@ -1969,45 +2017,5 @@ Air Vice Marshal (Retired) Sampath has been appointed as the new Defense Secreta
 [Data](articles/64e135f1.json)
 
 [Extended Data](ext_articles/64e135f1.ext.json)
-
----
-
-### New Defence Secretary appointed
-
-*2024-09-23 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102213/new-defence-secretary-appointed) · `en`
-
-Air Vice Marshal (Retired) Sampath Thuyacontha has been appointed as the new Secretary of Defence.
-
-Thuyacontha joined the Sri Lanka Air Force on 17th of May 1988 to the 19th Intake as an Officer Cadet and was commissioned as a Pilot Officer in the General Duties Pilot Branch in the year 1990.
-
-After completion of training in the year 1990 he was deployed for flying duties as an operational pilot in Bell 212/412 helicopters. In 2001, he was posted to No 9 Attack Helicopter Squadron, Sri Lanka Air Force Base Hingurakgoda as the Second in Command and later was appointed as the Commanding Officer in the year 2005.
-
-During his long tenure, he actively participated for all major operations which includes Humantarian War to liberate North and East and he managed to log more than 7000 flying hours as an Operations/ VIP and Attack Helicopter Pilot of Sri Lanka Air Force.
-
-...
-
-[Data](articles/ff4d1031.json)
-
-[Extended Data](ext_articles/ff4d1031.ext.json)
-
----
-
-### FCCISL congratulates Sri Lanka President, hopes for good governance
-
-*2024-09-23 14:30:00* · [`economynextcom`](https://economynext.com/fccisl-congratulate-sri-lanka-president-hopes-for-good-governance-180646/) · `en`
-
-ECONOMYNEXT – The Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL) has congratulated President Anura Kumara Dissanayake, and called for ‘a new era of good governance and development’.
-
-“As President, we trust that you will inspire the nation with your commitment to good governance, transparency, and accountability,” FCCISL said in a statement.
-
-The FCCISL urged the new government to entrust capable and experienced leaders with the responsibility of steering key national institutions.
-
-FCCISL Congratulates President-Elect Anura Kumara Dissanayake and Calls for a New Era of Good Governance and Development
-
-...
-
-[Data](articles/7d894943.json)
-
-[Extended Data](ext_articles/7d894943.ext.json)
 
 ---

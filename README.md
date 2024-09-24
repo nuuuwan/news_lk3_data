@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 12:24:22**
+As of **2024-09-24 12:38:56**
 
 ## Newspaper Stats
 
-*Scraped **45,968** Articles*
+*Scraped **45,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 458
 islandlk | 2,696
 economynextcom | 2,773
 dailyftlk | 3,053
-adalk | 4,224
+adalk | 4,225
 dailymirrorlk | 4,733
 adaderanalk | 5,412
 tamilmirrorlk | 6,132
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,968 (100.0%) of 45,968 articles have been extended.
+45,969 (100.0%) of 45,969 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -633,6 +633,32 @@ The extraordinary events that took place in 2022 have reached their end in the r
 [Data](articles/5249957f.json)
 
 [Extended Data](ext_articles/5249957f.ext.json)
+
+---
+
+### Certificate given to Anura Cardinal Thero
+
+*2024-09-24 09:38:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-කාදිනල්-හිමියන්ට-දුන්-සහතිකය/11-412102) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake visits Archbishop Malcolm Cardinal. Presents certificate to Anura Cardinal Thero. Promises support for country's development. Attends religious ceremony at Dangea and Molomel.
+
+🟩
+
+New President Anura Kumara Dissanayake visited the Archbishop of Colombo yesterday (23) last evening.
+
+The President who arrived at the Archbishop of Borella, the President visited the Archbishop and consult the healing suffering.
+
+The Archbishop of Colombo is completely undoubtedly Malcolm Cardinal.,
+
+I wish the highest number of people in Sri Lanka as the most popular. The people of the country have been assigned to the ruling responsibility to make the necessary change in Sri Lanka. This may be a blevant and dash. We promise him our full support and blessings. I urge you, especially to continue the ridiculous people in the country.
+
+The President insisted that a journalist was responding to a question raised by the President.
+
+...
+
+[Data](articles/61543dc1.json)
+
+[Extended Data](ext_articles/61543dc1.ext.json)
 
 ---
 
@@ -2119,23 +2145,5 @@ US State Department spokesperson Matthew Miller, in a statement on Sunday, dubbe
 [Data](articles/0f1a062c.json)
 
 [Extended Data](ext_articles/0f1a062c.ext.json)
-
----
-
-### 182 people killed in Israel's attack: Lebanon
-
-*2024-09-23 20:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-182-பேர்-கொல்லப்பட்டனர்-லெபனான்/50-344336) · `ta`
-
-Israel's attack on Lebanon resulted in 182 deaths, including civilians and medical personnel, with 727 injuries reported. The Israeli military targeted over 300 Hezbollah sites.
-
-🟩
-
-The Israeli military spokesman today (23) said that more than 300 Hezbollah targets were attacked, with 182 people, including children and medical staff, were killed in Israeli attacks and 727 were injured today, according to Lebanon's Health Ministry.
-
-◼️
-
-[Data](articles/31dc0468.json)
-
-[Extended Data](ext_articles/31dc0468.ext.json)
 
 ---

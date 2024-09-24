@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-24 13:39:18**
+As of **2024-09-24 13:58:17**
 
 ## Newspaper Stats
 
-*Scraped **45,988** Articles*
+*Scraped **45,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,121 @@ dailyftlk | 3,053
 adalk | 4,227
 dailymirrorlk | 4,733
 adaderanalk | 5,413
-tamilmirrorlk | 6,135
+tamilmirrorlk | 6,142
 virakesarilk | 7,344
-adaderanasinhalalk | 7,951
+adaderanasinhalalk | 7,953
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-45,987 (100.0%) of 45,988 articles have been extended.
+45,997 (100.0%) of 45,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-24 (Tuesday)
+
+### Maskeliya student Abhinaya's humanity
+
+*2024-09-24 13:32:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மஸ்கெலியா-மாணவி-அபிநயாவின்-மனிதநேயம்/76-344377) · `ta`
+
+Abhinaya, a high school student, found a gold necklace and cash on the road. She turned it over to the police and school authorities. Her honesty earned praise from teachers and the item's owner.
+
+🟩
+
+Not everyone can do it. They want a mind for that. Balakrishnan Abhinaya, a high school student at the Maskeliya Sen Joseph National School, has made it a role model for all the other student community.
+
+Student Balakrishnan Abhinaya has handed over a half -pound gold tali on the highway.
+
+The student found a half-pound gold tali and 3000 rupees of money lying on the main road in Amman Temple on Maskeliya-Samimalai Road on Tuesday morning.
+
+They have been handed over to the police officer G. Wigneswaran, who was on duty in the area and informed the school principal N. Parameswaran.
+
+Maskeliya Police Station Superintendent SAS.Brought to the attention of Puspakumara.
+
+During the investigation, Maskeliya Brownweek was identified as the owner of the items in the Queen of the Queen of Maskeliya.
+
+The items were handed over to the owner in the presence of Pushpakumara in charge of the police station.
+
+...
+
+[Data](articles/581fe27a.json)
+
+[Extended Data](ext_articles/581fe27a.ext.json)
+
+---
+
+### Roshan Gunatilleke resigns
+
+*2024-09-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201498) · `si`
+
+Roshan Gunatilleke resigns as Governor of Western Province. President Anura Kumara Dissanayake accepts resignation. Gunatilleke cites ability to strengthen province and council during 2020-2021.
+
+🟩
+
+Roshan Gunatilleke has resigned from the post of Governor of Western Province.
+
+President Anura Kumara Dissanayake has informed him that he is resigned with respect.
+
+The letter further stated that he was able to be the highest strength for the benefit of the Western Province and the Western Provincial Council as well as the Western Provincial Council.
+
+Roshan Gunatilleke also said that he was the privilege of leading the security and health of the Western Provincial Public Service to uplift the protection and health of the people in the past 2020 and 2021.
+
+◼️
+
+[Data](articles/0ac6b6f8.json)
+
+[Extended Data](ext_articles/0ac6b6f8.ext.json)
+
+---
+
+### Railway watching compartment
+
+*2024-09-24 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201497) · `si`
+
+Train track dejoins Badulla-Kandy route due to damage near Ella-Demodara stations. Repair work underway. Service disrupted for about 30 days starting December 24th.
+
+🟩
+
+A track of a passenger and freight train operated from Badulla to Kandy has dejoined.
+
+The Badulla Railway Control Room states that the track of the passenger and freight train, which was traveling from Badulla to Kandy, has been interrupted due to the track of the track and transport train.
+
+The railwaylines have begun today (24) 12 days. About only 30.
+
+The inspired was the case between Ella and Demodara railway stations.
+
+The Railway Control Room added that the railway track has been severely damaged due to the delegation and the tracks have been carried out expeditiously, he said.
+
+◼️
+
+[Data](articles/88d0100c.json)
+
+[Extended Data](ext_articles/88d0100c.ext.json)
+
+---
+
+### Sudden fall in the price of egg
+
+*2024-09-24 13:17:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-திடீர்-வீழ்ச்சி/175-344376) · `ta`
+
+Egg prices drop 10 rupees. Association cites increased production and decreased demand. Eggs now sell for 28-30 rupees.
+
+🟩
+
+The All Ceylon Egg Dealers Association said that the price of an egg has suddenly reduced by 10 rupees.
+
+Following this, the secretary of the association Anurasiri Marasinghe said that eggs will be sold for Rs 28 to Rs 30.
+
+He noted that the increase in production and the decline in demand was the cause of egg prices.
+
+◼️
+
+[Data](articles/f193fc56.json)
+
+[Extended Data](ext_articles/f193fc56.ext.json)
+
+---
 
 ### Lonely
 
@@ -119,6 +221,30 @@ United National Party Deputy Leader Ruwan Wijewardena and Chairman Vajira Abeywa
 [Data](articles/6a695215.json)
 
 [Extended Data](ext_articles/6a695215.ext.json)
+
+---
+
+### Ranil Action Resolution
+
+*2024-09-24 12:40:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ரணில்-அதிரடி-தீர்மானம்/150-344372) · `ta`
+
+Ranil Wickremesinghe: No parliamentary election bid, won't return via national list. Continues as UNP advisor. Decision confirmed by party leaders Ruwan Wijewardena and Vajira Abeywardena.
+
+🟩
+
+Former President and UNP leader Ranil Wickremesinghe has said that he will not contest the parliamentary election.
+
+He also said that he would not come to Parliament again through the national bar.
+
+Subsequently, it is reported that he will continue to act as the UNP adviser.
+
+United National Party Deputy Leader Ruwan Wijewardena and Chairman Vajira Abeywardena confirmed the decision taken by former President Wickremesinghe.
+
+◼️
+
+[Data](articles/a03ba210.json)
+
+[Extended Data](ext_articles/a03ba210.ext.json)
 
 ---
 
@@ -438,6 +564,30 @@ He further stated that they will discuss with the President regarding the dissol
 
 ---
 
+### Cut over the warned driver
+
+*2024-09-24 11:26:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எச்சரித்த-சாரதி-மீது-வெட்டு/71-344367) · `ta`
+
+Sword attack on bus driver in Jaffna. Driver hospitalized after being assaulted by youths near bus station. Incident occurred on Monday.
+
+🟩
+
+Yall. The incident took place on Monday (23) when a sword attack on a private bus driver warned youths who had been chatting with women near the central bus station.
+
+Vinasithambi Jegadeeswaran is thus under attack. He has been admitted to the Teaching Hospital for treatment.
+
+Last week Jaffna. The driver, who had been harassed by four youths near the Central Bus Stand, had been harassed by the women coming to the bus station and harassed the youth.
+
+After the incident, two youths arrived on a motorcycle on Monday (23) and fled the driver of the driver of the bus from Colombo to Jaffna.
+
+◼️
+
+[Data](articles/abcc32ac.json)
+
+[Extended Data](ext_articles/abcc32ac.ext.json)
+
+---
+
 ### Sword cutting on warned driver
 
 *2024-09-24 11:26:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/எச்சரித்த-சாரதி-மீது-வாள்-வெட்டு-தாக்குதல்/71-344367) · `ta`
@@ -595,6 +745,32 @@ On July 14, Gotabaya became the first President of Sri Lanka to resign as presid
 [Data](articles/0abb319c.json)
 
 [Extended Data](ext_articles/0abb319c.ext.json)
+
+---
+
+### Kota also flew
+
+*2024-09-24 10:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவும்-பறந்தார்/175-344366) · `ta`
+
+Gotabhaya Rajapaksa arrives in Kathmandu after fleeing Sri Lanka due to protests. He stayed briefly in Bhutan before reaching Nepal. Security arrangements made for his visit, including travel plans to Sidwan. He became Sri Lanka's first president to resign on July 14, 2022.
+
+🟩
+
+Former Sri Lankan President Gotabhaya Rajapaksa arrived in Kathmandu on Monday (23) via Bhutan, the capital of Bhutan.
+
+He landed at Kathmandu on Monday morning and stays at Vivanda Hotel in Jamsigale, Lalitpur. Rajapaksa arrived at Tribuwan International Airport on Truck Air Air Airline Number KB 400.
+
+According to SP Naresh Subhadi of the Lalitpur district police, security arrangements have been made for the events of Gotabhaya Rajapaksa during his visit, including plans to travel to Sidwan.
+
+On July 13, 2022, following great protests, Rajapakse left the country with his wife and personal security details and went to the Maldives before he retreated, following the massive acquisition of his official residence and workplace opponents.. He reached Singapore on July 14.
+
+On July 14, Gotabaya became the first President of Sri Lanka to resign as president and resign as president.
+
+◼️
+
+[Data](articles/24308b20.json)
+
+[Extended Data](ext_articles/24308b20.ext.json)
 
 ---
 
@@ -1480,6 +1656,32 @@ Nipuna Arachchi yesterday sworn in as a Member of Parliament for the vacancy cau
 
 ---
 
+### Parliament will be dissolved tonight
+
+*2024-09-24 07:47:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-இன்றிரவு-கலைக்கப்படும்/175-344354) · `ta`
+
+Sri Lanka: Parliament dissolved, elections by December. President Dissanayake forms cabinet, Dr. Harini Amarasuriya sworn in as Prime Minister. National People's Power plans election campaign.
+
+🟩
+
+Our brother -in -law Daily Mirror has released the news that Parliament will be dissolved tonight (24) and parliamentary elections will be held by December.
+
+Dinesh Gunawardena's resignation from the post of Prime Minister yesterday (23) will be appointed by President Anura Kumara Dissanayake today (24).
+
+President Dissanayake will have tourism, security, finance, justice, industrial and investment promotion, while the Prime Minister will be the Minister of Foreign Affairs, Education and Mass.
+
+National People's Power Member of Parliament, Dr. Harini Amarasuriya will be sworn in as Prime Minister and Senior Parliamentarian Vijitha Herath and the newly sworn in by MP Lakshman Nipuna Arachchi will be appointed as ministers.
+
+Nipuna Arachchi was sworn in as a Member of Parliament yesterday (23) for the vacuum caused by Anurakumara Dissanayake in the Colombo electorate.
+
+...
+
+[Data](articles/b92fe6c6.json)
+
+[Extended Data](ext_articles/b92fe6c6.ext.json)
+
+---
+
 ### Missing of three fishermen
 
 *2024-09-24 07:46:53* · [`adalk`](https://www.ada.lk/breaking_news/ධීවරයින්-තිදෙනෙක්-සමග-යාත්‍රාවක්-අතුරුදන්/11-412098) · `si`
@@ -1896,6 +2098,8 @@ Dissananayake’s Marxists Janatha Vimukthi Peramuna (JVP)-led National People�
 
 [Data](articles/238476fa.json)
 
+[Extended Data](ext_articles/238476fa.ext.json)
+
 ---
 
 ### Murdered journalist Lasantha’s daughter hopes AKD will bring justice
@@ -2095,149 +2299,5 @@ They said his significant victory was a true reflection of the majority’s trus
 [Data](articles/068a0d0b.json)
 
 [Extended Data](ext_articles/068a0d0b.ext.json)
-
----
-
-### Indian CEO Forum congratulates AKD
-
-*2024-09-24 03:28:27* · [`dailyftlk`](https://www.ft.lk/business/Indian-CEO-Forum-congratulates-AKD/34-767066) · `en`
-
-The Indian CEO Forum (ICF) has extended its best wishes to newly elected President Anura Kumara Dissanayake.
-
-The ICF also said it will work towards strengthening the economic relationship between both countries by leveraging mutual strengths.
-
-◼️
-
-[Data](articles/81a67ff0.json)
-
-[Extended Data](ext_articles/81a67ff0.ext.json)
-
----
-
-### National Chamber of Commerce congratulates AKD
-
-*2024-09-24 03:27:40* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Commerce-congratulates-AKD/34-767065) · `en`
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) in a statement congratulated Anura Kumara Dissanayake on his election as the ninth Executive President of the Democratic Socialist Republic of Sri Lanka.
-
-“As he takes office during this pivotal period, we recognise the importance of his role in steering the nation through current economic challenges,” the NCCSL said.
-
-NCCSL President Deepal Nelson, on behalf of the council, extended warmest congratulations to President Dissanayake. He also thanked Dissanayake for taking the time, while being a candidate, to attend the NCCSL ‘Voice of Leaders’ forum to educate his vision to members.
-
-...
-
-[Data](articles/3ea3e17c.json)
-
-[Extended Data](ext_articles/3ea3e17c.ext.json)
-
----
-
-### AmCham Sri Lanka gets new Secretary General
-
-*2024-09-24 03:26:58* · [`dailyftlk`](https://www.ft.lk/business/AmCham-Sri-Lanka-gets-new-Secretary-General/34-767064) · `en`
-
-The AmCham Sri Lanka has announced the appointment of Neelika Tillekeratne as the new Secretary General.
-
-The AmCham said her extensive experience in leading prestigious organisations and her commitment to environmental stewardship bring in a wealth of timely knowledge to the Chamber.
-
-Tillekeratne is a seasoned Marketing and Communications professional with an extensive track record spanning over 25 years. With over 20 years of leadership expertise within renowned multinational corporations, including Coca-Cola and Unilever, as well as a distinguished tenure at a local conglomerate, CIC Holdings PLC, her experience encompasses a diverse range of sectors such as multinational organisations, fintech, agri, pharma, investment banking, real estate, and manufacturing.
-
-Most recently, she concluded her role as the Communications Director for the USAID Sri Lanka Energy Program.
-
-◼️
-
-[Data](articles/fae90122.json)
-
-[Extended Data](ext_articles/fae90122.ext.json)
-
----
-
-### SAPPTA congratulates President Anura Kumara Dissanayake
-
-*2024-09-24 03:23:38* · [`dailyftlk`](https://www.ft.lk/business/SAPPTA-congratulates-President-Anura-Kumara-Dissanayake/34-767063) · `en`
-
-The Spices and Allied Products Producers’ and Traders’ Association (SAPPTA) yesterday extended its congratulations to President Anura Kumara Dissanayake, who was sworn in as the ninth Executive President of Sri Lanka.
-
-In a statement, the SAPPTA expressed confidence in the President’s leadership and commitment to advancing the country’s economic and development goals.
-
-The Association pledged its support to collaborate with the new administration in addressing key challenges and opportunities in the sector. “We look forward to working closely with President Dissanayake to promote the growth of the spice industry and enhance export potential,” SAPPTA President Christopher Fernando said.
-
-He emphasised the importance of addressing some of the key reforms and Government support to boost the country’s spice production and exports to surpass the $ 1 billion mark.
-
-◼️
-
-[Data](articles/319db49a.json)
-
-[Extended Data](ext_articles/319db49a.ext.json)
-
----
-
-### AKD’s Top Priority Should Be To Appease A Population Boiling From Within
-
-*2024-09-24 03:22:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akds-top-priority-should-be-to-appease-a-population-boiling-from-within/) · `en`
-
-By the time of writing this article on Sunday morning, it seemed that Sri Lankans have chosen the National People’s Power or NPP Presidential candidate Anura Kumara Dissanayake, known as AKD, as their new President for the next five years. As expected, the supporters of the new President are celebrating the victory with over-jubilation in the social media due to the curfew imposed and later extended by the Government of Ranil Wickremesinghe, introduced to voters as Ranil by Wickremesinghe himself.
-
-...
-
-[Data](articles/63b3c05e.json)
-
-[Extended Data](ext_articles/63b3c05e.ext.json)
-
----
-
-### The man who went to the sea is the body of the body
-
-*2024-09-24 02:18:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலுக்குச்-சென்றவர்-சடலமாக-மீட்பு/175-344352) · `ta`
-
-Man found dead after sea search: C. Nagarasa, 53, went missing near Arali, body discovered off Ponnalai coast.
-
-🟩
-
-A family member who went to the Vallavas in Jaffna has been found dead in a boy who died in a boy.
-
-C. Nagarasa (age 53) has been recovered.
-
-The man who went to the sea yesterday evening from Arali to the sea did not return to shore until Monday morning.
-
-Subsequently, fellow workers and relatives searched him in the sea, and he was found dead in Vallin when he saw his boils on the coast of Ponnalai.
-
-◼️
-
-[Data](articles/eef5322b.json)
-
-[Extended Data](ext_articles/eef5322b.ext.json)
-
----
-
-### Will NPP embrace a new development trajectory?
-
-*2024-09-24 02:16:49* · [`dailyftlk`](https://www.ft.lk/columns/Will-NPP-embrace-a-new-development-trajectory/4-767054) · `en`
-
-All the debate about Sri Lanka’s current state of sovereign default implies a much deeper question: what is the macroeconomic framework that the NPP will adopt?
-
-With Sri Lanka continuing to reel from the economic crisis, the popular frustration paved the way for the victory of the NPP candidate, Anura Kumara Dissanayake, in the recent Presidential election. Meanwhile, as indicated by the premature announcement of a settlement with bondholders just days earlier, the complex question of debt restructuring hangs like a shadow over the incoming Government. It invokes a web of international actors led by the IMF who apply pressure at different levels.
-
-...
-
-[Data](articles/79176cd9.json)
-
-[Extended Data](ext_articles/79176cd9.ext.json)
-
----
-
-### The people’s choice: Quest for a new political era
-
-*2024-09-24 02:07:00* · [`dailyftlk`](https://www.ft.lk/columns/The-people-s-choice-Quest-for-a-new-political-era/4-767053) · `en`
-
-Congratulations to Anura Kumara Dissanayake (AKD), the ninth Executive President of Sri Lanka! As you take on the profound responsibility of leading our nation, we trust that your leadership will bring about transparency, integrity, and a renewed focus on the well-being of all Sri Lankans.
-
-AKD’s election marks a critical turning point in Sri Lanka’s political landscape, as voters signal a deep desire for change. However, the real challenge begins now. His journey will be defined not merely by the electoral victory but by how well he can deliver on the promises and expectations of the people.
-
-...
-
-[Data](articles/e1a4bd0e.json)
-
-[Extended Data](ext_articles/e1a4bd0e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 16:56:17**
+As of **2024-09-25 17:07:58**
 
 ## Newspaper Stats
 
@@ -86,7 +86,15 @@ Meanwhile, the turnover appeared at 3.96 billion rupees.
 
 The Controller General of Immigration and Emigration, Harsha Illukpitiya has been remanded by the Supreme Court on contempt of court charges for failing to implement the interim order on the implementation of the electronic visa process.
 
-◼️
+The court issued this order after reading out the relevant charge sheets against the Controller General of Immigration and Emigration, Ada Derana reporter said.
+
+The relevant fundamental rights petitions were ordered to be taken up again on January 22, 2025.
+
+On September 13, the Supreme Court ordered to file contempt of court charges against the Controller General of Immigration and Emigration for failing to obey the court’s interim order to suspend the implementation of the electronic visa system.
+
+The court also ordered the petitioning party to draft the charges and present it before the court today (September 25).
+
+...
 
 [Data](articles/52d3cc9b.json)
 

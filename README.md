@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 10:57:09**
+As of **2024-09-25 11:10:30**
 
 ## Newspaper Stats
 
-*Scraped **46,176** Articles*
+*Scraped **46,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ colombotelegraphcom | 461
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
-adalk | 4,251
+adalk | 4,252
 dailymirrorlk | 4,733
-adaderanalk | 5,433
+adaderanalk | 5,434
 tamilmirrorlk | 6,173
 virakesarilk | 7,376
-adaderanasinhalalk | 7,976
+adaderanasinhalalk | 7,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,176 (100.0%) of 46,176 articles have been extended.
+46,176 (100.0%) of 46,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Sri Lanka Customs warns against fake recruitment workshops
+
+*2024-09-25 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102256/sri-lanka-customs-warns-against-fake-recruitment-workshops-) · `en`
+
+Sri Lanka Customs says it has received information that certain individuals are engaged in a racket while announcing that they will conduct practice interviews for the recruitment of Assistant Superintendents of Customs.
+
+Customs spokesperson, Additional Director General of Customs, Seevali Arukgoda, stated that no official workshop has been organized for such interviews.
+
+“The Open Competitive Examination for recruitment to the post of Assistant Superintendent of Customs was held recently. Based on the results of the competitive examination, we have called a group of candidates for an interview. This interview is scheduled to be conducted on the 27th, 28th, and 29th of this month,” he said.
+
+He further mentioned that they have recently noticed on social media that some individuals have arranged workshops in preparation for the interview for the recruitment of customs officers.
+
+...
+
+[Data](articles/8068923c.json)
+
+---
+
+### මුදල් අමාත්‍යාංශ ලේකම් වැඩට බහී
+
+*2024-09-25 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201526) · `si`
+
+මුදල්, ආර්ථික සංවර්ධන, ප්‍රතිපත්ති සම්පාදන, සැලසුම් සහ සංචාරක අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස පත් වූ කේ. එම්. මහින්ද සිරිවර්ධන මහතා අද (25) සිය ධුරයේ යළි වැඩ භාර ගත්තේ ය.
+
+භාණ්ඩාගාර නියෝජ්‍ය ලේකම්වරු සහ මුදල් අමාත්‍යාංශය යටතේ වන දෙපාර්තමේන්තුවල ප්‍රධානීහු ඇතුළු ජ්‍යෙෂ්ඨ නිලධාරීහු මෙම අවස්ථාවට එක්ව සිටියහ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීරණ ණය පහසුකම ලබාගැනීම සහ මෙරට ණය ප්‍රතිව්‍යුහගතරණ ක්‍රියාවලිය සාර්ථක කර ගැනීම සඳහා සුවිශේෂී දායකවත්යක් දැක් වූ ඒ මහතා ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව, ඉන්දියාව, බංග්ලාදේශය සහ භූතානය සඳහා විකල්ප විධායක අධ්‍යක්ෂ ලෙස කටයුතු කර ඇත.
+
+අමෙරිකා එක්සත් ජනපදයේ වැන්ඩබිල්ට් විශ්වවිද්‍යාලයෙන් ආර්ථික විද්‍යාව පිළිබඳ ශාස්ත්‍රපති උපාධියක් සහ ආර්ථික සංවර්ධනය පිළිබඳ පශ්චාත් උපාධි ඩිප්ලෝමාවක් ලබාගෙන ඇති අතර කැලණිය විශ්වවිද්‍යාලයෙන් ආර්ථික විද්‍යාව පිළිබඳ ශාස්ත්‍රවේදී විශේෂ උපාධියක් ලබා ඇත.
+
+...
+
+[Data](articles/c7aea23a.json)
+
+---
 
 ### Disaster near the entrance of Parliament
 
@@ -133,6 +169,28 @@ Although a peace agreement is implemented to end the civil war over the civil wa
 [Data](articles/6b54756c.json)
 
 [Extended Data](ext_articles/6b54756c.ext.json)
+
+---
+
+### නව ආරක්ෂක ලේකම්ගේ ඩිපෙන්ඩර් රථය අනතුරක
+
+*2024-09-25 09:37:57* · [`adalk`](https://www.ada.lk/picture_story/නව-ආරක්ෂක-ලේකම්ගේ-ඩිපෙන්ඩර්-රථය-අනතුරක/10-412134) · `si`
+
+නව ආරක්ෂක ලේකම්වරයාට ආරක්ෂක අමාත්‍යාංශයෙන් නිකුත් කර තිබූ  ඩිපෙන්ඩර් රථය වැලිකඩ පාර්ලිමේන්තු පාරේ ජයන්තිපුර ප්‍රධාන පිවිසුම ආසන්නයේ දී අදඅ (25) අලුයම දියවන්නා වගුරු බිමට පෙරළී ගොස් ඇතැයි වැලිකඩ පොලිසි කියයි
+
+අනතුර සිදුවන අවස්ථාවේදී ආරක්ෂක ලේකම් එච්. එස්. එස්.  තුයිය කොස්තා මහතා එම රථයේ  සිට නැතැයි පොලිසිය සඳහන් කරයි. එහි රියදුරුවන යුද හමුදා සෙබළා පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇත
+
+අමාත්‍යාංශයේ සිට ආරක්ෂක ලේකම්වරයාව රැගෙන ඒම සඳහා කියැන්හැම් හන්දියේ සිට පොල්දූව දෙසට ධාවනය වෙමින් තිබියදී පාර්ලිමේන්තු ප්‍රධාන පිවිසුම වම් පස දියවන්නා  වගුරු බිමට පෙරළී  මෙම අනතුරු වී ඇතැයි පොලිසිය කියයි
+
+වේගය පාලනය කර ගත නොහැකිව මෙම අනතුර සිදුවී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+
+අනතුරින් අත්අඩංගුවට ගත් රියදුරුට කිසිදු තුවාලයක් සිදුවී නැත. අනතුරින්  ඩිපෙන්ඩර් රථයට බරපතල අලාභ සිදුවී ඇත
+
+ඔහු මත්පැන් පානය කර සිටියාද යන්න දැන ගැනීම සඳහා අධිකරණ වෛද්‍යවරයෙකු වෙත ඉදිරිපත් කිරීමට නියමිතය
+
+...
+
+[Data](articles/be96edff.json)
 
 ---
 
@@ -2205,69 +2263,5 @@ President Anura Kumara Dissanayake has said that the successful regime and the S
 [Data](articles/10079085.json)
 
 [Extended Data](ext_articles/10079085.ext.json)
-
----
-
-### Inflation down
-
-*2024-09-24 19:30:57* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-පහළට/11-412125) · `si`
-
-Inflation decreases: July 2024 rate drops from 2.9% to 1.1%. Food inflation falls from 2.3% to 0.2%.
-
-🟩
-
-According to the latest reports issued by the Department of Census and Statistics, the country's point surface inflation has been significant in July 2024 to 1.1% in July 20, 2021.
-
-The inflation that was 2.9% in July 2024, the food inflation was up to 2.3% in August 2024 to 2.2% to 0.2% to 0.2%.
-
-◼️
-
-[Data](articles/38d6c642.json)
-
-[Extended Data](ext_articles/38d6c642.ext.json)
-
----
-
-### Presidential Media Director General Dr. Nagith Indika
-
-*2024-09-24 19:26:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-මාධ්‍ය-අධ්‍යක්ෂ-ජනරාල්-වෛද්‍ය-නජිත්-ඉන්දික/11-412124) · `si`
-
-Dr. Nagith Indika appointed Director General of Parliament. Formerly medical officer in government hospitals. Old boy of Ranna Maha Vidyalaya, Hambantota. Completed Faculty of Medicine.
-
-🟩
-
-Dr. Nagith Indika has been appointed as the Director General of President Mahinda Rajapaksa as the Director General of Parliament.
-
-Dr. Nagith Indika, an old boy of the Ranna Maha Vidyalaya, Hambantota, has been completed by the Faculty of Medicine.
-
-He served as a medical officer of several government hospitals and institutions in the last five years.
-
-◼️
-
-[Data](articles/6739d1f8.json)
-
-[Extended Data](ext_articles/6739d1f8.ext.json)
-
----
-
-### Outstanding growth in the stock market
-
-*2024-09-24 19:09:16* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොලේ-කැපී-පෙනෙන-වර්ධනයක්/11-412123) · `si`
-
-Colombo Stock Market sees significant growth: All indices rise, S&P SL20 increases by 76.16, Commercial Bank leads gains among 170 companies.
-
-🟩
-
-Outstanding growth in Colombo Stock Market Price Index was reported today (24). Accordingly, all stock price index value increased by 237.31 units in the day, and the S & PL20 index increased by Rs. 76.16.
-
-At the end of transactions, all stock price index value was 11,334.12 units and the S & P SL20 index value amounted to 3,236.79.
-
-Commercial Bank, Melstakop, LOLC Holdings, Hatton Calding and Ceylon Cold Store has increased compared to the date of 170 companies to increase all stock price index.
-
-◼️
-
-[Data](articles/85cd389e.json)
-
-[Extended Data](ext_articles/85cd389e.ext.json)
 
 ---

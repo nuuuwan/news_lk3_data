@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 20:11:05**
+As of **2024-09-25 20:38:12**
 
 ## Newspaper Stats
 
-*Scraped **46,262** Articles*
+*Scraped **46,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,206 @@ colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,804
 dailyftlk | 3,074
-adalk | 4,267
+adalk | 4,268
 dailymirrorlk | 4,733
-adaderanalk | 5,445
-tamilmirrorlk | 6,189
-virakesarilk | 7,389
-adaderanasinhalalk | 7,991
+adaderanalk | 5,446
+tamilmirrorlk | 6,194
+virakesarilk | 7,390
+adaderanasinhalalk | 7,993
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,262 (100.0%) of 46,262 articles have been extended.
+46,272 (100.0%) of 46,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### 9 new governors
+
+*2024-09-25 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201543) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Nine new provincial governors appointed today at Presidential Secretariat. Sarath Bandara Samarasinghe named Central Province Governor. Secretary to the President Dr. Nandika Sanath attended ceremony.
+
+🟩
+
+New posts were appointed to the 9 Provincial NIC at the Presidential Secretariat this afternoon.
+
+02. Sarath Bandara Samarasinghe Abkowan - Central Province Governor
+
+Secretary to the President Dr. Nandika Sanath was also present at the occasion.
+
+◼️
+
+[Data](articles/1a621f89.json)
+
+[Extended Data](ext_articles/1a621f89.ext.json)
+
+---
+
+### President to begin in talks with IMF - President
+
+*2024-09-25 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201542) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake announces IMF talks, loan restructuring, and seeks public and international support for economic recovery.
+
+🟩
+
+President Anura Kumara Dissanayake said that action will be taken to proceed with the implementation of the discussions with the IMF.
+
+The President was speaking at a special discussion held at the nation night (25).
+
+"The creditors are discussing with the loan parties to carry out the loan restructuring program."
+
+"These related activities will be completed as soon as possible and take credit relief."
+
+"We believe that the support of the people of this country and the international community can be obtained."
+
+"Dedication to create a Sri Lankan nation that respects diversity."
+
+"We implement short-term, medium term and long term plans to increase the image of the country."
+
+"Our gates are open to all who are honestly involved in building this country."
+
+◼️
+
+[Data](articles/fcd1ba4a.json)
+
+[Extended Data](ext_articles/fcd1ba4a.ext.json)
+
+---
+
+### President says IMF discussions will resume, debt restructuring to continue
+
+*2024-09-25 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102268/president-says-imf-discussions-will-resume-debt-restructuring-to-continue) · `en`
+
+President Anura Kumara Dissanayake says that his government firmly believes that Sri Lanka’s economy needs to be stabilized before making structural changes to all sectors.
+
+“Before implementing long-term and medium-term plans for that purpose, we will work to create a short-term stability through the immediate economic measures that are required,” he said, delivering his inaugural address to the nation on Wednesday (25).
+
+President Dissanayake says all steps needed for the expected change depend on building stability and trust in the economy.
+
+Therefore, discussions with the International Monetary Fund (IMF) will resume soon and the process of the Extended Fund Facility (EFF) will be advanced, he said.
+
+He further said that the debt restructuring process will continue, and steps will be taken to bring about debt relief as soon as possible through discussions with relevant parties.
+
+◼️
+
+[Data](articles/37656ed9.json)
+
+[Extended Data](ext_articles/37656ed9.ext.json)
+
+---
+
+### This should be done before the change is made;President
+
+*2024-09-25 19:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றத்தை-ஏற்படுத்துவதற்கு-முன்-இதை-செய்ய-வேண்டும்-ஜனாதிபதி/175-344462) · `ta`
+
+Before changes, President Anura Kumara Dissanayake emphasized building the country together. He highlighted the talented team's determination to raise the economy permanently before making changes. Steps will be taken for rapid economic activities to establish stability. The dissolution of parliament was seen as a necessary measure due to distortion caused by people's decree.
+
+🟩
+
+President Anura Kumara Dissanayake said in a special speech to the people of the country.
+
+We have the ability to accomplish the role of building the country as a joint venture. We have the most talented group for that. All of us have a complete determination about it. We hope that it is necessary to raise the economy to a permanent position before making any change to make a change we expect.
+
+For that purpose, we will take steps to establish a short period of time through the rapid economic activities that need to be followed.
+
+It was seen that the last parliament was distorted by the people's decree. So I took steps to dissolve parliament yesterday. Remble
+
+◼️
+
+[Data](articles/60f5c248.json)
+
+[Extended Data](ext_articles/60f5c248.ext.json)
+
+---
+
+### Special Report on Parliamentary Elections
+
+*2024-09-25 19:53:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-தேர்தல்-தொடர்பில்-விசேட-அறிக்கை/175-344460) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Election Commission announces 2024 parliamentary election details: candidate quotas per district, MP counts, and independent committee restrictions.
+
+🟩
+
+The Election Commission has announced information on the control of the 2024 parliamentary elections and the number of candidates recommended by political parties or independent groups for each election district.
+
+It contains information on the number of MPs elected from each electoral district, the number of candidates to be included in the nomination papers, and the restrictions on the independent committees.R
+
+◼️
+
+[Data](articles/198f54ff.json)
+
+[Extended Data](ext_articles/198f54ff.ext.json)
+
+---
+
+### Speech of the President
+
+*2024-09-25 19:41:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-விஷேட-உரை/175-344459) · `ta`
+
+Here's a summary of the speech in approximately 200 characters:
+
+
+
+President addresses nation post-Anura Kumara Dissanayake inauguration. Emphasizes unity, economic growth, and international relations. Calls for cooperation from all citizens to build a prosperous future.
+
+🟩
+
+This is the first opportunity to address the people of the country after Anura Kumara Dissanayake was sworn in as president. Remble
+
+◼️
+
+[Data](articles/9981c3e3.json)
+
+[Extended Data](ext_articles/9981c3e3.ext.json)
+
+---
+
+### IMF. Discussions begin soon
+
+*2024-09-25 19:36:38* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-සාකච්ඡා-කඩිනමින්-අරඹනවා/11-412160) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's IMF talks begin. President Anura Kumara Dissanayake addresses nation, promising economic stability through collective efforts. Emphasizes reducing living burdens, improving education, and strengthening women's roles.
+
+🟩
+
+President Anura Kumara Dissanayake addressing the nation, "President Anura Kumara Dissanayake addressing the race that discussions with the International Monetary Fund is expected to be successful.
+
+He added that the recruitment of the country is a collective effort and the economy should be stabilized before the structural changes. The President said that there is a suitable team for that.
+
+The President said that the president General of the President would join the first presidential election not reported that the Presidential election violence was not reported.
+
+"You should collectively join the land. We do not have since we have fled to political economic reform.
+
+We have already been appointed as efficient and upright officials.
+
+We will return life to the concept that every one is equal to the law.
+
+Increase in the quality of life of the people needs a practical work order. We will take steps to reduce the heavy living burden on the people.
+
+...
+
+[Data](articles/33b20d1a.json)
+
+[Extended Data](ext_articles/33b20d1a.ext.json)
+
+---
 
 ### Special Statement in the President
 
@@ -76,6 +260,52 @@ The proclamation summons the new Parliament to meet on November 21, 2024, and se
 
 ---
 
+### The President will address a special speech in a few more minutes
+
+*2024-09-25 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194794) · `ta`
+
+President Anura Kumara Dissanayake addresses nation at 7:30 PM on 25th. Speech broadcast on TV Terana, 24 News Channel, FM Terana, and Ada Thera social media channels. Economic situation and future plans discussed.
+
+🟩
+
+President Anura Kumara Dissanayake will address the people of the country on the night of the 25th.
+
+The Presidential Media Unit said that the President will address the country at 7.30 pm tonight.
+
+It is reported that the President will also comment on the country's economic situation and future plans.
+
+It is noteworthy that the special speech has been prepared from 7.30 pm on TV Terana, its 24 News Channel, FM Terana and Ada Thera Social Media Channels.
+
+◼️
+
+[Data](articles/7abe0264.json)
+
+[Extended Data](ext_articles/7abe0264.ext.json)
+
+---
+
+### Two bribery police officers arrested
+
+*2024-09-25 19:00:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்ச-வாங்கிய-பொலிஸ்-அதிகாரிகள்-இருவர்-கைது/175-344458) · `ta`
+
+Batticaloa police arrest bribery case: Two officers detained for accepting bribe from sand truck driver. Special investigators from Colombo involved in the operation.
+
+🟩
+
+The Batticaloa Headquarters Police said that the police sergeant and the police officer who had bribed the mud -loaded lorry driver and the police officer were arrested at the Batticaloa Police Division on Thursday (25) by the Commission to investigate bribery or corruption.
+
+The arrested were the police sergeant and the police officer who had been linked to the special police unit who had stopped the tipper vehicle loaded with sand in the Kokkadichcholai police division.
+
+Special officials of the Commission to investigate bribery or corruption from Colombo were arrested by the two men.
+
+◼️
+
+[Data](articles/86e91a48.json)
+
+[Extended Data](ext_articles/86e91a48.ext.json)
+
+---
+
 ### President addresses nation tonight
 
 *2024-09-25 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201540) · `si`
@@ -99,6 +329,34 @@ Meanwhile, the President has made special statement to the nation TV Derana, tod
 [Data](articles/8d9b48e2.json)
 
 [Extended Data](ext_articles/8d9b48e2.ext.json)
+
+---
+
+### Ready at 7.30
+
+*2024-09-25 18:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-30-மணிக்கு-ஆயத்தமாயிருங்கள்/175-344456) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake addresses nation at 7:30 pm today. Discusses government plans. Appointed Prime Minister Harini Amarasuriya with 3-member cabinet overseeing 15 sectors. Parliament dissolution calls for election on November 14, 2024.
+
+🟩
+
+President Anura Kumara Dissanayake will address the nation at 7.30 pm today, where he is expected to talk about government plans for the future.
+
+Dissanayake, who took office on Monday, won the recent presidential election with 5.6 million votes.
+
+The President yesterday appointed Prime Minister Harini Amarasuriya with a three -member cabinet, overseeing 15 different sectors.
+
+It is noteworthy that the President's Parliament and the dissolution of Parliament calls for a parliamentary election on November 14, 2024.
+
+◼️
+
+[Data](articles/27075cde.json)
+
+[Extended Data](ext_articles/27075cde.ext.json)
 
 ---
 
@@ -338,26 +596,6 @@ He said this in response to the media in the Ministry of Public Defense and told
 
 ---
 
-### Sri Lanka rupee closes stronger at 300.30/80 to US dollar, bond yields down
-
-*2024-09-25 17:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-30-80-to-us-dollar-bond-yields-down-180974/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated significantly to close at 300.30/80 to the US dollar Wednesday, from 303.00/14 a day earlier, while bond yields were also down.
-
-A bond maturing on 01.05.2027 closed at 11.90/12.05 percent quoted down from 12.40/50 percent.
-
-A bond maturing on 15.02.2028 closed at 12.35/45 percent down from 13.00/08 percent.
-
-A bond maturing on 15.06.2029 closed at 12.45/55 percent down from 13.20/28 percent.
-
-◼️
-
-[Data](articles/84d7d082.json)
-
-[Extended Data](ext_articles/84d7d082.ext.json)
-
----
-
 ### A massive awakening in the stock market
 
 *2024-09-25 17:42:48* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොලේ-දැවැන්ත-පිබිදීමක්/11-412148) · `si`
@@ -577,6 +815,26 @@ The review of the IMF program on June data, was due in October. Following the pr
 [Data](articles/2ed9eb81.json)
 
 [Extended Data](ext_articles/2ed9eb81.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 300.30/80 to US dollar, bond yields down
+
+*2024-09-25 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-30-80-to-us-dollar-bond-yields-down-180974/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated significantly to close at 300.30/80 to the US dollar Wednesday, from 303.00/14 a day earlier, while bond yields were also down.
+
+A bond maturing on 01.05.2027 closed at 11.90/12.05 percent quoted down from 12.40/50 percent.
+
+A bond maturing on 15.02.2028 closed at 12.35/45 percent down from 13.00/08 percent.
+
+A bond maturing on 15.06.2029 closed at 12.45/55 percent down from 13.20/28 percent.
+
+◼️
+
+[Data](articles/84d7d082.json)
+
+[Extended Data](ext_articles/84d7d082.ext.json)
 
 ---
 
@@ -2153,233 +2411,5 @@ The Department of Government Information also stated that measures to stabilize 
 [Data](articles/8745ef6c.json)
 
 [Extended Data](ext_articles/8745ef6c.ext.json)
-
----
-
-### W. Jayasiri: The Materiality Of Human Voice In Acting
-
-*2024-09-25 09:29:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/w-jayasiri-the-materiality-of-human-voice-in-acting/) · `en`
-
-In the dawn of 22nd of September 2024, when people in Sri Lanka were waiting to see the final results of the presidential election to select the 9th executive president, social media circulated an unexpected news that versatile actor, social activist, and author W. Jayasiri had passed away. W. Jayasiri intended to see a change in the current political system, which has been corrupted and spoiled for nearly 8 decades. Jayasiri was a supporter of democratic social transformations and a man who believed in a fair and just society. He cast his vote and said goodbye to us.
-
-...
-
-[Data](articles/d6e5911b.json)
-
-[Extended Data](ext_articles/d6e5911b.ext.json)
-
----
-
-### Rains in some districts of the country
-
-*2024-09-25 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194738) · `ta`
-
-Rain forecast: Western, Sabaragamuwa, North Western Provinces; Uva Province (evening/night); heavy winds 40-45 km/h Central Highlands; thunderstorms possible; coastal areas turbulent seas expected.
-
-🟩
-
-Rainfall is expected in the Western, Sabaragamuwa and North Western Provinces in Kandy, Nuwara Eliya, Galle and Matara districts, the Department of Meteorology said.
-
-In the Uva Province, Ampara and Batticaloa districts, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-Heavy winds are likely to blow up to 40-45 km / h from time to time in the western slopes of the Central Highlands, North, North Central, North Western and Southern Provinces.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
-
-It is possible that there is a possibility of rain in many places beyond the coast of Chilaw to Hambantota via Galle.
-
-In the seas around the country, the wind is blowing from the west or southwest and the wind is expected to be up to 30-40 km per hour.
-
-...
-
-[Data](articles/9d00358e.json)
-
-[Extended Data](ext_articles/9d00358e.ext.json)
-
----
-
-### President to address the nation today
-
-*2024-09-25 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102253/president-to-address-the-nation-today) · `en`
-
-President Anura Kumara Dissanayake is expected to make a special statement while addressing the nation at 7:30 pm today (25 September), according to the Department of Government Information.
-
-The President’s special address to the nation will be broadcast simultaneously on TV Derana, Ada Derana 24, FM Derana and will stream on Ada Derana social media platforms from 7.30 p.m. onwards.
-
-He was sworn into office on Monday after a landslide victory in the weekend’s presidential polls, where he defeated 38 other candidates and garnered over 5.6 million or 42.3 percent of the votes.
-
-During the election campaign, Dissanayake vowed to dissolve Parliament and call for snap elections. The present Parliament’s five-year term ends in August next year.
-
-The Extraordinary Gazette notification issued by President Anura Kumara Dissanayake, dissolving the Parliament of Sri Lanka effective from midnight yesterday (24), has been published by the Department of Government Printing.
-
-...
-
-[Data](articles/019b6c28.json)
-
-[Extended Data](ext_articles/019b6c28.ext.json)
-
----
-
-### Scholarship Examination again?
-
-*2024-09-25 09:00:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-புலமைப்பரிசில்-பரீட்சை/175-344423) · `ta`
-
-Examination re-conduct decision pending. Criminal investigation ongoing. Retired officer accused of selling question papers for 8 years. Incident details still unclear.
-
-🟩
-
-The Department of Examinations has decided to take a decision within this week whether or not the examination is re -conducting the exam.
-
-The decision of the Investigation Department has not been obtained from the Criminal Investigation Department, which is investigating the incident.
-
-Investigations into the incident have been delayed as the teacher has discussed the alleged issues.
-
-Meanwhile, the intelligence unit has now discovered that a retired officer who came to the Examination Department from a school in Sabaragamuwa Province had been selling the questionnaires for eight years.. Remble
-
-◼️
-
-[Data](articles/749f1f9b.json)
-
-[Extended Data](ext_articles/749f1f9b.ext.json)
-
----
-
-### Youth missing in white river
-
-*2024-09-25 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201521) · `si`
-
-Youth drowns in White River near Matale Police Division. Incident occurred in Matale District.
-
-🟩
-
-A youth drowns in the White River near the Matale Police Division in Matale Police Division.
-
-◼️
-
-[Data](articles/a9a65c7e.json)
-
-[Extended Data](ext_articles/a9a65c7e.ext.json)
-
----
-
-### Key notice to presidential candidates
-
-*2024-09-25 08:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களுக்கு-முக்கிய-அறிவிப்பு/175-344422) · `ta`
-
-Here's a summary of the key points in 200 characters:
-
-
-
-Presidential candidates must submit campaign expenses to Election Commission by 13th. 38 candidates notified to report within 21 days post-election. Reports will be publicly available. Incorrect costs can be reported to police. Each candidate gets 109 rupees per vote. Maximum limit not specified.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake has said that all candidates who contested the presidential election should submit their campaign expenditure to the Election Commission before the 13th of this month.
-
-He also said that 38 candidates have been informed to submit a report on the Commission within 21 days of the presidential election results.
-
-The Election Commission states that after reports to the Election Commission, they will be kept in public view, and that if there are incorrect cost reports, anyone can complain to the police with verification documents.
-
-The Election Commission has decided to spend 109 rupees to a voter who is contesting the presidential election. Accordingly, the maximum limit of Rs.. Remble
-
-◼️
-
-[Data](articles/45cae5a2.json)
-
-[Extended Data](ext_articles/45cae5a2.ext.json)
-
----
-
-### The main announcement of flying to the presidential candidates
-
-*2024-09-25 08:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களுக்கு-பறந்த-முக்கிய-அறிவிப்பு/175-344422) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential election candidates must submit campaign expenses to Election Commission by 13th. 38 candidates notified to report within 21 days post-election. Incorrect reports can be complained about to police. Election Commission spending 109 rupees per voter candidate. Maximum limit not specified.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake has said that all candidates who contested the presidential election should submit their campaign expenditure to the Election Commission before the 13th of this month.
-
-He also said that 38 candidates have been informed to submit a report on the Commission within 21 days of the presidential election results.
-
-The Election Commission states that after reports to the Election Commission, they will be kept in public view, and that if there are incorrect cost reports, anyone can complain to the police with verification documents.
-
-The Election Commission has decided to spend 109 rupees to a voter who is contesting the presidential election. Accordingly, the maximum limit of Rs.. Remble
-
-◼️
-
-[Data](articles/9a0a2cbd.json)
-
-[Extended Data](ext_articles/9a0a2cbd.ext.json)
-
----
-
-### Arrested with 3 kg of cannabis
-
-*2024-09-25 08:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-கிலோ-கிராம்-கஞ்சாவுடன்-ஒருவர்-கைது/175-344421) · `ta`
-
-A person was arrested in Manthai West with 3.57kg of cannabis valued at Rs 12 lakh. The arrest was made during a joint operation between the Mannar Special Task Force and Army Intelligence Unit. The suspect and evidence have been handed over to the Iluppaikkadu police station for further investigation.
-
-🟩
-
-Based on information received by the Mannar and the Tiravadi Army Intelligence Unit, a person was arrested with a Kerala ganja worth Rs 12 lakh in a roundup of raid in collaboration with the intelligence unit of the Mannar Special Task Force.
-
-The incident took place yesterday evening (24) in the third Pitti area of ​​Manthai West.
-
-The man was arrested at his residence with 3 kg 570 grams of Kerala ganja.
-
-It was reported that the suspect and evidence had been handed over to the Iluppaikkadu police station for further investigations.
-
-◼️
-
-[Data](articles/533be4ef.json)
-
-[Extended Data](ext_articles/533be4ef.ext.json)
-
----
-
-### A racket of celebrating positions in Customs
-
-*2024-09-25 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201520) · `si`
-
-Sri Lanka Customs warns against fake interview prep workshops. Real interviews focus on education, fitness tests. Candidates don't need extra coaching.
-
-🟩
-
-Sri Lanka Customs says that some people have been racket announcement of rehearsal interviews to recruit Assistant Customs Superintendents.
-
-Its media spokesman Sivley Arukgoda says that no workshop has not been organized for the interviews.
-
-"New Assistant Customs Superson to Sri Lanka Customs. According to the results of that match, we have been called to a group of interview. This interview is expected to carry on the 27,28 and 29 days of this month.
-
-...
-
-[Data](articles/10290754.json)
-
-[Extended Data](ext_articles/10290754.ext.json)
-
----
-
-### India’s Jaishankar congratulates Sri Lanka’s new Foreign Minister Vijitha Herath
-
-*2024-09-25 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102252/indias-jaishankar-congratulates-sri-lankas-new-foreign-minister-vijitha-herath) · `en`
-
-Indian External Affairs Minister (EAM) S Jaishankar on Tuesday congratulated Vijitha Herath on his appointment as Foreign Minister of Sri Lanka.
-
-Jaishankar expressed his commitment to reinforcing India-Sri Lanka civilizational ties and strengthening the traditionally close bonds of friendship between the two countries.
-
-In a post on X, he said, “Congratulate Vijitha Herath on his appointment as Foreign Minister of Sri Lanka. Committed to reinforcing our civilizational ties, strengthening our traditionally close bonds of friendship and expanding our multifaceted cooperation for the benefit of both our peoples.”
-
-On Tuesday, President Anura Kumara Dissanayake appointed Harini Amarasuriya as the 16th Prime Minister of Sri Lanka. Amarasuriya, a member of the National People’s Power (NPP) party, is an academic, rights activist, and university lecturer known for her work in education and social justice.
-
-...
-
-[Data](articles/94253828.json)
-
-[Extended Data](ext_articles/94253828.ext.json)
 
 ---

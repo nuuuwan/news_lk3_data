@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 13:22:46**
+As of **2024-09-25 13:39:12**
 
 ## Newspaper Stats
 
-*Scraped **46,196** Articles*
+*Scraped **46,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 461
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
-adalk | 4,253
+adalk | 4,256
 dailymirrorlk | 4,733
 adaderanalk | 5,436
 tamilmirrorlk | 6,178
@@ -26,31 +26,39 @@ adaderanasinhalalk | 7,980
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,195 (100.0%) of 46,196 articles have been extended.
+46,199 (100.0%) of 46,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
 
-### මහනුවර ප්‍රදේශ කිහිපයකට පැය 65ක ජල කප්පාදුවක්
+### 65 hours of water cut in Kandy
 
 *2024-09-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201529) · `si`
 
-නඩත්තු කටයුත්තක් හේතුවෙන් පොල්ගොල්ල ජලාශය ලබන 27 වැනිදා මධ්‍යම රාත්‍රීයේ සිට හිස් කිරීමට මහවැලි අධිකාරිය සැලසුම් කර තිබේ.
+Kandy faces 65-hour water cut starting Sept 1 due to Polgolla reservoir maintenance. Water supply suspended for two days in Kandy and nearby areas. Residents advised to avoid Mahaweli River activities during this period.
 
-එම අධිකාරිය සඳහන් කළේ, මේ හේතුවෙන් මහනුවර හා ඒ අවට ප්‍රදේශවලට දින දෙකක කාලයක් ජල සැපයුම අත්හිටුවනු ඇති බවය.
+🟩
 
-වසර දෙකකට වරක් සිදුකෙරෙන නඩත්තු කටයුත්තක් වෙනුවෙන් පොල්ගොල්ල ජලාශයේ ජලය අනිද්දා (27) මධ්‍යම රාත්‍රීයේ සිට හිස් කිරීමට සැලසුම්කර තිබේ.
+The Mahaweli Authority has planned to empower the Polgolla reservoir from midnight on the 27th of this month due to maintenance activity.
 
-මහවැලි අධිකාරිය සඳහන් කළේ, වියළි කාලගුණික තත්ත්වයක් පැවතීමත් රජරට කෘෂිකාර්මික කටයුතු මෙම දිනවල අවසන්ව තිබීමත් හේතුවෙන් ජලාශයේ නඩත්තු කටයුතු මෙම දිනවලදී සිදුකිරීමට තීරණය කළ බවය.
+The Authority stated that the water supply will be suspended for two days for Kandy and surrounding areas.
 
-ඒ අනුව ජලාශයේ රැස්ව තිබෙන ජලය වික්ටෝරියා ජලාශයට මුදා හැරීමට නියමිතය.
+The water in the Polgolla reservoir has planned to empty for two years (27) on behalf of the maintenance work.
 
-ජලාශය හිස්වීමත් සමඟ ක්‍රීඩා කිරීමට හෝ මසුන් ඇල්ලීමට මහවැලි ගඟට බැසීම අවදානම් බැවින් එලෙස ක්‍රියාකිරීමෙන් වළකින ලෙස මහවැලි අධිකාරිය ප්‍රදේශවාසීන්ගෙන් ඉල්ලීමක් කරයි.
+The Mahaweli Authority stated that the maintenance of the reservoir has decided to carry out the reservoir maintains due to the end of dry weather.
+
+Accordingly, the water gathered in the reservoir is to be released to Victoria Reservoir.
+
+The Mahaweli Authority requests the residents of the area to avoid the Mahaweli River to play with the emphasis or fishing with the reservoir.
+
+The National Water Supply and Drainage Board says that the water cut will be suspended in several areas, as the Polgolla reservoir will not be able to obtain water from the two and 29th and 29th.
 
 ...
 
 [Data](articles/79226332.json)
+
+[Extended Data](ext_articles/79226332.ext.json)
 
 ---
 
@@ -178,6 +186,26 @@ It is noteworthy that the former US President Trump has recently been shot dead 
 
 ---
 
+### Postal voting applications of the general election will be banned from today - distribution
+
+*2024-09-25 12:16:08* · [`adalk`](https://www.ada.lk/breaking_news/මහමැතිවරණයේ-තැපැල්-ඡන්ද-අයදුම්පත්-භාර-ගැනීම-අද-සිට---සහනාධාර-බෙදීමත්ටත්-තහනමක්/11-412140) · `si`
+
+Sri Lanka bans postal voting for general election starting today. Commissioner General announces applications open from 25th. Future updates on postal voting process expected. Election officials emphasize reliance on traditional methods.
+
+🟩
+
+The Commissioner General of Elections Saman Sri Ratnayake said that the postal voting applications relating to the general election from the 25th (25th) will commence and that the announcement will be made in the next few days.
+
+Top today begins today to accept postal voting applications. Postal voting announcements will be presented to you in the future. Elections have relied the election. This will completely stop the division of relief.
+
+◼️
+
+[Data](articles/0564c0d3.json)
+
+[Extended Data](ext_articles/0564c0d3.ext.json)
+
+---
+
 ### Trains launched in the Northern road
 
 *2024-09-25 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201527) · `si`
@@ -205,6 +233,26 @@ Mahawa to Anuradhapura There are 47 railway crossings from Mahawa to Anuradhapur
 [Data](articles/2a03ee29.json)
 
 [Extended Data](ext_articles/2a03ee29.ext.json)
+
+---
+
+### Appointment of new governors today
+
+*2024-09-25 12:10:35* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආණ්ඩුකාරවරුන්-පත්කිරීම-අද/11-412138) · `si`
+
+President to appoint 9 new governors today
+
+🟩
+
+The President is scheduled to appoint Governor for the new government this morning.
+
+It is reported that nine governors will be appointed today.
+
+◼️
+
+[Data](articles/fcc13d29.json)
+
+[Extended Data](ext_articles/fcc13d29.ext.json)
 
 ---
 
@@ -273,6 +321,28 @@ In January 2017. In 2021, he served as Chairman of the Vice Chancellor and Direc
 [Data](articles/76dfde76.json)
 
 [Extended Data](ext_articles/76dfde76.ext.json)
+
+---
+
+### The National Congress is not yet in the decision
+
+*2024-09-25 11:47:28* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-කොංග්‍රසය-තවමත්-තීරණයක-නෑ/11-412136) · `si`
+
+National Congress undecided on election strategy. Party leader Athaullah says candidates for North, East, and Kandy districts. Reconciliation focus mentioned but details unclear.
+
+🟩
+
+Parliamentarian ALM is not determined by his party in the next general election and is not decided to go with the allegic to the President Ranil Wickremesinghe or its own.. National Organizer of the National Congress, led by Athaullah, medical organizer. He said Mohamed Xia.
+
+However, the National Congress said that their candidates will be presented in the North and East and Kandy and Kandy districts.
+
+However, the National Organizer further stressed that notion of the party to contest the elections with the reconciliation.
+
+◼️
+
+[Data](articles/3d9ba560.json)
+
+[Extended Data](ext_articles/3d9ba560.ext.json)
 
 ---
 
@@ -2191,93 +2261,5 @@ Harini Amarasuriya was made Prime Minister. President Dissanayake kept the Finan
 [Data](articles/944be042.json)
 
 [Extended Data](ext_articles/944be042.ext.json)
-
----
-
-### Sri Lanka’s new President dissolves Parliament
-
-*2024-09-24 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102249/sri-lankas-new-president-dissolves-parliament) · `en`
-
-President Anura Kumara Dissanayake has signed the Extraordinary Gazette notification dissolving the Parliament of Sri Lanka effective from midnight today (24).
-
-The relevant Gazette notification has been sent to the Government Printer to be published, according to the President’s Media Division (PMD).
-
-Meanwhile, the Government Printer confirmed that the Gazette notification pertaining to the dissolution of the Parliament has been received by the Department of Government Printing.
-
-The President has issued the Gazette by virtue of the powers vested in him by Article 70 of the Constitution of the Democratic Socialist Republic of Sri Lanka and in pursuance of the provisions of Section 10 of the Parliamentary Elections Act, No. 1 of 1981.
-
-The proclamation dissolves Parliament with effect from midnight today and summons the new Parliament to meet on the November 21, 2024.
-
-It also fixes November 14, 2024 as the date for the election of the new Members of Parliament.
-
-...
-
-[Data](articles/f49e26e9.json)
-
-[Extended Data](ext_articles/f49e26e9.ext.json)
-
----
-
-### President signals gazette to dissolved parliament
-
-*2024-09-24 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201512) · `si`
-
-Here's a 200-character summary:
-
-
-
-"President Anura Kumara Dissanayake signs gazette dissolving Parliament effective midnight. Gazette sent to Government Press."
-
-🟩
-
-It is reported that President Anura Kumara Dissanayake has signed a gazette to the dissolution of Parliament from midnight today (24).
-
-Accordingly, the gazette has been forwarded to the Government Press.
-
-◼️
-
-[Data](articles/f20fffdd.json)
-
-[Extended Data](ext_articles/f20fffdd.ext.json)
-
----
-
-### The girl who was sleeping in the father's arms
-
-*2024-09-24 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201511) · `si`
-
-Here's a 200-character summary:
-
-
-
-17-year-old youth arrested for abducting sleeping girl (17) in Piliyandala. Incident occurred on 22nd. Suspect claims "heavy consent". Girl identified by mother. Case to be presented in court. Victim unharmed.
-
-🟩
-
-A 17-year-old youth was arrested in Piliyandala area.
-
-The suspect had worked to leave the wrap near the house due to the girl scream.
-
-The incident had occurred at a house in Piliyandiya on the 22nd.
-
-The girl's mother is sleeping in another room due to illness and is sleeping with father the girl.
-
-She also observed how the girl was sleeping at the time of his visit to the bathroom about 11.45 pm.
-
-"A plastic chair is shaking sound. Mother's shouting is no child. The window was far away. I thought someone took the child. "
-
-"I and daughter were sleeping. When the baby didn't hear, I heard. I went into the kitchen and didn't run. Mom and note shouted. I climbed out ... Then I took the daughter in the nearby daughter. "
-
-The police stating that after the incident, the police had revealed the suspect.
-
-According to the serupe, a 17-year-old youth was resident of Siyambalagahawatta area.
-
-After showing the mother of the prelate, she showed the mother of the suspect, she was confirmed by her son.
-
-...
-
-[Data](articles/8d1c33ea.json)
-
-[Extended Data](ext_articles/8d1c33ea.ext.json)
 
 ---

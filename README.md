@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 14:57:37**
+As of **2024-09-25 15:09:43**
 
 ## Newspaper Stats
 
-*Scraped **46,203** Articles*
+*Scraped **46,205** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 385
-bbccomsinhala | 454
+bbccomsinhala | 455
 colombotelegraphcom | 461
 islandlk | 2,705
 economynextcom | 2,793
@@ -18,7 +18,7 @@ dailyftlk | 3,074
 adalk | 4,257
 dailymirrorlk | 4,733
 adaderanalk | 5,438
-tamilmirrorlk | 6,178
+tamilmirrorlk | 6,179
 virakesarilk | 7,381
 adaderanasinhalalk | 7,981
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,981
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,203 (100.0%) of 46,203 articles have been extended.
+46,205 (100.0%) of 46,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Court Explanation for Harsha
+
+*2024-09-25 14:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்ஷவுக்கு-நீதிமன்ற-விளக்கமறியல்/175-344441) · `ta`
+
+High Court orders Harsha Ilukpitiya detained until evening due to alleged court insult over visa suspension implementation failure.
+
+🟩
+
+The High Court today (25) ordered that the Immigration Controller Controller Harsha Ilukpitiya be kept in the High Court complex until the evening court proceedings commence.
+
+The Supreme Court today (25) issued a law of accusing the Immigration and Emigration Controller General Harsha Ilukpitiya for allegedly insulting the court for failing to implement the Cabinet's decision to suspend online and foreign visa activities in Sri Lanka.
+
+◼️
+
+[Data](articles/b73ddd1e.json)
+
+[Extended Data](ext_articles/b73ddd1e.ext.json)
+
+---
 
 ### IMF chief assures steadfast support for Sri Lanka to achieve development and reform goals
 
@@ -1053,6 +1073,42 @@ On Tuesday, President Anura Kumara Dissanayake appointed Harini Amarasuriya as t
 [Data](articles/94253828.json)
 
 [Extended Data](ext_articles/94253828.ext.json)
+
+---
+
+### Is there any money to hold a general election?
+
+*2024-09-25 07:51:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20mz2873peo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake dissolved Parliament. A general election will be held from Oct 4-12. The new Parliament convenes Nov 21. The Election Commission estimates spending Rs 11 billion on the election. The Ministry of Finance has allocated Rs 10 billion for the presidential election.
+
+🟩
+
+President Anura Kumara Dissanayake signed a gazette to dissolve the Parliament Tuesday (Sept 24).
+
+According to the Gazette notification issued by the Government Press, the call for the general election will be made to the general election from 04 October to 12 October.
+
+The new Parliament is held on November 21st.
+
+The last time was held on August 20, 2020.
+
+Elections Commissioner has been prepared to hold general election in accordance with the gazette notification to dissolve the gazette.. Rathnayake told BBC Sinhala service.
+
+"According to the President's gazette notification, the Elections Commission is ready to hold general elections."
+
+"Steps will be taken to use the 2024 electoral nomination used for the general election."Said the Chairman.
+
+When the Chairperson of the Election of the Election Commission, he was given this answer when he asked the Chairperson of the Elections Commission as to how much money was spent on parliamentary elections.
+
+...
+
+[Data](articles/f5765223.json)
+
+[Extended Data](ext_articles/f5765223.ext.json)
 
 ---
 
@@ -2215,45 +2271,5 @@ Accordingly, the nominations are to be accepted on the 4th of October to 12 afte
 [Data](articles/73e67973.json)
 
 [Extended Data](ext_articles/73e67973.ext.json)
-
----
-
-### We are ready to hold the general election cost 11 billion rupees- Elections Commission
-
-*2024-09-24 22:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194729) · `ta`
-
-Elections Commission announces general election cost: 11 billion rupees. Election date set after presidential decree dissolves Parliament. Treasury allocates funds. Election to be held within 5-7 weeks after dissolution.
-
-🟩
-
-The next step is based on the extravagant gazette published by the President by dissolving Parliament. Elections Commissioner Saman Sri Ratnayake said that it is estimated that the general election costs are required.
-
-He made this statement during a media briefing held at the Elections Commission's office on Tuesday (24).
-
-The authority to dissolve parliament is fully for the president. The Commission is obliged to act in accordance with the president's announcement of a general election once the parliament is dissolved. Details of the General Elections Date and the New Parliamentary Session will be mentioned in the Gazette of Parliament.
-
-Once the Parliament is dissolved. Thereafter, the general election should be held within five to 7 weeks.
-
-It is estimated to cost 11 billion rupees to hold the general election. Treasury should allocate funds for the election. We are ready to hold elections.
-
-◼️
-
-[Data](articles/2dd030c8.json)
-
-[Extended Data](ext_articles/2dd030c8.ext.json)
-
----
-
-### Sri Lanka’s first-ever Green Bonds from DFCC Bank oversubscribed on opening day
-
-*2024-09-24 22:34:00* · [`islandlk`](http://island.lk/sri-lankas-first-ever-green-bonds-from-dfcc-bank-oversubscribed-on-opening-day/) · `en`
-
-DFCC Bank has made history again by successfully concluding Sri Lanka’s first-ever Green Bond issuance, which was heavily oversubscribed on its opening day, 12th September 2024. This is a significant milestone for the country’s financial sector, underscoring DFCC Bank’s unwavering commitment to sustainability. The Issue represents a substantial boost for the nation’s solar energy sector, as the proceeds are earmarked exclusively for renewable (solar) energy projects that generate significant environmental benefits. DFCC Bank’s Green Bonds will soon be listed on the Colombo Stock Exchange (CSE) and traded publicly.
-
-...
-
-[Data](articles/188fa1fc.json)
-
-[Extended Data](ext_articles/188fa1fc.ext.json)
 
 ---

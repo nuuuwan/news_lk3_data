@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 19:38:16**
+As of **2024-09-25 19:57:00**
 
 ## Newspaper Stats
 
-*Scraped **46,257** Articles*
+*Scraped **46,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,804
 dailyftlk | 3,074
-adalk | 4,264
+adalk | 4,267
 dailymirrorlk | 4,733
-adaderanalk | 5,444
+adaderanalk | 5,445
 tamilmirrorlk | 6,189
 virakesarilk | 7,389
 adaderanasinhalalk | 7,990
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,257 (100.0%) of 46,257 articles have been extended.
+46,261 (100.0%) of 46,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### President Anura Kumara’s inaugural address to the nation
+
+*2024-09-25 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102267/president-anura-kumaras-inaugural-address-to-the-nation) · `en`
+
+Sri Lanka’s new President Anura Kumara Dissanayake’s inaugural address to the nation commenced at 7:30 pm today (25 September).
+
+The President’s special address to the nation is being broadcast simultaneously on TV Derana, Ada Derana 24, FM Derana and will stream on Ada Derana social media platforms.
+
+Dissanayake was sworn into office on Monday after a landslide victory in the weekend’s presidential polls, where he defeated 38 other candidates and garnered over 5.6 million or 42.3 percent of the votes.
+
+He had issued a gazette notification dissolving the Parliament of Sri Lanka effective from midnight yesterday (24) and calling for snap elections.
+
+The proclamation summons the new Parliament to meet on November 21, 2024, and sets November 14, 2024, as the date for the election of new Members of Parliament. The nomination period will run from October 04 to 12:00 noon on October 11, 2024.
+
+◼️
+
+[Data](articles/1478f6c5.json)
+
+[Extended Data](ext_articles/1478f6c5.ext.json)
+
+---
 
 ### President addresses nation tonight
 
@@ -230,6 +252,28 @@ Hatton police officers arrested the woman in the pawn shop on Hatton (25) on the
 
 ---
 
+### Sri Lanka to visit Sri Lanka
+
+*2024-09-25 18:08:19* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙල්-ඉදිකිරිම්-අංශයේ-රැකියා-රැසක්-ලංකාවට/11-412150) · `si`
+
+Sri Lanka: SLBFE offers jobs in Israel's construction sector. Positions available for 25-44 year-old Sri Lankans in wire cutters, tile masons, craftsmen, and carpenters. Apply via official SLBFE website. Recruitment scams reported; contact SLBFE directly for information.
+
+🟩
+
+Sri Lanka Bureau of Foreign Employment (SLBFE) says. It has been agreed to provide employment opportunities to Sri Lanka with a new trend of the construction sector in Israel.
+
+Accordingly, the Sri Lanka Bureau of Foreign Employment has received jobs in the fields of wire cemeters, Tile Mason, Craftsu Mason and Shutarin carpenters.. Between 25-44 years old, Sri Lankan workers can apply for this.
+
+These recruitments should only be filled with the official website of the Sri Bureau of Foreign Employment (SLBFE), www.slbfe.lk. The Bureau is not permitted by the Bureau or a person to recruit this recruitment, and the Bureau is not allowed to pay for it.. The Bureau also also requests the number of the Bureau 0112864241 to inform the Bureau's Special Investigation Division regarding people who request money.
+
+◼️
+
+[Data](articles/475a96fa.json)
+
+[Extended Data](ext_articles/475a96fa.ext.json)
+
+---
+
 ### 65 hours of water in Kandy
 
 *2024-09-25 18:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-65-மணிநேர-நீர்வெட்டு/76-344451) · `ta`
@@ -252,6 +296,26 @@ The Kandy Municipal Council borders will be implemented in the areas of Harispat
 
 ---
 
+### Passport problem ended in the middle of October
+
+*2024-09-25 17:53:16* · [`adalk`](https://www.ada.lk/breaking_news/පාස්පෝට්-ගැටලුව-ඔක්තෝබර්-මැද-අවසන්/11-412149) · `si`
+
+Passport issue resolution timeline: By mid-October, the long-standing passport problem will be addressed, according to official sources from the Ministry of Public Defense. This announcement was made in response to media inquiries.
+
+🟩
+
+The passport issue that has been a major problem will be resolved by the middle of next month.
+
+He said this in response to the media in the Ministry of Public Defense and told the media.
+
+◼️
+
+[Data](articles/6c7a1c66.json)
+
+[Extended Data](ext_articles/6c7a1c66.ext.json)
+
+---
+
 ### Sri Lanka rupee closes stronger at 300.30/80 to US dollar, bond yields down
 
 *2024-09-25 17:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-30-80-to-us-dollar-bond-yields-down-180974/) · `en`
@@ -269,6 +333,28 @@ A bond maturing on 15.06.2029 closed at 12.45/55 percent down from 13.20/28 perc
 [Data](articles/84d7d082.json)
 
 [Extended Data](ext_articles/84d7d082.ext.json)
+
+---
+
+### A massive awakening in the stock market
+
+*2024-09-25 17:42:48* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොලේ-දැවැන්ත-පිබිදීමක්/11-412148) · `si`
+
+Stock market surge: Index rises 2.87%, SL 20 index up 4.09%. Turnover hits Rs. 3.96 billion. Massive growth on third day.
+
+🟩
+
+The stock market showed a significant growth in the third day of the third day.
+
+Accordingly, all stock price index rose to 325.5 units, 2.87 percent, and S.P. The SL 20 index rose by 132 units, 4.09 percent.
+
+The turnover of the market was Rs. 3.96 billion.
+
+◼️
+
+[Data](articles/90dfbf1a.json)
+
+[Extended Data](ext_articles/90dfbf1a.ext.json)
 
 ---
 
@@ -2309,85 +2395,5 @@ When the Chairperson of the Election of the Election Commission, he was given th
 [Data](articles/f5765223.json)
 
 [Extended Data](ext_articles/f5765223.ext.json)
-
----
-
-### 11 billion rupees for the general election
-
-*2024-09-25 07:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலுக்கு-11-பில்லியன்-ரூபாய்-தேவை/175-344420) · `ta`
-
-Saman Sri Ratnayake estimates 11 billion rupees needed for upcoming general election. Funds to be allocated by President from Treasury.
-
-🟩
-
-The Commissioner General of Elections Saman Sri Ratnayake said that as the dissolution of Parliament is dissolved, it is estimated that it will cost Rs 11 billion for holding a parliamentary election.
-
-At the same time, the Commissioner General of Elections Saman Sri Ratnayake has said that the allocation of funds for the parliamentary election should be obtained by the President from the Treasury.. (A)
-
-◼️
-
-[Data](articles/669bd70f.json)
-
-[Extended Data](ext_articles/669bd70f.ext.json)
-
----
-
-### It rains several times
-
-*2024-09-25 07:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-தடவைகள்-மழை-பெய்யும்/175-344419) · `ta`
-
-Rainfall expected in Kandy, Nuwara Eliya, Galle, Matara. Thunderstorms possible in Uva Province. Strong winds forecasted in northern, western hill country, Trincomalee, Matale, Moneragala districts. Public advised to take precautions against heavy winds and lightning.
-
-🟩
-
-The Department of Meteorology has said that rainfall will occur in Kandy, Nuwara Eliya, Galle and Matara districts today (25).
-
-There is a possibility of rain or thunderstorms in the evening or night in some places in Uva Province and Ampara and Batticaloa districts.
-
-Strong winds can blow up to the northern, northern, northwest and southern provinces in the western hill country and in the Trincomalee, Matale and Moneragala districts from time to time (40-45).
-
-The public is lovingly requested to take adequate precautions to reduce the impact of temporary heavy winds and lightning impacts during thunderstorms.
-
-◼️
-
-[Data](articles/1f0ea290.json)
-
-[Extended Data](ext_articles/1f0ea290.ext.json)
-
----
-
-### The Governor of the Central Bank meets the president
-
-*2024-09-25 07:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-மத்திய-வங்கி-ஆளுநர்/175-344418) · `ta`
-
-Central Bank Governor Nandalal Weerasinghe met with President Anura Kumara Dissanayake and Treasury Secretary Mahinda Siriwardena to discuss pressing economic concerns. The meeting aimed to address financial challenges facing the country.
-
-🟩
-
-New President Anura Kumara Dissanayake, Governor Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardena held a high -level meeting yesterday (24) and discussed the stressful economic issues.
-
-◼️
-
-[Data](articles/0802950c.json)
-
-[Extended Data](ext_articles/0802950c.ext.json)
-
----
-
-### President-Central Bank Governor Meeting
-
-*2024-09-25 07:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மத்திய-வங்கி-ஆளுநர்-சந்திப்பு/175-344418) · `ta`
-
-Anura Kumara Dissanayake met with Nandalal Weerasinghe and Mahinda Siriwardena to discuss Sri Lanka's economic challenges. The meeting focused on addressing financial stress and finding solutions to stabilize the economy.
-
-🟩
-
-New President Anura Kumara Dissanayake held a high -level meeting with Central Bank Governor Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardena yesterday (24) and discussed the stressful economic issues.
-
-◼️
-
-[Data](articles/1d940386.json)
-
-[Extended Data](ext_articles/1d940386.ext.json)
 
 ---

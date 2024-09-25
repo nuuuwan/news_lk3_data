@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 08:44:24**
+As of **2024-09-25 08:58:49**
 
 ## Newspaper Stats
 
-*Scraped **46,150** Articles*
+*Scraped **46,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,074
 adalk | 4,249
 dailymirrorlk | 4,733
 adaderanalk | 5,430
-tamilmirrorlk | 6,161
+tamilmirrorlk | 6,167
 virakesarilk | 7,374
 adaderanasinhalalk | 7,972
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,972
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,138 (100.0%) of 46,150 articles have been extended.
+46,138 (100.0%) of 46,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### 3 கிலோ கிராம் கஞ்சாவுடன் ஒருவர் கைது
+
+*2024-09-25 08:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-கிலோ-கிராம்-கஞ்சாவுடன்-ஒருவர்-கைது/175-344421) · `ta`
+
+மன்னார், தள்ளாடி  இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த  தகவலின் அடிப்படையில் மன்னார் விசேட அதிரடிப்படை அதிகாரிகளின் உளவுப் பிரிவினருடன் இணைந்து நடத்திய சுற்றிவளைப்பு தேடுதல் நடவடிக்கையில் 12 லட்சம் பெறுமதியான கேரள கஞ்சாவுடன்  நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டது.
+
+இந்த சம்பவமானது நேற்று (24) மாலை மாந்தை மேற்கு பிரதேசத்தில் உள்ள மூன்றாம் பிட்டி பகுதியில் இடம்பெற்றது.
+
+குறித்த  நபர் விற்பனைக்காக பொதி செய்யப்பட்ட  3 கிலோ 570 கிராம் கேரள கஞ்சாவுடன் அவரது இல்லத்தில் வைத்து கைது செய்யப்பட்டார்.
+
+குறித்த சந்தேக நபர் மற்றும் சான்றுப் பொருட்கள் மேலதிக விசாரணைகளுக்காக இலுப்பைக்கடவை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதாக   தெரிவிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/533be4ef.json)
+
+---
 
 ### A racket of celebrating positions in Customs
 
@@ -71,6 +89,50 @@ On Tuesday, President Anura Kumara Dissanayake appointed Harini Amarasuriya as t
 [Data](articles/94253828.json)
 
 [Extended Data](ext_articles/94253828.ext.json)
+
+---
+
+### ’பொதுத் தேர்தலுக்கு 11 பில்லியன் ரூபாய் தேவை’
+
+*2024-09-25 07:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலுக்கு-11-பில்லியன்-ரூபாய்-தேவை/175-344420) · `ta`
+
+பாராளுமன்றம் கலைக்கப்பட்டுள்ள நிலையில், பாராளுமன்றத் தேர்தலை நடத்துவதற்காக 11 பில்லியன் ரூபாய் செலவாகும் என மதிப்பிடப்பட்டுள்ளதாகத் தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்துள்ளார்.
+
+அதேநேரம் அரசியலமைப்பின்படி, பாராளுமன்றத் தேர்தலுக்கான நிதி ஒதுக்கீடு திறைசேரியில் இருந்து ஜனாதிபதியினால் பெற்றுக் கொடுக்கப்பட வேண்டும் எனவும் தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/669bd70f.json)
+
+---
+
+### பல தடவைகள் மழை பெய்யும்
+
+*2024-09-25 07:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-தடவைகள்-மழை-பெய்யும்/175-344419) · `ta`
+
+இன்றைய தினம் (25) மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய, வடமேற்கு மற்றும் தென் மாகாணங்களிலும் திருகோணமலை, மாத்தளை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு (40-45) கிலோமீற்றர் வரை பலத்த காற்று வீசக்கூடும்.
+
+இடியுடன் கூடிய மழையின் போது தற்காலிகமாக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதிய முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு பொதுமக்கள் அன்புடன் கேட்டுக்கொள்ளப்படுகிறார்கள்.
+
+◼️
+
+[Data](articles/1f0ea290.json)
+
+---
+
+### ஜனாதிபதி-மத்திய வங்கி ஆளுநர் சந்திப்பு
+
+*2024-09-25 07:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மத்திய-வங்கி-ஆளுநர்-சந்திப்பு/175-344418) · `ta`
+
+புதிய ஜனாதிபதி அனுரகுமார திஸாநாயக்க, மத்திய வங்கி ஆளுநர் நந்தலால் வீரசிங்க மற்றும் திறைசேரி செயலாளர் மஹிந்த சிறிவர்தன ஆகியோருடன் நேற்று (24) உயர்மட்ட சந்திப்பொன்றை நடத்தி, அழுத்தமான பொருளாதார விடயங்கள் குறித்து கலந்துரையாடினார்.
+
+◼️
+
+[Data](articles/1d940386.json)
 
 ---
 
@@ -744,6 +806,20 @@ He contested the invitation of the general structure and contested this presiden
 
 ---
 
+### ’புதிய அரசாங்கத்துடன் விரைவில் கலந்துரையாடல்’
+
+*2024-09-25 02:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்துடன்-விரைவில்-கலந்துரையாடல்/175-344417) · `ta`
+
+இலங்கைக்கான நீடிக்கப்பட்ட நிதி வசதி திட்டத்தின் 3 ஆம் மதிப்பாய்வுக்கான காலம் குறித்து புதிய அரசாங்கத்துடன் விரைவில் கலந்துரையாடவுள்ளதாகச் சர்வதேச நாணய நிதியம் தெரிவித்துள்ளது.
+
+இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க பதவியேற்றுக் கொண்டதன் பின்னர் சர்வதேச நாணய நிதியம் விடுத்துள்ள அறிக்கையில் இந்த விடயம் குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/394c40f7.json)
+
+---
+
 ### ලෙබනනයේ යුද අත්දැකීම් ලැබූ ලාංකිකයා : 'වටේටම බෝම්බම දාන නිසා අපි එහෙන් ආවා'
 
 *2024-09-25 02:15:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyl0nlxp27o) · `si`
@@ -765,6 +841,18 @@ He contested the invitation of the general structure and contested this presiden
 ...
 
 [Data](articles/37026a05.json)
+
+---
+
+### வட மாகாண ஆளுநராக வேதநாயகன் நியமனம்
+
+*2024-09-25 01:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-ஆளுநராக-வேதநாயகன்-நியமனம்/175-344416) · `ta`
+
+வடக்கு மாகாண ஆளுநராக யாழ்ப்பாணம் மாவட்ட முன்னாள் அரச அதிபர் நாகலிங்கம் வேதநாயகன் நியமிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/f7d19716.json)
 
 ---
 
@@ -2157,155 +2245,5 @@ MP Dr. Weli Amarasuriya was sworn in before President Anura Kumara Dissanayake a
 [Data](articles/99bf2643.json)
 
 [Extended Data](ext_articles/99bf2643.ext.json)
-
----
-
-### Sri Lanka’s new three-member Cabinet appointed
-
-*2024-09-24 17:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102246/sri-lankas-new-three-member-cabinet-appointed) · `en`
-
-Sri Lanka’s new three-member Cabinet of Ministers was sworn-in before President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo, a short while ago.
-
-Dr. Harini Amarasuriya was sworn-in as the Minister of Justice, Education, Labour, Industries, Science and Tech, Health and Food Security, shortly after taking oath as the new Prime Minister.
-
-President Anura Kumara Dissanayake has retained the following Ministerial portfolios:
-
-Prime Minister Dr. Harini Amarasuriya has been given the following Ministerial portfolios:
-
-Trade, Commercial, Food Security, Co-operative Development, Industries and Entrepreneur Development
-
-Buddhasasana, Religious and Cultural Affairs, National Integration, Social Security and Mass Media
-
-Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community, Infrastructure
-
-...
-
-[Data](articles/9f5108bf.json)
-
-[Extended Data](ext_articles/9f5108bf.ext.json)
-
----
-
-### Those who have corrupted charges are unable to return
-
-*2024-09-24 17:54:58* · [`adalk`](https://www.ada.lk/breaking_news/දුෂණ-චෝදනා-ඇති-අය-නැවත-පොහොට්ටුවට-ගන්නේ-නැතිලු/11-412117) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Corrupted charges prevent return. Sri Lanka Knowledge discusses general election strategy. Party representatives debate next steps. Sri Lanka Knowledge addresses Sri Lanka Crowd Front. General Front issues statement, many restored party members request SLMC involvement.
-
-🟩
-
-Sri Lanka Knowledge Against Sri Lanka Maha Croad. Party representatives have been discussed at length of how to deal with the next general election at Nelum Road.
-
-The Sri Lanka Known Knowledge of the Sri Lanka Knowledge has decided to address the Sri Lanka Crowd's Front.
-
-The Sri Lanka General Front issued a statement that many people who have been restored with the party again have requested the SLMC.
-
-◼️
-
-[Data](articles/8caeda8f.json)
-
-[Extended Data](ext_articles/8caeda8f.ext.json)
-
----
-
-### Harini Amarasuriya: 7 things to know about Sri Lanka’s first female PM in 25 years
-
-*2024-09-24 17:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102245/harini-amarasuriya-7-things-to-know-about-sri-lankas-first-female-pm-in-25-years) · `en`
-
-Days after getting a new President, Sri Lanka on Tuesday got Harini Amarasuriya as its new Prime Minister who became the first woman leader to hold the post since Sirimavo Bandaranaike in 2000.
-
-Amarasuriya, a national executive committee member of the National People’s Power (NPP), was administered the oath by President Anura Kumara Dissanayake at a ceremony in the capital, Colombo.
-
-1 - Daughter of a homemaker mother and a tea plantation father, Amarasuriya is the first one to enter politics from her family.
-
-2 - 54-year-old Amarasuriya is an academic, rights activist, and university lecturer and is known for her work in education and social justice.
-
-3 - She has served as a senior lecturer in Sociology and Social Anthropology in the Department of Social Sciences of Open University, Sri Lanka and has made significant contributions to social justice and education in the country.
-
-4 - She is the first academic-turned-politician to take charge of the prime minister of Sri Lanka.
-
-...
-
-[Data](articles/700488f1.json)
-
-[Extended Data](ext_articles/700488f1.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 303.00/14 to US dollar, bond yields down
-
-*2024-09-24 17:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-303-00-14-to-us-dollar-bond-yields-down-180819/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 303.00/303.15 to the US dollar Tuesday stronger from 304.25/75 a day earlier, while bond yields were also down for the second day since the elections.
-
-President Anura Dissanayake is expected to dissolve parliament soon, after appointing a cabinet of three other ministers.
-
-A bond maturing on 01.05.2027 closed at 12.40/50 percent quoted down from 12.70/90 percent, after also falling on Monday.
-
-A bond maturing on 15.02.2028 closed at 13.00/08 percent down from 13.25/40 percent.
-
-A bond maturing on 15.06.2029 closed at 13.20/28 percent down from 13.55/65 percent. (Colombo/Sep23/2024)
-
-◼️
-
-[Data](articles/eee24562.json)
-
-[Extended Data](ext_articles/eee24562.ext.json)
-
----
-
-### A statement from the new Prime Minister about the confidence of the people - a hint of dissolutionizing Parliament
-
-*2024-09-24 17:33:16* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාවගේ-විශ්වාසය-ගැන-නව-අගමැතිණියගෙන්-ප්‍රකාශයක්---පාර්ලිමේන්තුව-විසුරවාහැරීම-ගැනත්-ඉඟියක්/11-412116) · `si`
-
-Here's a 200-character summary of the statement:
-
-
-
-New PM Dr. Harunne Amauriya vows to protect people's trust after swearing-in. Promises swift action, thanking supporters for faith. Hints at Parliament dissolution.
-
-🟩
-
-New Prime Minister Dr. Harunne Amauriya said that the belief that the people were preserved in the same way.
-
-She made this statement after his swearing in the post of Prime Minister.
-
-Want to take up work now. It's been to accept work and get to work.
-
-A. Thank you so much to the people to believe in our. It'll protect it like that.
-
-◼️
-
-[Data](articles/60d33b2f.json)
-
-[Extended Data](ext_articles/60d33b2f.ext.json)
-
----
-
-### Sri Lanka stocks surge 2.1-pct, boosted by banks
-
-*2024-09-24 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-surge-2-1-pct-boosted-by-banks-180817/) · `en`
-
-ECONOMYNEXT – Sri Lanka stocks surged 2.1 percent Tuesday, with retail interest in banks driving demand, brokers said.
-
-The Colombo Stock Exchange All share index closed up 237.31 points at 11,334.12 points, and the S&P SL20 Index of more liquid shares up 74 points (2.36 percent) to 3,253.22 points.
-
-The market was driven mostly by retail activity and foreign investors were also quiet looking for direction, brokers said.
-
-Commercial Bank up 3.10 rupees to 94.00, Melstacorp up 3.70 to 84.70, LOLC was up 17.50 to 402 rupees, Hatton National Bank was up 2.50 rupees to 150, and Ceylon Cold Stores was up 5.30 rupees to 57.50 contributed most to the index gain.
-
-Stocks have come down in the run up to the elections with fears over the continuation of prudent economic policies and monetary stability.
-
-Sri Lanka saw a peaceful transition of power, but investors are still awaiting a firm policy direction. (Colombo/Aug24/2024)
-
-◼️
-
-[Data](articles/e285f516.json)
-
-[Extended Data](ext_articles/e285f516.ext.json)
 
 ---

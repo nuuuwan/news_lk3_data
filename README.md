@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 12:13:21**
+As of **2024-09-25 12:24:27**
 
 ## Newspaper Stats
 
-*Scraped **46,187** Articles*
+*Scraped **46,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,793
 dailyftlk | 3,074
 adalk | 4,253
 dailymirrorlk | 4,733
-adaderanalk | 5,434
+adaderanalk | 5,435
 tamilmirrorlk | 6,176
 virakesarilk | 7,379
 adaderanasinhalalk | 7,977
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,977
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,187 (100.0%) of 46,187 articles have been extended.
+46,188 (100.0%) of 46,188 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,26 @@ In January 2017. In 2021, he served as Chairman of the Vice Chancellor and Direc
 [Data](articles/76dfde76.json)
 
 [Extended Data](ext_articles/76dfde76.ext.json)
+
+---
+
+### Mahinda Siriwardena resumes duties as Finance Secretary
+
+*2024-09-25 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102257/mahinda-siriwardena-resumes-duties-as-finance-secretary) · `en`
+
+K.M.M. Siriwardena, who was re-appointed as the Secretary to the Ministry of Finance, Economic Development, Policy Formulation, Planning, and Tourism, resumed his duties today (25).
+
+Deputy Secretaries of the Treasury, heads of departments under the Ministry of Finance, and other senior officials attended the event.
+
+Mr. K. M. M. Siriwardana has more than 30 years of service in the Central Bank. Prior to his appointment as Deputy Governor, he held the key positions of Assistant Governor and Director of Economic Research Department of the Central Bank of Sri Lanka.
+
+Mr. Siriwardana was on release to the International Monetary Fund (IMF) as the Alternate Executive Director for the Constituency comprised of India, Sri Lanka, Bangladesh and Bhutan during July 2017 to October 2019.
+
+...
+
+[Data](articles/13b02219.json)
+
+[Extended Data](ext_articles/13b02219.ext.json)
 
 ---
 
@@ -2247,27 +2267,5 @@ Without this, there is a joke that the opposition is targeting the newspaper, bu
 [Data](articles/6495a2e5.json)
 
 [Extended Data](ext_articles/6495a2e5.ext.json)
-
----
-
-### Special speech to the people of the country tomorrow
-
-*2024-09-24 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194725) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"New President Anura Kumara Dissanayake addresses nation tomorrow at 7:30 pm on Wednesday, 25th."
-
-🟩
-
-New President Anura Kumara Dissanayake will address the people of the country at 7.30 pm on Wednesday 25th.
-
-◼️
-
-[Data](articles/0fc9d1a0.json)
-
-[Extended Data](ext_articles/0fc9d1a0.ext.json)
 
 ---

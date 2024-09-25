@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 21:09:56**
+As of **2024-09-25 21:22:37**
 
 ## Newspaper Stats
 
-*Scraped **46,272** Articles*
+*Scraped **46,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,48 @@ colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,804
 dailyftlk | 3,074
-adalk | 4,268
+adalk | 4,269
 dailymirrorlk | 4,733
 adaderanalk | 5,446
 tamilmirrorlk | 6,194
-virakesarilk | 7,390
+virakesarilk | 7,392
 adaderanasinhalalk | 7,993
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,272 (100.0%) of 46,272 articles have been extended.
+46,275 (100.0%) of 46,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Tamil and Muslim parties review on the general election and contest as a strong party?
+
+*2024-09-25 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194802) · `ta`
+
+Tamil Muslim parties discuss general election strategy. Meeting in Colombo involving leaders from Sri Lankan Tamil party, Sri Lanka Muslim Congress, and Tamil Progressive Alliance. Parties aim to form alliances and secure votes for future elections.
+
+🟩
+
+It is known that the Tamil and Muslim parties are investigating the upcoming general election as a strong party.
+
+In particular, a meeting was held in Colombo on Tuesday (24) between MA Sumanthiran, former parliamentarian of the Sri Lankan Tamil party, Sri Lanka Muslim Congress leader Rauf Hakeem and Tamil Progressive Alliance leader Manohanesan.
+
+During the meeting, discussion was discussed on the presidential election and its results and the upcoming general election.
+
+Speaking to the media, Sri Lanka Muslim Congress leader Rauf Hakeem said, “We are preparing to get people's votes to form a government in the next election.. This time the national people's power was seen as the main challenge for the United People's Alliance. We are trying to form an alliance with other parties beyond the United People's Alliance. ”
+
+However, when asked about the above meeting, Sumanthiran said that he had discussed the ongoing presidential election and had nothing to do with the general election.
+
+◼️
+
+[Data](articles/3bf41dee.json)
+
+[Extended Data](ext_articles/3bf41dee.ext.json)
+
+---
 
 ### 9 new governors
 
@@ -55,6 +81,32 @@ Secretary to the President Dr. Nandika Sanath was also present at the occasion.
 [Data](articles/1a621f89.json)
 
 [Extended Data](ext_articles/1a621f89.ext.json)
+
+---
+
+### Parties in the Democratic Tamil National Alliance (TNA)
+
+*2024-09-25 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194798) · `ta`
+
+Democratic Tamil National Alliance TNA parties decide to contest upcoming general election. Meeting discusses strategy and symbol selection.
+
+🟩
+
+The Tamil National Political Parties, which are part of the Democratic Tamil National Alliance (TNA), have decided to field in the upcoming general election on behalf of the coalition.
+
+Parliament was dissolved by President Anura Kumara Dissanayake on Tuesday (24) and it has been announced that the general election will be held on November 14.
+
+Subsequently, on Wednesday (25) at 3.00 pm, the Democratic Tamil National Alliance (TNA) Coordinating Committee at a private hotel in Jaffna examined how to face the upcoming general election.
+
+Dharmalingam Siddharthan, Selvam Adakkalanathan, Govindan Karunagaram, Suresh Premachandran, Srikanta, Sivanesan and Venthan were present at the meeting.
+
+Accordingly, as the dissolution of parliament has been dissolved, it has been extensively investigated on how to face the upcoming general election and eventually decided to field the general election on behalf of the Democratic Tamil National Alliance.
+
+...
+
+[Data](articles/1c22d575.json)
+
+[Extended Data](ext_articles/1c22d575.ext.json)
 
 ---
 
@@ -499,6 +551,32 @@ Dissanayake has predicted that the National People's Power (NPP) will get at lea
 [Data](articles/b4516a91.json)
 
 [Extended Data](ext_articles/b4516a91.ext.json)
+
+---
+
+### Two dazzles billioned due to a bottle of whiskey
+
+*2024-09-25 18:19:32* · [`adalk`](https://www.ada.lk/breaking_news/මවක-දුන්-විස්කි-බෝතලයක්-නිසා-දෙදෙනෙකු-දියට-බිලි/11-412151) · `si`
+
+Two teens drowned in reservoir after drinking session. Five friends entered water, three survived. Police searching for missing duo. Incident occurred near Polgolla Reservoir.
+
+🟩
+
+The Wattegama Police say that two fifteen friends who were dwelled into the reservoir as far as the coconut damaged have been disappeared.
+
+The police say they have come into the reservoir, after one of the five friends who have been drinking abroad.
+
+One of the gates from the Polgolla Reservoir has been opened to Victoria Reservoir today (25), three of them were survived by the reefs and had not met with the other two (25).
+
+The police said that the police said that all the youths were residents of Yakgahapitiya area.
+
+Police have launched a campaign to search for two youths duncing.
+
+◼️
+
+[Data](articles/40153064.json)
+
+[Extended Data](ext_articles/40153064.ext.json)
 
 ---
 
@@ -2351,75 +2429,5 @@ To know whether he was drinking, he is to be produced to a jurisdictor
 [Data](articles/be96edff.json)
 
 [Extended Data](ext_articles/be96edff.ext.json)
-
----
-
-### An accident near Parliament entrance
-
-*2024-09-25 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201522) · `si`
-
-Accident near Parliament entrance: Army Defender vehicle crashed at 5:30 AM. Driver unhurt. Vehicle stuck in traffic congestion. Army intervened 2 hours later.
-
-🟩
-
-An army defender vehicle near the Parliament entrance is in danger.
-
-According to our correspondent, the parliament entrance was also seen in traffic congestion.
-
-The Defender vehicle belonging to the Sri Lanka Army was crashed, up at 05.30 am today.
-
-While traveling to Borella to Borella, the Defender vehicle had fallen to Borella.
-
-At the time of the accident, the driver was only there, and he had no casualties.
-
-Later, the army's intervention was about two hours after the vehicle.
-
-◼️
-
-[Data](articles/678f747c.json)
-
-[Extended Data](ext_articles/678f747c.ext.json)
-
----
-
-### Grade 05 Scholarship Examination Questionnaire Leak;Teacher arrested
-
-*2024-09-25 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194737) · `ta`
-
-Teacher arrested over leaked Grade 05 Scholarship Exam questions. Criminal Investigation Department investigating, suspect to appear in court Wednesday.
-
-🟩
-
-The Criminal Investigation Department said that a teacher was arrested on Tuesday (24) in connection with the leak of five questions in the first part of the Grade 05 Scholarship Examination.
-
-Investigations have been made based on the complaint filed by the parents of the students who appeared for the examination regarding the alleged leak of the scholarship examination question paper.
-
-The Criminal Investigation Department said that the suspect is to be produced before the Kaduwela Magistrate's Court on Wednesday (25).
-
-◼️
-
-[Data](articles/a6e9cce4.json)
-
-[Extended Data](ext_articles/a6e9cce4.ext.json)
-
----
-
-### President holds discussion with CBSL Governor and Finance Secretary
-
-*2024-09-25 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102254/president-holds-discussion-with-cbsl-governor-and-finance-secretary-) · `en`
-
-A discussion has taken place between President Anura Kumara Dissanayake and the Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe.
-
-The Department of Government Information reported that the Secretary to the Ministry of Finance, Mahinda Siriwardene, also participated in the discussion.
-
-The current economic situation of the country was discussed at length during the meeting, which was held last evening (24) at the Presidential Secretariat, the statement said.
-
-The Department of Government Information also stated that measures to stabilize the economy and several issues affecting the country’s economy were discussed.
-
-◼️
-
-[Data](articles/8745ef6c.json)
-
-[Extended Data](ext_articles/8745ef6c.ext.json)
 
 ---

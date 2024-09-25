@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 00:53:24**
+As of **2024-09-26 01:07:52**
 
 ## Newspaper Stats
 
-*Scraped **46,285** Articles*
+*Scraped **46,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 455
 colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,807
-dailyftlk | 3,074
+dailyftlk | 3,079
 adalk | 4,272
 dailymirrorlk | 4,733
 adaderanalk | 5,447
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,285 (100.0%) of 46,285 articles have been extended.
+46,285 (100.0%) of 46,290 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,78 @@ He noted that most of the students who appeared for the scholarship exam will be
 ---
 
 ### 2024-09-25 (Wednesday)
+
+### Charting Sri Lanka’s future: A political economy blueprint for next Presidency
+
+*2024-09-25 23:53:16* · [`dailyftlk`](https://www.ft.lk/columns/Charting-Sri-Lanka-s-future-A-political-economy-blueprint-for-next-Presidency/4-767147) · `en`
+
+The newly elected President Anura Kumara Dissanayake in the National People’s Power manifesto has promised among other things to bring the country out of the current political and socio-economic crisis and make Sri Lanka prosperous.
+
+...
+
+[Data](articles/94016d64.json)
+
+---
+
+### Inside the enigma: Ranil’s legacy and Anura’s destiny
+
+*2024-09-25 23:42:29* · [`dailyftlk`](https://www.ft.lk/columns/Inside-the-enigma-Ranil-s-legacy-and-Anura-s-destiny/4-767146) · `en`
+
+The 55-year-old Dissanayake has demonstrated integrity and political savvy throughout the 10 years since he was elected leader of the Janatha Vimukthi Peramuna. He has distinguished himself from other party leaders by being extraordinarily wary of power for power’s sake, and for taking politically courageous decisions that were in the country’s best interests, while being to his or his party’s political detriment. Much of Dissanayake’s appeal to voters comes from his ability to remain down-to-earth, even as he has transformed into a political phenomenon virtually overnight
+
+...
+
+[Data](articles/5342b220.json)
+
+---
+
+### Dialog Television Brings New Prepaid Channel Plans with even more channels
+
+*2024-09-25 23:36:03* · [`dailyftlk`](https://www.ft.lk/opinion/Dialog-Television-Brings-New-Prepaid-Channel-Plans-with-even-more-channels/14-767145) · `en`
+
+Dialog Television, Sri Lanka's #1 Pay TV provider, now offers it’s customers three new prepaid plans designed to enhance customer value, reinforcing its commitment to delivering a wide array of television content across the country. These plans provide access to over 100 channels, ensuring unmatched entertainment.
+
+With a single reload, customers can enjoy their favorite channels for an entire month, as Dialog Television delivers premier local and global entertainment straight to their homes.
+
+Dialog Television's latest reload channel plans offer more channels than ever before, featuring a wide range of content including cartoons, TV dramas, movies, sports, news, current affairs, religious programs, children& shows, music, and more. With these three new prepaid plans, viewers can access both local and international channels in Sinhala, Tamil, English, and Hindi.
+
+...
+
+[Data](articles/d3c4630c.json)
+
+---
+
+### Fed up of racist politics, corruption, and mismanagement
+
+*2024-09-25 23:28:43* · [`dailyftlk`](https://www.ft.lk/columns/Fed-up-of-racist-politics-corruption-and-mismanagement/4-767143) · `en`
+
+Shortsighted and destructive racist politics aimed at gaining or retaining power, not realising the overall damage to the country since independence in 1948, brought Marxist National People Party (NPP) President Anura Kumara Dissanayake to power in the Presidential elections held on Saturday 21 September 2024.
+
+The message is very clear. Clean up politics, bring those who plundered the country to book and unite divided communities to move ahead for a better future for all.
+
+It all started since independence in 1948 from British rule when the country was blessed with all required ingredients to move ahead to ensure a better future for all. The island had political and economic stability, literate people, honesty and integrity at all levels and on top of all communal harmony. All what was required then was a leader from the Sinhalese community who could keep the communities together and jointly move ahead for the overall development for the betterment of all communities in the country.
+
+...
+
+[Data](articles/e90373f6.json)
+
+---
+
+### Comrade President: Dimensions of AKD’s victory and Sajith’s defeat
+
+*2024-09-25 23:13:01* · [`dailyftlk`](https://www.ft.lk/columns/Comrade-President-Dimensions-of-AKD-s-victory-and-Sajith-s-defeat/4-767141) · `en`
+
+Neither Anura nor Sajith led the Aragalaya or seized the 2022 moment that Ranil did, but it was Anura and his comrades who grasped the post-Aragalaya moment of the debt-crisis and Ranil-IMF austerity, while Sajith and the SJB failed to due to ideological ambiguity regarding Ranil’s economic doctrine and ambivalence about their role vis-à-vis Ranil
+
+Time will tell what kind of statesman he makes, but one must salute Anura Dissanayake’s evolution into a brilliant politician and political leader. In August 2020 he had 3 seats and 3% of the vote, and a mere four years later, was sworn in as President with 42% of the vote.
+
+The arithmetic clearly tells us that it was Ranil Wickremesinghe’s ‘dog-in-the-manger’ spoiler candidacy that defeated Sajith Premadasa and ensured Anura’s victory, but when AKD set out on this project with victory in his sights two (he says) or four years ago, not only was it an impossible dream but Wickremesinghe was out of the picture.
+
+...
+
+[Data](articles/69edf500.json)
+
+---
 
 ### Sri Lanka’s credit risks could stay ‘elevated’ for some time - Moody’s
 
@@ -2331,117 +2403,5 @@ Kenya stressed that it would be a commitment to advance mutual interests and dev
 [Data](articles/ab86a6fc.json)
 
 [Extended Data](ext_articles/ab86a6fc.ext.json)
-
----
-
-### Sri Lanka Treasury Secretary Siriwardana assumes duties
-
-*2024-09-25 11:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-secretary-siriwardana-assumes-duties-180913/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury Secretary Mahinda Siriwardana, who held the fiscal reigns during the emergence from a severe currency crisis that ended in default, has re-assumed duties following his re-appointment by President Anura Dissanayake.
-
-He is the Secretary of the newly re-constituted, Finance, Planning and Tourism.
-
-A former central banker, he played key role in helping with the IMF program. He has previously been an alternate executive director of the IMF for Sri Lanka, India, Bangladesh and Bhutan.
-
-Siriwardene was educated at Vanderbilt University of the US and Kelaniya University in Sri Lanka.
-
-◼️
-
-[Data](articles/c106fcc7.json)
-
-[Extended Data](ext_articles/c106fcc7.ext.json)
-
----
-
-### Mother arrested for killing her daughter
-
-*2024-09-25 11:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மூக்கை-அழுத்தி-மகளை-கொன்ற-தாய்-கைது/76-344430) · `ta`
-
-Mother arrested for allegedly suffocating infant daughter. Police investigation reveals she was alone with child when incident occurred. Suspect reportedly angry, blocked baby's nose and mouth leading to death.
-
-🟩
-
-Kalaha police said the mother had been arrested for allegedly killing her nose for a daughter and five months old.
-
-After her husband went out of the house, the suspect, the woman and her daughter, were only at home, police said.
-
-Investigations conducted by the police have found that the suspect had died because the suspect was angry and closed her daughter's nose and mouth.
-
-◼️
-
-[Data](articles/2dd34c22.json)
-
-[Extended Data](ext_articles/2dd34c22.ext.json)
-
----
-
-### General election;Postal Voting Applications will be accepted from today
-
-*2024-09-25 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194746) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"General election set for Nov 14. Postal voting applications open from Oct 25. Commissioner General announces start date."
-
-🟩
-
-It has been announced that the general election will be held on the 14th of November.
-
-The Commissioner General of Elections has announced that applications for postal voting will be applied from Wednesday (25).
-
-◼️
-
-[Data](articles/ff202b69.json)
-
-[Extended Data](ext_articles/ff202b69.ext.json)
-
----
-
-### Law for those who sit in the seat
-
-*2024-09-25 11:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பின்-ஆசனத்தில்-அமர்பவர்களுக்கு-சட்டம்/175-344429) · `ta`
-
-Summarized: Karadivu police officer advocates for mandatory two-side seating in vehicles to prevent accidents, citing recent tragic incidents involving minors.
-
-🟩
-
-Karadivu Police Station Officer RSD. Said Jayalath.
-
-“Those who are in the back should sit on both sides of the leg. There have been many accidents while on one side of the morning.
-
-Even a 14 -year -old student has been tragically killed in an accident at Mavadipalli recently.
-
-According to the Motor Transport Act. Therefore, if I want to avoid unjust deaths in Karadivu area, this law should be implemented very soon.Said.
-
-◼️
-
-[Data](articles/e79f19cc.json)
-
-[Extended Data](ext_articles/e79f19cc.ext.json)
-
----
-
-### Sri Lanka rupee trades stronger at 302.15/25 to US dollar, bond yields down
-
-*2024-09-25 11:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-302-15-25-to-us-dollar-bond-yields-down-180903/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading at 302.15/25 to the US dollar on Wednesday, stronger from 303.00/14 a day earlier, while bond yields were significantly down dealers said.
-
-There was a treasury bill auction of 120 million rupees ongoing.
-
-A bond maturing on 15.02.2028 was quoted at 12.60/70 percent, down from 13.00/08 percent.
-
-A bond maturing on 15.06.2029 was quoted at 12.70/75 percent down from 13.20/28 percent.
-
-In equities, Colombo’s All Share Price Index was trading 1.21 percent, or 137.05 points higher at 11,471, while the S&P SL20 of more liquid stocks opened up 1.73 percent or 56.12 points lower at 3,291.
-
-◼️
-
-[Data](articles/3c179bb8.json)
-
-[Extended Data](ext_articles/3c179bb8.ext.json)
 
 ---

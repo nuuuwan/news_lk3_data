@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 16:23:05**
+As of **2024-09-25 16:38:40**
 
 ## Newspaper Stats
 
-*Scraped **46,218** Articles*
+*Scraped **46,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,793
 dailyftlk | 3,074
 adalk | 4,260
 dailymirrorlk | 4,733
-adaderanalk | 5,440
+adaderanalk | 5,441
 tamilmirrorlk | 6,180
 virakesarilk | 7,384
 adaderanasinhalalk | 7,984
@@ -26,11 +26,25 @@ adaderanasinhalalk | 7,984
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,218 (100.0%) of 46,218 articles have been extended.
+46,219 (100.0%) of 46,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### ASPI gains for third straight day
+
+*2024-09-25 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102263/aspi-gains-for-third-straight-day) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has increased by 325.59 points to close at 11,659.71 today (25).
+
+◼️
+
+[Data](articles/5b1a822f.json)
+
+[Extended Data](ext_articles/5b1a822f.ext.json)
+
+---
 
 ### Appoints new governors
 
@@ -2273,37 +2287,5 @@ This was stated in a statement issued by the International Monetary Fund after A
 [Data](articles/394c40f7.json)
 
 [Extended Data](ext_articles/394c40f7.ext.json)
-
----
-
-### Sri Lankan who has experienced war experienced in Lebanon: "We came from there because of the bombard
-
-*2024-09-25 02:15:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyl0nlxp27o) · `si`
-
-Sri Lankan refugee flees Lebanon due to Israeli airstrikes, describes harrowing experience and displacement of thousands.
-
-🟩
-
-Sri Lankan who has experienced war experienced in Lebanon: "We came from there because of the bombard
-
-A Sri Lankan in the area where the Israeli attacks on the southern lebiene is to escape their lives to BBC.
-
-The Israeli Air Force jets continuously attacked the face of their experiences.
-
-More than 550 people have been killed in the attack.
-
-Sadal Kumara Peiris (40), a Sri Lankan who is working in the southern legacy of the Israeli attacks, said:
-
-He said that when the Israeli security forces attacked, he and wife were living in the south legal.
-
-"I now come to Lebanon and six months. When I arrived in Lebanon, I returned to Sri Lanka and returned to the work of Lebanon. Now I work as an estate worker. My wife is with me. "
-
-"The city of other abyrter in the southern Lebanon. On that side, Israel's kfir comes out of the sky, blowing something like the sky. Did the days done. Frighten it. But the people didn't go away from there. "
-
-...
-
-[Data](articles/37026a05.json)
-
-[Extended Data](ext_articles/37026a05.ext.json)
 
 ---

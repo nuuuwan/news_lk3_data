@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 19:57:00**
+As of **2024-09-25 20:11:05**
 
 ## Newspaper Stats
 
-*Scraped **46,261** Articles*
+*Scraped **46,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,25 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,445
 tamilmirrorlk | 6,189
 virakesarilk | 7,389
-adaderanasinhalalk | 7,990
+adaderanasinhalalk | 7,991
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,261 (100.0%) of 46,261 articles have been extended.
+46,262 (100.0%) of 46,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
 
+### Special Statement in the President
+
+*2024-09-25 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201541) · `si`
+
+Here's a summary of the statement in approximately 200 characters:
+
+
+
+"President Anura Kumara Dissanayake addressed the race issue during his speech. He emphasized the importance of equality and fairness in all aspects of society."
+
+🟩
+
+President Anura Kumara Dissanayake addressing the race, addressing the race.
+
+◼️
+
+[Data](articles/f1db370a.json)
+
+[Extended Data](ext_articles/f1db370a.ext.json)
+
+---
+
 ### President Anura Kumara’s inaugural address to the nation
 
 *2024-09-25 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102267/president-anura-kumaras-inaugural-address-to-the-nation) · `en`
 
-Sri Lanka’s new President Anura Kumara Dissanayake’s inaugural address to the nation commenced at 7:30 pm today (25 September).
+Sri Lanka’s new President Anura Kumara Dissanayake’s inaugural address to the nation commenced at 7.30 p.m. today (25 September).
 
-The President’s special address to the nation is being broadcast simultaneously on TV Derana, Ada Derana 24, FM Derana and will stream on Ada Derana social media platforms.
+The President’s special address to the nation was broadcast simultaneously on TV Derana, Ada Derana 24, FM Derana and streamed on Ada Derana social media platforms.
 
 Dissanayake was sworn into office on Monday after a landslide victory in the weekend’s presidential polls, where he defeated 38 other candidates and garnered over 5.6 million or 42.3 percent of the votes.
 
@@ -2359,41 +2381,5 @@ On Tuesday, President Anura Kumara Dissanayake appointed Harini Amarasuriya as t
 [Data](articles/94253828.json)
 
 [Extended Data](ext_articles/94253828.ext.json)
-
----
-
-### Is there any money to hold a general election?
-
-*2024-09-25 07:51:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20mz2873peo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake dissolved Parliament. A general election will be held from Oct 4-12. The new Parliament convenes Nov 21. The Election Commission estimates spending Rs 11 billion on the election. The Ministry of Finance has allocated Rs 10 billion for the presidential election.
-
-🟩
-
-President Anura Kumara Dissanayake signed a gazette to dissolve the Parliament Tuesday (Sept 24).
-
-According to the Gazette notification issued by the Government Press, the call for the general election will be made to the general election from 04 October to 12 October.
-
-The new Parliament is held on November 21st.
-
-The last time was held on August 20, 2020.
-
-Elections Commissioner has been prepared to hold general election in accordance with the gazette notification to dissolve the gazette.. Rathnayake told BBC Sinhala service.
-
-"According to the President's gazette notification, the Elections Commission is ready to hold general elections."
-
-"Steps will be taken to use the 2024 electoral nomination used for the general election."Said the Chairman.
-
-When the Chairperson of the Election of the Election Commission, he was given this answer when he asked the Chairperson of the Elections Commission as to how much money was spent on parliamentary elections.
-
-...
-
-[Data](articles/f5765223.json)
-
-[Extended Data](ext_articles/f5765223.ext.json)
 
 ---

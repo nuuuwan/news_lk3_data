@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 02:22:25**
+As of **2024-09-26 02:38:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,296 (100.0%) of 46,308 articles have been extended.
+46,306 (100.0%) of 46,308 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Association called on President Dissanayake to initiate a transformative era
 
 [Data](articles/03f27267.json)
 
+[Extended Data](ext_articles/03f27267.ext.json)
+
 ---
 
 ### President holds discussion with CBSL Governor and Finance Secretary
@@ -57,6 +59,8 @@ The current economic situation of the country was discussed at length during the
 ◼️
 
 [Data](articles/8667a72a.json)
+
+[Extended Data](ext_articles/8667a72a.ext.json)
 
 ---
 
@@ -74,6 +78,8 @@ The Organisation of Professional Associations of Sri Lanka (OPA) has extended it
 
 [Data](articles/1dd6b226.json)
 
+[Extended Data](ext_articles/1dd6b226.ext.json)
+
 ---
 
 ### Sri Lanka Chamber of Small and Medium Industries hails President AKD
@@ -88,6 +94,8 @@ The President and the members of Sri Lanka Chamber of Small and Medium Industrie
 
 [Data](articles/49070127.json)
 
+[Extended Data](ext_articles/49070127.ext.json)
+
 ---
 
 ### Association of Honorary Consuls in Sri Lanka congratulates new President AKD
@@ -101,6 +109,8 @@ The Association of Honorary Consuls in Sri Lanka has extended its warmest congra
 ...
 
 [Data](articles/767b5c12.json)
+
+[Extended Data](ext_articles/767b5c12.ext.json)
 
 ---
 
@@ -118,6 +128,8 @@ The agreement was signed on 24 September by Port City Colombo General Manager of
 
 [Data](articles/79d65de5.json)
 
+[Extended Data](ext_articles/79d65de5.ext.json)
+
 ---
 
 ### Sri Lanka Shippers’ Council congratulates new President AKD and Secretary
@@ -134,6 +146,8 @@ The SLSC said it is optimistic about the new leadership, particularly the Presid
 
 [Data](articles/2cd68ff6.json)
 
+[Extended Data](ext_articles/2cd68ff6.ext.json)
+
 ---
 
 ### Women’s Chamber of Industry and Commerce congratulates President AKD
@@ -149,6 +163,8 @@ The Women’s Chamber of Industry and Commerce (WCIC) has extended its congratul
 ◼️
 
 [Data](articles/993c47ab.json)
+
+[Extended Data](ext_articles/993c47ab.ext.json)
 
 ---
 
@@ -171,6 +187,8 @@ When asked about whether the Sri Lanka Podujana Peramuna (SLPP) would support Pr
 ...
 
 [Data](articles/b76c661d.json)
+
+[Extended Data](ext_articles/b76c661d.ext.json)
 
 ---
 
@@ -195,6 +213,8 @@ The Minister also noted that once the crisis is resolved, new measures will be i
 ...
 
 [Data](articles/cc5032b3.json)
+
+[Extended Data](ext_articles/cc5032b3.ext.json)
 
 ---
 

@@ -1,36 +1,118 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 10:11:21**
+As of **2024-09-25 10:38:21**
 
 ## Newspaper Stats
 
-*Scraped **46,165** Articles*
+*Scraped **46,173** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 384
 bbccomsinhala | 453
-colombotelegraphcom | 459
+colombotelegraphcom | 460
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
-adalk | 4,250
+adalk | 4,251
 dailymirrorlk | 4,733
-adaderanalk | 5,432
-tamilmirrorlk | 6,169
+adaderanalk | 5,433
+tamilmirrorlk | 6,172
 virakesarilk | 7,376
-adaderanasinhalalk | 7,974
+adaderanasinhalalk | 7,976
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,165 (100.0%) of 46,165 articles have been extended.
+46,173 (100.0%) of 46,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### O/L results by the end of this month
+
+*2024-09-25 10:20:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இம்மாத-இறுதிக்குள்-O-L-பெறுபேறுகள்/175-344427) · `ta`
+
+GCE Ordinary Level Examination results expected end of month, according to Commissioner General of Examinations Amit Jayasundara.
+
+🟩
+
+Commissioner General of Examinations Amit Jayasundara said that the GCE Ordinary Level Examination will be released by the end of this month.
+
+◼️
+
+[Data](articles/d2d8447c.json)
+
+[Extended Data](ext_articles/d2d8447c.ext.json)
+
+---
+
+### 2024 General Election: Postal voting applications accepted from today
+
+*2024-09-25 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102255/2024-general-election-postal-voting-applications-accepted-from-today) · `en`
+
+The applications for postal voting in the General Election will be accepted starting today (25), according to the Commissioner General of Elections.
+
+◼️
+
+[Data](articles/b2430508.json)
+
+[Extended Data](ext_articles/b2430508.ext.json)
+
+---
+
+### Two representatives from Sri Lanka to the women's 20 -20 World Cup
+
+*2024-09-25 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201524) · `si`
+
+Sri Lanka representatives Michelle Perera (umpire) and Nimali Perera (judge) selected for Women's 20-20 World Cup starting October 3.
+
+🟩
+
+Two Sri Lankans are among the 20th Women's World Cup, which will commence on October 3.
+
+Michelle Perera is acting as a referendum and Nimali Perera has been named as a judge
+
+For the 9th consecutive year, 10 officials selected from the World Cup around the world cricket players have the opportunity.
+
+The Women's Twenty20 and Twenty T20 World Cup will be held from October 3 to October 3.
+
+◼️
+
+[Data](articles/1fac59cf.json)
+
+[Extended Data](ext_articles/1fac59cf.ext.json)
+
+---
+
+### Shooting a bus in South Sududa
+
+*2024-09-25 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201523) · `si`
+
+South Sudan: Gunmen attack bus in Juba, killing one, injuring eight. Passenger bus targeted, set on fire. Seven kidnapped. Civil war ongoing despite peace agreement. Country remains unstable.
+
+🟩
+
+The gunmen were attacked by the gunmen in the Juta capital of South Sudan.
+
+Foreign media reports that an Uguda has been killed and 8 others were injured in the attack.
+
+A passenger bus was targeting the attack on Kampala yesterday morning (24) and the bus was completely burning after shooting.
+
+Foreign media has abducted seven persons on the passenger bus, foreign media.
+
+Although a peace agreement is implemented to end the civil war over the civil war over the many years in South Sudu, many regions of the country have become unprotected matters.
+
+◼️
+
+[Data](articles/6b54756c.json)
+
+[Extended Data](ext_articles/6b54756c.ext.json)
+
+---
 
 ### An accident near Parliament entrance
 
@@ -192,6 +274,34 @@ A youth drowns in the White River near the Matale Police Division in Matale Poli
 
 ---
 
+### Key notice to presidential candidates
+
+*2024-09-25 08:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களுக்கு-முக்கிய-அறிவிப்பு/175-344422) · `ta`
+
+Here's a summary of the key points in 200 characters:
+
+
+
+Presidential candidates must submit campaign expenses to Election Commission by 13th. 38 candidates notified to report within 21 days post-election. Reports will be publicly available. Incorrect costs can be reported to police. Each candidate gets 109 rupees per vote. Maximum limit not specified.
+
+🟩
+
+Elections Commissioner Saman Sri Ratnayake has said that all candidates who contested the presidential election should submit their campaign expenditure to the Election Commission before the 13th of this month.
+
+He also said that 38 candidates have been informed to submit a report on the Commission within 21 days of the presidential election results.
+
+The Election Commission states that after reports to the Election Commission, they will be kept in public view, and that if there are incorrect cost reports, anyone can complain to the police with verification documents.
+
+The Election Commission has decided to spend 109 rupees to a voter who is contesting the presidential election. Accordingly, the maximum limit of Rs.. Remble
+
+◼️
+
+[Data](articles/45cae5a2.json)
+
+[Extended Data](ext_articles/45cae5a2.ext.json)
+
+---
+
 ### The main announcement of flying to the presidential candidates
 
 *2024-09-25 08:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களுக்கு-பறந்த-முக்கிய-அறிவிப்பு/175-344422) · `ta`
@@ -327,6 +437,24 @@ The public is lovingly requested to take adequate precautions to reduce the impa
 [Data](articles/1f0ea290.json)
 
 [Extended Data](ext_articles/1f0ea290.ext.json)
+
+---
+
+### The Governor of the Central Bank meets the president
+
+*2024-09-25 07:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-மத்திய-வங்கி-ஆளுநர்/175-344418) · `ta`
+
+Central Bank Governor Nandalal Weerasinghe met with President Anura Kumara Dissanayake and Treasury Secretary Mahinda Siriwardena to discuss pressing economic concerns. The meeting aimed to address financial challenges facing the country.
+
+🟩
+
+New President Anura Kumara Dissanayake, Governor Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardena held a high -level meeting yesterday (24) and discussed the stressful economic issues.
+
+◼️
+
+[Data](articles/0802950c.json)
+
+[Extended Data](ext_articles/0802950c.ext.json)
 
 ---
 
@@ -869,6 +997,22 @@ In their campaigns, the candidates spoke little on the important aspect of impro
 [Data](articles/9cd0ccc5.json)
 
 [Extended Data](ext_articles/9cd0ccc5.ext.json)
+
+---
+
+### A Vision For A United Sri Lanka: Uplifting Minorities To Overcome Economic Challenges
+
+*2024-09-25 04:28:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-vision-for-a-united-sri-lanka-uplifting-minorities-to-overcome-economic-challenges/) · `en`
+
+Congratulations on your remarkable victory and for defying the odds to reach the highest office in our nation. Your journey from humble beginnings to the presidency, and your commitment to eradicating the deeply entrenched corruption in Sri Lanka, is an inspiration to all of us who believe in the potential of our country to rise above its challenges.
+
+I am writing to you on behalf of the minority communities in Sri Lanka, particularly the Tamil and Muslim communities, to express our hope and to share a vision for a united and prosperous nation. As you work towards building a better future for all Sri Lankans, I urge you to consider the vital role that these communities can play in the economic and social upliftment of our country.
+
+...
+
+[Data](articles/9f6c155b.json)
+
+[Extended Data](ext_articles/9f6c155b.ext.json)
 
 ---
 
@@ -1686,6 +1830,38 @@ During the election campaign, Dissanayake vowed to dissolve Parliament if he win
 
 ---
 
+### The price of a coconut is Rs. Up to 150
+
+*2024-09-24 20:16:13* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-ගෙඩියක-මිල-රු--150ක්-දක්වා-ඉහළට/11-412131) · `si`
+
+Coconut prices rise due to supply shortage. Average cost between Rs. 100-150 per coconut. Oil prices also increase. Businesses struggle under government price controls. Exporting coconut-based products may help stabilize prices locally.
+
+🟩
+
+In some areas, the price of coconut has risen to Rs.
+
+In general, the price of average size has been priced between Rs.
+
+The price of a bottle of coconut oil has increased to Rs.
+
+Due to rising costs of coconut and coconut oil, the businessmen who provide food in a control price of the government agencies and hospitals have been affected by a large number of food and hospitals.
+
+All Ceylon Integrated Specialized Economic Centers and Manning Trade Society Ltd.. Idessa was inquired from Mr. Master.
+
+The National Organizer said that the decrease in coconut stockings has caused the increase in coconut prices.
+
+It is expected that the coconut stocks are expected to be in the future and that coconut prices can be reduced in the future.
+
+The coconut based products are being sold abroad, and the unusual prices of coconut prices have to be restricted to foreign countries, the Chairman of the National Customer Front Asela Sampath said.
+
+...
+
+[Data](articles/5b989920.json)
+
+[Extended Data](ext_articles/5b989920.ext.json)
+
+---
+
 ### Kataragama Suramuna, not mine
 
 *2024-09-24 20:08:46* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-දෙටගමුව-සුරා-සැල-මගේ-නෙමෙයි/11-412130) · `si`
@@ -2083,231 +2259,5 @@ However, he had not yet decided as a party as a party regarding whether he suppo
 [Data](articles/7066d706.json)
 
 [Extended Data](ext_articles/7066d706.ext.json)
-
----
-
-### We will talk about the new government on the time of third phase review - the International Monetary Fund Notification
-
-*2024-09-24 18:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194716) · `ta`
-
-Sri Lanka's new government, led by President Anura Kumara Dissanayake, aims to work with the IMF to recover from economic crisis. The IMF plans to conduct its third phase review of Sri Lanka's financial system with the new administration.
-
-🟩
-
-The International Monetary Fund said that President Anura Kumara Dissanayake and his team were looking forward to working with the target of contributing to hard efforts to contribute to Sri Lanka's recovery from the most economic crisis.
-
-The election to elect the ninth executive president of the country was held last Saturday. Earlier, the economic recovery and negotiations with the International Monetary Fund were the main speech of the campaigns carried out by all candidates nationwide.
-
-At a media briefing in Washington before the election, Julie Kozak, Director of the International Monetary Fund Communications Division, stressed that the country's economic situation has yet to be fully recovered, but it is necessary to protect the directors that have been reached through the crisis.
-
-He also said that the third phase of the review of the expanded financial system of the Monetary Fund will be held with the new government, which is elected through the upcoming presidential election.
-
-...
-
-[Data](articles/c7847296.json)
-
-[Extended Data](ext_articles/c7847296.ext.json)
-
----
-
-### “Should be sent to Anga”
-
-*2024-09-24 18:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்கொடைக்கு-அனுப்ப-வேண்டும்/175-344393) · `ta`
-
-Tissa Attanayake criticizes party claims about election victory. Accuses opponents of revenge and mental illness. Rejects alliance offer from Ranil Wickremesinghe and Sajith Premadasa.
-
-🟩
-
-United People's Power MP Tissa Attanayake, who criticized the party's claim that he would defeat the party in the election, said these claims are part of the usual effort to attack him.
-
-"Say the name of a winner always? If so, the party of Anuragumara Dissanayake failed for 60 years. We have worked so hard and you can win or defeat. There are no success or losers. ”
-
-Responding to the justification of such comments, Attanayake said that these claims have been revealed by revenge and mentally ill people.. “Those who ask such questions should be sent to the body because they are not politicians,” he said.
-
-Asked whether former President Ranil Wickremesinghe has called for an alliance with Attanayake, he said that the call was not called.. “I will not accept such an invitation.
-
-Ranil Wickremesinghe and Sajith Premadasa Alliance talks are made by outsiders. This is not a conversation between the two, ”he added.
-
-◼️
-
-[Data](articles/1b82fbf9.json)
-
-[Extended Data](ext_articles/1b82fbf9.ext.json)
-
----
-
-### "Send them to the place"
-
-*2024-09-24 18:37:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவர்களை-அங்கொடைக்கு-அனுப்ப-வேண்டும்/175-344393) · `ta`
-
-Tissa Attanayake criticizes party over election loss, calls for unity. Claims opponents motivated by revenge and mental illness. Rejects alliance offer from Ranil Wickremesinghe, stating it's not genuine.
-
-🟩
-
-United People's Shakti MP Tissa Attanayake criticized the party's failure to defeat the party. In an interview with the media, the SJB MP said that these claims are part of the usual effort to attack him.
-
-"Say the name of a winner always? If so, the party of Anuragumara Dissanayake failed for 60 years. We have worked so hard and you can win or defeat. There are no success or losers. ”
-
-Responding to the justification of such comments, Attanayake said that these claims have been revealed by revenge and mentally ill people.. “Those who ask such questions should be sent to the body because they are not politicians,” he said.
-
-Asked whether former President Ranil Wickremesinghe has called for an alliance with Attanayake, he said that the call was not called.. “I will not accept such an invitation.
-
-Ranil Wickremesinghe and Sajith Premadasa Alliance talks are made by outsiders. This is not a conversation between the two, ”he added.
-
-◼️
-
-[Data](articles/fceb8c62.json)
-
-[Extended Data](ext_articles/fceb8c62.ext.json)
-
----
-
-### New secretaries appointed
-
-*2024-09-24 18:37:14* · [`adalk`](https://www.ada.lk/breaking_news/නව-ලේකම්වරු-පත්කෙරේ/11-412120) · `si`
-
-Here's a 200-character summary:
-
-
-
-"New secretaries appointed: 15 roles filled under Sri Lanka's Prime Minister. Key positions include transport, finance, education, defense, health, and energy ministries."
-
-🟩
-
-New secretaries have been appointed to 15 new Prime Minister, Secretary to the Cabinet.
-
-03 KDS. Mr. Ruwanchandra Ministry of Transport, Highways, Ports and Civil Aviation
-
-04 KMM. Mr. Siriwardena - Ministry of Finance, Economic Development, Policy, Planning and Tourism
-
-06 JMT. Mrs. Jayasundera - Ministry of Education, Science and Technology
-
-07 K. Mr. Machent - Ministry of Women, Children's and Youth Affairs and Sports
-
-08 MM. NiMudin - Trade, Commerce, Food Security, Co-operative Development, Industry and Entrepreneurs Development
-
-09 AMPMB. Atapattu - Ministry of Rural and Urban Development, Housing and Construction
-
-Palitha Gunaratne Mahipala - Ministry of Health
-
-11 WPP. Yasarathne - Judicial, Public Administration, Home Affairs, Provincial Councils, Local Government and Labor
-
-12 BK. Prabath Chandrakyerthi - Environment, Wildlife, Forest Resources, Water Supply and Community Infrastructure
-
-...
-
-[Data](articles/bb7f0888.json)
-
-[Extended Data](ext_articles/bb7f0888.ext.json)
-
----
-
-### We expect the corruption culture in the country to be eliminated - the Sri Lanka Lawyers Association
-
-*2024-09-24 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194723) · `ta`
-
-Sri Lanka Lawyers Association calls for elimination of corruption under new president. They congratulate Anura Kumara Dissanayake and hope he'll maintain rule of law, judicial independence, and unite communities free from racial, religious, and caste divisions.
-
-🟩
-
-The Sri Lanka Lawyers Association says it expects the abolition of corruption culture in the country, political, social and economically.
-
-The Sri Lanka Lawyers Association said this while congratulating Anura Kumara Dissanayake, the country's 9th Executive President.
-
-The President of the Sri Lanka Lawyers Association, President's Attorney General Anura Mattegoda has announced this in a statement.
-
-We hope that the new president will have the strength and courage to fulfill the duties and responsibilities of the executive presidency.
-
-“We hope that the rule of law and the independence of the judiciary will be maintained uninterrupted by the people's confidence in the new president, the ineffective state administration and the corruption that has spread throughout our homeland will be eliminated."
-
-He also said that the president would put a strong foundation for the great task of uniting the Sri Lankan community and creating a race, religion and caste -free communities that have affected us.
-
-◼️
-
-[Data](articles/57f49102.json)
-
-[Extended Data](ext_articles/57f49102.ext.json)
-
----
-
-### New Secretaries Appointment: Details Link
-
-*2024-09-24 18:35:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்கள்-நியமனம்-விபரம்-இணைப்பு/175-344392) · `ta`
-
-New secretaries appointed to 15 ministries including PM's and Cabinet Secretary. Key appointments: KDS Ruwansendra (Transport), KMM Siriwardena (Finance), Messey Jayasundara (Education).
-
-🟩
-
-New Secretaries have been appointed to 15 ministries, such as the Prime Minister's Secretary and the Cabinet Secretary, on Tuesday (24), the Presidential Media Unit said.
-
-௩.   கே.டி.எஸ். Ruwansendra - Secretary of the Ministry of Transport, Highways, Ports and Civil Aviation
-
-௪.   கே.எம்.எம். Siriwardena - Secretary to the Ministry of Finance, Economic Development, Policy Creation, Planning and Tourism
-
-௬. Messey JMD. Jayasundara - Secretary to the Ministry of Education, Science and Technology
-
-௭.   கே. Mahesan - Secretary of the Ministry of Women, Children, Youth Affairs and Sports
-
-௮ ௮.   எம்.எம். Naimuddin - Secretary of the Ministry of Business, Business, Food Safety, Cooperative Development, Industry and Entrepreneurship Development
-
-௯.   ஏ.எம்.பி.எம்.பி. Adapatu - Secretary of the Ministry of Rural and Urban Development, Housing and Construction
-
-௧௧.  W.P.P. Yasaratne - Secretary of the Ministry of Justice, Public Administration, Home, Provincial Councils, Local Government and Labor
-
-...
-
-[Data](articles/77988478.json)
-
-[Extended Data](ext_articles/77988478.ext.json)
-
----
-
-### The appointment of Cabinet
-
-*2024-09-24 18:33:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூவர்-அடங்கிய-அமைச்சரவை-நியமனம்/175-344391) · `ta`
-
-Cabinet appointments announced: President Anura Kumara Dissanayake names ministers for key portfolios including defense, finance, agriculture, and more. Prime Minister Harini Amarasuriya takes charge of justice, education, health. Parliamentarian Vijitha Herath Buddha assigned religious affairs, foreign relations, environment roles.
-
-🟩
-
-The three -member cabinet has been appointed by President Anura Kumara Dissanayake today (24), the Presidential Media Unit said.
-
-President Anuragumara: Defense, Finance, Economic Development, Policy Creation, Planning and Travel, Energy, Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources are under President Anura Kumara Dissanayake.
-
-Prime Minister Harini Amarasuriya sworn in as the Minister of Justice, Public Administration, Provincial Councils, Local Government and Labor, Education, Science and Technology, Women, Child and Youth Affairs and Sports, Commerce, Food Safety and Cooperative Development. Business and Entrepreneurship Development and Health.
-
-...
-
-[Data](articles/b016dc49.json)
-
-[Extended Data](ext_articles/b016dc49.ext.json)
-
----
-
-### New Cabinet Appointed
-
-*2024-09-24 18:30:37* · [`adalk`](https://www.ada.lk/breaking_news/නව-අමාත්‍ය-මණ්ඩලය-පත්කරයි/11-412119) · `si`
-
-New cabinet appointed: agriculture, judicial, trade, religious affairs, environment ministries. Key officials present: MP Lakshman Yasantharatne, MPs Sunil Handunnetti, Nalinda Samarasinghe, Nandika Samarasinghe, Defense Secretary H.S. Tilakaratna.
-
-🟩
-
-04 Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources
-
-05 Judicial, Public Administration, Home Affairs, Provincial Councils, Local Government and Labor
-
-08 Trade, Commerce, Food Safety, Co-operative Development, Industry and Entrepreneurship Development
-
-10 Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Mass Media
-
-14 Environment, Wildlife, Forest Resources, Water Supply and Community Infrastructure
-
-MP Lakshman Qasantarachchi, former Members of Parliament Sunil Handunnetti, Dr. Nalinda Samarasinghe, Dr. Nandika Samarasinghe, Dr. Nandika Samarasinghe and President Dr. Nandika Sanath Sanath Sanath Kanarathi Kanayake Secretary to the Ministry of Defense Secretary HS. Tyiyakodant and others were present at the occasion.
-
-◼️
-
-[Data](articles/c0885cca.json)
-
-[Extended Data](ext_articles/c0885cca.ext.json)
 
 ---

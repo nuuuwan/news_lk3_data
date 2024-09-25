@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 12:57:04**
+As of **2024-09-25 13:07:57**
 
 ## Newspaper Stats
 
-*Scraped **46,190** Articles*
+*Scraped **46,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 2,793
 dailyftlk | 3,074
 adalk | 4,253
 dailymirrorlk | 4,733
-adaderanalk | 5,435
-tamilmirrorlk | 6,176
-virakesarilk | 7,379
+adaderanalk | 5,436
+tamilmirrorlk | 6,178
+virakesarilk | 7,381
 adaderanasinhalalk | 7,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,190 (100.0%) of 46,190 articles have been extended.
+46,195 (100.0%) of 46,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### New Governors to be sworn in today
+
+*2024-09-25 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102258/new-governors-to-be-sworn-in-today) · `en`
+
+President Anura Kumara Dissanayake is set to appoint new Provincial Governors today (25).
+
+Meanwhile, the President Anura Kumara Dissanayake is scheduled to make a special statement while addressing the nation at 7:30 pm today (25 September), according to the Department of Government Information.
+
+The President’s special address to the nation will be broadcast simultaneously on TV Derana, Ada Derana 24, FM Derana and will stream on Ada Derana social media platforms from 7.30 p.m. onwards.
+
+President Dissanayake issued a Gazette notification last night dissolving the Parliament of Sri Lanka effective from midnight yesterday (24).
+
+The proclamation summons the new Parliament to meet on November 21, 2024, and sets November 14, 2024, as the date for the election of new Members of Parliament. The nomination period will run from October 04 to 12:00 noon on October 11, 2024.
+
+◼️
+
+[Data](articles/7d919304.json)
+
+[Extended Data](ext_articles/7d919304.ext.json)
+
+---
+
+### The body of a young man who disappeared
+
+*2024-09-25 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194749) · `ta`
+
+Body of missing youth found in Sudhu Ganga, Kanangamuwa. Drowned while swimming with friends. 21-year-old male identified. Incident occurred on 25th day of month.
+
+🟩
+
+The body of the missing youth has been recovered in the Sudhu Ganga in the Kanangamuwa area of ​​the Matale police division, police said.
+
+The young man has been recovered today (25) after being drowned when he was drowning in the Ganges with his friends.
+
+A 21 -year -old youth from Kanangamuwa, in the beginning, died, police said.
+
+◼️
+
+[Data](articles/01de9143.json)
+
+[Extended Data](ext_articles/01de9143.ext.json)
+
+---
+
+### Ready to work with Anuragumara Dissanayake - ready to help Sri Lanka's sustainable economic social development
+
+*2024-09-25 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194754) · `ta`
+
+China supports Sri Lanka's development, respects sovereignty. Congratulates new president Anura Kumara Dissanayake. Ready to strengthen ties, coordinate strategies. Emphasizes peaceful coexistence and traditional friendship.
+
+🟩
+
+Does not interfere in the internal affairs of Sri Lanka. China has said that it is ready to help Sri Lanka's sustainable economic and social development as follows the principle of respecting its sovereignty.
+
+He was speaking at the Sri Lankan presidential election and was elected as the President of the Anura Kumara Dissanayake.
+
+He said that the election was held on September 21, and that China and Sri Lanka have been mutually honored with each other on the basis of Sri Lanka's friendly foreign country.
+
+Chinese Foreign Ministry spokesman Lin Jian has said that China congratulates Sri Lanka's new president, Anuragumara Dissanayaka.
+
+Responding to a question on Sri Lanka's commitment to repaying China's loans, he said Sri Lanka and China have been sharing long -term friendships.
+
+...
+
+[Data](articles/2615b8d1.json)
+
+[Extended Data](ext_articles/2615b8d1.ext.json)
+
+---
 
 ### For this evening today the governors to take oath
 
@@ -51,6 +121,38 @@ The President's special statement to the nation TV Derana, today's Ada Derana, P
 [Data](articles/0f79f674.json)
 
 [Extended Data](ext_articles/0f79f674.ext.json)
+
+---
+
+### Kamala Harris shoots over the campaign office
+
+*2024-09-25 12:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கமலா-ஹாரிஸ்-பிரசார-அலுவலகம்-மீது-துப்பாக்கிச்சூடு/50-344434) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Mysterious shooting hits Kamala Harris' Arizona campaign office. No injuries reported. Police investigating. Security boosted. Incident adds tension to heated US presidential race between Harris and Trump.
+
+🟩
+
+The incident of a mysterious shooting on Kamala Harris's campaign office in the state of Arizona has caused a stir.
+
+Elections for US President. Former President Donald Trump and Democratic Party Vice President Kamala Harris contest. The election field is hot. Kamala Harris is reportedly increasing in polls.
+
+In this case, the mysterious person opened fire on Kamala Harris's campaign office near the Southern Avenue Protection Drive in Arizona Province Temple. Police rushed to the scene and are conducting an intensive investigation.
+
+At the trial, there was no one inside the office when the shooting took place. The walls are damaged by bullets. It was revealed that the shooting took place via front windows.
+
+In this case, the security of the area has been strengthened, while the shooter has not been arrested.
+
+It is noteworthy that the former US President Trump has recently been shot dead while playing at the Golf Ground at a campaign meeting.
+
+...
+
+[Data](articles/f67e5ead.json)
+
+[Extended Data](ext_articles/f67e5ead.ext.json)
 
 ---
 
@@ -81,6 +183,40 @@ Mahawa to Anuradhapura There are 47 railway crossings from Mahawa to Anuradhapur
 [Data](articles/2a03ee29.json)
 
 [Extended Data](ext_articles/2a03ee29.ext.json)
+
+---
+
+### Professor Jayantha, Eastern Governor
+
+*2024-09-25 11:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஜெயந்த-கிழக்கு-ஆளுநர்/175-344431) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Professor Jayantha Lal Ratnasekara: Born 1962, Eastern Governor-elect. Former VC of Uva Wellesa University. PhD in chemistry. Researches renewable energy, environmental chemistry. Independent journalist, writer, translator.
+
+🟩
+
+Professor Jayantha Lal Ratnasekara will be sworn in as the Governor of the Eastern Province on Wednesday (25).
+
+Professor Jayantha Lal Ratnasekara was born in November 1962. Wife's name is Mallika Ratnasekara. They have a son.
+
+He served as the Vice Chancellor of the University of Uva Wellesa, Sri Lanka from February to 20th November 2017.
+
+He learned his primary education at the Akrabodi Vidyalaya in Kantalai and at the Nalanda College, Colombo (1972-1980). He also graduated from Russia's People's Alliance University.
+
+Honors graduated in chemistry in 1988. In 1993, he earned his doctorate in chemistry.
+
+In August 1996, he joined the University of Sri Lanka as a Senior Lecturer in 2018 as Professor in Chemistry. And from 1999 to 2005 as the Vice Chancellor of the Faculty of Application
+
+In January 2017. In 2021, he served as Chairman of the Vice Chancellor and Directors Committee (CVCD).
+
+...
+
+[Data](articles/573cb0d9.json)
+
+[Extended Data](ext_articles/573cb0d9.ext.json)
 
 ---
 
@@ -561,6 +697,8 @@ In the seas around the country, the wind is blowing from the west or southwest a
 *2024-09-25 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102253/president-to-address-the-nation-today) · `en`
 
 President Anura Kumara Dissanayake is expected to make a special statement while addressing the nation at 7:30 pm today (25 September), according to the Department of Government Information.
+
+The President’s special address to the nation will be broadcast simultaneously on TV Derana, Ada Derana 24, FM Derana and will stream on Ada Derana social media platforms from 7.30 p.m. onwards.
 
 He was sworn into office on Monday after a landslide victory in the weekend’s presidential polls, where he defeated 38 other candidates and garnered over 5.6 million or 42.3 percent of the votes.
 
@@ -2149,117 +2287,5 @@ But the child fell back and fell to the door of the room and died.
 [Data](articles/fcdff2bb.json)
 
 [Extended Data](ext_articles/fcdff2bb.ext.json)
-
----
-
-### Elections Commission explains about parliamentary elections
-
-*2024-09-24 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201510) · `si`
-
-Elections Commission mandates holding polls within 52-66 days post-parliament dissolution. Commissioner General Saman Sri Ratnayake explained process at press conference. No election scheduled for 2024; next set for 2025 with estimated budget of Rs 11 billion.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake says that the election commission is obliged to hold an election within 52 and 66 days from the date.
-
-He was speaking at a press conference held today (24).
-
-"The Elections Commission is obliged to hold an election within 52 to 66 days from the date on whenever Parliament dissolved. After the announcement of the dissolving parliamentary dissolving the Parliament, the gazette notification will be given the nomination date?And the date on which Parliament will meet again?That is. "
-
-"It is only after the signature of the Presidential Secretary has been released with the signature of the Secretary to the President.
-
-"In 2024, no form of a parliamentary election.  2025 වසරට තමයි නියම වශයෙන් තියෙන්නේ. But if the President dissolves the parliament, he will join the dissolving announcement by the Treasury to the election. 2025 The prediction of the budget is that a sum of Rs 11 billion has been an election. "
-
-◼️
-
-[Data](articles/1c74dde8.json)
-
-[Extended Data](ext_articles/1c74dde8.ext.json)
-
----
-
-### Foreign Minister on Saudi National Day
-
-*2024-09-24 20:29:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவூதி-தேசிய-தினத்தில்-வெளிவிவகார-அமைச்சர்/175-344398) · `ta`
-
-Sri Lanka's Foreign Minister Vijitha Herath attended Saudi Arabia's National Day celebration, marking her first official engagement. She pledged to enhance bilateral ties between the two countries.
-
-🟩
-
-The newly appointed External Affairs Minister Vijitha Herath has participated in the National Day celebrations of Saudi Arabia and recorded his first official involvement.
-
-Herath, who was sworn in today, expressed his commitment to strengthen diplomatic relations between Sri Lanka and Saudi Arabia during the event.
-
-◼️
-
-[Data](articles/8c5a3ec8.json)
-
-[Extended Data](ext_articles/8c5a3ec8.ext.json)
-
----
-
-### Appoint new secretaries for 15 ministries
-
-*2024-09-24 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194726) · `ta`
-
-New secretaries appointed for 15 ministries under President Anura Kumara Dissanayake. Key roles: Transport, Finance, Women & Youth, Sports, Business, Rural Development, Justice, Environment, Communication, Buddha Sasana.
-
-🟩
-
-Secretaries for 15 Ministries of the Interim Government headed by President Anura Kumara Dissanayake have been appointed. The president was given appointments for new secretaries on Tuesday (24) at the Presidential Secretariat.
-
-Secretary of the Ministry of Transport, Highways, Port and Civil Airlines - TS Ruan Chandra,
-
-Secretary to the Ministry of Finance, Economic Development, Policy Planning and Tourism - KMM. Siriwardena,
-
-Women, Child and Youth Affairs, and Secretary to the Ministry of Sports - K. Mahesh,
-
-Business, Commerce, Food Security, Co -operative Development, Industry and Entrepreneurship Ministry - MMM. Thymuddin
-
-Secretary to the Ministry of Rural and Urban Development, Housing and Construction
-
-Secretary of the Ministry of Justice, Public Administration, Home Affairs, Provincial and Local Government Ministry and Labor Ministry - PP. Yasaratne,
-
-Secretary of the Ministry of Environment, Wildlife, Resources, Water Supply, Plantation and Social Infrastructure
-
-...
-
-[Data](articles/b358788e.json)
-
-[Extended Data](ext_articles/b358788e.ext.json)
-
----
-
-### President to make a special statement tomorrow
-
-*2024-09-24 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102248/president-to-make-a-special-statement-tomorrow-) · `en`
-
-President Anura Kumara Dissanayake will make a special statement while addressing the nation at 7.30 pm tomorrow (25 September).
-
-◼️
-
-[Data](articles/63bee3a7.json)
-
-[Extended Data](ext_articles/63bee3a7.ext.json)
-
----
-
-### President to address the nation tomorrow
-
-*2024-09-24 20:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102248/president-to-address-the-nation-tomorrow) · `en`
-
-President Anura Kumara Dissanayake is expected to make a special statement while addressing the nation at 7.30 pm tomorrow (25 September), according to the Department of Government Information.
-
-Dissanayake, leader of the People’s Liberation Front (JVP) and the National People’s Power (NPP) alliance, won a landslide victory over the weekend by beating 38 other candidates and garnering over 5.6 million or 42.3 per cent of the votes.
-
-He was sworn into office on Monday after a landslide win in weekend presidential polls.
-
-During the election campaign, Dissanayake vowed to dissolve Parliament if he wins and call snap elections. The present Parliament’s five-year term ends in August next year.
-
-◼️
-
-[Data](articles/93f3944a.json)
-
-[Extended Data](ext_articles/93f3944a.ext.json)
 
 ---

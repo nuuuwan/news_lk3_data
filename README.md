@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 01:07:52**
+As of **2024-09-26 01:22:36**
 
 ## Newspaper Stats
 
-*Scraped **46,290** Articles*
+*Scraped **46,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,114 @@ adalk | 4,272
 dailymirrorlk | 4,733
 adaderanalk | 5,447
 tamilmirrorlk | 6,195
-virakesarilk | 7,392
+virakesarilk | 7,398
 adaderanasinhalalk | 7,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,285 (100.0%) of 46,290 articles have been extended.
+46,290 (100.0%) of 46,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### The new president's choice does not stand up to the country's restructuring projects
+
+*2024-09-26 00:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194808) · `ta`
+
+New Sri Lankan president faces challenges in implementing restructuring projects due to ongoing IMF-backed debt operations and potential policy changes. Moody's expects continued stability despite political shift.
+
+🟩
+
+The 'Moodyes' benchmarking company has expressed hope that the election of the new President of Sri Lanka will not be disrupted by the country's restoration projects.
+
+In a statement issued by a popular credit rating company known as 'Moodyes', which is operating in New York City, in the wake of the ninth presidential election and its decisions held in Sri Lanka last Saturday.
+
+According to the report, although there has been a political change in Sri Lanka, the current debt operations and the project supported by the International Monetary Fund are expected to continue without any change.
+
+At the same time, the 'Moodyes' Credit Company, which has pointed out that maintaining financial coordination can be a little more challenging, has expressed the expectation that some policies may be prioritized when the new administration has taken these economic challenges.
+
+...
+
+[Data](articles/53cc565e.json)
+
+[Extended Data](ext_articles/53cc565e.ext.json)
+
+---
+
+### Let us interfere in the internal affairs of Sri Lanka;We will work together to advance mutual interests -Lynn Jian
+
+*2024-09-26 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194807) · `ta`
+
+Here's a 200-character summary:
+
+
+
+China supports Sri Lanka's stability and development without interfering in its internal affairs. China congratulates newly elected President Dissanayake and offers assistance for Sri Lanka's economic and social growth.
+
+🟩
+
+China wants to see Sri Lanka's stability and development as a close friendship. According to the country's Foreign Ministry spokesman, Lynn Jian said that China is ready to have a promotion in Sri Lanka's stable economic and social development in accordance with the policy of respecting the country's interests and not interfere with Sri Lanka's internal affairs.
+
+Lynn Jian said this in response to questions raised about Sri Lanka's presidential election results at a media briefing in China last Monday.. He further stated that
+
+“The presidential election of Sri Lanka has been held smoothly on the 21st. Through the election, we congratulate us to Dissanayake, who has been elected as the new President of Sri Lanka and take over his duties.. Our President C Jinping had sent a greeting to President Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/47b79ad7.json)
+
+[Extended Data](ext_articles/47b79ad7.ext.json)
+
+---
+
+### The sacrificial torch tributes to Diliphan in the island
+
+*2024-09-26 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194806) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Dilshan Dileepan's 37th memorial event took place on Wednesday evening in Jaffna Island. A car tribute was organized at the Jaffna Velanai Memorial site."
+
+🟩
+
+Dileepan Dileepan's 37th Memorial Corporation event was held on Wednesday (25) evening in the Jaffna Islands.
+
+The car, which was started at the Jaffna Velanai Memorial Publisher
+
+◼️
+
+[Data](articles/f84d922c.json)
+
+[Extended Data](ext_articles/f84d922c.ext.json)
+
+---
+
+### If you want to strengthen democracy
+
+*2024-09-26 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194805) · `ta`
+
+Strengthen democracy: Abolish repressive laws, appoint truth commission, reform state media.
+
+🟩
+
+Pointing out that the foundation of strong democratic regime is against repression, the Independent Media Movement urges the new President to dedicate Dissanayake to the new President.
+
+“The Independence Media Movement commented that the future of the country would be decided on how the government, including him, would work on this occasion, conveying our congratulations to the President of Sri Lanka, the 9th Executive President of Sri Lanka.
+
+In the past, a number of orders have been introduced and passed in order to control people's speech and freedom of expression and thereby suppressing democracy.
+
+...
+
+[Data](articles/0f1656fe.json)
+
+[Extended Data](ext_articles/0f1656fe.ext.json)
+
+---
 
 ### Human Rights Commission Inquiry
 
@@ -65,6 +161,8 @@ The newly elected President Anura Kumara Dissanayake in the National People’s 
 ...
 
 [Data](articles/94016d64.json)
+
+[Extended Data](ext_articles/94016d64.ext.json)
 
 ---
 
@@ -177,6 +275,42 @@ The public had also had to see the traders that had been imported.
 [Data](articles/36a3aecf.json)
 
 [Extended Data](ext_articles/36a3aecf.ext.json)
+
+---
+
+### மட்டக்களப்பில் இலஞ்சம் வாங்கிய பொலிஸ் உத்தியோகத்தர்கள் கைது
+
+*2024-09-25 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194804) · `ta`
+
+மண் ஏற்றிவந்த லொறி சாரதியிடம் 2000 ரூபாய் இலஞ்சம் பெற்ற பொலிஸ் சார்ஜன்ட் மற்றும் பொலிஸ் உத்தியோகத்தர் ஆகியோர் இலஞ்ச ஒழிப்பு ஆணைக்குழு அதிகாரிகளால் புதன்கிழமை (25) மாலை மட்டக்களப்பு கொக்கட்டிச்சோலை பொலிஸ் பிரிவில் கைது செய்யப்பட்டதாக மட்டக்களப்பு தலைமையக பொலிசார் தெரிவித்தனர்.
+
+இன்று மாலை கொக்கட்டிச்சோலை பொலிஸ் பிரிவில் மணல் ஏற்றிவந்த டிப்பர் வாகனத்தை நிறுத்தி பரிசோதித்த விசேட பொலிஸ் பிரிவினருடன் இணைக்கப்பட்டிருந்த பொலிஸ் சார்ஜன்ட் மற்றும் பொலிஸ் உத்தியோகத்தர் ஆகியோரே இவ்வாறு கைது செய்யப்பட்டவர்களாவர்.
+
+கொழும்பிலிருந்து வருகை தந்த இலஞ்ச ஒழிப்பு ஆணைக்குழு விசேட அதிகாரிகளே 2000 ரூபாய் இலஞ்சம் வாங்கிய நிலையில் கையும் மெய்யுமாக கைது செய்தனர்.
+
+மண் ஏற்றிவந்த லொறி சாரதியிடம் 2000 ரூபாய் இலஞ்சம் பெற்ற பொலிஸ் சார்ஜன்ட் மற்றும் பொலிஸ் உத்தியோகத்தர் ஆகியோர் இலஞ்ச ஒழிப்பு ஆணைக்குழு அதிகாரிகளால் இன்று மாலை மட்டக்களப்பு கொக்கட்டிச்சோலை பொலிஸ் பிரிவில் கைது செய்யப்பட்டதாக மட்டக்களப்பு தலைமையக பொலிசார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/314a27e5.json)
+
+---
+
+### மகாவலி ஆற்றில் நீராடச் சென்ற 5 இளைஞர்களில் இருவர் நீரில் மூழ்கி உயிரிழந்துள்ளனர்
+
+*2024-09-25 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194803) · `ta`
+
+பொல்கொல்ல அணைக்கு கீழே மகாவலி ஆற்றில் நீராடச் சென்ற 5 இளைஞர்களில் இருவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக வத்தேகம பொலிஸார் தெரிவித்தனர்.
+
+இந்த ஐந்து இளைஞர்களும் 25ஆம் திகதி புதன்கிழமை மது அருந்திவிட்டு மகாவலி ஆற்றில் இறங்கியுள்ளதாக பொலிஸ் விசாரணைகளிலிருந்து தெரியவந்துள்ளது.
+
+பொல்கொல்ல நீர்த்தேக்கத்திலிருந்து விக்டோரியாவிற்கு நீர் திறக்கும் வாயில் ஒன்று புதன்கிழமை (25) காலை முதல் திறக்கப்பட்டுள்ளதுடன், அதில் சிக்கிய 5 இளைஞர்கள் நீரில் அடித்துச் செல்லப்பட்டதுடன், மூவர் கற் பாறைகளில் தொங்கி உயிர் பிழைத்துள்ளனர்.
+
+நீரில் அடித்துச் செல்லப்பட்டு, காணாமல் போன இருவரில் ஒருவர் தனஞ்சய இந்துவர (22) எனவும் மற்றவர் யாரெனத் தெரியாது என உயிர் தப்பியோர்கள் பொலிஸாரிடம் தெரிவித்துள்ளனர். நீரில் அடித்துச் செல்லப்பட்ட இரு இளைஞர்களை தேடும் நடவடிக்கையை பொலிஸார் முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/14d1f2b6.json)
 
 ---
 
@@ -2237,171 +2371,5 @@ It is reported that nine governors will be appointed today.
 [Data](articles/fcc13d29.json)
 
 [Extended Data](ext_articles/fcc13d29.ext.json)
-
----
-
-### The internal telephone system of the Holy Phone System is inactive for 2 months
-
-*2024-09-25 11:53:17* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂා-රෝහලේ-අභ්‍යන්තර-දුරකථන-පද්ධතිය-මාස-2ක්-තිස්සේ-අක්‍රීයයි/11-412137) · `si`
-
-Holy Phone System inactive for 2 months due to Ministry of Health issues. Hospital staff struggle without internal communication. Private phones used temporarily. Patients unable to contact morgue. Laboratory and surgical delays reported. Authorities urged to restore system. Telecom informed of issue, awaiting resolution.
-
-🟩
-
-Hospital sources said that the internal telephone system of the hospital was unemployed since a rope of the health ministry of the Ministry of Health.
-
-According to the sources, the staff of the essential care unit, laboratory, the laboratory, the laboratory, the laboratory, and the operating theater have been severely difficult.
-
-It is said that this difficulty is about two months, and it is only the office that the office can only be addressed to any other unit.
-
-It is said that the internal communication facilities are provided with private mobile phones and no payment to do so.
-
-If a patient who is receiving treatment at the wards, it is impossible to connect at least the morgue.
-
-Sources say that it has been severely hindered to obtain laboratory facilities, to obtain the laboratory facilities to take to the operation for surgery for surgery.
-
-...
-
-[Data](articles/33c2b173.json)
-
-[Extended Data](ext_articles/33c2b173.ext.json)
-
----
-
-### Professor Jayantha, Eastern Governor
-
-*2024-09-25 11:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஜெயந்த-கிழக்கு-ஆளுநர்/175-344431) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Professor Jayantha Lal Ratnasekara: Born 1962, Eastern Governor-elect. Former VC of Uva Wellesa University. PhD in chemistry. Researches renewable energy, environmental chemistry. Independent journalist, writer, translator.
-
-🟩
-
-Professor Jayantha Lal Ratnasekara will be sworn in as the Governor of the Eastern Province on Wednesday (25).
-
-Professor Jayantha Lal Ratnasekara was born in November 1962. Wife's name is Mallika Ratnasekara. They have a son.
-
-He served as the Vice Chancellor of the University of Uva Wellesa, Sri Lanka from February to 20th November 2017.
-
-He learned his primary education at the Akrabodi Vidyalaya in Kantalai and at the Nalanda College, Colombo (1972-1980). He also graduated from Russia's People's Alliance University.
-
-Honors graduated in chemistry in 1988. In 1993, he earned his doctorate in chemistry.
-
-In August 1996, he joined the University of Sri Lanka as a Senior Lecturer in 2018 as Professor in Chemistry. And from 1999 to 2005 as the Vice Chancellor of the Faculty of Application
-
-In January 2017. In 2021, he served as Chairman of the Vice Chancellor and Directors Committee (CVCD).
-
-...
-
-[Data](articles/573cb0d9.json)
-
-[Extended Data](ext_articles/573cb0d9.ext.json)
-
----
-
-### Professor Jayantha Lal, Eastern Governor
-
-*2024-09-25 11:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஜெயந்த-லால்-கிழக்கு-ஆளுநர்/175-344431) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Professor Jayantha Lal Ratnasekara, born 1962, becomes Eastern Governor. Educated in Russia, he's a chemist & academic leader. Served as university VC, researcher in renewable energy & education quality. Known for journalism, writing, and translation work.
-
-🟩
-
-Professor Jayantha Lal Ratnasekara will be sworn in as the Governor of the Eastern Province on Wednesday (25).
-
-Professor Jayantha Lal Ratnasekara was born in November 1962. Wife's name is Mallika Ratnasekara. They have a son.
-
-He served as the Vice Chancellor of the University of Uva Wellesa, Sri Lanka from February to 20th November 2017.
-
-He learned his primary education at the Akrabodi Vidyalaya in Kantalai and at the Nalanda College, Colombo (1972-1980). He also graduated from Russia's People's Alliance University.
-
-Honors graduated in chemistry in 1988. In 1993, he earned his doctorate in chemistry.
-
-In August 1996, he joined the University of Sri Lanka as a Senior Lecturer in 2018 as Professor in Chemistry. And from 1999 to 2005 as the Vice Chancellor of the Faculty of Application
-
-In January 2017. In 2021, he served as Chairman of the Vice Chancellor and Directors Committee (CVCD).
-
-...
-
-[Data](articles/76dfde76.json)
-
-[Extended Data](ext_articles/76dfde76.ext.json)
-
----
-
-### The National Congress is not yet in the decision
-
-*2024-09-25 11:47:28* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-කොංග්‍රසය-තවමත්-තීරණයක-නෑ/11-412136) · `si`
-
-National Congress undecided on election strategy. Party leader Athaullah says candidates for North, East, and Kandy districts. Reconciliation focus mentioned but details unclear.
-
-🟩
-
-Parliamentarian ALM is not determined by his party in the next general election and is not decided to go with the allegic to the President Ranil Wickremesinghe or its own.. National Organizer of the National Congress, led by Athaullah, medical organizer. He said Mohamed Xia.
-
-However, the National Congress said that their candidates will be presented in the North and East and Kandy and Kandy districts.
-
-However, the National Organizer further stressed that notion of the party to contest the elections with the reconciliation.
-
-◼️
-
-[Data](articles/3d9ba560.json)
-
-[Extended Data](ext_articles/3d9ba560.ext.json)
-
----
-
-### Mahinda Siriwardena resumes duties as Finance Secretary
-
-*2024-09-25 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102257/mahinda-siriwardena-resumes-duties-as-finance-secretary) · `en`
-
-K.M.M. Siriwardena, who was re-appointed as the Secretary to the Ministry of Finance, Economic Development, Policy Formulation, Planning, and Tourism, resumed his duties today (25).
-
-Deputy Secretaries of the Treasury, heads of departments under the Ministry of Finance, and other senior officials attended the event.
-
-Mr. K. M. M. Siriwardana has more than 30 years of service in the Central Bank. Prior to his appointment as Deputy Governor, he held the key positions of Assistant Governor and Director of Economic Research Department of the Central Bank of Sri Lanka.
-
-Mr. Siriwardana was on release to the International Monetary Fund (IMF) as the Alternate Executive Director for the Constituency comprised of India, Sri Lanka, Bangladesh and Bhutan during July 2017 to October 2019.
-
-...
-
-[Data](articles/13b02219.json)
-
-[Extended Data](ext_articles/13b02219.ext.json)
-
----
-
-### Kenya Prime Minister congratulates Foreign Minister Vijitha Hera
-
-*2024-09-25 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194741) · `ta`
-
-Kenya PM congratulates Foreign Minister Vijitha Hera, praising strong ties between Kenya and Sri Lanka. Mudavadi emphasizes growing friendship and mutual benefits.
-
-🟩
-
-Kenya's Chief Minister of the Ministry of Foreign Affairs and Secretary to the Ministry of Diaspora Affairs, Dr. Muzaliya Mudavadi, congratulated the Minister of External Affairs Vijitha Hera.
-
-In his congratulatory message, Musaliya Mudhavadi has praised Kenya and Sri Lanka for a strong and friendly relationship.
-
-He also noted how these relationships continue to grow since the establishment of diplomatic contacts.
-
-He said that this would indicate how strong friendly relations between Kenya and Sri Lanka continues to grow.
-
-He reiterated Kenya's commitment to further strengthen these bonds for the benefit of the two countries, highlighting Kenya's historical relationship with Sri Lanka.
-
-Kenya stressed that it would be a commitment to advance mutual interests and develop deep cooperation between the two countries.
-
-◼️
-
-[Data](articles/ab86a6fc.json)
-
-[Extended Data](ext_articles/ab86a6fc.ext.json)
 
 ---

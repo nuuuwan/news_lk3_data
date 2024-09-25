@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 15:57:38**
+As of **2024-09-25 16:12:07**
 
 ## Newspaper Stats
 
-*Scraped **46,211** Articles*
+*Scraped **46,216** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
-adalk | 4,259
+adalk | 4,260
 dailymirrorlk | 4,733
 adaderanalk | 5,439
-tamilmirrorlk | 6,179
-virakesarilk | 7,383
-adaderanasinhalalk | 7,981
+tamilmirrorlk | 6,180
+virakesarilk | 7,384
+adaderanasinhalalk | 7,983
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,211 (100.0%) of 46,211 articles have been extended.
+46,216 (100.0%) of 46,216 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### The government is parking place
+
+*2024-09-25 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201532) · `si`
+
+National Executive Committee Chairman Wasantha Samarasinghe announced investigations into Presidential Secretariat proposals. Meeting held at Presidential Secretariat parking area on Scout Avenue. New president's appointment affects staff movement around the building.
+
+🟩
+
+The National Executive Committee of the National Executive Committee Wasantha Samarasinghe says that the proposals of the Presidential Secretariat will be investigated properly.
+
+Speaking to the media this morning at the Presidential Secretariat this morning.
+
+With the appointment of the new president, the traffic from the Presidential Secretariat, near the Presidential Secretariat, the other personnel belonging to the Presidential Secretariat is located near the parking and Foundation Institute at the Scouting Mawatha near the Presidential Secretariat.
+
+The National Executive Committee of the National Power of Power Wasantha Samarasinghe was present at the parking parking at the Scout Avenue this morning.
+
+◼️
+
+[Data](articles/5346c580.json)
+
+[Extended Data](ext_articles/5346c580.ext.json)
+
+---
+
+### Is the general election unconstitutional?;The Election Commission refuses
+
+*2024-09-25 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194772) · `ta`
+
+Election Commission denies claims of unconstitutionality. Commissioner General refuses comment on social media. Some argue 5-week gap between nomination filing and election violates law. Deadline for nominations is October 11.
+
+🟩
+
+The Commissioner General of Elections Saman Ratnayake has refused to comment on social media that the general election is unconstitutional.
+
+Many have expressed their views that the law has been stated that there should be a 5 -week break after filing a nomination for the election.
+
+The deadline for filing nominations for the general election ends on October 11.
+
+The law states that there should be a five -week gap, including the date of filing Vadman from the date. So this date is correct, he said.
+
+◼️
+
+[Data](articles/c43a1c55.json)
+
+[Extended Data](ext_articles/c43a1c55.ext.json)
+
+---
+
+### Thailand's approval for the Samarisi Marriage Act
+
+*2024-09-25 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201531) · `si`
+
+Thailand approves Samarisi Marriage Act, legalizing same-sex unions. Bill passed in parliament, set to become law after 120-day waiting period. Thailand joins global trend as third country to legalize Samariya marriages.
+
+🟩
+
+Thailand parliament took advice a few months ago to pass a bill a few months ago to legalize Marricks.
+
+Accordingly, the bill is a law in Thailand after 120 more days.
+
+Thailand is one of the third country at the marriage of Samariya.
+
+◼️
+
+[Data](articles/65972853.json)
+
+[Extended Data](ext_articles/65972853.ext.json)
+
+---
 
 ### 65-hour water cut to be imposed in an around Kandy
 
@@ -53,6 +123,28 @@ The Water Board further said it regrets any inconveniences caused to the public 
 [Data](articles/86beebfd.json)
 
 [Extended Data](ext_articles/86beebfd.ext.json)
+
+---
+
+### Wedge for bar licenses
+
+*2024-09-25 15:23:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பார்-லைசன்களுக்கு-ஆப்பு/175-344443) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura cancels liquor licenses issued near end of Ranil regime.
+
+🟩
+
+President Anura has ordered the cancellation of liquor sales licenses issued during the final period of the Ranil regime.
+
+◼️
+
+[Data](articles/00b5994b.json)
+
+[Extended Data](ext_articles/00b5994b.ext.json)
 
 ---
 
@@ -149,6 +241,30 @@ President Anura Kumara Dissanayake has said that the number of vehicles allocate
 [Data](articles/8cf2df45.json)
 
 [Extended Data](ext_articles/8cf2df45.ext.json)
+
+---
+
+### A sickness of Ja-Ela
+
+*2024-09-25 14:21:05* · [`adalk`](https://www.ada.lk/breaking_news/ජා-ඇල-ඌරන්ට-ලෙඩක්/11-412142) · `si`
+
+Ja-Ela swine farm outbreak: Sudden deaths reported; disease spreads quickly; treatment ineffective; infected animals sold as meat; health officials unaware of issue.
+
+🟩
+
+Swine vendors say that sumptors are dying due to a disease of Swine farms in Ja-Ela, Ragama and suburbs.
+
+Thus dies from a few weeks and the disease has spread to the growing suituffs from the small calf. Due to the premises of a setting, heavyly dies in a few days. Although the treatment is treated, the treatment is not cured.
+
+The danger here is the dying suits and send the dead to the market. Swachi farms have also been able to buy a kilo of kilous at Rs. 300 / =. He added that the meat was often dead, he was often dead.
+
+While we asked the office of the Medical Officer of the Medical Officer of Health, a senior official said that the situation was not reported to his office.
+
+◼️
+
+[Data](articles/28f7dcf1.json)
+
+[Extended Data](ext_articles/28f7dcf1.ext.json)
 
 ---
 
@@ -2177,115 +2293,5 @@ It is indeed an irony that there is so much of enthusiasm  over the election of 
 [Data](articles/eabab93d.json)
 
 [Extended Data](ext_articles/eabab93d.ext.json)
-
----
-
-### Academic Turned MP Dr.Harini Amarasuriya  Becomes Third Woman to be Prime Minist of Sri Lanka after Sirimavo Bandaranaike in 1960 and Chandrika  Kumaratunga in 1994; President Anura Dissanayake Dissolves Parliament  to hold Election  on 14th November
-
-*2024-09-25 00:37:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84787) · `en`
-
-President Anura Kumara Dissanayake on Tuesday (September 24, 2024) appointed MP and former academic Harini Amarasuriya as Sri Lanka’s Prime Minister, as part of a four-member Cabinet under him that will lead policy until the parliamentary elections scheduled on November 14.
-
-The date for the general elections was announced through a gazette issued late on Tuesday, which said the parliament would be dissolved from midnight.
-
-After Sri Lankans elected Mr. Dissanayake to the country’s top office in the September 21 presidential polls, he resigned as a Member of Parliament, and a National People’s Power [NPP] member took his place.  The NPP Alliance has 3 MPs in the 225-member legislature, which is expected to be dissolved soon in preparation for the conduct of the general elections.
-
-...
-
-[Data](articles/3d79ceb3.json)
-
-[Extended Data](ext_articles/3d79ceb3.ext.json)
-
----
-
-### 2024-09-24 (Tuesday)
-
-### We hope that President Anura Kumara Dissanayake will fulfill the confidence of the people -Vajira Abeywardena
-
-*2024-09-24 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194731) · `ta`
-
-UNP MP Vajira Abeywardena hopes President Anura Kumara Dissanayake fulfills public trust after Ranil Wickremesinghe's IMF-backed rescue.
-
-🟩
-
-Ranil Wickremesinghe has rescued the country with the help of the International Monetary Fund and handed over the responsibility to President Anura Kumara Dissanayake.. "We hope the new president will fulfill that responsibility," said UNP MP Vajira Abeywardena.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (24).
-
-Ranil Wickremesinghe, who contested as an independent candidate in the presidential election, voted for various political positions. We thank them as our party.
-
-Similarly, more than 42 percent of the people in the country should cooperate with the new President Anuragumara Dissanayake, or to implement the issues stated in the election policy proposed by him.. People are hugely anticipated to implement the stated issues.
-
-...
-
-[Data](articles/0c8b8581.json)
-
-[Extended Data](ext_articles/0c8b8581.ext.json)
-
----
-
-### Sri Lanka President discusses economy with CB Governor, Treasury secy
-
-*2024-09-24 23:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-economy-with-cb-governor-treasury-secy-180878/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s newly elected President Anura Dissanayake had met Central Bank Governor Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardana, a government statement said.
-
-Mahinda Siriwardana was re-appointed as Treasury Secretary earlier on Tuesday.
-
-The current status of the economy, measures to stabilize the economy was discussed at length, the statement said.
-
-Sri Lanka is emerging from sovereign default, achieved without a war, after four back to back currency crises coming in the wake of aggressive, inflationary open market operations to target the average call money rate claiming that historical 12-month inflation was low (flexible inflation targeting).
-
-At each currency crises from mis-targeted call money rate, the exchange rate was depreciated before or concurrently with sudden corrections in  interest rates triggering social and political unrest.
-
-...
-
-[Data](articles/d12475c6.json)
-
-[Extended Data](ext_articles/d12475c6.ext.json)
-
----
-
-### Parliament dissolves at midnight today!
-
-*2024-09-24 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194728) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Parliament dissolved: President signs Gazette, effective midnight Tuesday 24th. Document sent to Government Print Department."
-
-🟩
-
-It is reported that the Gazette to dissolve Parliament from midnight on Tuesday 24th is signed by President Anura Kumara Dissanayake and has been sent to the Government Print Department.
-
-◼️
-
-[Data](articles/930fd044.json)
-
-[Extended Data](ext_articles/930fd044.ext.json)
-
----
-
-### Disassemnes Parliament
-
-*2024-09-24 23:07:35* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-විසුරුවා-හරියි/11-412132) · `si`
-
-Sri Lanka: President dissolves Parliament, new elections set for Nov 21. Nomination period Oct 4-11. Last Parliament dissolved after 2019 election.
-
-🟩
-
-President Anura Kumara Dissanayake released the gazette notification to dissolve Parliament in Sri Lanka. The dissolved was the dissolved in the last presidential election.
-
-The new Parliament will be held on November 21, and the parliamentary elections will be held on November 14.
-
-Nomination call for election is done from October 4 to 11. After the dissolution of parliament, the post of elections of all MPs was abolished.
-
-◼️
-
-[Data](articles/73d5954d.json)
-
-[Extended Data](ext_articles/73d5954d.ext.json)
 
 ---

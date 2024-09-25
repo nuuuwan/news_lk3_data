@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 17:59:12**
+As of **2024-09-25 18:19:33**
 
 ## Newspaper Stats
 
-*Scraped **46,233** Articles*
+*Scraped **46,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
-adalk | 4,261
+adalk | 4,263
 dailymirrorlk | 4,733
 adaderanalk | 5,442
-tamilmirrorlk | 6,183
+tamilmirrorlk | 6,184
 virakesarilk | 7,389
 adaderanasinhalalk | 7,988
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,988
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,233 (100.0%) of 46,233 articles have been extended.
+46,236 (100.0%) of 46,236 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,30 @@ Accordingly, the law will come into effect after 120 days.
 [Data](articles/09c79074.json)
 
 [Extended Data](ext_articles/09c79074.ext.json)
+
+---
+
+### New governors appoint
+
+*2024-09-25 17:26:52* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආණ්ඩුකාරවරු-පත්කෙරෙති/11-412146) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka: President Anura Kumara Dissanayake appoints new governors. Central Province: Prof. Sarath Abeykoon named governor.
+
+🟩
+
+President Anura Kumara Dissanayake has been appointed to appoint new governors in the provinces.
+
+The Central Province New Provincial Council - Prof. Sarath Abeykoon has been appointed.
+
+◼️
+
+[Data](articles/a5171254.json)
+
+[Extended Data](ext_articles/a5171254.ext.json)
 
 ---
 
@@ -77,6 +101,34 @@ He added that 29 of the 833 vehicles have disappeared by 2022 and that former Pr
 [Data](articles/8466d713.json)
 
 [Extended Data](ext_articles/8466d713.ext.json)
+
+---
+
+### Vehicles used in past governments
+
+*2024-09-25 17:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கடந்த-அரசாங்கங்களில்-பயன்படுத்திய-வாகனங்கள்/46-344449) · `ta`
+
+Former Sri Lankan presidents and high-ranking officials' vehicles parked at Galle Face and other locations. Vehicles maintained by public funds, 833 total, 29 missing by 2022. Former presidents allegedly used vehicles.
+
+🟩
+
+A large number of 'high -ranking' vehicles used by former President Ranil Wickremesinghe's government ministers, diplomatic ministers and secretaries are now parked in the Galle face.
+
+Other vehicles near the Sri Lanka Forum College and Laxala have been parked.
+
+Vasantha Samarasinghe, the Executive Member of the National People's Power, said that after visiting the vehicles, the authorities who used them have been deployed in many places since they were sworn in as President.
+
+Samarasinghe said that if Anura Dissanayake was not president, these vehicles would still run on the road.
+
+Vasantha Samarasinghe said that the vehicles were maintained by the public's fuel and money and that there are 833 vehicles belonging to the Presidential Office.
+
+He added that 29 of the 833 vehicles have disappeared by 2022 and that former Presidents Ranil Wickremesinghe, Mahinda Rajapaksa, Maithripala Sirisena, Gotabhaya Rajapaksa and Chandrika Kumaratunga have swallowed the vehicles.
+
+◼️
+
+[Data](articles/d669b128.json)
+
+[Extended Data](ext_articles/d669b128.ext.json)
 
 ---
 
@@ -135,6 +187,28 @@ If a sacrificial is a 76-674 5349, the mother of the belone can be connected to 
 [Data](articles/8cb7fca4.json)
 
 [Extended Data](ext_articles/8cb7fca4.ext.json)
+
+---
+
+### Controller of Immigration and Emigration ordered to be remanded for Harsha Ilunty
+
+*2024-09-25 16:44:33* · [`adalk`](https://www.ada.lk/breaking_news/ආගමන-විගමන-පාලක-ජනරාල්-හර්ෂ-ඉලුක්පිටිය-රිමාන්ඩ්-කරන-ලෙස-නියෝග/11-412145) · `si`
+
+Supreme Court orders remand of Controller Harsha Ilupitiya due to defying interim injunction orders related to electrical disposal case. Hearing scheduled for January 22nd.
+
+🟩
+
+The Supreme Court today (25) ordered to remand the Controller General Harsha Ilupitiya.
+
+Mr. IIkupitiya has been remanded due to defilling the judiciary by default by the default of the interim injunction orders issued on the issue of electrical disposal.
+
+The case will be called on January 22nd and is said to be binded by him.
+
+◼️
+
+[Data](articles/68647f5d.json)
+
+[Extended Data](ext_articles/68647f5d.ext.json)
 
 ---
 
@@ -2275,57 +2349,5 @@ President Anura Kumara Dissanayake yesterday appointed new Secretaries for 15 Mi
 [Data](articles/edbf498a.json)
 
 [Extended Data](ext_articles/edbf498a.ext.json)
-
----
-
-### Korean President congratulates President AKD
-
-*2024-09-25 04:47:07* · [`dailyftlk`](https://www.ft.lk/news/Korean-President-congratulates-President-AKD/56-767107) · `en`
-
-Republic of Korea President Yoon Suk Yeol has extended his congratulations to President Anura Kumara Dissanayake on his inauguration.
-
-Highlighting the friendship between the Republic of Korea and the Democratic Socialist Republic of Sri Lanka since 1977, President Yoon expressed his expectation for a bolstered relationship between the two countries under the new leadership, a statement from the Korean Embassy said yesterday.
-
-◼️
-
-[Data](articles/912dd93d.json)
-
-[Extended Data](ext_articles/912dd93d.ext.json)
-
----
-
-### New DG at President’s Media
-
-*2024-09-25 04:46:49* · [`dailyftlk`](https://www.ft.lk/news/New-DG-at-President-s-Media/56-767106) · `en`
-
-President Anura Kumara Dissanayake has appointed Dr. Najith Indika as the new Director
-
-Dr. Najith is a past pupil of Ranna Maha Vidyalaya, Hambantota and Royal College, Colombo. He earned his medical degree from the Faculty of Medicine, University of Colombo.
-
-Over the past five years, he has served as a doctor and medical officer in various government hospitals.
-
-In addition to his medical career, Dr. Najith is a student and political activist.
-
-◼️
-
-[Data](articles/242b443d.json)
-
-[Extended Data](ext_articles/242b443d.ext.json)
-
----
-
-### Ranil to skip General Election, focus on party leadership: Ruwan Wijewardene
-
-*2024-09-25 04:46:24* · [`dailyftlk`](https://www.ft.lk/news/Ranil-to-skip-General-Election-focus-on-party-leadership-Ruwan-Wijewardene/56-767105) · `en`
-
-United National Party (UNP) Deputy Leader Ruwan Wijewardene announced today that President Ranil Wickremesinghe will not be contesting in the upcoming General Election or seeking a seat in Parliament via the national list. The decision, according to Wijewardene, has been made by Wickremesinghe himself, but he will continue to provide crucial leadership to the UNP during the election campaign.
-
-“Ranil Wickremesinghe has made the decision not to contest or enter Parliament through the national list in the forthcoming election,” Wijewardene confirmed, adding that despite this, Wickremesinghe will remain actively involved in guiding the party through this critical period.
-
-...
-
-[Data](articles/77f2be7e.json)
-
-[Extended Data](ext_articles/77f2be7e.ext.json)
 
 ---

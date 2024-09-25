@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 14:12:57**
+As of **2024-09-25 14:24:42**
 
 ## Newspaper Stats
 
-*Scraped **46,200** Articles*
+*Scraped **46,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,793
 dailyftlk | 3,074
 adalk | 4,256
 dailymirrorlk | 4,733
-adaderanalk | 5,436
+adaderanalk | 5,438
 tamilmirrorlk | 6,178
 virakesarilk | 7,381
 adaderanasinhalalk | 7,981
@@ -26,11 +26,31 @@ adaderanasinhalalk | 7,981
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,200 (100.0%) of 46,200 articles have been extended.
+46,202 (100.0%) of 46,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### IMF chief assures steadfast support for Sri Lanka to achieve development and reform goals
+
+*2024-09-25 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102260/imf-chief-assures-steadfast-support-for-sri-lanka-to-achieve-development-and-reform-goals) · `en`
+
+International Monetary Fund (IMF) Managing Director Kristalina Georgieva has assured Sri Lanka’s newly elected President that the global lender remains a steadfast partner and stands ready to assist Sri Lanka to achieve its development and reform goals, including under the ongoing IMF-supported program.
+
+In a letter addressed to Anura Kumara Dissanayake, congratulating him on his election as the President, the IMF chief expressed confidence that his leadership will help secure a future of stability, prosperity, and inclusive growth for Sri Lanka.
+
+“We at the IMF greatly value the excellent engagement that we have had with Sri Lanka over the years.”
+
+“I would like to take this opportunity to assure you that we remain a steadfast partner and stand ready to assist Sri Lanka to achieve its development and reform goals, including under the ongoing IMF-supported program,” Georgieva said.
+
+...
+
+[Data](articles/88546dcb.json)
+
+[Extended Data](ext_articles/88546dcb.ext.json)
+
+---
 
 ### The IMF Head of President Mahinda Rajapaksa's Faith
 
@@ -49,6 +69,24 @@ The International Monetary Fund is also ready to take action as a sustainable pa
 [Data](articles/fa385f3b.json)
 
 [Extended Data](ext_articles/fa385f3b.ext.json)
+
+---
+
+### Congress MP writes to Sri Lankan President to release Indian fishermen
+
+*2024-09-25 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102259/congress-mp-writes-to-sri-lankan-president-to-release-indian-fishermen) · `en`
+
+Requesting newly elected president of Sri Lanka, Anura Kumara Dissanayake, to make a fresh beginning by using his sovereign Presidential powers and order the release of all Indian fishermen languishing in Sri Lankan jails as a token of goodwill and love, India’s Congress MP, R Sudha, who was recently elected from Mayiladuthurai constituency, said such a gesture will add a lot of muscle to his avowed objective of giving Sri Lanka a new direction.
+
+In an ‘open-hearted and open minded’ letter to Dissanayake, the Indian MP asked the Sri Lankan President to release the fishermen and return all their boats in good usable condition as early as possible as a token of goodwill and love and said that such a gesture would add a lot of muscle to his avowed objective of giving Sri Lanka a new direction.
+
+A good beginning could be made by releasing the 37 fishermen from Mayiladuthurai constituency, she said, adding that 80 other fishermen and 173 fishing boats were under the custody of Sri Lanka.
+
+...
+
+[Data](articles/ad8deda7.json)
+
+[Extended Data](ext_articles/ad8deda7.ext.json)
 
 ---
 
@@ -2203,57 +2241,5 @@ Centrum Marine Consultancy, the rising leader in Marine HR solutions in Sri Lank
 [Data](articles/716f6ae2.json)
 
 [Extended Data](ext_articles/716f6ae2.ext.json)
-
----
-
-### CSE in bullish start following news of govt. and IMF working towards common position
-
-*2024-09-24 22:27:00* · [`islandlk`](http://island.lk/cse-in-bullish-start-following-news-of-govt-and-imf-working-towards-common-position/) · `en`
-
-The stock market kicked off on a bullish sentiment yesterday as most investors believe that the new government will be negotiating with the IMF with a view to arriving at a consensual position, market analysts said.
-
-Amid those developments both local and foreign investors adopted a wait- and- see approach. However, both indices moved upwards. The All- Share Price Index increased by 239.88 points (2.16 percent) to close at 11.336, while the S and SL20 increased by 76.16 points (2.41 percent) to close at 3.236.79. Turnover stood at Rs 2 billion without any crossings.
-
-...
-
-[Data](articles/bdff402b.json)
-
-[Extended Data](ext_articles/bdff402b.ext.json)
-
----
-
-### Derana racket exposed to Ukrana
-
-*2024-09-24 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201513) · `si`
-
-Ada Derana exposes illegal soil excavation racket in Sri Lanka. Geological and Mines Bureau investigates, arrests perpetrators. Misuse of licenses uncovered.
-
-🟩
-
-Ada Derana Uk has been able to cover an illegal soil excavation racket by misuse of licenses.
-
-Ada Derana Ukkusa received information regarding the soil that was carried out in the Bulathsinhala ingiriya.
-
-According to the officers of the Geological and Mines Bureau, Ada Derana went to the area to look into the matter.
-
-While we were reaching the area, we were observed to pass the soil.
-
-Accordingly, the officers of the Geological and Mines Bureau have stopped the lorries and tested their licenses.
-
-Steps were taken to inspect the transportation brochure, which is shipped on suspicion that the permits were false.
-
-It was confirmed that they carry infinitely soil, misusing the boundaries and misuse the licenses.
-
-In this racket, they have revealed the father's father, using a pen.
-
-The lorry was then the lorry hawk and was reached the place where the soil was carried out.
-
-When we reach the site, a group was still trying to dig soil.
-
-...
-
-[Data](articles/56368b43.json)
-
-[Extended Data](ext_articles/56368b43.ext.json)
 
 ---

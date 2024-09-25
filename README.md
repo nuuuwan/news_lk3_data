@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 11:39:05**
+As of **2024-09-25 11:58:30**
 
 ## Newspaper Stats
 
-*Scraped **46,180** Articles*
+*Scraped **46,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,117 @@ dailyftlk | 3,074
 adalk | 4,252
 dailymirrorlk | 4,733
 adaderanalk | 5,434
-tamilmirrorlk | 6,173
-virakesarilk | 7,376
+tamilmirrorlk | 6,175
+virakesarilk | 7,379
 adaderanasinhalalk | 7,977
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,180 (100.0%) of 46,180 articles have been extended.
+46,185 (100.0%) of 46,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Kenya Prime Minister congratulates Foreign Minister Vijitha Hera
+
+*2024-09-25 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194741) · `ta`
+
+Kenya PM congratulates Foreign Minister Vijitha Hera, praising strong ties between Kenya and Sri Lanka. Mudavadi emphasizes growing friendship and mutual benefits.
+
+🟩
+
+Kenya's Chief Minister of the Ministry of Foreign Affairs and Secretary to the Ministry of Diaspora Affairs, Dr. Muzaliya Mudavadi, congratulated the Minister of External Affairs Vijitha Hera.
+
+In his congratulatory message, Musaliya Mudhavadi has praised Kenya and Sri Lanka for a strong and friendly relationship.
+
+He also noted how these relationships continue to grow since the establishment of diplomatic contacts.
+
+He said that this would indicate how strong friendly relations between Kenya and Sri Lanka continues to grow.
+
+He reiterated Kenya's commitment to further strengthen these bonds for the benefit of the two countries, highlighting Kenya's historical relationship with Sri Lanka.
+
+Kenya stressed that it would be a commitment to advance mutual interests and develop deep cooperation between the two countries.
+
+◼️
+
+[Data](articles/ab86a6fc.json)
+
+[Extended Data](ext_articles/ab86a6fc.ext.json)
+
+---
+
+### Mother arrested for killing her daughter
+
+*2024-09-25 11:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மூக்கை-அழுத்தி-மகளை-கொன்ற-தாய்-கைது/76-344430) · `ta`
+
+Mother arrested for allegedly suffocating infant daughter. Police investigation reveals she was alone with child when incident occurred. Suspect reportedly angry, blocked baby's nose and mouth leading to death.
+
+🟩
+
+Kalaha police said the mother had been arrested for allegedly killing her nose for a daughter and five months old.
+
+After her husband went out of the house, the suspect, the woman and her daughter, were only at home, police said.
+
+Investigations conducted by the police have found that the suspect had died because the suspect was angry and closed her daughter's nose and mouth.
+
+◼️
+
+[Data](articles/2dd34c22.json)
+
+[Extended Data](ext_articles/2dd34c22.ext.json)
+
+---
+
+### General election;Postal Voting Applications will be accepted from today
+
+*2024-09-25 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194746) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"General election set for Nov 14. Postal voting applications open from Oct 25. Commissioner General announces start date."
+
+🟩
+
+It has been announced that the general election will be held on the 14th of November.
+
+The Commissioner General of Elections has announced that applications for postal voting will be applied from Wednesday (25).
+
+◼️
+
+[Data](articles/ff202b69.json)
+
+[Extended Data](ext_articles/ff202b69.ext.json)
+
+---
+
+### Law for those who sit in the seat
+
+*2024-09-25 11:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பின்-ஆசனத்தில்-அமர்பவர்களுக்கு-சட்டம்/175-344429) · `ta`
+
+Summarized: Karadivu police officer advocates for mandatory two-side seating in vehicles to prevent accidents, citing recent tragic incidents involving minors.
+
+🟩
+
+Karadivu Police Station Officer RSD. Said Jayalath.
+
+“Those who are in the back should sit on both sides of the leg. There have been many accidents while on one side of the morning.
+
+Even a 14 -year -old student has been tragically killed in an accident at Mavadipalli recently.
+
+According to the Motor Transport Act. Therefore, if I want to avoid unjust deaths in Karadivu area, this law should be implemented very soon.Said.
+
+◼️
+
+[Data](articles/e79f19cc.json)
+
+[Extended Data](ext_articles/e79f19cc.ext.json)
+
+---
 
 ### Sri Lanka Customs warns against fake recruitment workshops
 
@@ -129,6 +227,30 @@ The applications for postal voting in the General Election will be accepted star
 [Data](articles/b2430508.json)
 
 [Extended Data](ext_articles/b2430508.ext.json)
+
+---
+
+### Meeting between President Anuragumara Dissanayake and Central Bank Governor
+
+*2024-09-25 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194740) · `ta`
+
+President Anura Kumara Dissanayake met Central Bank Governor Dr. Nandalal Weerasinghe to discuss Sri Lanka's economic situation. Finance Minister Mahinda Siriwardena joined the talks. The meeting focused on improving the economy and addressing key economic challenges facing the country.
+
+🟩
+
+There is a discussion between President Anura Kumara Dissanayake and Central Bank Governor Dr. Nandalal Weerasinghe.
+
+The Presidential Secretariat was discussing the current economic situation in the country at a discussion held on Tuesday (24) afternoon.
+
+The Secretary to the Ministry of Finance Mahinda Siriwardena also participated in the discussion, the Government Information Department said.
+
+The Government Information Department said that the measures to improve the economy and a number of issues affecting the country's economy were discussed.
+
+◼️
+
+[Data](articles/52d1c4e7.json)
+
+[Extended Data](ext_articles/52d1c4e7.ext.json)
 
 ---
 
@@ -1420,7 +1542,7 @@ It is indeed an irony that there is so much of enthusiasm  over the election of 
 
 ---
 
-### Academic Turned MP Dr.Harini Amarasuriya  Becomes Third Woman to be Prime Minist of Sri Lanka er after Sirimavo Bandaranaike in 1960 and Chandrika  Kumaratunga in 1994; President Anura Dissanayake Dissolves Pariament and schedules new Elections to be held on 14th November
+### Academic Turned MP Dr.Harini Amarasuriya  Becomes Third Woman to be Prime Minist of Sri Lanka after Sirimavo Bandaranaike in 1960 and Chandrika  Kumaratunga in 1994; President Anura Dissanayake Dissolves Parliament  to hold Election  on 14th November
 
 *2024-09-25 00:37:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84787) · `en`
 
@@ -2141,131 +2263,5 @@ For the past five years, it is noteworthy that he has been a doctor and a medica
 [Data](articles/5a40604f.json)
 
 [Extended Data](ext_articles/5a40604f.ext.json)
-
----
-
-### Questionnaire abuse;Arrest
-
-*2024-09-24 20:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-முறைகேடு-மற்றுமொருவர்-கைது/175-344396) · `ta`
-
-Teacher arrested over leaked exam questions. Parents complained, CID investigating. Earlier director held.
-
-🟩
-
-An additional class teacher from Kurunegala has been arrested in connection with the Grade Five Scholarship Examination Questionnaire.
-
-A group of parents of students who appeared for the examination in connection with the alleged leak of the Grade Five Scholarship Examination Questionnaire had earlier filed a complaint with the Criminal Investigation Department demanding a formal inquiry.
-
-In addition, the Criminal Investigation Department and the Department of Examinations are conducting investigations into the incident.
-
-Based on these investigations, the Director of the Planning Unit of the Maharagama National Education Institute, who was arrested earlier, has been kept in remand until October 7.. Remble
-
-◼️
-
-[Data](articles/3915e4c0.json)
-
-[Extended Data](ext_articles/3915e4c0.ext.json)
-
----
-
-### President calls nation tomorrow
-
-*2024-09-24 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201509) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Tomorrow, President Anura Kumara Dissanayake will address the nation at 7:30 pm. The announcement was made regarding his upcoming speech."
-
-🟩
-
-President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorrow (25).
-
-◼️
-
-[Data](articles/1bd9b14c.json)
-
-[Extended Data](ext_articles/1bd9b14c.ext.json)
-
----
-
-### Sri Lanka sets up 15 ministries ahead of polls, Treasury secretary re-appointed
-
-*2024-09-24 19:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-sets-up-15-ministries-ahead-of-polls-treasury-secretary-re-appointed-180823/) · `en`
-
-ECONOMYNEXT – Sri Lanka has appointed secretaries to run 15 ministries after appointing a three member cabinet, who will hold the portfolios, including President Anura Dissanayake, following the change of government.
-
-They will run the ministries until general elections are concluded.
-
-3.	K.D.S. Ruwanchandra – Secretary to the Ministry of Transport, Highways, Ports, and Civil Aviation
-
-4.	K.M.M. Siriwardena – Secretary to the Ministry of Finance, Economic Development, Policy Formulation, Planning, and Tourism
-
-5.	Aruni Wijewardena – Secretary to the Ministry of Foreign Affairs
-
-6.	J.M.T. Jayasundara – Secretary to the Ministry of Education, Science and Technology
-
-7.	K. Maheson – Secretary to the Ministry of Women, Children, Youth Affairs, and Sports
-
-8.	M.M. Naimuddin – Secretary to the Ministry of Trade, Commerce, Food Security, Cooperative Development, Industry, and Entrepreneurship Development
-
-...
-
-[Data](articles/8b402e9a.json)
-
-[Extended Data](ext_articles/8b402e9a.ext.json)
-
----
-
-### 11 months of the 11 months of security guard at hospital
-
-*2024-09-24 19:48:19* · [`adalk`](https://www.ada.lk/breaking_news/මවුපිය-ගැටුමට-මැදි-වූ-මාස-11-සිඟිත්තිය--ආරක්ෂක-හිස්-වැසුම්-පහරින්-බරපතල-තුවාල-ලබා-රෝහලේ/11-412127) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-A 28-year-old man and his wife (31) were involved in a dispute over a casual affair. The man allegedly attacked his wife in front of a shop, causing her serious injury. She was hospitalized at Horana Base Hospital. Police investigations are ongoing under the instructions of OIC Athuruguratota.
-
-🟩
-
-Anguruwa Police said that the 11 months old injuries have been hospitalized after the husband's helmets
-
-Police said that the attack had been attacked in front of a green gallery shop after a dispute between 28 and 31 years old-old coupled in the Green village door.
-
-Police investigations have revealed that the dispute had taken place on a casual affair that a woman was running with a woman in an adjoining house, police investigations
-
-Hospital news reportsMeans the roads
-
-The police said that the complainant had gone to the Horana Base Hospital with the court medical form and had been injured and taken to the Horana Base Hospital.
-
-The girl and mother are currently receiving treatment at the Horana Base Hospital Number Number at Horana Base Hospital Number
-
-Investigations are conducted on the instructions of OIC of Athuruguratota
-
-◼️
-
-[Data](articles/1fa11d1f.json)
-
-[Extended Data](ext_articles/1fa11d1f.ext.json)
-
----
-
-### Sri Lanka President to address nation Wednesday
-
-*2024-09-24 19:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-address-nation-wednesday-180841/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s newly elected President Anura Dissanayake will address the nation on Wednesday at 7.30 pm, his media office said.
-
-The address will be broadcast live on all major electronic media channels, the statement said.
-
-President is expected to dissolve parliament calling for snap polls. (Colombo/Aug24/2024)
-
-◼️
-
-[Data](articles/4e41305e.json)
-
-[Extended Data](ext_articles/4e41305e.ext.json)
 
 ---

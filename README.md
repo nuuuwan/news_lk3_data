@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 07:26:09**
+As of **2024-09-25 08:01:41**
 
 ## Newspaper Stats
 
-*Scraped **46,126** Articles*
+*Scraped **46,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ dailymirrorlk | 4,733
 adaderanalk | 5,428
 tamilmirrorlk | 6,161
 virakesarilk | 7,374
-adaderanasinhalalk | 7,969
+adaderanasinhalalk | 7,971
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,126 (100.0%) of 46,126 articles have been extended.
+46,128 (100.0%) of 46,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### President and the Central Bank domestic discussion
+
+*2024-09-25 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201519) · `si`
+
+President Anura Kumara Dissanayake and Central Bank Governor Dr. Nandalal Weerasinghe met at the Presidential Secretariat. Discussion focused on Sri Lanka's economic situation and government stabilization efforts. Finance Minister Mahinda Siriwardena attended.
+
+🟩
+
+President Anura Kumara Dissanayake and Central Bank Governor Dr. Nandalal Weerasinghe has held a discussion.
+
+The Government Information Department announced that Secretary of the Ministry of Finance Mahinda Siriwardena was also present.
+
+The discussion held at the Presidential Secretariat yesterday (24) will be discussed at length to the current economic situation of the country.
+
+The government's stabilization measures have also been discussed in the publication of the economy and the economy of the country.
+
+◼️
+
+[Data](articles/214cba52.json)
+
+[Extended Data](ext_articles/214cba52.ext.json)
+
+---
+
+### President calls for nation today
+
+*2024-09-25 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201518) · `si`
+
+President Anura Kumara Dissanayake addresses nation today. First speech since presidency. Parliament dissolved. General election nominations open Oct 4-12. New Parliament meets Nov 21.
+
+🟩
+
+President Anura Kumara Dissanayake is due to address the nation today (25).
+
+The Presidential Media Unit announced that the President is due to call on the race at 7.30 am today.
+
+Anura Kumara Dissanayake won the 21st and Rs.
+
+This is the first time Anura Kumara Dissanayake addressing the race after being elected to the Presidency.
+
+Meanwhile, the gazette notification was issued to dissolve the Parliament yesterday (24).
+
+The Assistant Secretary of the President Anura Kumara Dissanayake says that the Parliament is dissolved by the Parliament that the Parliament will be dissolved by the Parliament No.
+
+Also, nominations of the general election will be taken to select the new Parliament to select the new Parliament from October 4th to 12 noon.
+
+Nominations will be accepted at the District Secretariats of 22 electorates.
+
+The 10th Parliament appointed by the General Election will meet on November 21.
+
+...
+
+[Data](articles/6dba9641.json)
+
+[Extended Data](ext_articles/6dba9641.ext.json)
+
+---
 
 ### Showers in several areas
 
@@ -2381,49 +2439,5 @@ The latest announcement issued by the Northern Province, which was 2.2% of food 
 [Data](articles/0580f7d8.json)
 
 [Extended Data](ext_articles/0580f7d8.ext.json)
-
----
-
-### United People's Power Candidate Sajith- 'Ranil is not likely to work together'
-
-*2024-09-24 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194698) · `ta`
-
-Sajith Premadasa, United People's Power candidate, rules out alliance with UNP. He claims Ranil Wickremesinghe unlikely to collaborate. This statement comes ahead of the upcoming parliamentary elections.
-
-🟩
-
-Sajitprematasa has been officially announced as the United People's Power Public Council candidate in the upcoming parliamentary election.
-
-Meanwhile, Sajith Premadasa has said that there is no chance of working with the United National Party.
-
-◼️
-
-[Data](articles/84475370.json)
-
-[Extended Data](ext_articles/84475370.ext.json)
-
----
-
-### I am the Prime Minister's candidate - Sajith
-
-*2024-09-24 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201500) · `si`
-
-Sajith Premadasa denies winning election prediction, emphasizes UPFA alliance and unity among electoral organizers.
-
-🟩
-
-Sajith Premadasa responded today regarding the statements that Sajith Premadasa said that Sajith Premadasa could win the election this year.
-
-"If only mathematics weigh, you can go. But it is clear if you go to a deep political analysis.. That's not reality. "
-
-"We move forward as the UPFA alliance. The people can accompany the people. "
-
-"Today, all the electoral organizers of the reconciliation today have unanimously handle the election campaign as the Prime Minister as a prime minister ...
-
-◼️
-
-[Data](articles/afd5f61a.json)
-
-[Extended Data](ext_articles/afd5f61a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 21:59:31**
+As of **2024-09-25 22:14:25**
 
 ## Newspaper Stats
 
-*Scraped **46,275** Articles*
+*Scraped **46,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,446
 tamilmirrorlk | 6,194
 virakesarilk | 7,392
-adaderanasinhalalk | 7,993
+adaderanasinhalalk | 7,994
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,275 (100.0%) of 46,275 articles have been extended.
+46,275 (100.0%) of 46,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### ශ්‍රී ලංකාව ගැන මූඩීස් කරුණු පහදයි
+
+*2024-09-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201544) · `si`
+
+ශ්‍රී ලංකාවේ ඇතිවී තිබෙන දේශපාලන වෙනස තුළින් මෙරට ප්‍රතිසංස්කරණ ක්‍රියාවලියේ ගමන්මග කැපීපෙනෙන වෙනසකට ලක් නොවනු ඇතැයි මූඩීස්, ජාත්‍යන්තර ආයෝජන සහ ණය වර්ගීකරණ සේවාව පවසයි.
+
+ශ්‍රී ලංකාවේ නිර්මාණය වී තිබෙන නව වාතාවරණය සම්බන්ධව අදහස් දක්වමින් මූඩීස්, ජාත්‍යන්තර ආයෝජන සහ ණය වර්ගීකරණ සේවාව වාර්තාවක් පළ කර තිබුණි.
+
+එහි වැඩිදුරටත් දැක්වෙන්නේ ඇතිවී තිබෙන දේශපාලන වෙනස තුළ, ජාත්‍යන්තර මූල්‍ය අරමුදලේ වැඩසටහන යටතේ ක්‍රියාත්මක ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය සහ ව්‍යුහාත්මක වෙනස්කම් ඇතුළු සාර්ව ආර්ථික ප්‍රතිපත්ති විශාල වශයෙන් වෙනස් නොවනු ඇති බවය.
+
+කෙසේවෙතත්, ඇතැම් ප්‍රතිපත්ති ප්‍රමුඛතාවන් මත නැවත සැකසීමේදී මූල්‍ය ස්ථාවරත්වය පවත්වා ගැනීම අභියෝගකාරී විය හැකි බවත්, එය ණය අවදානම් වර්ගීකරණය තවදුරටත් ඉහළ මට්ටමක පැවතීමට හේතුවිය හැකි බවත් එම ආයතනය පෙන්වාදෙයි.
+
+ඔවුන් පවසන්නේ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කොට, පාර්ලිමේන්තුවෙන් සම්මත කළ ආර්ථික පරිවර්තන පනත යටතේ IMF වැඩසටහනේ ආර්ථික සහ මූල්‍ය ප්‍රතිසංස්කරණ ඉලක්ක නව පනතක් හෝ සංශෝධනයක් මගින් මිස වෙනස් කිරීමට නොහැකි බවය.
+
+...
+
+[Data](articles/180c106f.json)
+
+---
 
 ### Tamil and Muslim parties review on the general election and contest as a strong party?
 
@@ -2401,33 +2421,5 @@ The accident had been prevented when the bus was disabled and controlled by the 
 [Data](articles/73b00122.json)
 
 [Extended Data](ext_articles/73b00122.ext.json)
-
----
-
-### New Defense Secretary's Depression vehicle accident
-
-*2024-09-25 09:37:57* · [`adalk`](https://www.ada.lk/picture_story/නව-ආරක්ෂක-ලේකම්ගේ-ඩිපෙන්ඩර්-රථය-අනතුරක/10-412134) · `si`
-
-Defense Secretary involved in car accident near parliament. Vehicle crashed due to speeding. Driver uninjured but vehicle damaged. Police investigating potential alcohol use. Military personnel arrested. Chief Inspector General overseeing probe.
-
-🟩
-
-Welikada Policy, the Dipward of the Ministry of Defense has fell close to Welikada parliamentary road in Welikada Parliamentary Road, says the Dipuwan of Diyawanura has fell close to Welikada Parliamentary Road.
-
-Secretary Defense Harunayake at the time of the accident. S. S.S.Police said that Mr. Treis Costa was not from the vehicle. Army soldier has been arrested by the police
-
-Police say that the parliamentary main entrance from Kaymanham junction to the ride towards the bridge to bring the defense secretary to the bridge of the Defense Secretary has been rolled by the Diyawanna marshy land.
-
-Police investigations have revealed that the accident had occurred in control of speed
-
-The driver of the accident had no injury. The Defender vehicle has suffered serious losses
-
-To know whether he was drinking, he is to be produced to a jurisdictor
-
-...
-
-[Data](articles/be96edff.json)
-
-[Extended Data](ext_articles/be96edff.ext.json)
 
 ---

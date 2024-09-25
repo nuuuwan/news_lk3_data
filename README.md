@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 00:38:06**
+As of **2024-09-26 00:53:24**
 
 ## Newspaper Stats
 
-*Scraped **46,284** Articles*
+*Scraped **46,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,074
 adalk | 4,272
 dailymirrorlk | 4,733
 adaderanalk | 5,447
-tamilmirrorlk | 6,194
+tamilmirrorlk | 6,195
 virakesarilk | 7,392
 adaderanasinhalalk | 7,995
 
@@ -26,9 +26,33 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,284 (100.0%) of 46,284 articles have been extended.
+46,285 (100.0%) of 46,285 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-26 (Thursday)
+
+### Human Rights Commission Inquiry
+
+*2024-09-26 00:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனித-உரிமைகள்-ஆணைக்குழு-விசாரணை/175-344476) · `ta`
+
+Human Rights Commission investigates leaked Grade 5 Scholarship Exam questionnaire. Officials summoned from Ministry of Education and Department of Examinations. Students' experiences under investigation for pressure and potential human rights violations.
+
+🟩
+
+The Human Rights Commission has also begun investigations into the alleged leakage of the first questionnaire of the Grade 5 Scholarship Examination.
+
+Human Rights Commissioner and Attorney Nimal Punjihewa said that the officials of the Ministry of Education and the Department of Examinations have been invited to appear before the Commission today.
+
+He noted that most of the students who appeared for the scholarship exam will be investigated in detail regarding the pressure and their human rights violation faced by the incident.. (A)
+
+◼️
+
+[Data](articles/0b359965.json)
+
+[Extended Data](ext_articles/0b359965.ext.json)
+
+---
 
 ### 2024-09-25 (Wednesday)
 
@@ -2419,25 +2443,5 @@ In equities, Colombo’s All Share Price Index was trading 1.21 percent, or 137.
 [Data](articles/3c179bb8.json)
 
 [Extended Data](ext_articles/3c179bb8.ext.json)
-
----
-
-### Sri Lanka Customs warns against fake recruitment workshops
-
-*2024-09-25 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102256/sri-lanka-customs-warns-against-fake-recruitment-workshops-) · `en`
-
-Sri Lanka Customs says it has received information that certain individuals are engaged in a racket while announcing that they will conduct practice interviews for the recruitment of Assistant Superintendents of Customs.
-
-Customs spokesperson, Additional Director General of Customs, Seevali Arukgoda, stated that no official workshop has been organized for such interviews.
-
-“The Open Competitive Examination for recruitment to the post of Assistant Superintendent of Customs was held recently. Based on the results of the competitive examination, we have called a group of candidates for an interview. This interview is scheduled to be conducted on the 27th, 28th, and 29th of this month,” he said.
-
-He further mentioned that they have recently noticed on social media that some individuals have arranged workshops in preparation for the interview for the recruitment of customs officers.
-
-...
-
-[Data](articles/8068923c.json)
-
-[Extended Data](ext_articles/8068923c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 08:58:49**
+As of **2024-09-25 09:12:52**
 
 ## Newspaper Stats
 
-*Scraped **46,156** Articles*
+*Scraped **46,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ dailymirrorlk | 4,733
 adaderanalk | 5,430
 tamilmirrorlk | 6,167
 virakesarilk | 7,374
-adaderanasinhalalk | 7,972
+adaderanasinhalalk | 7,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,138 (100.0%) of 46,156 articles have been extended.
+46,145 (100.0%) of 46,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
 
-### 3 கிலோ கிராம் கஞ்சாவுடன் ஒருவர் கைது
+### Youth missing in white river
+
+*2024-09-25 08:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201521) · `si`
+
+Youth drowns in White River near Matale Police Division. Incident occurred in Matale District.
+
+🟩
+
+A youth drowns in the White River near the Matale Police Division in Matale Police Division.
+
+◼️
+
+[Data](articles/a9a65c7e.json)
+
+[Extended Data](ext_articles/a9a65c7e.ext.json)
+
+---
+
+### Arrested with 3 kg of cannabis
 
 *2024-09-25 08:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-கிலோ-கிராம்-கஞ்சாவுடன்-ஒருவர்-கைது/175-344421) · `ta`
 
-மன்னார், தள்ளாடி  இராணுவ புலனாய்வு பிரிவினருக்கு கிடைத்த  தகவலின் அடிப்படையில் மன்னார் விசேட அதிரடிப்படை அதிகாரிகளின் உளவுப் பிரிவினருடன் இணைந்து நடத்திய சுற்றிவளைப்பு தேடுதல் நடவடிக்கையில் 12 லட்சம் பெறுமதியான கேரள கஞ்சாவுடன்  நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டது.
+A person was arrested in Manthai West with 3.57kg of cannabis valued at Rs 12 lakh. The arrest was made during a joint operation between the Mannar Special Task Force and Army Intelligence Unit. The suspect and evidence have been handed over to the Iluppaikkadu police station for further investigation.
 
-இந்த சம்பவமானது நேற்று (24) மாலை மாந்தை மேற்கு பிரதேசத்தில் உள்ள மூன்றாம் பிட்டி பகுதியில் இடம்பெற்றது.
+🟩
 
-குறித்த  நபர் விற்பனைக்காக பொதி செய்யப்பட்ட  3 கிலோ 570 கிராம் கேரள கஞ்சாவுடன் அவரது இல்லத்தில் வைத்து கைது செய்யப்பட்டார்.
+Based on information received by the Mannar and the Tiravadi Army Intelligence Unit, a person was arrested with a Kerala ganja worth Rs 12 lakh in a roundup of raid in collaboration with the intelligence unit of the Mannar Special Task Force.
 
-குறித்த சந்தேக நபர் மற்றும் சான்றுப் பொருட்கள் மேலதிக விசாரணைகளுக்காக இலுப்பைக்கடவை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதாக   தெரிவிக்கப்பட்டது.
+The incident took place yesterday evening (24) in the third Pitti area of ​​Manthai West.
+
+The man was arrested at his residence with 3 kg 570 grams of Kerala ganja.
+
+It was reported that the suspect and evidence had been handed over to the Iluppaikkadu police station for further investigations.
 
 ◼️
 
 [Data](articles/533be4ef.json)
+
+[Extended Data](ext_articles/533be4ef.ext.json)
 
 ---
 
@@ -92,47 +116,65 @@ On Tuesday, President Anura Kumara Dissanayake appointed Harini Amarasuriya as t
 
 ---
 
-### ’பொதுத் தேர்தலுக்கு 11 பில்லியன் ரூபாய் தேவை’
+### 11 billion rupees for the general election
 
 *2024-09-25 07:49:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலுக்கு-11-பில்லியன்-ரூபாய்-தேவை/175-344420) · `ta`
 
-பாராளுமன்றம் கலைக்கப்பட்டுள்ள நிலையில், பாராளுமன்றத் தேர்தலை நடத்துவதற்காக 11 பில்லியன் ரூபாய் செலவாகும் என மதிப்பிடப்பட்டுள்ளதாகத் தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்துள்ளார்.
+Saman Sri Ratnayake estimates 11 billion rupees needed for upcoming general election. Funds to be allocated by President from Treasury.
 
-அதேநேரம் அரசியலமைப்பின்படி, பாராளுமன்றத் தேர்தலுக்கான நிதி ஒதுக்கீடு திறைசேரியில் இருந்து ஜனாதிபதியினால் பெற்றுக் கொடுக்கப்பட வேண்டும் எனவும் தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்னாயக்க தெரிவித்துள்ளார். (a)
+🟩
+
+The Commissioner General of Elections Saman Sri Ratnayake said that as the dissolution of Parliament is dissolved, it is estimated that it will cost Rs 11 billion for holding a parliamentary election.
+
+At the same time, the Commissioner General of Elections Saman Sri Ratnayake has said that the allocation of funds for the parliamentary election should be obtained by the President from the Treasury.. (A)
 
 ◼️
 
 [Data](articles/669bd70f.json)
 
+[Extended Data](ext_articles/669bd70f.ext.json)
+
 ---
 
-### பல தடவைகள் மழை பெய்யும்
+### It rains several times
 
 *2024-09-25 07:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-தடவைகள்-மழை-பெய்யும்/175-344419) · `ta`
 
-இன்றைய தினம் (25) மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் கண்டி, நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல தடவைகள் மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Rainfall expected in Kandy, Nuwara Eliya, Galle, Matara. Thunderstorms possible in Uva Province. Strong winds forecasted in northern, western hill country, Trincomalee, Matale, Moneragala districts. Public advised to take precautions against heavy winds and lightning.
 
-ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுகளிலும் வடக்கு, வடமத்திய, வடமேற்கு மற்றும் தென் மாகாணங்களிலும் திருகோணமலை, மாத்தளை மற்றும் மொனராகலை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு (40-45) கிலோமீற்றர் வரை பலத்த காற்று வீசக்கூடும்.
+The Department of Meteorology has said that rainfall will occur in Kandy, Nuwara Eliya, Galle and Matara districts today (25).
 
-இடியுடன் கூடிய மழையின் போது தற்காலிகமாக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதிய முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு பொதுமக்கள் அன்புடன் கேட்டுக்கொள்ளப்படுகிறார்கள்.
+There is a possibility of rain or thunderstorms in the evening or night in some places in Uva Province and Ampara and Batticaloa districts.
+
+Strong winds can blow up to the northern, northern, northwest and southern provinces in the western hill country and in the Trincomalee, Matale and Moneragala districts from time to time (40-45).
+
+The public is lovingly requested to take adequate precautions to reduce the impact of temporary heavy winds and lightning impacts during thunderstorms.
 
 ◼️
 
 [Data](articles/1f0ea290.json)
 
+[Extended Data](ext_articles/1f0ea290.ext.json)
+
 ---
 
-### ஜனாதிபதி-மத்திய வங்கி ஆளுநர் சந்திப்பு
+### President-Central Bank Governor Meeting
 
 *2024-09-25 07:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மத்திய-வங்கி-ஆளுநர்-சந்திப்பு/175-344418) · `ta`
 
-புதிய ஜனாதிபதி அனுரகுமார திஸாநாயக்க, மத்திய வங்கி ஆளுநர் நந்தலால் வீரசிங்க மற்றும் திறைசேரி செயலாளர் மஹிந்த சிறிவர்தன ஆகியோருடன் நேற்று (24) உயர்மட்ட சந்திப்பொன்றை நடத்தி, அழுத்தமான பொருளாதார விடயங்கள் குறித்து கலந்துரையாடினார்.
+Anura Kumara Dissanayake met with Nandalal Weerasinghe and Mahinda Siriwardena to discuss Sri Lanka's economic challenges. The meeting focused on addressing financial stress and finding solutions to stabilize the economy.
+
+🟩
+
+New President Anura Kumara Dissanayake held a high -level meeting with Central Bank Governor Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardena yesterday (24) and discussed the stressful economic issues.
 
 ◼️
 
 [Data](articles/1d940386.json)
+
+[Extended Data](ext_articles/1d940386.ext.json)
 
 ---
 
@@ -806,41 +848,55 @@ He contested the invitation of the general structure and contested this presiden
 
 ---
 
-### ’புதிய அரசாங்கத்துடன் விரைவில் கலந்துரையாடல்’
+### Expressively discussion with the new government
 
 *2024-09-25 02:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்துடன்-விரைவில்-கலந்துரையாடல்/175-344417) · `ta`
 
-இலங்கைக்கான நீடிக்கப்பட்ட நிதி வசதி திட்டத்தின் 3 ஆம் மதிப்பாய்வுக்கான காலம் குறித்து புதிய அரசாங்கத்துடன் விரைவில் கலந்துரையாடவுள்ளதாகச் சர்வதேச நாணய நிதியம் தெரிவித்துள்ளது.
+International Monetary Fund announces upcoming discussion with new Sri Lankan government regarding 3rd review of extended financial facility program. This comes after Anuragumara Dissanayake's inauguration as president.
 
-இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க பதவியேற்றுக் கொண்டதன் பின்னர் சர்வதேச நாணய நிதியம் விடுத்துள்ள அறிக்கையில் இந்த விடயம் குறிப்பிடப்பட்டுள்ளது. (a)
+🟩
+
+The International Monetary Fund said that the new government will soon discuss the period for the 3rd review of the extended financial facility program for Sri Lanka.
+
+This was stated in a statement issued by the International Monetary Fund after Anuragumara Dissanayake was sworn in as the new President of Sri Lanka.. (A)
 
 ◼️
 
 [Data](articles/394c40f7.json)
 
+[Extended Data](ext_articles/394c40f7.ext.json)
+
 ---
 
-### ලෙබනනයේ යුද අත්දැකීම් ලැබූ ලාංකිකයා : 'වටේටම බෝම්බම දාන නිසා අපි එහෙන් ආවා'
+### Sri Lankan who has experienced war experienced in Lebanon: "We came from there because of the bombard
 
 *2024-09-25 02:15:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyl0nlxp27o) · `si`
 
-ලෙබනනයේ යුද අත්දැකීම් ලැබූ ලාංකිකයා : 'වටේටම බෝම්බම දාන නිසා අපි එහෙන් ආවා'
+Sri Lankan refugee flees Lebanon due to Israeli airstrikes, describes harrowing experience and displacement of thousands.
 
-දකුණු දිග ලෙබනනයට එල්ලවන ඊශ්‍රායල් ප්‍රහාර හමුවේ ඒහි වෙසෙන සාමාන්‍ය වැසියන් සිය ජීවිතාරක්ෂාව පතා පළා යමින් සිටින බව එහි වෙසෙන ශ්‍රී ලාංකිකයෙකු බීබීසී සිංහල වෙත පැවසීය.
+🟩
 
-යුද ගැටුම් හමුවේ තමන් ලද අත්දැකීම් ගැන විස්තර හෙළි කරමින් ඔහු පැවසුවේ ඊශ්‍රායල් ගුවන් හමුදා ජෙට් යානා අඛණ්ඩව ප්‍රහාර එල්ල කරන බවය.
+Sri Lankan who has experienced war experienced in Lebanon: "We came from there because of the bombard
 
-ප්‍රහාර වලින් මේවන විට පුද්ගලයින් 550කට අධික පිරිසක් මියගොස් තිබේ.
+A Sri Lankan in the area where the Israeli attacks on the southern lebiene is to escape their lives to BBC.
 
-ඊශ්‍රායල ප්‍රහාර වැඩි වශයෙන් එල්ලවූ දකුණු දිග ලෙබනනයේ සේවය කරන ශ්‍රී ලාංකිකයෙකු වන සාගර කුමාර පීරිස් (40) තමන් මුහුණ දුන් අත්දැකීම් සම්බන්ධයෙන් බීබීසී සිංහල සේවය වෙත මෙලෙස අදහස් පළ කළේය.
+The Israeli Air Force jets continuously attacked the face of their experiences.
 
-ඔහු පැවසුවේ ඊශ්‍රායල ආරක්ෂක අංශ ප්‍රහාර එල්ල කරන විට තමා සහ බිරිඳ දකුණු දිග ලෙබනනයේ ජීවත් වෙමින් සිටි බවයි.
+More than 550 people have been killed in the attack.
 
-"මම දැන් ලෙබනනයට ඇවිල්ලා මාස 06ක් වෙනවා. මම කොරෝනා එද්දී ලෙබනනයේ සේවය කරමින් ඉදලා ලංකාවට ගිහින් ඉදලා ආපහු ලෙබනන් වල රැකියාවට ආවා. දැන් මම වතු සේවකයෙකු විදිහට රැකියාව කරනවා. මගේ බිරිඳත් ඉන්නේ මාත් එක්ක."
+Sadal Kumara Peiris (40), a Sri Lankan who is working in the southern legacy of the Israeli attacks, said:
+
+He said that when the Israeli security forces attacked, he and wife were living in the south legal.
+
+"I now come to Lebanon and six months. When I arrived in Lebanon, I returned to Sri Lanka and returned to the work of Lebanon. Now I work as an estate worker. My wife is with me. "
+
+"The city of other abyrter in the southern Lebanon. On that side, Israel's kfir comes out of the sky, blowing something like the sky. Did the days done. Frighten it. But the people didn't go away from there. "
 
 ...
 
 [Data](articles/37026a05.json)
+
+[Extended Data](ext_articles/37026a05.ext.json)
 
 ---
 
@@ -2227,23 +2283,5 @@ Aruna Darshana, Sayuri Mendis, Pasundu Kodikara and Nadisha Ramanayake were incl
 [Data](articles/467a446c.json)
 
 [Extended Data](ext_articles/467a446c.ext.json)
-
----
-
-### New Cabinet sworn in
-
-*2024-09-24 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201506) · `si`
-
-Dr. Weli Amarasuriya sworn in as MP before President Anura Kumara Dissanayake at Presidential Secretariat on 24th.
-
-🟩
-
-MP Dr. Weli Amarasuriya was sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat today (24) at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/99bf2643.json)
-
-[Extended Data](ext_articles/99bf2643.ext.json)
 
 ---

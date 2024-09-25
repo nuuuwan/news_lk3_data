@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 19:22:41**
+As of **2024-09-25 19:38:16**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 7,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,256 (100.0%) of 46,257 articles have been extended.
+46,257 (100.0%) of 46,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
 
-### අද රාත්‍රියේ ජනපති ජාතිය අමතයි
+### President addresses nation tonight
 
 *2024-09-25 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201540) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (25) රාත්‍රියේ ජාතිය අමතා විශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිතව තිබේ.
+President Anura Kumara Dissanayake addresses nation on economy and plans at 7:30 AM. Special televised statement broadcasted on major channels. First national address since appointment.
 
-අද රාත්‍රී 7.30ට ජනාධිපතිවරයා ජාතිය ඇමතීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+🟩
 
-රටේ ආර්ථික තත්ත්වය මෙන්ම ඉදිරි සැලසුම් සම්බන්ධයෙන් මෙහිදී ජනාධිපතිවරයා අදහස් දැක්වීමට නියමිත බව සඳහන් ය.
+President Anura Kumara Dissanayake is scheduled to call the race at night (25).
 
-ජනාධිපති ධුරයට පත්වීමෙන් අනතුරුව ජනාධිපතිවරයා ජාතිය අමතමින් ප්‍රකාශයක් සිදුකරන පළමු අවස්ථාව මෙය වෙයි.
+The President is due to address the nation at 7.30 am today, the Presidential Media Unit said.
 
-මේ අතර ජනාධිපතිවරයා ජාතිය අමතා සිදුකරන විශේෂ ප්‍රකාශය TV දෙරණ, අද දෙරණ 24 ප්‍රවෘත්ති නාලිකාව, fm දෙරණ සහ අද දෙරණ සමාජ මාධ්‍ය ජාලා ඔස්සේ රාත්‍රී 7.30 සිට විකාශය කිරීමට සියලුකටයුතු සූදානම් කර තිබේ.
+The President is due to comment on the economic situation of the country as well as plans.
+
+This is the first time the President is addressing the nation after he is appointed president.
+
+Meanwhile, the President has made special statement to the nation TV Derana, today's Ada Derana and FM Derana and today, Ada Derana and today has been broadcast from 7.30 pm.
 
 ◼️
 
 [Data](articles/8d9b48e2.json)
+
+[Extended Data](ext_articles/8d9b48e2.ext.json)
 
 ---
 
@@ -108,9 +114,13 @@ The Election Commission said it was expecting to detect the reasons for the reje
 
 *2024-09-25 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102266/2024-general-election-number-of-mps-elected-from-each-district-revealed) · `en`
 
-The Election Commission of Sri Lanka has issued a statement mentioning the number of Members of Parliament (MPs) to be elected from each district and the number of candidates in a nomination paper in the 2024 General Election.
+The Election Commission of Sri Lanka has issued a statement mentioning the number of Members of Parliament (MPs) to be elected from each electoral district and the number of candidates in a nomination paper in the 2024 General Election.
 
 The highest number of MPs will be elected from the Gampaha District with a total of 19 members to be elected.
+
+In a statement issued in relation to the 2024 parliamentary elections, the Election Commission has also announced information regarding the deposits required to be placed by independent groups and the number of candidates to be nominated by political parties or independent groups for each district.
+
+It also includes information about the number of members to be elected for the respective electoral district, the number of candidates to be nominated by a nomination paper and the security deposit to be deposited by an independent group.
 
 General Election 2024 - Election Commission Statement by Adaderana Online on Scribd
 
@@ -868,7 +878,7 @@ Thailand is one of the third country at the marriage of Samariya.
 
 *2024-09-25 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102262/new-governors-appointed-by-the-president) · `en`
 
-Nine new provincial Governors have been appointed by President Anura Kumara Dissanayake.
+Several new provincial Governors have been appointed by President Anura Kumara Dissanayake.
 
 They were sworn in before the President at the Presidential Secretariat in Colombo, a short while ago.
 

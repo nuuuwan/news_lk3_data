@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 06:43:54**
+As of **2024-09-25 07:26:09**
 
 ## Newspaper Stats
 
-*Scraped **46,123** Articles*
+*Scraped **46,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,68 @@ dbsjeyarajcom | 384
 bbccomsinhala | 452
 colombotelegraphcom | 458
 islandlk | 2,697
-economynextcom | 2,791
+economynextcom | 2,793
 dailyftlk | 3,067
 adalk | 4,247
 dailymirrorlk | 4,733
 adaderanalk | 5,428
 tamilmirrorlk | 6,161
 virakesarilk | 7,374
-adaderanasinhalalk | 7,968
+adaderanasinhalalk | 7,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,123 (100.0%) of 46,123 articles have been extended.
+46,126 (100.0%) of 46,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Showers in several areas
+
+*2024-09-25 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201516) · `si`
+
+Showers forecasted in Western, Sabaragamuwa, North Western Provinces and Kandy, Nuwara Eliya, Galle, Matara districts. Thundershowers expected in Uva Province, Ampara, Batticaloa Districts. Strong winds (40-45 km/h) possible. Public advised to take precautions against lightning and wind-related accidents.
+
+🟩
+
+Several spells of showers in the Western, Sabaragamuwa and North Western Provinces and several showers in the Kandy, Nuwara Eliya, Galle and Matara districts.
+
+The Department of Meteorology announced that showers or thundershowers will occur at several places in the Uva Province and in the Ampara and Batticaloa Districts.
+
+At times, the North, North-Central, North-Central, North Western and Southern provinces will be held in the North, North-Central, Northwestern and Southern provinces.. There may be 40-45-strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/e68c20f5.json)
+
+[Extended Data](ext_articles/e68c20f5.ext.json)
+
+---
+
+### FACTBOX – Sri Lanka’s new PM Harini Amarasuriya’s thorny path from social health worker
+
+*2024-09-25 06:00:00* · [`economynextcom`](https://economynext.com/factbox-sri-lankas-new-pm-harini-amarasuriyas-thorny-path-from-social-health-worker-180880/) · `en`
+
+ECONOMYNEXT – She was ridiculed when she started to express her mind against social injustice to the public like a Marxists Janatha Vimukthi Peremuna activists while teaching as a lecturer at Open University of Sri Lanka, but Harini Nireka Amarasuriya never had an idea that she will end up as the island nation’s Prime Minister.
+
+But, the 54-year old youngest in a three-member elitist family in Colombo on Tuesday took oaths as the 16th Prime Minister of Independent Sri Lanka and the third woman Prime Minister in the country.
+
+An old girl of Bishops College, Colombo, Amarasuriya was outspoken against social injustice when she was young. She believes it came from her father.
+
+Her first job as a social health officer, who dealt with sidelined women in early 1990s including AIDS patients and the war-affected, also helped her to connect any layers in the country – from professionals to uneducated people, from the rich to poor, and from elitists to the underprivileged people.
+
+...
+
+[Data](articles/aeab0e70.json)
+
+[Extended Data](ext_articles/aeab0e70.ext.json)
+
+---
 
 ### International Chamber of Commerce Sri Lanka signs MoU with Port City Colombo
 
@@ -479,6 +523,28 @@ Similarly, more than 42 percent of the people in the country should cooperate wi
 [Data](articles/0c8b8581.json)
 
 [Extended Data](ext_articles/0c8b8581.ext.json)
+
+---
+
+### Sri Lanka President discusses economy with CB Governor, Treasury secy
+
+*2024-09-24 23:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-economy-with-cb-governor-treasury-secy-180878/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s newly elected President Anura Dissanayake had met Central Bank Governor Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardana, a government statement said.
+
+Mahinda Siriwardana was re-appointed as Treasury Secretary earlier on Tuesday.
+
+The current status of the economy, measures to stabilize the economy was discussed at length, the statement said.
+
+Sri Lanka is emerging from sovereign default, achieved without a war, after four back to back currency crises coming in the wake of aggressive, inflationary open market operations to target the average call money rate claiming that historical 12-month inflation was low (flexible inflation targeting).
+
+At each currency crises from mis-targeted call money rate, the exchange rate was depreciated before or concurrently with sudden corrections in  interest rates triggering social and political unrest.
+
+...
+
+[Data](articles/d12475c6.json)
+
+[Extended Data](ext_articles/d12475c6.ext.json)
 
 ---
 
@@ -2359,75 +2425,5 @@ Sajith Premadasa responded today regarding the statements that Sajith Premadasa 
 [Data](articles/afd5f61a.json)
 
 [Extended Data](ext_articles/afd5f61a.ext.json)
-
----
-
-### Sri Lankans in Israel cautioned as attacks intensifies
-
-*2024-09-24 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102242/sri-lankans-in-israel-cautioned-as-attacks-intensifies) · `en`
-
-Sri Lanka’s Ambassador to Israel has requested Sri Lankan nationals residing in Israel to exercise caution due to recent shelling and rocket attacks from Lebanon-based militant group Hezbollah targeting Israel.
-
-Hezbollah has fired a fresh barrage of strikes into northern Israel, including Haifa, Galilee, Golan, and Nazareth areas, a day after Israeli airstrikes targeting the militant group in Lebanon killed nearly 500 people and wounded 1,600 others.
-
-However, debris from the interceptions of these shelling and missile attacks by Israel’s iron dorm system have caused fires in the dry forest areas.
-
-Under these circumstances, the Sri Lankan Ambassador to Israel, Nimal Bandara has advised the Sri Lankans residing in Israel to remain vigilant with regard to these attacks that are being carried out from time to time.
-
-He urged that Sri Lankans employed in northern zones of Israel to move to the nearest safety shelters for their protection whenever the alarms signaling such attacks are activated.
-
-◼️
-
-[Data](articles/2ccfde19.json)
-
-[Extended Data](ext_articles/2ccfde19.ext.json)
-
----
-
-### Mountaineer train services impact
-
-*2024-09-24 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194691) · `ta`
-
-Train derails Badulla-Kandy route near Temodara station. Repair efforts underway. Impact on mountaineer services unclear.
-
-🟩
-
-A train traveling from Badulla to Kandy has derailed near the Temodara railway station this afternoon, the Nawalapitiya Railway Control Unit said.
-
-The Railway Control Division further stated that steps have been taken to repair the train that has been deployed by a group of employees from the Badulla railway station.
-
-◼️
-
-[Data](articles/b6e26bcb.json)
-
-[Extended Data](ext_articles/b6e26bcb.ext.json)
-
----
-
-### Parents who cooperated with the daughter
-
-*2024-09-24 15:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகளை-வன்புணர-ஒத்துழைத்த-பெற்றோர்/175-344383) · `ta`
-
-Parents accused of aiding daughter's rape. Officer & wife charged after 15-year-old daughter impregnated. Police investigation underway.
-
-🟩
-
-A police officer and his wife have been brought to the court's notice that they helped her rape their 15 -year -old daughter.
-
-The man who raped the girl was arrested by the police and produced before the Kapithikollawa District Judge and Magistrate Kasun Kanjana Dasanayake and kept in detention till September 26.
-
-Police told the court that the suspect had allowed her to rape the girl, she hid her pregnancy and went to school when she was six months pregnant.
-
-Police said that the police have begun investigations on information received by the residents of the Women's and Children's Bureau of the Wahalkata Police Division.
-
-The Sergeant Dissanayake of the Wahalkada Police Division, who produced the suspect, said that the police have begun investigations to arrest the father of the girl and her mother for the crime that helped and hid the crime.
-
-The JMO, who examined the girl, confirmed that the girl was six months pregnant.
-
-◼️
-
-[Data](articles/b9358746.json)
-
-[Extended Data](ext_articles/b9358746.ext.json)
 
 ---

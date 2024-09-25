@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 23:09:09**
+As of **2024-09-25 23:22:34**
 
 ## Newspaper Stats
 
-*Scraped **46,279** Articles*
+*Scraped **46,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,447
 tamilmirrorlk | 6,194
 virakesarilk | 7,392
-adaderanasinhalalk | 7,994
+adaderanasinhalalk | 7,995
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,276 (100.0%) of 46,279 articles have been extended.
+46,280 (100.0%) of 46,280 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,40 @@ Since its default in 2022, Sri Lanka has implemented various steps to restore fi
 ...
 
 [Data](articles/65aab7fb.json)
+
+[Extended Data](ext_articles/65aab7fb.ext.json)
+
+---
+
+### Investigation into Government Vehicles
+
+*2024-09-25 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201546) · `si`
+
+Here's a 200-character summary of the investigation into government vehicles:
+
+
+
+President Anura Kumara Dissanayake orders inquiry into government vehicles. 97 vehicles handed over to Presidential Secretariat. Located near Galle Face. National Executive Committee arrives. Public sees imported vehicles.
+
+🟩
+
+President Anura Kumara Dissanayake has instructed the parties to hold a proper inquiry into government vehicles.
+
+Meanwhile, a number of vehicles belonging to the Presidential Secretariat are currently in Galle Face.
+
+In today's investigation, revealed that 97 government vehicles were handed over to the Presidential Secretariat through the Presidential Secretariat through the Presidential Secretariat through the Presidential Secretariat.
+
+The vehicles are located near the Galle Face, adjacent to the office.
+
+The National Executive Committee of the National Executive Committee of the National Executive Committee of the National Executive Committee who arrived today, the new president had been parked today.
+
+The public had also had to see the traders that had been imported.
+
+◼️
+
+[Data](articles/36a3aecf.json)
+
+[Extended Data](ext_articles/36a3aecf.ext.json)
 
 ---
 
@@ -402,19 +436,29 @@ Special officials of the Commission to investigate bribery or corruption from Co
 
 ---
 
-### විධායක ජනපතිධුරය අහෝසි කරන්න සහාය දෙනවා
+### Supports abolition of the Executive President
 
 *2024-09-25 18:59:25* · [`adalk`](https://www.ada.lk/breaking_news/විධායක-ජනපතිධුරය-අහෝසි-කරන්න-සහාය-දෙනවා/11-412155) · `si`
 
-ජාතික ජන බලවේගය පවසන ලෙසට විධායක ජනාධිපති ධුරය අහෝසි කරන්නේනම්, ගතවන දින කිහිපය ඊට සුදුසුම වේලාව යැයි ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි ජාතික සංවිධායක නාමල් රාජපක්ස මහතා පැවසීය.
+Here's a 200-character summary:
 
-ඔහු සඳහන් කර සිටියේ, තම පක්ෂයේ හා තමාගේ සම්පූර්ණ සහයෝගය ඊට ලබාදෙන බවයි.
 
-1994 සිට මේ දක්වා විධායක ජනාධිපති ධුරය අහෝසි කරන බවට සියලු ජනාධිපතිවරු පැවසුවත්, එසේ විධායක ජනාධිපති ධුරය අහෝසි කිරීමට කිසිවකු කටයුතු නොකළ බවද පෙන්වා දුන් රාජපක්ෂ මහතා, විධායක ජනාධිපති ධුරය අහෝසි කරන්නේනම් හොඳම වෙලාව පත්වී ආසන්න දිනක බවද පැවසීය.
+
+Namal Rajapaksa supports abolishing the executive presidency. He claims it's the right time for national unity. He cites past presidents abolishing it since 1994.
+
+🟩
+
+Namal Rajapaksa said the National Organizer of the Sri Lanka Appointment was the right time for the national folk force to say the executive presidency is the right time of the time.
+
+He said he would give his party and his party.
+
+He said that if all presidents abolished the executive presidency since 1994, he said.
 
 ◼️
 
 [Data](articles/f1e22eed.json)
+
+[Extended Data](ext_articles/f1e22eed.ext.json)
 
 ---
 
@@ -524,15 +568,21 @@ The Election Commission said it was expecting to detect the reasons for the reje
 
 ---
 
-### විදේශ අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+### Special announcement from Foreign Ministry
 
 *2024-09-25 18:32:51* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-412152) · `si`
 
-ලෙබනනයේ සහ ඊශ්‍රායලයේ පවතින වහා වෙනස්වනසුලු තත්ත්වය සැලැකිල්ලට ගනිමින් බෙයිරූට් නුවර සහ ටෙල් අවිව් නුවර ඇති ශ්‍රී ලංකා තානාපති කාර්යාල දැඩි සෝදිසියෙන් පසුවන අතර, ප්‍රහාර එල්ල වන ප්‍රදේශවල වාසය කරන ශ්‍රී ලාංකිකයන්ගේ ආරක්ෂාව තහවුරු කිරීම සඳහා කටයුතු කරමින් සිටින බව විදේශ කටයුතු අමාත්‍යාංශය විශේෂ නිවේදනයක් නිකුත් කරමින් පවසයි. මෙතෙක් එම ප්‍රහාරවලින් කිසිදු ශ්‍රී ලාංකිකයකුට හානියක් සිදුවී නොමැති බවද අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+Sri Lanka's Foreign Ministry announces measures to protect citizens in Israel amid escalating tensions. No Sri Lankans reported injured in recent attacks. Embassies in Behilout monitoring situation closely.
+
+🟩
+
+The Ministry of External Affairs says that the Sri Lankan embassies in Behilout and the immediate changing situation in Israel, the Ministry of External Affairs says to ensure the safety of Sri Lankans living in the attack areas.. The Ministry issued that no Sri Lankans have been harmed with these attacks so far.
 
 ◼️
 
 [Data](articles/da8becd9.json)
+
+[Extended Data](ext_articles/da8becd9.ext.json)
 
 ---
 
@@ -2381,29 +2431,5 @@ The applications for postal voting in the General Election will be accepted star
 [Data](articles/b2430508.json)
 
 [Extended Data](ext_articles/b2430508.ext.json)
-
----
-
-### Meeting between President Anuragumara Dissanayake and Central Bank Governor
-
-*2024-09-25 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194740) · `ta`
-
-President Anura Kumara Dissanayake met Central Bank Governor Dr. Nandalal Weerasinghe to discuss Sri Lanka's economic situation. Finance Minister Mahinda Siriwardena joined the talks. The meeting focused on improving the economy and addressing key economic challenges facing the country.
-
-🟩
-
-There is a discussion between President Anura Kumara Dissanayake and Central Bank Governor Dr. Nandalal Weerasinghe.
-
-The Presidential Secretariat was discussing the current economic situation in the country at a discussion held on Tuesday (24) afternoon.
-
-The Secretary to the Ministry of Finance Mahinda Siriwardena also participated in the discussion, the Government Information Department said.
-
-The Government Information Department said that the measures to improve the economy and a number of issues affecting the country's economy were discussed.
-
-◼️
-
-[Data](articles/52d1c4e7.json)
-
-[Extended Data](ext_articles/52d1c4e7.ext.json)
 
 ---

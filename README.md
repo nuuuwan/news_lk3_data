@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 13:58:43**
+As of **2024-09-25 14:12:57**
 
 ## Newspaper Stats
 
-*Scraped **46,199** Articles*
+*Scraped **46,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,436
 tamilmirrorlk | 6,178
 virakesarilk | 7,381
-adaderanasinhalalk | 7,980
+adaderanasinhalalk | 7,981
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,199 (100.0%) of 46,199 articles have been extended.
+46,200 (100.0%) of 46,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### The IMF Head of President Mahinda Rajapaksa's Faith
+
+*2024-09-25 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201530) · `si`
+
+IMF head writes to Sri Lankan president about support for development and reforms. Offers partnership for sustainable growth and current program implementation.
+
+🟩
+
+The International Monetary Fund Management Director Christopieva has sent a letter to President Anura Kumara Dissanayake.
+
+The International Monetary Fund is also ready to take action as a sustainable partner and partner to achieve the development and reforms goals in Sri Lanka, including the present IMF program.
+
+◼️
+
+[Data](articles/fa385f3b.json)
+
+[Extended Data](ext_articles/fa385f3b.ext.json)
+
+---
 
 ### 65 hours of water cut in Kandy
 
@@ -2235,31 +2255,5 @@ When we reach the site, a group was still trying to dig soil.
 [Data](articles/56368b43.json)
 
 [Extended Data](ext_articles/56368b43.ext.json)
-
----
-
-### Sri Lanka President dissolves parliament, election Nov 14
-
-*2024-09-24 22:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-dissolves-parliament-election-nov-14-180845/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has signed a gazette notice dissolving parliament, calling elections on November 14.
-
-President Dissanayake was elected with 42 percent of the vote, the first time a president had been elected below 50 percent of the vote.
-
-He had only three members in the current legislature. Following his resignation, another member was appointed to fill his vacancy.
-
-Earlier on Tuesday he appointed a cabinet of three, distributing 15 ministries among them.
-
-Sri Lanka sets up 15 ministries ahead of polls, Treasury secretary re-appointed
-
-Sri Lanka leader appoints smallest Cabinet in history before dissolving parliament
-
-Harini Amarasuriya was made Prime Minister. President Dissanayake kept the Finance Ministry and Vijitha Herath was made Foreign Minister. (Colombo/Aug24/2024)
-
-◼️
-
-[Data](articles/944be042.json)
-
-[Extended Data](ext_articles/944be042.ext.json)
 
 ---

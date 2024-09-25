@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 13:07:57**
+As of **2024-09-25 13:22:46**
 
 ## Newspaper Stats
 
-*Scraped **46,195** Articles*
+*Scraped **46,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,436
 tamilmirrorlk | 6,178
 virakesarilk | 7,381
-adaderanasinhalalk | 7,979
+adaderanasinhalalk | 7,980
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,195 (100.0%) of 46,195 articles have been extended.
+46,195 (100.0%) of 46,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### මහනුවර ප්‍රදේශ කිහිපයකට පැය 65ක ජල කප්පාදුවක්
+
+*2024-09-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201529) · `si`
+
+නඩත්තු කටයුත්තක් හේතුවෙන් පොල්ගොල්ල ජලාශය ලබන 27 වැනිදා මධ්‍යම රාත්‍රීයේ සිට හිස් කිරීමට මහවැලි අධිකාරිය සැලසුම් කර තිබේ.
+
+එම අධිකාරිය සඳහන් කළේ, මේ හේතුවෙන් මහනුවර හා ඒ අවට ප්‍රදේශවලට දින දෙකක කාලයක් ජල සැපයුම අත්හිටුවනු ඇති බවය.
+
+වසර දෙකකට වරක් සිදුකෙරෙන නඩත්තු කටයුත්තක් වෙනුවෙන් පොල්ගොල්ල ජලාශයේ ජලය අනිද්දා (27) මධ්‍යම රාත්‍රීයේ සිට හිස් කිරීමට සැලසුම්කර තිබේ.
+
+මහවැලි අධිකාරිය සඳහන් කළේ, වියළි කාලගුණික තත්ත්වයක් පැවතීමත් රජරට කෘෂිකාර්මික කටයුතු මෙම දිනවල අවසන්ව තිබීමත් හේතුවෙන් ජලාශයේ නඩත්තු කටයුතු මෙම දිනවලදී සිදුකිරීමට තීරණය කළ බවය.
+
+ඒ අනුව ජලාශයේ රැස්ව තිබෙන ජලය වික්ටෝරියා ජලාශයට මුදා හැරීමට නියමිතය.
+
+ජලාශය හිස්වීමත් සමඟ ක්‍රීඩා කිරීමට හෝ මසුන් ඇල්ලීමට මහවැලි ගඟට බැසීම අවදානම් බැවින් එලෙස ක්‍රියාකිරීමෙන් වළකින ලෙස මහවැලි අධිකාරිය ප්‍රදේශවාසීන්ගෙන් ඉල්ලීමක් කරයි.
+
+...
+
+[Data](articles/79226332.json)
+
+---
 
 ### New Governors to be sworn in today
 
@@ -2257,35 +2279,5 @@ After showing the mother of the prelate, she showed the mother of the suspect, s
 [Data](articles/8d1c33ea.json)
 
 [Extended Data](ext_articles/8d1c33ea.ext.json)
-
----
-
-### Mother arrested for killing a baby in Kalaha
-
-*2024-09-24 21:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194727) · `ta`
-
-Mother arrested for killing infant in Kalaha. 21-year-old suffocated 18-month-old daughter. Police investigation underway.
-
-🟩
-
-A 21 -year -old mother in Kalaha has been suffocating her child with bloody.
-
-Galaha police have launched an investigation into the incident where the body of the child was taken to the hospital after three hours of video and photography.
-
-The mother has killed her 18 -month -old baby, Litumi Sehansa, a resident of Kulathunga Mannanzel, who lived in a rented house in Kalaha Kasturi Land.
-
-A woman named Varadhaveeran Lakshika, a twenty -one -year -old woman who married Kulathunga, is working as an Ishu image in a garment factory in Horana, and the Kalaha police are investigating the occasional fighting between the two.
-
-He said that he had left the house again on Monday (23), who had come to the IMs home from Horana to vote in the presidential election held this year.
-
-The mother, who was thrown into the baby at around 7 pm, was told that the baby had been unable to breathe for the baby's mouth and nose for a long time.
-
-But the child fell back and fell to the door of the room and died.
-
-...
-
-[Data](articles/fcdff2bb.json)
-
-[Extended Data](ext_articles/fcdff2bb.ext.json)
 
 ---

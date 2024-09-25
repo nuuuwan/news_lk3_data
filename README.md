@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 19:00:52**
+As of **2024-09-25 19:11:31**
 
 ## Newspaper Stats
 
@@ -26,45 +26,61 @@ adaderanasinhalalk | 7,989
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,252 (100.0%) of 46,256 articles have been extended.
+46,256 (100.0%) of 46,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
 
-### ”தொடர்ந்து அமைதியை நிலைநாட்டுங்கள்”
+### "Continue peace of mind"
 
 *2024-09-25 18:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-அமைதியை-நிலைநாட்டுங்கள்/175-344455) · `ta`
 
-ஜனாதிபதித் தேர்தலின் போது செய்தது போன்று பொதுத் தேர்தலுக்கு முன்னரும் பின்னரும் அமைதியை பேணுமாறு பொதுமக்களை சுதந்திரமான மற்றும் நியாயமான தேர்தலுக்கான மக்கள் நடவடிக்கை (PAFFREL) இன்று வலியுறுத்தியுள்ளது.
+PAFREL urges public to maintain peace before and after general election. No special preparations needed, normal surveillance measures will continue. Election monitoring begins at district level during nomination filing. No election law violations reported before/after presidential election. PAFREL aims to ensure peaceful elections, similar to previous one. Government powers not to be misused to favor candidates.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி, எதிர்வரும் பொதுத் தேர்தலுக்கு விசேட ஆயத்தங்கள் எதுவும் தேவையில்லை எனவும், எனினும் கண்காணிப்பு நடவடிக்கைகள் வழமை போன்று தொடரும் எனவும் தெரிவித்தார்.
+🟩
 
-"பொதுத் தேர்தலைக் கண்காணிப்பதற்கான அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளன. ஜனாதிபதியாக யார் தேர்ந்தெடுக்கப்பட்டாலும் பொதுத் தேர்தல் நடத்தப்படும் என்பதை நாங்கள் தெளிவாக புரிந்துகொண்டோம். இருப்பினும், வேட்புமனு தாக்கல் காலத்தில் மாவட்ட அளவில் தேர்தல் கண்காணிப்பு நடவடிக்கைகள் தொடங்கும்," என்று அவர் கூறினார்.
+The PAFREL today urged the public to maintain peace before and after the general election, as did the presidential election.
 
-“ஜனாதிபதித் தேர்தலுக்கு முன்னும் பின்னும் தேர்தல் சட்ட மீறல்கள் எதுவும் பதிவாகவில்லை, இது நாட்டுக்கு சாதகமான அம்சமாகும்” என்றும் அவர் கூறினார்.
+Commenting on the media, Executive Director Rohana Hettiarachchi said that there is no need for special preparations for the upcoming general election, but that surveillance measures will continue as usual.
+
+“All arrangements have been made to monitor the general election. We clearly understood that the general election would be held no matter who elected president. However, during the filing of nominations, the district level election monitoring will begin, ”he said.
+
+“There have been no violations of election law before and after the presidential election, which is a favorable feature for the country,” he said.
+
+He added that Paffrel is aimed at maintaining peace before and after the general election, as did the presidential election.
+
+However, during the last presidential election, government powers and assets were largely abused and used to encourage candidates.
 
 ...
 
 [Data](articles/9393232e.json)
 
+[Extended Data](ext_articles/9393232e.ext.json)
+
 ---
 
-### நிராகரிக்கப்பட்ட வாக்குகள் அதிகரித்தது ஏன்?
+### Why did the rejected votes increase?
 
 *2024-09-25 18:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிராகரிக்கப்பட்ட-வாக்குகள்-அதிகரித்தது-ஏன்/175-344454) · `ta`
 
-அண்மையில் நடந்து முடிந்த ஜனாதிபதித் தேர்தலில் நிராகரிக்கப்பட்ட வாக்குகளின் எண்ணிக்கை அதிகரிப்பு குறித்து பகுப்பாய்வு நடத்தப்படும் என தேசிய தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+Rejected votes increased from 0.85% to 2.2%. Analysis underway to determine causes.
 
-2024 ஜனாதிபதி தேர்தலில் 300,300 வாக்குகள் நிராகரிக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல் ரத்நாயக்க தெரிவித்தார், இது 2.2% ஆகும்.
+🟩
 
-2019 ஜனாதிபதித் தேர்தலில், மொத்தம் 135,452 வாக்குகள் நிராகரிக்கப்பட்டன, இது 0.85% மற்றும் 2024 ஜனாதிபதித் தேர்தலில் பதிவான எண்ணிக்கையை விட குறைவாக இருந்தது.
+The National Elections Commission said the analysis would be conducted on the increase in the number of votes rejected in the recent presidential election.
 
-வாக்குகள் நிராகரிக்கப்பட்டதற்கான காரணங்களை பகுப்பாய்வு மூலம் கண்டறிய எதிர்பார்ப்பதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+The Chairman of the Election Commission, RMAL Ratnayake, said that 300,300 votes were rejected in the 2024 presidential election, which was 2.2%.
+
+In the 2019 presidential election, a total of 135,452 votes were rejected, which was less than 0.85% and 2024 presidential election.
+
+The Election Commission said it was expecting to detect the reasons for the rejection of the votes.
 
 ◼️
 
 [Data](articles/df363ee6.json)
+
+[Extended Data](ext_articles/df363ee6.ext.json)
 
 ---
 
@@ -81,6 +97,8 @@ General Election 2024 - Election Commission Statement by Adaderana Online on Scr
 ◼️
 
 [Data](articles/49de9e1f.json)
+
+[Extended Data](ext_articles/49de9e1f.ext.json)
 
 ---
 
@@ -121,6 +139,8 @@ The rating agency said sovereign remains in default on Sri Lanka’s foreign-cur
 ...
 
 [Data](articles/20d07bc0.json)
+
+[Extended Data](ext_articles/20d07bc0.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 02:08:34**
+As of **2024-09-26 02:22:25**
 
 ## Newspaper Stats
 
-*Scraped **46,296** Articles*
+*Scraped **46,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 455
 colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,807
-dailyftlk | 3,079
+dailyftlk | 3,091
 adalk | 4,272
 dailymirrorlk | 4,733
 adaderanalk | 5,447
@@ -26,11 +26,213 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,296 (100.0%) of 46,296 articles have been extended.
+46,296 (100.0%) of 46,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Planters’ Association welcomes new President AKD; calls for collaborative efforts
+
+*2024-09-26 01:50:23* · [`dailyftlk`](https://www.ft.lk/business/Planters-Association-welcomes-new-President-AKD-calls-for-collaborative-efforts/34-767173) · `en`
+
+The Planters’ Association of Ceylon (PA) yesterday via a statement congratulated the National People’s Power (NPP) leader Anura Kumara Dissanayake on his election as the 9th Executive President of Sri Lanka and called for renewed collaboration to secure sustainable growth and livelihood empowerment within the plantation sector.
+
+The Association called on President Dissanayake to initiate a transformative era for the plantation industry by prioritising stakeholder engagement in policymaking, which is crucial for advancing sustainable development and fostering crop diversification. By actively involving all stakeholders, the Government can establish a comprehensive policy framework that bolsters the long-term viability and growth of the plantation sector.
+
+...
+
+[Data](articles/03f27267.json)
+
+---
+
+### President holds discussion with CBSL Governor and Finance Secretary
+
+*2024-09-26 01:48:58* · [`dailyftlk`](https://www.ft.lk/business/President-holds-discussion-with-CBSL-Governor-and-Finance-Secretary/34-767172) · `en`
+
+President Anura Kumara Dissanayake met with the Central Bank of Sri Lanka (CBSL) Governor Dr. Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardena on Wednesday.
+
+The current economic situation of the country was discussed at length during the meeting, according to the Department of Government Information. It added that measures to stabilise the economy and several issues affecting the country’s economy were also discussed.
+
+◼️
+
+[Data](articles/8667a72a.json)
+
+---
+
+### OPA expresses confidence in new President AKD
+
+*2024-09-26 01:48:27* · [`dailyftlk`](https://www.ft.lk/business/OPA-expresses-confidence-in-new-President-AKD/34-767171) · `en`
+
+The Organisation of Professional Associations of Sri Lanka (OPA) has extended its congratulations to President Anura Kumara Dissanayake for being elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka.
+
+“Your victory represents a strong mandate from the people for a Government committed to integrity, good governance and the advancement of all citizens,” said the congratulatory message signed by President Sarath Gamage, President-elect Sujeewa Lal Dahanayake and General Secretary Tisara de Silva.
+
+“As Sri Lanka navigates the aftermath of its severe economic crisis, we are confident in your ability to provide the leadership and direction needed to achieve economic stability, equitable development and sustainable progress. We believe that you will uphold the rule of law, enhance international relations, and work diligently to combat corruption and alleviate poverty.
+
+...
+
+[Data](articles/1dd6b226.json)
+
+---
+
+### Sri Lanka Chamber of Small and Medium Industries hails President AKD
+
+*2024-09-26 01:48:00* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Chamber-of-Small-and-Medium-Industries-hails-President-AKD/34-767170) · `en`
+
+The President and the members of Sri Lanka Chamber of Small and Medium Industries has extended their warm and heartfelt congratulations to President Anura Kumara Dissanayake on being elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka.
+
+“Your election by the decisive mandate reflects the trust and confidence placed in your leadership and we appreciate very much the challenge taken up by you at this crucial juncture to resolve the present economic, social crisis encountered in our motherland Sri Lanka,”  Sri Lanka Chamber of Small and Medium Industries President Prof. Rohan De Silva said.
+
+...
+
+[Data](articles/49070127.json)
+
+---
+
+### Association of Honorary Consuls in Sri Lanka congratulates new President AKD
+
+*2024-09-26 01:47:27* · [`dailyftlk`](https://www.ft.lk/business/Association-of-Honorary-Consuls-in-Sri-Lanka-congratulates-new-President-AKD/34-767169) · `en`
+
+The Association of Honorary Consuls in Sri Lanka has extended its warmest congratulations to Anura Kumara Dissanayake on his election as the President of the Democratic Socialist Republic of Sri Lanka.
+
+“Your leadership comes at a pivotal time for our nation, and we are confident that under your guidance, Sri Lanka will continue to advance towards greater prosperity, unity, and global engagement. As honorary consuls, we remain committed to supporting the Government’s efforts to strengthen international relations and promote peace and development within our country and countries we represent,” said Association of Honorary Consuls in Sri Lanka President Maahen Kariyawasan in the congratulatory letter.
+
+...
+
+[Data](articles/767b5c12.json)
+
+---
+
+### RIUNIT signs exclusivity agreement with Port City for prime mixed-use plot
+
+*2024-09-26 01:47:03* · [`dailyftlk`](https://www.ft.lk/business/RIUNIT-signs-exclusivity-agreement-with-Port-City-for-prime-mixed-use-plot/34-767168) · `en`
+
+RIUNIT CEO Roshan Madawela (left) with Port City Colombo General Manager of Investment Promotion and Marketing Zheng Tian
+
+Research Intelligence Unit (RIUNIT), a leading international research and consulting firm, yesterday announced the signing of an exclusivity agreement for a prime plot allocation within Port City Colombo. This marks a pivotal second step in RIUNIT’s ambitious real estate venture, “Asia’s Real Estate Opportunity of the Century.”
+
+The agreement was signed on 24 September by Port City Colombo General Manager of Investment Promotion and Marketing Zheng Tian reinforcing RIUNIT’s ongoing commitment to driving economic growth and innovation in the region. This milestone follows the successful launch event held on 16 July, where RIUNIT unveiled its comprehensive initiative designed to empower local developers and investors to engage with the transformative Port City project.
+
+...
+
+[Data](articles/79d65de5.json)
+
+---
+
+### Sri Lanka Shippers’ Council congratulates new President AKD and Secretary
+
+*2024-09-26 01:45:33* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Shippers-Council-congratulates-new-President-AKD-and-Secretary/34-767167) · `en`
+
+The Sri Lanka Shippers’ Council (SLSC) said yesterday it extends its warmest congratulations to the newly appointed President of the Democratic Socialist Republic of Sri Lanka Anura Kumara Dissanayake, and the Secretary to the President, Dr. Nandika Sanath Kumanayake.
+
+“Their appointment reflects the Sri Lankan people’s desire for change, not only in leadership but in the direction of the nation’s future,” SLSC said in a statement.
+
+The SLSC said it is optimistic about the new leadership, particularly the President’s commitment to creating an inclusive society, promoting transparency, reducing corruption, and driving sustainable economic development. The council hopes the new administration will address pressing concerns in the trade sector, including the full digitalisation of customs, streamlining import/export procedures, and eliminating corruption from the industry.
+
+...
+
+[Data](articles/2cd68ff6.json)
+
+---
+
+### Women’s Chamber of Industry and Commerce congratulates President AKD
+
+*2024-09-26 01:45:03* · [`dailyftlk`](https://www.ft.lk/business/Women-s-Chamber-of-Industry-and-Commerce-congratulates-President-AKD/34-767166) · `en`
+
+The Women’s Chamber of Industry and Commerce (WCIC) has extended its congratulations to President Anura Kumara Dissanayake on being elected as the 9th Executive President of Sri Lanka.
+
+“We wish him good luck and wisdom to lead our beloved nation to a new era of economic prosperity and harmony amongst all citizens of Sri Lanka. We look forward to supporting your endeavours to build an ethical and fair business environment which will also support us to help women increase their economic contribution to our country,” WCIC said.
+
+“We also take this opportunity to express our gratitude to the outgoing President Ranil Wickremesinghe for his successful leadership to bring the country out of bankruptcy within a very short period of two years and wish him all the best in his future endeavours,” WCIC added.
+
+◼️
+
+[Data](articles/993c47ab.json)
+
+---
+
+### Mahinda Rajapaksa expresses confidence in President Anura Kumara Dissanayake’s leadership
+
+*2024-09-26 01:43:58* · [`dailyftlk`](https://www.ft.lk/news/Mahinda-Rajapaksa-expresses-confidence-in-President-Anura-Kumara-Dissanayake-s-leadership/56-767165) · `en`
+
+Says SLPP has not decided yet on supporting AKD in upcoming General Election
+
+Affirms SLPP respects the outcome of the 2024 Presidential election
+
+Dismisses possibility of an alliance between SLPP and UNP as party opposed idea strongly
+
+Former President Mahinda Rajapaksa on Tuesday expressed optimism about the leadership capabilities of newly elected President Anura Kumara Dissanayake, stating that he believes the new leader is capable of running the country effectively.
+
+“I think the chap has the ability to run the country successfully,” he said responding to a question raised by journalists about Dissanayake’s potential to lead the country.
+
+When asked about whether the Sri Lanka Podujana Peramuna (SLPP) would support President Dissanayake in the forthcoming election, Rajapaksa clarified that no such discussions have taken place within the party as of yet.
+
+...
+
+[Data](articles/b76c661d.json)
+
+---
+
+### Minister Vijitha Herath pledges to resolve passport crisis by mid-October
+
+*2024-09-26 01:42:01* · [`dailyftlk`](https://www.ft.lk/news/Minister-Vijitha-Herath-pledges-to-resolve-passport-crisis-by-mid-October/56-767164) · `en`
+
+Says DG of Immigration has assured queues for passports will be no more by 15-20 October
+
+Highlights importance of restoring public trust in the Sri Lanka Police
+
+Asks Police to act independently, assuring they would have the freedom to act without external pressure
+
+Requests officers to take action against any wrong doer even if person is aligned with NPP
+
+Public Security Minister Vijitha Herath, has vowed to resolve the ongoing passport crisis by mid-October.
+
+Speaking to the media after officially assuming duties at the Ministry, yesterday Herath said that following discussions with the Director General of Immigration, he has been assured that the issue will be resolved between 15-20 October.
+
+The Minister also noted that once the crisis is resolved, new measures will be introduced to eliminate the long queues for passports. “I will do my utmost to resolve this problem soon, and we hope to somehow do it within that time frame,” Herath said.
+
+...
+
+[Data](articles/cc5032b3.json)
+
+---
+
+### President orders investigation into misuse of 253 Presidential Secretariat vehicles
+
+*2024-09-26 01:39:22* · [`dailyftlk`](https://www.ft.lk/news/President-orders-investigation-into-misuse-of-253-Presidential-Secretariat-vehicles/56-767163) · `en`
+
+National People’s Power (NPP) member Wasantha Samarasinghe yesterday disclosed that President Anura Kumara Dissanayake has ordered a thorough investigation into the misuse of 253 vehicles belonging to the Presidential Secretariat, which have now been left parked at Galle Face Green by various individuals without formal acknowledgement.
+
+“The President has already directed officials to investigate the individuals who used these 253 vehicles and hold them accountable for leaving the vehicles unattained and irresponsibly after misusing the State property,” he told journalists near Galle Face Green yesterday.
+
+Samarasinghe highlighted that this situation is a clear example of the misuse of State power and public resources by the previous regime.
+
+“Such instances of misuse are a result of individuals taking advantage of properties that were never formally assigned to them,” he said, adding that those found guilty will be made public.
+
+...
+
+[Data](articles/dc5bd85b.json)
+
+---
+
+### 2024 General Election: Number of MPs elected from each district revealed
+
+*2024-09-26 01:38:00* · [`dailyftlk`](https://www.ft.lk/news/2024-General-Election-Number-of-MPs-elected-from-each-district-revealed/56-767162) · `en`
+
+The Election Commission of Sri Lanka has issued a statement mentioning the number of Members of Parliament (MPs) to be elected from each electoral district and the number of candidates in a nomination paper in the 2024 General Election.
+
+The highest number of MPs will be elected from the Gampaha District with a total of 19 members to be elected.
+
+In a statement issued in relation to the 2024 Parliamentary elections, the Election Commission has also announced information regarding the deposits required to be placed by independent groups and the number of candidates to be nominated by political parties or independent groups for each district.
+
+It also includes information about the number of members to be elected for the respective electoral district, the number of candidates to be nominated by a nomination paper and the security deposit to be deposited by an independent group.
+
+◼️
+
+[Data](articles/47d24cdc.json)
+
+---
 
 ### The new president's choice does not stand up to the country's restructuring projects
 
@@ -2109,287 +2311,5 @@ The International Monetary Fund is also ready to take action as a sustainable pa
 [Data](articles/fa385f3b.json)
 
 [Extended Data](ext_articles/fa385f3b.ext.json)
-
----
-
-### Congress MP writes to Sri Lankan President to release Indian fishermen
-
-*2024-09-25 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102259/congress-mp-writes-to-sri-lankan-president-to-release-indian-fishermen) · `en`
-
-Requesting newly elected president of Sri Lanka, Anura Kumara Dissanayake, to make a fresh beginning by using his sovereign Presidential powers and order the release of all Indian fishermen languishing in Sri Lankan jails as a token of goodwill and love, India’s Congress MP, R Sudha, who was recently elected from Mayiladuthurai constituency, said such a gesture will add a lot of muscle to his avowed objective of giving Sri Lanka a new direction.
-
-In an ‘open-hearted and open minded’ letter to Dissanayake, the Indian MP asked the Sri Lankan President to release the fishermen and return all their boats in good usable condition as early as possible as a token of goodwill and love and said that such a gesture would add a lot of muscle to his avowed objective of giving Sri Lanka a new direction.
-
-A good beginning could be made by releasing the 37 fishermen from Mayiladuthurai constituency, she said, adding that 80 other fishermen and 173 fishing boats were under the custody of Sri Lanka.
-
-...
-
-[Data](articles/ad8deda7.json)
-
-[Extended Data](ext_articles/ad8deda7.ext.json)
-
----
-
-### 65 hours of water cut in Kandy
-
-*2024-09-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201529) · `si`
-
-Kandy faces 65-hour water cut starting Sept 1 due to Polgolla reservoir maintenance. Water supply suspended for two days in Kandy and nearby areas. Residents advised to avoid Mahaweli River activities during this period.
-
-🟩
-
-The Mahaweli Authority has planned to empower the Polgolla reservoir from midnight on the 27th of this month due to maintenance activity.
-
-The Authority stated that the water supply will be suspended for two days for Kandy and surrounding areas.
-
-The water in the Polgolla reservoir has planned to empty for two years (27) on behalf of the maintenance work.
-
-The Mahaweli Authority stated that the maintenance of the reservoir has decided to carry out the reservoir maintains due to the end of dry weather.
-
-Accordingly, the water gathered in the reservoir is to be released to Victoria Reservoir.
-
-The Mahaweli Authority requests the residents of the area to avoid the Mahaweli River to play with the emphasis or fishing with the reservoir.
-
-The National Water Supply and Drainage Board says that the water cut will be suspended in several areas, as the Polgolla reservoir will not be able to obtain water from the two and 29th and 29th.
-
-...
-
-[Data](articles/79226332.json)
-
-[Extended Data](ext_articles/79226332.ext.json)
-
----
-
-### Sri Lanka state tv and radio get new heads
-
-*2024-09-25 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-tv-and-radio-get-new-heads-180916/) · `en`
-
-ECONOMYNEXT – New chairmen were appointed to Sri Lanka’s state broadcasting bodies by Minister of Mass Media Vijitha Herath.
-
-Uditha Gayeshan was appointed chairman of the Sri Lanka Broadcasting Corporation, which operates radio channels.
-
-Film director Senesh Bandara was appointed chairman of the Sri Lanka Rupavahini Corporation.
-
-Sri Lanka is heading for a general election in November. (Colombo/Sep25/2024)
-
-◼️
-
-[Data](articles/a9e9ac53.json)
-
-[Extended Data](ext_articles/a9e9ac53.ext.json)
-
----
-
-### New minister says passport queue to end by late Oct, weeks after similar assurance from dept
-
-*2024-09-25 12:48:00* · [`economynextcom`](https://economynext.com/new-minister-says-passport-queue-to-end-by-late-oct-weeks-after-similar-assurance-from-dept-180929/) · `en`
-
-ECONOMYNEXT — Newly appointed Public Security Minister Vijitha Herath has said efforts are under way to resolve Sri Lanka’s ongoing passport crisis by October 15-20, though the Department of Immigration and Emigration had already said in August that new passports would arrive by end-October.
-
-Speaking to ministry officials and the media after assuming duties on Tuesday September 24, Herath said queues for new passports has been one of the biggest issues in the country.
-
-“We will make maximum effort to resolve it quickly. We have already discussed the matter with the director. He believes the queue can be ended by October 15-20 and new passports can be issued. We hope to do that by then somehow,” he said.
-
-“We have also instructed him to propose alternatives to the current queue situation. There are some efforts being made on his side. In the short term, let’s try to go for an alternative solution,” he said.
-
-...
-
-[Data](articles/366ca70f.json)
-
-[Extended Data](ext_articles/366ca70f.ext.json)
-
----
-
-### New Governors to be sworn in today
-
-*2024-09-25 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102258/new-governors-to-be-sworn-in-today) · `en`
-
-President Anura Kumara Dissanayake is set to appoint new Provincial Governors today (25).
-
-Meanwhile, the President Anura Kumara Dissanayake is scheduled to make a special statement while addressing the nation at 7:30 pm today (25 September), according to the Department of Government Information.
-
-The President’s special address to the nation will be broadcast simultaneously on TV Derana, Ada Derana 24, FM Derana and will stream on Ada Derana social media platforms from 7.30 p.m. onwards.
-
-President Dissanayake issued a Gazette notification last night dissolving the Parliament of Sri Lanka effective from midnight yesterday (24).
-
-The proclamation summons the new Parliament to meet on November 21, 2024, and sets November 14, 2024, as the date for the election of new Members of Parliament. The nomination period will run from October 04 to 12:00 noon on October 11, 2024.
-
-◼️
-
-[Data](articles/7d919304.json)
-
-[Extended Data](ext_articles/7d919304.ext.json)
-
----
-
-### The body of a young man who disappeared
-
-*2024-09-25 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194749) · `ta`
-
-Body of missing youth found in Sudhu Ganga, Kanangamuwa. Drowned while swimming with friends. 21-year-old male identified. Incident occurred on 25th day of month.
-
-🟩
-
-The body of the missing youth has been recovered in the Sudhu Ganga in the Kanangamuwa area of ​​the Matale police division, police said.
-
-The young man has been recovered today (25) after being drowned when he was drowning in the Ganges with his friends.
-
-A 21 -year -old youth from Kanangamuwa, in the beginning, died, police said.
-
-◼️
-
-[Data](articles/01de9143.json)
-
-[Extended Data](ext_articles/01de9143.ext.json)
-
----
-
-### Ready to work with Anuragumara Dissanayake - ready to help Sri Lanka's sustainable economic social development
-
-*2024-09-25 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194754) · `ta`
-
-China supports Sri Lanka's development, respects sovereignty. Congratulates new president Anura Kumara Dissanayake. Ready to strengthen ties, coordinate strategies. Emphasizes peaceful coexistence and traditional friendship.
-
-🟩
-
-Does not interfere in the internal affairs of Sri Lanka. China has said that it is ready to help Sri Lanka's sustainable economic and social development as follows the principle of respecting its sovereignty.
-
-He was speaking at the Sri Lankan presidential election and was elected as the President of the Anura Kumara Dissanayake.
-
-He said that the election was held on September 21, and that China and Sri Lanka have been mutually honored with each other on the basis of Sri Lanka's friendly foreign country.
-
-Chinese Foreign Ministry spokesman Lin Jian has said that China congratulates Sri Lanka's new president, Anuragumara Dissanayaka.
-
-Responding to a question on Sri Lanka's commitment to repaying China's loans, he said Sri Lanka and China have been sharing long -term friendships.
-
-...
-
-[Data](articles/2615b8d1.json)
-
-[Extended Data](ext_articles/2615b8d1.ext.json)
-
----
-
-### For this evening today the governors to take oath
-
-*2024-09-25 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201528) · `si`
-
-Governors' oath ceremony tonight. New Provincial Governor appointed. President addresses nation at 7:30 AM and 7:30 PM on major channels.
-
-🟩
-
-President Anura Kumara Dissanayake is scheduled to appoint a new Provincial Governor.
-
-The President is also due to call on the race at 7.30 am today.
-
-The President's special statement to the nation TV Derana, today's Ada Derana, PM Channel, PM Drama and Ada Derana and Ada Derana have been prepared to be broadcast from 7.30 pm.
-
-◼️
-
-[Data](articles/0f79f674.json)
-
-[Extended Data](ext_articles/0f79f674.ext.json)
-
----
-
-### Kamala Harris shoots over the campaign office
-
-*2024-09-25 12:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கமலா-ஹாரிஸ்-பிரசார-அலுவலகம்-மீது-துப்பாக்கிச்சூடு/50-344434) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Mysterious shooting hits Kamala Harris' Arizona campaign office. No injuries reported. Police investigating. Security boosted. Incident adds tension to heated US presidential race between Harris and Trump.
-
-🟩
-
-The incident of a mysterious shooting on Kamala Harris's campaign office in the state of Arizona has caused a stir.
-
-Elections for US President. Former President Donald Trump and Democratic Party Vice President Kamala Harris contest. The election field is hot. Kamala Harris is reportedly increasing in polls.
-
-In this case, the mysterious person opened fire on Kamala Harris's campaign office near the Southern Avenue Protection Drive in Arizona Province Temple. Police rushed to the scene and are conducting an intensive investigation.
-
-At the trial, there was no one inside the office when the shooting took place. The walls are damaged by bullets. It was revealed that the shooting took place via front windows.
-
-In this case, the security of the area has been strengthened, while the shooter has not been arrested.
-
-It is noteworthy that the former US President Trump has recently been shot dead while playing at the Golf Ground at a campaign meeting.
-
-...
-
-[Data](articles/f67e5ead.json)
-
-[Extended Data](ext_articles/f67e5ead.ext.json)
-
----
-
-### Postal voting applications of the general election will be banned from today - distribution
-
-*2024-09-25 12:16:08* · [`adalk`](https://www.ada.lk/breaking_news/මහමැතිවරණයේ-තැපැල්-ඡන්ද-අයදුම්පත්-භාර-ගැනීම-අද-සිට---සහනාධාර-බෙදීමත්ටත්-තහනමක්/11-412140) · `si`
-
-Sri Lanka bans postal voting for general election starting today. Commissioner General announces applications open from 25th. Future updates on postal voting process expected. Election officials emphasize reliance on traditional methods.
-
-🟩
-
-The Commissioner General of Elections Saman Sri Ratnayake said that the postal voting applications relating to the general election from the 25th (25th) will commence and that the announcement will be made in the next few days.
-
-Top today begins today to accept postal voting applications. Postal voting announcements will be presented to you in the future. Elections have relied the election. This will completely stop the division of relief.
-
-◼️
-
-[Data](articles/0564c0d3.json)
-
-[Extended Data](ext_articles/0564c0d3.ext.json)
-
----
-
-### Trains launched in the Northern road
-
-*2024-09-25 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201527) · `si`
-
-Northern railway line renovation causes train disruptions. Special trains run during election period. Regular services resume after repairs complete.
-
-🟩
-
-The Department of Railways says that action will be taken following a discussion with the Minister and the Secretary on the Northern Railway line.
-
-Steps have been closed due to the renovation of the part of Mahawa and Anuradhapura on the railway line.
-
-However, due to the presidential election, the train was restrained to provide transport for election duties and the people traveling to the people.
-
-Accordingly, steps have been taken to operate several special trains from Colombo Fort to Kankesanthurai on the 19,20,21 and 22.
-
-However, the Railway Department stated that the train operations will be restored again.
-
-The reason for the refurbishment of the railway line has been made by a senior spokesperson of the Department of Railways.
-
-Mahawa to Anuradhapura There are 47 railway crossings from Mahawa to Anuradhapura and 15 railway crossings and 9 of them traffic routes where the major roads are located.
-
-...
-
-[Data](articles/2a03ee29.json)
-
-[Extended Data](ext_articles/2a03ee29.ext.json)
-
----
-
-### Appointment of new governors today
-
-*2024-09-25 12:10:35* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආණ්ඩුකාරවරුන්-පත්කිරීම-අද/11-412138) · `si`
-
-President to appoint 9 new governors today
-
-🟩
-
-The President is scheduled to appoint Governor for the new government this morning.
-
-It is reported that nine governors will be appointed today.
-
-◼️
-
-[Data](articles/fcc13d29.json)
-
-[Extended Data](ext_articles/fcc13d29.ext.json)
 
 ---

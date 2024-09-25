@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 18:34:58**
+As of **2024-09-25 18:48:16**
 
 ## Newspaper Stats
 
-*Scraped **46,249** Articles*
+*Scraped **46,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,804
 dailyftlk | 3,074
-adalk | 4,263
+adalk | 4,264
 dailymirrorlk | 4,733
 adaderanalk | 5,442
-tamilmirrorlk | 6,186
+tamilmirrorlk | 6,187
 virakesarilk | 7,389
-adaderanasinhalalk | 7,988
+adaderanasinhalalk | 7,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,244 (100.0%) of 46,249 articles have been extended.
+46,244 (100.0%) of 46,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### මහ මැතිවරණය ගැන විශේෂ නිවේදනයක්
+
+*2024-09-25 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201539) · `si`
+
+2024 පාර්ලිමේන්තු මැතිවරණයට අදාළව ස්වාධීන කණ්ඩායම් විසින් ඇප මුදල් තැන්පත් කිරීම සහ ඒ ඒ දිස්ත්‍රික්කය සඳහා දේශපාලන පක්ෂ හෝ ස්වාධීන කණ්ඩායම් විසින් නාමයෝජනා කළ යුතු අපේක්ෂකයින් සංඛ්‍යාව පිළිබඳ තොරතුරු මැතිවරණ කොමිෂන් සභාව විසින් නිවේදනය කර තිබේ.
+
+මැතිවරණ කොට්ඨාස සඳහා තෝරා පත් කරගැනීමට නියමිත මන්ත්‍රීවරු සංඛ්‍යාව, නාමයෝජනා පත්‍රයක් මගින් නාමයෝජනා කළ යුතු අපේක්ෂකයින් සංඛ්‍යාව සහ ස්වාධීන කණ්ඩායමක් විසින් තැන්පත් කළ යුතු ඇප මුදල් පිළිබඳ තොරතුරු ද එහි ඇතුළත් ය.
+
+ඒ අනුව වැඩිම මන්ත්‍රීවරු සංඛ්‍යාවක් තෝරා පත්කර ගැනීමට නියමිතව ඇත්තේ ගම්පහ දිස්ත්‍රික්කයෙනි. එම සංඛ්‍යාව 19කි.
+
+◼️
+
+[Data](articles/b23cdc6d.json)
+
+---
+
+### ”பொதுத் தேர்தலில் தேசிய மக்கள் சக்தி வெற்றி பெறும்”
+
+*2024-09-25 18:19:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலில்-தேசிய-மக்கள்-சக்தி-வெற்றி-பெறும்/175-344453) · `ta`
+
+எதிர்வரும் பொதுத் தேர்தலில் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவும் அவரது அரசாங்கமும் வெற்றியீட்டக் கூடிய சாத்தியம் காணப்படுவதாக முன்னாள் அமைச்சர் எஸ்.பி.திஸாநாயக்க நம்பிக்கை வெளியிட்டுள்ளார்.
+
+"ஜனாதிபதித் தேர்தலுக்குப் பின்னர் அனுரகுமார திஸாநாயக்கவின் நடத்தை மற்றும் அவரது அறிக்கைகளின் அடிப்படையில், மக்களின் நம்பிக்கையை நிறைவேற்றும் பலம் இந்த அரசாங்கத்திற்கு இருப்பதாக நான் நம்புகிறேன்," என்று திஸாநாயக்க கூறினார்.
+
+தற்போதைய அரசாங்கத்தின் முன்னேற்றத்திற்கு தடையாக இருக்கக் கூடாது என தாம் நம்புவதாகத் தெரிவித்த திஸாநாயக்க, பொதுத் தேர்தலில் தேர்தல் வெற்றி மற்ற கட்சிகளுக்கு கடினமாக இருக்கும் என்றும் குறிப்பிட்டார்.
+
+“அது சுலபமாக இருக்காது. தற்போதுள்ள எம்.பி.க்களில் இருந்து சிறிய அமைச்சரவையை நியமித்து, அரசாங்கத்தின் பணிகளை முன்னெடுத்துச் செல்லும் வெற்றிகரமான ஜனாதிபதி எமக்கு இருக்கிறார்” என அவர் தெரிவித்தார்.
+
+திஸாநாயக்க, எதிர்வரும் பொதுத் தேர்தலில் தேசிய மக்கள் சக்தி (NPP) குறைந்தது 6.5 மில்லியன் வாக்குகளைப் பெறும் என்று கணித்துள்ளார்.
+
+...
+
+[Data](articles/b4516a91.json)
+
+---
 
 ### Interrogutation
 
@@ -99,6 +135,22 @@ A bond maturing on 15.06.2029 closed at 12.45/55 percent down from 13.20/28 perc
 [Data](articles/84d7d082.json)
 
 [Extended Data](ext_articles/84d7d082.ext.json)
+
+---
+
+### අයි.එම්.එෆ්. ප්‍රධානීගෙන් ජනපති අනුරට සහතිකයක්
+
+*2024-09-25 17:30:23* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ප්‍රධානීගෙන්-ජනපති-අනුරට-සහතිකයක්/11-412147) · `si`
+
+ශ්‍රී ලංකාවේ නව ජනාධිපති ධුරයට පත් වූ අනුර කුමාර දිසානායක මහතාට ජාත්‍යන්තර මූල්‍ය අරමුදලේ කළමණාකාර අධ්‍යක්ෂිකා ක්‍රිස්ටලීනා ජෝර්ජියේවා මහත්මිය සුබ පැතුම් පිරිනැමීය.
+
+ජනාධිපතිතුමා වෙත විශේෂ සුබපැතුම් පණිවිඩයක් යොමු කරමින් ක්‍රිස්ටලීනා ජෝර්ජියේවා මහත්මිය සඳහන් කර ඇත්තේ ශ්‍රී ලංකාවේ හවුල්කරුවෙකු ලෙස අඛණ්ඩව කැපවි කටයතු කරන බවත්, ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකාව අතර පවතින අන්‍යෝන්‍ය වශයෙන් වාසිදායක සබඳතාව තවදුරටත් ශක්තිමත් කිරීමට බලාපොරොත්තු වන බවත්ය.
+
+එසේම ශ්‍රී ලංකාවේ සංවර්ධන සහ ප්‍රතිසංස්කරණ ඉලක්ක සපුරා ගැනීම සඳහා අවශ්‍ය පූර්ණ සහාය ලබා දීමට සූදානම් බව ද ක්‍රිස්ටලීනා ජෝර්ජියේවා මහත්මිය ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත සහතික වී තිබේ.
+
+◼️
+
+[Data](articles/b83383a6.json)
 
 ---
 
@@ -2303,59 +2355,5 @@ The 10th Parliament appointed by the General Election will meet on November 21.
 [Data](articles/6dba9641.json)
 
 [Extended Data](ext_articles/6dba9641.ext.json)
-
----
-
-### SLASSCOM congratulates President Anura Kumara Dissanayake
-
-*2024-09-25 06:31:31* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-congratulates-President-Anura-Kumara-Dissanayake/34-767121) · `en`
-
-The Sri Lanka Association of Software and Services Companies (SLASSCOM) in a statement yesterday extended its heartfelt congratulations to President Anura Kumara Dissanayake on his election as the President of Sri Lanka.
-
-“Having handed over our strategic policy document “Igniting Knowledge, Inspiring Growth” to him prior to the elections, we are eager to continue working closely with his administration to ensure consistent and forward-looking policies for the growth of Sri Lanka’s Knowledge and Innovation (IT and BPM) sector.”
-
-“IT and BPM sector is a key driver of economic growth and a crucial pillar in Sri Lanka’s export economy boasting of a value addition of over 75%, making it a high-value sector capable of contributing significantly to the country’s economic development.”
-
-...
-
-[Data](articles/6fba4b23.json)
-
-[Extended Data](ext_articles/6fba4b23.ext.json)
-
----
-
-### Sri Lanka Gem and Jewellery Association congratulates President AKD; looks for progressive steps
-
-*2024-09-25 06:31:11* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Gem-and-Jewellery-Association-congratulates-President-AKD-looks-for-progressive-steps/34-767120) · `en`
-
-The Sri Lanka Gem and Jewellery Association (SLGJA), the apex body and the voice of the country’s gem and jewellery industry, in a statement yesterday extended heartfelt congratulations to Anura Kumara Dissanayake on being sworn in as the 9th President of the Democratic Socialist Republic of Sri Lanka.
-
-It said as an industry that has long been an integral part of Sri Lanka’s rich cultural heritage and economic strength, SLGJA is confident that under the new President’s visionary leadership, the nation will continue to thrive and reach new heights of prosperity. His commitment to progress, national unity, and the well-being of all Sri Lankans aligns closely with the values and aspirations of the Gem and Jewellery sector, which remains a foundation of both the country’s identity and its economy.
-
-...
-
-[Data](articles/65d960b0.json)
-
-[Extended Data](ext_articles/65d960b0.ext.json)
-
----
-
-### Chamber of Construction Industry congratulates President AKD, appeals for effective interventions
-
-*2024-09-25 06:30:51* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Construction-Industry-congratulates-President-AKD-appeals-for-effective-interventions/34-767119) · `en`
-
-Chamber of Construction Industry of Sri Lanka Secretary General/CEO Eng. Nissanka N. Wijeratne
-
-The Chamber of Construction Industry of Sri Lanka, statutorily established as the apex representative body of all stakeholders of the construction industry, yesterday extended its sincere congratulations to President Anura Kumara Dissanayake on his great victory as the ninth Executive President of Sri Lanka.
-
-The construction industry comprises many stakeholders including engineers, architects, quantity surveyors, valuers, land surveyors, town planners, contractors, consultants, real estate developers, material manufacturers and suppliers, machinery and equipment importers and hirers etc.
-
-The construction industry, in the past, contributed 8-10% to the GDP and provided employment to nearly 1.4 million, both direct and indirect. As such, 20% of our population is dependent on the construction industry.
-
-...
-
-[Data](articles/b7464739.json)
-
-[Extended Data](ext_articles/b7464739.ext.json)
 
 ---

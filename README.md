@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 18:19:33**
+As of **2024-09-25 18:34:58**
 
 ## Newspaper Stats
 
-*Scraped **46,236** Articles*
+*Scraped **46,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 385
 bbccomsinhala | 455
 colombotelegraphcom | 462
 islandlk | 2,705
-economynextcom | 2,793
+economynextcom | 2,804
 dailyftlk | 3,074
 adalk | 4,263
 dailymirrorlk | 4,733
 adaderanalk | 5,442
-tamilmirrorlk | 6,184
+tamilmirrorlk | 6,186
 virakesarilk | 7,389
 adaderanasinhalalk | 7,988
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 7,988
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,236 (100.0%) of 46,236 articles have been extended.
+46,244 (100.0%) of 46,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Interrogutation
+
+*2024-09-25 18:16:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடகுவைத்த-பெண்ணுக்கு-விளக்கமறியல்/76-344452) · `ta`
+
+Woman detained for selling fake jewelry arrested by Hatton police. She pawned gold-plated items from Colombo region. Police found many fake rings. Suspect has been making money fraudulently for long time.
+
+🟩
+
+The woman who took the money with gold plated and fake jewelery has been kept in detention until the 9th of this month at the behest of Hatton Magistrate M. Burukdeen.
+
+The woman, who was arrested by Hatton police on Tuesday (24), was produced before the Hatton Magistrate's Court on Wednesday (25).
+
+A 48 -year -old mother of the Weloya estate belonging to the Vattawala Police Division. He is the mother of three children.
+
+The suspicious woman working in the Colombo region has taken a mortgage from mortgage centers, public and private banks in major cities such as fake gold plated rings, panchayats and earrings.
+
+It is said that the fake jewelery has been prepared so that the pawnbroker is not even trapped in the mortgaged gold jewelery.
+
+Hatton police officers arrested the woman in the pawn shop on Hatton (25) on the basis of information provided to the Criminal Investigation Department of the Matton Police Hatton Police.
+
+...
+
+[Data](articles/a5f7e88c.json)
+
+[Extended Data](ext_articles/a5f7e88c.ext.json)
+
+---
+
+### 65 hours of water in Kandy
+
+*2024-09-25 18:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-65-மணிநேர-நீர்வெட்டு/76-344451) · `ta`
+
+Kandy residents face 65-hour water cutoff due to Polgola reservoir maintenance. Affected areas include Harispattu, Poojapitiya, Paththambara, and others. Water disruption starts midnight Friday 27th to Sunday 29th.
+
+🟩
+
+The Mahaweli Authority has said that 65 hours of water cut will be implemented in some parts of Kandy due to the maintenance work of the Polgola reservoir.
+
+The Achchara said that maintenance work is being carried out once in two years at the Polgola reservoir.Accordingly, the water cut will be implemented for 65 hours from midnight on Friday the 27th to the 29th.
+
+The Kandy Municipal Council borders will be implemented in the areas of Harispattu, Poojapitiya, Paththambara, Akuranai, Kundasalai Divisional Secretariat, Rajavella, Sirimalwatte, Ambitiya, Handana and Mawathagama areas.
+
+◼️
+
+[Data](articles/8ded0d28.json)
+
+[Extended Data](ext_articles/8ded0d28.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 300.30/80 to US dollar, bond yields down
+
+*2024-09-25 17:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-30-80-to-us-dollar-bond-yields-down-180974/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated significantly to close at 300.30/80 to the US dollar Wednesday, from 303.00/14 a day earlier, while bond yields were also down.
+
+A bond maturing on 01.05.2027 closed at 11.90/12.05 percent quoted down from 12.40/50 percent.
+
+A bond maturing on 15.02.2028 closed at 12.35/45 percent down from 13.00/08 percent.
+
+A bond maturing on 15.06.2029 closed at 12.45/55 percent down from 13.20/28 percent.
+
+◼️
+
+[Data](articles/84d7d082.json)
+
+[Extended Data](ext_articles/84d7d082.ext.json)
+
+---
 
 ### Permission for homosexual marriage
 
@@ -187,6 +257,48 @@ If a sacrificial is a 76-674 5349, the mother of the belone can be connected to 
 [Data](articles/8cb7fca4.json)
 
 [Extended Data](ext_articles/8cb7fca4.ext.json)
+
+---
+
+### IMF hopes to strengthen mutually beneficial relationship with Sri Lanka: PMD
+
+*2024-09-25 17:01:00* · [`economynextcom`](https://economynext.com/imf-hopes-to-strengthen-mutually-beneficial-relationship-with-sri-lanka-pmd-180972/) · `en`
+
+ECONOMYNEXT – Managing Director of the International Monetary Fund (IMF) Kristalina Georgieva has congratulated Sri Lanka’s President Anura Dissanayake on his election and reaffirmed the IMF’s commitment to remaining a strong partner to Sri Lanka.
+
+In a letter to Dissanayake, Georgieva “Expressed her hope to further strengthen the mutually beneficial relationship between the two parties,” the president’s media division said.
+
+“Georgieva assured President Dissanayake of the IMF’s full support in helping Sri Lanka achieve its development and reform goals.”
+
+The review of the IMF program on June data, was due in October. Following the presidential election in September, general elections are to be held on November 14. (Colombo/Sep25/2024)
+
+◼️
+
+[Data](articles/2ed9eb81.json)
+
+[Extended Data](ext_articles/2ed9eb81.ext.json)
+
+---
+
+### Sri Lanka stocks close up, turnover nears Rs4bn
+
+*2024-09-25 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-nears-rs4bn-180967/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 2.87 percent, or 325.59 points, at 11,659; while the more liquid S&P SL20 Index closed up 4.09 percent, or 132.23 points, at 3,367.
+
+Banking stocks were up; Hatton National Bank (up at 193.00), Commercial Bank (up at 99.60), Sampath Bank (up at 77.40), DFCC Bank (up at 74.60) and National Development Bank (up at 74.90).
+
+Top foreign buying was seen in Sampath, HNB, Bukit Darah (up at 400.25), Overseas Realty (down at 17.90), LOLC Finance (up at 6.20) and Ceylon Grain Elevators (up at 169.75).
+
+Foreign selling was seen in CIC Holdings (up at 70.90), Nations Trust Bank (up at 123.25), hSenid Business Solutions (up at 11.10), Dialog (up at 9.40), John Keells Holdings (up at 170.00), and its subsidiary Ceylon Cold Stores (up at 58.50). (Colombo/Sep25/2024)
+
+◼️
+
+[Data](articles/8bd26f07.json)
+
+[Extended Data](ext_articles/8bd26f07.ext.json)
 
 ---
 
@@ -430,6 +542,26 @@ The song 'Puta Vecha Ravikaikari ..' is the place in Pallavi of this song, the l
 
 ---
 
+### Sri Lanka sells Rs120bn in Treasuries, yields flat
+
+*2024-09-25 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs120bn-in-treasuries-yields-flat-180955/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 120 billion rupees of Treasury bills, with most of the money coming from 3 and 6 month bills, data from the state debt office show.
+
+71.3 billion rupees of 3-month bills were sold, after offering 70 billion, at 10.49 percent, unchanged from a week earlier.
+
+47 billion rupees of 6-month bills were sold after offering 40 billion, at 10.72 percent, down from 10.76 percent.
+
+Only 463 million rupees of 12-month bills were sold at 10.05 percent, down from 10.05 percent a week earlier. (Colombo/Aug25/2024)
+
+◼️
+
+[Data](articles/d08a900f.json)
+
+[Extended Data](ext_articles/d08a900f.ext.json)
+
+---
+
 ### Appoints new governors
 
 *2024-09-25 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201533) · `si`
@@ -642,6 +774,26 @@ President Anura has ordered the cancellation of liquor sales licenses issued dur
 
 ---
 
+### Sri Lanka’s new police ministers says no more political interference
+
+*2024-09-25 15:07:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-police-ministers-says-no-more-political-interference-180941/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s newly appointed Public Security Minister Vijitha Herath has requested the police to help usher in a new political culture where the police is able to establish law and order without being subject to political interference .
+
+Speaking to ministry officials and senior police officers on Tuesday September 24, Minister Herath said there has been a breakdown in public trust of the police.
+
+“I, as the minister, the secretary and all of you as Deputy Inspectors General (DIGs) have a huge responsibility. I don’t think it can be done in a short period of time. But the police has an obligation to carry out their duty without political interference, and that is what we intend to facilitate,” he said.
+
+Herath requested senior police officers gathered at event to help change existing, wrongful systems.
+
+...
+
+[Data](articles/667b66aa.json)
+
+[Extended Data](ext_articles/667b66aa.ext.json)
+
+---
+
 ### Harini Amarasuriya's trip
 
 *2024-09-25 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194766) · `ta`
@@ -788,6 +940,30 @@ The Chairman of the Ceylon Teachers Union Priyantha Fernando expressed these vie
 
 ---
 
+### Sri Lanka RD rating confirmed by Fitch, says EDR could be delayed
+
+*2024-09-25 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rd-rating-confirmed-by-fitch-says-edr-could-be-delayed-180951/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has confirmed a ‘restricted default’ (RD) rating of Sri Lanka after its sovereign default and said policy uncertainty after a election
+
+“Sri Lanka’s September 2024 Presidential election was won by one of the opposition leaders,” Fitch said.
+
+“Fitch believes the result add uncertainty to the country’s policy direction and could lead to a delay in the completion of the foreign-currency debt restructuring or renegotiation of the IMF programme.
+
+“The upcoming 2025 budget, to be adopted by November 2024, could offer clarity on the new government’s policies.”
+
+Recent deals with bondholders and China Development Bank shows that progress is being made, the rating agency said.
+
+Fitch Ratings – Hong Kong – 25 Sep 2024: Fitch Ratings has affirmed Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) at ‘RD’ (Restricted Default) and Long-Term Local-Currency IDR at ‘CCC-‘. Fitch typically does not assign Outlooks to issuers with a rating of ‘CCC+’ or below.
+
+...
+
+[Data](articles/7fc1b758.json)
+
+[Extended Data](ext_articles/7fc1b758.ext.json)
+
+---
+
 ### IMF chief assures steadfast support for Sri Lanka to achieve development and reform goals
 
 *2024-09-25 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102260/imf-chief-assures-steadfast-support-for-sri-lanka-to-achieve-development-and-reform-goals) · `en`
@@ -873,6 +1049,42 @@ The National Water Supply and Drainage Board says that the water cut will be sus
 [Data](articles/79226332.json)
 
 [Extended Data](ext_articles/79226332.ext.json)
+
+---
+
+### Sri Lanka state tv and radio get new heads
+
+*2024-09-25 12:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-tv-and-radio-get-new-heads-180916/) · `en`
+
+ECONOMYNEXT – New chairmen were appointed to Sri Lanka’s state broadcasting bodies by Minister of Mass Media Vijitha Herath.
+
+Uditha Gayeshan was appointed chairman of the Sri Lanka Broadcasting Corporation, which operates radio channels.
+
+Film director Senesh Bandara was appointed chairman of the Sri Lanka Rupavahini Corporation.
+
+Sri Lanka is heading for a general election in November. (Colombo/Sep25/2024)
+
+◼️
+
+[Data](articles/a9e9ac53.json)
+
+---
+
+### New minister says passport queue to end by late Oct, weeks after similar assurance from dept
+
+*2024-09-25 12:48:00* · [`economynextcom`](https://economynext.com/new-minister-says-passport-queue-to-end-by-late-oct-weeks-after-similar-assurance-from-dept-180929/) · `en`
+
+ECONOMYNEXT — Newly appointed Public Security Minister Vijitha Herath has said efforts are under way to resolve Sri Lanka’s ongoing passport crisis by October 15-20, though the Department of Immigration and Emigration had already said in August that new passports would arrive by end-October.
+
+Speaking to ministry officials and the media after assuming duties on Tuesday September 24, Herath said queues for new passports has been one of the biggest issues in the country.
+
+“We will make maximum effort to resolve it quickly. We have already discussed the matter with the director. He believes the queue can be ended by October 15-20 and new passports can be issued. We hope to do that by then somehow,” he said.
+
+“We have also instructed him to propose alternatives to the current queue situation. There are some efforts being made on his side. In the short term, let’s try to go for an alternative solution,” he said.
+
+...
+
+[Data](articles/366ca70f.json)
 
 ---
 
@@ -1236,6 +1448,24 @@ Kenya stressed that it would be a commitment to advance mutual interests and dev
 
 ---
 
+### Sri Lanka Treasury Secretary Siriwardana assumes duties
+
+*2024-09-25 11:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-secretary-siriwardana-assumes-duties-180913/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury Secretary Mahinda Siriwardana, who held the fiscal reigns during the emergence from a severe currency crisis that ended in default, has re-assumed duties following his re-appointment by President Anura Dissanayake.
+
+He is the Secretary of the newly re-constituted, Finance, Planning and Tourism.
+
+A former central banker, he played key role in helping with the IMF program. He has previously been an alternate executive director of the IMF for Sri Lanka, India, Bangladesh and Bhutan.
+
+Siriwardene was educated at Vanderbilt University of the US and Kelaniya University in Sri Lanka.
+
+◼️
+
+[Data](articles/c106fcc7.json)
+
+---
+
 ### Mother arrested for killing her daughter
 
 *2024-09-25 11:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மூக்கை-அழுத்தி-மகளை-கொன்ற-தாய்-கைது/76-344430) · `ta`
@@ -1303,6 +1533,26 @@ According to the Motor Transport Act. Therefore, if I want to avoid unjust death
 [Data](articles/e79f19cc.json)
 
 [Extended Data](ext_articles/e79f19cc.ext.json)
+
+---
+
+### Sri Lanka rupee trades stronger at 302.15/25 to US dollar, bond yields down
+
+*2024-09-25 11:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-302-15-25-to-us-dollar-bond-yields-down-180903/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading at 302.15/25 to the US dollar on Wednesday, stronger from 303.00/14 a day earlier, while bond yields were significantly down dealers said.
+
+There was a treasury bill auction of 120 million rupees ongoing.
+
+A bond maturing on 15.02.2028 was quoted at 12.60/70 percent, down from 13.00/08 percent.
+
+A bond maturing on 15.06.2029 was quoted at 12.70/75 percent down from 13.20/28 percent.
+
+In equities, Colombo’s All Share Price Index was trading 1.21 percent, or 137.05 points higher at 11,471, while the S&P SL20 of more liquid stocks opened up 1.73 percent or 56.12 points lower at 3,291.
+
+◼️
+
+[Data](articles/3c179bb8.json)
 
 ---
 
@@ -1962,6 +2212,22 @@ The current economic situation of the country has been discussed with a number o
 
 ---
 
+### US backs economically sustainable future after Sri Lanka man-made crisis: Foreign Relations Chair
+
+*2024-09-25 07:43:00* · [`economynextcom`](https://economynext.com/us-backs-economically-sustainable-future-after-sri-lanka-man-made-crisis-foreign-relations-chair-180884/) · `en`
+
+ECONOMYNEXT – The United States supported the people of Sri Lanka in their pursuit of “an inclusive, just, democratic, and economically sustainable future”, Chair of the Senate Foreign Relations Committee Ben Cardin has said.
+
+President Anura Kumara Dissanayake head of the National People’s Power coalition backed by the Janatha Vimukthi Peramuna came to power after a most severe currency collapse triggered by the central bank in its history, after printing money to target ‘potential output’, despite the lack of a clean float.
+
+“Millions of Sri Lankans peacefully exercised their democratic right in this weekend’s presidential election, demonstrating a deep and meaningful commitment to shaping their country’s path forward,” Cardin said in a statement.
+
+...
+
+[Data](articles/0c01ca78.json)
+
+---
+
 ### Several spells of showers expected in parts of the country
 
 *2024-09-25 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102251/several-spells-of-showers-expected-in-parts-of-the-country) · `en`
@@ -2091,263 +2357,5 @@ The construction industry, in the past, contributed 8-10% to the GDP and provide
 [Data](articles/b7464739.json)
 
 [Extended Data](ext_articles/b7464739.ext.json)
-
----
-
-### Association of Professional Bankers says Presidency of AKD marks beginning of new era
-
-*2024-09-25 06:29:30* · [`dailyftlk`](https://www.ft.lk/business/Association-of-Professional-Bankers-says-Presidency-of-AKD-marks-beginning-of-new-era/34-767118) · `en`
-
-The Association of Professional Bankers (APB) of Sri Lanka in a statement yesterday said it extends warm congratulations to Anura Kumara Dissanayake on his election as the President of Sri Lanka.
-
-“This historic moment marks the beginning of a new era for the country, and APB is optimistic about the future under his strategic leadership,” it said.
-
-As the nation embarks on this new path, APB said it is aware of the vital role of banking in advancing Sri Lanka’s economic growth and stability. The Association is committed to working closely with the policy makers to ensure that the financial services industry continues to support the economic aspirations of the people.
-
-...
-
-[Data](articles/ec0b58e7.json)
-
-[Extended Data](ext_articles/ec0b58e7.ext.json)
-
----
-
-### Ceylon Institute of Builders congratulates new President Anura
-
-*2024-09-25 06:28:57* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Institute-of-Builders-congratulates-new-President-Anura/34-767117) · `en`
-
-The Ceylon Institute of Builders (CIOB) yesterday extended its warmest wishes to new President Anura Kumara Dissanayake, acknowledging his victory as a pivotal moment for Sri Lanka.
-
-“We hope that our new President and the new Government helps up stand the construction industry, which is made up of a large portion of the country’s workforce and provides employment to the most in-need workers and provides work for small and medium sector entrepreneurs,” the CIOB noted in a statement.
-
-...
-
-[Data](articles/cdfbbe16.json)
-
-[Extended Data](ext_articles/cdfbbe16.ext.json)
-
----
-
-### Sri Lanka puts up impressive show at first edition of Gulfood Green 2024
-
-*2024-09-25 06:25:36* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-puts-up-impressive-show-at-first-edition-of-Gulfood-Green-2024/34-767116) · `en`
-
-Key initiative championed by Consulate General of Sri Lanka in Dubai in partnership with Sri Lanka Industrial Development Board, Department of Commerce and Sri Lanka Business Council in UAE
-
-In an effort to connect domestic manufacturers with global value chains and provide opportunities for Sri Lanka exporters to engage in international trade, the Consulate General of Sri Lanka to Dubai and the Northern Emirates, in collaboration with the Industrial Development Board (IDB) and the Department of Commerce as well as with the well support of the Sri Lanka Business Council in UAE, has organised Sri Lanka’s participation in the inaugural edition of Gulfood Green.
-
-This landmark event, spearheaded by the renowned Gulfood team, the Middle East’s largest food and beverage exhibition organiser, kicked off yesterday and will go on until 26 September at the Dubai World Trade Centre.
-
-...
-
-[Data](articles/07122891.json)
-
-[Extended Data](ext_articles/07122891.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-09-25 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201516) · `si`
-
-Showers forecasted in Western, Sabaragamuwa, North Western Provinces and Kandy, Nuwara Eliya, Galle, Matara districts. Thundershowers expected in Uva Province, Ampara, Batticaloa Districts. Strong winds (40-45 km/h) possible. Public advised to take precautions against lightning and wind-related accidents.
-
-🟩
-
-Several spells of showers in the Western, Sabaragamuwa and North Western Provinces and several showers in the Kandy, Nuwara Eliya, Galle and Matara districts.
-
-The Department of Meteorology announced that showers or thundershowers will occur at several places in the Uva Province and in the Ampara and Batticaloa Districts.
-
-At times, the North, North-Central, North-Central, North Western and Southern provinces will be held in the North, North-Central, Northwestern and Southern provinces.. There may be 40-45-strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/e68c20f5.json)
-
-[Extended Data](ext_articles/e68c20f5.ext.json)
-
----
-
-### FITIS congratulates new President
-
-*2024-09-25 06:22:51* · [`dailyftlk`](https://www.ft.lk/business/FITIS-congratulates-new-President/34-767115) · `en`
-
-A vision for digital transformation to achieve a $ 15 b contribution to GDP from the digital economy by 2030
-
-The Federation of Information Technology (Guarantee) Ltd. (FITIS) yesterday extends its warm congratulations to the newly elected President of the Democratic Socialist Republic of Sri Lanka Anura Kumara Dissanayake.
-
-As the apex body of the country’s ICT sector, the FITIS said it believes that the leadership demonstrated by the President will create pivotal opportunities for Sri Lanka to accelerate its digital transformation.
-
-...
-
-[Data](articles/f14a129b.json)
-
-[Extended Data](ext_articles/f14a129b.ext.json)
-
----
-
-### FACTBOX – Sri Lanka’s new PM Harini Amarasuriya’s thorny path from social health worker
-
-*2024-09-25 06:00:00* · [`economynextcom`](https://economynext.com/factbox-sri-lankas-new-pm-harini-amarasuriyas-thorny-path-from-social-health-worker-180880/) · `en`
-
-ECONOMYNEXT – She was ridiculed when she started to express her mind against social injustice to the public like a Marxists Janatha Vimukthi Peremuna activists while teaching as a lecturer at Open University of Sri Lanka, but Harini Nireka Amarasuriya never had an idea that she will end up as the island nation’s Prime Minister.
-
-But, the 54-year old youngest in a three-member elitist family in Colombo on Tuesday took oaths as the 16th Prime Minister of Independent Sri Lanka and the third woman Prime Minister in the country.
-
-An old girl of Bishops College, Colombo, Amarasuriya was outspoken against social injustice when she was young. She believes it came from her father.
-
-Her first job as a social health officer, who dealt with sidelined women in early 1990s including AIDS patients and the war-affected, also helped her to connect any layers in the country – from professionals to uneducated people, from the rich to poor, and from elitists to the underprivileged people.
-
-...
-
-[Data](articles/aeab0e70.json)
-
-[Extended Data](ext_articles/aeab0e70.ext.json)
-
----
-
-### International Chamber of Commerce Sri Lanka signs MoU with Port City Colombo
-
-*2024-09-25 04:52:04* · [`dailyftlk`](https://www.ft.lk/business/International-Chamber-of-Commerce-Sri-Lanka-signs-MoU-with-Port-City-Colombo/34-767113) · `en`
-
-ICCSL Chairman Shanil Fernando (left) exchanges the agreement with Port City Colombo Managing Director Xiong Hongfeng, others (from left): Port City Colombo Business Development Manager Imran Ahamed, ICCSL Vice Chairman Indika Rajapakshe, Secretary Hemakumara Gunesekara, Deputy Secretary Buddhapriya Ramanayake, COO Sanjeeva Karunaratne, Port City
-
-Colombo General Manager Tian Zheng, and Port City Colombo Investment Promotions and Marketing Director Radika Obeyesekere
-
-Initiative aimed to enhance collaboration in promoting Port City Colombo as a prime investment destination for local and international investors
-
-The International Chamber of Commerce (ICC) Sri Lanka yesterday announced the signing of a Memorandum of Understanding (MoU) with Port City Colombo.
-
-This strategic partnership aims to enhance collaboration in promoting Port City Colombo as a prime investment destination for local and international investors.
-
-...
-
-[Data](articles/1b8dd729.json)
-
-[Extended Data](ext_articles/1b8dd729.ext.json)
-
----
-
-### 2024 The Change & The Choice
-
-*2024-09-25 04:51:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/2024-the-change-the-choice/) · `en`
-
-“They tried to bury us. They did not know we were seeds.” — Anura Kumara Dissanayake
-
-The 2024 Sri Lankan Presidential election results have displayed a significant change in the decades-long distribution of political party alignment among the Sri Lankan people. This transformation showcases the desperation of Sri Lankans to choose a leader free from crimes and corruption. Anura Kumara Dissanayake, a veteran politician and the leader of the National People’s Power (NPP), has won the election, dominating the majority of votes in fourteen out of twenty-two districts. This election marked a historic moment, electing the first leftist leader as President from a socialist and social democratic political alliance. It demonstrates that most Sri Lankans are shifting away from traditional party politics to focus on a leader who can truly relate to and understand the hearts and minds of ordinary people.
-
-...
-
-[Data](articles/60b096a7.json)
-
-[Extended Data](ext_articles/60b096a7.ext.json)
-
----
-
-### Tea Exporters congratulates AKD
-
-*2024-09-25 04:50:45* · [`dailyftlk`](https://www.ft.lk/business/Tea-Exporters-congratulates-AKD/34-767112) · `en`
-
-The Tea Exporters Association (TEA), the apex private sector body of tea exporters of Sri Lanka, has extended its best wishes to Anura Kumara Dissanayake on his election as the new President.
-
-The membership of Tea Exporters Association accounts for 80% of the volume and value of the annual tea exports of the country. Tea exports industry brings an annual export income of $ 1.3 billion to the country and is a vital cog in the economic wheel of the country. Approximately 2 million people directly and indirectly depends on the tea industry.
-
-...
-
-[Data](articles/40339323.json)
-
-[Extended Data](ext_articles/40339323.ext.json)
-
----
-
-### Sajith denies possibility of alliance with defeated President Ranil Wickremesinghe
-
-*2024-09-25 04:49:57* · [`dailyftlk`](https://www.ft.lk/news/Sajith-denies-possibility-of-alliance-with-defeated-President-Ranil-Wickremesinghe/56-767111) · `en`
-
-Premadasa to be SJB’s Prime Ministerial candidate on agreement with all parties in SJS
-
-Says alliance between him and Wickremesinghe could be successful based on “arithmetic,” but deeper political analysis would reveal otherwise
-
-Opposition leader Sajith Premadasa announced his readiness to contest the upcoming General Elections, confirming that he will run as the leader of the Samagi Jana Balavega (SJB) and Samagi Jana Sandhanaya (SJS).
-
-Premadasa emphasised his willingness to join forces with progressive groups who align with the party’s principles and are committed to serving the people.
-
-During a meeting held in Colombo with Members of Parliament, district, and constituency organisers of the SJB and Samagi Jana Sandhanaya, the group unanimously agreed to entrust Premadasa with the responsibility of leading the coalition as their Prime Ministerial candidate in the upcoming elections.
-
-...
-
-[Data](articles/c40a1ad9.json)
-
-[Extended Data](ext_articles/c40a1ad9.ext.json)
-
----
-
-### Sajith congratulates new Premier Dr.Harini
-
-*2024-09-25 04:48:19* · [`dailyftlk`](https://www.ft.lk/news/Sajith-congratulates-new-Premier-Dr-Harini/56-767110) · `en`
-
-Opposition leader SajithPremadasa yesterday congratulated the newly appointed Prime MinisterDr.HariniAmarasuriya.
-
-“I hope your appointment will inspire women of Sri Lanka to bring their talents, strength and vision to the forefront,” he noted via a post on ‘X’.
-
-◼️
-
-[Data](articles/a4e66ec5.json)
-
-[Extended Data](ext_articles/a4e66ec5.ext.json)
-
----
-
-### SajithPremadasa named Prime Ministerial candidate for SJS in upcoming election
-
-*2024-09-25 04:47:56* · [`dailyftlk`](https://www.ft.lk/news/SajithPremadasa-named-Prime-Ministerial-candidate-for-SJS-in-upcoming-election/56-767109) · `en`
-
-Opposition leader Sajith Premadasa was officially named yesterday as the Prime Ministerial candidate for the Samagi Jana Sandanata (SJS) in the upcoming General Election.
-
-The decision was unanimously approved during a party meeting, cementing his leadership role within the coalition as it prepares to challenge for Parliamentary control.
-
-Speaking to the media following the meeting, he vehemently denied any collaboration with the former President Ranil Wickremesinghe, clarifying that there is no alliance between them.
-
-As the SJS gears up for the next election, Premadasa took the opportunity to thank his supporters for their unwavering commitment during the recently concluded Presidential election where he was defeated by National People’s Power (NPP) leader Anura Kumara Dissanayake.
-
-“Thank you for believing in me and I promise I will not stop fighting for the future we all deserve,” Premadasa said.
-
-...
-
-[Data](articles/1115ac6a.json)
-
-[Extended Data](ext_articles/1115ac6a.ext.json)
-
----
-
-### New Ministry Secretaries appointed
-
-*2024-09-25 04:47:30* · [`dailyftlk`](https://www.ft.lk/news/New-Ministry-Secretaries-appointed/56-767108) · `en`
-
-President Anura Kumara Dissanayake yesterday appointed new Secretaries for 15 Ministries, including Prime Minister’s and Cabinet Secretaries.
-
-3. K.D.S. Ruwanchandra – Secretary to the Ministry of Transport, Highways, Ports, and Civil Aviation
-
-4. K.M.M. Siriwardena – Secretary to the Ministry of Finance, Economic Development, Policy Formulation, Planning, and Tourism
-
-5. Aruni Wijewardena – Secretary to the Ministry of Foreign Affairs
-
-6. J.M.T. Jayasundara – Secretary to the Ministry of Education, Science and Technology
-
-7. K. Maheson – Secretary to the Ministry of Women, Children, Youth Affairs, and Sports
-
-8. M.M. Naimuddin – Secretary to the Ministry of Trade, Commerce, Food Security, Cooperative Development, Industry, and Entrepreneurship Development
-
-9. A.M.P.M.B. Atapattu – Secretary to the Ministry of Rural and Urban Development, Housing, and Construction
-
-10. Palitha Gunaratne Mahipala – Secretary to the Ministry of Health
-
-...
-
-[Data](articles/edbf498a.json)
-
-[Extended Data](ext_articles/edbf498a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 18:34:58**
+As of **2024-09-25 19:00:52**
 
 ## Newspaper Stats
 
-*Scraped **46,249** Articles*
+*Scraped **46,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,142 @@ colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,804
 dailyftlk | 3,074
-adalk | 4,263
+adalk | 4,264
 dailymirrorlk | 4,733
-adaderanalk | 5,442
-tamilmirrorlk | 6,186
+adaderanalk | 5,444
+tamilmirrorlk | 6,189
 virakesarilk | 7,389
-adaderanasinhalalk | 7,988
+adaderanasinhalalk | 7,989
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,244 (100.0%) of 46,249 articles have been extended.
+46,252 (100.0%) of 46,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### ”தொடர்ந்து அமைதியை நிலைநாட்டுங்கள்”
+
+*2024-09-25 18:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-அமைதியை-நிலைநாட்டுங்கள்/175-344455) · `ta`
+
+ஜனாதிபதித் தேர்தலின் போது செய்தது போன்று பொதுத் தேர்தலுக்கு முன்னரும் பின்னரும் அமைதியை பேணுமாறு பொதுமக்களை சுதந்திரமான மற்றும் நியாயமான தேர்தலுக்கான மக்கள் நடவடிக்கை (PAFFREL) இன்று வலியுறுத்தியுள்ளது.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி, எதிர்வரும் பொதுத் தேர்தலுக்கு விசேட ஆயத்தங்கள் எதுவும் தேவையில்லை எனவும், எனினும் கண்காணிப்பு நடவடிக்கைகள் வழமை போன்று தொடரும் எனவும் தெரிவித்தார்.
+
+"பொதுத் தேர்தலைக் கண்காணிப்பதற்கான அனைத்து ஏற்பாடுகளும் செய்யப்பட்டுள்ளன. ஜனாதிபதியாக யார் தேர்ந்தெடுக்கப்பட்டாலும் பொதுத் தேர்தல் நடத்தப்படும் என்பதை நாங்கள் தெளிவாக புரிந்துகொண்டோம். இருப்பினும், வேட்புமனு தாக்கல் காலத்தில் மாவட்ட அளவில் தேர்தல் கண்காணிப்பு நடவடிக்கைகள் தொடங்கும்," என்று அவர் கூறினார்.
+
+“ஜனாதிபதித் தேர்தலுக்கு முன்னும் பின்னும் தேர்தல் சட்ட மீறல்கள் எதுவும் பதிவாகவில்லை, இது நாட்டுக்கு சாதகமான அம்சமாகும்” என்றும் அவர் கூறினார்.
+
+...
+
+[Data](articles/9393232e.json)
+
+---
+
+### நிராகரிக்கப்பட்ட வாக்குகள் அதிகரித்தது ஏன்?
+
+*2024-09-25 18:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிராகரிக்கப்பட்ட-வாக்குகள்-அதிகரித்தது-ஏன்/175-344454) · `ta`
+
+அண்மையில் நடந்து முடிந்த ஜனாதிபதித் தேர்தலில் நிராகரிக்கப்பட்ட வாக்குகளின் எண்ணிக்கை அதிகரிப்பு குறித்து பகுப்பாய்வு நடத்தப்படும் என தேசிய தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+2024 ஜனாதிபதி தேர்தலில் 300,300 வாக்குகள் நிராகரிக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல் ரத்நாயக்க தெரிவித்தார், இது 2.2% ஆகும்.
+
+2019 ஜனாதிபதித் தேர்தலில், மொத்தம் 135,452 வாக்குகள் நிராகரிக்கப்பட்டன, இது 0.85% மற்றும் 2024 ஜனாதிபதித் தேர்தலில் பதிவான எண்ணிக்கையை விட குறைவாக இருந்தது.
+
+வாக்குகள் நிராகரிக்கப்பட்டதற்கான காரணங்களை பகுப்பாய்வு மூலம் கண்டறிய எதிர்பார்ப்பதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/df363ee6.json)
+
+---
+
+### 2024 General Election: Number of MPs elected from each district revealed
+
+*2024-09-25 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102266/2024-general-election-number-of-mps-elected-from-each-district-revealed) · `en`
+
+The Election Commission of Sri Lanka has issued a statement mentioning the number of Members of Parliament (MPs) to be elected from each district and the number of candidates in a nomination paper in the 2024 General Election.
+
+The highest number of MPs will be elected from the Gampaha District with a total of 19 members to be elected.
+
+General Election 2024 - Election Commission Statement by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/49de9e1f.json)
+
+---
+
+### General Election is a special announcement
+
+*2024-09-25 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201539) · `si`
+
+Elections Commission announces 2024 parliamentary election details: deposit requirements for independent groups, candidate nominations per district, and MP allocation. Gampaha district to elect the highest number of MPs (19).
+
+🟩
+
+The Elections Commission has announced the deposit of independent groups in connection with the 2024 parliamentary election and the number of candidates to be nominated by political parties or independents for each district.
+
+It also includes information on the number of MPs to be nominated by a nomination, number of MPs for electoral divisions.
+
+Accordingly, the highest number of MPs is to be elected by the Gampaha district. That number is 19.
+
+◼️
+
+[Data](articles/b23cdc6d.json)
+
+[Extended Data](ext_articles/b23cdc6d.ext.json)
+
+---
+
+### Fitch affirms Sri Lanka at ‘Restricted Default’
+
+*2024-09-25 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102265/fitch-affirms-sri-lanka-at-restricted-default) · `en`
+
+Fitch Ratings has affirmed Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) at ‘RD’ (Restricted Default) and Long-Term Local-Currency IDR at ‘CCC-’.
+
+Fitch typically does not assign Outlooks to issuers with a rating of ‘CCC+’ or below.
+
+The rating agency said sovereign remains in default on Sri Lanka’s foreign-currency obligations, while restructuring negotiations are ongoing with Sri Lanka’s private external creditors.
+
+“The authorities’ recent announcement that a preliminary debt restructuring agreement has been reached, in principle, with members of the steering committee of the Ad Hoc Group of Bondholders (representing foreign holders of Sri Lanka’s international sovereign bonds) and China Development Bank (A+/Negative) suggests progress is being made.”
+
+...
+
+[Data](articles/20d07bc0.json)
+
+---
+
+### “National People's Power will win the general election”
+
+*2024-09-25 18:19:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலில்-தேசிய-மக்கள்-சக்தி-வெற்றி-பெறும்/175-344453) · `ta`
+
+SP Dissanayake predicts NPP victory in general election, citing President Anura Kumara Dissanayake's leadership and government performance. He hopes for strong opposition to strengthen democracy.
+
+🟩
+
+Former Minister SP Dissanayake has expressed hope that President Anura Kumara Dissanayake and his government are likely to win in the upcoming general election.
+
+“I believe this government has the strength to fulfill the confidence of the people on the basis of the behavior of Anuragumara Dissanayake and his statements after the presidential election,” Dissanayake said.
+
+Dissanayake said he hoped not to prevent the progress of the current government and that the election victory in the general election would be difficult for other parties.
+
+“It will not be easy. We have a successful president to appoint a small cabinet from existing MPs and carry out the work of the government. ”
+
+Dissanayake has predicted that the National People's Power (NPP) will get at least 6.5 million votes in the upcoming general election.
+
+“NPP and JVP have now received that benefit. However, I hope it will be better if other parties come together to form a strong opposition to the election, ”Dissanayake added.
+
+◼️
+
+[Data](articles/b4516a91.json)
+
+[Extended Data](ext_articles/b4516a91.ext.json)
+
+---
 
 ### Interrogutation
 
@@ -99,6 +219,28 @@ A bond maturing on 15.06.2029 closed at 12.45/55 percent down from 13.20/28 perc
 [Data](articles/84d7d082.json)
 
 [Extended Data](ext_articles/84d7d082.ext.json)
+
+---
+
+### IMF. President guarantees head
+
+*2024-09-25 17:30:23* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ප්‍රධානීගෙන්-ජනපති-අනුරට-සහතිකයක්/11-412147) · `si`
+
+IMF MD Christenda Georgieva greets Sri Lanka's new president, reaffirming partnership and readiness to support development and reform goals.
+
+🟩
+
+The International Monetary Fund Managing Director Christenda Georgieva greeted the new presidency in Sri Lanka.
+
+Ms. Christendana Georgieva, a special greeting message to the President, has been continuing as a partner in Sri Lanka and intends to strengthen the mutual beneficial relationship between the International Monetary Fund and Sri Lanka.
+
+Mrs. Christenda Georgiyewa has also been assured that he is ready to provide the necessary support to achieve development and reforms goals in Sri Lanka.
+
+◼️
+
+[Data](articles/b83383a6.json)
+
+[Extended Data](ext_articles/b83383a6.ext.json)
 
 ---
 
@@ -1068,6 +1210,8 @@ Sri Lanka is heading for a general election in November. (Colombo/Sep25/2024)
 
 [Data](articles/a9e9ac53.json)
 
+[Extended Data](ext_articles/a9e9ac53.ext.json)
+
 ---
 
 ### New minister says passport queue to end by late Oct, weeks after similar assurance from dept
@@ -1085,6 +1229,8 @@ Speaking to ministry officials and the media after assuming duties on Tuesday Se
 ...
 
 [Data](articles/366ca70f.json)
+
+[Extended Data](ext_articles/366ca70f.ext.json)
 
 ---
 
@@ -1464,6 +1610,8 @@ Siriwardene was educated at Vanderbilt University of the US and Kelaniya Univers
 
 [Data](articles/c106fcc7.json)
 
+[Extended Data](ext_articles/c106fcc7.ext.json)
+
 ---
 
 ### Mother arrested for killing her daughter
@@ -1553,6 +1701,8 @@ In equities, Colombo’s All Share Price Index was trading 1.21 percent, or 137.
 ◼️
 
 [Data](articles/3c179bb8.json)
+
+[Extended Data](ext_articles/3c179bb8.ext.json)
 
 ---
 
@@ -2209,153 +2359,5 @@ The current economic situation of the country has been discussed with a number o
 [Data](articles/13e50385.json)
 
 [Extended Data](ext_articles/13e50385.ext.json)
-
----
-
-### US backs economically sustainable future after Sri Lanka man-made crisis: Foreign Relations Chair
-
-*2024-09-25 07:43:00* · [`economynextcom`](https://economynext.com/us-backs-economically-sustainable-future-after-sri-lanka-man-made-crisis-foreign-relations-chair-180884/) · `en`
-
-ECONOMYNEXT – The United States supported the people of Sri Lanka in their pursuit of “an inclusive, just, democratic, and economically sustainable future”, Chair of the Senate Foreign Relations Committee Ben Cardin has said.
-
-President Anura Kumara Dissanayake head of the National People’s Power coalition backed by the Janatha Vimukthi Peramuna came to power after a most severe currency collapse triggered by the central bank in its history, after printing money to target ‘potential output’, despite the lack of a clean float.
-
-“Millions of Sri Lankans peacefully exercised their democratic right in this weekend’s presidential election, demonstrating a deep and meaningful commitment to shaping their country’s path forward,” Cardin said in a statement.
-
-...
-
-[Data](articles/0c01ca78.json)
-
----
-
-### Several spells of showers expected in parts of the country
-
-*2024-09-25 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102251/several-spells-of-showers-expected-in-parts-of-the-country) · `en`
-
-The Department of Meteorlogy says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, North-western and Southern provinces and in Trincomalee, Matale and Monaragala districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/8914dacb.json)
-
-[Extended Data](ext_articles/8914dacb.ext.json)
-
----
-
-### President and the Central Bank domestic discussion
-
-*2024-09-25 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201519) · `si`
-
-President Anura Kumara Dissanayake and Central Bank Governor Dr. Nandalal Weerasinghe met at the Presidential Secretariat. Discussion focused on Sri Lanka's economic situation and government stabilization efforts. Finance Minister Mahinda Siriwardena attended.
-
-🟩
-
-President Anura Kumara Dissanayake and Central Bank Governor Dr. Nandalal Weerasinghe has held a discussion.
-
-The Government Information Department announced that Secretary of the Ministry of Finance Mahinda Siriwardena was also present.
-
-The discussion held at the Presidential Secretariat yesterday (24) will be discussed at length to the current economic situation of the country.
-
-The government's stabilization measures have also been discussed in the publication of the economy and the economy of the country.
-
-◼️
-
-[Data](articles/214cba52.json)
-
-[Extended Data](ext_articles/214cba52.ext.json)
-
----
-
-### President calls for nation today
-
-*2024-09-25 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201518) · `si`
-
-President Anura Kumara Dissanayake addresses nation today. First speech since presidency. Parliament dissolved. General election nominations open Oct 4-12. New Parliament meets Nov 21.
-
-🟩
-
-President Anura Kumara Dissanayake is due to address the nation today (25).
-
-The Presidential Media Unit announced that the President is due to call on the race at 7.30 am today.
-
-Anura Kumara Dissanayake won the 21st and Rs.
-
-This is the first time Anura Kumara Dissanayake addressing the race after being elected to the Presidency.
-
-Meanwhile, the gazette notification was issued to dissolve the Parliament yesterday (24).
-
-The Assistant Secretary of the President Anura Kumara Dissanayake says that the Parliament is dissolved by the Parliament that the Parliament will be dissolved by the Parliament No.
-
-Also, nominations of the general election will be taken to select the new Parliament to select the new Parliament from October 4th to 12 noon.
-
-Nominations will be accepted at the District Secretariats of 22 electorates.
-
-The 10th Parliament appointed by the General Election will meet on November 21.
-
-...
-
-[Data](articles/6dba9641.json)
-
-[Extended Data](ext_articles/6dba9641.ext.json)
-
----
-
-### SLASSCOM congratulates President Anura Kumara Dissanayake
-
-*2024-09-25 06:31:31* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-congratulates-President-Anura-Kumara-Dissanayake/34-767121) · `en`
-
-The Sri Lanka Association of Software and Services Companies (SLASSCOM) in a statement yesterday extended its heartfelt congratulations to President Anura Kumara Dissanayake on his election as the President of Sri Lanka.
-
-“Having handed over our strategic policy document “Igniting Knowledge, Inspiring Growth” to him prior to the elections, we are eager to continue working closely with his administration to ensure consistent and forward-looking policies for the growth of Sri Lanka’s Knowledge and Innovation (IT and BPM) sector.”
-
-“IT and BPM sector is a key driver of economic growth and a crucial pillar in Sri Lanka’s export economy boasting of a value addition of over 75%, making it a high-value sector capable of contributing significantly to the country’s economic development.”
-
-...
-
-[Data](articles/6fba4b23.json)
-
-[Extended Data](ext_articles/6fba4b23.ext.json)
-
----
-
-### Sri Lanka Gem and Jewellery Association congratulates President AKD; looks for progressive steps
-
-*2024-09-25 06:31:11* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Gem-and-Jewellery-Association-congratulates-President-AKD-looks-for-progressive-steps/34-767120) · `en`
-
-The Sri Lanka Gem and Jewellery Association (SLGJA), the apex body and the voice of the country’s gem and jewellery industry, in a statement yesterday extended heartfelt congratulations to Anura Kumara Dissanayake on being sworn in as the 9th President of the Democratic Socialist Republic of Sri Lanka.
-
-It said as an industry that has long been an integral part of Sri Lanka’s rich cultural heritage and economic strength, SLGJA is confident that under the new President’s visionary leadership, the nation will continue to thrive and reach new heights of prosperity. His commitment to progress, national unity, and the well-being of all Sri Lankans aligns closely with the values and aspirations of the Gem and Jewellery sector, which remains a foundation of both the country’s identity and its economy.
-
-...
-
-[Data](articles/65d960b0.json)
-
-[Extended Data](ext_articles/65d960b0.ext.json)
-
----
-
-### Chamber of Construction Industry congratulates President AKD, appeals for effective interventions
-
-*2024-09-25 06:30:51* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Construction-Industry-congratulates-President-AKD-appeals-for-effective-interventions/34-767119) · `en`
-
-Chamber of Construction Industry of Sri Lanka Secretary General/CEO Eng. Nissanka N. Wijeratne
-
-The Chamber of Construction Industry of Sri Lanka, statutorily established as the apex representative body of all stakeholders of the construction industry, yesterday extended its sincere congratulations to President Anura Kumara Dissanayake on his great victory as the ninth Executive President of Sri Lanka.
-
-The construction industry comprises many stakeholders including engineers, architects, quantity surveyors, valuers, land surveyors, town planners, contractors, consultants, real estate developers, material manufacturers and suppliers, machinery and equipment importers and hirers etc.
-
-The construction industry, in the past, contributed 8-10% to the GDP and provided employment to nearly 1.4 million, both direct and indirect. As such, 20% of our population is dependent on the construction industry.
-
-...
-
-[Data](articles/b7464739.json)
-
-[Extended Data](ext_articles/b7464739.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 20:57:35**
+As of **2024-09-25 21:09:56**
 
 ## Newspaper Stats
 
@@ -98,13 +98,11 @@ President Anura Kumara Dissanayake says that his government firmly believes that
 
 “Before implementing long-term and medium-term plans for that purpose, we will work to create a short-term stability through the immediate economic measures that are required,” he said, delivering his inaugural address to the nation on Wednesday (25).
 
-President Dissanayake says all steps needed for the expected change depend on building stability and trust in the economy.
+President Dissanayake says all steps needed for the expected change depend on building stability and trust in the economy. Therefore, discussions with the International Monetary Fund (IMF) will resume soon and the process of the Extended Fund Facility (EFF) will be advanced, he said.
 
-Therefore, discussions with the International Monetary Fund (IMF) will resume soon and the process of the Extended Fund Facility (EFF) will be advanced, he said.
+“The change we seek involves many steps that will take time. However, achieving stability and confidence in the current economy is crucial.”
 
-He further said that the debt restructuring process will continue, and steps will be taken to bring about debt relief as soon as possible through discussions with relevant parties.
-
-◼️
+...
 
 [Data](articles/37656ed9.json)
 
@@ -1244,13 +1242,25 @@ Thailand is one of the third country at the marriage of Samariya.
 
 *2024-09-25 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102262/new-governors-appointed-by-the-president) · `en`
 
-Several new provincial Governors have been appointed by President Anura Kumara Dissanayake.
+President Anura Kumara Dissanayake has appointed new governors for nine provinces.
 
-They were sworn in before the President at the Presidential Secretariat in Colombo, a short while ago.
+They were sworn in before the President at the Presidential Secretariat in Colombo on Wednesday (25).
 
-Central Province - Prof. Sarath Abeykoon (former Vice Chancellor, University of Peradeniya)
+• Mr. Sarath Bandara Samarasinghe Abayakon - Governor of the Central Province
 
-Northern Province - Nagalingam Vedanayagam (former Government Agent of Jaffna)
+• Mr. Bandula Harischandra - Governor of the Southern Province
+
+• Mr. Tissa Kumarasiri Warnasuriya - Governor of the North Western (Wayamba) Province
+
+• Mr. Wasantha Kumara Wimalasiri - Governor of the North Central Province
+
+• Mr. Nagalingam Vethanayagam - Governor of the Northern Province
+
+• Mr. Jayantha Lal Ratnasekara - Governor of the Eastern Province
+
+• Mrs. Champa Janaki Rajaratne - Governor of the Sabaragamuwa Province
+
+The President’s Secretary, Dr Nandika Sanath Kumanayake, was also present at the occasion.
 
 ◼️
 

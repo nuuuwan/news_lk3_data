@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 01:22:36**
+As of **2024-09-26 01:38:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,290 (100.0%) of 46,296 articles have been extended.
+46,293 (100.0%) of 46,296 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -176,6 +176,8 @@ The 55-year-old Dissanayake has demonstrated integrity and political savvy throu
 
 [Data](articles/5342b220.json)
 
+[Extended Data](ext_articles/5342b220.ext.json)
+
 ---
 
 ### Dialog Television Brings New Prepaid Channel Plans with even more channels
@@ -192,6 +194,8 @@ Dialog Television's latest reload channel plans offer more channels than ever be
 
 [Data](articles/d3c4630c.json)
 
+[Extended Data](ext_articles/d3c4630c.ext.json)
+
 ---
 
 ### Fed up of racist politics, corruption, and mismanagement
@@ -207,6 +211,8 @@ It all started since independence in 1948 from British rule when the country was
 ...
 
 [Data](articles/e90373f6.json)
+
+[Extended Data](ext_articles/e90373f6.ext.json)
 
 ---
 

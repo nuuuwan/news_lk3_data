@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 02:38:54**
+As of **2024-09-26 02:57:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,306 (100.0%) of 46,308 articles have been extended.
+46,308 (100.0%) of 46,308 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,6 +234,8 @@ Samarasinghe highlighted that this situation is a clear example of the misuse of
 
 [Data](articles/dc5bd85b.json)
 
+[Extended Data](ext_articles/dc5bd85b.ext.json)
+
 ---
 
 ### 2024 General Election: Number of MPs elected from each district revealed
@@ -251,6 +253,8 @@ It also includes information about the number of members to be elected for the r
 ◼️
 
 [Data](articles/47d24cdc.json)
+
+[Extended Data](ext_articles/47d24cdc.ext.json)
 
 ---
 

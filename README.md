@@ -1,36 +1,70 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 15:09:43**
+As of **2024-09-25 15:23:08**
 
 ## Newspaper Stats
 
-*Scraped **46,205** Articles*
+*Scraped **46,210** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 385
 bbccomsinhala | 455
-colombotelegraphcom | 461
+colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
-adalk | 4,257
+adalk | 4,259
 dailymirrorlk | 4,733
 adaderanalk | 5,438
 tamilmirrorlk | 6,179
-virakesarilk | 7,381
+virakesarilk | 7,383
 adaderanasinhalalk | 7,981
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,205 (100.0%) of 46,205 articles have been extended.
+46,210 (100.0%) of 46,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Harini Amarasuriya's trip
+
+*2024-09-25 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194766) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Harini Amarasuriya: From lecturer to PM. Ridiculed as JVP activist. Worked in war-torn areas. First female PM of Sri Lanka. No political background until 2020. Community health worker turned researcher. Concerned about politics affecting personal life. Changed JVP's image. Promises to build country, not bankrupt it.
+
+🟩
+
+He was ridiculed when he was working as a lecturer at the open university of Sri Lanka, like the Marxist JVP's activist.
+
+55 -year -old Harini, the youngest of a family of Colombo, has been sworn in as Sri Lanka's 16th prime minister.
+
+He is an alumnus of Bishop College. He considers it to be his father and is a gift.
+
+When he started working as a Community Health Officer in 1990, he worked in the middle of the war, half of the war, and the affected women.
+
+This made it a position to communicate with a wide range of people of the community, from professional experts to illiterate, from poor to wealthy, high groups to very poverty.
+
+She recently told Hari Television that I am the mother of the entire community even though I am not childish.
+
+She was the third woman prime minister of the world's oldest democracy, which elected his first female prime minister in 1960.
+
+...
+
+[Data](articles/b8fd61f2.json)
+
+[Extended Data](ext_articles/b8fd61f2.ext.json)
+
+---
 
 ### Court Explanation for Harsha
 
@@ -49,6 +83,74 @@ The Supreme Court today (25) issued a law of accusing the Immigration and Emigra
 [Data](articles/b73ddd1e.json)
 
 [Extended Data](ext_articles/b73ddd1e.ext.json)
+
+---
+
+### Sri Lanka squad against New Zealand is named Testtime
+
+*2024-09-25 14:42:27* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-ශ්‍රී-ලංකා-සංචිතය-නම්-කෙරේ---නවක-ක්‍රීඩකයෙකුට-ටෙස්ට්-වරම්/9-412143) · `si`
+
+Sri Lanka names squad for NZ Test series. Second match starts tomorrow at Galle. Nishan Peiris expected to lead team.
+
+🟩
+
+The second and final Test match between Sri Lanka and the Sri Lankan team will commence at Galle International Cricket Stadium tomorrow (25).
+
+Accordingly, the Sri Lankan squad is named tomorrow and Nishan Peiris will win Test for Sri Lanka tomorrow.
+
+◼️
+
+[Data](articles/835b255a.json)
+
+[Extended Data](ext_articles/835b255a.ext.json)
+
+---
+
+### Restoration of several vehicles used by former ministers and officials
+
+*2024-09-25 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194764) · `ta`
+
+New government recovers vehicles from former ministers and officials. President reduces allocation of vehicles to ministers and state officials.
+
+🟩
+
+Vehicles used by former ministers, diplomatic ministers, deputy ministers and secretaries of ministries have been recovered.
+
+It is noteworthy that the new government has been instructed to recapture the vehicles as the secretaries have been transferred to the ministries.
+
+President Anura Kumara Dissanayake has said that the number of vehicles allocated to ministers and state officials will be reduced.
+
+◼️
+
+[Data](articles/8cf2df45.json)
+
+[Extended Data](ext_articles/8cf2df45.ext.json)
+
+---
+
+### Political Impact of Investigation Officers in Exit Laboratory
+
+*2024-09-25 14:14:54* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යව-ප්‍රශ්න-පත්‍රය-පිටවීමේ-සිද්ධියේ-විමර්ශන-නිලධාරීන්ට-දේශපාලන-බලපෑම්/11-412141) · `si`
+
+Here's a 200-character summary:
+
+
+
+Investigation officers accused of misconduct in Anuradhapura District. Ceylon Teachers Union Chairman Priyantha Fernando calls for impartial probe into alleged cheating at Year 5 Scholarship Examination. Department of Examinations under scrutiny for handling of incident.
+
+🟩
+
+Minister of Education and the Principal and Teachers who have been accused of working in the Anuradhapura District and investigations into the officers of the Anuradhapura District and investigations have been charged for the officers who have banned and investigating the investigations into the accusation of the anniversary of the Year 5 Scholarship Scholarship Examination.Ceylon Teachers Union Chairman Priyantha Fernando requests from Mrs. Harani Amarasuriya.
+
+The mobile examinations of three have been taken into custody by the Department of Examinations (Tuis and Tuis) on the allegation of the question paper at the Year 5 scholarship examination.
+
+The Chairman of the Ceylon Teachers Union Priyantha Fernando expressed these views.
+
+...
+
+[Data](articles/8b13d882.json)
+
+[Extended Data](ext_articles/8b13d882.ext.json)
 
 ---
 
@@ -859,6 +961,20 @@ The Department of Government Information also stated that measures to stabilize 
 [Data](articles/8745ef6c.json)
 
 [Extended Data](ext_articles/8745ef6c.ext.json)
+
+---
+
+### W. Jayasiri: The Materiality Of Human Voice In Acting
+
+*2024-09-25 09:29:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/w-jayasiri-the-materiality-of-human-voice-in-acting/) · `en`
+
+In the dawn of 22nd of September 2024, when people in Sri Lanka were waiting to see the final results of the presidential election to select the 9th executive president, social media circulated an unexpected news that versatile actor, social activist, and author W. Jayasiri had passed away. W. Jayasiri intended to see a change in the current political system, which has been corrupted and spoiled for nearly 8 decades. Jayasiri was a supporter of democratic social transformations and a man who believed in a fair and just society. He cast his vote and said goodbye to us.
+
+...
+
+[Data](articles/d6e5911b.json)
+
+[Extended Data](ext_articles/d6e5911b.ext.json)
 
 ---
 
@@ -2169,107 +2285,5 @@ The President has issued the Gazette by virtue of the powers vested in him by Ar
 [Data](articles/929561e8.json)
 
 [Extended Data](ext_articles/929561e8.ext.json)
-
----
-
-### Arpico Mattress hosts 2024 Top Dealer Awards, unveiling three new mattresses to herald future achievements
-
-*2024-09-24 22:55:00* · [`islandlk`](http://island.lk/arpico-mattress-hosts-2024-top-dealer-awards-unveiling-three-new-mattresses-to-herald-future-achievements/) · `en`
-
-Arpico, being the leading trailblazer of Sri Lanka’s mattress industry, hosted an event celebrating outstanding achievements in the Polyurethane sector.
-
-Recently held at the Colombo Monarch Imperial Hotel, the awards ceremony, hosted by Arpico Mattress, recognised the efforts of 150 chosen dealers. The Dealer Awards occupies a special place in the events calendar of Arpico’s Local Manufacturing and Distribution sector. This edition featured over 150 dealers with who have accumulated impressive sales numbers for the company.
-
-The gift and awards categories ranged from Silver to Gold and Platinum. The prizes offered included sponsored tours. The tour allocated to the Silver Category was between Malaysia and Bangkok. The Gold Category tours included Bangkok, Pattaya and Dubai. The Platinum Category included Philippines and Vietnam. Also included with the tour are certificates and plaques commemorating the winners’ efforts.
-
-...
-
-[Data](articles/0239930a.json)
-
-[Extended Data](ext_articles/0239930a.ext.json)
-
----
-
-### Rotary Club of Colombo Mid Town celebrates 50 years with a vision for community impact
-
-*2024-09-24 22:54:00* · [`islandlk`](http://island.lk/rotary-club-of-colombo-mid-town-celebrates-50-years-with-a-vision-for-community-impact/) · `en`
-
-On August 23, 2024, the Rotary Club of Colombo Mid Town commemorated a remarkable milestone with its 50th installation ceremony, held at Elevate by Jetwing. The event, which saw over 90 attendees, celebrated the club’s five decades of unwavering dedication to community service.
-
-The ceremony was honored by the presence of Rtn. Sushena Ranathunga, District Governor of District 3220, who lauded the club’s impressive achievements throughout its history. In his address, he urged members to maintain their steadfast commitment to making a positive difference in society.
-
-...
-
-[Data](articles/0685bfd3.json)
-
-[Extended Data](ext_articles/0685bfd3.ext.json)
-
----
-
-### November 14 General Elections
-
-*2024-09-24 22:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பர்-14-பொதுத்தேர்தல்/175-344413) · `ta`
-
-General Elections on November 14: Parliament dissolved. New session begins on November 21.
-
-🟩
-
-Parliament is currently dissolved. The General Elections will be held on the 14th. The virginity of the new Parliament will be held on the 21st.
-
-◼️
-
-[Data](articles/c55c13ea.json)
-
-[Extended Data](ext_articles/c55c13ea.ext.json)
-
----
-
-### November 14 General Elections
-
-*2024-09-24 22:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/நவம்பர்-14-பொதுத்தேர்தல்/150-344413) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka: Nov 14 general elections announced. Parliament dissolved. New session starts Nov 21. Nomination period Oct 4-11.
-
-🟩
-
-The gazette notification was released with the signing of President Anura Kumara Dissa Nayaka to dissolve parliament.
-
-Accordingly, the parliamentary elections will be held on the 14th of November and the new parliamentary session begins on November 21.
-
-It is also reported that nominations for the parliamentary election will be accepted from October 4 to 11. (A)
-
-◼️
-
-[Data](articles/c7dcb3d2.json)
-
-[Extended Data](ext_articles/c7dcb3d2.ext.json)
-
----
-
-### Parliament dissolved - General Election November 14
-
-*2024-09-24 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201514) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Parliament dissolved: General Election set for Nov 14. President announces dissolution effective midnight. Nominations open Oct 4, 12 PM cutoff.
-
-🟩
-
-The President has decided to dissolve Parliament from midnight today.
-
-Accordingly, the nominations are to be accepted on the 4th of October to 12 afternoon.
-
-◼️
-
-[Data](articles/73e67973.json)
-
-[Extended Data](ext_articles/73e67973.ext.json)
 
 ---

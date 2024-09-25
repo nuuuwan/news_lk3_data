@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 01:38:44**
+As of **2024-09-26 01:57:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,293 (100.0%) of 46,296 articles have been extended.
+46,294 (100.0%) of 46,296 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -229,6 +229,8 @@ The arithmetic clearly tells us that it was Ranil Wickremesinghe’s ‘dog-in-t
 ...
 
 [Data](articles/69edf500.json)
+
+[Extended Data](ext_articles/69edf500.ext.json)
 
 ---
 

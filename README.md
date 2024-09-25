@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 22:56:41**
+As of **2024-09-25 23:09:09**
 
 ## Newspaper Stats
 
-*Scraped **46,276** Articles*
+*Scraped **46,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 462
 islandlk | 2,705
 economynextcom | 2,804
 dailyftlk | 3,074
-adalk | 4,269
+adalk | 4,271
 dailymirrorlk | 4,733
-adaderanalk | 5,446
+adaderanalk | 5,447
 tamilmirrorlk | 6,194
 virakesarilk | 7,392
 adaderanasinhalalk | 7,994
@@ -26,11 +26,29 @@ adaderanasinhalalk | 7,994
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,276 (100.0%) of 46,276 articles have been extended.
+46,276 (100.0%) of 46,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Sri Lanka’s credit risks could stay ‘elevated’ for some time - Moody’s
+
+*2024-09-25 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102269/sri-lankas-credit-risks-could-stay-elevated-for-some-time-moodys) · `en`
+
+Pledges by Sri Lanka’s new President Anura Kumara Dissanayake to cut taxes and make changes to the country’s International Monetary Fund bailout could keep the country’s credit risks elevated for some time, rating agency Moody’s has said.
+
+“We do not expect significant disruption to the country’s reform agenda or macroeconomic policies, which include the ongoing debt restructuring and structural adjustments under its programme with the International Monetary Fund (IMF),” Moody’s said,
+
+“However, some policies are likely to be reprioritised amid challenges in maintaining fiscal consolidation that could keep credit risks elevated for some time.”
+
+Since its default in 2022, Sri Lanka has implemented various steps to restore fiscal sustainability, such as raising VAT and corporate tax rates and lowering personal tax-free allowances.
+
+...
+
+[Data](articles/65aab7fb.json)
+
+---
 
 ### Moody's downfront from Sri Lanka
 
@@ -384,6 +402,22 @@ Special officials of the Commission to investigate bribery or corruption from Co
 
 ---
 
+### විධායක ජනපතිධුරය අහෝසි කරන්න සහාය දෙනවා
+
+*2024-09-25 18:59:25* · [`adalk`](https://www.ada.lk/breaking_news/විධායක-ජනපතිධුරය-අහෝසි-කරන්න-සහාය-දෙනවා/11-412155) · `si`
+
+ජාතික ජන බලවේගය පවසන ලෙසට විධායක ජනාධිපති ධුරය අහෝසි කරන්නේනම්, ගතවන දින කිහිපය ඊට සුදුසුම වේලාව යැයි ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි ජාතික සංවිධායක නාමල් රාජපක්ස මහතා පැවසීය.
+
+ඔහු සඳහන් කර සිටියේ, තම පක්ෂයේ හා තමාගේ සම්පූර්ණ සහයෝගය ඊට ලබාදෙන බවයි.
+
+1994 සිට මේ දක්වා විධායක ජනාධිපති ධුරය අහෝසි කරන බවට සියලු ජනාධිපතිවරු පැවසුවත්, එසේ විධායක ජනාධිපති ධුරය අහෝසි කිරීමට කිසිවකු කටයුතු නොකළ බවද පෙන්වා දුන් රාජපක්ෂ මහතා, විධායක ජනාධිපති ධුරය අහෝසි කරන්නේනම් හොඳම වෙලාව පත්වී ආසන්න දිනක බවද පැවසීය.
+
+◼️
+
+[Data](articles/f1e22eed.json)
+
+---
+
 ### President addresses nation tonight
 
 *2024-09-25 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201540) · `si`
@@ -487,6 +521,18 @@ The Election Commission said it was expecting to detect the reasons for the reje
 [Data](articles/df363ee6.json)
 
 [Extended Data](ext_articles/df363ee6.ext.json)
+
+---
+
+### විදේශ අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+
+*2024-09-25 18:32:51* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-412152) · `si`
+
+ලෙබනනයේ සහ ඊශ්‍රායලයේ පවතින වහා වෙනස්වනසුලු තත්ත්වය සැලැකිල්ලට ගනිමින් බෙයිරූට් නුවර සහ ටෙල් අවිව් නුවර ඇති ශ්‍රී ලංකා තානාපති කාර්යාල දැඩි සෝදිසියෙන් පසුවන අතර, ප්‍රහාර එල්ල වන ප්‍රදේශවල වාසය කරන ශ්‍රී ලාංකිකයන්ගේ ආරක්ෂාව තහවුරු කිරීම සඳහා කටයුතු කරමින් සිටින බව විදේශ කටයුතු අමාත්‍යාංශය විශේෂ නිවේදනයක් නිකුත් කරමින් පවසයි. මෙතෙක් එම ප්‍රහාරවලින් කිසිදු ශ්‍රී ලාංකිකයකුට හානියක් සිදුවී නොමැති බවද අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/da8becd9.json)
 
 ---
 
@@ -2359,75 +2405,5 @@ The Government Information Department said that the measures to improve the econ
 [Data](articles/52d1c4e7.json)
 
 [Extended Data](ext_articles/52d1c4e7.ext.json)
-
----
-
-### Two representatives from Sri Lanka to the women's 20 -20 World Cup
-
-*2024-09-25 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201524) · `si`
-
-Sri Lanka representatives Michelle Perera (umpire) and Nimali Perera (judge) selected for Women's 20-20 World Cup starting October 3.
-
-🟩
-
-Two Sri Lankans are among the 20th Women's World Cup, which will commence on October 3.
-
-Michelle Perera is acting as a referendum and Nimali Perera has been named as a judge
-
-For the 9th consecutive year, 10 officials selected from the World Cup around the world cricket players have the opportunity.
-
-The Women's Twenty20 and Twenty T20 World Cup will be held from October 3 to October 3.
-
-◼️
-
-[Data](articles/1fac59cf.json)
-
-[Extended Data](ext_articles/1fac59cf.ext.json)
-
----
-
-### Shooting a bus in South Sududa
-
-*2024-09-25 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201523) · `si`
-
-South Sudan: Gunmen attack bus in Juba, killing one, injuring eight. Passenger bus targeted, set on fire. Seven kidnapped. Civil war ongoing despite peace agreement. Country remains unstable.
-
-🟩
-
-The gunmen were attacked by the gunmen in the Juta capital of South Sudan.
-
-Foreign media reports that an Uguda has been killed and 8 others were injured in the attack.
-
-A passenger bus was targeting the attack on Kampala yesterday morning (24) and the bus was completely burning after shooting.
-
-Foreign media has abducted seven persons on the passenger bus, foreign media.
-
-Although a peace agreement is implemented to end the civil war over the civil war over the many years in South Sudu, many regions of the country have become unprotected matters.
-
-◼️
-
-[Data](articles/6b54756c.json)
-
-[Extended Data](ext_articles/6b54756c.ext.json)
-
----
-
-### The driver's talent avoid danger
-
-*2024-09-25 09:49:37* · [`adalk`](https://www.ada.lk/breaking_news/රියදුරගේ-දක්ෂතාවයෙන්-විශාල-අනතුරක්-වැළකෙයි/11-412135) · `si`
-
-Driver's skill prevents crash: SLTB bus traveling from Randenhowa to Wellawaya avoids accident, disabling vehicle prevents injuries.
-
-🟩
-
-A SLTB bus ranked from Randenhowa to Wellawaya to Wellawaya, a crash was able to prevent the harm to the Wellawaya.
-
-The accident had been prevented when the bus was disabled and controlled by the bus.No one has been injured in the accident.
-
-◼️
-
-[Data](articles/73b00122.json)
-
-[Extended Data](ext_articles/73b00122.ext.json)
 
 ---

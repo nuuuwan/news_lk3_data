@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 14:24:42**
+As of **2024-09-25 14:38:24**
 
 ## Newspaper Stats
 
-*Scraped **46,202** Articles*
+*Scraped **46,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 461
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
-adalk | 4,256
+adalk | 4,257
 dailymirrorlk | 4,733
 adaderanalk | 5,438
 tamilmirrorlk | 6,178
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,981
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,202 (100.0%) of 46,202 articles have been extended.
+46,203 (100.0%) of 46,203 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -311,6 +311,34 @@ It is reported that nine governors will be appointed today.
 [Data](articles/fcc13d29.json)
 
 [Extended Data](ext_articles/fcc13d29.ext.json)
+
+---
+
+### The internal telephone system of the Holy Phone System is inactive for 2 months
+
+*2024-09-25 11:53:17* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂා-රෝහලේ-අභ්‍යන්තර-දුරකථන-පද්ධතිය-මාස-2ක්-තිස්සේ-අක්‍රීයයි/11-412137) · `si`
+
+Holy Phone System inactive for 2 months due to Ministry of Health issues. Hospital staff struggle without internal communication. Private phones used temporarily. Patients unable to contact morgue. Laboratory and surgical delays reported. Authorities urged to restore system. Telecom informed of issue, awaiting resolution.
+
+🟩
+
+Hospital sources said that the internal telephone system of the hospital was unemployed since a rope of the health ministry of the Ministry of Health.
+
+According to the sources, the staff of the essential care unit, laboratory, the laboratory, the laboratory, the laboratory, and the operating theater have been severely difficult.
+
+It is said that this difficulty is about two months, and it is only the office that the office can only be addressed to any other unit.
+
+It is said that the internal communication facilities are provided with private mobile phones and no payment to do so.
+
+If a patient who is receiving treatment at the wards, it is impossible to connect at least the morgue.
+
+Sources say that it has been severely hindered to obtain laboratory facilities, to obtain the laboratory facilities to take to the operation for surgery for surgery.
+
+...
+
+[Data](articles/33c2b173.json)
+
+[Extended Data](ext_articles/33c2b173.ext.json)
 
 ---
 
@@ -2227,19 +2255,5 @@ DFCC Bank has made history again by successfully concluding Sri Lanka’s first-
 [Data](articles/188fa1fc.json)
 
 [Extended Data](ext_articles/188fa1fc.ext.json)
-
----
-
-### Centrum Marine Consultancy and Döhle (IOM) announce strategic partnership to boost Sri Lanka’s maritime industry
-
-*2024-09-24 22:33:00* · [`islandlk`](http://island.lk/centrum-marine-consultancy-and-dohle-iom-announce-strategic-partnership-to-boost-sri-lankas-maritime-industry/) · `en`
-
-Centrum Marine Consultancy, the rising leader in Marine HR solutions in Sri Lanka, has announced a strategic partnership with Döhle (IOM) Limited, a renowned global maritime services provider and part of the Döhle Group. This collaboration has resulted in the formation of a joint venture, Doehle Marine Lanka Pvt Ltd, with the goal of significantly increasing employment opportunities for Sri Lankan seafarers in the global maritime industry.
-
-...
-
-[Data](articles/716f6ae2.json)
-
-[Extended Data](ext_articles/716f6ae2.ext.json)
 
 ---

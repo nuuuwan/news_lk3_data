@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 09:12:52**
+As of **2024-09-25 09:24:04**
 
 ## Newspaper Stats
 
-*Scraped **46,157** Articles*
+*Scraped **46,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 459
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
-adalk | 4,249
+adalk | 4,250
 dailymirrorlk | 4,733
-adaderanalk | 5,430
-tamilmirrorlk | 6,167
+adaderanalk | 5,431
+tamilmirrorlk | 6,169
 virakesarilk | 7,374
 adaderanasinhalalk | 7,973
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 7,973
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,145 (100.0%) of 46,157 articles have been extended.
+46,153 (100.0%) of 46,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### President to address the nation today
+
+*2024-09-25 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102253/president-to-address-the-nation-today) · `en`
+
+President Anura Kumara Dissanayake is expected to make a special statement while addressing the nation at 7:30 pm today (25 September), according to the Department of Government Information.
+
+He was sworn into office on Monday after a landslide victory in the weekend’s presidential polls, where he defeated 38 other candidates and garnered over 5.6 million or 42.3 percent of the votes.
+
+During the election campaign, Dissanayake vowed to dissolve Parliament and call for snap elections. The present Parliament’s five-year term ends in August next year.
+
+The Extraordinary Gazette notification issued by President Anura Kumara Dissanayake, dissolving the Parliament of Sri Lanka effective from midnight yesterday (24), has been published by the Department of Government Printing.
+
+...
+
+[Data](articles/019b6c28.json)
+
+---
+
+### மீண்டும் புலமைப்பரிசில் பரீட்சை?
+
+*2024-09-25 09:00:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-புலமைப்பரிசில்-பரீட்சை/175-344423) · `ta`
+
+புலமைப்பரிசில் பரீட்சையின் முதலாம் பகுதி வினாத்தாள் கசிந்த நிலையில், குறித்த பரீட்சையை மீண்டும் நடத்துவதா இல்லையா என்பது குறித்து இந்த வாரத்திற்குள் தீர்மானம் எடுக்க பரீட்சைகள் திணைக்களம் தீர்மானித்துள்ளது.
+
+சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்டு வரும் குற்றப் புலனாய்வுத் திணைக்களத்திடம் இருந்து இதுவரை இடைக்கால அறிக்கையை புலனாய்வுத் திணைக்களம் பெற்றுக் கொள்ளாதமையே அந்த முடிவை எடுப்பதில் தாமதமாகும்.
+
+கூறப்படும் பிரச்சினைகளை விவாதித்த ஆசிரியர் தலைமறைவாகியுள்ளதால் சம்பவம் தொடர்பான விசாரணைகளில் தாமதம் ஏற்பட்டுள்ளது.
+
+இதேவேளை, சப்ரகமுவ மாகாணத்தில் உள்ள பாடசாலை ஒன்றில் இருந்து பரீட்சை திணைக்களத்திற்கு வந்து தற்போது ஓய்வு பெற்ற அதிகாரி ஒருவர், எட்டு வருடங்களாக பணத்திற்கு வினாத்தாள்களை விற்பனை செய்து வந்ததை புலனாய்வு பிரிவினர் தற்போது கண்டுபிடித்துள்ளதாகவும் தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/749f1f9b.json)
+
+---
 
 ### Youth missing in white river
 
@@ -47,6 +83,24 @@ A youth drowns in the White River near the Matale Police Division in Matale Poli
 [Data](articles/a9a65c7e.json)
 
 [Extended Data](ext_articles/a9a65c7e.ext.json)
+
+---
+
+### ஜனாதிபதி வேட்பாளர்களுக்கு பறந்த முக்கிய அறிவிப்பு
+
+*2024-09-25 08:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வேட்பாளர்களுக்கு-பறந்த-முக்கிய-அறிவிப்பு/175-344422) · `ta`
+
+ஜனாதிபதித் தேர்தலில் போட்டியிட்ட அனைத்து வேட்பாளர்களும், எதிர்வரும் 13ஆம் திகதிக்கு முன்னர், தேர்தல் ஆணைக்குழுவிடம் தமது பிரசார செலவுப் பட்டியலை சமர்ப்பிக்க வேண்டும் என தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தல் முடிவுகள் வெளியான 21 நாட்களுக்குள் அது தொடர்பான அறிக்கையை ஆணைக்குழுவில் சமர்ப்பிக்குமாறு 38 வேட்பாளர்களுக்கும் அறிவிக்கப்பட்டுள்ளதாகவும் அவர் கூறினார்.
+
+தேர்தல் ஆணையத்திடம் அறிக்கைகள் வழங்கப்பட்ட பிறகு, அவை பொதுமக்களின் பார்வைக்கு வைக்கப்படும் என்றும், தவறான செலவு அறிக்கைகள் இருந்தால், சரிபார்க்கக்கூடிய ஆவணங்களுடன்  யார் வேண்டுமானாலும் பொலிஸில் முறைப்பாடு செய்யலாம் என்றும் தேர்தல் ஆணையம் கூறுகிறது.
+
+ஜனாதிபதி தேர்தலில் போட்டியிடும் வேட்பாளர் வாக்காளர் ஒருவருக்கு செலவிடும் தொகை 109 ரூபா என தேர்தல்கள் ஆணைக்குழு தீர்மானித்துள்ளது. அதன்படி, ஒரு கோடியே எழுபத்து ஒரு லட்சத்து நாற்பதாயிரத்து முந்நூற்று ஐம்பத்து நான்கு (17,140,354) வாக்காளர்களுக்கு ஒரு வேட்பாளர் பிரச்சாரச் செலவுக்கு செலவிடக்கூடிய அதிகபட்ச வரம்பு 186 கோடி ரூபாய் என குறிப்பிடப்படுகின்றது. R
+
+◼️
+
+[Data](articles/9a0a2cbd.json)
 
 ---
 
@@ -175,6 +229,20 @@ New President Anura Kumara Dissanayake held a high -level meeting with Central B
 [Data](articles/1d940386.json)
 
 [Extended Data](ext_articles/1d940386.ext.json)
+
+---
+
+### ජනපති, මහ බැංකු අධිපති හා මුදල් අමාත්‍යාංශ ලේකම් අතර විශේෂ සාකච්ඡාවක්
+
+*2024-09-25 07:43:13* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති--මහ-බැංකු-අධිපති-හා-මුදල්-අමාත්‍යාංශ-ලේකම්-අතර-විශේෂ-සාකච්ඡාවක්/11-412133) · `si`
+
+ජනපති අනුර කුමාර දිසානායක, මහ බැංකු අධිපති ආචාර්ය නන්දලාල් විරසිංහ හා මුදල් අමාත්‍යාංශ ලේකම් මහින්ද සිරිවර්ධන මහතා අතර ඊයේ පස්වරුවේ විශේෂ සාකච්ඡාවක් පවත්වි තිබේ.
+
+මෙහිදී රටේ වත්මන් ආර්ථික තත්ත්වය, ආර්ථිකය ස්ථාවර කිරිමේ ක්‍රියාමාර්ග ඇතුළු රටේ ආර්ථිකයට බලපාන කරුණු රාශයක් පිළිබඳව සාකච්ඡාවට බදුන් වි තිබේ.
+
+◼️
+
+[Data](articles/13e50385.json)
 
 ---
 
@@ -900,15 +968,21 @@ He said that when the Israeli security forces attacked, he and wife were living 
 
 ---
 
-### வட மாகாண ஆளுநராக வேதநாயகன் நியமனம்
+### Vedanayagan appoints as Governor of the Northern Province
 
 *2024-09-25 01:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-ஆளுநராக-வேதநாயகன்-நியமனம்/175-344416) · `ta`
 
-வடக்கு மாகாண ஆளுநராக யாழ்ப்பாணம் மாவட்ட முன்னாள் அரச அதிபர் நாகலிங்கம் வேதநாயகன் நியமிக்கப்பட்டுள்ளார்.
+Nagalingam Vedanayakan, former Jaffna District President, appointed Governor of Northern Province.
+
+🟩
+
+Former Jaffna District President Nagalingam Vedanayakan has been appointed as the Governor of the Northern Province.
 
 ◼️
 
 [Data](articles/f7d19716.json)
+
+[Extended Data](ext_articles/f7d19716.ext.json)
 
 ---
 
@@ -982,19 +1056,25 @@ It is reported that the Gazette to dissolve Parliament from midnight on Tuesday 
 
 ---
 
-### පාර්ලිමේන්තුව විසුරුවා හරියි
+### Disassemnes Parliament
 
 *2024-09-24 23:07:35* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-විසුරුවා-හරියි/11-412132) · `si`
 
-මෙරට 9 වැනි පාර්ලිමේන්තුව විසුරුවා හැරිමට අදාළ ගැසට් නිවේදනය ජනපති අනුර කුමාර දිසානායක මහතාගේ අත්සනින් නිකුත් කෙරිණි. ජනපතිවරයා පසුගිය ජනපතිවරණයේදි ලබාදුන් පොරොන්දු අනුව මෙම විසුරුවා හැරිම සිදු කෙරිණි.
+Sri Lanka: President dissolves Parliament, new elections set for Nov 21. Nomination period Oct 4-11. Last Parliament dissolved after 2019 election.
 
-මේ අනුව නව පාර්ලිමේන්තුව ලබන නොවැම්බර් මස 21 වැනිදා රැස්විමට නියමිත අතර පාර්ලිමේන්තු මැතිවරණය නොවැම්බර් මස 14 දා පැවැත්වීමට නියමිතය.
+🟩
 
-මැතිවරණය වෙනුවෙන් නාම යෝජනා කැඳවීම ඔක්තෝබර් මස 4 දා සිට 11 දා දක්වා සිදු කෙරෙයි. පාර්ලිමේන්තුව විසුරුවා හැරිමෙන් පසුව එහි සියලුම මන්ත්‍රීවරුන්ගේ ධුර අහෝසිවිය.
+President Anura Kumara Dissanayake released the gazette notification to dissolve Parliament in Sri Lanka. The dissolved was the dissolved in the last presidential election.
+
+The new Parliament will be held on November 21, and the parliamentary elections will be held on November 14.
+
+Nomination call for election is done from October 4 to 11. After the dissolution of parliament, the post of elections of all MPs was abolished.
 
 ◼️
 
 [Data](articles/73d5954d.json)
+
+[Extended Data](ext_articles/73d5954d.ext.json)
 
 ---
 
@@ -1033,6 +1113,8 @@ The gift and awards categories ranged from Silver to Gold and Platinum. The priz
 ...
 
 [Data](articles/0239930a.json)
+
+[Extended Data](ext_articles/0239930a.ext.json)
 
 ---
 
@@ -1156,6 +1238,8 @@ DFCC Bank has made history again by successfully concluding Sri Lanka’s first-
 
 [Data](articles/188fa1fc.json)
 
+[Extended Data](ext_articles/188fa1fc.ext.json)
+
 ---
 
 ### Centrum Marine Consultancy and Döhle (IOM) announce strategic partnership to boost Sri Lanka’s maritime industry
@@ -1167,6 +1251,8 @@ Centrum Marine Consultancy, the rising leader in Marine HR solutions in Sri Lank
 ...
 
 [Data](articles/716f6ae2.json)
+
+[Extended Data](ext_articles/716f6ae2.ext.json)
 
 ---
 
@@ -1181,6 +1267,8 @@ Amid those developments both local and foreign investors adopted a wait- and- se
 ...
 
 [Data](articles/bdff402b.json)
+
+[Extended Data](ext_articles/bdff402b.ext.json)
 
 ---
 
@@ -1476,17 +1564,29 @@ During the election campaign, Dissanayake vowed to dissolve Parliament if he win
 
 ---
 
-### කතරගම දෙටගමුව සුරා සැල මගේ නෙමෙයි
+### Kataragama Suramuna, not mine
 
 *2024-09-24 20:08:46* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-දෙටගමුව-සුරා-සැල-මගේ-නෙමෙයි/11-412130) · `si`
 
-“කතරගම දෙටගමුවේ තියෙන සුරා සැල මා විසින් කරගෙන යන එකක් කියා චෝදනා එල්ල කර තිබුණා.මේක තනිකරම අසත්‍යයක්.මගෙන් කිසිදු විමසීමක්වත් නොකර ඒ බව පුවත් පත්වල පවා පළ කරලා තිබුණා.මේ සම්බන්ධයෙන් මගේ දැඩි අප්‍රසාදය පළකරනවා”  හම්බන්තොට දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී නියෝජ්‍ය කතානායක අජිත් රාජපක්ෂ මහතා ඊයේ (24දා) අද කළ විමසීමකදී පැවසීය.
+Kataragama dispute: New Suraa area opens, Dhamma schools closed due to objections from Maha Sangha. Deputy Speaker Ajith Rajapaksa involved. Alcohol sales in sacred areas criticized.
 
-කතරගම, දෙටගමුව ප්‍රදේශයේ නව සුරා සැලක් විවෘත කිරීමත් සමග මහා සංඝ රත්නය විසින් ඊට විරෝධය පළකරමින් එය වසා දමන තෙක් ප්‍රදේශයේ දහම් පාසැල් වසා තැබීමට 23 දින තීරණය කර තිබේ. මෙම සුරාසැල ආරම්භ කිරීම සම්බන්ධයෙන් චෝදනා එල්ලවී ඇත්තේ හම්බන්තොට දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී හා නියෝජ්‍ය කතානායක අජිත් රාජපක්ෂ මහතාටය.ඒ අනුව මේ සම්බන්ධයෙන් අප නියෝජ්‍ය කතානායක අජිත් රාජපක්ෂ මහතාගෙන් සිදු කළ විමසිමකට ප්‍රතිචාර දක්වමින් ඔහු වැඩිදුරටත් මෙසේද පැවසීය.
+🟩
+
+"Kataragama's resuping was accused of being carried out.He said yesterday (24) in response to yesterday.
+
+The opening of a new Suraa area in Kataragama has decided to cover up the Dhamma schools in the area until the Maha Sangha has objected to it and close it.. He has been charged with Hambantota District and Deputy Speaker Ajith Rajapaksa in response to the deputy speaker in this regard.
+
+"Kataragama I don't have an area of ​​an area. I have nothing to do with the Surpa Skatagama holding in Kataragama.Four bars on the sacred area are publicly selling arrack.
+
+It is amazing that they do not have any protest.
+
+Without this, there is a joke that the opposition is targeting the newspaper, but this is not the case..But I take legal action in order to publish my name without any inquiry.
 
 ...
 
 [Data](articles/6495a2e5.json)
+
+[Extended Data](ext_articles/6495a2e5.ext.json)
 
 ---
 
@@ -2189,99 +2289,5 @@ The Presidential Media Unit said that the new Prime Minister's Secretary, Cabine
 [Data](articles/52ec136d.json)
 
 [Extended Data](ext_articles/52ec136d.ext.json)
-
----
-
-### New Secretaries appointed for 15 ministries including PM’s Secretary
-
-*2024-09-24 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102247/new-secretaries-appointed-for-15-ministries-including-pms-secretary) · `en`
-
-New Secretaries have been appointed for 15 ministries, including the positions of Prime Minister’s Secretary and Cabinet Secretary, according to the President’s Media Division (PMD).
-
-3. Mr. K.D.S. Ruwanchandra - Secretary to the Ministry of Transport, Highways, Ports, and Civil Aviation
-
-4. Mr. K.M.M. Siriwardena - Secretary to the Ministry of Finance, Economic Development, Policy Formulation, Planning, and Tourism
-
-5. Mrs. Aruni Wijewardena - Secretary to the Ministry of Foreign Affairs
-
-6. Ms. J.M.T. Jayasundara - Secretary to the Ministry of Education, Science and Technology
-
-7. Mr. K. Maheson - Secretary to the Ministry of Women, Children, Youth Affairs, and Sports
-
-8. Mr. M.M. Naimuddin - Secretary to the Ministry of Trade, Commerce, Food Security, Cooperative Development, Industry, and Entrepreneurship Development
-
-9. Mr. A.M.P.M.B. Atapattu - Secretary to the Ministry of Rural and Urban Development, Housing, and Construction
-
-...
-
-[Data](articles/002208ef.json)
-
-[Extended Data](ext_articles/002208ef.ext.json)
-
----
-
-### Work with President Anura's government. Ready
-
-*2024-09-24 18:09:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුරගේ-රජය-සමග-වැඩ-කරන්න-අයි-එම්-එෆ්--සූදානම්/11-412118) · `si`
-
-IMF ready to work with Sri Lanka's new government under President Anura Kumara Dissanayake. Discusses next review and future payments. Action planned for discussing timeline for third payment period.
-
-🟩
-
-IMF is ready to work closely with the new government of President Anura Kumara Dissanayake on Tuesday and is ready to discuss the next review of Sri Lanka.Said.
-
-The next installment of the next premium will be received as the next installment as the next installment of the next premium of the International Monetary Fund.
-
-The fund also said that action will be taken to discuss the time framework regarding the third period of time.
-
-◼️
-
-[Data](articles/bf712e67.json)
-
-[Extended Data](ext_articles/bf712e67.ext.json)
-
----
-
-### Unfulfilled Demands Of Aragalaya Channeled Into Democratic Change
-
-*2024-09-24 18:09:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unfulfilled-demands-of-aragalaya-channeled-into-democratic-change/) · `en`
-
-The extraordinary events that took place during 2022 have reached their denouement at the recently concluded presidential election. The Aragalaya protests that lasted for over three months in the middle of 2022 that were spearheaded by youth and became a mighty protest movement by tens of thousands of people from all walks of life and all parts of the country finally drove the then president and government from power. But as the president and government they forced out had more than two years of their terms remaining, being elected in 2019 and 2020 respectively, the protestors could only force the government to resign. They could not replace it with a government of their choice until elections were due again, which happened on September 21.
-
-...
-
-[Data](articles/a02ab679.json)
-
----
-
-### Gold and Silver Winners were given cash prize in the Asian series
-
-*2024-09-24 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194721) · `ta`
-
-Sri Lanka Athletics awarded Rs 24 lakhs to gold/silver winners in inaugural Asian series. Team won gold in men's 4x400m with 3:04.48, silver in mixed relay with 3:17.00. Athletes received prizes at SL Athletic Institute.
-
-🟩
-
-Sri Lanka Athletic (Sri Lanka Athletics) was distributed by a cash prize of Rs 24 lakhs in honor of the athletes who won gold and silver medals in the inaugural Asian race in Thailand last May.
-
-Sri Lanka Athletics Chairman Major General (Retirement) Palitha Fernando presented the money to the relevant athletes.
-
-The event was held this morning (24) at the headquarters of the Sri Lanka Athletic Institute.
-
-Sri Lanka won the gold medal in the men's 4 x 400m race in the Men's 4 x 400m race in the inaugural Asian Asian series.
-
-The Sri Lankan team won the gold medal in the men's 4 x 400m race in 3 minutes and 04.48 seconds.
-
-Aruna Darshana, Pasindu Lakshan Kodikara, Dinukka Deshan and Kalinga Kumarake were featured in the Sri Lankan -winning Sri Lankan series.
-
-The Sri Lankan team completed the silver medal in 3 minutes 17.00 seconds for the 4 x 400m series for hybrids.
-
-Aruna Darshana, Sayuri Mendis, Pasundu Kodikara and Nadisha Ramanayake were included in the silver medalist Sri Lanka hybrid series.
-
-...
-
-[Data](articles/467a446c.json)
-
-[Extended Data](ext_articles/467a446c.ext.json)
 
 ---

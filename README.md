@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 09:58:00**
+As of **2024-09-25 10:11:21**
 
 ## Newspaper Stats
 
-*Scraped **46,164** Articles*
+*Scraped **46,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ dailymirrorlk | 4,733
 adaderanalk | 5,432
 tamilmirrorlk | 6,169
 virakesarilk | 7,376
-adaderanasinhalalk | 7,973
+adaderanasinhalalk | 7,974
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,164 (100.0%) of 46,164 articles have been extended.
+46,165 (100.0%) of 46,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### An accident near Parliament entrance
+
+*2024-09-25 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201522) · `si`
+
+Accident near Parliament entrance: Army Defender vehicle crashed at 5:30 AM. Driver unhurt. Vehicle stuck in traffic congestion. Army intervened 2 hours later.
+
+🟩
+
+An army defender vehicle near the Parliament entrance is in danger.
+
+According to our correspondent, the parliament entrance was also seen in traffic congestion.
+
+The Defender vehicle belonging to the Sri Lanka Army was crashed, up at 05.30 am today.
+
+While traveling to Borella to Borella, the Defender vehicle had fallen to Borella.
+
+At the time of the accident, the driver was only there, and he had no casualties.
+
+Later, the army's intervention was about two hours after the vehicle.
+
+◼️
+
+[Data](articles/678f747c.json)
+
+[Extended Data](ext_articles/678f747c.ext.json)
+
+---
+
+### Grade 05 Scholarship Examination Questionnaire Leak;Teacher arrested
+
+*2024-09-25 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194737) · `ta`
+
+Teacher arrested over leaked Grade 05 Scholarship Exam questions. Criminal Investigation Department investigating, suspect to appear in court Wednesday.
+
+🟩
+
+The Criminal Investigation Department said that a teacher was arrested on Tuesday (24) in connection with the leak of five questions in the first part of the Grade 05 Scholarship Examination.
+
+Investigations have been made based on the complaint filed by the parents of the students who appeared for the examination regarding the alleged leak of the scholarship examination question paper.
+
+The Criminal Investigation Department said that the suspect is to be produced before the Kaduwela Magistrate's Court on Wednesday (25).
+
+◼️
+
+[Data](articles/a6e9cce4.json)
+
+[Extended Data](ext_articles/a6e9cce4.ext.json)
+
+---
 
 ### President holds discussion with CBSL Governor and Finance Secretary
 
@@ -49,28 +99,6 @@ The Department of Government Information also stated that measures to stabilize 
 [Data](articles/8745ef6c.json)
 
 [Extended Data](ext_articles/8745ef6c.ext.json)
-
----
-
-### Grade 05 Scholarship Examination Questionnaire Leak;Teacher arrested
-
-*2024-09-25 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194737) · `ta`
-
-Teacher arrested over leaked Grade 05 Scholarship Exam questions. Criminal Investigation Department investigating, suspect to appear in court Wednesday.
-
-🟩
-
-The Criminal Investigation Department said that a teacher was arrested on Tuesday (24) in connection with the leak of five questions in the first part of the Grade 05 Scholarship Examination.
-
-Investigations have been made based on the complaint filed by the parents of the students who appeared for the examination regarding the alleged leak of the scholarship examination question paper.
-
-The Criminal Investigation Department said that the suspect is to be produced before the Kaduwela Magistrate's Court on Wednesday (25).
-
-◼️
-
-[Data](articles/a6e9cce4.json)
-
-[Extended Data](ext_articles/a6e9cce4.ext.json)
 
 ---
 
@@ -2281,27 +2309,5 @@ MP Lakshman Qasantarachchi, former Members of Parliament Sunil Handunnetti, Dr. 
 [Data](articles/c0885cca.json)
 
 [Extended Data](ext_articles/c0885cca.ext.json)
-
----
-
-### "This is the right moment"
-
-*2024-09-24 18:29:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவே-சரியான-தருணம்-தாமதிக்க-வேண்டாம்/175-344390) · `ta`
-
-Sri Lanka PA supports abolishing executive presidency and changing electoral system. National Organizer Namal Rajapaksa emphasizes urgency of reforming presidential powers.
-
-🟩
-
-Sri Lanka PA will provide its full support if the national people's power takes action to abolish the executive presidency and change the electoral system, said Namal Rajapaksa, National Organizer of the Sri Lanka PA.
-
-Since 1994, all the presidents have said that all the presidents have been abolishing the executive presidency, but that no one has done so.
-
-Namal Rajapaksa added that if there is a need to abolish the executive presidency.
-
-◼️
-
-[Data](articles/6594d3f8.json)
-
-[Extended Data](ext_articles/6594d3f8.ext.json)
 
 ---

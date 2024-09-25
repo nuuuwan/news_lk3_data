@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 22:14:25**
+As of **2024-09-25 22:26:09**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 7,994
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,275 (100.0%) of 46,276 articles have been extended.
+46,276 (100.0%) of 46,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
 
-### ශ්‍රී ලංකාව ගැන මූඩීස් කරුණු පහදයි
+### Moody's downfront from Sri Lanka
 
 *2024-09-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201544) · `si`
 
-ශ්‍රී ලංකාවේ ඇතිවී තිබෙන දේශපාලන වෙනස තුළින් මෙරට ප්‍රතිසංස්කරණ ක්‍රියාවලියේ ගමන්මග කැපීපෙනෙන වෙනසකට ලක් නොවනු ඇතැයි මූඩීස්, ජාත්‍යන්තර ආයෝජන සහ ණය වර්ගීකරණ සේවාව පවසයි.
+Moody's: Political change in Sri Lanka won't significantly impact reforms. IMF program policies remain unchanged. Economic stability challenges possible under current priorities. Debt restructuring not opposed by President Dissanayake. IMF Managing Director expresses support for stable leadership under him.
 
-ශ්‍රී ලංකාවේ නිර්මාණය වී තිබෙන නව වාතාවරණය සම්බන්ධව අදහස් දක්වමින් මූඩීස්, ජාත්‍යන්තර ආයෝජන සහ ණය වර්ගීකරණ සේවාව වාර්තාවක් පළ කර තිබුණි.
+🟩
 
-එහි වැඩිදුරටත් දැක්වෙන්නේ ඇතිවී තිබෙන දේශපාලන වෙනස තුළ, ජාත්‍යන්තර මූල්‍ය අරමුදලේ වැඩසටහන යටතේ ක්‍රියාත්මක ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලිය සහ ව්‍යුහාත්මක වෙනස්කම් ඇතුළු සාර්ව ආර්ථික ප්‍රතිපත්ති විශාල වශයෙන් වෙනස් නොවනු ඇති බවය.
+Moodyies, Investment and Loan Roshing Service says that the political change in Sri Lanka will not be significant in the country's reform process.
 
-කෙසේවෙතත්, ඇතැම් ප්‍රතිපත්ති ප්‍රමුඛතාවන් මත නැවත සැකසීමේදී මූල්‍ය ස්ථාවරත්වය පවත්වා ගැනීම අභියෝගකාරී විය හැකි බවත්, එය ණය අවදානම් වර්ගීකරණය තවදුරටත් ඉහළ මට්ටමක පැවතීමට හේතුවිය හැකි බවත් එම ආයතනය පෙන්වාදෙයි.
+Speaking to the new environment in Sri Lanka, Moody's, the international investment and loan rating service had published a report.
 
-ඔවුන් පවසන්නේ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කොට, පාර්ලිමේන්තුවෙන් සම්මත කළ ආර්ථික පරිවර්තන පනත යටතේ IMF වැඩසටහනේ ආර්ථික සහ මූල්‍ය ප්‍රතිසංස්කරණ ඉලක්ක නව පනතක් හෝ සංශෝධනයක් මගින් මිස වෙනස් කිරීමට නොහැකි බවය.
+The political differences that have been caused by the International Monetary Fund Program and macroeconomic policies of the International Monetary Fund program will not change.
+
+However, it is possible that maintaining financial stability can be challenging in certain policy priorities and that the financial stability can be challenging.
+
+They say that under the Economic Translation Act, which was passed by former President Ranil Wickremesinghe, the Economic and Financial Reforms of the IMF program cannot be changed by a new bill or amendment.
+
+President Anura Kumara Dissanayake is not objected to the debt restructuring process.
 
 ...
 
 [Data](articles/180c106f.json)
+
+[Extended Data](ext_articles/180c106f.ext.json)
 
 ---
 

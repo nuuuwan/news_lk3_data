@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 16:12:07**
+As of **2024-09-25 16:23:05**
 
 ## Newspaper Stats
 
-*Scraped **46,216** Articles*
+*Scraped **46,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ economynextcom | 2,793
 dailyftlk | 3,074
 adalk | 4,260
 dailymirrorlk | 4,733
-adaderanalk | 5,439
+adaderanalk | 5,440
 tamilmirrorlk | 6,180
 virakesarilk | 7,384
-adaderanasinhalalk | 7,983
+adaderanasinhalalk | 7,984
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,216 (100.0%) of 46,216 articles have been extended.
+46,218 (100.0%) of 46,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Appoints new governors
+
+*2024-09-25 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201533) · `si`
+
+New governors sworn in: Central Province - former VC; Northern Province - Nagalingam Pamunager; Southern Province - Bandula Harischandra. Nine total appointments made today.
+
+🟩
+
+The new governors have been sworn in before President Anura Kumara Dissanayake today (25).
+
+Former Vice Chancellor of the University of Peradeniya has been appointed as the new Governor of the Central Province.
+
+Nagalingam Pamunager was sworn in as the new Governor of the Northern Province.
+
+Senior Administrative Officer Bandula Harischandra has been sworn in as the new Governor of the Southern Province.
+
+The Governor of Sabaragamuwa Province stated that nine new governors were sworn in in the future today.
+
+◼️
+
+[Data](articles/22f85c69.json)
+
+[Extended Data](ext_articles/22f85c69.ext.json)
+
+---
 
 ### The government is parking place
 
@@ -99,6 +125,26 @@ Thailand is one of the third country at the marriage of Samariya.
 [Data](articles/65972853.json)
 
 [Extended Data](ext_articles/65972853.ext.json)
+
+---
+
+### New Governors appointed by the President
+
+*2024-09-25 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102262/new-governors-appointed-by-the-president) · `en`
+
+Nine new provincial Governors have been appointed by President Anura Kumara Dissanayake.
+
+They were sworn in before the President at the Presidential Secretariat in Colombo, a short while ago.
+
+Central Province - Prof. Sarath Abeykoon (former Vice Chancellor, University of Peradeniya)
+
+Northern Province - Nagalingam Vedanayagam (former Government Agent of Jaffna)
+
+◼️
+
+[Data](articles/8d9dc3eb.json)
+
+[Extended Data](ext_articles/8d9dc3eb.ext.json)
 
 ---
 
@@ -2259,39 +2305,5 @@ He said that when the Israeli security forces attacked, he and wife were living 
 [Data](articles/37026a05.json)
 
 [Extended Data](ext_articles/37026a05.ext.json)
-
----
-
-### Vedanayagan appoints as Governor of the Northern Province
-
-*2024-09-25 01:50:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-ஆளுநராக-வேதநாயகன்-நியமனம்/175-344416) · `ta`
-
-Nagalingam Vedanayakan, former Jaffna District President, appointed Governor of Northern Province.
-
-🟩
-
-Former Jaffna District President Nagalingam Vedanayakan has been appointed as the Governor of the Northern Province.
-
-◼️
-
-[Data](articles/f7d19716.json)
-
-[Extended Data](ext_articles/f7d19716.ext.json)
-
----
-
-### Presidents May Come and  Presidents May Go but JR Jayewardene’s Executive Presidency Goes on Forever.
-
-*2024-09-25 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84762) · `en`
-
-Sri Lanka’s ninth presidential election will be held  on Saturday the 21st of September. More than 17 million (17,140, 354)  Sri Lankans are registered as eligible voters. Nominally thirty-eight candidates are in the ring but only three are regarded as  te leading contenders. The hectic election campaigns ended on Sep 18 but election fever is high.  A large voter turn out is expected on election day.
-
-It is indeed an irony that there is so much of enthusiasm  over the election of the executive president  despite the criticism directed against the executive presidential system in past  years. The executive presidency is blamed extensively on the one hand while the country gets involved in  presidential poll excitement on the other.
-
-...
-
-[Data](articles/eabab93d.json)
-
-[Extended Data](ext_articles/eabab93d.ext.json)
 
 ---

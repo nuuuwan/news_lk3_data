@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 15:38:45**
+As of **2024-09-25 15:57:38**
 
 ## Newspaper Stats
 
-*Scraped **46,210** Articles*
+*Scraped **46,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,793
 dailyftlk | 3,074
 adalk | 4,259
 dailymirrorlk | 4,733
-adaderanalk | 5,438
+adaderanalk | 5,439
 tamilmirrorlk | 6,179
 virakesarilk | 7,383
 adaderanasinhalalk | 7,981
@@ -26,11 +26,35 @@ adaderanasinhalalk | 7,981
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,210 (100.0%) of 46,210 articles have been extended.
+46,211 (100.0%) of 46,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### 65-hour water cut to be imposed in an around Kandy
+
+*2024-09-25 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102261/65-hour-water-cut-to-be-imposed-in-an-around-kandy) · `en`
+
+The National Water Supply & Drainage Board (NWSDB) announced that a 65-hour water cut will affect several areas in an around Kandy from 1.00 a.m. on September 28 to 6.00 p.m. on September 30, due to urgent maintenance activities of the Polgolla Reservoir.
+
+Accordingly, the water supply to the following areas will be temporarily suspended due to the Polgolla reservoir being emptied for maintenance work:
+
+Kandy Municipal Council area and areas belonging to Harispattuwa, Pujapitiya, Pathadumbara and Akurana water supply systems.
+
+Rajawella, Sirimalwatta, Ampitiya, Amunugama, Hantana and Walala areas which belong to the Kundasale Divisional Secretariat division.
+
+Mawathagama area which is supplied water by the Greater Kandy water treatment plant.
+
+The Water Board further said it regrets any inconveniences caused to the public by the water cut, and requested that the affected populaces render their support by utilizing water sparingly.
+
+◼️
+
+[Data](articles/86beebfd.json)
+
+[Extended Data](ext_articles/86beebfd.ext.json)
+
+---
 
 ### Harini Amarasuriya's trip
 
@@ -2263,27 +2287,5 @@ Nomination call for election is done from October 4 to 11. After the dissolution
 [Data](articles/73d5954d.json)
 
 [Extended Data](ext_articles/73d5954d.ext.json)
-
----
-
-### Sri Lanka’s General Election on November 14
-
-*2024-09-24 22:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102250/sri-lankas-general-election-on-november-14) · `en`
-
-The Extraordinary Gazette notification issued by President Anura Kumara Dissanayake dissolving the Parliament of Sri Lanka effective from midnight today (24), has been published by the Department of Government Printing.
-
-The proclamation dissolves Parliament with effect from midnight today and summons the new Parliament to meet on the November 21, 2024.
-
-It has also fixed November 14, 2024 as the date for the election of the new Members of Parliament.
-
-The Gazette notification further specifies the period beginning on October 04 and ending at 12 noon October 11, 2024 as the nomination period, during which nomination papers shall be received by the Returning Officers.
-
-The President has issued the Gazette by virtue of the powers vested in him by Article 70 of the Constitution of the Democratic Socialist Republic of Sri Lanka and in pursuance of the provisions of Section 10 of the Parliamentary Elections Act, No. 1 of 1981.
-
-...
-
-[Data](articles/929561e8.json)
-
-[Extended Data](ext_articles/929561e8.ext.json)
 
 ---

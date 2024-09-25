@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 11:10:30**
+As of **2024-09-25 11:22:53**
 
 ## Newspaper Stats
 
-*Scraped **46,179** Articles*
+*Scraped **46,180** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 384
+dbsjeyarajcom | 385
 bbccomsinhala | 454
 colombotelegraphcom | 461
 islandlk | 2,705
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,977
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,176 (100.0%) of 46,179 articles have been extended.
+46,180 (100.0%) of 46,180 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,33 @@ He further mentioned that they have recently noticed on social media that some i
 
 [Data](articles/8068923c.json)
 
+[Extended Data](ext_articles/8068923c.ext.json)
+
 ---
 
-### මුදල් අමාත්‍යාංශ ලේකම් වැඩට බහී
+### Secretary to the Ministry of Finance will be taken up
 
 *2024-09-25 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201526) · `si`
 
-මුදල්, ආර්ථික සංවර්ධන, ප්‍රතිපත්ති සම්පාදන, සැලසුම් සහ සංචාරක අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස පත් වූ කේ. එම්. මහින්ද සිරිවර්ධන මහතා අද (25) සිය ධුරයේ යළි වැඩ භාර ගත්තේ ය.
+New Secretary of Ministry of Finance assumes duties. Mahinda Siriwardena appointed, previously contributed to IMF credit facility. Holds postgraduate degrees in economics from Vanderbilt University. Experienced in international training programs, central banking, and financial management.
 
-භාණ්ඩාගාර නියෝජ්‍ය ලේකම්වරු සහ මුදල් අමාත්‍යාංශය යටතේ වන දෙපාර්තමේන්තුවල ප්‍රධානීහු ඇතුළු ජ්‍යෙෂ්ඨ නිලධාරීහු මෙම අවස්ථාවට එක්ව සිටියහ.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීරණ ණය පහසුකම ලබාගැනීම සහ මෙරට ණය ප්‍රතිව්‍යුහගතරණ ක්‍රියාවලිය සාර්ථක කර ගැනීම සඳහා සුවිශේෂී දායකවත්යක් දැක් වූ ඒ මහතා ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාව, ඉන්දියාව, බංග්ලාදේශය සහ භූතානය සඳහා විකල්ප විධායක අධ්‍යක්ෂ ලෙස කටයුතු කර ඇත.
+The new Secretary, who was appointed as the new Secretary of the Ministry of Finance, Economic Development, Policy, Planning, and Tourism Ministry. M. Mahinda Siriwardena assumed duties today (25).
 
-අමෙරිකා එක්සත් ජනපදයේ වැන්ඩබිල්ට් විශ්වවිද්‍යාලයෙන් ආර්ථික විද්‍යාව පිළිබඳ ශාස්ත්‍රපති උපාධියක් සහ ආර්ථික සංවර්ධනය පිළිබඳ පශ්චාත් උපාධි ඩිප්ලෝමාවක් ලබාගෙන ඇති අතර කැලණිය විශ්වවිද්‍යාලයෙන් ආර්ථික විද්‍යාව පිළිබඳ ශාස්ත්‍රවේදී විශේෂ උපාධියක් ලබා ඇත.
+Senior heads of the Treasury and the Head of the Ministry of Finance and the Ministry of Finance were also present at the occasion.
 
-...
+He was a significant contributor to the Sri Lanka, India, Bangladesh and Bhutan, who was able to obtain the comprehensive credit facility of the International Monetary Fund.
+
+A Postgraduate Diploma in Economics and Economic Development has obtained a Postgraduate Degree in Economics and Economics from the University of Vandbilt University.
+
+Mr. Siriwardena is a senior officer who has participated in several international training programs, central banking, financial management, state financial management, state financial management, government financial management, public debt management and financial programming and financial programming.
+
+◼️
 
 [Data](articles/c7aea23a.json)
+
+[Extended Data](ext_articles/c7aea23a.ext.json)
 
 ---
 
@@ -172,25 +182,31 @@ Although a peace agreement is implemented to end the civil war over the civil wa
 
 ---
 
-### නව ආරක්ෂක ලේකම්ගේ ඩිපෙන්ඩර් රථය අනතුරක
+### New Defense Secretary's Depression vehicle accident
 
 *2024-09-25 09:37:57* · [`adalk`](https://www.ada.lk/picture_story/නව-ආරක්ෂක-ලේකම්ගේ-ඩිපෙන්ඩර්-රථය-අනතුරක/10-412134) · `si`
 
-නව ආරක්ෂක ලේකම්වරයාට ආරක්ෂක අමාත්‍යාංශයෙන් නිකුත් කර තිබූ  ඩිපෙන්ඩර් රථය වැලිකඩ පාර්ලිමේන්තු පාරේ ජයන්තිපුර ප්‍රධාන පිවිසුම ආසන්නයේ දී අදඅ (25) අලුයම දියවන්නා වගුරු බිමට පෙරළී ගොස් ඇතැයි වැලිකඩ පොලිසි කියයි
+Defense Secretary involved in car accident near parliament. Vehicle crashed due to speeding. Driver uninjured but vehicle damaged. Police investigating potential alcohol use. Military personnel arrested. Chief Inspector General overseeing probe.
 
-අනතුර සිදුවන අවස්ථාවේදී ආරක්ෂක ලේකම් එච්. එස්. එස්.  තුයිය කොස්තා මහතා එම රථයේ  සිට නැතැයි පොලිසිය සඳහන් කරයි. එහි රියදුරුවන යුද හමුදා සෙබළා පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇත
+🟩
 
-අමාත්‍යාංශයේ සිට ආරක්ෂක ලේකම්වරයාව රැගෙන ඒම සඳහා කියැන්හැම් හන්දියේ සිට පොල්දූව දෙසට ධාවනය වෙමින් තිබියදී පාර්ලිමේන්තු ප්‍රධාන පිවිසුම වම් පස දියවන්නා  වගුරු බිමට පෙරළී  මෙම අනතුරු වී ඇතැයි පොලිසිය කියයි
+Welikada Policy, the Dipward of the Ministry of Defense has fell close to Welikada parliamentary road in Welikada Parliamentary Road, says the Dipuwan of Diyawanura has fell close to Welikada Parliamentary Road.
 
-වේගය පාලනය කර ගත නොහැකිව මෙම අනතුර සිදුවී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+Secretary Defense Harunayake at the time of the accident. S. S.S.Police said that Mr. Treis Costa was not from the vehicle. Army soldier has been arrested by the police
 
-අනතුරින් අත්අඩංගුවට ගත් රියදුරුට කිසිදු තුවාලයක් සිදුවී නැත. අනතුරින්  ඩිපෙන්ඩර් රථයට බරපතල අලාභ සිදුවී ඇත
+Police say that the parliamentary main entrance from Kaymanham junction to the ride towards the bridge to bring the defense secretary to the bridge of the Defense Secretary has been rolled by the Diyawanna marshy land.
 
-ඔහු මත්පැන් පානය කර සිටියාද යන්න දැන ගැනීම සඳහා අධිකරණ වෛද්‍යවරයෙකු වෙත ඉදිරිපත් කිරීමට නියමිතය
+Police investigations have revealed that the accident had occurred in control of speed
+
+The driver of the accident had no injury. The Defender vehicle has suffered serious losses
+
+To know whether he was drinking, he is to be produced to a jurisdictor
 
 ...
 
 [Data](articles/be96edff.json)
+
+[Extended Data](ext_articles/be96edff.ext.json)
 
 ---
 
@@ -1388,6 +1404,40 @@ Former Jaffna District President Nagalingam Vedanayakan has been appointed as th
 
 ---
 
+### Presidents May Come and  Presidents May Go but JR Jayewardene’s Executive Presidency Goes on Forever.
+
+*2024-09-25 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84762) · `en`
+
+Sri Lanka’s ninth presidential election will be held  on Saturday the 21st of September. More than 17 million (17,140, 354)  Sri Lankans are registered as eligible voters. Nominally thirty-eight candidates are in the ring but only three are regarded as  te leading contenders. The hectic election campaigns ended on Sep 18 but election fever is high.  A large voter turn out is expected on election day.
+
+It is indeed an irony that there is so much of enthusiasm  over the election of the executive president  despite the criticism directed against the executive presidential system in past  years. The executive presidency is blamed extensively on the one hand while the country gets involved in  presidential poll excitement on the other.
+
+...
+
+[Data](articles/eabab93d.json)
+
+[Extended Data](ext_articles/eabab93d.ext.json)
+
+---
+
+### Academic Turned MP Dr.Harini Amarasuriya  Becomes Third Woman to be Prime Minist of Sri Lanka er after Sirimavo Bandaranaike in 1960 and Chandrika  Kumaratunga in 1994; President Anura Dissanayake Dissolves Pariament and schedules new Elections to be held on 14th November
+
+*2024-09-25 00:37:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84787) · `en`
+
+President Anura Kumara Dissanayake on Tuesday (September 24, 2024) appointed MP and former academic Harini Amarasuriya as Sri Lanka’s Prime Minister, as part of a four-member Cabinet under him that will lead policy until the parliamentary elections scheduled on November 14.
+
+The date for the general elections was announced through a gazette issued late on Tuesday, which said the parliament would be dissolved from midnight.
+
+After Sri Lankans elected Mr. Dissanayake to the country’s top office in the September 21 presidential polls, he resigned as a Member of Parliament, and a National People’s Power [NPP] member took his place.  The NPP Alliance has 3 MPs in the 225-member legislature, which is expected to be dissolved soon in preparation for the conduct of the general elections.
+
+...
+
+[Data](articles/3d79ceb3.json)
+
+[Extended Data](ext_articles/3d79ceb3.ext.json)
+
+---
+
 ### 2024-09-24 (Tuesday)
 
 ### We hope that President Anura Kumara Dissanayake will fulfill the confidence of the people -Vajira Abeywardena
@@ -2217,51 +2267,5 @@ President is expected to dissolve parliament calling for snap polls. (Colombo/Au
 [Data](articles/4e41305e.json)
 
 [Extended Data](ext_articles/4e41305e.ext.json)
-
----
-
-### Israeli hotel opens to Sri Lankans
-
-*2024-09-24 19:38:26* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලයේ-හෝටල්-රැකියා-ලාංකිකයින්ට-විවර-වෙයි/11-412126) · `si`
-
-Israel-Sri Lanka MoU: Sri Lankans can work in Israeli hotels as housekeepers/cleaners. Requirements: 25-45 years old, NVQ III certificate, IELTS 3.0. High wage ($1500+ monthly). Apply through SLBFE website.
-
-🟩
-
-Israeli government and the Government of Sri Lanka were taken to a Memorandum of Understanding (MoU) to provide employment opportunities to Sri Lankans in Israel.
-
-Accordingly, in addition to the number of nursing services, agricultural and constructions in Israel, Sri Lankans will be able to get employment of hotel Housekeeping & Cleaning.
-
-The Sri Lanka Bureau of Foreign Employment and the Sri Lanka Bureau of Sri Lanka (PIBA) is led by the Employer of Israel (PIBA) for the Israeli government.
-
-With high wages, accommodations, food and drink, there is a monthly salary over 1500 USD.
-
-Sri Lankan women and women will be able to apply for 25-45 years of age.Applicants should also be given the NVQ III certificate of the hotel industry, and the IELTS 3.0 or similar qualifications should be provided with the consumers who can communicate with customers with well-communicated knowledge.
-
-...
-
-[Data](articles/9d39ce87.json)
-
-[Extended Data](ext_articles/9d39ce87.ext.json)
-
----
-
-### Congratulations to the new president
-
-*2024-09-24 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194724) · `ta`
-
-Saudi princes elected as Sri Lanka president. Anura Kumara Dissanayake congratulates, calls for progress and prosperity.
-
-🟩
-
-Salman bin Abdul Aziz al -Sa'ud, the servant of the two holy places, and the prince and prince of the Saudi, Prince Muhammad bin Salman, have been elected as the President of the Democratic Socialist Republic of Sri Lanka.
-
-President Anura Kumara Dissanayake has said that the successful regime and the Sri Lankan people have to make more progress and prosperity.
-
-◼️
-
-[Data](articles/10079085.json)
-
-[Extended Data](ext_articles/10079085.ext.json)
 
 ---

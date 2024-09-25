@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 12:24:27**
+As of **2024-09-25 12:38:30**
 
 ## Newspaper Stats
 
-*Scraped **46,188** Articles*
+*Scraped **46,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,435
 tamilmirrorlk | 6,176
 virakesarilk | 7,379
-adaderanasinhalalk | 7,977
+adaderanasinhalalk | 7,979
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,188 (100.0%) of 46,188 articles have been extended.
+46,190 (100.0%) of 46,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### For this evening today the governors to take oath
+
+*2024-09-25 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201528) · `si`
+
+Governors' oath ceremony tonight. New Provincial Governor appointed. President addresses nation at 7:30 AM and 7:30 PM on major channels.
+
+🟩
+
+President Anura Kumara Dissanayake is scheduled to appoint a new Provincial Governor.
+
+The President is also due to call on the race at 7.30 am today.
+
+The President's special statement to the nation TV Derana, today's Ada Derana, PM Channel, PM Drama and Ada Derana and Ada Derana have been prepared to be broadcast from 7.30 pm.
+
+◼️
+
+[Data](articles/0f79f674.json)
+
+[Extended Data](ext_articles/0f79f674.ext.json)
+
+---
+
+### Trains launched in the Northern road
+
+*2024-09-25 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201527) · `si`
+
+Northern railway line renovation causes train disruptions. Special trains run during election period. Regular services resume after repairs complete.
+
+🟩
+
+The Department of Railways says that action will be taken following a discussion with the Minister and the Secretary on the Northern Railway line.
+
+Steps have been closed due to the renovation of the part of Mahawa and Anuradhapura on the railway line.
+
+However, due to the presidential election, the train was restrained to provide transport for election duties and the people traveling to the people.
+
+Accordingly, steps have been taken to operate several special trains from Colombo Fort to Kankesanthurai on the 19,20,21 and 22.
+
+However, the Railway Department stated that the train operations will be restored again.
+
+The reason for the refurbishment of the railway line has been made by a senior spokesperson of the Department of Railways.
+
+Mahawa to Anuradhapura There are 47 railway crossings from Mahawa to Anuradhapura and 15 railway crossings and 9 of them traffic routes where the major roads are located.
+
+...
+
+[Data](articles/2a03ee29.json)
+
+[Extended Data](ext_articles/2a03ee29.ext.json)
+
+---
 
 ### Professor Jayantha Lal, Eastern Governor
 
@@ -2209,63 +2261,5 @@ During the election campaign, Dissanayake vowed to dissolve Parliament if he win
 [Data](articles/93f3944a.json)
 
 [Extended Data](ext_articles/93f3944a.ext.json)
-
----
-
-### The price of a coconut is Rs. Up to 150
-
-*2024-09-24 20:16:13* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-ගෙඩියක-මිල-රු--150ක්-දක්වා-ඉහළට/11-412131) · `si`
-
-Coconut prices rise due to supply shortage. Average cost between Rs. 100-150 per coconut. Oil prices also increase. Businesses struggle under government price controls. Exporting coconut-based products may help stabilize prices locally.
-
-🟩
-
-In some areas, the price of coconut has risen to Rs.
-
-In general, the price of average size has been priced between Rs.
-
-The price of a bottle of coconut oil has increased to Rs.
-
-Due to rising costs of coconut and coconut oil, the businessmen who provide food in a control price of the government agencies and hospitals have been affected by a large number of food and hospitals.
-
-All Ceylon Integrated Specialized Economic Centers and Manning Trade Society Ltd.. Idessa was inquired from Mr. Master.
-
-The National Organizer said that the decrease in coconut stockings has caused the increase in coconut prices.
-
-It is expected that the coconut stocks are expected to be in the future and that coconut prices can be reduced in the future.
-
-The coconut based products are being sold abroad, and the unusual prices of coconut prices have to be restricted to foreign countries, the Chairman of the National Customer Front Asela Sampath said.
-
-...
-
-[Data](articles/5b989920.json)
-
-[Extended Data](ext_articles/5b989920.ext.json)
-
----
-
-### Kataragama Suramuna, not mine
-
-*2024-09-24 20:08:46* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-දෙටගමුව-සුරා-සැල-මගේ-නෙමෙයි/11-412130) · `si`
-
-Kataragama dispute: New Suraa area opens, Dhamma schools closed due to objections from Maha Sangha. Deputy Speaker Ajith Rajapaksa involved. Alcohol sales in sacred areas criticized.
-
-🟩
-
-"Kataragama's resuping was accused of being carried out.He said yesterday (24) in response to yesterday.
-
-The opening of a new Suraa area in Kataragama has decided to cover up the Dhamma schools in the area until the Maha Sangha has objected to it and close it.. He has been charged with Hambantota District and Deputy Speaker Ajith Rajapaksa in response to the deputy speaker in this regard.
-
-"Kataragama I don't have an area of ​​an area. I have nothing to do with the Surpa Skatagama holding in Kataragama.Four bars on the sacred area are publicly selling arrack.
-
-It is amazing that they do not have any protest.
-
-Without this, there is a joke that the opposition is targeting the newspaper, but this is not the case..But I take legal action in order to publish my name without any inquiry.
-
-...
-
-[Data](articles/6495a2e5.json)
-
-[Extended Data](ext_articles/6495a2e5.ext.json)
 
 ---

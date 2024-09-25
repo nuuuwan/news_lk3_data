@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 10:38:21**
+As of **2024-09-25 10:57:09**
 
 ## Newspaper Stats
 
-*Scraped **46,173** Articles*
+*Scraped **46,176** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 384
-bbccomsinhala | 453
-colombotelegraphcom | 460
+bbccomsinhala | 454
+colombotelegraphcom | 461
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
 adalk | 4,251
 dailymirrorlk | 4,733
 adaderanalk | 5,433
-tamilmirrorlk | 6,172
+tamilmirrorlk | 6,173
 virakesarilk | 7,376
 adaderanasinhalalk | 7,976
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 7,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,173 (100.0%) of 46,173 articles have been extended.
+46,176 (100.0%) of 46,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Disaster near the entrance of Parliament
+
+*2024-09-25 10:24:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-நுழைவாயிலுக்கு-அருகில்-அனர்த்தம்/175-344428) · `ta`
+
+Military-owned vehicle crashes near Parliament entrance, causes traffic. Driver injured. Vehicle removed after military intervention.
+
+🟩
+
+A military -owned Defender vehicle crashed near the entrance of Parliament this morning, causing traffic congestion on the road near the entrance of Parliament.
+
+He was only hurt because of the driver at the time of the accident.
+
+After the intervention of the military, the vehicle was disposed of about two hours later.
+
+◼️
+
+[Data](articles/3c1fe30c.json)
+
+[Extended Data](ext_articles/3c1fe30c.ext.json)
+
+---
 
 ### O/L results by the end of this month
 
@@ -764,6 +786,22 @@ This strategic partnership aims to enhance collaboration in promoting Port City 
 
 ---
 
+### 2024 The Change & The Choice
+
+*2024-09-25 04:51:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/2024-the-change-the-choice/) · `en`
+
+“They tried to bury us. They did not know we were seeds.” — Anura Kumara Dissanayake
+
+The 2024 Sri Lankan Presidential election results have displayed a significant change in the decades-long distribution of political party alignment among the Sri Lankan people. This transformation showcases the desperation of Sri Lankans to choose a leader free from crimes and corruption. Anura Kumara Dissanayake, a veteran politician and the leader of the National People’s Power (NPP), has won the election, dominating the majority of votes in fourteen out of twenty-two districts. This election marked a historic moment, electing the first leftist leader as President from a socialist and social democratic political alliance. It demonstrates that most Sri Lankans are shifting away from traditional party politics to focus on a leader who can truly relate to and understand the hearts and minds of ordinary people.
+
+...
+
+[Data](articles/60b096a7.json)
+
+[Extended Data](ext_articles/60b096a7.ext.json)
+
+---
+
 ### Tea Exporters congratulates AKD
 
 *2024-09-25 04:50:45* · [`dailyftlk`](https://www.ft.lk/business/Tea-Exporters-congratulates-AKD/34-767112) · `en`
@@ -1027,6 +1065,46 @@ What happened on 21 September 2024 was historic. It was another milestone in the
 [Data](articles/caa8d52d.json)
 
 [Extended Data](ext_articles/caa8d52d.ext.json)
+
+---
+
+### Vajira Churchusena: What do you know about Sri Lanka's first professional dancer?
+
+*2024-09-25 03:48:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cglkxxpzpgno) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dr. Vajira Chitasena, considered Sri Lanka's first professional dancer, revolutionized traditional Kandyan dance. Born in 1932, she began performing at age 11 and became a full-time dancer in 1948. Chitasena created popular ballets and was awarded India's fourth highest honor in 2020. She received her PhD in 2011 from University Arts University.
+
+🟩
+
+Vajira Churchusena: What do you know about Sri Lanka's first professional dancer?
+
+Dr. Vajira Chitasena, considered as the first professional dancer in Sri Lanka, lost as the first professional dancer.
+
+Vajira Chitrasena won the dance industry that was dominated by the "fertilizing 'a vision of' the dance of the dance '.
+
+Dr. Vajira Chitasena should read about the role of Dr. Vajira Chitusena, as a disorganization dancer, guided by a number of generations of Sri Lankan dance art.
+
+Nallaperuma Arachchige Vajira Dias (Chitusena) was born on March 15, 1932.
+
+Professor of Sri Lankan Professor to join a paired dance with Michael Jackson
+
+In 1944, Vajira Chitasena entered the Horana College Horana.
+
+Later, in 1946, she was admitted to the Methodist College in 1946 and was educated until 1947.
+
+Later, she gave goodbye to school education with the purpose of studying the dance.
+
+She launched a singles dance for the first time, in the Kalutara Town Hall in 1943. She was 11 years old.
+
+...
+
+[Data](articles/2dd8b0bd.json)
+
+[Extended Data](ext_articles/2dd8b0bd.ext.json)
 
 ---
 
@@ -2191,73 +2269,5 @@ Commercial Bank, Melstakop, LOLC Holdings, Hatton Calding and Ceylon Cold Store 
 [Data](articles/85cd389e.json)
 
 [Extended Data](ext_articles/85cd389e.ext.json)
-
----
-
-### I take responsibility for the Pornography
-
-*2024-09-24 18:54:04* · [`adalk`](https://www.ada.lk/breaking_news/පරජයේ-වගකීම-මම-භාර-ගන්නවා/11-412122) · `si`
-
-Sajith Premadasa assumes responsibility for UPFA's defeat. Party appoints him Prime Minister candidate. UNP not joining UPFA. UPFA will contest elections independently.
-
-🟩
-
-Opposition Leader Sajith Premadasa says he will take over the responsibility of defeat. Speaking to the media after a discussion held in the power force, he said.
-
-He also said that the party has decided to appoint himself as the Prime Minister of UPFA at the next general election.
-
-He added that the UPFA is not joining by the UNP and that the UPFA will contest the elections.
-
-◼️
-
-[Data](articles/6b5c22f5.json)
-
-[Extended Data](ext_articles/6b5c22f5.ext.json)
-
----
-
-### Sri Lanka leader appoints smallest Cabinet in history before dissolving parliament
-
-*2024-09-24 18:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-appoints-smallest-cabinet-in-history-before-dissolving-parliament-180822/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s newly elected President Anura Kumara Dissanayake appointed a three-member cabinet, the smallest in the history, to run the country after appointing his party’s reputed solitary women legislator as the Prime Minister on Tuesday.
-
-The move comes a day after Dissanayake took oaths as the island nation’s ninth president and his party members have said the president will dissolve the parliament after appointing the cabinet to run the country as an interim government until the next parliament election is held.
-
-Parliamentarian Harini Amarasuriya was sworn in as the new Prime Minister of Sri Lanka before Dissanayake followed by the cabinet appointments.
-
-President Dissanayake held four Ministries including some merged together. He held
-
-Prime Minister Harini Amarasuriya was appointed as the Minister for the following portfolios:
-
-Trade, Commercial, Food Security, Co-operative Development, Industries and Entrepreneur Development
-
-...
-
-[Data](articles/35c19eae.json)
-
-[Extended Data](ext_articles/35c19eae.ext.json)
-
----
-
-### President can lead the country
-
-*2024-09-24 18:47:28* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුරට-රට-ගෙනියන්න-පුළුවන්/11-412121) · `si`
-
-Former President Mahinda Rajapaksa suggests new President Anura Kumara Dissanayake may continue his policies. However, Rajapaksa hasn't officially endorsed Dissanayake yet.
-
-🟩
-
-Former President Mahinda Rajapaksa said the new President Anura Kumara Dissanayake could continue the country.
-
-"Ap can. I think that ability, "he said.
-
-However, he had not yet decided as a party as a party regarding whether he supports Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/7066d706.json)
-
-[Extended Data](ext_articles/7066d706.ext.json)
 
 ---

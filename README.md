@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 09:38:43**
+As of **2024-09-25 09:58:00**
 
 ## Newspaper Stats
 
-*Scraped **46,161** Articles*
+*Scraped **46,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 2,793
 dailyftlk | 3,074
 adalk | 4,250
 dailymirrorlk | 4,733
-adaderanalk | 5,431
+adaderanalk | 5,432
 tamilmirrorlk | 6,169
-virakesarilk | 7,374
+virakesarilk | 7,376
 adaderanasinhalalk | 7,973
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,160 (100.0%) of 46,161 articles have been extended.
+46,164 (100.0%) of 46,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### President holds discussion with CBSL Governor and Finance Secretary
+
+*2024-09-25 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102254/president-holds-discussion-with-cbsl-governor-and-finance-secretary-) · `en`
+
+A discussion has taken place between President Anura Kumara Dissanayake and the Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe.
+
+The Department of Government Information reported that the Secretary to the Ministry of Finance, Mahinda Siriwardene, also participated in the discussion.
+
+The current economic situation of the country was discussed at length during the meeting, which was held last evening (24) at the Presidential Secretariat, the statement said.
+
+The Department of Government Information also stated that measures to stabilize the economy and several issues affecting the country’s economy were discussed.
+
+◼️
+
+[Data](articles/8745ef6c.json)
+
+[Extended Data](ext_articles/8745ef6c.ext.json)
+
+---
+
+### Grade 05 Scholarship Examination Questionnaire Leak;Teacher arrested
+
+*2024-09-25 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194737) · `ta`
+
+Teacher arrested over leaked Grade 05 Scholarship Exam questions. Criminal Investigation Department investigating, suspect to appear in court Wednesday.
+
+🟩
+
+The Criminal Investigation Department said that a teacher was arrested on Tuesday (24) in connection with the leak of five questions in the first part of the Grade 05 Scholarship Examination.
+
+Investigations have been made based on the complaint filed by the parents of the students who appeared for the examination regarding the alleged leak of the scholarship examination question paper.
+
+The Criminal Investigation Department said that the suspect is to be produced before the Kaduwela Magistrate's Court on Wednesday (25).
+
+◼️
+
+[Data](articles/a6e9cce4.json)
+
+[Extended Data](ext_articles/a6e9cce4.ext.json)
+
+---
+
+### Rains in some districts of the country
+
+*2024-09-25 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194738) · `ta`
+
+Rain forecast: Western, Sabaragamuwa, North Western Provinces; Uva Province (evening/night); heavy winds 40-45 km/h Central Highlands; thunderstorms possible; coastal areas turbulent seas expected.
+
+🟩
+
+Rainfall is expected in the Western, Sabaragamuwa and North Western Provinces in Kandy, Nuwara Eliya, Galle and Matara districts, the Department of Meteorology said.
+
+In the Uva Province, Ampara and Batticaloa districts, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+Heavy winds are likely to blow up to 40-45 km / h from time to time in the western slopes of the Central Highlands, North, North Central, North Western and Southern Provinces.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts.
+
+It is possible that there is a possibility of rain in many places beyond the coast of Chilaw to Hambantota via Galle.
+
+In the seas around the country, the wind is blowing from the west or southwest and the wind is expected to be up to 30-40 km per hour.
+
+...
+
+[Data](articles/9d00358e.json)
+
+[Extended Data](ext_articles/9d00358e.ext.json)
+
+---
 
 ### President to address the nation today
 
@@ -2233,85 +2303,5 @@ Namal Rajapaksa added that if there is a need to abolish the executive presidenc
 [Data](articles/6594d3f8.json)
 
 [Extended Data](ext_articles/6594d3f8.ext.json)
-
----
-
-### Swearing in new cabinet
-
-*2024-09-24 18:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-பதவியேற்பு/175-344389) · `ta`
-
-New cabinet sworn in: President Anura Kumara Dissanayake takes defense, finance roles. Prime Minister Harini Amarasuriya assumes justice, education portfolios. Vijitha Herath named housing minister. Key appointments include Lakshman Specialist, Sunil Handunnethi, Bimal Ratnayake, Nalinda Jayatissa, Vasantha Samarasinghe, Nandika Sanath Kumanayake.
-
-🟩
-
-President Anura Kumara Dissanayake has been appointed as the Minister of Defense, Financial, Economic Development, National Policies, Planning and Travel, Power, Power, Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources.
-
-Prime Minister Harini Amarasuriya as the Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Local Government, Education, Science and TechnologyTaken over
-
-Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Media Department, Transport, Highways, Ports and Civil Aviation, Public Safety, Foreign, Environment, Wildlife, Water Resources, Water Resources, Water Supply, Plantation and Social Infrastructure and Rural and Urban DevelopmentVijitha Herath was sworn in as Minister of Housing and Construction.
-
-...
-
-[Data](articles/00db9240.json)
-
-[Extended Data](ext_articles/00db9240.ext.json)
-
----
-
-### Donation Ceremony at Colombo Open University, Sri Lanka - Korea International Cooperation Institute
-
-*2024-09-24 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194717) · `ta`
-
-Colombo Open University receives donation from KOICA for Korean Language Classroom Development. Ceremony attended by officials from both countries. Aims to provide modern educational tools and enhance employability skills for students.
-
-🟩
-
-The donation ceremony was successfully held to the Colombo Open University of Sri Lanka through the Korea International Cooperation Organization (KOICA) for the Korean Language Classroom Development and Skills Development Program.
-
-The ceremony was held on the 20th of this month under the leadership of Korea International Cooperation Institute, Park Yangsan.
-
-This will ensure that the students of the university and the university will get modern educational products and increase the number of youths for employment and entrepreneurs.
-
-The function was attended by Koica Sri Lanka Office Director Kim Miyung, Colombo Open University Registrar, Language Department Head Kala Chandramohan, Professor Anton Piyaratne and Korean Language Coordinator Nirosha Abeeshekara.
-
-...
-
-[Data](articles/f96a637c.json)
-
-[Extended Data](ext_articles/f96a637c.ext.json)
-
----
-
-### New secretaries appointed
-
-*2024-09-24 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201507) · `si`
-
-New secretaries appointed: PM, Cabinet, 15 ministries. Key roles: transport, finance, education, women affairs, trade, rural development, judiciary, environment, agriculture, religion, energy.
-
-🟩
-
-The secretaries of the Prime Minister and the Secretary to the Cabinet of Ministers have been appointed.
-
-The Presidential Media Unit said that the new Prime Minister's Secretary, Cabinet Secretary and 15 new Secretaries have been appointed.
-
-03 KDS. Mr. Ruwanchandra - Ministry of Transport, Highways, Ports and Civil Aviation
-
-04 KMM. Mr. Siriwardena - Ministry of Finance, Economic Development, Policy, Planning and Tourism
-
-06 - JMT. Mrs. Jayasundera - Ministry of Education, Science and Technology
-
-07 - K. Mr. Machent - Ministry of Women, Children's and Youth Affairs and Sports
-
-08 MM. NiMudin - Trade, Commerce, Food Security, Co-operative Development, Industry and Entrepreneurs Development
-
-09 AMPMB. Atapattu - Ministry of Rural and Urban Development, Housing and Construction
-
-11 WPP. Yasarathne - Judicial, Public Administration, Home Affairs, Provincial Councils, Local Government and Labor
-
-...
-
-[Data](articles/52ec136d.json)
-
-[Extended Data](ext_articles/52ec136d.ext.json)
 
 ---

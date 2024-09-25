@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 16:38:40**
+As of **2024-09-25 16:56:17**
 
 ## Newspaper Stats
 
-*Scraped **46,219** Articles*
+*Scraped **46,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ economynextcom | 2,793
 dailyftlk | 3,074
 adalk | 4,260
 dailymirrorlk | 4,733
-adaderanalk | 5,441
-tamilmirrorlk | 6,180
+adaderanalk | 5,442
+tamilmirrorlk | 6,181
 virakesarilk | 7,384
-adaderanasinhalalk | 7,984
+adaderanasinhalalk | 7,986
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,219 (100.0%) of 46,219 articles have been extended.
+46,223 (100.0%) of 46,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Special speech
+
+*2024-09-25 16:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசத்திற்கு-ஆற்றுகின்ற-விசேட-உரை/175-344447) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"President Anuragumara Dissanayake delivered a special address to the nation at 7:30 PM today."
+
+🟩
+
+New President Anuragumara Dissanayake said the special speech to the nation at 7.30 pm today.
+
+◼️
+
+[Data](articles/876e98fd.json)
+
+[Extended Data](ext_articles/876e98fd.ext.json)
+
+---
+
+### Growth in stock market
+
+*2024-09-25 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201535) · `si`
+
+Stock market growth: Colombo index +2.87%, S&P SL20 +4.59%. Turnover: 3.96 billion rupees.
+
+🟩
+
+Colombo Stock Market Price Index has increased significantly today (25).
+
+All the stock price index recorded a massive increase of 325.59 points or 2.87%.
+
+In addition, the S & P SL20 index increased by 148.54 units and is 4.59% over the previous day.
+
+At the end of transactions, all stock price index value is 11,659.71 units, S & P SL20 index value is 3,383.76 points.
+
+Meanwhile, the turnover appeared at 3.96 billion rupees.
+
+◼️
+
+[Data](articles/132fefeb.json)
+
+[Extended Data](ext_articles/132fefeb.ext.json)
+
+---
+
+### Immigration Controller General remanded
+
+*2024-09-25 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102264/immigration-controller-general-remanded) · `en`
+
+The Controller General of Immigration and Emigration, Harsha Illukpitiya has been remanded by the Supreme Court on contempt of court charges for failing to implement the interim order on the implementation of the electronic visa process.
+
+◼️
+
+[Data](articles/52d3cc9b.json)
+
+[Extended Data](ext_articles/52d3cc9b.ext.json)
+
+---
+
+### Controller of the ruling and Emigration Controller to be remanded
+
+*2024-09-25 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201534) · `si`
+
+Supreme Court remands Immigration & Emigration Controller over e-visa process allegations. Court found Controller violated interim injunction orders. Case involves accusations of defilement of court decisions regarding electronic visa issuing process.
+
+🟩
+
+Immigration and Emigration Controller H. The Supreme Court has been remanded.
+
+The electronic viscue issuing process had been accused of defilement of the interim injunction orders issued against the decision of the decision.
+
+The court ordered to be remanded after reading the charges against the Controller of Immigration and Emigration.
+
+◼️
+
+[Data](articles/337f7563.json)
+
+[Extended Data](ext_articles/337f7563.ext.json)
+
+---
 
 ### ASPI gains for third straight day
 
@@ -2189,103 +2273,5 @@ The President's Election decision has given us a renewed confidence. We are conf
 [Data](articles/b0bad07f.json)
 
 [Extended Data](ext_articles/b0bad07f.ext.json)
-
----
-
-### Teacher arrested for sexually abusing student in Vavuniya
-
-*2024-09-25 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/194733) · `ta`
-
-Teacher accused of abuse by 14-year-old student in Vavuniya. Female educator arrested pending investigation. Student hospitalized for medical exam. Case to be presented in court after further inquiries.
-
-🟩
-
-A 14 -year -old student in Vavuniya has been arrested for allegedly sexually abusing a teacher, police said.
-
-A female teacher from the Eastern Province has been arrested for working as a teacher at a popular school in Vavuniya South Zone.
-
-A 14 -year -old student had lodged a complaint with the student's parents and the Vavuniya Police, after the student's parents had been sexually abused and complained to the school.
-
-The student's affidavit has been obtained and the student has been admitted to the Vavuniya Hospital for medical examination.. Police said the teacher has been arrested on the basis of the vote source and has taken steps to appear in court after further investigations.
-
-◼️
-
-[Data](articles/8eea2121.json)
-
-[Extended Data](ext_articles/8eea2121.ext.json)
-
----
-
-### If the economic issue is to be solved, the national problem of the Tamil people should be solved - Sureshprema Chandran
-
-*2024-09-25 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194713) · `ta`
-
-Suresh Premachandran emphasizes solving Tamil national issues to address Sri Lanka's economic problems. He believes Tamil support is crucial for resolving conflicts like land seizures and missing persons cases. The Tamil General Candidate campaign has gained significant support, receiving over 200,000 votes.
-
-🟩
-
-If the country's economic issue is to be solved, the national issue of the Tamil people must be solved. Former parliamentarian Suresh Premachandran has said that by voting for the Tamil general candidate, the idea of ​​the Tamil people is understandable to the President and the outside world.
-
-He made this statement at a media briefing held at the Tamil General Candidate Office in Jaffna.
-
-If the country's economic problems are to be solved, the cooperation of the Tamil people in this country and the cooperation of the diaspora Tamil people should be very essential if their cooperation is to be solved.
-
-They know why this war took place in this country.. There are a variety of problems in this country. Especially the confiscation of land, the issue of missing persons, and the implementation of the race in the North and East have been carried out in the past.
-
-Therefore, the Tamils ​​expect that such matters will not happen, as they can maintain equality and maintain all races and culture.
-
-...
-
-[Data](articles/44037d0c.json)
-
-[Extended Data](ext_articles/44037d0c.ext.json)
-
----
-
-### Thanks to Ariyanethra, who contested as a common candidate for the Tamil National Uprising- CV Vigneswaran
-
-*2024-09-25 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194732) · `ta`
-
-Here's a 200-character summary:
-
-
-
-CV Vigneswaran thanks PA Ariyanethran for contesting the presidential election, praising his efforts to mobilize Tamil youth and promote Tamil nationalism despite challenges.
-
-🟩
-
-CV Vigneswaran, the leader and parliamentarian of the Tamil People's Alliance, thanked the former parliamentarian PA Ariyanethran, who contested the presidential election without any precedent in a short period of time, and for all the Tamil people who voted for Ariyanethran to love the Tamil nationalism.
-
-I express my heartfelt gratitude to former parliamentarian PA Ariyaneth who contested the Tamil General Election in the last presidential election.
-
-There is no doubt that Ariyanethran's attempt to contest the election has created a political awareness and mobilization among the Tamil people due to the self -interest of the Tamil National Uprising.
-
-He contested the invitation of the general structure and contested this presidential election without any precedent for a short period of time and was working to mobilize the Tamil people as a youth, like a youth, without any boredom, hesitation or exhaustion.
-
-...
-
-[Data](articles/a1194a22.json)
-
-[Extended Data](ext_articles/a1194a22.ext.json)
-
----
-
-### Expressively discussion with the new government
-
-*2024-09-25 02:20:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்துடன்-விரைவில்-கலந்துரையாடல்/175-344417) · `ta`
-
-International Monetary Fund announces upcoming discussion with new Sri Lankan government regarding 3rd review of extended financial facility program. This comes after Anuragumara Dissanayake's inauguration as president.
-
-🟩
-
-The International Monetary Fund said that the new government will soon discuss the period for the 3rd review of the extended financial facility program for Sri Lanka.
-
-This was stated in a statement issued by the International Monetary Fund after Anuragumara Dissanayake was sworn in as the new President of Sri Lanka.. (A)
-
-◼️
-
-[Data](articles/394c40f7.json)
-
-[Extended Data](ext_articles/394c40f7.ext.json)
 
 ---

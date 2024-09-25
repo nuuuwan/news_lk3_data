@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 23:38:39**
+As of **2024-09-25 23:58:07**
 
 ## Newspaper Stats
 
-*Scraped **46,280** Articles*
+*Scraped **46,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 385
 bbccomsinhala | 455
 colombotelegraphcom | 462
 islandlk | 2,705
-economynextcom | 2,804
+economynextcom | 2,807
 dailyftlk | 3,074
-adalk | 4,271
+adalk | 4,272
 dailymirrorlk | 4,733
 adaderanalk | 5,447
 tamilmirrorlk | 6,194
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,280 (100.0%) of 46,280 articles have been extended.
+46,284 (100.0%) of 46,284 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -112,6 +112,28 @@ President Anura Kumara Dissanayake is not objected to the debt restructuring pro
 
 ---
 
+### Sri Lanka President Anura Dissanayake addresses the nation: Full text
+
+*2024-09-25 21:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-anura-dissanayake-addresses-the-nation-full-text-180993/) · `en`
+
+ECONOMYNEXT- Sri Lanka President Anura Dissanayke made a televised address to the nation on September 24. The full text of the prepared speech is reproduced below:
+
+Esteemed Maha Sangha and Religious Leaders, Parents, Brothers, Sisters and Children;
+
+I extend my heartfelt gratitude to all the people of this country who have listened to our voices over the decades and breathed life into the programs we proposed.
+
+We believe that the victory you have given us will be even more strengthened if it brings joy to those who may not have agreed with our vision. Therefore, I want to dedicate this victory to all citizens of our nation.
+
+We honour and remember the courageous men and women of previous generations who made sacrifices, some with their lives, for this victory. I see this victory and the prosperous nation we aim to build as a tribute to their legacy.
+
+...
+
+[Data](articles/962dc5c1.json)
+
+[Extended Data](ext_articles/962dc5c1.ext.json)
+
+---
+
 ### Tamil and Muslim parties review on the general election and contest as a strong party?
 
 *2024-09-25 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194802) · `ta`
@@ -161,6 +183,42 @@ Secretary to the President Dr. Nandika Sanath was also present at the occasion.
 [Data](articles/1a621f89.json)
 
 [Extended Data](ext_articles/1a621f89.ext.json)
+
+---
+
+### Sri Lanka to start talks with IMF, wrap up debt restructure fast: President
+
+*2024-09-25 20:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-talks-with-imf-wrap-up-debt-restructure-fast-president-180982/) · `en`
+
+ECONOMYNEXT – Sri Lanka will start talks with the International Monetary Fund to enhance economic stability and work with creditors, President Anura Dissanayake said in a televised address.
+
+“There are many plans that we want to put in place. But before that we have to achieve stability,” President Dissanayake said.
+
+“We will therefore start talks with the IMF and take forward the matters related to Extended Fund Facility
+
+“We will start discussions with creditors and wrap up debt restructuring and get the concessions.”
+
+President Dissanayake said the voters have place their trust on a new team.
+
+◼️
+
+[Data](articles/8aaf7987.json)
+
+[Extended Data](ext_articles/8aaf7987.ext.json)
+
+---
+
+### Sri Lanka president appoints new governors
+
+*2024-09-25 20:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-new-governors-180987/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has appointed new governors for the nine provinces.
+
+◼️
+
+[Data](articles/c10cfa4a.json)
+
+[Extended Data](ext_articles/c10cfa4a.ext.json)
 
 ---
 
@@ -387,6 +445,36 @@ The proclamation summons the new Parliament to meet on November 21, 2024, and se
 [Data](articles/1478f6c5.json)
 
 [Extended Data](ext_articles/1478f6c5.ext.json)
+
+---
+
+### Let us devote for a populist public service without enjoying people's resources
+
+*2024-09-25 19:22:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනතා-සම්පත්-භුක්ති-විදිමින්-නොසිට-ජනතාවාදී-රාජ්‍ය-සේවයක්-වෙනුවෙන්-කැපකරමු/11-412159) · `si`
+
+Here's a 200-character summary:
+
+
+
+Prime Minister Dr. Harini Amarasuriya emphasizes building a strong public service, independent from political influence. She stresses restoring public trust and confidence in governance.
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya said, "Prime Minister Dr. Harini Amarasuriya said," Prime Minister Dr. Harini Amarasuriya said.
+
+The Prime Minister said this at a discussion held at the Prime Minister's Prime Minister with the Prime Minister's Officers in Colombo this morning.
+
+Prime Minister Dr. Haraini Amarasuriya said,
+
+We must understand that the president is not from another presidential election. The President became the voluntary of the majority of the people in a presidential election after a struggle against a state-held government. The people expressed their decision according to the experiences and seeing of the experiences of last years.
+
+This year's election is more than a party-led elections, more than a party-driven election.
+
+...
+
+[Data](articles/c55190bb.json)
+
+[Extended Data](ext_articles/c55190bb.ext.json)
 
 ---
 
@@ -2351,85 +2439,5 @@ He further mentioned that they have recently noticed on social media that some i
 [Data](articles/8068923c.json)
 
 [Extended Data](ext_articles/8068923c.ext.json)
-
----
-
-### Secretary to the Ministry of Finance will be taken up
-
-*2024-09-25 10:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201526) · `si`
-
-New Secretary of Ministry of Finance assumes duties. Mahinda Siriwardena appointed, previously contributed to IMF credit facility. Holds postgraduate degrees in economics from Vanderbilt University. Experienced in international training programs, central banking, and financial management.
-
-🟩
-
-The new Secretary, who was appointed as the new Secretary of the Ministry of Finance, Economic Development, Policy, Planning, and Tourism Ministry. M. Mahinda Siriwardena assumed duties today (25).
-
-Senior heads of the Treasury and the Head of the Ministry of Finance and the Ministry of Finance were also present at the occasion.
-
-He was a significant contributor to the Sri Lanka, India, Bangladesh and Bhutan, who was able to obtain the comprehensive credit facility of the International Monetary Fund.
-
-A Postgraduate Diploma in Economics and Economic Development has obtained a Postgraduate Degree in Economics and Economics from the University of Vandbilt University.
-
-Mr. Siriwardena is a senior officer who has participated in several international training programs, central banking, financial management, state financial management, state financial management, government financial management, public debt management and financial programming and financial programming.
-
-◼️
-
-[Data](articles/c7aea23a.json)
-
-[Extended Data](ext_articles/c7aea23a.ext.json)
-
----
-
-### Disaster near the entrance of Parliament
-
-*2024-09-25 10:24:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-நுழைவாயிலுக்கு-அருகில்-அனர்த்தம்/175-344428) · `ta`
-
-Military-owned vehicle crashes near Parliament entrance, causes traffic. Driver injured. Vehicle removed after military intervention.
-
-🟩
-
-A military -owned Defender vehicle crashed near the entrance of Parliament this morning, causing traffic congestion on the road near the entrance of Parliament.
-
-He was only hurt because of the driver at the time of the accident.
-
-After the intervention of the military, the vehicle was disposed of about two hours later.
-
-◼️
-
-[Data](articles/3c1fe30c.json)
-
-[Extended Data](ext_articles/3c1fe30c.ext.json)
-
----
-
-### O/L results by the end of this month
-
-*2024-09-25 10:20:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இம்மாத-இறுதிக்குள்-O-L-பெறுபேறுகள்/175-344427) · `ta`
-
-GCE Ordinary Level Examination results expected end of month, according to Commissioner General of Examinations Amit Jayasundara.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara said that the GCE Ordinary Level Examination will be released by the end of this month.
-
-◼️
-
-[Data](articles/d2d8447c.json)
-
-[Extended Data](ext_articles/d2d8447c.ext.json)
-
----
-
-### 2024 General Election: Postal voting applications accepted from today
-
-*2024-09-25 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102255/2024-general-election-postal-voting-applications-accepted-from-today) · `en`
-
-The applications for postal voting in the General Election will be accepted starting today (25), according to the Commissioner General of Elections.
-
-◼️
-
-[Data](articles/b2430508.json)
-
-[Extended Data](ext_articles/b2430508.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 19:11:31**
+As of **2024-09-25 19:22:41**
 
 ## Newspaper Stats
 
-*Scraped **46,256** Articles*
+*Scraped **46,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,444
 tamilmirrorlk | 6,189
 virakesarilk | 7,389
-adaderanasinhalalk | 7,989
+adaderanasinhalalk | 7,990
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,256 (100.0%) of 46,256 articles have been extended.
+46,256 (100.0%) of 46,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### අද රාත්‍රියේ ජනපති ජාතිය අමතයි
+
+*2024-09-25 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201540) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (25) රාත්‍රියේ ජාතිය අමතා විශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිතව තිබේ.
+
+අද රාත්‍රී 7.30ට ජනාධිපතිවරයා ජාතිය ඇමතීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+රටේ ආර්ථික තත්ත්වය මෙන්ම ඉදිරි සැලසුම් සම්බන්ධයෙන් මෙහිදී ජනාධිපතිවරයා අදහස් දැක්වීමට නියමිත බව සඳහන් ය.
+
+ජනාධිපති ධුරයට පත්වීමෙන් අනතුරුව ජනාධිපතිවරයා ජාතිය අමතමින් ප්‍රකාශයක් සිදුකරන පළමු අවස්ථාව මෙය වෙයි.
+
+මේ අතර ජනාධිපතිවරයා ජාතිය අමතා සිදුකරන විශේෂ ප්‍රකාශය TV දෙරණ, අද දෙරණ 24 ප්‍රවෘත්ති නාලිකාව, fm දෙරණ සහ අද දෙරණ සමාජ මාධ්‍ය ජාලා ඔස්සේ රාත්‍රී 7.30 සිට විකාශය කිරීමට සියලුකටයුතු සූදානම් කර තිබේ.
+
+◼️
+
+[Data](articles/8d9b48e2.json)
+
+---
 
 ### "Continue peace of mind"
 
@@ -2359,25 +2379,5 @@ New President Anura Kumara Dissanayake held a high -level meeting with Central B
 [Data](articles/1d940386.json)
 
 [Extended Data](ext_articles/1d940386.ext.json)
-
----
-
-### President discusses a special discussion between the Secretary to the Central Bank Governor and Finance Ministry
-
-*2024-09-25 07:43:13* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති--මහ-බැංකු-අධිපති-හා-මුදල්-අමාත්‍යාංශ-ලේකම්-අතර-විශේෂ-සාකච්ඡාවක්/11-412133) · `si`
-
-President Anura Kumara Dissanayake met with Central Bank Governor Dr. Nandalal Weerasinghe and Finance Secretary Mahinda Siriwardena for a special discussion. They discussed the country's economic situation, focusing on stability and key economic factors.
-
-🟩
-
-President Anura Kumara Dissanayake, Governor of the Central Bank Dr. Nandalal Weandrasidya and Finance Secretary Mahinda Siriwardena has held a special discussion last evening.
-
-The current economic situation of the country has been discussed with a number of matters that affect the economy of the country, including the stability of the economy.
-
-◼️
-
-[Data](articles/13e50385.json)
-
-[Extended Data](ext_articles/13e50385.ext.json)
 
 ---

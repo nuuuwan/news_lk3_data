@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 11:58:30**
+As of **2024-09-25 12:13:21**
 
 ## Newspaper Stats
 
-*Scraped **46,185** Articles*
+*Scraped **46,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 461
 islandlk | 2,705
 economynextcom | 2,793
 dailyftlk | 3,074
-adalk | 4,252
+adalk | 4,253
 dailymirrorlk | 4,733
 adaderanalk | 5,434
-tamilmirrorlk | 6,175
+tamilmirrorlk | 6,176
 virakesarilk | 7,379
 adaderanasinhalalk | 7,977
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 7,977
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,185 (100.0%) of 46,185 articles have been extended.
+46,187 (100.0%) of 46,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Professor Jayantha Lal, Eastern Governor
+
+*2024-09-25 11:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஜெயந்த-லால்-கிழக்கு-ஆளுநர்/175-344431) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Professor Jayantha Lal Ratnasekara, born 1962, becomes Eastern Governor. Educated in Russia, he's a chemist & academic leader. Served as university VC, researcher in renewable energy & education quality. Known for journalism, writing, and translation work.
+
+🟩
+
+Professor Jayantha Lal Ratnasekara will be sworn in as the Governor of the Eastern Province on Wednesday (25).
+
+Professor Jayantha Lal Ratnasekara was born in November 1962. Wife's name is Mallika Ratnasekara. They have a son.
+
+He served as the Vice Chancellor of the University of Uva Wellesa, Sri Lanka from February to 20th November 2017.
+
+He learned his primary education at the Akrabodi Vidyalaya in Kantalai and at the Nalanda College, Colombo (1972-1980). He also graduated from Russia's People's Alliance University.
+
+Honors graduated in chemistry in 1988. In 1993, he earned his doctorate in chemistry.
+
+In August 1996, he joined the University of Sri Lanka as a Senior Lecturer in 2018 as Professor in Chemistry. And from 1999 to 2005 as the Vice Chancellor of the Faculty of Application
+
+In January 2017. In 2021, he served as Chairman of the Vice Chancellor and Directors Committee (CVCD).
+
+...
+
+[Data](articles/76dfde76.json)
+
+[Extended Data](ext_articles/76dfde76.ext.json)
+
+---
 
 ### Kenya Prime Minister congratulates Foreign Minister Vijitha Hera
 
@@ -301,6 +335,26 @@ Although a peace agreement is implemented to end the civil war over the civil wa
 [Data](articles/6b54756c.json)
 
 [Extended Data](ext_articles/6b54756c.ext.json)
+
+---
+
+### The driver's talent avoid danger
+
+*2024-09-25 09:49:37* · [`adalk`](https://www.ada.lk/breaking_news/රියදුරගේ-දක්ෂතාවයෙන්-විශාල-අනතුරක්-වැළකෙයි/11-412135) · `si`
+
+Driver's skill prevents crash: SLTB bus traveling from Randenhowa to Wellawaya avoids accident, disabling vehicle prevents injuries.
+
+🟩
+
+A SLTB bus ranked from Randenhowa to Wellawaya to Wellawaya, a crash was able to prevent the harm to the Wellawaya.
+
+The accident had been prevented when the bus was disabled and controlled by the bus.No one has been injured in the accident.
+
+◼️
+
+[Data](articles/73b00122.json)
+
+[Extended Data](ext_articles/73b00122.ext.json)
 
 ---
 
@@ -2215,53 +2269,5 @@ New President Anura Kumara Dissanayake will address the people of the country at
 [Data](articles/0fc9d1a0.json)
 
 [Extended Data](ext_articles/0fc9d1a0.ext.json)
-
----
-
-### President calls nation tomorrow
-
-*2024-09-24 20:03:51* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-හෙට-ජාතිය-අමතයි/11-412129) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Tomorrow at 7:30 PM, President Anura Kumara Dissanayake will address the nation."
-
-🟩
-
-President Anura Kumara Dissanayake is due to call on the race at 7.30 pm tomorrow (25).
-
-◼️
-
-[Data](articles/8910e9f5.json)
-
-[Extended Data](ext_articles/8910e9f5.ext.json)
-
----
-
-### New Director General Appointment
-
-*2024-09-24 20:02:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பணிப்பாளர்-நாயகம்-நியமனம்/175-344397) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"President appoints Dr. Najith Indika as new Director General of President's Media Division. He's a medical doctor with experience in government hospitals."
-
-🟩
-
-President Anurakumara Dissanayake has appointed Dr. Najith Indika as the new Director General of the President's Media Division (PMD).
-
-Dr. Najith Hambantota was an alumnus of Ranna Maha Vidyalaya and Royal College, Colombo and graduated from the University of Colombo at the Faculty of Medicine, Colombo.
-
-For the past five years, it is noteworthy that he has been a doctor and a medical officer in various government hospitals.
-
-◼️
-
-[Data](articles/5a40604f.json)
-
-[Extended Data](ext_articles/5a40604f.ext.json)
 
 ---

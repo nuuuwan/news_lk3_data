@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 06:08:18**
+As of **2024-09-25 06:43:54**
 
 ## Newspaper Stats
 
-*Scraped **46,122** Articles*
+*Scraped **46,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 384
 bbccomsinhala | 452
 colombotelegraphcom | 458
-islandlk | 2,696
+islandlk | 2,697
 economynextcom | 2,791
 dailyftlk | 3,067
 adalk | 4,247
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,968
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,117 (100.0%) of 46,122 articles have been extended.
+46,123 (100.0%) of 46,123 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -286,6 +286,8 @@ In their campaigns, the candidates spoke little on the important aspect of impro
 
 [Data](articles/9cd0ccc5.json)
 
+[Extended Data](ext_articles/9cd0ccc5.ext.json)
+
 ---
 
 ### Dawn of a new era with cautious optimism
@@ -298,55 +300,81 @@ What happened on 21 September 2024 was historic. It was another milestone in the
 
 [Data](articles/caa8d52d.json)
 
+[Extended Data](ext_articles/caa8d52d.ext.json)
+
 ---
 
-### ஜனாதிபதி ஊடகப் பணிப்பாளர் நாயகமாக வைத்தியர் நஜித் இந்திக்க நியமனம்
+### Dr. Najith Indika appointed as the Director General of the President
 
 *2024-09-25 03:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194736) · `ta`
 
-ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் ஜனாதிபதி ஊடகப் பணிப்பாளர் நாயகமாக வைத்தியர் நஜித் இந்திக்க நியமிக்கப்பட்டுள்ளார்.
+Dr. Najith Indika appointed Director General of Presidential Media by President Anura Kumara Dissanayake. Formerly a doctor in state hospitals, he was a university student activist and political activist.
 
-ஹம்பாந்தோட்டை ரன்ன மத்திய கல்லூரி மற்றும் கொழும்பு ரோயல் கல்லூரியின் பழைய மாணவரான வைத்தியர் நஜித் இந்திக்க, கொழும்பு மருத்துவ பீடத்தில் தனது மருத்துவ பட்டப்படிப்பை நிறைவு செய்தார்.
+🟩
 
-கடந்த 05 வருடங்களில் பல அரச வைத்தியசாலைகளில் வைத்தியராகவும் வைத்திய அதிகாரியாகவும் இவர் கடமையாற்றியுள்ளார்.
+Dr. Najith Indika has been appointed as the Director General of the Presidential Media by President Anura Kumara Dissanayake.
 
-வைத்தியர் நஜித் இந்திக்க பல்கலைக்கழக மாணவர் செயற்பாட்டாளர் மற்றும்  அரசியல் செயற்பாட்டாளர் என்பது குறிப்பிடத்தக்கது.
+Dr. Najith Indika, an alumnus of Ran Central College and Royal College, Colombo, completed his medical degree at the Medical Faculty of Colombo.
+
+He has been a doctor and a doctor in several state hospitals over the past five years.
+
+It is noteworthy that Dr. Najith is a student activist and political activist at the University of Indika.
 
 ◼️
 
 [Data](articles/5075c08b.json)
 
+[Extended Data](ext_articles/5075c08b.ext.json)
+
 ---
 
-### மட்டு. களுதாவளையில் வீடொன்றிலிருந்து குடும்பப் பெண் ஒருவர் சடலமாக மீட்பு!
+### Bore. A family woman recovered from a house in Kaluttawa
 
 *2024-09-25 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194735) · `ta`
 
-மட்டக்களப்பு மாவட்டம் களுவாஞ்சிகுடிப் பொலிஸ் பிரிவுக்குட்பட்ட களுதாவளை 4 ஆம் பிரிவு பாலர் பாடசாலை வீதியிலுள்ள வீடொன்றிலிருந்து குடும்பப் பெண் ஒருவர் சடலமாக செவ்வாய்க்கிழமை (24) மாலை மீட்கப்பட்டுள்ளதாக களுவாஞ்சிகுடி பொலிசார் தெரிவித்தனர்.
+Family woman found dead in Batticaloa. Husband missing. Police investigating murder theory.
 
-குறித்த வீட்டில் கணவன் மனைவி ஆகிய இருவரும் வசித்து வந்துள்ளனர். எனினும் கணவன் மனைவி இருவருக்கும் இடையிடையே தகராறுகள் இடம்பெற்று வருவதாக அயலவர்கள் தெரிவித்தனர்.
+🟩
 
-குறித்த குடும்பப் பெண் தனியார் ஆடைத் தொழிற்சாலை ஒன்றில் பணிபுரிந்து வருகின்றார். சம்பவதினமான செவ்வாய்க்கிழமை தனது மகள் வேலைக்குச் சென்றுள்ளார் என நினைத்துக் கொண்டு அவரது தாயார் உயிரிழந்த மகளின் தொலைபேசிக்கு பலதடவை  அழைப்பெடுத்துள்ளார். எனினும் அவரது தொலைபேசி இயங்கவில்லை. உயிரிழந்த பெண்ணின் சகோதரன் தனது அக்காவின் வீட்டிற்குச் சென்று பார்த்தபோது அவரது வீடு பூட்டப்பட்டிருந்தது. ஆனாலும் அக்காவின் செருப்பு வீட்டின் முன்னால் கிடந்துள்ளன.
+A family woman has been recovered from a house on the 4th Division of Kaluthawala, Kaluwanchikudi Police Division, Batticaloa District, has been recovered on Tuesday evening.
+
+Both husband and wife live in the house. However, neighbors said that the husband and wife were involved in intermittent disputes.
+
+The family woman works at a private garment factory. Thinking that her daughter had gone to work on Tuesday, her mother invited her to the death of her dead daughter.. However his phone is not running. The deceased woman's brother went to his sister's house and her house was locked. Yet the sister's sandals are lying in front of the house.
+
+The suspect's brother was lying in the blood of his bed when he saw the door of the house in accordance with the complaint of a complaint at the Kaluwanchikudi police station.
+
+Kaluwanjikudi police, Batticaloa Crime Prevention Unit, Fingerprint Forensic Division, and many others are conducting investigations.
 
 ...
 
 [Data](articles/743329f8.json)
 
+[Extended Data](ext_articles/743329f8.ext.json)
+
 ---
 
-### ராஜபக்ஷ ஆட்சியின் அட்டூழியங்களுக்கான பொறுப்புக்கூறலை அரசாங்கம் புதிய கோணத்தில் அணுகும் - மகள் அஹிம்சா
+### The government approaches the responsibility of the atrocities of the Rajapaksa regime
 
 *2024-09-25 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/194734) · `ta`
 
-ஜனாதிபதித்தேர்தல் முடிவு எமக்கு மீண்டும் புதுப்பிக்கப்பட்ட நம்பிக்கையை அளித்திருக்கிறது. எனது தந்தையின் படுகொலை உள்ளடங்கலாக இலங்கையின் சமகால மனித உரிமைகள் வரலாற்றில் பதிவான மீறல்களை புதிய அரசாங்கம் மாறுபட்ட புதியதொரு கோணத்தில் அணுகும் என நம்புகின்றோம் என படுகொலை செய்யப்பட்ட ஊடகவியலாளர் லசந்த விக்ரமதுங்கவின் மகள் அஹிம்சா விக்ரமதுங்க தெரிவித்துள்ளார்.
+Sri Lanka's new government faces calls for justice over Rajapaksa regime atrocities. Ahimsa Wickrematunge seeks truth and accountability for her father's assassination. She expresses hope in the new administration's approach to human rights issues.
 
-நாட்டின் ஒன்பதாவது ஜனாதிபதித்தேர்தல் முடிவுகள் வெளியானதன் பின்னர் திங்கட்கிழமை (23) தனது உத்தியோகபூர்வ 'எக்ஸ்' தளப்பக்கத்தில் பதிவொன்றைச் செய்திருக்கும் அஹிம்சா விக்ரமதுங்க, அதில் மேலும் கூறியிருப்பதாவது:
+🟩
 
-உண்மையைச் சொன்னதற்காக நியாயமற்ற வகையில் எனது தந்தையின் உயிர் பறிக்கப்பட்டது. அதற்கு நீதிகோரி இன்று நாம் நம்பிக்கையுடனும் இடைவிடாத அர்ப்பணிப்புடனும் காத்திருக்கின்றோம். 15 வருடங்கள் கடந்த பின்னரும் அதனால் ஏற்பட்ட வலி இன்னமும் தொடர்கிறது. ஆனால் உண்மை மற்றும் பொறுப்புக்கூறலை அடைந்துகொள்வதற்கான எனது போராட்டத்தில் நான் திடமாக இருக்கிறேன்.
+The President's Election decision has given us a renewed confidence. "We hope that the new government will approach the violations of the history of Sri Lanka's contemporary human rights, including my father's assassination," said Ahimsa Wickrematunga, daughter of journalist Lasantha Wickrematunge, who was assassinated. "
+
+Ahimsa Wickrematunge, who has made a record on its official 'X' site on Monday (23) after the country's ninth presidential results were released, said:
+
+My father's life was unreasonable for telling the truth. Today we are waiting for confidence and unrelenting commitment. After 15 years, the pain is still continuing. But I am firm in my struggle to achieve truth and accountability.
+
+The President's Election decision has given us a renewed confidence. We are confident that the new government will approach a different angle in the history of Sri Lanka's contemporary human rights.
 
 ...
 
 [Data](articles/b0bad07f.json)
+
+[Extended Data](ext_articles/b0bad07f.ext.json)
 
 ---
 
@@ -495,6 +523,22 @@ The President has issued the Gazette by virtue of the powers vested in him by Ar
 [Data](articles/929561e8.json)
 
 [Extended Data](ext_articles/929561e8.ext.json)
+
+---
+
+### Rotary Club of Colombo Mid Town celebrates 50 years with a vision for community impact
+
+*2024-09-24 22:54:00* · [`islandlk`](http://island.lk/rotary-club-of-colombo-mid-town-celebrates-50-years-with-a-vision-for-community-impact/) · `en`
+
+On August 23, 2024, the Rotary Club of Colombo Mid Town commemorated a remarkable milestone with its 50th installation ceremony, held at Elevate by Jetwing. The event, which saw over 90 attendees, celebrated the club’s five decades of unwavering dedication to community service.
+
+The ceremony was honored by the presence of Rtn. Sushena Ranathunga, District Governor of District 3220, who lauded the club’s impressive achievements throughout its history. In his address, he urged members to maintain their steadfast commitment to making a positive difference in society.
+
+...
+
+[Data](articles/0685bfd3.json)
+
+[Extended Data](ext_articles/0685bfd3.ext.json)
 
 ---
 
@@ -2385,19 +2429,5 @@ The JMO, who examined the girl, confirmed that the girl was six months pregnant.
 [Data](articles/b9358746.json)
 
 [Extended Data](ext_articles/b9358746.ext.json)
-
----
-
-### CSE’s ASPI gains for second consecutive day
-
-*2024-09-24 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102241/cses-aspi-gains-for-second-consecutive-day) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has increased by 237.31 points to close at 11,334.12 today (24).
-
-◼️
-
-[Data](articles/57576c32.json)
-
-[Extended Data](ext_articles/57576c32.ext.json)
 
 ---

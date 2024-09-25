@@ -1,36 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 08:01:41**
+As of **2024-09-25 08:44:24**
 
 ## Newspaper Stats
 
-*Scraped **46,128** Articles*
+*Scraped **46,150** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 384
-bbccomsinhala | 452
-colombotelegraphcom | 458
-islandlk | 2,697
+bbccomsinhala | 453
+colombotelegraphcom | 459
+islandlk | 2,705
 economynextcom | 2,793
-dailyftlk | 3,067
-adalk | 4,247
+dailyftlk | 3,074
+adalk | 4,249
 dailymirrorlk | 4,733
-adaderanalk | 5,428
+adaderanalk | 5,430
 tamilmirrorlk | 6,161
 virakesarilk | 7,374
-adaderanasinhalalk | 7,971
+adaderanasinhalalk | 7,972
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,128 (100.0%) of 46,128 articles have been extended.
+46,138 (100.0%) of 46,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### A racket of celebrating positions in Customs
+
+*2024-09-25 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201520) · `si`
+
+Sri Lanka Customs warns against fake interview prep workshops. Real interviews focus on education, fitness tests. Candidates don't need extra coaching.
+
+🟩
+
+Sri Lanka Customs says that some people have been racket announcement of rehearsal interviews to recruit Assistant Customs Superintendents.
+
+Its media spokesman Sivley Arukgoda says that no workshop has not been organized for the interviews.
+
+"New Assistant Customs Superson to Sri Lanka Customs. According to the results of that match, we have been called to a group of interview. This interview is expected to carry on the 27,28 and 29 days of this month.
+
+...
+
+[Data](articles/10290754.json)
+
+[Extended Data](ext_articles/10290754.ext.json)
+
+---
+
+### India’s Jaishankar congratulates Sri Lanka’s new Foreign Minister Vijitha Herath
+
+*2024-09-25 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102252/indias-jaishankar-congratulates-sri-lankas-new-foreign-minister-vijitha-herath) · `en`
+
+Indian External Affairs Minister (EAM) S Jaishankar on Tuesday congratulated Vijitha Herath on his appointment as Foreign Minister of Sri Lanka.
+
+Jaishankar expressed his commitment to reinforcing India-Sri Lanka civilizational ties and strengthening the traditionally close bonds of friendship between the two countries.
+
+In a post on X, he said, “Congratulate Vijitha Herath on his appointment as Foreign Minister of Sri Lanka. Committed to reinforcing our civilizational ties, strengthening our traditionally close bonds of friendship and expanding our multifaceted cooperation for the benefit of both our peoples.”
+
+On Tuesday, President Anura Kumara Dissanayake appointed Harini Amarasuriya as the 16th Prime Minister of Sri Lanka. Amarasuriya, a member of the National People’s Power (NPP) party, is an academic, rights activist, and university lecturer known for her work in education and social justice.
+
+...
+
+[Data](articles/94253828.json)
+
+[Extended Data](ext_articles/94253828.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the country
+
+*2024-09-25 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102251/several-spells-of-showers-expected-in-parts-of-the-country) · `en`
+
+The Department of Meteorlogy says several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at a few places in Uva province and in Ampara and Batticaloa districts during the evening or night, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central, North-western and Southern provinces and in Trincomalee, Matale and Monaragala districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/8914dacb.json)
+
+[Extended Data](ext_articles/8914dacb.ext.json)
+
+---
 
 ### President and the Central Bank domestic discussion
 
@@ -90,6 +152,112 @@ The 10th Parliament appointed by the General Election will meet on November 21.
 
 ---
 
+### SLASSCOM congratulates President Anura Kumara Dissanayake
+
+*2024-09-25 06:31:31* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-congratulates-President-Anura-Kumara-Dissanayake/34-767121) · `en`
+
+The Sri Lanka Association of Software and Services Companies (SLASSCOM) in a statement yesterday extended its heartfelt congratulations to President Anura Kumara Dissanayake on his election as the President of Sri Lanka.
+
+“Having handed over our strategic policy document “Igniting Knowledge, Inspiring Growth” to him prior to the elections, we are eager to continue working closely with his administration to ensure consistent and forward-looking policies for the growth of Sri Lanka’s Knowledge and Innovation (IT and BPM) sector.”
+
+“IT and BPM sector is a key driver of economic growth and a crucial pillar in Sri Lanka’s export economy boasting of a value addition of over 75%, making it a high-value sector capable of contributing significantly to the country’s economic development.”
+
+...
+
+[Data](articles/6fba4b23.json)
+
+[Extended Data](ext_articles/6fba4b23.ext.json)
+
+---
+
+### Sri Lanka Gem and Jewellery Association congratulates President AKD; looks for progressive steps
+
+*2024-09-25 06:31:11* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Gem-and-Jewellery-Association-congratulates-President-AKD-looks-for-progressive-steps/34-767120) · `en`
+
+The Sri Lanka Gem and Jewellery Association (SLGJA), the apex body and the voice of the country’s gem and jewellery industry, in a statement yesterday extended heartfelt congratulations to Anura Kumara Dissanayake on being sworn in as the 9th President of the Democratic Socialist Republic of Sri Lanka.
+
+It said as an industry that has long been an integral part of Sri Lanka’s rich cultural heritage and economic strength, SLGJA is confident that under the new President’s visionary leadership, the nation will continue to thrive and reach new heights of prosperity. His commitment to progress, national unity, and the well-being of all Sri Lankans aligns closely with the values and aspirations of the Gem and Jewellery sector, which remains a foundation of both the country’s identity and its economy.
+
+...
+
+[Data](articles/65d960b0.json)
+
+[Extended Data](ext_articles/65d960b0.ext.json)
+
+---
+
+### Chamber of Construction Industry congratulates President AKD, appeals for effective interventions
+
+*2024-09-25 06:30:51* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Construction-Industry-congratulates-President-AKD-appeals-for-effective-interventions/34-767119) · `en`
+
+Chamber of Construction Industry of Sri Lanka Secretary General/CEO Eng. Nissanka N. Wijeratne
+
+The Chamber of Construction Industry of Sri Lanka, statutorily established as the apex representative body of all stakeholders of the construction industry, yesterday extended its sincere congratulations to President Anura Kumara Dissanayake on his great victory as the ninth Executive President of Sri Lanka.
+
+The construction industry comprises many stakeholders including engineers, architects, quantity surveyors, valuers, land surveyors, town planners, contractors, consultants, real estate developers, material manufacturers and suppliers, machinery and equipment importers and hirers etc.
+
+The construction industry, in the past, contributed 8-10% to the GDP and provided employment to nearly 1.4 million, both direct and indirect. As such, 20% of our population is dependent on the construction industry.
+
+...
+
+[Data](articles/b7464739.json)
+
+[Extended Data](ext_articles/b7464739.ext.json)
+
+---
+
+### Association of Professional Bankers says Presidency of AKD marks beginning of new era
+
+*2024-09-25 06:29:30* · [`dailyftlk`](https://www.ft.lk/business/Association-of-Professional-Bankers-says-Presidency-of-AKD-marks-beginning-of-new-era/34-767118) · `en`
+
+The Association of Professional Bankers (APB) of Sri Lanka in a statement yesterday said it extends warm congratulations to Anura Kumara Dissanayake on his election as the President of Sri Lanka.
+
+“This historic moment marks the beginning of a new era for the country, and APB is optimistic about the future under his strategic leadership,” it said.
+
+As the nation embarks on this new path, APB said it is aware of the vital role of banking in advancing Sri Lanka’s economic growth and stability. The Association is committed to working closely with the policy makers to ensure that the financial services industry continues to support the economic aspirations of the people.
+
+...
+
+[Data](articles/ec0b58e7.json)
+
+[Extended Data](ext_articles/ec0b58e7.ext.json)
+
+---
+
+### Ceylon Institute of Builders congratulates new President Anura
+
+*2024-09-25 06:28:57* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Institute-of-Builders-congratulates-new-President-Anura/34-767117) · `en`
+
+The Ceylon Institute of Builders (CIOB) yesterday extended its warmest wishes to new President Anura Kumara Dissanayake, acknowledging his victory as a pivotal moment for Sri Lanka.
+
+“We hope that our new President and the new Government helps up stand the construction industry, which is made up of a large portion of the country’s workforce and provides employment to the most in-need workers and provides work for small and medium sector entrepreneurs,” the CIOB noted in a statement.
+
+...
+
+[Data](articles/cdfbbe16.json)
+
+[Extended Data](ext_articles/cdfbbe16.ext.json)
+
+---
+
+### Sri Lanka puts up impressive show at first edition of Gulfood Green 2024
+
+*2024-09-25 06:25:36* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-puts-up-impressive-show-at-first-edition-of-Gulfood-Green-2024/34-767116) · `en`
+
+Key initiative championed by Consulate General of Sri Lanka in Dubai in partnership with Sri Lanka Industrial Development Board, Department of Commerce and Sri Lanka Business Council in UAE
+
+In an effort to connect domestic manufacturers with global value chains and provide opportunities for Sri Lanka exporters to engage in international trade, the Consulate General of Sri Lanka to Dubai and the Northern Emirates, in collaboration with the Industrial Development Board (IDB) and the Department of Commerce as well as with the well support of the Sri Lanka Business Council in UAE, has organised Sri Lanka’s participation in the inaugural edition of Gulfood Green.
+
+This landmark event, spearheaded by the renowned Gulfood team, the Middle East’s largest food and beverage exhibition organiser, kicked off yesterday and will go on until 26 September at the Dubai World Trade Centre.
+
+...
+
+[Data](articles/07122891.json)
+
+[Extended Data](ext_articles/07122891.ext.json)
+
+---
+
 ### Showers in several areas
 
 *2024-09-25 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201516) · `si`
@@ -111,6 +279,24 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/e68c20f5.json)
 
 [Extended Data](ext_articles/e68c20f5.ext.json)
+
+---
+
+### FITIS congratulates new President
+
+*2024-09-25 06:22:51* · [`dailyftlk`](https://www.ft.lk/business/FITIS-congratulates-new-President/34-767115) · `en`
+
+A vision for digital transformation to achieve a $ 15 b contribution to GDP from the digital economy by 2030
+
+The Federation of Information Technology (Guarantee) Ltd. (FITIS) yesterday extends its warm congratulations to the newly elected President of the Democratic Socialist Republic of Sri Lanka Anura Kumara Dissanayake.
+
+As the apex body of the country’s ICT sector, the FITIS said it believes that the leadership demonstrated by the President will create pivotal opportunities for Sri Lanka to accelerate its digital transformation.
+
+...
+
+[Data](articles/f14a129b.json)
+
+[Extended Data](ext_articles/f14a129b.ext.json)
 
 ---
 
@@ -558,6 +744,30 @@ He contested the invitation of the general structure and contested this presiden
 
 ---
 
+### ලෙබනනයේ යුද අත්දැකීම් ලැබූ ලාංකිකයා : 'වටේටම බෝම්බම දාන නිසා අපි එහෙන් ආවා'
+
+*2024-09-25 02:15:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyl0nlxp27o) · `si`
+
+ලෙබනනයේ යුද අත්දැකීම් ලැබූ ලාංකිකයා : 'වටේටම බෝම්බම දාන නිසා අපි එහෙන් ආවා'
+
+දකුණු දිග ලෙබනනයට එල්ලවන ඊශ්‍රායල් ප්‍රහාර හමුවේ ඒහි වෙසෙන සාමාන්‍ය වැසියන් සිය ජීවිතාරක්ෂාව පතා පළා යමින් සිටින බව එහි වෙසෙන ශ්‍රී ලාංකිකයෙකු බීබීසී සිංහල වෙත පැවසීය.
+
+යුද ගැටුම් හමුවේ තමන් ලද අත්දැකීම් ගැන විස්තර හෙළි කරමින් ඔහු පැවසුවේ ඊශ්‍රායල් ගුවන් හමුදා ජෙට් යානා අඛණ්ඩව ප්‍රහාර එල්ල කරන බවය.
+
+ප්‍රහාර වලින් මේවන විට පුද්ගලයින් 550කට අධික පිරිසක් මියගොස් තිබේ.
+
+ඊශ්‍රායල ප්‍රහාර වැඩි වශයෙන් එල්ලවූ දකුණු දිග ලෙබනනයේ සේවය කරන ශ්‍රී ලාංකිකයෙකු වන සාගර කුමාර පීරිස් (40) තමන් මුහුණ දුන් අත්දැකීම් සම්බන්ධයෙන් බීබීසී සිංහල සේවය වෙත මෙලෙස අදහස් පළ කළේය.
+
+ඔහු පැවසුවේ ඊශ්‍රායල ආරක්ෂක අංශ ප්‍රහාර එල්ල කරන විට තමා සහ බිරිඳ දකුණු දිග ලෙබනනයේ ජීවත් වෙමින් සිටි බවයි.
+
+"මම දැන් ලෙබනනයට ඇවිල්ලා මාස 06ක් වෙනවා. මම කොරෝනා එද්දී ලෙබනනයේ සේවය කරමින් ඉදලා ලංකාවට ගිහින් ඉදලා ආපහු ලෙබනන් වල රැකියාවට ආවා. දැන් මම වතු සේවකයෙකු විදිහට රැකියාව කරනවා. මගේ බිරිඳත් ඉන්නේ මාත් එක්ක."
+
+...
+
+[Data](articles/37026a05.json)
+
+---
+
 ### 2024-09-24 (Tuesday)
 
 ### We hope that President Anura Kumara Dissanayake will fulfill the confidence of the people -Vajira Abeywardena
@@ -628,6 +838,22 @@ It is reported that the Gazette to dissolve Parliament from midnight on Tuesday 
 
 ---
 
+### පාර්ලිමේන්තුව විසුරුවා හරියි
+
+*2024-09-24 23:07:35* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-විසුරුවා-හරියි/11-412132) · `si`
+
+මෙරට 9 වැනි පාර්ලිමේන්තුව විසුරුවා හැරිමට අදාළ ගැසට් නිවේදනය ජනපති අනුර කුමාර දිසානායක මහතාගේ අත්සනින් නිකුත් කෙරිණි. ජනපතිවරයා පසුගිය ජනපතිවරණයේදි ලබාදුන් පොරොන්දු අනුව මෙම විසුරුවා හැරිම සිදු කෙරිණි.
+
+මේ අනුව නව පාර්ලිමේන්තුව ලබන නොවැම්බර් මස 21 වැනිදා රැස්විමට නියමිත අතර පාර්ලිමේන්තු මැතිවරණය නොවැම්බර් මස 14 දා පැවැත්වීමට නියමිතය.
+
+මැතිවරණය වෙනුවෙන් නාම යෝජනා කැඳවීම ඔක්තෝබර් මස 4 දා සිට 11 දා දක්වා සිදු කෙරෙයි. පාර්ලිමේන්තුව විසුරුවා හැරිමෙන් පසුව එහි සියලුම මන්ත්‍රීවරුන්ගේ ධුර අහෝසිවිය.
+
+◼️
+
+[Data](articles/73d5954d.json)
+
+---
+
 ### Sri Lanka’s General Election on November 14
 
 *2024-09-24 22:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102250/sri-lankas-general-election-on-november-14) · `en`
@@ -647,6 +873,22 @@ The President has issued the Gazette by virtue of the powers vested in him by Ar
 [Data](articles/929561e8.json)
 
 [Extended Data](ext_articles/929561e8.ext.json)
+
+---
+
+### Arpico Mattress hosts 2024 Top Dealer Awards, unveiling three new mattresses to herald future achievements
+
+*2024-09-24 22:55:00* · [`islandlk`](http://island.lk/arpico-mattress-hosts-2024-top-dealer-awards-unveiling-three-new-mattresses-to-herald-future-achievements/) · `en`
+
+Arpico, being the leading trailblazer of Sri Lanka’s mattress industry, hosted an event celebrating outstanding achievements in the Polyurethane sector.
+
+Recently held at the Colombo Monarch Imperial Hotel, the awards ceremony, hosted by Arpico Mattress, recognised the efforts of 150 chosen dealers. The Dealer Awards occupies a special place in the events calendar of Arpico’s Local Manufacturing and Distribution sector. This edition featured over 150 dealers with who have accumulated impressive sales numbers for the company.
+
+The gift and awards categories ranged from Silver to Gold and Platinum. The prizes offered included sponsored tours. The tour allocated to the Silver Category was between Malaysia and Bangkok. The Gold Category tours included Bangkok, Pattaya and Dubai. The Platinum Category included Philippines and Vietnam. Also included with the tour are certificates and plaques commemorating the winners’ efforts.
+
+...
+
+[Data](articles/0239930a.json)
 
 ---
 
@@ -757,6 +999,44 @@ It is estimated to cost 11 billion rupees to hold the general election. Treasury
 [Data](articles/2dd030c8.json)
 
 [Extended Data](ext_articles/2dd030c8.ext.json)
+
+---
+
+### Sri Lanka’s first-ever Green Bonds from DFCC Bank oversubscribed on opening day
+
+*2024-09-24 22:34:00* · [`islandlk`](http://island.lk/sri-lankas-first-ever-green-bonds-from-dfcc-bank-oversubscribed-on-opening-day/) · `en`
+
+DFCC Bank has made history again by successfully concluding Sri Lanka’s first-ever Green Bond issuance, which was heavily oversubscribed on its opening day, 12th September 2024. This is a significant milestone for the country’s financial sector, underscoring DFCC Bank’s unwavering commitment to sustainability. The Issue represents a substantial boost for the nation’s solar energy sector, as the proceeds are earmarked exclusively for renewable (solar) energy projects that generate significant environmental benefits. DFCC Bank’s Green Bonds will soon be listed on the Colombo Stock Exchange (CSE) and traded publicly.
+
+...
+
+[Data](articles/188fa1fc.json)
+
+---
+
+### Centrum Marine Consultancy and Döhle (IOM) announce strategic partnership to boost Sri Lanka’s maritime industry
+
+*2024-09-24 22:33:00* · [`islandlk`](http://island.lk/centrum-marine-consultancy-and-dohle-iom-announce-strategic-partnership-to-boost-sri-lankas-maritime-industry/) · `en`
+
+Centrum Marine Consultancy, the rising leader in Marine HR solutions in Sri Lanka, has announced a strategic partnership with Döhle (IOM) Limited, a renowned global maritime services provider and part of the Döhle Group. This collaboration has resulted in the formation of a joint venture, Doehle Marine Lanka Pvt Ltd, with the goal of significantly increasing employment opportunities for Sri Lankan seafarers in the global maritime industry.
+
+...
+
+[Data](articles/716f6ae2.json)
+
+---
+
+### CSE in bullish start following news of govt. and IMF working towards common position
+
+*2024-09-24 22:27:00* · [`islandlk`](http://island.lk/cse-in-bullish-start-following-news-of-govt-and-imf-working-towards-common-position/) · `en`
+
+The stock market kicked off on a bullish sentiment yesterday as most investors believe that the new government will be negotiating with the IMF with a view to arriving at a consensual position, market analysts said.
+
+Amid those developments both local and foreign investors adopted a wait- and- see approach. However, both indices moved upwards. The All- Share Price Index increased by 239.88 points (2.16 percent) to close at 11.336, while the S and SL20 increased by 76.16 points (2.41 percent) to close at 3.236.79. Turnover stood at Rs 2 billion without any crossings.
+
+...
+
+[Data](articles/bdff402b.json)
 
 ---
 
@@ -1049,6 +1329,20 @@ During the election campaign, Dissanayake vowed to dissolve Parliament if he win
 [Data](articles/93f3944a.json)
 
 [Extended Data](ext_articles/93f3944a.ext.json)
+
+---
+
+### කතරගම දෙටගමුව සුරා සැල මගේ නෙමෙයි
+
+*2024-09-24 20:08:46* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-දෙටගමුව-සුරා-සැල-මගේ-නෙමෙයි/11-412130) · `si`
+
+“කතරගම දෙටගමුවේ තියෙන සුරා සැල මා විසින් කරගෙන යන එකක් කියා චෝදනා එල්ල කර තිබුණා.මේක තනිකරම අසත්‍යයක්.මගෙන් කිසිදු විමසීමක්වත් නොකර ඒ බව පුවත් පත්වල පවා පළ කරලා තිබුණා.මේ සම්බන්ධයෙන් මගේ දැඩි අප්‍රසාදය පළකරනවා”  හම්බන්තොට දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී නියෝජ්‍ය කතානායක අජිත් රාජපක්ෂ මහතා ඊයේ (24දා) අද කළ විමසීමකදී පැවසීය.
+
+කතරගම, දෙටගමුව ප්‍රදේශයේ නව සුරා සැලක් විවෘත කිරීමත් සමග මහා සංඝ රත්නය විසින් ඊට විරෝධය පළකරමින් එය වසා දමන තෙක් ප්‍රදේශයේ දහම් පාසැල් වසා තැබීමට 23 දින තීරණය කර තිබේ. මෙම සුරාසැල ආරම්භ කිරීම සම්බන්ධයෙන් චෝදනා එල්ලවී ඇත්තේ හම්බන්තොට දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී හා නියෝජ්‍ය කතානායක අජිත් රාජපක්ෂ මහතාටය.ඒ අනුව මේ සම්බන්ධයෙන් අප නියෝජ්‍ය කතානායක අජිත් රාජපක්ෂ මහතාගෙන් සිදු කළ විමසිමකට ප්‍රතිචාර දක්වමින් ඔහු වැඩිදුරටත් මෙසේද පැවසීය.
+
+...
+
+[Data](articles/6495a2e5.json)
 
 ---
 
@@ -1804,6 +2098,18 @@ The fund also said that action will be taken to discuss the time framework regar
 
 ---
 
+### Unfulfilled Demands Of Aragalaya Channeled Into Democratic Change
+
+*2024-09-24 18:09:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/unfulfilled-demands-of-aragalaya-channeled-into-democratic-change/) · `en`
+
+The extraordinary events that took place during 2022 have reached their denouement at the recently concluded presidential election. The Aragalaya protests that lasted for over three months in the middle of 2022 that were spearheaded by youth and became a mighty protest movement by tens of thousands of people from all walks of life and all parts of the country finally drove the then president and government from power. But as the president and government they forced out had more than two years of their terms remaining, being elected in 2019 and 2020 respectively, the protestors could only force the government to resign. They could not replace it with a government of their choice until elections were due again, which happened on September 21.
+
+...
+
+[Data](articles/a02ab679.json)
+
+---
+
 ### Gold and Silver Winners were given cash prize in the Asian series
 
 *2024-09-24 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194721) · `ta`
@@ -2001,443 +2307,5 @@ Sri Lanka saw a peaceful transition of power, but investors are still awaiting a
 [Data](articles/e285f516.json)
 
 [Extended Data](ext_articles/e285f516.ext.json)
-
----
-
-### ‘Parliament will most likely be dissolved today’ – PM Harini
-
-*2024-09-24 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102244/parliament-will-most-likely-be-dissolved-today-pm-harini) · `en`
-
-The newly appointed Prime Minister Dr. Harini Amarasuriya stated that Sri Lanka’s Parliament is most likely to be dissolved today (24).
-
-Speaking to the media after being sworn-in as the Prime Minister, Dr. Amarasuriya said that she will assume the duties in the office of the Prime Minister before the dissolution of Parliament.
-
-“I have to assume duties now. After that, we have to start our work. Parliament will most likely be dissolved today. I have to go assume duties before that.”
-
-Furthermore, she expressed: “We are very thankful to the public for trusting us. We will safeguard that trust.”
-
-National People’s Power (NPP) MP Dr. Harini Amarasuriya was sworn-in as the new Prime Minister of Sri Lanka, before President Anura Kumara Dissanayake at the Presidential Secretariat this afternoon.
-
-Accordingly, she is the third female Prime Minister in the history of Sri Lanka.
-
-◼️
-
-[Data](articles/d5752d5a.json)
-
-[Extended Data](ext_articles/d5752d5a.ext.json)
-
----
-
-### A letter from the Bar Association of Sri Lanka
-
-*2024-09-24 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201505) · `si`
-
-Bar Association of Sri Lanka urges new president to combat corruption, strengthen judiciary, and promote unity among communities.
-
-🟩
-
-The Bar Association of Sri Lanka says that the corrupt culture in the country is a political, social and economically the corrupt culture of the country will be eradicated.
-
-The Bar Association of Sri Lanka (BASL) was speaking to Anura Kumara Dissanayake, who was elected as the 9th Executive President of Sri Lanka.
-
-Attorney issued by the Acting Chairman of the Bar Association of Sri Lanka.
-
-"Let the new president wishes to courage to fulfill the tasks of the executive presidency and the tasks of the executive presidency."
-
-"The political, social administration and the political, social and economic corrupt culture that the ineffective state administration and the ineffective state administration, which is widely spread throughout our motherland, will continue to defend the confidence of the law and independence of the judiciary.We expect. "
-
-...
-
-[Data](articles/d5359369.json)
-
-[Extended Data](ext_articles/d5359369.ext.json)
-
----
-
-### The President's Speech at 7 o'clock tonight
-
-*2024-09-24 16:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்றிரவு-7-மணிக்கு-விசேட-உரை/175-344386) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Tonight at 7pm, President Anura Kumara Dissanayake addresses the nation. He'll unveil the opposition's plans for the new government."
-
-🟩
-
-President Anura Kumara Dissanayake will address the people of the country at 7 pm tonight.
-
-It is noteworthy that he is going to announce the new government's opposition plans.
-
-◼️
-
-[Data](articles/9237b165.json)
-
-[Extended Data](ext_articles/9237b165.ext.json)
-
----
-
-### President Special Speech tomorrow night
-
-*2024-09-24 16:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நாளை-இரவு-விசேட-உரை/175-344386) · `ta`
-
-Tomorrow night, President Anura Kumara Dissanayake addresses the nation at 7 pm. He will unveil the new government's opposition strategies.
-
-🟩
-
-President Anura Kumara Dissanayake will address the people of the country tomorrow (25) at 7 pm.
-
-It is noteworthy that he is going to announce the new government's opposition plans.
-
-◼️
-
-[Data](articles/d07d2ebf.json)
-
-[Extended Data](ext_articles/d07d2ebf.ext.json)
-
----
-
-### Parliament can be dissolved tonight- the new Prime Minister
-
-*2024-09-24 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194708) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Parliament may dissolve tonight: New PM Harini Amarasuriya hints at potential dissolution of Parliament tonight, citing unspecified reasons."
-
-🟩
-
-New Prime Minister Harini Amarasuriya has said that there is a possibility of dissolution of Parliament tonight.
-
-◼️
-
-[Data](articles/3e8106d2.json)
-
-[Extended Data](ext_articles/3e8106d2.ext.json)
-
----
-
-### 'Aka Kadavana' that makes sense of the strength of speech
-
-*2024-09-24 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194705) · `ta`
-
-"Aka Kadavana" summary: Newcomer Adiran Suresh stars as "Akhak Kadavana," a hero whose speech determines his fate. Directed by Raja, featuring a star-studded cast, the film explores the power of words. Music by Shanthan Anbalakan, produced by Sara Art Gallery. Post-production ongoing.
-
-🟩
-
-Newcomer Adiran Suresh is the hero of the story and has been named 'Akhak Kadavana' and its first look has been released.
-
-Adiran Suresh, Vincent, C. R. Rahul, Michael, Raja Sivan, Satish Ramadas, Tatshana, Niwas and many others have been cast.
-
-Leo. The film, which has been recorded by Raja, has composed the music of Shantan Anbalakan.
-
-The film was made on behalf of the film company called Sara Art Gallery.Raja has co -produced.
-
-The shooting of the film is complete and the post -shooting is currently underway.
-
-Commenting on the film, the director said, “There is a Chinese proverb that one is talking to him.. It is the words he speaks to determine the good and evil of one's life.
-
-Speaking of good things.. If you speak evil, the evil will result in. The story is written in the film.
-
-◼️
-
-[Data](articles/c3d8ff05.json)
-
-[Extended Data](ext_articles/c3d8ff05.ext.json)
-
----
-
-### Welney to assume duties before dissolution
-
-*2024-09-24 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201503) · `si`
-
-Dr. Harini Amarasuriya sworn in as Sri Lanka's new Prime Minister. She thanked the public and vowed to protect their interests. Parliament dissolution expected soon.
-
-🟩
-
-Dr. Harini Amarasuriya was sworn in before President Anura Kumara Dissanayake as the Prime Minister of the New Government.
-
-When the place left the place, the Prime Minister expressed these views to the media.
-
-"Now you have to take over work. Then you have to go to work. The most likely dissolves parliament today. I have to go to work early. Thank you very much to the people. That is exactly what we will protect. "
-
-◼️
-
-[Data](articles/0fd18558.json)
-
-[Extended Data](ext_articles/0fd18558.ext.json)
-
----
-
-### MPox New Genre meets in India
-
-*2024-09-24 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201504) · `si`
-
-Here's a 200-character summary:
-
-
-
-New MPox variant "Cloade 1b" spreads rapidly in Africa. Identified in India, it causes flu-like symptoms and skin lesions. WHO reports high mortality rate of 4%. Cases found in South Kerala, linked to traveler from Dubai. Also known as "Emphox" in Africa.
-
-🟩
-
-The Indians have identified the Indians that the new variety of prospects were named by the World Health Organization (WHO), which was named a flock of public health, has identified the Indian.
-
-This new variety of fast spreading in Africa is called "Cloade 1b".
-
-According to Indian media, the infected is a 38 year old resident of the state of South Kerala, who came from Dubai.
-
-The virus is the flu as the basic symptoms of infection and injuries such as the skin.
-
-It is reported that about 4 in every 100 infections may be killed.
-
-The World Health Organization has also informed the World Health Suddenness of 'Emphox' as a side of 'pimpax' in several countries in the African continent.
-
-◼️
-
-[Data](articles/aaa3b5a7.json)
-
-[Extended Data](ext_articles/aaa3b5a7.ext.json)
-
----
-
-### A Virtual Production Hall in Chennai. R. Rahman
-
-*2024-09-24 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194703) · `ta`
-
-R. Rahman launches "U Stream" virtual production hall in Chennai, featuring modern tech for music and film. International directors attend inaugural event, highlighting fusion of art and technology in Indian storytelling.
-
-🟩
-
-The music industry. R. Rahman has launched a virtual manufacturing hall with sophisticated technology facilities under the name 'You Stream' at AR Flim City, Chennai.
-
-'Music Flower' is a person who continues to entertain fans with songs and background music combining new sounds in the music of the Tamil cinema world. R. Rahman. As technology grows up, its usage is interested in introducing various modern technologies to fully use the music industry. R. Rahman-Currently launched a virtual manufacturing hall with modern technology in Chennai under the name 'U Stream'.
-
-Various international filmmakers, including director Mani Ratnam, participated in the inauguration.
-
-A. at the event. R. Rahman said, “The 'U Stream' is a place where art and modern technology are a high -level association.
-
-Indian storytelling can be carried out to international audiences through modern technologies.
-
-This modern technology will provide new opportunities to producers, creators and technicians. ”
-
-◼️
-
-[Data](articles/ada32035.json)
-
-[Extended Data](ext_articles/ada32035.ext.json)
-
----
-
-### Mahinda made the Action Notification
-
-*2024-09-24 16:31:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-அதிரடி-அறிவிப்பை-விடுத்தார்/175-344385) · `ta`
-
-Sri Lanka: UNP leader Mahinda Rajapaksa announces party won't join coalition for general election. He aims to regain strength and secure majority seats.
-
-🟩
-
-Leader of the United National Party (UNP) will not join the coalition for the next general election, said the leader of the party, Mahinda Rajapaksa on Tuesday (24).
-
-Former President Mahinda Rajapakse said this while speaking to the media after a political faculty meeting held on Tuesday (24) at the Sri Lanka Peoples Alliance's Headquarters Office in Battaramulla.
-
-“Since it is believed that the general election will be held soon, the grassroots level will be made and the party will act as a strong party again.”
-
-Mahinda Rajapaksa added that he would take necessary steps to get the majority of seats in the upcoming general election.
-
-◼️
-
-[Data](articles/a5134040.json)
-
-[Extended Data](ext_articles/a5134040.ext.json)
-
----
-
-### Sri Lanka’s inflation drops in August 2024
-
-*2024-09-24 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102243/sri-lankas-inflation-drops-in-august-2024) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to 1.1% in August 2024, compared to 2.5% in July 2024, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has decreased to 2.3% in August 2024 compared to 2.9% in July 2024 and the Year-on-Year inflation of the non-food group increased to 0.2% in August 2024 from 2.2% in July 2024.
-
-The NCPI for all items for the month of August 2024 is 204.1 and it records a decrease of 2.8 in index points compared to July 2024.
-
-◼️
-
-[Data](articles/e0fdbd96.json)
-
-[Extended Data](ext_articles/e0fdbd96.ext.json)
-
----
-
-### The horrific attack sent 50 children to the dead
-
-*2024-09-24 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201502) · `si`
-
-Horrific attack kills 50 children, injures 1500 in Lebanon. Israel warns Hezbollah may strike targets. 558 deaths reported in South Lebanon, worst attack since 1990 civil war.
-
-🟩
-
-Israel warns that the Hezbollah in Lebanon will attack targets.
-
-According to foreign media reports, 558 people have been killed in South Lebanon due to the attacks on Monday.
-
-This is the worst attack on the country after the end of the civil war in Lebanon in 1990.
-
-The Health Minister of Lebanon said that over 1500 people were injured in the attack.
-
-◼️
-
-[Data](articles/93715333.json)
-
-[Extended Data](ext_articles/93715333.ext.json)
-
----
-
-### Sajith proposal unanimously to Sajith
-
-*2024-09-24 16:24:39* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිකම-ගැන-ඒකමතිකව-සජිත්ට-යෝජනාවක්/11-412115) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sajith Premadasa proposes himself as PM candidate for upcoming general election. All electoral organizers unanimously support his candidacy.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that a proposal was conducted to conduct the coming general election as the Prime Minister's Candidate.
-
-"Today all the electoral organizers of the reconciliation are unanimously promoted to all MPs as the Prime Minister's candidate. "
-
-◼️
-
-[Data](articles/ac9ada6c.json)
-
-[Extended Data](ext_articles/ac9ada6c.ext.json)
-
----
-
-### Else
-
-*2024-09-24 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194702) · `ta`
-
-Massive wildfire spreads in forest, burns over 10 acres. Military deployed to extinguish flames.
-
-🟩
-
-Ella police said that a massive wildfire is spreading in the forest.
-
-Ella police said that more than ten acres of forest has been burnt and the fire has been sought by the military to extinguish the fire.
-
-◼️
-
-[Data](articles/a6ae36f1.json)
-
-[Extended Data](ext_articles/a6ae36f1.ext.json)
-
----
-
-### Vijitha Herath
-
-*2024-09-24 16:13:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-நீதிமன்றில்-ஆஜர்/175-344384) · `ta`
-
-Vijitha Herath NPP MP appears Colombo High Court case former DLB Chairman Patraja illegal loss advertising private companies tender violation postponement oath cabinet minister appointment
-
-🟩
-
-The National People's Power (NPP) MP Vijitha Herath has appeared before the Colombo High Court today (24) in a case against the former Chairman of the Development Lotter Board (DLB).
-
-It is alleged that Patraja had caused an illegal loss to DLB by providing advertising activities for several lottery tickets to private companies in violation of the accepted tender practice.
-
-The case is that Colombo High Court Judge RSS. Taken in the presence of Vijitha Herath. Attorney -at -Law Vijitha Herath, who appeared on behalf of Vijitha Herath, appealed to his party's testimony to postpone the testimony of his party, pointing to the need to attend the oath of appointment as a cabinet status minister.
-
-Considering the request, the High Court judge asked Hera to appear in court on November 29.
-
-◼️
-
-[Data](articles/23efb908.json)
-
-[Extended Data](ext_articles/23efb908.ext.json)
-
----
-
-### Mirchi Siva's 'Sumo' will be released in October
-
-*2024-09-24 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194699) · `ta`
-
-"Mirchi Siva's 'Sumo' releases Oct. Director S.B., Priya Anand star. Produced by Dr. Isari K. Ganesh. Cinematography by Rajiv Menon, music by Niwas K. Prasanna."
-
-🟩
-
-The film 'Sumo' will be released in the film House in October, which will be released in the film House in October.
-
-Director S.. B.. Mirchi Siva, Priya Anand, Mahesh Manjarekar, Yogi Babu, VTV Ganesh, Manopalaf, Lizzie Antony, M. S.. Bhaskar has played many others, including Yoshinori Tasiro, a Japanese player Sumo. Rajiv Menon's cinematography by Niwas K.. Prasanna has composed the music.
-
-The film was made on behalf of the famous producer Dr. Isari K.. Ganesh has produced.
-
-The film, which was announced by 2020, has not been released for several reasons.
-
-In this case, the film will be released at the filmmaker in October and will be officially announced as soon as the film will be officially announced.
-
-◼️
-
-[Data](articles/054509d8.json)
-
-[Extended Data](ext_articles/054509d8.ext.json)
-
----
-
-### Actor Akash Murali starrer 'Niripayapaya'
-
-*2024-09-24 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194697) · `ta`
-
-"Niripayapaya" starring Akash Murali, directed by Vishnuvardhan. Romantic comedy with young actors. Music by Cameron Eric Brisan. Produced by HP Film Creators.
-
-🟩
-
-The film has been released by the film 'Niripayapaya' which is the leading actor Murali's successor and debutant actor Akash Murali.
-
-Akash Murali, Aditi Shankar, R in the film 'Niripaya' directed by star director Vishnuvardhan. Sarathkumar, Prabhu, Khushboo Sundar, Raja, Kalki Kochlin, Shiv Pandit are many others.
-
-The film, which has been recorded by Cameron Eric Brisan, has composed the film.
-
-The film is mixed with love and excitement on behalf of HP Film Creators.. Produced by Xavier Brito.
-
-The film has been released, waiting for the release of all the work of the film.
-
-The expectation of the film has increased as the romantic scenes and the existence scenes of the younger generation want.
-
-◼️
-
-[Data](articles/77fdd90a.json)
-
-[Extended Data](ext_articles/77fdd90a.ext.json)
-
----
-
-### Inflation down
-
-*2024-09-24 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201501) · `si`
-
-Inflation drops from 2.5% to 1.1%, food prices fall from 2.3% to 0.2%.
-
-🟩
-
-Inflation, which was 2.5% in July, 2024, fell to 1.1% for August 2024.
-
-The point of the food category of food recorded in July 2024 has fallen to 2.3% in August 2024.
-
-The latest announcement issued by the Northern Province, which was 2.2% of food in July 2024, was down to 0.2% in August 2024, the Department of Census and Statistics.
-
-◼️
-
-[Data](articles/0580f7d8.json)
-
-[Extended Data](ext_articles/0580f7d8.ext.json)
 
 ---

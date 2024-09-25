@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-25 17:39:49**
+As of **2024-09-25 17:59:12**
 
 ## Newspaper Stats
 
-*Scraped **46,229** Articles*
+*Scraped **46,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,125 @@ dailyftlk | 3,074
 adalk | 4,261
 dailymirrorlk | 4,733
 adaderanalk | 5,442
-tamilmirrorlk | 6,181
+tamilmirrorlk | 6,183
 virakesarilk | 7,389
-adaderanasinhalalk | 7,986
+adaderanasinhalalk | 7,988
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,228 (100.0%) of 46,229 articles have been extended.
+46,233 (100.0%) of 46,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-25 (Wednesday)
+
+### Permission for homosexual marriage
+
+*2024-09-25 17:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஓரினச்சேர்க்கை-திருமணத்திற்கு-அனுமதி/50-344450) · `ta`
+
+Thailand approves gay marriage. King signs bill. Law takes effect in 120 days. Parliament decision legalizes same-sex unions nationwide.
+
+🟩
+
+The king of Thailand has now approved it as the Thailand parliament has decided to legalize homosexual marriage.
+
+Accordingly, the law will come into effect after 120 days.
+
+◼️
+
+[Data](articles/09c79074.json)
+
+[Extended Data](ext_articles/09c79074.ext.json)
+
+---
+
+### Vehicles used in past governments
+
+*2024-09-25 17:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-அரசாங்கங்களில்-பயன்படுத்திய-வாகனங்கள்/175-344449) · `ta`
+
+Former Sri Lankan presidents and high-ranking officials' vehicles parked in Colombo. Vehicles maintained by public funds, 833 total, 29 missing by 2022. Former presidents accused of misusing vehicles.
+
+🟩
+
+A large number of 'high -ranking' vehicles used by former President Ranil Wickremesinghe's government ministers, diplomatic ministers and secretaries are now parked in the Galle face of Colombo.
+
+Other vehicles near the Sri Lanka Forum College and Laxala have been parked.
+
+Vasantha Samarasinghe, the Executive Member of the National People's Power, said that after visiting the vehicles, the authorities who used them have been deployed in many places since they were sworn in as President.
+
+Samarasinghe said that if Anura Dissanayake was not president, these vehicles would still run on the road.
+
+Vasantha Samarasinghe said that the vehicles were maintained by the public's fuel and money and that there are 833 vehicles belonging to the Presidential Office.
+
+He added that 29 of the 833 vehicles have disappeared by 2022 and that former Presidents Ranil Wickremesinghe, Mahinda Rajapaksa, Maithripala Sirisena, Gotabhaya Rajapaksa and Chandrika Kumaratunga have swallowed the vehicles.
+
+◼️
+
+[Data](articles/8466d713.json)
+
+[Extended Data](ext_articles/8466d713.ext.json)
+
+---
+
+### Jeeashnk is greeting colonial
+
+*2024-09-25 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201537) · `si`
+
+Dr. S. Jeeasanka, India's Foreign Minister, met Sri Lanka's new FM Vijitha Herath. He pledged to enhance bilateral ties and strengthen friendship between the two nations. This statement was made during a US visit.
+
+🟩
+
+Indian Foreign Minister Dr. S. Jeeasanka has joined Vijitha Herath, who was appointed as the new foreign ministerial minister of Sri Lanka.
+
+The Jeeashankar has expressed his commitment to strengthen the Indo-Ceylon civic relations between the two countries and strengthen the close friendship between the two countries.
+
+The Indian Foreign Minister has said this to the US note.
+
+◼️
+
+[Data](articles/675c8348.json)
+
+[Extended Data](ext_articles/675c8348.ext.json)
+
+---
+
+### Diriya-child asks for a savior from you
+
+*2024-09-25 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201536) · `si`
+
+A young boy needs help due to illness and disability. His mother struggles daily to care for him, pushing his wheelchair to school. The family faces economic challenges. A solution is needed to ease the mother's burden.
+
+🟩
+
+A child who was born is unexpectedly confined to the Vandwaswewa area.
+
+The 15-year-old-hearted light is currently trapped in a wheelchair.
+
+He was unable to walk with a sickness of meltdown at the age of 7.
+
+Due to the birthdowns of learning, the mother does not look at about a kilometer to the light school about a miles [km] to take a wheelchair.
+
+The mother of two day and night, the mother of two days and night, the mother of light and night, is always dreaming to give him a good education.
+
+The father of Light is unable to walk in a danger to the family economy.
+
+A Light's mother is a challenge to live in the middle of these many problems.
+
+Failure to stand up with both
+
+"Mom is very tired when you pushing the wheelchair and take me at school. Give me a wheelchair to lose that effort. "
+
+If a sacrificial is a 76-674 5349, the mother of the belone can be connected to the mother of the beloved.
+
+◼️
+
+[Data](articles/8cb7fca4.json)
+
+[Extended Data](ext_articles/8cb7fca4.ext.json)
+
+---
 
 ### India is not trying to control every political action of every foreign country - Jaishankar
 
@@ -414,23 +520,29 @@ The Water Board further said it regrets any inconveniences caused to the public 
 
 ---
 
-### ප්‍රභාත් ජයසූරිය ශ්‍රේණිගත කිරීම් හී ඉහළට - නවතම ශ්‍රේණිගත කිරීම් මෙන්න
+### Prabath Jayasuriya top up - Here are the latest rankings
 
 *2024-09-25 15:29:10* · [`adalk`](https://www.ada.lk/sports/ප්‍රභාත්-ජයසූරිය-ශ්‍රේණිගත-කිරීම්-හී-ඉහළට---නවතම-ශ්‍රේණිගත-කිරීම්-මෙන්න/9-412144) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ නවතම ටෙස්ට් ​ශ්‍රේණිගත කිරීම් ප්‍රකාශයට පත් කර තිබේ.
+Sri Lanka cricket rankings update: Mendis 16th in Test batsmen, De Silva 18th, Karunaratne down 1 spot. Spinner Prabath Jayasuriya rises 5 places in Test bowlers.
 
-ඒ අනුව ටෙස්ට් පිතිකරුවන් අතර 16 වැනි ස්ථානය දක්වා ස්ථාන 03කින් ඉදිරියට පැමිණීමට ශ්‍රී ලංකා මැද පෙළ පිතිකරු කමිඳු මෙන්ඩිස් සමත්ව ඇත.
+🟩
 
-කෙසේ වෙතත් ටෙස් පිතිකරුන් වර්ගීකරණයේ නායක ධනංජය ද සිල්වා ස්ථාන 04කින් සහ දිමුත් කරුණාරත්න එක් ස්ථානයකින් පහතට ඇද වැටී තිබේ.
+The latest Test rankings of the International Cricket Council has been published.
 
-මේ අතර ටෙස්ට් පන්දු යවනන් අතර 08 වැසි ස්ථානය දක්වා ස්ථාන 05කින් ඉදිරියට පැමිණීමට ශ්‍රී ලංකා දඟ පන්දු යවන ක්‍රීඩක ප්‍රභාත් ජයසූරිය සමත්ව ඇත.
+Accordingly, Sri Lanka Mid-Textal Mendis has been able to proceed with the 16th place among Test batsmen.
 
-මීට අමතරව ටෙස්ට් තුන් ඉරියව් ක්‍රීඩකයන් අතර 18 වැනි ස්ථානය දක්වා ස්ථාන 05කින් ඉදිරියට පැමිණීමට නායක ධනංජය ද සිල්වා සමත්ව තිබේ.
+However, Leader Dhananjaya de Silva, 4 places and Dimuth Karunaratne have fallen from one place.
+
+Meanwhile, Sri Lanka spinner Prabath Jayasuriya has been able to reach five places between Test bowlers.
+
+The leader Dhananjaya de Silva has also been able to proceed with the 18th stations between Tests.
 
 ◼️
 
 [Data](articles/0dec71d4.json)
+
+[Extended Data](ext_articles/0dec71d4.ext.json)
 
 ---
 
@@ -2215,83 +2327,5 @@ United National Party (UNP) Deputy Leader Ruwan Wijewardene announced today that
 [Data](articles/77f2be7e.json)
 
 [Extended Data](ext_articles/77f2be7e.ext.json)
-
----
-
-### Restraint on economy and full-steam on governance – AKD’s implicit strategy?
-
-*2024-09-25 04:45:20* · [`dailyftlk`](https://www.ft.lk/columns/Restraint-on-economy-and-full-steam-on-governance-AKD-s-implicit-strategy/4-767104) · `en`
-
-What will be the strategy of the new President who soon will be going into a Parliamentary election? My reading is that the implicit strategy of AKD is to practice restraint on economic issues and go full steam on governance. This is evident from the way the campaign progressed with convergence on the economic front between candidates, but with AKD managing to rise above others with his convincing battle cry to restore trust in politicians and politics.
-
-If that indeed is the strategy, it will be a win-win for all concerned.
-
-Notwithstanding the enthusiasm of the 42% who voted for AKD, there is the 58% who did not. AKD won first-past-the-post, but the electoral result is clearly a mandate for consultation and compromise to take the concerns of at least some of the other 58%.
-
-The economy and the political culture were the main issues in the campaign, but the NPP manifesto was short on details on each.
-
-...
-
-[Data](articles/a7e40669.json)
-
-[Extended Data](ext_articles/a7e40669.ext.json)
-
----
-
-### Middle class angst of Karl Marx
-
-*2024-09-25 04:40:37* · [`dailyftlk`](https://www.ft.lk/columns/Middle-class-angst-of-Karl-Marx/4-767103) · `en`
-
-Karl Marx made some prophetic and positive observations about capitalism
-
-The collapse of the Soviet Union, China’s adoption of market driven policy, North Korea’s boorish behaviour and the history of brutal, totalitarian regimes that claimed to be “Marxist” have contributed to the erroneous notion that Karl Marx was an authoritarian thinker.
-
-Some of my granddaughters have asked me who this Karl Marx was. I told them that Karl Marx was an Enlightenment age humanist and a philosopher who perceived the possibility of a utopian post capitalist society in which people could lead rich, fulfilling lives.
-
-I also explained that Karl Marx said some very positive stuff about ‘Capitalism’ and that distinguished economists such as Kenneth Arrow regard his work as a revolutionary historical project.
-
-Hence this brief essay. If its order and reasoning is a little convoluted, I request the indulgence of the reader for some allowance towards the muddled memory of a weary pilgrim.
-
-...
-
-[Data](articles/667e474f.json)
-
-[Extended Data](ext_articles/667e474f.ext.json)
-
----
-
-### Growth is necessary but not sufficient
-
-*2024-09-25 04:36:29* · [`dailyftlk`](https://www.ft.lk/columns/Growth-is-necessary-but-not-sufficient/4-767102) · `en`
-
-A spark of protest emerged in July 2021. It has grown into an island-wide mass protest (Aragalaya) involving people of all walks of life. They gathered at Galle Face Green and delivered a message: “The country is bankrupt”. The messenger was taken to task.
-
-Central Bank is located within sight of the Galle Face Green. Newly appointed Governor of the Central Bank delivered a message. “Sri Lanka is bankrupt and is unable to settle its mountain of debts”. Messenger, the Governor of Central Bank, has been listed under A- grade in the Central Banker Report Cards 2023.
-
-As my friend Pali says, for us Sri Lankans what matters is not the message but the messenger who delivers it.
-
-...
-
-[Data](articles/ed4951a3.json)
-
-[Extended Data](ext_articles/ed4951a3.ext.json)
-
----
-
-### AKD’s challenge: Increasing national productivity in improving standard of living
-
-*2024-09-25 04:28:49* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-challenge-Increasing-national-productivity-in-improving-standard-of-living/4-767101) · `en`
-
-President-elect of Sri Lanka, Anura Kumara Dissanayake signs official documents during his swearing-in ceremony, marking the commencement of his Presidency
-
-Anura Kumara Dissanayake (AKD) has been elected as the ninth Executive President of Sri Lanka. The ‘election’ dust has settled, and it is time for all the competing candidates and their supporters to unite wherever, whenever, and however possible in the best interest of our motherland.
-
-In their campaigns, the candidates spoke little on the important aspect of improving national productivity. Now that he is in power, I hope that AKD will give it his highest priority.
-
-...
-
-[Data](articles/9cd0ccc5.json)
-
-[Extended Data](ext_articles/9cd0ccc5.ext.json)
 
 ---

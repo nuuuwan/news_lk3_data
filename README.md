@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 13:07:50**
+As of **2024-09-26 13:22:38**
 
 ## Newspaper Stats
 
-*Scraped **46,375** Articles*
+*Scraped **46,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,57 @@ dailymirrorlk | 4,733
 adaderanalk | 5,455
 tamilmirrorlk | 6,210
 virakesarilk | 7,405
-adaderanasinhalalk | 8,009
+adaderanasinhalalk | 8,010
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,373 (100.0%) of 46,375 articles have been extended.
+46,375 (100.0%) of 46,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
 
-### දිලිත් සමග එක්වූ දිලුම්ට ජාතික සංවිධායක ධුරය
+### ඊශ්‍රායලයෙන් ලෙබනනයට ගොඩබිම් ප්‍රහාරයක් ?
+
+*2024-09-26 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201562) · `si`
+
+ඊශ්‍රායලය අසල්වැසි ලෙබනනයේ හිස්බුල්ලා ඉලක්ක වෙත ගුවන් ප්‍රහාර ආරම්භ කර දැන් සතියකට ආසන්න කාලයක් ගතවී අවසන් ය.
+
+ඊශ්‍රායල හමුදා දකුණු ලෙබනනය වෙත ගොඩබිම් ප්‍රහාරයක් ආරම්භ කිරීමේ සැලසුමක් ඇතැයි එරට හමුදාපතිවරයා ඊයේ (25) දින ඉඟි කර තිබුණි.
+
+හිස්බුල්ලා ප්‍රහාර හේතුවෙන් නිවෙස් හැර යාමට සිදුව ඇති 60,000 ඉක්මවූ ඊශ්‍රායල වැසියන්ට උතුරු ඊශ්‍රායලයේ සිය නිවෙස් වෙත ආපසු යාමට අවස්ථාව ලබාදිය යුතු බැවින් මෙලෙස ප්‍රහාර දියත් කරන බවට ඔහු අවධාරණය කළේ ය.
+
+මේ අතර නිව්යෝර්ක් නුවර පැවැත්වෙන එක්සත් ජාතීන්ගේ මහා සමුළුව අතරතුර රැස්වූ ලෝක නායකයින් ඊශ්‍රායලය සහ ලෙබනනය අතර දින 21ක සටන් විරාමයක් ඇති කිරීමට මැදිහත්වීම සඳහා එකඟ වී තිබේ.
+
+ඊයේ (25) දිනයේ දී ලෙබනනය වෙත එල්ල වූ ඊශ්‍රායල ගුවන් ප්‍රහාරවලින් පුද්ගලයින් 72 ක් මියගොස් ඇති අතර, ඒ අනුව ඊශ්‍රායල ප්‍රහාරවලින් ලෙබනනයේ සිදුවූ සමස්ත මරණ ගණන 620කි.
+
+◼️
+
+[Data](articles/bf4ad4b9.json)
+
+---
+
+### Dilum joined Dilith appointed National Organizer
 
 *2024-09-26 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201561) · `si`
 
-මව්බිම ජනතා පක්ෂයේ ජාතික සංවිධායක ලෙස හිටපු රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා පත්කර තිබේ.
+Here's a 200-character summary:
+
+
+
+Dilum Amunugama, former State Minister, appointed National Organizer of Motherland People's Party.
+
+🟩
+
+Former State Minister Dilum Amunugama has been appointed as the National Organizer of the Motherland People's People's Party.
 
 ◼️
 
 [Data](articles/2c031403.json)
+
+[Extended Data](ext_articles/2c031403.ext.json)
 
 ---
 
@@ -53,6 +83,8 @@ Former State Minister Dilum Amunugama has been officially appointed as the natio
 ◼️
 
 [Data](articles/d5fa4838.json)
+
+[Extended Data](ext_articles/d5fa4838.ext.json)
 
 ---
 
@@ -2269,35 +2301,5 @@ Those over 20 years old, self-breast test should be carried out every month. In 
 [Data](articles/87167964.json)
 
 [Extended Data](ext_articles/87167964.ext.json)
-
----
-
-### Parliament is being repaired - Parliamentary Secretary
-
-*2024-09-25 19:07:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අලුත්-වැඩියා-කරනවා---පාර්ලිමේන්තු-මහ-ලේකම්/11-412156) · `si`
-
-Here's a 200-character summary:
-
-
-
-Parliament repairs underway. New Parliament prioritized. Committees suspended. Focus on restoration. Speaker appointment first order. President's address planned. Roof work scheduled.
-
-🟩
-
-The Secretary General of Parliament Kushani Rohandera said that the new Parliament will be given priority in the new Parliament.
-
-She added this, he said:
-
-"The denomination of the Members of Parliament has been abolished due to the dissolution of parliament. They cannot come to the parliament. However, our other departments in Parliament are carrying out the activities of all Bureau. The committees will not meet.
-
-When the new Parliament begins, they have to restore. During this time, we pay more attention to the repair work of Parliament. We are ready to open the new parliamentary parliaments. Especially the first functions of the Parliament after a general election is the appointment of a Speaker as per Standing Orders.
-
-Also, before the newly appointed president was presented to Parliament before the dissolving parliament, he filed a statement to parliament. No celebration did anything. Accordingly, if the new president, the new Parliament begins, is preparing for it.
-
-...
-
-[Data](articles/a3ca225e.json)
-
-[Extended Data](ext_articles/a3ca225e.ext.json)
 
 ---

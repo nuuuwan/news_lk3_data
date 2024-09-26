@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 15:09:49**
+As of **2024-09-26 15:22:26**
 
 ## Newspaper Stats
 
-*Scraped **46,384** Articles*
+*Scraped **46,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,106 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,280
+adalk | 4,282
 dailymirrorlk | 4,733
-adaderanalk | 5,455
+adaderanalk | 5,457
 tamilmirrorlk | 6,214
 virakesarilk | 7,405
-adaderanasinhalalk | 8,012
+adaderanasinhalalk | 8,013
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,384 (100.0%) of 46,384 articles have been extended.
+46,389 (100.0%) of 46,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Chandimal is a century
+
+*2024-09-26 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201566) · `si`
+
+Dinesh Chandimal scores 100th Test century in 2nd NZ test series. Sri Lanka reaches 186/2 in first innings.
+
+🟩
+
+Dinesh Chandimal passed its 16th Test century today (26).
+
+The 2nd Test series against New Zealand was played.
+
+Sri Lanka has scored 186 runs for the loss of 2 wickets for their first innings.
+
+◼️
+
+[Data](articles/53c9e872.json)
+
+[Extended Data](ext_articles/53c9e872.ext.json)
+
+---
+
+### An excellent century from Chandimal
+
+*2024-09-26 14:54:04* · [`adalk`](https://www.ada.lk/breaking_news/චන්දිමාල්ගෙන්-විශිෂ්ඨ-ශතකයක්/11-412165) · `si`
+
+Dinesh Chandimal scored an excellent century just before New Zealand's team arrived.
+
+🟩
+
+Dinesh Chandimal scored a few moments before the New Zealand team.
+
+◼️
+
+[Data](articles/a159d248.json)
+
+[Extended Data](ext_articles/a159d248.ext.json)
+
+---
+
+### World’s longest-serving death row inmate acquitted in Japan
+
+*2024-09-26 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102279/worlds-longest-serving-death-row-inmate-acquitted-in-japan) · `en`
+
+An 88-year-old man who is the world’s longest-serving death row inmate has been acquitted by a Japanese court, after it found that evidence used against him was fabricated.
+
+Iwao Hakamada, who has been on death row for more than half a century, was found guilty in 1968 of killing his boss, the man’s wife and their two teenage children.
+
+He was recently granted a retrial amid suspicions that investigators may have planted evidence that led to his conviction for quadruple murder.
+
+More than half a century spent on death row has taken a heavy toll on Hakamada’s mental health, though, meaning he was unfit to attend the hearing where his acquittal was finally handed down.
+
+Hakamada’s case is one of Japan’s longest and most famous legal sagas, and has attracted widespread public interest, with some 500 people lining up for seats in the courtroom in Shizuoka on Thursday.
+
+...
+
+[Data](articles/0c262a70.json)
+
+[Extended Data](ext_articles/0c262a70.ext.json)
+
+---
+
+### Bandaranaike commemoration celebrates at two places
+
+*2024-09-26 14:41:08* · [`adalk`](https://www.ada.lk/breaking_news/බණ්ඩාරනායක-ගුණ-සමරුව-ස්ථාන-දෙකකදී-සැමරේ/11-412164) · `si`
+
+Sri Lanka Freedom Party commemorates 65th anniversary of S.R.D. Bandaranaike. Celebrations held at Horagolla Bandaranaike Peace Center and Bandaranaike Memorial Hall. Former President Chandrika Bandaranaike Kumaratunga leads one event, while Dayasiri Jayasekara and Thilanga Sumathipala organize another.
+
+🟩
+
+The 65th Gunausamma of the Sri Lanka Freedom Party (SLFP), the late Prime Minister S.R.D.
+
+A team was led by former President Chandrika Bandaranaike Kumaratunga at Horagolla Bandaranaike Peace.
+
+Another group, including Dayasiri Jayasekara and Thilanga Sumathipala, was organized a celebration at the Bandaranaike.
+
+◼️
+
+[Data](articles/c733fa19.json)
+
+[Extended Data](ext_articles/c733fa19.ext.json)
+
+---
 
 ### The new governor of the east took charge of the duties
 
@@ -93,6 +177,26 @@ At the same time, it is noteworthy that in the last installment, the doctors' ba
 [Data](articles/90c595a4.json)
 
 [Extended Data](ext_articles/90c595a4.ext.json)
+
+---
+
+### Chairman of Litro Gas resigns
+
+*2024-09-26 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102278/chairman-of-litro-gas-resigns) · `en`
+
+Muditha Peiris has stepped down from his position as the Chairman of the Litro Gas Company.
+
+Peiris was appointed as the Chairman of Litro Gas on June 13, 2022.
+
+Prior to that, he had served as the Managing Director of the state-owned LP gas supplier.
+
+Peiris had held the position of Managing Director at both Litro Gas Lanka Ltd and Litro Gas Terminal Lanka (Pvt) Ltd.
+
+◼️
+
+[Data](articles/e6524770.json)
+
+[Extended Data](ext_articles/e6524770.ext.json)
 
 ---
 
@@ -2159,129 +2263,5 @@ Accordingly, as the dissolution of parliament has been dissolved, it has been ex
 [Data](articles/1c22d575.json)
 
 [Extended Data](ext_articles/1c22d575.ext.json)
-
----
-
-### President to begin in talks with IMF - President
-
-*2024-09-25 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201542) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake announces IMF talks, loan restructuring, and seeks public and international support for economic recovery.
-
-🟩
-
-President Anura Kumara Dissanayake said that action will be taken to proceed with the implementation of the discussions with the IMF.
-
-The President was speaking at a special discussion held at the nation night (25).
-
-"The creditors are discussing with the loan parties to carry out the loan restructuring program."
-
-"These related activities will be completed as soon as possible and take credit relief."
-
-"We believe that the support of the people of this country and the international community can be obtained."
-
-"Dedication to create a Sri Lankan nation that respects diversity."
-
-"We implement short-term, medium term and long term plans to increase the image of the country."
-
-"Our gates are open to all who are honestly involved in building this country."
-
-◼️
-
-[Data](articles/fcd1ba4a.json)
-
-[Extended Data](ext_articles/fcd1ba4a.ext.json)
-
----
-
-### President says IMF discussions will resume, debt restructuring to continue
-
-*2024-09-25 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102268/president-says-imf-discussions-will-resume-debt-restructuring-to-continue) · `en`
-
-President Anura Kumara Dissanayake says that his government firmly believes that Sri Lanka’s economy needs to be stabilized before making structural changes to all sectors.
-
-“Before implementing long-term and medium-term plans for that purpose, we will work to create a short-term stability through the immediate economic measures that are required,” he said, delivering his inaugural address to the nation on Wednesday (25).
-
-President Dissanayake says all steps needed for the expected change depend on building stability and trust in the economy. Therefore, discussions with the International Monetary Fund (IMF) will resume soon and the process of the Extended Fund Facility (EFF) will be advanced, he said.
-
-“The change we seek involves many steps that will take time. However, achieving stability and confidence in the current economy is crucial.”
-
-...
-
-[Data](articles/37656ed9.json)
-
-[Extended Data](ext_articles/37656ed9.ext.json)
-
----
-
-### If you go to save the economy, people are angry
-
-*2024-09-25 19:59:53* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථකය-බේරා-ගන්න-ගියොත්-ජනතාව-තරහ-වෙනවා/11-412161) · `si`
-
-Ranil Wickremesinghe warns: Saving economy may anger citizens. IMF involvement could worsen economic situation. His goal is economic stability but faces public discontent.
-
-🟩
-
-Former President Ranil Wickremesinghe has stated that the UNP Ranil Wickremesinghe has said that people will be angry when they go to save the economy of the country.
-
-The President made this observation at a meeting at the UNP political office on Flower Political Office, Colombo.
-
-It is said that if people go to save the IMF, the economy of the country will fall into an abyss if the IMF is angry.
-
-The President has said that his main objective was to save the economy of the country, the International Monetary Fund is also the purpose of imposing the financial stability of the country.. The President has said that the truth should understand the truth.
-
-◼️
-
-[Data](articles/554a6abb.json)
-
-[Extended Data](ext_articles/554a6abb.ext.json)
-
----
-
-### This should be done before the change is made;President
-
-*2024-09-25 19:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றத்தை-ஏற்படுத்துவதற்கு-முன்-இதை-செய்ய-வேண்டும்-ஜனாதிபதி/175-344462) · `ta`
-
-Before changes, President Anura Kumara Dissanayake emphasized building the country together. He highlighted the talented team's determination to raise the economy permanently before making changes. Steps will be taken for rapid economic activities to establish stability. The dissolution of parliament was seen as a necessary measure due to distortion caused by people's decree.
-
-🟩
-
-President Anura Kumara Dissanayake said in a special speech to the people of the country.
-
-We have the ability to accomplish the role of building the country as a joint venture. We have the most talented group for that. All of us have a complete determination about it. We hope that it is necessary to raise the economy to a permanent position before making any change to make a change we expect.
-
-For that purpose, we will take steps to establish a short period of time through the rapid economic activities that need to be followed.
-
-It was seen that the last parliament was distorted by the people's decree. So I took steps to dissolve parliament yesterday. Remble
-
-◼️
-
-[Data](articles/60f5c248.json)
-
-[Extended Data](ext_articles/60f5c248.ext.json)
-
----
-
-### Special Report on Parliamentary Elections
-
-*2024-09-25 19:53:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-தேர்தல்-தொடர்பில்-விசேட-அறிக்கை/175-344460) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Election Commission announces 2024 parliamentary election details: candidate quotas per district, MP counts, and independent committee restrictions.
-
-🟩
-
-The Election Commission has announced information on the control of the 2024 parliamentary elections and the number of candidates recommended by political parties or independent groups for each election district.
-
-It contains information on the number of MPs elected from each electoral district, the number of candidates to be included in the nomination papers, and the restrictions on the independent committees.R
-
-◼️
-
-[Data](articles/198f54ff.json)
-
-[Extended Data](ext_articles/198f54ff.ext.json)
 
 ---

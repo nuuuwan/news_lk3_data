@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 20:57:26**
+As of **2024-09-26 21:23:04**
 
 ## Newspaper Stats
 
-*Scraped **46,447** Articles*
+*Scraped **46,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,134 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,288
+adalk | 4,289
 dailymirrorlk | 4,733
-adaderanalk | 5,463
-tamilmirrorlk | 6,230
-virakesarilk | 7,424
-adaderanasinhalalk | 8,023
+adaderanalk | 5,464
+tamilmirrorlk | 6,231
+virakesarilk | 7,427
+adaderanasinhalalk | 8,024
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,447 (100.0%) of 46,447 articles have been extended.
+46,454 (100.0%) of 46,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Resigned from the leader of the petroleum corporation
+
+*2024-09-26 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194874) · `ta`
+
+Saliya Wickramasuriya resigns as president of Petroleum Law Corporation and chairman of two subsidiaries. He cites need for independence in appointing a new minister. Resignation letter sent to Ministry of Energy Secretary.
+
+🟩
+
+Saliya Wickramasuriya, president of the Petroleum Law Corporation, has resigned from his posts.
+
+Accordingly, he has resigned from the posts of the chairman of three companies - Petroleum Legal Corporation, Ceylon Petroleum Storage Terminals Limited and Trinco Petroleum Terminal.
+
+The letter stated that he would resign from his posts to give independence to appoint a new minister.
+
+It is noteworthy that he has sent his resignation letter to the Secretary of the Ministry of Energy.
+
+◼️
+
+[Data](articles/b62739d7.json)
+
+[Extended Data](ext_articles/b62739d7.ext.json)
+
+---
+
+### Visa can be obtained according to the old method
+
+*2024-09-26 20:39:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-முறைப்படி-விசா-பெறலாம்/175-344548) · `ta`
+
+Sri Lanka government resolves visa issue; old method reinstated; foreigners can apply online starting midnight today; VFS irregularities being investigated.
+
+🟩
+
+Public Defense Minister Vijitha Herath said that the government has been working to resolve the issue of a massive problem in the last 24 hours and all foreigners can get a visa from 12:00 pm today (26).
+
+VFS is the most affected by the visa issuing facility. Especially when foreigners coming to Sri Lanka had to face the problem of obtaining visa. Therefore, with the intervention of the Public Security Ministry, according to the court ruling, within the last 24 hours, the old form of visa has been taken.. Accordingly, the visa can be easily obtained from 12.00 pm today.
+
+Foreigners can easily apply for an online visa for online visa. The activities will be launched at 12 midnight today and the visa will be issued within 24 hours.
+
+Visa issue is the problem that caused great depression. We have resolved that problem at present. We consulted with the Attorney General in this regard. We acted immediately according to the court ruling.
+
+...
+
+[Data](articles/323a8008.json)
+
+[Extended Data](ext_articles/323a8008.ext.json)
+
+---
+
+### Govt. reinstates previous visa issuing system
+
+*2024-09-26 20:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102286/govt-reinstates-previous-visa-issuing-system) · `en`
+
+The government has officially reinstated the previous visa issuing system, effective from 12.00 midnight today, according to the Presidential Media Division (PMD).
+
+Accordingly, starting from midnight today (26), all foreigners will be able to apply for visas under the previous system, the PMD said.
+
+◼️
+
+[Data](articles/9664d210.json)
+
+[Extended Data](ext_articles/9664d210.ext.json)
+
+---
+
+### We will announce our move in the general election in two days - civil society
+
+*2024-09-26 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194873) · `ta`
+
+Civil society announces move in general election within two days. Tamil National Alliance discusses participation and election symbols. Decision pending analysis of key issues.
+
+🟩
+
+Civil community members who are part of the Tamil general framework have told the Democratic Tamil Coalition that they will announce their resolution within the next two days.
+
+The Parliament was dissolved by President Anura Kumara Dissanayake last Tuesday and it has been announced that the general election will be held on November 14.
+
+Subsequently, the Democratic Tamil National Alliance (TNA) Coordinating Committee gathered at a private hotel in Jaffna at 3.00 pm on Wednesday (25).. In the end, it was decided that the Tamil National Political Parties, which are part of the Democratic Tamil Alliance, will be fielded in the upcoming general election.
+
+The decision was taken to discuss with the General Council of Civil Social Public Council yesterday (26) and to listen to their positions.
+
+...
+
+[Data](articles/33744661.json)
+
+[Extended Data](ext_articles/33744661.ext.json)
+
+---
+
+### The old visa method from midnight today again
+
+*2024-09-26 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201579) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Government reopens old visa issuance system midnight today. Presidential Media Unit announcement."
+
+🟩
+
+The government has decided to reopen the pre-existing visa issuance methodology.
+
+Accordingly, the system will be reopened today (26) at 12.00 midnight, the Presidential Media Unit said.
+
+◼️
+
+[Data](articles/d3c26132.json)
+
+[Extended Data](ext_articles/d3c26132.ext.json)
+
+---
 
 ### Dilith has a massive alliance for the general election
 
@@ -56,6 +168,24 @@ The Kandy District MP Dilum Amunugama, who joined the Motherland People's Party,
 
 ---
 
+### Yall. Dileepan's memorial
+
+*2024-09-26 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194872) · `ta`
+
+Dileepan's 37th memorial commemorated at University of Jaffna. He died from fasting without water. Event held on Thursday.
+
+🟩
+
+The 37th commemoration of Dileepan, the 37th commemoration of Dileepan, who died of fasting without water, was held at the University of Jaffna on Thursday.
+
+◼️
+
+[Data](articles/1f31b587.json)
+
+[Extended Data](ext_articles/1f31b587.ext.json)
+
+---
+
 ### Is Sajith Premadasa Raja?
 
 *2024-09-26 20:14:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாச-இராஜினாமா/175-344547) · `ta`
@@ -73,6 +203,32 @@ Its general secretary Ranjith Mathuma Bandara has denied reports on social media
 [Data](articles/b0425920.json)
 
 [Extended Data](ext_articles/b0425920.ext.json)
+
+---
+
+### A world report that could not set up for Bradman
+
+*2024-09-26 20:01:25* · [`adalk`](https://www.ada.lk/sports/බ්‍රැඩ්මන්ටත්-පිහිටවන්න-බැරිවූ-ලෝක-වාර්තාවක්-කමිඳුගෙන්/9-412172) · `si`
+
+Kamindu Mendis breaks record: First Sri Lankan to score in all 147 Tests. Unbeaten 51 vs New Zealand in second Test. Saudi Calle leads Pakistan with over 50 runs in first seven Tests.
+
+🟩
+
+Sri Lanka's new batsman Kamindu Mendis beat a world report for the establishment of 147 Test cricketer in 147 years.
+
+As the first Test batsman scored with the marks at the end of the first six Tests, which was played.
+
+In the second Test with New Zealand team, he is unbeaten on 51 runs.
+
+Sauud Calle, Pakistan, had scored over 50 runs in the first seven Tests.
+
+How to score the score in 15 finalists to date.
+
+◼️
+
+[Data](articles/2872b41c.json)
+
+[Extended Data](ext_articles/2872b41c.ext.json)
 
 ---
 
@@ -96,6 +252,38 @@ The letter stated that he would resign from his posts to give the new minister a
 
 ---
 
+### Sri Lanka's 'Kutti Bradman' Communise Mendis New World Records in 147 Years of Test cricketDon Bradman was also unable to Sunil Kavaskar
+
+*2024-09-26 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194871) · `ta`
+
+Sri Lanka's Kamindu Mendis sets world record in Test cricket history. At 25, he scored 51 runs in 2nd Test vs New Zealand, becoming first batsman to score over 50 in 8 Tests. His average of 79.36 includes 4 centuries and 5 half-centuries in 13 innings across 8 matches.
+
+🟩
+
+In the 147 -year history of Test cricket, Sri Lanka's 'Kutti Bradman' Kamindu has set his name in the history of the world.
+
+25 -year -old Kamindu Mendis set a new world record by scoring half a century in the second Test match at Galle International Stadium against New Zealand on Thursday (26).
+
+Sri Lanka, who decided to bat first, lost 3 wickets at the end of the first day of the first day of the match, scoring 306 runs.
+
+Kamindu Mendis, who scored 51 runs in Sri Lanka's first innings, set a rare record of being the first batsman to score more than 50 runs in 8 Tests since Test cricket.
+
+He also became the first player to score 50 or more in 8 Tests 9 times.
+
+Kamundu Mendis, respectively, has played in 8 Tests since he made his debut against Australia in the Galle Stadium two years ago.
+
+51 A.E.. He set the record as (opposite New Zealand - Galle).
+
+So far, he has scored 873 runs with an average of 79.36, including 4 centuries and 5 half centuries in 13 innings in 8 Tests.
+
+...
+
+[Data](articles/e0d09f40.json)
+
+[Extended Data](ext_articles/e0d09f40.ext.json)
+
+---
+
 ### Jumped from the elephant to the telephone
 
 *2024-09-26 19:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானையிலிருந்து-டெலிபோனுக்கு-தாவினர்/175-344544) · `ta`
@@ -115,6 +303,30 @@ Rajapaksa and Senanayake announced their decisions at a meeting with SJB leader 
 [Data](articles/ab3c49a4.json)
 
 [Extended Data](ext_articles/ab3c49a4.ext.json)
+
+---
+
+### President's move to provide fuel subsidy to fishermen
+
+*2024-09-26 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194869) · `ta`
+
+President announces fuel subsidy for fishermen, direct bank payments, aims to boost industry and reduce costs.
+
+🟩
+
+Accordingly, the President has issued a directive to the Fishermen to provide fuel subsidy to the fishermen from the first day.
+
+This will provide fuel subsidy monthly for several days and one day shipping.
+
+The Presidential Media Unit said in a statement that the subsidy would be paid directly to the fishermen's bank account.
+
+The announcement stated that it would promote the ban on fishing and expected the cost of production to reduce the cost of production.
+
+◼️
+
+[Data](articles/a01738b9.json)
+
+[Extended Data](ext_articles/a01738b9.ext.json)
 
 ---
 
@@ -168,38 +380,6 @@ The letter states that he will resign from his positions to give the new Ministe
 
 ---
 
-### Sri Lanka's 'Kutti Bradman' Communise Mendis New World Records in 147 Years of Test cricketDon Bradman was also unable to Sunil Kavaskar
-
-*2024-09-26 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194871) · `ta`
-
-Sri Lanka's Kamindu Mendis sets world record in Test cricket history. At 25, he scored 51 runs in 2nd Test vs New Zealand, becoming first batsman to score over 50 in 8 Tests. His average of 79.36 includes 4 centuries and 5 half-centuries in 13 innings across 8 matches.
-
-🟩
-
-In the 147 -year history of Test cricket, Sri Lanka's 'Kutti Bradman' Kamindu has set his name in the history of the world.
-
-25 -year -old Kamindu Mendis set a new world record by scoring half a century in the second Test match at Galle International Stadium against New Zealand on Thursday (26).
-
-Sri Lanka, who decided to bat first, lost 3 wickets at the end of the first day of the first day of the match, scoring 306 runs.
-
-Kamindu Mendis, who scored 51 runs in Sri Lanka's first innings, set a rare record of being the first batsman to score more than 50 runs in 8 Tests since Test cricket.
-
-He also became the first player to score 50 or more in 8 Tests 9 times.
-
-Kamundu Mendis, respectively, has played in 8 Tests since he made his debut against Australia in the Galle Stadium two years ago.
-
-51 A.E.. He set the record as (opposite New Zealand - Galle).
-
-So far, he has scored 873 runs with an average of 79.36, including 4 centuries and 5 half centuries in 13 innings in 8 Tests.
-
-...
-
-[Data](articles/e0d09f40.json)
-
-[Extended Data](ext_articles/e0d09f40.ext.json)
-
----
-
 ### The 15,000 rupee fertilizer paid to the farmers of paddy is increased to 25,000 rupees;The Presidential Directorate will be implemented from the 1st of October
 
 *2024-09-26 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/194870) · `ta`
@@ -243,30 +423,6 @@ An energy industry specialist, Wickramasuriya had also previously served as the 
 [Data](articles/d9f6dfc6.json)
 
 [Extended Data](ext_articles/d9f6dfc6.ext.json)
-
----
-
-### President's move to provide fuel subsidy to fishermen
-
-*2024-09-26 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194869) · `ta`
-
-President announces fuel subsidy for fishermen, direct bank payments, aims to boost industry and reduce costs.
-
-🟩
-
-Accordingly, the President has issued a directive to the Fishermen to provide fuel subsidy to the fishermen from the first day.
-
-This will provide fuel subsidy monthly for several days and one day shipping.
-
-The Presidential Media Unit said in a statement that the subsidy would be paid directly to the fishermen's bank account.
-
-The announcement stated that it would promote the ban on fishing and expected the cost of production to reduce the cost of production.
-
-◼️
-
-[Data](articles/a01738b9.json)
-
-[Extended Data](ext_articles/a01738b9.ext.json)
 
 ---
 
@@ -506,15 +662,13 @@ The announcement states that this is expected to reduce the fisheries industry.
 
 *2024-09-26 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102283/president-directs-to-increase-fertilizer-subsidy-for-paddy-farmers) · `en`
 
-President Anura Kumara Dissanayake has directed the Treasury to increase the fertilizer subsidy provided for paddy farmers from Rs. 15,000 to Rs. 25,000 per hectare for the 2024/25 Maha season.
+President Anura Kumara Dissanayake has instructed the Treasury to provide a fertilizer subsidy of Rs. 25,000 per hectare to paddy farmers for the Maha season of 2024/25, the President’s Media Division (PMD) said.
 
-Accordingly, the fertilizer subsidy to be increased with effect from October 01, the President’s Media Division (PMD) said.
+According to this initiative, the fertilizer subsidy, which was previously set at Rs. 15,000 per hectare, will be increased to Rs. 25,000. This enhanced subsidy will take effect starting October 01.
 
-Meanwhile, the President has also advised the Treasury to provide a fuel subsidy to fishermen effective from October 01.
+To ensure efficient delivery of the subsidy to farmers, the funds will be directly transferred to their bank accounts. This approach aims to streamline the process and provide timely support to those in the agricultural sector, the PMD said.
 
-He has instructed for it to be credited to their bank accounts directly on a monthly basis.
-
-◼️
+...
 
 [Data](articles/10ca03b2.json)
 
@@ -2347,167 +2501,5 @@ It is noteworthy that Ramalingam Chandrasekhar, a member of the National People'
 [Data](articles/a17ae4f4.json)
 
 [Extended Data](ext_articles/a17ae4f4.ext.json)
-
----
-
-### The teacher who was searched was also trapped
-
-*2024-09-26 09:38:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-ஆசிரியரும்-சிக்கினார்/175-344487) · `ta`
-
-Teacher arrested for leaking exam questions. Criminal Investigation Department investigation ongoing. WhatsApp group used to distribute questions. Deleted data recovery efforts underway.
-
-🟩
-
-The teacher, who was searched by the Criminal Investigation Department, was arrested last night (24) night on charges of issuing questions of the fifth year scholarship examination.
-
-The arrested was MC from Alawa, Dulhiriya and Temple Estate. The Criminal Investigation Department said Kumara Ilangasekara was an assistant class teacher.
-
-EPS, who was arrested on the 23rd of this month, accused of leaking questions of the scholarship examination. Premadilaka National Institute of Education
-
-Investigations revealed that the teacher had distributed some questions made by the Director of Planning for the Scholarship Examination and distributed the children of his class to the children of his class through WhatsApp.
-
-It has been revealed that the teacher removed the WhatsApp Group after the incident came to light.
-
-The Criminal Investigation Department has launched investigations to recover these deleted data and to find others involved in leaking these questions.
-
-...
-
-[Data](articles/d5d5469e.json)
-
-[Extended Data](ext_articles/d5d5469e.ext.json)
-
----
-
-### Sri Lanka election commission releases seat allocation details for Nov polls
-
-*2024-09-26 09:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-commission-releases-seat-allocation-details-for-nov-polls-181033/) · `en`
-
-ECONOMYNEXT — The Election Commission has released information on seat allocations for Sri Lanka’s 2024 parliamentary election to be held on November 14.
-
-Sri Lanka’s 1978 constitution introduced a radical departure to the previously existing electoral system and electoral districts. According to parliament.lk, the previous system was based on constituencies with individual candidates nominated by recognised political parties or independent candidates. The candidate obtaining the highest number of votes in respect of the constituency was declared elected. This system, commonly described as the First-past-the-post (FPP) system, was changed in to a system of Proportional Representation in respect of 22 electoral districts.
-
-...
-
-[Data](articles/2b467979.json)
-
-[Extended Data](ext_articles/2b467979.ext.json)
-
----
-
-### CAA calls for reduction of bakery product prices
-
-*2024-09-26 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102272/caa-calls-for-reduction-of-bakery-product-prices) · `en`
-
-According to the Consumer Affairs Authority (CAA), the prices of egg-based bakery products should also decrease in line with the reduction in the price of eggs in the market.
-
-The Chairman of the CAA, Thusitha Indrajith, stated that the price of an egg, which was previously sold at a high price, is now between Rs. 28 and Rs. 35.
-
-He further emphasized that steps should be taken to pass this benefit on to consumers.
-
-◼️
-
-[Data](articles/2ef3e854.json)
-
-[Extended Data](ext_articles/2ef3e854.ext.json)
-
----
-
-### In the JVP's change, 'AKD' success is "ahead and forth"
-
-*2024-09-26 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194810) · `ta`
-
-Here's a 200-character summary:
-
-
-
-JVP leadership change in 2014: Anura Kumara Dissanayake succeeds Somawansa Amarasinghe. Party transforms, wins presidency in 2019. Challenges include economic recovery, IMF agreements, and upcoming general election.
-
-🟩
-
-“When the Chairman of the Janatha Vimukthi Peramuna (JVP) was in 2014, Somawansa Amarasinghe, who was the then leader, handed over the JV leadership to Anuragumara Dissanayake.. Although this change caused tensions within the party, senior leader and current general secretary of the JVP balanced with balance. In 2015, the JVP's 4th leader, Somawansa Amarasinghe, launched the Janata Party's political party in 2015.
-
-55 -year -old Anura Kumara Dissanayake has won the Sri Lankan presidential election. During his tenure, Anuragumara Dissanayake said that the rule of the working class would be aimed at protecting the rights of the working class and the eradication of corruption, including the development of people with backward livelihoods.
-
-...
-
-[Data](articles/23f02224.json)
-
-[Extended Data](ext_articles/23f02224.ext.json)
-
----
-
-### Several discussions with the opposition alliance
-
-*2024-09-26 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201554) · `si`
-
-Opposition alliance discusses supporting Ranil Wickremesinghe for parliamentary election. No final decision made yet. UNP reps met this morning. Discussion with Sri Lanka Government and Civil Front scheduled today. Election commission approval pending. Focus shifting to Public United Front. Final agreement expected today. Special meeting held in Colombo yesterday.
-
-🟩
-
-It is reported that all political parties and groups who have supported former President Ranil Wickremesinghe for the parliamentary election will compete in a political alliance.
-
-No final decision has been taken so far and several discussions will be held today (26).
-
-UNP representatives and former President Ranil Wickremesinghe have been discussed this morning.
-
-It is reported that if it is necessary to contest the next parliamentary election and the sign, reports say.
-
-Meanwhile, a discussion is scheduled to hold a discussion with the support of the Sri Lanka Government Ranil Wickremesinghe and the Sri Lanka Civil Front at 4.00 pm today.
-
-It is said to be a final agreement on how to contest the parliamentary election.
-
-Meanwhile, the General Freedom Freedom Freedom Festival of the Commissioner of the Commissioner General of the Commissioner General has not been given to the Commissioner General of MPs to support Ranil Wickremesinghe from the Sri Lanka General Front.
-
-...
-
-[Data](articles/63708f25.json)
-
-[Extended Data](ext_articles/63708f25.ext.json)
-
----
-
-### US and allies call for an immediate 21-day cease-fire between Israel and Hezbollah
-
-*2024-09-26 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102271/us-and-allies-call-for-an-immediate-21-day-cease-fire-between-israel-and-hezbollah) · `en`
-
-The U.S., France and other allies jointly called Wednesday for an immediate 21-day cease-fire to allow for negotiations in the escalating conflict between Israel and Hezbollah that has killed more than 600 people in Lebanon in recent days.
-
-The joint statement, negotiated on the sidelines of the U.N. General Assembly in New York, says the recent fighting is “intolerable and presents an unacceptable risk of a broader regional escalation.”
-
-“We call for an immediate 21-day cease-fire across the Lebanon-Israel border to provide space for diplomacy,” the statement said. “We call on all parties, including the governments of Israel and Lebanon, to endorse the temporary cease-fire immediately.”
-
-...
-
-[Data](articles/9b44a4b5.json)
-
-[Extended Data](ext_articles/9b44a4b5.ext.json)
-
----
-
-### New government's response to the Inspector General of Police
-
-*2024-09-26 09:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்தின்-பதில்-பொலிஸ்மா-அதிபர்-முன்மொழிவு/175-344486) · `ta`
-
-Here's a 200-character summary:
-
-
-
-New government proposes Priyantha Weerasuriya for Inspector General of Police. He has 36 years experience, rising from constable to Senior Deputy Inspector General. Government sources confirm his appointment along with another candidate.
-
-🟩
-
-Senior Deputy Inspector General of Police Priyantha Weerasuriya has been proposed to appoint as the Inspector General of Police under the new government, government sources said.
-
-He continued to serve at the Police Department for 36 years and served at various levels from the post of Police Constable to the post of Senior Deputy Inspector General of Police.
-
-He has been appointed as the Assistant Superintendent of Police after promoting the law graduate of the University of Colombo and the lawyer of the Law College of Sri Lanka.
-
-In response, government sources have confirmed that Senior Deputy Inspector General of Police Priyantha Weerasuriya and Lalith Pathinayaka have been proposed to the post of Inspector General of Police and Senior Deputy Inspector General of Police Priyantha Weerasuriya have been proposed.. Remble
-
-◼️
-
-[Data](articles/593e7269.json)
-
-[Extended Data](ext_articles/593e7269.ext.json)
 
 ---

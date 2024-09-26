@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 21:57:56**
+As of **2024-09-26 22:12:33**
 
 ## Newspaper Stats
 
-*Scraped **46,457** Articles*
+*Scraped **46,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,091
 adalk | 4,291
 dailymirrorlk | 4,733
 adaderanalk | 5,464
-tamilmirrorlk | 6,231
+tamilmirrorlk | 6,232
 virakesarilk | 7,427
 adaderanasinhalalk | 8,025
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,025
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,457 (100.0%) of 46,457 articles have been extended.
+46,458 (100.0%) of 46,458 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Dilith Jayaweera for creating a great alliance
+
+*2024-09-26 21:54:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாபெரும்-கூட்டணியை-உருவாக்கும்-திலித்-ஜயவீர/175-344561) · `ta`
+
+Sarvaja Shakti Alliance leader Dilith Jayaweera announces massive coalition for general election. Former MP Dilil joins as national organizer. Alliance seeks votes across districts, aiming to form influential political alliance in Sri Lanka.
+
+🟩
+
+Dilith Jayaweera, president of the Sarvaja Shakti Alliance, said that his party would form a massive coalition in the upcoming general election.
+
+He was speaking at a meeting held at the party office of the Sarvaja Shakti Alliance today (26).
+
+In addition, former Kandy district parliamentarian Dilil, who joined the Sarvaja Shakti Alliance, was appointed as the national organizer of the Amunugama Maubima Janata Party.
+
+“We are asking for votes in all districts in the general election.This time we form an influential political alliance in Sri Lanka. We have called politicians who believe that people will accept it. ”. Remble
+
+◼️
+
+[Data](articles/3dc3ad4f.json)
+
+[Extended Data](ext_articles/3dc3ad4f.ext.json)
+
+---
 
 ### Distributed paddy vehicles
 
@@ -132,11 +156,17 @@ Visa issue is the problem that caused great depression. We have resolved that pr
 
 *2024-09-26 20:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102286/govt-reinstates-previous-visa-issuing-system) · `en`
 
-The government has officially reinstated the previous visa issuing system, effective from 12.00 midnight today, according to the Presidential Media Division (PMD).
+The new Government of Sri Lanka has officially reinstated the previous visa issuing system, effective from 12.00 midnight today, according to the Presidential Media Division (PMD).
 
 Accordingly, starting from midnight today (26), all foreigners will be able to apply for visas under the previous system, the PMD said.
 
-◼️
+Meanwhile, the new Foreign Minister of Sri Lanka, Vijitha Herath, has issued a special statement regarding the matter.
+
+He noted that “many people faced difficulties when the visa facility was managed by VFS Global. Foreigners traveling to Sri Lanka encountered various issues, leading to this swift action. Within 24 hours, the government implemented the court order to revert to the old system.”
+
+“In consultation with the Attorney General, the government took immediate steps to comply with the court’s decision. Additionally, an analysis is underway to investigate the alleged irregularities in contracting the VFS organisation to issue visas,” he added.
+
+...
 
 [Data](articles/9664d210.json)
 
@@ -2491,27 +2521,5 @@ Former President Ranil Wickremesinghe, who is currently 75 years old, has held r
 [Data](articles/919c8adb.json)
 
 [Extended Data](ext_articles/919c8adb.ext.json)
-
----
-
-### The price of bakery products should be reduced - Consumer Officers Authority
-
-*2024-09-26 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194817) · `ta`
-
-Consumer Officers' Authority calls for reducing bakery product prices due to declining egg costs. Leader Dusitha Indrajit Udura states egg prices have dropped from 28-35 rupees. Chairman suggests implementing measures to benefit consumers.
-
-🟩
-
-The Consumer Officers' Authority said that the price of bakery products should be reduced as the price of eggs has declined in the market.
-
-Its leader Dusitha Indrajit Udura said that the price of an egg that was sold in the market in the past is now ranging from 28 to 35 rupees.
-
-Accordingly, the Chairman of the Consumer Affairs Authority said that steps should be taken to provide the benefit to the consumers.
-
-◼️
-
-[Data](articles/2cba7bde.json)
-
-[Extended Data](ext_articles/2cba7bde.ext.json)
 
 ---

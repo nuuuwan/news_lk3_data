@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 21:38:33**
+As of **2024-09-26 21:57:56**
 
 ## Newspaper Stats
 
-*Scraped **46,456** Articles*
+*Scraped **46,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,464
 tamilmirrorlk | 6,231
 virakesarilk | 7,427
-adaderanasinhalalk | 8,024
+adaderanasinhalalk | 8,025
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,456 (100.0%) of 46,456 articles have been extended.
+46,457 (100.0%) of 46,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Distributed paddy vehicles
+
+*2024-09-26 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201580) · `si`
+
+State-owned vehicles in Galle Face released for essential services. 107 vehicles distributed across 4 locations. No vehicles for ambulances, education officers, or police.
+
+🟩
+
+Presidential Secret Secretary Ananda Wijayapala said that the state-owned government vehicles in the Galle Face will be released for essential essential services.
+
+He was speaking at a conversation in the area today (26).
+
+After the sworn in the new president, many vehicles used in different officials were also present in the Galle Face area adjacent to the office.
+
+"There are 107 vehicles in 4 locations. These are provided to essential services. No vehicles for ambulances. Officers in the field of education do not have vehicles. Police officers do not have vehicles. The number of vehicles distributed to each sector. "
+
+◼️
+
+[Data](articles/c73c067d.json)
+
+[Extended Data](ext_articles/c73c067d.ext.json)
+
+---
 
 ### China's development cooperation is a trap for other countries?
 
@@ -2489,25 +2513,5 @@ Accordingly, the Chairman of the Consumer Affairs Authority said that steps shou
 [Data](articles/2cba7bde.json)
 
 [Extended Data](ext_articles/2cba7bde.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-09-26 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201555) · `si`
-
-Sri Lanka wins second test match against Sri Lankan team. Match starts at 10 AM at Galle International Stadium.
-
-🟩
-
-Sri Lankan team won the advantage of the Sri Lanka Second Test match between Sri Lanka and the Sri Lankan team.
-
-The competition will commence at 10.00 am at the Galle International Stadium.
-
-◼️
-
-[Data](articles/4e0686a3.json)
-
-[Extended Data](ext_articles/4e0686a3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 10:11:42**
+As of **2024-09-26 10:23:08**
 
 ## Newspaper Stats
 
-*Scraped **46,350** Articles*
+*Scraped **46,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,132 @@ economynextcom | 2,807
 dailyftlk | 3,091
 adalk | 4,274
 dailymirrorlk | 4,733
-adaderanalk | 5,450
+adaderanalk | 5,451
 tamilmirrorlk | 6,205
-virakesarilk | 7,404
-adaderanasinhalalk | 8,002
+virakesarilk | 7,405
+adaderanasinhalalk | 8,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,349 (100.0%) of 46,350 articles have been extended.
+46,353 (100.0%) of 46,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
 
-### தேடப்பட்டு வந்த ஆசிரியரும் சிக்கினார்
+### The price of bakery products should be reduced - Consumer Officers Authority
+
+*2024-09-26 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194817) · `ta`
+
+Consumer Officers' Authority calls for reducing bakery product prices due to declining egg costs. Leader Dusitha Indrajit Udura states egg prices have dropped from 28-35 rupees. Chairman suggests implementing measures to benefit consumers.
+
+🟩
+
+The Consumer Officers' Authority said that the price of bakery products should be reduced as the price of eggs has declined in the market.
+
+Its leader Dusitha Indrajit Udura said that the price of an egg that was sold in the market in the past is now ranging from 28 to 35 rupees.
+
+Accordingly, the Chairman of the Consumer Affairs Authority said that steps should be taken to provide the benefit to the consumers.
+
+◼️
+
+[Data](articles/2cba7bde.json)
+
+[Extended Data](ext_articles/2cba7bde.ext.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2024-09-26 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201555) · `si`
+
+Sri Lanka wins second test match against Sri Lankan team. Match starts at 10 AM at Galle International Stadium.
+
+🟩
+
+Sri Lankan team won the advantage of the Sri Lanka Second Test match between Sri Lanka and the Sri Lankan team.
+
+The competition will commence at 10.00 am at the Galle International Stadium.
+
+◼️
+
+[Data](articles/4e0686a3.json)
+
+[Extended Data](ext_articles/4e0686a3.ext.json)
+
+---
+
+### Parties that supported Ranil to form alliance for parliamentary election
+
+*2024-09-26 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102273/parties-that-supported-ranil-to-form-alliance-for-parliamentary-election) · `en`
+
+It is reported that all the political parties and groups that supported former President Ranil Wickremesinghe will contest under a political alliance in this year’s parliamentary elections.
+
+However, no final decision has been made yet, and several discussions are scheduled to be held today (26).
+
+A special meeting is set to take place this morning between representatives of the United National Party (UNP) and former President Ranil Wickremesinghe.
+
+It is reported that the discussions will cover how to contest the upcoming parliamentary elections, including the symbol under which they will contest. If an alliance is formed, the essential groundwork required will also be discussed.
+
+Additionally, a meeting is scheduled for today at 4:00 p.m. between former President Ranil Wickremesinghe and the group that supported him in the last presidential election, representing the Sri Lanka Podujana Peramuna (SLPP).
+
+...
+
+[Data](articles/713c7889.json)
+
+[Extended Data](ext_articles/713c7889.ext.json)
+
+---
+
+### Congratulations to President
+
+*2024-09-26 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194815) · `ta`
+
+New president inaugurated in Jaffna. Supporters bless public at Navatkuli junction. Ramalingam Chandrasekhar attends ceremony.
+
+🟩
+
+The new president was held in Jaffna on Wednesday (25) as the new President was sworn in as the new President.
+
+At the Navatkuli junction, the public was given a blessing and bay to the public by supporters of the National People's Power.
+
+It is noteworthy that Ramalingam Chandrasekhar, a member of the National People's Power Executive Committee and Jaffna district organizer, was present.
+
+◼️
+
+[Data](articles/a17ae4f4.json)
+
+[Extended Data](ext_articles/a17ae4f4.ext.json)
+
+---
+
+### The teacher who was searched was also trapped
 
 *2024-09-26 09:38:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேடப்பட்டு-வந்த-ஆசிரியரும்-சிக்கினார்/175-344487) · `ta`
 
-ஐந்தாம் ஆண்டு புலமைப்பரிசில் பரீட்சையின் வினாக்களை முன்கூட்டியே வெளியிட்ட குற்றச்சாட்டின் பேரில் குற்றப் புலனாய்வுப் பிரிவினரால் தேடப்பட்டு வந்த ஆசிரியர் நேற்று முன்தினம் (24) இரவு கைது செய்யப்பட்டுள்ளார்.
+Teacher arrested for leaking exam questions. Criminal Investigation Department investigation ongoing. WhatsApp group used to distribute questions. Deleted data recovery efforts underway.
 
-இவ்வாறு கைது செய்யப்பட்டவர் அலவ்வ, துல்ஹிரிய, கோவில் தோட்டத்தை் சேர்ந்த எம்.சி. குமார இளங்கசேகர உதவி வகுப்பு ஆசிரியர் என குற்றப் புலனாய்வுத் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-புலமைப்பரிசில் பரீட்சையின் கேள்விகளை கசியவிட்டதாக குற்றஞ்சாட்டப்பட்டு கடந்த 23 ஆம் திகதி குருநாகல் தித்தவெல்ல கைது செய்யப்பட்ட ஈ.பி.எஸ். பிரேமதிலக தேசிய கல்வி நிறுவனம்
+The teacher, who was searched by the Criminal Investigation Department, was arrested last night (24) night on charges of issuing questions of the fifth year scholarship examination.
 
-புலமைப்பரிசில் பரீட்சைக்காக திட்டமிடல் பணிப்பாளரால் தயாரிக்கப்பட்ட சில கேள்விகளை குறித்த ஆசிரியர் தனது வகுப்பின் பிள்ளைகளுக்கு வாட்ஸ்அப் குழு மூலம் விநியோகித்துள்ளதாக விசாரணைகளின் போது தெரியவந்துள்ளது.
+The arrested was MC from Alawa, Dulhiriya and Temple Estate. The Criminal Investigation Department said Kumara Ilangasekara was an assistant class teacher.
 
-இந்த சம்பவம் வெளிச்சத்துக்கு வந்ததையடுத்து அந்த வாட்ஸ்அப் குரூப்பை ஆசிரியர் நீக்கியதும் தெரியவந்துள்ளது.
+EPS, who was arrested on the 23rd of this month, accused of leaking questions of the scholarship examination. Premadilaka National Institute of Education
+
+Investigations revealed that the teacher had distributed some questions made by the Director of Planning for the Scholarship Examination and distributed the children of his class to the children of his class through WhatsApp.
+
+It has been revealed that the teacher removed the WhatsApp Group after the incident came to light.
+
+The Criminal Investigation Department has launched investigations to recover these deleted data and to find others involved in leaking these questions.
 
 ...
 
 [Data](articles/d5d5469e.json)
+
+[Extended Data](ext_articles/d5d5469e.ext.json)
 
 ---
 
@@ -67,6 +161,52 @@ He further emphasized that steps should be taken to pass this benefit on to cons
 [Data](articles/2ef3e854.json)
 
 [Extended Data](ext_articles/2ef3e854.ext.json)
+
+---
+
+### Ranil ready to mess up the puddle again…?
+
+*2024-09-26 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194811) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former President Ranil Wickremesinghe, 75, seeks to influence UNP's parliamentary campaign strategy despite announcing retirement. His efforts to secure party leadership and electoral seats face resistance from Sajith Premadasa.
+
+🟩
+
+Former President Ranil Wickremesinghe, who is currently 75 years old, has held responsibility for the Prime Minister, Opposition Leader and President. There is a great deal of diplomat and political experience that he should be a good political adviser to the younger ones.. But he has announced that he will not contest the elections and plans to field the United National Party in parliamentary elections and get seats.. Despite his request to work with Sajith, Sajith has rejected his request due to his stubbornness that the UNP leadership should be responsible.However, reports say that he can bring his colleagues into parliament and engage in the rituals that pressure the administration of Anurakumara.
+
+...
+
+[Data](articles/919c8adb.json)
+
+[Extended Data](ext_articles/919c8adb.ext.json)
+
+---
+
+### In the JVP's change, 'AKD' success is "ahead and forth"
+
+*2024-09-26 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194810) · `ta`
+
+Here's a 200-character summary:
+
+
+
+JVP leadership change in 2014: Anura Kumara Dissanayake succeeds Somawansa Amarasinghe. Party transforms, wins presidency in 2019. Challenges include economic recovery, IMF agreements, and upcoming general election.
+
+🟩
+
+“When the Chairman of the Janatha Vimukthi Peramuna (JVP) was in 2014, Somawansa Amarasinghe, who was the then leader, handed over the JV leadership to Anuragumara Dissanayake.. Although this change caused tensions within the party, senior leader and current general secretary of the JVP balanced with balance. In 2015, the JVP's 4th leader, Somawansa Amarasinghe, launched the Janata Party's political party in 2015.
+
+55 -year -old Anura Kumara Dissanayake has won the Sri Lankan presidential election. During his tenure, Anuragumara Dissanayake said that the rule of the working class would be aimed at protecting the rights of the working class and the eradication of corruption, including the development of people with backward livelihoods.
+
+...
+
+[Data](articles/23f02224.json)
+
+[Extended Data](ext_articles/23f02224.ext.json)
 
 ---
 
@@ -189,28 +329,6 @@ The event was attended by many supporters and people with the participation of t
 [Data](articles/e37392fa.json)
 
 [Extended Data](ext_articles/e37392fa.ext.json)
-
----
-
-### Congratulations to President
-
-*2024-09-26 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/194815) · `ta`
-
-New president inaugurated in Jaffna. Supporters bless public at Navatkuli junction. Ramalingam Chandrasekhar attends ceremony.
-
-🟩
-
-The new president was held in Jaffna on Wednesday (25) as the new President was sworn in as the new President.
-
-At the Navatkuli junction, the public was given a blessing and bay to the public by supporters of the National People's Power.
-
-It is noteworthy that Ramalingam Chandrasekhar, a member of the National People's Power Executive Committee and Jaffna district organizer, was present.
-
-◼️
-
-[Data](articles/a17ae4f4.json)
-
-[Extended Data](ext_articles/a17ae4f4.ext.json)
 
 ---
 
@@ -549,52 +667,6 @@ According to Article 70 of the Constitution, the 9th Parliament was dissolved ye
 [Data](articles/bcde5e6f.json)
 
 [Extended Data](ext_articles/bcde5e6f.ext.json)
-
----
-
-### Ranil ready to mess up the puddle again…?
-
-*2024-09-26 03:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/194811) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former President Ranil Wickremesinghe, 75, seeks to influence UNP's parliamentary campaign strategy despite announcing retirement. His efforts to secure party leadership and electoral seats face resistance from Sajith Premadasa.
-
-🟩
-
-Former President Ranil Wickremesinghe, who is currently 75 years old, has held responsibility for the Prime Minister, Opposition Leader and President. There is a great deal of diplomat and political experience that he should be a good political adviser to the younger ones.. But he has announced that he will not contest the elections and plans to field the United National Party in parliamentary elections and get seats.. Despite his request to work with Sajith, Sajith has rejected his request due to his stubbornness that the UNP leadership should be responsible.However, reports say that he can bring his colleagues into parliament and engage in the rituals that pressure the administration of Anurakumara.
-
-...
-
-[Data](articles/919c8adb.json)
-
-[Extended Data](ext_articles/919c8adb.ext.json)
-
----
-
-### In the JVP's change, 'AKD' success is "ahead and forth"
-
-*2024-09-26 03:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/194810) · `ta`
-
-Here's a 200-character summary:
-
-
-
-JVP leadership change in 2014: Anura Kumara Dissanayake succeeds Somawansa Amarasinghe. Party transforms, wins presidency in 2019. Challenges include economic recovery, IMF agreements, and upcoming general election.
-
-🟩
-
-“When the Chairman of the Janatha Vimukthi Peramuna (JVP) was in 2014, Somawansa Amarasinghe, who was the then leader, handed over the JV leadership to Anuragumara Dissanayake.. Although this change caused tensions within the party, senior leader and current general secretary of the JVP balanced with balance. In 2015, the JVP's 4th leader, Somawansa Amarasinghe, launched the Janata Party's political party in 2015.
-
-55 -year -old Anura Kumara Dissanayake has won the Sri Lankan presidential election. During his tenure, Anuragumara Dissanayake said that the rule of the working class would be aimed at protecting the rights of the working class and the eradication of corruption, including the development of people with backward livelihoods.
-
-...
-
-[Data](articles/23f02224.json)
-
-[Extended Data](ext_articles/23f02224.ext.json)
 
 ---
 
@@ -2223,85 +2295,5 @@ Accordingly, the law will come into effect after 120 days.
 [Data](articles/09c79074.json)
 
 [Extended Data](ext_articles/09c79074.ext.json)
-
----
-
-### New governors appoint
-
-*2024-09-25 17:26:52* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආණ්ඩුකාරවරු-පත්කෙරෙති/11-412146) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka: President Anura Kumara Dissanayake appoints new governors. Central Province: Prof. Sarath Abeykoon named governor.
-
-🟩
-
-President Anura Kumara Dissanayake has been appointed to appoint new governors in the provinces.
-
-The Central Province New Provincial Council - Prof. Sarath Abeykoon has been appointed.
-
-◼️
-
-[Data](articles/a5171254.json)
-
-[Extended Data](ext_articles/a5171254.ext.json)
-
----
-
-### Vehicles used in past governments
-
-*2024-09-25 17:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-அரசாங்கங்களில்-பயன்படுத்திய-வாகனங்கள்/175-344449) · `ta`
-
-Former Sri Lankan presidents and high-ranking officials' vehicles parked in Colombo. Vehicles maintained by public funds, 833 total, 29 missing by 2022. Former presidents accused of misusing vehicles.
-
-🟩
-
-A large number of 'high -ranking' vehicles used by former President Ranil Wickremesinghe's government ministers, diplomatic ministers and secretaries are now parked in the Galle face of Colombo.
-
-Other vehicles near the Sri Lanka Forum College and Laxala have been parked.
-
-Vasantha Samarasinghe, the Executive Member of the National People's Power, said that after visiting the vehicles, the authorities who used them have been deployed in many places since they were sworn in as President.
-
-Samarasinghe said that if Anura Dissanayake was not president, these vehicles would still run on the road.
-
-Vasantha Samarasinghe said that the vehicles were maintained by the public's fuel and money and that there are 833 vehicles belonging to the Presidential Office.
-
-He added that 29 of the 833 vehicles have disappeared by 2022 and that former Presidents Ranil Wickremesinghe, Mahinda Rajapaksa, Maithripala Sirisena, Gotabhaya Rajapaksa and Chandrika Kumaratunga have swallowed the vehicles.
-
-◼️
-
-[Data](articles/8466d713.json)
-
-[Extended Data](ext_articles/8466d713.ext.json)
-
----
-
-### Vehicles used in past governments
-
-*2024-09-25 17:24:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கடந்த-அரசாங்கங்களில்-பயன்படுத்திய-வாகனங்கள்/46-344449) · `ta`
-
-Former Sri Lankan presidents and high-ranking officials' vehicles parked at Galle Face and other locations. Vehicles maintained by public funds, 833 total, 29 missing by 2022. Former presidents allegedly used vehicles.
-
-🟩
-
-A large number of 'high -ranking' vehicles used by former President Ranil Wickremesinghe's government ministers, diplomatic ministers and secretaries are now parked in the Galle face.
-
-Other vehicles near the Sri Lanka Forum College and Laxala have been parked.
-
-Vasantha Samarasinghe, the Executive Member of the National People's Power, said that after visiting the vehicles, the authorities who used them have been deployed in many places since they were sworn in as President.
-
-Samarasinghe said that if Anura Dissanayake was not president, these vehicles would still run on the road.
-
-Vasantha Samarasinghe said that the vehicles were maintained by the public's fuel and money and that there are 833 vehicles belonging to the Presidential Office.
-
-He added that 29 of the 833 vehicles have disappeared by 2022 and that former Presidents Ranil Wickremesinghe, Mahinda Rajapaksa, Maithripala Sirisena, Gotabhaya Rajapaksa and Chandrika Kumaratunga have swallowed the vehicles.
-
-◼️
-
-[Data](articles/d669b128.json)
-
-[Extended Data](ext_articles/d669b128.ext.json)
 
 ---

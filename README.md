@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 07:25:22**
+As of **2024-09-26 08:00:38**
 
 ## Newspaper Stats
 
-*Scraped **46,323** Articles*
+*Scraped **46,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailyftlk | 3,091
 adalk | 4,272
 dailymirrorlk | 4,733
 adaderanalk | 5,447
-tamilmirrorlk | 6,196
+tamilmirrorlk | 6,197
 virakesarilk | 7,402
-adaderanasinhalalk | 7,996
+adaderanasinhalalk | 7,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,321 (100.0%) of 46,323 articles have been extended.
+46,325 (100.0%) of 46,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Sri Lanka's breast cancer deaths
+
+*2024-09-26 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201549) · `si`
+
+Sri Lanka sees rising breast cancer mortality rates compared globally, according to National Cancer Control Program data.
+
+🟩
+
+The National Cancer Control Program said that the number of death censorship has increased in Sri Lanka compared to the rest of the world.
+
+◼️
+
+[Data](articles/40fb94c9.json)
+
+[Extended Data](ext_articles/40fb94c9.ext.json)
+
+---
 
 ### A change in the weather in the next few days
 
@@ -447,6 +465,32 @@ The car, which was started at the Jaffna Velanai Memorial Publisher
 [Data](articles/f84d922c.json)
 
 [Extended Data](ext_articles/f84d922c.ext.json)
+
+---
+
+### Israel attack on Lebanon: 569 killed
+
+*2024-09-26 00:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனான்-மீதான-இஸ்ரேல்-தாக்குதல்-569-பேர்-பலி/50-344478) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Israel's bombing in Lebanon kills 569. Thousands flee south Lebanon. Egyptian, Iranian, and Jordanian foreign ministers condemn Israel's actions against Lebanon.
+
+🟩
+
+About 569 people have been killed in Israel's bombing across Lebanon, the Ministry of Health said.
+
+In addition, tens of thousands of people have left the southern part of Lebanon due to the attack, foreign reports say.
+
+Foreign ministers of Egypt, Iran and Jordan have condemned Israel's occupation against Lebanon. (A)
+
+◼️
+
+[Data](articles/9424e91d.json)
+
+[Extended Data](ext_articles/9424e91d.ext.json)
 
 ---
 
@@ -2257,61 +2301,5 @@ Thailand is one of the third country at the marriage of Samariya.
 [Data](articles/65972853.json)
 
 [Extended Data](ext_articles/65972853.ext.json)
-
----
-
-### New Governors appointed by the President
-
-*2024-09-25 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102262/new-governors-appointed-by-the-president) · `en`
-
-President Anura Kumara Dissanayake has appointed new governors for nine provinces.
-
-They were sworn in before the President at the Presidential Secretariat in Colombo on Wednesday (25).
-
-• Mr. Sarath Bandara Samarasinghe Abayakon - Governor of the Central Province
-
-• Mr. Bandula Harischandra - Governor of the Southern Province
-
-• Mr. Tissa Kumarasiri Warnasuriya - Governor of the North Western (Wayamba) Province
-
-• Mr. Wasantha Kumara Wimalasiri - Governor of the North Central Province
-
-• Mr. Nagalingam Vethanayagam - Governor of the Northern Province
-
-• Mr. Jayantha Lal Ratnasekara - Governor of the Eastern Province
-
-• Mrs. Champa Janaki Rajaratne - Governor of the Sabaragamuwa Province
-
-The President’s Secretary, Dr Nandika Sanath Kumanayake, was also present at the occasion.
-
-◼️
-
-[Data](articles/8d9dc3eb.json)
-
-[Extended Data](ext_articles/8d9dc3eb.ext.json)
-
----
-
-### 65-hour water cut to be imposed in an around Kandy
-
-*2024-09-25 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102261/65-hour-water-cut-to-be-imposed-in-an-around-kandy) · `en`
-
-The National Water Supply & Drainage Board (NWSDB) announced that a 65-hour water cut will affect several areas in an around Kandy from 1.00 a.m. on September 28 to 6.00 p.m. on September 30, due to urgent maintenance activities of the Polgolla Reservoir.
-
-Accordingly, the water supply to the following areas will be temporarily suspended due to the Polgolla reservoir being emptied for maintenance work:
-
-Kandy Municipal Council area and areas belonging to Harispattuwa, Pujapitiya, Pathadumbara and Akurana water supply systems.
-
-Rajawella, Sirimalwatta, Ampitiya, Amunugama, Hantana and Walala areas which belong to the Kundasale Divisional Secretariat division.
-
-Mawathagama area which is supplied water by the Greater Kandy water treatment plant.
-
-The Water Board further said it regrets any inconveniences caused to the public by the water cut, and requested that the affected populaces render their support by utilizing water sparingly.
-
-◼️
-
-[Data](articles/86beebfd.json)
-
-[Extended Data](ext_articles/86beebfd.ext.json)
 
 ---

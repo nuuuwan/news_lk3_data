@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 08:58:11**
+As of **2024-09-26 09:11:54**
 
 ## Newspaper Stats
 
-*Scraped **46,333** Articles*
+*Scraped **46,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,135 @@ dailyftlk | 3,091
 adalk | 4,273
 dailymirrorlk | 4,733
 adaderanalk | 5,447
-tamilmirrorlk | 6,197
+tamilmirrorlk | 6,203
 virakesarilk | 7,402
-adaderanasinhalalk | 7,999
+adaderanasinhalalk | 8,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,333 (100.0%) of 46,333 articles have been extended.
+46,341 (100.0%) of 46,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### 85 MPs losing pension
+
+*2024-09-26 08:54:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வூதியத்தை-இழக்கும்-85-எம்-பி-க்கள்/175-344485) · `ta`
+
+MPs face loss of pension due to dissolution of parliament. Lifetime pension of 45,000 rupees for 5+ years of service may end. Ninth parliament term set to conclude in August 2023.
+
+🟩
+
+A Member of Parliament who has completed five years in Parliament will receive a lifetime of forty -five thousand rupees as a lifetime pension.
+
+But the MPs will lose that privilege as the parliament is to be dissolved next year.
+
+The ninth parliament began on August 20, 2020. Accordingly, the term of parliament ended in August next year. Remble
+
+◼️
+
+[Data](articles/5072546d.json)
+
+[Extended Data](ext_articles/5072546d.ext.json)
+
+---
+
+### The deadly accident
+
+*2024-09-26 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201553) · `si`
+
+Motorcycle collides with van, killing 38-year-old motorist and 32-year-old wife. Van driver arrested, Akuressa Police investigating.
+
+🟩
+
+The accident had occurred when a motorcycle collided with a van.
+
+The victim was the 38-year-old motorist and his 32-year-old wife.
+
+The driver of the van has been arrested in connection with the accident and Akuressa Police are conducting further investigations.
+
+◼️
+
+[Data](articles/9d0e2882.json)
+
+[Extended Data](ext_articles/9d0e2882.ext.json)
+
+---
+
+### Warning to the new government
+
+*2024-09-26 08:46:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்திற்கு-விடுக்கப்பட்டுள்ள-எச்சரிக்கை/175-344484) · `ta`
+
+Sri Lanka Teachers Union warns government over unmet demands. Joseph Starling threatens street protests if issues aren't addressed. Key concerns: ministerial appointments, public administrative chief secretary allegations, teacher promotions, and wage gaps. Union vows action if problems persist.
+
+🟩
+
+Joseph Starling, secretary of the Sri Lanka Teachers Union, warned that if the government did not listen to the demands of the teachers who voted for the current government, the day was not far from the day to fight back on the streets to meet those demands.
+
+The new government has appointed secretaries to manage ministries so far. We are not satisfied with the appointment of these secretaries.
+
+There are charges on the Public Administrative Chief Secretary. There are even audit reports on the allegations against him when he was.
+
+The appointment of a Western Provincial Chief Secretary has been appointed as the Secretary of the Ministry.
+
+There is a serious problem in providing promotion to teachers in the field of education. Also, as the Department of Education, there are many major problems. Apart from solving these problems, the main issue is to provide the remaining two -thirds of the teacher wage gap.
+
+...
+
+[Data](articles/4bc88695.json)
+
+[Extended Data](ext_articles/4bc88695.ext.json)
+
+---
+
+### Decision on Bakery Product Prices
+
+*2024-09-26 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201552) · `si`
+
+Consumer Affairs Authority recommends reducing prices of egg-based bakery products due to declining egg prices in the market. Chairman Thusitha Indrawansa states that high-priced eggs are now selling at lower rates. The authority advises bakeries to adjust their product pricing accordingly.
+
+🟩
+
+The Consumer Affairs Authority says that eggs based bakery products should also be reduced compared to decrease in the price of eggs in the market.
+
+The Chairman of the President Thusitha Indraise said that the price of an egg sold at a high-price egg, which is sold at a high-price egg, is currently being priced at Rs.
+
+Accordingly, the Consumer Affairs Authority of the Consumer Affairs Ut.
+
+◼️
+
+[Data](articles/d1eace93.json)
+
+[Extended Data](ext_articles/d1eace93.ext.json)
+
+---
+
+### Initiative
+
+*2024-09-26 08:38:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்தேர்தலுக்கான-அச்சடிக்கும்-பணி-ஆரம்பம்/175-344482) · `ta`
+
+Printing of documents for parliamentary and local government elections has started. Adequate materials available. Gazette notifications underway. 25 ballots per district for 25 nomination districts.
+
+🟩
+
+State Amaker Gangani Kalpana Liyanage said that printing of documents relating to parliamentary general election has begun.
+
+He also said that there are adequate documents for the parliamentary general election and the upcoming local government elections.
+
+He added that printing of the parliamentary general election and the gazette notification have begun.
+
+Since nominations are accepted in 25 districts in the parliamentary general election, 25 ballots are to be printed each district. Remble
+
+◼️
+
+[Data](articles/131c7e91.json)
+
+[Extended Data](ext_articles/131c7e91.ext.json)
+
+---
 
 ### Two youths who were traveling in the Mahaweli River
 
@@ -60,6 +176,28 @@ One of these youths have come to Sri Lanka and has come to the river after he ha
 
 ---
 
+### How many MPs in your district?
+
+*2024-09-26 08:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உங்கள்-மாவட்டத்தில்-எத்தனை-எம்-பிக்கள்/175-344481) · `ta`
+
+Gampaha district to elect 19 MPs in 2024 general election. Election Commission specifies candidate requirements per district.
+
+🟩
+
+The Election Commission of Sri Lanka has issued a report on the number of MPs (MP) to be elected from every election district in the upcoming 2024 general election.
+
+According to the Commission's report, a total of 19 members from the district will be elected, with a large number of MPs in the Gampaha district.
+
+The Commission has also described the number of candidates required for each district to ensure that the election is complied with.
+
+◼️
+
+[Data](articles/56a865fd.json)
+
+[Extended Data](ext_articles/56a865fd.ext.json)
+
+---
+
 ### Sri Lanka and New Zealand commences today
 
 *2024-09-26 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201550) · `si`
@@ -83,6 +221,62 @@ Sri Lanka were able to win the first Test match between the two countries by 63 
 [Data](articles/eac80fc9.json)
 
 [Extended Data](ext_articles/eac80fc9.ext.json)
+
+---
+
+### If the first is okay — it cannot be accepted now
+
+*2024-09-26 07:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதல்-என்றால்-பரவாயில்லை-தற்போது-ஏற்க-முடியாது/175-344480) · `ta`
+
+Former MP Thilam Amunugama defends use of vehicles by current officials, says misuse unacceptable. Emphasizes proper handover process and freedom for officials to choose transportation methods. Criticizes mocking former officials regarding vehicle usage.
+
+🟩
+
+Former Parliamentarian Thilm Amunugama made it clear that the vehicles were used by the leaders of the Coordinating Committee, while condemning the comments made by the National People's Power Member Wasantha Samarasinghe on the vehicles abandoned in the Galle Face.
+
+He also emphasized that MPs and ministers did not misuse government vehicles.
+
+Speaking to the media, he said that parliamentarians and ministers have already handed over their official vehicles and that they are now parked in the Galle Face.. It is acceptable to mock before coming to power, but after taking office, it cannot be accepted.
+
+He also explained that if vehicles were stolen, it would be considered abuse and that it should be investigated.. However, official handing over vehicles allocated to MPs and Ministers cannot be misused.
+
+Amunugama pointed out that if the current government intends to go and work without using vehicles, it is the freedom to do it according to their wishes.
+
+...
+
+[Data](articles/cfffbbca.json)
+
+[Extended Data](ext_articles/cfffbbca.ext.json)
+
+---
+
+### Forecast of today's weather
+
+*2024-09-26 07:48:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவித்தல்/175-344479) · `ta`
+
+Weather forecast: Rain expected in Sabaragamuwa, Western, North Western provinces. Heavy winds in Central Highlands, Northern, North Central, North Western provinces. Thunderstorms possible in coastal areas. Strong winds in sea regions. Public advised to be cautious due to strong winds and lightning.
+
+🟩
+
+Rainfall is expected today (26) in the Sabaragamuwa, Western and North Western provinces as well as Kandy, Nuwara Eliya, Galle and Matara districts.
+
+There are many places in the Eastern and Uva provinces in the evening or night.
+
+Heavy winds can be frequent at speeds of 40 - 45 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces as well as in Matale, Hambantota and Moneragala districts.
+
+Showers or thunderstorms are likely to occur in many parts of the sea regions beyond the coast of Chilaw to Hambantota via Galle.
+
+Winds from the west or southwest at speeds of 30 - 40 km / h in the sea regions.
+
+In the sea regions from Matara to Hambantota, Pottuvil, the winds may increase frequently at 60 kilometers per hour.
+
+He said that the wind could increase at speeds of 50 kilometers per hour in the sea regions from the Kankesanthurai to Mannar to Mannar.
+
+...
+
+[Data](articles/2992924d.json)
+
+[Extended Data](ext_articles/2992924d.ext.json)
 
 ---
 
@@ -2123,191 +2317,5 @@ Meanwhile, the turnover appeared at 3.96 billion rupees.
 [Data](articles/132fefeb.json)
 
 [Extended Data](ext_articles/132fefeb.ext.json)
-
----
-
-### Immigration Controller General remanded
-
-*2024-09-25 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102264/immigration-controller-general-remanded) · `en`
-
-The Controller General of Immigration and Emigration, Harsha Illukpitiya has been remanded by the Supreme Court on contempt of court charges for failing to implement the interim order on the implementation of the electronic visa process.
-
-The court issued this order after reading out the relevant charge sheets against the Controller General of Immigration and Emigration, Ada Derana reporter said.
-
-The relevant fundamental rights petitions were ordered to be taken up again on January 22, 2025.
-
-On September 13, the Supreme Court ordered to file contempt of court charges against the Controller General of Immigration and Emigration for failing to obey the court’s interim order to suspend the implementation of the electronic visa system.
-
-The court also ordered the petitioning party to draft the charges and present it before the court today (September 25).
-
-...
-
-[Data](articles/52d3cc9b.json)
-
-[Extended Data](ext_articles/52d3cc9b.ext.json)
-
----
-
-### Jammu & Kashmir General Election: The second phase of voting
-
-*2024-09-25 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/194780) · `ta`
-
-Second phase of Jammu & Kashmir general election underway. Voting for 26 constituencies across three districts in Jammu and Srinagar regions. Former CM Umar Abdullah and BJP leader Ravinder Raina among contestants. International observers present. Security measures in place.
-
-🟩
-
-The second phase of general election is being held for the Jammu & Kashmir Union Territory, located in the northern part of India.. People are eagerly registering their vote.
-
-The general election was announced for the Jammu & Kashmir Union Territory and the first phase of the election was held on September 18 last year.. Elections were held for 24 seats out of a total of 90 seats. The Election Commission officially announced that 61.13 per cent voted
-
-The second phase of polling is taking place today. Elections for 26 constituencies are being held today. Elections are being held in three districts in the Jammu region and three districts in the Sri Nagar region. A total of 239 candidates are contesting this election.
-
-Umar Abdullah, the former chief minister of the Jammu and Kashmir National Conference Party, is contesting this second phase. Ravinder Raina, the leader of the Bharatiya Janata Party (BJP), Jammu and Kashmir, is also contesting.
-
-...
-
-[Data](articles/d145a7bc.json)
-
-[Extended Data](ext_articles/d145a7bc.ext.json)
-
----
-
-### 'Singing Moon' SPP's Memorial Day
-
-*2024-09-25 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/194771) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Singing Moon" SPP's Memorial Day honors late background singer S.B. Balasubramaniam. He sang in 15+ languages, performed 40k+ songs, and received India's top awards. Fans worldwide mourn his loss in 2020. AI tech may revive his voice in future films, sparking debate on legal usage. His legacy continues to inspire generations.
-
-🟩
-
-The late background singer S. B.. Balasubramaniam's fifth anniversary commemorates his fans around the world.
-
-Background singer S.. B.. Balasubramaniam has sung not only in Tamil but also in more than fifteen languages.
-
-SBB has sang more than forty thousand songs and sang hundreds of thousands of songs in accordance with the wishes and request of the fans about the participation of thousands of stage shows around the world.. In honor of his art service, the Government of India has honored the highest awards, 'Padma Shri', 'Padma Bhushan' and 'Padma Vibhushan'.
-
-On the same day during the Corona infection, in 2020, he left fans in grief and left her voice in this world, and went to heaven with the body.
-
-A large number of fans who love him are paying him their favorite. It is posted on social media.
-
-They also pay homage to the statue of the statue of the birth of the birth of his birth.
-
-...
-
-[Data](articles/e8a3bfa0.json)
-
-[Extended Data](ext_articles/e8a3bfa0.ext.json)
-
----
-
-### Controller of the ruling and Emigration Controller to be remanded
-
-*2024-09-25 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201534) · `si`
-
-Supreme Court remands Immigration & Emigration Controller over e-visa process allegations. Court found Controller violated interim injunction orders. Case involves accusations of defilement of court decisions regarding electronic visa issuing process.
-
-🟩
-
-Immigration and Emigration Controller H. The Supreme Court has been remanded.
-
-The electronic viscue issuing process had been accused of defilement of the interim injunction orders issued against the decision of the decision.
-
-The court ordered to be remanded after reading the charges against the Controller of Immigration and Emigration.
-
-◼️
-
-[Data](articles/337f7563.json)
-
-[Extended Data](ext_articles/337f7563.ext.json)
-
----
-
-### ASPI gains for third straight day
-
-*2024-09-25 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102263/aspi-gains-for-third-straight-day) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has increased by 325.59 points to close at 11,659.71 today (25).
-
-◼️
-
-[Data](articles/5b1a822f.json)
-
-[Extended Data](ext_articles/5b1a822f.ext.json)
-
----
-
-### Attracted 'Puta Wecha Ravikaikkari
-
-*2024-09-25 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/194770) · `ta`
-
-"Puta Vecha Ravikaikkari" and "Sir" songs to star Vimal. Directed by Vijayamaran, produced by SS Pictures. Music by Inion J. Sidhu Kumar. Lyrics by Antagudi Ilayaraja and Ilangavi Arun.
-
-🟩
-
-The song 'Puta Vecha Ravikaikari ..' and the song 'Sir' will soon be released starring actor Vimal.. Having attracted great welcome and attention.
-
-Vimal, Saya Kannan, Saravanan, Vijay Murugan, Rama, S. Siraj, 'Aadukalam' Jayapalan and many others have played. Inion J. Sidhu Kumar has composed the film, which has been recorded by Harris.
-
-The film was co -produced by producer S Siraj and Nilofer Siraj on behalf of SS Pictures Company. The film is provided by director Vijayamaran's Cross Root Film Company.
-
-The music release of the film was recently held. In this case, the song 'Sokkat Thangam Yaru ..'
-
-The song 'Puta Vecha Ravikaikari ..' is the place in Pallavi of this song, the line has attracted the attention of fans. The song was written by village singer Antagudi Ilayaraja and songwriter Ilangavi Arun, the village singer Anthakudi Ilayaraja and the playback singer Lakshmi.. The song has been welcomed by lyrics and village dances on the internet.
-
-◼️
-
-[Data](articles/b621e326.json)
-
-[Extended Data](ext_articles/b621e326.ext.json)
-
----
-
-### Sri Lanka sells Rs120bn in Treasuries, yields flat
-
-*2024-09-25 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs120bn-in-treasuries-yields-flat-180955/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 120 billion rupees of Treasury bills, with most of the money coming from 3 and 6 month bills, data from the state debt office show.
-
-71.3 billion rupees of 3-month bills were sold, after offering 70 billion, at 10.49 percent, unchanged from a week earlier.
-
-47 billion rupees of 6-month bills were sold after offering 40 billion, at 10.72 percent, down from 10.76 percent.
-
-Only 463 million rupees of 12-month bills were sold at 10.05 percent, down from 10.05 percent a week earlier. (Colombo/Aug25/2024)
-
-◼️
-
-[Data](articles/d08a900f.json)
-
-[Extended Data](ext_articles/d08a900f.ext.json)
-
----
-
-### Appoints new governors
-
-*2024-09-25 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201533) · `si`
-
-New governors sworn in: Central Province - former VC; Northern Province - Nagalingam Pamunager; Southern Province - Bandula Harischandra. Nine total appointments made today.
-
-🟩
-
-The new governors have been sworn in before President Anura Kumara Dissanayake today (25).
-
-Former Vice Chancellor of the University of Peradeniya has been appointed as the new Governor of the Central Province.
-
-Nagalingam Pamunager was sworn in as the new Governor of the Northern Province.
-
-Senior Administrative Officer Bandula Harischandra has been sworn in as the new Governor of the Southern Province.
-
-The Governor of Sabaragamuwa Province stated that nine new governors were sworn in in the future today.
-
-◼️
-
-[Data](articles/22f85c69.json)
-
-[Extended Data](ext_articles/22f85c69.ext.json)
 
 ---

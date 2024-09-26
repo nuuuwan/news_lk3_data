@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 17:39:18**
+As of **2024-09-26 17:59:22**
 
 ## Newspaper Stats
 
-*Scraped **46,420** Articles*
+*Scraped **46,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,99 @@ dailyftlk | 3,091
 adalk | 4,284
 dailymirrorlk | 4,733
 adaderanalk | 5,460
-tamilmirrorlk | 6,221
-virakesarilk | 7,418
+tamilmirrorlk | 6,222
+virakesarilk | 7,420
 adaderanasinhalalk | 8,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,420 (100.0%) of 46,420 articles have been extended.
+46,423 (100.0%) of 46,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Preview release of 'Black' starring Jeeva
+
+*2024-09-26 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194848) · `ta`
+
+"Black" movie preview: Jeeva stars in horror thriller. Directed by Balasubramani, produced by S. R. Prabhu. Arya congratulates crew. Priya Bhavani Shankar co-stars. Film released unexpectedly, sparking interest. Jeeva's recent market value impacted his film choices.
+
+🟩
+
+The preview of the film 'Black', starring actor Jeeva, is the hero of the Tamil film industry.
+
+Actor Arya posted this on his web page and congratulated the film crew.
+
+Director K. G. Jeeva, Priya Bhavani Shankar, Vivek Prasanna, Shah Rao, Swayam Siddha, Yok JP and many others have starred in the film 'Black' directed by Balasubramani.
+
+Sam C.S.. Has composed.
+
+Producer S is the producer of the film, which is ready in Horror Thriller Janer. R. Prakash Babu, S. R. Prabhu, B. Gopinath, R. Gold Prabhakaran has co -produced.
+
+The film's preview has been released suddenly as no announcement of the shooting of the film has been officially released.
+
+Actress Priya Bhavani Shankar has played a similar role in the film, who has attracted fans with a unique performance in 'Demandi Colony 2'.
+
+Thus, the film has received the attention of the website, especially the thriller Janer.
+
+...
+
+[Data](articles/ed5150d5.json)
+
+[Extended Data](ext_articles/ed5150d5.ext.json)
+
+---
+
+### British citizen arrested
+
+*2024-09-26 17:21:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷ்-ஷூடன்-பிரித்தானிய-பிரஜை-கைது/175-344536) · `ta`
+
+British citizen arrested at Katunayake airport with 43kg cannabis worth Rs 43 crore. Arrived from Bangkok, caught while trying to exit through Green Channel. Handed over to drug investigation unit.
+
+🟩
+
+According to the local value, a 21 -year -old British citizen was arrested by the Katunayake airport on Thursday morning at Katunayake airport with a Kush drug worth Rs 43 crore 64 lakhs 80 thousand rupees.
+
+The suspect arrived at the Katunayake airport from Bangkok, Thailand at 9.35 am on Thursday (26).
+
+Subsequently, the suspect was re -tasked when he tried to leave the airport via Green Channel after completing all the airport.
+
+At this time, the suspect was seized from the travel packages brought by the suspect, 43 kg 648 grams of kush.
+
+Subsequently, the arrested suspect has been handed over to the Katunayake airport police drug detention unit for further investigations.
+
+◼️
+
+[Data](articles/6028654a.json)
+
+[Extended Data](ext_articles/6028654a.ext.json)
+
+---
+
+### Zarp is engaged in humanitarian mines
+
+*2024-09-26 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/194847) · `ta`
+
+Zarp NGO removes 140,170 square meters of hazardous ammunition from Kilinochchi and Mullaitivu districts in northern Sri Lanka between 2016 and 2024.
+
+🟩
+
+Sarf's action manager of the company, Captain Prabhat Narambanawa, has said that thirty -one hundred and forty -one thousand seventy -one -seven -square -quarters of the Kilinochchi and Mullaitivu districts have been removed from seventy -seven thousand ninety thousand hazardous ammunition.
+
+Zarp, a humanitarian mines and a non -governmental organization in the North of Sri Lanka, from November 2016 to 24 September 2024, from the Mullaitivu Divisional Secretariat, Ambakamam, Ambakamam, Ambakamam, Ambakamadam, Ambakamam, Ambakamam.In the area under the Divisional Secretariat, in the Mukhmalai, Elephant and the Elephant Divisional Secretariat in the Kilinochchi District That said Narambanaawa.
+
+It is noteworthy that the company continues to carry out the work of Pudukkudiyiruppu, Ambakamam Imangulam, Kokavil, Tattuvankotti and Elephant.
+
+◼️
+
+[Data](articles/5dba3755.json)
+
+[Extended Data](ext_articles/5dba3755.ext.json)
+
+---
 
 ### Change in the price of eggs
 
@@ -2383,65 +2463,5 @@ The agreement was signed on 24 September by Port City Colombo General Manager of
 [Data](articles/79d65de5.json)
 
 [Extended Data](ext_articles/79d65de5.ext.json)
-
----
-
-### Sri Lanka Shippers’ Council congratulates new President AKD and Secretary
-
-*2024-09-26 01:45:33* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Shippers-Council-congratulates-new-President-AKD-and-Secretary/34-767167) · `en`
-
-The Sri Lanka Shippers’ Council (SLSC) said yesterday it extends its warmest congratulations to the newly appointed President of the Democratic Socialist Republic of Sri Lanka Anura Kumara Dissanayake, and the Secretary to the President, Dr. Nandika Sanath Kumanayake.
-
-“Their appointment reflects the Sri Lankan people’s desire for change, not only in leadership but in the direction of the nation’s future,” SLSC said in a statement.
-
-The SLSC said it is optimistic about the new leadership, particularly the President’s commitment to creating an inclusive society, promoting transparency, reducing corruption, and driving sustainable economic development. The council hopes the new administration will address pressing concerns in the trade sector, including the full digitalisation of customs, streamlining import/export procedures, and eliminating corruption from the industry.
-
-...
-
-[Data](articles/2cd68ff6.json)
-
-[Extended Data](ext_articles/2cd68ff6.ext.json)
-
----
-
-### Women’s Chamber of Industry and Commerce congratulates President AKD
-
-*2024-09-26 01:45:03* · [`dailyftlk`](https://www.ft.lk/business/Women-s-Chamber-of-Industry-and-Commerce-congratulates-President-AKD/34-767166) · `en`
-
-The Women’s Chamber of Industry and Commerce (WCIC) has extended its congratulations to President Anura Kumara Dissanayake on being elected as the 9th Executive President of Sri Lanka.
-
-“We wish him good luck and wisdom to lead our beloved nation to a new era of economic prosperity and harmony amongst all citizens of Sri Lanka. We look forward to supporting your endeavours to build an ethical and fair business environment which will also support us to help women increase their economic contribution to our country,” WCIC said.
-
-“We also take this opportunity to express our gratitude to the outgoing President Ranil Wickremesinghe for his successful leadership to bring the country out of bankruptcy within a very short period of two years and wish him all the best in his future endeavours,” WCIC added.
-
-◼️
-
-[Data](articles/993c47ab.json)
-
-[Extended Data](ext_articles/993c47ab.ext.json)
-
----
-
-### Mahinda Rajapaksa expresses confidence in President Anura Kumara Dissanayake’s leadership
-
-*2024-09-26 01:43:58* · [`dailyftlk`](https://www.ft.lk/news/Mahinda-Rajapaksa-expresses-confidence-in-President-Anura-Kumara-Dissanayake-s-leadership/56-767165) · `en`
-
-Says SLPP has not decided yet on supporting AKD in upcoming General Election
-
-Affirms SLPP respects the outcome of the 2024 Presidential election
-
-Dismisses possibility of an alliance between SLPP and UNP as party opposed idea strongly
-
-Former President Mahinda Rajapaksa on Tuesday expressed optimism about the leadership capabilities of newly elected President Anura Kumara Dissanayake, stating that he believes the new leader is capable of running the country effectively.
-
-“I think the chap has the ability to run the country successfully,” he said responding to a question raised by journalists about Dissanayake’s potential to lead the country.
-
-When asked about whether the Sri Lanka Podujana Peramuna (SLPP) would support President Dissanayake in the forthcoming election, Rajapaksa clarified that no such discussions have taken place within the party as of yet.
-
-...
-
-[Data](articles/b76c661d.json)
-
-[Extended Data](ext_articles/b76c661d.ext.json)
 
 ---

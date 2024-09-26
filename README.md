@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 12:57:15**
+As of **2024-09-26 13:07:50**
 
 ## Newspaper Stats
 
-*Scraped **46,373** Articles*
+*Scraped **46,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ economynextcom | 2,810
 dailyftlk | 3,091
 adalk | 4,278
 dailymirrorlk | 4,733
-adaderanalk | 5,454
+adaderanalk | 5,455
 tamilmirrorlk | 6,210
 virakesarilk | 7,405
-adaderanasinhalalk | 8,008
+adaderanasinhalalk | 8,009
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,372 (100.0%) of 46,373 articles have been extended.
+46,373 (100.0%) of 46,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### දිලිත් සමග එක්වූ දිලුම්ට ජාතික සංවිධායක ධුරය
+
+*2024-09-26 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201561) · `si`
+
+මව්බිම ජනතා පක්ෂයේ ජාතික සංවිධායක ලෙස හිටපු රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම මහතා පත්කර තිබේ.
+
+◼️
+
+[Data](articles/2c031403.json)
+
+---
+
+### Dilum Amunugama appointed National Organiser of MJP
+
+*2024-09-26 12:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102277/dilum-amunugama-appointed-national-organiser-of-mjp) · `en`
+
+Former State Minister Dilum Amunugama has been officially appointed as the national organiser of the Mawbima Janatha Party (MJP).
+
+◼️
+
+[Data](articles/d5fa4838.json)
+
+---
 
 ### 2024 General Election: Postal voting applications open from Sep 30 – Oct 7
 
@@ -2222,21 +2246,29 @@ With the facts we do not decrease. About five thousand persons need to need moth
 
 ---
 
-### වසරකට ලංකාවෙන් පියයුරු පිළිකා රෝගීන් 5500ක්
+### 5500 breast cancer patients from Sri Lanka per year
 
 *2024-09-25 19:12:28* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-ලංකාවෙන්-පියයුරු-පිළිකා-රෝගීන්-5500ක්/11-412157) · `si`
 
-මෙරට තුළ වසරකට පියයුරු පිළිකා රෝගීන් 5,500ක් පමණ හඳුනා ගන්නා අතර, ඉන් 125ක් පමණ පිරිමින් වන බව ජාතික පිළිකා මර්දන වැඩසටහන සඳහන් කරයි.
+Sri Lanka sees 5500 breast cancer patients annually, including 125 men. Dr. Hashari Fernando notes higher mortality rates compared to other countries. Risk factors include age over 50, family history, obesity, alcohol/drug use, and infertility. Self-examinations monthly for women over 20 are recommended. Breast clinics operate in 26 government hospitals. Awareness campaign runs Oct 1-31, focusing on male involvement in breast cancer awareness.
 
-එහි ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය හසරුලි ප්‍රනාන්දු මහත්මිය පෙන්වා දුන්නේ, මෙරට තුළ පියයුරු පිළිකා හේතුවෙන් සිදුවන මරණ සංඛ්‍යාව වෙනත් රටවලට සාපේක්ෂව ඉහළ අගයක් ගන්නා බවත්, එසේම රෝගය ශීඝ්‍රයෙන් වර්ධනය වීම  පිරිමින් මරණයට පත්වීමට හේතු වී ඇති බවත්ය.
+🟩
 
-මෙහිදී වයස අවුරුදු 50ට වැඩි පුද්ගලයන්ට රෝගය වැලඳීමේ අවදානම ඉහළ බවත්, පවුලේ ඉතිහාසය, තරබාරුව, මත්පැන් හා මත්ද්‍රව්‍ය භාවිතය, දරු ඵල නොමැති වීම යනාදී කරුණු ඊට හේතු වන බවද ඇය සඳහන් කර සිටියාය.
+About 5,500 breast cancer patients identify a year in the country, including about 125 of them will be men.
 
-පියයුරු පිළිකා පිළිබඳ දැනුම්වත් කිරීමේ මාසය ඔක්තෝබර් 01වැනිදා සිට 31 දක්වා යෙදී ඇති අතර, මෙවර එහි තේමාව වන්නේ ‘කිසිවෙක් පියයුරු පිළිකාවට තනිව මුහුණ දිය යුතු නැත’ යන්නයි.
+Community Health Specialist Dr. Hashari Fernando pointed out that the death toll due to breast cancer in Sri Lanka is highly increased to other countries, and the rapid increase in the disease has caused men to die.
 
-...
+She also stated that people over the risk of individuals over the age of 50 are high, that is the cause of the risk of the disease, family history, obesity, alcohol and drug abuse, childlessness.
+
+The notice of breast cancer is from October 1 to 31, and its theme is to 'no man should face alone on breast cancer.'
+
+Those over 20 years old, self-breast test should be carried out every month. In addition, breast clinics will be held in 26 government hospitals and breast tests are also available on the health clinic and hospitals in the hospital.
+
+◼️
 
 [Data](articles/87167964.json)
+
+[Extended Data](ext_articles/87167964.ext.json)
 
 ---
 
@@ -2267,53 +2299,5 @@ Also, before the newly appointed president was presented to Parliament before th
 [Data](articles/a3ca225e.json)
 
 [Extended Data](ext_articles/a3ca225e.ext.json)
-
----
-
-### Two bribery police officers arrested
-
-*2024-09-25 19:00:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்ச-வாங்கிய-பொலிஸ்-அதிகாரிகள்-இருவர்-கைது/175-344458) · `ta`
-
-Batticaloa police arrest bribery case: Two officers detained for accepting bribe from sand truck driver. Special investigators from Colombo involved in the operation.
-
-🟩
-
-The Batticaloa Headquarters Police said that the police sergeant and the police officer who had bribed the mud -loaded lorry driver and the police officer were arrested at the Batticaloa Police Division on Thursday (25) by the Commission to investigate bribery or corruption.
-
-The arrested were the police sergeant and the police officer who had been linked to the special police unit who had stopped the tipper vehicle loaded with sand in the Kokkadichcholai police division.
-
-Special officials of the Commission to investigate bribery or corruption from Colombo were arrested by the two men.
-
-◼️
-
-[Data](articles/86e91a48.json)
-
-[Extended Data](ext_articles/86e91a48.ext.json)
-
----
-
-### Supports abolition of the Executive President
-
-*2024-09-25 18:59:25* · [`adalk`](https://www.ada.lk/breaking_news/විධායක-ජනපතිධුරය-අහෝසි-කරන්න-සහාය-දෙනවා/11-412155) · `si`
-
-Here's a 200-character summary:
-
-
-
-Namal Rajapaksa supports abolishing the executive presidency. He claims it's the right time for national unity. He cites past presidents abolishing it since 1994.
-
-🟩
-
-Namal Rajapaksa said the National Organizer of the Sri Lanka Appointment was the right time for the national folk force to say the executive presidency is the right time of the time.
-
-He said he would give his party and his party.
-
-He said that if all presidents abolished the executive presidency since 1994, he said.
-
-◼️
-
-[Data](articles/f1e22eed.json)
-
-[Extended Data](ext_articles/f1e22eed.ext.json)
 
 ---

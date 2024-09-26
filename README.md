@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 17:59:22**
+As of **2024-09-26 18:19:33**
 
 ## Newspaper Stats
 
-*Scraped **46,423** Articles*
+*Scraped **46,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 2,810
 dailyftlk | 3,091
 adalk | 4,284
 dailymirrorlk | 4,733
-adaderanalk | 5,460
+adaderanalk | 5,461
 tamilmirrorlk | 6,222
 virakesarilk | 7,420
-adaderanasinhalalk | 8,018
+adaderanasinhalalk | 8,019
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,423 (100.0%) of 46,423 articles have been extended.
+46,425 (100.0%) of 46,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### President directs to increase fertilizer subsidy for paddy farmers
+
+*2024-09-26 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102283/president-directs-to-increase-fertilizer-subsidy-for-paddy-farmers) · `en`
+
+President Anura Kumara Dissanayake has directed the Treasury to increase the fertilizer subsidy provided for paddy farmers from Rs. 15,000 to Rs. 25,000 per hectare for the 2024/25 Maha season.
+
+Accordingly, the fertilizer subsidy to be increased with effect from October 01, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/10ca03b2.json)
+
+[Extended Data](ext_articles/10ca03b2.ext.json)
+
+---
+
+### Fertilizer subsidy upward
+
+*2024-09-26 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201573) · `si`
+
+President increases fertilizer subsidy for paddy farmers from Rs. 15,000 to Rs. 25,000 per hectare for Maha season 2024/25.
+
+🟩
+
+The President has taken steps to increase the fertilizer subsidy given to paddy farmers in the Maha season from 2024/25.
+
+Accordingly, the subsidy given to a hectares from Rs. 15,000 to Rs. 15,000. President Anura Kumara Dissanayake has instructed the Treasury to increase to 25,000.
+
+◼️
+
+[Data](articles/ce01da74.json)
+
+[Extended Data](ext_articles/ce01da74.ext.json)
+
+---
 
 ### Preview release of 'Black' starring Jeeva
 
@@ -140,11 +176,13 @@ The association's secretary Anurasiri Marasinghe said that the increase in produ
 
 The Airport Police have arrested an airport employee who had allegedly opened the luggage of passengers arriving at Bandaranaike International Airport (BIA) in Katunayake and stole items from them.
 
-The suspect, an employee of SriLankan Airlines who works in the baggage storage terminal, had secretly entered the unit where the passenger luggage of a flight that arrived at Katunayake Airport from Malaysia on September 23, opened passengers’ luggage, and stole items. The incident was recorded on CCTV cameras.
+The suspect, an employee in the baggage handling section, had reportedly secretly entered the storage area where the passenger luggage of a flight that arrived at the airport from Malaysia on September 23.
 
-The arrest was made after officers from SriLankan Airlines’ investigative officers  observed the camera footage and reported the suspect to the Katunayake Airport Police.
+CCTV cameras had reportedly captured him opening luggage belonging to passengers and stealing items from inside of them.
 
-SriLankan Airlines and Katunayake Airport had received complaints about missing items from passengers’ luggage for some time, and due to their vigilance, the employee was apprehended.
+The arrest was made after investigative officers from the airport had observed the camera footage and reported the suspect to the Katunayake Airport Police.
+
+The Katunayake Airport had received complaints about missing items from passengers’ luggage for some time, and due to their vigilance, the employee was apprehended.
 
 ◼️
 
@@ -2429,39 +2467,5 @@ The President and the members of Sri Lanka Chamber of Small and Medium Industrie
 [Data](articles/49070127.json)
 
 [Extended Data](ext_articles/49070127.ext.json)
-
----
-
-### Association of Honorary Consuls in Sri Lanka congratulates new President AKD
-
-*2024-09-26 01:47:27* · [`dailyftlk`](https://www.ft.lk/business/Association-of-Honorary-Consuls-in-Sri-Lanka-congratulates-new-President-AKD/34-767169) · `en`
-
-The Association of Honorary Consuls in Sri Lanka has extended its warmest congratulations to Anura Kumara Dissanayake on his election as the President of the Democratic Socialist Republic of Sri Lanka.
-
-“Your leadership comes at a pivotal time for our nation, and we are confident that under your guidance, Sri Lanka will continue to advance towards greater prosperity, unity, and global engagement. As honorary consuls, we remain committed to supporting the Government’s efforts to strengthen international relations and promote peace and development within our country and countries we represent,” said Association of Honorary Consuls in Sri Lanka President Maahen Kariyawasan in the congratulatory letter.
-
-...
-
-[Data](articles/767b5c12.json)
-
-[Extended Data](ext_articles/767b5c12.ext.json)
-
----
-
-### RIUNIT signs exclusivity agreement with Port City for prime mixed-use plot
-
-*2024-09-26 01:47:03* · [`dailyftlk`](https://www.ft.lk/business/RIUNIT-signs-exclusivity-agreement-with-Port-City-for-prime-mixed-use-plot/34-767168) · `en`
-
-RIUNIT CEO Roshan Madawela (left) with Port City Colombo General Manager of Investment Promotion and Marketing Zheng Tian
-
-Research Intelligence Unit (RIUNIT), a leading international research and consulting firm, yesterday announced the signing of an exclusivity agreement for a prime plot allocation within Port City Colombo. This marks a pivotal second step in RIUNIT’s ambitious real estate venture, “Asia’s Real Estate Opportunity of the Century.”
-
-The agreement was signed on 24 September by Port City Colombo General Manager of Investment Promotion and Marketing Zheng Tian reinforcing RIUNIT’s ongoing commitment to driving economic growth and innovation in the region. This milestone follows the successful launch event held on 16 July, where RIUNIT unveiled its comprehensive initiative designed to empower local developers and investors to engage with the transformative Port City project.
-
-...
-
-[Data](articles/79d65de5.json)
-
-[Extended Data](ext_articles/79d65de5.ext.json)
 
 ---

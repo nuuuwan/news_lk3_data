@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 12:38:30**
+As of **2024-09-26 12:57:15**
 
 ## Newspaper Stats
 
-*Scraped **46,365** Articles*
+*Scraped **46,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,276
+adalk | 4,278
 dailymirrorlk | 4,733
-adaderanalk | 5,452
-tamilmirrorlk | 6,206
+adaderanalk | 5,454
+tamilmirrorlk | 6,210
 virakesarilk | 7,405
 adaderanasinhalalk | 8,008
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 8,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,365 (100.0%) of 46,365 articles have been extended.
+46,372 (100.0%) of 46,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### 2024 General Election: Postal voting applications open from Sep 30 – Oct 7
+
+*2024-09-26 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102276/2024-general-election-postal-voting-applications-open-from-sep-30-oct-7) · `en`
+
+The Commissioner General of Elections, Saman Sri Ratnayake, has announced that postal voting applications for the upcoming parliamentary elections will be accepted from September 30 to October 7.
+
+Speaking at a media conference held in Colombo today (26), Ratnayake explained that the 2024 voter list will be used for this election, just as it was for the recent presidential election. As a result, those who submitted postal vote applications for the presidential election do not need to reapply for postal voting in this election.
+
+“In this election, as we are using the same voter list, there is no need for those who applied for postal voting in the last election to submit applications again. We have all your data on record,” Ratnayake assured.
+
+However, he clarified that individuals whose postal vote applications were rejected in the previous election must resolve the issue that caused the rejection and reapply for postal voting. Those applicants will need to submit a new application.
+
+...
+
+[Data](articles/8e1a7efa.json)
+
+[Extended Data](ext_articles/8e1a7efa.ext.json)
+
+---
+
+### Guidance package to avoid sharing
+
+*2024-09-26 12:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதையை-தவிர்க்க-வழிகாட்டுதல்-தொகுப்பு/175-344512) · `ta`
+
+Attorney General prepares guidelines to prevent sharing incidents in state universities. Petition filed over 2020 incident at Sri Jayawardenapura University. Chief Justice suggests sending guidelines to universities for amendments.
+
+🟩
+
+The Attorney General has informed the High Court that a guidelines have been prepared to avoid incidents of sharing in state universities.
+
+Jayantha Jayasuriya, Shiran Gunaratne and Priyantha Fernando were taken up for hearing a fundamental rights petition filed by the victim of the incident at Sri Jayawardenapura University in Sri Jayawardenapura in 2020, demanding the issuance of guidelines for eradication of incidents in state universities.
+
+Deputy Solicitor General Dr. Avanti Perera, who appeared on behalf of the Attorney General, said that a guidelines for preventing incidents at state universities have been prepared.
+
+In the meantime, the Chief Justice said that if the guidelines were sent to all universities, if any amendments were proposed, they should be obtained and prepared for the final draft.
+
+◼️
+
+[Data](articles/a0b6e71e.json)
+
+[Extended Data](ext_articles/a0b6e71e.ext.json)
+
+---
 
 ### Commission announced on accepting postal voting applications
 
@@ -55,6 +99,26 @@ But if you have rejected the last presidential election for the last presidentia
 [Data](articles/69f865d1.json)
 
 [Extended Data](ext_articles/69f865d1.ext.json)
+
+---
+
+### “Reduce the price of bakery goods”
+
+*2024-09-26 11:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கரி-பொருட்களின்-விலையை-குறைக்கவும்/175-344506) · `ta`
+
+All Ceylon Bakery Association urges bakers to lower prices. President K. Said Jayawardena suggests reducing costs, especially for egg-based products, to benefit consumers amid rising egg prices.
+
+🟩
+
+The All Ceylon Bakery Association has said that all bakery owners should take steps to reduce the price of bakery goods as possible.
+
+President of the All Ceylon Bakery Association to reduce the price of bakery products produced using eggs to provide consumers to consume the use of egg prices. K. Said Jayawardena.
+
+◼️
+
+[Data](articles/675206d4.json)
+
+[Extended Data](ext_articles/675206d4.ext.json)
 
 ---
 
@@ -83,6 +147,74 @@ The victims said that 20 minutes of hospitalization took place in hospital.
 [Data](articles/cab37a8e.json)
 
 [Extended Data](ext_articles/cab37a8e.ext.json)
+
+---
+
+### Jaishankar confident India’s ties with Sri Lanka, Bangladesh will endure
+
+*2024-09-26 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102275/jaishankar-confident-indias-ties-with-sri-lanka-bangladesh-will-endure) · `en`
+
+India does not seek to control every political move of neighbours, and does not expect that the political dynamics within neighbouring countries will adhere to what India may think is desirable, but Delhi is confident that fundamental realities of interdependence will ensure that relationships with neighbours remains constructive and positive, external affairs minister S Jaishankar has said.
+
+At a time when a regime change in Bangladesh through street protests and a government change in Sri Lanka through electoral route has generated questions about Dhaka and Colombo’s ties with Delhi, Jaishankar also made it clear that India remains focused on building economic regionalism in South Asia.
+
+During a conversation at Asia Society in New York, the minister was asked about India’s “non-reciprocal” approach to neighbours hasn’t yielded benefits with the rise of potentially governments, and about India’s role regarding the treatment of minorities in Bangladesh.
+
+...
+
+[Data](articles/719e75ef.json)
+
+[Extended Data](ext_articles/719e75ef.ext.json)
+
+---
+
+### “Bar List will be exposed soon”
+
+*2024-09-26 11:31:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பார்-பட்டியல்-விரைவில்-அம்பலமாகும்/175-344504) · `ta`
+
+"Bar List exposure imminent: Liquor permit recipients identified; investigations ongoing; vehicle misuse allegations; full details to be disclosed."
+
+🟩
+
+National People's Power Executive Committee member Wasantha Samarasinghe says that the list of people who have obtained liquor permits have been received.
+
+“There are those who sell liquor at Rs 300 lakh to Rs 400 lakh.
+
+We have their details. Investigations will be conducted on the use of the vehicles of the Presidential Secretariat.
+
+The details of all such parties will be revealed to the nation. ”
+
+◼️
+
+[Data](articles/d5006671.json)
+
+[Extended Data](ext_articles/d5006671.ext.json)
+
+---
+
+### Trump alert to Iran
+
+*2024-09-26 11:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானுக்கு-டிரம்ப்-எச்சரிக்கை/50-344501) · `ta`
+
+Trump warns Iran: "I'll defeat them" if US disrupted. Claims two assassination attempts linked to Iran. Threatens retaliation against Iran if any harm comes to him or former presidents. Criticizes security measures for visiting Iranian president.
+
+🟩
+
+"If the US disrupts the welfare of the United States, I will beat Iran," said Trump, a Republican candidate contesting the presidential election.
+
+Twice attempted to kill former presidential election to the US presidential election. Fortunately he survived. Intelligence agencies have warned that Iran is a threat to his life.
+
+Speaking at the election campaign in North Carolina, Trump said, “There was a twice attempt to kill me. Iran is likely to be involved.
+
+If I am president, you will be from my action to warn you. I warn that if I try to kill former presidents or presidential candidates, Iran will smashed.
+
+The US visit of Iran's President Masood Besseskian is strange. Once he was reported to have a threat, security is being provided in the United States. American soldiers are protecting him to intimidate the former president of the United States and the next president. ”
+
+◼️
+
+[Data](articles/0d3baa68.json)
+
+[Extended Data](ext_articles/0d3baa68.ext.json)
 
 ---
 
@@ -2066,6 +2198,48 @@ It is noteworthy that the special speech has been prepared from 7.30 pm on TV Te
 
 ---
 
+### The price of eggs reduced this way
+
+*2024-09-25 19:17:39* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-මිල-අඩුවු‍ණේ-මෙහෙමයි/11-412158) · `si`
+
+Egg prices reduced from Rs. 65-70 to Rs. 45 due to increased production and new entrepreneurs joining the industry.
+
+🟩
+
+The All Ceylon Egga Manufacturers Association has decided to provide an egg to Rs.
+
+He said this at a press conference convened at the Kuliyapitiya Ruwini Ruwini Ruwini today (25).
+
+"On a price of an egg, rose between Rs. 65 -70. But as a union, we worked hard to provide an egg to the customer to Rs 45. The price of eggs increases less than what we need. Today, the egg has been reduced to Rs.. We see that this price will be reduced in front.
+
+With the facts we do not decrease. About five thousand persons need to need mother animals in Sri Lanka. It was able to produce about 75 lakh eggs. But now the mother animals have brought about two thousand two thousand. Although the seven lakhs required for a month, about 12 lakhs were produced.
+
+...
+
+[Data](articles/411f677c.json)
+
+[Extended Data](ext_articles/411f677c.ext.json)
+
+---
+
+### වසරකට ලංකාවෙන් පියයුරු පිළිකා රෝගීන් 5500ක්
+
+*2024-09-25 19:12:28* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-ලංකාවෙන්-පියයුරු-පිළිකා-රෝගීන්-5500ක්/11-412157) · `si`
+
+මෙරට තුළ වසරකට පියයුරු පිළිකා රෝගීන් 5,500ක් පමණ හඳුනා ගන්නා අතර, ඉන් 125ක් පමණ පිරිමින් වන බව ජාතික පිළිකා මර්දන වැඩසටහන සඳහන් කරයි.
+
+එහි ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය හසරුලි ප්‍රනාන්දු මහත්මිය පෙන්වා දුන්නේ, මෙරට තුළ පියයුරු පිළිකා හේතුවෙන් සිදුවන මරණ සංඛ්‍යාව වෙනත් රටවලට සාපේක්ෂව ඉහළ අගයක් ගන්නා බවත්, එසේම රෝගය ශීඝ්‍රයෙන් වර්ධනය වීම  පිරිමින් මරණයට පත්වීමට හේතු වී ඇති බවත්ය.
+
+මෙහිදී වයස අවුරුදු 50ට වැඩි පුද්ගලයන්ට රෝගය වැලඳීමේ අවදානම ඉහළ බවත්, පවුලේ ඉතිහාසය, තරබාරුව, මත්පැන් හා මත්ද්‍රව්‍ය භාවිතය, දරු ඵල නොමැති වීම යනාදී කරුණු ඊට හේතු වන බවද ඇය සඳහන් කර සිටියාය.
+
+පියයුරු පිළිකා පිළිබඳ දැනුම්වත් කිරීමේ මාසය ඔක්තෝබර් 01වැනිදා සිට 31 දක්වා යෙදී ඇති අතර, මෙවර එහි තේමාව වන්නේ ‘කිසිවෙක් පියයුරු පිළිකාවට තනිව මුහුණ දිය යුතු නැත’ යන්නයි.
+
+...
+
+[Data](articles/87167964.json)
+
+---
+
 ### Parliament is being repaired - Parliamentary Secretary
 
 *2024-09-25 19:07:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අලුත්-වැඩියා-කරනවා---පාර්ලිමේන්තු-මහ-ලේකම්/11-412156) · `si`
@@ -2141,213 +2315,5 @@ He said that if all presidents abolished the executive presidency since 1994, he
 [Data](articles/f1e22eed.json)
 
 [Extended Data](ext_articles/f1e22eed.ext.json)
-
----
-
-### President addresses nation tonight
-
-*2024-09-25 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201540) · `si`
-
-President Anura Kumara Dissanayake addresses nation on economy and plans at 7:30 AM. Special televised statement broadcasted on major channels. First national address since appointment.
-
-🟩
-
-President Anura Kumara Dissanayake is scheduled to call the race at night (25).
-
-The President is due to address the nation at 7.30 am today, the Presidential Media Unit said.
-
-The President is due to comment on the economic situation of the country as well as plans.
-
-This is the first time the President is addressing the nation after he is appointed president.
-
-Meanwhile, the President has made special statement to the nation TV Derana, today's Ada Derana and FM Derana and today, Ada Derana and today has been broadcast from 7.30 pm.
-
-◼️
-
-[Data](articles/8d9b48e2.json)
-
-[Extended Data](ext_articles/8d9b48e2.ext.json)
-
----
-
-### Ready at 7.30
-
-*2024-09-25 18:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-30-மணிக்கு-ஆயத்தமாயிருங்கள்/175-344456) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake addresses nation at 7:30 pm today. Discusses government plans. Appointed Prime Minister Harini Amarasuriya with 3-member cabinet overseeing 15 sectors. Parliament dissolution calls for election on November 14, 2024.
-
-🟩
-
-President Anura Kumara Dissanayake will address the nation at 7.30 pm today, where he is expected to talk about government plans for the future.
-
-Dissanayake, who took office on Monday, won the recent presidential election with 5.6 million votes.
-
-The President yesterday appointed Prime Minister Harini Amarasuriya with a three -member cabinet, overseeing 15 different sectors.
-
-It is noteworthy that the President's Parliament and the dissolution of Parliament calls for a parliamentary election on November 14, 2024.
-
-◼️
-
-[Data](articles/27075cde.json)
-
-[Extended Data](ext_articles/27075cde.ext.json)
-
----
-
-### Chicken demand is largely reduced
-
-*2024-09-25 18:47:39* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-ඉල්ලුම-විශාල-ලෙස-අඩුවෙලා/11-412154) · `si`
-
-Here's a 200-character summary:
-
-
-
-Chicken demand drops sharply, prices may fall from Rs. 900 to Rs. 850 in two weeks. Egg prices rise to Rs. 50, could drop to Rs. 25. Demand expected to recover after Christmas and New Year holidays.
-
-🟩
-
-The All Ceylon Small Industries Association states that the demand for chicken has reduced a large number of chicken in the next two weeks, and the price of chicken can reduce its Rs.
-
-The retail price of a kilogram of chicken is now between Rs. 25,000 and Rs.
-
-The price could fall from Rs. 900 and Rs. 850 within the next two weeks.
-
-The number of chicken is now coming to the market at the end of the daily, he said the eggs at the end of the end.
-
-Thus chicken decreases in the coming days and the chicken prices can increase again in a certain amount, so the chicken prices can increase again.
-
-The daily egg demand is also a significant amount of egg prices, and the demand for the economic price has diminished and the demand of the egg prices were so small.
-
-The price of an egg has risen to Rs.
-
-Although the demand was fallen, but the price of an egg was Rs. 50 and Rs.
-
-The price of an egg could drop to Rs 25 per Rs.
-
-...
-
-[Data](articles/a360c814.json)
-
-[Extended Data](ext_articles/a360c814.ext.json)
-
----
-
-### "Continue peace of mind"
-
-*2024-09-25 18:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-அமைதியை-நிலைநாட்டுங்கள்/175-344455) · `ta`
-
-PAFREL urges public to maintain peace before and after general election. No special preparations needed, normal surveillance measures will continue. Election monitoring begins at district level during nomination filing. No election law violations reported before/after presidential election. PAFREL aims to ensure peaceful elections, similar to previous one. Government powers not to be misused to favor candidates.
-
-🟩
-
-The PAFREL today urged the public to maintain peace before and after the general election, as did the presidential election.
-
-Commenting on the media, Executive Director Rohana Hettiarachchi said that there is no need for special preparations for the upcoming general election, but that surveillance measures will continue as usual.
-
-“All arrangements have been made to monitor the general election. We clearly understood that the general election would be held no matter who elected president. However, during the filing of nominations, the district level election monitoring will begin, ”he said.
-
-“There have been no violations of election law before and after the presidential election, which is a favorable feature for the country,” he said.
-
-He added that Paffrel is aimed at maintaining peace before and after the general election, as did the presidential election.
-
-However, during the last presidential election, government powers and assets were largely abused and used to encourage candidates.
-
-...
-
-[Data](articles/9393232e.json)
-
-[Extended Data](ext_articles/9393232e.ext.json)
-
----
-
-### Sectional expenditure of 29 lakhs
-
-*2024-09-25 18:38:45* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ 2960ක-නිශ්කාර්ය-වියදමක්/11-412153) · `si`
-
-Housing scheme halted: 29 lakh rupees spent. Audit reveals 2960 lakh cost estimate. Project delayed due to contractor issues.
-
-🟩
-
-The Housing Scheme has been stopped for the construction of a 20-storey housing complex for the construction of a 20-storey housing complex for the construction of a 20-story resident of the Canal Reserve in the Canal Resettlement of the Araunodaya Mawatha, Rajagiriya, Rajagiriya.Is revealed.
-
-The audit report reveals that 2960 lakhs of cost. According to the audit report, the estimated cost of this project is Rs. 19238.5 million.
-
-The project has been launched on May 5, 2020, and the UDA had acted to end October 30, 2023. However, due to the delay in 10 contractors, 10 contractors were delayed by the Urban Development Authority (UDA).
-
-The audit has revealed that 2960 lakhs have been spent on the project.
-
-◼️
-
-[Data](articles/73886f07.json)
-
-[Extended Data](ext_articles/73886f07.ext.json)
-
----
-
-### Why did the rejected votes increase?
-
-*2024-09-25 18:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிராகரிக்கப்பட்ட-வாக்குகள்-அதிகரித்தது-ஏன்/175-344454) · `ta`
-
-Rejected votes increased from 0.85% to 2.2%. Analysis underway to determine causes.
-
-🟩
-
-The National Elections Commission said the analysis would be conducted on the increase in the number of votes rejected in the recent presidential election.
-
-The Chairman of the Election Commission, RMAL Ratnayake, said that 300,300 votes were rejected in the 2024 presidential election, which was 2.2%.
-
-In the 2019 presidential election, a total of 135,452 votes were rejected, which was less than 0.85% and 2024 presidential election.
-
-The Election Commission said it was expecting to detect the reasons for the rejection of the votes.
-
-◼️
-
-[Data](articles/df363ee6.json)
-
-[Extended Data](ext_articles/df363ee6.ext.json)
-
----
-
-### Special announcement from Foreign Ministry
-
-*2024-09-25 18:32:51* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-412152) · `si`
-
-Sri Lanka's Foreign Ministry announces measures to protect citizens in Israel amid escalating tensions. No Sri Lankans reported injured in recent attacks. Embassies in Behilout monitoring situation closely.
-
-🟩
-
-The Ministry of External Affairs says that the Sri Lankan embassies in Behilout and the immediate changing situation in Israel, the Ministry of External Affairs says to ensure the safety of Sri Lankans living in the attack areas.. The Ministry issued that no Sri Lankans have been harmed with these attacks so far.
-
-◼️
-
-[Data](articles/da8becd9.json)
-
-[Extended Data](ext_articles/da8becd9.ext.json)
-
----
-
-### 2024 General Election: Number of MPs elected from each district revealed
-
-*2024-09-25 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102266/2024-general-election-number-of-mps-elected-from-each-district-revealed) · `en`
-
-The Election Commission of Sri Lanka has issued a statement mentioning the number of Members of Parliament (MPs) to be elected from each electoral district and the number of candidates in a nomination paper in the 2024 General Election.
-
-The highest number of MPs will be elected from the Gampaha District with a total of 19 members to be elected.
-
-In a statement issued in relation to the 2024 parliamentary elections, the Election Commission has also announced information regarding the deposits required to be placed by independent groups and the number of candidates to be nominated by political parties or independent groups for each district.
-
-It also includes information about the number of members to be elected for the respective electoral district, the number of candidates to be nominated by a nomination paper and the security deposit to be deposited by an independent group.
-
-General Election 2024 - Election Commission Statement by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/49de9e1f.json)
-
-[Extended Data](ext_articles/49de9e1f.ext.json)
 
 ---

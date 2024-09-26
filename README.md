@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 14:57:40**
+As of **2024-09-26 15:09:49**
 
 ## Newspaper Stats
 
-*Scraped **46,382** Articles*
+*Scraped **46,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,279
+adalk | 4,280
 dailymirrorlk | 4,733
 adaderanalk | 5,455
-tamilmirrorlk | 6,213
+tamilmirrorlk | 6,214
 virakesarilk | 7,405
 adaderanasinhalalk | 8,012
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,012
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,382 (100.0%) of 46,382 articles have been extended.
+46,384 (100.0%) of 46,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### The new governor of the east took charge of the duties
+
+*2024-09-26 14:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கின்-புதிய-ஆளுனர்-கடமைகளை-பொறுப்பேற்றார்/175-344523) · `ta`
+
+New East Governor assumes duties in Trincomalee. Former Vice-Chancellor of University of Uva Wellesa, Kandalai Akrapodi Vidyalaya alumnus. Attended ceremony with officials and National People's Power representative.
+
+🟩
+
+As the Governor of the Eastern Province, Bay Jayantha Lal Ratnasekera officially assumed his duties at the Governor's Secretariat in Trincomalee today (26).
+
+He is the Vice -Chancellor of the University of Uva Wellesa from February to 20th November 2017 and is an alumnus of Kandalai Akrapodi Vidyalaya.
+
+Provincial Chief Secretary RMPS Ratnayake, Governor Secretary LP Madanayake, Provincial Ministries Secretaries, Provincial Department Heads, Executive Committee Member of the National People's Power Arun Hemachandra and many others were present.
+
+◼️
+
+[Data](articles/9826bbd6.json)
+
+[Extended Data](ext_articles/9826bbd6.ext.json)
+
+---
 
 ### Tilith joined Dilith
 
@@ -141,6 +163,26 @@ He also said that there will be no shortage of gas until December 31st.
 [Data](articles/05f41361.json)
 
 [Extended Data](ext_articles/05f41361.ext.json)
+
+---
+
+### Dilum Amunugama appointed national organizer
+
+*2024-09-26 13:24:21* · [`adalk`](https://www.ada.lk/breaking_news/දිලුම්-අමුණුගමට-ජාතික-සංවිධායක-ධුරයක්/11-412163) · `si`
+
+Dilum Amunugama joins Motherland People's Party, appointed National Organizer under Dilith Jayaweera's leadership.
+
+🟩
+
+Former State Minister Dilum Amunugama has joined the Motherland People's Party (People's Rep) Heads of Dilith Jayaweera).
+
+Accordingly, he has been appointed as the National Organizer of the Mawlanda People's Party.
+
+◼️
+
+[Data](articles/b526c64d.json)
+
+[Extended Data](ext_articles/b526c64d.ext.json)
 
 ---
 
@@ -2241,61 +2283,5 @@ It contains information on the number of MPs elected from each electoral distric
 [Data](articles/198f54ff.json)
 
 [Extended Data](ext_articles/198f54ff.ext.json)
-
----
-
-### Speech of the President
-
-*2024-09-25 19:41:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-விஷேட-உரை/175-344459) · `ta`
-
-Here's a summary of the speech in approximately 200 characters:
-
-
-
-President addresses nation post-Anura Kumara Dissanayake inauguration. Emphasizes unity, economic growth, and international relations. Calls for cooperation from all citizens to build a prosperous future.
-
-🟩
-
-This is the first opportunity to address the people of the country after Anura Kumara Dissanayake was sworn in as president. Remble
-
-◼️
-
-[Data](articles/9981c3e3.json)
-
-[Extended Data](ext_articles/9981c3e3.ext.json)
-
----
-
-### IMF. Discussions begin soon
-
-*2024-09-25 19:36:38* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-සාකච්ඡා-කඩිනමින්-අරඹනවා/11-412160) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's IMF talks begin. President Anura Kumara Dissanayake addresses nation, promising economic stability through collective efforts. Emphasizes reducing living burdens, improving education, and strengthening women's roles.
-
-🟩
-
-President Anura Kumara Dissanayake addressing the nation, "President Anura Kumara Dissanayake addressing the race that discussions with the International Monetary Fund is expected to be successful.
-
-He added that the recruitment of the country is a collective effort and the economy should be stabilized before the structural changes. The President said that there is a suitable team for that.
-
-The President said that the president General of the President would join the first presidential election not reported that the Presidential election violence was not reported.
-
-"You should collectively join the land. We do not have since we have fled to political economic reform.
-
-We have already been appointed as efficient and upright officials.
-
-We will return life to the concept that every one is equal to the law.
-
-Increase in the quality of life of the people needs a practical work order. We will take steps to reduce the heavy living burden on the people.
-
-...
-
-[Data](articles/33b20d1a.json)
-
-[Extended Data](ext_articles/33b20d1a.ext.json)
 
 ---

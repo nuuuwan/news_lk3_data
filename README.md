@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 23:38:41**
+As of **2024-09-26 23:58:19**
 
 ## Newspaper Stats
 
-*Scraped **46,464** Articles*
+*Scraped **46,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 386
 bbccomsinhala | 457
 colombotelegraphcom | 462
 islandlk | 2,717
-economynextcom | 2,810
+economynextcom | 2,824
 dailyftlk | 3,091
 adalk | 4,292
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,464 (100.0%) of 46,464 articles have been extended.
+46,474 (100.0%) of 46,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -166,6 +166,28 @@ In addition, former Kandy district parliamentarian Dilil, who joined the Sarvaja
 
 ---
 
+### Sri Lanka easy online tourist visa from midnight, VFS Global distress ends: Minister
+
+*2024-09-26 21:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-easy-online-tourist-visa-from-midnight-vfs-global-distress-ends-minister-181177/) · `en`
+
+ECONOMYNEXT  – Sri Lanka is restoring the easy online visa system for tourists from midnight and the distress suffered by foreign visitors as a result of giving ETA process to VFS Global has ended, Foreign Minister Viitha Herath said.
+
+Herath was appointed to the post on Wednesday. Sri Lanka’s Supreme Court ordered that the old easy visa system be restored several weeks ago, but the Department of Immigration under then Minister Tiran Alles ignored the order.
+
+“By giving the visa facility to VFS company, distress was caused to the people (pee-dar-wer-ter path-wuna), especially foreigners coming to Sri Lanka had difficulties in getting a visa easily,” Minister Herath said.
+
+“Our Ministry intervened. In the past 24 hours were able to set up old visa issuing system. From midnight tonight, the system of getting visas easily will be available again.
+
+“Now foreigners can get visas easily. This is a great victory. We have acted quickly on the court order.”
+
+...
+
+[Data](articles/624c2b17.json)
+
+[Extended Data](ext_articles/624c2b17.ext.json)
+
+---
+
 ### Distributed paddy vehicles
 
 *2024-09-26 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201580) · `si`
@@ -243,6 +265,28 @@ However, these development collaborations, however, renewed the contributions of
 [Data](articles/ef968025.json)
 
 [Extended Data](ext_articles/ef968025.ext.json)
+
+---
+
+### Sri Lanka begins forensic audit into VFS Global deal irregularities: Minister
+
+*2024-09-26 21:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-forensic-audit-into-vfs-global-deal-irregularities-minister-181174/) · `en`
+
+ECONOMYNEXT – Sri Lanka has initiated an immediate forensic audit into the irregularities associated with the VFS Global deal, Foreign Minister Vijitha Herath who is also Public Security Minister in charge of the Department of Immigration said.
+
+“Any discrepancies found will be subject to legal action in the future,” Minister Herath said.
+
+“As a result, those in business and investment sectors will now have access to the same visa facilities.”
+
+Earlier in the week Supreme Court ordered the arrest of the Controller General of Immigration I H Illukpitiya over for failing to restore the earlier Electronic Travel Authoritzation system which was acclaimed to be one of the easiest systems to get a visa in the world.
+
+The complex VFS Global system, which had high fees and a hidden which was not disclosed up front, also put off many older visitors who could cope with it.
+
+...
+
+[Data](articles/dab4e619.json)
+
+[Extended Data](ext_articles/dab4e619.ext.json)
 
 ---
 
@@ -1010,6 +1054,24 @@ In addition, the magistrate has ordered that the complainant also threatened the
 
 ---
 
+### Sri Lanka’s Brown and Company acquires Isin Lanka
+
+*2024-09-26 17:22:00* · [`economynextcom`](https://economynext.com/sri-lankas-brown-and-company-acquires-isin-lanka-181163/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s listed Brown and Company Plc said it had acquired Isin Lanka (Private) Limited for 1.4 billion rupees.
+
+“Brown and Company PLC has acquired 100% shareholding of Isin Lanka (Private) Limited from its former shareholders on 24th September 2024, for a total consideration of Rs. 1,495,000,000/-” the company said in a stock exchange filing.
+
+It will now facilitate the warehouse operations of the Browns Group and will improve Brown and Company and its subsidiaries’ operational efficiency by increasing their manufacturing and warehousing capacity, the company said.
+
+◼️
+
+[Data](articles/9bfeb355.json)
+
+[Extended Data](ext_articles/9bfeb355.ext.json)
+
+---
+
 ### Preview release of 'Black' starring Jeeva
 
 *2024-09-26 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194848) · `ta`
@@ -1090,6 +1152,30 @@ The association's secretary Anurasiri Marasinghe said that the increase in produ
 
 ---
 
+### Sri Lanka rupee closes stronger at 299.90/300.10 to US dollar, bond yields down
+
+*2024-09-26 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-299-90-300-10-to-us-dollar-bond-yields-down-181161/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated further to close at 299.90/300.10 to the US dollar Thursday, from 300.30/80 a day earlier, while bond yields were also down.
+
+A bond maturing on 15.12.2026 closed at 10.65/85 percent, down from 10.90/11.05 percent.
+
+A bond maturing on 15.02.2028 closed at 12.05/20 percent, down from 12.35/45 percent.
+
+A bond maturing on 15.06.2029 closed at 12.20/30 percent down from 12.45/55 percent.
+
+A bond maturing on 15.05.2030 closed at 12.45/55 percent, down from 12.60/70 percent.
+
+A bond maturing on 01.10.2032 closed stable at 12.70/85 percent.(Colombo/Sep26/2024)
+
+◼️
+
+[Data](articles/070dc310.json)
+
+[Extended Data](ext_articles/070dc310.ext.json)
+
+---
+
 ### Airport employee arrested for stealing items from passengers’ luggage at BIA
 
 *2024-09-26 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102282/airport-employee-arrested-for-stealing-items-from-passengers-luggage-at-bia) · `en`
@@ -1109,6 +1195,32 @@ The Katunayake Airport had received complaints about missing items from passenge
 [Data](articles/dd95c4d5.json)
 
 [Extended Data](ext_articles/dd95c4d5.ext.json)
+
+---
+
+### Sri Lanka stocks close up, positive momentum continues
+
+*2024-09-26 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-positive-momentum-continues-181156/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 0.10 percent, or 12.16 points, at 11,671; while the more liquid S&P SL20 Index closed up 0.50 percent, or 16.84 points, at 3,384.
+
+“There was some volatile sentiment in the market today,” Softlogic Stockbrokers said. “There was a 200 point gain at opening, then it dropped mid-day and closed back up.”
+
+“There was a bit of profit taking today, with selective interest in companies.”
+
+“High-net-worth and institutional investors who had opted to be in cash beginning to get into the market expecting the positive momentum to continue.”
+
+Most banking stocks were up; Hatton National Bank (up at 199.75), Sampath Bank (up at 78.00), DFCC Bank (up at 75.40) and National Development Bank (up at 75.80), except for Commercial Bank (down at 99.10).
+
+There was a net foreign inflow of 633 million rupees. (Colombo/Sep26/2024)
+
+◼️
+
+[Data](articles/72603008.json)
+
+[Extended Data](ext_articles/72603008.ext.json)
 
 ---
 
@@ -1364,6 +1476,28 @@ The Magistrate, considering the arguments of the two sides, ordered that the Col
 
 ---
 
+### Sri Lanka president to fast track foreign-aid energy project approvals
+
+*2024-09-26 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-fast-track-foreign-aid-energy-project-approvals-181154/) · `en`
+
+ECONOMNEXT – Sri Lanka President Anura Kumara Dissanayake has revealed plans to establish a panel to speed up the approval process of foreign-funded projects in the energy sector, President’s Media Division (PMD) said.
+
+Dissanayake’s announcement came when he met top officials at the Ministry of Power and Energy on Thursday (26).
+
+“The President also highlighted the importance of expediting projects financed by the Asian Development Bank and other foreign loans,” the PMD said in a statement.
+
+“He announced plans to establish a committee tasked with approving foreign-aid projects within three months, with the aim of accelerating their execution. Through this process, he noted, projects supported by foreign aid can be implemented more efficiently.”
+
+During the meeting he stressed the importance of maintaining fuel reserves to ensure uninterrupted fuel availability for the public and urged officials to efficiently plan for fuel procurement for the upcoming year.
+
+...
+
+[Data](articles/910bd718.json)
+
+[Extended Data](ext_articles/910bd718.ext.json)
+
+---
+
 ### Resigns with Litro gas company president
 
 *2024-09-26 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194849) · `ta`
@@ -1463,6 +1597,30 @@ He holds the Degree of Management of the University of Jayawardenapura, the Degr
 [Data](articles/5d676ad4.json)
 
 [Extended Data](ext_articles/5d676ad4.ext.json)
+
+---
+
+### Sri Lanka calls for workers to go to warring Israel
+
+*2024-09-26 15:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-calls-for-workers-to-go-to-warring-israel-181122/) · `en`
+
+ECONOMYNEXT – The Sri Lanka Bureau of Foreign Employment is calling for its citizens to register for construction jobs in Israel, even as the bellicose state continues bombing Lebanon and the occupied Palestine territory of Gaza.
+
+An announcement on the government department of information website posted on Thursday (26) called for skilled wire benders, tile masons, shuttering carpenters, plaster masons, aged between 25-44 years, with valid passports to apply immediately.
+
+The Foreign Employment Bureau has advertised jobs in several Israeli sectors, including hotel and agriculture, on its website.
+
+Israel is conducting attacks on the occupied Palestinian territories of Gaza and the West Bank, and Lebanon in its north. It has also bombed Syria.
+
+Foreign media say the threat of a full scale regional war is real.
+
+Sri Lanka’s Ministry of Foreign Affairs said earlier that its mission in Tel Aviv was on alert to ensure the safety of citizens there.
+
+...
+
+[Data](articles/1d3246be.json)
+
+[Extended Data](ext_articles/1d3246be.ext.json)
 
 ---
 
@@ -1806,6 +1964,26 @@ Another group, including Dayasiri Jayasekara and Thilanga Sumathipala, was organ
 
 ---
 
+### Closer China ties will help Sri Lanka safeguard its sovereignty, dignity: envoy
+
+*2024-09-26 14:38:00* · [`economynextcom`](https://economynext.com/closer-china-ties-will-help-sri-lanka-safeguard-its-sovereignty-dignity-envoy-181120/) · `en`
+
+ECONOMYNEXT – A closer cooperation between Sri Lanka and China will improve Sri Lanka’s capability in safeguarding its sovereignty, security, development and dignity, Beijing’s Ambassador to Colombo Qi Zhenhong said.
+
+His statement at an event celebrating the 75th anniversary of the founding of the People’s Republic of China comes amid increasing geopolitical cold war between Beijing and India in the island nation.
+
+China has been vying for key investments and infrastructure projects in Sri Lanka, while India also has been competing for large energy, port, and defence deals.
+
+“Facts have repeatedly shown that the closer and deeper the cooperation between China and Sri Lanka, the more capable Sri Lanka will be in safeguarding its sovereignty, security, development and dignity, and in playing a bigger role in regional and international affairs,” Zhenhong said at the reception held in Colombo on Wednesday (25).
+
+...
+
+[Data](articles/0aab2dfc.json)
+
+[Extended Data](ext_articles/0aab2dfc.ext.json)
+
+---
+
 ### The new governor of the east took charge of the duties
 
 *2024-09-26 14:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கின்-புதிய-ஆளுனர்-கடமைகளை-பொறுப்பேற்றார்/175-344523) · `ta`
@@ -1916,6 +2094,28 @@ Muditha Peiris has previously served as the Managing Director of Litro Gas.
 
 ---
 
+### Sri Lanka’s top energy expert Tilak Siyambalapitiya appointed as CEB chairman
+
+*2024-09-26 14:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-energy-expert-tilak-siyambalapitiya-appointed-as-ceb-chairman-181118/) · `en`
+
+ECONOMYNEXT – Tilak Siyambalapitiya, one of Sri Lanka’s top energy experts has been appointed as the chairman of state-owned Ceylon Electricity Board (CEB) with immediate effect under the government of newly elected President Anura Kumara Dissanayake, the state media reported.
+
+Siyambalapitiya carries 40 years of experience in the energy sector of Sri Lanka, in south and southeast Asia, the Middle East and east Africa, the state media said.
+
+Siyambalapitiya earned his PhD from the University of Cambridge and had worked in the CEB for a decade in the past and in Saudi Arabia, on power sector planning and policy.
+
+He is a Chartered Engineer, and a Past President of Sri Lanka Energy Managers Association. He has worked as an international energy consultant, in Asia and Africa.
+
+He worked in government committees to establish the pricing policy for renewable energy (2006), net metering (2008) and national energy policy (2019). (Colombo/September 26/2024)
+
+◼️
+
+[Data](articles/d8820e44.json)
+
+[Extended Data](ext_articles/d8820e44.ext.json)
+
+---
+
 ### Certificate received on Chinese friendship at Colombo
 
 *2024-09-26 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201564) · `si`
@@ -1939,6 +2139,28 @@ Chinese Ambassador in Sri Lanka, Shingenga added,
 [Data](articles/643bb039.json)
 
 [Extended Data](ext_articles/643bb039.ext.json)
+
+---
+
+### Sri Lanka’s CSE, CMA collaborate on reporting awards
+
+*2024-09-26 13:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-cse-cma-collaborate-on-reporting-awards-181114/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange (CSE) and the Institute of Certified Management Accountants of Sri Lanka (CMA) have signed an agreement to cooperate on the CMA-IR Awards, with a focus on promoting reporting practices among listed companies.
+
+The memorandum of understanding makes CSE the strategic partner of the CMA Excellence in Integrated Reporting Awards 2024 (CMA-IR Awards).
+
+The awards focus on promoting integrated reporting practices amongst listed entities and other key institutions in Sri Lanka, the CSE said in a statement.
+
+“We are pleased to support an initiative that encourages companies to adopt best practices in building a sustainable, ethical, and responsible corporate culture,” CSE CEO Rajeeva Bandaranaike said.
+
+“By providing a holistic view of long-term value creation, companies foster trust among investors, strengthening the resilience, attractiveness, and competitiveness of our capital markets in line with global sustainability trends.”
+
+...
+
+[Data](articles/43d2c2d9.json)
+
+[Extended Data](ext_articles/43d2c2d9.ext.json)
 
 ---
 
@@ -2080,6 +2302,22 @@ Second, the former director of the CIT said that the Liberation Tigers of Tamil 
 
 ---
 
+### Sri Lanka’s new president has essentially endorsed predecessor’s econ policies: ex MP
+
+*2024-09-26 12:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-president-has-essentially-endorsed-predecessors-econ-policies-ex-mp-181103/) · `en`
+
+ECONOMYNEXT — President Anura Kumara Dissanayake has essentially endorsed his predecessor President Ranil Wickremesinghe’s efforts to resolve Sri Lanka’s financial crisis, according to former State Minister of Finance Shehan Semasinghe.
+
+Speaking to reporters Wednesday September 25 evening following a meeting of MPs who backed Wickremesinghe for his reelection bid, Semasinghe said President Dissanayake has accepted that the Wickremesinghe administration’s reform programme was a successful one.
+
+“He didn’t do that before the election. Perhaps he has done a broader assessment of the economy since assuming duties. He has spoken about the importance of implementing the International Monetary Fund (IMF) programme and continuing the debt restructuring process. I think they realise now that the measures we took to resolve this crisis were correct,” he said.
+
+...
+
+[Data](articles/6486c48c.json)
+
+---
+
 ### Israel lands down to Lebanon
 
 *2024-09-26 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201562) · `si`
@@ -2195,273 +2433,5 @@ However, he clarified that individuals whose postal vote applications were rejec
 [Data](articles/8e1a7efa.json)
 
 [Extended Data](ext_articles/8e1a7efa.ext.json)
-
----
-
-### Party-century from Chandimal
-
-*2024-09-26 12:04:18* · [`adalk`](https://www.ada.lk/sports/චන්දිමාල්ගෙන්-අර්ධ-ශතකයක්/9-412162) · `si`
-
-Sri Lanka batted first in NZ vs SL 2nd Test at Galle. Dinesh Chandimal (52) and Dimuth Karunaratne (34) contributed. SL scored 88/3 in 27 overs.
-
-🟩
-
-The first day of the New Zealand team and the second Test match between the Sri Lanka team will be held at the Galle International Cricket Stadium.
-
-Sri Lanka won the toss and elected to bat first, accordingly, Sri Lanka won 88 runs in 27 overs.
-
-Dinesh Chandimal scored 52 runs and Dimuth Karunaratne, 34 runs in the wicket.
-
-◼️
-
-[Data](articles/47dc6d04.json)
-
-[Extended Data](ext_articles/47dc6d04.ext.json)
-
----
-
-### Guidance package to avoid sharing
-
-*2024-09-26 12:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதையை-தவிர்க்க-வழிகாட்டுதல்-தொகுப்பு/175-344512) · `ta`
-
-Attorney General prepares guidelines to prevent sharing incidents in state universities. Petition filed over 2020 incident at Sri Jayawardenapura University. Chief Justice suggests sending guidelines to universities for amendments.
-
-🟩
-
-The Attorney General has informed the High Court that a guidelines have been prepared to avoid incidents of sharing in state universities.
-
-Jayantha Jayasuriya, Shiran Gunaratne and Priyantha Fernando were taken up for hearing a fundamental rights petition filed by the victim of the incident at Sri Jayawardenapura University in Sri Jayawardenapura in 2020, demanding the issuance of guidelines for eradication of incidents in state universities.
-
-Deputy Solicitor General Dr. Avanti Perera, who appeared on behalf of the Attorney General, said that a guidelines for preventing incidents at state universities have been prepared.
-
-In the meantime, the Chief Justice said that if the guidelines were sent to all universities, if any amendments were proposed, they should be obtained and prepared for the final draft.
-
-◼️
-
-[Data](articles/a0b6e71e.json)
-
-[Extended Data](ext_articles/a0b6e71e.ext.json)
-
----
-
-### Commission announced on accepting postal voting applications
-
-*2024-09-26 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201560) · `si`
-
-Postal voting applications open Sept 30-Oct 30. President uses 2024 voter registers. No need for those who submitted last election. Reapply if rejected previously. Service category voters must apply. Election Commission informs eligible officers. 14,714,354 voters eligible. Benefits children appearing for A/L exam.
-
-🟩
-
-Elections Commissioner, DS General Saman Sri Ratnayake says that postal voting applications will be held on September 30 to October 30.
-
-He also said that all the postal voting applications of the president was using 2024 voter registers as 2024 were not necessary to submit postal voting applications for this election.
-
-He was speaking at a press conference held in Colombo this morning.
-
-"Under this election, there is no need to submit postal voting applications for all those who submitted postal voting applications in relation to the recent number of electoral registers.. We have all the information you have.
-
-But if you have rejected the last presidential election for the last presidential election, the postal voting application has been rejected because of a matter of fact and submit a postal voting application. That means the candidates of the postal voting applications have to be re-applied.
-
-...
-
-[Data](articles/69f865d1.json)
-
-[Extended Data](ext_articles/69f865d1.ext.json)
-
----
-
-### “Reduce the price of bakery goods”
-
-*2024-09-26 11:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கரி-பொருட்களின்-விலையை-குறைக்கவும்/175-344506) · `ta`
-
-All Ceylon Bakery Association urges bakers to lower prices. President K. Said Jayawardena suggests reducing costs, especially for egg-based products, to benefit consumers amid rising egg prices.
-
-🟩
-
-The All Ceylon Bakery Association has said that all bakery owners should take steps to reduce the price of bakery goods as possible.
-
-President of the All Ceylon Bakery Association to reduce the price of bakery products produced using eggs to provide consumers to consume the use of egg prices. K. Said Jayawardena.
-
-◼️
-
-[Data](articles/675206d4.json)
-
-[Extended Data](ext_articles/675206d4.ext.json)
-
----
-
-### The teacher of life to life on the last day of the school
-
-*2024-09-26 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201559) · `si`
-
-Teacher killed in car accident on way home from school event. Husband died instantly. Police investigating driver of luxury van. Victim was 28-year-old Bhahya Borakera and her husband Indika Sampath.
-
-🟩
-
-A teacher who was returning to a ceremony and her husband, a teacher who was returning to the house and her husband was killed in a car accident.
-
-The accident had occurred in Akuressa, Siyambalagoda, Petabeded road, Akuressa while a five-year-old teacher from Pitabeddapitiya school.
-
-The motorcycle they carry on a luxury van.
-
-The victims said that 20 minutes of hospitalization took place in hospital.
-
-"He has an accident on the way to take the transid. Deniyitiya School in Deniyaya region is employed for 5 years. Axidant called an hour ago and said that the transor was taken with the journey. Shortly after a while, I was talking about Axedant. "
-
-"The great noise heard. We ran and had. There was no bike here. The vehicle was completely subjected to. Then the villagers were together and pulled out the bike under the vehicle. Driver told to take the lespers. He's rounded around the car, but no need. About 20 minutes was late. A wheel of a park was talking to the Akuress. "
-
-...
-
-[Data](articles/cab37a8e.json)
-
-[Extended Data](ext_articles/cab37a8e.ext.json)
-
----
-
-### Jaishankar confident India’s ties with Sri Lanka, Bangladesh will endure
-
-*2024-09-26 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102275/jaishankar-confident-indias-ties-with-sri-lanka-bangladesh-will-endure) · `en`
-
-India does not seek to control every political move of neighbours, and does not expect that the political dynamics within neighbouring countries will adhere to what India may think is desirable, but Delhi is confident that fundamental realities of interdependence will ensure that relationships with neighbours remains constructive and positive, external affairs minister S Jaishankar has said.
-
-At a time when a regime change in Bangladesh through street protests and a government change in Sri Lanka through electoral route has generated questions about Dhaka and Colombo’s ties with Delhi, Jaishankar also made it clear that India remains focused on building economic regionalism in South Asia.
-
-During a conversation at Asia Society in New York, the minister was asked about India’s “non-reciprocal” approach to neighbours hasn’t yielded benefits with the rise of potentially governments, and about India’s role regarding the treatment of minorities in Bangladesh.
-
-...
-
-[Data](articles/719e75ef.json)
-
-[Extended Data](ext_articles/719e75ef.ext.json)
-
----
-
-### “Bar List will be exposed soon”
-
-*2024-09-26 11:31:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பார்-பட்டியல்-விரைவில்-அம்பலமாகும்/175-344504) · `ta`
-
-"Bar List exposure imminent: Liquor permit recipients identified; investigations ongoing; vehicle misuse allegations; full details to be disclosed."
-
-🟩
-
-National People's Power Executive Committee member Wasantha Samarasinghe says that the list of people who have obtained liquor permits have been received.
-
-“There are those who sell liquor at Rs 300 lakh to Rs 400 lakh.
-
-We have their details. Investigations will be conducted on the use of the vehicles of the Presidential Secretariat.
-
-The details of all such parties will be revealed to the nation. ”
-
-◼️
-
-[Data](articles/d5006671.json)
-
-[Extended Data](ext_articles/d5006671.ext.json)
-
----
-
-### Trump alert to Iran
-
-*2024-09-26 11:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானுக்கு-டிரம்ப்-எச்சரிக்கை/50-344501) · `ta`
-
-Trump warns Iran: "I'll defeat them" if US disrupted. Claims two assassination attempts linked to Iran. Threatens retaliation against Iran if any harm comes to him or former presidents. Criticizes security measures for visiting Iranian president.
-
-🟩
-
-"If the US disrupts the welfare of the United States, I will beat Iran," said Trump, a Republican candidate contesting the presidential election.
-
-Twice attempted to kill former presidential election to the US presidential election. Fortunately he survived. Intelligence agencies have warned that Iran is a threat to his life.
-
-Speaking at the election campaign in North Carolina, Trump said, “There was a twice attempt to kill me. Iran is likely to be involved.
-
-If I am president, you will be from my action to warn you. I warn that if I try to kill former presidents or presidential candidates, Iran will smashed.
-
-The US visit of Iran's President Masood Besseskian is strange. Once he was reported to have a threat, security is being provided in the United States. American soldiers are protecting him to intimidate the former president of the United States and the next president. ”
-
-◼️
-
-[Data](articles/0d3baa68.json)
-
-[Extended Data](ext_articles/0d3baa68.ext.json)
-
----
-
-### In charge of the Eastern Governor's duty
-
-*2024-09-26 11:12:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கு-ஆளுநர்-கடமை-பொறுப்பேற்பு/175-344499) · `ta`
-
-Jayantha Lal Ratnasekara assumes Eastern Governor role, appointed by President Anura Kumara Dissanayake. Former Vice-Chancellor of Uva University, attended Kandalai Akrapodi Vidyalaya. Key officials present at Trincomalee Secretariat ceremony.
-
-🟩
-
-As the Governor of the Eastern Province, Jayantha Lal Ratnasekara officially assumed his duties at the Governor's Secretariat in Trincomalee on Thursday (26).
-
-President Anura Kumara Dissanayake has appointed Professor Governor. He is the Vice -Chancellor of the University of Uvavelsa from February to 20th November 2017 and is an alumnus of Kandalai Akrapodi Vidyalaya.
-
-Provincial Chief Secretary RMPS Ratnayake, Governor Secretary LP Madanayake, Provincial Ministries Secretaries, Provincial Department Heads, Executive Committee Member of the National People's Power Arun Hemachandra and many others were present.
-
-◼️
-
-[Data](articles/62a501d9.json)
-
-[Extended Data](ext_articles/62a501d9.ext.json)
-
----
-
-### AG submits guidelines to SC for eradicating ragging in universities
-
-*2024-09-26 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102274/ag-submits-guidelines-to-sc-for-eradicating-ragging-in-universities) · `en`
-
-The Attorney General has informed the Supreme Court that a series of guidelines have been prepared to eliminate incidents of ragging in state universities.
-
-A fundamental rights petition filed by a student affected by a ragging incident at the University of Sri Jayewardenepura in 2020 was taken up before a three-member Supreme Court bench consisting of Chief Justice Jayantha Jayasuriya, and Justices Shiran Gunaratne and Priyantha Fernando.
-
-The petition requested an order to prepare guidelines for eradicating ragging in state universities.
-
-Appearing on behalf of the Attorney General, Senior State Counsel Avanthi Perera stated before the court that a series of guidelines has been prepared to prevent ragging in state universities.
-
-The Chief Justice mentioned that the guidelines should be forwarded to all universities, and any proposed amendments should be incorporated into the final draft.
-
-The Chief Justice also ordered that steps be taken to prepare and file the final draft before the court.
-
-...
-
-[Data](articles/2977f1c2.json)
-
-[Extended Data](ext_articles/2977f1c2.ext.json)
-
----
-
-### Basmati price change?
-
-*2024-09-26 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201558) · `si`
-
-India suspends rice imports but maintains Basmati exports. Basmati price capped at $950 per metric ton. Exports rose 20% in Q1 2023. Production may increase 10-12%. Major markets: India, Canada, Iraq, Oman, Saudi Arabia.
-
-🟩
-
-India, the largest rice exporter in the world, has been suspended for the purpose of reducing rice prices in the local market.
-
-But they did not implement the ban on Basmati and export, which is considered a higher quality rice.
-
-However, Basmati had a minimum export price limit for a metric ton of $ 950.
-
-In the first four months of this year, the export of Basmathi rice exports increased by 20% to 1.9 million metric tons.
-
-According to the export of Basmathi rice, India will continue.
-
-India has removed the price limits at the new harvest market.
-
-India's Basmati rice production is expected to increase between 10% -12% this year.
-
-Last year, 5.2 million metric tons of Basmathi rice exported a metric tonnes of Basmathi rice to many countries including India, Canada, Iraq, Oman, Saudi Arabia.
-
-The world's highest quality Basmati rice is produced by India and Pakistan.
-
-◼️
-
-[Data](articles/10b43569.json)
-
-[Extended Data](ext_articles/10b43569.ext.json)
 
 ---

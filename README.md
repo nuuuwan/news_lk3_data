@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 15:38:38**
+As of **2024-09-26 15:57:19**
 
 ## Newspaper Stats
 
@@ -347,6 +347,12 @@ Former State Minister Dilum Amunugama has been officially appointed as the natio
 He received the appointment letter from the party leader, entrepreneur Dilith Jayaweera, at the MJP head office in Colombo.
 
 In a statement, Dilith Jayaweera emphasised the significance of the moment for the MJP, saying: “Today has become an important juncture for our party. Brother Dilum Amunugama joins us today as the national organiser of our party.”
+
+In a post on ‘X’ (formerly Twitter), Mr. Jayaweera said: “I warmly welcome Former Minister and Parliamentarian Dilum Amunugama as the National Organiser of the Mawbima Janatha Party.”
+
+“We are preparing for our next battle at the general election!”
+
+I warmly welcome Former Minister and Parliamentarian Dilum Amunugama @amunugama_dilum as the National Organiser of the Mawbima Janatha Party. We are preparing for our next battle at the general election! pic.twitter.com/vk2E2xmjaV
 
 ◼️
 

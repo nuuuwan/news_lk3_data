@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 19:00:26**
+As of **2024-09-26 19:11:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,431 (100.0%) of 46,432 articles have been extended.
+46,432 (100.0%) of 46,432 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,19 +82,29 @@ Sri Lanka scored 306 runs for the loss of 3 wickets in their first innings.
 
 ---
 
-### දේශපාලකයින් පාසල් උත්සව වලට බෑ - අගමැතිනි
+### Politicians can't school festivals - Prime Minister
 
 *2024-09-26 18:24:51* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලකයින්-පාසල්-උත්සව-වලට-බෑ---අගමැතිනි/11-412169) · `si`
 
-ශිෂ්‍යත්ව ප්‍රශ්නපත්‍ර පිටවීම හේතුවෙන් දරුවන්ට සිදු වූ අසාධාරණයට වහාම සාධාරණය ඉටුවිය යුතු බවත්, පිට වූ ප්‍රශ්න පිලිබඳ පුර්ණ විමර්ශන වාර්තාවක් ස්වාධීන විශේෂඥයින්ගේ දායකත්වයෙන් සිදු කර සිය අවධානයට යොමු කරන ලෙසත් අග්‍රාමාත්‍ය  ආචාර්ය හරිනි අමරසූරිය මෙනෙවිය පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-අද (2024.09.26) පෙරවරුවේ අධ්‍යාපන අමාත්‍යංශයේ සියළු අංශවල නිලධාරීන් සමග පැවති සාකච්ඡාවේදී අග්‍රාමාත්‍යවරිය මේ බව සඳහන් කළාය.
 
-පාසල් අධ්‍යාපනය සංවර්ධනය කිරිම වත්මන් රජයේ පුමුඛ අරමුණක්. අපේ රජය යටතේ අධ්‍යාපනය සඳහා වැඩි ප්‍රතිපාදන ප්‍රමාණයක් වෙන් කිරීමට අපි තීරණය කර තිබෙනවා. අධ්‍යාපන අමාත්‍යංශය සහ විභාග දෙපාර්තමේන්තුව සම්බන්ධයෙන් ජනතාව තුළ ඇතිවී තිබෙන අවිශ්වාසය නැති කිරීමට මේ ආයතන කටයුතු කළ යුතුයි.
+
+Prime Minister Dr. Harini Amarasuriya discusses education policies, emphasizing student welfare, unity, and transparency. She addresses exam delays, teacher shortages, and mental health concerns in schools. The government aims to improve education infrastructure and address economic challenges affecting future generations.
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya said that the proceedings of the students should be fully fully fulfilled and to pay attention to the unity of the issues of the scholarship questions.
+
+The Prime Minister made this observation at the discussion with officers in all aspects of the Ministry of Education today (2024.04.200).
+
+Development of school education is a policy of the present government. We have decided to allocate an increased provision for education under our government. These institutes should take place to eliminate the unbelief in the public regarding the Ministry of Education and the Department of Examinations.
 
 ...
 
 [Data](articles/7095e50d.json)
+
+[Extended Data](ext_articles/7095e50d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 01:57:23**
+As of **2024-09-27 02:22:42**
 
 ## Newspaper Stats
 
-*Scraped **46,482** Articles*
+*Scraped **46,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,118 @@ adalk | 4,292
 dailymirrorlk | 4,733
 adaderanalk | 5,466
 tamilmirrorlk | 6,233
-virakesarilk | 7,430
+virakesarilk | 7,434
 adaderanasinhalalk | 8,028
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,482 (100.0%) of 46,482 articles have been extended.
+46,486 (100.0%) of 46,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Concentrated state vehicles will be released to essential services - Ananda Vijayapala
+
+*2024-09-27 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194881) · `ta`
+
+State vehicles redirected to essential services. President orders review of misuse. Vehicles previously wasted on non-essential uses. New directive aims to allocate resources efficiently.
+
+🟩
+
+President Anura Kumara Dissanayake has issued a directive to the relevant authorities that the state vehicles parked near the Galle Association will be released only for essential services, said the President's Exclusive Secretary Ananda Vijayapala.
+
+Ananda Wijepala said that it is sad that the people's taxpayer is wasting and that steps will be taken to make a full review of the matter and make people aware of the future activities.
+
+The President's Private Secretary Ananda Wijepala made this statement at a media briefing held on Thursday 26th.
+
+He added that during the last regime, the public money waste was in vain and that the vehicles were not enough to park in the parking lot in the presidential palace.
+
+He noted that 107 vehicles have been parked in several places, including the Galle Falls, and that these have been given to their friends in various positions by the last government.
+
+...
+
+[Data](articles/07fa7f1d.json)
+
+[Extended Data](ext_articles/07fa7f1d.ext.json)
+
+---
+
+### The pension of 85 people canceled as Parliament was dissolved before the end of office
+
+*2024-09-27 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194880) · `ta`
+
+Pension of 85 lawmakers canceled after Parliament dissolution. Election set for Nov 14th. District seat allocations changed. Nominations accepted Oct 4-11.
+
+🟩
+
+The pension of 85 new members representing the ruling and opposition parties has been canceled due to the dissolution of the president before the ninth parliament ended.
+
+The general election will be held on Thursday 14th November. The number of district seats has changed in 2024, which is the new Voter Iduba (Voter Idivore).
+
+The High Gazette on the dissolution of Parliament and holding the General Elections was released by President Anura Kumara Dissanayake on Wednesday (25).
+
+Those who are expected to contest the election from the 4th to the 11th of October will be able to hand over the nominations at the District Secretariats in 22 election districts.
+
+2023 compared to the proof of chariot, (voter turnout);This time the number of seats in many districts has changed. Accordingly, the last time 19 seats were allocated to the Colombo district in the Western Province, this time it was defined as 18.
+
+...
+
+[Data](articles/e3891986.json)
+
+[Extended Data](ext_articles/e3891986.ext.json)
+
+---
+
+### China's cooperation is essential for the project to build Sri Lanka's economy -Foreign Minister Vijitha Herath
+
+*2024-09-27 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194879) · `ta`
+
+Sri Lanka Foreign Minister Vijitha Herath praises China's cooperation in economic crisis and debt restructuring. Thanks Chinese financial institutions for support. Aims to strengthen bilateral ties and welcomes increased Chinese tourism.
+
+🟩
+
+External Affairs Minister Vijitha Herath said that Sri Lanka is grateful to the cooperation of China when we face the economic crisis of Sri Lanka, and thanks to the continued cooperation of the Chinese financial institutions for the credit restructuring program.
+
+He was speaking at the event held at the Sangirilla Hotel in Colombo on Wednesday evening (25) to mark the 75th anniversary of the creation of China.
+
+I would like to recall the cooperation of the Chinese government to Sri Lanka in the event of an economic crisis in the country. I thank you for that. I would also like to recall that this country has successfully completed many programs under a route program.
+
+Sri Lanka also thanks to the continued cooperation of the Chinese financial institutions for the debt renovation program that is currently working on Sri Lanka's foreign debt restructuring.
+
+...
+
+[Data](articles/2b7902ad.json)
+
+[Extended Data](ext_articles/2b7902ad.ext.json)
+
+---
+
+### Permission to vote at another voting station with reasonable factors;Apply by 2024.10.01- Elections Commission
+
+*2024-09-27 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/194878) · `ta`
+
+Request to vote at alternate polling station due to inability to reach assigned location. Apply by October 1st, 2024, at Elections Commission or District Election Offices. Forms available online or at local offices. Verification required from Grama Niladhari.
+
+🟩
+
+Voters who are unable to vote at the voting center in their resident area can request to be allowed to vote at another voting center.. The Elections Commission has announced that it will be able to apply at the Elections Commission or through the District Elections Offices before 2024.10.01.
+
+Voters who are fair that they cannot vote at the referendum, which is assigned to the referendum under Article 127 (b) of the Parliamentary Elections Act, No. 1 of 1981, can make a demand for a voting center at another voting center.
+
+Anyone can submit his applications to the Elections Secretariat at the Rajagiriya Sarana Mawatha before 2024.10.10.10.10.10.10.010.
+
+Applicant must fill in applications based on the seat of 2024. All of those are placed in District Secretariats, concerts and district elections offices. In addition, the registered details of the 2024 -year -old Idap can be examined through the www.elections.gov.lk website.
+
+...
+
+[Data](articles/f429ea2a.json)
+
+[Extended Data](ext_articles/f429ea2a.ext.json)
+
+---
 
 ### Women under 19: Sri Lanka's second win against New Zealand
 
@@ -2363,101 +2463,5 @@ In January 2017. In 2021, he served as Chairman of the Vice Chancellor and Direc
 [Data](articles/90eaddb1.json)
 
 [Extended Data](ext_articles/90eaddb1.ext.json)
-
----
-
-### Dilum Amunugama appointed national organizer
-
-*2024-09-26 13:24:21* · [`adalk`](https://www.ada.lk/breaking_news/දිලුම්-අමුණුගමට-ජාතික-සංවිධායක-ධුරයක්/11-412163) · `si`
-
-Dilum Amunugama joins Motherland People's Party, appointed National Organizer under Dilith Jayaweera's leadership.
-
-🟩
-
-Former State Minister Dilum Amunugama has joined the Motherland People's Party (People's Rep) Heads of Dilith Jayaweera).
-
-Accordingly, he has been appointed as the National Organizer of the Mawlanda People's Party.
-
-◼️
-
-[Data](articles/b526c64d.json)
-
-[Extended Data](ext_articles/b526c64d.ext.json)
-
----
-
-### Army Intelligence Unit Financing for those who carried out the survival Sunday attacks?The former director of the CIT is requesting that a thorough investigation be held
-
-*2024-09-26 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194837) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former CIT director Shanani Abayasekara claims military intelligence misled investigations into Sunday attacks. He suspects financial links between intelligence agencies and attackers. Abayasekara accuses LTTE of involvement in Vavuniya massacre and requests probe into potential army financing of attacks.
-
-🟩
-
-Former CIT's former director Shanani Abayasekara has released shocking information on the Sunday attacks and subsequent investigations.
-
-He was speaking after the publication of journalist Sunanda Deshapriya's book.
-
-During the major moments of the investigation, the military investigators misleaded the CITIrs, he said, "he said," he said, "there may have been financial connections between the intelligence agencies and the attackers."
-
-On April 21, 2019, the attack on 250 people was not a separate incident, but a well -planned and carried out.
-
-Shanani Abhayasekara, who has misbehaved with the military intelligence agencies in connection with the suicide bomber who died in Tegiwala, said that the suicide bomber may have been involved with military investigators.
-
-Second, the former director of the CIT said that the Liberation Tigers of Tamil Eelam (LTTE) had accused the Liberation Tigers of Tamil Eelam (LTTE) to carry out the Vavuniya massacre (2018) before the resurrection Sunday.
-
-...
-
-[Data](articles/a51662bd.json)
-
-[Extended Data](ext_articles/a51662bd.ext.json)
-
----
-
-### Sri Lanka’s new president has essentially endorsed predecessor’s econ policies: ex MP
-
-*2024-09-26 12:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-president-has-essentially-endorsed-predecessors-econ-policies-ex-mp-181103/) · `en`
-
-ECONOMYNEXT — President Anura Kumara Dissanayake has essentially endorsed his predecessor President Ranil Wickremesinghe’s efforts to resolve Sri Lanka’s financial crisis, according to former State Minister of Finance Shehan Semasinghe.
-
-Speaking to reporters Wednesday September 25 evening following a meeting of MPs who backed Wickremesinghe for his reelection bid, Semasinghe said President Dissanayake has accepted that the Wickremesinghe administration’s reform programme was a successful one.
-
-“He didn’t do that before the election. Perhaps he has done a broader assessment of the economy since assuming duties. He has spoken about the importance of implementing the International Monetary Fund (IMF) programme and continuing the debt restructuring process. I think they realise now that the measures we took to resolve this crisis were correct,” he said.
-
-...
-
-[Data](articles/6486c48c.json)
-
-[Extended Data](ext_articles/6486c48c.ext.json)
-
----
-
-### Israel lands down to Lebanon
-
-*2024-09-26 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201562) · `si`
-
-Israel launches ground assault on southern Lebanon after week-long airstrikes. World leaders intervene as death toll reaches 620. Israeli residents urged to return home. UN General Assembly convenes in New York.
-
-🟩
-
-Israel commences air strikes on the neighborhood of the neighborhood Lebanon and it has been nearly a week.
-
-The army commander had been planned to commence the land attack on the South Lebanon.
-
-He emphasized that the Israeli inhabitants of Israel should be able to return to their homes in northern Israeli to their homes in north Israel.
-
-Meanwhile, world leaders have agreed to intervene between Israel and Lebanon, along with the United Nations General Assembly in New York.
-
-Israeli air strikes were killed in Israeli air strikes yesterday (25) and the total number of deaths in Lebanon attacks were 620 deaths.
-
-◼️
-
-[Data](articles/bf4ad4b9.json)
-
-[Extended Data](ext_articles/bf4ad4b9.ext.json)
 
 ---

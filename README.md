@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 05:22:28**
+As of **2024-09-26 05:43:59**
 
 ## Newspaper Stats
 
-*Scraped **46,312** Articles*
+*Scraped **46,313** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 385
+dbsjeyarajcom | 386
 bbccomsinhala | 455
 colombotelegraphcom | 462
 islandlk | 2,705
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,312 (100.0%) of 46,312 articles have been extended.
+46,313 (100.0%) of 46,313 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1360,6 +1360,24 @@ Police have launched a campaign to search for two youths duncing.
 
 ---
 
+### Tiger Leader “Thiyagi” Thileepan Weaponised Non-Violence Through his  Fast Unto  Death in September 27.
+
+*2024-09-25 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84792) · `en`
+
+September 26th  is of particular significance to a substantial number of Sri Lankan Tamils . For it was on this day in 1987 that a senior member of the Liberation Tigers of Tamil Eelam (LTTE) Thileepan died in Nallu after undertaking a fast unto death.
+
+Although the LTTE lost thousands of cadres during the many years it waged war against the Sri Lankan State, the death of Thileepan was different from the deaths of other LTTE fighters. Thileepan’s demise was not due to direct violence but due to non-violent direct action.
+
+He engaged in a fast unto death protest on 15 September 1987 and died after 12 days of fasting without even drinking water. This was after the Indo-Lanka accord of 29 July 1987. The Indian army referred to as the Indian Peace Keeping Force (IPKF) was stationed in Jaffna then.
+
+...
+
+[Data](articles/1bf3811c.json)
+
+[Extended Data](ext_articles/1bf3811c.ext.json)
+
+---
+
 ### Interrogutation
 
 *2024-09-25 18:16:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடகுவைத்த-பெண்ணுக்கு-விளக்கமறியல்/76-344452) · `ta`
@@ -2313,29 +2331,5 @@ President Anura Kumara Dissanayake has said that the number of vehicles allocate
 [Data](articles/8cf2df45.json)
 
 [Extended Data](ext_articles/8cf2df45.ext.json)
-
----
-
-### A sickness of Ja-Ela
-
-*2024-09-25 14:21:05* · [`adalk`](https://www.ada.lk/breaking_news/ජා-ඇල-ඌරන්ට-ලෙඩක්/11-412142) · `si`
-
-Ja-Ela swine farm outbreak: Sudden deaths reported; disease spreads quickly; treatment ineffective; infected animals sold as meat; health officials unaware of issue.
-
-🟩
-
-Swine vendors say that sumptors are dying due to a disease of Swine farms in Ja-Ela, Ragama and suburbs.
-
-Thus dies from a few weeks and the disease has spread to the growing suituffs from the small calf. Due to the premises of a setting, heavyly dies in a few days. Although the treatment is treated, the treatment is not cured.
-
-The danger here is the dying suits and send the dead to the market. Swachi farms have also been able to buy a kilo of kilous at Rs. 300 / =. He added that the meat was often dead, he was often dead.
-
-While we asked the office of the Medical Officer of the Medical Officer of Health, a senior official said that the situation was not reported to his office.
-
-◼️
-
-[Data](articles/28f7dcf1.json)
-
-[Extended Data](ext_articles/28f7dcf1.ext.json)
 
 ---

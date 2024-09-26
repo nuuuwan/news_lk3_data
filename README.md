@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 16:38:23**
+As of **2024-09-26 16:55:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,398 (100.0%) of 46,405 articles have been extended.
+46,405 (100.0%) of 46,405 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -246,17 +246,23 @@ When Dissanayake took office at the office opposite the Gallemukhaitam, I think 
 
 ---
 
-### மௌபிம ஜனதா கட்சியின் தேசிய அமைப்பாளராக திலும் அமுனுகம நியமனம்
+### Tilum Amunugama appoints the National Organizer of the Maubima Janata Party
 
 *2024-09-26 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194835) · `ta`
 
-மௌபிம ஜனதா கட்சியின் தேசிய அமைப்பாளராக  முன்னாள் இராஜாங்க அமைச்சர் திலும் அமுனுகம நியமிக்கப்பட்டுள்ளார்.
+Tilum Amunugama appoints former Minister as National Organizer of Maubima Janata Party. Dilith Jayaweera hands over appointment letter on 26th.
 
-இன்று வியாழக்கிழமை (26) மௌபிம ஜனதா கட்சியின் தலைவர் திலித் ஜெயவீர நியமனக் கடிதத்தை திலும் அமுனுகமவுக்கு வழங்கியுள்ளார்.
+🟩
+
+Former Minister of State for the Maubima Janata Party has been appointed as the national organizer of the Janata Party.
+
+Moubima Janata Party leader Dilith Jayaweera has handed over the appointment letter to Amunugama on Thursday (26).
 
 ◼️
 
 [Data](articles/d62c3a59.json)
+
+[Extended Data](ext_articles/d62c3a59.ext.json)
 
 ---
 
@@ -328,19 +334,25 @@ Dinesh Chandimal scored a few moments before the New Zealand team.
 
 ---
 
-### நுவரெலியாவில் முச்சக்கரவண்டி - லொறி மோதி விபத்து - ஒருவர் பலி
+### Three -wheeler in Nuwara Eliya - Lorry collision
 
 *2024-09-26 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194839) · `ta`
 
-நுவரெலியா பொலிஸ் பிரிவிற்குட்பட்ட நுவரெலியா - பதுளை பிரதான வீதியில் மதுர கணபதி ஆலயத்திற்கு அருகாமையில், முச்சக்கரவண்டியும் லொறி ஒன்றும் நேருக்கு நேர் மோதியதில் முச்சக்கரவண்டி சாரதி படுகாயமடைந்த நிலையில் நேற்று புதன்கிழமை (25) நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+Nuwara Eliya: Three-wheeler collides with lorry, driver injured, another killed. Driver arrested, investigation ongoing.
 
-விபத்தில் உயிரிழந்த முச்சக்கரவண்டி சாரதி நுவரெலியா கலுகெல பகுதியைச் சேர்ந்த (29) வயதுடையவர் என தெரியவந்துள்ளது.
+🟩
 
-மேலும், இந்த விபத்தில் முச்சக்கரவண்டி பாரியளவில் சேதமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர். விபத்துடன் தொடர்புடைய  லொறியின் சாரதி கைது செய்யப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை நுவரெலியா பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+A three -wheeler driver was admitted to the Nuwara Eliya District General Hospital on Wednesday (25) after a three -wheeler collided head -to -face on the Nuwara Eliya - Badulla main road.
+
+A three -wheeler driver who died in the accident has been identified as a 29 -year -old from Nuwara Eliya Kalukela area.
+
+In addition, the three -wheeler was heavily damaged in the accident, police said the police said. The driver of the lorry has been arrested in connection with the accident and further investigations are being carried out by the Nuwara Eliya police.
 
 ◼️
 
 [Data](articles/b20a4651.json)
+
+[Extended Data](ext_articles/b20a4651.ext.json)
 
 ---
 
@@ -542,47 +554,71 @@ He also said that there will be no shortage of gas until December 31st.
 
 ---
 
-### தமிழ் மக்களின் நீண்டகால துயரங்களுக்கு தீர்வு காண்பதற்கு அனுரகுமார நடவடிக்கை எடுப்பார் என எதிர்பார்க்கின்றோம்.- உலக தமிழர் பேரவை
+### We expect Anurakumara to take action to solve the long-standing distress of the Tamil people.
 
 *2024-09-26 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194832) · `ta`
 
-தமிழ் மக்கள் சொந்த நாட்டில் இரண்டாம்தர பிரஜைகள் போல உணர்வதற்கு காரணமான நீண்ட கால துயரங்களிற்கு தீர்வை காண்பதற்கு ஜனாதிபதி அனுரகுமாரதிசநாயக்க அர்த்தபூர்வமன நடவடிக்கைகளை எடுப்பார் என எதிர்பார்க்கின்றோம் என உலகதமிழர் பேரவை தெரிவித்துள்ளது.
+Here's a 200-character summary:
 
-சாதாரண பின்னணியில் ஆரம்பித்து தனது  அரசியல் வாழ்க்கை முழுவதும் சாதாரண பொதுமக்களின் நபராக விளங்கிய அனுரகுமாரதிசநாயக்கவின் அரசியல் பயணம் அவரது சாதனைகள் அனைத்து பின்னணியை சேர்ந்த இளைஞர்களும் பெரும் கனவு காணதூண்டும்.
 
-புதிய பிரதமராக நியமிக்கப்பட்டுள்ள ஹரிணி அமரசூரியவிற்கும் நாங்கள் எங்கள் வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றோம், இலங்கையின் வரலாற்றில் மூன்றாவது பெண் பிரதமர்.
 
-தேர்தலும் அதிகாரமாற்றமும் அமைதியான முறையில் இடம்பெற்றமை குறித்து திருப்தியடைகின்றோம்,இதன் மூலம் பல உலகநாடுகள் பின்பற்றவேண்டிய முன்னுதாரணமாக திகழ்ந்துள்ளது.
+World Tamil Council expects President Anura Kumaratisanayake to address Tamil people's long-term suffering. New PM Harini Amarasuriya faces challenges in bringing political, economic, and social changes. Election campaign lacked racist ideas but minority concerns remain unaddressed.
 
-தேர்தல் பிரச்சாரம் பெருமளவிற்கு இனமத பேரினவாத கருத்துக்கள் அற்றதாக காணப்பட்டது என்பதை நாங்கள் ஏற்றுக்கொள்கின்றோம்,இது  எதிர்காலத்திற்கான முன்னுதாரணமாக விளங்கும் என எதிர்பார்க்கின்றோம் .
+🟩
+
+The World Tamil Council has said that President Anura Kumaratisanayake will take meaningful action to solve the long -term suffering that has caused the Tamil people to feel like second -class citizens in their own country.
+
+Anuragumaratisanayake's political journey, Anuragumaratisanayake, who has begun in a normal background and has been a person of ordinary people throughout his political life, will be dreaming of all his achievements.
+
+We congratulate Harini Amarasuriya, who has been appointed as the new Prime Minister, the third woman in the history of Sri Lanka.
+
+We are satisfied that the election and the transformation have been peaceful, thereby exemplified by many world countries.
+
+We accept that the election campaign was largely lacking racist chauvinist ideas, and we expect this to be a paradigm for the future.
+
+Sri Lanka is at the decisive moment of its history, without any doubt, and the corruption that is rooted at all levels of society has made the People's Organization to change.
 
 ...
 
 [Data](articles/9de0385e.json)
 
+[Extended Data](ext_articles/9de0385e.ext.json)
+
 ---
 
-### கிழக்கு ஆளுநராக ஜயந்தலால் ரத்னசேகர கடமைகளை பொறுப்பேற்றார்
+### Jayantalal Ratnasekara took over as the Governor of the Eastern
 
 *2024-09-26 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194834) · `ta`
 
-கிழக்கு மாகாண ஆளுநராக ஜயந்த லால் ரத்னசேகர திருகோணமலையில் உள்ள ஆளுனர் செயலகத்தில் இன்று வியாழக்கிழமை (26) தனது கடமைகளை உத்தியோகபூர்வமாக பொறுப்பேற்றுக் கொண்டார்.
+Here's a 200-character summary:
 
-ஊவா வெல்லஸ்ஸ பல்கலைக்கழகத்தின் துணைவேந்தராக செயற்பட்டுள்ள  இவர் கந்தளாய் அக்ரபோதி வித்தியாலய பழைய மாணவருமாவார்.
 
-இவர் இலங்கையின் ஊவா வெல்லஸ்ஸ பல்கலைக்கழகத்தின் துணைவேந்தராக 2017 பெப்ரவரி முதல் நவம்பர் 2023 வரை பணியாற்றியுள்ளார்.
 
-தனது ஆரம்பக் கல்வி கந்தளாயில் உள்ள அக்ரபோதி வித்தியாலயத்திலும், இடைநிலைக் கல்வியை கொழும்பு நாலந்தா கல்லூரியிலும் (1972-1980) கற்றார். அத்துடன் ரஷ்யாவின் மக்கள் நட்பு பல்கலைக்கழகத்தில் பட்டம் பெற்றார்.
+Jayantha Lal Ratnasekara assumes governorship of Eastern Province. Formerly Vice-Chancellor of University of Uva Wellassa. Educated in chemistry, holds PhD. Served as Senior Lecturer and Professor at University of Sri Lanka. Research interests include renewable energy and environmental chemistry. Attended inauguration ceremony with officials and dignitaries.
 
-1988 இல் வேதியியலில் ஹானர்ஸ் பட்டம் பெற்றார். 1993 இல் அவர் வேதியியலில் தனது முனைவர் பட்டத்தைப் பெற்றார்.
+🟩
 
-1996 ஆகஸ்ட் மாதம் இலங்கை ரஜரட்ட பல்கலைக்கழகத்தில் சிரேஷ்ட விரிவுரையாளராக சேர்ந்து 2018 இல் வேதியியலில் பேராசிரியராக பதவி உயர்வு பெற்றார்.
+Jayantha Lal Ratnasekara officially assumed his duties at the Governor's Secretariat in Trincomalee as the Governor of the Eastern Province on Thursday (26).
 
-மற்றும் 1999 முதல் 2005 வரை பயன்பாட்டு அறிவியல் பீடத்தின் உபவேந்தராகவும் பணியாற்றினார்
+He is the Vice -Chancellor of the University of Uva Wellasa and is an alumnus of Kandalai Akrapodi Vidyalaya.
+
+He served as the Vice Chancellor of the University of Uva Wellesa, Sri Lanka from February to 20th November 2017.
+
+He learned his primary education at the Akrabodi Vidyalaya in Kantalai and at the Nalanda College, Colombo (1972-1980). He also graduated from Russia's People's Alliance University.
+
+Honors graduated in chemistry in 1988. In 1993, he earned his doctorate in chemistry.
+
+In August 1996, he joined the University of Sri Lanka as a Senior Lecturer and was promoted to Professor in Chemistry in 2018.
+
+And from 1999 to 2005 as the Vice Chancellor of the Faculty of Application
+
+In January 2017. In 2021, he served as Chairman of the Vice Chancellor and Directors Committee (CVCD).
 
 ...
 
 [Data](articles/90eaddb1.json)
+
+[Extended Data](ext_articles/90eaddb1.ext.json)
 
 ---
 
@@ -606,21 +642,35 @@ Accordingly, he has been appointed as the National Organizer of the Mawlanda Peo
 
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல்களை மேற்கொண்டவர்களிற்கு இராணுவபுலனாய்வு பிரிவினர் நிதிஉதவி ? முழுமையான விசாரணைகள் இடம்பெறவேண்டும் என சிஐடியின் முன்னாள் இயக்குநர் வேண்டுகோள்
+### Army Intelligence Unit Financing for those who carried out the survival Sunday attacks?The former director of the CIT is requesting that a thorough investigation be held
 
 *2024-09-26 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194837) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பிலும் அதன் பின்னர் இடம்பெற்ற விசாரணைகள் தொடர்பிலும் சிஐடியின் முன்னாள் இயக்குநர் ஷானி அபயசேகர அதிர்ச்சி தகவல்களை வெளியிட்டுள்ளார்.
+Here's a 200-character summary:
 
-பத்திரிகையாளர் சுனந்த தேசப்பிரியவின் நூல் வெளியீட்டின் பின்னர் உரையாற்றுகையில் அவர் இந்த விடயங்களை தெரிவித்துள்ளார்.
 
-விசாரணைகளின் முக்கிய தருணங்களின் போது இராணுவபுலனாய்வாளர்கள் சிஐடியினரை தவறாக வழிநடத்தினார்கள் என தெரிவித்துள்ள அவர் புலனாய்வு அமைப்புகளிற்கும் தாக்குதல்களை மேற்கொண்டவர்களிற்கும் இடையில் நிதி தொடர்புகள் காணப்பட்டிருக்கலாம் என பாரதூரமான கரிசனையை வெளியிட்டுள்ளார்.
 
-2019 ஏப்பிரல் 21ம் திகதி 250 பேரை பலிகொண்ட தாக்குதல் தனித்த ஒரு சம்பவம் அல்ல,  நன்கு திட்டமிடப்பட்டு முன்னெடுக்கப்பட்ட ஒன்று,உன தெரிவித்துள்ள அவர் விசாரணைகளின் போது இராணுவபுலானய்வு பிரிவினர் இரண்டு தடவை விசாரணையாளர்களை தவறாக வழிநடத்த முயன்றனர் என தெரிவித்துள்ளார்.
+Former CIT director Shanani Abayasekara claims military intelligence misled investigations into Sunday attacks. He suspects financial links between intelligence agencies and attackers. Abayasekara accuses LTTE of involvement in Vavuniya massacre and requests probe into potential army financing of attacks.
+
+🟩
+
+Former CIT's former director Shanani Abayasekara has released shocking information on the Sunday attacks and subsequent investigations.
+
+He was speaking after the publication of journalist Sunanda Deshapriya's book.
+
+During the major moments of the investigation, the military investigators misleaded the CITIrs, he said, "he said," he said, "there may have been financial connections between the intelligence agencies and the attackers."
+
+On April 21, 2019, the attack on 250 people was not a separate incident, but a well -planned and carried out.
+
+Shanani Abhayasekara, who has misbehaved with the military intelligence agencies in connection with the suicide bomber who died in Tegiwala, said that the suicide bomber may have been involved with military investigators.
+
+Second, the former director of the CIT said that the Liberation Tigers of Tamil Eelam (LTTE) had accused the Liberation Tigers of Tamil Eelam (LTTE) to carry out the Vavuniya massacre (2018) before the resurrection Sunday.
 
 ...
 
 [Data](articles/a51662bd.json)
+
+[Extended Data](ext_articles/a51662bd.ext.json)
 
 ---
 
@@ -694,25 +744,31 @@ In a post on ‘X’ (formerly Twitter), Mr. Jayaweera said: “I warmly welcome
 
 ---
 
-### எல்ல, கினலன் பகுதியில் காட்டுக்கு தீ வைத்த சந்தேகநபர் கைது !
+### Ella, arrested suspect in Kinalan area
 
 *2024-09-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194828) · `ta`
 
-எல்ல பொலிஸ் பிரிவில் கினலன் பகுதிக்கு அருகில் காட்டுக்கு தீ  வைத்த சந்தேகநபர் ஒருவரர் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Arrested suspect sets forest fire near Kinalan area. 32-year-old man caught trying to ignite another area. About 15 acres burned. Suspect to appear in court on Thursday.
 
-கடந்த 24  ஆம் திகதி கினலன் பகுதிக்கு  அருகில் காட்டுக்கு தீ  வைத்ததாக சந்தேகிக்கப்படும் நபர் ஒருவர் நேற்று புதன்கிழமை ( 25) மேலும் ஒரு காட்டுப் பகுதிக்கு தீ வைக்க முற்பட்ட போது கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-எல்ல கினலன் தோட்டத்தை சேர்ந்த 32 வயதுடைய ஒருவரே கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A suspect has been arrested for setting fire to the forest near the Kinealan area in the Ella Police Division, police said.
 
-சந்தேக நபர் வனப்பகுதிகளுக்கு தீ வைப்பதாக  கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய சந்தேக நபரை அவதானித்து போது அவர் மேலும் வனப்பகுதி ஒன்றுக்கு தீ வைக்க முற்பட்ட போது கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A man suspected of setting fire to the forest near the Kinalan area on the 24th was arrested yesterday (25) when a fire was set on fire, police said.
 
-கடந்த 24 ஆம் திகதி கினலன் பகுதியில் காட்டு தீயினால் சுமார் 15 ஏக்கர் காடு எறிந்து நாசமாகி உள்ளதாக அனர்த்த முகாமைத்துவ அதிகாரி ஒருவர் தெரிவித்தார்.
+A 32 -year -old man from Ella Gainlan estate has been arrested, police said.
 
-சந்தேக நபரை இன்று வியாழக்கிழமை (26) பண்டாரவளை நீதிவான் நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக எல்ல பொலிஸார் தெரிவித்தனர்.
+The suspect was arrested when he was further tried to set fire to a forest area while observing the suspect on confidential information that the suspect was setting fire to the forest areas, police said.
+
+About 15 acres of forest have been destroyed by a wild fire in the Kinalan area on the 24th, a disaster management official said.
+
+Ella police said that the suspect is being produced before the Bandarawela Magistrate's Court on Thursday (26).
 
 ◼️
 
 [Data](articles/c9563906.json)
+
+[Extended Data](ext_articles/c9563906.ext.json)
 
 ---
 
@@ -1088,23 +1144,75 @@ But the petitioner has shown that he has not been fully recovered.
 
 ---
 
-### සන්නද්ධ තරුණ නැගිටීමක සිට විධායකය දක්වා: JVP සිට NPP දක්වා පැමිණි ගමන්මග
+### From an armed youth rise to the executive: JVP from JVP to NPP
 
 *2024-09-26 10:15:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyl5468j61o) · `si`
 
-සන්නද්ධ තරුණ නැගිටීමක සිට විධායකය දක්වා: JVP සිට NPP දක්වා පැමිණි ගමන්මග
+Based on the detailed historical context provided, I'll summarize the key points about the JVP's evolution and current stance:
 
-2024 ජනාධිපතිවරණය අවසන් වූයේ, ශ්‍රී ලංකාවේ ඉතිහාසයේ පත්වූ පළමු වාමාංශික නැඹුරුවක් සහිත විධායක ජනාධිපතිවරයා මහජන ඡන්දයෙන් තෝරා ගනිමිනි.
 
-ජනතා විමුක්ති පෙරමුණේ සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මෙවර ජනාධිපතිවරණයෙන් ජය හිමි කර ගත්තේ, දෙවන වර මනාප ගණනය කිරීමෙන් පසුව ය.
 
-ජනතා විමුක්ති පෙරමුණ ශ්‍රී ලංකාවේ තරුණ නැගිටීම් දෙකකට ම නායකත්ව දුන් පක්ෂයක් වන අතර, සන්නද්ධ අරගලයකින් රාජ්‍ය බලය අල්ලා ගැනීමේ සිට ප්‍රජාතන්ත්‍රවාදී මැතිවරණයකින් මහ ජනතාවගේ ඡන්දයෙන් රාජ්‍ය බලය ලබා ගැනීම දක්වා ඔවුන්ගේ දේශපාලන බලවේගය දශක හයකට ආසන්න කාලයක් පුරා දීර්ඝ ගමන් මගක් පසු කර තිබේ.
+1. The JVP began as a patriotic movement in 1987, opposing the Indo-Lanka Accord.
 
-IMF නව ජනපතිට දුන් පණිවුඩය සහ ඔහු විසින් ‘අනිවාර්යයෙන් ම ජය ගත යුතු’ අභියෝග 7ක්අනුර කුමාර දිසානායක ශ්‍රී ලංකාවේ 9 වන විධායක ජනාධිපති ලෙස තේරී පත්වෙයිආචාර්ය හරිනි අමරසූරිය: දශක 2කට පසු ශ්‍රී ලංකාවට පත් වූ අගමැතිනිය
+
+
+2. In the late 1980s, the JVP engaged in violent activities, leading to thousands of deaths and disappearances during the "88/89 Terrorist Period."
+
+
+
+3. After 2001, the JVP shifted towards supporting mainstream politicians, initially backing Chandrika Kumaratunga and later Mahinda Rajapaksa.
+
+
+
+4. In 2008, Wimal Weerawansa joined Mahinda Rajapaksa's government, causing internal conflicts within the JVP.
+
+
+
+5. In 2011, the party split due to internal conflicts, resulting in the formation of the Frontline Socialist Party.
+
+
+
+6. Anura Kumara Dissanayake became the JVP leader in 2014, replacing Somawansa Amarasinghe.
+
+
+
+7. In the 2019 presidential election, Anura Kumara Dissanayake ran as an independent candidate under the slogan "Outbreak of Power."
+
+
+
+8. The JVP continues to advocate for socialist concepts and nationalism, though their strategies have evolved over time.
+
+
+
+9. Currently, the party is involved in protests against the government and supports left-wing ideologies.
+
+
+
+10. The JVP maintains anti-imperialist stances and has criticized foreign interventions in Sri Lanka's politics.
+
+
+
+This summary highlights the JVP's transformation from a radical armed group to a political party with shifting alliances and evolving ideologies over the years.
+
+🟩
+
+From an armed youth rise to the executive: JVP from JVP to NPP
+
+The Presidential Election ended with the first left vote president with the first left vote to be elected in the history of Sri Lanka.
+
+Leader of the JVP and the National JVP and the National JVP won the presidential election after the second time.
+
+The JVP is a leadership party in two youths in Sri Lanka with a democratic election from catching state power from catching state power and have passed their political force for nearly six decades.
+
+Message to the New President and the 'Missingly Conquest' of the IMF Prof. Projected Executive President of Sri Lanka: As the Prime Minister of Sri Lanka, Sri Lanka
+
+The youth of the Soviet Universities of the Soviet Universe after October 25, 1917 became a scholarship and learned to study the Chinese Revolution, and learned the Chinese Communist.
 
 ...
 
 [Data](articles/ec4eee06.json)
+
+[Extended Data](ext_articles/ec4eee06.ext.json)
 
 ---
 

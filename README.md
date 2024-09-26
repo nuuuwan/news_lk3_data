@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 14:14:19**
+As of **2024-09-26 14:38:24**
 
 ## Newspaper Stats
 
-*Scraped **46,377** Articles*
+*Scraped **46,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 3,091
 adalk | 4,279
 dailymirrorlk | 4,733
 adaderanalk | 5,455
-tamilmirrorlk | 6,210
+tamilmirrorlk | 6,211
 virakesarilk | 7,405
-adaderanasinhalalk | 8,010
+adaderanasinhalalk | 8,011
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,377 (100.0%) of 46,377 articles have been extended.
+46,379 (100.0%) of 46,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Certificate received on Chinese friendship at Colombo
+
+*2024-09-26 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201564) · `si`
+
+Sri Lanka-China relations strengthen: Chinese Ambassador praises bilateral ties, expresses gratitude for economic support. Both nations committed to continued cooperation and mutual benefit.
+
+🟩
+
+Chinese Ambassador to Sri Lanka, Sri Lankan Ambassador to Sri Lanka says that Sri Lankans have returned to a new era of history.
+
+He was speaking at a function at the Shanggra Hotel in Colombo yesterday (25) after the 75th anniversary of People China.
+
+Speaking further Mr. Hera said that Sri Lanka will continue to support China.
+
+The ceremony was chaired by the President of External Affairs Vijitha Herath, China Ambassador, Maithripala Sirisena, Sri Lanka's Ambassador to Sri Lanka, Dr. Nandalal Weerasinghe, Entrepreneurship Dilith Jayaweera.A number of guests were present at the occasion.
+
+Chinese Ambassador in Sri Lanka, Shingenga added,
+
+...
+
+[Data](articles/643bb039.json)
+
+[Extended Data](ext_articles/643bb039.ext.json)
+
+---
+
+### Litro resignation
+
+*2024-09-26 13:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-நிறுவனத்தின்-தலைவர்-இராஜிநாமா/175-344520) · `ta`
+
+Litro resignation announcement: No gas shortage until Dec 31st.
+
+🟩
+
+He also said that there will be no shortage of gas until December 31st.
+
+◼️
+
+[Data](articles/05f41361.json)
+
+[Extended Data](ext_articles/05f41361.ext.json)
+
+---
 
 ### Israel lands down to Lebanon
 
@@ -2259,53 +2303,5 @@ This year's election is more than a party-led elections, more than a party-drive
 [Data](articles/c55190bb.json)
 
 [Extended Data](ext_articles/c55190bb.ext.json)
-
----
-
-### The President will address a special speech in a few more minutes
-
-*2024-09-25 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194794) · `ta`
-
-President Anura Kumara Dissanayake addresses nation at 7:30 PM on 25th. Speech broadcast on TV Terana, 24 News Channel, FM Terana, and Ada Thera social media channels. Economic situation and future plans discussed.
-
-🟩
-
-President Anura Kumara Dissanayake will address the people of the country on the night of the 25th.
-
-The Presidential Media Unit said that the President will address the country at 7.30 pm tonight.
-
-It is reported that the President will also comment on the country's economic situation and future plans.
-
-It is noteworthy that the special speech has been prepared from 7.30 pm on TV Terana, its 24 News Channel, FM Terana and Ada Thera Social Media Channels.
-
-◼️
-
-[Data](articles/7abe0264.json)
-
-[Extended Data](ext_articles/7abe0264.ext.json)
-
----
-
-### The price of eggs reduced this way
-
-*2024-09-25 19:17:39* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-මිල-අඩුවු‍ණේ-මෙහෙමයි/11-412158) · `si`
-
-Egg prices reduced from Rs. 65-70 to Rs. 45 due to increased production and new entrepreneurs joining the industry.
-
-🟩
-
-The All Ceylon Egga Manufacturers Association has decided to provide an egg to Rs.
-
-He said this at a press conference convened at the Kuliyapitiya Ruwini Ruwini Ruwini today (25).
-
-"On a price of an egg, rose between Rs. 65 -70. But as a union, we worked hard to provide an egg to the customer to Rs 45. The price of eggs increases less than what we need. Today, the egg has been reduced to Rs.. We see that this price will be reduced in front.
-
-With the facts we do not decrease. About five thousand persons need to need mother animals in Sri Lanka. It was able to produce about 75 lakh eggs. But now the mother animals have brought about two thousand two thousand. Although the seven lakhs required for a month, about 12 lakhs were produced.
-
-...
-
-[Data](articles/411f677c.json)
-
-[Extended Data](ext_articles/411f677c.ext.json)
 
 ---

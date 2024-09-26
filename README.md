@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 08:21:19**
+As of **2024-09-26 08:58:11**
 
 ## Newspaper Stats
 
-*Scraped **46,329** Articles*
+*Scraped **46,333** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 386
-bbccomsinhala | 455
+bbccomsinhala | 456
 colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,807
 dailyftlk | 3,091
-adalk | 4,272
+adalk | 4,273
 dailymirrorlk | 4,733
 adaderanalk | 5,447
 tamilmirrorlk | 6,197
 virakesarilk | 7,402
-adaderanasinhalalk | 7,997
+adaderanasinhalalk | 7,999
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,325 (100.0%) of 46,329 articles have been extended.
+46,333 (100.0%) of 46,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Two youths who were traveling in the Mahaweli River
+
+*2024-09-26 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201551) · `si`
+
+Two youths drowned in Mahaweli River near Wattegama. One survivor hospitalized. Police and Navy searching for missing teens.
+
+🟩
+
+Two youths who were traveling in the Mahaweli River from Sirimalwatta area in Wattegama have dropped.
+
+Three of them had drowning the youths yesterday (25).
+
+One had survived and admitted to the Kandy Hospital for treatment.
+
+The two youths in the Wattegama, 19, have been identified as 19, a 19-year-old.
+
+The police and the Navy are participating in the search for two disappeared youths.
+
+One of these youths have come to Sri Lanka and has come to the river after he had brought abroad.
+
+◼️
+
+[Data](articles/e542da6e.json)
+
+[Extended Data](ext_articles/e542da6e.ext.json)
+
+---
+
+### Sri Lanka and New Zealand commences today
+
+*2024-09-26 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201550) · `si`
+
+Sri Lanka vs New Zealand 2nd Test begins today at Galle International Stadium. Two changes in Sri Lankan team: Milan Ratnayake and Nishan Peiris added; Lahiru Kumara and Ramesh Mendis removed. Sri Lanka won 1st Test by 63 runs.
+
+🟩
+
+The second Test match between the Sri Lanka Sri Lanka (26) is scheduled to begin today.
+
+The competition will commence at 10.00 am at the Galle International Stadium.
+
+Two changes in the Sri Lankan team have been included in the Sri Lankan team for the match and Milan Ratnayake and Nishan Peiris team have been admitted to the team.
+
+Lahiru Kumara and Ramesh Mendis had been removed from the team.
+
+Sri Lanka were able to win the first Test match between the two countries by 63 runs.
+
+◼️
+
+[Data](articles/eac80fc9.json)
+
+[Extended Data](ext_articles/eac80fc9.ext.json)
+
+---
 
 ### Sri Lanka's breast cancer deaths
 
@@ -165,6 +219,30 @@ JVP leadership change in 2014: Anura Kumara Dissanayake succeeds Somawansa Amara
 [Data](articles/23f02224.json)
 
 [Extended Data](ext_articles/23f02224.ext.json)
+
+---
+
+### Galamuduna: The villagers who went to the polls, crossing the mountains, crosses
+
+*2024-09-26 02:36:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gl6x68g0ko) · `si`
+
+Villagers in remote Galamuduna Village braved harsh conditions to vote in presidential election. Limited access via single path. 36 families face infrastructure challenges and threats. Election officials reached village on polling day.
+
+🟩
+
+The people of Galamuduna Village, a very difficult village in the Kandy District, came to vote for the recent presidential election.
+
+There is only the only access way to this village. Dunagolla to Galamala. There is nearly 7. At present there are 36 families living.
+
+These people have been severely strict as there is no systematic infrastructure and transport facilities. The masses are constantly underlying the attacks and snakes of the people.
+
+The election officials came to the presidential election last day to the presidential election to the presidential election in Galamuduna Village.
+
+◼️
+
+[Data](articles/b1b2e29b.json)
+
+[Extended Data](ext_articles/b1b2e29b.ext.json)
 
 ---
 
@@ -814,6 +892,28 @@ President Anura Kumara Dissanayake is not objected to the debt restructuring pro
 
 ---
 
+### Sri Lanka to start talks with IMF, wrap up debt restructure fast: President
+
+*2024-09-25 21:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-talks-with-imf-wrap-up-debt-restructure-fast-president-180982/) · `en`
+
+ECONOMYNEXT – Sri Lanka will start talks with the International Monetary Fund to enhance economic stability and work with creditors, President Anura Dissanayake said in a televised address.
+
+“There are many plans that we want to put in place. But before that we have to achieve stability,” President Dissanayake said.
+
+“We will therefore start talks with the IMF and take forward the matters related to Extended Fund Facility
+
+“We will start discussions with creditor groups and wrap up debt restructuring and get the concessions as soon as possible.”
+
+President Dissanayake said the voters have place their trust on a new team.
+
+◼️
+
+[Data](articles/8aaf7987.json)
+
+[Extended Data](ext_articles/8aaf7987.ext.json)
+
+---
+
 ### Sri Lanka President Anura Dissanayake addresses the nation: Full text
 
 *2024-09-25 21:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-anura-dissanayake-addresses-the-nation-full-text-180993/) · `en`
@@ -944,28 +1044,6 @@ Secretary to the President Dr. Nandika Sanath was also present at the occasion.
 
 ---
 
-### Sri Lanka to start talks with IMF, wrap up debt restructure fast: President
-
-*2024-09-25 20:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-talks-with-imf-wrap-up-debt-restructure-fast-president-180982/) · `en`
-
-ECONOMYNEXT – Sri Lanka will start talks with the International Monetary Fund to enhance economic stability and work with creditors, President Anura Dissanayake said in a televised address.
-
-“There are many plans that we want to put in place. But before that we have to achieve stability,” President Dissanayake said.
-
-“We will therefore start talks with the IMF and take forward the matters related to Extended Fund Facility
-
-“We will start discussions with creditors and wrap up debt restructuring and get the concessions.”
-
-President Dissanayake said the voters have place their trust on a new team.
-
-◼️
-
-[Data](articles/8aaf7987.json)
-
-[Extended Data](ext_articles/8aaf7987.ext.json)
-
----
-
 ### Sri Lanka president appoints new governors
 
 *2024-09-25 20:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-new-governors-180987/) · `en`
@@ -1055,6 +1133,30 @@ President Dissanayake says all steps needed for the expected change depend on bu
 [Data](articles/37656ed9.json)
 
 [Extended Data](ext_articles/37656ed9.ext.json)
+
+---
+
+### If you go to save the economy, people are angry
+
+*2024-09-25 19:59:53* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථකය-බේරා-ගන්න-ගියොත්-ජනතාව-තරහ-වෙනවා/11-412161) · `si`
+
+Ranil Wickremesinghe warns: Saving economy may anger citizens. IMF involvement could worsen economic situation. His goal is economic stability but faces public discontent.
+
+🟩
+
+Former President Ranil Wickremesinghe has stated that the UNP Ranil Wickremesinghe has said that people will be angry when they go to save the economy of the country.
+
+The President made this observation at a meeting at the UNP political office on Flower Political Office, Colombo.
+
+It is said that if people go to save the IMF, the economy of the country will fall into an abyss if the IMF is angry.
+
+The President has said that his main objective was to save the economy of the country, the International Monetary Fund is also the purpose of imposing the financial stability of the country.. The President has said that the truth should understand the truth.
+
+◼️
+
+[Data](articles/554a6abb.json)
+
+[Extended Data](ext_articles/554a6abb.ext.json)
 
 ---
 
@@ -2207,99 +2309,5 @@ The Governor of Sabaragamuwa Province stated that nine new governors were sworn 
 [Data](articles/22f85c69.json)
 
 [Extended Data](ext_articles/22f85c69.ext.json)
-
----
-
-### 'Dil Raja' Vijay Satya as the hero who faces problems
-
-*2024-09-25 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194765) · `ta`
-
-"Dil Raja" starring Vijay Satya releases on 27th. Director Venkatesh says hero faces problems bravely. Fight scenes impressive. Vanitha Vijayakumar, Sherin, Samyukta play key roles. Completed in 32 days.
-
-🟩
-
-Actor Vijay Satya's upcoming film 'Dil Raja' will be released on the 27th of this month at the film House.. The film crew has said that the film is about the story of the hero who faces it with any problems.
-
-Director a. Vijay Satya, Sherin, Samyukta, Karate Raja, Vanitha Vijayakumar, Iman Annachi, KP Vi Bala and many others have starred in the film 'Dil Raja' directed by Venkatesh.. Psychic v. Amrish has composed the film, which has been recorded by Narayana. The film was produced by producer Coimbatore Balasubramaniam on behalf of Golden Eagle Studios.
-
-The event was held in Chennai. Producers with the film crew. Rajan and actress Kanika Mann were the special guests.
-
-Director A about the film. Venkatesh said, “Whatever the problem, it is the man who faces it with the bravery of the film.. Man Vijay Satya has played his body for the film.
-
-...
-
-[Data](articles/78172883.json)
-
-[Extended Data](ext_articles/78172883.ext.json)
-
----
-
-### The government is parking place
-
-*2024-09-25 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201532) · `si`
-
-National Executive Committee Chairman Wasantha Samarasinghe announced investigations into Presidential Secretariat proposals. Meeting held at Presidential Secretariat parking area on Scout Avenue. New president's appointment affects staff movement around the building.
-
-🟩
-
-The National Executive Committee of the National Executive Committee Wasantha Samarasinghe says that the proposals of the Presidential Secretariat will be investigated properly.
-
-Speaking to the media this morning at the Presidential Secretariat this morning.
-
-With the appointment of the new president, the traffic from the Presidential Secretariat, near the Presidential Secretariat, the other personnel belonging to the Presidential Secretariat is located near the parking and Foundation Institute at the Scouting Mawatha near the Presidential Secretariat.
-
-The National Executive Committee of the National Power of Power Wasantha Samarasinghe was present at the parking parking at the Scout Avenue this morning.
-
-◼️
-
-[Data](articles/5346c580.json)
-
-[Extended Data](ext_articles/5346c580.ext.json)
-
----
-
-### Is the general election unconstitutional?;The Election Commission refuses
-
-*2024-09-25 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194772) · `ta`
-
-Election Commission denies claims of unconstitutionality. Commissioner General refuses comment on social media. Some argue 5-week gap between nomination filing and election violates law. Deadline for nominations is October 11.
-
-🟩
-
-The Commissioner General of Elections Saman Ratnayake has refused to comment on social media that the general election is unconstitutional.
-
-Many have expressed their views that the law has been stated that there should be a 5 -week break after filing a nomination for the election.
-
-The deadline for filing nominations for the general election ends on October 11.
-
-The law states that there should be a five -week gap, including the date of filing Vadman from the date. So this date is correct, he said.
-
-◼️
-
-[Data](articles/c43a1c55.json)
-
-[Extended Data](ext_articles/c43a1c55.ext.json)
-
----
-
-### Thailand's approval for the Samarisi Marriage Act
-
-*2024-09-25 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201531) · `si`
-
-Thailand approves Samarisi Marriage Act, legalizing same-sex unions. Bill passed in parliament, set to become law after 120-day waiting period. Thailand joins global trend as third country to legalize Samariya marriages.
-
-🟩
-
-Thailand parliament took advice a few months ago to pass a bill a few months ago to legalize Marricks.
-
-Accordingly, the bill is a law in Thailand after 120 more days.
-
-Thailand is one of the third country at the marriage of Samariya.
-
-◼️
-
-[Data](articles/65972853.json)
-
-[Extended Data](ext_articles/65972853.ext.json)
 
 ---

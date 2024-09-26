@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 12:13:19**
+As of **2024-09-26 12:24:37**
 
 ## Newspaper Stats
 
-*Scraped **46,363** Articles*
+*Scraped **46,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ dailymirrorlk | 4,733
 adaderanalk | 5,452
 tamilmirrorlk | 6,206
 virakesarilk | 7,405
-adaderanasinhalalk | 8,006
+adaderanasinhalalk | 8,008
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,363 (100.0%) of 46,363 articles have been extended.
+46,363 (100.0%) of 46,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම ගැන කොමිසමෙන් නිවේදනයක්
+
+*2024-09-26 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201560) · `si`
+
+පාර්ලිමේන්තු මැතිවරණය සඳහා තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම සැප්තැම්බර් මස 30 වනදා සිට ඔක්තෝබර් මස 07 වනදා දක්වා සිදුකරන බව මැතිවරණ කොමසාරිස්, ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+
+මෙම මැතිවරණයේ දී ද 2024 ඡන්දහිමි නාමලේඛන භාවිතා කරන බැවින් ජනාධිපතිවරණට අදාළව තැපැල් ඡන්ද අයදුම්පත් ඉදිරිපත් කළ සියලුදෙනාට නැවතත් මෙම මැතිවරණය සඳහා තැපැල් ඡන්ද අයදුම්පත් ඉදිරිපත් කිරීමට අනවශ්‍ය බවද ඒ මහතා පැහැදිලි කළේය.
+
+කොළඹ අද (26) පෙරවරුවේ පැවති මාධ්‍ය සාකච්ඡාවක දී ඒ මහතා මේ බව පැහැදිලි කළේය.
+
+"මේ මැතිවරණයේදී පහුගිය ඡන්දහිමි නාමලේඛන භාවිතා කරන බැවින් පහුගිය ඡන්දහිමි නාමලේඛනයට අදාළව තැපැල් ඡන්ද අයදුම්පත් ඉදිරිපත් කරපු සියලුම අය සඳහා නැවත තැපැල් ඡන්ද අයදුම්පත් ඉදිරිපත් කිරීමේ අවශ්‍යතාවයක් ඇති වන්නේ නැහැ. ඒ ඔබට අදාළ සියලුම දත්ත සියල්ල අප සතුව තිබෙනවා.
+
+...
+
+[Data](articles/69f865d1.json)
+
+---
+
+### පාසලේ අවසන් දවසේ ජීවිතයට සමුදුන් ගුරුතුමිය
+
+*2024-09-26 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201559) · `si`
+
+වෙනත් පාසලකට ස්ථාන මාරුවක් ලැබීම හේතුවෙන් පැවති උත්සවයකට සහභාගී වී නැවත නිවස බලා යමින් සිටි ගුරුවරියක් සහ ඇයගේ සැමියා රිය අනතුරකට ලක්ව ජීවිතක්ෂයට පත්වීමේ සිද්ධියක් අකුරැස්ස ප්‍රදේශයෙන් වාර්තා වේ.
+
+පිටබැද්දර මෙදේරිපිටිය පාසලේ වසර 5ක පමණ සේවය කළ ගුරුවරියක් වෙනත් පාසලකට මාරු වීම හේතුවෙන් පැවති උත්සවයෙන් අනතුරුව සිය සැමියා සමග නිවස බලා යමින් සිටියදී අකුරැස්ස, සියඹලාගොඩ, පිටබැද්ද මාර්ගයේ දී මෙම අනතුරට මුහුණ දී තිබුණා.
+
+ඒ ඔවුන් රැගත් යතුරු පැදිය සුඛෝපභෝගී වෑන් රථයක ගැටීම හේතුවෙනි.
+
+සිද්ධිය දුටුවන් පැවසුවේ තුවාලකරුවන් රෝහල්ගත කිරීමට විනාඩි 20ක පමණ කාලයක් ගත වූ බවය.
+
+"ට්‍රාන්සර් එක අරගෙන යන ගමන් තමා ඇක්සිඩන්ට් එක සිද්ධවෙලා තියෙන්නේ. අවුරුදු 5ක් පුරා දෙනියාය කලාපයේ දෙනිපිටිය ඉස්කෝලේ වැඩ කරේ. ඇක්සිඩන්ට් එක වෙන්න පැයකට කලින් කතා කරලා කිව්වා ට්‍රාන්සර් එක අරන් යන ගමන් කියලා. ටික වෙලාවකින් මට කතා කරා ඇක්සිඩන්ට් වෙලා නැති වුණා කියලා."
+
+...
+
+[Data](articles/cab37a8e.json)
+
+---
 
 ### AG submits guidelines to SC for eradicating ragging in universities
 
@@ -2295,47 +2333,5 @@ General Election 2024 - Election Commission Statement by Adaderana Online on Scr
 [Data](articles/49de9e1f.json)
 
 [Extended Data](ext_articles/49de9e1f.ext.json)
-
----
-
-### General Election is a special announcement
-
-*2024-09-25 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201539) · `si`
-
-Elections Commission announces 2024 parliamentary election details: deposit requirements for independent groups, candidate nominations per district, and MP allocation. Gampaha district to elect the highest number of MPs (19).
-
-🟩
-
-The Elections Commission has announced the deposit of independent groups in connection with the 2024 parliamentary election and the number of candidates to be nominated by political parties or independents for each district.
-
-It also includes information on the number of MPs to be nominated by a nomination, number of MPs for electoral divisions.
-
-Accordingly, the highest number of MPs is to be elected by the Gampaha district. That number is 19.
-
-◼️
-
-[Data](articles/b23cdc6d.json)
-
-[Extended Data](ext_articles/b23cdc6d.ext.json)
-
----
-
-### Fitch affirms Sri Lanka at ‘Restricted Default’
-
-*2024-09-25 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102265/fitch-affirms-sri-lanka-at-restricted-default) · `en`
-
-Fitch Ratings has affirmed Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) at ‘RD’ (Restricted Default) and Long-Term Local-Currency IDR at ‘CCC-’.
-
-Fitch typically does not assign Outlooks to issuers with a rating of ‘CCC+’ or below.
-
-The rating agency said sovereign remains in default on Sri Lanka’s foreign-currency obligations, while restructuring negotiations are ongoing with Sri Lanka’s private external creditors.
-
-“The authorities’ recent announcement that a preliminary debt restructuring agreement has been reached, in principle, with members of the steering committee of the Ad Hoc Group of Bondholders (representing foreign holders of Sri Lanka’s international sovereign bonds) and China Development Bank (A+/Negative) suggests progress is being made.”
-
-...
-
-[Data](articles/20d07bc0.json)
-
-[Extended Data](ext_articles/20d07bc0.ext.json)
 
 ---

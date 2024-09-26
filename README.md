@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 19:22:35**
+As of **2024-09-26 19:38:25**
 
 ## Newspaper Stats
 
-*Scraped **46,434** Articles*
+*Scraped **46,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,810
 dailyftlk | 3,091
 adalk | 4,286
 dailymirrorlk | 4,733
-adaderanalk | 5,462
+adaderanalk | 5,463
 tamilmirrorlk | 6,226
 virakesarilk | 7,420
 adaderanasinhalalk | 8,021
@@ -26,43 +26,83 @@ adaderanasinhalalk | 8,021
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,432 (100.0%) of 46,434 articles have been extended.
+46,435 (100.0%) of 46,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
 
-### அதிரடியாக குதித்தார் ஜனாதிபதி அனுர
+### Saliya Wickramasuriya resigns as CPC and CPSTL chairman
+
+*2024-09-26 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102285/saliya-wickramasuriya-resigns-as-cpc-and-cpstl-chairman) · `en`
+
+Saliya Wickramasuriya has resigned from his position as the Chairman of Ceylon Petroleum Corporation (CPC) and the Ceylon Petroleum Storage Terminals Ltd. (CPSTL).
+
+He has tendered his resignation to the Secretary to the Ministry of Power and Energy.
+
+In his resignation letter, Mr Wickramasuriya stated that he offers his resignation from the positions in order to give the new minister the freedom to appoint a board of his choice.
+
+He had been appointed as chairperson to the Ceylon Petroleum Corporation (CPC) and the Ceylon Petroleum Storage Terminals Ltd. (CPSTL) with effect from October 5, 2023.
+
+An energy industry specialist, Wickramasuriya had also previously served as the Chairman of the Board of the Petroleum Development Authority and as a member of the Colombo Port City Economic Commission.
+
+◼️
+
+[Data](articles/d9f6dfc6.json)
+
+[Extended Data](ext_articles/d9f6dfc6.ext.json)
+
+---
+
+### President Anura
 
 *2024-09-26 18:57:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடியாக-குதித்தார்-ஜனாதிபதி-அனுர/175-344541) · `ta`
 
-கடந்த ஆட்சிகளில் பயன்படுத்திய சொகுசு வாகனங்களை அத்தியாவசிய சேவைகளுக்கு மாத்திரம் பயன்படுத்துமாறு  ஜனாதிபதி அநுரகுமார திசாநாயக்க உரிய அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளதாக ஜனாதிபதியின் பிரத்தியேக செயலாளர் ஆனந்த விஜேபால தெரிவித்தார்.
+Here's a 200-character summary:
 
-மேலும், இவ்வாறு மக்களின் வரிப்பணம் வீணடிக்கப்படுவது வருத்தமளிப்பதாகவும், இது தொடர்பில் முழுமையான மீளாய்வு நடத்தி எதிர்கால நடவடிக்கைகள் குறித்து மக்களுக்கு தெரியப்படுத்த நடவடிக்கை எடுக்கப்படும் எனவும்  ஆனந்த விஜேபால குறிப்பிட்டார்.
 
-காலிமுகத்திடல் வளாகம் உட்பட பல இடங்களில் நிறுத்தி வைக்கப்பட்டுள்ள வாகனங்கள் தொடர்பில் மேற்கொள்ளப்படும் எதிர்கால நடவடிக்கைகள் குறித்து அறிவிக்கும் வகையில் அந்த இடத்தில் வியாழக்கிழமை (26) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் ஜனாதிபதியின் பிரத்தியேக செயலாளர் ஆனந்த விஜேபால இதனைக் குறிப்பிட்டார்.
+
+President Anura Kumara Dissanayake orders luxury vehicles from previous regime used for essential services. Ananda Wijepala criticizes misuse of public funds. 107 vehicles found parked, including at Galle Falls. President directs CID investigation into missing vehicles. Steps taken to protect public property and conduct thorough review.
+
+🟩
+
+President Anura Kumara Dissanayake has issued a directive to the relevant authorities to use the luxury vehicles used in the last regimes for essential services.
+
+Ananda Wijepala said that it is sad that the people's taxpayer is wasting and that steps will be taken to make a full review of the matter and make people aware of the future activities.
+
+The President's Private Secretary Ananda Wijebala made this statement at a media briefing held on Thursday (26) to announce future activities on vehicles parked in several places, including the Galle Falls.
+
+He added that during the last regime, the public money wasted was in vain and that the vehicles were not enough to park in the parking lot in the presidential palace.
 
 ...
 
 [Data](articles/f0de799e.json)
 
+[Extended Data](ext_articles/f0de799e.ext.json)
+
 ---
 
-### உலக வங்கியும் ஜனாதிபதிக்கு ஆதரவு
+### World Bank also supported the president
 
 *2024-09-26 18:43:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-வங்கியும்-ஜனாதிபதிக்கு-ஆதரவு/175-344540) · `ta`
 
-நாட்டில் 9 ஆவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக தெரிவு செய்யப்பட்டிருக்கும்   அநுரகுமார திசாநாயக்கவிற்கு உலக வங்கிக் குழுமம் வாழ்த்து தெரிவித்துள்ளது.
+World Bank supports Sri Lanka's economic growth. President congratulated. Letter emphasizes cooperation for rebuilding economy. World Bank committed to supporting new leadership and vulnerable populations.
 
-உலக வங்கியின் தெற்காசிய வலயத்தின் தலைவர் மார்டின் ரயிஸர், சர்வதேச நிதி கூட்டுத்தாபனத்தின் ஆசிய மற்றும் பசுபிக் வலய உப தலைவர் ரிகார்டோ புலிட் ஆகியோர் ஜனாதிபதிக்கு  அனுப்பியுள்ள விசேட செய்தியில் இலங்கையின் பொருளாதார முன்னேற்றத்துக்கு தொடர்ந்தும் ஆதரவளிப்பதாக உறுதியளித்துள்ளனர்.
+🟩
 
-தற்போது இலங்கையின் பொருளாதாரம் மீளக் கட்டமைப்பதற்கு தொடர்ச்சியான ஒத்துழைப்புக்கள் அவசியம் என்பதை அறிந்துகொண்டுள்ளதோடு, பொருளாதார வளர்ச்சி,செழுமை, மற்றும் அபிவிருத்திக்கான வாய்ப்புகள் ஒரே அளவான முக்கியத்துவத்தை கொண்டவை என்றும் அந்த கடிதத்தில் வலியுறுத்தப்பட்டுள்ளது.
+The World Bank Group has congratulated Anuragumara Dissanayake, the 9th executive president in the country.
 
-நாட்டில் மிகவும் பாதிக்கப்படும் நிலையிலிருப்போரின் தேவைகளை பூர்த்தி செய்வதை போலவே அனைத்தும் உள்ளடங்களான அபிவிருத்திக்கு இலங்கையின் புதிய நிருவாகத் தலைமைக்கு உலக வங்கிக் குழுமத்தின் ஆதரவை பெற்றுத்தர அர்ப்பணிப்பதாகவும் அந்த கடித்தில் மேலும் குறிப்பிடப்பட்டுள்ளது.
+The World Bank's South Asian Zone Chairman Martin Raiser and the Asia and Pacific Zone Vice President of the International Finance Corporation, Ricardo Pulit, have sent a special message to the president in a special message to continue to support Sri Lanka's economic progress.
+
+The letter emphasizes that continuous cooperation is essential for the rebuilding of the economy of Sri Lanka, and that the opportunities for economic growth, prosperity and development are of the same importance.
+
+It is further stated that the bite is dedicated to the support of the World Bank Group to the new administrative leadership of Sri Lanka's new administrative leadership, just as it meets the needs of the most vulnerable in the country.
 
 ◼️
 
 [Data](articles/b6344d92.json)
+
+[Extended Data](ext_articles/b6344d92.ext.json)
 
 ---
 
@@ -2469,27 +2509,5 @@ He said that the wind could increase at speeds of 50 kilometers per hour in the 
 [Data](articles/2992924d.json)
 
 [Extended Data](ext_articles/2992924d.ext.json)
-
----
-
-### Sri Lanka told go for single policy rate by IMF, target middle corridor rate
-
-*2024-09-26 07:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-told-go-for-single-policy-rate-by-imf-target-middle-corridor-rate-181007/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund has told the central bank target the middle of a policy corridor, among other inflationary operations, in a new technical assistance report urging the agency to go for a single policy rate.
-
-A slew of inflationary operations has been suggested for the central bank, which has already caused untold suffering to the people through the currency depreciation coming from its policy rate.
-
-Millions have been forced to leave the country of their birth to get jobs in stable nations in the Middle East which are free from the centrally planned policy rate.
-
-The IMF urged the central bank to defy market credit conditions and push the bureaucratic policy rate.
-
-“Central Bank of Sri Lanka should start replacing the current two policy rates with a single policy rate to strengthen the signaling of monetary policy and improve the ability of CBSL to steer market rates towards a desired level,” the IMF said in its technical assistance report.
-
-...
-
-[Data](articles/36c2d177.json)
-
-[Extended Data](ext_articles/36c2d177.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 19:57:08**
+As of **2024-09-26 20:11:16**
 
 ## Newspaper Stats
 
-*Scraped **46,441** Articles*
+*Scraped **46,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,091
 adalk | 4,287
 dailymirrorlk | 4,733
 adaderanalk | 5,463
-tamilmirrorlk | 6,226
+tamilmirrorlk | 6,228
 virakesarilk | 7,424
 adaderanasinhalalk | 8,022
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,022
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,441 (100.0%) of 46,441 articles have been extended.
+46,441 (100.0%) of 46,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### யானையிலிருந்து டெலிபோனுக்கு தாவினர்
+
+*2024-09-26 19:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானையிலிருந்து-டெலிபோனுக்கு-தாவினர்/175-344544) · `ta`
+
+ஐக்கிய தேசியக் கட்சியின் (UNP) இரண்டு அமைப்பாளர்கள் ஐக்கிய மக்கள் சக்தி (SJB) உடன் இணைந்துள்ளனர்.
+
+ஐக்கிய தேசியக் கட்சியின் கம்பஹா அமைப்பாளர் வருண ராஜபக்ஷ மற்றும் யட்டிநுவர அமைப்பாளர் மகேஷ் சேனாநாயக்க ஆகியோர் SJBக்கு ஆதரவளிப்பதாக உறுதியளித்துள்ளனர்.
+
+இன்று SJB தலைவர் சஜித் பிரேமதாசவுடன் இடம்பெற்ற சந்திப்பில் ராஜபக்ஷ மற்றும் சேனாநாயக்க ஆகியோர் தமது தீர்மானங்களை அறிவித்தனர்.
+
+◼️
+
+[Data](articles/ab3c49a4.json)
+
+---
+
+### ”குறிக்கோளுடன் ஜனாதிபதி என்னை நியமித்துள்ளார்’’
+
+*2024-09-26 19:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறிக்கோளுடன்-ஜனாதிபதி-என்னை-நியமித்துள்ளார்/175-344542) · `ta`
+
+ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் உறுதிமொழிக்கு அமைவாக மாற்றங்களை நடைமுறைப்படுத்த தீர்மானித்துள்ளதாக மேல் மாகாண ஆளுநராக அண்மையில் நியமிக்கப்பட்ட தொழிலதிபர் ஹனீப் யூசுப் தெரிவித்தார்.
+
+புதிய ஆளுநராகப் பதவியேற்றதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+"அமைப்பில் அர்த்தமுள்ள மாற்றத்தை கொண்டு வரவும், ஏழைகளை மேம்படுத்தவும், பொதுத்துறையை வலுப்படுத்தவும் ஒரு தெளிவான குறிக்கோளுடன் ஜனாதிபதி என்னை நியமித்துள்ளார்" என்று யூசுப் கூறினார்.
+
+மேலும், புதிய ஆளுநர், ஊழல் மற்றும் லஞ்சத்திற்கு முற்றுப்புள்ளி வைப்பதில் தனது அர்ப்பணிப்பையும் வெளிப்படுத்தினார்.
+
+“இது என்னால் மட்டுமே செய்ய கூடிய காரியம் அல்ல, நாம் அனைவரும் கைகோர்த்து செயல்பட்டால் முடியாத காரியமும் அல்ல, என்னிடம் ஒரு திட்டம் உள்ளது, சாதாரண மக்களின் வாழ்வாதாரத்தை மேம்படுத்தும் மாற்றங்களை கொண்டு வர அனைவரின் ஆதரவையும் எதிர்பார்க்கிறேன். ," என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/e3e7e506.json)
+
+---
 
 ### Chairman of the Petroleum Corporation resigns
 
@@ -2459,53 +2495,5 @@ The driver of the van has been arrested in connection with the accident and Akur
 [Data](articles/9d0e2882.json)
 
 [Extended Data](ext_articles/9d0e2882.ext.json)
-
----
-
-### Warning to the new government
-
-*2024-09-26 08:46:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்திற்கு-விடுக்கப்பட்டுள்ள-எச்சரிக்கை/175-344484) · `ta`
-
-Sri Lanka Teachers Union warns government over unmet demands. Joseph Starling threatens street protests if issues aren't addressed. Key concerns: ministerial appointments, public administrative chief secretary allegations, teacher promotions, and wage gaps. Union vows action if problems persist.
-
-🟩
-
-Joseph Starling, secretary of the Sri Lanka Teachers Union, warned that if the government did not listen to the demands of the teachers who voted for the current government, the day was not far from the day to fight back on the streets to meet those demands.
-
-The new government has appointed secretaries to manage ministries so far. We are not satisfied with the appointment of these secretaries.
-
-There are charges on the Public Administrative Chief Secretary. There are even audit reports on the allegations against him when he was.
-
-The appointment of a Western Provincial Chief Secretary has been appointed as the Secretary of the Ministry.
-
-There is a serious problem in providing promotion to teachers in the field of education. Also, as the Department of Education, there are many major problems. Apart from solving these problems, the main issue is to provide the remaining two -thirds of the teacher wage gap.
-
-...
-
-[Data](articles/4bc88695.json)
-
-[Extended Data](ext_articles/4bc88695.ext.json)
-
----
-
-### Decision on Bakery Product Prices
-
-*2024-09-26 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201552) · `si`
-
-Consumer Affairs Authority recommends reducing prices of egg-based bakery products due to declining egg prices in the market. Chairman Thusitha Indrawansa states that high-priced eggs are now selling at lower rates. The authority advises bakeries to adjust their product pricing accordingly.
-
-🟩
-
-The Consumer Affairs Authority says that eggs based bakery products should also be reduced compared to decrease in the price of eggs in the market.
-
-The Chairman of the President Thusitha Indraise said that the price of an egg sold at a high-price egg, which is sold at a high-price egg, is currently being priced at Rs.
-
-Accordingly, the Consumer Affairs Authority of the Consumer Affairs Ut.
-
-◼️
-
-[Data](articles/d1eace93.json)
-
-[Extended Data](ext_articles/d1eace93.ext.json)
 
 ---

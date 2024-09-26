@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 19:38:25**
+As of **2024-09-26 19:57:08**
 
 ## Newspaper Stats
 
-*Scraped **46,435** Articles*
+*Scraped **46,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,102 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,286
+adalk | 4,287
 dailymirrorlk | 4,733
 adaderanalk | 5,463
 tamilmirrorlk | 6,226
-virakesarilk | 7,420
-adaderanasinhalalk | 8,021
+virakesarilk | 7,424
+adaderanasinhalalk | 8,022
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,435 (100.0%) of 46,435 articles have been extended.
+46,441 (100.0%) of 46,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Chairman of the Petroleum Corporation resigns
+
+*2024-09-26 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201577) · `si`
+
+Saliya Wickramasuriya resigns as Chairman of Petroleum Corporation. He submitted his resignation to the Energy Ministry Secretary, citing the need for a new minister to appoint themselves. This move follows his presidency at Ceylon Petroleum Corporation Limited.
+
+🟩
+
+The Chairman of the Petroleum Corporation, Saliya Wickramasuriya has resigned from his positions.
+
+Accordingly, the Petroleum Corporation, Ceylon Petroleum Corporation Limited, triggered by his president of the Trinity.
+
+He has resigned his resignation to the Secretary of the Energy Ministry.
+
+The letter states that he will resign from his positions to give the new Minister to appoint himself.
+
+◼️
+
+[Data](articles/8ee66431.json)
+
+[Extended Data](ext_articles/8ee66431.ext.json)
+
+---
+
+### Sri Lanka's 'Kutti Bradman' Communise Mendis New World Records in 147 Years of Test cricketDon Bradman was also unable to Sunil Kavaskar
+
+*2024-09-26 19:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/194871) · `ta`
+
+Sri Lanka's Kamindu Mendis sets world record in Test cricket history. At 25, he scored 51 runs in 2nd Test vs New Zealand, becoming first batsman to score over 50 in 8 Tests. His average of 79.36 includes 4 centuries and 5 half-centuries in 13 innings across 8 matches.
+
+🟩
+
+In the 147 -year history of Test cricket, Sri Lanka's 'Kutti Bradman' Kamindu has set his name in the history of the world.
+
+25 -year -old Kamindu Mendis set a new world record by scoring half a century in the second Test match at Galle International Stadium against New Zealand on Thursday (26).
+
+Sri Lanka, who decided to bat first, lost 3 wickets at the end of the first day of the first day of the match, scoring 306 runs.
+
+Kamindu Mendis, who scored 51 runs in Sri Lanka's first innings, set a rare record of being the first batsman to score more than 50 runs in 8 Tests since Test cricket.
+
+He also became the first player to score 50 or more in 8 Tests 9 times.
+
+Kamundu Mendis, respectively, has played in 8 Tests since he made his debut against Australia in the Galle Stadium two years ago.
+
+51 A.E.. He set the record as (opposite New Zealand - Galle).
+
+So far, he has scored 873 runs with an average of 79.36, including 4 centuries and 5 half centuries in 13 innings in 8 Tests.
+
+...
+
+[Data](articles/e0d09f40.json)
+
+[Extended Data](ext_articles/e0d09f40.ext.json)
+
+---
+
+### The 15,000 rupee fertilizer paid to the farmers of paddy is increased to 25,000 rupees;The Presidential Directorate will be implemented from the 1st of October
+
+*2024-09-26 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/194870) · `ta`
+
+Paddy farmers' fertilizer subsidy increased from 15,000 to 25,000 rupees per hectare. New subsidy effective October 1st, 2024. Direct bank deposit for farmers. Government aims to provide affordable raw materials and subsidies for agriculture. Fishermen community to receive monthly fuel subsidy. Measures to improve fisheries industry and living conditions for fishermen.
+
+🟩
+
+In 2024/2025, President Anura Kumara Dissanayake has issued a directive to the Treasury to pay the paddy farmers a hectare of 25,000 rupees per hectare.
+
+Accordingly, the 15,000 rupee fertilizer paid to the hectare will now be increased to 25,000 rupees. This subsidy comes into effect from the first day of October. This subsidy will be deposited directly to their bank accounts for the farmers.
+
+The new government's election science stated that steps will be taken to provide raw materials, including fertilizer at reasonable prices, and to subsidize agricultural raw materials, including chemical and damage fertilizers in accordance with the best agricultural procedures in order to manage agricultural raw materials.. The move has been taken in accordance with that.
+
+At the same time, President Anura Kumara Dissanayake has issued a directive to provide fuel subsidy to the fishermen community to promote the recession and reducing the cost of production.
+
+...
+
+[Data](articles/88a24479.json)
+
+[Extended Data](ext_articles/88a24479.ext.json)
+
+---
 
 ### Saliya Wickramasuriya resigns as CPC and CPSTL chairman
 
@@ -51,6 +131,30 @@ An energy industry specialist, Wickramasuriya had also previously served as the 
 [Data](articles/d9f6dfc6.json)
 
 [Extended Data](ext_articles/d9f6dfc6.ext.json)
+
+---
+
+### President's move to provide fuel subsidy to fishermen
+
+*2024-09-26 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194869) · `ta`
+
+President announces fuel subsidy for fishermen, direct bank payments, aims to boost industry and reduce costs.
+
+🟩
+
+Accordingly, the President has issued a directive to the Fishermen to provide fuel subsidy to the fishermen from the first day.
+
+This will provide fuel subsidy monthly for several days and one day shipping.
+
+The Presidential Media Unit said in a statement that the subsidy would be paid directly to the fishermen's bank account.
+
+The announcement stated that it would promote the ban on fishing and expected the cost of production to reduce the cost of production.
+
+◼️
+
+[Data](articles/a01738b9.json)
+
+[Extended Data](ext_articles/a01738b9.ext.json)
 
 ---
 
@@ -103,6 +207,56 @@ It is further stated that the bite is dedicated to the support of the World Bank
 [Data](articles/b6344d92.json)
 
 [Extended Data](ext_articles/b6344d92.ext.json)
+
+---
+
+### Fire in the area
+
+*2024-09-26 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194862) · `ta`
+
+Fire breaks out in Kousa area, Ella Police Division. Controlled by police, officers, and disaster management team. Cause unknown, no casualties reported.
+
+🟩
+
+Ella police said that a fire broke out last night in the Kousa area of ​​the Ella Police Division.
+
+Police officials, Ella Divisional Secretariat Officers and Badulla Disaster Management Center officials have controlled the fire, police said.
+
+Police said that the cause of the fire has not yet been identified and no fire has caused no casualties.
+
+◼️
+
+[Data](articles/60600aa7.json)
+
+[Extended Data](ext_articles/60600aa7.ext.json)
+
+---
+
+### There is enough fuel reserve to consume
+
+*2024-09-26 18:39:37* · [`adalk`](https://www.ada.lk/breaking_news/පරිභෝජනයට-ප්‍රමාණවත්-ඉන්ධන-සංචිතයක්-පවතිනවා/11-412170) · `si`
+
+Sufficient fuel reserves, committee to approve foreign aid projects within 3 months, expedite rural development to strengthen economy. President emphasizes support for these initiatives.
+
+🟩
+
+Committee to extend approval within three months in foreign aid projects
+
+Expedite rural development projects to strengthen the rural economy
+
+The officials of the Ministry of Power and Energy informed the Ministry of Power and Energy that there is sufficient fuel reserve to consume.
+
+The President also instructed the officials to maintain sufficient fuel reserves to obtain sufficient fuel for the next year.. The President emphasized that all these matters will be fully supported as the President.
+
+President Anura Kumara Dissanayake made this statement at the Presidential Secretariat today (26) with the officials of the Ministry of Power and Energy.
+
+The President also instructed the officials to formulate the solar panels on Indian assistance to the Ministry of India and the President also pointed out the importance of implementing the work through a road map created by the Ministry of Power.
+
+...
+
+[Data](articles/f1bb8f7f.json)
+
+[Extended Data](ext_articles/f1bb8f7f.ext.json)
 
 ---
 
@@ -250,6 +404,28 @@ President Anura Kumara Dissanayake has directed the Treasury to increase the fer
 
 ---
 
+### Zarp is engaged in humanitarian mines
+
+*2024-09-26 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194847) · `ta`
+
+Zarp NGO removes 140,170 square meters of hazardous ammunition from Kilinochchi and Mullaitivu districts in northern Sri Lanka between 2016 and 2024.
+
+🟩
+
+Sarf's action manager of the company, Captain Prabhat Narambanawa, has said that thirty -one hundred and forty -one thousand seventy -one -seven -square -quarters of the Kilinochchi and Mullaitivu districts have been removed from seventy -seven thousand ninety thousand hazardous ammunition.
+
+Zarp, a humanitarian mines and a non -governmental organization in the North of Sri Lanka, from November 2016 to 24 September 2024, from the Mullaitivu Divisional Secretariat, Ambakamam, Ambakamam, Ambakamam, Ambakamadam, Ambakamam, Ambakamam.In the area under the Divisional Secretariat, in the Mukhmalai, Elephant and the Elephant Divisional Secretariat in the Kilinochchi District That said Narambanaawa.
+
+It is noteworthy that the company continues to carry out the work of Pudukkudiyiruppu, Ambakamam Imangulam, Kokavil, Tattuvankotti and Elephant.
+
+◼️
+
+[Data](articles/5dba3755.json)
+
+[Extended Data](ext_articles/5dba3755.ext.json)
+
+---
+
 ### Fertilizer subsidy upward
 
 *2024-09-26 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201573) · `si`
@@ -347,28 +523,6 @@ Subsequently, the arrested suspect has been handed over to the Katunayake airpor
 [Data](articles/6028654a.json)
 
 [Extended Data](ext_articles/6028654a.ext.json)
-
----
-
-### Zarp is engaged in humanitarian mines
-
-*2024-09-26 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/194847) · `ta`
-
-Zarp NGO removes 140,170 square meters of hazardous ammunition from Kilinochchi and Mullaitivu districts in northern Sri Lanka between 2016 and 2024.
-
-🟩
-
-Sarf's action manager of the company, Captain Prabhat Narambanawa, has said that thirty -one hundred and forty -one thousand seventy -one -seven -square -quarters of the Kilinochchi and Mullaitivu districts have been removed from seventy -seven thousand ninety thousand hazardous ammunition.
-
-Zarp, a humanitarian mines and a non -governmental organization in the North of Sri Lanka, from November 2016 to 24 September 2024, from the Mullaitivu Divisional Secretariat, Ambakamam, Ambakamam, Ambakamam, Ambakamadam, Ambakamam, Ambakamam.In the area under the Divisional Secretariat, in the Mukhmalai, Elephant and the Elephant Divisional Secretariat in the Kilinochchi District That said Narambanaawa.
-
-It is noteworthy that the company continues to carry out the work of Pudukkudiyiruppu, Ambakamam Imangulam, Kokavil, Tattuvankotti and Elephant.
-
-◼️
-
-[Data](articles/5dba3755.json)
-
-[Extended Data](ext_articles/5dba3755.ext.json)
 
 ---
 
@@ -2353,161 +2507,5 @@ Accordingly, the Consumer Affairs Authority of the Consumer Affairs Ut.
 [Data](articles/d1eace93.json)
 
 [Extended Data](ext_articles/d1eace93.ext.json)
-
----
-
-### Initiative
-
-*2024-09-26 08:38:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்தேர்தலுக்கான-அச்சடிக்கும்-பணி-ஆரம்பம்/175-344482) · `ta`
-
-Printing of documents for parliamentary and local government elections has started. Adequate materials available. Gazette notifications underway. 25 ballots per district for 25 nomination districts.
-
-🟩
-
-State Amaker Gangani Kalpana Liyanage said that printing of documents relating to parliamentary general election has begun.
-
-He also said that there are adequate documents for the parliamentary general election and the upcoming local government elections.
-
-He added that printing of the parliamentary general election and the gazette notification have begun.
-
-Since nominations are accepted in 25 districts in the parliamentary general election, 25 ballots are to be printed each district. Remble
-
-◼️
-
-[Data](articles/131c7e91.json)
-
-[Extended Data](ext_articles/131c7e91.ext.json)
-
----
-
-### Two youths who were traveling in the Mahaweli River
-
-*2024-09-26 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201551) · `si`
-
-Two youths drowned in Mahaweli River near Wattegama. One survivor hospitalized. Police and Navy searching for missing teens.
-
-🟩
-
-Two youths who were traveling in the Mahaweli River from Sirimalwatta area in Wattegama have dropped.
-
-Three of them had drowning the youths yesterday (25).
-
-One had survived and admitted to the Kandy Hospital for treatment.
-
-The two youths in the Wattegama, 19, have been identified as 19, a 19-year-old.
-
-The police and the Navy are participating in the search for two disappeared youths.
-
-One of these youths have come to Sri Lanka and has come to the river after he had brought abroad.
-
-◼️
-
-[Data](articles/e542da6e.json)
-
-[Extended Data](ext_articles/e542da6e.ext.json)
-
----
-
-### How many MPs in your district?
-
-*2024-09-26 08:12:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உங்கள்-மாவட்டத்தில்-எத்தனை-எம்-பிக்கள்/175-344481) · `ta`
-
-Gampaha district to elect 19 MPs in 2024 general election. Election Commission specifies candidate requirements per district.
-
-🟩
-
-The Election Commission of Sri Lanka has issued a report on the number of MPs (MP) to be elected from every election district in the upcoming 2024 general election.
-
-According to the Commission's report, a total of 19 members from the district will be elected, with a large number of MPs in the Gampaha district.
-
-The Commission has also described the number of candidates required for each district to ensure that the election is complied with.
-
-◼️
-
-[Data](articles/56a865fd.json)
-
-[Extended Data](ext_articles/56a865fd.ext.json)
-
----
-
-### Sri Lanka and New Zealand commences today
-
-*2024-09-26 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201550) · `si`
-
-Sri Lanka vs New Zealand 2nd Test begins today at Galle International Stadium. Two changes in Sri Lankan team: Milan Ratnayake and Nishan Peiris added; Lahiru Kumara and Ramesh Mendis removed. Sri Lanka won 1st Test by 63 runs.
-
-🟩
-
-The second Test match between the Sri Lanka Sri Lanka (26) is scheduled to begin today.
-
-The competition will commence at 10.00 am at the Galle International Stadium.
-
-Two changes in the Sri Lankan team have been included in the Sri Lankan team for the match and Milan Ratnayake and Nishan Peiris team have been admitted to the team.
-
-Lahiru Kumara and Ramesh Mendis had been removed from the team.
-
-Sri Lanka were able to win the first Test match between the two countries by 63 runs.
-
-◼️
-
-[Data](articles/eac80fc9.json)
-
-[Extended Data](ext_articles/eac80fc9.ext.json)
-
----
-
-### If the first is okay — it cannot be accepted now
-
-*2024-09-26 07:55:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதல்-என்றால்-பரவாயில்லை-தற்போது-ஏற்க-முடியாது/175-344480) · `ta`
-
-Former MP Thilam Amunugama defends use of vehicles by current officials, says misuse unacceptable. Emphasizes proper handover process and freedom for officials to choose transportation methods. Criticizes mocking former officials regarding vehicle usage.
-
-🟩
-
-Former Parliamentarian Thilm Amunugama made it clear that the vehicles were used by the leaders of the Coordinating Committee, while condemning the comments made by the National People's Power Member Wasantha Samarasinghe on the vehicles abandoned in the Galle Face.
-
-He also emphasized that MPs and ministers did not misuse government vehicles.
-
-Speaking to the media, he said that parliamentarians and ministers have already handed over their official vehicles and that they are now parked in the Galle Face.. It is acceptable to mock before coming to power, but after taking office, it cannot be accepted.
-
-He also explained that if vehicles were stolen, it would be considered abuse and that it should be investigated.. However, official handing over vehicles allocated to MPs and Ministers cannot be misused.
-
-Amunugama pointed out that if the current government intends to go and work without using vehicles, it is the freedom to do it according to their wishes.
-
-...
-
-[Data](articles/cfffbbca.json)
-
-[Extended Data](ext_articles/cfffbbca.ext.json)
-
----
-
-### Forecast of today's weather
-
-*2024-09-26 07:48:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-முன்னறிவித்தல்/175-344479) · `ta`
-
-Weather forecast: Rain expected in Sabaragamuwa, Western, North Western provinces. Heavy winds in Central Highlands, Northern, North Central, North Western provinces. Thunderstorms possible in coastal areas. Strong winds in sea regions. Public advised to be cautious due to strong winds and lightning.
-
-🟩
-
-Rainfall is expected today (26) in the Sabaragamuwa, Western and North Western provinces as well as Kandy, Nuwara Eliya, Galle and Matara districts.
-
-There are many places in the Eastern and Uva provinces in the evening or night.
-
-Heavy winds can be frequent at speeds of 40 - 45 km / h in the western slopes of the Central Highlands, Northern, North Central and North Western Provinces as well as in Matale, Hambantota and Moneragala districts.
-
-Showers or thunderstorms are likely to occur in many parts of the sea regions beyond the coast of Chilaw to Hambantota via Galle.
-
-Winds from the west or southwest at speeds of 30 - 40 km / h in the sea regions.
-
-In the sea regions from Matara to Hambantota, Pottuvil, the winds may increase frequently at 60 kilometers per hour.
-
-He said that the wind could increase at speeds of 50 kilometers per hour in the sea regions from the Kankesanthurai to Mannar to Mannar.
-
-...
-
-[Data](articles/2992924d.json)
-
-[Extended Data](ext_articles/2992924d.ext.json)
 
 ---

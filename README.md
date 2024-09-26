@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 01:07:44**
+As of **2024-09-27 01:22:36**
 
 ## Newspaper Stats
 
-*Scraped **46,479** Articles*
+*Scraped **46,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 4,292
 dailymirrorlk | 4,733
 adaderanalk | 5,466
 tamilmirrorlk | 6,233
-virakesarilk | 7,427
+virakesarilk | 7,430
 adaderanasinhalalk | 8,028
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,479 (100.0%) of 46,479 articles have been extended.
+46,482 (100.0%) of 46,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Women under 19: Sri Lanka's second win against New Zealand
+
+*2024-09-27 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194877) · `ta`
+
+Sri Lanka's under-19 women's cricket team defeated New Zealand by 7 runs. Key contributors were Manuthi Nanayakkara, Samodhi Praboda, and Pramudi Medsara. Sri Lanka scored 110/9 in 20 overs, while New Zealand replied with 103/6.
+
+🟩
+
+The under -19 women's cricket match was won by 7 runs in the under -19 women's cricket match against New Zealand on Thursday (26) at the Gold Coast Bill Bill Bill Bill Bill Bill Bill Bill Bill Bill Bill.
+
+The skilled bowling of the team leader Manuthi Nanayakkara, Samodhi Praboda and Pramudi Medsara played a major role in the success of the Sri Lankan team.
+
+Sri Lanka won New Zealand by 69 runs in last Friday's match between the two teams.
+
+The Sri Lankan women's team, under the age of 19, scored 110 runs for the loss of 9 wickets in 20 overs.
+
+Mani Nanayakkara scored 41 runs, Vimksha Balasuriya 24 runs and Tahami Sanethma scored 18 runs.
+
+Mani Nanayakkara and Tahami Sanethma shared 59 runs in the 5th wicket and strengthened the Sri Lankan team.
+
+In reply, the 19 -year -old New Zealand lost 6 wickets in 20 overs and lost only 103 runs.
+
+Eve Wolland scored 23 runs, Isabel Sharp 22 and Darcy Rose Prasad scored 18 runs.
+
+...
+
+[Data](articles/5e2b3fd8.json)
+
+[Extended Data](ext_articles/5e2b3fd8.ext.json)
+
+---
 
 ### Competition of all opposition parties in the same symbol?
 
@@ -57,6 +89,34 @@ Former members of the PA, led by former Prime Minister Dinesh Gunawardena and UN
 [Data](articles/ab687a7e.json)
 
 [Extended Data](ext_articles/ab687a7e.ext.json)
+
+---
+
+### AFC Asian Bowl Qualification (E. Group) under 20
+
+*2024-09-27 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194876) · `ta`
+
+Sri Lankan youth football team suffers heavy defeat in AFC Asian Bowl qualifiers, losing all 3 matches 0-4, 0-3, 0-3. Critics call for changes including goalkeeper replacement and reducing squad size.
+
+🟩
+
+The Sri Lankan youth team has suffered the worst defeats in the Asian Football Joint Federation (AFC) Asian Bowl qualifying round in Tajikistan.
+
+Sri Lanka has given 12 goals to the opponents in the 3 matches they played in the E. Group. But there was no goal on behalf of Sri Lanka.
+
+Although others continue to play in these three matches, they have not been able to make any progress.
+
+Sri Lankan instructor Rajamani Devasakayam, who has lost the chance to go to the next round, will be welcomed if they give the players a chance to the players in the seat so far.
+
+It is good for the instructor to think about giving a new goalkeeper opportunity as goalkeeper Ahmed Sharif has given up 12 goals. Football critics say there is no justification for taking 22 players and keeping some of them as mere spectators.
+
+Sri Lanka lost 0 - 4 in the first match with North Korea, 0 - 3 in Tajikistan and 0 - 3 in the third match yesterday.
+
+...
+
+[Data](articles/f6a4cd10.json)
+
+[Extended Data](ext_articles/f6a4cd10.ext.json)
 
 ---
 
@@ -1179,6 +1239,32 @@ The association's secretary Anurasiri Marasinghe said that the increase in produ
 [Data](articles/e15e1728.json)
 
 [Extended Data](ext_articles/e15e1728.ext.json)
+
+---
+
+### Former Parliamentarian Dayasiri Jayasekara
+
+*2024-09-26 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194858) · `ta`
+
+Former MP Dayasiri Jayasekara suggests leasing/selling unused state vehicles to generate revenue. He advises the current government to use this approach instead of organizing exhibitions. The United People's Alliance plans to contest the upcoming general election unitedly.
+
+🟩
+
+The vehicles that have been re -used by state officials are being held at the empty face.
+
+Former parliamentarian Dayasiri Jayasekara said that if these vehicles are not required, they can lease or sell them and earn an income for the Treasury.
+
+He further stated that he was speaking to the media after attending the event.
+
+We will contest the general election in the United People's Alliance. All those who voted for Sajith Premadasa in the presidential election will come together without any divisions and face the general election.
+
+Therefore, we are advising the current government to lease them and get income and go to three wheelers when going to public services, rather than conducting exhibitions to deceive the people.. He said these are temporary plays.
+
+◼️
+
+[Data](articles/c3a1c66a.json)
+
+[Extended Data](ext_articles/c3a1c66a.ext.json)
 
 ---
 
@@ -2373,77 +2459,5 @@ Israeli air strikes were killed in Israeli air strikes yesterday (25) and the to
 [Data](articles/bf4ad4b9.json)
 
 [Extended Data](ext_articles/bf4ad4b9.ext.json)
-
----
-
-### Dilum joined Dilith appointed National Organizer
-
-*2024-09-26 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201561) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dilum Amunugama, former State Minister, appointed National Organizer of Motherland People's Party.
-
-🟩
-
-Former State Minister Dilum Amunugama has been appointed as the National Organizer of the Motherland People's People's Party.
-
-◼️
-
-[Data](articles/2c031403.json)
-
-[Extended Data](ext_articles/2c031403.ext.json)
-
----
-
-### Dilum Amunugama appointed National Organiser of MJP
-
-*2024-09-26 12:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102277/dilum-amunugama-appointed-national-organiser-of-mjp) · `en`
-
-Former State Minister Dilum Amunugama has been officially appointed as the national organiser of the Mawbima Janatha Party (MJP).
-
-He received the appointment letter from the party leader, entrepreneur Dilith Jayaweera, at the MJP head office in Colombo.
-
-In a statement, Dilith Jayaweera emphasised the significance of the moment for the MJP, saying: “Today has become an important juncture for our party. Brother Dilum Amunugama joins us today as the national organiser of our party.”
-
-In a post on ‘X’ (formerly Twitter), Mr. Jayaweera said: “I warmly welcome Former Minister and Parliamentarian Dilum Amunugama as the National Organiser of the Mawbima Janatha Party.”
-
-“We are preparing for our next battle at the general election!”
-
-◼️
-
-[Data](articles/d5fa4838.json)
-
-[Extended Data](ext_articles/d5fa4838.ext.json)
-
----
-
-### Ella, arrested suspect in Kinalan area
-
-*2024-09-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194828) · `ta`
-
-Arrested suspect sets forest fire near Kinalan area. 32-year-old man caught trying to ignite another area. About 15 acres burned. Suspect to appear in court on Thursday.
-
-🟩
-
-A suspect has been arrested for setting fire to the forest near the Kinealan area in the Ella Police Division, police said.
-
-A man suspected of setting fire to the forest near the Kinalan area on the 24th was arrested yesterday (25) when a fire was set on fire, police said.
-
-A 32 -year -old man from Ella Gainlan estate has been arrested, police said.
-
-The suspect was arrested when he was further tried to set fire to a forest area while observing the suspect on confidential information that the suspect was setting fire to the forest areas, police said.
-
-About 15 acres of forest have been destroyed by a wild fire in the Kinalan area on the 24th, a disaster management official said.
-
-Ella police said that the suspect is being produced before the Bandarawela Magistrate's Court on Thursday (26).
-
-◼️
-
-[Data](articles/c9563906.json)
-
-[Extended Data](ext_articles/c9563906.ext.json)
 
 ---

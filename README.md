@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 11:58:26**
+As of **2024-09-26 12:13:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,362 (100.0%) of 46,363 articles have been extended.
+46,363 (100.0%) of 46,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2012,21 +2012,33 @@ It is noteworthy that the special speech has been prepared from 7.30 pm on TV Te
 
 ---
 
-### පාර්ලිමේන්තුව අලුත් වැඩියා කරනවා - පාර්ලිමේන්තු මහ ලේකම්
+### Parliament is being repaired - Parliamentary Secretary
 
 *2024-09-25 19:07:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අලුත්-වැඩියා-කරනවා---පාර්ලිමේන්තු-මහ-ලේකම්/11-412156) · `si`
 
-නව පාර්ලිමේන්තුව ආරම්භ කිරීමට තිබෙන මාස 02ක කාලය තුළ පාර්ලිමේන්තුවේ අලුත්වැඩියා කටයුතුවලට ප්‍රමුඛතාවය ලබා දෙන අතර, නව පාර්ලිමේන්තුව ආරම්භ කිරීම සඳහා වන කටයුතුද සිදු කරන බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසීය.
+Here's a 200-character summary:
 
-‘අද’ පුවත්පතට කළ විමසීමකට පිළිතුරු ලබා දෙමින් ඇය මේ බව සඳහන් කළාය.එහිදී වැඩිදුරටත් මහලේකම් කුෂානි රෝහණදීර මහත්මිය මෙලෙස අදහස් දක්වා සිටියාය.
 
-“පාර්ලිමේන්තුව විසුරවා හැරීම නිසා පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ ධුර අහෝසි වෙලා තියෙන්නේ. ඒ අනුව ඔවුන්ට පාර්මේන්තුවට ඇවිත් කටයුතු කිරීමට හැකියාවක් නෑ. නමුත් පාර්ලිමේන්තුවේ අපේ අනිත් දෙපාර්තමේන්තු, සියලු කාර්යාංශවල තිබෙන කටයුතු සිදු කරනවා. දැන් කාරක සභා රැස්වෙන්නෙත් නෑ.
 
-නව පාර්ලිමේන්තුව ආරම්භ වුණාම, ඒවා නැවත පිහිටුවන්න ඕනි. මේ කාලය තුළ අපි වැඩි අවධානයක් යොමු කරන්නේ පාර්ලිමේන්තුවේ අලුත්වැඩියා කටයුතු කරන්න. ඒක කරන ගමන් අලුත් පාර්ලිමේන්තු ආරම්භ කරන්න අපි සූදානම් වෙනවා. විශේෂයෙන්ම මහ මැතිවරණයකින් පසු රැස්වන පාර්ලිමේන්තුවේ ප්‍රථම කාර්ය තමයි ස්ථාවර නියෝග අනුව කථානායකවරයෙක් පත් කිරීම.
+Parliament repairs underway. New Parliament prioritized. Committees suspended. Focus on restoration. Speaker appointment first order. President's address planned. Roof work scheduled.
+
+🟩
+
+The Secretary General of Parliament Kushani Rohandera said that the new Parliament will be given priority in the new Parliament.
+
+She added this, he said:
+
+"The denomination of the Members of Parliament has been abolished due to the dissolution of parliament. They cannot come to the parliament. However, our other departments in Parliament are carrying out the activities of all Bureau. The committees will not meet.
+
+When the new Parliament begins, they have to restore. During this time, we pay more attention to the repair work of Parliament. We are ready to open the new parliamentary parliaments. Especially the first functions of the Parliament after a general election is the appointment of a Speaker as per Standing Orders.
+
+Also, before the newly appointed president was presented to Parliament before the dissolving parliament, he filed a statement to parliament. No celebration did anything. Accordingly, if the new president, the new Parliament begins, is preparing for it.
 
 ...
 
 [Data](articles/a3ca225e.json)
+
+[Extended Data](ext_articles/a3ca225e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 18:34:42**
+As of **2024-09-26 18:47:50**
 
 ## Newspaper Stats
 
-*Scraped **46,427** Articles*
+*Scraped **46,431** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,284
+adalk | 4,285
 dailymirrorlk | 4,733
-adaderanalk | 5,461
+adaderanalk | 5,462
 tamilmirrorlk | 6,224
 virakesarilk | 7,420
-adaderanasinhalalk | 8,019
+adaderanasinhalalk | 8,021
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,427 (100.0%) of 46,427 articles have been extended.
+46,427 (100.0%) of 46,431 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Kamindu Mendis sets historic world record in 8th Test match
+
+*2024-09-26 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102284/kamindu-mendis-sets-historic-world-record-in-8th-test-match) · `en`
+
+In a remarkable achievement, Kamindu Mendis has become the first-ever player to slam fifty-plus scores in eight consecutive Test matches.
+
+The stylish southpaw attained the phenomenal batting feat during Sri Lanka’s ongoing Test match against New Zealand at Galle International Stadium.
+
+Coming at number five, Kamindu Mendis showcased exemplary skills to notch up his fourth half-century in Test cricket.
+
+After Sri Lankan captain Dhananjaya de Silva won the toss and opted to bowl, the hosts had a disastrous start to their first innings, losing Pathum Nissanka cheaply.
+
+However, former skipper Dimuth Karunaratne and ace batter Dinesh Chandimal helped them recover from the early setback. The duo stitched a valuable stand of 122 runs for the second wicket before Karunaratne’s run out brought the Kiwis back into the game.
+
+...
+
+[Data](articles/709b57f1.json)
+
+---
+
+### කමිඳුගෙන් ලෝක වාර්තාවක්
+
+*2024-09-26 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201576) · `si`
+
+ආරම්භක තරගයේ සිට නොකඩවා තරග 8කදී ලකුණු 50 සීමාව පසු කළ ලොව පළමු පිතිකරු ලෙස වාර්තා අතරට එක්වීමට කමිඳු මෙන්ඩිස් අද සමත් විය.
+
+ඒ, නවසීලන්තයට එරෙහිව ගාල්ලේදී මේ වනවිට පැවැත්වෙන 02 වැනි ටෙස්ට් තරගයේදී ය.
+
+එම තරගයේ පළමුවෙන් පන්දුවට පහරදෙන ශ්‍රී ලංකා කණ්ඩායම මේ වනවිට කඩුලු 3ක් දැවී ලකුණු 306ක් ලබා සිටී.
+
+අද දිනයේ තරගය නතර කරන විට ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිමට කඩුලු 3ක් දැවී ලකුණු 306ක් ලබා තිබුණි.
+
+◼️
+
+[Data](articles/be833c77.json)
+
+---
+
+### ධීවර ප්‍රජාවට ඉන්ධන සහනාධාරයක්
+
+*2024-09-26 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201575) · `si`
+
+ධීවර ප්‍රජාව සඳහා ඉන්ධන සහනාධාරයක් ලබා දීමට ජනාධිපතිවරයා පියවර ගෙන තිබේ.
+
+ඒ අනුව එළඹෙන 01 වැනිදා සිට ක්‍රියාත්මක වන පරිදි ධීවර ප්‍රජාව වෙත මෙම ඉන්ධන සහනාධාරය ලබා දීමට ජනාධිපතිවරයා විසින් මහා භාණ්ඩාගාරය වෙත උපදෙස් ලබා දී තිබේ.
+
+මේ තුළින් බහුදින හා එක්දින යාත්‍රා සඳහා ඉන්ධන සහනාධාරය මාසික පදනමින් ලබා දීමට කටයුතු කෙරෙනු ඇත.
+
+සහනාධාරය සෘජුවම ධීවරයන්ගේ බැංකු ගිණුම් වෙත ප්‍රේෂණය කරන බව ජනාධිපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ සඳහන් ව තිබේ.
+
+අඩාල වී ඇති ධීවර කර්මාන්තය නඟා සිටුවා නිෂ්පාදන පිරිවැය අඩු කිරීමට මෙමගින් අපේක්ෂා කරන බව එම නිවේදනයේ සඳහන්ව ඇත.
+
+◼️
+
+[Data](articles/f2a12e56.json)
+
+---
 
 ### President directs to increase fertilizer subsidy for paddy farmers
 
@@ -419,6 +477,20 @@ However the official announcement.. The event will be revealed on the evening of
 [Data](articles/4333736e.json)
 
 [Extended Data](ext_articles/4333736e.ext.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් සමාගමේ සභාපති ඉල්ලා අස්වෙයි - හේතුව මෙන්න
+
+*2024-09-26 16:35:15* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-සමාගමේ-සභාපති-ඉල්ලා-අස්වෙයි---හේතුව-මෙන්න/11-412168) · `si`
+
+ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා සිය තනතුරින් ඉල්ලා අස්වී තිබේ.
+
+මුදල් අමාත්‍යාංශය හරහා නව සභාපතිවරයෙකු පත් කළ බවට ලැබුණු පණිවිඩයත් සමග මෙම තීරණය ගත් බව අද(26දා) මාධ්‍ය වෙත අදහස් පළ කරමින් හෙතෙම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/06cb5572.json)
 
 ---
 
@@ -2403,83 +2475,5 @@ Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed ov
 [Data](articles/88bf2b76.json)
 
 [Extended Data](ext_articles/88bf2b76.ext.json)
-
----
-
-### Government departments and people should cooperate- Elections Commission
-
-*2024-09-26 03:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194813) · `ta`
-
-Elections Commission calls for cooperation between government departments and citizens for upcoming general election. Commissioner Saman Sri Ratnayake emphasizes collaboration similar to presidential election. Nomination period set for October 2024. Referendum scheduled for November 14, 2024. Election process to follow legal guidelines and previous presidential election precedents.
-
-🟩
-
-We will publish circular issues today or tomorrow. Elections Commissioner Saman Sri Ratnayake said that we are expecting the cooperation of the state sector and the people of the country to hold a general election as it cooperated with the presidential election.
-
-He made this statement during a media briefing held at the Elections Commission's office on Wednesday (26).
-
-According to Article 70 of the Constitution, the 9th Parliament was dissolved yesterday (Tuesday) in accordance with Article 10 of the Parliamentary Election Act No. 1, 1981.
-
-...
-
-[Data](articles/bcde5e6f.json)
-
-[Extended Data](ext_articles/bcde5e6f.ext.json)
-
----
-
-### Galamuduna: The villagers who went to the polls, crossing the mountains, crosses
-
-*2024-09-26 02:36:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gl6x68g0ko) · `si`
-
-Villagers in remote Galamuduna Village braved harsh conditions to vote in presidential election. Limited access via single path. 36 families face infrastructure challenges and threats. Election officials reached village on polling day.
-
-🟩
-
-The people of Galamuduna Village, a very difficult village in the Kandy District, came to vote for the recent presidential election.
-
-There is only the only access way to this village. Dunagolla to Galamala. There is nearly 7. At present there are 36 families living.
-
-These people have been severely strict as there is no systematic infrastructure and transport facilities. The masses are constantly underlying the attacks and snakes of the people.
-
-The election officials came to the presidential election last day to the presidential election to the presidential election in Galamuduna Village.
-
-◼️
-
-[Data](articles/b1b2e29b.json)
-
-[Extended Data](ext_articles/b1b2e29b.ext.json)
-
----
-
-### Planters’ Association welcomes new President AKD; calls for collaborative efforts
-
-*2024-09-26 01:50:23* · [`dailyftlk`](https://www.ft.lk/business/Planters-Association-welcomes-new-President-AKD-calls-for-collaborative-efforts/34-767173) · `en`
-
-The Planters’ Association of Ceylon (PA) yesterday via a statement congratulated the National People’s Power (NPP) leader Anura Kumara Dissanayake on his election as the 9th Executive President of Sri Lanka and called for renewed collaboration to secure sustainable growth and livelihood empowerment within the plantation sector.
-
-The Association called on President Dissanayake to initiate a transformative era for the plantation industry by prioritising stakeholder engagement in policymaking, which is crucial for advancing sustainable development and fostering crop diversification. By actively involving all stakeholders, the Government can establish a comprehensive policy framework that bolsters the long-term viability and growth of the plantation sector.
-
-...
-
-[Data](articles/03f27267.json)
-
-[Extended Data](ext_articles/03f27267.ext.json)
-
----
-
-### President holds discussion with CBSL Governor and Finance Secretary
-
-*2024-09-26 01:48:58* · [`dailyftlk`](https://www.ft.lk/business/President-holds-discussion-with-CBSL-Governor-and-Finance-Secretary/34-767172) · `en`
-
-President Anura Kumara Dissanayake met with the Central Bank of Sri Lanka (CBSL) Governor Dr. Nandalal Weerasinghe and Treasury Secretary Mahinda Siriwardena on Wednesday.
-
-The current economic situation of the country was discussed at length during the meeting, according to the Department of Government Information. It added that measures to stabilise the economy and several issues affecting the country’s economy were also discussed.
-
-◼️
-
-[Data](articles/8667a72a.json)
-
-[Extended Data](ext_articles/8667a72a.ext.json)
 
 ---

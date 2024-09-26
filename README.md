@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 11:22:37**
+As of **2024-09-26 11:39:04**
 
 ## Newspaper Stats
 
-*Scraped **46,357** Articles*
+*Scraped **46,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,807
 dailyftlk | 3,091
-adalk | 4,275
+adalk | 4,276
 dailymirrorlk | 4,733
-adaderanalk | 5,451
-tamilmirrorlk | 6,205
+adaderanalk | 5,452
+tamilmirrorlk | 6,206
 virakesarilk | 7,405
 adaderanasinhalalk | 8,006
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,357 (100.0%) of 46,357 articles have been extended.
+46,357 (100.0%) of 46,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### AG submits guidelines to SC for eradicating ragging in universities
+
+*2024-09-26 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102274/ag-submits-guidelines-to-sc-for-eradicating-ragging-in-universities) · `en`
+
+The Attorney General has informed the Supreme Court that a series of guidelines have been prepared to eliminate incidents of ragging in state universities.
+
+A fundamental rights petition filed by a student affected by a ragging incident at the University of Sri Jayewardenepura in 2020 was taken up before a three-member Supreme Court bench consisting of Chief Justice Jayantha Jayasuriya, and Justices Shiran Gunaratne and Priyantha Fernando.
+
+The petition requested an order to prepare guidelines for eradicating ragging in state universities.
+
+Appearing on behalf of the Attorney General, Senior State Counsel Avanthi Perera stated before the court that a series of guidelines has been prepared to prevent ragging in state universities.
+
+The Chief Justice mentioned that the guidelines should be forwarded to all universities, and any proposed amendments should be incorporated into the final draft.
+
+The Chief Justice also ordered that steps be taken to prepare and file the final draft before the court.
+
+...
+
+[Data](articles/2977f1c2.json)
+
+---
 
 ### Basmati price change?
 
@@ -63,6 +85,28 @@ The world's highest quality Basmati rice is produced by India and Pakistan.
 [Data](articles/10b43569.json)
 
 [Extended Data](ext_articles/10b43569.ext.json)
+
+---
+
+### விபத்தில் இளம் தம்பதி பலி
+
+*2024-09-26 10:40:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இளம்-தம்பதி-பலி/175-344495) · `ta`
+
+அக்குரஸ்ஸ சியம்பலாகொட - பிடபெத்தர வீதியில் போபகொட சந்திக்கு அருகில் புதன்கிழமை (26) மாலை இடம்பெற்ற வாகன விபத்தில் பாடசாலை ஆசிரியை ஒருவரும் அவரது கணவரும் உயிரிழந்துள்ளதாக அக்குரஸ்ஸ பொலிஸார் தெரிவிக்கின்றனர்.
+
+பிடபெத்தரை, மெதிரிபிட்டிய பாடசாலையில் கிடைத்த பரிசில்களுடன் மோட்டார் சைக்கிளில் மகதுரையில் உள்ள தமது வீட்டை நோக்கி கணவருடன் பயணித்துள்ளனர்.
+
+பிடபெத்தரவை சேர்ந்த வர்த்தகர் ஒருவர் தனது சொகுசு வேனில் அக்குரஸ்ஸ பகுதியிலிருந்து பிடபெத்தரை நோக்கி பயணித்த போது வேனை கவிழ்த்து அருகில் உள்ள மண்ணில் மோதி விபத்துக்குள்ளாகியுள்ளனர்.
+
+உயிரிழந்தவர்கள் மகடூர பிரதேசத்தைச் சேர்ந்த 28 வயதான பாக்யா பொரலஸ்ஸ மற்றும் அவரது கணவர் இந்திக்க சம்பத் என அடையாளம் காணப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகத்திற்குரிய வர்த்தக சாரதியை பொலிஸார் கைது செய்துள்ளதுடன், அவர் மதுபோதையில் இருந்தாரா என்பதை கண்டறிய விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+பாக்யாவின் சடலம் அக்குரஸ்ஸ வைத்தியசாலைக்கும், இந்திகவின் சடலம் கராப்பிட்டிய வைத்தியசாலைக்கும் கொண்டு செல்லப்பட்டுள்ளது. மேலும் உயிரிழந்த பாக்யா கர்ப்பமாக இருந்ததாக ​பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/11f02f84.json)
 
 ---
 
@@ -1898,6 +1942,24 @@ It is noteworthy that the special speech has been prepared from 7.30 pm on TV Te
 
 ---
 
+### පාර්ලිමේන්තුව අලුත් වැඩියා කරනවා - පාර්ලිමේන්තු මහ ලේකම්
+
+*2024-09-25 19:07:54* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අලුත්-වැඩියා-කරනවා---පාර්ලිමේන්තු-මහ-ලේකම්/11-412156) · `si`
+
+නව පාර්ලිමේන්තුව ආරම්භ කිරීමට තිබෙන මාස 02ක කාලය තුළ පාර්ලිමේන්තුවේ අලුත්වැඩියා කටයුතුවලට ප්‍රමුඛතාවය ලබා දෙන අතර, නව පාර්ලිමේන්තුව ආරම්භ කිරීම සඳහා වන කටයුතුද සිදු කරන බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසීය.
+
+‘අද’ පුවත්පතට කළ විමසීමකට පිළිතුරු ලබා දෙමින් ඇය මේ බව සඳහන් කළාය.එහිදී වැඩිදුරටත් මහලේකම් කුෂානි රෝහණදීර මහත්මිය මෙලෙස අදහස් දක්වා සිටියාය.
+
+“පාර්ලිමේන්තුව විසුරවා හැරීම නිසා පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ ධුර අහෝසි වෙලා තියෙන්නේ. ඒ අනුව ඔවුන්ට පාර්මේන්තුවට ඇවිත් කටයුතු කිරීමට හැකියාවක් නෑ. නමුත් පාර්ලිමේන්තුවේ අපේ අනිත් දෙපාර්තමේන්තු, සියලු කාර්යාංශවල තිබෙන කටයුතු සිදු කරනවා. දැන් කාරක සභා රැස්වෙන්නෙත් නෑ.
+
+නව පාර්ලිමේන්තුව ආරම්භ වුණාම, ඒවා නැවත පිහිටුවන්න ඕනි. මේ කාලය තුළ අපි වැඩි අවධානයක් යොමු කරන්නේ පාර්ලිමේන්තුවේ අලුත්වැඩියා කටයුතු කරන්න. ඒක කරන ගමන් අලුත් පාර්ලිමේන්තු ආරම්භ කරන්න අපි සූදානම් වෙනවා. විශේෂයෙන්ම මහ මැතිවරණයකින් පසු රැස්වන පාර්ලිමේන්තුවේ ප්‍රථම කාර්ය තමයි ස්ථාවර නියෝග අනුව කථානායකවරයෙක් පත් කිරීම.
+
+...
+
+[Data](articles/a3ca225e.json)
+
+---
+
 ### Two bribery police officers arrested
 
 *2024-09-25 19:00:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்ச-வாங்கிய-பொலிஸ்-அதிகாரிகள்-இருவர்-கைது/175-344458) · `ta`
@@ -2265,77 +2327,5 @@ He engaged in a fast unto death protest on 15 September 1987 and died after 12 d
 [Data](articles/1bf3811c.json)
 
 [Extended Data](ext_articles/1bf3811c.ext.json)
-
----
-
-### Interrogutation
-
-*2024-09-25 18:16:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடகுவைத்த-பெண்ணுக்கு-விளக்கமறியல்/76-344452) · `ta`
-
-Woman detained for selling fake jewelry arrested by Hatton police. She pawned gold-plated items from Colombo region. Police found many fake rings. Suspect has been making money fraudulently for long time.
-
-🟩
-
-The woman who took the money with gold plated and fake jewelery has been kept in detention until the 9th of this month at the behest of Hatton Magistrate M. Burukdeen.
-
-The woman, who was arrested by Hatton police on Tuesday (24), was produced before the Hatton Magistrate's Court on Wednesday (25).
-
-A 48 -year -old mother of the Weloya estate belonging to the Vattawala Police Division. He is the mother of three children.
-
-The suspicious woman working in the Colombo region has taken a mortgage from mortgage centers, public and private banks in major cities such as fake gold plated rings, panchayats and earrings.
-
-It is said that the fake jewelery has been prepared so that the pawnbroker is not even trapped in the mortgaged gold jewelery.
-
-Hatton police officers arrested the woman in the pawn shop on Hatton (25) on the basis of information provided to the Criminal Investigation Department of the Matton Police Hatton Police.
-
-...
-
-[Data](articles/a5f7e88c.json)
-
-[Extended Data](ext_articles/a5f7e88c.ext.json)
-
----
-
-### Sri Lanka to visit Sri Lanka
-
-*2024-09-25 18:08:19* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායෙල්-ඉදිකිරිම්-අංශයේ-රැකියා-රැසක්-ලංකාවට/11-412150) · `si`
-
-Sri Lanka: SLBFE offers jobs in Israel's construction sector. Positions available for 25-44 year-old Sri Lankans in wire cutters, tile masons, craftsmen, and carpenters. Apply via official SLBFE website. Recruitment scams reported; contact SLBFE directly for information.
-
-🟩
-
-Sri Lanka Bureau of Foreign Employment (SLBFE) says. It has been agreed to provide employment opportunities to Sri Lanka with a new trend of the construction sector in Israel.
-
-Accordingly, the Sri Lanka Bureau of Foreign Employment has received jobs in the fields of wire cemeters, Tile Mason, Craftsu Mason and Shutarin carpenters.. Between 25-44 years old, Sri Lankan workers can apply for this.
-
-These recruitments should only be filled with the official website of the Sri Bureau of Foreign Employment (SLBFE), www.slbfe.lk. The Bureau is not permitted by the Bureau or a person to recruit this recruitment, and the Bureau is not allowed to pay for it.. The Bureau also also requests the number of the Bureau 0112864241 to inform the Bureau's Special Investigation Division regarding people who request money.
-
-◼️
-
-[Data](articles/475a96fa.json)
-
-[Extended Data](ext_articles/475a96fa.ext.json)
-
----
-
-### 65 hours of water in Kandy
-
-*2024-09-25 18:02:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-65-மணிநேர-நீர்வெட்டு/76-344451) · `ta`
-
-Kandy residents face 65-hour water cutoff due to Polgola reservoir maintenance. Affected areas include Harispattu, Poojapitiya, Paththambara, and others. Water disruption starts midnight Friday 27th to Sunday 29th.
-
-🟩
-
-The Mahaweli Authority has said that 65 hours of water cut will be implemented in some parts of Kandy due to the maintenance work of the Polgola reservoir.
-
-The Achchara said that maintenance work is being carried out once in two years at the Polgola reservoir.Accordingly, the water cut will be implemented for 65 hours from midnight on Friday the 27th to the 29th.
-
-The Kandy Municipal Council borders will be implemented in the areas of Harispattu, Poojapitiya, Paththambara, Akuranai, Kundasalai Divisional Secretariat, Rajavella, Sirimalwatte, Ambitiya, Handana and Mawathagama areas.
-
-◼️
-
-[Data](articles/8ded0d28.json)
-
-[Extended Data](ext_articles/8ded0d28.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 22:24:29**
+As of **2024-09-26 22:38:30**
 
 ## Newspaper Stats
 
-*Scraped **46,458** Articles*
+*Scraped **46,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,291
+adalk | 4,292
 dailymirrorlk | 4,733
-adaderanalk | 5,464
+adaderanalk | 5,465
 tamilmirrorlk | 6,232
 virakesarilk | 7,427
-adaderanasinhalalk | 8,025
+adaderanasinhalalk | 8,026
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,458 (100.0%) of 46,458 articles have been extended.
+46,461 (100.0%) of 46,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### 660 million to lose the government
+
+*2024-09-26 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201581) · `si`
+
+Cigarettes, wheat flour seized at Orugodawatta Customs Yard. Estimated loss to government: Rs. 660 million. Smuggling attempt foiled, saving taxpayers money.
+
+🟩
+
+A large number of cigarettes, wheat flour and yellow pieces were found in the Orugodawatta Customs Yart.
+
+Customs Media Spokesperson Savithi Arukgoda says that the smoking costs Rs. 23 million and the consignment of Rs.
+
+He further stated that if the consignment entered the country, the government was Rs. 660 million.
+
+◼️
+
+[Data](articles/e7563cce.json)
+
+[Extended Data](ext_articles/e7563cce.ext.json)
+
+---
+
+### CID to probe ‘misuse’ of state-owned vehicles by previous govt
+
+*2024-09-26 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102287/cid-to-probe-misuse-of-state-owned-vehicles-by-previous-govt) · `en`
+
+President Anura Kumara Dissanayake has directed relevant officials to allocate the luxury vehicles used by previous governments exclusively for essential services, according to the President’s Private Secretary, Ananda Wijepala.
+
+Wijepala expressed regret over the misuse of public funds and emphasized that a full review will be conducted, with the public being informed of future actions.
+
+He made these remarks while speaking to the reporters today (26) at the Galle Face Grounds in Colombo, where updates on actions taken regarding the parked vehicles were shared, the President’s Media Division (PMD) stated.
+
+He further explained that the public money wasted by previous governments is symbolically represented by these vehicles parked there, noting that the current parking spaces at the Presidential Secretariat are insufficient to accommodate the vehicles.
+
+...
+
+[Data](articles/16044e4d.json)
+
+[Extended Data](ext_articles/16044e4d.ext.json)
+
+---
 
 ### Dilith Jayaweera for creating a great alliance
 
@@ -77,6 +119,38 @@ After the sworn in the new president, many vehicles used in different officials 
 [Data](articles/c73c067d.json)
 
 [Extended Data](ext_articles/c73c067d.ext.json)
+
+---
+
+### President decides of luxury vehicles
+
+*2024-09-26 21:17:50* · [`adalk`](https://www.ada.lk/breaking_news/සුඛෝපභෝගී-වාහන-ගැන-ජනපති-ගත්-තීරණය/11-412175) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake instructs officials to use luxury vehicles efficiently. Criticizes waste of public funds on vehicle imports and misuse. Announces investigation into missing vehicles. Emphasizes need to protect public wealth.
+
+🟩
+
+President instructs to provide luxury vehicles used by the government
+
+President Anura Kumara Dissanayake said that President Anura Kumara Dissanayake has instructed the relevant officials to use the latest services to the essential services to the essential services.
+
+It is also sad to waste the taxes of the people, and action will be taken to educate the public on the future measures.
+
+The Presidential Secretariat Ananda Wijepala was speaking at a media discussion held today (26) at the premises.
+
+He added that the number of waste of money was exposing the country by controlling the country, he added and the vehicle stops of the President's House are not sufficient to park the vehicles.
+
+He also emphasized that 107 vehicles were parked in several places, including the Galle Face and other places.. He said that the people of this country had continued to waste public wealth in the event of a time when the people of this country were unable to live everyday.
+
+...
+
+[Data](articles/19251413.json)
+
+[Extended Data](ext_articles/19251413.ext.json)
 
 ---
 
@@ -2397,129 +2471,5 @@ However, Japan has worried that such an notification has not been made. Foreign 
 [Data](articles/e310fef6.json)
 
 [Extended Data](ext_articles/e310fef6.ext.json)
-
----
-
-### A series of guidelines to prevent newly - informed the court
-
-*2024-09-26 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201556) · `si`
-
-Supreme Court guidelines prevent new events state universities. Attorney General informs court about prepared measures. Petitioner seeks justice for injuries sustained during university event.
-
-🟩
-
-The Attorney General has informed the Supreme Court that a series of guidelines have been prepared to eliminate newly in state universities.
-
-The three-member Supreme Court Judge Shiran Gunaratne and Priyantha Fernando have been summoned by a fundamental rights petition from the Sri Jayawardenapura University of Sri Jayawardenaph Jayasuriya, who has been admitted to a set of events in state universities..
-
-Deputy Solicitor General Dr. Amavan Perera, who appeared for the Attorney General, said that a series of guidelines have been prepared to prevent new events in state universities.
-
-The Chief Justice stated that if those guidelines were sent to all universities, the final draft would be taken.
-
-The Chief Justice has also ordered to adjust the finals in court.
-
-The petitioner says that the backdrop of the University of Sri Jayewardenepura has been severely injured and caused serious treatment for nearly three months.
-
-But the petitioner has shown that he has not been fully recovered.
-
-...
-
-[Data](articles/7710ff2f.json)
-
-[Extended Data](ext_articles/7710ff2f.ext.json)
-
----
-
-### From an armed youth rise to the executive: JVP from JVP to NPP
-
-*2024-09-26 10:15:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyl5468j61o) · `si`
-
-Based on the detailed historical context provided, I'll summarize the key points about the JVP's evolution and current stance:
-
-
-
-1. The JVP began as a patriotic movement in 1987, opposing the Indo-Lanka Accord.
-
-
-
-2. In the late 1980s, the JVP engaged in violent activities, leading to thousands of deaths and disappearances during the "88/89 Terrorist Period."
-
-
-
-3. After 2001, the JVP shifted towards supporting mainstream politicians, initially backing Chandrika Kumaratunga and later Mahinda Rajapaksa.
-
-
-
-4. In 2008, Wimal Weerawansa joined Mahinda Rajapaksa's government, causing internal conflicts within the JVP.
-
-
-
-5. In 2011, the party split due to internal conflicts, resulting in the formation of the Frontline Socialist Party.
-
-
-
-6. Anura Kumara Dissanayake became the JVP leader in 2014, replacing Somawansa Amarasinghe.
-
-
-
-7. In the 2019 presidential election, Anura Kumara Dissanayake ran as an independent candidate under the slogan "Outbreak of Power."
-
-
-
-8. The JVP continues to advocate for socialist concepts and nationalism, though their strategies have evolved over time.
-
-
-
-9. Currently, the party is involved in protests against the government and supports left-wing ideologies.
-
-
-
-10. The JVP maintains anti-imperialist stances and has criticized foreign interventions in Sri Lanka's politics.
-
-
-
-This summary highlights the JVP's transformation from a radical armed group to a political party with shifting alliances and evolving ideologies over the years.
-
-🟩
-
-From an armed youth rise to the executive: JVP from JVP to NPP
-
-The Presidential Election ended with the first left vote president with the first left vote to be elected in the history of Sri Lanka.
-
-Leader of the JVP and the National JVP and the National JVP won the presidential election after the second time.
-
-The JVP is a leadership party in two youths in Sri Lanka with a democratic election from catching state power from catching state power and have passed their political force for nearly six decades.
-
-Message to the New President and the 'Missingly Conquest' of the IMF Prof. Projected Executive President of Sri Lanka: As the Prime Minister of Sri Lanka, Sri Lanka
-
-The youth of the Soviet Universities of the Soviet Universe after October 25, 1917 became a scholarship and learned to study the Chinese Revolution, and learned the Chinese Communist.
-
-...
-
-[Data](articles/ec4eee06.json)
-
-[Extended Data](ext_articles/ec4eee06.ext.json)
-
----
-
-### Ranil ready to mess up the puddle again…?
-
-*2024-09-26 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194811) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former President Ranil Wickremesinghe, 75, seeks to influence UNP's parliamentary campaign strategy despite announcing retirement. His efforts to secure party leadership and electoral seats face resistance from Sajith Premadasa.
-
-🟩
-
-Former President Ranil Wickremesinghe, who is currently 75 years old, has held responsibility for the Prime Minister, Opposition Leader and President. There is a great deal of diplomat and political experience that he should be a good political adviser to the younger ones.. But he has announced that he will not contest the elections and plans to field the United National Party in parliamentary elections and get seats.. Despite his request to work with Sajith, Sajith has rejected his request due to his stubbornness that the UNP leadership should be responsible.However, reports say that he can bring his colleagues into parliament and engage in the rituals that pressure the administration of Anurakumara.
-
-...
-
-[Data](articles/919c8adb.json)
-
-[Extended Data](ext_articles/919c8adb.ext.json)
 
 ---

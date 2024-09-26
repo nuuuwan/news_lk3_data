@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 16:22:48**
+As of **2024-09-26 16:38:23**
 
 ## Newspaper Stats
 
-*Scraped **46,394** Articles*
+*Scraped **46,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 4,283
 dailymirrorlk | 4,733
 adaderanalk | 5,458
 tamilmirrorlk | 6,214
-virakesarilk | 7,405
-adaderanasinhalalk | 8,015
+virakesarilk | 7,415
+adaderanasinhalalk | 8,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,391 (100.0%) of 46,394 articles have been extended.
+46,398 (100.0%) of 46,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### MJP Do the Strongest Party in Sri Lanka - Dilum
+
+*2024-09-26 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201569) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dilum Amunugama named national organizer for Mawbima People's Party. Leader Dilith Jayaweera calls it crucial step. Goal: Make party strongest in Sri Lanka.
+
+🟩
+
+Former State Minister Dilum Amunugama appointed his new national organizer to make Mawbima People's Party into Sri Lanka's strongest party.
+
+Dilum Amunugama was appointed as the National Organizer of the Motherland People's People's Party.
+
+Speaking at the meeting, the leader of the Motherland People's Party, entrepreneral Dilith Jayaweera said that today is an important milestone.
+
+"Our Allied Dilum Amunugama brother is associated with us today as national organizer."
+
+"We have now been released.. Ricture who we should do politics with. Accordingly, a letter to the Secretary of the Sri Lanka General Front informed the party I would leave the party. I referred the letter this morning. Maybe it's not yet. "
+
+"I decided to take responsibility to the national organizer to strengthen the party.. This is the objective of making this party the most strong party in Sri Lanka. "
+
+◼️
+
+[Data](articles/15e787a4.json)
+
+[Extended Data](ext_articles/15e787a4.ext.json)
+
+---
 
 ### Sufficient fuel reserves available for national consumption – officials inform President
 
@@ -46,27 +78,87 @@ During the meeting held today (26) with Ministry officials, President Dissanayak
 
 [Data](articles/3a468fb4.json)
 
+[Extended Data](ext_articles/3a468fb4.ext.json)
+
 ---
 
-### ගුවන් මගීන්ගේ භාණ්ඩ සොරාගත් ගුවන්තොටුපොළ සේවකයෙකු අත්අඩංගුවට
+### AMPMP of Rural, Urban Development, Housing and Construction Ministry. Appointment!
+
+*2024-09-26 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/194845) · `ta`
+
+New Secretary appointed to Ministry of Rural, Urban Development, Housing and Construction. He has extensive experience in Treasury and previously served as Senior Superintendent. Also serves as Secretary to Ministry of Commerce and Food Security. Holds degrees from local and international universities.
+
+🟩
+
+The new secretary of the Ministry of Rural and Urban Development, Housing and Construction took over his post.
+
+AMPMP of the Ministry of Rural and Urban Development, Housing and Construction. At the office of his office in Sethsiripaya, Battaramulla, on Wednesday (25).
+
+He has had more than 26 years of service experience in different categories of the Treasury and has previously served as the president's senior superintendent.
+
+He is also the Secretary to the Ministry of Commerce and Food Security.
+
+He holds the Degree of Management of the University of Jayawardenapura, the Degree on the International Development of the University of Filinders, Australia, Diploma in the Degree of the Economic Development of the University of Colombo, and the Development Economic Institute of Japan Development Economic Institute.
+
+◼️
+
+[Data](articles/5d676ad4.json)
+
+[Extended Data](ext_articles/5d676ad4.ext.json)
+
+---
+
+### Theft of passengers at the airport;Arrest of an employee
+
+*2024-09-26 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/194844) · `ta`
+
+Airport theft: Employee caught stealing valuables from travelers. Security footage confirms allegations. Investigations ongoing.
+
+🟩
+
+Katunayake airport police have arrested a airport employee for allegedly stealing valuable items from passengers traveling to Katunayake airport.
+
+A SriLankan Airlines employee has been arrested in the Katunayake airport's travel package savings unit.
+
+The suspect has been recorded on a security camera at the Katunayake airport, police said.
+
+SriLankan Airlines and Katunayake Airport have received several complaints for a long time that the value of passengers visiting Katunayake airport is being stolen.
+
+Further investigations are being carried out by the Katunayake airport police.
+
+◼️
+
+[Data](articles/d6188e1a.json)
+
+[Extended Data](ext_articles/d6188e1a.ext.json)
+
+---
+
+### Airport worker arrested for stealing passengers
 
 *2024-09-26 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201568) · `si`
 
-කටුනායක ගුවන්තොටුපොළ වෙත පැමිණෙන ගුවන් මගීන්ගේ ගමන් මලු විවෘත කර ඒවා තුළ ඇති භාණ්ඩ සොරා ගත්  ගුවන්තොටුපොළ සේවකයෙකු ගුවන්තොටුපළ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Airport worker arrested for theft: Opened passenger bags at Katunayake airport. SriLankan Airlines reported missing items. Police investigation ongoing.
 
-සැකකරු ගමන් මලු ගබඩා අංගනයේ සේවය කළ ශ්‍රී ලංකන් ගුවන් සේවයේ සේවකයෙකි.
+🟩
 
-මැලේසියාවේ සිට පසුගිය 23දා කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි ගුවන් යානයක මගීන්ගේ ගමන් මලු තිබූ ගුවන්තොටුපොළ ගමන් මලු අංගනය වෙත රහසිගතව ඇතුළු වී ගමන් මලු විවෘත කර එහි තිබූ භාණ්ඩ සොරා ගන්නා ආකාරය  ආරක්ෂිත කැමරා පද්ධතිය තුළ සටහන්ව තිබුණි.
+Airports worker has been arrested by a airport worker who opened the passenger baggage at the Katunayake airport.
 
-කැමරා දර්ශන නිරීක්ෂණය කළ ශ්‍රී ලංකන් ගුවන් සේවයේ විමර්ශන අංශයේ නිලධාරීන් මොහු පිළිබඳ තොරතුරු කටුනායක ගුවන්තොටුපොළ පොලීසිය වෙත ලබා දීමෙන් පසු මෙම අත්අඩංගුවට ගැනීම සිදු කර තිබේ.
+SriLankan Airlines worked in the baggage storage yard.
 
-දීර්ඝ කාලයක් පුරාවට මේ ආකාරයට ගුවන් මගීන්ගේ ගමන් මලු තුළ ඇති භාණ්ඩ අතුරුදන් වී ඇති බවට පැමිණිළි ශ්‍රී ලංකන් ගුවන් සේවය සහ කටුනායක ගුවන්තොටුපොළ වෙත ලැබී තිබූ අතර, ඔවුන් මේ පිළිබඳව විමසිලිමත්ව සිටීම හේතුවෙන් මෙම සේවකයා අත් අඩංගුවට ගැනීමට හැකිව ඇත.
+From Malaysia to the Katunayake Airport on Tuesday, the airport in the airport in a plane to Katunayake on the 23rd and opened the baggage in the safe camera system.
 
-කටුනායක ගුවන්තොටුපොළ පොලිසිය මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති.
+The arrest was made after the officers were delivered to the Katunayake Airport Police who inspected the cameras.
+
+SriLankan Airlines also received the disappearance of goods in the passenger baggage in this way, and the Katunayake airport had been arrested as they were inquiry.
+
+Katunayake Airport Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/f3d9b8e3.json)
+
+[Extended Data](ext_articles/f3d9b8e3.ext.json)
 
 ---
 
@@ -97,6 +189,74 @@ Accordingly, a committee is expected to appoint a committee to grant approval wi
 [Data](articles/c6de74d8.json)
 
 [Extended Data](ext_articles/c6de74d8.ext.json)
+
+---
+
+### Resigns with Litro gas company president
+
+*2024-09-26 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194849) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Litro gas company appoints Muditha Peiris as president on June 13, 2022. He previously managed Government-owned LP Gas Distribution Company and leads Litro Gas Lanka Ltd and Litro Gas Terminal Lanka (PVT) Ltd.
+
+🟩
+
+On June 13, 2022, Muditha Peiris was appointed president of Litro.
+
+Prior to that, he served as the Managing Director of the Government -owned LP Gas Distribution Company.
+
+He is also the Managing Director of Litro Gas Lanka Lanka Ltd and Litro Gas Terminal Lanka (PVT) Ltd.
+
+◼️
+
+[Data](articles/392f31f2.json)
+
+[Extended Data](ext_articles/392f31f2.ext.json)
+
+---
+
+### The Sri Lankan people expect serious changes under the new president - al -Jazeera
+
+*2024-09-26 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/194846) · `ta`
+
+Sri Lankans expect significant changes under new president Anura Kumara Dissanayake. He won support from protesters who removed former president Gotabhaya Rajapakse. Dissanayake faces challenges addressing Tamil minority grievances and resolving ethnic divisions. His victory marks a shift away from traditional elite rule, similar to 1956 when S.W.R.D. Bandaranaike seized power.
+
+🟩
+
+Dilsan Jayasanga says that the success of Sri Lanka in the crisis is the new beginning of the vigorous path.
+
+Two years ago, he went to the area where the Kota Ko Kom demonstration was held.
+
+The demonstrations were held with the intention of removing the then President Gotabhaya Rajapakse.
+
+Following the closure of the hotel, he began to go to the demonstration areas after being closed.
+
+Jayasanka told Al Jazeera that many of the non -partisans who participated in the Arakalaya are currently under the power of the national people.He made this statement the day after Anuragumara Dissanayake was sworn in as president.
+
+When Dissanayake took office at the office opposite the Gallemukhaitam, I think this is the most favorable thing for our country. Jayasanka, who fought for the country that spent several weeks in the Galle Face in 2022. "
+
+...
+
+[Data](articles/61253e40.json)
+
+[Extended Data](ext_articles/61253e40.ext.json)
+
+---
+
+### மௌபிம ஜனதா கட்சியின் தேசிய அமைப்பாளராக திலும் அமுனுகம நியமனம்
+
+*2024-09-26 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194835) · `ta`
+
+மௌபிம ஜனதா கட்சியின் தேசிய அமைப்பாளராக  முன்னாள் இராஜாங்க அமைச்சர் திலும் அமுனுகம நியமிக்கப்பட்டுள்ளார்.
+
+இன்று வியாழக்கிழமை (26) மௌபிம ஜனதா கட்சியின் தலைவர் திலித் ஜெயவீர நியமனக் கடிதத்தை திலும் அமுனுகமவுக்கு வழங்கியுள்ளார்.
+
+◼️
+
+[Data](articles/d62c3a59.json)
 
 ---
 
@@ -165,6 +325,22 @@ Dinesh Chandimal scored a few moments before the New Zealand team.
 [Data](articles/a159d248.json)
 
 [Extended Data](ext_articles/a159d248.ext.json)
+
+---
+
+### நுவரெலியாவில் முச்சக்கரவண்டி - லொறி மோதி விபத்து - ஒருவர் பலி
+
+*2024-09-26 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194839) · `ta`
+
+நுவரெலியா பொலிஸ் பிரிவிற்குட்பட்ட நுவரெலியா - பதுளை பிரதான வீதியில் மதுர கணபதி ஆலயத்திற்கு அருகாமையில், முச்சக்கரவண்டியும் லொறி ஒன்றும் நேருக்கு நேர் மோதியதில் முச்சக்கரவண்டி சாரதி படுகாயமடைந்த நிலையில் நேற்று புதன்கிழமை (25) நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+
+விபத்தில் உயிரிழந்த முச்சக்கரவண்டி சாரதி நுவரெலியா கலுகெல பகுதியைச் சேர்ந்த (29) வயதுடையவர் என தெரியவந்துள்ளது.
+
+மேலும், இந்த விபத்தில் முச்சக்கரவண்டி பாரியளவில் சேதமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர். விபத்துடன் தொடர்புடைய  லொறியின் சாரதி கைது செய்யப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை நுவரெலியா பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/b20a4651.json)
 
 ---
 
@@ -366,6 +542,50 @@ He also said that there will be no shortage of gas until December 31st.
 
 ---
 
+### தமிழ் மக்களின் நீண்டகால துயரங்களுக்கு தீர்வு காண்பதற்கு அனுரகுமார நடவடிக்கை எடுப்பார் என எதிர்பார்க்கின்றோம்.- உலக தமிழர் பேரவை
+
+*2024-09-26 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194832) · `ta`
+
+தமிழ் மக்கள் சொந்த நாட்டில் இரண்டாம்தர பிரஜைகள் போல உணர்வதற்கு காரணமான நீண்ட கால துயரங்களிற்கு தீர்வை காண்பதற்கு ஜனாதிபதி அனுரகுமாரதிசநாயக்க அர்த்தபூர்வமன நடவடிக்கைகளை எடுப்பார் என எதிர்பார்க்கின்றோம் என உலகதமிழர் பேரவை தெரிவித்துள்ளது.
+
+சாதாரண பின்னணியில் ஆரம்பித்து தனது  அரசியல் வாழ்க்கை முழுவதும் சாதாரண பொதுமக்களின் நபராக விளங்கிய அனுரகுமாரதிசநாயக்கவின் அரசியல் பயணம் அவரது சாதனைகள் அனைத்து பின்னணியை சேர்ந்த இளைஞர்களும் பெரும் கனவு காணதூண்டும்.
+
+புதிய பிரதமராக நியமிக்கப்பட்டுள்ள ஹரிணி அமரசூரியவிற்கும் நாங்கள் எங்கள் வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றோம், இலங்கையின் வரலாற்றில் மூன்றாவது பெண் பிரதமர்.
+
+தேர்தலும் அதிகாரமாற்றமும் அமைதியான முறையில் இடம்பெற்றமை குறித்து திருப்தியடைகின்றோம்,இதன் மூலம் பல உலகநாடுகள் பின்பற்றவேண்டிய முன்னுதாரணமாக திகழ்ந்துள்ளது.
+
+தேர்தல் பிரச்சாரம் பெருமளவிற்கு இனமத பேரினவாத கருத்துக்கள் அற்றதாக காணப்பட்டது என்பதை நாங்கள் ஏற்றுக்கொள்கின்றோம்,இது  எதிர்காலத்திற்கான முன்னுதாரணமாக விளங்கும் என எதிர்பார்க்கின்றோம் .
+
+...
+
+[Data](articles/9de0385e.json)
+
+---
+
+### கிழக்கு ஆளுநராக ஜயந்தலால் ரத்னசேகர கடமைகளை பொறுப்பேற்றார்
+
+*2024-09-26 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194834) · `ta`
+
+கிழக்கு மாகாண ஆளுநராக ஜயந்த லால் ரத்னசேகர திருகோணமலையில் உள்ள ஆளுனர் செயலகத்தில் இன்று வியாழக்கிழமை (26) தனது கடமைகளை உத்தியோகபூர்வமாக பொறுப்பேற்றுக் கொண்டார்.
+
+ஊவா வெல்லஸ்ஸ பல்கலைக்கழகத்தின் துணைவேந்தராக செயற்பட்டுள்ள  இவர் கந்தளாய் அக்ரபோதி வித்தியாலய பழைய மாணவருமாவார்.
+
+இவர் இலங்கையின் ஊவா வெல்லஸ்ஸ பல்கலைக்கழகத்தின் துணைவேந்தராக 2017 பெப்ரவரி முதல் நவம்பர் 2023 வரை பணியாற்றியுள்ளார்.
+
+தனது ஆரம்பக் கல்வி கந்தளாயில் உள்ள அக்ரபோதி வித்தியாலயத்திலும், இடைநிலைக் கல்வியை கொழும்பு நாலந்தா கல்லூரியிலும் (1972-1980) கற்றார். அத்துடன் ரஷ்யாவின் மக்கள் நட்பு பல்கலைக்கழகத்தில் பட்டம் பெற்றார்.
+
+1988 இல் வேதியியலில் ஹானர்ஸ் பட்டம் பெற்றார். 1993 இல் அவர் வேதியியலில் தனது முனைவர் பட்டத்தைப் பெற்றார்.
+
+1996 ஆகஸ்ட் மாதம் இலங்கை ரஜரட்ட பல்கலைக்கழகத்தில் சிரேஷ்ட விரிவுரையாளராக சேர்ந்து 2018 இல் வேதியியலில் பேராசிரியராக பதவி உயர்வு பெற்றார்.
+
+மற்றும் 1999 முதல் 2005 வரை பயன்பாட்டு அறிவியல் பீடத்தின் உபவேந்தராகவும் பணியாற்றினார்
+
+...
+
+[Data](articles/90eaddb1.json)
+
+---
+
 ### Dilum Amunugama appointed national organizer
 
 *2024-09-26 13:24:21* · [`adalk`](https://www.ada.lk/breaking_news/දිලුම්-අමුණුගමට-ජාතික-සංවිධායක-ධුරයක්/11-412163) · `si`
@@ -383,6 +603,24 @@ Accordingly, he has been appointed as the National Organizer of the Mawlanda Peo
 [Data](articles/b526c64d.json)
 
 [Extended Data](ext_articles/b526c64d.ext.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல்களை மேற்கொண்டவர்களிற்கு இராணுவபுலனாய்வு பிரிவினர் நிதிஉதவி ? முழுமையான விசாரணைகள் இடம்பெறவேண்டும் என சிஐடியின் முன்னாள் இயக்குநர் வேண்டுகோள்
+
+*2024-09-26 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194837) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பிலும் அதன் பின்னர் இடம்பெற்ற விசாரணைகள் தொடர்பிலும் சிஐடியின் முன்னாள் இயக்குநர் ஷானி அபயசேகர அதிர்ச்சி தகவல்களை வெளியிட்டுள்ளார்.
+
+பத்திரிகையாளர் சுனந்த தேசப்பிரியவின் நூல் வெளியீட்டின் பின்னர் உரையாற்றுகையில் அவர் இந்த விடயங்களை தெரிவித்துள்ளார்.
+
+விசாரணைகளின் முக்கிய தருணங்களின் போது இராணுவபுலனாய்வாளர்கள் சிஐடியினரை தவறாக வழிநடத்தினார்கள் என தெரிவித்துள்ள அவர் புலனாய்வு அமைப்புகளிற்கும் தாக்குதல்களை மேற்கொண்டவர்களிற்கும் இடையில் நிதி தொடர்புகள் காணப்பட்டிருக்கலாம் என பாரதூரமான கரிசனையை வெளியிட்டுள்ளார்.
+
+2019 ஏப்பிரல் 21ம் திகதி 250 பேரை பலிகொண்ட தாக்குதல் தனித்த ஒரு சம்பவம் அல்ல,  நன்கு திட்டமிடப்பட்டு முன்னெடுக்கப்பட்ட ஒன்று,உன தெரிவித்துள்ள அவர் விசாரணைகளின் போது இராணுவபுலானய்வு பிரிவினர் இரண்டு தடவை விசாரணையாளர்களை தவறாக வழிநடத்த முயன்றனர் என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/a51662bd.json)
 
 ---
 
@@ -448,13 +686,33 @@ In a post on ‘X’ (formerly Twitter), Mr. Jayaweera said: “I warmly welcome
 
 “We are preparing for our next battle at the general election!”
 
-I warmly welcome Former Minister and Parliamentarian Dilum Amunugama @amunugama_dilum as the National Organiser of the Mawbima Janatha Party. We are preparing for our next battle at the general election! pic.twitter.com/vk2E2xmjaV
-
 ◼️
 
 [Data](articles/d5fa4838.json)
 
 [Extended Data](ext_articles/d5fa4838.ext.json)
+
+---
+
+### எல்ல, கினலன் பகுதியில் காட்டுக்கு தீ வைத்த சந்தேகநபர் கைது !
+
+*2024-09-26 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194828) · `ta`
+
+எல்ல பொலிஸ் பிரிவில் கினலன் பகுதிக்கு அருகில் காட்டுக்கு தீ  வைத்த சந்தேகநபர் ஒருவரர் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடந்த 24  ஆம் திகதி கினலன் பகுதிக்கு  அருகில் காட்டுக்கு தீ  வைத்ததாக சந்தேகிக்கப்படும் நபர் ஒருவர் நேற்று புதன்கிழமை ( 25) மேலும் ஒரு காட்டுப் பகுதிக்கு தீ வைக்க முற்பட்ட போது கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+எல்ல கினலன் தோட்டத்தை சேர்ந்த 32 வயதுடைய ஒருவரே கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர் வனப்பகுதிகளுக்கு தீ வைப்பதாக  கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய சந்தேக நபரை அவதானித்து போது அவர் மேலும் வனப்பகுதி ஒன்றுக்கு தீ வைக்க முற்பட்ட போது கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடந்த 24 ஆம் திகதி கினலன் பகுதியில் காட்டு தீயினால் சுமார் 15 ஏக்கர் காடு எறிந்து நாசமாகி உள்ளதாக அனர்த்த முகாமைத்துவ அதிகாரி ஒருவர் தெரிவித்தார்.
+
+சந்தேக நபரை இன்று வியாழக்கிழமை (26) பண்டாரவளை நீதிவான் நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக எல்ல பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c9563906.json)
 
 ---
 
@@ -850,6 +1108,28 @@ IMF නව ජනපතිට දුන් පණිවුඩය සහ ඔහ�
 
 ---
 
+### Ranil ready to mess up the puddle again…?
+
+*2024-09-26 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194811) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former President Ranil Wickremesinghe, 75, seeks to influence UNP's parliamentary campaign strategy despite announcing retirement. His efforts to secure party leadership and electoral seats face resistance from Sajith Premadasa.
+
+🟩
+
+Former President Ranil Wickremesinghe, who is currently 75 years old, has held responsibility for the Prime Minister, Opposition Leader and President. There is a great deal of diplomat and political experience that he should be a good political adviser to the younger ones.. But he has announced that he will not contest the elections and plans to field the United National Party in parliamentary elections and get seats.. Despite his request to work with Sajith, Sajith has rejected his request due to his stubbornness that the UNP leadership should be responsible.However, reports say that he can bring his colleagues into parliament and engage in the rituals that pressure the administration of Anurakumara.
+
+...
+
+[Data](articles/919c8adb.json)
+
+[Extended Data](ext_articles/919c8adb.ext.json)
+
+---
+
 ### The price of bakery products should be reduced - Consumer Officers Authority
 
 *2024-09-26 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/194817) · `ta`
@@ -995,28 +1275,6 @@ He further emphasized that steps should be taken to pass this benefit on to cons
 [Data](articles/2ef3e854.json)
 
 [Extended Data](ext_articles/2ef3e854.ext.json)
-
----
-
-### Ranil ready to mess up the puddle again…?
-
-*2024-09-26 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194811) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former President Ranil Wickremesinghe, 75, seeks to influence UNP's parliamentary campaign strategy despite announcing retirement. His efforts to secure party leadership and electoral seats face resistance from Sajith Premadasa.
-
-🟩
-
-Former President Ranil Wickremesinghe, who is currently 75 years old, has held responsibility for the Prime Minister, Opposition Leader and President. There is a great deal of diplomat and political experience that he should be a good political adviser to the younger ones.. But he has announced that he will not contest the elections and plans to field the United National Party in parliamentary elections and get seats.. Despite his request to work with Sajith, Sajith has rejected his request due to his stubbornness that the UNP leadership should be responsible.However, reports say that he can bring his colleagues into parliament and engage in the rituals that pressure the administration of Anurakumara.
-
-...
-
-[Data](articles/919c8adb.json)
-
-[Extended Data](ext_articles/919c8adb.ext.json)
 
 ---
 
@@ -2021,257 +2279,5 @@ The arithmetic clearly tells us that it was Ranil Wickremesinghe’s ‘dog-in-t
 [Data](articles/69edf500.json)
 
 [Extended Data](ext_articles/69edf500.ext.json)
-
----
-
-### Sri Lanka’s credit risks could stay ‘elevated’ for some time - Moody’s
-
-*2024-09-25 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102269/sri-lankas-credit-risks-could-stay-elevated-for-some-time-moodys) · `en`
-
-Pledges by Sri Lanka’s new President Anura Kumara Dissanayake to cut taxes and make changes to the country’s International Monetary Fund bailout could keep the country’s credit risks elevated for some time, rating agency Moody’s has said.
-
-“We do not expect significant disruption to the country’s reform agenda or macroeconomic policies, which include the ongoing debt restructuring and structural adjustments under its programme with the International Monetary Fund (IMF),” Moody’s said,
-
-“However, some policies are likely to be reprioritised amid challenges in maintaining fiscal consolidation that could keep credit risks elevated for some time.”
-
-Since its default in 2022, Sri Lanka has implemented various steps to restore fiscal sustainability, such as raising VAT and corporate tax rates and lowering personal tax-free allowances.
-
-...
-
-[Data](articles/65aab7fb.json)
-
-[Extended Data](ext_articles/65aab7fb.ext.json)
-
----
-
-### Investigation into Government Vehicles
-
-*2024-09-25 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201546) · `si`
-
-Here's a 200-character summary of the investigation into government vehicles:
-
-
-
-President Anura Kumara Dissanayake orders inquiry into government vehicles. 97 vehicles handed over to Presidential Secretariat. Located near Galle Face. National Executive Committee arrives. Public sees imported vehicles.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed the parties to hold a proper inquiry into government vehicles.
-
-Meanwhile, a number of vehicles belonging to the Presidential Secretariat are currently in Galle Face.
-
-In today's investigation, revealed that 97 government vehicles were handed over to the Presidential Secretariat through the Presidential Secretariat through the Presidential Secretariat through the Presidential Secretariat.
-
-The vehicles are located near the Galle Face, adjacent to the office.
-
-The National Executive Committee of the National Executive Committee of the National Executive Committee of the National Executive Committee who arrived today, the new president had been parked today.
-
-The public had also had to see the traders that had been imported.
-
-◼️
-
-[Data](articles/36a3aecf.json)
-
-[Extended Data](ext_articles/36a3aecf.ext.json)
-
----
-
-### Bribery police officers arrested in Batticaloa
-
-*2024-09-25 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/194804) · `ta`
-
-Police officers arrested for bribery in Batticaloa. Bribery Commission officials detained two officers involved in a 2000 rupee bribe incident.
-
-🟩
-
-The Batticaloa Headquarters Police said that the police sergeant and the police officer who had bribed the mudslide lorry driver had been arrested at the Kokkadichcholai Police Division in Batticaloa on Wednesday evening by the Bribery Commission officials.
-
-The arrested persons were the police sergeants and police officers who were linked to the special police unit who had stopped the tipper vehicle that had been parked in the Kokkattichcholai police division this evening.
-
-Special officials of the Bribery Commission from Colombo were arrested by the special officials of the 2000 rupee bribery.
-
-The Batticaloa Headquarters Police said that the police sergeant and the police officer who had bribed the mud -loaded lorry driver had been arrested at the Batticaloa Police Division this evening by the Bribery Commission officials.
-
-...
-
-[Data](articles/314a27e5.json)
-
-[Extended Data](ext_articles/314a27e5.ext.json)
-
----
-
-### Two of the five youths drowned in the Mahaweli River
-
-*2024-09-25 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194803) · `ta`
-
-Five youths drowned in Mahaweli River near Polgolla Dam after drinking alcohol. Two bodies recovered; three survived. Police searching for remaining victims.
-
-🟩
-
-Two of the five youths who were drowned in the Mahaweli river under the Polgola Dam were drowned, Vathekama police said.
-
-Police investigations have revealed that the five youths were drinking alcohol on Wednesday 25th and landing in the Mahaweli River.
-
-A water opening in the Victoria from the Polgolla reservoir has been opened on Wednesday (25) morning and 5 youths were drowned in the water and three survived the rocks.
-
-The survivors have told police that one of the two missing and disappeared in the water is Tanjaya Hindu (22).. Police have taken steps to search for two youths who were beaten in the water.
-
-◼️
-
-[Data](articles/14d1f2b6.json)
-
-[Extended Data](ext_articles/14d1f2b6.ext.json)
-
----
-
-### Gut-brain connection in Autism
-
-*2024-09-25 21:45:00* · [`islandlk`](http://island.lk/gut-brain-connection-in-autism/) · `en`
-
-Autism spectrum disorder (ASD) is a complex neurological condition characterised by social interaction difficulties, restricted interests and repetitive behaviours. Although the exact mechanisms behind its development remain largely unknown, recent research has highlighted the connection between the gut microbiome and ASD. The emerging field of research into the “gut-brain axis” has revealed that microbial imbalances in the gut can affect brain function, potentially contributing to the onset and progression of ASD. This article explores the relationship between the gut microbiome and ASD as well as the potential clinical applications of microbiome-based therapies for alleviating symptoms associated with the disorder.
-
-...
-
-[Data](articles/8df38551.json)
-
-[Extended Data](ext_articles/8df38551.ext.json)
-
----
-
-### Carrot Face Mask
-
-*2024-09-25 21:42:00* · [`islandlk`](http://island.lk/carrot-face-mask/) · `en`
-
-This week I thought let’s take carrots as a base for my Beauty Tips.
-
-Oh, now don’t go on a buying spree so that we would have no carrots to consume!
-
-You will need 01 tablespoon carrot paste or, let’s say, a finely grated carrot, 01 tablespoon honey, and 1/2 tablespoon fresh lemon juice.
-
-The method is simple; mix well the carrot, honey and lemon juice and apply to cleansed face (avoiding the eye area).
-
-You will need 01 tablespoon carrot paste, or finely grated carrot, 01 tablespoon sandalwood powder, and 1/2 tablespoon fresh lemon juice.
-
-Mix well the carrot, sandalwood powder and lemon juice and apply to cleansed face (avoiding the eye area).
-
-You will need 01 tablespoon carrot paste, or finely grated carrot, 01 tablespoon yoghurt, and 1/2 tablespoon fresh lemon juice.
-
-Mix well the carrot, yoghurt and lemon juice and apply to cleansed face (avoiding the eye area).
-
-A hybrid of Theravada ethics and Mahayana pragmatism in a capitalist framework
-
-...
-
-[Data](articles/6bbcf4d4.json)
-
-[Extended Data](ext_articles/6bbcf4d4.ext.json)
-
----
-
-### Moody's downfront from Sri Lanka
-
-*2024-09-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201544) · `si`
-
-Moody's: Political change in Sri Lanka won't significantly impact reforms. IMF program policies remain unchanged. Economic stability challenges possible under current priorities. Debt restructuring not opposed by President Dissanayake. IMF Managing Director expresses support for stable leadership under him.
-
-🟩
-
-Moodyies, Investment and Loan Roshing Service says that the political change in Sri Lanka will not be significant in the country's reform process.
-
-Speaking to the new environment in Sri Lanka, Moody's, the international investment and loan rating service had published a report.
-
-The political differences that have been caused by the International Monetary Fund Program and macroeconomic policies of the International Monetary Fund program will not change.
-
-However, it is possible that maintaining financial stability can be challenging in certain policy priorities and that the financial stability can be challenging.
-
-They say that under the Economic Translation Act, which was passed by former President Ranil Wickremesinghe, the Economic and Financial Reforms of the IMF program cannot be changed by a new bill or amendment.
-
-President Anura Kumara Dissanayake is not objected to the debt restructuring process.
-
-...
-
-[Data](articles/180c106f.json)
-
-[Extended Data](ext_articles/180c106f.ext.json)
-
----
-
-### Sri Lanka to start talks with IMF, wrap up debt restructure fast: President
-
-*2024-09-25 21:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-talks-with-imf-wrap-up-debt-restructure-fast-president-180982/) · `en`
-
-ECONOMYNEXT – Sri Lanka will start talks with the International Monetary Fund to enhance economic stability and work with creditors, President Anura Dissanayake said in a televised address.
-
-“There are many plans that we want to put in place. But before that we have to achieve stability,” President Dissanayake said.
-
-“We will therefore start talks with the IMF and take forward the matters related to Extended Fund Facility
-
-“We will start discussions with creditor groups and wrap up debt restructuring and get the concessions as soon as possible.”
-
-President Dissanayake said the voters have place their trust on a new team.
-
-◼️
-
-[Data](articles/8aaf7987.json)
-
-[Extended Data](ext_articles/8aaf7987.ext.json)
-
----
-
-### Sri Lanka President Anura Dissanayake addresses the nation: Full text
-
-*2024-09-25 21:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-anura-dissanayake-addresses-the-nation-full-text-180993/) · `en`
-
-ECONOMYNEXT- Sri Lanka President Anura Dissanayke made a televised address to the nation on September 24. The full text of the prepared speech is reproduced below:
-
-Esteemed Maha Sangha and Religious Leaders, Parents, Brothers, Sisters and Children;
-
-I extend my heartfelt gratitude to all the people of this country who have listened to our voices over the decades and breathed life into the programs we proposed.
-
-We believe that the victory you have given us will be even more strengthened if it brings joy to those who may not have agreed with our vision. Therefore, I want to dedicate this victory to all citizens of our nation.
-
-We honour and remember the courageous men and women of previous generations who made sacrifices, some with their lives, for this victory. I see this victory and the prosperous nation we aim to build as a tribute to their legacy.
-
-...
-
-[Data](articles/962dc5c1.json)
-
-[Extended Data](ext_articles/962dc5c1.ext.json)
-
----
-
-### Trade Finance Association of Bankers Quiz and Social
-
-*2024-09-25 21:18:00* · [`islandlk`](http://island.lk/trade-finance-association-of-bankers-quiz-and-social/) · `en`
-
-On September 7, 2024, the Trade Finance Association of Bankers held its much-anticipated Quiz and Social event at Balmoral, The Kingsbury Hotel, Colombo drawing members across the industry including both state and private Banks for an evening of friendly competition and networking.
-
-The event featured esteemed guests, including Chief Guest Damith Pallewatte, Chief Executive Officer- Hatton National Bank and Guest of Honor Mr.Bingumal Thewarathanthri, Chief Executive Officer- Standard Chartered Bank, Sri Lanka. Heads and Corporate Management members of Banks, including Officials from the Sri Lanka Customs, Shipping Industry, International Chamber of Commerce Sri Lanka and past presidents of Trade Finance Association of Bankers also attended, highlighting the event’s significance within the banking community.
-
-...
-
-[Data](articles/336a85df.json)
-
-[Extended Data](ext_articles/336a85df.ext.json)
-
----
-
-### ComBank’s Bangladesh operation wins 4 top awards at ICC Emerging Asia Banking Awards
-
-*2024-09-25 21:17:00* · [`islandlk`](http://island.lk/combanks-bangladesh-operation-wins-4-top-awards-at-icc-emerging-asia-banking-awards/) · `en`
-
-The Commercial Bank of Ceylon has been honoured with four prestigious awards for its Bangladesh operations by the Indian Chamber of Commerce (ICC), at the Emerging Asia Banking Awards 2024.
-
-Commercial Bank of Ceylon PLC – Bangladesh operations was adjudged the Best Foreign Bank in Bangladesh, and received the awards for Best Performance of Growth, Best Performance in Asset Quality and Best Performance in Risk Management among foreign banks operating in Bangladesh.
-
-These awards are based on an analysis of key performance indicators in areas such as profitability, efficiency, management and sustainability, including a comparison of growth achieved in assets, advances, deposits, investments, interest income and profits, as well as figures for non-performing assets, capital adequacy ratios, green loans and CSR expenditure.
-
-The Emerging Asia Banking Conclave and Awards ceremony took place in New Delhi and was themed ‘Leading in the Digital Paradigm.’
-
-...
-
-[Data](articles/f4ebaf1d.json)
-
-[Extended Data](ext_articles/f4ebaf1d.ext.json)
 
 ---

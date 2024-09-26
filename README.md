@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 21:23:04**
+As of **2024-09-26 21:38:33**
 
 ## Newspaper Stats
 
-*Scraped **46,454** Articles*
+*Scraped **46,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,289
+adalk | 4,291
 dailymirrorlk | 4,733
 adaderanalk | 5,464
 tamilmirrorlk | 6,231
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,024
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,454 (100.0%) of 46,454 articles have been extended.
+46,456 (100.0%) of 46,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### China's development cooperation is a trap for other countries?
+
+*2024-09-26 21:09:21* · [`adalk`](https://www.ada.lk/opinion/චීනයේ-සංවර්ධන-සහයෝගිතාව-වෙනත්-රටවලට-උගුලක්ද-/2-412174) · `si`
+
+China's development cooperation viewed as trap by some, but offers unconditional aid and focuses on renewable energy and sustainability. Unlike Western aid, China's approach is seen as more equitable and aligned with global climate goals.
+
+🟩
+
+Some introduce the development collaborations to developing countries to developing countries to developing countries. Especially developing Western States, as well as their media, presents this view. There are many things to confirm it.
+
+However, these development collaborations, however, renewed the contributions of the development of China, this contribution to the economic growth of its states.
+
+"If we talk about China's development core, there are significant differences in comparison with the cooperation from the West. Because these partners get some other yarns involved. But China Development Cooperation is never strategic or temporary or transaction.
+
+"It is not the case with these development cooperation behind the development cooperation. There is no condition, a pre-precious concept, that it is not available to the people. "He added.
+
+...
+
+[Data](articles/ef968025.json)
+
+[Extended Data](ext_articles/ef968025.ext.json)
+
+---
 
 ### Resigned from the leader of the petroleum corporation
 
@@ -165,6 +189,34 @@ The Kandy District MP Dilum Amunugama, who joined the Motherland People's Party,
 [Data](articles/3b5df7e4.json)
 
 [Extended Data](ext_articles/3b5df7e4.ext.json)
+
+---
+
+### Subsidies for farmers and fishermen
+
+*2024-09-26 20:17:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-ගොවීන්ට-සහ-ධීවරයන්ට-සහනාධාර/11-412173) · `si`
+
+Sri Lanka government increases fertilizer subsidy to Rs 25,000 for farmers starting Oct 1. Fuel subsidy for fishermen introduced, paid directly to bank accounts. Aims to boost agriculture and fisheries sectors.
+
+🟩
+
+President Anura Kumara Dissanayake has instructed the Treasury to provide a sum of Rs.
+
+Accordingly, the fertilizer subsidy allowance so far will be increased to Rs 25,000 /. This subsidy is operated from October 1.
+
+Effective and effectively, the subsidy is directly to the farmers to submit the relevant money directly to the farmers' bank accounts.
+
+The New Government's policy statement states that the promotion of agricultural applications, including manure and organic fertilizers, is said to provide subsidies for the promotion of chemical and organic fertilizers, including the correct agricultural application management.
+
+Meanwhile, the President has instructed the Treasury to provide a fuel subsidy for the fishing community to be implemented from 1st October to reduce production costs.
+
+Accordingly, a fuel subsidy for the multi-day and one day vessels will be given on a monthly basis. The subsidy will also be remitted directly to the fishermen's bank accounts.
+
+...
+
+[Data](articles/2066b0a3.json)
+
+[Extended Data](ext_articles/2066b0a3.ext.json)
 
 ---
 
@@ -2457,49 +2509,5 @@ The competition will commence at 10.00 am at the Galle International Stadium.
 [Data](articles/4e0686a3.json)
 
 [Extended Data](ext_articles/4e0686a3.ext.json)
-
----
-
-### Parties that supported Ranil to form alliance for parliamentary election
-
-*2024-09-26 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102273/parties-that-supported-ranil-to-form-alliance-for-parliamentary-election) · `en`
-
-It is reported that all the political parties and groups that supported former President Ranil Wickremesinghe will contest under a political alliance in this year’s parliamentary elections.
-
-However, no final decision has been made yet, and several discussions are scheduled to be held today (26).
-
-A special meeting is set to take place this morning between representatives of the United National Party (UNP) and former President Ranil Wickremesinghe.
-
-It is reported that the discussions will cover how to contest the upcoming parliamentary elections, including the symbol under which they will contest. If an alliance is formed, the essential groundwork required will also be discussed.
-
-Additionally, a meeting is scheduled for today at 4:00 p.m. between former President Ranil Wickremesinghe and the group that supported him in the last presidential election, representing the Sri Lanka Podujana Peramuna (SLPP).
-
-...
-
-[Data](articles/713c7889.json)
-
-[Extended Data](ext_articles/713c7889.ext.json)
-
----
-
-### Congratulations to President
-
-*2024-09-26 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194815) · `ta`
-
-New president inaugurated in Jaffna. Supporters bless public at Navatkuli junction. Ramalingam Chandrasekhar attends ceremony.
-
-🟩
-
-The new president was held in Jaffna on Wednesday (25) as the new President was sworn in as the new President.
-
-At the Navatkuli junction, the public was given a blessing and bay to the public by supporters of the National People's Power.
-
-It is noteworthy that Ramalingam Chandrasekhar, a member of the National People's Power Executive Committee and Jaffna district organizer, was present.
-
-◼️
-
-[Data](articles/a17ae4f4.json)
-
-[Extended Data](ext_articles/a17ae4f4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 06:07:44**
+As of **2024-09-26 06:43:49**
 
 ## Newspaper Stats
 
-*Scraped **46,313** Articles*
+*Scraped **46,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 386
 bbccomsinhala | 455
 colombotelegraphcom | 462
-islandlk | 2,705
+islandlk | 2,713
 economynextcom | 2,807
 dailyftlk | 3,091
 adalk | 4,272
@@ -26,7 +26,7 @@ adaderanasinhalalk | 7,995
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,313 (100.0%) of 46,313 articles have been extended.
+46,317 (100.0%) of 46,321 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -652,6 +652,50 @@ The survivors have told police that one of the two missing and disappeared in th
 
 ---
 
+### Gut-brain connection in Autism
+
+*2024-09-25 21:45:00* · [`islandlk`](http://island.lk/gut-brain-connection-in-autism/) · `en`
+
+Autism spectrum disorder (ASD) is a complex neurological condition characterised by social interaction difficulties, restricted interests and repetitive behaviours. Although the exact mechanisms behind its development remain largely unknown, recent research has highlighted the connection between the gut microbiome and ASD. The emerging field of research into the “gut-brain axis” has revealed that microbial imbalances in the gut can affect brain function, potentially contributing to the onset and progression of ASD. This article explores the relationship between the gut microbiome and ASD as well as the potential clinical applications of microbiome-based therapies for alleviating symptoms associated with the disorder.
+
+...
+
+[Data](articles/8df38551.json)
+
+[Extended Data](ext_articles/8df38551.ext.json)
+
+---
+
+### Carrot Face Mask
+
+*2024-09-25 21:42:00* · [`islandlk`](http://island.lk/carrot-face-mask/) · `en`
+
+This week I thought let’s take carrots as a base for my Beauty Tips.
+
+Oh, now don’t go on a buying spree so that we would have no carrots to consume!
+
+You will need 01 tablespoon carrot paste or, let’s say, a finely grated carrot, 01 tablespoon honey, and 1/2 tablespoon fresh lemon juice.
+
+The method is simple; mix well the carrot, honey and lemon juice and apply to cleansed face (avoiding the eye area).
+
+You will need 01 tablespoon carrot paste, or finely grated carrot, 01 tablespoon sandalwood powder, and 1/2 tablespoon fresh lemon juice.
+
+Mix well the carrot, sandalwood powder and lemon juice and apply to cleansed face (avoiding the eye area).
+
+You will need 01 tablespoon carrot paste, or finely grated carrot, 01 tablespoon yoghurt, and 1/2 tablespoon fresh lemon juice.
+
+Mix well the carrot, yoghurt and lemon juice and apply to cleansed face (avoiding the eye area).
+
+A hybrid of Theravada ethics and Mahayana pragmatism in a capitalist framework
+
+...
+
+[Data](articles/6bbcf4d4.json)
+
+[Extended Data](ext_articles/6bbcf4d4.ext.json)
+
+---
+
 ### Moody's downfront from Sri Lanka
 
 *2024-09-25 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201544) · `si`
@@ -699,6 +743,60 @@ We honour and remember the courageous men and women of previous generations who 
 [Data](articles/962dc5c1.json)
 
 [Extended Data](ext_articles/962dc5c1.ext.json)
+
+---
+
+### Trade Finance Association of Bankers Quiz and Social
+
+*2024-09-25 21:18:00* · [`islandlk`](http://island.lk/trade-finance-association-of-bankers-quiz-and-social/) · `en`
+
+On September 7, 2024, the Trade Finance Association of Bankers held its much-anticipated Quiz and Social event at Balmoral, The Kingsbury Hotel, Colombo drawing members across the industry including both state and private Banks for an evening of friendly competition and networking.
+
+The event featured esteemed guests, including Chief Guest Damith Pallewatte, Chief Executive Officer- Hatton National Bank and Guest of Honor Mr.Bingumal Thewarathanthri, Chief Executive Officer- Standard Chartered Bank, Sri Lanka. Heads and Corporate Management members of Banks, including Officials from the Sri Lanka Customs, Shipping Industry, International Chamber of Commerce Sri Lanka and past presidents of Trade Finance Association of Bankers also attended, highlighting the event’s significance within the banking community.
+
+...
+
+[Data](articles/336a85df.json)
+
+[Extended Data](ext_articles/336a85df.ext.json)
+
+---
+
+### ComBank’s Bangladesh operation wins 4 top awards at ICC Emerging Asia Banking Awards
+
+*2024-09-25 21:17:00* · [`islandlk`](http://island.lk/combanks-bangladesh-operation-wins-4-top-awards-at-icc-emerging-asia-banking-awards/) · `en`
+
+The Commercial Bank of Ceylon has been honoured with four prestigious awards for its Bangladesh operations by the Indian Chamber of Commerce (ICC), at the Emerging Asia Banking Awards 2024.
+
+Commercial Bank of Ceylon PLC – Bangladesh operations was adjudged the Best Foreign Bank in Bangladesh, and received the awards for Best Performance of Growth, Best Performance in Asset Quality and Best Performance in Risk Management among foreign banks operating in Bangladesh.
+
+These awards are based on an analysis of key performance indicators in areas such as profitability, efficiency, management and sustainability, including a comparison of growth achieved in assets, advances, deposits, investments, interest income and profits, as well as figures for non-performing assets, capital adequacy ratios, green loans and CSR expenditure.
+
+The Emerging Asia Banking Conclave and Awards ceremony took place in New Delhi and was themed ‘Leading in the Digital Paradigm.’
+
+...
+
+[Data](articles/f4ebaf1d.json)
+
+[Extended Data](ext_articles/f4ebaf1d.ext.json)
+
+---
+
+### ‘IMF’s willingness to work with new govt.’ sustains CSE’s bullish mode
+
+*2024-09-25 21:13:00* · [`islandlk`](http://island.lk/imfs-willingness-to-work-with-new-govt-sustains-cses-bullish-mode/) · `en`
+
+The stock market was extremely bullish yesterday and banking sector counters were active and traded well following an IMF announcement that they had informed in a communique that they are willing to work with the new government.
+
+The conclusion of the external debt restructuring exercise last week also added an impetus to the market, especially the banking sector.
+
+‘These two factors were very much sensitive towards banking sector, which witnessed a significant high performance throughout the day, market analysts said.
+
+Amid thos developments both indices moved upwards. The All Share Price Index went up by 325.59 points while S and P SL20 rose by 148.5 points.
+
+...
+
+[Data](articles/ce6aa5df.json)
 
 ---
 
@@ -2215,121 +2313,5 @@ President Anura has ordered the cancellation of liquor sales licenses issued dur
 [Data](articles/00b5994b.json)
 
 [Extended Data](ext_articles/00b5994b.ext.json)
-
----
-
-### Sri Lanka’s new police ministers says no more political interference
-
-*2024-09-25 15:07:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-police-ministers-says-no-more-political-interference-180941/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s newly appointed Public Security Minister Vijitha Herath has requested the police to help usher in a new political culture where the police is able to establish law and order without being subject to political interference .
-
-Speaking to ministry officials and senior police officers on Tuesday September 24, Minister Herath said there has been a breakdown in public trust of the police.
-
-“I, as the minister, the secretary and all of you as Deputy Inspectors General (DIGs) have a huge responsibility. I don’t think it can be done in a short period of time. But the police has an obligation to carry out their duty without political interference, and that is what we intend to facilitate,” he said.
-
-Herath requested senior police officers gathered at event to help change existing, wrongful systems.
-
-...
-
-[Data](articles/667b66aa.json)
-
-[Extended Data](ext_articles/667b66aa.ext.json)
-
----
-
-### Harini Amarasuriya's trip
-
-*2024-09-25 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194766) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Harini Amarasuriya: From lecturer to PM. Ridiculed as JVP activist. Worked in war-torn areas. First female PM of Sri Lanka. No political background until 2020. Community health worker turned researcher. Concerned about politics affecting personal life. Changed JVP's image. Promises to build country, not bankrupt it.
-
-🟩
-
-He was ridiculed when he was working as a lecturer at the open university of Sri Lanka, like the Marxist JVP's activist.
-
-55 -year -old Harini, the youngest of a family of Colombo, has been sworn in as Sri Lanka's 16th prime minister.
-
-He is an alumnus of Bishop College. He considers it to be his father and is a gift.
-
-When he started working as a Community Health Officer in 1990, he worked in the middle of the war, half of the war, and the affected women.
-
-This made it a position to communicate with a wide range of people of the community, from professional experts to illiterate, from poor to wealthy, high groups to very poverty.
-
-She recently told Hari Television that I am the mother of the entire community even though I am not childish.
-
-She was the third woman prime minister of the world's oldest democracy, which elected his first female prime minister in 1960.
-
-...
-
-[Data](articles/b8fd61f2.json)
-
-[Extended Data](ext_articles/b8fd61f2.ext.json)
-
----
-
-### Court Explanation for Harsha
-
-*2024-09-25 14:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹர்ஷவுக்கு-நீதிமன்ற-விளக்கமறியல்/175-344441) · `ta`
-
-High Court orders Harsha Ilukpitiya detained until evening due to alleged court insult over visa suspension implementation failure.
-
-🟩
-
-The High Court today (25) ordered that the Immigration Controller Controller Harsha Ilukpitiya be kept in the High Court complex until the evening court proceedings commence.
-
-The Supreme Court today (25) issued a law of accusing the Immigration and Emigration Controller General Harsha Ilukpitiya for allegedly insulting the court for failing to implement the Cabinet's decision to suspend online and foreign visa activities in Sri Lanka.
-
-◼️
-
-[Data](articles/b73ddd1e.json)
-
-[Extended Data](ext_articles/b73ddd1e.ext.json)
-
----
-
-### Sri Lanka squad against New Zealand is named Testtime
-
-*2024-09-25 14:42:27* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-ශ්‍රී-ලංකා-සංචිතය-නම්-කෙරේ---නවක-ක්‍රීඩකයෙකුට-ටෙස්ට්-වරම්/9-412143) · `si`
-
-Sri Lanka names squad for NZ Test series. Second match starts tomorrow at Galle. Nishan Peiris expected to lead team.
-
-🟩
-
-The second and final Test match between Sri Lanka and the Sri Lankan team will commence at Galle International Cricket Stadium tomorrow (25).
-
-Accordingly, the Sri Lankan squad is named tomorrow and Nishan Peiris will win Test for Sri Lanka tomorrow.
-
-◼️
-
-[Data](articles/835b255a.json)
-
-[Extended Data](ext_articles/835b255a.ext.json)
-
----
-
-### Restoration of several vehicles used by former ministers and officials
-
-*2024-09-25 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194764) · `ta`
-
-New government recovers vehicles from former ministers and officials. President reduces allocation of vehicles to ministers and state officials.
-
-🟩
-
-Vehicles used by former ministers, diplomatic ministers, deputy ministers and secretaries of ministries have been recovered.
-
-It is noteworthy that the new government has been instructed to recapture the vehicles as the secretaries have been transferred to the ministries.
-
-President Anura Kumara Dissanayake has said that the number of vehicles allocated to ministers and state officials will be reduced.
-
-◼️
-
-[Data](articles/8cf2df45.json)
-
-[Extended Data](ext_articles/8cf2df45.ext.json)
 
 ---

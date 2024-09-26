@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 15:57:19**
+As of **2024-09-26 16:11:20**
 
 ## Newspaper Stats
 
-*Scraped **46,389** Articles*
+*Scraped **46,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,282
+adalk | 4,283
 dailymirrorlk | 4,733
 adaderanalk | 5,457
 tamilmirrorlk | 6,214
 virakesarilk | 7,405
-adaderanasinhalalk | 8,013
+adaderanasinhalalk | 8,014
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,389 (100.0%) of 46,389 articles have been extended.
+46,391 (100.0%) of 46,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### President instructs to run enough fuel reserves
+
+*2024-09-26 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201567) · `si`
+
+President orders sufficient fuel reserves, instructs efficient procurement, and emphasizes solar panel utilization for 800 Pirivenas. Committee to approve foreign-assisted projects within three months. Rural development projects prioritized.
+
+🟩
+
+President of the Ministry of Power and Energy has informed the President Anura Kumara Dissanayake by the officials of the Ministry of Power and Energy that a sufficient fuel pool is in the country.
+
+It was at a meeting held at the Presidential Secretariat today (26).
+
+The President has also informed the importance of maintaining sufficient fuel reserves to obtain fuel without interruption.
+
+The President has instructed the officials to act efficiently to obtain sufficient fuel in relation to the year.
+
+The President also instructed the officials to formulate the solar panels received on Indian aid to 800 Pirivena Pirivenas, a road map created by the Ministry of Power and Energy.
+
+The Ministry of Power and Energy has also revealed the need to expedite projects implemented under the Asian Development Bank and foreign debt.
+
+Accordingly, a committee is expected to appoint a committee to grant approval within three months to the projects implemented on foreign assistance.
+
+...
+
+[Data](articles/c6de74d8.json)
+
+[Extended Data](ext_articles/c6de74d8.ext.json)
+
+---
+
+### What happened to someone who stole passengers in the airport
+
+*2024-09-26 15:02:33* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්තොටේ-මගීන්ගේ-භාණ්ඩ-සොරාගත්-අයකුට-සිදුවූ-දේ/11-412166) · `si`
+
+A 22-year-old man was arrested at Katunayake Airport for stealing luggage. He was caught on camera and handed over to police. Investigations are ongoing.
+
+🟩
+
+Airporting operating yard served in the airport storage yard, which arrives at the Katunayake Airport, has been arrested by Katunayake airport worker.
+
+He is a 22 year old Sri Lankan airport, Katunayake airport, a resident of Thimbirigaskatuwa, Negombo.
+
+He had arrived from Kuala Lumpur from Kuala Lumpur from Kuala Lumpur from Kuala Lumpur, UL.Doing, the way it is stolen in them is recorded in its mounted safe camera system.
+
+The arrest was made after the officials were delivered to the Katunayake Airport Police who inspected these cameras.
+
+SriLankan Airlines and the Bandaranaike International Airport had received the disappearance of goods in the passenger baggage for a long passenger baggage.
+
+Katunayake Airport Police are conducting further investigations into the incident. (I J)
+
+◼️
+
+[Data](articles/ebb9b1d3.json)
+
+[Extended Data](ext_articles/ebb9b1d3.ext.json)
+
+---
 
 ### Chandimal is a century
 
@@ -2229,45 +2287,5 @@ Secretary to the President Dr. Nandika Sanath was also present at the occasion.
 [Data](articles/1a621f89.json)
 
 [Extended Data](ext_articles/1a621f89.ext.json)
-
----
-
-### Sri Lanka president appoints new governors
-
-*2024-09-25 20:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-new-governors-180987/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has appointed new governors for the nine provinces.
-
-◼️
-
-[Data](articles/c10cfa4a.json)
-
-[Extended Data](ext_articles/c10cfa4a.ext.json)
-
----
-
-### Parties in the Democratic Tamil National Alliance (TNA)
-
-*2024-09-25 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194798) · `ta`
-
-Democratic Tamil National Alliance TNA parties decide to contest upcoming general election. Meeting discusses strategy and symbol selection.
-
-🟩
-
-The Tamil National Political Parties, which are part of the Democratic Tamil National Alliance (TNA), have decided to field in the upcoming general election on behalf of the coalition.
-
-Parliament was dissolved by President Anura Kumara Dissanayake on Tuesday (24) and it has been announced that the general election will be held on November 14.
-
-Subsequently, on Wednesday (25) at 3.00 pm, the Democratic Tamil National Alliance (TNA) Coordinating Committee at a private hotel in Jaffna examined how to face the upcoming general election.
-
-Dharmalingam Siddharthan, Selvam Adakkalanathan, Govindan Karunagaram, Suresh Premachandran, Srikanta, Sivanesan and Venthan were present at the meeting.
-
-Accordingly, as the dissolution of parliament has been dissolved, it has been extensively investigated on how to face the upcoming general election and eventually decided to field the general election on behalf of the Democratic Tamil National Alliance.
-
-...
-
-[Data](articles/1c22d575.json)
-
-[Extended Data](ext_articles/1c22d575.ext.json)
 
 ---

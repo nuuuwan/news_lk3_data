@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 05:08:21**
+As of **2024-09-27 05:22:46**
 
 ## Newspaper Stats
 
-*Scraped **46,494** Articles*
+*Scraped **46,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 457
 colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,824
-dailyftlk | 3,098
+dailyftlk | 3,101
 adalk | 4,292
 dailymirrorlk | 4,733
 adaderanalk | 5,466
@@ -26,11 +26,71 @@ adaderanasinhalalk | 8,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,494 (100.0%) of 46,494 articles have been extended.
+46,497 (100.0%) of 46,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Ironwood Capital Partners partially exits its stake in Colombo Coffee Company to CAL-led consortium
+
+*2024-09-27 04:58:36* · [`dailyftlk`](https://www.ft.lk/business/Ironwood-Capital-Partners-partially-exits-its-stake-in-Colombo-Coffee-Company-to-CAL-led-consortium/34-767217) · `en`
+
+From left: Rashaad Hussain, Nath Kottegoda, Imran Akbarally, CAL Group CEO Kanishke Manakkara, Ironwood Capital Partners Managing  Partner Hiran Embuldeniya, Aravinda de Silva and Ajith Dias
+
+Private equity specialists Ironwood Capital Partners, announced yesterday a partial exit from its investment in the Colombo Coffee Company group which also includes Barista Coffee
+
+A consortium of investors brought together by Capital Alliance Holdings Ltd. (CAL) has acquired a 20% stake in the group.
+
+Colombo Coffee Company, Sri Lanka’s leading Coffee solutions provider, serves 4 out of every 5large hotels in the country. It represents renowned international coffee brands such as Lavazza,
+
+LaCimbali, Gaggia, and also markets its locally-developed and sourced coffee brand, Toscana
+
+Ceylon. Barista Coffee Lanka, part of the same group, is the largest coffee chain in the country with over 40 retail outlets.
+
+...
+
+[Data](articles/da8c3678.json)
+
+[Extended Data](ext_articles/da8c3678.ext.json)
+
+---
+
+### ECCSL congratulates President AKD
+
+*2024-09-27 04:57:23* · [`dailyftlk`](https://www.ft.lk/business/ECCSL-congratulates-President-AKD/34-767216) · `en`
+
+The European Chamber of Commerce in Sri Lanka (ECCSL) has extended its congratulations to President Anura Kumara Dissanayake on his election and inauguration as President of the Democratic Socialist Republic of Sri Lanka.
+
+The recent Presidential elections held on 21 September witnessed a remarkable display of democratic engagement, with high voter turnout reflecting the people’s commitment to shaping their nation’s future. The peaceful conduct of the elections underscores the resilience of Sri Lanka’s democratic processes.
+
+Speaking to Daily FT, ECCSL President Hatem Rajabdeen clearly stated that Europe is a key trade partner for Sri Lanka dominated by Exports in the Manufacturing Sector, Agro, Trade and Service-related exports which are key to our economy and have been growth areas over the years.
+
+...
+
+[Data](articles/8bba9351.json)
+
+[Extended Data](ext_articles/8bba9351.ext.json)
+
+---
+
+### Jetwing expands organic tea footprint
+
+*2024-09-27 04:54:41* · [`dailyftlk`](https://www.ft.lk/business/Jetwing-expands-organic-tea-footprint/34-767215) · `en`
+
+Jetwing acquired the Uva Ben Head Tea Estate in Welimada in 2022 with a mandate to produce premium artisanal teas while safeguarding the environment through organic farming and biodiversity conservation.
+
+The Uva Ben Head Estate, a 100-acre expanse previously reliant on inorganic farming methods, is undergoing a transformative journey under Jetwing’s guidance. The estate is now a beacon of organic farming, with Jetwing introducing mixed cropping and phasing out chemical fertilisers and pesticides.
+
+The estate management has been committed to eliminating the use of chemical fertilisers and pesticides through a phased reduction since acquisition in 2022, with the final application of these chemicals occurring in August 2023. The transformation includes the production of organic liquid fertilisers, composting, and the planned introduction of biochar. Additionally, the estate is optimising water usage through rainwater harvesting.
+
+...
+
+[Data](articles/53f74ff6.json)
+
+[Extended Data](ext_articles/53f74ff6.ext.json)
+
+---
 
 ### Logistics and Freight Forwarders Association congratulates President AKD
 
@@ -2359,67 +2419,5 @@ Provincial Chief Secretary RMPS Ratnayake, Governor Secretary LP Madanayake, Pro
 [Data](articles/9826bbd6.json)
 
 [Extended Data](ext_articles/9826bbd6.ext.json)
-
----
-
-### Tilith joined Dilith
-
-*2024-09-26 14:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்துடன்-இணைந்தார்-திலும்/175-344522) · `ta`
-
-Tilith joins Dilith's party: Former SecState Tilum Amunugama becomes National Organizer of Mawpima Janata Party, led by Dilith Jayaweera.
-
-🟩
-
-Former Secretary of State Tilum Amunugama took over as the National Organizer of the Mawpima Janata Party, led by Dilith Jayaweera, on Thursday (26).
-
-◼️
-
-[Data](articles/e3e68879.json)
-
-[Extended Data](ext_articles/e3e68879.ext.json)
-
----
-
-### Explanation for Doctor Archana
-
-*2024-09-26 14:28:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-விளக்கமறியல்/175-344521) · `ta`
-
-Chavakachcheri Magistrate's Court orders Dr. Archana held until Oct 10 over alleged threats to doctors. Bail revoked due to lack of evidence. Doctors demand her release.
-
-🟩
-
-The Chavakachcheri Magistrate's Court on Thursday (26) ordered that Ramanathan Archana, the former Medical Superintendent of the Chavakachcheri Hospital, should be kept in remand until October 10.
-
-The case against Dr. Archana for allegedly threatening and harassing doctors was taken up by other doctors in the presence of Magistrate A.Usun in Chavakachcheri Court.He was then placed in interrogation.
-
-The court has ordered the abolition of doctor Ramanathan Archana's bail and interrogation due to failing to submit evidence of the allegations leveled at the Chavakachcheri police station and the court.
-
-At the same time, it is noteworthy that in the last installment, the doctors' bailouts appeared in the forum and demanded the release of them from the bailouts.
-
-◼️
-
-[Data](articles/90c595a4.json)
-
-[Extended Data](ext_articles/90c595a4.ext.json)
-
----
-
-### Chairman of Litro Gas resigns
-
-*2024-09-26 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102278/chairman-of-litro-gas-resigns) · `en`
-
-Muditha Peiris has stepped down from his position as the Chairman of the Litro Gas Company.
-
-Peiris was appointed as the Chairman of Litro Gas on June 13, 2022.
-
-Prior to that, he had served as the Managing Director of the state-owned LP gas supplier.
-
-Peiris had held the position of Managing Director at both Litro Gas Lanka Ltd and Litro Gas Terminal Lanka (Pvt) Ltd.
-
-◼️
-
-[Data](articles/e6524770.json)
-
-[Extended Data](ext_articles/e6524770.ext.json)
 
 ---

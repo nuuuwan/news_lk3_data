@@ -1,78 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 08:37:07**
+As of **2024-09-26 08:21:19**
 
 ## Newspaper Stats
 
-*Scraped **46,333** Articles*
+*Scraped **46,329** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 386
-bbccomsinhala | 456
+bbccomsinhala | 455
 colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,807
 dailyftlk | 3,091
-adalk | 4,273
+adalk | 4,272
 dailymirrorlk | 4,733
 adaderanalk | 5,447
 tamilmirrorlk | 6,197
 virakesarilk | 7,402
-adaderanasinhalalk | 7,999
+adaderanasinhalalk | 7,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,329 (100.0%) of 46,333 articles have been extended.
+46,325 (100.0%) of 46,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
-
-### මහවැලි ගඟේ දියනෑමට ගිය තරුණයින් දෙදෙනෙක් අතුරුදන්
-
-*2024-09-26 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201551) · `si`
-
-වත්තේගම සිරිමල්වත්ත ප්‍රදේශයෙන් මහවැලි ගඟේ දියනෑමට ගිය තරුණයින් පස්දෙනෙකුගෙන් දෙදෙනෙකු දියේ ගිලී අතුරුදන්ව තිබේ.
-
-මෙම තරුණයින් ඊයේ (25) දහවල් දියනාමින් සිටියදී ඉන් තිදෙනෙකු දියේ ගිලී ගසාගෙන ගොස් ඇත.
-
-එහිදී එක් අයෙකු දිවි බේරාගෙන ඇති අතර ඔහුව ප්‍රතිකාර සඳහා මහනුවර රෝහලට ඇතුළත් කර ඇති බව පොලීසිය සඳහන් කළේය.
-
-මෙලෙස අතුරදන් වී ඇත්තේ 19 හැවිරිදි සහ 22 හැවිරිදි වත්තේගම ප්‍රදේශයේ පදිංචිව සිටි තරුණයින් දෙදෙනෙකි.
-
-අතුරුදන් වු තරුණයින් දෙදෙනා සෙවීමේ කටයුතු පොලීසිය සහ නාවික හමුදාව එක්ව  සිදුකරනු ලබයි.
-
-මෙම තරුණයින් අතරින් එක් අයකුගේ මව විදේශගතව සිට මෙරටට පැමිණ ඇති අතර ඇය ගෙනවිත් තිබූ විදෙස් මත්පැන් බෝතලයක් මෙම තරුණයන් විසින් පානය කිරීමෙන් පසුව ගඟට බැස ඇති බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/e542da6e.json)
-
----
-
-### ශ්‍රී ලංකා - නවසීලන්තය දෙවන ටෙස්ට් ක්‍රිකට් තරගය අද ඇරඹේ
-
-*2024-09-26 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201550) · `si`
-
-සංචාරක නවසීලන්ත කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වෙන දෙවන ටෙස්ට් ක්‍රිකට් තරගය අද (26)ආරම්භ වීමට නියමිතව තිබේ.
-
-ගාල්ල ජාත්‍යන්තර ක්‍රීඩාංගණයේ දී පෙරවරු 10.00ට තරගය ආරම්භ වීමට නියමිතය.
-
-අද තරගය සඳහා ශ්‍රී ලංකා කණ්ඩායමේ වෙනස්කම් දෙකක් සිදුකර ඇති අතර මිලාන් රත්නායක සහ නිශාන් පීරිස් කණ්ඩායමට ඇතුළත් කර තිබේ.
-
-ළහිරු කුමාර සහ රමේෂ් මෙන්ඩිස් කණ්ඩායමෙන් ඉවත් කර ඇති බව සඳහන්ය.
-
-දෙරට අතර පැවති පළමු ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 63කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වුණි.
-
-◼️
-
-[Data](articles/eac80fc9.json)
-
----
 
 ### Sri Lanka's breast cancer deaths
 
@@ -207,24 +165,6 @@ JVP leadership change in 2014: Anura Kumara Dissanayake succeeds Somawansa Amara
 [Data](articles/23f02224.json)
 
 [Extended Data](ext_articles/23f02224.ext.json)
-
----
-
-### ගලමුදුන: කඳු, පල්ලම් තරණය කරමින් ඡන්ද පොළට ගිය ගම්මුන්
-
-*2024-09-26 02:36:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4gl6x68g0ko) · `si`
-
-මහනුවර දිස්ත්‍රික්කයේ,මිනිපේ ප්‍රාදේශීය සභාවට අයත්  ඉතා දුෂ්කර ගම්මානයක් වන ගලමුදුන ගම්මානයේ ජනතාව පසුගිය දා පැවති  ජනාධිපතිවරණයට ඡන්දය ප්‍රකාශ කිරීමට පැමිණියේ මෙලෙසයි.
-
-මෙම ගම්මානයට ඇති එකම පිවිසුම් මාර්ගය ඇත්තේ දුන්ගොල්ල හරහායි. දුන්ගොල්ල සිට ගලමුදුනට කි.මී. 7කට ආසන්න දුරක් තිබේ. දැනට එහි පවුල් 36 ක් ජිවත් වේ.
-
-ක්‍රමවත් යටිතල පහසුකම්  සහ ප්‍රවාහන පහසුකම්  නොමැති වීමෙන් මෙම ජනතාව දැඩි ලෙස පිඩාවට පත්ව තිබේ. මේ හේතූවෙන්  ජනතාව අලින්ගේ ප්‍රහාර සහ සර්ප දෂ්ඨනයන්ට ලක්වීම  නිරන්තරව සිදුවේ.
-
-ගලමුදුන ගම්මානයට අයත් රජයේ එකම ගොඩනැගිල්ල වන ගලමුදුන කනිෂ්ඨ විද්‍යාලයට පසුගිය දා පැවති  ජනාධිපතිවරණයට ඡන්ද පෙට්ටි රැගෙන මැතිවරණ නිලධාරීන්  පැමිණියේ ද පාගමනින් වීම විශේෂත්වයකි.
-
-◼️
-
-[Data](articles/b1b2e29b.json)
 
 ---
 
@@ -874,28 +814,6 @@ President Anura Kumara Dissanayake is not objected to the debt restructuring pro
 
 ---
 
-### Sri Lanka to start talks with IMF, wrap up debt restructure fast: President
-
-*2024-09-25 21:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-talks-with-imf-wrap-up-debt-restructure-fast-president-180982/) · `en`
-
-ECONOMYNEXT – Sri Lanka will start talks with the International Monetary Fund to enhance economic stability and work with creditors, President Anura Dissanayake said in a televised address.
-
-“There are many plans that we want to put in place. But before that we have to achieve stability,” President Dissanayake said.
-
-“We will therefore start talks with the IMF and take forward the matters related to Extended Fund Facility
-
-“We will start discussions with creditor groups and wrap up debt restructuring and get the concessions as soon as possible.”
-
-President Dissanayake said the voters have place their trust on a new team.
-
-◼️
-
-[Data](articles/8aaf7987.json)
-
-[Extended Data](ext_articles/8aaf7987.ext.json)
-
----
-
 ### Sri Lanka President Anura Dissanayake addresses the nation: Full text
 
 *2024-09-25 21:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-anura-dissanayake-addresses-the-nation-full-text-180993/) · `en`
@@ -1026,6 +944,28 @@ Secretary to the President Dr. Nandika Sanath was also present at the occasion.
 
 ---
 
+### Sri Lanka to start talks with IMF, wrap up debt restructure fast: President
+
+*2024-09-25 20:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-start-talks-with-imf-wrap-up-debt-restructure-fast-president-180982/) · `en`
+
+ECONOMYNEXT – Sri Lanka will start talks with the International Monetary Fund to enhance economic stability and work with creditors, President Anura Dissanayake said in a televised address.
+
+“There are many plans that we want to put in place. But before that we have to achieve stability,” President Dissanayake said.
+
+“We will therefore start talks with the IMF and take forward the matters related to Extended Fund Facility
+
+“We will start discussions with creditors and wrap up debt restructuring and get the concessions.”
+
+President Dissanayake said the voters have place their trust on a new team.
+
+◼️
+
+[Data](articles/8aaf7987.json)
+
+[Extended Data](ext_articles/8aaf7987.ext.json)
+
+---
+
 ### Sri Lanka president appoints new governors
 
 *2024-09-25 20:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-new-governors-180987/) · `en`
@@ -1115,24 +1055,6 @@ President Dissanayake says all steps needed for the expected change depend on bu
 [Data](articles/37656ed9.json)
 
 [Extended Data](ext_articles/37656ed9.ext.json)
-
----
-
-### ආර්ථකය බේරා ගන්න ගියොත් ජනතාව තරහ වෙනවා
-
-*2024-09-25 19:59:53* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථකය-බේරා-ගන්න-ගියොත්-ජනතාව-තරහ-වෙනවා/11-412161) · `si`
-
-රටේ ආර්ථිකය බේරන්න ගියොත් මිනිසුන් තරහ කරගන්න සිදුවන බව, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක්සත් ජාතික පක්ෂ නිලධාරීන් හමුවේ ප්‍රකාශ කර තිබේ.
-
-කොළඹ මල් පාරේ පිහිටි එක්සත් ජාතික පක්ෂ දේශපාලන කාර්යාලයේ පැවති නිලධාරී හමුවකදී හිටපු ජනාධිපතිවරයා මේ බව සඳහන් කර ඇත.
-
-මිනිසුන් බේරන්න ගියොත් අයි.එම්.එෆ් තරහ කරගන්න සිදුවන බවත්, අයි.එම්.එෆ් තරහ වුවහොත් රටේ ආර්ථිකය අගාධයකට ඇද වැටෙන බවත් මෙහිදී සඳහන් කර ඇත.
-
-තමාගේ මූලික අරමුණ වූයේ, රටේ ආර්ථිකය බේරා ගැනීම බව සඳහන් කර ඇති ජනාධිපතිවරයා, ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් දැඩි කොන්දේසි පැනවීමේ අරමුණද රටේ මූල්‍ය ස්ථාවරත්වය ඇති කිරීම බව පෙන්වා දී තිබේ. ජනතාව ඒ සත්‍ය කාරණය වටහාගත යුතු බවද ජනාධිපතිවරයා පවසා ඇත.
-
-◼️
-
-[Data](articles/554a6abb.json)
 
 ---
 
@@ -2285,5 +2207,99 @@ The Governor of Sabaragamuwa Province stated that nine new governors were sworn 
 [Data](articles/22f85c69.json)
 
 [Extended Data](ext_articles/22f85c69.ext.json)
+
+---
+
+### 'Dil Raja' Vijay Satya as the hero who faces problems
+
+*2024-09-25 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194765) · `ta`
+
+"Dil Raja" starring Vijay Satya releases on 27th. Director Venkatesh says hero faces problems bravely. Fight scenes impressive. Vanitha Vijayakumar, Sherin, Samyukta play key roles. Completed in 32 days.
+
+🟩
+
+Actor Vijay Satya's upcoming film 'Dil Raja' will be released on the 27th of this month at the film House.. The film crew has said that the film is about the story of the hero who faces it with any problems.
+
+Director a. Vijay Satya, Sherin, Samyukta, Karate Raja, Vanitha Vijayakumar, Iman Annachi, KP Vi Bala and many others have starred in the film 'Dil Raja' directed by Venkatesh.. Psychic v. Amrish has composed the film, which has been recorded by Narayana. The film was produced by producer Coimbatore Balasubramaniam on behalf of Golden Eagle Studios.
+
+The event was held in Chennai. Producers with the film crew. Rajan and actress Kanika Mann were the special guests.
+
+Director A about the film. Venkatesh said, “Whatever the problem, it is the man who faces it with the bravery of the film.. Man Vijay Satya has played his body for the film.
+
+...
+
+[Data](articles/78172883.json)
+
+[Extended Data](ext_articles/78172883.ext.json)
+
+---
+
+### The government is parking place
+
+*2024-09-25 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201532) · `si`
+
+National Executive Committee Chairman Wasantha Samarasinghe announced investigations into Presidential Secretariat proposals. Meeting held at Presidential Secretariat parking area on Scout Avenue. New president's appointment affects staff movement around the building.
+
+🟩
+
+The National Executive Committee of the National Executive Committee Wasantha Samarasinghe says that the proposals of the Presidential Secretariat will be investigated properly.
+
+Speaking to the media this morning at the Presidential Secretariat this morning.
+
+With the appointment of the new president, the traffic from the Presidential Secretariat, near the Presidential Secretariat, the other personnel belonging to the Presidential Secretariat is located near the parking and Foundation Institute at the Scouting Mawatha near the Presidential Secretariat.
+
+The National Executive Committee of the National Power of Power Wasantha Samarasinghe was present at the parking parking at the Scout Avenue this morning.
+
+◼️
+
+[Data](articles/5346c580.json)
+
+[Extended Data](ext_articles/5346c580.ext.json)
+
+---
+
+### Is the general election unconstitutional?;The Election Commission refuses
+
+*2024-09-25 15:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194772) · `ta`
+
+Election Commission denies claims of unconstitutionality. Commissioner General refuses comment on social media. Some argue 5-week gap between nomination filing and election violates law. Deadline for nominations is October 11.
+
+🟩
+
+The Commissioner General of Elections Saman Ratnayake has refused to comment on social media that the general election is unconstitutional.
+
+Many have expressed their views that the law has been stated that there should be a 5 -week break after filing a nomination for the election.
+
+The deadline for filing nominations for the general election ends on October 11.
+
+The law states that there should be a five -week gap, including the date of filing Vadman from the date. So this date is correct, he said.
+
+◼️
+
+[Data](articles/c43a1c55.json)
+
+[Extended Data](ext_articles/c43a1c55.ext.json)
+
+---
+
+### Thailand's approval for the Samarisi Marriage Act
+
+*2024-09-25 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201531) · `si`
+
+Thailand approves Samarisi Marriage Act, legalizing same-sex unions. Bill passed in parliament, set to become law after 120-day waiting period. Thailand joins global trend as third country to legalize Samariya marriages.
+
+🟩
+
+Thailand parliament took advice a few months ago to pass a bill a few months ago to legalize Marricks.
+
+Accordingly, the bill is a law in Thailand after 120 more days.
+
+Thailand is one of the third country at the marriage of Samariya.
+
+◼️
+
+[Data](articles/65972853.json)
+
+[Extended Data](ext_articles/65972853.ext.json)
 
 ---

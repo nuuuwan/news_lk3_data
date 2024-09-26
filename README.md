@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 06:43:49**
+As of **2024-09-26 07:25:22**
 
 ## Newspaper Stats
 
-*Scraped **46,321** Articles*
+*Scraped **46,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 3,091
 adalk | 4,272
 dailymirrorlk | 4,733
 adaderanalk | 5,447
-tamilmirrorlk | 6,195
+tamilmirrorlk | 6,196
 virakesarilk | 7,402
-adaderanasinhalalk | 7,995
+adaderanasinhalalk | 7,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,317 (100.0%) of 46,321 articles have been extended.
+46,321 (100.0%) of 46,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### A change in the weather in the next few days
+
+*2024-09-26 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201548) · `si`
+
+Weather forecast: Thundershowers expected in Western, Sabaragamuwa, North Western provinces and Kandy, Nuwara Eliya, Galle, Matara districts. Strong winds predicted. Public advised to be cautious due to potential lightning accidents.
+
+🟩
+
+In many parts of the island, hoping to cause thundershowers in the evening, hoping to cause thundershowers will occur tomorrow (27).
+
+The Department of Meteorology announced several showers in the Western, Sabaragamuwa and North Western provinces, Kandy, Nuwara Eliya, Galle and Matara districts.
+
+Showers or nights in the Mullaitivu evening in the Mullaittivu district or night can occur.
+
+At times, in the North, the West Balls of the Central Mountains. There are some 40-45-strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/2a527913.json)
+
+[Extended Data](ext_articles/2a527913.ext.json)
+
+---
 
 ### Motor bicycle and van crashed in Jaffna
 
@@ -424,6 +450,26 @@ The car, which was started at the Jaffna Velanai Memorial Publisher
 
 ---
 
+### TMC meets with Indian High Commission
+
+*2024-09-26 00:11:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகருடன்-த-மு-கூட்டணி-சந்திப்பு/175-344477) · `ta`
+
+Tamil Progressive Alliance met Indian High Commission. Meeting invited by High Commissioner Santosh Ja. Present: President Manohanesan, Deputy Leaders Palani Digambaram, Velusamy Radhakrishnan, former MP Mayilvankanam Udayakumar.
+
+🟩
+
+A meeting between the Tamil Progressive Alliance and the Indian High Commission was held yesterday.
+
+The meeting was held at the invitation of Indian High Commissioner Santosh Ja and the President of the Tamil Progressive Alliance, Manohanesan, Deputy Leaders Palani Digambaram and Velusamy Radhakrishnan and former MP Mayilvankanam Udayakumar were also present.. (A)
+
+◼️
+
+[Data](articles/e54781dc.json)
+
+[Extended Data](ext_articles/e54781dc.ext.json)
+
+---
+
 ### If you want to strengthen democracy
 
 *2024-09-26 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194805) · `ta`
@@ -797,6 +843,8 @@ Amid thos developments both indices moved upwards. The All Share Price Index wen
 ...
 
 [Data](articles/ce6aa5df.json)
+
+[Extended Data](ext_articles/ce6aa5df.ext.json)
 
 ---
 
@@ -2265,53 +2313,5 @@ The Water Board further said it regrets any inconveniences caused to the public 
 [Data](articles/86beebfd.json)
 
 [Extended Data](ext_articles/86beebfd.ext.json)
-
----
-
-### Prabath Jayasuriya top up - Here are the latest rankings
-
-*2024-09-25 15:29:10* · [`adalk`](https://www.ada.lk/sports/ප්‍රභාත්-ජයසූරිය-ශ්‍රේණිගත-කිරීම්-හී-ඉහළට---නවතම-ශ්‍රේණිගත-කිරීම්-මෙන්න/9-412144) · `si`
-
-Sri Lanka cricket rankings update: Mendis 16th in Test batsmen, De Silva 18th, Karunaratne down 1 spot. Spinner Prabath Jayasuriya rises 5 places in Test bowlers.
-
-🟩
-
-The latest Test rankings of the International Cricket Council has been published.
-
-Accordingly, Sri Lanka Mid-Textal Mendis has been able to proceed with the 16th place among Test batsmen.
-
-However, Leader Dhananjaya de Silva, 4 places and Dimuth Karunaratne have fallen from one place.
-
-Meanwhile, Sri Lanka spinner Prabath Jayasuriya has been able to reach five places between Test bowlers.
-
-The leader Dhananjaya de Silva has also been able to proceed with the 18th stations between Tests.
-
-◼️
-
-[Data](articles/0dec71d4.json)
-
-[Extended Data](ext_articles/0dec71d4.ext.json)
-
----
-
-### Wedge for bar licenses
-
-*2024-09-25 15:23:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பார்-லைசன்களுக்கு-ஆப்பு/175-344443) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura cancels liquor licenses issued near end of Ranil regime.
-
-🟩
-
-President Anura has ordered the cancellation of liquor sales licenses issued during the final period of the Ranil regime.
-
-◼️
-
-[Data](articles/00b5994b.json)
-
-[Extended Data](ext_articles/00b5994b.ext.json)
 
 ---

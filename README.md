@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 04:57:20**
+As of **2024-09-27 05:08:21**
 
 ## Newspaper Stats
 
-*Scraped **46,487** Articles*
+*Scraped **46,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 457
 colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,824
-dailyftlk | 3,091
+dailyftlk | 3,098
 adalk | 4,292
 dailymirrorlk | 4,733
 adaderanalk | 5,466
@@ -26,11 +26,151 @@ adaderanasinhalalk | 8,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,487 (100.0%) of 46,487 articles have been extended.
+46,494 (100.0%) of 46,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Logistics and Freight Forwarders Association congratulates President AKD
+
+*2024-09-27 04:52:23* · [`dailyftlk`](https://www.ft.lk/business/Logistics-and-Freight-Forwarders-Association-congratulates-President-AKD/34-767214) · `en`
+
+The Sri Lanka Logistics and Freight Forwarders Association (SLFFA) has extended its heartfelt congratulations to President Anura Kumara Dissanayake, the newly appointed President of the Democratic Socialist Republic of Sri Lanka, and the Secretary to the President, Dr. Nandika Sanath Kumanayake.
+
+It said this momentous occasion marks the beginning of a new chapter for the nation, and SLFFA is confident that under the President’s leadership, Sri Lanka will move towards a future of prosperity, unity, and progress.
+
+“We believe that the President’s vision and leadership will pave the way for sustainable growth, enhanced trade, and a better quality of life for all Sri Lankans.
+
+We look forward to supporting the Government in its efforts to build a stronger, more resilient nation and to contribute to the realisation of the President’s agenda for economic recovery and development,” SLFFA said in a statement.
+
+...
+
+[Data](articles/8cbe76c0.json)
+
+[Extended Data](ext_articles/8cbe76c0.ext.json)
+
+---
+
+### Frankfurt consumer goods trade fairs on tour
+
+*2024-09-27 04:52:03* · [`dailyftlk`](https://www.ft.lk/business/Frankfurt-consumer-goods-trade-fairs-on-tour/34-767213) · `en`
+
+After the international press conference on 3 September 2024, the Frankfurt trade fair organisers Ambiente, Christmasworld and Creativeworld have embarked on a press roadshow.
+
+On-site networking events provide a unique opportunity to engage in a dialogue. The events reach journalists from over 30 countries and underline the focus of the three leading consumer goods trade fairs on the international networking of the industry. They lay the foundation for a strong start of the 2025 order season.
+
+The international online press conference and the press events in Buenos Aires, Frankfurt am Main, Los Angeles, New York City and São Paulo marked the start of the Consumer Goods Fairs 2025 press roadshow: Athens, Barcelona, Lisbon, London, Milan, Mexico City, Paris, Riga, Rotterdam, Warsaw and Zurich are going to follow.
+
+...
+
+[Data](articles/e2e6f3d8.json)
+
+[Extended Data](ext_articles/e2e6f3d8.ext.json)
+
+---
+
+### President assures sufficient fuel reserves
+
+*2024-09-27 04:50:15* · [`dailyftlk`](https://www.ft.lk/news/President-assures-sufficient-fuel-reserves/56-767212) · `en`
+
+Appoints committee to oversee and approve foreign-aid projects within three months to fast-track implementation
+
+Expresses faith in State officials, insisting critical role in achieving overall objectives
+
+President Anura Kumara Dissanayake yesterday assured that the country has sufficient fuel reserves to meet its consumption needs, whilst urging officials from the Power and Energy Ministry to maintain these stocks and efficiently plan procurement for next year.
+
+He assured full Presidential support in facilitating these efforts to ensure uninterrupted fuel availability for the public.
+
+In a meeting with the Ministry officials, Dissanayake also stressed the importance of a clear roadmap for distributing solar panels to 800 Piriven, an initiative supported by Indian aid.
+
+He also directed the Ministry to swiftly devise a comprehensive plan to ensure the smooth implementation of this project.
+
+...
+
+[Data](articles/628a67af.json)
+
+[Extended Data](ext_articles/628a67af.ext.json)
+
+---
+
+### AKD boosts paddy, fishery sectors
+
+*2024-09-27 04:47:45* · [`dailyftlk`](https://www.ft.lk/news/AKD-boosts-paddy-fishery-sectors/56-767211) · `en`
+
+From 1 Oct. fertiliser subsidy up 60% to Rs. 25,000; fishermen to get Rs. 25 per litre fuel subsidy
+
+President Anura Kumara Dissanayake yesterday increased fertiliser subsidy to paddy farmers by 66% to Rs. 25,000 per hectare with effect from 1 October.
+
+He also announced a Rs. 25 for diesel and kerosene subsidy for the fisheries sector.
+
+Treasury was directed to implement the scheme expeditiously during a meeting chaired by President Dissanayake.
+
+The President’s Media Division said, in order to ensure efficient delivery of the subsidy to farmers, the funds will be directly transferred to their bank accounts.
+
+The previous Cabinet, last month too approved a decision to increase the fertiliser subsidy.
+
+◼️
+
+[Data](articles/4346da45.json)
+
+[Extended Data](ext_articles/4346da45.ext.json)
+
+---
+
+### Mawbima Janatha Party appoints Dilum Amunugama as National Organiser
+
+*2024-09-27 04:47:10* · [`dailyftlk`](https://www.ft.lk/news/Mawbima-Janatha-Party-appoints-Dilum-Amunugama-as-National-Organiser/56-767210) · `en`
+
+Mawbima Janatha Party (MJP) leader Dilith Jayaweera yesterday appointed former MP Dilum Amunugama as the National Organiser of the party.
+
+“I warmly welcome former Minister and Parliamentarian Dilum Amunugama as the National Organiser of the Mawbima Janatha Party,” he noted via a post on ‘X’.
+
+Jayaweera also said that the party is preparing for its next battle at the General Election.
+
+Jayaweera stated, “In the general election, we are asking for votes in all districts. This time, we are creating the most influential political alliance in Sri Lanka. We have invited politicians, whom we believe will be accepted by the people, to engage in discussions with us.”
+
+“We are contesting the election under the ‘Sarvajana Balaya’ alliance and hope to secure a new symbol for it,” he added.
+
+◼️
+
+[Data](articles/96db7562.json)
+
+[Extended Data](ext_articles/96db7562.ext.json)
+
+---
+
+### PM Harini tells schools to stop inviting politicians
+
+*2024-09-27 04:45:22* · [`dailyftlk`](https://www.ft.lk/news/PM-Harini-tells-schools-to-stop-inviting-politicians/56-767209) · `en`
+
+Education Minister and Prime Minister Dr. Harini Amarasuriya yesterday urged all schools to immediately stop inviting politicians to their school events.
+
+Speaking at an event organised by the Education Ministry, she said that inviting politicians to schools distracts students from the educational focus and risks politicising the school environment.
+
+She also stressed on the need for transparency in filling teacher vacancies and urged that the process be conducted properly to build public trust.
+
+...
+
+[Data](articles/1c16a720.json)
+
+[Extended Data](ext_articles/1c16a720.ext.json)
+
+---
+
+### New President calls on Colombo Archbishop; visits mosque
+
+*2024-09-27 04:43:57* · [`dailyftlk`](https://www.ft.lk/news/New-President-calls-on-Colombo-Archbishop-visits-mosque/56-767208) · `en`
+
+Newly elected President Anura Kumara Dissanayake on Monday called on Colombo Archbishop Cardinal Malcolm Ranjith to receive his blessings. Following this visit, the President also visited Dawatagaha Mosque in Colombo to seek further blessings.
+
+◼️
+
+[Data](articles/20dd97cf.json)
+
+[Extended Data](ext_articles/20dd97cf.ext.json)
+
+---
 
 ### Concentrated state vehicles will be released to essential services - Ananda Vijayapala
 
@@ -2281,187 +2421,5 @@ Peiris had held the position of Managing Director at both Litro Gas Lanka Ltd an
 [Data](articles/e6524770.json)
 
 [Extended Data](ext_articles/e6524770.ext.json)
-
----
-
-### Litro Chairman resigns
-
-*2024-09-26 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201565) · `si`
-
-Litro Gas Chairman Muditha Peiris resigns after gas pricing appointment. Served as MD since June 20, 2022. Resignation effective tomorrow.
-
-🟩
-
-Chairman of Litro Gas, Muditha Peiris has resigned.
-
-It is reported that he has been handed over to the resignation letter to effect tomorrow (27).
-
-Muditha Peiris commenced as Chairman of Litro Company, June 20, 2022.
-
-With the resignation of gas pricing, the Chairman was appointed as the new chairman with resignation.
-
-Muditha Peiris has previously served as the Managing Director of Litro Gas.
-
-◼️
-
-[Data](articles/9295eb5d.json)
-
-[Extended Data](ext_articles/9295eb5d.ext.json)
-
----
-
-### Sri Lanka’s top energy expert Tilak Siyambalapitiya appointed as CEB chairman
-
-*2024-09-26 14:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-top-energy-expert-tilak-siyambalapitiya-appointed-as-ceb-chairman-181118/) · `en`
-
-ECONOMYNEXT – Tilak Siyambalapitiya, one of Sri Lanka’s top energy experts has been appointed as the chairman of state-owned Ceylon Electricity Board (CEB) with immediate effect under the government of newly elected President Anura Kumara Dissanayake, the state media reported.
-
-Siyambalapitiya carries 40 years of experience in the energy sector of Sri Lanka, in south and southeast Asia, the Middle East and east Africa, the state media said.
-
-Siyambalapitiya earned his PhD from the University of Cambridge and had worked in the CEB for a decade in the past and in Saudi Arabia, on power sector planning and policy.
-
-He is a Chartered Engineer, and a Past President of Sri Lanka Energy Managers Association. He has worked as an international energy consultant, in Asia and Africa.
-
-He worked in government committees to establish the pricing policy for renewable energy (2006), net metering (2008) and national energy policy (2019). (Colombo/September 26/2024)
-
-◼️
-
-[Data](articles/d8820e44.json)
-
-[Extended Data](ext_articles/d8820e44.ext.json)
-
----
-
-### Certificate received on Chinese friendship at Colombo
-
-*2024-09-26 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201564) · `si`
-
-Sri Lanka-China relations strengthen: Chinese Ambassador praises bilateral ties, expresses gratitude for economic support. Both nations committed to continued cooperation and mutual benefit.
-
-🟩
-
-Chinese Ambassador to Sri Lanka, Sri Lankan Ambassador to Sri Lanka says that Sri Lankans have returned to a new era of history.
-
-He was speaking at a function at the Shanggra Hotel in Colombo yesterday (25) after the 75th anniversary of People China.
-
-Speaking further Mr. Hera said that Sri Lanka will continue to support China.
-
-The ceremony was chaired by the President of External Affairs Vijitha Herath, China Ambassador, Maithripala Sirisena, Sri Lanka's Ambassador to Sri Lanka, Dr. Nandalal Weerasinghe, Entrepreneurship Dilith Jayaweera.A number of guests were present at the occasion.
-
-Chinese Ambassador in Sri Lanka, Shingenga added,
-
-...
-
-[Data](articles/643bb039.json)
-
-[Extended Data](ext_articles/643bb039.ext.json)
-
----
-
-### Sri Lanka’s CSE, CMA collaborate on reporting awards
-
-*2024-09-26 13:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-cse-cma-collaborate-on-reporting-awards-181114/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange (CSE) and the Institute of Certified Management Accountants of Sri Lanka (CMA) have signed an agreement to cooperate on the CMA-IR Awards, with a focus on promoting reporting practices among listed companies.
-
-The memorandum of understanding makes CSE the strategic partner of the CMA Excellence in Integrated Reporting Awards 2024 (CMA-IR Awards).
-
-The awards focus on promoting integrated reporting practices amongst listed entities and other key institutions in Sri Lanka, the CSE said in a statement.
-
-“We are pleased to support an initiative that encourages companies to adopt best practices in building a sustainable, ethical, and responsible corporate culture,” CSE CEO Rajeeva Bandaranaike said.
-
-“By providing a holistic view of long-term value creation, companies foster trust among investors, strengthening the resilience, attractiveness, and competitiveness of our capital markets in line with global sustainability trends.”
-
-...
-
-[Data](articles/43d2c2d9.json)
-
-[Extended Data](ext_articles/43d2c2d9.ext.json)
-
----
-
-### Litro resignation
-
-*2024-09-26 13:52:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-நிறுவனத்தின்-தலைவர்-இராஜிநாமா/175-344520) · `ta`
-
-Litro resignation announcement: No gas shortage until Dec 31st.
-
-🟩
-
-He also said that there will be no shortage of gas until December 31st.
-
-◼️
-
-[Data](articles/05f41361.json)
-
-[Extended Data](ext_articles/05f41361.ext.json)
-
----
-
-### We expect Anurakumara to take action to solve the long-standing distress of the Tamil people.
-
-*2024-09-26 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194832) · `ta`
-
-Here's a 200-character summary:
-
-
-
-World Tamil Council expects President Anura Kumaratisanayake to address Tamil people's long-term suffering. New PM Harini Amarasuriya faces challenges in bringing political, economic, and social changes. Election campaign lacked racist ideas but minority concerns remain unaddressed.
-
-🟩
-
-The World Tamil Council has said that President Anura Kumaratisanayake will take meaningful action to solve the long -term suffering that has caused the Tamil people to feel like second -class citizens in their own country.
-
-Anuragumaratisanayake's political journey, Anuragumaratisanayake, who has begun in a normal background and has been a person of ordinary people throughout his political life, will be dreaming of all his achievements.
-
-We congratulate Harini Amarasuriya, who has been appointed as the new Prime Minister, the third woman in the history of Sri Lanka.
-
-We are satisfied that the election and the transformation have been peaceful, thereby exemplified by many world countries.
-
-We accept that the election campaign was largely lacking racist chauvinist ideas, and we expect this to be a paradigm for the future.
-
-Sri Lanka is at the decisive moment of its history, without any doubt, and the corruption that is rooted at all levels of society has made the People's Organization to change.
-
-...
-
-[Data](articles/9de0385e.json)
-
-[Extended Data](ext_articles/9de0385e.ext.json)
-
----
-
-### Jayantalal Ratnasekara took over as the Governor of the Eastern
-
-*2024-09-26 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194834) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Jayantha Lal Ratnasekara assumes governorship of Eastern Province. Formerly Vice-Chancellor of University of Uva Wellassa. Educated in chemistry, holds PhD. Served as Senior Lecturer and Professor at University of Sri Lanka. Research interests include renewable energy and environmental chemistry. Attended inauguration ceremony with officials and dignitaries.
-
-🟩
-
-Jayantha Lal Ratnasekara officially assumed his duties at the Governor's Secretariat in Trincomalee as the Governor of the Eastern Province on Thursday (26).
-
-He is the Vice -Chancellor of the University of Uva Wellasa and is an alumnus of Kandalai Akrapodi Vidyalaya.
-
-He served as the Vice Chancellor of the University of Uva Wellesa, Sri Lanka from February to 20th November 2017.
-
-He learned his primary education at the Akrabodi Vidyalaya in Kantalai and at the Nalanda College, Colombo (1972-1980). He also graduated from Russia's People's Alliance University.
-
-Honors graduated in chemistry in 1988. In 1993, he earned his doctorate in chemistry.
-
-In August 1996, he joined the University of Sri Lanka as a Senior Lecturer and was promoted to Professor in Chemistry in 2018.
-
-And from 1999 to 2005 as the Vice Chancellor of the Faculty of Application
-
-In January 2017. In 2021, he served as Chairman of the Vice Chancellor and Directors Committee (CVCD).
-
-...
-
-[Data](articles/90eaddb1.json)
-
-[Extended Data](ext_articles/90eaddb1.ext.json)
 
 ---

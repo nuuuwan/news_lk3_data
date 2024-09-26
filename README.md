@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 14:38:24**
+As of **2024-09-26 14:57:40**
 
 ## Newspaper Stats
 
-*Scraped **46,379** Articles*
+*Scraped **46,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ dailyftlk | 3,091
 adalk | 4,279
 dailymirrorlk | 4,733
 adaderanalk | 5,455
-tamilmirrorlk | 6,211
+tamilmirrorlk | 6,213
 virakesarilk | 7,405
-adaderanasinhalalk | 8,011
+adaderanasinhalalk | 8,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,379 (100.0%) of 46,379 articles have been extended.
+46,382 (100.0%) of 46,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Tilith joined Dilith
+
+*2024-09-26 14:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்துடன்-இணைந்தார்-திலும்/175-344522) · `ta`
+
+Tilith joins Dilith's party: Former SecState Tilum Amunugama becomes National Organizer of Mawpima Janata Party, led by Dilith Jayaweera.
+
+🟩
+
+Former Secretary of State Tilum Amunugama took over as the National Organizer of the Mawpima Janata Party, led by Dilith Jayaweera, on Thursday (26).
+
+◼️
+
+[Data](articles/e3e68879.json)
+
+[Extended Data](ext_articles/e3e68879.ext.json)
+
+---
+
+### Explanation for Doctor Archana
+
+*2024-09-26 14:28:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-விளக்கமறியல்/175-344521) · `ta`
+
+Chavakachcheri Magistrate's Court orders Dr. Archana held until Oct 10 over alleged threats to doctors. Bail revoked due to lack of evidence. Doctors demand her release.
+
+🟩
+
+The Chavakachcheri Magistrate's Court on Thursday (26) ordered that Ramanathan Archana, the former Medical Superintendent of the Chavakachcheri Hospital, should be kept in remand until October 10.
+
+The case against Dr. Archana for allegedly threatening and harassing doctors was taken up by other doctors in the presence of Magistrate A.Usun in Chavakachcheri Court.He was then placed in interrogation.
+
+The court has ordered the abolition of doctor Ramanathan Archana's bail and interrogation due to failing to submit evidence of the allegations leveled at the Chavakachcheri police station and the court.
+
+At the same time, it is noteworthy that in the last installment, the doctors' bailouts appeared in the forum and demanded the release of them from the bailouts.
+
+◼️
+
+[Data](articles/90c595a4.json)
+
+[Extended Data](ext_articles/90c595a4.ext.json)
+
+---
+
+### Litro Chairman resigns
+
+*2024-09-26 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201565) · `si`
+
+Litro Gas Chairman Muditha Peiris resigns after gas pricing appointment. Served as MD since June 20, 2022. Resignation effective tomorrow.
+
+🟩
+
+Chairman of Litro Gas, Muditha Peiris has resigned.
+
+It is reported that he has been handed over to the resignation letter to effect tomorrow (27).
+
+Muditha Peiris commenced as Chairman of Litro Company, June 20, 2022.
+
+With the resignation of gas pricing, the Chairman was appointed as the new chairman with resignation.
+
+Muditha Peiris has previously served as the Managing Director of Litro Gas.
+
+◼️
+
+[Data](articles/9295eb5d.json)
+
+[Extended Data](ext_articles/9295eb5d.ext.json)
+
+---
 
 ### Certificate received on Chinese friendship at Colombo
 
@@ -2229,79 +2297,5 @@ Increase in the quality of life of the people needs a practical work order. We w
 [Data](articles/33b20d1a.json)
 
 [Extended Data](ext_articles/33b20d1a.ext.json)
-
----
-
-### Special Statement in the President
-
-*2024-09-25 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201541) · `si`
-
-Here's a summary of the statement in approximately 200 characters:
-
-
-
-"President Anura Kumara Dissanayake addressed the race issue during his speech. He emphasized the importance of equality and fairness in all aspects of society."
-
-🟩
-
-President Anura Kumara Dissanayake addressing the race, addressing the race.
-
-◼️
-
-[Data](articles/f1db370a.json)
-
-[Extended Data](ext_articles/f1db370a.ext.json)
-
----
-
-### President Anura Kumara’s inaugural address to the nation
-
-*2024-09-25 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102267/president-anura-kumaras-inaugural-address-to-the-nation) · `en`
-
-Sri Lanka’s new President Anura Kumara Dissanayake’s inaugural address to the nation commenced at 7.30 p.m. today (25 September).
-
-The President’s special address to the nation was broadcast simultaneously on TV Derana, Ada Derana 24, FM Derana and streamed on Ada Derana social media platforms.
-
-Dissanayake was sworn into office on Monday after a landslide victory in the weekend’s presidential polls, where he defeated 38 other candidates and garnered over 5.6 million or 42.3 percent of the votes.
-
-He had issued a gazette notification dissolving the Parliament of Sri Lanka effective from midnight yesterday (24) and calling for snap elections.
-
-The proclamation summons the new Parliament to meet on November 21, 2024, and sets November 14, 2024, as the date for the election of new Members of Parliament. The nomination period will run from October 04 to 12:00 noon on October 11, 2024.
-
-◼️
-
-[Data](articles/1478f6c5.json)
-
-[Extended Data](ext_articles/1478f6c5.ext.json)
-
----
-
-### Let us devote for a populist public service without enjoying people's resources
-
-*2024-09-25 19:22:45* · [`adalk`](https://www.ada.lk/breaking_news/ජනතා-සම්පත්-භුක්ති-විදිමින්-නොසිට-ජනතාවාදී-රාජ්‍ය-සේවයක්-වෙනුවෙන්-කැපකරමු/11-412159) · `si`
-
-Here's a 200-character summary:
-
-
-
-Prime Minister Dr. Harini Amarasuriya emphasizes building a strong public service, independent from political influence. She stresses restoring public trust and confidence in governance.
-
-🟩
-
-Prime Minister Dr. Harini Amarasuriya said, "Prime Minister Dr. Harini Amarasuriya said," Prime Minister Dr. Harini Amarasuriya said.
-
-The Prime Minister said this at a discussion held at the Prime Minister's Prime Minister with the Prime Minister's Officers in Colombo this morning.
-
-Prime Minister Dr. Haraini Amarasuriya said,
-
-We must understand that the president is not from another presidential election. The President became the voluntary of the majority of the people in a presidential election after a struggle against a state-held government. The people expressed their decision according to the experiences and seeing of the experiences of last years.
-
-This year's election is more than a party-led elections, more than a party-driven election.
-
-...
-
-[Data](articles/c55190bb.json)
-
-[Extended Data](ext_articles/c55190bb.ext.json)
 
 ---

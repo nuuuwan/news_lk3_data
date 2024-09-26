@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 22:57:16**
+As of **2024-09-26 23:11:03**
 
 ## Newspaper Stats
 
-*Scraped **46,461** Articles*
+*Scraped **46,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 2,810
 dailyftlk | 3,091
 adalk | 4,292
 dailymirrorlk | 4,733
-adaderanalk | 5,465
+adaderanalk | 5,466
 tamilmirrorlk | 6,232
 virakesarilk | 7,427
-adaderanasinhalalk | 8,026
+adaderanasinhalalk | 8,028
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,461 (100.0%) of 46,461 articles have been extended.
+46,464 (100.0%) of 46,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Rare comet in the Earth
+
+*2024-09-26 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201583) · `si`
+
+Rare comet visible over Eastern Hemisphere tomorrow. Comet C2023-A3 expected to appear in eastern sky around 8 PM local time. Astronomers predict this event won't occur again for approximately 80,000 years.
+
+🟩
+
+Around 80,000 years, Sri Lankans will be able to see the opportunity to see the rare comel eye on the earth tomorrow (27).
+
+Astronomers say that the C2023 - A3, that the comet appears above the horizon of the eastern sky.
+
+◼️
+
+[Data](articles/6803c46f.json)
+
+[Extended Data](ext_articles/6803c46f.ext.json)
+
+---
+
+### Dilith reveals plans to form major alliance for parliamentary polls
+
+*2024-09-26 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102288/dilith-reveals-plans-to-form-major-alliance-for-parliamentary-polls) · `en`
+
+Mawbima Janatha Party (MJP) leader and entrepreneur, Dilith Jayaweera, announced plans to form a major political alliance ahead of the upcoming general elections.
+
+He made these remarks today (26) at a meeting held at the MJP head office in Colombo.
+
+During the event, former State Minister Dilum Amunugama was officially appointed as the national organiser of the MJP.
+
+Jayaweera stated, “In the general election, we are asking for votes in all districts. This time, we are creating the most influential political alliance in Sri Lanka. We have invited politicians, whom we believe will be accepted by the people, to engage in discussions with us.”
+
+“We are contesting the election under the ‘Sarvajana Balaya’ alliance and hope to secure a new symbol for it,” he added.
+
+◼️
+
+[Data](articles/b7bd5958.json)
+
+[Extended Data](ext_articles/b7bd5958.ext.json)
+
+---
+
+### Congratulations to Anura from Bideen Gen
+
+*2024-09-26 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201582) · `si`
+
+Here's a 200-character summary:
+
+
+
+US President Joe Biden congratulates Kumara Dissanayake on his election as Sri Lanka's president. He praises the free, fair, and peaceful election process. Biden expresses hope for cooperation on peace, security, and prosperity in the Indo-Pacific region.
+
+🟩
+
+US President Joe Biden, who was elected new president in Sri Lanka, has congratulated a greetings to Mr. Kumara Dissanayake.
+
+"The Sri Lankan treasures have been selected from a free, fair and peaceful election as their president."
+
+"I look forward to dealing with peace, security and prosperity in the Indo-Pacific region."The US President has stated in his X message.
+
+◼️
+
+[Data](articles/489ea9b1.json)
+
+[Extended Data](ext_articles/489ea9b1.ext.json)
+
+---
 
 ### 660 million to lose the government
 
@@ -2395,81 +2463,5 @@ The world's highest quality Basmati rice is produced by India and Pakistan.
 [Data](articles/10b43569.json)
 
 [Extended Data](ext_articles/10b43569.ext.json)
-
----
-
-### Sri Lanka rupee trades flat at 300.30/60 to US dollar, bond yields down
-
-*2024-09-26 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-flat-at-300-30-60-to-us-dollar-bond-yields-down-181057/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading relatively stable at 300.30/60 to the US dollar on Thursday, from 300.30/80 a day earlier, while bond yields were very much down dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.65/75 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.95/12.05 percent, down from 12.35/45 percent.
-
-A bond maturing on 15.06.2029 was quoted at 12.15/20 percent down from 12.45/55 percent.
-
-A bond maturing on 15.05.2030 was quoted at 12.47/60 percent.
-
-In equities, Colombo’s All Share Price Index was trading 0.13 percent, or 15.37 points higher at 11,675, while the S&P SL20 of more liquid stocks opened up 0.24 percent or 8.15 points lower at 3,375.
-
-◼️
-
-[Data](articles/8b5cb5cf.json)
-
-[Extended Data](ext_articles/8b5cb5cf.ext.json)
-
----
-
-### Young couple killed in accident
-
-*2024-09-26 10:40:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இளம்-தம்பதி-பலி/175-344495) · `ta`
-
-Couple killed in motorcycle crash. Teacher Bhagya Boralesa (28) and husband Indika Sampath died after being hit by a van driven by a businessman. Driver arrested, investigation ongoing. Bodies sent to hospitals.
-
-🟩
-
-A school teacher and her husband died in a vehicle accident on Wednesday evening near the Bopagoda junction on the Akuresa Siyambalagoda - Bidabethara road, Akurassa police said.
-
-With prizes received at Bidabeter, Mediripitiya school, they have traveled with her husband on a motorcycle on a motorbike.
-
-A businessman from Bidabethra was traveling from Akuressa to Bidabeth in his luxury van and crashed into a nearby soil.
-
-The victims have been identified as 28 -year -old Bhagya Boralesa from Magadura area and her husband Indika Sampath has been identified.
-
-Police have arrested a suspected business driver and investigated investigations to find out whether he was in alcohol.
-
-The body of Bhagya has been taken to the Akuresa Hospital and Indika's body to Karapitiya Hospital. Police said Bhagya was also pregnant.
-
-◼️
-
-[Data](articles/11f02f84.json)
-
-[Extended Data](ext_articles/11f02f84.ext.json)
-
----
-
-### China tests a ballistic missile
-
-*2024-09-26 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201557) · `si`
-
-China conducts ballistic missile test, sparking international concern.
-
-🟩
-
-China has expressed his concern for the experiment with a long distance bulicist missile.
-
-In yesterday's yesterday, China had tried a balist missile trial yesterday.
-
-The media reported that China has informed other countries regarding its experiment.
-
-However, Japan has worried that such an notification has not been made. Foreign media reports that New Zealand and Australia have expressed concerns.
-
-◼️
-
-[Data](articles/e310fef6.json)
-
-[Extended Data](ext_articles/e310fef6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 13:39:01**
+As of **2024-09-26 13:58:22**
 
 ## Newspaper Stats
 
-*Scraped **46,376** Articles*
+*Scraped **46,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,278
+adalk | 4,279
 dailymirrorlk | 4,733
 adaderanalk | 5,455
 tamilmirrorlk | 6,210
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,376 (100.0%) of 46,376 articles have been extended.
+46,377 (100.0%) of 46,377 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -111,6 +111,28 @@ However, he clarified that individuals whose postal vote applications were rejec
 [Data](articles/8e1a7efa.json)
 
 [Extended Data](ext_articles/8e1a7efa.ext.json)
+
+---
+
+### Party-century from Chandimal
+
+*2024-09-26 12:04:18* · [`adalk`](https://www.ada.lk/sports/චන්දිමාල්ගෙන්-අර්ධ-ශතකයක්/9-412162) · `si`
+
+Sri Lanka batted first in NZ vs SL 2nd Test at Galle. Dinesh Chandimal (52) and Dimuth Karunaratne (34) contributed. SL scored 88/3 in 27 overs.
+
+🟩
+
+The first day of the New Zealand team and the second Test match between the Sri Lanka team will be held at the Galle International Cricket Stadium.
+
+Sri Lanka won the toss and elected to bat first, accordingly, Sri Lanka won 88 runs in 27 overs.
+
+Dinesh Chandimal scored 52 runs and Dimuth Karunaratne, 34 runs in the wicket.
+
+◼️
+
+[Data](articles/47dc6d04.json)
+
+[Extended Data](ext_articles/47dc6d04.ext.json)
 
 ---
 
@@ -2281,31 +2303,5 @@ With the facts we do not decrease. About five thousand persons need to need moth
 [Data](articles/411f677c.json)
 
 [Extended Data](ext_articles/411f677c.ext.json)
-
----
-
-### 5500 breast cancer patients from Sri Lanka per year
-
-*2024-09-25 19:12:28* · [`adalk`](https://www.ada.lk/breaking_news/වසරකට-ලංකාවෙන්-පියයුරු-පිළිකා-රෝගීන්-5500ක්/11-412157) · `si`
-
-Sri Lanka sees 5500 breast cancer patients annually, including 125 men. Dr. Hashari Fernando notes higher mortality rates compared to other countries. Risk factors include age over 50, family history, obesity, alcohol/drug use, and infertility. Self-examinations monthly for women over 20 are recommended. Breast clinics operate in 26 government hospitals. Awareness campaign runs Oct 1-31, focusing on male involvement in breast cancer awareness.
-
-🟩
-
-About 5,500 breast cancer patients identify a year in the country, including about 125 of them will be men.
-
-Community Health Specialist Dr. Hashari Fernando pointed out that the death toll due to breast cancer in Sri Lanka is highly increased to other countries, and the rapid increase in the disease has caused men to die.
-
-She also stated that people over the risk of individuals over the age of 50 are high, that is the cause of the risk of the disease, family history, obesity, alcohol and drug abuse, childlessness.
-
-The notice of breast cancer is from October 1 to 31, and its theme is to 'no man should face alone on breast cancer.'
-
-Those over 20 years old, self-breast test should be carried out every month. In addition, breast clinics will be held in 26 government hospitals and breast tests are also available on the health clinic and hospitals in the hospital.
-
-◼️
-
-[Data](articles/87167964.json)
-
-[Extended Data](ext_articles/87167964.ext.json)
 
 ---

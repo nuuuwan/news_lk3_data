@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 12:24:37**
+As of **2024-09-26 12:38:30**
 
 ## Newspaper Stats
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 8,008
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,363 (100.0%) of 46,365 articles have been extended.
+46,365 (100.0%) of 46,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
 
-### තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම ගැන කොමිසමෙන් නිවේදනයක්
+### Commission announced on accepting postal voting applications
 
 *2024-09-26 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201560) · `si`
 
-පාර්ලිමේන්තු මැතිවරණය සඳහා තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම සැප්තැම්බර් මස 30 වනදා සිට ඔක්තෝබර් මස 07 වනදා දක්වා සිදුකරන බව මැතිවරණ කොමසාරිස්, ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+Postal voting applications open Sept 30-Oct 30. President uses 2024 voter registers. No need for those who submitted last election. Reapply if rejected previously. Service category voters must apply. Election Commission informs eligible officers. 14,714,354 voters eligible. Benefits children appearing for A/L exam.
 
-මෙම මැතිවරණයේ දී ද 2024 ඡන්දහිමි නාමලේඛන භාවිතා කරන බැවින් ජනාධිපතිවරණට අදාළව තැපැල් ඡන්ද අයදුම්පත් ඉදිරිපත් කළ සියලුදෙනාට නැවතත් මෙම මැතිවරණය සඳහා තැපැල් ඡන්ද අයදුම්පත් ඉදිරිපත් කිරීමට අනවශ්‍ය බවද ඒ මහතා පැහැදිලි කළේය.
+🟩
 
-කොළඹ අද (26) පෙරවරුවේ පැවති මාධ්‍ය සාකච්ඡාවක දී ඒ මහතා මේ බව පැහැදිලි කළේය.
+Elections Commissioner, DS General Saman Sri Ratnayake says that postal voting applications will be held on September 30 to October 30.
 
-"මේ මැතිවරණයේදී පහුගිය ඡන්දහිමි නාමලේඛන භාවිතා කරන බැවින් පහුගිය ඡන්දහිමි නාමලේඛනයට අදාළව තැපැල් ඡන්ද අයදුම්පත් ඉදිරිපත් කරපු සියලුම අය සඳහා නැවත තැපැල් ඡන්ද අයදුම්පත් ඉදිරිපත් කිරීමේ අවශ්‍යතාවයක් ඇති වන්නේ නැහැ. ඒ ඔබට අදාළ සියලුම දත්ත සියල්ල අප සතුව තිබෙනවා.
+He also said that all the postal voting applications of the president was using 2024 voter registers as 2024 were not necessary to submit postal voting applications for this election.
+
+He was speaking at a press conference held in Colombo this morning.
+
+"Under this election, there is no need to submit postal voting applications for all those who submitted postal voting applications in relation to the recent number of electoral registers.. We have all the information you have.
+
+But if you have rejected the last presidential election for the last presidential election, the postal voting application has been rejected because of a matter of fact and submit a postal voting application. That means the candidates of the postal voting applications have to be re-applied.
 
 ...
 
 [Data](articles/69f865d1.json)
 
+[Extended Data](ext_articles/69f865d1.ext.json)
+
 ---
 
-### පාසලේ අවසන් දවසේ ජීවිතයට සමුදුන් ගුරුතුමිය
+### The teacher of life to life on the last day of the school
 
 *2024-09-26 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201559) · `si`
 
-වෙනත් පාසලකට ස්ථාන මාරුවක් ලැබීම හේතුවෙන් පැවති උත්සවයකට සහභාගී වී නැවත නිවස බලා යමින් සිටි ගුරුවරියක් සහ ඇයගේ සැමියා රිය අනතුරකට ලක්ව ජීවිතක්ෂයට පත්වීමේ සිද්ධියක් අකුරැස්ස ප්‍රදේශයෙන් වාර්තා වේ.
+Teacher killed in car accident on way home from school event. Husband died instantly. Police investigating driver of luxury van. Victim was 28-year-old Bhahya Borakera and her husband Indika Sampath.
 
-පිටබැද්දර මෙදේරිපිටිය පාසලේ වසර 5ක පමණ සේවය කළ ගුරුවරියක් වෙනත් පාසලකට මාරු වීම හේතුවෙන් පැවති උත්සවයෙන් අනතුරුව සිය සැමියා සමග නිවස බලා යමින් සිටියදී අකුරැස්ස, සියඹලාගොඩ, පිටබැද්ද මාර්ගයේ දී මෙම අනතුරට මුහුණ දී තිබුණා.
+🟩
 
-ඒ ඔවුන් රැගත් යතුරු පැදිය සුඛෝපභෝගී වෑන් රථයක ගැටීම හේතුවෙනි.
+A teacher who was returning to a ceremony and her husband, a teacher who was returning to the house and her husband was killed in a car accident.
 
-සිද්ධිය දුටුවන් පැවසුවේ තුවාලකරුවන් රෝහල්ගත කිරීමට විනාඩි 20ක පමණ කාලයක් ගත වූ බවය.
+The accident had occurred in Akuressa, Siyambalagoda, Petabeded road, Akuressa while a five-year-old teacher from Pitabeddapitiya school.
 
-"ට්‍රාන්සර් එක අරගෙන යන ගමන් තමා ඇක්සිඩන්ට් එක සිද්ධවෙලා තියෙන්නේ. අවුරුදු 5ක් පුරා දෙනියාය කලාපයේ දෙනිපිටිය ඉස්කෝලේ වැඩ කරේ. ඇක්සිඩන්ට් එක වෙන්න පැයකට කලින් කතා කරලා කිව්වා ට්‍රාන්සර් එක අරන් යන ගමන් කියලා. ටික වෙලාවකින් මට කතා කරා ඇක්සිඩන්ට් වෙලා නැති වුණා කියලා."
+The motorcycle they carry on a luxury van.
+
+The victims said that 20 minutes of hospitalization took place in hospital.
+
+"He has an accident on the way to take the transid. Deniyitiya School in Deniyaya region is employed for 5 years. Axidant called an hour ago and said that the transor was taken with the journey. Shortly after a while, I was talking about Axedant. "
+
+"The great noise heard. We ran and had. There was no bike here. The vehicle was completely subjected to. Then the villagers were together and pulled out the bike under the vehicle. Driver told to take the lespers. He's rounded around the car, but no need. About 20 minutes was late. A wheel of a park was talking to the Akuress. "
 
 ...
 
 [Data](articles/cab37a8e.json)
+
+[Extended Data](ext_articles/cab37a8e.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 13:22:38**
+As of **2024-09-26 13:39:01**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 8,010
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,375 (100.0%) of 46,376 articles have been extended.
+46,376 (100.0%) of 46,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
 
-### ඊශ්‍රායලයෙන් ලෙබනනයට ගොඩබිම් ප්‍රහාරයක් ?
+### Israel lands down to Lebanon
 
 *2024-09-26 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201562) · `si`
 
-ඊශ්‍රායලය අසල්වැසි ලෙබනනයේ හිස්බුල්ලා ඉලක්ක වෙත ගුවන් ප්‍රහාර ආරම්භ කර දැන් සතියකට ආසන්න කාලයක් ගතවී අවසන් ය.
+Israel launches ground assault on southern Lebanon after week-long airstrikes. World leaders intervene as death toll reaches 620. Israeli residents urged to return home. UN General Assembly convenes in New York.
 
-ඊශ්‍රායල හමුදා දකුණු ලෙබනනය වෙත ගොඩබිම් ප්‍රහාරයක් ආරම්භ කිරීමේ සැලසුමක් ඇතැයි එරට හමුදාපතිවරයා ඊයේ (25) දින ඉඟි කර තිබුණි.
+🟩
 
-හිස්බුල්ලා ප්‍රහාර හේතුවෙන් නිවෙස් හැර යාමට සිදුව ඇති 60,000 ඉක්මවූ ඊශ්‍රායල වැසියන්ට උතුරු ඊශ්‍රායලයේ සිය නිවෙස් වෙත ආපසු යාමට අවස්ථාව ලබාදිය යුතු බැවින් මෙලෙස ප්‍රහාර දියත් කරන බවට ඔහු අවධාරණය කළේ ය.
+Israel commences air strikes on the neighborhood of the neighborhood Lebanon and it has been nearly a week.
 
-මේ අතර නිව්යෝර්ක් නුවර පැවැත්වෙන එක්සත් ජාතීන්ගේ මහා සමුළුව අතරතුර රැස්වූ ලෝක නායකයින් ඊශ්‍රායලය සහ ලෙබනනය අතර දින 21ක සටන් විරාමයක් ඇති කිරීමට මැදිහත්වීම සඳහා එකඟ වී තිබේ.
+The army commander had been planned to commence the land attack on the South Lebanon.
 
-ඊයේ (25) දිනයේ දී ලෙබනනය වෙත එල්ල වූ ඊශ්‍රායල ගුවන් ප්‍රහාරවලින් පුද්ගලයින් 72 ක් මියගොස් ඇති අතර, ඒ අනුව ඊශ්‍රායල ප්‍රහාරවලින් ලෙබනනයේ සිදුවූ සමස්ත මරණ ගණන 620කි.
+He emphasized that the Israeli inhabitants of Israel should be able to return to their homes in northern Israeli to their homes in north Israel.
+
+Meanwhile, world leaders have agreed to intervene between Israel and Lebanon, along with the United Nations General Assembly in New York.
+
+Israeli air strikes were killed in Israeli air strikes yesterday (25) and the total number of deaths in Lebanon attacks were 620 deaths.
 
 ◼️
 
 [Data](articles/bf4ad4b9.json)
+
+[Extended Data](ext_articles/bf4ad4b9.ext.json)
 
 ---
 

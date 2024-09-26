@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 20:11:16**
+As of **2024-09-26 20:38:40**
 
 ## Newspaper Stats
 
-*Scraped **46,443** Articles*
+*Scraped **46,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,287
+adalk | 4,288
 dailymirrorlk | 4,733
 adaderanalk | 5,463
-tamilmirrorlk | 6,228
+tamilmirrorlk | 6,230
 virakesarilk | 7,424
 adaderanasinhalalk | 8,022
 
@@ -26,45 +26,97 @@ adaderanasinhalalk | 8,022
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,441 (100.0%) of 46,443 articles have been extended.
+46,446 (100.0%) of 46,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
 
-### யானையிலிருந்து டெலிபோனுக்கு தாவினர்
+### Is Sajith Premadasa Raja?
+
+*2024-09-26 20:14:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாச-இராஜினாமா/175-344547) · `ta`
+
+Sajith Premadasa denies resignation claim. General Secretary Ranjith Mathuma Bandara dismisses rumors on social media. No truth in news about party leader stepping down.
+
+🟩
+
+Its general secretary Ranjith Mathuma Bandara has denied reports on social media that United People's Power Party leader Sajith Premadasa has resigned.
+
+"There is no truth in the news that is spreading on social media," said Mathuma Bandara.
+
+◼️
+
+[Data](articles/b0425920.json)
+
+[Extended Data](ext_articles/b0425920.ext.json)
+
+---
+
+### Resignation of Petroleum Corporation
+
+*2024-09-26 19:57:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோலிய-கூட்டுத்தாபன-தலைவர்-ராஜினாமா/175-344545) · `ta`
+
+Petroleum Corporation Chairman Resigns: Three Companies Affected. Resignation allows new minister flexibility in appointing council members.
+
+🟩
+
+Accordingly, he has resigned from the posts of the chairman of three companies, Petroleum Corporation, Ceylon Petroleum Storage Terminals and Trinco Petroleum Terminal.
+
+The letter stated that he would resign from his posts to give the new minister a freedom to appoint a favorite council.
+
+◼️
+
+[Data](articles/9d5db77c.json)
+
+[Extended Data](ext_articles/9d5db77c.ext.json)
+
+---
+
+### Jumped from the elephant to the telephone
 
 *2024-09-26 19:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானையிலிருந்து-டெலிபோனுக்கு-தாவினர்/175-344544) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் (UNP) இரண்டு அமைப்பாளர்கள் ஐக்கிய மக்கள் சக்தி (SJB) உடன் இணைந்துள்ளனர்.
+Two UNP organizers join SJB, supporting Sajith Premadasa. Varuna Rajapaksa and Mahesh Senanayake defect, citing no specific reason. Decision made public during meeting with SJB leadership.
 
-ஐக்கிய தேசியக் கட்சியின் கம்பஹா அமைப்பாளர் வருண ராஜபக்ஷ மற்றும் யட்டிநுவர அமைப்பாளர் மகேஷ் சேனாநாயக்க ஆகியோர் SJBக்கு ஆதரவளிப்பதாக உறுதியளித்துள்ளனர்.
+🟩
 
-இன்று SJB தலைவர் சஜித் பிரேமதாசவுடன் இடம்பெற்ற சந்திப்பில் ராஜபக்ஷ மற்றும் சேனாநாயக்க ஆகியோர் தமது தீர்மானங்களை அறிவித்தனர்.
+Two organizers of the United National Party (UNP) have joined the United People's Power (SJB).
+
+United National Party (UNP) organizer Varuna Rajapaksa and Yatinuwara organizer Mahesh Senanayake have promised to support the SJB.
+
+Rajapaksa and Senanayake announced their decisions at a meeting with SJB leader Sajith Premadasa today.
 
 ◼️
 
 [Data](articles/ab3c49a4.json)
 
+[Extended Data](ext_articles/ab3c49a4.ext.json)
+
 ---
 
-### ”குறிக்கோளுடன் ஜனாதிபதி என்னை நியமித்துள்ளார்’’
+### “The President has appointed me with the goal
 
 *2024-09-26 19:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறிக்கோளுடன்-ஜனாதிபதி-என்னை-நியமித்துள்ளார்/175-344542) · `ta`
 
-ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் உறுதிமொழிக்கு அமைவாக மாற்றங்களை நடைமுறைப்படுத்த தீர்மானித்துள்ளதாக மேல் மாகாண ஆளுநராக அண்மையில் நியமிக்கப்பட்ட தொழிலதிபர் ஹனீப் யூசுப் தெரிவித்தார்.
+New governor Haneeb Yusuf appointed by President Anura Kumara Dissanayake aims to bring meaningful change, improve public sector, end corruption, and strengthen economy. He seeks support to enhance ordinary people's livelihoods.
 
-புதிய ஆளுநராகப் பதவியேற்றதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-"அமைப்பில் அர்த்தமுள்ள மாற்றத்தை கொண்டு வரவும், ஏழைகளை மேம்படுத்தவும், பொதுத்துறையை வலுப்படுத்தவும் ஒரு தெளிவான குறிக்கோளுடன் ஜனாதிபதி என்னை நியமித்துள்ளார்" என்று யூசுப் கூறினார்.
+Recently appointed businessman Haneeb Yusuf said that the decision to implement changes in accordance with President Anura Kumara Dissanayake has decided to implement changes.
 
-மேலும், புதிய ஆளுநர், ஊழல் மற்றும் லஞ்சத்திற்கு முற்றுப்புள்ளி வைப்பதில் தனது அர்ப்பணிப்பையும் வெளிப்படுத்தினார்.
+He said this while speaking to the media after taking office as the new governor.
 
-“இது என்னால் மட்டுமே செய்ய கூடிய காரியம் அல்ல, நாம் அனைவரும் கைகோர்த்து செயல்பட்டால் முடியாத காரியமும் அல்ல, என்னிடம் ஒரு திட்டம் உள்ளது, சாதாரண மக்களின் வாழ்வாதாரத்தை மேம்படுத்தும் மாற்றங்களை கொண்டு வர அனைவரின் ஆதரவையும் எதிர்பார்க்கிறேன். ," என்று அவர் மேலும் கூறினார்.
+Yusuf said, "The President has appointed me with a clear goal to bring a meaningful change in the system, improve the poor and strengthen the public sector."
+
+In addition, the new governor expressed his commitment to put an end to corruption and bribery.
+
+“This is not the only thing that can do with me, but it is not impossible for us to work together. I have a plan. I expect everyone's support to bring about changes to improve the livelihood of ordinary people.. , "He added.
 
 ◼️
 
 [Data](articles/e3e7e506.json)
+
+[Extended Data](ext_articles/e3e7e506.ext.json)
 
 ---
 
@@ -219,6 +271,34 @@ He added that during the last regime, the public money wasted was in vain and th
 [Data](articles/f0de799e.json)
 
 [Extended Data](ext_articles/f0de799e.ext.json)
+
+---
+
+### Another case against Gnanasara Thera is the verdict. On the 14th
+
+*2024-09-26 18:48:32* · [`adalk`](https://www.ada.lk/breaking_news/ඥානසාර-හිමිට-එරෙහි-තවත්-නඩුවක-තීන්දුව-නොවැ--14දා/11-412171) · `si`
+
+Gnanasara Thera case verdict: Bodu Bala Sena leader accused of religious reconciliation breach. Colombo Crimes Division charges under Penal Code Section 291(b). Court hearing concludes, verdict expected November 14.
+
+🟩
+
+Colombo Additional Magistrate Amarasene Amaraseena informed the Bodu Bala Sena Leader's decision against the 'Bodu Bala Sena' leader in the 'Bodu Bala Sena' leader, accusing the 'Bodu Bala Sena'.
+
+A statement made by the Islamic Religion on July 6, 2016 has been accused of breaking religious reconciliation.
+
+The Colombo Crimes Division has been handed over to a punishable offense under Section 291 (b) of the Penal Code.
+
+The suspect Galagoda Aththe Gnanasara Thera appeared in court when the case was taken up.
+
+Attorney-at-Law Gamini Alwis, who appeared to him in writing, the complaint was filed by the complaint to prove the allegations against his client.
+
+Officers of the Colombo Crimes Division appeared for the complaint. After considering the facts of both sides, the magistrate informed the case to publish the verdict of November 14.
+
+◼️
+
+[Data](articles/f9bb65e2.json)
+
+[Extended Data](ext_articles/f9bb65e2.ext.json)
 
 ---
 
@@ -2425,75 +2505,5 @@ Strong winds of about 40-45 kmph can be expected at times over the western slope
 [Data](articles/5d3d6bee.json)
 
 [Extended Data](ext_articles/5d3d6bee.ext.json)
-
----
-
-### Special Discussion in Nuwara Eliya
-
-*2024-09-26 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194816) · `ta`
-
-Nuwara Eliya: National People's Power celebrates Anura Kumara Dissanayake's election as Sri Lanka's 9th President. Supporters gathered, distributed milk and sweets, and demanded district solutions. Event attended by party leaders and supporters.
-
-🟩
-
-A special discussion was held in Nuwara Eliya on Wednesday evening to mark the election of National People's Power Leader Anura Kumara Dissanayake as the 9th Executive President of Sri Lanka.
-
-The event was organized by the supporters of the National People's Power and held a discussion and success celebration at the National People's Power Branch set up in the Bale Bazaar area in the main city of Nuwara Eliya.
-
-They celebrated their victory peacefully by providing milk and sweets to the public.
-
-The people also demanded an immediate solution to some of the major issues in the Nuwara Eliya district.
-
-The event was attended by many supporters and people with the participation of the leaders of the National People's Power Party.
-
-◼️
-
-[Data](articles/e37392fa.json)
-
-[Extended Data](ext_articles/e37392fa.ext.json)
-
----
-
-### 85 MPs losing pension
-
-*2024-09-26 08:54:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வூதியத்தை-இழக்கும்-85-எம்-பி-க்கள்/175-344485) · `ta`
-
-MPs face loss of pension due to dissolution of parliament. Lifetime pension of 45,000 rupees for 5+ years of service may end. Ninth parliament term set to conclude in August 2023.
-
-🟩
-
-A Member of Parliament who has completed five years in Parliament will receive a lifetime of forty -five thousand rupees as a lifetime pension.
-
-But the MPs will lose that privilege as the parliament is to be dissolved next year.
-
-The ninth parliament began on August 20, 2020. Accordingly, the term of parliament ended in August next year. Remble
-
-◼️
-
-[Data](articles/5072546d.json)
-
-[Extended Data](ext_articles/5072546d.ext.json)
-
----
-
-### The deadly accident
-
-*2024-09-26 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201553) · `si`
-
-Motorcycle collides with van, killing 38-year-old motorist and 32-year-old wife. Van driver arrested, Akuressa Police investigating.
-
-🟩
-
-The accident had occurred when a motorcycle collided with a van.
-
-The victim was the 38-year-old motorist and his 32-year-old wife.
-
-The driver of the van has been arrested in connection with the accident and Akuressa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/9d0e2882.json)
-
-[Extended Data](ext_articles/9d0e2882.ext.json)
 
 ---

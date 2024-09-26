@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 17:07:52**
+As of **2024-09-26 17:22:40**
 
 ## Newspaper Stats
 
-*Scraped **46,411** Articles*
+*Scraped **46,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,70 +15,274 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
-adalk | 4,283
+adalk | 4,284
 dailymirrorlk | 4,733
-adaderanalk | 5,458
+adaderanalk | 5,460
 tamilmirrorlk | 6,219
-virakesarilk | 7,415
-adaderanasinhalalk | 8,017
+virakesarilk | 7,418
+adaderanasinhalalk | 8,018
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,405 (100.0%) of 46,411 articles have been extended.
+46,417 (100.0%) of 46,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
 
-### பொதுத் தேர்தல் குறித்து வெளியான அறிவிப்பு
+### Airport employee arrested for stealing items from passengers’ luggage at BIA
+
+*2024-09-26 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102282/airport-employee-arrested-for-stealing-items-from-passengers-luggage-at-bia) · `en`
+
+The Airport Police have arrested an airport employee who had allegedly opened the luggage of passengers arriving at Bandaranaike International Airport (BIA) in Katunayake and stole items from them.
+
+The suspect, an employee of SriLankan Airlines who works in the baggage storage terminal, had secretly entered the unit where the passenger luggage of a flight that arrived at Katunayake Airport from Malaysia on September 23, opened passengers’ luggage, and stole items. The incident was recorded on CCTV cameras.
+
+The arrest was made after officers from SriLankan Airlines’ investigative officers  observed the camera footage and reported the suspect to the Katunayake Airport Police.
+
+SriLankan Airlines and Katunayake Airport had received complaints about missing items from passengers’ luggage for some time, and due to their vigilance, the employee was apprehended.
+
+◼️
+
+[Data](articles/dd95c4d5.json)
+
+[Extended Data](ext_articles/dd95c4d5.ext.json)
+
+---
+
+### Customs history arrested the largest rash
+
+*2024-09-26 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201572) · `si`
+
+Sri Lanka customs seizes record-breaking drugs: 43kg+600g from British citizen's luggage. 21-year-old security officer arrested. Case handed to police narcotics division for investigation.
+
+🟩
+
+Katunayake Customs officials have taken into custody a crock personnel who brought to Sri Lanka by a British national.
+
+Customs officials say that the drug raids the largest raid in Customs history, which is 43 kg and nearly 600 grams.
+
+Customs said that the drug was found in two baggage he had brought.
+
+The arrested was a 21 year old and he was a British security officer.
+
+The suspect has been handed over to the officers of the Police Narcotics Division for further investigations.
+
+◼️
+
+[Data](articles/d372a066.json)
+
+[Extended Data](ext_articles/d372a066.ext.json)
+
+---
+
+### British youth arrested with over 43kg ‘Kush’ cannabis at BIA
+
+*2024-09-26 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102281/british-youth-arrested-with-over-43kg-kush-cannabis-at-bia) · `en`
+
+A British national has been arrested at the Bandaranaike International Airport (BIA) in Katunayake with over 43 kg of ‘Kush’ cannabis worth more than Rs. 440 million.
+
+The 21-year-old passenger had arrived at the BIA from Bangkok, Thailand onboard a SriLankan Airlines flight at 9.15 a.m. this morning (26).
+
+A total of 43.648 kg of Kush cannabis was found concealed inside his luggage while the seized drugs are estimated to be worth over Rs. 440 million.
+
+He had been arrested by Customs officers at the airport who are conducting further investigations.
+
+◼️
+
+[Data](articles/b66abd03.json)
+
+[Extended Data](ext_articles/b66abd03.ext.json)
+
+---
+
+### Notice
 
 *2024-09-26 16:47:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தல்-குறித்து-வெளியான-அறிவிப்பு/175-344533) · `ta`
 
-பாராளுமன்ற தேர்தலுக்கான தபால் மூல வாக்களிப்பு விண்ணப்பங்கள் செப்டம்பர் 30 ஆம் திகதி முதல் ஒக்டோபர் 7 ஆம் திகதி வரை ஏற்றுக்கொள்ளப்படும் என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+Here's a summary of the notice in 200 characters:
+
+
+
+"Postal voting applications open Sept 30-Oct 7. Election Commission announcement."
+
+🟩
+
+Postal voting applications for the parliamentary election will be accepted from September 30 to October 7, the Elections Commission said.
 
 ◼️
 
 [Data](articles/aa42e2b5.json)
 
+[Extended Data](ext_articles/aa42e2b5.ext.json)
+
 ---
 
-### ශිෂ්‍යත්ව විභාගයේ ගැටලුවට මානව හිමිකම් කොමිසමෙන් විමර්ෂනයක්
+### 'World Man' Kamal Haasan's 'Thax Life' is completed
+
+*2024-09-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194852) · `ta`
+
+Kamal Haasan's 'Thax Life' completes filming. Directed by Mani Ratnam, it stars Kamal, Silambarasan, Trisha. Music by Ravi K., produced by Rajkamal Film International. Expected to release next year.
+
+🟩
+
+The film crew has been happy to announce that the shooting of 'Thax Life' starring Kamal Haasan has been completed.
+
+Directed by director Mani Ratnam, Kamal Haasan, Silambarasan, Ashok Selvan, Trisha, Nasser, Abirami, Aishwarya Lakshmi, Sania Malkotra, Joju George, Pankaj Tripathi, Ali Faisal, Jishu Senkupta, Vaiyaptha Sarab, Jishu Skupta
+
+Ravi K. 'Music Storm' for the film, which is being recorded by Moon. R. Rahman has composed the music.
+
+The film is being produced by Rajkamal Film International, Madras Talkies and Red Giant Movies.
+
+The film crew has announced the exclusive video that the shooting of the film, which has been going on in several stages, has been completed.
+
+Meanwhile, Kamal Haasan and Mani Ratnam's coalition has reunited after the biggest hit 'Mani' and the film is expected to be a huge expectation and the film will be released next year.
+
+◼️
+
+[Data](articles/33bfb9ad.json)
+
+[Extended Data](ext_articles/33bfb9ad.ext.json)
+
+---
+
+### 'I told the story of the Lapper ball for twenty minutes'
+
+*2024-09-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194854) · `ta`
+
+'Lapper Bandu' success meeting held at Chennai hotel. Director Thamilarasan Bachhamuttu thanks audience, journalists. Film produced by Prince Pictures Company, starring Harish Kalyan-Dinesh. Story revolves around local cricket, rubber ball theme.
+
+🟩
+
+Harish Kalyan-Dinesh starrer 'Lapper Bandu' has been a huge success in criticism and grossly grossing expectations.
+
+The film crew, who wanted to thank the audience and the journalists for this purpose, integrated the success meeting at star hotel in Chennai.
+
+Harish Kalyan, Dinesh, Thusika, Sanjana Krishnamurthy, Bala Saravanan, Jenson Divakar, TSK, starring debut director Thamilarasan Bachhamuttu.
+
+The film was produced by Prince Pictures Company, produced by Shaun Roldan.. Produced by Lakshman Kumar.
+
+The film, which was ready for a local cricket, was released at the film House around the world on the last twenty day.
+
+When the positive criticism of the film was released, the public grossing increased.
+
+Director Thamilarasan Bachhamuttu said, “I met the producer and told a love story first.
+
+He refused to do so. I immediately told the story of the film in twenty minutes when I told you to tell the story of the life of the simple people.
+
+...
+
+[Data](articles/3b914af1.json)
+
+[Extended Data](ext_articles/3b914af1.ext.json)
+
+---
+
+### Official announcement on the date of starting Big Boss Season 8
+
+*2024-09-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194853) · `ta`
+
+Big Boss Season 8 starts October 6th. New challenges, controversies expected. Vijay Sethupathi's strategy intriguing. Competitors details online. Event billed as "Digital Diwali".
+
+🟩
+
+The eighth part of the event, which has been completed in seven parts, is soon to be completed in seven parts.. An official announcement has been made.
+
+Big Poss Season 8 begins with the attractive words of 'ruling new game and new'.
+
+It has been reported that there will be new competitions between competitors in the new season and that the event will be held in the last seven parts of the Big Poss house in the last seven parts.
+
+'People Selvan' Vijay Sethupathi has attracted fans not only in his role in the platform, but also on the stage and the public meeting.
+
+How is 'People Selvan' Vijay Sethupathi going to handle the strategy of making artificially controversy and attracted the audience?The expectation about it has increased.
+
+Various information about competitors participating in the Big Boss Season 8 event has been published on the Internet.
+
+However the official announcement.. The event will be revealed on the evening of the sixth October.
+
+...
+
+[Data](articles/4333736e.json)
+
+[Extended Data](ext_articles/4333736e.ext.json)
+
+---
+
+### Human Rights Commission investigates the issue of scholarship examination
 
 *2024-09-26 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201571) · `si`
 
-පසුගියදා නිමාවට පත්වූ 05 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ ගැටලුකාරී තත්වය පිළිබදව විමර්ශනයක් මේ වන විට සිදුකෙරෙන බව ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාව පවසයි.
+Human Rights Commission investigates scholarship exam controversy. HR officials, education ministry, exam department representatives attend. Parents protest against exam restoration.
 
-මානව හිමිකම් සභාවේ කොමසාරිස්වරයා ඇතුලු නිළධාරීන්ගේ සහභාගීත්වයෙන් මෙම විමර්ශනය පැවැත්වෙන බව එහි ප්‍රකාශකයෙකු සදහන් කළේය.
+🟩
 
-එම විමර්ශනය සදහා අධ්‍යාපන අමාත්‍යංශයේ සහ විභාග දෙපාර්තමේන්තුවේ බලධාරීන් පෙනී සිටින බව වාර්තා වෙයි.
+The Human Rights Commission of Sri Lanka (HR)
 
-ඊට අමතරව ශිෂ්‍යත්ව විභාගයට පෙනී සිටි දරුවන්ගේ දෙමව්පියන් පිරිසක් ද මානව හිමිකම් කොමිෂන් සභාවට පැමිණ තිබේ.
+A spokesman for the participation of officers including the Commissioner of Human Rights Council.
 
-ශිෂ්‍යත්ව විභාගය යළි පැවැත්වුවහොත් දරුවන් යළි පීඩාවට පත්වන බව දෙමව්පියන් කොමිෂන් සභාව හමුවේ පැමිණිලි කර තිබේ.
+It is reported that the authorities of the Ministry of Education and the Department of Examinations are also present.
+
+In addition, a group of parents of children who sat for the scholarship examination have also come to the Human Rights Commission.
+
+Parents have lodged a complaint with the Commission that the scholarship examination will be restored.
 
 ◼️
 
 [Data](articles/9b102cc8.json)
 
+[Extended Data](ext_articles/9b102cc8.ext.json)
+
 ---
 
-### இஸ்லாத்தை அவமதித்த வழக்கு: நவம்பர் 14 தீர்ப்பு
+### Case that insulted Islam: November 14
 
 *2024-09-26 16:25:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்லாத்தை-அவமதித்த-வழக்கு-நவம்பர்-14-தீர்ப்பு/175-344532) · `ta`
 
-பொதுபல சேனா அமைப்பின் தலைவர் கலபத்த அத்தே ஞானசார தேரர் இஸ்லாத்தை அவமதித்ததாக கூறி அவருக்கு எதிராக கொழும்பு குற்றத்தடுப்பு பிரிவினால் தாக்கல் செய்யப்பட்ட வழக்கின் தீர்ப்பை  நவம்பர் 14ஆம் திகதி வழங்குமாறு கொழும்பு மேலதிக நீதவான் பசன் அமரசேன இன்று (26) உத்தரவிட்டுள்ளார்.
+Sri Lanka court verdict: Bodu Bala Sena leader guilty of insulting Islam. Case filed over 2016 speech. Magistrate orders trial.
 
-முறைப்பாட்டில் முன்வைக்கப்பட்ட குற்றச்சாட்டை நிரூபிப்பதற்கான ஆதாரங்கள் முன்வைக்கப்படாத நிலையில், குற்றம்சாட்டப்பட்டவரை விடுதலை செய்யுமாறு சிரேஷ்ட சட்டத்தரணி காமினி அல்விஸ் நீதிமன்றில் கோரினார்.
+🟩
 
-2016  ஜூலை 8, அன்று நடைபெற்ற செய்தியாளர் சந்திப்பின் போது, ​​இஸ்லாம் தொடர்பான அறிக்கை மத நல்லிணக்கத்தை மீறுவதாகவும், அதன்படி, குற்றவியல் சட்டத்தின் 291 (பி) பிரிவின் கீழ் தண்டனைக்குரிய குற்றம் இழைக்கப்பட்டதாகவும் குற்றம் சாட்டி இந்த வழக்கு தாக்கல் செய்யப்பட்டது.
+Colombo Additional Magistrate Basan Amarasena today (26) ordered the verdict of the Crime Branch filed by the Colombo Crime Branch on November 14, claiming that the President of the Bodu Bala Sena Organization, Galapatha Ate Gnanasara Thera had insulted Islam.
 
-வழக்கு விசாரணைக்காக கொழும்பு குற்றப்பிரிவு அதிகாரிகள் நீதிமன்றத்தில் ஆஜராகினர் இரு தரப்பினரின் வாதங்களையும் பரிசீலித்த நீதவான், நவம்பர் 14ஆம் திகதி தீர்ப்பு வழங்கப்படும் என்று உத்தரவிட்டார்.
+Senior Attorney Gamini Alwis appealed to the court to release the accused, as evidence to prove the allegation made in the complaint.
+
+During a press conference held on July 8, 2016, the case was filed, accusing the report of Islam to violate religious harmony and, accordingly, was convicted of punishment under Section 291 (B) of the Criminal Act.
+
+The Magistrate, considering the arguments of the two sides, ordered that the Colombo Criminal Officers appeared in court for trial.
 
 ◼️
 
 [Data](articles/7cb2c0cb.json)
+
+[Extended Data](ext_articles/7cb2c0cb.ext.json)
+
+---
+
+### Resigns with Litro gas company president
+
+*2024-09-26 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194849) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Litro gas company appoints Muditha Peiris as president on June 13, 2022. He previously managed Government-owned LP Gas Distribution Company and leads Litro Gas Lanka Ltd and Litro Gas Terminal Lanka (PVT) Ltd.
+
+🟩
+
+On June 13, 2022, Muditha Peiris was appointed president of Litro.
+
+Prior to that, he served as the Managing Director of the Government -owned LP Gas Distribution Company.
+
+He is also the Managing Director of Litro Gas Lanka Lanka Ltd and Litro Gas Terminal Lanka (PVT) Ltd.
+
+◼️
+
+[Data](articles/392f31f2.json)
+
+[Extended Data](ext_articles/392f31f2.ext.json)
 
 ---
 
@@ -242,65 +446,77 @@ Accordingly, a committee is expected to appoint a committee to grant approval wi
 
 ---
 
-### Resigns with Litro gas company president
+### Call returns to call gifts
 
-*2024-09-26 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194849) · `ta`
+*2024-09-26 15:43:17* · [`adalk`](https://www.ada.lk/breaking_news/තෑගි-මුදල්-දෙනව-කියල-කෝල්-ආවට-විස්තර-දෙන්ඩ-එපා/11-412167) · `si`
 
-Here's a 200-character summary:
-
-
-
-Litro gas company appoints Muditha Peiris as president on June 13, 2022. He previously managed Government-owned LP Gas Distribution Company and leads Litro Gas Lanka Ltd and Litro Gas Terminal Lanka (PVT) Ltd.
+Kandy police investigate bank fraud gang targeting elderly tech-savvy individuals. Organized crime uses stolen phone numbers and OTPs to transfer funds between accounts. Heads of the group operate internationally.
 
 🟩
 
-On June 13, 2022, Muditha Peiris was appointed president of Litro.
+Kandy headquarters police have commenced investigations into an organized gang who deceives the accounts of government and private banks to deceive their accounts.
 
-Prior to that, he served as the Managing Director of the Government -owned LP Gas Distribution Company.
+Investigations have already begun on eight such complaints received by the Kandy headquarters police.
 
-He is also the Managing Director of Litro Gas Lanka Lanka Ltd and Litro Gas Terminal Lanka (PVT) Ltd.
+Police say that the organized gang is less common in computer technology that exceeded 45-50 years of age.
+
+This organized gang found that they find their mobile phone number and obtain their mobile phone number and obtaining their mobile phone number and get the account number and the account number and the account number can only be used once.Police say the secret number (OTP) will be informed to give the organized gang.
+
+Similarly, the money in their account is credited to another account number as soon as the temporary confidential number. The police are often greedy to the money. Police say that the mobile investigations have been identified as the heads of the organized gang have been abroad.. (Ij)
 
 ◼️
 
-[Data](articles/392f31f2.json)
+[Data](articles/8f53bbce.json)
 
-[Extended Data](ext_articles/392f31f2.ext.json)
+[Extended Data](ext_articles/8f53bbce.ext.json)
 
 ---
 
-### “ போதுமான எரிபொருள் கையிருப்பு உள்ளது ”
+### “There is enough fuel reserves”
 
 *2024-09-26 15:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதுமான-எரிபொருள்-கையிருப்பு-உள்ளது/175-344530) · `ta`
 
-இந்த நாட்டில் நுகர்வுக்கு போதுமான எரிபொருள் கையிருப்பு உள்ளதாக மின்சக்தி மற்றும் வலுசக்தி அமைச்சின் அதிகாரிகள், ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கு அறிவித்தனர்.
+Sufficient fuel reserves confirmed by Ministry of Power. President emphasizes securing next year's supply and implementing measures to ensure fuel availability. Solar power initiatives and foreign aid projects discussed. Rural development prioritized to strengthen economy.
 
-மக்களுக்குத் தடையின்றி எரிபொருளை வழங்குவதற்கான அனைத்து நடவடிக்கைகளையும் வினைத்திறனுடன் முன்னெடுப்பதன் அவசியத்தை வலியுறுத்திய ஜனாதிபதி, அடுத்த வருடத்திற்குத் தேவையான எரிபொருளை பெற்றுக்கொள்வதில் கவனம் செலுத்துமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்தார். இந்த செயற்பாடுகளுக்கு ஜனாதிபதி என்ற வகையில் தனது முழுமையான ஒத்துழைப்பை வழங்குவதாகவும் அவர் சுட்டிக்காட்டினார்.
+🟩
 
-மின்சக்தி மற்றும் வலுசக்தி அமைச்சின் அதிகாரிகளுடன் ஜனாதிபதி அலுவலகத்தில்  வியாழக்கிழமை (26) நடைபெற்ற கலந்துரையாடலின் போதே   ஜனாதிபதி அநுரகுமார திசாநாயக்க இதனைக் குறிப்பிட்டார்.
+Officials of the Ministry of Power and Power and Power have informed President Anura Kumara Dissanayake that there is sufficient fuel reserves for consumption in this country.
 
-இந்திய உதவித்திட்டத்தின் கீழ் மின்சக்தி அமைச்சிற்குக்   கிடைத்துள்ள சூரிய சக்தி பெனல்களை விரைவில் பிரிவெனாக்களுக்கு  வழங்க ஏற்பாடு செய்யுமாறு அதிகாரிகளுக்கு பணிப்புரைவிடுத்த ஜனாதிபதி, சூரிய சக்தி பெனல்களை  வழங்குவதற்கான திட்டமொன்றைத் தயாரிப்பதன் முக்கியத்துவத்தையும் எடுத்துரைத்தார்.
+The President urged the authorities to focus on getting the fuel required for the next year, emphasizing the need to carry out all measures to provide fuel to the people.. He also pointed out that he is fully cooperating with these activities as the President.
+
+President Anura Kumara Dissanayake made this statement during a discussion held at the Presidential Office on Thursday (26) with officials of the Ministry of Power and Power and Energy.
+
+The President, who had issued a directive to the authorities to arrange solar power penals available to the Ministry of Electricity under the Indian Assistant Scheme, also highlighted the importance of preparing a plan to provide solar power penals.
 
 ...
 
 [Data](articles/86853548.json)
 
+[Extended Data](ext_articles/86853548.ext.json)
+
 ---
 
-### தெற்காசிய முன்னணி விமான சேவை ’ஸ்ரீலங்கன் ஏர்லைன்ஸ்’
+### Sri Lanka Airlines
 
 *2024-09-26 15:30:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்காசிய-முன்னணி-விமான-சேவை-ஸ்ரீலங்கன்-ஏர்லைன்ஸ்/175-344529) · `ta`
 
-தெற்காசிய சுற்றுலா சேவை விருது விழாவின் போது , தெற்காசியாவின் முன்னணி விமான சேவையாக “ ஸ்ரீலங்கன் ஏர்லைன்ஸ் ”, அங்கீகரிக்கப்பட்டுள்ளது.
+SriLankan Airlines wins South Asian Tourism Service Award. Annual ceremony held in Kathmandu, Nepal. Recognized for excellence in regional aviation. Operates 130 weekly flights to India, Pakistan, Bangladesh, and Nepal.
 
-வருடாந்தம் நடைபெறும் இந்த விருது வழங்கும் விழா தெற்காசிய பிராந்தியத்தில் சுற்றுலா சேவை துறையில் மிகவும் மதிக்கப்படும் விருது விழாவாகும் .  இம்முறை  நேபாளம் , காத்மாண்டுவில்  வெள்ளிக்கிழமை (20 ) அன்று நடைபெற்றது.
+🟩
 
-தொழில் வல்லுநர்கள் மற்றும் நுகர்வோர் அளித்த வாக்குகளின் அடிப்படையிலேயே குறித்த  விருது விழாவிற்கான தேர்வுகள் நடைபெற்றுள்ளது .
+"SriLankan Airlines" is recognized as the leading airline in South Asia during the South Asian Tourism Service Awards.
 
-ஸ்ரீலங்கன் ஏர்லைன்ஸ் தெற்காசிய பிராந்தியத்தில் உள்ள இந்தியா, பாகிஸ்தான், பங்களாதேஷ் மற்றும் நேபாளம் போன்ற நாடுகளில் உள்ள சர்வதேச விமான நிலையங்களுக்கு,  வாரத்திற்கு 130 முறை பயணங்கள் மேற்கொள்ளும் என்பது குறிப்பிடத்தக்கது .
+The annual awards ceremony is the most respected award ceremony in the South Asian region..  இம்முறை  நேபாளம் , காத்மாண்டுவில்  வெள்ளிக்கிழமை (20 ) அன்று நடைபெற்றது.
+
+The awards ceremony was based on the votes cast by professionals and consumers.
+
+SriLankan Airlines will travel 130 times a week to international airports in India, Pakistan, Bangladesh and Nepal in the South Asian region.
 
 ◼️
 
 [Data](articles/a8217970.json)
+
+[Extended Data](ext_articles/a8217970.ext.json)
 
 ---
 
@@ -2221,167 +2437,5 @@ Samarasinghe highlighted that this situation is a clear example of the misuse of
 [Data](articles/dc5bd85b.json)
 
 [Extended Data](ext_articles/dc5bd85b.ext.json)
-
----
-
-### 2024 General Election: Number of MPs elected from each district revealed
-
-*2024-09-26 01:38:00* · [`dailyftlk`](https://www.ft.lk/news/2024-General-Election-Number-of-MPs-elected-from-each-district-revealed/56-767162) · `en`
-
-The Election Commission of Sri Lanka has issued a statement mentioning the number of Members of Parliament (MPs) to be elected from each electoral district and the number of candidates in a nomination paper in the 2024 General Election.
-
-The highest number of MPs will be elected from the Gampaha District with a total of 19 members to be elected.
-
-In a statement issued in relation to the 2024 Parliamentary elections, the Election Commission has also announced information regarding the deposits required to be placed by independent groups and the number of candidates to be nominated by political parties or independent groups for each district.
-
-It also includes information about the number of members to be elected for the respective electoral district, the number of candidates to be nominated by a nomination paper and the security deposit to be deposited by an independent group.
-
-◼️
-
-[Data](articles/47d24cdc.json)
-
-[Extended Data](ext_articles/47d24cdc.ext.json)
-
----
-
-### The new president's choice does not stand up to the country's restructuring projects
-
-*2024-09-26 00:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194808) · `ta`
-
-New Sri Lankan president faces challenges in implementing restructuring projects due to ongoing IMF-backed debt operations and potential policy changes. Moody's expects continued stability despite political shift.
-
-🟩
-
-The 'Moodyes' benchmarking company has expressed hope that the election of the new President of Sri Lanka will not be disrupted by the country's restoration projects.
-
-In a statement issued by a popular credit rating company known as 'Moodyes', which is operating in New York City, in the wake of the ninth presidential election and its decisions held in Sri Lanka last Saturday.
-
-According to the report, although there has been a political change in Sri Lanka, the current debt operations and the project supported by the International Monetary Fund are expected to continue without any change.
-
-At the same time, the 'Moodyes' Credit Company, which has pointed out that maintaining financial coordination can be a little more challenging, has expressed the expectation that some policies may be prioritized when the new administration has taken these economic challenges.
-
-...
-
-[Data](articles/53cc565e.json)
-
-[Extended Data](ext_articles/53cc565e.ext.json)
-
----
-
-### Let us interfere in the internal affairs of Sri Lanka;We will work together to advance mutual interests -Lynn Jian
-
-*2024-09-26 00:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194807) · `ta`
-
-Here's a 200-character summary:
-
-
-
-China supports Sri Lanka's stability and development without interfering in its internal affairs. China congratulates newly elected President Dissanayake and offers assistance for Sri Lanka's economic and social growth.
-
-🟩
-
-China wants to see Sri Lanka's stability and development as a close friendship. According to the country's Foreign Ministry spokesman, Lynn Jian said that China is ready to have a promotion in Sri Lanka's stable economic and social development in accordance with the policy of respecting the country's interests and not interfere with Sri Lanka's internal affairs.
-
-Lynn Jian said this in response to questions raised about Sri Lanka's presidential election results at a media briefing in China last Monday.. He further stated that
-
-“The presidential election of Sri Lanka has been held smoothly on the 21st. Through the election, we congratulate us to Dissanayake, who has been elected as the new President of Sri Lanka and take over his duties.. Our President C Jinping had sent a greeting to President Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/47b79ad7.json)
-
-[Extended Data](ext_articles/47b79ad7.ext.json)
-
----
-
-### The sacrificial torch tributes to Diliphan in the island
-
-*2024-09-26 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194806) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Dilshan Dileepan's 37th memorial event took place on Wednesday evening in Jaffna Island. A car tribute was organized at the Jaffna Velanai Memorial site."
-
-🟩
-
-Dileepan Dileepan's 37th Memorial Corporation event was held on Wednesday (25) evening in the Jaffna Islands.
-
-The car, which was started at the Jaffna Velanai Memorial Publisher
-
-◼️
-
-[Data](articles/f84d922c.json)
-
-[Extended Data](ext_articles/f84d922c.ext.json)
-
----
-
-### Israel attack on Lebanon: 569 killed
-
-*2024-09-26 00:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனான்-மீதான-இஸ்ரேல்-தாக்குதல்-569-பேர்-பலி/50-344478) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Israel's bombing in Lebanon kills 569. Thousands flee south Lebanon. Egyptian, Iranian, and Jordanian foreign ministers condemn Israel's actions against Lebanon.
-
-🟩
-
-About 569 people have been killed in Israel's bombing across Lebanon, the Ministry of Health said.
-
-In addition, tens of thousands of people have left the southern part of Lebanon due to the attack, foreign reports say.
-
-Foreign ministers of Egypt, Iran and Jordan have condemned Israel's occupation against Lebanon. (A)
-
-◼️
-
-[Data](articles/9424e91d.json)
-
-[Extended Data](ext_articles/9424e91d.ext.json)
-
----
-
-### TMC meets with Indian High Commission
-
-*2024-09-26 00:11:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகருடன்-த-மு-கூட்டணி-சந்திப்பு/175-344477) · `ta`
-
-Tamil Progressive Alliance met Indian High Commission. Meeting invited by High Commissioner Santosh Ja. Present: President Manohanesan, Deputy Leaders Palani Digambaram, Velusamy Radhakrishnan, former MP Mayilvankanam Udayakumar.
-
-🟩
-
-A meeting between the Tamil Progressive Alliance and the Indian High Commission was held yesterday.
-
-The meeting was held at the invitation of Indian High Commissioner Santosh Ja and the President of the Tamil Progressive Alliance, Manohanesan, Deputy Leaders Palani Digambaram and Velusamy Radhakrishnan and former MP Mayilvankanam Udayakumar were also present.. (A)
-
-◼️
-
-[Data](articles/e54781dc.json)
-
-[Extended Data](ext_articles/e54781dc.ext.json)
-
----
-
-### If you want to strengthen democracy
-
-*2024-09-26 00:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/194805) · `ta`
-
-Strengthen democracy: Abolish repressive laws, appoint truth commission, reform state media.
-
-🟩
-
-Pointing out that the foundation of strong democratic regime is against repression, the Independent Media Movement urges the new President to dedicate Dissanayake to the new President.
-
-“The Independence Media Movement commented that the future of the country would be decided on how the government, including him, would work on this occasion, conveying our congratulations to the President of Sri Lanka, the 9th Executive President of Sri Lanka.
-
-In the past, a number of orders have been introduced and passed in order to control people's speech and freedom of expression and thereby suppressing democracy.
-
-...
-
-[Data](articles/0f1656fe.json)
-
-[Extended Data](ext_articles/0f1656fe.ext.json)
 
 ---

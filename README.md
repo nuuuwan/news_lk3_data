@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 09:38:31**
+As of **2024-09-26 09:58:02**
 
 ## Newspaper Stats
 
-*Scraped **46,347** Articles*
+*Scraped **46,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,807
 dailyftlk | 3,091
 adalk | 4,274
 dailymirrorlk | 4,733
-adaderanalk | 5,449
+adaderanalk | 5,450
 tamilmirrorlk | 6,204
 virakesarilk | 7,404
-adaderanasinhalalk | 8,001
+adaderanasinhalalk | 8,002
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,347 (100.0%) of 46,347 articles have been extended.
+46,349 (100.0%) of 46,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### CAA calls for reduction of bakery product prices
+
+*2024-09-26 09:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102272/caa-calls-for-reduction-of-bakery-product-prices) · `en`
+
+According to the Consumer Affairs Authority (CAA), the prices of egg-based bakery products should also decrease in line with the reduction in the price of eggs in the market.
+
+The Chairman of the CAA, Thusitha Indrajith, stated that the price of an egg, which was previously sold at a high price, is now between Rs. 28 and Rs. 35.
+
+He further emphasized that steps should be taken to pass this benefit on to consumers.
+
+◼️
+
+[Data](articles/2ef3e854.json)
+
+[Extended Data](ext_articles/2ef3e854.ext.json)
+
+---
+
+### Several discussions with the opposition alliance
+
+*2024-09-26 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201554) · `si`
+
+Opposition alliance discusses supporting Ranil Wickremesinghe for parliamentary election. No final decision made yet. UNP reps met this morning. Discussion with Sri Lanka Government and Civil Front scheduled today. Election commission approval pending. Focus shifting to Public United Front. Final agreement expected today. Special meeting held in Colombo yesterday.
+
+🟩
+
+It is reported that all political parties and groups who have supported former President Ranil Wickremesinghe for the parliamentary election will compete in a political alliance.
+
+No final decision has been taken so far and several discussions will be held today (26).
+
+UNP representatives and former President Ranil Wickremesinghe have been discussed this morning.
+
+It is reported that if it is necessary to contest the next parliamentary election and the sign, reports say.
+
+Meanwhile, a discussion is scheduled to hold a discussion with the support of the Sri Lanka Government Ranil Wickremesinghe and the Sri Lanka Civil Front at 4.00 pm today.
+
+It is said to be a final agreement on how to contest the parliamentary election.
+
+Meanwhile, the General Freedom Freedom Freedom Festival of the Commissioner of the Commissioner General of the Commissioner General has not been given to the Commissioner General of MPs to support Ranil Wickremesinghe from the Sri Lanka General Front.
+
+...
+
+[Data](articles/63708f25.json)
+
+[Extended Data](ext_articles/63708f25.ext.json)
+
+---
 
 ### US and allies call for an immediate 21-day cease-fire between Israel and Hezbollah
 
@@ -2257,61 +2305,5 @@ The Indian Foreign Minister has said this to the US note.
 [Data](articles/675c8348.json)
 
 [Extended Data](ext_articles/675c8348.ext.json)
-
----
-
-### Diriya-child asks for a savior from you
-
-*2024-09-25 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201536) · `si`
-
-A young boy needs help due to illness and disability. His mother struggles daily to care for him, pushing his wheelchair to school. The family faces economic challenges. A solution is needed to ease the mother's burden.
-
-🟩
-
-A child who was born is unexpectedly confined to the Vandwaswewa area.
-
-The 15-year-old-hearted light is currently trapped in a wheelchair.
-
-He was unable to walk with a sickness of meltdown at the age of 7.
-
-Due to the birthdowns of learning, the mother does not look at about a kilometer to the light school about a miles [km] to take a wheelchair.
-
-The mother of two day and night, the mother of two days and night, the mother of light and night, is always dreaming to give him a good education.
-
-The father of Light is unable to walk in a danger to the family economy.
-
-A Light's mother is a challenge to live in the middle of these many problems.
-
-Failure to stand up with both
-
-"Mom is very tired when you pushing the wheelchair and take me at school. Give me a wheelchair to lose that effort. "
-
-If a sacrificial is a 76-674 5349, the mother of the belone can be connected to the mother of the beloved.
-
-◼️
-
-[Data](articles/8cb7fca4.json)
-
-[Extended Data](ext_articles/8cb7fca4.ext.json)
-
----
-
-### IMF hopes to strengthen mutually beneficial relationship with Sri Lanka: PMD
-
-*2024-09-25 17:01:00* · [`economynextcom`](https://economynext.com/imf-hopes-to-strengthen-mutually-beneficial-relationship-with-sri-lanka-pmd-180972/) · `en`
-
-ECONOMYNEXT – Managing Director of the International Monetary Fund (IMF) Kristalina Georgieva has congratulated Sri Lanka’s President Anura Dissanayake on his election and reaffirmed the IMF’s commitment to remaining a strong partner to Sri Lanka.
-
-In a letter to Dissanayake, Georgieva “Expressed her hope to further strengthen the mutually beneficial relationship between the two parties,” the president’s media division said.
-
-“Georgieva assured President Dissanayake of the IMF’s full support in helping Sri Lanka achieve its development and reform goals.”
-
-The review of the IMF program on June data, was due in October. Following the presidential election in September, general elections are to be held on November 14. (Colombo/Sep25/2024)
-
-◼️
-
-[Data](articles/2ed9eb81.json)
-
-[Extended Data](ext_articles/2ed9eb81.ext.json)
 
 ---

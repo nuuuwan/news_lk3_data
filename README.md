@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 10:23:08**
+As of **2024-09-26 10:38:33**
 
 ## Newspaper Stats
 
-*Scraped **46,353** Articles*
+*Scraped **46,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,807
 dailyftlk | 3,091
-adalk | 4,274
+adalk | 4,275
 dailymirrorlk | 4,733
 adaderanalk | 5,451
 tamilmirrorlk | 6,205
 virakesarilk | 7,405
-adaderanasinhalalk | 8,003
+adaderanasinhalalk | 8,004
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,353 (100.0%) of 46,353 articles have been extended.
+46,355 (100.0%) of 46,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### A series of guidelines to prevent newly - informed the court
+
+*2024-09-26 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201556) · `si`
+
+Supreme Court guidelines prevent new events state universities. Attorney General informs court about prepared measures. Petitioner seeks justice for injuries sustained during university event.
+
+🟩
+
+The Attorney General has informed the Supreme Court that a series of guidelines have been prepared to eliminate newly in state universities.
+
+The three-member Supreme Court Judge Shiran Gunaratne and Priyantha Fernando have been summoned by a fundamental rights petition from the Sri Jayawardenapura University of Sri Jayawardenaph Jayasuriya, who has been admitted to a set of events in state universities..
+
+Deputy Solicitor General Dr. Amavan Perera, who appeared for the Attorney General, said that a series of guidelines have been prepared to prevent new events in state universities.
+
+The Chief Justice stated that if those guidelines were sent to all universities, the final draft would be taken.
+
+The Chief Justice has also ordered to adjust the finals in court.
+
+The petitioner says that the backdrop of the University of Sri Jayewardenepura has been severely injured and caused serious treatment for nearly three months.
+
+But the petitioner has shown that he has not been fully recovered.
+
+...
+
+[Data](articles/7710ff2f.json)
+
+[Extended Data](ext_articles/7710ff2f.ext.json)
+
+---
 
 ### The price of bakery products should be reduced - Consumer Officers Authority
 
@@ -1912,6 +1942,44 @@ It is noteworthy that the President's Parliament and the dissolution of Parliame
 
 ---
 
+### Chicken demand is largely reduced
+
+*2024-09-25 18:47:39* · [`adalk`](https://www.ada.lk/breaking_news/කුකුළු-මස්-ඉල්ලුම-විශාල-ලෙස-අඩුවෙලා/11-412154) · `si`
+
+Here's a 200-character summary:
+
+
+
+Chicken demand drops sharply, prices may fall from Rs. 900 to Rs. 850 in two weeks. Egg prices rise to Rs. 50, could drop to Rs. 25. Demand expected to recover after Christmas and New Year holidays.
+
+🟩
+
+The All Ceylon Small Industries Association states that the demand for chicken has reduced a large number of chicken in the next two weeks, and the price of chicken can reduce its Rs.
+
+The retail price of a kilogram of chicken is now between Rs. 25,000 and Rs.
+
+The price could fall from Rs. 900 and Rs. 850 within the next two weeks.
+
+The number of chicken is now coming to the market at the end of the daily, he said the eggs at the end of the end.
+
+Thus chicken decreases in the coming days and the chicken prices can increase again in a certain amount, so the chicken prices can increase again.
+
+The daily egg demand is also a significant amount of egg prices, and the demand for the economic price has diminished and the demand of the egg prices were so small.
+
+The price of an egg has risen to Rs.
+
+Although the demand was fallen, but the price of an egg was Rs. 50 and Rs.
+
+The price of an egg could drop to Rs 25 per Rs.
+
+...
+
+[Data](articles/a360c814.json)
+
+[Extended Data](ext_articles/a360c814.ext.json)
+
+---
+
 ### "Continue peace of mind"
 
 *2024-09-25 18:43:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-அமைதியை-நிலைநாட்டுங்கள்/175-344455) · `ta`
@@ -2253,47 +2321,5 @@ The turnover of the market was Rs. 3.96 billion.
 [Data](articles/90dfbf1a.json)
 
 [Extended Data](ext_articles/90dfbf1a.ext.json)
-
----
-
-### IMF. President guarantees head
-
-*2024-09-25 17:30:23* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ප්‍රධානීගෙන්-ජනපති-අනුරට-සහතිකයක්/11-412147) · `si`
-
-IMF MD Christenda Georgieva greets Sri Lanka's new president, reaffirming partnership and readiness to support development and reform goals.
-
-🟩
-
-The International Monetary Fund Managing Director Christenda Georgieva greeted the new presidency in Sri Lanka.
-
-Ms. Christendana Georgieva, a special greeting message to the President, has been continuing as a partner in Sri Lanka and intends to strengthen the mutual beneficial relationship between the International Monetary Fund and Sri Lanka.
-
-Mrs. Christenda Georgiyewa has also been assured that he is ready to provide the necessary support to achieve development and reforms goals in Sri Lanka.
-
-◼️
-
-[Data](articles/b83383a6.json)
-
-[Extended Data](ext_articles/b83383a6.ext.json)
-
----
-
-### Permission for homosexual marriage
-
-*2024-09-25 17:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஓரினச்சேர்க்கை-திருமணத்திற்கு-அனுமதி/50-344450) · `ta`
-
-Thailand approves gay marriage. King signs bill. Law takes effect in 120 days. Parliament decision legalizes same-sex unions nationwide.
-
-🟩
-
-The king of Thailand has now approved it as the Thailand parliament has decided to legalize homosexual marriage.
-
-Accordingly, the law will come into effect after 120 days.
-
-◼️
-
-[Data](articles/09c79074.json)
-
-[Extended Data](ext_articles/09c79074.ext.json)
 
 ---

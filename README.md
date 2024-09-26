@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 20:38:40**
+As of **2024-09-26 20:57:26**
 
 ## Newspaper Stats
 
-*Scraped **46,446** Articles*
+*Scraped **46,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,463
 tamilmirrorlk | 6,230
 virakesarilk | 7,424
-adaderanasinhalalk | 8,022
+adaderanasinhalalk | 8,023
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,446 (100.0%) of 46,446 articles have been extended.
+46,447 (100.0%) of 46,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Dilith has a massive alliance for the general election
+
+*2024-09-26 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201578) · `si`
+
+Dilith Jayaweera's People's Party forms massive alliance for general election. Kandy District MP Dilum Amunugama joins as national organizer. Party aims to create influential coalition across Sri Lanka districts. Inviting politicians for discussions before election.
+
+🟩
+
+Mawbim People's Party Dilith Jayaweera says that a massive alliance is created around its party for the next general election.
+
+He was speaking at a meeting held at the People's Party office today (26).
+
+The Kandy District MP Dilum Amunugama, who joined the Motherland People's Party, was appointed national organizer of the Motherland People's Party.
+
+"Voting for all districts in general. We will create a more influential coalition in Sri Lanka. We believe that the people accept.. We have invited politicians.. To come with a conversation with us. Under the ovenoms, we are about to vote for the general election. We hope to get a new mark. "
+
+◼️
+
+[Data](articles/3b5df7e4.json)
+
+[Extended Data](ext_articles/3b5df7e4.ext.json)
+
+---
 
 ### Is Sajith Premadasa Raja?
 
@@ -2485,25 +2509,5 @@ In response, government sources have confirmed that Senior Deputy Inspector Gene
 [Data](articles/593e7269.json)
 
 [Extended Data](ext_articles/593e7269.ext.json)
-
----
-
-### Afternoon thundershowers expected in most parts of the island
-
-*2024-09-26 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102270/afternoon-thundershowers-expected-in-most-parts-of-the-island) · `en`
-
-The Meteorology Department says the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island for the next few days starting tomorrow (27).
-
-Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
-
-Showers or thundershowers may occur at several places in Eastern and Uva provinces and in Mullaitivu district during the evening or night, it said.
-
-Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central and North-western provinces and in Matale, Hambantota and Monaragala districts.
-
-◼️
-
-[Data](articles/5d3d6bee.json)
-
-[Extended Data](ext_articles/5d3d6bee.ext.json)
 
 ---

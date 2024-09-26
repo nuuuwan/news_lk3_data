@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 10:57:12**
+As of **2024-09-26 11:10:23**
 
 ## Newspaper Stats
 
-*Scraped **46,355** Articles*
+*Scraped **46,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ dailymirrorlk | 4,733
 adaderanalk | 5,451
 tamilmirrorlk | 6,205
 virakesarilk | 7,405
-adaderanasinhalalk | 8,004
+adaderanasinhalalk | 8,006
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,355 (100.0%) of 46,355 articles have been extended.
+46,357 (100.0%) of 46,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Basmati price change?
+
+*2024-09-26 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201558) · `si`
+
+India suspends rice imports but maintains Basmati exports. Basmati price capped at $950 per metric ton. Exports rose 20% in Q1 2023. Production may increase 10-12%. Major markets: India, Canada, Iraq, Oman, Saudi Arabia.
+
+🟩
+
+India, the largest rice exporter in the world, has been suspended for the purpose of reducing rice prices in the local market.
+
+But they did not implement the ban on Basmati and export, which is considered a higher quality rice.
+
+However, Basmati had a minimum export price limit for a metric ton of $ 950.
+
+In the first four months of this year, the export of Basmathi rice exports increased by 20% to 1.9 million metric tons.
+
+According to the export of Basmathi rice, India will continue.
+
+India has removed the price limits at the new harvest market.
+
+India's Basmati rice production is expected to increase between 10% -12% this year.
+
+Last year, 5.2 million metric tons of Basmathi rice exported a metric tonnes of Basmathi rice to many countries including India, Canada, Iraq, Oman, Saudi Arabia.
+
+The world's highest quality Basmati rice is produced by India and Pakistan.
+
+◼️
+
+[Data](articles/10b43569.json)
+
+[Extended Data](ext_articles/10b43569.ext.json)
+
+---
+
+### China tests a ballistic missile
+
+*2024-09-26 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201557) · `si`
+
+China conducts ballistic missile test, sparking international concern.
+
+🟩
+
+China has expressed his concern for the experiment with a long distance bulicist missile.
+
+In yesterday's yesterday, China had tried a balist missile trial yesterday.
+
+The media reported that China has informed other countries regarding its experiment.
+
+However, Japan has worried that such an notification has not been made. Foreign media reports that New Zealand and Australia have expressed concerns.
+
+◼️
+
+[Data](articles/e310fef6.json)
+
+[Extended Data](ext_articles/e310fef6.ext.json)
+
+---
 
 ### A series of guidelines to prevent newly - informed the court
 
@@ -2279,47 +2337,5 @@ The Kandy Municipal Council borders will be implemented in the areas of Harispat
 [Data](articles/8ded0d28.json)
 
 [Extended Data](ext_articles/8ded0d28.ext.json)
-
----
-
-### Passport problem ended in the middle of October
-
-*2024-09-25 17:53:16* · [`adalk`](https://www.ada.lk/breaking_news/පාස්පෝට්-ගැටලුව-ඔක්තෝබර්-මැද-අවසන්/11-412149) · `si`
-
-Passport issue resolution timeline: By mid-October, the long-standing passport problem will be addressed, according to official sources from the Ministry of Public Defense. This announcement was made in response to media inquiries.
-
-🟩
-
-The passport issue that has been a major problem will be resolved by the middle of next month.
-
-He said this in response to the media in the Ministry of Public Defense and told the media.
-
-◼️
-
-[Data](articles/6c7a1c66.json)
-
-[Extended Data](ext_articles/6c7a1c66.ext.json)
-
----
-
-### A massive awakening in the stock market
-
-*2024-09-25 17:42:48* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොලේ-දැවැන්ත-පිබිදීමක්/11-412148) · `si`
-
-Stock market surge: Index rises 2.87%, SL 20 index up 4.09%. Turnover hits Rs. 3.96 billion. Massive growth on third day.
-
-🟩
-
-The stock market showed a significant growth in the third day of the third day.
-
-Accordingly, all stock price index rose to 325.5 units, 2.87 percent, and S.P. The SL 20 index rose by 132 units, 4.09 percent.
-
-The turnover of the market was Rs. 3.96 billion.
-
-◼️
-
-[Data](articles/90dfbf1a.json)
-
-[Extended Data](ext_articles/90dfbf1a.ext.json)
 
 ---

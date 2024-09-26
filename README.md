@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 17:22:40**
+As of **2024-09-26 17:39:18**
 
 ## Newspaper Stats
 
-*Scraped **46,418** Articles*
+*Scraped **46,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,091
 adalk | 4,284
 dailymirrorlk | 4,733
 adaderanalk | 5,460
-tamilmirrorlk | 6,219
+tamilmirrorlk | 6,221
 virakesarilk | 7,418
 adaderanasinhalalk | 8,018
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,018
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,417 (100.0%) of 46,418 articles have been extended.
+46,420 (100.0%) of 46,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Change in the price of eggs
+
+*2024-09-26 17:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-மாற்றம்/175-344535) · `ta`
+
+Sri Lanka Egg Business Association reports sudden egg price drop from 38 to 28-30 rupees due to increased production and decreased demand.
+
+🟩
+
+The Sri Lanka Egg Business Association has said that the price of an egg has suddenly changed.
+
+Accordingly, the price of an egg has dropped by 10 rupees, the All Ceylon Egg Trade Association said.
+
+The association's secretary Anurasiri Marasinghe said that the increase in production and the decline in demand will be sold at 28 rupees to 30 rupees.
+
+◼️
+
+[Data](articles/e15e1728.json)
+
+[Extended Data](ext_articles/e15e1728.ext.json)
+
+---
 
 ### Airport employee arrested for stealing items from passengers’ luggage at BIA
 
@@ -75,6 +97,30 @@ The suspect has been handed over to the officers of the Police Narcotics Divisio
 [Data](articles/d372a066.json)
 
 [Extended Data](ext_articles/d372a066.ext.json)
+
+---
+
+### Gurusamy resigns: Letter to Mano
+
+*2024-09-26 16:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருசாமி-இராஜினாமா-மனோவுக்கு-கடிதம்/175-344534) · `ta`
+
+Gurusamy resigns from party and coalition positions. Mano Ganesan accepts resignation. Murukesu Paranitharan appointed as new general secretary. Tamil Progressive Alliance meeting scheduled for Sunday.
+
+🟩
+
+K.R.. Gurusamy said in a letter to party leader Mano Ganesan that he would resign from party and coalition posts.
+
+Subsequently, the political committee of the Democratic People's Front led by Colombo Chairman Mano Ganesan on Thursday (26) accepted the resignation and unanimously appointed Murukesu Paranitharan to the post of vacant general secretary.
+
+Murukesu Paranitharan holds the post of Kegalle District Organizer and Campaign Secretary and is a member of the Democratic People's Front and the Tamil Progressive Alliance.
+
+It was also decided that the Tamil Progressive Alliance to be held in Colombo on Sunday, 29th of the upcoming parliamentary elections in the political committee.
+
+◼️
+
+[Data](articles/d7e6297f.json)
+
+[Extended Data](ext_articles/d7e6297f.ext.json)
 
 ---
 
@@ -1282,19 +1328,25 @@ The US visit of Iran's President Masood Besseskian is strange. Once he was repor
 
 ---
 
-### கிழக்கு ஆளுநர் கடமை பொறுப்பேற்பு
+### In charge of the Eastern Governor's duty
 
 *2024-09-26 11:12:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கு-ஆளுநர்-கடமை-பொறுப்பேற்பு/175-344499) · `ta`
 
-கிழக்கு மாகாண ஆளுநராக ஜயந்த லால் ரத்னசேகர திருகோணமலையில் உள்ள ஆளுநர் செயலகத்தில் வியாழக்கிழமை (26) அன்று தனது கடமைகளை உத்தியோகபூர்வமாக பொறுப்பேற்றுக் கொண்டார்.
+Jayantha Lal Ratnasekara assumes Eastern Governor role, appointed by President Anura Kumara Dissanayake. Former Vice-Chancellor of Uva University, attended Kandalai Akrapodi Vidyalaya. Key officials present at Trincomalee Secretariat ceremony.
 
-பேராசிரியரான ஆளுனரை ஜனாதிபதி அநுர குமார திசாநாயக்க நியமித்துள்ளார். ஊவாவெல்லஸ்ஸ பல்கலைக்கழகத்தின் துணைவேந்தராக 2017 பெப்ரவரி முதல் நவம்பர் 2023 வரை செயற்பட்டுள்ள இவர் கந்தளாய் அக்ரபோதி வித்தியாலய பழைய மாணவருமாவார்.
+🟩
 
-குறித்த நிகழ்வில் மாகாண பிரதம செயலாளர் ஆர்.எம்.பி எஸ் ரத்நாயக்க, ஆளுனர் செயலக செயலாளர் எல்.பி மதநாயக்க, மாகாண அமைச்சுக்களின் செயலாளர்கள், மாகாண திணைக்கள தலைவர்கள் , தேசிய மக்கள் சக்தியின் நிறைவேற்று குழு உறுப்பினர் அருண் ஹேமச்சந்திர மற்றும் ஆதரவாளர்கள் என பலரும் கலந்துகொண்டனர்.
+As the Governor of the Eastern Province, Jayantha Lal Ratnasekara officially assumed his duties at the Governor's Secretariat in Trincomalee on Thursday (26).
+
+President Anura Kumara Dissanayake has appointed Professor Governor. He is the Vice -Chancellor of the University of Uvavelsa from February to 20th November 2017 and is an alumnus of Kandalai Akrapodi Vidyalaya.
+
+Provincial Chief Secretary RMPS Ratnayake, Governor Secretary LP Madanayake, Provincial Ministries Secretaries, Provincial Department Heads, Executive Committee Member of the National People's Power Arun Hemachandra and many others were present.
 
 ◼️
 
 [Data](articles/62a501d9.json)
+
+[Extended Data](ext_articles/62a501d9.ext.json)
 
 ---
 
@@ -2391,51 +2443,5 @@ When asked about whether the Sri Lanka Podujana Peramuna (SLPP) would support Pr
 [Data](articles/b76c661d.json)
 
 [Extended Data](ext_articles/b76c661d.ext.json)
-
----
-
-### Minister Vijitha Herath pledges to resolve passport crisis by mid-October
-
-*2024-09-26 01:42:01* · [`dailyftlk`](https://www.ft.lk/news/Minister-Vijitha-Herath-pledges-to-resolve-passport-crisis-by-mid-October/56-767164) · `en`
-
-Says DG of Immigration has assured queues for passports will be no more by 15-20 October
-
-Highlights importance of restoring public trust in the Sri Lanka Police
-
-Asks Police to act independently, assuring they would have the freedom to act without external pressure
-
-Requests officers to take action against any wrong doer even if person is aligned with NPP
-
-Public Security Minister Vijitha Herath, has vowed to resolve the ongoing passport crisis by mid-October.
-
-Speaking to the media after officially assuming duties at the Ministry, yesterday Herath said that following discussions with the Director General of Immigration, he has been assured that the issue will be resolved between 15-20 October.
-
-The Minister also noted that once the crisis is resolved, new measures will be introduced to eliminate the long queues for passports. “I will do my utmost to resolve this problem soon, and we hope to somehow do it within that time frame,” Herath said.
-
-...
-
-[Data](articles/cc5032b3.json)
-
-[Extended Data](ext_articles/cc5032b3.ext.json)
-
----
-
-### President orders investigation into misuse of 253 Presidential Secretariat vehicles
-
-*2024-09-26 01:39:22* · [`dailyftlk`](https://www.ft.lk/news/President-orders-investigation-into-misuse-of-253-Presidential-Secretariat-vehicles/56-767163) · `en`
-
-National People’s Power (NPP) member Wasantha Samarasinghe yesterday disclosed that President Anura Kumara Dissanayake has ordered a thorough investigation into the misuse of 253 vehicles belonging to the Presidential Secretariat, which have now been left parked at Galle Face Green by various individuals without formal acknowledgement.
-
-“The President has already directed officials to investigate the individuals who used these 253 vehicles and hold them accountable for leaving the vehicles unattained and irresponsibly after misusing the State property,” he told journalists near Galle Face Green yesterday.
-
-Samarasinghe highlighted that this situation is a clear example of the misuse of State power and public resources by the previous regime.
-
-“Such instances of misuse are a result of individuals taking advantage of properties that were never formally assigned to them,” he said, adding that those found guilty will be made public.
-
-...
-
-[Data](articles/dc5bd85b.json)
-
-[Extended Data](ext_articles/dc5bd85b.ext.json)
 
 ---

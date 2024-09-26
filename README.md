@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 09:11:54**
+As of **2024-09-26 09:23:23**
 
 ## Newspaper Stats
 
-*Scraped **46,341** Articles*
+*Scraped **46,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,136 @@ colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,807
 dailyftlk | 3,091
-adalk | 4,273
+adalk | 4,274
 dailymirrorlk | 4,733
-adaderanalk | 5,447
-tamilmirrorlk | 6,203
-virakesarilk | 7,402
+adaderanalk | 5,449
+tamilmirrorlk | 6,204
+virakesarilk | 7,404
 adaderanasinhalalk | 8,001
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,341 (100.0%) of 46,341 articles have been extended.
+46,347 (100.0%) of 46,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### US and allies call for an immediate 21-day cease-fire between Israel and Hezbollah
+
+*2024-09-26 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102271/us-and-allies-call-for-an-immediate-21-day-cease-fire-between-israel-and-hezbollah) · `en`
+
+The U.S., France and other allies jointly called Wednesday for an immediate 21-day cease-fire to allow for negotiations in the escalating conflict between Israel and Hezbollah that has killed more than 600 people in Lebanon in recent days.
+
+The joint statement, negotiated on the sidelines of the U.N. General Assembly in New York, says the recent fighting is “intolerable and presents an unacceptable risk of a broader regional escalation.”
+
+“We call for an immediate 21-day cease-fire across the Lebanon-Israel border to provide space for diplomacy,” the statement said. “We call on all parties, including the governments of Israel and Lebanon, to endorse the temporary cease-fire immediately.”
+
+...
+
+[Data](articles/9b44a4b5.json)
+
+[Extended Data](ext_articles/9b44a4b5.ext.json)
+
+---
+
+### New government's response to the Inspector General of Police
+
+*2024-09-26 09:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்தின்-பதில்-பொலிஸ்மா-அதிபர்-முன்மொழிவு/175-344486) · `ta`
+
+Here's a 200-character summary:
+
+
+
+New government proposes Priyantha Weerasuriya for Inspector General of Police. He has 36 years experience, rising from constable to Senior Deputy Inspector General. Government sources confirm his appointment along with another candidate.
+
+🟩
+
+Senior Deputy Inspector General of Police Priyantha Weerasuriya has been proposed to appoint as the Inspector General of Police under the new government, government sources said.
+
+He continued to serve at the Police Department for 36 years and served at various levels from the post of Police Constable to the post of Senior Deputy Inspector General of Police.
+
+He has been appointed as the Assistant Superintendent of Police after promoting the law graduate of the University of Colombo and the lawyer of the Law College of Sri Lanka.
+
+In response, government sources have confirmed that Senior Deputy Inspector General of Police Priyantha Weerasuriya and Lalith Pathinayaka have been proposed to the post of Inspector General of Police and Senior Deputy Inspector General of Police Priyantha Weerasuriya have been proposed.. Remble
+
+◼️
+
+[Data](articles/593e7269.json)
+
+[Extended Data](ext_articles/593e7269.ext.json)
+
+---
+
+### Afternoon thundershowers expected in most parts of the island
+
+*2024-09-26 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102270/afternoon-thundershowers-expected-in-most-parts-of-the-island) · `en`
+
+The Meteorology Department says the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island for the next few days starting tomorrow (27).
+
+Several spells of showers will occur in Western, Sabaragamuwa and North-western provinces and in Kandy, Nuwara-Eliya, Galle and Matara districts.
+
+Showers or thundershowers may occur at several places in Eastern and Uva provinces and in Mullaitivu district during the evening or night, it said.
+
+Strong winds of about 40-45 kmph can be expected at times over the western slopes of the central hills and in Northern, North-central and North-western provinces and in Matale, Hambantota and Monaragala districts.
+
+◼️
+
+[Data](articles/5d3d6bee.json)
+
+[Extended Data](ext_articles/5d3d6bee.ext.json)
+
+---
+
+### Special Discussion in Nuwara Eliya
+
+*2024-09-26 08:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/194816) · `ta`
+
+Nuwara Eliya: National People's Power celebrates Anura Kumara Dissanayake's election as Sri Lanka's 9th President. Supporters gathered, distributed milk and sweets, and demanded district solutions. Event attended by party leaders and supporters.
+
+🟩
+
+A special discussion was held in Nuwara Eliya on Wednesday evening to mark the election of National People's Power Leader Anura Kumara Dissanayake as the 9th Executive President of Sri Lanka.
+
+The event was organized by the supporters of the National People's Power and held a discussion and success celebration at the National People's Power Branch set up in the Bale Bazaar area in the main city of Nuwara Eliya.
+
+They celebrated their victory peacefully by providing milk and sweets to the public.
+
+The people also demanded an immediate solution to some of the major issues in the Nuwara Eliya district.
+
+The event was attended by many supporters and people with the participation of the leaders of the National People's Power Party.
+
+◼️
+
+[Data](articles/e37392fa.json)
+
+[Extended Data](ext_articles/e37392fa.ext.json)
+
+---
+
+### Congratulations to President
+
+*2024-09-26 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/194815) · `ta`
+
+New president inaugurated in Jaffna. Supporters bless public at Navatkuli junction. Ramalingam Chandrasekhar attends ceremony.
+
+🟩
+
+The new president was held in Jaffna on Wednesday (25) as the new President was sworn in as the new President.
+
+At the Navatkuli junction, the public was given a blessing and bay to the public by supporters of the National People's Power.
+
+It is noteworthy that Ramalingam Chandrasekhar, a member of the National People's Power Executive Committee and Jaffna district organizer, was present.
+
+◼️
+
+[Data](articles/a17ae4f4.json)
+
+[Extended Data](ext_articles/a17ae4f4.ext.json)
+
+---
 
 ### 85 MPs losing pension
 
@@ -1686,6 +1800,30 @@ However, during the last presidential election, government powers and assets wer
 
 ---
 
+### Sectional expenditure of 29 lakhs
+
+*2024-09-25 18:38:45* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ 2960ක-නිශ්කාර්ය-වියදමක්/11-412153) · `si`
+
+Housing scheme halted: 29 lakh rupees spent. Audit reveals 2960 lakh cost estimate. Project delayed due to contractor issues.
+
+🟩
+
+The Housing Scheme has been stopped for the construction of a 20-storey housing complex for the construction of a 20-storey housing complex for the construction of a 20-story resident of the Canal Reserve in the Canal Resettlement of the Araunodaya Mawatha, Rajagiriya, Rajagiriya.Is revealed.
+
+The audit report reveals that 2960 lakhs of cost. According to the audit report, the estimated cost of this project is Rs. 19238.5 million.
+
+The project has been launched on May 5, 2020, and the UDA had acted to end October 30, 2023. However, due to the delay in 10 contractors, 10 contractors were delayed by the Urban Development Authority (UDA).
+
+The audit has revealed that 2960 lakhs have been spent on the project.
+
+◼️
+
+[Data](articles/73886f07.json)
+
+[Extended Data](ext_articles/73886f07.ext.json)
+
+---
+
 ### Why did the rejected votes increase?
 
 *2024-09-25 18:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிராகரிக்கப்பட்ட-வாக்குகள்-அதிகரித்தது-ஏன்/175-344454) · `ta`
@@ -2175,147 +2313,5 @@ The review of the IMF program on June data, was due in October. Following the pr
 [Data](articles/2ed9eb81.json)
 
 [Extended Data](ext_articles/2ed9eb81.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 300.30/80 to US dollar, bond yields down
-
-*2024-09-25 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-300-30-80-to-us-dollar-bond-yields-down-180974/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated significantly to close at 300.30/80 to the US dollar Wednesday, from 303.00/14 a day earlier, while bond yields were also down.
-
-A bond maturing on 01.05.2027 closed at 11.90/12.05 percent quoted down from 12.40/50 percent.
-
-A bond maturing on 15.02.2028 closed at 12.35/45 percent down from 13.00/08 percent.
-
-A bond maturing on 15.06.2029 closed at 12.45/55 percent down from 13.20/28 percent.
-
-◼️
-
-[Data](articles/84d7d082.json)
-
-[Extended Data](ext_articles/84d7d082.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover nears Rs4bn
-
-*2024-09-25 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-nears-rs4bn-180967/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 2.87 percent, or 325.59 points, at 11,659; while the more liquid S&P SL20 Index closed up 4.09 percent, or 132.23 points, at 3,367.
-
-Banking stocks were up; Hatton National Bank (up at 193.00), Commercial Bank (up at 99.60), Sampath Bank (up at 77.40), DFCC Bank (up at 74.60) and National Development Bank (up at 74.90).
-
-Top foreign buying was seen in Sampath, HNB, Bukit Darah (up at 400.25), Overseas Realty (down at 17.90), LOLC Finance (up at 6.20) and Ceylon Grain Elevators (up at 169.75).
-
-Foreign selling was seen in CIC Holdings (up at 70.90), Nations Trust Bank (up at 123.25), hSenid Business Solutions (up at 11.10), Dialog (up at 9.40), John Keells Holdings (up at 170.00), and its subsidiary Ceylon Cold Stores (up at 58.50). (Colombo/Sep25/2024)
-
-◼️
-
-[Data](articles/8bd26f07.json)
-
-[Extended Data](ext_articles/8bd26f07.ext.json)
-
----
-
-### Controller of Immigration and Emigration ordered to be remanded for Harsha Ilunty
-
-*2024-09-25 16:44:33* · [`adalk`](https://www.ada.lk/breaking_news/ආගමන-විගමන-පාලක-ජනරාල්-හර්ෂ-ඉලුක්පිටිය-රිමාන්ඩ්-කරන-ලෙස-නියෝග/11-412145) · `si`
-
-Supreme Court orders remand of Controller Harsha Ilupitiya due to defying interim injunction orders related to electrical disposal case. Hearing scheduled for January 22nd.
-
-🟩
-
-The Supreme Court today (25) ordered to remand the Controller General Harsha Ilupitiya.
-
-Mr. IIkupitiya has been remanded due to defilling the judiciary by default by the default of the interim injunction orders issued on the issue of electrical disposal.
-
-The case will be called on January 22nd and is said to be binded by him.
-
-◼️
-
-[Data](articles/68647f5d.json)
-
-[Extended Data](ext_articles/68647f5d.ext.json)
-
----
-
-### India is not trying to control every political action of every foreign country - Jaishankar
-
-*2024-09-25 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/194782) · `ta`
-
-India not controlling foreign politics: Jaishankar. No interference in Sri Lanka's governance. Focus on economic aid, not political influence.
-
-🟩
-
-Indian External Affairs Minister S. Jaishankar has said that the political conditions were not imposed during the financial assistance given to Sri Lanka during the economic crisis.
-
-Speaking at the event of the Asian community in New York, he said this that Sri Lanka was facing the worst economic crisis.
-
-Jaishankar said that we were happy that we did this.
-
-Responding to a question on the recent change in the Sri Lankan government, the Indian Foreign Minister (the questioner may be a disadvantage for India), said Sri Lanka to decide on political changes in Sri Lanka.
-
-Jaishankar said that it is not our intention to recommend that the politics of Sri Lanka is going on politically.
-
-He said that this is finding ways to practice the real world countries.
-
-Jaishankar says that India does not seek to control the political landscape of the neighboring countries.
-
-...
-
-[Data](articles/82d9f5c5.json)
-
-[Extended Data](ext_articles/82d9f5c5.ext.json)
-
----
-
-### Special speech
-
-*2024-09-25 16:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசத்திற்கு-ஆற்றுகின்ற-விசேட-உரை/175-344447) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"President Anuragumara Dissanayake delivered a special address to the nation at 7:30 PM today."
-
-🟩
-
-New President Anuragumara Dissanayake said the special speech to the nation at 7.30 pm today.
-
-◼️
-
-[Data](articles/876e98fd.json)
-
-[Extended Data](ext_articles/876e98fd.ext.json)
-
----
-
-### Growth in stock market
-
-*2024-09-25 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201535) · `si`
-
-Stock market growth: Colombo index +2.87%, S&P SL20 +4.59%. Turnover: 3.96 billion rupees.
-
-🟩
-
-Colombo Stock Market Price Index has increased significantly today (25).
-
-All the stock price index recorded a massive increase of 325.59 points or 2.87%.
-
-In addition, the S & P SL20 index increased by 148.54 units and is 4.59% over the previous day.
-
-At the end of transactions, all stock price index value is 11,659.71 units, S & P SL20 index value is 3,383.76 points.
-
-Meanwhile, the turnover appeared at 3.96 billion rupees.
-
-◼️
-
-[Data](articles/132fefeb.json)
-
-[Extended Data](ext_articles/132fefeb.ext.json)
 
 ---

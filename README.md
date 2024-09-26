@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 11:39:04**
+As of **2024-09-26 11:58:26**
 
 ## Newspaper Stats
 
-*Scraped **46,360** Articles*
+*Scraped **46,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 386
 bbccomsinhala | 456
 colombotelegraphcom | 462
 islandlk | 2,717
-economynextcom | 2,807
+economynextcom | 2,810
 dailyftlk | 3,091
 adalk | 4,276
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,006
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,357 (100.0%) of 46,360 articles have been extended.
+46,362 (100.0%) of 46,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ The Chief Justice also ordered that steps be taken to prepare and file the final
 ...
 
 [Data](articles/2977f1c2.json)
+
+[Extended Data](ext_articles/2977f1c2.ext.json)
 
 ---
 
@@ -88,25 +90,55 @@ The world's highest quality Basmati rice is produced by India and Pakistan.
 
 ---
 
-### விபத்தில் இளம் தம்பதி பலி
+### Sri Lanka rupee trades flat at 300.30/60 to US dollar, bond yields down
+
+*2024-09-26 10:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-flat-at-300-30-60-to-us-dollar-bond-yields-down-181057/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading relatively stable at 300.30/60 to the US dollar on Thursday, from 300.30/80 a day earlier, while bond yields were very much down dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.65/75 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.95/12.05 percent, down from 12.35/45 percent.
+
+A bond maturing on 15.06.2029 was quoted at 12.15/20 percent down from 12.45/55 percent.
+
+A bond maturing on 15.05.2030 was quoted at 12.47/60 percent.
+
+In equities, Colombo’s All Share Price Index was trading 0.13 percent, or 15.37 points higher at 11,675, while the S&P SL20 of more liquid stocks opened up 0.24 percent or 8.15 points lower at 3,375.
+
+◼️
+
+[Data](articles/8b5cb5cf.json)
+
+[Extended Data](ext_articles/8b5cb5cf.ext.json)
+
+---
+
+### Young couple killed in accident
 
 *2024-09-26 10:40:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இளம்-தம்பதி-பலி/175-344495) · `ta`
 
-அக்குரஸ்ஸ சியம்பலாகொட - பிடபெத்தர வீதியில் போபகொட சந்திக்கு அருகில் புதன்கிழமை (26) மாலை இடம்பெற்ற வாகன விபத்தில் பாடசாலை ஆசிரியை ஒருவரும் அவரது கணவரும் உயிரிழந்துள்ளதாக அக்குரஸ்ஸ பொலிஸார் தெரிவிக்கின்றனர்.
+Couple killed in motorcycle crash. Teacher Bhagya Boralesa (28) and husband Indika Sampath died after being hit by a van driven by a businessman. Driver arrested, investigation ongoing. Bodies sent to hospitals.
 
-பிடபெத்தரை, மெதிரிபிட்டிய பாடசாலையில் கிடைத்த பரிசில்களுடன் மோட்டார் சைக்கிளில் மகதுரையில் உள்ள தமது வீட்டை நோக்கி கணவருடன் பயணித்துள்ளனர்.
+🟩
 
-பிடபெத்தரவை சேர்ந்த வர்த்தகர் ஒருவர் தனது சொகுசு வேனில் அக்குரஸ்ஸ பகுதியிலிருந்து பிடபெத்தரை நோக்கி பயணித்த போது வேனை கவிழ்த்து அருகில் உள்ள மண்ணில் மோதி விபத்துக்குள்ளாகியுள்ளனர்.
+A school teacher and her husband died in a vehicle accident on Wednesday evening near the Bopagoda junction on the Akuresa Siyambalagoda - Bidabethara road, Akurassa police said.
 
-உயிரிழந்தவர்கள் மகடூர பிரதேசத்தைச் சேர்ந்த 28 வயதான பாக்யா பொரலஸ்ஸ மற்றும் அவரது கணவர் இந்திக்க சம்பத் என அடையாளம் காணப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+With prizes received at Bidabeter, Mediripitiya school, they have traveled with her husband on a motorcycle on a motorbike.
 
-சந்தேகத்திற்குரிய வர்த்தக சாரதியை பொலிஸார் கைது செய்துள்ளதுடன், அவர் மதுபோதையில் இருந்தாரா என்பதை கண்டறிய விசாரணைகளை ஆரம்பித்துள்ளனர்.
+A businessman from Bidabethra was traveling from Akuressa to Bidabeth in his luxury van and crashed into a nearby soil.
 
-பாக்யாவின் சடலம் அக்குரஸ்ஸ வைத்தியசாலைக்கும், இந்திகவின் சடலம் கராப்பிட்டிய வைத்தியசாலைக்கும் கொண்டு செல்லப்பட்டுள்ளது. மேலும் உயிரிழந்த பாக்யா கர்ப்பமாக இருந்ததாக ​பொலிஸார் தெரிவித்தனர்.
+The victims have been identified as 28 -year -old Bhagya Boralesa from Magadura area and her husband Indika Sampath has been identified.
+
+Police have arrested a suspected business driver and investigated investigations to find out whether he was in alcohol.
+
+The body of Bhagya has been taken to the Akuresa Hospital and Indika's body to Karapitiya Hospital. Police said Bhagya was also pregnant.
 
 ◼️
 
 [Data](articles/11f02f84.json)
+
+[Extended Data](ext_articles/11f02f84.ext.json)
 
 ---
 
@@ -275,6 +307,22 @@ The Criminal Investigation Department has launched investigations to recover the
 [Data](articles/d5d5469e.json)
 
 [Extended Data](ext_articles/d5d5469e.ext.json)
+
+---
+
+### Sri Lanka election commission releases seat allocation details for Nov polls
+
+*2024-09-26 09:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-election-commission-releases-seat-allocation-details-for-nov-polls-181033/) · `en`
+
+ECONOMYNEXT — The Election Commission has released information on seat allocations for Sri Lanka’s 2024 parliamentary election to be held on November 14.
+
+Sri Lanka’s 1978 constitution introduced a radical departure to the previously existing electoral system and electoral districts. According to parliament.lk, the previous system was based on constituencies with individual candidates nominated by recognised political parties or independent candidates. The candidate obtaining the highest number of votes in respect of the constituency was declared elected. This system, commonly described as the First-past-the-post (FPP) system, was changed in to a system of Proportional Representation in respect of 22 electoral districts.
+
+...
+
+[Data](articles/2b467979.json)
+
+[Extended Data](ext_articles/2b467979.ext.json)
 
 ---
 
@@ -709,6 +757,28 @@ He said that the wind could increase at speeds of 50 kilometers per hour in the 
 [Data](articles/2992924d.json)
 
 [Extended Data](ext_articles/2992924d.ext.json)
+
+---
+
+### Sri Lanka told go for single policy rate by IMF, target middle corridor rate
+
+*2024-09-26 07:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-told-go-for-single-policy-rate-by-imf-target-middle-corridor-rate-181007/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund has told the central bank target the middle of a policy corridor, among other inflationary operations, in a new technical assistance report urging the agency to go for a single policy rate.
+
+A slew of inflationary operations has been suggested for the central bank, which has already caused untold suffering to the people through the currency depreciation coming from its policy rate.
+
+Millions have been forced to leave the country of their birth to get jobs in stable nations in the Middle East which are free from the centrally planned policy rate.
+
+The IMF urged the central bank to defy market credit conditions and push the bureaucratic policy rate.
+
+“Central Bank of Sri Lanka should start replacing the current two policy rates with a single policy rate to strengthen the signaling of monetary policy and improve the ability of CBSL to steer market rates towards a desired level,” the IMF said in its technical assistance report.
+
+...
+
+[Data](articles/36c2d177.json)
+
+[Extended Data](ext_articles/36c2d177.ext.json)
 
 ---
 
@@ -2255,77 +2325,5 @@ The rating agency said sovereign remains in default on Sri Lanka’s foreign-cur
 [Data](articles/20d07bc0.json)
 
 [Extended Data](ext_articles/20d07bc0.ext.json)
-
----
-
-### “National People's Power will win the general election”
-
-*2024-09-25 18:19:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலில்-தேசிய-மக்கள்-சக்தி-வெற்றி-பெறும்/175-344453) · `ta`
-
-SP Dissanayake predicts NPP victory in general election, citing President Anura Kumara Dissanayake's leadership and government performance. He hopes for strong opposition to strengthen democracy.
-
-🟩
-
-Former Minister SP Dissanayake has expressed hope that President Anura Kumara Dissanayake and his government are likely to win in the upcoming general election.
-
-“I believe this government has the strength to fulfill the confidence of the people on the basis of the behavior of Anuragumara Dissanayake and his statements after the presidential election,” Dissanayake said.
-
-Dissanayake said he hoped not to prevent the progress of the current government and that the election victory in the general election would be difficult for other parties.
-
-“It will not be easy. We have a successful president to appoint a small cabinet from existing MPs and carry out the work of the government. ”
-
-Dissanayake has predicted that the National People's Power (NPP) will get at least 6.5 million votes in the upcoming general election.
-
-“NPP and JVP have now received that benefit. However, I hope it will be better if other parties come together to form a strong opposition to the election, ”Dissanayake added.
-
-◼️
-
-[Data](articles/b4516a91.json)
-
-[Extended Data](ext_articles/b4516a91.ext.json)
-
----
-
-### Two dazzles billioned due to a bottle of whiskey
-
-*2024-09-25 18:19:32* · [`adalk`](https://www.ada.lk/breaking_news/මවක-දුන්-විස්කි-බෝතලයක්-නිසා-දෙදෙනෙකු-දියට-බිලි/11-412151) · `si`
-
-Two teens drowned in reservoir after drinking session. Five friends entered water, three survived. Police searching for missing duo. Incident occurred near Polgolla Reservoir.
-
-🟩
-
-The Wattegama Police say that two fifteen friends who were dwelled into the reservoir as far as the coconut damaged have been disappeared.
-
-The police say they have come into the reservoir, after one of the five friends who have been drinking abroad.
-
-One of the gates from the Polgolla Reservoir has been opened to Victoria Reservoir today (25), three of them were survived by the reefs and had not met with the other two (25).
-
-The police said that the police said that all the youths were residents of Yakgahapitiya area.
-
-Police have launched a campaign to search for two youths duncing.
-
-◼️
-
-[Data](articles/40153064.json)
-
-[Extended Data](ext_articles/40153064.ext.json)
-
----
-
-### Tiger Leader “Thiyagi” Thileepan Weaponised Non-Violence Through his  Fast Unto  Death in September 27.
-
-*2024-09-25 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84792) · `en`
-
-September 26th  is of particular significance to a substantial number of Sri Lankan Tamils . For it was on this day in 1987 that a senior member of the Liberation Tigers of Tamil Eelam (LTTE) Thileepan died in Nallu after undertaking a fast unto death.
-
-Although the LTTE lost thousands of cadres during the many years it waged war against the Sri Lankan State, the death of Thileepan was different from the deaths of other LTTE fighters. Thileepan’s demise was not due to direct violence but due to non-violent direct action.
-
-He engaged in a fast unto death protest on 15 September 1987 and died after 12 days of fasting without even drinking water. This was after the Indo-Lanka accord of 29 July 1987. The Indian army referred to as the Indian Peace Keeping Force (IPKF) was stationed in Jaffna then.
-
-...
-
-[Data](articles/1bf3811c.json)
-
-[Extended Data](ext_articles/1bf3811c.ext.json)
 
 ---

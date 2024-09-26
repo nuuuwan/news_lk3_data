@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 00:23:49**
+As of **2024-09-27 00:38:00**
 
 ## Newspaper Stats
 
-*Scraped **46,478** Articles*
+*Scraped **46,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,091
 adalk | 4,292
 dailymirrorlk | 4,733
 adaderanalk | 5,466
-tamilmirrorlk | 6,232
+tamilmirrorlk | 6,233
 virakesarilk | 7,427
 adaderanasinhalalk | 8,028
 
@@ -26,9 +26,31 @@ adaderanasinhalalk | 8,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,478 (100.0%) of 46,478 articles have been extended.
+46,478 (100.0%) of 46,479 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-27 (Friday)
+
+### அனைத்து எதிர்க்கட்சிகளும் ஒரே சின்னத்தில் போட்டி?
+
+*2024-09-27 00:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-எதிர்க்கட்சிகளும்-ஒரே-சின்னத்தில்-போட்டி/175-344563) · `ta`
+
+எதிர்வரும் பொதுத் தேர்தலில் அனைத்து எதிர்க்கட்சிகளும் ஒரே சின்னத்தில் போட்டியிடுவது தொடர்பான கலந்துரையாடல் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் கொழும்பில் நேற்று (26) இடம்பெற்றது.
+
+ஜனாதிபதித் தேர்தலில் முன்னாள் ஜனாதிபதிக்கு ஆதரவளித்த பொதுஜன பெரமுன குழுக்களுக்கும் ஐக்கிய தேசியக் கட்சியின் முக்கியஸ்தர்களுக்கும் இடையில் இந்த கலந்துரையாடல்கள் இடம்பெற்றன.
+
+இங்கு கருத்துத் தெரிவித்த ஐக்கிய தேசியக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆசு மாரசிங்க, பொதுத் தேர்தலில் ஒன்றிணைந்து போட்டியிடுவதற்கு ஐக்கிய மக்கள் சக்தியுடனான பேச்சுவார்த்தைகள் சாதகமான நிலையில் இருப்பதாகத் தெரிவித்தார்.
+
+பொதுத்தேர்தலில் அனைவரும் இணைந்து போட்டியிட வேண்டும் என்பது தமது ஏகோபித்த கருத்து எனவும் தெரிவித்தார்.
+
+இதேவேளை, பொதுஜன பெரமுனவின் பாராளுமன்ற முன்னாள் உறுப்பினர் எஸ். பி திஸாநாயக்க தெரிவிக்கையில், ஒரே கட்சியாக தேர்தல் நடத்த வேண்டும் என்ற கோரிக்கை உறுதியாக இருந்தாலும் கட்சி மற்றும் சின்னம் பின்னர் முடிவு செய்யப்படும்.
+
+...
+
+[Data](articles/ab687a7e.json)
+
+---
 
 ### 2024-09-26 (Thursday)
 
@@ -2415,25 +2437,5 @@ Ella police said that the suspect is being produced before the Bandarawela Magis
 [Data](articles/c9563906.json)
 
 [Extended Data](ext_articles/c9563906.ext.json)
-
----
-
-### 2024 General Election: Postal voting applications open from Sep 30 – Oct 7
-
-*2024-09-26 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102276/2024-general-election-postal-voting-applications-open-from-sep-30-oct-7) · `en`
-
-The Commissioner General of Elections, Saman Sri Ratnayake, has announced that postal voting applications for the upcoming parliamentary elections will be accepted from September 30 to October 7.
-
-Speaking at a media conference held in Colombo today (26), Ratnayake explained that the 2024 voter list will be used for this election, just as it was for the recent presidential election. As a result, those who submitted postal vote applications for the presidential election do not need to reapply for postal voting in this election.
-
-“In this election, as we are using the same voter list, there is no need for those who applied for postal voting in the last election to submit applications again. We have all your data on record,” Ratnayake assured.
-
-However, he clarified that individuals whose postal vote applications were rejected in the previous election must resolve the issue that caused the rejection and reapply for postal voting. Those applicants will need to submit a new application.
-
-...
-
-[Data](articles/8e1a7efa.json)
-
-[Extended Data](ext_articles/8e1a7efa.ext.json)
 
 ---

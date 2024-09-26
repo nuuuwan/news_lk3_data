@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 18:19:33**
+As of **2024-09-26 18:34:42**
 
 ## Newspaper Stats
 
-*Scraped **46,425** Articles*
+*Scraped **46,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,091
 adalk | 4,284
 dailymirrorlk | 4,733
 adaderanalk | 5,461
-tamilmirrorlk | 6,222
+tamilmirrorlk | 6,224
 virakesarilk | 7,420
 adaderanasinhalalk | 8,019
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,019
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,425 (100.0%) of 46,425 articles have been extended.
+46,427 (100.0%) of 46,427 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,11 +40,37 @@ President Anura Kumara Dissanayake has directed the Treasury to increase the fer
 
 Accordingly, the fertilizer subsidy to be increased with effect from October 01, the President’s Media Division (PMD) said.
 
+Meanwhile, the President has also advised the Treasury to provide a fuel subsidy to fishermen effective from October 01.
+
+He has instructed for it to be credited to their bank accounts directly on a monthly basis.
+
 ◼️
 
 [Data](articles/10ca03b2.json)
 
 [Extended Data](ext_articles/10ca03b2.ext.json)
+
+---
+
+### The subsidy is Rs.. An increase of up to 25,000
+
+*2024-09-26 17:45:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மானியம்-ரூ-25-000-வரை-அதிகரிப்பு/175-344539) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka: President Anura Kumara Dissanayake orders Treasury to raise fertilizer subsidy from Oct 1st. Increase from Rs. 15,000 to Rs. 20,000 (up to Rs. 25,000).
+
+🟩
+
+President Anura Kumara Dissanayake has directed the Treasury to increase the fertilizer relief from October 01 to Rs. 15,000 to Rs.
+
+◼️
+
+[Data](articles/dd99af51.json)
+
+[Extended Data](ext_articles/dd99af51.ext.json)
 
 ---
 
@@ -65,6 +91,28 @@ Accordingly, the subsidy given to a hectares from Rs. 15,000 to Rs. 15,000. Pres
 [Data](articles/ce01da74.json)
 
 [Extended Data](ext_articles/ce01da74.ext.json)
+
+---
+
+### IMC organizer arrested for attacking nurse
+
+*2024-09-26 17:39:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாதியை-தாக்கிய-ஐ-ம-ச-அமைப்பாளர்-கைது/76-344538) · `ta`
+
+Sasanka Sampath Sanjeewa, IMC organizer, arrested for attacking nurse at Nawalapitiya hospital. Released on bail after magistrate warns both parties.
+
+🟩
+
+Sasanka Sampath Sanjeewa, organizer of the United People's Power Nawalapitiya constituency, has been arrested on charges of assaulting a nurses who supported the national people's power, working at the District General Hospital in Nawalapitiya.
+
+The suspect has been warned and released on bail of Rs.
+
+In addition, the magistrate has ordered that the complainant also threatened the suspect in the complaint filed by the Nawalapitiya police.
+
+◼️
+
+[Data](articles/e047d9e1.json)
+
+[Extended Data](ext_articles/e047d9e1.ext.json)
 
 ---
 
@@ -2433,39 +2481,5 @@ The current economic situation of the country was discussed at length during the
 [Data](articles/8667a72a.json)
 
 [Extended Data](ext_articles/8667a72a.ext.json)
-
----
-
-### OPA expresses confidence in new President AKD
-
-*2024-09-26 01:48:27* · [`dailyftlk`](https://www.ft.lk/business/OPA-expresses-confidence-in-new-President-AKD/34-767171) · `en`
-
-The Organisation of Professional Associations of Sri Lanka (OPA) has extended its congratulations to President Anura Kumara Dissanayake for being elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka.
-
-“Your victory represents a strong mandate from the people for a Government committed to integrity, good governance and the advancement of all citizens,” said the congratulatory message signed by President Sarath Gamage, President-elect Sujeewa Lal Dahanayake and General Secretary Tisara de Silva.
-
-“As Sri Lanka navigates the aftermath of its severe economic crisis, we are confident in your ability to provide the leadership and direction needed to achieve economic stability, equitable development and sustainable progress. We believe that you will uphold the rule of law, enhance international relations, and work diligently to combat corruption and alleviate poverty.
-
-...
-
-[Data](articles/1dd6b226.json)
-
-[Extended Data](ext_articles/1dd6b226.ext.json)
-
----
-
-### Sri Lanka Chamber of Small and Medium Industries hails President AKD
-
-*2024-09-26 01:48:00* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Chamber-of-Small-and-Medium-Industries-hails-President-AKD/34-767170) · `en`
-
-The President and the members of Sri Lanka Chamber of Small and Medium Industries has extended their warm and heartfelt congratulations to President Anura Kumara Dissanayake on being elected as the 9th Executive President of the Democratic Socialist Republic of Sri Lanka.
-
-“Your election by the decisive mandate reflects the trust and confidence placed in your leadership and we appreciate very much the challenge taken up by you at this crucial juncture to resolve the present economic, social crisis encountered in our motherland Sri Lanka,”  Sri Lanka Chamber of Small and Medium Industries President Prof. Rohan De Silva said.
-
-...
-
-[Data](articles/49070127.json)
-
-[Extended Data](ext_articles/49070127.ext.json)
 
 ---

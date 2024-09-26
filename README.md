@@ -1,36 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-26 16:11:20**
+As of **2024-09-26 16:22:48**
 
 ## Newspaper Stats
 
-*Scraped **46,391** Articles*
+*Scraped **46,394** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 386
-bbccomsinhala | 456
+bbccomsinhala | 457
 colombotelegraphcom | 462
 islandlk | 2,717
 economynextcom | 2,810
 dailyftlk | 3,091
 adalk | 4,283
 dailymirrorlk | 4,733
-adaderanalk | 5,457
+adaderanalk | 5,458
 tamilmirrorlk | 6,214
 virakesarilk | 7,405
-adaderanasinhalalk | 8,014
+adaderanasinhalalk | 8,015
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,391 (100.0%) of 46,391 articles have been extended.
+46,391 (100.0%) of 46,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-26 (Thursday)
+
+### Sufficient fuel reserves available for national consumption – officials inform President
+
+*2024-09-26 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102280/sufficient-fuel-reserves-available-for-national-consumption-officials-inform-president) · `en`
+
+Officials from the Ministry of Power and Energy have informed President Anura Kumara Dissanayake that the country currently has sufficient fuel reserves to meet consumption needs, the President’s Media Division (PMD) reported.
+
+The President stressed the importance of maintaining these reserves to ensure uninterrupted fuel availability for the public and urged officials to efficiently plan for fuel procurement for the upcoming year. The President further assured his full support in facilitating these efforts, the statement said.
+
+During the meeting held today (26) with Ministry officials, President Dissanayake directed them to devise a plan for distributing solar panels, received through Indian aid, to 800 Piriven. He emphasized the need for a clear roadmap from the Ministry to ensure smooth implementation of this initiative.
+
+...
+
+[Data](articles/3a468fb4.json)
+
+---
+
+### ගුවන් මගීන්ගේ භාණ්ඩ සොරාගත් ගුවන්තොටුපොළ සේවකයෙකු අත්අඩංගුවට
+
+*2024-09-26 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201568) · `si`
+
+කටුනායක ගුවන්තොටුපොළ වෙත පැමිණෙන ගුවන් මගීන්ගේ ගමන් මලු විවෘත කර ඒවා තුළ ඇති භාණ්ඩ සොරා ගත්  ගුවන්තොටුපොළ සේවකයෙකු ගුවන්තොටුපළ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු ගමන් මලු ගබඩා අංගනයේ සේවය කළ ශ්‍රී ලංකන් ගුවන් සේවයේ සේවකයෙකි.
+
+මැලේසියාවේ සිට පසුගිය 23දා කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි ගුවන් යානයක මගීන්ගේ ගමන් මලු තිබූ ගුවන්තොටුපොළ ගමන් මලු අංගනය වෙත රහසිගතව ඇතුළු වී ගමන් මලු විවෘත කර එහි තිබූ භාණ්ඩ සොරා ගන්නා ආකාරය  ආරක්ෂිත කැමරා පද්ධතිය තුළ සටහන්ව තිබුණි.
+
+කැමරා දර්ශන නිරීක්ෂණය කළ ශ්‍රී ලංකන් ගුවන් සේවයේ විමර්ශන අංශයේ නිලධාරීන් මොහු පිළිබඳ තොරතුරු කටුනායක ගුවන්තොටුපොළ පොලීසිය වෙත ලබා දීමෙන් පසු මෙම අත්අඩංගුවට ගැනීම සිදු කර තිබේ.
+
+දීර්ඝ කාලයක් පුරාවට මේ ආකාරයට ගුවන් මගීන්ගේ ගමන් මලු තුළ ඇති භාණ්ඩ අතුරුදන් වී ඇති බවට පැමිණිළි ශ්‍රී ලංකන් ගුවන් සේවය සහ කටුනායක ගුවන්තොටුපොළ වෙත ලැබී තිබූ අතර, ඔවුන් මේ පිළිබඳව විමසිලිමත්ව සිටීම හේතුවෙන් මෙම සේවකයා අත් අඩංගුවට ගැනීමට හැකිව ඇත.
+
+කටුනායක ගුවන්තොටුපොළ පොලිසිය මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සිදු කරමින් සිටිති.
+
+◼️
+
+[Data](articles/f3d9b8e3.json)
+
+---
 
 ### President instructs to run enough fuel reserves
 
@@ -789,6 +827,26 @@ But the petitioner has shown that he has not been fully recovered.
 [Data](articles/7710ff2f.json)
 
 [Extended Data](ext_articles/7710ff2f.ext.json)
+
+---
+
+### සන්නද්ධ තරුණ නැගිටීමක සිට විධායකය දක්වා: JVP සිට NPP දක්වා පැමිණි ගමන්මග
+
+*2024-09-26 10:15:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyl5468j61o) · `si`
+
+සන්නද්ධ තරුණ නැගිටීමක සිට විධායකය දක්වා: JVP සිට NPP දක්වා පැමිණි ගමන්මග
+
+2024 ජනාධිපතිවරණය අවසන් වූයේ, ශ්‍රී ලංකාවේ ඉතිහාසයේ පත්වූ පළමු වාමාංශික නැඹුරුවක් සහිත විධායක ජනාධිපතිවරයා මහජන ඡන්දයෙන් තෝරා ගනිමිනි.
+
+ජනතා විමුක්ති පෙරමුණේ සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මෙවර ජනාධිපතිවරණයෙන් ජය හිමි කර ගත්තේ, දෙවන වර මනාප ගණනය කිරීමෙන් පසුව ය.
+
+ජනතා විමුක්ති පෙරමුණ ශ්‍රී ලංකාවේ තරුණ නැගිටීම් දෙකකට ම නායකත්ව දුන් පක්ෂයක් වන අතර, සන්නද්ධ අරගලයකින් රාජ්‍ය බලය අල්ලා ගැනීමේ සිට ප්‍රජාතන්ත්‍රවාදී මැතිවරණයකින් මහ ජනතාවගේ ඡන්දයෙන් රාජ්‍ය බලය ලබා ගැනීම දක්වා ඔවුන්ගේ දේශපාලන බලවේගය දශක හයකට ආසන්න කාලයක් පුරා දීර්ඝ ගමන් මගක් පසු කර තිබේ.
+
+IMF නව ජනපතිට දුන් පණිවුඩය සහ ඔහු විසින් ‘අනිවාර්යයෙන් ම ජය ගත යුතු’ අභියෝග 7ක්අනුර කුමාර දිසානායක ශ්‍රී ලංකාවේ 9 වන විධායක ජනාධිපති ලෙස තේරී පත්වෙයිආචාර්ය හරිනි අමරසූරිය: දශක 2කට පසු ශ්‍රී ලංකාවට පත් වූ අගමැතිනිය
+
+...
+
+[Data](articles/ec4eee06.json)
 
 ---
 
@@ -2215,77 +2273,5 @@ The Emerging Asia Banking Conclave and Awards ceremony took place in New Delhi a
 [Data](articles/f4ebaf1d.json)
 
 [Extended Data](ext_articles/f4ebaf1d.ext.json)
-
----
-
-### ‘IMF’s willingness to work with new govt.’ sustains CSE’s bullish mode
-
-*2024-09-25 21:13:00* · [`islandlk`](http://island.lk/imfs-willingness-to-work-with-new-govt-sustains-cses-bullish-mode/) · `en`
-
-The stock market was extremely bullish yesterday and banking sector counters were active and traded well following an IMF announcement that they had informed in a communique that they are willing to work with the new government.
-
-The conclusion of the external debt restructuring exercise last week also added an impetus to the market, especially the banking sector.
-
-‘These two factors were very much sensitive towards banking sector, which witnessed a significant high performance throughout the day, market analysts said.
-
-Amid thos developments both indices moved upwards. The All Share Price Index went up by 325.59 points while S and P SL20 rose by 148.5 points.
-
-...
-
-[Data](articles/ce6aa5df.json)
-
-[Extended Data](ext_articles/ce6aa5df.ext.json)
-
----
-
-### Tamil and Muslim parties review on the general election and contest as a strong party?
-
-*2024-09-25 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194802) · `ta`
-
-Tamil Muslim parties discuss general election strategy. Meeting in Colombo involving leaders from Sri Lankan Tamil party, Sri Lanka Muslim Congress, and Tamil Progressive Alliance. Parties aim to form alliances and secure votes for future elections.
-
-🟩
-
-It is known that the Tamil and Muslim parties are investigating the upcoming general election as a strong party.
-
-In particular, a meeting was held in Colombo on Tuesday (24) between MA Sumanthiran, former parliamentarian of the Sri Lankan Tamil party, Sri Lanka Muslim Congress leader Rauf Hakeem and Tamil Progressive Alliance leader Manohanesan.
-
-During the meeting, discussion was discussed on the presidential election and its results and the upcoming general election.
-
-Speaking to the media, Sri Lanka Muslim Congress leader Rauf Hakeem said, “We are preparing to get people's votes to form a government in the next election.. This time the national people's power was seen as the main challenge for the United People's Alliance. We are trying to form an alliance with other parties beyond the United People's Alliance. ”
-
-However, when asked about the above meeting, Sumanthiran said that he had discussed the ongoing presidential election and had nothing to do with the general election.
-
-◼️
-
-[Data](articles/3bf41dee.json)
-
-[Extended Data](ext_articles/3bf41dee.ext.json)
-
----
-
-### 9 new governors
-
-*2024-09-25 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201543) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Nine new provincial governors appointed today at Presidential Secretariat. Sarath Bandara Samarasinghe named Central Province Governor. Secretary to the President Dr. Nandika Sanath attended ceremony.
-
-🟩
-
-New posts were appointed to the 9 Provincial NIC at the Presidential Secretariat this afternoon.
-
-02. Sarath Bandara Samarasinghe Abkowan - Central Province Governor
-
-Secretary to the President Dr. Nandika Sanath was also present at the occasion.
-
-◼️
-
-[Data](articles/1a621f89.json)
-
-[Extended Data](ext_articles/1a621f89.ext.json)
 
 ---

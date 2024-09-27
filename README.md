@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 20:57:16**
+As of **2024-09-27 21:10:10**
 
 ## Newspaper Stats
 
-*Scraped **46,623** Articles*
+*Scraped **46,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,483
 tamilmirrorlk | 6,252
-virakesarilk | 7,455
+virakesarilk | 7,456
 adaderanasinhalalk | 8,054
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,623 (100.0%) of 46,623 articles have been extended.
+46,624 (100.0%) of 46,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### The record of the Kamundu Mendis record, which is the lime of the opponents;Cricket Jambavan equated Bradman's record
+
+*2024-09-27 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194952) · `ta`
+
+Kamindu Mendis breaks records in Test cricket: scores 50+ in 8 consecutive matches, achieves 1000 runs in 13th innings, equals Bradman's milestones.
+
+🟩
+
+In the Test cricket arena, Mendis's massive bats are continuing and achieved achievement over the record.
+
+Kamindu Mendis, who scored a century in Test cricket at the Galle International Stadium against New Zealand, set the world record on Thursday as the first player to score 50 or more in the 8 Tests he played so far.
+
+He has scored 50 or more runs in eight Tests 9 times.
+
+He recorded his highest number in an innings today by scoring 182 runs without losing the match against New Zealand.
+
+He also completed 1000 runs in his 13th innings and became the one who achieved this milestone record in the lowest innings in the last 75 years.
+
+Australia's cricketer, Sir Donald Bedtman, equaled the record of those who completed 1000 runs in low innings.
+
+England's Herpot Sutchliv (in 1925) and Everton Weaks of the West Indies (1945) were the one who completed 1000 runs in the lowest innings.. This rare record continues in 12 innings each.
+
+...
+
+[Data](articles/8d3976ca.json)
+
+[Extended Data](ext_articles/8d3976ca.ext.json)
+
+---
 
 ### Mano Ganesan's announcement
 
@@ -2349,25 +2379,5 @@ It is a festival that mothers are celebrating from fasting for their children to
 [Data](articles/68991bda.json)
 
 [Extended Data](ext_articles/68991bda.ext.json)
-
----
-
-### It is possible to rain today
-
-*2024-09-27 05:45:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-பெய்யும்-சாத்தியம்/175-344564) · `ta`
-
-Rainfall warning: Heavy showers expected in Northern, Central, Southern provinces. Western and Sabaragamuwa provinces may also experience rain. Over 75mm predicted in many areas.
-
-🟩
-
-Accordingly, more than 75 mm of rainfall in the Northern, North Central, Southern and Central Provinces is likely.
-
-The Department of Meteorology has forecast rainfall in the Western and Sabaragamuwa Provinces and parts of Galle and Matara districts.. (A)
-
-◼️
-
-[Data](articles/fa4f648d.json)
-
-[Extended Data](ext_articles/fa4f648d.ext.json)
 
 ---

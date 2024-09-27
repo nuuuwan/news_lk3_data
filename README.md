@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 15:09:23**
+As of **2024-09-27 15:38:41**
 
 ## Newspaper Stats
 
-*Scraped **46,588** Articles*
+*Scraped **46,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,830
 dailyftlk | 3,110
 adalk | 4,298
 dailymirrorlk | 4,733
-adaderanalk | 5,478
+adaderanalk | 5,480
 tamilmirrorlk | 6,248
 virakesarilk | 7,444
 adaderanasinhalalk | 8,045
@@ -26,11 +26,45 @@ adaderanasinhalalk | 8,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,588 (100.0%) of 46,588 articles have been extended.
+46,590 (100.0%) of 46,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Police officers assigned for security of ex-MPs recalled
+
+*2024-09-27 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102302/police-officers-assigned-for-security-of-ex-mps-recalled) · `en`
+
+Sri Lanka Police said that all police personnel assigned to provide security to former Parliamentarians have been recalled from today, except those providing security to the former Speaker, former Deputy Speaker and former Opposition Leader.
+
+◼️
+
+[Data](articles/82792530.json)
+
+[Extended Data](ext_articles/82792530.ext.json)
+
+---
+
+### Japan expresses commitment to supporting new govt’s anti-corruption program
+
+*2024-09-27 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102301/japan-expresses-commitment-to-supporting-new-govts-anti-corruption-program) · `en`
+
+The Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki, has affirmed that the Japanese government is committed to fully supporting efforts to combat corruption and irregularities, a key priority of President Anura Kumara Dissanayake’s administration.
+
+He expressed readiness to continue close collaboration with Sri Lanka, the President’s Media Division said.
+
+Ambassador Mizukoshi made these remarks during a meeting with the Secretary to the President, Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat yesterday (26).
+
+He further announced that work on 11 stalled projects funded by the Japanese government will resume promptly.
+
+...
+
+[Data](articles/8c3566c2.json)
+
+[Extended Data](ext_articles/8c3566c2.ext.json)
+
+---
 
 ### Over 38,000 dengue cases reported so far in 2024
 
@@ -2165,61 +2199,5 @@ Sri Lanka also thanks to the continued cooperation of the Chinese financial inst
 [Data](articles/2b7902ad.json)
 
 [Extended Data](ext_articles/2b7902ad.ext.json)
-
----
-
-### Permission to vote at another voting station with reasonable factors;Apply by 2024.10.01- Elections Commission
-
-*2024-09-27 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/194878) · `ta`
-
-Request to vote at alternate polling station due to inability to reach assigned location. Apply by October 1st, 2024, at Elections Commission or District Election Offices. Forms available online or at local offices. Verification required from Grama Niladhari.
-
-🟩
-
-Voters who are unable to vote at the voting center in their resident area can request to be allowed to vote at another voting center.. The Elections Commission has announced that it will be able to apply at the Elections Commission or through the District Elections Offices before 2024.10.01.
-
-Voters who are fair that they cannot vote at the referendum, which is assigned to the referendum under Article 127 (b) of the Parliamentary Elections Act, No. 1 of 1981, can make a demand for a voting center at another voting center.
-
-Anyone can submit his applications to the Elections Secretariat at the Rajagiriya Sarana Mawatha before 2024.10.10.10.10.10.10.010.
-
-Applicant must fill in applications based on the seat of 2024. All of those are placed in District Secretariats, concerts and district elections offices. In addition, the registered details of the 2024 -year -old Idap can be examined through the www.elections.gov.lk website.
-
-...
-
-[Data](articles/f429ea2a.json)
-
-[Extended Data](ext_articles/f429ea2a.ext.json)
-
----
-
-### Women under 19: Sri Lanka's second win against New Zealand
-
-*2024-09-27 00:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/194877) · `ta`
-
-Sri Lanka's under-19 women's cricket team defeated New Zealand by 7 runs. Key contributors were Manuthi Nanayakkara, Samodhi Praboda, and Pramudi Medsara. Sri Lanka scored 110/9 in 20 overs, while New Zealand replied with 103/6.
-
-🟩
-
-The under -19 women's cricket match was won by 7 runs in the under -19 women's cricket match against New Zealand on Thursday (26) at the Gold Coast Bill Bill Bill Bill Bill Bill Bill Bill Bill Bill Bill.
-
-The skilled bowling of the team leader Manuthi Nanayakkara, Samodhi Praboda and Pramudi Medsara played a major role in the success of the Sri Lankan team.
-
-Sri Lanka won New Zealand by 69 runs in last Friday's match between the two teams.
-
-The Sri Lankan women's team, under the age of 19, scored 110 runs for the loss of 9 wickets in 20 overs.
-
-Mani Nanayakkara scored 41 runs, Vimksha Balasuriya 24 runs and Tahami Sanethma scored 18 runs.
-
-Mani Nanayakkara and Tahami Sanethma shared 59 runs in the 5th wicket and strengthened the Sri Lankan team.
-
-In reply, the 19 -year -old New Zealand lost 6 wickets in 20 overs and lost only 103 runs.
-
-Eve Wolland scored 23 runs, Isabel Sharp 22 and Darcy Rose Prasad scored 18 runs.
-
-...
-
-[Data](articles/5e2b3fd8.json)
-
-[Extended Data](ext_articles/5e2b3fd8.ext.json)
 
 ---

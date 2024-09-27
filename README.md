@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 00:12:45**
+As of **2024-09-28 00:23:47**
 
 ## Newspaper Stats
 
-*Scraped **46,644** Articles*
+*Scraped **46,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,485
 tamilmirrorlk | 6,255
 virakesarilk | 7,459
-adaderanasinhalalk | 8,056
+adaderanasinhalalk | 8,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,644 (100.0%) of 46,644 articles have been extended.
+46,644 (100.0%) of 46,645 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,26 @@ Sri Lanka: 602/5 (batting: Camindu Mendis AE 182, Dinesh Chandimal 116, Gusal Me
 [Data](articles/1bb788c3.json)
 
 [Extended Data](ext_articles/1bb788c3.ext.json)
+
+---
+
+### ලෙබනනයේ බීරූට් අගනුවරට ඊශ්‍රායලයෙන් ප්‍රහාරයක්
+
+*2024-09-27 22:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201616) · `si`
+
+ලෙබනනයේ බීරූට් අගනුවර දාහියේ ප්‍රදේශයට එල්ල වූ ඊශ්‍රායල ප්‍රහාරවලින් කිසිඳු ශ්‍රී ලාංකිකයෙකුට හානියක් සිදුව ඇතැයි මෙතෙක් වාර්තා වී නොමැති බව ලෙබනනයේ ශ්‍රී ලංකා තානාපති කපිල ජයවීර මහතා පවසයි.
+
+ඊශ්‍රායලය දාහියේ නගරයේ හිස්බුල්ලා මූලස්ථානයට අද (27) රාත්‍රියේ දරුණු ප්‍රහාර මාලාවක් එල්ල විය.
+
+ඒ සමග එම නගරයේ එකම ස්ථානයක පිපිරීම් 10ක් පමණ සිදුවූ බව වාර්තා විය.
+
+එමෙන්ම ප්‍රහාරයෙන් පසු දුරකථනයෙන් තමා ඇමතූ ශ්‍රී ලාංකිකයින් 05 දෙනෙකු ආරක්ෂාව සඳහා වහාම ශ්‍රී ලංකා තානාපති කාර්යාලයට කැඳවාගත් බව තානාපතිවරයා අද දෙරණ සමග සඳහන් කළේය.
+
+එමෙන්ම මේ සම්බන්ධයෙන් අනියත බියක් ඇතිකර නොගන්නා ලෙසත් තානාපතිවරයා ශ්‍රී ලාංකික ප්‍රජාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/e51ae7d0.json)
 
 ---
 
@@ -2335,25 +2355,5 @@ The department had earlier decided to delete three questions and add those marks
 [Data](articles/8214defa.json)
 
 [Extended Data](ext_articles/8214defa.ext.json)
-
----
-
-### Central Bank of Sri Lanka
-
-*2024-09-27 08:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மத்திய-வங்கியின்-அறிவிப்பு/175-344572) · `ta`
-
-Central Bank of Sri Lanka maintains policy interest rates, sub-deposit rate, and subsidiary loans at current levels. Sub-deposit rate set at 8.25%, subsidiary loan rate at 9.25%.
-
-🟩
-
-The Central Bank of Sri Lanka has decided to maintain the policy interest rates, the sub -deposit rate (SDFR) and the subsidiary loans (SLFR) at the current level.
-
-Accordingly, it has been decided to maintain the sub -deposit rate and the subsidiary of the subsidiary of 8.25 per cent and 9.25 per cent respectively.. Remble
-
-◼️
-
-[Data](articles/b393f74e.json)
-
-[Extended Data](ext_articles/b393f74e.ext.json)
 
 ---

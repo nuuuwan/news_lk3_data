@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 03:08:34**
+As of **2024-09-28 03:22:42**
 
 ## Newspaper Stats
 
-*Scraped **46,664** Articles*
+*Scraped **46,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,485
 tamilmirrorlk | 6,256
-virakesarilk | 7,459
+virakesarilk | 7,461
 adaderanasinhalalk | 8,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,664 (100.0%) of 46,664 articles have been extended.
+46,666 (100.0%) of 46,666 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -185,6 +185,32 @@ His nurturing and sustaining the myth that he is eternal and thus creating perso
 [Data](articles/e52ded7a.json)
 
 [Extended Data](ext_articles/e52ded7a.ext.json)
+
+---
+
+### 62 million rupees compensation for victims on Easter Day
+
+*2024-09-28 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/194956) · `ta`
+
+Easter Sunday terrorist case: 62m rupees compensation for victims, 246m rupees received so far. 300 pending cases in Negombo and Colombo courts. Former Director Nilanda Jayawardene accused of contempt for unpaid 75m rupees compensation.
+
+🟩
+
+Additional Solicitor General Dilip Peiris said 246 million rupees has been received in connection with the Easter Sunday terrorist case.
+
+He presented the facts in the Supreme Court on Friday (27) and said 62 million rupees for the victims of the Easter attack.
+
+Attorney -at -Law Shamil Perera, appearing on behalf of Archbishop Malcolm Cardinal Ranjith, told the court that if the list of the victims is submitted, the present -day compensation cases can be withdrawn in the district courts.
+
+Meanwhile, about 300 compensation cases filed by the victims are pending in Negombo and Colombo District Courts.
+
+In addition, the Attorney General announced in the Supreme Court on Friday (27) that the former Director of the State Intelligence Unit Nilanda Jayawardene had filed a contempt of court allegation against Nilantha Jayawardena due to failing to pay Rs 75 million in full compensation in the case.
+
+...
+
+[Data](articles/6b3b2ded.json)
+
+[Extended Data](ext_articles/6b3b2ded.ext.json)
 
 ---
 
@@ -869,6 +895,32 @@ The new president has elected a new president voting for a change in the preside
 [Data](articles/d238dbfb.json)
 
 [Extended Data](ext_articles/d238dbfb.ext.json)
+
+---
+
+### Central Bank Resolution to maintain interest rates
+
+*2024-09-27 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194940) · `ta`
+
+Central Bank maintains interest rates at 8.25% and 9.25%. Economic growth projected higher than end-of-year forecast. Inflation target below 5%. GDP growth 5.3% Q1, 4.7% Q2. Meeting with President discussed current economic situation and IMF negotiations.
+
+🟩
+
+The Central Bank, which has decided to maintain interest rates in the past level, has said that the economic growth will be higher than that of the end of this year.
+
+A media briefing to announce the resolutions made at the 5th review meeting of the Municipal Council this year was organized today (27) at the Central Bank auditorium in Colombo.
+
+In the case, the Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, was briefed on the above economic reactions.
+
+Accordingly, the Monetary Board has decided to maintain the policy interest rate and the subsidiary loan rate at 8.25 per cent and 9.25 per cent respectively, and 2 per cent of the standard.
+
+Similarly, in the coming few quarters, inflation will be maintained in the future due to changes in prices and films that will be maintained at the level of less than 5 per cent.
+
+...
+
+[Data](articles/c0baf396.json)
+
+[Extended Data](ext_articles/c0baf396.ext.json)
 
 ---
 
@@ -2187,47 +2239,5 @@ Accordingly, the seven -member High Court, headed by Chief Justice Jayantha Jaya
 [Data](articles/f51da594.json)
 
 [Extended Data](ext_articles/f51da594.ext.json)
-
----
-
-### Lion A. Prabhakaran is the All Ceylon Peace Justice
-
-*2024-09-27 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194893) · `ta`
-
-Lion A. Prabhakaran sworn in as All Ceylon Peace Judge. He's from East Namala Vidyalaya and heads Jaffna City Lions Association.
-
-🟩
-
-Lion A. Prabhakaran sworn in as the All Ceylon Peace Judge in the presence of Jaffna District Court Judge A. Anandarajah.
-
-It is noteworthy that he is an officer of the East Namala Vidyalaya in Kokuvil, Jaffna and the head of the Service of the Jaffna City Lions Association.
-
-◼️
-
-[Data](articles/989e49fa.json)
-
-[Extended Data](ext_articles/989e49fa.ext.json)
-
----
-
-### New President calls for Armed Forces
-
-*2024-09-27 11:02:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுதப்படைகளை-அழைக்கின்றார்-புதிய-ஜனாதிபதி/175-344575) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake issues gazette inviting Armed Forces to maintain public order nationwide. Notification affects Army, Navy, and Air Force, effective immediately. This marks the president's first major action since assuming office.
-
-🟩
-
-President Anura Kumara Dissanayake has issued a gazette notification to invite the Armed Forces to establish a public order in all districts of Sri Lanka.
-
-A special gazette notification was issued yesterday with an order to invite the Army, Navy and Air Force to come into effect from today.
-
-President Anuragumara Dissanayake has been released after his duties have been released for the first time.. Remble
-
-◼️
-
-[Data](articles/426ddb37.json)
-
-[Extended Data](ext_articles/426ddb37.ext.json)
 
 ---

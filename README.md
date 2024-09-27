@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 06:43:44**
+As of **2024-09-27 07:25:40**
 
 ## Newspaper Stats
 
-*Scraped **46,521** Articles*
+*Scraped **46,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,110
 adalk | 4,292
 dailymirrorlk | 4,733
 adaderanalk | 5,466
-tamilmirrorlk | 6,234
+tamilmirrorlk | 6,235
 virakesarilk | 7,434
 adaderanasinhalalk | 8,029
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,029
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,505 (100.0%) of 46,521 articles have been extended.
+46,509 (100.0%) of 46,522 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,26 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/66e1a65f.json)
 
 [Extended Data](ext_articles/66e1a65f.ext.json)
+
+---
+
+### 46 holy water killed in Bihar
+
+*2024-09-27 05:52:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பீகாரில்-புனித-நீராடிய-46-பேர்-பலி/175-344565) · `ta`
+
+46 deaths reported during Jitia festival in Bihar, including 37 children. Festival involves mothers fasting for children's health.
+
+🟩
+
+In Bihar, 46 people, including 37 children, died during the Jitia festival.
+
+It is a festival that mothers are celebrating from fasting for their children to live with health and health. (A)
+
+◼️
+
+[Data](articles/68991bda.json)
+
+[Extended Data](ext_articles/68991bda.ext.json)
 
 ---
 
@@ -164,6 +184,8 @@ Thank you all for joining us tonight to celebrate the 75th anniversary of the fo
 
 [Data](articles/ba17b120.json)
 
+[Extended Data](ext_articles/ba17b120.ext.json)
+
 ---
 
 ### In celebration of China’s 75th National Day: Towards greater progress of China-Sri Lanka friendship
@@ -210,6 +232,8 @@ On behalf of the Chamber of Marine Industries of Sri Lanka (CMISL), I, as Chairm
 
 [Data](articles/73be0a12.json)
 
+[Extended Data](ext_articles/73be0a12.ext.json)
+
 ---
 
 ### Navigating new EU sustainability and labelling requirements
@@ -223,6 +247,8 @@ The EU has been a leader in promoting sustainability, transparency, and traceabi
 ...
 
 [Data](articles/aee1f23d.json)
+
+[Extended Data](ext_articles/aee1f23d.ext.json)
 
 ---
 
@@ -2249,37 +2275,5 @@ He is also the Managing Director of Litro Gas Lanka Lanka Ltd and Litro Gas Term
 [Data](articles/392f31f2.json)
 
 [Extended Data](ext_articles/392f31f2.ext.json)
-
----
-
-### MJP Do the Strongest Party in Sri Lanka - Dilum
-
-*2024-09-26 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201569) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dilum Amunugama named national organizer for Mawbima People's Party. Leader Dilith Jayaweera calls it crucial step. Goal: Make party strongest in Sri Lanka.
-
-🟩
-
-Former State Minister Dilum Amunugama appointed his new national organizer to make Mawbima People's Party into Sri Lanka's strongest party.
-
-Dilum Amunugama was appointed as the National Organizer of the Motherland People's People's Party.
-
-Speaking at the meeting, the leader of the Motherland People's Party, entrepreneral Dilith Jayaweera said that today is an important milestone.
-
-"Our Allied Dilum Amunugama brother is associated with us today as national organizer."
-
-"We have now been released.. Ricture who we should do politics with. Accordingly, a letter to the Secretary of the Sri Lanka General Front informed the party I would leave the party. I referred the letter this morning. Maybe it's not yet. "
-
-"I decided to take responsibility to the national organizer to strengthen the party.. This is the objective of making this party the most strong party in Sri Lanka. "
-
-◼️
-
-[Data](articles/15e787a4.json)
-
-[Extended Data](ext_articles/15e787a4.ext.json)
 
 ---

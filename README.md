@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 17:22:49**
+As of **2024-09-27 17:40:36**
 
 ## Newspaper Stats
 
-*Scraped **46,602** Articles*
+*Scraped **46,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,482
 tamilmirrorlk | 6,248
 virakesarilk | 7,449
-adaderanasinhalalk | 8,050
+adaderanasinhalalk | 8,051
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,602 (100.0%) of 46,602 articles have been extended.
+46,603 (100.0%) of 46,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Acting IGP Priyantha Weerasuriya
+
+*2024-09-27 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201608) · `si`
+
+Priyantha Weerasuriya, a senior police officer with over 36 years of experience, has been appointed as acting Inspector General of Police (IGP). He previously served as Senior Deputy Inspector General (DIG) in charge of the North Central Province.
+
+🟩
+
+Senior DIG Priyantha Weerasuriya has been appointed as acting IGP.
+
+He was the Senior DIG in charge of the North Central Province.
+
+He is an officer who owns more than 36 years of the Police Department.
+
+He was later promoted to the post of Senior DIG.
+
+◼️
+
+[Data](articles/47ea7e77.json)
+
+[Extended Data](ext_articles/47ea7e77.ext.json)
+
+---
 
 ### Priyantha Weerasooriya appointed Acting IGP
 
@@ -1009,8 +1033,6 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
-
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 
@@ -2225,21 +2247,5 @@ Newly elected President Anura Kumara Dissanayake on Monday called on Colombo Arc
 [Data](articles/20dd97cf.json)
 
 [Extended Data](ext_articles/20dd97cf.ext.json)
-
----
-
-### SLT-MOBITEL offers unbeatable rates on Tourist SIM & eSIM packages
-
-*2024-09-27 03:36:00* · [`islandlk`](http://island.lk/slt-mobitel-offers-unbeatable-rates-on-tourist-sim-esim-packages/) · `en`
-
-Reaffirming its commitment to offering best in class connectivity, SLT-MOBITEL has unveiled an exciting value proposition with its latest Tourist SIM pack, specifically designed to cater to the communication needs of tourists visiting the island nation.
-
-Be it exploring the lush tea plantations of the hill country, soaking up the sun on the southern beaches, or immersing yourself in Colombo’s vibrant culture, SLT-MOBITEL ensures you stay connected with seamless, ultra-high-speed mobile internet through its robust nationwide 4G network and future-ready network infrastructure.
-
-...
-
-[Data](articles/708f16f8.json)
-
-[Extended Data](ext_articles/708f16f8.ext.json)
 
 ---

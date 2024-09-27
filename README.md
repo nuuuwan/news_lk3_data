@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 19:38:25**
+As of **2024-09-27 20:10:48**
 
 ## Newspaper Stats
 
-*Scraped **46,616** Articles*
+*Scraped **46,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,830
 dailyftlk | 3,110
-adalk | 4,301
+adalk | 4,302
 dailymirrorlk | 4,733
-adaderanalk | 5,482
+adaderanalk | 5,483
 tamilmirrorlk | 6,251
 virakesarilk | 7,452
 adaderanasinhalalk | 8,053
@@ -26,11 +26,55 @@ adaderanasinhalalk | 8,053
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,616 (100.0%) of 46,616 articles have been extended.
+46,618 (100.0%) of 46,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Heavy showers above 100mm expected; Advisory for severe lightning
+
+*2024-09-27 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102307/heavy-showers-above-100mm-expected-advisory-for-severe-lightning) · `en`
+
+The Meteorology Department says showery conditions are expected to enhance during the next few days starting today (27), due to the low-level atmospheric disturbance in the vicinity of Sri Lanka.
+
+Showers or thundershowers will occur over most places of the Island during the afternoon or night, it said.
+
+Heavy showers above 100 mm can be expected at some places in Central and Sabaragamuwa provinces and in Kaluthara, Galle and Matara districts.
+
+Showers or thundershowers will occur in Southern Province and in Batticaloa and Ampara districts during the morning too.
+
+Meanwhile, the Meteorology Department has also issued an advisory for severe lightning for several provinces.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in North, North-Central, Central, Uva, and Eastern provinces, it said.
+
+...
+
+[Data](articles/78ddbd3d.json)
+
+[Extended Data](ext_articles/78ddbd3d.ext.json)
+
+---
+
+### Priyantha Weerasuriya to the post of Acting IGP
+
+*2024-09-27 18:56:02* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රියන්ත-වීරසූරිය-වැඩ-බලන-පොලිස්පති-තනතුරට/11-412186) · `si`
+
+President appoints Senior DIG Priyantha Weerasuriya as acting IGP, previously Senior DIG North Central Province.
+
+🟩
+
+President Anura Kumara Dissanayake has been appointed as Senior DIG Priyantha Weerasuriya as acting IGP.
+
+Prior to appointment of acting IGP, he was the Senior DIG in charge of the North Central Province.
+
+◼️
+
+[Data](articles/ffcd119f.json)
+
+[Extended Data](ext_articles/ffcd119f.ext.json)
+
+---
 
 ### Insults case against Director General of Geological and Mines Bureau
 
@@ -1340,8 +1384,6 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
 
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
-
 ◼️
 
 [Data](articles/c4c75fc3.json)
@@ -2291,35 +2333,5 @@ Thank you all for joining us tonight to celebrate the 75th anniversary of the fo
 [Data](articles/ba17b120.json)
 
 [Extended Data](ext_articles/ba17b120.ext.json)
-
----
-
-### In celebration of China’s 75th National Day: Towards greater progress of China-Sri Lanka friendship
-
-*2024-09-27 05:14:57* · [`dailyftlk`](https://www.ft.lk/columns/In-celebration-of-China-s-75th-National-Day-Towards-greater-progress-of-China-Sri-Lanka-friendship/4-767221) · `en`
-
-Sri Lanka and China have shared a deep and enduring bond for decades, a relationship built on mutual respect, shared values, and a vision for cooperative development. Since diplomatic relations were established in 1957, the two countries have forged an unshakable partnership that continues to thrive today. Over the years, this partnership has been marked by close political ties, economic collaboration, and cultural exchanges, contributing significantly to the growth and prosperity of both nations.
-
-...
-
-[Data](articles/16340748.json)
-
-[Extended Data](ext_articles/16340748.ext.json)
-
----
-
-### The prelate and the premier: Why Buddharakkitha Thera got S.W.R.D. Bandaranaike murdered
-
-*2024-09-27 05:10:32* · [`dailyftlk`](https://www.ft.lk/columns/The-prelate-and-the-premier-Why-Buddharakkitha-Thera-got-S-W-R-D-Bandaranaike-murdered/4-767220) · `en`
-
-Sri Lanka’s newly elected President Anura Kumara Dissanayake has appointed Dr. Harini Amarasuriya as his Prime Minister. The academic turned politico is Sri Lanka’s third woman Prime Minister. The first woman PM of the island nation was Sirimavo Bandaranaike. Sirimavo shattered a global glass ceiling in 1960 by becoming the world’s first woman Prime Minister. Her daughter Chandrika Kumaratunga became the second woman PM in 1994. Subsequently she too made history as Sri Lanka’s first woman President.
-
-As is well known, Sirimavo and Chandrika were the wife and daughter of former Prime Minister Solomon West Ridgeway Dias Bandaranaike (SWRDB) respectively. Prime Minister Bandaranaike was killed in 1959. He died on 26 September 1959. SWRDB was born on 8 January 1899. As such this year marks the 125th birth and 65th death anniversaries of Bandaranaike.
-
-...
-
-[Data](articles/35ab79bb.json)
-
-[Extended Data](ext_articles/35ab79bb.ext.json)
 
 ---

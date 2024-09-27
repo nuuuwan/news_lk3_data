@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 14:24:03**
+As of **2024-09-27 14:38:42**
 
 ## Newspaper Stats
 
-*Scraped **46,583** Articles*
+*Scraped **46,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,104 @@ adalk | 4,297
 dailymirrorlk | 4,733
 adaderanalk | 5,477
 tamilmirrorlk | 6,248
-virakesarilk | 7,441
+virakesarilk | 7,444
 adaderanasinhalalk | 8,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,581 (100.0%) of 46,583 articles have been extended.
+46,586 (100.0%) of 46,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
 
-### கோழி இறைச்சியின் விலையில் மாற்றம்
+### Celebration of "World Tourism Day" at Katunayake Airport
+
+*2024-09-27 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194904) · `ta`
+
+Sri Lanka Tourism Promotion Bureau celebrated World Tourism Day at Katunayake Airport. Director Madhubani Perera, Deputy Director Harinda Wijewardena, and Katunayake Airport Manager Vasana Kumari attended. Employees greeted foreign tourists with souvenirs.
+
+🟩
+
+The Sri Lanka Tourism Promotion Bureau celebrated World Travel Day at Katunayake Airport on Friday (27).
+
+The World Tourism Day celebration was attended by Madhubani Perera, Director of the Sri Lanka Tourism Promotion Bureau, Harinda Wijewardena, Deputy Director of the Sri Lanka Tourism Promotion Bureau and Vasana Kumari, Manager of the Katunayake Airport, Vasana Kumari.
+
+Subsequently, the employees of the Sri Lanka Tourism Promotion Bureau welcomed foreign tourists visiting Sri Lanka through the Katunayake airport and greeted them with souvenirs.
+
+◼️
+
+[Data](articles/aa851c16.json)
+
+[Extended Data](ext_articles/aa851c16.ext.json)
+
+---
+
+### Change in the price of chicken meat
 
 *2024-09-27 14:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியின்-விலையில்-மாற்றம்/175-344581) · `ta`
 
-அடுத்த இரு வாரங்களுக்குள் கோழி இறைச்சியின் விலை குறைவடையலாம் என எதிர்பார்க்கப்படுவதாக அகில  இலங்கை சிறு கைத்தொழில் உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+Chicken meat prices may drop from Rs 1,000 to Rs 850 in two weeks due to decreased demand. Egg prices expected to fall by up to 20 rupees during festivals.
 
-கோழி இறைச்சிக்கான தேவை வெகுவாக குறைந்துள்ளதாகவும், இதன் காரணமாக அடுத்த இரண்டு வாரங்களில் விலை குறையலாம் எனவும் அந்த சங்கம் தெரிவித்துள்ளது.
+🟩
 
-தற்போது ஒரு கிலோ கோழி இறைச்சியின் சில்லறை விலை 1,000 முதல் 1,100 ரூபா வரையில் விற்பனை செய்யப்படுவதாக சங்கத்தின் தலைவர் நிருக்ஷ குமார தெரிவித்தார்.
+The All Ceylon Small Industry Owners Association said the price of poultry meat is expected to decline within the next two weeks.
 
-அடுத்த பதினைந்து நாட்களில் இந்த விலை 900 முதல் 850 ரூபாய் வரை குறையலாம் என்றும் அவர் கூறினார்.
+The association said the demand for poultry meat has declined drastically and the price will be reduced in the next two weeks.
 
-இதேவேளை முட்டையின் விலையும் எதிர்வரும் பண்டிகை நாட்களில் 20 ரூபா வரையிலும் குறையும் என எதிர்பார்க்கப்படுகின்றது. R
+The president of the association, Nirkasha Kumara, said that the retail price of a kilogram of chicken meat is currently being sold at Rs 1,000 to Rs 1,100.
+
+He said the price could be reduced from Rs 900 to Rs 850 in the next fifteen days.
+
+Meanwhile, the price of egg is expected to fall by up to 20 rupees in the coming festive days. Remble
 
 ◼️
 
 [Data](articles/766de101.json)
 
+[Extended Data](ext_articles/766de101.ext.json)
+
 ---
 
-### කොළඹ සමූහ මිනීවළේ කැණීම් යළිත් අරඹයි
+### Excavations in Colombo mass grave will be resumed
 
 *2024-09-27 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201602) · `si`
 
-කොළඹින් හමුවූ සමූහ මිනීවළේ දෙවන අදියරේ කැණීම් ආරම්භ කර තිබේ.
+Colombo mass grave excavation resumes. Second phase begins under Professor Raj Somadeva's supervision.
 
-කොළඹ වරායෙන් මෙලෙස සමූහ මිනීවළක් හමුවූ අතර එහි දෙවන අදියරේ කැණීම් කටයුතු අද (27) ආරම්භ කෙරුණි.
+🟩
 
-මහාචාර්ය රාජ් සෝමදේව මහතා ඇතුළු පිරිසක් මෙහි කැණීම් භාරව කටයුතු කරයි.
+The second phase of the mass grave found in Colombo has begun excavations.
+
+The Colombo Port met with a massive grave and the second phase of the second was commenced today.
+
+Professor Raj Somadeva and several others were excavations here.
 
 ◼️
 
 [Data](articles/1db03b96.json)
+
+[Extended Data](ext_articles/1db03b96.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-09-27 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194915) · `ta`
+
+US Dollar: 295.3030 INR (buy), 304.3376 INR (sell) as per Central Bank on 27th.
+
+🟩
+
+The US dollar purchasing price was 295.3030 rupees and the sales price were 304.3376 rupees based on a currency exchange rate released by the Central Bank on Friday (27).
+
+◼️
+
+[Data](articles/bbc5b95b.json)
+
+[Extended Data](ext_articles/bbc5b95b.ext.json)
 
 ---
 
@@ -156,6 +208,32 @@ President Anura Dissanayake has ordered the police to open the streets of Mawath
 
 ---
 
+### Those who say that they should stand alone and compete with the party will be disintegrating - Gnanamuthu Srinasan
+
+*2024-09-27 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194902) · `ta`
+
+Gnanamuthu Srinivasan: Tamil National Party should contest as federation in parliamentary elections. TNA leader Mawai Senathirajah urges unity among Tamil parties. Parties united for local elections but aim to contest together in provincial and parliamentary polls. New government focused on addressing Tamil issues like land grabs, kidnappings, murders, robberies, and Easter bombings.
+
+🟩
+
+We want the Tamil National Party to contest the upcoming parliamentary elections as a federation. This is the wishes of the people. Former Batticaloa district parliamentarian Gnanamuttu Srinesan said that those who claim to contest personally are intended to be aimed at raising the party.
+
+He was speaking to the media this morning (27) in Batticaloa.
+
+The Tamil National Alliance (TNA) leader Mawai Senathirajah has said that the Tamils ​​should unite the Tamil National Party as a party in the unity.
+
+The parties in the Local Government elections were left alone after contesting separately after contesting a separate council, and it was taken to get more council seats, thereby joining the Sri Lankan national parties, uniting the Tamil national parties and taking these councils strongly.
+
+This procedure was only for the local elections. The Tamil National Party's desire is to contest the federation in other provincial council election and parliamentary elections.
+
+...
+
+[Data](articles/e4aa2705.json)
+
+[Extended Data](ext_articles/e4aa2705.ext.json)
+
+---
+
 ### Action change in IMC
 
 *2024-09-27 12:31:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சவில்-அதிரடி-மாற்றம்/175-344577) · `ta`
@@ -200,7 +278,13 @@ Meanwhile, former SJB MP Kabir Hashim has been appointed as the General Secretar
 
 *2024-09-27 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102298/president-orders-reopening-of-two-roads-near-presidents-house) · `en`
 
-President Anura Kumara Dissanayake has ordered the police to reopen Sir Baron Jayathilake Mawatha and Janadhipathi Mawatha, located near the President’s House, to the public starting today, according to Police Media Spokesman DIG Nihal Thalduwa.
+President Anura Kumara Dissanayake has ordered the reopening of roads around the President’s House in Colombo Fort, which had previously been closed due to roadblocks.
+
+The President’s House and its surrounding area had been classified as a high-security zone and were closed off to the public.
+
+However, with President Dissanayake’s appointment, all roadblocks have now been lifted, the President’s Media Division said.
+
+Accordingly, Sir Baron Jayathilaka Mawatha and Janadhipathi Mawatha will be accessible to the public from tomorrow (28).
 
 ◼️
 
@@ -569,6 +653,8 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
+
+Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 
@@ -2153,75 +2239,5 @@ Sri Lanka lost 0 - 4 in the first match with North Korea, 0 - 3 in Tajikistan an
 [Data](articles/f6a4cd10.json)
 
 [Extended Data](ext_articles/f6a4cd10.ext.json)
-
----
-
-### 2024-09-26 (Thursday)
-
-### Rare comet in the Earth
-
-*2024-09-26 22:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201583) · `si`
-
-Rare comet visible over Eastern Hemisphere tomorrow. Comet C2023-A3 expected to appear in eastern sky around 8 PM local time. Astronomers predict this event won't occur again for approximately 80,000 years.
-
-🟩
-
-Around 80,000 years, Sri Lankans will be able to see the opportunity to see the rare comel eye on the earth tomorrow (27).
-
-Astronomers say that the C2023 - A3, that the comet appears above the horizon of the eastern sky.
-
-◼️
-
-[Data](articles/6803c46f.json)
-
-[Extended Data](ext_articles/6803c46f.ext.json)
-
----
-
-### Dilith reveals plans to form major alliance for parliamentary polls
-
-*2024-09-26 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102288/dilith-reveals-plans-to-form-major-alliance-for-parliamentary-polls) · `en`
-
-Mawbima Janatha Party (MJP) leader and entrepreneur, Dilith Jayaweera, announced plans to form a major political alliance ahead of the upcoming general elections.
-
-He made these remarks today (26) at a meeting held at the MJP head office in Colombo.
-
-During the event, former State Minister Dilum Amunugama was officially appointed as the national organiser of the MJP.
-
-Jayaweera stated, “In the general election, we are asking for votes in all districts. This time, we are creating the most influential political alliance in Sri Lanka. We have invited politicians, whom we believe will be accepted by the people, to engage in discussions with us.”
-
-“We are contesting the election under the ‘Sarvajana Balaya’ alliance and hope to secure a new symbol for it,” he added.
-
-◼️
-
-[Data](articles/b7bd5958.json)
-
-[Extended Data](ext_articles/b7bd5958.ext.json)
-
----
-
-### Congratulations to Anura from Bideen Gen
-
-*2024-09-26 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201582) · `si`
-
-Here's a 200-character summary:
-
-
-
-US President Joe Biden congratulates Kumara Dissanayake on his election as Sri Lanka's president. He praises the free, fair, and peaceful election process. Biden expresses hope for cooperation on peace, security, and prosperity in the Indo-Pacific region.
-
-🟩
-
-US President Joe Biden, who was elected new president in Sri Lanka, has congratulated a greetings to Mr. Kumara Dissanayake.
-
-"The Sri Lankan treasures have been selected from a free, fair and peaceful election as their president."
-
-"I look forward to dealing with peace, security and prosperity in the Indo-Pacific region."The US President has stated in his X message.
-
-◼️
-
-[Data](articles/489ea9b1.json)
-
-[Extended Data](ext_articles/489ea9b1.ext.json)
 
 ---

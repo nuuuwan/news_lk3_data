@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 10:23:08**
+As of **2024-09-27 10:38:19**
 
 ## Newspaper Stats
 
-*Scraped **46,547** Articles*
+*Scraped **46,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,824
 dailyftlk | 3,110
 adalk | 4,295
 dailymirrorlk | 4,733
-adaderanalk | 5,471
+adaderanalk | 5,472
 tamilmirrorlk | 6,241
 virakesarilk | 7,435
 adaderanasinhalalk | 8,037
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,037
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,547 (100.0%) of 46,547 articles have been extended.
+46,548 (100.0%) of 46,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### New York Mayor Eric Adams charged in Turkey bribery, fraud scheme
+
+*2024-09-27 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102294/new-york-mayor-eric-adams-charged-in-turkey-bribery-fraud-scheme) · `en`
+
+U.S. prosecutors on Thursday charged New York City Mayor Eric Adams with accepting illegal campaign contributions and luxury travel from Turkish nationals seeking to influence him, capping an investigation that has sent the largest U.S. city’s government into turmoil.
+
+In a 57-page indictment, prosecutors laid out an alleged scheme stretching back to 2014 that helped to underwrite Adams’ 2021 mayoral campaign and showered him with free rooms at opulent hotels and meals at high-end restaurants.
+
+In return, Adams pressured city officials to allow the country’s new 36-story consulate to open despite safety concerns, prosecutors said.
+
+The Democrat faces five criminal charges and could face decades in prison if found guilty.
+
+Adams, 64, denied wrongdoing and said he would fight the charges in court. He said he would not step down.
+
+“I will continue to do my job as mayor,” he said at a news conference, where some onlookers called on him to resign.
+
+...
+
+[Data](articles/975e9846.json)
+
+[Extended Data](ext_articles/975e9846.ext.json)
+
+---
 
 ### Former MP pays a sudden driven vehicle
 
@@ -2251,31 +2275,5 @@ Development of school education is a policy of the present government. We have d
 [Data](articles/7095e50d.json)
 
 [Extended Data](ext_articles/7095e50d.ext.json)
-
----
-
-### Fuel subsidy for fishing community
-
-*2024-09-26 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201575) · `si`
-
-President introduces fuel subsidy for fishing community. Subsidy to be distributed monthly to multi-day and single-day vessels. Funds to be directly deposited into fishermen's bank accounts. Expected to benefit fisheries industry.
-
-🟩
-
-The President has taken steps to provide a fuel subsidy for the fishing community.
-
-Accordingly, the President has instructed the Treasury to provide this fuel subsidy to the fishing community, accordingly.
-
-Through this, the fuel subsidy will be given to the multi-day and one day vessels on a monthly basis.
-
-The Presidential Media Unit stated that the subsidy will directly remit to fishermen's bank accounts.
-
-The announcement states that this is expected to reduce the fisheries industry.
-
-◼️
-
-[Data](articles/f2a12e56.json)
-
-[Extended Data](ext_articles/f2a12e56.ext.json)
 
 ---

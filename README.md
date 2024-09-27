@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 12:13:51**
+As of **2024-09-27 12:38:29**
 
 ## Newspaper Stats
 
-*Scraped **46,564** Articles*
+*Scraped **46,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,830
 dailyftlk | 3,110
 adalk | 4,296
 dailymirrorlk | 4,733
-adaderanalk | 5,475
+adaderanalk | 5,477
 tamilmirrorlk | 6,243
-virakesarilk | 7,435
-adaderanasinhalalk | 8,041
+virakesarilk | 7,441
+adaderanasinhalalk | 8,042
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,564 (100.0%) of 46,564 articles have been extended.
+46,573 (100.0%) of 46,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Imthiaz Bakeer Markar appointed SJB Chairman
+
+*2024-09-27 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102299/imthiaz-bakeer-markar-appointed-sjb-chairman) · `en`
+
+Former SJB parliamentarian Imthiaz Bakeer Markar has been appointed as the new Chairman of the Samagi Jana Balawegaya (SJB).
+
+◼️
+
+[Data](articles/956c5b2f.json)
+
+[Extended Data](ext_articles/956c5b2f.ext.json)
+
+---
+
+### President orders reopening of two roads near President’s House
+
+*2024-09-27 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102298/president-orders-reopening-of-two-roads-near-presidents-house) · `en`
+
+President Anura Kumara Dissanayake has ordered the police to reopen Sir Baron Jayathilake Mawatha and Janadhipathi Mawatha, located near the President’s House, to the public starting today, according to a police spokesman.
+
+◼️
+
+[Data](articles/1964a026.json)
+
+[Extended Data](ext_articles/1964a026.ext.json)
+
+---
+
+### Two roads opened next to Presidentlessment
+
+*2024-09-27 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201599) · `si`
+
+Here's a 200-character summary:
+
+
+
+President opens three roads: Sir Baron Jayathilaka Mawatha, President's Mawatha, Presidential Mawatha. Police spokesperson confirms Nihal Talduwa involvement under President Anura Kumara Dissanayake's directive.
+
+🟩
+
+The President has decided to open Sir Baron Jayathilaka Mawatha, President's Mawatha and Presidential Mawatha to the public.
+
+Police Media Spokesperson DIG'sary DIG's latter brother said Nihal Talduuwa is opened by President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/fe413d7e.json)
+
+[Extended Data](ext_articles/fe413d7e.ext.json)
+
+---
 
 ### The mortality found the head of the Hezbollah Drone Society
 
@@ -108,6 +160,34 @@ The Ambassador to the Ambassador to the Sri Lanka Agrack on the final phase of t
 
 ---
 
+### Governor of the Northern Province Na Vedanayan took over the duties
+
+*2024-09-27 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194896) · `ta`
+
+Na Vedanayakan assumes governorship of Northern Province. Event attended by Ramalingam Chandrasekaram and others. BSM Salles resigned on September 23. Anura Kumara Dissanayake appointed new governor. Simple ceremony held at Northern Province Governor's Secretariat in Jaffna.
+
+🟩
+
+The newly appointed Northern Province Governor Na Vedanayakan took over his duties at a simple event on Friday (27).
+
+The event was held today at 9 am at the Northern Province Governor's Secretariat in Jaffna.
+
+Ramalingam Chandrasekaram, a member of the National People's Power Executive Committee and former Member of Parliament, and many others were present at the event.
+
+Northern Province Governor BSM Salles, appointed by former President Ranil Wickremesinghe as the new president, resigned on September 23.
+
+Subsequently, President Anura Kumara Dissanayake was appointed Governor of the Northern Province.
+
+It is noteworthy that the police team did not hold a class respect at a very simple event.
+
+◼️
+
+[Data](articles/76af683d.json)
+
+[Extended Data](ext_articles/76af683d.ext.json)
+
+---
+
 ### Japan reiterates commitment to initiate 11 halted projects in Sri Lanka: AKD
 
 *2024-09-27 11:21:00* · [`economynextcom`](https://economynext.com/japan-reiterates-commitment-to-initiate-11-halted-projects-in-sri-lanka-akd-181293/) · `en`
@@ -172,6 +252,26 @@ Accordingly, the seven -member High Court, headed by Chief Justice Jayantha Jaya
 
 ---
 
+### Lion A. Prabhakaran is the All Ceylon Peace Justice
+
+*2024-09-27 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194893) · `ta`
+
+Lion A. Prabhakaran sworn in as All Ceylon Peace Judge. He's from East Namala Vidyalaya and heads Jaffna City Lions Association.
+
+🟩
+
+Lion A. Prabhakaran sworn in as the All Ceylon Peace Judge in the presence of Jaffna District Court Judge A. Anandarajah.
+
+It is noteworthy that he is an officer of the East Namala Vidyalaya in Kokuvil, Jaffna and the head of the Service of the Jaffna City Lions Association.
+
+◼️
+
+[Data](articles/989e49fa.json)
+
+[Extended Data](ext_articles/989e49fa.ext.json)
+
+---
+
 ### New President calls for Armed Forces
 
 *2024-09-27 11:02:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுதப்படைகளை-அழைக்கின்றார்-புதிய-ஜனாதிபதி/175-344575) · `ta`
@@ -214,6 +314,36 @@ As a result, they were ordered to pay compensation to the victims of the Easter 
 
 ---
 
+### Stop bringing politicians to school events - Minister of Education
+
+*2024-09-27 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194888) · `ta`
+
+Minister appeals: Stop politicians at school events. Risks politicizing education. Transparency needed for teacher recruitment. Addressing COVID-19, economic stress, and exam leaks. Promises swift, fair resolution for leaked questions. Announces immediate release of delayed exam results.
+
+🟩
+
+Dr. Harini Amarasuriya has appealed to all schools to stop the bringing politicians to school events.
+
+He said this while addressing an event organized by the Ministry of Education.
+
+Calling politicians for school events will result in a risk of politicizing the school environment and the school environment.
+
+Transparency is essential in filling the teacher deficit. The public must fill in transparency to build the confidence of the public.
+
+The current generation faces many challenges. In it, the Kovit-19 infection and the economic crisis have increased stress among students.
+
+The recent Grade 5 Scholarship Examination Questionnaire Leak will be a quick and fair settlement. There will be no harm to students.
+
+He has announced to the Department of Examinations to immediately release all the late examination results.
+
+◼️
+
+[Data](articles/3800ccd0.json)
+
+[Extended Data](ext_articles/3800ccd0.ext.json)
+
+---
+
 ### Nilantha Jayawardena files charges against insulting the judiciary
 
 *2024-09-27 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201595) · `si`
@@ -236,6 +366,30 @@ Accordingly, Nilantha Jayawardena has ordered the Chief Justice Bench to be held
 
 ---
 
+### Yall. Meeting between Elections Office and EU Election Monitoring Committee
+
+*2024-09-27 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194890) · `ta`
+
+EU Election Monitoring Committee meets Jaffna officials. Committee praises election cooperation and smooth process. Local government agent thanks EU monitors for assistance. Meeting attendees: Nicholas Kukulis, Johanna Van Sambik, Madhumu Paramanan.
+
+🟩
+
+The European Union's Election Monitoring Committee, which was involved in election monitoring in the Jaffna district, met with the Jaffna District Government Agent and the Department of Elections Officer Marudalingam Pradeepan at the Government Agent's office on Thursday (26).
+
+They thanked the Elections Officers and the Officers for fully cooperating with their election monitoring in Jaffna and said that the election was well and smooth.
+
+The Government Agent expressed his gratitude to the European Union election monitors in Jaffna's election surveillance and the involvement of several advance discussions with us.
+
+The meeting was attended by Nicholas Kukulis and Johanna Van Sambik and Madhumu Paramanan.
+
+◼️
+
+[Data](articles/67a8c4e1.json)
+
+[Extended Data](ext_articles/67a8c4e1.ext.json)
+
+---
+
 ### Joe Biden congratulates Sri Lanka’s new President
 
 *2024-09-27 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102295/joe-biden-congratulates-sri-lankas-new-president) · `en`
@@ -246,11 +400,43 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
 
+Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
+
 ◼️
 
 [Data](articles/c4c75fc3.json)
 
 [Extended Data](ext_articles/c4c75fc3.ext.json)
+
+---
+
+### Gurusamy's aspiration from the post of General Secretary
+
+*2024-09-27 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194889) · `ta`
+
+KR Guru Sami resigns as General Secretary of Democratic People's Front. Cites desire to work directly with people during Sri Lanka's parliamentary elections. Expresses gratitude to party members after 13 years of service.
+
+🟩
+
+KR Guru Sami has resigned from the post of General Secretary of the Democratic People's Front.
+
+He sent a letter to party leader Mano Ganesan on Thursday (26).
+
+When we look at the ongoing parliamentary elections in Sri Lanka, the results of the election and the events that followed, we see the biggest change in the minds of the people and their opposition.
+
+I am in the need to raise myself in accordance with their expectation.
+
+I have decided to dedicate myself to their livelihood for the welfare of the people, to work even more and to rule for the people.
+
+Therefore, as I want to work in the field with the people, I immediately resign from the posts of the General Secretary of the Democratic People's Front, the political committee of the Tamil Progressive Alliance.
+
+The letter said that I would like to express my heartfelt gratitude for the 13 -year -old political path that has traveled with them and the party till date and to express my gratitude to the party's fellow members.
+
+◼️
+
+[Data](articles/96a4cf13.json)
+
+[Extended Data](ext_articles/96a4cf13.ext.json)
 
 ---
 
@@ -419,6 +605,32 @@ The National Audit Office has given audit recommendations regarding this to mini
 [Data](articles/75bf47dc.json)
 
 [Extended Data](ext_articles/75bf47dc.ext.json)
+
+---
+
+### Three arrested with guns
+
+*2024-09-27 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194886) · `ta`
+
+Arrests made: 3 suspects caught with 2 domestic guns and 1 T-56 rifle. Retired soldier among them. Local weapons seized in raids.
+
+🟩
+
+Three persons who had two domestic guns and a T-56 rifle were arrested on Thursday (27), police said.
+
+The T56 rifle has been found at a shop in the Telgahamadilla area of ​​the Nugangmuwa police division and the gun number has been destroyed, police said.
+
+The arrested suspect has been revealed to be a 51 -year -old retired soldier from Gangallowa.
+
+Meanwhile, a suspect has been arrested with a locally manufactured gun during a raid carried out by police in Ariston Road, Naula.
+
+In addition, another suspect has been arrested with a locally manufactured gun in the Etimalai, Torathupitiya area, police said.
+
+◼️
+
+[Data](articles/e5e1e1ef.json)
+
+[Extended Data](ext_articles/e5e1e1ef.ext.json)
 
 ---
 
@@ -2019,215 +2231,5 @@ It is noteworthy that he has sent his resignation letter to the Secretary of the
 [Data](articles/b62739d7.json)
 
 [Extended Data](ext_articles/b62739d7.ext.json)
-
----
-
-### Visa can be obtained according to the old method
-
-*2024-09-26 20:39:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-முறைப்படி-விசா-பெறலாம்/175-344548) · `ta`
-
-Sri Lanka government resolves visa issue; old method reinstated; foreigners can apply online starting midnight today; VFS irregularities being investigated.
-
-🟩
-
-Public Defense Minister Vijitha Herath said that the government has been working to resolve the issue of a massive problem in the last 24 hours and all foreigners can get a visa from 12:00 pm today (26).
-
-VFS is the most affected by the visa issuing facility. Especially when foreigners coming to Sri Lanka had to face the problem of obtaining visa. Therefore, with the intervention of the Public Security Ministry, according to the court ruling, within the last 24 hours, the old form of visa has been taken.. Accordingly, the visa can be easily obtained from 12.00 pm today.
-
-Foreigners can easily apply for an online visa for online visa. The activities will be launched at 12 midnight today and the visa will be issued within 24 hours.
-
-Visa issue is the problem that caused great depression. We have resolved that problem at present. We consulted with the Attorney General in this regard. We acted immediately according to the court ruling.
-
-...
-
-[Data](articles/323a8008.json)
-
-[Extended Data](ext_articles/323a8008.ext.json)
-
----
-
-### Govt. reinstates previous visa issuing system
-
-*2024-09-26 20:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102286/govt-reinstates-previous-visa-issuing-system) · `en`
-
-The new Government of Sri Lanka has officially reinstated the previous visa issuing system, effective from 12.00 midnight today, according to the Presidential Media Division (PMD).
-
-Accordingly, starting from midnight today (26), all foreigners will be able to apply for visas under the previous system, the PMD said.
-
-Meanwhile, the new Foreign Minister of Sri Lanka, Vijitha Herath, has issued a special statement regarding the matter.
-
-He noted that “many people faced difficulties when the visa facility was managed by VFS Global. Foreigners traveling to Sri Lanka encountered various issues, leading to this swift action. Within 24 hours, the government implemented the court order to revert to the old system.”
-
-“In consultation with the Attorney General, the government took immediate steps to comply with the court’s decision. Additionally, an analysis is underway to investigate the alleged irregularities in contracting the VFS organisation to issue visas,” he added.
-
-...
-
-[Data](articles/9664d210.json)
-
-[Extended Data](ext_articles/9664d210.ext.json)
-
----
-
-### We will announce our move in the general election in two days - civil society
-
-*2024-09-26 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194873) · `ta`
-
-Civil society announces move in general election within two days. Tamil National Alliance discusses participation and election symbols. Decision pending analysis of key issues.
-
-🟩
-
-Civil community members who are part of the Tamil general framework have told the Democratic Tamil Coalition that they will announce their resolution within the next two days.
-
-The Parliament was dissolved by President Anura Kumara Dissanayake last Tuesday and it has been announced that the general election will be held on November 14.
-
-Subsequently, the Democratic Tamil National Alliance (TNA) Coordinating Committee gathered at a private hotel in Jaffna at 3.00 pm on Wednesday (25).. In the end, it was decided that the Tamil National Political Parties, which are part of the Democratic Tamil Alliance, will be fielded in the upcoming general election.
-
-The decision was taken to discuss with the General Council of Civil Social Public Council yesterday (26) and to listen to their positions.
-
-...
-
-[Data](articles/33744661.json)
-
-[Extended Data](ext_articles/33744661.ext.json)
-
----
-
-### The old visa method from midnight today again
-
-*2024-09-26 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201579) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Government reopens old visa issuance system midnight today. Presidential Media Unit announcement."
-
-🟩
-
-The government has decided to reopen the pre-existing visa issuance methodology.
-
-Accordingly, the system will be reopened today (26) at 12.00 midnight, the Presidential Media Unit said.
-
-◼️
-
-[Data](articles/d3c26132.json)
-
-[Extended Data](ext_articles/d3c26132.ext.json)
-
----
-
-### Dilith has a massive alliance for the general election
-
-*2024-09-26 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201578) · `si`
-
-Dilith Jayaweera's People's Party forms massive alliance for general election. Kandy District MP Dilum Amunugama joins as national organizer. Party aims to create influential coalition across Sri Lanka districts. Inviting politicians for discussions before election.
-
-🟩
-
-Mawbim People's Party Dilith Jayaweera says that a massive alliance is created around its party for the next general election.
-
-He was speaking at a meeting held at the People's Party office today (26).
-
-The Kandy District MP Dilum Amunugama, who joined the Motherland People's Party, was appointed national organizer of the Motherland People's Party.
-
-"Voting for all districts in general. We will create a more influential coalition in Sri Lanka. We believe that the people accept.. We have invited politicians.. To come with a conversation with us. Under the ovenoms, we are about to vote for the general election. We hope to get a new mark. "
-
-◼️
-
-[Data](articles/3b5df7e4.json)
-
-[Extended Data](ext_articles/3b5df7e4.ext.json)
-
----
-
-### Subsidies for farmers and fishermen
-
-*2024-09-26 20:17:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගෙන්-ගොවීන්ට-සහ-ධීවරයන්ට-සහනාධාර/11-412173) · `si`
-
-Sri Lanka government increases fertilizer subsidy to Rs 25,000 for farmers starting Oct 1. Fuel subsidy for fishermen introduced, paid directly to bank accounts. Aims to boost agriculture and fisheries sectors.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed the Treasury to provide a sum of Rs.
-
-Accordingly, the fertilizer subsidy allowance so far will be increased to Rs 25,000 /. This subsidy is operated from October 1.
-
-Effective and effectively, the subsidy is directly to the farmers to submit the relevant money directly to the farmers' bank accounts.
-
-The New Government's policy statement states that the promotion of agricultural applications, including manure and organic fertilizers, is said to provide subsidies for the promotion of chemical and organic fertilizers, including the correct agricultural application management.
-
-Meanwhile, the President has instructed the Treasury to provide a fuel subsidy for the fishing community to be implemented from 1st October to reduce production costs.
-
-Accordingly, a fuel subsidy for the multi-day and one day vessels will be given on a monthly basis. The subsidy will also be remitted directly to the fishermen's bank accounts.
-
-...
-
-[Data](articles/2066b0a3.json)
-
-[Extended Data](ext_articles/2066b0a3.ext.json)
-
----
-
-### Yall. Dileepan's memorial
-
-*2024-09-26 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194872) · `ta`
-
-Dileepan's 37th memorial commemorated at University of Jaffna. He died from fasting without water. Event held on Thursday.
-
-🟩
-
-The 37th commemoration of Dileepan, the 37th commemoration of Dileepan, who died of fasting without water, was held at the University of Jaffna on Thursday.
-
-◼️
-
-[Data](articles/1f31b587.json)
-
-[Extended Data](ext_articles/1f31b587.ext.json)
-
----
-
-### Is Sajith Premadasa Raja?
-
-*2024-09-26 20:14:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாச-இராஜினாமா/175-344547) · `ta`
-
-Sajith Premadasa denies resignation claim. General Secretary Ranjith Mathuma Bandara dismisses rumors on social media. No truth in news about party leader stepping down.
-
-🟩
-
-Its general secretary Ranjith Mathuma Bandara has denied reports on social media that United People's Power Party leader Sajith Premadasa has resigned.
-
-"There is no truth in the news that is spreading on social media," said Mathuma Bandara.
-
-◼️
-
-[Data](articles/b0425920.json)
-
-[Extended Data](ext_articles/b0425920.ext.json)
-
----
-
-### A world report that could not set up for Bradman
-
-*2024-09-26 20:01:25* · [`adalk`](https://www.ada.lk/sports/බ්‍රැඩ්මන්ටත්-පිහිටවන්න-බැරිවූ-ලෝක-වාර්තාවක්-කමිඳුගෙන්/9-412172) · `si`
-
-Kamindu Mendis breaks record: First Sri Lankan to score in all 147 Tests. Unbeaten 51 vs New Zealand in second Test. Saudi Calle leads Pakistan with over 50 runs in first seven Tests.
-
-🟩
-
-Sri Lanka's new batsman Kamindu Mendis beat a world report for the establishment of 147 Test cricketer in 147 years.
-
-As the first Test batsman scored with the marks at the end of the first six Tests, which was played.
-
-In the second Test with New Zealand team, he is unbeaten on 51 runs.
-
-Sauud Calle, Pakistan, had scored over 50 runs in the first seven Tests.
-
-How to score the score in 15 finalists to date.
-
-◼️
-
-[Data](articles/2872b41c.json)
-
-[Extended Data](ext_articles/2872b41c.ext.json)
 
 ---

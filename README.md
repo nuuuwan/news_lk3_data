@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 15:57:20**
+As of **2024-09-27 16:11:37**
 
 ## Newspaper Stats
 
-*Scraped **46,595** Articles*
+*Scraped **46,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 4,298
 dailymirrorlk | 4,733
 adaderanalk | 5,480
 tamilmirrorlk | 6,248
-virakesarilk | 7,447
+virakesarilk | 7,449
 adaderanasinhalalk | 8,047
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,595 (100.0%) of 46,595 articles have been extended.
+46,595 (100.0%) of 46,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### வலி வடக்கு உயர்பாதுகாப்பு வலய வீதிகளையும் மக்கள் பாவனைக்காக திறப்பது நல்லிணக்கத்தை வலுப்படுத்தும் - ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு அங்கஜன் இராமநாதன் வேண்டுகோள்
+
+*2024-09-27 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194929) · `ta`
+
+கொழும்பில் ஜனாதிபதி மாளிகைக்கு அருகில் மூடப்பட்டிருந்த இரண்டு வீதிகளை மீண்டும் மக்கள் பாவனைக்காக திறக்கப்படுவதற்கு ஜனாதிபதி உத்தரவிட்ட நிலையில், யாழ்ப்பாணம் வலிகாமம் வடக்குப் பகுதியில் பாதுகாப்பு வலயத்தில் உள்ள 4 வீதிகளையும் திறப்பதற்கு நடவடிக்கை எடுக்குமாறு ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு யாழ்ப்பாண தேர்தல் மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் கடிதம் மூலம் கோரிக்கை விடுத்துள்ளார்.
+
+யுத்தம் முடிவடைந்து 15 வருடங்கள் கடந்துள்ள போதிலும், பொதுமக்களின் வாழ்க்கைக்கு முக்கியமான பல வீதிகள் யாழ்ப்பாணத்தில் மூடப்பட்டுள்ளதால், இந்தப் பகுதிகளில் உள்ள மக்களின் அன்றாட நடவடிக்கைகள் மற்றும் போக்குவரத்து செயற்பாடுகள் மட்டுப்படுத்தப்பட்டுள்ளது.
+
+யாழ்ப்பாணம் - பலாலி வீதி (கிழக்கு பக்கம்): வயாவிளான் மத்திய கல்லூரிக்கு அடுத்துள்ள உயர் பாதுகாப்பு வலயத்தில் எஞ்சியுள்ள வீதி இராணுவ கட்டுப்பாடுகளில் இருந்து விடுவிக்கப்பட வேண்டும். இந்த வீதி பருத்தித்துறை பொன்னாலை வீதியுடன் இணைவதுடன் உள்ளூர் போக்குவரத்திற்கு இன்றியமையாததாகும்.
+
+...
+
+[Data](articles/4bb238d6.json)
+
+---
+
+### ஆமையை தன்வசம் வைத்திருந்த நபருக்கு 35,000 ரூபாய் அபராதம்
+
+*2024-09-27 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194924) · `ta`
+
+ஆமை ஒன்றை தன்வசம் வைத்திருந்த நபரொருவருக்கு காலி பிரதான நீதவான் இசுரு நெத்திகுமாரவினால் 35,000 ரூபாய் ஆபராதம் விதிக்கப்பட்டுள்ளது.
+
+காலி கலேகன பகுதியைச் சேர்ந்த 47 வயதுடைய ரணேபுர ஹேவகே அஜித்  என்ற சந்தேநபருக்கே அபராதம் விதிக்கப்பட்டுள்ளது.
+
+பொலிஸார் சந்தேக நபரை கைது செய்து அவரது பையை சோதனையிட்டதில் சுமார் நான்கு கிலோ எடையுள்ள ஆமை மீட்கப்பட்டுள்ளது.
+
+ஆரம்ப விசாரணையில் தனது வீட்டுத் தோட்டத்தில் உள்ள குளமொன்றில் இனப்பெருக்கம் செய்வதற்காக இந்த ஆமையை கொண்டு செல்வதாக தெரிவித்திருந்த நிலையில், மேலதிக விசாரணைகளில் இறைச்சிக்காக விற்பனை செய்யவிருந்தமை தெரியவந்துள்ளது.
+
+இந்நிலையில், குற்றப் புலனாய்வுப் பிரிவின் குற்றப் புலனாய்வுப் பிரிவின் பொறுப்பதிகாரி தம்மிக்க நாகஹவத்தவின் பணிப்புரையின் பேரில் சார்ஜன்ட் 38531 குருகே சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்தியுள்ளார்.
+
+இதன்போது, சந்தேக நபருக்கு  காலி பிரதான நீதவான் இசுரு நெத்திகுமாரவினால் 35,000 ரூபாய் ஆபராதம் விதிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/24cf0ffe.json)
+
+---
 
 ### Suspects of Club Spring murder further remanded
 
@@ -2157,37 +2195,5 @@ SMFL’s sponsorship is a testament to its commitment to excellence and eagernes
 [Data](articles/137cf86a.json)
 
 [Extended Data](ext_articles/137cf86a.ext.json)
-
----
-
-### HNBGI Chief Transformation Officer Dilshan Perera recognized at Sri Lanka Leadership Awards 2024
-
-*2024-09-27 03:17:00* · [`islandlk`](http://island.lk/hnbgi-chief-transformation-officer-dilshan-perera-recognized-at-sri-lanka-leadership-awards-2024/) · `en`
-
-Dilshan Perera, Chief Transformation Officer/General Manager at HNB General Insurance, was recognized at the Sri Lanka Leadership Awards 2024. This accolade honors his contributions to brand building, corporate leadership and innovation, highlighting a remarkable career spanning multiple industries.
-
-In his current role at HNB General Insurance, Dilshan Perera plays a pivotal role in driving the company’s transformation journey. His leadership has been instrumental in integrating innovative technologies and customer centric strategies, shaping the company’s future in a competitive marketplace.
-
-...
-
-[Data](articles/c0f49218.json)
-
-[Extended Data](ext_articles/c0f49218.ext.json)
-
----
-
-### Unilever Sri Lanka emerges No.1 Employer of Choice for the 12th consecutive year among undergraduates
-
-*2024-09-27 03:16:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-emerges-no-1-employer-of-choice-for-the-12th-consecutive-year-among-undergraduates/) · `en`
-
-Unilever Sri Lanka has once again solidified its status as the most preferred employer among undergraduates in Sri Lanka. This survey was conducted by an independent research agency which recognized Unilever as the No. 1 Employer of Choice, underscoring the company’s commitment to nurturing young talent and providing purposeful career opportunities.
-
-The annual Employer of Choice survey gauges the preferences of undergraduate students from national and private universities in Sri Lanka, spanning management, science, and engineering fields. Over 360 undergraduates were surveyed from universities across the country, assessing respondents’ perceptions of companies based on factors such as: their investments in youth employability, brand presence among youth, career opportunities and career drivers. Unilever Sri Lanka emerged as the clear frontrunner, capturing the hearts and minds of the surveyed undergraduates.
-
-...
-
-[Data](articles/34a320f3.json)
-
-[Extended Data](ext_articles/34a320f3.ext.json)
 
 ---

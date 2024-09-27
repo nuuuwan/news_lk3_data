@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 10:57:04**
+As of **2024-09-27 11:22:41**
 
 ## Newspaper Stats
 
-*Scraped **46,548** Articles*
+*Scraped **46,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 2,824
 dailyftlk | 3,110
 adalk | 4,295
 dailymirrorlk | 4,733
-adaderanalk | 5,472
+adaderanalk | 5,474
 tamilmirrorlk | 6,241
 virakesarilk | 7,435
-adaderanasinhalalk | 8,037
+adaderanasinhalalk | 8,038
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,548 (100.0%) of 46,548 articles have been extended.
+46,551 (100.0%) of 46,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### AG to file contempt charges against ex-SDIG Nilantha Jayawardana
+
+*2024-09-27 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102296/ag-to-file-contempt-charges-against-ex-sdig-nilantha-jayawardana-) · `en`
+
+The Attorney General today informed the Supreme Court that contempt of court charges will be filed against former Senior DIG and head of the State Intelligence Service (SIS), Nilantha Jayawardana, for failing to pay the Rs. 75 million in compensation for the Easter Sunday bomb victims as ordered by the court.
+
+Accordingly, the Supreme Court has ordered him to appear before the court on October 07.
+
+◼️
+
+[Data](articles/ef8947b6.json)
+
+[Extended Data](ext_articles/ef8947b6.ext.json)
+
+---
+
+### Nilantha Jayawardena files charges against insulting the judiciary
+
+*2024-09-27 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201595) · `si`
+
+Nilantha Jayawardena faces legal action for allegedly insulting the judiciary. Former head of State Intelligence Service charged by court. Supreme Court orders appearance on October 07 regarding failure to pay court fees related to fundamental rights petitions filed by Passover.
+
+🟩
+
+Former Head of State Intelligence Service has filed charges against the court against Nilantha Jayawardena.
+
+The Attorney General said that the Supreme Court today stated that the charges have been filed on failure to pay a completely failure in relation to the fundamental rights petitions filed by the Passover.
+
+Accordingly, Nilantha Jayawardena has ordered the Chief Justice Bench to be held informed to appear in court on October 07.
+
+◼️
+
+[Data](articles/e70fc47c.json)
+
+[Extended Data](ext_articles/e70fc47c.ext.json)
+
+---
+
+### Joe Biden congratulates Sri Lanka’s new President
+
+*2024-09-27 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102295/joe-biden-congratulates-sri-lankas-new-president) · `en`
+
+US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumara Dissanayake on his election to office.
+
+“The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
+
+“I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
+
+◼️
+
+[Data](articles/c4c75fc3.json)
+
+[Extended Data](ext_articles/c4c75fc3.ext.json)
+
+---
 
 ### New York Mayor Eric Adams charged in Turkey bribery, fraud scheme
 
@@ -2199,81 +2255,5 @@ The President also instructed the officials to formulate the solar panels on Ind
 [Data](articles/f1bb8f7f.json)
 
 [Extended Data](ext_articles/f1bb8f7f.ext.json)
-
----
-
-### Kamindu Mendis sets historic world record in 8th Test match
-
-*2024-09-26 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102284/kamindu-mendis-sets-historic-world-record-in-8th-test-match) · `en`
-
-In a remarkable achievement, Kamindu Mendis has become the first-ever player to slam fifty-plus scores in eight consecutive Test matches.
-
-The stylish southpaw attained the phenomenal batting feat during Sri Lanka’s ongoing Test match against New Zealand at Galle International Stadium.
-
-Coming at number five, Kamindu Mendis showcased exemplary skills to notch up his fourth half-century in Test cricket.
-
-After Sri Lankan captain Dhananjaya de Silva won the toss and opted to bowl, the hosts had a disastrous start to their first innings, losing Pathum Nissanka cheaply.
-
-However, former skipper Dimuth Karunaratne and ace batter Dinesh Chandimal helped them recover from the early setback. The duo stitched a valuable stand of 122 runs for the second wicket before Karunaratne’s run out brought the Kiwis back into the game.
-
-...
-
-[Data](articles/709b57f1.json)
-
-[Extended Data](ext_articles/709b57f1.ext.json)
-
----
-
-### World record of Kelmin
-
-*2024-09-26 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201576) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Kumindu Mendis breaks world record: First batsman to score 8 runs in opening match vs New Zealand in Galle. Sri Lanka scores 306 runs for 3 wickets in first innings. Mendis achieves historic milestone in ongoing Test match.
-
-🟩
-
-Kumindu Mendis was able to join the world's first batsman with the first batsman of eight runs in the opening competition.
-
-It is currently in Galle in Galle against New Zealand.
-
-Sri Lanka scored 306 runs for the loss of 3 wickets.
-
-Sri Lanka scored 306 runs for the loss of 3 wickets in their first innings.
-
-◼️
-
-[Data](articles/be833c77.json)
-
-[Extended Data](ext_articles/be833c77.ext.json)
-
----
-
-### Politicians can't school festivals - Prime Minister
-
-*2024-09-26 18:24:51* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලකයින්-පාසල්-උත්සව-වලට-බෑ---අගමැතිනි/11-412169) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Prime Minister Dr. Harini Amarasuriya discusses education policies, emphasizing student welfare, unity, and transparency. She addresses exam delays, teacher shortages, and mental health concerns in schools. The government aims to improve education infrastructure and address economic challenges affecting future generations.
-
-🟩
-
-Prime Minister Dr. Harini Amarasuriya said that the proceedings of the students should be fully fully fulfilled and to pay attention to the unity of the issues of the scholarship questions.
-
-The Prime Minister made this observation at the discussion with officers in all aspects of the Ministry of Education today (2024.04.200).
-
-Development of school education is a policy of the present government. We have decided to allocate an increased provision for education under our government. These institutes should take place to eliminate the unbelief in the public regarding the Ministry of Education and the Department of Examinations.
-
-...
-
-[Data](articles/7095e50d.json)
-
-[Extended Data](ext_articles/7095e50d.ext.json)
 
 ---

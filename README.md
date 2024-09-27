@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 05:44:34**
+As of **2024-09-27 06:07:58**
 
 ## Newspaper Stats
 
-*Scraped **46,508** Articles*
+*Scraped **46,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 457
 colombotelegraphcom | 462
 islandlk | 2,724
 economynextcom | 2,824
-dailyftlk | 3,105
+dailyftlk | 3,110
 adalk | 4,292
 dailymirrorlk | 4,733
 adaderanalk | 5,466
-tamilmirrorlk | 6,233
+tamilmirrorlk | 6,234
 virakesarilk | 7,434
 adaderanasinhalalk | 8,028
 
@@ -26,11 +26,113 @@ adaderanasinhalalk | 8,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,499 (100.0%) of 46,508 articles have been extended.
+46,503 (100.0%) of 46,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### It is possible to rain today
+
+*2024-09-27 05:45:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழை-பெய்யும்-சாத்தியம்/175-344564) · `ta`
+
+Rainfall warning: Heavy showers expected in Northern, Central, Southern provinces. Western and Sabaragamuwa provinces may also experience rain. Over 75mm predicted in many areas.
+
+🟩
+
+Accordingly, more than 75 mm of rainfall in the Northern, North Central, Southern and Central Provinces is likely.
+
+The Department of Meteorology has forecast rainfall in the Western and Sabaragamuwa Provinces and parts of Galle and Matara districts.. (A)
+
+◼️
+
+[Data](articles/fa4f648d.json)
+
+[Extended Data](ext_articles/fa4f648d.ext.json)
+
+---
+
+### Has the new Government already violated its own principles?
+
+*2024-09-27 05:33:04* · [`dailyftlk`](https://www.ft.lk/columns/Has-the-new-Government-already-violated-its-own-principles/4-767227) · `en`
+
+This is the first time NPP has got the opportunity and people are watching critically to see whether it is able to deliver on promises
+
+The new NPP Government came to power in a momentous change of the political landscape of Sri Lanka. For the first time a simple village folk has become the President. It is great to see the change of guard. We should genuinely wish Anura Kumara Dissanayaka the strength and focus to deliver on promises.
+
+AKD appears to be highly focused and his rise to power came in the midst of rampant corruption and abuse of power by most politicians of the previous governments, and quite rightly, the NPP highlighted those abominations and depravities, pledging to eradicate them, bring the perpetrators to justice, and steer the country towards a just and fair society. The people were so distressed and despondent that they clearly wanted a system change. NPP offered that. People accepted it. It is now up to the NPP to deliver.
+
+...
+
+[Data](articles/fe7ed5cf.json)
+
+[Extended Data](ext_articles/fe7ed5cf.ext.json)
+
+---
+
+### A call to Prime Minister Dr. Harini Amarasuriya: Lighten school bags, reform education
+
+*2024-09-27 05:29:55* · [`dailyftlk`](https://www.ft.lk/columns/A-call-to-Prime-Minister-Dr-Harini-Amarasuriya-Lighten-school-bags-reform-education/4-767226) · `en`
+
+Now we are witnessing some changes in the socio-economic context in Sri Lanka. There is a need for better integration of all sectors with proper alignment focusing on the advancement of our nation. In this context, the education sector is really important and there should be a serious discussion between all stakeholders in primary, secondary and tertiary education in Sri Lanka to decide the future landscape of Sri Lankan education.
+
+In Sri Lanka today, it’s not uncommon to see a student weighing 24 kilos carrying a schoolbag that weighs 10 kilos! I consider this as one measurement to indicate the disaster of our education system. Most of the children coming under the category of grade six to 10 have around eight subjects per day questioning whether Sri Lankan educationists have done the justice for our next generation (which we need to discuss in a separate article).
+
+...
+
+[Data](articles/c0cacf5a.json)
+
+[Extended Data](ext_articles/c0cacf5a.ext.json)
+
+---
+
+### 2024: The change and the choice
+
+*2024-09-27 05:24:50* · [`dailyftlk`](https://www.ft.lk/columns/2024-The-change-and-the-choice/4-767224) · `en`
+
+“They tried to bury us. They did not know we were seeds.” — Anura Kumara Dissanayake
+
+The 2024 Sri Lankan Presidential election results have displayed a significant change in the decades-long distribution of political party alignment among the Sri Lankan people. This transformation showcases the desperation of Sri Lankans to choose a leader free from crimes and corruption. Anura Kumara Dissanayake, a veteran politician and the leader of the National People’s Power (NPP), has won the election, dominating the majority of votes in 14 out of 22 districts.
+
+This election marked a historic moment, electing the first leftist leader as President from a socialist and social democratic political alliance. It demonstrates that most Sri Lankans are shifting away from traditional party politics to focus on a leader who can truly relate to and understand the hearts and minds of ordinary people.
+
+...
+
+[Data](articles/a91c210f.json)
+
+[Extended Data](ext_articles/a91c210f.ext.json)
+
+---
+
+### FAQ: Understanding the myths and challenges around debt restructuring
+
+*2024-09-27 05:21:43* · [`dailyftlk`](https://www.ft.lk/opinion/FAQ-Understanding-the-myths-and-challenges-around-debt-restructuring/14-767223) · `en`
+
+Clearly, the IMF program is based on a flawed DSA with a problematic end-goal of Sri Lanka accessing commercial markets by 2027
+
+Sri Lanka has just elected a new President amidst a deepening economic crisis. The people have provided a clear mandate for change and relief from the economic distress pervading their lives.
+
+President Anura Kumara Dissanayake has taken over at a crucial time. Sri Lanka defaulted on its external debt for the first time in its history in 2022, and is now in the middle of an IMF program, and a debt restructuring process that are predicated on austerity and repayment of the larger share of past debt to the creditors. How should Sri Lanka approach debt restructuring and the IMF’s Debt Sustainability Analysis (DSA) with parameters for reduced public spending and minimal debt relief? This FAQ zooms into the ongoing IMF program, debt restructuring process and options before Sri Lanka.
+
+...
+
+[Data](articles/efe5b825.json)
+
+---
+
+### Ambassador Qi Zhenhong highlights friendship and development at China’s 75th anniversary celebrations
+
+*2024-09-27 05:17:20* · [`dailyftlk`](https://www.ft.lk/opinion/Ambassador-Qi-Zhenhong-highlights-friendship-and-development-at-China-s-75th-anniversary-celebrations/14-767222) · `en`
+
+Following are remarks by Ambassador Qi Zhenhong at the reception celebrating the 75th anniversary of the founding of the People’s Republic of China, at Shangri-La Hotel Colombo, on 25 September
+
+Thank you all for joining us tonight to celebrate the 75th anniversary of the founding of the People’s Republic of China. On behalf of the Embassy, I would like to give a warm welcome to all our guests and extend my heartfelt gratitude to friends who have long supported the development of China and China-Sri Lanka relations. I would also like to send sincere holiday greetings to fellow Chinese both at home and in Sri Lanka.
+
+...
+
+[Data](articles/ba17b120.json)
+
+---
 
 ### In celebration of China’s 75th National Day: Towards greater progress of China-Sri Lanka friendship
 
@@ -2185,163 +2287,5 @@ Sri Lanka’s Ministry of Foreign Affairs said earlier that its mission in Tel A
 [Data](articles/1d3246be.json)
 
 [Extended Data](ext_articles/1d3246be.ext.json)
-
----
-
-### Theft of passengers at the airport;Arrest of an employee
-
-*2024-09-26 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/194844) · `ta`
-
-Airport theft: Employee caught stealing valuables from travelers. Security footage confirms allegations. Investigations ongoing.
-
-🟩
-
-Katunayake airport police have arrested a airport employee for allegedly stealing valuable items from passengers traveling to Katunayake airport.
-
-A SriLankan Airlines employee has been arrested in the Katunayake airport's travel package savings unit.
-
-The suspect has been recorded on a security camera at the Katunayake airport, police said.
-
-SriLankan Airlines and Katunayake Airport have received several complaints for a long time that the value of passengers visiting Katunayake airport is being stolen.
-
-Further investigations are being carried out by the Katunayake airport police.
-
-◼️
-
-[Data](articles/d6188e1a.json)
-
-[Extended Data](ext_articles/d6188e1a.ext.json)
-
----
-
-### Airport worker arrested for stealing passengers
-
-*2024-09-26 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201568) · `si`
-
-Airport worker arrested for theft: Opened passenger bags at Katunayake airport. SriLankan Airlines reported missing items. Police investigation ongoing.
-
-🟩
-
-Airports worker has been arrested by a airport worker who opened the passenger baggage at the Katunayake airport.
-
-SriLankan Airlines worked in the baggage storage yard.
-
-From Malaysia to the Katunayake Airport on Tuesday, the airport in the airport in a plane to Katunayake on the 23rd and opened the baggage in the safe camera system.
-
-The arrest was made after the officers were delivered to the Katunayake Airport Police who inspected the cameras.
-
-SriLankan Airlines also received the disappearance of goods in the passenger baggage in this way, and the Katunayake airport had been arrested as they were inquiry.
-
-Katunayake Airport Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f3d9b8e3.json)
-
-[Extended Data](ext_articles/f3d9b8e3.ext.json)
-
----
-
-### President instructs to run enough fuel reserves
-
-*2024-09-26 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201567) · `si`
-
-President orders sufficient fuel reserves, instructs efficient procurement, and emphasizes solar panel utilization for 800 Pirivenas. Committee to approve foreign-assisted projects within three months. Rural development projects prioritized.
-
-🟩
-
-President of the Ministry of Power and Energy has informed the President Anura Kumara Dissanayake by the officials of the Ministry of Power and Energy that a sufficient fuel pool is in the country.
-
-It was at a meeting held at the Presidential Secretariat today (26).
-
-The President has also informed the importance of maintaining sufficient fuel reserves to obtain fuel without interruption.
-
-The President has instructed the officials to act efficiently to obtain sufficient fuel in relation to the year.
-
-The President also instructed the officials to formulate the solar panels received on Indian aid to 800 Pirivena Pirivenas, a road map created by the Ministry of Power and Energy.
-
-The Ministry of Power and Energy has also revealed the need to expedite projects implemented under the Asian Development Bank and foreign debt.
-
-Accordingly, a committee is expected to appoint a committee to grant approval within three months to the projects implemented on foreign assistance.
-
-...
-
-[Data](articles/c6de74d8.json)
-
-[Extended Data](ext_articles/c6de74d8.ext.json)
-
----
-
-### Call returns to call gifts
-
-*2024-09-26 15:43:17* · [`adalk`](https://www.ada.lk/breaking_news/තෑගි-මුදල්-දෙනව-කියල-කෝල්-ආවට-විස්තර-දෙන්ඩ-එපා/11-412167) · `si`
-
-Kandy police investigate bank fraud gang targeting elderly tech-savvy individuals. Organized crime uses stolen phone numbers and OTPs to transfer funds between accounts. Heads of the group operate internationally.
-
-🟩
-
-Kandy headquarters police have commenced investigations into an organized gang who deceives the accounts of government and private banks to deceive their accounts.
-
-Investigations have already begun on eight such complaints received by the Kandy headquarters police.
-
-Police say that the organized gang is less common in computer technology that exceeded 45-50 years of age.
-
-This organized gang found that they find their mobile phone number and obtain their mobile phone number and obtaining their mobile phone number and get the account number and the account number and the account number can only be used once.Police say the secret number (OTP) will be informed to give the organized gang.
-
-Similarly, the money in their account is credited to another account number as soon as the temporary confidential number. The police are often greedy to the money. Police say that the mobile investigations have been identified as the heads of the organized gang have been abroad.. (Ij)
-
-◼️
-
-[Data](articles/8f53bbce.json)
-
-[Extended Data](ext_articles/8f53bbce.ext.json)
-
----
-
-### “There is enough fuel reserves”
-
-*2024-09-26 15:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதுமான-எரிபொருள்-கையிருப்பு-உள்ளது/175-344530) · `ta`
-
-Sufficient fuel reserves confirmed by Ministry of Power. President emphasizes securing next year's supply and implementing measures to ensure fuel availability. Solar power initiatives and foreign aid projects discussed. Rural development prioritized to strengthen economy.
-
-🟩
-
-Officials of the Ministry of Power and Power and Power have informed President Anura Kumara Dissanayake that there is sufficient fuel reserves for consumption in this country.
-
-The President urged the authorities to focus on getting the fuel required for the next year, emphasizing the need to carry out all measures to provide fuel to the people.. He also pointed out that he is fully cooperating with these activities as the President.
-
-President Anura Kumara Dissanayake made this statement during a discussion held at the Presidential Office on Thursday (26) with officials of the Ministry of Power and Power and Energy.
-
-The President, who had issued a directive to the authorities to arrange solar power penals available to the Ministry of Electricity under the Indian Assistant Scheme, also highlighted the importance of preparing a plan to provide solar power penals.
-
-...
-
-[Data](articles/86853548.json)
-
-[Extended Data](ext_articles/86853548.ext.json)
-
----
-
-### Sri Lanka Airlines
-
-*2024-09-26 15:30:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்காசிய-முன்னணி-விமான-சேவை-ஸ்ரீலங்கன்-ஏர்லைன்ஸ்/175-344529) · `ta`
-
-SriLankan Airlines wins South Asian Tourism Service Award. Annual ceremony held in Kathmandu, Nepal. Recognized for excellence in regional aviation. Operates 130 weekly flights to India, Pakistan, Bangladesh, and Nepal.
-
-🟩
-
-"SriLankan Airlines" is recognized as the leading airline in South Asia during the South Asian Tourism Service Awards.
-
-The annual awards ceremony is the most respected award ceremony in the South Asian region..  இம்முறை  நேபாளம் , காத்மாண்டுவில்  வெள்ளிக்கிழமை (20 ) அன்று நடைபெற்றது.
-
-The awards ceremony was based on the votes cast by professionals and consumers.
-
-SriLankan Airlines will travel 130 times a week to international airports in India, Pakistan, Bangladesh and Nepal in the South Asian region.
-
-◼️
-
-[Data](articles/a8217970.json)
-
-[Extended Data](ext_articles/a8217970.ext.json)
 
 ---

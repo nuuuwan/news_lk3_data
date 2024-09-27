@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 13:22:47**
+As of **2024-09-27 13:38:59**
 
 ## Newspaper Stats
 
-*Scraped **46,578** Articles*
+*Scraped **46,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,830
 dailyftlk | 3,110
-adalk | 4,296
+adalk | 4,297
 dailymirrorlk | 4,733
 adaderanalk | 5,477
 tamilmirrorlk | 6,246
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,044
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,578 (100.0%) of 46,578 articles have been extended.
+46,579 (100.0%) of 46,579 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -508,8 +508,6 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
 
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
-
 ◼️
 
 [Data](articles/c4c75fc3.json)
@@ -545,6 +543,32 @@ The letter said that I would like to express my heartfelt gratitude for the 13 -
 [Data](articles/96a4cf13.json)
 
 [Extended Data](ext_articles/96a4cf13.ext.json)
+
+---
+
+### Bideen greets the president
+
+*2024-09-27 10:32:53* · [`adalk`](https://www.ada.lk/breaking_news/බයිඩන්-ජනපතිට-සුබ-පතයි/11-412181) · `si`
+
+Here's a 200-character summary:
+
+
+
+Joe Biden congratulates Anura Dissanayake on his presidency. He expresses hope for peace, security, and prosperity in the Indo-Pacific region through cooperation between the US and Sri Lanka.
+
+🟩
+
+US President Joe Biden has been appointed as the new President of Sri Lanka.
+
+He leaves a message on the account and hopes to deal with the new President of Sri Lanka for peace, security and prosperity in the Indo-Pacific region.
+
+Sri Lankaans have selected Anura Dissanayake from a fair and peaceful election as the president of the country.
+
+◼️
+
+[Data](articles/3b890ae9.json)
+
+[Extended Data](ext_articles/3b890ae9.ext.json)
 
 ---
 
@@ -2191,27 +2215,5 @@ Visa problem was a problem with great tribulation. Now we have solved that quest
 [Data](articles/f679e0ae.json)
 
 [Extended Data](ext_articles/f679e0ae.ext.json)
-
----
-
-### Sri Lanka easy online tourist visa from midnight, VFS Global distress ends: Minister
-
-*2024-09-26 21:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-easy-online-tourist-visa-from-midnight-vfs-global-distress-ends-minister-181177/) · `en`
-
-ECONOMYNEXT  – Sri Lanka is restoring the easy online visa system for tourists from midnight and the distress suffered by foreign visitors as a result of giving ETA process to VFS Global has ended, Foreign Minister Viitha Herath said.
-
-Herath was appointed to the post on Wednesday. Sri Lanka’s Supreme Court ordered that the old easy visa system be restored several weeks ago, but the Department of Immigration under then Minister Tiran Alles ignored the order.
-
-“By giving the visa facility to VFS company, distress was caused to the people (pee-dar-wer-ter path-wuna), especially foreigners coming to Sri Lanka had difficulties in getting a visa easily,” Minister Herath said.
-
-“Our Ministry intervened. In the past 24 hours were able to set up old visa issuing system. From midnight tonight, the system of getting visas easily will be available again.
-
-“Now foreigners can get visas easily. This is a great victory. We have acted quickly on the court order.”
-
-...
-
-[Data](articles/624c2b17.json)
-
-[Extended Data](ext_articles/624c2b17.ext.json)
 
 ---

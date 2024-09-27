@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 12:38:29**
+As of **2024-09-27 12:56:54**
 
 ## Newspaper Stats
 
-*Scraped **46,573** Articles*
+*Scraped **46,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,110
 adalk | 4,296
 dailymirrorlk | 4,733
 adaderanalk | 5,477
-tamilmirrorlk | 6,243
+tamilmirrorlk | 6,245
 virakesarilk | 7,441
 adaderanasinhalalk | 8,042
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,042
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,573 (100.0%) of 46,573 articles have been extended.
+46,575 (100.0%) of 46,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Action change in IMC
+
+*2024-09-27 12:31:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சவில்-அதிரடி-மாற்றம்/175-344577) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sajith Premadasa, leader of United People's Power, announces leadership changes. Imtiaz Pakir Macker appointed as Chairman of United People's Power for 2024.
+
+🟩
+
+Sajith Premadasa, the leader of the United People's Power and the United People's Power, took action today (27) to bring about changes in the main positions of the United People's Power and the United People's Alliance.
+
+Accordingly, former Parliamentarian Imtiaz Pakir Macker as the Chairman of the United People's Power for 2024
+
+◼️
+
+[Data](articles/2ea9cf48.json)
+
+[Extended Data](ext_articles/2ea9cf48.ext.json)
+
+---
 
 ### Imthiaz Bakeer Markar appointed SJB Chairman
 
@@ -50,7 +74,7 @@ Former SJB parliamentarian Imthiaz Bakeer Markar has been appointed as the new C
 
 *2024-09-27 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102298/president-orders-reopening-of-two-roads-near-presidents-house) · `en`
 
-President Anura Kumara Dissanayake has ordered the police to reopen Sir Baron Jayathilake Mawatha and Janadhipathi Mawatha, located near the President’s House, to the public starting today, according to a police spokesman.
+President Anura Kumara Dissanayake has ordered the police to reopen Sir Baron Jayathilake Mawatha and Janadhipathi Mawatha, located near the President’s House, to the public starting today, according to Police Media Spokesman DIG Nihal Thalduwa.
 
 ◼️
 
@@ -252,6 +276,26 @@ Accordingly, the seven -member High Court, headed by Chief Justice Jayantha Jaya
 
 ---
 
+### Anti -lodging charge sheet
+
+*2024-09-27 11:11:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்தவுக்கு-எதிராக-குற்றப்பத்திரிகை/175-344576) · `ta`
+
+Former intelligence chief Nilanda Jayawardena charged over Easter Sunday attacks failure to repay 75 million rupees. Ordered to appear in court on October 7.
+
+🟩
+
+The Attorney General today (27) informed the High Court that the chargesheet has been filed against the former head of the State Intelligence Unit, Nilanda Jayawardena, who failed to pay 75 million rupees in connection with the Easter Sunday attack.
+
+Accordingly, the seven -member High Court, headed by Chief Justice Jayantha Jayasuriya, ordered the Nilanda Jayawardene to appear in court on October 7 at 9.30 am.. Remble
+
+◼️
+
+[Data](articles/f51da594.json)
+
+[Extended Data](ext_articles/f51da594.ext.json)
+
+---
+
 ### Lion A. Prabhakaran is the All Ceylon Peace Justice
 
 *2024-09-27 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194893) · `ta`
@@ -399,8 +443,6 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
-
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 
@@ -2185,51 +2227,5 @@ However, these development collaborations, however, renewed the contributions of
 [Data](articles/ef968025.json)
 
 [Extended Data](ext_articles/ef968025.ext.json)
-
----
-
-### Sri Lanka begins forensic audit into VFS Global deal irregularities: Minister
-
-*2024-09-26 21:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-begins-forensic-audit-into-vfs-global-deal-irregularities-minister-181174/) · `en`
-
-ECONOMYNEXT – Sri Lanka has initiated an immediate forensic audit into the irregularities associated with the VFS Global deal, Foreign Minister Vijitha Herath who is also Public Security Minister in charge of the Department of Immigration said.
-
-“Any discrepancies found will be subject to legal action in the future,” Minister Herath said.
-
-“As a result, those in business and investment sectors will now have access to the same visa facilities.”
-
-Earlier in the week Supreme Court ordered the arrest of the Controller General of Immigration I H Illukpitiya over for failing to restore the earlier Electronic Travel Authoritzation system which was acclaimed to be one of the easiest systems to get a visa in the world.
-
-The complex VFS Global system, which had high fees and a hidden which was not disclosed up front, also put off many older visitors who could cope with it.
-
-...
-
-[Data](articles/dab4e619.json)
-
-[Extended Data](ext_articles/dab4e619.ext.json)
-
----
-
-### Resigned from the leader of the petroleum corporation
-
-*2024-09-26 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194874) · `ta`
-
-Saliya Wickramasuriya resigns as president of Petroleum Law Corporation and chairman of two subsidiaries. He cites need for independence in appointing a new minister. Resignation letter sent to Ministry of Energy Secretary.
-
-🟩
-
-Saliya Wickramasuriya, president of the Petroleum Law Corporation, has resigned from his posts.
-
-Accordingly, he has resigned from the posts of the chairman of three companies - Petroleum Legal Corporation, Ceylon Petroleum Storage Terminals Limited and Trinco Petroleum Terminal.
-
-The letter stated that he would resign from his posts to give independence to appoint a new minister.
-
-It is noteworthy that he has sent his resignation letter to the Secretary of the Ministry of Energy.
-
-◼️
-
-[Data](articles/b62739d7.json)
-
-[Extended Data](ext_articles/b62739d7.ext.json)
 
 ---

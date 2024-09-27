@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 17:59:22**
+As of **2024-09-27 18:19:34**
 
 ## Newspaper Stats
 
-*Scraped **46,607** Articles*
+*Scraped **46,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,830
 dailyftlk | 3,110
-adalk | 4,298
+adalk | 4,299
 dailymirrorlk | 4,733
 adaderanalk | 5,482
 tamilmirrorlk | 6,250
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,607 (100.0%) of 46,607 articles have been extended.
+46,608 (100.0%) of 46,608 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -485,6 +485,34 @@ Consultant Community Physician at the National Dengue Control Unit, Dr. Anoja Dh
 [Data](articles/bd6cd532.json)
 
 [Extended Data](ext_articles/bd6cd532.ext.json)
+
+---
+
+### Bradman's equal to Bradman in Asia's first
+
+*2024-09-27 14:18:14* · [`adalk`](https://www.ada.lk/sports/ආසියාවේ-පළමුවැනියා-වෙමින්-බ්‍රැඩ්මන්ට-සම-වූ-කමිඳු/9-412183) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Don Bradman equals Bradman in Asia's first match. Sri Lanka's batsman achieved his 5th Test century against New Zealand in Galle. This feat occurred in the first innings of the second Test. Bradman also scored 13 centuries in 13 innings.
+
+🟩
+
+Sri Lanka's batsman was the batsman who had obtained his fifth teeth in Test cricket.
+
+It was in the first innings of the second Test in Galle with New Zealand. Accordingly, the fifth test was reached in 13 Test Irum.
+
+This report was set up for Favad Alam Asia before Komunny. Don Bradman, Australia, was collected in 13 tongues in 13 innings.
+
+Everton Vox (West Indies 10), N. The players go to Harvey (Australia innings 12).
+
+◼️
+
+[Data](articles/83cc37ba.json)
+
+[Extended Data](ext_articles/83cc37ba.ext.json)
 
 ---
 
@@ -2245,29 +2273,5 @@ The international online press conference and the press events in Buenos Aires, 
 [Data](articles/e2e6f3d8.json)
 
 [Extended Data](ext_articles/e2e6f3d8.ext.json)
-
----
-
-### President assures sufficient fuel reserves
-
-*2024-09-27 04:50:15* · [`dailyftlk`](https://www.ft.lk/news/President-assures-sufficient-fuel-reserves/56-767212) · `en`
-
-Appoints committee to oversee and approve foreign-aid projects within three months to fast-track implementation
-
-Expresses faith in State officials, insisting critical role in achieving overall objectives
-
-President Anura Kumara Dissanayake yesterday assured that the country has sufficient fuel reserves to meet its consumption needs, whilst urging officials from the Power and Energy Ministry to maintain these stocks and efficiently plan procurement for next year.
-
-He assured full Presidential support in facilitating these efforts to ensure uninterrupted fuel availability for the public.
-
-In a meeting with the Ministry officials, Dissanayake also stressed the importance of a clear roadmap for distributing solar panels to 800 Piriven, an initiative supported by Indian aid.
-
-He also directed the Ministry to swiftly devise a comprehensive plan to ensure the smooth implementation of this project.
-
-...
-
-[Data](articles/628a67af.json)
-
-[Extended Data](ext_articles/628a67af.ext.json)
 
 ---

@@ -1,36 +1,86 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 18:59:04**
+As of **2024-09-27 19:10:57**
 
 ## Newspaper Stats
 
-*Scraped **46,612** Articles*
+*Scraped **46,616** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 387
-bbccomsinhala | 460
+bbccomsinhala | 461
 colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,830
 dailyftlk | 3,110
-adalk | 4,300
+adalk | 4,301
 dailymirrorlk | 4,733
 adaderanalk | 5,482
-tamilmirrorlk | 6,250
+tamilmirrorlk | 6,251
 virakesarilk | 7,452
-adaderanasinhalalk | 8,052
+adaderanasinhalalk | 8,053
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,611 (100.0%) of 46,612 articles have been extended.
+46,612 (100.0%) of 46,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### භූ විද්‍යා හා පතල් කාර්යාංශයේ අධ්‍යක්ෂ ජනරාල්වරයාට එරෙහිව අපහාස නඩුවක්
+
+*2024-09-27 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201611) · `si`
+
+භූ විද්‍යා හා පතල් කාර්යාංශයේ අධ්‍යක්ෂ ජනරාල්වරයාට එරෙහිව අධිකරණයට අපහාස කිරීම යටතේ නඩුවක් ගොනු කිරීමට අපේක්ෂා කරන බව පරිසර යුක්ති කේන්ද්‍රය ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+
+මාදම්පේ ප්‍රදේශයේ සිදුවන නීති විරෝධී වැලි ජාවාරමට අදාළව ශ්‍රේෂ්ඨාධිකරණය විසින් නිකුත් කළ නියෝගයක් උල්ලංඝනය කිරීම සම්බන්ධයෙන් මෙම නඩුව ගොනු කරන බව ඔවුන් අධිකරණයට දැනුම් දී ඇත.
+
+මාදම්පේ ප්‍රදේශයේ අක්කර දෙසීයක පමණ  භූමි භාගයක සිදුවන නීති විරෝධි සිලිකා ජාවාරම තුළින් ඇතිවන පාරිසරික විනාශයන් වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා පරිසර යුක්ති කේන්ද්‍රය ඇතුළු පිරිසක් විසින් මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කර තිබුණි.
+
+එම පෙත්සම ඉකුත් ජූලි මස 15 වැනිදා කැඳවූ අවස්ථාවේදී  අදාළ කැණීම් සිදුවන ප්‍රදේශයේ දැනට පවතින තත්ත්වය ඒ ආකාරයෙන්ම පවත්වාගෙන යාමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබුණි.
+
+...
+
+[Data](articles/9dd261df.json)
+
+---
+
+### மின்சார கட்டணத்தை குறைக்க திட்டம்
+
+*2024-09-27 18:55:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டணத்தை-குறைக்க-திட்டம்/175-344586) · `ta`
+
+மின்சாரக் கட்டணத்தை குறைக்கும் திட்டத்தில் பகுப்பாய்வு ஒன்றை ஆரம்பிக்கவுள்ளதாக இலங்கை மின்சார சபை தெரிவித்துள்ளது.
+
+பகுப்பாய்வின் அறிக்கை இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பிக்கப்படும் என இலங்கை மின்சார சபையின் தலைவர் கலாநிதி திலக் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+தற்போது, பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் உத்தியோகபூர்வ பதவிக்காலம் நிறைவடைந்துள்ள நிலையில், புதிய பாராளுமன்றம் உருவாக்கப்பட்ட பின்னரே புதிய உறுப்பினர்கள் நியமிக்கப்படுவார்கள்.
+
+மின்சாரக் கட்டணப் பகுப்பாய்வை மாதம் நான்கு தடவைகள் நடத்த வேண்டிய நிலையில், அது முறையாகச் செய்யப்படவில்லை என கலாநிதி சியம்பலாபிட்டிய சுட்டிக்காட்டினார்.
+
+இந்த சவாலான காலக்கட்டத்தில் பொதுமக்களுக்கு அதிகபட்ச நிவாரணம் வழங்குவதற்காக மின்சார கட்டணத்தை குறைப்பதை அரசாங்கம் நோக்கமாகக் கொண்டுள்ளது என்று அவர் மேலும் வலியுறுத்தினார். R
+
+◼️
+
+[Data](articles/e4daf8c8.json)
+
+---
+
+### හිටපු මැති ඇමතින්ට දී තිබූ ආරක්ෂාව ඉවත්කරයි
+
+*2024-09-27 18:06:43* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මැති-ඇමතින්ට-දී-තිබූ-ආරක්ෂාව-ඉවත්කරයි/11-412185) · `si`
+
+පාර්ලිමේන්තුව විසුරුවා ඇති හෙයින් පාර්ලිමේන්තුව නියෝජනය කළ මැති ඇමතිවරුන්ට ලබා දී ආරක්ෂක නිලධාරීන් මෙන්ම   හිටපු ආණ්ඩුකාරවරුන්ට, පළාත් සභා නියෝජනය කළ පළාත් අමාත්‍යවරුන්ට හා මන්ත්‍රවරුන්ට ලබාදී තිබූ ප්‍රභූ ආරක්ෂාව ඉවත් කිරිමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/57df5f19.json)
+
+---
 
 ### Money fraud for a businessman claiming fake coins as ancient coins;Arresting
 
@@ -853,6 +903,28 @@ Meanwhile, former SJB MP Kabir Hashim has been appointed as the General Secretar
 [Data](articles/956c5b2f.json)
 
 [Extended Data](ext_articles/956c5b2f.ext.json)
+
+---
+
+### කොස්තාපල් නිලයේ සිට වැඩබලන පොලිස්පති දක්වා පැමිණි ප්‍රියන්ත වීරසූරිය කවුද?
+
+*2024-09-27 12:04:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg56z8pm5zpo) · `si`
+
+කොස්තාපල් නිලයේ සිට වැඩබලන පොලිස්පති දක්වා පැමිණි ප්‍රියන්ත වීරසූරිය කවුද?
+
+මාස 03 කට අධික කාලයක් හිස්ව තිබූ පොලිස්පති ධූරය සඳහා වැඩබලන පොලිස්පතිවරයා ලෙස ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත වීරසූරිය පත්කර තිබේ.
+
+ඉකුත් ජුලි 24 වන දා පොලිස්පති දේශබන්දු තෙන්නකෝන්ට එම ධුරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+
+දේශබන්දු තෙන්නකෝන් පොලිස්පතිවරයා වශයෙන් පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් ඇතුළු පාර්ශවකරුවන් විසින් ඉදිරිපත් කරන ලද මූලික අයිතිවාසිකම් පෙත්සම් 9 ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+1969 වසරේ පෙබරවාරි මස 09 වන දා දොඩංගොඩ ප්‍රදේශයේදී උපත ලැබූ වීරසූරිය ලියන ආරච්චිගේ සමන්  ප්‍රියන්ත පොලිස් දෙපාර්තමේන්තුවට එක්වූයේ 1988 වසරේදීයි.
+
+කොස්තාපල්වරයෙකු ලෙස පොලිස් සේවයට එක්වූ  ඔහු 1988 වසරේ සිට 1992 දක්වා වූ කාල සීමාවේදී පොලිස් විශේෂ කාර්ය බළකායේ සහ රථවාහන සහ අපරාධ කොට්ඨාසයන්හි සේවය කළේය.
+
+...
+
+[Data](articles/edb5d550.json)
 
 ---
 
@@ -2217,81 +2289,5 @@ As is well known, Sirimavo and Chandrika were the wife and daughter of former Pr
 [Data](articles/35ab79bb.json)
 
 [Extended Data](ext_articles/35ab79bb.ext.json)
-
----
-
-### Partnering to unleash SL’s maritime industry and blue economy into multibillion-dollar income generation
-
-*2024-09-27 05:05:39* · [`dailyftlk`](https://www.ft.lk/columns/Partnering-to-unleash-SL-s-maritime-industry-and-blue-economy-into-multibillion-dollar-income-generation/4-767219) · `en`
-
-Sri Lanka has immense potential in nautical tourism, but there are regulatory barriers that limit its growth
-
-Chamber of Marine Industries of Sri Lanka extends best wishes to new President Anura Kumara Dissanayake
-
-On behalf of the Chamber of Marine Industries of Sri Lanka (CMISL), I, as Chairman, extend our heartfelt congratulations to Anura Kumara Dissanayake on your election as the 9th Executive President of Sri Lanka. Your victory reflects the trust and confidence that the people of Sri Lanka have placed in your leadership. We firmly believe that under your guidance, Sri Lanka will see sustained economic growth and transform into a key player in the global maritime industry. We are committed to partnering with your administration on this journey to unlock the vast potential of the country’s marine sector.
-
-...
-
-[Data](articles/73be0a12.json)
-
-[Extended Data](ext_articles/73be0a12.ext.json)
-
----
-
-### Navigating new EU sustainability and labelling requirements
-
-*2024-09-27 05:02:00* · [`dailyftlk`](https://www.ft.lk/opinion/Navigating-new-EU-sustainability-and-labelling-requirements/14-767218) · `en`
-
-The European Union (EU), with its vast market of over 448 million consumers, has always been a key destination for Sri Lankan apparel exports. Known for its high-quality and ethically produced garments, Sri Lanka has secured a strong foothold in this competitive space. However, new sustainability and labelling requirements introduced by the EU present both challenges and opportunities for Sri Lankan apparel manufacturers. This feature explores the evolving regulatory landscape, the hurdles Sri Lankan companies face, and the benefits of complying with these changes.
-
-The EU has been a leader in promoting sustainability, transparency, and traceability in global supply chains, particularly in the garment industry, where environmental and social concerns are prevalent. Regulations such as the EU Textile Regulation, the Digital Product Passport (DPP) initiative, and the German Supply Chain Due Diligence Act aim to ensure that imported goods meet stringent environmental and ethical standards.
-
-...
-
-[Data](articles/aee1f23d.json)
-
-[Extended Data](ext_articles/aee1f23d.ext.json)
-
----
-
-### Ironwood Capital Partners partially exits its stake in Colombo Coffee Company to CAL-led consortium
-
-*2024-09-27 04:58:36* · [`dailyftlk`](https://www.ft.lk/business/Ironwood-Capital-Partners-partially-exits-its-stake-in-Colombo-Coffee-Company-to-CAL-led-consortium/34-767217) · `en`
-
-From left: Rashaad Hussain, Nath Kottegoda, Imran Akbarally, CAL Group CEO Kanishke Manakkara, Ironwood Capital Partners Managing  Partner Hiran Embuldeniya, Aravinda de Silva and Ajith Dias
-
-Private equity specialists Ironwood Capital Partners, announced yesterday a partial exit from its investment in the Colombo Coffee Company group which also includes Barista Coffee
-
-A consortium of investors brought together by Capital Alliance Holdings Ltd. (CAL) has acquired a 20% stake in the group.
-
-Colombo Coffee Company, Sri Lanka’s leading Coffee solutions provider, serves 4 out of every 5large hotels in the country. It represents renowned international coffee brands such as Lavazza,
-
-LaCimbali, Gaggia, and also markets its locally-developed and sourced coffee brand, Toscana
-
-Ceylon. Barista Coffee Lanka, part of the same group, is the largest coffee chain in the country with over 40 retail outlets.
-
-...
-
-[Data](articles/da8c3678.json)
-
-[Extended Data](ext_articles/da8c3678.ext.json)
-
----
-
-### ECCSL congratulates President AKD
-
-*2024-09-27 04:57:23* · [`dailyftlk`](https://www.ft.lk/business/ECCSL-congratulates-President-AKD/34-767216) · `en`
-
-The European Chamber of Commerce in Sri Lanka (ECCSL) has extended its congratulations to President Anura Kumara Dissanayake on his election and inauguration as President of the Democratic Socialist Republic of Sri Lanka.
-
-The recent Presidential elections held on 21 September witnessed a remarkable display of democratic engagement, with high voter turnout reflecting the people’s commitment to shaping their nation’s future. The peaceful conduct of the elections underscores the resilience of Sri Lanka’s democratic processes.
-
-Speaking to Daily FT, ECCSL President Hatem Rajabdeen clearly stated that Europe is a key trade partner for Sri Lanka dominated by Exports in the Manufacturing Sector, Agro, Trade and Service-related exports which are key to our economy and have been growth areas over the years.
-
-...
-
-[Data](articles/8bba9351.json)
-
-[Extended Data](ext_articles/8bba9351.ext.json)
 
 ---

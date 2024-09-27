@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 13:08:04**
+As of **2024-09-27 13:22:47**
 
 ## Newspaper Stats
 
-*Scraped **46,575** Articles*
+*Scraped **46,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,81 @@ dailyftlk | 3,110
 adalk | 4,296
 dailymirrorlk | 4,733
 adaderanalk | 5,477
-tamilmirrorlk | 6,245
+tamilmirrorlk | 6,246
 virakesarilk | 7,441
-adaderanasinhalalk | 8,042
+adaderanasinhalalk | 8,044
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,575 (100.0%) of 46,575 articles have been extended.
+46,578 (100.0%) of 46,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Test century records
+
+*2024-09-27 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201601) · `si`
+
+Sri Lanka's second Test match against New Zealand. Madapandy Mendis scored his 5th century on day 27.
+
+🟩
+
+Sri Lanka's second term in Test cricket, Sri Lanka and New Zealand, Sri Lanka Madapandy Mendis won the 5th century Test cricket today (27).
+
+◼️
+
+[Data](articles/ee5da73d.json)
+
+[Extended Data](ext_articles/ee5da73d.ext.json)
+
+---
+
+### Kabir Hashim to be appointed Secretary General of UPFA
+
+*2024-09-27 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201600) · `si`
+
+Kabir Hashim named UPFA Secretary General. Emmittas Bakir Makar becomes Samagiens Chairman. Sajith Premadasa appointed UPFA Secretary General. University of Gampaha District chosen as Gampaha District Chairman of University of Sri Lanka.
+
+🟩
+
+Former Parliamentarian Emmitias Bakir Makar has been appointed as the Chairman of the Samagiens.
+
+The UPFA leader Sajith Premadasa has been appointed as the Secretary-General of the UPFA.
+
+Also, the University of the Gampaha District was appointed as the Gampaha District Chairman of the University of Sri Lanka.
+
+◼️
+
+[Data](articles/9a72d6c9.json)
+
+[Extended Data](ext_articles/9a72d6c9.ext.json)
+
+---
+
+### Open the main roads that were closed
+
+*2024-09-27 12:45:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூடப்பட்டிருந்த-முக்கிய-வீதிகள்-திறக்கப்பட்டன/175-344578) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"President Anura Dissanayake orders police to reopen Mawatha and Baron Jayatilaka Mawatha streets effective today."
+
+🟩
+
+President Anura Dissanayake has ordered the police to open the streets of Mawatha and Baron Jayatilaka Mawatha from today.. Remble
+
+◼️
+
+[Data](articles/6428895f.json)
+
+[Extended Data](ext_articles/6428895f.ext.json)
+
+---
 
 ### Action change in IMC
 
@@ -61,6 +123,8 @@ Accordingly, former Parliamentarian Imtiaz Pakir Macker as the Chairman of the U
 *2024-09-27 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102299/imthiaz-bakeer-markar-appointed-sjb-chairman) · `en`
 
 Former SJB parliamentarian Imthiaz Bakeer Markar has been appointed as the new Chairman of the Samagi Jana Balawegaya (SJB).
+
+Meanwhile, former SJB MP Kabir Hashim has been appointed as the General Secretary of Samagi Jana Sandanaya, says SJB General Secretary Ranjith Madduma Bandara.
 
 ◼️
 
@@ -2149,85 +2213,5 @@ Herath was appointed to the post on Wednesday. Sri Lanka’s Supreme Court order
 [Data](articles/624c2b17.json)
 
 [Extended Data](ext_articles/624c2b17.ext.json)
-
----
-
-### Distributed paddy vehicles
-
-*2024-09-26 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201580) · `si`
-
-State-owned vehicles in Galle Face released for essential services. 107 vehicles distributed across 4 locations. No vehicles for ambulances, education officers, or police.
-
-🟩
-
-Presidential Secret Secretary Ananda Wijayapala said that the state-owned government vehicles in the Galle Face will be released for essential essential services.
-
-He was speaking at a conversation in the area today (26).
-
-After the sworn in the new president, many vehicles used in different officials were also present in the Galle Face area adjacent to the office.
-
-"There are 107 vehicles in 4 locations. These are provided to essential services. No vehicles for ambulances. Officers in the field of education do not have vehicles. Police officers do not have vehicles. The number of vehicles distributed to each sector. "
-
-◼️
-
-[Data](articles/c73c067d.json)
-
-[Extended Data](ext_articles/c73c067d.ext.json)
-
----
-
-### President decides of luxury vehicles
-
-*2024-09-26 21:17:50* · [`adalk`](https://www.ada.lk/breaking_news/සුඛෝපභෝගී-වාහන-ගැන-ජනපති-ගත්-තීරණය/11-412175) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake instructs officials to use luxury vehicles efficiently. Criticizes waste of public funds on vehicle imports and misuse. Announces investigation into missing vehicles. Emphasizes need to protect public wealth.
-
-🟩
-
-President instructs to provide luxury vehicles used by the government
-
-President Anura Kumara Dissanayake said that President Anura Kumara Dissanayake has instructed the relevant officials to use the latest services to the essential services to the essential services.
-
-It is also sad to waste the taxes of the people, and action will be taken to educate the public on the future measures.
-
-The Presidential Secretariat Ananda Wijepala was speaking at a media discussion held today (26) at the premises.
-
-He added that the number of waste of money was exposing the country by controlling the country, he added and the vehicle stops of the President's House are not sufficient to park the vehicles.
-
-He also emphasized that 107 vehicles were parked in several places, including the Galle Face and other places.. He said that the people of this country had continued to waste public wealth in the event of a time when the people of this country were unable to live everyday.
-
-...
-
-[Data](articles/19251413.json)
-
-[Extended Data](ext_articles/19251413.ext.json)
-
----
-
-### China's development cooperation is a trap for other countries?
-
-*2024-09-26 21:09:21* · [`adalk`](https://www.ada.lk/opinion/චීනයේ-සංවර්ධන-සහයෝගිතාව-වෙනත්-රටවලට-උගුලක්ද-/2-412174) · `si`
-
-China's development cooperation viewed as trap by some, but offers unconditional aid and focuses on renewable energy and sustainability. Unlike Western aid, China's approach is seen as more equitable and aligned with global climate goals.
-
-🟩
-
-Some introduce the development collaborations to developing countries to developing countries to developing countries. Especially developing Western States, as well as their media, presents this view. There are many things to confirm it.
-
-However, these development collaborations, however, renewed the contributions of the development of China, this contribution to the economic growth of its states.
-
-"If we talk about China's development core, there are significant differences in comparison with the cooperation from the West. Because these partners get some other yarns involved. But China Development Cooperation is never strategic or temporary or transaction.
-
-"It is not the case with these development cooperation behind the development cooperation. There is no condition, a pre-precious concept, that it is not available to the people. "He added.
-
-...
-
-[Data](articles/ef968025.json)
-
-[Extended Data](ext_articles/ef968025.ext.json)
 
 ---

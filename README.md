@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 20:10:48**
+As of **2024-09-27 20:23:00**
 
 ## Newspaper Stats
 
-*Scraped **46,618** Articles*
+*Scraped **46,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,483
 tamilmirrorlk | 6,251
 virakesarilk | 7,452
-adaderanasinhalalk | 8,053
+adaderanasinhalalk | 8,054
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,618 (100.0%) of 46,618 articles have been extended.
+46,618 (100.0%) of 46,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් හදිසි නිවේදනයක්
+
+*2024-09-27 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201613) · `si`
+
+ශ්‍රී ලංකාව ආසන්න පහල වායුගෝලයේ පවතින කැළඹිලි ස්වභාවය හේතුවෙන් දිවයින පුරා වැසි තත්ත්වයේ වැඩි වීමක් අද (27) දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වෙන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම සහ සබරගමුව පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසිද ඇති විය හැක.
+
+දකුණු පළාතෙත් මඩකළපුව සහ අම්පාර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/9b599479.json)
+
+---
 
 ### Heavy showers above 100mm expected; Advisory for severe lightning
 
@@ -2317,21 +2337,5 @@ President Anura Kumara Dissanayake has taken over at a crucial time. Sri Lanka d
 [Data](articles/efe5b825.json)
 
 [Extended Data](ext_articles/efe5b825.ext.json)
-
----
-
-### Ambassador Qi Zhenhong highlights friendship and development at China’s 75th anniversary celebrations
-
-*2024-09-27 05:17:20* · [`dailyftlk`](https://www.ft.lk/opinion/Ambassador-Qi-Zhenhong-highlights-friendship-and-development-at-China-s-75th-anniversary-celebrations/14-767222) · `en`
-
-Following are remarks by Ambassador Qi Zhenhong at the reception celebrating the 75th anniversary of the founding of the People’s Republic of China, at Shangri-La Hotel Colombo, on 25 September
-
-Thank you all for joining us tonight to celebrate the 75th anniversary of the founding of the People’s Republic of China. On behalf of the Embassy, I would like to give a warm welcome to all our guests and extend my heartfelt gratitude to friends who have long supported the development of China and China-Sri Lanka relations. I would also like to send sincere holiday greetings to fellow Chinese both at home and in Sri Lanka.
-
-...
-
-[Data](articles/ba17b120.json)
-
-[Extended Data](ext_articles/ba17b120.ext.json)
 
 ---

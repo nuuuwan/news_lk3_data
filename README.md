@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 20:38:16**
+As of **2024-09-27 20:57:16**
 
 ## Newspaper Stats
 
-*Scraped **46,620** Articles*
+*Scraped **46,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,483
 tamilmirrorlk | 6,252
-virakesarilk | 7,452
+virakesarilk | 7,455
 adaderanasinhalalk | 8,054
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,620 (100.0%) of 46,620 articles have been extended.
+46,623 (100.0%) of 46,623 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -81,6 +81,32 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/9b599479.json)
 
 [Extended Data](ext_articles/9b599479.ext.json)
+
+---
+
+### Heavy rainfall is possible due to atmospheric condition - Department of Meteorology
+
+*2024-09-27 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194951) · `ta`
+
+Heavy rainfall warning: Rain/thunderstorms expected across Sri Lanka, especially in central and southern regions. Public advised to take precautions against lightning.
+
+🟩
+
+The Department of Meteorology has predicted that the rainy situation is likely to increase over the next few days from today (27) due to the atmospheric condition.
+
+It is possible to experience rain or thunderstorm in many parts of the country in the afternoon or at night.
+
+There is a possibility of rain or thunderstorms in the morning and in the southern province, Batticaloa and Ampara districts.
+
+Heavy rainfall is expected in some parts of the Central and Sabaragamuwa provinces in Kalutara, Galle and Matara districts.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. It is noteworthy that the public has been advised to take necessary precautions to reduce the effects of lightning impacts.
+
+◼️
+
+[Data](articles/f6e795c0.json)
+
+[Extended Data](ext_articles/f6e795c0.ext.json)
 
 ---
 
@@ -179,6 +205,50 @@ He further stressed that the government aims to reduce electricity tariffs to pr
 [Data](articles/e4daf8c8.json)
 
 [Extended Data](ext_articles/e4daf8c8.ext.json)
+
+---
+
+### Kelaniweli Railway Road is closed due to maintenance work - Railway Department
+
+*2024-09-27 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194950) · `ta`
+
+Kelaniweli Railway Road closed for maintenance. Bengirivatu railway line shut from 8:30 AM to 5:30 PM on 29th. Use alternative routes advised.
+
+🟩
+
+The Railway Department has taken steps to temporarily close the Bengirivatu railway line on the Kelaniweli railway line due to maintenance work.
+
+The Railway Department said in a statement that the tank will be closed from 8.30 am to 5.30 pm on the 29th of this month due to the revision of a religious person on the railway line.
+
+It is noteworthy that the Railway Department has requested the people to use alternatives during the time.
+
+◼️
+
+[Data](articles/9ebd7070.json)
+
+[Extended Data](ext_articles/9ebd7070.ext.json)
+
+---
+
+### We do not join the coalition with the United People's Power - Prasanna Ranatunga
+
+*2024-09-27 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194949) · `ta`
+
+Sri Lanka Freedom Party forms coalition with SLFP and left-wing parties for parliamentary election. Rejects United People's Power and United National Party alliances. Focuses on changing government rather than maintaining status quo.
+
+🟩
+
+We are not in a discussion between the United People's Power and the United National Party regarding joining the parliamentary election. Former Sri Lanka Freedom Party Minister Prasanna Ranatunga said that we are trying to form a widespread coalition with the Sri Lanka Freedom Party and the Left policymakers.
+
+He said this in the upcoming parliamentary elections.
+
+The new president has elected a new president voting for a change in the presidential election. It is better to change this than the same party in power. So we value people's decree. I have been in politics for 40 years for me. So we have been in the opposition. The president has to fulfill the promises made to the people. We are watching it.
+
+...
+
+[Data](articles/d238dbfb.json)
+
+[Extended Data](ext_articles/d238dbfb.ext.json)
 
 ---
 
@@ -2299,57 +2369,5 @@ The Department of Meteorology has forecast rainfall in the Western and Sabaragam
 [Data](articles/fa4f648d.json)
 
 [Extended Data](ext_articles/fa4f648d.ext.json)
-
----
-
-### Has the new Government already violated its own principles?
-
-*2024-09-27 05:33:04* · [`dailyftlk`](https://www.ft.lk/columns/Has-the-new-Government-already-violated-its-own-principles/4-767227) · `en`
-
-This is the first time NPP has got the opportunity and people are watching critically to see whether it is able to deliver on promises
-
-The new NPP Government came to power in a momentous change of the political landscape of Sri Lanka. For the first time a simple village folk has become the President. It is great to see the change of guard. We should genuinely wish Anura Kumara Dissanayaka the strength and focus to deliver on promises.
-
-AKD appears to be highly focused and his rise to power came in the midst of rampant corruption and abuse of power by most politicians of the previous governments, and quite rightly, the NPP highlighted those abominations and depravities, pledging to eradicate them, bring the perpetrators to justice, and steer the country towards a just and fair society. The people were so distressed and despondent that they clearly wanted a system change. NPP offered that. People accepted it. It is now up to the NPP to deliver.
-
-...
-
-[Data](articles/fe7ed5cf.json)
-
-[Extended Data](ext_articles/fe7ed5cf.ext.json)
-
----
-
-### A call to Prime Minister Dr. Harini Amarasuriya: Lighten school bags, reform education
-
-*2024-09-27 05:29:55* · [`dailyftlk`](https://www.ft.lk/columns/A-call-to-Prime-Minister-Dr-Harini-Amarasuriya-Lighten-school-bags-reform-education/4-767226) · `en`
-
-Now we are witnessing some changes in the socio-economic context in Sri Lanka. There is a need for better integration of all sectors with proper alignment focusing on the advancement of our nation. In this context, the education sector is really important and there should be a serious discussion between all stakeholders in primary, secondary and tertiary education in Sri Lanka to decide the future landscape of Sri Lankan education.
-
-In Sri Lanka today, it’s not uncommon to see a student weighing 24 kilos carrying a schoolbag that weighs 10 kilos! I consider this as one measurement to indicate the disaster of our education system. Most of the children coming under the category of grade six to 10 have around eight subjects per day questioning whether Sri Lankan educationists have done the justice for our next generation (which we need to discuss in a separate article).
-
-...
-
-[Data](articles/c0cacf5a.json)
-
-[Extended Data](ext_articles/c0cacf5a.ext.json)
-
----
-
-### 2024: The change and the choice
-
-*2024-09-27 05:24:50* · [`dailyftlk`](https://www.ft.lk/columns/2024-The-change-and-the-choice/4-767224) · `en`
-
-“They tried to bury us. They did not know we were seeds.” — Anura Kumara Dissanayake
-
-The 2024 Sri Lankan Presidential election results have displayed a significant change in the decades-long distribution of political party alignment among the Sri Lankan people. This transformation showcases the desperation of Sri Lankans to choose a leader free from crimes and corruption. Anura Kumara Dissanayake, a veteran politician and the leader of the National People’s Power (NPP), has won the election, dominating the majority of votes in 14 out of 22 districts.
-
-This election marked a historic moment, electing the first leftist leader as President from a socialist and social democratic political alliance. It demonstrates that most Sri Lankans are shifting away from traditional party politics to focus on a leader who can truly relate to and understand the hearts and minds of ordinary people.
-
-...
-
-[Data](articles/a91c210f.json)
-
-[Extended Data](ext_articles/a91c210f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 15:38:41**
+As of **2024-09-27 15:57:20**
 
 ## Newspaper Stats
 
-*Scraped **46,590** Articles*
+*Scraped **46,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,106 @@ adalk | 4,298
 dailymirrorlk | 4,733
 adaderanalk | 5,480
 tamilmirrorlk | 6,248
-virakesarilk | 7,444
-adaderanasinhalalk | 8,045
+virakesarilk | 7,447
+adaderanasinhalalk | 8,047
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,590 (100.0%) of 46,590 articles have been extended.
+46,595 (100.0%) of 46,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Suspects of Club Spring murder further remanded
+
+*2024-09-27 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201604) · `si`
+
+Amal Silva, former Western Provincial Councillor, arrested for Club Spring murder. Suspects remanded by Kaduwela Magistrate's Court.
+
+🟩
+
+Former Western Provincial Councilor Amal Silva, who was arrested in connection with the murder of Club Wasantha alias, police said.
+
+The suspects were produced before the Kaduwela Magistrate's Court today (27) and later issued this order.
+
+◼️
+
+[Data](articles/70027b40.json)
+
+[Extended Data](ext_articles/70027b40.ext.json)
+
+---
+
+### Director General of the Government Information Department
+
+*2024-09-27 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/194927) · `ta`
+
+Dinith Chinthaka Karunaratne resigns as Director General of Government Information Department. Hands over resignation letter to Mass Media Minister Vijitha Herath.
+
+🟩
+
+Director General of the Government Information Department Dinith Chinthaka Karunaratne has resigned from his post.
+
+He has handed over his resignation letter to the Mass Media Minister Vijitha Herath.
+
+◼️
+
+[Data](articles/62396570.json)
+
+[Extended Data](ext_articles/62396570.ext.json)
+
+---
+
+### Japanese government will cooperate fully with the program to eliminate corruption and irregularities
+
+*2024-09-27 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/194923) · `ta`
+
+Japanese government commits to anti-corruption efforts and supports 11 development projects in Sri Lanka, including water management schemes and infrastructure programs.
+
+🟩
+
+Japanese Ambassador to Sri Lanka Missukoshi Hidaygi has said that the Japanese government will cooperate with the government's main task of the government headed by President Anura Kumara Dissanayake.
+
+The Japanese Ambassador promised that the 11 projects that were started with the help of the Japanese government would be started immediately.
+
+Japanese Ambassador Missukoshi Hidaygi said this when he met President's Secretary Dr. Nandika Sanath Kumanayake on Wednesday (26).
+
+Accordingly, the Kandy City Water Management Scheme, the Second Stage of the Bandaranaike International Airport Development Program, the Digitalization of TV Broadcasting, the National Broadcasting and the Distribution Network Development Program, the Second Stage of the Anuradhapura North Water Project, the Rural Infrastructure Development Program,
+
+The Kalu Ganga Water Supply Scheme, Health and Medical Services Development Program will be resumed soon.
+
+...
+
+[Data](articles/7889537d.json)
+
+[Extended Data](ext_articles/7889537d.ext.json)
+
+---
+
+### The police protection provided to former MPs removes
+
+*2024-09-27 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201603) · `si`
+
+Former MPs lose police protection as officers reassigned after parliament dissolution on Tuesday.
+
+🟩
+
+The police officers who were attached to the security of former MPs have been summoned from today (27), police said.
+
+All police officers who have provided former Speaker, former Speaker and former Opposition Leaders have been taken up again.
+
+President Anura Kumara Dissanayake has dissolved the Parliament from 24th at Tuesday (24).
+
+◼️
+
+[Data](articles/cbe2b050.json)
+
+[Extended Data](ext_articles/cbe2b050.ext.json)
+
+---
 
 ### Police officers assigned for security of ex-MPs recalled
 
@@ -43,6 +131,32 @@ Sri Lanka Police said that all police personnel assigned to provide security to 
 [Data](articles/82792530.json)
 
 [Extended Data](ext_articles/82792530.ext.json)
+
+---
+
+### I will not contest the election this time: Justice Wigneswaran
+
+*2024-09-27 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194901) · `ta`
+
+Justice Wigneswaran announces he won't contest the next election, emphasizing his commitment to Tamil rights and nationalism. He encourages youth involvement in politics and expresses gratitude for past support.
+
+🟩
+
+Former MP and Justice Wigneswaran said that I will not contest the election this time but will not contest the election this time but my political service will continue.
+
+In that statement, the aim of the establishment of our party, the Tamil People's Alliance, is to defend the Tamil people's rights to protect the Tamil nationalism from disintegrating.. Accordingly, we are carrying out political activities for the Tamil people by glowing with political experiences and young people.
+
+In the last parliamentary election, people have voted for me and sent it to Parliament. My desire is that those who are mature in politics should be supported and guided by the politician in our party.
+
+I demand that the political maturity of other Tamil parties like me be a way of contesting the upcoming parliamentary elections for the youth.
+
+As a role model for this, I continue to contest the work of our Tamil People's Alliance and I will not contest the upcoming parliamentary elections.
+
+...
+
+[Data](articles/5cc6ffdb.json)
+
+[Extended Data](ext_articles/5cc6ffdb.ext.json)
 
 ---
 
@@ -727,6 +841,8 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
+
+Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 
@@ -2073,131 +2189,5 @@ The annual Employer of Choice survey gauges the preferences of undergraduate stu
 [Data](articles/34a320f3.json)
 
 [Extended Data](ext_articles/34a320f3.ext.json)
-
----
-
-### Anura Kumara Dissanayake: What kind of ruler will be the new President?
-
-*2024-09-27 02:39:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kj5m1y3d3o) · `si`
-
-Sri Lanka presidential election summary: Anura Kumara Dissanayake's leadership style debated by experts. Predictions vary on his honesty, economic policies, and foreign relations impact.
-
-🟩
-
-President Mahinda Rajapaksa was appointed as the 9th Executive President of Sri Lanka, upcoming the tradition of Sri Lanka's utilization president in Sri Lanka.
-
-The custody of Sri Lanka has surrendered to the next five years.
-
-Professor Jayawardena, Professor Jayawardena, Professor Vasakha Sooriyabandara, Professor Vasakha Sooriyagon, Anura Kumara Dissanayake, is an analysis with the Government of Visakha Sooriyaganayake, Anura Kumara Dissanayake.
-
-Prof. Jayaswa Uyangoda says he believes he will be "an honest leader" according to the behavior of Anura Kumara Dissanayake.
-
-He stated that he has promised the people that he is honest and the people expect it from him.
-
-However, Prof. Visakha Sooriyagunaratra says that Anura Kumara Dissanayake will not be a sincere leader.
-
-She said that there are problems with the appointments of the appointments.
-
-She accused the new President had filled with her duties and faithful people.
-
-...
-
-[Data](articles/ec95e057.json)
-
-[Extended Data](ext_articles/ec95e057.ext.json)
-
----
-
-### All’s well! Hope the new situ proceeds well and smoothly
-
-*2024-09-27 02:32:00* · [`islandlk`](http://island.lk/alls-well-hope-the-new-situ-proceeds-well-and-smoothly/) · `en`
-
-All’s well! What’s so well? Why the country, Stupid! The ‘being well’ has many angles to it.
-
-One:the presidential election worked out smoothly with very few reports of misbehaviour and no violence.
-
-Do you recall what utter consternation and fear and doubt even Ordinaries suffered at the end of the 2010 prez election held on January 26 when Prez MR sought a fresh mandate prior to the expiry of his six year term in 2011? He contested from the UPFA and his main opponent was General Sarath Fonseka, supported by the UNP and JVP. The General and his closest coterie spent the night in a hotel fearing for their safety; Violence did not end there – Fonseka was physically dragged to prison a few days later on trumped up charges, it was said. This after he won the civil war for the country, and reeived highest accolkatess from the Brothers R: Mahinda – Prez and Gotabaya – Defence Secretary.
-
-...
-
-[Data](articles/5b0ae7de.json)
-
-[Extended Data](ext_articles/5b0ae7de.ext.json)
-
----
-
-### Concentrated state vehicles will be released to essential services - Ananda Vijayapala
-
-*2024-09-27 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194881) · `ta`
-
-State vehicles redirected to essential services. President orders review of misuse. Vehicles previously wasted on non-essential uses. New directive aims to allocate resources efficiently.
-
-🟩
-
-President Anura Kumara Dissanayake has issued a directive to the relevant authorities that the state vehicles parked near the Galle Association will be released only for essential services, said the President's Exclusive Secretary Ananda Vijayapala.
-
-Ananda Wijepala said that it is sad that the people's taxpayer is wasting and that steps will be taken to make a full review of the matter and make people aware of the future activities.
-
-The President's Private Secretary Ananda Wijepala made this statement at a media briefing held on Thursday 26th.
-
-He added that during the last regime, the public money waste was in vain and that the vehicles were not enough to park in the parking lot in the presidential palace.
-
-He noted that 107 vehicles have been parked in several places, including the Galle Falls, and that these have been given to their friends in various positions by the last government.
-
-...
-
-[Data](articles/07fa7f1d.json)
-
-[Extended Data](ext_articles/07fa7f1d.ext.json)
-
----
-
-### The pension of 85 people canceled as Parliament was dissolved before the end of office
-
-*2024-09-27 01:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/194880) · `ta`
-
-Pension of 85 lawmakers canceled after Parliament dissolution. Election set for Nov 14th. District seat allocations changed. Nominations accepted Oct 4-11.
-
-🟩
-
-The pension of 85 new members representing the ruling and opposition parties has been canceled due to the dissolution of the president before the ninth parliament ended.
-
-The general election will be held on Thursday 14th November. The number of district seats has changed in 2024, which is the new Voter Iduba (Voter Idivore).
-
-The High Gazette on the dissolution of Parliament and holding the General Elections was released by President Anura Kumara Dissanayake on Wednesday (25).
-
-Those who are expected to contest the election from the 4th to the 11th of October will be able to hand over the nominations at the District Secretariats in 22 election districts.
-
-2023 compared to the proof of chariot, (voter turnout);This time the number of seats in many districts has changed. Accordingly, the last time 19 seats were allocated to the Colombo district in the Western Province, this time it was defined as 18.
-
-...
-
-[Data](articles/e3891986.json)
-
-[Extended Data](ext_articles/e3891986.ext.json)
-
----
-
-### China's cooperation is essential for the project to build Sri Lanka's economy -Foreign Minister Vijitha Herath
-
-*2024-09-27 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/194879) · `ta`
-
-Sri Lanka Foreign Minister Vijitha Herath praises China's cooperation in economic crisis and debt restructuring. Thanks Chinese financial institutions for support. Aims to strengthen bilateral ties and welcomes increased Chinese tourism.
-
-🟩
-
-External Affairs Minister Vijitha Herath said that Sri Lanka is grateful to the cooperation of China when we face the economic crisis of Sri Lanka, and thanks to the continued cooperation of the Chinese financial institutions for the credit restructuring program.
-
-He was speaking at the event held at the Sangirilla Hotel in Colombo on Wednesday evening (25) to mark the 75th anniversary of the creation of China.
-
-I would like to recall the cooperation of the Chinese government to Sri Lanka in the event of an economic crisis in the country. I thank you for that. I would also like to recall that this country has successfully completed many programs under a route program.
-
-Sri Lanka also thanks to the continued cooperation of the Chinese financial institutions for the debt renovation program that is currently working on Sri Lanka's foreign debt restructuring.
-
-...
-
-[Data](articles/2b7902ad.json)
-
-[Extended Data](ext_articles/2b7902ad.ext.json)
 
 ---

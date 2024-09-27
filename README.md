@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 18:33:52**
+As of **2024-09-27 18:59:04**
 
 ## Newspaper Stats
 
-*Scraped **46,611** Articles*
+*Scraped **46,612** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 387
-bbccomsinhala | 459
+bbccomsinhala | 460
 colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,830
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,052
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,611 (100.0%) of 46,611 articles have been extended.
+46,611 (100.0%) of 46,612 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1235,6 +1235,8 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
+
+Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 

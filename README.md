@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 08:01:17**
+As of **2024-09-27 08:21:50**
 
 ## Newspaper Stats
 
-*Scraped **46,525** Articles*
+*Scraped **46,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,65 @@ dailymirrorlk | 4,733
 adaderanalk | 5,466
 tamilmirrorlk | 6,236
 virakesarilk | 7,434
-adaderanasinhalalk | 8,031
+adaderanasinhalalk | 8,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,516 (100.0%) of 46,525 articles have been extended.
+46,516 (100.0%) of 46,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### මහ බැංකුවේ අලුත්ම තීරණය
+
+*2024-09-27 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201590) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුවේ ප්‍රතිපත්ති පොලී අනුපාතික වන, නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය (SDFR) සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය (SLFR) දැනට පවතින මට්ටම්වල තවදුරටත් පවත්වා ගැනීමට තීරණය කර තිබේ.
+
+ඒ අනුව නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය පිළිවෙලින් සියයට 8.25 සහ සියයට 9.25 ක් වෙයි.
+
+◼️
+
+[Data](articles/8dcfae36.json)
+
+---
+
+### ලෝක බැංකුවෙන් ජනපතිට සුබ පැතුම්
+
+*2024-09-27 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201589) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාට ලෝක බැංකුවෙන් සුබ පැතුම් එක් කර ඇත.
+
+ලෝක බැංකුවේ දකුණු ආසියානු කලාපයේ උප සභාපති මාටින් රයිසර් සහ ජාත්‍යන්තර මූල්‍ය සංස්ථාවේ ආසියානු හා පැසිෆික් කලාපීය උප සභාපති රිකාර්ඩෝ පුලිටි විසින් ජනාධිපතිවරයා වෙත විශේෂ පණිවුඩයක් යොමු කරමින් ශ්‍රී ලංකාවේ ආර්ථික ප්‍රකෘතිය සහ සංවර්ධනය සඳහා අඛණ්ඩ සහාය ලබා දෙන බවට ද සහතික වී තිබේ.
+
+රට තුළ වඩාත්ම අවදානමට ලක්විය හැකි ප්‍රජාවගේ අවශ්‍යතා සපුරාලීමට මෙන්ම සියල්ල ඇතුළත් වර්ධනයක් අත්කර ගැනීම සඳහා ශ්‍රී ලංකාවේ නව පරිපාලනයේ නායකත්වයට ලෝක බැංකු සමූහයේ සහාය ලබාදීමට කැපවන බවද සුබපැතුම් ලිපියෙන් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/df22171d.json)
+
+---
+
+### නව රජයෙන් අධ්‍යාපනයට වැඩි ඉඩක්
+
+*2024-09-27 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201588) · `si`
+
+අධාපනය සඳහා වැඩි ප්‍රතිපාදන ප්‍රමාණයක් වෙන් කිරීමට රජය තීරණය කර ඇති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය පැවසීය.
+
+අග්‍රාමාත්‍යවරිය වැඩිදුරටත් පෙන්වා දුන්නේ, අධ්‍යාපන අමාත්‍යාංශය සහ විභාග දෙපාර්තමේන්තුව සම්බන්ධයෙන් ජනතාව තුළ ඇතිවී තිබෙන අවිශ්වාසය නැතිකිරීමට අවශ්‍ය පියවර ගන්නා ලෙසට නිලධාරින්ට උපදෙස් දුන් බවය.
+
+මෙතෙක් ප්‍රමාද වු සියලු විභාග ප්‍රතිඵල කඩිනමින් නිකුත්කරන ලෙසට විභාග දෙපාර්තමේන්තුවේ නිලධාරින්ට ද අග්‍රාමාත්‍යවරිය උපදෙස් ලබාදී තිබේ.
+
+මේ අතර අග්‍රාමාත්‍ය ලේකම් කාර්යාලය නිවේදනය කළේ, පාසල් උත්සව සඳහා දේශපාලනඥයින් ගෙන්වීම වහාම නතර කරන ලෙසටද මෙහිදී උපදෙස් දී ඇති බවය.
+
+◼️
+
+[Data](articles/5b84b986.json)
+
+---
 
 ### Chandimal apologizes for what happened in the middle of the game
 
@@ -2215,81 +2263,5 @@ He refused to do so. I immediately told the story of the film in twenty minutes 
 [Data](articles/3b914af1.json)
 
 [Extended Data](ext_articles/3b914af1.ext.json)
-
----
-
-### Official announcement on the date of starting Big Boss Season 8
-
-*2024-09-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194853) · `ta`
-
-Big Boss Season 8 starts October 6th. New challenges, controversies expected. Vijay Sethupathi's strategy intriguing. Competitors details online. Event billed as "Digital Diwali".
-
-🟩
-
-The eighth part of the event, which has been completed in seven parts, is soon to be completed in seven parts.. An official announcement has been made.
-
-Big Poss Season 8 begins with the attractive words of 'ruling new game and new'.
-
-It has been reported that there will be new competitions between competitors in the new season and that the event will be held in the last seven parts of the Big Poss house in the last seven parts.
-
-'People Selvan' Vijay Sethupathi has attracted fans not only in his role in the platform, but also on the stage and the public meeting.
-
-How is 'People Selvan' Vijay Sethupathi going to handle the strategy of making artificially controversy and attracted the audience?The expectation about it has increased.
-
-Various information about competitors participating in the Big Boss Season 8 event has been published on the Internet.
-
-However the official announcement.. The event will be revealed on the evening of the sixth October.
-
-...
-
-[Data](articles/4333736e.json)
-
-[Extended Data](ext_articles/4333736e.ext.json)
-
----
-
-### Chairman of Litro Gas Company resigns
-
-*2024-09-26 16:35:15* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-සමාගමේ-සභාපති-ඉල්ලා-අස්වෙයි---හේතුව-මෙන්න/11-412168) · `si`
-
-Litro Gas Chairman Muditha Peiris resigns; cites appointment of new chair via Ministry of Finance. Decision announced publicly on 26th.
-
-🟩
-
-Chairman of Litro Gas, Muditha Peiris has resigned from his post.
-
-He said that the decision was taken to the media today (26), he said that the decision was taken to appoint a new chairman through the Ministry of Finance.
-
-◼️
-
-[Data](articles/06cb5572.json)
-
-[Extended Data](ext_articles/06cb5572.ext.json)
-
----
-
-### Human Rights Commission investigates the issue of scholarship examination
-
-*2024-09-26 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201571) · `si`
-
-Human Rights Commission investigates scholarship exam controversy. HR officials, education ministry, exam department representatives attend. Parents protest against exam restoration.
-
-🟩
-
-The Human Rights Commission of Sri Lanka (HR)
-
-A spokesman for the participation of officers including the Commissioner of Human Rights Council.
-
-It is reported that the authorities of the Ministry of Education and the Department of Examinations are also present.
-
-In addition, a group of parents of children who sat for the scholarship examination have also come to the Human Rights Commission.
-
-Parents have lodged a complaint with the Commission that the scholarship examination will be restored.
-
-◼️
-
-[Data](articles/9b102cc8.json)
-
-[Extended Data](ext_articles/9b102cc8.ext.json)
 
 ---

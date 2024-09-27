@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 22:12:35**
+As of **2024-09-27 22:24:21**
 
 ## Newspaper Stats
 
-*Scraped **46,626** Articles*
+*Scraped **46,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,484
 tamilmirrorlk | 6,252
-virakesarilk | 7,456
+virakesarilk | 7,458
 adaderanasinhalalk | 8,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,626 (100.0%) of 46,626 articles have been extended.
+46,628 (100.0%) of 46,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Attack on Hezbollah's headquarters in Beirut - Israel
+
+*2024-09-27 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194954) · `ta`
+
+Israel strikes Hezbollah HQ in Beirut suburbs, causing destruction and smoke.
+
+🟩
+
+Israel has reportedly launched an air strike on the headquarters of the Hesbullah organization in the suburbs of Beirut, the capital of Lebanon.
+
+The attack has rocked Beirut, a massive smoke is found, Reuters said.
+
+Hesbullah's almanar television said that four buildings were destroyed by the attack.
+
+Israel said the headquarters of the Hesbullah organization was found within the public areas.
+
+◼️
+
+[Data](articles/a2f981e1.json)
+
+[Extended Data](ext_articles/a2f981e1.ext.json)
+
+---
+
+### Senior Attorney J.. M.. Wizapandara appointment
+
+*2024-09-27 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194953) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Senior Attorney J.M. Wijebandara appointed Director General of President's Office. Educated at Ananda College and University of Colombo. Former lecturer at University of Colombo.
+
+🟩
+
+Senior Attorney JM as the Director General of the President's Office by President Anuragumara Dissanayake. Wijebandara has been appointed.
+
+Senior Attorney JM at the Presidential Office at the Presidential Office on Friday afternoon by President of the President, Dr. Nandika Sanath Kumanayake.. Handed over to Wijebandara.
+
+Wijebandara, an alumnus of Ananda College, Colombo, holds a Bachelor's Degree at the University of Colombo and a Buddhist Degree in Open University.
+
+Senior Attorney J. M.. Wijebandara is also a former lecturer of the Faculty of the University of Colombo.
+
+◼️
+
+[Data](articles/758a5af1.json)
+
+[Extended Data](ext_articles/758a5af1.ext.json)
+
+---
 
 ### Daim Maggie Smith consequently to the isis
 
@@ -2323,65 +2375,5 @@ The World Bank is providing budget support for Sri Lanka after the central bank 
 [Data](articles/9dedb9d4.json)
 
 [Extended Data](ext_articles/9dedb9d4.ext.json)
-
----
-
-### Three arrested with 3 firearm
-
-*2024-09-27 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201586) · `si`
-
-Arrests made: 1) 51yo ex-army man caught with T-56 rifle in Kumbalitu; 2) 55yo man seized with SL-made gun in Ambala; 3) 39yo individual apprehended with firearm in Elhmalai.
-
-🟩
-
-Three persons who had held a T-56 firearm and two firearms have been arrested with these firearms yesterday (26).
-
-T-56 riffle was found in the Delgahamaadilla area in Delgahaduwa area in the Kotawa area last night.
-
-The number is a T-56 rifle demanded.
-
-The suspect is a 51-year-old residence of a retired army soldier from the Kumbalitu area.
-
-Meanwhile, a suspect has been arrested with a firearm of Sri Lanka's manufactured firearms during a raid conducted in Naula, Ambala, Ambala, Ambala, Ambalana. The arrested person is a 55 year old resident of the Kongahawela area.
-
-A suspect with another firearm was arrested in the UPI area in Elhmalai.
-
-The man was arrested in a raid conducted by the police in yesterday afternoon and he is a 39 year old resident of Athemale tank.
-
-◼️
-
-[Data](articles/f9078bfc.json)
-
-[Extended Data](ext_articles/f9078bfc.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-09-27 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201584) · `si`
-
-Heavy rains today, more expected next few days. Meteorology warns of low atmosphere development causing thundershowers in western and central regions. Thunderstorms may bring strong winds and lightning. Public advised to prepare for potential damage.
-
-🟩
-
-In the next few days, there is an expectation of rainy industry from the next few days.
-
-The Department of Meteorology points out that these showers are expected due to the development of the lower atmosphere.
-
-Thundershowers showers or thundershowers at times in the Western and Sabaragamuwa provinces.
-
-Some parts of Ratnapura, Kalutara, Galle and Matara districts. Heavy rain falls around 100.
-
-Thundershowers will develop at several places in the evening or night in the evening of the island.
-
-MM to some places in the North, North Central, East and Central provinces. There may be a tight collapse than 75.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/66e1a65f.json)
-
-[Extended Data](ext_articles/66e1a65f.ext.json)
 
 ---

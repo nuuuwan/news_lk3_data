@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 13:58:05**
+As of **2024-09-27 14:11:56**
 
 ## Newspaper Stats
 
-*Scraped **46,579** Articles*
+*Scraped **46,581** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 387
-bbccomsinhala | 458
+bbccomsinhala | 459
 colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,830
@@ -18,7 +18,7 @@ dailyftlk | 3,110
 adalk | 4,297
 dailymirrorlk | 4,733
 adaderanalk | 5,477
-tamilmirrorlk | 6,246
+tamilmirrorlk | 6,247
 virakesarilk | 7,441
 adaderanasinhalalk | 8,044
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,044
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,579 (100.0%) of 46,579 articles have been extended.
+46,581 (100.0%) of 46,581 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Japan's 11 projects will be launched quickly
+
+*2024-09-27 13:31:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானின்-11-திட்டங்கள்-விரைவாக-ஆரம்பிக்கப்படும்/175-344579) · `ta`
+
+Japan supports 11 projects in Sri Lanka. Government cooperation ensures swift launch. Projects include Kandy water management, airport development, medical services improvement, electricity zone, and water supply schemes. Completion expected soon.
+
+🟩
+
+With the help of the Japanese government, the 11 projects that are currently in the middle of the interim will be launched quickly. The Presidential Media Division has announced that Japan has fully supported the new government's plan to eradicate corruption and irregularities.
+
+Japanese Ambassador to Sri Lanka Mizukoshi Hideaki said that the Japanese government is fully cooperating with Sri Lanka and will continue to work closely with Sri Lanka.
+
+Japanese Ambassador Missukoshi Hidaygi said this when he met President's Secretary Dr. Nandika Sanath Kumanayake yesterday afternoon.
+
+The Japanese Ambassador promised that the 11 projects that were started with the help of the Japanese government would be started immediately.
+
+Accordingly, Kandy City Water Management Program, Bandaranaike International Airport Development Program, Second Stage of Bandaranaike International Airport Development ProjectThe Medical Services Improvement Program will be resumed soon.
+
+...
+
+[Data](articles/de478967.json)
+
+[Extended Data](ext_articles/de478967.ext.json)
+
+---
 
 ### Test century records
 
@@ -987,6 +1013,44 @@ Accordingly, the Permanent Deposit Facility Rate and the Permanent Credit Facili
 [Data](articles/8dcfae36.json)
 
 [Extended Data](ext_articles/8dcfae36.ext.json)
+
+---
+
+### Don Bradman's report, Kaminda's 5th century, what is the test records found?
+
+*2024-09-27 07:51:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgk7dlmzzg3o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Don Bradman's report, Kaminda's 5th century, test records found. Kumindu Mendis sets world record scoring centuries in two innings. Collaborates with Dhananjaya de Silva in multiple records. Born in Galle, 1998. Awarded best cricketer in March 2023. Currently playing 8th Test, scoring 822 runs in first 7 matches.
+
+🟩
+
+Don Bradman's report, Kaminda's 5th century, what is the test records found?
+
+New players who play in their 8th Test series were recorded by the 5th century.
+
+It was on the second day of the second Test in Galle against New Zealand.
+
+He joined his wedding match and joined the third fast tests to the third fast tests. He did in 13 in 13 innings and did the Donald Bradman and George Headley. The batsmen scored at least five centuries in a large number of 18 centuries.
+
+It was covered with over 50 runs in the eight points they attended.
+
+Accordingly, he set a world record that each match was played over 50 runs in every match in the highest number of matches.
+
+This world record has previously been casident, Pakistani players Shawudkyl. He was set up in the first 7 runs and set up the world record.
+
+Kamindu Mendis was able to set up a report that no one had ever been set up yet.
+
+Who is the Kimiddi Mendis, which was unique records in Test history of 147 years?
+
+...
+
+[Data](articles/e5f95a2d.json)
+
+[Extended Data](ext_articles/e5f95a2d.ext.json)
 
 ---
 
@@ -2165,55 +2229,5 @@ He further explained that the public money wasted by previous governments is sym
 [Data](articles/16044e4d.json)
 
 [Extended Data](ext_articles/16044e4d.ext.json)
-
----
-
-### Dilith Jayaweera for creating a great alliance
-
-*2024-09-26 21:54:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாபெரும்-கூட்டணியை-உருவாக்கும்-திலித்-ஜயவீர/175-344561) · `ta`
-
-Sarvaja Shakti Alliance leader Dilith Jayaweera announces massive coalition for general election. Former MP Dilil joins as national organizer. Alliance seeks votes across districts, aiming to form influential political alliance in Sri Lanka.
-
-🟩
-
-Dilith Jayaweera, president of the Sarvaja Shakti Alliance, said that his party would form a massive coalition in the upcoming general election.
-
-He was speaking at a meeting held at the party office of the Sarvaja Shakti Alliance today (26).
-
-In addition, former Kandy district parliamentarian Dilil, who joined the Sarvaja Shakti Alliance, was appointed as the national organizer of the Amunugama Maubima Janata Party.
-
-“We are asking for votes in all districts in the general election.This time we form an influential political alliance in Sri Lanka. We have called politicians who believe that people will accept it. ”. Remble
-
-◼️
-
-[Data](articles/3dc3ad4f.json)
-
-[Extended Data](ext_articles/3dc3ad4f.ext.json)
-
----
-
-### Providing visa from 12.00 midnight today to the old mechanism
-
-*2024-09-26 21:40:10* · [`adalk`](https://www.ada.lk/breaking_news/අද-මධ්‍යම-රාත්‍රී-12-00-සිට-වීසා-ලබා-දීම-පැරණි-ක්‍රමවේදයට/11-412176) · `si`
-
-Sri Lanka reinstates old visa system after issues with VFS. Government solves foreigner entry problem. Visa applications now available online from midnight. Action taken based on court ruling. Audit initiated to investigate VFS misconduct. Business and investment sectors benefit from new arrangement.
-
-🟩
-
-The government has taken measures to solve the issue of a major problem with a major problem and all foreigners today (26).
-
-The full statement made by Minister Vijitha Herath is as follows,
-
-The people were severely affected by giving visa giving facilities to VFS. In particular, the foreigners who visit Sri Lanka were faced with a problem.
-
-Therefore, action taken action to be revived by the Old System during the past 24 hours by the intervention of the Ministry of Defense. Accordingly, the ability to access visa from 12.00 today. Applying visa applies to the online system now. The visa will be commenced in 24 hours and will commence this work in midnight today. This is a big victory.
-
-Visa problem was a problem with great tribulation. Now we have solved that question and finished. We got advice from the Attorney General. We were immediately functioning according to the court ruling.
-
-...
-
-[Data](articles/f679e0ae.json)
-
-[Extended Data](ext_articles/f679e0ae.ext.json)
 
 ---

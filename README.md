@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 22:38:24**
+As of **2024-09-27 23:09:24**
 
 ## Newspaper Stats
 
-*Scraped **46,628** Articles*
+*Scraped **46,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,484
 tamilmirrorlk | 6,252
 virakesarilk | 7,458
-adaderanasinhalalk | 8,055
+adaderanasinhalalk | 8,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,628 (100.0%) of 46,628 articles have been extended.
+46,629 (100.0%) of 46,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### The Passover pays Rs. 62 million
+
+*2024-09-27 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201615) · `si`
+
+Passover pays Rs. 62 million compensation. Additional Solicitor General Dileepa Peiris states this amount was paid to victims. President's Counsel Shamil Perera presents visitation lists in district courts. About 300 compensation cases pending in Negombo and Colombo District Courts. Charges filed against former Director of State Intelligence Nilantha Jayawardena for failing to pay compensation.
+
+🟩
+
+Additional Solicitor General Dileepa Peiris says that the above office has been taken to the full office of Rs.
+
+He said that the Supreme Court today (27), he said that Rs. 62 million was paid for people who became victims.
+
+President's Counsel Shamil Perera, who appeared in behalf of the Archbishop of Archbishop, told the court that the list of visits were present in the district courts.
+
+Meanwhile, about 300 victims' compensation cases are pending in Negombo and Colombo District Courts.
+
+The Attorney General has stated in the Supreme Court that the charges have been filed against the former Director of State Intelligence against the former Director of State Intelligence against the Court of Nilantha Jayawardena in relation to the case.
+
+Accordingly, the Solicitor General has informed the panel of judges that a charge has been filed against Nilantha Jayawardena, who had failed to pay compensation against the court.
+
+◼️
+
+[Data](articles/4518e5b6.json)
+
+[Extended Data](ext_articles/4518e5b6.ext.json)
+
+---
 
 ### Attack on Hezbollah's headquarters in Beirut - Israel
 
@@ -2359,23 +2387,5 @@ Dinesh Chandimal, who opened a stick to Sri Lankan innings, scored 116 runs in t
 [Data](articles/fe37830d.json)
 
 [Extended Data](ext_articles/fe37830d.ext.json)
-
----
-
-### World Bank says ready to support Sri Lanka President Dissanayake
-
-*2024-09-27 07:14:00* · [`economynextcom`](https://economynext.com/world-bank-says-ready-to-support-sri-lanka-president-dissanayake-181192/) · `en`
-
-ECONOMYNEXT – The World Bank group has pledged to continue its support for Sri Lanka in a letter to newly elected President Anura Dissanayake singed by senior regional officers dealing with the country.
-
-The World Bank is providing budget support for Sri Lanka after the central bank plunged the country to its worst currency crisis since its inception by cutting rates with inflationary open market operations from 2020 and failing a float of the currency due to a surrender rule in 2022.
-
-“The World Bank Group and our entire country team, led by our country manager, Gevorg Sargsyan based in Colombo, stand ready to support you and the new administration,” Martin Raiser, Vice President for the South Asia Region and Riccardo Puliti, Vice President for the Asia and Pacific Region of the International Finance Corporation, said in a letter.
-
-...
-
-[Data](articles/9dedb9d4.json)
-
-[Extended Data](ext_articles/9dedb9d4.ext.json)
 
 ---

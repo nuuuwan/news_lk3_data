@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 07:25:40**
+As of **2024-09-27 08:01:17**
 
 ## Newspaper Stats
 
-*Scraped **46,522** Articles*
+*Scraped **46,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ dailyftlk | 3,110
 adalk | 4,292
 dailymirrorlk | 4,733
 adaderanalk | 5,466
-tamilmirrorlk | 6,235
+tamilmirrorlk | 6,236
 virakesarilk | 7,434
-adaderanasinhalalk | 8,029
+adaderanasinhalalk | 8,031
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,509 (100.0%) of 46,522 articles have been extended.
+46,516 (100.0%) of 46,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Chandimal apologizes for what happened in the middle of the game
+
+*2024-09-27 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201587) · `si`
+
+Chandimal apologizes for game incident. Dimuth Karunaratne expresses views about his injury during second Test match. Sri Lanka bowled out for 36 runs on first day. Angelo Mathews scores 78, Kamindu Mendis remains unbeaten. Dinesh Chandimal opens innings, scores 116 runs for 16th Test century.
+
+🟩
+
+Dimuth Karunaratne expressed his views regarding the infestation of Dimuth Karunaratne in the second Test match between Sri Lanka yesterday (26).
+
+He spoke in a press conference on the first day of the match, said he apologized to Dimuth Karunaratne.
+
+"When I came, I said to him (Dimuth) Sorry. He came a leg disorder unfortunate. He told me only to the sign of Challel and don't want to go to urgent. That sign I think an emergency sign. I was not ready mentally enough to take that sign. Because the same was said that he was a leg disorder, give me the time to make it. That's what happened there. But my fault. I will accept that mistake ".
+
+Sri Lanka were bowled out for 36 runs for the first day of their first innings when the first date.
+
+Angelo Mathews scored 78 runs while Kamindu Mendis was unbeaten.
+
+Dinesh Chandimal, who opened a stick to Sri Lankan innings, scored 116 runs in the 16th Test century.
+
+◼️
+
+[Data](articles/fe37830d.json)
+
+[Extended Data](ext_articles/fe37830d.ext.json)
+
+---
+
+### Three arrested with 3 firearm
+
+*2024-09-27 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201586) · `si`
+
+Arrests made: 1) 51yo ex-army man caught with T-56 rifle in Kumbalitu; 2) 55yo man seized with SL-made gun in Ambala; 3) 39yo individual apprehended with firearm in Elhmalai.
+
+🟩
+
+Three persons who had held a T-56 firearm and two firearms have been arrested with these firearms yesterday (26).
+
+T-56 riffle was found in the Delgahamaadilla area in Delgahaduwa area in the Kotawa area last night.
+
+The number is a T-56 rifle demanded.
+
+The suspect is a 51-year-old residence of a retired army soldier from the Kumbalitu area.
+
+Meanwhile, a suspect has been arrested with a firearm of Sri Lanka's manufactured firearms during a raid conducted in Naula, Ambala, Ambala, Ambala, Ambalana. The arrested person is a 55 year old resident of the Kongahawela area.
+
+A suspect with another firearm was arrested in the UPI area in Elhmalai.
+
+The man was arrested in a raid conducted by the police in yesterday afternoon and he is a 39 year old resident of Athemale tank.
+
+◼️
+
+[Data](articles/f9078bfc.json)
+
+[Extended Data](ext_articles/f9078bfc.ext.json)
+
+---
 
 ### Heavy rains today
 
@@ -59,6 +117,28 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/66e1a65f.json)
 
 [Extended Data](ext_articles/66e1a65f.ext.json)
+
+---
+
+### Dermatitis
+
+*2024-09-27 05:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காயச்செய்கை-ஆரம்பம்/175-344566) · `ta`
+
+Sri Lanka: Onions cultivation expanded in Matale and Anuradhapura. Ministry plans to purchase from farmers at fair prices. Future expansion to over 2,000 hectares in 2025.
+
+🟩
+
+Onions have been launched in Matale and Anuradhapura districts of about 500 hectares.
+
+The Ministry of Agriculture said that onions will be purchased at the right price from the farmers.
+
+In 2025, the Ministry of Agriculture said that it is planning to cultivate large onions in more than two thousand hectares of land.. (A)
+
+◼️
+
+[Data](articles/696193bd.json)
+
+[Extended Data](ext_articles/696193bd.ext.json)
 
 ---
 
@@ -466,6 +546,8 @@ The event was organised by four Rotary Clubs, namely, Rotary Club Colombo Fort ,
 
 [Data](articles/1a2e0f56.json)
 
+[Extended Data](ext_articles/1a2e0f56.ext.json)
+
 ---
 
 ### SriLankan Airlines named Leading International Airline in South Asia at SATA 2024
@@ -479,6 +561,8 @@ SATA, an annual event, celebrates the best of South Asia’s hospitality and tra
 ...
 
 [Data](articles/68d4bcf9.json)
+
+[Extended Data](ext_articles/68d4bcf9.ext.json)
 
 ---
 
@@ -496,6 +580,8 @@ The company posted a Return on Assets (ROA) and Return on Equity (ROE) of 4.35% 
 
 [Data](articles/5215ca8f.json)
 
+[Extended Data](ext_articles/5215ca8f.ext.json)
+
 ---
 
 ### CSE bull run continues; turnover hits Rs 4.3 billion
@@ -509,6 +595,8 @@ The conclusion of the debt restructuring exercise and the IMF’s willingness to
 ...
 
 [Data](articles/0ce2753f.json)
+
+[Extended Data](ext_articles/0ce2753f.ext.json)
 
 ---
 
@@ -2203,77 +2291,5 @@ Parents have lodged a complaint with the Commission that the scholarship examina
 [Data](articles/9b102cc8.json)
 
 [Extended Data](ext_articles/9b102cc8.ext.json)
-
----
-
-### Case that insulted Islam: November 14
-
-*2024-09-26 16:25:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்லாத்தை-அவமதித்த-வழக்கு-நவம்பர்-14-தீர்ப்பு/175-344532) · `ta`
-
-Sri Lanka court verdict: Bodu Bala Sena leader guilty of insulting Islam. Case filed over 2016 speech. Magistrate orders trial.
-
-🟩
-
-Colombo Additional Magistrate Basan Amarasena today (26) ordered the verdict of the Crime Branch filed by the Colombo Crime Branch on November 14, claiming that the President of the Bodu Bala Sena Organization, Galapatha Ate Gnanasara Thera had insulted Islam.
-
-Senior Attorney Gamini Alwis appealed to the court to release the accused, as evidence to prove the allegation made in the complaint.
-
-During a press conference held on July 8, 2016, the case was filed, accusing the report of Islam to violate religious harmony and, accordingly, was convicted of punishment under Section 291 (B) of the Criminal Act.
-
-The Magistrate, considering the arguments of the two sides, ordered that the Colombo Criminal Officers appeared in court for trial.
-
-◼️
-
-[Data](articles/7cb2c0cb.json)
-
-[Extended Data](ext_articles/7cb2c0cb.ext.json)
-
----
-
-### Sri Lanka president to fast track foreign-aid energy project approvals
-
-*2024-09-26 16:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-fast-track-foreign-aid-energy-project-approvals-181154/) · `en`
-
-ECONOMNEXT – Sri Lanka President Anura Kumara Dissanayake has revealed plans to establish a panel to speed up the approval process of foreign-funded projects in the energy sector, President’s Media Division (PMD) said.
-
-Dissanayake’s announcement came when he met top officials at the Ministry of Power and Energy on Thursday (26).
-
-“The President also highlighted the importance of expediting projects financed by the Asian Development Bank and other foreign loans,” the PMD said in a statement.
-
-“He announced plans to establish a committee tasked with approving foreign-aid projects within three months, with the aim of accelerating their execution. Through this process, he noted, projects supported by foreign aid can be implemented more efficiently.”
-
-During the meeting he stressed the importance of maintaining fuel reserves to ensure uninterrupted fuel availability for the public and urged officials to efficiently plan for fuel procurement for the upcoming year.
-
-...
-
-[Data](articles/910bd718.json)
-
-[Extended Data](ext_articles/910bd718.ext.json)
-
----
-
-### Resigns with Litro gas company president
-
-*2024-09-26 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194849) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Litro gas company appoints Muditha Peiris as president on June 13, 2022. He previously managed Government-owned LP Gas Distribution Company and leads Litro Gas Lanka Ltd and Litro Gas Terminal Lanka (PVT) Ltd.
-
-🟩
-
-On June 13, 2022, Muditha Peiris was appointed president of Litro.
-
-Prior to that, he served as the Managing Director of the Government -owned LP Gas Distribution Company.
-
-He is also the Managing Director of Litro Gas Lanka Lanka Ltd and Litro Gas Terminal Lanka (PVT) Ltd.
-
-◼️
-
-[Data](articles/392f31f2.json)
-
-[Extended Data](ext_articles/392f31f2.ext.json)
 
 ---

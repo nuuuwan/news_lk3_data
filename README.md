@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 11:58:38**
+As of **2024-09-27 12:13:51**
 
 ## Newspaper Stats
 
-*Scraped **46,562** Articles*
+*Scraped **46,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,830
 dailyftlk | 3,110
 adalk | 4,296
 dailymirrorlk | 4,733
-adaderanalk | 5,474
+adaderanalk | 5,475
 tamilmirrorlk | 6,243
 virakesarilk | 7,435
-adaderanasinhalalk | 8,040
+adaderanasinhalalk | 8,041
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,560 (100.0%) of 46,562 articles have been extended.
+46,564 (100.0%) of 46,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### The mortality found the head of the Hezbollah Drone Society
+
+*2024-09-27 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201598) · `si`
+
+Hezbollah Drone Society leader killed in Israeli airstrike. Netanyahu orders full force against Hezbollah. Ceasefire demands from international community. Death toll rises to 700+ as conflict escalates.
+
+🟩
+
+Israeli Prime Minister Benjamin Netanyahu has informed his security forces to attack his entire power to the goals of the Hezbolleh of Lebanon.
+
+In the meantime, all the best parties, including the US, have continuously demanded to consider a ceasefire.
+
+The Ministry of Health has announced that 92 persons were killed due to air strikes yesterday.
+
+Among the deceased is Mohamed Surmoor, head of the Hezbollah Drone Society.
+
+Hisbullah confirmed that he had died of airst attack on a housing complex in the South Resort.
+
+Israel was accelerated on Monday last Monday.
+
+Over 700 people were killed and many were injured.
+
+◼️
+
+[Data](articles/ad4e5e5f.json)
+
+[Extended Data](ext_articles/ad4e5e5f.ext.json)
+
+---
+
+### Acting IGP to be appointed today?
+
+*2024-09-27 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102297/-acting-igp-to-be-appointed-today) · `en`
+
+An Acting Inspector General of Police (IGP) will likely be appointed today (27), according to Executive Member of the National People’s Power (NPP), Attorney-at-Law Sunil Watagala.
+
+Accordingly, Senior DIG Priyantha Weerasooriya, who currently serves as the SDIG in charge of the North Central Province, is tipped to be appointed to that position.
+
+He is an officer with over 36 years of service in the police department, who has served in various positions, progressing from Police Constable to Senior DIG.
+
+◼️
+
+[Data](articles/4cacc98c.json)
+
+[Extended Data](ext_articles/4cacc98c.ext.json)
+
+---
 
 ### Good news for Japanese projects
 
@@ -154,7 +202,11 @@ The Attorney General today informed the Supreme Court that contempt of court cha
 
 Accordingly, the Supreme Court has ordered him to appear before the court on October 07.
 
-◼️
+On January 12, 2023, the Supreme Court found that former President Sirisena, former Defence Secretary Hemasiri Fernando, former IGP Pujith Jayasundara, former National Intelligence Chief Sisira Mendis and former Chief of State Intelligence Nilantha Jayawardena have violated the Fundamental Rights of petitioners, by failing to take action to prevent the Easter Sunday attacks despite receiving sufficient intelligence information.
+
+As a result, they were ordered to pay compensation to the victims of the Easter Sunday attacks.
+
+...
 
 [Data](articles/ef8947b6.json)
 
@@ -768,6 +820,8 @@ Unlike in countries like Vietnam which heavily market Indo-China tours, however 
 
 [Data](articles/d83ce2fe.json)
 
+[Extended Data](ext_articles/d83ce2fe.ext.json)
+
 ---
 
 ### Chandimal apologizes for what happened in the middle of the game
@@ -811,6 +865,8 @@ The World Bank is providing budget support for Sri Lanka after the central bank 
 ...
 
 [Data](articles/9dedb9d4.json)
+
+[Extended Data](ext_articles/9dedb9d4.ext.json)
 
 ---
 
@@ -2173,57 +2229,5 @@ How to score the score in 15 finalists to date.
 [Data](articles/2872b41c.json)
 
 [Extended Data](ext_articles/2872b41c.ext.json)
-
----
-
-### Resignation of Petroleum Corporation
-
-*2024-09-26 19:57:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோலிய-கூட்டுத்தாபன-தலைவர்-ராஜினாமா/175-344545) · `ta`
-
-Petroleum Corporation Chairman Resigns: Three Companies Affected. Resignation allows new minister flexibility in appointing council members.
-
-🟩
-
-Accordingly, he has resigned from the posts of the chairman of three companies, Petroleum Corporation, Ceylon Petroleum Storage Terminals and Trinco Petroleum Terminal.
-
-The letter stated that he would resign from his posts to give the new minister a freedom to appoint a favorite council.
-
-◼️
-
-[Data](articles/9d5db77c.json)
-
-[Extended Data](ext_articles/9d5db77c.ext.json)
-
----
-
-### Sri Lanka's 'Kutti Bradman' Communise Mendis New World Records in 147 Years of Test cricketDon Bradman was also unable to Sunil Kavaskar
-
-*2024-09-26 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194871) · `ta`
-
-Sri Lanka's Kamindu Mendis sets world record in Test cricket history. At 25, he scored 51 runs in 2nd Test vs New Zealand, becoming first batsman to score over 50 in 8 Tests. His average of 79.36 includes 4 centuries and 5 half-centuries in 13 innings across 8 matches.
-
-🟩
-
-In the 147 -year history of Test cricket, Sri Lanka's 'Kutti Bradman' Kamindu has set his name in the history of the world.
-
-25 -year -old Kamindu Mendis set a new world record by scoring half a century in the second Test match at Galle International Stadium against New Zealand on Thursday (26).
-
-Sri Lanka, who decided to bat first, lost 3 wickets at the end of the first day of the first day of the match, scoring 306 runs.
-
-Kamindu Mendis, who scored 51 runs in Sri Lanka's first innings, set a rare record of being the first batsman to score more than 50 runs in 8 Tests since Test cricket.
-
-He also became the first player to score 50 or more in 8 Tests 9 times.
-
-Kamundu Mendis, respectively, has played in 8 Tests since he made his debut against Australia in the Galle Stadium two years ago.
-
-51 A.E.. He set the record as (opposite New Zealand - Galle).
-
-So far, he has scored 873 runs with an average of 79.36, including 4 centuries and 5 half centuries in 13 innings in 8 Tests.
-
-...
-
-[Data](articles/e0d09f40.json)
-
-[Extended Data](ext_articles/e0d09f40.ext.json)
 
 ---

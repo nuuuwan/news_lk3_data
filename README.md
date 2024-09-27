@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 23:09:24**
+As of **2024-09-27 23:22:48**
 
 ## Newspaper Stats
 
-*Scraped **46,629** Articles*
+*Scraped **46,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,830
 dailyftlk | 3,110
 adalk | 4,302
 dailymirrorlk | 4,733
-adaderanalk | 5,484
+adaderanalk | 5,485
 tamilmirrorlk | 6,252
 virakesarilk | 7,458
 adaderanasinhalalk | 8,056
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,629 (100.0%) of 46,629 articles have been extended.
+46,630 (100.0%) of 46,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Singapore leaders congratulate new Sri Lankan President
+
+*2024-09-27 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102310/singapore-leaders-congratulate-new-sri-lankan-president) · `en`
+
+Singapore’s President Tharman Shanmugaratnam and Prime Minister Lawrence Wong have written to Sri Lankan President Anura Kumara Dissanayake to congratulate him on his election, said Singapore’s Ministry of Foreign Affairs (MFA) on Friday (Sep 27).
+
+The 55-year-old was sworn into office on Monday, after he won the presidency with 42.3 per cent of the vote in the Sep 21 polls.
+
+His closest rival, opposition leader Sajith Premadasa, took 32.8 per cent while incumbent Ranil Wickremesinghe finished third with 17 per cent.
+
+Mr Dissanayake is Sri Lanka’s first leftist president. The previously fringe politician saw a surge of support after the country’s 2022 economic crisis forced hardships on ordinary citizens.
+
+In his letter on Monday, Mr Tharman extended his warmest congratulations.
+
+“It is a demonstration of the confidence that the Sri Lankan people have in you to lead the country forward,” Mr Tharman said of Mr Dissanayake’s election.
+
+...
+
+[Data](articles/141b7db8.json)
+
+[Extended Data](ext_articles/141b7db8.ext.json)
+
+---
 
 ### The Passover pays Rs. 62 million
 
@@ -1662,8 +1686,6 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
 
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
-
 ◼️
 
 [Data](articles/c4c75fc3.json)
@@ -2359,33 +2381,5 @@ Unlike in countries like Vietnam which heavily market Indo-China tours, however 
 [Data](articles/d83ce2fe.json)
 
 [Extended Data](ext_articles/d83ce2fe.ext.json)
-
----
-
-### Chandimal apologizes for what happened in the middle of the game
-
-*2024-09-27 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201587) · `si`
-
-Chandimal apologizes for game incident. Dimuth Karunaratne expresses views about his injury during second Test match. Sri Lanka bowled out for 36 runs on first day. Angelo Mathews scores 78, Kamindu Mendis remains unbeaten. Dinesh Chandimal opens innings, scores 116 runs for 16th Test century.
-
-🟩
-
-Dimuth Karunaratne expressed his views regarding the infestation of Dimuth Karunaratne in the second Test match between Sri Lanka yesterday (26).
-
-He spoke in a press conference on the first day of the match, said he apologized to Dimuth Karunaratne.
-
-"When I came, I said to him (Dimuth) Sorry. He came a leg disorder unfortunate. He told me only to the sign of Challel and don't want to go to urgent. That sign I think an emergency sign. I was not ready mentally enough to take that sign. Because the same was said that he was a leg disorder, give me the time to make it. That's what happened there. But my fault. I will accept that mistake ".
-
-Sri Lanka were bowled out for 36 runs for the first day of their first innings when the first date.
-
-Angelo Mathews scored 78 runs while Kamindu Mendis was unbeaten.
-
-Dinesh Chandimal, who opened a stick to Sri Lankan innings, scored 116 runs in the 16th Test century.
-
-◼️
-
-[Data](articles/fe37830d.json)
-
-[Extended Data](ext_articles/fe37830d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 21:22:26**
+As of **2024-09-27 21:38:27**
 
 ## Newspaper Stats
 
-*Scraped **46,624** Articles*
+*Scraped **46,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,830
 dailyftlk | 3,110
 adalk | 4,302
 dailymirrorlk | 4,733
-adaderanalk | 5,483
+adaderanalk | 5,484
 tamilmirrorlk | 6,252
 virakesarilk | 7,456
-adaderanasinhalalk | 8,054
+adaderanasinhalalk | 8,055
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,624 (100.0%) of 46,624 articles have been extended.
+46,626 (100.0%) of 46,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Daim Maggie Smith consequently to the isis
+
+*2024-09-27 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201614) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Magie Smith, star of Harry Potter films, had peaceful relationship with her sons according to statement issued by them.
+
+🟩
+
+Dim Magie Smith, Daim Magie Smith, is the popular actress who starred in Harry Potter films.
+
+Dam Magie Smith's two sons issued a statement saying that she was peaceable with her peace.
+
+◼️
+
+[Data](articles/c6eb1a5d.json)
+
+[Extended Data](ext_articles/c6eb1a5d.ext.json)
+
+---
+
+### KOICA commits support to strengthen govt’s transparency initiative
+
+*2024-09-27 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102309/koica-commits-support-to-strengthen-govts-transparency-initiative) · `en`
+
+The Korea International Cooperation Agency (KOICA) has pledged its full support for the transparency initiative of the current government, the President’s Media Division (PMD) said.
+
+This commitment was made by a delegation of high-ranking KOICA officials during a meeting with Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat today (27).
+
+KOICA has also agreed to offer loan assistance for projects aimed at preventing fraud and corruption in Sri Lanka, the PMD said.
+
+Representatives from the agency emphasized their intention to tailor loan support to meet the specific requirements of the country.
+
+Korean Ambassador to Sri Lanka Miyon Lee, Deputy Ambassador Songyi Jeong, Country Director of KOICA Sri Lanka office Kim Myungjin, Deputy Country Directors Yongwhan Kim, Yunsoo Jeon, DIMO General Manager Roshan Seransinghe, and Sri Lanka Railways Deputy General Manager B.M.U Banneheka were also present at the meeting.
+
+◼️
+
+[Data](articles/99a8e965.json)
+
+[Extended Data](ext_articles/99a8e965.ext.json)
+
+---
 
 ### The record of the Kamundu Mendis record, which is the lime of the opponents;Cricket Jambavan equated Bradman's record
 
@@ -2337,47 +2383,5 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/66e1a65f.json)
 
 [Extended Data](ext_articles/66e1a65f.ext.json)
-
----
-
-### Dermatitis
-
-*2024-09-27 05:53:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காயச்செய்கை-ஆரம்பம்/175-344566) · `ta`
-
-Sri Lanka: Onions cultivation expanded in Matale and Anuradhapura. Ministry plans to purchase from farmers at fair prices. Future expansion to over 2,000 hectares in 2025.
-
-🟩
-
-Onions have been launched in Matale and Anuradhapura districts of about 500 hectares.
-
-The Ministry of Agriculture said that onions will be purchased at the right price from the farmers.
-
-In 2025, the Ministry of Agriculture said that it is planning to cultivate large onions in more than two thousand hectares of land.. (A)
-
-◼️
-
-[Data](articles/696193bd.json)
-
-[Extended Data](ext_articles/696193bd.ext.json)
-
----
-
-### 46 holy water killed in Bihar
-
-*2024-09-27 05:52:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பீகாரில்-புனித-நீராடிய-46-பேர்-பலி/175-344565) · `ta`
-
-46 deaths reported during Jitia festival in Bihar, including 37 children. Festival involves mothers fasting for children's health.
-
-🟩
-
-In Bihar, 46 people, including 37 children, died during the Jitia festival.
-
-It is a festival that mothers are celebrating from fasting for their children to live with health and health. (A)
-
-◼️
-
-[Data](articles/68991bda.json)
-
-[Extended Data](ext_articles/68991bda.ext.json)
 
 ---

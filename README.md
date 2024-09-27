@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 08:01:17**
+As of **2024-09-27 08:42:55**
 
 ## Newspaper Stats
 
-*Scraped **46,525** Articles*
+*Scraped **46,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,83 @@ dailymirrorlk | 4,733
 adaderanalk | 5,466
 tamilmirrorlk | 6,236
 virakesarilk | 7,434
-adaderanasinhalalk | 8,031
+adaderanasinhalalk | 8,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,516 (100.0%) of 46,525 articles have been extended.
+46,523 (100.0%) of 46,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### The latest decision of the Central Bank
+
+*2024-09-27 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201590) · `si`
+
+Central Bank maintains Regular Deposit Facility Rate and Regular Credit Facility Rate at current policy interest rate levels. Permanent Deposit Facility Rate is 8.25%, while Permanent Credit Facility Rate is 9.25%.
+
+🟩
+
+Regular Deposit Facility (SDFR) and Regular Credit Facility Rates The SDFR and Regular Credit Facility (Slfr) has been maintained at the current levels of the Central Bank's policy interest rate.
+
+Accordingly, the Permanent Deposit Facility Rate and the Permanent Credit Facility Rates 8.25 percent respectively and 9.25% respectively.
+
+◼️
+
+[Data](articles/8dcfae36.json)
+
+[Extended Data](ext_articles/8dcfae36.ext.json)
+
+---
+
+### World Bank congratulates President
+
+*2024-09-27 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201589) · `si`
+
+World Bank congratulates President Anura Kumara Dissanayake on Sri Lanka's economic recovery. Supports new administration's efforts to meet vulnerable communities' needs and achieve development goals.
+
+🟩
+
+The World Bank has joined the World Bank to President Anura Kumara Dissanayake.
+
+The Vice President of the South Asian region of the World Bank, the Asian Asia, Asia, Asia and the International Finance Corporation, and the Vice President of the Asian and Pacific Corporation, Sri Lanka's economic recovery and development has been ensured that Sri Lanka's economic recovery and development is being supported by the President.
+
+The article has said that it is committed to the leadership of the new administration of the new administration in Sri Lanka to meet the needs of the most vulnerable community in the country as well as achieving everything.
+
+◼️
+
+[Data](articles/df22171d.json)
+
+[Extended Data](ext_articles/df22171d.ext.json)
+
+---
+
+### The new government is more likely to education
+
+*2024-09-27 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201588) · `si`
+
+New government increases education funding. Prime Minister Dr. Harini Amarasuriya allocates more resources. Officials advised to address public skepticism about Ministry of Education and Department of Examinations. Department of Examinations officials to release soon. Politicians banned from school festivals.
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya said the government has decided to allocate an increased allocation for the education of the education.
+
+The Prime Minister further stated that the officials advised the officials to take necessary action to prevent the unbelief in the people regarding the Ministry of Education and the Department of Examinations.
+
+The Prime Minister also instructed the officials of the Department of Examinations to be released soon.
+
+The Secretary to the Prime Minister's Secretariat was announced to immediately stop importing politicians for school festivals.
+
+◼️
+
+[Data](articles/5b84b986.json)
+
+[Extended Data](ext_articles/5b84b986.ext.json)
+
+---
 
 ### Chandimal apologizes for what happened in the middle of the game
 
@@ -612,6 +678,8 @@ SMFL’s sponsorship is a testament to its commitment to excellence and eagernes
 
 [Data](articles/137cf86a.json)
 
+[Extended Data](ext_articles/137cf86a.ext.json)
+
 ---
 
 ### HNBGI Chief Transformation Officer Dilshan Perera recognized at Sri Lanka Leadership Awards 2024
@@ -626,6 +694,8 @@ In his current role at HNB General Insurance, Dilshan Perera plays a pivotal rol
 
 [Data](articles/c0f49218.json)
 
+[Extended Data](ext_articles/c0f49218.ext.json)
+
 ---
 
 ### Unilever Sri Lanka emerges No.1 Employer of Choice for the 12th consecutive year among undergraduates
@@ -639,6 +709,8 @@ The annual Employer of Choice survey gauges the preferences of undergraduate stu
 ...
 
 [Data](articles/34a320f3.json)
+
+[Extended Data](ext_articles/34a320f3.ext.json)
 
 ---
 
@@ -655,6 +727,8 @@ Do you recall what utter consternation and fear and doubt even Ordinaries suffer
 ...
 
 [Data](articles/5b0ae7de.json)
+
+[Extended Data](ext_articles/5b0ae7de.ext.json)
 
 ---
 
@@ -2215,81 +2289,5 @@ He refused to do so. I immediately told the story of the film in twenty minutes 
 [Data](articles/3b914af1.json)
 
 [Extended Data](ext_articles/3b914af1.ext.json)
-
----
-
-### Official announcement on the date of starting Big Boss Season 8
-
-*2024-09-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194853) · `ta`
-
-Big Boss Season 8 starts October 6th. New challenges, controversies expected. Vijay Sethupathi's strategy intriguing. Competitors details online. Event billed as "Digital Diwali".
-
-🟩
-
-The eighth part of the event, which has been completed in seven parts, is soon to be completed in seven parts.. An official announcement has been made.
-
-Big Poss Season 8 begins with the attractive words of 'ruling new game and new'.
-
-It has been reported that there will be new competitions between competitors in the new season and that the event will be held in the last seven parts of the Big Poss house in the last seven parts.
-
-'People Selvan' Vijay Sethupathi has attracted fans not only in his role in the platform, but also on the stage and the public meeting.
-
-How is 'People Selvan' Vijay Sethupathi going to handle the strategy of making artificially controversy and attracted the audience?The expectation about it has increased.
-
-Various information about competitors participating in the Big Boss Season 8 event has been published on the Internet.
-
-However the official announcement.. The event will be revealed on the evening of the sixth October.
-
-...
-
-[Data](articles/4333736e.json)
-
-[Extended Data](ext_articles/4333736e.ext.json)
-
----
-
-### Chairman of Litro Gas Company resigns
-
-*2024-09-26 16:35:15* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-සමාගමේ-සභාපති-ඉල්ලා-අස්වෙයි---හේතුව-මෙන්න/11-412168) · `si`
-
-Litro Gas Chairman Muditha Peiris resigns; cites appointment of new chair via Ministry of Finance. Decision announced publicly on 26th.
-
-🟩
-
-Chairman of Litro Gas, Muditha Peiris has resigned from his post.
-
-He said that the decision was taken to the media today (26), he said that the decision was taken to appoint a new chairman through the Ministry of Finance.
-
-◼️
-
-[Data](articles/06cb5572.json)
-
-[Extended Data](ext_articles/06cb5572.ext.json)
-
----
-
-### Human Rights Commission investigates the issue of scholarship examination
-
-*2024-09-26 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201571) · `si`
-
-Human Rights Commission investigates scholarship exam controversy. HR officials, education ministry, exam department representatives attend. Parents protest against exam restoration.
-
-🟩
-
-The Human Rights Commission of Sri Lanka (HR)
-
-A spokesman for the participation of officers including the Commissioner of Human Rights Council.
-
-It is reported that the authorities of the Ministry of Education and the Department of Examinations are also present.
-
-In addition, a group of parents of children who sat for the scholarship examination have also come to the Human Rights Commission.
-
-Parents have lodged a complaint with the Commission that the scholarship examination will be restored.
-
-◼️
-
-[Data](articles/9b102cc8.json)
-
-[Extended Data](ext_articles/9b102cc8.ext.json)
 
 ---

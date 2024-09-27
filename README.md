@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 20:23:00**
+As of **2024-09-27 20:38:16**
 
 ## Newspaper Stats
 
-*Scraped **46,619** Articles*
+*Scraped **46,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,110
 adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,483
-tamilmirrorlk | 6,251
+tamilmirrorlk | 6,252
 virakesarilk | 7,452
 adaderanasinhalalk | 8,054
 
@@ -26,29 +26,61 @@ adaderanasinhalalk | 8,054
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,618 (100.0%) of 46,619 articles have been extended.
+46,620 (100.0%) of 46,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
 
-### කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් හදිසි නිවේදනයක්
+### Mano Ganesan's announcement
+
+*2024-09-27 20:04:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-கணேசன்-வெளியிட்ட-அறிவிப்பு/175-344587) · `ta`
+
+Mano Ganesan announces readiness to discuss general election after internal changes in United People's Power. Presidential election loss prompts strategy shift. Tamil Progressive Alliance remains separate entity, supported in Sabaragamuwa, Central, Uva, and Southern Provinces. United People's Power president Sajith Premadasa aware of alliance's stance. Coalition discussions possible post-internal changes.
+
+🟩
+
+Mano Ganesan, the leader of the Tamil Progressive Alliance and former Member of Parliament, said that after the internal changes of the United People's Power were completed, he was ready to discuss the general election.
+
+The presidential election is unable to win. People's position is to change. Therefore, there is a change of course.
+
+The coalition can be discussed after making the internal changes of the United People's Power. We are a separate party. Our supporters in the Sabaragamuwa, Central, Uva and Southern Provinces have voted on the Tamil Progressive Alliance.
+
+Our people have accepted our position. It is also known to the United People's Power President Sajith Premadasa.
+
+Wherever we will remain. We are still part of the United People's Alliance today. We are the one who continues to be component. He pointed out that the basis should be given. Remble
+
+◼️
+
+[Data](articles/949831cb.json)
+
+[Extended Data](ext_articles/949831cb.ext.json)
+
+---
+
+### An emergency announcement from the Department of Meteorology
 
 *2024-09-27 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201613) · `si`
 
-ශ්‍රී ලංකාව ආසන්න පහල වායුගෝලයේ පවතින කැළඹිලි ස්වභාවය හේතුවෙන් දිවයින පුරා වැසි තත්ත්වයේ වැඩි වීමක් අද (27) දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වෙන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka Meteorology Department warns of increased rain and thunderstorms in central and southern regions. Public advised to prepare for strong winds and lightning.
 
-දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-මධ්‍යම සහ සබරගමුව පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසිද ඇති විය හැක.
+The Meteorology Department says that a rainy increase in the island is expected to increase in the next few days due to the disturbance nature of Sri Lanka.
 
-දකුණු පළාතෙත් මඩකළපුව සහ අම්පාර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Showers or thundershowers during the evening or night in many parts of the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Mm in Central and Sabaragamuwa provinces, Kalutara, Galle and Matara districts. There may be a tight closure over 100.
+
+Showers or thundershowers will occur at several places in the Batticaloa and Ampara Districts in the Batticaloa and Ampara Districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/9b599479.json)
+
+[Extended Data](ext_articles/9b599479.ext.json)
 
 ---
 
@@ -2319,23 +2351,5 @@ This election marked a historic moment, electing the first leftist leader as Pre
 [Data](articles/a91c210f.json)
 
 [Extended Data](ext_articles/a91c210f.ext.json)
-
----
-
-### FAQ: Understanding the myths and challenges around debt restructuring
-
-*2024-09-27 05:21:43* · [`dailyftlk`](https://www.ft.lk/opinion/FAQ-Understanding-the-myths-and-challenges-around-debt-restructuring/14-767223) · `en`
-
-Clearly, the IMF program is based on a flawed DSA with a problematic end-goal of Sri Lanka accessing commercial markets by 2027
-
-Sri Lanka has just elected a new President amidst a deepening economic crisis. The people have provided a clear mandate for change and relief from the economic distress pervading their lives.
-
-President Anura Kumara Dissanayake has taken over at a crucial time. Sri Lanka defaulted on its external debt for the first time in its history in 2022, and is now in the middle of an IMF program, and a debt restructuring process that are predicated on austerity and repayment of the larger share of past debt to the creditors. How should Sri Lanka approach debt restructuring and the IMF’s Debt Sustainability Analysis (DSA) with parameters for reduced public spending and minimal debt relief? This FAQ zooms into the ongoing IMF program, debt restructuring process and options before Sri Lanka.
-
-...
-
-[Data](articles/efe5b825.json)
-
-[Extended Data](ext_articles/efe5b825.ext.json)
 
 ---

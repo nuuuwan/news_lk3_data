@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 01:38:45**
+As of **2024-09-28 01:57:30**
 
 ## Newspaper Stats
 
-*Scraped **46,655** Articles*
+*Scraped **46,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 461
 colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,840
-dailyftlk | 3,120
+dailyftlk | 3,128
 adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,485
@@ -26,9 +26,139 @@ adaderanasinhalalk | 8,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,655 (100.0%) of 46,655 articles have been extended.
+46,661 (100.0%) of 46,663 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-28 (Saturday)
+
+### NDB Bank achieves historic milestone as first Sri Lankan bank to reach 100,000 YouTube subscribers
+
+*2024-09-28 01:18:54* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-achieves-historic-milestone-as-first-Sri-Lankan-bank-to-reach-100-000-YouTube-subscribers/34-767293) · `en`
+
+NDB Bank has achieved a groundbreaking digital milestone by becoming the first Sri Lankan bank to reach 100,000 subscribers on its YouTube channel, underscoring the bank’s dedication to innovation and its digital-first approach in engaging with customers, setting a new benchmark for the banking industry in Sri Lanka.
+
+...
+
+[Data](articles/34d86f07.json)
+
+[Extended Data](ext_articles/34d86f07.ext.json)
+
+---
+
+### Police protection of ex-MPs withdrawn
+
+*2024-09-28 01:01:13* · [`dailyftlk`](https://www.ft.lk/news/Police-protection-of-ex-MPs-withdrawn/56-767282) · `en`
+
+Sri Lanka Police have announced the withdrawal of security provided to Ministers, Deputy Ministers, State Ministers, and MPs of the 16th Parliament, following the dissolution of Parliament on 24 September.
+
+In an official statement, the Police Media Unit confirmed that officers assigned to the protection of former Ministers, MPs, Governors, Provincial Council Ministers, and Councillors have also been withdrawn.
+
+However, security will continue for Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, and Deputy Speaker Ajith Rajapaksa. This decision follows the standard protocol post-Parliamentary dissolution, ensuring only select officials retain protection during the transition period.
+
+◼️
+
+[Data](articles/307f8406.json)
+
+[Extended Data](ext_articles/307f8406.ext.json)
+
+---
+
+### SDIG Priyantha Weerasooriya appointed as Acting IGP
+
+*2024-09-28 01:01:06* · [`dailyftlk`](https://www.ft.lk/news/SDIG-Priyantha-Weerasooriya-appointed-as-Acting-IGP/56-767281) · `en`
+
+Senior DIG Priyantha Weerasooriya has been appointed as the Acting Inspector General of Police (IGP) by President Anura Kumara Dissanayake, the Presidential Media Division (PMD) announced yesterday. The appointment was made under the constitutional powers vested in the President, and the letter of appointment was presented by the President’s Secretary Dr. Nandika Kumanayake, at the Presidential Secretariat in Colombo.
+
+Weerasooriya, who has served as Senior DIG in charge of the North Central Province since March 2024, brings 36 years of exemplary service to his new role. Notably, he is the first officer in the 158-year history of the Sri Lankan Police to rise from the rank of Police Constable to Inspector General of Police (IGP).
+
+...
+
+[Data](articles/6c2926bc.json)
+
+[Extended Data](ext_articles/6c2926bc.ext.json)
+
+---
+
+### Postcards of protest from Mannar to President, PM
+
+*2024-09-28 01:00:27* · [`dailyftlk`](https://www.ft.lk/news/Postcards-of-protest-from-Mannar-to-President-PM/56-767280) · `en`
+
+Members of the “Voice of People Mannar” facilitated by the Mannar Social and Economical Development Organisation (MSEDO), held a peaceful postal campaign in Mannar Town yesterday urging the Government to halt the Wind Power Project and titanium sand mining on Mannar Island. Over 1,500 postcards were sent to the President and Prime Minister of Sri Lanka.
+
+◼️
+
+[Data](articles/5d8dda70.json)
+
+[Extended Data](ext_articles/5d8dda70.ext.json)
+
+---
+
+### Ex-SIS Head Nilantha Jayawardena hit with contempt charges for failing to pay Easter Sunday compensation
+
+*2024-09-28 00:59:27* · [`dailyftlk`](https://www.ft.lk/news/Ex-SIS-Head-Nilantha-Jayawardena-hit-with-contempt-charges-for-failing-to-pay-Easter-Sunday-compensation/56-767279) · `en`
+
+The Attorney General informed the Supreme Court yesterday that contempt of court charges have been filed against Senior DIG Nilantha Jayawardena, the former head of the State Intelligence Service. The charges relate to his failure to fully pay the Rs. 75 million in compensation ordered in connection with fundamental rights petitions filed over the 2019 Easter Sunday terror attacks.
+
+A seven-member Supreme Court bench, led by the Chief Justice, issued a notice for Jayawardena to appear before the court on 7 October at 9.30 a.m. The compensation was mandated as part of the court’s ruling on the intelligence failures that contributed to the deadly attacks, which killed over 250 people.
+
+...
+
+[Data](articles/021eb1a0.json)
+
+[Extended Data](ext_articles/021eb1a0.ext.json)
+
+---
+
+### Role of history and ideology in shaping China’s geopolitical strategies and influence on Sri Lanka
+
+*2024-09-28 00:43:54* · [`dailyftlk`](https://www.ft.lk/opinion/Role-of-history-and-ideology-in-shaping-China-s-geopolitical-strategies-and-influence-on-Sri-Lanka/14-767268) · `en`
+
+Dr. Patrick Mendis and Dr. Antonina Łuszczykiewicz-Mendis offer an in-depth analysis of China’s ‘Dragon and Phoenix’ strategy, highlighting how Beijing blends assertive geopolitical moves with culturally-driven diplomacy to expand its global influence. They discuss how this dual approach is shaping the ongoing US-China rivalry, particularly in the strategic Indian Ocean region, and its potential implications for Sri Lanka.
+
+Q:  In your article on China’s ‘Dragon and Phoenix’ strategy, you describe the ‘Dragon’ as representing China’s more assertive, forceful actions, while the ‘Phoenix’ symbolises its softer, culturally-focused diplomacy. Could you elaborate on how these two aspects work together to enhance China’s global influence?
+
+Dr. Mendis: In our article, we aimed to capture how China perceives itself and projects its strategy to the world in a very subtle, often secretive manner. To effectively explain this, we chose to use a Chinese metaphor—the Dragon and Phoenix.
+
+...
+
+[Data](articles/ecd24d65.json)
+
+[Extended Data](ext_articles/ecd24d65.ext.json)
+
+---
+
+### Ratha Gaya: A national burden
+
+*2024-09-28 00:40:51* · [`dailyftlk`](https://www.ft.lk/columns/Ratha-Gaya-A-national-burden/4-767267) · `en`
+
+Given Sri Lanka’s current economic situation, it is imperative to re-evaluate our approach to vehicle ownership and usage
+
+Ratha Gaya, a term often used to describe the obsession with owning flashy vehicles, has become a pervasive issue in Sri Lanka. This trend, fuelled by the perceived status and the inadequacy of public transportation, has placed an undue burden on the Government and the nation’s economy.
+
+Government officials, often compensated with relatively lower salaries compared to their private sector counterparts, have traditionally been given duty-free vehicle allowances. This has led to a proliferation of vehicles within Government departments, often used more for personal convenience than for official duties. Similarly, the private sector has also succumbed to this trend, viewing vehicles as status symbols rather than mere utilities.
+
+...
+
+[Data](articles/175b9195.json)
+
+---
+
+### UNP and its continuing suicidal saga
+
+*2024-09-28 00:39:25* · [`dailyftlk`](https://www.ft.lk/opinion/UNP-and-its-continuing-suicidal-saga/14-767266) · `en`
+
+Congratulations on a brilliant editorial on 26 September which used the UNP and its extremely long time leader Ranil Wickremesinghe to highlight the destructive, disastrous and detrimental role he had played individually to the concept of social liberal politics and ideology in Sri Lanka.
+
+You have brilliantly captured in words the reality and practical implications of Wickremesinghe’s role in weakening the pillars of social liberalism, firstly in the UNP and then in Sri Lankan politics.
+
+His nurturing and sustaining the myth that he is eternal and thus creating personality cults within the UNP and every time he governed led to the building up of corruption, cronyism, poor governance, abuse of power, undermining the rule of law and undermining the parliamentary and judicial systems which violate the constitution of Sri Lanka.
+
+...
+
+[Data](articles/e52ded7a.json)
+
+---
 
 ### 2024-09-27 (Friday)
 
@@ -36,7 +166,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-09-27 23:54:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Maldives-Business-Council-congratulates-new-President/34-767263) · `en`
 
-On behalf of the Sri Lanka-Maldives Business Council, I extend our heartfelt congratulations on your appointment as President of Sri Lanka. Your leadership comes at a pivotal time for both Sri Lanka and the Maldives, and we are eager to explore the opportunities that lie ahead. We look forward to collaborating closely with you to strengthen the ties between our countries and promote mutual growth.
+Sri Lanka-Maldives Business Council has extended its congratulations to the newly elected President Anura Kumara Dissanayake.
+
+"On behalf of the Sri Lanka-Maldives Business Council, I extend our heartfelt congratulations on your appointment as President of Sri Lanka. Your leadership comes at a pivotal time for both Sri Lanka and the Maldives, and we are eager to explore the opportunities that lie ahead. We look forward to collaborating closely with you to strengthen the ties between our countries and promote mutual growth," said Sri Lanka Maldives Business Council President Sudesh Mendis.
 
 While our export revenue has grown to $ 163 million in 2023, it has not kept pace with overall market growth, resulting in a decline in our market share in the Maldives, which now stands at 4.65%, down from approximately 7.02% eight years ago. This decline highlights the need for concerted efforts to enhance our presence in this vital market.
 
@@ -2089,205 +2221,5 @@ As a result, they were ordered to pay compensation to the victims of the Easter 
 [Data](articles/ef8947b6.json)
 
 [Extended Data](ext_articles/ef8947b6.ext.json)
-
----
-
-### Stop bringing politicians to school events - Minister of Education
-
-*2024-09-27 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/194888) · `ta`
-
-Minister appeals: Stop politicians at school events. Risks politicizing education. Transparency needed for teacher recruitment. Addressing COVID-19, economic stress, and exam leaks. Promises swift, fair resolution for leaked questions. Announces immediate release of delayed exam results.
-
-🟩
-
-Dr. Harini Amarasuriya has appealed to all schools to stop the bringing politicians to school events.
-
-He said this while addressing an event organized by the Ministry of Education.
-
-Calling politicians for school events will result in a risk of politicizing the school environment and the school environment.
-
-Transparency is essential in filling the teacher deficit. The public must fill in transparency to build the confidence of the public.
-
-The current generation faces many challenges. In it, the Kovit-19 infection and the economic crisis have increased stress among students.
-
-The recent Grade 5 Scholarship Examination Questionnaire Leak will be a quick and fair settlement. There will be no harm to students.
-
-He has announced to the Department of Examinations to immediately release all the late examination results.
-
-◼️
-
-[Data](articles/3800ccd0.json)
-
-[Extended Data](ext_articles/3800ccd0.ext.json)
-
----
-
-### Nilantha Jayawardena files charges against insulting the judiciary
-
-*2024-09-27 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201595) · `si`
-
-Nilantha Jayawardena faces legal action for allegedly insulting the judiciary. Former head of State Intelligence Service charged by court. Supreme Court orders appearance on October 07 regarding failure to pay court fees related to fundamental rights petitions filed by Passover.
-
-🟩
-
-Former Head of State Intelligence Service has filed charges against the court against Nilantha Jayawardena.
-
-The Attorney General said that the Supreme Court today stated that the charges have been filed on failure to pay a completely failure in relation to the fundamental rights petitions filed by the Passover.
-
-Accordingly, Nilantha Jayawardena has ordered the Chief Justice Bench to be held informed to appear in court on October 07.
-
-◼️
-
-[Data](articles/e70fc47c.json)
-
-[Extended Data](ext_articles/e70fc47c.ext.json)
-
----
-
-### Yall. Meeting between Elections Office and EU Election Monitoring Committee
-
-*2024-09-27 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194890) · `ta`
-
-EU Election Monitoring Committee meets Jaffna officials. Committee praises election cooperation and smooth process. Local government agent thanks EU monitors for assistance. Meeting attendees: Nicholas Kukulis, Johanna Van Sambik, Madhumu Paramanan.
-
-🟩
-
-The European Union's Election Monitoring Committee, which was involved in election monitoring in the Jaffna district, met with the Jaffna District Government Agent and the Department of Elections Officer Marudalingam Pradeepan at the Government Agent's office on Thursday (26).
-
-They thanked the Elections Officers and the Officers for fully cooperating with their election monitoring in Jaffna and said that the election was well and smooth.
-
-The Government Agent expressed his gratitude to the European Union election monitors in Jaffna's election surveillance and the involvement of several advance discussions with us.
-
-The meeting was attended by Nicholas Kukulis and Johanna Van Sambik and Madhumu Paramanan.
-
-◼️
-
-[Data](articles/67a8c4e1.json)
-
-[Extended Data](ext_articles/67a8c4e1.ext.json)
-
----
-
-### Joe Biden congratulates Sri Lanka’s new President
-
-*2024-09-27 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102295/joe-biden-congratulates-sri-lankas-new-president) · `en`
-
-US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumara Dissanayake on his election to office.
-
-“The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
-
-“I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
-
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
-
-◼️
-
-[Data](articles/c4c75fc3.json)
-
-[Extended Data](ext_articles/c4c75fc3.ext.json)
-
----
-
-### Gurusamy's aspiration from the post of General Secretary
-
-*2024-09-27 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194889) · `ta`
-
-KR Guru Sami resigns as General Secretary of Democratic People's Front. Cites desire to work directly with people during Sri Lanka's parliamentary elections. Expresses gratitude to party members after 13 years of service.
-
-🟩
-
-KR Guru Sami has resigned from the post of General Secretary of the Democratic People's Front.
-
-He sent a letter to party leader Mano Ganesan on Thursday (26).
-
-When we look at the ongoing parliamentary elections in Sri Lanka, the results of the election and the events that followed, we see the biggest change in the minds of the people and their opposition.
-
-I am in the need to raise myself in accordance with their expectation.
-
-I have decided to dedicate myself to their livelihood for the welfare of the people, to work even more and to rule for the people.
-
-Therefore, as I want to work in the field with the people, I immediately resign from the posts of the General Secretary of the Democratic People's Front, the political committee of the Tamil Progressive Alliance.
-
-The letter said that I would like to express my heartfelt gratitude for the 13 -year -old political path that has traveled with them and the party till date and to express my gratitude to the party's fellow members.
-
-◼️
-
-[Data](articles/96a4cf13.json)
-
-[Extended Data](ext_articles/96a4cf13.ext.json)
-
----
-
-### Bideen greets the president
-
-*2024-09-27 10:32:53* · [`adalk`](https://www.ada.lk/breaking_news/බයිඩන්-ජනපතිට-සුබ-පතයි/11-412181) · `si`
-
-Here's a 200-character summary:
-
-
-
-Joe Biden congratulates Anura Dissanayake on his presidency. He expresses hope for peace, security, and prosperity in the Indo-Pacific region through cooperation between the US and Sri Lanka.
-
-🟩
-
-US President Joe Biden has been appointed as the new President of Sri Lanka.
-
-He leaves a message on the account and hopes to deal with the new President of Sri Lanka for peace, security and prosperity in the Indo-Pacific region.
-
-Sri Lankaans have selected Anura Dissanayake from a fair and peaceful election as the president of the country.
-
-◼️
-
-[Data](articles/3b890ae9.json)
-
-[Extended Data](ext_articles/3b890ae9.ext.json)
-
----
-
-### US president congratulates Sri Lanka counterpart
-
-*2024-09-27 10:15:00* · [`economynextcom`](https://economynext.com/us-president-congratulates-sri-lanka-counterpart-181285/) · `en`
-
-ECONOMYNEXT – The United States of America’s outgoing president Joseph Biden has congratulated Sri Lanka’s newly elected president Anura Dissanayake.
-
-“Congratulations on your victory, @AnuraDisanayake,” Joe Biden said on social media platform X.
-
-“The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.”
-
-Biden, who will not be contesting in the US November election and has roughly about a month in office, said he looked forward to working with his Sri Lankan counterpart.
-
-“I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.”
-
-Dissanayake thanked him and said he looked forward “strengthening our long-standing friendly relations.” (Colombo/Sep27/2024)
-
-◼️
-
-[Data](articles/d3e711f9.json)
-
-[Extended Data](ext_articles/d3e711f9.ext.json)
-
----
-
-### New York Mayor Eric Adams charged in Turkey bribery, fraud scheme
-
-*2024-09-27 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102294/new-york-mayor-eric-adams-charged-in-turkey-bribery-fraud-scheme) · `en`
-
-U.S. prosecutors on Thursday charged New York City Mayor Eric Adams with accepting illegal campaign contributions and luxury travel from Turkish nationals seeking to influence him, capping an investigation that has sent the largest U.S. city’s government into turmoil.
-
-In a 57-page indictment, prosecutors laid out an alleged scheme stretching back to 2014 that helped to underwrite Adams’ 2021 mayoral campaign and showered him with free rooms at opulent hotels and meals at high-end restaurants.
-
-In return, Adams pressured city officials to allow the country’s new 36-story consulate to open despite safety concerns, prosecutors said.
-
-The Democrat faces five criminal charges and could face decades in prison if found guilty.
-
-Adams, 64, denied wrongdoing and said he would fight the charges in court. He said he would not step down.
-
-“I will continue to do my job as mayor,” he said at a news conference, where some onlookers called on him to resign.
-
-...
-
-[Data](articles/975e9846.json)
-
-[Extended Data](ext_articles/975e9846.ext.json)
 
 ---

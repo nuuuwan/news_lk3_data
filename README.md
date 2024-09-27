@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 23:38:52**
+As of **2024-09-27 23:58:20**
 
 ## Newspaper Stats
 
-*Scraped **46,632** Articles*
+*Scraped **46,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,66 @@ dbsjeyarajcom | 387
 bbccomsinhala | 461
 colombotelegraphcom | 462
 islandlk | 2,731
-economynextcom | 2,830
+economynextcom | 2,840
 dailyftlk | 3,110
 adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,485
-tamilmirrorlk | 6,254
-virakesarilk | 7,458
+tamilmirrorlk | 6,255
+virakesarilk | 7,459
 adaderanasinhalalk | 8,056
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,632 (100.0%) of 46,632 articles have been extended.
+46,640 (100.0%) of 46,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Namal calls back those who went to Ranil
+
+*2024-09-27 23:25:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலிடம்-சென்றவர்களை-மீண்டும்-அழைக்கின்றார்-நாமல்/175-344602) · `ta`
+
+Namal Rajapakse calls former SLPP members to rejoin party. He aims to strengthen the party for future elections and create opportunities for young talent. This move comes after some members defected to support Ranil Wickremesinghe in the presidential race.
+
+🟩
+
+Its national organizer Namal Rajapakse has called on the Sri Lanka PA to re -join the Sri Lanka PA, with the representatives of provincial councils and local councils who have joined the Sri Lanka PA in the presidential election and joined the former President Ranil Wickremesinghe.
+
+Namal Rajapaksa added that steps will be taken to restore the party for the next general election and provide more opportunities to talented youth.. Remble
+
+◼️
+
+[Data](articles/65a6c00e.json)
+
+[Extended Data](ext_articles/65a6c00e.ext.json)
+
+---
+
+### Indian Vice Ambassador Sai Murali congratulates new Governor Nagalingam Vedanayaka
+
+*2024-09-27 23:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194955) · `ta`
+
+Indian Vice-Ambassador Sai Murali congratulates Governor Nagalingam Vedanayaka on new duties in Northern Province. Meeting discusses improving cooperation between India and Sri Lanka's North.
+
+🟩
+
+Indian Vice -Ambassador Sai Murali congratulated Governor Nagalingam Vedanayan, who has been responsible for the new duties in the Northern Province.
+
+Indian Ambassador to Jaffna Sai Murali met the Governor of the Northern Province at the Governor's Secretariat on Friday (27).
+
+During the meeting, it was reported that ways to improve the cooperation between India and the Northern Province of Sri Lanka in the North were discussed.
+
+◼️
+
+[Data](articles/fcc5fe9f.json)
+
+[Extended Data](ext_articles/fcc5fe9f.ext.json)
+
+---
 
 ### 62 million rupees
 
@@ -474,6 +516,28 @@ The new president has elected a new president voting for a change in the preside
 
 ---
 
+### Sri Lanka President appoints acting police chief after Supreme Court sacking of ex-IGP
+
+*2024-09-27 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-acting-police-chief-after-supreme-court-sacking-of-ex-igp-181373/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake appointed Senior DIG Priyantha Weerasuriya as the Acting Inspector General of Police (IGP), the President’s Media Division (PMD) said.
+
+The President’s Secretary Nandika Kumanayake presented the appointment letter to the Weerasuriya on Friday, the PMD said.
+
+Sri Lanka’s Supreme Court on July 24 suspended previous IGP Deshabandu Tennakoon from serving his office and suggested an acting appointment be made.
+
+The Supreme Court verdict on Tennekoon came after granting leave to proceed for nine fundamental rights petitions filed against his appointment as IGP.
+
+However, previous President Ranil Wickremesinghe did not appoint a successor as the Election Commission declared the presidential elections days after the court order.
+
+...
+
+[Data](articles/4ddff0d7.json)
+
+[Extended Data](ext_articles/4ddff0d7.ext.json)
+
+---
+
 ### The former ministers removed security
 
 *2024-09-27 18:06:43* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මැති-ඇමතින්ට-දී-තිබූ-ආරක්ෂාව-ඉවත්කරයි/11-412185) · `si`
@@ -513,6 +577,26 @@ Subsequently, a suspect from the gang has been arrested on the basis of a compla
 [Data](articles/92ce6a63.json)
 
 [Extended Data](ext_articles/92ce6a63.ext.json)
+
+---
+
+### Sri Lanka CB chief sees strong, more than expected 4-pct growth in 2024
+
+*2024-09-27 17:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-chief-sees-strong-more-than-expected-4-pct-growth-in-2024-181371/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 2024 economic growth will be stronger than the expected 4 percent due to increased economic activities, Central Bank Governor Nandalal Weerasinghe said.
+
+The Central Bank had originally projected 3 percent growth for this year against the International Monetary Fund’s expected expansion of 1.2 percent. The World Bank has projected Sri Lanka’s growth at 2,2 percent for this year, while the Asian Development Bank (ADB) has estimated at 2.6 percent.
+
+“We see more than expected growth in the second quarter,” Weerasinghe told reporters in Colombo at a media briefing on Friday (27) after maintaining the key policy rates steady.
+
+“Originally we projected 3 percent growth and last time we said the growth could be around 4 percent. But as per now, the annual growth could be more than that.”
+
+...
+
+[Data](articles/d1c2acbf.json)
+
+[Extended Data](ext_articles/d1c2acbf.ext.json)
 
 ---
 
@@ -625,6 +709,28 @@ Senior Deputy Inspector General of Police Priyantha Weerasuriya has been appoint
 [Data](articles/cac056f6.json)
 
 [Extended Data](ext_articles/cac056f6.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 298.70/299.00 to US dollar, bond yields down
+
+*2024-09-27 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-298-70-299-00-to-us-dollar-bond-yields-down-181347/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated further to close at 298.70/299.00 to the US dollar Friday, from 299.90/300.10 a day earlier, while bond yields were also down.
+
+A bond maturing on 15.12.2026 closed at 10.65/80 percent, down from 10.65/85 percent.
+
+A bond maturing on 15.12.2027 closed at 11.40/55 percent, down from 11.65/90 percent.
+
+A bond maturing on 15.02.2028 closed at 11.75/85 percent, down from 12.05/20 percent.
+
+A bond maturing on 15.05.2030 closed at 11.90/12.05 percent, down from 12.45/55 percent. (Colombo/Sep27/2024)
+
+◼️
+
+[Data](articles/26e2e9e7.json)
+
+[Extended Data](ext_articles/26e2e9e7.ext.json)
 
 ---
 
@@ -747,6 +853,30 @@ Mendis scored a huge hundred (182 not out in 250 deliveries). During his knock, 
 [Data](articles/a31727c7.json)
 
 [Extended Data](ext_articles/a31727c7.ext.json)
+
+---
+
+### Sri Lanka stocks close up after some volatility
+
+*2024-09-27 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-some-volatility-181334/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.87 percent, or 102.01 points, at 11,773; while the more liquid S&P SL20 Index closed up 0.76 percent, or 25.61 points, at 3,409.
+
+There was some volatility seen in late morning trade when the market dipped, before recovering to close the week in green.
+
+The CSE has closed up since last week’s ISB deal announcement and the presidential election over the weekend.
+
+Banking stocks continued to gain; Hatton National Bank was up at 203.75, Commercial Bank was up at 99.80, DFCC was up at 75.90, and NDB was up at 75.90. However, Sampath Bank was down at 77.00.
+
+Crossings took place on Access Engineering (up at 23.50), HNB, John Keells Holdings (up at 172.75), Hayleys Fabric (up at 51.00), and Aitken Spence (up at 124.00).
+
+...
+
+[Data](articles/bdb38df3.json)
+
+[Extended Data](ext_articles/bdb38df3.ext.json)
 
 ---
 
@@ -878,6 +1008,26 @@ Meanwhile, the suspect has been given an ornament of Rs 35,000 by the Chief Magi
 
 ---
 
+### Sri Lanka central bank to implement single policy rate by year end
+
+*2024-09-27 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-implement-single-policy-rate-by-year-end-181325/) · `en`
+
+ECONOMYNEXT – Sri Lanka will implement a single policy rate by the end of 2024, and consultations with market participants will begin soon, top central bank officials said.
+
+“We thought that it would be more transparent to communicate a single policy rate,” Central Bank Governor Nandalal Weerasinghe said.
+
+“Instead of two rates we thought it was better to be a single rate. Our Department of Economic Research and Operational Departments have don research within and also sought technical assistance from the International Monetary Fund on how other countries do it.”
+
+Assistant Governor Chandranath Amarasekera said stake holder consultations will begin soon and the single policy rate will be implemented before the end of the year.
+
+...
+
+[Data](articles/5f687f70.json)
+
+[Extended Data](ext_articles/5f687f70.ext.json)
+
+---
+
 ### Opening of the Northern High Security Zone streets for people's use will strengthen reconciliation
 
 *2024-09-27 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194929) · `ta`
@@ -1003,6 +1153,30 @@ He further announced that work on 11 stalled projects funded by the Japanese gov
 [Data](articles/8c3566c2.json)
 
 [Extended Data](ext_articles/8c3566c2.ext.json)
+
+---
+
+### UNFPA says 35-pct of Sri Lanka women lack access to contraception
+
+*2024-09-27 14:42:00* · [`economynextcom`](https://economynext.com/unfpa-says-35-pct-of-sri-lanka-women-lack-access-to-contraception-181310/) · `en`
+
+ECONOMYNEXT – A significant 35 percent of women of reproductive age in Sri Lanka have no access to any form of contraception, the UNFPA has said, despite the commendable progress made.
+
+“35% of women of reproductive age in Sri Lanka have no access to any form of contraception. 45% lack access to modern contraceptive methods. Despite the commendable progress made, the unmet need is significant,” UNFPA Representative in Sri Lanka Kunle Adeniyi said.
+
+In a World Contraception Day (Sep 26) message on social media platform X, Adeniyi encouraged people to reflect on the power of choice and the freedom it brings.
+
+“Access to contraception is not just about family planning — it’s about bodily autonomy, empowerment, and the health of all.”
+
+A condom is the only contraceptive that can prevent a pregnancy and reduce the spread of sexually transmitted infections. (UNFPA picture)
+
+Investing in contraception is investing in equality, in health, and in a better future for all, Adeniyi said.
+
+...
+
+[Data](articles/f940fc96.json)
+
+[Extended Data](ext_articles/f940fc96.ext.json)
 
 ---
 
@@ -1140,6 +1314,22 @@ The US dollar purchasing price was 295.3030 rupees and the sales price were 304.
 
 ---
 
+### ISB deals near completion if Sri Lanka proceeds with current DSA: central bank chief
+
+*2024-09-27 13:46:00* · [`economynextcom`](https://economynext.com/isb-deals-near-completion-if-sri-lanka-proceeds-with-current-dsa-central-bank-chief-181308/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s debt restructuring process has neared its end and a bond exchange can be expected in six to eight weeks after establishing comparability, if the government proceeds with the existing debt sustainability analysis (DSA), Central Bank Governor Nandalal Weerasinghe said.
+
+Responding to questions at the Central Bank’s monthly monetary policy review, Weerasinghe said it is up to the Ministry of Finance to decide on the DSA.
+
+“It is difficult to give an opinion on how it will proceed. Whether to renegotiate the DSA or targets is a decision up to the Ministry of Finance. We are not party to that. They must decide whether to proceed with the existing DSA and restructure debt or to renegotiate a new DSA. I cannot comment on that. The ministry must decide,” he said.
+
+...
+
+[Data](articles/c4c6901e.json)
+
+---
+
 ### Japan's 11 projects will be launched quickly
 
 *2024-09-27 13:31:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானின்-11-திட்டங்கள்-விரைவாக-ஆரம்பிக்கப்படும்/175-344579) · `ta`
@@ -1250,6 +1440,24 @@ President Anura Dissanayake has ordered the police to open the streets of Mawath
 
 ---
 
+### Sri Lanka Courts halt Thales-JIT passport deal
+
+*2024-09-27 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-courts-halt-thales-jit-passport-deal-181306/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Court of Appeal has halted the contract approved by the cabinet to buy 750,000 passports, until October 01, in a case filed alleging procurement irregularities.
+
+Courts halted the deal in which Thales DIS Finland OY, Just In Time Technologies (Pvt) Ltd, and IRIS Corporation Bhd, Malaysia were named petitioners.
+
+Public Security Minister Tiran Alles, who was in charge of the Department of Immigration and the entire cabinet at the time were named in the petition.
+
+The petitioner alleged that the procurement was irregular with change made to tender condition through addendum without enough time or clarifications. (Colombo/Sep17/2024 – Corrected – order till October 01)
+
+◼️
+
+[Data](articles/786b731e.json)
+
+---
+
 ### Those who say that they should stand alone and compete with the party will be disintegrating - Gnanamuthu Srinasan
 
 *2024-09-27 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194902) · `ta`
@@ -1313,6 +1521,22 @@ Meanwhile, former SJB MP Kabir Hashim has been appointed as the General Secretar
 [Data](articles/956c5b2f.json)
 
 [Extended Data](ext_articles/956c5b2f.ext.json)
+
+---
+
+### Former president’s backers want to form strong opposition, not govt: ex MP
+
+*2024-09-27 12:12:00* · [`economynextcom`](https://economynext.com/former-presidents-backers-want-to-form-strong-opposition-not-govt-ex-mp-181290/) · `en`
+
+ECONOMYNEXT — Former Sri Lanka Podujana Peramuna MP Premnath Dolawatte said the objective of the MPs that supported former President Ranil Wickremesinghe is not to form a government but to form a strong opposition.
+
+Speaking to reporters following a meeting between SLPP and other ex MPs who backed Wickremesinghe during the presidential election, Dolawatte said they do not intend to sabotage the new Janatha Vimukthi Peramuna (JVP)-led National People’s Power (NPP) government.
+
+“At this time, we wish to respect the people’s choice. The people will give the JVP the ability to govern. We must form a strong opposition. We don’t want to grab government power so that President Dissanayake finds it difficult to work. That’s not our aim. Our goal is to build a strong opposition and support the good things the government does and criticise the bad,” the former MP said.
+
+...
+
+[Data](articles/f17d855a.json)
 
 ---
 
@@ -1465,6 +1689,28 @@ The Ambassador to the Ambassador to the Sri Lanka Agrack on the final phase of t
 [Data](articles/3361ab5f.json)
 
 [Extended Data](ext_articles/3361ab5f.ext.json)
+
+---
+
+### Sri Lanka president to implement subsidy schemes of predecessor halted by election commission
+
+*2024-09-27 11:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-implement-subsidy-schemes-of-predecessor-halted-by-election-commission-181291/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new president Anura Dissanayake has instructed the treasury to provide an allowance of 25,000 rupees per hectare to paddy farmers for the Maha season of 2024/25.
+
+The subsidy will be deposited to farmers bank accounts starting October 1, the president’s media division said.
+
+Dissanayake  also directed the treasury to implement a fuel subsidy for the fishing community, effective October 1.
+
+This will be available on a monthly basis for both multi-day and one-day fishing vessels, and also be deposited into fishermen’s bank accounts.
+
+Former minister Kanchana Wijesekera said “It’s good to see that schemes approved, allocated funds through the treasury and initiated by President @RW_SRILANKA that was stopped by the election commission during the Presidential election recommencing under President @anuradisanayake.”
+
+The subsidy schemes were introduced as the previous government’s policy decisions in August 2024 with the allocation of funds through the treasury.
+
+...
+
+[Data](articles/c3523784.json)
 
 ---
 
@@ -2101,283 +2347,5 @@ Accordingly, it has been decided to maintain the sub -deposit rate and the subsi
 [Data](articles/b393f74e.json)
 
 [Extended Data](ext_articles/b393f74e.ext.json)
-
----
-
-### Sri Lanka’s official reserves reach USD 6 billion
-
-*2024-09-27 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102291/sri-lankas-official-reserves-reach-usd-6-billion) · `en`
-
-The Central Bank of Sri Lanka (CBSL) says it purchased a significant amount of foreign exchange from the domestic market to bolster the Gross Official Reserves (GOR).
-
-As of the end of August 2024, GOR stood at USD 6.0 billion, including the swap facility from the People’s Bank of China which is subject to conditionalities.
-
-◼️
-
-[Data](articles/9db4b52b.json)
-
-[Extended Data](ext_articles/9db4b52b.ext.json)
-
----
-
-### Size of the official foreign reserves of the country
-
-*2024-09-27 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201591) · `si`
-
-Sri Lanka's official foreign reserves: US$6.0 billion as of August 2024. Includes receipts from People's Bank. Central Bank purchases foreign exchange to boost economy.
-
-🟩
-
-The Central Bank of Sri Lanka announces that the number of official reserves in the country is US $ 6.0 billion in August 2024.
-
-It also includes receipts of foreign exchange exchange facilities from the People's Bank.
-
-The Central Bank of Sri Lanka has taken steps to purchase a significant number of foreign exchange from the local market to the increase in the growth of the Gor.
-
-◼️
-
-[Data](articles/22e6ca6f.json)
-
-[Extended Data](ext_articles/22e6ca6f.ext.json)
-
----
-
-### Increase rainfall across the country
-
-*2024-09-27 08:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-முழுவதும்-மழைவீழ்ச்சி-அதிகரிக்கும்/175-344571) · `ta`
-
-Increased rainfall forecasted nationwide due to atmospheric turbulence. Heavy showers expected in Western, Sabaragamuwa provinces and specific districts. Thunderstorms predicted in evening/night hours. Heavy rainfall warnings issued for several regions. Public advised to prepare for potential strong winds and lightning.
-
-🟩
-
-Rainfall is expected to increase across the country in the next few days from today (27).
-
-Due to the turbulence of the nearby atmosphere of Sri Lanka, the weather is expected to be expected.
-
-Accordingly, rain or thunderstorms are expected in the Western and Sabaragamuwa Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
-
-Heavy rainfall of 100 millimeters of heavy rainfall in some parts of Ratnapura, Kalutara, Galle and Matara districts.
-
-Rainfall or thunderstorms will occur in the evening or night in other parts of the country.
-
-In some parts of the Northern, North Central, Eastern and Central Provinces, 75 millimeters of heavy rainfall is possible.
-
-The Department of Meteorology has requested the general public to take necessary steps to reduce the dangers of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/7ecd62f5.json)
-
-[Extended Data](ext_articles/7ecd62f5.ext.json)
-
----
-
-### Central Bank maintains policy interest rates
-
-*2024-09-27 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102290/central-bank-maintains-policy-interest-rates) · `en`
-
-The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank at their current levels of 8.25 per cent and 9.25 per cent, respectively.
-
-The Board arrived at this decision, at its meeting held on 26 September 2024, after carefully considering the recent and expected macroeconomic developments and possible risks and uncertainties on the domestic and global fronts with a view to ensuring that inflation aligns with the target of 5 per cent over the medium term, while enabling the economy to reach its maximum potential, the statement said.
-
-The Board observed that inflation is likely to remain well below the target of 5 per cent over the next few quarters, potentially recording deflation in the immediate future driven by changes to administratively determined prices and easing of supply conditions, the central bank said.
-
-◼️
-
-[Data](articles/5a283698.json)
-
-[Extended Data](ext_articles/5a283698.ext.json)
-
----
-
-### The latest decision of the Central Bank
-
-*2024-09-27 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201590) · `si`
-
-Central Bank maintains Regular Deposit Facility Rate and Regular Credit Facility Rate at current policy interest rate levels. Permanent Deposit Facility Rate is 8.25%, while Permanent Credit Facility Rate is 9.25%.
-
-🟩
-
-Regular Deposit Facility (SDFR) and Regular Credit Facility Rates The SDFR and Regular Credit Facility (Slfr) has been maintained at the current levels of the Central Bank's policy interest rate.
-
-Accordingly, the Permanent Deposit Facility Rate and the Permanent Credit Facility Rates 8.25 percent respectively and 9.25% respectively.
-
-◼️
-
-[Data](articles/8dcfae36.json)
-
-[Extended Data](ext_articles/8dcfae36.ext.json)
-
----
-
-### Don Bradman's report, Kaminda's 5th century, what is the test records found?
-
-*2024-09-27 07:51:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgk7dlmzzg3o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Don Bradman's report, Kaminda's 5th century, test records found. Kumindu Mendis sets world record scoring centuries in two innings. Collaborates with Dhananjaya de Silva in multiple records. Born in Galle, 1998. Awarded best cricketer in March 2023. Currently playing 8th Test, scoring 822 runs in first 7 matches.
-
-🟩
-
-Don Bradman's report, Kaminda's 5th century, what is the test records found?
-
-New players who play in their 8th Test series were recorded by the 5th century.
-
-It was on the second day of the second Test in Galle against New Zealand.
-
-He joined his wedding match and joined the third fast tests to the third fast tests. He did in 13 in 13 innings and did the Donald Bradman and George Headley. The batsmen scored at least five centuries in a large number of 18 centuries.
-
-It was covered with over 50 runs in the eight points they attended.
-
-Accordingly, he set a world record that each match was played over 50 runs in every match in the highest number of matches.
-
-This world record has previously been casident, Pakistani players Shawudkyl. He was set up in the first 7 runs and set up the world record.
-
-Kamindu Mendis was able to set up a report that no one had ever been set up yet.
-
-Who is the Kimiddi Mendis, which was unique records in Test history of 147 years?
-
-...
-
-[Data](articles/e5f95a2d.json)
-
-[Extended Data](ext_articles/e5f95a2d.ext.json)
-
----
-
-### President's Wage Support World Bank
-
-*2024-09-27 07:47:52* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අනුරට-ලෝක-බැංකුවේ-සහාය/11-412177) · `si`
-
-World Bank appoints 9th Sri Lanka president. Vice President Martin Risar and IMF Asia-Pacific chair Ricardo Puebla support economic growth and development. Committed to serving vulnerable communities and achieving goals under new administration.
-
-🟩
-
-The World Bank Group has been appointed as the 9th Executive President of Sri Lanka.
-
-The Vice President of the South Asian region of the World Bank, Mr. Martin Risar and the International Monetary Corporation Asian and Pacific Vice Chairman Reikardo Puek.
-
-The letter states that it is equally important for economic growth, prosperity and development when it comes to state the economy of the country again.
-
-The letter states that the World Bank Group is committed to the leadership of the new administration in Sri Lanka to meet the needs of the most vulnerable community in the country as well as to achieve all.
-
-◼️
-
-[Data](articles/0d793515.json)
-
-[Extended Data](ext_articles/0d793515.ext.json)
-
----
-
-### Baidan congratulates President Anura
-
-*2024-09-27 07:45:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அநுரவுக்கு-பைடன்-வாழ்த்து/175-344570) · `ta`
-
-Here's a 200-character summary:
-
-
-
-US President Joe Biden congratulates Sri Lanka's President-elect Anura Kumara Dissanayake on his victory in the presidential election.
-
-🟩
-
-US President Joe Biden congratulates President Anura Kumara Dissanayake who won the presidential election. (A)
-
-◼️
-
-[Data](articles/5c671206.json)
-
-[Extended Data](ext_articles/5c671206.ext.json)
-
----
-
-### World Bank congratulates President
-
-*2024-09-27 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201589) · `si`
-
-World Bank congratulates President Anura Kumara Dissanayake on Sri Lanka's economic recovery. Supports new administration's efforts to meet vulnerable communities' needs and achieve development goals.
-
-🟩
-
-The World Bank has joined the World Bank to President Anura Kumara Dissanayake.
-
-The Vice President of the South Asian region of the World Bank, the Asian Asia, Asia, Asia and the International Finance Corporation, and the Vice President of the Asian and Pacific Corporation, Sri Lanka's economic recovery and development has been ensured that Sri Lanka's economic recovery and development is being supported by the President.
-
-The article has said that it is committed to the leadership of the new administration of the new administration in Sri Lanka to meet the needs of the most vulnerable community in the country as well as achieving everything.
-
-◼️
-
-[Data](articles/df22171d.json)
-
-[Extended Data](ext_articles/df22171d.ext.json)
-
----
-
-### Sri Lanka deflation possible near term, rates unchanged: Central Bank
-
-*2024-09-27 07:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-possible-near-term-rates-unchanged-central-bank-181200/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank said it was holding policy rates at the current 8.25 to 9.25 percent levels, with the price index likely to head down in the near future.
-
-“The Board observed that inflation is likely to remain well below the target of 5 per cent over the next few quarters, potentially recording deflation in the immediate future driven by changes to administratively determined prices and easing of supply conditions,” the central bank said giving ‘cost-push’s style reasons.
-
-“Accordingly, the latest projections confirm that headline inflation is likely to be below the target by a notable margin in the forthcoming months while core inflation is projected to remain around the current levels on average.”
-
-However other analysts have pointed out that the central bank has operated deflationary monetary policy since late 2022 and also allowed the exchange rate to appreciate, (a strong external anchor)providing exceptional monetary stability helping keep prices down.
-
-...
-
-[Data](articles/e7e51aaa.json)
-
-[Extended Data](ext_articles/e7e51aaa.ext.json)
-
----
-
-### Care about Sri Lankans in Lebanon
-
-*2024-09-27 07:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனானில்-உள்ள-இலங்கையர்-தொடர்பில்-அவதானம்/175-344569) · `ta`
-
-Sri Lanka focuses on citizens' safety in Israel and Lebanon amid conflict. Embassies monitor situations closely. Efforts underway to protect Sri Lankans in war zones.
-
-🟩
-
-The Sri Lankan government is reportedly focusing on the safety of Sri Lankans in Israel and Lebanon.
-
-Following the current war situation, the Ministry of External Affairs has stated that the Sri Lankan embassies in Beirut and Tel Aviv are engaged in surveillance.
-
-It is also reported that Sri Lankans in the war are underway. (A)
-
-◼️
-
-[Data](articles/047dc9da.json)
-
-[Extended Data](ext_articles/047dc9da.ext.json)
-
----
-
-### The new government is more likely to education
-
-*2024-09-27 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201588) · `si`
-
-New government increases education funding. Prime Minister Dr. Harini Amarasuriya allocates more resources. Officials advised to address public skepticism about Ministry of Education and Department of Examinations. Department of Examinations officials to release soon. Politicians banned from school festivals.
-
-🟩
-
-Prime Minister Dr. Harini Amarasuriya said the government has decided to allocate an increased allocation for the education of the education.
-
-The Prime Minister further stated that the officials advised the officials to take necessary action to prevent the unbelief in the people regarding the Ministry of Education and the Department of Examinations.
-
-The Prime Minister also instructed the officials of the Department of Examinations to be released soon.
-
-The Secretary to the Prime Minister's Secretariat was announced to immediately stop importing politicians for school festivals.
-
-◼️
-
-[Data](articles/5b84b986.json)
-
-[Extended Data](ext_articles/5b84b986.ext.json)
 
 ---

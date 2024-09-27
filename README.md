@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 06:07:58**
+As of **2024-09-27 06:43:44**
 
 ## Newspaper Stats
 
-*Scraped **46,514** Articles*
+*Scraped **46,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 387
 bbccomsinhala | 457
 colombotelegraphcom | 462
-islandlk | 2,724
+islandlk | 2,730
 economynextcom | 2,824
 dailyftlk | 3,110
 adalk | 4,292
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,466
 tamilmirrorlk | 6,234
 virakesarilk | 7,434
-adaderanasinhalalk | 8,028
+adaderanasinhalalk | 8,029
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,503 (100.0%) of 46,514 articles have been extended.
+46,505 (100.0%) of 46,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Heavy rains today
+
+*2024-09-27 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201584) · `si`
+
+Heavy rains today, more expected next few days. Meteorology warns of low atmosphere development causing thundershowers in western and central regions. Thunderstorms may bring strong winds and lightning. Public advised to prepare for potential damage.
+
+🟩
+
+In the next few days, there is an expectation of rainy industry from the next few days.
+
+The Department of Meteorology points out that these showers are expected due to the development of the lower atmosphere.
+
+Thundershowers showers or thundershowers at times in the Western and Sabaragamuwa provinces.
+
+Some parts of Ratnapura, Kalutara, Galle and Matara districts. Heavy rain falls around 100.
+
+Thundershowers will develop at several places in the evening or night in the evening of the island.
+
+MM to some places in the North, North Central, East and Central provinces. There may be a tight collapse than 75.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/66e1a65f.json)
+
+[Extended Data](ext_articles/66e1a65f.ext.json)
+
+---
 
 ### It is possible to rain today
 
@@ -117,6 +147,8 @@ President Anura Kumara Dissanayake has taken over at a crucial time. Sri Lanka d
 ...
 
 [Data](articles/efe5b825.json)
+
+[Extended Data](ext_articles/efe5b825.ext.json)
 
 ---
 
@@ -468,6 +500,20 @@ SMFL’s sponsorship is a testament to its commitment to excellence and eagernes
 
 ---
 
+### HNBGI Chief Transformation Officer Dilshan Perera recognized at Sri Lanka Leadership Awards 2024
+
+*2024-09-27 03:17:00* · [`islandlk`](http://island.lk/hnbgi-chief-transformation-officer-dilshan-perera-recognized-at-sri-lanka-leadership-awards-2024/) · `en`
+
+Dilshan Perera, Chief Transformation Officer/General Manager at HNB General Insurance, was recognized at the Sri Lanka Leadership Awards 2024. This accolade honors his contributions to brand building, corporate leadership and innovation, highlighting a remarkable career spanning multiple industries.
+
+In his current role at HNB General Insurance, Dilshan Perera plays a pivotal role in driving the company’s transformation journey. His leadership has been instrumental in integrating innovative technologies and customer centric strategies, shaping the company’s future in a competitive marketplace.
+
+...
+
+[Data](articles/c0f49218.json)
+
+---
+
 ### Unilever Sri Lanka emerges No.1 Employer of Choice for the 12th consecutive year among undergraduates
 
 *2024-09-27 03:16:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-emerges-no-1-employer-of-choice-for-the-12th-consecutive-year-among-undergraduates/) · `en`
@@ -479,6 +525,22 @@ The annual Employer of Choice survey gauges the preferences of undergraduate stu
 ...
 
 [Data](articles/34a320f3.json)
+
+---
+
+### All’s well! Hope the new situ proceeds well and smoothly
+
+*2024-09-27 02:32:00* · [`islandlk`](http://island.lk/alls-well-hope-the-new-situ-proceeds-well-and-smoothly/) · `en`
+
+All’s well! What’s so well? Why the country, Stupid! The ‘being well’ has many angles to it.
+
+One:the presidential election worked out smoothly with very few reports of misbehaviour and no violence.
+
+Do you recall what utter consternation and fear and doubt even Ordinaries suffered at the end of the 2010 prez election held on January 26 when Prez MR sought a fresh mandate prior to the expiry of his six year term in 2011? He contested from the UPFA and his main opponent was General Sarath Fonseka, supported by the UNP and JVP. The General and his closest coterie spent the night in a hotel fearing for their safety; Violence did not end there – Fonseka was physically dragged to prison a few days later on trumped up charges, it was said. This after he won the civil war for the country, and reeived highest accolkatess from the Brothers R: Mahinda – Prez and Gotabaya – Defence Secretary.
+
+...
+
+[Data](articles/5b0ae7de.json)
 
 ---
 
@@ -2219,73 +2281,5 @@ Speaking at the meeting, the leader of the Motherland People's Party, entreprene
 [Data](articles/15e787a4.json)
 
 [Extended Data](ext_articles/15e787a4.ext.json)
-
----
-
-### Sufficient fuel reserves available for national consumption – officials inform President
-
-*2024-09-26 16:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102280/sufficient-fuel-reserves-available-for-national-consumption-officials-inform-president) · `en`
-
-Officials from the Ministry of Power and Energy have informed President Anura Kumara Dissanayake that the country currently has sufficient fuel reserves to meet consumption needs, the President’s Media Division (PMD) reported.
-
-The President stressed the importance of maintaining these reserves to ensure uninterrupted fuel availability for the public and urged officials to efficiently plan for fuel procurement for the upcoming year. The President further assured his full support in facilitating these efforts, the statement said.
-
-During the meeting held today (26) with Ministry officials, President Dissanayake directed them to devise a plan for distributing solar panels, received through Indian aid, to 800 Piriven. He emphasized the need for a clear roadmap from the Ministry to ensure smooth implementation of this initiative.
-
-...
-
-[Data](articles/3a468fb4.json)
-
-[Extended Data](ext_articles/3a468fb4.ext.json)
-
----
-
-### AMPMP of Rural, Urban Development, Housing and Construction Ministry. Appointment!
-
-*2024-09-26 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/194845) · `ta`
-
-New Secretary appointed to Ministry of Rural, Urban Development, Housing and Construction. He has extensive experience in Treasury and previously served as Senior Superintendent. Also serves as Secretary to Ministry of Commerce and Food Security. Holds degrees from local and international universities.
-
-🟩
-
-The new secretary of the Ministry of Rural and Urban Development, Housing and Construction took over his post.
-
-AMPMP of the Ministry of Rural and Urban Development, Housing and Construction. At the office of his office in Sethsiripaya, Battaramulla, on Wednesday (25).
-
-He has had more than 26 years of service experience in different categories of the Treasury and has previously served as the president's senior superintendent.
-
-He is also the Secretary to the Ministry of Commerce and Food Security.
-
-He holds the Degree of Management of the University of Jayawardenapura, the Degree on the International Development of the University of Filinders, Australia, Diploma in the Degree of the Economic Development of the University of Colombo, and the Development Economic Institute of Japan Development Economic Institute.
-
-◼️
-
-[Data](articles/5d676ad4.json)
-
-[Extended Data](ext_articles/5d676ad4.ext.json)
-
----
-
-### Sri Lanka calls for workers to go to warring Israel
-
-*2024-09-26 15:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-calls-for-workers-to-go-to-warring-israel-181122/) · `en`
-
-ECONOMYNEXT – The Sri Lanka Bureau of Foreign Employment is calling for its citizens to register for construction jobs in Israel, even as the bellicose state continues bombing Lebanon and the occupied Palestine territory of Gaza.
-
-An announcement on the government department of information website posted on Thursday (26) called for skilled wire benders, tile masons, shuttering carpenters, plaster masons, aged between 25-44 years, with valid passports to apply immediately.
-
-The Foreign Employment Bureau has advertised jobs in several Israeli sectors, including hotel and agriculture, on its website.
-
-Israel is conducting attacks on the occupied Palestinian territories of Gaza and the West Bank, and Lebanon in its north. It has also bombed Syria.
-
-Foreign media say the threat of a full scale regional war is real.
-
-Sri Lanka’s Ministry of Foreign Affairs said earlier that its mission in Tel Aviv was on alert to ensure the safety of citizens there.
-
-...
-
-[Data](articles/1d3246be.json)
-
-[Extended Data](ext_articles/1d3246be.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 00:38:27**
+As of **2024-09-28 00:55:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,651 (100.0%) of 46,655 articles have been extended.
+46,653 (100.0%) of 46,655 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -162,6 +162,8 @@ As the Secretary-General has said, “We cannot create a future fit for our gran
 
 [Data](articles/d6d64ca0.json)
 
+[Extended Data](ext_articles/d6d64ca0.ext.json)
+
 ---
 
 ### The power of the cross and a crossover in power styles
@@ -179,6 +181,8 @@ Rest assured that those ramifications are being felt in nation, state, country, 
 ...
 
 [Data](articles/47b4e3bf.json)
+
+[Extended Data](ext_articles/47b4e3bf.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 02:22:26**
+As of **2024-09-28 02:56:46**
 
 ## Newspaper Stats
 
-*Scraped **46,663** Articles*
+*Scraped **46,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,128
 adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,485
-tamilmirrorlk | 6,255
+tamilmirrorlk | 6,256
 virakesarilk | 7,459
 adaderanasinhalalk | 8,057
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,663 (100.0%) of 46,663 articles have been extended.
+46,664 (100.0%) of 46,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Focus on minority minorities
+
+*2024-09-28 02:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுபான்மையினர்-தொடர்பில்-கவனம்-செலுத்தவும்/175-344603) · `ta`
+
+Sri Lanka Muslim Media War congratulates Vijitha Heram as new media minister. Requests board appoints media companies focusing on minority representation. Leader appeals for minority inclusion in key positions. Emphasizes cooperation for better media culture and welfare of minority groups.
+
+🟩
+
+The Sri Lanka Muslim Media War has congratulated Vijitha Heram, the new media minister of the government headed by President Anura Kumara Dissanayake.
+
+In addition, the Media Forum has requested that the Board of Directors appoint to the media companies under the Ministry of Media and focus on minority representation.
+
+In this regard, its leader and senior journalist on behalf of the Sri Lankan Muslim Media War. M.. In a congratulatory letter sent to Amina Media Minister, he said,
+
+When the Director of Directors of the Ministry of Media Rupavahini Corporation, Independent Television Service, Sri Lanka Broadcasting Corporation and Lake House appoints, we appeal to the minority representation with the representation of the minority people.. This is because I would like to point out that these were not focused when such appointments were made in the past.
+
+...
+
+[Data](articles/4a79ff92.json)
+
+[Extended Data](ext_articles/4a79ff92.ext.json)
+
+---
 
 ### NDB Bank achieves historic milestone as first Sri Lankan bank to reach 100,000 YouTube subscribers
 
@@ -2205,25 +2229,5 @@ President Anuragumara Dissanayake has been released after his duties have been r
 [Data](articles/426ddb37.json)
 
 [Extended Data](ext_articles/426ddb37.ext.json)
-
----
-
-### AG to file contempt charges against ex-SDIG Nilantha Jayawardana
-
-*2024-09-27 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102296/ag-to-file-contempt-charges-against-ex-sdig-nilantha-jayawardana-) · `en`
-
-The Attorney General today informed the Supreme Court that contempt of court charges will be filed against former Senior DIG and head of the State Intelligence Service (SIS), Nilantha Jayawardana, for failing to pay the Rs. 75 million in compensation for the Easter Sunday bomb victims as ordered by the court.
-
-Accordingly, the Supreme Court has ordered him to appear before the court on October 07.
-
-On January 12, 2023, the Supreme Court found that former President Sirisena, former Defence Secretary Hemasiri Fernando, former IGP Pujith Jayasundara, former National Intelligence Chief Sisira Mendis and former Chief of State Intelligence Nilantha Jayawardena have violated the Fundamental Rights of petitioners, by failing to take action to prevent the Easter Sunday attacks despite receiving sufficient intelligence information.
-
-As a result, they were ordered to pay compensation to the victims of the Easter Sunday attacks.
-
-...
-
-[Data](articles/ef8947b6.json)
-
-[Extended Data](ext_articles/ef8947b6.ext.json)
 
 ---

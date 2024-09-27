@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 16:38:50**
+As of **2024-09-27 16:56:39**
 
 ## Newspaper Stats
 
-*Scraped **46,598** Articles*
+*Scraped **46,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,480
 tamilmirrorlk | 6,248
 virakesarilk | 7,449
-adaderanasinhalalk | 8,048
+adaderanasinhalalk | 8,050
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,598 (100.0%) of 46,598 articles have been extended.
+46,600 (100.0%) of 46,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Another exclusive report from Komin
+
+*2024-09-27 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201607) · `si`
+
+Sri Lanka vs New Zealand: Kamindu Mendis shines in 2nd Test. He scored 1200+ runs in 13 Tests, including 4 half-centuries and 5 centuries. Dhananjaya de Silva led Sri Lanka to 602 runs in the first innings, with Kumara Gunaratne (182*) and Kusal Mendis (106) adding 200+ runs for the 6th wicket.
+
+🟩
+
+Between Sri Lanka and New Zealand, Kamindu Mendis was able to set an exceptional Test report in the second Test.
+
+In the lowest innings of the Test runs in the lowest, the world's priority was compared to the third Test.
+
+He has played 13 Test Irum, and he scored 4 half centuries and 1,2002 runs with five centuries.
+
+Leader Dhananjaya de Silva decided to complete the innings of Sri Lanka.
+
+At that time, the Sri Lankan team scored 602 runs for the loss of 5 wickets for their first innings.
+
+KUML (182 not out) and Kusal Mendis (106 out) had added 200 points for the 6th wicket.
+
+◼️
+
+[Data](articles/a9d77673.json)
+
+[Extended Data](ext_articles/a9d77673.ext.json)
+
+---
+
+### A case against Mahindananda and Nalin fails
+
+*2024-09-27 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201606) · `si`
+
+Case against Mahindananda Aluthgamage and Nalin Fernando fails. Bribery allegations dismissed. High Court judges order summary judgment. Case promoted to Court of Appeal due to judge promotion. Accused of purchasing karamobods worth Rs. 53 million in 2015 presidential election.
+
+🟩
+
+Bribery Minister Mahindananda New Gamage and former Minister of Sports Nalin Fernando, who has been accused of purchasing over Rs.The three-member High Courts, Colombo ordered the summy.
+
+The case was heard before the Bench, High Court of Justice Amal Ranarajah, Pradeep Hettiarachchi and Mahein Weeraman.
+
+The case was a promotion to the Court of Appeal, as a judge of the Judge Amal Ranaraja has been promoted to the Court of Appeal, as a result of a promotion to the Court of Appeal.
+
+Former Sports Minister Mahindananda Aluthgamage and former Trade Minister has been accused of purchasing 14,000 karamobods worth Rs. 53 million in the 2015 presidential election.The case has been filed against Nalin Fernando.
+
+◼️
+
+[Data](articles/6eb92e19.json)
+
+[Extended Data](ext_articles/6eb92e19.ext.json)
+
+---
 
 ### Super Century from Kusal
 
@@ -2185,39 +2237,5 @@ SATA, an annual event, celebrates the best of South Asia’s hospitality and tra
 [Data](articles/68d4bcf9.json)
 
 [Extended Data](ext_articles/68d4bcf9.ext.json)
-
----
-
-### Siyapatha Finance posts steady growth in 1st half 2024
-
-*2024-09-27 03:31:00* · [`islandlk`](http://island.lk/siyapatha-finance-posts-steady-growth-in-1st-half-2024/) · `en`
-
-Siyapatha Finance PLC recently posted a steady financial growth for the first half ended 30 June 2024. The company recorded a Profit After Tax (PAT) of Rs.513 Million indicating a 189% increase compared to the corresponding period last year, while the Profit Before Tax (PBT) grew by 133% compared to the preceding year and stood at Rs.1,215 Million.
-
-During the period, Net Interest Income (NII) saw a notable upsurge of 70.0% to reach Rs.2,078 Million compared to Rs.1,223 Million recorded during the previous year – an increase fundamentally attributed to the significant decrease in interest expenses as at 30 June 2024.
-
-The company posted a Return on Assets (ROA) and Return on Equity (ROE) of 4.35% and 13.29%, respectively, while maintaining a Cost-to-Income Ratio of 55.59%, reflecting a positive movement of 13.93% compared to the same period in the previous year.
-
-...
-
-[Data](articles/5215ca8f.json)
-
-[Extended Data](ext_articles/5215ca8f.ext.json)
-
----
-
-### CSE bull run continues; turnover hits Rs 4.3 billion
-
-*2024-09-27 03:29:00* · [`islandlk`](http://island.lk/cse-bull-run-continues-turnover-hits-rs-4-3-billion/) · `en`
-
-The stock market, though bullish in the extreme at the outset yesterday showed signs of losing steam by the middle of the day owing to month-end profit- takings but bounced back at the end of the session, market analysts said.
-
-The conclusion of the debt restructuring exercise and the IMF’s willingness to negotiate with the government boosted the market, which touched Rs 4.3 billion in turnover, helped by major crossings. It was the highest turnover to be reported over the past several trading days.
-
-...
-
-[Data](articles/0ce2753f.json)
-
-[Extended Data](ext_articles/0ce2753f.ext.json)
 
 ---

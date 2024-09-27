@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 14:38:42**
+As of **2024-09-27 14:57:26**
 
 ## Newspaper Stats
 
-*Scraped **46,586** Articles*
+*Scraped **46,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,830
 dailyftlk | 3,110
-adalk | 4,297
+adalk | 4,298
 dailymirrorlk | 4,733
-adaderanalk | 5,477
+adaderanalk | 5,478
 tamilmirrorlk | 6,248
 virakesarilk | 7,444
 adaderanasinhalalk | 8,045
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,045
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,586 (100.0%) of 46,586 articles have been extended.
+46,588 (100.0%) of 46,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Over 38,000 dengue cases reported so far in 2024
+
+*2024-09-27 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102300/over-38000-dengue-cases-reported-so-far-in-2024) · `en`
+
+The National Dengue Control Unit (NDCU) states that the number of dengue cases reported in the country has exceeded 38,000 so far this year.
+
+Consultant Community Physician at the National Dengue Control Unit, Dr. Anoja Dheerasinghe reported that a significant number of cases have been recorded, particularly in the districts of Colombo, Gampaha, and Kalutara.
+
+“Necessary measures are being taken to reduce this number in the future. In addition to Colombo, Kalutara, and Gampaha, a high number of cases have also been reported in the districts of Kandy, Galle, Matara, Kurunegala, Kegalle, and Ratnapura in recent weeks,” she said.
+
+◼️
+
+[Data](articles/bd6cd532.json)
+
+[Extended Data](ext_articles/bd6cd532.ext.json)
+
+---
 
 ### Celebration of "World Tourism Day" at Katunayake Airport
 
@@ -143,6 +161,28 @@ Accordingly, Kandy City Water Management Program, Bandaranaike International Air
 [Data](articles/de478967.json)
 
 [Extended Data](ext_articles/de478967.ext.json)
+
+---
+
+### New President summoned armed forces
+
+*2024-09-27 13:08:55* · [`adalk`](https://www.ada.lk/breaking_news/නව-ජනාධිපති-සන්නද්ධ-හමුදා-කැඳවයි/11-412182) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake summons armed forces under Section 12 of the People's Security Act to maintain public peace across all administrative districts.
+
+🟩
+
+President Anura Kumara Dissanayake has issued an armed forces called to maintain public peace in all the administrative districts of the country.
+
+The President released the Extent Gazette notification of the Sri Lanka Navy and all the members of the Sri Lanka Air Force (SLAF) with the operation of the Sri Lanka Navy and all members of the Sri Lanka Air Force (26).
+
+The armed forces have been called in accordance with the powers vested in Section 12 of the People's Security Act.
+
+◼️
+
+[Data](articles/69010619.json)
+
+[Extended Data](ext_articles/69010619.ext.json)
 
 ---
 
@@ -653,8 +693,6 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
-
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 
@@ -2183,61 +2221,5 @@ Eve Wolland scored 23 runs, Isabel Sharp 22 and Darcy Rose Prasad scored 18 runs
 [Data](articles/5e2b3fd8.json)
 
 [Extended Data](ext_articles/5e2b3fd8.ext.json)
-
----
-
-### Competition of all opposition parties in the same symbol?
-
-*2024-09-27 00:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-எதிர்க்கட்சிகளும்-ஒரே-சின்னத்தில்-போட்டி/175-344563) · `ta`
-
-Discussion on general election strategy between PA and UNP leaders. Parties considering joint participation but symbol decision pending. Former PMs and MPs present.
-
-🟩
-
-A discussion on the upcoming general election was held in Colombo yesterday (26) under the leadership of former President Ranil Wickremesinghe.
-
-The discussions took place between the PA and the United National Party (UNP) leaders who supported the former president in the presidential election.
-
-Commenting on this, former United National Party (UNP) parliamentarian Asu Marasinghe said the United National Party (UNP) talks with the United People's Power were favorable to contest the general election.
-
-He said that everyone should contest the general election.
-
-Meanwhile, former Member of Parliament of the PA. P. Dissanayake said that the party and the symbol will be decided later, although the demand for the election as a single party is sure.
-
-Former members of the PA, led by former Prime Minister Dinesh Gunawardena and UNP officials led by United National Party (UNP) representative Ruwan Wijayawardena participated in the discussion.. Remble
-
-◼️
-
-[Data](articles/ab687a7e.json)
-
-[Extended Data](ext_articles/ab687a7e.ext.json)
-
----
-
-### AFC Asian Bowl Qualification (E. Group) under 20
-
-*2024-09-27 00:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194876) · `ta`
-
-Sri Lankan youth football team suffers heavy defeat in AFC Asian Bowl qualifiers, losing all 3 matches 0-4, 0-3, 0-3. Critics call for changes including goalkeeper replacement and reducing squad size.
-
-🟩
-
-The Sri Lankan youth team has suffered the worst defeats in the Asian Football Joint Federation (AFC) Asian Bowl qualifying round in Tajikistan.
-
-Sri Lanka has given 12 goals to the opponents in the 3 matches they played in the E. Group. But there was no goal on behalf of Sri Lanka.
-
-Although others continue to play in these three matches, they have not been able to make any progress.
-
-Sri Lankan instructor Rajamani Devasakayam, who has lost the chance to go to the next round, will be welcomed if they give the players a chance to the players in the seat so far.
-
-It is good for the instructor to think about giving a new goalkeeper opportunity as goalkeeper Ahmed Sharif has given up 12 goals. Football critics say there is no justification for taking 22 players and keeping some of them as mere spectators.
-
-Sri Lanka lost 0 - 4 in the first match with North Korea, 0 - 3 in Tajikistan and 0 - 3 in the third match yesterday.
-
-...
-
-[Data](articles/f6a4cd10.json)
-
-[Extended Data](ext_articles/f6a4cd10.ext.json)
 
 ---

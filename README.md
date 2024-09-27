@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 17:07:54**
+As of **2024-09-27 17:22:49**
 
 ## Newspaper Stats
 
-*Scraped **46,601** Articles*
+*Scraped **46,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,830
 dailyftlk | 3,110
 adalk | 4,298
 dailymirrorlk | 4,733
-adaderanalk | 5,481
+adaderanalk | 5,482
 tamilmirrorlk | 6,248
 virakesarilk | 7,449
 adaderanasinhalalk | 8,050
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,600 (100.0%) of 46,601 articles have been extended.
+46,602 (100.0%) of 46,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Priyantha Weerasooriya appointed Acting IGP
+
+*2024-09-27 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102306/priyantha-weerasooriya-appointed-acting-igp) · `en`
+
+Senior DIG Priyantha Weerasooriya has been appointed as the Acting Inspector General of Police (IGP).
+
+◼️
+
+[Data](articles/457a243a.json)
+
+[Extended Data](ext_articles/457a243a.ext.json)
+
+---
 
 ### Kamindu Mendis becomes joint-third fastest to 1000 Test runs, goes level with Don Bradman
 
@@ -49,6 +63,8 @@ Mendis scored a huge hundred (182 not out in 250 deliveries). During his knock, 
 ...
 
 [Data](articles/a31727c7.json)
+
+[Extended Data](ext_articles/a31727c7.ext.json)
 
 ---
 
@@ -993,6 +1009,8 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
+
+Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 
@@ -2223,23 +2241,5 @@ Be it exploring the lush tea plantations of the hill country, soaking up the sun
 [Data](articles/708f16f8.json)
 
 [Extended Data](ext_articles/708f16f8.ext.json)
-
----
-
-### Sri Lanka’s organic food in high demand in UK – H.C. Andrew Patrick
-
-*2024-09-27 03:34:00* · [`islandlk`](http://island.lk/sri-lankas-organic-food-in-high-demand-in-uk-h-c-andrew-patrick/) · `en`
-
-Sri Lanka could easily export organic food, ayurvedic products and pet food to the UK market, where there is a huge demand for them, British High Commissioner to Sri Lanka Andrew Patrick said.
-
-‘We are quite confident with the government and it must mainly focus on the growth of the economy and national security for the wellbeing of the country. If Sri Lanka focuses on exporting the mentioned products, it would be helpful to maintain the balance of trade between two countries, High Commissioner Patrick said as a guest speaker at a Rotary International joint meeting held at the Hilton recently.
-
-The event was organised by four Rotary Clubs, namely, Rotary Club Colombo Fort , Rotary Club Colombo South, Rotary Club Colombo Midcity and Rotary Club Colombo North. Rotary International District Governor Sushena Ranathunga also attended the event.
-
-...
-
-[Data](articles/1a2e0f56.json)
-
-[Extended Data](ext_articles/1a2e0f56.ext.json)
 
 ---

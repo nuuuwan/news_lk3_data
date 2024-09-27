@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 09:12:08**
+As of **2024-09-27 09:23:22**
 
 ## Newspaper Stats
 
-*Scraped **46,537** Articles*
+*Scraped **46,538** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 4,293
 dailymirrorlk | 4,733
 adaderanalk | 5,468
 tamilmirrorlk | 6,240
-virakesarilk | 7,434
+virakesarilk | 7,435
 adaderanasinhalalk | 8,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,537 (100.0%) of 46,537 articles have been extended.
+46,538 (100.0%) of 46,538 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Eleven people arrested for excavation
+
+*2024-09-27 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194885) · `ta`
+
+11 arrested for illegal gem excavation in Sri Lanka. Ages 27-67. Equipment seized. Case filed. Investigation ongoing.
+
+🟩
+
+11 people who were involved in gem excavation were arrested yesterday evening (26) evening, police said.
+
+The police said that the Uri Gardens Factory between the ages of 27 and 67 has been arrested.
+
+11 persons have been arrested when they went to the area for confidential information available to the police for illegally excavation in the Paraghakandura area of ​​Pasarai Udagama Paragandura area without permission.
+
+Police said some more equipment, including the stone breaking machine used for gem excavation, has been seized.
+
+Further, steps have been taken to file a case against the suspects and the further investigations are being trusted by the Pasara Police Station E.. On the. Police said that a police team led by Piyratna is conducting investigations.
+
+◼️
+
+[Data](articles/1e5da072.json)
+
+[Extended Data](ext_articles/1e5da072.ext.json)
+
+---
 
 ### Central Bank of Sri Lanka
 
@@ -2253,31 +2279,5 @@ The association's secretary Anurasiri Marasinghe said that the increase in produ
 [Data](articles/e15e1728.json)
 
 [Extended Data](ext_articles/e15e1728.ext.json)
-
----
-
-### Former Parliamentarian Dayasiri Jayasekara
-
-*2024-09-26 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194858) · `ta`
-
-Former MP Dayasiri Jayasekara suggests leasing/selling unused state vehicles to generate revenue. He advises the current government to use this approach instead of organizing exhibitions. The United People's Alliance plans to contest the upcoming general election unitedly.
-
-🟩
-
-The vehicles that have been re -used by state officials are being held at the empty face.
-
-Former parliamentarian Dayasiri Jayasekara said that if these vehicles are not required, they can lease or sell them and earn an income for the Treasury.
-
-He further stated that he was speaking to the media after attending the event.
-
-We will contest the general election in the United People's Alliance. All those who voted for Sajith Premadasa in the presidential election will come together without any divisions and face the general election.
-
-Therefore, we are advising the current government to lease them and get income and go to three wheelers when going to public services, rather than conducting exhibitions to deceive the people.. He said these are temporary plays.
-
-◼️
-
-[Data](articles/c3a1c66a.json)
-
-[Extended Data](ext_articles/c3a1c66a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 18:19:34**
+As of **2024-09-27 18:33:52**
 
 ## Newspaper Stats
 
-*Scraped **46,608** Articles*
+*Scraped **46,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,830
 dailyftlk | 3,110
-adalk | 4,299
+adalk | 4,300
 dailymirrorlk | 4,733
 adaderanalk | 5,482
 tamilmirrorlk | 6,250
-virakesarilk | 7,450
+virakesarilk | 7,452
 adaderanasinhalalk | 8,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,608 (100.0%) of 46,608 articles have been extended.
+46,611 (100.0%) of 46,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Money fraud for a businessman claiming fake coins as ancient coins;Arresting
+
+*2024-09-27 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/194931) · `ta`
+
+Businessman duped 9 lakhs claiming ancient coins. Gang arrested in Anuradhapura after selling fake coins for 10 lakhs.
+
+🟩
+
+Anuradhapura headquarters headquarters police said that a gang of gangs have been arrested for allegedly defrauding 9 lakhs of rupees from the businessman claiming to be ancient coins from the trader.
+
+A gang telephoned with a businessman from Trincomalee has said that the ancient coins received by the treasure are being sold for Rs. 10 lakhs.
+
+Subsequently, the businessman left the Anuradhapura area on Thursday (26) and the two suspects who arrived there had given fake coins to the trader and took 9 lakh rupees.
+
+Subsequently, a suspect from the gang has been arrested on the basis of a complaint lodged by the victim's trader.
+
+◼️
+
+[Data](articles/92ce6a63.json)
+
+[Extended Data](ext_articles/92ce6a63.ext.json)
+
+---
+
+### Three arrested with ice drugs in Thalangam
+
+*2024-09-27 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194939) · `ta`
+
+Three arrests made in Battaramulla for possession of ice drugs. Suspects aged 35, 38, and 42 from Meegoda and Battaramulla. Police seized varying amounts of ice during raids based on tip-offs.
+
+🟩
+
+Three suspects have been arrested yesterday (26) with ice drugs in the Battaramulla area belonging to the Thalangama police division, police said.
+
+The suspects have been arrested during a raid carried out on confidential information received by the police.
+
+The arrested suspects are from Meegoda and Battaramulla aged 35, 38 and 42.
+
+The police have seized 10 grams 800 milligrams of ice from one of the arrested suspects, 10 grams of 600 milligrams of ice and 10 grams of 400 milligrams of ice.
+
+◼️
+
+[Data](articles/e226af94.json)
+
+[Extended Data](ext_articles/e226af94.ext.json)
+
+---
+
+### Fort closed to the people closed into the President's House
+
+*2024-09-27 17:45:28* · [`adalk`](https://www.ada.lk/breaking_news/කොටුව-ජනාධිපති-මන්දිරය-අවට-වසා-තිබූ-මාර්ග-ජනතාවට-විවෘත-කෙරේ/11-412184) · `si`
+
+Colombo Fort reopened after President Anura Kumara Dissanayake lifts restrictions. High security zone designation removed, allowing public access to Sir Barron Jayathilaka Mawatha and President's Mawatha near his residence.
+
+🟩
+
+President Anura Kumara Dissanayake has instructed to open the Colombo Fort, Colombo Fort, Colombo Fort, Colombo Fort.
+
+The presidential and the surrounding area had been named as a high security zone.
+
+With the residence of Anura Kumara Dissanayake, all these roadblocks have been removed and the roads have been opened to the public use.
+
+Accordingly, Sir Barron Jayathilaka Mawatha and the President's Mawatha will be open to the public use in front of the President's House.
+
+◼️
+
+[Data](articles/31d22b13.json)
+
+[Extended Data](ext_articles/31d22b13.ext.json)
+
+---
 
 ### The Maurika Railwayrassa temporarily closed for maintenance work
 
@@ -178,13 +250,17 @@ They have been appointed by Sajith Premadasa, the leader of the United People's 
 
 Senior DIG Priyantha Weerasooriya has been appointed as the Acting Inspector General of Police (IGP).
 
-President Anura Kumara Dissanayake has appointed Senior DIG Priyantha Weerasooriya as Acting IGP, under constitutional powers.
+President Anura Kumara Dissanayake has appointed Senior DIG Priyantha Weerasooriya as Acting IGP, under the constitutional powers vested in the President, the PMD said.
 
 The President’s Secretary Dr. Nandika Kumanayake presented the appointment letter to the Acting IGP at the Presidential Secretariat in Colombo today (27)
 
-Prior to this appointment, Weerasooriya had served as the Senior SIG in charge of the North Central Province.
+Prior to this appointment, Weerasooriya served as the Senior SIG in charge of the North Central Province, a position he has held since March 2024.
 
-◼️
+A law enforcement professional with 36 years of unblemished service, Weerasooriya had served across various ranks, from Police Constable to Senior DIG, with key roles in operational, middle, and strategic management.
+
+Notably, SDIG Priyantha Weerasooriya is the first officer in the 158-year history of the police service to rise from the rank of Police Constable to Inspector General of Police (IGP).
+
+...
 
 [Data](articles/457a243a.json)
 
@@ -1159,8 +1235,6 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
-
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 
@@ -2217,61 +2291,5 @@ Speaking to Daily FT, ECCSL President Hatem Rajabdeen clearly stated that Europe
 [Data](articles/8bba9351.json)
 
 [Extended Data](ext_articles/8bba9351.ext.json)
-
----
-
-### Jetwing expands organic tea footprint
-
-*2024-09-27 04:54:41* · [`dailyftlk`](https://www.ft.lk/business/Jetwing-expands-organic-tea-footprint/34-767215) · `en`
-
-Jetwing acquired the Uva Ben Head Tea Estate in Welimada in 2022 with a mandate to produce premium artisanal teas while safeguarding the environment through organic farming and biodiversity conservation.
-
-The Uva Ben Head Estate, a 100-acre expanse previously reliant on inorganic farming methods, is undergoing a transformative journey under Jetwing’s guidance. The estate is now a beacon of organic farming, with Jetwing introducing mixed cropping and phasing out chemical fertilisers and pesticides.
-
-The estate management has been committed to eliminating the use of chemical fertilisers and pesticides through a phased reduction since acquisition in 2022, with the final application of these chemicals occurring in August 2023. The transformation includes the production of organic liquid fertilisers, composting, and the planned introduction of biochar. Additionally, the estate is optimising water usage through rainwater harvesting.
-
-...
-
-[Data](articles/53f74ff6.json)
-
-[Extended Data](ext_articles/53f74ff6.ext.json)
-
----
-
-### Logistics and Freight Forwarders Association congratulates President AKD
-
-*2024-09-27 04:52:23* · [`dailyftlk`](https://www.ft.lk/business/Logistics-and-Freight-Forwarders-Association-congratulates-President-AKD/34-767214) · `en`
-
-The Sri Lanka Logistics and Freight Forwarders Association (SLFFA) has extended its heartfelt congratulations to President Anura Kumara Dissanayake, the newly appointed President of the Democratic Socialist Republic of Sri Lanka, and the Secretary to the President, Dr. Nandika Sanath Kumanayake.
-
-It said this momentous occasion marks the beginning of a new chapter for the nation, and SLFFA is confident that under the President’s leadership, Sri Lanka will move towards a future of prosperity, unity, and progress.
-
-“We believe that the President’s vision and leadership will pave the way for sustainable growth, enhanced trade, and a better quality of life for all Sri Lankans.
-
-We look forward to supporting the Government in its efforts to build a stronger, more resilient nation and to contribute to the realisation of the President’s agenda for economic recovery and development,” SLFFA said in a statement.
-
-...
-
-[Data](articles/8cbe76c0.json)
-
-[Extended Data](ext_articles/8cbe76c0.ext.json)
-
----
-
-### Frankfurt consumer goods trade fairs on tour
-
-*2024-09-27 04:52:03* · [`dailyftlk`](https://www.ft.lk/business/Frankfurt-consumer-goods-trade-fairs-on-tour/34-767213) · `en`
-
-After the international press conference on 3 September 2024, the Frankfurt trade fair organisers Ambiente, Christmasworld and Creativeworld have embarked on a press roadshow.
-
-On-site networking events provide a unique opportunity to engage in a dialogue. The events reach journalists from over 30 countries and underline the focus of the three leading consumer goods trade fairs on the international networking of the industry. They lay the foundation for a strong start of the 2025 order season.
-
-The international online press conference and the press events in Buenos Aires, Frankfurt am Main, Los Angeles, New York City and São Paulo marked the start of the Consumer Goods Fairs 2025 press roadshow: Athens, Barcelona, Lisbon, London, Milan, Mexico City, Paris, Riga, Rotterdam, Warsaw and Zurich are going to follow.
-
-...
-
-[Data](articles/e2e6f3d8.json)
-
-[Extended Data](ext_articles/e2e6f3d8.ext.json)
 
 ---

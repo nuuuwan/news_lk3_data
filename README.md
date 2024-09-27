@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 09:23:22**
+As of **2024-09-27 09:38:47**
 
 ## Newspaper Stats
 
-*Scraped **46,538** Articles*
+*Scraped **46,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,110
 adalk | 4,293
 dailymirrorlk | 4,733
 adaderanalk | 5,468
-tamilmirrorlk | 6,240
+tamilmirrorlk | 6,241
 virakesarilk | 7,435
 adaderanasinhalalk | 8,035
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,035
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,538 (100.0%) of 46,538 articles have been extended.
+46,539 (100.0%) of 46,539 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,34 @@ Further, steps have been taken to file a case against the suspects and the furth
 [Data](articles/1e5da072.json)
 
 [Extended Data](ext_articles/1e5da072.ext.json)
+
+---
+
+### The new Prime Minister's Action Order
+
+*2024-09-27 09:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதமரின்-அதிரடி-உத்தரவு/175-344573) · `ta`
+
+New PM orders: Stop politician visits to schools, ensure transparent hiring process, form panel to review scholarship exam questions.
+
+🟩
+
+Prime Minister Harini Amarasuriya has advised the officials of the Ministry of Education to immediately stop bringing politicians to school events.
+
+He also said that filling the teacher jobs should be carried out properly and that the workplace should be fill in transparency so that the people are confident.
+
+The Prime Minister made this statement during a discussion with all the department officials of the Ministry of Education.
+
+Meanwhile, Harini Amarasuriya has directed the Ministry of Education Tilaka Jayasundara yesterday (26) to appoint a panel of professors to evaluate the controversy of the Scholarship Examination.
+
+It is advisable to delete three controversial questions and decide on the recommendations of the Expert Panel whether to add those scores or any other action.
+
+The department had earlier decided to delete three questions and add those marks with the remaining questions.
+
+...
+
+[Data](articles/8214defa.json)
+
+[Extended Data](ext_articles/8214defa.ext.json)
 
 ---
 
@@ -2257,27 +2285,5 @@ Subsequently, the arrested suspect has been handed over to the Katunayake airpor
 [Data](articles/6028654a.json)
 
 [Extended Data](ext_articles/6028654a.ext.json)
-
----
-
-### Change in the price of eggs
-
-*2024-09-26 17:14:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-மாற்றம்/175-344535) · `ta`
-
-Sri Lanka Egg Business Association reports sudden egg price drop from 38 to 28-30 rupees due to increased production and decreased demand.
-
-🟩
-
-The Sri Lanka Egg Business Association has said that the price of an egg has suddenly changed.
-
-Accordingly, the price of an egg has dropped by 10 rupees, the All Ceylon Egg Trade Association said.
-
-The association's secretary Anurasiri Marasinghe said that the increase in production and the decline in demand will be sold at 28 rupees to 30 rupees.
-
-◼️
-
-[Data](articles/e15e1728.json)
-
-[Extended Data](ext_articles/e15e1728.ext.json)
 
 ---

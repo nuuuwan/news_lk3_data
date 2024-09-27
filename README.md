@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 09:38:47**
+As of **2024-09-27 09:57:55**
 
 ## Newspaper Stats
 
-*Scraped **46,539** Articles*
+*Scraped **46,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 387
 bbccomsinhala | 458
 colombotelegraphcom | 462
-islandlk | 2,730
+islandlk | 2,731
 economynextcom | 2,824
 dailyftlk | 3,110
 adalk | 4,293
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,468
 tamilmirrorlk | 6,241
 virakesarilk | 7,435
-adaderanasinhalalk | 8,035
+adaderanasinhalalk | 8,036
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,539 (100.0%) of 46,539 articles have been extended.
+46,541 (100.0%) of 46,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Increase in dengue patients
+
+*2024-09-27 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201593) · `si`
+
+Dengue cases surge: 38,874 reported this year. Highest in Colombo, Kalutara, Gampaha. Other districts also see significant increases. Efforts underway to reduce numbers.
+
+🟩
+
+The National Dengue Control Unit states that 38,874 dengue patients were reported this year.
+
+Specialist Community Dr. Avoke Dheerasinghe said that the sufferers from Colombo, Kalutara and Gampaha were increasingly.
+
+"The necessary work to reduce this amount in the future. Apart from Colombo, Kalutara and Gampaha, high cases were reported from the districts in Kandy, Galle, Matara, Kurunegala, Kegalle, Kegalle and Ratnapura. "
+
+◼️
+
+[Data](articles/22972696.json)
+
+[Extended Data](ext_articles/22972696.ext.json)
+
+---
 
 ### Eleven people arrested for excavation
 
@@ -805,6 +827,22 @@ Newly elected President Anura Kumara Dissanayake on Monday called on Colombo Arc
 [Data](articles/20dd97cf.json)
 
 [Extended Data](ext_articles/20dd97cf.ext.json)
+
+---
+
+### SLT-MOBITEL offers unbeatable rates on Tourist SIM & eSIM packages
+
+*2024-09-27 03:36:00* · [`islandlk`](http://island.lk/slt-mobitel-offers-unbeatable-rates-on-tourist-sim-esim-packages/) · `en`
+
+Reaffirming its commitment to offering best in class connectivity, SLT-MOBITEL has unveiled an exciting value proposition with its latest Tourist SIM pack, specifically designed to cater to the communication needs of tourists visiting the island nation.
+
+Be it exploring the lush tea plantations of the hill country, soaking up the sun on the southern beaches, or immersing yourself in Colombo’s vibrant culture, SLT-MOBITEL ensures you stay connected with seamless, ultra-high-speed mobile internet through its robust nationwide 4G network and future-ready network infrastructure.
+
+...
+
+[Data](articles/708f16f8.json)
+
+[Extended Data](ext_articles/708f16f8.ext.json)
 
 ---
 
@@ -2227,63 +2265,5 @@ It will now facilitate the warehouse operations of the Browns Group and will imp
 [Data](articles/9bfeb355.json)
 
 [Extended Data](ext_articles/9bfeb355.ext.json)
-
----
-
-### Preview release of 'Black' starring Jeeva
-
-*2024-09-26 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/194848) · `ta`
-
-"Black" movie preview: Jeeva stars in horror thriller. Directed by Balasubramani, produced by S. R. Prabhu. Arya congratulates crew. Priya Bhavani Shankar co-stars. Film released unexpectedly, sparking interest. Jeeva's recent market value impacted his film choices.
-
-🟩
-
-The preview of the film 'Black', starring actor Jeeva, is the hero of the Tamil film industry.
-
-Actor Arya posted this on his web page and congratulated the film crew.
-
-Director K. G. Jeeva, Priya Bhavani Shankar, Vivek Prasanna, Shah Rao, Swayam Siddha, Yok JP and many others have starred in the film 'Black' directed by Balasubramani.
-
-Sam C.S.. Has composed.
-
-Producer S is the producer of the film, which is ready in Horror Thriller Janer. R. Prakash Babu, S. R. Prabhu, B. Gopinath, R. Gold Prabhakaran has co -produced.
-
-The film's preview has been released suddenly as no announcement of the shooting of the film has been officially released.
-
-Actress Priya Bhavani Shankar has played a similar role in the film, who has attracted fans with a unique performance in 'Demandi Colony 2'.
-
-Thus, the film has received the attention of the website, especially the thriller Janer.
-
-...
-
-[Data](articles/ed5150d5.json)
-
-[Extended Data](ext_articles/ed5150d5.ext.json)
-
----
-
-### British citizen arrested
-
-*2024-09-26 17:21:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷ்-ஷூடன்-பிரித்தானிய-பிரஜை-கைது/175-344536) · `ta`
-
-British citizen arrested at Katunayake airport with 43kg cannabis worth Rs 43 crore. Arrived from Bangkok, caught while trying to exit through Green Channel. Handed over to drug investigation unit.
-
-🟩
-
-According to the local value, a 21 -year -old British citizen was arrested by the Katunayake airport on Thursday morning at Katunayake airport with a Kush drug worth Rs 43 crore 64 lakhs 80 thousand rupees.
-
-The suspect arrived at the Katunayake airport from Bangkok, Thailand at 9.35 am on Thursday (26).
-
-Subsequently, the suspect was re -tasked when he tried to leave the airport via Green Channel after completing all the airport.
-
-At this time, the suspect was seized from the travel packages brought by the suspect, 43 kg 648 grams of kush.
-
-Subsequently, the arrested suspect has been handed over to the Katunayake airport police drug detention unit for further investigations.
-
-◼️
-
-[Data](articles/6028654a.json)
-
-[Extended Data](ext_articles/6028654a.ext.json)
 
 ---

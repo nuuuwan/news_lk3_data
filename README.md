@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 11:39:34**
+As of **2024-09-27 11:58:38**
 
 ## Newspaper Stats
 
-*Scraped **46,555** Articles*
+*Scraped **46,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,72 @@ dbsjeyarajcom | 387
 bbccomsinhala | 458
 colombotelegraphcom | 462
 islandlk | 2,731
-economynextcom | 2,824
+economynextcom | 2,830
 dailyftlk | 3,110
 adalk | 4,296
 dailymirrorlk | 4,733
 adaderanalk | 5,474
 tamilmirrorlk | 6,243
 virakesarilk | 7,435
-adaderanasinhalalk | 8,039
+adaderanasinhalalk | 8,040
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,555 (100.0%) of 46,555 articles have been extended.
+46,560 (100.0%) of 46,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Good news for Japanese projects
+
+*2024-09-27 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201597) · `si`
+
+Japan supports 11 projects in Sri Lanka. President Anura Kumara Dissanayake backs full cooperation. Projects include water supply, infrastructure development, and health services.
+
+🟩
+
+Japanese Ambassador of Japan is fully supported by President Anura Kumara Dissanayake
+
+He also said that Sri Lanka is also ready to work closely.
+
+The Ambassador of the Japanese Ambassador made this observation at the Presidential Secretariat Dr. Nandika Sanath Kanayake at the Presidential Secretariat yesterday.
+
+The Ambassador to the Ambassador has said that 11 projects have been operating in the country with the assistance of the Government of Japan.
+
+Accordingly, the Kandyan Water Managing Project, Second Stage, Territorial Television Network Development Project, Anuradhapura North Water Supply Project, Divisional Infrastructure Development Project, Black Infrastructure Development Project, Kalwa River Water Supply ProjectThe projects are due to commence projects to the Health and Medical Services Development Project.
+
+The Ambassador to the Ambassador to the Sri Lanka Agrack on the final phase of the Japanese aid and the first phase of the Anuradhapura Water Supply Project.Said.
+
+◼️
+
+[Data](articles/3361ab5f.json)
+
+[Extended Data](ext_articles/3361ab5f.ext.json)
+
+---
+
+### Japan reiterates commitment to initiate 11 halted projects in Sri Lanka: AKD
+
+*2024-09-27 11:21:00* · [`economynextcom`](https://economynext.com/japan-reiterates-commitment-to-initiate-11-halted-projects-in-sri-lanka-akd-181293/) · `en`
+
+ECONOMYNEXT — The Japanese government has committed to initiating the construction of 11 projects in Sri Lanka that are currently halted, President Anura Kumara Dissanayake said, though assurances on this had already been made in July.
+
+Dissanayake tweeted Friday September 27 morning that the Japanese government has also pledged its full support for the new government’s programme.
+
+Japan had already announced the resumption of 11 suspended projects in July, two months before the presidential election.
+
+A Japanese delegation visiting Sri Lanka in July discussed with then president Ranil Wickremesinghe the resumption of Japanese Official Development Assistance (ODA) projects that were suspended when Sri Lanka defaulted.
+
+...
+
+[Data](articles/56474f58.json)
+
+[Extended Data](ext_articles/56474f58.ext.json)
+
+---
 
 ### Acting IGP Priyantha Weerasuriya
 
@@ -146,13 +194,35 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
 
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
-
 ◼️
 
 [Data](articles/c4c75fc3.json)
 
 [Extended Data](ext_articles/c4c75fc3.ext.json)
+
+---
+
+### US president congratulates Sri Lanka counterpart
+
+*2024-09-27 10:15:00* · [`economynextcom`](https://economynext.com/us-president-congratulates-sri-lanka-counterpart-181285/) · `en`
+
+ECONOMYNEXT – The USA’s outgoing president Joesph Biden has congratulated Sri Lanka’s newly elected president Anura Dissanayake.
+
+“Congratulations on your victory, @AnuraDisanayake,” Joe Biden said on social media platform X.
+
+“The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.”
+
+Biden, who will not be contesting in the US November election and has roughly about a month in office, said he looked forward to working with his Sri Lankan counterpart.
+
+“I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.”
+
+Dissanayake thanked him and said he looked forward “strengthening our long-standing friendly relations.” (Colombo/Sep27/2024)
+
+◼️
+
+[Data](articles/d3e711f9.json)
+
+[Extended Data](ext_articles/d3e711f9.ext.json)
 
 ---
 
@@ -251,6 +321,28 @@ Former Prime Minister Dinesh Gunawardena, former Prime Minister Dinesh Gunawarde
 [Data](articles/f23cf331.json)
 
 [Extended Data](ext_articles/f23cf331.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 299.80/300.00 to US dollar, bond yields up
+
+*2024-09-27 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-299-80-300-00-to-us-dollar-bond-yields-up-181283/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading relatively stable at 299.80/300.00 to the US dollar on Friday, from 299.90/300.10 a day earlier, while bond yields were slightly up dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.75/85 percent, up from 11.65/90 percent.
+
+A bond maturing on 15.02.2028 was quoted at 12.05/10 percent, down from 12.05/20 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.30/35 percent.
+
+In equities, Colombo’s All Share Price Index opened 0.28 percent, or 32.54 points higher at 11,704, while the S&P SL20 of more liquid stocks opened up 0.53 percent or 17.81 points higher at 3,402.
+
+◼️
+
+[Data](articles/5d3a54f3.json)
+
+[Extended Data](ext_articles/5d3a54f3.ext.json)
 
 ---
 
@@ -570,6 +662,26 @@ The article has said that it is committed to the leadership of the new administr
 
 ---
 
+### Sri Lanka deflation possible near term, rates unchanged: Central Bank
+
+*2024-09-27 07:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-possible-near-term-rates-unchanged-central-bank-181200/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank said it was holding policy rates at the current 8.25 to 9.25 percent levels, with the price index likely to head down in the near future.
+
+“The Board observed that inflation is likely to remain well below the target of 5 per cent over the next few quarters, potentially recording deflation in the immediate future driven by changes to administratively determined prices and easing of supply conditions,” the central bank said giving ‘cost-push’s style reasons.
+
+“Accordingly, the latest projections confirm that headline inflation is likely to be below the target by a notable margin in the forthcoming months while core inflation is projected to remain around the current levels on average.”
+
+However other analysts have pointed out that the central bank has operated deflationary monetary policy since late 2022 and also allowed the exchange rate to appreciate, (a strong external anchor)providing exceptional monetary stability helping keep prices down.
+
+...
+
+[Data](articles/e7e51aaa.json)
+
+[Extended Data](ext_articles/e7e51aaa.ext.json)
+
+---
+
 ### Care about Sri Lankans in Lebanon
 
 *2024-09-27 07:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனானில்-உள்ள-இலங்கையர்-தொடர்பில்-அவதானம்/175-344569) · `ta`
@@ -638,6 +750,26 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
+### Sri Lanka $50 double entry visa, $20 South Asia e-visa restored
+
+*2024-09-27 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-50-double-entry-visa-20-south-asia-e-visa-restored-181195/) · `en`
+
+ECONOMYNEXT – Sri Lanka has restored a 20-dollar double entry visa for South Asian visitors and a 20 dollar double entry visa for other countries, according to the online visa website after the new administration restored an earlier e-visa system, complying with a court order.
+
+Sri Lanka started charging 75 dollars for single entry visa after a deal with VFS Global and IVS-GBS, and 18.5 dollar fee for the private consortium and an another initial undisclosed fee of 5 dollars.
+
+The tourist visa was later cut down to 50 dollars but with a single entry.
+
+The double entry allows tourists coming to Sri Lanka to come twice within a six month period or use the country as a hub to visit other countries leveraging the island’s geographical position.
+
+Unlike in countries like Vietnam which heavily market Indo-China tours, however Sri Lanka’s travel agents do not make use of the facility much, analysts say.
+
+...
+
+[Data](articles/d83ce2fe.json)
+
+---
+
 ### Chandimal apologizes for what happened in the middle of the game
 
 *2024-09-27 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201587) · `si`
@@ -663,6 +795,22 @@ Dinesh Chandimal, who opened a stick to Sri Lankan innings, scored 116 runs in t
 [Data](articles/fe37830d.json)
 
 [Extended Data](ext_articles/fe37830d.ext.json)
+
+---
+
+### World Bank says ready to support Sri Lanka President Dissanayake
+
+*2024-09-27 07:14:00* · [`economynextcom`](https://economynext.com/world-bank-says-ready-to-support-sri-lanka-president-dissanayake-181192/) · `en`
+
+ECONOMYNEXT – The World Bank group has pledged to continue its support for Sri Lanka in a letter to newly elected President Anura Dissanayake singed by senior regional officers dealing with the country.
+
+The World Bank is providing budget support for Sri Lanka after the central bank plunged the country to its worst currency crisis since its inception by cutting rates with inflationary open market operations from 2020 and failing a float of the currency due to a surrender rule in 2022.
+
+“The World Bank Group and our entire country team, led by our country manager, Gevorg Sargsyan based in Colombo, stand ready to support you and the new administration,” Martin Raiser, Vice President for the South Asia Region and Riccardo Puliti, Vice President for the Asia and Pacific Region of the International Finance Corporation, said in a letter.
+
+...
+
+[Data](articles/9dedb9d4.json)
 
 ---
 
@@ -2077,175 +2225,5 @@ So far, he has scored 873 runs with an average of 79.36, including 4 centuries a
 [Data](articles/e0d09f40.json)
 
 [Extended Data](ext_articles/e0d09f40.ext.json)
-
----
-
-### Jumped from the elephant to the telephone
-
-*2024-09-26 19:48:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானையிலிருந்து-டெலிபோனுக்கு-தாவினர்/175-344544) · `ta`
-
-Two UNP organizers join SJB, supporting Sajith Premadasa. Varuna Rajapaksa and Mahesh Senanayake defect, citing no specific reason. Decision made public during meeting with SJB leadership.
-
-🟩
-
-Two organizers of the United National Party (UNP) have joined the United People's Power (SJB).
-
-United National Party (UNP) organizer Varuna Rajapaksa and Yatinuwara organizer Mahesh Senanayake have promised to support the SJB.
-
-Rajapaksa and Senanayake announced their decisions at a meeting with SJB leader Sajith Premadasa today.
-
-◼️
-
-[Data](articles/ab3c49a4.json)
-
-[Extended Data](ext_articles/ab3c49a4.ext.json)
-
----
-
-### President's move to provide fuel subsidy to fishermen
-
-*2024-09-26 19:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/194869) · `ta`
-
-President announces fuel subsidy for fishermen, direct bank payments, aims to boost industry and reduce costs.
-
-🟩
-
-Accordingly, the President has issued a directive to the Fishermen to provide fuel subsidy to the fishermen from the first day.
-
-This will provide fuel subsidy monthly for several days and one day shipping.
-
-The Presidential Media Unit said in a statement that the subsidy would be paid directly to the fishermen's bank account.
-
-The announcement stated that it would promote the ban on fishing and expected the cost of production to reduce the cost of production.
-
-◼️
-
-[Data](articles/a01738b9.json)
-
-[Extended Data](ext_articles/a01738b9.ext.json)
-
----
-
-### “The President has appointed me with the goal
-
-*2024-09-26 19:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறிக்கோளுடன்-ஜனாதிபதி-என்னை-நியமித்துள்ளார்/175-344542) · `ta`
-
-New governor Haneeb Yusuf appointed by President Anura Kumara Dissanayake aims to bring meaningful change, improve public sector, end corruption, and strengthen economy. He seeks support to enhance ordinary people's livelihoods.
-
-🟩
-
-Recently appointed businessman Haneeb Yusuf said that the decision to implement changes in accordance with President Anura Kumara Dissanayake has decided to implement changes.
-
-He said this while speaking to the media after taking office as the new governor.
-
-Yusuf said, "The President has appointed me with a clear goal to bring a meaningful change in the system, improve the poor and strengthen the public sector."
-
-In addition, the new governor expressed his commitment to put an end to corruption and bribery.
-
-“This is not the only thing that can do with me, but it is not impossible for us to work together. I have a plan. I expect everyone's support to bring about changes to improve the livelihood of ordinary people.. , "He added.
-
-◼️
-
-[Data](articles/e3e7e506.json)
-
-[Extended Data](ext_articles/e3e7e506.ext.json)
-
----
-
-### Chairman of the Petroleum Corporation resigns
-
-*2024-09-26 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201577) · `si`
-
-Saliya Wickramasuriya resigns as Chairman of Petroleum Corporation. He submitted his resignation to the Energy Ministry Secretary, citing the need for a new minister to appoint themselves. This move follows his presidency at Ceylon Petroleum Corporation Limited.
-
-🟩
-
-The Chairman of the Petroleum Corporation, Saliya Wickramasuriya has resigned from his positions.
-
-Accordingly, the Petroleum Corporation, Ceylon Petroleum Corporation Limited, triggered by his president of the Trinity.
-
-He has resigned his resignation to the Secretary of the Energy Ministry.
-
-The letter states that he will resign from his positions to give the new Minister to appoint himself.
-
-◼️
-
-[Data](articles/8ee66431.json)
-
-[Extended Data](ext_articles/8ee66431.ext.json)
-
----
-
-### The 15,000 rupee fertilizer paid to the farmers of paddy is increased to 25,000 rupees;The Presidential Directorate will be implemented from the 1st of October
-
-*2024-09-26 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/194870) · `ta`
-
-Paddy farmers' fertilizer subsidy increased from 15,000 to 25,000 rupees per hectare. New subsidy effective October 1st, 2024. Direct bank deposit for farmers. Government aims to provide affordable raw materials and subsidies for agriculture. Fishermen community to receive monthly fuel subsidy. Measures to improve fisheries industry and living conditions for fishermen.
-
-🟩
-
-In 2024/2025, President Anura Kumara Dissanayake has issued a directive to the Treasury to pay the paddy farmers a hectare of 25,000 rupees per hectare.
-
-Accordingly, the 15,000 rupee fertilizer paid to the hectare will now be increased to 25,000 rupees. This subsidy comes into effect from the first day of October. This subsidy will be deposited directly to their bank accounts for the farmers.
-
-The new government's election science stated that steps will be taken to provide raw materials, including fertilizer at reasonable prices, and to subsidize agricultural raw materials, including chemical and damage fertilizers in accordance with the best agricultural procedures in order to manage agricultural raw materials.. The move has been taken in accordance with that.
-
-At the same time, President Anura Kumara Dissanayake has issued a directive to provide fuel subsidy to the fishermen community to promote the recession and reducing the cost of production.
-
-...
-
-[Data](articles/88a24479.json)
-
-[Extended Data](ext_articles/88a24479.ext.json)
-
----
-
-### Saliya Wickramasuriya resigns as CPC and CPSTL chairman
-
-*2024-09-26 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102285/saliya-wickramasuriya-resigns-as-cpc-and-cpstl-chairman) · `en`
-
-Saliya Wickramasuriya has resigned from his position as the Chairman of Ceylon Petroleum Corporation (CPC) and the Ceylon Petroleum Storage Terminals Ltd. (CPSTL).
-
-He has tendered his resignation to the Secretary to the Ministry of Power and Energy.
-
-In his resignation letter, Mr Wickramasuriya stated that he offers his resignation from the positions in order to give the new minister the freedom to appoint a board of his choice.
-
-He had been appointed as chairperson to the Ceylon Petroleum Corporation (CPC) and the Ceylon Petroleum Storage Terminals Ltd. (CPSTL) with effect from October 5, 2023.
-
-An energy industry specialist, Wickramasuriya had also previously served as the Chairman of the Board of the Petroleum Development Authority and as a member of the Colombo Port City Economic Commission.
-
-◼️
-
-[Data](articles/d9f6dfc6.json)
-
-[Extended Data](ext_articles/d9f6dfc6.ext.json)
-
----
-
-### President Anura
-
-*2024-09-26 18:57:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடியாக-குதித்தார்-ஜனாதிபதி-அனுர/175-344541) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake orders luxury vehicles from previous regime used for essential services. Ananda Wijepala criticizes misuse of public funds. 107 vehicles found parked, including at Galle Falls. President directs CID investigation into missing vehicles. Steps taken to protect public property and conduct thorough review.
-
-🟩
-
-President Anura Kumara Dissanayake has issued a directive to the relevant authorities to use the luxury vehicles used in the last regimes for essential services.
-
-Ananda Wijepala said that it is sad that the people's taxpayer is wasting and that steps will be taken to make a full review of the matter and make people aware of the future activities.
-
-The President's Private Secretary Ananda Wijebala made this statement at a media briefing held on Thursday (26) to announce future activities on vehicles parked in several places, including the Galle Falls.
-
-He added that during the last regime, the public money wasted was in vain and that the vehicles were not enough to park in the parking lot in the presidential palace.
-
-...
-
-[Data](articles/f0de799e.json)
-
-[Extended Data](ext_articles/f0de799e.ext.json)
 
 ---

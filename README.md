@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 11:22:41**
+As of **2024-09-27 11:39:34**
 
 ## Newspaper Stats
 
-*Scraped **46,551** Articles*
+*Scraped **46,555** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,824
 dailyftlk | 3,110
-adalk | 4,295
+adalk | 4,296
 dailymirrorlk | 4,733
 adaderanalk | 5,474
-tamilmirrorlk | 6,241
+tamilmirrorlk | 6,243
 virakesarilk | 7,435
-adaderanasinhalalk | 8,038
+adaderanasinhalalk | 8,039
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,551 (100.0%) of 46,551 articles have been extended.
+46,555 (100.0%) of 46,555 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Acting IGP Priyantha Weerasuriya
+
+*2024-09-27 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201596) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Acting IGP Priyantha Weerasuriya named; Senior DIG appointed North Central Province."
+
+🟩
+
+The acting IGP is reportedly announced today, "said Sunil Watagala.
+
+Accordingly, Senior DIG Priyantha Weerasuriya is appointed as the North Central Province.
+
+◼️
+
+[Data](articles/7577c11f.json)
+
+[Extended Data](ext_articles/7577c11f.ext.json)
+
+---
+
+### Criminal filed against Jayawardena
+
+*2024-09-27 11:11:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்த-ஜயவர்தனவுக்கு-எதிராக-குற்றப்பத்திரிகை-தாக்கல்/175-344576) · `ta`
+
+Nilanda Jayawardena charged over Easter Sunday attack failure to repay 75 million rupees. Ordered to appear in court on October 7.
+
+🟩
+
+The Attorney General today (27) informed the High Court that the chargesheet has been filed against the former head of the State Intelligence Unit, Nilanda Jayawardena, who failed to pay 75 million rupees in connection with the Easter Sunday attack.
+
+Accordingly, the seven -member High Court, headed by Chief Justice Jayantha Jayasuriya, ordered the Nilanda Jayawardene to appear in court on October 7 at 9.30 am.. Remble
+
+◼️
+
+[Data](articles/e619c2b5.json)
+
+[Extended Data](ext_articles/e619c2b5.ext.json)
+
+---
+
+### New President calls for Armed Forces
+
+*2024-09-27 11:02:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுதப்படைகளை-அழைக்கின்றார்-புதிய-ஜனாதிபதி/175-344575) · `ta`
+
+Sri Lanka's President Anura Kumara Dissanayake issues gazette inviting Armed Forces to maintain public order nationwide. Notification affects Army, Navy, and Air Force, effective immediately. This marks the president's first major action since assuming office.
+
+🟩
+
+President Anura Kumara Dissanayake has issued a gazette notification to invite the Armed Forces to establish a public order in all districts of Sri Lanka.
+
+A special gazette notification was issued yesterday with an order to invite the Army, Navy and Air Force to come into effect from today.
+
+President Anuragumara Dissanayake has been released after his duties have been released for the first time.. Remble
+
+◼️
+
+[Data](articles/426ddb37.json)
+
+[Extended Data](ext_articles/426ddb37.ext.json)
+
+---
 
 ### AG to file contempt charges against ex-SDIG Nilantha Jayawardana
 
@@ -79,6 +145,8 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
+
+Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 
@@ -157,6 +225,32 @@ Meanwhile, the Prime Minister’s Secretariat announced that instructions have b
 [Data](articles/ddcf1102.json)
 
 [Extended Data](ext_articles/ddcf1102.ext.json)
+
+---
+
+### Discussions to contest all parties in opposition
+
+*2024-09-27 09:45:46* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-සියලු-පක්ෂ-එක්-ලකුණකින්-තරග-කිරීමට-සාකච්ඡා/11-412179) · `si`
+
+Ranil Wickremesinghe chairs discussion on next general election. UNP officials including Ash Marasinghe, Dinesh Gunawardena, and Ruwan Wijewardene attend. Positive outlook for alliance formation.
+
+🟩
+
+Former President Ranil Wickremesinghe was chaired by a discussion held in the next general election.
+
+Speaking at the political office of the Colombo Flower Road, former UNP MP Ash Marasinghe said that discussions with congenivity in partnership with the general election are in positive condition.
+
+These discussions were held at the General Secretary of the General Secretary of the General Assembly and the UNP yesterday (26).
+
+Former former Parliamentarian SSB. The B Dissanayake said.
+
+Former Prime Minister Dinesh Gunawardena, former Prime Minister Dinesh Gunawardena and former Prime Minister Dinesh Gunawardena were also present at the UNP Deputy Leader Ruwan Wijewardene.
+
+◼️
+
+[Data](articles/f23cf331.json)
+
+[Extended Data](ext_articles/f23cf331.ext.json)
 
 ---
 
@@ -2153,107 +2247,5 @@ He added that during the last regime, the public money wasted was in vain and th
 [Data](articles/f0de799e.json)
 
 [Extended Data](ext_articles/f0de799e.ext.json)
-
----
-
-### Another case against Gnanasara Thera is the verdict. On the 14th
-
-*2024-09-26 18:48:32* · [`adalk`](https://www.ada.lk/breaking_news/ඥානසාර-හිමිට-එරෙහි-තවත්-නඩුවක-තීන්දුව-නොවැ--14දා/11-412171) · `si`
-
-Gnanasara Thera case verdict: Bodu Bala Sena leader accused of religious reconciliation breach. Colombo Crimes Division charges under Penal Code Section 291(b). Court hearing concludes, verdict expected November 14.
-
-🟩
-
-Colombo Additional Magistrate Amarasene Amaraseena informed the Bodu Bala Sena Leader's decision against the 'Bodu Bala Sena' leader in the 'Bodu Bala Sena' leader, accusing the 'Bodu Bala Sena'.
-
-A statement made by the Islamic Religion on July 6, 2016 has been accused of breaking religious reconciliation.
-
-The Colombo Crimes Division has been handed over to a punishable offense under Section 291 (b) of the Penal Code.
-
-The suspect Galagoda Aththe Gnanasara Thera appeared in court when the case was taken up.
-
-Attorney-at-Law Gamini Alwis, who appeared to him in writing, the complaint was filed by the complaint to prove the allegations against his client.
-
-Officers of the Colombo Crimes Division appeared for the complaint. After considering the facts of both sides, the magistrate informed the case to publish the verdict of November 14.
-
-◼️
-
-[Data](articles/f9bb65e2.json)
-
-[Extended Data](ext_articles/f9bb65e2.ext.json)
-
----
-
-### World Bank also supported the president
-
-*2024-09-26 18:43:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-வங்கியும்-ஜனாதிபதிக்கு-ஆதரவு/175-344540) · `ta`
-
-World Bank supports Sri Lanka's economic growth. President congratulated. Letter emphasizes cooperation for rebuilding economy. World Bank committed to supporting new leadership and vulnerable populations.
-
-🟩
-
-The World Bank Group has congratulated Anuragumara Dissanayake, the 9th executive president in the country.
-
-The World Bank's South Asian Zone Chairman Martin Raiser and the Asia and Pacific Zone Vice President of the International Finance Corporation, Ricardo Pulit, have sent a special message to the president in a special message to continue to support Sri Lanka's economic progress.
-
-The letter emphasizes that continuous cooperation is essential for the rebuilding of the economy of Sri Lanka, and that the opportunities for economic growth, prosperity and development are of the same importance.
-
-It is further stated that the bite is dedicated to the support of the World Bank Group to the new administrative leadership of Sri Lanka's new administrative leadership, just as it meets the needs of the most vulnerable in the country.
-
-◼️
-
-[Data](articles/b6344d92.json)
-
-[Extended Data](ext_articles/b6344d92.ext.json)
-
----
-
-### Fire in the area
-
-*2024-09-26 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/194862) · `ta`
-
-Fire breaks out in Kousa area, Ella Police Division. Controlled by police, officers, and disaster management team. Cause unknown, no casualties reported.
-
-🟩
-
-Ella police said that a fire broke out last night in the Kousa area of ​​the Ella Police Division.
-
-Police officials, Ella Divisional Secretariat Officers and Badulla Disaster Management Center officials have controlled the fire, police said.
-
-Police said that the cause of the fire has not yet been identified and no fire has caused no casualties.
-
-◼️
-
-[Data](articles/60600aa7.json)
-
-[Extended Data](ext_articles/60600aa7.ext.json)
-
----
-
-### There is enough fuel reserve to consume
-
-*2024-09-26 18:39:37* · [`adalk`](https://www.ada.lk/breaking_news/පරිභෝජනයට-ප්‍රමාණවත්-ඉන්ධන-සංචිතයක්-පවතිනවා/11-412170) · `si`
-
-Sufficient fuel reserves, committee to approve foreign aid projects within 3 months, expedite rural development to strengthen economy. President emphasizes support for these initiatives.
-
-🟩
-
-Committee to extend approval within three months in foreign aid projects
-
-Expedite rural development projects to strengthen the rural economy
-
-The officials of the Ministry of Power and Energy informed the Ministry of Power and Energy that there is sufficient fuel reserve to consume.
-
-The President also instructed the officials to maintain sufficient fuel reserves to obtain sufficient fuel for the next year.. The President emphasized that all these matters will be fully supported as the President.
-
-President Anura Kumara Dissanayake made this statement at the Presidential Secretariat today (26) with the officials of the Ministry of Power and Energy.
-
-The President also instructed the officials to formulate the solar panels on Indian assistance to the Ministry of India and the President also pointed out the importance of implementing the work through a road map created by the Ministry of Power.
-
-...
-
-[Data](articles/f1bb8f7f.json)
-
-[Extended Data](ext_articles/f1bb8f7f.ext.json)
 
 ---

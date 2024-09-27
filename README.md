@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 16:56:39**
+As of **2024-09-27 17:07:54**
 
 ## Newspaper Stats
 
-*Scraped **46,600** Articles*
+*Scraped **46,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,830
 dailyftlk | 3,110
 adalk | 4,298
 dailymirrorlk | 4,733
-adaderanalk | 5,480
+adaderanalk | 5,481
 tamilmirrorlk | 6,248
 virakesarilk | 7,449
 adaderanasinhalalk | 8,050
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,050
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,600 (100.0%) of 46,600 articles have been extended.
+46,600 (100.0%) of 46,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Kamindu Mendis becomes joint-third fastest to 1000 Test runs, goes level with Don Bradman
+
+*2024-09-27 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102305/kamindu-mendis-becomes-joint-third-fastest-to-1000-test-runs-goes-level-with-don-bradman) · `en`
+
+Sri Lanka’s Kamindu Mendis became the joint-third fastest player to reach 1000 Test runs during the second Test against New Zealand on Friday.
+
+The 25-year-old achieved this feat by hitting a six off Rachin Ravindra. He goes level with Australia great Don Bradman’s record of 13 innings.
+
+Earlier today, Mendis brought up his fifth Test century which made him the fastest Asian batter to do so. He is now joint-fourth fastest in the all-time list of fastest batters to five Test centuries.
+
+On Thursday, Mendis created a world record for the most successive fifty-plus scores since debut, scoring eight half-centuries after his first match against Australia two years ago.
+
+Mendis scored a huge hundred (182 not out in 250 deliveries). During his knock, the 25-year-old completed 1,000 runs in Tests. The left-handed batsman has gone past the 1000-run mark in Tests in only 13 innings.
+
+...
+
+[Data](articles/a31727c7.json)
+
+---
 
 ### Another exclusive report from Komin
 
@@ -2221,21 +2241,5 @@ The event was organised by four Rotary Clubs, namely, Rotary Club Colombo Fort ,
 [Data](articles/1a2e0f56.json)
 
 [Extended Data](ext_articles/1a2e0f56.ext.json)
-
----
-
-### SriLankan Airlines named Leading International Airline in South Asia at SATA 2024
-
-*2024-09-27 03:33:00* · [`islandlk`](http://island.lk/srilankan-airlines-named-leading-international-airline-in-south-asia-at-sata-2024/) · `en`
-
-SriLankan Airlines has once again been recognized as the Leading International Airline in South Asia under the Visitors’ Choice Awards category at the South Asian Travel Awards (SATA) 2024, marking its second consecutive win in this prestigious category. This accolade reinforces the airline’s status as a powerhouse in the aviation industry of South Asia, with an unmatched legacy of service and hospitality, and a comprehensive flight schedule serving 85% of the South Asian region.
-
-SATA, an annual event, celebrates the best of South Asia’s hospitality and travel industries and is widely regarded as one of the region’s most eminent travel awards, endorsed by over 18 regional tourism organisations. Winners are determined based on votes from both industry professionals and passengers, making the award a reflection of industry excellence and customer satisfaction.
-
-...
-
-[Data](articles/68d4bcf9.json)
-
-[Extended Data](ext_articles/68d4bcf9.ext.json)
 
 ---

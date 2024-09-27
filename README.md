@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 01:57:30**
+As of **2024-09-28 02:08:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,661 (100.0%) of 46,663 articles have been extended.
+46,663 (100.0%) of 46,663 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -142,6 +142,8 @@ Government officials, often compensated with relatively lower salaries compared 
 
 [Data](articles/175b9195.json)
 
+[Extended Data](ext_articles/175b9195.ext.json)
+
 ---
 
 ### UNP and its continuing suicidal saga
@@ -157,6 +159,8 @@ His nurturing and sustaining the myth that he is eternal and thus creating perso
 ...
 
 [Data](articles/e52ded7a.json)
+
+[Extended Data](ext_articles/e52ded7a.ext.json)
 
 ---
 

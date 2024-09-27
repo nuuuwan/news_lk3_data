@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 00:55:45**
+As of **2024-09-28 01:07:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,653 (100.0%) of 46,655 articles have been extended.
+46,655 (100.0%) of 46,655 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -198,6 +198,8 @@ While Sri Lanka is commendably moving toward better governance, there remains ro
 
 [Data](articles/e76155c5.json)
 
+[Extended Data](ext_articles/e76155c5.ext.json)
+
 ---
 
 ### Namal calls back those who went to Ranil
@@ -284,23 +286,29 @@ Sri Lanka: 602/5 (batting: Camindu Mendis AE 182, Dinesh Chandimal 116, Gusal Me
 
 ---
 
-### ලෙබනනයේ බීරූට් අගනුවරට ඊශ්‍රායලයෙන් ප්‍රහාරයක්
+### Israel attack in Israel's Bererout capital in Lebanon
 
 *2024-09-27 22:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201616) · `si`
 
-ලෙබනනයේ බීරූට් අගනුවර දාහියේ ප්‍රදේශයට එල්ල වූ ඊශ්‍රායල ප්‍රහාරවලින් කිසිඳු ශ්‍රී ලාංකිකයෙකුට හානියක් සිදුව ඇතැයි මෙතෙක් වාර්තා වී නොමැති බව ලෙබනනයේ ශ්‍රී ලංකා තානාපති කපිල ජයවීර මහතා පවසයි.
+Israel-Lebanon conflict: Israeli strikes hit Hezbollah HQs in Beirut; 10 explosions reported; 5 Sri Lankans evacuated from embassy area.
 
-ඊශ්‍රායලය දාහියේ නගරයේ හිස්බුල්ලා මූලස්ථානයට අද (27) රාත්‍රියේ දරුණු ප්‍රහාර මාලාවක් එල්ල විය.
+🟩
 
-ඒ සමග එම නගරයේ එකම ස්ථානයක පිපිරීම් 10ක් පමණ සිදුවූ බව වාර්තා විය.
+Sri Lanka's Ambassador to Lebanon's Sri Lankan attacks have been reported from the capital city of Beeroot in the capital city of Beeroot in the capital city of Beeroot.
 
-එමෙන්ම ප්‍රහාරයෙන් පසු දුරකථනයෙන් තමා ඇමතූ ශ්‍රී ලාංකිකයින් 05 දෙනෙකු ආරක්ෂාව සඳහා වහාම ශ්‍රී ලංකා තානාපති කාර්යාලයට කැඳවාගත් බව තානාපතිවරයා අද දෙරණ සමග සඳහන් කළේය.
+Israel was a series of fierce attacks at Hezbollah headquarters in the city of Israel.
 
-එමෙන්ම මේ සම්බන්ධයෙන් අනියත බියක් ඇතිකර නොගන්නා ලෙසත් තානාපතිවරයා ශ්‍රී ලාංකික ප්‍රජාවගෙන් ඉල්ලා සිටියි.
+It was reported that about 10 explosions occurred in the same city.
+
+The Ambassador told Ada Derana that after the attack, five Sri Lankans who had called on the phone were immediately taken to the Sri Lankan embassy.
+
+The Ambassador also requests the Sri Lankan community not to fear this.
 
 ◼️
 
 [Data](articles/e51ae7d0.json)
+
+[Extended Data](ext_articles/e51ae7d0.ext.json)
 
 ---
 

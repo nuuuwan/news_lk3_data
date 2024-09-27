@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 23:58:20**
+As of **2024-09-28 00:12:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,640 (100.0%) of 46,644 articles have been extended.
+46,644 (100.0%) of 46,644 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1328,6 +1328,8 @@ Responding to questions at the Central Bank’s monthly monetary policy review, 
 
 [Data](articles/c4c6901e.json)
 
+[Extended Data](ext_articles/c4c6901e.ext.json)
+
 ---
 
 ### Japan's 11 projects will be launched quickly
@@ -1456,6 +1458,8 @@ The petitioner alleged that the procurement was irregular with change made to te
 
 [Data](articles/786b731e.json)
 
+[Extended Data](ext_articles/786b731e.ext.json)
+
 ---
 
 ### Those who say that they should stand alone and compete with the party will be disintegrating - Gnanamuthu Srinasan
@@ -1537,6 +1541,8 @@ Speaking to reporters following a meeting between SLPP and other ex MPs who back
 ...
 
 [Data](articles/f17d855a.json)
+
+[Extended Data](ext_articles/f17d855a.ext.json)
 
 ---
 
@@ -1711,6 +1717,8 @@ The subsidy schemes were introduced as the previous government’s policy decisi
 ...
 
 [Data](articles/c3523784.json)
+
+[Extended Data](ext_articles/c3523784.ext.json)
 
 ---
 

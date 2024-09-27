@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 09:57:55**
+As of **2024-09-27 10:23:08**
 
 ## Newspaper Stats
 
-*Scraped **46,541** Articles*
+*Scraped **46,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,824
 dailyftlk | 3,110
-adalk | 4,293
+adalk | 4,295
 dailymirrorlk | 4,733
-adaderanalk | 5,468
+adaderanalk | 5,471
 tamilmirrorlk | 6,241
 virakesarilk | 7,435
-adaderanasinhalalk | 8,036
+adaderanasinhalalk | 8,037
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,541 (100.0%) of 46,541 articles have been extended.
+46,547 (100.0%) of 46,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Former MP pays a sudden driven vehicle
+
+*2024-09-27 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201594) · `si`
+
+Former MP pays damages for crashed government vehicle two years later. Insurance claims settled, but council rejects additional payment request.
+
+🟩
+
+Two years later, a former UNP member has taken measures to pay the loss in this regard after the crashing vehicle owned by the government's luxury.
+
+Secretary of the Western Provincial Council SL. Dhammika Kam. Missingha said that the Sri Lanka Pubaian Appointment was paid to the Provincial Council on a crash to the Western Provincial Council.
+
+Former MP Sahan Pradeep Vithana has given his vehicle for his use of the Gampaha District Coordinating Committee.
+
+The luxury vehicle conducted by the former Health Minister of Western Provincial Council has been handed over to Sahan Pradeep Vithana.
+
+This healthy was elected at the time of September 2022, near the Isurupola, Battaramulla, Battaramulla.
+
+It is also said that the insurance benefits have been received as the insurance benefits from the loss of the vehicle.
+
+...
+
+[Data](articles/eb30c192.json)
+
+[Extended Data](ext_articles/eb30c192.ext.json)
+
+---
+
+### Govt. to allocate more funds for education - PM Harini
+
+*2024-09-27 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102293/govt-to-allocate-more-funds-for-education-pm-harini) · `en`
+
+The newly appointed Prime Minister, Dr. Harini Amarasuriya, stated that the government has decided to allocate more funding for education.
+
+The Prime Minister further noted that she has instructed officials to take necessary steps to address the public’s mistrust with regard to the Ministry of Education and the Department of Examinations.
+
+She also directed the officials of the Department of Examinations to take necessary steps to release all delayed exam results.
+
+Meanwhile, the Prime Minister’s Secretariat announced that instructions have been given to immediately halt inviting politicians to school events.
+
+◼️
+
+[Data](articles/ddcf1102.json)
+
+[Extended Data](ext_articles/ddcf1102.ext.json)
+
+---
+
+### 2941 students have lost the university access in the year 200 years
+
+*2024-09-27 09:37:13* · [`adalk`](https://www.ada.lk/breaking_news/ඉකුත්-අධ්‍යයන-වර්ෂ-දෙකේදී--සිසුන්-2941-ට-විශ්ව-විද්‍යාල-ප්‍රවේශය-අහිමි-වෙලා/11-412178) · `si`
+
+In 2001, 2941 students lost university access due to UGC. 1087 from Studies of Study and 2084 from Study Limited were affected. The National Audit Office made recommendations to reduce vacancies.
+
+🟩
+
+The National Audit office reveals that 2941 students have lost the university admission in the year 2001 years due to the universities of the University Grants Commission.
+
+According to the University Grants Commission, 1087 students of the Studes of the Study of the Study of the Study of the Study of the Study of the Study of the Study of the Study of the Study of the Study of the Study and 2084 Students of the Study Limited has been depressed.
+
+Although students attached to vacancies in the relevant academic years, students have been assigned to the audit of the University Grants Commission as his answer to the above vacancies.
+
+The National Audit Office has given audit recommendations regarding this to minimize the number of vacancies.
+
+◼️
+
+[Data](articles/75bf47dc.json)
+
+[Extended Data](ext_articles/75bf47dc.ext.json)
+
+---
 
 ### Increase in dengue patients
 
@@ -80,6 +152,28 @@ Further, steps have been taken to file a case against the suspects and the furth
 
 ---
 
+### Three arrested with firearms in separate police raids
+
+*2024-09-27 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102292/three-arrested-with-firearms-in-separate-police-raids) · `en`
+
+Police reported that three individuals in possession of a T-56 assault rifle and two locally made firearms were arrested yesterday (26) along with the weapons.
+
+The T-56 firearm was discovered last night on the upper floor of a shop in the Delgahamedilla area within the Nungamuwa Police Division.
+
+Police stated it was a T-56 firearm with the serial number erased. The suspect arrested in connection with this is a 51-year-old retired army soldier residing in the Kumbaloluwa area.
+
+Meanwhile, during a raid carried out by the police in the Ariston Road area, Ambana in Naula last afternoon (26), a suspect was arrested with a locally made firearm. The arrested individual is a 55-year-old resident of the Kongahawela area.
+
+Additionally, another suspect was arrested with a locally-made firearm at Therathupitiya, Ethimale. This man was apprehended in a raid conducted by the police last afternoon, and he is a 39-year-old resident of the Ethimale Lake area.
+
+◼️
+
+[Data](articles/5967001a.json)
+
+[Extended Data](ext_articles/5967001a.ext.json)
+
+---
+
 ### The new Prime Minister's Action Order
 
 *2024-09-27 09:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதமரின்-அதிரடி-உத்தரவு/175-344573) · `ta`
@@ -125,6 +219,22 @@ Accordingly, it has been decided to maintain the sub -deposit rate and the subsi
 [Data](articles/b393f74e.json)
 
 [Extended Data](ext_articles/b393f74e.ext.json)
+
+---
+
+### Sri Lanka’s official reserves reach USD 6 billion
+
+*2024-09-27 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102291/sri-lankas-official-reserves-reach-usd-6-billion) · `en`
+
+The Central Bank of Sri Lanka (CBSL) says it purchased a significant amount of foreign exchange from the domestic market to bolster the Gross Official Reserves (GOR).
+
+As of the end of August 2024, GOR stood at USD 6.0 billion, including the swap facility from the People’s Bank of China which is subject to conditionalities.
+
+◼️
+
+[Data](articles/9db4b52b.json)
+
+[Extended Data](ext_articles/9db4b52b.ext.json)
 
 ---
 
@@ -215,6 +325,30 @@ Accordingly, the Permanent Deposit Facility Rate and the Permanent Credit Facili
 [Data](articles/8dcfae36.json)
 
 [Extended Data](ext_articles/8dcfae36.ext.json)
+
+---
+
+### President's Wage Support World Bank
+
+*2024-09-27 07:47:52* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අනුරට-ලෝක-බැංකුවේ-සහාය/11-412177) · `si`
+
+World Bank appoints 9th Sri Lanka president. Vice President Martin Risar and IMF Asia-Pacific chair Ricardo Puebla support economic growth and development. Committed to serving vulnerable communities and achieving goals under new administration.
+
+🟩
+
+The World Bank Group has been appointed as the 9th Executive President of Sri Lanka.
+
+The Vice President of the South Asian region of the World Bank, Mr. Martin Risar and the International Monetary Corporation Asian and Pacific Vice Chairman Reikardo Puek.
+
+The letter states that it is equally important for economic growth, prosperity and development when it comes to state the economy of the country again.
+
+The letter states that the World Bank Group is committed to the leadership of the new administration in Sri Lanka to meet the needs of the most vulnerable community in the country as well as to achieve all.
+
+◼️
+
+[Data](articles/0d793515.json)
+
+[Extended Data](ext_articles/0d793515.ext.json)
 
 ---
 
@@ -2143,127 +2277,5 @@ The announcement states that this is expected to reduce the fisheries industry.
 [Data](articles/f2a12e56.json)
 
 [Extended Data](ext_articles/f2a12e56.ext.json)
-
----
-
-### President directs to increase fertilizer subsidy for paddy farmers
-
-*2024-09-26 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102283/president-directs-to-increase-fertilizer-subsidy-for-paddy-farmers) · `en`
-
-President Anura Kumara Dissanayake has instructed the Treasury to provide a fertilizer subsidy of Rs. 25,000 per hectare to paddy farmers for the Maha season of 2024/25, the President’s Media Division (PMD) said.
-
-According to this initiative, the fertilizer subsidy, which was previously set at Rs. 15,000 per hectare, will be increased to Rs. 25,000. This enhanced subsidy will take effect starting October 01.
-
-To ensure efficient delivery of the subsidy to farmers, the funds will be directly transferred to their bank accounts. This approach aims to streamline the process and provide timely support to those in the agricultural sector, the PMD said.
-
-...
-
-[Data](articles/10ca03b2.json)
-
-[Extended Data](ext_articles/10ca03b2.ext.json)
-
----
-
-### The subsidy is Rs.. An increase of up to 25,000
-
-*2024-09-26 17:45:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மானியம்-ரூ-25-000-வரை-அதிகரிப்பு/175-344539) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: President Anura Kumara Dissanayake orders Treasury to raise fertilizer subsidy from Oct 1st. Increase from Rs. 15,000 to Rs. 20,000 (up to Rs. 25,000).
-
-🟩
-
-President Anura Kumara Dissanayake has directed the Treasury to increase the fertilizer relief from October 01 to Rs. 15,000 to Rs.
-
-◼️
-
-[Data](articles/dd99af51.json)
-
-[Extended Data](ext_articles/dd99af51.ext.json)
-
----
-
-### Zarp is engaged in humanitarian mines
-
-*2024-09-26 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/194847) · `ta`
-
-Zarp NGO removes 140,170 square meters of hazardous ammunition from Kilinochchi and Mullaitivu districts in northern Sri Lanka between 2016 and 2024.
-
-🟩
-
-Sarf's action manager of the company, Captain Prabhat Narambanawa, has said that thirty -one hundred and forty -one thousand seventy -one -seven -square -quarters of the Kilinochchi and Mullaitivu districts have been removed from seventy -seven thousand ninety thousand hazardous ammunition.
-
-Zarp, a humanitarian mines and a non -governmental organization in the North of Sri Lanka, from November 2016 to 24 September 2024, from the Mullaitivu Divisional Secretariat, Ambakamam, Ambakamam, Ambakamam, Ambakamadam, Ambakamam, Ambakamam.In the area under the Divisional Secretariat, in the Mukhmalai, Elephant and the Elephant Divisional Secretariat in the Kilinochchi District That said Narambanaawa.
-
-It is noteworthy that the company continues to carry out the work of Pudukkudiyiruppu, Ambakamam Imangulam, Kokavil, Tattuvankotti and Elephant.
-
-◼️
-
-[Data](articles/5dba3755.json)
-
-[Extended Data](ext_articles/5dba3755.ext.json)
-
----
-
-### Fertilizer subsidy upward
-
-*2024-09-26 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201573) · `si`
-
-President increases fertilizer subsidy for paddy farmers from Rs. 15,000 to Rs. 25,000 per hectare for Maha season 2024/25.
-
-🟩
-
-The President has taken steps to increase the fertilizer subsidy given to paddy farmers in the Maha season from 2024/25.
-
-Accordingly, the subsidy given to a hectares from Rs. 15,000 to Rs. 15,000. President Anura Kumara Dissanayake has instructed the Treasury to increase to 25,000.
-
-◼️
-
-[Data](articles/ce01da74.json)
-
-[Extended Data](ext_articles/ce01da74.ext.json)
-
----
-
-### IMC organizer arrested for attacking nurse
-
-*2024-09-26 17:39:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாதியை-தாக்கிய-ஐ-ம-ச-அமைப்பாளர்-கைது/76-344538) · `ta`
-
-Sasanka Sampath Sanjeewa, IMC organizer, arrested for attacking nurse at Nawalapitiya hospital. Released on bail after magistrate warns both parties.
-
-🟩
-
-Sasanka Sampath Sanjeewa, organizer of the United People's Power Nawalapitiya constituency, has been arrested on charges of assaulting a nurses who supported the national people's power, working at the District General Hospital in Nawalapitiya.
-
-The suspect has been warned and released on bail of Rs.
-
-In addition, the magistrate has ordered that the complainant also threatened the suspect in the complaint filed by the Nawalapitiya police.
-
-◼️
-
-[Data](articles/e047d9e1.json)
-
-[Extended Data](ext_articles/e047d9e1.ext.json)
-
----
-
-### Sri Lanka’s Brown and Company acquires Isin Lanka
-
-*2024-09-26 17:22:00* · [`economynextcom`](https://economynext.com/sri-lankas-brown-and-company-acquires-isin-lanka-181163/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s listed Brown and Company Plc said it had acquired Isin Lanka (Private) Limited for 1.4 billion rupees.
-
-“Brown and Company PLC has acquired 100% shareholding of Isin Lanka (Private) Limited from its former shareholders on 24th September 2024, for a total consideration of Rs. 1,495,000,000/-” the company said in a stock exchange filing.
-
-It will now facilitate the warehouse operations of the Browns Group and will improve Brown and Company and its subsidiaries’ operational efficiency by increasing their manufacturing and warehousing capacity, the company said.
-
-◼️
-
-[Data](articles/9bfeb355.json)
-
-[Extended Data](ext_articles/9bfeb355.ext.json)
 
 ---

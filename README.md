@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 17:40:36**
+As of **2024-09-27 17:59:22**
 
 ## Newspaper Stats
 
-*Scraped **46,603** Articles*
+*Scraped **46,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,83 @@ dailyftlk | 3,110
 adalk | 4,298
 dailymirrorlk | 4,733
 adaderanalk | 5,482
-tamilmirrorlk | 6,248
-virakesarilk | 7,449
-adaderanasinhalalk | 8,051
+tamilmirrorlk | 6,250
+virakesarilk | 7,450
+adaderanasinhalalk | 8,052
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,603 (100.0%) of 46,603 articles have been extended.
+46,607 (100.0%) of 46,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### The Maurika Railwayrassa temporarily closed for maintenance work
+
+*2024-09-27 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201609) · `si`
+
+Maurika Railwayrassa closed for maintenance. Philikali Railway crossing on Kelani Railway line shut from 8:30 AM to 5:30 PM on 29th. Public advised to use alternative routes.
+
+🟩
+
+The Railway Department has taken steps to close the Philikali Railway crossing on the Kelani Railway line due to maintenance work.
+
+The Department of Railways said that the crossway will be closed from 8.30 am to 5.30 pm on the 29th.
+
+The Railway Department has requested the public to use alternative routes during that period.
+
+◼️
+
+[Data](articles/43945e9d.json)
+
+[Extended Data](ext_articles/43945e9d.ext.json)
+
+---
+
+### Removal of the safety of former MPs
+
+*2024-09-27 17:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பிக்களின்-பாதுகாப்பு-நீக்கம்/175-344584) · `ta`
+
+Former MPs lose police protection as of today. Police recall officers guarding ex-Speaker, Deputy Speaker, and Opposition Leader. Steps taken to return officers to their duties.
+
+🟩
+
+Police officers who have been appointed to the protection of former Members of Parliament have been recalled from today (27), police said.
+
+Accordingly, steps have been taken to return to all the police officers who have been provided with the protection of former Speaker, former Deputy Speaker and Opposition Leader.. Remble
+
+◼️
+
+[Data](articles/6648a0f4.json)
+
+[Extended Data](ext_articles/6648a0f4.ext.json)
+
+---
+
+### In response to the Inspector General of Police
+
+*2024-09-27 17:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பொலிஸ்மா-அதிபர்-நியமிக்கப்பட்டார்/175-344583) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Senior Deputy Inspector General of Police Priyantha Weerasuriya appointed as Inspector General of Police by President Anura Kumara Dissanayake, following constitutional powers.
+
+🟩
+
+Senior Deputy Inspector General of Police Priyantha Weerasuriya has been appointed as the Inspector General of Police by President Anura Kumara Dissanayake in accordance with the powers vested in the Constitution.
+
+◼️
+
+[Data](articles/cac056f6.json)
+
+[Extended Data](ext_articles/cac056f6.ext.json)
+
+---
 
 ### Acting IGP Priyantha Weerasuriya
 
@@ -56,11 +120,69 @@ He was later promoted to the post of Senior DIG.
 
 ---
 
+### I will not contest the election this time: Justice Wigneswaran
+
+*2024-09-27 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194901) · `ta`
+
+Justice Wigneswaran announces he won't contest the next election, emphasizing his commitment to Tamil rights and nationalism. He encourages youth involvement in politics and expresses gratitude for past support.
+
+🟩
+
+Former MP and Justice Wigneswaran said that I will not contest the election this time but will not contest the election this time but my political service will continue.
+
+In that statement, the aim of the establishment of our party, the Tamil People's Alliance, is to defend the Tamil people's rights to protect the Tamil nationalism from disintegrating.. Accordingly, we are carrying out political activities for the Tamil people by glowing with political experiences and young people.
+
+In the last parliamentary election, people have voted for me and sent it to Parliament. My desire is that those who are mature in politics should be supported and guided by the politician in our party.
+
+I demand that the political maturity of other Tamil parties like me be a way of contesting the upcoming parliamentary elections for the youth.
+
+As a role model for this, I continue to contest the work of our Tamil People's Alliance and I will not contest the upcoming parliamentary elections.
+
+...
+
+[Data](articles/5cc6ffdb.json)
+
+[Extended Data](ext_articles/5cc6ffdb.ext.json)
+
+---
+
+### Change in the main positions of the United People's Power
+
+*2024-09-27 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194938) · `ta`
+
+Sajith Premadasa reshuffles top positions in United People's Power party. New appointments include: Chairman - former MP, General Secretary - former MP Kabir Hasim, Gampaha District leader - former MP Harshana Rajapaksa. Changes made on 27th day of month.
+
+🟩
+
+Opposition Leader and United People's Power Leader Sajith Premadasa has taken action today (27).
+
+United People's Power Chairman - Former Member of Parliament
+
+General Secretary of the United People's Alliance - former MP Kabir Hasim
+
+United People's Power Gampaha District - Former Parliamentarian Harshana Rajagara
+
+They have been appointed by Sajith Premadasa, the leader of the United People's Power and the Leader of the Opposition.
+
+◼️
+
+[Data](articles/58d75431.json)
+
+[Extended Data](ext_articles/58d75431.ext.json)
+
+---
+
 ### Priyantha Weerasooriya appointed Acting IGP
 
 *2024-09-27 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102306/priyantha-weerasooriya-appointed-acting-igp) · `en`
 
 Senior DIG Priyantha Weerasooriya has been appointed as the Acting Inspector General of Police (IGP).
+
+President Anura Kumara Dissanayake has appointed Senior DIG Priyantha Weerasooriya as Acting IGP, under constitutional powers.
+
+The President’s Secretary Dr. Nandika Kumanayake presented the appointment letter to the Acting IGP at the Presidential Secretariat in Colombo today (27)
+
+Prior to this appointment, Weerasooriya had served as the Senior SIG in charge of the North Central Province.
 
 ◼️
 
@@ -144,6 +266,32 @@ Former Sports Minister Mahindananda Aluthgamage and former Trade Minister has be
 
 ---
 
+### Japanese government will cooperate fully with the program to eliminate corruption and irregularities
+
+*2024-09-27 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/194923) · `ta`
+
+Japanese government commits to anti-corruption efforts and supports 11 development projects in Sri Lanka, including water management schemes and infrastructure programs.
+
+🟩
+
+Japanese Ambassador to Sri Lanka Missukoshi Hidaygi has said that the Japanese government will cooperate with the government's main task of the government headed by President Anura Kumara Dissanayake.
+
+The Japanese Ambassador promised that the 11 projects that were started with the help of the Japanese government would be started immediately.
+
+Japanese Ambassador Missukoshi Hidaygi said this when he met President's Secretary Dr. Nandika Sanath Kumanayake on Wednesday (26).
+
+Accordingly, the Kandy City Water Management Scheme, the Second Stage of the Bandaranaike International Airport Development Program, the Digitalization of TV Broadcasting, the National Broadcasting and the Distribution Network Development Program, the Second Stage of the Anuradhapura North Water Project, the Rural Infrastructure Development Program,
+
+The Kalu Ganga Water Supply Scheme, Health and Medical Services Development Program will be resumed soon.
+
+...
+
+[Data](articles/7889537d.json)
+
+[Extended Data](ext_articles/7889537d.ext.json)
+
+---
+
 ### Super Century from Kusal
 
 *2024-09-27 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201605) · `si`
@@ -166,35 +314,9 @@ The century obtained in 145 balls took 6 fours and 3 hits.
 
 ---
 
-### Opening of the Northern High Security Zone streets for people's use will strengthen reconciliation
-
-*2024-09-27 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194929) · `ta`
-
-Reopening roads in Jaffna strengthens reconciliation efforts, improving daily life and economic opportunities for locals.
-
-🟩
-
-Former Jaffna Election District Parliamentarian Anganan Ramanathan has asked President Anura Kumara Dissanayake to take steps to open the four roads in the North of Valikamam in the North of Valikamam, Jaffna, as the President has ordered the re -opening of the two streets that were closed near the Presidential Palace in Colombo.
-
-Despite 15 years after the end of the war, the daily activities and transport of the people in these areas have been limited as many important roads have been closed in Jaffna.
-
-Jaffna - Palali Road (East Page): The remaining road in the high security zone near Vayavilan Central College should be released from military restrictions. The road is connected to the Pedro Ponnalai road and is essential for local traffic.
-
-Achchuveli Vayavilan - Shoulder Road
-
-Vayavilan Jaffna Airport runway side road: The opening of this road through the Katuvan junction can significantly improve the connection to the Jaffna International Airport and the surrounding areas.
-
-...
-
-[Data](articles/4bb238d6.json)
-
-[Extended Data](ext_articles/4bb238d6.ext.json)
-
----
-
 ### 35,000 fines for a person who had the tortoise
 
-*2024-09-27 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194924) · `ta`
+*2024-09-27 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/194924) · `ta`
 
 A 47-year-old man was fined Rs 35,000 for possessing a turtle. The animal weighed about 4 kg and was intended for breeding or sale as meat. Police recovered it during an arrest.
 
@@ -217,6 +339,32 @@ Meanwhile, the suspect has been given an ornament of Rs 35,000 by the Chief Magi
 [Data](articles/24cf0ffe.json)
 
 [Extended Data](ext_articles/24cf0ffe.ext.json)
+
+---
+
+### Opening of the Northern High Security Zone streets for people's use will strengthen reconciliation
+
+*2024-09-27 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194929) · `ta`
+
+Reopening roads in Jaffna strengthens reconciliation efforts, improving daily life and economic opportunities for locals.
+
+🟩
+
+Former Jaffna Election District Parliamentarian Anganan Ramanathan has asked President Anura Kumara Dissanayake to take steps to open the four roads in the North of Valikamam in the North of Valikamam, Jaffna, as the President has ordered the re -opening of the two streets that were closed near the Presidential Palace in Colombo.
+
+Despite 15 years after the end of the war, the daily activities and transport of the people in these areas have been limited as many important roads have been closed in Jaffna.
+
+Jaffna - Palali Road (East Page): The remaining road in the high security zone near Vayavilan Central College should be released from military restrictions. The road is connected to the Pedro Ponnalai road and is essential for local traffic.
+
+Achchuveli Vayavilan - Shoulder Road
+
+Vayavilan Jaffna Airport runway side road: The opening of this road through the Katuvan junction can significantly improve the connection to the Jaffna International Airport and the surrounding areas.
+
+...
+
+[Data](articles/4bb238d6.json)
+
+[Extended Data](ext_articles/4bb238d6.ext.json)
 
 ---
 
@@ -260,32 +408,6 @@ He has handed over his resignation letter to the Mass Media Minister Vijitha Her
 
 ---
 
-### Japanese government will cooperate fully with the program to eliminate corruption and irregularities
-
-*2024-09-27 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/194923) · `ta`
-
-Japanese government commits to anti-corruption efforts and supports 11 development projects in Sri Lanka, including water management schemes and infrastructure programs.
-
-🟩
-
-Japanese Ambassador to Sri Lanka Missukoshi Hidaygi has said that the Japanese government will cooperate with the government's main task of the government headed by President Anura Kumara Dissanayake.
-
-The Japanese Ambassador promised that the 11 projects that were started with the help of the Japanese government would be started immediately.
-
-Japanese Ambassador Missukoshi Hidaygi said this when he met President's Secretary Dr. Nandika Sanath Kumanayake on Wednesday (26).
-
-Accordingly, the Kandy City Water Management Scheme, the Second Stage of the Bandaranaike International Airport Development Program, the Digitalization of TV Broadcasting, the National Broadcasting and the Distribution Network Development Program, the Second Stage of the Anuradhapura North Water Project, the Rural Infrastructure Development Program,
-
-The Kalu Ganga Water Supply Scheme, Health and Medical Services Development Program will be resumed soon.
-
-...
-
-[Data](articles/7889537d.json)
-
-[Extended Data](ext_articles/7889537d.ext.json)
-
----
-
 ### The police protection provided to former MPs removes
 
 *2024-09-27 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201603) · `si`
@@ -318,37 +440,13 @@ Newly elected President Anura Kumara Dissanayake dissolved the Parliament of Sri
 
 The general election is to be held on November 14 while the new Parliament is scheduled to meet on November 21, 2024.
 
+Police Media Release on VIP Security by Adaderana Online on Scribd
+
 ◼️
 
 [Data](articles/82792530.json)
 
 [Extended Data](ext_articles/82792530.ext.json)
-
----
-
-### I will not contest the election this time: Justice Wigneswaran
-
-*2024-09-27 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/194901) · `ta`
-
-Justice Wigneswaran announces he won't contest the next election, emphasizing his commitment to Tamil rights and nationalism. He encourages youth involvement in politics and expresses gratitude for past support.
-
-🟩
-
-Former MP and Justice Wigneswaran said that I will not contest the election this time but will not contest the election this time but my political service will continue.
-
-In that statement, the aim of the establishment of our party, the Tamil People's Alliance, is to defend the Tamil people's rights to protect the Tamil nationalism from disintegrating.. Accordingly, we are carrying out political activities for the Tamil people by glowing with political experiences and young people.
-
-In the last parliamentary election, people have voted for me and sent it to Parliament. My desire is that those who are mature in politics should be supported and guided by the politician in our party.
-
-I demand that the political maturity of other Tamil parties like me be a way of contesting the upcoming parliamentary elections for the youth.
-
-As a role model for this, I continue to contest the work of our Tamil People's Alliance and I will not contest the upcoming parliamentary elections.
-
-...
-
-[Data](articles/5cc6ffdb.json)
-
-[Extended Data](ext_articles/5cc6ffdb.ext.json)
 
 ---
 
@@ -1033,6 +1131,8 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 “The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud,” he said.
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
+
+Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
 
 ◼️
 
@@ -2169,83 +2269,5 @@ He also directed the Ministry to swiftly devise a comprehensive plan to ensure t
 [Data](articles/628a67af.json)
 
 [Extended Data](ext_articles/628a67af.ext.json)
-
----
-
-### AKD boosts paddy, fishery sectors
-
-*2024-09-27 04:47:45* · [`dailyftlk`](https://www.ft.lk/news/AKD-boosts-paddy-fishery-sectors/56-767211) · `en`
-
-From 1 Oct. fertiliser subsidy up 60% to Rs. 25,000; fishermen to get Rs. 25 per litre fuel subsidy
-
-President Anura Kumara Dissanayake yesterday increased fertiliser subsidy to paddy farmers by 66% to Rs. 25,000 per hectare with effect from 1 October.
-
-He also announced a Rs. 25 for diesel and kerosene subsidy for the fisheries sector.
-
-Treasury was directed to implement the scheme expeditiously during a meeting chaired by President Dissanayake.
-
-The President’s Media Division said, in order to ensure efficient delivery of the subsidy to farmers, the funds will be directly transferred to their bank accounts.
-
-The previous Cabinet, last month too approved a decision to increase the fertiliser subsidy.
-
-◼️
-
-[Data](articles/4346da45.json)
-
-[Extended Data](ext_articles/4346da45.ext.json)
-
----
-
-### Mawbima Janatha Party appoints Dilum Amunugama as National Organiser
-
-*2024-09-27 04:47:10* · [`dailyftlk`](https://www.ft.lk/news/Mawbima-Janatha-Party-appoints-Dilum-Amunugama-as-National-Organiser/56-767210) · `en`
-
-Mawbima Janatha Party (MJP) leader Dilith Jayaweera yesterday appointed former MP Dilum Amunugama as the National Organiser of the party.
-
-“I warmly welcome former Minister and Parliamentarian Dilum Amunugama as the National Organiser of the Mawbima Janatha Party,” he noted via a post on ‘X’.
-
-Jayaweera also said that the party is preparing for its next battle at the General Election.
-
-Jayaweera stated, “In the general election, we are asking for votes in all districts. This time, we are creating the most influential political alliance in Sri Lanka. We have invited politicians, whom we believe will be accepted by the people, to engage in discussions with us.”
-
-“We are contesting the election under the ‘Sarvajana Balaya’ alliance and hope to secure a new symbol for it,” he added.
-
-◼️
-
-[Data](articles/96db7562.json)
-
-[Extended Data](ext_articles/96db7562.ext.json)
-
----
-
-### PM Harini tells schools to stop inviting politicians
-
-*2024-09-27 04:45:22* · [`dailyftlk`](https://www.ft.lk/news/PM-Harini-tells-schools-to-stop-inviting-politicians/56-767209) · `en`
-
-Education Minister and Prime Minister Dr. Harini Amarasuriya yesterday urged all schools to immediately stop inviting politicians to their school events.
-
-Speaking at an event organised by the Education Ministry, she said that inviting politicians to schools distracts students from the educational focus and risks politicising the school environment.
-
-She also stressed on the need for transparency in filling teacher vacancies and urged that the process be conducted properly to build public trust.
-
-...
-
-[Data](articles/1c16a720.json)
-
-[Extended Data](ext_articles/1c16a720.ext.json)
-
----
-
-### New President calls on Colombo Archbishop; visits mosque
-
-*2024-09-27 04:43:57* · [`dailyftlk`](https://www.ft.lk/news/New-President-calls-on-Colombo-Archbishop-visits-mosque/56-767208) · `en`
-
-Newly elected President Anura Kumara Dissanayake on Monday called on Colombo Archbishop Cardinal Malcolm Ranjith to receive his blessings. Following this visit, the President also visited Dawatagaha Mosque in Colombo to seek further blessings.
-
-◼️
-
-[Data](articles/20dd97cf.json)
-
-[Extended Data](ext_articles/20dd97cf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 23:22:48**
+As of **2024-09-27 23:38:52**
 
 ## Newspaper Stats
 
-*Scraped **46,630** Articles*
+*Scraped **46,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,110
 adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,485
-tamilmirrorlk | 6,252
+tamilmirrorlk | 6,254
 virakesarilk | 7,458
 adaderanasinhalalk | 8,056
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,056
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,630 (100.0%) of 46,630 articles have been extended.
+46,632 (100.0%) of 46,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### 62 million rupees
+
+*2024-09-27 23:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலியானவர்களுக்கு-62-மில்லியன்-ரூபாய்-நட்டஈடு/175-344601) · `ta`
+
+Easter Sunday terrorist incident compensation update: 246 million rupees received, 62 million given to victims. Pending cases in Negombo and Colombo District Courts.
+
+🟩
+
+Additional Solicitor General Dilip Peiris said that 246 million rupees has been received in connection with the Easter Sunday terrorist incident and 62 million rupees have been given to the victims.
+
+Also, if the list of the victims is submitted, the president's lawyer Shamil Perera, appearing on behalf of Archbishop Malcolm Cardinal Ranjith, told the court that the current pending compensation cases could be withdrawn in the district courts.
+
+Meanwhile, about 300 compensation cases filed by the victims are pending in Negombo and Colombo District Courts.. Remble
+
+◼️
+
+[Data](articles/e5a7ea90.json)
+
+[Extended Data](ext_articles/e5a7ea90.ext.json)
+
+---
+
+### Sri Lanka in a strong position against New Zealand
+
+*2024-09-27 23:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நியூசிலாந்துக்கெதிராக-பலமான-நிலையில்-இலங்கை/44-344600) · `ta`
+
+Sri Lanka leads NZ in Test series after Day 2. Strong batting performance from Mendis brothers and Chandimal. New Zealand faces challenge in chasing 603 runs.
+
+🟩
+
+Sri Lanka is in a state of strong at the end of today's second day of the second match, which began on Thursday (26) in Galle in a two -match Test series against New Zealand.
+
+Sri Lanka: 602/5 (batting: Camindu Mendis AE 182, Dinesh Chandimal 116, Gusal Mendis AE 106, Angelo Madhus 88, Timuth Karunaratne 46, Tanjaya de Silva 44 runs. Bowling: Glenn Philips 3/141, Tim Saudi 1/70)
+
+◼️
+
+[Data](articles/1bb788c3.json)
+
+[Extended Data](ext_articles/1bb788c3.ext.json)
+
+---
 
 ### Singapore leaders congratulate new Sri Lankan President
 
@@ -2337,49 +2379,5 @@ The Secretary to the Prime Minister's Secretariat was announced to immediately s
 [Data](articles/5b84b986.json)
 
 [Extended Data](ext_articles/5b84b986.ext.json)
-
----
-
-### Showery conditions expected to enhance from today
-
-*2024-09-27 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102289/showery-conditions-expected-to-enhance-from-today) · `en`
-
-Due to the development of a low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to enhance during the next few days starting today (27), the Meteorology Department says.
-
-Showers or thundershowers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
-
-Heavy showers of about 100 mm are likely at some places in Rathnapura, Kaluthara, Galle and Matara districts, it said.
-
-Showers or thundershowers will occur at several places elsewhere in the evening or night. Fairly heavy showers above 75 mm can be expected at some places in Northern, North-central, Eastern and Central provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/640abe69.json)
-
-[Extended Data](ext_articles/640abe69.ext.json)
-
----
-
-### Sri Lanka $50 double entry visa, $20 South Asia e-visa restored
-
-*2024-09-27 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-50-double-entry-visa-20-south-asia-e-visa-restored-181195/) · `en`
-
-ECONOMYNEXT – Sri Lanka has restored a 20-dollar double entry visa for South Asian visitors and a 20 dollar double entry visa for other countries, according to the online visa website after the new administration restored an earlier e-visa system, complying with a court order.
-
-Sri Lanka started charging 75 dollars for single entry visa after a deal with VFS Global and IVS-GBS, and 18.5 dollar fee for the private consortium and an another initial undisclosed fee of 5 dollars.
-
-The tourist visa was later cut down to 50 dollars but with a single entry.
-
-The double entry allows tourists coming to Sri Lanka to come twice within a six month period or use the country as a hub to visit other countries leveraging the island’s geographical position.
-
-Unlike in countries like Vietnam which heavily market Indo-China tours, however Sri Lanka’s travel agents do not make use of the facility much, analysts say.
-
-...
-
-[Data](articles/d83ce2fe.json)
-
-[Extended Data](ext_articles/d83ce2fe.ext.json)
 
 ---

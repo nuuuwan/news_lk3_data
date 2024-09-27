@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 05:22:46**
+As of **2024-09-27 05:44:34**
 
 ## Newspaper Stats
 
-*Scraped **46,497** Articles*
+*Scraped **46,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 387
 bbccomsinhala | 457
 colombotelegraphcom | 462
-islandlk | 2,717
+islandlk | 2,724
 economynextcom | 2,824
-dailyftlk | 3,101
+dailyftlk | 3,105
 adalk | 4,292
 dailymirrorlk | 4,733
 adaderanalk | 5,466
@@ -26,11 +26,71 @@ adaderanasinhalalk | 8,028
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,497 (100.0%) of 46,497 articles have been extended.
+46,499 (100.0%) of 46,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### In celebration of China’s 75th National Day: Towards greater progress of China-Sri Lanka friendship
+
+*2024-09-27 05:14:57* · [`dailyftlk`](https://www.ft.lk/columns/In-celebration-of-China-s-75th-National-Day-Towards-greater-progress-of-China-Sri-Lanka-friendship/4-767221) · `en`
+
+Sri Lanka and China have shared a deep and enduring bond for decades, a relationship built on mutual respect, shared values, and a vision for cooperative development. Since diplomatic relations were established in 1957, the two countries have forged an unshakable partnership that continues to thrive today. Over the years, this partnership has been marked by close political ties, economic collaboration, and cultural exchanges, contributing significantly to the growth and prosperity of both nations.
+
+...
+
+[Data](articles/16340748.json)
+
+[Extended Data](ext_articles/16340748.ext.json)
+
+---
+
+### The prelate and the premier: Why Buddharakkitha Thera got S.W.R.D. Bandaranaike murdered
+
+*2024-09-27 05:10:32* · [`dailyftlk`](https://www.ft.lk/columns/The-prelate-and-the-premier-Why-Buddharakkitha-Thera-got-S-W-R-D-Bandaranaike-murdered/4-767220) · `en`
+
+Sri Lanka’s newly elected President Anura Kumara Dissanayake has appointed Dr. Harini Amarasuriya as his Prime Minister. The academic turned politico is Sri Lanka’s third woman Prime Minister. The first woman PM of the island nation was Sirimavo Bandaranaike. Sirimavo shattered a global glass ceiling in 1960 by becoming the world’s first woman Prime Minister. Her daughter Chandrika Kumaratunga became the second woman PM in 1994. Subsequently she too made history as Sri Lanka’s first woman President.
+
+As is well known, Sirimavo and Chandrika were the wife and daughter of former Prime Minister Solomon West Ridgeway Dias Bandaranaike (SWRDB) respectively. Prime Minister Bandaranaike was killed in 1959. He died on 26 September 1959. SWRDB was born on 8 January 1899. As such this year marks the 125th birth and 65th death anniversaries of Bandaranaike.
+
+...
+
+[Data](articles/35ab79bb.json)
+
+[Extended Data](ext_articles/35ab79bb.ext.json)
+
+---
+
+### Partnering to unleash SL’s maritime industry and blue economy into multibillion-dollar income generation
+
+*2024-09-27 05:05:39* · [`dailyftlk`](https://www.ft.lk/columns/Partnering-to-unleash-SL-s-maritime-industry-and-blue-economy-into-multibillion-dollar-income-generation/4-767219) · `en`
+
+Sri Lanka has immense potential in nautical tourism, but there are regulatory barriers that limit its growth
+
+Chamber of Marine Industries of Sri Lanka extends best wishes to new President Anura Kumara Dissanayake
+
+On behalf of the Chamber of Marine Industries of Sri Lanka (CMISL), I, as Chairman, extend our heartfelt congratulations to Anura Kumara Dissanayake on your election as the 9th Executive President of Sri Lanka. Your victory reflects the trust and confidence that the people of Sri Lanka have placed in your leadership. We firmly believe that under your guidance, Sri Lanka will see sustained economic growth and transform into a key player in the global maritime industry. We are committed to partnering with your administration on this journey to unlock the vast potential of the country’s marine sector.
+
+...
+
+[Data](articles/73be0a12.json)
+
+---
+
+### Navigating new EU sustainability and labelling requirements
+
+*2024-09-27 05:02:00* · [`dailyftlk`](https://www.ft.lk/opinion/Navigating-new-EU-sustainability-and-labelling-requirements/14-767218) · `en`
+
+The European Union (EU), with its vast market of over 448 million consumers, has always been a key destination for Sri Lankan apparel exports. Known for its high-quality and ethically produced garments, Sri Lanka has secured a strong foothold in this competitive space. However, new sustainability and labelling requirements introduced by the EU present both challenges and opportunities for Sri Lankan apparel manufacturers. This feature explores the evolving regulatory landscape, the hurdles Sri Lankan companies face, and the benefits of complying with these changes.
+
+The EU has been a leader in promoting sustainability, transparency, and traceability in global supply chains, particularly in the garment industry, where environmental and social concerns are prevalent. Regulations such as the EU Textile Regulation, the Digital Product Passport (DPP) initiative, and the German Supply Chain Due Diligence Act aim to ensure that imported goods meet stringent environmental and ethical standards.
+
+...
+
+[Data](articles/aee1f23d.json)
+
+---
 
 ### Ironwood Capital Partners partially exits its stake in Colombo Coffee Company to CAL-led consortium
 
@@ -229,6 +289,94 @@ Newly elected President Anura Kumara Dissanayake on Monday called on Colombo Arc
 [Data](articles/20dd97cf.json)
 
 [Extended Data](ext_articles/20dd97cf.ext.json)
+
+---
+
+### Sri Lanka’s organic food in high demand in UK – H.C. Andrew Patrick
+
+*2024-09-27 03:34:00* · [`islandlk`](http://island.lk/sri-lankas-organic-food-in-high-demand-in-uk-h-c-andrew-patrick/) · `en`
+
+Sri Lanka could easily export organic food, ayurvedic products and pet food to the UK market, where there is a huge demand for them, British High Commissioner to Sri Lanka Andrew Patrick said.
+
+‘We are quite confident with the government and it must mainly focus on the growth of the economy and national security for the wellbeing of the country. If Sri Lanka focuses on exporting the mentioned products, it would be helpful to maintain the balance of trade between two countries, High Commissioner Patrick said as a guest speaker at a Rotary International joint meeting held at the Hilton recently.
+
+The event was organised by four Rotary Clubs, namely, Rotary Club Colombo Fort , Rotary Club Colombo South, Rotary Club Colombo Midcity and Rotary Club Colombo North. Rotary International District Governor Sushena Ranathunga also attended the event.
+
+...
+
+[Data](articles/1a2e0f56.json)
+
+---
+
+### SriLankan Airlines named Leading International Airline in South Asia at SATA 2024
+
+*2024-09-27 03:33:00* · [`islandlk`](http://island.lk/srilankan-airlines-named-leading-international-airline-in-south-asia-at-sata-2024/) · `en`
+
+SriLankan Airlines has once again been recognized as the Leading International Airline in South Asia under the Visitors’ Choice Awards category at the South Asian Travel Awards (SATA) 2024, marking its second consecutive win in this prestigious category. This accolade reinforces the airline’s status as a powerhouse in the aviation industry of South Asia, with an unmatched legacy of service and hospitality, and a comprehensive flight schedule serving 85% of the South Asian region.
+
+SATA, an annual event, celebrates the best of South Asia’s hospitality and travel industries and is widely regarded as one of the region’s most eminent travel awards, endorsed by over 18 regional tourism organisations. Winners are determined based on votes from both industry professionals and passengers, making the award a reflection of industry excellence and customer satisfaction.
+
+...
+
+[Data](articles/68d4bcf9.json)
+
+---
+
+### Siyapatha Finance posts steady growth in 1st half 2024
+
+*2024-09-27 03:31:00* · [`islandlk`](http://island.lk/siyapatha-finance-posts-steady-growth-in-1st-half-2024/) · `en`
+
+Siyapatha Finance PLC recently posted a steady financial growth for the first half ended 30 June 2024. The company recorded a Profit After Tax (PAT) of Rs.513 Million indicating a 189% increase compared to the corresponding period last year, while the Profit Before Tax (PBT) grew by 133% compared to the preceding year and stood at Rs.1,215 Million.
+
+During the period, Net Interest Income (NII) saw a notable upsurge of 70.0% to reach Rs.2,078 Million compared to Rs.1,223 Million recorded during the previous year – an increase fundamentally attributed to the significant decrease in interest expenses as at 30 June 2024.
+
+The company posted a Return on Assets (ROA) and Return on Equity (ROE) of 4.35% and 13.29%, respectively, while maintaining a Cost-to-Income Ratio of 55.59%, reflecting a positive movement of 13.93% compared to the same period in the previous year.
+
+...
+
+[Data](articles/5215ca8f.json)
+
+---
+
+### CSE bull run continues; turnover hits Rs 4.3 billion
+
+*2024-09-27 03:29:00* · [`islandlk`](http://island.lk/cse-bull-run-continues-turnover-hits-rs-4-3-billion/) · `en`
+
+The stock market, though bullish in the extreme at the outset yesterday showed signs of losing steam by the middle of the day owing to month-end profit- takings but bounced back at the end of the session, market analysts said.
+
+The conclusion of the debt restructuring exercise and the IMF’s willingness to negotiate with the government boosted the market, which touched Rs 4.3 billion in turnover, helped by major crossings. It was the highest turnover to be reported over the past several trading days.
+
+...
+
+[Data](articles/0ce2753f.json)
+
+---
+
+### Serendib Flour Mills to celebrate marketing excellence as sponsor at SLIM Brand Excellence Awards 2024
+
+*2024-09-27 03:17:00* · [`islandlk`](http://island.lk/serendib-flour-mills-to-celebrate-marketing-excellence-as-sponsor-at-slim-brand-excellence-awards-2024/) · `en`
+
+Serendib Flour Mills aims to celebrate outstanding marketing achievements as the Bronze Sponsor at the SLIM Brand Excellence Awards 2024.Organized by the Sri Lanka Institute of Marketing (SLIM), the national body for marketing, the annual SLIM Brand Excellence Awards is a highly anticipated event that recognizes the country’s top marketing achievements. It serves as a platform for healthy competition among local marketers, inspiring them to achieve international standards. The awards program is a testament to SLIM’s dedication to making marketing a pivotal force in Sri Lanka’s economy.
+
+SMFL’s sponsorship is a testament to its commitment to excellence and eagerness to contribute to the growth and development of the marketing sector in Sri Lanka. The company’s involvement will undoubtedly enrich the event, adding value to the overall experience for attendees and participants.
+
+...
+
+[Data](articles/137cf86a.json)
+
+---
+
+### Unilever Sri Lanka emerges No.1 Employer of Choice for the 12th consecutive year among undergraduates
+
+*2024-09-27 03:16:00* · [`islandlk`](http://island.lk/unilever-sri-lanka-emerges-no-1-employer-of-choice-for-the-12th-consecutive-year-among-undergraduates/) · `en`
+
+Unilever Sri Lanka has once again solidified its status as the most preferred employer among undergraduates in Sri Lanka. This survey was conducted by an independent research agency which recognized Unilever as the No. 1 Employer of Choice, underscoring the company’s commitment to nurturing young talent and providing purposeful career opportunities.
+
+The annual Employer of Choice survey gauges the preferences of undergraduate students from national and private universities in Sri Lanka, spanning management, science, and engineering fields. Over 360 undergraduates were surveyed from universities across the country, assessing respondents’ perceptions of companies based on factors such as: their investments in youth employability, brand presence among youth, career opportunities and career drivers. Unilever Sri Lanka emerged as the clear frontrunner, capturing the hearts and minds of the surveyed undergraduates.
+
+...
+
+[Data](articles/34a320f3.json)
 
 ---
 
@@ -2195,229 +2343,5 @@ SriLankan Airlines will travel 130 times a week to international airports in Ind
 [Data](articles/a8217970.json)
 
 [Extended Data](ext_articles/a8217970.ext.json)
-
----
-
-### The Sri Lankan people expect serious changes under the new president - al -Jazeera
-
-*2024-09-26 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/194846) · `ta`
-
-Sri Lankans expect significant changes under new president Anura Kumara Dissanayake. He won support from protesters who removed former president Gotabhaya Rajapakse. Dissanayake faces challenges addressing Tamil minority grievances and resolving ethnic divisions. His victory marks a shift away from traditional elite rule, similar to 1956 when S.W.R.D. Bandaranaike seized power.
-
-🟩
-
-Dilsan Jayasanga says that the success of Sri Lanka in the crisis is the new beginning of the vigorous path.
-
-Two years ago, he went to the area where the Kota Ko Kom demonstration was held.
-
-The demonstrations were held with the intention of removing the then President Gotabhaya Rajapakse.
-
-Following the closure of the hotel, he began to go to the demonstration areas after being closed.
-
-Jayasanka told Al Jazeera that many of the non -partisans who participated in the Arakalaya are currently under the power of the national people.He made this statement the day after Anuragumara Dissanayake was sworn in as president.
-
-When Dissanayake took office at the office opposite the Gallemukhaitam, I think this is the most favorable thing for our country. Jayasanka, who fought for the country that spent several weeks in the Galle Face in 2022. "
-
-...
-
-[Data](articles/61253e40.json)
-
-[Extended Data](ext_articles/61253e40.ext.json)
-
----
-
-### Tilum Amunugama appoints the National Organizer of the Maubima Janata Party
-
-*2024-09-26 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194835) · `ta`
-
-Tilum Amunugama appoints former Minister as National Organizer of Maubima Janata Party. Dilith Jayaweera hands over appointment letter on 26th.
-
-🟩
-
-Former Minister of State for the Maubima Janata Party has been appointed as the national organizer of the Janata Party.
-
-Moubima Janata Party leader Dilith Jayaweera has handed over the appointment letter to Amunugama on Thursday (26).
-
-◼️
-
-[Data](articles/d62c3a59.json)
-
-[Extended Data](ext_articles/d62c3a59.ext.json)
-
----
-
-### What happened to someone who stole passengers in the airport
-
-*2024-09-26 15:02:33* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්තොටේ-මගීන්ගේ-භාණ්ඩ-සොරාගත්-අයකුට-සිදුවූ-දේ/11-412166) · `si`
-
-A 22-year-old man was arrested at Katunayake Airport for stealing luggage. He was caught on camera and handed over to police. Investigations are ongoing.
-
-🟩
-
-Airporting operating yard served in the airport storage yard, which arrives at the Katunayake Airport, has been arrested by Katunayake airport worker.
-
-He is a 22 year old Sri Lankan airport, Katunayake airport, a resident of Thimbirigaskatuwa, Negombo.
-
-He had arrived from Kuala Lumpur from Kuala Lumpur from Kuala Lumpur from Kuala Lumpur, UL.Doing, the way it is stolen in them is recorded in its mounted safe camera system.
-
-The arrest was made after the officials were delivered to the Katunayake Airport Police who inspected these cameras.
-
-SriLankan Airlines and the Bandaranaike International Airport had received the disappearance of goods in the passenger baggage for a long passenger baggage.
-
-Katunayake Airport Police are conducting further investigations into the incident. (I J)
-
-◼️
-
-[Data](articles/ebb9b1d3.json)
-
-[Extended Data](ext_articles/ebb9b1d3.ext.json)
-
----
-
-### Chandimal is a century
-
-*2024-09-26 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201566) · `si`
-
-Dinesh Chandimal scores 100th Test century in 2nd NZ test series. Sri Lanka reaches 186/2 in first innings.
-
-🟩
-
-Dinesh Chandimal passed its 16th Test century today (26).
-
-The 2nd Test series against New Zealand was played.
-
-Sri Lanka has scored 186 runs for the loss of 2 wickets for their first innings.
-
-◼️
-
-[Data](articles/53c9e872.json)
-
-[Extended Data](ext_articles/53c9e872.ext.json)
-
----
-
-### An excellent century from Chandimal
-
-*2024-09-26 14:54:04* · [`adalk`](https://www.ada.lk/breaking_news/චන්දිමාල්ගෙන්-විශිෂ්ඨ-ශතකයක්/11-412165) · `si`
-
-Dinesh Chandimal scored an excellent century just before New Zealand's team arrived.
-
-🟩
-
-Dinesh Chandimal scored a few moments before the New Zealand team.
-
-◼️
-
-[Data](articles/a159d248.json)
-
-[Extended Data](ext_articles/a159d248.ext.json)
-
----
-
-### Three -wheeler in Nuwara Eliya - Lorry collision
-
-*2024-09-26 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194839) · `ta`
-
-Nuwara Eliya: Three-wheeler collides with lorry, driver injured, another killed. Driver arrested, investigation ongoing.
-
-🟩
-
-A three -wheeler driver was admitted to the Nuwara Eliya District General Hospital on Wednesday (25) after a three -wheeler collided head -to -face on the Nuwara Eliya - Badulla main road.
-
-A three -wheeler driver who died in the accident has been identified as a 29 -year -old from Nuwara Eliya Kalukela area.
-
-In addition, the three -wheeler was heavily damaged in the accident, police said the police said. The driver of the lorry has been arrested in connection with the accident and further investigations are being carried out by the Nuwara Eliya police.
-
-◼️
-
-[Data](articles/b20a4651.json)
-
-[Extended Data](ext_articles/b20a4651.ext.json)
-
----
-
-### World’s longest-serving death row inmate acquitted in Japan
-
-*2024-09-26 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102279/worlds-longest-serving-death-row-inmate-acquitted-in-japan) · `en`
-
-An 88-year-old man who is the world’s longest-serving death row inmate has been acquitted by a Japanese court, after it found that evidence used against him was fabricated.
-
-Iwao Hakamada, who has been on death row for more than half a century, was found guilty in 1968 of killing his boss, the man’s wife and their two teenage children.
-
-He was recently granted a retrial amid suspicions that investigators may have planted evidence that led to his conviction for quadruple murder.
-
-More than half a century spent on death row has taken a heavy toll on Hakamada’s mental health, though, meaning he was unfit to attend the hearing where his acquittal was finally handed down.
-
-Hakamada’s case is one of Japan’s longest and most famous legal sagas, and has attracted widespread public interest, with some 500 people lining up for seats in the courtroom in Shizuoka on Thursday.
-
-...
-
-[Data](articles/0c262a70.json)
-
-[Extended Data](ext_articles/0c262a70.ext.json)
-
----
-
-### Bandaranaike commemoration celebrates at two places
-
-*2024-09-26 14:41:08* · [`adalk`](https://www.ada.lk/breaking_news/බණ්ඩාරනායක-ගුණ-සමරුව-ස්ථාන-දෙකකදී-සැමරේ/11-412164) · `si`
-
-Sri Lanka Freedom Party commemorates 65th anniversary of S.R.D. Bandaranaike. Celebrations held at Horagolla Bandaranaike Peace Center and Bandaranaike Memorial Hall. Former President Chandrika Bandaranaike Kumaratunga leads one event, while Dayasiri Jayasekara and Thilanga Sumathipala organize another.
-
-🟩
-
-The 65th Gunausamma of the Sri Lanka Freedom Party (SLFP), the late Prime Minister S.R.D.
-
-A team was led by former President Chandrika Bandaranaike Kumaratunga at Horagolla Bandaranaike Peace.
-
-Another group, including Dayasiri Jayasekara and Thilanga Sumathipala, was organized a celebration at the Bandaranaike.
-
-◼️
-
-[Data](articles/c733fa19.json)
-
-[Extended Data](ext_articles/c733fa19.ext.json)
-
----
-
-### Closer China ties will help Sri Lanka safeguard its sovereignty, dignity: envoy
-
-*2024-09-26 14:38:00* · [`economynextcom`](https://economynext.com/closer-china-ties-will-help-sri-lanka-safeguard-its-sovereignty-dignity-envoy-181120/) · `en`
-
-ECONOMYNEXT – A closer cooperation between Sri Lanka and China will improve Sri Lanka’s capability in safeguarding its sovereignty, security, development and dignity, Beijing’s Ambassador to Colombo Qi Zhenhong said.
-
-His statement at an event celebrating the 75th anniversary of the founding of the People’s Republic of China comes amid increasing geopolitical cold war between Beijing and India in the island nation.
-
-China has been vying for key investments and infrastructure projects in Sri Lanka, while India also has been competing for large energy, port, and defence deals.
-
-“Facts have repeatedly shown that the closer and deeper the cooperation between China and Sri Lanka, the more capable Sri Lanka will be in safeguarding its sovereignty, security, development and dignity, and in playing a bigger role in regional and international affairs,” Zhenhong said at the reception held in Colombo on Wednesday (25).
-
-...
-
-[Data](articles/0aab2dfc.json)
-
-[Extended Data](ext_articles/0aab2dfc.ext.json)
-
----
-
-### The new governor of the east took charge of the duties
-
-*2024-09-26 14:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கின்-புதிய-ஆளுனர்-கடமைகளை-பொறுப்பேற்றார்/175-344523) · `ta`
-
-New East Governor assumes duties in Trincomalee. Former Vice-Chancellor of University of Uva Wellesa, Kandalai Akrapodi Vidyalaya alumnus. Attended ceremony with officials and National People's Power representative.
-
-🟩
-
-As the Governor of the Eastern Province, Bay Jayantha Lal Ratnasekera officially assumed his duties at the Governor's Secretariat in Trincomalee today (26).
-
-He is the Vice -Chancellor of the University of Uva Wellesa from February to 20th November 2017 and is an alumnus of Kandalai Akrapodi Vidyalaya.
-
-Provincial Chief Secretary RMPS Ratnayake, Governor Secretary LP Madanayake, Provincial Ministries Secretaries, Provincial Department Heads, Executive Committee Member of the National People's Power Arun Hemachandra and many others were present.
-
-◼️
-
-[Data](articles/9826bbd6.json)
-
-[Extended Data](ext_articles/9826bbd6.ext.json)
 
 ---

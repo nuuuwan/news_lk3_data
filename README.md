@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 19:10:57**
+As of **2024-09-27 19:22:42**
 
 ## Newspaper Stats
 
@@ -26,59 +26,81 @@ adaderanasinhalalk | 8,053
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,612 (100.0%) of 46,616 articles have been extended.
+46,616 (100.0%) of 46,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
 
-### භූ විද්‍යා හා පතල් කාර්යාංශයේ අධ්‍යක්ෂ ජනරාල්වරයාට එරෙහිව අපහාස නඩුවක්
+### Insults case against Director General of Geological and Mines Bureau
 
 *2024-09-27 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201611) · `si`
 
-භූ විද්‍යා හා පතල් කාර්යාංශයේ අධ්‍යක්ෂ ජනරාල්වරයාට එරෙහිව අධිකරණයට අපහාස කිරීම යටතේ නඩුවක් ගොනු කිරීමට අපේක්ෂා කරන බව පරිසර යුක්ති කේන්ද්‍රය ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+Supreme Court case filed against Director General of Geological and Mines Bureau over illegal sand mining permits issued despite court orders.
 
-මාදම්පේ ප්‍රදේශයේ සිදුවන නීති විරෝධී වැලි ජාවාරමට අදාළව ශ්‍රේෂ්ඨාධිකරණය විසින් නිකුත් කළ නියෝගයක් උල්ලංඝනය කිරීම සම්බන්ධයෙන් මෙම නඩුව ගොනු කරන බව ඔවුන් අධිකරණයට දැනුම් දී ඇත.
+🟩
 
-මාදම්පේ ප්‍රදේශයේ අක්කර දෙසීයක පමණ  භූමි භාගයක සිදුවන නීති විරෝධි සිලිකා ජාවාරම තුළින් ඇතිවන පාරිසරික විනාශයන් වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා පරිසර යුක්ති කේන්ද්‍රය ඇතුළු පිරිසක් විසින් මූලික අයිතිවාසිකම් පෙත්සමක් ගොනු කර තිබුණි.
+The Center has informed the Supreme Court that a case is expected to file a case under the context of the Director General of Geological and Mines.
 
-එම පෙත්සම ඉකුත් ජූලි මස 15 වැනිදා කැඳවූ අවස්ථාවේදී  අදාළ කැණීම් සිදුවන ප්‍රදේශයේ දැනට පවතින තත්ත්වය ඒ ආකාරයෙන්ම පවත්වාගෙන යාමට පියවර ගන්නා ලෙස ශ්‍රේෂ්ඨාධිකරණය නියෝග කර තිබුණි.
+They have informed the court that the case will file the case regarding the violations issued by the Supreme Court in Madampe.
 
-...
+A group of people, including the Environmental Justice Center, had filed a fundamental rights petition demanding the issuance of an illegal destruction prevention order in the Madampe area.
+
+The Supreme Court had ordered that the petition was taken up on July 15, the Supreme Court ordered the existing situation.
+
+However, the Director General of the Geological and Mines Bureau has issued four sand mining permits, which he has taken a court order and has stated in the Supreme Court.
+
+The three-judge panel has ordered the lawyer of the Pet Assistant to take action before the relevant Director General.
+
+◼️
 
 [Data](articles/9dd261df.json)
 
+[Extended Data](ext_articles/9dd261df.ext.json)
+
 ---
 
-### மின்சார கட்டணத்தை குறைக்க திட்டம்
+### Plan to reduce electricity bills
 
 *2024-09-27 18:55:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-கட்டணத்தை-குறைக்க-திட்டம்/175-344586) · `ta`
 
-மின்சாரக் கட்டணத்தை குறைக்கும் திட்டத்தில் பகுப்பாய்வு ஒன்றை ஆரம்பிக்கவுள்ளதாக இலங்கை மின்சார சபை தெரிவித்துள்ளது.
+Ceylon Electricity Board plans to analyze reducing electricity tariffs. Report to be submitted to Public Utilities Commission once new members are appointed. Government aims to lower rates for public relief during challenging times.
 
-பகுப்பாய்வின் அறிக்கை இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பிக்கப்படும் என இலங்கை மின்சார சபையின் தலைவர் கலாநிதி திலக் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+🟩
 
-தற்போது, பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் உத்தியோகபூர்வ பதவிக்காலம் நிறைவடைந்துள்ள நிலையில், புதிய பாராளுமன்றம் உருவாக்கப்பட்ட பின்னரே புதிய உறுப்பினர்கள் நியமிக்கப்படுவார்கள்.
+The Ceylon Electricity Board (CEB) has said that an analysis will be launched on the project to reduce the electricity tariff.
 
-மின்சாரக் கட்டணப் பகுப்பாய்வை மாதம் நான்கு தடவைகள் நடத்த வேண்டிய நிலையில், அது முறையாகச் செய்யப்படவில்லை என கலாநிதி சியம்பலாபிட்டிய சுட்டிக்காட்டினார்.
+The Ceylon Electricity Board Chairman Dr. Tilak Siyambalapitiya said that the report of the analysis will be submitted to the Public Utilities Commission of Sri Lanka.
 
-இந்த சவாலான காலக்கட்டத்தில் பொதுமக்களுக்கு அதிகபட்ச நிவாரணம் வழங்குவதற்காக மின்சார கட்டணத்தை குறைப்பதை அரசாங்கம் நோக்கமாகக் கொண்டுள்ளது என்று அவர் மேலும் வலியுறுத்தினார். R
+At present, as the official term of the Public Utilities Commission is over, new members will be appointed only after the creation of a new parliament.
+
+Dr. Siyambalapitiya pointed out that it was not properly done as it had to conduct the electricity tariff analysis four times a month.
+
+He further stressed that the government aims to reduce electricity tariffs to provide maximum relief to the public during this challenging period.. Remble
 
 ◼️
 
 [Data](articles/e4daf8c8.json)
 
+[Extended Data](ext_articles/e4daf8c8.ext.json)
+
 ---
 
-### හිටපු මැති ඇමතින්ට දී තිබූ ආරක්ෂාව ඉවත්කරයි
+### The former ministers removed security
 
 *2024-09-27 18:06:43* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මැති-ඇමතින්ට-දී-තිබූ-ආරක්ෂාව-ඉවත්කරයි/11-412185) · `si`
 
-පාර්ලිමේන්තුව විසුරුවා ඇති හෙයින් පාර්ලිමේන්තුව නියෝජනය කළ මැති ඇමතිවරුන්ට ලබා දී ආරක්ෂක නිලධාරීන් මෙන්ම   හිටපු ආණ්ඩුකාරවරුන්ට, පළාත් සභා නියෝජනය කළ පළාත් අමාත්‍යවරුන්ට හා මන්ත්‍රවරුන්ට ලබාදී තිබූ ප්‍රභූ ආරක්ෂාව ඉවත් කිරිමට කටයුතු කර තිබේ.
+Former ministers removed security after Parliament dissolution. Security personnel, guards, and provincial officials were taken away.
+
+🟩
+
+Since Parliament has been dissolved, the security personnel representing Parliament and the security guards and former governors, representatives, representatives of the Provincial Ministers, the Provincial Ministers, Provincial Ministers and Provincial Ministers have been removed.
 
 ◼️
 
 [Data](articles/57df5f19.json)
+
+[Extended Data](ext_articles/57df5f19.ext.json)
 
 ---
 
@@ -906,25 +928,35 @@ Meanwhile, former SJB MP Kabir Hashim has been appointed as the General Secretar
 
 ---
 
-### කොස්තාපල් නිලයේ සිට වැඩබලන පොලිස්පති දක්වා පැමිණි ප්‍රියන්ත වීරසූරිය කවුද?
+### Who is Priyantha Weerasuriya who came from constable rank to acting IGP?
 
 *2024-09-27 12:04:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg56z8pm5zpo) · `si`
 
-කොස්තාපල් නිලයේ සිට වැඩබලන පොලිස්පති දක්වා පැමිණි ප්‍රියන්ත වීරසූරිය කවුද?
+Priyantha Weerasuriya: From constable to acting IGP. Promoted through ranks, served UN peacekeeping missions. Appointed Senior DIG before becoming acting IGP due to court order.
 
-මාස 03 කට අධික කාලයක් හිස්ව තිබූ පොලිස්පති ධූරය සඳහා වැඩබලන පොලිස්පතිවරයා ලෙස ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත වීරසූරිය පත්කර තිබේ.
+🟩
 
-ඉකුත් ජුලි 24 වන දා පොලිස්පති දේශබන්දු තෙන්නකෝන්ට එම ධුරයේ කටයුතු කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
+Who is Priyantha Weerasuriya who came from constable rank to acting IGP?
 
-දේශබන්දු තෙන්නකෝන් පොලිස්පතිවරයා වශයෙන් පත්කිරීමට ජනාධිපතිවරයා ගනු ලැබූ තීරණය බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් ඇතුළු පාර්ශවකරුවන් විසින් ඉදිරිපත් කරන ලද මූලික අයිතිවාසිකම් පෙත්සම් 9 ක් විභාගයට ගැනීමට අවසර දෙමින් ශ්‍රේෂ්ඨාධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+Senior DIG Priyantha Weerasuriya has been appointed as acting IGP for over three months.
 
-1969 වසරේ පෙබරවාරි මස 09 වන දා දොඩංගොඩ ප්‍රදේශයේදී උපත ලැබූ වීරසූරිය ලියන ආරච්චිගේ සමන්  ප්‍රියන්ත පොලිස් දෙපාර්තමේන්තුවට එක්වූයේ 1988 වසරේදීයි.
+On July 24, the Supreme Court issued an interim injunction with the inspection of the IGP to Tennakoon on July 24.
 
-කොස්තාපල්වරයෙකු ලෙස පොලිස් සේවයට එක්වූ  ඔහු 1988 වසරේ සිට 1992 දක්වා වූ කාල සීමාවේදී පොලිස් විශේෂ කාර්ය බළකායේ සහ රථවාහන සහ අපරාධ කොට්ඨාසයන්හි සේවය කළේය.
+The Supreme Court issued the order to be heard by the Supreme Court, who was submitted to the appointment of Deshabandu Tennakoon to appoint the President as IGP.
+
+Liyasastra Liyanarachchi, born in Dodangoda, was born in 1988, born on the 9th of February 1969.
+
+He joined the Police Service as a constable and served in the Police Special Task Force and Traffic and Criminalities during the period from 1988 to 1992.
+
+Priyantha Weerasuriya has been promoted to the sub-inspector of 1992s in 1992, served at Maradana, Vavuniya and Slave Island Police.
+
+He included the Degree of the University of Colombo during the period from 1993 to 1998.
 
 ...
 
 [Data](articles/edb5d550.json)
+
+[Extended Data](ext_articles/edb5d550.ext.json)
 
 ---
 

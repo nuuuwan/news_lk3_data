@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 16:11:37**
+As of **2024-09-27 16:22:42**
 
 ## Newspaper Stats
 
-*Scraped **46,597** Articles*
+*Scraped **46,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,91 @@ dailymirrorlk | 4,733
 adaderanalk | 5,480
 tamilmirrorlk | 6,248
 virakesarilk | 7,449
-adaderanasinhalalk | 8,047
+adaderanasinhalalk | 8,048
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,595 (100.0%) of 46,597 articles have been extended.
+46,598 (100.0%) of 46,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
 
-### வலி வடக்கு உயர்பாதுகாப்பு வலய வீதிகளையும் மக்கள் பாவனைக்காக திறப்பது நல்லிணக்கத்தை வலுப்படுத்தும் - ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு அங்கஜன் இராமநாதன் வேண்டுகோள்
+### Super Century from Kusal
+
+*2024-09-27 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201605) · `si`
+
+Kusal Mendis scores 100th century in 67th Test match against New Zealand. Achieves milestone in 145 balls with 6 fours and 3 sixes.
+
+🟩
+
+Kusal Mendis won a century in the second Test match between Sri Lanka and New Zealand.
+
+Kusal reported that the 67th Test cricket match recorded his 10th Test century.
+
+The century obtained in 145 balls took 6 fours and 3 hits.
+
+◼️
+
+[Data](articles/8edb1879.json)
+
+[Extended Data](ext_articles/8edb1879.ext.json)
+
+---
+
+### Opening of the Northern High Security Zone streets for people's use will strengthen reconciliation
 
 *2024-09-27 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/194929) · `ta`
 
-கொழும்பில் ஜனாதிபதி மாளிகைக்கு அருகில் மூடப்பட்டிருந்த இரண்டு வீதிகளை மீண்டும் மக்கள் பாவனைக்காக திறக்கப்படுவதற்கு ஜனாதிபதி உத்தரவிட்ட நிலையில், யாழ்ப்பாணம் வலிகாமம் வடக்குப் பகுதியில் பாதுகாப்பு வலயத்தில் உள்ள 4 வீதிகளையும் திறப்பதற்கு நடவடிக்கை எடுக்குமாறு ஜனாதிபதி அநுர குமார திசாநாயக்கவுக்கு யாழ்ப்பாண தேர்தல் மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன் கடிதம் மூலம் கோரிக்கை விடுத்துள்ளார்.
+Reopening roads in Jaffna strengthens reconciliation efforts, improving daily life and economic opportunities for locals.
 
-யுத்தம் முடிவடைந்து 15 வருடங்கள் கடந்துள்ள போதிலும், பொதுமக்களின் வாழ்க்கைக்கு முக்கியமான பல வீதிகள் யாழ்ப்பாணத்தில் மூடப்பட்டுள்ளதால், இந்தப் பகுதிகளில் உள்ள மக்களின் அன்றாட நடவடிக்கைகள் மற்றும் போக்குவரத்து செயற்பாடுகள் மட்டுப்படுத்தப்பட்டுள்ளது.
+🟩
 
-யாழ்ப்பாணம் - பலாலி வீதி (கிழக்கு பக்கம்): வயாவிளான் மத்திய கல்லூரிக்கு அடுத்துள்ள உயர் பாதுகாப்பு வலயத்தில் எஞ்சியுள்ள வீதி இராணுவ கட்டுப்பாடுகளில் இருந்து விடுவிக்கப்பட வேண்டும். இந்த வீதி பருத்தித்துறை பொன்னாலை வீதியுடன் இணைவதுடன் உள்ளூர் போக்குவரத்திற்கு இன்றியமையாததாகும்.
+Former Jaffna Election District Parliamentarian Anganan Ramanathan has asked President Anura Kumara Dissanayake to take steps to open the four roads in the North of Valikamam in the North of Valikamam, Jaffna, as the President has ordered the re -opening of the two streets that were closed near the Presidential Palace in Colombo.
+
+Despite 15 years after the end of the war, the daily activities and transport of the people in these areas have been limited as many important roads have been closed in Jaffna.
+
+Jaffna - Palali Road (East Page): The remaining road in the high security zone near Vayavilan Central College should be released from military restrictions. The road is connected to the Pedro Ponnalai road and is essential for local traffic.
+
+Achchuveli Vayavilan - Shoulder Road
+
+Vayavilan Jaffna Airport runway side road: The opening of this road through the Katuvan junction can significantly improve the connection to the Jaffna International Airport and the surrounding areas.
 
 ...
 
 [Data](articles/4bb238d6.json)
 
+[Extended Data](ext_articles/4bb238d6.ext.json)
+
 ---
 
-### ஆமையை தன்வசம் வைத்திருந்த நபருக்கு 35,000 ரூபாய் அபராதம்
+### 35,000 fines for a person who had the tortoise
 
 *2024-09-27 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/194924) · `ta`
 
-ஆமை ஒன்றை தன்வசம் வைத்திருந்த நபரொருவருக்கு காலி பிரதான நீதவான் இசுரு நெத்திகுமாரவினால் 35,000 ரூபாய் ஆபராதம் விதிக்கப்பட்டுள்ளது.
+A 47-year-old man was fined Rs 35,000 for possessing a turtle. The animal weighed about 4 kg and was intended for breeding or sale as meat. Police recovered it during an arrest.
 
-காலி கலேகன பகுதியைச் சேர்ந்த 47 வயதுடைய ரணேபுர ஹேவகே அஜித்  என்ற சந்தேநபருக்கே அபராதம் விதிக்கப்பட்டுள்ளது.
+🟩
 
-பொலிஸார் சந்தேக நபரை கைது செய்து அவரது பையை சோதனையிட்டதில் சுமார் நான்கு கிலோ எடையுள்ள ஆமை மீட்கப்பட்டுள்ளது.
+A person who has a turtle has been given an ornament of Rs 35,000 by the Chief Magistrate Isuru Nethikumar.
 
-ஆரம்ப விசாரணையில் தனது வீட்டுத் தோட்டத்தில் உள்ள குளமொன்றில் இனப்பெருக்கம் செய்வதற்காக இந்த ஆமையை கொண்டு செல்வதாக தெரிவித்திருந்த நிலையில், மேலதிக விசாரணைகளில் இறைச்சிக்காக விற்பனை செய்யவிருந்தமை தெரியவந்துள்ளது.
+A 47 -year -old Ranepura Hewage Ajith, a 47 -year -old from Galle Gallekana, has been fined.
 
-இந்நிலையில், குற்றப் புலனாய்வுப் பிரிவின் குற்றப் புலனாய்வுப் பிரிவின் பொறுப்பதிகாரி தம்மிக்க நாகஹவத்தவின் பணிப்புரையின் பேரில் சார்ஜன்ட் 38531 குருகே சந்தேக நபரை நீதிமன்றத்தில் ஆஜர்படுத்தியுள்ளார்.
+The turtle weighing about four kilograms has been recovered after police arrested the suspect and searched his bag.
 
-இதன்போது, சந்தேக நபருக்கு  காலி பிரதான நீதவான் இசுரு நெத்திகுமாரவினால் 35,000 ரூபாய் ஆபராதம் விதிக்கப்பட்டுள்ளது.
+Initial inquiries revealed that the turtle was being carried to breed at a pond in his home garden, and further investigations were to be sold for meat.
+
+In this case, the Criminal Investigation Division (CID) in charge of the Criminal Investigation Division has produced the suspect in court on the directive of Dhammika Nagahawatta.
+
+Meanwhile, the suspect has been given an ornament of Rs 35,000 by the Chief Magistrate Isuru Nethikumara.
 
 ◼️
 
 [Data](articles/24cf0ffe.json)
+
+[Extended Data](ext_articles/24cf0ffe.ext.json)
 
 ---
 
@@ -163,6 +201,10 @@ President Anura Kumara Dissanayake has dissolved the Parliament from 24th at Tue
 *2024-09-27 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102302/police-officers-assigned-for-security-of-ex-mps-recalled) · `en`
 
 Sri Lanka Police said that all police personnel assigned to provide security to former Parliamentarians have been recalled from today, except those providing security to the former Speaker, former Deputy Speaker and former Opposition Leader.
+
+Newly elected President Anura Kumara Dissanayake dissolved the Parliament of Sri Lanka with effect from midnight on Tuesday (24), via a Gazette notification.
+
+The general election is to be held on November 14 while the new Parliament is scheduled to meet on November 21, 2024.
 
 ◼️
 
@@ -880,8 +922,6 @@ US President Joe Biden has congratulated Sri Lanka’s new President Anura Kumar
 
 “I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific,” he said in a post on X, formerly known as Twitter, on Thursday.
 
-Congratulations on your victory, @AnuraDisanayake.The people of Sri Lanka chose you as their president in a free, fair, and peaceful election of which they are justifiably proud.I look forward to working with you to advance peace, security, and prosperity in the Indo-Pacific.— President Biden (@POTUS) September 26, 2024
-
 ◼️
 
 [Data](articles/c4c75fc3.json)
@@ -950,7 +990,7 @@ Sri Lankaans have selected Anura Dissanayake from a fair and peaceful election a
 
 *2024-09-27 10:15:00* · [`economynextcom`](https://economynext.com/us-president-congratulates-sri-lanka-counterpart-181285/) · `en`
 
-ECONOMYNEXT – The USA’s outgoing president Joesph Biden has congratulated Sri Lanka’s newly elected president Anura Dissanayake.
+ECONOMYNEXT – The United States of America’s outgoing president Joseph Biden has congratulated Sri Lanka’s newly elected president Anura Dissanayake.
 
 “Congratulations on your victory, @AnuraDisanayake,” Joe Biden said on social media platform X.
 
@@ -2179,21 +2219,5 @@ The conclusion of the debt restructuring exercise and the IMF’s willingness to
 [Data](articles/0ce2753f.json)
 
 [Extended Data](ext_articles/0ce2753f.ext.json)
-
----
-
-### Serendib Flour Mills to celebrate marketing excellence as sponsor at SLIM Brand Excellence Awards 2024
-
-*2024-09-27 03:17:00* · [`islandlk`](http://island.lk/serendib-flour-mills-to-celebrate-marketing-excellence-as-sponsor-at-slim-brand-excellence-awards-2024/) · `en`
-
-Serendib Flour Mills aims to celebrate outstanding marketing achievements as the Bronze Sponsor at the SLIM Brand Excellence Awards 2024.Organized by the Sri Lanka Institute of Marketing (SLIM), the national body for marketing, the annual SLIM Brand Excellence Awards is a highly anticipated event that recognizes the country’s top marketing achievements. It serves as a platform for healthy competition among local marketers, inspiring them to achieve international standards. The awards program is a testament to SLIM’s dedication to making marketing a pivotal force in Sri Lanka’s economy.
-
-SMFL’s sponsorship is a testament to its commitment to excellence and eagerness to contribute to the growth and development of the marketing sector in Sri Lanka. The company’s involvement will undoubtedly enrich the event, adding value to the overall experience for attendees and participants.
-
-...
-
-[Data](articles/137cf86a.json)
-
-[Extended Data](ext_articles/137cf86a.ext.json)
 
 ---

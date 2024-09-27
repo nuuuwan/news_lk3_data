@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 00:23:47**
+As of **2024-09-28 00:38:27**
 
 ## Newspaper Stats
 
-*Scraped **46,645** Articles*
+*Scraped **46,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 461
 colombotelegraphcom | 462
 islandlk | 2,731
 economynextcom | 2,840
-dailyftlk | 3,110
+dailyftlk | 3,120
 adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,485
@@ -26,11 +26,175 @@ adaderanasinhalalk | 8,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,644 (100.0%) of 46,645 articles have been extended.
+46,651 (100.0%) of 46,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Sri Lanka-Maldives Business Council congratulates new President
+
+*2024-09-27 23:54:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Maldives-Business-Council-congratulates-new-President/34-767263) · `en`
+
+On behalf of the Sri Lanka-Maldives Business Council, I extend our heartfelt congratulations on your appointment as President of Sri Lanka. Your leadership comes at a pivotal time for both Sri Lanka and the Maldives, and we are eager to explore the opportunities that lie ahead. We look forward to collaborating closely with you to strengthen the ties between our countries and promote mutual growth.
+
+While our export revenue has grown to $ 163 million in 2023, it has not kept pace with overall market growth, resulting in a decline in our market share in the Maldives, which now stands at 4.65%, down from approximately 7.02% eight years ago. This decline highlights the need for concerted efforts to enhance our presence in this vital market.
+
+...
+
+[Data](articles/5ff0ea2a.json)
+
+[Extended Data](ext_articles/5ff0ea2a.ext.json)
+
+---
+
+### Free Trade Zone Manufacturers’ Association congratulates PM Harini
+
+*2024-09-27 23:54:04* · [`dailyftlk`](https://www.ft.lk/business/Free-Trade-Zone-Manufacturers-Association-congratulates-PM-Harini/34-767262) · `en`
+
+The Free Trade Zone Manufacturers’ Association (FTZMA) has extended its heartfelt congratulations to newly appointed Prime Minister Dr. Harini Amarasuriya.
+
+“Your appointment as the 16th and third woman to serve in this capacity in Sri Lanka’s history is seen as a significant step forward for gender representation in our country’s politics and is expected to inspire a new generation of female leaders,” said a congratulatory letter signed by FTZMA Chairman Dhammika Fernando and Hon. Secretary Tyronne Weckasinghe.
+
+...
+
+[Data](articles/c97ff87f.json)
+
+[Extended Data](ext_articles/c97ff87f.ext.json)
+
+---
+
+### SLT-Mobitel offers unbeatable rates on Tourist SIM and eSIM packages
+
+*2024-09-27 23:53:57* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-offers-unbeatable-rates-on-Tourist-SIM-and-eSIM-packages/34-767261) · `en`
+
+Reaffirming its commitment to offering best in class connectivity, SLT-Mobitel has unveiled an exciting value proposition with its latest Tourist SIM pack, specifically designed to cater to the communication needs of tourists visiting the island nation.
+
+Be it exploring the lush tea plantations of the hill country, soaking up the sun on the southern beaches, or immersing yourself in Colombo’s vibrant culture, SLT-Mobitel ensures you stay connected with seamless, ultra-high-speed mobile internet through its robust nationwide 4G network and future-ready network infrastructure.
+
+...
+
+[Data](articles/6a1b6756.json)
+
+[Extended Data](ext_articles/6a1b6756.ext.json)
+
+---
+
+### Uber Eats launches campaign focus on deliveries beyond food
+
+*2024-09-27 23:53:17* · [`dailyftlk`](https://www.ft.lk/business/Uber-Eats-launches-campaign-focus-on-deliveries-beyond-food/34-767260) · `en`
+
+Uber Eats, has unveiled a new campaign ‘Get Almost, Almost Anything’ focused on its expanded range of products, offering much more than just food delivery.
+
+It said customers can use the platform to order cooked meals, groceries, health and beauty products, pet food and more, catering to a variety of everyday needs.
+
+This campaign underscores Uber Eats’ growing role in the daily lives of Sri Lankans, with seamless delivery of their favourite food items and beverages; groceries for cooking at home; gifts for loved ones, and other essential items.
+
+...
+
+[Data](articles/6f2209e3.json)
+
+[Extended Data](ext_articles/6f2209e3.ext.json)
+
+---
+
+### Aquafresh launches eco-friendly glass water bottles
+
+*2024-09-27 23:53:10* · [`dailyftlk`](https://www.ft.lk/business/Aquafresh-launches-eco-friendly-glass-water-bottles/34-767259) · `en`
+
+In an era where environmental sustainability is becoming a global priority, Aquafresh, one of Sri Lanka’s most recognised bottled water brands, has taken a significant leap by launching a new line of glass water bottles. This initiative aligns with the company’s long-standing mission of environmental stewardship, offering consumers an eco-friendly alternative to conventional plastic packaging while preserving the purity and quality they have come to trust.
+
+“Aquafresh has always been committed to providing pure, high-quality drinking water while ensuring we minimise our environmental impact. The introduction of our new glass water bottles reflects our ongoing dedication to sustainability, offering consumers an eco-friendly choice without compromising on quality,” said Access Natural Water Ltd., Executive Director A. D. Chinthaka.
+
+...
+
+[Data](articles/740f34a9.json)
+
+[Extended Data](ext_articles/740f34a9.ext.json)
+
+---
+
+### DSI revolutionises footwear retail experience with new showroom at Town Hall
+
+*2024-09-27 23:53:00* · [`dailyftlk`](https://www.ft.lk/business/DSI-revolutionises-footwear-retail-experience-with-new-showroom-at-Town-Hall/34-767258) · `en`
+
+DSI, Sri Lanka’s number one footwear brand, recently announced the grand opening of its newly revamped showroom at Town Hall, Colombo 02, marking a significant milestone in DSI’s journey to redefine the footwear shopping experience in Sri Lanka.
+
+The redesigned showroom features a modern, inviting interior that seamlessly blends style and functionality, offering a more immersive and engaging atmosphere for customers. With a focus on enhanced customer engagement and product visibility, the revamped showroom is set to enhance the overall shopping experience for customers while elevating DSI’s retail presence to unprecedented heights.
+
+...
+
+[Data](articles/82d2c632.json)
+
+[Extended Data](ext_articles/82d2c632.ext.json)
+
+---
+
+### Team Europe and UN in support of a circular food system in Sri Lanka
+
+*2024-09-27 23:51:56* · [`dailyftlk`](https://www.ft.lk/columns/Team-Europe-and-UN-in-support-of-a-circular-food-system-in-Sri-Lanka/4-767257) · `en`
+
+A circular economy seeks to create value of by-products or waste, that otherwise will be discarded and lost
+
+As we celebrate the International Day of Awareness on Food Loss and Waste Reduction, we must understand that this is a global challenge, that affects all of us and we must all contribute to its solution. Whether we are policymakers, consumers, or food producers, the choices we make, can help shape a more sustainable future. Reducing food waste is not just a moral imperative; it is an economic necessity, especially when millions around the world face food insecurity
+
+On 29 September, we celebrate the International Day of Awareness on Food Loss and Waste Reduction, a reminder of the urgent need to transform how we produce, consume, and manage food.
+
+...
+
+[Data](articles/89932aef.json)
+
+[Extended Data](ext_articles/89932aef.ext.json)
+
+---
+
+### United Nations adopts ground-breaking pact for the future to transform global governance
+
+*2024-09-27 23:49:44* · [`dailyftlk`](https://www.ft.lk/opinion/United-Nations-adopts-ground-breaking-pact-for-the-future-to-transform-global-governance/14-767256) · `en`
+
+New York: World leaders last week adopted a Pact for the Future that includes a Global Digital Compact and a Declaration on Future Generations.
+
+This pact is the culmination of an inclusive, years-long process to adapt international cooperation to the realities of today and the challenges of tomorrow. The most wide-ranging international agreement in many years, covering entirely new areas as well as issues on which agreement has not been possible in decades, the pact aims above all to ensure that international institutions can deliver in the face of a world that has changed dramatically since they were created.
+
+As the Secretary-General has said, “We cannot create a future fit for our grandchildren with a system built by our grandparents.”
+
+...
+
+[Data](articles/d6d64ca0.json)
+
+---
+
+### The power of the cross and a crossover in power styles
+
+*2024-09-27 23:41:16* · [`dailyftlk`](https://www.ft.lk/columns/The-power-of-the-cross-and-a-crossover-in-power-styles/4-767255) · `en`
+
+The power of that cross must slowly but surely transform the nature, principles and practice of power in the land. Else it would be only a transactional double-cross fit for the dustbin of history – Pic by Shehan Gunasekara
+
+In the run-up to the Presidential election of 2024, the then emerging aspirant for executive office Anura Kumara Dissanayake once waxed eloquent about “the power of the cross” (‘kathiraya’).
+
+He intimated that it was not simply, deceptively, one person’s expressed preference for a particular individual; but rather, a powerful exercise of the franchise which could reap a wide-ranging harvest of repercussions.
+
+Rest assured that those ramifications are being felt in nation, state, country, bureaucracy and beyond today. For better or for worse, only time will tell.
+
+...
+
+[Data](articles/47b4e3bf.json)
+
+---
+
+### Strengthening governance in Sri Lanka: Case for an External Policy Review Board
+
+*2024-09-27 23:38:04* · [`dailyftlk`](https://www.ft.lk/opinion/Strengthening-governance-in-Sri-Lanka-Case-for-an-External-Policy-Review-Board/14-767254) · `en`
+
+The proposal for the EPRB marks a proactive step toward not only refining the quality of governance but also upholding the principles of transparency and accountability foundational to our democratic ethos
+
+While Sri Lanka is commendably moving toward better governance, there remains room for substantial improvement. Enhancing our policy-making processes is critical for continuing this forward momentum. The proposed establishment of an External Policy Review Board (EPRB) offers a significant opportunity to deepen our commitment to transparent and effective governance.
+
+...
+
+[Data](articles/e76155c5.json)
+
+---
 
 ### Namal calls back those who went to Ranil
 
@@ -2111,249 +2275,5 @@ Adams, 64, denied wrongdoing and said he would fight the charges in court. He sa
 [Data](articles/975e9846.json)
 
 [Extended Data](ext_articles/975e9846.ext.json)
-
----
-
-### Former MP pays a sudden driven vehicle
-
-*2024-09-27 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201594) · `si`
-
-Former MP pays damages for crashed government vehicle two years later. Insurance claims settled, but council rejects additional payment request.
-
-🟩
-
-Two years later, a former UNP member has taken measures to pay the loss in this regard after the crashing vehicle owned by the government's luxury.
-
-Secretary of the Western Provincial Council SL. Dhammika Kam. Missingha said that the Sri Lanka Pubaian Appointment was paid to the Provincial Council on a crash to the Western Provincial Council.
-
-Former MP Sahan Pradeep Vithana has given his vehicle for his use of the Gampaha District Coordinating Committee.
-
-The luxury vehicle conducted by the former Health Minister of Western Provincial Council has been handed over to Sahan Pradeep Vithana.
-
-This healthy was elected at the time of September 2022, near the Isurupola, Battaramulla, Battaramulla.
-
-It is also said that the insurance benefits have been received as the insurance benefits from the loss of the vehicle.
-
-...
-
-[Data](articles/eb30c192.json)
-
-[Extended Data](ext_articles/eb30c192.ext.json)
-
----
-
-### Govt. to allocate more funds for education - PM Harini
-
-*2024-09-27 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102293/govt-to-allocate-more-funds-for-education-pm-harini) · `en`
-
-The newly appointed Prime Minister, Dr. Harini Amarasuriya, stated that the government has decided to allocate more funding for education.
-
-The Prime Minister further noted that she has instructed officials to take necessary steps to address the public’s mistrust with regard to the Ministry of Education and the Department of Examinations.
-
-She also directed the officials of the Department of Examinations to take necessary steps to release all delayed exam results.
-
-Meanwhile, the Prime Minister’s Secretariat announced that instructions have been given to immediately halt inviting politicians to school events.
-
-◼️
-
-[Data](articles/ddcf1102.json)
-
-[Extended Data](ext_articles/ddcf1102.ext.json)
-
----
-
-### Discussions to contest all parties in opposition
-
-*2024-09-27 09:45:46* · [`adalk`](https://www.ada.lk/breaking_news/විපක්ෂයේ-සියලු-පක්ෂ-එක්-ලකුණකින්-තරග-කිරීමට-සාකච්ඡා/11-412179) · `si`
-
-Ranil Wickremesinghe chairs discussion on next general election. UNP officials including Ash Marasinghe, Dinesh Gunawardena, and Ruwan Wijewardene attend. Positive outlook for alliance formation.
-
-🟩
-
-Former President Ranil Wickremesinghe was chaired by a discussion held in the next general election.
-
-Speaking at the political office of the Colombo Flower Road, former UNP MP Ash Marasinghe said that discussions with congenivity in partnership with the general election are in positive condition.
-
-These discussions were held at the General Secretary of the General Secretary of the General Assembly and the UNP yesterday (26).
-
-Former former Parliamentarian SSB. The B Dissanayake said.
-
-Former Prime Minister Dinesh Gunawardena, former Prime Minister Dinesh Gunawardena and former Prime Minister Dinesh Gunawardena were also present at the UNP Deputy Leader Ruwan Wijewardene.
-
-◼️
-
-[Data](articles/f23cf331.json)
-
-[Extended Data](ext_articles/f23cf331.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 299.80/300.00 to US dollar, bond yields up
-
-*2024-09-27 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-299-80-300-00-to-us-dollar-bond-yields-up-181283/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading relatively stable at 299.80/300.00 to the US dollar on Friday, from 299.90/300.10 a day earlier, while bond yields were slightly up dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.75/85 percent, up from 11.65/90 percent.
-
-A bond maturing on 15.02.2028 was quoted at 12.05/10 percent, down from 12.05/20 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.30/35 percent.
-
-In equities, Colombo’s All Share Price Index opened 0.28 percent, or 32.54 points higher at 11,704, while the S&P SL20 of more liquid stocks opened up 0.53 percent or 17.81 points higher at 3,402.
-
-◼️
-
-[Data](articles/5d3a54f3.json)
-
-[Extended Data](ext_articles/5d3a54f3.ext.json)
-
----
-
-### 2941 students have lost the university access in the year 200 years
-
-*2024-09-27 09:37:13* · [`adalk`](https://www.ada.lk/breaking_news/ඉකුත්-අධ්‍යයන-වර්ෂ-දෙකේදී--සිසුන්-2941-ට-විශ්ව-විද්‍යාල-ප්‍රවේශය-අහිමි-වෙලා/11-412178) · `si`
-
-In 2001, 2941 students lost university access due to UGC. 1087 from Studies of Study and 2084 from Study Limited were affected. The National Audit Office made recommendations to reduce vacancies.
-
-🟩
-
-The National Audit office reveals that 2941 students have lost the university admission in the year 2001 years due to the universities of the University Grants Commission.
-
-According to the University Grants Commission, 1087 students of the Studes of the Study of the Study of the Study of the Study of the Study of the Study of the Study of the Study of the Study of the Study of the Study and 2084 Students of the Study Limited has been depressed.
-
-Although students attached to vacancies in the relevant academic years, students have been assigned to the audit of the University Grants Commission as his answer to the above vacancies.
-
-The National Audit Office has given audit recommendations regarding this to minimize the number of vacancies.
-
-◼️
-
-[Data](articles/75bf47dc.json)
-
-[Extended Data](ext_articles/75bf47dc.ext.json)
-
----
-
-### Three arrested with guns
-
-*2024-09-27 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/194886) · `ta`
-
-Arrests made: 3 suspects caught with 2 domestic guns and 1 T-56 rifle. Retired soldier among them. Local weapons seized in raids.
-
-🟩
-
-Three persons who had two domestic guns and a T-56 rifle were arrested on Thursday (27), police said.
-
-The T56 rifle has been found at a shop in the Telgahamadilla area of ​​the Nugangmuwa police division and the gun number has been destroyed, police said.
-
-The arrested suspect has been revealed to be a 51 -year -old retired soldier from Gangallowa.
-
-Meanwhile, a suspect has been arrested with a locally manufactured gun during a raid carried out by police in Ariston Road, Naula.
-
-In addition, another suspect has been arrested with a locally manufactured gun in the Etimalai, Torathupitiya area, police said.
-
-◼️
-
-[Data](articles/e5e1e1ef.json)
-
-[Extended Data](ext_articles/e5e1e1ef.ext.json)
-
----
-
-### Increase in dengue patients
-
-*2024-09-27 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201593) · `si`
-
-Dengue cases surge: 38,874 reported this year. Highest in Colombo, Kalutara, Gampaha. Other districts also see significant increases. Efforts underway to reduce numbers.
-
-🟩
-
-The National Dengue Control Unit states that 38,874 dengue patients were reported this year.
-
-Specialist Community Dr. Avoke Dheerasinghe said that the sufferers from Colombo, Kalutara and Gampaha were increasingly.
-
-"The necessary work to reduce this amount in the future. Apart from Colombo, Kalutara and Gampaha, high cases were reported from the districts in Kandy, Galle, Matara, Kurunegala, Kegalle, Kegalle and Ratnapura. "
-
-◼️
-
-[Data](articles/22972696.json)
-
-[Extended Data](ext_articles/22972696.ext.json)
-
----
-
-### Eleven people arrested for excavation
-
-*2024-09-27 09:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/194885) · `ta`
-
-11 arrested for illegal gem excavation in Sri Lanka. Ages 27-67. Equipment seized. Case filed. Investigation ongoing.
-
-🟩
-
-11 people who were involved in gem excavation were arrested yesterday evening (26) evening, police said.
-
-The police said that the Uri Gardens Factory between the ages of 27 and 67 has been arrested.
-
-11 persons have been arrested when they went to the area for confidential information available to the police for illegally excavation in the Paraghakandura area of ​​Pasarai Udagama Paragandura area without permission.
-
-Police said some more equipment, including the stone breaking machine used for gem excavation, has been seized.
-
-Further, steps have been taken to file a case against the suspects and the further investigations are being trusted by the Pasara Police Station E.. On the. Police said that a police team led by Piyratna is conducting investigations.
-
-◼️
-
-[Data](articles/1e5da072.json)
-
-[Extended Data](ext_articles/1e5da072.ext.json)
-
----
-
-### Three arrested with firearms in separate police raids
-
-*2024-09-27 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102292/three-arrested-with-firearms-in-separate-police-raids) · `en`
-
-Police reported that three individuals in possession of a T-56 assault rifle and two locally made firearms were arrested yesterday (26) along with the weapons.
-
-The T-56 firearm was discovered last night on the upper floor of a shop in the Delgahamedilla area within the Nungamuwa Police Division.
-
-Police stated it was a T-56 firearm with the serial number erased. The suspect arrested in connection with this is a 51-year-old retired army soldier residing in the Kumbaloluwa area.
-
-Meanwhile, during a raid carried out by the police in the Ariston Road area, Ambana in Naula last afternoon (26), a suspect was arrested with a locally made firearm. The arrested individual is a 55-year-old resident of the Kongahawela area.
-
-Additionally, another suspect was arrested with a locally-made firearm at Therathupitiya, Ethimale. This man was apprehended in a raid conducted by the police last afternoon, and he is a 39-year-old resident of the Ethimale Lake area.
-
-◼️
-
-[Data](articles/5967001a.json)
-
-[Extended Data](ext_articles/5967001a.ext.json)
-
----
-
-### The new Prime Minister's Action Order
-
-*2024-09-27 09:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதமரின்-அதிரடி-உத்தரவு/175-344573) · `ta`
-
-New PM orders: Stop politician visits to schools, ensure transparent hiring process, form panel to review scholarship exam questions.
-
-🟩
-
-Prime Minister Harini Amarasuriya has advised the officials of the Ministry of Education to immediately stop bringing politicians to school events.
-
-He also said that filling the teacher jobs should be carried out properly and that the workplace should be fill in transparency so that the people are confident.
-
-The Prime Minister made this statement during a discussion with all the department officials of the Ministry of Education.
-
-Meanwhile, Harini Amarasuriya has directed the Ministry of Education Tilaka Jayasundara yesterday (26) to appoint a panel of professors to evaluate the controversy of the Scholarship Examination.
-
-It is advisable to delete three controversial questions and decide on the recommendations of the Expert Panel whether to add those scores or any other action.
-
-The department had earlier decided to delete three questions and add those marks with the remaining questions.
-
-...
-
-[Data](articles/8214defa.json)
-
-[Extended Data](ext_articles/8214defa.ext.json)
 
 ---

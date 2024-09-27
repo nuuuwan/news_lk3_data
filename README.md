@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 14:11:56**
+As of **2024-09-27 14:24:03**
 
 ## Newspaper Stats
 
-*Scraped **46,581** Articles*
+*Scraped **46,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailyftlk | 3,110
 adalk | 4,297
 dailymirrorlk | 4,733
 adaderanalk | 5,477
-tamilmirrorlk | 6,247
+tamilmirrorlk | 6,248
 virakesarilk | 7,441
-adaderanasinhalalk | 8,044
+adaderanasinhalalk | 8,045
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,581 (100.0%) of 46,581 articles have been extended.
+46,581 (100.0%) of 46,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### கோழி இறைச்சியின் விலையில் மாற்றம்
+
+*2024-09-27 14:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியின்-விலையில்-மாற்றம்/175-344581) · `ta`
+
+அடுத்த இரு வாரங்களுக்குள் கோழி இறைச்சியின் விலை குறைவடையலாம் என எதிர்பார்க்கப்படுவதாக அகில  இலங்கை சிறு கைத்தொழில் உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+கோழி இறைச்சிக்கான தேவை வெகுவாக குறைந்துள்ளதாகவும், இதன் காரணமாக அடுத்த இரண்டு வாரங்களில் விலை குறையலாம் எனவும் அந்த சங்கம் தெரிவித்துள்ளது.
+
+தற்போது ஒரு கிலோ கோழி இறைச்சியின் சில்லறை விலை 1,000 முதல் 1,100 ரூபா வரையில் விற்பனை செய்யப்படுவதாக சங்கத்தின் தலைவர் நிருக்ஷ குமார தெரிவித்தார்.
+
+அடுத்த பதினைந்து நாட்களில் இந்த விலை 900 முதல் 850 ரூபாய் வரை குறையலாம் என்றும் அவர் கூறினார்.
+
+இதேவேளை முட்டையின் விலையும் எதிர்வரும் பண்டிகை நாட்களில் 20 ரூபா வரையிலும் குறையும் என எதிர்பார்க்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/766de101.json)
+
+---
+
+### කොළඹ සමූහ මිනීවළේ කැණීම් යළිත් අරඹයි
+
+*2024-09-27 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201602) · `si`
+
+කොළඹින් හමුවූ සමූහ මිනීවළේ දෙවන අදියරේ කැණීම් ආරම්භ කර තිබේ.
+
+කොළඹ වරායෙන් මෙලෙස සමූහ මිනීවළක් හමුවූ අතර එහි දෙවන අදියරේ කැණීම් කටයුතු අද (27) ආරම්භ කෙරුණි.
+
+මහාචාර්ය රාජ් සෝමදේව මහතා ඇතුළු පිරිසක් මෙහි කැණීම් භාරව කටයුතු කරයි.
+
+◼️
+
+[Data](articles/1db03b96.json)
+
+---
 
 ### Japan's 11 projects will be launched quickly
 
@@ -2187,47 +2223,5 @@ US President Joe Biden, who was elected new president in Sri Lanka, has congratu
 [Data](articles/489ea9b1.json)
 
 [Extended Data](ext_articles/489ea9b1.ext.json)
-
----
-
-### 660 million to lose the government
-
-*2024-09-26 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201581) · `si`
-
-Cigarettes, wheat flour seized at Orugodawatta Customs Yard. Estimated loss to government: Rs. 660 million. Smuggling attempt foiled, saving taxpayers money.
-
-🟩
-
-A large number of cigarettes, wheat flour and yellow pieces were found in the Orugodawatta Customs Yart.
-
-Customs Media Spokesperson Savithi Arukgoda says that the smoking costs Rs. 23 million and the consignment of Rs.
-
-He further stated that if the consignment entered the country, the government was Rs. 660 million.
-
-◼️
-
-[Data](articles/e7563cce.json)
-
-[Extended Data](ext_articles/e7563cce.ext.json)
-
----
-
-### CID to probe ‘misuse’ of state-owned vehicles by previous govt
-
-*2024-09-26 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102287/cid-to-probe-misuse-of-state-owned-vehicles-by-previous-govt) · `en`
-
-President Anura Kumara Dissanayake has directed relevant officials to allocate the luxury vehicles used by previous governments exclusively for essential services, according to the President’s Private Secretary, Ananda Wijepala.
-
-Wijepala expressed regret over the misuse of public funds and emphasized that a full review will be conducted, with the public being informed of future actions.
-
-He made these remarks while speaking to the reporters today (26) at the Galle Face Grounds in Colombo, where updates on actions taken regarding the parked vehicles were shared, the President’s Media Division (PMD) stated.
-
-He further explained that the public money wasted by previous governments is symbolically represented by these vehicles parked there, noting that the current parking spaces at the Presidential Secretariat are insufficient to accommodate the vehicles.
-
-...
-
-[Data](articles/16044e4d.json)
-
-[Extended Data](ext_articles/16044e4d.ext.json)
 
 ---

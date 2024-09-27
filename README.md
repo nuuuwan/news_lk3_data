@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 08:42:55**
+As of **2024-09-27 08:58:26**
 
 ## Newspaper Stats
 
-*Scraped **46,528** Articles*
+*Scraped **46,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 462
 islandlk | 2,730
 economynextcom | 2,824
 dailyftlk | 3,110
-adalk | 4,292
+adalk | 4,293
 dailymirrorlk | 4,733
-adaderanalk | 5,466
+adaderanalk | 5,468
 tamilmirrorlk | 6,236
 virakesarilk | 7,434
 adaderanasinhalalk | 8,034
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,523 (100.0%) of 46,528 articles have been extended.
+46,531 (100.0%) of 46,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Central Bank maintains policy interest rates
+
+*2024-09-27 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102290/central-bank-maintains-policy-interest-rates) · `en`
+
+The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank at their current levels of 8.25 per cent and 9.25 per cent, respectively.
+
+The Board arrived at this decision, at its meeting held on 26 September 2024, after carefully considering the recent and expected macroeconomic developments and possible risks and uncertainties on the domestic and global fronts with a view to ensuring that inflation aligns with the target of 5 per cent over the medium term, while enabling the economy to reach its maximum potential, the statement said.
+
+The Board observed that inflation is likely to remain well below the target of 5 per cent over the next few quarters, potentially recording deflation in the immediate future driven by changes to administratively determined prices and easing of supply conditions, the central bank said.
+
+◼️
+
+[Data](articles/5a283698.json)
+
+[Extended Data](ext_articles/5a283698.ext.json)
+
+---
 
 ### The latest decision of the Central Bank
 
@@ -95,6 +113,28 @@ The Secretary to the Prime Minister's Secretariat was announced to immediately s
 [Data](articles/5b84b986.json)
 
 [Extended Data](ext_articles/5b84b986.ext.json)
+
+---
+
+### Showery conditions expected to enhance from today
+
+*2024-09-27 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102289/showery-conditions-expected-to-enhance-from-today) · `en`
+
+Due to the development of a low-level atmospheric disturbance in the vicinity of Sri Lanka, showery conditions are expected to enhance during the next few days starting today (27), the Meteorology Department says.
+
+Showers or thundershowers will occur at times in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy and Nuwara-Eliya districts.
+
+Heavy showers of about 100 mm are likely at some places in Rathnapura, Kaluthara, Galle and Matara districts, it said.
+
+Showers or thundershowers will occur at several places elsewhere in the evening or night. Fairly heavy showers above 75 mm can be expected at some places in Northern, North-central, Eastern and Central provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/640abe69.json)
+
+[Extended Data](ext_articles/640abe69.ext.json)
 
 ---
 
@@ -1053,6 +1093,32 @@ In addition, former Kandy district parliamentarian Dilil, who joined the Sarvaja
 [Data](articles/3dc3ad4f.json)
 
 [Extended Data](ext_articles/3dc3ad4f.ext.json)
+
+---
+
+### Providing visa from 12.00 midnight today to the old mechanism
+
+*2024-09-26 21:40:10* · [`adalk`](https://www.ada.lk/breaking_news/අද-මධ්‍යම-රාත්‍රී-12-00-සිට-වීසා-ලබා-දීම-පැරණි-ක්‍රමවේදයට/11-412176) · `si`
+
+Sri Lanka reinstates old visa system after issues with VFS. Government solves foreigner entry problem. Visa applications now available online from midnight. Action taken based on court ruling. Audit initiated to investigate VFS misconduct. Business and investment sectors benefit from new arrangement.
+
+🟩
+
+The government has taken measures to solve the issue of a major problem with a major problem and all foreigners today (26).
+
+The full statement made by Minister Vijitha Herath is as follows,
+
+The people were severely affected by giving visa giving facilities to VFS. In particular, the foreigners who visit Sri Lanka were faced with a problem.
+
+Therefore, action taken action to be revived by the Old System during the past 24 hours by the intervention of the Ministry of Defense. Accordingly, the ability to access visa from 12.00 today. Applying visa applies to the online system now. The visa will be commenced in 24 hours and will commence this work in midnight today. This is a big victory.
+
+Visa problem was a problem with great tribulation. Now we have solved that question and finished. We got advice from the Attorney General. We were immediately functioning according to the court ruling.
+
+...
+
+[Data](articles/f679e0ae.json)
+
+[Extended Data](ext_articles/f679e0ae.ext.json)
 
 ---
 
@@ -2207,87 +2273,5 @@ He had been arrested by Customs officers at the airport who are conducting furth
 [Data](articles/b66abd03.json)
 
 [Extended Data](ext_articles/b66abd03.ext.json)
-
----
-
-### Notice
-
-*2024-09-26 16:47:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தல்-குறித்து-வெளியான-அறிவிப்பு/175-344533) · `ta`
-
-Here's a summary of the notice in 200 characters:
-
-
-
-"Postal voting applications open Sept 30-Oct 7. Election Commission announcement."
-
-🟩
-
-Postal voting applications for the parliamentary election will be accepted from September 30 to October 7, the Elections Commission said.
-
-◼️
-
-[Data](articles/aa42e2b5.json)
-
-[Extended Data](ext_articles/aa42e2b5.ext.json)
-
----
-
-### 'World Man' Kamal Haasan's 'Thax Life' is completed
-
-*2024-09-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194852) · `ta`
-
-Kamal Haasan's 'Thax Life' completes filming. Directed by Mani Ratnam, it stars Kamal, Silambarasan, Trisha. Music by Ravi K., produced by Rajkamal Film International. Expected to release next year.
-
-🟩
-
-The film crew has been happy to announce that the shooting of 'Thax Life' starring Kamal Haasan has been completed.
-
-Directed by director Mani Ratnam, Kamal Haasan, Silambarasan, Ashok Selvan, Trisha, Nasser, Abirami, Aishwarya Lakshmi, Sania Malkotra, Joju George, Pankaj Tripathi, Ali Faisal, Jishu Senkupta, Vaiyaptha Sarab, Jishu Skupta
-
-Ravi K. 'Music Storm' for the film, which is being recorded by Moon. R. Rahman has composed the music.
-
-The film is being produced by Rajkamal Film International, Madras Talkies and Red Giant Movies.
-
-The film crew has announced the exclusive video that the shooting of the film, which has been going on in several stages, has been completed.
-
-Meanwhile, Kamal Haasan and Mani Ratnam's coalition has reunited after the biggest hit 'Mani' and the film is expected to be a huge expectation and the film will be released next year.
-
-◼️
-
-[Data](articles/33bfb9ad.json)
-
-[Extended Data](ext_articles/33bfb9ad.ext.json)
-
----
-
-### 'I told the story of the Lapper ball for twenty minutes'
-
-*2024-09-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194854) · `ta`
-
-'Lapper Bandu' success meeting held at Chennai hotel. Director Thamilarasan Bachhamuttu thanks audience, journalists. Film produced by Prince Pictures Company, starring Harish Kalyan-Dinesh. Story revolves around local cricket, rubber ball theme.
-
-🟩
-
-Harish Kalyan-Dinesh starrer 'Lapper Bandu' has been a huge success in criticism and grossly grossing expectations.
-
-The film crew, who wanted to thank the audience and the journalists for this purpose, integrated the success meeting at star hotel in Chennai.
-
-Harish Kalyan, Dinesh, Thusika, Sanjana Krishnamurthy, Bala Saravanan, Jenson Divakar, TSK, starring debut director Thamilarasan Bachhamuttu.
-
-The film was produced by Prince Pictures Company, produced by Shaun Roldan.. Produced by Lakshman Kumar.
-
-The film, which was ready for a local cricket, was released at the film House around the world on the last twenty day.
-
-When the positive criticism of the film was released, the public grossing increased.
-
-Director Thamilarasan Bachhamuttu said, “I met the producer and told a love story first.
-
-He refused to do so. I immediately told the story of the film in twenty minutes when I told you to tell the story of the life of the simple people.
-
-...
-
-[Data](articles/3b914af1.json)
-
-[Extended Data](ext_articles/3b914af1.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-27 08:58:26**
+As of **2024-09-27 09:12:08**
 
 ## Newspaper Stats
 
-*Scraped **46,531** Articles*
+*Scraped **46,537** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 387
-bbccomsinhala | 457
+bbccomsinhala | 458
 colombotelegraphcom | 462
 islandlk | 2,730
 economynextcom | 2,824
@@ -18,19 +18,91 @@ dailyftlk | 3,110
 adalk | 4,293
 dailymirrorlk | 4,733
 adaderanalk | 5,468
-tamilmirrorlk | 6,236
+tamilmirrorlk | 6,240
 virakesarilk | 7,434
-adaderanasinhalalk | 8,034
+adaderanasinhalalk | 8,035
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,531 (100.0%) of 46,531 articles have been extended.
+46,537 (100.0%) of 46,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-27 (Friday)
+
+### Central Bank of Sri Lanka
+
+*2024-09-27 08:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மத்திய-வங்கியின்-அறிவிப்பு/175-344572) · `ta`
+
+Central Bank of Sri Lanka maintains policy interest rates, sub-deposit rate, and subsidiary loans at current levels. Sub-deposit rate set at 8.25%, subsidiary loan rate at 9.25%.
+
+🟩
+
+The Central Bank of Sri Lanka has decided to maintain the policy interest rates, the sub -deposit rate (SDFR) and the subsidiary loans (SLFR) at the current level.
+
+Accordingly, it has been decided to maintain the sub -deposit rate and the subsidiary of the subsidiary of 8.25 per cent and 9.25 per cent respectively.. Remble
+
+◼️
+
+[Data](articles/b393f74e.json)
+
+[Extended Data](ext_articles/b393f74e.ext.json)
+
+---
+
+### Size of the official foreign reserves of the country
+
+*2024-09-27 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201591) · `si`
+
+Sri Lanka's official foreign reserves: US$6.0 billion as of August 2024. Includes receipts from People's Bank. Central Bank purchases foreign exchange to boost economy.
+
+🟩
+
+The Central Bank of Sri Lanka announces that the number of official reserves in the country is US $ 6.0 billion in August 2024.
+
+It also includes receipts of foreign exchange exchange facilities from the People's Bank.
+
+The Central Bank of Sri Lanka has taken steps to purchase a significant number of foreign exchange from the local market to the increase in the growth of the Gor.
+
+◼️
+
+[Data](articles/22e6ca6f.json)
+
+[Extended Data](ext_articles/22e6ca6f.ext.json)
+
+---
+
+### Increase rainfall across the country
+
+*2024-09-27 08:13:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-முழுவதும்-மழைவீழ்ச்சி-அதிகரிக்கும்/175-344571) · `ta`
+
+Increased rainfall forecasted nationwide due to atmospheric turbulence. Heavy showers expected in Western, Sabaragamuwa provinces and specific districts. Thunderstorms predicted in evening/night hours. Heavy rainfall warnings issued for several regions. Public advised to prepare for potential strong winds and lightning.
+
+🟩
+
+Rainfall is expected to increase across the country in the next few days from today (27).
+
+Due to the turbulence of the nearby atmosphere of Sri Lanka, the weather is expected to be expected.
+
+Accordingly, rain or thunderstorms are expected in the Western and Sabaragamuwa Provinces and Galle, Matara, Kandy and Nuwara Eliya districts.
+
+Heavy rainfall of 100 millimeters of heavy rainfall in some parts of Ratnapura, Kalutara, Galle and Matara districts.
+
+Rainfall or thunderstorms will occur in the evening or night in other parts of the country.
+
+In some parts of the Northern, North Central, Eastern and Central Provinces, 75 millimeters of heavy rainfall is possible.
+
+The Department of Meteorology has requested the general public to take necessary steps to reduce the dangers of temporary heavy winds and lightning with thunderstorms.. Remble
+
+◼️
+
+[Data](articles/7ecd62f5.json)
+
+[Extended Data](ext_articles/7ecd62f5.ext.json)
+
+---
 
 ### Central Bank maintains policy interest rates
 
@@ -70,6 +142,28 @@ Accordingly, the Permanent Deposit Facility Rate and the Permanent Credit Facili
 
 ---
 
+### Baidan congratulates President Anura
+
+*2024-09-27 07:45:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அநுரவுக்கு-பைடன்-வாழ்த்து/175-344570) · `ta`
+
+Here's a 200-character summary:
+
+
+
+US President Joe Biden congratulates Sri Lanka's President-elect Anura Kumara Dissanayake on his victory in the presidential election.
+
+🟩
+
+US President Joe Biden congratulates President Anura Kumara Dissanayake who won the presidential election. (A)
+
+◼️
+
+[Data](articles/5c671206.json)
+
+[Extended Data](ext_articles/5c671206.ext.json)
+
+---
+
 ### World Bank congratulates President
 
 *2024-09-27 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201589) · `si`
@@ -89,6 +183,28 @@ The article has said that it is committed to the leadership of the new administr
 [Data](articles/df22171d.json)
 
 [Extended Data](ext_articles/df22171d.ext.json)
+
+---
+
+### Care about Sri Lankans in Lebanon
+
+*2024-09-27 07:40:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனானில்-உள்ள-இலங்கையர்-தொடர்பில்-அவதானம்/175-344569) · `ta`
+
+Sri Lanka focuses on citizens' safety in Israel and Lebanon amid conflict. Embassies monitor situations closely. Efforts underway to protect Sri Lankans in war zones.
+
+🟩
+
+The Sri Lankan government is reportedly focusing on the safety of Sri Lankans in Israel and Lebanon.
+
+Following the current war situation, the Ministry of External Affairs has stated that the Sri Lankan embassies in Beirut and Tel Aviv are engaged in surveillance.
+
+It is also reported that Sri Lankans in the war are underway. (A)
+
+◼️
+
+[Data](articles/047dc9da.json)
+
+[Extended Data](ext_articles/047dc9da.ext.json)
 
 ---
 
@@ -751,6 +867,38 @@ The annual Employer of Choice survey gauges the preferences of undergraduate stu
 [Data](articles/34a320f3.json)
 
 [Extended Data](ext_articles/34a320f3.ext.json)
+
+---
+
+### Anura Kumara Dissanayake: What kind of ruler will be the new President?
+
+*2024-09-27 02:39:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kj5m1y3d3o) · `si`
+
+Sri Lanka presidential election summary: Anura Kumara Dissanayake's leadership style debated by experts. Predictions vary on his honesty, economic policies, and foreign relations impact.
+
+🟩
+
+President Mahinda Rajapaksa was appointed as the 9th Executive President of Sri Lanka, upcoming the tradition of Sri Lanka's utilization president in Sri Lanka.
+
+The custody of Sri Lanka has surrendered to the next five years.
+
+Professor Jayawardena, Professor Jayawardena, Professor Vasakha Sooriyabandara, Professor Vasakha Sooriyagon, Anura Kumara Dissanayake, is an analysis with the Government of Visakha Sooriyaganayake, Anura Kumara Dissanayake.
+
+Prof. Jayaswa Uyangoda says he believes he will be "an honest leader" according to the behavior of Anura Kumara Dissanayake.
+
+He stated that he has promised the people that he is honest and the people expect it from him.
+
+However, Prof. Visakha Sooriyagunaratra says that Anura Kumara Dissanayake will not be a sincere leader.
+
+She said that there are problems with the appointments of the appointments.
+
+She accused the new President had filled with her duties and faithful people.
+
+...
+
+[Data](articles/ec95e057.json)
+
+[Extended Data](ext_articles/ec95e057.ext.json)
 
 ---
 
@@ -2131,147 +2279,5 @@ Therefore, we are advising the current government to lease them and get income a
 [Data](articles/c3a1c66a.json)
 
 [Extended Data](ext_articles/c3a1c66a.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 299.90/300.10 to US dollar, bond yields down
-
-*2024-09-26 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-299-90-300-10-to-us-dollar-bond-yields-down-181161/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated further to close at 299.90/300.10 to the US dollar Thursday, from 300.30/80 a day earlier, while bond yields were also down.
-
-A bond maturing on 15.12.2026 closed at 10.65/85 percent, down from 10.90/11.05 percent.
-
-A bond maturing on 15.02.2028 closed at 12.05/20 percent, down from 12.35/45 percent.
-
-A bond maturing on 15.06.2029 closed at 12.20/30 percent down from 12.45/55 percent.
-
-A bond maturing on 15.05.2030 closed at 12.45/55 percent, down from 12.60/70 percent.
-
-A bond maturing on 01.10.2032 closed stable at 12.70/85 percent.(Colombo/Sep26/2024)
-
-◼️
-
-[Data](articles/070dc310.json)
-
-[Extended Data](ext_articles/070dc310.ext.json)
-
----
-
-### Airport employee arrested for stealing items from passengers’ luggage at BIA
-
-*2024-09-26 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102282/airport-employee-arrested-for-stealing-items-from-passengers-luggage-at-bia) · `en`
-
-The Airport Police have arrested an airport employee who had allegedly opened the luggage of passengers arriving at Bandaranaike International Airport (BIA) in Katunayake and stole items from them.
-
-The suspect, an employee in the baggage handling section, had reportedly secretly entered the storage area where the passenger luggage of a flight that arrived at the airport from Malaysia on September 23.
-
-CCTV cameras had reportedly captured him opening luggage belonging to passengers and stealing items from inside of them.
-
-The arrest was made after investigative officers from the airport had observed the camera footage and reported the suspect to the Katunayake Airport Police.
-
-The Katunayake Airport had received complaints about missing items from passengers’ luggage for some time, and due to their vigilance, the employee was apprehended.
-
-◼️
-
-[Data](articles/dd95c4d5.json)
-
-[Extended Data](ext_articles/dd95c4d5.ext.json)
-
----
-
-### Sri Lanka stocks close up, positive momentum continues
-
-*2024-09-26 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-positive-momentum-continues-181156/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 0.10 percent, or 12.16 points, at 11,671; while the more liquid S&P SL20 Index closed up 0.50 percent, or 16.84 points, at 3,384.
-
-“There was some volatile sentiment in the market today,” Softlogic Stockbrokers said. “There was a 200 point gain at opening, then it dropped mid-day and closed back up.”
-
-“There was a bit of profit taking today, with selective interest in companies.”
-
-“High-net-worth and institutional investors who had opted to be in cash beginning to get into the market expecting the positive momentum to continue.”
-
-Most banking stocks were up; Hatton National Bank (up at 199.75), Sampath Bank (up at 78.00), DFCC Bank (up at 75.40) and National Development Bank (up at 75.80), except for Commercial Bank (down at 99.10).
-
-There was a net foreign inflow of 633 million rupees. (Colombo/Sep26/2024)
-
-◼️
-
-[Data](articles/72603008.json)
-
-[Extended Data](ext_articles/72603008.ext.json)
-
----
-
-### Customs history arrested the largest rash
-
-*2024-09-26 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201572) · `si`
-
-Sri Lanka customs seizes record-breaking drugs: 43kg+600g from British citizen's luggage. 21-year-old security officer arrested. Case handed to police narcotics division for investigation.
-
-🟩
-
-Katunayake Customs officials have taken into custody a crock personnel who brought to Sri Lanka by a British national.
-
-Customs officials say that the drug raids the largest raid in Customs history, which is 43 kg and nearly 600 grams.
-
-Customs said that the drug was found in two baggage he had brought.
-
-The arrested was a 21 year old and he was a British security officer.
-
-The suspect has been handed over to the officers of the Police Narcotics Division for further investigations.
-
-◼️
-
-[Data](articles/d372a066.json)
-
-[Extended Data](ext_articles/d372a066.ext.json)
-
----
-
-### Gurusamy resigns: Letter to Mano
-
-*2024-09-26 16:54:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருசாமி-இராஜினாமா-மனோவுக்கு-கடிதம்/175-344534) · `ta`
-
-Gurusamy resigns from party and coalition positions. Mano Ganesan accepts resignation. Murukesu Paranitharan appointed as new general secretary. Tamil Progressive Alliance meeting scheduled for Sunday.
-
-🟩
-
-K.R.. Gurusamy said in a letter to party leader Mano Ganesan that he would resign from party and coalition posts.
-
-Subsequently, the political committee of the Democratic People's Front led by Colombo Chairman Mano Ganesan on Thursday (26) accepted the resignation and unanimously appointed Murukesu Paranitharan to the post of vacant general secretary.
-
-Murukesu Paranitharan holds the post of Kegalle District Organizer and Campaign Secretary and is a member of the Democratic People's Front and the Tamil Progressive Alliance.
-
-It was also decided that the Tamil Progressive Alliance to be held in Colombo on Sunday, 29th of the upcoming parliamentary elections in the political committee.
-
-◼️
-
-[Data](articles/d7e6297f.json)
-
-[Extended Data](ext_articles/d7e6297f.ext.json)
-
----
-
-### British youth arrested with over 43kg ‘Kush’ cannabis at BIA
-
-*2024-09-26 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102281/british-youth-arrested-with-over-43kg-kush-cannabis-at-bia) · `en`
-
-A British national has been arrested at the Bandaranaike International Airport (BIA) in Katunayake with over 43 kg of ‘Kush’ cannabis worth more than Rs. 440 million.
-
-The 21-year-old passenger had arrived at the BIA from Bangkok, Thailand onboard a SriLankan Airlines flight at 9.15 a.m. this morning (26).
-
-A total of 43.648 kg of Kush cannabis was found concealed inside his luggage while the seized drugs are estimated to be worth over Rs. 440 million.
-
-He had been arrested by Customs officers at the airport who are conducting further investigations.
-
-◼️
-
-[Data](articles/b66abd03.json)
-
-[Extended Data](ext_articles/b66abd03.ext.json)
 
 ---

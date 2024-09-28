@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 17:07:34**
+As of **2024-09-28 17:22:45**
 
 ## Newspaper Stats
 
-*Scraped **46,730** Articles*
+*Scraped **46,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,65 +20,101 @@ dailymirrorlk | 4,733
 adaderanalk | 5,497
 tamilmirrorlk | 6,266
 virakesarilk | 7,467
-adaderanasinhalalk | 8,074
+adaderanasinhalalk | 8,075
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,728 (100.0%) of 46,730 articles have been extended.
+46,731 (100.0%) of 46,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
 
-### කෑම මිල අඩු කරන්නේ නැද්ද ?
+### New Zealand leads 315 runs
+
+*2024-09-28 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201636) · `si`
+
+New Zealand trails Sri Lanka by 315 runs after scoring 199/2 on Day 2 of the 2nd Test. Sri Lanka made 602/1 in their first innings, while NZ was limited to 88/1. The Kiwis need to catch up significantly.
+
+🟩
+
+New Zealand scored 199 runs for the second day of the second Test match against the Sri Lanka Second Test.
+
+Sri Lanka scored 602 runs for the first innings of the match and New Zealand's first innings were restricted to 88 runs.
+
+Accordingly, New Zealand team is behind 315 runs more than Sri Lanka's first innings.
+
+◼️
+
+[Data](articles/b4fbe29e.json)
+
+[Extended Data](ext_articles/b4fbe29e.ext.json)
+
+---
+
+### Doesn't eat the price of prices?
 
 *2024-09-28 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201635) · `si`
 
-ගෑස්, බිත්තර, සහ අනෙකුත් අමුද්‍රව්‍ය මිල සැලකිය යුතු ලෙස  පහළ ගොස් තිබියදීත් කෙටි ආහාර ඇතුළු අනෙකුත් ආහාර වර්ගවල මිල ගණන් පහළ නොයාම විශාල ගැටලුවක් බව පාරිභෝගිකයින් පවසයි.
+Prices rising despite economic crisis. Consumers claim profiteering from food manufacturers and traders. Gas, wheat flour, and egg prices significantly increased. Traders accused of ignoring market conditions.
 
-ඔවුන් චෝදනා කරන්නේ, වෙළෙඳුන් ලාභ ඉපැයීම පමණක් අරමුණු කරගනිමින් පාරිභෝගිකයා පීඩාවට පත්කරන බවය.
+🟩
 
-පසුගිය සමයේ රට මුහුණ දුන් ආර්ථික අර්බුදයත් සමග ආහාර නිෂ්පාදනයට අවශ්‍ය කෙරෙන බිත්තර, තිරිඟු පිටි ඇතුළු අමුද්‍රව්‍ය මෙන්ම ගෑස් ඉන්ධන වැනි භාණ්ඩ රැසක මිල ඉහළ ගියේය.
+Customers say that the prices of other foods, including brief briefs, including brief food, other foods, including brief briefs, are not down.
 
-ඒ සමග තම නිෂ්පාදනවල මිල ඉහළ දැමීමට ආහාර නිෂ්පාදකයන් හා වෙළඳුන් පියවර ගත් අතර සුපුරුදු පරිදි එහි බර ද දැරීමට සිදුවූයේ මෙරට පාරිභෝගික ජනතාවටය.
+They allege that the customer is trying to suffer only to earn profits.
 
-කෙසේ වෙතත්, ගෑස්, තිරිඟු පිටි පමණක් නොව බිත්තර මිලද අද වනවිට සැලකිය යුතු ලෙස පහළ ගොස් තිබේ.
+With the economic crisis of the country, the prices of many products like the eggs, wheat flour and gas fuel have increased.
 
-පාරිභෝගිකයින් චෝදනා කරන්නේ, ආහාර මිල ගණන් පහළ නොදැමීමට වෙළෙඳුන් පියවර නොගන්නේ ඒ වෙනුවෙන් බලපෑමක් කිරීමට බලධාරීන්ගේ අවධානය යොමුනොවීම නිසා බවය.
+Food manufacturers and traders took steps to increase the prices of their products, and the usual was to be weighed as usual.
+
+However, not only gas, wheat flour but egg prices have also been substantially.
+
+Consumers allege that the traders do not take the attention of the ventures to influence it.
 
 ◼️
 
 [Data](articles/9cd78a7f.json)
 
+[Extended Data](ext_articles/9cd78a7f.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා රග්බි පොඩ්ඩෝ ආසියානු ශූරතාවයේ කඩඉමක් අබියස
+### Sri Lanka Rugby Podden is in front of the Asian Championship
 
 *2024-09-28 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201634) · `si`
 
-මැලේසියාවේ දී අද (28) ආරම්භ වූ ආසියානු වයස 18න් පහළ සත්සාමාජික රග්බි තරගාවලියේ අවසන් මහා තරගය පෙනෙන මානය දක්වා ඉදිරියට යාමට ශ්‍රී ලංකා පිරිමි කණ්ඩායම සමත් විය.
+Sri Lanka Rugby Podden leads Asian Championship. Men's U-18 team advances to finals after beating Thailand 27-0 and Chinese Taipei. Sri Lanka faces Hong Kong, Chinese Taipei, and Thailand in B category. Bonus points determine final eligibility.
 
-තරග ආරම්භ කරමින් ශ්‍රී ලංකාව ක්‍රීඩාකළ පළමු තරගයෙන් තායිලන්තය ලකුණු 27-0ක් ලෙසින් පහසුවෙන් පරාජය කළේය.
+🟩
 
-ඉන් අනතුරුව ඔවුන් මුහුණ දුන් දෙවැනි තරගයෙන් චීන තායිපේ කණ්ඩායම ලකුණු 29-7ක් ලෙස පරාජය කිරීමට සමත් විය.
+Sri Lanka's male team to proceed with the finals of the L-18th Violence in the Under-18-year-old Rugby Tournament, which began today (28).
 
-එමෙන්ම අතිශය තීරණාත්මක තරගය වූ ප්‍රබල හොංකොං රාජ්‍යයට එරෙහි තරගයද ලකුණු 17-17ක් ලෙසින් සම තත්ත්වයෙන් අවසන් කිරීමට ශ්‍රී ලංකාවට හැකිවිය.
+Thailand defeated Thailand with 27-0 runs in the first match of Sri Lanka.
 
-ඒ අනුව ශ්‍රී ලංකාව හෙට (29) දිනයේදී එක් තරගයකට පමණක් ක්‍රීඩාකිරීමට ඉතිරිව ඇති වුවත්, එම තරගය නිතරග අවස්ථාවක් (BYE) වී ඇත.
+Thereafter, Chinese Taipei was able to defeat the team in the second match.
 
-මෙම තරගාවලිය 'ඒ' හා 'බී' ලෙස කණ්ඩායම් 9ක සහභාගිත්වයෙන් පැවැත්වේ.
+Sri Lanka was able to end the match against the most crucial match against the most crucial match.
 
-එහි ශ්‍රී ලංකාව ක්‍රීඩාකරන 'බී' කාණ්ඩයට රටවල් 04ක් පමණක් ඇතුළත්ව ඇති නිසා එම කාණ්ඩයේ සෑම රටකටම නිතරග අවස්ථාවක් හිමිව ඇත.
+Accordingly, Sri Lanka is left to play only one match tomorrow (29), but the match is an uncommon.
 
-ශ්‍රී ලංකාව සමගින් 'බී' කාණ්ඩයෙන් හොංකොං, චීන තායිපේ හා තායිලන්තය ක්‍රීඩාකරනු ලබයි.
+The tournament will be held in 9 teams as 'A' and 'B'.
 
-'බී' කාණ්ඩයේ මේ දක්වා පැවති තරග අනුව ශ්‍රී ලංකාව ප්‍රසාද ලකුණු සටහනේ පෙරමුණ හිමිකරගෙන සිටියි.
+Sri Lanka is the only number of countries in the 'B' category, including four countries, has an opportunity for every country in that category.
+
+Hong Kong, Chinese Taipei and Thailand is played in the 'B' category with Sri Lanka.
+
+Sri Lanka is in the forefront of the bonus mark.
+
+Accordingly, the outcome team to be eligible for the final will be decided on the result of Thailand tomorrow (29).
 
 ...
 
 [Data](articles/6bc6aa87.json)
+
+[Extended Data](ext_articles/6bc6aa87.ext.json)
 
 ---
 
@@ -2201,33 +2237,5 @@ Prior to appointment of acting IGP, he was the Senior DIG in charge of the North
 [Data](articles/ffcd119f.json)
 
 [Extended Data](ext_articles/ffcd119f.ext.json)
-
----
-
-### Insults case against Director General of Geological and Mines Bureau
-
-*2024-09-27 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201611) · `si`
-
-Supreme Court case filed against Director General of Geological and Mines Bureau over illegal sand mining permits issued despite court orders.
-
-🟩
-
-The Center has informed the Supreme Court that a case is expected to file a case under the context of the Director General of Geological and Mines.
-
-They have informed the court that the case will file the case regarding the violations issued by the Supreme Court in Madampe.
-
-A group of people, including the Environmental Justice Center, had filed a fundamental rights petition demanding the issuance of an illegal destruction prevention order in the Madampe area.
-
-The Supreme Court had ordered that the petition was taken up on July 15, the Supreme Court ordered the existing situation.
-
-However, the Director General of the Geological and Mines Bureau has issued four sand mining permits, which he has taken a court order and has stated in the Supreme Court.
-
-The three-judge panel has ordered the lawyer of the Pet Assistant to take action before the relevant Director General.
-
-◼️
-
-[Data](articles/9dd261df.json)
-
-[Extended Data](ext_articles/9dd261df.ext.json)
 
 ---

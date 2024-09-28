@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 09:22:44**
+As of **2024-09-28 09:38:34**
 
 ## Newspaper Stats
 
-*Scraped **46,686** Articles*
+*Scraped **46,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,102 @@ colombotelegraphcom | 462
 islandlk | 2,739
 economynextcom | 2,840
 dailyftlk | 3,128
-adalk | 4,303
+adalk | 4,304
 dailymirrorlk | 4,733
-adaderanalk | 5,487
+adaderanalk | 5,489
 tamilmirrorlk | 6,261
 virakesarilk | 7,461
-adaderanasinhalalk | 8,060
+adaderanasinhalalk | 8,061
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,686 (100.0%) of 46,686 articles have been extended.
+46,690 (100.0%) of 46,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Prime Minister Harini orders rapid audit of sports ministry allocations
+
+*2024-09-28 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102314/prime-minister-harini-orders-rapid-audit-of-sports-ministry-allocations) · `en`
+
+Prime Minister Dr. Harini Amarasuriya has called for an immediate audit of the Ministry of Sports’ financial allocations, emphasizing the need for transparency and accountability.
+
+Although expenditure statistics are available, there has been no evaluation of the actual progress achieved through these funds. The Prime Minister advised that an internal audit be conducted as soon as possible, according to the Prime Minister’s Media Division.
+
+Speaking at a meeting with heads of institutions under the Ministry of Sports and Youth Affairs yesterday (27)), Prime Minister Dr. Amarasuriya outlined her priorities across various ministries under her supervision, highlighting several concerns related to the Ministry of Sports.
+
+“As Prime Minister, I am prioritizing key issues that have been overlooked in ministries under my charge. The Ministry of Sports, in particular, has raised several critical concerns.
+
+...
+
+[Data](articles/0d75423e.json)
+
+[Extended Data](ext_articles/0d75423e.ext.json)
+
+---
+
+### Rs. Twenty-million garlic pearls
+
+*2024-09-28 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201620) · `si`
+
+Negombo police arrest officers and suspects over garlic pearl scam. 38-year-old Gelioya resident involved. Case valued at 20,000 rupees.
+
+🟩
+
+Officers of the Negombo Divisional Criminal Investigation Bureau were arrested by the Negombo Divisional Criminal Investigation Bureau along with five Gests to sell.
+
+Police said that the value of the gauge was about 20,000 rupees.
+
+The suspect is a 38 year old resident of Gelioya.
+
+◼️
+
+[Data](articles/82f5ed3e.json)
+
+[Extended Data](ext_articles/82f5ed3e.ext.json)
+
+---
+
+### Wrapping up mission, US troops will leave some longstanding bases in Iraq under new deal
+
+*2024-09-28 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102313/wrapping-up-mission-us-troops-will-leave-some-longstanding-bases-in-iraq-under-new-deal) · `en`
+
+The U.S. announced an agreement with the Iraqi government Friday to wrap up the military mission in Iraq of an American-led coalition fighting the Islamic State group by next year, with U.S. troops departing some bases that they have long occupied during a two-decade-long military presence in the country.
+
+But the Biden administration refused to provide details on how many of the approximately 2,500 U.S. troops still serving in Iraq will remain there or acknowledge it will mark a full withdrawal from the country.
+
+“I think it’s fair to say that, you know, our footprint is going to be changing within the country,” Pentagon deputy press secretary Sabrina Singh told reporters Friday without providing specifics.
+
+...
+
+[Data](articles/b2a47252.json)
+
+[Extended Data](ext_articles/b2a47252.ext.json)
+
+---
+
+### Kumara Welgama faires
+
+*2024-09-28 09:04:28* · [`adalk`](https://www.ada.lk/breaking_news/කුමාර-වෙල්ගම-සමුගනියි/11-412188) · `si`
+
+Kumara Welgama, former Sri Lankan politician, dies at 74. He served as District Parliamentarian and played a significant role in national politics.
+
+🟩
+
+Former District Parliamentarian Kumara Welgama has passed away at a private hospital in Colombo this morning.
+
+He was 74 years old when he died.He was also a critical figure in politics in the country.
+
+◼️
+
+[Data](articles/aa6f1733.json)
+
+[Extended Data](ext_articles/aa6f1733.ext.json)
+
+---
 
 ### Kumar Welgama has passed away
 
@@ -2103,93 +2183,5 @@ Responding to questions at the Central Bank’s monthly monetary policy review, 
 [Data](articles/c4c6901e.json)
 
 [Extended Data](ext_articles/c4c6901e.ext.json)
-
----
-
-### Japan's 11 projects will be launched quickly
-
-*2024-09-27 13:31:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானின்-11-திட்டங்கள்-விரைவாக-ஆரம்பிக்கப்படும்/175-344579) · `ta`
-
-Japan supports 11 projects in Sri Lanka. Government cooperation ensures swift launch. Projects include Kandy water management, airport development, medical services improvement, electricity zone, and water supply schemes. Completion expected soon.
-
-🟩
-
-With the help of the Japanese government, the 11 projects that are currently in the middle of the interim will be launched quickly. The Presidential Media Division has announced that Japan has fully supported the new government's plan to eradicate corruption and irregularities.
-
-Japanese Ambassador to Sri Lanka Mizukoshi Hideaki said that the Japanese government is fully cooperating with Sri Lanka and will continue to work closely with Sri Lanka.
-
-Japanese Ambassador Missukoshi Hidaygi said this when he met President's Secretary Dr. Nandika Sanath Kumanayake yesterday afternoon.
-
-The Japanese Ambassador promised that the 11 projects that were started with the help of the Japanese government would be started immediately.
-
-Accordingly, Kandy City Water Management Program, Bandaranaike International Airport Development Program, Second Stage of Bandaranaike International Airport Development ProjectThe Medical Services Improvement Program will be resumed soon.
-
-...
-
-[Data](articles/de478967.json)
-
-[Extended Data](ext_articles/de478967.ext.json)
-
----
-
-### New President summoned armed forces
-
-*2024-09-27 13:08:55* · [`adalk`](https://www.ada.lk/breaking_news/නව-ජනාධිපති-සන්නද්ධ-හමුදා-කැඳවයි/11-412182) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake summons armed forces under Section 12 of the People's Security Act to maintain public peace across all administrative districts.
-
-🟩
-
-President Anura Kumara Dissanayake has issued an armed forces called to maintain public peace in all the administrative districts of the country.
-
-The President released the Extent Gazette notification of the Sri Lanka Navy and all the members of the Sri Lanka Air Force (SLAF) with the operation of the Sri Lanka Navy and all members of the Sri Lanka Air Force (26).
-
-The armed forces have been called in accordance with the powers vested in Section 12 of the People's Security Act.
-
-◼️
-
-[Data](articles/69010619.json)
-
-[Extended Data](ext_articles/69010619.ext.json)
-
----
-
-### Test century records
-
-*2024-09-27 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201601) · `si`
-
-Sri Lanka's second Test match against New Zealand. Madapandy Mendis scored his 5th century on day 27.
-
-🟩
-
-Sri Lanka's second term in Test cricket, Sri Lanka and New Zealand, Sri Lanka Madapandy Mendis won the 5th century Test cricket today (27).
-
-◼️
-
-[Data](articles/ee5da73d.json)
-
-[Extended Data](ext_articles/ee5da73d.ext.json)
-
----
-
-### Kabir Hashim to be appointed Secretary General of UPFA
-
-*2024-09-27 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201600) · `si`
-
-Kabir Hashim named UPFA Secretary General. Emmittas Bakir Makar becomes Samagiens Chairman. Sajith Premadasa appointed UPFA Secretary General. University of Gampaha District chosen as Gampaha District Chairman of University of Sri Lanka.
-
-🟩
-
-Former Parliamentarian Emmitias Bakir Makar has been appointed as the Chairman of the Samagiens.
-
-The UPFA leader Sajith Premadasa has been appointed as the Secretary-General of the UPFA.
-
-Also, the University of the Gampaha District was appointed as the Gampaha District Chairman of the University of Sri Lanka.
-
-◼️
-
-[Data](articles/9a72d6c9.json)
-
-[Extended Data](ext_articles/9a72d6c9.ext.json)
 
 ---

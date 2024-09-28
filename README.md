@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 18:18:32**
+As of **2024-09-28 18:31:21**
 
 ## Newspaper Stats
 
-*Scraped **46,735** Articles*
+*Scraped **46,738** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 387
 bbccomsinhala | 463
-colombotelegraphcom | 464
+colombotelegraphcom | 466
 islandlk | 2,739
 economynextcom | 2,841
 dailyftlk | 3,129
-adalk | 4,308
+adalk | 4,309
 dailymirrorlk | 4,733
 adaderanalk | 5,498
 tamilmirrorlk | 6,266
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,735 (100.0%) of 46,735 articles have been extended.
+46,738 (100.0%) of 46,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Dudley comes to support of new government - to all rice control
+
+*2024-09-28 17:30:23* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආණ්ඩුවේ-සහායට-ඩඩ්ලි-එයි---සියලුම-සහල්-පාලන-මිලට/11-412193) · `si`
+
+Governor Dudley Sirisena supports new government's rice control measures. Promises continued rice supply from April 28. Criticizes previous administration's handling of agriculture. Emphasizes importance of developing diverse rice varieties. Expresses intention to participate in future elections.
+
+🟩
+
+The Governor of the Rice Dudley Sirisena says he will continue to pay all rice control purchases from 28th and cooperation.
+
+He also agreed to provide rice to all consumers from 28 April, he added.
+
+Dudley Sirisena was speaking at a press conference at the Polonnaruwa area on the 28th.
+
+Dudley Sirisena said that he was supported by the preserved prices of the President of the President of Anura Kumara Dissanayake, who is now in powerful for injustice, injustice and corruption.
+
+Sirisena said that more people in Sri Lanka were consumption of Nadu rice and he had the right to speak against the government in order to speak about paddy and rice.
+
+Sirisena, who spoke of Samba, Nadu, milk samba, cultivating the advantages of cultivation, the government should be prepared to cultivate various varieties of varieties of paddy fields.
+
+...
+
+[Data](articles/66dac0b4.json)
+
+[Extended Data](ext_articles/66dac0b4.ext.json)
+
+---
 
 ### Circular in relation to all schools
 
@@ -583,6 +611,22 @@ After this audit, a complete report will be prepared with regard to missing gove
 [Data](articles/f94d1c9b.json)
 
 [Extended Data](ext_articles/f94d1c9b.ext.json)
+
+---
+
+### Is Sri Lanka Prospecting For Oil In The Mannar Basin Or Not?
+
+*2024-09-28 12:23:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-sri-lanka-prospecting-for-oil-in-the-mannar-basin-or-not/) · `en`
+
+The Government called for International tenders to prospect for oil and gas in Mannar basin in 2019 . An award was made as per the tender specs, and lo and behold the usual games began. Before long the successful bidder was assailed with the usual wishy-washy delaying tactics which led to the tender being cancelled. Reminiscent of many such tenders. The successful tenderer who had spent considerable sums naturally sought legal redress obtaining an interim order against the cancellation.
+
+Mark you, the Government of Sri Lanka nor the people have to spend a penny to prospect. If oil or gas is found the agreed terms must be met. If there is discovery ( mind you these people are pros in the business) Sri Lanka will benefit big time in the interim period before the Carbon zero system ( if ever ) comes into play, perhaps in 2030. Therefore timing is of the essence. If there is no discovery, the bidder loses but not Sri Lanka. Get it?
+
+...
+
+[Data](articles/06ec6f8a.json)
+
+[Extended Data](ext_articles/06ec6f8a.ext.json)
 
 ---
 
@@ -2185,57 +2229,5 @@ England's Herpot Sutchliv (in 1925) and Everton Weaks of the West Indies (1945) 
 [Data](articles/8d3976ca.json)
 
 [Extended Data](ext_articles/8d3976ca.ext.json)
-
----
-
-### Mano Ganesan's announcement
-
-*2024-09-27 20:04:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-கணேசன்-வெளியிட்ட-அறிவிப்பு/175-344587) · `ta`
-
-Mano Ganesan announces readiness to discuss general election after internal changes in United People's Power. Presidential election loss prompts strategy shift. Tamil Progressive Alliance remains separate entity, supported in Sabaragamuwa, Central, Uva, and Southern Provinces. United People's Power president Sajith Premadasa aware of alliance's stance. Coalition discussions possible post-internal changes.
-
-🟩
-
-Mano Ganesan, the leader of the Tamil Progressive Alliance and former Member of Parliament, said that after the internal changes of the United People's Power were completed, he was ready to discuss the general election.
-
-The presidential election is unable to win. People's position is to change. Therefore, there is a change of course.
-
-The coalition can be discussed after making the internal changes of the United People's Power. We are a separate party. Our supporters in the Sabaragamuwa, Central, Uva and Southern Provinces have voted on the Tamil Progressive Alliance.
-
-Our people have accepted our position. It is also known to the United People's Power President Sajith Premadasa.
-
-Wherever we will remain. We are still part of the United People's Alliance today. We are the one who continues to be component. He pointed out that the basis should be given. Remble
-
-◼️
-
-[Data](articles/949831cb.json)
-
-[Extended Data](ext_articles/949831cb.ext.json)
-
----
-
-### An emergency announcement from the Department of Meteorology
-
-*2024-09-27 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201613) · `si`
-
-Sri Lanka Meteorology Department warns of increased rain and thunderstorms in central and southern regions. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-The Meteorology Department says that a rainy increase in the island is expected to increase in the next few days due to the disturbance nature of Sri Lanka.
-
-Showers or thundershowers during the evening or night in many parts of the island.
-
-Mm in Central and Sabaragamuwa provinces, Kalutara, Galle and Matara districts. There may be a tight closure over 100.
-
-Showers or thundershowers will occur at several places in the Batticaloa and Ampara Districts in the Batticaloa and Ampara Districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/9b599479.json)
-
-[Extended Data](ext_articles/9b599479.ext.json)
 
 ---

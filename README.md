@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 22:38:12**
+As of **2024-09-28 22:56:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,753 (100.0%) of 46,755 articles have been extended.
+46,755 (100.0%) of 46,755 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Dr. Amarasuriya, who is also the Education Minister, said children no longer bel
 ...
 
 [Data](articles/a95b63f3.json)
+
+[Extended Data](ext_articles/a95b63f3.ext.json)
 
 ---
 
@@ -111,6 +113,8 @@ Accordingly, he requested all postal voters to have their postal vote applicatio
 ◼️
 
 [Data](articles/bb7269b4.json)
+
+[Extended Data](ext_articles/bb7269b4.ext.json)
 
 ---
 

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 08:58:43**
+As of **2024-09-28 09:22:44**
 
 ## Newspaper Stats
 
-*Scraped **46,682** Articles*
+*Scraped **46,686** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 387
-bbccomsinhala | 461
+bbccomsinhala | 462
 colombotelegraphcom | 462
 islandlk | 2,739
 economynextcom | 2,840
 dailyftlk | 3,128
-adalk | 4,302
+adalk | 4,303
 dailymirrorlk | 4,733
 adaderanalk | 5,487
-tamilmirrorlk | 6,259
+tamilmirrorlk | 6,261
 virakesarilk | 7,461
 adaderanasinhalalk | 8,060
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,060
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,682 (100.0%) of 46,682 articles have been extended.
+46,686 (100.0%) of 46,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Kumar Welgama has passed away
+
+*2024-09-28 08:40:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குமார்-வெல்கம-காலமானார்/175-344608) · `ta`
+
+Former Sri Lankan MP Kumar Welgama dies in Colombo hospital.
+
+🟩
+
+Kumar Welgama, a former Kalutara district parliamentarian, passed away at a private hospital in Colombo.
+
+◼️
+
+[Data](articles/4770709c.json)
+
+[Extended Data](ext_articles/4770709c.ext.json)
+
+---
 
 ### Heavy showers expected in parts of the island
 
@@ -133,6 +151,60 @@ As such, the people will be taken to reduce the necessary steps to reduce the da
 [Data](articles/a8902fb8.json)
 
 [Extended Data](ext_articles/a8902fb8.ext.json)
+
+---
+
+### Do you know about the 46-year-old political life that followed Anura's victory?
+
+*2024-09-28 03:12:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy80gxjpqd7o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Tilvin Silva, JVP General Secretary for 29 years, refused posts under Chandrika Bandaranaike governments. He protected party members during 1983 ban and 1995 imprisonment. Described unknown political tactics with Rohana Wijeweera and Anura Dissanayake.
+
+🟩
+
+Do you know about the 46-year-old political life that followed Anura's victory?
+
+Tilvin Silva, who is engaged in the active politics of the JVP, is the General Secretary of the JVP for 29 years.
+
+He has the asset assets including the head office building of the JVP.
+
+He said that he decided not to accept any post in Chandrika Bandaranaike as well as the current government of Chandrika Bandaranaike as well as Anura Kumara Dissanayake.
+
+The Secretary of the Kalutara District is the Secretary to the Kalutara District at the time of banning the party ''83.. But many did not know what the party did in the party because I didn't politicize at that time. The prison officer knew who I was in the 1995 secretary of the 1995 party secretary.. My behavior was able to protect the lives of many of the party. The police thought I was the right to help with the party. "He said.
+
+...
+
+[Data](articles/abe37a25.json)
+
+[Extended Data](ext_articles/abe37a25.ext.json)
+
+---
+
+### Indian High Commissioner - Rauf Hakeem Meeting
+
+*2024-09-28 02:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-ரவூப்-ஹக்கீம்-சந்திப்பு/175-344607) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Indian High Commissioner Santosh Ja met Muslim Congress leader Rauf Hakeem. Discussion focused on strengthening Sri Lanka's political progress and improving bilateral relations between India and Sri Lanka.
+
+🟩
+
+Indian High Commissioner Santosh Ja met Muslim Congress leader Rauf Hakeem yesterday.
+
+It has also been discussed on the strengthening of Sri Lanka's political advances and strengthening the Sri Lankan relations. (A)
+
+◼️
+
+[Data](articles/7336b252.json)
+
+[Extended Data](ext_articles/7336b252.ext.json)
 
 ---
 
@@ -1027,6 +1099,26 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. It is no
 [Data](articles/f6e795c0.json)
 
 [Extended Data](ext_articles/f6e795c0.ext.json)
+
+---
+
+### Namal's invitation
+
+*2024-09-27 19:28:48* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-ආරාධනාව/11-412187) · `si`
+
+Namal Rajapaksa, National Organizer of Sri Lanka's Government, joins Sri Lanka Civil Arose Front for presidential election. He says party reorganized for next general election, promising greater opportunities.
+
+🟩
+
+Namal Rajapaksa, the National Organizer of the Government of Sri Lanka, is invited to join the Sri Lanka Civil Arose Front in the last presidential election.
+
+Namal Rajapaksa said that the party was reorganized for the next general election and would provide greater opportunities
+
+◼️
+
+[Data](articles/903f6cf5.json)
+
+[Extended Data](ext_articles/903f6cf5.ext.json)
 
 ---
 
@@ -2099,97 +2191,5 @@ Also, the University of the Gampaha District was appointed as the Gampaha Distri
 [Data](articles/9a72d6c9.json)
 
 [Extended Data](ext_articles/9a72d6c9.ext.json)
-
----
-
-### Open the main roads that were closed
-
-*2024-09-27 12:45:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூடப்பட்டிருந்த-முக்கிய-வீதிகள்-திறக்கப்பட்டன/175-344578) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"President Anura Dissanayake orders police to reopen Mawatha and Baron Jayatilaka Mawatha streets effective today."
-
-🟩
-
-President Anura Dissanayake has ordered the police to open the streets of Mawatha and Baron Jayatilaka Mawatha from today.. Remble
-
-◼️
-
-[Data](articles/6428895f.json)
-
-[Extended Data](ext_articles/6428895f.ext.json)
-
----
-
-### Sri Lanka Courts halt Thales-JIT passport deal
-
-*2024-09-27 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-courts-halt-thales-jit-passport-deal-181306/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Court of Appeal has halted the contract approved by the cabinet to buy 750,000 passports, until October 01, in a case filed alleging procurement irregularities.
-
-Courts halted the deal in which Thales DIS Finland OY, Just In Time Technologies (Pvt) Ltd, and IRIS Corporation Bhd, Malaysia were named petitioners.
-
-Public Security Minister Tiran Alles, who was in charge of the Department of Immigration and the entire cabinet at the time were named in the petition.
-
-The petitioner alleged that the procurement was irregular with change made to tender condition through addendum without enough time or clarifications. (Colombo/Sep17/2024 – Corrected – order till October 01)
-
-◼️
-
-[Data](articles/786b731e.json)
-
-[Extended Data](ext_articles/786b731e.ext.json)
-
----
-
-### Those who say that they should stand alone and compete with the party will be disintegrating - Gnanamuthu Srinasan
-
-*2024-09-27 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/194902) · `ta`
-
-Gnanamuthu Srinivasan: Tamil National Party should contest as federation in parliamentary elections. TNA leader Mawai Senathirajah urges unity among Tamil parties. Parties united for local elections but aim to contest together in provincial and parliamentary polls. New government focused on addressing Tamil issues like land grabs, kidnappings, murders, robberies, and Easter bombings.
-
-🟩
-
-We want the Tamil National Party to contest the upcoming parliamentary elections as a federation. This is the wishes of the people. Former Batticaloa district parliamentarian Gnanamuttu Srinesan said that those who claim to contest personally are intended to be aimed at raising the party.
-
-He was speaking to the media this morning (27) in Batticaloa.
-
-The Tamil National Alliance (TNA) leader Mawai Senathirajah has said that the Tamils ​​should unite the Tamil National Party as a party in the unity.
-
-The parties in the Local Government elections were left alone after contesting separately after contesting a separate council, and it was taken to get more council seats, thereby joining the Sri Lankan national parties, uniting the Tamil national parties and taking these councils strongly.
-
-This procedure was only for the local elections. The Tamil National Party's desire is to contest the federation in other provincial council election and parliamentary elections.
-
-...
-
-[Data](articles/e4aa2705.json)
-
-[Extended Data](ext_articles/e4aa2705.ext.json)
-
----
-
-### Action change in IMC
-
-*2024-09-27 12:31:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சவில்-அதிரடி-மாற்றம்/175-344577) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sajith Premadasa, leader of United People's Power, announces leadership changes. Imtiaz Pakir Macker appointed as Chairman of United People's Power for 2024.
-
-🟩
-
-Sajith Premadasa, the leader of the United People's Power and the United People's Power, took action today (27) to bring about changes in the main positions of the United People's Power and the United People's Alliance.
-
-Accordingly, former Parliamentarian Imtiaz Pakir Macker as the Chairman of the United People's Power for 2024
-
-◼️
-
-[Data](articles/2ea9cf48.json)
-
-[Extended Data](ext_articles/2ea9cf48.ext.json)
 
 ---

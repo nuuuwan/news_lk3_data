@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 21:38:46**
+As of **2024-09-28 21:57:48**
 
 ## Newspaper Stats
 
-*Scraped **46,746** Articles*
+*Scraped **46,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
 adaderanalk | 5,500
-tamilmirrorlk | 6,268
-virakesarilk | 7,467
-adaderanasinhalalk | 8,081
+tamilmirrorlk | 6,269
+virakesarilk | 7,470
+adaderanasinhalalk | 8,082
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,746 (100.0%) of 46,746 articles have been extended.
+46,751 (100.0%) of 46,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Resolution to compete in all areas where Tamils ​​live
+
+*2024-09-28 21:28:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்கள்-வாழும்-அனைத்து-பகுதிகளிலும்-போட்டியிட-தீர்மானம்/175-344617) · `ta`
+
+TNA seeks allies for general election. Parties invited to join Tamil National Alliance. If refused, will contest as separate Tamil party. Focus on areas outside North and East.
+
+🟩
+
+TNA spokesman MA Sumanthiran said he would call for partners who had split from the federation to contest the upcoming general election as a Tamil National Alliance.
+
+He said that if the parties did not join the invitation, they would contest as a Tamil party.
+
+Meanwhile, Tamils ​​are being considered to compete in areas where Tamils ​​except the North and East are.. Remble
+
+◼️
+
+[Data](articles/51c6852f.json)
+
+[Extended Data](ext_articles/51c6852f.ext.json)
+
+---
+
+### A car suspected to be abducted
+
+*2024-09-28 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201644) · `si`
+
+The car has been taken into custody by a car in the Katugastota on the 28th.
+
+The Mawanella Police have also taken the suspect with the suspect.
+
+The suspect is unable to verify the vehicle identity when a group of officers of the Criminal Investigation Unit went to the OIC of the Police OIC.
+
+Accordingly, the person has taken steps to arrest the man on suspicion.
+
+The arrested persons were a 23 year old resident of Wattegedara, Kandy.
+
+The suspect and the car will be handed over to Katugastota Police for further investigations.
+
+◼️
+
+[Data](articles/ea494717.json)
+
+[Extended Data](ext_articles/ea494717.ext.json)
+
+---
 
 ### An announcement on postal voting applications
 
@@ -235,6 +281,100 @@ There may be temporary localized strong winds during thundershowers. The general
 [Data](articles/d0f948eb.json)
 
 [Extended Data](ext_articles/d0f948eb.ext.json)
+
+---
+
+### Dil Raja - Film Review
+
+*2024-09-28 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194998) · `ta`
+
+"Dil Raja" review: Vijay Satya shines in debut, Sherin struggles. Rajinikanth fans aid hero against harassment. Mixed acting, decent cinematography.
+
+🟩
+
+Actors: Vijay Satya, Sherin, Samyukta, Karate Raja, Vanitha Vijayakumar, Iman Annachi, A. Venkatesh, Cesar Manohar and many others.
+
+Did 'Dil Raja' at the star of the story of Vijay Satya's story attracted all the fans?Or not?We will continue to see.
+
+Vijay Satya, superstar Rajinikanth fan. He is a hobby of repairing four -wheelers.
+
+Works in a private company as a building map engineer. He has Sherin (a young man) wife. A girl child for this couple. They go to the business premises to celebrate this child's birthday.
+
+On his return, the son of state minister Pandi and his friends are sexually harassing them.
+
+The story of the film is how the hero escapes with the help of Rajinikanth's fans.
+
+Vijay Satya, the debutant man, plays a stunning in the scenes. She also expresses her dance skills in dance scenes.
+
+But only stumbles in acting. Actress Sherin, who plays the heroine. Acting Missing.
+
+The only actor KP Vi Bala is the friend of the hero who comforts the fans.
+
+...
+
+[Data](articles/27e50d82.json)
+
+[Extended Data](ext_articles/27e50d82.ext.json)
+
+---
+
+### Law in my hand - movie review
+
+*2024-09-28 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194996) · `ta`
+
+"Law in My Hand" movie review summary:
+
+
+
+Tamil thriller set in Yercaud Hills. Satish stars as a comedian turned hero. Accidental death leads to murder mystery. Suspenseful plot unfolds. Strong performances from cast. Beautiful cinematography captures Yercaud's beauty. Engaging crime thriller with surprising twists.
+
+🟩
+
+Actors: Satish, Ajay Raj, Powell Navadekithan, Maim Gopi, Rithika, Vidya Pradeep, Bawa Chellaturai, E.. Ramdas et al.
+
+Satish - the hero of the story from the site of the comedian - Satish - the hero of the story, to maintain the mark of the story and to raise his market value. Has the director and Sathish's cousin Sachi's upcoming film 'Law En Ka Ka Ka' attracted all fans?Or not?We will continue to see.
+
+Yercaud, the mountain range of Tamil Nadu, is a story that takes place overnight.
+
+Satish, the hero of the story, travels in a four -wheeler in Yercaud Hills. He gets phone calls during the trip.
+
+Whenever he tries to respond to her, her travel speed increases. Following this, he unexpectedly crashes into the man in the wheelchair.
+
+The person dies in that accident. He continues to carry his body in the back of his vehicle.
+
+The police were involved in vehicle audit that night. Due to a male corpse in the back of his vehicle, he refuses to cooperate with the police department's vehicle audit.
+
+...
+
+[Data](articles/6672771e.json)
+
+[Extended Data](ext_articles/6672771e.ext.json)
+
+---
+
+### Simran joins Sasikumar for the first time
+
+*2024-09-28 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194993) · `ta`
+
+Simran pairs with Sasikumar in upcoming film. Crew excited about October shoot start. Beta marks first collaboration between actors.
+
+🟩
+
+The film crew has said that actress Simran is paired opposite him in an unnamed film starring actor Sasikumar.
+
+Sasikumar, Simran, Mithun Jaishankar, Kamalesh, Yogi Babu, Ramesh Tilak, MS. Bhaskar, Bucks, Bhagwati Perumal and many others.
+
+The film is being produced by Million Studios and MRB Entertainment, produced by producers Nazareth Baslien, Mahesh Raj Baslien and Yuvraj Ganesan.
+
+The film crew is excited that the shooting of the film will begin in the first week of October and that the film is scheduled to be released next year.
+
+The film has been officially releasing the film fans as the star actor Sasikumar, who has been successful in the story of 'Ayodhya', 'Garuda' and 'Nandan', has been cast as the hero of the story and the film is the first to pair with Simran and Sasikumar in the film 'Beta'.
+
+◼️
+
+[Data](articles/9d6bfff4.json)
+
+[Extended Data](ext_articles/9d6bfff4.ext.json)
 
 ---
 
@@ -2129,105 +2269,5 @@ The EPRB, as envisaged, would be comprised of 10 interdisciplinary experts, each
 [Data](articles/5fd76d82.json)
 
 [Extended Data](ext_articles/5fd76d82.ext.json)
-
----
-
-### Strengthening governance in Sri Lanka: Case for an External Policy Review Board
-
-*2024-09-27 23:38:04* · [`dailyftlk`](https://www.ft.lk/opinion/Strengthening-governance-in-Sri-Lanka-Case-for-an-External-Policy-Review-Board/14-767254) · `en`
-
-The proposal for the EPRB marks a proactive step toward not only refining the quality of governance but also upholding the principles of transparency and accountability foundational to our democratic ethos
-
-While Sri Lanka is commendably moving toward better governance, there remains room for substantial improvement. Enhancing our policy-making processes is critical for continuing this forward momentum. The proposed establishment of an External Policy Review Board (EPRB) offers a significant opportunity to deepen our commitment to transparent and effective governance.
-
-...
-
-[Data](articles/e76155c5.json)
-
-[Extended Data](ext_articles/e76155c5.ext.json)
-
----
-
-### Namal calls back those who went to Ranil
-
-*2024-09-27 23:25:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலிடம்-சென்றவர்களை-மீண்டும்-அழைக்கின்றார்-நாமல்/175-344602) · `ta`
-
-Namal Rajapakse calls former SLPP members to rejoin party. He aims to strengthen the party for future elections and create opportunities for young talent. This move comes after some members defected to support Ranil Wickremesinghe in the presidential race.
-
-🟩
-
-Its national organizer Namal Rajapakse has called on the Sri Lanka PA to re -join the Sri Lanka PA, with the representatives of provincial councils and local councils who have joined the Sri Lanka PA in the presidential election and joined the former President Ranil Wickremesinghe.
-
-Namal Rajapaksa added that steps will be taken to restore the party for the next general election and provide more opportunities to talented youth.. Remble
-
-◼️
-
-[Data](articles/65a6c00e.json)
-
-[Extended Data](ext_articles/65a6c00e.ext.json)
-
----
-
-### Indian Vice Ambassador Sai Murali congratulates new Governor Nagalingam Vedanayaka
-
-*2024-09-27 23:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/194955) · `ta`
-
-Indian Vice-Ambassador Sai Murali congratulates Governor Nagalingam Vedanayaka on new duties in Northern Province. Meeting discusses improving cooperation between India and Sri Lanka's North.
-
-🟩
-
-Indian Vice -Ambassador Sai Murali congratulated Governor Nagalingam Vedanayan, who has been responsible for the new duties in the Northern Province.
-
-Indian Ambassador to Jaffna Sai Murali met the Governor of the Northern Province at the Governor's Secretariat on Friday (27).
-
-During the meeting, it was reported that ways to improve the cooperation between India and the Northern Province of Sri Lanka in the North were discussed.
-
-◼️
-
-[Data](articles/fcc5fe9f.json)
-
-[Extended Data](ext_articles/fcc5fe9f.ext.json)
-
----
-
-### 62 million rupees
-
-*2024-09-27 23:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலியானவர்களுக்கு-62-மில்லியன்-ரூபாய்-நட்டஈடு/175-344601) · `ta`
-
-Easter Sunday terrorist incident compensation update: 246 million rupees received, 62 million given to victims. Pending cases in Negombo and Colombo District Courts.
-
-🟩
-
-Additional Solicitor General Dilip Peiris said that 246 million rupees has been received in connection with the Easter Sunday terrorist incident and 62 million rupees have been given to the victims.
-
-Also, if the list of the victims is submitted, the president's lawyer Shamil Perera, appearing on behalf of Archbishop Malcolm Cardinal Ranjith, told the court that the current pending compensation cases could be withdrawn in the district courts.
-
-Meanwhile, about 300 compensation cases filed by the victims are pending in Negombo and Colombo District Courts.. Remble
-
-◼️
-
-[Data](articles/e5a7ea90.json)
-
-[Extended Data](ext_articles/e5a7ea90.ext.json)
-
----
-
-### Sri Lanka in a strong position against New Zealand
-
-*2024-09-27 23:04:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நியூசிலாந்துக்கெதிராக-பலமான-நிலையில்-இலங்கை/44-344600) · `ta`
-
-Sri Lanka leads NZ in Test series after Day 2. Strong batting performance from Mendis brothers and Chandimal. New Zealand faces challenge in chasing 603 runs.
-
-🟩
-
-Sri Lanka is in a state of strong at the end of today's second day of the second match, which began on Thursday (26) in Galle in a two -match Test series against New Zealand.
-
-Sri Lanka: 602/5 (batting: Camindu Mendis AE 182, Dinesh Chandimal 116, Gusal Mendis AE 106, Angelo Madhus 88, Timuth Karunaratne 46, Tanjaya de Silva 44 runs. Bowling: Glenn Philips 3/141, Tim Saudi 1/70)
-
-◼️
-
-[Data](articles/1bb788c3.json)
-
-[Extended Data](ext_articles/1bb788c3.ext.json)
 
 ---

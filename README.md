@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 03:07:47**
+As of **2024-09-29 03:22:52**
 
 ## Newspaper Stats
 
-*Scraped **46,761** Articles*
+*Scraped **46,762** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 387
+dbsjeyarajcom | 388
 bbccomsinhala | 463
 colombotelegraphcom | 466
 islandlk | 2,739
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,761 (100.0%) of 46,761 articles have been extended.
+46,762 (100.0%) of 46,762 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -665,6 +665,22 @@ Sirisena, who spoke of Samba, Nadu, milk samba, cultivating the advantages of cu
 [Data](articles/66dac0b4.json)
 
 [Extended Data](ext_articles/66dac0b4.ext.json)
+
+---
+
+### The Prelate and the Premier:                                     Why   Mapitigama Buddharakkitha  Thera got  SWRD Bandaranaike Assaassinated.
+
+*2024-09-28 17:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84800) · `en`
+
+Sri Lanka’s newly elected president Anura Kumara Dissanayake has appointed Dr.Harini Amarasuriya as  his Prime minister. The academic turned politico is Sri Lanka’s third woman prime minister. The first woman PM of  the Island nation was Sirimavo Bandaranaike.  Sirimavo shattered a global glass ceiling in 1960  by becoming the world’s first woman prime minister.Her daughter Chandrika Kumaratunga became the second woman PM in 1994. Subsequently she  too made history  as Sri Lanka’s first woman president.
+
+As is well known Sirimavo and Chandrika were the wife and daughter of  formr Prime Minister  Solomon West Ridgeway Dias Bandaranaike (SWRDB) respectively. Prime Minister  Bandaranaike was killed in 1959. He died on 26 September 1959.. SWRDB was born on January 8th 1899. As such this year marks the 125th birth and 65th death anniversaries  of Bandaranaike.
+
+...
+
+[Data](articles/b9f5b454.json)
+
+[Extended Data](ext_articles/b9f5b454.ext.json)
 
 ---
 
@@ -2331,31 +2347,5 @@ His nurturing and sustaining the myth that he is eternal and thus creating perso
 [Data](articles/e52ded7a.json)
 
 [Extended Data](ext_articles/e52ded7a.ext.json)
-
----
-
-### 62 million rupees compensation for victims on Easter Day
-
-*2024-09-28 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/194956) · `ta`
-
-Easter Sunday terrorist case: 62m rupees compensation for victims, 246m rupees received so far. 300 pending cases in Negombo and Colombo courts. Former Director Nilanda Jayawardene accused of contempt for unpaid 75m rupees compensation.
-
-🟩
-
-Additional Solicitor General Dilip Peiris said 246 million rupees has been received in connection with the Easter Sunday terrorist case.
-
-He presented the facts in the Supreme Court on Friday (27) and said 62 million rupees for the victims of the Easter attack.
-
-Attorney -at -Law Shamil Perera, appearing on behalf of Archbishop Malcolm Cardinal Ranjith, told the court that if the list of the victims is submitted, the present -day compensation cases can be withdrawn in the district courts.
-
-Meanwhile, about 300 compensation cases filed by the victims are pending in Negombo and Colombo District Courts.
-
-In addition, the Attorney General announced in the Supreme Court on Friday (27) that the former Director of the State Intelligence Unit Nilanda Jayawardene had filed a contempt of court allegation against Nilantha Jayawardena due to failing to pay Rs 75 million in full compensation in the case.
-
-...
-
-[Data](articles/6b3b2ded.json)
-
-[Extended Data](ext_articles/6b3b2ded.ext.json)
 
 ---

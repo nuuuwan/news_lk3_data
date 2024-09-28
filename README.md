@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 14:38:16**
+As of **2024-09-28 14:57:03**
 
 ## Newspaper Stats
 
-*Scraped **46,717** Articles*
+*Scraped **46,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,129
 adalk | 4,307
 dailymirrorlk | 4,733
 adaderanalk | 5,496
-tamilmirrorlk | 6,264
+tamilmirrorlk | 6,265
 virakesarilk | 7,467
 adaderanasinhalalk | 8,065
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,717 (100.0%) of 46,717 articles have been extended.
+46,718 (100.0%) of 46,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### President visited the International Book Fair
+
+*2024-09-28 14:15:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/சர்வதேச-புத்தகக்-கண்காட்சியை-பார்வையிட்டார்-ஜனாதிபதி/46-344612) · `ta`
+
+Sri Lanka's President Anura Kumara Dissanayake attended the 25th Colombo International Book Fair at the Bandaranaike International Conference Hall. He received a national policy on children's books from the Sri Lanka Book Publishers Association. The event featured 400 bookstores and discussions with visitors. A related exhibition will be held on September 27.
+
+🟩
+
+President Anuragumara Dissanayake visited the "Colombo International Book Fair" today (28) at the Bandaranaike International Conference Hall in Colombo for the 25th time the literary month.
+
+President of the Sri Lanka Book Publishers Association Samantha Indiwara presented the national policy on children's books to President Anura Kumara Dissanayake.
+
+With 400 bookstores set up here, the President had discussed with the people who had come to visit them.
+
+The "Colombo International Buddhist Exhibition", organized by the Sri Lanka Book Publishers Association, will be held at the Bandaranaike International Conference Hall on September 27 to 9.00 pm.
+
+Senior Professor Liyanage Amarakirthi of Peradeniya University, Additional Secretary to the Ministry of Education, Udara Dikkumbura, Director Samanthi Jayasuriya, Ruwantika Senanayake, Chairman of the Co -construction University of Moratuwa University.R
+
+◼️
+
+[Data](articles/dc63b97a.json)
+
+[Extended Data](ext_articles/dc63b97a.ext.json)
+
+---
 
 ### Thousands of state vehicles magic
 
@@ -2183,27 +2209,5 @@ Accordingly, steps have been taken to return to all the police officers who have
 [Data](articles/6648a0f4.json)
 
 [Extended Data](ext_articles/6648a0f4.ext.json)
-
----
-
-### In response to the Inspector General of Police
-
-*2024-09-27 17:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-பொலிஸ்மா-அதிபர்-நியமிக்கப்பட்டார்/175-344583) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Senior Deputy Inspector General of Police Priyantha Weerasuriya appointed as Inspector General of Police by President Anura Kumara Dissanayake, following constitutional powers.
-
-🟩
-
-Senior Deputy Inspector General of Police Priyantha Weerasuriya has been appointed as the Inspector General of Police by President Anura Kumara Dissanayake in accordance with the powers vested in the Constitution.
-
-◼️
-
-[Data](articles/cac056f6.json)
-
-[Extended Data](ext_articles/cac056f6.ext.json)
 
 ---

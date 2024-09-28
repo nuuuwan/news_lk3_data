@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 11:22:43**
+As of **2024-09-28 11:38:57**
 
 ## Newspaper Stats
 
-*Scraped **46,701** Articles*
+*Scraped **46,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 462
 islandlk | 2,739
 economynextcom | 2,840
 dailyftlk | 3,128
-adalk | 4,305
+adalk | 4,306
 dailymirrorlk | 4,733
 adaderanalk | 5,492
-tamilmirrorlk | 6,262
+tamilmirrorlk | 6,263
 virakesarilk | 7,465
 adaderanasinhalalk | 8,063
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,063
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,701 (100.0%) of 46,701 articles have been extended.
+46,703 (100.0%) of 46,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Warning for those who do not pay taxes for the year
+
+*2024-09-28 11:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்டுக்கான-வரி-செலுத்தாதவர்களுக்கு-எச்சரிக்கை/175-344610) · `ta`
+
+Tax deadline: Pay by Sept 30, 2024. Late payment incurs fines and interest. No reduction possible. Contact 1944 or local office for details.
+
+🟩
+
+The Department of Home Affairs has announced that every person who has to pay income tax for the annual estimate year will pay all income taxes for the year 30 September 2024 or before.
+
+If one does not notice this, it is said that if the income tax is paid or delayed, it will be fined and interest.
+
+It also suggests that this penalties or interest will not be reduced or eliminated.
+
+In its announcement, the Department of Home Affairs said that those who need further information can be called for the number 1944 or contact the nearest domestic pardon regional office.
+
+◼️
+
+[Data](articles/be600070.json)
+
+[Extended Data](ext_articles/be600070.ext.json)
+
+---
 
 ### New Director General Legal of Presidential Secretariat appointed
 
@@ -217,6 +241,34 @@ Gazette issued detailing functions and duties of new Ministries by Adaderana Onl
 [Data](articles/0eebfdcf.json)
 
 [Extended Data](ext_articles/0eebfdcf.ext.json)
+
+---
+
+### Director General of the Presidential Secretariat Senior Counsel JM Wijebandara
+
+*2024-09-28 10:08:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-කාර්යාලයේ-නීති-අධ්‍යක්ෂ-ජනරාල්-ජ්‍යෙෂ්ඨ-නීතිඥ-ජේ-එම්-විජේබණ්ඩාර/11-412190) · `si`
+
+Here's a 200-character summary:
+
+
+
+JM Wijebandara appointed as Director General of Presidential Secretariat. Former lecturer at University of Colombo. Graduated from University of Colombo and Open University. Old boy of Ananda College, Colombo.
+
+🟩
+
+Senior Counsel Director General of President Anura Kumara Dissanayake Senior Counsel Director General. Wijebandara has been appointed.
+
+Appointment of the Appointment of the Appointment of Hon.. M.Handed over to Mr. Wijebandara.
+
+Mr. Wijebandara, an old boy of Ananda College, Colombo, has been graduated from the University of Colombo and the Open University.
+
+Senior Counsel J. M. Wijebandara is a former lecturer at the Faculty of the University of Colombo.
+
+◼️
+
+[Data](articles/6b2ab897.json)
+
+[Extended Data](ext_articles/6b2ab897.ext.json)
 
 ---
 
@@ -2181,45 +2233,5 @@ Vayavilan Jaffna Airport runway side road: The opening of this road through the 
 [Data](articles/4bb238d6.json)
 
 [Extended Data](ext_articles/4bb238d6.ext.json)
-
----
-
-### Suspects of Club Spring murder further remanded
-
-*2024-09-27 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201604) · `si`
-
-Amal Silva, former Western Provincial Councillor, arrested for Club Spring murder. Suspects remanded by Kaduwela Magistrate's Court.
-
-🟩
-
-Former Western Provincial Councilor Amal Silva, who was arrested in connection with the murder of Club Wasantha alias, police said.
-
-The suspects were produced before the Kaduwela Magistrate's Court today (27) and later issued this order.
-
-◼️
-
-[Data](articles/70027b40.json)
-
-[Extended Data](ext_articles/70027b40.ext.json)
-
----
-
-### Director General of the Government Information Department
-
-*2024-09-27 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/194927) · `ta`
-
-Dinith Chinthaka Karunaratne resigns as Director General of Government Information Department. Hands over resignation letter to Mass Media Minister Vijitha Herath.
-
-🟩
-
-Director General of the Government Information Department Dinith Chinthaka Karunaratne has resigned from his post.
-
-He has handed over his resignation letter to the Mass Media Minister Vijitha Herath.
-
-◼️
-
-[Data](articles/62396570.json)
-
-[Extended Data](ext_articles/62396570.ext.json)
 
 ---

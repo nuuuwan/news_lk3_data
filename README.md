@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 11:38:57**
+As of **2024-09-28 11:58:12**
 
 ## Newspaper Stats
 
-*Scraped **46,703** Articles*
+*Scraped **46,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ dbsjeyarajcom | 387
 bbccomsinhala | 462
 colombotelegraphcom | 462
 islandlk | 2,739
-economynextcom | 2,840
-dailyftlk | 3,128
+economynextcom | 2,841
+dailyftlk | 3,129
 adalk | 4,306
 dailymirrorlk | 4,733
 adaderanalk | 5,492
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,063
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,703 (100.0%) of 46,703 articles have been extended.
+46,705 (100.0%) of 46,705 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -431,6 +431,30 @@ He was admitted to the Chavakachcheri Hospital on Thursday night (26) and died w
 [Data](articles/bc820e83.json)
 
 [Extended Data](ext_articles/bc820e83.ext.json)
+
+---
+
+### Sri Lanka primary dealers using excessive central bank credit: IMF report
+
+*2024-09-28 08:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-primary-dealers-using-excessive-central-bank-credit-imf-report-181426/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s primary dealers are making excessive use of the central bank’s standing facilities to fund their government securities portfolios though they have been cut off from liquidity auctions, an International Monetary Fund report said.
+
+“Non-bank primary dealers for government LKR debt have access to standing facilities and routinely use Standing Lending Facility (SLF) to fund their portfolios,” the report said.
+
+“The share of non-bank primary dealers in SLF accounts for about 46 percent or about 76 bn LKR as of end-April 2023,”
+
+“Central Bank of Sri Lanka should start phasing out the use monetary instruments to support LKR bond market development.
+
+“Monetary policy instruments should therefore not be made available to non-bank primary dealers to support their activity in LKR bond market.”
+
+Primary dealers are already cut off from open market operation auctions.
+
+...
+
+[Data](articles/57f43666.json)
+
+[Extended Data](ext_articles/57f43666.ext.json)
 
 ---
 
@@ -1123,6 +1147,22 @@ Rest assured that those ramifications are being felt in nation, state, country, 
 [Data](articles/47b4e3bf.json)
 
 [Extended Data](ext_articles/47b4e3bf.ext.json)
+
+---
+
+### Strengthening governance in Sri Lanka: Case for an External Policy Review Board
+
+*2024-09-27 23:38:04* · [`dailyftlk`](https://www.ft.lk/columns/Strengthening-governance-in-Sri-Lanka-Case-for-an-External-Policy-Review-Board/4-767254) · `en`
+
+The proposal for the EPRB marks a proactive step toward not only refining the quality of governance but also upholding the principles of transparency and accountability foundational to our democratic ethos
+
+While Sri Lanka is commendably moving toward better governance, there remains room for substantial improvement. Enhancing our policy-making processes is critical for continuing this forward momentum. The proposed establishment of an External Policy Review Board (EPRB) offers a significant opportunity to deepen our commitment to transparent and effective governance.
+
+...
+
+[Data](articles/5fd76d82.json)
+
+[Extended Data](ext_articles/5fd76d82.ext.json)
 
 ---
 
@@ -2187,51 +2227,5 @@ Meanwhile, the suspect has been given an ornament of Rs 35,000 by the Chief Magi
 [Data](articles/24cf0ffe.json)
 
 [Extended Data](ext_articles/24cf0ffe.ext.json)
-
----
-
-### Sri Lanka central bank to implement single policy rate by year end
-
-*2024-09-27 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-implement-single-policy-rate-by-year-end-181325/) · `en`
-
-ECONOMYNEXT – Sri Lanka will implement a single policy rate by the end of 2024, and consultations with market participants will begin soon, top central bank officials said.
-
-“We thought that it would be more transparent to communicate a single policy rate,” Central Bank Governor Nandalal Weerasinghe said.
-
-“Instead of two rates we thought it was better to be a single rate. Our Department of Economic Research and Operational Departments have don research within and also sought technical assistance from the International Monetary Fund on how other countries do it.”
-
-Assistant Governor Chandranath Amarasekera said stake holder consultations will begin soon and the single policy rate will be implemented before the end of the year.
-
-...
-
-[Data](articles/5f687f70.json)
-
-[Extended Data](ext_articles/5f687f70.ext.json)
-
----
-
-### Opening of the Northern High Security Zone streets for people's use will strengthen reconciliation
-
-*2024-09-27 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194929) · `ta`
-
-Reopening roads in Jaffna strengthens reconciliation efforts, improving daily life and economic opportunities for locals.
-
-🟩
-
-Former Jaffna Election District Parliamentarian Anganan Ramanathan has asked President Anura Kumara Dissanayake to take steps to open the four roads in the North of Valikamam in the North of Valikamam, Jaffna, as the President has ordered the re -opening of the two streets that were closed near the Presidential Palace in Colombo.
-
-Despite 15 years after the end of the war, the daily activities and transport of the people in these areas have been limited as many important roads have been closed in Jaffna.
-
-Jaffna - Palali Road (East Page): The remaining road in the high security zone near Vayavilan Central College should be released from military restrictions. The road is connected to the Pedro Ponnalai road and is essential for local traffic.
-
-Achchuveli Vayavilan - Shoulder Road
-
-Vayavilan Jaffna Airport runway side road: The opening of this road through the Katuvan junction can significantly improve the connection to the Jaffna International Airport and the surrounding areas.
-
-...
-
-[Data](articles/4bb238d6.json)
-
-[Extended Data](ext_articles/4bb238d6.ext.json)
 
 ---

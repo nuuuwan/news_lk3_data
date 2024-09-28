@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 10:10:40**
+As of **2024-09-28 10:22:54**
 
 ## Newspaper Stats
 
-*Scraped **46,690** Articles*
+*Scraped **46,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ economynextcom | 2,840
 dailyftlk | 3,128
 adalk | 4,304
 dailymirrorlk | 4,733
-adaderanalk | 5,489
+adaderanalk | 5,490
 tamilmirrorlk | 6,261
-virakesarilk | 7,461
+virakesarilk | 7,462
 adaderanasinhalalk | 8,061
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,690 (100.0%) of 46,690 articles have been extended.
+46,692 (100.0%) of 46,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Gazette issued detailing functions and duties of new Ministries
+
+*2024-09-28 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102315/gazette-issued-detailing-functions-and-duties-of-new-ministries) · `en`
+
+The Gazette notification outlining the respective subjects, functions, duties, and institutions of the newly established ministries has been published.
+
+◼️
+
+[Data](articles/0eebfdcf.json)
+
+[Extended Data](ext_articles/0eebfdcf.ext.json)
+
+---
 
 ### Prime Minister Harini orders rapid audit of sports ministry allocations
 
@@ -112,6 +126,30 @@ He was 74 years old when he died.He was also a critical figure in politics in th
 
 ---
 
+### Family death in Jaffna
+
+*2024-09-28 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194960) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Vinod, 29, father of one, dies untreated at Chavakachcheri Hospital after admission on 26th. From Vairavar temple in Nunavil, worked in Manipayi."
+
+🟩
+
+Vinod (age 29), a child from the Vairavar temple in Chavakachcheri - Nunavil, who was working in a private company in Manipayi area, is the father of a child.
+
+He was admitted to the Chavakachcheri Hospital on Thursday night (26) and died without treatment.
+
+◼️
+
+[Data](articles/bc820e83.json)
+
+[Extended Data](ext_articles/bc820e83.ext.json)
+
+---
+
 ### Kumar Welgama has passed away
 
 *2024-09-28 08:40:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குமார்-வெல்கம-காலமானார்/175-344608) · `ta`
@@ -181,6 +219,12 @@ The magisterial inquiry into the body is to be taken up with the age of 36 years
 Former Minister Kumara Welgama has passed away at the age of 74.
 
 He had passed away while receiving treatment at a private hospital, family sources said.
+
+From 1984 to 2000, Welgama served as the chief organiser for the Sri Lanka Freedom Party in the Agalawatte electorate.
+
+He later held key ministerial roles, serving as the Minister of Industrial Development from 2007 to 2010 and the Minister of Transport from 2010 until early 2015, under SLFP-led governments.
+
+Since 2020, he has led the New Lanka Freedom Party and contested elections in alliance with the Samagi Jana Balawegaya (SJB).
 
 ◼️
 
@@ -2147,41 +2191,5 @@ Professor Raj Somadeva and several others were excavations here.
 [Data](articles/1db03b96.json)
 
 [Extended Data](ext_articles/1db03b96.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-09-27 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/194915) · `ta`
-
-US Dollar: 295.3030 INR (buy), 304.3376 INR (sell) as per Central Bank on 27th.
-
-🟩
-
-The US dollar purchasing price was 295.3030 rupees and the sales price were 304.3376 rupees based on a currency exchange rate released by the Central Bank on Friday (27).
-
-◼️
-
-[Data](articles/bbc5b95b.json)
-
-[Extended Data](ext_articles/bbc5b95b.ext.json)
-
----
-
-### ISB deals near completion if Sri Lanka proceeds with current DSA: central bank chief
-
-*2024-09-27 13:46:00* · [`economynextcom`](https://economynext.com/isb-deals-near-completion-if-sri-lanka-proceeds-with-current-dsa-central-bank-chief-181308/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s debt restructuring process has neared its end and a bond exchange can be expected in six to eight weeks after establishing comparability, if the government proceeds with the existing debt sustainability analysis (DSA), Central Bank Governor Nandalal Weerasinghe said.
-
-Responding to questions at the Central Bank’s monthly monetary policy review, Weerasinghe said it is up to the Ministry of Finance to decide on the DSA.
-
-“It is difficult to give an opinion on how it will proceed. Whether to renegotiate the DSA or targets is a decision up to the Ministry of Finance. We are not party to that. They must decide whether to proceed with the existing DSA and restructure debt or to renegotiate a new DSA. I cannot comment on that. The ministry must decide,” he said.
-
-...
-
-[Data](articles/c4c6901e.json)
-
-[Extended Data](ext_articles/c4c6901e.ext.json)
 
 ---

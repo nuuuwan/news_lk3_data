@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 23:58:23**
+As of **2024-09-29 00:11:25**
 
 ## Newspaper Stats
 
-*Scraped **46,758** Articles*
+*Scraped **46,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
 adaderanalk | 5,502
-tamilmirrorlk | 6,272
+tamilmirrorlk | 6,273
 virakesarilk | 7,470
 adaderanasinhalalk | 8,084
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,084
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,758 (100.0%) of 46,758 articles have been extended.
+46,759 (100.0%) of 46,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Sri Lanka is nearing success against New Zealand
+
+*2024-09-28 23:24:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நியூசிலாந்துக்கெதிராக-வெற்றியை-நெருங்கும்-இலங்கை/44-344626) · `ta`
+
+Sri Lanka leads vs New Zealand in Test series. Sri Lanka scored 602/5, while New Zealand was bowled out for 88. New Zealand's second innings at 199/5. Sri Lanka poised for victory.
+
+🟩
+
+Sri Lanka will travel to victory at the end of today's third day of the second match, which began on Thursday (26) in Galle in a two -match Test series against New Zealand.
+
+Sri Lanka: 602/5 (batting: Camindu Mendis AE 182, Dinesh Chandimal 116, Gusal Mendis AE 106, Angelo Madhus 88, Timuth Karunaratne 46, Tanjaya de Silva 44 runs. Bowling: Glenn Philips 3/141, Tim Saudi 1/70)
+
+New Zealand: 88/10 (batting: Mitchell Santner 29 runs. Bowling: Prabhat Jayasuriya 6/42, Nishan Prees 3/33, Asita Fernando 1/8)
+
+New Zealand (Polo One): 199/5 (batting: Devon Konway 61, Tom Blendal AE 47, Kane Williamson 46, Glenn Phillips AE 32 runs. Bowling: Nishan Breis 3/91, Tanjaya de Silva 1/17, Prabhat Jayasuriya 1/76)
+
+◼️
+
+[Data](articles/6a2d413a.json)
+
+[Extended Data](ext_articles/6a2d413a.ext.json)
+
+---
 
 ### Talk of Acting IGP about justice operation
 
@@ -2305,21 +2329,5 @@ The Free Trade Zone Manufacturers’ Association (FTZMA) has extended its heartf
 [Data](articles/c97ff87f.json)
 
 [Extended Data](ext_articles/c97ff87f.ext.json)
-
----
-
-### SLT-Mobitel offers unbeatable rates on Tourist SIM and eSIM packages
-
-*2024-09-27 23:53:57* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-offers-unbeatable-rates-on-Tourist-SIM-and-eSIM-packages/34-767261) · `en`
-
-Reaffirming its commitment to offering best in class connectivity, SLT-Mobitel has unveiled an exciting value proposition with its latest Tourist SIM pack, specifically designed to cater to the communication needs of tourists visiting the island nation.
-
-Be it exploring the lush tea plantations of the hill country, soaking up the sun on the southern beaches, or immersing yourself in Colombo’s vibrant culture, SLT-Mobitel ensures you stay connected with seamless, ultra-high-speed mobile internet through its robust nationwide 4G network and future-ready network infrastructure.
-
-...
-
-[Data](articles/6a1b6756.json)
-
-[Extended Data](ext_articles/6a1b6756.ext.json)
 
 ---

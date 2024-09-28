@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 17:38:57**
+As of **2024-09-28 17:59:18**
 
 ## Newspaper Stats
 
-*Scraped **46,731** Articles*
+*Scraped **46,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,307
 dailymirrorlk | 4,733
-adaderanalk | 5,497
+adaderanalk | 5,498
 tamilmirrorlk | 6,266
 virakesarilk | 7,467
-adaderanasinhalalk | 8,075
+adaderanasinhalalk | 8,077
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,731 (100.0%) of 46,731 articles have been extended.
+46,734 (100.0%) of 46,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Circular in relation to all schools
+
+*2024-09-28 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201638) · `si`
+
+Thilaka Jayasundara has issued a circular to the principals of all schools in all schools in the country.
+
+It is said that the Ministry has received several complaints regarding money collections from parents for various celebrations of World Children's Day, Teachers' Day.
+
+The Ministry of Secretaries also pointed out that the parents and principals will face many problems due to such incidents.
+
+As a result, the Secretary to the Ministry of Secretary Thilaka Jayasundara has informed Ms. Thilaka Jayasundara to be collected into schools not to be collected in schools to conduct ceremonies in schools.
+
+◼️
+
+[Data](articles/aa9d03a2.json)
+
+[Extended Data](ext_articles/aa9d03a2.ext.json)
+
+---
+
+### President attends the ‘Colombo International Book Fair’
+
+*2024-09-28 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102323/president-attends-the-colombo-international-book-fair) · `en`
+
+President Anura Kumara Dissanayake today (28) attended the “Colombo International Book Fair”, which is being held at the Bandaranaike International Conference Hall in Colombo for the 25th time in celebration of Literature Month.
+
+During the event, the President of the Sri Lanka Book Publishers’ Association, Mr. Samantha Indeewara presented a draft of the National Policy on Children’s Books to President Dissanayake.
+
+The President then toured several booths showcasing both local and international books and briefly interacted with the public present at the venue. The President received a warm response from the public. A large crowd had gathered at the fair, which features around 400 stalls this year, the PMD reported.
+
+Organized annually by the Sri Lanka Book Publishers’ Association, the “Colombo International Book Fair” runs from September 27h to October 6th at the Bandaranaike International Conference Hall.
+
+...
+
+[Data](articles/4fa6a4ad.json)
+
+[Extended Data](ext_articles/4fa6a4ad.ext.json)
+
+---
+
+### A submarine in China is drowning in the sea
+
+*2024-09-28 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201637) · `si`
+
+China submarine incident: Foreign media reports a Chinese submarine is stranded in a shipyard near Vehan. American security forces claim China concealed this information.
+
+🟩
+
+Foreign media reports that China's latest submarine operating in nuclear powers.
+
+It is reported that the submarine has been mired in the shipyard near the Vehan, China.
+
+The American security forces point out that China has concealed this information.
+
+Foreign media has shown that a submarine that China is a submarine.
+
+◼️
+
+[Data](articles/43e91e6f.json)
+
+[Extended Data](ext_articles/43e91e6f.ext.json)
+
+---
 
 ### New Zealand leads 315 runs
 
@@ -2173,69 +2237,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. It is no
 [Data](articles/f6e795c0.json)
 
 [Extended Data](ext_articles/f6e795c0.ext.json)
-
----
-
-### Namal's invitation
-
-*2024-09-27 19:28:48* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ගේ-ආරාධනාව/11-412187) · `si`
-
-Namal Rajapaksa, National Organizer of Sri Lanka's Government, joins Sri Lanka Civil Arose Front for presidential election. He says party reorganized for next general election, promising greater opportunities.
-
-🟩
-
-Namal Rajapaksa, the National Organizer of the Government of Sri Lanka, is invited to join the Sri Lanka Civil Arose Front in the last presidential election.
-
-Namal Rajapaksa said that the party was reorganized for the next general election and would provide greater opportunities
-
-◼️
-
-[Data](articles/903f6cf5.json)
-
-[Extended Data](ext_articles/903f6cf5.ext.json)
-
----
-
-### Heavy showers above 100mm expected; Advisory for severe lightning
-
-*2024-09-27 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102307/heavy-showers-above-100mm-expected-advisory-for-severe-lightning) · `en`
-
-The Meteorology Department says showery conditions are expected to enhance during the next few days starting today (27), due to the low-level atmospheric disturbance in the vicinity of Sri Lanka.
-
-Showers or thundershowers will occur over most places of the Island during the afternoon or night, it said.
-
-Heavy showers above 100 mm can be expected at some places in Central and Sabaragamuwa provinces and in Kaluthara, Galle and Matara districts.
-
-Showers or thundershowers will occur in Southern Province and in Batticaloa and Ampara districts during the morning too.
-
-Meanwhile, the Meteorology Department has also issued an advisory for severe lightning for several provinces.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in North, North-Central, Central, Uva, and Eastern provinces, it said.
-
-...
-
-[Data](articles/78ddbd3d.json)
-
-[Extended Data](ext_articles/78ddbd3d.ext.json)
-
----
-
-### Priyantha Weerasuriya to the post of Acting IGP
-
-*2024-09-27 18:56:02* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රියන්ත-වීරසූරිය-වැඩ-බලන-පොලිස්පති-තනතුරට/11-412186) · `si`
-
-President appoints Senior DIG Priyantha Weerasuriya as acting IGP, previously Senior DIG North Central Province.
-
-🟩
-
-President Anura Kumara Dissanayake has been appointed as Senior DIG Priyantha Weerasuriya as acting IGP.
-
-Prior to appointment of acting IGP, he was the Senior DIG in charge of the North Central Province.
-
-◼️
-
-[Data](articles/ffcd119f.json)
-
-[Extended Data](ext_articles/ffcd119f.ext.json)
 
 ---

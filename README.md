@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 13:07:53**
+As of **2024-09-28 13:38:28**
 
 ## Newspaper Stats
 
-*Scraped **46,709** Articles*
+*Scraped **46,711** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 387
 bbccomsinhala | 462
-colombotelegraphcom | 462
+colombotelegraphcom | 463
 islandlk | 2,739
 economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,307
 dailymirrorlk | 4,733
-adaderanalk | 5,492
+adaderanalk | 5,493
 tamilmirrorlk | 6,263
 virakesarilk | 7,466
 adaderanasinhalalk | 8,065
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,709 (100.0%) of 46,709 articles have been extended.
+46,711 (100.0%) of 46,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### IRD notice on final tax payment and default tax clearance deadline
+
+*2024-09-28 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102318/ird-notice-on-final-tax-payment-and-default-tax-clearance-deadline-) · `en`
+
+The Inland Revenue Department (IRD) is urging all taxpayers to ensure they make their final income tax payments for the Year of Assessment 2023/2024 on or before September 30, 2024.
+
+Issuing a notice to taxpayers, it warned failure to meet this deadline may result in penalties and interest charges. The penalties and interest imposed for non-payment or late payment of income tax will not be waived or reduced, the department said.
+
+In addition, the IRD reminds taxpayers to clear all outstanding default taxes on or before October 30, 2024. After that date, any unpaid default taxes will be subject to rigorous collection actions, including legal proceedings under the Inland Revenue Act, statement said.
+
+For more information, the public is requested to contact ‘1944’ or their nearest IRD Regional Office, the department stated.
+
+◼️
+
+[Data](articles/e3ff46e4.json)
+
+[Extended Data](ext_articles/e3ff46e4.ext.json)
+
+---
 
 ### There is no information about the thousands of government vehicles
 
@@ -637,6 +657,22 @@ Since 2020, he has led the New Lanka Freedom Party and contested elections in al
 [Data](articles/1b25f039.json)
 
 [Extended Data](ext_articles/1b25f039.ext.json)
+
+---
+
+### Dissanayake: The Minority President
+
+*2024-09-28 07:13:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dissanayake-the-minority-president/) · `en`
+
+Sri Lanka successfully conducted the election to choose its 9th executive president on September 21. This was one of the peaceful elections. The next day, Anura Kumara Dissanayake was declared the winner and sworn in on September 23, 2024. This essay synthesizes some of the significant aspects of the election and the results.
+
+First, the election installed what I like to call a “minority” president (like a minority government) because numerically minority voters elected him. He received 42.31 percent of the votes, while Sajith Premadasa of the Samagi Jana Balawegaya (SJB) received 32.76 percent. In other words, a majority of the voters, 57.69 percent, to be precise, did not prefer Dissanayake as president.
+
+...
+
+[Data](articles/29e22f4f.json)
+
+[Extended Data](ext_articles/29e22f4f.ext.json)
 
 ---
 
@@ -2173,57 +2209,5 @@ Mendis scored a huge hundred (182 not out in 250 deliveries). During his knock, 
 [Data](articles/a31727c7.json)
 
 [Extended Data](ext_articles/a31727c7.ext.json)
-
----
-
-### Sri Lanka stocks close up after some volatility
-
-*2024-09-27 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-some-volatility-181334/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader All Share Index closed up 0.87 percent, or 102.01 points, at 11,773; while the more liquid S&P SL20 Index closed up 0.76 percent, or 25.61 points, at 3,409.
-
-There was some volatility seen in late morning trade when the market dipped, before recovering to close the week in green.
-
-The CSE has closed up since last week’s ISB deal announcement and the presidential election over the weekend.
-
-Banking stocks continued to gain; Hatton National Bank was up at 203.75, Commercial Bank was up at 99.80, DFCC was up at 75.90, and NDB was up at 75.90. However, Sampath Bank was down at 77.00.
-
-Crossings took place on Access Engineering (up at 23.50), HNB, John Keells Holdings (up at 172.75), Hayleys Fabric (up at 51.00), and Aitken Spence (up at 124.00).
-
-...
-
-[Data](articles/bdb38df3.json)
-
-[Extended Data](ext_articles/bdb38df3.ext.json)
-
----
-
-### Another exclusive report from Komin
-
-*2024-09-27 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201607) · `si`
-
-Sri Lanka vs New Zealand: Kamindu Mendis shines in 2nd Test. He scored 1200+ runs in 13 Tests, including 4 half-centuries and 5 centuries. Dhananjaya de Silva led Sri Lanka to 602 runs in the first innings, with Kumara Gunaratne (182*) and Kusal Mendis (106) adding 200+ runs for the 6th wicket.
-
-🟩
-
-Between Sri Lanka and New Zealand, Kamindu Mendis was able to set an exceptional Test report in the second Test.
-
-In the lowest innings of the Test runs in the lowest, the world's priority was compared to the third Test.
-
-He has played 13 Test Irum, and he scored 4 half centuries and 1,2002 runs with five centuries.
-
-Leader Dhananjaya de Silva decided to complete the innings of Sri Lanka.
-
-At that time, the Sri Lankan team scored 602 runs for the loss of 5 wickets for their first innings.
-
-KUML (182 not out) and Kusal Mendis (106 out) had added 200 points for the 6th wicket.
-
-◼️
-
-[Data](articles/a9d77673.json)
-
-[Extended Data](ext_articles/a9d77673.ext.json)
 
 ---

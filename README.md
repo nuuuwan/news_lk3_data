@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 05:44:16**
+As of **2024-09-28 06:08:03**
 
 ## Newspaper Stats
 
-*Scraped **46,666** Articles*
+*Scraped **46,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 387
 bbccomsinhala | 461
 colombotelegraphcom | 462
-islandlk | 2,731
+islandlk | 2,736
 economynextcom | 2,840
 dailyftlk | 3,128
 adalk | 4,302
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,666 (100.0%) of 46,666 articles have been extended.
+46,671 (100.0%) of 46,671 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,6 +56,78 @@ When the Director of Directors of the Ministry of Media Rupavahini Corporation, 
 
 ---
 
+### CBSL policy rates to remain at current levels
+
+*2024-09-28 01:32:00* · [`islandlk`](http://island.lk/cbsl-policy-rates-to-remain-at-current-levels/) · `en`
+
+Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank at their current levels of 8.25 per cent and 9.25 per cent, respectively.
+
+The Board arrived at this decision, at its meeting held on September 26, 2024, after carefully considering the recent and expected macroeconomic developments and possible risks and uncertainties on the domestic and global fronts with a view to ensuring that inflation aligns with the target of 5 per cent over the medium term, while enabling the economy to reach its maximum potential, a CBSL statement said.
+
+The Board observed that inflation is likely to remain well below the target of 5 per cent over the next few quarters, potentially recording deflation in the immediate future driven by changes to administratively determined prices and easing of supply conditions, the Central Bank said.
+
+...
+
+[Data](articles/3b967ec0.json)
+
+[Extended Data](ext_articles/3b967ec0.ext.json)
+
+---
+
+### NDB Bank achieves historic milestone as first Sri Lankan bank to reach 100,000 YouTube subscribers
+
+*2024-09-28 01:31:00* · [`islandlk`](http://island.lk/ndb-bank-achieves-historic-milestone-as-first-sri-lankan-bank-to-reach-100000-youtube-subscribers/) · `en`
+
+NDB Bank has achieved a groundbreaking digital milestone by becoming the first Sri Lankan bank to reach 100,000 subscribers on its YouTube channel, underscoring the Bank’s dedication to innovation and its digital-first approach in engaging with customers, setting a new benchmark for the banking industry in Sri Lanka.
+
+As a leader in leveraging social media to connect with its audience, NDB Bank’s YouTube channel has become a hub of informative and engaging content, providing valuable financial education, insights, and updates on the bank’s wide array of products and services. The content has resonated strongly with a local audience, with more than 96% of subscribers based in Sri Lanka, whilst the predominant age range is 25-34 years, followed closely by 35-44 years. Through dynamic video content, NDB has empowered its viewers with knowledge on critical financial topics, helping them make informed decisions while fostering a sense of trust and loyalty.
+
+...
+
+[Data](articles/ebe4f31a.json)
+
+[Extended Data](ext_articles/ebe4f31a.ext.json)
+
+---
+
+### Union Bank partners with USAID & Ceylon Chamber of Commerce to empower SMEs for global growth
+
+*2024-09-28 01:30:00* · [`islandlk`](http://island.lk/union-bank-partners-with-usaid-ceylon-chamber-of-commerce-to-empower-smes-for-global-growth/) · `en`
+
+Union Bank in collaboration with the U.S. Agency for International Development (USAID) CATALYZE Sri Lanka Private Sector Development (PSD) Activity and the Ceylon Chamber of Commerce conducted a two-day training programme under the theme “Unlock Your Global Potential” to empower customers on strategies for global growth.
+
+The sessions included enhancing the business acumen of SMEs and covered several areas under 3 key pillars, namely Export Audit, Market Analysis and Go-to Market Strategy.
+
+A panel discussion was held with the participation of Delrene Seneviratne Deputy Team Lead USAID CATALYZE PSD, Asanka Ranhotty, Senior Vice President, SME & Transaction Banking and Nalin Ahangama, Assistant Vice President, Trade Operations of UB, and joined by experts from various industries.
+
+Bank of Ceylon introduces Multi-Currency Travel Card to enhance Medical Tourism experience
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/aa6a3e25.json)
+
+[Extended Data](ext_articles/aa6a3e25.ext.json)
+
+---
+
+### LaunchPad 2.0: Sparking new beginnings, lighting up careers
+
+*2024-09-28 01:27:00* · [`islandlk`](http://island.lk/launchpad-2-0-sparking-new-beginnings-lighting-up-careers/) · `en`
+
+On the 3rd of August 2024, the Duncan White Auditorium thrummed with energy as LaunchPad 2.0 unfolded, marking its second consecutive year of inspiring young minds to chase their dreams. This career guidance event for undergraduates and fresh graduates wasn’t just about career paths—it was about possibilities and passions waiting to be discovered.
+
+The morning kicked off with Mr. Fahad Farook, who urged the delegates to find their calling, wherever that spark may lie. His session wasn’t just talk—it was a roadmap, guiding attendees to bridge the gap between their talents and dreams. Hot on his heels came Mr. Chamath Alwis, from our Title Partner Ceylinco Life, delivering a masterclass on financial planning. The AI session, where Mr. Sanjaya Elvitigala and Mr. Parakrama Ratnayake took the stage, diving into the world of AI. Their discussion on how AI is transforming industries showcased the endless possibilities awaiting in this fast-evolving field.
+
+...
+
+[Data](articles/d05de18f.json)
+
+[Extended Data](ext_articles/d05de18f.ext.json)
+
+---
+
 ### NDB Bank achieves historic milestone as first Sri Lankan bank to reach 100,000 YouTube subscribers
 
 *2024-09-28 01:18:54* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-achieves-historic-milestone-as-first-Sri-Lankan-bank-to-reach-100-000-YouTube-subscribers/34-767293) · `en`
@@ -67,6 +139,20 @@ NDB Bank has achieved a groundbreaking digital milestone by becoming the first S
 [Data](articles/34d86f07.json)
 
 [Extended Data](ext_articles/34d86f07.ext.json)
+
+---
+
+### Computer initiative at Aarangawa Sri Dammarama Primary School
+
+*2024-09-28 01:18:00* · [`islandlk`](http://island.lk/computer-initiative-at-aarangawa-sri-dammarama-primary-school/) · `en`
+
+HUTCH is committed to advancing digital literacy in Sri Lanka. In line with this commitment, the company has provided desktop computers to Aarangawa Sri Dammarama Primary School in Minuwangoda, as part of its CSR activities. This timely initiative, which aligns with International Literacy Day, reflects HUTCH’s dedication to supporting education through technology, particularly in rural and underserved communities. The contribution aims to provide students with access to essential digital tools that are increasingly becoming the foundation of modern education, helping to bridge the gap between urban and rural learning environments. This is part of an ongoing project by Hutch, which will continue to expand, covering other local schools with similar needs to further support digital literacy across the country.
+
+...
+
+[Data](articles/d73b5141.json)
+
+[Extended Data](ext_articles/d73b5141.ext.json)
 
 ---
 
@@ -2127,117 +2213,5 @@ The subsidy schemes were introduced as the previous government’s policy decisi
 [Data](articles/c3523784.json)
 
 [Extended Data](ext_articles/c3523784.ext.json)
-
----
-
-### Governor of the Northern Province Na Vedanayan took over the duties
-
-*2024-09-27 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/194896) · `ta`
-
-Na Vedanayakan assumes governorship of Northern Province. Event attended by Ramalingam Chandrasekaram and others. BSM Salles resigned on September 23. Anura Kumara Dissanayake appointed new governor. Simple ceremony held at Northern Province Governor's Secretariat in Jaffna.
-
-🟩
-
-The newly appointed Northern Province Governor Na Vedanayakan took over his duties at a simple event on Friday (27).
-
-The event was held today at 9 am at the Northern Province Governor's Secretariat in Jaffna.
-
-Ramalingam Chandrasekaram, a member of the National People's Power Executive Committee and former Member of Parliament, and many others were present at the event.
-
-Northern Province Governor BSM Salles, appointed by former President Ranil Wickremesinghe as the new president, resigned on September 23.
-
-Subsequently, President Anura Kumara Dissanayake was appointed Governor of the Northern Province.
-
-It is noteworthy that the police team did not hold a class respect at a very simple event.
-
-◼️
-
-[Data](articles/76af683d.json)
-
-[Extended Data](ext_articles/76af683d.ext.json)
-
----
-
-### Japan reiterates commitment to initiate 11 halted projects in Sri Lanka: AKD
-
-*2024-09-27 11:21:00* · [`economynextcom`](https://economynext.com/japan-reiterates-commitment-to-initiate-11-halted-projects-in-sri-lanka-akd-181293/) · `en`
-
-ECONOMYNEXT — The Japanese government has committed to initiating the construction of 11 projects in Sri Lanka that are currently halted, President Anura Kumara Dissanayake said, though assurances on this had already been made in July.
-
-Dissanayake tweeted Friday September 27 morning that the Japanese government has also pledged its full support for the new government’s programme.
-
-Japan had already announced the resumption of 11 suspended projects in July, two months before the presidential election.
-
-A Japanese delegation visiting Sri Lanka in July discussed with then president Ranil Wickremesinghe the resumption of Japanese Official Development Assistance (ODA) projects that were suspended when Sri Lanka defaulted.
-
-...
-
-[Data](articles/56474f58.json)
-
-[Extended Data](ext_articles/56474f58.ext.json)
-
----
-
-### Acting IGP Priyantha Weerasuriya
-
-*2024-09-27 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201596) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Acting IGP Priyantha Weerasuriya named; Senior DIG appointed North Central Province."
-
-🟩
-
-The acting IGP is reportedly announced today, "said Sunil Watagala.
-
-Accordingly, Senior DIG Priyantha Weerasuriya is appointed as the North Central Province.
-
-◼️
-
-[Data](articles/7577c11f.json)
-
-[Extended Data](ext_articles/7577c11f.ext.json)
-
----
-
-### Criminal filed against Jayawardena
-
-*2024-09-27 11:11:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்த-ஜயவர்தனவுக்கு-எதிராக-குற்றப்பத்திரிகை-தாக்கல்/175-344576) · `ta`
-
-Nilanda Jayawardena charged over Easter Sunday attack failure to repay 75 million rupees. Ordered to appear in court on October 7.
-
-🟩
-
-The Attorney General today (27) informed the High Court that the chargesheet has been filed against the former head of the State Intelligence Unit, Nilanda Jayawardena, who failed to pay 75 million rupees in connection with the Easter Sunday attack.
-
-Accordingly, the seven -member High Court, headed by Chief Justice Jayantha Jayasuriya, ordered the Nilanda Jayawardene to appear in court on October 7 at 9.30 am.. Remble
-
-◼️
-
-[Data](articles/e619c2b5.json)
-
-[Extended Data](ext_articles/e619c2b5.ext.json)
-
----
-
-### Anti -lodging charge sheet
-
-*2024-09-27 11:11:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்தவுக்கு-எதிராக-குற்றப்பத்திரிகை/175-344576) · `ta`
-
-Former intelligence chief Nilanda Jayawardena charged over Easter Sunday attacks failure to repay 75 million rupees. Ordered to appear in court on October 7.
-
-🟩
-
-The Attorney General today (27) informed the High Court that the chargesheet has been filed against the former head of the State Intelligence Unit, Nilanda Jayawardena, who failed to pay 75 million rupees in connection with the Easter Sunday attack.
-
-Accordingly, the seven -member High Court, headed by Chief Justice Jayantha Jayasuriya, ordered the Nilanda Jayawardene to appear in court on October 7 at 9.30 am.. Remble
-
-◼️
-
-[Data](articles/f51da594.json)
-
-[Extended Data](ext_articles/f51da594.ext.json)
 
 ---

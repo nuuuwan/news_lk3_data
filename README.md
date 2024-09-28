@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 02:38:29**
+As of **2024-09-29 02:56:46**
 
 ## Newspaper Stats
 
-*Scraped **46,760** Articles*
+*Scraped **46,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
-adaderanalk | 5,502
+adaderanalk | 5,503
 tamilmirrorlk | 6,273
 virakesarilk | 7,470
 adaderanasinhalalk | 8,085
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,760 (100.0%) of 46,760 articles have been extended.
+46,761 (100.0%) of 46,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### GCE Ordinary Level Exam results released
+
+*2024-09-29 02:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102328/gce-ordinary-level-exam-results-released) · `en`
+
+The results of the 2023 (2024) G.C.E. Ordinary Level Examination have been released online.
+
+The Examinations Department stated that the results were released at midnight yesterday (28).
+
+Accordingly, the department announced that the examination results can be obtained from the websites: www.doenets.lk or www.results.exams.gov.lk
+
+The examination department requests applicants to contact the following hotlines if they seek to make any inquiries regarding these results: 1911 or 011 2 785 922, 0112 786 616, 011 2 784 208 or 011 2 784 537.
+
+The statement further said that applications for the scrutiny of the O/L results will be called from October 01 to October 14.
+
+A total of 452,979 applicants sat for the G.C.E. Ordinary Level Examination this year, of which 387,648 were school applicants and 65,331 private candidates.
+
+The examination department said that 65,331 people appeared for the examination as private candidates.
+
+The examination was conducted in 3,527 examination centers from May 6 to 15.
+
+◼️
+
+[Data](articles/905fd628.json)
+
+[Extended Data](ext_articles/905fd628.ext.json)
+
+---
 
 ### O / L results released
 
@@ -2329,25 +2357,5 @@ In addition, the Attorney General announced in the Supreme Court on Friday (27) 
 [Data](articles/6b3b2ded.json)
 
 [Extended Data](ext_articles/6b3b2ded.ext.json)
-
----
-
-### 2024-09-27 (Friday)
-
-### Sri Lanka-Maldives Business Council congratulates new President
-
-*2024-09-27 23:54:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Maldives-Business-Council-congratulates-new-President/34-767263) · `en`
-
-Sri Lanka-Maldives Business Council has extended its congratulations to the newly elected President Anura Kumara Dissanayake.
-
-"On behalf of the Sri Lanka-Maldives Business Council, I extend our heartfelt congratulations on your appointment as President of Sri Lanka. Your leadership comes at a pivotal time for both Sri Lanka and the Maldives, and we are eager to explore the opportunities that lie ahead. We look forward to collaborating closely with you to strengthen the ties between our countries and promote mutual growth," said Sri Lanka Maldives Business Council President Sudesh Mendis.
-
-While our export revenue has grown to $ 163 million in 2023, it has not kept pace with overall market growth, resulting in a decline in our market share in the Maldives, which now stands at 4.65%, down from approximately 7.02% eight years ago. This decline highlights the need for concerted efforts to enhance our presence in this vital market.
-
-...
-
-[Data](articles/5ff0ea2a.json)
-
-[Extended Data](ext_articles/5ff0ea2a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 06:43:42**
+As of **2024-09-28 07:25:16**
 
 ## Newspaper Stats
 
-*Scraped **46,674** Articles*
+*Scraped **46,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailyftlk | 3,128
 adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,485
-tamilmirrorlk | 6,256
+tamilmirrorlk | 6,257
 virakesarilk | 7,461
-adaderanasinhalalk | 8,057
+adaderanasinhalalk | 8,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,674 (100.0%) of 46,674 articles have been extended.
+46,676 (100.0%) of 46,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Showers or thundershowers at several places today
+
+*2024-09-28 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201617) · `si`
+
+Heavy rainfall expected across Sri Lanka today, especially in central and southern regions. Thunderstorms may cause disruptions and power outages. Residents advised to take precautions against lightning and flooding.
+
+🟩
+
+Showers or thundershowers at night in many parts of the island today (28) can have a rain.
+
+Also, in the Central and Sabaragamuwa provinces, Kurunegala, Kalutara, Galle and Matara districts have. Can cause about 100 tight closures.
+
+Showers will occur at the Southern Province and in the morning in the morning and in the morning.
+
+As such, the people will be taken to reduce the necessary steps to reduce the damages caused by thunderstorms and lightning.
+
+◼️
+
+[Data](articles/a8902fb8.json)
+
+[Extended Data](ext_articles/a8902fb8.ext.json)
+
+---
+
+### The rain will increase in the coming days
+
+*2024-09-28 02:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-நாட்களில்-மழை-அதிகரிக்கும்/175-344604) · `ta`
+
+Rainfall forecast: 100+mm expected in central regions, thunderstorms in northern areas.
+
+🟩
+
+The Department of Meteorology has predicted more than 100 millimeters of rainfall in some parts of the country.
+
+At the same time, it is reported that the country is likely to increase rainfall in the coming days.
+
+More than 100 mm of rainfall is expected in the Central and Sabaragamuwa provinces and some parts of Kalutara, Galle and Matara districts.
+
+Thundershowers are expected in the Northern, North Central, Uva and Southern Provinces. (A)
+
+◼️
+
+[Data](articles/ff631b6c.json)
+
+[Extended Data](ext_articles/ff631b6c.ext.json)
+
+---
 
 ### Focus on minority minorities
 
@@ -2159,51 +2207,5 @@ Over 700 people were killed and many were injured.
 [Data](articles/ad4e5e5f.json)
 
 [Extended Data](ext_articles/ad4e5e5f.ext.json)
-
----
-
-### Acting IGP to be appointed today?
-
-*2024-09-27 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102297/-acting-igp-to-be-appointed-today) · `en`
-
-An Acting Inspector General of Police (IGP) will likely be appointed today (27), according to Executive Member of the National People’s Power (NPP), Attorney-at-Law Sunil Watagala.
-
-Accordingly, Senior DIG Priyantha Weerasooriya, who currently serves as the SDIG in charge of the North Central Province, is tipped to be appointed to that position.
-
-He is an officer with over 36 years of service in the police department, who has served in various positions, progressing from Police Constable to Senior DIG.
-
-◼️
-
-[Data](articles/4cacc98c.json)
-
-[Extended Data](ext_articles/4cacc98c.ext.json)
-
----
-
-### Good news for Japanese projects
-
-*2024-09-27 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201597) · `si`
-
-Japan supports 11 projects in Sri Lanka. President Anura Kumara Dissanayake backs full cooperation. Projects include water supply, infrastructure development, and health services.
-
-🟩
-
-Japanese Ambassador of Japan is fully supported by President Anura Kumara Dissanayake
-
-He also said that Sri Lanka is also ready to work closely.
-
-The Ambassador of the Japanese Ambassador made this observation at the Presidential Secretariat Dr. Nandika Sanath Kanayake at the Presidential Secretariat yesterday.
-
-The Ambassador to the Ambassador has said that 11 projects have been operating in the country with the assistance of the Government of Japan.
-
-Accordingly, the Kandyan Water Managing Project, Second Stage, Territorial Television Network Development Project, Anuradhapura North Water Supply Project, Divisional Infrastructure Development Project, Black Infrastructure Development Project, Kalwa River Water Supply ProjectThe projects are due to commence projects to the Health and Medical Services Development Project.
-
-The Ambassador to the Ambassador to the Sri Lanka Agrack on the final phase of the Japanese aid and the first phase of the Anuradhapura Water Supply Project.Said.
-
-◼️
-
-[Data](articles/3361ab5f.json)
-
-[Extended Data](ext_articles/3361ab5f.ext.json)
 
 ---

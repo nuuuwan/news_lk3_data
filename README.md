@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 21:57:48**
+As of **2024-09-28 22:11:46**
 
 ## Newspaper Stats
 
-*Scraped **46,751** Articles*
+*Scraped **46,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
 adaderanalk | 5,500
-tamilmirrorlk | 6,269
+tamilmirrorlk | 6,270
 virakesarilk | 7,470
 adaderanasinhalalk | 8,082
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,082
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,751 (100.0%) of 46,751 articles have been extended.
+46,752 (100.0%) of 46,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### What is the status of vehicle imports in the new government?
+
+*2024-09-28 21:39:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்தில்-வாகன-இறக்குமதியின்-நிலை-என்ன/175-344618) · `ta`
+
+Vehicle import status unchanged under new government. Central Bank Governor Nandalal Weerasinghe confirms no changes despite political shift. Previous plan to relax restrictions by Feb 1, 2025 remains intact pending continued favorable financial conditions.
+
+🟩
+
+Governor of the Central Bank of Sri Lanka, Nandalal Weerasinghe, stressed that the new government's financial conditions have not changed even after the new government change.
+
+When the previous government decided, the Central Bank had earlier made recommendations to completely relax the restrictions on private vehicle imports by February 1, 2025 after conducting the necessary technical analysis.
+
+Weerasinghe said that if the financial conditions continue on the expected path, it is possible to retain the resolution.
+
+◼️
+
+[Data](articles/c3156c5e.json)
+
+[Extended Data](ext_articles/c3156c5e.ext.json)
+
+---
 
 ### Resolution to compete in all areas where Tamils ​​live
 
@@ -57,6 +79,10 @@ Meanwhile, Tamils ​​are being considered to compete in areas where Tamils �
 ### A car suspected to be abducted
 
 *2024-09-28 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201644) · `si`
+
+Car theft: Suspect detained in Katugastota. Mawanella police involved. Vehicle identification unclear. Arrested individual from Kandy. Case transferred to Katugastota Police for investigation.
+
+🟩
 
 The car has been taken into custody by a car in the Katugastota on the 28th.
 
@@ -2253,21 +2279,5 @@ Rest assured that those ramifications are being felt in nation, state, country, 
 [Data](articles/47b4e3bf.json)
 
 [Extended Data](ext_articles/47b4e3bf.ext.json)
-
----
-
-### Strengthening governance in Sri Lanka: Case for an External Policy Review Board
-
-*2024-09-27 23:38:04* · [`dailyftlk`](https://www.ft.lk/columns/Strengthening-governance-in-Sri-Lanka-Case-for-an-External-Policy-Review-Board/4-767254) · `en`
-
-While Sri Lanka is commendably moving toward better governance, there remains room for substantial improvement. Enhancing our policy-making processes is critical for continuing this forward momentum. The proposed establishment of an External Policy Review Board (EPRB) offers a significant opportunity to deepen our commitment to transparent and effective governance.
-
-The EPRB, as envisaged, would be comprised of 10 interdisciplinary experts, each bringing a depth of knowledge essential for the nuanced evaluation of Government policies. This board would operate as a confidential advisory body, providing independent reviews and recommendations directly to the President and policy framers. This structure is designed to ensure all Government and citizen-initiated policies undergo rigorous scrutiny, aligning with national and international standards.
-
-...
-
-[Data](articles/5fd76d82.json)
-
-[Extended Data](ext_articles/5fd76d82.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 13:38:28**
+As of **2024-09-28 13:57:52**
 
 ## Newspaper Stats
 
-*Scraped **46,711** Articles*
+*Scraped **46,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,307
 dailymirrorlk | 4,733
-adaderanalk | 5,493
+adaderanalk | 5,494
 tamilmirrorlk | 6,263
 virakesarilk | 7,466
 adaderanasinhalalk | 8,065
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,065
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,711 (100.0%) of 46,711 articles have been extended.
+46,711 (100.0%) of 46,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Israel strikes Beirut  in a huge blast targeting Hezbollah’s leader
+
+*2024-09-28 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102319/israel-strikes-beirut-in-a-huge-blast-targeting-hezbollahs-leader) · `en`
+
+The Israeli military said it struck Hezbollah’s headquarters in Beirut on Friday in a series of massive explosions that targeted the leader of the militant group and leveled multiple high-rise apartment buildings.
+
+At least six people were killed and 91 were wounded, Lebanon’s health ministry said. It was the biggest blast to hit the Lebanese capital in the past year and appeared likely to push the escalating conflict closer to full-fledged war.
+
+Hezbollah leader Hassan Nasrallah was the target of the strikes, according to two people familiar with the matter who spoke on condition of anonymity, including one United States official. The Israeli army declined to comment on who it was targeting. It was not immediately clear if Nasrallah was at the site, and Hezbollah did not comment on the report.
+
+...
+
+[Data](articles/7c78ebee.json)
+
+---
 
 ### IRD notice on final tax payment and default tax clearance deadline
 
@@ -2187,27 +2203,5 @@ Notably, SDIG Priyantha Weerasooriya is the first officer in the 158-year histor
 [Data](articles/457a243a.json)
 
 [Extended Data](ext_articles/457a243a.ext.json)
-
----
-
-### Kamindu Mendis becomes joint-third fastest to 1000 Test runs, goes level with Don Bradman
-
-*2024-09-27 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102305/kamindu-mendis-becomes-joint-third-fastest-to-1000-test-runs-goes-level-with-don-bradman) · `en`
-
-Sri Lanka’s Kamindu Mendis became the joint-third fastest player to reach 1000 Test runs during the second Test against New Zealand on Friday.
-
-The 25-year-old achieved this feat by hitting a six off Rachin Ravindra. He goes level with Australia great Don Bradman’s record of 13 innings.
-
-Earlier today, Mendis brought up his fifth Test century which made him the fastest Asian batter to do so. He is now joint-fourth fastest in the all-time list of fastest batters to five Test centuries.
-
-On Thursday, Mendis created a world record for the most successive fifty-plus scores since debut, scoring eight half-centuries after his first match against Australia two years ago.
-
-Mendis scored a huge hundred (182 not out in 250 deliveries). During his knock, the 25-year-old completed 1,000 runs in Tests. The left-handed batsman has gone past the 1000-run mark in Tests in only 13 innings.
-
-...
-
-[Data](articles/a31727c7.json)
-
-[Extended Data](ext_articles/a31727c7.ext.json)
 
 ---

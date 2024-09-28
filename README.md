@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 15:56:52**
+As of **2024-09-28 16:22:38**
 
 ## Newspaper Stats
 
-*Scraped **46,722** Articles*
+*Scraped **46,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,307
 dailymirrorlk | 4,733
-adaderanalk | 5,496
+adaderanalk | 5,497
 tamilmirrorlk | 6,265
 virakesarilk | 7,467
-adaderanasinhalalk | 8,069
+adaderanasinhalalk | 8,071
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,722 (100.0%) of 46,722 articles have been extended.
+46,725 (100.0%) of 46,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### The seven individual committee to make a decision on scholarship
+
+*2024-09-28 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201632) · `si`
+
+Ministry of Education forms 7-member committee to decide on scholarship exam changes. Committee to consider investigation findings before making final decision.
+
+🟩
+
+Will the controversial grade 5 scholarship examination will be renovated?Not?The Ministry of Education has taken steps to appoint seven committee to decide.
+
+Thilaka Jayasundara, Secretary to the Ministry Thilaka Jayasundara said that this step had been taken on the instructions of Prime Minister Dr. Haraini Amarasuriya.
+
+A few questions on the scholarship examination this year's scholarship examination took immediate situation and the Department of Examinations and the CID were investigated.
+
+Considering the investigation, will the examinate back?Not?The committee will decide to go by the Ministry of Education, Thilaka Jayasundara added that the committee will decide.
+
+◼️
+
+[Data](articles/ec890b97.json)
+
+[Extended Data](ext_articles/ec890b97.ext.json)
+
+---
+
+### Auditor General’s Dept. probes ‘thousands’ of missing govt. vehicles
+
+*2024-09-28 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102322/auditor-generals-dept-probes-thousands-of-missing-govt-vehicles) · `en`
+
+The National Audit Office has revealed that thousands of government -owned vehicles are missing or misplaced in the recent past.
+
+Auditor General W.P.C. Wickramaratne has stated that a comprehensive report will be prepared regarding these missing or misplaced government vehicles.
+
+Meanwhile, with the new government coming into power, many vehicles used by former ministry secretaries and presidential advisors were recently seen parked at the Galle Face Grounds.
+
+In this context, the Auditor General’s Department has received reports indicating that thousands of vehicles belonging to various state institutions including Health, Education, Postal, Irrigation departments and the Presidential Secretariat have gone missing.
+
+It has been reported that the majority of the missing vehicles belong to the Ministry of Health.
+
+...
+
+[Data](articles/6d13840a.json)
+
+[Extended Data](ext_articles/6d13840a.ext.json)
+
+---
+
+### A pronouncement of strong lightning
+
+*2024-09-28 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201631) · `si`
+
+Strong lightning warning issued for Western, Sabaragamuwa, Southern, Central, Uva, and North Western Provinces. Thunderstorms may cause damage from temporary winds and lightning. Public advised to take precautions.
+
+🟩
+
+The Department of Meteorology has issued a warning new public strike.
+
+The announcement was issued this afternoon until 11.30 pm today (29).
+
+Accordingly, during the Western, Sabaragamuwa, Southern, Central, Uva and North Western Province, in the Anuradhapura district or even night in the Anuradhapura district or night, there is a strong lightning.
+
+The Department of Meteorology also requests the public to take action to reduce the damages caused by temporary winds and lightning accidents due to thunderstorms.
+
+◼️
+
+[Data](articles/0bd2e774.json)
+
+[Extended Data](ext_articles/0bd2e774.ext.json)
+
+---
 
 ### Rice from today will be issued to government control price - Dudley Sirisena
 
@@ -2155,67 +2225,5 @@ However, previous President Ranil Wickremesinghe did not appoint a successor as 
 [Data](articles/4ddff0d7.json)
 
 [Extended Data](ext_articles/4ddff0d7.ext.json)
-
----
-
-### The former ministers removed security
-
-*2024-09-27 18:06:43* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මැති-ඇමතින්ට-දී-තිබූ-ආරක්ෂාව-ඉවත්කරයි/11-412185) · `si`
-
-Former ministers removed security after Parliament dissolution. Security personnel, guards, and provincial officials were taken away.
-
-🟩
-
-Since Parliament has been dissolved, the security personnel representing Parliament and the security guards and former governors, representatives, representatives of the Provincial Ministers, the Provincial Ministers, Provincial Ministers and Provincial Ministers have been removed.
-
-◼️
-
-[Data](articles/57df5f19.json)
-
-[Extended Data](ext_articles/57df5f19.ext.json)
-
----
-
-### Money fraud for a businessman claiming fake coins as ancient coins;Arresting
-
-*2024-09-27 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/194931) · `ta`
-
-Businessman duped 9 lakhs claiming ancient coins. Gang arrested in Anuradhapura after selling fake coins for 10 lakhs.
-
-🟩
-
-Anuradhapura headquarters headquarters police said that a gang of gangs have been arrested for allegedly defrauding 9 lakhs of rupees from the businessman claiming to be ancient coins from the trader.
-
-A gang telephoned with a businessman from Trincomalee has said that the ancient coins received by the treasure are being sold for Rs. 10 lakhs.
-
-Subsequently, the businessman left the Anuradhapura area on Thursday (26) and the two suspects who arrived there had given fake coins to the trader and took 9 lakh rupees.
-
-Subsequently, a suspect from the gang has been arrested on the basis of a complaint lodged by the victim's trader.
-
-◼️
-
-[Data](articles/92ce6a63.json)
-
-[Extended Data](ext_articles/92ce6a63.ext.json)
-
----
-
-### Sri Lanka CB chief sees strong, more than expected 4-pct growth in 2024
-
-*2024-09-27 17:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-chief-sees-strong-more-than-expected-4-pct-growth-in-2024-181371/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 2024 economic growth will be stronger than the expected 4 percent due to increased economic activities, Central Bank Governor Nandalal Weerasinghe said.
-
-The Central Bank had originally projected 3 percent growth for this year against the International Monetary Fund’s expected expansion of 1.2 percent. The World Bank has projected Sri Lanka’s growth at 2,2 percent for this year, while the Asian Development Bank (ADB) has estimated at 2.6 percent.
-
-“We see more than expected growth in the second quarter,” Weerasinghe told reporters in Colombo at a media briefing on Friday (27) after maintaining the key policy rates steady.
-
-“Originally we projected 3 percent growth and last time we said the growth could be around 4 percent. But as per now, the annual growth could be more than that.”
-
-...
-
-[Data](articles/d1c2acbf.json)
-
-[Extended Data](ext_articles/d1c2acbf.ext.json)
 
 ---

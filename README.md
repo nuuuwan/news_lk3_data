@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 14:57:03**
+As of **2024-09-28 15:07:54**
 
 ## Newspaper Stats
 
-*Scraped **46,718** Articles*
+*Scraped **46,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,496
 tamilmirrorlk | 6,265
 virakesarilk | 7,467
-adaderanasinhalalk | 8,065
+adaderanasinhalalk | 8,068
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,718 (100.0%) of 46,718 articles have been extended.
+46,721 (100.0%) of 46,721 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,28 @@ Against this backdrop, thousands of vehicles belonging to many state institution
 [Data](articles/45924c83.json)
 
 [Extended Data](ext_articles/45924c83.ext.json)
+
+---
+
+### Hezbollah captain Nasaralla dies in a massive attack
+
+*2024-09-28 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201628) · `si`
+
+Hezbollah leader Nasrallah killed in Israeli airstrikes on Beirut. Six others injured, 91 wounded. Israel targets Lebanon's capital.
+
+🟩
+
+The Israeli defense unit said that Israeli air strikes were killed by Israeli air strikes on the capital city of Beretty capital.
+
+Israel launched a series of air strikes yesterday afternoon targeting the Beeroot capital of Lebanon.
+
+Another six injured in these attacks were killed and 91 wounded.
+
+◼️
+
+[Data](articles/b15fec9b.json)
+
+[Extended Data](ext_articles/b15fec9b.ext.json)
 
 ---
 
@@ -142,6 +164,28 @@ Secretary Sathura Kalhena Melam said the appointments were made for the vacancie
 
 ---
 
+### New Chairman of the Bar Association of Sri Lanka
+
+*2024-09-28 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201626) · `si`
+
+Anura Maddadeniyadgoda elected new Chairman Bar Association Sri Lanka. Kaushaly Nawaratratne stepped down. Rasik Sarauk appointed Deputy Chairman.
+
+🟩
+
+President's criteria Anura Maddadeniyadgoda has been elected as the new Chairman of the Bar Association of Sri Lanka.
+
+The post was empty after President's Counsel Kaushaly Nawaratratne has left his post before.
+
+Meanwhile, President's Counsel Rasik Sarauk has been appointed Deputy Chairman of the Bar Association of Sri Lanka.
+
+◼️
+
+[Data](articles/99f6bc0d.json)
+
+[Extended Data](ext_articles/99f6bc0d.ext.json)
+
+---
+
 ### Israel strikes Beirut  in a huge blast targeting Hezbollah’s leader
 
 *2024-09-28 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102319/israel-strikes-beirut-in-a-huge-blast-targeting-hezbollahs-leader) · `en`
@@ -157,6 +201,30 @@ Hezbollah leader Hassan Nasrallah was the target of the strikes, according to tw
 [Data](articles/7c78ebee.json)
 
 [Extended Data](ext_articles/7c78ebee.ext.json)
+
+---
+
+### President joins Colombo Book Fair
+
+*2024-09-28 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201625) · `si`
+
+President Anura Kumara Dissanayake attended the 25th anniversary of the Literary International Conference Hall in Colombo. He received a National Letter of Children's Book from Sri Lanka Book Pubs Chairman Samantha Insuine. The President browsed through local and foreign books, participated in exhibitions, and gave a brief speech. The event, organized by the Sri Lanka Book Publishers Association, began on October 27 and continues until October 6.
+
+🟩
+
+President Anura Kumara Dissanayake joined the 25th anniversary this morning for the 25th anniversary of the Literary International Conference Hall in Colombo.
+
+Sri Lanka Book Pubs Chairman Samantha Insuine presented the National Letter of Children's Book to the President.
+
+The President committed several chambers of both local and foreign books, the president was also engaged in exhibition and a brief rescued.
+
+The book fair, which was organized by the Sri Lanka Book Publishers Association, commenced yesterday (27) and will be held until October 6.
+
+◼️
+
+[Data](articles/b0647e25.json)
+
+[Extended Data](ext_articles/b0647e25.ext.json)
 
 ---
 
@@ -480,7 +548,13 @@ The Gazette notification outlining the respective subjects, functions, duties, a
 
 The Extraordinary Gazette notification has been issued by President Anura Kumara Dissanayake on Friday (September 27).
 
-Gazette issued detailing functions and duties of new Ministries by Adaderana Online on Scribd
+The Gazette Notification No. 2403/53 – 2024, detailing the division of institutions and portfolios under the new ministries, was published yesterday (27).
+
+The President, Anura Kumara Dissanayake, issued this gazette in accordance with the authority granted under Article 44(1) of the Constitution of the Democratic Socialist Republic of Sri Lanka.
+
+Additionally, the short-term cabinet of the new government was recently appointed.
+
+The full gazette, outlining the functions and institutions under the new government, is attached below:
 
 ◼️
 
@@ -2143,71 +2217,5 @@ The police have seized 10 grams 800 milligrams of ice from one of the arrested s
 [Data](articles/e226af94.json)
 
 [Extended Data](ext_articles/e226af94.ext.json)
-
----
-
-### Fort closed to the people closed into the President's House
-
-*2024-09-27 17:45:28* · [`adalk`](https://www.ada.lk/breaking_news/කොටුව-ජනාධිපති-මන්දිරය-අවට-වසා-තිබූ-මාර්ග-ජනතාවට-විවෘත-කෙරේ/11-412184) · `si`
-
-Colombo Fort reopened after President Anura Kumara Dissanayake lifts restrictions. High security zone designation removed, allowing public access to Sir Barron Jayathilaka Mawatha and President's Mawatha near his residence.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed to open the Colombo Fort, Colombo Fort, Colombo Fort, Colombo Fort.
-
-The presidential and the surrounding area had been named as a high security zone.
-
-With the residence of Anura Kumara Dissanayake, all these roadblocks have been removed and the roads have been opened to the public use.
-
-Accordingly, Sir Barron Jayathilaka Mawatha and the President's Mawatha will be open to the public use in front of the President's House.
-
-◼️
-
-[Data](articles/31d22b13.json)
-
-[Extended Data](ext_articles/31d22b13.ext.json)
-
----
-
-### The Maurika Railwayrassa temporarily closed for maintenance work
-
-*2024-09-27 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201609) · `si`
-
-Maurika Railwayrassa closed for maintenance. Philikali Railway crossing on Kelani Railway line shut from 8:30 AM to 5:30 PM on 29th. Public advised to use alternative routes.
-
-🟩
-
-The Railway Department has taken steps to close the Philikali Railway crossing on the Kelani Railway line due to maintenance work.
-
-The Department of Railways said that the crossway will be closed from 8.30 am to 5.30 pm on the 29th.
-
-The Railway Department has requested the public to use alternative routes during that period.
-
-◼️
-
-[Data](articles/43945e9d.json)
-
-[Extended Data](ext_articles/43945e9d.ext.json)
-
----
-
-### Removal of the safety of former MPs
-
-*2024-09-27 17:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பிக்களின்-பாதுகாப்பு-நீக்கம்/175-344584) · `ta`
-
-Former MPs lose police protection as of today. Police recall officers guarding ex-Speaker, Deputy Speaker, and Opposition Leader. Steps taken to return officers to their duties.
-
-🟩
-
-Police officers who have been appointed to the protection of former Members of Parliament have been recalled from today (27), police said.
-
-Accordingly, steps have been taken to return to all the police officers who have been provided with the protection of former Speaker, former Deputy Speaker and Opposition Leader.. Remble
-
-◼️
-
-[Data](articles/6648a0f4.json)
-
-[Extended Data](ext_articles/6648a0f4.ext.json)
 
 ---

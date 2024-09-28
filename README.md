@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 08:21:06**
+As of **2024-09-28 08:58:43**
 
 ## Newspaper Stats
 
-*Scraped **46,678** Articles*
+*Scraped **46,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 2,840
 dailyftlk | 3,128
 adalk | 4,302
 dailymirrorlk | 4,733
-adaderanalk | 5,485
-tamilmirrorlk | 6,258
+adaderanalk | 5,487
+tamilmirrorlk | 6,259
 virakesarilk | 7,461
-adaderanasinhalalk | 8,059
+adaderanasinhalalk | 8,060
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,678 (100.0%) of 46,678 articles have been extended.
+46,682 (100.0%) of 46,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Heavy showers expected in parts of the island
+
+*2024-09-28 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102312/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur over most places of the Island during the afternoon or night.
+
+Heavy showers of about 100 mm can be expected at some places in Central and Sabaragamuwa provinces and in Kurunegala, Kaluthara, Galle and Matara districts.
+
+Showers may occur in Southern province and in Batticaloa and Ampara districts during the morning too, it added.
+
+Thus the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/954578db.json)
+
+[Extended Data](ext_articles/954578db.ext.json)
+
+---
+
+### Casual association ended by death
+
+*2024-09-28 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201619) · `si`
+
+Casual association ends fatally. Victim (33) dies after entering house in Walchiraya. Suspect's wife involved. Suspect assaulted with hammer. Magisterial inquiry ongoing.
+
+🟩
+
+The victim has died on a release from information received by the 119 information center that he had entered a house in Walchiya, Wariyapola.
+
+The victim is 33 year old, a resident of Awulegama.
+
+The deceased has been held with a casual relationship with the wife of the deceased suspect and the suspect had been assaulted by a hammer at home and had been assaulted by a hammer at home.
+
+The magisterial inquiry into the body is to be taken up with the age of 36 years of age.
+
+◼️
+
+[Data](articles/a5df3f2d.json)
+
+[Extended Data](ext_articles/a5df3f2d.ext.json)
+
+---
+
+### Former Minister Kumara Welgama passes away
+
+*2024-09-28 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102311/former-minister-kumara-welgama-passes-away) · `en`
+
+Former Minister Kumara Welgama has passed away at the age of 74.
+
+He had passed away while receiving treatment at a private hospital, family sources said.
+
+◼️
+
+[Data](articles/1b25f039.json)
+
+[Extended Data](ext_articles/1b25f039.ext.json)
+
+---
 
 ### Former Minister Kumara Welgama passes away
 
@@ -73,6 +133,28 @@ As such, the people will be taken to reduce the necessary steps to reduce the da
 [Data](articles/a8902fb8.json)
 
 [Extended Data](ext_articles/a8902fb8.ext.json)
+
+---
+
+### Sri Lankans are safe in Lebanon
+
+*2024-09-28 02:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனானில்-இலங்கையர்கள்-பாதுகாப்பாக-உள்ளனர்/175-344606) · `ta`
+
+Sri Lankans in Lebanon safe: 7600 workers mostly in south. Ambassador in touch. Recent Israeli airstrikes targeted north, not affecting Sri Lankans.
+
+🟩
+
+Ambassador Kapila Jayaweera also stated that the Ambassador is in close contact with the Sri Lankans living there.
+
+He said about 7,600 Sri Lankan employees were working in Lebanon and most of them live in the southern parts of the country.
+
+A few days ago, Israel had carried out air strikes in the northern parts of Lebanon, targeting the Hizbullah system.
+
+◼️
+
+[Data](articles/e2b9b65c.json)
+
+[Extended Data](ext_articles/e2b9b65c.ext.json)
 
 ---
 
@@ -2109,91 +2191,5 @@ Accordingly, former Parliamentarian Imtiaz Pakir Macker as the Chairman of the U
 [Data](articles/2ea9cf48.json)
 
 [Extended Data](ext_articles/2ea9cf48.ext.json)
-
----
-
-### Imthiaz Bakeer Markar appointed SJB Chairman
-
-*2024-09-27 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102299/imthiaz-bakeer-markar-appointed-sjb-chairman) · `en`
-
-Former SJB parliamentarian Imthiaz Bakeer Markar has been appointed as the new Chairman of the Samagi Jana Balawegaya (SJB).
-
-Meanwhile, former SJB MP Kabir Hashim has been appointed as the General Secretary of Samagi Jana Sandanaya, says SJB General Secretary Ranjith Madduma Bandara.
-
-◼️
-
-[Data](articles/956c5b2f.json)
-
-[Extended Data](ext_articles/956c5b2f.ext.json)
-
----
-
-### Former president’s backers want to form strong opposition, not govt: ex MP
-
-*2024-09-27 12:12:00* · [`economynextcom`](https://economynext.com/former-presidents-backers-want-to-form-strong-opposition-not-govt-ex-mp-181290/) · `en`
-
-ECONOMYNEXT — Former Sri Lanka Podujana Peramuna MP Premnath Dolawatte said the objective of the MPs that supported former President Ranil Wickremesinghe is not to form a government but to form a strong opposition.
-
-Speaking to reporters following a meeting between SLPP and other ex MPs who backed Wickremesinghe during the presidential election, Dolawatte said they do not intend to sabotage the new Janatha Vimukthi Peramuna (JVP)-led National People’s Power (NPP) government.
-
-“At this time, we wish to respect the people’s choice. The people will give the JVP the ability to govern. We must form a strong opposition. We don’t want to grab government power so that President Dissanayake finds it difficult to work. That’s not our aim. Our goal is to build a strong opposition and support the good things the government does and criticise the bad,” the former MP said.
-
-...
-
-[Data](articles/f17d855a.json)
-
-[Extended Data](ext_articles/f17d855a.ext.json)
-
----
-
-### Who is Priyantha Weerasuriya who came from constable rank to acting IGP?
-
-*2024-09-27 12:04:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cg56z8pm5zpo) · `si`
-
-Priyantha Weerasuriya: From constable to acting IGP. Promoted through ranks, served UN peacekeeping missions. Appointed Senior DIG before becoming acting IGP due to court order.
-
-🟩
-
-Who is Priyantha Weerasuriya who came from constable rank to acting IGP?
-
-Senior DIG Priyantha Weerasuriya has been appointed as acting IGP for over three months.
-
-On July 24, the Supreme Court issued an interim injunction with the inspection of the IGP to Tennakoon on July 24.
-
-The Supreme Court issued the order to be heard by the Supreme Court, who was submitted to the appointment of Deshabandu Tennakoon to appoint the President as IGP.
-
-Liyasastra Liyanarachchi, born in Dodangoda, was born in 1988, born on the 9th of February 1969.
-
-He joined the Police Service as a constable and served in the Police Special Task Force and Traffic and Criminalities during the period from 1988 to 1992.
-
-Priyantha Weerasuriya has been promoted to the sub-inspector of 1992s in 1992, served at Maradana, Vavuniya and Slave Island Police.
-
-He included the Degree of the University of Colombo during the period from 1993 to 1998.
-
-...
-
-[Data](articles/edb5d550.json)
-
-[Extended Data](ext_articles/edb5d550.ext.json)
-
----
-
-### President orders reopening of two roads near President’s House
-
-*2024-09-27 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102298/president-orders-reopening-of-two-roads-near-presidents-house) · `en`
-
-President Anura Kumara Dissanayake has ordered the reopening of roads around the President’s House in Colombo Fort, which had previously been closed due to roadblocks.
-
-The President’s House and its surrounding area had been classified as a high-security zone and were closed off to the public.
-
-However, with President Dissanayake’s appointment, all roadblocks have now been lifted, the President’s Media Division said.
-
-Accordingly, Sir Baron Jayathilaka Mawatha and Janadhipathi Mawatha will be accessible to the public from tomorrow (28).
-
-◼️
-
-[Data](articles/1964a026.json)
-
-[Extended Data](ext_articles/1964a026.ext.json)
 
 ---

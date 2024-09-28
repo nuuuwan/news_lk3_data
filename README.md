@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 07:25:16**
+As of **2024-09-28 07:59:55**
 
 ## Newspaper Stats
 
-*Scraped **46,676** Articles*
+*Scraped **46,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ dailyftlk | 3,128
 adalk | 4,302
 dailymirrorlk | 4,733
 adaderanalk | 5,485
-tamilmirrorlk | 6,257
+tamilmirrorlk | 6,258
 virakesarilk | 7,461
-adaderanasinhalalk | 8,058
+adaderanasinhalalk | 8,059
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,676 (100.0%) of 46,676 articles have been extended.
+46,678 (100.0%) of 46,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Former Minister Kumara Welgama passes away
+
+*2024-09-28 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201618) · `si`
+
+Former Minister Kumara Welgama (74) dies in private hospital after treatment. Former Sri Lankan parliamentarian and politician passes away.
+
+🟩
+
+Former parliamentarian and former minister Kumara Welgama has passed away.
+
+He passed away while receiving treatment at a private hospital, and he was 74 years old.
+
+◼️
+
+[Data](articles/1c366359.json)
+
+[Extended Data](ext_articles/1c366359.ext.json)
+
+---
 
 ### Showers or thundershowers at several places today
 
@@ -53,6 +73,28 @@ As such, the people will be taken to reduce the necessary steps to reduce the da
 [Data](articles/a8902fb8.json)
 
 [Extended Data](ext_articles/a8902fb8.ext.json)
+
+---
+
+### Increase in the spread of monkey in India
+
+*2024-09-28 02:11:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-குரங்கு-அம்மை-பரவல்-அதிகரிப்பு/175-344605) · `ta`
+
+Monkey disease spreads in Kerala, India. Second case confirmed. Health Minister advises international travelers to seek treatment if symptoms occur.
+
+🟩
+
+The Kerala State Health Department has said that another person has been affected by the monkey in Kerala, India, and has advised those who are diagnosed with the disease.
+
+The first monkey in India was diagnosed in Kerala earlier last week, and the second impact has now been confirmed.
+
+Subsequently, the Kerala State Health Minister has advised that all those who come to the state from abroad should approach the state health agency and take treatment if there are symptoms.. (A)
+
+◼️
+
+[Data](articles/d67a1cc2.json)
+
+[Extended Data](ext_articles/d67a1cc2.ext.json)
 
 ---
 
@@ -2153,59 +2195,5 @@ Accordingly, Sir Baron Jayathilaka Mawatha and Janadhipathi Mawatha will be acce
 [Data](articles/1964a026.json)
 
 [Extended Data](ext_articles/1964a026.ext.json)
-
----
-
-### Two roads opened next to Presidentlessment
-
-*2024-09-27 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201599) · `si`
-
-Here's a 200-character summary:
-
-
-
-President opens three roads: Sir Baron Jayathilaka Mawatha, President's Mawatha, Presidential Mawatha. Police spokesperson confirms Nihal Talduwa involvement under President Anura Kumara Dissanayake's directive.
-
-🟩
-
-The President has decided to open Sir Baron Jayathilaka Mawatha, President's Mawatha and Presidential Mawatha to the public.
-
-Police Media Spokesperson DIG'sary DIG's latter brother said Nihal Talduuwa is opened by President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/fe413d7e.json)
-
-[Extended Data](ext_articles/fe413d7e.ext.json)
-
----
-
-### The mortality found the head of the Hezbollah Drone Society
-
-*2024-09-27 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201598) · `si`
-
-Hezbollah Drone Society leader killed in Israeli airstrike. Netanyahu orders full force against Hezbollah. Ceasefire demands from international community. Death toll rises to 700+ as conflict escalates.
-
-🟩
-
-Israeli Prime Minister Benjamin Netanyahu has informed his security forces to attack his entire power to the goals of the Hezbolleh of Lebanon.
-
-In the meantime, all the best parties, including the US, have continuously demanded to consider a ceasefire.
-
-The Ministry of Health has announced that 92 persons were killed due to air strikes yesterday.
-
-Among the deceased is Mohamed Surmoor, head of the Hezbollah Drone Society.
-
-Hisbullah confirmed that he had died of airst attack on a housing complex in the South Resort.
-
-Israel was accelerated on Monday last Monday.
-
-Over 700 people were killed and many were injured.
-
-◼️
-
-[Data](articles/ad4e5e5f.json)
-
-[Extended Data](ext_articles/ad4e5e5f.ext.json)
 
 ---

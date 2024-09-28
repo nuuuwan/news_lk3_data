@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 06:08:03**
+As of **2024-09-28 06:43:42**
 
 ## Newspaper Stats
 
-*Scraped **46,671** Articles*
+*Scraped **46,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 387
 bbccomsinhala | 461
 colombotelegraphcom | 462
-islandlk | 2,736
+islandlk | 2,739
 economynextcom | 2,840
 dailyftlk | 3,128
 adalk | 4,302
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,671 (100.0%) of 46,671 articles have been extended.
+46,674 (100.0%) of 46,674 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,22 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/aa6a3e25.json)
 
 [Extended Data](ext_articles/aa6a3e25.ext.json)
+
+---
+
+### Bank of Ceylon introduces Multi-Currency Travel Card to enhance Medical Tourism experience
+
+*2024-09-28 01:28:00* · [`islandlk`](http://island.lk/bank-of-ceylon-introduces-multi-currency-travel-card-to-enhance-medical-tourism-experience/) · `en`
+
+Bank of Ceylon (BOC) has announced an initiative aimed at improving the travel experience for Sri Lankans seeking medical treatment abroad. The introduction of the Multi-Currency Travel Card (MCTC) is designed to address the needs of those traveling to destinations like India, which has become a prominent hub for medical tourism due to its advanced yet cost-effective healthcare services.
+
+Medical tourism, which traditionally involved patients from less-developed countries traveling to more developed nations for specialized treatments, has evolved. Today, individuals from developed countries also travel to emerging economies for more affordable medical care. India, in particular, has emerged as a key destination due to its extensive medical infrastructure and competitive pricing.
+
+...
+
+[Data](articles/1fcbd33d.json)
+
+[Extended Data](ext_articles/1fcbd33d.ext.json)
 
 ---
 
@@ -2189,29 +2205,5 @@ The Ambassador to the Ambassador to the Sri Lanka Agrack on the final phase of t
 [Data](articles/3361ab5f.json)
 
 [Extended Data](ext_articles/3361ab5f.ext.json)
-
----
-
-### Sri Lanka president to implement subsidy schemes of predecessor halted by election commission
-
-*2024-09-27 11:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-implement-subsidy-schemes-of-predecessor-halted-by-election-commission-181291/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new president Anura Dissanayake has instructed the treasury to provide an allowance of 25,000 rupees per hectare to paddy farmers for the Maha season of 2024/25.
-
-The subsidy will be deposited to farmers bank accounts starting October 1, the president’s media division said.
-
-Dissanayake  also directed the treasury to implement a fuel subsidy for the fishing community, effective October 1.
-
-This will be available on a monthly basis for both multi-day and one-day fishing vessels, and also be deposited into fishermen’s bank accounts.
-
-Former minister Kanchana Wijesekera said “It’s good to see that schemes approved, allocated funds through the treasury and initiated by President @RW_SRILANKA that was stopped by the election commission during the Presidential election recommencing under President @anuradisanayake.”
-
-The subsidy schemes were introduced as the previous government’s policy decisions in August 2024 with the allocation of funds through the treasury.
-
-...
-
-[Data](articles/c3523784.json)
-
-[Extended Data](ext_articles/c3523784.ext.json)
 
 ---

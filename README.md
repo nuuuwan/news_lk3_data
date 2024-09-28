@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 10:38:13**
+As of **2024-09-28 10:56:44**
 
 ## Newspaper Stats
 
-*Scraped **46,694** Articles*
+*Scraped **46,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,840
 dailyftlk | 3,128
 adalk | 4,305
 dailymirrorlk | 4,733
-adaderanalk | 5,490
+adaderanalk | 5,491
 tamilmirrorlk | 6,261
 virakesarilk | 7,462
 adaderanasinhalalk | 8,062
@@ -26,23 +26,53 @@ adaderanasinhalalk | 8,062
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,692 (100.0%) of 46,694 articles have been extended.
+46,695 (100.0%) of 46,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
 
-### ජනාධිපතිවරයාගෙන් අතිවිශේෂ ගැසට් පත්‍රයක්
+### Suspect arrested with elephant pearls worth Rs. 12 mln
+
+*2024-09-28 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102316/suspect-arrested-with-elephant-pearls-worth-rs-12-mln) · `en`
+
+Officers from the Negombo Divisional Criminal Investigation Bureau have arrested a suspect attempting to sell five elephant pearls (Gajamuthu).
+
+According to the police, the value of these elephant pearls is approximately Rs. 12 million.
+
+The arrested suspect is a 38-year-old resident of the Gelioya area.
+
+The suspect has been handed over to the Negombo Police Station.
+
+◼️
+
+[Data](articles/27b93f36.json)
+
+[Extended Data](ext_articles/27b93f36.ext.json)
+
+---
+
+### A special gazette from the president
 
 *2024-09-28 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201621) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 44 වැනි ව්‍යවස්ථාවේ (1) අනු ව්‍යවස්ථාව යටතේ ජනධිපති අනුර කුමර දිසානායක මහතාට ඇති බලතල ක්‍රියාත්මක කරමින් අතිවිශේෂ ගැසට් පත්‍රය නිකුත් කර ඇත.
+Exclusive Gazette: Summary
 
-විවිධ අමාත්‍යවරයන් භාරයේ පවත්නා විෂයයන්, කාර්යයන්, දෙපාර්තමේන්තු, ව්‍යවස්ථාපිත ආයතන හා රාජ්‍ය සංස්ථා යන ආයතනවල කාර්යයන් එහි විස්තර කර ඇත.
+
+
+Special presidential publication outlines roles, responsibilities of government ministries, departments, and state corporations as per Article 44(1) of the Constitution.
+
+🟩
+
+The Exclusive Gazette has been released by the Constitution of Article 44 (1) of the Constitution (1).
+
+The functions of the subjects, functions, departments, departments, statutory bodies of various ministers and state corporations have been described.
 
 ◼️
 
 [Data](articles/c32bc1fd.json)
+
+[Extended Data](ext_articles/c32bc1fd.ext.json)
 
 ---
 
@@ -52,6 +82,10 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Gazette notification outlining the respective subjects, functions, duties, and institutions of the newly established ministries has been published.
 
+The Extraordinary Gazette notification has been issued by President Anura Kumara Dissanayake on Friday (September 27).
+
+Gazette issued detailing functions and duties of new Ministries by Adaderana Online on Scribd
+
 ◼️
 
 [Data](articles/0eebfdcf.json)
@@ -60,21 +94,27 @@ The Gazette notification outlining the respective subjects, functions, duties, a
 
 ---
 
-### වීසා ලබා ගැනීමේ පෝලිම අඩුවෙයි
+### The quarters of visa reduce
 
 *2024-09-28 09:17:09* · [`adalk`](https://www.ada.lk/breaking_news/වීසා-ලබා-ගැනීමේ-පෝලිම-අඩුවෙයි/11-412189) · `si`
 
-ශ්‍රී ලංකාවට පැමිණීම සදහා මෙතෙක් අත්හිහිටුවා '' මාර්ගගත ක්‍රමයට වීසා බලපත්‍ර " ( Online Visa ) ලබා දීම , යළි 09/27 දින අලුයම 12.00 පැයේ සිට ආරම්භ වී තිබේ .
+Sri Lanka introduces online visa system for Bandaranaike Airport. Tourists can now apply online, reducing queues. Security checks for 14 countries at airport. Goal: attract 23,000 foreign visitors annually.
 
-ඒ නිසා මේ වනවිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ ලබා ගත යුතු ( On Arrivel Visa ) වීසා බලපත්‍ර ලබා ගැනීම සදහා වූ පෝලිම බොහෝ සෙයින් අඩු වී තිබේ .
+🟩
 
-එසේම රටවල් 14 කට ශ්‍රී ලංකාවට පැමිණ වීසා ලබා ගැනීමට ආරක්ෂක හේතූන් මත නොහැකි රටවල් , එම රටවල වැසියන් මෙරටට පැමිණීම සදහා මාර්ගගත ක්‍රමයට වීසා බලපත්‍ර ලබා ගැනීම හෝ එම රටවල ශ්‍රී ලංකා තානාපති කාර්යාලයෙන් වීසා බලපත්‍ර ලබා ගැනීම සිදු කළ යුතුය .
+The Bandaranawa has been given the online 'system' (onLine VISA) to visit Sri Lanka.
 
-මේ තත්වය  ශ්‍රී ලංකාවට යළිත්  සංචාරකයන්ගේ පැමිණීමේ වර්ධනයක් ඇති වීමට බලපා තිබෙන අතර , ඉදිරි මාස කීපය තුළ ශ්‍රී ලංකාවට සංචාරකයන් පැමිණීමේ කාළය ( Tourist Season ) උදා වීමට නියමිත අතර , මෙම වසර තුළ දී ශ්‍රී ලංකාවට විදේශීය සංචාරකයන් 23 ලක්ෂයක් රැගෙන ඒමට බලාපොරොත්තු වේ .
+Therefore, the queue to obtain visas should be obtained from the Katunayake airport.
+
+Its security reasons cannot be held in 14 countries and obtain visas for the inhabitants of the inhabitants of the countries or obtain visas from the Sri Lankan embassy in those countries.
+
+Tourist arrivals in Sri Lanka have been restored to Sri Lanka, and Sri Lanka will be able to bring 23 foreign tourists to bring about 23,000 foreign tourists to Sri Lanka this year.
 
 ◼️
 
 [Data](articles/2098dd48.json)
+
+[Extended Data](ext_articles/2098dd48.ext.json)
 
 ---
 
@@ -2153,27 +2193,5 @@ Everton Vox (West Indies 10), N. The players go to Harvey (Australia innings 12)
 [Data](articles/83cc37ba.json)
 
 [Extended Data](ext_articles/83cc37ba.ext.json)
-
----
-
-### Celebration of "World Tourism Day" at Katunayake Airport
-
-*2024-09-27 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/194904) · `ta`
-
-Sri Lanka Tourism Promotion Bureau celebrated World Tourism Day at Katunayake Airport. Director Madhubani Perera, Deputy Director Harinda Wijewardena, and Katunayake Airport Manager Vasana Kumari attended. Employees greeted foreign tourists with souvenirs.
-
-🟩
-
-The Sri Lanka Tourism Promotion Bureau celebrated World Travel Day at Katunayake Airport on Friday (27).
-
-The World Tourism Day celebration was attended by Madhubani Perera, Director of the Sri Lanka Tourism Promotion Bureau, Harinda Wijewardena, Deputy Director of the Sri Lanka Tourism Promotion Bureau and Vasana Kumari, Manager of the Katunayake Airport, Vasana Kumari.
-
-Subsequently, the employees of the Sri Lanka Tourism Promotion Bureau welcomed foreign tourists visiting Sri Lanka through the Katunayake airport and greeted them with souvenirs.
-
-◼️
-
-[Data](articles/aa851c16.json)
-
-[Extended Data](ext_articles/aa851c16.ext.json)
 
 ---

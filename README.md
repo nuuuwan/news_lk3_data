@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 20:38:45**
+As of **2024-09-28 20:57:31**
 
 ## Newspaper Stats
 
-*Scraped **46,745** Articles*
+*Scraped **46,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,500
 tamilmirrorlk | 6,268
 virakesarilk | 7,467
-adaderanasinhalalk | 8,080
+adaderanasinhalalk | 8,081
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,745 (100.0%) of 46,745 articles have been extended.
+46,746 (100.0%) of 46,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### An announcement on postal voting applications
+
+*2024-09-28 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201643) · `si`
+
+Here's a summary of the announcement in 200 characters:
+
+
+
+Postal voting applications accepted Oct 1-8. Submit applications through institutional head to district officer. Based on 2024 electoral lists. Follows 1981 Parliamentary Elections Act.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake said that the acceptance of postal voting applications will be accepted from October 1 to 8.
+
+"Postal voting applications will be accepted from 1st to 08th. The election should be made to accept applications for postal voting in accordance with postal voting in accordance with the Parliamentary Elections Act, No. 01 of 1981.
+
+We request all postal voting applications for this parliamentary election by the Head of your institution during this time and register your vote to the District Officer.
+
+This election is based on 2024 vocal lists. Accordingly, the election list used for the last presidential election. "
+
+◼️
+
+[Data](articles/f99cafaf.json)
+
+[Extended Data](ext_articles/f99cafaf.ext.json)
+
+---
 
 ### Massacre
 
@@ -2201,31 +2229,5 @@ Sri Lanka: 602/5 (batting: Camindu Mendis AE 182, Dinesh Chandimal 116, Gusal Me
 [Data](articles/1bb788c3.json)
 
 [Extended Data](ext_articles/1bb788c3.ext.json)
-
----
-
-### Israel attack in Israel's Bererout capital in Lebanon
-
-*2024-09-27 22:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201616) · `si`
-
-Israel-Lebanon conflict: Israeli strikes hit Hezbollah HQs in Beirut; 10 explosions reported; 5 Sri Lankans evacuated from embassy area.
-
-🟩
-
-Sri Lanka's Ambassador to Lebanon's Sri Lankan attacks have been reported from the capital city of Beeroot in the capital city of Beeroot in the capital city of Beeroot.
-
-Israel was a series of fierce attacks at Hezbollah headquarters in the city of Israel.
-
-It was reported that about 10 explosions occurred in the same city.
-
-The Ambassador told Ada Derana that after the attack, five Sri Lankans who had called on the phone were immediately taken to the Sri Lankan embassy.
-
-The Ambassador also requests the Sri Lankan community not to fear this.
-
-◼️
-
-[Data](articles/e51ae7d0.json)
-
-[Extended Data](ext_articles/e51ae7d0.ext.json)
 
 ---

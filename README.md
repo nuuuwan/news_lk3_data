@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 17:59:18**
+As of **2024-09-28 18:18:32**
 
 ## Newspaper Stats
 
-*Scraped **46,734** Articles*
+*Scraped **46,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 464
 islandlk | 2,739
 economynextcom | 2,841
 dailyftlk | 3,129
-adalk | 4,307
+adalk | 4,308
 dailymirrorlk | 4,733
 adaderanalk | 5,498
 tamilmirrorlk | 6,266
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,077
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,734 (100.0%) of 46,734 articles have been extended.
+46,735 (100.0%) of 46,735 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Circular in relation to all schools
 
 *2024-09-28 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201638) · `si`
+
+Circular: Ministry bans money collection for school events. Parents and principals warned about potential issues. Secretary Thilaka Jayasundara instructs no fundraising during school activities.
+
+🟩
 
 Thilaka Jayasundara has issued a circular to the principals of all schools in all schools in the country.
 
@@ -579,6 +583,28 @@ After this audit, a complete report will be prepared with regard to missing gove
 [Data](articles/f94d1c9b.json)
 
 [Extended Data](ext_articles/f94d1c9b.ext.json)
+
+---
+
+### Subjects and institutions of new ministries gazette
+
+*2024-09-28 12:23:25* · [`adalk`](https://www.ada.lk/breaking_news/නව-අමාත්‍යාංශවල-විෂයයන්-හා-ආයතන-ගැසට්-කෙරේ/11-412192) · `si`
+
+Sri Lanka: President issues gazette on new ministries, Cabinet appointments made. Gazette 2403/53-2024 outlines divisions and powers of new ministers.
+
+🟩
+
+The gazette notification issued by 2403/53 - 2024 related to the Divisions of the New Ministries and Ministers were published yesterday (27).
+
+President Anura Kumara Dissanayake has issued the gazette notification on the powers vested with the Constitution of the Democratic Socialist Republic of Sri Lanka (1) (1).
+
+The new government's short-term Cabinet recently was appointed.
+
+◼️
+
+[Data](articles/d2523fa9.json)
+
+[Extended Data](ext_articles/d2523fa9.ext.json)
 
 ---
 
@@ -2211,31 +2237,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/9b599479.json)
 
 [Extended Data](ext_articles/9b599479.ext.json)
-
----
-
-### Heavy rainfall is possible due to atmospheric condition - Department of Meteorology
-
-*2024-09-27 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/194951) · `ta`
-
-Heavy rainfall warning: Rain/thunderstorms expected across Sri Lanka, especially in central and southern regions. Public advised to take precautions against lightning.
-
-🟩
-
-The Department of Meteorology has predicted that the rainy situation is likely to increase over the next few days from today (27) due to the atmospheric condition.
-
-It is possible to experience rain or thunderstorm in many parts of the country in the afternoon or at night.
-
-There is a possibility of rain or thunderstorms in the morning and in the southern province, Batticaloa and Ampara districts.
-
-Heavy rainfall is expected in some parts of the Central and Sabaragamuwa provinces in Kalutara, Galle and Matara districts.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. It is noteworthy that the public has been advised to take necessary precautions to reduce the effects of lightning impacts.
-
-◼️
-
-[Data](articles/f6e795c0.json)
-
-[Extended Data](ext_articles/f6e795c0.ext.json)
 
 ---

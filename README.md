@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 16:22:38**
+As of **2024-09-28 16:38:23**
 
 ## Newspaper Stats
 
-*Scraped **46,725** Articles*
+*Scraped **46,727** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 387
 bbccomsinhala | 463
-colombotelegraphcom | 463
+colombotelegraphcom | 464
 islandlk | 2,739
 economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,307
 dailymirrorlk | 4,733
 adaderanalk | 5,497
-tamilmirrorlk | 6,265
+tamilmirrorlk | 6,266
 virakesarilk | 7,467
 adaderanasinhalalk | 8,071
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,071
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,725 (100.0%) of 46,725 articles have been extended.
+46,727 (100.0%) of 46,727 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,42 @@ Considering the investigation, will the examinate back?Not?The committee will de
 [Data](articles/ec890b97.json)
 
 [Extended Data](ext_articles/ec890b97.ext.json)
+
+---
+
+### Hasan Nasralla Death?Hizbullah unconfirmed
+
+*2024-09-28 15:55:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹசன்-நஸ்ரல்லா-மரணம்-உறுதிப்படுத்தாத-ஹிஸ்புல்லா/50-344613) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Israel claims Hassan Nasrallah killed in Beirut attack. Hezbollah denies. War escalates with over 2,500 injuries. Ceasefire calls from US, France, UK. Children among 100+ dead. Israel prepares ground assault, displacing 1 million. Casualties expected to rise.
+
+🟩
+
+Israel has officially announced that he was killed in an attack on Hassbullah leader Hasan Nasrallla in the Lebanese capital Beirut.
+
+Her daughter has been reported to be killed yesterday. But Hizbullah has not been informed about this.
+
+More than 2500 people were injured in the Page attack in the Lebanese capital Beirut.
+
+The Hizbullah Organization attacked Israel as the cause of the attack.
+
+Israel is starting an attack on Hezbollah in retaliation for this attack. More than 900 people are said to have been killed by fighter aircraft and rocket lockers.
+
+Israel has announced that it is preparing for a ground attack as about one million people have been displaced due to the war.
+
+Leaders of countries including the United States, France and the UK have said that the ceasefire should be announced.
+
+More than one hundred children have been killed in the attack so far and there is no time for the ceasefire, and that Lebanon-Israel should come up with peace talks.
+
+...
+
+[Data](articles/841b708f.json)
+
+[Extended Data](ext_articles/841b708f.ext.json)
 
 ---
 
@@ -487,6 +523,18 @@ It is reported that the driver of the bus and 3 schoolchildren were injured in t
 [Data](articles/912ff25b.json)
 
 [Extended Data](ext_articles/912ff25b.ext.json)
+
+---
+
+### Twin Challenges Facing The AKD Regime
+
+*2024-09-28 10:48:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/twin-challenges-facing-the-akd-regime/) · `en`
+
+...
+
+[Data](articles/87b9bde3.json)
+
+[Extended Data](ext_articles/87b9bde3.ext.json)
 
 ---
 
@@ -2177,53 +2225,5 @@ The new president has elected a new president voting for a change in the preside
 [Data](articles/d238dbfb.json)
 
 [Extended Data](ext_articles/d238dbfb.ext.json)
-
----
-
-### Central Bank Resolution to maintain interest rates
-
-*2024-09-27 18:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/194940) · `ta`
-
-Central Bank maintains interest rates at 8.25% and 9.25%. Economic growth projected higher than end-of-year forecast. Inflation target below 5%. GDP growth 5.3% Q1, 4.7% Q2. Meeting with President discussed current economic situation and IMF negotiations.
-
-🟩
-
-The Central Bank, which has decided to maintain interest rates in the past level, has said that the economic growth will be higher than that of the end of this year.
-
-A media briefing to announce the resolutions made at the 5th review meeting of the Municipal Council this year was organized today (27) at the Central Bank auditorium in Colombo.
-
-In the case, the Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, was briefed on the above economic reactions.
-
-Accordingly, the Monetary Board has decided to maintain the policy interest rate and the subsidiary loan rate at 8.25 per cent and 9.25 per cent respectively, and 2 per cent of the standard.
-
-Similarly, in the coming few quarters, inflation will be maintained in the future due to changes in prices and films that will be maintained at the level of less than 5 per cent.
-
-...
-
-[Data](articles/c0baf396.json)
-
-[Extended Data](ext_articles/c0baf396.ext.json)
-
----
-
-### Sri Lanka President appoints acting police chief after Supreme Court sacking of ex-IGP
-
-*2024-09-27 18:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-acting-police-chief-after-supreme-court-sacking-of-ex-igp-181373/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake appointed Senior DIG Priyantha Weerasuriya as the Acting Inspector General of Police (IGP), the President’s Media Division (PMD) said.
-
-The President’s Secretary Nandika Kumanayake presented the appointment letter to the Weerasuriya on Friday, the PMD said.
-
-Sri Lanka’s Supreme Court on July 24 suspended previous IGP Deshabandu Tennakoon from serving his office and suggested an acting appointment be made.
-
-The Supreme Court verdict on Tennekoon came after granting leave to proceed for nine fundamental rights petitions filed against his appointment as IGP.
-
-However, previous President Ranil Wickremesinghe did not appoint a successor as the Election Commission declared the presidential elections days after the court order.
-
-...
-
-[Data](articles/4ddff0d7.json)
-
-[Extended Data](ext_articles/4ddff0d7.ext.json)
 
 ---

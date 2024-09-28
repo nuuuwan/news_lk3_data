@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 19:08:35**
+As of **2024-09-28 19:22:52**
 
 ## Newspaper Stats
 
-*Scraped **46,740** Articles*
+*Scraped **46,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
-adaderanalk | 5,499
+adaderanalk | 5,500
 tamilmirrorlk | 6,266
 virakesarilk | 7,467
 adaderanasinhalalk | 8,078
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,078
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,740 (100.0%) of 46,740 articles have been extended.
+46,741 (100.0%) of 46,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Seven-member committee to decide on Grade 5 Scholarship Exam
+
+*2024-09-28 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102325/seven-member-committee-to-decide-on-grade-5-scholarship-exam) · `en`
+
+The Ministry of Education has taken steps to appoint a seven-member committee to decide whether or not this year’s Grade 5 Scholarship Examination should be re-conducted.
+
+Ministry Secretary Thilaka Jayasundara said that this decision was taken on the advice of Prime Minister Dr. Harini Amarasuriya.
+
+A problematic situation arose due to the alleged leakage of some questions in this year’s Scholarship Examination, while the Examinations Department as well as the Criminal Investigation Department (CID) had launched investigations.
+
+Education Ministry Secretary Thilaka Jayasundara added that the relevant committee will decide whether to conduct the examination again or not after considering the outcome of those investigations.
+
+◼️
+
+[Data](articles/1afd7dba.json)
+
+[Extended Data](ext_articles/1afd7dba.ext.json)
+
+---
 
 ### Is a new alliance from the Tamil and parties?
 
@@ -2205,29 +2225,5 @@ Senior Attorney J. M.. Wijebandara is also a former lecturer of the Faculty of t
 [Data](articles/758a5af1.json)
 
 [Extended Data](ext_articles/758a5af1.ext.json)
-
----
-
-### Daim Maggie Smith consequently to the isis
-
-*2024-09-27 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201614) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Magie Smith, star of Harry Potter films, had peaceful relationship with her sons according to statement issued by them.
-
-🟩
-
-Dim Magie Smith, Daim Magie Smith, is the popular actress who starred in Harry Potter films.
-
-Dam Magie Smith's two sons issued a statement saying that she was peaceable with her peace.
-
-◼️
-
-[Data](articles/c6eb1a5d.json)
-
-[Extended Data](ext_articles/c6eb1a5d.ext.json)
 
 ---

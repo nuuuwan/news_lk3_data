@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 22:56:00**
+As of **2024-09-28 23:08:04**
 
 ## Newspaper Stats
 
-*Scraped **46,755** Articles*
+*Scraped **46,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
 adaderanalk | 5,502
-tamilmirrorlk | 6,270
+tamilmirrorlk | 6,272
 virakesarilk | 7,470
-adaderanasinhalalk | 8,083
+adaderanasinhalalk | 8,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,755 (100.0%) of 46,755 articles have been extended.
+46,755 (100.0%) of 46,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### යුක්තිය මෙහෙයුම ගැන වැඩබලන පොලිස්පති කියූ කතාව
+
+*2024-09-28 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201646) · `si`
+
+අභිනවයෙන් පත්කෙරුණු වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා අද (28) ඓතිහාසික ශ්‍රී දළඳා මාළිගාවට පැමිණ ආශිර්වාද ලබාගත්තේය.
+
+ඉන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වු වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා,
+
+ප්‍රශ්නය - පසුගිය සමයේ යුක්තිය මෙහෙයුම ක්‍රියාත්මක වුණා. දැන් ඒකේ පොඩි අඩුවක් තියෙනවා කියලා මහානායක හාමුදුරුවෝ අපි සමග සඳහන් කළා ?
+
+වැඩබලන පොලිස්පති - "ක්‍රියාත්මක වීමේ සිදුවුණ අඩුපාඩු අපි නිරික්ෂණය කළා ඒවත් නිවැරදි කරමින් පොලීසියට අනපනත්වලින් ලැබී ඇති බලතල අනුව පොලීසිය මෙහෙයුම් කටයුතු ඉදිරියේදී  නොනවත්ව සිදුකරනවා. සහ වෙනත් රාජකාරිවල යොදවලා හිටපු නිලධාරීන් ඒ සඳහා යොමු කිරීමෙන් ඊට වැඩිය ධාරිතාවකින් යුක්තව ඉදිරියේදී ක්‍රියාත්මක වෙනවා."
+
+ප්‍රශ්නය - ප්‍රභූ ආරක්ෂාව සඳහා යොදවලා තිබූ පොලිස් නිලධාරීන් විශාල ප්‍රමාණයක් නැවතත් පොලිස් රාජකාරිවල අනුයුක්ත කරනවාද ?
+
+වැඩබලන පොලිස්පති - "පොලීසියේ නිලධාරීන්ගේ හිඟයක් තියෙනවා. ඒ හිඟයට විකල්ප පිළිතුරක් විදිහට මේ දක්වා වෙනත් රාජකාරිවල යොදවා සිටි නිලධාරීන් ඒ අවශ්‍යතාවය මත මහජන සේවය නිසි ආකාරව ඉටුකිරීම සඳහා විශේෂයෙන් අපරාධ වැළැක්වීම සඳහා යොදාගන්න කටයුතු කරනවා."
+
+◼️
+
+[Data](articles/fd1c8367.json)
+
+---
+
+### வினாத்தாள் கசிவு; விசாரணைக் குழு நியமனம்
+
+*2024-09-28 22:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-கசிவு-விசாரணைக்-குழு-நியமனம்/175-344620) · `ta`
+
+தரம் 5 புலமைப்பரிசில் வினாத்தாள் கசிந்த சம்பவம் தொடர்பில் ஆராய்வதற்காக 7 பேர் கொண்ட சுயாதீன விசாரணைக் குழுவொன்று நியமிக்கப்பட்டுள்ளது.
+
+சுயாதீன விசாரணை அதிகாரிகளும், சுயாதீன கண்காணிப்பு அதிகாரிகள் குழாமும் அந்தக் குழுவில் உள்ளடக்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/4adc9fa1.json)
+
+---
+
+### அமைச்சுகளுக்கான விடயதானங்கள்: வர்த்தமானி வெளியீடு
+
+*2024-09-28 22:23:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுகளுக்கான-விடயதானங்கள்-வர்த்தமானி-வெளியீடு/175-344619) · `ta`
+
+பாதுகாப்பு படைகளின் தலைமை அலுவலகம், இராணுவம், கடற்படை, விமானப்படை, அரச புலனாய்வு சேவை, இடர் முகாமைத்துவ நிலையம், வளிமண்டலவியல் திணைக்களம் உள்ளிட்ட 26 நிறுவனங்கள் பாதுகாப்பு அமைச்சின் கீழ் பட்டியலிடப்பட்டுள்ளன.
+
+நிதி, பொருளாதார அபிவிருத்தி, கொள்கை வகுப்பு, திட்டமிடல் மற்றும் சுற்றுலா அமைச்சின் கீழ் 62 நிறுவனங்கள் உள்ளன.
+
+வலுசக்தி அமைச்சின் கீழ் 11 நிறுவனங்களும், விவசாயம், காணி, கால்நடை வள, நீர்ப்பாசனம், மீன்பிடி, நீர் வழங்கல் அமைச்சின் கீழ் 35 நிறுவனங்களும் பட்டியலிடப்பட்டு அதிவிசேட வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+
+நீதி, அரச நிர்வாகம், உள்நாட்டலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி மன்றங்கள் மற்றும் தொழில் அமைச்சின் கீழ் 38 நிறுவனங்கள் உள்ளடக்கப்பட்டுள்ளன.
+
+கல்வி, விஞ்ஞானம் மற்றும் தொழில்நுட்ப அமைச்சின் கீழ் ஸ்ரீலங்கா டெலிகொம் நிறுவனம், தகவல் தொழில்நுட்ப முகவரகம், இலங்கை தகவல் பாதுகாப்பு அதிகாரசபை உட்பட 45 நிறுவனங்கள் இணைக்கப்பட்டுள்ளன.
+
+மகளிர், சிறுவர், இளைஞர் விவகாரங்கள் மற்றும் விளையாட்டு அமைச்சின் கீழ் 15 நிறுவனங்கள் வர்த்தமானியில் பட்டியலிடப்பட்டுள்ளன.
+
+...
+
+[Data](articles/858b7561.json)
+
+---
 
 ### Reestablishing the trust in Sri Lanka’s education system is critical – PM
 
@@ -2237,55 +2295,5 @@ Be it exploring the lush tea plantations of the hill country, soaking up the sun
 [Data](articles/6a1b6756.json)
 
 [Extended Data](ext_articles/6a1b6756.ext.json)
-
----
-
-### Uber Eats launches campaign focus on deliveries beyond food
-
-*2024-09-27 23:53:17* · [`dailyftlk`](https://www.ft.lk/business/Uber-Eats-launches-campaign-focus-on-deliveries-beyond-food/34-767260) · `en`
-
-Uber Eats, has unveiled a new campaign ‘Get Almost, Almost Anything’ focused on its expanded range of products, offering much more than just food delivery.
-
-It said customers can use the platform to order cooked meals, groceries, health and beauty products, pet food and more, catering to a variety of everyday needs.
-
-This campaign underscores Uber Eats’ growing role in the daily lives of Sri Lankans, with seamless delivery of their favourite food items and beverages; groceries for cooking at home; gifts for loved ones, and other essential items.
-
-...
-
-[Data](articles/6f2209e3.json)
-
-[Extended Data](ext_articles/6f2209e3.ext.json)
-
----
-
-### Aquafresh launches eco-friendly glass water bottles
-
-*2024-09-27 23:53:10* · [`dailyftlk`](https://www.ft.lk/business/Aquafresh-launches-eco-friendly-glass-water-bottles/34-767259) · `en`
-
-In an era where environmental sustainability is becoming a global priority, Aquafresh, one of Sri Lanka’s most recognised bottled water brands, has taken a significant leap by launching a new line of glass water bottles. This initiative aligns with the company’s long-standing mission of environmental stewardship, offering consumers an eco-friendly alternative to conventional plastic packaging while preserving the purity and quality they have come to trust.
-
-“Aquafresh has always been committed to providing pure, high-quality drinking water while ensuring we minimise our environmental impact. The introduction of our new glass water bottles reflects our ongoing dedication to sustainability, offering consumers an eco-friendly choice without compromising on quality,” said Access Natural Water Ltd., Executive Director A. D. Chinthaka.
-
-...
-
-[Data](articles/740f34a9.json)
-
-[Extended Data](ext_articles/740f34a9.ext.json)
-
----
-
-### DSI revolutionises footwear retail experience with new showroom at Town Hall
-
-*2024-09-27 23:53:00* · [`dailyftlk`](https://www.ft.lk/business/DSI-revolutionises-footwear-retail-experience-with-new-showroom-at-Town-Hall/34-767258) · `en`
-
-DSI, Sri Lanka’s number one footwear brand, recently announced the grand opening of its newly revamped showroom at Town Hall, Colombo 02, marking a significant milestone in DSI’s journey to redefine the footwear shopping experience in Sri Lanka.
-
-The redesigned showroom features a modern, inviting interior that seamlessly blends style and functionality, offering a more immersive and engaging atmosphere for customers. With a focus on enhanced customer engagement and product visibility, the revamped showroom is set to enhance the overall shopping experience for customers while elevating DSI’s retail presence to unprecedented heights.
-
-...
-
-[Data](articles/82d2c632.json)
-
-[Extended Data](ext_articles/82d2c632.ext.json)
 
 ---

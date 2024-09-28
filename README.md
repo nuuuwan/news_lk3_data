@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 10:22:54**
+As of **2024-09-28 10:38:13**
 
 ## Newspaper Stats
 
-*Scraped **46,692** Articles*
+*Scraped **46,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ colombotelegraphcom | 462
 islandlk | 2,739
 economynextcom | 2,840
 dailyftlk | 3,128
-adalk | 4,304
+adalk | 4,305
 dailymirrorlk | 4,733
 adaderanalk | 5,490
 tamilmirrorlk | 6,261
 virakesarilk | 7,462
-adaderanasinhalalk | 8,061
+adaderanasinhalalk | 8,062
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,692 (100.0%) of 46,692 articles have been extended.
+46,692 (100.0%) of 46,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### ජනාධිපතිවරයාගෙන් අතිවිශේෂ ගැසට් පත්‍රයක්
+
+*2024-09-28 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201621) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 44 වැනි ව්‍යවස්ථාවේ (1) අනු ව්‍යවස්ථාව යටතේ ජනධිපති අනුර කුමර දිසානායක මහතාට ඇති බලතල ක්‍රියාත්මක කරමින් අතිවිශේෂ ගැසට් පත්‍රය නිකුත් කර ඇත.
+
+විවිධ අමාත්‍යවරයන් භාරයේ පවත්නා විෂයයන්, කාර්යයන්, දෙපාර්තමේන්තු, ව්‍යවස්ථාපිත ආයතන හා රාජ්‍ය සංස්ථා යන ආයතනවල කාර්යයන් එහි විස්තර කර ඇත.
+
+◼️
+
+[Data](articles/c32bc1fd.json)
+
+---
 
 ### Gazette issued detailing functions and duties of new Ministries
 
@@ -43,6 +57,24 @@ The Gazette notification outlining the respective subjects, functions, duties, a
 [Data](articles/0eebfdcf.json)
 
 [Extended Data](ext_articles/0eebfdcf.ext.json)
+
+---
+
+### වීසා ලබා ගැනීමේ පෝලිම අඩුවෙයි
+
+*2024-09-28 09:17:09* · [`adalk`](https://www.ada.lk/breaking_news/වීසා-ලබා-ගැනීමේ-පෝලිම-අඩුවෙයි/11-412189) · `si`
+
+ශ්‍රී ලංකාවට පැමිණීම සදහා මෙතෙක් අත්හිහිටුවා '' මාර්ගගත ක්‍රමයට වීසා බලපත්‍ර " ( Online Visa ) ලබා දීම , යළි 09/27 දින අලුයම 12.00 පැයේ සිට ආරම්භ වී තිබේ .
+
+ඒ නිසා මේ වනවිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ ලබා ගත යුතු ( On Arrivel Visa ) වීසා බලපත්‍ර ලබා ගැනීම සදහා වූ පෝලිම බොහෝ සෙයින් අඩු වී තිබේ .
+
+එසේම රටවල් 14 කට ශ්‍රී ලංකාවට පැමිණ වීසා ලබා ගැනීමට ආරක්ෂක හේතූන් මත නොහැකි රටවල් , එම රටවල වැසියන් මෙරටට පැමිණීම සදහා මාර්ගගත ක්‍රමයට වීසා බලපත්‍ර ලබා ගැනීම හෝ එම රටවල ශ්‍රී ලංකා තානාපති කාර්යාලයෙන් වීසා බලපත්‍ර ලබා ගැනීම සිදු කළ යුතුය .
+
+මේ තත්වය  ශ්‍රී ලංකාවට යළිත්  සංචාරකයන්ගේ පැමිණීමේ වර්ධනයක් ඇති වීමට බලපා තිබෙන අතර , ඉදිරි මාස කීපය තුළ ශ්‍රී ලංකාවට සංචාරකයන් පැමිණීමේ කාළය ( Tourist Season ) උදා වීමට නියමිත අතර , මෙම වසර තුළ දී ශ්‍රී ලංකාවට විදේශීය සංචාරකයන් 23 ලක්ෂයක් රැගෙන ඒමට බලාපොරොත්තු වේ .
+
+◼️
+
+[Data](articles/2098dd48.json)
 
 ---
 
@@ -2143,53 +2175,5 @@ Subsequently, the employees of the Sri Lanka Tourism Promotion Bureau welcomed f
 [Data](articles/aa851c16.json)
 
 [Extended Data](ext_articles/aa851c16.ext.json)
-
----
-
-### Change in the price of chicken meat
-
-*2024-09-27 14:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியின்-விலையில்-மாற்றம்/175-344581) · `ta`
-
-Chicken meat prices may drop from Rs 1,000 to Rs 850 in two weeks due to decreased demand. Egg prices expected to fall by up to 20 rupees during festivals.
-
-🟩
-
-The All Ceylon Small Industry Owners Association said the price of poultry meat is expected to decline within the next two weeks.
-
-The association said the demand for poultry meat has declined drastically and the price will be reduced in the next two weeks.
-
-The president of the association, Nirkasha Kumara, said that the retail price of a kilogram of chicken meat is currently being sold at Rs 1,000 to Rs 1,100.
-
-He said the price could be reduced from Rs 900 to Rs 850 in the next fifteen days.
-
-Meanwhile, the price of egg is expected to fall by up to 20 rupees in the coming festive days. Remble
-
-◼️
-
-[Data](articles/766de101.json)
-
-[Extended Data](ext_articles/766de101.ext.json)
-
----
-
-### Excavations in Colombo mass grave will be resumed
-
-*2024-09-27 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201602) · `si`
-
-Colombo mass grave excavation resumes. Second phase begins under Professor Raj Somadeva's supervision.
-
-🟩
-
-The second phase of the mass grave found in Colombo has begun excavations.
-
-The Colombo Port met with a massive grave and the second phase of the second was commenced today.
-
-Professor Raj Somadeva and several others were excavations here.
-
-◼️
-
-[Data](articles/1db03b96.json)
-
-[Extended Data](ext_articles/1db03b96.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 19:22:52**
+As of **2024-09-28 19:38:23**
 
 ## Newspaper Stats
 
-*Scraped **46,741** Articles*
+*Scraped **46,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,500
 tamilmirrorlk | 6,266
 virakesarilk | 7,467
-adaderanasinhalalk | 8,078
+adaderanasinhalalk | 8,079
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,741 (100.0%) of 46,741 articles have been extended.
+46,742 (100.0%) of 46,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Two Ukrainians arrested for defrauding money through Facebook
+
+*2024-09-28 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201640) · `si`
+
+Ukrainian duo arrested for Facebook fraud. They scammed people via social media, stealing bank account details. Police caught them in Unawatuna. Suspects remanded until 30th.
+
+🟩
+
+Two Ukrainians have arrested two Ukrainians who cheated over Rs.
+
+Throughout the last few days, there have been advertised over Facebook.
+
+It should be included, including bank accounting information, including bank accounting information of persons entering the lane.
+
+The Criminal Investigation Division of the Criminal Investigation Division has received information that a group of people are racketeed by the bank accounts of the bank accounts.
+
+Accordingly, police officers have revealed that the relevant racket is being carried out from Unawatuna area.
+
+The investigating officers were arrested there.
+
+Investigations have revealed that they had been conducting the racket about 5 days ago and were carried out through a group of Telegraph.
+
+The suspects were produced before the Colombo Magistrate's Court today (28) and remanded until the 30th.
+
+◼️
+
+[Data](articles/8659baef.json)
+
+[Extended Data](ext_articles/8659baef.ext.json)
+
+---
 
 ### Seven-member committee to decide on Grade 5 Scholarship Exam
 
@@ -2197,33 +2229,5 @@ Israel said the headquarters of the Hesbullah organization was found within the 
 [Data](articles/a2f981e1.json)
 
 [Extended Data](ext_articles/a2f981e1.ext.json)
-
----
-
-### Senior Attorney J.. M.. Wizapandara appointment
-
-*2024-09-27 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/194953) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Senior Attorney J.M. Wijebandara appointed Director General of President's Office. Educated at Ananda College and University of Colombo. Former lecturer at University of Colombo.
-
-🟩
-
-Senior Attorney JM as the Director General of the President's Office by President Anuragumara Dissanayake. Wijebandara has been appointed.
-
-Senior Attorney JM at the Presidential Office at the Presidential Office on Friday afternoon by President of the President, Dr. Nandika Sanath Kumanayake.. Handed over to Wijebandara.
-
-Wijebandara, an alumnus of Ananda College, Colombo, holds a Bachelor's Degree at the University of Colombo and a Buddhist Degree in Open University.
-
-Senior Attorney J. M.. Wijebandara is also a former lecturer of the Faculty of the University of Colombo.
-
-◼️
-
-[Data](articles/758a5af1.json)
-
-[Extended Data](ext_articles/758a5af1.ext.json)
 
 ---

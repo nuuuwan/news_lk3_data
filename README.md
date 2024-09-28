@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 22:22:56**
+As of **2024-09-28 22:38:12**
 
 ## Newspaper Stats
 
-*Scraped **46,753** Articles*
+*Scraped **46,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
-adaderanalk | 5,500
+adaderanalk | 5,502
 tamilmirrorlk | 6,270
 virakesarilk | 7,470
 adaderanasinhalalk | 8,083
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,753 (100.0%) of 46,753 articles have been extended.
+46,753 (100.0%) of 46,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Reestablishing the trust in Sri Lanka’s education system is critical – PM
+
+*2024-09-28 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102327/reestablishing-the-trust-in-sri-lankas-education-system-is-critical-pm-) · `en`
+
+Prime Minister Dr. Harini Amarasuriya says that education is a key area which the new government will give the “highest priority” to and that they firmly believe reestablishing the trust in the country’s education system is critical.
+
+Addressing a workshop held for school principals at the Ananda College in Colombo today (28), she pointed out that there are several issues in the current education system and that one of the main problems is that the trust in the education system has “broken”.
+
+“As in many other areas of our society, people no longer trust that this system will work for them.”
+
+Dr. Amarasuriya, who is also the Education Minister, said children no longer believe in the importance of education nor do they feel as committed to the education system as perhaps a generation ago.
+
+...
+
+[Data](articles/a95b63f3.json)
+
+---
 
 ### The crime committing the motorcyclist
 
@@ -73,6 +91,26 @@ Weerasinghe said that if the financial conditions continue on the expected path,
 [Data](articles/c3156c5e.json)
 
 [Extended Data](ext_articles/c3156c5e.ext.json)
+
+---
+
+### General Election: Postal voting applications open from Oct. 1 - 7
+
+*2024-09-28 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102326/general-election-postal-voting-applications-open-from-oct-1-7) · `en`
+
+The Commissioner General of Elections, Saman Sri Ratnayake, has announced that postal voting applications for the upcoming parliamentary elections will be accepted from October 01 to October 8.
+
+Speaking at a media conference held in Colombo today (28), Ratnayake explained:
+
+“Postal voting applications will be accepted from October 1 to 8. In accordance with the Parliamentary Elections Act No. 01 of 1981, arrangements for accepting applications for postal votes must be made between the 7th and 14th days after the announcement of the election.”
+
+Accordingly, he requested all postal voters to have their postal vote applications for this parliamentary election certified by their institution head, register their vote, and submit it to the district returning officer.
+
+“This election is based on the 2024 voter list. Therefore, the voter list used for the last presidential election will be utilized,” he added.
+
+◼️
+
+[Data](articles/bb7269b4.json)
 
 ---
 
@@ -2245,41 +2283,5 @@ The redesigned showroom features a modern, inviting interior that seamlessly ble
 [Data](articles/82d2c632.json)
 
 [Extended Data](ext_articles/82d2c632.ext.json)
-
----
-
-### Team Europe and UN in support of a circular food system in Sri Lanka
-
-*2024-09-27 23:51:56* · [`dailyftlk`](https://www.ft.lk/columns/Team-Europe-and-UN-in-support-of-a-circular-food-system-in-Sri-Lanka/4-767257) · `en`
-
-A circular economy seeks to create value of by-products or waste, that otherwise will be discarded and lost
-
-As we celebrate the International Day of Awareness on Food Loss and Waste Reduction, we must understand that this is a global challenge, that affects all of us and we must all contribute to its solution. Whether we are policymakers, consumers, or food producers, the choices we make, can help shape a more sustainable future. Reducing food waste is not just a moral imperative; it is an economic necessity, especially when millions around the world face food insecurity
-
-On 29 September, we celebrate the International Day of Awareness on Food Loss and Waste Reduction, a reminder of the urgent need to transform how we produce, consume, and manage food.
-
-...
-
-[Data](articles/89932aef.json)
-
-[Extended Data](ext_articles/89932aef.ext.json)
-
----
-
-### United Nations adopts ground-breaking pact for the future to transform global governance
-
-*2024-09-27 23:49:44* · [`dailyftlk`](https://www.ft.lk/opinion/United-Nations-adopts-ground-breaking-pact-for-the-future-to-transform-global-governance/14-767256) · `en`
-
-New York: World leaders last week adopted a Pact for the Future that includes a Global Digital Compact and a Declaration on Future Generations.
-
-This pact is the culmination of an inclusive, years-long process to adapt international cooperation to the realities of today and the challenges of tomorrow. The most wide-ranging international agreement in many years, covering entirely new areas as well as issues on which agreement has not been possible in decades, the pact aims above all to ensure that international institutions can deliver in the face of a world that has changed dramatically since they were created.
-
-As the Secretary-General has said, “We cannot create a future fit for our grandchildren with a system built by our grandparents.”
-
-...
-
-[Data](articles/d6d64ca0.json)
-
-[Extended Data](ext_articles/d6d64ca0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 16:38:23**
+As of **2024-09-28 16:56:06**
 
 ## Newspaper Stats
 
-*Scraped **46,727** Articles*
+*Scraped **46,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,497
 tamilmirrorlk | 6,266
 virakesarilk | 7,467
-adaderanasinhalalk | 8,071
+adaderanasinhalalk | 8,072
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,727 (100.0%) of 46,727 articles have been extended.
+46,727 (100.0%) of 46,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### නිවසේදී පිළිස්සී අයෙක් මරුට
+
+*2024-09-28 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201633) · `si`
+
+නිවසක් තුළ ඇතිවූ ගින්නකට මැදිවීමෙන් 44 හැවිරිදි පුද්ගලයෙක් පිළිස්සී මියගොස් තිබේ.
+
+අද (28) අලුයම එම සිදුවීම වාර්තවී තිබුණේ, හලාවත කොස්වත්ත, තුන්මෝදර, නාත්තණ්ඩිය ප්‍රදේශයේදීය.
+
+මරණකරු ඉදිකරමින් පවතින තම නිවසේ කාමරයක් තුළ තනිව පදිංචිව සිට ඇති බව පොලීසිය සිදුකළ විමර්ශනයේදී අනාවරණය වී තිබේ.
+
+ගින්න ඇතිවීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර හලාවත, කොස්වත්ත පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/acd29b76.json)
+
+---
 
 ### The seven individual committee to make a decision on scholarship
 
@@ -2203,27 +2221,5 @@ It is noteworthy that the Railway Department has requested the people to use alt
 [Data](articles/9ebd7070.json)
 
 [Extended Data](ext_articles/9ebd7070.ext.json)
-
----
-
-### We do not join the coalition with the United People's Power - Prasanna Ranatunga
-
-*2024-09-27 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/194949) · `ta`
-
-Sri Lanka Freedom Party forms coalition with SLFP and left-wing parties for parliamentary election. Rejects United People's Power and United National Party alliances. Focuses on changing government rather than maintaining status quo.
-
-🟩
-
-We are not in a discussion between the United People's Power and the United National Party regarding joining the parliamentary election. Former Sri Lanka Freedom Party Minister Prasanna Ranatunga said that we are trying to form a widespread coalition with the Sri Lanka Freedom Party and the Left policymakers.
-
-He said this in the upcoming parliamentary elections.
-
-The new president has elected a new president voting for a change in the presidential election. It is better to change this than the same party in power. So we value people's decree. I have been in politics for 40 years for me. So we have been in the opposition. The president has to fulfill the promises made to the people. We are watching it.
-
-...
-
-[Data](articles/d238dbfb.json)
-
-[Extended Data](ext_articles/d238dbfb.ext.json)
 
 ---

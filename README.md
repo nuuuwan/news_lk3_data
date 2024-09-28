@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 11:09:37**
+As of **2024-09-28 11:22:43**
 
 ## Newspaper Stats
 
-*Scraped **46,700** Articles*
+*Scraped **46,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,840
 dailyftlk | 3,128
 adalk | 4,305
 dailymirrorlk | 4,733
-adaderanalk | 5,491
+adaderanalk | 5,492
 tamilmirrorlk | 6,262
 virakesarilk | 7,465
 adaderanasinhalalk | 8,063
@@ -26,63 +26,111 @@ adaderanasinhalalk | 8,063
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,695 (100.0%) of 46,700 articles have been extended.
+46,701 (100.0%) of 46,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
 
-### மாணவர்களை ஏற்றிச் சென்ற பேருந்து விபத்து
+### New Director General Legal of Presidential Secretariat appointed
+
+*2024-09-28 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102317/new-director-general-legal-of-presidential-secretariat-appointed-) · `en`
+
+President Anura Kumara Dissanayake has appointed Senior Advocate J.M. Wijebandara as the Director General Legal of the Presidential Secretariat.
+
+The appointment letter was presented to Mr. Wijebandara by Secretary to the President Dr. Nandika Sanath Kumanayake, the President’s Media Division stated.
+
+An alumnus of Ananda College, Colombo, Wijebandara holds a Bachelor of Arts (Honours) from the University of Colombo and a Bachelor of Laws (LLB) (Honours) from the Open University.
+
+Additionally, he is a former lecturer at the Faculty of Law at the University of Colombo.
+
+◼️
+
+[Data](articles/776c80aa.json)
+
+[Extended Data](ext_articles/776c80aa.ext.json)
+
+---
+
+### Bus accident
 
 *2024-09-28 10:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-ஏற்றிச்-சென்ற-பேருந்து-விபத்து/175-344609) · `ta`
 
-கண்டி – பதுளை பிரதான வீதியின் பெலிஹுல் ஓயா பகுதியில் நேற்று (27) பிற்பகல் பாடசாலை மாணவர்களை ஏற்றிச் சென்ற பேருந்து ஒன்று சாரதியின் கட்டுப்பாட்டை இழந்த நிலையில் விபத்துக்குள்ளாகியுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-இந்த விபத்தில் பேருந்தின் சாரதி மற்றும் 3 பாடசாலை மாணவர்கள் காயமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+
+"School bus crash: Driver loses control on Kandy-Badulla highway. 4 injured including driver and 3 students. Incident occurred yesterday."
+
+🟩
+
+A bus carrying school children in Beliul Oya on the Kandy -Badulla main road yesterday (27) has lost control of the driver.
+
+It is reported that the driver of the bus and 3 schoolchildren were injured in the accident. Remble
 
 ◼️
 
 [Data](articles/912ff25b.json)
 
+[Extended Data](ext_articles/912ff25b.ext.json)
+
 ---
 
-### சுத்தியலால் தாக்கப்பட்டு ஒருவர் கொலை ; சந்தேக நபர் கைது
+### Murder by hammering by hammer;Suspect arrested
 
 *2024-09-28 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194966) · `ta`
 
-குருணாகல், வாரியப்பொல, வல்பாலுவ பிரதேசத்தில் உள்ள வீடொன்றில் சுத்தியலால் தாக்கப்பட்டு ஒருவர் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+Man killed with hammer in house. Suspect arrested. Murder linked to affair with victim's wife. Police investigation reveals motive.
 
-குருணாகல், வாரியப்பொல, வல்பாலுவ பிரதேசத்தில் உள்ள வீடொன்றிற்குள் நுழைந்த திருடன் ஒருவன் பிடிப்பட்டுள்ளதாக 119 என்ற பொலிஸ் அவசர தொலைபேசி இலக்கத்திற்கு தகவல் கிடைத்துள்ளது.
+🟩
 
-இதனையடுத்து, சம்பவ இடத்திற்கு விரைந்த பொலிஸார் குறித்த வீட்டிற்குள் சென்று பார்த்த போது பிடிப்பட்ட திருடன் கொலை செய்யப்பட்டிருப்பதை கண்டுள்ளனர்.
+A suspect has been arrested in connection with the murder of a man who was hit by a hammer in a house in Valpaluwa, Kurunegala, Wariyapola and Valpaluwa area, police said.
 
-பின்னர், பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணையில், கொலை செய்யப்பட்டவர் திருடன் இல்லை எனவும் அவர் சந்தேக நபரின் மனைவியுடன் தகாத உறவில் ஈடுபட்டிருந்துள்ளதாகவும் தெரியவந்துள்ளது.
+A police emergency telephone number 119 has been informed that a thief has been caught by a thief who entered a house in Valpaluwa, Kurunegala, Wariyapola and Valpaluwa area.
 
-சம்பவத்தன்று கொலை செய்யப்பட்டவர் சந்தேக நபரின் மனைவியை பார்ப்பதற்காக குறித்த வீட்டிற்கு சென்றுள்ள நிலையில் வீட்டிற்குள் மறைந்திருந்த சந்தேக நபர் அவரை சுத்தியலால் தாக்கி கொலை செய்துள்ளதாக விசாரணையில் மேலும் தெரியவந்துள்ளது.
+Subsequently, the police rushed to the scene and saw that the thief was murdered when he went into the house.
+
+Subsequently, an investigation by the police revealed that the murderer was not thief and that he had been involved in an inappropriate relationship with the suspect's wife.
+
+Investigations revealed that the suspect had been hit by a hammer and murdered as the murderer had gone to the house to visit the suspect's wife.
 
 ◼️
 
 [Data](articles/abe51512.json)
 
+[Extended Data](ext_articles/abe51512.ext.json)
+
 ---
 
-### බදු ගෙවන්නන්ට දැනුම්දීමක්
+### A Notification for Taxpayers
 
 *2024-09-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201622) · `si`
 
-2023/2024 තක්සේරු වර්ෂය සඳහා ආදායම් බදු ගෙවිය යුතු සෑම තැනැත්තෙක්ම එම තක්සේරු වර්ෂය සඳහා ගෙවිය යුතු සියලුම ආදායම් බදු මුදල් 2024 සැප්තැම්බර් මස 30 දින හෝ එදිනට පෙර ගෙවා අවසන් කළ යුතු බව නිවේදනයක් නිකුත් කරමින් දේශීය ආදායම් දෙපාර්තමේන්තුව දන්වා සිටියි.
+Here's a 200-character summary:
 
-යම් තැනැත්තෙක් මේ පිළිබඳ කටයුතු නොකරන්නේ නම්, නොගෙවන හෝ ප්‍රමාද වී ගෙවන ආදායම් බදු වෙනුවෙන් නීති ප්‍රකාරව දණ්ඩනයකට සහ පොලියකට යටත් වන බවද එහි දැක්වෙයි.
 
-එමෙන්ම මෙම දඩ හෝ පොලී, අඩු කිරීමක් හෝ ඉවත් කිරීමක් සිදු නොකරන බවද එහි සඳහන් ය.
 
-තවද, ඕනෑම බදු වර්ගයක් සඳහා යම් තැනැත්තෙකු විසින් ගෙවිය යුතු බදු මුදල් නොගෙවා සිටීමෙන් ඇති වූ ' හිඟ බදු' පවතී නම්, ඒ සියල්ල 2024 ඔක්තෝබර් 30 දින හෝ එදිනට පෙර ගෙවා අවසන් කළ යුතු වේ.
+Taxpayers: Pay 2023/2024 income tax before Oct 30, 2024. Non-payment may incur penalties. Arrears must be settled by Oct 30, 2024. Failure to comply may result in legal actions under the Inland Revenue Act. Contact Regional Office for more information.
 
-එදිනට පසුව තවදුරටත් නොගෙවා සිටින හිඟ බදු පවතී නම්, ඒවා අයකර ගැනීමට දේශීය ආදායම් පනතේ සඳහන් පරිදි නීතිමය කටයුතු ඇතුළුව සියලුම ආකාරයේ අය ක්‍රියාමාර්ග අනුගමනය කිරීමට සිදුවන බවද එහි දැක්වෙයි.
+🟩
 
-...
+2023/2024 Every income tax owed to the valuation of Rs.
+
+It shows that if any person does not deal with this, the laws will be subject to non-paying or delayed income tax.
+
+It also says that this penalties, a reduction or removal.
+
+Furthermore, if the 'arrears have been paid to any tax for any tax, it must be completed on October 30, 2024 or on that day.
+
+If there are no further deficit, the deficit is no longer available, it is said that all kinds of legal action will be taken to be adopted as stated in the Inland Revenue Act.
+
+The Department of Inland Revenue has informed the 1944 or to obtain information with the Regional Office of the Department of Inland Revenue.
+
+◼️
 
 [Data](articles/b74808ac.json)
+
+[Extended Data](ext_articles/b74808ac.ext.json)
 
 ---
 
@@ -106,21 +154,27 @@ The suspect has been handed over to the Negombo Police Station.
 
 ---
 
-### நீர்கொழும்பில் 5  கஜமுத்துக்களுடன் ஒருவர் கைது
+### Arrested in Negombo with 5 Gajamuttu
 
 *2024-09-28 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194963) · `ta`
 
-நீர்கொழும்பு பிரதேசத்தில் 5 கஜமுத்துக்களை விற்பனை செய்ய தயாராக இருந்த சந்தேக நபர் ஒருவர் குற்றப் புலனாய்வுப் பிரிவினரால் நேற்று வெள்ளிக்கிழமை (27) கைது செய்யப்பட்டுள்ளார்.
+Negombo arrest: 38-year-old suspect caught selling 5 gajamuttu worth ₹1.2 crores. Handed to local police for investigation.
 
-கைது செய்யப்பட்ட சந்தேக நபர் கெலிஓயா பகுதியைச் சேர்ந்த 38 வயதுடையவர் ஆவார்.
+🟩
 
-இந்த கஜமுத்துக்களின் மொத்த பெறுமதி சுமார் ஒரு கோடியே இருபது இலட்சம் ரூபா என பொலிஸார் தெரிவித்தனர்.
+A suspect who was ready to sell 5 gajamuttu in the Negombo area was arrested by the Criminal Investigation Department yesterday (27).
 
-இதனையடுத்து, கைது செய்யப்பட்ட சந்தேக நபர் மேலதிக விசாரணைகளுக்காக நீர்கொழும்பு பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+The arrested suspect is 38 years old from Kelioia.
+
+The total value of these gajamuts is about one crore twenty lakhs of rupees, police said.
+
+Subsequently, the suspect has been handed over to the Negombo Police Station for further investigations.
 
 ◼️
 
 [Data](articles/7cab38fb.json)
+
+[Extended Data](ext_articles/7cab38fb.ext.json)
 
 ---
 
@@ -166,27 +220,37 @@ Gazette issued detailing functions and duties of new Ministries by Adaderana Onl
 
 ---
 
-### அமெரிக்காவின் தென்கிழக்கு பகுதியை தாக்கிய ஹெலன் சூறாவளி - 43 பேர் பலி
+### Helen hurricanes struck the southeastern part of the United States - 43
 
 *2024-09-28 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194964) · `ta`
 
-அமெரிக்காவின் தென்கிழக்கு பகுதியை வெள்ளிக்கிழமை  ஹெலீன் சூறாவளி தாக்கியதில் குறைந்தது 43 பேர் உயழிரிழந்துள்ளதோடு, இலட்சக்கணக்கானவர்களுக்கு  மின்சாரம் துண்டிக்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-புளோரிடா வளை குடாவை தாக்கிய சக்திவாய்ந்த சூறாவளி இதுவாகும். சூறாவளியால் வியாழக்கிழமை இரவு பெய்த  மழையினை அடுத்து மண்சரிவு ஏற்பட்டுள்ளது.
 
-இந்நிலையில், ஹெலன் சூறாவளி வலுவிழந்திருந்தாலும் அதிக காற்று, வெள்ளம் மற்றும் சூறாவளி அச்சுறுத்தல் தொடரும் என்று முன்னறிவிப்பாளர்கள் எச்சரிக்கை விடுத்துள்ளனர்.
 
-இன்னும் சில இடங்களில் 50 சென்றி மீட்டர் வரை அதி பலத்த மழை பெய்யும் என எதிர்வு கூறப்பட்டுள்ளது.
+"Hurricane Helen hits southeast US: 43 deaths, millions without power. High winds, floods forecasted. Heavy rainfall expected. 14th major US hurricane this year. Strong winds, heavy rain affect Florida, Georgia, Tennessee, Carolinas."
 
-அமெரிக்காவை தாக்கிய சூறாவளிகளில் 14 ஆவது சக்தி வாய்ந்த சூறாவளியாக இது பதிவாகியுள்ளது.
+🟩
 
-2017 ஆம் ஆண்டு ஐடா மற்றும் 1996 ஆம் ஆண்டு ஓபல் ஆகிய சூறாவளிகள்  460 மைல்கள்  காற்று வீசியுள்ளது.
+At least 43 people have died in the hurricane of the Southeast of the United States on Friday, and millions of electricity has been cut off.
 
-புளோரிடா, ஜோர்ஜியா, டென்னசி மற்றும் கரோலினாஸ் முழுவதும் பலத்த காற்று மற்றும் பலத்த மழையின் தாக்கம் பரவலாக உள்ளது.
+This is the powerful hurricane that struck the Florida Curve. The landslide caused by a tornado on Thursday night.
+
+In this case, the forecasts have warned that despite Helen's hurricane, high winds, floods and hurricane threats will continue.
+
+Heavy rainfall is expected to be increased up to 50 meters in some places.
+
+It was recorded as the 14th powerful hurricane in the hurricane that attacked the United States.
+
+Hurricanes in 2017 and Oplle in 1996 have been blowing 460 miles.
+
+The impact of strong winds and heavy rainfall is widespread throughout Florida, Georgia, Tennessee and Carolinas.
 
 ◼️
 
 [Data](articles/62c7243b.json)
+
+[Extended Data](ext_articles/62c7243b.ext.json)
 
 ---
 
@@ -2157,27 +2221,5 @@ He has handed over his resignation letter to the Mass Media Minister Vijitha Her
 [Data](articles/62396570.json)
 
 [Extended Data](ext_articles/62396570.ext.json)
-
----
-
-### The police protection provided to former MPs removes
-
-*2024-09-27 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201603) · `si`
-
-Former MPs lose police protection as officers reassigned after parliament dissolution on Tuesday.
-
-🟩
-
-The police officers who were attached to the security of former MPs have been summoned from today (27), police said.
-
-All police officers who have provided former Speaker, former Speaker and former Opposition Leaders have been taken up again.
-
-President Anura Kumara Dissanayake has dissolved the Parliament from 24th at Tuesday (24).
-
-◼️
-
-[Data](articles/cbe2b050.json)
-
-[Extended Data](ext_articles/cbe2b050.ext.json)
 
 ---

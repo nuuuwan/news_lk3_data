@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 11:58:12**
+As of **2024-09-28 12:12:07**
 
 ## Newspaper Stats
 
-*Scraped **46,705** Articles*
+*Scraped **46,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,492
 tamilmirrorlk | 6,263
 virakesarilk | 7,465
-adaderanasinhalalk | 8,063
+adaderanasinhalalk | 8,064
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,705 (100.0%) of 46,705 articles have been extended.
+46,706 (100.0%) of 46,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### New Zealand help in Galle
+
+*2024-09-28 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201623) · `si`
+
+New Zealand wins first Test against Sri Lanka in Galle. NZ scored 514/7, beating SL's 602/10. Faye Jayasuriya top-scored for SL with 42. Prabath and Nishan took 3 wickets each for SL. Mitchell Santner highest scorer for NZ with 29.
+
+🟩
+
+Sri Lanka and New Zealand won the first innings to 88 runs in the first innings of the first Test match between New Zealand in Galle.
+
+Accordingly, New Zealand team is 514 runs more than 602 runs in the first innings.
+
+Fibe Jayasuriya, who was bowled out for 42 runs.
+
+In addition to Prabath, Nishan fires played three wickets for 33 runs.
+
+The highest innings in New Zealand innings was 29 marks for Mitchell Santnor.
+
+◼️
+
+[Data](articles/bc4cb112.json)
+
+[Extended Data](ext_articles/bc4cb112.ext.json)
+
+---
 
 ### Warning for those who do not pay taxes for the year
 
@@ -2199,33 +2225,5 @@ The century obtained in 145 balls took 6 fours and 3 hits.
 [Data](articles/8edb1879.json)
 
 [Extended Data](ext_articles/8edb1879.ext.json)
-
----
-
-### 35,000 fines for a person who had the tortoise
-
-*2024-09-27 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/194924) · `ta`
-
-A 47-year-old man was fined Rs 35,000 for possessing a turtle. The animal weighed about 4 kg and was intended for breeding or sale as meat. Police recovered it during an arrest.
-
-🟩
-
-A person who has a turtle has been given an ornament of Rs 35,000 by the Chief Magistrate Isuru Nethikumar.
-
-A 47 -year -old Ranepura Hewage Ajith, a 47 -year -old from Galle Gallekana, has been fined.
-
-The turtle weighing about four kilograms has been recovered after police arrested the suspect and searched his bag.
-
-Initial inquiries revealed that the turtle was being carried to breed at a pond in his home garden, and further investigations were to be sold for meat.
-
-In this case, the Criminal Investigation Division (CID) in charge of the Criminal Investigation Division has produced the suspect in court on the directive of Dhammika Nagahawatta.
-
-Meanwhile, the suspect has been given an ornament of Rs 35,000 by the Chief Magistrate Isuru Nethikumara.
-
-◼️
-
-[Data](articles/24cf0ffe.json)
-
-[Extended Data](ext_articles/24cf0ffe.ext.json)
 
 ---

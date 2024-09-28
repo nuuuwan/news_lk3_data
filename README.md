@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 01:57:14**
+As of **2024-09-29 02:08:18**
 
 ## Newspaper Stats
 
-*Scraped **46,759** Articles*
+*Scraped **46,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,51 @@ dailymirrorlk | 4,733
 adaderanalk | 5,502
 tamilmirrorlk | 6,273
 virakesarilk | 7,470
-adaderanasinhalalk | 8,084
+adaderanasinhalalk | 8,085
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,759 (100.0%) of 46,759 articles have been extended.
+46,760 (100.0%) of 46,760 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-09-29 (Sunday)
+
+### O / L results released
+
+*2024-09-29 01:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201647) · `si`
+
+GCE Ordinary Level results released. Check online at doenets.lk, duens.lk, resules.exams.gov.lk. Contact principals for username/password. Re-exam deadline: Oct 14. 52,979 school candidates, 65,331 private candidates. Exam held May 6-15 at 3,527 centers.
+
+🟩
+
+The results of the GCE Ordinary Level (Ordinary Level) has been released.
+
+Department of Examinations stated that the results were issued in midnight yesterday (28).
+
+The Department of Examinations announced that the exam results could be obtained from www.doenets.lk or www.duens.lk or www.resules.exams.gov.lk
+
+It is also reported that the following is the username and password given to all principals will be provided with a printed copy and obtain a printed copy.
+
+The Department of Examinations said that the results of the 1912 instant telephone number, 011 2, 785 922, 011 2 786, 011 2 786 or 011 2 786 or 011 2 786 or 011 2 784.
+
+The call for the re-examination is done until October 14th of October.
+
+The average number of 52,979 applicants appeared for the GCE Ordinary Level examination, 87,648 of them were school candidates.
+
+The Department of Examinations said that 65,331 have been examined as private candidates.
+
+The examination was conducted in 3,527 examination centers from 6th to 15th May.
+
+◼️
+
+[Data](articles/9b0b4a8a.json)
+
+[Extended Data](ext_articles/9b0b4a8a.ext.json)
+
+---
 
 ### 2024-09-28 (Saturday)
 
@@ -2313,21 +2349,5 @@ While our export revenue has grown to $ 163 million in 2023, it has not kept pac
 [Data](articles/5ff0ea2a.json)
 
 [Extended Data](ext_articles/5ff0ea2a.ext.json)
-
----
-
-### Free Trade Zone Manufacturers’ Association congratulates PM Harini
-
-*2024-09-27 23:54:04* · [`dailyftlk`](https://www.ft.lk/business/Free-Trade-Zone-Manufacturers-Association-congratulates-PM-Harini/34-767262) · `en`
-
-The Free Trade Zone Manufacturers’ Association (FTZMA) has extended its heartfelt congratulations to newly appointed Prime Minister Dr. Harini Amarasuriya.
-
-“Your appointment as the 16th and third woman to serve in this capacity in Sri Lanka’s history is seen as a significant step forward for gender representation in our country’s politics and is expected to inspire a new generation of female leaders,” said a congratulatory letter signed by FTZMA Chairman Dhammika Fernando and Hon. Secretary Tyronne Weckasinghe.
-
-...
-
-[Data](articles/c97ff87f.json)
-
-[Extended Data](ext_articles/c97ff87f.ext.json)
 
 ---

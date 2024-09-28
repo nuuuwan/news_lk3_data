@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 03:38:08**
+As of **2024-09-29 03:57:11**
 
 ## Newspaper Stats
 
@@ -668,22 +668,6 @@ Sirisena, who spoke of Samba, Nadu, milk samba, cultivating the advantages of cu
 
 ---
 
-### The Prelate and the Premier:                                     Why   Mapitigama Buddharakkitha  Thera got  SWRD Bandaranaike Assaassinated.
-
-*2024-09-28 17:30:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84800) · `en`
-
-Sri Lanka’s newly elected president Anura Kumara Dissanayake has appointed Dr.Harini Amarasuriya as  his Prime minister. The academic turned politico is Sri Lanka’s third woman prime minister. The first woman PM of  the Island nation was Sirimavo Bandaranaike.  Sirimavo shattered a global glass ceiling in 1960  by becoming the world’s first woman prime minister.Her daughter Chandrika Kumaratunga became the second woman PM in 1994. Subsequently she  too made history  as Sri Lanka’s first woman president.
-
-As is well known Sirimavo and Chandrika were the wife and daughter of  formr Prime Minister  Solomon West Ridgeway Dias Bandaranaike (SWRDB) respectively. Prime Minister  Bandaranaike was killed in 1959. He died on 26 September 1959.. SWRDB was born on January 8th 1899. As such this year marks the 125th birth and 65th death anniversaries  of Bandaranaike.
-
-...
-
-[Data](articles/b9f5b454.json)
-
-[Extended Data](ext_articles/b9f5b454.ext.json)
-
----
-
 ### Circular in relation to all schools
 
 *2024-09-28 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201638) · `si`
@@ -725,6 +709,22 @@ Organized annually by the Sri Lanka Book Publishers’ Association, the “Colom
 [Data](articles/4fa6a4ad.json)
 
 [Extended Data](ext_articles/4fa6a4ad.ext.json)
+
+---
+
+### The Prelate and the Premier:                                     Why   Mapitigama Buddharakkitha  Thera got  SWRD Bandaranaike Assaassinated.
+
+*2024-09-28 17:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84800) · `en`
+
+Sri Lanka’s newly elected president Anura Kumara Dissanayake has appointed Dr.Harini Amarasuriya as  his Prime minister. The academic turned politico is Sri Lanka’s third woman prime minister. The first woman PM of  the Island nation was Sirimavo Bandaranaike.  Sirimavo shattered a global glass ceiling in 1960  by becoming the world’s first woman prime minister.Her daughter Chandrika Kumaratunga became the second woman PM in 1994. Subsequently she  too made history  as Sri Lanka’s first woman president.
+
+As is well known Sirimavo and Chandrika were the wife and daughter of  formr Prime Minister  Solomon West Ridgeway Dias Bandaranaike (SWRDB) respectively. Prime Minister  Bandaranaike was killed in 1959. He died on 26 September 1959.. SWRDB was born on January 8th 1899. As such this year marks the 125th birth and 65th death anniversaries  of Bandaranaike.
+
+...
+
+[Data](articles/b9f5b454.json)
+
+[Extended Data](ext_articles/b9f5b454.ext.json)
 
 ---
 

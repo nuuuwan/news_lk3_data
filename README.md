@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 12:38:21**
+As of **2024-09-28 13:07:53**
 
 ## Newspaper Stats
 
-*Scraped **46,706** Articles*
+*Scraped **46,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ colombotelegraphcom | 462
 islandlk | 2,739
 economynextcom | 2,841
 dailyftlk | 3,129
-adalk | 4,306
+adalk | 4,307
 dailymirrorlk | 4,733
 adaderanalk | 5,492
 tamilmirrorlk | 6,263
-virakesarilk | 7,465
-adaderanasinhalalk | 8,064
+virakesarilk | 7,466
+adaderanasinhalalk | 8,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,706 (100.0%) of 46,706 articles have been extended.
+46,709 (100.0%) of 46,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### There is no information about the thousands of government vehicles
+
+*2024-09-28 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201624) · `si`
+
+National Audit Office reports thousands of government vehicles missing. Investigation ongoing. Highest number missing from Ministry of Health. Report to be prepared on disappearances.
+
+🟩
+
+The National Audit Office reveals that thousands of government vehicles have been disappeared in recent years.
+
+Government Auditor General. Wickremaratne said that a full report will be prepared for the disappearance or misplacement.
+
+The new government was exposed to the former ministries and presidential vehicles and several official vehicles used by the Presidential advisors were present on the Galle Warewora.
+
+In this backdrop, the National Audit office has been reported, health, education, mail, irrigation and the Presidential Secretariat has recently missing.
+
+The highest number of vehicles are missing into the Ministry of Health.
+
+Accordingly, the National Audit Office has launched an investigation into the matter and the government's Auditor General. Mr. Wickremaratne said that the investigation was conducted by the Commissioner of Motor Traffic.
+
+After this audit, a complete report will be prepared with regard to missing government vehicles, he said.
+
+◼️
+
+[Data](articles/f94d1c9b.json)
+
+[Extended Data](ext_articles/f94d1c9b.ext.json)
+
+---
+
+### Increase in threat of elephants;Impact the livelihood of the villagers
+
+*2024-09-28 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194972) · `ta`
+
+Elephant threats increase in villages, damaging crops and disrupting lives. Villagers report no action from authorities despite written complaints.
+
+🟩
+
+Villagers have said that the threat of elephants has increased in the villages of Kahatagastikiliya, Konvewa and Padarellava.
+
+The villagers point out that the elephants enter the village and destroy the crops and that the livelihood of the villagers has been severely affected.
+
+Also, people have been inconvenienced as elephants roam overnight in rural areas such as Pangwella, Tektipothana, Kimbulpettiya and Themadawewa.
+
+The villagers point out that no action has been taken so far that the state officials have been in writing and verbally.
+
+◼️
+
+[Data](articles/6e87a4f4.json)
+
+[Extended Data](ext_articles/6e87a4f4.ext.json)
+
+---
 
 ### New Zealand help in Galle
 
@@ -201,6 +255,24 @@ The suspect has been handed over to the Negombo Police Station.
 [Data](articles/27b93f36.json)
 
 [Extended Data](ext_articles/27b93f36.ext.json)
+
+---
+
+### A taxpayer announced
+
+*2024-09-28 10:17:11* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ගෙවන්නන්ට-නිවේදනයක්/11-412191) · `si`
+
+Taxpayer announcement: 2023/2024 income tax deadline set for September 30. Inland Revenue warns of legal consequences for late payment.
+
+🟩
+
+2023/2024 Income tax of income for the financial year, the Inland Revenue Department says that the tax will be paid before September 30. According to the Department, the taxes will be subject to legal action from legal action.
+
+◼️
+
+[Data](articles/9a0208dc.json)
+
+[Extended Data](ext_articles/9a0208dc.ext.json)
 
 ---
 
@@ -2153,77 +2225,5 @@ KUML (182 not out) and Kusal Mendis (106 out) had added 200 points for the 6th w
 [Data](articles/a9d77673.json)
 
 [Extended Data](ext_articles/a9d77673.ext.json)
-
----
-
-### A case against Mahindananda and Nalin fails
-
-*2024-09-27 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201606) · `si`
-
-Case against Mahindananda Aluthgamage and Nalin Fernando fails. Bribery allegations dismissed. High Court judges order summary judgment. Case promoted to Court of Appeal due to judge promotion. Accused of purchasing karamobods worth Rs. 53 million in 2015 presidential election.
-
-🟩
-
-Bribery Minister Mahindananda New Gamage and former Minister of Sports Nalin Fernando, who has been accused of purchasing over Rs.The three-member High Courts, Colombo ordered the summy.
-
-The case was heard before the Bench, High Court of Justice Amal Ranarajah, Pradeep Hettiarachchi and Mahein Weeraman.
-
-The case was a promotion to the Court of Appeal, as a judge of the Judge Amal Ranaraja has been promoted to the Court of Appeal, as a result of a promotion to the Court of Appeal.
-
-Former Sports Minister Mahindananda Aluthgamage and former Trade Minister has been accused of purchasing 14,000 karamobods worth Rs. 53 million in the 2015 presidential election.The case has been filed against Nalin Fernando.
-
-◼️
-
-[Data](articles/6eb92e19.json)
-
-[Extended Data](ext_articles/6eb92e19.ext.json)
-
----
-
-### Japanese government will cooperate fully with the program to eliminate corruption and irregularities
-
-*2024-09-27 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/194923) · `ta`
-
-Japanese government commits to anti-corruption efforts and supports 11 development projects in Sri Lanka, including water management schemes and infrastructure programs.
-
-🟩
-
-Japanese Ambassador to Sri Lanka Missukoshi Hidaygi has said that the Japanese government will cooperate with the government's main task of the government headed by President Anura Kumara Dissanayake.
-
-The Japanese Ambassador promised that the 11 projects that were started with the help of the Japanese government would be started immediately.
-
-Japanese Ambassador Missukoshi Hidaygi said this when he met President's Secretary Dr. Nandika Sanath Kumanayake on Wednesday (26).
-
-Accordingly, the Kandy City Water Management Scheme, the Second Stage of the Bandaranaike International Airport Development Program, the Digitalization of TV Broadcasting, the National Broadcasting and the Distribution Network Development Program, the Second Stage of the Anuradhapura North Water Project, the Rural Infrastructure Development Program,
-
-The Kalu Ganga Water Supply Scheme, Health and Medical Services Development Program will be resumed soon.
-
-...
-
-[Data](articles/7889537d.json)
-
-[Extended Data](ext_articles/7889537d.ext.json)
-
----
-
-### Super Century from Kusal
-
-*2024-09-27 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201605) · `si`
-
-Kusal Mendis scores 100th century in 67th Test match against New Zealand. Achieves milestone in 145 balls with 6 fours and 3 sixes.
-
-🟩
-
-Kusal Mendis won a century in the second Test match between Sri Lanka and New Zealand.
-
-Kusal reported that the 67th Test cricket match recorded his 10th Test century.
-
-The century obtained in 145 balls took 6 fours and 3 hits.
-
-◼️
-
-[Data](articles/8edb1879.json)
-
-[Extended Data](ext_articles/8edb1879.ext.json)
 
 ---

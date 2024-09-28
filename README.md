@@ -1,36 +1,120 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 13:57:52**
+As of **2024-09-28 14:38:16**
 
 ## Newspaper Stats
 
-*Scraped **46,712** Articles*
+*Scraped **46,717** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 387
-bbccomsinhala | 462
+bbccomsinhala | 463
 colombotelegraphcom | 463
 islandlk | 2,739
 economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,307
 dailymirrorlk | 4,733
-adaderanalk | 5,494
-tamilmirrorlk | 6,263
-virakesarilk | 7,466
+adaderanalk | 5,496
+tamilmirrorlk | 6,264
+virakesarilk | 7,467
 adaderanasinhalalk | 8,065
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,711 (100.0%) of 46,712 articles have been extended.
+46,717 (100.0%) of 46,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Thousands of state vehicles magic
+
+*2024-09-28 14:00:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயிரக்கணக்கான-அரச-வாகனங்கள்-மாயம்/175-344611) · `ta`
+
+State vehicles vanish under new government. Thousands gone from health, education, postal services. Report pending.
+
+🟩
+
+Thousands of state vehicles have disappeared in the past and a full report on the missing vehicles will be prepared.. Wickramaratne said.
+
+After the new government came to power, many official vehicles used by former ministry secretaries and president's advisers were recently parked in the Galle Face.
+
+Against this backdrop, thousands of vehicles belonging to many state institutions including health, education, postal, irrigation and presidential secretariat have been reported to the National Audit Office that they have disappeared in the past.. Remble
+
+◼️
+
+[Data](articles/45924c83.json)
+
+[Extended Data](ext_articles/45924c83.ext.json)
+
+---
+
+### Hezbollah leader Hassan Nasrallah killed in Beirut strike - Israel Army
+
+*2024-09-28 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102321/hezbollah-leader-hassan-nasrallah-killed-in-beirut-strike-israel-army) · `en`
+
+The Israeli military said Saturday that they had killed Hassan Nasrallah, the leader of the Hezbollah militant group, in a strike in Beirut on Friday.
+
+The military said that they carried out a precise airstrike while Hezbollah leadership was meeting at their headquarters in Dahiyeh, south of Beirut.
+
+Israel maintained a heavy barrage of airstrikes against Hezbollah on Saturday, as Hezbollah launched dozens of rockets toward Israel.
+
+The Israeli military said it was mobilizing additional reserve soldiers as tensions escalate with Lebanon. The military said Saturday morning it was activating three battalions of reserve soldiers, after earlier sending two brigades to northern Israel earlier in the week to train for a possible ground invasion.
+
+...
+
+[Data](articles/cbef8c3f.json)
+
+[Extended Data](ext_articles/cbef8c3f.ext.json)
+
+---
+
+### Anura Meddegoda appointed new BASL President
+
+*2024-09-28 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102320/anura-meddegoda-appointed-new-basl-president) · `en`
+
+President’s Counsel Anura Meddegoda has been appointed as the new President of the Bar Association of Sri Lanka (BASL).
+
+Meanwhile, President’s Counsel Razik Zarook has been appointed as the Deputy President of the BASL.
+
+The position of BASL President had remained vacant following the resignation of President’s Counsel Kaushalya Nawaratne from the post on September 13.
+
+The Bar Council of the Bar Association of Sri Lanka (BASL) on August 31 had unanimously decided to call for the resignation of Nawaratne, following an inquiry into allegations related to the BASL project funded by the JICA relating to the promotion of a transparent and competitive business climate (Anti-Corruption) in Sri Lanka.
+
+A former Chairman of the Consumer Affairs Authority (CAA), Meddegoda is a President’s Counsel (since 2017) with over 40 years of legal experience. He served in the Attorney General’s Department (as Senior State Counsel) for nearly 20 years.
+
+...
+
+[Data](articles/60351ca1.json)
+
+[Extended Data](ext_articles/60351ca1.ext.json)
+
+---
+
+### Anura Mattegoda appoints as president of the Sri Lanka Lawyers Association
+
+*2024-09-28 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/194983) · `ta`
+
+Anura Mattegoda named President, Rasik Saru Deputy Chairman of Sri Lanka Lawyers Association. Appointments fill vacancies left by resigning leaders Kausalya Nawaratne and Nalinda Ilinda.
+
+🟩
+
+Anura Mattegoda has been appointed as the President of the Sri Lanka Attorney's Association and Rasik Saru as Deputy Chairman.
+
+Secretary Sathura Kalhena Melam said the appointments were made for the vacancies caused by the resignation of former President of the Lawyers Association Kausalya Nawaratne and former Deputy Chairman Nalinda Ilinda.
+
+◼️
+
+[Data](articles/19fb7176.json)
+
+[Extended Data](ext_articles/19fb7176.ext.json)
+
+---
 
 ### Israel strikes Beirut  in a huge blast targeting Hezbollah’s leader
 
@@ -45,6 +129,8 @@ Hezbollah leader Hassan Nasrallah was the target of the strikes, according to tw
 ...
 
 [Data](articles/7c78ebee.json)
+
+[Extended Data](ext_articles/7c78ebee.ext.json)
 
 ---
 
@@ -651,6 +737,44 @@ The magisterial inquiry into the body is to be taken up with the age of 36 years
 [Data](articles/a5df3f2d.json)
 
 [Extended Data](ext_articles/a5df3f2d.ext.json)
+
+---
+
+### Kumara Welgama: Memorable memory of a "news created" in Sri Lankan politics
+
+*2024-09-28 07:43:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj4deqdy5xyo) · `si`
+
+Here's a 200-character summary of Kumara Welgama's political career:
+
+
+
+Sri Lankan politician known as "Kalugoda Lion". Active in politics for 40+ years, serving as MP, Minister, Deputy Minister. Controversial figure with strong opinions. Criticized government policies, supported opposition candidates. Known for blunt statements in parliament. Died in 2023 at age 74.
+
+🟩
+
+Kumara Welgama: Memorable memory of a "news created" in Sri Lankan politics
+
+Former Minister Kumara Welgama, who was known in the 'Kalugoda Lion' nickname, was engaged in active politics in Sri Lanka for more than four decades.
+
+He was once illustrated in Colombo and died while he was 74 years old.
+
+His contemporary politicians believe that he was a severe communicate, as a seriously remembering politician.
+
+Katuma Welgama, who is born on April 5, 1950, is a businessman in the field of transport. The father of Welgama and Berice Welgama were born.
+
+He was studying at St. Thomas' College, Mount Lavinia and was a planned person and businessman.
+
+Growing up in a family of 5 members, he was two sons.
+
+He once said in a television interview, "I am coming from a public business family in Sri Lanka,". He said that his father was a businessman for the number of lorries in the country's transport.
+
+Kumara Welgama's brothers and businessmen are businessmen and businesses (Pvt) Limited, Lands and IDeal motors.
+
+...
+
+[Data](articles/6d7a9c90.json)
+
+[Extended Data](ext_articles/6d7a9c90.ext.json)
 
 ---
 
@@ -1304,9 +1428,9 @@ Rest assured that those ramifications are being felt in nation, state, country, 
 
 *2024-09-27 23:38:04* · [`dailyftlk`](https://www.ft.lk/columns/Strengthening-governance-in-Sri-Lanka-Case-for-an-External-Policy-Review-Board/4-767254) · `en`
 
-The proposal for the EPRB marks a proactive step toward not only refining the quality of governance but also upholding the principles of transparency and accountability foundational to our democratic ethos
-
 While Sri Lanka is commendably moving toward better governance, there remains room for substantial improvement. Enhancing our policy-making processes is critical for continuing this forward momentum. The proposed establishment of an External Policy Review Board (EPRB) offers a significant opportunity to deepen our commitment to transparent and effective governance.
+
+The EPRB, as envisaged, would be comprised of 10 interdisciplinary experts, each bringing a depth of knowledge essential for the nuanced evaluation of Government policies. This board would operate as a confidential advisory body, providing independent reviews and recommendations directly to the President and policy framers. This structure is designed to ensure all Government and citizen-initiated policies undergo rigorous scrutiny, aligning with national and international standards.
 
 ...
 
@@ -2081,127 +2205,5 @@ Senior Deputy Inspector General of Police Priyantha Weerasuriya has been appoint
 [Data](articles/cac056f6.json)
 
 [Extended Data](ext_articles/cac056f6.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 298.70/299.00 to US dollar, bond yields down
-
-*2024-09-27 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-298-70-299-00-to-us-dollar-bond-yields-down-181347/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated further to close at 298.70/299.00 to the US dollar Friday, from 299.90/300.10 a day earlier, while bond yields were also down.
-
-A bond maturing on 15.12.2026 closed at 10.65/80 percent, down from 10.65/85 percent.
-
-A bond maturing on 15.12.2027 closed at 11.40/55 percent, down from 11.65/90 percent.
-
-A bond maturing on 15.02.2028 closed at 11.75/85 percent, down from 12.05/20 percent.
-
-A bond maturing on 15.05.2030 closed at 11.90/12.05 percent, down from 12.45/55 percent. (Colombo/Sep27/2024)
-
-◼️
-
-[Data](articles/26e2e9e7.json)
-
-[Extended Data](ext_articles/26e2e9e7.ext.json)
-
----
-
-### Acting IGP Priyantha Weerasuriya
-
-*2024-09-27 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201608) · `si`
-
-Priyantha Weerasuriya, a senior police officer with over 36 years of experience, has been appointed as acting Inspector General of Police (IGP). He previously served as Senior Deputy Inspector General (DIG) in charge of the North Central Province.
-
-🟩
-
-Senior DIG Priyantha Weerasuriya has been appointed as acting IGP.
-
-He was the Senior DIG in charge of the North Central Province.
-
-He is an officer who owns more than 36 years of the Police Department.
-
-He was later promoted to the post of Senior DIG.
-
-◼️
-
-[Data](articles/47ea7e77.json)
-
-[Extended Data](ext_articles/47ea7e77.ext.json)
-
----
-
-### I will not contest the election this time: Justice Wigneswaran
-
-*2024-09-27 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/194901) · `ta`
-
-Justice Wigneswaran announces he won't contest the next election, emphasizing his commitment to Tamil rights and nationalism. He encourages youth involvement in politics and expresses gratitude for past support.
-
-🟩
-
-Former MP and Justice Wigneswaran said that I will not contest the election this time but will not contest the election this time but my political service will continue.
-
-In that statement, the aim of the establishment of our party, the Tamil People's Alliance, is to defend the Tamil people's rights to protect the Tamil nationalism from disintegrating.. Accordingly, we are carrying out political activities for the Tamil people by glowing with political experiences and young people.
-
-In the last parliamentary election, people have voted for me and sent it to Parliament. My desire is that those who are mature in politics should be supported and guided by the politician in our party.
-
-I demand that the political maturity of other Tamil parties like me be a way of contesting the upcoming parliamentary elections for the youth.
-
-As a role model for this, I continue to contest the work of our Tamil People's Alliance and I will not contest the upcoming parliamentary elections.
-
-...
-
-[Data](articles/5cc6ffdb.json)
-
-[Extended Data](ext_articles/5cc6ffdb.ext.json)
-
----
-
-### Change in the main positions of the United People's Power
-
-*2024-09-27 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/194938) · `ta`
-
-Sajith Premadasa reshuffles top positions in United People's Power party. New appointments include: Chairman - former MP, General Secretary - former MP Kabir Hasim, Gampaha District leader - former MP Harshana Rajapaksa. Changes made on 27th day of month.
-
-🟩
-
-Opposition Leader and United People's Power Leader Sajith Premadasa has taken action today (27).
-
-United People's Power Chairman - Former Member of Parliament
-
-General Secretary of the United People's Alliance - former MP Kabir Hasim
-
-United People's Power Gampaha District - Former Parliamentarian Harshana Rajagara
-
-They have been appointed by Sajith Premadasa, the leader of the United People's Power and the Leader of the Opposition.
-
-◼️
-
-[Data](articles/58d75431.json)
-
-[Extended Data](ext_articles/58d75431.ext.json)
-
----
-
-### Priyantha Weerasooriya appointed Acting IGP
-
-*2024-09-27 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102306/priyantha-weerasooriya-appointed-acting-igp) · `en`
-
-Senior DIG Priyantha Weerasooriya has been appointed as the Acting Inspector General of Police (IGP).
-
-President Anura Kumara Dissanayake has appointed Senior DIG Priyantha Weerasooriya as Acting IGP, under the constitutional powers vested in the President, the PMD said.
-
-The President’s Secretary Dr. Nandika Kumanayake presented the appointment letter to the Acting IGP at the Presidential Secretariat in Colombo today (27)
-
-Prior to this appointment, Weerasooriya served as the Senior SIG in charge of the North Central Province, a position he has held since March 2024.
-
-A law enforcement professional with 36 years of unblemished service, Weerasooriya had served across various ranks, from Police Constable to Senior DIG, with key roles in operational, middle, and strategic management.
-
-Notably, SDIG Priyantha Weerasooriya is the first officer in the 158-year history of the police service to rise from the rank of Police Constable to Inspector General of Police (IGP).
-
-...
-
-[Data](articles/457a243a.json)
-
-[Extended Data](ext_articles/457a243a.ext.json)
 
 ---

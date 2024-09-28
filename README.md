@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 20:22:35**
+As of **2024-09-28 20:38:45**
 
 ## Newspaper Stats
 
-*Scraped **46,743** Articles*
+*Scraped **46,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
 adaderanalk | 5,500
-tamilmirrorlk | 6,266
+tamilmirrorlk | 6,268
 virakesarilk | 7,467
 adaderanasinhalalk | 8,080
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,080
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,743 (100.0%) of 46,743 articles have been extended.
+46,745 (100.0%) of 46,745 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -62,6 +62,28 @@ We were able to focus on the authorities to the authorities regarding the variou
 
 ---
 
+### Prohibition of payment of money in schools
+
+*2024-09-28 19:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளில்-பணம்-அறவிடுவதற்கு-தடை-விதிப்பு/175-344616) · `ta`
+
+Ministry of Education bans cash payments in schools due to parent complaints about collections for events like World Children's Day and Teacher's Day. Parents and students face issues with this practice.
+
+🟩
+
+Secretary of the Ministry of Education Tilaka Jayasundara has issued a circular to all school principals across the country.
+
+He also said that the Ministry has received many complaints regarding the collection of parents for various celebrations such as World Children's Day and Teachers' Day.
+
+The Secretary of the Ministry pointed out that parents and students have to face various problems.. Remble
+
+◼️
+
+[Data](articles/d254d451.json)
+
+[Extended Data](ext_articles/d254d451.ext.json)
+
+---
+
 ### Two Ukrainians arrested for defrauding money through Facebook
 
 *2024-09-28 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201640) · `si`
@@ -91,6 +113,28 @@ The suspects were produced before the Colombo Magistrate's Court today (28) and 
 [Data](articles/8659baef.json)
 
 [Extended Data](ext_articles/8659baef.ext.json)
+
+---
+
+### Warning on the impact of lightning
+
+*2024-09-28 19:11:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கம்-தொடர்பில்-எச்சரிக்கை/175-344615) · `ta`
+
+Lightning warning: Thunderstorms likely in Sabaragamuwa, Southern, Central, Uva, and North Western districts from 28th evening to 11:30 PM. Public advised to take precautions against lightning impacts.
+
+🟩
+
+The Department of Meteorology has warned of lightning impact. The warning has been issued from today (28) to 11.30 pm.
+
+Accordingly, in the evening or night in the upper, Sabaragamuwa, Southern, Central, Uva and North Western districts, there is a high likelihood of thunderstorms and lightning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The Department of Meteorology has advised the public to take the necessary precautions to reduce the effects of lightning impacts. Remble
+
+◼️
+
+[Data](articles/93768a87.json)
+
+[Extended Data](ext_articles/93768a87.ext.json)
 
 ---
 
@@ -2183,57 +2227,5 @@ The Ambassador also requests the Sri Lankan community not to fear this.
 [Data](articles/e51ae7d0.json)
 
 [Extended Data](ext_articles/e51ae7d0.ext.json)
-
----
-
-### Singapore leaders congratulate new Sri Lankan President
-
-*2024-09-27 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102310/singapore-leaders-congratulate-new-sri-lankan-president) · `en`
-
-Singapore’s President Tharman Shanmugaratnam and Prime Minister Lawrence Wong have written to Sri Lankan President Anura Kumara Dissanayake to congratulate him on his election, said Singapore’s Ministry of Foreign Affairs (MFA) on Friday (Sep 27).
-
-The 55-year-old was sworn into office on Monday, after he won the presidency with 42.3 per cent of the vote in the Sep 21 polls.
-
-His closest rival, opposition leader Sajith Premadasa, took 32.8 per cent while incumbent Ranil Wickremesinghe finished third with 17 per cent.
-
-Mr Dissanayake is Sri Lanka’s first leftist president. The previously fringe politician saw a surge of support after the country’s 2022 economic crisis forced hardships on ordinary citizens.
-
-In his letter on Monday, Mr Tharman extended his warmest congratulations.
-
-“It is a demonstration of the confidence that the Sri Lankan people have in you to lead the country forward,” Mr Tharman said of Mr Dissanayake’s election.
-
-...
-
-[Data](articles/141b7db8.json)
-
-[Extended Data](ext_articles/141b7db8.ext.json)
-
----
-
-### The Passover pays Rs. 62 million
-
-*2024-09-27 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201615) · `si`
-
-Passover pays Rs. 62 million compensation. Additional Solicitor General Dileepa Peiris states this amount was paid to victims. President's Counsel Shamil Perera presents visitation lists in district courts. About 300 compensation cases pending in Negombo and Colombo District Courts. Charges filed against former Director of State Intelligence Nilantha Jayawardena for failing to pay compensation.
-
-🟩
-
-Additional Solicitor General Dileepa Peiris says that the above office has been taken to the full office of Rs.
-
-He said that the Supreme Court today (27), he said that Rs. 62 million was paid for people who became victims.
-
-President's Counsel Shamil Perera, who appeared in behalf of the Archbishop of Archbishop, told the court that the list of visits were present in the district courts.
-
-Meanwhile, about 300 victims' compensation cases are pending in Negombo and Colombo District Courts.
-
-The Attorney General has stated in the Supreme Court that the charges have been filed against the former Director of State Intelligence against the former Director of State Intelligence against the Court of Nilantha Jayawardena in relation to the case.
-
-Accordingly, the Solicitor General has informed the panel of judges that a charge has been filed against Nilantha Jayawardena, who had failed to pay compensation against the court.
-
-◼️
-
-[Data](articles/4518e5b6.json)
-
-[Extended Data](ext_articles/4518e5b6.ext.json)
 
 ---

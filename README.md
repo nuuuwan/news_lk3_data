@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 10:56:44**
+As of **2024-09-28 11:09:37**
 
 ## Newspaper Stats
 
-*Scraped **46,695** Articles*
+*Scraped **46,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 3,128
 adalk | 4,305
 dailymirrorlk | 4,733
 adaderanalk | 5,491
-tamilmirrorlk | 6,261
-virakesarilk | 7,462
-adaderanasinhalalk | 8,062
+tamilmirrorlk | 6,262
+virakesarilk | 7,465
+adaderanasinhalalk | 8,063
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,695 (100.0%) of 46,695 articles have been extended.
+46,695 (100.0%) of 46,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### மாணவர்களை ஏற்றிச் சென்ற பேருந்து விபத்து
+
+*2024-09-28 10:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-ஏற்றிச்-சென்ற-பேருந்து-விபத்து/175-344609) · `ta`
+
+கண்டி – பதுளை பிரதான வீதியின் பெலிஹுல் ஓயா பகுதியில் நேற்று (27) பிற்பகல் பாடசாலை மாணவர்களை ஏற்றிச் சென்ற பேருந்து ஒன்று சாரதியின் கட்டுப்பாட்டை இழந்த நிலையில் விபத்துக்குள்ளாகியுள்ளது.
+
+இந்த விபத்தில் பேருந்தின் சாரதி மற்றும் 3 பாடசாலை மாணவர்கள் காயமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/912ff25b.json)
+
+---
+
+### சுத்தியலால் தாக்கப்பட்டு ஒருவர் கொலை ; சந்தேக நபர் கைது
+
+*2024-09-28 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194966) · `ta`
+
+குருணாகல், வாரியப்பொல, வல்பாலுவ பிரதேசத்தில் உள்ள வீடொன்றில் சுத்தியலால் தாக்கப்பட்டு ஒருவர் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+குருணாகல், வாரியப்பொல, வல்பாலுவ பிரதேசத்தில் உள்ள வீடொன்றிற்குள் நுழைந்த திருடன் ஒருவன் பிடிப்பட்டுள்ளதாக 119 என்ற பொலிஸ் அவசர தொலைபேசி இலக்கத்திற்கு தகவல் கிடைத்துள்ளது.
+
+இதனையடுத்து, சம்பவ இடத்திற்கு விரைந்த பொலிஸார் குறித்த வீட்டிற்குள் சென்று பார்த்த போது பிடிப்பட்ட திருடன் கொலை செய்யப்பட்டிருப்பதை கண்டுள்ளனர்.
+
+பின்னர், பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணையில், கொலை செய்யப்பட்டவர் திருடன் இல்லை எனவும் அவர் சந்தேக நபரின் மனைவியுடன் தகாத உறவில் ஈடுபட்டிருந்துள்ளதாகவும் தெரியவந்துள்ளது.
+
+சம்பவத்தன்று கொலை செய்யப்பட்டவர் சந்தேக நபரின் மனைவியை பார்ப்பதற்காக குறித்த வீட்டிற்கு சென்றுள்ள நிலையில் வீட்டிற்குள் மறைந்திருந்த சந்தேக நபர் அவரை சுத்தியலால் தாக்கி கொலை செய்துள்ளதாக விசாரணையில் மேலும் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/abe51512.json)
+
+---
+
+### බදු ගෙවන්නන්ට දැනුම්දීමක්
+
+*2024-09-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201622) · `si`
+
+2023/2024 තක්සේරු වර්ෂය සඳහා ආදායම් බදු ගෙවිය යුතු සෑම තැනැත්තෙක්ම එම තක්සේරු වර්ෂය සඳහා ගෙවිය යුතු සියලුම ආදායම් බදු මුදල් 2024 සැප්තැම්බර් මස 30 දින හෝ එදිනට පෙර ගෙවා අවසන් කළ යුතු බව නිවේදනයක් නිකුත් කරමින් දේශීය ආදායම් දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+යම් තැනැත්තෙක් මේ පිළිබඳ කටයුතු නොකරන්නේ නම්, නොගෙවන හෝ ප්‍රමාද වී ගෙවන ආදායම් බදු වෙනුවෙන් නීති ප්‍රකාරව දණ්ඩනයකට සහ පොලියකට යටත් වන බවද එහි දැක්වෙයි.
+
+එමෙන්ම මෙම දඩ හෝ පොලී, අඩු කිරීමක් හෝ ඉවත් කිරීමක් සිදු නොකරන බවද එහි සඳහන් ය.
+
+තවද, ඕනෑම බදු වර්ගයක් සඳහා යම් තැනැත්තෙකු විසින් ගෙවිය යුතු බදු මුදල් නොගෙවා සිටීමෙන් ඇති වූ ' හිඟ බදු' පවතී නම්, ඒ සියල්ල 2024 ඔක්තෝබර් 30 දින හෝ එදිනට පෙර ගෙවා අවසන් කළ යුතු වේ.
+
+එදිනට පසුව තවදුරටත් නොගෙවා සිටින හිඟ බදු පවතී නම්, ඒවා අයකර ගැනීමට දේශීය ආදායම් පනතේ සඳහන් පරිදි නීතිමය කටයුතු ඇතුළුව සියලුම ආකාරයේ අය ක්‍රියාමාර්ග අනුගමනය කිරීමට සිදුවන බවද එහි දැක්වෙයි.
+
+...
+
+[Data](articles/b74808ac.json)
+
+---
 
 ### Suspect arrested with elephant pearls worth Rs. 12 mln
 
@@ -49,6 +103,24 @@ The suspect has been handed over to the Negombo Police Station.
 [Data](articles/27b93f36.json)
 
 [Extended Data](ext_articles/27b93f36.ext.json)
+
+---
+
+### நீர்கொழும்பில் 5  கஜமுத்துக்களுடன் ஒருவர் கைது
+
+*2024-09-28 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194963) · `ta`
+
+நீர்கொழும்பு பிரதேசத்தில் 5 கஜமுத்துக்களை விற்பனை செய்ய தயாராக இருந்த சந்தேக நபர் ஒருவர் குற்றப் புலனாய்வுப் பிரிவினரால் நேற்று வெள்ளிக்கிழமை (27) கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கெலிஓயா பகுதியைச் சேர்ந்த 38 வயதுடையவர் ஆவார்.
+
+இந்த கஜமுத்துக்களின் மொத்த பெறுமதி சுமார் ஒரு கோடியே இருபது இலட்சம் ரூபா என பொலிஸார் தெரிவித்தனர்.
+
+இதனையடுத்து, கைது செய்யப்பட்ட சந்தேக நபர் மேலதிக விசாரணைகளுக்காக நீர்கொழும்பு பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/7cab38fb.json)
 
 ---
 
@@ -91,6 +163,30 @@ Gazette issued detailing functions and duties of new Ministries by Adaderana Onl
 [Data](articles/0eebfdcf.json)
 
 [Extended Data](ext_articles/0eebfdcf.ext.json)
+
+---
+
+### அமெரிக்காவின் தென்கிழக்கு பகுதியை தாக்கிய ஹெலன் சூறாவளி - 43 பேர் பலி
+
+*2024-09-28 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194964) · `ta`
+
+அமெரிக்காவின் தென்கிழக்கு பகுதியை வெள்ளிக்கிழமை  ஹெலீன் சூறாவளி தாக்கியதில் குறைந்தது 43 பேர் உயழிரிழந்துள்ளதோடு, இலட்சக்கணக்கானவர்களுக்கு  மின்சாரம் துண்டிக்கப்பட்டுள்ளது.
+
+புளோரிடா வளை குடாவை தாக்கிய சக்திவாய்ந்த சூறாவளி இதுவாகும். சூறாவளியால் வியாழக்கிழமை இரவு பெய்த  மழையினை அடுத்து மண்சரிவு ஏற்பட்டுள்ளது.
+
+இந்நிலையில், ஹெலன் சூறாவளி வலுவிழந்திருந்தாலும் அதிக காற்று, வெள்ளம் மற்றும் சூறாவளி அச்சுறுத்தல் தொடரும் என்று முன்னறிவிப்பாளர்கள் எச்சரிக்கை விடுத்துள்ளனர்.
+
+இன்னும் சில இடங்களில் 50 சென்றி மீட்டர் வரை அதி பலத்த மழை பெய்யும் என எதிர்வு கூறப்பட்டுள்ளது.
+
+அமெரிக்காவை தாக்கிய சூறாவளிகளில் 14 ஆவது சக்தி வாய்ந்த சூறாவளியாக இது பதிவாகியுள்ளது.
+
+2017 ஆம் ஆண்டு ஐடா மற்றும் 1996 ஆம் ஆண்டு ஓபல் ஆகிய சூறாவளிகள்  460 மைல்கள்  காற்று வீசியுள்ளது.
+
+புளோரிடா, ஜோர்ஜியா, டென்னசி மற்றும் கரோலினாஸ் முழுவதும் பலத்த காற்று மற்றும் பலத்த மழையின் தாக்கம் பரவலாக உள்ளது.
+
+◼️
+
+[Data](articles/62c7243b.json)
 
 ---
 
@@ -2083,115 +2179,5 @@ President Anura Kumara Dissanayake has dissolved the Parliament from 24th at Tue
 [Data](articles/cbe2b050.json)
 
 [Extended Data](ext_articles/cbe2b050.ext.json)
-
----
-
-### Police officers assigned for security of ex-MPs recalled
-
-*2024-09-27 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102302/police-officers-assigned-for-security-of-ex-mps-recalled) · `en`
-
-Sri Lanka Police said that all police personnel assigned to provide security to former Parliamentarians have been recalled from today, except those providing security to the former Speaker, former Deputy Speaker and former Opposition Leader.
-
-Newly elected President Anura Kumara Dissanayake dissolved the Parliament of Sri Lanka with effect from midnight on Tuesday (24), via a Gazette notification.
-
-The general election is to be held on November 14 while the new Parliament is scheduled to meet on November 21, 2024.
-
-Police Media Release on VIP Security by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/82792530.json)
-
-[Extended Data](ext_articles/82792530.ext.json)
-
----
-
-### Japan expresses commitment to supporting new govt’s anti-corruption program
-
-*2024-09-27 14:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102301/japan-expresses-commitment-to-supporting-new-govts-anti-corruption-program) · `en`
-
-The Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki, has affirmed that the Japanese government is committed to fully supporting efforts to combat corruption and irregularities, a key priority of President Anura Kumara Dissanayake’s administration.
-
-He expressed readiness to continue close collaboration with Sri Lanka, the President’s Media Division said.
-
-Ambassador Mizukoshi made these remarks during a meeting with the Secretary to the President, Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat yesterday (26).
-
-He further announced that work on 11 stalled projects funded by the Japanese government will resume promptly.
-
-...
-
-[Data](articles/8c3566c2.json)
-
-[Extended Data](ext_articles/8c3566c2.ext.json)
-
----
-
-### UNFPA says 35-pct of Sri Lanka women lack access to contraception
-
-*2024-09-27 14:42:00* · [`economynextcom`](https://economynext.com/unfpa-says-35-pct-of-sri-lanka-women-lack-access-to-contraception-181310/) · `en`
-
-ECONOMYNEXT – A significant 35 percent of women of reproductive age in Sri Lanka have no access to any form of contraception, the UNFPA has said, despite the commendable progress made.
-
-“35% of women of reproductive age in Sri Lanka have no access to any form of contraception. 45% lack access to modern contraceptive methods. Despite the commendable progress made, the unmet need is significant,” UNFPA Representative in Sri Lanka Kunle Adeniyi said.
-
-In a World Contraception Day (Sep 26) message on social media platform X, Adeniyi encouraged people to reflect on the power of choice and the freedom it brings.
-
-“Access to contraception is not just about family planning — it’s about bodily autonomy, empowerment, and the health of all.”
-
-A condom is the only contraceptive that can prevent a pregnancy and reduce the spread of sexually transmitted infections. (UNFPA picture)
-
-Investing in contraception is investing in equality, in health, and in a better future for all, Adeniyi said.
-
-...
-
-[Data](articles/f940fc96.json)
-
-[Extended Data](ext_articles/f940fc96.ext.json)
-
----
-
-### Over 38,000 dengue cases reported so far in 2024
-
-*2024-09-27 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102300/over-38000-dengue-cases-reported-so-far-in-2024) · `en`
-
-The National Dengue Control Unit (NDCU) states that the number of dengue cases reported in the country has exceeded 38,000 so far this year.
-
-Consultant Community Physician at the National Dengue Control Unit, Dr. Anoja Dheerasinghe reported that a significant number of cases have been recorded, particularly in the districts of Colombo, Gampaha, and Kalutara.
-
-“Necessary measures are being taken to reduce this number in the future. In addition to Colombo, Kalutara, and Gampaha, a high number of cases have also been reported in the districts of Kandy, Galle, Matara, Kurunegala, Kegalle, and Ratnapura in recent weeks,” she said.
-
-◼️
-
-[Data](articles/bd6cd532.json)
-
-[Extended Data](ext_articles/bd6cd532.ext.json)
-
----
-
-### Bradman's equal to Bradman in Asia's first
-
-*2024-09-27 14:18:14* · [`adalk`](https://www.ada.lk/sports/ආසියාවේ-පළමුවැනියා-වෙමින්-බ්‍රැඩ්මන්ට-සම-වූ-කමිඳු/9-412183) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Don Bradman equals Bradman in Asia's first match. Sri Lanka's batsman achieved his 5th Test century against New Zealand in Galle. This feat occurred in the first innings of the second Test. Bradman also scored 13 centuries in 13 innings.
-
-🟩
-
-Sri Lanka's batsman was the batsman who had obtained his fifth teeth in Test cricket.
-
-It was in the first innings of the second Test in Galle with New Zealand. Accordingly, the fifth test was reached in 13 Test Irum.
-
-This report was set up for Favad Alam Asia before Komunny. Don Bradman, Australia, was collected in 13 tongues in 13 innings.
-
-Everton Vox (West Indies 10), N. The players go to Harvey (Australia innings 12).
-
-◼️
-
-[Data](articles/83cc37ba.json)
-
-[Extended Data](ext_articles/83cc37ba.ext.json)
 
 ---

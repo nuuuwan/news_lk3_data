@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 22:11:46**
+As of **2024-09-28 22:22:56**
 
 ## Newspaper Stats
 
-*Scraped **46,752** Articles*
+*Scraped **46,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,500
 tamilmirrorlk | 6,270
 virakesarilk | 7,470
-adaderanasinhalalk | 8,082
+adaderanasinhalalk | 8,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,752 (100.0%) of 46,752 articles have been extended.
+46,753 (100.0%) of 46,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### The crime committing the motorcyclist
+
+*2024-09-28 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201645) · `si`
+
+Motorcyclist flees after dispute; driver's keys lost; incident reported in Yagoda area; resident killed near fugitive location.
+
+🟩
+
+The backday motorcycle had fled the neck of the driver's keys due to a dispute between two traveled.
+
+The incident had been reported from the Yagoda area of ​​the Gagoda area.
+
+Residents of the area recovered the death of a fruy jungle near the person who had fled and the deceased.
+
+◼️
+
+[Data](articles/1d50c5a1.json)
+
+[Extended Data](ext_articles/1d50c5a1.ext.json)
+
+---
 
 ### What is the status of vehicle imports in the new government?
 
@@ -2259,25 +2281,5 @@ As the Secretary-General has said, “We cannot create a future fit for our gran
 [Data](articles/d6d64ca0.json)
 
 [Extended Data](ext_articles/d6d64ca0.ext.json)
-
----
-
-### The power of the cross and a crossover in power styles
-
-*2024-09-27 23:41:16* · [`dailyftlk`](https://www.ft.lk/columns/The-power-of-the-cross-and-a-crossover-in-power-styles/4-767255) · `en`
-
-The power of that cross must slowly but surely transform the nature, principles and practice of power in the land. Else it would be only a transactional double-cross fit for the dustbin of history – Pic by Shehan Gunasekara
-
-In the run-up to the Presidential election of 2024, the then emerging aspirant for executive office Anura Kumara Dissanayake once waxed eloquent about “the power of the cross” (‘kathiraya’).
-
-He intimated that it was not simply, deceptively, one person’s expressed preference for a particular individual; but rather, a powerful exercise of the franchise which could reap a wide-ranging harvest of repercussions.
-
-Rest assured that those ramifications are being felt in nation, state, country, bureaucracy and beyond today. For better or for worse, only time will tell.
-
-...
-
-[Data](articles/47b4e3bf.json)
-
-[Extended Data](ext_articles/47b4e3bf.ext.json)
 
 ---

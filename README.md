@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 19:56:21**
+As of **2024-09-28 20:22:35**
 
 ## Newspaper Stats
 
-*Scraped **46,742** Articles*
+*Scraped **46,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,500
 tamilmirrorlk | 6,266
 virakesarilk | 7,467
-adaderanasinhalalk | 8,079
+adaderanasinhalalk | 8,080
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,742 (100.0%) of 46,742 articles have been extended.
+46,743 (100.0%) of 46,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Massacre
+
+*2024-09-28 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201642) · `si`
+
+Massacre reported in Ampara: Government reserve destroyed, monks burned, land dispute suspected.
+
+🟩
+
+The Ada Derana Ukzaza said about a major massacre from a large sum of several days from a government reserve in Ampara.
+
+A tragic destiny in the Ampara-Uhana Divisional Secretariat has been a traditional fate.
+
+The Derana Ukza was reported to "Today" is a large number of mass in this reserve near the Uhana Samangala and Bandara areas.
+
+The heukusa reaches the area, and the great monks were found on fire.
+
+The people of the area have been launched since the Colombo area near the Samanagala Reserve and the later varied governments were given permission.
+
+Accordingly, the parts were brought to chena cultivation, and the residents of the area have revealed that a group of people will break the boundaries about two weeks ago.
+
+We were able to focus on the authorities to the authorities regarding the various men who were informally and forcibly acquired land and cultivated persons.
+
+...
+
+[Data](articles/cf6f89f9.json)
+
+[Extended Data](ext_articles/cf6f89f9.ext.json)
+
+---
 
 ### Two Ukrainians arrested for defrauding money through Facebook
 
@@ -2205,29 +2235,5 @@ Accordingly, the Solicitor General has informed the panel of judges that a charg
 [Data](articles/4518e5b6.json)
 
 [Extended Data](ext_articles/4518e5b6.ext.json)
-
----
-
-### Attack on Hezbollah's headquarters in Beirut - Israel
-
-*2024-09-27 21:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/194954) · `ta`
-
-Israel strikes Hezbollah HQ in Beirut suburbs, causing destruction and smoke.
-
-🟩
-
-Israel has reportedly launched an air strike on the headquarters of the Hesbullah organization in the suburbs of Beirut, the capital of Lebanon.
-
-The attack has rocked Beirut, a massive smoke is found, Reuters said.
-
-Hesbullah's almanar television said that four buildings were destroyed by the attack.
-
-Israel said the headquarters of the Hesbullah organization was found within the public areas.
-
-◼️
-
-[Data](articles/a2f981e1.json)
-
-[Extended Data](ext_articles/a2f981e1.ext.json)
 
 ---

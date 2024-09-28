@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 15:38:15**
+As of **2024-09-28 15:56:52**
 
 ## Newspaper Stats
 
-*Scraped **46,721** Articles*
+*Scraped **46,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,496
 tamilmirrorlk | 6,265
 virakesarilk | 7,467
-adaderanasinhalalk | 8,068
+adaderanasinhalalk | 8,069
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,721 (100.0%) of 46,721 articles have been extended.
+46,722 (100.0%) of 46,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Rice from today will be issued to government control price - Dudley Sirisena
+
+*2024-09-28 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201629) · `si`
+
+Sirisena announces large-scale rice mills will sell rice at controlled government prices starting today. Supports national efforts and requests cooperation from rice sellers.
+
+🟩
+
+Large scale rice mills have decided to issue rice to the market under government control prices.
+
+"The President helps to support the work of the country.. We decided to market all rice control prices from today. "
+
+"The Governor of the Nipunayake Campaign, I discussed the Governor of Newjas. They made an agreement. I request our rice as we can sell rice to government control price from today. We will support January 20 alone. "
+
+"This day was placed.. New harvest arrives in the market. We need a new price for a new price for the mas season, rice. That's what. "
+
+◼️
+
+[Data](articles/a1cde248.json)
+
+[Extended Data](ext_articles/a1cde248.ext.json)
+
+---
 
 ### President visited the International Book Fair
 
@@ -2193,29 +2217,5 @@ The Central Bank had originally projected 3 percent growth for this year against
 [Data](articles/d1c2acbf.json)
 
 [Extended Data](ext_articles/d1c2acbf.ext.json)
-
----
-
-### Three arrested with ice drugs in Thalangam
-
-*2024-09-27 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194939) · `ta`
-
-Three arrests made in Battaramulla for possession of ice drugs. Suspects aged 35, 38, and 42 from Meegoda and Battaramulla. Police seized varying amounts of ice during raids based on tip-offs.
-
-🟩
-
-Three suspects have been arrested yesterday (26) with ice drugs in the Battaramulla area belonging to the Thalangama police division, police said.
-
-The suspects have been arrested during a raid carried out on confidential information received by the police.
-
-The arrested suspects are from Meegoda and Battaramulla aged 35, 38 and 42.
-
-The police have seized 10 grams 800 milligrams of ice from one of the arrested suspects, 10 grams of 600 milligrams of ice and 10 grams of 400 milligrams of ice.
-
-◼️
-
-[Data](articles/e226af94.json)
-
-[Extended Data](ext_articles/e226af94.ext.json)
 
 ---

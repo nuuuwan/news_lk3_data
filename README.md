@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-28 18:57:28**
+As of **2024-09-28 19:08:35**
 
 ## Newspaper Stats
 
-*Scraped **46,738** Articles*
+*Scraped **46,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
-adaderanalk | 5,498
+adaderanalk | 5,499
 tamilmirrorlk | 6,266
 virakesarilk | 7,467
-adaderanasinhalalk | 8,077
+adaderanasinhalalk | 8,078
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,738 (100.0%) of 46,738 articles have been extended.
+46,740 (100.0%) of 46,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-28 (Saturday)
+
+### Is a new alliance from the Tamil and parties?
+
+*2024-09-28 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201639) · `si`
+
+New alliance forming between Tamil and Muslim parties for upcoming elections. Discussions ongoing but no final agreement yet. Parties aim to secure more parliamentary seats through joint efforts.
+
+🟩
+
+At the next general election, the Tamil and Muslim parties have begun discussions with the building of a new alliance.
+
+The second phase of the discussions were scheduled to be held today (28).
+
+The discussion will be held among the former MPs of the Sri Lanka Muslim Congress, Mano Ganeshan, Leader of the Sri Lanka Muslim Congress, and the TNA representing the TNA.
+
+The first round discussions were held last week in the forward election and the Tamil Muslim parties were focused on the contest.
+
+However, it was reported that there was no final agreement on the creation of a new alliance.
+
+The Sri Lanka Muslim Congress and the Tamil Progressive Alliance is part of the party partners and the TNA and the TNA also addresses the TNA.
+
+However, Opposition Leader Sajith Premadasa, the president of the Presidential National Alliance (TNA) was presidential election in recent presidential election.
+
+...
+
+[Data](articles/efb1ec04.json)
+
+[Extended Data](ext_articles/efb1ec04.ext.json)
+
+---
+
+### Advisory issued for severe lightning; Heavy showers expected
+
+*2024-09-28 18:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102324/advisory-issued-for-severe-lightning-heavy-showers-expected-) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur over most parts of the island during the afternoon or night.
+
+Heavy showers of about 100 mm can be expected at some places in Central, Sabaragamuwa and North-western provinces and in Kalutara, Galle and Matara districts, it said.
+
+Meanwhile, the Met. Department has also issued an advisory for severe lightning for several provinces.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central, Uva and North-western provinces and in Anuradhapura district.
+
+There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+◼️
+
+[Data](articles/d0f948eb.json)
+
+[Extended Data](ext_articles/d0f948eb.ext.json)
+
+---
 
 ### Dudley comes to support of new government - to all rice control
 
@@ -2177,57 +2229,5 @@ Dam Magie Smith's two sons issued a statement saying that she was peaceable with
 [Data](articles/c6eb1a5d.json)
 
 [Extended Data](ext_articles/c6eb1a5d.ext.json)
-
----
-
-### KOICA commits support to strengthen govt’s transparency initiative
-
-*2024-09-27 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102309/koica-commits-support-to-strengthen-govts-transparency-initiative) · `en`
-
-The Korea International Cooperation Agency (KOICA) has pledged its full support for the transparency initiative of the current government, the President’s Media Division (PMD) said.
-
-This commitment was made by a delegation of high-ranking KOICA officials during a meeting with Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat today (27).
-
-KOICA has also agreed to offer loan assistance for projects aimed at preventing fraud and corruption in Sri Lanka, the PMD said.
-
-Representatives from the agency emphasized their intention to tailor loan support to meet the specific requirements of the country.
-
-Korean Ambassador to Sri Lanka Miyon Lee, Deputy Ambassador Songyi Jeong, Country Director of KOICA Sri Lanka office Kim Myungjin, Deputy Country Directors Yongwhan Kim, Yunsoo Jeon, DIMO General Manager Roshan Seransinghe, and Sri Lanka Railways Deputy General Manager B.M.U Banneheka were also present at the meeting.
-
-◼️
-
-[Data](articles/99a8e965.json)
-
-[Extended Data](ext_articles/99a8e965.ext.json)
-
----
-
-### The record of the Kamundu Mendis record, which is the lime of the opponents;Cricket Jambavan equated Bradman's record
-
-*2024-09-27 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/194952) · `ta`
-
-Kamindu Mendis breaks records in Test cricket: scores 50+ in 8 consecutive matches, achieves 1000 runs in 13th innings, equals Bradman's milestones.
-
-🟩
-
-In the Test cricket arena, Mendis's massive bats are continuing and achieved achievement over the record.
-
-Kamindu Mendis, who scored a century in Test cricket at the Galle International Stadium against New Zealand, set the world record on Thursday as the first player to score 50 or more in the 8 Tests he played so far.
-
-He has scored 50 or more runs in eight Tests 9 times.
-
-He recorded his highest number in an innings today by scoring 182 runs without losing the match against New Zealand.
-
-He also completed 1000 runs in his 13th innings and became the one who achieved this milestone record in the lowest innings in the last 75 years.
-
-Australia's cricketer, Sir Donald Bedtman, equaled the record of those who completed 1000 runs in low innings.
-
-England's Herpot Sutchliv (in 1925) and Everton Weaks of the West Indies (1945) were the one who completed 1000 runs in the lowest innings.. This rare record continues in 12 innings each.
-
-...
-
-[Data](articles/8d3976ca.json)
-
-[Extended Data](ext_articles/8d3976ca.ext.json)
 
 ---

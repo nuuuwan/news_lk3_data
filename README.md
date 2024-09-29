@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 09:13:28**
+As of **2024-09-29 09:24:05**
 
 ## Newspaper Stats
 
-*Scraped **46,791** Articles*
+*Scraped **46,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,312
 dailymirrorlk | 4,733
-adaderanalk | 5,503
-tamilmirrorlk | 6,281
+adaderanalk | 5,504
+tamilmirrorlk | 6,282
 virakesarilk | 7,470
-adaderanasinhalalk | 8,089
+adaderanasinhalalk | 8,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,789 (100.0%) of 46,791 articles have been extended.
+46,794 (100.0%) of 46,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Anganan insisting on the president
+
+*2024-09-29 09:09:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியிடம்-அங்கஜன்-வலியுறுத்தல்/175-344644) · `ta`
+
+Former MP Anganan Ramanathan urges President Anuradha Sanayake to reopen Jaffna's main roads, citing benefits for reconciliation and regional development. This follows the President's order to open major roads in Colombo for public use.
+
+🟩
+
+Former parliamentarian Anganan Ramanathan has urged President Anuragumara Dissanayake to reopen the main roads of Jaffna.
+
+Ramanathan told his X site that the opening of roads in the Vain Northern High Security Zone will strengthen reconciliation and regional development.
+
+"I would like to urge President @Anuradhasanayake to reopen the main streets of Jaffna in accordance with the recent road access reforms in Colombo," he said.
+
+The request has been made following the President's order to open the main roads in Colombo for public use from today.
+
+Accordingly, Sir Baron Jayatilaka, near the President's House, has directed the President to open the Mawatha and President Mawatha.
+
+◼️
+
+[Data](articles/c0f59fc7.json)
+
+[Extended Data](ext_articles/c0f59fc7.ext.json)
+
+---
+
+### A five-day mourning of Iran
+
+*2024-09-29 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201652) · `si`
+
+Iran mourns 5 days over Hezbollah leader's death. Supreme Leader vows revenge. Israel's Netanyahu calls it historic shift. US President Biden hails it as justice.
+
+🟩
+
+Foreign media reports that Iran's supreme leader Astallama Kameney has been declared due to the death of Hezbollah captain Hasan Nasaralla.
+
+The Supreme Leader of Iran is mentioned that this death cannot be done without revenge.
+
+However, Israeli Prime Minister Benjamin Netanyahu has said that the death of the Hezbollah will be a historical turn.
+
+US President Joe Bidaman said that the death of Hezbollah leader Hasan Nasinghe would be justice.
+
+◼️
+
+[Data](articles/b6354db0.json)
+
+[Extended Data](ext_articles/b6354db0.ext.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-09-29 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102329/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur over most places of the Island during the afternoon or night.
+
+Heavy showers about 100 mm can be expected at some places in Central, Sabaragamuwa, Southern and North-western provinces and in Kaluthara district.
+
+Showers may occur in Southern province and in Batticaloa and Ampara districts during the morning too, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/35b656ac.json)
+
+[Extended Data](ext_articles/35b656ac.ext.json)
+
+---
 
 ### The project to be made compulsory for state vehicles
 
@@ -2303,67 +2373,5 @@ Primary dealers are already cut off from open market operation auctions.
 [Data](articles/57f43666.json)
 
 [Extended Data](ext_articles/57f43666.ext.json)
-
----
-
-### Kumar Welgama has passed away
-
-*2024-09-28 08:40:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குமார்-வெல்கம-காலமானார்/175-344608) · `ta`
-
-Former Sri Lankan MP Kumar Welgama dies in Colombo hospital.
-
-🟩
-
-Kumar Welgama, a former Kalutara district parliamentarian, passed away at a private hospital in Colombo.
-
-◼️
-
-[Data](articles/4770709c.json)
-
-[Extended Data](ext_articles/4770709c.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-09-28 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102312/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur over most places of the Island during the afternoon or night.
-
-Heavy showers of about 100 mm can be expected at some places in Central and Sabaragamuwa provinces and in Kurunegala, Kaluthara, Galle and Matara districts.
-
-Showers may occur in Southern province and in Batticaloa and Ampara districts during the morning too, it added.
-
-Thus the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/954578db.json)
-
-[Extended Data](ext_articles/954578db.ext.json)
-
----
-
-### Casual association ended by death
-
-*2024-09-28 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201619) · `si`
-
-Casual association ends fatally. Victim (33) dies after entering house in Walchiraya. Suspect's wife involved. Suspect assaulted with hammer. Magisterial inquiry ongoing.
-
-🟩
-
-The victim has died on a release from information received by the 119 information center that he had entered a house in Walchiya, Wariyapola.
-
-The victim is 33 year old, a resident of Awulegama.
-
-The deceased has been held with a casual relationship with the wife of the deceased suspect and the suspect had been assaulted by a hammer at home and had been assaulted by a hammer at home.
-
-The magisterial inquiry into the body is to be taken up with the age of 36 years of age.
-
-◼️
-
-[Data](articles/a5df3f2d.json)
-
-[Extended Data](ext_articles/a5df3f2d.ext.json)
 
 ---

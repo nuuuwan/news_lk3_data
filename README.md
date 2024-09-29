@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 06:11:47**
+As of **2024-09-29 06:44:10**
 
 ## Newspaper Stats
 
-*Scraped **46,772** Articles*
+*Scraped **46,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 388
 bbccomsinhala | 463
 colombotelegraphcom | 466
-islandlk | 2,749
+islandlk | 2,751
 economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,309
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,765 (100.0%) of 46,772 articles have been extended.
+46,766 (100.0%) of 46,774 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -117,6 +117,8 @@ Anura Kumara Dissanayaka, Sri Lanka’s new president, grew up in Tambuttegama, 
 ...
 
 [Data](articles/32959ec5.json)
+
+[Extended Data](ext_articles/32959ec5.ext.json)
 
 ---
 

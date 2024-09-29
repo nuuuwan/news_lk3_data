@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 09:24:05**
+As of **2024-09-29 09:38:37**
 
 ## Newspaper Stats
 
-*Scraped **46,794** Articles*
+*Scraped **46,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 466
 islandlk | 2,752
 economynextcom | 2,841
 dailyftlk | 3,129
-adalk | 4,312
+adalk | 4,313
 dailymirrorlk | 4,733
 adaderanalk | 5,504
 tamilmirrorlk | 6,282
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,794 (100.0%) of 46,794 articles have been extended.
+46,795 (100.0%) of 46,795 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -99,6 +99,26 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/35b656ac.json)
 
 [Extended Data](ext_articles/35b656ac.ext.json)
+
+---
+
+### Ranil further audits UNP leadership
+
+*2024-09-29 08:26:31* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ට-තවදුරටත්-එජාප-නායකත්වය-දෙන්න-යෝජනා-සම්මතයක්/11-412197) · `si`
+
+Ranil Wickremesinghe conducts audit of UNP leadership. Meeting held at Galle UNP HQ. Future actions discussed. Former MP Vajira Abeywardena and ex-Minister Manushakakara attend.
+
+🟩
+
+A meeting of UNP activist in Galle in Galle in Galle in Galle was held at the UNP headquarters of the Galle District, former President of former President Ranil Wickremesinghe further was adopted by the UNP leader.
+
+At the meeting, the meeting discussed the future action was held at length and former Parliamentarian Vajira Abeywardena, former Minister Manushakakara were also present.
+
+◼️
+
+[Data](articles/e70c8ebd.json)
+
+[Extended Data](ext_articles/e70c8ebd.ext.json)
 
 ---
 
@@ -2349,29 +2369,5 @@ He was admitted to the Chavakachcheri Hospital on Thursday night (26) and died w
 [Data](articles/bc820e83.json)
 
 [Extended Data](ext_articles/bc820e83.ext.json)
-
----
-
-### Sri Lanka primary dealers using excessive central bank credit: IMF report
-
-*2024-09-28 08:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-primary-dealers-using-excessive-central-bank-credit-imf-report-181426/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s primary dealers are making excessive use of the central bank’s standing facilities to fund their government securities portfolios though they have been cut off from liquidity auctions, an International Monetary Fund report said.
-
-“Non-bank primary dealers for government LKR debt have access to standing facilities and routinely use Standing Lending Facility (SLF) to fund their portfolios,” the report said.
-
-“The share of non-bank primary dealers in SLF accounts for about 46 percent or about 76 bn LKR as of end-April 2023,”
-
-“Central Bank of Sri Lanka should start phasing out the use monetary instruments to support LKR bond market development.
-
-“Monetary policy instruments should therefore not be made available to non-bank primary dealers to support their activity in LKR bond market.”
-
-Primary dealers are already cut off from open market operation auctions.
-
-...
-
-[Data](articles/57f43666.json)
-
-[Extended Data](ext_articles/57f43666.ext.json)
 
 ---

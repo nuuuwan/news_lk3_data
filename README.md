@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 18:31:43**
+As of **2024-09-29 18:41:48**
 
 ## Newspaper Stats
 
-*Scraped **46,856** Articles*
+*Scraped **46,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
-adalk | 4,325
+adalk | 4,327
 dailymirrorlk | 4,733
 adaderanalk | 5,515
-tamilmirrorlk | 6,292
-virakesarilk | 7,481
+tamilmirrorlk | 6,293
+virakesarilk | 7,484
 adaderanasinhalalk | 8,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,856 (100.0%) of 46,856 articles have been extended.
+46,856 (100.0%) of 46,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### இன்று முதல் மினி நிலவைக் காணலாம்
+
+*2024-09-29 18:26:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/இன்று-முதல்-மினி-நிலவைக்-காணலாம்/53-344662) · `ta`
+
+பூமி அதன் வழக்கமான நிலவை விட மிகவும் சிறியதாக இருந்தாலும், ஒரு தற்காலிக குட்டி நிலவை பெற உள்ளது.
+
+இந்த மினி நிலவு உண்மையில் புதிதாக கண்டுபிடிக்கப்பட்ட சிறுகோள் ஆகும், இது ஒரு பாடசாலை பேருந்தின் அளவானதாகும்.
+
+இன்று அது பூமிக்கு மிக அருகில் பயணிக்கவுள்ளதாகவும், புவியின் ஈர்ப்பு விசை தற்காலிகமாக அதைத் தக்கவைக்கும் எனவும், இதனால் அது பூமியைச் சுற்றி இரண்டு மாதங்கள் இருக்கும் எனவும் வானியலாளர்கள் கூறுகின்றனர்.
+
+இந்த "மினி நிலவு" வெற்றுக் கண்ணுக்குத் தெரியாது என்றாலும் தொலைநோக்கி மூலம் காணலாம். இந்த குறுகிய கால விண்வெளி கோளானது வானியலாளர்களுக்கு ஒரு புதிய ஆராய்ச்சிக்கான வாய்ப்பை வழங்கியுள்ளது.
+
+◼️
+
+[Data](articles/f737d978.json)
+
+---
 
 ### Investigate e-Visa fraud as soon as possible
 
@@ -53,6 +71,18 @@ Foreign Minister Vijitha Herath, who is responsible for the Department of Immigr
 [Data](articles/a89ad259.json)
 
 [Extended Data](ext_articles/a89ad259.ext.json)
+
+---
+
+### පසුගිය ශිෂ්‍යත්වය නැවත පවත්වන්නේ නෑ - පිටවූ ප්‍රශ්න තුනට සෑම සිසුවෙකුටම ලකුණු
+
+*2024-09-29 18:02:11* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-ශිෂ්‍යත්වය-නැවත-පවත්වන්නේ-නෑ---පිටවූ-ප්‍රශ්න-තුනට-සෑම-සිසුවෙකුටම-ලකුණු/11-412214) · `si`
+
+පසුගියදා පැවැත්වූ ශිෂ්‍යත්ව විභාගයේ ප්‍රශ්න තුනක් පිටවීමේ සිදුවීම හේතුවෙන් අසාධාරණයට ලක්වූ සියලුම සිසුන්ට එම ප්‍රශ්න තුනට අදාළව ලකුණු ලබාදීමටත් එම ශිෂ්‍යත්ව විභාගය නැවත වරක් නොපැවැත්වීමටත් තීරණය කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/2196cbfb.json)
 
 ---
 
@@ -134,6 +164,18 @@ The Ministry of Education had appointed a seven-member committee to decide wheth
 
 ---
 
+### தமிழ் தரப்பினருக்கு சவாலாக   மாறியுள்ள  பாராளுமன்றத் தேர்தல்!
+
+*2024-09-29 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195023) · `ta`
+
+மலையக கட்சிகளில் தமிழ் முற்போக்குக் கூட்டணி சஜித்துக்கு ஆதரவு தரும் வகையிலேயே செயற்பட்டு வருகின்றது. ஆனால் பாராளுமன்றத் தேர்தலில் அது தொடருமா என்பது தெரியவில்லை. மலையகத்தைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பிரதிநிதியாவது அநுரவின் அரசாங்கத்தில் இடம்பிடிக்க வேண்டும் என்ற யோசனை தமிழ் முற்போக்குக் கூட்டணிக்கு உள்ளது. சஜித்தின் ஐக்கிய மக்கள் சக்தியுடன் இணைந்து தொலைபேசி சின்னத்தில் போட்டியிட்டால் அது சாத்தியமாகாது.
+
+◼️
+
+[Data](articles/84617522.json)
+
+---
+
 ### Vijitha Herath appointed President’s representative to CC
 
 *2024-09-29 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102338/vijitha-herath-appointed-presidents-representative-to-cc) · `en`
@@ -177,6 +219,26 @@ Secretary of the Ministry of Education Tilaka Jayasundera has sent a letter to a
 [Data](articles/b5715d16.json)
 
 [Extended Data](ext_articles/b5715d16.ext.json)
+
+---
+
+### සනත් වසරකට ලංකාවේ ක්‍රිකට් පුහුණුකරු කරයි
+
+*2024-09-29 17:31:32* · [`adalk`](https://www.ada.lk/sports/සනත්-වසරකට-ලංකාවේ-ක්‍රිකට්-පුහුණුකරු-කරයි/9-412211) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායමේ තාවකාලික පුහුණුකරු ලෙස කටයුතු කරමින් සිටි හිටපු නායක සනත් ජයසූරිය වසරකට කාලයක් ක්‍රිකට් පුහුණුකරු ලෙස පත්කිරීමට  ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ අවධානය යොමුව තිබේ.
+
+අතුරු පුහුණුකරු ලෙස සනත් කණ්ඩායම භාර ගැනීමෙන් පසුව ශ්‍රී ලංකා කණ්ඩායමේ විශේෂ ජයග්‍රහණ වාර්තා කිරීමට සමත්විය.
+
+සනත් මුලින්ම ඉන්දියාව සමගින් පැවැති තරගාවලියේදී ශ්‍රී ලංකා කන්ඩායමේ අතුරු පුහුණුකරු ලෙස රාජකාරී ආරම්භ කළ අතර එහිදී ඉන්දීය කණ්ඩායමට එරෙහිව වසර 27කට පසුව එක්දින තරගාවලි ජයක් වාර්තා කිරීමට සමත්විය.
+
+ඉන් අනතුරුව එංගලන්ත ටෙස්ට් තරගාවලියේදී එංගලන්තයේදී  වසර 10කට පසුව ටෙස්ට් තරග ජයක් වාර්තා කිරීමට සමත්විය.
+
+අනතුරුව නවසීලන්තය සමගින් පැවැතිටෙස්ට් තරගාවලිය ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය එවැනි දක්ෂතාවක් දැක්වූයේ වසර 15කට පසුවයි.
+
+◼️
+
+[Data](articles/4cbe68ed.json)
 
 ---
 
@@ -360,6 +422,22 @@ The victim's police officer and top officials have complained to top officials c
 
 ---
 
+### கல்கிஸ்ஸயில் ஹெரோயினுடன் ஒருவர் கைது
+
+*2024-09-29 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195056) · `ta`
+
+கல்கிஸ்ஸ படோவிட பிரதேசத்தில் ஹெரோயினுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (28) கைது செய்யப்பட்டுள்ளதாக கல்கிஸ்ஸ பொலிஸார் தெரிவித்தனர்.
+
+கல்கிஸ்ஸ பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது இவர் கைது செய்யப்பட்டார்.
+
+கைது செய்யப்பட்ட நபரிடம் இருந்து 06 கிராம் 800 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டது.
+
+◼️
+
+[Data](articles/f6d2774f.json)
+
+---
+
 ### President’s decision on parliamentary election expenses
 
 *2024-09-29 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102336/presidents-decision-on-parliamentary-election-expenses) · `en`
@@ -379,6 +457,22 @@ Meanwhile, another meeting between District Returning Officers, Assistant Commis
 [Data](articles/942deb78.json)
 
 [Extended Data](ext_articles/942deb78.ext.json)
+
+---
+
+### பிரைட் ரைஸ், கொத்து ரொட்டியின் விலை இன்று நள்ளிரவு முதல் குறைப்பு
+
+*2024-09-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/195062) · `ta`
+
+பிரைட் ரைஸ் (fried rice) மற்றும் கொத்து ரொட்டியின் விலை இன்று ஞாயிற்றுக்கிழமை (29) நள்ளிரவு முதல் 40 ரூபாவினால் குறைக்கப்படும் என உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+அத்தோடு, முட்டை ரொட்டி ஒன்றின் விலை 30 ரூபாவினால் குறைக்கப்படும் எனவும் சங்கத்தின் தலைவர் ஹர்ஷன ருக்ஷான் தெரிவித்துள்ளார்.
+
+இன்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும்போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/faef1637.json)
 
 ---
 
@@ -2225,141 +2319,5 @@ Under the Ministry of Women, Children, Youth Affairs and Sports, 15 companies ar
 [Data](articles/858b7561.json)
 
 [Extended Data](ext_articles/858b7561.ext.json)
-
----
-
-### Reestablishing the trust in Sri Lanka’s education system is critical – PM
-
-*2024-09-28 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102327/reestablishing-the-trust-in-sri-lankas-education-system-is-critical-pm-) · `en`
-
-Prime Minister Dr. Harini Amarasuriya says that education is a key area which the new government will give the “highest priority” to and that they firmly believe reestablishing the trust in the country’s education system is critical.
-
-Addressing a workshop held for school principals at the Ananda College in Colombo today (28), she pointed out that there are several issues in the current education system and that one of the main problems is that the trust in the education system has “broken”.
-
-“As in many other areas of our society, people no longer trust that this system will work for them.”
-
-Dr. Amarasuriya, who is also the Education Minister, said children no longer believe in the importance of education nor do they feel as committed to the education system as perhaps a generation ago.
-
-...
-
-[Data](articles/a95b63f3.json)
-
-[Extended Data](ext_articles/a95b63f3.ext.json)
-
----
-
-### The crime committing the motorcyclist
-
-*2024-09-28 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201645) · `si`
-
-Motorcyclist flees after dispute; driver's keys lost; incident reported in Yagoda area; resident killed near fugitive location.
-
-🟩
-
-The backday motorcycle had fled the neck of the driver's keys due to a dispute between two traveled.
-
-The incident had been reported from the Yagoda area of ​​the Gagoda area.
-
-Residents of the area recovered the death of a fruy jungle near the person who had fled and the deceased.
-
-◼️
-
-[Data](articles/1d50c5a1.json)
-
-[Extended Data](ext_articles/1d50c5a1.ext.json)
-
----
-
-### What is the status of vehicle imports in the new government?
-
-*2024-09-28 21:39:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்தில்-வாகன-இறக்குமதியின்-நிலை-என்ன/175-344618) · `ta`
-
-Vehicle import status unchanged under new government. Central Bank Governor Nandalal Weerasinghe confirms no changes despite political shift. Previous plan to relax restrictions by Feb 1, 2025 remains intact pending continued favorable financial conditions.
-
-🟩
-
-Governor of the Central Bank of Sri Lanka, Nandalal Weerasinghe, stressed that the new government's financial conditions have not changed even after the new government change.
-
-When the previous government decided, the Central Bank had earlier made recommendations to completely relax the restrictions on private vehicle imports by February 1, 2025 after conducting the necessary technical analysis.
-
-Weerasinghe said that if the financial conditions continue on the expected path, it is possible to retain the resolution.
-
-◼️
-
-[Data](articles/c3156c5e.json)
-
-[Extended Data](ext_articles/c3156c5e.ext.json)
-
----
-
-### General Election: Postal voting applications open from Oct. 1 - 7
-
-*2024-09-28 21:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102326/general-election-postal-voting-applications-open-from-oct-1-7) · `en`
-
-The Commissioner General of Elections, Saman Sri Ratnayake, has announced that postal voting applications for the upcoming parliamentary elections will be accepted from October 01 to October 8.
-
-Speaking at a media conference held in Colombo today (28), Ratnayake explained:
-
-“Postal voting applications will be accepted from October 1 to 8. In accordance with the Parliamentary Elections Act No. 01 of 1981, arrangements for accepting applications for postal votes must be made between the 7th and 14th days after the announcement of the election.”
-
-Accordingly, he requested all postal voters to have their postal vote applications for this parliamentary election certified by their institution head, register their vote, and submit it to the district returning officer.
-
-“This election is based on the 2024 voter list. Therefore, the voter list used for the last presidential election will be utilized,” he added.
-
-◼️
-
-[Data](articles/bb7269b4.json)
-
-[Extended Data](ext_articles/bb7269b4.ext.json)
-
----
-
-### Resolution to compete in all areas where Tamils ​​live
-
-*2024-09-28 21:28:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழர்கள்-வாழும்-அனைத்து-பகுதிகளிலும்-போட்டியிட-தீர்மானம்/175-344617) · `ta`
-
-TNA seeks allies for general election. Parties invited to join Tamil National Alliance. If refused, will contest as separate Tamil party. Focus on areas outside North and East.
-
-🟩
-
-TNA spokesman MA Sumanthiran said he would call for partners who had split from the federation to contest the upcoming general election as a Tamil National Alliance.
-
-He said that if the parties did not join the invitation, they would contest as a Tamil party.
-
-Meanwhile, Tamils ​​are being considered to compete in areas where Tamils ​​except the North and East are.. Remble
-
-◼️
-
-[Data](articles/51c6852f.json)
-
-[Extended Data](ext_articles/51c6852f.ext.json)
-
----
-
-### A car suspected to be abducted
-
-*2024-09-28 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201644) · `si`
-
-Car theft: Suspect detained in Katugastota. Mawanella police involved. Vehicle identification unclear. Arrested individual from Kandy. Case transferred to Katugastota Police for investigation.
-
-🟩
-
-The car has been taken into custody by a car in the Katugastota on the 28th.
-
-The Mawanella Police have also taken the suspect with the suspect.
-
-The suspect is unable to verify the vehicle identity when a group of officers of the Criminal Investigation Unit went to the OIC of the Police OIC.
-
-Accordingly, the person has taken steps to arrest the man on suspicion.
-
-The arrested persons were a 23 year old resident of Wattegedara, Kandy.
-
-The suspect and the car will be handed over to Katugastota Police for further investigations.
-
-◼️
-
-[Data](articles/ea494717.json)
-
-[Extended Data](ext_articles/ea494717.ext.json)
 
 ---

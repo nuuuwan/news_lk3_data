@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 17:39:22**
+As of **2024-09-29 18:18:50**
 
 ## Newspaper Stats
 
-*Scraped **46,848** Articles*
+*Scraped **46,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,118 @@ colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
-adalk | 4,323
+adalk | 4,325
 dailymirrorlk | 4,733
-adaderanalk | 5,512
+adaderanalk | 5,515
 tamilmirrorlk | 6,290
 virakesarilk | 7,481
-adaderanasinhalalk | 8,103
+adaderanasinhalalk | 8,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,848 (100.0%) of 46,848 articles have been extended.
+46,854 (100.0%) of 46,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### The final solution to the problem of this year's scholarship examination
+
+*2024-09-29 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201666) · `si`
+
+Here's a 200-character summary:
+
+
+
+Scholarship exam reform: 7-member committee recommends changes to benefit all children, considering mental impact and eligibility criteria.
+
+🟩
+
+The best option for the problem with the examination this year's scholarship examination is recommended that the three issues have been identified for the three issues who have been identified before the examination is to be discussed before the examination.
+
+Will the division of the Grade 5 Scholarship examination this year will be renovated?Not?The Ministry of Education had taken steps to appoint a seven-member committee to decide to go to go.
+
+Studying the report was appointed by Prime Minister Dr. Harini Amarasuriya, Minister of Education.
+
+The committee was educated in educational, educational psychologists, expertise and statistics.
+
+Accordingly, the committee is recommended that the examination will have a profound influence on the mental level of 10 years and is essential to all children.
+
+The Committee has recommended that the Examination Committee is eligible for all children who have been identified for the three issues who have been identified as the examination.
+
+◼️
+
+[Data](articles/25237172.json)
+
+[Extended Data](ext_articles/25237172.ext.json)
+
+---
+
+### Dickwella facing three-year ban from all forms of cricket?
+
+*2024-09-29 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102340/dickwella-facing-three-year-ban-from-all-forms-of-cricket) · `en`
+
+Sri Lankan cricketer Niroshan Dickwella is expected to be banned from all forms of cricket for three years, cricket sources told Ada Derana.
+
+On August 16, Sri Lanka Cricket (SLC) confirmed that Dickwella was suspended from participating in all forms of cricket with immediate effect due to an alleged anti-doping violation.
+
+Dickwella was found guilty of a doping violation during the recent Lanka Premiere League (LPL).
+
+This had reportedly been revealed following a doping test conducted by the Sri Lanka Anti-Doping Agency.
+
+However, SLC stated that the test, which was conducted by the Sri Lanka Anti-Doping Agency (SLADA) during the Lanka Premier League (LPL) 2024, is part of SLC’s ongoing commitment to maintaining the integrity of the sport.
+
+This initiative, undertaken in collaboration with the Ministry of Sports and in accordance with the World Anti-Doping Agency (WADA) guidelines, is aimed at ensuring that cricket remains free from the influence of prohibited substances, it added.
+
+...
+
+[Data](articles/f78c8a54.json)
+
+[Extended Data](ext_articles/f78c8a54.ext.json)
+
+---
+
+### Final decision taken over ‘leaked’ questions of Grade 5 Scholarship exam
+
+*2024-09-29 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102339/final-decision-taken-over-leaked-questions-of-grade-5-scholarship-exam) · `en`
+
+The Ministry of Education stated that a decision has been taken to award full marks to all students for the three questions in the first paper of this year’s Grade 05 Scholarship Examination that had allegedly been shared in advance, as recommended by the committee of experts.
+
+◼️
+
+[Data](articles/e974fe36.json)
+
+[Extended Data](ext_articles/e974fe36.ext.json)
+
+---
+
+### Vijitha Herath appointed President’s representative to CC
+
+*2024-09-29 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102338/vijitha-herath-appointed-presidents-representative-to-cc) · `en`
+
+Minister Vijitha Herath has been appointed as the President’s representative to the Constitutional Council.
+
+The Speaker of the Parliament Mahinda Yapa Abeywardena stated that this nomination was made by President Anura Kumara Dissanayake.
+
+Accordingly, former Minister of Ports, Aviation and Shipping Nimal Siripala de Silva has been removed from the Constitutional Council.
+
+Additionally, Prime Minister Dr. Harini Amarasuriya has also been appointed as a new member of the Council.
+
+Despite the dissolution of the Parliament, the activities of the Constitutional Council are required to be continued until the formation of the new Parliament.
+
+The council is scheduled to meet on October 09, for the first time following the election of the new President.
+
+Other members of the Constitutional Council include former Opposition Leader Sajith Premadasa, former MP Kabir Hashim, former MP Sagara Kariyawasam and the three civil society representatives.
+
+◼️
+
+[Data](articles/7aeeb4d9.json)
+
+[Extended Data](ext_articles/7aeeb4d9.ext.json)
+
+---
 
 ### A warning of the elite lightning
 
@@ -53,6 +149,26 @@ The Meteorology authorities announced heavy showers in the Central, Sabaragamuwa
 [Data](articles/7103815b.json)
 
 [Extended Data](ext_articles/7103815b.ext.json)
+
+---
+
+### The price of rice, Kottu, egg roti varies from midnight today
+
+*2024-09-29 17:06:06* · [`adalk`](https://www.ada.lk/breaking_news/රයිස්--කොත්තු--බිත්තර-රොටී-වල-මිල-අද-මධ්‍යම-රාත්‍රියේ-සිට-වෙනස්-වෙයි/11-412210) · `si`
+
+Rice, Kottu, egg roti prices drop tonight. Egg prices fall by Rs. Rice Kottu reduces by Rs. Egg rolls decrease by Rs. 20. Rice and curry eggs lower by Rs. Prices change effective today (29).
+
+🟩
+
+The All Ceylon Restaurant and Restaurant Association President Harssala Rukshan said that with the reduction of eggs prices today (29).
+
+The prices of all the production of foods of eggs will be decreed today (29). Rice kottu will reduce the price by Rs. The egg rolls reduce by Rs 20. Rice and Curry Eggs will be reduced by Rs. The eggs will be reduced by Rs.
+
+◼️
+
+[Data](articles/64567882.json)
+
+[Extended Data](ext_articles/64567882.ext.json)
 
 ---
 
@@ -145,6 +261,26 @@ Meanwhile, the Secretary to the Ministry of Justice, Public Administration, Home
 [Data](articles/772e47a5.json)
 
 [Extended Data](ext_articles/772e47a5.ext.json)
+
+---
+
+### Showers with lightning lightning - Here are the provinces and the district
+
+*2024-09-29 15:33:42* · [`adalk`](https://www.ada.lk/breaking_news/අද-ප්‍රභල-අකුණු-සමග-වැසි---අවධානයෙන්-පසුවිය-යුතු-පළාත්-සහ-දිස්ත්‍රික්-මෙන්න/11-412209) · `si`
+
+Lightning warnings issued for Polonnaruwa, Sabaragamuwa, Southern, Central, Uva, and Eastern provinces. Residents advised to stay indoors today due to severe thunderstorms.
+
+🟩
+
+The Department of Meteorology announces the greatest lightning in the Polonnaruwa district, Sabaragamuwa, Southern, Central, Uva and Eastern provinces.
+
+Accordingly, the people living in these areas have been released today (29).
+
+◼️
+
+[Data](articles/0202038f.json)
+
+[Extended Data](ext_articles/0202038f.ext.json)
 
 ---
 
@@ -2231,153 +2367,5 @@ We were able to focus on the authorities to the authorities regarding the variou
 [Data](articles/cf6f89f9.json)
 
 [Extended Data](ext_articles/cf6f89f9.ext.json)
-
----
-
-### Prohibition of payment of money in schools
-
-*2024-09-28 19:19:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளில்-பணம்-அறவிடுவதற்கு-தடை-விதிப்பு/175-344616) · `ta`
-
-Ministry of Education bans cash payments in schools due to parent complaints about collections for events like World Children's Day and Teacher's Day. Parents and students face issues with this practice.
-
-🟩
-
-Secretary of the Ministry of Education Tilaka Jayasundara has issued a circular to all school principals across the country.
-
-He also said that the Ministry has received many complaints regarding the collection of parents for various celebrations such as World Children's Day and Teachers' Day.
-
-The Secretary of the Ministry pointed out that parents and students have to face various problems.. Remble
-
-◼️
-
-[Data](articles/d254d451.json)
-
-[Extended Data](ext_articles/d254d451.ext.json)
-
----
-
-### Two Ukrainians arrested for defrauding money through Facebook
-
-*2024-09-28 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201640) · `si`
-
-Ukrainian duo arrested for Facebook fraud. They scammed people via social media, stealing bank account details. Police caught them in Unawatuna. Suspects remanded until 30th.
-
-🟩
-
-Two Ukrainians have arrested two Ukrainians who cheated over Rs.
-
-Throughout the last few days, there have been advertised over Facebook.
-
-It should be included, including bank accounting information, including bank accounting information of persons entering the lane.
-
-The Criminal Investigation Division of the Criminal Investigation Division has received information that a group of people are racketeed by the bank accounts of the bank accounts.
-
-Accordingly, police officers have revealed that the relevant racket is being carried out from Unawatuna area.
-
-The investigating officers were arrested there.
-
-Investigations have revealed that they had been conducting the racket about 5 days ago and were carried out through a group of Telegraph.
-
-The suspects were produced before the Colombo Magistrate's Court today (28) and remanded until the 30th.
-
-◼️
-
-[Data](articles/8659baef.json)
-
-[Extended Data](ext_articles/8659baef.ext.json)
-
----
-
-### Warning on the impact of lightning
-
-*2024-09-28 19:11:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கம்-தொடர்பில்-எச்சரிக்கை/175-344615) · `ta`
-
-Lightning warning: Thunderstorms likely in Sabaragamuwa, Southern, Central, Uva, and North Western districts from 28th evening to 11:30 PM. Public advised to take precautions against lightning impacts.
-
-🟩
-
-The Department of Meteorology has warned of lightning impact. The warning has been issued from today (28) to 11.30 pm.
-
-Accordingly, in the evening or night in the upper, Sabaragamuwa, Southern, Central, Uva and North Western districts, there is a high likelihood of thunderstorms and lightning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The Department of Meteorology has advised the public to take the necessary precautions to reduce the effects of lightning impacts. Remble
-
-◼️
-
-[Data](articles/93768a87.json)
-
-[Extended Data](ext_articles/93768a87.ext.json)
-
----
-
-### Seven-member committee to decide on Grade 5 Scholarship Exam
-
-*2024-09-28 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102325/seven-member-committee-to-decide-on-grade-5-scholarship-exam) · `en`
-
-The Ministry of Education has taken steps to appoint a seven-member committee to decide whether or not this year’s Grade 5 Scholarship Examination should be re-conducted.
-
-Ministry Secretary Thilaka Jayasundara said that this decision was taken on the advice of Prime Minister Dr. Harini Amarasuriya.
-
-A problematic situation arose due to the alleged leakage of some questions in this year’s Scholarship Examination, while the Examinations Department as well as the Criminal Investigation Department (CID) had launched investigations.
-
-Education Ministry Secretary Thilaka Jayasundara added that the relevant committee will decide whether to conduct the examination again or not after considering the outcome of those investigations.
-
-◼️
-
-[Data](articles/1afd7dba.json)
-
-[Extended Data](ext_articles/1afd7dba.ext.json)
-
----
-
-### Is a new alliance from the Tamil and parties?
-
-*2024-09-28 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201639) · `si`
-
-New alliance forming between Tamil and Muslim parties for upcoming elections. Discussions ongoing but no final agreement yet. Parties aim to secure more parliamentary seats through joint efforts.
-
-🟩
-
-At the next general election, the Tamil and Muslim parties have begun discussions with the building of a new alliance.
-
-The second phase of the discussions were scheduled to be held today (28).
-
-The discussion will be held among the former MPs of the Sri Lanka Muslim Congress, Mano Ganeshan, Leader of the Sri Lanka Muslim Congress, and the TNA representing the TNA.
-
-The first round discussions were held last week in the forward election and the Tamil Muslim parties were focused on the contest.
-
-However, it was reported that there was no final agreement on the creation of a new alliance.
-
-The Sri Lanka Muslim Congress and the Tamil Progressive Alliance is part of the party partners and the TNA and the TNA also addresses the TNA.
-
-However, Opposition Leader Sajith Premadasa, the president of the Presidential National Alliance (TNA) was presidential election in recent presidential election.
-
-...
-
-[Data](articles/efb1ec04.json)
-
-[Extended Data](ext_articles/efb1ec04.ext.json)
-
----
-
-### Advisory issued for severe lightning; Heavy showers expected
-
-*2024-09-28 18:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102324/advisory-issued-for-severe-lightning-heavy-showers-expected-) · `en`
-
-The Department of Meteorology says showers or thundershowers will occur over most parts of the island during the afternoon or night.
-
-Heavy showers of about 100 mm can be expected at some places in Central, Sabaragamuwa and North-western provinces and in Kalutara, Galle and Matara districts, it said.
-
-Meanwhile, the Met. Department has also issued an advisory for severe lightning for several provinces.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central, Uva and North-western provinces and in Anuradhapura district.
-
-There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-◼️
-
-[Data](articles/d0f948eb.json)
-
-[Extended Data](ext_articles/d0f948eb.ext.json)
 
 ---

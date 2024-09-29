@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 23:38:45**
+As of **2024-09-29 23:58:15**
 
 ## Newspaper Stats
 
-*Scraped **46,897** Articles*
+*Scraped **46,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,108 @@ adalk | 4,332
 dailymirrorlk | 4,733
 adaderanalk | 5,518
 tamilmirrorlk | 6,298
-virakesarilk | 7,500
+virakesarilk | 7,506
 adaderanasinhalalk | 8,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,895 (100.0%) of 46,897 articles have been extended.
+46,903 (100.0%) of 46,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
 
-### ஹெஸ்புல்லாவின் முக்கிய தளபதி பலி
+### We will negotiate with Mahinda, Namal- Rohitha Abeygunawardena
+
+*2024-09-29 23:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195092) · `ta`
+
+Negotiating with Mahinda Rajapaksa and Namal Rajapaksa about party announcement and symbol. Respecting people's mandate, urging stability over crisis. Ready to accept election results and act as opposition. Announcing resolution for general election participation.
+
+🟩
+
+We will negotiate with PA President Mahinda Rajapaksa National Organizer Namal Rajapaksa. Former parliamentarian Rohitha Abeygunawardena said he would announce the party and the logo on the party and the symbol on Monday (30).
+
+We respect the people's mandate to President Anura Kumara Dissanayake. We have no intention to make the government crisis. Because if the government is in crisis, people will be in crisis. Therefore, we urge the President to fulfill the promises made to the people.
+
+To accept the victory and defeat in the election. Nothing is new to us in the opposition, and I am ready to act as the opposition after the 14th of November. There is hope that the people of Kalutara district will choose me.
+
+We will announce a resolution on the party and symbol that is contesting in the general election. He said he would have talks with Mahinda Rajapaksa's president Mahinda Rajapaksa and the party's national organizer Namal Rajapaksa.
+
+◼️
+
+[Data](articles/1ee8153a.json)
+
+[Extended Data](ext_articles/1ee8153a.ext.json)
+
+---
+
+### Civil Social Finances this week's journey to Geneva;It is intended to negotiate with member states to support the proposal
+
+*2024-09-29 23:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195091) · `ta`
+
+Sri Lanka UN Human Rights Council resolution negotiation update: Civil Society representatives travel to Geneva to secure support from member states for the 51/1 resolution renewal. Meetings with UN officials and other stakeholders planned. Government stance uncertain under new leadership.
+
+🟩
+
+Some of the Civil Socialists who are working on Sri Lanka's platform to carry out negotiations with the members of the UN Human Rights Council (UNHRC) will be able to pass the United Nations Human Rights Council referendum to resume the 51/1 resolution already passed in Sri Lanka.
+
+The 57th session of the United Nations Human Rights Council commenced on the 9th. On that day, the Sri Lankan affair was examined following the speech of UN Human Rights Council Volkar Turk's speech on the global human rights situation and the written report on the Myanmar human rights situation and the debate on it.
+
+UN Human Rights High Commissioner Volkar Turk addresses the progress of the content implementation of the 51/1 resolution titled 'Reconciliation, Liability and Human Rights Upgrading in Sri Lanka' which has already been passed at the Human Rights Council on Sri Lanka.
+
+...
+
+[Data](articles/8458eee2.json)
+
+[Extended Data](ext_articles/8458eee2.ext.json)
+
+---
+
+### Kill the main commander of Hesbullah
 
 *2024-09-29 23:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெஸ்புல்லாவின்-முக்கிய-தளபதி-பலி/50-344681) · `ta`
 
-ஹெஸ்புல்லா அமைப்பின் தலைவர் ஹசன் நஸ்ரல்லா கொல்லப்பட்டு 24 மணித்தியாலங்கள் நிறைவடைந்துள்ள நிலையில், மற்றுமொரு முக்கிய அதிகாரி கொல்லப்பட்டுள்ளதாக இஸ்ரேல் அறிவித்துள்ளது.
+Israel kills Hezbollah commander Ali Karaki in airstrike on Lebanon. Death follows assassination of Hassan Nasrallah. International media confirms.
 
-இதன்படி லெபனான் மீதான இஸ்ரேலின் வான்வழித் தாக்குதல்களில் ஹெஸ்புல்லாவின் தெற்கு முன்னணியின் தளபதியான அலி கராக்கி கொல்லப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+🟩
 
-அலி கராக்கியின் மரணத்தை ஹெஸ்புல்லா இன்று உறுதிப்படுத்தியுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன. (a)
+Israel has announced that another key officer has been killed after 24 hours of assassination of Hesbullah organization leader Hasan Nasrallah.
+
+According to Israel's airstrikes on Lebanon, Ali Karaki, the southern front of the Hezbollah's southern front, has been killed.
+
+International media reports that Hezbullah has confirmed the death of Ali Karaki today. (A)
 
 ◼️
 
 [Data](articles/d7357f09.json)
 
+[Extended Data](ext_articles/d7357f09.ext.json)
+
 ---
 
-### අධ්‍යාපනයට වෙන්කරන ප්‍රමාණය ගැන අග්‍රාමාත්‍ය හරිනිගෙන් සහතිකයක්
+### Prime Minister Hariniga certified as allocated to education
 
 *2024-09-29 23:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201672) · `si`
 
-දළ ජාතික නිෂ්පාදනයෙන් සියයට 6ක් අධ්‍යාපනය වෙනුවෙන් එක්වරම වෙන්කිරීම පවතින ආර්ථික අර්බුදය හමුවේ ගැටලුකාරී තත්ත්වයක් වුවත්, එය ක්‍රමානුකූලව ලබාදීමට ඉදිරියේදී පියවර ගන්නා බව අග්‍රමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසීය.
+Prime Minister Hariniga allocates 6% of GDP to education. She emphasizes education's importance in creating citizens and protecting professionals from political interference. The government aims to achieve this goal systematically despite current economic challenges.
 
-ජාතික පාසල් 396ක විදුහල්පතිවරුන්ගේ සහභාගිත්වයෙන් කොළඹ ආනන්ද විද්‍යාලයේදී ඊයේ (28) පැවති සමුළුවක් අමතමින් ඇය මේ බව කියා සිටියාය.
+🟩
 
-"අපි අධ්‍යාපනය තුළින් බලාපොරොත්තු වෙන්නේ දැනුම කේන්ද්‍ර කරගෙන දෙන අධ්‍යාපනයක් පමණක් නෙමෙයි. මූලික වශයෙන් මේ සමාජයට, අපේ රටට අවශ්‍ය පුරවැසියා බිහිකිරීම අධ්‍යාපනයෙන් සිදුවිය යුතුයි.  අධ්‍යාපනය පිළිබඳ විශ්වාසය නැවත ගොඩනැගීම වැදගත්. අධ්‍යාපනය ගැන දරුවන්ට, මව්පියන්ට, ගුරුවරුන්ට විශ්වාසයක් නැහැ. ඒ පිළිබඳව කලකිරීමකින් ඉන්නේ. විභාග, පත්වීම්, බඳවාගැනීම් අර්බුදකාරී තත්ත්වයක. අධ්‍යාපනය දේශපාලනීකරණය වීම මත විශාල පීඩනයකින් ඔබ ඉන්නේ. ඔබේ වෘත්තිමය ගරුත්වය රකින අධ්‍යාපනයක් අපි හදනවා.
+Priority of the allocation of the GDP, the Prime Minister Dr. Harinin Amarasuriya said that it would be implemented in the future.
 
-දළ ජාතික නිෂ්පාදනයෙන් 6%ක් අධ්‍යාපනයට වෙන්විය යුතුයි. ආර්ථික අර්බුදයත් සමග එක්වර දෙන්න බැහැ. ක්‍රමානුකූලව ඒ ඉලක්කය වෙත යන්න සැලසුම් තියෙනවා. අපේ අයවැය තුළ අධ්‍යාපනයට විශේෂ තැනක් දෙනවා".
+She was speaking at a conference held at Ananda College, Colombo yesterday with the participation of 396 national schools.
+
+"We are expecting education not just education centered education. Basically, creating the citizen of our country should be done in education.  අධ්‍යාපනය පිළිබඳ විශ්වාසය නැවත ගොඩනැගීම වැදගත්. Children, parents, teachers are not sure. It is disappointed in this regard. Examinations, appointments, recruitments are a crisis. You are in great pressure on the politicization of education. We are trying to protect your professional dignity.
+
+6% of the GDP should be separated into education. Cant to give once with the economic crisis. There are plans to systematically go to that goal. "Given a Special for Education in Our Budget".
 
 ◼️
 
 [Data](articles/ee88cb9d.json)
+
+[Extended Data](ext_articles/ee88cb9d.ext.json)
 
 ---
 
@@ -146,6 +204,26 @@ There is no doubt that the intense commitment and determination of his doctor's 
 
 ---
 
+### Women need a 50 percent seat allocation for election
+
+*2024-09-29 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195090) · `ta`
+
+Women demand 50% election seats in Sri Lanka's North and East region. Group calls for equal representation during meeting in Jaffna.
+
+🟩
+
+A group of women in the North and East has demanded that the seat allocation for women in the election be equally shared.
+
+The women's team was jointly announced by the media after a discussion held on Sunday (29) at a private hotel in Jaffna.
+
+◼️
+
+[Data](articles/e0160eab.json)
+
+[Extended Data](ext_articles/e0160eab.ext.json)
+
+---
+
 ### Nepal shuts schools as floods and landslides kill more than 150
 
 *2024-09-29 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102342/nepal-shuts-schools-as-floods-and-landslides-kill-more-than-150) · `en`
@@ -170,6 +248,70 @@ But there were some signs of respite on Sunday morning, with the rains easing in
 
 ---
 
+### Sumanthiran cannot unite with the team - my. Shrikanta
+
+*2024-09-29 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/195089) · `ta`
+
+Sumanthiran refuses to unite with TNA team. Tamil National Party questions motives: Tamil nationalism vs Sinhala compromise? Decision pending on Tuesday.
+
+🟩
+
+Tamil National Party leader N.. Sirikantha said.
+
+Sumanthiran has called for those who have left the Tamil National Alliance at various times. We are obliged to respond to him.
+
+The Democratic Tamil National Alliance (TNA) is ready to work together with the TNA on the basis of the need to retain the representation of the Tamil people in Ampara and Trincomalee districts.
+
+But in the election districts of Jaffna, Vanni and Batticaloa, there are many references to the Tamil National Alliance (TNA) and the past.
+
+Why is it invited to join?Do you compromise Tamil nationalism with the Sinhala nation?Or to retain the existing positions?Or to make indirect compromise with the rulers as in the past?We are forced to raise questions.
+
+The decision of the Tamil National Party is that if unity is to be with policy and goal, we can never create that unity with the Sumanthiran -led team that dominates the TNA.
+
+It is a deception that the entire Tamils ​​are united in the Tamil party.
+
+...
+
+[Data](articles/72b75b76.json)
+
+[Extended Data](ext_articles/72b75b76.ext.json)
+
+---
+
+### "A Buddhist cleric asked her to make my son a day," he said, "The President's mother
+
+*2024-09-29 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/195032) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Anura Dissanayake's journey: From monk candidate to Sri Lanka's 9th president. Overcame struggles, including being sent to monastery at age 12. Showed early leadership potential, becoming president after his father's death in 1982. Demonstrated strong work ethic and reading habits from childhood.
+
+🟩
+
+Sri Lanka's ninth executive president Anuragumara Dissanayake's journey is not easy. But for his predecessor, it was seen as a flower.
+
+The most common beginning and heavy struggles were found as part of his life. He faced many struggles.
+
+“Once upon a time, the clergyman of a Buddhist idol asked him to send Dissanayake to the monastic. He was 12 years old at the time. I do not accept it, ”says the president's mother TM Seelavati.
+
+“After many years, the police were searching for him, he was unable to attend his father's funeral,” he said.
+
+He continued, “In the sixth month of the son, I brought his horoscope to a astrologer. He is shocked and looked at my face and said, "Your son will one day king."
+
+I met the President's mother in a normal house found under Mahaweli H. In 1972 they settled in the house.
+
+Traveling from a farm village called Tambuttegama should travel through the rugged road and go to the president's home.
+
+...
+
+[Data](articles/af9f65ed.json)
+
+[Extended Data](ext_articles/af9f65ed.ext.json)
+
+---
+
 ### Special Notice of O/L Grades
 
 *2024-09-29 21:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-l-பெறுபேறுகள்-குறித்து-விஷேட-அறிவிப்பு/175-344678) · `ta`
@@ -191,6 +333,24 @@ The Commissioner General of Examinations Amit Jayasundara said that the review a
 [Data](articles/0174e40c.json)
 
 [Extended Data](ext_articles/0174e40c.ext.json)
+
+---
+
+### The blow to the allowances of former presidents….!
+
+*2024-09-29 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195087) · `ta`
+
+Former presidents' allowances reduced. Gifts for ex-presidents Mahinda, Maithri, and Gotabhaya to be canceled. Cabinet discussion pending. Civil organizations oppose perks for convicted leaders.
+
+🟩
+
+Former presidents are receiving all the gifts received by a cabinet minister. President Anura Kumara has taken steps to reduce reforms and reduce the allowances.To be discussed in the Cabinet. Also, all the gifts for the former presidents of Mahinda, Mahinda, Maithri and Gotabhaya have to be canceled.. Civil organizations have also noted that they have no right to enjoy the government's privileges as the three have been declared criminals by the High Court.
+
+◼️
+
+[Data](articles/1d1c21f7.json)
+
+[Extended Data](ext_articles/1d1c21f7.ext.json)
 
 ---
 
@@ -227,6 +387,30 @@ The UNP representatives have also objected to the proposal.
 [Data](articles/5b37c89c.json)
 
 [Extended Data](ext_articles/5b37c89c.ext.json)
+
+---
+
+### Israeli Prime Minister's Airport
+
+*2024-09-29 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195086) · `ta`
+
+Israeli PM's airport under attack: Israeli forces strike Houthi positions in Yemen, targeting ports and power plants.
+
+🟩
+
+The Israeli military has launched an offensive on the positions of Hewthi insurgents in Yemen.
+
+Israel has reportedly attacked the targets of Hewthi insurgents in several cities, including Yemen's Hodaida city.
+
+Israeli insurgents have reported that Israel has launched an attack on ports and power plants.
+
+Israel has launched an attack on the Penguin International Airport near the capital of Israel.
+
+◼️
+
+[Data](articles/48420d06.json)
+
+[Extended Data](ext_articles/48420d06.ext.json)
 
 ---
 
@@ -1842,40 +2026,6 @@ The relevant suspect has been handed over to Thalangama Police for further inves
 
 ---
 
-### "A Buddhist cleric asked her to make my son a day," he said, "The President's mother
-
-*2024-09-29 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/195032) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Anura Dissanayake's journey: From monk candidate to Sri Lanka's 9th president. Overcame struggles, including being sent to monastery at age 12. Showed early leadership potential, becoming president after his father's death in 1982. Demonstrated strong work ethic and reading habits from childhood.
-
-🟩
-
-Sri Lanka's ninth executive president Anuragumara Dissanayake's journey is not easy. But for his predecessor, it was seen as a flower.
-
-The most common beginning and heavy struggles were found as part of his life. He faced many struggles.
-
-“Once upon a time, the clergyman of a Buddhist idol asked him to send Dissanayake to the monastic. He was 12 years old at the time. I do not accept it, ”says the president's mother TM Seelavati.
-
-“After many years, the police were searching for him, he was unable to attend his father's funeral,” he said.
-
-He continued, “In the sixth month of the son, I brought his horoscope to a astrologer. He is shocked and looked at my face and said, "Your son will one day king."
-
-I met the President's mother in a normal house found under Mahaweli H. In 1972 they settled in the house.
-
-Traveling from a farm village called Tambuttegama should travel through the rugged road and go to the president's home.
-
-...
-
-[Data](articles/af9f65ed.json)
-
-[Extended Data](ext_articles/af9f65ed.ext.json)
-
----
-
 ### One person killed in a sharp weapon in Kanemulla
 
 *2024-09-29 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195026) · `ta`
@@ -2245,145 +2395,5 @@ The Monetary Policy Board observed that inflation was highly lower than the targ
 [Data](articles/34de97a8.json)
 
 [Extended Data](ext_articles/34de97a8.ext.json)
-
----
-
-### Announcement on re-scrutiny of GCE O/L results
-
-*2024-09-29 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102330/announcement-on-re-scrutiny-of-gce-ol-results) · `en`
-
-The Department of Examinations has issued an announcement regarding accepting of applications for the re-correction of the results of 2023 G.C.E. Ordinary Level Examination.
-
-Accordingly, it has been stated that the applications will be accepted for re-scrutiny of results from October 1 to 14.
-
-The Department of Examinations further stated that if there are any inquiries regarding the results, the hotline can be reached at 1911 or the following numbers: 011 2 785 922, 011 2 786 616, 011 2 784 208, or 011 2 784 537.
-
-◼️
-
-[Data](articles/c56a0938.json)
-
-[Extended Data](ext_articles/c56a0938.ext.json)
-
----
-
-### Rwanda congratulations to Anura
-
-*2024-09-29 09:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுக்கு-ருவாண்டா-வாழ்த்து/175-344645) · `ta`
-
-Rwanda congratulates Anura Kumara Dissanayake as 9th President of Sri Lanka. Message emphasizes strengthening bilateral ties and mutual benefits for both nations.
-
-🟩
-
-In a message sent to the government of the Democratic Socialist Republic of Sri Lanka, the Rwanda Republican government has congratulated Anura Kumara Dissanayake, the 9th President of Sri Lanka.
-
-The news of Rwanda's acclaim for the best bilateral relations between the two countries revealed. The news further confirmed Rwanda's commitment to strengthen cooperation in mutual beneficial areas, aimed at improving relationships for the benefit of Rwanda and Sri Lankan citizens.
-
-◼️
-
-[Data](articles/31470f23.json)
-
-[Extended Data](ext_articles/31470f23.ext.json)
-
----
-
-### The fourth day of the second Test is today
-
-*2024-09-29 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201653) · `si`
-
-Sri Lanka vs New Zealand Test: Day 4. NZ leads by 315 after scoring 199/5. SL won toss, scored 60/1. Weather halted play twice. Prabath Jayasuriya (6 wkts) and Nishan Peiris (3 wkts) star performers.
-
-🟩
-
-Today is the fourth day of the second Test match between Sri Lanka and Sri Lanka.
-
-New Zealand scored 199 runs for the loss of 5 wickets for their second innings when the match was completed yesterday.
-
-Accordingly, New Zealand team will be behind 315 runs than the first innings of Sri Lanka.
-
-Batting first, Sri Lanka won the toss and elected to score 60 runs for the first innings.
-
-However, New Zealand team was able to receive 88 runs in the first innings.
-
-Prabath Jayasuriya took six wickets and Nishan Peiris took three wickets.
-
-When New Zealand was in the innings to bat first, New Zealand team stopped again due to the bad weather, 5 wickets and scored 199 runs.
-
-Nishan Peiris wickets three wickets while Prabath Jayasuriya and Dananjaya de Silva were divided among 3 wickets.
-
-◼️
-
-[Data](articles/a9ef14c5.json)
-
-[Extended Data](ext_articles/a9ef14c5.ext.json)
-
----
-
-### Anganan insisting on the president
-
-*2024-09-29 09:09:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியிடம்-அங்கஜன்-வலியுறுத்தல்/175-344644) · `ta`
-
-Former MP Anganan Ramanathan urges President Anuradha Sanayake to reopen Jaffna's main roads, citing benefits for reconciliation and regional development. This follows the President's order to open major roads in Colombo for public use.
-
-🟩
-
-Former parliamentarian Anganan Ramanathan has urged President Anuragumara Dissanayake to reopen the main roads of Jaffna.
-
-Ramanathan told his X site that the opening of roads in the Vain Northern High Security Zone will strengthen reconciliation and regional development.
-
-"I would like to urge President @Anuradhasanayake to reopen the main streets of Jaffna in accordance with the recent road access reforms in Colombo," he said.
-
-The request has been made following the President's order to open the main roads in Colombo for public use from today.
-
-Accordingly, Sir Baron Jayatilaka, near the President's House, has directed the President to open the Mawatha and President Mawatha.
-
-◼️
-
-[Data](articles/c0f59fc7.json)
-
-[Extended Data](ext_articles/c0f59fc7.ext.json)
-
----
-
-### A five-day mourning of Iran
-
-*2024-09-29 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201652) · `si`
-
-Iran mourns 5 days over Hezbollah leader's death. Supreme Leader vows revenge. Israel's Netanyahu calls it historic shift. US President Biden hails it as justice.
-
-🟩
-
-Foreign media reports that Iran's supreme leader Astallama Kameney has been declared due to the death of Hezbollah captain Hasan Nasaralla.
-
-The Supreme Leader of Iran is mentioned that this death cannot be done without revenge.
-
-However, Israeli Prime Minister Benjamin Netanyahu has said that the death of the Hezbollah will be a historical turn.
-
-US President Joe Bidaman said that the death of Hezbollah leader Hasan Nasinghe would be justice.
-
-◼️
-
-[Data](articles/b6354db0.json)
-
-[Extended Data](ext_articles/b6354db0.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-09-29 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102329/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur over most places of the Island during the afternoon or night.
-
-Heavy showers about 100 mm can be expected at some places in Central, Sabaragamuwa, Southern and North-western provinces and in Kaluthara district.
-
-Showers may occur in Southern province and in Batticaloa and Ampara districts during the morning too, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/35b656ac.json)
-
-[Extended Data](ext_articles/35b656ac.ext.json)
 
 ---

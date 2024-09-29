@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 18:41:48**
+As of **2024-09-29 19:08:31**
 
 ## Newspaper Stats
 
-*Scraped **46,862** Articles*
+*Scraped **46,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,109 @@ dailyftlk | 3,129
 adalk | 4,327
 dailymirrorlk | 4,733
 adaderanalk | 5,515
-tamilmirrorlk | 6,293
+tamilmirrorlk | 6,295
 virakesarilk | 7,484
-adaderanasinhalalk | 8,104
+adaderanasinhalalk | 8,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,856 (100.0%) of 46,862 articles have been extended.
+46,865 (100.0%) of 46,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
 
-### இன்று முதல் மினி நிலவைக் காணலாம்
+### Do not exchange otp to any cause
+
+*2024-09-29 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201667) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Banks warn: Don't share OTPs. Police advise against exchanging one-time passwords due to rising financial fraud cases.
+
+🟩
+
+The police will request the general public not to share the Messen (OTP) for the banks.
+
+They have made this request by pointing that recently serious financial frauds.
+
+◼️
+
+[Data](articles/af168017.json)
+
+[Extended Data](ext_articles/af168017.ext.json)
+
+---
+
+### Explanation of Payment Carry
+
+*2024-09-29 18:40:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடுப்பனவு-நிறுத்தம்-குறித்து-விளக்கம்/175-344664) · `ta`
+
+Ministry of Defense suspends promotion allowance for soldiers appointed before September 22, 2024, affecting those involved in protecting former VIPs. Payments halted for specific roles related to security forces, military commanders, and security details.
+
+🟩
+
+The Ministry of Defense has clarified the latest reports on the suspension of the promotion allowance for the soldiers appointed to the security forces.
+
+In the report, the ministry has confirmed that the allowance has been discontinued only to employees appointed before the safety of former VIPs.
+
+After September 22, 2024, these people will no longer engage in such obligations, so their payments have been stopped on that day.
+
+However, the allowance for employees linked to the security forces, the chief of the security forces, the military commanders and the security details of the security forces.
+
+◼️
+
+[Data](articles/c03e0dff.json)
+
+[Extended Data](ext_articles/c03e0dff.ext.json)
+
+---
+
+### Scholarship Controversy- The results have been reached
+
+*2024-09-29 18:31:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-சர்ச்சை-முடிவு-எட்டப்பட்டது/175-344663) · `ta`
+
+Grade 5 students receive full marks for leaked questions in Scholarship Examination due to investigation findings. Ministry ensures exam integrity.
+
+🟩
+
+The Ministry of Education, Science and Technology has announced that all Grade 5 students will be given full marks for three questions leaked in the Scholarship Examination.
+
+Following the investigation of the expert panel on the leak, the ministry decided to take this action to ensure integrity.
+
+◼️
+
+[Data](articles/ad49f53d.json)
+
+[Extended Data](ext_articles/ad49f53d.ext.json)
+
+---
+
+### You can see the first mini moon today
 
 *2024-09-29 18:26:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/இன்று-முதல்-மினி-நிலவைக்-காணலாம்/53-344662) · `ta`
 
-பூமி அதன் வழக்கமான நிலவை விட மிகவும் சிறியதாக இருந்தாலும், ஒரு தற்காலிக குட்டி நிலவை பெற உள்ளது.
+Mini moon spotted: Asteroid as big as bus orbits Earth temporarily. Visible via telescope, not naked eye. Astronomers excited about research opportunities.
 
-இந்த மினி நிலவு உண்மையில் புதிதாக கண்டுபிடிக்கப்பட்ட சிறுகோள் ஆகும், இது ஒரு பாடசாலை பேருந்தின் அளவானதாகும்.
+🟩
 
-இன்று அது பூமிக்கு மிக அருகில் பயணிக்கவுள்ளதாகவும், புவியின் ஈர்ப்பு விசை தற்காலிகமாக அதைத் தக்கவைக்கும் எனவும், இதனால் அது பூமியைச் சுற்றி இரண்டு மாதங்கள் இருக்கும் எனவும் வானியலாளர்கள் கூறுகின்றனர்.
+Although the Earth is much smaller than its usual moon, it is to get a temporary cub.
 
-இந்த "மினி நிலவு" வெற்றுக் கண்ணுக்குத் தெரியாது என்றாலும் தொலைநோக்கி மூலம் காணலாம். இந்த குறுகிய கால விண்வெளி கோளானது வானியலாளர்களுக்கு ஒரு புதிய ஆராய்ச்சிக்கான வாய்ப்பை வழங்கியுள்ளது.
+This mini moon is actually the newly discovered asteroid, which is the size of a school bus.
+
+Astronomers say that it will travel very close to the earth and that the Earth's gravity will temporarily retain it, and it will take two months around the earth.
+
+This "mini moon" can be seen by telescopic though not visible to the empty eye. This short -term space planet has given astronomers an opportunity for a new research.
 
 ◼️
 
 [Data](articles/f737d978.json)
+
+[Extended Data](ext_articles/f737d978.ext.json)
 
 ---
 
@@ -74,15 +148,25 @@ Foreign Minister Vijitha Herath, who is responsible for the Department of Immigr
 
 ---
 
-### පසුගිය ශිෂ්‍යත්වය නැවත පවත්වන්නේ නෑ - පිටවූ ප්‍රශ්න තුනට සෑම සිසුවෙකුටම ලකුණු
+### The last scholarship will not be rehabilitated - every student points to the three questions
 
 *2024-09-29 18:02:11* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-ශිෂ්‍යත්වය-නැවත-පවත්වන්නේ-නෑ---පිටවූ-ප්‍රශ්න-තුනට-සෑම-සිසුවෙකුටම-ලකුණු/11-412214) · `si`
 
-පසුගියදා පැවැත්වූ ශිෂ්‍යත්ව විභාගයේ ප්‍රශ්න තුනක් පිටවීමේ සිදුවීම හේතුවෙන් අසාධාරණයට ලක්වූ සියලුම සිසුන්ට එම ප්‍රශ්න තුනට අදාළව ලකුණු ලබාදීමටත් එම ශිෂ්‍යත්ව විභාගය නැවත වරක් නොපැවැත්වීමටත් තීරණය කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+Here's a 200-character summary:
+
+
+
+Ministry of Education announces recent scholarship exam exit decision: All affected students will face three unresolved issues instead of rehabilitation.
+
+🟩
+
+According to the Ministry of Education, all students who have been subjected to the exit of the recent scholarship examination have been decided to give the three issues and not once again.
 
 ◼️
 
 [Data](articles/2196cbfb.json)
+
+[Extended Data](ext_articles/2196cbfb.ext.json)
 
 ---
 
@@ -164,15 +248,21 @@ The Ministry of Education had appointed a seven-member committee to decide wheth
 
 ---
 
-### தமிழ் தரப்பினருக்கு சவாலாக   மாறியுள்ள  பாராளுமன்றத் தேர்தல்!
+### Parliamentary Elections
 
 *2024-09-29 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195023) · `ta`
 
-மலையக கட்சிகளில் தமிழ் முற்போக்குக் கூட்டணி சஜித்துக்கு ஆதரவு தரும் வகையிலேயே செயற்பட்டு வருகின்றது. ஆனால் பாராளுமன்றத் தேர்தலில் அது தொடருமா என்பது தெரியவில்லை. மலையகத்தைப் பிரதிநிதித்துவப்படுத்தும் ஒரு பிரதிநிதியாவது அநுரவின் அரசாங்கத்தில் இடம்பிடிக்க வேண்டும் என்ற யோசனை தமிழ் முற்போக்குக் கூட்டணிக்கு உள்ளது. சஜித்தின் ஐக்கிய மக்கள் சக்தியுடன் இணைந்து தொலைபேசி சின்னத்தில் போட்டியிட்டால் அது சாத்தியமாகாது.
+Tamil Progressive Alliance supports Sajith in upcountry parties but unsure about continued participation in parliamentary elections. They want a hill country representative in Anura's government, which may conflict with Sajith's United People's Power contesting under the telephone symbol.
+
+🟩
+
+The Tamil Progressive Alliance is working in support of Sajith in the upcountry parties. But it is not known whether it will continue in the parliamentary election. The Tamil Progressive Alliance has the idea that a representative representing the hill country should be placed in the government of Anura.. It is not possible if Sajith's United People's Power contested the telephone symbol.
 
 ◼️
 
 [Data](articles/84617522.json)
+
+[Extended Data](ext_articles/84617522.ext.json)
 
 ---
 
@@ -222,23 +312,29 @@ Secretary of the Ministry of Education Tilaka Jayasundera has sent a letter to a
 
 ---
 
-### සනත් වසරකට ලංකාවේ ක්‍රිකට් පුහුණුකරු කරයි
+### Sanath makes Sri Lankan cricket coach for a year
 
 *2024-09-29 17:31:32* · [`adalk`](https://www.ada.lk/sports/සනත්-වසරකට-ලංකාවේ-ක්‍රිකට්-පුහුණුකරු-කරයි/9-412211) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායමේ තාවකාලික පුහුණුකරු ලෙස කටයුතු කරමින් සිටි හිටපු නායක සනත් ජයසූරිය වසරකට කාලයක් ක්‍රිකට් පුහුණුකරු ලෙස පත්කිරීමට  ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ අවධානය යොමුව තිබේ.
+Sanath Jayasuriya appointed Sri Lanka cricket coach for 1 year. Led team to notable victories against India and New Zealand after long droughts. Achievements include wins in India series and NZ match after 15-year gap.
 
-අතුරු පුහුණුකරු ලෙස සනත් කණ්ඩායම භාර ගැනීමෙන් පසුව ශ්‍රී ලංකා කණ්ඩායමේ විශේෂ ජයග්‍රහණ වාර්තා කිරීමට සමත්විය.
+🟩
 
-සනත් මුලින්ම ඉන්දියාව සමගින් පැවැති තරගාවලියේදී ශ්‍රී ලංකා කන්ඩායමේ අතුරු පුහුණුකරු ලෙස රාජකාරී ආරම්භ කළ අතර එහිදී ඉන්දීය කණ්ඩායමට එරෙහිව වසර 27කට පසුව එක්දින තරගාවලි ජයක් වාර්තා කිරීමට සමත්විය.
+Sri Lanka Cricket's focus is on the appointment of former Leader Sanath Jayasuriya as the temporary coach of the Sri Lankan team as a cricket coach.
 
-ඉන් අනතුරුව එංගලන්ත ටෙස්ට් තරගාවලියේදී එංගලන්තයේදී  වසර 10කට පසුව ටෙස්ට් තරග ජයක් වාර්තා කිරීමට සමත්විය.
+As the intercourse handed over by the Divisional team, the Sri Lankan team recorded special achievements.
 
-අනතුරුව නවසීලන්තය සමගින් පැවැතිටෙස්ට් තරගාවලිය ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය එවැනි දක්ෂතාවක් දැක්වූයේ වසර 15කට පසුවයි.
+Sanath started duties as the lateral of the Sri Lanka team at the first series of India with India.
+
+Subsequently, 10 years later in England, England recently recovered Test.
+
+The Sri Lankan team was able to win the matching tournament with New Zealand after 15 years.
 
 ◼️
 
 [Data](articles/4cbe68ed.json)
+
+[Extended Data](ext_articles/4cbe68ed.ext.json)
 
 ---
 
@@ -422,19 +518,25 @@ The victim's police officer and top officials have complained to top officials c
 
 ---
 
-### கல்கிஸ்ஸயில் ஹெரோயினுடன் ஒருவர் கைது
+### Arrested with heroin in Kalkissa
 
 *2024-09-29 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195056) · `ta`
 
-கல்கிஸ்ஸ படோவிட பிரதேசத்தில் ஹெரோயினுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (28) கைது செய்யப்பட்டுள்ளதாக கல்கிஸ்ஸ பொலிஸார் தெரிவித்தனர்.
+Heroin arrest in Kalkissa: Police seize 6g of 800mg heroin from suspect during raid on Saturday.
 
-கல்கிஸ்ஸ பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது இவர் கைது செய்யப்பட்டார்.
+🟩
 
-கைது செய்யப்பட்ட நபரிடம் இருந்து 06 கிராம் 800 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டது.
+A suspect with heroin in Kalkissa Badovita area has been arrested on Saturday (28), Kalkissa police said.
+
+He was arrested during a raid carried out on the basis of information received by a group of Kalkissa police station officials.
+
+The drug was seized by the police by the arrested person, 06 grams of 800 milligrams of heroin.
 
 ◼️
 
 [Data](articles/f6d2774f.json)
+
+[Extended Data](ext_articles/f6d2774f.ext.json)
 
 ---
 
@@ -460,19 +562,29 @@ Meanwhile, another meeting between District Returning Officers, Assistant Commis
 
 ---
 
-### பிரைட் ரைஸ், கொத்து ரொட்டியின் விலை இன்று நள்ளிரவு முதல் குறைப்பு
+### Bright Rice, Masonry Bread Price is a reduction from midnight today
 
 *2024-09-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/195062) · `ta`
 
-பிரைட் ரைஸ் (fried rice) மற்றும் கொத்து ரொட்டியின் விலை இன்று ஞாயிற்றுக்கிழமை (29) நள்ளிரவு முதல் 40 ரூபாவினால் குறைக்கப்படும் என உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+Here's a 200-character summary:
 
-அத்தோடு, முட்டை ரொட்டி ஒன்றின் விலை 30 ரூபாவினால் குறைக்கப்படும் எனவும் சங்கத்தின் தலைவர் ஹர்ஷன ருக்ஷான் தெரிவித்துள்ளார்.
 
-இன்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும்போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+Restaurant owners association announces price reduction for Fried Rice and Masonry Bread starting midnight Sunday. Egg bread price drops by 30 rupees. Association president Harshan Rukshan made announcement at media briefing today.
+
+🟩
+
+The price of Fried Rice and Masonry Bread will be reduced by midnight on Sunday (29) from midnight, the restaurant owners association said.
+
+The president of the association, Harshan Rukshan, said the price of an egg bread would be reduced by 30 rupees.
+
+He was speaking at a media briefing held today.
 
 ◼️
 
 [Data](articles/faef1637.json)
+
+[Extended Data](ext_articles/faef1637.ext.json)
 
 ---
 
@@ -2235,89 +2347,5 @@ The Department of Meteorology has said that heavy winds may blow in the event of
 [Data](articles/506adbce.json)
 
 [Extended Data](ext_articles/506adbce.ext.json)
-
----
-
-### Talk of Acting IGP about justice operation
-
-*2024-09-28 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201646) · `si`
-
-Acting IGP Priyantha Weerasuriya discusses justice operations and police shortages during visit to Sri Dalada Maligawa. He emphasizes reassigning officers from elite protection to regular duties due to manpower issues.
-
-🟩
-
-The newly appointed acting IGP Priyantha Weerasuriya visited historic Sri Dalada Maligawa today (28).
-
-Acting IGP Priyantha Weerasuriya said,
-
-Q. Justice operation operated by the past. Now the Mahanayaka Thero states that there is a little shortage?
-
-Acting Inspector IGP - "We insisted the influence on the implementation of the acting, corrected by the police, police operate in the future of the police. And by applying former officers in other duties and implementing for that in the future. "
-
-Q. Do many police officers who have been deployed for the elite protection be attached again in police duties?
-
-Acting IGP - "There is a shortage of police officers. As an alternative answer to the deficit, the officials employed in other duties so far will be taken to prevent the prevention of public service based on the necessity. "
-
-◼️
-
-[Data](articles/fd1c8367.json)
-
-[Extended Data](ext_articles/fd1c8367.ext.json)
-
----
-
-### Leakage of the questionnaire;Interrogation committee
-
-*2024-09-28 22:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-கசிவு-விசாரணைக்-குழு-நியமனம்/175-344620) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-An independent 7-member inquiry committee investigates the leakage of a Grade 5 scholarship questionnaire. The team includes Independent Inquiry Officers and Independent Monitoring Officers.
-
-🟩
-
-A seven -member independent inquiry committee has been appointed to investigate the incident of the Grade 5 scholarship questionnaire.
-
-Independent Inquiry Officers and Independent Monitoring Officers are included in the group. (A)
-
-◼️
-
-[Data](articles/4adc9fa1.json)
-
-[Extended Data](ext_articles/4adc9fa1.ext.json)
-
----
-
-### Issues for Ministries: Gazette Release
-
-*2024-09-28 22:23:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுகளுக்கான-விடயதானங்கள்-வர்த்தமானி-வெளியீடு/175-344619) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ministries list companies in gazette: Defense (26), Finance (62), Power & Energy (11), Justice (38), Education (45), Women & Youth (15), Commerce (41), Health (26), Buddha Sasana (1), Transport (17), Police (1), Environment (48), Rural Dev (15).
-
-🟩
-
-26 companies, including the Headquarters of the Security Forces, the Army, the Navy, the Air Force, the State Intelligence Service, the Risk Management Center and the Department of Meteorology, are listed under the Ministry of Defense.
-
-There are 62 companies under the Ministry of Finance, Economic Development, Policy Class, Planning and Tourism.
-
-Under the Ministry of Power and Energy, 11 companies have been listed under the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Water Supply and 35 companies.
-
-There are 38 companies under the Ministry of Justice, Public Administration, Home Affairs, Provincial Councils and Local Government and Labor.
-
-Under the Ministry of Education, Science and Technology, 45 companies, including Sri Lanka Telecom, Information Technology Agency and the Sri Lanka Information Safety Authority.
-
-Under the Ministry of Women, Children, Youth Affairs and Sports, 15 companies are listed in the Gazette.
-
-...
-
-[Data](articles/858b7561.json)
-
-[Extended Data](ext_articles/858b7561.ext.json)
 
 ---

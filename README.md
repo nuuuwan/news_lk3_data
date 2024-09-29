@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 19:08:31**
+As of **2024-09-29 19:22:56**
 
 ## Newspaper Stats
 
-*Scraped **46,865** Articles*
+*Scraped **46,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
-adalk | 4,327
+adalk | 4,328
 dailymirrorlk | 4,733
 adaderanalk | 5,515
 tamilmirrorlk | 6,295
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,865 (100.0%) of 46,865 articles have been extended.
+46,866 (100.0%) of 46,866 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -245,6 +245,30 @@ The Ministry of Education had appointed a seven-member committee to decide wheth
 [Data](articles/e974fe36.json)
 
 [Extended Data](ext_articles/e974fe36.ext.json)
+
+---
+
+### Namal launches inspection due to a vehicle
+
+*2024-09-29 17:42:03* · [`adalk`](https://www.ada.lk/breaking_news/වාහනයක්-නිසා-නාමල්ට-පරීක්ෂණයක්-අරඹයි/11-412212) · `si`
+
+Namal Rajapaksa's vehicle inspected over political activity allegations. Driver questioned about Ceylon Electricity Company vehicle involvement. Investigation ongoing regarding incident details and mobile data requests.
+
+🟩
+
+The Fort Magistrate informed the Fort Magistrate, Kollupitiya Police, who was involved in the political activities of the Ceylon Electricity Company (LECO).
+
+The magistrate allowed the driver of the vehicle to the Kollupitiya Police, the driver of the vehicle, to the Kollupitiya Police.
+
+Kollupitiya police stated that a report indicated on the progress of the procedure in relation to the incident, Namal Rajapaksa was a presidential candidate in the last presidential election and his political rally was held on the 21st of August.
+
+The driver of a Montero jhip of the Ceylon Electrical Company has been asked that the vehicle had been asked to relocate the vehicle to the garage and had been given leave to the garage.It was reported that Namal Rajapaksa has been deployed for the meeting in Anuradhapura held in Anuradhapura.
+
+...
+
+[Data](articles/6a969f21.json)
+
+[Extended Data](ext_articles/6a969f21.ext.json)
 
 ---
 
@@ -2325,27 +2349,5 @@ In addition, President's Attorney Rasik Saruk has been appointed as the Vice Pre
 [Data](articles/b8c8c459.json)
 
 [Extended Data](ext_articles/b8c8c459.ext.json)
-
----
-
-### More than 100mm of rain
-
-*2024-09-28 22:42:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லி-மீற்றருக்கும்-அதிக-மழை/175-344621) · `ta`
-
-Heavy rainfall warning: 100+ mm expected in central, southern provinces. Thunderstorms forecasted with strong gusts possible.
-
-🟩
-
-The Department of Meteorology has predicted thunderstorms in many parts of the country.
-
-Accordingly, more than 100 millimeters of heavy rains are expected in the Central, Sabaragamuwa and Southern Provinces in Kalutara, Galle and Matara districts.
-
-The Department of Meteorology has said that heavy winds may blow in the event of thunderstorms. (A)
-
-◼️
-
-[Data](articles/506adbce.json)
-
-[Extended Data](ext_articles/506adbce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 14:11:15**
+As of **2024-09-29 14:39:08**
 
 ## Newspaper Stats
 
-*Scraped **46,829** Articles*
+*Scraped **46,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,76 @@ adalk | 4,319
 dailymirrorlk | 4,733
 adaderanalk | 5,510
 tamilmirrorlk | 6,287
-virakesarilk | 7,477
-adaderanasinhalalk | 8,098
+virakesarilk | 7,481
+adaderanasinhalalk | 8,099
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,829 (100.0%) of 46,829 articles have been extended.
+46,834 (100.0%) of 46,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### There is no need to flee the country - Kamal Gunaratne
+
+*2024-09-29 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195050) · `ta`
+
+Retired General Kamal Gunaratne denies fleeing country, calls social media claims false.
+
+🟩
+
+Former Defense Secretary Retired General Kamal Gunaratne says there is no need to flee the country.
+
+He further stressed that the information on social media that he fled the country was completely false.
+
+◼️
+
+[Data](articles/95236135.json)
+
+[Extended Data](ext_articles/95236135.ext.json)
+
+---
+
+### 3 years cricket banned for Dickwella
+
+*2024-09-29 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201661) · `si`
+
+Niroshan Dickwella faces 3-year cricket ban after being accused of receiving banned stimulants during the Lanka Premier League.
+
+🟩
+
+Sri Lanka's cricketer Niroshan Dickwella will be imposed for all three years in cricket in three years.
+
+It is reported that the ban is due to be charged against him that he was accused of receiving banned stimulants at the conclusion of the Lanka Premier Lig cricket tournament.
+
+◼️
+
+[Data](articles/59826adf.json)
+
+[Extended Data](ext_articles/59826adf.ext.json)
+
+---
+
+### Yall. What is the end of the voters?
+
+*2024-09-29 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195051) · `ta`
+
+End of voters' influence: Douglas Devananda and Ananthan Ramanathan, top vote recipients, didn't support Ranil Wickremesinghe. Ceylon Tamil Congress won't join parties, competing alone. Some voters shifted to conventions or other symbols.
+
+🟩
+
+Douglas Devananda and Anganan Ramanathan, who received the most votes in the last parliamentary election, did not give Ranil Wickremesinghe- their influence.. They cannot use state power in the election. All Ceylon Tamil Congress is not going to join any party. It will compete alone. Many of the party's voters who received 55 thousand votes last time voted for the convention in the presidential election. Or voted for other symbols.
+
+◼️
+
+[Data](articles/34f490a7.json)
+
+[Extended Data](ext_articles/34f490a7.ext.json)
+
+---
 
 ### President decides on the cost of parliamentary election
 
@@ -139,6 +197,58 @@ Accordingly, Nishan Peiris was diagnosed with the first wicket of Tom Solimadium
 [Data](articles/d581db62.json)
 
 [Extended Data](ext_articles/d581db62.ext.json)
+
+---
+
+### One arrested with ice drugs in Grandpass, Colombo
+
+*2024-09-29 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195043) · `ta`
+
+Arrest made in Grandpass, Colombo: Suspect caught with 10g of 910mg ice drugs during police raid.
+
+🟩
+
+A suspect who had an ice drug in the Majid area of ​​the Grandpass police division was arrested on Saturday (28), police said.
+
+He was arrested during a raid carried out on confidential information received by the Grandpass police.
+
+10 grams of 910 milligrams of Ice was seized by the police.
+
+◼️
+
+[Data](articles/f3b92699.json)
+
+[Extended Data](ext_articles/f3b92699.ext.json)
+
+---
+
+### Sri Lanka needs to continue the International Monetary Fund's plan - Julie Chung
+
+*2024-09-29 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195045) · `ta`
+
+Sri Lanka continues IMF plan: US Ambassador Julie Chung supports democracy, foreign investment, and economic growth.
+
+🟩
+
+US Ambassador to Sri Lanka Julie Sung said that Sri Lanka needs to continue the IMF plan.
+
+Sri Lanka met with a historic moment last week, voting for all Sri Lankans to use their democratic rights and to express their purpose for the best future of the country.
+
+The best issues are that the election is being held peacefully and the 9th executive of Sri Lanka's 9th executive presidency directly.
+
+The election and the swearing -in are true evidence of the strength of the country's democratic ambitions and establishments.
+
+The US congratulates President Anuragumara for his success and is interested in working with him and his government for the more light and stable future for the Sri Lankans.
+
+Despite the preliminary days of this government, it is clear that our countries and our people have more common shared goals than ever before.
+
+We welcome the dedication of the new President's Foreign Minister on obtaining new foreign investment.
+
+...
+
+[Data](articles/26ae8e41.json)
+
+[Extended Data](ext_articles/26ae8e41.ext.json)
 
 ---
 
@@ -2291,135 +2401,5 @@ The cause of the fire is yet to be determined while Koswatta Police are conducti
 [Data](articles/acd29b76.json)
 
 [Extended Data](ext_articles/acd29b76.ext.json)
-
----
-
-### The seven individual committee to make a decision on scholarship
-
-*2024-09-28 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201632) · `si`
-
-Ministry of Education forms 7-member committee to decide on scholarship exam changes. Committee to consider investigation findings before making final decision.
-
-🟩
-
-Will the controversial grade 5 scholarship examination will be renovated?Not?The Ministry of Education has taken steps to appoint seven committee to decide.
-
-Thilaka Jayasundara, Secretary to the Ministry Thilaka Jayasundara said that this step had been taken on the instructions of Prime Minister Dr. Haraini Amarasuriya.
-
-A few questions on the scholarship examination this year's scholarship examination took immediate situation and the Department of Examinations and the CID were investigated.
-
-Considering the investigation, will the examinate back?Not?The committee will decide to go by the Ministry of Education, Thilaka Jayasundara added that the committee will decide.
-
-◼️
-
-[Data](articles/ec890b97.json)
-
-[Extended Data](ext_articles/ec890b97.ext.json)
-
----
-
-### Hasan Nasralla Death?Hizbullah unconfirmed
-
-*2024-09-28 15:55:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹசன்-நஸ்ரல்லா-மரணம்-உறுதிப்படுத்தாத-ஹிஸ்புல்லா/50-344613) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Israel claims Hassan Nasrallah killed in Beirut attack. Hezbollah denies. War escalates with over 2,500 injuries. Ceasefire calls from US, France, UK. Children among 100+ dead. Israel prepares ground assault, displacing 1 million. Casualties expected to rise.
-
-🟩
-
-Israel has officially announced that he was killed in an attack on Hassbullah leader Hasan Nasrallla in the Lebanese capital Beirut.
-
-Her daughter has been reported to be killed yesterday. But Hizbullah has not been informed about this.
-
-More than 2500 people were injured in the Page attack in the Lebanese capital Beirut.
-
-The Hizbullah Organization attacked Israel as the cause of the attack.
-
-Israel is starting an attack on Hezbollah in retaliation for this attack. More than 900 people are said to have been killed by fighter aircraft and rocket lockers.
-
-Israel has announced that it is preparing for a ground attack as about one million people have been displaced due to the war.
-
-Leaders of countries including the United States, France and the UK have said that the ceasefire should be announced.
-
-More than one hundred children have been killed in the attack so far and there is no time for the ceasefire, and that Lebanon-Israel should come up with peace talks.
-
-...
-
-[Data](articles/841b708f.json)
-
-[Extended Data](ext_articles/841b708f.ext.json)
-
----
-
-### Auditor General’s Dept. probes ‘thousands’ of missing govt. vehicles
-
-*2024-09-28 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102322/auditor-generals-dept-probes-thousands-of-missing-govt-vehicles) · `en`
-
-The National Audit Office has revealed that thousands of government -owned vehicles are missing or misplaced in the recent past.
-
-Auditor General W.P.C. Wickramaratne has stated that a comprehensive report will be prepared regarding these missing or misplaced government vehicles.
-
-Meanwhile, with the new government coming into power, many vehicles used by former ministry secretaries and presidential advisors were recently seen parked at the Galle Face Grounds.
-
-In this context, the Auditor General’s Department has received reports indicating that thousands of vehicles belonging to various state institutions including Health, Education, Postal, Irrigation departments and the Presidential Secretariat have gone missing.
-
-It has been reported that the majority of the missing vehicles belong to the Ministry of Health.
-
-...
-
-[Data](articles/6d13840a.json)
-
-[Extended Data](ext_articles/6d13840a.ext.json)
-
----
-
-### A pronouncement of strong lightning
-
-*2024-09-28 15:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201631) · `si`
-
-Strong lightning warning issued for Western, Sabaragamuwa, Southern, Central, Uva, and North Western Provinces. Thunderstorms may cause damage from temporary winds and lightning. Public advised to take precautions.
-
-🟩
-
-The Department of Meteorology has issued a warning new public strike.
-
-The announcement was issued this afternoon until 11.30 pm today (29).
-
-Accordingly, during the Western, Sabaragamuwa, Southern, Central, Uva and North Western Province, in the Anuradhapura district or even night in the Anuradhapura district or night, there is a strong lightning.
-
-The Department of Meteorology also requests the public to take action to reduce the damages caused by temporary winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/0bd2e774.json)
-
-[Extended Data](ext_articles/0bd2e774.ext.json)
-
----
-
-### Rice from today will be issued to government control price - Dudley Sirisena
-
-*2024-09-28 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201629) · `si`
-
-Sirisena announces large-scale rice mills will sell rice at controlled government prices starting today. Supports national efforts and requests cooperation from rice sellers.
-
-🟩
-
-Large scale rice mills have decided to issue rice to the market under government control prices.
-
-"The President helps to support the work of the country.. We decided to market all rice control prices from today. "
-
-"The Governor of the Nipunayake Campaign, I discussed the Governor of Newjas. They made an agreement. I request our rice as we can sell rice to government control price from today. We will support January 20 alone. "
-
-"This day was placed.. New harvest arrives in the market. We need a new price for a new price for the mas season, rice. That's what. "
-
-◼️
-
-[Data](articles/a1cde248.json)
-
-[Extended Data](ext_articles/a1cde248.ext.json)
 
 ---

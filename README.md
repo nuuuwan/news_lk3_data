@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 19:38:26**
+As of **2024-09-29 19:56:30**
 
 ## Newspaper Stats
 
-*Scraped **46,866** Articles*
+*Scraped **46,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,176 @@ economynextcom | 2,842
 dailyftlk | 3,129
 adalk | 4,328
 dailymirrorlk | 4,733
-adaderanalk | 5,515
+adaderanalk | 5,516
 tamilmirrorlk | 6,295
-virakesarilk | 7,484
+virakesarilk | 7,499
 adaderanasinhalalk | 8,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,866 (100.0%) of 46,866 articles have been extended.
+46,866 (100.0%) of 46,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### சுமந்திரனின் அழைப்பு அமைவாக தமிழ்த்தேசியக்கூட்டமைப்பில் ஒருபோதும் இணையமாட்டேன் - சி.வி.விக்கினேஸ்வரன்
+
+*2024-09-29 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195083) · `ta`
+
+சுமந்திரனின் அழைப்பு அமைவாக தான் தமிழ்த்தேசியக் கூட்டமைப்பில் இணையப்போவதில்லை எனத் தெரிவித்திருக்கும் தமிழ் மக்கள் கூட்டணியின் பாராளுமன்ற உறுப்பினர் சி.வி.விக்கினேஸ்வரன், 'அதனை வேண்டுபவர்களின் கடந்தகால சிந்தனைகளும் நடத்தைகளும் அதற்கு அனுசரணை தருவதாக அமைந்திருந்தனவா என்பதை எமது மக்கள் சிந்திக்க வேண்டும்.
+
+சுயநலவாதிகளைக் களைந்து உண்மையாகத் தேசியத்தை விரும்புபவர்கள் யார் என்று அடையாளம் கண்டு அவர்களை ஒன்றிணைக்க முன்வரவேண்டும். ஆகவே நாங்கள் தமிழ்த்தேசியக் கூட்டமைப்பில் சேரும் வாய்ப்புக்கள் இல்லை. சுட்ட மண்ணும் சுடாத மண்ணும் என்றென்றும் ஒன்று சேராது' எனக் குறிப்பிட்டிருக்கிறார்.
+
+'வாரம் ஒரு கேள்வி' பகுதியில், 'சுமந்திரன் தமிழ்த்தேசிய கூட்டமைப்பில் இருந்து பிரிந்து சென்றவர்களை திரும்ப அழைத்துள்ளார். நீங்களும் தமிழ்த் தேசியத்தில் ஈடுபாடுடையவர்கள் அனைவரும் சேர்ந்து தேர்தலில் நிற்பது அவசியம் என்று கூறியுள்ளீர்கள். அப்படியானால் நீங்களும் தமிழ்த்தேசியக் கூட்டமைப்பில் மீண்டும் சேரும் வாய்ப்புக்கள் உள்ளதா?' என எழுப்பப்பட்டிருக்கும் கேள்விக்கு பதிலளித்திருக்கும் அவர் மேலும் கூறியிருப்பதாவது:
+
+...
+
+[Data](articles/1cf35945.json)
+
+---
+
+### Police issue warning over rising OTP scams in Sri Lanka
+
+*2024-09-29 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102341/police-issue-warning-over-rising-otp-scams-in-sri-lanka) · `en`
+
+Sri Lanka Police today advised customers of banks not to share their One Time Passwords (OTP) provided by banks with any third parties under any circumstances, as serious financial scams have been reported recently.
+
+◼️
+
+[Data](articles/848c1981.json)
+
+---
+
+### பலஸ்தீன இனப்படுகொலையும் காசா அழிவும் அமெரிக்க - ஐரோப்பிய கூட்டாண்மை   நிறுவனங்களுக்கான இலாபகரமான வர்த்தகம்
+
+*2024-09-29 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195033) · `ta`
+
+படுகொலைகள் முடிவுக்கு வரப்பட வேண்டும் என சாதாரண மக்கள் தெளிவுபடுத்தியுள்ளனர், அதனால்தான் பைடன் போர்நிறுத்த பேச்சுவார்த்தை நடத்த "அயராது உழைப்பதாக" பாசாங்கு செய்கின்றார். ஒரு போர்நிறுத்தத்தைகொண்டு வர அவரால் முடியும். ஆனால் உண்மை என்னவென்றால், மேற்கத்திய அரசியல் இப்போது மக்களின் கோரிக்கைக்கு முற்றிலும் செவிசாய்க்காத ஒருபோக்கில் உள்ளது. ஜனநாயக பொறுப்புக்கூறலின் கடைசி எச்சங்கள் பல ஆண்டுகளுக்கு முனபே மேற்கத்திய அரசியல் அமைப்புகளால் அழிக்கப்பட்டு விட்டன.  மேற்கத்திய அரசியல் என்பது இப்போது சக்தி மிக்க வர்த்தக கூட்டானமைகளால் கைப்பற்றப்பட்ட  நிலையில் உள்ளன.
+
+◼️
+
+[Data](articles/9d366a58.json)
+
+---
+
+### வியட்நாம் போலாகுமா இலங்கை?
+
+*2024-09-29 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195038) · `ta`
+
+நாட்டை கைத்தொழில் மயமாக்குவதற்குரிய வகையிலும் நவீன மயமாக்குவதற்குரிய வகையிலும் சாதகமான அமைதியான நிரந்தர சூழலை உருவாக்குவது, மக்களின் சுதந்திரத்திற்கான பாதுகாப்பை வளங்குவது, இறையாண்மை ஒற்றமை மற்றம் பிராந்திய ஒருமைப்பாடு ஆகியவற்றை பாதுகாப்பது,  நடைமுறை வியட்நாமிய அரசாங்கத்தின் அடிப்படைக் கொள்கையாகவுள்ளது.  அந்த வகையில் வியட்நாமிய இராஜதந்திரம் தென்கிழக்காசியாவில் செல்வாக்குப் பெற்றதொரு கட்டமைப்பாக இருந்து வருகிறது. ஆனால் தெற்காசியாவில் இலங்கைத்தீவில் பேரினவாத மத செல்வாக்குகளுக்கு அப்பால் இத்தகையதொரு பொதுக்கொள்கையை உருவாக்கி கட்டுக்குள் வைத்திருப்பது என்பது மிகப்பெரும் சவாலாகும்.
+
+◼️
+
+[Data](articles/fa73015c.json)
+
+---
+
+### அனுரவின் வெற்றியும்   புதிய நம்பிக்கையும்
+
+*2024-09-29 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195042) · `ta`
+
+அநுரகுமார திசாநாயக்கவின் மேட்டுக்குடி சிந்தனை இல்லாத, அலப்பறையற்ற இயல்பான செயற்பாடுகளும், நேர்த்தியான பேச்சும், சுறுசுறுப்பான அணுகுமுறையும் மக்களைக் கவர்ந்தன. கட்டமைக்கப்பட்ட இயக்கச் செயற்பாடுகளும் சமூக ஊடகப் பிரசாரங்களும்; ‘ரட்ட அனுரட்ட’ என்ற பாடலும் இந்த வெற்றியில் கணிசமான பங்கை வகித்திருக்கின்றன.
+
+◼️
+
+[Data](articles/29cb7954.json)
+
+---
+
+### நம்பிக்கைக்கு உரியனவா நம் கையில் உள்ள இலத்திரனியல் உபகரணங்கள்?
+
+*2024-09-29 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195047) · `ta`
+
+லெபனான் ஹிஸ்புல்லாக் குழுவினர் இதுபோன்ற தாக்குதல்கள் தம்மீது நடத்தப்படலாம் என்று எதிர்பார்த்தே இருந்தனர். அவர்களது எதிர்பார்ப்பு எல்லாம் தங்கள் செல்லிடப் பேசி கண்காணிக்கப்படலாம், அவற்றை இலக்கு வைத்துத் தாக்குதல்கள் நடத்தப்படலாம் என்பதாகவே இருந்தது.அதனாலேயே அவர்கள் பழைய தயாரிப்புகளான பேஜர், வாக்கி டோக்கி என்பவற்றைப் பாவிக்க முனைந்தனர். தற்போது அவை கூடத் தாக்குதல் கருவிகளாக மாற்றப்பட்டு விட்ட நிலையில் அவர்களது எதிர்காலத் தொடர்பாடல் கேள்ளவி குறியாக மாறியுள்ளது.
+
+◼️
+
+[Data](articles/9df2a741.json)
+
+---
+
+### அநுரவை வெல்ல வைத்தது யார்?
+
+*2024-09-29 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/195058) · `ta`
+
+ஜனாதிபதி தேர்தலில் மூன்று இலட்சம் வாக்குகள் செல்லுபடியற்றதாகின. 38 இலட்சம் வாக்குகள் செலுத்தப்படவில்லை . இவை இரண்டுமே வெற்றியைத் தீர்மானிக்கும் காரணிகளில் முக்கியமானவை.
+
+◼️
+
+[Data](articles/8b695094.json)
+
+---
+
+### தமிழ், முஸ்லிம் கட்சிகளின் ‘மெகா’ கூட்டணி சாத்தியமா?
+
+*2024-09-29 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195063) · `ta`
+
+அகில இலங்கை மக்கள் காங்கிரஸின் உயர்பீடக் கூட்டத்திலும் சூடான வாக்குவாதங்கள் நடைபெற்றுள்ளன. இங்கும் புதியவர்களை வேட்பாளர்களாக நிறுத்த வேண்டுமென்று வலியுறுத்தப்பட்டுள்ளன. ஜனாதிபதித் தேர்தலில் கட்சியின் தீர்மானத்திற்கு மாற்றமாக செயற்பட்டவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்க வேண்டுமென்று வாக்குவாதங்கள் நடைபெற்றுள்ளன. அம்பாறை, புத்தளம் ஆகிய மாவட்டங்களில் தனித்துப் போட்டியிடுவதற்கும் தீர்மானிக்கப்பட்டுள்ளன.  தேசிய காங்கிரஸ் அம்பாறை மாவட்டத்தில் தனித்து போட்டியிடுவதற்கு தீர்மானித்துள்ளதாக அக்கட்சியின் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/6d7732fe.json)
+
+---
+
+### தோல்வியடைந்ததா இந்தியா?
+
+*2024-09-29 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195066) · `ta`
+
+அநுரகுமாரவின் வெற்றி இந்தியாவுக்கு ஏற்கனவே தெரிந்தது என்றால்- அவரது வெற்றி இந்தியாவுக்கு சாதகமானதல்ல என்றால் - ஏன் இந்தியா இதனை தடுப்பதற்கான முயற்சிகளில் இறங்கவில்லை? அல்லது தடுக்கும் முயற்சியில் இறங்கி தோல்வி கண்டிருக்கிறதா?  அநுரகுமார வெற்றி பெற்றவுடன் சில இராஜதந்திரிகள் இது இந்தியாவுக்கு முக்கியமான பின்னடைவு அல்லது தோல்வி என்று குறிப்பிட்டிருந்தார்கள்.
+
+◼️
+
+[Data](articles/b40e3f97.json)
+
+---
+
+### 'அங்கொடை ஜூலே'யின் உதவியாளர் கைது
+
+*2024-09-29 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195068) · `ta`
+
+பாதாள உலக கும்பலைச் சேர்ந்தவரும் பிரபல போதைப்பொருள் கடத்தல்காரருமான “அங்கொடை ஜூலே” என்று அழைக்கப்படும் பொன்னம்பெருமகே தனுஷ் புத்திக்க என்பவரின் உதவியாளர் ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+திட்டமிட்ட குற்றவாளி ஒருவரின் முக்கிய உதவியாளரும் பாரியளவிலான போதைப்பொருள் கடத்தல்காரருமான இவர், பொலிஸ் விசேட அதிரடிப்படையினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் பத்தரமுல்ல பிரதேசத்தை சேர்ந்த 30 வயதுடையவர் ஆவார்.
+
+சந்தேக நபரிடம் இருந்து 25 கிராம் 500 மில்லிகிராம் ஐஸ் போதைப்பொருள் மற்றும் 51 கிராம் கேரள கஞ்சாவை பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+அத்துடன், போதைப்பொருள் கடத்தலில் இருந்து எடுக்கப்பட்டதாக சந்தேகிக்கப்படும் 274,400 ரூபாய் பணமும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/676cb0e1.json)
+
+---
+
+### புதிய ஜனாபதியின் சர்ச்சை நியமனங்கள்
+
+*2024-09-29 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195069) · `ta`
+
+கோட்டாபய ராஜபக்ஷ எதிர்பார்த்த பாதுகாப்புச் சூழல், கிடைக்காமல் போனதற்கு இது ஒரு காரணமாக குறிப்பிடப்பட்டிருக்கிறது. விமானப்படையைச் சேர்ந்த அதிகாரி ஒருவர்-  அதுவும் உயர்நிலை தளபதி பதவிக்கு வராத அதிகாரி ஒருவர், பாதுகாப்பு செயலாளராக இருக்கும் போது, அவரை விட மூத்த ஜெனரல் சவேந்திர சில்வா போன்ற படை அதிகாரிகள், அவருடன் இணைந்து செயற்படுவார்களா என்ற கேள்வி உள்ளது.
+
+◼️
+
+[Data](articles/69943075.json)
+
+---
+
+### தமிழ்த் தேசிய சக்திகள் என்ன செய்யப்போகின்றன?
+
+*2024-09-29 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195070) · `ta`
+
+பாராளுமன்ற தேர்தல் தொடர்பாக தமிழ்ச் சூழலில் பாரிய விவாதம் நடைபெறுகின்றது. சிவில் அமைப்புகள் ஆங்காங்கே கூட்டங்களை நடாத்தி விவாதித்து வருகின்றன. தமிழ்த் தேசிய பொதுக்கூட்டமைப்புக்குள்ளும் இது தொடர்பாக காரசாரமான விவாதம் நடைபெறுகின்றது. பேராசிரியர் ஒருவர் இளம் தலைமுறைகளுக்கு இடமளிக்க வேண்டும் பழையவர்கள் விலக வேண்டும் என்று கட்சித் தலைவர்களிடம் கூறவும் அது அனல் பறக்கும் விவாதமாக வளர்ந்தது. சிவில் அமைப்புகள் தனியாக ஒரு அணியை தேர்தலில் இறக்கும் நிலையும் ஏற்படலாம்.
+
+◼️
+
+[Data](articles/4e715651.json)
+
+---
 
 ### Do not exchange otp to any cause
 
@@ -53,6 +209,66 @@ They have made this request by pointing that recently serious financial frauds.
 [Data](articles/af168017.json)
 
 [Extended Data](ext_articles/af168017.ext.json)
+
+---
+
+### தமிழ் பொது வேட்பாளர் தோல்வியுற்றாரா?
+
+*2024-09-29 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195071) · `ta`
+
+பொது வேட்பாளர் முயற்சி பெருவெற்றியை பெறாமல் இருக்கலாம், ஆனால் பலவீனப்படவில்லை. ஏனென்றால் தமிழ் தேசிய கட்சிகள் அனைத்துக்கும் தங்களின் பலம் என்ன - பலவீனம் என்ன-  தாங்கள் எந்த நிலையில் இருக்கிறோம் என்பது இப்போது நன்றாக தெரிந்திருக்கும்.
+
+◼️
+
+[Data](articles/ccdb05d2.json)
+
+---
+
+### சட்டவிரோத கோடாவுடன் ஒருவர் கைது
+
+*2024-09-29 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195076) · `ta`
+
+கிரிந்திவெல பொலிஸ் பிரிவுக்குட்பட்ட சபுகஹவத்த பகுதியில் சட்டவிரோத மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் கோடாவுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (28) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கிரிந்திவெல பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது இவர் கைதுசெய்யப்பட்டார்.
+
+கைது செய்யப்பட்டவர் விஹார கும்புர, கிரிந்திவெல பிரதேசத்தை சேர்ந்த 21 வயதுடையவர் ஆவார்.
+
+சந்தேக நபரிடமிருந்து மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் 1080 லீற்றர் (06 பெரல்) கோடா பொலிஸாரால் கைப்பற்றப்பட்டது.
+
+◼️
+
+[Data](articles/64f89335.json)
+
+---
+
+### சட்டவிரோதமாக இரத்தினக்கல் அகழ்வில் ஈடுபட்டவர் கைது
+
+*2024-09-29 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195078) · `ta`
+
+பொகவந்தலாவை பொலிஸ் பிரிவுக்குட்பட்ட செபல்டன்வத்த பகுதியில் சட்டவிரோதமாக இரத்தினக்கல் அகழும் பணியில் ஈடுபட்ட ஒருவர் நேற்று சனிக்கிழமை (28) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பொகவந்தலாவை பொலிஸ் நிலைய அதிகாரிகள் குழுவொன்று மேற்கொண்ட சுற்றிவளைப்பின்போது இவர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/f435cbac.json)
+
+---
+
+### இத்தபான பகுதியில் ஆணின் சடலம்
+
+*2024-09-29 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195081) · `ta`
+
+இத்தபான பொலிஸ் களத்தில் அமுஹுந்துடுவ பகுதியில் உள்ள முனமல்வத்தை ஆற்றில் அடையாளம் தெரியாத ஆணின் சடலம் நேற்று சனிக்கிழமை (28) கண்டுபிடிக்கப்பட்டுள்ளதாக இத்தபான பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவரின் அடையாளம் இதுவரை உறுதி செய்யப்படாத நிலையில், சடலம் மிகவும் அழுகிய நிலையில் உள்ளதாகவும் உடல் உறுப்புகளை விலங்குகள் தின்றுவிட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+சடலம் பிரேத பரிசோதனைக்காக சம்பவ இடத்திலேயே வைக்கப்பட்டுள்ளதுடன், இத்தபான பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/d474b60c.json)
 
 ---
 
@@ -2029,325 +2245,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/96795163.json)
 
 [Extended Data](ext_articles/96795163.ext.json)
-
----
-
-### IIHS opens global careers for Lankan youth in nursing
-
-*2024-09-29 03:16:00* · [`islandlk`](http://island.lk/iihs-opens-global-careers-for-lankan-youth-in-nursing/) · `en`
-
-Sri Lanka is at a pivotal point, experiencing a demographic transition that presents unique opportunities for economic and social growth. With a large portion of the population in the 15-29 age group, there is an urgent need to provide sustainable employment solutions for the country’s youth, particularly those in rural areas. Amidst challenges like unemployment, poverty, and limited access to skills development, the healthcare sector emerges as a promising avenue for empowering the youth. Nursing, in particular, offers a significant solution to the youth unemployment crisis. The global demand for nursing professionals is growing rapidly, driven by an aging population and the COVID-19 pandemic. Many countries are facing shortages in healthcare professionals, making nursing one of the most secure and sought-after professions worldwide. Sri Lanka, with its high literacy rate and skilled youth population, is well-positioned to meet this global demand.
-
-...
-
-[Data](articles/3627cae5.json)
-
-[Extended Data](ext_articles/3627cae5.ext.json)
-
----
-
-### GCE Ordinary Level Exam results released
-
-*2024-09-29 02:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102328/gce-ordinary-level-exam-results-released) · `en`
-
-The results of the 2023 (2024) G.C.E. Ordinary Level Examination have been released online.
-
-The Examinations Department stated that the results were released at midnight yesterday (28).
-
-Accordingly, the department announced that the examination results can be obtained from the websites: www.doenets.lk or www.results.exams.gov.lk
-
-The examination department requests applicants to contact the following hotlines if they seek to make any inquiries regarding these results: 1911 or 011 2 785 922, 0112 786 616, 011 2 784 208 or 011 2 784 537.
-
-The statement further said that applications for the scrutiny of the O/L results will be called from October 01 to October 14.
-
-A total of 452,979 applicants sat for the G.C.E. Ordinary Level Examination this year, of which 387,648 were school applicants and 65,331 private candidates.
-
-The examination department said that 65,331 people appeared for the examination as private candidates.
-
-The examination was conducted in 3,527 examination centers from May 6 to 15.
-
-◼️
-
-[Data](articles/905fd628.json)
-
-[Extended Data](ext_articles/905fd628.ext.json)
-
----
-
-### Billion rupee refurbishment of MJF’s Cape Weligama nearing completion
-
-*2024-09-29 02:20:00* · [`islandlk`](http://island.lk/billion-rupee-refurbishment-of-mjfs-cape-weligama-nearing-completion/) · `en`
-
-Resplendent Ceylon, the leisure wing of the MJF Group headed by Malik. J. Fernando, elder son of Dilmah founder Merrill J Fernando, has completed a billion rupee refurbishment of its upmarket Cape Weligama property which is expected to be open in time for the high season on Dec. 2.
-
-The tea-driven MJF group entered the leisure and hospitality industry in 2005 by setting up Ceylon Tea Trails, now running five spectacularly located plantation bungalows with 27 rooms, also in an upmarket operation.
-
-The group also provides luxury tented accommodation close to the Yala National Park and has substantial minority stakes with board representation in hospitality businesses including the Fortress Hotel at Koggala, the George Ondaatje founded Tangerine and Royal Park resort hotels in Kalutara and Ravi Thambiayah’s Renuka and Renuka City Hotels in Colombo.
-
-...
-
-[Data](articles/e541fba9.json)
-
-[Extended Data](ext_articles/e541fba9.ext.json)
-
----
-
-### Visit of Mrs. Indira Gandhi and China’s gift of the BMICH
-
-*2024-09-29 02:09:00* · [`islandlk`](http://island.lk/visit-of-mrs-indira-gandhi-and-chinas-gift-of-the-bmich/) · `en`
-
-(Excerpted from the autobiography of MDD Pieris, Secretary to the Prime Minister)
-
-The first half of 1973 saw two important events, the visit of the Indian Prime Minister Mrs. Indira Gandhi in April. and on May 17 the opening of The Bandaranalke Memorial International Conference Hall. During Mrs. Gandhi’s visit, the two Prime Ministers had set apart some time for one-on-one discussion, without any Ministers or officials being present. This was a period where there was a degree of belligerence on the part of some South Indian politicians, displayed towards Sri Lanka.
-
-...
-
-[Data](articles/699ab605.json)
-
-[Extended Data](ext_articles/699ab605.ext.json)
-
----
-
-### Going Native at Tambuttegama- a Dry Zone Purana Village
-
-*2024-09-29 02:02:00* · [`islandlk`](http://island.lk/going-native-at-tambuttegama-a-dry-zone-purana-village/) · `en`
-
-Anura Kumara Dissanayaka, Sri Lanka’s new president, grew up in Tambuttegama, a Purana (old, traditional) village in the Anuradhapura District. I did extensive fieldwork for my doctoral thesis in this village over 10 months in 1978/79. At that time, I guess, the president was a young boy attending Tambuttegama Maha Vidyalaya. As I had visited practically every family in the village, I might have visited his family during my stay there.
-
-...
-
-[Data](articles/32959ec5.json)
-
-[Extended Data](ext_articles/32959ec5.ext.json)
-
----
-
-### Sir John Kotelawela (1953 — 1956), as seen by his Assistant Secretary
-
-*2024-09-29 02:01:00* · [`islandlk`](http://island.lk/sir-john-kotelawela-1953-1956-as-seen-by-his-assistant-secretary/) · `en`
-
-The strongest man is never strong enough to be always master, unless lie transforms his power into right, and obedience to duty.
-
-At the time my story begins, a routine civil service transfer had me moved as Assistant Secretary in the prime minister’s office which was without doubt the most exalted and powerful institution in Sri Lanka. For the first 30 years of the new state’s existence, its place in the political structure remained unchallenged and unchanged. The role of the prime minister as the keystone of the arch in a Westminster-style government was paramount. It was only much later, after the second Republican Constitution in 1978 and the creation of the Executive Presidency with its enormous concentration of power, that the position of the prime minister became as it now is, devoid of constitutional authority, largely decorative’ and what its holder is able to make of it.
-
-...
-
-[Data](articles/641349ff.json)
-
-[Extended Data](ext_articles/641349ff.ext.json)
-
----
-
-### Unique Contributions to Hospitality Leadership Development in Sri Lanka
-
-*2024-09-29 01:57:00* · [`islandlk`](http://island.lk/unique-contributions-to-hospitality-leadership-development-in-sri-lanka/) · `en`
-
-As the founding Managing Director of the International Hotel School (IHS), I placed hotel management development at the forefront of Mount Lavinia Hotel’s (MLH) operations in the early 1990s. Several key members of our leadership team became both coaches to their respective departments; and students attending the IHS management seminars. This “Teaching and Learning Culture,” which I implemented helped me in my role as General Manager of MLH. Around this time, I also once again became a student. I pursued the Chartered Institute of Marketing (CIM) Diploma in Marketing in England, graduating in 1992 and becoming a CIM member in 1993.
-
-...
-
-[Data](articles/a25fe329.json)
-
-[Extended Data](ext_articles/a25fe329.ext.json)
-
----
-
-### Welcome, Comrade Anura!
-
-*2024-09-29 01:43:00* · [`islandlk`](http://island.lk/welcome-comrade-anura/) · `en`
-
-It’s official – Dissanayake Mudiyanselage Anura Kumara Dissanayake is the ninth Executive President of Sri Lanka.
-
-For those who don’t know, between 1948 – when we obtained independence from the British Empire – and 1977, the highest elected political official in Sri Lanka was the Prime Minister. He or she – Sri Lanka has the distinction of electing the world’s first woman Prime Minister – was invested with a tremendous array of powers, while the President served a ceremonial role.
-
-In 1978, the government of J. R. Jayewardene enacted a new Constitution which transformed the office of the Prime Minister into that of an all-powerful, almost omniscient Executive President who was both head of state and head of government. The then Prime Minister’s rationale was that the parliamentary system which had prevailed until then had become a hindrance and that the country required a new political arrangement which would shield its leaders from the vagaries of parliamentary politics.
-
-...
-
-[Data](articles/7cca890e.json)
-
-[Extended Data](ext_articles/7cca890e.ext.json)
-
----
-
-### Sri Lanka Provides Hope for Democracy in the West
-
-*2024-09-29 01:42:00* · [`islandlk`](http://island.lk/sri-lanka-provides-hope-for-democracy-in-the-west/) · `en`
-
-Sri Lanka’s Presidential election saw a genuine left-winger, from a Marxist party, record a victory that upended the country’s political establishment. But the NPP’s win was more than just historic for this country. A man whose ideology with regard to the fundamental questions of policy differs from all predecessors was elected. This is something presently unimaginable in the West. While it may have been different 100 years ago, today in most major Western countries, there is increasingly no way for the public to vote away the two sacred cows of the establishment: neoliberal capitalism and neo-con foreign policy. Here, Sri Lanka can provide hope.
-
-...
-
-[Data](articles/aea2b37e.json)
-
-[Extended Data](ext_articles/aea2b37e.ext.json)
-
----
-
-### O / L results released
-
-*2024-09-29 01:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201647) · `si`
-
-GCE Ordinary Level results released. Check online at doenets.lk, duens.lk, resules.exams.gov.lk. Contact principals for username/password. Re-exam deadline: Oct 14. 52,979 school candidates, 65,331 private candidates. Exam held May 6-15 at 3,527 centers.
-
-🟩
-
-The results of the GCE Ordinary Level (Ordinary Level) has been released.
-
-Department of Examinations stated that the results were issued in midnight yesterday (28).
-
-The Department of Examinations announced that the exam results could be obtained from www.doenets.lk or www.duens.lk or www.resules.exams.gov.lk
-
-It is also reported that the following is the username and password given to all principals will be provided with a printed copy and obtain a printed copy.
-
-The Department of Examinations said that the results of the 1912 instant telephone number, 011 2, 785 922, 011 2 786, 011 2 786 or 011 2 786 or 011 2 786 or 011 2 784.
-
-The call for the re-examination is done until October 14th of October.
-
-The average number of 52,979 applicants appeared for the GCE Ordinary Level examination, 87,648 of them were school candidates.
-
-The Department of Examinations said that 65,331 have been examined as private candidates.
-
-The examination was conducted in 3,527 examination centers from 6th to 15th May.
-
-◼️
-
-[Data](articles/9b0b4a8a.json)
-
-[Extended Data](ext_articles/9b0b4a8a.ext.json)
-
----
-
-### Western Plot to Encircle China and the Risk of Global Conflict:
-
-*2024-09-29 01:36:00* · [`islandlk`](http://island.lk/western-plot-to-encircle-china-and-the-risk-of-global-conflict/) · `en`
-
-In this second part of my interview with Dr. Dayan Jayatilleka (part one appeared last week) we ventured into the philosophical underpinnings of contemporary geopolitics. Dr. Jayatilleka contends that the war in Ukraine represents a critical inflection point, suggesting that the West may soon confront a more profound reality: Vladimir Putin is merely a symptom of a deeper, more complex Russian psyche. This perspective challenges the prevailing discourse and calls for a reconsideration of how power, fear, and resistance are constructed on the global stage. We also explored India’s nuanced role within its regional dynamics, the enduring struggles in Palestine, the evolving tensions in West Asia, NATO’s expansion, and the relentless rise of China.
-
-...
-
-[Data](articles/467c685d.json)
-
-[Extended Data](ext_articles/467c685d.ext.json)
-
----
-
-### 2024-09-28 (Saturday)
-
-### Sri Lanka is nearing success against New Zealand
-
-*2024-09-28 23:24:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நியூசிலாந்துக்கெதிராக-வெற்றியை-நெருங்கும்-இலங்கை/44-344626) · `ta`
-
-Sri Lanka leads vs New Zealand in Test series. Sri Lanka scored 602/5, while New Zealand was bowled out for 88. New Zealand's second innings at 199/5. Sri Lanka poised for victory.
-
-🟩
-
-Sri Lanka will travel to victory at the end of today's third day of the second match, which began on Thursday (26) in Galle in a two -match Test series against New Zealand.
-
-Sri Lanka: 602/5 (batting: Camindu Mendis AE 182, Dinesh Chandimal 116, Gusal Mendis AE 106, Angelo Madhus 88, Timuth Karunaratne 46, Tanjaya de Silva 44 runs. Bowling: Glenn Philips 3/141, Tim Saudi 1/70)
-
-New Zealand: 88/10 (batting: Mitchell Santner 29 runs. Bowling: Prabhat Jayasuriya 6/42, Nishan Prees 3/33, Asita Fernando 1/8)
-
-New Zealand (Polo One): 199/5 (batting: Devon Konway 61, Tom Blendal AE 47, Kane Williamson 46, Glenn Phillips AE 32 runs. Bowling: Nishan Breis 3/91, Tanjaya de Silva 1/17, Prabhat Jayasuriya 1/76)
-
-◼️
-
-[Data](articles/6a2d413a.json)
-
-[Extended Data](ext_articles/6a2d413a.ext.json)
-
----
-
-### Increase in dengue patients
-
-*2024-09-28 22:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-344625) · `ta`
-
-Dengue cases surge: 39,137 patients reported, mostly in Western Province. 19 deaths recorded.
-
-🟩
-
-During this year, 39 thousand 137 people have been identified by dengue patients.
-
-The National Dengue Control Division has said that most of the dengue patients are reported in the Western Province.
-
-Accordingly, 16 thousand 463 dengue patients have been identified in the Western Province, the unit said.
-
-At the same time, 19 people have been killed in the year of dengue, the National Dengue Control Division said.. (A)
-
-◼️
-
-[Data](articles/821b9feb.json)
-
-[Extended Data](ext_articles/821b9feb.ext.json)
-
----
-
-### Security for dignitaries: Discussion tomorrow
-
-*2024-09-28 22:49:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமுகர்களுக்கான-பாதுகாப்பு-நாளை-கலந்துரையாடல்/175-344624) · `ta`
-
-Security for former presidents and dignitaries discussed tomorrow. Meeting under Secretary of Public Security. Threats to security personnel being investigated.
-
-🟩
-
-A discussion will be held tomorrow on the next steps to be taken on the security for former presidents and dignitaries.
-
-The meeting will be held under the patronage of the Secretary of the Ministry of Public Security, the Inspector General of Police Priyantha Weerasuriya said.
-
-He said that the security threat to the security personnel is currently being investigated.. (A)
-
-◼️
-
-[Data](articles/d727e30d.json)
-
-[Extended Data](ext_articles/d727e30d.ext.json)
-
----
-
-### Discussion on the general election
-
-*2024-09-28 22:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தல்-தொடர்பில்-கலந்துரையாடல்/175-344623) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Discussion on parliamentary elections: Election officials met at the Election Secretariat. Chairman RMAL Ratnayake led the meeting. Commissioner Saman Sri Ratnayake stated the election timing.
-
-🟩
-
-A discussion was held yesterday on the preliminary work on parliamentary elections.
-
-District Elections Officers and Deputy District Election Commissioners participated in a discussion held at the Election Secretariat chaired by Elections Commission Chairman RMAL Ratnayake.
-
-Elections Commissioner Saman Sri Ratnayake said that the upcoming parliamentary election was held at this time. (A)
-
-◼️
-
-[Data](articles/0e58c52c.json)
-
-[Extended Data](ext_articles/0e58c52c.ext.json)
-
----
-
-### Appointment of New President of the Lawyers Association
-
-*2024-09-28 22:45:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணிகள்-சங்கத்தின்-புதிய-தலைவர்-நியமனம்/175-344622) · `ta`
-
-New President and VP appointed at Lawyers Association meeting. Anura Methegoda becomes VP of Sri Lanka Lawyers Association. Rasik Saruk named VP of main association.
-
-🟩
-
-The appointment was made when the Attorneys' Council of the Attorney General's Association convened yesterday.
-
-Earlier, Attorney -at -Law Anura Methegoda was appointed as the Vice President of the Sri Lanka Lawyers Association.
-
-In addition, President's Attorney Rasik Saruk has been appointed as the Vice President of the Lawyers Association. (A)
-
-◼️
-
-[Data](articles/b8c8c459.json)
-
-[Extended Data](ext_articles/b8c8c459.ext.json)
 
 ---

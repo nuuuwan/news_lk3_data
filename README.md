@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 23:22:54**
+As of **2024-09-29 23:38:45**
 
 ## Newspaper Stats
 
-*Scraped **46,895** Articles*
+*Scraped **46,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 3,130
 adalk | 4,332
 dailymirrorlk | 4,733
 adaderanalk | 5,518
-tamilmirrorlk | 6,297
+tamilmirrorlk | 6,298
 virakesarilk | 7,500
-adaderanasinhalalk | 8,108
+adaderanasinhalalk | 8,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,895 (100.0%) of 46,895 articles have been extended.
+46,895 (100.0%) of 46,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### ஹெஸ்புல்லாவின் முக்கிய தளபதி பலி
+
+*2024-09-29 23:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெஸ்புல்லாவின்-முக்கிய-தளபதி-பலி/50-344681) · `ta`
+
+ஹெஸ்புல்லா அமைப்பின் தலைவர் ஹசன் நஸ்ரல்லா கொல்லப்பட்டு 24 மணித்தியாலங்கள் நிறைவடைந்துள்ள நிலையில், மற்றுமொரு முக்கிய அதிகாரி கொல்லப்பட்டுள்ளதாக இஸ்ரேல் அறிவித்துள்ளது.
+
+இதன்படி லெபனான் மீதான இஸ்ரேலின் வான்வழித் தாக்குதல்களில் ஹெஸ்புல்லாவின் தெற்கு முன்னணியின் தளபதியான அலி கராக்கி கொல்லப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+
+அலி கராக்கியின் மரணத்தை ஹெஸ்புல்லா இன்று உறுதிப்படுத்தியுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன. (a)
+
+◼️
+
+[Data](articles/d7357f09.json)
+
+---
+
+### අධ්‍යාපනයට වෙන්කරන ප්‍රමාණය ගැන අග්‍රාමාත්‍ය හරිනිගෙන් සහතිකයක්
+
+*2024-09-29 23:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201672) · `si`
+
+දළ ජාතික නිෂ්පාදනයෙන් සියයට 6ක් අධ්‍යාපනය වෙනුවෙන් එක්වරම වෙන්කිරීම පවතින ආර්ථික අර්බුදය හමුවේ ගැටලුකාරී තත්ත්වයක් වුවත්, එය ක්‍රමානුකූලව ලබාදීමට ඉදිරියේදී පියවර ගන්නා බව අග්‍රමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසීය.
+
+ජාතික පාසල් 396ක විදුහල්පතිවරුන්ගේ සහභාගිත්වයෙන් කොළඹ ආනන්ද විද්‍යාලයේදී ඊයේ (28) පැවති සමුළුවක් අමතමින් ඇය මේ බව කියා සිටියාය.
+
+"අපි අධ්‍යාපනය තුළින් බලාපොරොත්තු වෙන්නේ දැනුම කේන්ද්‍ර කරගෙන දෙන අධ්‍යාපනයක් පමණක් නෙමෙයි. මූලික වශයෙන් මේ සමාජයට, අපේ රටට අවශ්‍ය පුරවැසියා බිහිකිරීම අධ්‍යාපනයෙන් සිදුවිය යුතුයි.  අධ්‍යාපනය පිළිබඳ විශ්වාසය නැවත ගොඩනැගීම වැදගත්. අධ්‍යාපනය ගැන දරුවන්ට, මව්පියන්ට, ගුරුවරුන්ට විශ්වාසයක් නැහැ. ඒ පිළිබඳව කලකිරීමකින් ඉන්නේ. විභාග, පත්වීම්, බඳවාගැනීම් අර්බුදකාරී තත්ත්වයක. අධ්‍යාපනය දේශපාලනීකරණය වීම මත විශාල පීඩනයකින් ඔබ ඉන්නේ. ඔබේ වෘත්තිමය ගරුත්වය රකින අධ්‍යාපනයක් අපි හදනවා.
+
+දළ ජාතික නිෂ්පාදනයෙන් 6%ක් අධ්‍යාපනයට වෙන්විය යුතුයි. ආර්ථික අර්බුදයත් සමග එක්වර දෙන්න බැහැ. ක්‍රමානුකූලව ඒ ඉලක්කය වෙත යන්න සැලසුම් තියෙනවා. අපේ අයවැය තුළ අධ්‍යාපනයට විශේෂ තැනක් දෙනවා".
+
+◼️
+
+[Data](articles/ee88cb9d.json)
+
+---
 
 ### OTP - don't give anyone to anyone
 
@@ -2351,47 +2385,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/35b656ac.json)
 
 [Extended Data](ext_articles/35b656ac.ext.json)
-
----
-
-### Sri Lanka private credit surges Rs135bn in August
-
-*2024-09-29 08:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-surges-rs135bn-in-august-181437/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private credit surged 135 billion rupees in August 2024, up from 60 billion rupees in July, with credit to government and state enterprises contracting amid better fiscal management, data shows.
-
-Central Bank contracted 51 billion rupees to 1,754 billion rupees from 1,806 billion rupees as deflationary policy continued.
-
-Commercial bank credit to state enterprise contracted 20.5 billion rupees. Credit to government from commercial banks contracted 42.6 billion rupees.
-
-The central bank has so far refrained from denying monetary instability to businesses and people giving them a chance to struggle up from the last crisis it created, as it had done in the past by cutting rates claiming inflation was low.
-
-After a currency crisis is triggered and the stabilization crisis that follows to prevent the domestic currency collapsing further, domestic demand collapses and cost of materials surge. As a result new projects are halted.
-
-...
-
-[Data](articles/0ae68cfd.json)
-
-[Extended Data](ext_articles/0ae68cfd.ext.json)
-
----
-
-### The gift from the zoos for the children's day
-
-*2024-09-29 08:30:51* · [`adalk`](https://www.ada.lk/breaking_news/ළමා-දිනයට-සත්වෝද්‍යානවලින්-ලැබෙන-තෑග්ග/11-412198) · `si`
-
-Dehiwala National Zoo, Pinnawala Elephant Exchange, and Pinnawala Zoo offer free entry to children on Children's Day. The event aims to educate kids about nature, conservation, and wildlife while providing entertainment. Organized from 8:30 AM to 5:00 PM.
-
-🟩
-
-The Dehiwala National Zoo, the Pinnawala Elephant Exchange, Pinnawala Zoo, and the Pinnawala Zoo is facilitated for all children from the 12-dimensional parks, said that the Director of the National Zoological Association (NPF) said.
-
-Developing the educational knowledge, natural resources and environmental conservation of children, natural resources and environmental conservation and entertainment of children, the Dehiwala National Zoological premises has been organized from 8.30 am to 5.00 pm on the premises.Deputy Director, Dinangana, further said,
-
-◼️
-
-[Data](articles/e38ffef3.json)
-
-[Extended Data](ext_articles/e38ffef3.ext.json)
 
 ---

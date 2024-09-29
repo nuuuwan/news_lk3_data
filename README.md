@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 07:27:10**
+As of **2024-09-29 08:03:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,768 (100.0%) of 46,777 articles have been extended.
+46,770 (100.0%) of 46,777 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -172,6 +172,8 @@ As the founding Managing Director of the International Hotel School (IHS), I pla
 
 [Data](articles/a25fe329.json)
 
+[Extended Data](ext_articles/a25fe329.ext.json)
+
 ---
 
 ### Welcome, Comrade Anura!
@@ -187,6 +189,8 @@ In 1978, the government of J. R. Jayewardene enacted a new Constitution which tr
 ...
 
 [Data](articles/7cca890e.json)
+
+[Extended Data](ext_articles/7cca890e.ext.json)
 
 ---
 

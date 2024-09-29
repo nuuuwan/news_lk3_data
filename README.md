@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 08:46:12**
+As of **2024-09-29 08:59:06**
 
 ## Newspaper Stats
 
-*Scraped **46,782** Articles*
+*Scraped **46,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 466
 islandlk | 2,752
 economynextcom | 2,841
 dailyftlk | 3,129
-adalk | 4,309
+adalk | 4,312
 dailymirrorlk | 4,733
 adaderanalk | 5,503
-tamilmirrorlk | 6,275
+tamilmirrorlk | 6,281
 virakesarilk | 7,470
 adaderanasinhalalk | 8,089
 
@@ -26,43 +26,165 @@ adaderanasinhalalk | 8,089
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,772 (100.0%) of 46,782 articles have been extended.
+46,779 (100.0%) of 46,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
 
-### නැවත සමීක්ෂණ අයදුම්පත් කැඳවන දින ගැන දැනුම්දීමක්
+### The project to be made compulsory for state vehicles
+
+*2024-09-29 08:00:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-வாகனங்களுக்கு-கட்டாயமாக்கப்படவுள்ள-திட்டம்/175-344643) · `ta`
+
+Project makes state vehicle usage mandatory. Government aims to prevent misuse by implementing circulars related to official vehicles. Focuses on proper utilization and accountability.
+
+🟩
+
+The government has focused on the re -implementation of a circular relating to the state -owned and state -owned vehicles and the use of the department or the names of the department or companies.
+
+This focus is on preventing state vehicles from abuse.R
+
+◼️
+
+[Data](articles/50ab3c03.json)
+
+[Extended Data](ext_articles/50ab3c03.ext.json)
+
+---
+
+### O / L examination results released
+
+*2024-09-29 07:59:36* · [`adalk`](https://www.ada.lk/breaking_news/සාමාන්‍ය-පෙළ-විභාග--ප්‍රතිඵල-නිකුත්-වෙයි/11-412196) · `si`
+
+Ordinary Level 2024 exam results released. Visit doenets.lk or ways.oxams.gov.lk. 387,648 students, 452,931 private candidates took 3,525 exams nationwide.
+
+🟩
+
+The results of the Ordinary Level (2024) examination were released yesterday (2824).
+
+Applicants can enter the official websites of the Examinations of Examinations www.doenets.lk and www.doenets.lk and www.ways.oxams.gov.lk.
+
+The Examinations Department states that 387648 school applicants and 452931 private candidates have appeared in 3525 examinations across the country.
+
+◼️
+
+[Data](articles/9a7580bb.json)
+
+[Extended Data](ext_articles/9a7580bb.ext.json)
+
+---
+
+### The education system must be redeemed
+
+*2024-09-29 07:52:32* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලනීයකරණය-වී-ඇති-අධ්‍යාපන-පද්ධතිය-ඉන්-මුදවා-ගත-යුතුයි/11-412195) · `si`
+
+Education system redemption: PM calls for reform, emphasizes societal values, proposes 6% GDP allocation for education, aims to reduce inequality in schooling.
+
+🟩
+
+A special workshop was held at Ananda College, Colombo today (28) with the participation of principals of 396 national schools across the country.. At this workshop, the National School Branch has made awareings of the National Schools' Branch, including the common issues identified by the construction and repairs of national schools.
+
+Prime Minister Dr. Haraney Amarasuriya participated in the event. The Prime Minister said that the education system must be redeemed. Here is the facts that she added.
+
+"In a Rain-Ruler - A Rich-Rich-Rich-Rich Reserve This Principals are well aware of the value of education to make this vision a reality. We are ready to provide guidance that should be given to education as a government. Education we expect to provide only knowledge. There is a big vision that goes beyond education. With the creation of a virtuous society without education, we have set up our education policy with the confidence that the country should be created.
+
+...
+
+[Data](articles/e9c19452.json)
+
+[Extended Data](ext_articles/e9c19452.ext.json)
+
+---
+
+### Notice of the date of calling for re-survey applications
 
 *2024-09-29 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201651) · `si`
 
-2023 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵළ නැවත සමීක්ෂණය සඳහා අයදුම්පත් කැඳවීම සම්බන්ධව විභාග දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කර තිබේ.
+GCE Ordinary Level exam resurvey application notice: Apply 1st-14th via 011 2785922 or 011 2786922.
 
-ඒ අනුව එම අයදුම්පත් ඔක්තෝබර් 01 දා සිට 14 වන දින දක්වා සිදුකරන බව එහි සඳහන්ව තිබේ.
+🟩
 
-තවද ප්‍රතිඵල සම්බන්ධයෙන් කිසියම් විමසීමක් සිදුකිරීමට අවශ්‍යනම් 1911 ක්ෂණික දුරකථන අංකයෙන් හෝ 011 2 785 922, 0112 786 616, 011 2 784 208 හෝ 011 2 784 537 යන අංක ඇමතීමෙන් විමසීම් කළ හැකි බව විභාග දෙපාර්තමේන්තුව පැවසීය.
+The Department of Examinations has issued an announcement regarding the call for applications for the results of the GCE Ordinary Level examination.
+
+Accordingly, the applications are being carried out from 1st to 14th.
+
+The Department of Examinations said that the 1912 instant telephone number, 011 2 785 922, 011 2 786, 011 2 786 or 011 2 786 or 011 2 786 or 011 2 786.
 
 ◼️
 
 [Data](articles/83c34cc3.json)
 
+[Extended Data](ext_articles/83c34cc3.ext.json)
+
 ---
 
-### සුරාබදු බලපත්‍ර ගැන හෙළිදරව්වක්
+### The kidnapped car was found
+
+*2024-09-29 07:42:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடத்தப்பட்ட-கார்-கண்டுபிடிக்கப்பட்டது/175-344642) · `ta`
+
+Kidnapped car recovered: Police seize vehicle near Mawanella bank. Suspect, 23-year-old from Kandy, arrested. Case transferred to Katugastota police for investigation.
+
+🟩
+
+A car suspected of being stolen on the morning of the 28th of last month was seized by police as a private bank in Mawanella area was parked.
+
+Based on the information received by the Commander of the Mawanella Police Station, a team of Criminal Investigation Division officials went to the spot and investigated the driver.
+
+Accordingly, the police have arranged to arrest the suspect and the 23 -year -old youth from the Kandy Watakadera area has been arrested.
+
+The arrested suspect and the car will be handed over to the Katugastota police for further investigations. Remble
+
+◼️
+
+[Data](articles/e727e5ea.json)
+
+[Extended Data](ext_articles/e727e5ea.ext.json)
+
+---
+
+### Cease
+
+*2024-09-29 07:34:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-உடன்-அமுலுக்கு-வரும்-வகையில்-நிறுத்தம்/175-344638) · `ta`
+
+Inspector General of Police Priyantha Weerasuriya orders release of police officers on duty. Letter sent to DIGs regarding strategy changes. Special officers involved in station/section duties revealed.
+
+🟩
+
+Inspector General of Police Priyantha Weerasuriya has ordered the release of all the police officers who have been on duty for "strategy" to release them from the duties.
+
+A letter has been sent to responsible authorities, including all DIGs.
+
+The Inspector General of Police said that the duties of the police stations and sections have been revealed due to the involvement of special officers for the work.. Remble
+
+◼️
+
+[Data](articles/a09ef34e.json)
+
+[Extended Data](ext_articles/a09ef34e.ext.json)
+
+---
+
+### A revelation of Excise License
 
 *2024-09-29 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201650) · `si`
 
-ජනාධිපතිවරණ කාලසීමාව තුළ නීතීවිරෝධි ලෙස සුරාබදු බලපත්‍ර විශාල ප්‍රමාණයක් නිකුත් කර ඇති බවට ඇතැම් පාර්ශව සිදුකරන ප්‍රකාශ සාවාද්‍ය බව සුරාබදු කොමසාරිස් ජනරාල් එම්. ජේ ගුණසිරි මහතා පවසයි.
+Excise License: 172 permits issued since May 2022, generating Rs. 220 million revenue. Companies agree to pay by end of 2023 and 2024.
 
-ඔහු පැවසුවේ රජය ගත් ප්‍රතිපත්තිමය තීරණයක් මත පසුගිය වසරේ මැයි මාසයේ සිට මේ දක්වා සුරාබදු බලපත්‍ර 172ක් පමණක් නිකුත් කර ඇති බවය.
+🟩
 
-එමගින් රුපියල් කෝටි 220ක ආදායමක් උපයා ගැනීමට හැකි වූ බව ද සුරාබදු කොමසාරිස්වරයා පැවසීය.
+The Commissioner General of Excise Missions M.. Mr. July Gunasiri says.
 
-මේ අතර 2023 සහ 2024 වර්ෂවලට අදාළව පවතින හිග බදු එළඹෙන නොවැම්බර් මස 30 වැනිදාට පෙර ගෙවා අවසන් කිරීමට සියලු සමාගම් එකග වී ඇති බවද  සුරාබදු කොමසාරිස් ජනරාල්වරයා පැවසුවේය.
+He said that the government has issued 172 excise permits from May last year.
+
+The Commissioner of Excise said that it was able to earn a revenue of Rs. 220 million.
+
+Meanwhile, the Commissioner General of Excise said that all companies have agreed to complete the payment before 2023 and 2024 years ago.
 
 ◼️
 
 [Data](articles/65b4d8e6.json)
+
+[Extended Data](ext_articles/65b4d8e6.ext.json)
 
 ---
 
@@ -337,6 +459,56 @@ New Zealand (Polo One): 199/5 (batting: Devon Konway 61, Tom Blendal AE 47, Kane
 [Data](articles/6a2d413a.json)
 
 [Extended Data](ext_articles/6a2d413a.ext.json)
+
+---
+
+### டெங்கு நோயாளர்கள் அதிகரிப்பு
+
+*2024-09-28 22:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-344625) · `ta`
+
+இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 39 ஆயிரத்து 137 பேர் டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர்.
+
+அதிகளவான டெங்கு நோயாளர்கள் மேல் மாகாணத்திலேயே பதிவாகியுள்ளனர் என தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+அதன்படி மேல் மாகாணத்தில் 16 ஆயிரத்து 463 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் என அந்தப் பிரிவு தெரிவித்துள்ளது.
+
+அதேநேரம், டெங்கு நோயினால் இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 19 பேர் பலியாகியுள்ளனர் என  தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/821b9feb.json)
+
+---
+
+### பிரமுகர்களுக்கான பாதுகாப்பு: நாளை கலந்துரையாடல்
+
+*2024-09-28 22:49:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமுகர்களுக்கான-பாதுகாப்பு-நாளை-கலந்துரையாடல்/175-344624) · `ta`
+
+முன்னாள் ஜனாதிபதிகள் மற்றும் பிரமுகர்களுக்கான பாதுகாப்பு குறித்து மேற்கொள்ளப்பட வேண்டிய அடுத்தகட்ட நடவடிக்கைகள் தொடர்பாக நாளை கலந்துரையாடலொன்று நடைபெறவுள்ளது.
+
+பொதுமக்கள் பாதுகாப்பு அமைச்சின் செயலாளர் தலைமையில் இந்த கலந்துரையாடல் இடம்பெறவுள்ளதாக பதில் பொலிஸ் மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய தெரிவித்துள்ளார்.
+
+தற்போது பாதுகாப்பு வழங்கப்பட்டுள்ள பிரமுகர்களுக்கான பாதுகாப்பு அச்சுறுத்தல் தொடர்பில் ஆராயப்படவுள்ளதாகவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/d727e30d.json)
+
+---
+
+### பொதுத் தேர்தல் தொடர்பில் கலந்துரையாடல்
+
+*2024-09-28 22:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தல்-தொடர்பில்-கலந்துரையாடல்/175-344623) · `ta`
+
+பாராளுமன்றத் தேர்தல் தொடர்பான முதற்கட்ட பணிகள் குறித்து நேற்று கலந்துரையாடல் ஒன்று நடைபெற்றது.
+
+தேர்தல்கள் ஆணைக்குழு தலைவர் ஆர்.எம்.ஏ.எல் ரத்நாயக்க தலைமையில் தேர்தல் செயலகத்தில் இடம்பெற்ற கலந்துரையாடலில், மாவட்ட தெரிவத்தாட்சி அலுவலர்கள், பிரதி மாவட்ட தேர்தல் ஆணையாளர்கள் ஆகியோர் கலந்துகொண்டனர்.
+
+எதிர்வரும் பாராளுமன்றத் தேர்தலை ஏற்பாடு செய்வது தொடர்பில் இதன்போது கலந்துரையாடப்பட்டதாக தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/0e58c52c.json)
 
 ---
 
@@ -795,6 +967,24 @@ There may be temporary localized strong winds during thundershowers. The general
 [Data](articles/d0f948eb.json)
 
 [Extended Data](ext_articles/d0f948eb.ext.json)
+
+---
+
+### බෝවතැන්නත් හිස් කරයි
+
+*2024-09-28 18:13:43* · [`adalk`](https://www.ada.lk/picture_story/බෝවතැන්නත්-හිස්-කරයි/10-412194) · `si`
+
+බෝවතැන්න ජලාශයේ අලුත් වැඩියා කටයුත්තක් සහ නිරීක්‍ෂණ කටයුත්තක් සඳහා ජලය ඉවත් කිරීම හේතුවෙන් අබන් ගඟ දෙපස ජනතාව දැඩි විමසිලිමත් වන ලෙසත් සිදී යන බෝවතැන්න ජලාශයේ මසුන් මැරීමට බහින  ජනතාවද  අනාරක්ෂිත රොන්මඩ නිසාවෙන්  ජිවිත අවධානයක් ඇති බව  බෝතැන්න ජලාශ භාර ඉංජිනේරු බුද්ධික මහේෂ් නවරත්න මහතා මහජනතාවගෙන් ඉල්ලීමක් කර සිටි.
+
+බෝවතැන්න ජලාශයේ   ජලය හිස් කරමින් පවතී ,  ඒ අනුව සොරොව් විවෘත කොටස   එම ජලය අඹන් ගඟ හරහා මොරගහකන්ද ජලාශයට යොමු කොට තිබෙන බවද  කඩිනමින් බෝවතැන්න ජලාශයේ සොරුව්  නඩත්තු කටයුතු  සිදුකරමින් පවතින බව ඒ මහතා පෙන්වා දුන්නේය
+
+ඉබ්බන්කටුව ජලාශය,  කණ්ඩලම ජලාශය, මෝරගහකන්ද ජලාශය,  කලා වැව සහ බළලු වැව ආදි වැව් රැසක් පෝෂණය වන විදුලිය උත්පාදනය කරන  ජලාශයක් වන්නේ බෝවතැන්න ජලාශයයි.
+
+වසර ගණනාවකින් ජලය  මේ ආකාරයෙන් ඉවත් කිරීමත් සමඟ බෝතැන්න ජලාශයේ  රොන් මඩ විශාල වශයෙන් තැන්පත්ව තිබෙන බවත් ඇතැම් ස්ථානවල අඩි දහය පහළව සහ හතළිහ තරමට රොන් රොන්මඩ වලින් පිරී ඇති  නිසා  මසුන්මැරීම සහ ජලයට බැසීමෙන් අනතුරුදායක ජීවිත  අවධානමක්    ගෙන දෙන තත්වයක් බව ඒ මහතා පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/6c6c528f.json)
 
 ---
 
@@ -2115,223 +2305,5 @@ The magisterial inquiry into the body is to be taken up with the age of 36 years
 [Data](articles/a5df3f2d.json)
 
 [Extended Data](ext_articles/a5df3f2d.ext.json)
-
----
-
-### Kumara Welgama: Memorable memory of a "news created" in Sri Lankan politics
-
-*2024-09-28 07:43:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cj4deqdy5xyo) · `si`
-
-Here's a 200-character summary of Kumara Welgama's political career:
-
-
-
-Sri Lankan politician known as "Kalugoda Lion". Active in politics for 40+ years, serving as MP, Minister, Deputy Minister. Controversial figure with strong opinions. Criticized government policies, supported opposition candidates. Known for blunt statements in parliament. Died in 2023 at age 74.
-
-🟩
-
-Kumara Welgama: Memorable memory of a "news created" in Sri Lankan politics
-
-Former Minister Kumara Welgama, who was known in the 'Kalugoda Lion' nickname, was engaged in active politics in Sri Lanka for more than four decades.
-
-He was once illustrated in Colombo and died while he was 74 years old.
-
-His contemporary politicians believe that he was a severe communicate, as a seriously remembering politician.
-
-Katuma Welgama, who is born on April 5, 1950, is a businessman in the field of transport. The father of Welgama and Berice Welgama were born.
-
-He was studying at St. Thomas' College, Mount Lavinia and was a planned person and businessman.
-
-Growing up in a family of 5 members, he was two sons.
-
-He once said in a television interview, "I am coming from a public business family in Sri Lanka,". He said that his father was a businessman for the number of lorries in the country's transport.
-
-Kumara Welgama's brothers and businessmen are businessmen and businesses (Pvt) Limited, Lands and IDeal motors.
-
-...
-
-[Data](articles/6d7a9c90.json)
-
-[Extended Data](ext_articles/6d7a9c90.ext.json)
-
----
-
-### Former Minister Kumara Welgama passes away
-
-*2024-09-28 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102311/former-minister-kumara-welgama-passes-away) · `en`
-
-Former Minister Kumara Welgama has passed away at the age of 74.
-
-He had passed away while receiving treatment at a private hospital, family sources said.
-
-From 1984 to 2000, Welgama served as the chief organiser for the Sri Lanka Freedom Party in the Agalawatte electorate.
-
-He later held key ministerial roles, serving as the Minister of Industrial Development from 2007 to 2010 and the Minister of Transport from 2010 until early 2015, under SLFP-led governments.
-
-Since 2020, he has led the New Lanka Freedom Party and contested elections in alliance with the Samagi Jana Balawegaya (SJB).
-
-◼️
-
-[Data](articles/1b25f039.json)
-
-[Extended Data](ext_articles/1b25f039.ext.json)
-
----
-
-### Dissanayake: The Minority President
-
-*2024-09-28 07:13:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dissanayake-the-minority-president/) · `en`
-
-Sri Lanka successfully conducted the election to choose its 9th executive president on September 21. This was one of the peaceful elections. The next day, Anura Kumara Dissanayake was declared the winner and sworn in on September 23, 2024. This essay synthesizes some of the significant aspects of the election and the results.
-
-First, the election installed what I like to call a “minority” president (like a minority government) because numerically minority voters elected him. He received 42.31 percent of the votes, while Sajith Premadasa of the Samagi Jana Balawegaya (SJB) received 32.76 percent. In other words, a majority of the voters, 57.69 percent, to be precise, did not prefer Dissanayake as president.
-
-...
-
-[Data](articles/29e22f4f.json)
-
-[Extended Data](ext_articles/29e22f4f.ext.json)
-
----
-
-### Former Minister Kumara Welgama passes away
-
-*2024-09-28 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201618) · `si`
-
-Former Minister Kumara Welgama (74) dies in private hospital after treatment. Former Sri Lankan parliamentarian and politician passes away.
-
-🟩
-
-Former parliamentarian and former minister Kumara Welgama has passed away.
-
-He passed away while receiving treatment at a private hospital, and he was 74 years old.
-
-◼️
-
-[Data](articles/1c366359.json)
-
-[Extended Data](ext_articles/1c366359.ext.json)
-
----
-
-### Showers or thundershowers at several places today
-
-*2024-09-28 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201617) · `si`
-
-Heavy rainfall expected across Sri Lanka today, especially in central and southern regions. Thunderstorms may cause disruptions and power outages. Residents advised to take precautions against lightning and flooding.
-
-🟩
-
-Showers or thundershowers at night in many parts of the island today (28) can have a rain.
-
-Also, in the Central and Sabaragamuwa provinces, Kurunegala, Kalutara, Galle and Matara districts have. Can cause about 100 tight closures.
-
-Showers will occur at the Southern Province and in the morning in the morning and in the morning.
-
-As such, the people will be taken to reduce the necessary steps to reduce the damages caused by thunderstorms and lightning.
-
-◼️
-
-[Data](articles/a8902fb8.json)
-
-[Extended Data](ext_articles/a8902fb8.ext.json)
-
----
-
-### Do you know about the 46-year-old political life that followed Anura's victory?
-
-*2024-09-28 03:12:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy80gxjpqd7o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Tilvin Silva, JVP General Secretary for 29 years, refused posts under Chandrika Bandaranaike governments. He protected party members during 1983 ban and 1995 imprisonment. Described unknown political tactics with Rohana Wijeweera and Anura Dissanayake.
-
-🟩
-
-Do you know about the 46-year-old political life that followed Anura's victory?
-
-Tilvin Silva, who is engaged in the active politics of the JVP, is the General Secretary of the JVP for 29 years.
-
-He has the asset assets including the head office building of the JVP.
-
-He said that he decided not to accept any post in Chandrika Bandaranaike as well as the current government of Chandrika Bandaranaike as well as Anura Kumara Dissanayake.
-
-The Secretary of the Kalutara District is the Secretary to the Kalutara District at the time of banning the party ''83.. But many did not know what the party did in the party because I didn't politicize at that time. The prison officer knew who I was in the 1995 secretary of the 1995 party secretary.. My behavior was able to protect the lives of many of the party. The police thought I was the right to help with the party. "He said.
-
-...
-
-[Data](articles/abe37a25.json)
-
-[Extended Data](ext_articles/abe37a25.ext.json)
-
----
-
-### Indian High Commissioner - Rauf Hakeem Meeting
-
-*2024-09-28 02:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-ரவூப்-ஹக்கீம்-சந்திப்பு/175-344607) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Indian High Commissioner Santosh Ja met Muslim Congress leader Rauf Hakeem. Discussion focused on strengthening Sri Lanka's political progress and improving bilateral relations between India and Sri Lanka.
-
-🟩
-
-Indian High Commissioner Santosh Ja met Muslim Congress leader Rauf Hakeem yesterday.
-
-It has also been discussed on the strengthening of Sri Lanka's political advances and strengthening the Sri Lankan relations. (A)
-
-◼️
-
-[Data](articles/7336b252.json)
-
-[Extended Data](ext_articles/7336b252.ext.json)
-
----
-
-### Sri Lankans are safe in Lebanon
-
-*2024-09-28 02:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனானில்-இலங்கையர்கள்-பாதுகாப்பாக-உள்ளனர்/175-344606) · `ta`
-
-Sri Lankans in Lebanon safe: 7600 workers mostly in south. Ambassador in touch. Recent Israeli airstrikes targeted north, not affecting Sri Lankans.
-
-🟩
-
-Ambassador Kapila Jayaweera also stated that the Ambassador is in close contact with the Sri Lankans living there.
-
-He said about 7,600 Sri Lankan employees were working in Lebanon and most of them live in the southern parts of the country.
-
-A few days ago, Israel had carried out air strikes in the northern parts of Lebanon, targeting the Hizbullah system.
-
-◼️
-
-[Data](articles/e2b9b65c.json)
-
-[Extended Data](ext_articles/e2b9b65c.ext.json)
-
----
-
-### Increase in the spread of monkey in India
-
-*2024-09-28 02:11:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-குரங்கு-அம்மை-பரவல்-அதிகரிப்பு/175-344605) · `ta`
-
-Monkey disease spreads in Kerala, India. Second case confirmed. Health Minister advises international travelers to seek treatment if symptoms occur.
-
-🟩
-
-The Kerala State Health Department has said that another person has been affected by the monkey in Kerala, India, and has advised those who are diagnosed with the disease.
-
-The first monkey in India was diagnosed in Kerala earlier last week, and the second impact has now been confirmed.
-
-Subsequently, the Kerala State Health Minister has advised that all those who come to the state from abroad should approach the state health agency and take treatment if there are symptoms.. (A)
-
-◼️
-
-[Data](articles/d67a1cc2.json)
-
-[Extended Data](ext_articles/d67a1cc2.ext.json)
 
 ---

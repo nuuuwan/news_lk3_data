@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 10:10:42**
+As of **2024-09-29 10:22:42**
 
 ## Newspaper Stats
 
-*Scraped **46,801** Articles*
+*Scraped **46,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,129
 adalk | 4,313
 dailymirrorlk | 4,733
 adaderanalk | 5,506
-tamilmirrorlk | 6,284
+tamilmirrorlk | 6,285
 virakesarilk | 7,470
 adaderanasinhalalk | 8,092
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,092
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,801 (100.0%) of 46,801 articles have been extended.
+46,802 (100.0%) of 46,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### 33 people killed in Israeli air strike in Lebanon
+
+*2024-09-29 09:51:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-இஸ்ரேல்-வான்வழி-தாக்குதலில்-33-பேர்-பலி/50-344647) · `ta`
+
+Israeli air strike kills 33 in Lebanon, injures 195. Attacks target Hezbollah. UN expresses concern over ongoing violence.
+
+🟩
+
+33 people were killed in Israel's air strike in Lebanon's Beirut. Another 195 people were injured.
+
+Israel, which is attacking the Hamas terrorist organization, is now attacking the Lebanon -based Hezbollah organization.. A few days ago, the air strikes on Lebanon. Of these, 274 were killed, including 21 children and 39 women. Hizbullah leader Hasan Nasrallah was also killed.
+
+In this case, Israel has now launched an air strike on Lebanon. 33 people were killed and 195 were injured in the attack.
+
+All the neighbors are struggling to know when these attacks will stop. Also, the UN has expressed regret that the ongoing attacks in Beirut are very worrying.
+
+◼️
+
+[Data](articles/d8b4dd33.json)
+
+[Extended Data](ext_articles/d8b4dd33.ext.json)
+
+---
 
 ### Jayasuriya's term extended by a year
 
@@ -61,6 +85,16 @@ As the chief coach of the Sri Lankan cricket team, Chris Silverwood was temporar
 *2024-09-29 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102331/sri-lanka-head-coach-sanath-jayasuriyas-term-extended-) · `en`
 
 Sri Lanka Cricket (SLC) announced today that interim head coach of the Sri Lanka men’s cricket team, Sanath Jayasuriya’s term has been extended for another year.
+
+On July 07, 2024, former Sri Lanka captain Sanath Jayasuriya was temporarily appointed as the Head Coach of the men’s national team by Sri Lanka Cricket (SLC).
+
+Jayasuriya served as the interim head coach for the home series against India and the Test tour to England.
+
+This decision came as SLC continued its search for a permanent replacement for former head coach Chris Silverwood.
+
+The interim appointment followed the resignations of head coach Chris Silverwood and consultant coach Mahela Jayawardene after Sri Lanka’s underwhelming performance in the T20 World Cup held in the USA and West Indies.
+
+Under the leadership of Wanindu Hasaranga, the team failed to advance to the Super 8 round, prompting a need for significant changes in the coaching staff.
 
 ◼️
 
@@ -2341,39 +2375,5 @@ Senior Counsel J. M. Wijebandara is a former lecturer at the Faculty of the Univ
 [Data](articles/6b2ab897.json)
 
 [Extended Data](ext_articles/6b2ab897.ext.json)
-
----
-
-### Helen hurricanes struck the southeastern part of the United States - 43
-
-*2024-09-28 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/194964) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Hurricane Helen hits southeast US: 43 deaths, millions without power. High winds, floods forecasted. Heavy rainfall expected. 14th major US hurricane this year. Strong winds, heavy rain affect Florida, Georgia, Tennessee, Carolinas."
-
-🟩
-
-At least 43 people have died in the hurricane of the Southeast of the United States on Friday, and millions of electricity has been cut off.
-
-This is the powerful hurricane that struck the Florida Curve. The landslide caused by a tornado on Thursday night.
-
-In this case, the forecasts have warned that despite Helen's hurricane, high winds, floods and hurricane threats will continue.
-
-Heavy rainfall is expected to be increased up to 50 meters in some places.
-
-It was recorded as the 14th powerful hurricane in the hurricane that attacked the United States.
-
-Hurricanes in 2017 and Oplle in 1996 have been blowing 460 miles.
-
-The impact of strong winds and heavy rainfall is widespread throughout Florida, Georgia, Tennessee and Carolinas.
-
-◼️
-
-[Data](articles/62c7243b.json)
-
-[Extended Data](ext_articles/62c7243b.ext.json)
 
 ---

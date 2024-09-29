@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 22:38:22**
+As of **2024-09-29 22:56:13**
 
 ## Newspaper Stats
 
-*Scraped **46,892** Articles*
+*Scraped **46,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 2,842
 dailyftlk | 3,130
 adalk | 4,332
 dailymirrorlk | 4,733
-adaderanalk | 5,517
+adaderanalk | 5,518
 tamilmirrorlk | 6,296
 virakesarilk | 7,500
-adaderanasinhalalk | 8,107
+adaderanasinhalalk | 8,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,892 (100.0%) of 46,892 articles have been extended.
+46,894 (100.0%) of 46,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Sri Lanka climbs to 3rd in WTC table, boost chances of title clash qualification
+
+*2024-09-29 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102343/sri-lanka-climbs-to-3rd-in-wtc-table-boost-chances-of-title-clash-qualification) · `en`
+
+A stunning 2-0 series win over New Zealand following a massive win by an innings and 154 runs in the second Test at Galle has pushed Sri Lanka up to number three in the ICC World Championship (WTC) 2023-25 standings.
+
+Now, Sri Lanka has five wins and four losses in nine Tests. They have a point percentage (PCT) of 55.56 percent, which is not very far from Australia, which sits at second place with a PCT of 62.50 after eight wins, three losses, and a draw in 12 Tests.
+
+India is at the top with seven wins, two losses, and a draw with a PCT of 71.67.
+
+New Zealand has slipped to seventh place with three wins and five losses in eight Tests, with a PCT of 37.50.
+
+Sri Lanka has four Tests left, two against South Africa away from home in November-December this year and two home Tests against Australia in January-February next year, as per Wisden. To make it to the top two, Sri Lanka must finish with a PCT higher than either India or Australia.
+
+...
+
+[Data](articles/8695c3e9.json)
+
+[Extended Data](ext_articles/8695c3e9.ext.json)
+
+---
+
+### The student was among the top 10 in the GCE O / L
+
+*2024-09-29 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201671) · `si`
+
+Here's a 200-character summary:
+
+
+
+Top 10 GCE O/L student faces challenges: Dengue illness during exams, medical aspirations, biology studies. Overcomes obstacles to achieve academic success.
+
+🟩
+
+According to the results of the GCE O / L examination, only one student is among the top ten.
+
+Sadashan Sadashan Sadashan Sadashan Sadashan Sandeshawickrema, who was the only student who had been the only student.
+
+A regular member of the Sakunu School is a regular member of the Cadet team and the Scout team and a regular member of the school's masque.
+
+Despite the active student, the largest challenge that the GCE Ordinary Leader began to start dengue was to receive dengue at the Matara General Hospital.
+
+However, the determinised doctors had come to the house before the examination before the examination.
+
+Wasn't his interest and severe commitment to the top 10 amidst such challenges?
+
+At present, the dream of being a doctor is laying the foundation of the realization.
+
+It is now being acquired from the Biology Division to go to his goal of being a doctor.
+
+There is no doubt that the intense commitment and determination of his doctor's dream come true.
+
+...
+
+[Data](articles/a5bdd8b9.json)
+
+[Extended Data](ext_articles/a5bdd8b9.ext.json)
+
+---
 
 ### Nepal shuts schools as floods and landslides kill more than 150
 
@@ -2333,47 +2393,5 @@ At the meeting, the meeting discussed the future action was held at length and f
 [Data](articles/e70c8ebd.json)
 
 [Extended Data](ext_articles/e70c8ebd.ext.json)
-
----
-
-### The project to be made compulsory for state vehicles
-
-*2024-09-29 08:00:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-வாகனங்களுக்கு-கட்டாயமாக்கப்படவுள்ள-திட்டம்/175-344643) · `ta`
-
-Project makes state vehicle usage mandatory. Government aims to prevent misuse by implementing circulars related to official vehicles. Focuses on proper utilization and accountability.
-
-🟩
-
-The government has focused on the re -implementation of a circular relating to the state -owned and state -owned vehicles and the use of the department or the names of the department or companies.
-
-This focus is on preventing state vehicles from abuse.R
-
-◼️
-
-[Data](articles/50ab3c03.json)
-
-[Extended Data](ext_articles/50ab3c03.ext.json)
-
----
-
-### O / L examination results released
-
-*2024-09-29 07:59:36* · [`adalk`](https://www.ada.lk/breaking_news/සාමාන්‍ය-පෙළ-විභාග--ප්‍රතිඵල-නිකුත්-වෙයි/11-412196) · `si`
-
-Ordinary Level 2024 exam results released. Visit doenets.lk or ways.oxams.gov.lk. 387,648 students, 452,931 private candidates took 3,525 exams nationwide.
-
-🟩
-
-The results of the Ordinary Level (2024) examination were released yesterday (2824).
-
-Applicants can enter the official websites of the Examinations of Examinations www.doenets.lk and www.doenets.lk and www.ways.oxams.gov.lk.
-
-The Examinations Department states that 387648 school applicants and 452931 private candidates have appeared in 3525 examinations across the country.
-
-◼️
-
-[Data](articles/9a7580bb.json)
-
-[Extended Data](ext_articles/9a7580bb.ext.json)
 
 ---

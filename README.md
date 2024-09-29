@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 05:45:17**
+As of **2024-09-29 06:11:47**
 
 ## Newspaper Stats
 
-*Scraped **46,762** Articles*
+*Scraped **46,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 388
 bbccomsinhala | 463
 colombotelegraphcom | 466
-islandlk | 2,739
+islandlk | 2,749
 economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,309
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,085
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,762 (100.0%) of 46,762 articles have been extended.
+46,765 (100.0%) of 46,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### IIHS opens global careers for Lankan youth in nursing
+
+*2024-09-29 03:16:00* · [`islandlk`](http://island.lk/iihs-opens-global-careers-for-lankan-youth-in-nursing/) · `en`
+
+Sri Lanka is at a pivotal point, experiencing a demographic transition that presents unique opportunities for economic and social growth. With a large portion of the population in the 15-29 age group, there is an urgent need to provide sustainable employment solutions for the country’s youth, particularly those in rural areas. Amidst challenges like unemployment, poverty, and limited access to skills development, the healthcare sector emerges as a promising avenue for empowering the youth. Nursing, in particular, offers a significant solution to the youth unemployment crisis. The global demand for nursing professionals is growing rapidly, driven by an aging population and the COVID-19 pandemic. Many countries are facing shortages in healthcare professionals, making nursing one of the most secure and sought-after professions worldwide. Sri Lanka, with its high literacy rate and skilled youth population, is well-positioned to meet this global demand.
+
+...
+
+[Data](articles/3627cae5.json)
+
+[Extended Data](ext_articles/3627cae5.ext.json)
+
+---
 
 ### GCE Ordinary Level Exam results released
 
@@ -57,6 +71,94 @@ The examination was conducted in 3,527 examination centers from May 6 to 15.
 [Data](articles/905fd628.json)
 
 [Extended Data](ext_articles/905fd628.ext.json)
+
+---
+
+### Billion rupee refurbishment of MJF’s Cape Weligama nearing completion
+
+*2024-09-29 02:20:00* · [`islandlk`](http://island.lk/billion-rupee-refurbishment-of-mjfs-cape-weligama-nearing-completion/) · `en`
+
+Resplendent Ceylon, the leisure wing of the MJF Group headed by Malik. J. Fernando, elder son of Dilmah founder Merrill J Fernando, has completed a billion rupee refurbishment of its upmarket Cape Weligama property which is expected to be open in time for the high season on Dec. 2.
+
+The tea-driven MJF group entered the leisure and hospitality industry in 2005 by setting up Ceylon Tea Trails, now running five spectacularly located plantation bungalows with 27 rooms, also in an upmarket operation.
+
+The group also provides luxury tented accommodation close to the Yala National Park and has substantial minority stakes with board representation in hospitality businesses including the Fortress Hotel at Koggala, the George Ondaatje founded Tangerine and Royal Park resort hotels in Kalutara and Ravi Thambiayah’s Renuka and Renuka City Hotels in Colombo.
+
+...
+
+[Data](articles/e541fba9.json)
+
+[Extended Data](ext_articles/e541fba9.ext.json)
+
+---
+
+### Visit of Mrs. Indira Gandhi and China’s gift of the BMICH
+
+*2024-09-29 02:09:00* · [`islandlk`](http://island.lk/visit-of-mrs-indira-gandhi-and-chinas-gift-of-the-bmich/) · `en`
+
+(Excerpted from the autobiography of MDD Pieris, Secretary to the Prime Minister)
+
+The first half of 1973 saw two important events, the visit of the Indian Prime Minister Mrs. Indira Gandhi in April. and on May 17 the opening of The Bandaranalke Memorial International Conference Hall. During Mrs. Gandhi’s visit, the two Prime Ministers had set apart some time for one-on-one discussion, without any Ministers or officials being present. This was a period where there was a degree of belligerence on the part of some South Indian politicians, displayed towards Sri Lanka.
+
+...
+
+[Data](articles/699ab605.json)
+
+[Extended Data](ext_articles/699ab605.ext.json)
+
+---
+
+### Going Native at Tambuttegama- a Dry Zone Purana Village
+
+*2024-09-29 02:02:00* · [`islandlk`](http://island.lk/going-native-at-tambuttegama-a-dry-zone-purana-village/) · `en`
+
+Anura Kumara Dissanayaka, Sri Lanka’s new president, grew up in Tambuttegama, a Purana (old, traditional) village in the Anuradhapura District. I did extensive fieldwork for my doctoral thesis in this village over 10 months in 1978/79. At that time, I guess, the president was a young boy attending Tambuttegama Maha Vidyalaya. As I had visited practically every family in the village, I might have visited his family during my stay there.
+
+...
+
+[Data](articles/32959ec5.json)
+
+---
+
+### Sir John Kotelawela (1953 — 1956), as seen by his Assistant Secretary
+
+*2024-09-29 02:01:00* · [`islandlk`](http://island.lk/sir-john-kotelawela-1953-1956-as-seen-by-his-assistant-secretary/) · `en`
+
+The strongest man is never strong enough to be always master, unless lie transforms his power into right, and obedience to duty.
+
+At the time my story begins, a routine civil service transfer had me moved as Assistant Secretary in the prime minister’s office which was without doubt the most exalted and powerful institution in Sri Lanka. For the first 30 years of the new state’s existence, its place in the political structure remained unchallenged and unchanged. The role of the prime minister as the keystone of the arch in a Westminster-style government was paramount. It was only much later, after the second Republican Constitution in 1978 and the creation of the Executive Presidency with its enormous concentration of power, that the position of the prime minister became as it now is, devoid of constitutional authority, largely decorative’ and what its holder is able to make of it.
+
+...
+
+[Data](articles/641349ff.json)
+
+---
+
+### Unique Contributions to Hospitality Leadership Development in Sri Lanka
+
+*2024-09-29 01:57:00* · [`islandlk`](http://island.lk/unique-contributions-to-hospitality-leadership-development-in-sri-lanka/) · `en`
+
+As the founding Managing Director of the International Hotel School (IHS), I placed hotel management development at the forefront of Mount Lavinia Hotel’s (MLH) operations in the early 1990s. Several key members of our leadership team became both coaches to their respective departments; and students attending the IHS management seminars. This “Teaching and Learning Culture,” which I implemented helped me in my role as General Manager of MLH. Around this time, I also once again became a student. I pursued the Chartered Institute of Marketing (CIM) Diploma in Marketing in England, graduating in 1992 and becoming a CIM member in 1993.
+
+...
+
+[Data](articles/a25fe329.json)
+
+---
+
+### Welcome, Comrade Anura!
+
+*2024-09-29 01:43:00* · [`islandlk`](http://island.lk/welcome-comrade-anura/) · `en`
+
+It’s official – Dissanayake Mudiyanselage Anura Kumara Dissanayake is the ninth Executive President of Sri Lanka.
+
+For those who don’t know, between 1948 – when we obtained independence from the British Empire – and 1977, the highest elected political official in Sri Lanka was the Prime Minister. He or she – Sri Lanka has the distinction of electing the world’s first woman Prime Minister – was invested with a tremendous array of powers, while the President served a ceremonial role.
+
+In 1978, the government of J. R. Jayewardene enacted a new Constitution which transformed the office of the Prime Minister into that of an all-powerful, almost omniscient Executive President who was both head of state and head of government. The then Prime Minister’s rationale was that the parliamentary system which had prevailed until then had become a hindrance and that the country required a new political arrangement which would shield its leaders from the vagaries of parliamentary politics.
+
+...
+
+[Data](articles/7cca890e.json)
 
 ---
 
@@ -91,6 +193,18 @@ The examination was conducted in 3,527 examination centers from 6th to 15th May.
 [Data](articles/9b0b4a8a.json)
 
 [Extended Data](ext_articles/9b0b4a8a.ext.json)
+
+---
+
+### Western Plot to Encircle China and the Risk of Global Conflict:
+
+*2024-09-29 01:36:00* · [`islandlk`](http://island.lk/western-plot-to-encircle-china-and-the-risk-of-global-conflict/) · `en`
+
+In this second part of my interview with Dr. Dayan Jayatilleka (part one appeared last week) we ventured into the philosophical underpinnings of contemporary geopolitics. Dr. Jayatilleka contends that the war in Ukraine represents a critical inflection point, suggesting that the West may soon confront a more profound reality: Vladimir Putin is merely a symptom of a deeper, more complex Russian psyche. This perspective challenges the prevailing discourse and calls for a reconsideration of how power, fear, and resistance are constructed on the global stage. We also explored India’s nuanced role within its regional dynamics, the enduring struggles in Palestine, the evolving tensions in West Asia, NATO’s expansion, and the relentless rise of China.
+
+...
+
+[Data](articles/467c685d.json)
 
 ---
 
@@ -2116,6 +2230,22 @@ When the Director of Directors of the Ministry of Media Rupavahini Corporation, 
 
 ---
 
+### Sri Lanka Banks’ Association congratulates new President, assures support for nation building
+
+*2024-09-28 01:33:00* · [`islandlk`](http://island.lk/sri-lanka-banks-association-congratulates-new-president-assures-support-for-nation-building/) · `en`
+
+The Sri Lanka Banks’ Association (SLBA) has congratulated President Anura Kumara Dissanayake on his election to the Presidency and assured him of the fullest support of the banking sector for the challenging journey ahead.
+
+In a congratulatory note, the Association, which represents all licenced banks in Sri Lanka, said: “The essential political and social stability that must be maintained is underpinned as always by the economy, and the banking sector is a lynch-pin in this structure. We understand, and are fully committed to, our role to ensure that financial stability is sustained.”
+
+The full text of the SLBA note: “Please accept the warm congratulations of The Sri Lanka Banks’ Association (SLBA), which represents all licensed banks in Sri Lanka, on your election to the high office of the President of our nation.”
+
+...
+
+[Data](articles/bf06df5d.json)
+
+---
+
 ### CBSL policy rates to remain at current levels
 
 *2024-09-28 01:32:00* · [`islandlk`](http://island.lk/cbsl-policy-rates-to-remain-at-current-levels/) · `en`
@@ -2201,151 +2331,5 @@ The morning kicked off with Mr. Fahad Farook, who urged the delegates to find th
 [Data](articles/d05de18f.json)
 
 [Extended Data](ext_articles/d05de18f.ext.json)
-
----
-
-### NDB Bank achieves historic milestone as first Sri Lankan bank to reach 100,000 YouTube subscribers
-
-*2024-09-28 01:18:54* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-achieves-historic-milestone-as-first-Sri-Lankan-bank-to-reach-100-000-YouTube-subscribers/34-767293) · `en`
-
-NDB Bank has achieved a groundbreaking digital milestone by becoming the first Sri Lankan bank to reach 100,000 subscribers on its YouTube channel, underscoring the bank’s dedication to innovation and its digital-first approach in engaging with customers, setting a new benchmark for the banking industry in Sri Lanka.
-
-...
-
-[Data](articles/34d86f07.json)
-
-[Extended Data](ext_articles/34d86f07.ext.json)
-
----
-
-### Computer initiative at Aarangawa Sri Dammarama Primary School
-
-*2024-09-28 01:18:00* · [`islandlk`](http://island.lk/computer-initiative-at-aarangawa-sri-dammarama-primary-school/) · `en`
-
-HUTCH is committed to advancing digital literacy in Sri Lanka. In line with this commitment, the company has provided desktop computers to Aarangawa Sri Dammarama Primary School in Minuwangoda, as part of its CSR activities. This timely initiative, which aligns with International Literacy Day, reflects HUTCH’s dedication to supporting education through technology, particularly in rural and underserved communities. The contribution aims to provide students with access to essential digital tools that are increasingly becoming the foundation of modern education, helping to bridge the gap between urban and rural learning environments. This is part of an ongoing project by Hutch, which will continue to expand, covering other local schools with similar needs to further support digital literacy across the country.
-
-...
-
-[Data](articles/d73b5141.json)
-
-[Extended Data](ext_articles/d73b5141.ext.json)
-
----
-
-### Police protection of ex-MPs withdrawn
-
-*2024-09-28 01:01:13* · [`dailyftlk`](https://www.ft.lk/news/Police-protection-of-ex-MPs-withdrawn/56-767282) · `en`
-
-Sri Lanka Police have announced the withdrawal of security provided to Ministers, Deputy Ministers, State Ministers, and MPs of the 16th Parliament, following the dissolution of Parliament on 24 September.
-
-In an official statement, the Police Media Unit confirmed that officers assigned to the protection of former Ministers, MPs, Governors, Provincial Council Ministers, and Councillors have also been withdrawn.
-
-However, security will continue for Speaker Mahinda Yapa Abeywardena, Opposition Leader Sajith Premadasa, and Deputy Speaker Ajith Rajapaksa. This decision follows the standard protocol post-Parliamentary dissolution, ensuring only select officials retain protection during the transition period.
-
-◼️
-
-[Data](articles/307f8406.json)
-
-[Extended Data](ext_articles/307f8406.ext.json)
-
----
-
-### SDIG Priyantha Weerasooriya appointed as Acting IGP
-
-*2024-09-28 01:01:06* · [`dailyftlk`](https://www.ft.lk/news/SDIG-Priyantha-Weerasooriya-appointed-as-Acting-IGP/56-767281) · `en`
-
-Senior DIG Priyantha Weerasooriya has been appointed as the Acting Inspector General of Police (IGP) by President Anura Kumara Dissanayake, the Presidential Media Division (PMD) announced yesterday. The appointment was made under the constitutional powers vested in the President, and the letter of appointment was presented by the President’s Secretary Dr. Nandika Kumanayake, at the Presidential Secretariat in Colombo.
-
-Weerasooriya, who has served as Senior DIG in charge of the North Central Province since March 2024, brings 36 years of exemplary service to his new role. Notably, he is the first officer in the 158-year history of the Sri Lankan Police to rise from the rank of Police Constable to Inspector General of Police (IGP).
-
-...
-
-[Data](articles/6c2926bc.json)
-
-[Extended Data](ext_articles/6c2926bc.ext.json)
-
----
-
-### Postcards of protest from Mannar to President, PM
-
-*2024-09-28 01:00:27* · [`dailyftlk`](https://www.ft.lk/news/Postcards-of-protest-from-Mannar-to-President-PM/56-767280) · `en`
-
-Members of the “Voice of People Mannar” facilitated by the Mannar Social and Economical Development Organisation (MSEDO), held a peaceful postal campaign in Mannar Town yesterday urging the Government to halt the Wind Power Project and titanium sand mining on Mannar Island. Over 1,500 postcards were sent to the President and Prime Minister of Sri Lanka.
-
-◼️
-
-[Data](articles/5d8dda70.json)
-
-[Extended Data](ext_articles/5d8dda70.ext.json)
-
----
-
-### Ex-SIS Head Nilantha Jayawardena hit with contempt charges for failing to pay Easter Sunday compensation
-
-*2024-09-28 00:59:27* · [`dailyftlk`](https://www.ft.lk/news/Ex-SIS-Head-Nilantha-Jayawardena-hit-with-contempt-charges-for-failing-to-pay-Easter-Sunday-compensation/56-767279) · `en`
-
-The Attorney General informed the Supreme Court yesterday that contempt of court charges have been filed against Senior DIG Nilantha Jayawardena, the former head of the State Intelligence Service. The charges relate to his failure to fully pay the Rs. 75 million in compensation ordered in connection with fundamental rights petitions filed over the 2019 Easter Sunday terror attacks.
-
-A seven-member Supreme Court bench, led by the Chief Justice, issued a notice for Jayawardena to appear before the court on 7 October at 9.30 a.m. The compensation was mandated as part of the court’s ruling on the intelligence failures that contributed to the deadly attacks, which killed over 250 people.
-
-...
-
-[Data](articles/021eb1a0.json)
-
-[Extended Data](ext_articles/021eb1a0.ext.json)
-
----
-
-### Role of history and ideology in shaping China’s geopolitical strategies and influence on Sri Lanka
-
-*2024-09-28 00:43:54* · [`dailyftlk`](https://www.ft.lk/opinion/Role-of-history-and-ideology-in-shaping-China-s-geopolitical-strategies-and-influence-on-Sri-Lanka/14-767268) · `en`
-
-Dr. Patrick Mendis and Dr. Antonina Łuszczykiewicz-Mendis offer an in-depth analysis of China’s ‘Dragon and Phoenix’ strategy, highlighting how Beijing blends assertive geopolitical moves with culturally-driven diplomacy to expand its global influence. They discuss how this dual approach is shaping the ongoing US-China rivalry, particularly in the strategic Indian Ocean region, and its potential implications for Sri Lanka.
-
-Q:  In your article on China’s ‘Dragon and Phoenix’ strategy, you describe the ‘Dragon’ as representing China’s more assertive, forceful actions, while the ‘Phoenix’ symbolises its softer, culturally-focused diplomacy. Could you elaborate on how these two aspects work together to enhance China’s global influence?
-
-Dr. Mendis: In our article, we aimed to capture how China perceives itself and projects its strategy to the world in a very subtle, often secretive manner. To effectively explain this, we chose to use a Chinese metaphor—the Dragon and Phoenix.
-
-...
-
-[Data](articles/ecd24d65.json)
-
-[Extended Data](ext_articles/ecd24d65.ext.json)
-
----
-
-### Ratha Gaya: A national burden
-
-*2024-09-28 00:40:51* · [`dailyftlk`](https://www.ft.lk/columns/Ratha-Gaya-A-national-burden/4-767267) · `en`
-
-Given Sri Lanka’s current economic situation, it is imperative to re-evaluate our approach to vehicle ownership and usage
-
-Ratha Gaya, a term often used to describe the obsession with owning flashy vehicles, has become a pervasive issue in Sri Lanka. This trend, fuelled by the perceived status and the inadequacy of public transportation, has placed an undue burden on the Government and the nation’s economy.
-
-Government officials, often compensated with relatively lower salaries compared to their private sector counterparts, have traditionally been given duty-free vehicle allowances. This has led to a proliferation of vehicles within Government departments, often used more for personal convenience than for official duties. Similarly, the private sector has also succumbed to this trend, viewing vehicles as status symbols rather than mere utilities.
-
-...
-
-[Data](articles/175b9195.json)
-
-[Extended Data](ext_articles/175b9195.ext.json)
-
----
-
-### UNP and its continuing suicidal saga
-
-*2024-09-28 00:39:25* · [`dailyftlk`](https://www.ft.lk/opinion/UNP-and-its-continuing-suicidal-saga/14-767266) · `en`
-
-Congratulations on a brilliant editorial on 26 September which used the UNP and its extremely long time leader Ranil Wickremesinghe to highlight the destructive, disastrous and detrimental role he had played individually to the concept of social liberal politics and ideology in Sri Lanka.
-
-You have brilliantly captured in words the reality and practical implications of Wickremesinghe’s role in weakening the pillars of social liberalism, firstly in the UNP and then in Sri Lankan politics.
-
-His nurturing and sustaining the myth that he is eternal and thus creating personality cults within the UNP and every time he governed led to the building up of corruption, cronyism, poor governance, abuse of power, undermining the rule of law and undermining the parliamentary and judicial systems which violate the constitution of Sri Lanka.
-
-...
-
-[Data](articles/e52ded7a.json)
-
-[Extended Data](ext_articles/e52ded7a.ext.json)
 
 ---

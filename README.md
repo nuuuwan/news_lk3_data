@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 17:22:57**
+As of **2024-09-29 17:39:22**
 
 ## Newspaper Stats
 
-*Scraped **46,846** Articles*
+*Scraped **46,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,842
 dailyftlk | 3,129
 adalk | 4,323
 dailymirrorlk | 4,733
-adaderanalk | 5,511
+adaderanalk | 5,512
 tamilmirrorlk | 6,290
 virakesarilk | 7,481
-adaderanasinhalalk | 8,102
+adaderanasinhalalk | 8,103
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,846 (100.0%) of 46,846 articles have been extended.
+46,848 (100.0%) of 46,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### A warning of the elite lightning
+
+*2024-09-29 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201665) · `si`
+
+Warning: Thunderstorms expected in multiple provinces tonight. Take precautions against lightning. Heavy rain forecasted for Central, Sabaragamuwa, Southern, and Northwestern regions.
+
+🟩
+
+The Department of Meteorology states that there is a risk of a result of thundershowers at several places today (29) or night.
+
+The same risk is in the Western, Sabaragamuwa, Southern, Central, Uva, Uva and Eastern Provinces and the Polonnaruwa District.
+
+The Department of Meteorology has informed the people to take action to reduce the dangers of lightning.
+
+The Meteorology authorities announced heavy showers in the Central, Sabaragamuwa, Southern and Northwestern provinces this afternoon or night.
+
+◼️
+
+[Data](articles/7103815b.json)
+
+[Extended Data](ext_articles/7103815b.ext.json)
+
+---
+
+### Advisory issued for severe lightening
+
+*2024-09-29 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102337/advisory-issued-for-severe-lightening) · `en`
+
+The Meteorology Department has issued an ‘Amber’ advisory for severe lightning for several provinces.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central, Uva, North-western and Eastern provinces and in Polonnaruwa district.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to seek shelter, preferably indoors and never under trees, avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, avoid using wired telephones and connected electric appliances during thunderstorms and also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/265e275c.json)
+
+[Extended Data](ext_articles/265e275c.ext.json)
+
+---
 
 ### Sri Lanka Rugby Padden receives third place in Asia
 
@@ -1014,17 +1060,17 @@ As the chief coach of the Sri Lankan cricket team, Chris Silverwood was temporar
 
 Sri Lanka Cricket (SLC) announced today that interim head coach of the Sri Lanka men’s cricket team, Sanath Jayasuriya’s term has been extended for another year.
 
+Jayasuriya is poised to have his contract as the head coach of the Sri Lanka men’s cricket team extended for another year, following a successful interim period marked by notable victories.
+
+Since taking over in early July, Jayasuriya has led the team to a series win against India in ODIs, a Test victory at The Oval, and another Test win in Galle against New Zealand.
+
+Sri Lanka Cricket (SLC) had advertised for a permanent head coach following Chris Silverwood’s departure in late June.
+
+However, with the significant improvements observed under Jayasuriya’s leadership, the board is now moving towards securing him on a long-term basis.
+
 On July 07, 2024, former Sri Lanka captain Sanath Jayasuriya was temporarily appointed as the Head Coach of the men’s national team by Sri Lanka Cricket (SLC).
 
-Jayasuriya served as the interim head coach for the home series against India and the Test tour to England.
-
-This decision came as SLC continued its search for a permanent replacement for former head coach Chris Silverwood.
-
-The interim appointment followed the resignations of head coach Chris Silverwood and consultant coach Mahela Jayawardene after Sri Lanka’s underwhelming performance in the T20 World Cup held in the USA and West Indies.
-
-Under the leadership of Wanindu Hasaranga, the team failed to advance to the Super 8 round, prompting a need for significant changes in the coaching staff.
-
-◼️
+...
 
 [Data](articles/dbbaef4f.json)
 
@@ -2333,51 +2379,5 @@ There may be temporary localized strong winds during thundershowers. The general
 [Data](articles/d0f948eb.json)
 
 [Extended Data](ext_articles/d0f948eb.ext.json)
-
----
-
-### The Prelate and the Premier:                                     Why   Mapitigama Buddharakkitha  Thera got  SWRD Bandaranaike Assaassinated.
-
-*2024-09-28 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84800) · `en`
-
-Sri Lanka’s newly elected president Anura Kumara Dissanayake has appointed Dr.Harini Amarasuriya as  his Prime minister. The academic turned politico is Sri Lanka’s third woman prime minister. The first woman PM of  the Island nation was Sirimavo Bandaranaike.  Sirimavo shattered a global glass ceiling in 1960  by becoming the world’s first woman prime minister.Her daughter Chandrika Kumaratunga became the second woman PM in 1994. Subsequently she  too made history  as Sri Lanka’s first woman president.
-
-As is well known Sirimavo and Chandrika were the wife and daughter of  formr Prime Minister  Solomon West Ridgeway Dias Bandaranaike (SWRDB) respectively. Prime Minister  Bandaranaike was killed in 1959. He died on 26 September 1959.. SWRDB was born on January 8th 1899. As such this year marks the 125th birth and 65th death anniversaries  of Bandaranaike.
-
-...
-
-[Data](articles/b9f5b454.json)
-
-[Extended Data](ext_articles/b9f5b454.ext.json)
-
----
-
-### Bowels too
-
-*2024-09-28 18:13:43* · [`adalk`](https://www.ada.lk/picture_story/බෝවතැන්නත්-හිස්-කරයි/10-412194) · `si`
-
-Here's a 200-character summary:
-
-
-
-Buddhika Mahesh Navadhene warns public about Bottahena reservoir insecurity due to water removal. Residents report sun exposure risks. Engineer claims police and Army support, vows to restore quality and uncover ancient ruins.
-
-🟩
-
-Buddhika Mahesh Navadhene, who has been insecure to the people of the site, has requested the public to be insecure to the Bottahena reservoir.
-
-He pointed out that the soft maintenance of the Sollower Opening of the Sollower Opening of the Sollower Open Division has been carried out through the Moragahakanda Reservoir across the Amban River.
-
-The Thaugaham Reservoir, Kandalama Reservoir, Morsalama Reservoir, Morugahamanda Reservoir, Kala Wewa and Claim Wiki and the croali tank are the Bowenna reservoir.
-
-He pointed out that with the removal of water in many years, the golden reservoir is largely buried, and in some places, fishery and furnace is a risk of dangerous life.
-
-However, the residents have been observed that the sunlights are slowed to the water, which is most insecure and engaged in the watering of fish and fire.
-
-...
-
-[Data](articles/6c6c528f.json)
-
-[Extended Data](ext_articles/6c6c528f.ext.json)
 
 ---

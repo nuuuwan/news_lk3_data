@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 11:58:09**
+As of **2024-09-29 12:12:18**
 
 ## Newspaper Stats
 
-*Scraped **46,810** Articles*
+*Scraped **46,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 466
 islandlk | 2,752
 economynextcom | 2,841
 dailyftlk | 3,129
-adalk | 4,315
+adalk | 4,316
 dailymirrorlk | 4,733
-adaderanalk | 5,508
+adaderanalk | 5,509
 tamilmirrorlk | 6,285
 virakesarilk | 7,472
 adaderanasinhalalk | 8,094
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,094
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,810 (100.0%) of 46,810 articles have been extended.
+46,812 (100.0%) of 46,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Accomplice of ‘Angoda Jile’ arrested with ‘ice’ and Kerala cannabis
+
+*2024-09-29 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102334/-accomplice-of-angoda-jile-arrested-with-ice-and-kerala-cannabis) · `en`
+
+A main accomplice of the notorious underworld criminal figure and large-scale drug trafficker Ponnamperumage Danush Buddhika alias “Angoda Jile” has been apprehended by the Police Special Task Force (STF).
+
+Police have also seized 25 grams and 500 milligrams of ice (crystal methamphetamine) and 51 grams of Kerala cannabis, which were found in the possession of the suspect.
+
+Additionally, Rs. 274,400 in cash believed to have been earned from the drug racket was also seized.
+
+The relevant suspect has been handed over to Thalangama Police for further investigations.
+
+◼️
+
+[Data](articles/60c625b2.json)
+
+[Extended Data](ext_articles/60c625b2.ext.json)
+
+---
 
 ### Excise chief denies claims over issuance of excise license
 
@@ -129,6 +149,28 @@ The suspect has been handed over to the Talangama Police for further investigati
 [Data](articles/7f49d971.json)
 
 [Extended Data](ext_articles/7f49d971.ext.json)
+
+---
+
+### There were no large quantity of ancient taxes on the presidential election
+
+*2024-09-29 10:03:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණ-කාලයේදි-සුරා-බදු-බලපත්‍ර-විශාල-ප්‍රමාණයක්-දුන්නේ-නෑ/11-412200) · `si`
+
+Ancient taxes not applied to presidential election. Excise Department issued 172 permits since May 2023. Companies must pay by November 30, 2023-2024.
+
+🟩
+
+The Excise Department says that some parties have been issued in the presidential election during the presidential election.
+
+The department points out that only 172 excise permits have been issued since May last year on a policy decision taken by the government.
+
+All companies have agreed to complete the payment before November 30, the year 2023 and 2024, the Excise Department said.
+
+◼️
+
+[Data](articles/a6d0ec97.json)
+
+[Extended Data](ext_articles/a6d0ec97.ext.json)
 
 ---
 
@@ -2339,41 +2381,5 @@ Additionally, he is a former lecturer at the Faculty of Law at the University of
 [Data](articles/776c80aa.json)
 
 [Extended Data](ext_articles/776c80aa.ext.json)
-
----
-
-### Bus accident
-
-*2024-09-28 10:53:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களை-ஏற்றிச்-சென்ற-பேருந்து-விபத்து/175-344609) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"School bus crash: Driver loses control on Kandy-Badulla highway. 4 injured including driver and 3 students. Incident occurred yesterday."
-
-🟩
-
-A bus carrying school children in Beliul Oya on the Kandy -Badulla main road yesterday (27) has lost control of the driver.
-
-It is reported that the driver of the bus and 3 schoolchildren were injured in the accident. Remble
-
-◼️
-
-[Data](articles/912ff25b.json)
-
-[Extended Data](ext_articles/912ff25b.ext.json)
-
----
-
-### Twin Challenges Facing The AKD Regime
-
-*2024-09-28 10:48:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/twin-challenges-facing-the-akd-regime/) · `en`
-
-...
-
-[Data](articles/87b9bde3.json)
-
-[Extended Data](ext_articles/87b9bde3.ext.json)
 
 ---

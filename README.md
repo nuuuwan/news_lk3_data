@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 11:22:54**
+As of **2024-09-29 11:39:13**
 
 ## Newspaper Stats
 
-*Scraped **46,809** Articles*
+*Scraped **46,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,315
 dailymirrorlk | 4,733
-adaderanalk | 5,507
+adaderanalk | 5,508
 tamilmirrorlk | 6,285
 virakesarilk | 7,472
 adaderanasinhalalk | 8,094
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,094
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,809 (100.0%) of 46,809 articles have been extended.
+46,809 (100.0%) of 46,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Excise chief denies claims over issuance of excise license
+
+*2024-09-29 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102333/excise-chief-denies-claims-over-issuance-of-excise-license) · `en`
+
+The Commissioner General of Excise, M.J. Gunasiri, stated that claims made by certain parties regarding the alleged illegal issuance of a large number of excise licenses during the Presidential Election period are false.
+
+He clarified that only 172 excise licenses have been issued since May 2023 in accordance with a government policy decision.
+
+The Commissioner General further noted that these 172 licenses issued have generated an income of Rs. 2.2 billion.
+
+Meanwhile, the Excise Commissioner General also said that all the relevant companies have agreed to settle their tax arrears for 2023 and 2024 before November 30.
+
+◼️
+
+[Data](articles/c9fecb2a.json)
+
+---
 
 ### Iran protests against Israel
 
@@ -2355,31 +2373,5 @@ It is reported that the driver of the bus and 3 schoolchildren were injured in t
 [Data](articles/87b9bde3.json)
 
 [Extended Data](ext_articles/87b9bde3.ext.json)
-
----
-
-### Murder by hammering by hammer;Suspect arrested
-
-*2024-09-28 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/194966) · `ta`
-
-Man killed with hammer in house. Suspect arrested. Murder linked to affair with victim's wife. Police investigation reveals motive.
-
-🟩
-
-A suspect has been arrested in connection with the murder of a man who was hit by a hammer in a house in Valpaluwa, Kurunegala, Wariyapola and Valpaluwa area, police said.
-
-A police emergency telephone number 119 has been informed that a thief has been caught by a thief who entered a house in Valpaluwa, Kurunegala, Wariyapola and Valpaluwa area.
-
-Subsequently, the police rushed to the scene and saw that the thief was murdered when he went into the house.
-
-Subsequently, an investigation by the police revealed that the murderer was not thief and that he had been involved in an inappropriate relationship with the suspect's wife.
-
-Investigations revealed that the suspect had been hit by a hammer and murdered as the murderer had gone to the house to visit the suspect's wife.
-
-◼️
-
-[Data](articles/abe51512.json)
-
-[Extended Data](ext_articles/abe51512.ext.json)
 
 ---

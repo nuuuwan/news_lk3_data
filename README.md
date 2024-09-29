@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 16:38:27**
+As of **2024-09-29 16:55:40**
 
 ## Newspaper Stats
 
-*Scraped **46,844** Articles*
+*Scraped **46,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
-adalk | 4,322
+adalk | 4,323
 dailymirrorlk | 4,733
 adaderanalk | 5,511
 tamilmirrorlk | 6,290
 virakesarilk | 7,481
-adaderanasinhalalk | 8,101
+adaderanasinhalalk | 8,102
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,844 (100.0%) of 46,844 articles have been extended.
+46,846 (100.0%) of 46,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Sri Lanka Rugby Padden receives third place in Asia
+
+*2024-09-29 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201664) · `si`
+
+Sri Lanka Rugby Padden wins third place in Asia tournament. Defeated Malaysia 17-14 in decisive match. Earlier victories over Thailand and Chinese Taipei. Drawn with Hong Kong but led in bonus points. Limited competition due to last-minute cancellations.
+
+🟩
+
+Sri Lanka's male team to win the third place in the 18th Asia Issues of Asia, Asia.
+
+They defeated host Malaysia in the decisive match for the third place as 17-14.
+
+The tournament commenced yesterday, Sri Lanka obtained a successful start to the tournament, where they were able to defeat Thailand (27-0) and Chinese Taipei (29-70).
+
+The match against the stronghold of Hong Kong has also been able to end the collapse of 17-17.
+
+Sri Lanka was able to lead the Hong Kong group over the bonus mark.
+
+Although Sri Lanka has played a match with the Brivai group, Sri Lanka was unique to the Competition due to the Brivai group.
+
+The competit organizer had been awarded 20-0 marks to every country in the 'B' category played by Brivai.
+
+However, Sri Lanka had the most powerful challenge group in this category, however, was against Thailand.
+
+Hong Kong was able to defeat Thailand at 29-10 points, and they were able to lead the bonus mark.
+
+...
+
+[Data](articles/b95e6c71.json)
+
+[Extended Data](ext_articles/b95e6c71.ext.json)
+
+---
 
 ### Vijitha Constitutional Council as the President's representative
 
@@ -201,6 +235,32 @@ He further stressed that the information on social media that he fled the countr
 [Data](articles/95236135.json)
 
 [Extended Data](ext_articles/95236135.ext.json)
+
+---
+
+### Police operates with more capacity
+
+*2024-09-29 14:00:38* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-මෙහෙයුම්-වැඩි-ධාරිතාවයකින්-සිදු-කරනවා/11-412208) · `si`
+
+Here's a 200-character summary:
+
+
+
+Police expand operations under new authority. Acting IGP Priyatha Weerasuriya states officers will operate with increased capabilities. Departments implement goals, addressing divisional shortcomings. Police conduct operations according to the Ordinance, focusing on justice and law enforcement.
+
+🟩
+
+Acting IGP Priyatha Weerasuriya said that the police officers will be operating in the future with the authority received by the police.
+
+The police continued operations in operations. The Alliance officials of the entire department were employed and implemented the goal. We observed the shortcomings of the divisions. The police are carrying out their operations in accordance with the indeath of the Ordinance.
+
+A. A name that justice was held on the mission. However, at the police station level, those OICs have been responsible for the law. Make drug raids. Conterted the necessary criminals in the law. They are constantly performed. It is in progress in a capacity of more capacity.
+
+◼️
+
+[Data](articles/564bec45.json)
+
+[Extended Data](ext_articles/564bec45.ext.json)
 
 ---
 
@@ -2319,73 +2379,5 @@ However, the residents have been observed that the sunlights are slowed to the w
 [Data](articles/6c6c528f.json)
 
 [Extended Data](ext_articles/6c6c528f.ext.json)
-
----
-
-### Dil Raja - Film Review
-
-*2024-09-28 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194998) · `ta`
-
-"Dil Raja" review: Vijay Satya shines in debut, Sherin struggles. Rajinikanth fans aid hero against harassment. Mixed acting, decent cinematography.
-
-🟩
-
-Actors: Vijay Satya, Sherin, Samyukta, Karate Raja, Vanitha Vijayakumar, Iman Annachi, A. Venkatesh, Cesar Manohar and many others.
-
-Did 'Dil Raja' at the star of the story of Vijay Satya's story attracted all the fans?Or not?We will continue to see.
-
-Vijay Satya, superstar Rajinikanth fan. He is a hobby of repairing four -wheelers.
-
-Works in a private company as a building map engineer. He has Sherin (a young man) wife. A girl child for this couple. They go to the business premises to celebrate this child's birthday.
-
-On his return, the son of state minister Pandi and his friends are sexually harassing them.
-
-The story of the film is how the hero escapes with the help of Rajinikanth's fans.
-
-Vijay Satya, the debutant man, plays a stunning in the scenes. She also expresses her dance skills in dance scenes.
-
-But only stumbles in acting. Actress Sherin, who plays the heroine. Acting Missing.
-
-The only actor KP Vi Bala is the friend of the hero who comforts the fans.
-
-...
-
-[Data](articles/27e50d82.json)
-
-[Extended Data](ext_articles/27e50d82.ext.json)
-
----
-
-### Law in my hand - movie review
-
-*2024-09-28 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/194996) · `ta`
-
-"Law in My Hand" movie review summary:
-
-
-
-Tamil thriller set in Yercaud Hills. Satish stars as a comedian turned hero. Accidental death leads to murder mystery. Suspenseful plot unfolds. Strong performances from cast. Beautiful cinematography captures Yercaud's beauty. Engaging crime thriller with surprising twists.
-
-🟩
-
-Actors: Satish, Ajay Raj, Powell Navadekithan, Maim Gopi, Rithika, Vidya Pradeep, Bawa Chellaturai, E.. Ramdas et al.
-
-Satish - the hero of the story from the site of the comedian - Satish - the hero of the story, to maintain the mark of the story and to raise his market value. Has the director and Sathish's cousin Sachi's upcoming film 'Law En Ka Ka Ka' attracted all fans?Or not?We will continue to see.
-
-Yercaud, the mountain range of Tamil Nadu, is a story that takes place overnight.
-
-Satish, the hero of the story, travels in a four -wheeler in Yercaud Hills. He gets phone calls during the trip.
-
-Whenever he tries to respond to her, her travel speed increases. Following this, he unexpectedly crashes into the man in the wheelchair.
-
-The person dies in that accident. He continues to carry his body in the back of his vehicle.
-
-The police were involved in vehicle audit that night. Due to a male corpse in the back of his vehicle, he refuses to cooperate with the police department's vehicle audit.
-
-...
-
-[Data](articles/6672771e.json)
-
-[Extended Data](ext_articles/6672771e.ext.json)
 
 ---

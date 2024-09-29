@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 08:03:27**
+As of **2024-09-29 08:25:34**
 
 ## Newspaper Stats
 
-*Scraped **46,777** Articles*
+*Scraped **46,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 388
 bbccomsinhala | 463
 colombotelegraphcom | 466
-islandlk | 2,751
+islandlk | 2,752
 economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,309
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,086
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,770 (100.0%) of 46,777 articles have been extended.
+46,770 (100.0%) of 46,778 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -191,6 +191,18 @@ In 1978, the government of J. R. Jayewardene enacted a new Constitution which tr
 [Data](articles/7cca890e.json)
 
 [Extended Data](ext_articles/7cca890e.ext.json)
+
+---
+
+### Sri Lanka Provides Hope for Democracy in the West
+
+*2024-09-29 01:42:00* · [`islandlk`](http://island.lk/sri-lanka-provides-hope-for-democracy-in-the-west/) · `en`
+
+Sri Lanka’s Presidential election saw a genuine left-winger, from a Marxist party, record a victory that upended the country’s political establishment. But the NPP’s win was more than just historic for this country. A man whose ideology with regard to the fundamental questions of policy differs from all predecessors was elected. This is something presently unimaginable in the West. While it may have been different 100 years ago, today in most major Western countries, there is increasingly no way for the public to vote away the two sacred cows of the establishment: neoliberal capitalism and neo-con foreign policy. Here, Sri Lanka can provide hope.
+
+...
+
+[Data](articles/aea2b37e.json)
 
 ---
 
@@ -2325,21 +2337,5 @@ The Board observed that inflation is likely to remain well below the target of 5
 [Data](articles/3b967ec0.json)
 
 [Extended Data](ext_articles/3b967ec0.ext.json)
-
----
-
-### NDB Bank achieves historic milestone as first Sri Lankan bank to reach 100,000 YouTube subscribers
-
-*2024-09-28 01:31:00* · [`islandlk`](http://island.lk/ndb-bank-achieves-historic-milestone-as-first-sri-lankan-bank-to-reach-100000-youtube-subscribers/) · `en`
-
-NDB Bank has achieved a groundbreaking digital milestone by becoming the first Sri Lankan bank to reach 100,000 subscribers on its YouTube channel, underscoring the Bank’s dedication to innovation and its digital-first approach in engaging with customers, setting a new benchmark for the banking industry in Sri Lanka.
-
-As a leader in leveraging social media to connect with its audience, NDB Bank’s YouTube channel has become a hub of informative and engaging content, providing valuable financial education, insights, and updates on the bank’s wide array of products and services. The content has resonated strongly with a local audience, with more than 96% of subscribers based in Sri Lanka, whilst the predominant age range is 25-34 years, followed closely by 35-44 years. Through dynamic video content, NDB has empowered its viewers with knowledge on critical financial topics, helping them make informed decisions while fostering a sense of trust and loyalty.
-
-...
-
-[Data](articles/ebe4f31a.json)
-
-[Extended Data](ext_articles/ebe4f31a.ext.json)
 
 ---

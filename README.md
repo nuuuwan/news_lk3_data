@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 06:44:10**
+As of **2024-09-29 07:27:10**
 
 ## Newspaper Stats
 
-*Scraped **46,774** Articles*
+*Scraped **46,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ dailyftlk | 3,129
 adalk | 4,309
 dailymirrorlk | 4,733
 adaderanalk | 5,503
-tamilmirrorlk | 6,273
+tamilmirrorlk | 6,275
 virakesarilk | 7,470
-adaderanasinhalalk | 8,085
+adaderanasinhalalk | 8,086
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,766 (100.0%) of 46,774 articles have been extended.
+46,768 (100.0%) of 46,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Heavy rains exceeding 100 mm
+
+*2024-09-29 05:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201648) · `si`
+
+Heavy rains over 100mm expected across Sri Lanka today. Showers/thunderstorms forecasted for central, southern, western, and northern regions. Public advised to take precautions against strong winds and lightning.
+
+🟩
+
+Showers or thundershowers will occur at several places in the country today (29).
+
+The department states that the Central, Sabaragamuwa, Southern and Northwestern provinces are located in some places.. It can also be around 100.
+
+The Department of Meteorology announces that showers may occur in the morning in the Southern Province and in the Batticaloa and Ampara Districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/96795163.json)
+
+[Extended Data](ext_articles/96795163.ext.json)
+
+---
 
 ### IIHS opens global careers for Lankan youth in nursing
 
@@ -134,6 +158,8 @@ At the time my story begins, a routine civil service transfer had me moved as As
 
 [Data](articles/641349ff.json)
 
+[Extended Data](ext_articles/641349ff.ext.json)
+
 ---
 
 ### Unique Contributions to Hospitality Leadership Development in Sri Lanka
@@ -233,6 +259,38 @@ New Zealand (Polo One): 199/5 (batting: Devon Konway 61, Tom Blendal AE 47, Kane
 [Data](articles/6a2d413a.json)
 
 [Extended Data](ext_articles/6a2d413a.ext.json)
+
+---
+
+### சட்டத்தரணிகள் சங்கத்தின் புதிய தலைவர் நியமனம்
+
+*2024-09-28 22:45:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணிகள்-சங்கத்தின்-புதிய-தலைவர்-நியமனம்/175-344622) · `ta`
+
+சட்டத்தரணி சங்கத்தின் சட்டத்தரணிகள் பேரவை நேற்று  கூடிய போதே இந்த நியமனம் வழங்கப்பட்டுள்ளது.
+
+இதற்கு முன்னர் சட்டத்தரணி அனுர மெத்தேகொட, இலங்கை சட்டத்தரணிகள் சங்கத்தின் உப தலைவராக பதவி வகித்தார்.
+
+அத்துடன், ஜனாதிபதி சட்டத்தரணி ராஸிக் ஸருக், சட்டத்தரணிகள் சங்கத்தின் உப தலைவராக நியமிக்கப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/b8c8c459.json)
+
+---
+
+### 100 மில்லி மீற்றருக்கும் அதிக மழை
+
+*2024-09-28 22:42:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லி-மீற்றருக்கும்-அதிக-மழை/175-344621) · `ta`
+
+நாட்டின் பல பகுதிகளில் இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அதன்படி மத்திய, சப்ரகமுவ மற்றும் தென் மாகாணங்களிலும் களுத்துறை, காலி மற்றும் மாத்தறை ஆகிய மாவட்டங்களில் 100 மில்லிமீற்றருக்கும் அதிகளவிலான பலத்த மழை பெய்யக்கூடும்.
+
+இடியுடன் மழை பெய்யும் சந்தர்ப்பங்களில் பலத்த காற்றும் வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/506adbce.json)
 
 ---
 
@@ -2279,59 +2337,5 @@ As a leader in leveraging social media to connect with its audience, NDB Bank’
 [Data](articles/ebe4f31a.json)
 
 [Extended Data](ext_articles/ebe4f31a.ext.json)
-
----
-
-### Union Bank partners with USAID & Ceylon Chamber of Commerce to empower SMEs for global growth
-
-*2024-09-28 01:30:00* · [`islandlk`](http://island.lk/union-bank-partners-with-usaid-ceylon-chamber-of-commerce-to-empower-smes-for-global-growth/) · `en`
-
-Union Bank in collaboration with the U.S. Agency for International Development (USAID) CATALYZE Sri Lanka Private Sector Development (PSD) Activity and the Ceylon Chamber of Commerce conducted a two-day training programme under the theme “Unlock Your Global Potential” to empower customers on strategies for global growth.
-
-The sessions included enhancing the business acumen of SMEs and covered several areas under 3 key pillars, namely Export Audit, Market Analysis and Go-to Market Strategy.
-
-A panel discussion was held with the participation of Delrene Seneviratne Deputy Team Lead USAID CATALYZE PSD, Asanka Ranhotty, Senior Vice President, SME & Transaction Banking and Nalin Ahangama, Assistant Vice President, Trade Operations of UB, and joined by experts from various industries.
-
-Bank of Ceylon introduces Multi-Currency Travel Card to enhance Medical Tourism experience
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/aa6a3e25.json)
-
-[Extended Data](ext_articles/aa6a3e25.ext.json)
-
----
-
-### Bank of Ceylon introduces Multi-Currency Travel Card to enhance Medical Tourism experience
-
-*2024-09-28 01:28:00* · [`islandlk`](http://island.lk/bank-of-ceylon-introduces-multi-currency-travel-card-to-enhance-medical-tourism-experience/) · `en`
-
-Bank of Ceylon (BOC) has announced an initiative aimed at improving the travel experience for Sri Lankans seeking medical treatment abroad. The introduction of the Multi-Currency Travel Card (MCTC) is designed to address the needs of those traveling to destinations like India, which has become a prominent hub for medical tourism due to its advanced yet cost-effective healthcare services.
-
-Medical tourism, which traditionally involved patients from less-developed countries traveling to more developed nations for specialized treatments, has evolved. Today, individuals from developed countries also travel to emerging economies for more affordable medical care. India, in particular, has emerged as a key destination due to its extensive medical infrastructure and competitive pricing.
-
-...
-
-[Data](articles/1fcbd33d.json)
-
-[Extended Data](ext_articles/1fcbd33d.ext.json)
-
----
-
-### LaunchPad 2.0: Sparking new beginnings, lighting up careers
-
-*2024-09-28 01:27:00* · [`islandlk`](http://island.lk/launchpad-2-0-sparking-new-beginnings-lighting-up-careers/) · `en`
-
-On the 3rd of August 2024, the Duncan White Auditorium thrummed with energy as LaunchPad 2.0 unfolded, marking its second consecutive year of inspiring young minds to chase their dreams. This career guidance event for undergraduates and fresh graduates wasn’t just about career paths—it was about possibilities and passions waiting to be discovered.
-
-The morning kicked off with Mr. Fahad Farook, who urged the delegates to find their calling, wherever that spark may lie. His session wasn’t just talk—it was a roadmap, guiding attendees to bridge the gap between their talents and dreams. Hot on his heels came Mr. Chamath Alwis, from our Title Partner Ceylinco Life, delivering a masterclass on financial planning. The AI session, where Mr. Sanjaya Elvitigala and Mr. Parakrama Ratnayake took the stage, diving into the world of AI. Their discussion on how AI is transforming industries showcased the endless possibilities awaiting in this fast-evolving field.
-
-...
-
-[Data](articles/d05de18f.json)
-
-[Extended Data](ext_articles/d05de18f.ext.json)
 
 ---

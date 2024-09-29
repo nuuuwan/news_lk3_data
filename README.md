@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 22:56:13**
+As of **2024-09-29 23:08:00**
 
 ## Newspaper Stats
 
-*Scraped **46,894** Articles*
+*Scraped **46,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,130
 adalk | 4,332
 dailymirrorlk | 4,733
 adaderanalk | 5,518
-tamilmirrorlk | 6,296
+tamilmirrorlk | 6,297
 virakesarilk | 7,500
 adaderanasinhalalk | 8,108
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,894 (100.0%) of 46,894 articles have been extended.
+46,895 (100.0%) of 46,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### OTP - don't give anyone to anyone
+
+*2024-09-29 22:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OTP-ஐ-யாரிடமும்-கொடுக்காதீர்கள்/175-344680) · `ta`
+
+OTP: Don't share with anyone. Police warn due to financial fraud.
+
+🟩
+
+The police have asked the public not to share with anyone for any reason.
+
+The request has been made to point out that there has been massive financial fraud in recent years
+
+◼️
+
+[Data](articles/42f7dd6a.json)
+
+[Extended Data](ext_articles/42f7dd6a.ext.json)
+
+---
 
 ### Sri Lanka climbs to 3rd in WTC table, boost chances of title clash qualification
 
@@ -2373,25 +2393,5 @@ Developing the educational knowledge, natural resources and environmental conser
 [Data](articles/e38ffef3.json)
 
 [Extended Data](ext_articles/e38ffef3.ext.json)
-
----
-
-### Ranil further audits UNP leadership
-
-*2024-09-29 08:26:31* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ට-තවදුරටත්-එජාප-නායකත්වය-දෙන්න-යෝජනා-සම්මතයක්/11-412197) · `si`
-
-Ranil Wickremesinghe conducts audit of UNP leadership. Meeting held at Galle UNP HQ. Future actions discussed. Former MP Vajira Abeywardena and ex-Minister Manushakakara attend.
-
-🟩
-
-A meeting of UNP activist in Galle in Galle in Galle in Galle was held at the UNP headquarters of the Galle District, former President of former President Ranil Wickremesinghe further was adopted by the UNP leader.
-
-At the meeting, the meeting discussed the future action was held at length and former Parliamentarian Vajira Abeywardena, former Minister Manushakakara were also present.
-
-◼️
-
-[Data](articles/e70c8ebd.json)
-
-[Extended Data](ext_articles/e70c8ebd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 09:38:37**
+As of **2024-09-29 09:57:48**
 
 ## Newspaper Stats
 
-*Scraped **46,795** Articles*
+*Scraped **46,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,313
 dailymirrorlk | 4,733
-adaderanalk | 5,504
+adaderanalk | 5,505
 tamilmirrorlk | 6,282
 virakesarilk | 7,470
 adaderanasinhalalk | 8,090
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,090
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,795 (100.0%) of 46,795 articles have been extended.
+46,796 (100.0%) of 46,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Announcement on re-scrutiny of GCE O/L results
+
+*2024-09-29 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102330/announcement-on-re-scrutiny-of-gce-ol-results) · `en`
+
+The Department of Examinations has issued an announcement regarding accepting of applications for the re-correction of the results of 2023 G.C.E. Ordinary Level Examination.
+
+Accordingly, it has been stated that the applications will be accepted for re-scrutiny of results from October 1 to 14.
+
+The Department of Examinations further stated that if there are any inquiries regarding the results, the hotline can be reached at 1911 or the following numbers: 011 2 785 922, 011 2 786 616, 011 2 784 208, or 011 2 784 537.
+
+◼️
+
+[Data](articles/c56a0938.json)
+
+[Extended Data](ext_articles/c56a0938.ext.json)
+
+---
 
 ### Anganan insisting on the president
 
@@ -2345,29 +2363,5 @@ He was 74 years old when he died.He was also a critical figure in politics in th
 [Data](articles/aa6f1733.json)
 
 [Extended Data](ext_articles/aa6f1733.ext.json)
-
----
-
-### Family death in Jaffna
-
-*2024-09-28 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/194960) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Vinod, 29, father of one, dies untreated at Chavakachcheri Hospital after admission on 26th. From Vairavar temple in Nunavil, worked in Manipayi."
-
-🟩
-
-Vinod (age 29), a child from the Vairavar temple in Chavakachcheri - Nunavil, who was working in a private company in Manipayi area, is the father of a child.
-
-He was admitted to the Chavakachcheri Hospital on Thursday night (26) and died without treatment.
-
-◼️
-
-[Data](articles/bc820e83.json)
-
-[Extended Data](ext_articles/bc820e83.ext.json)
 
 ---

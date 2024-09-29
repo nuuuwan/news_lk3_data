@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 10:38:33**
+As of **2024-09-29 10:56:58**
 
 ## Newspaper Stats
 
-*Scraped **46,803** Articles*
+*Scraped **46,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,314
 dailymirrorlk | 4,733
-adaderanalk | 5,506
+adaderanalk | 5,507
 tamilmirrorlk | 6,285
 virakesarilk | 7,470
-adaderanasinhalalk | 8,092
+adaderanasinhalalk | 8,093
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,803 (100.0%) of 46,803 articles have been extended.
+46,805 (100.0%) of 46,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Iran’s Khamenei vows revenge over Nasrallah’s killing
+
+*2024-09-29 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102332/irans-khamenei-vows-revenge-over-nasrallahs-killing) · `en`
+
+Iran’s Supreme Leader Ayatollah Ali Khamenei said on Saturday (Sep 28) that the killing of Hezbollah leader Hassan Nasrallah would be avenged and other militants would continue his path in fighting Israel.
+
+“(Nasrallah) was not an individual. He was a path and a school of thought and the path will be continued,” Ayatollah Khamenei said in a statement read on state television in which he announced five days of mourning in Iran.
+
+Khamenei, in an earlier statement issued after the Israeli army said it had killed Nasrallah, said: “The fate of this region will be determined by the forces of resistance, with Hezbollah at the forefront,” state media reported.
+
+After Hezbollah confirmed Nasrallah’s death, Iranian media reported that General Abbas Nilforoushan, a deputy commander of Iran’s Revolutionary Guards, had died “next to Nasrallah” in the Israeli strikes on south Beirut on Friday.
+
+...
+
+[Data](articles/febbbc97.json)
+
+[Extended Data](ext_articles/febbbc97.ext.json)
+
+---
+
+### Angoda Jila's chief disciple arrested
+
+*2024-09-29 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201655) · `si`
+
+Angoda Jila's top disciple, Dhanush Buddhika, arrested by Police Special Task Force. Seized drugs: 25g ice, 51g Kerala cannabis, 274,400 rupees. Handed to Talangama Police for investigation.
+
+🟩
+
+The Police Special Task Force has arrested an organized criminal and a major disciple of a large scale drug dealer.
+
+The victim was Dhanush Buddhika, Dhanush Buddhika, or a head of the "Angoda Jila '.
+
+Police have also seized 25 grams of ice narcotics and 51 millay and 51 grams of Kerala cannabis.
+
+The police also seized 274,400 rupees suspected to strategic drug trafficking.
+
+The suspect has been handed over to the Talangama Police for further investigations.
+
+◼️
+
+[Data](articles/7f49d971.json)
+
+[Extended Data](ext_articles/7f49d971.ext.json)
+
+---
 
 ### 33 people killed in Israeli air strike in Lebanon
 
@@ -2319,53 +2365,5 @@ Subsequently, the suspect has been handed over to the Negombo Police Station for
 [Data](articles/7cab38fb.json)
 
 [Extended Data](ext_articles/7cab38fb.ext.json)
-
----
-
-### A special gazette from the president
-
-*2024-09-28 10:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201621) · `si`
-
-Exclusive Gazette: Summary
-
-
-
-Special presidential publication outlines roles, responsibilities of government ministries, departments, and state corporations as per Article 44(1) of the Constitution.
-
-🟩
-
-The Exclusive Gazette has been released by the Constitution of Article 44 (1) of the Constitution (1).
-
-The functions of the subjects, functions, departments, departments, statutory bodies of various ministers and state corporations have been described.
-
-◼️
-
-[Data](articles/c32bc1fd.json)
-
-[Extended Data](ext_articles/c32bc1fd.ext.json)
-
----
-
-### Gazette issued detailing functions and duties of new Ministries
-
-*2024-09-28 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102315/gazette-issued-detailing-functions-and-duties-of-new-ministries) · `en`
-
-The Gazette notification outlining the respective subjects, functions, duties, and institutions of the newly established ministries has been published.
-
-The Extraordinary Gazette notification has been issued by President Anura Kumara Dissanayake on Friday (September 27).
-
-The Gazette Notification No. 2403/53 – 2024, detailing the division of institutions and portfolios under the new ministries, was published yesterday (27).
-
-The President, Anura Kumara Dissanayake, issued this gazette in accordance with the authority granted under Article 44(1) of the Constitution of the Democratic Socialist Republic of Sri Lanka.
-
-Additionally, the short-term cabinet of the new government was recently appointed.
-
-The full gazette, outlining the functions and institutions under the new government, is attached below:
-
-◼️
-
-[Data](articles/0eebfdcf.json)
-
-[Extended Data](ext_articles/0eebfdcf.ext.json)
 
 ---

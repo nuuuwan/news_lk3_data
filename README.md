@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 20:22:45**
+As of **2024-09-29 20:57:39**
 
 ## Newspaper Stats
 
-*Scraped **46,883** Articles*
+*Scraped **46,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
-adalk | 4,329
+adalk | 4,330
 dailymirrorlk | 4,733
 adaderanalk | 5,516
 tamilmirrorlk | 6,295
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,882 (100.0%) of 46,883 articles have been extended.
+46,884 (100.0%) of 46,884 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -464,6 +464,32 @@ This "mini moon" can be seen by telescopic though not visible to the empty eye. 
 
 ---
 
+### Sure about removal allowance of officers deployed in elite security
+
+*2024-09-29 18:14:34* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-ආරක්ෂාවට-යොදවා-ඇති-නිලධාරීන්ගේ-ඉවත්-කළ-දීමනාව-ගැන-පහැදිලි-කිරීමක්/11-412215) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Defense Ministry denies reports of complete removal of allowances for Armed Forces officers. The ministry states that only officers who haven't informed it will lose their allowances after September 22, 2024. This applies to current commanders, former presidents, and other high-ranking officials.
+
+🟩
+
+Some media and social youlas have propagated that they have completely parked the gateway allowance given to the three Armed Forces for the Armed Forces.
+
+However, the inspired armed forces who have not informed the Ministry of Defense for the Ministry of Defense, the temptation allowance paid to the 22nd September 2024 to be entitled to September 22.
+
+The Defense Ministry further stated that the appointment of this allowance is not the payment of this allowance for the Armed Forces Commanders, Commanders and former presidents.
+
+◼️
+
+[Data](articles/946a017b.json)
+
+[Extended Data](ext_articles/946a017b.ext.json)
+
+---
+
 ### Investigate e-Visa fraud as soon as possible
 
 *2024-09-29 18:12:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-விசா-மோசடி-குறித்து-விரைவில்-விசாரணை/175-344661) · `ta`
@@ -566,21 +592,27 @@ This initiative, undertaken in collaboration with the Ministry of Sports and in 
 
 ---
 
-### කමිඳුගේ 200ට වඩා මම බැලුවේ කුසල්ගේ 100
+### I looked at the 100 Kusel's 100
 
 *2024-09-29 17:51:30* · [`adalk`](https://www.ada.lk/sports/කමිඳුගේ-200ට-වඩා-මම-බැලුවේ-කුසල්ගේ-100/9-412213) · `si`
 
-නවසීලන්තයට එරෙහිව ගාල්ලේ පැවැති ටෙස්ට් තරගයේදී කමිඳු මෙන්ඩිස්ගේ ද්විත්ව ශතකයට වඩා තමන් සලකා බැලුවේ කුසල් මෙන්ඩිස්ගේ ශතකය බව ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජයද සිල්වා පැවැසීය.
+Sri Lanka Test captain Dananjaya Silva praised Komal Mendis's centuries against New Zealand. He noted Mendis hadn't scored a century recently but contributed significantly to the team's win.
 
-දෙවැනි ටෙස්ට් තරගයෙන් අනතුරුව පැවැති මාධ්‍ය හමුවේදී යොමුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+🟩
 
-කමිඳු මෙන්ඩිස්ට තවත් වාර්තාවක් පිහිටුවීමේ අවස්ථාව ලබාදුන් බවත් කුසල් මෙන්ඩිස් දිගු කාලයකින් ශතකයක් වාර්තා කර නොතිබුණ බවත් ධනංජය පැවැසීය.
+Sri Lanka Test leader Dananjaya Silva said that he considered Komal Mendis's centuries in the Test match against New Zealand.
 
-කෙසේ වෙතත් ඉනිම අත්හිටුවීමට තීරණය ගත්තේ තරගයේ ජයග්‍රහණය ගැන සිතා බවත් ධනංජය වැඩිදුරටත් පැවැසීය.
+He was responding to a question referred to a question referred to after the second Test.
+
+Dhananjaya also said that Kumal Mendis had given a further report and had not reported a century in the long period of time.
+
+However, the innings decided to suspend the victory of the match and said.
 
 ◼️
 
 [Data](articles/5c8c9da5.json)
+
+[Extended Data](ext_articles/5c8c9da5.ext.json)
 
 ---
 
@@ -2339,29 +2371,5 @@ In other seas around the country, the wind is expected to blow from different di
 [Data](articles/b9144eb8.json)
 
 [Extended Data](ext_articles/b9144eb8.ext.json)
-
----
-
-### GCE Ordinary Level Examination Released
-
-*2024-09-29 06:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195019) · `ta`
-
-Sri Lanka Exams Department releases GCE Ordinary Level 2023 results via email. Exam held at 3,527 stations, 452,979 candidates participated. Results available online for principals. Contact 1911 or 011 2785 922 for inquiries.
-
-🟩
-
-The Sri Lanka Examinations Department has announced that the results of the GCE Ordinary Level Examination for 2023 have been officially issued through the e -mail.
-
-This year's GCE Ordinary Level Examination, which was attended by 452,979 applicants, was held at 3,527 stations nationwide.
-
-Meanwhile, the Department of Examinations has stated that facilities to obtain a copy of the exam results have been provided using the username and password issued to all principals.
-
-If you want any questions about these results, you can call it 1911 or 011 2 785 922, 0112 786 616, 011 2 784 208 or 011 2 784 537, the Department of Examinations said.
-
-◼️
-
-[Data](articles/37f8283c.json)
-
-[Extended Data](ext_articles/37f8283c.ext.json)
 
 ---

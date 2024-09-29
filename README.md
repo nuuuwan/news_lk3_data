@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 21:57:51**
+As of **2024-09-29 22:11:32**
 
 ## Newspaper Stats
 
-*Scraped **46,890** Articles*
+*Scraped **46,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,130
-adalk | 4,331
+adalk | 4,332
 dailymirrorlk | 4,733
-adaderanalk | 5,516
+adaderanalk | 5,517
 tamilmirrorlk | 6,296
 virakesarilk | 7,500
 adaderanasinhalalk | 8,107
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,107
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,890 (100.0%) of 46,890 articles have been extended.
+46,892 (100.0%) of 46,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Nepal shuts schools as floods and landslides kill more than 150
+
+*2024-09-29 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102342/nepal-shuts-schools-as-floods-and-landslides-kill-more-than-150) · `en`
+
+Nepal has shut schools for three days after landslides and floods triggered by two days of heavy rain across the Himalayan nation killed 151 people, with 56 missing, officials said on Sunday.
+
+The floods brought traffic and normal activity to a standstill in the Kathmandu valley, where 37 deaths were recorded in a region home to 4 million people and the capital.
+
+Authorities said students and their parents faced difficulties as university and school buildings damaged by the rains needed repair.
+
+“We have urged the concerned authorities to close schools in the affected areas for three days,” Lakshmi Bhattarai, a spokesperson for the education ministry, told Reuters.
+
+Some parts of the capital reported rain of up to 322.2 mm (12.7 inches), pushing the level of its main Bagmati river up 2.2 m (7 ft) past the danger mark, experts said.
+
+But there were some signs of respite on Sunday morning, with the rains easing in many places, said Govinda Jha, a weather forecaster in the capital.
+
+...
+
+[Data](articles/9b2b4c3b.json)
+
+[Extended Data](ext_articles/9b2b4c3b.ext.json)
+
+---
 
 ### Special Notice of O/L Grades
 
@@ -487,6 +511,32 @@ He was arrested during a raid conducted by a team of police officers Bogawantala
 [Data](articles/f435cbac.json)
 
 [Extended Data](ext_articles/f435cbac.ext.json)
+
+---
+
+### Daughter, who said she was not going to school
+
+*2024-09-29 18:46:04* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසල්-යන්න-බෑ-කියූ-දියණිය-පිළිස්සූ-මහ-අල්ලයි/11-412219) · `si`
+
+A 4-year-old girl refused preschool. Her mother, accused of neglect, was arrested. The child is hospitalized and under investigation.
+
+🟩
+
+Motherial and Women's Bureau has been arrested by the Child and Women's Bureau of the child and women's bodies that claimed that the four-year-old furnace of the body has been denied the pre-school.
+
+The Thirty-year-old woman in the Ur Banks of the Kandy Division has been arrested by the police.
+
+Police say that the girl refused to pre school, police said.
+
+The injured girl has been identified to the Kandy National Hospital and is also to be produced before a Judicial Medical Officer.
+
+Police Superintendent of Police Anuruddha Bandaranawardena, Manuruddha Bandaranaike, and the OIC of the Women's Register, is conducting investigations.
+
+◼️
+
+[Data](articles/51d84685.json)
+
+[Extended Data](ext_articles/51d84685.ext.json)
 
 ---
 
@@ -2325,43 +2375,5 @@ The Examinations Department states that 387648 school applicants and 452931 priv
 [Data](articles/9a7580bb.json)
 
 [Extended Data](ext_articles/9a7580bb.ext.json)
-
----
-
-### Ranil’s Departure & Anura’s Ascendancy!
-
-*2024-09-29 07:56:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-departure-anuras-ascendancy/) · `en`
-
-Before reflecting on the recently departed President Ranil Wickremesinghe, I would like to extend my congratulations to Anura Kumara Dissanayake, who was newly appointed as the ninth President of the Democratic Socialist Republic of Sri Lanka. Coming from a distant rural area and having embarked on a long and challenging political journey, he skilfully conducted his election campaign, achieving a remarkable victory.
-
-Although he did not secure more than 50% of the vote, increasing his vote percentage from 4.3% in 2020 to 42% is a significant achievement. Clearly, this victory is the result of the extensive campaign launched against corruption and fraud. Therefore, this can be seen as a vote primarily against corruption, fraud, waste, elitism, and the establishment.
-
-...
-
-[Data](articles/1dbfa7a4.json)
-
-[Extended Data](ext_articles/1dbfa7a4.ext.json)
-
----
-
-### The education system must be redeemed
-
-*2024-09-29 07:52:32* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලනීයකරණය-වී-ඇති-අධ්‍යාපන-පද්ධතිය-ඉන්-මුදවා-ගත-යුතුයි/11-412195) · `si`
-
-Education system redemption: PM calls for reform, emphasizes societal values, proposes 6% GDP allocation for education, aims to reduce inequality in schooling.
-
-🟩
-
-A special workshop was held at Ananda College, Colombo today (28) with the participation of principals of 396 national schools across the country.. At this workshop, the National School Branch has made awareings of the National Schools' Branch, including the common issues identified by the construction and repairs of national schools.
-
-Prime Minister Dr. Haraney Amarasuriya participated in the event. The Prime Minister said that the education system must be redeemed. Here is the facts that she added.
-
-"In a Rain-Ruler - A Rich-Rich-Rich-Rich Reserve This Principals are well aware of the value of education to make this vision a reality. We are ready to provide guidance that should be given to education as a government. Education we expect to provide only knowledge. There is a big vision that goes beyond education. With the creation of a virtuous society without education, we have set up our education policy with the confidence that the country should be created.
-
-...
-
-[Data](articles/e9c19452.json)
-
-[Extended Data](ext_articles/e9c19452.ext.json)
 
 ---

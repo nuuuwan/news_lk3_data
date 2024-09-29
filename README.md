@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 20:57:39**
+As of **2024-09-29 21:08:46**
 
 ## Newspaper Stats
 
-*Scraped **46,884** Articles*
+*Scraped **46,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 4,330
 dailymirrorlk | 4,733
 adaderanalk | 5,516
 tamilmirrorlk | 6,295
-virakesarilk | 7,499
+virakesarilk | 7,500
 adaderanasinhalalk | 8,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,884 (100.0%) of 46,884 articles have been extended.
+46,884 (100.0%) of 46,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### இன்று இரவு நாட்டின் பல பிரதேசங்களில் இடியுடன் கூடிய மழை - வளிமண்டலவியல் திணைக்களம்
+
+*2024-09-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195085) · `ta`
+
+நாட்டின் பல பிரதேசங்களில் 29ஆம் திகதி ஞாயிற்றுக்கிழமை இரவு வேளைகளில் இடியுடன் கூடிய மழையுடன் பாரிய மின்னல் தாக்கங்கள் ஏற்படுவதற்கான அவதானம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எச்சரித்துள்ளது.
+
+மேற்கு, சப்ரகமுவ, தெற்கு, மத்திய, ஊவா, வடமேல் மற்றும் கிழக்கு மாகாணங்களிலும் பொலன்னறுவை மாவட்டத்திலும் இந்த அபாயம் நிலவுவதாக திணைக்களம் தெரிவித்துள்ளது.
+
+இதன் காரணமாக மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய அபாயங்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களுக்கு அறிவுறுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/0616bf6b.json)
+
+---
 
 ### Sumanthiran's call will never join the Tamil National Alliance - CV Vigneswaran
 
@@ -2341,35 +2357,5 @@ Kiribathgoda Police are conducting further investigations into the suspects.
 [Data](articles/0216ef03.json)
 
 [Extended Data](ext_articles/0216ef03.ext.json)
-
----
-
-### The weather report today
-
-*2024-09-29 06:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195020) · `ta`
-
-Weather forecast: Rain/thunderstorms expected afternoon/night. Heavy rainfall (100mm) predicted in central/southern provinces. Thunderous gusts possible. Lightning precautions advised. Winds 30-40km/h from NW/W. Sea conditions normal to turbulent during storms.
-
-🟩
-
-The Department of Meteorology said that most parts of the country are likely to experience rain or thunderstorms in the afternoon or at night.
-
-Accordingly, 100 millimeters of heavy rainfall is expected in some places in the Central, Sabaragamuwa and North Western Provinces in Kalutara, Galle and Matara districts.
-
-Thundershowers can be temporarily blowing in the area during the thunderstorm.
-
-The Department of Meteorology has advised the public to take the necessary precautions to reduce the effects of lightning impacts.
-
-Rain: In many places around the country, there is a possibility of rain or thunderstorms in the afternoon or at night.
-
-Wind: The winds are blowing from the northwest or west direction from Colombo to Galle via Galle, and the wind is expected to be up to 30-40 km per hour.
-
-In other seas around the country, the wind is expected to blow from different directions and the wind is expected to be up to 20-30 km per hour.
-
-...
-
-[Data](articles/b9144eb8.json)
-
-[Extended Data](ext_articles/b9144eb8.ext.json)
 
 ---

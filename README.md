@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 21:08:46**
+As of **2024-09-29 21:38:10**
 
 ## Newspaper Stats
 
-*Scraped **46,885** Articles*
+*Scraped **46,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,112 @@ colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
-adalk | 4,330
+adalk | 4,331
 dailymirrorlk | 4,733
 adaderanalk | 5,516
 tamilmirrorlk | 6,295
 virakesarilk | 7,500
-adaderanasinhalalk | 8,105
+adaderanasinhalalk | 8,107
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,884 (100.0%) of 46,885 articles have been extended.
+46,888 (100.0%) of 46,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
 
-### இன்று இரவு நாட்டின் பல பிரதேசங்களில் இடியுடன் கூடிய மழை - வளிமண்டலவியல் திணைக்களம்
+### Will the UNP and CPA continue to collapse?
+
+*2024-09-29 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201670) · `si`
+
+Here's a 200-character summary:
+
+
+
+UNP and CPA facing collapse due to unresolved issues. Key points: Ranil Wickremesinghe's election participation, opposition leadership for Sajith Premadasa, and alliance negotiations stalled. Tamil Progressive Alliance decides to contest next general election.
+
+🟩
+
+The discussions on the United National Party and the United National Party and the reconciliation of the reconciliation have been crashed.
+
+It was because of two main conditions presented by the unified promotions.
+
+The UNP and the reconciliation ceremony began in the event of the UNP and the reconciliation.
+
+According to the United National Party (UNP) sources say that two main conditions of the reconciliation have been conducted due to two main conditions of the reconciliation.
+
+These conditions include that former President UNP Leader Ranil Wickremesinghe should not contest the elections of the unity of the prosperous power.
+
+However, the UNP representatives have been reported that the majority of the votes polled by Ranil Wickremesinghe in the presidential election personally.
+
+Also, another condition that has been presented to the reconciliation is that the Leader of the Opposition should be awarded to Sajith Premadasa.
+
+The UNP representatives have also objected to the proposal.
+
+...
+
+[Data](articles/5b37c89c.json)
+
+[Extended Data](ext_articles/5b37c89c.ext.json)
+
+---
+
+### Thundershowers in many parts of the country tonight - the Department of Meteorology
 
 *2024-09-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195085) · `ta`
 
-நாட்டின் பல பிரதேசங்களில் 29ஆம் திகதி ஞாயிற்றுக்கிழமை இரவு வேளைகளில் இடியுடன் கூடிய மழையுடன் பாரிய மின்னல் தாக்கங்கள் ஏற்படுவதற்கான அவதானம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் எச்சரித்துள்ளது.
+Thunderstorms expected across several provinces tonight. Lightning strikes possible. Public advised to take precautions.
 
-மேற்கு, சப்ரகமுவ, தெற்கு, மத்திய, ஊவா, வடமேல் மற்றும் கிழக்கு மாகாணங்களிலும் பொலன்னறுவை மாவட்டத்திலும் இந்த அபாயம் நிலவுவதாக திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இதன் காரணமாக மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய அபாயங்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களுக்கு அறிவுறுத்தியுள்ளது.
+The Department of Meteorology has warned that in many parts of the country on Sunday night, there will be massive lightning strikes with thunderstorms.
+
+The Department said that this risk is on the West, Sabaragamuwa, South, Central, Uva, North Western and Eastern Provinces and Polonnaruwa districts.
+
+As a result, the Department of Meteorology has advised the public to take necessary steps to reduce the risks of lightning strikes.
 
 ◼️
 
 [Data](articles/0616bf6b.json)
+
+[Extended Data](ext_articles/0616bf6b.ext.json)
+
+---
+
+### Determine of unchanged bakery owners
+
+*2024-09-29 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201668) · `si`
+
+Here's a 200-character summary:
+
+
+
+Bakery owners resist price changes despite rising costs. Rice millers blame retailers for price hikes. Potato farmers protest unpaid work. Fertilizer subsidies increase but may not cover all needs.
+
+🟩
+
+All Ceylon Restaurant and Restaurant Association has decided to reduce the prices of foods used in coat, fried rice and reduce the prices of food used today (29).
+
+However, the All All Ceylon Behictery Thero says that the prices of bakery products are not changed based on the bottom of the eggs.
+
+Meanwhile, the fall of the decline from Rs 27, Rs. 28, 28, says small and medium scale egg producers.
+
+Meanwhile, large scale rice mill mills holds a press conference yesterday (28).
+
+In the meantime, retailers say that large-scale rice mills owners have not taken measures to provide rice to control price.
+
+The Anuradhapura District Agrarian Association (Irrigation Integrated Farmers) stated that increasing the fertilizer subsidy for the farmer community to Rs. 25,000 should not be limited to Rs.
+
+Meanwhile, potato farmers in Badulla District have complained that potatoes will not be paid properly.
+
+◼️
+
+[Data](articles/38e9f543.json)
+
+[Extended Data](ext_articles/38e9f543.ext.json)
 
 ---
 
@@ -480,6 +556,26 @@ This "mini moon" can be seen by telescopic though not visible to the empty eye. 
 
 ---
 
+### Followed the same purpose - the last one in Sri Lanka
+
+*2024-09-29 18:24:26* · [`adalk`](https://www.ada.lk/breaking_news/එකම-අරමුණකින්-කටයුතු-කළා---සාපෙළ-ලංකාවෙන්ම-පළමුවැනියා/11-412216) · `si`
+
+Hiruni Mallesha Kumaratunga wins top spot in GCE O/L English exam. Twin sisters study together at Sangamitta Balika Vidyalaya. Parents, teachers, and school officials celebrate her achievement.
+
+🟩
+
+Ti H of the Girl Girls Vidyalaya, Galle has been obtained as a result of self-confidence in the same purpose, Ti H. Hiruni Malha Mallesha Kumaratunga said.
+
+This victory was achieved by the English medium of GCE O / L examination. Ti H. The Fortuna Kumaratunga, Hiruni Mallesha Kumaratunga.
+
+...
+
+[Data](articles/4b139458.json)
+
+[Extended Data](ext_articles/4b139458.ext.json)
+
+---
+
 ### Sure about removal allowance of officers deployed in elite security
 
 *2024-09-29 18:14:34* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-ආරක්ෂාවට-යොදවා-ඇති-නිලධාරීන්ගේ-ඉවත්-කළ-දීමනාව-ගැන-පහැදිලි-කිරීමක්/11-412215) · `si`
@@ -651,6 +747,20 @@ The Ministry of Education had appointed a seven-member committee to decide wheth
 [Data](articles/e974fe36.json)
 
 [Extended Data](ext_articles/e974fe36.ext.json)
+
+---
+
+### Sri Lanka Provides Hope for Democracy in the West
+
+*2024-09-29 17:50:00* · [`islandlk`](http://island.lk/sri-lanka-provides-hope-for-democracy-in-the-west/) · `en`
+
+Sri Lanka’s Presidential election saw a genuine left-winger, from a Marxist party, record a victory that upended the country’s political establishment. But the NPP’s win was more than just historic for this country. A man whose ideology with regard to the fundamental questions of policy differs from all predecessors was elected. This is something presently unimaginable in the West. While it may have been different 100 years ago, today in most major Western countries, there is increasingly no way for the public to vote away the two sacred cows of the establishment: neoliberal capitalism and neo-con foreign policy. Here, Sri Lanka can provide hope.
+
+...
+
+[Data](articles/aea2b37e.json)
+
+[Extended Data](ext_articles/aea2b37e.ext.json)
 
 ---
 
@@ -2251,111 +2361,5 @@ The Department of Examinations said that the 1912 instant telephone number, 011 
 [Data](articles/83c34cc3.json)
 
 [Extended Data](ext_articles/83c34cc3.ext.json)
-
----
-
-### The kidnapped car was found
-
-*2024-09-29 07:42:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடத்தப்பட்ட-கார்-கண்டுபிடிக்கப்பட்டது/175-344642) · `ta`
-
-Kidnapped car recovered: Police seize vehicle near Mawanella bank. Suspect, 23-year-old from Kandy, arrested. Case transferred to Katugastota police for investigation.
-
-🟩
-
-A car suspected of being stolen on the morning of the 28th of last month was seized by police as a private bank in Mawanella area was parked.
-
-Based on the information received by the Commander of the Mawanella Police Station, a team of Criminal Investigation Division officials went to the spot and investigated the driver.
-
-Accordingly, the police have arranged to arrest the suspect and the 23 -year -old youth from the Kandy Watakadera area has been arrested.
-
-The arrested suspect and the car will be handed over to the Katugastota police for further investigations. Remble
-
-◼️
-
-[Data](articles/e727e5ea.json)
-
-[Extended Data](ext_articles/e727e5ea.ext.json)
-
----
-
-### Cease
-
-*2024-09-29 07:34:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-உடன்-அமுலுக்கு-வரும்-வகையில்-நிறுத்தம்/175-344638) · `ta`
-
-Inspector General of Police Priyantha Weerasuriya orders release of police officers on duty. Letter sent to DIGs regarding strategy changes. Special officers involved in station/section duties revealed.
-
-🟩
-
-Inspector General of Police Priyantha Weerasuriya has ordered the release of all the police officers who have been on duty for "strategy" to release them from the duties.
-
-A letter has been sent to responsible authorities, including all DIGs.
-
-The Inspector General of Police said that the duties of the police stations and sections have been revealed due to the involvement of special officers for the work.. Remble
-
-◼️
-
-[Data](articles/a09ef34e.json)
-
-[Extended Data](ext_articles/a09ef34e.ext.json)
-
----
-
-### A revelation of Excise License
-
-*2024-09-29 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201650) · `si`
-
-Excise License: 172 permits issued since May 2022, generating Rs. 220 million revenue. Companies agree to pay by end of 2023 and 2024.
-
-🟩
-
-The Commissioner General of Excise Missions M.. Mr. July Gunasiri says.
-
-He said that the government has issued 172 excise permits from May last year.
-
-The Commissioner of Excise said that it was able to earn a revenue of Rs. 220 million.
-
-Meanwhile, the Commissioner General of Excise said that all companies have agreed to complete the payment before 2023 and 2024 years ago.
-
-◼️
-
-[Data](articles/65b4d8e6.json)
-
-[Extended Data](ext_articles/65b4d8e6.ext.json)
-
----
-
-### Two suspects arrested for stealing vehicle stolen and money fraud
-
-*2024-09-29 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201649) · `si`
-
-Two suspects arrested in Kiribathgoda for vehicle theft and cash fraud. One from Kandana, another from Pamunugama. Investigation ongoing.
-
-🟩
-
-Two suspects have been arrested in Kiribathgoda area on vehicle stolen and cash fraud.
-
-The suspect had been arrested on information received by the Kiribathgoda Police Station yesterday (28).
-
-The suspect is a 37 year old resident of Kandana, police said.
-
-The investigation into the suspect was detected in the process of preparation of citizens and selling a car worth Rs. 13,000,000.
-
-Another suspect involved in this racket has been arrested in the Kiribathgoda area.
-
-The suspect is a 39 year old resident of Pamunugama.
-
-The suspects have been revealed to the pseudo-cash and the sale of vehicles has been identified as the car has been taken into police custody.
-
-Investigations on the suspects, they have maintained a new housing campaign in different parts of the island and have been a new housing campaign.
-
-It has also been revealed that open warrants were released by the courts regarding the suspects.
-
-Kiribathgoda Police are conducting further investigations into the suspects.
-
-◼️
-
-[Data](articles/0216ef03.json)
-
-[Extended Data](ext_articles/0216ef03.ext.json)
 
 ---

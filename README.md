@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 14:57:19**
+As of **2024-09-29 15:22:33**
 
 ## Newspaper Stats
 
-*Scraped **46,834** Articles*
+*Scraped **46,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ colombotelegraphcom | 467
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
-adalk | 4,319
+adalk | 4,322
 dailymirrorlk | 4,733
 adaderanalk | 5,510
-tamilmirrorlk | 6,287
+tamilmirrorlk | 6,289
 virakesarilk | 7,481
-adaderanasinhalalk | 8,099
+adaderanasinhalalk | 8,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,834 (100.0%) of 46,834 articles have been extended.
+46,840 (100.0%) of 46,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Arrest
+
+*2024-09-29 14:58:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூடு-வைத்த-தாய்-கைது/175-344656) · `ta`
+
+Five-year-old girl arrested for refusing school. Thirty-year-old woman charged under Children's and Women's Bureau. Girl hospitalized, case to be presented to legal officer.
+
+🟩
+
+A five -year -old girl who refused to go to school has been arrested.
+
+Thirty -year -old woman living in a rented house in Nagasthana, Kandy Police Division
+
+The Kandy Division has arrested a woman on the Children's and Women's Bureau for refusing to go to four parts of the body and warned the girl.
+
+The injured girl is admitted to the Kandy National Hospital and is to be produced before the legal officer.
+
+◼️
+
+[Data](articles/771cf4be.json)
+
+[Extended Data](ext_articles/771cf4be.ext.json)
+
+---
+
+### There is no change in the price of bakery goods
+
+*2024-09-29 14:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கரி-பொருட்களின்-விலையில்-மாற்றமில்லை/175-344655) · `ta`
+
+Bakery association: Egg product prices unchanged despite egg price drop. Wheat flour price change needed for revision.
+
+🟩
+
+The All Ceylon Bakery Association has said that the price of egg -related bakery products cannot be reduced even if the price of eggs has been reduced.
+
+The prices of bakery products will only be revised if the price of wheat flour is changed, its president NK Jayawardena said.
+
+◼️
+
+[Data](articles/bb7ae98e.json)
+
+[Extended Data](ext_articles/bb7ae98e.ext.json)
+
+---
+
+### Indian fishermen arrested
+
+*2024-09-29 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201662) · `si`
+
+Indian fishermen arrested by Sri Lanka navy. 17 detained. To be handed over to Talaimannar. Rahul Gandhi writes to External Affairs Minister seeking talks with Sri Lankan authorities.
+
+🟩
+
+Several Indian fishermen have seized 17 Indian fishermen in the country.
+
+The Navy said that the fishermen were taken into custody in the same day today (29).
+
+Indian fishermen and vessels are to be handed over to the Talaimannar Talaimannar Talaimannar.
+
+Meanwhile, Indian opposition leader Rahul Gandhi has written to the External Affairs Minister Dr. S. S. S. S. S. S. S.S.
+
+The Indian Oprose leader has requested that the Indian Opposition Leader will take necessary steps to discuss with the Sri Lankan authorities.
+
+◼️
+
+[Data](articles/7f4e579d.json)
+
+[Extended Data](ext_articles/7f4e579d.ext.json)
+
+---
 
 ### There is no need to flee the country - Kamal Gunaratne
 
@@ -166,6 +236,26 @@ A prisoner who was admitted to the Jaffna Hospital for treatment of sudden illne
 
 ---
 
+### Sri Lanka beat Sri Lanka from second Test against New Zealand
+
+*2024-09-29 13:15:16* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-දෙවන-ටෙස්ට්-තරගයෙන්-ශ්‍රී-ලංකාවට-ඉනිමක-ජයක්/9-412207) · `si`
+
+Sri Lanka defeated New Zealand in the second Test match by an innings and 154 runs. This victory secured Sri Lanka's win in both matches of the two-match Test series.
+
+🟩
+
+Sri Lanka won a second and last Test match against New Zealand team from innings and 154 runs.
+
+Sri Lanka was able to win the two match Test tournament to win the two matches.
+
+◼️
+
+[Data](articles/1b942a58.json)
+
+[Extended Data](ext_articles/1b942a58.ext.json)
+
+---
+
 ### Superbid from Sri Lanka
 
 *2024-09-29 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201658) · `si`
@@ -277,6 +367,30 @@ As the Minister of Power and Energy, he is an experienced politician who has bee
 [Data](articles/fa7c4162.json)
 
 [Extended Data](ext_articles/fa7c4162.ext.json)
+
+---
+
+### Parents cannot add money from their parents
+
+*2024-09-29 12:33:40* · [`adalk`](https://www.ada.lk/breaking_news/ළමා-හා-ගුරු-දින-සැමරුමට-දෙමාපියන්ගෙන්-සල්ලි-එකතු-කරන්න-බෑ/11-412205) · `si`
+
+Ministry of Education prohibits schools from collecting money from parents for festivals like World Children's Day and World Teachers' Day. Secretary Thilaka Jayasundara warns against this practice in a letter to principals and education authorities. Parents and students face difficulties due to this issue.
+
+🟩
+
+The Ministry of Education emphasizes that the public should not add money from the parents by schools to celebrate festivals such as the upcoming World Children's Day, World Teachers' Day.
+
+The Secretary to the Ministry of Education Thilaka Jayasundara has also sent a letter to all principals and educational authorities.
+
+The letter has shown that various complaints have been received to the Ministry of Education that the Ministry of Education will be collected from schools for such ceremonies.
+
+The article has further briefed the parents and students to face many problems, most of the meantha.
+
+◼️
+
+[Data](articles/914f6af7.json)
+
+[Extended Data](ext_articles/914f6af7.ext.json)
 
 ---
 
@@ -543,6 +657,30 @@ Israel launched a series of air strikes since last night, targeting the Beeroot 
 [Data](articles/ae3f5731.json)
 
 [Extended Data](ext_articles/ae3f5731.ext.json)
+
+---
+
+### Rishard's national organizer resigns
+
+*2024-09-29 11:01:12* · [`adalk`](https://www.ada.lk/breaking_news/රිෂාඩ්ගේ-පක්ෂයේ-ජාතික-සංවිධායක-ඉවත්වෙයි/11-412204) · `si`
+
+Rishard's national organizer quits Lanka People Congress. Former State Minister Abdullah Maharupp cites disappointment over party decisions. Resignation letter to be submitted soon. Ready to contest elections in another party.
+
+🟩
+
+Former State Minister and former Parliamentarian Abdullah Maharupp said that the entire Lanka People Congress was resigned from the National Organizer of the All Ceylon Public Congress.
+
+He said this at a press conference held at his party office in Kinniya, Trincomalee yesterday.
+
+Speaking further Mr. Mahutha Leader Rishad Banithan visited the Kinniya and discussed the organizers. I gave the nomination at another. I made great sacrifices to this party for ten years and took a large number of votes. I was disappointed, as I can't stay in this situation. My resignation will be given to the party leadership in writing in writing. In the future, I am ready to contest the general election in another party. He could not say what the party was.
+
+The All Ceylon General of Congress supported the entire Presidential Election with former President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/2621da89.json)
+
+[Extended Data](ext_articles/2621da89.ext.json)
 
 ---
 
@@ -2247,159 +2385,5 @@ As a result, the Secretary to the Ministry of Secretary Thilaka Jayasundara has 
 [Data](articles/aa9d03a2.json)
 
 [Extended Data](ext_articles/aa9d03a2.ext.json)
-
----
-
-### President attends the ‘Colombo International Book Fair’
-
-*2024-09-28 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102323/president-attends-the-colombo-international-book-fair) · `en`
-
-President Anura Kumara Dissanayake today (28) attended the “Colombo International Book Fair”, which is being held at the Bandaranaike International Conference Hall in Colombo for the 25th time in celebration of Literature Month.
-
-During the event, the President of the Sri Lanka Book Publishers’ Association, Mr. Samantha Indeewara presented a draft of the National Policy on Children’s Books to President Dissanayake.
-
-The President then toured several booths showcasing both local and international books and briefly interacted with the public present at the venue. The President received a warm response from the public. A large crowd had gathered at the fair, which features around 400 stalls this year, the PMD reported.
-
-Organized annually by the Sri Lanka Book Publishers’ Association, the “Colombo International Book Fair” runs from September 27h to October 6th at the Bandaranaike International Conference Hall.
-
-...
-
-[Data](articles/4fa6a4ad.json)
-
-[Extended Data](ext_articles/4fa6a4ad.ext.json)
-
----
-
-### A submarine in China is drowning in the sea
-
-*2024-09-28 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201637) · `si`
-
-China submarine incident: Foreign media reports a Chinese submarine is stranded in a shipyard near Vehan. American security forces claim China concealed this information.
-
-🟩
-
-Foreign media reports that China's latest submarine operating in nuclear powers.
-
-It is reported that the submarine has been mired in the shipyard near the Vehan, China.
-
-The American security forces point out that China has concealed this information.
-
-Foreign media has shown that a submarine that China is a submarine.
-
-◼️
-
-[Data](articles/43e91e6f.json)
-
-[Extended Data](ext_articles/43e91e6f.ext.json)
-
----
-
-### New Zealand leads 315 runs
-
-*2024-09-28 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201636) · `si`
-
-New Zealand trails Sri Lanka by 315 runs after scoring 199/2 on Day 2 of the 2nd Test. Sri Lanka made 602/1 in their first innings, while NZ was limited to 88/1. The Kiwis need to catch up significantly.
-
-🟩
-
-New Zealand scored 199 runs for the second day of the second Test match against the Sri Lanka Second Test.
-
-Sri Lanka scored 602 runs for the first innings of the match and New Zealand's first innings were restricted to 88 runs.
-
-Accordingly, New Zealand team is behind 315 runs more than Sri Lanka's first innings.
-
-◼️
-
-[Data](articles/b4fbe29e.json)
-
-[Extended Data](ext_articles/b4fbe29e.ext.json)
-
----
-
-### Doesn't eat the price of prices?
-
-*2024-09-28 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201635) · `si`
-
-Prices rising despite economic crisis. Consumers claim profiteering from food manufacturers and traders. Gas, wheat flour, and egg prices significantly increased. Traders accused of ignoring market conditions.
-
-🟩
-
-Customers say that the prices of other foods, including brief briefs, including brief food, other foods, including brief briefs, are not down.
-
-They allege that the customer is trying to suffer only to earn profits.
-
-With the economic crisis of the country, the prices of many products like the eggs, wheat flour and gas fuel have increased.
-
-Food manufacturers and traders took steps to increase the prices of their products, and the usual was to be weighed as usual.
-
-However, not only gas, wheat flour but egg prices have also been substantially.
-
-Consumers allege that the traders do not take the attention of the ventures to influence it.
-
-◼️
-
-[Data](articles/9cd78a7f.json)
-
-[Extended Data](ext_articles/9cd78a7f.ext.json)
-
----
-
-### Sri Lanka Rugby Podden is in front of the Asian Championship
-
-*2024-09-28 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201634) · `si`
-
-Sri Lanka Rugby Podden leads Asian Championship. Men's U-18 team advances to finals after beating Thailand 27-0 and Chinese Taipei. Sri Lanka faces Hong Kong, Chinese Taipei, and Thailand in B category. Bonus points determine final eligibility.
-
-🟩
-
-Sri Lanka's male team to proceed with the finals of the L-18th Violence in the Under-18-year-old Rugby Tournament, which began today (28).
-
-Thailand defeated Thailand with 27-0 runs in the first match of Sri Lanka.
-
-Thereafter, Chinese Taipei was able to defeat the team in the second match.
-
-Sri Lanka was able to end the match against the most crucial match against the most crucial match.
-
-Accordingly, Sri Lanka is left to play only one match tomorrow (29), but the match is an uncommon.
-
-The tournament will be held in 9 teams as 'A' and 'B'.
-
-Sri Lanka is the only number of countries in the 'B' category, including four countries, has an opportunity for every country in that category.
-
-Hong Kong, Chinese Taipei and Thailand is played in the 'B' category with Sri Lanka.
-
-Sri Lanka is in the forefront of the bonus mark.
-
-Accordingly, the outcome team to be eligible for the final will be decided on the result of Thailand tomorrow (29).
-
-...
-
-[Data](articles/6bc6aa87.json)
-
-[Extended Data](ext_articles/6bc6aa87.ext.json)
-
----
-
-### One killed and beat himself at home
-
-*2024-09-28 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201633) · `si`
-
-Man dies in house fire; police investigating cause.
-
-🟩
-
-A 44-year-old man burned down from a fire in a house fire.
-
-The incident recorded this morning in the morning of Koswatta, Three Triadara, Nattandiya.
-
-Investigations have revealed that the police had been living alone in a room where the deceased is being built.
-
-The cause of the fire is yet to be determined while Koswatta Police are conducting further investigations.
-
-◼️
-
-[Data](articles/acd29b76.json)
-
-[Extended Data](ext_articles/acd29b76.ext.json)
 
 ---

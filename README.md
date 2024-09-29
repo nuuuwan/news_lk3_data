@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 04:38:12**
+As of **2024-09-30 04:56:52**
 
 ## Newspaper Stats
 
-*Scraped **46,906** Articles*
+*Scraped **46,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 463
 colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
-dailyftlk | 3,130
+dailyftlk | 3,137
 adalk | 4,332
 dailymirrorlk | 4,733
 adaderanalk | 5,518
@@ -26,11 +26,149 @@ adaderanasinhalalk | 8,109
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,906 (100.0%) of 46,906 articles have been extended.
+46,912 (100.0%) of 46,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Reyaz, Ravi join Madulsima Plantations Board
+
+*2024-09-30 04:29:56* · [`dailyftlk`](https://www.ft.lk/business/Reyaz-Ravi-join-Madulsima-Plantations-Board/34-767309) · `en`
+
+Top professionals Reyaz Mihular and Dr. Ravi Fernando have joined the Board of Madulsima Plantations PLC as Independent Non-Executive Directors.
+
+They fulfil the vacancies created by the resignation of Dr. A. Shakthevate and D.S.K. Amarasekera.
+
+Mihular served as the Managing Partner of KPMG Sri Lanka and Maldives from April 2012 to March 2022 and was the Chairman of KPMG’s Middle East and South Asia (MESA) Regional Cluster during the period of October 2018 to September 2021. Mihular previously served a term as the Chief Operating Officer of the MESA regional office. He also served on KPMG’s Europe Middle East and Africa (EMA) Board and on the Global Council of KPMG International.
+
+...
+
+[Data](articles/f5b6b40d.json)
+
+[Extended Data](ext_articles/f5b6b40d.ext.json)
+
+---
+
+### Ceylon Tea Brokers announces strategic Board appointments
+
+*2024-09-30 04:26:49* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Tea-Brokers-announces-strategic-Board-appointments/34-767308) · `en`
+
+Ceylon Tea Brokers has announced the appointment of Beshan Kulapala, Amrah Akbar and Mihirini De Zoysa to its Board as Independent Non-Executive Directors.
+
+Dr. Beshan Kulapala is the Co-Founder and CEO of Cyrus EV Chargers, and Vice President of Innovation and Technology for Volt Charge, a Saudi and Sri Lankan joint venture company developing high-tech electric vehicle charging technologies. He also heads VoltX Ltd., a one-stop engineering services and consultation company specialised in high tech product engineering solutions for clients across the globe.
+
+Previously Beshan was the Director and a co-founder of Vega Innovations in Sri Lanka.
+
+...
+
+[Data](articles/072deaa5.json)
+
+[Extended Data](ext_articles/072deaa5.ext.json)
+
+---
+
+### Honouring German businesses at 10th edition of Top German Brands in Sri Lanka
+
+*2024-09-30 04:24:13* · [`dailyftlk`](https://www.ft.lk/business/Honouring-German-businesses-at-10th-edition-of-Top-German-Brands-in-Sri-Lanka/34-767307) · `en`
+
+The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) successfully hosted the milestone 10th edition of ‘Top German Brands in Sri Lanka’ on 19 September at the Cinnamon Grand Hotel in Colombo.
+
+Underscoring the strong bilateral ties between the two nations, this year’s event celebrated the presence of 300 German brands operating in Sri Lanka, who are recognised for their commitment to excellence, innovation, and sustainability, contributing significantly across multiple sectors in Sri Lanka.
+
+A key highlight of the 10th edition was the launch of the first-ever German Brands Directory in Sri Lanka, a significant step in commemorating the decade-long journey of German businesses in the country. The directory serves as a comprehensive guide, showcasing the diversity and impact of German enterprises in Sri Lanka and solidifying the long-standing partnership between the two nations.
+
+...
+
+[Data](articles/c5b9ab04.json)
+
+[Extended Data](ext_articles/c5b9ab04.ext.json)
+
+---
+
+### Vijitha Herath appointed President’s representative to CC
+
+*2024-09-30 04:17:24* · [`dailyftlk`](https://www.ft.lk/news/Vijitha-Herath-appointed-President-s-representative-to-CC/56-767306) · `en`
+
+Minister Vijitha Herath has been appointed as the President’s representative to the Constitutional Council.
+
+The Speaker of the Parliament Mahinda Yapa Abeywardena stated that this nomination was made by President Anura Kumara Dissanayake.
+
+Accordingly, former Ports, Aviation and Shipping Minister Nimal Siripala de Silva has been removed from the Constitutional Council.
+
+Additionally, Prime Minister Dr. Harini Amarasuriya has also been appointed as a new member of the Council.
+
+Despite the dissolution of the Parliament, the activities of the Constitutional Council are required to be continued until the formation of the new Parliament.
+
+The Council is scheduled to meet on 9 October for the first time following the election of the new President.
+
+Other members of the Constitutional Council include former Opposition Leader Sajith Premadasa, former MP Kabir Hashim, former MP Sagara Kariyawasam, and the three civil society representatives.
+
+◼️
+
+[Data](articles/fe9c6558.json)
+
+[Extended Data](ext_articles/fe9c6558.ext.json)
+
+---
+
+### Angajan Ramanathan requests President to reopen several roads in Jaffna
+
+*2024-09-30 04:15:17* · [`dailyftlk`](https://www.ft.lk/news/Angajan-Ramanathan-requests-President-to-reopen-several-roads-in-Jaffna/56-767305) · `en`
+
+Northern former MP Angajan Ramanathan has formally requested President Anura Kumara Dissanayake to take action to reopen several key roads in the high-security zones of Jaffna.
+
+This request follows the President’s decision to reopen two streets near the President’s House in Colombo for public access.
+
+Ramanathan’s appeal highlights that, despite the war ending 15 years ago, several vital roads in Jaffna remain closed, significantly disrupting daily life and transportation for the local population.
+
+In his letter, the former MP pointed out that the Jaffna-Palaly road, particularly the east side next to the Vayavilan Central College, should be freed from military restrictions. This road connects to the Ponnalai road, an essential route for local traffic. He also emphasised the closure of the Achuveli Vayavilan-Tholakatti street, which has hampered the functioning of major Government and private enterprises in the region.
+
+...
+
+[Data](articles/b199a269.json)
+
+[Extended Data](ext_articles/b199a269.ext.json)
+
+---
+
+### Sri Lankan Ambassador-designate to France presents Credentials to Andorra Co-Prince Emmanuel Macron
+
+*2024-09-30 04:13:33* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-designate-to-France-presents-Credentials-to-Andorra-Co-Prince-Emmanuel-Macron/56-767304) · `en`
+
+Principality of Andorra Co-Prince Emmanuel Macron (left) and Sri Lankan Ambassador-designate to France Manisha Gunasekera
+
+Sri Lankan Ambassador-designate to France Manisha Gunasekera presented her Letters of Credence to Principality of Andorra Co-Prince Emmanuel Macron at the Elysee Palace on Tuesday, 17 September.
+
+Following the presentation of Credentials, Ambassador Gunasekera had a brief meeting with the Co-Prince in which she conveyed the warm greetings and best wishes of the President of Sri Lanka. She also apprised the Co-Prince of the vibrant nature of bilateral relations between Sri Lanka and Andorra, and on cooperation in multilateral fora.
+
+Co-Prince Macron extended his warm greetings to the President, the Government, and the people of Sri Lanka, and looked forward to further strengthening existing cooperation between Sri Lanka and France across sectors.
+
+...
+
+[Data](articles/08b10272.json)
+
+[Extended Data](ext_articles/08b10272.ext.json)
+
+---
+
+### Iran’s Khamenei vows revenge over Nasrallah’s killing
+
+*2024-09-30 04:10:57* · [`dailyftlk`](https://www.ft.lk/news/Iran-s-Khamenei-vows-revenge-over-Nasrallah-s-killing/56-767303) · `en`
+
+Iran’s Supreme Leader Ayatollah Ali Khamenei said on Saturday that the killing of Hezbollah leader Hassan Nasrallah would be avenged and other militants would continue his path in fighting Israel.
+
+“(Nasrallah) was not an individual. He was a path and a school of thought and the path will be continued,” Khamenei said in a statement read on State television, in which he announced five days of mourning in Iran. “The blood of the martyr shall not go unavenged,” he said.
+
+Khamenei, in an earlier statement issued after the Israeli army said it had killed Nasrallah, said: “The fate of this region will be determined by the forces of resistance, with Hezbollah at the forefront,” State media reported.
+
+After Hezbollah confirmed Nasrallah’s death, Iranian media reported that General Abbas Nilforoushan, a deputy commander of Iran’s Revolutionary Guards, had died “next to Nasrallah” in the Israeli strikes on south Beirut on Friday.
+
+...
+
+[Data](articles/0e332e23.json)
+
+---
 
 ### Police Sergeant who saved the life of a woman who jumped from the Mannar Bridge and committed suicide
 
@@ -2245,163 +2383,5 @@ A mobile phone filter racket of the mobile phones, including foreigners travelin
 [Data](articles/a038a1b8.json)
 
 [Extended Data](ext_articles/a038a1b8.ext.json)
-
----
-
-### Details of a gang deceived many people and cheated crores
-
-*2024-09-29 10:42:10* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලයන්-රැසක්-රවටා-කෝටි-ගාණක්-වංචා-කළ-කල්ලියක්-ගැන-තොරතුරු/11-412201) · `si`
-
-Gang cheats millions, rapes victims across country. Found fake health docs, sold luxury cars, real estate scams. Main suspects arrested, police investigating further.
-
-🟩
-
-Kiribathgoda Police say two belonging to a group of organized gang, raped in many parts of different parts of the country.
-
-A health documents have been found in the racket between the arrested persons and prepared a luxury car sold to the Pannalan area.
-
-Halls, and new housing campaigns have also been rejected by houses in different parts of the island and deceived many people. It has been revealed that there have been many frauds.
-
-The suspects have been released by open warrants through Welisara and New Kadawasaips against suspects
-
-The main suspect arrested is a 37 year old resident of Kandana and the other suspect is a resident of Pamunugama. Kiribathgoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f051e8e5.json)
-
-[Extended Data](ext_articles/f051e8e5.ext.json)
-
----
-
-### Iran’s Khamenei vows revenge over Nasrallah’s killing
-
-*2024-09-29 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102332/irans-khamenei-vows-revenge-over-nasrallahs-killing) · `en`
-
-Iran’s Supreme Leader Ayatollah Ali Khamenei said on Saturday (Sep 28) that the killing of Hezbollah leader Hassan Nasrallah would be avenged and other militants would continue his path in fighting Israel.
-
-“(Nasrallah) was not an individual. He was a path and a school of thought and the path will be continued,” Ayatollah Khamenei said in a statement read on state television in which he announced five days of mourning in Iran.
-
-Khamenei, in an earlier statement issued after the Israeli army said it had killed Nasrallah, said: “The fate of this region will be determined by the forces of resistance, with Hezbollah at the forefront,” state media reported.
-
-After Hezbollah confirmed Nasrallah’s death, Iranian media reported that General Abbas Nilforoushan, a deputy commander of Iran’s Revolutionary Guards, had died “next to Nasrallah” in the Israeli strikes on south Beirut on Friday.
-
-...
-
-[Data](articles/febbbc97.json)
-
-[Extended Data](ext_articles/febbbc97.ext.json)
-
----
-
-### Angoda Jila's chief disciple arrested
-
-*2024-09-29 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201655) · `si`
-
-Angoda Jila's top disciple, Dhanush Buddhika, arrested by Police Special Task Force. Seized drugs: 25g ice, 51g Kerala cannabis, 274,400 rupees. Handed to Talangama Police for investigation.
-
-🟩
-
-The Police Special Task Force has arrested an organized criminal and a major disciple of a large scale drug dealer.
-
-The victim was Dhanush Buddhika, Dhanush Buddhika, or a head of the "Angoda Jila '.
-
-Police have also seized 25 grams of ice narcotics and 51 millay and 51 grams of Kerala cannabis.
-
-The police also seized 274,400 rupees suspected to strategic drug trafficking.
-
-The suspect has been handed over to the Talangama Police for further investigations.
-
-◼️
-
-[Data](articles/7f49d971.json)
-
-[Extended Data](ext_articles/7f49d971.ext.json)
-
----
-
-### There were no large quantity of ancient taxes on the presidential election
-
-*2024-09-29 10:03:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණ-කාලයේදි-සුරා-බදු-බලපත්‍ර-විශාල-ප්‍රමාණයක්-දුන්නේ-නෑ/11-412200) · `si`
-
-Ancient taxes not applied to presidential election. Excise Department issued 172 permits since May 2023. Companies must pay by November 30, 2023-2024.
-
-🟩
-
-The Excise Department says that some parties have been issued in the presidential election during the presidential election.
-
-The department points out that only 172 excise permits have been issued since May last year on a policy decision taken by the government.
-
-All companies have agreed to complete the payment before November 30, the year 2023 and 2024, the Excise Department said.
-
-◼️
-
-[Data](articles/a6d0ec97.json)
-
-[Extended Data](ext_articles/a6d0ec97.ext.json)
-
----
-
-### An Appeal To The Tamil Diaspora For Constructive Engagement
-
-*2024-09-29 09:52:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-appeal-to-the-tamil-diaspora-for-constructive-engagement/) · `en`
-
-It is time for us to face the reality that the dream of Tamil Eelam is over, and clinging to this idea will only hinder the progress and well-being of our people. Revisiting the painful final days of the war, debating who was involved, and speculating on alternative outcomes are not productive. They only serve to deepen wounds and create further division within our community and the nation as a whole. Instead, we must focus on the future—one that promotes healing, unity, and cooperation.
-
-Reliving these events in endless debates may feel like a way to process our loss, but in truth, it is a distraction. Our homeland’s future depends on finding ways to move forward. The current political leadership (NPP), which itself has experienced defeat and decimation not once but twice, has managed to reconcile and secure the trust of the majority. They have shown that it is possible to rise above the bitterness of the past, and we must take a page from their book.
-
-...
-
-[Data](articles/28864e92.json)
-
-[Extended Data](ext_articles/28864e92.ext.json)
-
----
-
-### 33 people killed in Israeli air strike in Lebanon
-
-*2024-09-29 09:51:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-இஸ்ரேல்-வான்வழி-தாக்குதலில்-33-பேர்-பலி/50-344647) · `ta`
-
-Israeli air strike kills 33 in Lebanon, injures 195. Attacks target Hezbollah. UN expresses concern over ongoing violence.
-
-🟩
-
-33 people were killed in Israel's air strike in Lebanon's Beirut. Another 195 people were injured.
-
-Israel, which is attacking the Hamas terrorist organization, is now attacking the Lebanon -based Hezbollah organization.. A few days ago, the air strikes on Lebanon. Of these, 274 were killed, including 21 children and 39 women. Hizbullah leader Hasan Nasrallah was also killed.
-
-In this case, Israel has now launched an air strike on Lebanon. 33 people were killed and 195 were injured in the attack.
-
-All the neighbors are struggling to know when these attacks will stop. Also, the UN has expressed regret that the ongoing attacks in Beirut are very worrying.
-
-◼️
-
-[Data](articles/d8b4dd33.json)
-
-[Extended Data](ext_articles/d8b4dd33.ext.json)
-
----
-
-### Jayasuriya's term extended by a year
-
-*2024-09-29 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201654) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sanath Jayasuriya's coaching term extended by one year. Chris Silverwood briefly took over after World Cup.
-
-🟩
-
-Sanath Jayasuriya, the main coach of the Sri Lankan cricket team, has been extended by another year.
-
-As the chief coach of the Sri Lankan cricket team, Chris Silverwood was temporarily appointed as the chief coach with the completion of the World Cup.
-
-◼️
-
-[Data](articles/b51cacc3.json)
-
-[Extended Data](ext_articles/b51cacc3.ext.json)
 
 ---

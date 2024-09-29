@@ -1,82 +1,172 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 13:39:42**
+As of **2024-09-29 14:11:15**
 
 ## Newspaper Stats
 
-*Scraped **46,825** Articles*
+*Scraped **46,829** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 389
 bbccomsinhala | 463
-colombotelegraphcom | 466
+colombotelegraphcom | 467
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
 adalk | 4,319
 dailymirrorlk | 4,733
 adaderanalk | 5,510
-tamilmirrorlk | 6,286
+tamilmirrorlk | 6,287
 virakesarilk | 7,477
-adaderanasinhalalk | 8,096
+adaderanasinhalalk | 8,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,821 (100.0%) of 46,825 articles have been extended.
+46,829 (100.0%) of 46,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
 
-### නවසීලන්තයට අමිහිරි පරාජයක්
+### President decides on the cost of parliamentary election
+
+*2024-09-29 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201660) · `si`
+
+President approves election costs. Election Commissioner discusses budget details. Meetings held with district officials and returning officers.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake said the President has signed the release of Rs.
+
+He was speaking to the media after a discussion held in the initial election.
+
+Two main activities of the parliamentary elections were held yesterday at the Elections Secretariat in Rajagiriya yesterday (28).
+
+The first discussion was held along with the participation of District Secretaries and Deputy District Secretaries.
+
+Meanwhile, a meeting of the District Returning Officers, Assistant Commissioners, Deputy Commissioners and the Elections Commission was held yesterday afternoon.
+
+◼️
+
+[Data](articles/2f29b25b.json)
+
+[Extended Data](ext_articles/2f29b25b.ext.json)
+
+---
+
+### New moon that rotates around the earth from today
+
+*2024-09-29 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201659) · `si`
+
+Here's a 200-character summary:
+
+
+
+"New moon orbits Earth starting today. Small 10-meter satellite called PT Fiver appears near Earth. Visible until Nov 25. Second moon remains invisible."
+
+🟩
+
+Since today (29), the Earth is the opportunity to enjoy a new space experience.
+
+A small moon of about 10 meters is due to orbiting to temporarily around it.
+
+This is temporarily initiated around the earth, the 2024 PT Fiver (PT 5) is traveling near the Earth.
+
+The most small moon is far from the Earth to 53 days from today to November 25 to 53 days.
+
+It is reported that the second moon cannot see the second moon, which is invisible to man's.
+
+◼️
+
+[Data](articles/25b0052f.json)
+
+[Extended Data](ext_articles/25b0052f.ext.json)
+
+---
+
+### Prisoner dies in Jaffna Prison
+
+*2024-09-29 13:23:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-சிறைச்சாலையில்-கைதி-மரணம்/71-344651) · `ta`
+
+Prisoner dies in Jaffna Prison: 42-year-old man named Pushpa Ramanathapuram from Vattakachi area passed away after being hospitalized for sudden illness.
+
+🟩
+
+A prisoner who was admitted to the Jaffna Hospital for treatment of sudden illness has died in the Jaffna Prison, Jaffna police said.
+
+42 year old gay. The police said that the death of Pushpa Ramanathapuram Vattakachi area.
+
+◼️
+
+[Data](articles/587bada2.json)
+
+[Extended Data](ext_articles/587bada2.ext.json)
+
+---
+
+### Superbid from Sri Lanka
 
 *2024-09-29 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201658) · `si`
 
-ශ්‍රී ලංකා - නවසීලන්තය අතර පැවැති දෙවැනි ටෙස්ට් තරගය ඉනිමකින් සහ ලකුණු 154කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+Sri Lanka wins 2nd Test vs NZ, takes series 1-0. Nishan Peiris scores 60 & takes 5 wkts. Glen Phillips hits 78. SL loses 882/5 in 1st innings. Peiris dismisses Tom Latham in 2nd innings.
 
-සිව්වැනි දිනය සඳහා අද (29) තරගය ආරම්භ කරනවිට ලකුණු 514ක ඉලක්කයක් හඹායන නවසීලන්ත කණ්ඩායම කඩුලු 5ක් දැවී ලකුණු 199ක් ලබාගෙන සිටියේය.
+🟩
 
-නවසීලන්ත ලකුණු පුවරුවට තවත් ලකුණු 17ක් එක් වෙනවිට ලකුණු 60ක් ලබාගෙන සිටි ටොම් බ්ලන්ඩෙල්ව දවා ගන්නට නිෂාන් පිරීස් සමත්වුණි.
+Sri Lanka won the second Test match between Sri Lanka and New Zealand by 154 runs.
 
-කෙසේ වෙතත් ශ්‍රී ලංකා පන්දු යවන්නට හිසරදයක් වු ග්ලෙන් පිලිප්ස් ලකුණු 78ක් ලබා ගත්තේය.
+Accordingly, the Sri Lankan team won the 2 match Test series as 0 matches.
 
-නමුත් සිය මංගල ටෙස්ට් තරගයට ක්‍රීඩා කරන නිෂාන් පිරීස් විසින් පිලිප්ස්ගේ කඩුල්ල දවා ගනිමින් කඩුලු 5ක් දවා ගැනීමට සමත් විය.
+New Zealand scored 199 runs for the loss of 514 runs for the fourth day.
 
-ඔහු වාර්තා අතරට එක් වුණේ මංගල ටෙස්ට් තරගයේ කඩුලු 5ක් දවා ගත් 7වැනි ක්‍රිඩකයා ලෙසටය.
+Nishan Peiris, who had scored 60 runs while 60 runs were scolding, scored 60 runs.
 
-ශ්‍රී ලංකාව සිය පළමු ඉනිමට කඩුලු 5ක් දැවි ලකුණු 602ක් රැස්කර ගත් අතර නවසීලන්ත කණ්ඩායමට සිය පළමු ඉනිම ස﻿ඳහා සියල්ලන් දැවී ලබාගැනීමට හැකිවුණේ ලකුණු 88ක් පමණි.
+However, Glen Phren Philips scored 78 runs.
 
-ඒ අනුව ඉනිමක පරාජයෙන් ගැලවීම සඳහා ලකුණු 514ක ඉලක්කයක් හඹායෑඹට පිටියට පිවිසි නවසීලන්ත දෙවන ඉනිමේ පළමු කඩුල්ල ලෙස ටොම් ලේතම් ලකුණු නොලබා ක්‍රීඩාගාරයට හරවා යවන්නට නිෂාන් පීරිස් සමත්වුණි.
+However, Nishan Peiris, who played his Mangala Test series, took 5 wickets.
+
+He was among the records as the 7th gamer who took 5 wickets in the Wedding Test.
+
+Sri Lanka scored 5 runs for the loss of 882 runs for the first innings of the New Zealand.
+
+Accordingly, Nishan Peiris was diagnosed with the first wicket of Tom Solimadium as the first wicket of the second innings of New Zealand.
 
 ◼️
 
 [Data](articles/d581db62.json)
 
+[Extended Data](ext_articles/d581db62.ext.json)
+
 ---
 
-### වෙල්ගම අද දැයෙන් සමුගනියි
+### Welgama says goodbye
 
 *2024-09-29 12:46:02* · [`adalk`](https://www.ada.lk/breaking_news/වෙල්ගම-අද-දැයෙන්-සමුගනියි/11-412206) · `si`
 
-හිටපු අමාත්‍ය අභාවප්‍රාප්ත වු  කුමාර වෙල්ගමමහතාගේ දේහය මහජන ගෞරවය සදහා මතුගම හොරවල පිහිටි නිවසේ තැන්පත් කර ඇත .
+Kumara Welgama (74) passes away. Former Minister's funeral at Matugama Public Stadium today at 4pm. Born in 1950, he served as Minister of Power and Energy, Transport, and Industry.
 
-වෙල්ගම මහතාගේ අවසන් කටයුතු අද (30) පස්වරු 4.00 ට මතුගම මහජන ක්‍රීඩාංගණයේදී සිදු කිරීමට නියමිතයි.
+🟩
 
-කුමාර වෙල්ගම මහතා, කොළඹ පෞද්ගලික රෝහලකදී ඊයේ (28) අලුයම අභවප්‍රාප්ත වන විට වයස, අවුරුදු 74 ක්.
+The remains of former Minister Kumara Welgama has been placed in the house of Matugama for public honor.
 
-1950 වසරේ අප්‍රේල් 05 වැනිදා උපත ලැබු කුමාර වෙල්ගම මහතා, පාරම්පරික ව්‍යාපාරික පවුලක සමාජිකයෙකි.
+Welgama's funeral will be held at the Matugama Public Stadium today at 4.00 pm.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයෙන් දේශපාලන දිවිය ආරම්භ කළ ඔහු, 1994 වසරේ පැවති මහ මැතිවරණයෙන් පොදු ජන එක්සත් පෙරමුණෙන් පාර්ලිමේන්තුවට තේරි පත් විය.
+Kumara Welgama was 74 years old when he was in front of the early hours of Colombo.
 
-විදුලිබල හා බලශක්ති රාජ්‍ය අමාත්‍යවරයා ලෙස කලක් කටයුතු කල ඔහු ප්‍රවාහන, කර්මාන්ත ඇතුලු අමාත්‍ය ධුර ගණනාවක් හෙබවූ පළපුරුදු දේශපාලඥයෙක් වේ
+Kumara Welgama was born on April 5, 1950, was a traditional business family member.
+
+He started the political career from the SLFP and was elected to Parliament from the General Elections in the 1994 General Election.
+
+As the Minister of Power and Energy, he is an experienced politician who has been a number of portfolios, including transport and industry
 
 ◼️
 
 [Data](articles/fa7c4162.json)
+
+[Extended Data](ext_articles/fa7c4162.ext.json)
 
 ---
 
@@ -346,37 +436,53 @@ Israel launched a series of air strikes since last night, targeting the Beeroot 
 
 ---
 
-### උඩරට මැණිකේට අසුචී ප්‍රහාරයක්, විදේශික යුවලක් පිඩාවට
+### Udarata Menike attack on Azuxi attack on a foreign couple
 
 *2024-09-29 10:51:40* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-මැණිකේට-අසුචී-ප්‍රහාරයක්--විදේශික-යුවලක්-පිඩාවට/11-412202) · `si`
 
-කොළඹ කොටුවේ සිට බදුල්ල දක්වා (28) දින ධාවනය වු උඩරට මැණිකේ දුම්රියේ දෙවන පන්තියේ මැදිරියකට අසුචී ප්‍රහාරයක් එල්ල කිරිම සම්බන්ධයෙන් නානුඔය දුම්රිය ස්ථානයේ නිලධාරියෙකු විසින් දිඹුල පතන පොලිසියට පැමිණිල්ලක් කර ඇත.
+Sri Lanka: Train stations attacked, foreign couple targeted. Complaints filed against vandalism and theft. Railway department investigating incidents.
 
-කොටගල සහ තලවකැලේ දුම්රිය ස්ථාන දෙක අතර පිහිටි ඩෙරික් ක්ලෙයාර් දුම්රිය ස්ථානය අසලදි එකවරම පොලිතින් උරයක යමක් දුම්රිය මැදිරිය තුලට දුම්රිය මාර්ගයේ ගමන් කල පිරිසක් විසින් විසි කර ඇති බවත්, එම අවස්තාවේ එම මැදිරිය තුල සිටි විදේශිය යුවලකට එසේ විසි පොලිතින් උර වල දමා තිබු අසුචී වැදි ඇති බවත්, පසුව දුම්රිය තලවකැලේ දුම්රිය ස්ථානය වෙත ළගා විමෙන් පසු එම විදේශිය යුවල අසුචී තැවරුණු ඇදුම් මාරු කර ඇති බවත්, තලවකැලේ දුම්රිය ස්ථානයේ සේවකයෙකු විසින් අසුචි විසිරි තිබු දුම්රිය මැදිරිය සෝදා පවිත්‍ර කිරිමෙන් අනතුරුව දුම්රිය බදුල්ල දක්වා ධාවනය කල බවයි නානුඔය දුම්රිය ස්ථානයේ නිලධාරියා විසින් පොලිසියට කර ඇති පැමිණිල්ලේ සටහන් කර ඇත්තේ.
+🟩
 
-...
+The Dimbula Railway Station has lodged a complaint with a second class compartment of the Upcountry Menike train from Colombo Fort to Badulla (28).
+
+The Derrick Claire Railway Station at Kotagala and Talawakele railway station is thrown by a group of polythene station at the same time.Nanuoya Railway Station's complaint has been shipped by the Nanu Oya Railway Station to Badulla after the railway station was then reached and washed away from the Talawaketon railway station.Noted.
+
+The Railway Department has lodged a complaint with the Railway Department to conduct a complaint with the Railway Department to investigate the Nanu Oya Railway Station.
+
+A mobile phone filter racket of the mobile phones, including foreigners traveling in the church and compartments of the upcountry and compartments were carried out on the upcountry railway line.
+
+◼️
 
 [Data](articles/a038a1b8.json)
 
+[Extended Data](ext_articles/a038a1b8.ext.json)
+
 ---
 
-### පුද්ගලයන් රැසක් රවටා කෝටි ගාණක් වංචා කළ කල්ලියක් ගැන තොරතුරු
+### Details of a gang deceived many people and cheated crores
 
 *2024-09-29 10:42:10* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලයන්-රැසක්-රවටා-කෝටි-ගාණක්-වංචා-කළ-කල්ලියක්-ගැන-තොරතුරු/11-412201) · `si`
 
-වාහන, නිවාස ඉඩකඩම් වලට කූට ලේඛන සාද දිවයිනේ විවිධ ප්‍රදේශවල පුද්ගලයන් රැසක් රවටා රුපියල් කෝටි ගණනින් මුදල් වංචාවේ යෙදුණු  සංවිධානාත්මක කල්ලියකට අයත් දෙදෙනෙක්  අත්අඩංගුවට ගත් බව කිරිබත්ගොඩ පොලිසිය කියයි.
+Gang cheats millions, rapes victims across country. Found fake health docs, sold luxury cars, real estate scams. Main suspects arrested, police investigating further.
 
-අත්අඩංගුවට පත් වූවන් අතර එම ජාවාරමේ ප්‍රධාන සැකකරුද වන බවත් ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී එලෙස ව්‍යාජ ලේඛන සකස් කර රුපියල් එක්කෝටි තිස් ලක්ෂයකට විකුණන ලද සුඛෝභෝගී මෝටර් රථයක් පන්නල ප්‍රදේශයට අලෙවි කර තිබියදී සොයා ගැනීමට හැකි වී ඇත.
+🟩
 
-දිවයිනේ විවිධ ප්‍රදේශවල නිවාස මිලදී ගැනීම් , විකිණීම් සහ අලුතින් නිවාස ඉදිකිරීමේ ව්‍යාපාරයක්ද පවත්වාගෙන ගොස් ඇති අතර එමඟින් ද පුද්ගලයන් රැසක් රවටා. මේ ආකාරයෙන් මුදල් වංචා කිරීම් රැසක් සිදු කර ඇතැයි අනාවරණය වී ඇත.
+Kiribathgoda Police say two belonging to a group of organized gang, raped in many parts of different parts of the country.
 
-සැකකරුවන්ට විරුද්ධව වැලිසර, අලුත් කඩේ යන අධිකරණවල මගින් විවෘත වරෙන්තු නිකුත් වී ඇති බවත් පොලිසිය සඳහන් කරයි
+A health documents have been found in the racket between the arrested persons and prepared a luxury car sold to the Pannalan area.
 
-අත්අඩංගුවට ගත් ප්‍රධාන සැකකරු  කඳාන ප්‍රදේශයේ පදිංචි 37 හැවිරිදි පුද්ගලයෙකු වන අතර අනෙක් සැකකරු පමුණුගම ප්‍රදේශයේ පදිංචි 39 ඇවිදි පුද්ගලයෙකි. කිරිබත්ගොඩ පොලිසිය පරීක්ෂණ පවත්වයි.
+Halls, and new housing campaigns have also been rejected by houses in different parts of the island and deceived many people. It has been revealed that there have been many frauds.
+
+The suspects have been released by open warrants through Welisara and New Kadawasaips against suspects
+
+The main suspect arrested is a 37 year old resident of Kandana and the other suspect is a resident of Pamunugama. Kiribathgoda Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/f051e8e5.json)
+
+[Extended Data](ext_articles/f051e8e5.ext.json)
 
 ---
 
@@ -809,6 +915,22 @@ The Examinations Department states that 387648 school applicants and 452931 priv
 [Data](articles/9a7580bb.json)
 
 [Extended Data](ext_articles/9a7580bb.ext.json)
+
+---
+
+### Ranil’s Departure & Anura’s Ascendancy!
+
+*2024-09-29 07:56:33* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-departure-anuras-ascendancy/) · `en`
+
+Before reflecting on the recently departed President Ranil Wickremesinghe, I would like to extend my congratulations to Anura Kumara Dissanayake, who was newly appointed as the ninth President of the Democratic Socialist Republic of Sri Lanka. Coming from a distant rural area and having embarked on a long and challenging political journey, he skilfully conducted his election campaign, achieving a remarkable victory.
+
+Although he did not secure more than 50% of the vote, increasing his vote percentage from 4.3% in 2020 to 42% is a significant achievement. Clearly, this victory is the result of the extensive campaign launched against corruption and fraud. Therefore, this can be seen as a vote primarily against corruption, fraud, waste, elitism, and the establishment.
+
+...
+
+[Data](articles/1dbfa7a4.json)
+
+[Extended Data](ext_articles/1dbfa7a4.ext.json)
 
 ---
 
@@ -2299,95 +2421,5 @@ Large scale rice mills have decided to issue rice to the market under government
 [Data](articles/a1cde248.json)
 
 [Extended Data](ext_articles/a1cde248.ext.json)
-
----
-
-### President visited the International Book Fair
-
-*2024-09-28 14:15:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/சர்வதேச-புத்தகக்-கண்காட்சியை-பார்வையிட்டார்-ஜனாதிபதி/46-344612) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake attended the 25th Colombo International Book Fair at the Bandaranaike International Conference Hall. He received a national policy on children's books from the Sri Lanka Book Publishers Association. The event featured 400 bookstores and discussions with visitors. A related exhibition will be held on September 27.
-
-🟩
-
-President Anuragumara Dissanayake visited the "Colombo International Book Fair" today (28) at the Bandaranaike International Conference Hall in Colombo for the 25th time the literary month.
-
-President of the Sri Lanka Book Publishers Association Samantha Indiwara presented the national policy on children's books to President Anura Kumara Dissanayake.
-
-With 400 bookstores set up here, the President had discussed with the people who had come to visit them.
-
-The "Colombo International Buddhist Exhibition", organized by the Sri Lanka Book Publishers Association, will be held at the Bandaranaike International Conference Hall on September 27 to 9.00 pm.
-
-Senior Professor Liyanage Amarakirthi of Peradeniya University, Additional Secretary to the Ministry of Education, Udara Dikkumbura, Director Samanthi Jayasuriya, Ruwantika Senanayake, Chairman of the Co -construction University of Moratuwa University.R
-
-◼️
-
-[Data](articles/dc63b97a.json)
-
-[Extended Data](ext_articles/dc63b97a.ext.json)
-
----
-
-### Thousands of state vehicles magic
-
-*2024-09-28 14:00:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயிரக்கணக்கான-அரச-வாகனங்கள்-மாயம்/175-344611) · `ta`
-
-State vehicles vanish under new government. Thousands gone from health, education, postal services. Report pending.
-
-🟩
-
-Thousands of state vehicles have disappeared in the past and a full report on the missing vehicles will be prepared.. Wickramaratne said.
-
-After the new government came to power, many official vehicles used by former ministry secretaries and president's advisers were recently parked in the Galle Face.
-
-Against this backdrop, thousands of vehicles belonging to many state institutions including health, education, postal, irrigation and presidential secretariat have been reported to the National Audit Office that they have disappeared in the past.. Remble
-
-◼️
-
-[Data](articles/45924c83.json)
-
-[Extended Data](ext_articles/45924c83.ext.json)
-
----
-
-### Hezbollah captain Nasaralla dies in a massive attack
-
-*2024-09-28 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201628) · `si`
-
-Hezbollah leader Nasrallah killed in Israeli airstrikes on Beirut. Six others injured, 91 wounded. Israel targets Lebanon's capital.
-
-🟩
-
-The Israeli defense unit said that Israeli air strikes were killed by Israeli air strikes on the capital city of Beretty capital.
-
-Israel launched a series of air strikes yesterday afternoon targeting the Beeroot capital of Lebanon.
-
-Another six injured in these attacks were killed and 91 wounded.
-
-◼️
-
-[Data](articles/b15fec9b.json)
-
-[Extended Data](ext_articles/b15fec9b.ext.json)
-
----
-
-### Hezbollah leader Hassan Nasrallah killed in Beirut strike - Israel Army
-
-*2024-09-28 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102321/hezbollah-leader-hassan-nasrallah-killed-in-beirut-strike-israel-army) · `en`
-
-The Israeli military said Saturday that they had killed Hassan Nasrallah, the leader of the Hezbollah militant group, in a strike in Beirut on Friday.
-
-The military said that they carried out a precise airstrike while Hezbollah leadership was meeting at their headquarters in Dahiyeh, south of Beirut.
-
-Israel maintained a heavy barrage of airstrikes against Hezbollah on Saturday, as Hezbollah launched dozens of rockets toward Israel.
-
-The Israeli military said it was mobilizing additional reserve soldiers as tensions escalate with Lebanon. The military said Saturday morning it was activating three battalions of reserve soldiers, after earlier sending two brigades to northern Israel earlier in the week to train for a possible ground invasion.
-
-...
-
-[Data](articles/cbef8c3f.json)
-
-[Extended Data](ext_articles/cbef8c3f.ext.json)
 
 ---

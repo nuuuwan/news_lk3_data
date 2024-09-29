@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 05:07:48**
+As of **2024-09-30 05:22:57**
 
 ## Newspaper Stats
 
-*Scraped **46,913** Articles*
+*Scraped **46,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 463
 colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
-dailyftlk | 3,137
+dailyftlk | 3,141
 adalk | 4,332
 dailymirrorlk | 4,733
 adaderanalk | 5,518
@@ -26,11 +26,79 @@ adaderanasinhalalk | 8,109
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,913 (100.0%) of 46,913 articles have been extended.
+46,913 (100.0%) of 46,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### CA Sri Lanka to equip private sector to defeat corruption
+
+*2024-09-30 04:51:03* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-to-equip-private-sector-to-defeat-corruption/34-767313) · `en`
+
+From left: CIABOC Commissioner Chethiya Goonesekera, The Ceylon Chamber of Commerce former Chairman Suresh Shah, and CA Council Member and Ernst & Young Partner Anoji De Silva
+
+A recent session organised by the Policy Advocacy and Economic Contribution Committee (PAEC Committee) of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) focused on how the private sector can act as a catalyst in fighting corruption, with a specific emphasis on the responsibilities of directors.
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) is essential for promoting accountability and combating corruption in Sri Lanka. The recently enacted Anti-Corruption Act, No. 9 of 2023, plays a pivotal role in reinforcing integrity and ethical conduct within public service.
+
+The CA session aimed to raise awareness about anti-corruption initiatives, engage the private sector, and explore actionable measures beyond legislation.
+
+...
+
+[Data](articles/bd4c978a.json)
+
+---
+
+### Hatch partners with the Lankan Angel Network to host “She Loves Tech” to empower Sri Lankan women in tech
+
+*2024-09-30 04:48:04* · [`dailyftlk`](https://www.ft.lk/business/Hatch-partners-with-the-Lankan-Angel-Network-to-host-She-Loves-Tech-to-empower-Sri-Lankan-women-in-tech/34-767312) · `en`
+
+From: Hatch Senior Program Manager Ruvanara Tillekeratne, Ceylon Speechie Founder Nadini Perera, Hatch Director Brindha Selvadurai, and Lankan Angel Network Principal Dinali de Silva
+
+From left: Hatch Senior Program Manager Ruvanara Tillekeratne, Ophtha Innovations CEO Dr. Dhanushi Hettiarachchi, Women In Tech Ambassador – Sri Lanka Chapter Chathini Uduwana, and Dialog Ideamart Senior Tech Evangelist Dushantha Ranwala
+
+AnybanQ Founder Petula Wijesinghe pitching at the She Loves Tech Semi Finals
+
+In 2024, as technology advances and reshapes the future workforce, the underrepresentation of women in STEM remains a significant challenge. Despite the growing demand for skilled professionals in science, technology, engineering, and mathematics (STEM), women only account for 34% of the STEM workforce.
+
+...
+
+[Data](articles/3d02c189.json)
+
+---
+
+### Ceylon Beverage Holdings announces new additions to Board
+
+*2024-09-30 04:42:29* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Beverage-Holdings-announces-new-additions-to-Board/34-767311) · `en`
+
+Ceylon Beverage Holdings PLC has announced the appointment of Jonathan Alles, Ajay Bhaskar Baliga, and Saktha Amaratunga as Independent Non-Executive Directors on its Board.
+
+Alles and Amaratunga have also been appointed to the Board of Lion Brewery Ceylon PLC.
+
+Alles was the Managing Director/Chief Executive Officer of Hatton National Bank PLC, one of Sri Lanka’s largest private sector banks. He counts over 37 years of banking experience, having served several international banks including the National Bank of Abu-Dhabi, Saudi British Bank-Riyadh, British Bank of the Middle-East, and HSBC, Dubai and Colombo, before taking on the reins at HNB.
+
+...
+
+[Data](articles/c17d8b01.json)
+
+---
+
+### Vidullanka appoints Professor Anura Wijeyapala to Board of Directors
+
+*2024-09-30 04:40:44* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-appoints-Professor-Anura-Wijeyapala-to-Board-of-Directors/34-767310) · `en`
+
+Vidullanka PLC announced the appointment of Prof. Anura Wijeyapala to its Board of Directors as an Independent Non-Executive Director, effective 26 September 2024.
+
+Prof. Anura Wijayapala is a renowned academic and an electricity industry professional in Sri Lanka, with over 25 years of experience in the field. He was the Chairman of the Ceylon Electricity Board in 2015, having previously served as Vice Chairman. He was the Chief Executive Officer of Windforce Ltd. from 2018 to 2020 and he was the Chairman of NERD Center, the Trincomalee Coal Power Company Ltd., and Sri Lanka Energies Ltd. Moreover, he was a director on the boards of LTL Holdings Ltd., Lanka Electricity Company Ltd., and Lanka Coal Company Ltd. between 2015 and 2017.
+
+He is a Fellow of the Institute of Engineers, Sri Lanka and an International Professional Engineer, and a Corporate Life Member of the Sri Lanka Energy Managers Association.
+
+...
+
+[Data](articles/1a39976d.json)
+
+---
 
 ### Reyaz, Ravi join Madulsima Plantations Board
 
@@ -2283,107 +2351,5 @@ Tamil and Muslim communities welcome PM Harini Amarasuriya. She emphasizes inves
 [Data](articles/7a1137da.json)
 
 [Extended Data](ext_articles/7a1137da.ext.json)
-
----
-
-### Excise chief denies claims over issuance of excise license
-
-*2024-09-29 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102333/excise-chief-denies-claims-over-issuance-of-excise-license) · `en`
-
-The Commissioner General of Excise, M.J. Gunasiri, stated that claims made by certain parties regarding the alleged illegal issuance of a large number of excise licenses during the Presidential Election period are false.
-
-He clarified that only 172 excise licenses have been issued since May 2023 in accordance with a government policy decision.
-
-The Commissioner General further noted that these 172 licenses issued have generated an income of Rs. 2.2 billion.
-
-Meanwhile, the Excise Commissioner General also said that all the relevant companies have agreed to settle their tax arrears for 2023 and 2024 before November 30.
-
-◼️
-
-[Data](articles/c9fecb2a.json)
-
-[Extended Data](ext_articles/c9fecb2a.ext.json)
-
----
-
-### Iran protests against Israel
-
-*2024-09-29 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201656) · `si`
-
-Iran protests against Israel: Students join demonstrations in Tehran, criticizing attacks on Hezbollah in Lebanon. Protests spread across several cities, including the capital. Violence increased over the weekend as Israel launched airstrikes targeting Beirut.
-
-🟩
-
-An protest in Iran has launched against Israel, foreign media reports.
-
-Iranian people have opposed the attack on Israel targeting Lebanon.
-
-Foreign reports have shown that students have been taken in the protest.
-
-Hezbollah Organization and Heads of Hamas and the leaders of the Iranian leaders were protesting.
-
-Foreign media reports that the protests in general area Tehran's capital had protesting in several cities.
-
-The protests were held and criticized the attacks on the Hezbollah in Lebanon in Lebanon.
-
-The beginning of this week was the beginning of this week.
-
-It had been more violent in the weekend.
-
-Israel launched a series of air strikes since last night, targeting the Beeroot capital of Lebanon.
-
-◼️
-
-[Data](articles/ae3f5731.json)
-
-[Extended Data](ext_articles/ae3f5731.ext.json)
-
----
-
-### Rishard's national organizer resigns
-
-*2024-09-29 11:01:12* · [`adalk`](https://www.ada.lk/breaking_news/රිෂාඩ්ගේ-පක්ෂයේ-ජාතික-සංවිධායක-ඉවත්වෙයි/11-412204) · `si`
-
-Rishard's national organizer quits Lanka People Congress. Former State Minister Abdullah Maharupp cites disappointment over party decisions. Resignation letter to be submitted soon. Ready to contest elections in another party.
-
-🟩
-
-Former State Minister and former Parliamentarian Abdullah Maharupp said that the entire Lanka People Congress was resigned from the National Organizer of the All Ceylon Public Congress.
-
-He said this at a press conference held at his party office in Kinniya, Trincomalee yesterday.
-
-Speaking further Mr. Mahutha Leader Rishad Banithan visited the Kinniya and discussed the organizers. I gave the nomination at another. I made great sacrifices to this party for ten years and took a large number of votes. I was disappointed, as I can't stay in this situation. My resignation will be given to the party leadership in writing in writing. In the future, I am ready to contest the general election in another party. He could not say what the party was.
-
-The All Ceylon General of Congress supported the entire Presidential Election with former President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/2621da89.json)
-
-[Extended Data](ext_articles/2621da89.ext.json)
-
----
-
-### Udarata Menike attack on Azuxi attack on a foreign couple
-
-*2024-09-29 10:51:40* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-මැණිකේට-අසුචී-ප්‍රහාරයක්--විදේශික-යුවලක්-පිඩාවට/11-412202) · `si`
-
-Sri Lanka: Train stations attacked, foreign couple targeted. Complaints filed against vandalism and theft. Railway department investigating incidents.
-
-🟩
-
-The Dimbula Railway Station has lodged a complaint with a second class compartment of the Upcountry Menike train from Colombo Fort to Badulla (28).
-
-The Derrick Claire Railway Station at Kotagala and Talawakele railway station is thrown by a group of polythene station at the same time.Nanuoya Railway Station's complaint has been shipped by the Nanu Oya Railway Station to Badulla after the railway station was then reached and washed away from the Talawaketon railway station.Noted.
-
-The Railway Department has lodged a complaint with the Railway Department to conduct a complaint with the Railway Department to investigate the Nanu Oya Railway Station.
-
-A mobile phone filter racket of the mobile phones, including foreigners traveling in the church and compartments of the upcountry and compartments were carried out on the upcountry railway line.
-
-◼️
-
-[Data](articles/a038a1b8.json)
-
-[Extended Data](ext_articles/a038a1b8.ext.json)
 
 ---

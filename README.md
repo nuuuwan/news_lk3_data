@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 04:56:52**
+As of **2024-09-30 05:07:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,109
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,912 (100.0%) of 46,913 articles have been extended.
+46,913 (100.0%) of 46,913 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -167,6 +167,8 @@ After Hezbollah confirmed Nasrallah’s death, Iranian media reported that Gener
 ...
 
 [Data](articles/0e332e23.json)
+
+[Extended Data](ext_articles/0e332e23.ext.json)
 
 ---
 

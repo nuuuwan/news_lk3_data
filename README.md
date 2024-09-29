@@ -1,36 +1,96 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 15:57:03**
+As of **2024-09-29 16:10:16**
 
 ## Newspaper Stats
 
-*Scraped **46,841** Articles*
+*Scraped **46,844** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 389
 bbccomsinhala | 463
-colombotelegraphcom | 467
+colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
 adalk | 4,322
 dailymirrorlk | 4,733
 adaderanalk | 5,511
-tamilmirrorlk | 6,289
+tamilmirrorlk | 6,290
 virakesarilk | 7,481
-adaderanasinhalalk | 8,100
+adaderanasinhalalk | 8,101
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,841 (100.0%) of 46,841 articles have been extended.
+46,844 (100.0%) of 46,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Vijitha Constitutional Council as the President's representative
+
+*2024-09-29 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201663) · `si`
+
+Here's a 200-character summary:
+
+
+
+Minister Vijitha Herath named President's rep for Legislative Council. Speaker Mahinda Yapa Abeywardena confirms appointment. Former Minister Nimal Siripala de Silva removed. Dr. Harani Amarasuriya elected new member. Constitutional Council meets next month. Opposition Leader Sajith Premadasa joins Legislative Council. New government appoints Pradeep Yasaratne as Secretary to Ministry of Justice, Public Administration, Home Affairs, Provincial Councils and Labor Ministries.
+
+🟩
+
+Minister Vijitha Herath has been appointed as the President's representative for the legislative council.
+
+Speaker Mahinda Yapa Abeywardena stated that President Anura Kumara Dissanayake has commanded the nomination.
+
+Accordingly, former Minister Nimal Siripala de Silva has been removed from the legislative church.
+
+In addition, Dr. Haraini Amarasuriya is also elected as a new member of the Legislative Council.
+
+The Parliament should be dissolved and the new Parliament should continue to be continued until the new Parliament is formed.
+
+Accordingly, the constitutional council will meet on the 9th of next month following the new president.
+
+Opposition Leader Sajith Premadasa and Kabir Hashim and Optoral Members of Parliament and the three civilian members of the Legislative church serve as other members of the Legislative Council.
+
+Meanwhile, the Secretary to the Ministry of Justice, Public Administration, Home Affairs, Provincial Councils and Labor Ministries have been vigilant.
+
+...
+
+[Data](articles/772e47a5.json)
+
+[Extended Data](ext_articles/772e47a5.ext.json)
+
+---
+
+### Two people arrested for video
+
+*2024-09-29 15:28:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்களை-காணொளியாக்கிய-இருவர்-கைது/175-344658) · `ta`
+
+Two youths arrested for sharing video of female police officer on social media. Incident occurred in Chilaw area.
+
+🟩
+
+Chilaw police said that two youths (29) were arrested on Sunday, posting a video of a female police officer and sharing it on social media.
+
+The arrested persons are from Chilaw Pangadeniya and Kumarakatuwa areas.
+
+As the youth arrived at the police station on the 27th of last month, the female police officer on duty recorded the footsteps of the police officer and posted it on social media.
+
+The victim's police officer and top officials have complained to top officials claiming that the video has been released on social media. Police have arrested two men on suspicion.
+
+◼️
+
+[Data](articles/7d11d74f.json)
+
+[Extended Data](ext_articles/7d11d74f.ext.json)
+
+---
 
 ### President’s decision on parliamentary election expenses
 
@@ -821,6 +881,22 @@ All companies have agreed to complete the payment before November 30, the year 2
 [Data](articles/a6d0ec97.json)
 
 [Extended Data](ext_articles/a6d0ec97.ext.json)
+
+---
+
+### An Appeal To The Tamil Diaspora For Constructive Engagement
+
+*2024-09-29 09:52:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-appeal-to-the-tamil-diaspora-for-constructive-engagement/) · `en`
+
+It is time for us to face the reality that the dream of Tamil Eelam is over, and clinging to this idea will only hinder the progress and well-being of our people. Revisiting the painful final days of the war, debating who was involved, and speculating on alternative outcomes are not productive. They only serve to deepen wounds and create further division within our community and the nation as a whole. Instead, we must focus on the future—one that promotes healing, unity, and cooperation.
+
+Reliving these events in endless debates may feel like a way to process our loss, but in truth, it is a distraction. Our homeland’s future depends on finding ways to move forward. The current political leadership (NPP), which itself has experienced defeat and decimation not once but twice, has managed to reconcile and secure the trust of the majority. They have shown that it is possible to rise above the bitterness of the past, and we must take a page from their book.
+
+...
+
+[Data](articles/28864e92.json)
+
+[Extended Data](ext_articles/28864e92.ext.json)
 
 ---
 
@@ -2311,77 +2387,5 @@ The police were involved in vehicle audit that night. Due to a male corpse in th
 [Data](articles/6672771e.json)
 
 [Extended Data](ext_articles/6672771e.ext.json)
-
----
-
-### Simran joins Sasikumar for the first time
-
-*2024-09-28 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/194993) · `ta`
-
-Simran pairs with Sasikumar in upcoming film. Crew excited about October shoot start. Beta marks first collaboration between actors.
-
-🟩
-
-The film crew has said that actress Simran is paired opposite him in an unnamed film starring actor Sasikumar.
-
-Sasikumar, Simran, Mithun Jaishankar, Kamalesh, Yogi Babu, Ramesh Tilak, MS. Bhaskar, Bucks, Bhagwati Perumal and many others.
-
-The film is being produced by Million Studios and MRB Entertainment, produced by producers Nazareth Baslien, Mahesh Raj Baslien and Yuvraj Ganesan.
-
-The film crew is excited that the shooting of the film will begin in the first week of October and that the film is scheduled to be released next year.
-
-The film has been officially releasing the film fans as the star actor Sasikumar, who has been successful in the story of 'Ayodhya', 'Garuda' and 'Nandan', has been cast as the hero of the story and the film is the first to pair with Simran and Sasikumar in the film 'Beta'.
-
-◼️
-
-[Data](articles/9d6bfff4.json)
-
-[Extended Data](ext_articles/9d6bfff4.ext.json)
-
----
-
-### Sri Lanka’s new  Govt led by  President  Anura  Kumar  Dissanayake Restores  Country’s Old Visa System  in Adherence to a Recent Supreme Court Ruling
-
-*2024-09-28 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84810) · `en`
-
-Sri Lanka’s newly elected government led byPresident Anura Kumara Dissanayake has restored the country’s old visa system, adhering to a recent Supreme Court order that suspended a controversial new portal managed by a consortium including an Indian company.
-
-The announcement was made late on Thursday (September 26, 2024), almost two months after the country’s top court directed immigration authorities to revert to the online platform that was in use before the Ranil Wickremesinghe administration switched to the new system, roping in GBS Technology Services, the India-registered IVS Global Services, and VFS Global.
-
-In April this year, Mr. Wickremesinghe’s government opted for the new system. Following the move, Sri Lanka’s visa fee nearly doubled, sparking concern within the island nation’s tourism industry, a key foreign exchange earner.
-
-...
-
-[Data](articles/3efb746b.json)
-
-[Extended Data](ext_articles/3efb746b.ext.json)
-
----
-
-### Dudley comes to support of new government - to all rice control
-
-*2024-09-28 17:30:23* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආණ්ඩුවේ-සහායට-ඩඩ්ලි-එයි---සියලුම-සහල්-පාලන-මිලට/11-412193) · `si`
-
-Governor Dudley Sirisena supports new government's rice control measures. Promises continued rice supply from April 28. Criticizes previous administration's handling of agriculture. Emphasizes importance of developing diverse rice varieties. Expresses intention to participate in future elections.
-
-🟩
-
-The Governor of the Rice Dudley Sirisena says he will continue to pay all rice control purchases from 28th and cooperation.
-
-He also agreed to provide rice to all consumers from 28 April, he added.
-
-Dudley Sirisena was speaking at a press conference at the Polonnaruwa area on the 28th.
-
-Dudley Sirisena said that he was supported by the preserved prices of the President of the President of Anura Kumara Dissanayake, who is now in powerful for injustice, injustice and corruption.
-
-Sirisena said that more people in Sri Lanka were consumption of Nadu rice and he had the right to speak against the government in order to speak about paddy and rice.
-
-Sirisena, who spoke of Samba, Nadu, milk samba, cultivating the advantages of cultivation, the government should be prepared to cultivate various varieties of varieties of paddy fields.
-
-...
-
-[Data](articles/66dac0b4.json)
-
-[Extended Data](ext_articles/66dac0b4.ext.json)
 
 ---

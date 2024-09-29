@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 21:38:10**
+As of **2024-09-29 21:57:51**
 
 ## Newspaper Stats
 
-*Scraped **46,888** Articles*
+*Scraped **46,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 463
 colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
-dailyftlk | 3,129
+dailyftlk | 3,130
 adalk | 4,331
 dailymirrorlk | 4,733
 adaderanalk | 5,516
-tamilmirrorlk | 6,295
+tamilmirrorlk | 6,296
 virakesarilk | 7,500
 adaderanasinhalalk | 8,107
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,107
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,888 (100.0%) of 46,888 articles have been extended.
+46,890 (100.0%) of 46,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Special Notice of O/L Grades
+
+*2024-09-29 21:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-l-பெறுபேறுகள்-குறித்து-விஷேட-அறிவிப்பு/175-344678) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+244,228 students qualify for GCE Ordinary Level Exam. Review applications accepted Oct 1-14. Commissioner General Amit Jayasundera announces results and application timeline.
+
+🟩
+
+The Commissioner General of Examinations Amit Jayasundera said that 244,228 students qualified for the GCE Ordinary Level Examination.
+
+The Commissioner General of Examinations Amit Jayasundara said that the review applications for the GCE Ordinary Level Examination will be submitted from October 1 to 14. Remble
+
+◼️
+
+[Data](articles/0174e40c.json)
+
+[Extended Data](ext_articles/0174e40c.ext.json)
+
+---
 
 ### Will the UNP and CPA continue to collapse?
 
@@ -2339,27 +2363,5 @@ Prime Minister Dr. Haraney Amarasuriya participated in the event. The Prime Mini
 [Data](articles/e9c19452.json)
 
 [Extended Data](ext_articles/e9c19452.ext.json)
-
----
-
-### Notice of the date of calling for re-survey applications
-
-*2024-09-29 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201651) · `si`
-
-GCE Ordinary Level exam resurvey application notice: Apply 1st-14th via 011 2785922 or 011 2786922.
-
-🟩
-
-The Department of Examinations has issued an announcement regarding the call for applications for the results of the GCE Ordinary Level examination.
-
-Accordingly, the applications are being carried out from 1st to 14th.
-
-The Department of Examinations said that the 1912 instant telephone number, 011 2 785 922, 011 2 786, 011 2 786 or 011 2 786 or 011 2 786 or 011 2 786.
-
-◼️
-
-[Data](articles/83c34cc3.json)
-
-[Extended Data](ext_articles/83c34cc3.ext.json)
 
 ---

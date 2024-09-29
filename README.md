@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 19:56:30**
+As of **2024-09-29 20:09:00**
 
 ## Newspaper Stats
 
@@ -26,25 +26,37 @@ adaderanasinhalalk | 8,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,866 (100.0%) of 46,882 articles have been extended.
+46,875 (100.0%) of 46,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
 
-### சுமந்திரனின் அழைப்பு அமைவாக தமிழ்த்தேசியக்கூட்டமைப்பில் ஒருபோதும் இணையமாட்டேன் - சி.வி.விக்கினேஸ்வரன்
+### Sumanthiran's call will never join the Tamil National Alliance - CV Vigneswaran
 
 *2024-09-29 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195083) · `ta`
 
-சுமந்திரனின் அழைப்பு அமைவாக தான் தமிழ்த்தேசியக் கூட்டமைப்பில் இணையப்போவதில்லை எனத் தெரிவித்திருக்கும் தமிழ் மக்கள் கூட்டணியின் பாராளுமன்ற உறுப்பினர் சி.வி.விக்கினேஸ்வரன், 'அதனை வேண்டுபவர்களின் கடந்தகால சிந்தனைகளும் நடத்தைகளும் அதற்கு அனுசரணை தருவதாக அமைந்திருந்தனவா என்பதை எமது மக்கள் சிந்திக்க வேண்டும்.
+Here's a 200-character summary of the text:
 
-சுயநலவாதிகளைக் களைந்து உண்மையாகத் தேசியத்தை விரும்புபவர்கள் யார் என்று அடையாளம் கண்டு அவர்களை ஒன்றிணைக்க முன்வரவேண்டும். ஆகவே நாங்கள் தமிழ்த்தேசியக் கூட்டமைப்பில் சேரும் வாய்ப்புக்கள் இல்லை. சுட்ட மண்ணும் சுடாத மண்ணும் என்றென்றும் ஒன்று சேராது' எனக் குறிப்பிட்டிருக்கிறார்.
 
-'வாரம் ஒரு கேள்வி' பகுதியில், 'சுமந்திரன் தமிழ்த்தேசிய கூட்டமைப்பில் இருந்து பிரிந்து சென்றவர்களை திரும்ப அழைத்துள்ளார். நீங்களும் தமிழ்த் தேசியத்தில் ஈடுபாடுடையவர்கள் அனைவரும் சேர்ந்து தேர்தலில் நிற்பது அவசியம் என்று கூறியுள்ளீர்கள். அப்படியானால் நீங்களும் தமிழ்த்தேசியக் கூட்டமைப்பில் மீண்டும் சேரும் வாய்ப்புக்கள் உள்ளதா?' என எழுப்பப்பட்டிருக்கும் கேள்விக்கு பதிலளித்திருக்கும் அவர் மேலும் கூறியிருப்பதாவது:
+
+CV Vigneswaran rejects joining Tamil National Alliance, citing selfish motives. Emphasizes unity among true nationalists over party affiliations. Criticizes TNA leader for opposing Tamil candidate. Advocates youth-led Tamil nationalism, rejecting symbol-based politics.
+
+🟩
+
+CV Vigneswaran, a Member of Parliament of the Tamil People's Alliance, who said he would not join the Tamil National Alliance (TNA), said, “Our people should think that the past thoughts and behavior of those who seek it was a spatter.
+
+We need to identify the selfish people and come forward to unite those who really like the nationality. So we do not have the opportunity to join the Tamil National Alliance. Baked soil and not shot soil will never come together. '
+
+In the 'Week One Question' area. You have said that you and all those who are involved in Tamil nationalism are necessary to stand together. Do you have the opportunity to join the Tamil National Alliance? 'He has responded to the question that has been raised:
+
+Parties, allies or symbols are not important to Tamil nationalism. Tamil people are important. Recently, on behalf of the Tamil people, 7 national parties and 80 civil society joined the presidential election.
 
 ...
 
 [Data](articles/1cf35945.json)
+
+[Extended Data](ext_articles/1cf35945.ext.json)
 
 ---
 
@@ -58,89 +70,155 @@ Sri Lanka Police today advised customers of banks not to share their One Time Pa
 
 [Data](articles/848c1981.json)
 
+[Extended Data](ext_articles/848c1981.ext.json)
+
 ---
 
-### பலஸ்தீன இனப்படுகொலையும் காசா அழிவும் அமெரிக்க - ஐரோப்பிய கூட்டாண்மை   நிறுவனங்களுக்கான இலாபகரமான வர்த்தகம்
+### Palestinian genocide and Gaza destruction is a profitable trade for US -European partnerships
 
 *2024-09-29 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195033) · `ta`
 
-படுகொலைகள் முடிவுக்கு வரப்பட வேண்டும் என சாதாரண மக்கள் தெளிவுபடுத்தியுள்ளனர், அதனால்தான் பைடன் போர்நிறுத்த பேச்சுவார்த்தை நடத்த "அயராது உழைப்பதாக" பாசாங்கு செய்கின்றார். ஒரு போர்நிறுத்தத்தைகொண்டு வர அவரால் முடியும். ஆனால் உண்மை என்னவென்றால், மேற்கத்திய அரசியல் இப்போது மக்களின் கோரிக்கைக்கு முற்றிலும் செவிசாய்க்காத ஒருபோக்கில் உள்ளது. ஜனநாயக பொறுப்புக்கூறலின் கடைசி எச்சங்கள் பல ஆண்டுகளுக்கு முனபே மேற்கத்திய அரசியல் அமைப்புகளால் அழிக்கப்பட்டு விட்டன.  மேற்கத்திய அரசியல் என்பது இப்போது சக்தி மிக்க வர்த்தக கூட்டானமைகளால் கைப்பற்றப்பட்ட  நிலையில் உள்ளன.
+US-European partnerships profit from Palestinian genocide and Gaza destruction. Biden claims ceasefire efforts but Western politics ignores public demands, controlled by trade alliances. Democratic accountability lost, prioritizing profits over people's lives.
+
+🟩
+
+Ordinary people have made it clear that the killings should be over, which is why Bidan pretends to “work tirelessly” to negotiate a ceasefire. He can come with a ceasefire. But the truth is that Western politics is now in a single thing that does not listen to the demand of the people. The last remnants of democratic accountability have been destroyed by Western political organizations for many years. Western politics are now captured by powerful trade alliances.
 
 ◼️
 
 [Data](articles/9d366a58.json)
 
+[Extended Data](ext_articles/9d366a58.ext.json)
+
 ---
 
-### வியட்நாம் போலாகுமா இலங்கை?
+### Is Sri Lanka like Vietnam?
 
 *2024-09-29 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195038) · `ta`
 
-நாட்டை கைத்தொழில் மயமாக்குவதற்குரிய வகையிலும் நவீன மயமாக்குவதற்குரிய வகையிலும் சாதகமான அமைதியான நிரந்தர சூழலை உருவாக்குவது, மக்களின் சுதந்திரத்திற்கான பாதுகாப்பை வளங்குவது, இறையாண்மை ஒற்றமை மற்றம் பிராந்திய ஒருமைப்பாடு ஆகியவற்றை பாதுகாப்பது,  நடைமுறை வியட்நாமிய அரசாங்கத்தின் அடிப்படைக் கொள்கையாகவுள்ளது.  அந்த வகையில் வியட்நாமிய இராஜதந்திரம் தென்கிழக்காசியாவில் செல்வாக்குப் பெற்றதொரு கட்டமைப்பாக இருந்து வருகிறது. ஆனால் தெற்காசியாவில் இலங்கைத்தீவில் பேரினவாத மத செல்வாக்குகளுக்கு அப்பால் இத்தகையதொரு பொதுக்கொள்கையை உருவாக்கி கட்டுக்குள் வைத்திருப்பது என்பது மிகப்பெரும் சவாலாகும்.
+Sri Lanka differs from Vietnam:
+
+
+
+Vietnam focuses on industrialization, freedom, sovereignty, and regional stability. Its diplomacy influences Southeast Asia.
+
+
+
+Sri Lanka faces challenges in implementing similar policies due to local political dynamics and regional differences.
+
+🟩
+
+Creating a positive peaceful permanent environment for the industrialization of the country, the protection of the protection of the freedom of the people, the protection of sovereignty and regional integrity, is the basic policy of the practical Vietnamese government.. Vietnamese diplomacy has been an influential structure in Southeast Asia. But it is a huge challenge to create and control such a public policy beyond chauvinist influence in Sri Lanka in South Asia.
 
 ◼️
 
 [Data](articles/fa73015c.json)
 
+[Extended Data](ext_articles/fa73015c.ext.json)
+
 ---
 
-### அனுரவின் வெற்றியும்   புதிய நம்பிக்கையும்
+### Anura's success and new hope
 
 *2024-09-29 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195042) · `ta`
 
-அநுரகுமார திசாநாயக்கவின் மேட்டுக்குடி சிந்தனை இல்லாத, அலப்பறையற்ற இயல்பான செயற்பாடுகளும், நேர்த்தியான பேச்சும், சுறுசுறுப்பான அணுகுமுறையும் மக்களைக் கவர்ந்தன. கட்டமைக்கப்பட்ட இயக்கச் செயற்பாடுகளும் சமூக ஊடகப் பிரசாரங்களும்; ‘ரட்ட அனுரட்ட’ என்ற பாடலும் இந்த வெற்றியில் கணிசமான பங்கை வகித்திருக்கின்றன.
+Here's a 200-character summary:
+
+
+
+Anura's success stems from Anuragumara Dissanayake's absence. His elegant speeches and proactive attitude drew crowds. The "Building Movement" campaign and social media efforts contributed to his popularity. The song "Ratta Anuradha" played a crucial role in his triumph.
+
+🟩
+
+Anuragumara Dissanayake's absence, the absence of the absence of the mind, the elegant speech and the active attitude attracted the people.. Building movement and social media campaigns;The song 'Ratta Anuradha' played a significant role in this success.
 
 ◼️
 
 [Data](articles/29cb7954.json)
 
+[Extended Data](ext_articles/29cb7954.ext.json)
+
 ---
 
-### நம்பிக்கைக்கு உரியனவா நம் கையில் உள்ள இலத்திரனியல் உபகரணங்கள்?
+### Are the electronic equipment in our hands?
 
 *2024-09-29 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195047) · `ta`
 
-லெபனான் ஹிஸ்புல்லாக் குழுவினர் இதுபோன்ற தாக்குதல்கள் தம்மீது நடத்தப்படலாம் என்று எதிர்பார்த்தே இருந்தனர். அவர்களது எதிர்பார்ப்பு எல்லாம் தங்கள் செல்லிடப் பேசி கண்காணிக்கப்படலாம், அவற்றை இலக்கு வைத்துத் தாக்குதல்கள் நடத்தப்படலாம் என்பதாகவே இருந்தது.அதனாலேயே அவர்கள் பழைய தயாரிப்புகளான பேஜர், வாக்கி டோக்கி என்பவற்றைப் பாவிக்க முனைந்தனர். தற்போது அவை கூடத் தாக்குதல் கருவிகளாக மாற்றப்பட்டு விட்ட நிலையில் அவர்களது எதிர்காலத் தொடர்பாடல் கேள்ளவி குறியாக மாறியுள்ளது.
+Lebanon Hizbulock group expects attacks on their electronic equipment. They anticipated monitoring and targeting. Now, their devices have been turned against them, compromising future communications.
+
+🟩
+
+The Lebanon Hizbulock group was expecting such attacks on them. Their expectations were that all of them could be monitored and attacked by targeting them.. They have now been converted into attack equipment and their future communication has become a scam.
 
 ◼️
 
 [Data](articles/9df2a741.json)
 
+[Extended Data](ext_articles/9df2a741.ext.json)
+
 ---
 
-### அநுரவை வெல்ல வைத்தது யார்?
+### Who made Anura beat?
 
 *2024-09-29 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/195058) · `ta`
 
-ஜனாதிபதி தேர்தலில் மூன்று இலட்சம் வாக்குகள் செல்லுபடியற்றதாகின. 38 இலட்சம் வாக்குகள் செலுத்தப்படவில்லை . இவை இரண்டுமே வெற்றியைத் தீர்மானிக்கும் காரணிகளில் முக்கியமானவை.
+Anura beat was likely due to:
+
+
+
+1. Invalid votes: 300k
+
+2. Unpaid votes: 380k
+
+
+
+These factors significantly impacted the outcome, making them crucial determinants of success.
+
+🟩
+
+Three hundred thousand votes were invalid in the presidential election. 38 lakh votes were not paid. Both of these are the most important factors that determine success.
 
 ◼️
 
 [Data](articles/8b695094.json)
 
+[Extended Data](ext_articles/8b695094.ext.json)
+
 ---
 
-### தமிழ், முஸ்லிம் கட்சிகளின் ‘மெகா’ கூட்டணி சாத்தியமா?
+### Is the Mega Alliance of Tamil and Muslim parties possible?
 
 *2024-09-29 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195063) · `ta`
 
-அகில இலங்கை மக்கள் காங்கிரஸின் உயர்பீடக் கூட்டத்திலும் சூடான வாக்குவாதங்கள் நடைபெற்றுள்ளன. இங்கும் புதியவர்களை வேட்பாளர்களாக நிறுத்த வேண்டுமென்று வலியுறுத்தப்பட்டுள்ளன. ஜனாதிபதித் தேர்தலில் கட்சியின் தீர்மானத்திற்கு மாற்றமாக செயற்பட்டவர்களுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்க வேண்டுமென்று வாக்குவாதங்கள் நடைபெற்றுள்ளன. அம்பாறை, புத்தளம் ஆகிய மாவட்டங்களில் தனித்துப் போட்டியிடுவதற்கும் தீர்மானிக்கப்பட்டுள்ளன.  தேசிய காங்கிரஸ் அம்பாறை மாவட்டத்தில் தனித்து போட்டியிடுவதற்கு தீர்மானித்துள்ளதாக அக்கட்சியின் வட்டாரங்கள் தெரிவிக்கின்றன.
+Mega alliance between Tamil and Muslim parties debated. All Ceylon People's Congress discusses fielding newcomers and disciplining rebels. National Congress plans separate contests in Ampara and Puttalam districts.
+
+🟩
+
+Hot arguments have also been held at the All Ceylon People's Congress. Here are also urged to field newcomers as candidates. There have been arguments to take disciplinary action against those who have been replacing the party's decision in the presidential election. It has also been decided to contest separately in Ampara and Puttalam districts. The National Congress has decided to contest separately in the Ampara district, sources of the party said.
 
 ◼️
 
 [Data](articles/6d7732fe.json)
 
+[Extended Data](ext_articles/6d7732fe.ext.json)
+
 ---
 
-### தோல்வியடைந்ததா இந்தியா?
+### Did India fail?
 
 *2024-09-29 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195066) · `ta`
 
-அநுரகுமாரவின் வெற்றி இந்தியாவுக்கு ஏற்கனவே தெரிந்தது என்றால்- அவரது வெற்றி இந்தியாவுக்கு சாதகமானதல்ல என்றால் - ஏன் இந்தியா இதனை தடுப்பதற்கான முயற்சிகளில் இறங்கவில்லை? அல்லது தடுக்கும் முயற்சியில் இறங்கி தோல்வி கண்டிருக்கிறதா?  அநுரகுமார வெற்றி பெற்றவுடன் சில இராஜதந்திரிகள் இது இந்தியாவுக்கு முக்கியமான பின்னடைவு அல்லது தோல்வி என்று குறிப்பிட்டிருந்தார்கள்.
+India's victory over Anuragumara was seen as a significant setback by some diplomats. The outcome wasn't favorable for India, leading to questions about its strategy and decision-making process. This situation raises concerns about India's ability to achieve desired outcomes in international relations.
+
+🟩
+
+If India's victory is already known - if his victory is not favorable to India - why is India not embarking on this?Or have you failed to get down to prevent?Some diplomats referred to India as an important setback or failure after the victory of Anuragumara.
 
 ◼️
 
 [Data](articles/b40e3f97.json)
+
+[Extended Data](ext_articles/b40e3f97.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 12:38:17**
+As of **2024-09-29 12:56:00**
 
 ## Newspaper Stats
 
-*Scraped **46,820** Articles*
+*Scraped **46,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,842
 dailyftlk | 3,129
 adalk | 4,316
 dailymirrorlk | 4,733
-adaderanalk | 5,509
+adaderanalk | 5,510
 tamilmirrorlk | 6,286
 virakesarilk | 7,477
 adaderanasinhalalk | 8,095
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,820 (100.0%) of 46,820 articles have been extended.
+46,821 (100.0%) of 46,821 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -73,6 +73,22 @@ The suspect seized 05 grams of 200 milligrams of ice from the suspect.
 [Data](articles/89482e2d.json)
 
 [Extended Data](ext_articles/89482e2d.ext.json)
+
+---
+
+### Island’s best results of 2023 (2024) O/L exam
+
+*2024-09-29 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102335/islands-best-results-of-2023-2024-ol-exam) · `en`
+
+The names of the students who have obtained the best results in the island at the 2023 (2024) G.C.E. Ordinary Level examination have been released.
+
+Accordingly, Malsha Kumarathunge of Sanghamitta Balika Vidyalaya Galle has placed first in the island.
+
+◼️
+
+[Data](articles/6a4ed023.json)
+
+[Extended Data](ext_articles/6a4ed023.ext.json)
 
 ---
 
@@ -2373,29 +2389,5 @@ Hezbollah leader Hassan Nasrallah was the target of the strikes, according to tw
 [Data](articles/7c78ebee.json)
 
 [Extended Data](ext_articles/7c78ebee.ext.json)
-
----
-
-### President joins Colombo Book Fair
-
-*2024-09-28 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201625) · `si`
-
-President Anura Kumara Dissanayake attended the 25th anniversary of the Literary International Conference Hall in Colombo. He received a National Letter of Children's Book from Sri Lanka Book Pubs Chairman Samantha Insuine. The President browsed through local and foreign books, participated in exhibitions, and gave a brief speech. The event, organized by the Sri Lanka Book Publishers Association, began on October 27 and continues until October 6.
-
-🟩
-
-President Anura Kumara Dissanayake joined the 25th anniversary this morning for the 25th anniversary of the Literary International Conference Hall in Colombo.
-
-Sri Lanka Book Pubs Chairman Samantha Insuine presented the National Letter of Children's Book to the President.
-
-The President committed several chambers of both local and foreign books, the president was also engaged in exhibition and a brief rescued.
-
-The book fair, which was organized by the Sri Lanka Book Publishers Association, commenced yesterday (27) and will be held until October 6.
-
-◼️
-
-[Data](articles/b0647e25.json)
-
-[Extended Data](ext_articles/b0647e25.ext.json)
 
 ---

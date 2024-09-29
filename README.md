@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 10:56:58**
+As of **2024-09-29 11:09:27**
 
 ## Newspaper Stats
 
-*Scraped **46,805** Articles*
+*Scraped **46,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,314
 dailymirrorlk | 4,733
 adaderanalk | 5,507
 tamilmirrorlk | 6,285
-virakesarilk | 7,470
+virakesarilk | 7,472
 adaderanasinhalalk | 8,093
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,805 (100.0%) of 46,805 articles have been extended.
+46,807 (100.0%) of 46,807 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -545,6 +545,60 @@ Kiribathgoda Police are conducting further investigations into the suspects.
 [Data](articles/0216ef03.json)
 
 [Extended Data](ext_articles/0216ef03.ext.json)
+
+---
+
+### The weather report today
+
+*2024-09-29 06:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195020) · `ta`
+
+Weather forecast: Rain/thunderstorms expected afternoon/night. Heavy rainfall (100mm) predicted in central/southern provinces. Thunderous gusts possible. Lightning precautions advised. Winds 30-40km/h from NW/W. Sea conditions normal to turbulent during storms.
+
+🟩
+
+The Department of Meteorology said that most parts of the country are likely to experience rain or thunderstorms in the afternoon or at night.
+
+Accordingly, 100 millimeters of heavy rainfall is expected in some places in the Central, Sabaragamuwa and North Western Provinces in Kalutara, Galle and Matara districts.
+
+Thundershowers can be temporarily blowing in the area during the thunderstorm.
+
+The Department of Meteorology has advised the public to take the necessary precautions to reduce the effects of lightning impacts.
+
+Rain: In many places around the country, there is a possibility of rain or thunderstorms in the afternoon or at night.
+
+Wind: The winds are blowing from the northwest or west direction from Colombo to Galle via Galle, and the wind is expected to be up to 30-40 km per hour.
+
+In other seas around the country, the wind is expected to blow from different directions and the wind is expected to be up to 20-30 km per hour.
+
+...
+
+[Data](articles/b9144eb8.json)
+
+[Extended Data](ext_articles/b9144eb8.ext.json)
+
+---
+
+### GCE Ordinary Level Examination Released
+
+*2024-09-29 06:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195019) · `ta`
+
+Sri Lanka Exams Department releases GCE Ordinary Level 2023 results via email. Exam held at 3,527 stations, 452,979 candidates participated. Results available online for principals. Contact 1911 or 011 2785 922 for inquiries.
+
+🟩
+
+The Sri Lanka Examinations Department has announced that the results of the GCE Ordinary Level Examination for 2023 have been officially issued through the e -mail.
+
+This year's GCE Ordinary Level Examination, which was attended by 452,979 applicants, was held at 3,527 stations nationwide.
+
+Meanwhile, the Department of Examinations has stated that facilities to obtain a copy of the exam results have been provided using the username and password issued to all principals.
+
+If you want any questions about these results, you can call it 1911 or 011 2 785 922, 0112 786 616, 011 2 784 208 or 011 2 784 537, the Department of Examinations said.
+
+◼️
+
+[Data](articles/37f8283c.json)
+
+[Extended Data](ext_articles/37f8283c.ext.json)
 
 ---
 
@@ -2323,47 +2377,5 @@ The suspect has been handed over to the Negombo Police Station.
 [Data](articles/27b93f36.json)
 
 [Extended Data](ext_articles/27b93f36.ext.json)
-
----
-
-### A taxpayer announced
-
-*2024-09-28 10:17:11* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ගෙවන්නන්ට-නිවේදනයක්/11-412191) · `si`
-
-Taxpayer announcement: 2023/2024 income tax deadline set for September 30. Inland Revenue warns of legal consequences for late payment.
-
-🟩
-
-2023/2024 Income tax of income for the financial year, the Inland Revenue Department says that the tax will be paid before September 30. According to the Department, the taxes will be subject to legal action from legal action.
-
-◼️
-
-[Data](articles/9a0208dc.json)
-
-[Extended Data](ext_articles/9a0208dc.ext.json)
-
----
-
-### Arrested in Negombo with 5 Gajamuttu
-
-*2024-09-28 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/194963) · `ta`
-
-Negombo arrest: 38-year-old suspect caught selling 5 gajamuttu worth ₹1.2 crores. Handed to local police for investigation.
-
-🟩
-
-A suspect who was ready to sell 5 gajamuttu in the Negombo area was arrested by the Criminal Investigation Department yesterday (27).
-
-The arrested suspect is 38 years old from Kelioia.
-
-The total value of these gajamuts is about one crore twenty lakhs of rupees, police said.
-
-Subsequently, the suspect has been handed over to the Negombo Police Station for further investigations.
-
-◼️
-
-[Data](articles/7cab38fb.json)
-
-[Extended Data](ext_articles/7cab38fb.ext.json)
 
 ---

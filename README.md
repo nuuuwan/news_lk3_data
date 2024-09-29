@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 20:09:00**
+As of **2024-09-29 20:22:45**
 
 ## Newspaper Stats
 
-*Scraped **46,882** Articles*
+*Scraped **46,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 468
 islandlk | 2,752
 economynextcom | 2,842
 dailyftlk | 3,129
-adalk | 4,328
+adalk | 4,329
 dailymirrorlk | 4,733
 adaderanalk | 5,516
 tamilmirrorlk | 6,295
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,105
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,875 (100.0%) of 46,882 articles have been extended.
+46,882 (100.0%) of 46,883 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -222,47 +222,65 @@ If India's victory is already known - if his victory is not favorable to India -
 
 ---
 
-### 'அங்கொடை ஜூலே'யின் உதவியாளர் கைது
+### 'Angoda Jule' assistant arrested
 
 *2024-09-29 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195068) · `ta`
 
-பாதாள உலக கும்பலைச் சேர்ந்தவரும் பிரபல போதைப்பொருள் கடத்தல்காரருமான “அங்கொடை ஜூலே” என்று அழைக்கப்படும் பொன்னம்பெருமகே தனுஷ் புத்திக்க என்பவரின் உதவியாளர் ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+"Angoda Jule" assistant arrested: Police seize drugs, cash. 30-year-old aide of notorious trafficker detained in Battaramulla operation.
 
-திட்டமிட்ட குற்றவாளி ஒருவரின் முக்கிய உதவியாளரும் பாரியளவிலான போதைப்பொருள் கடத்தல்காரருமான இவர், பொலிஸ் விசேட அதிரடிப்படையினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் பத்தரமுல்ல பிரதேசத்தை சேர்ந்த 30 வயதுடையவர் ஆவார்.
+An assistant of Ponnamperumage Dhanush Buddhika, known as "Angodai Jule", a native of the underworld gang and a famous drug trafficker, has been arrested by the police.
 
-சந்தேக நபரிடம் இருந்து 25 கிராம் 500 மில்லிகிராம் ஐஸ் போதைப்பொருள் மற்றும் 51 கிராம் கேரள கஞ்சாவை பொலிஸார் கைப்பற்றியுள்ளனர்.
+The main assistant of a deliberate criminal and a massive drug trafficker has been arrested by the Special Task Force, police said.
 
-அத்துடன், போதைப்பொருள் கடத்தலில் இருந்து எடுக்கப்பட்டதாக சந்தேகிக்கப்படும் 274,400 ரூபாய் பணமும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+The arrested suspect is 30 years old from Battaramulla.
+
+Police have seized 25 grams of 500 milligrams of ice and 51 grams of Kerala ganja from the suspect.
+
+In addition, the police also seized 274,400 rupees suspected of being taken from drug trafficking.
 
 ◼️
 
 [Data](articles/676cb0e1.json)
 
+[Extended Data](ext_articles/676cb0e1.ext.json)
+
 ---
 
-### புதிய ஜனாபதியின் சர்ச்சை நியமனங்கள்
+### Controversial appointments of the new Janapati
 
 *2024-09-29 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195069) · `ta`
 
-கோட்டாபய ராஜபக்ஷ எதிர்பார்த்த பாதுகாப்புச் சூழல், கிடைக்காமல் போனதற்கு இது ஒரு காரணமாக குறிப்பிடப்பட்டிருக்கிறது. விமானப்படையைச் சேர்ந்த அதிகாரி ஒருவர்-  அதுவும் உயர்நிலை தளபதி பதவிக்கு வராத அதிகாரி ஒருவர், பாதுகாப்பு செயலாளராக இருக்கும் போது, அவரை விட மூத்த ஜெனரல் சவேந்திர சில்வா போன்ற படை அதிகாரிகள், அவருடன் இணைந்து செயற்படுவார்களா என்ற கேள்வி உள்ளது.
+Gotabhaya Rajapaksa's security environment compromised due to controversial appointments. Question arises about cooperation between Air Force officer and Defense Secretary Shavendra Silva.
+
+🟩
+
+This is one of the reasons why Gotabhaya Rajapaksa's expected security environment was not available. There is a question whether an official from the Air Force- an unmanageable officer who does not take the post of top commander, will work with him, such as the Senior General Shavendra Silva, when he is the defense secretary.
 
 ◼️
 
 [Data](articles/69943075.json)
 
+[Extended Data](ext_articles/69943075.ext.json)
+
 ---
 
-### தமிழ்த் தேசிய சக்திகள் என்ன செய்யப்போகின்றன?
+### What are the Tamil national powers going to do?
 
 *2024-09-29 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195070) · `ta`
 
-பாராளுமன்ற தேர்தல் தொடர்பாக தமிழ்ச் சூழலில் பாரிய விவாதம் நடைபெறுகின்றது. சிவில் அமைப்புகள் ஆங்காங்கே கூட்டங்களை நடாத்தி விவாதித்து வருகின்றன. தமிழ்த் தேசிய பொதுக்கூட்டமைப்புக்குள்ளும் இது தொடர்பாக காரசாரமான விவாதம் நடைபெறுகின்றது. பேராசிரியர் ஒருவர் இளம் தலைமுறைகளுக்கு இடமளிக்க வேண்டும் பழையவர்கள் விலக வேண்டும் என்று கட்சித் தலைவர்களிடம் கூறவும் அது அனல் பறக்கும் விவாதமாக வளர்ந்தது. சிவில் அமைப்புகள் தனியாக ஒரு அணியை தேர்தலில் இறக்கும் நிலையும் ஏற்படலாம்.
+Tamil national powers' plans debated ahead of elections. Civil groups meet, discuss strategies. Tamil National Alliance faces internal conflicts over youth representation. Organizations may form separate teams.
+
+🟩
+
+There is a massive debate in the Tamil context regarding the parliamentary election. Civil organizations are holding and discussing meetings. There is a serious debate within the Tamil National Alliance. It grew to the party leaders that a professor had to accommodate young generations. Civil organizations may also be able to die in a separate team.
 
 ◼️
 
 [Data](articles/4e715651.json)
+
+[Extended Data](ext_articles/4e715651.ext.json)
 
 ---
 
@@ -290,63 +308,91 @@ They have made this request by pointing that recently serious financial frauds.
 
 ---
 
-### தமிழ் பொது வேட்பாளர் தோல்வியுற்றாரா?
+### Did the Tamil general candidate fail?
 
 *2024-09-29 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195071) · `ta`
 
-பொது வேட்பாளர் முயற்சி பெருவெற்றியை பெறாமல் இருக்கலாம், ஆனால் பலவீனப்படவில்லை. ஏனென்றால் தமிழ் தேசிய கட்சிகள் அனைத்துக்கும் தங்களின் பலம் என்ன - பலவீனம் என்ன-  தாங்கள் எந்த நிலையில் இருக்கிறோம் என்பது இப்போது நன்றாக தெரிந்திருக்கும்.
+Here's a summary of 200 characters:
+
+
+
+Tamil general candidate performance: Not significantly impacted. Strengths remain unchanged. National party weaknesses persist. Overall stability maintained.
+
+🟩
+
+The general candidate may not get bigger but not weakened. Because what is their strength - what is the weakness of all the Tamil national parties - what is the position they are.
 
 ◼️
 
 [Data](articles/ccdb05d2.json)
 
+[Extended Data](ext_articles/ccdb05d2.ext.json)
+
 ---
 
-### சட்டவிரோத கோடாவுடன் ஒருவர் கைது
+### Arrest of someone with illegal koda
 
 *2024-09-29 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195076) · `ta`
 
-கிரிந்திவெல பொலிஸ் பிரிவுக்குட்பட்ட சபுகஹவத்த பகுதியில் சட்டவிரோத மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் கோடாவுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (28) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Police arrest 21-year-old man for illegal liquor production in Kirindiwala. 1080 liters of equipment seized during raid.
 
-கிரிந்திவெல பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது இவர் கைதுசெய்யப்பட்டார்.
+🟩
 
-கைது செய்யப்பட்டவர் விஹார கும்புர, கிரிந்திவெல பிரதேசத்தை சேர்ந்த 21 வயதுடையவர் ஆவார்.
+A suspect has been arrested by police on Saturday (28) with Koda used for illegal liquor in the Sapugahawatta area of ​​the Kirindiwala Police Division.
 
-சந்தேக நபரிடமிருந்து மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் 1080 லீற்றர் (06 பெரல்) கோடா பொலிஸாரால் கைப்பற்றப்பட்டது.
+He was arrested during a raid carried out on the basis of information received by the officers of the Kirindiwela police station.
+
+The arrested was Vihara Kumbura, a 21 -year -old from Kirindiwela.
+
+The 1080 liters (06), which was used for brewing from the suspect, was seized by the Kota police.
 
 ◼️
 
 [Data](articles/64f89335.json)
 
+[Extended Data](ext_articles/64f89335.ext.json)
+
 ---
 
-### சட்டவிரோதமாக இரத்தினக்கல் அகழ்வில் ஈடுபட்டவர் கைது
+### Arrests for illegally gem excavation
 
 *2024-09-29 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195078) · `ta`
 
-பொகவந்தலாவை பொலிஸ் பிரிவுக்குட்பட்ட செபல்டன்வத்த பகுதியில் சட்டவிரோதமாக இரத்தினக்கல் அகழும் பணியில் ஈடுபட்ட ஒருவர் நேற்று சனிக்கிழமை (28) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Gemstone theft arrest made in Bogawantalawa area. Police raided site, caught culprit on Saturday. Incident occurred near Sebaltanwatta region.
 
-பொகவந்தலாவை பொலிஸ் நிலைய அதிகாரிகள் குழுவொன்று மேற்கொண்ட சுற்றிவளைப்பின்போது இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
+
+A person who illegally excavated the Gemstone in the Sebaltanwatta area belonging to the Bogawantalawa Police Division has been arrested by the police on Saturday (28).
+
+He was arrested during a raid conducted by a team of police officers Bogawantalawa.
 
 ◼️
 
 [Data](articles/f435cbac.json)
 
+[Extended Data](ext_articles/f435cbac.ext.json)
+
 ---
 
-### இத்தபான பகுதியில் ஆணின் சடலம்
+### The body of the male
 
 *2024-09-29 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195081) · `ta`
 
-இத்தபான பொலிஸ் களத்தில் அமுஹுந்துடுவ பகுதியில் உள்ள முனமல்வத்தை ஆற்றில் அடையாளம் தெரியாத ஆணின் சடலம் நேற்று சனிக்கிழமை (28) கண்டுபிடிக்கப்பட்டுள்ளதாக இத்தபான பொலிஸார் தெரிவித்தனர்.
+Body found in river; identity unknown. Police investigating. Autopsy conducted.
 
-உயிரிழந்தவரின் அடையாளம் இதுவரை உறுதி செய்யப்படாத நிலையில், சடலம் மிகவும் அழுகிய நிலையில் உள்ளதாகவும் உடல் உறுப்புகளை விலங்குகள் தின்றுவிட்டதாகவும் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-சடலம் பிரேத பரிசோதனைக்காக சம்பவ இடத்திலேயே வைக்கப்பட்டுள்ளதுடன், இத்தபான பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The body of an unidentified man in the Munamalwatte river in the Amuhunduduwa area in the area was found yesterday (28), police said.
+
+Police said the body of the deceased had not been confirmed yet, and that the body was soaked and the organs had been eaten by animals.
+
+The body has been placed on the spot for autopsy and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/d474b60c.json)
+
+[Extended Data](ext_articles/d474b60c.ext.json)
 
 ---
 
@@ -517,6 +563,24 @@ This initiative, undertaken in collaboration with the Ministry of Sports and in 
 [Data](articles/f78c8a54.json)
 
 [Extended Data](ext_articles/f78c8a54.ext.json)
+
+---
+
+### කමිඳුගේ 200ට වඩා මම බැලුවේ කුසල්ගේ 100
+
+*2024-09-29 17:51:30* · [`adalk`](https://www.ada.lk/sports/කමිඳුගේ-200ට-වඩා-මම-බැලුවේ-කුසල්ගේ-100/9-412213) · `si`
+
+නවසීලන්තයට එරෙහිව ගාල්ලේ පැවැති ටෙස්ට් තරගයේදී කමිඳු මෙන්ඩිස්ගේ ද්විත්ව ශතකයට වඩා තමන් සලකා බැලුවේ කුසල් මෙන්ඩිස්ගේ ශතකය බව ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජයද සිල්වා පැවැසීය.
+
+දෙවැනි ටෙස්ට් තරගයෙන් අනතුරුව පැවැති මාධ්‍ය හමුවේදී යොමුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+
+කමිඳු මෙන්ඩිස්ට තවත් වාර්තාවක් පිහිටුවීමේ අවස්ථාව ලබාදුන් බවත් කුසල් මෙන්ඩිස් දිගු කාලයකින් ශතකයක් වාර්තා කර නොතිබුණ බවත් ධනංජය පැවැසීය.
+
+කෙසේ වෙතත් ඉනිම අත්හිටුවීමට තීරණය ගත්තේ තරගයේ ජයග්‍රහණය ගැන සිතා බවත් ධනංජය වැඩිදුරටත් පැවැසීය.
+
+◼️
+
+[Data](articles/5c8c9da5.json)
 
 ---
 
@@ -2299,29 +2363,5 @@ If you want any questions about these results, you can call it 1911 or 011 2 785
 [Data](articles/37f8283c.json)
 
 [Extended Data](ext_articles/37f8283c.ext.json)
-
----
-
-### Heavy rains exceeding 100 mm
-
-*2024-09-29 05:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201648) · `si`
-
-Heavy rains over 100mm expected across Sri Lanka today. Showers/thunderstorms forecasted for central, southern, western, and northern regions. Public advised to take precautions against strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the country today (29).
-
-The department states that the Central, Sabaragamuwa, Southern and Northwestern provinces are located in some places.. It can also be around 100.
-
-The Department of Meteorology announces that showers may occur in the morning in the Southern Province and in the Batticaloa and Ampara Districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/96795163.json)
-
-[Extended Data](ext_articles/96795163.ext.json)
 
 ---

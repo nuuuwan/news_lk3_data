@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 10:22:42**
+As of **2024-09-29 10:38:33**
 
 ## Newspaper Stats
 
-*Scraped **46,802** Articles*
+*Scraped **46,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 466
 islandlk | 2,752
 economynextcom | 2,841
 dailyftlk | 3,129
-adalk | 4,313
+adalk | 4,314
 dailymirrorlk | 4,733
 adaderanalk | 5,506
 tamilmirrorlk | 6,285
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,092
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,802 (100.0%) of 46,802 articles have been extended.
+46,803 (100.0%) of 46,803 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -267,6 +267,26 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/35b656ac.json)
 
 [Extended Data](ext_articles/35b656ac.ext.json)
+
+---
+
+### The gift from the zoos for the children's day
+
+*2024-09-29 08:30:51* · [`adalk`](https://www.ada.lk/breaking_news/ළමා-දිනයට-සත්වෝද්‍යානවලින්-ලැබෙන-තෑග්ග/11-412198) · `si`
+
+Dehiwala National Zoo, Pinnawala Elephant Exchange, and Pinnawala Zoo offer free entry to children on Children's Day. The event aims to educate kids about nature, conservation, and wildlife while providing entertainment. Organized from 8:30 AM to 5:00 PM.
+
+🟩
+
+The Dehiwala National Zoo, the Pinnawala Elephant Exchange, Pinnawala Zoo, and the Pinnawala Zoo is facilitated for all children from the 12-dimensional parks, said that the Director of the National Zoological Association (NPF) said.
+
+Developing the educational knowledge, natural resources and environmental conservation of children, natural resources and environmental conservation and entertainment of children, the Dehiwala National Zoological premises has been organized from 8.30 am to 5.00 pm on the premises.Deputy Director, Dinangana, further said,
+
+◼️
+
+[Data](articles/e38ffef3.json)
+
+[Extended Data](ext_articles/e38ffef3.ext.json)
 
 ---
 
@@ -2347,33 +2367,5 @@ The full gazette, outlining the functions and institutions under the new governm
 [Data](articles/0eebfdcf.json)
 
 [Extended Data](ext_articles/0eebfdcf.ext.json)
-
----
-
-### Director General of the Presidential Secretariat Senior Counsel JM Wijebandara
-
-*2024-09-28 10:08:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-කාර්යාලයේ-නීති-අධ්‍යක්ෂ-ජනරාල්-ජ්‍යෙෂ්ඨ-නීතිඥ-ජේ-එම්-විජේබණ්ඩාර/11-412190) · `si`
-
-Here's a 200-character summary:
-
-
-
-JM Wijebandara appointed as Director General of Presidential Secretariat. Former lecturer at University of Colombo. Graduated from University of Colombo and Open University. Old boy of Ananda College, Colombo.
-
-🟩
-
-Senior Counsel Director General of President Anura Kumara Dissanayake Senior Counsel Director General. Wijebandara has been appointed.
-
-Appointment of the Appointment of the Appointment of Hon.. M.Handed over to Mr. Wijebandara.
-
-Mr. Wijebandara, an old boy of Ananda College, Colombo, has been graduated from the University of Colombo and the Open University.
-
-Senior Counsel J. M. Wijebandara is a former lecturer at the Faculty of the University of Colombo.
-
-◼️
-
-[Data](articles/6b2ab897.json)
-
-[Extended Data](ext_articles/6b2ab897.ext.json)
 
 ---

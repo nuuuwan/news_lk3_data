@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 11:09:27**
+As of **2024-09-29 11:22:54**
 
 ## Newspaper Stats
 
-*Scraped **46,807** Articles*
+*Scraped **46,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ colombotelegraphcom | 466
 islandlk | 2,752
 economynextcom | 2,841
 dailyftlk | 3,129
-adalk | 4,314
+adalk | 4,315
 dailymirrorlk | 4,733
 adaderanalk | 5,507
 tamilmirrorlk | 6,285
 virakesarilk | 7,472
-adaderanasinhalalk | 8,093
+adaderanasinhalalk | 8,094
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,807 (100.0%) of 46,807 articles have been extended.
+46,809 (100.0%) of 46,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Iran protests against Israel
+
+*2024-09-29 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201656) · `si`
+
+Iran protests against Israel: Students join demonstrations in Tehran, criticizing attacks on Hezbollah in Lebanon. Protests spread across several cities, including the capital. Violence increased over the weekend as Israel launched airstrikes targeting Beirut.
+
+🟩
+
+An protest in Iran has launched against Israel, foreign media reports.
+
+Iranian people have opposed the attack on Israel targeting Lebanon.
+
+Foreign reports have shown that students have been taken in the protest.
+
+Hezbollah Organization and Heads of Hamas and the leaders of the Iranian leaders were protesting.
+
+Foreign media reports that the protests in general area Tehran's capital had protesting in several cities.
+
+The protests were held and criticized the attacks on the Hezbollah in Lebanon in Lebanon.
+
+The beginning of this week was the beginning of this week.
+
+It had been more violent in the weekend.
+
+Israel launched a series of air strikes since last night, targeting the Beeroot capital of Lebanon.
+
+◼️
+
+[Data](articles/ae3f5731.json)
+
+[Extended Data](ext_articles/ae3f5731.ext.json)
+
+---
 
 ### Iran’s Khamenei vows revenge over Nasrallah’s killing
 
@@ -173,6 +207,28 @@ The Ministry has statistics on the allocation of the government and spending. Bu
 [Data](articles/fd601eb0.json)
 
 [Extended Data](ext_articles/fd601eb0.ext.json)
+
+---
+
+### Paint
+
+*2024-09-29 09:35:54* · [`adalk`](https://www.ada.lk/breaking_news/නුදුරේදිම-අවධමනයක්/11-412199) · `si`
+
+Central Bank maintains interest rates at 8.25% and 9.25%. Decision based on current economic trends. Inflation below target due to supply price growth.
+
+🟩
+
+The Central Bank Monetary Policy Board (SDFR) ratio at the October 26, 2024, decided to maintain the exchange of 8.25 percent and 9.25 percent respectively.
+
+The Monetary Policy Board has taken this decision after considering the current and expected macroeconomic trends to reach its peak capacity to reach its peak capacity.
+
+The Monetary Policy Board observed that inflation was highly lower than the target of 5 percent in the next quarters, especially due to the growth of the supply prices, and the growth of the supply conditions.
+
+◼️
+
+[Data](articles/34de97a8.json)
+
+[Extended Data](ext_articles/34de97a8.ext.json)
 
 ---
 
@@ -2325,57 +2381,5 @@ Investigations revealed that the suspect had been hit by a hammer and murdered a
 [Data](articles/abe51512.json)
 
 [Extended Data](ext_articles/abe51512.ext.json)
-
----
-
-### A Notification for Taxpayers
-
-*2024-09-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201622) · `si`
-
-Here's a 200-character summary:
-
-
-
-Taxpayers: Pay 2023/2024 income tax before Oct 30, 2024. Non-payment may incur penalties. Arrears must be settled by Oct 30, 2024. Failure to comply may result in legal actions under the Inland Revenue Act. Contact Regional Office for more information.
-
-🟩
-
-2023/2024 Every income tax owed to the valuation of Rs.
-
-It shows that if any person does not deal with this, the laws will be subject to non-paying or delayed income tax.
-
-It also says that this penalties, a reduction or removal.
-
-Furthermore, if the 'arrears have been paid to any tax for any tax, it must be completed on October 30, 2024 or on that day.
-
-If there are no further deficit, the deficit is no longer available, it is said that all kinds of legal action will be taken to be adopted as stated in the Inland Revenue Act.
-
-The Department of Inland Revenue has informed the 1944 or to obtain information with the Regional Office of the Department of Inland Revenue.
-
-◼️
-
-[Data](articles/b74808ac.json)
-
-[Extended Data](ext_articles/b74808ac.ext.json)
-
----
-
-### Suspect arrested with elephant pearls worth Rs. 12 mln
-
-*2024-09-28 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102316/suspect-arrested-with-elephant-pearls-worth-rs-12-mln) · `en`
-
-Officers from the Negombo Divisional Criminal Investigation Bureau have arrested a suspect attempting to sell five elephant pearls (Gajamuthu).
-
-According to the police, the value of these elephant pearls is approximately Rs. 12 million.
-
-The arrested suspect is a 38-year-old resident of the Gelioya area.
-
-The suspect has been handed over to the Negombo Police Station.
-
-◼️
-
-[Data](articles/27b93f36.json)
-
-[Extended Data](ext_articles/27b93f36.ext.json)
 
 ---

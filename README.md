@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 18:18:50**
+As of **2024-09-29 18:31:43**
 
 ## Newspaper Stats
 
-*Scraped **46,854** Articles*
+*Scraped **46,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,129
 adalk | 4,325
 dailymirrorlk | 4,733
 adaderanalk | 5,515
-tamilmirrorlk | 6,290
+tamilmirrorlk | 6,292
 virakesarilk | 7,481
 adaderanasinhalalk | 8,104
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,854 (100.0%) of 46,854 articles have been extended.
+46,856 (100.0%) of 46,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Investigate e-Visa fraud as soon as possible
+
+*2024-09-29 18:12:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-விசா-மோசடி-குறித்து-விரைவில்-விசாரணை/175-344661) · `ta`
+
+E-Visa fraud investigation underway after Supreme Court ruling. Government resumes Foreign Federation, Parliamentarians challenge visa agreement citing lack of transparency. ETA process reinstated, private company handling replaced. Forensic audit ordered by Foreign Minister.
+
+🟩
+
+Following the Supreme Court's decision, the government has resumed the Foreign Federation and has resumed the present visa application base.
+
+Parliamentarians Rauf Hakeem, MA Sumanthiran and Patali Champika Ranawaka filed a petition in the Supreme Court against the president's visa agreement. They alleged that the contract was not openly issued and the federation had to earn up to $ 2.75 billion in the 16 -year period.
+
+According to the criterion before April 17, Immigration Officers have now recovered the electronic travel authorization (ETA) process for issuing one-rolling visas, and the private federation, which has handled it, has avoided the IVS-GBS and VFS Global.
+
+Foreign Minister Vijitha Herath, who is responsible for the Department of Immigration and Emigration, has confirmed that forensic audit will be conducted on the incident.
+
+◼️
+
+[Data](articles/a89ad259.json)
+
+[Extended Data](ext_articles/a89ad259.ext.json)
+
+---
 
 ### The final solution to the problem of this year's scholarship examination
 
@@ -94,7 +118,15 @@ This initiative, undertaken in collaboration with the Ministry of Sports and in 
 
 The Ministry of Education stated that a decision has been taken to award full marks to all students for the three questions in the first paper of this year’s Grade 05 Scholarship Examination that had allegedly been shared in advance, as recommended by the committee of experts.
 
-◼️
+The expert committee has stated that re-conducting the examination would significantly affect the mental well-being of the children who have already faced the exam.
+
+They also emphasize that it is essential to do justice to all the children, suggesting that the best solution is to award full marks to all the students for the three questions in the first paper that had allegedly been shared in advance.
+
+The committee also noted that suspending the examination could create considerable stress for teachers, parents, and the entire school system.
+
+The Ministry of Education had appointed a seven-member committee to decide whether or not this year’s Grade 5 Scholarship Examination should be re-conducted.
+
+...
 
 [Data](articles/e974fe36.json)
 
@@ -125,6 +157,26 @@ Other members of the Constitutional Council include former Opposition Leader Saj
 [Data](articles/7aeeb4d9.json)
 
 [Extended Data](ext_articles/7aeeb4d9.ext.json)
+
+---
+
+### Should not charge money from parents
+
+*2024-09-29 17:37:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோரிடமிருந்து-பணம்-வசூலிக்கக்-கூடாது/175-344660) · `ta`
+
+Ministry of Education advises against charging fees for events like World Children's Day and World Teachers Day. Secretary Tilaka Jayasundera sends letter to principals and education officials.
+
+🟩
+
+The Ministry of Education urges the parents not to collect money from celebrating events such as World Children's Day and World Teachers Day.
+
+Secretary of the Ministry of Education Tilaka Jayasundera has sent a letter to all principals and education authorities.
+
+◼️
+
+[Data](articles/b5715d16.json)
+
+[Extended Data](ext_articles/b5715d16.ext.json)
 
 ---
 
@@ -2309,63 +2361,5 @@ The suspect and the car will be handed over to Katugastota Police for further in
 [Data](articles/ea494717.json)
 
 [Extended Data](ext_articles/ea494717.ext.json)
-
----
-
-### An announcement on postal voting applications
-
-*2024-09-28 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201643) · `si`
-
-Here's a summary of the announcement in 200 characters:
-
-
-
-Postal voting applications accepted Oct 1-8. Submit applications through institutional head to district officer. Based on 2024 electoral lists. Follows 1981 Parliamentary Elections Act.
-
-🟩
-
-Elections Commissioner General Saman Sri Ratnayake said that the acceptance of postal voting applications will be accepted from October 1 to 8.
-
-"Postal voting applications will be accepted from 1st to 08th. The election should be made to accept applications for postal voting in accordance with postal voting in accordance with the Parliamentary Elections Act, No. 01 of 1981.
-
-We request all postal voting applications for this parliamentary election by the Head of your institution during this time and register your vote to the District Officer.
-
-This election is based on 2024 vocal lists. Accordingly, the election list used for the last presidential election. "
-
-◼️
-
-[Data](articles/f99cafaf.json)
-
-[Extended Data](ext_articles/f99cafaf.ext.json)
-
----
-
-### Massacre
-
-*2024-09-28 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201642) · `si`
-
-Massacre reported in Ampara: Government reserve destroyed, monks burned, land dispute suspected.
-
-🟩
-
-The Ada Derana Ukzaza said about a major massacre from a large sum of several days from a government reserve in Ampara.
-
-A tragic destiny in the Ampara-Uhana Divisional Secretariat has been a traditional fate.
-
-The Derana Ukza was reported to "Today" is a large number of mass in this reserve near the Uhana Samangala and Bandara areas.
-
-The heukusa reaches the area, and the great monks were found on fire.
-
-The people of the area have been launched since the Colombo area near the Samanagala Reserve and the later varied governments were given permission.
-
-Accordingly, the parts were brought to chena cultivation, and the residents of the area have revealed that a group of people will break the boundaries about two weeks ago.
-
-We were able to focus on the authorities to the authorities regarding the various men who were informally and forcibly acquired land and cultivated persons.
-
-...
-
-[Data](articles/cf6f89f9.json)
-
-[Extended Data](ext_articles/cf6f89f9.ext.json)
 
 ---

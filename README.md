@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 12:12:18**
+As of **2024-09-29 12:38:17**
 
 ## Newspaper Stats
 
-*Scraped **46,812** Articles*
+*Scraped **46,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,126 @@ dbsjeyarajcom | 389
 bbccomsinhala | 463
 colombotelegraphcom | 466
 islandlk | 2,752
-economynextcom | 2,841
+economynextcom | 2,842
 dailyftlk | 3,129
 adalk | 4,316
 dailymirrorlk | 4,733
 adaderanalk | 5,509
-tamilmirrorlk | 6,285
-virakesarilk | 7,472
-adaderanasinhalalk | 8,094
+tamilmirrorlk | 6,286
+virakesarilk | 7,477
+adaderanasinhalalk | 8,095
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,812 (100.0%) of 46,812 articles have been extended.
+46,820 (100.0%) of 46,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Rice, Masonry Bread
+
+*2024-09-29 12:17:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரைஸ்-கொத்து-ரொட்டியின்-விலை-குறைப்பு/175-344650) · `ta`
+
+Rice and masonry bread prices lowered by 40 rupees starting midnight. Restaurant owners' association announcement.
+
+🟩
+
+Rice and masonry bread prices have been reduced by 40 rupees from midnight today (29), the restaurant owners association said.
+
+◼️
+
+[Data](articles/69c194ae.json)
+
+[Extended Data](ext_articles/69c194ae.ext.json)
+
+---
+
+### Two persons arrested with ice drugs in different parts of Peliyagoda
+
+*2024-09-29 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195034) · `ta`
+
+Two arrests made in Peliyagoda: one near fish market, another in separate area. Police seized ice drugs in both cases.
+
+🟩
+
+Peliyagoda police said that a person who had ice drugs had been arrested on Saturday (28) near the Peliyagoda fish market belonging to the Peliyagoda police division.
+
+The suspect was arrested during a raid conducted by a team of police officers from Peliyagoda.
+
+Meanwhile, police said that another person who had ice drugs in another area of ​​the Peliyagoda police division was arrested yesterday.
+
+He was arrested during a raid carried out by a group of officials of the Colombo Crime Branch.
+
+The suspect seized 05 grams of 200 milligrams of ice from the suspect.
+
+◼️
+
+[Data](articles/89482e2d.json)
+
+[Extended Data](ext_articles/89482e2d.ext.json)
+
+---
+
+### Fastated Results Excellence
+
+*2024-09-29 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201657) · `si`
+
+Here's a 200-character summary:
+
+
+
+Malikha Kumaratunga tops GCE O/Ls in Galle. Maligeyadeva Balika Vidyalaya secures second spot in Colombo. Four students rank fourth island-wide: Seshani Sethamphera Jayawardene, Mihwoi Perera, Sazara Kavindi, and Dhanananjana Wickrama.
+
+🟩
+
+According to the results of the GCE Ordinary Level examination, Hi Malikha Kumaratunga has passed the first place in Galle.
+
+The second place, the second place, Ratnighti has been owned by the Maligeyadeva Balika Vidyalaya in Colombo, Colombo.
+
+According to the results, three students have been elected to the fourth place of the island.
+
+Seshani Sethamphera Jayawardene, Colombo Visakha Balika Vidyalaya, Colombo Miwhoi Perera, Nugegoda Vidyalaya, Colombo, has been elected to the fourth place.
+
+Four students have been elected to the seventh and Sazara Kavindi, Colombo Dhanananjana Wickrama, Gampaha, Sri Sayangala Vidyalaya, Gampaha.
+
+◼️
+
+[Data](articles/bba21442.json)
+
+[Extended Data](ext_articles/bba21442.ext.json)
+
+---
+
+### Two persons arrested for alleged money laundering
+
+*2024-09-29 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195030) · `ta`
+
+Two persons arrested for alleged money laundering and fraud in Kiribathgodai area. Suspects accused of selling cars with fake documents and engaging in property scams. Police investigation ongoing.
+
+🟩
+
+A suspect for allegedly defrauding the Kiribathgodai area has been arrested by the police on Saturday (28), Kiribathgodai police said.
+
+The suspect has been arrested on the basis of information received by the police officers of the Kiribathgoda police station.
+
+During the investigation by the police regarding the incident, it was revealed that the car was selling for fake documents and selling a car worth Rs 13,000,000.
+
+According to information provided by the arrested suspect, another person has been arrested in Kiribathgoda area, police said.
+
+Both of these suspects are doing business such as buying new houses, selling houses and building new houses in various areas, causing people to cheat and engage in money laundering.
+
+It has been revealed that the Velisara and the Pudukkadai courts have been issued an opening and that the suspects are conducting further investigations into the suspects.
+
+◼️
+
+[Data](articles/3f52afc1.json)
+
+[Extended Data](ext_articles/3f52afc1.ext.json)
+
+---
 
 ### Accomplice of ‘Angoda Jile’ arrested with ‘ice’ and Kerala cannabis
 
@@ -49,6 +151,80 @@ The relevant suspect has been handed over to Thalangama Police for further inves
 [Data](articles/60c625b2.json)
 
 [Extended Data](ext_articles/60c625b2.ext.json)
+
+---
+
+### "A Buddhist cleric asked her to make my son a day," he said, "The President's mother
+
+*2024-09-29 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/195032) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Anura Dissanayake's journey: From monk candidate to Sri Lanka's 9th president. Overcame struggles, including being sent to monastery at age 12. Showed early leadership potential, becoming president after his father's death in 1982. Demonstrated strong work ethic and reading habits from childhood.
+
+🟩
+
+Sri Lanka's ninth executive president Anuragumara Dissanayake's journey is not easy. But for his predecessor, it was seen as a flower.
+
+The most common beginning and heavy struggles were found as part of his life. He faced many struggles.
+
+“Once upon a time, the clergyman of a Buddhist idol asked him to send Dissanayake to the monastic. He was 12 years old at the time. I do not accept it, ”says the president's mother TM Seelavati.
+
+“After many years, the police were searching for him, he was unable to attend his father's funeral,” he said.
+
+He continued, “In the sixth month of the son, I brought his horoscope to a astrologer. He is shocked and looked at my face and said, "Your son will one day king."
+
+I met the President's mother in a normal house found under Mahaweli H. In 1972 they settled in the house.
+
+Traveling from a farm village called Tambuttegama should travel through the rugged road and go to the president's home.
+
+...
+
+[Data](articles/af9f65ed.json)
+
+[Extended Data](ext_articles/af9f65ed.ext.json)
+
+---
+
+### One person killed in a sharp weapon in Kanemulla
+
+*2024-09-29 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195026) · `ta`
+
+Man killed in Kanemulla after argument over motorcycle attack
+
+🟩
+
+A man has been attacked by a sharp weapon in the Bahala Yagoda area belonging to the Kanemulla police division, Kanemulla police said.
+
+Due to an argument between two men on a motorcycle, the man who was sitting behind him has attacked a motorcycle with a sharp weapon and got out of the motorcycle.
+
+At the same time, the man involved in the attack was attacked by the same weapon and mysteriously died in a bush, police said.
+
+◼️
+
+[Data](articles/64797563.json)
+
+[Extended Data](ext_articles/64797563.ext.json)
+
+---
+
+### Tamil and Muslim brothers have joined us with great joy - Prime Minister Harini Amarasuriya Special
+
+*2024-09-29 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195029) · `ta`
+
+Tamil and Muslim communities welcome PM Harini Amarasuriya. She emphasizes investigating crimes responsibly, including gaining international cooperation. Government must take necessary steps to address allegations.
+
+🟩
+
+“It is our responsibility to investigate crimes. Whether or not it is to gain the cooperation of the international. The government has a responsibility to investigate the allegations put forward. Have the best ways to obtain the cooperation of the international. It is the responsibility of the government to take the next steps to consider this as the main responsibility. ”
+
+◼️
+
+[Data](articles/7a1137da.json)
+
+[Extended Data](ext_articles/7a1137da.ext.json)
 
 ---
 
@@ -431,6 +607,28 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/35b656ac.json)
 
 [Extended Data](ext_articles/35b656ac.ext.json)
+
+---
+
+### Sri Lanka private credit surges Rs135bn in August
+
+*2024-09-29 08:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-surges-rs135bn-in-august-181437/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private credit surged 135 billion rupees in August 2024, up from 60 billion rupees in July, with credit to government and state enterprises contracting amid better fiscal management, data shows.
+
+Central Bank contracted 51 billion rupees to 1,754 billion rupees from 1,806 billion rupees as deflationary policy continued.
+
+Commercial bank credit to state enterprise contracted 20.5 billion rupees. Credit to government from commercial banks contracted 42.6 billion rupees.
+
+The central bank has so far refrained from denying monetary instability to businesses and people giving them a chance to struggle up from the last crisis it created, as it had done in the past by cutting rates claiming inflation was low.
+
+After a currency crisis is triggered and the stabilization crisis that follows to prevent the domestic currency collapsing further, domestic demand collapses and cost of materials surge. As a result new projects are halted.
+
+...
+
+[Data](articles/0ae68cfd.json)
+
+[Extended Data](ext_articles/0ae68cfd.ext.json)
 
 ---
 
@@ -2199,187 +2397,5 @@ The book fair, which was organized by the Sri Lanka Book Publishers Association,
 [Data](articles/b0647e25.json)
 
 [Extended Data](ext_articles/b0647e25.ext.json)
-
----
-
-### IRD notice on final tax payment and default tax clearance deadline
-
-*2024-09-28 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102318/ird-notice-on-final-tax-payment-and-default-tax-clearance-deadline-) · `en`
-
-The Inland Revenue Department (IRD) is urging all taxpayers to ensure they make their final income tax payments for the Year of Assessment 2023/2024 on or before September 30, 2024.
-
-Issuing a notice to taxpayers, it warned failure to meet this deadline may result in penalties and interest charges. The penalties and interest imposed for non-payment or late payment of income tax will not be waived or reduced, the department said.
-
-In addition, the IRD reminds taxpayers to clear all outstanding default taxes on or before October 30, 2024. After that date, any unpaid default taxes will be subject to rigorous collection actions, including legal proceedings under the Inland Revenue Act, statement said.
-
-For more information, the public is requested to contact ‘1944’ or their nearest IRD Regional Office, the department stated.
-
-◼️
-
-[Data](articles/e3ff46e4.json)
-
-[Extended Data](ext_articles/e3ff46e4.ext.json)
-
----
-
-### There is no information about the thousands of government vehicles
-
-*2024-09-28 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201624) · `si`
-
-National Audit Office reports thousands of government vehicles missing. Investigation ongoing. Highest number missing from Ministry of Health. Report to be prepared on disappearances.
-
-🟩
-
-The National Audit Office reveals that thousands of government vehicles have been disappeared in recent years.
-
-Government Auditor General. Wickremaratne said that a full report will be prepared for the disappearance or misplacement.
-
-The new government was exposed to the former ministries and presidential vehicles and several official vehicles used by the Presidential advisors were present on the Galle Warewora.
-
-In this backdrop, the National Audit office has been reported, health, education, mail, irrigation and the Presidential Secretariat has recently missing.
-
-The highest number of vehicles are missing into the Ministry of Health.
-
-Accordingly, the National Audit Office has launched an investigation into the matter and the government's Auditor General. Mr. Wickremaratne said that the investigation was conducted by the Commissioner of Motor Traffic.
-
-After this audit, a complete report will be prepared with regard to missing government vehicles, he said.
-
-◼️
-
-[Data](articles/f94d1c9b.json)
-
-[Extended Data](ext_articles/f94d1c9b.ext.json)
-
----
-
-### Is Sri Lanka Prospecting For Oil In The Mannar Basin Or Not?
-
-*2024-09-28 12:23:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-sri-lanka-prospecting-for-oil-in-the-mannar-basin-or-not/) · `en`
-
-The Government called for International tenders to prospect for oil and gas in Mannar basin in 2019 . An award was made as per the tender specs, and lo and behold the usual games began. Before long the successful bidder was assailed with the usual wishy-washy delaying tactics which led to the tender being cancelled. Reminiscent of many such tenders. The successful tenderer who had spent considerable sums naturally sought legal redress obtaining an interim order against the cancellation.
-
-Mark you, the Government of Sri Lanka nor the people have to spend a penny to prospect. If oil or gas is found the agreed terms must be met. If there is discovery ( mind you these people are pros in the business) Sri Lanka will benefit big time in the interim period before the Carbon zero system ( if ever ) comes into play, perhaps in 2030. Therefore timing is of the essence. If there is no discovery, the bidder loses but not Sri Lanka. Get it?
-
-...
-
-[Data](articles/06ec6f8a.json)
-
-[Extended Data](ext_articles/06ec6f8a.ext.json)
-
----
-
-### Subjects and institutions of new ministries gazette
-
-*2024-09-28 12:23:25* · [`adalk`](https://www.ada.lk/breaking_news/නව-අමාත්‍යාංශවල-විෂයයන්-හා-ආයතන-ගැසට්-කෙරේ/11-412192) · `si`
-
-Sri Lanka: President issues gazette on new ministries, Cabinet appointments made. Gazette 2403/53-2024 outlines divisions and powers of new ministers.
-
-🟩
-
-The gazette notification issued by 2403/53 - 2024 related to the Divisions of the New Ministries and Ministers were published yesterday (27).
-
-President Anura Kumara Dissanayake has issued the gazette notification on the powers vested with the Constitution of the Democratic Socialist Republic of Sri Lanka (1) (1).
-
-The new government's short-term Cabinet recently was appointed.
-
-◼️
-
-[Data](articles/d2523fa9.json)
-
-[Extended Data](ext_articles/d2523fa9.ext.json)
-
----
-
-### Increase in threat of elephants;Impact the livelihood of the villagers
-
-*2024-09-28 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/194972) · `ta`
-
-Elephant threats increase in villages, damaging crops and disrupting lives. Villagers report no action from authorities despite written complaints.
-
-🟩
-
-Villagers have said that the threat of elephants has increased in the villages of Kahatagastikiliya, Konvewa and Padarellava.
-
-The villagers point out that the elephants enter the village and destroy the crops and that the livelihood of the villagers has been severely affected.
-
-Also, people have been inconvenienced as elephants roam overnight in rural areas such as Pangwella, Tektipothana, Kimbulpettiya and Themadawewa.
-
-The villagers point out that no action has been taken so far that the state officials have been in writing and verbally.
-
-◼️
-
-[Data](articles/6e87a4f4.json)
-
-[Extended Data](ext_articles/6e87a4f4.ext.json)
-
----
-
-### New Zealand help in Galle
-
-*2024-09-28 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201623) · `si`
-
-New Zealand wins first Test against Sri Lanka in Galle. NZ scored 514/7, beating SL's 602/10. Faye Jayasuriya top-scored for SL with 42. Prabath and Nishan took 3 wickets each for SL. Mitchell Santner highest scorer for NZ with 29.
-
-🟩
-
-Sri Lanka and New Zealand won the first innings to 88 runs in the first innings of the first Test match between New Zealand in Galle.
-
-Accordingly, New Zealand team is 514 runs more than 602 runs in the first innings.
-
-Fibe Jayasuriya, who was bowled out for 42 runs.
-
-In addition to Prabath, Nishan fires played three wickets for 33 runs.
-
-The highest innings in New Zealand innings was 29 marks for Mitchell Santnor.
-
-◼️
-
-[Data](articles/bc4cb112.json)
-
-[Extended Data](ext_articles/bc4cb112.ext.json)
-
----
-
-### Warning for those who do not pay taxes for the year
-
-*2024-09-28 11:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆண்டுக்கான-வரி-செலுத்தாதவர்களுக்கு-எச்சரிக்கை/175-344610) · `ta`
-
-Tax deadline: Pay by Sept 30, 2024. Late payment incurs fines and interest. No reduction possible. Contact 1944 or local office for details.
-
-🟩
-
-The Department of Home Affairs has announced that every person who has to pay income tax for the annual estimate year will pay all income taxes for the year 30 September 2024 or before.
-
-If one does not notice this, it is said that if the income tax is paid or delayed, it will be fined and interest.
-
-It also suggests that this penalties or interest will not be reduced or eliminated.
-
-In its announcement, the Department of Home Affairs said that those who need further information can be called for the number 1944 or contact the nearest domestic pardon regional office.
-
-◼️
-
-[Data](articles/be600070.json)
-
-[Extended Data](ext_articles/be600070.ext.json)
-
----
-
-### New Director General Legal of Presidential Secretariat appointed
-
-*2024-09-28 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102317/new-director-general-legal-of-presidential-secretariat-appointed-) · `en`
-
-President Anura Kumara Dissanayake has appointed Senior Advocate J.M. Wijebandara as the Director General Legal of the Presidential Secretariat.
-
-The appointment letter was presented to Mr. Wijebandara by Secretary to the President Dr. Nandika Sanath Kumanayake, the President’s Media Division stated.
-
-An alumnus of Ananda College, Colombo, Wijebandara holds a Bachelor of Arts (Honours) from the University of Colombo and a Bachelor of Laws (LLB) (Honours) from the Open University.
-
-Additionally, he is a former lecturer at the Faculty of Law at the University of Colombo.
-
-◼️
-
-[Data](articles/776c80aa.json)
-
-[Extended Data](ext_articles/776c80aa.ext.json)
 
 ---

@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 08:03:27**
+As of **2024-09-29 08:46:12**
 
 ## Newspaper Stats
 
-*Scraped **46,777** Articles*
+*Scraped **46,782** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 388
+dbsjeyarajcom | 389
 bbccomsinhala | 463
 colombotelegraphcom | 466
-islandlk | 2,751
+islandlk | 2,752
 economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,309
@@ -20,17 +20,75 @@ dailymirrorlk | 4,733
 adaderanalk | 5,503
 tamilmirrorlk | 6,275
 virakesarilk | 7,470
-adaderanasinhalalk | 8,086
+adaderanasinhalalk | 8,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,770 (100.0%) of 46,777 articles have been extended.
+46,772 (100.0%) of 46,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### නැවත සමීක්ෂණ අයදුම්පත් කැඳවන දින ගැන දැනුම්දීමක්
+
+*2024-09-29 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201651) · `si`
+
+2023 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ ප්‍රතිඵළ නැවත සමීක්ෂණය සඳහා අයදුම්පත් කැඳවීම සම්බන්ධව විභාග දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව එම අයදුම්පත් ඔක්තෝබර් 01 දා සිට 14 වන දින දක්වා සිදුකරන බව එහි සඳහන්ව තිබේ.
+
+තවද ප්‍රතිඵල සම්බන්ධයෙන් කිසියම් විමසීමක් සිදුකිරීමට අවශ්‍යනම් 1911 ක්ෂණික දුරකථන අංකයෙන් හෝ 011 2 785 922, 0112 786 616, 011 2 784 208 හෝ 011 2 784 537 යන අංක ඇමතීමෙන් විමසීම් කළ හැකි බව විභාග දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/83c34cc3.json)
+
+---
+
+### සුරාබදු බලපත්‍ර ගැන හෙළිදරව්වක්
+
+*2024-09-29 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201650) · `si`
+
+ජනාධිපතිවරණ කාලසීමාව තුළ නීතීවිරෝධි ලෙස සුරාබදු බලපත්‍ර විශාල ප්‍රමාණයක් නිකුත් කර ඇති බවට ඇතැම් පාර්ශව සිදුකරන ප්‍රකාශ සාවාද්‍ය බව සුරාබදු කොමසාරිස් ජනරාල් එම්. ජේ ගුණසිරි මහතා පවසයි.
+
+ඔහු පැවසුවේ රජය ගත් ප්‍රතිපත්තිමය තීරණයක් මත පසුගිය වසරේ මැයි මාසයේ සිට මේ දක්වා සුරාබදු බලපත්‍ර 172ක් පමණක් නිකුත් කර ඇති බවය.
+
+එමගින් රුපියල් කෝටි 220ක ආදායමක් උපයා ගැනීමට හැකි වූ බව ද සුරාබදු කොමසාරිස්වරයා පැවසීය.
+
+මේ අතර 2023 සහ 2024 වර්ෂවලට අදාළව පවතින හිග බදු එළඹෙන නොවැම්බර් මස 30 වැනිදාට පෙර ගෙවා අවසන් කිරීමට සියලු සමාගම් එකග වී ඇති බවද  සුරාබදු කොමසාරිස් ජනරාල්වරයා පැවසුවේය.
+
+◼️
+
+[Data](articles/65b4d8e6.json)
+
+---
+
+### වාහන සොරා ගැනීම හා මුදල් වංචාවන් කළ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-09-29 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201649) · `si`
+
+වාහන සොරා ගැනීම හා මුදල් වංචාවන් සිදු කිරීම සම්බන්ධයෙන් සැකකරුවන් දෙදෙනෙකු කිරිබත්ගොඩ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+ඊයේ (28) උදෑසන කාලයේ කිරිබත්ගොඩ පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත  සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබුණි.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 37ක් වන කඳාන ප්‍රදේශයේ පදිංචිකරුවෙකු බව පොලීසිය පවසයි.
+
+මෙම සැකකරු සම්බන්ධයෙන් සිදුකළ විමර්ශනයේදී ඔහු විසින් කූඨ ලේඛණ සකස් කර රුපියල් 13,000,000ක් වටිනා කාර් රථයක් අලෙවි කිරීම සම්බන්ධව තොරතුරු අනාවරණය වී ඇත.
+
+ඒ සම්බන්ධයෙන් සිදුකළ වැඩිදුර විමර්ශනයේදී ඔහු සමග මෙම ජාවාරමට සම්බන්ධ තවත් සැකකරුවෙකු කිරිබත්ගොඩ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 39ක් වන පමුණුගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මෙම සැකකරුද ව්‍යාජ ලේඛණ සකස් කර මෝටර් රථ මුදලට විකිණීම සම්බන්ධව තොරතුරු අනාවරණය කරගෙන ඇති අතර ඒ අනුව ඔවුන් විසින් කූඨ ලේඛණ සකස් කර පන්නල ප්‍රදේශයට අලෙවි කරන ලද මෝටර් රථයක් පොලිස් භාරයට ගෙන ඇත.
+
+...
+
+[Data](articles/0216ef03.json)
+
+---
 
 ### Heavy rains exceeding 100 mm
 
@@ -194,6 +252,20 @@ In 1978, the government of J. R. Jayewardene enacted a new Constitution which tr
 
 ---
 
+### Sri Lanka Provides Hope for Democracy in the West
+
+*2024-09-29 01:42:00* · [`islandlk`](http://island.lk/sri-lanka-provides-hope-for-democracy-in-the-west/) · `en`
+
+Sri Lanka’s Presidential election saw a genuine left-winger, from a Marxist party, record a victory that upended the country’s political establishment. But the NPP’s win was more than just historic for this country. A man whose ideology with regard to the fundamental questions of policy differs from all predecessors was elected. This is something presently unimaginable in the West. While it may have been different 100 years ago, today in most major Western countries, there is increasingly no way for the public to vote away the two sacred cows of the establishment: neoliberal capitalism and neo-con foreign policy. Here, Sri Lanka can provide hope.
+
+...
+
+[Data](articles/aea2b37e.json)
+
+[Extended Data](ext_articles/aea2b37e.ext.json)
+
+---
+
 ### O / L results released
 
 *2024-09-29 01:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201647) · `si`
@@ -237,6 +309,8 @@ In this second part of my interview with Dr. Dayan Jayatilleka (part one appeare
 ...
 
 [Data](articles/467c685d.json)
+
+[Extended Data](ext_articles/467c685d.ext.json)
 
 ---
 
@@ -815,6 +889,22 @@ The film has been officially releasing the film fans as the star actor Sasikumar
 [Data](articles/9d6bfff4.json)
 
 [Extended Data](ext_articles/9d6bfff4.ext.json)
+
+---
+
+### Sri Lanka’s new  Govt led by  President  Anura  Kumar  Dissanayake Restores  Country’s Old Visa System  in Adherence to a Recent Supreme Court Ruling
+
+*2024-09-28 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84810) · `en`
+
+Sri Lanka’s newly elected government led byPresident Anura Kumara Dissanayake has restored the country’s old visa system, adhering to a recent Supreme Court order that suspended a controversial new portal managed by a consortium including an Indian company.
+
+The announcement was made late on Thursday (September 26, 2024), almost two months after the country’s top court directed immigration authorities to revert to the online platform that was in use before the Ranil Wickremesinghe administration switched to the new system, roping in GBS Technology Services, the India-registered IVS Global Services, and VFS Global.
+
+In April this year, Mr. Wickremesinghe’s government opted for the new system. Following the move, Sri Lanka’s visa fee nearly doubled, sparking concern within the island nation’s tourism industry, a key foreign exchange earner.
+
+...
+
+[Data](articles/3efb746b.json)
 
 ---
 
@@ -2243,103 +2333,5 @@ Subsequently, the Kerala State Health Minister has advised that all those who co
 [Data](articles/d67a1cc2.json)
 
 [Extended Data](ext_articles/d67a1cc2.ext.json)
-
----
-
-### The rain will increase in the coming days
-
-*2024-09-28 02:05:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-நாட்களில்-மழை-அதிகரிக்கும்/175-344604) · `ta`
-
-Rainfall forecast: 100+mm expected in central regions, thunderstorms in northern areas.
-
-🟩
-
-The Department of Meteorology has predicted more than 100 millimeters of rainfall in some parts of the country.
-
-At the same time, it is reported that the country is likely to increase rainfall in the coming days.
-
-More than 100 mm of rainfall is expected in the Central and Sabaragamuwa provinces and some parts of Kalutara, Galle and Matara districts.
-
-Thundershowers are expected in the Northern, North Central, Uva and Southern Provinces. (A)
-
-◼️
-
-[Data](articles/ff631b6c.json)
-
-[Extended Data](ext_articles/ff631b6c.ext.json)
-
----
-
-### Focus on minority minorities
-
-*2024-09-28 02:01:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுபான்மையினர்-தொடர்பில்-கவனம்-செலுத்தவும்/175-344603) · `ta`
-
-Sri Lanka Muslim Media War congratulates Vijitha Heram as new media minister. Requests board appoints media companies focusing on minority representation. Leader appeals for minority inclusion in key positions. Emphasizes cooperation for better media culture and welfare of minority groups.
-
-🟩
-
-The Sri Lanka Muslim Media War has congratulated Vijitha Heram, the new media minister of the government headed by President Anura Kumara Dissanayake.
-
-In addition, the Media Forum has requested that the Board of Directors appoint to the media companies under the Ministry of Media and focus on minority representation.
-
-In this regard, its leader and senior journalist on behalf of the Sri Lankan Muslim Media War. M.. In a congratulatory letter sent to Amina Media Minister, he said,
-
-When the Director of Directors of the Ministry of Media Rupavahini Corporation, Independent Television Service, Sri Lanka Broadcasting Corporation and Lake House appoints, we appeal to the minority representation with the representation of the minority people.. This is because I would like to point out that these were not focused when such appointments were made in the past.
-
-...
-
-[Data](articles/4a79ff92.json)
-
-[Extended Data](ext_articles/4a79ff92.ext.json)
-
----
-
-### Sri Lanka Banks’ Association congratulates new President, assures support for nation building
-
-*2024-09-28 01:33:00* · [`islandlk`](http://island.lk/sri-lanka-banks-association-congratulates-new-president-assures-support-for-nation-building/) · `en`
-
-The Sri Lanka Banks’ Association (SLBA) has congratulated President Anura Kumara Dissanayake on his election to the Presidency and assured him of the fullest support of the banking sector for the challenging journey ahead.
-
-In a congratulatory note, the Association, which represents all licenced banks in Sri Lanka, said: “The essential political and social stability that must be maintained is underpinned as always by the economy, and the banking sector is a lynch-pin in this structure. We understand, and are fully committed to, our role to ensure that financial stability is sustained.”
-
-The full text of the SLBA note: “Please accept the warm congratulations of The Sri Lanka Banks’ Association (SLBA), which represents all licensed banks in Sri Lanka, on your election to the high office of the President of our nation.”
-
-...
-
-[Data](articles/bf06df5d.json)
-
----
-
-### CBSL policy rates to remain at current levels
-
-*2024-09-28 01:32:00* · [`islandlk`](http://island.lk/cbsl-policy-rates-to-remain-at-current-levels/) · `en`
-
-Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank at their current levels of 8.25 per cent and 9.25 per cent, respectively.
-
-The Board arrived at this decision, at its meeting held on September 26, 2024, after carefully considering the recent and expected macroeconomic developments and possible risks and uncertainties on the domestic and global fronts with a view to ensuring that inflation aligns with the target of 5 per cent over the medium term, while enabling the economy to reach its maximum potential, a CBSL statement said.
-
-The Board observed that inflation is likely to remain well below the target of 5 per cent over the next few quarters, potentially recording deflation in the immediate future driven by changes to administratively determined prices and easing of supply conditions, the Central Bank said.
-
-...
-
-[Data](articles/3b967ec0.json)
-
-[Extended Data](ext_articles/3b967ec0.ext.json)
-
----
-
-### NDB Bank achieves historic milestone as first Sri Lankan bank to reach 100,000 YouTube subscribers
-
-*2024-09-28 01:31:00* · [`islandlk`](http://island.lk/ndb-bank-achieves-historic-milestone-as-first-sri-lankan-bank-to-reach-100000-youtube-subscribers/) · `en`
-
-NDB Bank has achieved a groundbreaking digital milestone by becoming the first Sri Lankan bank to reach 100,000 subscribers on its YouTube channel, underscoring the Bank’s dedication to innovation and its digital-first approach in engaging with customers, setting a new benchmark for the banking industry in Sri Lanka.
-
-As a leader in leveraging social media to connect with its audience, NDB Bank’s YouTube channel has become a hub of informative and engaging content, providing valuable financial education, insights, and updates on the bank’s wide array of products and services. The content has resonated strongly with a local audience, with more than 96% of subscribers based in Sri Lanka, whilst the predominant age range is 25-34 years, followed closely by 35-44 years. Through dynamic video content, NDB has empowered its viewers with knowledge on critical financial topics, helping them make informed decisions while fostering a sense of trust and loyalty.
-
-...
-
-[Data](articles/ebe4f31a.json)
-
-[Extended Data](ext_articles/ebe4f31a.ext.json)
 
 ---

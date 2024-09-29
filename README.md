@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 09:57:48**
+As of **2024-09-29 10:10:42**
 
 ## Newspaper Stats
 
-*Scraped **46,796** Articles*
+*Scraped **46,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 2,841
 dailyftlk | 3,129
 adalk | 4,313
 dailymirrorlk | 4,733
-adaderanalk | 5,505
-tamilmirrorlk | 6,282
+adaderanalk | 5,506
+tamilmirrorlk | 6,284
 virakesarilk | 7,470
-adaderanasinhalalk | 8,090
+adaderanasinhalalk | 8,092
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,796 (100.0%) of 46,796 articles have been extended.
+46,801 (100.0%) of 46,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### Jayasuriya's term extended by a year
+
+*2024-09-29 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201654) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sanath Jayasuriya's coaching term extended by one year. Chris Silverwood briefly took over after World Cup.
+
+🟩
+
+Sanath Jayasuriya, the main coach of the Sri Lankan cricket team, has been extended by another year.
+
+As the chief coach of the Sri Lankan cricket team, Chris Silverwood was temporarily appointed as the chief coach with the completion of the World Cup.
+
+◼️
+
+[Data](articles/b51cacc3.json)
+
+[Extended Data](ext_articles/b51cacc3.ext.json)
+
+---
+
+### Sri Lanka head coach Sanath Jayasuriya’s term extended
+
+*2024-09-29 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102331/sri-lanka-head-coach-sanath-jayasuriyas-term-extended-) · `en`
+
+Sri Lanka Cricket (SLC) announced today that interim head coach of the Sri Lanka men’s cricket team, Sanath Jayasuriya’s term has been extended for another year.
+
+◼️
+
+[Data](articles/dbbaef4f.json)
+
+[Extended Data](ext_articles/dbbaef4f.ext.json)
+
+---
+
+### Many important issues have been revealed
+
+*2024-09-29 09:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-முக்கிய-விடயங்கள்-தெரியவந்துள்ளன/175-344646) · `ta`
+
+Prime Minister Harini Amarasuriya calls for immediate audit of Sports Ministry finances and anti-violence measures. Emphasizes reducing public fund waste and implementing fraud detection programs.
+
+🟩
+
+Prime Minister Harini Amarasuriya has issued a directive that the Ministry of Sports Ministry has the statistics of the Sports Ministry, but that the appropriate audit should be conducted on its progress and that an immediate audit should be conducted in it.
+
+The Prime Minister made this statement during a discussion which was held on the morning of 2024.09.27.
+
+As the Prime Minister, all the ministries in my charge are being identified and not yet to be made. Many important issues have been revealed in the Ministry of Sports in particular.
+
+As a government, we are very focused on wasting and abuse of public funds, and we are taking steps to control the costs. So you have to reduce the waste of festivals.
+
+The Ministry has statistics on the allocation of the government and spending. But no observation has yet been made regarding the progress of those costs. An internal audit should be done quickly about what happened on the money spent.
+
+...
+
+[Data](articles/fd601eb0.json)
+
+[Extended Data](ext_articles/fd601eb0.ext.json)
+
+---
 
 ### Announcement on re-scrutiny of GCE O/L results
 
@@ -47,6 +111,58 @@ The Department of Examinations further stated that if there are any inquiries re
 [Data](articles/c56a0938.json)
 
 [Extended Data](ext_articles/c56a0938.ext.json)
+
+---
+
+### Rwanda congratulations to Anura
+
+*2024-09-29 09:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுக்கு-ருவாண்டா-வாழ்த்து/175-344645) · `ta`
+
+Rwanda congratulates Anura Kumara Dissanayake as 9th President of Sri Lanka. Message emphasizes strengthening bilateral ties and mutual benefits for both nations.
+
+🟩
+
+In a message sent to the government of the Democratic Socialist Republic of Sri Lanka, the Rwanda Republican government has congratulated Anura Kumara Dissanayake, the 9th President of Sri Lanka.
+
+The news of Rwanda's acclaim for the best bilateral relations between the two countries revealed. The news further confirmed Rwanda's commitment to strengthen cooperation in mutual beneficial areas, aimed at improving relationships for the benefit of Rwanda and Sri Lankan citizens.
+
+◼️
+
+[Data](articles/31470f23.json)
+
+[Extended Data](ext_articles/31470f23.ext.json)
+
+---
+
+### The fourth day of the second Test is today
+
+*2024-09-29 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201653) · `si`
+
+Sri Lanka vs New Zealand Test: Day 4. NZ leads by 315 after scoring 199/5. SL won toss, scored 60/1. Weather halted play twice. Prabath Jayasuriya (6 wkts) and Nishan Peiris (3 wkts) star performers.
+
+🟩
+
+Today is the fourth day of the second Test match between Sri Lanka and Sri Lanka.
+
+New Zealand scored 199 runs for the loss of 5 wickets for their second innings when the match was completed yesterday.
+
+Accordingly, New Zealand team will be behind 315 runs than the first innings of Sri Lanka.
+
+Batting first, Sri Lanka won the toss and elected to score 60 runs for the first innings.
+
+However, New Zealand team was able to receive 88 runs in the first innings.
+
+Prabath Jayasuriya took six wickets and Nishan Peiris took three wickets.
+
+When New Zealand was in the innings to bat first, New Zealand team stopped again due to the bad weather, 5 wickets and scored 199 runs.
+
+Nishan Peiris wickets three wickets while Prabath Jayasuriya and Dananjaya de Silva were divided among 3 wickets.
+
+◼️
+
+[Data](articles/a9ef14c5.json)
+
+[Extended Data](ext_articles/a9ef14c5.ext.json)
 
 ---
 
@@ -1124,6 +1240,22 @@ There may be temporary localized strong winds during thundershowers. The general
 
 ---
 
+### The Prelate and the Premier:                                     Why   Mapitigama Buddharakkitha  Thera got  SWRD Bandaranaike Assaassinated.
+
+*2024-09-28 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84800) · `en`
+
+Sri Lanka’s newly elected president Anura Kumara Dissanayake has appointed Dr.Harini Amarasuriya as  his Prime minister. The academic turned politico is Sri Lanka’s third woman prime minister. The first woman PM of  the Island nation was Sirimavo Bandaranaike.  Sirimavo shattered a global glass ceiling in 1960  by becoming the world’s first woman prime minister.Her daughter Chandrika Kumaratunga became the second woman PM in 1994. Subsequently she  too made history  as Sri Lanka’s first woman president.
+
+As is well known Sirimavo and Chandrika were the wife and daughter of  formr Prime Minister  Solomon West Ridgeway Dias Bandaranaike (SWRDB) respectively. Prime Minister  Bandaranaike was killed in 1959. He died on 26 September 1959.. SWRDB was born on January 8th 1899. As such this year marks the 125th birth and 65th death anniversaries  of Bandaranaike.
+
+...
+
+[Data](articles/b9f5b454.json)
+
+[Extended Data](ext_articles/b9f5b454.ext.json)
+
+---
+
 ### Bowels too
 
 *2024-09-28 18:13:43* · [`adalk`](https://www.ada.lk/picture_story/බෝවතැන්නත්-හිස්-කරයි/10-412194) · `si`
@@ -1335,22 +1467,6 @@ Organized annually by the Sri Lanka Book Publishers’ Association, the “Colom
 [Data](articles/4fa6a4ad.json)
 
 [Extended Data](ext_articles/4fa6a4ad.ext.json)
-
----
-
-### The Prelate and the Premier:                                     Why   Mapitigama Buddharakkitha  Thera got  SWRD Bandaranaike Assaassinated.
-
-*2024-09-28 17:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84800) · `en`
-
-Sri Lanka’s newly elected president Anura Kumara Dissanayake has appointed Dr.Harini Amarasuriya as  his Prime minister. The academic turned politico is Sri Lanka’s third woman prime minister. The first woman PM of  the Island nation was Sirimavo Bandaranaike.  Sirimavo shattered a global glass ceiling in 1960  by becoming the world’s first woman prime minister.Her daughter Chandrika Kumaratunga became the second woman PM in 1994. Subsequently she  too made history  as Sri Lanka’s first woman president.
-
-As is well known Sirimavo and Chandrika were the wife and daughter of  formr Prime Minister  Solomon West Ridgeway Dias Bandaranaike (SWRDB) respectively. Prime Minister  Bandaranaike was killed in 1959. He died on 26 September 1959.. SWRDB was born on January 8th 1899. As such this year marks the 125th birth and 65th death anniversaries  of Bandaranaike.
-
-...
-
-[Data](articles/b9f5b454.json)
-
-[Extended Data](ext_articles/b9f5b454.ext.json)
 
 ---
 
@@ -2259,109 +2375,5 @@ The impact of strong winds and heavy rainfall is widespread throughout Florida, 
 [Data](articles/62c7243b.json)
 
 [Extended Data](ext_articles/62c7243b.ext.json)
-
----
-
-### The quarters of visa reduce
-
-*2024-09-28 09:17:09* · [`adalk`](https://www.ada.lk/breaking_news/වීසා-ලබා-ගැනීමේ-පෝලිම-අඩුවෙයි/11-412189) · `si`
-
-Sri Lanka introduces online visa system for Bandaranaike Airport. Tourists can now apply online, reducing queues. Security checks for 14 countries at airport. Goal: attract 23,000 foreign visitors annually.
-
-🟩
-
-The Bandaranawa has been given the online 'system' (onLine VISA) to visit Sri Lanka.
-
-Therefore, the queue to obtain visas should be obtained from the Katunayake airport.
-
-Its security reasons cannot be held in 14 countries and obtain visas for the inhabitants of the inhabitants of the countries or obtain visas from the Sri Lankan embassy in those countries.
-
-Tourist arrivals in Sri Lanka have been restored to Sri Lanka, and Sri Lanka will be able to bring 23 foreign tourists to bring about 23,000 foreign tourists to Sri Lanka this year.
-
-◼️
-
-[Data](articles/2098dd48.json)
-
-[Extended Data](ext_articles/2098dd48.ext.json)
-
----
-
-### Prime Minister Harini orders rapid audit of sports ministry allocations
-
-*2024-09-28 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102314/prime-minister-harini-orders-rapid-audit-of-sports-ministry-allocations) · `en`
-
-Prime Minister Dr. Harini Amarasuriya has called for an immediate audit of the Ministry of Sports’ financial allocations, emphasizing the need for transparency and accountability.
-
-Although expenditure statistics are available, there has been no evaluation of the actual progress achieved through these funds. The Prime Minister advised that an internal audit be conducted as soon as possible, according to the Prime Minister’s Media Division.
-
-Speaking at a meeting with heads of institutions under the Ministry of Sports and Youth Affairs yesterday (27)), Prime Minister Dr. Amarasuriya outlined her priorities across various ministries under her supervision, highlighting several concerns related to the Ministry of Sports.
-
-“As Prime Minister, I am prioritizing key issues that have been overlooked in ministries under my charge. The Ministry of Sports, in particular, has raised several critical concerns.
-
-...
-
-[Data](articles/0d75423e.json)
-
-[Extended Data](ext_articles/0d75423e.ext.json)
-
----
-
-### Rs. Twenty-million garlic pearls
-
-*2024-09-28 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201620) · `si`
-
-Negombo police arrest officers and suspects over garlic pearl scam. 38-year-old Gelioya resident involved. Case valued at 20,000 rupees.
-
-🟩
-
-Officers of the Negombo Divisional Criminal Investigation Bureau were arrested by the Negombo Divisional Criminal Investigation Bureau along with five Gests to sell.
-
-Police said that the value of the gauge was about 20,000 rupees.
-
-The suspect is a 38 year old resident of Gelioya.
-
-◼️
-
-[Data](articles/82f5ed3e.json)
-
-[Extended Data](ext_articles/82f5ed3e.ext.json)
-
----
-
-### Wrapping up mission, US troops will leave some longstanding bases in Iraq under new deal
-
-*2024-09-28 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102313/wrapping-up-mission-us-troops-will-leave-some-longstanding-bases-in-iraq-under-new-deal) · `en`
-
-The U.S. announced an agreement with the Iraqi government Friday to wrap up the military mission in Iraq of an American-led coalition fighting the Islamic State group by next year, with U.S. troops departing some bases that they have long occupied during a two-decade-long military presence in the country.
-
-But the Biden administration refused to provide details on how many of the approximately 2,500 U.S. troops still serving in Iraq will remain there or acknowledge it will mark a full withdrawal from the country.
-
-“I think it’s fair to say that, you know, our footprint is going to be changing within the country,” Pentagon deputy press secretary Sabrina Singh told reporters Friday without providing specifics.
-
-...
-
-[Data](articles/b2a47252.json)
-
-[Extended Data](ext_articles/b2a47252.ext.json)
-
----
-
-### Kumara Welgama faires
-
-*2024-09-28 09:04:28* · [`adalk`](https://www.ada.lk/breaking_news/කුමාර-වෙල්ගම-සමුගනියි/11-412188) · `si`
-
-Kumara Welgama, former Sri Lankan politician, dies at 74. He served as District Parliamentarian and played a significant role in national politics.
-
-🟩
-
-Former District Parliamentarian Kumara Welgama has passed away at a private hospital in Colombo this morning.
-
-He was 74 years old when he died.He was also a critical figure in politics in the country.
-
-◼️
-
-[Data](articles/aa6f1733.json)
-
-[Extended Data](ext_articles/aa6f1733.ext.json)
 
 ---

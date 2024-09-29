@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-29 15:22:33**
+As of **2024-09-29 15:38:24**
 
 ## Newspaper Stats
 
-*Scraped **46,840** Articles*
+*Scraped **46,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,842
 dailyftlk | 3,129
 adalk | 4,322
 dailymirrorlk | 4,733
-adaderanalk | 5,510
+adaderanalk | 5,511
 tamilmirrorlk | 6,289
 virakesarilk | 7,481
 adaderanasinhalalk | 8,100
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,100
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,840 (100.0%) of 46,840 articles have been extended.
+46,840 (100.0%) of 46,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-29 (Sunday)
+
+### President’s decision on parliamentary election expenses
+
+*2024-09-29 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102336/presidents-decision-on-parliamentary-election-expenses) · `en`
+
+The Commissioner General of Elections, Saman Sri Ratnayake, says that the President has signed the relevant document for the release of Rs. 11 billion which is expected to be expense to hold the 2024 General Election.
+
+He revealed this to the media following a discussion on preliminary preparations for the upcoming General Election.
+
+Two meetings regarding the preliminary matters concerning the parliamentary elections were conducted at the Election Commission Office in Rajagiriya yesterday (29).
+
+The first discussion was held with the participation of District Secretaries and Deputy District Secretaries, and the Commissioner General of Elections, Saman Sri Ratnayake also attended the discussion.
+
+Meanwhile, another meeting between District Returning Officers, Assistant Commissioners, and Deputy Election Commissioners was held last afternoon to further discuss election preparations.
+
+◼️
+
+[Data](articles/942deb78.json)
+
+---
 
 ### Arrest
 
@@ -2361,29 +2381,5 @@ Sirisena, who spoke of Samba, Nadu, milk samba, cultivating the advantages of cu
 [Data](articles/66dac0b4.json)
 
 [Extended Data](ext_articles/66dac0b4.ext.json)
-
----
-
-### Circular in relation to all schools
-
-*2024-09-28 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201638) · `si`
-
-Circular: Ministry bans money collection for school events. Parents and principals warned about potential issues. Secretary Thilaka Jayasundara instructs no fundraising during school activities.
-
-🟩
-
-Thilaka Jayasundara has issued a circular to the principals of all schools in all schools in the country.
-
-It is said that the Ministry has received several complaints regarding money collections from parents for various celebrations of World Children's Day, Teachers' Day.
-
-The Ministry of Secretaries also pointed out that the parents and principals will face many problems due to such incidents.
-
-As a result, the Secretary to the Ministry of Secretary Thilaka Jayasundara has informed Ms. Thilaka Jayasundara to be collected into schools not to be collected in schools to conduct ceremonies in schools.
-
-◼️
-
-[Data](articles/aa9d03a2.json)
-
-[Extended Data](ext_articles/aa9d03a2.ext.json)
 
 ---

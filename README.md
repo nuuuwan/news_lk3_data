@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 05:44:42**
+As of **2024-09-30 06:44:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,109
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,915 (100.0%) of 46,918 articles have been extended.
+46,918 (100.0%) of 46,918 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,6 +86,8 @@ Alles was the Managing Director/Chief Executive Officer of Hatton National Bank 
 
 [Data](articles/c17d8b01.json)
 
+[Extended Data](ext_articles/c17d8b01.ext.json)
+
 ---
 
 ### Vidullanka appoints Professor Anura Wijeyapala to Board of Directors
@@ -101,6 +103,8 @@ He is a Fellow of the Institute of Engineers, Sri Lanka and an International Pro
 ...
 
 [Data](articles/1a39976d.json)
+
+[Extended Data](ext_articles/1a39976d.ext.json)
 
 ---
 
@@ -773,6 +777,8 @@ The heading of this article is inspired by the title of Edgar Snow’s  , “Red
 ...
 
 [Data](articles/139b1f89.json)
+
+[Extended Data](ext_articles/139b1f89.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 16:56:07**
+As of **2024-09-30 17:08:00**
 
 ## Newspaper Stats
 
-*Scraped **47,020** Articles*
+*Scraped **47,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ colombotelegraphcom | 469
 islandlk | 2,762
 economynextcom | 2,848
 dailyftlk | 3,144
-adalk | 4,347
+adalk | 4,348
 dailymirrorlk | 4,733
-adaderanalk | 5,532
+adaderanalk | 5,533
 tamilmirrorlk | 6,321
 virakesarilk | 7,518
-adaderanasinhalalk | 8,129
+adaderanasinhalalk | 8,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,020 (100.0%) of 47,020 articles have been extended.
+47,020 (100.0%) of 47,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### හිරු උදාවට පෙර පෙනෙන දුර්ලභ වර්ගා තරුවක්
+
+*2024-09-30 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201695) · `si`
+
+මේ දිනවල අලුයම 5න් පසු නැගෙනහිර අහසේ දුර්ලභ වල්ගා තරුවක් දර්ශනය වන බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය සඳහන් කරයි.
+
+චීනයේ purple mountain observatory සහ NASA හි Asteroid Terrestrial - Impact Last Alert System (ATLAS) විසින්‌ 2023 ජනවාරි 9 වන දින සොයා ගන්නා ලද  C/2023 A3 වල්ගා තරුව මෙලෙස දර්ශනය වේ.
+
+ක්ෂිතිජයට ඉතාමත්‌ සමීපයෙන්‌ දර්ශනය වීම සහ පවතින ආලෝක දුෂණ තත්ත්වයන් නිසා මෙම වල්ගා තරුව නිරීක්ෂණය කිරීම තරමක්‌ අපහසු වන බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය පවසයි.
+
+මෙම වල්ගා තරුව ඔක්තෝබර්‌ 2 සහ 15 අතර දිනයන්හි දී උපරිම දීප්තියට ළඟා වනු ඇතැයි අපේක්ෂා කරන අතර, එම අවස්ථාවේදී එහි දෘශ්‍ය, විශාලත්වය 46ක්‌ පමණ බව එම ආයතනය සඳහන් කරයි.
+
+ඔක්තෝබර්‌ 12 වෙනිදායින් පසු මෙම වල්ගා තරුව හිරු බැස යාමෙන්‌ පසුව බටහිර අහසේ දර්ශනය වනු ඇතැයි ආතර් සී ක්ලාක් මධ්‍යස්ථානය
+
+මෙම වල්ගා තරුව නැවත දර්ශන වන්නේ අවුරුදු 80,000කට පසුව බව ආතර් සී ක්ලාක් ආයතනයේ, තාරකා විද්‍යා අංශයේ, පර්යේෂණ විද්‍යාඥ තීක්ෂණ ප්‍රියදාස මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/427f3da7.json)
+
+---
+
+### Postal voting applications for General Election accepted from tomorrow
+
+*2024-09-30 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102358/postal-voting-applications-for-general-election-accepted-from-tomorrow-) · `en`
+
+The accepting of applications for postal voting in the upcoming parliamentary elections will commence from tomorrow (Oct. 01) and is scheduled to end on October 08, 2024.
+
+Meanwhile, the Commissioner General of Elections, Saman Sri Ratnayake discussed the preparations for the upcoming General Election while participating in the Ada Derana’s ‘Big Focus’ program.
+
+He noted that while the election was officially announced on September 25 and that the voter list certified by then is the voter list which was certified on July 08.
+
+Answering a question regarding the allocation of funds for the General Elections, the Commissioner General stated that if the President dissolves parliament as per his wishes, then he is bound by Article 150 (4) of the Constitution to allocate the necessary funds for the election.
+
+...
+
+[Data](articles/74b044c7.json)
+
+---
 
 ### Helene kills 30 lives
 
@@ -139,6 +179,20 @@ The bureau is being taken to further the Bureau against the suspect and will be 
 [Data](articles/7be16dcb.json)
 
 [Extended Data](ext_articles/7be16dcb.ext.json)
+
+---
+
+### සචින්, සංගක්කාර,පොන්ටින්ගේ සමාජයට කෝලිත් එක්වෙයි
+
+*2024-09-30 16:11:10* · [`adalk`](https://www.ada.lk/sports/සචින්--සංගක්කාර-පොන්ටින්ගේ-සමාජයට-කෝලිත්-එක්වෙයි/9-412231) · `si`
+
+ජාත්‍යන්තර තරග වලදී ලකුණු 27,000 සීමාව පසු කළ සිව්වන ක්‍රීඩකයා බවට පත්වීමට ඉන්දියාවේ විරාත් කෝලි අද(30දා) සමත් විය.
+
+මීට පෙර එම දක්ෂතාවය සචින් ටෙන්ඩුල්කාර් (ඉන්දියාව), කුමාර සංගක්කාර(ශ්‍රී ලංකාව) සහ රිකී පොන්ටින්(ඕස්ට්‍රේලියාව) යන ක්‍රීඩකයක් දක්වා තිබුණි.
+
+◼️
+
+[Data](articles/f2e1b230.json)
 
 ---
 
@@ -2309,73 +2363,5 @@ In his letter, the former MP pointed out that the Jaffna-Palaly road, particular
 [Data](articles/b199a269.json)
 
 [Extended Data](ext_articles/b199a269.ext.json)
-
----
-
-### Sri Lankan Ambassador-designate to France presents Credentials to Andorra Co-Prince Emmanuel Macron
-
-*2024-09-30 04:13:33* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-Ambassador-designate-to-France-presents-Credentials-to-Andorra-Co-Prince-Emmanuel-Macron/56-767304) · `en`
-
-Principality of Andorra Co-Prince Emmanuel Macron (left) and Sri Lankan Ambassador-designate to France Manisha Gunasekera
-
-Sri Lankan Ambassador-designate to France Manisha Gunasekera presented her Letters of Credence to Principality of Andorra Co-Prince Emmanuel Macron at the Elysee Palace on Tuesday, 17 September.
-
-Following the presentation of Credentials, Ambassador Gunasekera had a brief meeting with the Co-Prince in which she conveyed the warm greetings and best wishes of the President of Sri Lanka. She also apprised the Co-Prince of the vibrant nature of bilateral relations between Sri Lanka and Andorra, and on cooperation in multilateral fora.
-
-Co-Prince Macron extended his warm greetings to the President, the Government, and the people of Sri Lanka, and looked forward to further strengthening existing cooperation between Sri Lanka and France across sectors.
-
-...
-
-[Data](articles/08b10272.json)
-
-[Extended Data](ext_articles/08b10272.ext.json)
-
----
-
-### Iran’s Khamenei vows revenge over Nasrallah’s killing
-
-*2024-09-30 04:10:57* · [`dailyftlk`](https://www.ft.lk/news/Iran-s-Khamenei-vows-revenge-over-Nasrallah-s-killing/56-767303) · `en`
-
-Iran’s Supreme Leader Ayatollah Ali Khamenei said on Saturday that the killing of Hezbollah leader Hassan Nasrallah would be avenged and other militants would continue his path in fighting Israel.
-
-“(Nasrallah) was not an individual. He was a path and a school of thought and the path will be continued,” Khamenei said in a statement read on State television, in which he announced five days of mourning in Iran. “The blood of the martyr shall not go unavenged,” he said.
-
-Khamenei, in an earlier statement issued after the Israeli army said it had killed Nasrallah, said: “The fate of this region will be determined by the forces of resistance, with Hezbollah at the forefront,” State media reported.
-
-After Hezbollah confirmed Nasrallah’s death, Iranian media reported that General Abbas Nilforoushan, a deputy commander of Iran’s Revolutionary Guards, had died “next to Nasrallah” in the Israeli strikes on south Beirut on Friday.
-
-...
-
-[Data](articles/0e332e23.json)
-
-[Extended Data](ext_articles/0e332e23.ext.json)
-
----
-
-### Police Sergeant who saved the life of a woman who jumped from the Mannar Bridge and committed suicide
-
-*2024-09-30 03:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195095) · `ta`
-
-Sergeant saves suicidal woman: Quick-thinking officer stops jumper on Mannar Bridge, handing victim to authorities.
-
-🟩
-
-It is reported that a woman who attempted suicide by jumping from the Mannar main bridge was rescued on Sunday (29) due to the rapid action of the Mannar Transport Sergeant Sharge Sergeant Malalasekara (41308).
-
-A woman has taken a letter in the hands of a woman while working in the office of the Divisional Transport Division in the office near the main bridge that enters Mannar on Sunday morning (29).
-
-Then the police officer about the woman knows Tamil?Asked. The woman asked in Tamil to ask who you were in Tamil, put the letter and mobile phone in her hand at the police sergeant's desk and ran towards the Mannar Bridge.
-
-Police Sergeant Malalasekaran, who observed the incident, had chased the woman to commit suicide.
-
-The woman then climbed on the safety wall of the bridge and ready to jump into the sea. Malalasekera caught the woman's leg as she was ready to jump on the bridge.
-
-A 24 -year -old woman rescued by Sergeant has been handed over to the Mannar Police Women and Children's Bureau.
-
-◼️
-
-[Data](articles/50d28e68.json)
-
-[Extended Data](ext_articles/50d28e68.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 22:12:57**
+As of **2024-09-30 22:38:38**
 
 ## Newspaper Stats
 
-*Scraped **47,068** Articles*
+*Scraped **47,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,856
 dailyftlk | 3,145
 adalk | 4,355
 dailymirrorlk | 4,733
-adaderanalk | 5,537
+adaderanalk | 5,538
 tamilmirrorlk | 6,324
 virakesarilk | 7,531
-adaderanasinhalalk | 8,138
+adaderanasinhalalk | 8,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,068 (100.0%) of 47,068 articles have been extended.
+47,070 (100.0%) of 47,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### A proposal to the Scholarship Examination issue
+
+*2024-09-30 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201704) · `si`
+
+Here's a summary of the proposal in 200 characters:
+
+
+
+Proposal: Resolve Grade 5 Scholarship Exam scheduling issues. Request immediate action to reuse exam papers. Authorities urged to prevent future incidents. Students and parents disappointed due to previous exam problems.
+
+🟩
+
+Sajith Premadasa requests Sajith Premadasa to take measures to resolve the serious schedule of Grade 5 Scholarship Question Papers and take immediate action to reuse the examination.
+
+He has made this request by referring to a special announcement, stating that '5th Grade Scholarship Examination Papers' Departure. "
+
+It has further requested authorities to take strict to prevent such incidents in the future.
+
+It also shows that before the scholarship examination question paper is a very sad event, so both students and parents are very disappointed.
+
+◼️
+
+[Data](articles/c1614a8b.json)
+
+[Extended Data](ext_articles/c1614a8b.ext.json)
+
+---
+
+### Israel said to inform US of plans for imminent limited ground op in Lebanon
+
+*2024-09-30 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102363/israel-said-to-inform-us-of-plans-for-imminent-limited-ground-op-in-lebanon) · `en`
+
+Israel is planning a limited ground operation in Lebanon that may start imminently, Israel has told the United States, the Washington Post reports citing an unidentified US official.
+
+The operation will be smaller than Israel’s 2006 war against Hezbollah and will focus on security for border communities, the official says.
+
+Israel’s Defence Minister Yoav Gallant on Monday said ground forces could be used against Hezbollah militants in Lebanon, adding military operations will go on despite the killing of the group’s leader Hassan Nasrallah.
+
+Gallant made the comments while speaking to Israeli troops deployed to the northern border where cross-border fire with Hezbollah continued for nearly a year but escalated this month.
+
+“We will use all the means that may be required -- your forces, other forces, from the air, from the sea, and on land,” Gallant said.
+
+“The elimination of Nasrallah is an important step, but it is not the final one”.
+
+...
+
+[Data](articles/8e3702f7.json)
+
+[Extended Data](ext_articles/8e3702f7.ext.json)
+
+---
 
 ### Fuel prices reduced
 
@@ -2395,55 +2447,5 @@ The body of the deceased was placed at the Batticaloa-Teaching Hospital while Ca
 [Data](articles/df31c85f.json)
 
 [Extended Data](ext_articles/df31c85f.ext.json)
-
----
-
-### Ice, heroin, drug pills and five arrests
-
-*2024-09-30 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195108) · `ta`
-
-Arrests made in Malkisai, Ratmalana, Kothalawala: Ice, heroin, pills seized. Five suspects, including woman, detained. Further investigation ongoing at Mount Lavinia Police Station.
-
-🟩
-
-Five suspects, including a woman, have been arrested on Sunday (29) in the area of ​​Malkisai, Ratmalana and Kothalawala Pur.
-
-The suspects have been arrested during the raids carried out on the basis of information received by the Mount Lavinia Police Criminal Investigation Division.
-
-Four persons aged 27, 30 and 46, aged 27, 30 and 46 from Ratmalana, Angula and Moratuwa have been arrested.
-
-Of the arrested suspects, 21 grams of 350 milligrams of ice, 12 g 250 milligram of heroin, 11 grams 700 milligrams of heroin and 1000 narcotics were seized from 12 grams of heroin.
-
-Subsequently, the arrested suspects have been handed over to the Mount Lavinia Police Station for further investigations.
-
-◼️
-
-[Data](articles/1b99602c.json)
-
-[Extended Data](ext_articles/1b99602c.ext.json)
-
----
-
-### Hamas says its leader in Lebanon was killed in Israeli strike
-
-*2024-09-30 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102351/hamas-says-its-leader-in-lebanon-was-killed-in-israeli-strike) · `en`
-
-Palestinian militant group Hamas said on Monday that its leader in Lebanon Fateh Sherif Abu el-Amin was killed along with some of his family members in an Israeli strike in the south of the country.
-
-As Israel escalates hostilities against Iran’s allies in the region, the Popular Front for the Liberation of Palestine (PFLP) said three of its leaders were killed in a strike that targeted Beirut’s Kola district.
-
-The strike hit the upper floor of an apartment building, Reuters witnesses said.
-
-Israel’s increasing frequency of attacks against the Hezbollah militia in Lebanon and the Houthi militia in Yemen have prompted fears that Middle East fighting could spin out of control and draw in Iran and the United States, Israel’s main ally.
-
-The PFLP is another militant group taking part in the fight against Israel.
-
-Israel on Sunday launched airstrikes against the Houthi militia in Yemen and dozens of Hezbollah targets throughout Lebanon after earlier killing the Hezbollah leader.
-
-...
-
-[Data](articles/1bbc1fcd.json)
-
-[Extended Data](ext_articles/1bbc1fcd.ext.json)
 
 ---

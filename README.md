@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 21:10:16**
+As of **2024-09-30 21:23:13**
 
 ## Newspaper Stats
 
-*Scraped **47,058** Articles*
+*Scraped **47,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ dailymirrorlk | 4,733
 adaderanalk | 5,535
 tamilmirrorlk | 6,324
 virakesarilk | 7,528
-adaderanasinhalalk | 8,136
+adaderanasinhalalk | 8,137
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,058 (100.0%) of 47,058 articles have been extended.
+47,058 (100.0%) of 47,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### හංවැල්ලේ වෙඩිතැබීමක්
+
+*2024-09-30 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201702) · `si`
+
+පොලීසිය සඳහන් කළේ එම පුද්ගලයා නිවසේ සිටියදී මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+
+◼️
+
+[Data](articles/baeb402c.json)
+
+---
 
 ### Sellent land sellers live - former President Chandrika
 
@@ -2447,35 +2459,5 @@ Earlier this year the company acquired Focus Brands, a UK based brand licensing 
 [Data](articles/b8b21919.json)
 
 [Extended Data](ext_articles/b8b21919.ext.json)
-
----
-
-### A relative of Lac Vihara is arrested
-
-*2024-09-30 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201679) · `si`
-
-STF arrests suspect in Weliweriya with pistol and ammo. Suspect linked to organized crime and drugs. Handed to local police for investigation. Another firearm seized in Meegahawatta.
-
-🟩
-
-Police STF personnel have been arrested by the STF in Weliweriya area with a micro pistol and live ammunition.
-
-The suspect is an organized criminal and a drug dealer Janith Miserator, or a relative of those who are a relative of those who are a relative of those who are a relative of the dental of the Rajaria.
-
-The suspect had carried out the raid that the man was hiding in foreign countries for many years, police said.
-
-The 46-year-old suspect has been handed over to the Weliweriya Police Station for further investigations.
-
-Meanwhile, a firearm has been arrested by the STF personnel in the Meegahawatta area.
-
-It is said that the suspect had found a row of a 38 mm 58 mm.
-
-The police said that the suspect is connected to the "Thotalanga Cheana Cheana ', who is a disciple of Ganejawaja's disciple.
-
-◼️
-
-[Data](articles/08366dd3.json)
-
-[Extended Data](ext_articles/08366dd3.ext.json)
 
 ---

@@ -1,36 +1,218 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 14:39:01**
+As of **2024-09-30 15:22:53**
 
 ## Newspaper Stats
 
-*Scraped **46,987** Articles*
+*Scraped **47,005** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 390
-bbccomsinhala | 463
+bbccomsinhala | 464
 colombotelegraphcom | 469
-islandlk | 2,760
+islandlk | 2,762
 economynextcom | 2,848
 dailyftlk | 3,144
-adalk | 4,342
+adalk | 4,343
 dailymirrorlk | 4,733
-adaderanalk | 5,527
-tamilmirrorlk | 6,315
-virakesarilk | 7,510
-adaderanasinhalalk | 8,123
+adaderanalk | 5,528
+tamilmirrorlk | 6,319
+virakesarilk | 7,518
+adaderanasinhalalk | 8,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,987 (100.0%) of 46,987 articles have been extended.
+47,000 (100.0%) of 47,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### The list of people who have taken 107 vehicles out
+
+*2024-09-30 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201689) · `si`
+
+Here's a 200-character summary:
+
+
+
+Presidential Secretariat announces 107 vehicles temporarily assigned. Vehicles not allowed outside premises. Not for permanent staff use. Former President's vehicles returned. List of users not provided.
+
+🟩
+
+The Presidential Secretariat has issued announcement on vehicles in the premises near the Presidential Secretariat.
+
+It states that 107 vehicles handed over to the Presidential Secretariat have been temporarily handed over to the Presidential Secretariat with the security office of the Presidential Secretariat with the appointment of the new President.
+
+The vehicle also said that the vehicle vehicles were not allowed in the presidency outside the Presidential Secretariat, so he was not allowed to be parked in the Presidential Secretariat.
+
+However, it is stated in the announcement issued by the Presidential Media Unit that the Presidential Media Unit issued not to be demonstrated at all.
+
+The vehicles were not vehicles provided to the Permanent Staff of the Presidential Secretariat and the former President has been given vehicles that were appointed to the former President in his tenure.
+
+Below is the full list of those used by the vehicle.
+
+◼️
+
+[Data](articles/f4a34937.json)
+
+[Extended Data](ext_articles/f4a34937.ext.json)
+
+---
+
+### Further inquiries into suspect arrested in Ampara
+
+*2024-09-30 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195132) · `ta`
+
+Ampara: Suspect arrested with ice drugs. Further investigation ongoing. 43-year-old man arrested. 5g 650mg ice seized. Suspect involved in drug consumption and sales. Officials led by Inspector RACS Ratnayake.
+
+🟩
+
+The Kalmunai Special Task Force said that further investigations are being carried out in connection with the suspect arrested with ice drugs.
+
+The road patrols were carried out following a confidential information on Friday evening (27) at the Iriyamam Police Division of the Ampara District.
+
+Officers led by the Inspector of Police RACS Ratnayake, who are in charge of the Kalmunai Special Task Force Camp, have rescued the suspect and handed over the suspects and handed over to the police for legal action.
+
+A 43 -year -old man has been arrested for the father of 4 children from Varappathan Senai 02 Vandikaran Road.
+
+5 g 650 milligrams of Ice is seized from the suspect.
+
+Investigations have revealed that the arrested person was involved in drug consumption and sales for several days.
+
+...
+
+[Data](articles/aaa68775.json)
+
+[Extended Data](ext_articles/aaa68775.ext.json)
+
+---
+
+### Date Dates Notification to Apply
+
+*2024-09-30 14:50:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பிக்க-வேண்டிய-திகதிகள்-அறிவிப்பு/175-344707) · `ta`
+
+Elections Commission announces postal voting application dates: Oct 1-8. General election set for Nov 14. Nominations filing: Oct 4-11. New Parliament: Nov 21, 2024.
+
+🟩
+
+The Elections Commission has announced that applications for postal voting in the upcoming general election will be accepted from October 1 to October 8.
+
+The Commissioner General of Elections has confirmed that the general elections will be held on the 14th of November.
+
+The announcement was recently issued by President Anura Kumara Dissanayake by dissolving the Parliament of Sri Lanka on the 24th of last month.
+
+Accordingly, the filing of nominations will be held from October 4 to 2024 from October 11, while the new Parliament is scheduled for November 21, 2024.
+
+◼️
+
+[Data](articles/bd6ce83b.json)
+
+[Extended Data](ext_articles/bd6ce83b.ext.json)
+
+---
+
+### First Cabinet decisions of the National People's Power will be announced tomorrow
+
+*2024-09-30 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195130) · `ta`
+
+National People's Power Government announces Cabinet decisions on Tuesday. Minister Vijitha Herath to reveal initial decisions.
+
+🟩
+
+The National People's Power Government will announce the Cabinet decisions of the government on Tuesday (01). Minister Vijitha Herath will announce the initial decisions of the Cabinet.
+
+◼️
+
+[Data](articles/c9d13c4e.json)
+
+[Extended Data](ext_articles/c9d13c4e.ext.json)
+
+---
+
+### The boys arrested for attending the party
+
+*2024-09-30 14:45:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருந்தில்-கலந்து-கொண்ட-சிறுவர்கள்-கைது/175-344705) · `ta`
+
+Ragama police arrest 18 students aged 15-19 for drug-related activities at a secret gathering.
+
+🟩
+
+Officials have confirmed that 18 students have been arrested by the Ragama police yesterday (29) evening.
+
+The move was followed by confidential information that was secretly gathering at a parking lot in Nugawela Kesalwatte.
+
+The arrested have 16 boys and two girls aged 15 to 19.
+
+It is reported that students from Kottanchenai, Blumental, Dematagoda, Wellampitiya and Kolonnawa are studying in popular schools in these areas.
+
+According to the police, the police said that these students had been engaged in drug -related activities for some time and had a rich appearance even though they belong to poor families.
+
+The raid took place under the leadership of the Chief Inspector Buddhika Rajapaksa of the Ragama Police Station and the Criminal Investigation Officer of the Department.
+
+◼️
+
+[Data](articles/55605d62.json)
+
+[Extended Data](ext_articles/55605d62.ext.json)
+
+---
+
+### Weather advisory for severe lightning
+
+*2024-09-30 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102354/weather-advisory-for-severe-lightning) · `en`
+
+The Department of Meteorology has issued an advisory for severe lightning for several provinces and districts.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central, Uva and North-western provinces and in Ampara, Batticaloa and Polonnaruwa districts, it said.
+
+There may be temporary localized strong winds during thundershowers while the general public is requested to take adequate precautions to minimize damages caused by lightning activity.
+
+◼️
+
+[Data](articles/71d5c12a.json)
+
+[Extended Data](ext_articles/71d5c12a.ext.json)
+
+---
+
+### Rain for pouring;Homes that are completely treasured;More than 200 people killed in Nepal
+
+*2024-09-30 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/195133) · `ta`
+
+Nepal floods: 200+ dead, homes destroyed, rivers overflowed. Climate crisis blamed. Rescue efforts ongoing.
+
+🟩
+
+In Nepal, 200 people have been killed in the capital Kathmandu due to flooding due to continuous rains.
+
+Due to continuous rains, rivers have been revealed that many cities of the capital are under water.
+
+More than 100 houses have been destroyed, highways have been cut off due to floods, Nepal reports say.
+
+Scientists have said that Nepal is facing the most dangerous rainfall and flooding due to the climate crisis.
+
+Rescuers are facing great difficulties in rescuing and rescued by floods and those who have been flooded with floods in the distant area.
+
+Lalithpur in the south of Kathmandu is facing the worst effects.
+
+Rescue workers are digging those areas with their hands to rescue those who are thought to be in the mud or flood.
+
+Helicopters and boats are being used to rescue people who have taken refuge on the roofs.
+
+192 people have died since Friday and 92 were injured and a large number of people disappeared, officials said.
+
+...
+
+[Data](articles/53653262.json)
+
+[Extended Data](ext_articles/53653262.ext.json)
+
+---
 
 ### A warning of the weather in rain with strong lightning
 
@@ -77,6 +259,26 @@ He added that the remains of the deceased youth to come to Sri Lanka.
 [Data](articles/59cdf248.json)
 
 [Extended Data](ext_articles/59cdf248.ext.json)
+
+---
+
+### The new cabinet gather with three
+
+*2024-09-30 13:46:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-மூவருடன்-கூடுகின்றது/175-344703) · `ta`
+
+New cabinet meets today: President Anura Kumara Dissanayake chairs, PM Harini Amarasuriya, Minister Vijitha Herath attend.
+
+🟩
+
+The meeting will be held this afternoon chaired by President Anura Kumara Dissanayake.
+
+President Anura Kumara Dissanayake, Prime Minister Harini Amarasuriya and Minister Vijitha Herath will also attend the meeting.
+
+◼️
+
+[Data](articles/a2c8d066.json)
+
+[Extended Data](ext_articles/a2c8d066.ext.json)
 
 ---
 
@@ -184,6 +386,52 @@ Q: Is there any UPFA, a party, and the nomination will be handed over before 11t
 
 ---
 
+### Hand the handguns immediately;Order to former MPs
+
+*2024-09-30 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195122) · `ta`
+
+Former MPs ordered to return handguns to Defense Ministry immediately. Over 100 ex-lawmakers received weapons for personal protection under previous government's policy. New order reverses this decision.
+
+🟩
+
+It has been reported that former MPs have been ordered to return to the Defense Ministry without delay.
+
+A senior security official said that parliamentary officials had separately sent a letter to the former MPs who had received these guns.
+
+Statistics point out that over 100 MPs in the recently dissolved parliament have received handguns for personal protection.
+
+The latest change has been followed by the previous government's decision to allow former MPs to keep at least two guns for their personal security.
+
+Speaking to the media in August ahead of the presidential election, Cabinet spokesman Bandula Gunawardena said the government had decided to implement a new policy of holding two rifles for former MPs in the country.
+
+◼️
+
+[Data](articles/fc2c33cc.json)
+
+[Extended Data](ext_articles/fc2c33cc.ext.json)
+
+---
+
+### Kamala Harris campaign momentum shows no sign of waning
+
+*2024-09-30 12:43:00* · [`islandlk`](http://island.lk/kamala-harris-campaign-momentum-shows-no-sign-of-waning/) · `en`
+
+Fed cuts interest rate by 0.5%, indicating optimism in already strong economy
+
+We are less than six weeks from the most significant election in the history of the United States of America, when the electorate of the most powerful nation in the world elects its leaders for the next four years.
+
+Until a few months ago, the protagonists for the U.S. Presidency were incumbent President Biden and former President Trump. As many as 75% of the US electorate, Republican and Democratic, were “Double Haters”, who believed neither of these old fogies was capable of leading the nation.
+
+The total meltdown of President Biden at the first Presidential Debate on June 27 provided the inevitable pivotal point in an untenable situation.
+
+...
+
+[Data](articles/31ff0123.json)
+
+[Extended Data](ext_articles/31ff0123.ext.json)
+
+---
+
 ### Going Native at Tambuttegama- a Dry Zone Purana Village
 
 *2024-09-30 12:36:00* · [`islandlk`](http://island.lk/going-native-at-tambuttegama-a-dry-zone-purana-village/) · `en`
@@ -272,6 +520,20 @@ Sri Lanka’s Presidential election saw a genuine left-winger, from a Marxist pa
 
 ---
 
+### PRESIDENTIAL ELECTION:
+
+*2024-09-30 12:24:00* · [`islandlk`](http://island.lk/presidential-election-2/) · `en`
+
+The propaganda which possibly helped the NPP leader to overcome SJB and UNP leaders was their capacity to aggressively agitate against many features of an ‘’iniquitous system’’ which people attributed to have been responsible for the bankruptcy of the country. They also exploited the belief of people that members of political groups or traditional parties which exchanged political power in turn, enjoyed perquisites and privileges associated with the “system”, while citizens suffered under the weight of the economic collapse. The “Aragalaya’’ of May 1922 heralded the emergence on a pervasive scale of hatred against the ‘’system”. The NPP took notice, and their campaign against it did not abate till the conclusion of the election.
+
+...
+
+[Data](articles/1426a105.json)
+
+[Extended Data](ext_articles/1426a105.ext.json)
+
+---
+
 ### Sri Lanka, Pakistan sign agreement to strengthen legislative practices
 
 *2024-09-30 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-pakistan-sign-agreement-to-strengthen-legislative-practices-181545/) · `en`
@@ -291,6 +553,32 @@ It “would benefit the parliamentary staff by providing training opportunities 
 [Data](articles/f625c269.json)
 
 [Extended Data](ext_articles/f625c269.ext.json)
+
+---
+
+### Three killed in motorcycle accidents occurred in different areas
+
+*2024-09-30 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195120) · `ta`
+
+Motorcycle accidents claim lives in Mahadeniya, Palali, and Illyi. Three dead, several injured.
+
+🟩
+
+Three motorcycle accidents occurred in three areas of Mahadeniya, Palali and Illyi on Sunday (29), and three others were injured, police said.
+
+A motorcycle crashed into a nearby canal after a motorcycle crashed into a nearby canal after a motorcycle collided with a motorcycle in the Mahadeniya area on the Colombo -Padukka road, which belongs to the Meegoda police division.
+
+One person has died after being admitted to the Homagama Hospital after being injured.
+
+In addition, a motorcycle traveling from Point Pedro to Kankesanthurai, near the Palali Police Division, near the Point Pedro- Kankesanthurai road, has lost the road and crashed into the wiring.
+
+A motorcycle driver and a motorcycle driver died after being admitted to the Tellippalai hospital after the motorcycle driver and the rear were injured.
+
+...
+
+[Data](articles/eead892d.json)
+
+[Extended Data](ext_articles/eead892d.ext.json)
 
 ---
 
@@ -317,6 +605,32 @@ A numberber of death confirmed WHILEMED WHIUSHANDS OF RESS HAVES HAVES HAVES HAV
 [Data](articles/354c36d1.json)
 
 [Extended Data](ext_articles/354c36d1.ext.json)
+
+---
+
+### Attack in Lebanon again;105 killed;350 people injured
+
+*2024-09-30 12:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-மீண்டும்-தாக்குதல்-105-பேர்-பலி-350-பேர்-காயம்/50-344702) · `ta`
+
+Israel launches airstrikes on Lebanon, killing 105, injuring 350. Attacks Hezbollah. Similar strikes occur in Yemen, targeting Houthi rebels.
+
+🟩
+
+105 people killed in Israel's air strike again in Lebanon. More than 350 people were seriously injured, the Ministry of Health said.
+
+Israel, which is attacking the Hamas terrorist organization, is now attacking the Lebanon -based Hezbollah organization.. In the attack a few days ago, 274 people, including 21 children and 39 women, were killed. Hizbullah leader Hasan Nasrallah was also killed.
+
+In this case, Israel has now launched an air strike on Lebanon. 105 people were killed in the attack. More than 350 people were seriously injured, the Lebanon Health Department said.
+
+Lebanese people have begun to flee the country to escape from Israel's attack. Israeli Prime Minister Benjamin Netanyahu is sure that we will not stop until we reach our goal.
+
+For the first time on July 21, nine months after the war against Hamas, the attack launched a target of several Houthi rebels in Yemen. In this case, Israel is currently carrying out a terrible attack in Yemen.
+
+...
+
+[Data](articles/31c3add5.json)
+
+[Extended Data](ext_articles/31c3add5.ext.json)
 
 ---
 
@@ -367,6 +681,20 @@ It is said that a revolver capable of firing 38mm bullets and live ammunition us
 [Data](articles/03a9031d.json)
 
 [Extended Data](ext_articles/03a9031d.ext.json)
+
+---
+
+### ஆற்றில் குதித்து உயிரை மாய்த்துக்கொள்ள முயன்றவர்  இராணுவபடையினரால் மீட்பு
+
+*2024-09-30 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195117) · `ta`
+
+மாத்தறை பிரதேசத்தில் மஹாநாம பாலத்திலிருந்து ஆற்றில் குதித்த நபரொருவர் இராணுவபடையினரால் மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+குறித்த நபர் தனது உயிரை மாய்த்துக் கொள்வதற்காக ஆற்றில் குதித்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/047ad90b.json)
 
 ---
 
@@ -539,6 +867,26 @@ The body of the deceased was placed at the Batticaloa-Teaching Hospital while Ca
 [Data](articles/df31c85f.json)
 
 [Extended Data](ext_articles/df31c85f.ext.json)
+
+---
+
+### ஐஸ், ஹெரோயின், போதை மாத்திரைகளும் ஐவர் கைது
+
+*2024-09-30 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195108) · `ta`
+
+கல்கிசை, இரத்மலானை மற்றும் கொத்தலாவல புர ஆகிய பிரதேசங்களில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் போதைப்பொருட்களுடன் பெண் உட்பட ஐந்து சந்தேக நபர்கள் நேற்று ஞாயிற்றுக்கிழமை (29) கைது செய்யப்பட்டுள்ளதாக கல்கிசை பொலிஸார் தெரிவித்தனர்.
+
+கல்கிசை பொலிஸ் குற்றப் புலனாய்வுப் பிரிவினருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட  சுற்றிவளைப்புகளின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+இரத்மலானை, அங்குலான மற்றும் மொரட்டுவை ஆகிய பிரதேசங்களை சேர்ந்த 27, 30, 46 வயதுடைய நான்கு நபர்களும் 44 வயதுடைய பெண் ஒருவருமே கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களில் நால்வரிடம் இருந்து 21 கிராம் 350 மில்லிகிராம் ஐஸ் போதைப்பொருள், 12 கிராம் 250 மில்லிகிராம் ஹெரோயின், 11 கிராம் 700 மில்லிகிராம் ஹெரோயின் மற்றும் 1000 போதை மாத்திரைகளும் பெண்ணிடம் இருந்து 12 கிராம் 300 மில்லிகிராம் ஹெரோயினும் கைப்பற்றப்பட்டுள்ளது.
+
+இதனையடுத்து, கைது செய்யப்பட்ட சந்தேக நபர்கள் மேலதிக விசாரணைகளுக்காக கல்கிசை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/1b99602c.json)
 
 ---
 
@@ -715,6 +1063,48 @@ However, it is not clear whether the current government will support the decisio
 [Data](articles/3f5f7927.json)
 
 [Extended Data](ext_articles/3f5f7927.ext.json)
+
+---
+
+### இஸ்ரேலின் விமானதாக்குதல் - மருத்துவமனையில் உயிருக்காக போராடும் ஆறுவயது லெபனான் சிறுமி
+
+*2024-09-30 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195113) · `ta`
+
+பெக்கா பள்ளத்தாக்கின் மலைகளில் -  பெய்ரூட்டை போல இந்த நாட்களில் மரணம் வானத்திலிருந்து எந்த நேரத்திலும் வரலாம் என்ற நிலை காணப்படுகின்றது.
+
+இஸ்ரேல் ஒரு நாள் முழுவதும் இந்த பகுதியை இலக்குவைத்து வான்தாக்குதல்களை மேற்கொண்டது.ஒரு மணித்தியாலத்தில் 30 வான்தாக்குதல்கள் இடம்பெற்றன.
+
+அவர்களில் ஆறு வயது சிறுமி நூர் மொசாவியும் ஒருவர் .ரயாக் மருத்துவமனையில் சிறுவர்களிற்கான அதிதீவிரசிகிச்சை பிரிவில் அந்த சிறுமி சுயநினைவி;ன்றி காணப்படுகின்றார்.
+
+'வீட்டின் சூழலை மிகுந்த வேடிக்கையானதாக மாற்றக்கூடியவர் அவர் இல்லாத தருணத்தில் வீடு வெறுமையாக காணப்படும்,புதியவர்களை சந்திப்பதில் அவருக்கு விருப்பம் என்கின்றார் அவர்"
+
+இஸ்ரேலின் தாக்குதலிற்கு சற்று முன்னதாக தனது மகள் தொழுகையில் ஈடுபட்டிருக்கும் படத்தை அவர் காண்பிக்கின்றார்.
+
+தாக்குதல் ஆரம்பித்ததும் மகளை பயப்படவேண்டாம் என ஆறுதல் சொல்லிக்கொண்டிருந்தேன்,அவள் ஆண்டவனை உதவிக்கு அழைத்துக்கொண்டிருந்தால் என்கின்றார் தாயார்.
+
+குண்டு சத்தம் அருகில் கேட்க தொடங்க ரீமா நூர் மற்றும் தனது இரட்டைசகோதரர்களுடன் வீட்டு வாசலில் அச்சத்துடன் பதுங்கியிருந்தார்.
+
+...
+
+[Data](articles/157957d4.json)
+
+---
+
+### හිටපු මන්ත්‍රී කුමාරසිරි රත්නායක බඹරෙක් නිසා අනතුරක
+
+*2024-09-30 10:59:48* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මන්ත්‍රී-කුමාරසිරි-රත්නායක-බඹරෙක්-නිසා-අනතුරක/11-412226) · `si`
+
+මොනරාගල දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී කුමාරසිරි රත්නායක මහතාගේ කැබ්රථය ඉකුත් (29) වෙනිදා මොනරාගල බිබිල මාර්ගයේ නක්කලවත්ත ප්‍රදේශයේදී අනතුරට ලක්වී ඇතැයි මොනරාගල පොලීසිය පවසයි.
+
+හිටපු මන්ත්‍රීවරයා කැබ්රථයේ රියදුරු ලෙස කටයුතුකර ඇති අතර කැබ්රථයට බඹරෙකු ඇතුළුවී ඇත.
+
+බඹරා එළවීමට අතින් උත්සාහකිරීමේදී කැබ්රථය පාලනයකර ගැනීමට නොහැකිව පාරෙන් ඉවතට ගොස් මාර්ගය අයිනේ පස් කණ්ඩියක ගැටී පෙරළී ඇත.
+
+මෙම අනතුරෙන් හිටපු මන්ත්‍රීවරයාට කිසිදු තුවාලයක් සිදුවී නොමැති අතර කැබ්රථයට හානි සිදුවී තිබේ. මොනරාගල පොලීසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/68e838c7.json)
 
 ---
 
@@ -977,6 +1367,28 @@ Hezbollah confirmed on Sunday that top military commander Ali Karaki and a senio
 [Data](articles/57399440.json)
 
 [Extended Data](ext_articles/57399440.ext.json)
+
+---
+
+### ‘ජනපති අනුර තනතුරු දෙන්නේ හිතවතුන්ට ද?’
+
+*2024-09-30 08:53:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5y3g385z0yo) · `si`
+
+අනුර කුමාර දිසානායක ජනාධිපති ධූරයට පත්වීමෙන් පසුව මෙතෙක් කරන ලද පත්කිරීම් සම්බන්ධයෙන් විවිධ අදහස් ඉදිරිපත් වෙමින් පවතී.
+
+ඇතැමෙකු චෝදනා කරන්නේ, නව ජනාධිපතිවරයා ඔහුගේ හිතවතුන් රජයේ තනතුරුවලට පත් කරන බව ය.
+
+මීට පෙර සිටි පාලකයින්ගේ පත් කිරීම් විවේචනයට ලක් කරමින් බලයට පැමිණි ජනාධිපතිවරයෙකුගෙන් එවැන්නක් අපේක්ෂා කළ නොහැකි බව ඔවුන්ගේ අදහස යි.
+
+ජනතාව නව ජනාධිපති අනුර කුමාර දිසානායකට "ඡන්දය දුන්නේ පැවති දේශපාලන සංස්කෘතිය වෙනස් කිරීමට," බව අමාත්‍ය විජිත හේරත් පවසයි.
+
+ඔහු ඒ බව ප්‍රකාශ කළේ, පසුගිය දා ශ්‍රී ලංකා වරාය අධිකාරියට ගොස් නිලධාරීන් හමු වූ අවස්ථාවේදී ය.
+
+"රටේ ජනතාව නව ජනාධිපතිවරයාට ඡන්දය දුන්නේ, මේ රටේ මෙතෙක් පැවතිච්ච දේශපාලන සංස්කෘතිය වෙනස් කරන්න. දේශපාලන සංස්කෘතිය වෙනස් කරනවා කියන්නේ, දේශපාලනඥයින්ගේ විතරක් නෙවෙයි. නිලධාරීන්ගේ පැත්තෙනුත්, රටේ ආයතනවලත් ඒක වෙනස් විය යුතු යි."
+
+...
+
+[Data](articles/2eb3cfa6.json)
 
 ---
 
@@ -1847,465 +2259,5 @@ International media reports that Hezbullah has confirmed the death of Ali Karaki
 [Data](articles/d7357f09.json)
 
 [Extended Data](ext_articles/d7357f09.ext.json)
-
----
-
-### Prime Minister Hariniga certified as allocated to education
-
-*2024-09-29 23:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201672) · `si`
-
-Prime Minister Hariniga allocates 6% of GDP to education. She emphasizes education's importance in creating citizens and protecting professionals from political interference. The government aims to achieve this goal systematically despite current economic challenges.
-
-🟩
-
-Priority of the allocation of the GDP, the Prime Minister Dr. Harinin Amarasuriya said that it would be implemented in the future.
-
-She was speaking at a conference held at Ananda College, Colombo yesterday with the participation of 396 national schools.
-
-"We are expecting education not just education centered education. Basically, creating the citizen of our country should be done in education.  අධ්‍යාපනය පිළිබඳ විශ්වාසය නැවත ගොඩනැගීම වැදගත්. Children, parents, teachers are not sure. It is disappointed in this regard. Examinations, appointments, recruitments are a crisis. You are in great pressure on the politicization of education. We are trying to protect your professional dignity.
-
-6% of the GDP should be separated into education. Cant to give once with the economic crisis. There are plans to systematically go to that goal. "Given a Special for Education in Our Budget".
-
-◼️
-
-[Data](articles/ee88cb9d.json)
-
-[Extended Data](ext_articles/ee88cb9d.ext.json)
-
----
-
-### OTP - don't give anyone to anyone
-
-*2024-09-29 22:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/OTP-ஐ-யாரிடமும்-கொடுக்காதீர்கள்/175-344680) · `ta`
-
-OTP: Don't share with anyone. Police warn due to financial fraud.
-
-🟩
-
-The police have asked the public not to share with anyone for any reason.
-
-The request has been made to point out that there has been massive financial fraud in recent years
-
-◼️
-
-[Data](articles/42f7dd6a.json)
-
-[Extended Data](ext_articles/42f7dd6a.ext.json)
-
----
-
-### Sri Lanka climbs to 3rd in WTC table, boost chances of title clash qualification
-
-*2024-09-29 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102343/sri-lanka-climbs-to-3rd-in-wtc-table-boost-chances-of-title-clash-qualification) · `en`
-
-A stunning 2-0 series win over New Zealand following a massive win by an innings and 154 runs in the second Test at Galle has pushed Sri Lanka up to number three in the ICC World Championship (WTC) 2023-25 standings.
-
-Now, Sri Lanka has five wins and four losses in nine Tests. They have a point percentage (PCT) of 55.56 percent, which is not very far from Australia, which sits at second place with a PCT of 62.50 after eight wins, three losses, and a draw in 12 Tests.
-
-India is at the top with seven wins, two losses, and a draw with a PCT of 71.67.
-
-New Zealand has slipped to seventh place with three wins and five losses in eight Tests, with a PCT of 37.50.
-
-Sri Lanka has four Tests left, two against South Africa away from home in November-December this year and two home Tests against Australia in January-February next year, as per Wisden. To make it to the top two, Sri Lanka must finish with a PCT higher than either India or Australia.
-
-...
-
-[Data](articles/8695c3e9.json)
-
-[Extended Data](ext_articles/8695c3e9.ext.json)
-
----
-
-### The student was among the top 10 in the GCE O / L
-
-*2024-09-29 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201671) · `si`
-
-Here's a 200-character summary:
-
-
-
-Top 10 GCE O/L student faces challenges: Dengue illness during exams, medical aspirations, biology studies. Overcomes obstacles to achieve academic success.
-
-🟩
-
-According to the results of the GCE O / L examination, only one student is among the top ten.
-
-Sadashan Sadashan Sadashan Sadashan Sadashan Sandeshawickrema, who was the only student who had been the only student.
-
-A regular member of the Sakunu School is a regular member of the Cadet team and the Scout team and a regular member of the school's masque.
-
-Despite the active student, the largest challenge that the GCE Ordinary Leader began to start dengue was to receive dengue at the Matara General Hospital.
-
-However, the determinised doctors had come to the house before the examination before the examination.
-
-Wasn't his interest and severe commitment to the top 10 amidst such challenges?
-
-At present, the dream of being a doctor is laying the foundation of the realization.
-
-It is now being acquired from the Biology Division to go to his goal of being a doctor.
-
-There is no doubt that the intense commitment and determination of his doctor's dream come true.
-
-...
-
-[Data](articles/a5bdd8b9.json)
-
-[Extended Data](ext_articles/a5bdd8b9.ext.json)
-
----
-
-### Women need a 50 percent seat allocation for election
-
-*2024-09-29 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195090) · `ta`
-
-Women demand 50% election seats in Sri Lanka's North and East region. Group calls for equal representation during meeting in Jaffna.
-
-🟩
-
-A group of women in the North and East has demanded that the seat allocation for women in the election be equally shared.
-
-The women's team was jointly announced by the media after a discussion held on Sunday (29) at a private hotel in Jaffna.
-
-◼️
-
-[Data](articles/e0160eab.json)
-
-[Extended Data](ext_articles/e0160eab.ext.json)
-
----
-
-### Nepal shuts schools as floods and landslides kill more than 150
-
-*2024-09-29 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102342/nepal-shuts-schools-as-floods-and-landslides-kill-more-than-150) · `en`
-
-Nepal has shut schools for three days after landslides and floods triggered by two days of heavy rain across the Himalayan nation killed 151 people, with 56 missing, officials said on Sunday.
-
-The floods brought traffic and normal activity to a standstill in the Kathmandu valley, where 37 deaths were recorded in a region home to 4 million people and the capital.
-
-Authorities said students and their parents faced difficulties as university and school buildings damaged by the rains needed repair.
-
-“We have urged the concerned authorities to close schools in the affected areas for three days,” Lakshmi Bhattarai, a spokesperson for the education ministry, told Reuters.
-
-Some parts of the capital reported rain of up to 322.2 mm (12.7 inches), pushing the level of its main Bagmati river up 2.2 m (7 ft) past the danger mark, experts said.
-
-But there were some signs of respite on Sunday morning, with the rains easing in many places, said Govinda Jha, a weather forecaster in the capital.
-
-...
-
-[Data](articles/9b2b4c3b.json)
-
-[Extended Data](ext_articles/9b2b4c3b.ext.json)
-
----
-
-### Sumanthiran cannot unite with the team - my. Shrikanta
-
-*2024-09-29 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/195089) · `ta`
-
-Sumanthiran refuses to unite with TNA team. Tamil National Party questions motives: Tamil nationalism vs Sinhala compromise? Decision pending on Tuesday.
-
-🟩
-
-Tamil National Party leader N.. Sirikantha said.
-
-Sumanthiran has called for those who have left the Tamil National Alliance at various times. We are obliged to respond to him.
-
-The Democratic Tamil National Alliance (TNA) is ready to work together with the TNA on the basis of the need to retain the representation of the Tamil people in Ampara and Trincomalee districts.
-
-But in the election districts of Jaffna, Vanni and Batticaloa, there are many references to the Tamil National Alliance (TNA) and the past.
-
-Why is it invited to join?Do you compromise Tamil nationalism with the Sinhala nation?Or to retain the existing positions?Or to make indirect compromise with the rulers as in the past?We are forced to raise questions.
-
-The decision of the Tamil National Party is that if unity is to be with policy and goal, we can never create that unity with the Sumanthiran -led team that dominates the TNA.
-
-It is a deception that the entire Tamils ​​are united in the Tamil party.
-
-...
-
-[Data](articles/72b75b76.json)
-
-[Extended Data](ext_articles/72b75b76.ext.json)
-
----
-
-### "A Buddhist cleric asked her to make my son a day," he said, "The President's mother
-
-*2024-09-29 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/195032) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Anura Dissanayake's journey: From monk candidate to Sri Lanka's 9th president. Overcame struggles, including being sent to monastery at age 12. Showed early leadership potential, becoming president after his father's death in 1982. Demonstrated strong work ethic and reading habits from childhood.
-
-🟩
-
-Sri Lanka's ninth executive president Anuragumara Dissanayake's journey is not easy. But for his predecessor, it was seen as a flower.
-
-The most common beginning and heavy struggles were found as part of his life. He faced many struggles.
-
-“Once upon a time, the clergyman of a Buddhist idol asked him to send Dissanayake to the monastic. He was 12 years old at the time. I do not accept it, ”says the president's mother TM Seelavati.
-
-“After many years, the police were searching for him, he was unable to attend his father's funeral,” he said.
-
-He continued, “In the sixth month of the son, I brought his horoscope to a astrologer. He is shocked and looked at my face and said, "Your son will one day king."
-
-I met the President's mother in a normal house found under Mahaweli H. In 1972 they settled in the house.
-
-Traveling from a farm village called Tambuttegama should travel through the rugged road and go to the president's home.
-
-...
-
-[Data](articles/af9f65ed.json)
-
-[Extended Data](ext_articles/af9f65ed.ext.json)
-
----
-
-### Special Notice of O/L Grades
-
-*2024-09-29 21:22:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-l-பெறுபேறுகள்-குறித்து-விஷேட-அறிவிப்பு/175-344678) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-244,228 students qualify for GCE Ordinary Level Exam. Review applications accepted Oct 1-14. Commissioner General Amit Jayasundera announces results and application timeline.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundera said that 244,228 students qualified for the GCE Ordinary Level Examination.
-
-The Commissioner General of Examinations Amit Jayasundara said that the review applications for the GCE Ordinary Level Examination will be submitted from October 1 to 14. Remble
-
-◼️
-
-[Data](articles/0174e40c.json)
-
-[Extended Data](ext_articles/0174e40c.ext.json)
-
----
-
-### The blow to the allowances of former presidents….!
-
-*2024-09-29 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195087) · `ta`
-
-Former presidents' allowances reduced. Gifts for ex-presidents Mahinda, Maithri, and Gotabhaya to be canceled. Cabinet discussion pending. Civil organizations oppose perks for convicted leaders.
-
-🟩
-
-Former presidents are receiving all the gifts received by a cabinet minister. President Anura Kumara has taken steps to reduce reforms and reduce the allowances.To be discussed in the Cabinet. Also, all the gifts for the former presidents of Mahinda, Mahinda, Maithri and Gotabhaya have to be canceled.. Civil organizations have also noted that they have no right to enjoy the government's privileges as the three have been declared criminals by the High Court.
-
-◼️
-
-[Data](articles/1d1c21f7.json)
-
-[Extended Data](ext_articles/1d1c21f7.ext.json)
-
----
-
-### Will the UNP and CPA continue to collapse?
-
-*2024-09-29 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201670) · `si`
-
-Here's a 200-character summary:
-
-
-
-UNP and CPA facing collapse due to unresolved issues. Key points: Ranil Wickremesinghe's election participation, opposition leadership for Sajith Premadasa, and alliance negotiations stalled. Tamil Progressive Alliance decides to contest next general election.
-
-🟩
-
-The discussions on the United National Party and the United National Party and the reconciliation of the reconciliation have been crashed.
-
-It was because of two main conditions presented by the unified promotions.
-
-The UNP and the reconciliation ceremony began in the event of the UNP and the reconciliation.
-
-According to the United National Party (UNP) sources say that two main conditions of the reconciliation have been conducted due to two main conditions of the reconciliation.
-
-These conditions include that former President UNP Leader Ranil Wickremesinghe should not contest the elections of the unity of the prosperous power.
-
-However, the UNP representatives have been reported that the majority of the votes polled by Ranil Wickremesinghe in the presidential election personally.
-
-Also, another condition that has been presented to the reconciliation is that the Leader of the Opposition should be awarded to Sajith Premadasa.
-
-The UNP representatives have also objected to the proposal.
-
-...
-
-[Data](articles/5b37c89c.json)
-
-[Extended Data](ext_articles/5b37c89c.ext.json)
-
----
-
-### Israeli Prime Minister's Airport
-
-*2024-09-29 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195086) · `ta`
-
-Israeli PM's airport under attack: Israeli forces strike Houthi positions in Yemen, targeting ports and power plants.
-
-🟩
-
-The Israeli military has launched an offensive on the positions of Hewthi insurgents in Yemen.
-
-Israel has reportedly attacked the targets of Hewthi insurgents in several cities, including Yemen's Hodaida city.
-
-Israeli insurgents have reported that Israel has launched an attack on ports and power plants.
-
-Israel has launched an attack on the Penguin International Airport near the capital of Israel.
-
-◼️
-
-[Data](articles/48420d06.json)
-
-[Extended Data](ext_articles/48420d06.ext.json)
-
----
-
-### Thundershowers in many parts of the country tonight - the Department of Meteorology
-
-*2024-09-29 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195085) · `ta`
-
-Thunderstorms expected across several provinces tonight. Lightning strikes possible. Public advised to take precautions.
-
-🟩
-
-The Department of Meteorology has warned that in many parts of the country on Sunday night, there will be massive lightning strikes with thunderstorms.
-
-The Department said that this risk is on the West, Sabaragamuwa, South, Central, Uva, North Western and Eastern Provinces and Polonnaruwa districts.
-
-As a result, the Department of Meteorology has advised the public to take necessary steps to reduce the risks of lightning strikes.
-
-◼️
-
-[Data](articles/0616bf6b.json)
-
-[Extended Data](ext_articles/0616bf6b.ext.json)
-
----
-
-### Problem of fuel allowance at the Chief Secretary's Office
-
-*2024-09-29 19:51:01* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාත්-ප්‍රධාන-ලේකම්-කාර්යාලයේ-ඉන්ධන-දීමනාවේ-ගැටලුව/11-412223) · `si`
-
-Fuel allowance issue: 17 officers overpaid Rs. 2,041.5. Audit recommends reviewing national policies and public expenditure management. Committee formed to investigate.
-
-🟩
-
-Seventeen officers have been paid to eight posted Rs.Audit report is said.
-
-According to them, the super-pricult and super dasee (2,0415) has paid a sum of Rs.
-
-Audit recommended that he is concerned about the national policies and public expenditure management. The main number of Southern Provincial Council's main number of the Southern Provincial Council on the 26th of May 2019 was fuel for the official traffic allowance in the Southern Province on May 18, 2019 on May 18, 2019 on the approval of Governor Wili Gamage on May 26, 2019.It was paid on 1st. The Chief Accounting Officer has also stated that a committee consisting of the Senior Staff Officers have been appointed to check and report this.
-
-◼️
-
-[Data](articles/dafbd007.json)
-
-[Extended Data](ext_articles/dafbd007.ext.json)
-
----
-
-### Determine of unchanged bakery owners
-
-*2024-09-29 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201668) · `si`
-
-Here's a 200-character summary:
-
-
-
-Bakery owners resist price changes despite rising costs. Rice millers blame retailers for price hikes. Potato farmers protest unpaid work. Fertilizer subsidies increase but may not cover all needs.
-
-🟩
-
-All Ceylon Restaurant and Restaurant Association has decided to reduce the prices of foods used in coat, fried rice and reduce the prices of food used today (29).
-
-However, the All All Ceylon Behictery Thero says that the prices of bakery products are not changed based on the bottom of the eggs.
-
-Meanwhile, the fall of the decline from Rs 27, Rs. 28, 28, says small and medium scale egg producers.
-
-Meanwhile, large scale rice mill mills holds a press conference yesterday (28).
-
-In the meantime, retailers say that large-scale rice mills owners have not taken measures to provide rice to control price.
-
-The Anuradhapura District Agrarian Association (Irrigation Integrated Farmers) stated that increasing the fertilizer subsidy for the farmer community to Rs. 25,000 should not be limited to Rs.
-
-Meanwhile, potato farmers in Badulla District have complained that potatoes will not be paid properly.
-
-◼️
-
-[Data](articles/38e9f543.json)
-
-[Extended Data](ext_articles/38e9f543.ext.json)
-
----
-
-### Showers in many areas
-
-*2024-09-29 19:43:07* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-ප්‍රදේශවලට-වැසි/11-412222) · `si`
-
-Island-wide showers forecasted for evening and night. Heavy rainfall possible in Kalutara district. Thunderstorm warnings issued for Southern Province, Batticaloa, and Ampara districts. Strong winds expected due to active cloud system. Residents advised to prepare for potential damage from heavy rains and gusty winds.
-
-🟩
-
-In many parts of the island, the Met Department forecasts showers at several places in the evening and night.
-
-Accordingly, the Kalutara district and in the Kalutara district, the Kalutara division and several mm.. Show heavy showers can occur around 100.
-
-The public is also requested in the Southern Province and Batticaloa and Ampara districts and to take necessary steps to reduce the damages caused by thunderstorms.
-
-Due to the active cloud system of the island, the wind speed of the sea can cause very strong winds of the wind.
-
-Heavy rains with strong winds can also be taken to pay attention to this area, as he can cause rain.
-
-◼️
-
-[Data](articles/941a5f59.json)
-
-[Extended Data](ext_articles/941a5f59.ext.json)
-
----
-
-### Sumanthiran's call will never join the Tamil National Alliance - CV Vigneswaran
-
-*2024-09-29 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195083) · `ta`
-
-Here's a 200-character summary of the text:
-
-
-
-CV Vigneswaran rejects joining Tamil National Alliance, citing selfish motives. Emphasizes unity among true nationalists over party affiliations. Criticizes TNA leader for opposing Tamil candidate. Advocates youth-led Tamil nationalism, rejecting symbol-based politics.
-
-🟩
-
-CV Vigneswaran, a Member of Parliament of the Tamil People's Alliance, who said he would not join the Tamil National Alliance (TNA), said, “Our people should think that the past thoughts and behavior of those who seek it was a spatter.
-
-We need to identify the selfish people and come forward to unite those who really like the nationality. So we do not have the opportunity to join the Tamil National Alliance. Baked soil and not shot soil will never come together. '
-
-In the 'Week One Question' area. You have said that you and all those who are involved in Tamil nationalism are necessary to stand together. Do you have the opportunity to join the Tamil National Alliance? 'He has responded to the question that has been raised:
-
-Parties, allies or symbols are not important to Tamil nationalism. Tamil people are important. Recently, on behalf of the Tamil people, 7 national parties and 80 civil society joined the presidential election.
-
-...
-
-[Data](articles/1cf35945.json)
-
-[Extended Data](ext_articles/1cf35945.ext.json)
-
----
-
-### Police issue warning over rising OTP scams in Sri Lanka
-
-*2024-09-29 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102341/police-issue-warning-over-rising-otp-scams-in-sri-lanka) · `en`
-
-Sri Lanka Police today advised customers of banks not to share their One Time Passwords (OTP) provided by banks with any third parties under any circumstances, as serious financial scams have been reported recently.
-
-◼️
-
-[Data](articles/848c1981.json)
-
-[Extended Data](ext_articles/848c1981.ext.json)
 
 ---

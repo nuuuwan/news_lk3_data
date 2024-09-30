@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 16:38:28**
+As of **2024-09-30 16:56:07**
 
 ## Newspaper Stats
 
-*Scraped **47,017** Articles*
+*Scraped **47,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ colombotelegraphcom | 469
 islandlk | 2,762
 economynextcom | 2,848
 dailyftlk | 3,144
-adalk | 4,346
+adalk | 4,347
 dailymirrorlk | 4,733
-adaderanalk | 5,531
+adaderanalk | 5,532
 tamilmirrorlk | 6,321
 virakesarilk | 7,518
-adaderanasinhalalk | 8,128
+adaderanasinhalalk | 8,129
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,017 (100.0%) of 47,017 articles have been extended.
+47,020 (100.0%) of 47,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Helene kills 30 lives
+
+*2024-09-30 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201694) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Helene hurricane: 30 deaths in North Carolina. 105 total fatalities across states. Trees downed. Some missing."
+
+🟩
+
+Thirty people have died due to the 'Hurricane' of North Carolina, USA.
+
+Last Thursday, the 'Helene' was in the US to the United States through Florida.
+
+About 105 people have died after the affected by the hurricane of the cynic across several states, and some people have gone missing.
+
+The collapsation and the trees have also been disrupted.
+
+◼️
+
+[Data](articles/fdd2443d.json)
+
+[Extended Data](ext_articles/fdd2443d.ext.json)
+
+---
+
+### Further rupee strengthens values
+
+*2024-09-30 16:19:33* · [`adalk`](https://www.ada.lk/breaking_news/තවදුරටත්-රුපියල-ශක්තිමත්-වෙයි-අගයන්-මෙන්න/11-412232) · `si`
+
+Sri Lanka: Rupee strengthens against USD. Central Bank reports $1 = 293.50 LKR buy rate, 302.56 LKR sell rate. Hatton National Bank offers lowest sell price among major banks at 300.25 LKR.
+
+🟩
+
+According to the daily exchange rate released by the Central Bank of Sri Lanka today (30), a US dollar cost Rs. 293.50 and the price of sale is Rs. It has been reported that 302.56 has been down.
+
+Hatton National Bank has recorded the lowest selling value of several major commercial banks in Sri Lanka and Amana Bank has recorded Rs. 300.25.
+
+◼️
+
+[Data](articles/813fc6fe.json)
+
+[Extended Data](ext_articles/813fc6fe.ext.json)
+
+---
 
 ### Spoon heated his daughter's body
 
@@ -91,6 +139,26 @@ The bureau is being taken to further the Bureau against the suspect and will be 
 [Data](articles/7be16dcb.json)
 
 [Extended Data](ext_articles/7be16dcb.ext.json)
+
+---
+
+### President’s Office releases full list of 107 vehicles returned and who used them
+
+*2024-09-30 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102357/presidents-office-releases-full-list-of-107-vehicles-returned-and-who-used-them) · `en`
+
+The President’s Office has issued a clarification regarding the various statements and opinions being expressed pertaining to the vehicles which have been parked in the premises near the Presidential Secretariat in Colombo.
+
+It stated that 107 vehicles which were handed over to the Presidential Office in the last few days, as notified after the appointment of the new President, have been temporarily parked in the premises outside the Presidential Secretariat under police protection.
+
+The announcement also states that the said vehicles were not provided to the regular staff of the Presidential Secretariat and were provided by the former President to his private staff appointed under Article 41(1) of the Constitution during his tenure.
+
+It also states that these vehicles are parked in the premises outside the Presidential Secretariat because it is not possible to park so many vehicles inside the Presidential Secretariat premises.
+
+...
+
+[Data](articles/4999b1c2.json)
+
+[Extended Data](ext_articles/4999b1c2.ext.json)
 
 ---
 
@@ -173,6 +241,16 @@ About 20 others with the leader of the Hezbollah had died of the attack on the a
 The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has decreased to -0.5% in September 2024, compared to 0.5% in August 2024, according to the latest data released by the Department of Census and Statistics.
 
 Meanwhile, food inflation has decreased to -0.3% in September 2024 compared to 0.8% in August 2024.
+
+Year-on-Year inflation of Non-Food Group decreased to -0.5% in September 2024 from 0.4% in August 2024.
+
+The Colombo Consumer Price Index (CCPI) in September 2024 has decreased to 190.9 from 191.1 in August 2024.
+
+The Month-on-Month change was contributed by -0.17% from food and 0.06% from non-food, the report said.
+
+CCPI Core in September 2024 has increased to 177.6 from 177.3 in August 2024.
+
+The general price level has increased by 90.9% compared to the index reference.
 
 ◼️
 
@@ -2299,71 +2377,5 @@ A 24 -year -old woman rescued by Sergeant has been handed over to the Mannar Pol
 [Data](articles/50d28e68.json)
 
 [Extended Data](ext_articles/50d28e68.ext.json)
-
----
-
-### IMF officials visit the country tomorrow
-
-*2024-09-30 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195094) · `ta`
-
-IMF officials visit Sri Lanka Oct 2 for 3rd phase of financial program. Economic recovery and IMF negotiations key issues. Compliance achieved on debt scheme. Talks planned with new govt led by President Anura Kumara Dissanayake.
-
-🟩
-
-IMF officials will visit the country on Wednesday (October 2) for the third phase of the expanded financial program for Sri Lanka.
-
-As Anura Kumara Dissanayake was elected as the ninth executive president of the country, the economic recovery and negotiations with the IMF were the main speech of all the candidates all over the country.
-
-At a media briefing held in Washington before the election, Julie Kosak, Director of the International Monetary Fund Division, said that the country's economic situation has not yet been fully recovered, but it is necessary to protect the directors that have been reached through the crisis.
-
-Welcome to the announcement that there has been a compliance between Sri Lanka and international bailouts.. This is a significant improvement in Sri Lanka's Debt Scheme, ”he said, adding that we will soon discuss with the new government of Sri Lanka on the third phase of the International Monetary Fund Program.”
-
-...
-
-[Data](articles/73232373.json)
-
-[Extended Data](ext_articles/73232373.ext.json)
-
----
-
-### We will not join anyone who is involved in corruption scandal - Ranjith Mathuma Bandara
-
-*2024-09-30 03:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195093) · `ta`
-
-Ranjith Mathuma Bandara: United People's Power won't ally with corrupt individuals. JVP shows vehicles at Galle Face, sparking questions about their fate. Teachers' salaries increased, but public servant pay hike uncertain. President's appointments criticized, affecting government's future direction.
-
-🟩
-
-In the upcoming parliamentary elections, the United People's Power. United People's Power Member Ranjith Mathuma Bandara said that we would not join anyone involved in corruption scandal.
-
-He said this on how to contest the upcoming parliamentary elections.
-
-The President has cast 56 lakh votes to President Anura Kumara Dissanayake in the presidential election.. The United People's Alliance is taking action.
-
-At the same time, many who do not join our coalition in the presidential election are to join the general election.. We are sure in that.
-
-The Janatha Vimukthi Peramuna (JVP) is showing the vehicles parked at Galle Face. In 2005 and 2019, vehicles were parked at Galle Face. This is not a new issue.. But people are expecting a new change from the People's Liberation Front.
-
-...
-
-[Data](articles/7ab3b298.json)
-
-[Extended Data](ext_articles/7ab3b298.ext.json)
-
----
-
-### ComBank joins Yagirala rainforest conservation effort, pledges to plant 10,500 trees
-
-*2024-09-30 02:48:00* · [`islandlk`](http://island.lk/combank-joins-yagirala-rainforest-conservation-effort-pledges-to-plant-10500-trees/) · `en`
-
-The Commercial Bank of Ceylon has announced a partnership with the Department of Forestry and Environmental Science of the University of Sri Jayewardenepura to support the restoration and conservation of the Yagirala rainforest in the Kalutara District.
-
-This latest sustainability commitment of the Bank entails funding the restoration of 15 acres of this ecologically important lowland tropical wet evergreen forest with the planting of 10,500 trees, and efforts to engage local communities in the protection and maintenance of the ecosystem.
-
-...
-
-[Data](articles/bd068a25.json)
-
-[Extended Data](ext_articles/bd068a25.ext.json)
 
 ---

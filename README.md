@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 21:58:35**
+As of **2024-09-30 22:12:57**
 
 ## Newspaper Stats
 
-*Scraped **47,066** Articles*
+*Scraped **47,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 469
 islandlk | 2,762
 economynextcom | 2,856
 dailyftlk | 3,145
-adalk | 4,354
+adalk | 4,355
 dailymirrorlk | 4,733
-adaderanalk | 5,536
+adaderanalk | 5,537
 tamilmirrorlk | 6,324
 virakesarilk | 7,531
 adaderanasinhalalk | 8,138
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,138
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,066 (100.0%) of 47,066 articles have been extended.
+47,068 (100.0%) of 47,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Fuel prices reduced
+
+*2024-09-30 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102362/fuel-prices-reduced) · `en`
+
+The Ceylon Petroleum Corporation (CPC) has announced a revision of fuel prices effective from midnight today (Sept. 30).
+
+Accordingly, the price of Petrol 92 Octane has been reduced by Rs. 21 to Rs. 311 per litre, while Auto Diesel has been reduced by Rs. 24 to Rs. 283 per litre.
+
+The price of Super Diesel has also been slashed by Rs. 33, bringing the new price to Rs. 319 per litre, and Kerosene has been reduced by Rs. 19 to Rs. 183 per litre.
+
+However, the price of Petrol 95 remains unchanged, according to Ceypetco.
+
+◼️
+
+[Data](articles/e5797d1a.json)
+
+[Extended Data](ext_articles/e5797d1a.ext.json)
+
+---
 
 ### Fuel prices will be reduced
 
@@ -193,6 +213,28 @@ Vishwa Lahiru of Sri Sumangala College, Panadura, was won by Panadura, Pulinda P
 [Data](articles/7ac3a952.json)
 
 [Extended Data](ext_articles/7ac3a952.ext.json)
+
+---
+
+### Colombo urban inflation is negative
+
+*2024-09-30 20:21:46* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-නාගරික-උද්ධමනය-සෘණ-වෙයි/11-412241) · `si`
+
+Colombo urban inflation drops sharply: 10.5% in Sept vs 0.5% in Aug 2024. Food inflation -0.3%, non-food -0.5%. Data from Dept. of Census & Statistics.
+
+🟩
+
+The Colombo Municipal Community's customer inflation rate has been reduced to 10.5% in September.Was recorded as 0.5% for August 2024.
+
+This is the statistics issued by the Department of Census and Statistics
+
+In September, the annual inflation of food category has reduced to-0.3% and non-food annual inflation (point) has been reduced to-0.5%.
+
+◼️
+
+[Data](articles/54d27c14.json)
+
+[Extended Data](ext_articles/54d27c14.ext.json)
 
 ---
 
@@ -2403,53 +2445,5 @@ Israel on Sunday launched airstrikes against the Houthi militia in Yemen and doz
 [Data](articles/1bbc1fcd.json)
 
 [Extended Data](ext_articles/1bbc1fcd.ext.json)
-
----
-
-### "This is what Kota did" "
-
-*2024-09-30 11:22:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதையே-தான்-கோட்டாவும்-செய்தார்/175-344697) · `ta`
-
-Kota: Former MP compares current president's actions to ex-president's policies, citing vehicle distribution, meal changes, and housing adjustments.
-
-🟩
-
-Former Parliamentarian Mahindananda Aluthgamage has said that the recent decisions of President Anura Kumara Dissanayake after the presidential election are similar to the resolutions taken after former President Gotabhaya Rajapakse.
-
-“Once Gotabhaya Rajapakse was elected president, he also distributed 993 vehicles belonging to the Presidential Office to other departments.. The former MP pointed out that he had reduced the time allocated to the lunch break and supplied ordinary tea instead of milk tea and was staying in a small house instead of the presidential palace.
-
-Although the government was created on the basis of high expectations of the people, it was difficult to advance such a government and said that the same thing happened to Gotabhaya Rajapakse.
-
-◼️
-
-[Data](articles/8983726b.json)
-
-[Extended Data](ext_articles/8983726b.ext.json)
-
----
-
-### Special meeting today to discuss VIP security
-
-*2024-09-30 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102350/special-meeting-today-to-discuss-vip-security-) · `en`
-
-A special discussion has been called today to discuss security measures for former presidents and other VIPs.
-
-Accordingly, the discussion is scheduled to be held this afternoon (30) at the Ministry of Public Security, chaired by Minister Vijitha Herath.
-
-Acting IGP Priyantha Weerasooriya and other officials are also expected to attend the meeting.
-
-Recently, a decision was made to remove the security provided for VIPs, including former presidents.
-
-However, the former presidents have subsequently informed about their security needs and the number of personnel they require.
-
-Accordingly, today’s discussion aims to reach a final decision after thoroughly examining this issue.
-
-Meanwhile, the Acting IGP has taken steps to assign officers from other duties to address the shortage of officers in the police department.
-
-◼️
-
-[Data](articles/4b5d37be.json)
-
-[Extended Data](ext_articles/4b5d37be.ext.json)
 
 ---

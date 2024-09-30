@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 18:19:49**
+As of **2024-09-30 18:35:00**
 
 ## Newspaper Stats
 
-*Scraped **47,040** Articles*
+*Scraped **47,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ economynextcom | 2,856
 dailyftlk | 3,144
 adalk | 4,348
 dailymirrorlk | 4,733
-adaderanalk | 5,533
-tamilmirrorlk | 6,321
+adaderanalk | 5,534
+tamilmirrorlk | 6,322
 virakesarilk | 7,527
-adaderanasinhalalk | 8,130
+adaderanasinhalalk | 8,131
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,037 (100.0%) of 47,040 articles have been extended.
+47,043 (100.0%) of 47,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### The President's decision was suspended
+
+*2024-09-30 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எடுத்த-தீர்மானம்-இடைநிறுத்தப்பட்டது/175-344724) · `ta`
+
+President suspends fertilizer and fuel subsidies due to upcoming elections. Decision put on hold until after polls.
+
+🟩
+
+The decision of President Anura Kumara Dissanayake has been suspended to provide 25,000 rupees fertilizer subsidy for farmers and fuel subsidy for fishermen.
+
+With the announcement of the general election, the Chairman of the Elections Commission RMAL will suspend the resolution, considering the impact of other candidates by deciding to provide such a subsidy.. Ratnayake said.
+
+Accordingly, the Elections Commission has announced to the President to implement a subsidy resolution after the general election. Remble
+
+◼️
+
+[Data](articles/df44f949.json)
+
+[Extended Data](ext_articles/df44f949.ext.json)
+
+---
+
+### Former MPs informed to handover firearms
+
+*2024-09-30 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102359/former-mps-informed-to-handover-firearms) · `en`
+
+Former Members of Parliament (MPs) have been informed to immediately hand over the firearms issued to them to the Ministry of Defense.
+
+The Parliament Members’ Services Division has notified the former MPs of this.
+
+Necessary steps will be taken to send the relevant letters to the former MPs immediately, a spokesman for the division told Ada Derana.
+
+All the facilities provided to the MPs were withdrawn with the dissolution of the Parliament.
+
+Accordingly, former MPs will no longer receive their MP’s allowance, staff allowances, fuel provisions and stamp duty.
+
+However, they are allowed to continue using the official residences provided to them in the Madiwela Housing Complex until the upcoming election.
+
+The former members who are not re-elected in the General Election are required to hand over their houses the very next day after the election.
+
+◼️
+
+[Data](articles/cef96c29.json)
+
+[Extended Data](ext_articles/cef96c29.ext.json)
+
+---
+
+### India renews cricket records
+
+*2024-09-30 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201696) · `si`
+
+India breaks cricket records: Fastest century and half-century in Test match history.
+
+🟩
+
+India was renewed by two unique reports on the second and final Test match held in Kanpur against Bangladesh.
+
+Accordingly, they renewed reports of the fastest century and the fastest half of the Test cricket team.
+
+India crossed 100 runs in the 10.1 overs.
+
+The fastest Test century that had previously reported a group in the year 2023,. The West Indies were reported in the West Indies' islands in the West Indies.
+
+India, India scored 50 runs in Bangladesh to 3 overs. It was also the fastest half-century recorded at the Test team.
+
+India was broken by England by England. It was established in 4.2 overs against the West Indies.
+
+Meanwhile, India has not been able to complete a half century in three overs in three overs of any form of cricket.
+
+The fastest half-century of the previous year was to complete half-century in 3.4 overs at the Asian Games last year.
+
+Bangladesh - India, which was bowled out for more than two days, Bangladesh scored 233 runs in their first innings today (30).
+
+...
+
+[Data](articles/de8084ce.json)
+
+[Extended Data](ext_articles/de8084ce.ext.json)
+
+---
 
 ### Sri Lanka rupee closes stronger at 296.10/60 to US dollar, bond yields up
 
@@ -746,6 +828,8 @@ Wijesekera said when he assumed duties in April 2022, instructions were given to
 
 [Data](articles/39f4cda0.json)
 
+[Extended Data](ext_articles/39f4cda0.ext.json)
+
 ---
 
 ### New Cabinet to hold inaugural meeting today
@@ -1021,6 +1105,8 @@ Proceeds from the bond issuance will be used to finance eligible green projects 
 ◼️
 
 [Data](articles/08721fb1.json)
+
+[Extended Data](ext_articles/08721fb1.ext.json)
 
 ---
 
@@ -1397,6 +1483,8 @@ It “would benefit the parliamentary staff by providing training opportunities 
 ...
 
 [Data](articles/a7df4ad5.json)
+
+[Extended Data](ext_articles/a7df4ad5.ext.json)
 
 ---
 
@@ -2403,67 +2491,5 @@ Police said the lorry was used to load the lorry.. Remble
 [Data](articles/b3c9638c.json)
 
 [Extended Data](ext_articles/b3c9638c.ext.json)
-
----
-
-### Flooding in Nepal: 150 killed
-
-*2024-09-30 08:22:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தில்-வெள்ளப்-பெருக்கு-150-பேர்-பலி/50-344685) · `ta`
-
-Nepal flooding death toll reaches 150, 62 missing. Cities submerged in water. Disaster continues to unfold.
-
-🟩
-
-The number of victims of landslides and floods in Nepal has risen to 150.
-
-Many cities there are flooded. International media reports that 62 people have disappeared in the disaster. (A)
-
-◼️
-
-[Data](articles/9a31749c.json)
-
-[Extended Data](ext_articles/9a31749c.ext.json)
-
----
-
-### Coconut Rs. Goes to 150-160
-
-*2024-09-30 08:11:09* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-ගෙඩිය-රු--150-160ට-යයි/11-412224) · `si`
-
-Coconut price surge: 150-160 Rupees. Consumers complain about rising costs. Marketing strategies blamed for inconvenience. Yield decrease cited as reason.
-
-🟩
-
-These days, including Matale, is inconvenienced by consumers due to marketing of coconut boils between 150 rupees.
-
-The consumers say that coconut prices are increasingly increased by the prices of food and rice parcels.
-
-The commenting coconut consignment is said, "This is the reduction of the coconut yield received from coconut estates.
-
-◼️
-
-[Data](articles/5dd7d0bc.json)
-
-[Extended Data](ext_articles/5dd7d0bc.ext.json)
-
----
-
-### You can see the zoo for free
-
-*2024-09-30 08:10:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிருகக்காட்சிசாலையை-இலவசமாக-பார்க்கலாம்/175-344684) · `ta`
-
-Dehiwala Zoo offers free entry to children under 12 on Oct 1. Events run from 8:30 AM to 5 PM at the National Zoo Complex.
-
-🟩
-
-The National Zoo Department said that all children under the age of 12 will be given the opportunity to visit the Dehiwala Zoo for free on October 1.
-
-Accordingly, several events have been organized from 8.30 am to 5 pm at the Dehiwala National Zoo Complex.. (A)
-
-◼️
-
-[Data](articles/cfd3701b.json)
-
-[Extended Data](ext_articles/cfd3701b.ext.json)
 
 ---

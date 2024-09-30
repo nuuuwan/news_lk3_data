@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 13:08:04**
+As of **2024-09-30 13:22:57**
 
 ## Newspaper Stats
 
-*Scraped **46,976** Articles*
+*Scraped **46,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,527
 tamilmirrorlk | 6,312
 virakesarilk | 7,510
-adaderanasinhalalk | 8,117
+adaderanasinhalalk | 8,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,976 (100.0%) of 46,976 articles have been extended.
+46,977 (100.0%) of 46,977 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,32 @@ At the time my story begins, a routine civil service transfer had me moved as As
 [Data](articles/641349ff.json)
 
 [Extended Data](ext_articles/641349ff.ext.json)
+
+---
+
+### Message for the Sri Lanka-West Indies Cricket Tournament
+
+*2024-09-30 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201683) · `si`
+
+Sri Lanka Cricket announces online ticket sales for West Indies series. Tickets available at Science Training Center, Dambulla Stadium, and Pallekele Stadium starting Oct 10. Purchase at Dambulla Pradeshiya Sabha during T20 matches, Pallekele from Oct 18, and Balagolla for ODI. Ticket windows open 9am-8pm, closing at 5:30pm.
+
+🟩
+
+Sri Lanka Cricket states that traffic will launched on online method for the upcoming Sri Lanka-West Indies cricket tournament.
+
+Meanwhile, ticket windows at Science Training and Dambulla cricket stadium in Colombo 7 opened from October 10.
+
+Tickets will be sold at the Dambulla Pradeshiya Sabha office on the days of the T20.
+
+The tickets will be sold at the Pallekele Stadium from October 18 and can also purchase tickets at the Balagolla on the ODI International.
+
+The Ticketing Windows will also be open from 9am to 8 pm and open the Window Ticket window to 5.30 pm.
+
+◼️
+
+[Data](articles/81c98079.json)
+
+[Extended Data](ext_articles/81c98079.ext.json)
 
 ---
 
@@ -2269,23 +2295,5 @@ Accordingly, Jacquan has handed over to the Dehiwala Zoo without releasing the p
 [Data](articles/efeb8ea8.json)
 
 [Extended Data](ext_articles/efeb8ea8.ext.json)
-
----
-
-### Controversial appointments of the new Janapati
-
-*2024-09-29 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195069) · `ta`
-
-Gotabhaya Rajapaksa's security environment compromised due to controversial appointments. Question arises about cooperation between Air Force officer and Defense Secretary Shavendra Silva.
-
-🟩
-
-This is one of the reasons why Gotabhaya Rajapaksa's expected security environment was not available. There is a question whether an official from the Air Force- an unmanageable officer who does not take the post of top commander, will work with him, such as the Senior General Shavendra Silva, when he is the defense secretary.
-
-◼️
-
-[Data](articles/69943075.json)
-
-[Extended Data](ext_articles/69943075.ext.json)
 
 ---

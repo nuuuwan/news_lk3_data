@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 21:38:59**
+As of **2024-09-30 21:58:35**
 
 ## Newspaper Stats
 
-*Scraped **47,062** Articles*
+*Scraped **47,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,86 @@ adalk | 4,354
 dailymirrorlk | 4,733
 adaderanalk | 5,536
 tamilmirrorlk | 6,324
-virakesarilk | 7,528
-adaderanasinhalalk | 8,137
+virakesarilk | 7,531
+adaderanasinhalalk | 8,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,059 (100.0%) of 47,062 articles have been extended.
+47,066 (100.0%) of 47,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Fuel prices will be reduced
+
+*2024-09-30 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201703) · `si`
+
+Ceylon Petroleum Corporation reduces fuel prices. Octane 92 petrol drops Rs. 211 to Rs. 311 per liter. No change for Octane 95. Lanka White Diesel decreases by Rs. 24 to Rs. 283. Sri Lanka Super Diesel reduces by Rs. 319. Land diesel decreases by Rs. 1983.
+
+🟩
+
+The Ceylon Petroleum Corporation has decided to revise the fuel price of the monthly price formula.
+
+Accordingly, the price of an Octane 92 petrol has been reduced by Rs. 211 is Rs. 311.
+
+The Petroleum Corporation says that no change in the price of a liter of octidence 95 petrol.
+
+The price of a liter of Lanka white diesel will be reduced by 24 rupees and its new price will be Rs. 283.
+
+The price of a liter of Sri Lanka Super diesel will be reduced by Rs. 319.
+
+The price of a liter of land will be reduced by Rs. 1983.
+
+◼️
+
+[Data](articles/fa6ddca1.json)
+
+[Extended Data](ext_articles/fa6ddca1.ext.json)
+
+---
+
+### A businessman shot dead by Hangwella
+
+*2024-09-30 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/195177) · `ta`
+
+Businessman killed in Hangwella incident summary: Local entrepreneur fatally shot in business dispute resolution gone wrong. Police investigation ongoing. Community shocked by violent outcome to commercial conflict.
+
+🟩
+
+◼️
+
+[Data](articles/2582370c.json)
+
+[Extended Data](ext_articles/2582370c.ext.json)
+
+---
+
+### There is no place for those who have separated from us - Risad Bathiudeen
+
+*2024-09-30 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195175) · `ta`
+
+Rishad Bathiudeen addresses public meeting, criticizes those who left party, discusses potential alliances with Sajith Premadasa and Ranil Wickremesinghe, emphasizes economic development and unity.
+
+🟩
+
+Former parliamentarian and leader of the All Ceylon Peoples Congress, Rishad Bathiudeen said that there is no place for those who have left us.
+
+He said this while addressing a public meeting held at Suduvundapula in Vavuniya.
+
+Many people who worked for the gas symbol in the last presidential election have invaded the United People's Power led by Sajith Premadasa.
+
+In this case, we have been trying to continue traveling with no accusations in the past. Sometimes the United National Party (UNP) leader Ranil Wickremesinghe has the opportunity to join the party on a contract basis. But I don't know how the final negotiations are.
+
+...
+
+[Data](articles/a11bc230.json)
+
+[Extended Data](ext_articles/a11bc230.ext.json)
+
+---
 
 ### Person shot dead in Hanwella
 
@@ -43,6 +111,8 @@ Accordingly, a 55-year-old businessman has been gunned down inside his house, Ad
 ◼️
 
 [Data](articles/c018345d.json)
+
+[Extended Data](ext_articles/c018345d.ext.json)
 
 ---
 
@@ -94,6 +164,38 @@ She also said that the former President Mahinda Rajapaksa did not give him nine 
 
 ---
 
+### Shanmuganathan Shahrujan
+
+*2024-09-30 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/195174) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka Schools Cricket Association awards ceremony honors outstanding players. Shanmuganathan Shahrujan receives best fielder award. Vishmi Gunaratne wins third consecutive award for ICC Women's R20 Cup. Special guests include cricket officials and education ministry representatives.
+
+🟩
+
+Sri Lanka Schools Cricket Association organized by the Sri Lanka Schools Cricket Association at the All Cricket Schools Awards Ceremony at the Under -19 Cricket Awards Ceremony.
+
+At the award ceremony, the best field officer, Kottanjane, was presented to Shanmuganathan Sharujan, the leader of the Blessed College team and the wicketkeeper.
+
+Sri Lanka Cricket Chairman Shammi Silva (Chief Aditi) and Sri Lankan player Madhisha Pathirana (Special Aditi) received his award.
+
+On behalf of her father, Vishmi Gunaratne's award for Sri Lanka is awarded for Sri Lanka in the ICC Women's R20 Cup in the UAE.
+
+This is the third consecutive time that Vishmi Gunaratne won the award for the Cricket Cricket Award.
+
+Vishwa Lahiru of Sri Sumangala College, Panadura, was won by Panadura, Pulinda Perera of Kandy Dharmaraja College and Vishwa Lahiru of Panadura.
+
+...
+
+[Data](articles/7ac3a952.json)
+
+[Extended Data](ext_articles/7ac3a952.ext.json)
+
+---
+
 ### The lion of the Kalgantatota goes out forever
 
 *2024-09-30 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201700) · `si`
@@ -128,19 +230,29 @@ May the controversial man of Sri Lankan politics and the Sinhalese of the Blackt
 
 ---
 
-### කොරියා, ඩුබායි රැකියා සිහින මවා මුදල් ගැරූ කතුන් දෙදෙනා අල්ලයි
+### The two women who dreamed of Krea, Dubai job dreams
 
 *2024-09-30 19:29:34* · [`adalk`](https://www.ada.lk/breaking_news/කොරියා--ඩුබායි-රැකියා-සිහින-මවා-මුදල්-ගැරූ-කතුන්-දෙදෙනා-අල්ලයි/11-412240) · `si`
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව විදේශ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ කාන්තාවන් දෙදෙනෙකු කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Two women arrested for cheating job seekers in Dubai. One bailed, other remanded. Bureau warns against unlicensed agencies. Contact slbfe.lk for legitimate foreign employment opportunities.
 
-දකුණු කොරියාවේ රැකියා ලබාදෙන බව පවසා පුද්ගලයින් තිදෙනෙකුගෙන් රුපියල් ලක්ෂ 5 බැගින් රුපියල් ලක්ෂ 15ක් හා ඉතාලියේ රැකියා ලබාදෙන බව පවසා පුද්ගලයෙකුගෙන් රු.730,000 ක මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් බවට කාර්යාංශයට ලද පැමිණිලි 4ට අදාළව මහනුවර ප්‍රදේශයේ පදිංචි කාන්තාවක් ඇයගේ නිවසේදී විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+🟩
 
-අත්අඩංගුවට ගත් කාන්තාව මහනුවර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව එක් නඩුවක් සඳහා රුපියල් ලක්ෂ 10 බැගින් ශරීර ඇප 2 බැගින්, නඩු 4 සඳහාම දඩුවම් නියම කර නිදහස් කිරීමට මහේස්ත්‍රාත්වරයා නියෝග කළේය.
+The Bureau's Special Investigation Division has arrested two women who had cheated money without a valid license with the Sri Lanka Bureau of Foreign Employment.
 
-...
+A woman who has been arrested in the Kandy area regarding the 4 lakhs of Rs.Was on.
+
+The arrested woman was produced before the Kandy Magistrate's Court and then bailed down Rs.
+
+Meanwhile, a lodge from Galagedara has been arrested by the Special Investigation Division of the Bureau that the Bureau has been given a job in Dubai and has not been provided with a sum of Rs.. The magistrate was produced before the Galagedara Magistrate's Court and remanded until October 4. The bureau is being taken to further the Bureau and will be taken after the complaints will be taken following the complaints.
+
+To find a foreign employment or a person to obtain a foreign employment or a valid job agency, the Bureau at www.slbfe.lk www.slbfe.lkThe Bureau urges foreign employment seekers to obtain information by contacting or the 1989 hotline number.
+
+◼️
 
 [Data](articles/748eb9ba.json)
+
+[Extended Data](ext_articles/748eb9ba.ext.json)
 
 ---
 
@@ -164,21 +276,27 @@ The travel consultancy was issued due to the conflict situation in the two count
 
 ---
 
-### මල්වට්ටියට වාර්තා ගත මිලක්
+### Malvana records
 
 *2024-09-30 19:17:14* · [`adalk`](https://www.ada.lk/breaking_news/මල්වට්ටියට-වාර්තා-ගත-මිලක්/11-412239) · `si`
 
-කරුවලගස්වැව ප්‍රාදේශීය  ශාසනාරක්ෂක බල ප්‍රදේශයට අයත් මූණමල්ගස්වැව ශ්‍රී සුබෝධාරාම විහාරස්ථානයේ අභිනව විහාර මන්දිරය ඉදිකිරීමට ආධාර පිණිස සංවිධානය කළ පිංකම් මාලාවක එක්දිනක රාත්‍රී පැවැති මල්බඳුන් වෙන්දේසියට ඉදිරිපත් කළ මල්බඳුන රුපියල් හත්ලක්ෂ දසදහසක (7,10,000/=) වාර්තාගත මුදලකට වෙන්දේසි වී තිබේ.
+Malvana records: Multi-Glossarian auction held at Mudamalgaswewa Viharaya. Organized by Karuwalagaswewa Regional Sasanavaliwa. Chief incumbent oversaw pharaoh subscription. Auctions took place on 28th. Two villagers donated flowers.
 
-එම විහාරස්ථානයේ විහාරාධිපති රාජකීය පණ්ඩිත මූණමල්ගස්වැව අනුරුද්ධ හිමියන්ගේ අනුශාසනා පරිදි විහාරස්ථ දායක සභාව මෙම පිංකම් මාලාව සංවිධානයකර ඇත.
+🟩
 
-ඒ අනුව ඉකුත් 27 හා 28 දෙදින රාත්‍රී මෙම පිංකම් මාලාව පවත්වා ඇති අතර එහි අවසාන දිනය වූ 28 දා රාත්‍රී පැවැති මල්බඳුන් වෙන්දේසියට ඉදිරිපත් කළ මල්බඳුන (මල්වට්ටිය) මෙසේ වාර්තාගත මුදලකට වෙන්දේසි වූ බව විහාරාධිපති රාජකීය පණ්ඩිත මූණමල්ගස්වැවේ අනුරුද්ධ හිමියෝ පැවසූහ.
+The Multi-Glossarian auction was auctioned at a given night-night auction, which was organized by the Mudamalgaswewa Viharaya, owned by the Karuwalagaswewa Regional Sasanavaliwa area.
 
-මෙහිදී මල් බඳුන අවසානයට වෙන්දේසි වූ මුදල දක්වා ඔසවා තැබීමට ගම්වැසි තරුණයන් දෙදෙනෙකු එකවර රුපියල් එක්ලක්ෂ හැතෑදහසක මුදලක් ඊට පරිත්‍යාගකර ඇති අතර, ඒ අනුව ඔවුන් ලබාගත් අලංකාරවත් මල් බඳුන එහි සිටි සැදැහැවතුන්ගේ ද සාදුකාර මධ්‍ය යේ විහාරස්ථානයේ බුදු පිළිමවහන්සේ වෙත පූජාකර ඇත.
+The pharaoh subscription has been organized as the chief incumbent of the temple of the temple.
+
+The Viharadhipati Panditha Pandhalgaswewa said that the Multi Panditha Panditha Panditha Panditha Panditha Panditha Panditha Panditha Panditha Pandhalgaswewa said that there was auction on the 28th and 28th of the last day.
+
+Two villagers have been donated to the end of the flower bin to the end of the flower bin.
 
 ◼️
 
 [Data](articles/60c17197.json)
+
+[Extended Data](ext_articles/60c17197.ext.json)
 
 ---
 
@@ -2333,109 +2451,5 @@ Meanwhile, the Acting IGP has taken steps to assign officers from other duties t
 [Data](articles/4b5d37be.json)
 
 [Extended Data](ext_articles/4b5d37be.ext.json)
-
----
-
-### "20 million Rs.
-
-*2024-09-30 11:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-மில்லியன்-ரூபாய்-இலஞ்சம்-கோரியுள்ளனர்/175-344696) · `ta`
-
-Corrupt excise officials demand 20 million Rupees for liquor permits. Activist refuses bribes, plans legal action. Officials involved in fake safety stickers try to flee country.
-
-🟩
-
-The National People's Power activist said yesterday that some corrupt excise department officials have recently demanded up to 20 million rupees to provide some liquor school permits.
-
-NPP Managing Council Member Wasantha Samarasinghe said that he had information on the liquor schools that were allowed and that they had voice records on the corruption scandals.
-
-Speaking at a media briefing, Samarasinghe has refused to grant permission to those who refused to bribe.
-
-Samarasinghe said, "The government has suffered a huge loss due to these corruption bargains and we are planning to take action against these excise authorities," Samarasinghe said.
-
-Meanwhile, former parliamentarian Gamini Valaboda told the media that some of the excise department officials who were involved in a fake safety sticker in the liquor bottle were trying to leave the country.
-
-The President and the Police Criminal Investigation Department will be informed about them, he said.
-
-◼️
-
-[Data](articles/9076b2e6.json)
-
-[Extended Data](ext_articles/9076b2e6.ext.json)
-
----
-
-### 8 -year -old girl sexual harassment: 60 -year -old man arrested
-
-*2024-09-30 11:12:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/8-வயது-சிறுமி-பாலியல்-வன்புணர்வு-60-வயது-நபர்-கைது/73-344695) · `ta`
-
-Here's a summary of the incident in 200 characters:
-
-
-
-8-year-old girl sexually harassed by 60-year-old man in Ampara district. Incident occurred on Sunday, suspect arrested Monday. Girl hospitalized, suspect produced in court.
-
-🟩
-
-The incident took place in the Urmadurai police division of the Ampara district, which was accused of sexually abusing a man by a man who went to the houses.
-
-The incident took place on Sunday (29) at a house located in the Ishmai Purpuram area of ​​the Samanthurai Police Division.
-
-The suspect was arrested on Monday (30) for conducting investigations to the police.
-
-The 8 -year -old girl who was also affected by the incident has been admitted to the Samanthurai Hospital for treatment.
-
-It is noteworthy that the police have taken steps to produce the arrested suspect in the Samanthurai Magistrate's Court.
-
-◼️
-
-[Data](articles/c768d881.json)
-
-[Extended Data](ext_articles/c768d881.ext.json)
-
----
-
-### Sri Lanka’s Sanasa Development Bank gets new CEO
-
-*2024-09-30 11:06:00* · [`economynextcom`](https://economynext.com/sri-lankas-sanasa-development-bank-gets-new-ceo-181511/) · `en`
-
-ECONOMYNEXT – Kapila Prasanna Ariyaratne has been appointed the Executive Director/Chief Executive Officer of Sri Lanka’s Sanasa Development Bank Plc with effect from October 7.
-
-With the appointment of Ariyaratne, Shanka Abeywardene, who has been serving as the Acting CEO will revert to his original position as Chief Financial Officer, the bank said in a stock exchange filing.
-
-Ariyaratne, a veteran banking professional, was previously at Seylan Bank. (Colombo/Sep30/2024)
-
-◼️
-
-[Data](articles/606c6c7b.json)
-
-[Extended Data](ext_articles/606c6c7b.ext.json)
-
----
-
-### “Hand back without delay”
-
-*2024-09-30 11:03:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமதமின்றி-திரும்ப-ஒப்படைக்கவும்/175-344694) · `ta`
-
-Former MPs must return handguns to Defense Ministry immediately. Over 100 ex-lawmakers received weapons for personal protection under previous government's policy. Current administration's stance unclear.
-
-🟩
-
-Informed sources said yesterday that the handguns provided to former MPs for personal protection were ordered to be handed over to the Defense Ministry without delay.
-
-A senior security official told the Daily Mirror that parliamentary officials had separately sent a letter to the former MPs who had received these guns.
-
-Statistics point out that over 100 MPs in the recently dissolved parliament have received handguns for personal protection.
-
-The latest change has been followed by the previous government's decision to allow former MPs to keep at least two guns for their personal security.
-
-Speaking to the media in August ahead of the presidential election, Cabinet spokesman Bandula Gunawardena said the government had decided to implement a new policy that former MPs had two guns due to violence in the country.
-
-However, it is not clear whether the current government will support the decision of the previous administration.
-
-◼️
-
-[Data](articles/3f5f7927.json)
-
-[Extended Data](ext_articles/3f5f7927.ext.json)
 
 ---

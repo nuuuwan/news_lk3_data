@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 11:10:33**
+As of **2024-09-30 11:22:59**
 
 ## Newspaper Stats
 
-*Scraped **46,957** Articles*
+*Scraped **46,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 469
 islandlk | 2,760
 economynextcom | 2,845
 dailyftlk | 3,144
-adalk | 4,336
+adalk | 4,337
 dailymirrorlk | 4,733
 adaderanalk | 5,524
 tamilmirrorlk | 6,305
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,115
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,957 (100.0%) of 46,957 articles have been extended.
+46,957 (100.0%) of 46,958 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1642,6 +1642,24 @@ Three hundred thousand votes were invalid in the presidential election. 38 lakh 
 
 ---
 
+### සජබ හා එජාප එක්වීමේ සාකච්ඡා අසාර්ථකයි
+
+*2024-09-29 19:09:48* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-හා-එජාප-එක්වීමේ-සාකච්ඡා-අසාර්ථකයි/11-412221) · `si`
+
+සමගි ජන බලවේගය සහ එක්සත් ජාතික පක්ෂය සන්ධානගත වීම සඳහා පැවැත්වෙන සාකච්ඡා අසාර්ථක වී ඇත. ඒ සමගි ජන බලවේගය විසින් ඉදිරිපත් කරනු ලැබූ ප්‍රධාන කොන්දේසි දෙකක් හේතුවෙන් ඉදිරියට පවත්වා ගෙන යාමට නොහැකි තත්ත්වයක් ඇති වී තිබීමෙනි.
+
+ජනාධිපතිවරණයෙන් පසුව, පුළුල් දේශපාලන සන්ධානයක් ඇති කිරීම සඳහා සමගි ජන බලවේගය සමග සාකච්ඡා ආරම්භ කිරීමට එක්සත් ජාතික පක්ෂය විසින් නියෝජ්‍ය නායක රුවන් විජයවර්ධන, හිටපු මන්ත්‍රිනී තලතා අතුකෝරළ මහත්මිය ඇතුළු නියෝජිත පිරිසක් නම් කරනු ලැබීය.
+
+මෙම කණ්ඩායම දැනට සජබ නියෝජිතයන් සමග එක් එක් ආකාරයෙන් සාකච්ඡා වට අටක් පමණ පවත්වා තිබෙන අතර, ඉහත සාකච්ඡාවලදී සමගි ජන බලවේගය පාර්ශ්වයෙන් ඉදිරිපත් කෙරුණු ප්‍රධාන කරුණු දෙකක් සාකච්ඡා කොට, ඉදිරියට ගෙන යාම අසීරු තත්ත්වයට පත් කිරීමට හේතු වී ඇත.
+
+සමගි ජන බලවේගයේ ලකුණ වන ටෙලිෆෝනයෙන් ඉදිරි මැතිවරණවලට තරග කළ යුතු බවට ඉදිරිපත් වූ කොන්දේසිය සහ හිටපු ජනාධිපති එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා නව සන්ධානය තුළ නොසිටිය යුතු බවට සමගි ජන බලවේගයේ පාර්ශ්වයෙන් කෙරුණු ඉල්ලීමද, සාකච්ඡා ඉදිරියට ගෙන යාම සඳහා දැඩි බාධාවක් වී ඇත.
+
+...
+
+[Data](articles/c540bafb.json)
+
+---
+
 ### Negotiations failed to join the rise and the UN
 
 *2024-09-29 19:09:48* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-හා-එජාව-එක්වීමේ-සාකච්ඡා-අසාර්ථකයි/11-412221) · `si`
@@ -2245,19 +2263,5 @@ The Ministry of Education had appointed a seven-member committee to decide wheth
 [Data](articles/e974fe36.json)
 
 [Extended Data](ext_articles/e974fe36.ext.json)
-
----
-
-### Sri Lanka Provides Hope for Democracy in the West
-
-*2024-09-29 17:50:00* · [`islandlk`](http://island.lk/sri-lanka-provides-hope-for-democracy-in-the-west/) · `en`
-
-Sri Lanka’s Presidential election saw a genuine left-winger, from a Marxist party, record a victory that upended the country’s political establishment. But the NPP’s win was more than just historic for this country. A man whose ideology with regard to the fundamental questions of policy differs from all predecessors was elected. This is something presently unimaginable in the West. While it may have been different 100 years ago, today in most major Western countries, there is increasingly no way for the public to vote away the two sacred cows of the establishment: neoliberal capitalism and neo-con foreign policy. Here, Sri Lanka can provide hope.
-
-...
-
-[Data](articles/aea2b37e.json)
-
-[Extended Data](ext_articles/aea2b37e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 17:22:34**
+As of **2024-09-30 17:39:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,028 (100.0%) of 47,029 articles have been extended.
+47,029 (100.0%) of 47,029 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,10 @@ Therefore, it is only a little more time since the filing of the nomination pape
 ### A rare star that appear before sunrise
 
 *2024-09-30 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201695) · `si`
+
+Rare comet appears east sky after 5 days. Difficult to observe due to horizon vision and light pollution. Peak brightness on October 15th. Visible in western sky after October 12th. Last appeared 80,000 years ago.
+
+🟩
 
 Arthur C. Clark Center states that a rare comet is appearing in the eastern sky after 5 days.
 
@@ -544,23 +548,31 @@ The Cabinet is scheduled to take several important decisions at this meeting, wh
 
 ---
 
-### 10 இலட்சம் தபால் மூல வாக்களிப்பு  விண்ணப்பங்கள் அச்சிடப்பட்டுள்ளன
+### 10 lakh postal voting applications have been printed
 
 *2024-09-30 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195136) · `ta`
 
-எதிர்வரும் பாராளுமன்ற தேர்தலுக்கான தபால் மூல வாக்களிப்பு விண்ணப்பங்களை அச்சிடும் பணிகள் நிறைவடைந்துள்ளதாக அரசாங்க அச்சக திணைக்களம் அறிவித்துள்ளது.
+10 lakh postal voting apps printed for parliamentary election. Handover to Election Commission soon. Printing of all election materials including polling cards to finish a week before November 14 election date. Remaining work after October 4 nomination filing. New parliament expected to convene on November 21 based on 2024 voter registration.
 
-அதன்படி, மொத்தமாக 10 இலட்சம் தபால் மூல வாக்களிப்பு விண்ணப்பங்கள் அச்சிடப்பட்டுள்ளதாக அரசாங்க அச்சக அதிகாரி கங்கா கல்பானி லியனகே தெரிவித்துள்ளார்.
+🟩
 
-அச்சிடப்பட்ட விண்ணப்பங்களில் ஒரு தொகுதி நேற்று தேர்தல் ஆணைக்குழுவிடம் கைளிக்கப்பட்டுள்ளதோடு, மீகுதி இன்று வழங்கப்பட உள்ளன.
+The Department of Government Press Department has announced that printing of postal voting applications for the upcoming parliamentary election has been completed.
 
-நவம்பர் 14 ஆம் திகதி நடைபெறவுள்ள தேர்தலுக்கு ஒரு வாரத்திற்கு முன்னதாக வாக்குச் சீட்டுகள் மற்றும் உத்தியோகபூர்வ வாக்காளர் அட்டைகள் உட்பட பாராளுமன்றத் தேர்தல் தொடர்பான அனைத்து அச்சிடும் பணிகளும் நிறைவடையும்  என்று கங்கா கல்பானி லியனகே மேலும் தெரிவித்துள்ளார்.
+According to the Government Press Officer Ganga Kalpani Liyanage, a total of 10 lakh postal voting applications have been printed.
 
-விசேட வர்தமானி அறிவித்தலின் படி, ஒக்டோபர்  மாதம் 4 ஆம் திகதி முதல் 11 ஆம் திகதி நண்பகல் வரை வேட்பு மனுக்கள் தாக்கல் செய்த பின்னர் மீதமுள்ள அச்சிடும் பணிகள் ஆரம்பமாகும்.
+A constituency of printed applications has been handed over to the Election Commission yesterday and is to be presented today.
 
-...
+Ganga Kalpani Liyanage added that all printing work on parliamentary elections, including polling and official voter cards, will be completed a week before the election on November 14.
+
+According to the Special Vardhamani announcement, the remaining printing work will begin after the nomination papers are filed from the 4th to the 11th of October.
+
+Parliamentary elections will be held on the basis of the 2024 voter registration. The newly elected parliament is expected to meet on November 21.
+
+◼️
 
 [Data](articles/bbcc8ed1.json)
+
+[Extended Data](ext_articles/bbcc8ed1.ext.json)
 
 ---
 

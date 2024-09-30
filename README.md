@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 19:57:11**
+As of **2024-09-30 20:11:49**
 
 ## Newspaper Stats
 
-*Scraped **47,055** Articles*
+*Scraped **47,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,352
 dailymirrorlk | 4,733
 adaderanalk | 5,535
 tamilmirrorlk | 6,324
-virakesarilk | 7,527
+virakesarilk | 7,528
 adaderanasinhalalk | 8,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,055 (100.0%) of 47,055 articles have been extended.
+47,056 (100.0%) of 47,056 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -167,6 +167,30 @@ Speaking further Commissioner General of Examinations said the decision was made
 [Data](articles/3558a447.json)
 
 [Extended Data](ext_articles/3558a447.ext.json)
+
+---
+
+### Political room is to grant National List Membership to Pa.
+
+*2024-09-30 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195171) · `ta`
+
+Tamil National Alliance seeks first national list membership for parliamentary election. Party emphasizes importance of ethnic problem solutions and civil society's role in unifying Tamil parties and selecting general candidates.
+
+🟩
+
+On behalf of the militants, we urge the militants that the political chamber is to give us the first national list membership we receive as the Tamil National Alliance in the parliamentary general election.. Tulsi said.
+
+In the last presidential election, the Tamil party had gathered themselves as a nationality and gave their votes significantly to the Tamil general candidate, urging the immediate solution to the ethnic problem of the Tamil people.
+
+The Tamil General Assembly and the Tamil National Political Parties have joined the Tamil National Alliance for this kind of concept.. Especially the work done by the civil society of the North and East is the present day of the race.
+
+Their work was enormous during the unification of the Tamil national parties and the general candidate's selection and after the election propaganda.
+
+...
+
+[Data](articles/e14be466.json)
+
+[Extended Data](ext_articles/e14be466.ext.json)
 
 ---
 
@@ -2437,35 +2461,5 @@ For more information, the public is requested to contact the hotline ‘1944’ 
 [Data](articles/4c15143c.json)
 
 [Extended Data](ext_articles/4c15143c.ext.json)
-
----
-
-### Discussion on VIP security today
-
-*2024-09-30 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201678) · `si`
-
-VIP security meeting today: Former presidents' safety discussed. Acting IGP Priyantha Weerasuriya participates. Decision on local presidents' protection expected. Officers reassigned from other duties.
-
-🟩
-
-A special discussion has been convened today (30) at the day of the safety of the people including former presidents.
-
-The discussion will be held at the General Secretary of the Ministry of Defense under the patronage of Minister Vijitha Herath.
-
-Acting IGP Priyantha Weerasuriya and several others are due to participate.
-
-Recently, the security of the local presidents was decided recently.
-
-However, former presidents then informed the safety and they had informed the amount of protectors.
-
-The discussion is scheduled to be held in this day at length and take a final decision on this day.
-
-Meanwhile, the acting IGP has taken steps to attach the officers who were working in other duties as a remedy of the officers of the Police Department.
-
-◼️
-
-[Data](articles/49e78278.json)
-
-[Extended Data](ext_articles/49e78278.ext.json)
 
 ---

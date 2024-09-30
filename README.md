@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 23:09:29**
+As of **2024-09-30 23:39:10**
 
 ## Newspaper Stats
 
-*Scraped **47,072** Articles*
+*Scraped **47,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,75 @@ newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 465
 colombotelegraphcom | 469
-islandlk | 2,762
+islandlk | 2,763
 economynextcom | 2,856
 dailyftlk | 3,145
 adalk | 4,355
 dailymirrorlk | 4,733
-adaderanalk | 5,538
-tamilmirrorlk | 6,324
+adaderanalk | 5,539
+tamilmirrorlk | 6,325
 virakesarilk | 7,533
-adaderanasinhalalk | 8,139
+adaderanasinhalalk | 8,140
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,072 (100.0%) of 47,072 articles have been extended.
+47,074 (100.0%) of 47,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### ඊශ්‍රායලයේ ඊළඟ සූදානම
+
+*2024-09-30 23:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201705) · `si`
+
+ඊශ්‍රායලය විසින් ලෙබනනය වෙත ගොඩබිම් ප්‍රහාර එල්ලකිරීමට බලාපොරොත්තු වන බව අමෙරිකාවට දැනුම් දී තිබේ.
+
+අද (30) සිට එම ප්‍රහාර ඉක්මනින් දියත් කරන බව ඊශ්‍රායලය විසින් අමෙරිකානු නිලධාරියෙක්ට දැනුම් දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මේ අතර ලෙබනනය වෙත ගොඩබිම් ප්‍රහාරයක අවදානම තීව්‍ර කරමින් ලෙබනන් - ඊශ්‍රායල දේශසීමාව වෙත ඊශ්‍රායලය විසින් යුද ටැංකි යොමුකර තිබු‍ණි.
+
+මෙවන් පසුබිමක ජාතිය ඇමතූ හිස්බුල්ලා සංවිධානයේ උප නායක ෂෙයික් නයිම් කාසීම් අවධාරණය කළේ ඊශ්‍රායල ගොඩබිම් ප්‍රහාරයකට මුහුණදීමට තම සංවිධානය සූදානම් බවය.
+
+මේ අතර ලෙබනනයේ ක්‍රියාත්මක හිස්බුල්ලා සංවිධානයේ නායක සායිද් හසන් නස්රල්ලා, ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් මියගියේ පසුගිය සති අන්තයේදී ය.
+
+ඝාතනය කෙරුණු හිස්බුල්ලා නායකයාගේ සිරුර, ලෙබනන් සෞඛ්‍ය අංශ සුන්බුන් අතරින් ඊයේ (29)  සොයාගෙන තිබේ.
+
+ඔහුගේ දේහය සම්බන්ධ අවසන් කටයුතු සිදුකරන දිනය මෙතෙක් අනාවරණ කර නොමැත.
+
+ඊශ්‍රායලය ලෙබනනයේ ඉලක්ක වෙත ප්‍රහාර එල්ල කිරීම තවමත් නවත්වා නොමැති අතර ඊයේත් එල්ල වූ ප්‍රහාරවලින් එරට 105 දෙනෙක් මරුමුවට පත්ව තිබුණි.
+
+◼️
+
+[Data](articles/aa2a760c.json)
+
+---
+
+### “Don't go to Syria” warns Sri Lankans
+
+*2024-09-30 22:56:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரியாவுக்குச்-செல்ல-வேண்டாம்-இலங்கையர்களுக்கு-எச்சரிக்கை/175-344727) · `ta`
+
+"Don't travel to Syria" warning issued by Sri Lanka's Ministry of External Affairs due to tensions. Embassy advises caution and provides emergency contact details for citizens in Lebanon and Syria.
+
+🟩
+
+The Ministry of External Affairs has advised the public not to go to Lebanon and Syria until the re -notice is due to the tense situation in Lebanon and Syria.
+
+The Ministry has asked all the Sri Lankans living in Lebanon and Syria to take care and take necessary precautions.
+
+It has also asked the Sri Lankan embassy in Beirut and the embassy in Beirut and the embassy in Damascus.
+
+Sri Lankans in these countries can contact the embassy or embassy via slemb.beiruit@mfa.gov.lk through email or the following emergency telephone numbers:
+
+◼️
+
+[Data](articles/20fa4c8b.json)
+
+[Extended Data](ext_articles/20fa4c8b.ext.json)
+
+---
 
 ### A proposal to the Scholarship Examination issue
 
@@ -213,6 +263,32 @@ Accordingly, a 55-year-old businessman has been gunned down inside his house, Ad
 [Data](articles/c018345d.json)
 
 [Extended Data](ext_articles/c018345d.ext.json)
+
+---
+
+### Businessman shot dead in Hanwella
+
+*2024-09-30 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102361/businessman-shot-dead-in-hanwella) · `en`
+
+A person has reportedly died following a shooting incident in the Neluwattuduwa area in Hanwella today.
+
+Accordingly, a 55-year-old businessman has been gunned down inside his house this evening by an unidentified gunman, police said.
+
+The victim had succumbed to injuries after being admitted to the Avissawella Hospital in critical condition.
+
+The shooting had taken place at around 8.15 p.m. today (30), according to Police Spokesman DIG Nihal Thalduwa.
+
+Police report that the deceased is a 55-year-old businessman from Neluwattuduwa, and that the shooting occurred while he was at home.
+
+Authorities suspect that the shooting was carried out using a T56 assault rifle.
+
+The body has been placed in the mortuary of the Avissawella Hospital.
+
+The motive behind the shooting has not yet been revealed, and Hanwella Police are conducting further investigations to apprehend the suspects.
+
+◼️
+
+[Data](articles/df50ca7a.json)
 
 ---
 
@@ -2381,77 +2457,5 @@ The Fisheries Department has confirmed that the Indian Coast Guard has been noti
 [Data](articles/cb42b894.json)
 
 [Extended Data](ext_articles/cb42b894.ext.json)
-
----
-
-### Nepal rank of floods
-
-*2024-09-30 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201682) · `si`
-
-Nepal floods death toll exceeds 150. Landslides and disappearances reported due to heavy rainfall. Search operations ongoing despite receding waters. Bagmati River overflowed, water levels declined. Floods affected North India as well.
-
-🟩
-
-The number of deaths caused by negative weather has been over 150 deaths.
-
-The floods of the river have dropped, and the floods of certain regions have passed away.
-
-Over 60 disappearances of landslides and floods were taken in accordance with heavy showers, foreign media said.
-
-Despite inclement weather, search operations in search operations continue in the landslike disappearance.
-
-Bagamathi River, including Bagamathi River, has been extinguished before heavy rainfall.
-
-The water level of the river has risen by about 12.7 inches, which have exceeded 12.7 inches.
-
-However, the water level is gradually declining and the Himalayas Kanda has been a heavy rains in these days, foreign media reports that many regional rivers have reached over-over.
-
-According to reports, floodings also affected North India.
-
-◼️
-
-[Data](articles/6bdbec4b.json)
-
-[Extended Data](ext_articles/6bdbec4b.ext.json)
-
----
-
-### The possibility of decreasing fuel prices
-
-*2024-09-30 11:41:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-குறையும்-சாத்தியம்/175-344699) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Decreasing fuel prices possible due to market forces, geopolitical events, and economic factors. OPEC decisions, global demand shifts, and renewable energy adoption may influence price fluctuations."
-
-🟩
-
-◼️
-
-[Data](articles/789d9c39.json)
-
-[Extended Data](ext_articles/789d9c39.ext.json)
-
----
-
-### The possibility of decreasing fuel prices
-
-*2024-09-30 11:41:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எரிபொருள்-விலை-குறையும்-சாத்தியம்/150-344699) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Decreasing fuel prices possible due to increased global oil production, geopolitical tensions easing, and economic recovery. Factors like OPEC+ decisions, US-China trade relations, and renewable energy growth also play roles."
-
-🟩
-
-◼️
-
-[Data](articles/7aae1793.json)
-
-[Extended Data](ext_articles/7aae1793.ext.json)
 
 ---

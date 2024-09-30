@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 06:44:09**
+As of **2024-09-30 07:26:57**
 
 ## Newspaper Stats
 
-*Scraped **46,918** Articles*
+*Scraped **46,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 463
 colombotelegraphcom | 468
-islandlk | 2,752
+islandlk | 2,760
 economynextcom | 2,842
 dailyftlk | 3,141
 adalk | 4,332
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,518
 tamilmirrorlk | 6,298
 virakesarilk | 7,509
-adaderanasinhalalk | 8,109
+adaderanasinhalalk | 8,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,918 (100.0%) of 46,918 articles have been extended.
+46,926 (100.0%) of 46,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Thunderstorms today
+
+*2024-09-30 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201674) · `si`
+
+Thunderstorms forecasted today. Showers expected in Western, Sabaragamuwa, Southern, and Northwestern provinces. Southern Province may see morning showers. Public advised to take precautions against strong winds and lightning.
+
+🟩
+
+The Department of Meteorology states that there will be showers at several places in the evening or night in many parts of the island.
+
+The announcement issued by the department states in some places in the Western, Sabaragamuwa, Southern and Northwestern provinces. About 100 tight closes.
+
+Showers may occur in the morning in the Southern Province and in the Batticaloa and Ampara Districts.
+
+They call on the public to take necessary steps to reduce temporary winds and lightning accidents.
+
+◼️
+
+[Data](articles/4af5778d.json)
+
+[Extended Data](ext_articles/4af5778d.ext.json)
+
+---
 
 ### CA Sri Lanka to equip private sector to defeat corruption
 
@@ -323,6 +347,120 @@ The Janatha Vimukthi Peramuna (JVP) is showing the vehicles parked at Galle Face
 [Data](articles/7ab3b298.json)
 
 [Extended Data](ext_articles/7ab3b298.ext.json)
+
+---
+
+### ComBank joins Yagirala rainforest conservation effort, pledges to plant 10,500 trees
+
+*2024-09-30 02:48:00* · [`islandlk`](http://island.lk/combank-joins-yagirala-rainforest-conservation-effort-pledges-to-plant-10500-trees/) · `en`
+
+The Commercial Bank of Ceylon has announced a partnership with the Department of Forestry and Environmental Science of the University of Sri Jayewardenepura to support the restoration and conservation of the Yagirala rainforest in the Kalutara District.
+
+This latest sustainability commitment of the Bank entails funding the restoration of 15 acres of this ecologically important lowland tropical wet evergreen forest with the planting of 10,500 trees, and efforts to engage local communities in the protection and maintenance of the ecosystem.
+
+...
+
+[Data](articles/bd068a25.json)
+
+[Extended Data](ext_articles/bd068a25.ext.json)
+
+---
+
+### Hirdaramani’s net zero science-based target approved by SBTi
+
+*2024-09-30 02:47:00* · [`islandlk`](http://island.lk/hirdaramanis-net-zero-science-based-target-approved-by-sbti/) · `en`
+
+Hirdaramani Apparel recently announced that its Net-Zero Science Based Targets have been officially approved by the Science Based Targets initiative (SBTi). Hirdaramani is also the first organisation in Sri Lanka to have secured this key milestone.
+
+This achievement underscores the company’s commitment to environmental sustainability as outlined in its Future First Sustainability Roadmap 2025 agenda. As part of this commitment, Hirdaramani has set ambitious near-term and net-zero targets applicable to countries within its global footprint, which include Bangladesh, Sri Lanka, and Vietnam.
+
+...
+
+[Data](articles/d1d9a689.json)
+
+[Extended Data](ext_articles/d1d9a689.ext.json)
+
+---
+
+### Singapore-headquartered Jungle Kitchen well-positioned in Sri Lanka
+
+*2024-09-30 02:43:00* · [`islandlk`](http://island.lk/singapore-headquartered-jungle-kitchen-well-positioned-in-sri-lanka/) · `en`
+
+Singapore-headquartered Jungle Kitchen a fast-growing tropical grocer that specializes in sourcing, preparing, and supplying the finest vegan ingredients from across South and Southeast Asia are looking to supply jackfruit seeds, jambu, breadfruit, sambols and sauces from Sri Lanka, Indonesia, and Malaysia to their portfolio.
+
+This will give additional income to the local cottage industry that grows and makes these veggie delicacies.
+
+As a female-founded and led business, the brand was recognized as an advocate for the 2024 Summit for Action on Gender Equality by the Singapore Council of Women’s Organisations.
+
+The brand’s efforts were acknowledged by President of Singapore Tharman Shanmugaratnam. While Jungle Kitchen is flourishing in Singapore, it is anchored on Sri Lankan soil. Co-founder Mukeeta Manukulasuriya is also the CEO of Curry Mate Lanka, a Piliyandala-based brand that has been supplying ready-to-eat meals, sambals and sauces to the Sri Lankan market since 1984.
+
+...
+
+[Data](articles/4414ad87.json)
+
+[Extended Data](ext_articles/4414ad87.ext.json)
+
+---
+
+### Oceanfront Service Apartments promoted as a prime investment opportunity in Marine Drive
+
+*2024-09-30 02:40:00* · [`islandlk`](http://island.lk/oceanfront-service-apartments-promoted-as-a-prime-investment-opportunity-in-marine-drive/) · `en`
+
+Oceanfront Service Apartments in the Marine Drive by the International Construction Consortium (ICC) offers a unique and lucrative investment opportunity for discerning investors. This 21-story beachfront property, featuring 118 luxurious apartments, provides excellent potential for both capital appreciation and steady rental income.
+
+What makes Oceanfront Service Apartments stand out is the fact that they are service apartments, a concept that offers greater flexibility and appeal to both short-term and long-term tenants. Investors can tap into the lucrative tourism market, with service apartments offering an attractive alternative to traditional hotels. With Colombo being a key hub for business and tourism, demand for such premium, fully managed residences is only set to rise. For both tourists and business travelers, service apartments offer the perfect blend of luxury, privacy, and convenience.
+
+...
+
+[Data](articles/54a64b31.json)
+
+[Extended Data](ext_articles/54a64b31.ext.json)
+
+---
+
+### Evolution Auto with Ather Energy to introduce electric scooters in Sri Lanka
+
+*2024-09-30 02:37:00* · [`islandlk`](http://island.lk/evolution-auto-with-ather-energy-to-introduce-electric-scooters-in-sri-lanka/) · `en`
+
+Evolution Auto, in a landmark joint venture with Sensei Capital Partners, Atman Group, and Sino Lanka Private Limited, proudly announces its partnership with Ather Energy, India’s leading electric scooter manufacture, to bring Ather’s 450 series of scooters to Sri Lanka. As the official distributor of Ather, Evolution Auto aims to revolutionize mobility in Sri Lanka by offering eco-friendly and cost-effective transportation solutions that support environmental sustainability while contributing to the nation’s economic growth.
+
+Equipped with state-of-the-art technology and unmatched performance features, the Ather 450 series offers a superior riding experience with a powerful electric motor, rapid acceleration, and a top speed of 90 km/h. The scooter’s intelligent dashboard provides real-time diagnostics and navigation, extensive under-seat storage, regenerative braking, and fast-charging capabilities that achieve an 80% charge in just 60 minutes.
+
+...
+
+[Data](articles/06eedf52.json)
+
+[Extended Data](ext_articles/06eedf52.ext.json)
+
+---
+
+### Fairway invites stakeholders to join in enhancing Colombo Fort’s unique tourism features
+
+*2024-09-30 02:25:00* · [`islandlk`](http://island.lk/fairway-invites-stakeholders-to-join-in-enhancing-colombo-forts-unique-tourism-features/) · `en`
+
+Colombo Fort is where history whispers through cobbled streets and colonial facades, standing tall against the backdrop of a rapidly modernizing skyline. As sleek skyscrapers rise, this district remains a timeless symbol of Sri Lanka’s heritage, offering an irresistible blend of old-world charm and urban energy. Its proximity to iconic landmarks like Galle Face Green, the Dutch Hospital, and Pettah Market makes it the perfect place where culture, history, and the rhythm of a modern city converge. Yet, despite its activity, the true potential of Colombo Fort as a global tourism and cultural hub is still waiting to be realized.
+
+...
+
+[Data](articles/a36ae1c4.json)
+
+[Extended Data](ext_articles/a36ae1c4.ext.json)
+
+---
+
+### Singer marks 10 years of partnership with Sony
+
+*2024-09-30 02:22:00* · [`islandlk`](http://island.lk/singer-marks-10-years-of-partnership-with-sony/) · `en`
+
+Sony Electronics Sri Lanka and Singer Sri Lanka celebrated a landmark occasion with the joint launch of the newest Bravia TV range at the Galle Face Hotel, Colombo. The event marked not only the unveiling of cutting-edge home entertainment products but also commemorated a decade of partnership excellence between SONY and SINGER. Over the past 10 years, Singer has proudly been the distributor of Sony Electronics, delivering the finest technology and innovation to Sri Lankan households, solidifying their shared commitment to providing exceptional products and services.
+
+Among the highlights of the event was the introduction of the first-ever Mini LED TVs to the Sri Lankan market, setting a new standard in premium home entertainment. Sony’s Bravia Mini LED TVs are poised to transform the viewing experience with superior brightness, contrast, and clarity, offering an immersive visual experience like never before.
+
+...
+
+[Data](articles/5919ed93.json)
+
+[Extended Data](ext_articles/5919ed93.ext.json)
 
 ---
 
@@ -763,22 +901,6 @@ Meanwhile, potato farmers in Badulla District have complained that potatoes will
 [Data](articles/38e9f543.json)
 
 [Extended Data](ext_articles/38e9f543.ext.json)
-
----
-
-### 
-
-*2024-09-29 19:49:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84814) · `en`
-
-Anura Kumara  Dissanayake ; “Leftist” Star  Rises   Over Sri Lanka.
-
-The heading of this article is inspired by the title of Edgar Snow’s  , “Red Star Over China”. Snow’s book first published in 1937 was a vivid account of  his interaction with the  Chinese communist leader  Mao  Ze Dong and the Red Army. Mao known then as Mao Tse Tung was relatively called  to the  Western world at that time. Years later when the communists under Mao captured power in China, “Red Star Over China” became a best seller. The book was widely read   by people who wanted to gain an insight into the new “unknown”  Communist rulers  of China.
-
-...
-
-[Data](articles/139b1f89.json)
-
-[Extended Data](ext_articles/139b1f89.ext.json)
 
 ---
 
@@ -1257,6 +1379,20 @@ This victory was achieved by the English medium of GCE O / L examination. Ti H. 
 [Data](articles/4b139458.json)
 
 [Extended Data](ext_articles/4b139458.ext.json)
+
+---
+
+### Anura Kumara  Dissanayake ; “Leftist” Star  Rises   Over Sri Lanka.
+
+*2024-09-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84814) · `en`
+
+The heading of this article is inspired by the title of Edgar Snow’s  , “Red Star Over China”. Snow’s book first published in 1937 was a vivid account of  his interaction with the  Chinese communist leader  Mao  Ze Dong and the Red Army. Mao known then as Mao Tse Tung was relatively called  to the  Western world at that time. Years later when the communists under Mao captured power in China, “Red Star Over China” became a best seller. The book was widely read   by people who wanted to gain an insight into the new “unknown”  Communist rulers  of China.
+
+...
+
+[Data](articles/139b1f89.json)
+
+[Extended Data](ext_articles/139b1f89.ext.json)
 
 ---
 
@@ -2173,189 +2309,5 @@ As the Minister of Power and Energy, he is an experienced politician who has bee
 [Data](articles/fa7c4162.json)
 
 [Extended Data](ext_articles/fa7c4162.ext.json)
-
----
-
-### Parents cannot add money from their parents
-
-*2024-09-29 12:33:40* · [`adalk`](https://www.ada.lk/breaking_news/ළමා-හා-ගුරු-දින-සැමරුමට-දෙමාපියන්ගෙන්-සල්ලි-එකතු-කරන්න-බෑ/11-412205) · `si`
-
-Ministry of Education prohibits schools from collecting money from parents for festivals like World Children's Day and World Teachers' Day. Secretary Thilaka Jayasundara warns against this practice in a letter to principals and education authorities. Parents and students face difficulties due to this issue.
-
-🟩
-
-The Ministry of Education emphasizes that the public should not add money from the parents by schools to celebrate festivals such as the upcoming World Children's Day, World Teachers' Day.
-
-The Secretary to the Ministry of Education Thilaka Jayasundara has also sent a letter to all principals and educational authorities.
-
-The letter has shown that various complaints have been received to the Ministry of Education that the Ministry of Education will be collected from schools for such ceremonies.
-
-The article has further briefed the parents and students to face many problems, most of the meantha.
-
-◼️
-
-[Data](articles/914f6af7.json)
-
-[Extended Data](ext_articles/914f6af7.ext.json)
-
----
-
-### Rice, Masonry Bread
-
-*2024-09-29 12:17:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரைஸ்-கொத்து-ரொட்டியின்-விலை-குறைப்பு/175-344650) · `ta`
-
-Rice and masonry bread prices lowered by 40 rupees starting midnight. Restaurant owners' association announcement.
-
-🟩
-
-Rice and masonry bread prices have been reduced by 40 rupees from midnight today (29), the restaurant owners association said.
-
-◼️
-
-[Data](articles/69c194ae.json)
-
-[Extended Data](ext_articles/69c194ae.ext.json)
-
----
-
-### Two persons arrested with ice drugs in different parts of Peliyagoda
-
-*2024-09-29 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195034) · `ta`
-
-Two arrests made in Peliyagoda: one near fish market, another in separate area. Police seized ice drugs in both cases.
-
-🟩
-
-Peliyagoda police said that a person who had ice drugs had been arrested on Saturday (28) near the Peliyagoda fish market belonging to the Peliyagoda police division.
-
-The suspect was arrested during a raid conducted by a team of police officers from Peliyagoda.
-
-Meanwhile, police said that another person who had ice drugs in another area of ​​the Peliyagoda police division was arrested yesterday.
-
-He was arrested during a raid carried out by a group of officials of the Colombo Crime Branch.
-
-The suspect seized 05 grams of 200 milligrams of ice from the suspect.
-
-◼️
-
-[Data](articles/89482e2d.json)
-
-[Extended Data](ext_articles/89482e2d.ext.json)
-
----
-
-### Island’s best results of 2023 (2024) O/L exam
-
-*2024-09-29 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102335/islands-best-results-of-2023-2024-ol-exam) · `en`
-
-The names of the students who have obtained the best results in the island at the 2023 (2024) G.C.E. Ordinary Level examination have been released.
-
-Accordingly, Malsha Kumarathunge of Sanghamitta Balika Vidyalaya Galle has placed first in the island.
-
-◼️
-
-[Data](articles/6a4ed023.json)
-
-[Extended Data](ext_articles/6a4ed023.ext.json)
-
----
-
-### Fastated Results Excellence
-
-*2024-09-29 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201657) · `si`
-
-Here's a 200-character summary:
-
-
-
-Malikha Kumaratunga tops GCE O/Ls in Galle. Maligeyadeva Balika Vidyalaya secures second spot in Colombo. Four students rank fourth island-wide: Seshani Sethamphera Jayawardene, Mihwoi Perera, Sazara Kavindi, and Dhanananjana Wickrama.
-
-🟩
-
-According to the results of the GCE Ordinary Level examination, Hi Malikha Kumaratunga has passed the first place in Galle.
-
-The second place, the second place, Ratnighti has been owned by the Maligeyadeva Balika Vidyalaya in Colombo, Colombo.
-
-According to the results, three students have been elected to the fourth place of the island.
-
-Seshani Sethamphera Jayawardene, Colombo Visakha Balika Vidyalaya, Colombo Miwhoi Perera, Nugegoda Vidyalaya, Colombo, has been elected to the fourth place.
-
-Four students have been elected to the seventh and Sazara Kavindi, Colombo Dhanananjana Wickrama, Gampaha, Sri Sayangala Vidyalaya, Gampaha.
-
-◼️
-
-[Data](articles/bba21442.json)
-
-[Extended Data](ext_articles/bba21442.ext.json)
-
----
-
-### Two persons arrested for alleged money laundering
-
-*2024-09-29 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195030) · `ta`
-
-Two persons arrested for alleged money laundering and fraud in Kiribathgodai area. Suspects accused of selling cars with fake documents and engaging in property scams. Police investigation ongoing.
-
-🟩
-
-A suspect for allegedly defrauding the Kiribathgodai area has been arrested by the police on Saturday (28), Kiribathgodai police said.
-
-The suspect has been arrested on the basis of information received by the police officers of the Kiribathgoda police station.
-
-During the investigation by the police regarding the incident, it was revealed that the car was selling for fake documents and selling a car worth Rs 13,000,000.
-
-According to information provided by the arrested suspect, another person has been arrested in Kiribathgoda area, police said.
-
-Both of these suspects are doing business such as buying new houses, selling houses and building new houses in various areas, causing people to cheat and engage in money laundering.
-
-It has been revealed that the Velisara and the Pudukkadai courts have been issued an opening and that the suspects are conducting further investigations into the suspects.
-
-◼️
-
-[Data](articles/3f52afc1.json)
-
-[Extended Data](ext_articles/3f52afc1.ext.json)
-
----
-
-### Accomplice of ‘Angoda Jile’ arrested with ‘ice’ and Kerala cannabis
-
-*2024-09-29 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102334/-accomplice-of-angoda-jile-arrested-with-ice-and-kerala-cannabis) · `en`
-
-A main accomplice of the notorious underworld criminal figure and large-scale drug trafficker Ponnamperumage Danush Buddhika alias “Angoda Jile” has been apprehended by the Police Special Task Force (STF).
-
-Police have also seized 25 grams and 500 milligrams of ice (crystal methamphetamine) and 51 grams of Kerala cannabis, which were found in the possession of the suspect.
-
-Additionally, Rs. 274,400 in cash believed to have been earned from the drug racket was also seized.
-
-The relevant suspect has been handed over to Thalangama Police for further investigations.
-
-◼️
-
-[Data](articles/60c625b2.json)
-
-[Extended Data](ext_articles/60c625b2.ext.json)
-
----
-
-### One person killed in a sharp weapon in Kanemulla
-
-*2024-09-29 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195026) · `ta`
-
-Man killed in Kanemulla after argument over motorcycle attack
-
-🟩
-
-A man has been attacked by a sharp weapon in the Bahala Yagoda area belonging to the Kanemulla police division, Kanemulla police said.
-
-Due to an argument between two men on a motorcycle, the man who was sitting behind him has attacked a motorcycle with a sharp weapon and got out of the motorcycle.
-
-At the same time, the man involved in the attack was attacked by the same weapon and mysteriously died in a bush, police said.
-
-◼️
-
-[Data](articles/64797563.json)
-
-[Extended Data](ext_articles/64797563.ext.json)
 
 ---

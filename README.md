@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 05:22:57**
+As of **2024-09-30 05:44:42**
 
 ## Newspaper Stats
 
-*Scraped **46,917** Articles*
+*Scraped **46,918** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 389
+dbsjeyarajcom | 390
 bbccomsinhala | 463
 colombotelegraphcom | 468
 islandlk | 2,752
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,109
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,913 (100.0%) of 46,917 articles have been extended.
+46,915 (100.0%) of 46,918 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The CA session aimed to raise awareness about anti-corruption initiatives, engag
 
 [Data](articles/bd4c978a.json)
 
+[Extended Data](ext_articles/bd4c978a.ext.json)
+
 ---
 
 ### Hatch partners with the Lankan Angel Network to host “She Loves Tech” to empower Sri Lankan women in tech
@@ -65,6 +67,8 @@ In 2024, as technology advances and reshapes the future workforce, the underrepr
 ...
 
 [Data](articles/3d02c189.json)
+
+[Extended Data](ext_articles/3d02c189.ext.json)
 
 ---
 
@@ -755,6 +759,20 @@ Meanwhile, potato farmers in Badulla District have complained that potatoes will
 [Data](articles/38e9f543.json)
 
 [Extended Data](ext_articles/38e9f543.ext.json)
+
+---
+
+### 
+
+*2024-09-29 19:49:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84814) · `en`
+
+Anura Kumara  Dissanayake ; “Leftist” Star  Rises   Over Sri Lanka.
+
+The heading of this article is inspired by the title of Edgar Snow’s  , “Red Star Over China”. Snow’s book first published in 1937 was a vivid account of  his interaction with the  Chinese communist leader  Mao  Ze Dong and the Red Army. Mao known then as Mao Tse Tung was relatively called  to the  Western world at that time. Years later when the communists under Mao captured power in China, “Red Star Over China” became a best seller. The book was widely read   by people who wanted to gain an insight into the new “unknown”  Communist rulers  of China.
+
+...
+
+[Data](articles/139b1f89.json)
 
 ---
 
@@ -2333,23 +2351,5 @@ At the same time, the man involved in the attack was attacked by the same weapon
 [Data](articles/64797563.json)
 
 [Extended Data](ext_articles/64797563.ext.json)
-
----
-
-### Tamil and Muslim brothers have joined us with great joy - Prime Minister Harini Amarasuriya Special
-
-*2024-09-29 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195029) · `ta`
-
-Tamil and Muslim communities welcome PM Harini Amarasuriya. She emphasizes investigating crimes responsibly, including gaining international cooperation. Government must take necessary steps to address allegations.
-
-🟩
-
-“It is our responsibility to investigate crimes. Whether or not it is to gain the cooperation of the international. The government has a responsibility to investigate the allegations put forward. Have the best ways to obtain the cooperation of the international. It is the responsibility of the government to take the next steps to consider this as the main responsibility. ”
-
-◼️
-
-[Data](articles/7a1137da.json)
-
-[Extended Data](ext_articles/7a1137da.ext.json)
 
 ---

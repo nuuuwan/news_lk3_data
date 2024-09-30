@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 22:38:38**
+As of **2024-09-30 22:56:49**
 
 ## Newspaper Stats
 
-*Scraped **47,070** Articles*
+*Scraped **47,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,355
 dailymirrorlk | 4,733
 adaderanalk | 5,538
 tamilmirrorlk | 6,324
-virakesarilk | 7,531
+virakesarilk | 7,533
 adaderanasinhalalk | 8,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,070 (100.0%) of 47,070 articles have been extended.
+47,072 (100.0%) of 47,072 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,6 +84,34 @@ Gallant made the comments while speaking to Israeli troops deployed to the north
 
 ---
 
+### Reduction of Petrol and Diesel Price!
+
+*2024-09-30 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/195178) · `ta`
+
+Petrol 92: Reduced from 332 to 311 rupees per liter. No change for 95 Octane. Diesel: Lanka White reduced from 307 to 283, Lanka Super from 352 to 319. Kerosene reduced from 202 to 183 rupees per liter. Prices effective midnight Monday.
+
+🟩
+
+According to the monthly price formula, the Ceylon Petroleum Corporation has decided to revise the fuel prices with effect from midnight on Monday (30).
+
+Accordingly, the price of a liter of petrol by Octan 92 will be reduced by 21 rupees and its new price is 311 rupees.
+
+The Petroleum Law Corporation has said that there is no change in the price of a 95 Octane Petrol Later.
+
+The price of Lanka White Diesel is reduced by 24 rupees and its new price is 283 rupees.
+
+The price of Lanka Super Diesel will be reduced by 33 rupees and its new price is 319 rupees.
+
+Sri Lankan kerosene oil will be reduced by 19 rupees and its new price is 183 rupees.
+
+◼️
+
+[Data](articles/d1d6510d.json)
+
+[Extended Data](ext_articles/d1d6510d.ext.json)
+
+---
+
 ### Fuel prices reduced
 
 *2024-09-30 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102362/fuel-prices-reduced) · `en`
@@ -101,6 +129,22 @@ However, the price of Petrol 95 remains unchanged, according to Ceypetco.
 [Data](articles/e5797d1a.json)
 
 [Extended Data](ext_articles/e5797d1a.ext.json)
+
+---
+
+### A businessman shot dead by Hangwella
+
+*2024-09-30 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/195177) · `ta`
+
+Businessman killed in Hangwella incident summary: Local entrepreneur fatally shot in business dispute resolution gone wrong. Police investigation ongoing. Community shocked by violent outcome to commercial conflict.
+
+🟩
+
+◼️
+
+[Data](articles/2582370c.json)
+
+[Extended Data](ext_articles/2582370c.ext.json)
 
 ---
 
@@ -129,22 +173,6 @@ The price of a liter of land will be reduced by Rs. 1983.
 [Data](articles/fa6ddca1.json)
 
 [Extended Data](ext_articles/fa6ddca1.ext.json)
-
----
-
-### A businessman shot dead by Hangwella
-
-*2024-09-30 21:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/195177) · `ta`
-
-Businessman killed in Hangwella incident summary: Local entrepreneur fatally shot in business dispute resolution gone wrong. Police investigation ongoing. Community shocked by violent outcome to commercial conflict.
-
-🟩
-
-◼️
-
-[Data](articles/2582370c.json)
-
-[Extended Data](ext_articles/2582370c.ext.json)
 
 ---
 
@@ -705,6 +733,32 @@ Meanwhile the central bank announced 142,500 million rupees in Treasury bills ar
 [Data](articles/18ad8e9d.json)
 
 [Extended Data](ext_articles/18ad8e9d.ext.json)
+
+---
+
+### Prophet Muhammad
+
+*2024-09-30 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195163) · `ta`
+
+Sri Lanka: Opposition leader Anura Kumara Dissanayake accused of making false allegations against Rajapakse. Supporters claim fake accusations led to political setback. Dissanayake vows cooperation for national resolution.
+
+🟩
+
+President Anura Kumara Dissanayake should prove the allegations leveled against Rajapakse while in the opposition party. "We are a little back in politics due to fake allegations," said Sakara Kariyawasam, General Secretary of the Sri Lanka Peoples Alliance Peramuna.
+
+He made this statement during a media briefing held at the Sri Lanka PA's office on Monday (30).
+
+We thank all those who voted for our presidential candidate Namal Rajapakse in the presidential election.. That is why we are back in politics.
+
+President Anura Kumara Dissanayake made several allegations regarding Rajapaksa while in the opposition party. He noted that he had documents for corruption.
+
+He has powers and philosophies for the president of executive power. Therefore, the allegations made while in the opposition must be provenly proven.
+
+...
+
+[Data](articles/05ccc613.json)
+
+[Extended Data](ext_articles/05ccc613.ext.json)
 
 ---
 
@@ -2399,53 +2453,5 @@ Here's a 200-character summary:
 [Data](articles/7aae1793.json)
 
 [Extended Data](ext_articles/7aae1793.ext.json)
-
----
-
-### Ranil led a wide opposition party
-
-*2024-09-30 11:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-தலைமையில்-பரந்த-எதிர்க்கட்சி/175-344698) · `ta`
-
-Ranil Wickremesinghe leads new opposition coalition for general election, Mahindananda Aluthgamage says. Former president won't run or join parliament, but will lead alliance against upcoming polls.
-
-🟩
-
-Former parliamentarian Mahindananda Aluthgamage has said that steps are being taken to form a vast opposition party with all those who promised to support former President Ranil Wickremesinghe in the presidential election.
-
-He added that a new coalition will be formed under the leadership of former President Ranil Wickremesinghe to face the upcoming general election.
-
-Mahindananda Aluthgamage added that although Ranil Wickremesinghe has led the coalition, he will not contest the general election and that he will not come to parliament through the national list.
-
-◼️
-
-[Data](articles/a5657a03.json)
-
-[Extended Data](ext_articles/a5657a03.ext.json)
-
----
-
-### Schoolgirl killed in motorcycle accident
-
-*2024-09-30 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201681) · `si`
-
-Schoolgirl dies in motorcycle accident in Kattanakudi. Identified as Jamaldan Muhammad Riham, 10th grader from Kattankudy Sira Maha Vidyalaya. Incident occurred near her home. Body taken to Batticaloa Teaching Hospital. Police investigating.
-
-🟩
-
-A schoolgirl in the Kattanakudi, a schoolgirl, has died in a motorcycle.
-
-The deceased has been identified as Jamaldan Muhammad Riham, a resident of the 5 Divisions.
-
-The death was reported due to injuries due to the injuries caused by a motorcycle in front of his house.
-
-The student studying in the tenth year of Kattankudy Sira Maha Vidyalaya is the youngest child of a family of 3 children.
-
-The body of the deceased was placed at the Batticaloa-Teaching Hospital while Cardankudi police are conducting further investigations.
-
-◼️
-
-[Data](articles/df31c85f.json)
-
-[Extended Data](ext_articles/df31c85f.ext.json)
 
 ---

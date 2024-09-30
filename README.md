@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 01:38:33**
+As of **2024-10-01 01:57:47**
 
 ## Newspaper Stats
 
-*Scraped **47,093** Articles*
+*Scraped **47,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 465
 colombotelegraphcom | 469
 islandlk | 2,763
 economynextcom | 2,861
-dailyftlk | 3,152
+dailyftlk | 3,161
 adalk | 4,356
 dailymirrorlk | 4,733
 adaderanalk | 5,540
@@ -26,11 +26,167 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,091 (100.0%) of 47,093 articles have been extended.
+47,099 (100.0%) of 47,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### ECSL halts President’s subsidy plan for farmers and fishermen
+
+*2024-10-01 01:31:34* · [`dailyftlk`](https://www.ft.lk/news/ECSL-halts-President-s-subsidy-plan-for-farmers-and-fishermen/56-767391) · `en`
+
+The Election Commission of Sri Lanka (ECSL) has temporarily suspended President Anura Kumara Dissanayake’s decision to provide a Rs. 25,000 subsidy to paddy farmers during the Maha season, along with a fuel subsidy for the fishing community.
+
+The move comes as the country gears up for a general election, and the Commission has expressed concerns about the potential impact on other candidates.
+
+...
+
+[Data](articles/adfb842c.json)
+
+[Extended Data](ext_articles/adfb842c.ext.json)
+
+---
+
+### CID complaint lodged over another stock of low-quality Indian manufactured immunoglobulin
+
+*2024-10-01 01:30:48* · [`dailyftlk`](https://www.ft.lk/news/CID-complaint-lodged-over-another-stock-of-low-quality-Indian-manufactured-immunoglobulin/56-767390) · `en`
+
+Medical and Civil Rights Professional Association President Dr. Chamara Sanjeewa, has filed a complaint with the Criminal Investigation Department (CID) regarding yet another stock of alleged low-quality human immunoglobulin vials imported from India.
+
+The complaint was lodged yesterday, following revelations that the stock, deemed unfit for use, was ordered to be removed from use by the Health Ministry in September.
+
+Dr. Sanjeewa presented a document signed by the Health Ministry Director of Supplies indicating that a decision had been made to discontinue the use of the immunoglobulin due to quality issues. He revealed that during a meeting of the Health Ministry’s Safety and Risk Committee, it was decided to withdraw the entire stock from use.  He further noted that despite previous arrests, including that of former Health Minister Keheliya Rambukwella and at least 15 other officials, questions remain about how such low-quality medicines continue to enter Sri Lanka.
+
+...
+
+[Data](articles/0b82c43f.json)
+
+[Extended Data](ext_articles/0b82c43f.ext.json)
+
+---
+
+### Sri Lankan worker in Israel dies by suicide
+
+*2024-10-01 01:29:59* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-worker-in-Israel-dies-by-suicide/56-767389) · `en`
+
+A Sri Lankan man employed in Israel’s agricultural sector has tragically died by suicide, according to Sri Lanka’s Ambassador to Israel Nimal Bandara.
+
+The 35-year-old man, a resident of Kandy, reportedly took his own life due to personal reasons, the Ambassador confirmed. The individual had been working in Israel for the past six months.
+
+Efforts are currently being made to repatriate the body to Sri Lanka, Ambassador Bandara added.
+
+Despite the ongoing volatile situation in the region, the Sri Lankan Government has recently been facilitating employment opportunities for Sri Lankans in Israel’s agriculture sector.
+
+Suicidal thoughts can effect anyone. For support call the National Mental Health Hotline on 1926 which is operational 24/7 or CCCline on 1333. Additionally Sri Lanka Sumithrayo also offers emotional support to those who are lonely, depressed, despairing and in danger of taking their own lives. Contact Sri Lanka Sumithrayo on 070 7308308.
+
+◼️
+
+[Data](articles/429d9273.json)
+
+[Extended Data](ext_articles/429d9273.ext.json)
+
+---
+
+### Sri Lanka Ceramics and Glass Council congratulates President AKD
+
+*2024-10-01 01:27:44* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Ceramics-and-Glass-Council-congratulates-President-AKD/34-767388) · `en`
+
+Sri Lanka Ceramics and Glass Council, has extended its heartfelt congratulations to President Anura Kumara Dissanayake on his election as the 9th Executive President of Sri Lanka.
+
+“Your leadership comes at a crucial time for our country, and we are optimistic about the meaningful progress and stability your leadership will bring. We trust that your commitment to good governance, transparency, and accountability will foster a proper environment for industries like ours to thrive,” the Council said.  “With the right policies in place, the ceramics and glass sector can significantly enhance the nation’s economy and international competitiveness.
+
+Together, we can address industry-specific issues and harness opportunities for growth that align with national interests. We look forward to supporting your vision and collaborating to ensure sustainable growth for our industry and the country,” Sri Lanka Ceramics and Glass Council added.
+
+◼️
+
+[Data](articles/01b21e98.json)
+
+[Extended Data](ext_articles/01b21e98.ext.json)
+
+---
+
+### SL issues travel warning to Lebanon and Syria
+
+*2024-10-01 01:26:55* · [`dailyftlk`](https://www.ft.lk/business/SL-issues-travel-warning-to-Lebanon-and-Syria/34-767387) · `en`
+
+Foreign Ministry yesterday instructed Sri Lankan nationals not to travel to Lebanon and Syria until further notice due to the current volatile situation in the region.
+
+All Sri Lankans who are currently in Lebanon and Syria are strongly requested to be on alert and to take necessary precautions including restricting their outside movements and maintaining regular contacts with the Sri Lanka Embassy in Beirut and the Honorary Consul of Sri Lanka in Damascus, through Email ID [email protected], or the following emergency hotlines: 0094 771102510 Sanath Balasuriya; 0094 718381581 Priyangi Dissanayake; 00961 81485809 Fahd Hawwa and Honorary Consul of Sri Lanka in Damascus Dr. Al Droubi Email ID: [email protected]; Phone: 00963 944499666, 00963 933858803.
+
+◼️
+
+[Data](articles/7b3c5d5e.json)
+
+[Extended Data](ext_articles/7b3c5d5e.ext.json)
+
+---
+
+### Ashoka Goonesekere appointed to Distilleries Board
+
+*2024-10-01 01:26:06* · [`dailyftlk`](https://www.ft.lk/business/Ashoka-Goonesekere-appointed-to-Distilleries-Board/34-767386) · `en`
+
+Ashoka Goonesekere has been appointed to the Board of Distilleries Company of Sri Lanka as an Independent Non-Executive Director.
+
+With a wealth of over 36 years of expertise in the banking industry, Goonesekere brings a distinguished background in financial reporting, financial management, taxation, financial operations, and risk management. Holding an MBA from the University of Sri Jayewardenepura (PIM), he is a fellow member of both the Institute of Chartered Accountants of Sri Lanka and the Institute of Cost and Management Accountants of Sri Lanka.
+
+He has held pivotal roles in corporate management, serving as the Chief Financial Officer of Hatton National Bank PLC and as the Senior Vice President/Chief Financial Officer, as well as the Senior Vice President Integrated Risk Management/Chief Risk Officer at DFCC Bank PLC.
+
+...
+
+[Data](articles/7e3571f0.json)
+
+[Extended Data](ext_articles/7e3571f0.ext.json)
+
+---
+
+### Karu Jayasuriya calls for return to good governance at IDAG inauguration
+
+*2024-10-01 01:22:44* · [`dailyftlk`](https://www.ft.lk/news/Karu-Jayasuriya-calls-for-return-to-good-governance-at-IDAG-inauguration/56-767385) · `en`
+
+The National Movement for Social Justice Chairperson and former Speaker Karu Jayasuriya, emphasised the critical need for good governance, asserting that it is not a luxury but a necessity in today’s world.
+
+Speaking at the inauguration ceremony of the Institute of Democracy and Governance (IDAG) in Colombo yesterday, Jayasuriya expressed concern over the current political leadership in Sri Lanka, noting a departure from the values upheld by past leaders such as D.S. Senanayake and Don Baron Jayatilaka, as well as their successors. He lamented that self-interest and scandals now seem to overshadow the commitment to serving the public.
+
+...
+
+[Data](articles/b6338827.json)
+
+[Extended Data](ext_articles/b6338827.ext.json)
+
+---
+
+### JCI Sri Lanka set to emerge as dynamic force for change
+
+*2024-10-01 01:20:23* · [`dailyftlk`](https://www.ft.lk/news/JCI-Sri-Lanka-set-to-emerge-as-dynamic-force-for-change/56-767384) · `en`
+
+In a pivotal move towards revitalising Junior Chamber International (JCI) Sri Lanka, the JCI Senate Sri Lanka and JCI Colombo Mid-Town, on Sunday kicked off the Asia Pacific Development Councillors (APDC). It concludes tomorrow.
+
+Founded in 1954, JCI Sri Lanka faced disaffiliation in 2017 due to internal challenges. However, recent efforts have led to the establishment of four new chapters, including the inauguration of JCI Colombo Central held recently at the NH Collection Hotel, Colombo.
+
+The purpose of the APDC visit is to evaluate the progress made by the local JCI Movement. A positive assessment could facilitate Sri Lanka’s re-admission to the global JCI network, positioning the country for the JCI World Congress in October 2024 in Taiwan. This is a crucial step in re-establishing Sri Lanka’s role within the global JCI network, which emphasises leadership development, entrepreneurship, and community service.
+
+...
+
+[Data](articles/b8734674.json)
+
+[Extended Data](ext_articles/b8734674.ext.json)
+
+---
+
+### Locate Your Child Anywhere with Dialog Suraksha Tag: The Ultimate Tracking Solution
+
+*2024-10-01 01:17:30* · [`dailyftlk`](https://www.ft.lk/news/LocateYour-Child-Anywhere-with-Dialog-Suraksha-Tag-The-Ultimate-Tracking-Solution/56-767383) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has announced the launch of the Dialog Suraksha Tag, an advanced child tracking solution designed to offer parents and guardians peace of mind by allowing them to monitor their child’s location in real time. This compact, wearable device, which can be comfortably worn around the neck, is ideal for young children who may not be old enough to use a phone.
+
+The TeDi Fleet mobile app, launched in collaboration with The Connection Workshop Pvt Ltd, a fully owned subsidiary of South Asian Technologies, integrates seamlessly with the Dialog Suraksha Tag, allowing parents to easily manage its features. The app supports multiple access, enabling both parents to monitor their child’s location simultaneously with real-time updates.
+
+...
+
+[Data](articles/8c6d8f80.json)
+
+---
 
 ### Helen Storm in the United States: 90 killed
 
@@ -2193,239 +2349,5 @@ They have requested the public to take necessary steps to minimize the damages c
 [Data](articles/285adb3f.json)
 
 [Extended Data](ext_articles/285adb3f.ext.json)
-
----
-
-### Farmers are helpless without a price for local big louns
-
-*2024-09-30 13:55:20* · [`adalk`](https://www.ada.lk/picture_story/දේශීය-ලොකු-ලූණුවලට-මිලක්-නොමැතිව-ගොවීන්-අසරණ-වෙයි/10-412229) · `si`
-
-Sri Lanka: Local onion farmers struggle due to low prices, high production costs. They seek fair pricing from the government to sustain their livelihoods.
-
-🟩
-
-The big onions farmers of the Arahera farmers of the farmers of Polonnaruwa are very difficult to cultivate their harvest last year.
-
-There have been a large number of local onions cultivated in nearly 150 acres of the Yala season and the farming campaign has been affected by the fertile land, Nicketa, Ekayuwewa, Ganga, Batawaaya, Bathena, and the villages.
-
-The farmers have a livelihood of agriculture, about 70 percent of the large onions farmers in the farmer colony.
-
-Farmers claim that the price of oil has increased in price, the price of oil has increased in price and remove the price of the world when it comes to the loss of each fertilization.
-
-They further state to the harvest, "when the government is priced at a low price of local big onions at a lower price.
-
-Healara grows growers as a sum of Rs.
-
-It is also a large kilo of salt in the market a week ago and that it has no properly fair price to harvest due to Rs. 210.
-
-...
-
-[Data](articles/b5f78192.json)
-
-[Extended Data](ext_articles/b5f78192.ext.json)
-
----
-
-### Youth man who has come back from life in Israel
-
-*2024-09-30 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201687) · `si`
-
-Sri Lankan youth commits suicide in Israel after 6 months. Ambassador cites personal reasons. Remains to be repatriated.
-
-🟩
-
-A Sri Lankan youth who departed for Israel has committed suicide.
-
-Sri Lanka Ambassador to Israel said that he had committed suicide on a personal cause, Nimal Bandara said.
-
-Mr. Nimal Bandara said that the young man had come to Israel for six months ago and was engaged in the agriculture.
-
-He added that the remains of the deceased youth to come to Sri Lanka.
-
-◼️
-
-[Data](articles/59cdf248.json)
-
-[Extended Data](ext_articles/59cdf248.ext.json)
-
----
-
-### The new cabinet gather with three
-
-*2024-09-30 13:46:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-மூவருடன்-கூடுகின்றது/175-344703) · `ta`
-
-New cabinet meets today: President Anura Kumara Dissanayake chairs, PM Harini Amarasuriya, Minister Vijitha Herath attend.
-
-🟩
-
-The meeting will be held this afternoon chaired by President Anura Kumara Dissanayake.
-
-President Anura Kumara Dissanayake, Prime Minister Harini Amarasuriya and Minister Vijitha Herath will also attend the meeting.
-
-◼️
-
-[Data](articles/a2c8d066.json)
-
-[Extended Data](ext_articles/a2c8d066.ext.json)
-
----
-
-### The new cabinet meets with three
-
-*2024-09-30 13:46:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-மூவருடன்-இன்று-கூடுகின்றது/175-344703) · `ta`
-
-New cabinet meets today: President Anura Kumara Dissanayake chairs. Attending: PM Harini Amarasuriya, Minister Vijitha Herath. Meeting scheduled for afternoon.
-
-🟩
-
-The meeting will be held this afternoon chaired by President Anura Kumara Dissanayake.
-
-President Anura Kumara Dissanayake, Prime Minister Harini Amarasuriya and Minister Vijitha Herath will also attend the meeting.
-
-◼️
-
-[Data](articles/fdcccf76.json)
-
-[Extended Data](ext_articles/fdcccf76.ext.json)
-
----
-
-### Former MPs report to hand over firearms
-
-*2024-09-30 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201686) · `si`
-
-Former MPs return firearms to Defense Ministry. Allowances, facilities terminated post-dissolution. Official quarters usage allowed until general election.
-
-🟩
-
-The firearm had been assigned to the Ministry of Defense immediately.
-
-The Member of Parliament has informed the former MPs.
-
-A spokesperson of the Parliamentary Service Department (parliamentary sector spokesman) said that steps will be taken to further send the relevant letters to the relevant letters.
-
-All the facilities provided to the Members of Parliament were abolished with the dissolution of Parliament.
-
-Accordingly, the MP's allowance and former parliamentarians have lost their supply, fuel facilities and stamp fees.
-
-However, the official quarters given to them in Madiwela Member complex have been given the opportunity to use the official quarters of the vote.
-
-However, the quarters should be resumed again after members of the general election without re-election MPs.
-
-◼️
-
-[Data](articles/622745db.json)
-
-[Extended Data](ext_articles/622745db.ext.json)
-
----
-
-### Another Hamas Pribuser dies
-
-*2024-09-30 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201685) · `si`
-
-Hamas member killed in Israeli strike. Three Palestinian leaders killed in Lebanon. Hamas leader Fata Sheriff Abu L Amne and family died in refugee camp. Israel attacks Yemen targets, four killed.
-
-🟩
-
-The organization has announced that the Israeli attack was killed by the Israeli attack on the Palestinian Hamas.
-
-Meanwhile, three leaders of another Palestinian armed group were killed by a Israeli attack on Lebanon.
-
-The Hamas said their Lebanon Leader, Fata Sheriff Abu L Amne, his wife, son and daughter have died there.
-
-They lived in a house in the Palestinian refugee camp in Lebanon.
-
-Meanwhile, Israel has also attacked the target to Yemen's hoomweas targets and four were killed.
-
-◼️
-
-[Data](articles/27c25920.json)
-
-[Extended Data](ext_articles/27c25920.ext.json)
-
----
-
-### Postal voting applications tomorrow from tomorrow
-
-*2024-09-30 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201684) · `si`
-
-Postal voting applications open tomorrow. Election Commissioner discusses preparations. Presidential election funding issues. Nomination deadline set for October 11.
-
-🟩
-
-Applications for postal voting in the next general election will be held tomorrow (01).
-
-Meanwhile, Elections Commissioner General Saman Sri Ratnayake expressed these views regarding the preparation for the next general election.
-
-"The date was published by the election on the 25th. At the same time, the vocal number of elected vocal lists was certified on the 8th of July on July. "
-
-Q. There was only money for a presidential election from this road budget.. How to give the Elections Commission to the Election Commission.
-
-"If the President dissolves the Parliament at his discretion, he is bound by the Constitution to separate the money to this election. Had asked for 11 billion money asking. 5 billion agreed to give us. 10 billion rules for the presidential election. We have a quantified amount of money. Both elections can be made in the amount of money needed. "
-
-Q: Is there any UPFA, a party, and the nomination will be handed over before 11th?
-
-...
-
-[Data](articles/8e45fd5f.json)
-
-[Extended Data](ext_articles/8e45fd5f.ext.json)
-
----
-
-### Hand the handguns immediately;Order to former MPs
-
-*2024-09-30 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195122) · `ta`
-
-Former MPs ordered to return handguns to Defense Ministry immediately. Over 100 ex-lawmakers received weapons for personal protection under previous government's policy. New order reverses this decision.
-
-🟩
-
-It has been reported that former MPs have been ordered to return to the Defense Ministry without delay.
-
-A senior security official said that parliamentary officials had separately sent a letter to the former MPs who had received these guns.
-
-Statistics point out that over 100 MPs in the recently dissolved parliament have received handguns for personal protection.
-
-The latest change has been followed by the previous government's decision to allow former MPs to keep at least two guns for their personal security.
-
-Speaking to the media in August ahead of the presidential election, Cabinet spokesman Bandula Gunawardena said the government had decided to implement a new policy of holding two rifles for former MPs in the country.
-
-◼️
-
-[Data](articles/fc2c33cc.json)
-
-[Extended Data](ext_articles/fc2c33cc.ext.json)
-
----
-
-### Did you know this information about breast cancer?
-
-*2024-09-30 12:46:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz7j1dpre9po) · `si`
-
-Priyantha Weerasuriya rose from constable to Acting Inspector General of Police (IGP) in Sri Lanka. He served as the Acting IGP from 2017 to 2018, overseeing law enforcement operations during his tenure.
-
-🟩
-
-Cancer is the mainstay between non-communicable diseases with a risk of life.
-
-Among women is common among women in the world and in Sri Lanka and breast cancer.
-
-Due to breast cancer, the lives of nearly 1000 women in Sri Lanka is lost in a year, and in the early days, breast cancer can completely cure breast cancer.
-
-Do you know that many people have believed in breast cancer?
-
-The month of October was named as a breast cancer awareness month.
-
-"All cancers are most of the world's most breast cancer. The abundance of women and the most common cancer of women is breast cancer, "Community Medical Experts of the National Cancer Control Program.
-
-According to the data collected by the doctor, 5,485 women in Sri Lanka have identified 5,485 breast cancer and 124 men have been diagnosed with breast cancer.
-
-...
-
-[Data](articles/535aac80.json)
-
-[Extended Data](ext_articles/535aac80.ext.json)
 
 ---

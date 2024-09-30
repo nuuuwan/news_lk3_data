@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 12:25:19**
+As of **2024-09-30 12:38:49**
 
 ## Newspaper Stats
 
-*Scraped **46,969** Articles*
+*Scraped **46,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 469
 islandlk | 2,760
 economynextcom | 2,845
 dailyftlk | 3,144
-adalk | 4,338
+adalk | 4,340
 dailymirrorlk | 4,733
-adaderanalk | 5,526
-tamilmirrorlk | 6,311
+adaderanalk | 5,527
+tamilmirrorlk | 6,312
 virakesarilk | 7,510
 adaderanasinhalalk | 8,117
 
@@ -26,29 +26,95 @@ adaderanasinhalalk | 8,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,966 (100.0%) of 46,969 articles have been extended.
+46,969 (100.0%) of 46,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
 
-### சர்வதேச கடற்பரப்பில் படகு விபத்து
+### නේපාලයට බලපෑ ගංවතුරෙන් ජීවිතක්ෂයට පත් වූ පිරිස ඉහළට
+
+*2024-09-30 12:08:19* · [`adalk`](https://www.ada.lk/breaking_news/නේපාලයට-බලපෑ-ගංවතුරෙන්-ජීවිතක්ෂයට-පත්-වූ-පිරිස-ඉහළට/11-412227) · `si`
+
+නේපාලයේ ඇතිවූ ගංවතුර සහ නායයාම් හේතුවෙන් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 175ක් දක්වා ඉහළ ගොස් තිබේ.
+
+එමෙන්ම තවත් පුද්ගලයන් 50 දෙනෙකු පමණ අතුරුදන්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+මීට අමතරව ගංවතර හේතුවෙන් නිවාස වල සිරවී සිටි පුද්ගලයන් 4000ට වැඩි පිරිසක් බේරා ගැනීමට එරට ආරක්ෂක අංශය සමත් වී තිබේ.
+
+Devastating floods hit Kathmandu Valley and other parts of Nepal.
+
+A number of deaths have been confirmed while thousands of rescues have been carried out across the capital.https://t.co/OJwUg7wx8K pic.twitter.com/lUoJoFQcNf
+
+◼️
+
+[Data](articles/354c36d1.json)
+
+---
+
+### லெபனானில் மீண்டும் இஸ்ரேல் தாக்குதல்;  105 பேர் பலி; 350 பேர் காயம்
+
+*2024-09-30 12:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-மீண்டும்-இஸ்ரேல்-தாக்குதல்-105-பேர்-பலி-350-பேர்-காயம்/50-344702) · `ta`
+
+லெபனானில் மீண்டும் இஸ்ரேல் வான்வழி தாக்குதல் நடத்தியதில் 105 பேர் கொல்லப்பட்டனர். 350க்கும் மேற்பட்டோர் பலத்த காயமுற்றனர் என அந்நாட்டு சுகாதாரத்துறை அமைச்சகம் தெரிவித்துள்ளது.
+
+ஹமாஸ் பயங்கரவாத அமைப்புக்கு எதிராக தாக்குதல் நடத்தி வரும் இஸ்ரேல், இப்போது லெபனானை தளமாக கொண்டுள்ள ஹிஸ்புல்லா அமைப்பினர் மீதும் தாக்குதல் தொடுத்து வருகிறது. சில தினங்களுக்கு முன் நடத்திய தாக்குதலில், 21 குழந்தைகள், 39 பெண்கள் உட்பட 274 பேர் கொல்லப்பட்டனர். ஹிஸ்புல்லா தலைவர் ஹசன் நஸ்ரல்லாவும் கொல்லப்பட்டார்.
+
+இந்நிலையில், தற்போது இஸ்ரேல் மீண்டும் லெபனான் மீது வான்வழித் தாக்குதல் நடத்தியிருக்கிறது. இந்த தாக்குதலில் 105 பேர் கொல்லப்பட்டனர். 350க்கும் மேற்பட்டோர் பலத்த காயமுற்றனர் என லெபனான் சுகாதாரத்துறை தெரிவித்தது.
+
+இஸ்ரேல் நடத்தி வரும் தாக்குதலில் இருந்து தப்பிக்க லெபனான் மக்கள் நாட்டை விட்டு வெளியேற துவங்கி விட்டனர். எங்கள் இலக்கை அடையும் வரை நிறுத்தமாட்டோம் என இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு உறுதியாக உள்ளார்.
+
+...
+
+[Data](articles/32bc4c78.json)
+
+---
+
+### Podi Lassi’s relative arrested with micro pistol and ammo
+
+*2024-09-30 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102352/podi-lassis-relative-arrested-with-micro-pistol-and-ammo) · `en`
+
+Officers of the Police Special Task Force (STF) have arrested a suspect along with a micro pistol and live ammunition in Weliweriya.
+
+The arrested suspect is said to be related to the notorious underworld figure and drug trafficker Janith Madushanka alias ‘Podi Lassi’ and Meetiyagoda Dasun Rajakaruna.
+
+Police further stated that a raid was conducted following a tip-off received indicating that the suspect was planning other crimes by utilizing phone numbers of foreign countries while under the pretext that he has been hiding abroad for several years.
+
+The 46-year-old suspect has been handed over to the Weliweriya Police for further investigation.
+
+In a separate operation, STF personnel have also arrested another individual with a revolver in the Meegahawatta area.
+
+It is said that a revolver capable of firing 38mm bullets and live ammunition used for that revolver were also found in the possession of the suspect.
+
+...
+
+[Data](articles/03a9031d.json)
+
+---
+
+### Boat crash in the international waters
 
 *2024-09-30 11:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-கடற்பரப்பில்-படகு-விபத்து/175-344700) · `ta`
 
-இலங்கை மீனவர்கள் 05 பேருடன் கடலுக்கு மீன்பிடிக்கச் சென்ற படகொன்று  சர்வதேச கடற்பரப்பில் விபத்துக்குள்ளாகிருப்பதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+Sri Lankan navy reports boat crash in international waters. Five fishermen on "Ranmuthu Tu 10" vessel crashed on 26th after departing Mirissa on 12th. Boat now adrift in Indian seas. Owner dispatched rescue boat. Indian Coast Guard notified via Sri Lankan ministries.
 
-குறித்த 05 இலங்கை மீனவர்களும்  மிரிஸ்ஸ மீன்பிடித் துறைமுகத்திலிருந்து ''ரன்முத்து துவ 10" எனும் மீன்பிடிப் படகில் கடந்த 12 ஆம் திகதி மீன்பிடிக்கச் சென்றதாகவும் அந்த படகு கடந்த 26ஆம் திகதி விபத்துக்குள்ளானதானதாகவும் தெரிவிக்கப்படுகின்றது.
+🟩
 
-விபத்துக்குள்ளான படகு தற்போது இந்திய கடற்பரப்பில் மிதந்து கொண்டு இருப்பதாக படகின் உரிமையாளருக்கு மீனவர்கள் அறிவித்துள்ளனர்.
+The Sri Lankan navy has reported that a boat carrying five Sri Lankan fishermen has crashed into the international waters.
 
-விபத்துக்குள்ளான படகில் இருக்கும் மீனவர்களுக்கு  உதவுவதற்காக மற்றுமொரு படகை அனுப்பியுள்ளதாக படகின் உரிமையாளர் தெரிவித்துள்ளார்.
+It is reported that the five Sri Lankan fishermen went fishing on the 12th of this month on the "Ranmuthu Tu 10" fishing boat from the Mirissa fishing port and the boat crashed on the 26th.
 
-இலங்கை கடற்படை மற்றும் வௌிவிவகார அமைச்சின் ஊடாக இந்திய கடலோர பாதுகாப்பு படைக்கு அறிவிக்கப்பட்டுள்ளதாக கடற்றொழில் திணைக்களம் உறுதிப்படுத்தியது.
+Fishermen have announced to the owner of the boat that the boat that crashed is currently floating in the Indian seas.
+
+The owner of the boat said that another boat has been sent to help the fishermen in the accident.
+
+The Fisheries Department has confirmed that the Indian Coast Guard has been notified through the Ministry of Sri Lanka and the Ministry of Foreign Affairs.
 
 ◼️
 
 [Data](articles/cb42b894.json)
+
+[Extended Data](ext_articles/cb42b894.ext.json)
 
 ---
 
@@ -84,29 +150,45 @@ According to reports, floodings also affected North India.
 
 ---
 
-### எரிபொருள் விலை குறையும் சாத்தியம்
+### The possibility of decreasing fuel prices
 
 *2024-09-30 11:41:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-குறையும்-சாத்தியம்/175-344699) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Decreasing fuel prices possible due to market forces, geopolitical events, and economic factors. OPEC decisions, global demand shifts, and renewable energy adoption may influence price fluctuations."
+
+🟩
 
 ◼️
 
 [Data](articles/789d9c39.json)
 
+[Extended Data](ext_articles/789d9c39.ext.json)
+
 ---
 
-### ரணில் தலைமையில் பரந்த எதிர்க்கட்சி
+### Ranil led a wide opposition party
 
 *2024-09-30 11:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-தலைமையில்-பரந்த-எதிர்க்கட்சி/175-344698) · `ta`
 
-ஜனாதிபதித் தேர்தலில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதாக உறுதியளித்த சகலருடனும் இணைந்து பரந்த எதிர்க்கட்சியொன்றை உருவாக்குவதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருவதாக முன்னாள் பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே தெரிவித்துள்ளார்.
+Ranil Wickremesinghe leads new opposition coalition for general election, Mahindananda Aluthgamage says. Former president won't run or join parliament, but will lead alliance against upcoming polls.
 
-எதிர்வரும் பொதுத் தேர்தலை எதிர்கொள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் புதிய கூட்டணி அமைக்கப்படும் என அவர் மேலும் தெரிவித்தார்.
+🟩
 
-ரணில் விக்கிரமசிங்க கூட்டணிக்கு தலைமை தாங்கினாலும், பொதுத் தேர்தலில் போட்டியிடப் போவதில்லை என்றும், தேசியப்பட்டியல் மூலம் பாராளுமன்றத்துக்கு வரமாட்டார் என்றும் அவர் ஏற்கனவே அறிவித்துள்ளார் என மஹிந்தானந்த அளுத்கமகே மேலும் தெரிவித்தார்.
+Former parliamentarian Mahindananda Aluthgamage has said that steps are being taken to form a vast opposition party with all those who promised to support former President Ranil Wickremesinghe in the presidential election.
+
+He added that a new coalition will be formed under the leadership of former President Ranil Wickremesinghe to face the upcoming general election.
+
+Mahindananda Aluthgamage added that although Ranil Wickremesinghe has led the coalition, he will not contest the general election and that he will not come to parliament through the national list.
 
 ◼️
 
 [Data](articles/a5657a03.json)
+
+[Extended Data](ext_articles/a5657a03.ext.json)
 
 ---
 
@@ -1676,6 +1758,20 @@ As a result, the Department of Meteorology has advised the public to take necess
 
 ---
 
+### දකුණු පළාත් ප්‍රධාන ලේකම් කාර්යාලයේ ඉන්ධන දීමනාවේ ගැටලුව
+
+*2024-09-29 19:51:01* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාත්-ප්‍රධාන-ලේකම්-කාර්යාලයේ-ඉන්ධන-දීමනාවේ-ගැටලුව/11-412223) · `si`
+
+දකුණු පළාත් ප්‍රධාන ලේකම් කාර්යාලයේ තනතුරු 8 ක් සඳහා එහි නිලධාරීන් 17 දෙනෙකුට 2019 මැයි සිට 2022 දෙසැම්බර් 31 කාල සීමාවෙහිදී රුපියල් එක්කෝටි හැට අට ලක්ෂ එක්දහස් පන්සිය විසි හතරක (16801524)  මුදලක් ඉන්ධන දීමනාව ලෙස ගෙවා තිබූ බව ජාතික විගණන කාර්යාලය මගින් ඉකුත් 26 දින නිකුත් කරන ලද  විගණන වාර්තාවක සඳහන්ව ඇත.
+
+ඒ අතරින් 2014 ජනවාරි 02 දිනැති 01/2014 දරන ජාතික අය වැය චක්‍රලේඛනයේ 21/85 දරන ඡේදයට අනුකූල නොවන ලෙස සුපිරි පැට්‍රල් හා සුපිරි ඩීසල් රුපියල් විසි ලක්ෂ හතළිස් දහස් අටසදීය පහළොවක මුදලක් (2,040,815) ගෙවා ඇති බවද  සඳහන්වේ.
+
+...
+
+[Data](articles/dafbd007.json)
+
+---
+
 ### Determine of unchanged bakery owners
 
 *2024-09-29 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201668) · `si`
@@ -2177,93 +2273,5 @@ Police Superintendent of Police Anuruddha Bandaranawardena, Manuruddha Bandarana
 [Data](articles/51d84685.json)
 
 [Extended Data](ext_articles/51d84685.ext.json)
-
----
-
-### The body of the male
-
-*2024-09-29 18:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195081) · `ta`
-
-Body found in river; identity unknown. Police investigating. Autopsy conducted.
-
-🟩
-
-The body of an unidentified man in the Munamalwatte river in the Amuhunduduwa area in the area was found yesterday (28), police said.
-
-Police said the body of the deceased had not been confirmed yet, and that the body was soaked and the organs had been eaten by animals.
-
-The body has been placed on the spot for autopsy and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/d474b60c.json)
-
-[Extended Data](ext_articles/d474b60c.ext.json)
-
----
-
-### Explanation of Payment Carry
-
-*2024-09-29 18:40:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொடுப்பனவு-நிறுத்தம்-குறித்து-விளக்கம்/175-344664) · `ta`
-
-Ministry of Defense suspends promotion allowance for soldiers appointed before September 22, 2024, affecting those involved in protecting former VIPs. Payments halted for specific roles related to security forces, military commanders, and security details.
-
-🟩
-
-The Ministry of Defense has clarified the latest reports on the suspension of the promotion allowance for the soldiers appointed to the security forces.
-
-In the report, the ministry has confirmed that the allowance has been discontinued only to employees appointed before the safety of former VIPs.
-
-After September 22, 2024, these people will no longer engage in such obligations, so their payments have been stopped on that day.
-
-However, the allowance for employees linked to the security forces, the chief of the security forces, the military commanders and the security details of the security forces.
-
-◼️
-
-[Data](articles/c03e0dff.json)
-
-[Extended Data](ext_articles/c03e0dff.ext.json)
-
----
-
-### Veterinary inquiry requests investigations
-
-*2024-09-29 18:35:31* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සංචිතයේ-තිබූ-වාහන-අවභාවිතය-ගැන-විමර්ශනයක්-ඉල්ලයි/11-412218) · `si`
-
-Complaint filed against bribery commission regarding misuse of presidential vehicles. Two individuals accused of providing 833 vehicles to former presidents and officials. Investigation committee formed to probe allegations.
-
-🟩
-
-Who and the officers who suffered superficial vehicles in the president pool?The Citizen Organization (Citizens) of the Citizenship Corruption and Waste Chairman of the Citizenship Corruption and Waste Chairman has lodged a complaint with the Commission to Investigate Allegations of Bribery and Corruption.
-
-The complaint has been lodged with the Bribery Commission, a list of two persons saying that the super-pool of the president pool.
-
-Arrangements have been noted that there are 833 super vehicles that have been reported in the presidential pool of the presidential pool of the presidential pool of the presidential reserves in the presidential reserve, former presidents, Chandrika Bandaranaike, Gotabhaya Rajapakse and Ranil Wickremesinghe.He pointed out that Chathantha Thushara emphasized that he has said that some presidents and officers who controlled Sri Lanka have been provided with superficial vehicles in the president squad.
-
-...
-
-[Data](articles/42f41646.json)
-
-[Extended Data](ext_articles/42f41646.ext.json)
-
----
-
-### Scholarship Controversy- The results have been reached
-
-*2024-09-29 18:31:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-சர்ச்சை-முடிவு-எட்டப்பட்டது/175-344663) · `ta`
-
-Grade 5 students receive full marks for leaked questions in Scholarship Examination due to investigation findings. Ministry ensures exam integrity.
-
-🟩
-
-The Ministry of Education, Science and Technology has announced that all Grade 5 students will be given full marks for three questions leaked in the Scholarship Examination.
-
-Following the investigation of the expert panel on the leak, the ministry decided to take this action to ensure integrity.
-
-◼️
-
-[Data](articles/ad49f53d.json)
-
-[Extended Data](ext_articles/ad49f53d.ext.json)
 
 ---

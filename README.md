@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 11:58:54**
+As of **2024-09-30 12:14:24**
 
 ## Newspaper Stats
 
-*Scraped **46,965** Articles*
+*Scraped **46,966** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ dailymirrorlk | 4,733
 adaderanalk | 5,526
 tamilmirrorlk | 6,308
 virakesarilk | 7,510
-adaderanasinhalalk | 8,116
+adaderanasinhalalk | 8,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,965 (100.0%) of 46,965 articles have been extended.
+46,966 (100.0%) of 46,966 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Nepal rank of floods
+
+*2024-09-30 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201682) · `si`
+
+Nepal floods death toll exceeds 150. Landslides and disappearances reported due to heavy rainfall. Search operations ongoing despite receding waters. Bagmati River overflowed, water levels declined. Floods affected North India as well.
+
+🟩
+
+The number of deaths caused by negative weather has been over 150 deaths.
+
+The floods of the river have dropped, and the floods of certain regions have passed away.
+
+Over 60 disappearances of landslides and floods were taken in accordance with heavy showers, foreign media said.
+
+Despite inclement weather, search operations in search operations continue in the landslike disappearance.
+
+Bagamathi River, including Bagamathi River, has been extinguished before heavy rainfall.
+
+The water level of the river has risen by about 12.7 inches, which have exceeded 12.7 inches.
+
+However, the water level is gradually declining and the Himalayas Kanda has been a heavy rains in these days, foreign media reports that many regional rivers have reached over-over.
+
+According to reports, floodings also affected North India.
+
+◼️
+
+[Data](articles/6bdbec4b.json)
+
+[Extended Data](ext_articles/6bdbec4b.ext.json)
+
+---
 
 ### Schoolgirl killed in motorcycle accident
 
@@ -1636,6 +1668,10 @@ Meanwhile, potato farmers in Badulla District have complained that potatoes will
 
 *2024-09-29 19:43:07* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-ප්‍රදේශවලට-වැසි/11-412222) · `si`
 
+Island-wide showers forecasted for evening and night. Heavy rainfall possible in Kalutara district. Thunderstorm warnings issued for Southern Province, Batticaloa, and Ampara districts. Strong winds expected due to active cloud system. Residents advised to prepare for potential damage from heavy rains and gusty winds.
+
+🟩
+
 In many parts of the island, the Met Department forecasts showers at several places in the evening and night.
 
 Accordingly, the Kalutara district and in the Kalutara district, the Kalutara division and several mm.. Show heavy showers can occur around 100.
@@ -2249,19 +2285,5 @@ This victory was achieved by the English medium of GCE O / L examination. Ti H. 
 [Data](articles/4b139458.json)
 
 [Extended Data](ext_articles/4b139458.ext.json)
-
----
-
-### Anura Kumara  Dissanayake ; “Leftist” Star  Rises   Over Sri Lanka.
-
-*2024-09-29 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84814) · `en`
-
-The heading of this article is inspired by the title of Edgar Snow’s  , “Red Star Over China”. Snow’s book first published in 1937 was a vivid account of  his interaction with the  Chinese communist leader  Mao  Ze Dong and the Red Army. Mao known then as Mao Tse Tung was relatively called  to the  Western world at that time. Years later when the communists under Mao captured power in China, “Red Star Over China” became a best seller. The book was widely read   by people who wanted to gain an insight into the new “unknown”  Communist rulers  of China.
-
-...
-
-[Data](articles/139b1f89.json)
-
-[Extended Data](ext_articles/139b1f89.ext.json)
 
 ---

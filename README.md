@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 11:40:05**
+As of **2024-09-30 11:58:54**
 
 ## Newspaper Stats
 
-*Scraped **46,960** Articles*
+*Scraped **46,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,164 @@ colombotelegraphcom | 469
 islandlk | 2,760
 economynextcom | 2,845
 dailyftlk | 3,144
-adalk | 4,337
+adalk | 4,338
 dailymirrorlk | 4,733
-adaderanalk | 5,524
-tamilmirrorlk | 6,307
+adaderanalk | 5,526
+tamilmirrorlk | 6,308
 virakesarilk | 7,510
-adaderanasinhalalk | 8,115
+adaderanasinhalalk | 8,116
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,958 (100.0%) of 46,960 articles have been extended.
+46,965 (100.0%) of 46,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
 
-### ”20 மில்லியன் ரூபாய் இலஞ்சம் கோரியுள்ளனர்”
+### Schoolgirl killed in motorcycle accident
 
-*2024-09-30 11:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-மில்லியன்-ரூபாய்-இலஞ்சம்-கோரியுள்ளனர்/175-344696) · `ta`
+*2024-09-30 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201681) · `si`
 
-சில மதுபானசாலை அனுமதிகளை வழங்குவதற்காக ஊழல்மிக்க கலால் திணைக்கள அதிகாரிகள் சிலர் அண்மையில் 20 மில்லியன் ரூபாய் வரை கோரியுள்ளதாக தேசிய மக்கள் சக்தி செயற்பாட்டாளர் நேற்று தெரிவித்தார்.
+Schoolgirl dies in motorcycle accident in Kattanakudi. Identified as Jamaldan Muhammad Riham, 10th grader from Kattankudy Sira Maha Vidyalaya. Incident occurred near her home. Body taken to Batticaloa Teaching Hospital. Police investigating.
 
-இவ்வாறாக அனுமதி வழங்கப்பட்ட மதுபானசாலைகளின் தகவல்கள் தம்மிடம் இருப்பதாகவும் மற்றும் குறித்த ஊழல் மோசடிகள் தொடர்பான குரல் பதிவுகள் தங்களிடம் உள்ளதாகவும் NPP நிர்வாக சபை உறுப்பினர் வசந்த சமரசிங்க கூறினார்.
+🟩
 
-ஊடகவியலாளர் சந்திப்பில் உரையாற்றிய சமரசிங்க, லஞ்சம் கொடுக்க மறுத்தவர்களுக்கு அனுமதிப்பத்திரம் வழங்குவதற்கே குறித்த அதிகாரிகள் மறுத்துள்ளனர்.
+A schoolgirl in the Kattanakudi, a schoolgirl, has died in a motorcycle.
 
-"இந்த ஊழல் பேரங்கள் காரணமாக அரசுக்கு பெரும் நஷ்டம் ஏற்பட்டுள்ளது, மேலும் இந்த கலால் அதிகாரிகளுக்கு எதிராக நடவடிக்கை எடுக்க திட்டமிட்டுள்ளோம்" என்று சமரசிங்க கூறினார்.
+The deceased has been identified as Jamaldan Muhammad Riham, a resident of the 5 Divisions.
 
-இதேவேளை, மதுபான போத்தலில் போலி பாதுகாப்பு ஸ்டிக்கர் ஒட்டி மோசடியில் ஈடுபட்ட கலால் திணைக்கள அதிகாரிகள் சிலர் நாட்டை விட்டு வெளியேற முயற்சிப்பதாக முன்னாள் பாராளுமன்ற உறுப்பினர் காமினி வலேபொட வார இறுதியில் ஊடகங்களுக்கு தெரிவித்தார்.
+The death was reported due to injuries due to the injuries caused by a motorcycle in front of his house.
 
-...
+The student studying in the tenth year of Kattankudy Sira Maha Vidyalaya is the youngest child of a family of 3 children.
 
-[Data](articles/9076b2e6.json)
+The body of the deceased was placed at the Batticaloa-Teaching Hospital while Cardankudi police are conducting further investigations.
+
+◼️
+
+[Data](articles/df31c85f.json)
+
+[Extended Data](ext_articles/df31c85f.ext.json)
 
 ---
 
-### ”தாமதமின்றி திரும்ப ஒப்படைக்கவும்”
+### Hamas says its leader in Lebanon was killed in Israeli strike
+
+*2024-09-30 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102351/hamas-says-its-leader-in-lebanon-was-killed-in-israeli-strike) · `en`
+
+Palestinian militant group Hamas said on Monday that its leader in Lebanon Fateh Sherif Abu el-Amin was killed along with some of his family members in an Israeli strike in the south of the country.
+
+◼️
+
+[Data](articles/1bbc1fcd.json)
+
+[Extended Data](ext_articles/1bbc1fcd.ext.json)
+
+---
+
+### "This is what Kota did" "
+
+*2024-09-30 11:22:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதையே-தான்-கோட்டாவும்-செய்தார்/175-344697) · `ta`
+
+Kota: Former MP compares current president's actions to ex-president's policies, citing vehicle distribution, meal changes, and housing adjustments.
+
+🟩
+
+Former Parliamentarian Mahindananda Aluthgamage has said that the recent decisions of President Anura Kumara Dissanayake after the presidential election are similar to the resolutions taken after former President Gotabhaya Rajapakse.
+
+“Once Gotabhaya Rajapakse was elected president, he also distributed 993 vehicles belonging to the Presidential Office to other departments.. The former MP pointed out that he had reduced the time allocated to the lunch break and supplied ordinary tea instead of milk tea and was staying in a small house instead of the presidential palace.
+
+Although the government was created on the basis of high expectations of the people, it was difficult to advance such a government and said that the same thing happened to Gotabhaya Rajapakse.
+
+◼️
+
+[Data](articles/8983726b.json)
+
+[Extended Data](ext_articles/8983726b.ext.json)
+
+---
+
+### Special meeting today to discuss VIP security
+
+*2024-09-30 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102350/special-meeting-today-to-discuss-vip-security-) · `en`
+
+A special discussion has been called today to discuss security measures for former presidents and other VIPs.
+
+Accordingly, the discussion is scheduled to be held this afternoon (30) at the Ministry of Public Security, chaired by Minister Vijitha Herath.
+
+Acting IGP Priyantha Weerasooriya and other officials are also expected to attend the meeting.
+
+Recently, a decision was made to remove the security provided for VIPs, including former presidents.
+
+However, the former presidents have subsequently informed about their security needs and the number of personnel they require.
+
+Accordingly, today’s discussion aims to reach a final decision after thoroughly examining this issue.
+
+Meanwhile, the Acting IGP has taken steps to assign officers from other duties to address the shortage of officers in the police department.
+
+◼️
+
+[Data](articles/4b5d37be.json)
+
+[Extended Data](ext_articles/4b5d37be.ext.json)
+
+---
+
+### "20 million Rs.
+
+*2024-09-30 11:14:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-மில்லியன்-ரூபாய்-இலஞ்சம்-கோரியுள்ளனர்/175-344696) · `ta`
+
+Corrupt excise officials demand 20 million Rupees for liquor permits. Activist refuses bribes, plans legal action. Officials involved in fake safety stickers try to flee country.
+
+🟩
+
+The National People's Power activist said yesterday that some corrupt excise department officials have recently demanded up to 20 million rupees to provide some liquor school permits.
+
+NPP Managing Council Member Wasantha Samarasinghe said that he had information on the liquor schools that were allowed and that they had voice records on the corruption scandals.
+
+Speaking at a media briefing, Samarasinghe has refused to grant permission to those who refused to bribe.
+
+Samarasinghe said, "The government has suffered a huge loss due to these corruption bargains and we are planning to take action against these excise authorities," Samarasinghe said.
+
+Meanwhile, former parliamentarian Gamini Valaboda told the media that some of the excise department officials who were involved in a fake safety sticker in the liquor bottle were trying to leave the country.
+
+The President and the Police Criminal Investigation Department will be informed about them, he said.
+
+◼️
+
+[Data](articles/9076b2e6.json)
+
+[Extended Data](ext_articles/9076b2e6.ext.json)
+
+---
+
+### “Hand back without delay”
 
 *2024-09-30 11:03:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமதமின்றி-திரும்ப-ஒப்படைக்கவும்/175-344694) · `ta`
 
-முன்னாள் பாராளுமன்ற உறுப்பினர்களுக்கு தனிப்பட்ட பாதுகாப்புக்காக வழங்கப்பட்ட கைத்துப்பாக்கிகளை பாதுகாப்பு அமைச்சிடம் தாமதமின்றி திரும்ப ஒப்படைக்குமாறு உத்தரவிடப்பட்டுள்ளதாக தகவலறிந்த வட்டாரங்கள் நேற்று தெரிவித்தன.
+Former MPs must return handguns to Defense Ministry immediately. Over 100 ex-lawmakers received weapons for personal protection under previous government's policy. Current administration's stance unclear.
 
-இந்தத் துப்பாக்கிகளைப் பெற்ற முன்னாள் எம்.பி.க்களுக்கு, கைத்துப்பாக்கிகளை ஒப்படைக்குமாறு பாராளுமன்ற அதிகாரிகள் தனித்தனியாக கடிதம் அனுப்பியுள்ளதாக, மூத்த பாதுகாப்பு அதிகாரி ஒருவர் டெய்லி மிரருக்கு தெரிவித்தார்.
+🟩
 
-அண்மையில் கலைக்கப்பட்ட பாராளுமன்றத்தில் உள்ள 225 உறுப்பினர்களில் 100க்கும் மேற்பட்ட பாராளுமன்ற உறுப்பினர்கள் தனிப்பட்ட பாதுகாப்பிற்காக கைத்துப்பாக்கிகளை பெற்றுள்ளதாக புள்ளிவிபரங்கள் சுட்டிக்காட்டுகின்றன.
+Informed sources said yesterday that the handguns provided to former MPs for personal protection were ordered to be handed over to the Defense Ministry without delay.
 
-முன்னாள் எம்.பி.க்கள் தங்களது தனிப்பட்ட பாதுகாப்பிற்காக குறைந்தபட்சம் இரண்டு துப்பாக்கிகளை வைத்திருக்க அனுமதிப்பது என முந்தைய அரசாங்கம் எடுத்த முடிவைத் தொடர்ந்து இந்த சமீபத்திய மாற்றம் ஏற்பட்டுள்ளது.
+A senior security official told the Daily Mirror that parliamentary officials had separately sent a letter to the former MPs who had received these guns.
 
-...
+Statistics point out that over 100 MPs in the recently dissolved parliament have received handguns for personal protection.
+
+The latest change has been followed by the previous government's decision to allow former MPs to keep at least two guns for their personal security.
+
+Speaking to the media in August ahead of the presidential election, Cabinet spokesman Bandula Gunawardena said the government had decided to implement a new policy that former MPs had two guns due to violence in the country.
+
+However, it is not clear whether the current government will support the decision of the previous administration.
+
+◼️
 
 [Data](articles/3f5f7927.json)
+
+[Extended Data](ext_articles/3f5f7927.ext.json)
 
 ---
 
@@ -1526,6 +1632,28 @@ Meanwhile, potato farmers in Badulla District have complained that potatoes will
 
 ---
 
+### Showers in many areas
+
+*2024-09-29 19:43:07* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-ප්‍රදේශවලට-වැසි/11-412222) · `si`
+
+In many parts of the island, the Met Department forecasts showers at several places in the evening and night.
+
+Accordingly, the Kalutara district and in the Kalutara district, the Kalutara division and several mm.. Show heavy showers can occur around 100.
+
+The public is also requested in the Southern Province and Batticaloa and Ampara districts and to take necessary steps to reduce the damages caused by thunderstorms.
+
+Due to the active cloud system of the island, the wind speed of the sea can cause very strong winds of the wind.
+
+Heavy rains with strong winds can also be taken to pay attention to this area, as he can cause rain.
+
+◼️
+
+[Data](articles/941a5f59.json)
+
+[Extended Data](ext_articles/941a5f59.ext.json)
+
+---
+
 ### Sumanthiran's call will never join the Tamil National Alliance - CV Vigneswaran
 
 *2024-09-29 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195083) · `ta`
@@ -2135,133 +2263,5 @@ The heading of this article is inspired by the title of Edgar Snow’s  , “Red
 [Data](articles/139b1f89.json)
 
 [Extended Data](ext_articles/139b1f89.ext.json)
-
----
-
-### Sure about removal allowance of officers deployed in elite security
-
-*2024-09-29 18:14:34* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූ-ආරක්ෂාවට-යොදවා-ඇති-නිලධාරීන්ගේ-ඉවත්-කළ-දීමනාව-ගැන-පහැදිලි-කිරීමක්/11-412215) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Defense Ministry denies reports of complete removal of allowances for Armed Forces officers. The ministry states that only officers who haven't informed it will lose their allowances after September 22, 2024. This applies to current commanders, former presidents, and other high-ranking officials.
-
-🟩
-
-Some media and social youlas have propagated that they have completely parked the gateway allowance given to the three Armed Forces for the Armed Forces.
-
-However, the inspired armed forces who have not informed the Ministry of Defense for the Ministry of Defense, the temptation allowance paid to the 22nd September 2024 to be entitled to September 22.
-
-The Defense Ministry further stated that the appointment of this allowance is not the payment of this allowance for the Armed Forces Commanders, Commanders and former presidents.
-
-◼️
-
-[Data](articles/946a017b.json)
-
-[Extended Data](ext_articles/946a017b.ext.json)
-
----
-
-### Investigate e-Visa fraud as soon as possible
-
-*2024-09-29 18:12:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-விசா-மோசடி-குறித்து-விரைவில்-விசாரணை/175-344661) · `ta`
-
-E-Visa fraud investigation underway after Supreme Court ruling. Government resumes Foreign Federation, Parliamentarians challenge visa agreement citing lack of transparency. ETA process reinstated, private company handling replaced. Forensic audit ordered by Foreign Minister.
-
-🟩
-
-Following the Supreme Court's decision, the government has resumed the Foreign Federation and has resumed the present visa application base.
-
-Parliamentarians Rauf Hakeem, MA Sumanthiran and Patali Champika Ranawaka filed a petition in the Supreme Court against the president's visa agreement. They alleged that the contract was not openly issued and the federation had to earn up to $ 2.75 billion in the 16 -year period.
-
-According to the criterion before April 17, Immigration Officers have now recovered the electronic travel authorization (ETA) process for issuing one-rolling visas, and the private federation, which has handled it, has avoided the IVS-GBS and VFS Global.
-
-Foreign Minister Vijitha Herath, who is responsible for the Department of Immigration and Emigration, has confirmed that forensic audit will be conducted on the incident.
-
-◼️
-
-[Data](articles/a89ad259.json)
-
-[Extended Data](ext_articles/a89ad259.ext.json)
-
----
-
-### The last scholarship will not be rehabilitated - every student points to the three questions
-
-*2024-09-29 18:02:11* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-ශිෂ්‍යත්වය-නැවත-පවත්වන්නේ-නෑ---පිටවූ-ප්‍රශ්න-තුනට-සෑම-සිසුවෙකුටම-ලකුණු/11-412214) · `si`
-
-Here's a 200-character summary:
-
-
-
-Ministry of Education announces recent scholarship exam exit decision: All affected students will face three unresolved issues instead of rehabilitation.
-
-🟩
-
-According to the Ministry of Education, all students who have been subjected to the exit of the recent scholarship examination have been decided to give the three issues and not once again.
-
-◼️
-
-[Data](articles/2196cbfb.json)
-
-[Extended Data](ext_articles/2196cbfb.ext.json)
-
----
-
-### The final solution to the problem of this year's scholarship examination
-
-*2024-09-29 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201666) · `si`
-
-Here's a 200-character summary:
-
-
-
-Scholarship exam reform: 7-member committee recommends changes to benefit all children, considering mental impact and eligibility criteria.
-
-🟩
-
-The best option for the problem with the examination this year's scholarship examination is recommended that the three issues have been identified for the three issues who have been identified before the examination is to be discussed before the examination.
-
-Will the division of the Grade 5 Scholarship examination this year will be renovated?Not?The Ministry of Education had taken steps to appoint a seven-member committee to decide to go to go.
-
-Studying the report was appointed by Prime Minister Dr. Harini Amarasuriya, Minister of Education.
-
-The committee was educated in educational, educational psychologists, expertise and statistics.
-
-Accordingly, the committee is recommended that the examination will have a profound influence on the mental level of 10 years and is essential to all children.
-
-The Committee has recommended that the Examination Committee is eligible for all children who have been identified for the three issues who have been identified as the examination.
-
-◼️
-
-[Data](articles/25237172.json)
-
-[Extended Data](ext_articles/25237172.ext.json)
-
----
-
-### Dickwella facing three-year ban from all forms of cricket?
-
-*2024-09-29 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102340/dickwella-facing-three-year-ban-from-all-forms-of-cricket) · `en`
-
-Sri Lankan cricketer Niroshan Dickwella is expected to be banned from all forms of cricket for three years, cricket sources told Ada Derana.
-
-On August 16, Sri Lanka Cricket (SLC) confirmed that Dickwella was suspended from participating in all forms of cricket with immediate effect due to an alleged anti-doping violation.
-
-Dickwella was found guilty of a doping violation during the recent Lanka Premiere League (LPL).
-
-This had reportedly been revealed following a doping test conducted by the Sri Lanka Anti-Doping Agency.
-
-However, SLC stated that the test, which was conducted by the Sri Lanka Anti-Doping Agency (SLADA) during the Lanka Premier League (LPL) 2024, is part of SLC’s ongoing commitment to maintaining the integrity of the sport.
-
-This initiative, undertaken in collaboration with the Ministry of Sports and in accordance with the World Anti-Doping Agency (WADA) guidelines, is aimed at ensuring that cricket remains free from the influence of prohibited substances, it added.
-
-...
-
-[Data](articles/f78c8a54.json)
-
-[Extended Data](ext_articles/f78c8a54.ext.json)
 
 ---

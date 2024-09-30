@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 15:38:37**
+As of **2024-09-30 16:12:35**
 
 ## Newspaper Stats
 
-*Scraped **47,006** Articles*
+*Scraped **47,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 2,848
 dailyftlk | 3,144
 adalk | 4,343
 dailymirrorlk | 4,733
-adaderanalk | 5,529
+adaderanalk | 5,530
 tamilmirrorlk | 6,319
 virakesarilk | 7,518
-adaderanasinhalalk | 8,124
+adaderanasinhalalk | 8,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,005 (100.0%) of 47,006 articles have been extended.
+47,009 (100.0%) of 47,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### 900 kilograms of bomb found Nasaralla
+
+*2024-09-30 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201691) · `si`
+
+900kg bomb kills Hezbollah leader Nasrallah. US-made Mark 84 series used by Israel. About 20 others also died in attack.
+
+🟩
+
+An American Senior Committee member has revealed the bomb used to kill Hesan Nasaralla.
+
+American Senior Committee Member Mark Kelly has said that Israel has used 900 kilos of America (Marke 84 Series).
+
+Israel confirmed that Nasmenta was killed recently to the attack targeting Hezbollah headquarters.
+
+About 20 others with the leader of the Hezbollah had died of the attack on the attack.
+
+◼️
+
+[Data](articles/ea47a331.json)
+
+[Extended Data](ext_articles/ea47a331.ext.json)
+
+---
+
+### Colombo’s inflation drops to -0.5% in Sept. 2024
+
+*2024-09-30 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102356/colombos-inflation-drops-to-05-in-sept-2024) · `en`
+
+The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has decreased to -0.5% in September 2024, compared to 0.5% in August 2024, according to the latest data released by the Department of Census and Statistics.
+
+Meanwhile, food inflation has decreased to -0.3% in September 2024 compared to 0.8% in August 2024.
+
+◼️
+
+[Data](articles/f46f0e0d.json)
+
+[Extended Data](ext_articles/f46f0e0d.ext.json)
+
+---
+
+### Inflation down
+
+*2024-09-30 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201690) · `si`
+
+Colombo Municipal Community: Inflation drops to -0.5% in September 2024. Food category sees 0% annual inflation, while non-food remains at -0.4%. These figures represent a decrease from previous months' rates.
+
+🟩
+
+The Colombo Municipal Community's customer inflation rate has been reduced to-0.5% for September 2024.
+
+The Department of Census and Statistics have informed this in a statement.
+
+In September 2024, the annual inflation of food category has reduced to-0% and in August 2024 as 0.8%.
+
+Also, the non-food annual inflation (point) is up to - 0.4% of the non-food annual inflation for September 2024. It was 0.4% in August 2024.
+
+◼️
+
+[Data](articles/0a32db73.json)
+
+[Extended Data](ext_articles/0a32db73.ext.json)
+
+---
 
 ### New Cabinet to hold inaugural meeting today
 
@@ -43,6 +107,8 @@ The Cabinet is scheduled to take several important decisions at this meeting, wh
 ◼️
 
 [Data](articles/b740dfa0.json)
+
+[Extended Data](ext_articles/b740dfa0.ext.json)
 
 ---
 
@@ -548,7 +614,7 @@ The propaganda which possibly helped the NPP leader to overcome SJB and UNP lead
 
 ---
 
-### Sri Lanka, Pakistan sign agreement to strengthen legislative practices
+### Sri Lanka, Pakistan to cooperate on legislative practices
 
 *2024-09-30 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-pakistan-sign-agreement-to-strengthen-legislative-practices-181545/) · `en`
 
@@ -2225,71 +2291,5 @@ We will announce a resolution on the party and symbol that is contesting in the 
 [Data](articles/1ee8153a.json)
 
 [Extended Data](ext_articles/1ee8153a.ext.json)
-
----
-
-### Heavy rain today
-
-*2024-09-29 23:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பலத்த-மழை/175-344683) · `ta`
-
-Heavy rain expected in parts of Kalutara district. Thunderstorms possible in evening/night. Lightning warning issued for several provinces and districts.
-
-🟩
-
-The Department of Meteorology has forecast rainfall in some parts of the Kalutara district in the Central, Sabaragamuwa, North Western and Southern Provinces.
-
-Also, in the evening or night, there is a possibility of thunderstorms.
-
-Meanwhile, the Department of Meteorology has advised the general public to be concerned that the Lightning is likely to have a heavily impact on the upper, Sabaragamuwa, Central, Uva, Eastern, North Western and Southern Provinces and Polonnaruwa districts.. (A)
-
-◼️
-
-[Data](articles/044cfec3.json)
-
-[Extended Data](ext_articles/044cfec3.ext.json)
-
----
-
-### Don't go to the fisheries
-
-*2024-09-29 23:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழிலுக்கு-செல்ல-வேண்டாம்/175-344682) · `ta`
-
-Fishermen warned: Avoid seas due to strong winds and heavy rain. Wind speeds may reach 70-80 km/h. Stay ashore until further notice from meteorologists.
-
-🟩
-
-The Department of Meteorology has advised fishermen not to go to sea due to inclement weather in the southeastern seas of the country.
-
-In the event of rainfall, the wind can blow up to 70 to 80 km / h per hour.
-
-Therefore, fishermen are advised not to go to sea until re -notice. (A)
-
-◼️
-
-[Data](articles/9788dec6.json)
-
-[Extended Data](ext_articles/9788dec6.ext.json)
-
----
-
-### Civil Social Finances this week's journey to Geneva;It is intended to negotiate with member states to support the proposal
-
-*2024-09-29 23:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195091) · `ta`
-
-Sri Lanka UN Human Rights Council resolution negotiation update: Civil Society representatives travel to Geneva to secure support from member states for the 51/1 resolution renewal. Meetings with UN officials and other stakeholders planned. Government stance uncertain under new leadership.
-
-🟩
-
-Some of the Civil Socialists who are working on Sri Lanka's platform to carry out negotiations with the members of the UN Human Rights Council (UNHRC) will be able to pass the United Nations Human Rights Council referendum to resume the 51/1 resolution already passed in Sri Lanka.
-
-The 57th session of the United Nations Human Rights Council commenced on the 9th. On that day, the Sri Lankan affair was examined following the speech of UN Human Rights Council Volkar Turk's speech on the global human rights situation and the written report on the Myanmar human rights situation and the debate on it.
-
-UN Human Rights High Commissioner Volkar Turk addresses the progress of the content implementation of the 51/1 resolution titled 'Reconciliation, Liability and Human Rights Upgrading in Sri Lanka' which has already been passed at the Human Rights Council on Sri Lanka.
-
-...
-
-[Data](articles/8458eee2.json)
-
-[Extended Data](ext_articles/8458eee2.ext.json)
 
 ---

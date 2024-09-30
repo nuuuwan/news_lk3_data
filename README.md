@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 20:11:49**
+As of **2024-09-30 20:23:10**
 
 ## Newspaper Stats
 
-*Scraped **47,056** Articles*
+*Scraped **47,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,535
 tamilmirrorlk | 6,324
 virakesarilk | 7,528
-adaderanasinhalalk | 8,134
+adaderanasinhalalk | 8,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,056 (100.0%) of 47,056 articles have been extended.
+47,056 (100.0%) of 47,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### කළුගංතොට සිංහයා සදහටම නික්ම යයි
+
+*2024-09-30 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201700) · `si`
+
+අභාවප්‍රාප්ත වූ හිටපු අමාත්‍ය කුමාර වෙල්ගම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු මතුගම ආදාහනාගාරයේදී අද (30) පස්වරුවේ සිදුකෙරුණි.
+
+"කළුගංතොට සිංහයා" යන අන්වර්ථ නාමයෙන් හඳුන්වන කුමාර වෙල්ගම මහතා ශ්‍රී ලාංකේය දේශපාලනය තුළ කතාබහට ලක්වූ  ආන්දෝලනාත්මක චරිතයකි.
+
+වෙල්ගම මහතා පසුගිය සෙනසුරාදා අලුයම අභාවප්‍රාප්ත වූයේ කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදීය.
+
+මතුගම හොරවල ඩැනිස්ටන්වත්තෙහි පිහිටි ඒ මහතාගේ නිවසේ තැන්පත් කර තිබූ දේහයට අවසන් ගෞරව දක්වන්නට විශාල පිරිසක් පැමිණි බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+හිටපු ජනාධිපතිවරුන් වන චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග, මහින්ද රාජපක්ෂ , රනිල් වික්‍රමසිංහ යන මහත්ම මහත්මීන් සහ හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරු ඇතුළු ඔහුගේ දේශපාලන සමකාලීනයන් හා කලාකරුවන් ද ඒ අතර වුණි.
+
+දේහය පිළිබඳ අවසන් කටයුතු මතුගම ආදාහනාගාරයේදී අද සිදුකෙරුණේ වෙල්ගම මහතාගේ ඥාතීන්, හිතවතුන් හා ප්‍රදේශවාසීන්ගේ සෝ සුසුම් මැදය.
+
+ශ්‍රී ලාංකීය දේශපාලනයේ ආන්දෝලනාත්මක මිනිසා, කළුගංතොට සිංහයාට නිවන් සුව ලැබේවා.
+
+◼️
+
+[Data](articles/e4d9c905.json)
+
+---
 
 ### Avoid traveling to Lebanon and Syria
 
@@ -2441,25 +2465,5 @@ In equities, Colombo’s All Share Price Index opened 0.87 percent, or 102.87 po
 [Data](articles/b4cd90a3.json)
 
 [Extended Data](ext_articles/b4cd90a3.ext.json)
-
----
-
-### Final income tax payments due today
-
-*2024-09-30 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102349/final-income-tax-payments-due-today) · `en`
-
-The Inland Revenue Department (IRD) has informed that all taxpayers must make their final income tax payments for the Year of Assessment 2023/2024 by today (Sept 30).
-
-Issuing a notice to taxpayers, it warned failure to meet this deadline may result in penalties and interest charges. The penalties and interest imposed for non-payment or late payment of income tax will not be waived or reduced, the department said.
-
-In addition, the IRD reminds taxpayers to clear all outstanding default taxes on or before October 30, 2024. After that date, any unpaid default taxes will be subject to rigorous collection actions, including legal proceedings under the Inland Revenue Act, the IRD said.
-
-For more information, the public is requested to contact the hotline ‘1944’ or their nearest IRD Regional Office.
-
-◼️
-
-[Data](articles/4c15143c.json)
-
-[Extended Data](ext_articles/4c15143c.ext.json)
 
 ---

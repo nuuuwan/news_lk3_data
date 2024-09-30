@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 19:23:08**
+As of **2024-09-30 19:38:56**
 
 ## Newspaper Stats
 
-*Scraped **47,048** Articles*
+*Scraped **47,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ colombotelegraphcom | 469
 islandlk | 2,762
 economynextcom | 2,856
 dailyftlk | 3,145
-adalk | 4,350
+adalk | 4,352
 dailymirrorlk | 4,733
-adaderanalk | 5,534
-tamilmirrorlk | 6,323
+adaderanalk | 5,535
+tamilmirrorlk | 6,324
 virakesarilk | 7,527
-adaderanasinhalalk | 8,132
+adaderanasinhalalk | 8,133
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,048 (100.0%) of 47,048 articles have been extended.
+47,048 (100.0%) of 47,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Sri Lanka urges citizens not to travel to Lebanon and Syria
+
+*2024-09-30 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102360/sri-lanka-urges-citizens-not-to-travel-to-lebanon-and-syria) · `en`
+
+Sri Lankan nationals are instructed not to travel to Lebanon and Syria until further notice due to the current volatile situation in the region, the Ministry of Foreign Affairs said today.
+
+Issuing a notice, it said all Sri Lankans who are currently in Lebanon and Syria are strongly requested to be on alert and to take necessary precautions including restricting their outside movements and maintaining regular contacts with the Sri Lanka Embassy in Beirut and the Honorary Consul of Sri Lanka in Damascus.
+
+They are requested to maintain regular contact through the Email ID: slemb.beiruit@mfa.gov.lk, or the following emergency hotlines:
+
+◼️
+
+[Data](articles/07d9fe56.json)
+
+---
+
+### පාවා දීලා ගිය අයව පක්ෂයට ගන්නේ නැහැ - සාගර
+
+*2024-09-30 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201698) · `si`
+
+ජනාධිපතිවරණයේදී පක්ෂය පාවාදුන් කිසිවෙකුට ඉදිරි මහ මැතිවරණයට ඉදිරිපත් වීම සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් නාමයෝජනා ලබානොදෙන බව එම පක්ෂය පවසයි.
+
+එහි මහ ලේකම්, හිටපු පාර්ලිමේන්තු මන්ත්‍රී සාගර කාරියවසම් මහතා අද (30) කොළඹ දී කැඳවා තිබූ ප්‍රවෘත්ති සාකච්ඡාවකදී මේ බව කියා සිටියේය.
+
+"අපේ පක්ෂය පාවා දීපු කොටසක් ඉන්නවා. ඒ කොටසට දේශපාලන වශයෙන් පත්වෙලා තියෙන තත්ත්වය ගැන මම කතා කරන්න කැමති නැහැ. පක්ෂය පාවාදුන් කිසිම කෙනෙක් නැවත පක්ෂයේ ඉහළ නිලතල ලබාදීමක් හෝ නාමයෝජනා ලබාදීමක් කරන්නේ නැහැ. කිසිම ආකාරයකින් පක්ෂය පාවා දීලා ගිය අයව නම් අපි මේ පක්ෂයට ගන්නේ නැහැ. පක්ෂය තීන්දුවක් ගත්තා. ඉදිරි මහ මැතිවරණයට ලංකාවේ තියෙන සියලුම දිස්ත්‍රික්ක සඳහා පොහොට්ටුව ලකුණ යටතේ තරග කරනවා."
+
+◼️
+
+[Data](articles/5aaa3653.json)
+
+---
+
+### පාළු නිවසක පැවැත්වූ ෆේස්බුක් පාටිය වටලයි - තරුණ තරුණියන් 18ක් අල්ලයි
+
+*2024-09-30 19:12:04* · [`adalk`](https://www.ada.lk/breaking_news/පාළු-නිවසක-පැවැත්වූ-ෆේස්බුක්-පාටිය-වටලයි---තරුණ-තරුණියන්-18ක්-අල්ලයි/11-412238) · `si`
+
+රාගම පොලිස් බල ප්‍රදේශයට අයත් ගණේමුල්ල කැන්දලියැද්ද පා‍ළුව ප්‍රදේශයේ පාළු නිවසක පැවති සාදයක් වටලා මත්කුඩු පානය කරමින් සිටි තරුණ පිරිසක් පොලිස් අත් අඩංගුවට ගෙන ඇත.
+
+රාගම පොලිසියට  පෞද්ගලිකව  ලද තොරතුරක් මත පොලිසිය එම  නිවස වැටළූ අවස්ථාවේදී එහි  තරුණ තරුණියන් 18  දෙනෙකු මත්ද්‍රව්‍ය පානය කරමින් සිට ඇති අතර ඔවුන් සන්තකයේ  තිබූ  මත්කුඩු මත්පෙති ගංජා ආදී මත්ද්‍රව්‍ය  පොලිස් භාරයට  ගෙන ඇත.
+
+මෙම කණ්ඩායමේ  තරුණයන් දහසය දෙනෙක් සහ තරුණියන්  දෙදෙනකු  සිටින බවත් ඔවුන් වයස අවුරුදු  15ත්19  ත් අතර කාණ්ඩයට අයත් වන බවත් පොලිසිය පැවසීය.
+
+ඉන් එක් තරුණියකගේ පියා විදේශ ගත රැකියාවක නිරතවන අතර  මව පව්ලෙන් වෙන්වී ඇතැයිද තරුණිය තනිව ජීවත්වෙන බවද  පොලිස්  විමර්ශන වලදී අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/59799340.json)
+
+---
+
+### தேனிலவு விரைவில் முடிந்து விடும்
+
+*2024-09-30 19:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேனிலவு-விரைவில்-முடிந்து-விடும்/175-344725) · `ta`
+
+தற்போது தேசிய மக்கள் சக்தியாக (NPP) அதிகாரத்தில் இருக்கும் ஜனதா விமுக்தி பெரமுன (ஜேவிபி) பரிணாம வளர்ச்சியடைந்துள்ளதுடன், ஜேவிபிக்கும் என்பிபிக்கும் (தேசிய மக்கள் சக்தி) இடையிலான வேறுபாடு தெளிவாகத் தெரிகிறது என முன்னாள் பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தெரிவித்துள்ளார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த வீரவன்ச, நாட்டை முன்னேற்றுவதற்கு தேசிய மக்கள் கட்சி நடவடிக்கை எடுக்கும் என நம்பிக்கை தெரிவித்தார்.
+
+"ஜே.வி.பி எனது முன்னாள் கட்சியாக இருந்ததால், தேசத்தை உயர்த்துவதற்கான தற்போதைய அரசாங்கத்தின் முயற்சிகளுக்கு எமக்கு எந்த ஆட்சேபனையும் இல்லை" என்று அவர் கூறினார்.
+
+கோட்டாபய ராஜபக்ச நிர்வாகத்தில் காணப்படுவது போல் ஒவ்வொரு புதிய அரசாங்கமும் தேனிலவு காலத்தை அனுபவிக்கிறது, ஆனால் அரசாங்கத்தின் உண்மையான தன்மை காலப்போக்கில் வெளிப்படும் என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/c3725e49.json)
+
+---
 
 ### Special statement from the Commissioner General of Examinations on scholarship paper
 
@@ -121,6 +189,22 @@ The former members who are not re-elected in the General Election are required t
 [Data](articles/cef96c29.json)
 
 [Extended Data](ext_articles/cef96c29.ext.json)
+
+---
+
+### බැංකු පද්ධතියට ඇති අනතුරක් අධිකරණයේදී දිග හැරෙයි
+
+*2024-09-30 18:08:22* · [`adalk`](https://www.ada.lk/breaking_news/බැංකු-පද්ධතියට-ඇති-අනතුරක්-අධිකරණයේදී-දිග-හැරෙයි/11-412235) · `si`
+
+යුක්ක්‍රේන, ඉන්දීය සහ බල්ගේරියන් සයිබර් අපරාධකරුවන් රටට ඇතුළු වී කරන මුදල් වංචා හේතුවෙන් මෙරට බැංකු පද්ධතිය කඩා වැටී ජාතික ආර්ථිකයට විශාල බලපෑමක් එල්ල විය හැකි බව රහස් පොලිසිය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතාට අද (30) දැනුම් දුන්නේය.
+
+අන්තර්ජාලය හරහා සිදුවන වංචා හේතුවෙන් මෙරට බැංකු පද්ධතිය කෙරෙහි ජනතා විශ්වාසය බිඳ වැටීමට හැකියාව ඇති හෙයින් එම සයිබර් අපරාධකරුවන්ගේ ජාලය පිළිබඳව විශේෂ විමර්ශනයක් කරන බව දැනුම් දුන් රහස් පොලිසියේ අන්තර්ජාල ආවේක්ෂණ විශේෂ බුද්ධි ඒකකයේ නිලධාරීන් මෙම අපරාධයට සම්බන්ධ සයිබර් අපරාධකරුවන් බව කියමින් අධිකරණයට ඉදිරිපත් කළ යුක්‍රේන ජාතික තරුණයින් දෙදෙනෙකු රිමාන්ඩ් බාරයේ රඳවා තැබීමට මහෙස්ත්‍රාත්වරයා නියම කළේය.
+
+මෙලෙස රිමාන්ඩ් බාරයට පත් කරන ලද්දේ ප්‍රධාන පෙළේ පෞද්ගලික බැංකුවක සංවත්සරය වෙනුවෙන් ත්‍යාග ලබාදෙන බවට සහ ඔන්ලයින් ආදායම් මාර්ග හඳුන්වා දෙන බවට ‘ෆෙස්බුක්’ සහ ‘ටෙලිග්‍රැම්’ ඔස්සේ දැන්වීම් ප්‍රචාරය කර රුපියල් ලක්‍ෂ 36කට අධික මුදලක් වංචා කළැයි කියන හරුනොව් නිකිතා සහ සෙවෙට්ස් ලිබොමීර් නැමැති යුක්‍රේන ජාතික තරුණයින් දෙදෙනෙකි.
+
+◼️
+
+[Data](articles/3f8e5486.json)
 
 ---
 
@@ -2343,131 +2427,5 @@ President Dissanayake was elected in September when a review of the IMF program 
 [Data](articles/506934dd.json)
 
 [Extended Data](ext_articles/506934dd.ext.json)
-
----
-
-### One person injured as police fire at lorry in Panadura
-
-*2024-09-30 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102347/one-person-injured-as-police-fire-at-lorry-in-panadura) · `en`
-
-A person has been injured and admitted to hospital after he was wounded in a shooting carried out by police in the Pallimulla area in Panadura.
-
-Panadura North Police had ordered a lorry to stop at a police checkpoint for a search operation.
-
-However, police had opened fire at the lorry as it had disregarded instructions to stop and had continued to move forward in a suspicious manner.
-
-One person traveling in the lorry was injured and he is currently receiving treatment in the hospital, police said.
-
-Police also stated that the lorry was illegally transporting cattle at the time.
-
-◼️
-
-[Data](articles/ab0759f8.json)
-
-[Extended Data](ext_articles/ab0759f8.ext.json)
-
----
-
-### 142 and 500 million Treasury bills for auction
-
-*2024-09-30 09:16:17* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-142--500-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-අනිද්දා/11-412225) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Treasury bills auction: 142 & 500 million bills for sale. Worth Rs. 65,000 crore. Payment due Oct 4."
-
-🟩
-
-The Treasury billing auction of Rs.
-
-The Central Bank said that the Treasury bills of Rs. 65,000 worth Rs.. The Treasury bill issue and payment will be made on October 4.
-
-◼️
-
-[Data](articles/a4b0e21a.json)
-
-[Extended Data](ext_articles/a4b0e21a.ext.json)
-
----
-
-### A person injured in police firing
-
-*2024-09-30 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195099) · `ta`
-
-Police shooting injures man in Panadura. Driver suspected, cows in truck. Incident under investigation.
-
-🟩
-
-A man was injured in a shooting carried out by police in the Panadura Palliyamulla area, police said.
-
-The police have ordered the police to stop the lorry on the road barrier carried out by the Northern Police of Panadura.
-
-The shooting has been carried out by the police due to the suspicious driver of the lorry.
-
-The man who was traveling in the vehicle was injured and the lorry was used to load the cows, police said.
-
-◼️
-
-[Data](articles/6d11761e.json)
-
-[Extended Data](ext_articles/6d11761e.ext.json)
-
----
-
-### Israeli strikes may have displaced million people - Lebanon PM
-
-*2024-09-30 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102346/israeli-strikes-may-have-displaced-million-people-lebanon-pm) · `en`
-
-Israel’s continuing air strikes may have already forced as many as one million people from their homes across Lebanon, the country’s prime minister has said.
-
-“It is the largest displacement movement that may have happened,” Najib Mikati said.
-
-Lebanon’s health ministry reported more than 50 people killed in Sunday’s strikes - two days after Israel assassinated Hezbollah leader Hassan Nasrallah in Beirut. Meanwhile, Hezbollah fired more rockets into northern Israel.
-
-In a separate development, Israel said it had carried out “large-scale” air strikes on military targets of the Iran-backed Houthi movement in Yemen.
-
-Hezbollah confirmed on Sunday that top military commander Ali Karaki and a senior cleric, Sheikh Nabil Qaouk, had also been killed in the Israeli air strikes.
-
-“We need to keep hitting Hezbollah hard,” Israel’s military chief of staff Herzi Halevi said.
-
-...
-
-[Data](articles/57399440.json)
-
-[Extended Data](ext_articles/57399440.ext.json)
-
----
-
-### 'Is the Presidential Anura posts?'
-
-*2024-09-30 08:53:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5y3g385z0yo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Anura Kumara Dissanayake's presidency faces criticism over alleged favoritism in appointments. Supporters defend choices as promoting political change, while opponents claim lack of meritocracy and potential conflicts of interest.
-
-🟩
-
-After the appointment of Anura Kumara Dissanayake, various views are being made regarding the appointments made.
-
-Some allege that the new President appoints his friends to government positions.
-
-They feel that it is impossible to criticize the appointments of the rulers of the rulers before.
-
-"People to change the political culture of the people," the people have voted for the new President Anura Kumara Dissanayake, "said Minister Vijitha Herath.
-
-He was speaking at the time of visiting the Sri Lanka Ports Authority recently.
-
-"The people of the country voted for the new President, change the political culture of this country. Changes political culture is not just the only politicians. It must be different from the officers of the officers and institutions of the country. "
-
-...
-
-[Data](articles/2eb3cfa6.json)
-
-[Extended Data](ext_articles/2eb3cfa6.ext.json)
 
 ---

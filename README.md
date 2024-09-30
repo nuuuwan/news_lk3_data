@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 12:14:24**
+As of **2024-09-30 12:25:19**
 
 ## Newspaper Stats
 
-*Scraped **46,966** Articles*
+*Scraped **46,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,144
 adalk | 4,338
 dailymirrorlk | 4,733
 adaderanalk | 5,526
-tamilmirrorlk | 6,308
+tamilmirrorlk | 6,311
 virakesarilk | 7,510
 adaderanasinhalalk | 8,117
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,966 (100.0%) of 46,966 articles have been extended.
+46,966 (100.0%) of 46,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### சர்வதேச கடற்பரப்பில் படகு விபத்து
+
+*2024-09-30 11:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-கடற்பரப்பில்-படகு-விபத்து/175-344700) · `ta`
+
+இலங்கை மீனவர்கள் 05 பேருடன் கடலுக்கு மீன்பிடிக்கச் சென்ற படகொன்று  சர்வதேச கடற்பரப்பில் விபத்துக்குள்ளாகிருப்பதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+
+குறித்த 05 இலங்கை மீனவர்களும்  மிரிஸ்ஸ மீன்பிடித் துறைமுகத்திலிருந்து ''ரன்முத்து துவ 10" எனும் மீன்பிடிப் படகில் கடந்த 12 ஆம் திகதி மீன்பிடிக்கச் சென்றதாகவும் அந்த படகு கடந்த 26ஆம் திகதி விபத்துக்குள்ளானதானதாகவும் தெரிவிக்கப்படுகின்றது.
+
+விபத்துக்குள்ளான படகு தற்போது இந்திய கடற்பரப்பில் மிதந்து கொண்டு இருப்பதாக படகின் உரிமையாளருக்கு மீனவர்கள் அறிவித்துள்ளனர்.
+
+விபத்துக்குள்ளான படகில் இருக்கும் மீனவர்களுக்கு  உதவுவதற்காக மற்றுமொரு படகை அனுப்பியுள்ளதாக படகின் உரிமையாளர் தெரிவித்துள்ளார்.
+
+இலங்கை கடற்படை மற்றும் வௌிவிவகார அமைச்சின் ஊடாக இந்திய கடலோர பாதுகாப்பு படைக்கு அறிவிக்கப்பட்டுள்ளதாக கடற்றொழில் திணைக்களம் உறுதிப்படுத்தியது.
+
+◼️
+
+[Data](articles/cb42b894.json)
+
+---
 
 ### Nepal rank of floods
 
@@ -61,6 +81,32 @@ According to reports, floodings also affected North India.
 [Data](articles/6bdbec4b.json)
 
 [Extended Data](ext_articles/6bdbec4b.ext.json)
+
+---
+
+### எரிபொருள் விலை குறையும் சாத்தியம்
+
+*2024-09-30 11:41:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-விலை-குறையும்-சாத்தியம்/175-344699) · `ta`
+
+◼️
+
+[Data](articles/789d9c39.json)
+
+---
+
+### ரணில் தலைமையில் பரந்த எதிர்க்கட்சி
+
+*2024-09-30 11:40:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-தலைமையில்-பரந்த-எதிர்க்கட்சி/175-344698) · `ta`
+
+ஜனாதிபதித் தேர்தலில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவளிப்பதாக உறுதியளித்த சகலருடனும் இணைந்து பரந்த எதிர்க்கட்சியொன்றை உருவாக்குவதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருவதாக முன்னாள் பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே தெரிவித்துள்ளார்.
+
+எதிர்வரும் பொதுத் தேர்தலை எதிர்கொள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் புதிய கூட்டணி அமைக்கப்படும் என அவர் மேலும் தெரிவித்தார்.
+
+ரணில் விக்கிரமசிங்க கூட்டணிக்கு தலைமை தாங்கினாலும், பொதுத் தேர்தலில் போட்டியிடப் போவதில்லை என்றும், தேசியப்பட்டியல் மூலம் பாராளுமன்றத்துக்கு வரமாட்டார் என்றும் அவர் ஏற்கனவே அறிவித்துள்ளார் என மஹிந்தானந்த அளுத்கமகே மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a5657a03.json)
 
 ---
 
@@ -2219,71 +2265,5 @@ Following the investigation of the expert panel on the leak, the ministry decide
 [Data](articles/ad49f53d.json)
 
 [Extended Data](ext_articles/ad49f53d.ext.json)
-
----
-
-### Manoala Digambaranala arrives at the general election
-
-*2024-09-29 18:31:07* · [`adalk`](https://www.ada.lk/breaking_news/මනෝලා-දිගම්බරන්ලා-සජිත්-සමග-මහ-මැතිවරණයට-එයි/11-412217) · `si`
-
-TNA Deputy Leader Manoala Digambaranala arrives at general election. Promises no alliance with UPFA's Samaga Kummakaram. Converses with Sajith Premadasa about reconciliation.
-
-🟩
-
-The Deputy Leader of the TNA said that the TNA demonstrated the UPFA to contest with a reconciliation unit with a reconciliation (29).
-
-Mr. Palani Digambaram has been conversation with the leader of Sajith Premadasa (29) with the leader of Sajith Premadasa (29), including the leader of the UPFA.Said.
-
-Mr. Bandarani Digambaram said he had promised his alliance that the Tamil Progress TNA would not be added to the Samaga Kummakaram that the Tamil Progress All UPFA was not added to the Samaga Progress.
-
-◼️
-
-[Data](articles/ce2bf00b.json)
-
-[Extended Data](ext_articles/ce2bf00b.ext.json)
-
----
-
-### You can see the first mini moon today
-
-*2024-09-29 18:26:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/இன்று-முதல்-மினி-நிலவைக்-காணலாம்/53-344662) · `ta`
-
-Mini moon spotted: Asteroid as big as bus orbits Earth temporarily. Visible via telescope, not naked eye. Astronomers excited about research opportunities.
-
-🟩
-
-Although the Earth is much smaller than its usual moon, it is to get a temporary cub.
-
-This mini moon is actually the newly discovered asteroid, which is the size of a school bus.
-
-Astronomers say that it will travel very close to the earth and that the Earth's gravity will temporarily retain it, and it will take two months around the earth.
-
-This "mini moon" can be seen by telescopic though not visible to the empty eye. This short -term space planet has given astronomers an opportunity for a new research.
-
-◼️
-
-[Data](articles/f737d978.json)
-
-[Extended Data](ext_articles/f737d978.ext.json)
-
----
-
-### Followed the same purpose - the last one in Sri Lanka
-
-*2024-09-29 18:24:26* · [`adalk`](https://www.ada.lk/breaking_news/එකම-අරමුණකින්-කටයුතු-කළා---සාපෙළ-ලංකාවෙන්ම-පළමුවැනියා/11-412216) · `si`
-
-Hiruni Mallesha Kumaratunga wins top spot in GCE O/L English exam. Twin sisters study together at Sangamitta Balika Vidyalaya. Parents, teachers, and school officials celebrate her achievement.
-
-🟩
-
-Ti H of the Girl Girls Vidyalaya, Galle has been obtained as a result of self-confidence in the same purpose, Ti H. Hiruni Malha Mallesha Kumaratunga said.
-
-This victory was achieved by the English medium of GCE O / L examination. Ti H. The Fortuna Kumaratunga, Hiruni Mallesha Kumaratunga.
-
-...
-
-[Data](articles/4b139458.json)
-
-[Extended Data](ext_articles/4b139458.ext.json)
 
 ---

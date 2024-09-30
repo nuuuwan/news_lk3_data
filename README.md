@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 19:38:56**
+As of **2024-09-30 19:57:11**
 
 ## Newspaper Stats
 
-*Scraped **47,053** Articles*
+*Scraped **47,055** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 390
-bbccomsinhala | 464
+bbccomsinhala | 465
 colombotelegraphcom | 469
 islandlk | 2,762
 economynextcom | 2,856
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,535
 tamilmirrorlk | 6,324
 virakesarilk | 7,527
-adaderanasinhalalk | 8,133
+adaderanasinhalalk | 8,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,048 (100.0%) of 47,053 articles have been extended.
+47,055 (100.0%) of 47,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Avoid traveling to Lebanon and Syria
+
+*2024-09-30 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201699) · `si`
+
+Sri Lanka's Foreign Ministry advises citizens to avoid travel to Lebanon and Syria due to ongoing conflicts. A travel advisory was issued to ensure safety of Sri Lankan nationals in these regions.
+
+🟩
+
+The Foreign Ministry requests Sri Lankans to avoid re-informed lebanne and Syria.
+
+The travel consultancy was issued due to the conflict situation in the two countries.
+
+◼️
+
+[Data](articles/5594d62c.json)
+
+[Extended Data](ext_articles/5594d62c.ext.json)
+
+---
 
 ### Sri Lanka urges citizens not to travel to Lebanon and Syria
 
@@ -42,61 +62,89 @@ Issuing a notice, it said all Sri Lankans who are currently in Lebanon and Syria
 
 They are requested to maintain regular contact through the Email ID: slemb.beiruit@mfa.gov.lk, or the following emergency hotlines:
 
-◼️
+For just under a year, Israel has been fighting Hamas in Gaza, in an effort to dismantle the militant group after it led attacks on Israel on Oct 7, 2023.
+
+...
 
 [Data](articles/07d9fe56.json)
 
+[Extended Data](ext_articles/07d9fe56.ext.json)
+
 ---
 
-### පාවා දීලා ගිය අයව පක්ෂයට ගන්නේ නැහැ - සාගර
+### The party does not take the betrayed people - oceans
 
 *2024-09-30 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201698) · `si`
 
-ජනාධිපතිවරණයේදී පක්ෂය පාවාදුන් කිසිවෙකුට ඉදිරි මහ මැතිවරණයට ඉදිරිපත් වීම සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණෙන් නාමයෝජනා ලබානොදෙන බව එම පක්ෂය පවසයි.
+Party rejects betrayers for nominations and leadership roles. Secretary General warns against betraying the party. Next general election will be contested in all districts of Sri Lanka.
 
-එහි මහ ලේකම්, හිටපු පාර්ලිමේන්තු මන්ත්‍රී සාගර කාරියවසම් මහතා අද (30) කොළඹ දී කැඳවා තිබූ ප්‍රවෘත්ති සාකච්ඡාවකදී මේ බව කියා සිටියේය.
+🟩
 
-"අපේ පක්ෂය පාවා දීපු කොටසක් ඉන්නවා. ඒ කොටසට දේශපාලන වශයෙන් පත්වෙලා තියෙන තත්ත්වය ගැන මම කතා කරන්න කැමති නැහැ. පක්ෂය පාවාදුන් කිසිම කෙනෙක් නැවත පක්ෂයේ ඉහළ නිලතල ලබාදීමක් හෝ නාමයෝජනා ලබාදීමක් කරන්නේ නැහැ. කිසිම ආකාරයකින් පක්ෂය පාවා දීලා ගිය අයව නම් අපි මේ පක්ෂයට ගන්නේ නැහැ. පක්ෂය තීන්දුවක් ගත්තා. ඉදිරි මහ මැතිවරණයට ලංකාවේ තියෙන සියලුම දිස්ත්‍රික්ක සඳහා පොහොට්ටුව ලකුණ යටතේ තරග කරනවා."
+The party says that no nominations are not given nominations for anyone who betrayed the party in the presidential election.
+
+The Secretary General of the Division, former Parliamentarian Sagara Kariyawasam, was speaking at a press conference held in Colombo today (30).
+
+"There is a part of our party. I don't want to talk about the situation that has become political as political. No one who betrayed the party will not be given to the top post positions or nominations. If the party betrayed the party in any way we do not take. The party took a decision. The host of the next general election will be competed in all districts in Sri Lanka. "
 
 ◼️
 
 [Data](articles/5aaa3653.json)
 
+[Extended Data](ext_articles/5aaa3653.ext.json)
+
 ---
 
-### පාළු නිවසක පැවැත්වූ ෆේස්බුක් පාටිය වටලයි - තරුණ තරුණියන් 18ක් අල්ලයි
+### Facebook Wata held in a lonely home - 18 youths arrested
 
 *2024-09-30 19:12:04* · [`adalk`](https://www.ada.lk/breaking_news/පාළු-නිවසක-පැවැත්වූ-ෆේස්බුක්-පාටිය-වටලයි---තරුණ-තරුණියන්-18ක්-අල්ලයි/11-412238) · `si`
 
-රාගම පොලිස් බල ප්‍රදේශයට අයත් ගණේමුල්ල කැන්දලියැද්ද පා‍ළුව ප්‍රදේශයේ පාළු නිවසක පැවති සාදයක් වටලා මත්කුඩු පානය කරමින් සිටි තරුණ පිරිසක් පොලිස් අත් අඩංගුවට ගෙන ඇත.
+Facebook Watch: Youth arrested in Ganemulla raid. 18 teens, 2 girls aged 15-19 found in house. Police investigation ongoing.
 
-රාගම පොලිසියට  පෞද්ගලිකව  ලද තොරතුරක් මත පොලිසිය එම  නිවස වැටළූ අවස්ථාවේදී එහි  තරුණ තරුණියන් 18  දෙනෙකු මත්ද්‍රව්‍ය පානය කරමින් සිට ඇති අතර ඔවුන් සන්තකයේ  තිබූ  මත්කුඩු මත්පෙති ගංජා ආදී මත්ද්‍රව්‍ය  පොලිස් භාරයට  ගෙන ඇත.
+🟩
 
-මෙම කණ්ඩායමේ  තරුණයන් දහසය දෙනෙක් සහ තරුණියන්  දෙදෙනකු  සිටින බවත් ඔවුන් වයස අවුරුදු  15ත්19  ත් අතර කාණ්ඩයට අයත් වන බවත් පොලිසිය පැවසීය.
+A youth arrested for a lone house in Kandaliyadda Basal area of ​​Ganemulla belonging to the Ragama Police area.
 
-ඉන් එක් තරුණියකගේ පියා විදේශ ගත රැකියාවක නිරතවන අතර  මව පව්ලෙන් වෙන්වී ඇතැයිද තරුණිය තනිව ජීවත්වෙන බවද  පොලිස්  විමර්ශන වලදී අනාවරණය වී ඇත.
+The police have been drinking drugs at the raid of the police on a tip off received by the police.
 
-...
+Police said that the group had sixteen youths and two young girls and that they are between 15 and 19 years of age.
+
+According to police investigations, one of the girl's father is abroad and the mother has been separated from the mother.
+
+The youth has joined the party from Kotahena, Dematagoda, OIC of the Ragama Police Station, covering the house with a roller gate and cover the house.The house has been raided by a group of officers.
+
+The police were present at the Mahara Magistrate's 30 youths and had come to the Mahara, who was arrested and had come to the guardians of the youth and returned to the guardians of the police.
+
+Ragama Police OIC Chief Inspector Buddhika Rajapaksa said that these youths have been identified through the face of their youth.
+
+◼️
 
 [Data](articles/59799340.json)
 
+[Extended Data](ext_articles/59799340.ext.json)
+
 ---
 
-### தேனிலவு விரைவில் முடிந்து விடும்
+### Honeymoon will be over soon
 
 *2024-09-30 19:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேனிலவு-விரைவில்-முடிந்து-விடும்/175-344725) · `ta`
 
-தற்போது தேசிய மக்கள் சக்தியாக (NPP) அதிகாரத்தில் இருக்கும் ஜனதா விமுக்தி பெரமுன (ஜேவிபி) பரிணாம வளர்ச்சியடைந்துள்ளதுடன், ஜேவிபிக்கும் என்பிபிக்கும் (தேசிய மக்கள் சக்தி) இடையிலான வேறுபாடு தெளிவாகத் தெரிகிறது என முன்னாள் பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தெரிவித்துள்ளார்.
+Wimal Weerawansa comments: JVP evolves into NPP, supports current government efforts. Honeymoon period ends, revealing true character of any new administration.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த வீரவன்ச, நாட்டை முன்னேற்றுவதற்கு தேசிய மக்கள் கட்சி நடவடிக்கை எடுக்கும் என நம்பிக்கை தெரிவித்தார்.
+🟩
 
-"ஜே.வி.பி எனது முன்னாள் கட்சியாக இருந்ததால், தேசத்தை உயர்த்துவதற்கான தற்போதைய அரசாங்கத்தின் முயற்சிகளுக்கு எமக்கு எந்த ஆட்சேபனையும் இல்லை" என்று அவர் கூறினார்.
+Former parliamentarian Wimal Weerawansa has said that the difference between JVP and the JVP (National People's Power) is clearly evolving and the JVP has evolved as the National People's Power (NPP).
 
-கோட்டாபய ராஜபக்ச நிர்வாகத்தில் காணப்படுவது போல் ஒவ்வொரு புதிய அரசாங்கமும் தேனிலவு காலத்தை அனுபவிக்கிறது, ஆனால் அரசாங்கத்தின் உண்மையான தன்மை காலப்போக்கில் வெளிப்படும் என்றும் அவர் கூறினார்.
+Commenting on the media, Weerawansa hoped that the National People's Party would take action to improve the country.
+
+“Since the JVP was my former party, we have no objection to the current government's efforts to raise the nation.”
+
+He said that every new government is experiencing honeymoon time, as in the Gotabhaya Rajapaksa administration, but the real character of the government will emerge over time.
 
 ◼️
 
 [Data](articles/c3725e49.json)
+
+[Extended Data](ext_articles/c3725e49.ext.json)
 
 ---
 
@@ -192,19 +240,25 @@ The former members who are not re-elected in the General Election are required t
 
 ---
 
-### බැංකු පද්ධතියට ඇති අනතුරක් අධිකරණයේදී දිග හැරෙයි
+### The banks of the banking system unfolds in court
 
 *2024-09-30 18:08:22* · [`adalk`](https://www.ada.lk/breaking_news/බැංකු-පද්ධතියට-ඇති-අනතුරක්-අධිකරණයේදී-දිග-හැරෙයි/11-412235) · `si`
 
-යුක්ක්‍රේන, ඉන්දීය සහ බල්ගේරියන් සයිබර් අපරාධකරුවන් රටට ඇතුළු වී කරන මුදල් වංචා හේතුවෙන් මෙරට බැංකු පද්ධතිය කඩා වැටී ජාතික ආර්ථිකයට විශාල බලපෑමක් එල්ල විය හැකි බව රහස් පොලිසිය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතාට අද (30) දැනුම් දුන්නේය.
+Sri Lanka: Cybercrime case against Ukrainian suspects in banking system collapse. Two youth officers remanded for investigation. Magistrate orders detention. Case linked to private bank and online income schemes.
 
-අන්තර්ජාලය හරහා සිදුවන වංචා හේතුවෙන් මෙරට බැංකු පද්ධතිය කෙරෙහි ජනතා විශ්වාසය බිඳ වැටීමට හැකියාව ඇති හෙයින් එම සයිබර් අපරාධකරුවන්ගේ ජාලය පිළිබඳව විශේෂ විමර්ශනයක් කරන බව දැනුම් දුන් රහස් පොලිසියේ අන්තර්ජාල ආවේක්ෂණ විශේෂ බුද්ධි ඒකකයේ නිලධාරීන් මෙම අපරාධයට සම්බන්ධ සයිබර් අපරාධකරුවන් බව කියමින් අධිකරණයට ඉදිරිපත් කළ යුක්‍රේන ජාතික තරුණයින් දෙදෙනෙකු රිමාන්ඩ් බාරයේ රඳවා තැබීමට මහෙස්ත්‍රාත්වරයා නියම කළේය.
+🟩
 
-මෙලෙස රිමාන්ඩ් බාරයට පත් කරන ලද්දේ ප්‍රධාන පෙළේ පෞද්ගලික බැංකුවක සංවත්සරය වෙනුවෙන් ත්‍යාග ලබාදෙන බවට සහ ඔන්ලයින් ආදායම් මාර්ග හඳුන්වා දෙන බවට ‘ෆෙස්බුක්’ සහ ‘ටෙලිග්‍රැම්’ ඔස්සේ දැන්වීම් ප්‍රචාරය කර රුපියල් ලක්‍ෂ 36කට අධික මුදලක් වංචා කළැයි කියන හරුනොව් නිකිතා සහ සෙවෙට්ස් ලිබොමීර් නැමැති යුක්‍රේන ජාතික තරුණයින් දෙදෙනෙකි.
+The CID informed Colombo Chief Magistrate Thilina Gamage today (30), the CID crashes the Sri Lankan banking system that could climb the national economy due to the cyber cyber criminals.
+
+Two Ukrainian youth officers who were informed of the criminal criminals of the cyber criminals have been remanded as a special investigation in the Sri Lankan banking framework due to the criminal criminals of the cyber criminals.The Magistrate ordered to be held in the back.
+
+The remand was handed over to the anniversary of a leading private bank and introduces online income roads and introduce online incomeTwo people.
 
 ◼️
 
 [Data](articles/3f8e5486.json)
+
+[Extended Data](ext_articles/3f8e5486.ext.json)
 
 ---
 
@@ -1508,6 +1562,36 @@ Speaking to the media in August ahead of the presidential election, Cabinet spok
 
 ---
 
+### Did you know this information about breast cancer?
+
+*2024-09-30 12:46:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz7j1dpre9po) · `si`
+
+Priyantha Weerasuriya rose from constable to Acting Inspector General of Police (IGP) in Sri Lanka. He served as the Acting IGP from 2017 to 2018, overseeing law enforcement operations during his tenure.
+
+🟩
+
+Cancer is the mainstay between non-communicable diseases with a risk of life.
+
+Among women is common among women in the world and in Sri Lanka and breast cancer.
+
+Due to breast cancer, the lives of nearly 1000 women in Sri Lanka is lost in a year, and in the early days, breast cancer can completely cure breast cancer.
+
+Do you know that many people have believed in breast cancer?
+
+The month of October was named as a breast cancer awareness month.
+
+"All cancers are most of the world's most breast cancer. The abundance of women and the most common cancer of women is breast cancer, "Community Medical Experts of the National Cancer Control Program.
+
+According to the data collected by the doctor, 5,485 women in Sri Lanka have identified 5,485 breast cancer and 124 men have been diagnosed with breast cancer.
+
+...
+
+[Data](articles/535aac80.json)
+
+[Extended Data](ext_articles/535aac80.ext.json)
+
+---
+
 ### Kamala Harris campaign momentum shows no sign of waning
 
 *2024-09-30 12:43:00* · [`islandlk`](http://island.lk/kamala-harris-campaign-momentum-shows-no-sign-of-waning/) · `en`
@@ -2383,49 +2467,5 @@ Meanwhile, the acting IGP has taken steps to attach the officers who were workin
 [Data](articles/49e78278.json)
 
 [Extended Data](ext_articles/49e78278.ext.json)
-
----
-
-### Protests in Tamil Nadu over detention of 17 fishermen in Sri Lanka
-
-*2024-09-30 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102348/protests-in-tamil-nadu-over-detention-of-17-fishermen-in-sri-lanka) · `en`
-
-Fishermen from Tamil Nadu took to the streets on Sunday, staging a protest against the Sri Lankan Navy’s detention of 17 Indian fishermen and seizure of two boats off Rameswaram’s coast.
-
-In the visuals, protesters, comprising men and women, were sitting on the streets, raising their voices and chanting slogans.
-
-Notably, the apprehended fishermen have been identified as Markmillan (37), Milton (49), Ronald (48), Sesuraja (45), Jeevan Frisher (22), Suresh (45), Arul Dhinakaran (24), Durai (39), and Maria Sethin (26) from Thangachimadam, as well as Ardiya Nicho (26), Jebastian (38), Rajeev (36), Vivek (36), Innachie (36), Samuel (33), Brichan (31), and Bhaskaran (30).
-
-The two boats that were seized belonged to fishermen Thangachimadam Vyadaraj and Thangachimadam Selvam.
-
-According to the Rameswaram fishermen association, the apprehended fishermen were fishing in the Palk Bay area near Nedunthivu, having set out to sea with 309 boats.
-
-...
-
-[Data](articles/3162e90c.json)
-
-[Extended Data](ext_articles/3162e90c.ext.json)
-
----
-
-### IMF team to visit Sri Lanka this week
-
-*2024-09-30 09:25:00* · [`economynextcom`](https://economynext.com/imf-team-to-visit-sri-lanka-this-week-181498/) · `en`
-
-ECONOMYNEXT – A team from the International Monetary Fund will visit Sri Lanka this week and also meet President Anura Kumara Dissanayake, a top official said.
-
-The IMF team is making a courtesy call, Anil Jayantha, at this time, the head of the Economic Council of the President’s National people’s Power party said.
-
-President Dissanayake in his inaugural national address said Sri Lanka expected to begin discussions with the IMF as well as creditors as soon as possible.
-
-The NPP has said they would seek to revise sections of the program.
-
-President Dissanayake was elected in September when a review of the IMF program was due on the original schedule.
-
-◼️
-
-[Data](articles/506934dd.json)
-
-[Extended Data](ext_articles/506934dd.ext.json)
 
 ---

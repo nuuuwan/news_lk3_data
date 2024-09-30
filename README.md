@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 01:23:02**
+As of **2024-10-01 01:38:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,089 (100.0%) of 47,093 articles have been extended.
+47,091 (100.0%) of 47,093 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -204,6 +204,8 @@ An outspoken activist justified his support for Anura Kumara Dissanayake (AKD) b
 
 [Data](articles/02f57cfb.json)
 
+[Extended Data](ext_articles/02f57cfb.ext.json)
+
 ---
 
 ### Israel's next preparation
@@ -247,6 +249,8 @@ There are many election manifestos flying around these days issued by the major 
 ...
 
 [Data](articles/2027a3d2.json)
+
+[Extended Data](ext_articles/2027a3d2.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 01:57:47**
+As of **2024-10-01 02:09:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,099 (100.0%) of 47,102 articles have been extended.
+47,102 (100.0%) of 47,102 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -185,6 +185,8 @@ The TeDi Fleet mobile app, launched in collaboration with The Connection Worksho
 ...
 
 [Data](articles/8c6d8f80.json)
+
+[Extended Data](ext_articles/8c6d8f80.ext.json)
 
 ---
 
@@ -422,6 +424,8 @@ In plain language, IMF is only about getting back to the rotten and festering pa
 
 [Data](articles/a5dbb579.json)
 
+[Extended Data](ext_articles/a5dbb579.ext.json)
+
 ---
 
 ### “Don't go to Syria” warns Sri Lankans
@@ -459,6 +463,8 @@ Since March 2024, I have written 24 articles about the change Sri Lanka and its 
 ...
 
 [Data](articles/595a4b6c.json)
+
+[Extended Data](ext_articles/595a4b6c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 21:23:13**
+As of **2024-09-30 21:38:59**
 
 ## Newspaper Stats
 
-*Scraped **47,059** Articles*
+*Scraped **47,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 469
 islandlk | 2,762
 economynextcom | 2,856
 dailyftlk | 3,145
-adalk | 4,352
+adalk | 4,354
 dailymirrorlk | 4,733
-adaderanalk | 5,535
+adaderanalk | 5,536
 tamilmirrorlk | 6,324
 virakesarilk | 7,528
 adaderanasinhalalk | 8,137
@@ -26,21 +26,45 @@ adaderanasinhalalk | 8,137
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,058 (100.0%) of 47,059 articles have been extended.
+47,059 (100.0%) of 47,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
 
-### හංවැල්ලේ වෙඩිතැබීමක්
+### Person shot dead in Hanwella
+
+*2024-09-30 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102361/person-shot-dead-in-hanwella) · `en`
+
+A person has reportedly been shot dead in the Niripola area in Hanwella today.
+
+Accordingly, a 55-year-old businessman has been gunned down inside his house, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/c018345d.json)
+
+---
+
+### Shooting Hanwella
 
 *2024-09-30 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201702) · `si`
 
-පොලීසිය සඳහන් කළේ එම පුද්ගලයා නිවසේ සිටියදී මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Shooting incident: Victim removed from home during police investigation."
+
+🟩
+
+Police said the victim had been carried out while at home.
 
 ◼️
 
 [Data](articles/baeb402c.json)
+
+[Extended Data](ext_articles/baeb402c.ext.json)
 
 ---
 
@@ -104,6 +128,22 @@ May the controversial man of Sri Lankan politics and the Sinhalese of the Blackt
 
 ---
 
+### කොරියා, ඩුබායි රැකියා සිහින මවා මුදල් ගැරූ කතුන් දෙදෙනා අල්ලයි
+
+*2024-09-30 19:29:34* · [`adalk`](https://www.ada.lk/breaking_news/කොරියා--ඩුබායි-රැකියා-සිහින-මවා-මුදල්-ගැරූ-කතුන්-දෙදෙනා-අල්ලයි/11-412240) · `si`
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ වලංගු බලපත්‍රයක් නොමැතිව විදේශ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ කාන්තාවන් දෙදෙනෙකු කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+දකුණු කොරියාවේ රැකියා ලබාදෙන බව පවසා පුද්ගලයින් තිදෙනෙකුගෙන් රුපියල් ලක්ෂ 5 බැගින් රුපියල් ලක්ෂ 15ක් හා ඉතාලියේ රැකියා ලබාදෙන බව පවසා පුද්ගලයෙකුගෙන් රු.730,000 ක මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් බවට කාර්යාංශයට ලද පැමිණිලි 4ට අදාළව මහනුවර ප්‍රදේශයේ පදිංචි කාන්තාවක් ඇයගේ නිවසේදී විමර්ශන නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+
+අත්අඩංගුවට ගත් කාන්තාව මහනුවර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව එක් නඩුවක් සඳහා රුපියල් ලක්ෂ 10 බැගින් ශරීර ඇප 2 බැගින්, නඩු 4 සඳහාම දඩුවම් නියම කර නිදහස් කිරීමට මහේස්ත්‍රාත්වරයා නියෝග කළේය.
+
+...
+
+[Data](articles/748eb9ba.json)
+
+---
+
 ### Avoid traveling to Lebanon and Syria
 
 *2024-09-30 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201699) · `si`
@@ -121,6 +161,24 @@ The travel consultancy was issued due to the conflict situation in the two count
 [Data](articles/5594d62c.json)
 
 [Extended Data](ext_articles/5594d62c.ext.json)
+
+---
+
+### මල්වට්ටියට වාර්තා ගත මිලක්
+
+*2024-09-30 19:17:14* · [`adalk`](https://www.ada.lk/breaking_news/මල්වට්ටියට-වාර්තා-ගත-මිලක්/11-412239) · `si`
+
+කරුවලගස්වැව ප්‍රාදේශීය  ශාසනාරක්ෂක බල ප්‍රදේශයට අයත් මූණමල්ගස්වැව ශ්‍රී සුබෝධාරාම විහාරස්ථානයේ අභිනව විහාර මන්දිරය ඉදිකිරීමට ආධාර පිණිස සංවිධානය කළ පිංකම් මාලාවක එක්දිනක රාත්‍රී පැවැති මල්බඳුන් වෙන්දේසියට ඉදිරිපත් කළ මල්බඳුන රුපියල් හත්ලක්ෂ දසදහසක (7,10,000/=) වාර්තාගත මුදලකට වෙන්දේසි වී තිබේ.
+
+එම විහාරස්ථානයේ විහාරාධිපති රාජකීය පණ්ඩිත මූණමල්ගස්වැව අනුරුද්ධ හිමියන්ගේ අනුශාසනා පරිදි විහාරස්ථ දායක සභාව මෙම පිංකම් මාලාව සංවිධානයකර ඇත.
+
+ඒ අනුව ඉකුත් 27 හා 28 දෙදින රාත්‍රී මෙම පිංකම් මාලාව පවත්වා ඇති අතර එහි අවසාන දිනය වූ 28 දා රාත්‍රී පැවැති මල්බඳුන් වෙන්දේසියට ඉදිරිපත් කළ මල්බඳුන (මල්වට්ටිය) මෙසේ වාර්තාගත මුදලකට වෙන්දේසි වූ බව විහාරාධිපති රාජකීය පණ්ඩිත මූණමල්ගස්වැවේ අනුරුද්ධ හිමියෝ පැවසූහ.
+
+මෙහිදී මල් බඳුන අවසානයට වෙන්දේසි වූ මුදල දක්වා ඔසවා තැබීමට ගම්වැසි තරුණයන් දෙදෙනෙකු එකවර රුපියල් එක්ලක්ෂ හැතෑදහසක මුදලක් ඊට පරිත්‍යාගකර ඇති අතර, ඒ අනුව ඔවුන් ලබාගත් අලංකාරවත් මල් බඳුන එහි සිටි සැදැහැවතුන්ගේ ද සාදුකාර මධ්‍ය යේ විහාරස්ථානයේ බුදු පිළිමවහන්සේ වෙත පූජාකර ඇත.
+
+◼️
+
+[Data](articles/60c17197.json)
 
 ---
 
@@ -2379,85 +2437,5 @@ However, it is not clear whether the current government will support the decisio
 [Data](articles/3f5f7927.json)
 
 [Extended Data](ext_articles/3f5f7927.ext.json)
-
----
-
-### Israel's flight - six -year -old Lebanon girl fighting for life in hospital
-
-*2024-09-30 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195113) · `ta`
-
-Lebanon conflict: Six-year-old girl injured in Israeli strike. Family describes chaos as missiles hit Bekaa Valley.
-
-🟩
-
-In the mountains of the Beka Valley -like Beirut, these days death can come from the sky at any time.
-
-Israel targeted the area for a whole day.
-
-Six -year -old girl Noor Mossavi is one.
-
-'The person who can make the environment of the house is very funny, the house is empty in his absence. He wants to meet new people. "
-
-Shortly before the Israeli attack, he shows a picture of his daughter.
-
-I was consoled not to be afraid of her daughter when the attack began, and if she was taking the Lord for help, the mother says.
-
-Reema Noor and her twin skewers were hiding in the doorstep of the door to begin to hear the bomb noise.
-
-He said that we were hesitant to go home because the building would collapse if it was attacked.
-
-Reema says that the missile has come very fast until I lift Nur and his brother when I heard the bomb very seriously.
-
-While we were talking to them, there is a danger over the head again.
-
-...
-
-[Data](articles/157957d4.json)
-
-[Extended Data](ext_articles/157957d4.ext.json)
-
----
-
-### Former MP Kumarasiri Ratnayake is in danger due to a wasp
-
-*2024-09-30 10:59:48* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මන්ත්‍රී-කුමාරසිරි-රත්නායක-බඹරෙක්-නිසා-අනතුරක/11-412226) · `si`
-
-Former MP Kumarasiri Ratnayake in danger after wasp incident during inauguration ceremony. No injuries reported but vehicle damaged. Police investigating.
-
-🟩
-
-Moneragala Police say that the Cabinet of Moneragala District Parliamentarian Kumarasiri Ratnayake has been inaugurated on the Nakalawatta road on the Nakalawatta road on the 29th (29).
-
-The former MP has served as the driver of the site and a piece of wasp entered.
-
-While trying to get out of the road, the corporation was unable to control the road and fell along the road.
-
-The former MP has not been injured in the accident, and the ato-piece has been damaged. Moneragala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/68e838c7.json)
-
-[Extended Data](ext_articles/68e838c7.ext.json)
-
----
-
-### Sri Lanka’s Hela Apparel raises Rs1.5bn in rights issue
-
-*2024-09-30 10:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-hela-apparel-raises-rs1-5bn-in-rights-issue-181508/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hela Apparel Holdings Plc has raised 1.5 billion rupees through a rights issue it said.
-
-Hela apparel’s issue of 319,514,110 ordinary voting shares raised 1,597,570,550 rupees, the company said in a stock exchange filing.
-
-When announcing the issue in June, the company said the funds would be made “available to the sub-subsidiary of the Company to enable such entity to settle existing bank borrowings.”
-
-Earlier this year the company acquired Focus Brands, a UK based brand licensing house, for 8 million sterling pounds. (Colombo/Sep30/2024)
-
-◼️
-
-[Data](articles/b8b21919.json)
-
-[Extended Data](ext_articles/b8b21919.ext.json)
 
 ---

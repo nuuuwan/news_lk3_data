@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 20:57:38**
+As of **2024-09-30 21:10:16**
 
 ## Newspaper Stats
 
-*Scraped **47,057** Articles*
+*Scraped **47,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,535
 tamilmirrorlk | 6,324
 virakesarilk | 7,528
-adaderanasinhalalk | 8,135
+adaderanasinhalalk | 8,136
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,057 (100.0%) of 47,057 articles have been extended.
+47,058 (100.0%) of 47,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Sellent land sellers live - former President Chandrika
+
+*2024-09-30 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201701) · `si`
+
+Former President Chandrika Bandaranaike Kumaratunga claims no pension, sells land. Blames Mahinda Rajapaksa for withholding benefits.
+
+🟩
+
+Former President Chandrika Bandaranaike Kumaratunga said that retired from his presidency had had no money in his bank account and now selling land.
+
+When contacted, she said this in response to political political.
+
+Further, Kumaratunga said he would not have anything from the government.
+
+She also said that the former President Mahinda Rajapaksa did not give him nine years of pension.
+
+"We haven't even done any of the. It was given to others, not. As the president's return home, my bank account, over Draft. Later, selling land sell now. I don't get anything from the government. Mahinda Rajapaksa's nine years did not give me the Pence. My staff pays my staff. Light bills, water bills I. I have received the government, 4 vehicles. I'm a jeep, a car.  ආරක්ෂකයින්ට දෙකක් තියෙනවා. There are 4 cars, but at all. I have no shame to get on the bus ".
+
+◼️
+
+[Data](articles/779dc968.json)
+
+[Extended Data](ext_articles/779dc968.ext.json)
+
+---
 
 ### The lion of the Kalgantatota goes out forever
 
@@ -2451,29 +2477,5 @@ The police said that the suspect is connected to the "Thotalanga Cheana Cheana '
 [Data](articles/08366dd3.json)
 
 [Extended Data](ext_articles/08366dd3.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 297.25/75 to US dollar, bond yields up
-
-*2024-09-30 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-297-25-75-to-us-dollar-bond-yields-up-181500/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated to open at 297.25/75 to the US dollar on Monday, from 298.70/299.00 a day earlier, while bond yields were up dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.60/70 percent, up from 11.40/55 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.80/90 percent, up from 11.75/85 percent.
-
-A bond maturing on 15.06.2029 was quoted at 11.90/12.00 percent, from 11.90/12.05 percent.
-
-A bond maturing on 15.05.2030 was quoted at 12.00/20 percent, up 11.90/12.05 percent.
-
-In equities, Colombo’s All Share Price Index opened 0.87 percent, or 102.87 points higher at 11,876, while the S&P SL20 of more liquid stocks opened up 1.19 percent or 40.49 points higher at 3,450.
-
-◼️
-
-[Data](articles/b4cd90a3.json)
-
-[Extended Data](ext_articles/b4cd90a3.ext.json)
 
 ---

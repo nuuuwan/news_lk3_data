@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 16:12:35**
+As of **2024-09-30 16:38:28**
 
 ## Newspaper Stats
 
-*Scraped **47,009** Articles*
+*Scraped **47,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,132 @@ colombotelegraphcom | 469
 islandlk | 2,762
 economynextcom | 2,848
 dailyftlk | 3,144
-adalk | 4,343
+adalk | 4,346
 dailymirrorlk | 4,733
-adaderanalk | 5,530
-tamilmirrorlk | 6,319
+adaderanalk | 5,531
+tamilmirrorlk | 6,321
 virakesarilk | 7,518
-adaderanasinhalalk | 8,126
+adaderanasinhalalk | 8,128
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,009 (100.0%) of 47,009 articles have been extended.
+47,017 (100.0%) of 47,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Spoon heated his daughter's body
+
+*2024-09-30 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201693) · `si`
+
+Kandy Police arrest mother for burning daughter's body. Child hospitalized, father accused. Investigation ongoing.
+
+🟩
+
+The Kandy Children's and Women's Bureau has been arrested by the Child and Women's Bureau of the Kandy Police.
+
+After the mother was produced in court, Marswaratne Navaratne was remanded until October 4.
+
+Police say the burn wounds of the girl were at around two inches magnitude, police said.
+
+Investigations have revealed that the mother had been burnt to the daughter to go back to pre-school.
+
+The burned child has been admitted to the Kandy National Hospital for treatment.
+
+The father of the child had told the police a statement that he had burned the body to the body and burned several places in the body of her daughter.
+
+Two husbandi laws were submitted to the court of the daughter.
+
+The Divisions Children's and Women's Bureau is conducting further investigations on the instructions of the Kandy Superintendent of Police Anuruddha Bandaranaike.
+
+◼️
+
+[Data](articles/051db63e.json)
+
+[Extended Data](ext_articles/051db63e.ext.json)
+
+---
+
+### Two women arrested for defrauding the country job dreams
+
+*2024-09-30 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201692) · `si`
+
+Two women arrested for fraudulently obtaining jobs abroad. They were expecting money from the Sri Lanka Bureau of Foreign Employment but lacked proper licenses. One was fined 400,000 rupees, while the other was remanded until October 04. The bureau plans to pursue legal action against both suspects.
+
+🟩
+
+The Bureau's Special Investigation Division has arrested two women who were expecting the money that the Sri Lanka Bureau of Foreign Employment would be given foreign employment without a valid license.
+
+A person has obtained Rs.
+
+However, a woman from a resident of the Kandy area has been arrested by the Investigation Officers in her home.
+
+The arrestedwoody was produced before the Kandy Magistrate's Court and then punished the 4 lakhs of Rs.
+
+Meanwhile, a resident of the Galagedara area has been arrested by a resident of Galagedara, a sum of Rs.
+
+The suspect was produced before the Galagedara Magistrate's Court and remanded until October 04.
+
+The bureau is being taken to further the Bureau against the suspect and will be taken to take over the complaints.
+
+◼️
+
+[Data](articles/7be16dcb.json)
+
+[Extended Data](ext_articles/7be16dcb.ext.json)
+
+---
+
+### President’s Office releases full list of 107 vehicles and who used them
+
+*2024-09-30 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102357/presidents-office-releases-full-list-of-107-vehicles-and-who-used-them) · `en`
+
+The President’s Office has issued a clarification regarding the various statements and opinions being expressed pertaining to the vehicles which have been parked in the premises near the Presidential Secretariat in Colombo.
+
+It stated that 107 vehicles which were handed over to the Presidential Office in the last few days, as notified after the appointment of the new President, have been temporarily parked in the premises outside the Presidential Secretariat under police protection.
+
+The announcement also states that the said vehicles were not provided to the regular staff of the Presidential Secretariat and were provided by the former President to his private staff appointed under Article 41(1) of the Constitution during his tenure.
+
+It also states that these vehicles are parked in the premises outside the Presidential Secretariat because it is not possible to park so many vehicles inside the Presidential Secretariat premises.
+
+...
+
+[Data](articles/a2517d1e.json)
+
+[Extended Data](ext_articles/a2517d1e.ext.json)
+
+---
+
+### Firing in Nuwara Eliya: One injury
+
+*2024-09-30 15:55:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-துப்பாக்கிச்-சூடு-ஒருவர்-காயம்/76-344714) · `ta`
+
+Nuwara Eliya shooting: 1 injured, 4 arrested during police excavation operation in Elamalai forest. Suspects aged 40-45, including suspended officer. Victim hospitalized in Kandy. Investigation ongoing.
+
+🟩
+
+It is reported that one person was injured and admitted to the hospital in a shooting of policemen who attempted to excavate treasure in the Elamalai forest area of ​​Valappanai and Mandaram Nuwara police division.
+
+Based on the confidential information available to the Mandaram Nuwara police, the police carried out a raid on Monday morning (30).
+
+At the time, the suspects are trying to escape. By then, the police fired. One of them was injured. Police have arrested four fugitives.
+
+The arrested suspects were between 40 and 45 years old and a temporary suspended police officer included, police said.
+
+The man who was injured in the shooting (41) was admitted to the Rigilkasada Hospital and was transferred to the Kandy Teaching Hospital for further treatment, police said.
+
+Further investigations are being carried out with the help of the Mandaram Nuwara police and the Nuwara Eliya Forensic Police.
+
+◼️
+
+[Data](articles/675abe62.json)
+
+[Extended Data](ext_articles/675abe62.ext.json)
+
+---
 
 ### 900 kilograms of bomb found Nasaralla
 
@@ -93,6 +203,30 @@ Also, the non-food annual inflation (point) is up to - 0.4% of the non-food annu
 [Data](articles/0a32db73.json)
 
 [Extended Data](ext_articles/0a32db73.ext.json)
+
+---
+
+### Adjournment of the case against Wimal
+
+*2024-09-30 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமலுக்கு-எதிரான-வழக்கு-ஒத்திவைப்பு/175-344709) · `ta`
+
+Wimal Weerawansa case adjourned UN HQ protest charges postponed Oct 28 hearing
+
+🟩
+
+The case against Wimal Weerawansa has been postponed until next month.
+
+When the United Nations Human Rights Commissioner Prince Syed Al -Hussein visited Sri Lanka in 2016, the case was filed against former ministers Wimal Weerawansa, Veera Kumara Dissanayake, Mohammed Muzammil and Roger Seneviratne on charges of preventing the headquarters of the United Nations in Dummulla in Colombo..
+
+The Colombo Chief Magistrate's Court has ordered the hearing of the further evidence of the case on October 28.
+
+The order was issued when the case was taken up for hearing in the presence of Colombo Chief Magistrate Thilina Kamage on Monday (30).
+
+◼️
+
+[Data](articles/e254f7b9.json)
+
+[Extended Data](ext_articles/e254f7b9.ext.json)
 
 ---
 
@@ -260,6 +394,32 @@ There may be temporary localized strong winds during thundershowers while the ge
 
 ---
 
+### Complaint of substandard results - complains to CID
+
+*2024-09-30 14:38:08* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රමිතියෙන්-තොර-ප්‍රති-දේහ-එන්නත්-යළිත්-මෙරටට-ගෙන්වලා---සී-අයි-ඩී-යට-පැමිණිල්ලක්/11-412230) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dr. Chamal Sanjeewa removed from India over substandard pharmaceuticals. Complains to CID about criminal investigation. Medical supply director says imported stock removed due to quality issues.
+
+🟩
+
+Dr. Chamal Sanjeewa, chairman of medical and civil rights doctors, has been removed from India and the pharmaceutical stock of pharmaceuticals has been completely removed in September last September.
+
+He was speaking to the media after a complaint with the Criminal Investigation Department today (30).
+
+The Director of the Medical Supply Dias, the Director of the Medical Supply Dias, the Director of the Medical Support Dias states that the country is imported from India after the arrest of Minister Keheliya Rambukwella.. It is said that the stock of the emiyuglobourin was substandard and was completely removed from the use of those stocks of this year.
+
+◼️
+
+[Data](articles/848089e4.json)
+
+[Extended Data](ext_articles/848089e4.ext.json)
+
+---
+
 ### Rain for pouring;Homes that are completely treasured;More than 200 people killed in Nepal
 
 *2024-09-30 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/195133) · `ta`
@@ -315,6 +475,36 @@ They have requested the public to take necessary steps to minimize the damages c
 [Data](articles/285adb3f.json)
 
 [Extended Data](ext_articles/285adb3f.ext.json)
+
+---
+
+### Farmers are helpless without a price for local big louns
+
+*2024-09-30 13:55:20* · [`adalk`](https://www.ada.lk/picture_story/දේශීය-ලොකු-ලූණුවලට-මිලක්-නොමැතිව-ගොවීන්-අසරණ-වෙයි/10-412229) · `si`
+
+Sri Lanka: Local onion farmers struggle due to low prices, high production costs. They seek fair pricing from the government to sustain their livelihoods.
+
+🟩
+
+The big onions farmers of the Arahera farmers of the farmers of Polonnaruwa are very difficult to cultivate their harvest last year.
+
+There have been a large number of local onions cultivated in nearly 150 acres of the Yala season and the farming campaign has been affected by the fertile land, Nicketa, Ekayuwewa, Ganga, Batawaaya, Bathena, and the villages.
+
+The farmers have a livelihood of agriculture, about 70 percent of the large onions farmers in the farmer colony.
+
+Farmers claim that the price of oil has increased in price, the price of oil has increased in price and remove the price of the world when it comes to the loss of each fertilization.
+
+They further state to the harvest, "when the government is priced at a low price of local big onions at a lower price.
+
+Healara grows growers as a sum of Rs.
+
+It is also a large kilo of salt in the market a week ago and that it has no properly fair price to harvest due to Rs. 210.
+
+...
+
+[Data](articles/b5f78192.json)
+
+[Extended Data](ext_articles/b5f78192.ext.json)
 
 ---
 
@@ -583,6 +773,28 @@ In 1978, the government of J. R. Jayewardene enacted a new Constitution which tr
 [Data](articles/7cca890e.json)
 
 [Extended Data](ext_articles/7cca890e.ext.json)
+
+---
+
+### The girl who keeps a cannabis cigar
+
+*2024-09-30 12:28:43* · [`adalk`](https://www.ada.lk/breaking_news/ගංජා-සුරුට්ටුවක්-ළඟ-තබාගත්-තරුණියට-වැඩ-වරදියි/11-412228) · `si`
+
+A 19-year-old woman from Horagolla was fined by the Court of Mahara No 01 for possessing a cannabis cigar. She was arrested by Kiribathgoda Police and appeared in court 90071 and 10789.
+
+🟩
+
+The Court of Mahara No 01 The Court of Harvesta Kanchana de Silva was appointed to pay a fine of Rs.
+
+The fines was given to a 19 year old resident of Horagolla area in Ganemulla.
+
+The girl arrested by Kiribathgoda Police was produced before the courts (90071) and Kosasinghe (10789).
+
+◼️
+
+[Data](articles/c343f264.json)
+
+[Extended Data](ext_articles/c343f264.ext.json)
 
 ---
 
@@ -2153,143 +2365,5 @@ This latest sustainability commitment of the Bank entails funding the restoratio
 [Data](articles/bd068a25.json)
 
 [Extended Data](ext_articles/bd068a25.ext.json)
-
----
-
-### Hirdaramani’s net zero science-based target approved by SBTi
-
-*2024-09-30 02:47:00* · [`islandlk`](http://island.lk/hirdaramanis-net-zero-science-based-target-approved-by-sbti/) · `en`
-
-Hirdaramani Apparel recently announced that its Net-Zero Science Based Targets have been officially approved by the Science Based Targets initiative (SBTi). Hirdaramani is also the first organisation in Sri Lanka to have secured this key milestone.
-
-This achievement underscores the company’s commitment to environmental sustainability as outlined in its Future First Sustainability Roadmap 2025 agenda. As part of this commitment, Hirdaramani has set ambitious near-term and net-zero targets applicable to countries within its global footprint, which include Bangladesh, Sri Lanka, and Vietnam.
-
-...
-
-[Data](articles/d1d9a689.json)
-
-[Extended Data](ext_articles/d1d9a689.ext.json)
-
----
-
-### Singapore-headquartered Jungle Kitchen well-positioned in Sri Lanka
-
-*2024-09-30 02:43:00* · [`islandlk`](http://island.lk/singapore-headquartered-jungle-kitchen-well-positioned-in-sri-lanka/) · `en`
-
-Singapore-headquartered Jungle Kitchen a fast-growing tropical grocer that specializes in sourcing, preparing, and supplying the finest vegan ingredients from across South and Southeast Asia are looking to supply jackfruit seeds, jambu, breadfruit, sambols and sauces from Sri Lanka, Indonesia, and Malaysia to their portfolio.
-
-This will give additional income to the local cottage industry that grows and makes these veggie delicacies.
-
-As a female-founded and led business, the brand was recognized as an advocate for the 2024 Summit for Action on Gender Equality by the Singapore Council of Women’s Organisations.
-
-The brand’s efforts were acknowledged by President of Singapore Tharman Shanmugaratnam. While Jungle Kitchen is flourishing in Singapore, it is anchored on Sri Lankan soil. Co-founder Mukeeta Manukulasuriya is also the CEO of Curry Mate Lanka, a Piliyandala-based brand that has been supplying ready-to-eat meals, sambals and sauces to the Sri Lankan market since 1984.
-
-...
-
-[Data](articles/4414ad87.json)
-
-[Extended Data](ext_articles/4414ad87.ext.json)
-
----
-
-### Oceanfront Service Apartments promoted as a prime investment opportunity in Marine Drive
-
-*2024-09-30 02:40:00* · [`islandlk`](http://island.lk/oceanfront-service-apartments-promoted-as-a-prime-investment-opportunity-in-marine-drive/) · `en`
-
-Oceanfront Service Apartments in the Marine Drive by the International Construction Consortium (ICC) offers a unique and lucrative investment opportunity for discerning investors. This 21-story beachfront property, featuring 118 luxurious apartments, provides excellent potential for both capital appreciation and steady rental income.
-
-What makes Oceanfront Service Apartments stand out is the fact that they are service apartments, a concept that offers greater flexibility and appeal to both short-term and long-term tenants. Investors can tap into the lucrative tourism market, with service apartments offering an attractive alternative to traditional hotels. With Colombo being a key hub for business and tourism, demand for such premium, fully managed residences is only set to rise. For both tourists and business travelers, service apartments offer the perfect blend of luxury, privacy, and convenience.
-
-...
-
-[Data](articles/54a64b31.json)
-
-[Extended Data](ext_articles/54a64b31.ext.json)
-
----
-
-### Evolution Auto with Ather Energy to introduce electric scooters in Sri Lanka
-
-*2024-09-30 02:37:00* · [`islandlk`](http://island.lk/evolution-auto-with-ather-energy-to-introduce-electric-scooters-in-sri-lanka/) · `en`
-
-Evolution Auto, in a landmark joint venture with Sensei Capital Partners, Atman Group, and Sino Lanka Private Limited, proudly announces its partnership with Ather Energy, India’s leading electric scooter manufacture, to bring Ather’s 450 series of scooters to Sri Lanka. As the official distributor of Ather, Evolution Auto aims to revolutionize mobility in Sri Lanka by offering eco-friendly and cost-effective transportation solutions that support environmental sustainability while contributing to the nation’s economic growth.
-
-Equipped with state-of-the-art technology and unmatched performance features, the Ather 450 series offers a superior riding experience with a powerful electric motor, rapid acceleration, and a top speed of 90 km/h. The scooter’s intelligent dashboard provides real-time diagnostics and navigation, extensive under-seat storage, regenerative braking, and fast-charging capabilities that achieve an 80% charge in just 60 minutes.
-
-...
-
-[Data](articles/06eedf52.json)
-
-[Extended Data](ext_articles/06eedf52.ext.json)
-
----
-
-### Fairway invites stakeholders to join in enhancing Colombo Fort’s unique tourism features
-
-*2024-09-30 02:25:00* · [`islandlk`](http://island.lk/fairway-invites-stakeholders-to-join-in-enhancing-colombo-forts-unique-tourism-features/) · `en`
-
-Colombo Fort is where history whispers through cobbled streets and colonial facades, standing tall against the backdrop of a rapidly modernizing skyline. As sleek skyscrapers rise, this district remains a timeless symbol of Sri Lanka’s heritage, offering an irresistible blend of old-world charm and urban energy. Its proximity to iconic landmarks like Galle Face Green, the Dutch Hospital, and Pettah Market makes it the perfect place where culture, history, and the rhythm of a modern city converge. Yet, despite its activity, the true potential of Colombo Fort as a global tourism and cultural hub is still waiting to be realized.
-
-...
-
-[Data](articles/a36ae1c4.json)
-
-[Extended Data](ext_articles/a36ae1c4.ext.json)
-
----
-
-### Singer marks 10 years of partnership with Sony
-
-*2024-09-30 02:22:00* · [`islandlk`](http://island.lk/singer-marks-10-years-of-partnership-with-sony/) · `en`
-
-Sony Electronics Sri Lanka and Singer Sri Lanka celebrated a landmark occasion with the joint launch of the newest Bravia TV range at the Galle Face Hotel, Colombo. The event marked not only the unveiling of cutting-edge home entertainment products but also commemorated a decade of partnership excellence between SONY and SINGER. Over the past 10 years, Singer has proudly been the distributor of Sony Electronics, delivering the finest technology and innovation to Sri Lankan households, solidifying their shared commitment to providing exceptional products and services.
-
-Among the highlights of the event was the introduction of the first-ever Mini LED TVs to the Sri Lankan market, setting a new standard in premium home entertainment. Sony’s Bravia Mini LED TVs are poised to transform the viewing experience with superior brightness, contrast, and clarity, offering an immersive visual experience like never before.
-
-...
-
-[Data](articles/5919ed93.json)
-
-[Extended Data](ext_articles/5919ed93.ext.json)
-
----
-
-### Plantation Workers Are Poor, Destitute, & Helpless, But Their Poetic Expressions Are Marvellous
-
-*2024-09-30 00:39:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/plantation-workers-are-poor-destitute-helpless-but-their-poetic-expressions-are-marvellous/) · `en`
-
-When the Britishers introduced tea as an export crop to old Ceylon in mid 19th century, it was a game changer. It transformed the traditional subsistence agricultural economy that prevailed to a modern plantation economy seeking to satisfy the demand for the new beverage called tea spreading like a pandemic across Europe and Americas. Initially, it was a beverage of the rich and the aristocrats. A pound of tea was sold, according to advertisements that were inserted in papers, for 25 Sterling Pounds. This exclusive product was made inclusive by ingenious marketing strategies adopted by tea traders like presenting it as a brain tonic.
-
-...
-
-[Data](articles/015379fc.json)
-
-[Extended Data](ext_articles/015379fc.ext.json)
-
----
-
-### 2024-09-29 (Sunday)
-
-### We will negotiate with Mahinda, Namal- Rohitha Abeygunawardena
-
-*2024-09-29 23:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195092) · `ta`
-
-Negotiating with Mahinda Rajapaksa and Namal Rajapaksa about party announcement and symbol. Respecting people's mandate, urging stability over crisis. Ready to accept election results and act as opposition. Announcing resolution for general election participation.
-
-🟩
-
-We will negotiate with PA President Mahinda Rajapaksa National Organizer Namal Rajapaksa. Former parliamentarian Rohitha Abeygunawardena said he would announce the party and the logo on the party and the symbol on Monday (30).
-
-We respect the people's mandate to President Anura Kumara Dissanayake. We have no intention to make the government crisis. Because if the government is in crisis, people will be in crisis. Therefore, we urge the President to fulfill the promises made to the people.
-
-To accept the victory and defeat in the election. Nothing is new to us in the opposition, and I am ready to act as the opposition after the 14th of November. There is hope that the people of Kalutara district will choose me.
-
-We will announce a resolution on the party and symbol that is contesting in the general election. He said he would have talks with Mahinda Rajapaksa's president Mahinda Rajapaksa and the party's national organizer Namal Rajapaksa.
-
-◼️
-
-[Data](articles/1ee8153a.json)
-
-[Extended Data](ext_articles/1ee8153a.ext.json)
 
 ---

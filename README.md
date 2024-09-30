@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 10:38:38**
+As of **2024-09-30 10:57:20**
 
 ## Newspaper Stats
 
-*Scraped **46,949** Articles*
+*Scraped **46,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 2,842
 dailyftlk | 3,144
 adalk | 4,335
 dailymirrorlk | 4,733
-adaderanalk | 5,521
+adaderanalk | 5,524
 tamilmirrorlk | 6,305
 virakesarilk | 7,510
-adaderanasinhalalk | 8,114
+adaderanasinhalalk | 8,115
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,949 (100.0%) of 46,949 articles have been extended.
+46,953 (100.0%) of 46,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### A relative of Lac Vihara is arrested
+
+*2024-09-30 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201679) · `si`
+
+STF arrests suspect in Weliweriya with pistol and ammo. Suspect linked to organized crime and drugs. Handed to local police for investigation. Another firearm seized in Meegahawatta.
+
+🟩
+
+Police STF personnel have been arrested by the STF in Weliweriya area with a micro pistol and live ammunition.
+
+The suspect is an organized criminal and a drug dealer Janith Miserator, or a relative of those who are a relative of those who are a relative of those who are a relative of the dental of the Rajaria.
+
+The suspect had carried out the raid that the man was hiding in foreign countries for many years, police said.
+
+The 46-year-old suspect has been handed over to the Weliweriya Police Station for further investigations.
+
+Meanwhile, a firearm has been arrested by the STF personnel in the Meegahawatta area.
+
+It is said that the suspect had found a row of a 38 mm 58 mm.
+
+The police said that the suspect is connected to the "Thotalanga Cheana Cheana ', who is a disciple of Ganejawaja's disciple.
+
+◼️
+
+[Data](articles/08366dd3.json)
+
+[Extended Data](ext_articles/08366dd3.ext.json)
+
+---
+
+### Final income tax payments due today
+
+*2024-09-30 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102349/final-income-tax-payments-due-today) · `en`
+
+The Inland Revenue Department (IRD) has informed that all taxpayers must make their final income tax payments for the Year of Assessment 2023/2024 by today (Sept 30).
+
+Issuing a notice to taxpayers, it warned failure to meet this deadline may result in penalties and interest charges. The penalties and interest imposed for non-payment or late payment of income tax will not be waived or reduced, the department said.
+
+In addition, the IRD reminds taxpayers to clear all outstanding default taxes on or before October 30, 2024. After that date, any unpaid default taxes will be subject to rigorous collection actions, including legal proceedings under the Inland Revenue Act, the IRD said.
+
+For more information, the public is requested to contact the hotline ‘1944’ or their nearest IRD Regional Office.
+
+◼️
+
+[Data](articles/4c15143c.json)
+
+[Extended Data](ext_articles/4c15143c.ext.json)
+
+---
 
 ### Discussion on VIP security today
 
@@ -59,6 +109,50 @@ Meanwhile, the acting IGP has taken steps to attach the officers who were workin
 [Data](articles/49e78278.json)
 
 [Extended Data](ext_articles/49e78278.ext.json)
+
+---
+
+### Protests in Tamil Nadu over detention of 17 fishermen in Sri Lanka
+
+*2024-09-30 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102348/protests-in-tamil-nadu-over-detention-of-17-fishermen-in-sri-lanka) · `en`
+
+Fishermen from Tamil Nadu took to the streets on Sunday, staging a protest against the Sri Lankan Navy’s detention of 17 Indian fishermen and seizure of two boats off Rameswaram’s coast.
+
+In the visuals, protesters, comprising men and women, were sitting on the streets, raising their voices and chanting slogans.
+
+Notably, the apprehended fishermen have been identified as Markmillan (37), Milton (49), Ronald (48), Sesuraja (45), Jeevan Frisher (22), Suresh (45), Arul Dhinakaran (24), Durai (39), and Maria Sethin (26) from Thangachimadam, as well as Ardiya Nicho (26), Jebastian (38), Rajeev (36), Vivek (36), Innachie (36), Samuel (33), Brichan (31), and Bhaskaran (30).
+
+The two boats that were seized belonged to fishermen Thangachimadam Vyadaraj and Thangachimadam Selvam.
+
+According to the Rameswaram fishermen association, the apprehended fishermen were fishing in the Palk Bay area near Nedunthivu, having set out to sea with 309 boats.
+
+...
+
+[Data](articles/3162e90c.json)
+
+[Extended Data](ext_articles/3162e90c.ext.json)
+
+---
+
+### One person injured as police fire at lorry in Panadura
+
+*2024-09-30 09:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102347/one-person-injured-as-police-fire-at-lorry-in-panadura) · `en`
+
+A person has been injured and admitted to hospital after he was wounded in a shooting carried out by police in the Pallimulla area in Panadura.
+
+Panadura North Police had ordered a lorry to stop at a police checkpoint for a search operation.
+
+However, police had opened fire at the lorry as it had disregarded instructions to stop and had continued to move forward in a suspicious manner.
+
+One person traveling in the lorry was injured and he is currently receiving treatment in the hospital, police said.
+
+Police also stated that the lorry was illegally transporting cattle at the time.
+
+◼️
+
+[Data](articles/ab0759f8.json)
+
+[Extended Data](ext_articles/ab0759f8.ext.json)
 
 ---
 
@@ -2161,97 +2255,5 @@ Secretary of the Ministry of Education Tilaka Jayasundera has sent a letter to a
 [Data](articles/b5715d16.json)
 
 [Extended Data](ext_articles/b5715d16.ext.json)
-
----
-
-### Sanath makes Sri Lankan cricket coach for a year
-
-*2024-09-29 17:31:32* · [`adalk`](https://www.ada.lk/sports/සනත්-වසරකට-ලංකාවේ-ක්‍රිකට්-පුහුණුකරු-කරයි/9-412211) · `si`
-
-Sanath Jayasuriya appointed Sri Lanka cricket coach for 1 year. Led team to notable victories against India and New Zealand after long droughts. Achievements include wins in India series and NZ match after 15-year gap.
-
-🟩
-
-Sri Lanka Cricket's focus is on the appointment of former Leader Sanath Jayasuriya as the temporary coach of the Sri Lankan team as a cricket coach.
-
-As the intercourse handed over by the Divisional team, the Sri Lankan team recorded special achievements.
-
-Sanath started duties as the lateral of the Sri Lanka team at the first series of India with India.
-
-Subsequently, 10 years later in England, England recently recovered Test.
-
-The Sri Lankan team was able to win the matching tournament with New Zealand after 15 years.
-
-◼️
-
-[Data](articles/4cbe68ed.json)
-
-[Extended Data](ext_articles/4cbe68ed.ext.json)
-
----
-
-### A warning of the elite lightning
-
-*2024-09-29 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201665) · `si`
-
-Warning: Thunderstorms expected in multiple provinces tonight. Take precautions against lightning. Heavy rain forecasted for Central, Sabaragamuwa, Southern, and Northwestern regions.
-
-🟩
-
-The Department of Meteorology states that there is a risk of a result of thundershowers at several places today (29) or night.
-
-The same risk is in the Western, Sabaragamuwa, Southern, Central, Uva, Uva and Eastern Provinces and the Polonnaruwa District.
-
-The Department of Meteorology has informed the people to take action to reduce the dangers of lightning.
-
-The Meteorology authorities announced heavy showers in the Central, Sabaragamuwa, Southern and Northwestern provinces this afternoon or night.
-
-◼️
-
-[Data](articles/7103815b.json)
-
-[Extended Data](ext_articles/7103815b.ext.json)
-
----
-
-### The price of rice, Kottu, egg roti varies from midnight today
-
-*2024-09-29 17:06:06* · [`adalk`](https://www.ada.lk/breaking_news/රයිස්--කොත්තු--බිත්තර-රොටී-වල-මිල-අද-මධ්‍යම-රාත්‍රියේ-සිට-වෙනස්-වෙයි/11-412210) · `si`
-
-Rice, Kottu, egg roti prices drop tonight. Egg prices fall by Rs. Rice Kottu reduces by Rs. Egg rolls decrease by Rs. 20. Rice and curry eggs lower by Rs. Prices change effective today (29).
-
-🟩
-
-The All Ceylon Restaurant and Restaurant Association President Harssala Rukshan said that with the reduction of eggs prices today (29).
-
-The prices of all the production of foods of eggs will be decreed today (29). Rice kottu will reduce the price by Rs. The egg rolls reduce by Rs 20. Rice and Curry Eggs will be reduced by Rs. The eggs will be reduced by Rs.
-
-◼️
-
-[Data](articles/64567882.json)
-
-[Extended Data](ext_articles/64567882.ext.json)
-
----
-
-### Advisory issued for severe lightening
-
-*2024-09-29 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102337/advisory-issued-for-severe-lightening) · `en`
-
-The Meteorology Department has issued an ‘Amber’ advisory for severe lightning for several provinces.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central, Uva, North-western and Eastern provinces and in Polonnaruwa district.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to seek shelter, preferably indoors and never under trees, avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, avoid using wired telephones and connected electric appliances during thunderstorms and also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/265e275c.json)
-
-[Extended Data](ext_articles/265e275c.ext.json)
 
 ---

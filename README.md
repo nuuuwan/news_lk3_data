@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 10:57:20**
+As of **2024-09-30 11:10:33**
 
 ## Newspaper Stats
 
-*Scraped **46,953** Articles*
+*Scraped **46,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 390
 bbccomsinhala | 463
 colombotelegraphcom | 469
 islandlk | 2,760
-economynextcom | 2,842
+economynextcom | 2,845
 dailyftlk | 3,144
-adalk | 4,335
+adalk | 4,336
 dailymirrorlk | 4,733
 adaderanalk | 5,524
 tamilmirrorlk | 6,305
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,115
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,953 (100.0%) of 46,953 articles have been extended.
+46,957 (100.0%) of 46,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Sri Lanka’s Hela Apparel raises Rs1.5bn in rights issue
+
+*2024-09-30 10:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-hela-apparel-raises-rs1-5bn-in-rights-issue-181508/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hela Apparel Holdings Plc has raised 1.5 billion rupees through a rights issue it said.
+
+Hela apparel’s issue of 319,514,110 ordinary voting shares raised 1,597,570,550 rupees, the company said in a stock exchange filing.
+
+When announcing the issue in June, the company said the funds would be made “available to the sub-subsidiary of the Company to enable such entity to settle existing bank borrowings.”
+
+Earlier this year the company acquired Focus Brands, a UK based brand licensing house, for 8 million sterling pounds. (Colombo/Sep30/2024)
+
+◼️
+
+[Data](articles/b8b21919.json)
+
+[Extended Data](ext_articles/b8b21919.ext.json)
+
+---
 
 ### A relative of Lac Vihara is arrested
 
@@ -59,6 +79,30 @@ The police said that the suspect is connected to the "Thotalanga Cheana Cheana '
 [Data](articles/08366dd3.json)
 
 [Extended Data](ext_articles/08366dd3.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 297.25/75 to US dollar, bond yields up
+
+*2024-09-30 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-297-25-75-to-us-dollar-bond-yields-up-181500/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated to open at 297.25/75 to the US dollar on Monday, from 298.70/299.00 a day earlier, while bond yields were up dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.60/70 percent, up from 11.40/55 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.80/90 percent, up from 11.75/85 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.90/12.00 percent, from 11.90/12.05 percent.
+
+A bond maturing on 15.05.2030 was quoted at 12.00/20 percent, up 11.90/12.05 percent.
+
+In equities, Colombo’s All Share Price Index opened 0.87 percent, or 102.87 points higher at 11,876, while the S&P SL20 of more liquid stocks opened up 1.19 percent or 40.49 points higher at 3,450.
+
+◼️
+
+[Data](articles/b4cd90a3.json)
+
+[Extended Data](ext_articles/b4cd90a3.ext.json)
 
 ---
 
@@ -131,6 +175,28 @@ According to the Rameswaram fishermen association, the apprehended fishermen wer
 [Data](articles/3162e90c.json)
 
 [Extended Data](ext_articles/3162e90c.ext.json)
+
+---
+
+### IMF team to visit Sri Lanka this week
+
+*2024-09-30 09:25:00* · [`economynextcom`](https://economynext.com/imf-team-to-visit-sri-lanka-this-week-181498/) · `en`
+
+ECONOMYNEXT – A team from the International Monetary Fund will visit Sri Lanka this week and also meet President Anura Kumara Dissanayake, a top official said.
+
+The IMF team is making a courtesy call, Anil Jayantha, at this time, the head of the Economic Council of the President’s National people’s Power party said.
+
+President Dissanayake in his inaugural national address said Sri Lanka expected to begin discussions with the IMF as well as creditors as soon as possible.
+
+The NPP has said they would seek to revise sections of the program.
+
+President Dissanayake was elected in September when a review of the IMF program was due on the original schedule.
+
+◼️
+
+[Data](articles/506934dd.json)
+
+[Extended Data](ext_articles/506934dd.ext.json)
 
 ---
 
@@ -1576,6 +1642,32 @@ Three hundred thousand votes were invalid in the presidential election. 38 lakh 
 
 ---
 
+### Negotiations failed to join the rise and the UN
+
+*2024-09-29 19:09:48* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-හා-එජාව-එක්වීමේ-සාකච්ඡා-අසාර්ථකයි/11-412221) · `si`
+
+Failed negotiations between UNP and UN over unity conditions. Discussions stalled due to disagreements on party leadership and electoral strategies. UNP demands Ranil Wickremesinghe remain leader, while UN insists on new leadership.
+
+🟩
+
+Discussions have failed for the reconciliation and the United National Party (UNP). It was impossible to maintain two of the main conditions presented by the unity.
+
+After the presidential election, Deputy Leader Ruwan Wijewardena, Deputy Leader Ruwan Wijewardena, Deputy Leader Ruwan Wijewardena, Deputy Leader Ruwan Wijewardene and former MPs to begin with a broad political alliance.
+
+The group has held eight rounds of discussions with the current agents in each way with the current representatives.
+
+The condemnation that the sign of the sign of the Samagi prosperity should be held in the new UPFA, the demand of former President Ranil Wickremesinghe should not be held in the new UPFA and has been severely obstructed to proceed.
+
+The UNP representatives have been the opinion that the majority of the votes have been considered as independent candidate in the last presidential election.
+
+...
+
+[Data](articles/cfbedc3f.json)
+
+[Extended Data](ext_articles/cfbedc3f.ext.json)
+
+---
+
 ### Is the Mega Alliance of Tamil and Muslim parties possible?
 
 *2024-09-29 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195063) · `ta`
@@ -2167,93 +2259,5 @@ Sri Lanka’s Presidential election saw a genuine left-winger, from a Marxist pa
 [Data](articles/aea2b37e.json)
 
 [Extended Data](ext_articles/aea2b37e.ext.json)
-
----
-
-### Namal launches inspection due to a vehicle
-
-*2024-09-29 17:42:03* · [`adalk`](https://www.ada.lk/breaking_news/වාහනයක්-නිසා-නාමල්ට-පරීක්ෂණයක්-අරඹයි/11-412212) · `si`
-
-Namal Rajapaksa's vehicle inspected over political activity allegations. Driver questioned about Ceylon Electricity Company vehicle involvement. Investigation ongoing regarding incident details and mobile data requests.
-
-🟩
-
-The Fort Magistrate informed the Fort Magistrate, Kollupitiya Police, who was involved in the political activities of the Ceylon Electricity Company (LECO).
-
-The magistrate allowed the driver of the vehicle to the Kollupitiya Police, the driver of the vehicle, to the Kollupitiya Police.
-
-Kollupitiya police stated that a report indicated on the progress of the procedure in relation to the incident, Namal Rajapaksa was a presidential candidate in the last presidential election and his political rally was held on the 21st of August.
-
-The driver of a Montero jhip of the Ceylon Electrical Company has been asked that the vehicle had been asked to relocate the vehicle to the garage and had been given leave to the garage.It was reported that Namal Rajapaksa has been deployed for the meeting in Anuradhapura held in Anuradhapura.
-
-...
-
-[Data](articles/6a969f21.json)
-
-[Extended Data](ext_articles/6a969f21.ext.json)
-
----
-
-### Parliamentary Elections
-
-*2024-09-29 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195023) · `ta`
-
-Tamil Progressive Alliance supports Sajith in upcountry parties but unsure about continued participation in parliamentary elections. They want a hill country representative in Anura's government, which may conflict with Sajith's United People's Power contesting under the telephone symbol.
-
-🟩
-
-The Tamil Progressive Alliance is working in support of Sajith in the upcountry parties. But it is not known whether it will continue in the parliamentary election. The Tamil Progressive Alliance has the idea that a representative representing the hill country should be placed in the government of Anura.. It is not possible if Sajith's United People's Power contested the telephone symbol.
-
-◼️
-
-[Data](articles/84617522.json)
-
-[Extended Data](ext_articles/84617522.ext.json)
-
----
-
-### Vijitha Herath appointed President’s representative to CC
-
-*2024-09-29 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102338/vijitha-herath-appointed-presidents-representative-to-cc) · `en`
-
-Minister Vijitha Herath has been appointed as the President’s representative to the Constitutional Council.
-
-The Speaker of the Parliament Mahinda Yapa Abeywardena stated that this nomination was made by President Anura Kumara Dissanayake.
-
-Accordingly, former Minister of Ports, Aviation and Shipping Nimal Siripala de Silva has been removed from the Constitutional Council.
-
-Additionally, Prime Minister Dr. Harini Amarasuriya has also been appointed as a new member of the Council.
-
-Despite the dissolution of the Parliament, the activities of the Constitutional Council are required to be continued until the formation of the new Parliament.
-
-The council is scheduled to meet on October 09, for the first time following the election of the new President.
-
-Other members of the Constitutional Council include former Opposition Leader Sajith Premadasa, former MP Kabir Hashim, former MP Sagara Kariyawasam and the three civil society representatives.
-
-◼️
-
-[Data](articles/7aeeb4d9.json)
-
-[Extended Data](ext_articles/7aeeb4d9.ext.json)
-
----
-
-### Should not charge money from parents
-
-*2024-09-29 17:37:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோரிடமிருந்து-பணம்-வசூலிக்கக்-கூடாது/175-344660) · `ta`
-
-Ministry of Education advises against charging fees for events like World Children's Day and World Teachers Day. Secretary Tilaka Jayasundera sends letter to principals and education officials.
-
-🟩
-
-The Ministry of Education urges the parents not to collect money from celebrating events such as World Children's Day and World Teachers Day.
-
-Secretary of the Ministry of Education Tilaka Jayasundera has sent a letter to all principals and education authorities.
-
-◼️
-
-[Data](articles/b5715d16.json)
-
-[Extended Data](ext_articles/b5715d16.ext.json)
 
 ---

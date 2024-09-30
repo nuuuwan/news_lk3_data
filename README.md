@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 09:38:39**
+As of **2024-09-30 10:11:57**
 
 ## Newspaper Stats
 
-*Scraped **46,947** Articles*
+*Scraped **46,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ colombotelegraphcom | 469
 islandlk | 2,760
 economynextcom | 2,842
 dailyftlk | 3,144
-adalk | 4,334
+adalk | 4,335
 dailymirrorlk | 4,733
 adaderanalk | 5,521
 tamilmirrorlk | 6,305
 virakesarilk | 7,510
-adaderanasinhalalk | 8,113
+adaderanasinhalalk | 8,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,947 (100.0%) of 46,947 articles have been extended.
+46,949 (100.0%) of 46,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Discussion on VIP security today
+
+*2024-09-30 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201678) · `si`
+
+VIP security meeting today: Former presidents' safety discussed. Acting IGP Priyantha Weerasuriya participates. Decision on local presidents' protection expected. Officers reassigned from other duties.
+
+🟩
+
+A special discussion has been convened today (30) at the day of the safety of the people including former presidents.
+
+The discussion will be held at the General Secretary of the Ministry of Defense under the patronage of Minister Vijitha Herath.
+
+Acting IGP Priyantha Weerasuriya and several others are due to participate.
+
+Recently, the security of the local presidents was decided recently.
+
+However, former presidents then informed the safety and they had informed the amount of protectors.
+
+The discussion is scheduled to be held in this day at length and take a final decision on this day.
+
+Meanwhile, the acting IGP has taken steps to attach the officers who were working in other duties as a remedy of the officers of the Police Department.
+
+◼️
+
+[Data](articles/49e78278.json)
+
+[Extended Data](ext_articles/49e78278.ext.json)
+
+---
 
 ### A person injured in police firing
 
@@ -1736,6 +1766,28 @@ However, the allowance for employees linked to the security forces, the chief of
 
 ---
 
+### Veterinary inquiry requests investigations
+
+*2024-09-29 18:35:31* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සංචිතයේ-තිබූ-වාහන-අවභාවිතය-ගැන-විමර්ශනයක්-ඉල්ලයි/11-412218) · `si`
+
+Complaint filed against bribery commission regarding misuse of presidential vehicles. Two individuals accused of providing 833 vehicles to former presidents and officials. Investigation committee formed to probe allegations.
+
+🟩
+
+Who and the officers who suffered superficial vehicles in the president pool?The Citizen Organization (Citizens) of the Citizenship Corruption and Waste Chairman of the Citizenship Corruption and Waste Chairman has lodged a complaint with the Commission to Investigate Allegations of Bribery and Corruption.
+
+The complaint has been lodged with the Bribery Commission, a list of two persons saying that the super-pool of the president pool.
+
+Arrangements have been noted that there are 833 super vehicles that have been reported in the presidential pool of the presidential pool of the presidential pool of the presidential reserves in the presidential reserve, former presidents, Chandrika Bandaranaike, Gotabhaya Rajapakse and Ranil Wickremesinghe.He pointed out that Chathantha Thushara emphasized that he has said that some presidents and officers who controlled Sri Lanka have been provided with superficial vehicles in the president squad.
+
+...
+
+[Data](articles/42f41646.json)
+
+[Extended Data](ext_articles/42f41646.ext.json)
+
+---
+
 ### Scholarship Controversy- The results have been reached
 
 *2024-09-29 18:31:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-சர்ச்சை-முடிவு-எட்டப்பட்டது/175-344663) · `ta`
@@ -2201,75 +2253,5 @@ For emergency assistance, the public is requested to contact local disaster mana
 [Data](articles/265e275c.json)
 
 [Extended Data](ext_articles/265e275c.ext.json)
-
----
-
-### Sri Lanka Rugby Padden receives third place in Asia
-
-*2024-09-29 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201664) · `si`
-
-Sri Lanka Rugby Padden wins third place in Asia tournament. Defeated Malaysia 17-14 in decisive match. Earlier victories over Thailand and Chinese Taipei. Drawn with Hong Kong but led in bonus points. Limited competition due to last-minute cancellations.
-
-🟩
-
-Sri Lanka's male team to win the third place in the 18th Asia Issues of Asia, Asia.
-
-They defeated host Malaysia in the decisive match for the third place as 17-14.
-
-The tournament commenced yesterday, Sri Lanka obtained a successful start to the tournament, where they were able to defeat Thailand (27-0) and Chinese Taipei (29-70).
-
-The match against the stronghold of Hong Kong has also been able to end the collapse of 17-17.
-
-Sri Lanka was able to lead the Hong Kong group over the bonus mark.
-
-Although Sri Lanka has played a match with the Brivai group, Sri Lanka was unique to the Competition due to the Brivai group.
-
-The competit organizer had been awarded 20-0 marks to every country in the 'B' category played by Brivai.
-
-However, Sri Lanka had the most powerful challenge group in this category, however, was against Thailand.
-
-Hong Kong was able to defeat Thailand at 29-10 points, and they were able to lead the bonus mark.
-
-...
-
-[Data](articles/b95e6c71.json)
-
-[Extended Data](ext_articles/b95e6c71.ext.json)
-
----
-
-### Vijitha Constitutional Council as the President's representative
-
-*2024-09-29 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201663) · `si`
-
-Here's a 200-character summary:
-
-
-
-Minister Vijitha Herath named President's rep for Legislative Council. Speaker Mahinda Yapa Abeywardena confirms appointment. Former Minister Nimal Siripala de Silva removed. Dr. Harani Amarasuriya elected new member. Constitutional Council meets next month. Opposition Leader Sajith Premadasa joins Legislative Council. New government appoints Pradeep Yasaratne as Secretary to Ministry of Justice, Public Administration, Home Affairs, Provincial Councils and Labor Ministries.
-
-🟩
-
-Minister Vijitha Herath has been appointed as the President's representative for the legislative council.
-
-Speaker Mahinda Yapa Abeywardena stated that President Anura Kumara Dissanayake has commanded the nomination.
-
-Accordingly, former Minister Nimal Siripala de Silva has been removed from the legislative church.
-
-In addition, Dr. Haraini Amarasuriya is also elected as a new member of the Legislative Council.
-
-The Parliament should be dissolved and the new Parliament should continue to be continued until the new Parliament is formed.
-
-Accordingly, the constitutional council will meet on the 9th of next month following the new president.
-
-Opposition Leader Sajith Premadasa and Kabir Hashim and Optoral Members of Parliament and the three civilian members of the Legislative church serve as other members of the Legislative Council.
-
-Meanwhile, the Secretary to the Ministry of Justice, Public Administration, Home Affairs, Provincial Councils and Labor Ministries have been vigilant.
-
-...
-
-[Data](articles/772e47a5.json)
-
-[Extended Data](ext_articles/772e47a5.ext.json)
 
 ---

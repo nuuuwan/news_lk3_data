@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 18:35:00**
+As of **2024-09-30 19:01:52**
 
 ## Newspaper Stats
 
-*Scraped **47,043** Articles*
+*Scraped **47,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,8 +14,8 @@ bbccomsinhala | 464
 colombotelegraphcom | 469
 islandlk | 2,762
 economynextcom | 2,856
-dailyftlk | 3,144
-adalk | 4,348
+dailyftlk | 3,145
+adalk | 4,350
 dailymirrorlk | 4,733
 adaderanalk | 5,534
 tamilmirrorlk | 6,322
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,131
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,043 (100.0%) of 47,043 articles have been extended.
+47,045 (100.0%) of 47,046 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,28 @@ The former members who are not re-elected in the General Election are required t
 [Data](articles/cef96c29.json)
 
 [Extended Data](ext_articles/cef96c29.ext.json)
+
+---
+
+### The banks of the banking system unfolds in court
+
+*2024-09-30 18:07:28* · [`adalk`](https://www.ada.lk/breaking_news/බැංකු-පද්ධතියට-ඇති-අනතුරක්-අධිකරණයේදී-දිග-හැරෙයි/11-412234) · `si`
+
+Sri Lanka: Cybercrime case against Ukrainian suspects impacts banking system. Two individuals remanded for alleged involvement in hacking incidents affecting national economy.
+
+🟩
+
+The CID informed Colombo Chief Magistrate Thilina Gamage today (30), the CID crashes the Sri Lankan banking system that could climb the national economy due to the cyber cyber criminals.
+
+Two Ukrainian youth officers who were informed of the criminal criminals of the cyber criminals have been remanded as a special investigation in the Sri Lankan banking framework due to the criminal criminals of the cyber criminals.The Magistrate ordered to be held in the back.
+
+The remand was handed over to the anniversary of a leading private bank and introduces online income roads and introduce online incomeTwo people.
+
+◼️
+
+[Data](articles/a5dd4689.json)
+
+[Extended Data](ext_articles/a5dd4689.ext.json)
 
 ---
 
@@ -269,6 +291,26 @@ Top foreign buying was seen in JKH, Vidullanka (up at 14.00), Tokyo Cement (up a
 [Data](articles/6b99e5a2.json)
 
 [Extended Data](ext_articles/6b99e5a2.ext.json)
+
+---
+
+### Be careful of lightning here
+
+*2024-09-30 16:53:56* · [`adalk`](https://www.ada.lk/breaking_news/අකුණු-වලින්-ප්‍රවේසම්-වන්න-මෙන්න-මේ-පැතිවල/11-412233) · `si`
+
+Lightning warning: Western, Sabaragamuwa, Southern, Central, Uva, North Western provinces. Evening/night risk in Ampara, Batticaloa, Polonnaruwa districts.
+
+🟩
+
+The Meteorological Department has issued a pronouncement by the Department of Meteorological Dictionary.
+
+Accordingly, in the Western, Sabaragamuwa, Southern, Central, Uva and North Western provinces, in the evening or night in Ampara, Batticaloa and Polonnaruwa districts have the potential.
+
+◼️
+
+[Data](articles/d2fc32ed.json)
+
+[Extended Data](ext_articles/d2fc32ed.ext.json)
 
 ---
 
@@ -2441,55 +2483,5 @@ The department also stated that the opportunity to obtain more information on th
 [Data](articles/b040a1a3.json)
 
 [Extended Data](ext_articles/b040a1a3.ext.json)
-
----
-
-### Many state agencies are to be dissolved
-
-*2024-09-30 08:35:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-அரச-நிறுவனங்கள்-கலைக்கப்பட-உள்ளன/175-344687) · `ta`
-
-Sri Lanka government dissolves state agencies, including Sri Lanka Triposha. Unused assets to be removed under Renaissance Act. Activities of affected companies being investigated.
-
-🟩
-
-It is reported that the government has been focused on dissolving several state agencies, including the Sri Lanka Triposha.
-
-The Ministry of Finance, Economic Development, Policy Creation, Planning and Tourism, managed under President Anuragumara DissanayakeUnused assets are to be dissolved under the Renaissance (Removal) Act of the Act.
-
-The Gazette has stated that the activities of companies that are to be dissolved or connected to other companies are being investigated.. Remble
-
-◼️
-
-[Data](articles/a010c957.json)
-
-[Extended Data](ext_articles/a010c957.ext.json)
-
----
-
-### Lorry - police firing
-
-*2024-09-30 08:27:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிற்காமல்-சென்ற-லொறி-பொலிஸார்-துப்பாக்கிப்-பிரயோகம்/175-344686) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Police shooting in Panadura: One injured after officers fired at a lorry. Driver ignored stop order, leading to confrontation. Victim hospitalized.
-
-🟩
-
-One person was injured and admitted to the hospital in the police shooting in the Panadura Palliyamulla area.
-
-Even though the Northern police ordered the Northern Police to stop a lorry on the police road, the police fired at it as the lorry went on.
-
-A person who was traveling in the lorry was injured and he is currently receiving treatment at the hospital, police said.
-
-Police said the lorry was used to load the lorry.. Remble
-
-◼️
-
-[Data](articles/b3c9638c.json)
-
-[Extended Data](ext_articles/b3c9638c.ext.json)
 
 ---

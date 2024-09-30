@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 00:12:57**
+As of **2024-10-01 00:24:10**
 
 ## Newspaper Stats
 
-*Scraped **47,080** Articles*
+*Scraped **47,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 390
 bbccomsinhala | 465
 colombotelegraphcom | 469
 islandlk | 2,763
-economynextcom | 2,856
+economynextcom | 2,861
 dailyftlk | 3,145
 adalk | 4,356
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,080 (100.0%) of 47,080 articles have been extended.
+47,080 (100.0%) of 47,085 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -102,6 +102,24 @@ The high-level delegation is visiting the island to discuss latest economic deve
 
 ---
 
+### Sri Lanka’s UNP open to Sajith as PM under common alliance, symbol: Saman R
+
+*2024-09-30 23:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-unp-open-to-sajith-as-pm-under-common-alliance-symbol-saman-r-181668/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s United National Party (UNP) is open to naming Samagi Jana Balawegaya (SJB) leader Sajith Premadasa the prime minister pick for a common opposition alliance that will contest under a common symbol, a UNP spokesman said.
+
+Following a meeting of parties supporting ex-President Ranil Wickremesinghe held on Flower Road, Colombo, on Monday September 30, UNP member Saman Ratnapriya told reporters that discussions were held between the UNP and the Sri Lanka Podujana Peramuna (SLPP) whose majority he said supports Wickremesinghe.
+
+“There were discussions as UNP and as the majority group of the SLPP, and then the group led by former prime minister Dinesh Gunawardena had a discussion outside. The consensus among all of them is that there should be a common alliance under a common symbol.
+
+“There is still room for the SJB to enter talks. But there is a question about whether the talks are going forward to the extent we had anticipated,” said Ratnapriya.
+
+...
+
+[Data](articles/4eca841c.json)
+
+---
+
 ### Israel's next preparation
 
 *2024-09-30 23:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201705) · `si`
@@ -158,6 +176,24 @@ Sri Lankans in these countries can contact the embassy or embassy via slemb.beir
 
 ---
 
+### IMF says to discuss with new Sri Lanka president, economic team
+
+*2024-09-30 22:37:00* · [`economynextcom`](https://economynext.com/imf-says-to-discuss-with-new-sri-lanka-president-economic-team-181663/) · `en`
+
+ECONOMYNEXT – An International Monetary Fund (IMF) team will visit Sri Lanka this week to have discussions with the newly elected President Anura Kumara Dissanayake and his economic team, the global lender said.
+
+“A high-level IMF team led by Krishna Srinivasan, Director for the Asia Pacific Department, will be visiting Colombo October 2-4 to meet with President Dissanayake and the new economic team to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF,” the IMF said in a statement.
+
+The IMF last week said it expects to work under Sri Lanka’s new President Dissanayake who was elected at the September 21 elections. The global lender said it will discuss the timing of the third review of its ongoing economic reform under a 48-month loan.
+
+Sri Lanka has committed a raft of economic reforms including increasing tax revenue and restructuring of state-owned enterprises.
+
+...
+
+[Data](articles/ea3907f0.json)
+
+---
+
 ### A proposal to the Scholarship Examination issue
 
 *2024-09-30 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201704) · `si`
@@ -183,6 +219,28 @@ It also shows that before the scholarship examination question paper is a very s
 [Data](articles/c1614a8b.json)
 
 [Extended Data](ext_articles/c1614a8b.ext.json)
+
+---
+
+### Sri Lanka’s new government reduces fuel prices after poll campaign allegations
+
+*2024-09-30 22:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-government-reduces-fuel-prices-after-poll-campaign-allegations-181659/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new government led by recently elected leader Anura Kumara Dissanayake reduced retail fuel prices for October 2024, state-run Ceylon Petroleum Corporation said.
+
+The CPC on Monday (30) announced fuel prices based on formula which will be effective throughout October 2024.
+
+The CPC reduced mostly used Octane 92 by 21 rupees to 311 rupees a litre, Auto diesel by 24 rupees to 283, and Super diesel by 33 rupees to 319 rupees.
+
+The price of Kerosene is reduced by 19 rupees to 183 rupees. However, it left the price of 95 Octane unchanged at 377 rupees.
+
+During the election campaign, President Dissanayake’s Marxists-led National People’s Power (NPP) accused previous government of burdening the public of exorbitant tax on fuel and some corrupt deals for higher prices.
+
+Some of the NPP members said the price could be reduced by more than 100 rupees through removing the taxes. (Colombo/September 31/2024)
+
+◼️
+
+[Data](articles/0bebde74.json)
 
 ---
 
@@ -748,6 +806,24 @@ Their work was enormous during the unification of the Tamil national parties and
 
 ---
 
+### Sri Lanka’s former state FinMin justifies last govt’s economic reforms after deflation
+
+*2024-09-30 18:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-state-finmin-justifies-last-govts-economic-reforms-after-deflation-181651/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former State Finance Minister Shehan Semasinghe justified the economic reforms and related policies under the last government after the island nation consumer prices witnessed deflation this month.
+
+Sri Lanka consumer prices measured on the widely watched Colombo Consumer Price Index turned to 0.1 percent deflation, the official data showed on Friday, after the central bank stopped money printing for government borrowing and allowed a market-determining exchange rate which has helped to ensure stable currency over the last year.
+
+The Colombo Consumer Price Index fell almost continuously from March 2024, except June when the currency also came under pressure from excess liquidity from dollar purchases.
+
+“It’s remarkable to see the inflation figures during the last month of our administration, reflecting the significant progress we’ve made,” Former State Minister Semasinghe said in his X-platform.
+
+...
+
+[Data](articles/642b9f7f.json)
+
+---
+
 ### The president's decision pause
 
 *2024-09-30 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எடுத்த-தீர்மானம்-இடைநிறுத்தம்/175-344724) · `ta`
@@ -859,6 +935,26 @@ The remand was handed over to the anniversary of a leading private bank and intr
 [Data](articles/a5dd4689.json)
 
 [Extended Data](ext_articles/a5dd4689.ext.json)
+
+---
+
+### Sri Lanka services exports rise 6.49-pct to US$318mn in August
+
+*2024-09-30 17:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-exports-rise-6-49-pct-to-us318mn-in-august-181642/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s services exports are estimated to have grown 6.49 percent to 318.77 million US dollars in August from a year ago, the island’s Export Development Board said.
+
+The estimated value of ICT exports is expected to increase by 35.76 percent to 146.26 million dollars in August 2024 when compared to August 2023, according to data released by EDB.
+
+The estimated value of logistics and transport services is expected to increase by 7.01 percent to 146.37 million dollars in August 2024 when compared to August 2023.
+
+The estimated value of services exports is expected to increase by 7.58 percent to 2,246.77 million dollars during the first eight months of 2024 when compared to the corresponding period of 2023.
+
+Construction decreased 62.62 percent to 18.84 million dollars from August 2023 to August 2024. and financial services by 37.7 percent from January to July, the EDB said without giving specific numbers.
+
+...
+
+[Data](articles/ecd36323.json)
 
 ---
 
@@ -2343,131 +2439,5 @@ It “would benefit the parliamentary staff by providing training opportunities 
 [Data](articles/a7df4ad5.json)
 
 [Extended Data](ext_articles/a7df4ad5.ext.json)
-
----
-
-### Sri Lanka, Pakistan to cooperate on legislative practices
-
-*2024-09-30 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-pakistan-sign-agreement-to-strengthen-legislative-practices-181545/) · `en`
-
-ECONOMYNEXT – The Parliament of Sri Lanka has signed an agreement with the Pakistan Institute for Parliamentary Services (PIPS) to enhance cooperation between the two legislative institutions.
-
-The MoU was signed by the High Commissioner of Pakistan to Sri Lanka, Major General (Retd) Faheem Ul Aziz HI on behalf of PIPS and Parliament Secretary General Kushani Rohanadeera.
-
-“The purpose of this MoU is to promote parliamentary democratic values and strengthen legislative practices through knowledge-sharing activities between Members of Parliament and parliamentary staff,” a government statement said.
-
-The agreement would contribute to strengthening the close cooperation between the legislative institutions of both countries, the High Commissioner said.
-
-It “would benefit the parliamentary staff by providing training opportunities and valuable expert knowledge, ultimately supporting the legislative process” Rohanadeera was quoted as saying.
-
-...
-
-[Data](articles/f625c269.json)
-
-[Extended Data](ext_articles/f625c269.ext.json)
-
----
-
-### Three killed in motorcycle accidents occurred in different areas
-
-*2024-09-30 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195120) · `ta`
-
-Motorcycle accidents claim lives in Mahadeniya, Palali, and Illyi. Three dead, several injured.
-
-🟩
-
-Three motorcycle accidents occurred in three areas of Mahadeniya, Palali and Illyi on Sunday (29), and three others were injured, police said.
-
-A motorcycle crashed into a nearby canal after a motorcycle crashed into a nearby canal after a motorcycle collided with a motorcycle in the Mahadeniya area on the Colombo -Padukka road, which belongs to the Meegoda police division.
-
-One person has died after being admitted to the Homagama Hospital after being injured.
-
-In addition, a motorcycle traveling from Point Pedro to Kankesanthurai, near the Palali Police Division, near the Point Pedro- Kankesanthurai road, has lost the road and crashed into the wiring.
-
-A motorcycle driver and a motorcycle driver died after being admitted to the Tellippalai hospital after the motorcycle driver and the rear were injured.
-
-...
-
-[Data](articles/eead892d.json)
-
-[Extended Data](ext_articles/eead892d.ext.json)
-
----
-
-### The victims of Nepal went up
-
-*2024-09-30 12:08:19* · [`adalk`](https://www.ada.lk/breaking_news/නේපාලයට-බලපෑ-ගංවතුරෙන්-ජීවිතක්ෂයට-පත්-වූ-පිරිස-ඉහළට/11-412227) · `si`
-
-Nepal floods and landslides: 50 missing, over 4000 rescued. Death toll rising. Devastating impact on Kathmandu Valley and other areas.
-
-🟩
-
-The number of people killed in the floods and landslides in Nepal.
-
-Foreign media reports that about 50 others have gone missing.
-
-In addition, more than 4000 persons stuck in the houses were rescued from the houses.
-
-Devastating Flods Hit Kathmandu Valley and Other Parts of Nepal.
-
-A numberber of death confirmed WHILEMED WHIUSHANDS OF RESS HAVES HAVES HAVES HAVES HAVES HAVES HAVES HAVES HAVES HAF8WX8K PICTTHTTER.com/LUOJOFQCNF
-
-◼️
-
-[Data](articles/354c36d1.json)
-
-[Extended Data](ext_articles/354c36d1.ext.json)
-
----
-
-### Attack in Lebanon again;105 killed;350 people injured
-
-*2024-09-30 12:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-மீண்டும்-தாக்குதல்-105-பேர்-பலி-350-பேர்-காயம்/50-344702) · `ta`
-
-Israel launches airstrikes on Lebanon, killing 105, injuring 350. Attacks Hezbollah. Similar strikes occur in Yemen, targeting Houthi rebels.
-
-🟩
-
-105 people killed in Israel's air strike again in Lebanon. More than 350 people were seriously injured, the Ministry of Health said.
-
-Israel, which is attacking the Hamas terrorist organization, is now attacking the Lebanon -based Hezbollah organization.. In the attack a few days ago, 274 people, including 21 children and 39 women, were killed. Hizbullah leader Hasan Nasrallah was also killed.
-
-In this case, Israel has now launched an air strike on Lebanon. 105 people were killed in the attack. More than 350 people were seriously injured, the Lebanon Health Department said.
-
-Lebanese people have begun to flee the country to escape from Israel's attack. Israeli Prime Minister Benjamin Netanyahu is sure that we will not stop until we reach our goal.
-
-For the first time on July 21, nine months after the war against Hamas, the attack launched a target of several Houthi rebels in Yemen. In this case, Israel is currently carrying out a terrible attack in Yemen.
-
-...
-
-[Data](articles/31c3add5.json)
-
-[Extended Data](ext_articles/31c3add5.ext.json)
-
----
-
-### Israel attack again in Lebanon;105 killed;350 people injured
-
-*2024-09-30 12:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-மீண்டும்-இஸ்ரேல்-தாக்குதல்-105-பேர்-பலி-350-பேர்-காயம்/50-344702) · `ta`
-
-Israel attacks Lebanon: 105 killed, 350 injured. Targets Hezbollah. People fleeing. Netanyahu vows continuation. Also strikes Yemen, killing 4 Houthi rebels.
-
-🟩
-
-105 people killed in Israel's air strike again in Lebanon. More than 350 people were seriously injured, the Ministry of Health said.
-
-Israel, which is attacking the Hamas terrorist organization, is now attacking the Lebanon -based Hezbollah organization.. In the attack a few days ago, 274 people, including 21 children and 39 women, were killed. Hizbullah leader Hasan Nasrallah was also killed.
-
-In this case, Israel has now launched an air strike on Lebanon. 105 people were killed in the attack. More than 350 people were seriously injured, the Lebanon Health Department said.
-
-Lebanese people have begun to flee the country to escape from Israel's attack. Israeli Prime Minister Benjamin Netanyahu is sure that we will not stop until we reach our goal.
-
-For the first time on July 21, nine months after the war against Hamas, the attack launched a target of several Houthi rebels in Yemen. In this case, Israel is currently carrying out a terrible attack in Yemen.
-
-...
-
-[Data](articles/32bc4c78.json)
-
-[Extended Data](ext_articles/32bc4c78.ext.json)
 
 ---

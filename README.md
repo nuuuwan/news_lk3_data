@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 23:39:10**
+As of **2024-09-30 23:58:26**
 
 ## Newspaper Stats
 
-*Scraped **47,076** Articles*
+*Scraped **47,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,46 +15,122 @@ colombotelegraphcom | 469
 islandlk | 2,763
 economynextcom | 2,856
 dailyftlk | 3,145
-adalk | 4,355
+adalk | 4,356
 dailymirrorlk | 4,733
-adaderanalk | 5,539
+adaderanalk | 5,540
 tamilmirrorlk | 6,325
 virakesarilk | 7,533
-adaderanasinhalalk | 8,140
+adaderanasinhalalk | 8,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,074 (100.0%) of 47,076 articles have been extended.
+47,080 (100.0%) of 47,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
 
-### ඊශ්‍රායලයේ ඊළඟ සූදානම
+### The solution to the parents of the President to the President
+
+*2024-09-30 23:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201707) · `si`
+
+Parents protest Grade 5 Scholarship Examination question paper issue. President meets parents, discusses stopping test and adding first sheet.
+
+🟩
+
+Parents' Examination Question Paper Examination The Scholarship Examination said the scholarship examination question paper said that the President was instructing that the answer scholarship examination would be investigated.
+
+They said that when he met the President this afternoon, they added.
+
+They said he had requested the president as well as the first sheet.
+
+A parent protests in Battaramulla and Colombo, calling for a solution to the question paper of the Grade 5 Scholarship Examination.
+
+Later, they remained near the Presidential Secretariat, and six parents have a discussion with the President.
+
+"He was saying he would stop the test. We made a request to put the first sheet.
+
+◼️
+
+[Data](articles/c4b8e283.json)
+
+[Extended Data](ext_articles/c4b8e283.ext.json)
+
+---
+
+### IMF team to arrive on Wednesday
+
+*2024-09-30 23:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201706) · `si`
+
+IMF team arrives Wednesday: Top official visits Sri Lanka Oct 2-4. Director of Asia Pacific Department leads delegation. Discusses economy program with President Anura Kumara Dissanayake and officials.
+
+🟩
+
+It is reported that a top official of the IMF is due to visit Sri Lanka from October 2 to 4.
+
+The head of the group is the Director of the Asia Pacific Department as the Director of the Asia Pacific Department.
+
+The International Monetary Fund a spokesman said that President Anura Kumara Dissanayake and other officials of the International Monetary Fund said that President Anura Kumara Dissanayake and other officials will be discussed.
+
+The International Monetary Fund is due to discuss the economy program in the country.
+
+◼️
+
+[Data](articles/9a418210.json)
+
+[Extended Data](ext_articles/9a418210.ext.json)
+
+---
+
+### High-level IMF team to visit Sri Lanka this week
+
+*2024-09-30 23:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102364/high-level-imf-team-to-visit-sri-lanka-this-week) · `en`
+
+A high-level team of the International Monetary Fund (IMF) led by its Director of the Asia Pacific Department, Krishna Srinivasan, is scheduled to visit Colombo from October 02 to 04 to meet with President Anura Kumara Dissanayake and Sri Lanka’s new economic team.
+
+The high-level delegation is visiting the island to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF, according to a spokesperson for the global lender.
+
+“A high-level IMF team led by Krishna Srinivasan, Director for the Asia Pacific Department, will be visiting Colombo October 2-4 to meet with President Dissanayake and the new economic team to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF. The team will communicate at the end of the visit,” the spokesman said.
+
+◼️
+
+[Data](articles/dd23310c.json)
+
+[Extended Data](ext_articles/dd23310c.ext.json)
+
+---
+
+### Israel's next preparation
 
 *2024-09-30 23:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201705) · `si`
 
-ඊශ්‍රායලය විසින් ලෙබනනය වෙත ගොඩබිම් ප්‍රහාර එල්ලකිරීමට බලාපොරොත්තු වන බව අමෙරිකාවට දැනුම් දී තිබේ.
+Israel prepares for potential land incursion into Lebanon. US informs Israel about its plans. Hezbollah warns of possible Israeli ground assault. Israeli airstrikes continue, killing 105 in Lebanon. Hezbollah leader's body discovered, funeral details pending. Tensions escalate between Israel and Lebanon.
 
-අද (30) සිට එම ප්‍රහාර ඉක්මනින් දියත් කරන බව ඊශ්‍රායලය විසින් අමෙරිකානු නිලධාරියෙක්ට දැනුම් දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-මේ අතර ලෙබනනය වෙත ගොඩබිම් ප්‍රහාරයක අවදානම තීව්‍ර කරමින් ලෙබනන් - ඊශ්‍රායල දේශසීමාව වෙත ඊශ්‍රායලය විසින් යුද ටැංකි යොමුකර තිබු‍ණි.
+The United States has informed the United States that Israel is looking to lands down to Lebanon.
 
-මෙවන් පසුබිමක ජාතිය ඇමතූ හිස්බුල්ලා සංවිධානයේ උප නායක ෂෙයික් නයිම් කාසීම් අවධාරණය කළේ ඊශ්‍රායල ගොඩබිම් ප්‍රහාරයකට මුහුණදීමට තම සංවිධානය සූදානම් බවය.
+It has been reported that Israel has informed an American official that the attacks are launched today (30).
 
-මේ අතර ලෙබනනයේ ක්‍රියාත්මක හිස්බුල්ලා සංවිධානයේ නායක සායිද් හසන් නස්රල්ලා, ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් මියගියේ පසුගිය සති අන්තයේදී ය.
+Meanwhile, the Lebanese-Israeli border was directed to Israeli border to intensify the risk of a ground attack on Lebanon.
 
-ඝාතනය කෙරුණු හිස්බුල්ලා නායකයාගේ සිරුර, ලෙබනන් සෞඛ්‍ය අංශ සුන්බුන් අතරින් ඊයේ (29)  සොයාගෙන තිබේ.
+Hezbollah's Deputy Leader Shaik Nimi coins were emphasized to face a Israeli lands attack on the nation.
 
-ඔහුගේ දේහය සම්බන්ධ අවසන් කටයුතු සිදුකරන දිනය මෙතෙක් අනාවරණ කර නොමැත.
+Meanwhile, Sadid Hassan Nasaralla, Leader of the Hezbolnewan, the leader of the Hezbolleh in Lebanon, died of an Israeli airline.
 
-ඊශ්‍රායලය ලෙබනනයේ ඉලක්ක වෙත ප්‍රහාර එල්ල කිරීම තවමත් නවත්වා නොමැති අතර ඊයේත් එල්ල වූ ප්‍රහාරවලින් එරට 105 දෙනෙක් මරුමුවට පත්ව තිබුණි.
+The body of Hezbollah leader was found yesterday (29).
+
+The date of the funeral will have not been revealed yet.
+
+The attacks on Israel was not stopped at Lebanon and 105 people were killed in yesterday's attacks.
 
 ◼️
 
 [Data](articles/aa2a760c.json)
+
+[Extended Data](ext_articles/aa2a760c.ext.json)
 
 ---
 
@@ -134,6 +210,34 @@ Gallant made the comments while speaking to Israeli troops deployed to the north
 
 ---
 
+### Down with a value that fuel prices
+
+*2024-09-30 21:45:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-දැනෙන-අගයකින්-පහළට/11-412242) · `si`
+
+Fuel prices reduced: Petrol (Octane 92) down 21rs/liter to 311rs, Super diesel by 319rs/liter, Auto diesel by 24rs/liter, Kerosene by 19rs/liter. Reductions effective midnight today.
+
+🟩
+
+The Petroleum Corporation has acted on the fuel price of fuel on the final of the fuel formula.
+
+Accordingly, an Octane 92 liter of petrol has been reduced by 21 rupees and the new price of a liter is Rs. 311.
+
+A liter of Super diesel has been reduced by Rs. 319.
+
+Auto diesel has been reduced by 24 rupees and the new price of a liter is Rs. 283.
+
+The new price of kerosene has been reduced by Rs. 19 rupees of a liter.
+
+The reduction of the fuel prices will operate from midnight today.
+
+◼️
+
+[Data](articles/17793e0b.json)
+
+[Extended Data](ext_articles/17793e0b.ext.json)
+
+---
+
 ### Reduction of Petrol and Diesel Price!
 
 *2024-09-30 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/195178) · `ta`
@@ -173,6 +277,8 @@ Accordingly, the price of Petrol 92 Octane has been reduced by Rs. 21 to Rs. 311
 The price of Super Diesel has also been slashed by Rs. 33, bringing the new price to Rs. 319 per litre, and Kerosene has been reduced by Rs. 19 to Rs. 183 per litre.
 
 However, the price of Petrol 95 remains unchanged, according to Ceypetco.
+
+UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have decided to revise its fuel prices, to match the state-owned oil company’s prices.
 
 ◼️
 
@@ -289,6 +395,8 @@ The motive behind the shooting has not yet been revealed, and Hanwella Police ar
 ◼️
 
 [Data](articles/df50ca7a.json)
+
+[Extended Data](ext_articles/df50ca7a.ext.json)
 
 ---
 
@@ -2361,101 +2469,5 @@ For the first time on July 21, nine months after the war against Hamas, the atta
 [Data](articles/32bc4c78.json)
 
 [Extended Data](ext_articles/32bc4c78.ext.json)
-
----
-
-### Podi Lassi’s relative arrested with micro pistol and ammo
-
-*2024-09-30 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102352/podi-lassis-relative-arrested-with-micro-pistol-and-ammo) · `en`
-
-Officers of the Police Special Task Force (STF) have arrested a suspect along with a micro pistol and live ammunition in Weliweriya.
-
-The arrested suspect is said to be related to the notorious underworld figure and drug trafficker Janith Madushanka alias ‘Podi Lassi’ and Meetiyagoda Dasun Rajakaruna.
-
-Police further stated that a raid was conducted following a tip-off received indicating that the suspect was planning other crimes by utilizing phone numbers of foreign countries while under the pretext that he has been hiding abroad for several years.
-
-The 46-year-old suspect has been handed over to the Weliweriya Police for further investigation.
-
-In a separate operation, STF personnel have also arrested another individual with a revolver in the Meegahawatta area.
-
-It is said that a revolver capable of firing 38mm bullets and live ammunition used for that revolver were also found in the possession of the suspect.
-
-...
-
-[Data](articles/03a9031d.json)
-
-[Extended Data](ext_articles/03a9031d.ext.json)
-
----
-
-### Recovery by military forces who tried to jump into the river
-
-*2024-09-30 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195117) · `ta`
-
-Military rescues man jumping river Matara bridge. Police investigation confirms suicide attempt.
-
-🟩
-
-A man who jumped into the river from the Mahanama Bridge in Matara has been rescued by military personnel, police said.
-
-Police investigations revealed that the person had jumped into the river to save his life.
-
-◼️
-
-[Data](articles/047ad90b.json)
-
-[Extended Data](ext_articles/047ad90b.ext.json)
-
----
-
-### Sri Lanka’s HVA raises Rs372mn in rights issue
-
-*2024-09-30 11:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-hva-raises-rs372mn-in-rights-issue-181524/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s H V A Foods Plc said its rights issue was oversubscribed.
-
-The company offered 128,276,033 shares, and raised 372,000,495.70 rupees, it said in a stock exchange filing.
-
-HVA Foods received 111 applications for 132,537,239 shares, or 384,357.993.10 rupees. “Accordingly the Rights Issue has been oversubscribed by 4,261,206 shares (Rs.12,357,497.40)”.
-
-HVA foods owns the Heladiv Tea brand which offers tea and tea-based products internationally.
-
-The company said it was “working on products ranges that respond to growing consumer trends such as wellness and natural organic applications” in its Annual Report.
-
-It is also seeking extensions outside of the food and beverage industry and looking for opportunities in cosmetics and nutraceuticals.
-
-An HVA Foods share was trading down at 3.20 on Monday. (Colombo/Sep30/2024)
-
-◼️
-
-[Data](articles/8dcb57b9.json)
-
-[Extended Data](ext_articles/8dcb57b9.ext.json)
-
----
-
-### Boat crash in the international waters
-
-*2024-09-30 11:45:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-கடற்பரப்பில்-படகு-விபத்து/175-344700) · `ta`
-
-Sri Lankan navy reports boat crash in international waters. Five fishermen on "Ranmuthu Tu 10" vessel crashed on 26th after departing Mirissa on 12th. Boat now adrift in Indian seas. Owner dispatched rescue boat. Indian Coast Guard notified via Sri Lankan ministries.
-
-🟩
-
-The Sri Lankan navy has reported that a boat carrying five Sri Lankan fishermen has crashed into the international waters.
-
-It is reported that the five Sri Lankan fishermen went fishing on the 12th of this month on the "Ranmuthu Tu 10" fishing boat from the Mirissa fishing port and the boat crashed on the 26th.
-
-Fishermen have announced to the owner of the boat that the boat that crashed is currently floating in the Indian seas.
-
-The owner of the boat said that another boat has been sent to help the fishermen in the accident.
-
-The Fisheries Department has confirmed that the Indian Coast Guard has been notified through the Ministry of Sri Lanka and the Ministry of Foreign Affairs.
-
-◼️
-
-[Data](articles/cb42b894.json)
-
-[Extended Data](ext_articles/cb42b894.ext.json)
 
 ---

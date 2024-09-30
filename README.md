@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 19:01:52**
+As of **2024-09-30 19:23:08**
 
 ## Newspaper Stats
 
-*Scraped **47,046** Articles*
+*Scraped **47,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 3,145
 adalk | 4,350
 dailymirrorlk | 4,733
 adaderanalk | 5,534
-tamilmirrorlk | 6,322
+tamilmirrorlk | 6,323
 virakesarilk | 7,527
-adaderanasinhalalk | 8,131
+adaderanasinhalalk | 8,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,045 (100.0%) of 47,046 articles have been extended.
+47,048 (100.0%) of 47,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Special statement from the Commissioner General of Examinations on scholarship paper
+
+*2024-09-30 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201697) · `si`
+
+Commissioner General of Examinations announces decision on controversial scholarship paper questions. Free marks given for three problematic questions. Expert committee recommendations considered. Police investigation ongoing regarding fraud allegations. CID consulted by Attorney General.
+
+🟩
+
+The Department of Examinations Amit Jayasundara says that the Department of Examinations Amit Jayasundara has decided to pay attention to three questions regarding the controversial scholarship paper.
+
+Speaking further Commissioner General of Examinations said the decision was made up of the recommendations made by the Expert Committee.
+
+"The Secretary presented a full report on this by the Secretary to the Prime Minister. We studied further reports and appointed a committee to recommend recommendations. We discussed this decision by discussing the recommendations of the appointment of the committee.. Here we declared yesterday in yesterday and give free marks for the three questions as a solution. Answers, give all the full points for everyone to do. Accordingly, the evaluation and evaluations will be made.
+
+...
+
+[Data](articles/3558a447.json)
+
+[Extended Data](ext_articles/3558a447.ext.json)
+
+---
+
+### The president's decision pause
+
+*2024-09-30 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எடுத்த-தீர்மானம்-இடைநிறுத்தம்/175-344724) · `ta`
+
+President Anura Kumara Dissanayake suspends fertilizer and fuel subsidies due to general election announcement. Election Commissioner RMAL Ratnayake cites potential impact on other candidates. Subsidies to resume post-election.
+
+🟩
+
+The decision of President Anura Kumara Dissanayake has been suspended to provide 25,000 rupees fertilizer subsidy for farmers and fuel subsidy for fishermen.
+
+With the announcement of the general election, the Chairman of the Elections Commission RMAL will suspend the resolution, considering the impact of other candidates by deciding to provide such a subsidy.. Ratnayake said.
+
+Accordingly, the Elections Commission has announced to the President to implement a subsidy resolution after the general election. Remble
+
+◼️
+
+[Data](articles/cbc97c9c.json)
+
+[Extended Data](ext_articles/cbc97c9c.ext.json)
+
+---
 
 ### The President's decision was suspended
 
@@ -2425,63 +2469,5 @@ He was speaking at the time of visiting the Sri Lanka Ports Authority recently.
 [Data](articles/2eb3cfa6.json)
 
 [Extended Data](ext_articles/2eb3cfa6.ext.json)
-
----
-
-### Police officer also lost to 3 fatal accidents
-
-*2024-09-30 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201677) · `si`
-
-Police officer involved in 3 fatal motorcycle accidents; 3 others seriously injured. Accidents occurred in Mahadeniya, Kandeniya, Palaly, and Ibbagamuwa areas. Investigations ongoing.
-
-🟩
-
-Three motorcycle accidents were killed and 3 others were seriously injured.
-
-The police said that the police were killed in the Mahadeniya, Kandeniya, Palaly and Ibbagamuwa areas.
-
-One motorcyclist fell to the road at the Kandy Padukka 125 road in the Mahadeniya area on the Colombo Padukka 125 road yesterday (29th).
-
-The decline was killed while the two motorons were seriously injured and admitted to the Homagama Hospital while receiving treatment at the Homagama Hospital.
-
-He was also a motorbike on the 36th kilometer on the Point Point on the Porturiya Kankasurai on the morning of the Point Pedro Kankesanthurai.
-
-The joint was killed and admitted to the Tiilippate Hospital and was admitted to the Tiilippate Hospital and was admitted to the Tipple Hospital.
-
-The motorcycle was collided with the TNA from Ibbagamuwa at Tumbagamuwa, the 5th kilometer to Madagandha on the same direction.
-
-Motorcyclist and the victim have been seriously injured and rushed to the Kurunegala hospital.
-
-...
-
-[Data](articles/f7f5ca45.json)
-
-[Extended Data](ext_articles/f7f5ca45.ext.json)
-
----
-
-### Special notice for those who do not pay taxes
-
-*2024-09-30 08:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாதவர்களுக்கு-விஷேட-அறிவிப்பு/175-344688) · `ta`
-
-Tax deadline: Pay by 30th or face fines and interest. Unpaid taxes after Oct 30 may lead to legal action under Internal Revenue Act. Contact 1944 for details.
-
-🟩
-
-The Department of Home Affairs has said that every person who has to pay the income tax for 2023/2024 will pay the tax within today (30).
-
-The department said that if anyone fails to pay or delay the tax, he will be fined as per the law and interest.
-
-Also, if any person's taxes are pending, all of them should be paid on or before October 30.
-
-The Department of Home Affairs said that if there were unpaid taxes after that day, legal action would be taken in accordance with the Internal Revenue Act.
-
-The department also stated that the opportunity to obtain more information on this through the telephone number 1944. Remble
-
-◼️
-
-[Data](articles/b040a1a3.json)
-
-[Extended Data](ext_articles/b040a1a3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 15:22:53**
+As of **2024-09-30 15:38:37**
 
 ## Newspaper Stats
 
-*Scraped **47,005** Articles*
+*Scraped **47,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,848
 dailyftlk | 3,144
 adalk | 4,343
 dailymirrorlk | 4,733
-adaderanalk | 5,528
+adaderanalk | 5,529
 tamilmirrorlk | 6,319
 virakesarilk | 7,518
 adaderanasinhalalk | 8,124
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,124
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,000 (100.0%) of 47,005 articles have been extended.
+47,005 (100.0%) of 47,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### New Cabinet to hold inaugural meeting today
+
+*2024-09-30 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102355/new-cabinet-to-hold-inaugural-meeting-today) · `en`
+
+The new Cabinet of Ministers is scheduled to meet this afternoon (30) for the first time under the patronage of President Anura Kumara Dissanayake.
+
+The Cabinet is scheduled to take several important decisions at this meeting, while the media will be briefed regarding these decisions following the meeting, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/b740dfa0.json)
+
+---
 
 ### The list of people who have taken 107 vehicles out
 
@@ -684,17 +698,23 @@ It is said that a revolver capable of firing 38mm bullets and live ammunition us
 
 ---
 
-### ஆற்றில் குதித்து உயிரை மாய்த்துக்கொள்ள முயன்றவர்  இராணுவபடையினரால் மீட்பு
+### Recovery by military forces who tried to jump into the river
 
 *2024-09-30 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195117) · `ta`
 
-மாத்தறை பிரதேசத்தில் மஹாநாம பாலத்திலிருந்து ஆற்றில் குதித்த நபரொருவர் இராணுவபடையினரால் மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Military rescues man jumping river Matara bridge. Police investigation confirms suicide attempt.
 
-குறித்த நபர் தனது உயிரை மாய்த்துக் கொள்வதற்காக ஆற்றில் குதித்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+🟩
+
+A man who jumped into the river from the Mahanama Bridge in Matara has been rescued by military personnel, police said.
+
+Police investigations revealed that the person had jumped into the river to save his life.
 
 ◼️
 
 [Data](articles/047ad90b.json)
+
+[Extended Data](ext_articles/047ad90b.ext.json)
 
 ---
 
@@ -870,23 +890,29 @@ The body of the deceased was placed at the Batticaloa-Teaching Hospital while Ca
 
 ---
 
-### ஐஸ், ஹெரோயின், போதை மாத்திரைகளும் ஐவர் கைது
+### Ice, heroin, drug pills and five arrests
 
 *2024-09-30 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195108) · `ta`
 
-கல்கிசை, இரத்மலானை மற்றும் கொத்தலாவல புர ஆகிய பிரதேசங்களில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் போதைப்பொருட்களுடன் பெண் உட்பட ஐந்து சந்தேக நபர்கள் நேற்று ஞாயிற்றுக்கிழமை (29) கைது செய்யப்பட்டுள்ளதாக கல்கிசை பொலிஸார் தெரிவித்தனர்.
+Arrests made in Malkisai, Ratmalana, Kothalawala: Ice, heroin, pills seized. Five suspects, including woman, detained. Further investigation ongoing at Mount Lavinia Police Station.
 
-கல்கிசை பொலிஸ் குற்றப் புலனாய்வுப் பிரிவினருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட  சுற்றிவளைப்புகளின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-இரத்மலானை, அங்குலான மற்றும் மொரட்டுவை ஆகிய பிரதேசங்களை சேர்ந்த 27, 30, 46 வயதுடைய நான்கு நபர்களும் 44 வயதுடைய பெண் ஒருவருமே கைது செய்யப்பட்டுள்ளனர்.
+Five suspects, including a woman, have been arrested on Sunday (29) in the area of ​​Malkisai, Ratmalana and Kothalawala Pur.
 
-கைது செய்யப்பட்ட சந்தேக நபர்களில் நால்வரிடம் இருந்து 21 கிராம் 350 மில்லிகிராம் ஐஸ் போதைப்பொருள், 12 கிராம் 250 மில்லிகிராம் ஹெரோயின், 11 கிராம் 700 மில்லிகிராம் ஹெரோயின் மற்றும் 1000 போதை மாத்திரைகளும் பெண்ணிடம் இருந்து 12 கிராம் 300 மில்லிகிராம் ஹெரோயினும் கைப்பற்றப்பட்டுள்ளது.
+The suspects have been arrested during the raids carried out on the basis of information received by the Mount Lavinia Police Criminal Investigation Division.
 
-இதனையடுத்து, கைது செய்யப்பட்ட சந்தேக நபர்கள் மேலதிக விசாரணைகளுக்காக கல்கிசை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+Four persons aged 27, 30 and 46, aged 27, 30 and 46 from Ratmalana, Angula and Moratuwa have been arrested.
+
+Of the arrested suspects, 21 grams of 350 milligrams of ice, 12 g 250 milligram of heroin, 11 grams 700 milligrams of heroin and 1000 narcotics were seized from 12 grams of heroin.
+
+Subsequently, the arrested suspects have been handed over to the Mount Lavinia Police Station for further investigations.
 
 ◼️
 
 [Data](articles/1b99602c.json)
+
+[Extended Data](ext_articles/1b99602c.ext.json)
 
 ---
 
@@ -1066,45 +1092,63 @@ However, it is not clear whether the current government will support the decisio
 
 ---
 
-### இஸ்ரேலின் விமானதாக்குதல் - மருத்துவமனையில் உயிருக்காக போராடும் ஆறுவயது லெபனான் சிறுமி
+### Israel's flight - six -year -old Lebanon girl fighting for life in hospital
 
 *2024-09-30 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195113) · `ta`
 
-பெக்கா பள்ளத்தாக்கின் மலைகளில் -  பெய்ரூட்டை போல இந்த நாட்களில் மரணம் வானத்திலிருந்து எந்த நேரத்திலும் வரலாம் என்ற நிலை காணப்படுகின்றது.
+Lebanon conflict: Six-year-old girl injured in Israeli strike. Family describes chaos as missiles hit Bekaa Valley.
 
-இஸ்ரேல் ஒரு நாள் முழுவதும் இந்த பகுதியை இலக்குவைத்து வான்தாக்குதல்களை மேற்கொண்டது.ஒரு மணித்தியாலத்தில் 30 வான்தாக்குதல்கள் இடம்பெற்றன.
+🟩
 
-அவர்களில் ஆறு வயது சிறுமி நூர் மொசாவியும் ஒருவர் .ரயாக் மருத்துவமனையில் சிறுவர்களிற்கான அதிதீவிரசிகிச்சை பிரிவில் அந்த சிறுமி சுயநினைவி;ன்றி காணப்படுகின்றார்.
+In the mountains of the Beka Valley -like Beirut, these days death can come from the sky at any time.
 
-'வீட்டின் சூழலை மிகுந்த வேடிக்கையானதாக மாற்றக்கூடியவர் அவர் இல்லாத தருணத்தில் வீடு வெறுமையாக காணப்படும்,புதியவர்களை சந்திப்பதில் அவருக்கு விருப்பம் என்கின்றார் அவர்"
+Israel targeted the area for a whole day.
 
-இஸ்ரேலின் தாக்குதலிற்கு சற்று முன்னதாக தனது மகள் தொழுகையில் ஈடுபட்டிருக்கும் படத்தை அவர் காண்பிக்கின்றார்.
+Six -year -old girl Noor Mossavi is one.
 
-தாக்குதல் ஆரம்பித்ததும் மகளை பயப்படவேண்டாம் என ஆறுதல் சொல்லிக்கொண்டிருந்தேன்,அவள் ஆண்டவனை உதவிக்கு அழைத்துக்கொண்டிருந்தால் என்கின்றார் தாயார்.
+'The person who can make the environment of the house is very funny, the house is empty in his absence. He wants to meet new people. "
 
-குண்டு சத்தம் அருகில் கேட்க தொடங்க ரீமா நூர் மற்றும் தனது இரட்டைசகோதரர்களுடன் வீட்டு வாசலில் அச்சத்துடன் பதுங்கியிருந்தார்.
+Shortly before the Israeli attack, he shows a picture of his daughter.
+
+I was consoled not to be afraid of her daughter when the attack began, and if she was taking the Lord for help, the mother says.
+
+Reema Noor and her twin skewers were hiding in the doorstep of the door to begin to hear the bomb noise.
+
+He said that we were hesitant to go home because the building would collapse if it was attacked.
+
+Reema says that the missile has come very fast until I lift Nur and his brother when I heard the bomb very seriously.
+
+While we were talking to them, there is a danger over the head again.
 
 ...
 
 [Data](articles/157957d4.json)
 
+[Extended Data](ext_articles/157957d4.ext.json)
+
 ---
 
-### හිටපු මන්ත්‍රී කුමාරසිරි රත්නායක බඹරෙක් නිසා අනතුරක
+### Former MP Kumarasiri Ratnayake is in danger due to a wasp
 
 *2024-09-30 10:59:48* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-මන්ත්‍රී-කුමාරසිරි-රත්නායක-බඹරෙක්-නිසා-අනතුරක/11-412226) · `si`
 
-මොනරාගල දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී කුමාරසිරි රත්නායක මහතාගේ කැබ්රථය ඉකුත් (29) වෙනිදා මොනරාගල බිබිල මාර්ගයේ නක්කලවත්ත ප්‍රදේශයේදී අනතුරට ලක්වී ඇතැයි මොනරාගල පොලීසිය පවසයි.
+Former MP Kumarasiri Ratnayake in danger after wasp incident during inauguration ceremony. No injuries reported but vehicle damaged. Police investigating.
 
-හිටපු මන්ත්‍රීවරයා කැබ්රථයේ රියදුරු ලෙස කටයුතුකර ඇති අතර කැබ්රථයට බඹරෙකු ඇතුළුවී ඇත.
+🟩
 
-බඹරා එළවීමට අතින් උත්සාහකිරීමේදී කැබ්රථය පාලනයකර ගැනීමට නොහැකිව පාරෙන් ඉවතට ගොස් මාර්ගය අයිනේ පස් කණ්ඩියක ගැටී පෙරළී ඇත.
+Moneragala Police say that the Cabinet of Moneragala District Parliamentarian Kumarasiri Ratnayake has been inaugurated on the Nakalawatta road on the Nakalawatta road on the 29th (29).
 
-මෙම අනතුරෙන් හිටපු මන්ත්‍රීවරයාට කිසිදු තුවාලයක් සිදුවී නොමැති අතර කැබ්රථයට හානි සිදුවී තිබේ. මොනරාගල පොලීසිය පරීක්ෂණ පවත්වයි.
+The former MP has served as the driver of the site and a piece of wasp entered.
+
+While trying to get out of the road, the corporation was unable to control the road and fell along the road.
+
+The former MP has not been injured in the accident, and the ato-piece has been damaged. Moneragala Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/68e838c7.json)
+
+[Extended Data](ext_articles/68e838c7.ext.json)
 
 ---
 
@@ -1370,25 +1414,35 @@ Hezbollah confirmed on Sunday that top military commander Ali Karaki and a senio
 
 ---
 
-### ‘ජනපති අනුර තනතුරු දෙන්නේ හිතවතුන්ට ද?’
+### 'Is the Presidential Anura posts?'
 
 *2024-09-30 08:53:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5y3g385z0yo) · `si`
 
-අනුර කුමාර දිසානායක ජනාධිපති ධූරයට පත්වීමෙන් පසුව මෙතෙක් කරන ලද පත්කිරීම් සම්බන්ධයෙන් විවිධ අදහස් ඉදිරිපත් වෙමින් පවතී.
+Here's a 200-character summary:
 
-ඇතැමෙකු චෝදනා කරන්නේ, නව ජනාධිපතිවරයා ඔහුගේ හිතවතුන් රජයේ තනතුරුවලට පත් කරන බව ය.
 
-මීට පෙර සිටි පාලකයින්ගේ පත් කිරීම් විවේචනයට ලක් කරමින් බලයට පැමිණි ජනාධිපතිවරයෙකුගෙන් එවැන්නක් අපේක්ෂා කළ නොහැකි බව ඔවුන්ගේ අදහස යි.
 
-ජනතාව නව ජනාධිපති අනුර කුමාර දිසානායකට "ඡන්දය දුන්නේ පැවති දේශපාලන සංස්කෘතිය වෙනස් කිරීමට," බව අමාත්‍ය විජිත හේරත් පවසයි.
+Anura Kumara Dissanayake's presidency faces criticism over alleged favoritism in appointments. Supporters defend choices as promoting political change, while opponents claim lack of meritocracy and potential conflicts of interest.
 
-ඔහු ඒ බව ප්‍රකාශ කළේ, පසුගිය දා ශ්‍රී ලංකා වරාය අධිකාරියට ගොස් නිලධාරීන් හමු වූ අවස්ථාවේදී ය.
+🟩
 
-"රටේ ජනතාව නව ජනාධිපතිවරයාට ඡන්දය දුන්නේ, මේ රටේ මෙතෙක් පැවතිච්ච දේශපාලන සංස්කෘතිය වෙනස් කරන්න. දේශපාලන සංස්කෘතිය වෙනස් කරනවා කියන්නේ, දේශපාලනඥයින්ගේ විතරක් නෙවෙයි. නිලධාරීන්ගේ පැත්තෙනුත්, රටේ ආයතනවලත් ඒක වෙනස් විය යුතු යි."
+After the appointment of Anura Kumara Dissanayake, various views are being made regarding the appointments made.
+
+Some allege that the new President appoints his friends to government positions.
+
+They feel that it is impossible to criticize the appointments of the rulers of the rulers before.
+
+"People to change the political culture of the people," the people have voted for the new President Anura Kumara Dissanayake, "said Minister Vijitha Herath.
+
+He was speaking at the time of visiting the Sri Lanka Ports Authority recently.
+
+"The people of the country voted for the new President, change the political culture of this country. Changes political culture is not just the only politicians. It must be different from the officers of the officers and institutions of the country. "
 
 ...
 
 [Data](articles/2eb3cfa6.json)
+
+[Extended Data](ext_articles/2eb3cfa6.ext.json)
 
 ---
 
@@ -2237,27 +2291,5 @@ UN Human Rights High Commissioner Volkar Turk addresses the progress of the cont
 [Data](articles/8458eee2.json)
 
 [Extended Data](ext_articles/8458eee2.ext.json)
-
----
-
-### Kill the main commander of Hesbullah
-
-*2024-09-29 23:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஹெஸ்புல்லாவின்-முக்கிய-தளபதி-பலி/50-344681) · `ta`
-
-Israel kills Hezbollah commander Ali Karaki in airstrike on Lebanon. Death follows assassination of Hassan Nasrallah. International media confirms.
-
-🟩
-
-Israel has announced that another key officer has been killed after 24 hours of assassination of Hesbullah organization leader Hasan Nasrallah.
-
-According to Israel's airstrikes on Lebanon, Ali Karaki, the southern front of the Hezbollah's southern front, has been killed.
-
-International media reports that Hezbullah has confirmed the death of Ali Karaki today. (A)
-
-◼️
-
-[Data](articles/d7357f09.json)
-
-[Extended Data](ext_articles/d7357f09.ext.json)
 
 ---

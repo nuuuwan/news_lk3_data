@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 19:14:42**
+As of **2024-09-30 19:01:52**
 
 ## Newspaper Stats
 
-*Scraped **47,048** Articles*
+*Scraped **47,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,51 +18,19 @@ dailyftlk | 3,145
 adalk | 4,350
 dailymirrorlk | 4,733
 adaderanalk | 5,534
-tamilmirrorlk | 6,323
+tamilmirrorlk | 6,322
 virakesarilk | 7,527
-adaderanasinhalalk | 8,132
+adaderanasinhalalk | 8,131
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,046 (100.0%) of 47,048 articles have been extended.
+47,045 (100.0%) of 47,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
-
-### ශිෂ්‍යත්ව ප්‍රශ්නපත්‍රය ගැන විභාග කොමසාරිස්ගෙන් විශේෂ ප්‍රකාශයක්
-
-*2024-09-30 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201697) · `si`
-
-මතභේදයට තුඩු දුන් ශිෂ්‍යත්ව ප්‍රශ්නපත්‍රයේ ප්‍රශ්න තුනකට අදාළව නිදහස් ලකුණු පිරිනැමීමට විභාග දෙපාර්තමේන්තුව තීරණය කරනු ලැබුවේ දරුවන් ගැන අවධානය යොමුකරමින් බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසයි.
-
-වැඩිදුරටත් අදහස් දැක්වු විභාග කොමසාරිස් ජනරාල්වරයා පවසා සිටියේ, විශේෂඥ කමිටුව මඟින් ඉදිරිපත් කළ නිර්දේශ අනුව එම තීරණයට එළැඹුන බවය.
-
-"මේ සම්බන්ධ සම්පූර්ණ වාර්තාවක් ලේකම්තුමිය විසින් අග්‍රාමාත්‍යවරියට අපි ඉදිරිපත් කළා. අපි දුන්න වාර්තා තවදුරටත් අධ්‍යයනය කරලා, නිර්දේශ ලබාදෙන්න කමිටුවක් පත් කළා. ඒ පත්කරපු කමිටුවේ නිර්දේශ දීර්ඝ වශයෙන් අපි සාකච්ඡා කරලා තමා මේ තීරණයට ආවේ. මෙතැනදි අපි ඊයේ දවසේ දී ප්‍රකාශයට පත් කළේ, විසඳුමක් හැටියට ප්‍රශ්න තුන සඳහා නිදහස් ලකුණු ලබාදෙන්න. පිළිතුරු සැපයු, නොසැපයු සියලුදෙනාට සම්පුර්ණ ලකුණු ලබාදෙන්න. ඒ අනුව ඉතා ඉක්මනින් ඇගයීම් සිදුකර ප්‍රතිඵල ලබාදෙන්නත්.
-
-...
-
-[Data](articles/3558a447.json)
-
----
-
-### ஜனாதிபதி எடுத்த தீர்மானம் இடைநிறுத்தம்
-
-*2024-09-30 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எடுத்த-தீர்மானம்-இடைநிறுத்தம்/175-344724) · `ta`
-
-விவசாயிகளுக்கு 25,000 ரூபா உர மானியமும், மீனவர்களுக்கு எரிபொருள் மானியமும் வழங்குவதற்காக ஜனாதிபதி அனுரகுமார திஸாநாயக்க எடுத்த தீர்மானம் இடைநிறுத்தப்பட்டுள்ளது.
-
-பொதுத்தேர்தல் அறிவிக்கப்பட்டுள்ள நிலையில், இவ்வாறான மானியத்தை வழங்க தீர்மானித்ததன் மூலம் ஏனைய வேட்பாளர்களுக்கு ஏற்படும் பாதிப்பை கருத்திற்கொண்டு, குறித்த தீர்மானத்தை இடைநிறுத்துவதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்துள்ளார்.
-
-இதன்படி, பொதுத் தேர்தலின் பின்னர் குறித்த மானியம் வழங்கும் தீர்மானத்தை நடைமுறைப்படுத்துமாறு தேர்தல்கள் ஆணைக்குழு ஜனாதிபதிக்கு அறிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/cbc97c9c.json)
-
----
 
 ### The President's decision was suspended
 
@@ -2457,5 +2425,63 @@ He was speaking at the time of visiting the Sri Lanka Ports Authority recently.
 [Data](articles/2eb3cfa6.json)
 
 [Extended Data](ext_articles/2eb3cfa6.ext.json)
+
+---
+
+### Police officer also lost to 3 fatal accidents
+
+*2024-09-30 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201677) · `si`
+
+Police officer involved in 3 fatal motorcycle accidents; 3 others seriously injured. Accidents occurred in Mahadeniya, Kandeniya, Palaly, and Ibbagamuwa areas. Investigations ongoing.
+
+🟩
+
+Three motorcycle accidents were killed and 3 others were seriously injured.
+
+The police said that the police were killed in the Mahadeniya, Kandeniya, Palaly and Ibbagamuwa areas.
+
+One motorcyclist fell to the road at the Kandy Padukka 125 road in the Mahadeniya area on the Colombo Padukka 125 road yesterday (29th).
+
+The decline was killed while the two motorons were seriously injured and admitted to the Homagama Hospital while receiving treatment at the Homagama Hospital.
+
+He was also a motorbike on the 36th kilometer on the Point Point on the Porturiya Kankasurai on the morning of the Point Pedro Kankesanthurai.
+
+The joint was killed and admitted to the Tiilippate Hospital and was admitted to the Tiilippate Hospital and was admitted to the Tipple Hospital.
+
+The motorcycle was collided with the TNA from Ibbagamuwa at Tumbagamuwa, the 5th kilometer to Madagandha on the same direction.
+
+Motorcyclist and the victim have been seriously injured and rushed to the Kurunegala hospital.
+
+...
+
+[Data](articles/f7f5ca45.json)
+
+[Extended Data](ext_articles/f7f5ca45.ext.json)
+
+---
+
+### Special notice for those who do not pay taxes
+
+*2024-09-30 08:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாதவர்களுக்கு-விஷேட-அறிவிப்பு/175-344688) · `ta`
+
+Tax deadline: Pay by 30th or face fines and interest. Unpaid taxes after Oct 30 may lead to legal action under Internal Revenue Act. Contact 1944 for details.
+
+🟩
+
+The Department of Home Affairs has said that every person who has to pay the income tax for 2023/2024 will pay the tax within today (30).
+
+The department said that if anyone fails to pay or delay the tax, he will be fined as per the law and interest.
+
+Also, if any person's taxes are pending, all of them should be paid on or before October 30.
+
+The Department of Home Affairs said that if there were unpaid taxes after that day, legal action would be taken in accordance with the Internal Revenue Act.
+
+The department also stated that the opportunity to obtain more information on this through the telephone number 1944. Remble
+
+◼️
+
+[Data](articles/b040a1a3.json)
+
+[Extended Data](ext_articles/b040a1a3.ext.json)
 
 ---

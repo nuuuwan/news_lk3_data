@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 12:38:49**
+As of **2024-09-30 13:08:04**
 
 ## Newspaper Stats
 
-*Scraped **46,973** Articles*
+*Scraped **46,976** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 390
 bbccomsinhala | 463
 colombotelegraphcom | 469
 islandlk | 2,760
-economynextcom | 2,845
+economynextcom | 2,848
 dailyftlk | 3,144
 adalk | 4,340
 dailymirrorlk | 4,733
@@ -26,47 +26,131 @@ adaderanasinhalalk | 8,117
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,969 (100.0%) of 46,973 articles have been extended.
+46,976 (100.0%) of 46,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
 
-### නේපාලයට බලපෑ ගංවතුරෙන් ජීවිතක්ෂයට පත් වූ පිරිස ඉහළට
+### Going Native at Tambuttegama- a Dry Zone Purana Village
+
+*2024-09-30 12:36:00* · [`islandlk`](http://island.lk/going-native-at-tambuttegama-a-dry-zone-purana-village/) · `en`
+
+Anura Kumara Dissanayaka, Sri Lanka’s new president, grew up in Tambuttegama, a Purana (old, traditional) village in the Anuradhapura District. I did extensive fieldwork for my doctoral thesis in this village over 10 months in 1978/79. At that time, I guess, the president was a young boy attending Tambuttegama Maha Vidyalaya. As I had visited practically every family in the village, I might have visited his family during my stay there.
+
+...
+
+[Data](articles/32959ec5.json)
+
+[Extended Data](ext_articles/32959ec5.ext.json)
+
+---
+
+### Sir John Kotelawela (1953 — 1956), as seen by his Assistant Secretary
+
+*2024-09-30 12:35:00* · [`islandlk`](http://island.lk/sir-john-kotelawela-1953-1956-as-seen-by-his-assistant-secretary/) · `en`
+
+The strongest man is never strong enough to be always master, unless lie transforms his power into right, and obedience to duty.
+
+At the time my story begins, a routine civil service transfer had me moved as Assistant Secretary in the prime minister’s office which was without doubt the most exalted and powerful institution in Sri Lanka. For the first 30 years of the new state’s existence, its place in the political structure remained unchallenged and unchanged. The role of the prime minister as the keystone of the arch in a Westminster-style government was paramount. It was only much later, after the second Republican Constitution in 1978 and the creation of the Executive Presidency with its enormous concentration of power, that the position of the prime minister became as it now is, devoid of constitutional authority, largely decorative’ and what its holder is able to make of it.
+
+...
+
+[Data](articles/641349ff.json)
+
+[Extended Data](ext_articles/641349ff.ext.json)
+
+---
+
+### Welcome, Comrade Anura!
+
+*2024-09-30 12:32:00* · [`islandlk`](http://island.lk/welcome-comrade-anura/) · `en`
+
+It’s official – Dissanayake Mudiyanselage Anura Kumara Dissanayake is the ninth Executive President of Sri Lanka.
+
+For those who don’t know, between 1948 – when we obtained independence from the British Empire – and 1977, the highest elected political official in Sri Lanka was the Prime Minister. He or she – Sri Lanka has the distinction of electing the world’s first woman Prime Minister – was invested with a tremendous array of powers, while the President served a ceremonial role.
+
+In 1978, the government of J. R. Jayewardene enacted a new Constitution which transformed the office of the Prime Minister into that of an all-powerful, almost omniscient Executive President who was both head of state and head of government. The then Prime Minister’s rationale was that the parliamentary system which had prevailed until then had become a hindrance and that the country required a new political arrangement which would shield its leaders from the vagaries of parliamentary politics.
+
+...
+
+[Data](articles/7cca890e.json)
+
+[Extended Data](ext_articles/7cca890e.ext.json)
+
+---
+
+### Sri Lanka, Pakistan sign agreement to strengthen legislative practices
+
+*2024-09-30 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-pakistan-sign-agreement-to-strengthen-legislative-practices-181545/) · `en`
+
+ECONOMYNEXT – The Parliament of Sri Lanka has signed an agreement with the Pakistan Institute for Parliamentary Services (PIPS) to enhance cooperation between the two legislative institutions.
+
+The MoU was signed by the High Commissioner of Pakistan to Sri Lanka, Major General (Retd) Faheem Ul Aziz HI on behalf of PIPS and Parliament Secretary General Kushani Rohanadeera.
+
+“The purpose of this MoU is to promote parliamentary democratic values and strengthen legislative practices through knowledge-sharing activities between Members of Parliament and parliamentary staff,” a government statement said.
+
+The agreement would contribute to strengthening the close cooperation between the legislative institutions of both countries, the High Commissioner said.
+
+It “would benefit the parliamentary staff by providing training opportunities and valuable expert knowledge, ultimately supporting the legislative process” Rohanadeera was quoted as saying.
+
+...
+
+[Data](articles/f625c269.json)
+
+[Extended Data](ext_articles/f625c269.ext.json)
+
+---
+
+### The victims of Nepal went up
 
 *2024-09-30 12:08:19* · [`adalk`](https://www.ada.lk/breaking_news/නේපාලයට-බලපෑ-ගංවතුරෙන්-ජීවිතක්ෂයට-පත්-වූ-පිරිස-ඉහළට/11-412227) · `si`
 
-නේපාලයේ ඇතිවූ ගංවතුර සහ නායයාම් හේතුවෙන් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 175ක් දක්වා ඉහළ ගොස් තිබේ.
+Nepal floods and landslides: 50 missing, over 4000 rescued. Death toll rising. Devastating impact on Kathmandu Valley and other areas.
 
-එමෙන්ම තවත් පුද්ගලයන් 50 දෙනෙකු පමණ අතුරුදන්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+🟩
 
-මීට අමතරව ගංවතර හේතුවෙන් නිවාස වල සිරවී සිටි පුද්ගලයන් 4000ට වැඩි පිරිසක් බේරා ගැනීමට එරට ආරක්ෂක අංශය සමත් වී තිබේ.
+The number of people killed in the floods and landslides in Nepal.
 
-Devastating floods hit Kathmandu Valley and other parts of Nepal.
+Foreign media reports that about 50 others have gone missing.
 
-A number of deaths have been confirmed while thousands of rescues have been carried out across the capital.https://t.co/OJwUg7wx8K pic.twitter.com/lUoJoFQcNf
+In addition, more than 4000 persons stuck in the houses were rescued from the houses.
+
+Devastating Flods Hit Kathmandu Valley and Other Parts of Nepal.
+
+A numberber of death confirmed WHILEMED WHIUSHANDS OF RESS HAVES HAVES HAVES HAVES HAVES HAVES HAVES HAVES HAVES HAF8WX8K PICTTHTTER.com/LUOJOFQCNF
 
 ◼️
 
 [Data](articles/354c36d1.json)
 
+[Extended Data](ext_articles/354c36d1.ext.json)
+
 ---
 
-### லெபனானில் மீண்டும் இஸ்ரேல் தாக்குதல்;  105 பேர் பலி; 350 பேர் காயம்
+### Israel attack again in Lebanon;105 killed;350 people injured
 
 *2024-09-30 12:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-மீண்டும்-இஸ்ரேல்-தாக்குதல்-105-பேர்-பலி-350-பேர்-காயம்/50-344702) · `ta`
 
-லெபனானில் மீண்டும் இஸ்ரேல் வான்வழி தாக்குதல் நடத்தியதில் 105 பேர் கொல்லப்பட்டனர். 350க்கும் மேற்பட்டோர் பலத்த காயமுற்றனர் என அந்நாட்டு சுகாதாரத்துறை அமைச்சகம் தெரிவித்துள்ளது.
+Israel attacks Lebanon: 105 killed, 350 injured. Targets Hezbollah. People fleeing. Netanyahu vows continuation. Also strikes Yemen, killing 4 Houthi rebels.
 
-ஹமாஸ் பயங்கரவாத அமைப்புக்கு எதிராக தாக்குதல் நடத்தி வரும் இஸ்ரேல், இப்போது லெபனானை தளமாக கொண்டுள்ள ஹிஸ்புல்லா அமைப்பினர் மீதும் தாக்குதல் தொடுத்து வருகிறது. சில தினங்களுக்கு முன் நடத்திய தாக்குதலில், 21 குழந்தைகள், 39 பெண்கள் உட்பட 274 பேர் கொல்லப்பட்டனர். ஹிஸ்புல்லா தலைவர் ஹசன் நஸ்ரல்லாவும் கொல்லப்பட்டார்.
+🟩
 
-இந்நிலையில், தற்போது இஸ்ரேல் மீண்டும் லெபனான் மீது வான்வழித் தாக்குதல் நடத்தியிருக்கிறது. இந்த தாக்குதலில் 105 பேர் கொல்லப்பட்டனர். 350க்கும் மேற்பட்டோர் பலத்த காயமுற்றனர் என லெபனான் சுகாதாரத்துறை தெரிவித்தது.
+105 people killed in Israel's air strike again in Lebanon. More than 350 people were seriously injured, the Ministry of Health said.
 
-இஸ்ரேல் நடத்தி வரும் தாக்குதலில் இருந்து தப்பிக்க லெபனான் மக்கள் நாட்டை விட்டு வெளியேற துவங்கி விட்டனர். எங்கள் இலக்கை அடையும் வரை நிறுத்தமாட்டோம் என இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகு உறுதியாக உள்ளார்.
+Israel, which is attacking the Hamas terrorist organization, is now attacking the Lebanon -based Hezbollah organization.. In the attack a few days ago, 274 people, including 21 children and 39 women, were killed. Hizbullah leader Hasan Nasrallah was also killed.
+
+In this case, Israel has now launched an air strike on Lebanon. 105 people were killed in the attack. More than 350 people were seriously injured, the Lebanon Health Department said.
+
+Lebanese people have begun to flee the country to escape from Israel's attack. Israeli Prime Minister Benjamin Netanyahu is sure that we will not stop until we reach our goal.
+
+For the first time on July 21, nine months after the war against Hamas, the attack launched a target of several Houthi rebels in Yemen. In this case, Israel is currently carrying out a terrible attack in Yemen.
 
 ...
 
 [Data](articles/32bc4c78.json)
+
+[Extended Data](ext_articles/32bc4c78.ext.json)
 
 ---
 
@@ -89,6 +173,34 @@ It is said that a revolver capable of firing 38mm bullets and live ammunition us
 ...
 
 [Data](articles/03a9031d.json)
+
+[Extended Data](ext_articles/03a9031d.ext.json)
+
+---
+
+### Sri Lanka’s HVA raises Rs372mn in rights issue
+
+*2024-09-30 11:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-hva-raises-rs372mn-in-rights-issue-181524/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s H V A Foods Plc said its rights issue was oversubscribed.
+
+The company offered 128,276,033 shares, and raised 372,000,495.70 rupees, it said in a stock exchange filing.
+
+HVA Foods received 111 applications for 132,537,239 shares, or 384,357.993.10 rupees. “Accordingly the Rights Issue has been oversubscribed by 4,261,206 shares (Rs.12,357,497.40)”.
+
+HVA foods owns the Heladiv Tea brand which offers tea and tea-based products internationally.
+
+The company said it was “working on products ranges that respond to growing consumer trends such as wellness and natural organic applications” in its Annual Report.
+
+It is also seeking extensions outside of the food and beverage industry and looking for opportunities in cosmetics and nutraceuticals.
+
+An HVA Foods share was trading down at 3.20 on Monday. (Colombo/Sep30/2024)
+
+◼️
+
+[Data](articles/8dcb57b9.json)
+
+[Extended Data](ext_articles/8dcb57b9.ext.json)
 
 ---
 
@@ -224,7 +336,17 @@ The body of the deceased was placed at the Batticaloa-Teaching Hospital while Ca
 
 Palestinian militant group Hamas said on Monday that its leader in Lebanon Fateh Sherif Abu el-Amin was killed along with some of his family members in an Israeli strike in the south of the country.
 
-◼️
+As Israel escalates hostilities against Iran’s allies in the region, the Popular Front for the Liberation of Palestine (PFLP) said three of its leaders were killed in a strike that targeted Beirut’s Kola district.
+
+The strike hit the upper floor of an apartment building, Reuters witnesses said.
+
+Israel’s increasing frequency of attacks against the Hezbollah militia in Lebanon and the Houthi militia in Yemen have prompted fears that Middle East fighting could spin out of control and draw in Iran and the United States, Israel’s main ally.
+
+The PFLP is another militant group taking part in the fight against Israel.
+
+Israel on Sunday launched airstrikes against the Houthi militia in Yemen and dozens of Hezbollah targets throughout Lebanon after earlier killing the Hezbollah leader.
+
+...
 
 [Data](articles/1bbc1fcd.json)
 
@@ -305,6 +427,24 @@ The President and the Police Criminal Investigation Department will be informed 
 [Data](articles/9076b2e6.json)
 
 [Extended Data](ext_articles/9076b2e6.ext.json)
+
+---
+
+### Sri Lanka’s Sanasa Development Bank gets new CEO
+
+*2024-09-30 11:06:00* · [`economynextcom`](https://economynext.com/sri-lankas-sanasa-development-bank-gets-new-ceo-181511/) · `en`
+
+ECONOMYNEXT – Kapila Prasanna Ariyaratne has been appointed the Executive Director/Chief Executive Officer of Sri Lanka’s Sanasa Development Bank Plc with effect from October 7.
+
+With the appointment of Ariyaratne, Shanka Abeywardene, who has been serving as the Acting CEO will revert to his original position as Chief Financial Officer, the bank said in a stock exchange filing.
+
+Ariyaratne, a veteran banking professional, was previously at Seylan Bank. (Colombo/Sep30/2024)
+
+◼️
+
+[Data](articles/606c6c7b.json)
+
+[Extended Data](ext_articles/606c6c7b.ext.json)
 
 ---
 
@@ -1758,17 +1898,25 @@ As a result, the Department of Meteorology has advised the public to take necess
 
 ---
 
-### දකුණු පළාත් ප්‍රධාන ලේකම් කාර්යාලයේ ඉන්ධන දීමනාවේ ගැටලුව
+### Problem of fuel allowance at the Chief Secretary's Office
 
 *2024-09-29 19:51:01* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-පළාත්-ප්‍රධාන-ලේකම්-කාර්යාලයේ-ඉන්ධන-දීමනාවේ-ගැටලුව/11-412223) · `si`
 
-දකුණු පළාත් ප්‍රධාන ලේකම් කාර්යාලයේ තනතුරු 8 ක් සඳහා එහි නිලධාරීන් 17 දෙනෙකුට 2019 මැයි සිට 2022 දෙසැම්බර් 31 කාල සීමාවෙහිදී රුපියල් එක්කෝටි හැට අට ලක්ෂ එක්දහස් පන්සිය විසි හතරක (16801524)  මුදලක් ඉන්ධන දීමනාව ලෙස ගෙවා තිබූ බව ජාතික විගණන කාර්යාලය මගින් ඉකුත් 26 දින නිකුත් කරන ලද  විගණන වාර්තාවක සඳහන්ව ඇත.
+Fuel allowance issue: 17 officers overpaid Rs. 2,041.5. Audit recommends reviewing national policies and public expenditure management. Committee formed to investigate.
 
-ඒ අතරින් 2014 ජනවාරි 02 දිනැති 01/2014 දරන ජාතික අය වැය චක්‍රලේඛනයේ 21/85 දරන ඡේදයට අනුකූල නොවන ලෙස සුපිරි පැට්‍රල් හා සුපිරි ඩීසල් රුපියල් විසි ලක්ෂ හතළිස් දහස් අටසදීය පහළොවක මුදලක් (2,040,815) ගෙවා ඇති බවද  සඳහන්වේ.
+🟩
 
-...
+Seventeen officers have been paid to eight posted Rs.Audit report is said.
+
+According to them, the super-pricult and super dasee (2,0415) has paid a sum of Rs.
+
+Audit recommended that he is concerned about the national policies and public expenditure management. The main number of Southern Provincial Council's main number of the Southern Provincial Council on the 26th of May 2019 was fuel for the official traffic allowance in the Southern Province on May 18, 2019 on May 18, 2019 on the approval of Governor Wili Gamage on May 26, 2019.It was paid on 1st. The Chief Accounting Officer has also stated that a committee consisting of the Senior Staff Officers have been appointed to check and report this.
+
+◼️
 
 [Data](articles/dafbd007.json)
+
+[Extended Data](ext_articles/dafbd007.ext.json)
 
 ---
 
@@ -2139,139 +2287,5 @@ This is one of the reasons why Gotabhaya Rajapaksa's expected security environme
 [Data](articles/69943075.json)
 
 [Extended Data](ext_articles/69943075.ext.json)
-
----
-
-### What are the Tamil national powers going to do?
-
-*2024-09-29 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195070) · `ta`
-
-Tamil national powers' plans debated ahead of elections. Civil groups meet, discuss strategies. Tamil National Alliance faces internal conflicts over youth representation. Organizations may form separate teams.
-
-🟩
-
-There is a massive debate in the Tamil context regarding the parliamentary election. Civil organizations are holding and discussing meetings. There is a serious debate within the Tamil National Alliance. It grew to the party leaders that a professor had to accommodate young generations. Civil organizations may also be able to die in a separate team.
-
-◼️
-
-[Data](articles/4e715651.json)
-
-[Extended Data](ext_articles/4e715651.ext.json)
-
----
-
-### Do not exchange otp to any cause
-
-*2024-09-29 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201667) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Banks warn: Don't share OTPs. Police advise against exchanging one-time passwords due to rising financial fraud cases.
-
-🟩
-
-The police will request the general public not to share the Messen (OTP) for the banks.
-
-They have made this request by pointing that recently serious financial frauds.
-
-◼️
-
-[Data](articles/af168017.json)
-
-[Extended Data](ext_articles/af168017.ext.json)
-
----
-
-### Did the Tamil general candidate fail?
-
-*2024-09-29 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195071) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamil general candidate performance: Not significantly impacted. Strengths remain unchanged. National party weaknesses persist. Overall stability maintained.
-
-🟩
-
-The general candidate may not get bigger but not weakened. Because what is their strength - what is the weakness of all the Tamil national parties - what is the position they are.
-
-◼️
-
-[Data](articles/ccdb05d2.json)
-
-[Extended Data](ext_articles/ccdb05d2.ext.json)
-
----
-
-### Arrest of someone with illegal koda
-
-*2024-09-29 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195076) · `ta`
-
-Police arrest 21-year-old man for illegal liquor production in Kirindiwala. 1080 liters of equipment seized during raid.
-
-🟩
-
-A suspect has been arrested by police on Saturday (28) with Koda used for illegal liquor in the Sapugahawatta area of ​​the Kirindiwala Police Division.
-
-He was arrested during a raid carried out on the basis of information received by the officers of the Kirindiwela police station.
-
-The arrested was Vihara Kumbura, a 21 -year -old from Kirindiwela.
-
-The 1080 liters (06), which was used for brewing from the suspect, was seized by the Kota police.
-
-◼️
-
-[Data](articles/64f89335.json)
-
-[Extended Data](ext_articles/64f89335.ext.json)
-
----
-
-### Arrests for illegally gem excavation
-
-*2024-09-29 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195078) · `ta`
-
-Gemstone theft arrest made in Bogawantalawa area. Police raided site, caught culprit on Saturday. Incident occurred near Sebaltanwatta region.
-
-🟩
-
-A person who illegally excavated the Gemstone in the Sebaltanwatta area belonging to the Bogawantalawa Police Division has been arrested by the police on Saturday (28).
-
-He was arrested during a raid conducted by a team of police officers Bogawantalawa.
-
-◼️
-
-[Data](articles/f435cbac.json)
-
-[Extended Data](ext_articles/f435cbac.ext.json)
-
----
-
-### Daughter, who said she was not going to school
-
-*2024-09-29 18:46:04* · [`adalk`](https://www.ada.lk/breaking_news/පෙර-පාසල්-යන්න-බෑ-කියූ-දියණිය-පිළිස්සූ-මහ-අල්ලයි/11-412219) · `si`
-
-A 4-year-old girl refused preschool. Her mother, accused of neglect, was arrested. The child is hospitalized and under investigation.
-
-🟩
-
-Motherial and Women's Bureau has been arrested by the Child and Women's Bureau of the child and women's bodies that claimed that the four-year-old furnace of the body has been denied the pre-school.
-
-The Thirty-year-old woman in the Ur Banks of the Kandy Division has been arrested by the police.
-
-Police say that the girl refused to pre school, police said.
-
-The injured girl has been identified to the Kandy National Hospital and is also to be produced before a Judicial Medical Officer.
-
-Police Superintendent of Police Anuruddha Bandaranawardena, Manuruddha Bandaranaike, and the OIC of the Women's Register, is conducting investigations.
-
-◼️
-
-[Data](articles/51d84685.json)
-
-[Extended Data](ext_articles/51d84685.ext.json)
 
 ---

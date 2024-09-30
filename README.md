@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 20:23:10**
+As of **2024-09-30 20:38:54**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 8,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,056 (100.0%) of 47,057 articles have been extended.
+47,057 (100.0%) of 47,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
 
-### කළුගංතොට සිංහයා සදහටම නික්ම යයි
+### The lion of the Kalgantatota goes out forever
 
 *2024-09-30 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201700) · `si`
 
-අභාවප්‍රාප්ත වූ හිටපු අමාත්‍ය කුමාර වෙල්ගම මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු මතුගම ආදාහනාගාරයේදී අද (30) පස්වරුවේ සිදුකෙරුණි.
+Here's a 200-character summary of the text:
 
-"කළුගංතොට සිංහයා" යන අන්වර්ථ නාමයෙන් හඳුන්වන කුමාර වෙල්ගම මහතා ශ්‍රී ලාංකේය දේශපාලනය තුළ කතාබහට ලක්වූ  ආන්දෝලනාත්මක චරිතයකි.
 
-වෙල්ගම මහතා පසුගිය සෙනසුරාදා අලුයම අභාවප්‍රාප්ත වූයේ කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදීය.
 
-මතුගම හොරවල ඩැනිස්ටන්වත්තෙහි පිහිටි ඒ මහතාගේ නිවසේ තැන්පත් කර තිබූ දේහයට අවසන් ගෞරව දක්වන්නට විශාල පිරිසක් පැමිණි බව අද දෙරණ වාර්තාකරු පැවසීය.
+Former Minister Kumara Welgama, known as "Kalguanawata Lion," died Saturday. His funeral was held today at Matugama Crematorium. Many attended, including former presidents and politicians. Welgama was controversial in Sri Lankan politics.
 
-හිටපු ජනාධිපතිවරුන් වන චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග, මහින්ද රාජපක්ෂ , රනිල් වික්‍රමසිංහ යන මහත්ම මහත්මීන් සහ හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරු ඇතුළු ඔහුගේ දේශපාලන සමකාලීනයන් හා කලාකරුවන් ද ඒ අතර වුණි.
+🟩
 
-දේහය පිළිබඳ අවසන් කටයුතු මතුගම ආදාහනාගාරයේදී අද සිදුකෙරුණේ වෙල්ගම මහතාගේ ඥාතීන්, හිතවතුන් හා ප්‍රදේශවාසීන්ගේ සෝ සුසුම් මැදය.
+The funeral of the remains of former Minister Kumara Welgama was held at the Matugama Crematorium this afternoon.
 
-ශ්‍රී ලාංකීය දේශපාලනයේ ආන්දෝලනාත්මක මිනිසා, කළුගංතොට සිංහයාට නිවන් සුව ලැබේවා.
+Kumara Welgama, who is known in the nickname "Kalguanawata Lion", is a controversial character in Sri Lankan politics.
+
+Mr. Welgama passed away on Saturday morning while receiving treatment at a private hospital in Colombo.
+
+A large number of people arrived at the remains of the remains held in the Dannistewatta, Matugama, Matugama, Ada Derana reporter.
+
+Former presidents Chandrika Bandaranaike Kumaratunga, Mahinda Rajapaksa, Ranil Wickremesinghe and former MPs and former MPs were among his political contemporaries and artists.
+
+The funeral of the body was held at the Matugama Crematorium this morning.
+
+May the controversial man of Sri Lankan politics and the Sinhalese of the Blacktamatta.
 
 ◼️
 
 [Data](articles/e4d9c905.json)
+
+[Extended Data](ext_articles/e4d9c905.ext.json)
 
 ---
 

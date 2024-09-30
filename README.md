@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 09:14:49**
+As of **2024-09-30 09:38:39**
 
 ## Newspaper Stats
 
-*Scraped **46,944** Articles*
+*Scraped **46,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ colombotelegraphcom | 469
 islandlk | 2,760
 economynextcom | 2,842
 dailyftlk | 3,144
-adalk | 4,333
+adalk | 4,334
 dailymirrorlk | 4,733
 adaderanalk | 5,521
 tamilmirrorlk | 6,305
-virakesarilk | 7,509
-adaderanasinhalalk | 8,112
+virakesarilk | 7,510
+adaderanasinhalalk | 8,113
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,944 (100.0%) of 46,944 articles have been extended.
+46,947 (100.0%) of 46,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### A person injured in police firing
+
+*2024-09-30 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195099) · `ta`
+
+Police shooting injures man in Panadura. Driver suspected, cows in truck. Incident under investigation.
+
+🟩
+
+A man was injured in a shooting carried out by police in the Panadura Palliyamulla area, police said.
+
+The police have ordered the police to stop the lorry on the road barrier carried out by the Northern Police of Panadura.
+
+The shooting has been carried out by the police due to the suspicious driver of the lorry.
+
+The man who was traveling in the vehicle was injured and the lorry was used to load the cows, police said.
+
+◼️
+
+[Data](articles/6d11761e.json)
+
+[Extended Data](ext_articles/6d11761e.ext.json)
+
+---
 
 ### Israeli strikes may have displaced million people - Lebanon PM
 
@@ -53,6 +77,38 @@ Hezbollah confirmed on Sunday that top military commander Ali Karaki and a senio
 [Data](articles/57399440.json)
 
 [Extended Data](ext_articles/57399440.ext.json)
+
+---
+
+### Police officer also lost to 3 fatal accidents
+
+*2024-09-30 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201677) · `si`
+
+Police officer involved in 3 fatal motorcycle accidents; 3 others seriously injured. Accidents occurred in Mahadeniya, Kandeniya, Palaly, and Ibbagamuwa areas. Investigations ongoing.
+
+🟩
+
+Three motorcycle accidents were killed and 3 others were seriously injured.
+
+The police said that the police were killed in the Mahadeniya, Kandeniya, Palaly and Ibbagamuwa areas.
+
+One motorcyclist fell to the road at the Kandy Padukka 125 road in the Mahadeniya area on the Colombo Padukka 125 road yesterday (29th).
+
+The decline was killed while the two motorons were seriously injured and admitted to the Homagama Hospital while receiving treatment at the Homagama Hospital.
+
+He was also a motorbike on the 36th kilometer on the Point Point on the Porturiya Kankasurai on the morning of the Point Pedro Kankesanthurai.
+
+The joint was killed and admitted to the Tiilippate Hospital and was admitted to the Tiilippate Hospital and was admitted to the Tipple Hospital.
+
+The motorcycle was collided with the TNA from Ibbagamuwa at Tumbagamuwa, the 5th kilometer to Madagandha on the same direction.
+
+Motorcyclist and the victim have been seriously injured and rushed to the Kurunegala hospital.
+
+...
+
+[Data](articles/f7f5ca45.json)
+
+[Extended Data](ext_articles/f7f5ca45.ext.json)
 
 ---
 
@@ -1700,6 +1756,28 @@ Following the investigation of the expert panel on the leak, the ministry decide
 
 ---
 
+### Manoala Digambaranala arrives at the general election
+
+*2024-09-29 18:31:07* · [`adalk`](https://www.ada.lk/breaking_news/මනෝලා-දිගම්බරන්ලා-සජිත්-සමග-මහ-මැතිවරණයට-එයි/11-412217) · `si`
+
+TNA Deputy Leader Manoala Digambaranala arrives at general election. Promises no alliance with UPFA's Samaga Kummakaram. Converses with Sajith Premadasa about reconciliation.
+
+🟩
+
+The Deputy Leader of the TNA said that the TNA demonstrated the UPFA to contest with a reconciliation unit with a reconciliation (29).
+
+Mr. Palani Digambaram has been conversation with the leader of Sajith Premadasa (29) with the leader of Sajith Premadasa (29), including the leader of the UPFA.Said.
+
+Mr. Bandarani Digambaram said he had promised his alliance that the Tamil Progress TNA would not be added to the Samaga Kummakaram that the Tamil Progress All UPFA was not added to the Samaga Progress.
+
+◼️
+
+[Data](articles/ce2bf00b.json)
+
+[Extended Data](ext_articles/ce2bf00b.ext.json)
+
+---
+
 ### You can see the first mini moon today
 
 *2024-09-29 18:26:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/இன்று-முதல்-மினி-நிலவைக்-காணலாம்/53-344662) · `ta`
@@ -2193,71 +2271,5 @@ Meanwhile, the Secretary to the Ministry of Justice, Public Administration, Home
 [Data](articles/772e47a5.json)
 
 [Extended Data](ext_articles/772e47a5.ext.json)
-
----
-
-### Showers with lightning lightning - Here are the provinces and the district
-
-*2024-09-29 15:33:42* · [`adalk`](https://www.ada.lk/breaking_news/අද-ප්‍රභල-අකුණු-සමග-වැසි---අවධානයෙන්-පසුවිය-යුතු-පළාත්-සහ-දිස්ත්‍රික්-මෙන්න/11-412209) · `si`
-
-Lightning warnings issued for Polonnaruwa, Sabaragamuwa, Southern, Central, Uva, and Eastern provinces. Residents advised to stay indoors today due to severe thunderstorms.
-
-🟩
-
-The Department of Meteorology announces the greatest lightning in the Polonnaruwa district, Sabaragamuwa, Southern, Central, Uva and Eastern provinces.
-
-Accordingly, the people living in these areas have been released today (29).
-
-◼️
-
-[Data](articles/0202038f.json)
-
-[Extended Data](ext_articles/0202038f.ext.json)
-
----
-
-### Two people arrested for video
-
-*2024-09-29 15:28:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்களை-காணொளியாக்கிய-இருவர்-கைது/175-344658) · `ta`
-
-Two youths arrested for sharing video of female police officer on social media. Incident occurred in Chilaw area.
-
-🟩
-
-Chilaw police said that two youths (29) were arrested on Sunday, posting a video of a female police officer and sharing it on social media.
-
-The arrested persons are from Chilaw Pangadeniya and Kumarakatuwa areas.
-
-As the youth arrived at the police station on the 27th of last month, the female police officer on duty recorded the footsteps of the police officer and posted it on social media.
-
-The victim's police officer and top officials have complained to top officials claiming that the video has been released on social media. Police have arrested two men on suspicion.
-
-◼️
-
-[Data](articles/7d11d74f.json)
-
-[Extended Data](ext_articles/7d11d74f.ext.json)
-
----
-
-### Arrested with heroin in Kalkissa
-
-*2024-09-29 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195056) · `ta`
-
-Heroin arrest in Kalkissa: Police seize 6g of 800mg heroin from suspect during raid on Saturday.
-
-🟩
-
-A suspect with heroin in Kalkissa Badovita area has been arrested on Saturday (28), Kalkissa police said.
-
-He was arrested during a raid carried out on the basis of information received by a group of Kalkissa police station officials.
-
-The drug was seized by the police by the arrested person, 06 grams of 800 milligrams of heroin.
-
-◼️
-
-[Data](articles/f6d2774f.json)
-
-[Extended Data](ext_articles/f6d2774f.ext.json)
 
 ---

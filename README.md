@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 01:07:59**
+As of **2024-10-01 01:23:02**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,085 (100.0%) of 47,093 articles have been extended.
+47,089 (100.0%) of 47,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
 
-### அமெரிக்காவில் ஹெலன் புயல்: 90 பேர் பலி
+### Helen Storm in the United States: 90 killed
 
 *2024-10-01 00:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவில்-ஹெலன்-புயல்-90-பேர்-பலி/50-344740) · `ta`
 
-அமெரிக்காவின் வடக்கு கரோலினா மாநிலத்தைத் தாக்கிய ஹெலன் புயல் காரணமாக மேலும் 90 பேர் உயிரிழந்துள்ளனர் என  வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+Helen Storm kills 90 in North Carolina. Electricity and communication disrupted. Roads closed due to tree collapses. Worst US hurricane in 173 years.
 
-இதற்கமைய மாநிலம் முழுவதும் மின்சாரம் மற்றும் தொலைத்தொடர்பு சேவைகள் முடங்கியுள்ளதாகவும், மரங்கள் முறிந்து வீழ்ந்துள்ளதால் பல வீதிகள் மூடப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+🟩
 
-173 ஆண்டுகளில் அமெரிக்காவைத் தாக்கிய மிக மோசமான சூறாவளியாக ஹெலன் புயல் பதிவாகியுள்ளது. (a)
+Foreign media reports that 90 more people have been killed in a Helen storm that hit the state of North Carolina in the United States.
+
+It has been reported that electricity and telecommunication services have been paralyzed throughout the state and many roads have been closed due to the collapse of trees.
+
+Helen storm recorded as the worst hurricane that hit the United States in 173 years. (A)
 
 ◼️
 
 [Data](articles/9883e2f4.json)
+
+[Extended Data](ext_articles/9883e2f4.ext.json)
 
 ---
 
@@ -62,6 +68,8 @@ This represents a historic change in the country. For the first time in Sri Lank
 
 [Data](articles/66f76ce4.json)
 
+[Extended Data](ext_articles/66f76ce4.ext.json)
+
 ---
 
 ### Triumph of an independent commission – a role model
@@ -75,6 +83,8 @@ First, we must congratulate the Chairperson, R.M.A.L. Rathnayake, the Election C
 ...
 
 [Data](articles/b22ac744.json)
+
+[Extended Data](ext_articles/b22ac744.ext.json)
 
 ---
 
@@ -115,6 +125,8 @@ What has to be understood is the fact that over the years, what has happened is 
 ...
 
 [Data](articles/1b8031ca.json)
+
+[Extended Data](ext_articles/1b8031ca.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 08:59:34**
+As of **2024-09-30 09:14:49**
 
 ## Newspaper Stats
 
-*Scraped **46,938** Articles*
+*Scraped **46,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,842
 dailyftlk | 3,144
 adalk | 4,333
 dailymirrorlk | 4,733
-adaderanalk | 5,520
-tamilmirrorlk | 6,300
+adaderanalk | 5,521
+tamilmirrorlk | 6,305
 virakesarilk | 7,509
 adaderanasinhalalk | 8,112
 
@@ -26,11 +26,151 @@ adaderanasinhalalk | 8,112
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,938 (100.0%) of 46,938 articles have been extended.
+46,944 (100.0%) of 46,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Israeli strikes may have displaced million people - Lebanon PM
+
+*2024-09-30 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102346/israeli-strikes-may-have-displaced-million-people-lebanon-pm) · `en`
+
+Israel’s continuing air strikes may have already forced as many as one million people from their homes across Lebanon, the country’s prime minister has said.
+
+“It is the largest displacement movement that may have happened,” Najib Mikati said.
+
+Lebanon’s health ministry reported more than 50 people killed in Sunday’s strikes - two days after Israel assassinated Hezbollah leader Hassan Nasrallah in Beirut. Meanwhile, Hezbollah fired more rockets into northern Israel.
+
+In a separate development, Israel said it had carried out “large-scale” air strikes on military targets of the Iran-backed Houthi movement in Yemen.
+
+Hezbollah confirmed on Sunday that top military commander Ali Karaki and a senior cleric, Sheikh Nabil Qaouk, had also been killed in the Israeli air strikes.
+
+“We need to keep hitting Hezbollah hard,” Israel’s military chief of staff Herzi Halevi said.
+
+...
+
+[Data](articles/57399440.json)
+
+[Extended Data](ext_articles/57399440.ext.json)
+
+---
+
+### Special notice for those who do not pay taxes
+
+*2024-09-30 08:44:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாதவர்களுக்கு-விஷேட-அறிவிப்பு/175-344688) · `ta`
+
+Tax deadline: Pay by 30th or face fines and interest. Unpaid taxes after Oct 30 may lead to legal action under Internal Revenue Act. Contact 1944 for details.
+
+🟩
+
+The Department of Home Affairs has said that every person who has to pay the income tax for 2023/2024 will pay the tax within today (30).
+
+The department said that if anyone fails to pay or delay the tax, he will be fined as per the law and interest.
+
+Also, if any person's taxes are pending, all of them should be paid on or before October 30.
+
+The Department of Home Affairs said that if there were unpaid taxes after that day, legal action would be taken in accordance with the Internal Revenue Act.
+
+The department also stated that the opportunity to obtain more information on this through the telephone number 1944. Remble
+
+◼️
+
+[Data](articles/b040a1a3.json)
+
+[Extended Data](ext_articles/b040a1a3.ext.json)
+
+---
+
+### Many state agencies are to be dissolved
+
+*2024-09-30 08:35:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-அரச-நிறுவனங்கள்-கலைக்கப்பட-உள்ளன/175-344687) · `ta`
+
+Sri Lanka government dissolves state agencies, including Sri Lanka Triposha. Unused assets to be removed under Renaissance Act. Activities of affected companies being investigated.
+
+🟩
+
+It is reported that the government has been focused on dissolving several state agencies, including the Sri Lanka Triposha.
+
+The Ministry of Finance, Economic Development, Policy Creation, Planning and Tourism, managed under President Anuragumara DissanayakeUnused assets are to be dissolved under the Renaissance (Removal) Act of the Act.
+
+The Gazette has stated that the activities of companies that are to be dissolved or connected to other companies are being investigated.. Remble
+
+◼️
+
+[Data](articles/a010c957.json)
+
+[Extended Data](ext_articles/a010c957.ext.json)
+
+---
+
+### Lorry - police firing
+
+*2024-09-30 08:27:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிற்காமல்-சென்ற-லொறி-பொலிஸார்-துப்பாக்கிப்-பிரயோகம்/175-344686) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Police shooting in Panadura: One injured after officers fired at a lorry. Driver ignored stop order, leading to confrontation. Victim hospitalized.
+
+🟩
+
+One person was injured and admitted to the hospital in the police shooting in the Panadura Palliyamulla area.
+
+Even though the Northern police ordered the Northern Police to stop a lorry on the police road, the police fired at it as the lorry went on.
+
+A person who was traveling in the lorry was injured and he is currently receiving treatment at the hospital, police said.
+
+Police said the lorry was used to load the lorry.. Remble
+
+◼️
+
+[Data](articles/b3c9638c.json)
+
+[Extended Data](ext_articles/b3c9638c.ext.json)
+
+---
+
+### Flooding in Nepal: 150 killed
+
+*2024-09-30 08:22:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தில்-வெள்ளப்-பெருக்கு-150-பேர்-பலி/50-344685) · `ta`
+
+Nepal flooding death toll reaches 150, 62 missing. Cities submerged in water. Disaster continues to unfold.
+
+🟩
+
+The number of victims of landslides and floods in Nepal has risen to 150.
+
+Many cities there are flooded. International media reports that 62 people have disappeared in the disaster. (A)
+
+◼️
+
+[Data](articles/9a31749c.json)
+
+[Extended Data](ext_articles/9a31749c.ext.json)
+
+---
+
+### You can see the zoo for free
+
+*2024-09-30 08:10:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிருகக்காட்சிசாலையை-இலவசமாக-பார்க்கலாம்/175-344684) · `ta`
+
+Dehiwala Zoo offers free entry to children under 12 on Oct 1. Events run from 8:30 AM to 5 PM at the National Zoo Complex.
+
+🟩
+
+The National Zoo Department said that all children under the age of 12 will be given the opportunity to visit the Dehiwala Zoo for free on October 1.
+
+Accordingly, several events have been organized from 8.30 am to 5 pm at the Dehiwala National Zoo Complex.. (A)
+
+◼️
+
+[Data](articles/cfd3701b.json)
+
+[Extended Data](ext_articles/cfd3701b.ext.json)
+
+---
 
 ### 17 Indian fishermen arrested for poaching in Sri Lankan waters
 
@@ -2119,143 +2259,5 @@ The drug was seized by the police by the arrested person, 06 grams of 800 millig
 [Data](articles/f6d2774f.json)
 
 [Extended Data](ext_articles/f6d2774f.ext.json)
-
----
-
-### President’s decision on parliamentary election expenses
-
-*2024-09-29 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102336/presidents-decision-on-parliamentary-election-expenses) · `en`
-
-The Commissioner General of Elections, Saman Sri Ratnayake, says that the President has signed the relevant document for the release of Rs. 11 billion which is expected to be expense to hold the 2024 General Election.
-
-He revealed this to the media following a discussion on preliminary preparations for the upcoming General Election.
-
-Two meetings regarding the preliminary matters concerning the parliamentary elections were conducted at the Election Commission Office in Rajagiriya yesterday (29).
-
-The first discussion was held with the participation of District Secretaries and Deputy District Secretaries, and the Commissioner General of Elections, Saman Sri Ratnayake also attended the discussion.
-
-Meanwhile, another meeting between District Returning Officers, Assistant Commissioners, and Deputy Election Commissioners was held last afternoon to further discuss election preparations.
-
-◼️
-
-[Data](articles/942deb78.json)
-
-[Extended Data](ext_articles/942deb78.ext.json)
-
----
-
-### Bright Rice, Masonry Bread Price is a reduction from midnight today
-
-*2024-09-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/195062) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Restaurant owners association announces price reduction for Fried Rice and Masonry Bread starting midnight Sunday. Egg bread price drops by 30 rupees. Association president Harshan Rukshan made announcement at media briefing today.
-
-🟩
-
-The price of Fried Rice and Masonry Bread will be reduced by midnight on Sunday (29) from midnight, the restaurant owners association said.
-
-The president of the association, Harshan Rukshan, said the price of an egg bread would be reduced by 30 rupees.
-
-He was speaking at a media briefing held today.
-
-◼️
-
-[Data](articles/faef1637.json)
-
-[Extended Data](ext_articles/faef1637.ext.json)
-
----
-
-### Arrest
-
-*2024-09-29 14:58:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூடு-வைத்த-தாய்-கைது/175-344656) · `ta`
-
-Five-year-old girl arrested for refusing school. Thirty-year-old woman charged under Children's and Women's Bureau. Girl hospitalized, case to be presented to legal officer.
-
-🟩
-
-A five -year -old girl who refused to go to school has been arrested.
-
-Thirty -year -old woman living in a rented house in Nagasthana, Kandy Police Division
-
-The Kandy Division has arrested a woman on the Children's and Women's Bureau for refusing to go to four parts of the body and warned the girl.
-
-The injured girl is admitted to the Kandy National Hospital and is to be produced before the legal officer.
-
-◼️
-
-[Data](articles/771cf4be.json)
-
-[Extended Data](ext_articles/771cf4be.ext.json)
-
----
-
-### There is no change in the price of bakery goods
-
-*2024-09-29 14:48:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேக்கரி-பொருட்களின்-விலையில்-மாற்றமில்லை/175-344655) · `ta`
-
-Bakery association: Egg product prices unchanged despite egg price drop. Wheat flour price change needed for revision.
-
-🟩
-
-The All Ceylon Bakery Association has said that the price of egg -related bakery products cannot be reduced even if the price of eggs has been reduced.
-
-The prices of bakery products will only be revised if the price of wheat flour is changed, its president NK Jayawardena said.
-
-◼️
-
-[Data](articles/bb7ae98e.json)
-
-[Extended Data](ext_articles/bb7ae98e.ext.json)
-
----
-
-### Indian fishermen arrested
-
-*2024-09-29 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201662) · `si`
-
-Indian fishermen arrested by Sri Lanka navy. 17 detained. To be handed over to Talaimannar. Rahul Gandhi writes to External Affairs Minister seeking talks with Sri Lankan authorities.
-
-🟩
-
-Several Indian fishermen have seized 17 Indian fishermen in the country.
-
-The Navy said that the fishermen were taken into custody in the same day today (29).
-
-Indian fishermen and vessels are to be handed over to the Talaimannar Talaimannar Talaimannar.
-
-Meanwhile, Indian opposition leader Rahul Gandhi has written to the External Affairs Minister Dr. S. S. S. S. S. S. S.S.
-
-The Indian Oprose leader has requested that the Indian Opposition Leader will take necessary steps to discuss with the Sri Lankan authorities.
-
-◼️
-
-[Data](articles/7f4e579d.json)
-
-[Extended Data](ext_articles/7f4e579d.ext.json)
-
----
-
-### There is no need to flee the country - Kamal Gunaratne
-
-*2024-09-29 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195050) · `ta`
-
-Retired General Kamal Gunaratne denies fleeing country, calls social media claims false.
-
-🟩
-
-Former Defense Secretary Retired General Kamal Gunaratne says there is no need to flee the country.
-
-He further stressed that the information on social media that he fled the country was completely false.
-
-◼️
-
-[Data](articles/95236135.json)
-
-[Extended Data](ext_articles/95236135.ext.json)
 
 ---

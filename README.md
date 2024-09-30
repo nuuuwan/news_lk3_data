@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 13:40:02**
+As of **2024-09-30 14:12:46**
 
 ## Newspaper Stats
 
-*Scraped **46,979** Articles*
+*Scraped **46,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,147 @@ dailyftlk | 3,144
 adalk | 4,341
 dailymirrorlk | 4,733
 adaderanalk | 5,527
-tamilmirrorlk | 6,313
+tamilmirrorlk | 6,314
 virakesarilk | 7,510
-adaderanasinhalalk | 8,118
+adaderanasinhalalk | 8,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,979 (100.0%) of 46,979 articles have been extended.
+46,984 (100.0%) of 46,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Youth man who has come back from life in Israel
+
+*2024-09-30 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201687) · `si`
+
+Sri Lankan youth commits suicide in Israel after 6 months. Ambassador cites personal reasons. Remains to be repatriated.
+
+🟩
+
+A Sri Lankan youth who departed for Israel has committed suicide.
+
+Sri Lanka Ambassador to Israel said that he had committed suicide on a personal cause, Nimal Bandara said.
+
+Mr. Nimal Bandara said that the young man had come to Israel for six months ago and was engaged in the agriculture.
+
+He added that the remains of the deceased youth to come to Sri Lanka.
+
+◼️
+
+[Data](articles/59cdf248.json)
+
+[Extended Data](ext_articles/59cdf248.ext.json)
+
+---
+
+### The new cabinet meets with three
+
+*2024-09-30 13:46:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-மூவருடன்-இன்று-கூடுகின்றது/175-344703) · `ta`
+
+New cabinet meets today: President Anura Kumara Dissanayake chairs. Attending: PM Harini Amarasuriya, Minister Vijitha Herath. Meeting scheduled for afternoon.
+
+🟩
+
+The meeting will be held this afternoon chaired by President Anura Kumara Dissanayake.
+
+President Anura Kumara Dissanayake, Prime Minister Harini Amarasuriya and Minister Vijitha Herath will also attend the meeting.
+
+◼️
+
+[Data](articles/fdcccf76.json)
+
+[Extended Data](ext_articles/fdcccf76.ext.json)
+
+---
+
+### Former MPs report to hand over firearms
+
+*2024-09-30 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201686) · `si`
+
+Former MPs return firearms to Defense Ministry. Allowances, facilities terminated post-dissolution. Official quarters usage allowed until general election.
+
+🟩
+
+The firearm had been assigned to the Ministry of Defense immediately.
+
+The Member of Parliament has informed the former MPs.
+
+A spokesperson of the Parliamentary Service Department (parliamentary sector spokesman) said that steps will be taken to further send the relevant letters to the relevant letters.
+
+All the facilities provided to the Members of Parliament were abolished with the dissolution of Parliament.
+
+Accordingly, the MP's allowance and former parliamentarians have lost their supply, fuel facilities and stamp fees.
+
+However, the official quarters given to them in Madiwela Member complex have been given the opportunity to use the official quarters of the vote.
+
+However, the quarters should be resumed again after members of the general election without re-election MPs.
+
+◼️
+
+[Data](articles/622745db.json)
+
+[Extended Data](ext_articles/622745db.ext.json)
+
+---
+
+### Another Hamas Pribuser dies
+
+*2024-09-30 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201685) · `si`
+
+Hamas member killed in Israeli strike. Three Palestinian leaders killed in Lebanon. Hamas leader Fata Sheriff Abu L Amne and family died in refugee camp. Israel attacks Yemen targets, four killed.
+
+🟩
+
+The organization has announced that the Israeli attack was killed by the Israeli attack on the Palestinian Hamas.
+
+Meanwhile, three leaders of another Palestinian armed group were killed by a Israeli attack on Lebanon.
+
+The Hamas said their Lebanon Leader, Fata Sheriff Abu L Amne, his wife, son and daughter have died there.
+
+They lived in a house in the Palestinian refugee camp in Lebanon.
+
+Meanwhile, Israel has also attacked the target to Yemen's hoomweas targets and four were killed.
+
+◼️
+
+[Data](articles/27c25920.json)
+
+[Extended Data](ext_articles/27c25920.ext.json)
+
+---
+
+### Postal voting applications tomorrow from tomorrow
+
+*2024-09-30 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201684) · `si`
+
+Postal voting applications open tomorrow. Election Commissioner discusses preparations. Presidential election funding issues. Nomination deadline set for October 11.
+
+🟩
+
+Applications for postal voting in the next general election will be held tomorrow (01).
+
+Meanwhile, Elections Commissioner General Saman Sri Ratnayake expressed these views regarding the preparation for the next general election.
+
+"The date was published by the election on the 25th. At the same time, the vocal number of elected vocal lists was certified on the 8th of July on July. "
+
+Q. There was only money for a presidential election from this road budget.. How to give the Elections Commission to the Election Commission.
+
+"If the President dissolves the Parliament at his discretion, he is bound by the Constitution to separate the money to this election. Had asked for 11 billion money asking. 5 billion agreed to give us. 10 billion rules for the presidential election. We have a quantified amount of money. Both elections can be made in the amount of money needed. "
+
+Q: Is there any UPFA, a party, and the nomination will be handed over before 11th?
+
+...
+
+[Data](articles/8e45fd5f.json)
+
+[Extended Data](ext_articles/8e45fd5f.ext.json)
+
+---
 
 ### Going Native at Tambuttegama- a Dry Zone Purana Village
 
@@ -2167,121 +2295,5 @@ Anuragumara Dissanayake's absence, the absence of the absence of the mind, the e
 [Data](articles/29cb7954.json)
 
 [Extended Data](ext_articles/29cb7954.ext.json)
-
----
-
-### Are the electronic equipment in our hands?
-
-*2024-09-29 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195047) · `ta`
-
-Lebanon Hizbulock group expects attacks on their electronic equipment. They anticipated monitoring and targeting. Now, their devices have been turned against them, compromising future communications.
-
-🟩
-
-The Lebanon Hizbulock group was expecting such attacks on them. Their expectations were that all of them could be monitored and attacked by targeting them.. They have now been converted into attack equipment and their future communication has become a scam.
-
-◼️
-
-[Data](articles/9df2a741.json)
-
-[Extended Data](ext_articles/9df2a741.ext.json)
-
----
-
-### Who made Anura beat?
-
-*2024-09-29 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/195058) · `ta`
-
-Anura beat was likely due to:
-
-
-
-1. Invalid votes: 300k
-
-2. Unpaid votes: 380k
-
-
-
-These factors significantly impacted the outcome, making them crucial determinants of success.
-
-🟩
-
-Three hundred thousand votes were invalid in the presidential election. 38 lakh votes were not paid. Both of these are the most important factors that determine success.
-
-◼️
-
-[Data](articles/8b695094.json)
-
-[Extended Data](ext_articles/8b695094.ext.json)
-
----
-
-### Negotiations failed to join Commonwealth and UNP join
-
-*2024-09-29 19:09:48* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-හා-එජාප-එක්වීමේ-සාකච්ඡා-අසාර්ථකයි/11-412221) · `si`
-
-Negotiations between Commonwealth and UNP failed due to inability to meet key conditions. Discussions stalled over issues like Samagi Prosperity Alliance and Ranil Wickremesinghe's involvement. UNP opposed Sajith Premadasa's nomination as Opposition Leader. Reconciliation efforts unsuccessful.
-
-🟩
-
-Discussions have failed for the reconciliation and the United National Party (UNP). It was impossible to maintain two of the main conditions presented by the unity.
-
-After the presidential election, Deputy Leader Ruwan Wijewardena, Deputy Leader Ruwan Wijewardena, Deputy Leader Ruwan Wijewardena, Deputy Leader Ruwan Wijewardene and former MPs to begin with a broad political alliance.
-
-The group has held eight rounds of discussions with the current agents in each way with the current representatives.
-
-The condemnation that the sign of the sign of the Samagi prosperity should be held in the new UPFA, the demand of former President Ranil Wickremesinghe should not be held in the new UPFA and has been severely obstructed to proceed.
-
-The UNP representatives have been the opinion that the majority of the votes have been considered as independent candidate in the last presidential election.
-
-...
-
-[Data](articles/c540bafb.json)
-
-[Extended Data](ext_articles/c540bafb.ext.json)
-
----
-
-### Negotiations failed to join the rise and the UN
-
-*2024-09-29 19:09:48* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-හා-එජාව-එක්වීමේ-සාකච්ඡා-අසාර්ථකයි/11-412221) · `si`
-
-Failed negotiations between UNP and UN over unity conditions. Discussions stalled due to disagreements on party leadership and electoral strategies. UNP demands Ranil Wickremesinghe remain leader, while UN insists on new leadership.
-
-🟩
-
-Discussions have failed for the reconciliation and the United National Party (UNP). It was impossible to maintain two of the main conditions presented by the unity.
-
-After the presidential election, Deputy Leader Ruwan Wijewardena, Deputy Leader Ruwan Wijewardena, Deputy Leader Ruwan Wijewardena, Deputy Leader Ruwan Wijewardene and former MPs to begin with a broad political alliance.
-
-The group has held eight rounds of discussions with the current agents in each way with the current representatives.
-
-The condemnation that the sign of the sign of the Samagi prosperity should be held in the new UPFA, the demand of former President Ranil Wickremesinghe should not be held in the new UPFA and has been severely obstructed to proceed.
-
-The UNP representatives have been the opinion that the majority of the votes have been considered as independent candidate in the last presidential election.
-
-...
-
-[Data](articles/cfbedc3f.json)
-
-[Extended Data](ext_articles/cfbedc3f.ext.json)
-
----
-
-### Is the Mega Alliance of Tamil and Muslim parties possible?
-
-*2024-09-29 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195063) · `ta`
-
-Mega alliance between Tamil and Muslim parties debated. All Ceylon People's Congress discusses fielding newcomers and disciplining rebels. National Congress plans separate contests in Ampara and Puttalam districts.
-
-🟩
-
-Hot arguments have also been held at the All Ceylon People's Congress. Here are also urged to field newcomers as candidates. There have been arguments to take disciplinary action against those who have been replacing the party's decision in the presidential election. It has also been decided to contest separately in Ampara and Puttalam districts. The National Congress has decided to contest separately in the Ampara district, sources of the party said.
-
-◼️
-
-[Data](articles/6d7732fe.json)
-
-[Extended Data](ext_articles/6d7732fe.ext.json)
 
 ---

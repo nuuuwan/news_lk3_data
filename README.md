@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 00:24:10**
+As of **2024-10-01 00:38:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,080 (100.0%) of 47,085 articles have been extended.
+47,085 (100.0%) of 47,085 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -118,6 +118,8 @@ Following a meeting of parties supporting ex-President Ranil Wickremesinghe held
 
 [Data](articles/4eca841c.json)
 
+[Extended Data](ext_articles/4eca841c.ext.json)
+
 ---
 
 ### Israel's next preparation
@@ -192,6 +194,8 @@ Sri Lanka has committed a raft of economic reforms including increasing tax reve
 
 [Data](articles/ea3907f0.json)
 
+[Extended Data](ext_articles/ea3907f0.ext.json)
+
 ---
 
 ### A proposal to the Scholarship Examination issue
@@ -241,6 +245,8 @@ Some of the NPP members said the price could be reduced by more than 100 rupees 
 ◼️
 
 [Data](articles/0bebde74.json)
+
+[Extended Data](ext_articles/0bebde74.ext.json)
 
 ---
 
@@ -822,6 +828,8 @@ The Colombo Consumer Price Index fell almost continuously from March 2024, excep
 
 [Data](articles/642b9f7f.json)
 
+[Extended Data](ext_articles/642b9f7f.ext.json)
+
 ---
 
 ### The president's decision pause
@@ -955,6 +963,8 @@ Construction decreased 62.62 percent to 18.84 million dollars from August 2023 t
 ...
 
 [Data](articles/ecd36323.json)
+
+[Extended Data](ext_articles/ecd36323.ext.json)
 
 ---
 

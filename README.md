@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 17:39:33**
+As of **2024-09-30 18:19:49**
 
 ## Newspaper Stats
 
-*Scraped **47,029** Articles*
+*Scraped **47,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,72 @@ dbsjeyarajcom | 390
 bbccomsinhala | 464
 colombotelegraphcom | 469
 islandlk | 2,762
-economynextcom | 2,848
+economynextcom | 2,856
 dailyftlk | 3,144
 adalk | 4,348
 dailymirrorlk | 4,733
 adaderanalk | 5,533
 tamilmirrorlk | 6,321
-virakesarilk | 7,524
+virakesarilk | 7,527
 adaderanasinhalalk | 8,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,029 (100.0%) of 47,029 articles have been extended.
+47,037 (100.0%) of 47,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Sri Lanka rupee closes stronger at 296.10/60 to US dollar, bond yields up
+
+*2024-09-30 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-296-10-60-to-us-dollar-bond-yields-up-181636/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated further to close at 296.10/60 to the US dollar Monday, from 298.70/299.00 a day earlier, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed stable at 10.65/80 percent.
+
+A bond maturing on 15.12.2027 closed at 11.60/75 percent, up from 11.40/55 percent.
+
+A bond maturing on 15.02.2028 closed at 11.85/12.00 percent, up from 11.75/85 percent.
+
+A bond maturing on 15.05.2030 closed at 12.00/20 percent, up from 11.90/12.05 percent.
+
+Meanwhile the central bank announced 142,500 million rupees in Treasury bills are to be issued through its auction
+
+◼️
+
+[Data](articles/18ad8e9d.json)
+
+[Extended Data](ext_articles/18ad8e9d.ext.json)
+
+---
+
+### Two youth arrested in Jaffna
+
+*2024-09-30 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/195162) · `ta`
+
+Two youths arrested in Jaffna: 18-year-old and 24-year-old from violent gang. Police seized 2 handguns, 4 swords, 4 petrol bombs. Handed over to Manipay Police Station for legal action.
+
+🟩
+
+Two youths from a violent gang have been arrested in Jaffna, including two handguns.
+
+Yall. Based on the confidential information available to the District Crime Unit, the police have arrested two youths aged 18 and 24, aged Manipay.
+
+Police said 02 handguns, 04 swords and 4 petrol bombs were seized from the arrested persons.
+
+In addition, the Manipay police have been handed over to the Manipay Police Station for further legal action for further legal action.
+
+◼️
+
+[Data](articles/3c33bd7a.json)
+
+[Extended Data](ext_articles/3c33bd7a.ext.json)
+
+---
 
 ### If the parties do not want to join the parliamentary election as the Tamil party - Sumanthiran
 
@@ -55,6 +103,90 @@ Therefore, it is only a little more time since the filing of the nomination pape
 [Data](articles/1a4976c9.json)
 
 [Extended Data](ext_articles/1a4976c9.ext.json)
+
+---
+
+### Actress Inia starrer 'Seeran'
+
+*2024-09-30 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195148) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Seeran" stars Inia, "Siriran" features debutant James Karthik. Music preview released by director M. Rajesh. Film promotes education as weapon against oppression. Directed by Murugan, produced by Netco Studios.
+
+🟩
+
+The music and preview of the film 'Siriran' starring debutant James Karthik is the hero of the story.
+
+Director M.. Rajesh released the music and preview on the role of a special guest.
+
+Introduction Director Durai K. James Karthik, Inia, Sonia Agarwal, Krisha Group, 'Aadukalam' Narain, Gondayan, Murthy, Ajith, Aryan, Arundhati Nair and many others star in the film 'Siriran' directed by Murugan.
+
+The film, which has been recorded by Bhaskar Arumugam, has composed the film by Arvind Gerald, Sasitharan and Jubin.
+
+Producer James Karthik on behalf of Netco Studios. Niaz has been co -produced.
+
+The music and preview of the film, which will be released in the world worldwide on the fourth of October, was held in Chennai.
+
+Speaking at the time, actress Inia said, “I have played the role of Poongothi in this movie. I have played three different badges as a 20 -year -old woman, two children and a 56 -year -old woman.
+
+...
+
+[Data](articles/42ef63b5.json)
+
+[Extended Data](ext_articles/42ef63b5.ext.json)
+
+---
+
+### Sathyaraj starrer 'Zebra'
+
+*2024-09-30 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195150) · `ta`
+
+"Zebra" film summary: Satya Dev, Dali Tananjaya, Sathyaraj star. Directed by Ishwar Karthik. Produced by Old Town Pictures and Padmaja Films. Releases October 31st in Tamil, Telugu, Malayalam, Kannada, Hindi. Expected to showcase financial irregularities and emotional scenes.
+
+🟩
+
+The film 'Zebra' has been released in the lead role of the leading film actors of the South Indian film industry Satya Dev, Dali Tananjaya and Sathyaraj.
+
+Directed by director Ishwar Karthik, 'Zebra' starring Satya Dev, Dali Tananjaya, Satyaraj, Priya Bhavani Shankar, Sunil, Satya, Jennifer Pikinado.
+
+Producers SS on behalf of Old Town Pictures and Padmaja Films India Private Limited. My. Reddy, S. Padmaja, Balasundaram and Dinesh Sundaram are co -produced.
+
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 31st of October.
+
+The expectation of the film has increased as those who engage in financial irregularities, the existing parties and the emotional scenes are in place.
+
+◼️
+
+[Data](articles/4c7828fb.json)
+
+[Extended Data](ext_articles/4c7828fb.ext.json)
+
+---
+
+### Sri Lanka stocks close up, positive momentum continues
+
+*2024-09-30 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-positive-momentum-continues-181621/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 0.69 percent, or 81.17 points, at 11,855; while the more liquid S&P SL20 Index closed up 1.45 percent, or 49.51 points, at 3,459.
+
+“The positive momentum in the market continued,” Softlogic Stockbrokers said.
+
+Top turnover generators were Hatton National Bank (up at 204.75), United Motors (down at 52.40), John Keells Holdings (up at 179.25), Hayleys Fabric (up at 52.50), and Dipped Products (up at 37.80).
+
+Banking stocks were up; Commercial Bank (up at 101.25), Sampath Bank (up at 77.70), HNB, DFCC Bank (up at 77.00) and National Development Bank (up at 78.30).
+
+Top foreign buying was seen in JKH, Vidullanka (up at 14.00), Tokyo Cement (up at 49.00), Browns Investments (flat at 5.90), PGP Glass (up at 29.00) and Melstacorp (up at 85.00).
+
+...
+
+[Data](articles/6b99e5a2.json)
+
+[Extended Data](ext_articles/6b99e5a2.ext.json)
 
 ---
 
@@ -256,6 +388,50 @@ Hatton National Bank has recorded the lowest selling value of several major comm
 
 ---
 
+### Sri Lanka goods exports rise 4.1-pct in August 2024, apparels up
+
+*2024-09-30 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-goods-exports-rise-4-1-pct-in-august-2024-apparels-up-181575/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s goods exports grew 4.1 percent from a year ago to 1.1 billion dollars in August 2024, the island’s export promotion office said, helped by a spike in apparel exports.
+
+Apparel and textiles rose to 511.13 million dollars in August 2024 from 511.13 million last year. This was the first time in two years that exports topped 500 million dollars, Sri Lana’s Export Development Board said.
+
+During the eight months to August exports rose 5.37 percent to 8.4 billion dollars.
+
+In the month of August, tea grew 9.11 percent to 130.54 million dollars, rubber products grew 29.48 percent to 103.79 million, and coconut products grew 38.3.
+
+Export earnings from food and beverages decreased by 11.71 percent to 40.7 million dollars, with poor performance in exports of processed food.
+
+Export earnings from electrical and electronics components, other export crops, seafood and ornamental fish also decreased.
+
+...
+
+[Data](articles/ddec0c8c.json)
+
+[Extended Data](ext_articles/ddec0c8c.ext.json)
+
+---
+
+### Sri Lanka sees deflation in year to September 2024, economic growth growls softly
+
+*2024-09-30 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-deflation-in-year-to-september-2024-economic-growth-growls-softly-181581/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has produced 0.1 percent deflation over the past 12-months based on the widely watched Colombo Consumer Price Index, running broadly deflationary policy with currency stability, official data show.
+
+The Colombo Consumer Price Index fell almost continuously from March 2024, except June when the currency also came under pressure from excess liquidity from dollar purchases.
+
+Sri Lanka’s central bank has produced almost no inflation for 24 months since September 2024, when its deflationary policy began to show up in the balance of payments.
+
+In March 2023, the central bank lifted a surrender rule, that had led to a collapse of the currency during a failed float in 2022, and allowed the exchange rate to appreciate from 360 to around 300 sharply bringing down traded goods and food prices, even as services went up to make up for the currency collapse.
+
+...
+
+[Data](articles/d4fd0e1a.json)
+
+[Extended Data](ext_articles/d4fd0e1a.ext.json)
+
+---
+
 ### Spoon heated his daughter's body
 
 *2024-09-30 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201693) · `si`
@@ -335,6 +511,28 @@ Previously, that skill was referred to Sachin Tenderkar (India), Kumar Sangakkar
 [Data](articles/f2e1b230.json)
 
 [Extended Data](ext_articles/f2e1b230.ext.json)
+
+---
+
+### Sri Lanka EC shoots down President’s fertilizer, fuel subsidies ahead of Nov 14 general elections
+
+*2024-09-30 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-shoots-down-presidents-fertilizer-fuel-subsidies-ahead-of-nov-14-general-elections-181577/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Election Commission (EC) has urged state authorities to refrain from implementing President Anura Kumara Dissanayake’s instruction to increase fertilizer subsidy to 25,000 rupees per hectare to paddy farmers starting from October 1, a top EC official said.
+
+The EC has called for Parliament elections on November 14 after the conclusion of presidential poll on September 21.
+
+Dissanayake on September 26 instructed the Treasury to provide an allowance of 25,000 rupees per hectare to paddy farmers during the main (Maha) cultivation season of 2024/25.
+
+According to this initiative, the fertilizer subsidy was to be increased from 15,000 rupees per hectare and the money was to be directly transferred to farmers’ bank accounts to ensure efficient delivery of the subsidy.. the President’s Media Division (PMD) has said.
+
+The President also directed the Treasury to implement a fuel subsidy for the fishing community, effective from October 01.
+
+...
+
+[Data](articles/8ce64865.json)
+
+[Extended Data](ext_articles/8ce64865.ext.json)
 
 ---
 
@@ -529,6 +727,24 @@ The order was issued when the case was taken up for hearing in the presence of C
 [Data](articles/e254f7b9.json)
 
 [Extended Data](ext_articles/e254f7b9.ext.json)
+
+---
+
+### CPC tried to collect dues, up to current gov to follow through: Former minister
+
+*2024-09-30 15:11:00* · [`economynextcom`](https://economynext.com/cpc-tried-to-collect-dues-up-to-current-gov-to-follow-through-former-minister-181557/) · `en`
+
+ECONOMYNEXT – The Ceylon Petroleum Corporation had taken steps to interdict officials who had failed to recover dues, and it’s now up to the current Government to follow through with the process and recover the lost revenue and pass down the benefit of the court decision to the consumers, former Minister of Power and Energy has said.
+
+Kanchana Wijesekera issued a clarification on a newspaper article that “the previous Government of President @RW_SRILANKA have failed to recover due revenue from the Petroleum Dealers.”
+
+Wijesekera said when he assumed duties in April 2022, instructions were given to CPC to recover due revenue from lease agreements, rentals and dealer margins from the decisions which were approved by the CPC board in 2006 and not implemented until 2014.
+
+“The Ministry instructed CPC in 2022 to recover the revenue that was due from 2014. When CPC started recovering in 2022 the Petroleum Dealers Association prevented CPC the recovery with an interim order against the decision.
+
+...
+
+[Data](articles/39f4cda0.json)
 
 ---
 
@@ -781,6 +997,30 @@ Helicopters and boats are being used to rescue people who have taken refuge on t
 [Data](articles/53653262.json)
 
 [Extended Data](ext_articles/53653262.ext.json)
+
+---
+
+### Sri Lanka CSE, DFCC Bank ring bell on first green bond issuance
+
+*2024-09-30 14:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-cse-dfcc-bank-ring-bell-on-first-green-bond-issuance-181552/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s DFCC Bank marked the inaugural issuance of Green Bonds on the Colombo Stock Exchange (CSE) on Monday.
+
+This was a key step toward promoting sustainable finance in Sri Lanka, the CSE said.
+
+The CSE introduced listing of Green Bonds in April last year and officials said a few parties have expressed interests in listing.
+
+DFFC Bank’s green bond issue to raise 2.5 billion rupees was oversubscribed.
+
+The bond issue was given an A- (lka) rating by Fitch Ratings.
+
+The notes, the first listed green bond issuance in Sri Lanka, will mature in three years with fixed coupons.
+
+Proceeds from the bond issuance will be used to finance eligible green projects such as photovoltaic power generation, the bank has said. (Colombo/Sep30/2024)
+
+◼️
+
+[Data](articles/08721fb1.json)
 
 ---
 
@@ -1137,6 +1377,26 @@ The propaganda which possibly helped the NPP leader to overcome SJB and UNP lead
 [Data](articles/1426a105.json)
 
 [Extended Data](ext_articles/1426a105.ext.json)
+
+---
+
+### Sri Lanka, Pakistan to cooperate on legislative practices
+
+*2024-09-30 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-pakistan-to-cooperate-on-legislative-practices-181545/) · `en`
+
+ECONOMYNEXT – The Parliament of Sri Lanka has signed an agreement with the Pakistan Institute for Parliamentary Services (PIPS) to enhance cooperation between the two legislative institutions.
+
+The MoU was signed by the High Commissioner of Pakistan to Sri Lanka, Major General (Retd) Faheem Ul Aziz HI on behalf of PIPS and Parliament Secretary General Kushani Rohanadeera.
+
+“The purpose of this MoU is to promote parliamentary democratic values and strengthen legislative practices through knowledge-sharing activities between Members of Parliament and parliamentary staff,” a government statement said.
+
+The agreement would contribute to strengthening the close cooperation between the legislative institutions of both countries, the High Commissioner said.
+
+It “would benefit the parliamentary staff by providing training opportunities and valuable expert knowledge, ultimately supporting the legislative process” Rohanadeera was quoted as saying.
+
+...
+
+[Data](articles/a7df4ad5.json)
 
 ---
 
@@ -2205,227 +2465,5 @@ Accordingly, several events have been organized from 8.30 am to 5 pm at the Dehi
 [Data](articles/cfd3701b.json)
 
 [Extended Data](ext_articles/cfd3701b.ext.json)
-
----
-
-### 17 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-09-30 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102345/17-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-The Sri Lanka Navy has seized 02 Indian fishing boats and apprehend 17 Indian fishermen while they were poaching in Sri Lankan waters, during a special operation conducted in the sea area north of Mannar.
-
-The North Central Naval Command had spotted a cluster of Indian fishing boats engaging in illegal fishing in Sri Lankan waters yesterday morning (29).
-
-In response, the Northern Naval Command deployed its Fast Attack Craft and North Central Naval Command its Inshore Patrol Craft to drive away those Indian fishing boats poaching in the sea area north of Mannar.
-
-The operation resulted in the seizure of 02 Indian boats and apprehension of 17 Indian fishermen who continued to remain in Sri Lankan waters, the navy said.
-
-The seized boats together with Indian fishermen were brought to the Talaimannar Pier and they will be handed over to the Mannar Fisheries Inspector for onward legal proceedings, it said.
-
-...
-
-[Data](articles/1f8fe3cc.json)
-
-[Extended Data](ext_articles/1f8fe3cc.ext.json)
-
----
-
-### Police shooting a lorry transporting cattle
-
-*2024-09-30 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201676) · `si`
-
-Panadura police shoot lorry carrying cattle, injure one person during operation.
-
-🟩
-
-A person was injured in a shooting incident in the Palliyamulla area in Panadura.
-
-A sedicated operation carried out by police Panadura has commanded a lorry at a police road barrier.
-
-The lorry was committed and the lorry has been a suspicious and the police have shot the lorry.
-
-One person was injured and he is currently receiving treatment at the hospital.
-
-Police said the police had been transporting beef from the lorry at the time.
-
-◼️
-
-[Data](articles/b811fc93.json)
-
-[Extended Data](ext_articles/b811fc93.ext.json)
-
----
-
-### Heavy showers expected in several provinces
-
-*2024-09-30 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102344/heavy-showers-expected-in-several-provinces) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places over most parts of the island during the afternoon or night.
-
-Heavy showers of about 100 mm can be expected at some places in Western, Sabaragamuwa, Central, Southern and North-western provinces.
-
-Showers may occur in Southern province and in Batticaloa and Ampara districts during the morning too.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/852cc68a.json)
-
-[Extended Data](ext_articles/852cc68a.ext.json)
-
----
-
-### Taxes' last day today
-
-*2024-09-30 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201675) · `si`
-
-Taxes deadline today: Pay 2023/2024 income tax before penalties. Complete payments by Oct 30. Unpaid taxes may lead to legal action. Contact 1944 for more information.
-
-🟩
-
-The Intellectual Revenue Department has informed all the income tax money paid for the valuation of 2023/2024 by everyone to pay for the valuation tax.
-
-The department said that if anyone would defuntee the payment or delays, subordinate to a penalty and interest in terms of laws.
-
-And if a person has taxes for any taxes, it must be completed on October 30 or on that day.
-
-The Inland Revenue Department says that if the deficit is no longer available, legal action will be taken to recover them.
-
-The Department said that the 1944 telephone number was provided for further information.
-
-◼️
-
-[Data](articles/89d413a3.json)
-
-[Extended Data](ext_articles/89d413a3.ext.json)
-
----
-
-### Thunderstorms today
-
-*2024-09-30 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201674) · `si`
-
-Thunderstorms forecasted today. Showers expected in Western, Sabaragamuwa, Southern, and Northwestern provinces. Southern Province may see morning showers. Public advised to take precautions against strong winds and lightning.
-
-🟩
-
-The Department of Meteorology states that there will be showers at several places in the evening or night in many parts of the island.
-
-The announcement issued by the department states in some places in the Western, Sabaragamuwa, Southern and Northwestern provinces. About 100 tight closes.
-
-Showers may occur in the morning in the Southern Province and in the Batticaloa and Ampara Districts.
-
-They call on the public to take necessary steps to reduce temporary winds and lightning accidents.
-
-◼️
-
-[Data](articles/4af5778d.json)
-
-[Extended Data](ext_articles/4af5778d.ext.json)
-
----
-
-### Plantation workers are poor, destitute, and helpless, but their poetic expressions are marvellous
-
-*2024-09-30 05:46:06* · [`dailyftlk`](https://www.ft.lk/columns/Plantation-workers-are-poor-destitute-and-helpless-but-their-poetic-expressions-are-marvellous/4-767334) · `en`
-
-When the Britishers introduced tea as an export crop to old Ceylon in mid 19th century, it was a game changer. It transformed the traditional subsistence agricultural economy that prevailed to a modern plantation economy seeking to satisfy the demand for the new beverage called tea spreading like a pandemic across Europe and Americas. Initially, it was a beverage of the rich and the aristocrats. A pound of tea was sold, according to advertisements that were inserted in papers, for 25 Sterling Pounds. This exclusive product was made inclusive by ingenious marketing strategies adopted by tea traders like presenting it as a brain tonic.
-
-...
-
-[Data](articles/8a64a390.json)
-
-[Extended Data](ext_articles/8a64a390.ext.json)
-
----
-
-### Social reformer AKD, Sri Lanka’s 9th President
-
-*2024-09-30 05:35:49* · [`dailyftlk`](https://www.ft.lk/columns/Social-reformer-AKD-Sri-Lanka-s-9th-President/4-767333) · `en`
-
-The election of Jair Bolsonaro in Brazil shocked the country’s political establishment and sharply divided opinion. While some warned that Bolsonaro—a far-right populist who admired Brazil’s military dictatorship—posed a serious threat to democracy, others believed that Brazil’s strong institutions, including an assertive press and independent judiciary, would curb his authoritarian tendencies. This debate mirrors the global discussion surrounding populist leaders. Similarly, Sri Lanka is undergoing a political shift, with citizens demanding accountability from elites who have long failed them.
-
-President Anura’s meteoric rise as a “Leader of the People” to become Sri Lanka’s 9th Executive President is emblematic of this trend. However, his presidency faces significant challenges, particularly in balancing his populist appeal with the deep-seated demands of economic governance and institutional reform.
-
-...
-
-[Data](articles/c3076f8c.json)
-
-[Extended Data](ext_articles/c3076f8c.ext.json)
-
----
-
-### Fervent appeal to Minister Amarasuriya; please free Royal College from deep rooted corruption
-
-*2024-09-30 05:29:27* · [`dailyftlk`](https://www.ft.lk/opinion/Fervent-appeal-to-Minister-Amarasuriya-please-free-Royal-College-from-deep-rooted-corruption/14-767332) · `en`
-
-To date, I have written over 25 letters to Principal Waththuhewa and over 10 to Education Secretary Thilaka Jayasundara, making the same appeal. I don’t mind their not acknowledging my emails, as long as they had acted to eradicate rampant money collections at the Royal Primary.
-
-The Principal and his management team of 50 senior administrators completely ignore the thriving and omnipresent corruption happening right in front of them, employing a handpicked set of parents to rake in millions (without receipts/accounts/audits) and keeping the loot in private bank accounts. Please refer to the recent article where we showed the last year’s illegal collections topped Rs. 100 million (https://www.ft.lk/opinion/Education-Ministry-urged-to-probe-alleged-financial-malpractices-at-The-Royal-College-Primary/14-760265).
-
-...
-
-[Data](articles/2bc5060a.json)
-
-[Extended Data](ext_articles/2bc5060a.ext.json)
-
----
-
-### CA Sri Lanka to equip private sector to defeat corruption
-
-*2024-09-30 04:51:03* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-to-equip-private-sector-to-defeat-corruption/34-767313) · `en`
-
-From left: CIABOC Commissioner Chethiya Goonesekera, The Ceylon Chamber of Commerce former Chairman Suresh Shah, and CA Council Member and Ernst & Young Partner Anoji De Silva
-
-A recent session organised by the Policy Advocacy and Economic Contribution Committee (PAEC Committee) of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) focused on how the private sector can act as a catalyst in fighting corruption, with a specific emphasis on the responsibilities of directors.
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) is essential for promoting accountability and combating corruption in Sri Lanka. The recently enacted Anti-Corruption Act, No. 9 of 2023, plays a pivotal role in reinforcing integrity and ethical conduct within public service.
-
-The CA session aimed to raise awareness about anti-corruption initiatives, engage the private sector, and explore actionable measures beyond legislation.
-
-...
-
-[Data](articles/bd4c978a.json)
-
-[Extended Data](ext_articles/bd4c978a.ext.json)
-
----
-
-### Hatch partners with the Lankan Angel Network to host “She Loves Tech” to empower Sri Lankan women in tech
-
-*2024-09-30 04:48:04* · [`dailyftlk`](https://www.ft.lk/business/Hatch-partners-with-the-Lankan-Angel-Network-to-host-She-Loves-Tech-to-empower-Sri-Lankan-women-in-tech/34-767312) · `en`
-
-From: Hatch Senior Program Manager Ruvanara Tillekeratne, Ceylon Speechie Founder Nadini Perera, Hatch Director Brindha Selvadurai, and Lankan Angel Network Principal Dinali de Silva
-
-From left: Hatch Senior Program Manager Ruvanara Tillekeratne, Ophtha Innovations CEO Dr. Dhanushi Hettiarachchi, Women In Tech Ambassador – Sri Lanka Chapter Chathini Uduwana, and Dialog Ideamart Senior Tech Evangelist Dushantha Ranwala
-
-AnybanQ Founder Petula Wijesinghe pitching at the She Loves Tech Semi Finals
-
-In 2024, as technology advances and reshapes the future workforce, the underrepresentation of women in STEM remains a significant challenge. Despite the growing demand for skilled professionals in science, technology, engineering, and mathematics (STEM), women only account for 34% of the STEM workforce.
-
-...
-
-[Data](articles/3d02c189.json)
-
-[Extended Data](ext_articles/3d02c189.ext.json)
-
----
-
-### Ceylon Beverage Holdings announces new additions to Board
-
-*2024-09-30 04:42:29* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Beverage-Holdings-announces-new-additions-to-Board/34-767311) · `en`
-
-Ceylon Beverage Holdings PLC has announced the appointment of Jonathan Alles, Ajay Bhaskar Baliga, and Saktha Amaratunga as Independent Non-Executive Directors on its Board.
-
-Alles and Amaratunga have also been appointed to the Board of Lion Brewery Ceylon PLC.
-
-Alles was the Managing Director/Chief Executive Officer of Hatton National Bank PLC, one of Sri Lanka’s largest private sector banks. He counts over 37 years of banking experience, having served several international banks including the National Bank of Abu-Dhabi, Saudi British Bank-Riyadh, British Bank of the Middle-East, and HSBC, Dubai and Colombo, before taking on the reins at HNB.
-
-...
-
-[Data](articles/c17d8b01.json)
-
-[Extended Data](ext_articles/c17d8b01.ext.json)
 
 ---

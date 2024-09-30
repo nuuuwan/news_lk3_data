@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 03:57:13**
+As of **2024-10-01 04:10:16**
 
 ## Newspaper Stats
 
-*Scraped **47,103** Articles*
+*Scraped **47,104** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 465
-colombotelegraphcom | 470
+colombotelegraphcom | 471
 islandlk | 2,763
 economynextcom | 2,861
 dailyftlk | 3,161
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,103 (100.0%) of 47,103 articles have been extended.
+47,104 (100.0%) of 47,104 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -513,6 +513,20 @@ It also shows that before the scholarship examination question paper is a very s
 [Data](articles/c1614a8b.json)
 
 [Extended Data](ext_articles/c1614a8b.ext.json)
+
+---
+
+### Governmental Expenditure Vs. Sustainable Growth In Sri Lanka
+
+*2024-09-30 22:13:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/governmental-expenditure-vs-sustainable-growth-in-sri-lanka/) · `en`
+
+Over the past few decades, people witnessed disruptive politicians who governed the country returning to power. However, this change somewhat in 2024, voters are making decisions based on policies than just for a party. This sentiment is reflected in the over 4.7 million voters (out of 6.9 million) who previously voted for the former President but have now supported the current President, Anura Kumara Dissanayake. This is a clear objection and a mandate to keep them out and initiate a complete system change. Additionally, those who voted for the current President on September 21st, along with a growing number of others, are advocating for legislation that would permanently disqualify corrupt politicians from holding any elected or appointed positions in the future.
+
+...
+
+[Data](articles/fc496cd6.json)
+
+[Extended Data](ext_articles/fc496cd6.ext.json)
 
 ---
 
@@ -2321,31 +2335,5 @@ Helicopters and boats are being used to rescue people who have taken refuge on t
 [Data](articles/53653262.json)
 
 [Extended Data](ext_articles/53653262.ext.json)
-
----
-
-### Sri Lanka CSE, DFCC Bank ring bell on first green bond issuance
-
-*2024-09-30 14:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-cse-dfcc-bank-ring-bell-on-first-green-bond-issuance-181552/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s DFCC Bank marked the inaugural issuance of Green Bonds on the Colombo Stock Exchange (CSE) on Monday.
-
-This was a key step toward promoting sustainable finance in Sri Lanka, the CSE said.
-
-The CSE introduced listing of Green Bonds in April last year and officials said a few parties have expressed interests in listing.
-
-DFFC Bank’s green bond issue to raise 2.5 billion rupees was oversubscribed.
-
-The bond issue was given an A- (lka) rating by Fitch Ratings.
-
-The notes, the first listed green bond issuance in Sri Lanka, will mature in three years with fixed coupons.
-
-Proceeds from the bond issuance will be used to finance eligible green projects such as photovoltaic power generation, the bank has said. (Colombo/Sep30/2024)
-
-◼️
-
-[Data](articles/08721fb1.json)
-
-[Extended Data](ext_articles/08721fb1.ext.json)
 
 ---

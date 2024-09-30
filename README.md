@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 00:54:15**
+As of **2024-10-01 01:07:59**
 
 ## Newspaper Stats
 
-*Scraped **47,085** Articles*
+*Scraped **47,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 465
 colombotelegraphcom | 469
 islandlk | 2,763
 economynextcom | 2,861
-dailyftlk | 3,145
+dailyftlk | 3,152
 adalk | 4,356
 dailymirrorlk | 4,733
 adaderanalk | 5,540
-tamilmirrorlk | 6,325
+tamilmirrorlk | 6,326
 virakesarilk | 7,533
 adaderanasinhalalk | 8,142
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,085 (100.0%) of 47,085 articles have been extended.
+47,085 (100.0%) of 47,093 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-10-01 (Tuesday)
+
+### அமெரிக்காவில் ஹெலன் புயல்: 90 பேர் பலி
+
+*2024-10-01 00:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவில்-ஹெலன்-புயல்-90-பேர்-பலி/50-344740) · `ta`
+
+அமெரிக்காவின் வடக்கு கரோலினா மாநிலத்தைத் தாக்கிய ஹெலன் புயல் காரணமாக மேலும் 90 பேர் உயிரிழந்துள்ளனர் என  வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+இதற்கமைய மாநிலம் முழுவதும் மின்சாரம் மற்றும் தொலைத்தொடர்பு சேவைகள் முடங்கியுள்ளதாகவும், மரங்கள் முறிந்து வீழ்ந்துள்ளதால் பல வீதிகள் மூடப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+
+173 ஆண்டுகளில் அமெரிக்காவைத் தாக்கிய மிக மோசமான சூறாவளியாக ஹெலன் புயல் பதிவாகியுள்ளது. (a)
+
+◼️
+
+[Data](articles/9883e2f4.json)
+
+---
+
 ### 2024-09-30 (Monday)
+
+### A political and policy tightrope awaits Sri Lanka’s new president
+
+*2024-09-30 23:41:56* · [`dailyftlk`](https://www.ft.lk/opinion/A-political-and-policy-tightrope-awaits-Sri-Lanka-s-new-president/14-767366) · `en`
+
+Anura Kumara Dissanayake has emerged victorious in Sri Lanka’s Presidential election, held on 21 September 2024. Dissanayake, who obtained 42.3% of the votes, managed to secure victory over his closest competitor Sajith Premadasa, who gained 32.8% of votes.
+
+This represents a historic change in the country. For the first time in Sri Lanka’s post-independence history, a candidate belonging to neither of the two main elite parties or their offshoots has come to power. Incumbent president Ranil Wickremesinghe came in a distant third, with 17.3% of the votes. Namal Rajapaksa, the son of former president Mahinda Rajapaksa, came fourth with a mere 2.6% of the votes.
+
+...
+
+[Data](articles/66f76ce4.json)
+
+---
+
+### Triumph of an independent commission – a role model
+
+*2024-09-30 23:39:39* · [`dailyftlk`](https://www.ft.lk/columns/Triumph-of-an-independent-commission-a-role-model/4-767365) · `en`
+
+A peaceful, fair, and corruption-free national election is a rare achievement for a developing, financially struggling country. However, we should take pride in our Election Commission, which excelled in planning, executing, counting, and releasing the results of a significant and complex election in a remarkably short time. Additionally, the Commission effectively mitigated post-election celebrations, preventing the violence and intimidation that often follow.
+
+First, we must congratulate the Chairperson, R.M.A.L. Rathnayake, the Election Commission board members, and all staff for their outstanding work. Such recognition is seldom seen, even in the media, which tends to focus more on inflammatory stories that threaten peace.
+
+...
+
+[Data](articles/b22ac744.json)
+
+---
 
 ### The solution to the parents of the President to the President
 
@@ -57,6 +103,18 @@ Later, they remained near the Presidential Secretariat, and six parents have a d
 [Data](articles/c4b8e283.json)
 
 [Extended Data](ext_articles/c4b8e283.ext.json)
+
+---
+
+### President’s invitation for constructive criticism; some points to consider
+
+*2024-09-30 23:27:10* · [`dailyftlk`](https://www.ft.lk/columns/President-s-invitation-for-constructive-criticism-some-points-to-consider/4-767361) · `en`
+
+What has to be understood is the fact that over the years, what has happened is that Governments have only ‘managed’ the economy, and that too not very well, and not developed the economy. This indicates that a fundamental change in thinking is required. To do so, a great change in thinking is urgently required. Though the political will to do so has been expressed, I am not too certain, that the process to achieve has been understood
+
+...
+
+[Data](articles/1b8031ca.json)
 
 ---
 
@@ -122,6 +180,20 @@ Following a meeting of parties supporting ex-President Ranil Wickremesinghe held
 
 ---
 
+### Reflecting on the results through railway promises
+
+*2024-09-30 23:16:26* · [`dailyftlk`](https://www.ft.lk/columns/Reflecting-on-the-results-through-railway-promises/4-767360) · `en`
+
+Is it reasonable for the Government to take on more debt to build tracks and commit taxpayer funds to a service that is incapable of even covering operational costs?
+
+An outspoken activist justified his support for Anura Kumara Dissanayake (AKD) because of the superiority of the manifesto proposals on public transport, especially railways. It’s possible that the actual decision was taken on some other basis, but the railway proposals shed light on a larger problem. I had studied the manifestos in detail but paid little attention to sector proposals, considering them irrelevant in the context of the financial constraints any successful candidate would have to work within in 2024-29.
+
+...
+
+[Data](articles/02f57cfb.json)
+
+---
+
 ### Israel's next preparation
 
 *2024-09-30 23:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201705) · `si`
@@ -154,6 +226,32 @@ The attacks on Israel was not stopped at Lebanon and 105 people were killed in y
 
 ---
 
+### The change started, but it will not be ending
+
+*2024-09-30 23:10:01* · [`dailyftlk`](https://www.ft.lk/columns/The-change-started-but-it-will-not-be-ending/4-767359) · `en`
+
+There are many election manifestos flying around these days issued by the major contenders for the next Presidential election on 21 September 2024. This much awaited contest has a very significant focus on the national economy which is still in the grips of a dire emergency, irrespective of the claims of recovery made by those in power.
+
+...
+
+[Data](articles/2027a3d2.json)
+
+---
+
+### AKD’s “change” with IMF and RW’s “economic stability”
+
+*2024-09-30 23:01:45* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-change-with-IMF-and-RW-s-economic-stability/4-767358) · `en`
+
+In plain language, IMF is only about getting back to the rotten and festering past. The “change” that AKD and NPP promised should be a better socio-economic life with peace and decency around and the security forces back in barracks. Perhaps, AKD needs a new open discourse outside the NPP before formulating his 2025 annual budget
+
+“Many steps have to be taken during a considerably long period, to achieve the ‘change’ we aspire. They nevertheless need ensuring stability and trust in this present economy. We have therefore decided to begin discussions with the IMF as soon as possible to move ahead with the Extended Fund Facility” – President Anura Kumara Dissanayake in his first address to the nation on 25 September 2024 (translated from Sinhala script).
+
+...
+
+[Data](articles/a5dbb579.json)
+
+---
+
 ### “Don't go to Syria” warns Sri Lankans
 
 *2024-09-30 22:56:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரியாவுக்குச்-செல்ல-வேண்டாம்-இலங்கையர்களுக்கு-எச்சரிக்கை/175-344727) · `ta`
@@ -175,6 +273,20 @@ Sri Lankans in these countries can contact the embassy or embassy via slemb.beir
 [Data](articles/20fa4c8b.json)
 
 [Extended Data](ext_articles/20fa4c8b.ext.json)
+
+---
+
+### The change started, but it will not be ending
+
+*2024-09-30 22:45:07* · [`dailyftlk`](https://www.ft.lk/columns/The-change-started-but-it-will-not-be-ending/4-767357) · `en`
+
+Generally, changes are fundamental, dynamic, and demanding, so they are not time-bound. Some changes can be quick, others take time, and some are long-term. AKD/NPP will make changes on priority and step by step, along with what he promised. However, the impact of any change on the masses and the country must be positive; people must be able to feel, understand, and be convinced. Only then could the welfare and well-being of the masses be enhanced, step by step, in the right direction
+
+Since March 2024, I have written 24 articles about the change Sri Lanka and its people have wanted since 1948, and the AKD/NPP has committed accordingly. The change that the people and the country want to witness is massive in terms of economic, social, political, cultural, and many more. A peaceful or nonviolent Presidential election marked the beginning of the realisation of change, while the opposition advocated violent polls because of their bankruptcy in many ways.
+
+...
+
+[Data](articles/595a4b6c.json)
 
 ---
 
@@ -2299,155 +2411,5 @@ According to the data collected by the doctor, 5,485 women in Sri Lanka have ide
 [Data](articles/535aac80.json)
 
 [Extended Data](ext_articles/535aac80.ext.json)
-
----
-
-### Kamala Harris campaign momentum shows no sign of waning
-
-*2024-09-30 12:43:00* · [`islandlk`](http://island.lk/kamala-harris-campaign-momentum-shows-no-sign-of-waning/) · `en`
-
-Fed cuts interest rate by 0.5%, indicating optimism in already strong economy
-
-We are less than six weeks from the most significant election in the history of the United States of America, when the electorate of the most powerful nation in the world elects its leaders for the next four years.
-
-Until a few months ago, the protagonists for the U.S. Presidency were incumbent President Biden and former President Trump. As many as 75% of the US electorate, Republican and Democratic, were “Double Haters”, who believed neither of these old fogies was capable of leading the nation.
-
-The total meltdown of President Biden at the first Presidential Debate on June 27 provided the inevitable pivotal point in an untenable situation.
-
-...
-
-[Data](articles/31ff0123.json)
-
-[Extended Data](ext_articles/31ff0123.ext.json)
-
----
-
-### Going Native at Tambuttegama- a Dry Zone Purana Village
-
-*2024-09-30 12:36:00* · [`islandlk`](http://island.lk/going-native-at-tambuttegama-a-dry-zone-purana-village/) · `en`
-
-Anura Kumara Dissanayaka, Sri Lanka’s new president, grew up in Tambuttegama, a Purana (old, traditional) village in the Anuradhapura District. I did extensive fieldwork for my doctoral thesis in this village over 10 months in 1978/79. At that time, I guess, the president was a young boy attending Tambuttegama Maha Vidyalaya. As I had visited practically every family in the village, I might have visited his family during my stay there.
-
-...
-
-[Data](articles/32959ec5.json)
-
-[Extended Data](ext_articles/32959ec5.ext.json)
-
----
-
-### Message for the Sri Lanka-West Indies Cricket Tournament
-
-*2024-09-30 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201683) · `si`
-
-Sri Lanka Cricket announces online ticket sales for West Indies series. Tickets available at Science Training Center, Dambulla Stadium, and Pallekele Stadium starting Oct 10. Purchase at Dambulla Pradeshiya Sabha during T20 matches, Pallekele from Oct 18, and Balagolla for ODI. Ticket windows open 9am-8pm, closing at 5:30pm.
-
-🟩
-
-Sri Lanka Cricket states that traffic will launched on online method for the upcoming Sri Lanka-West Indies cricket tournament.
-
-Meanwhile, ticket windows at Science Training and Dambulla cricket stadium in Colombo 7 opened from October 10.
-
-Tickets will be sold at the Dambulla Pradeshiya Sabha office on the days of the T20.
-
-The tickets will be sold at the Pallekele Stadium from October 18 and can also purchase tickets at the Balagolla on the ODI International.
-
-The Ticketing Windows will also be open from 9am to 8 pm and open the Window Ticket window to 5.30 pm.
-
-◼️
-
-[Data](articles/81c98079.json)
-
-[Extended Data](ext_articles/81c98079.ext.json)
-
----
-
-### Welcome, Comrade Anura!
-
-*2024-09-30 12:32:00* · [`islandlk`](http://island.lk/welcome-comrade-anura/) · `en`
-
-It’s official – Dissanayake Mudiyanselage Anura Kumara Dissanayake is the ninth Executive President of Sri Lanka.
-
-For those who don’t know, between 1948 – when we obtained independence from the British Empire – and 1977, the highest elected political official in Sri Lanka was the Prime Minister. He or she – Sri Lanka has the distinction of electing the world’s first woman Prime Minister – was invested with a tremendous array of powers, while the President served a ceremonial role.
-
-In 1978, the government of J. R. Jayewardene enacted a new Constitution which transformed the office of the Prime Minister into that of an all-powerful, almost omniscient Executive President who was both head of state and head of government. The then Prime Minister’s rationale was that the parliamentary system which had prevailed until then had become a hindrance and that the country required a new political arrangement which would shield its leaders from the vagaries of parliamentary politics.
-
-...
-
-[Data](articles/7cca890e.json)
-
-[Extended Data](ext_articles/7cca890e.ext.json)
-
----
-
-### The girl who keeps a cannabis cigar
-
-*2024-09-30 12:28:43* · [`adalk`](https://www.ada.lk/breaking_news/ගංජා-සුරුට්ටුවක්-ළඟ-තබාගත්-තරුණියට-වැඩ-වරදියි/11-412228) · `si`
-
-A 19-year-old woman from Horagolla was fined by the Court of Mahara No 01 for possessing a cannabis cigar. She was arrested by Kiribathgoda Police and appeared in court 90071 and 10789.
-
-🟩
-
-The Court of Mahara No 01 The Court of Harvesta Kanchana de Silva was appointed to pay a fine of Rs.
-
-The fines was given to a 19 year old resident of Horagolla area in Ganemulla.
-
-The girl arrested by Kiribathgoda Police was produced before the courts (90071) and Kosasinghe (10789).
-
-◼️
-
-[Data](articles/c343f264.json)
-
-[Extended Data](ext_articles/c343f264.ext.json)
-
----
-
-### Sri Lanka Provides Hope for Democracy in the West
-
-*2024-09-30 12:28:00* · [`islandlk`](http://island.lk/sri-lanka-provides-hope-for-democracy-in-the-west/) · `en`
-
-Sri Lanka’s Presidential election saw a genuine left-winger, from a Marxist party, record a victory that upended the country’s political establishment. But the NPP’s win was more than just historic for this country. A man whose ideology with regard to the fundamental questions of policy differs from all predecessors was elected. This is something presently unimaginable in the West. While it may have been different 100 years ago, today in most major Western countries, there is increasingly no way for the public to vote away the two sacred cows of the establishment: neoliberal capitalism and neo-con foreign policy. Here, Sri Lanka can provide hope.
-
-...
-
-[Data](articles/aea2b37e.json)
-
-[Extended Data](ext_articles/aea2b37e.ext.json)
-
----
-
-### PRESIDENTIAL ELECTION:
-
-*2024-09-30 12:24:00* · [`islandlk`](http://island.lk/presidential-election-2/) · `en`
-
-The propaganda which possibly helped the NPP leader to overcome SJB and UNP leaders was their capacity to aggressively agitate against many features of an ‘’iniquitous system’’ which people attributed to have been responsible for the bankruptcy of the country. They also exploited the belief of people that members of political groups or traditional parties which exchanged political power in turn, enjoyed perquisites and privileges associated with the “system”, while citizens suffered under the weight of the economic collapse. The “Aragalaya’’ of May 1922 heralded the emergence on a pervasive scale of hatred against the ‘’system”. The NPP took notice, and their campaign against it did not abate till the conclusion of the election.
-
-...
-
-[Data](articles/1426a105.json)
-
-[Extended Data](ext_articles/1426a105.ext.json)
-
----
-
-### Sri Lanka, Pakistan to cooperate on legislative practices
-
-*2024-09-30 12:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-pakistan-to-cooperate-on-legislative-practices-181545/) · `en`
-
-ECONOMYNEXT – The Parliament of Sri Lanka has signed an agreement with the Pakistan Institute for Parliamentary Services (PIPS) to enhance cooperation between the two legislative institutions.
-
-The MoU was signed by the High Commissioner of Pakistan to Sri Lanka, Major General (Retd) Faheem Ul Aziz HI on behalf of PIPS and Parliament Secretary General Kushani Rohanadeera.
-
-“The purpose of this MoU is to promote parliamentary democratic values and strengthen legislative practices through knowledge-sharing activities between Members of Parliament and parliamentary staff,” a government statement said.
-
-The agreement would contribute to strengthening the close cooperation between the legislative institutions of both countries, the High Commissioner said.
-
-It “would benefit the parliamentary staff by providing training opportunities and valuable expert knowledge, ultimately supporting the legislative process” Rohanadeera was quoted as saying.
-
-...
-
-[Data](articles/a7df4ad5.json)
-
-[Extended Data](ext_articles/a7df4ad5.ext.json)
 
 ---

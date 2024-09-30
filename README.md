@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 14:12:46**
+As of **2024-09-30 14:25:13**
 
 ## Newspaper Stats
 
-*Scraped **46,984** Articles*
+*Scraped **46,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ colombotelegraphcom | 469
 islandlk | 2,760
 economynextcom | 2,848
 dailyftlk | 3,144
-adalk | 4,341
+adalk | 4,342
 dailymirrorlk | 4,733
 adaderanalk | 5,527
-tamilmirrorlk | 6,314
+tamilmirrorlk | 6,315
 virakesarilk | 7,510
-adaderanasinhalalk | 8,122
+adaderanasinhalalk | 8,123
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,984 (100.0%) of 46,984 articles have been extended.
+46,984 (100.0%) of 46,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### ප්‍රබල අකුණු සමග වැසි ගැන කාලගුණයෙන් අනතුරු ඇඟවීමක්
+
+*2024-09-30 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201688) · `si`
+
+සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව, දකුණ, මධ්‍යම, ඌව සහ වයඹ පළාත්වලත් අම්පාර, මඩකළපුව සහ පොළොන්නරුව දිස්ත්‍රික්කවලත් ගිගුරුම් සහිත වැසි ඇති විය හැකි බව එම නිවේදනයේ දැක්වෙයි.
+
+ගිගුරුම් සහිත වැසි ඇතිවන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි බව එම නිවේදනයේ සඳහන් ව ඇත.
+
+ඔවුන් ජනතාවගෙන් ඉල්ලීමක් කර ඇත්තේ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසය.
+
+◼️
+
+[Data](articles/285adb3f.json)
+
+---
 
 ### Youth man who has come back from life in Israel
 
@@ -618,6 +636,26 @@ The President and the Police Criminal Investigation Department will be informed 
 
 ---
 
+### 8 வயது சிறுமி பாலியல் வன்புணர்வு : 60 வயது நபர் கைது
+
+*2024-09-30 11:12:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/8-வயது-சிறுமி-பாலியல்-வன்புணர்வு-60-வயது-நபர்-கைது/73-344695) · `ta`
+
+வீடுகளுக்கு சென்று குர்ஆன் ஓதுவிக்கும்  நபரினால்  சிறுமி பாலியல் சேட்டைக்கு முகம் கொடுத்த சம்பவம் அம்பாறை மாவட்டம் சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட புற நகர் பகுதியில் இடம்பெற்றுள்ளது.
+
+குறித்த சம்பவம் சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட புதிய வளத்தாப்பிட்டி இஸ்மாயில் புரம் பகுதியில் அமைந்துள்ள வீடொன்றில் ஞாயிற்றுக்கிழமை (29) இடம்பெற்றுள்ளதாகவும் குறித்த சிறுமியை பாலியல் துஸ்பிரயோகம் செய்த 60 வயது மதிக்கத்தக்க சந்தேக நபரை சம்மாந்துறை பொலிஸார் கைது செய்து தடுப்பு காவலில்  வைத்துள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது,
+
+பொலிஸாருக்கு கிடைக்கப்பெற்ற விசாரணை நடவடிக்கைகளை மேற்கொண்டு  சந்தேக நபர் திங்கட்கிழமை (30) கைது செய்யப்பட்டுள்ளார்.
+
+மேலும் குறித்த சம்பவத்தில் பாதிக்கப்பட்ட 8 வயது சிறுமி சம்மாந்துறை ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரை சம்மாந்துறை நீதிவான் நீதிமன்றில் ஆஜர்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c768d881.json)
+
+---
+
 ### Sri Lanka’s Sanasa Development Bank gets new CEO
 
 *2024-09-30 11:06:00* · [`economynextcom`](https://economynext.com/sri-lankas-sanasa-development-bank-gets-new-ceo-181511/) · `en`
@@ -851,6 +889,20 @@ Police also stated that the lorry was illegally transporting cattle at the time.
 [Data](articles/ab0759f8.json)
 
 [Extended Data](ext_articles/ab0759f8.ext.json)
+
+---
+
+### රුපියල් මිලියන 142, 500 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් අනිද්දා
+
+*2024-09-30 09:16:17* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-142--500-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-අනිද්දා/11-412225) · `si`
+
+රුපියල් මිලියන එක්ලක්ෂ හතලිස්  දෙදහස් පන්සියයක්    වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් අනිද්දා (2 ) දා  පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+දින 91 න් කල් පිරෙන රුපියල් මිලියන 65 000  ක් වටිනා භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 67  500 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 10 000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව කියයි. මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම ඔක්තෝම්බර් 04 දා සිදු කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/a4b0e21a.json)
 
 ---
 
@@ -2229,71 +2281,5 @@ Sri Lanka Police today advised customers of banks not to share their One Time Pa
 [Data](articles/848c1981.json)
 
 [Extended Data](ext_articles/848c1981.ext.json)
-
----
-
-### Palestinian genocide and Gaza destruction is a profitable trade for US -European partnerships
-
-*2024-09-29 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195033) · `ta`
-
-US-European partnerships profit from Palestinian genocide and Gaza destruction. Biden claims ceasefire efforts but Western politics ignores public demands, controlled by trade alliances. Democratic accountability lost, prioritizing profits over people's lives.
-
-🟩
-
-Ordinary people have made it clear that the killings should be over, which is why Bidan pretends to “work tirelessly” to negotiate a ceasefire. He can come with a ceasefire. But the truth is that Western politics is now in a single thing that does not listen to the demand of the people. The last remnants of democratic accountability have been destroyed by Western political organizations for many years. Western politics are now captured by powerful trade alliances.
-
-◼️
-
-[Data](articles/9d366a58.json)
-
-[Extended Data](ext_articles/9d366a58.ext.json)
-
----
-
-### Is Sri Lanka like Vietnam?
-
-*2024-09-29 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195038) · `ta`
-
-Sri Lanka differs from Vietnam:
-
-
-
-Vietnam focuses on industrialization, freedom, sovereignty, and regional stability. Its diplomacy influences Southeast Asia.
-
-
-
-Sri Lanka faces challenges in implementing similar policies due to local political dynamics and regional differences.
-
-🟩
-
-Creating a positive peaceful permanent environment for the industrialization of the country, the protection of the protection of the freedom of the people, the protection of sovereignty and regional integrity, is the basic policy of the practical Vietnamese government.. Vietnamese diplomacy has been an influential structure in Southeast Asia. But it is a huge challenge to create and control such a public policy beyond chauvinist influence in Sri Lanka in South Asia.
-
-◼️
-
-[Data](articles/fa73015c.json)
-
-[Extended Data](ext_articles/fa73015c.ext.json)
-
----
-
-### Anura's success and new hope
-
-*2024-09-29 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195042) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Anura's success stems from Anuragumara Dissanayake's absence. His elegant speeches and proactive attitude drew crowds. The "Building Movement" campaign and social media efforts contributed to his popularity. The song "Ratta Anuradha" played a crucial role in his triumph.
-
-🟩
-
-Anuragumara Dissanayake's absence, the absence of the absence of the mind, the elegant speech and the active attitude attracted the people.. Building movement and social media campaigns;The song 'Ratta Anuradha' played a significant role in this success.
-
-◼️
-
-[Data](articles/29cb7954.json)
-
-[Extended Data](ext_articles/29cb7954.ext.json)
 
 ---

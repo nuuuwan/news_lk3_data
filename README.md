@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 08:26:18**
+As of **2024-09-30 08:03:27**
 
 ## Newspaper Stats
 
-*Scraped **46,936** Articles*
+*Scraped **46,931** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 463
-colombotelegraphcom | 469
+colombotelegraphcom | 468
 islandlk | 2,760
 economynextcom | 2,842
 dailyftlk | 3,144
-adalk | 4,333
+adalk | 4,332
 dailymirrorlk | 4,733
-adaderanalk | 5,519
-tamilmirrorlk | 6,300
+adaderanalk | 5,518
+tamilmirrorlk | 6,298
 virakesarilk | 7,509
 adaderanasinhalalk | 8,111
 
@@ -26,29 +26,11 @@ adaderanasinhalalk | 8,111
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,928 (100.0%) of 46,936 articles have been extended.
+46,928 (100.0%) of 46,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
-
-### Heavy showers expected in several provinces
-
-*2024-09-30 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102344/heavy-showers-expected-in-several-provinces) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places over most parts of the island during the afternoon or night.
-
-Heavy showers of about 100 mm can be expected at some places in Western, Sabaragamuwa, Central, Southern and North-western provinces.
-
-Showers may occur in Southern province and in Batticaloa and Ampara districts during the morning too.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/852cc68a.json)
-
----
 
 ### Taxes' last day today
 
@@ -550,18 +532,6 @@ Among the highlights of the event was the introduction of the first-ever Mini LE
 
 ---
 
-### Plantation Workers Are Poor, Destitute, & Helpless, But Their Poetic Expressions Are Marvellous
-
-*2024-09-30 00:39:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/plantation-workers-are-poor-destitute-helpless-but-their-poetic-expressions-are-marvellous/) · `en`
-
-When the Britishers introduced tea as an export crop to old Ceylon in mid 19th century, it was a game changer. It transformed the traditional subsistence agricultural economy that prevailed to a modern plantation economy seeking to satisfy the demand for the new beverage called tea spreading like a pandemic across Europe and Americas. Initially, it was a beverage of the rich and the aristocrats. A pound of tea was sold, according to advertisements that were inserted in papers, for 25 Sterling Pounds. This exclusive product was made inclusive by ingenious marketing strategies adopted by tea traders like presenting it as a brain tonic.
-
-...
-
-[Data](articles/015379fc.json)
-
----
-
 ### 2024-09-29 (Sunday)
 
 ### We will negotiate with Mahinda, Namal- Rohitha Abeygunawardena
@@ -585,38 +555,6 @@ We will announce a resolution on the party and symbol that is contesting in the 
 [Data](articles/1ee8153a.json)
 
 [Extended Data](ext_articles/1ee8153a.ext.json)
-
----
-
-### இன்று பலத்த மழை
-
-*2024-09-29 23:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பலத்த-மழை/175-344683) · `ta`
-
-மத்திய, சபரகமுவ, வடமேல் மற்றும் தென் மாகாணங்களிலும் களுத்துறை மாவட்டத்தின் சில இடங்களில் இன்றைய தினம் மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-அத்துடன், மாலை அல்லது இரவு வேளைகளில், இடியுடன் கூடிய மழை பெய்யக்கூடிய சாத்தியம் நிலவுகிறது.
-
-இதேவேளை, மேல், சப்ரகமுவ, மத்திய, ஊவா, கிழக்கு, வடமேல் மற்றும் தென் மாகாணங்களிலும் பொலன்னறுவை மாவட்டத்திலும் அதிகளவில் மின்னல் தாக்கம் ஏற்படக்கூடும் எனவும் அது தொடர்பில் அவதானமாக இருக்குமாறு வளிமண்டலவியல் திணைக்களம் பொது மக்களை அறிவுறுத்தியுள்ளது. (a)
-
-◼️
-
-[Data](articles/044cfec3.json)
-
----
-
-### கடற்றொழிலுக்கு செல்ல வேண்டாம்
-
-*2024-09-29 23:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழிலுக்கு-செல்ல-வேண்டாம்/175-344682) · `ta`
-
-நாட்டின் தென்கிழக்கு கடற் பகுதிகளில் நிலவும் சீரற்ற வானிலை காரணமாக கடற்றொழிலாளர்களை கடலுக்குச் செல்ல வேண்டாம் என வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது.
-
-மேற்படி பகுதிகளில் மழை பெய்யும் சந்தர்ப்பங்களில் காற்றானது மணித்தியாலத்துக்கு 70 முதல் 80 கிலோமீற்றர் வேகத்தில் வீசக்கூடும்.
-
-எனவே, மறு அறிவித்தல் வரை கடற்றொழிலாளர்கள் கடலுக்குச் செல்ல வேண்டாம் என அறிவுறுத்தப்பட்டுள்ளனர். (a)
-
-◼️
-
-[Data](articles/9788dec6.json)
 
 ---
 
@@ -1247,24 +1185,6 @@ In addition, the police also seized 274,400 rupees suspected of being taken from
 [Data](articles/676cb0e1.json)
 
 [Extended Data](ext_articles/676cb0e1.ext.json)
-
----
-
-### රෝස පැහැති නයි පැටියා දෙහිවලට
-
-*2024-09-29 18:56:38* · [`adalk`](https://www.ada.lk/breaking_news/රෝස-පැහැති-නයි-පැටියා-දෙහිවලට/11-412220) · `si`
-
-වතුගෙදර ආඳාදොළ දුම්රිය නැවතුම් පොළ අසල නිවසක මිදුලේ සිටි දුර්ලභ ගණයේ රෝස නාගයකු අද (29දා) දහවල් අල්ලා දෙහිවල සත්වෝදානයට භාරදීමට පදේශවාසීහු කටයුතු කළහ.
-
-වතුගෙදර ආඳාදොළ නිවසක මිදුලේ සිටි මේ රෝස නාගයා අල්ලා ගැනීමට කටයුතු කළේ විෂකුරු සතුන් නිරුපද්‍රිතව අල්ලා වනයට මුදාහැරීමේ කටයුතුවල නිරතවන බලපිටිය හීනටියේ ඩබ්ලිව්.ඒ. ජැක්ෂන් මහතාය.
-
-අල්ලාගත් රෝස  නාගයාගේ   ඡායාරූප වට්ස්ඇප් ආකාරයෙන් ගෙන්වාගත් දෙහිවල සත්ව උදයානයේ සර්ප අංශයේ නිලධාරීහු මේ නයා දුර්ලභ නයෙකු බැවින් වනයට මුදා නොහරින ලෙසත් සිය ආයතනයෙන් එන තෙක් ඌ ආරක්ෂා සහිත තබා ගන්නා ලෙසත්  ඩබ්ලිව්.ඒ.ජැක්ෂන් මහතාට දැනුම් දුන්හ.
-
-ඒ අනුව  රෝස නයා වනයට මුදා නොහැර බෝතලයක දමා ආරක්ෂා සහිතව තබාගෙන දෙහිවල සත්වෝද්‍යානයට භාරදීමට ජැක්ෂන් මහතා කටයුතු කළේය.
-
-◼️
-
-[Data](articles/efeb8ea8.json)
 
 ---
 
@@ -2229,5 +2149,119 @@ It is reported that the ban is due to be charged against him that he was accused
 [Data](articles/59826adf.json)
 
 [Extended Data](ext_articles/59826adf.ext.json)
+
+---
+
+### Yall. What is the end of the voters?
+
+*2024-09-29 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195051) · `ta`
+
+End of voters' influence: Douglas Devananda and Ananthan Ramanathan, top vote recipients, didn't support Ranil Wickremesinghe. Ceylon Tamil Congress won't join parties, competing alone. Some voters shifted to conventions or other symbols.
+
+🟩
+
+Douglas Devananda and Anganan Ramanathan, who received the most votes in the last parliamentary election, did not give Ranil Wickremesinghe- their influence.. They cannot use state power in the election. All Ceylon Tamil Congress is not going to join any party. It will compete alone. Many of the party's voters who received 55 thousand votes last time voted for the convention in the presidential election. Or voted for other symbols.
+
+◼️
+
+[Data](articles/34f490a7.json)
+
+[Extended Data](ext_articles/34f490a7.ext.json)
+
+---
+
+### President decides on the cost of parliamentary election
+
+*2024-09-29 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201660) · `si`
+
+President approves election costs. Election Commissioner discusses budget details. Meetings held with district officials and returning officers.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake said the President has signed the release of Rs.
+
+He was speaking to the media after a discussion held in the initial election.
+
+Two main activities of the parliamentary elections were held yesterday at the Elections Secretariat in Rajagiriya yesterday (28).
+
+The first discussion was held along with the participation of District Secretaries and Deputy District Secretaries.
+
+Meanwhile, a meeting of the District Returning Officers, Assistant Commissioners, Deputy Commissioners and the Elections Commission was held yesterday afternoon.
+
+◼️
+
+[Data](articles/2f29b25b.json)
+
+[Extended Data](ext_articles/2f29b25b.ext.json)
+
+---
+
+### New moon that rotates around the earth from today
+
+*2024-09-29 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201659) · `si`
+
+Here's a 200-character summary:
+
+
+
+"New moon orbits Earth starting today. Small 10-meter satellite called PT Fiver appears near Earth. Visible until Nov 25. Second moon remains invisible."
+
+🟩
+
+Since today (29), the Earth is the opportunity to enjoy a new space experience.
+
+A small moon of about 10 meters is due to orbiting to temporarily around it.
+
+This is temporarily initiated around the earth, the 2024 PT Fiver (PT 5) is traveling near the Earth.
+
+The most small moon is far from the Earth to 53 days from today to November 25 to 53 days.
+
+It is reported that the second moon cannot see the second moon, which is invisible to man's.
+
+◼️
+
+[Data](articles/25b0052f.json)
+
+[Extended Data](ext_articles/25b0052f.ext.json)
+
+---
+
+### Prisoner dies in Jaffna Prison
+
+*2024-09-29 13:23:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-சிறைச்சாலையில்-கைதி-மரணம்/71-344651) · `ta`
+
+Prisoner dies in Jaffna Prison: 42-year-old man named Pushpa Ramanathapuram from Vattakachi area passed away after being hospitalized for sudden illness.
+
+🟩
+
+A prisoner who was admitted to the Jaffna Hospital for treatment of sudden illness has died in the Jaffna Prison, Jaffna police said.
+
+42 year old gay. The police said that the death of Pushpa Ramanathapuram Vattakachi area.
+
+◼️
+
+[Data](articles/587bada2.json)
+
+[Extended Data](ext_articles/587bada2.ext.json)
+
+---
+
+### Sri Lanka beat Sri Lanka from second Test against New Zealand
+
+*2024-09-29 13:15:16* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-දෙවන-ටෙස්ට්-තරගයෙන්-ශ්‍රී-ලංකාවට-ඉනිමක-ජයක්/9-412207) · `si`
+
+Sri Lanka defeated New Zealand in the second Test match by an innings and 154 runs. This victory secured Sri Lanka's win in both matches of the two-match Test series.
+
+🟩
+
+Sri Lanka won a second and last Test match against New Zealand team from innings and 154 runs.
+
+Sri Lanka was able to win the two match Test tournament to win the two matches.
+
+◼️
+
+[Data](articles/1b942a58.json)
+
+[Extended Data](ext_articles/1b942a58.ext.json)
 
 ---

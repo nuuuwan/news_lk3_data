@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 17:08:00**
+As of **2024-09-30 17:22:34**
 
 ## Newspaper Stats
 
-*Scraped **47,023** Articles*
+*Scraped **47,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,66 @@ adalk | 4,348
 dailymirrorlk | 4,733
 adaderanalk | 5,533
 tamilmirrorlk | 6,321
-virakesarilk | 7,518
+virakesarilk | 7,524
 adaderanasinhalalk | 8,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,020 (100.0%) of 47,023 articles have been extended.
+47,028 (100.0%) of 47,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
 
-### හිරු උදාවට පෙර පෙනෙන දුර්ලභ වර්ගා තරුවක්
+### If the parties do not want to join the parliamentary election as the Tamil party - Sumanthiran
+
+*2024-09-30 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195158) · `ta`
+
+Tamil National Alliance invites parties to contest under its name in upcoming parliamentary elections. If refused, TNA will field separate candidates. Focus on youth participation and giving opportunities to newcomers. Decision made after nomination deadline and appointment committee formation.
+
+🟩
+
+In the upcoming parliamentary elections, the Tamil National Alliance (TNA) has invited the party to contest the election in the name of the party. Former parliamentarian and president's lawyer. A. Sumanthiran said.
+
+He said this while speaking to the media in Mannar on Monday evening.
+
+We recently decided to call on all parties in the Tamil National Alliance (TNA) to come to the party and contest the election in the name of the Sri Lanka Tamil National Alliance (TNA) and the symbol of the Tamil National Alliance (TNA).
+
+We have already decided that if they are not, we will be contesting separately.
+
+Therefore, it is only a little more time since the filing of the nomination papers, and the appointment committee we appointed as soon as they did not comply with the appointment committee, and we would decide on the TNA candidates.
+
+...
+
+[Data](articles/1a4976c9.json)
+
+[Extended Data](ext_articles/1a4976c9.ext.json)
+
+---
+
+### A rare star that appear before sunrise
 
 *2024-09-30 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201695) · `si`
 
-මේ දිනවල අලුයම 5න් පසු නැගෙනහිර අහසේ දුර්ලභ වල්ගා තරුවක් දර්ශනය වන බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය සඳහන් කරයි.
+Arthur C. Clark Center states that a rare comet is appearing in the eastern sky after 5 days.
 
-චීනයේ purple mountain observatory සහ NASA හි Asteroid Terrestrial - Impact Last Alert System (ATLAS) විසින්‌ 2023 ජනවාරි 9 වන දින සොයා ගන්නා ලද  C/2023 A3 වල්ගා තරුව මෙලෙස දර්ශනය වේ.
+China's Purple Mountain Observatory and NASA's ASTEROID TERRROID TERRERSTRUST - C / 2023 A3 comet is displayed by the C / 2023 A3 comet.
 
-ක්ෂිතිජයට ඉතාමත්‌ සමීපයෙන්‌ දර්ශනය වීම සහ පවතින ආලෝක දුෂණ තත්ත්වයන් නිසා මෙම වල්ගා තරුව නිරීක්ෂණය කිරීම තරමක්‌ අපහසු වන බව ආතර් සී ක්ලාක් මධ්‍යස්ථානය පවසයි.
+The Arthur C Clark Center says that it is very difficult to observe this comet due to the vision of the horizon and the existing light corruption.
 
-මෙම වල්ගා තරුව ඔක්තෝබර්‌ 2 සහ 15 අතර දිනයන්හි දී උපරිම දීප්තියට ළඟා වනු ඇතැයි අපේක්ෂා කරන අතර, එම අවස්ථාවේදී එහි දෘශ්‍ය, විශාලත්වය 46ක්‌ පමණ බව එම ආයතනය සඳහන් කරයි.
+The comet is expected to reach the peak brightness at 2nd October and 15, and it is about 46 per cent of its visual, size.
 
-ඔක්තෝබර්‌ 12 වෙනිදායින් පසු මෙම වල්ගා තරුව හිරු බැස යාමෙන්‌ පසුව බටහිර අහසේ දර්ශනය වනු ඇතැයි ආතර් සී ක්ලාක් මධ්‍යස්ථානය
+Arthur C Clark Center that the comet will be displayed in the western sky after October 12th
 
-මෙම වල්ගා තරුව නැවත දර්ශන වන්නේ අවුරුදු 80,000කට පසුව බව ආතර් සී ක්ලාක් ආයතනයේ, තාරකා විද්‍යා අංශයේ, පර්යේෂණ විද්‍යාඥ තීක්ෂණ ප්‍රියදාස මහතා සඳහන් කළේය.
+Arthur C Clark said 80,000 years after the return of this comet after 80,000 years later, he said.
 
 ◼️
 
 [Data](articles/427f3da7.json)
+
+[Extended Data](ext_articles/427f3da7.ext.json)
 
 ---
 
@@ -69,6 +97,110 @@ Answering a question regarding the allocation of funds for the General Elections
 ...
 
 [Data](articles/74b044c7.json)
+
+[Extended Data](ext_articles/74b044c7.ext.json)
+
+---
+
+### Announcement of the GCE Ordinary Level Examination for 2024
+
+*2024-09-30 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/195147) · `ta`
+
+GCE Ordinary Level Exam 2024: March announcement, GCE A/L Nov-Dec 2023, next O/L Mar 2025, online application deadline Oct 14, results via e-commerce, one-day service, or regular service.
+
+🟩
+
+The Department of Examinations has announced that the General Quality Examination for 2024 will be held in March next year.
+
+The Commissioner General of Examinations Amit Jayasundara said that the date of the exams will be announced in a timely manner.
+
+Meanwhile, Commissioner General Amit Jayasundara added that the GCE Advanced Level Examinations will commence on November 25 and will be held till December 20.
+
+Also, we intend to hold the next GCE Ordinary Level Examination in March 2025. The appropriate dates for the exam will be announced later.
+
+By 2026, the examinations will be reduced to a timely cardboard.
+
+In addition, applications for the Recycle of the GCE Ordinary Level Examination Recovery will be accepted from tomorrow.
+
+Accordingly, the Commissioner General Jayasundera has urged that applications on the website will be accepted until October 14.
+
+Applicants can obtain their results certificates through ecommerce, one day services or regular services.
+
+...
+
+[Data](articles/35f1691a.json)
+
+[Extended Data](ext_articles/35f1691a.ext.json)
+
+---
+
+### Samyukta Vijayan's 'blue sun'
+
+*2024-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195145) · `ta`
+
+"Blue Sun" film stars Samyukta Vijayan, directed by her, explores societal norms through transgender lens. Set for Oct 4 release.
+
+🟩
+
+It has been announced that the film 'Blue Sun', starring the hero of the sex minority, Samyukta Vijayan, is being released on the fourth of October.
+
+Samyukta Vijayan, Geeta Kailasam, Gaja Raj, Mashant and many others have starred in the movie 'Blue Sun', directed by transgender Samyukta Vijayan.
+
+The film, which has been recorded and composed by Steve Benjamin, has produced the producer Mala Maniyan on behalf of the First Kopi Production Company.
+
+Commenting on the film, the director said, “How do we look at our society, not just about wanting to become a male and female?I have made it a screenplay in the 'blue sun'.
+
+The film, which has been screened and praised at several international film festivals, has also been aimed at fans as it is the first Tamil film to be produced in the transgender movement.
+
+◼️
+
+[Data](articles/0644db35.json)
+
+[Extended Data](ext_articles/0644db35.ext.json)
+
+---
+
+### Actor Manikandan ...
+
+*2024-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195142) · `ta`
+
+Actor Manikandan stars in "Kamavasthan", sequel to hits "Goodnight" and "Lover". Directed by Rajeswar Kalisamy, produced by Vinod Kumar. First look released. Manikandan faces family challenges as hero. Expected to be commercially and critically successful, potentially giving him a hat-trick.
+
+🟩
+
+Following the success of 'Goodnight' and 'Lover', the new film, which plays the lead role of actor Manikandan's story, has been named 'Kamavasthan' and its first view has been released.
+
+Actor Silambarasan posted this on his web page and congratulated the film crew.
+
+Manikandan, Sanway Mahana, Guru Somasundaram and many others are starring in the film 'Kudiyasthan' directed by director Rajeswar Kalisamy.
+
+The film was made on behalf of the filmmaker. Produced by Vinod Kumar.
+
+The final phase of the film is being shot. In this case, the film crew has released the name of the film and the first look.
+
+Manikandan, the hero of the story, is a great welcome as the hero of the story, Manikandan, has been tied up on the legs and faced with the challenges of winning as a family.
+
+...
+
+[Data](articles/14c82de5.json)
+
+[Extended Data](ext_articles/14c82de5.ext.json)
+
+---
+
+### Sir John Kotelawela (1953 — 1956), as seen by his Assistant Secretary
+
+*2024-09-30 16:29:00* · [`islandlk`](http://island.lk/sir-john-kotelawela-1953-1956-as-seen-by-his-assistant-secretary/) · `en`
+
+The strongest man is never strong enough to be always master, unless lie transforms his power into right, and obedience to duty.
+
+At the time my story begins, a routine civil service transfer had me moved as Assistant Secretary in the prime minister’s office which was without doubt the most exalted and powerful institution in Sri Lanka. For the first 30 years of the new state’s existence, its place in the political structure remained unchallenged and unchanged. The role of the prime minister as the keystone of the arch in a Westminster-style government was paramount. It was only much later, after the second Republican Constitution in 1978 and the creation of the Executive Presidency with its enormous concentration of power, that the position of the prime minister became as it now is, devoid of constitutional authority, largely decorative’ and what its holder is able to make of it.
+
+...
+
+[Data](articles/641349ff.json)
+
+[Extended Data](ext_articles/641349ff.ext.json)
 
 ---
 
@@ -182,17 +314,51 @@ The bureau is being taken to further the Bureau against the suspect and will be 
 
 ---
 
-### සචින්, සංගක්කාර,පොන්ටින්ගේ සමාජයට කෝලිත් එක්වෙයි
+### Kolify joins Sachin, Sangakkara, Pontin's society
 
 *2024-09-30 16:11:10* · [`adalk`](https://www.ada.lk/sports/සචින්--සංගක්කාර-පොන්ටින්ගේ-සමාජයට-කෝලිත්-එක්වෙයි/9-412231) · `si`
 
-ජාත්‍යන්තර තරග වලදී ලකුණු 27,000 සීමාව පසු කළ සිව්වන ක්‍රීඩකයා බවට පත්වීමට ඉන්දියාවේ විරාත් කෝලි අද(30දා) සමත් විය.
+Kohli joins elite club: 4th to reach 27000+ intl runs, after Sachin, Sangakkara, Ponting.
 
-මීට පෙර එම දක්ෂතාවය සචින් ටෙන්ඩුල්කාර් (ඉන්දියාව), කුමාර සංගක්කාර(ශ්‍රී ලංකාව) සහ රිකී පොන්ටින්(ඕස්ට්‍රේලියාව) යන ක්‍රීඩකයක් දක්වා තිබුණි.
+🟩
+
+India's Wednesday (30) Rathya Virdia B. Virath Kohli surrendered to the fourth player who crossed 27,000 runs in international competitions.
+
+Previously, that skill was referred to Sachin Tenderkar (India), Kumar Sangakkara (Sri Lanka) and Ricky Ponting (Australia).
 
 ◼️
 
 [Data](articles/f2e1b230.json)
+
+[Extended Data](ext_articles/f2e1b230.ext.json)
+
+---
+
+### Two persons arrested with illegal liquor in two different areas
+
+*2024-09-30 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195144) · `ta`
+
+Two arrests made in separate areas: 60 liters seized in Milleva, 45 liters in Kudakannoruwa.
+
+🟩
+
+Two suspects have been arrested with illegal liquor during a round -up operation in two different areas on Sunday (29), police said.
+
+Accordingly, a suspect has been arrested with illegal liquor in a roundabout carried out in the Milleva area belonging to the Moragahahena Police Division.
+
+60 liters (80 bottles) from the arrested suspect has been seized by the police.
+
+Meanwhile, a suspect has been arrested yesterday by police in a roundup of Kudakannoruwa area belonging to the Meekalewa police division.
+
+The suspect was 45 years old from Meegalewa.
+
+45 liters (60 bottles) illegal alcoholic police have been seized from the arrested suspect.
+
+◼️
+
+[Data](articles/063e1006.json)
+
+[Extended Data](ext_articles/063e1006.ext.json)
 
 ---
 
@@ -375,6 +541,26 @@ The Cabinet is scheduled to take several important decisions at this meeting, wh
 [Data](articles/b740dfa0.json)
 
 [Extended Data](ext_articles/b740dfa0.ext.json)
+
+---
+
+### 10 இலட்சம் தபால் மூல வாக்களிப்பு  விண்ணப்பங்கள் அச்சிடப்பட்டுள்ளன
+
+*2024-09-30 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195136) · `ta`
+
+எதிர்வரும் பாராளுமன்ற தேர்தலுக்கான தபால் மூல வாக்களிப்பு விண்ணப்பங்களை அச்சிடும் பணிகள் நிறைவடைந்துள்ளதாக அரசாங்க அச்சக திணைக்களம் அறிவித்துள்ளது.
+
+அதன்படி, மொத்தமாக 10 இலட்சம் தபால் மூல வாக்களிப்பு விண்ணப்பங்கள் அச்சிடப்பட்டுள்ளதாக அரசாங்க அச்சக அதிகாரி கங்கா கல்பானி லியனகே தெரிவித்துள்ளார்.
+
+அச்சிடப்பட்ட விண்ணப்பங்களில் ஒரு தொகுதி நேற்று தேர்தல் ஆணைக்குழுவிடம் கைளிக்கப்பட்டுள்ளதோடு, மீகுதி இன்று வழங்கப்பட உள்ளன.
+
+நவம்பர் 14 ஆம் திகதி நடைபெறவுள்ள தேர்தலுக்கு ஒரு வாரத்திற்கு முன்னதாக வாக்குச் சீட்டுகள் மற்றும் உத்தியோகபூர்வ வாக்காளர் அட்டைகள் உட்பட பாராளுமன்றத் தேர்தல் தொடர்பான அனைத்து அச்சிடும் பணிகளும் நிறைவடையும்  என்று கங்கா கல்பானி லியனகே மேலும் தெரிவித்துள்ளார்.
+
+விசேட வர்தமானி அறிவித்தலின் படி, ஒக்டோபர்  மாதம் 4 ஆம் திகதி முதல் 11 ஆம் திகதி நண்பகல் வரை வேட்பு மனுக்கள் தாக்கல் செய்த பின்னர் மீதமுள்ள அச்சிடும் பணிகள் ஆரம்பமாகும்.
+
+...
+
+[Data](articles/bbcc8ed1.json)
 
 ---
 
@@ -845,22 +1031,6 @@ Anura Kumara Dissanayaka, Sri Lanka’s new president, grew up in Tambuttegama, 
 [Data](articles/32959ec5.json)
 
 [Extended Data](ext_articles/32959ec5.ext.json)
-
----
-
-### Sir John Kotelawela (1953 — 1956), as seen by his Assistant Secretary
-
-*2024-09-30 12:35:00* · [`islandlk`](http://island.lk/sir-john-kotelawela-1953-1956-as-seen-by-his-assistant-secretary/) · `en`
-
-The strongest man is never strong enough to be always master, unless lie transforms his power into right, and obedience to duty.
-
-At the time my story begins, a routine civil service transfer had me moved as Assistant Secretary in the prime minister’s office which was without doubt the most exalted and powerful institution in Sri Lanka. For the first 30 years of the new state’s existence, its place in the political structure remained unchallenged and unchanged. The role of the prime minister as the keystone of the arch in a Westminster-style government was paramount. It was only much later, after the second Republican Constitution in 1978 and the creation of the Executive Presidency with its enormous concentration of power, that the position of the prime minister became as it now is, devoid of constitutional authority, largely decorative’ and what its holder is able to make of it.
-
-...
-
-[Data](articles/641349ff.json)
-
-[Extended Data](ext_articles/641349ff.ext.json)
 
 ---
 
@@ -2245,123 +2415,5 @@ Alles was the Managing Director/Chief Executive Officer of Hatton National Bank 
 [Data](articles/c17d8b01.json)
 
 [Extended Data](ext_articles/c17d8b01.ext.json)
-
----
-
-### Vidullanka appoints Professor Anura Wijeyapala to Board of Directors
-
-*2024-09-30 04:40:44* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-appoints-Professor-Anura-Wijeyapala-to-Board-of-Directors/34-767310) · `en`
-
-Vidullanka PLC announced the appointment of Prof. Anura Wijeyapala to its Board of Directors as an Independent Non-Executive Director, effective 26 September 2024.
-
-Prof. Anura Wijayapala is a renowned academic and an electricity industry professional in Sri Lanka, with over 25 years of experience in the field. He was the Chairman of the Ceylon Electricity Board in 2015, having previously served as Vice Chairman. He was the Chief Executive Officer of Windforce Ltd. from 2018 to 2020 and he was the Chairman of NERD Center, the Trincomalee Coal Power Company Ltd., and Sri Lanka Energies Ltd. Moreover, he was a director on the boards of LTL Holdings Ltd., Lanka Electricity Company Ltd., and Lanka Coal Company Ltd. between 2015 and 2017.
-
-He is a Fellow of the Institute of Engineers, Sri Lanka and an International Professional Engineer, and a Corporate Life Member of the Sri Lanka Energy Managers Association.
-
-...
-
-[Data](articles/1a39976d.json)
-
-[Extended Data](ext_articles/1a39976d.ext.json)
-
----
-
-### Reyaz, Ravi join Madulsima Plantations Board
-
-*2024-09-30 04:29:56* · [`dailyftlk`](https://www.ft.lk/business/Reyaz-Ravi-join-Madulsima-Plantations-Board/34-767309) · `en`
-
-Top professionals Reyaz Mihular and Dr. Ravi Fernando have joined the Board of Madulsima Plantations PLC as Independent Non-Executive Directors.
-
-They fulfil the vacancies created by the resignation of Dr. A. Shakthevate and D.S.K. Amarasekera.
-
-Mihular served as the Managing Partner of KPMG Sri Lanka and Maldives from April 2012 to March 2022 and was the Chairman of KPMG’s Middle East and South Asia (MESA) Regional Cluster during the period of October 2018 to September 2021. Mihular previously served a term as the Chief Operating Officer of the MESA regional office. He also served on KPMG’s Europe Middle East and Africa (EMA) Board and on the Global Council of KPMG International.
-
-...
-
-[Data](articles/f5b6b40d.json)
-
-[Extended Data](ext_articles/f5b6b40d.ext.json)
-
----
-
-### Ceylon Tea Brokers announces strategic Board appointments
-
-*2024-09-30 04:26:49* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Tea-Brokers-announces-strategic-Board-appointments/34-767308) · `en`
-
-Ceylon Tea Brokers has announced the appointment of Beshan Kulapala, Amrah Akbar and Mihirini De Zoysa to its Board as Independent Non-Executive Directors.
-
-Dr. Beshan Kulapala is the Co-Founder and CEO of Cyrus EV Chargers, and Vice President of Innovation and Technology for Volt Charge, a Saudi and Sri Lankan joint venture company developing high-tech electric vehicle charging technologies. He also heads VoltX Ltd., a one-stop engineering services and consultation company specialised in high tech product engineering solutions for clients across the globe.
-
-Previously Beshan was the Director and a co-founder of Vega Innovations in Sri Lanka.
-
-...
-
-[Data](articles/072deaa5.json)
-
-[Extended Data](ext_articles/072deaa5.ext.json)
-
----
-
-### Honouring German businesses at 10th edition of Top German Brands in Sri Lanka
-
-*2024-09-30 04:24:13* · [`dailyftlk`](https://www.ft.lk/business/Honouring-German-businesses-at-10th-edition-of-Top-German-Brands-in-Sri-Lanka/34-767307) · `en`
-
-The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) successfully hosted the milestone 10th edition of ‘Top German Brands in Sri Lanka’ on 19 September at the Cinnamon Grand Hotel in Colombo.
-
-Underscoring the strong bilateral ties between the two nations, this year’s event celebrated the presence of 300 German brands operating in Sri Lanka, who are recognised for their commitment to excellence, innovation, and sustainability, contributing significantly across multiple sectors in Sri Lanka.
-
-A key highlight of the 10th edition was the launch of the first-ever German Brands Directory in Sri Lanka, a significant step in commemorating the decade-long journey of German businesses in the country. The directory serves as a comprehensive guide, showcasing the diversity and impact of German enterprises in Sri Lanka and solidifying the long-standing partnership between the two nations.
-
-...
-
-[Data](articles/c5b9ab04.json)
-
-[Extended Data](ext_articles/c5b9ab04.ext.json)
-
----
-
-### Vijitha Herath appointed President’s representative to CC
-
-*2024-09-30 04:17:24* · [`dailyftlk`](https://www.ft.lk/news/Vijitha-Herath-appointed-President-s-representative-to-CC/56-767306) · `en`
-
-Minister Vijitha Herath has been appointed as the President’s representative to the Constitutional Council.
-
-The Speaker of the Parliament Mahinda Yapa Abeywardena stated that this nomination was made by President Anura Kumara Dissanayake.
-
-Accordingly, former Ports, Aviation and Shipping Minister Nimal Siripala de Silva has been removed from the Constitutional Council.
-
-Additionally, Prime Minister Dr. Harini Amarasuriya has also been appointed as a new member of the Council.
-
-Despite the dissolution of the Parliament, the activities of the Constitutional Council are required to be continued until the formation of the new Parliament.
-
-The Council is scheduled to meet on 9 October for the first time following the election of the new President.
-
-Other members of the Constitutional Council include former Opposition Leader Sajith Premadasa, former MP Kabir Hashim, former MP Sagara Kariyawasam, and the three civil society representatives.
-
-◼️
-
-[Data](articles/fe9c6558.json)
-
-[Extended Data](ext_articles/fe9c6558.ext.json)
-
----
-
-### Angajan Ramanathan requests President to reopen several roads in Jaffna
-
-*2024-09-30 04:15:17* · [`dailyftlk`](https://www.ft.lk/news/Angajan-Ramanathan-requests-President-to-reopen-several-roads-in-Jaffna/56-767305) · `en`
-
-Northern former MP Angajan Ramanathan has formally requested President Anura Kumara Dissanayake to take action to reopen several key roads in the high-security zones of Jaffna.
-
-This request follows the President’s decision to reopen two streets near the President’s House in Colombo for public access.
-
-Ramanathan’s appeal highlights that, despite the war ending 15 years ago, several vital roads in Jaffna remain closed, significantly disrupting daily life and transportation for the local population.
-
-In his letter, the former MP pointed out that the Jaffna-Palaly road, particularly the east side next to the Vayavilan Central College, should be freed from military restrictions. This road connects to the Ponnalai road, an essential route for local traffic. He also emphasised the closure of the Achuveli Vayavilan-Tholakatti street, which has hampered the functioning of major Government and private enterprises in the region.
-
-...
-
-[Data](articles/b199a269.json)
-
-[Extended Data](ext_articles/b199a269.ext.json)
 
 ---

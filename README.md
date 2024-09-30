@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 07:26:57**
+As of **2024-09-30 08:03:27**
 
 ## Newspaper Stats
 
-*Scraped **46,927** Articles*
+*Scraped **46,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,49 @@ bbccomsinhala | 463
 colombotelegraphcom | 468
 islandlk | 2,760
 economynextcom | 2,842
-dailyftlk | 3,141
+dailyftlk | 3,144
 adalk | 4,332
 dailymirrorlk | 4,733
 adaderanalk | 5,518
 tamilmirrorlk | 6,298
 virakesarilk | 7,509
-adaderanasinhalalk | 8,110
+adaderanasinhalalk | 8,111
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,926 (100.0%) of 46,927 articles have been extended.
+46,928 (100.0%) of 46,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-09-30 (Monday)
+
+### Taxes' last day today
+
+*2024-09-30 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201675) · `si`
+
+Taxes deadline today: Pay 2023/2024 income tax before penalties. Complete payments by Oct 30. Unpaid taxes may lead to legal action. Contact 1944 for more information.
+
+🟩
+
+The Intellectual Revenue Department has informed all the income tax money paid for the valuation of 2023/2024 by everyone to pay for the valuation tax.
+
+The department said that if anyone would defuntee the payment or delays, subordinate to a penalty and interest in terms of laws.
+
+And if a person has taxes for any taxes, it must be completed on October 30 or on that day.
+
+The Inland Revenue Department says that if the deficit is no longer available, legal action will be taken to recover them.
+
+The Department said that the 1944 telephone number was provided for further information.
+
+◼️
+
+[Data](articles/89d413a3.json)
+
+[Extended Data](ext_articles/89d413a3.ext.json)
+
+---
 
 ### Thunderstorms today
 
@@ -53,6 +79,48 @@ They call on the public to take necessary steps to reduce temporary winds and li
 [Data](articles/4af5778d.json)
 
 [Extended Data](ext_articles/4af5778d.ext.json)
+
+---
+
+### Plantation workers are poor, destitute, and helpless, but their poetic expressions are marvellous
+
+*2024-09-30 05:46:06* · [`dailyftlk`](https://www.ft.lk/columns/Plantation-workers-are-poor-destitute-and-helpless-but-their-poetic-expressions-are-marvellous/4-767334) · `en`
+
+When the Britishers introduced tea as an export crop to old Ceylon in mid 19th century, it was a game changer. It transformed the traditional subsistence agricultural economy that prevailed to a modern plantation economy seeking to satisfy the demand for the new beverage called tea spreading like a pandemic across Europe and Americas. Initially, it was a beverage of the rich and the aristocrats. A pound of tea was sold, according to advertisements that were inserted in papers, for 25 Sterling Pounds. This exclusive product was made inclusive by ingenious marketing strategies adopted by tea traders like presenting it as a brain tonic.
+
+...
+
+[Data](articles/8a64a390.json)
+
+[Extended Data](ext_articles/8a64a390.ext.json)
+
+---
+
+### Social reformer AKD, Sri Lanka’s 9th President
+
+*2024-09-30 05:35:49* · [`dailyftlk`](https://www.ft.lk/columns/Social-reformer-AKD-Sri-Lanka-s-9th-President/4-767333) · `en`
+
+The election of Jair Bolsonaro in Brazil shocked the country’s political establishment and sharply divided opinion. While some warned that Bolsonaro—a far-right populist who admired Brazil’s military dictatorship—posed a serious threat to democracy, others believed that Brazil’s strong institutions, including an assertive press and independent judiciary, would curb his authoritarian tendencies. This debate mirrors the global discussion surrounding populist leaders. Similarly, Sri Lanka is undergoing a political shift, with citizens demanding accountability from elites who have long failed them.
+
+President Anura’s meteoric rise as a “Leader of the People” to become Sri Lanka’s 9th Executive President is emblematic of this trend. However, his presidency faces significant challenges, particularly in balancing his populist appeal with the deep-seated demands of economic governance and institutional reform.
+
+...
+
+[Data](articles/c3076f8c.json)
+
+---
+
+### Fervent appeal to Minister Amarasuriya; please free Royal College from deep rooted corruption
+
+*2024-09-30 05:29:27* · [`dailyftlk`](https://www.ft.lk/opinion/Fervent-appeal-to-Minister-Amarasuriya-please-free-Royal-College-from-deep-rooted-corruption/14-767332) · `en`
+
+To date, I have written over 25 letters to Principal Waththuhewa and over 10 to Education Secretary Thilaka Jayasundara, making the same appeal. I don’t mind their not acknowledging my emails, as long as they had acted to eradicate rampant money collections at the Royal Primary.
+
+The Principal and his management team of 50 senior administrators completely ignore the thriving and omnipresent corruption happening right in front of them, employing a handpicked set of parents to rake in millions (without receipts/accounts/audits) and keeping the loot in private bank accounts. Please refer to the recent article where we showed the last year’s illegal collections topped Rs. 100 million (https://www.ft.lk/opinion/Education-Ministry-urged-to-probe-alleged-financial-malpractices-at-The-Royal-College-Primary/14-760265).
+
+...
+
+[Data](articles/2bc5060a.json)
 
 ---
 
@@ -2195,119 +2263,5 @@ Sri Lanka was able to win the two match Test tournament to win the two matches.
 [Data](articles/1b942a58.json)
 
 [Extended Data](ext_articles/1b942a58.ext.json)
-
----
-
-### Superbid from Sri Lanka
-
-*2024-09-29 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201658) · `si`
-
-Sri Lanka wins 2nd Test vs NZ, takes series 1-0. Nishan Peiris scores 60 & takes 5 wkts. Glen Phillips hits 78. SL loses 882/5 in 1st innings. Peiris dismisses Tom Latham in 2nd innings.
-
-🟩
-
-Sri Lanka won the second Test match between Sri Lanka and New Zealand by 154 runs.
-
-Accordingly, the Sri Lankan team won the 2 match Test series as 0 matches.
-
-New Zealand scored 199 runs for the loss of 514 runs for the fourth day.
-
-Nishan Peiris, who had scored 60 runs while 60 runs were scolding, scored 60 runs.
-
-However, Glen Phren Philips scored 78 runs.
-
-However, Nishan Peiris, who played his Mangala Test series, took 5 wickets.
-
-He was among the records as the 7th gamer who took 5 wickets in the Wedding Test.
-
-Sri Lanka scored 5 runs for the loss of 882 runs for the first innings of the New Zealand.
-
-Accordingly, Nishan Peiris was diagnosed with the first wicket of Tom Solimadium as the first wicket of the second innings of New Zealand.
-
-◼️
-
-[Data](articles/d581db62.json)
-
-[Extended Data](ext_articles/d581db62.ext.json)
-
----
-
-### One arrested with ice drugs in Grandpass, Colombo
-
-*2024-09-29 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195043) · `ta`
-
-Arrest made in Grandpass, Colombo: Suspect caught with 10g of 910mg ice drugs during police raid.
-
-🟩
-
-A suspect who had an ice drug in the Majid area of ​​the Grandpass police division was arrested on Saturday (28), police said.
-
-He was arrested during a raid carried out on confidential information received by the Grandpass police.
-
-10 grams of 910 milligrams of Ice was seized by the police.
-
-◼️
-
-[Data](articles/f3b92699.json)
-
-[Extended Data](ext_articles/f3b92699.ext.json)
-
----
-
-### Sri Lanka needs to continue the International Monetary Fund's plan - Julie Chung
-
-*2024-09-29 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195045) · `ta`
-
-Sri Lanka continues IMF plan: US Ambassador Julie Chung supports democracy, foreign investment, and economic growth.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Sung said that Sri Lanka needs to continue the IMF plan.
-
-Sri Lanka met with a historic moment last week, voting for all Sri Lankans to use their democratic rights and to express their purpose for the best future of the country.
-
-The best issues are that the election is being held peacefully and the 9th executive of Sri Lanka's 9th executive presidency directly.
-
-The election and the swearing -in are true evidence of the strength of the country's democratic ambitions and establishments.
-
-The US congratulates President Anuragumara for his success and is interested in working with him and his government for the more light and stable future for the Sri Lankans.
-
-Despite the preliminary days of this government, it is clear that our countries and our people have more common shared goals than ever before.
-
-We welcome the dedication of the new President's Foreign Minister on obtaining new foreign investment.
-
-...
-
-[Data](articles/26ae8e41.json)
-
-[Extended Data](ext_articles/26ae8e41.ext.json)
-
----
-
-### Welgama says goodbye
-
-*2024-09-29 12:46:02* · [`adalk`](https://www.ada.lk/breaking_news/වෙල්ගම-අද-දැයෙන්-සමුගනියි/11-412206) · `si`
-
-Kumara Welgama (74) passes away. Former Minister's funeral at Matugama Public Stadium today at 4pm. Born in 1950, he served as Minister of Power and Energy, Transport, and Industry.
-
-🟩
-
-The remains of former Minister Kumara Welgama has been placed in the house of Matugama for public honor.
-
-Welgama's funeral will be held at the Matugama Public Stadium today at 4.00 pm.
-
-Kumara Welgama was 74 years old when he was in front of the early hours of Colombo.
-
-Kumara Welgama was born on April 5, 1950, was a traditional business family member.
-
-He started the political career from the SLFP and was elected to Parliament from the General Elections in the 1994 General Election.
-
-As the Minister of Power and Energy, he is an experienced politician who has been a number of portfolios, including transport and industry
-
-◼️
-
-[Data](articles/fa7c4162.json)
-
-[Extended Data](ext_articles/fa7c4162.ext.json)
 
 ---

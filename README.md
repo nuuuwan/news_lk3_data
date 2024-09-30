@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-09-30 13:22:57**
+As of **2024-09-30 13:40:02**
 
 ## Newspaper Stats
 
-*Scraped **46,977** Articles*
+*Scraped **46,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 469
 islandlk | 2,760
 economynextcom | 2,848
 dailyftlk | 3,144
-adalk | 4,340
+adalk | 4,341
 dailymirrorlk | 4,733
 adaderanalk | 5,527
-tamilmirrorlk | 6,312
+tamilmirrorlk | 6,313
 virakesarilk | 7,510
 adaderanasinhalalk | 8,118
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-46,977 (100.0%) of 46,977 articles have been extended.
+46,979 (100.0%) of 46,979 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -103,6 +103,20 @@ In 1978, the government of J. R. Jayewardene enacted a new Constitution which tr
 [Data](articles/7cca890e.json)
 
 [Extended Data](ext_articles/7cca890e.ext.json)
+
+---
+
+### Sri Lanka Provides Hope for Democracy in the West
+
+*2024-09-30 12:28:00* · [`islandlk`](http://island.lk/sri-lanka-provides-hope-for-democracy-in-the-west/) · `en`
+
+Sri Lanka’s Presidential election saw a genuine left-winger, from a Marxist party, record a victory that upended the country’s political establishment. But the NPP’s win was more than just historic for this country. A man whose ideology with regard to the fundamental questions of policy differs from all predecessors was elected. This is something presently unimaginable in the West. While it may have been different 100 years ago, today in most major Western countries, there is increasingly no way for the public to vote away the two sacred cows of the establishment: neoliberal capitalism and neo-con foreign policy. Here, Sri Lanka can provide hope.
+
+...
+
+[Data](articles/aea2b37e.json)
+
+[Extended Data](ext_articles/aea2b37e.ext.json)
 
 ---
 
@@ -305,6 +319,26 @@ Here's a 200-character summary:
 [Data](articles/789d9c39.json)
 
 [Extended Data](ext_articles/789d9c39.ext.json)
+
+---
+
+### The possibility of decreasing fuel prices
+
+*2024-09-30 11:41:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எரிபொருள்-விலை-குறையும்-சாத்தியம்/150-344699) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Decreasing fuel prices possible due to increased global oil production, geopolitical tensions easing, and economic recovery. Factors like OPEC+ decisions, US-China trade relations, and renewable energy growth also play roles."
+
+🟩
+
+◼️
+
+[Data](articles/7aae1793.json)
+
+[Extended Data](ext_articles/7aae1793.ext.json)
 
 ---
 
@@ -865,6 +899,28 @@ Many cities there are flooded. International media reports that 62 people have d
 [Data](articles/9a31749c.json)
 
 [Extended Data](ext_articles/9a31749c.ext.json)
+
+---
+
+### Coconut Rs. Goes to 150-160
+
+*2024-09-30 08:11:09* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-ගෙඩිය-රු--150-160ට-යයි/11-412224) · `si`
+
+Coconut price surge: 150-160 Rupees. Consumers complain about rising costs. Marketing strategies blamed for inconvenience. Yield decrease cited as reason.
+
+🟩
+
+These days, including Matale, is inconvenienced by consumers due to marketing of coconut boils between 150 rupees.
+
+The consumers say that coconut prices are increasingly increased by the prices of food and rice parcels.
+
+The commenting coconut consignment is said, "This is the reduction of the coconut yield received from coconut estates.
+
+◼️
+
+[Data](articles/5dd7d0bc.json)
+
+[Extended Data](ext_articles/5dd7d0bc.ext.json)
 
 ---
 
@@ -2227,73 +2283,5 @@ Hot arguments have also been held at the All Ceylon People's Congress. Here are 
 [Data](articles/6d7732fe.json)
 
 [Extended Data](ext_articles/6d7732fe.ext.json)
-
----
-
-### Did India fail?
-
-*2024-09-29 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195066) · `ta`
-
-India's victory over Anuragumara was seen as a significant setback by some diplomats. The outcome wasn't favorable for India, leading to questions about its strategy and decision-making process. This situation raises concerns about India's ability to achieve desired outcomes in international relations.
-
-🟩
-
-If India's victory is already known - if his victory is not favorable to India - why is India not embarking on this?Or have you failed to get down to prevent?Some diplomats referred to India as an important setback or failure after the victory of Anuragumara.
-
-◼️
-
-[Data](articles/b40e3f97.json)
-
-[Extended Data](ext_articles/b40e3f97.ext.json)
-
----
-
-### 'Angoda Jule' assistant arrested
-
-*2024-09-29 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195068) · `ta`
-
-"Angoda Jule" assistant arrested: Police seize drugs, cash. 30-year-old aide of notorious trafficker detained in Battaramulla operation.
-
-🟩
-
-An assistant of Ponnamperumage Dhanush Buddhika, known as "Angodai Jule", a native of the underworld gang and a famous drug trafficker, has been arrested by the police.
-
-The main assistant of a deliberate criminal and a massive drug trafficker has been arrested by the Special Task Force, police said.
-
-The arrested suspect is 30 years old from Battaramulla.
-
-Police have seized 25 grams of 500 milligrams of ice and 51 grams of Kerala ganja from the suspect.
-
-In addition, the police also seized 274,400 rupees suspected of being taken from drug trafficking.
-
-◼️
-
-[Data](articles/676cb0e1.json)
-
-[Extended Data](ext_articles/676cb0e1.ext.json)
-
----
-
-### Pink Chickee for Dehiwala
-
-*2024-09-29 18:56:38* · [`adalk`](https://www.ada.lk/breaking_news/රෝස-පැහැති-නයි-පැටියා-දෙහිවලට/11-412220) · `si`
-
-Rare pink cobra found in Dehiwala courtyard near railway station. Officials safely contained it before transferring to Dehiwala Zoo.
-
-🟩
-
-A rare pink cobra in the courtyard near the railway station in the courtyard was held at the courtyard at a house near the Railway Station.
-
-WA in the courtyard of the pink collure of a house in a house in the courtyard of a house in the courtyard of the Wendage of Walagedara. Jackation.
-
-The Dehiwala Zone officials in the Dehiwala Zone officials were rare, the Dehiwala Zone officials in the Dehiwala Zone officials were told to be safe and kept safe until this Navasan was rare.
-
-Accordingly, Jacquan has handed over to the Dehiwala Zoo without releasing the pink na.
-
-◼️
-
-[Data](articles/efeb8ea8.json)
-
-[Extended Data](ext_articles/efeb8ea8.ext.json)
 
 ---

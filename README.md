@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 14:24:55**
+As of **2024-10-01 14:38:41**
 
 ## Newspaper Stats
 
-*Scraped **47,201** Articles*
+*Scraped **47,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 2,871
 dailyftlk | 3,162
 adalk | 4,369
 dailymirrorlk | 4,733
-adaderanalk | 5,553
-tamilmirrorlk | 6,343
+adaderanalk | 5,554
+tamilmirrorlk | 6,344
 virakesarilk | 7,548
-adaderanasinhalalk | 8,156
+adaderanasinhalalk | 8,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,198 (100.0%) of 47,201 articles have been extended.
+47,206 (100.0%) of 47,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### School bus catches fire in Thailand, 25 feared dead
+
+*2024-10-01 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102378/school-bus-catches-fire-in-thailand-25-feared-dead) · `en`
+
+About 25 people were feared dead in Thailand on Tuesday when a school bus carrying students and teachers on a field trip caught fire on the outskirts of the capital Bangkok, with 16 passengers hospitalised, the government said.
+
+Police could not immediately confirm the number of injuries or deaths but Interior Minister Anutin Charnvirakul told reporters about 25 people were believed to have been killed, without elaborating.
+
+Sixteen students and three teachers were sent to a hospital for treatment, Transport Minister Suriya Juangroongruangkit said, adding the causes of the incident were still be investigated.
+
+Early images posted on social media and carried by local news outlets showed thick grey smoke pouring out of the bus, parts of which were still on fire.
+
+The blaze was later extinguished. A Reuters photographer saw fire trucks, police and rescue vehicles parked around the blackened vehicle, with a cluster of firefighters at the entrance.
+
+...
+
+[Data](articles/373a84f9.json)
+
+[Extended Data](ext_articles/373a84f9.ext.json)
+
+---
 
 ### Bus fares reduced
 
@@ -41,6 +63,8 @@ Bus fares have been reduced by 4.24%, effective from midnight today (Oct. 01), a
 ◼️
 
 [Data](articles/75e6b192.json)
+
+[Extended Data](ext_articles/75e6b192.ext.json)
 
 ---
 
@@ -59,6 +83,116 @@ Meanwhile, in a post on ‘X’ (formerly Twitter), the US Ambassador said it wa
 ...
 
 [Data](articles/ee589ff8.json)
+
+[Extended Data](ext_articles/ee589ff8.ext.json)
+
+---
+
+### Bus fares revised
+
+*2024-10-01 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201725) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+"Bus fares increased by 4.24% starting midnight. Minimum fare reduced from 1 rupee to new amount."
+
+🟩
+
+The bus fares have been revised from midnight today (01).
+
+The National Transport Commission stated that the bus fares revised by 4.24 percent.
+
+In addition, the minimum bus fare is reduced from a rupee and the new minimum fee is Rs.
+
+◼️
+
+[Data](articles/dbba575a.json)
+
+[Extended Data](ext_articles/dbba575a.ext.json)
+
+---
+
+### Cabinet proclaimed revelation on the IMF team
+
+*2024-10-01 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201724) · `si`
+
+Sri Lanka IMF team arrives tomorrow, meets officials till Oct 4. Discusses economic reforms, basic program details. Structural talks in NY late Oct.
+
+🟩
+
+A large number of International Monetary Fund is scheduled to arrive in Sri Lanka tomorrow (02).
+
+The team headed by the Director of the International Monetary Fund (IMF) is headed in Sri Lanka until October 4.
+
+They are scheduled to meet President Anura Kumara Dissanayake and the new economic group.
+
+They will discuss the economic reforms under the Sri Lanka Economic Program in Sri Lanka and the Sri Lanka Economic Program in the Sri Lanka Economic Program in Sri Lanka.
+
+Speaking at a press briefing in the press conference held today (01), the Cabinet spokesman Vijitha Herath said that with the IMF's army, the IMF's mission is only a basic discussion regarding the IMF program.
+
+A discussion of its structural matters will be held in New York in late October.
+
+◼️
+
+[Data](articles/2eeb11d7.json)
+
+[Extended Data](ext_articles/2eeb11d7.ext.json)
+
+---
+
+### Dhammika Perera Hayleys is appointed chairman
+
+*2024-10-01 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201723) · `si`
+
+Dhammika Perera replaces Mohan Pandithage as Hayleys PLC chairman. Appointed today after serving as co-chairman since June 2022. Owns 51.01% stake in company.
+
+🟩
+
+Business Dhammika Perera has been replaced by the delegation of Sri Lanka's leading companies, a non-executive director of the country.
+
+Mr. Hayleys Group Chairman and CEO Mohan Pandithage has informed the Colombo Stock Exchange.
+
+The appointment of Dhammika Perera is implemented this morning (01).
+
+Earlier, Dhammika Perera, who had previously served as a co-chairman and an executive director of the Non-Executive Directors of Hayleys, removed from the relevant positions from June 10, 2022.
+
+Hayleys PLC is a large group of companies engaged in diversified fields in the country and Mr. Dhammika Perera is its controlled partner.
+
+Dhammika Perera owns 51.01% of the share capital of Hayleys PLC.
+
+◼️
+
+[Data](articles/f61090dc.json)
+
+[Extended Data](ext_articles/f61090dc.ext.json)
+
+---
+
+### Action to call diplomats
+
+*2024-10-01 13:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜதந்திரிகளை-மீள-அழைக்க-நடவடிக்கை/175-344759) · `ta`
+
+Sri Lanka government plans to recall ambassadors based on political influence. Minister Vijitha Herath announces recovery of diplomatic positions from politically appointed individuals. No immediate action for current diplomats.
+
+🟩
+
+The government has taken steps to return to the ambassadors and high -rankings appointed on the basis of political strength and faith.
+
+Speaking to the media at a weekly meeting announcing the Cabinet decisions, Minister Vijitha Herath said the report was being prepared.
+
+Based on this report, the posts of political appointments will be recovered, he said.
+
+"Many sons and daughters of MPs have been given diplomatic appointments," he said.
+
+However, the Minister said that none of the Sri Lankan diplomats would be immediately recovered.
+
+◼️
+
+[Data](articles/c1adbc52.json)
+
+[Extended Data](ext_articles/c1adbc52.ext.json)
 
 ---
 
@@ -920,9 +1054,13 @@ All parties must come forward to cooperate to cooperate with all the parties to 
 
 *2024-10-01 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102369/duminda-hulangamuwa-and-prof-anil-fernando-appointed-senior-economic-advisors-to-president) · `en`
 
-The Cabinet of Ministers has granted approval to appoint the Chairman of the Ceylon Chamber of Commerce, Duminda Hulangamuwa and Professor Anil Fernando of Sri Jayewardenepura University as Senior Economic Advisors to the President.
+The Cabinet of Ministers has given its consensus to appoint the Chairman of the Ceylon Chamber of Commerce, Duminda Hulangamuwa and Professor Anil Fernando of Sri Jayewardenepura University as Senior Economic Advisors to the President.
 
 They will serve in an honorary capacity, according to the Cabinet Spokesman, Minister Vijitha Herath.
+
+As per powers vested by the Article 41 (1) of the Constitution, the president is empowered to appoint his staff by consulting the Cabinet of Ministers.
+
+Accordingly, it has been decided to give the consensus of the Cabinet of Ministers to appoint Mr. Duminda Hulangamuwa (Senior Consultant of Economic Affairs and Finance) and Dr. A.A.J. Fernando (Senior Consultant of Economic affairs and Finance) with effect from 24-09-2024 on honorary basis, the spokesman said.
 
 ◼️
 
@@ -2201,89 +2339,5 @@ SLPP general secretary Sagara Kariyawasam told reporters on Monday September 30 
 [Data](articles/dbafd72e.json)
 
 [Extended Data](ext_articles/dbafd72e.ext.json)
-
----
-
-### High-level IMF team to visit Sri Lanka this week
-
-*2024-09-30 23:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102364/high-level-imf-team-to-visit-sri-lanka-this-week) · `en`
-
-A high-level team of the International Monetary Fund (IMF) led by its Director of the Asia Pacific Department, Krishna Srinivasan, is scheduled to visit Colombo from October 02 to 04 to meet with President Anura Kumara Dissanayake and Sri Lanka’s new economic team.
-
-The high-level delegation is visiting the island to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF, according to a spokesperson for the global lender.
-
-“A high-level IMF team led by Krishna Srinivasan, Director for the Asia Pacific Department, will be visiting Colombo October 2-4 to meet with President Dissanayake and the new economic team to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF. The team will communicate at the end of the visit,” the spokesman said.
-
-◼️
-
-[Data](articles/dd23310c.json)
-
-[Extended Data](ext_articles/dd23310c.ext.json)
-
----
-
-### Beach clean-up in celebration of World Clean-Up Day
-
-*2024-09-30 23:20:00* · [`islandlk`](http://island.lk/beach-clean-up-in-celebration-of-world-clean-up-day/) · `en`
-
-In a continued effort to create a cleaner Sri Lanka, Gunadamin Elephant House, in collaboration with Muve Colombo and Cleantech, launched a comprehensive beach clean-up program from Mount Lavinia to Wellawatta to mark ‘World Clean-Up Day’. The initiative, held on 7 September, not only aimed to restore the natural beauty of the beach but also to raise awareness about responsible PET disposal and the importance of recycling for a healthier ecosystem.
-
-The program is part of an ongoing six-month partnership between Gunadamin Elephant House and Muve Colombo, ensuring daily clean-ups along the designated beach stretch. The initiative also includes the installation of bins for collection at restaurants and public entrances, making it easier for consumers to responsibly dispose of Plastic.
-
-...
-
-[Data](articles/35b0af1d.json)
-
-[Extended Data](ext_articles/35b0af1d.ext.json)
-
----
-
-### Club Hotel Dolphin triumphs as South Asia’s Top All-Inclusive Resort at SATA 2024
-
-*2024-09-30 23:20:00* · [`islandlk`](http://island.lk/club-hotel-dolphin-triumphs-as-south-asias-top-all-inclusive-resort-at-sata-2024/) · `en`
-
-Club Hotel Dolphin, Waikkal, a premier property in the Browns Hotels & Resorts portfolio, has been recognised as the Leading All-Inclusive Resort at the South Asian Travel Awards (SATA) 2024. The ceremony took place in Kathmandu, Nepal, where Thurashath Niyatapala, General Manager, accepted the accolade at a star-studded event. SATA, considered as one of South Asia’s foremost hospitality awards, celebrates excellence in travel and tourism, acknowledging those who have contributed to shaping and elevating the industry.
-
-...
-
-[Data](articles/d8bde01f.json)
-
-[Extended Data](ext_articles/d8bde01f.ext.json)
-
----
-
-### Sri Lanka’s UNP open to Sajith as PM under common alliance, symbol: Saman R
-
-*2024-09-30 23:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-unp-open-to-sajith-as-pm-under-common-alliance-symbol-saman-r-181668/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s United National Party (UNP) is open to naming Samagi Jana Balawegaya (SJB) leader Sajith Premadasa the prime minister pick for a common opposition alliance that will contest under a common symbol, a UNP spokesman said.
-
-Following a meeting of parties supporting ex-President Ranil Wickremesinghe held on Flower Road, Colombo, on Monday September 30, UNP member Saman Ratnapriya told reporters that discussions were held between the UNP and the Sri Lanka Podujana Peramuna (SLPP) whose majority he said supports Wickremesinghe.
-
-“There were discussions as UNP and as the majority group of the SLPP, and then the group led by former prime minister Dinesh Gunawardena had a discussion outside. The consensus among all of them is that there should be a common alliance under a common symbol.
-
-“There is still room for the SJB to enter talks. But there is a question about whether the talks are going forward to the extent we had anticipated,” said Ratnapriya.
-
-...
-
-[Data](articles/4eca841c.json)
-
-[Extended Data](ext_articles/4eca841c.ext.json)
-
----
-
-### Reflecting on the results through railway promises
-
-*2024-09-30 23:16:26* · [`dailyftlk`](https://www.ft.lk/columns/Reflecting-on-the-results-through-railway-promises/4-767360) · `en`
-
-Is it reasonable for the Government to take on more debt to build tracks and commit taxpayer funds to a service that is incapable of even covering operational costs?
-
-An outspoken activist justified his support for Anura Kumara Dissanayake (AKD) because of the superiority of the manifesto proposals on public transport, especially railways. It’s possible that the actual decision was taken on some other basis, but the railway proposals shed light on a larger problem. I had studied the manifestos in detail but paid little attention to sector proposals, considering them irrelevant in the context of the financial constraints any successful candidate would have to work within in 2024-29.
-
-...
-
-[Data](articles/02f57cfb.json)
-
-[Extended Data](ext_articles/02f57cfb.ext.json)
 
 ---

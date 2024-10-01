@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 19:00:48**
+As of **2024-10-01 19:11:52**
 
 ## Newspaper Stats
 
-*Scraped **47,244** Articles*
+*Scraped **47,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,56 @@ adalk | 4,374
 dailymirrorlk | 4,733
 adaderanalk | 5,561
 tamilmirrorlk | 6,346
-virakesarilk | 7,558
+virakesarilk | 7,559
 adaderanasinhalalk | 8,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,242 (100.0%) of 47,244 articles have been extended.
+47,244 (100.0%) of 47,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
 
-### ගාල් කළ වාහන නැවත එම ආයතනවලටම භාරදෙයි
+### கடவுச்சீட்டு, வீசா விவகாரத்துக்கு கடந்த அரசாங்கமே பொறுப்பு கூற வேண்டும் - விஜித ஹேரத்
+
+*2024-10-01 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195268) · `ta`
+
+கடவுச்சீட்டு மற்றும் வீசா விவகாரத்தில் கடந்த அரசாங்கம் பழைய முறைகளையே பின்பற்றியிருக்கலாம். ஆனால் அரசாங்கம் அதற்கான நடவடிக்கை எடுத்திருக்கவில்லை. இவ்விவகாரத்தில் விடயத்துக்கு பொறுப்பான முன்னாள் அமைச்சர் மாத்திரமின்றி முழு அமைச்சரவையும் பொறுப்பு கூற வேண்டும் என அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+
+செவ்வாய்கிழமை (1) இடம்பெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+வி.எப்.எஸ். வீசா விவகாரம் தொடர்பில் நீதிமன்ற உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. அதற்கமைய அந்த முறைமை இடைநிறுத்தப்பட்டுள்ளது. அதற்கமைய பழைய முறைக்கு செல்வதற்கும் தீர்மானிக்கப்பட்டுள்ளது. கடந்த அரசாங்கத்தால் பழைய முறையை நடைமுறைப்படுத்தியிருக்க முடியும். ஆனால் அரசாங்கம் அதற்கான நடவடிக்கை எடுத்திருக்கவில்லை.
+
+...
+
+[Data](articles/069c58c7.json)
+
+---
+
+### Parked vehicles handed over to those institutions
 
 *2024-10-01 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201736) · `si`
 
-පසුගිය සමයේ අමාත්‍යාංශ, දෙපාර්තමේන්තු ඇතුළු විවිධ රජයේ ආයතනවලින් ජනාධිපති කාර්යාලයට රැගෙන විත් තිබූ වාහන නැවත එම ආයතනවලට භාරදීම අද (01) පස්වරුවේ ජනාධිපති කාර්යාලය අසල එම වාහන නවතා තිබූ පරිශ්‍රයේදී සිදු කෙරුණි.
+Vehicles transferred to institutions. Presidential Secretariat received vehicles. Officials arrived today. Total vehicles replaced across ministries. Senior Additional Secretary present.
 
-ඒ අනුව අද (01) වාහන 19ක් නිදහස් කිරීමට කටයුතු කෙරුණු අතර එයින් වාහන 15ක් පමණ පූර්ව දැනුම්දීමකට අනුව එම ස්ථානයට පැමිණි අදාළ ආයතනවල නිලධාරීන් අද දිනම රැගෙන ගිය බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+🟩
 
-මාර්ග සංවර්ධන අධිකාරියෙන් ලබාගත් වාහන 08ක්, මුදල් අමාත්‍යාංශයෙන් ලබාගත් වාහන 03ක්, දකුණු පළාත් සභාවෙන්, ප්‍රවාහන හා සිවිල් ගුවන්සේවා අමාත්‍යාංශයෙන් සහ වනජීවි දෙපාර්තමේන්තුවෙන් ලබාගත් වාහන 01 බැගින් සම්පූර්ණ වාහන 15ක් අද දින මෙලෙස ආදළ ආයතනවලට නැවත ලබාදීම සිදු විය.
+The vehicles were taken to the Presidential Secretariats, including ministries, departments, and the Presidential Officers were taken to the Presidential Secretariat at the premises near the Presidential Secretariat this afternoon.
 
-මෙම අවස්ථාවට ජනාධිපති කාර්යාලයේ ජ්‍යෙෂ්ඨ අතිරේක ලේකම් රොෂාන් ගමගේ, අතිරේක ලේකම් මහේෂ් හේවාවිතාරණ යන මහත්වරු ඇතුළු පිරිසක් එක්වී තිබේ.
+According to the Presidential Media Unit, officials from the relevant institutions arrived today (Fifteen vehicles were taken to the scene).
+
+Eight vehicles obtained from the Road Development Authority and the total number of vehicles across the Ministry of Finance and the Ministry of Transport and Civil Aviation and the Department of Transport and Civil Aviation were replaced by the Department.
+
+Senior Additional Secretary to the Presidential Secretariat Rosh Hewavitharana, Senior Additional Secretary, has joined the occasion.
 
 ◼️
 
 [Data](articles/7c08a327.json)
+
+[Extended Data](ext_articles/7c08a327.ext.json)
 
 ---
 
@@ -334,17 +356,23 @@ Within a short time of the song, millions of viewers have been visited and achie
 
 ---
 
-### මෙම සතියේ සුරාසැල් වැසෙන දිනය මෙන්න
+### Here is the day of liquor closing this week
 
 *2024-10-01 16:39:26* · [`adalk`](https://www.ada.lk/breaking_news/මෙම-සතියේ-සුරාසැල්-වැසෙන-දිනය-මෙන්න/11-412260) · `si`
 
-ඔක්තෝම්බර්  03 වැනිදා දිවයිනපුරා සුරා සැල් වසා තබන ලෙස සුරාබදු කොමසාරිස් ජනරාල්වරයා නියෝග කර තිබේ.
+Liquor stores close Oct 3 to observe World Christianity Day. Commissioner General of Excise issues order.
 
-එදිනට යෙදී ඇති ලෝක අමද්‍යම දිනය නිමිත්තෙන් මෙම පියවර ගෙන ඇත.
+🟩
+
+The Commissioner General of Excise has been ordered to sit on October 3.
+
+This step has been taken to mark the World Christendom day on that day.
 
 ◼️
 
 [Data](articles/b994e006.json)
+
+[Extended Data](ext_articles/b994e006.ext.json)
 
 ---
 
@@ -2413,29 +2441,5 @@ Local residents in the Lebanese border town of Aita al-Shaab reported heavy shel
 [Data](articles/7eb5aef7.json)
 
 [Extended Data](ext_articles/7eb5aef7.ext.json)
-
----
-
-### In Sri Lanka deflation was common before the policy rate, IMF Second Amendment: Bellwether
-
-*2024-10-01 08:29:00* · [`economynextcom`](https://economynext.com/in-sri-lanka-deflation-was-common-before-the-policy-rate-imf-second-amendment-bellwether-181689/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s deflation in September 2024 has created news, but all inflation was followed by deflation for over 200 years before currency depreciation (now called flexible exchange rate) and money printing for a policy rate.
-
-Under the currency board from 19 century and the Central Bank under Bretton  Woods specie standard, Sri Lanka’s inflation  was broadly the same as the US and the rest of the world.
-
-Under a fixed exchange rate to the Fed, inflation that went down came down and macro-economists could not generate permanent inflation and wage destruction.
-
-For example from 1953 January when the Colombo Consumer Price Index was at 100.1, it was only 100.7 by August 1960.
-
-From the early 1950s as the central bank began to print money, foreign exchange controls were gradually intensified.
-
-It was in the 1960s that the US Fed, driven by ‘macroeconomic policy’ started to aggressive cyclical policy rate manipulation, leading to reserve losses (gold) and soaring gold prices.
-
-...
-
-[Data](articles/53ef099b.json)
-
-[Extended Data](ext_articles/53ef099b.ext.json)
 
 ---

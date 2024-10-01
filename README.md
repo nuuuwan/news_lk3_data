@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 17:08:05**
+As of **2024-10-01 17:22:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,165
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,229 (100.0%) of 47,231 articles have been extended.
+47,231 (100.0%) of 47,231 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -196,15 +196,21 @@ At the end of transactions, all stock price index value was recorded as 11,992.9
 
 ---
 
-### අද මධ්‍යම රාත්‍රියේ සිට බස් ගාස්තු අඩු වෙයි - අවම බස් ගාස්තුව රු.27යි
+### Bus fares from midnight today reduce bus fare - Minimum bus fare is Rs
 
 *2024-10-01 15:33:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-මධ්‍යම-රාත්‍රියේ-සිට-බස්-ගාස්තු-අඩු-වෙයි---අවම-බස්-ගාස්තුව-රු-27යි/11-412259) · `si`
 
-ඉන්ධන මිල අඩු කිරීමත් සමග අද(01දා) මධ්‍යම රාත්‍රියේ සිට බස් ගාස්තුව 4.24%කින් අඩු කිරීමට ජාතික ගමනා ගමන කොමිෂන් සභාව කටයුතු කර තිබේ.
+National Transport Commission reduces bus fares by 4.24%. Minimum fare now Rs [amount]. Effective midnight today.
+
+🟩
+
+The National Transport Commission has taken steps to reduce the bus fares by 4.24% with the reduction of fuel prices.
 
 ◼️
 
 [Data](articles/04de4b34.json)
+
+[Extended Data](ext_articles/04de4b34.ext.json)
 
 ---
 
@@ -1345,6 +1351,8 @@ In the past, we have allowed ourselves to become fragmented—split into various
 ...
 
 [Data](articles/ad75bbf5.json)
+
+[Extended Data](ext_articles/ad75bbf5.ext.json)
 
 ---
 

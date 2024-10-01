@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 12:57:19**
+As of **2024-10-01 13:08:10**
 
 ## Newspaper Stats
 
-*Scraped **47,179** Articles*
+*Scraped **47,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ colombotelegraphcom | 471
 islandlk | 2,776
 economynextcom | 2,870
 dailyftlk | 3,162
-adalk | 4,365
+adalk | 4,366
 dailymirrorlk | 4,733
 adaderanalk | 5,550
 tamilmirrorlk | 6,338
 virakesarilk | 7,543
-adaderanasinhalalk | 8,153
+adaderanasinhalalk | 8,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,179 (100.0%) of 47,179 articles have been extended.
+47,182 (100.0%) of 47,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Mayank Yadav call for Indian team
+
+*2024-10-01 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201721) · `si`
+
+Here's a 200-character summary:
+
+
+
+Indian cricket team announced for 20-20 tournament against Bangladesh. Led by Surkumar Yadav, 15-player squad includes returning players like Gybrino Gill and Yasausvi Jayswal. Bowlers from IPL selected. Some players rested: Rishab Bar, Akar Patel, Mohammad Sarirag. Replacements: Nighth Kumar, Abhishek Sharma, Hersh.
+
+🟩
+
+The Indian squad has been named for the 20-20 international tournament with Bangladesh.
+
+The squad led by Surkumar Yadav is included in 15 players.
+
+2024 The bowler was bowled out for the Indian squad, which was bowled out in the Indian Premier League.
+
+The last 20-20 international tournament, the last 20-20 international tournament, has been recalled to the Indian squad.
+
+Gybrino Gill, Yasausvi Jayswal, Rishab Bar, Akar Patel and Mohammad Sarirag have rest for the tournament.
+
+The players Nighth Kumar, Abhishek Sharma and Hersh, was also replaced by Night.
+
+◼️
+
+[Data](articles/ef155a57.json)
+
+[Extended Data](ext_articles/ef155a57.ext.json)
+
+---
+
+### Former Defense Minister appointed as Prime Minister of Japan
+
+*2024-10-01 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201720) · `si`
+
+Former Defense Minister Shimaru Isiba becomes Prime Minister of Sri Lanka, replacing Japanese PM Fumio Kishida. Kishida stepped down as leader of the Liberal Democratic Party. The new PM plans to take office on October 27.
+
+🟩
+
+Former Defense Minister Shimaru Isiba has won the new Prime Minister of Sri Lanka.
+
+Japanese Prime Minister Prime Minister Fumio Kukuda was replaced by foreign media reports, foreign media reports say.
+
+The new Prime Minister's plan is to be held on October 27.
+
+Japanese Prime Minister Fumio Kuzida left the country with the leadership of the ruling party, the Liberal Democratic Party.
+
+Addressing a media briefing at Tokyo, he announced that he would not contest the next leadership party next leadership party.
+
+In September of 2021, Kihida was elected to the ruling party leadership in September 2011, with a period of three years.
+
+◼️
+
+[Data](articles/2114ca68.json)
+
+[Extended Data](ext_articles/2114ca68.ext.json)
+
+---
 
 ### Japan’s parliament elects Shigeru Ishiba, newly elected governing party leader, as prime minister
 
@@ -88,6 +148,28 @@ Channa Gunawardena has been appointed as the Chairman of Litro Gas and Litro Gas
 
 ---
 
+### Postal voting applications from today
+
+*2024-10-01 11:32:02* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්ද-අයදුම්පත්-භාර-ගැනීම-අද-01-සිට/11-412252) · `si`
+
+Postal voting applications open today for Nov 14, 2024 election. Acceptance ends Oct 8. Used for 2024 electoral register.
+
+🟩
+
+Postal voting applications for the 2024 general election on November 14 will commence today (01).
+
+The Elections Commission (EPL) has issued a statement that the acceptance of applications will be held until October 8.
+
+The Elections Commission announced that the 2124 general election is used for the 2024 electoral regional register for the 2024 election.
+
+◼️
+
+[Data](articles/3dc47987.json)
+
+[Extended Data](ext_articles/3dc47987.ext.json)
+
+---
+
 ### President instructs to suspend Scholarship Exam paper marking for 2 weeks
 
 *2024-10-01 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102372/president-instructs-to-suspend-scholarship-exam-paper-marking-for-2-weeks) · `en`
@@ -107,6 +189,10 @@ President Anura Kumara Dissanayake has instructed to suspend the evaluation of a
 *2024-10-01 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102371/committee-to-review-privileges-granted-to-mps-ministers-and-ex-presidents) · `en`
 
 The Cabinet of Ministers has approved the appointment of a committee chaired by retired Supreme Court Judge K.T. Chithrasiri, to assess and review the limitation of claims, allowances and privileges granted to Members of Parliament (MPs), Ministers, and former Presidents.
+
+The committee is tasked with submitting a detailed report within two months, offering suitable recommendations or suggesting other alternative methods to assess and review the limitation of claims, allowances and privileges.
+
+- Mr. K.T. Chithrasiri (Chairman) - Retired Supreme Court Judge
 
 ◼️
 
@@ -2171,83 +2257,5 @@ The political landscape of Sri Lanka has largely been dominated by a few powerfu
 [Data](articles/a032c6a9.json)
 
 [Extended Data](ext_articles/a032c6a9.ext.json)
-
----
-
-### Down with a value that fuel prices
-
-*2024-09-30 21:45:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-දැනෙන-අගයකින්-පහළට/11-412242) · `si`
-
-Fuel prices reduced: Petrol (Octane 92) down 21rs/liter to 311rs, Super diesel by 319rs/liter, Auto diesel by 24rs/liter, Kerosene by 19rs/liter. Reductions effective midnight today.
-
-🟩
-
-The Petroleum Corporation has acted on the fuel price of fuel on the final of the fuel formula.
-
-Accordingly, an Octane 92 liter of petrol has been reduced by 21 rupees and the new price of a liter is Rs. 311.
-
-A liter of Super diesel has been reduced by Rs. 319.
-
-Auto diesel has been reduced by 24 rupees and the new price of a liter is Rs. 283.
-
-The new price of kerosene has been reduced by Rs. 19 rupees of a liter.
-
-The reduction of the fuel prices will operate from midnight today.
-
-◼️
-
-[Data](articles/17793e0b.json)
-
-[Extended Data](ext_articles/17793e0b.ext.json)
-
----
-
-### Reduction of Petrol and Diesel Price!
-
-*2024-09-30 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/195178) · `ta`
-
-Petrol 92: Reduced from 332 to 311 rupees per liter. No change for 95 Octane. Diesel: Lanka White reduced from 307 to 283, Lanka Super from 352 to 319. Kerosene reduced from 202 to 183 rupees per liter. Prices effective midnight Monday.
-
-🟩
-
-According to the monthly price formula, the Ceylon Petroleum Corporation has decided to revise the fuel prices with effect from midnight on Monday (30).
-
-Accordingly, the price of a liter of petrol by Octan 92 will be reduced by 21 rupees and its new price is 311 rupees.
-
-The Petroleum Law Corporation has said that there is no change in the price of a 95 Octane Petrol Later.
-
-The price of Lanka White Diesel is reduced by 24 rupees and its new price is 283 rupees.
-
-The price of Lanka Super Diesel will be reduced by 33 rupees and its new price is 319 rupees.
-
-Sri Lankan kerosene oil will be reduced by 19 rupees and its new price is 183 rupees.
-
-◼️
-
-[Data](articles/d1d6510d.json)
-
-[Extended Data](ext_articles/d1d6510d.ext.json)
-
----
-
-### Fuel prices reduced
-
-*2024-09-30 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102362/fuel-prices-reduced) · `en`
-
-The Ceylon Petroleum Corporation (CPC) has announced a revision of fuel prices effective from midnight today (Sept. 30).
-
-Accordingly, the price of Petrol 92 Octane has been reduced by Rs. 21 to Rs. 311 per litre, while Auto Diesel has been reduced by Rs. 24 to Rs. 283 per litre.
-
-The price of Super Diesel has also been slashed by Rs. 33, bringing the new price to Rs. 319 per litre, and Kerosene has been reduced by Rs. 19 to Rs. 183 per litre.
-
-However, the price of Petrol 95 remains unchanged, according to Ceypetco.
-
-UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have decided to revise its fuel prices, to match the state-owned oil company’s prices.
-
-◼️
-
-[Data](articles/e5797d1a.json)
-
-[Extended Data](ext_articles/e5797d1a.ext.json)
 
 ---

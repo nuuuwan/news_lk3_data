@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 12:25:34**
+As of **2024-10-01 12:38:40**
 
 ## Newspaper Stats
 
-*Scraped **47,178** Articles*
+*Scraped **47,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,870
 dailyftlk | 3,162
 adalk | 4,365
 dailymirrorlk | 4,733
-adaderanalk | 5,549
+adaderanalk | 5,550
 tamilmirrorlk | 6,338
 virakesarilk | 7,543
 adaderanasinhalalk | 8,153
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,175 (100.0%) of 47,178 articles have been extended.
+47,179 (100.0%) of 47,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Japan’s parliament elects Shigeru Ishiba, newly elected governing party leader, as prime minister
+
+*2024-10-01 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102374/japans-parliament-elects-shigeru-ishiba-newly-elected-governing-party-leader-as-prime-minister) · `en`
+
+Japan’s parliament on Tuesday formally elected Shigeru Ishiba, head of the governing Liberal Democratic Party, as the country’s new prime minister.
+
+Ishiba was chosen as the party’s leader on Friday to replace Fumio Kishida, who then stepped down earlier on Tuesday to pave the way.
+
+Kishida took office in 2021 but left so his party could have a fresh leader after his government was dogged by scandals. Ishiba plans to call a parliamentary election for Oct. 27.
+
+Opposition parties criticized Ishiba for allowing only a short period of time for his policies to be examined and discussed in parliament before the national election.
+
+Kishida had announced in August he would resign at the end of his three-year term.
+
+Kishida and his ministers stepped down at a Cabinet meeting on Tuesday morning, Chief Cabinet Secretary Yoshimasa Hayashi said. Kishida left his office after a brief send-off ceremony in which he was presented a bouquet of red roses and applauded by his staff and former Cabinet members.
+
+...
+
+[Data](articles/24532028.json)
+
+[Extended Data](ext_articles/24532028.ext.json)
+
+---
 
 ### New Chairman appointed to Litro Gas
 
@@ -1032,6 +1056,8 @@ Kerosene was cut by 19 rupees to 183 rupees. (Colombo/Oct01/2024)
 
 [Data](articles/2f101102.json)
 
+[Extended Data](ext_articles/2f101102.ext.json)
+
 ---
 
 ### World Children's Day Today
@@ -1614,6 +1640,8 @@ He has over 35 years of experience in business and is on the Boards of several q
 
 [Data](articles/d265d6f4.json)
 
+[Extended Data](ext_articles/d265d6f4.ext.json)
+
 ---
 
 ### The solution to the parents of the President to the President
@@ -1697,6 +1725,8 @@ SLPP general secretary Sagara Kariyawasam told reporters on Monday September 30 
 ...
 
 [Data](articles/dbafd72e.json)
+
+[Extended Data](ext_articles/dbafd72e.ext.json)
 
 ---
 
@@ -2219,21 +2249,5 @@ UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have 
 [Data](articles/e5797d1a.json)
 
 [Extended Data](ext_articles/e5797d1a.ext.json)
-
----
-
-### A businessman shot dead by Hangwella
-
-*2024-09-30 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/195177) · `ta`
-
-Businessman killed in Hangwella incident summary: Local entrepreneur fatally shot in business dispute resolution gone wrong. Police investigation ongoing. Community shocked by violent outcome to commercial conflict.
-
-🟩
-
-◼️
-
-[Data](articles/2582370c.json)
-
-[Extended Data](ext_articles/2582370c.ext.json)
 
 ---

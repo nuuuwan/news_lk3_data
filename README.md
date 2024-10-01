@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 06:12:02**
+As of **2024-10-01 06:44:22**
 
 ## Newspaper Stats
 
-*Scraped **47,110** Articles*
+*Scraped **47,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,161
 adalk | 4,356
 dailymirrorlk | 4,733
 adaderanalk | 5,540
-tamilmirrorlk | 6,326
+tamilmirrorlk | 6,327
 virakesarilk | 7,539
 adaderanasinhalalk | 8,142
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,110 (100.0%) of 47,110 articles have been extended.
+47,111 (100.0%) of 47,111 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -331,6 +331,30 @@ The TeDi Fleet mobile app, launched in collaboration with The Connection Worksho
 [Data](articles/8c6d8f80.json)
 
 [Extended Data](ext_articles/8c6d8f80.ext.json)
+
+---
+
+### Vijitha Herath - Santosh Ja Meeting
+
+*2024-10-01 00:30:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-சந்தோஷ்-ஜா-சந்திப்பு/175-344742) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Meeting: Vijitha Herath (Sri Lanka) met Santosh Ja (India). Discussed strengthening bilateral ties and cultural exchange between nations.
+
+🟩
+
+A meeting was held yesterday between External Affairs Minister Vijitha Hera and Indian High Commissioner Santosh Ja.
+
+In addition, the Indian High Commission in Sri Lanka has stated that the Indian High Commission in Sri Lanka has also discussed the process of further strengthening the cultural friendship of the two countries.. (A)
+
+◼️
+
+[Data](articles/55a9b99c.json)
+
+[Extended Data](ext_articles/55a9b99c.ext.json)
 
 ---
 
@@ -2303,33 +2327,5 @@ Below is the full list of those used by the vehicle.
 [Data](articles/f4a34937.json)
 
 [Extended Data](ext_articles/f4a34937.ext.json)
-
----
-
-### Further inquiries into suspect arrested in Ampara
-
-*2024-09-30 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195132) · `ta`
-
-Ampara: Suspect arrested with ice drugs. Further investigation ongoing. 43-year-old man arrested. 5g 650mg ice seized. Suspect involved in drug consumption and sales. Officials led by Inspector RACS Ratnayake.
-
-🟩
-
-The Kalmunai Special Task Force said that further investigations are being carried out in connection with the suspect arrested with ice drugs.
-
-The road patrols were carried out following a confidential information on Friday evening (27) at the Iriyamam Police Division of the Ampara District.
-
-Officers led by the Inspector of Police RACS Ratnayake, who are in charge of the Kalmunai Special Task Force Camp, have rescued the suspect and handed over the suspects and handed over to the police for legal action.
-
-A 43 -year -old man has been arrested for the father of 4 children from Varappathan Senai 02 Vandikaran Road.
-
-5 g 650 milligrams of Ice is seized from the suspect.
-
-Investigations have revealed that the arrested person was involved in drug consumption and sales for several days.
-
-...
-
-[Data](articles/aaa68775.json)
-
-[Extended Data](ext_articles/aaa68775.ext.json)
 
 ---

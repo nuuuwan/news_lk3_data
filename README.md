@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 11:10:26**
+As of **2024-10-01 11:22:43**
 
 ## Newspaper Stats
 
-*Scraped **47,154** Articles*
+*Scraped **47,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,142 @@ economynextcom | 2,861
 dailyftlk | 3,162
 adalk | 4,362
 dailymirrorlk | 4,733
-adaderanalk | 5,544
+adaderanalk | 5,546
 tamilmirrorlk | 6,334
 virakesarilk | 7,543
-adaderanasinhalalk | 8,150
+adaderanasinhalalk | 8,151
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,149 (100.0%) of 47,154 articles have been extended.
+47,152 (100.0%) of 47,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
 
-### அநுரா குமார திசாநாயக்க ; இலங்கை வானில்  'இடதுசாரி' நட்சத்திரம்
+### Acting Controller General of Immigration and Emigration appointed
+
+*2024-10-01 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102370/acting-controller-general-of-immigration-and-emigration-appointed-) · `en`
+
+The Additional Secretary of Public Security Ministry, B.M.D. Nilusha Balasuriya, has been appointed as the Acting Controller General of Immigration and Emigration, said the Cabinet Spokesman, Minister Vijitha Herath.
+
+◼️
+
+[Data](articles/ef7b47fa.json)
+
+[Extended Data](ext_articles/ef7b47fa.ext.json)
+
+---
+
+### Nilazasasha Balasuriya is appointed to act in the post of Immigration and Emigration
+
+*2024-10-01 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201717) · `si`
+
+Nilasasha Balasuriya appointed Immigration & Emigration Controller. Cabinet approves proposal. Previously served as Controller General. Decision made September 25th. Special grade officer in Sri Lanka Administrative Service.
+
+🟩
+
+B. M. D. The proposal made by the Cabinet of Public Defense has been approved to appoint Nilasasha Balasuriya to the appointment of Immigration and Emigration Controller.
+
+Served as the Controller General of Immigration and Emigration. S. H. J. The decision has been taken from the 25th of September to the Supreme Court orders from September 25th.
+
+Balasuriya is a special grade of the Sri Lanka Administrative Service as a Additional Secretary of the Public Defense Ministry.
+
+◼️
+
+[Data](articles/23919fe9.json)
+
+[Extended Data](ext_articles/23919fe9.ext.json)
+
+---
+
+### Anura Kumara Dissanayake;'Left -wing' star in Sri Lankan sky
 
 *2024-10-01 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195194) · `ta`
 
-அமெரிக்க பத்திரிகையாளர் எட்கார் சினோவின் ' சீன வானில்  சிவப்பு நட்சத்திரம்  ' (Red Star over China ) என்ற நூல்தான்  கட்டுரைக்கு இந்த தலைப்பை  வைப்பதற்கு தூண்டுதல் அளித்தது. சீனக் கம்யூனிஸ்ட் தலைவர் மாவோ சேதுங்குடனும் செஞ்சேனையுடனும் தனது ஊடாட்டம் பற்றிய உயிர்களையுடைய விபரிப்பாக அமைந்த அந்த முதலில் 1937 ஆம் ஆண்டில் பிரசுரமானது. மாவோ என்று அறியப்பட்ட மாவோ சேதுங்கைப் பற்றி அந்த நேரத்தில் மேற்குலகில் பெரிதாகத் தெரியாது.
+This text appears to be a biographical sketch of Anura Kumara Dissanayake, a prominent figure in Sri Lankan politics. Here's a summary of key points:
 
-பல வருடங்கள் கழித்து மாவோவின் தலைமையில் கம்யூனிஸ்டுகள் சீனாவில் அதிகாரத்தைக் கைப்பற்றியபோது ' சீன வானில்  சிவப்பு நட்சத்திரத்தின் ' பிரதிகள்  பிரமிக்கத்தக்க அளவில் பெரும் எண்ணிக்கையில் உலகெங்கும் விற்பனையானது. சீனாவின் புதிய கம்யூனிஸ்ட் ஆட்சியாளர்கள் பற்றி ஒரு உள்நோக்கைப் பெறுவதற்கு அந்த்நூல் பேராவலூடன் வாசிக்கப்பட்டது.
+
+
+1. Early life and education: 
+
+   - Born in Thambuttegama
+
+   - First student from Thambuttegama Central College to attend the University of Peradeniya
+
+   - Enthusiastic reader, particularly fond of works by Leo Tolstoy, Marx, and Mahinda Prasad Mahesimbul
+
+
+
+2. Political involvement:
+
+   - Joined the Janatha Vimukthi Peramuna (JVP) in 1987 at age 19
+
+   - Brother Sunil Ratnayake influenced his decision to join the JVP
+
+   - Participated in the JVP's second rebellion in 1987-1990
+
+   - Involved in underground activities, including messenger work
+
+
+
+3. Personal experiences:
+
+   - Witnessed the death of his brother Sunil Ratnayake during the JVP's second rebellion
+
+   - Fled to Peradeniya and then to Kelaniya University
+
+   - Family home allegedly set on fire by state agents
+
+
+
+4. Later career:
+
+   - Resumed education at the University of Kelaniya
+
+   - Gradually rose through the ranks of the JVP
+
+   - Currently serves as the Executive President of Sri Lanka
+
+
+
+5. Historical context:
+
+   - Mentioned the Indo-Sri Lanka Peace Agreement of 1987
+
+   - Referenced the JVP's first rebellion in 1971
+
+   - Discussed the aftermath of the JVP's second rebellion, including the deaths of many youth and leaders
+
+
+
+6. Cultural references:
+
+   - Compared the JVP's resurgence to the phoenix bird in mythology
+
+   - Mentioned historical figures like Marx, Engels, Lenin, Gandhi, and others whose works influenced Dissanayake
+
+
+
+This biography provides insight into Dissanayake's early life, his involvement in Sri Lankan politics, particularly with the JVP, and his rise to prominence in the country's left-wing movement.
+
+🟩
+
+Red Star Over China's 'Red Star Over China' has prompted the topic to put this title to American journalist Edgar Sino. It was first published in 1937 as a life -threatening illustration of the Chinese Communist leader Mao Sethung and the Red Cross.. Mao Sethung, known as Mao, was not known in the West at the time.
+
+Many years later, when the Communists, led by Mao seized power in China. It was read with the Paravaru to get an impression on the new Communist rulers of China.
+
+Newly elected Executive President Anura Kumara Dissanayake in Sri Lanka is a red star or left -wing star in Sri Lanka today. Anura or AKD. Dissanayake, who was popularly known, won the election on September 21, 2024.. He was sworn in as the Executive President of Sri Lanka on September 23.
+
+55 -year -old Dissanayake Janata Vimukthi Peramuna (JVP. ) The leader of the national and the power of the people.The JVP, who became a radical movement and later became a political party. Has a history of six decades.
 
 ...
 
 [Data](articles/154c9b82.json)
+
+[Extended Data](ext_articles/154c9b82.ext.json)
 
 ---
 
@@ -63,6 +173,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/81b9b7db.json)
+
+---
+
+### Duminda Hulangamuwa and Prof. Anil Fernando appointed Senior Economic Advisors to President
+
+*2024-10-01 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102369/duminda-hulangamuwa-and-prof-anil-fernando-appointed-senior-economic-advisors-to-president) · `en`
+
+The Cabinet of Ministers has granted approval to appoint the Chairman of the Ceylon Chamber of Commerce, Duminda Hulangamuwa and Professor Anil Fernando of Sri Jayewardenepura University as Senior Economic Advisors to the President.
+
+They will serve in an honorary capacity, according to the Cabinet Spokesman, Minister Vijitha Herath.
+
+◼️
+
+[Data](articles/e3cfec27.json)
 
 ---
 
@@ -2149,75 +2273,5 @@ The decision was taken at the Cabinet meeting yesterday (30) under the patronage
 [Data](articles/44c3b885.json)
 
 [Extended Data](ext_articles/44c3b885.ext.json)
-
----
-
-### The president's decision pause
-
-*2024-09-30 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எடுத்த-தீர்மானம்-இடைநிறுத்தம்/175-344724) · `ta`
-
-President Anura Kumara Dissanayake suspends fertilizer and fuel subsidies due to general election announcement. Election Commissioner RMAL Ratnayake cites potential impact on other candidates. Subsidies to resume post-election.
-
-🟩
-
-The decision of President Anura Kumara Dissanayake has been suspended to provide 25,000 rupees fertilizer subsidy for farmers and fuel subsidy for fishermen.
-
-With the announcement of the general election, the Chairman of the Elections Commission RMAL will suspend the resolution, considering the impact of other candidates by deciding to provide such a subsidy.. Ratnayake said.
-
-Accordingly, the Elections Commission has announced to the President to implement a subsidy resolution after the general election. Remble
-
-◼️
-
-[Data](articles/cbc97c9c.json)
-
-[Extended Data](ext_articles/cbc97c9c.ext.json)
-
----
-
-### The President's decision was suspended
-
-*2024-09-30 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எடுத்த-தீர்மானம்-இடைநிறுத்தப்பட்டது/175-344724) · `ta`
-
-President suspends fertilizer and fuel subsidies due to upcoming elections. Decision put on hold until after polls.
-
-🟩
-
-The decision of President Anura Kumara Dissanayake has been suspended to provide 25,000 rupees fertilizer subsidy for farmers and fuel subsidy for fishermen.
-
-With the announcement of the general election, the Chairman of the Elections Commission RMAL will suspend the resolution, considering the impact of other candidates by deciding to provide such a subsidy.. Ratnayake said.
-
-Accordingly, the Elections Commission has announced to the President to implement a subsidy resolution after the general election. Remble
-
-◼️
-
-[Data](articles/df44f949.json)
-
-[Extended Data](ext_articles/df44f949.ext.json)
-
----
-
-### Former MPs informed to handover firearms
-
-*2024-09-30 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102359/former-mps-informed-to-handover-firearms) · `en`
-
-Former Members of Parliament (MPs) have been informed to immediately hand over the firearms issued to them to the Ministry of Defense.
-
-The Parliament Members’ Services Division has notified the former MPs of this.
-
-Necessary steps will be taken to send the relevant letters to the former MPs immediately, a spokesman for the division told Ada Derana.
-
-All the facilities provided to the MPs were withdrawn with the dissolution of the Parliament.
-
-Accordingly, former MPs will no longer receive their MP’s allowance, staff allowances, fuel provisions and stamp duty.
-
-However, they are allowed to continue using the official residences provided to them in the Madiwela Housing Complex until the upcoming election.
-
-The former members who are not re-elected in the General Election are required to hand over their houses the very next day after the election.
-
-◼️
-
-[Data](articles/cef96c29.json)
-
-[Extended Data](ext_articles/cef96c29.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 13:08:10**
+As of **2024-10-01 13:22:57**
 
 ## Newspaper Stats
 
-*Scraped **47,182** Articles*
+*Scraped **47,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 390
 bbccomsinhala | 465
 colombotelegraphcom | 471
 islandlk | 2,776
-economynextcom | 2,870
+economynextcom | 2,871
 dailyftlk | 3,162
 adalk | 4,366
 dailymirrorlk | 4,733
 adaderanalk | 5,550
-tamilmirrorlk | 6,338
+tamilmirrorlk | 6,340
 virakesarilk | 7,543
 adaderanasinhalalk | 8,155
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,155
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,182 (100.0%) of 47,182 articles have been extended.
+47,185 (100.0%) of 47,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### "He died of arakala attack"
+
+*2024-10-01 12:57:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-தாக்குதலால்-தான்-அவர்-இறந்தார்/175-344756) · `ta`
+
+Former MP Kumara Welgama died from injuries sustained during the Arakalaya incident on May 9, 2022. He was hospitalized repeatedly due to his condition after being attacked. As an opposition member, Welgama faced violence during this event.
+
+🟩
+
+Former MP Kumara Welgama's death was caused by injuries in the confusion on May 9, 2022. One said.
+
+“Those who started the Arakalaya on May 9, 2022 suffered a severe attack on Welgama.. He was admitted to the hospital from time to time due to injuries during the Arakalaya during the Arakalaya.
+
+It is noteworthy that he was a member of the opposition at the time of the attack on May 9, 2022.
+
+◼️
+
+[Data](articles/eb7ed84d.json)
+
+[Extended Data](ext_articles/eb7ed84d.ext.json)
+
+---
 
 ### Mayank Yadav call for Indian team
 
@@ -61,6 +83,30 @@ The players Nighth Kumar, Abhishek Sharma and Hersh, was also replaced by Night.
 [Data](articles/ef155a57.json)
 
 [Extended Data](ext_articles/ef155a57.ext.json)
+
+---
+
+### Bus charge is low (video)
+
+*2024-10-01 12:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/பஸ்-கட்டணம்-குறைந்தது-வீடியோ/52-344755) · `ta`
+
+Inter-Provincial Bus Association reduces minimum bus travel fee by 4% due to lower fuel prices. Benefits expected for consumers amid bus shortages.
+
+🟩
+
+The Inter -Provincial Bus Association has decided to reduce the minimum bus travel fee by Rs.
+
+Anjana Priyanjith, General Secretary of the Association's Secretary to the Association, said that the bus fare has been reduced by four per cent.
+
+He said that as the fuel prices have been reduced since midnight yesterday, the benefits should be provided to the people.
+
+He pointed out that the association has decided to reduce the bus fare by 4 percent and that the people will benefit if the bus fares are determined by the bus fares, considering the retail shortage of the buses.
+
+◼️
+
+[Data](articles/83b69261.json)
+
+[Extended Data](ext_articles/83b69261.ext.json)
 
 ---
 
@@ -392,7 +438,7 @@ He has repeatedly asked Mr. Vikramasinghe to resign from his post and he did not
 
 ---
 
-### Ceylon Chamber head appointed advisor to Sri Lanka president
+### Ceylon Chamber head, Anil Jayantha advisors to Sri Lanka president
 
 *2024-10-01 10:48:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-head-appointed-advisor-to-sri-lanka-president-181750/) · `en`
 
@@ -400,7 +446,7 @@ ECONOMYNEXT – The Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa has 
 
 “The special advisors will not be receiving any remuneration, and this is a voluntary position,” Herath told reporters at the first Cabinet press briefing after the president was elected.
 
-Consensus of the 3 member Cabinet of Ministers was also given to appoint Dr A A J Fernando as Senior Consultant of
+Consensus of the 3 member Cabinet of Ministers was also given to appoint A A J Fernando, as Senior Consultant of Economic Affairs and Finance.
 
 Duminda Hulangamuwa is the Country Managing Partner for Sri Lanka and The Maldives, Ernst & Young.
 
@@ -2217,45 +2263,5 @@ Some of the NPP members said the price could be reduced by more than 100 rupees 
 [Data](articles/0bebde74.json)
 
 [Extended Data](ext_articles/0bebde74.ext.json)
-
----
-
-### Israel said to inform US of plans for imminent limited ground op in Lebanon
-
-*2024-09-30 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102363/israel-said-to-inform-us-of-plans-for-imminent-limited-ground-op-in-lebanon) · `en`
-
-Israel is planning a limited ground operation in Lebanon that may start imminently, Israel has told the United States, the Washington Post reports citing an unidentified US official.
-
-The operation will be smaller than Israel’s 2006 war against Hezbollah and will focus on security for border communities, the official says.
-
-Israel’s Defence Minister Yoav Gallant on Monday said ground forces could be used against Hezbollah militants in Lebanon, adding military operations will go on despite the killing of the group’s leader Hassan Nasrallah.
-
-Gallant made the comments while speaking to Israeli troops deployed to the northern border where cross-border fire with Hezbollah continued for nearly a year but escalated this month.
-
-“We will use all the means that may be required -- your forces, other forces, from the air, from the sea, and on land,” Gallant said.
-
-“The elimination of Nasrallah is an important step, but it is not the final one”.
-
-...
-
-[Data](articles/8e3702f7.json)
-
-[Extended Data](ext_articles/8e3702f7.ext.json)
-
----
-
-### Corruption In Sri Lanka: A Historical Overview Of Political Mismanagement
-
-*2024-09-30 22:01:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/corruption-in-sri-lanka-a-historical-overview-of-political-mismanagement/) · `en`
-
-For the past 76 years, Sri Lanka has grappled with pervasive corruption that has deeply entrenched itself within the political fabric of the nation. Successive regimes, particularly the United National Party (UNP), the Sri Lanka Freedom Party (SLFP), and the Rajapaksa family, have been accused of mismanagement and theft, leading to the deterioration of the country’s assets and the suffering of its citizens.
-
-The political landscape of Sri Lanka has largely been dominated by a few powerful families whose governance has often prioritized personal gain over national welfare. These regimes have systematically depleted the country’s resources, leaving Sri Lanka in a precarious economic position. Many citizens believe that the wealth generated by the country’s natural resources and public enterprises has been siphoned off, with assets being transferred to foreign lands.
-
-...
-
-[Data](articles/a032c6a9.json)
-
-[Extended Data](ext_articles/a032c6a9.ext.json)
 
 ---

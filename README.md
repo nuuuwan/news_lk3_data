@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 13:58:31**
+As of **2024-10-01 14:12:54**
 
 ## Newspaper Stats
 
@@ -62,9 +62,17 @@ However, the Minister said that none of the Sri Lankan diplomats would be immedi
 
 *2024-10-01 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102375/dhammika-perera-re-appointed-co-chairman-of-hayleys-plc) · `en`
 
-Dhammika Perera has been re-appointed as the Non-Executive Director to the Board and as the Co-Chairman of Hayleys PLC with effect from today (October 01).
+Billionaire businessman Dhammika Perera has been re-appointed as the Non-Executive Director to the Board and as the Co-Chairman of Hayleys PLC with effect from today (October 01).
 
-◼️
+The business tycoon resigned from the positions on June 10, 2022, after deciding to accept the SLPP National List MP seat in parliament which had fallen vacant following the resignation of former Minister Basil Rajapaksa.
+
+The Board of Directors of Hayleys PLC has informed the Colombo Stock Exchange in writing that Mr. Dhammika Perera will be appointed as a Non-Executive Director to the Board of the Company and as the Co-Chairman of the Company with effect from October 01, 2024.
+
+The disclosure further states that the appointment has been reviewed by the Nominations and Governance Committee of the Company and recommended to the Board, which had granted approval on September 30.
+
+Dhammika Perera holds 382,596,970 (51.01%) of the ordinary shares of Hayleys PLC as at date.
+
+...
 
 [Data](articles/61d9c5c7.json)
 

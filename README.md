@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 11:58:57**
+As of **2024-10-01 12:25:34**
 
 ## Newspaper Stats
 
-*Scraped **47,164** Articles*
+*Scraped **47,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ dbsjeyarajcom | 390
 bbccomsinhala | 465
 colombotelegraphcom | 471
 islandlk | 2,776
-economynextcom | 2,861
+economynextcom | 2,870
 dailyftlk | 3,162
-adalk | 4,364
+adalk | 4,365
 dailymirrorlk | 4,733
-adaderanalk | 5,548
-tamilmirrorlk | 6,337
+adaderanalk | 5,549
+tamilmirrorlk | 6,338
 virakesarilk | 7,543
-adaderanasinhalalk | 8,151
+adaderanasinhalalk | 8,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,164 (100.0%) of 47,164 articles have been extended.
+47,175 (100.0%) of 47,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### New Chairman appointed to Litro Gas
+
+*2024-10-01 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102373/new-chairman-appointed-to-litro-gas) · `en`
+
+Channa Gunawardana has been appointed as the new Chairman of Litro Gas Lanka Limited and Litro Gas Terminal Lanka (Pvt) Ltd.
+
+◼️
+
+[Data](articles/4628feb7.json)
+
+[Extended Data](ext_articles/4628feb7.ext.json)
+
+---
+
+### New Chairman of Litro
+
+*2024-10-01 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201719) · `si`
+
+Channa Gunawardena named Chairman of Litro Gas and Litro Gas Terminal Lanka.
+
+🟩
+
+Channa Gunawardena has been appointed as the Chairman of Litro Gas and Litro Gas Terminal Lanka.
+
+◼️
+
+[Data](articles/ba8079a0.json)
+
+[Extended Data](ext_articles/ba8079a0.ext.json)
+
+---
 
 ### President instructs to suspend Scholarship Exam paper marking for 2 weeks
 
@@ -57,6 +89,64 @@ The Cabinet of Ministers has approved the appointment of a committee chaired by 
 [Data](articles/40a6da27.json)
 
 [Extended Data](ext_articles/40a6da27.ext.json)
+
+---
+
+### Inspection of answer sheets of scholarship examination suspended for two weeks
+
+*2024-10-01 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201718) · `si`
+
+Scholarship exam answer sheet inspection suspended for 2 weeks due to parent protests over question papers. Parents met President Anura Kumara Dissanayake, requesting action.
+
+🟩
+
+President Anura Kumara Dissanayake has instructed the relevant officials to suspend the answer sheet of the scholarship examination two weeks.
+
+The decision was taken with a group of parents yesterday with a group of parents who had engaged in a protest against the question papers of the Grade 5 Scholarship Examination.
+
+Meanwhile, the scholarship examination question paper said yesterday (30), the scholarship examination question paper said yesterday.
+
+They added that when he met the President yesterday afternoon, they added.
+
+They said that he requested the President as to be held back.
+
+A group of parents protests in Battaramulla and Colombo for a solution to the question paper of the Grade 5 Scholarship Examination.
+
+Later, they remained near the Presidential Secretariat last evening and protesting and six parents were discussed with the President.
+
+◼️
+
+[Data](articles/b3bf9fc9.json)
+
+[Extended Data](ext_articles/b3bf9fc9.ext.json)
+
+---
+
+### Scholarship Answer Sheet Assessment Pause
+
+*2024-10-01 11:21:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-விடைத்தாள்-மதிப்பீடு-இடைநிறுத்தம்/175-344753) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Presidential Office: President suspends 5th scholarship answer sheet assessment for 2 weeks due to protest over leaked questions. Parents demand re-conducting the exam.
+
+🟩
+
+President Anura Kumara Dissanayake has advised the relevant authorities to suspend the assessment of the 5th scholarship answer sheets for two weeks.
+
+A meeting between President Anura Kumara Dissanayake and parents who were protesting on the 5th scholarship question paper issue was held on Monday afternoon at the Presidential Office.
+
+The President advised the relevant authorities to suspend the assessment of the 5 -year scholarship answer sheet for two weeks.
+
+Parents appealed to the president to re -conduct the exam, saying that 8 questions were released before the exam, except for the 3 questions of the Fifth Annual Scholarship Examination.
+
+◼️
+
+[Data](articles/f70ddc30.json)
+
+[Extended Data](ext_articles/f70ddc30.ext.json)
 
 ---
 
@@ -106,11 +196,37 @@ The two countries have discussed bilateral relations between the two countries.
 
 ---
 
+### Sri Lanka will discuss IMF program, ISB deal in US late Oct: Minister Herath
+
+*2024-10-01 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-discuss-imf-program-isb-deal-in-us-late-oct-minister-herath-181763/) · `en`
+
+ECONOMYNEXT – A team from Sri Lanka will visit the International Monetary Fund headquarters in the United States later in October to hold in-depth discussions, Media Minister Vijitha Herath said.
+
+An IMF team currently in Sri Lanka will engage in preliminary discussions on taking the program forward, he said after at the weekly post-cabinet press briefing.
+
+President’s advisors and Treasury Secretary will be in the Sri Lanka team, he said.
+
+The IMF deal was not discussed at the cabinet meeting but Sri Lanka would review the program and go forward, he said.
+
+A framework deal with international sovereign bonds, which was in final stages, will also be discussed with the IMF, he said.
+
+Sri Lanka will also discuss about domestic debt restructuring since there have been criticisms about that he said. (Colombo/Oct01/2024)
+
+◼️
+
+[Data](articles/6fa398ad.json)
+
+[Extended Data](ext_articles/6fa398ad.ext.json)
+
+---
+
 ### Acting Controller General of Immigration and Emigration appointed
 
 *2024-10-01 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102370/acting-controller-general-of-immigration-and-emigration-appointed-) · `en`
 
 The Additional Secretary of Public Security Ministry, B.M.D. Nilusha Balasuriya, has been appointed as the Acting Controller General of Immigration and Emigration, said the Cabinet Spokesman, Minister Vijitha Herath.
+
+This decision follows the remand of the former Controller General of Immigration and Emigration I.S.H.J. Illukpitiya, who has been ordered remanded from September 24 by the Supreme Court over contempt charges.
 
 ◼️
 
@@ -163,6 +279,28 @@ He has repeatedly asked Mr. Vikramasinghe to resign from his post and he did not
 [Data](articles/699f25ab.json)
 
 [Extended Data](ext_articles/699f25ab.ext.json)
+
+---
+
+### Ceylon Chamber head appointed advisor to Sri Lanka president
+
+*2024-10-01 10:48:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-head-appointed-advisor-to-sri-lanka-president-181750/) · `en`
+
+ECONOMYNEXT – The Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa has been appointed Senior Consultant of Economic affairs and Finance to President Anura Dissanayake, Cabinet media spokesman minister Vijitha Herath said.
+
+“The special advisors will not be receiving any remuneration, and this is a voluntary position,” Herath told reporters at the first Cabinet press briefing after the president was elected.
+
+Consensus of the 3 member Cabinet of Ministers was also given to appoint Dr A A J Fernando as Senior Consultant of
+
+Duminda Hulangamuwa is the Country Managing Partner for Sri Lanka and The Maldives, Ernst & Young.
+
+He has experience of 30 years in the industry, and is a member of the Chartered Institute of Accountants of Sri Lanka and the Chartered Institute of Management Accountants (UK). (Colombo/Oct1/2024)
+
+◼️
+
+[Data](articles/104bae04.json)
+
+[Extended Data](ext_articles/104bae04.ext.json)
 
 ---
 
@@ -370,6 +508,24 @@ Ramanayake apologized in his affidavit and demanded the pardon of the entire jud
 
 ---
 
+### Sri Lanka’s new govt to begin drafting new constitution upon election
+
+*2024-10-01 10:41:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-govt-to-begin-drafting-new-constitution-upon-election-181752/) · `en`
+
+ECONOMYNEXT — Sri Lanka will begin the process of drafting a new constitution once a new government has been elected, cabinet spokesman and minister Vijitha Herath said.
+
+Speaking to reporters at the first ever cabinet press briefing of President Anura Kumara Dissanayake’s three-member cabinet on Tuesday October 01, Herath said the draft constitution will be presented to the public for a referendum.
+
+“It was a presidential election that was held recently. A president was elected. A parliamentary election has been called to elect a government. Regarding a solution to the ethnic issue, our manifesto clearly states that a new constitution will be drafted and presented before the people of the country for their approval. We will begin that process once the new government has been formed,” he said.
+
+...
+
+[Data](articles/77e00e0f.json)
+
+[Extended Data](ext_articles/77e00e0f.ext.json)
+
+---
+
 ### To re -conduct the exam
 
 *2024-10-01 10:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சையை-மீண்டும்-நடாத்த-வேண்டும்/175-344749) · `ta`
@@ -409,6 +565,24 @@ Inforcing the Cabinet Decisions, Minister Vijitha Herath said that a three membe
 [Data](articles/1d4e89f8.json)
 
 [Extended Data](ext_articles/1d4e89f8.ext.json)
+
+---
+
+### Bus fares down
+
+*2024-10-01 10:24:25* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ගාස්තු-පහළට/11-412248) · `si`
+
+National Transport Commission reduces bus fares. Diesel costs decrease prompts lower ticket prices announcement expected today.
+
+🟩
+
+National Transport Commission (National Transport Commission) has been operating to reduce the bus fare compared to reducing diesel. Accordingly, calculations relating to the reduction in the price will be announced today.
+
+◼️
+
+[Data](articles/306b17fc.json)
+
+[Extended Data](ext_articles/306b17fc.ext.json)
 
 ---
 
@@ -590,6 +764,30 @@ We believe that by creating the generation of healthy children by body and in th
 
 ---
 
+### Sri Lanka rupee opens stronger at 295.80/296.10 to US dollar, bond yields steady
+
+*2024-10-01 09:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-295-80-296-10-to-us-dollar-bond-yields-steady-181734/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated to open at 295.80/296.10 to the US dollar on Tuesday, from 296.10/60 a day earlier, while bond yields were broadly steady dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.60/80 percent, up from 11.60/75 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.92/98 percent, from 11.85/12.00 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.90/12.10 percent, from 11.90/12.00 percent.
+
+In equities, Colombo’s All Share Price Index opened 0.03 percent, or 3.67 points higher at 11,858, while the S&P SL20 of more liquid stocks opened up 0.26 percent or 8.97 points higher at 3,450.
+
+Meanwhile the central bank announced 142,500 million rupees in Treasury bills are to be issued through its auction tomorrow. (Colombo/Oct1/2024)
+
+◼️
+
+[Data](articles/8f3a507d.json)
+
+[Extended Data](ext_articles/8f3a507d.ext.json)
+
+---
+
 ### 8 people injured in bus accident
 
 *2024-10-01 09:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-8-பேர்-காயம்/175-344745) · `ta`
@@ -609,6 +807,26 @@ The driver of the bus and three boys were injured in the accident and eight peop
 [Data](articles/bf9eac6d.json)
 
 [Extended Data](ext_articles/bf9eac6d.ext.json)
+
+---
+
+### Sri Lanka leftist president wants to promote economic freedom
+
+*2024-10-01 09:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-leftist-president-wants-to-promote-economic-freedom-181732/) · `en`
+
+ECONOMYNEXT — President Anura Kumara Dissanayake, who leads a leftist political formation, has said in a World Children’s Day message that his government is committed to promoting economic freedom.
+
+“By nurturing a generation of children who are healthy both in mind and spirit, we can foster compassionate, independent, and imaginative individuals who will shape a better future,” Dissanayake said on Tuesday November 01.
+
+“To achieve this, we are committed to promoting economic freedom, fostering human kindness, building mutual trust, and encouraging respect and acceptance within society. Additionally, we prioritise the protection of our rich environmental heritage and advocate for necessary political transformation,” he said.
+
+Dissanayake, who is now into his second week as president, said the future belongs to children, and called for the creation of a better world for them.
+
+...
+
+[Data](articles/0dfee6f3.json)
+
+[Extended Data](ext_articles/0dfee6f3.ext.json)
 
 ---
 
@@ -673,6 +891,30 @@ Local residents in the Lebanese border town of Aita al-Shaab reported heavy shel
 [Data](articles/7eb5aef7.json)
 
 [Extended Data](ext_articles/7eb5aef7.ext.json)
+
+---
+
+### In Sri Lanka deflation was common before the policy rate, IMF Second Amendment: Bellwether
+
+*2024-10-01 08:29:00* · [`economynextcom`](https://economynext.com/in-sri-lanka-deflation-was-common-before-the-policy-rate-imf-second-amendment-bellwether-181689/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s deflation in September 2024 has created news, but all inflation was followed by deflation for over 200 years before currency depreciation (now called flexible exchange rate) and money printing for a policy rate.
+
+Under the currency board from 19 century and the Central Bank under Bretton  Woods specie standard, Sri Lanka’s inflation  was broadly the same as the US and the rest of the world.
+
+Under a fixed exchange rate to the Fed, inflation that went down came down and macro-economists could not generate permanent inflation and wage destruction.
+
+For example from 1953 January when the Colombo Consumer Price Index was at 100.1, it was only 100.7 by August 1960.
+
+From the early 1950s as the central bank began to print money, foreign exchange controls were gradually intensified.
+
+It was in the 1960s that the US Fed, driven by ‘macroeconomic policy’ started to aggressive cyclical policy rate manipulation, leading to reserve losses (gold) and soaring gold prices.
+
+...
+
+[Data](articles/53ef099b.json)
+
+[Extended Data](ext_articles/53ef099b.ext.json)
 
 ---
 
@@ -775,6 +1017,20 @@ Also, the celebration of children who restore children's popularity and children
 [Data](articles/1f497f3d.json)
 
 [Extended Data](ext_articles/1f497f3d.ext.json)
+
+---
+
+### Sri Lanka cuts petrol to Rs311, diesel to Rs283, Sinopec Rs280
+
+*2024-10-01 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-petrol-to-rs311-diesel-to-rs283-sinopec-rs280-181686/) · `en`
+
+ECONOMYNEXT – Sri Lanka has cut petrol price by 21 rupees to 311 rupees a litre and diesel by 24 rupees to 283 rupees, from midnight on September 30.
+
+Kerosene was cut by 19 rupees to 183 rupees. (Colombo/Oct01/2024)
+
+◼️
+
+[Data](articles/2f101102.json)
 
 ---
 
@@ -1340,6 +1596,26 @@ These are new times indeed. The country is in a celebratory mood. We have a bran
 
 ---
 
+### Dhammika Perera returns to Sri Lanka’s Hayleys board
+
+*2024-09-30 23:37:00* · [`economynextcom`](https://economynext.com/dhammika-perera-returns-to-sri-lankas-hayleys-board-181672/) · `en`
+
+ECONOMYNEXT – Dhammika Perera will be appointed as Co-Chairman of Hayleys Plc and non-executive director to its Board with effect from October 1.
+
+Kulappu Arachchige Don Dhammika Perera is a “philanthropist, quintessential strategist and business leader with interests in various key industries, including manufacturing, banking and finance, leisure, plantations, and hydropower generation” Hayleys said in a stock exchange filing.
+
+Perera holds 382,596,970 (51.01%) of the ordinary shares of Hayleys Plc as at date.
+
+He was formerly its Co-Chairman, but left when he entered politics in 2022.
+
+He has over 35 years of experience in business and is on the Boards of several quoted and unquoted companies. (Colombo/Sep30/2024)
+
+◼️
+
+[Data](articles/d265d6f4.json)
+
+---
+
 ### The solution to the parents of the President to the President
 
 *2024-09-30 23:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201707) · `si`
@@ -1403,6 +1679,24 @@ The International Monetary Fund is due to discuss the economy program in the cou
 [Data](articles/9a418210.json)
 
 [Extended Data](ext_articles/9a418210.ext.json)
+
+---
+
+### No nominations for Sri Lanka Podujana Peramuna “betrayers”: gen secy
+
+*2024-09-30 23:27:00* · [`economynextcom`](https://economynext.com/no-nominations-for-sri-lanka-podujana-peramuna-betrayers-gen-secy-181671/) · `en`
+
+ECONOMYNEXT — Former ruling party Sri Lanka Podujana Peramuna (SLPP) will not appoint any of its recent dissenters to high positions in the party, nor will they receive nominations for the November 2024 parliamentary election, according to an official.
+
+SLPP general secretary Sagara Kariyawasam told reporters on Monday September 30 that the party has decided to contest the election under its own lotus bud symbol in every district.
+
+“We have decided to contest in every district in Sri Lanka under the lotus symbol and to emerge strong and face this election with a strong team and win,” he said.
+
+“We stand firmly by the decision we took as a party. No one who betrayed the party will be appointed to high office in the party, nor will they receive nominations for the election,” he added.
+
+...
+
+[Data](articles/dbafd72e.json)
 
 ---
 
@@ -1941,349 +2235,5 @@ Businessman killed in Hangwella incident summary: Local entrepreneur fatally sho
 [Data](articles/2582370c.json)
 
 [Extended Data](ext_articles/2582370c.ext.json)
-
----
-
-### Fuel prices will be reduced
-
-*2024-09-30 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201703) · `si`
-
-Ceylon Petroleum Corporation reduces fuel prices. Octane 92 petrol drops Rs. 211 to Rs. 311 per liter. No change for Octane 95. Lanka White Diesel decreases by Rs. 24 to Rs. 283. Sri Lanka Super Diesel reduces by Rs. 319. Land diesel decreases by Rs. 1983.
-
-🟩
-
-The Ceylon Petroleum Corporation has decided to revise the fuel price of the monthly price formula.
-
-Accordingly, the price of an Octane 92 petrol has been reduced by Rs. 211 is Rs. 311.
-
-The Petroleum Corporation says that no change in the price of a liter of octidence 95 petrol.
-
-The price of a liter of Lanka white diesel will be reduced by 24 rupees and its new price will be Rs. 283.
-
-The price of a liter of Sri Lanka Super diesel will be reduced by Rs. 319.
-
-The price of a liter of land will be reduced by Rs. 1983.
-
-◼️
-
-[Data](articles/fa6ddca1.json)
-
-[Extended Data](ext_articles/fa6ddca1.ext.json)
-
----
-
-### There is no place for those who have separated from us - Risad Bathiudeen
-
-*2024-09-30 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195175) · `ta`
-
-Rishad Bathiudeen addresses public meeting, criticizes those who left party, discusses potential alliances with Sajith Premadasa and Ranil Wickremesinghe, emphasizes economic development and unity.
-
-🟩
-
-Former parliamentarian and leader of the All Ceylon Peoples Congress, Rishad Bathiudeen said that there is no place for those who have left us.
-
-He said this while addressing a public meeting held at Suduvundapula in Vavuniya.
-
-Many people who worked for the gas symbol in the last presidential election have invaded the United People's Power led by Sajith Premadasa.
-
-In this case, we have been trying to continue traveling with no accusations in the past. Sometimes the United National Party (UNP) leader Ranil Wickremesinghe has the opportunity to join the party on a contract basis. But I don't know how the final negotiations are.
-
-...
-
-[Data](articles/a11bc230.json)
-
-[Extended Data](ext_articles/a11bc230.ext.json)
-
----
-
-### Person shot dead in Hanwella
-
-*2024-09-30 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102361/person-shot-dead-in-hanwella) · `en`
-
-A person has reportedly been shot dead in the Niripola area in Hanwella today.
-
-Accordingly, a 55-year-old businessman has been gunned down inside his house, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/c018345d.json)
-
-[Extended Data](ext_articles/c018345d.ext.json)
-
----
-
-### Businessman shot dead in Hanwella
-
-*2024-09-30 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102361/businessman-shot-dead-in-hanwella) · `en`
-
-A person has reportedly died following a shooting incident in the Neluwattuduwa area in Hanwella today.
-
-Accordingly, a 55-year-old businessman has been gunned down inside his house this evening by an unidentified gunman, police said.
-
-The victim had succumbed to injuries after being admitted to the Avissawella Hospital in critical condition.
-
-The shooting had taken place at around 8.15 p.m. today (30), according to Police Spokesman DIG Nihal Thalduwa.
-
-Police report that the deceased is a 55-year-old businessman from Neluwattuduwa, and that the shooting occurred while he was at home.
-
-Authorities suspect that the shooting was carried out using a T56 assault rifle.
-
-The body has been placed in the mortuary of the Avissawella Hospital.
-
-The motive behind the shooting has not yet been revealed, and Hanwella Police are conducting further investigations to apprehend the suspects.
-
-◼️
-
-[Data](articles/df50ca7a.json)
-
-[Extended Data](ext_articles/df50ca7a.ext.json)
-
----
-
-### Shooting Hanwella
-
-*2024-09-30 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201702) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Shooting incident: Victim removed from home during police investigation."
-
-🟩
-
-Police said the victim had been carried out while at home.
-
-◼️
-
-[Data](articles/baeb402c.json)
-
-[Extended Data](ext_articles/baeb402c.ext.json)
-
----
-
-### Sellent land sellers live - former President Chandrika
-
-*2024-09-30 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201701) · `si`
-
-Former President Chandrika Bandaranaike Kumaratunga claims no pension, sells land. Blames Mahinda Rajapaksa for withholding benefits.
-
-🟩
-
-Former President Chandrika Bandaranaike Kumaratunga said that retired from his presidency had had no money in his bank account and now selling land.
-
-When contacted, she said this in response to political political.
-
-Further, Kumaratunga said he would not have anything from the government.
-
-She also said that the former President Mahinda Rajapaksa did not give him nine years of pension.
-
-"We haven't even done any of the. It was given to others, not. As the president's return home, my bank account, over Draft. Later, selling land sell now. I don't get anything from the government. Mahinda Rajapaksa's nine years did not give me the Pence. My staff pays my staff. Light bills, water bills I. I have received the government, 4 vehicles. I'm a jeep, a car.  ආරක්ෂකයින්ට දෙකක් තියෙනවා. There are 4 cars, but at all. I have no shame to get on the bus ".
-
-◼️
-
-[Data](articles/779dc968.json)
-
-[Extended Data](ext_articles/779dc968.ext.json)
-
----
-
-### Shanmuganathan Shahrujan
-
-*2024-09-30 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/195174) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka Schools Cricket Association awards ceremony honors outstanding players. Shanmuganathan Shahrujan receives best fielder award. Vishmi Gunaratne wins third consecutive award for ICC Women's R20 Cup. Special guests include cricket officials and education ministry representatives.
-
-🟩
-
-Sri Lanka Schools Cricket Association organized by the Sri Lanka Schools Cricket Association at the All Cricket Schools Awards Ceremony at the Under -19 Cricket Awards Ceremony.
-
-At the award ceremony, the best field officer, Kottanjane, was presented to Shanmuganathan Sharujan, the leader of the Blessed College team and the wicketkeeper.
-
-Sri Lanka Cricket Chairman Shammi Silva (Chief Aditi) and Sri Lankan player Madhisha Pathirana (Special Aditi) received his award.
-
-On behalf of her father, Vishmi Gunaratne's award for Sri Lanka is awarded for Sri Lanka in the ICC Women's R20 Cup in the UAE.
-
-This is the third consecutive time that Vishmi Gunaratne won the award for the Cricket Cricket Award.
-
-Vishwa Lahiru of Sri Sumangala College, Panadura, was won by Panadura, Pulinda Perera of Kandy Dharmaraja College and Vishwa Lahiru of Panadura.
-
-...
-
-[Data](articles/7ac3a952.json)
-
-[Extended Data](ext_articles/7ac3a952.ext.json)
-
----
-
-### Colombo urban inflation is negative
-
-*2024-09-30 20:21:46* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-නාගරික-උද්ධමනය-සෘණ-වෙයි/11-412241) · `si`
-
-Colombo urban inflation drops sharply: 10.5% in Sept vs 0.5% in Aug 2024. Food inflation -0.3%, non-food -0.5%. Data from Dept. of Census & Statistics.
-
-🟩
-
-The Colombo Municipal Community's customer inflation rate has been reduced to 10.5% in September.Was recorded as 0.5% for August 2024.
-
-This is the statistics issued by the Department of Census and Statistics
-
-In September, the annual inflation of food category has reduced to-0.3% and non-food annual inflation (point) has been reduced to-0.5%.
-
-◼️
-
-[Data](articles/54d27c14.json)
-
-[Extended Data](ext_articles/54d27c14.ext.json)
-
----
-
-### The lion of the Kalgantatota goes out forever
-
-*2024-09-30 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201700) · `si`
-
-Here's a 200-character summary of the text:
-
-
-
-Former Minister Kumara Welgama, known as "Kalguanawata Lion," died Saturday. His funeral was held today at Matugama Crematorium. Many attended, including former presidents and politicians. Welgama was controversial in Sri Lankan politics.
-
-🟩
-
-The funeral of the remains of former Minister Kumara Welgama was held at the Matugama Crematorium this afternoon.
-
-Kumara Welgama, who is known in the nickname "Kalguanawata Lion", is a controversial character in Sri Lankan politics.
-
-Mr. Welgama passed away on Saturday morning while receiving treatment at a private hospital in Colombo.
-
-A large number of people arrived at the remains of the remains held in the Dannistewatta, Matugama, Matugama, Ada Derana reporter.
-
-Former presidents Chandrika Bandaranaike Kumaratunga, Mahinda Rajapaksa, Ranil Wickremesinghe and former MPs and former MPs were among his political contemporaries and artists.
-
-The funeral of the body was held at the Matugama Crematorium this morning.
-
-May the controversial man of Sri Lankan politics and the Sinhalese of the Blacktamatta.
-
-◼️
-
-[Data](articles/e4d9c905.json)
-
-[Extended Data](ext_articles/e4d9c905.ext.json)
-
----
-
-### The two women who dreamed of Krea, Dubai job dreams
-
-*2024-09-30 19:29:34* · [`adalk`](https://www.ada.lk/breaking_news/කොරියා--ඩුබායි-රැකියා-සිහින-මවා-මුදල්-ගැරූ-කතුන්-දෙදෙනා-අල්ලයි/11-412240) · `si`
-
-Two women arrested for cheating job seekers in Dubai. One bailed, other remanded. Bureau warns against unlicensed agencies. Contact slbfe.lk for legitimate foreign employment opportunities.
-
-🟩
-
-The Bureau's Special Investigation Division has arrested two women who had cheated money without a valid license with the Sri Lanka Bureau of Foreign Employment.
-
-A woman who has been arrested in the Kandy area regarding the 4 lakhs of Rs.Was on.
-
-The arrested woman was produced before the Kandy Magistrate's Court and then bailed down Rs.
-
-Meanwhile, a lodge from Galagedara has been arrested by the Special Investigation Division of the Bureau that the Bureau has been given a job in Dubai and has not been provided with a sum of Rs.. The magistrate was produced before the Galagedara Magistrate's Court and remanded until October 4. The bureau is being taken to further the Bureau and will be taken after the complaints will be taken following the complaints.
-
-To find a foreign employment or a person to obtain a foreign employment or a valid job agency, the Bureau at www.slbfe.lk www.slbfe.lkThe Bureau urges foreign employment seekers to obtain information by contacting or the 1989 hotline number.
-
-◼️
-
-[Data](articles/748eb9ba.json)
-
-[Extended Data](ext_articles/748eb9ba.ext.json)
-
----
-
-### Avoid traveling to Lebanon and Syria
-
-*2024-09-30 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201699) · `si`
-
-Sri Lanka's Foreign Ministry advises citizens to avoid travel to Lebanon and Syria due to ongoing conflicts. A travel advisory was issued to ensure safety of Sri Lankan nationals in these regions.
-
-🟩
-
-The Foreign Ministry requests Sri Lankans to avoid re-informed lebanne and Syria.
-
-The travel consultancy was issued due to the conflict situation in the two countries.
-
-◼️
-
-[Data](articles/5594d62c.json)
-
-[Extended Data](ext_articles/5594d62c.ext.json)
-
----
-
-### Malvana records
-
-*2024-09-30 19:17:14* · [`adalk`](https://www.ada.lk/breaking_news/මල්වට්ටියට-වාර්තා-ගත-මිලක්/11-412239) · `si`
-
-Malvana records: Multi-Glossarian auction held at Mudamalgaswewa Viharaya. Organized by Karuwalagaswewa Regional Sasanavaliwa. Chief incumbent oversaw pharaoh subscription. Auctions took place on 28th. Two villagers donated flowers.
-
-🟩
-
-The Multi-Glossarian auction was auctioned at a given night-night auction, which was organized by the Mudamalgaswewa Viharaya, owned by the Karuwalagaswewa Regional Sasanavaliwa area.
-
-The pharaoh subscription has been organized as the chief incumbent of the temple of the temple.
-
-The Viharadhipati Panditha Pandhalgaswewa said that the Multi Panditha Panditha Panditha Panditha Panditha Panditha Panditha Panditha Panditha Pandhalgaswewa said that there was auction on the 28th and 28th of the last day.
-
-Two villagers have been donated to the end of the flower bin to the end of the flower bin.
-
-◼️
-
-[Data](articles/60c17197.json)
-
-[Extended Data](ext_articles/60c17197.ext.json)
-
----
-
-### Sri Lanka urges citizens not to travel to Lebanon and Syria
-
-*2024-09-30 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/102360/sri-lanka-urges-citizens-not-to-travel-to-lebanon-and-syria) · `en`
-
-Sri Lankan nationals are instructed not to travel to Lebanon and Syria until further notice due to the current volatile situation in the region, the Ministry of Foreign Affairs said today.
-
-Issuing a notice, it said all Sri Lankans who are currently in Lebanon and Syria are strongly requested to be on alert and to take necessary precautions including restricting their outside movements and maintaining regular contacts with the Sri Lanka Embassy in Beirut and the Honorary Consul of Sri Lanka in Damascus.
-
-They are requested to maintain regular contact through the Email ID: slemb.beiruit@mfa.gov.lk, or the following emergency hotlines:
-
-For just under a year, Israel has been fighting Hamas in Gaza, in an effort to dismantle the militant group after it led attacks on Israel on Oct 7, 2023.
-
-...
-
-[Data](articles/07d9fe56.json)
-
-[Extended Data](ext_articles/07d9fe56.ext.json)
-
----
-
-### The party does not take the betrayed people - oceans
-
-*2024-09-30 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201698) · `si`
-
-Party rejects betrayers for nominations and leadership roles. Secretary General warns against betraying the party. Next general election will be contested in all districts of Sri Lanka.
-
-🟩
-
-The party says that no nominations are not given nominations for anyone who betrayed the party in the presidential election.
-
-The Secretary General of the Division, former Parliamentarian Sagara Kariyawasam, was speaking at a press conference held in Colombo today (30).
-
-"There is a part of our party. I don't want to talk about the situation that has become political as political. No one who betrayed the party will not be given to the top post positions or nominations. If the party betrayed the party in any way we do not take. The party took a decision. The host of the next general election will be competed in all districts in Sri Lanka. "
-
-◼️
-
-[Data](articles/5aaa3653.json)
-
-[Extended Data](ext_articles/5aaa3653.ext.json)
 
 ---

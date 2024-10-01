@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 19:38:28**
+As of **2024-10-01 19:57:17**
 
 ## Newspaper Stats
 
-*Scraped **47,246** Articles*
+*Scraped **47,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,561
 tamilmirrorlk | 6,346
 virakesarilk | 7,559
-adaderanasinhalalk | 8,170
+adaderanasinhalalk | 8,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,246 (100.0%) of 47,246 articles have been extended.
+47,247 (100.0%) of 47,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Protesters come to find the house of Yunus in Bangladesh
+
+*2024-10-01 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201737) · `si`
+
+Protesters seek higher age limit for government jobs. Demonstrations target Muhammad Yunus' home. Police use tear gas and rubber bullets to disperse crowds.
+
+🟩
+
+A series of protests has begun a series of protests demanding the increase in the age limit for the government.
+
+Protesters demand the government's job limit for the government's jobs to 31 to 35 years.
+
+The protesters tried to move Bangladesh main advisor to the city of Muhammad Yunus, Kuhammad Yunus, and the police had attacked tear gas and rubber bullets to disperse the protesters.
+
+◼️
+
+[Data](articles/27038c1b.json)
+
+[Extended Data](ext_articles/27038c1b.ext.json)
+
+---
 
 ### The last government should be responsible for the passport and visa issue - Vijitha Herath
 
@@ -2423,29 +2445,5 @@ Let’s dedicate ourselves to creating a better world for them.
 [Data](articles/3f2fb28e.json)
 
 [Extended Data](ext_articles/3f2fb28e.ext.json)
-
----
-
-### Sanath explains why foreign coaches brought
-
-*2024-10-01 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201714) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sanath Jayasuriya denies favoritism as Sri Lanka's head coach, stating foreign coaches were chosen to avoid player bias and ensure fair treatment for all players.
-
-🟩
-
-Sri Lanka's head coach Sanath Jayasuriya says he is not in the art of special treatment of specializers.
-
-"The trainers had players who like them. If that happens to me, this will not be done. All this should be one. I just tell everyone I need, understand the two good and bad. It knows that guys. I mean, love is not angry with anyone. But I'm not FAVORITES. This is good for me, he wants to keep him.. I can't do the trainer if you do that.  මේ ජොබ් එකේ තිබුණු ප්‍රශ්නාර්ත ලකුණු තමයි ලංකාවේ මේ ජොබ් එකට ආව හැම කෙනෙක්ම මෙන්න මේ ප්‍රශ්නය ඇති වෙන්න පුළුවන්දෝ කියන කතාව. Okay I'm saying. That's why we brought a coach outside. Have a great or bad or large costs. Doing so will never be a trainer. "
-
-◼️
-
-[Data](articles/84899212.json)
-
-[Extended Data](ext_articles/84899212.ext.json)
 
 ---

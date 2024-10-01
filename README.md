@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 19:57:17**
+As of **2024-10-01 20:10:58**
 
 ## Newspaper Stats
 
-*Scraped **47,247** Articles*
+*Scraped **47,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,871
 dailyftlk | 3,162
 adalk | 4,375
 dailymirrorlk | 4,733
-adaderanalk | 5,561
+adaderanalk | 5,562
 tamilmirrorlk | 6,346
 virakesarilk | 7,559
 adaderanasinhalalk | 8,171
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,171
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,247 (100.0%) of 47,247 articles have been extended.
+47,248 (100.0%) of 47,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Presidential Secretariat returns 19 vehicles to govt institutions
+
+*2024-10-01 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102386/presidential-secretariat-returns-19-vehicles-to-govt-institutions) · `en`
+
+The vehicles that had been brought to the Presidential Secretariat from various government institutions, including Ministries and Departments, were returned to their respective agencies today (01), at the parking area near the secretariat, the President’s Media Division said.
+
+Today, 19 vehicles were released, with approximately 15 being collected by officials from the relevant agencies who arrived on prior notice, the statement said.
+
+A total of 15 vehicles were returned to their respective institutions today, including 08 from the Road Development Authority (RDA), 03 from the Ministry of Finance, and 01 each from the Southern Provincial Council, the Ministry of Transport and Civil Aviation, and the Department of Wildlife Conservation.
+
+Senior Additional Secretary Roshan Gamage, Additional Secretary Mahesh Hewawitharana, and other officials were present at the event, the PMD said.
+
+◼️
+
+[Data](articles/9a06178b.json)
+
+[Extended Data](ext_articles/9a06178b.ext.json)
+
+---
 
 ### Protesters come to find the house of Yunus in Bangladesh
 
@@ -2425,25 +2445,5 @@ Dissanayake, who is now into his second week as president, said the future belon
 [Data](articles/0dfee6f3.json)
 
 [Extended Data](ext_articles/0dfee6f3.ext.json)
-
----
-
-### ‘We aim to reclaim joyful, carefree childhood every child deserves’ – President
-
-*2024-10-01 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102367/-we-aim-to-reclaim-joyful-carefree-childhood-every-child-deserves-president) · `en`
-
-President Anura Kumara Dissanayake says they have identified several significant challenges facing today’s children, including poverty, malnutrition, inadequate health and sanitation, environmental degradation, educational disparities, social inequalities, and the risks associated with substance abuse and technology misuse.
-
-In his Children’s Day message, he said their mission in this renaissance era is to free children from harmful prejudices and social effects, and the pressures of exam-focused education, which hinder their psychosocial development.
-
-“We aim to reclaim the joyful, carefree childhood that every child deserves,” he said, adding that by nurturing a generation of children who are healthy both in mind and spirit, we can foster compassionate, independent, and imaginative individuals who will shape a better future.
-
-Let’s dedicate ourselves to creating a better world for them.
-
-...
-
-[Data](articles/3f2fb28e.json)
-
-[Extended Data](ext_articles/3f2fb28e.ext.json)
 
 ---

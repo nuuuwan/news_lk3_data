@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 22:38:23**
+As of **2024-10-01 23:09:45**
 
 ## Newspaper Stats
 
-*Scraped **47,258** Articles*
+*Scraped **47,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,128 @@ economynextcom | 2,871
 dailyftlk | 3,162
 adalk | 4,377
 dailymirrorlk | 4,733
-adaderanalk | 5,563
+adaderanalk | 5,564
 tamilmirrorlk | 6,348
-virakesarilk | 7,561
-adaderanasinhalalk | 8,174
+virakesarilk | 7,563
+adaderanasinhalalk | 8,176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,258 (100.0%) of 47,258 articles have been extended.
+47,263 (100.0%) of 47,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Iran attacks in Israel
+
+*2024-10-01 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201742) · `si`
+
+Iran threatens missile strikes on Israel. Israeli army warns civilians to seek shelter. Sri Lanka advises citizens to stay safe. Defense Ministry issues travel restrictions. Essential supplies like food, medicine, and water are prioritized.
+
+🟩
+
+The Israeli Army says Iran will launch missile strikes over Israel.
+
+According to foreign media reports, all Israeli civilians are detained in security places.
+
+Meanwhile, Sri Lankan Ambassador to Israel, Sri Lankans in Israel, has been a special notification for Israel.
+
+It states that everyone in Israel must be nearing a place where security is available until it is again informed.
+
+The Ministry of Defense and the instructions issued by the Ministry of Defense and PIBA have been informed to protect their protection from unnecessary travels.
+
+He further stated that the essential foods, drugs and water.
+
+◼️
+
+[Data](articles/75ebd405.json)
+
+[Extended Data](ext_articles/75ebd405.ext.json)
+
+---
+
+### Israel Military says missiles launched by Iran at Israel
+
+*2024-10-01 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102388/israel-military-says-missiles-launched-by-iran-at-israel) · `en`
+
+Iran has launched missiles targeting Israel, the military said Tuesday, following US warnings that an Iranian attack was imminent.
+
+“A short while ago, missiles were launched from Iran towards the State of Israel,” the military said in a statement. It said sirens were sounded across Israel, including in Jerusalem.
+
+The US embassy in Israel called on its staff and their family members to shelter in place amid the warnings.
+
+“As a result of the current security situation, the US embassy has directed all US government employees and their family members to shelter in place until further notice,” the embassy said in a statement.
+
+Air raid sirens have sounded, and AFP journalists have reported hearing explosions over Jerusalem.
+
+Earlier on Tuesday, at least seven people were wounded in a shooting in Israel’s commercial hub Tel Aviv, according to emergency responders, in what police said was a suspected “terror” attack.
+
+...
+
+[Data](articles/50f938be.json)
+
+[Extended Data](ext_articles/50f938be.ext.json)
+
+---
+
+### What happened to our children who were missing?Will the international community and the UN come together and get justice?-Relationships of North, East Missing Missing
+
+*2024-10-01 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195274) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka: Missing children inquiry sought by UN. Parents demand truth about children's fate during war. UN urged to investigate military officers. International community called upon for justice.
+
+🟩
+
+We have lost confidence in the internal tradition and we are only fully confident in the International Justice System. Our loved ones during the final battle can find out what happened to the loved ones, including our children, by investigating the military officers who were responsible for the surrendered military checkpoints.
+
+Will the international community and the United Nations work together in this regard?The association of the Missing Relations of the North and East has questioned the United Nations Human Rights Service.
+
+The International Children's Day, the International Children's Day yesterday, said in a letter sent to the UN Human Rights High Commissioner by the Association of Missing Relations yesterday, emphasizing the need to reveal the fact that their children were missing.
+
+...
+
+[Data](articles/79a73b3a.json)
+
+[Extended Data](ext_articles/79a73b3a.ext.json)
+
+---
+
+### A campaign to be turned to the Mahaweli River
+
+*2024-10-01 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201741) · `si`
+
+Campaign releases wastewater from Polgolla Reservoir into Mahaweli River. Government officials open sluice gates for drinking water supply. Health department investigates waste disposal. Residents and businesses directed to improve waste management systems within 2 weeks.
+
+🟩
+
+The Mahaweli River and the surrounding wastewater was released to the Mahaweli River, the largest wastewater that provides the drinking water needs of a large number of people in Kandy.
+
+It was in a special operation conducted by officials in many government institutions.
+
+All the sluice gates of the Polgolla Reservoir of the Polgolla, Akurapitiya, Pathadumbara, Akalapitiya, is recently opened for a renovation of drinking water needs.
+
+Parallel to this, the Department of Health, the Police, Environmental Authority and a special investigation in the Polgolla area of ​​Polgolla has been conducted today.
+
+It is to find out whether waste disposed of waste to the reservoir.
+
+The residents and business places have been released directly to the Mahaweli River, as well as the waste reservoir.
+
+Accordingly, some people have been instructed to deal with legislation and to properly arrange their waste systems in 2 weeks.
+
+◼️
+
+[Data](articles/8ecb91fb.json)
+
+[Extended Data](ext_articles/8ecb91fb.ext.json)
+
+---
 
 ### Investigations begin on bond fraud
 
@@ -117,6 +225,30 @@ According to local media reports, the protesters ignored a police restriction on
 [Data](articles/8346650d.json)
 
 [Extended Data](ext_articles/8346650d.ext.json)
+
+---
+
+### Public Officers' Salary Increase
+
+*2024-10-01 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195272) · `ta`
+
+State official salary increase pending new government budget approval. Cabinet agrees salary hike necessary but implementation depends on budget allocation and formation of new government.
+
+🟩
+
+The budget that will be subsequently submitted by the parliamentary elections can be determined whether or not the salaries of state officials can be increased. Cabinet spokesman Vijitha Herath said that the last government's decision could not be implemented.
+
+He further stated that at a press conference announcing the Cabinet decisions held on Tuesday,
+
+We accept that state officials should be paid a salary increase. When the cost of living increases, the parallel allowances must be increased. The last government has decided to pay a salary increase to state officials since next January.
+
+It has to allocate funds for that. If allocated funds must be submitted to the budget. The budget will also be submitted only after the new government is formed. So you can pay attention to this only when submitting the budget.
+
+...
+
+[Data](articles/6f2e2384.json)
+
+[Extended Data](ext_articles/6f2e2384.ext.json)
 
 ---
 
@@ -2341,109 +2473,5 @@ Ramanayake apologized in his affidavit and demanded the pardon of the entire jud
 [Data](articles/87383673.json)
 
 [Extended Data](ext_articles/87383673.ext.json)
-
----
-
-### “I will appeal to the new president”
-
-*2024-10-01 10:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதியிடம்-முறையீடு-செய்வேன்/175-344750) · `ta`
-
-Actor-politician Ranjan Ramanayake appeals to new President Dissanayake for citizenship restoration after being pardoned by former President Wickremesinghe for contempt of court. He claims innocence and seeks presidential intervention under Article 34 of Sri Lanka's constitution.
-
-🟩
-
-Ranjan Ramanayake, a state -of -the -art actor and politician Ranjan Ramanayake, who has been pardoned by former President Ranil Wickremesinghe for contempt of court in 2022
-
-“I will appeal to the current President Dissanayake soon to demand a restoration of my citizenship. Former President has forgiven me. However, my mouth is still stuffed and has been prevented from engaging in radical politics.
-
-I appeal to the new President for my citizenship. I feel that I will get it because I have not been sent to jail for any crime, ”he told the Daily Mirror.
-
-On August 25, 2022, Ramanayake submitted a statement on the report outside the Alarmika 2017, Ramanayake confessed that his comment was completely insulting the Chief Justice and the entire judiciary.
-
-Ramanayake apologized in his affidavit and demanded the pardon of the entire judiciary. Moreover, he apologized for the degrading statement outside the High Court premises, saying he would not withdraw the report on August 21, 2017.
-
-...
-
-[Data](articles/cf11af5e.json)
-
-[Extended Data](ext_articles/cf11af5e.ext.json)
-
----
-
-### Sri Lanka’s new govt to begin drafting new constitution upon election
-
-*2024-10-01 10:41:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-govt-to-begin-drafting-new-constitution-upon-election-181752/) · `en`
-
-ECONOMYNEXT — Sri Lanka will begin the process of drafting a new constitution once a new government has been elected, cabinet spokesman and minister Vijitha Herath said.
-
-Speaking to reporters at the first ever cabinet press briefing of President Anura Kumara Dissanayake’s three-member cabinet on Tuesday October 01, Herath said the draft constitution will be presented to the public for a referendum.
-
-“It was a presidential election that was held recently. A president was elected. A parliamentary election has been called to elect a government. Regarding a solution to the ethnic issue, our manifesto clearly states that a new constitution will be drafted and presented before the people of the country for their approval. We will begin that process once the new government has been formed,” he said.
-
-...
-
-[Data](articles/77e00e0f.json)
-
-[Extended Data](ext_articles/77e00e0f.ext.json)
-
----
-
-### To re -conduct the exam
-
-*2024-10-01 10:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சையை-மீண்டும்-நடாத்த-வேண்டும்/175-344749) · `ta`
-
-Sri Lanka Opposition Leader Sajith Premadasa calls for re-exam after Grade 5 scholarship leak. He urges swift action from authorities to maintain exam integrity and protect students' futures.
-
-🟩
-
-Opposition Leader Sajith Premadasa expressed deep concern that the allegation that the Grade 5 scholarship examination was leaked was a widespread depression among students and parents.
-
-Premadasa, who made a statement on the incident, emphasized the need for the speedy action of the authorities to address the issue and called for the re -examination to ensure justice for all students.
-
-He urged the Premadasa government to take stern measures to prevent such incidents in the future, highlighting the importance of maintaining the integrity of the National Examination of Sri Lanka and the importance of protecting the hard work and future opportunities of the affected students.
-
-◼️
-
-[Data](articles/b9176526.json)
-
-[Extended Data](ext_articles/b9176526.ext.json)
-
----
-
-### Three member committee to look into parliamentarians
-
-*2024-10-01 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201716) · `si`
-
-Cabinet forms 3-member panel to review MP claims, ministers' perks, ex-presidents' benefits. Committee to analyze current rules and submit report.
-
-🟩
-
-The Cabinet has decided to appoint a committee on the re-examination of the claims of Members of Parliament, Ministers and former presidents.
-
-Inforcing the Cabinet Decisions, Minister Vijitha Herath said that a three member committee has been appointed to study the existing regulations and submitting a report.
-
-◼️
-
-[Data](articles/1d4e89f8.json)
-
-[Extended Data](ext_articles/1d4e89f8.ext.json)
-
----
-
-### Bus fares down
-
-*2024-10-01 10:24:25* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ගාස්තු-පහළට/11-412248) · `si`
-
-National Transport Commission reduces bus fares. Diesel costs decrease prompts lower ticket prices announcement expected today.
-
-🟩
-
-National Transport Commission (National Transport Commission) has been operating to reduce the bus fare compared to reducing diesel. Accordingly, calculations relating to the reduction in the price will be announced today.
-
-◼️
-
-[Data](articles/306b17fc.json)
-
-[Extended Data](ext_articles/306b17fc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 08:04:50**
+As of **2024-10-01 08:49:09**
 
 ## Newspaper Stats
 
-*Scraped **47,121** Articles*
+*Scraped **47,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,110 @@ colombotelegraphcom | 471
 islandlk | 2,773
 economynextcom | 2,861
 dailyftlk | 3,161
-adalk | 4,356
+adalk | 4,358
 dailymirrorlk | 4,733
-adaderanalk | 5,540
-tamilmirrorlk | 6,327
+adaderanalk | 5,541
+tamilmirrorlk | 6,328
 virakesarilk | 7,539
-adaderanasinhalalk | 8,142
+adaderanasinhalalk | 8,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,119 (100.0%) of 47,121 articles have been extended.
+47,123 (100.0%) of 47,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Fairly heavy showers expected in several provinces
+
+*2024-10-01 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102365/fairly-heavy-showers-expected-in-several-provinces) · `en`
+
+The Meteorology Department says showers or thundershowers will occur over most parts of the island during the afternoon or night.
+
+Fairly heavy showers above 50 mm can be expected at some places in Central, Sabaragamuwa, North-western and North-central provinces.
+
+Showers may occur in Southern Province during the morning too, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
+
+◼️
+
+[Data](articles/28a5e8e3.json)
+
+---
+
+### තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම අද සිට
+
+*2024-10-01 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201712) · `si`
+
+මහ මැතිවරණය සඳහා තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම අද (01) සිට ආරම්භ වෙයි.
+
+මැතිවරණ කොමිෂන් සභාව නිවේදනය කළේ ඔක්තෝබර් 8 වැනිදා මධ්‍යම රාත්‍රිය දක්වා අයදුම්පත් භාරගැනීම සිදුකරන බවය.
+
+නොවැම්බර් මස 14 වැනිදා පැවැත්වීමට නියමිත 2024 මහ මැතිවරණය සඳහා භාවිත කරනු ලබන්නේ 2024 වර්ෂයේ සහතික කරන ලද ඡන්ද හිමි නාමලේඛනයයි.
+
+ඒ අනුව තැපැල් ඡන්ද හිමියන්ගේ පහසුව සඳහා දිවයිනේ සියලුම මැතිවරණ කොට්ඨාසවලට අදාළ 2024 වර්ෂයේ ඡන්ද හිමි නාමලේඛන අද සිට ප්‍රදර්ශනය කරන බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ඒ අනුව, සියලුම දිස්ත්‍රික් ලේකම් කාර්යාලවල, සියලුම ප්‍රාදේශීය ලේකම් කාර්යාලවල, සියලුම ග්‍රාම නිලධාරි කාර්යාලවල සහ තෝරාගත් තවත් ස්ථාන කිහිපයකදී ඡන්ද හිමි නාමලේඛන ප්‍රදර්ශනය කිරීමට නියමිතය.
+
+තැපැල් ඡන්ද අයදුම්පත් ඡන්ද හිමි නාමලේඛන ප්‍රදර්ශනය කරනු ලබන ස්ථානවලින්, දිස්ත්‍රික් මැතිවරණ කාර්යාලවලින් නොමිලේ ලබාගත හැකි අතර කොමිෂන් සභාවේ වෙබ් අඩවියෙන්ද බාගත කළ හැකි වේ.
+
+මැතිවරණ කොමිෂන් සභාව පවසන්නේ එම අයදුම්පත් ඔක්තෝබර් 08 දින හෝ ඊට පෙර අදාළ දිස්ත්‍රික්කයේ තේරීම්භාර නිලධාරිවරයා වෙත යොමුකළ යුතු බවය.
+
+◼️
+
+[Data](articles/cf6e491a.json)
+
+---
+
+### ළමා ලෝකය නැවත දරුවන්ට දිනාදීම තම අරමුණ බව ජනපති කියයි
+
+*2024-10-01 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201711) · `si`
+
+දරුවන්ට හිමි ළමා ලෝකය නැවත දරුවන්ට  දිනා දීම අපගේ පුනරුද යුග  කාර්යයේ මාහැඟි අරමුණ බව ලෝක ළමා දිනය වෙනුවෙන් පණිවුඩයක් නිකුත් කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+මේ සහශ්‍රකයේ දරුවන් මුහුණ දෙන අභියෝග ලෙස දිළිඳුකම, මන්දපෝෂණය, සෞඛ්‍ය සහ සනීපාරක්ෂාව, පරිසර විනාශය, අධ්‍යාපනයේ අසමතුලිත බව, සමාජ අවස්ථාවල අසමාන බව, මත්ද්‍රව්‍ය මෙන්ම  තාක්ෂණය අනිසි ලෙස භාවිතයේ ගොදුරු බවට පත්වීම යනාදිය අපි හඳුනාගෙන  ඇත්තෙමු.
+
+එසේම  දරුවන්ගේ මනෝ සමාජයීය  සංවර්ධනයට බාධා කරන  සමාජයීය සාධක මෙන්ම ආතතියෙන් පිරුණු විභාග කේන්ද්‍රීය අධ්‍යාපන රටාව යනාදී අගතීන් ගෙන් වත්මන් ළමා පරපුර මුදවාගෙන දරුවන්ට හිමි ළමා ලෝකය නැවත දරුවන්ට දිනා දීම  අපගේ පුනරුද යුග කාර්යයේ මාහැඟි අරමුණයි. කයින් මනසින්  මෙන්ම  අධ්‍යාත්මයෙන්ද  නිරෝගී සුපසන්  ළමා පරපුරක් බිහිකිරීම  මඟින් අනාගත  ලොව දිනන නිදහස් පරිකල්පනයකින් යුතු නිවහල් උදාර මිනිසා නිර්මාණය වන බව  අපි විශ්වාස කරන්නෙමු.
+
+...
+
+[Data](articles/1f497f3d.json)
+
+---
+
+### ලෝක ළමා දිනය අදයි
+
+*2024-10-01 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201710) · `si`
+
+ළමුන්ගේ අයිතිවාසිකම් සම්බන්ධයෙන් වැඩි අවධානයක් යොමුකළ යුතු බව ජාතික ළමා රක්ෂණ අධිකාරිය පවසයි.
+
+එහි සභාපති සරෝජනී කුසලා වීරවර්ධන මහත්මිය පැවසුවේ ළමයින්ට සුදුසු පරිසරයක් නිර්මාණය කිරීම මව්පියන්ගේ මෙන්ම වැඩිහිටියන්ගේ ද යුතුකමක් බවය.
+
+◼️
+
+[Data](articles/387467f7.json)
+
+---
+
+### අදත් ප්‍රදේශ රැසකට වැසි
+
+*2024-10-01 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201708) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවල අද (01) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම, සබරගමුව, වයඹ සහ උතුරුමැද පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 50ට වැඩි තරමක තද වැසිද ඇති විය හැකි බවය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/3698a88f.json)
+
+---
 
 ### Top Group of International Monetary Fund to Sri Lanka
 
@@ -355,6 +443,32 @@ In addition, the Indian High Commission in Sri Lanka has stated that the Indian 
 [Data](articles/55a9b99c.json)
 
 [Extended Data](ext_articles/55a9b99c.ext.json)
+
+---
+
+### Postal Voting: Applications Complete the Printing
+
+*2024-10-01 00:19:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்களிப்பு-விண்ணப்பங்கள்-அச்சிடல்-நிறைவு/175-344741) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Postal voting applications for the 2023 general election have been finalized. The government reports 10 lakh applications have been printed. Action to accept applications for the 2024 general election begins today."
+
+🟩
+
+Postal voting applications for the upcoming general election have been completed, the State Press said.
+
+Government Amaker Ganga Kalpani Liyanage says 10 lakh applications have been printed.
+
+Meanwhile, action to accept applications for postal voting in 2024 general elections will begin today. (A)
+
+◼️
+
+[Data](articles/367328c7.json)
+
+[Extended Data](ext_articles/367328c7.ext.json)
 
 ---
 
@@ -695,6 +809,30 @@ In plain language, IMF is only about getting back to the rotten and festering pa
 [Data](articles/a5dbb579.json)
 
 [Extended Data](ext_articles/a5dbb579.ext.json)
+
+---
+
+### Those who betrayed the party come back
+
+*2024-09-30 22:59:00* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂය-පාවා-දුන්න-අය-ආයේ-ගන්නේ-නෑ/11-412243) · `si`
+
+Sri Lanka Knowledge Crown SLPF rejects opposition parties, vows loyalty to national unity. Main Secretary Sagara Kariyawasam criticizes betrayal within party, warns against those who abandoned principles. President Mahinda Rajapaksa emphasizes commitment to unity and rejection of traitors.
+
+🟩
+
+The Sri Lanka Knowledge Crown (SLPF) has decided that he has taken a strong decision to enrolled in the general election only with the parties that agree with their policies.
+
+The main Secretary, Attorney attorney Sagara Kariyawasam, said that although the opposition was invited to be invited, the individuality of the country would not accept the unity of the country.
+
+Speaking at a press conference held at Nelum Mawatha, Battaramulla yesterday (30), he further stated:
+
+"Parties that are allied in this primarily today are not parties recognizing the unity of this country. Parties they all over the other. We are temporary retarded. We have caused this settings because we have believed in the false accusations of our leaders in the recent past. We are inviting this government and urge the law to the lies that you have done.
+
+...
+
+[Data](articles/0c2f92a3.json)
+
+[Extended Data](ext_articles/0c2f92a3.ext.json)
 
 ---
 
@@ -1422,6 +1560,22 @@ The Colombo Consumer Price Index fell almost continuously from March 2024, excep
 
 ---
 
+### මන්ත්‍රී විශ්‍රාම වැටුප හා වාහන බලපත්‍රය අහෝසි කිරීම ගැන හොයන්න කමිටුවක්
+
+*2024-09-30 18:19:15* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-විශ්‍රාම-වැටුප-හා-වාහන-බලපත්‍රය-අහෝසි-කිරීම-ගැන-හොයන්න-කමිටුවක්/11-412236) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප සහ තීරුබදු රහිත වාහන බලපත්‍ර අහෝසි කිරීමට ඇති හැකියාව පිළිබඳව සොයා බලා නිර්දේශ ඉදිරිපත් කිරීමට කමිටුවක් පත් කිරීමට තීරණය කර ඇතැයි වාර්තා වේ.
+
+ඒ අනුව පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප සහ තීරුබදු රහිත වාහන බලපත්‍ර අහෝසි කිරීම සම්බන්ධයෙන් සොයාබලා නිර්දේශ ඉදිරිපත් කිරීමට කමිටුවක් පත් කිරීම සඳහා කැබිනට් අනුමැතිය ලබා දී ඇත. කැබිනට් තීරණය අනුව අදාළ කමිටුව පත් කර, ඊට අදාළ පනත් පිළිබඳව සැලකිල්ලට ගනිමින් සහ නීතිමය පසුබිම පිළිබඳව සොයාබලමින් එම නිර්දේශ ඉදිරිපත් කිරීමේ වගකීම එම කමිටුවට පැවරීමට නියමිත බව ද වාර්තා විය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (30දා) රැස්වූ කැබිනට් මණ්ඩලයේ දී මෙම තීරණය ගෙන තිබේ. නව රජයේ පළමු කැබිනට් මණ්ඩලය ඊයේ (30දා) පස්වරුවේ ජනාධිපති කාර්‍යාලයේ දී රැස්විය.
+
+◼️
+
+[Data](articles/44c3b885.json)
+
+---
+
 ### The president's decision pause
 
 *2024-09-30 18:14:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-எடுத்த-தீர்மானம்-இடைநிறுத்தம்/175-344724) · `ta`
@@ -2117,197 +2271,5 @@ Previously, that skill was referred to Sachin Tenderkar (India), Kumar Sangakkar
 [Data](articles/f2e1b230.json)
 
 [Extended Data](ext_articles/f2e1b230.ext.json)
-
----
-
-### Sri Lanka EC shoots down President’s fertilizer, fuel subsidies ahead of Nov 14 general elections
-
-*2024-09-30 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-shoots-down-presidents-fertilizer-fuel-subsidies-ahead-of-nov-14-general-elections-181577/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Election Commission (EC) has urged state authorities to refrain from implementing President Anura Kumara Dissanayake’s instruction to increase fertilizer subsidy to 25,000 rupees per hectare to paddy farmers starting from October 1, a top EC official said.
-
-The EC has called for Parliament elections on November 14 after the conclusion of presidential poll on September 21.
-
-Dissanayake on September 26 instructed the Treasury to provide an allowance of 25,000 rupees per hectare to paddy farmers during the main (Maha) cultivation season of 2024/25.
-
-According to this initiative, the fertilizer subsidy was to be increased from 15,000 rupees per hectare and the money was to be directly transferred to farmers’ bank accounts to ensure efficient delivery of the subsidy.. the President’s Media Division (PMD) has said.
-
-The President also directed the Treasury to implement a fuel subsidy for the fishing community, effective from October 01.
-
-...
-
-[Data](articles/8ce64865.json)
-
-[Extended Data](ext_articles/8ce64865.ext.json)
-
----
-
-### Two persons arrested with illegal liquor in two different areas
-
-*2024-09-30 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195144) · `ta`
-
-Two arrests made in separate areas: 60 liters seized in Milleva, 45 liters in Kudakannoruwa.
-
-🟩
-
-Two suspects have been arrested with illegal liquor during a round -up operation in two different areas on Sunday (29), police said.
-
-Accordingly, a suspect has been arrested with illegal liquor in a roundabout carried out in the Milleva area belonging to the Moragahahena Police Division.
-
-60 liters (80 bottles) from the arrested suspect has been seized by the police.
-
-Meanwhile, a suspect has been arrested yesterday by police in a roundup of Kudakannoruwa area belonging to the Meekalewa police division.
-
-The suspect was 45 years old from Meegalewa.
-
-45 liters (60 bottles) illegal alcoholic police have been seized from the arrested suspect.
-
-◼️
-
-[Data](articles/063e1006.json)
-
-[Extended Data](ext_articles/063e1006.ext.json)
-
----
-
-### President’s Office releases full list of 107 vehicles returned and who used them
-
-*2024-09-30 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102357/presidents-office-releases-full-list-of-107-vehicles-returned-and-who-used-them) · `en`
-
-The President’s Office has issued a clarification regarding the various statements and opinions being expressed pertaining to the vehicles which have been parked in the premises near the Presidential Secretariat in Colombo.
-
-It stated that 107 vehicles which were handed over to the Presidential Office in the last few days, as notified after the appointment of the new President, have been temporarily parked in the premises outside the Presidential Secretariat under police protection.
-
-The announcement also states that the said vehicles were not provided to the regular staff of the Presidential Secretariat and were provided by the former President to his private staff appointed under Article 41(1) of the Constitution during his tenure.
-
-It also states that these vehicles are parked in the premises outside the Presidential Secretariat because it is not possible to park so many vehicles inside the Presidential Secretariat premises.
-
-...
-
-[Data](articles/4999b1c2.json)
-
-[Extended Data](ext_articles/4999b1c2.ext.json)
-
----
-
-### President’s Office releases full list of 107 vehicles and who used them
-
-*2024-09-30 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102357/presidents-office-releases-full-list-of-107-vehicles-and-who-used-them) · `en`
-
-The President’s Office has issued a clarification regarding the various statements and opinions being expressed pertaining to the vehicles which have been parked in the premises near the Presidential Secretariat in Colombo.
-
-It stated that 107 vehicles which were handed over to the Presidential Office in the last few days, as notified after the appointment of the new President, have been temporarily parked in the premises outside the Presidential Secretariat under police protection.
-
-The announcement also states that the said vehicles were not provided to the regular staff of the Presidential Secretariat and were provided by the former President to his private staff appointed under Article 41(1) of the Constitution during his tenure.
-
-It also states that these vehicles are parked in the premises outside the Presidential Secretariat because it is not possible to park so many vehicles inside the Presidential Secretariat premises.
-
-...
-
-[Data](articles/a2517d1e.json)
-
-[Extended Data](ext_articles/a2517d1e.ext.json)
-
----
-
-### Firing in Nuwara Eliya: One injury
-
-*2024-09-30 15:55:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-துப்பாக்கிச்-சூடு-ஒருவர்-காயம்/76-344714) · `ta`
-
-Nuwara Eliya shooting: 1 injured, 4 arrested during police excavation operation in Elamalai forest. Suspects aged 40-45, including suspended officer. Victim hospitalized in Kandy. Investigation ongoing.
-
-🟩
-
-It is reported that one person was injured and admitted to the hospital in a shooting of policemen who attempted to excavate treasure in the Elamalai forest area of ​​Valappanai and Mandaram Nuwara police division.
-
-Based on the confidential information available to the Mandaram Nuwara police, the police carried out a raid on Monday morning (30).
-
-At the time, the suspects are trying to escape. By then, the police fired. One of them was injured. Police have arrested four fugitives.
-
-The arrested suspects were between 40 and 45 years old and a temporary suspended police officer included, police said.
-
-The man who was injured in the shooting (41) was admitted to the Rigilkasada Hospital and was transferred to the Kandy Teaching Hospital for further treatment, police said.
-
-Further investigations are being carried out with the help of the Mandaram Nuwara police and the Nuwara Eliya Forensic Police.
-
-◼️
-
-[Data](articles/675abe62.json)
-
-[Extended Data](ext_articles/675abe62.ext.json)
-
----
-
-### 900 kilograms of bomb found Nasaralla
-
-*2024-09-30 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201691) · `si`
-
-900kg bomb kills Hezbollah leader Nasrallah. US-made Mark 84 series used by Israel. About 20 others also died in attack.
-
-🟩
-
-An American Senior Committee member has revealed the bomb used to kill Hesan Nasaralla.
-
-American Senior Committee Member Mark Kelly has said that Israel has used 900 kilos of America (Marke 84 Series).
-
-Israel confirmed that Nasmenta was killed recently to the attack targeting Hezbollah headquarters.
-
-About 20 others with the leader of the Hezbollah had died of the attack on the attack.
-
-◼️
-
-[Data](articles/ea47a331.json)
-
-[Extended Data](ext_articles/ea47a331.ext.json)
-
----
-
-### Colombo’s inflation drops to -0.5% in Sept. 2024
-
-*2024-09-30 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102356/colombos-inflation-drops-to-05-in-sept-2024) · `en`
-
-The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has decreased to -0.5% in September 2024, compared to 0.5% in August 2024, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has decreased to -0.3% in September 2024 compared to 0.8% in August 2024.
-
-Year-on-Year inflation of Non-Food Group decreased to -0.5% in September 2024 from 0.4% in August 2024.
-
-The Colombo Consumer Price Index (CCPI) in September 2024 has decreased to 190.9 from 191.1 in August 2024.
-
-The Month-on-Month change was contributed by -0.17% from food and 0.06% from non-food, the report said.
-
-CCPI Core in September 2024 has increased to 177.6 from 177.3 in August 2024.
-
-The general price level has increased by 90.9% compared to the index reference.
-
-◼️
-
-[Data](articles/f46f0e0d.json)
-
-[Extended Data](ext_articles/f46f0e0d.ext.json)
-
----
-
-### Inflation down
-
-*2024-09-30 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201690) · `si`
-
-Colombo Municipal Community: Inflation drops to -0.5% in September 2024. Food category sees 0% annual inflation, while non-food remains at -0.4%. These figures represent a decrease from previous months' rates.
-
-🟩
-
-The Colombo Municipal Community's customer inflation rate has been reduced to-0.5% for September 2024.
-
-The Department of Census and Statistics have informed this in a statement.
-
-In September 2024, the annual inflation of food category has reduced to-0% and in August 2024 as 0.8%.
-
-Also, the non-food annual inflation (point) is up to - 0.4% of the non-food annual inflation for September 2024. It was 0.4% in August 2024.
-
-◼️
-
-[Data](articles/0a32db73.json)
-
-[Extended Data](ext_articles/0a32db73.ext.json)
 
 ---

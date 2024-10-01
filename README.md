@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 23:09:45**
+As of **2024-10-01 23:22:50**
 
 ## Newspaper Stats
 
-*Scraped **47,263** Articles*
+*Scraped **47,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,162
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
-tamilmirrorlk | 6,348
+tamilmirrorlk | 6,349
 virakesarilk | 7,563
 adaderanasinhalalk | 8,176
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,263 (100.0%) of 47,263 articles have been extended.
+47,264 (100.0%) of 47,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Actor Rajinikanth suddenly admitted to hospital
+
+*2024-10-01 22:51:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகர்-ரஜினிகாந்த்-திடீரென-வைத்தியசாலையில்-அனுமதி/54-344782) · `ta`
+
+Rajinikanth hospitalized in Chennai due to stomach inflammation and potential heart-related issues. Wife says he's recovering well. Doctors expect full recovery without surgery in two days.
+
+🟩
+
+Actor Rajinikanth has been admitted to Apollo Hospital in Thousand Lights in Chennai.
+
+He was immediately rushed to Apollo Hospital, and a few news reports that Rajinikanth's stomach inflammation was the cause.
+
+On the other hand, it is reported that Rajinikanth's heart -related treatment is about to take place today. Also, the superstar's wife, Rajinikanth, seems to be saying that he is good and has no problem with fear.
+
+In this case, Rajinikanth had an inflammation in the blood vessel heading to the heart. Doctors have issued a statement saying that it is simplified without surgery and that he is currently resting with full health and he can return home in two more days.. Remble
+
+◼️
+
+[Data](articles/ddec59c7.json)
+
+[Extended Data](ext_articles/ddec59c7.ext.json)
+
+---
 
 ### Iran attacks in Israel
 
@@ -2447,31 +2471,5 @@ He was speaking at a press briefing to inform the Cabinet decisions now.
 [Data](articles/31d0047d.json)
 
 [Extended Data](ext_articles/31d0047d.ext.json)
-
----
-
-### “I will appeal to the new president”
-
-*2024-10-01 10:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதியிடம்-முறையிடுவேன்/175-344750) · `ta`
-
-Actor-politician Ranjan Ramanayake appeals to new President Dissanayake for citizenship restoration after being pardoned by former President Wickremesinghe for contempt of court. He claims innocence and seeks justice under Article 34 of Sri Lanka's Constitution.
-
-🟩
-
-Ranjan Ramanayake, a state -of -the -art actor and politician Ranjan Ramanayake, who has been pardoned by former President Ranil Wickremesinghe for contempt of court in 2022
-
-“I will appeal to the current President Dissanayake soon to demand a restoration of my citizenship. Former President has forgiven me. However, my mouth is still stuffed and has been prevented from engaging in radical politics.
-
-I appeal to the new President for my citizenship. I feel that I will get it because I have not been sent to jail for any crime, ”he told the Daily Mirror.
-
-On August 25, 2022, Ramanayake submitted a statement on the report outside the Alarmika 2017, Ramanayake confessed that his comment was completely insulting the Chief Justice and the entire judiciary.
-
-Ramanayake apologized in his affidavit and demanded the pardon of the entire judiciary. Moreover, he apologized for the degrading statement outside the High Court premises, saying he would not withdraw the report on August 21, 2017.
-
-...
-
-[Data](articles/87383673.json)
-
-[Extended Data](ext_articles/87383673.ext.json)
 
 ---

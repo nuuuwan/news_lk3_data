@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 15:57:56**
+As of **2024-10-01 16:12:50**
 
 ## Newspaper Stats
 
-*Scraped **47,217** Articles*
+*Scraped **47,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,871
 dailyftlk | 3,162
 adalk | 4,371
 dailymirrorlk | 4,733
-adaderanalk | 5,555
+adaderanalk | 5,556
 tamilmirrorlk | 6,345
 virakesarilk | 7,550
 adaderanasinhalalk | 8,163
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,217 (100.0%) of 47,217 articles have been extended.
+47,217 (100.0%) of 47,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### ASPI jumps 137 points, nears 12,000 mark
+
+*2024-10-01 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102380/aspi-jumps-137-points-nears-12000-mark) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange has increased by 137.86 points to close at 11,992.91 today (Oct. 01).
+
+This is an increase of 1.16 percent from the previous close.
+
+Meanwhile, the S&P SL20 has increased by 67.51 points (1.95%) to close at 3,520.92 points.
+
+◼️
+
+[Data](articles/679edfe7.json)
+
+---
 
 ### Increase in stock market
 
@@ -2363,21 +2379,5 @@ Helen storm recorded as the worst hurricane that hit the United States in 173 ye
 [Data](articles/9883e2f4.json)
 
 [Extended Data](ext_articles/9883e2f4.ext.json)
-
----
-
-### 2024-09-30 (Monday)
-
-### RALLYING AROUND THE PRESIDENT
-
-*2024-09-30 23:51:00* · [`islandlk`](http://island.lk/rallying-around-the-president/) · `en`
-
-Public support for the government after the presidential election is on the rise. The first actions of the government have been appreciated by the general public. These include the exposure of former presidential advisors and their vehicles, the investigation ordered into the visa and passport controversies not to mention the peaceful conduct of the post-election celebrations which did not include any taking of revenge against those who had been in power. This is indeed a break with the past when the victors went on the rampage against their political opponents and included innocent ethnic and religious minorities in their frenzy.
-
-...
-
-[Data](articles/253c0b50.json)
-
-[Extended Data](ext_articles/253c0b50.ext.json)
 
 ---

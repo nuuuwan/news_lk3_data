@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 01:23:10**
+As of **2024-10-02 01:38:46**
 
 ## Newspaper Stats
 
-*Scraped **47,282** Articles*
+*Scraped **47,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 466
 colombotelegraphcom | 473
 islandlk | 2,778
 economynextcom | 2,882
-dailyftlk | 3,167
+dailyftlk | 3,168
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
-tamilmirrorlk | 6,350
+tamilmirrorlk | 6,351
 virakesarilk | 7,563
 adaderanasinhalalk | 8,176
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,282 (100.0%) of 47,282 articles have been extended.
+47,282 (100.0%) of 47,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Women’s Chamber of Industry and Commerce holds 39th AGM
+
+*2024-10-02 01:11:07* · [`dailyftlk`](https://www.ft.lk/business/Women-s-Chamber-of-Industry-and-Commerce-holds-39th-AGM/34-767419) · `en`
+
+The Women’s Chamber of Industry and Commerce (WCIC) held its Annual General Meeting (AGM), marking a pivotal moment in the organisation’s 39-year journey.
+
+Established in 1985 as the world’s first chamber dedicated to empowering women, the WCIC remains committed to fostering female entrepreneurship, leadership, and professional development across Sri Lanka. This year’s AGM, led by Chairperson Anoji De Silva and the 15-member Board, celebrated the Chamber’s achievements during the 2023/24 term while setting the stage for future growth.
+
+During the event, the leadership team highlighted the WCIC’s enduring commitment to creating sustainable businesses, advocating for women’s participation in the economy, and breaking down barriers for female entrepreneurs.
+
+...
+
+[Data](articles/4da78a5b.json)
+
+---
 
 ### Go for the low hanging fruit, Mr. President
 
@@ -109,6 +125,24 @@ Similarly, the Sri Lankan Ambassador to Israel said to keep the essential food, 
 [Data](articles/0c91d60e.json)
 
 [Extended Data](ext_articles/0c91d60e.ext.json)
+
+---
+
+### ஜனாதிபதியை சந்தித்தார் ரஷ்ய தூதுவர்
+
+*2024-10-01 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ரஷ்ய-தூதுவர்/175-344783) · `ta`
+
+இலங்கைக்கான ரஷ்யத் தூதுவர் லெவன் எஸ். ஜகார்யன் (Levan S. Dzhagaryan)  இன்று (01) முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை சந்தித்தார்.
+
+இந்த சந்திப்பில் புதிதாக தெரிவான ஜனாதிபதி திசாநாயக்கவிற்கு  தூதுவர் எஸ். ஜகார்யன் தனது வாழ்த்துகளைத் தெரிவித்ததுடன், ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டினின் தனிப்பட்ட வாழ்த்துச் செய்தியொன்றையும் ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கு வழங்கினார்.
+
+ஜனாதிபதி அநுர திசாநாயக்கவின் தலைமையில் இரு நாடுகளுக்கும் இடையிலான இருதரப்பு உறவுகள் மேலும்  வலுவடையும் என எதிர்பார்ப்பதாக ஜனாதிபதி புடின் தனது செய்தியில் குறிப்பிட்டிருந்தார்.
+
+இலங்கைக்கும் ரஷ்யாவுக்கும் இடையிலான நீண்ட கால இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவது குறித்து கலந்துரையாடலில் விசேட கவனம் செலுத்தப்பட்டதுடன், இராஜதந்திர உறவுகளை பரஸ்பரம் மேம்படுத்துவதற்கு இரு தரப்பினதும் அர்ப்பணிப்பை மீண்டும் உறுதிப்படுத்துவதுடன், வர்த்தகம், முதலீடு, கலாசாரம் மற்றும் கல்வி போன்ற முக்கிய துறைகளில் ஒத்துழைப்பை மேம்படுத்துவதன் முக்கியத்துவத்தையும் இரு தரப்பினரும் வலியுறுத்தினர்.
+
+◼️
+
+[Data](articles/dce042f7.json)
 
 ---
 
@@ -2321,45 +2355,5 @@ In addition, actor Rajinikanth has already been treated at the Apollo Hospital d
 [Data](articles/0075c2cd.json)
 
 [Extended Data](ext_articles/0075c2cd.ext.json)
-
----
-
-### New Chairman of Litro
-
-*2024-10-01 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201719) · `si`
-
-Channa Gunawardena named Chairman of Litro Gas and Litro Gas Terminal Lanka.
-
-🟩
-
-Channa Gunawardena has been appointed as the Chairman of Litro Gas and Litro Gas Terminal Lanka.
-
-◼️
-
-[Data](articles/ba8079a0.json)
-
-[Extended Data](ext_articles/ba8079a0.ext.json)
-
----
-
-### Postal voting applications from today
-
-*2024-10-01 11:32:02* · [`adalk`](https://www.ada.lk/breaking_news/තැපැල්-ඡන්ද-අයදුම්පත්-භාර-ගැනීම-අද-01-සිට/11-412252) · `si`
-
-Postal voting applications open today for Nov 14, 2024 election. Acceptance ends Oct 8. Used for 2024 electoral register.
-
-🟩
-
-Postal voting applications for the 2024 general election on November 14 will commence today (01).
-
-The Elections Commission (EPL) has issued a statement that the acceptance of applications will be held until October 8.
-
-The Elections Commission announced that the 2124 general election is used for the 2024 electoral regional register for the 2024 election.
-
-◼️
-
-[Data](articles/3dc47987.json)
-
-[Extended Data](ext_articles/3dc47987.ext.json)
 
 ---

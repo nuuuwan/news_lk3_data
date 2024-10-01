@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 09:26:32**
+As of **2024-10-01 09:39:07**
 
 ## Newspaper Stats
 
-*Scraped **47,135** Articles*
+*Scraped **47,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,542
 tamilmirrorlk | 6,328
 virakesarilk | 7,539
-adaderanasinhalalk | 8,147
+adaderanasinhalalk | 8,148
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,133 (100.0%) of 47,135 articles have been extended.
+47,136 (100.0%) of 47,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Sanath explains why foreign coaches brought
+
+*2024-10-01 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201714) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sanath Jayasuriya denies favoritism as Sri Lanka's head coach, stating foreign coaches were chosen to avoid player bias and ensure fair treatment for all players.
+
+🟩
+
+Sri Lanka's head coach Sanath Jayasuriya says he is not in the art of special treatment of specializers.
+
+"The trainers had players who like them. If that happens to me, this will not be done. All this should be one. I just tell everyone I need, understand the two good and bad. It knows that guys. I mean, love is not angry with anyone. But I'm not FAVORITES. This is good for me, he wants to keep him.. I can't do the trainer if you do that.  මේ ජොබ් එකේ තිබුණු ප්‍රශ්නාර්ත ලකුණු තමයි ලංකාවේ මේ ජොබ් එකට ආව හැම කෙනෙක්ම මෙන්න මේ ප්‍රශ්නය ඇති වෙන්න පුළුවන්දෝ කියන කතාව. Okay I'm saying. That's why we brought a coach outside. Have a great or bad or large costs. Doing so will never be a trainer. "
+
+◼️
+
+[Data](articles/84899212.json)
+
+[Extended Data](ext_articles/84899212.ext.json)
+
+---
 
 ### Israel begins Lebanon ground invasion with ‘limited’ raids on Hezbollah
 
@@ -612,6 +636,8 @@ Suzi is billed to appear at ‘Country Night’, scheduled for Saturday, 26th Oc
 
 [Data](articles/793f64f5.json)
 
+[Extended Data](ext_articles/793f64f5.ext.json)
+
 ---
 
 ### ‘Ballard of the Warriors’
@@ -683,6 +709,8 @@ These are new times indeed. The country is in a celebratory mood. We have a bran
 ...
 
 [Data](articles/49422f32.json)
+
+[Extended Data](ext_articles/49422f32.ext.json)
 
 ---
 
@@ -2259,33 +2287,5 @@ At the time my story begins, a routine civil service transfer had me moved as As
 [Data](articles/641349ff.json)
 
 [Extended Data](ext_articles/641349ff.ext.json)
-
----
-
-### Helene kills 30 lives
-
-*2024-09-30 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201694) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Helene hurricane: 30 deaths in North Carolina. 105 total fatalities across states. Trees downed. Some missing."
-
-🟩
-
-Thirty people have died due to the 'Hurricane' of North Carolina, USA.
-
-Last Thursday, the 'Helene' was in the US to the United States through Florida.
-
-About 105 people have died after the affected by the hurricane of the cynic across several states, and some people have gone missing.
-
-The collapsation and the trees have also been disrupted.
-
-◼️
-
-[Data](articles/fdd2443d.json)
-
-[Extended Data](ext_articles/fdd2443d.ext.json)
 
 ---

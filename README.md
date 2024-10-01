@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 11:22:43**
+As of **2024-10-01 11:39:17**
 
 ## Newspaper Stats
 
-*Scraped **47,157** Articles*
+*Scraped **47,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 471
 islandlk | 2,776
 economynextcom | 2,861
 dailyftlk | 3,162
-adalk | 4,362
+adalk | 4,364
 dailymirrorlk | 4,733
 adaderanalk | 5,546
-tamilmirrorlk | 6,334
+tamilmirrorlk | 6,337
 virakesarilk | 7,543
 adaderanasinhalalk | 8,151
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 8,151
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,152 (100.0%) of 47,157 articles have been extended.
+47,161 (100.0%) of 47,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Julie J. Sung met the president
+
+*2024-10-01 11:16:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ஜூலி-ஜே-சங்/175-344752) · `ta`
+
+US Ambassador Julie J. Sangh met President Anura Kumara Dissanayake at Presidential Office. She congratulated him on his appointment and discussed strengthening bilateral ties, economic cooperation, and diplomatic relations between US and Sri Lanka.
+
+🟩
+
+The meeting between President Anura Kumara Dissanayake and US Ambassador Julie J. Sangh took place on Tuesday (01) at the Presidential Office.
+
+The US Ambassador congratulated Dissanayake, who was appointed as the new President of Sri Lanka, and discussed the continued improving the strong bilateral ties between the US and Sri Lanka.
+
+Special attention was also paid to the diplomatic relations between the US and Sri Lanka, strengthening economic and social cooperation and mutual interested sectors between the two countries.
+
+◼️
+
+[Data](articles/e3760cc2.json)
+
+[Extended Data](ext_articles/e3760cc2.ext.json)
+
+---
+
+### A special meeting between President Anura and July Chang
+
+*2024-10-01 11:11:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-සහ-ජූලි-චන්ග්-අතර-විශේෂ-හමුවක්/11-412250) · `si`
+
+Here's a 200-character summary:
+
+
+
+"President Anura Kumara Dissanayake met Sri Lanka's Ambassador July Chang. They discussed bilateral relations between their countries."
+
+🟩
+
+President Anura Kumara Dissanayake and Sri Lanka's Ambassador to Sri Lanka has held a special meeting between July Chang today (01).
+
+The two countries have discussed bilateral relations between the two countries.
+
+◼️
+
+[Data](articles/a825ff77.json)
+
+[Extended Data](ext_articles/a825ff77.ext.json)
+
+---
 
 ### Acting Controller General of Immigration and Emigration appointed
 
@@ -65,6 +111,30 @@ Balasuriya is a special grade of the Sri Lanka Administrative Service as a Addit
 [Data](articles/23919fe9.json)
 
 [Extended Data](ext_articles/23919fe9.ext.json)
+
+---
+
+### “Ranil should resign”
+
+*2024-10-01 10:56:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-பதவி-விலக-வேண்டும்/175-344751) · `ta`
+
+"Ranil Wickremesinghe urged UNP resignation for alliance. Harshana Rajakaruna suggests joining SJP instead. UNP grassroots resolution against Wickremesinghe begins. Vajira Abeywardena proposes forming common opposition coalition."
+
+🟩
+
+The United National Party (UNP) leader Ranil Wickremesinghe urges the United National Party (UNP) to resign as a matter of alliance with his party in considering the general election.
+
+Former parliamentarian Harshana Rajakaruna has said that all the United National Party should join the SJP rather than join the United National Party.
+
+“Let a few people who want to support party leader Wickremesinghe be with a few party members in Sirikotha, others must join us. The SJP is now the best place for the United National Party. We are ready to take over the United National Party if the current leader Ranil Wickremesinghe resigned and handed over the party to us.
+
+He has repeatedly asked Mr. Vikramasinghe to resign from his post and he did not listen to his request. Rajakaruna told the media that if Wickremesinghe leaves, we are ready to capture the UNP, but there is doubt whether it will be given to us.
+
+...
+
+[Data](articles/699f25ab.json)
+
+[Extended Data](ext_articles/699f25ab.ext.json)
 
 ---
 
@@ -156,23 +226,29 @@ Newly elected Executive President Anura Kumara Dissanayake in Sri Lanka is a red
 
 ---
 
-### அம்பாறை மாவட்ட தமிழ் பிரதிநிதித்துவத்தை உறுதிப்படுத்த அனைத்து கட்சிகளும் ஒன்றிணைய வேண்டும் -  முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் அம்பாறை மாவட்ட இணைப்பாளர்
+### All parties should unite to ensure Tamil representation of Ampara District - Former President Mahinda Rajapaksa's Ampara District Coordinator
 
 *2024-10-01 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195192) · `ta`
 
-தமிழ் பிரதிநிதித்துவத்தை அம்பாறை மாவட்டத்தில் உறுதிப்படுத்த அனைத்து கட்சிகளும் ஒன்றிணைய வேண்டும் எனவும் அதற்காக  எந்த நேரத்திலும் ஒத்துழைக்க தயாராகவுள்ளதாக முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் அம்பாறை மாவட்ட இணைப்பாளரும்  கிழக்கு மாகாண சபையின் முன்னாள் உறுப்பினர் இனிய பாரதி என்றழைக்கப்படும் குமாரசாமி புஸ்பகுமார்  தெரிவித்தார்.
+Former President Mahinda Rajapaksa's Ampara District Coordinator calls for unity among parties to secure Tamil representation in the upcoming parliamentary elections. He criticizes other parties for neglecting Tamil representation in previous elections and appeals to them to contest to achieve 35,000 votes.
 
-அம்பாறை ஊடக அமையத்தில் சமகால அரசியல் விடயங்கள் தொடர்பில் திங்கட்கிழமை (30) இரவு  நடைபெற்ற விசேட செய்தியாளர் சந்திப்பில் கலந்து கொண்டு மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-எதிர்வரும் பாராளுமன்ற தேர்தலில் அம்பாறை மாவட்டத்தில் தமிழ் பிரதிநிதித்துவத்தை பெற்றுக்கொள்ள அனைவரும் ஒன்றிணைய வேண்டும்.
+Former President Mahinda Rajapaksa's Ampara District Coordinator and former Member of the Eastern Provincial Council, Kumaraswamy Puspakumar, said that all parties should unite to ensure Tamil representation in the Ampara district.
 
-ஏனெனில் கடந்த கால தேர்தலில் அம்பாறை மாவட்டத்திற்கு கிடைக்க வேண்டிய தமிழ் பிரதிநிதித்துவத்தை இல்லாமல் செய்வதற்கு பல்வேறு தரப்பினரும் அம்பாறை மாவட்டத்திற்கு வருகை தந்து எமது மக்களின் வாக்குகளை சிதறடித்தனர்.
+He was speaking at a special press conference held on Monday night on contemporary political issues at the Ampara Media Center.
 
-இம்முறையும் அவ்வாறு எமது பிரதிநிதித்துவத்தை இழந்து விடாமல் இருப்பதற்கு சகல கட்சிகளும் ஒன்றிணைய சகலரும் ஒத்துழைப்பு செய்ய முன்வர வேண்டும்.
+In the upcoming parliamentary elections, all should unite to obtain Tamil representation in the Ampara district.
+
+This is because various parties visited the Ampara district to avoid the Tamil representation of the Ampara district in the past election.
+
+All parties must come forward to cooperate to cooperate with all the parties to keep our representation from doing so.
 
 ...
 
 [Data](articles/81b9b7db.json)
+
+[Extended Data](ext_articles/81b9b7db.ext.json)
 
 ---
 
@@ -188,37 +264,81 @@ They will serve in an honorary capacity, according to the Cabinet Spokesman, Min
 
 [Data](articles/e3cfec27.json)
 
+[Extended Data](ext_articles/e3cfec27.ext.json)
+
 ---
 
-### අයි.එම්.එෆ්. ගිවිසුම සමාලෝචනය කරයිද? එම නියෝජිතයක් සමග සාකච්ඡා කරන්න යන දේ මෙන්න
+### IMF. Will the agreement review?Here's what is going to discuss with a representative
 
 *2024-10-01 10:42:27* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ගිවිසුම-සමාලෝචනය-කරයිද--එම-නියෝජිතයක්-සමග-සාකච්ඡා-කරන්න-යන-දේ-මෙන්න/11-412249) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ගිවිසුම සම්බන්ධයෙක් සමාලෝචනයක් සිදු කළ යුතු බවත්, කෙසේ වෙතත් හෙට පැමිණෙන අයි.එම්.එෆ් නියෝජිතයන් සමග එවැනි ගැඹුරු සාකච්ඡාවක් සිදු නොකරන බවත් අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+IMF agreement review: Minister Vijitha Herath states no deep discussion planned with IMF rep tomorrow. Basic meeting to move forward work.
 
-දැන් පැවැත්වෙන කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-“අයි.එම්.එෆ්. ගිවිසුම සම්බන්ධයෙන් යම් සමාලෝචනයක් කරන්න ඕනී කියන අදහසේ ඉන්නවා. නමුත් හෙට පැමිණෙන අයි.එම්.එෆ්. නියෝජිතයොත් එක්ක එවැනි ගැඹුරු සාකච්ඡාවක් වෙන්නේ නැහැ. ඇත්තටම නව ජනාධිපතිවරයා පත් වුණාට පස්සේ  මේ අයි.එම්.එෆ්. කටයුතු කොහොමද ඉදිරියට ගෙනියන්නේ, ඒ පිළිබඳ මූලික සාකච්ඡාවක් පමණයි සිදුවන්නේ. ”
+Minister Vijitha Herath said that a deepening discussion should not be conducted with the IMF representative tomorrow.
+
+He was speaking at a press briefing to inform the Cabinet decisions now.
+
+"IMF. There is an idea that needs to be a review regarding the agreement. But tomorrow's IMF. Such a deep discussion with agents is not. This is the IMF when the new president was over. How to bring the work forward, only a basic discussion of it. "
 
 ◼️
 
 [Data](articles/31d0047d.json)
 
+[Extended Data](ext_articles/31d0047d.ext.json)
+
 ---
 
-### ”புதிய ஜனாதிபதியிடம் முறையீடு செய்வேன்”
+### “I will appeal to the new president”
+
+*2024-10-01 10:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதியிடம்-முறையிடுவேன்/175-344750) · `ta`
+
+Actor-politician Ranjan Ramanayake appeals to new President Dissanayake for citizenship restoration after being pardoned by former President Wickremesinghe for contempt of court. He claims innocence and seeks justice under Article 34 of Sri Lanka's Constitution.
+
+🟩
+
+Ranjan Ramanayake, a state -of -the -art actor and politician Ranjan Ramanayake, who has been pardoned by former President Ranil Wickremesinghe for contempt of court in 2022
+
+“I will appeal to the current President Dissanayake soon to demand a restoration of my citizenship. Former President has forgiven me. However, my mouth is still stuffed and has been prevented from engaging in radical politics.
+
+I appeal to the new President for my citizenship. I feel that I will get it because I have not been sent to jail for any crime, ”he told the Daily Mirror.
+
+On August 25, 2022, Ramanayake submitted a statement on the report outside the Alarmika 2017, Ramanayake confessed that his comment was completely insulting the Chief Justice and the entire judiciary.
+
+Ramanayake apologized in his affidavit and demanded the pardon of the entire judiciary. Moreover, he apologized for the degrading statement outside the High Court premises, saying he would not withdraw the report on August 21, 2017.
+
+...
+
+[Data](articles/87383673.json)
+
+[Extended Data](ext_articles/87383673.ext.json)
+
+---
+
+### “I will appeal to the new president”
 
 *2024-10-01 10:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதியிடம்-முறையீடு-செய்வேன்/175-344750) · `ta`
 
-2022 ஆம் ஆண்டு நீதிமன்றத்தை அவமதித்த குற்றத்திற்காக முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் நிபந்தனையுடன் கூடிய மன்னிப்பு வழங்கப்பட்ட நடிகரும் அரசியல்வாதியுமான ரஞ்சன் ராமநாயக்க, தனக்கு முழு மன்னிப்பு மற்றும் அவரது குடிமை உரிமைகளை வழங்குமாறு தற்போதைய ஜனாதிபதி அனுரகுமார திஸாநாயக்கவிடம் புதிய முறையீடு செய்யவுள்ளதாக நேற்று தெரிவித்தார்
+Actor-politician Ranjan Ramanayake appeals to new President Dissanayake for citizenship restoration after being pardoned by former President Wickremesinghe for contempt of court. He claims innocence and seeks presidential intervention under Article 34 of Sri Lanka's constitution.
 
-“எனது குடியுரிமைகளை மீட்டெடுக்கக் கோரி நான் விரைவில் தற்போதைய ஜனாதிபதி திஸாநாயக்கவிடம் முறையிடுவேன். முன்னாள் ஜனாதிபதி என்னை மன்னித்துவிட்டார். இருந்தாலும் என் வாய் இன்னும் அடைத்து வைக்கப்பட்டு, தீவிர அரசியலில் ஈடுபடவிடாமல் தடுக்கப்பட்டு இருக்கிறது.
+🟩
 
-எனது குடியுரிமைக்காக புதிய ஜனாதிபதியிடம் புதிய வேண்டுகோள் விடுக்கிறேன். நான் எந்த குற்றத்திற்காகவும் சிறைக்கு அனுப்பப்படவில்லை என்பதால் நான் அதைப் பெறுவேன் என்று உணர்கிறேன், ”என்று அவர் டெய்லி மிரரிடம் கூறினார்.
+Ranjan Ramanayake, a state -of -the -art actor and politician Ranjan Ramanayake, who has been pardoned by former President Ranil Wickremesinghe for contempt of court in 2022
+
+“I will appeal to the current President Dissanayake soon to demand a restoration of my citizenship. Former President has forgiven me. However, my mouth is still stuffed and has been prevented from engaging in radical politics.
+
+I appeal to the new President for my citizenship. I feel that I will get it because I have not been sent to jail for any crime, ”he told the Daily Mirror.
+
+On August 25, 2022, Ramanayake submitted a statement on the report outside the Alarmika 2017, Ramanayake confessed that his comment was completely insulting the Chief Justice and the entire judiciary.
+
+Ramanayake apologized in his affidavit and demanded the pardon of the entire judiciary. Moreover, he apologized for the degrading statement outside the High Court premises, saying he would not withdraw the report on August 21, 2017.
 
 ...
 
 [Data](articles/cf11af5e.json)
+
+[Extended Data](ext_articles/cf11af5e.ext.json)
 
 ---
 
@@ -651,6 +771,32 @@ Appointment of the Chairman Saronsi Weerawardena said that creating a suitable e
 [Data](articles/387467f7.json)
 
 [Extended Data](ext_articles/387467f7.ext.json)
+
+---
+
+### Prepare scholarship exam to a new schedule
+
+*2024-10-01 06:35:33* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගය-නව-කාලසටහනකට-සකස්-කරන්න/11-412247) · `si`
+
+Sri Lanka: Opposition calls for rescheduling Grade 5 scholarship exam, citing concerns over question paper integrity and student anxiety. Authorities urged to address issue and prevent similar problems in the future.
+
+🟩
+
+Opposition Leader Sajith Premadasa has issued a statement that the Grade 05 scholarship examination should be taken to prepare the passage of the Grade Five.
+
+It also said that steps should be taken to prevent such incidents in the future.
+
+The 5th Grade Scholarship Examination Questions Papers, such as the examination, both students and parents have been very disappointed. It has no doubts about the integrity of the National Examination system in Sri Lanka. The students, especially preparations for the exam, have been worried and worried.
+
+Fearing the hard work and future prospects of this event, the students who are afraid to be damaged due to a fair and justifying solution to this serious problem.
+
+The Opposition announcer further states that the authorities have requested the authorities to take steps to solve this serious problem and take the exam to prevention of the examination.
+
+◼️
+
+[Data](articles/055a5a70.json)
+
+[Extended Data](ext_articles/055a5a70.ext.json)
 
 ---
 
@@ -2159,119 +2305,5 @@ He said that every new government is experiencing honeymoon time, as in the Gota
 [Data](articles/c3725e49.json)
 
 [Extended Data](ext_articles/c3725e49.ext.json)
-
----
-
-### Special statement from the Commissioner General of Examinations on scholarship paper
-
-*2024-09-30 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201697) · `si`
-
-Commissioner General of Examinations announces decision on controversial scholarship paper questions. Free marks given for three problematic questions. Expert committee recommendations considered. Police investigation ongoing regarding fraud allegations. CID consulted by Attorney General.
-
-🟩
-
-The Department of Examinations Amit Jayasundara says that the Department of Examinations Amit Jayasundara has decided to pay attention to three questions regarding the controversial scholarship paper.
-
-Speaking further Commissioner General of Examinations said the decision was made up of the recommendations made by the Expert Committee.
-
-"The Secretary presented a full report on this by the Secretary to the Prime Minister. We studied further reports and appointed a committee to recommend recommendations. We discussed this decision by discussing the recommendations of the appointment of the committee.. Here we declared yesterday in yesterday and give free marks for the three questions as a solution. Answers, give all the full points for everyone to do. Accordingly, the evaluation and evaluations will be made.
-
-...
-
-[Data](articles/3558a447.json)
-
-[Extended Data](ext_articles/3558a447.ext.json)
-
----
-
-### Political room is to grant National List Membership to Pa.
-
-*2024-09-30 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195171) · `ta`
-
-Tamil National Alliance seeks first national list membership for parliamentary election. Party emphasizes importance of ethnic problem solutions and civil society's role in unifying Tamil parties and selecting general candidates.
-
-🟩
-
-On behalf of the militants, we urge the militants that the political chamber is to give us the first national list membership we receive as the Tamil National Alliance in the parliamentary general election.. Tulsi said.
-
-In the last presidential election, the Tamil party had gathered themselves as a nationality and gave their votes significantly to the Tamil general candidate, urging the immediate solution to the ethnic problem of the Tamil people.
-
-The Tamil General Assembly and the Tamil National Political Parties have joined the Tamil National Alliance for this kind of concept.. Especially the work done by the civil society of the North and East is the present day of the race.
-
-Their work was enormous during the unification of the Tamil national parties and the general candidate's selection and after the election propaganda.
-
-...
-
-[Data](articles/e14be466.json)
-
-[Extended Data](ext_articles/e14be466.ext.json)
-
----
-
-### Essential to provide vehicles for essential services
-
-*2024-09-30 18:41:38* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-කඩිනමින්-අත්‍යාවශ්‍ය-සේවා-සඳහා-ලබාදීමේ-කටයුතු-කඩිනමින්/11-412237) · `si`
-
-Presidential Secretariat implements essential services vehicles. Vehicles previously used by private staff now serve public needs. 107 vehicles temporarily halted under new administration. Transparency ensured through vehicle inventory list.
-
-🟩
-
-The Presidential Secretariat says that the vehicles parked at the premises near the Presidential Secretariat are now being implemented with immediate essential services.
-
-The vehicles were not vehicles given to the Permanent Staff of the Presidential Secretariat and the former President was given to the private staff who was appointed under Section 41 (1) of the Constitution of the Constitution.
-
-The vehicles have also been stopped at the premises outside the Presidential Secretariat due to the absence of such vehicles at the Presidential Secretariat.
-
-With the appointment of President Anura Kumara Dissanayake, 107 vehicles handed over to the Presidential Secretariat have been temporarily stopped under the protection of the president's office.
-
-The Presidential Secretariat has also prepared a complete list of vehicles to protect the transparency and accuracy.
-
-...
-
-[Data](articles/40b55573.json)
-
-[Extended Data](ext_articles/40b55573.ext.json)
-
----
-
-### Sri Lanka’s former state FinMin justifies last govt’s economic reforms after deflation
-
-*2024-09-30 18:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-state-finmin-justifies-last-govts-economic-reforms-after-deflation-181651/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former State Finance Minister Shehan Semasinghe justified the economic reforms and related policies under the last government after the island nation consumer prices witnessed deflation this month.
-
-Sri Lanka consumer prices measured on the widely watched Colombo Consumer Price Index turned to 0.1 percent deflation, the official data showed on Friday, after the central bank stopped money printing for government borrowing and allowed a market-determining exchange rate which has helped to ensure stable currency over the last year.
-
-The Colombo Consumer Price Index fell almost continuously from March 2024, except June when the currency also came under pressure from excess liquidity from dollar purchases.
-
-“It’s remarkable to see the inflation figures during the last month of our administration, reflecting the significant progress we’ve made,” Former State Minister Semasinghe said in his X-platform.
-
-...
-
-[Data](articles/642b9f7f.json)
-
-[Extended Data](ext_articles/642b9f7f.ext.json)
-
----
-
-### Committee to investigate MP Pension and abolition of vehicle license
-
-*2024-09-30 18:19:15* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-විශ්‍රාම-වැටුප-හා-වාහන-බලපත්‍රය-අහෝසි-කිරීම-ගැන-හොයන්න-කමිටුවක්/11-412236) · `si`
-
-Committee formed to investigate MP pensions and duty-free vehicle licenses. Cabinet approves committee to examine pensions and duties, but not abolish vehicle permits. Committee tasked with legal research and Act analysis. Decision made during Cabinet meeting under President Anura Kumara Dissanayake's patronage. First Cabinet meeting of new government held at Presidential Secretariat.
-
-🟩
-
-It is reported that a committee has been appointed to investigate the possibility of the MPs and the possibility of abolishing the pension and duty licenses.
-
-Accordingly, the Cabinet approval has been given to appoint a committee to look into the pension and duty without the abolition of duty free vehicle permits. It was also reported that the committee would be given the responsibility of providing them with legal background, taking into legal background, to appoint the relevant Acts and finding the recommendations.
-
-The decision was taken at the Cabinet meeting yesterday (30) under the patronage of President Anura Kumara Dissanayake yesterday.. The first Cabinet of the new government met at the Presidential Secretariat yesterday.
-
-◼️
-
-[Data](articles/44c3b885.json)
-
-[Extended Data](ext_articles/44c3b885.ext.json)
 
 ---

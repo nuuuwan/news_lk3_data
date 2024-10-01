@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 00:38:20**
+As of **2024-10-02 00:55:39**
 
 ## Newspaper Stats
 
-*Scraped **47,279** Articles*
+*Scraped **47,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 466
 colombotelegraphcom | 473
 islandlk | 2,778
 economynextcom | 2,882
-dailyftlk | 3,164
+dailyftlk | 3,166
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
@@ -26,9 +26,45 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,278 (100.0%) of 47,279 articles have been extended.
+47,281 (100.0%) of 47,281 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-02 (Wednesday)
+
+### Go for the low hanging fruit, Mr. President
+
+*2024-10-02 00:33:54* · [`dailyftlk`](https://www.ft.lk/columns/Go-for-the-low-hanging-fruit-Mr-President/4-767406) · `en`
+
+You are now the hope of those seven million pleading for a better quality of life
+
+Your opponents’ claim was that you lack experience in the top job, they are correct. You do not have the experience of bringing down an entire economy, you do not have the experience of corrupt practices or poor governance. However, you have been able to observe these taking place over the years and that should have given you lessons and insights to bring such practices to an end. So never fear to try the untested
+
+As they say in the classics, it’s done and dusted. Your long cherished dream of leading your country has come to fruition. It has been a long struggle from your humble beginnings in the village of Tambuttegama to the Presidential Palace in Colombo. Yet you have not lost your humility and simple way of life and the kitchen staff at President’s House will need to change menus to village style rice and curry dishes instead of French cuisines including award winning wines.
+
+...
+
+[Data](articles/986e920f.json)
+
+[Extended Data](ext_articles/986e920f.ext.json)
+
+---
+
+### Date of LG election from tourism point of view
+
+*2024-10-02 00:27:02* · [`dailyftlk`](https://www.ft.lk/opinion/Date-of-LG-election-from-tourism-point-of-view/14-767404) · `en`
+
+Congratulations on your victory which not only belongs to you, but it is a very strong demonstration of how powerful the democratic process is here in Sri Lanka. Now the field is wide open for any underdogs to enter the race in the future. It was truly ground breaking in every possible way.
+
+It was said that the just completed election was the most peaceful. Erik Solheim, former Norwegian Minister said, this election is a lesson for Western nations. Yet we all saw just a couple of days before the election US issued a travel advisory for its travellers. Just imagine that! People of this country completed the most peaceful election in the country ever had, yet US issued a travel advisory. Thankfully that advisory came in the last minute and the rest of the nations did not follow. Anyone dealing with travel advisories knows that they are contagious, when one country imposes them, other countries follow soon. As the saying goes “beggars can’t be choosers”, this is sadly our state.
+
+...
+
+[Data](articles/435cf5e2.json)
+
+[Extended Data](ext_articles/435cf5e2.ext.json)
+
+---
 
 ### 2024-10-01 (Tuesday)
 
@@ -537,6 +573,8 @@ It is no news that religious and ethnic differences have been a major cause of s
 ...
 
 [Data](articles/a2f2f1e7.json)
+
+[Extended Data](ext_articles/a2f2f1e7.ext.json)
 
 ---
 
@@ -2323,53 +2361,5 @@ Additionally, the parents have requested that the President to consider holding 
 [Data](articles/a16128fa.json)
 
 [Extended Data](ext_articles/a16128fa.ext.json)
-
----
-
-### Committee to review privileges granted to MPs, Ministers, and ex-presidents
-
-*2024-10-01 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102371/committee-to-review-privileges-granted-to-mps-ministers-and-ex-presidents) · `en`
-
-The Cabinet of Ministers has approved the appointment of a committee chaired by retired Supreme Court Judge K.T. Chithrasiri, to assess and review the limitation of claims, allowances and privileges granted to Members of Parliament (MPs), Ministers, and former Presidents.
-
-The committee is tasked with submitting a detailed report within two months, offering suitable recommendations or suggesting other alternative methods to assess and review the limitation of claims, allowances and privileges.
-
-Members of Parliament, Ministers and ex-Presidents who are elected by the people, have been granted various entitlements, allowances, and privileges such as salaries, allowances, pensions, quarters, vehicles, staff, office equipment and security personnel.
-
-...
-
-[Data](articles/40a6da27.json)
-
-[Extended Data](ext_articles/40a6da27.ext.json)
-
----
-
-### Inspection of answer sheets of scholarship examination suspended for two weeks
-
-*2024-10-01 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201718) · `si`
-
-Scholarship exam answer sheet inspection suspended for 2 weeks due to parent protests over question papers. Parents met President Anura Kumara Dissanayake, requesting action.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed the relevant officials to suspend the answer sheet of the scholarship examination two weeks.
-
-The decision was taken with a group of parents yesterday with a group of parents who had engaged in a protest against the question papers of the Grade 5 Scholarship Examination.
-
-Meanwhile, the scholarship examination question paper said yesterday (30), the scholarship examination question paper said yesterday.
-
-They added that when he met the President yesterday afternoon, they added.
-
-They said that he requested the President as to be held back.
-
-A group of parents protests in Battaramulla and Colombo for a solution to the question paper of the Grade 5 Scholarship Examination.
-
-Later, they remained near the Presidential Secretariat last evening and protesting and six parents were discussed with the President.
-
-◼️
-
-[Data](articles/b3bf9fc9.json)
-
-[Extended Data](ext_articles/b3bf9fc9.ext.json)
 
 ---

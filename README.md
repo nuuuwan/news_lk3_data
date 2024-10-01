@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 19:11:52**
+As of **2024-10-01 19:22:54**
 
 ## Newspaper Stats
 
-*Scraped **47,245** Articles*
+*Scraped **47,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 472
 islandlk | 2,778
 economynextcom | 2,871
 dailyftlk | 3,162
-adalk | 4,374
+adalk | 4,375
 dailymirrorlk | 4,733
 adaderanalk | 5,561
 tamilmirrorlk | 6,346
@@ -26,25 +26,33 @@ adaderanasinhalalk | 8,170
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,244 (100.0%) of 47,245 articles have been extended.
+47,245 (100.0%) of 47,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
 
-### கடவுச்சீட்டு, வீசா விவகாரத்துக்கு கடந்த அரசாங்கமே பொறுப்பு கூற வேண்டும் - விஜித ஹேரத்
+### The last government should be responsible for the passport and visa issue - Vijitha Herath
 
 *2024-10-01 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195268) · `ta`
 
-கடவுச்சீட்டு மற்றும் வீசா விவகாரத்தில் கடந்த அரசாங்கம் பழைய முறைகளையே பின்பற்றியிருக்கலாம். ஆனால் அரசாங்கம் அதற்கான நடவடிக்கை எடுத்திருக்கவில்லை. இவ்விவகாரத்தில் விடயத்துக்கு பொறுப்பான முன்னாள் அமைச்சர் மாத்திரமின்றி முழு அமைச்சரவையும் பொறுப்பு கூற வேண்டும் என அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+Last government responsible for passport/visa issues. Current government re-implemented old system, started online visa issuance. New electronic passport project delayed due to lack of funds. Old stock limited, causing distribution problems. Entire cabinet blamed for inconvenience. Solution expected soon.
 
-செவ்வாய்கிழமை (1) இடம்பெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-வி.எப்.எஸ். வீசா விவகாரம் தொடர்பில் நீதிமன்ற உத்தரவு பிறப்பிக்கப்பட்டுள்ளது. அதற்கமைய அந்த முறைமை இடைநிறுத்தப்பட்டுள்ளது. அதற்கமைய பழைய முறைக்கு செல்வதற்கும் தீர்மானிக்கப்பட்டுள்ளது. கடந்த அரசாங்கத்தால் பழைய முறையை நடைமுறைப்படுத்தியிருக்க முடியும். ஆனால் அரசாங்கம் அதற்கான நடவடிக்கை எடுத்திருக்கவில்லை.
+The past government may have followed the old methods in the passport and visa issue. But the government has not taken any action. Cabinet spokesman Vijitha Herath said that the entire Cabinet should be held responsible for the matter.
+
+He further stated that at a press conference announcing the Cabinet decisions held on Tuesday (1),
+
+VFS. A court order has been issued on the visa issue. The system has been suspended accordingly. It has also been decided to go to the old method. Could have implemented the old system by the last government. But the government has not taken any action.
+
+But after I took the responsibility of the Ministry, I had taken action. Accordingly, the old system has been re -implemented and visa issuance through the Internet has begun. It has also been decided to conduct the audit. The Auditor's Department has begun its operations.
 
 ...
 
 [Data](articles/069c58c7.json)
+
+[Extended Data](ext_articles/069c58c7.ext.json)
 
 ---
 
@@ -97,6 +105,18 @@ In 1986, the farmers who enter the Indian cinema in 1986 have already contribute
 [Data](articles/439a932e.json)
 
 [Extended Data](ext_articles/439a932e.ext.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් මිල ගැන අද ගත්ත තීරණය මෙන්න
+
+*2024-10-01 18:02:24* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-ගැන-අද-ගත්ත-තීරණය-මෙන්න/11-412261) · `si`
+
+ඔක්තෝම්බර් මාසයට අදාළව ලිට්‍රෝ ගෑස් මිල වෙනස් නොකිරීමට එම සමාගම තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/b0f8a1b2.json)
 
 ---
 
@@ -2421,25 +2441,5 @@ Sri Lanka's head coach Sanath Jayasuriya says he is not in the art of special tr
 [Data](articles/84899212.json)
 
 [Extended Data](ext_articles/84899212.ext.json)
-
----
-
-### Israel begins Lebanon ground invasion with ‘limited’ raids on Hezbollah
-
-*2024-10-01 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102366/israel-begins-lebanon-ground-invasion-with-limited-raids-on-hezbollah) · `en`
-
-Israel’s widely expected ground invasion of Lebanon appeared to be getting underway early on Tuesday as its military said troops had begun “limited” raids against Hezbollah targets in the border area.
-
-The military said in a statement that it had begun “limited, localised, and targeted ground raids based on precise intelligence” against Hezbollah in southern Lebanon villages close to the border that posed “an immediate threat to Israeli communities in northern Israel”.
-
-It said the air force and artillery were supporting the ground forces with “precise strikes.”
-
-Local residents in the Lebanese border town of Aita al-Shaab reported heavy shelling and the sound of helicopters and drones overhead. Flares were repeatedly launched over the Lebanese border town of Rmeish, lighting up the night sky.
-
-...
-
-[Data](articles/7eb5aef7.json)
-
-[Extended Data](ext_articles/7eb5aef7.ext.json)
 
 ---

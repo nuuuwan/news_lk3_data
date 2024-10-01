@@ -1,36 +1,102 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 16:38:26**
+As of **2024-10-01 16:58:05**
 
 ## Newspaper Stats
 
-*Scraped **47,223** Articles*
+*Scraped **47,229** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 390
-bbccomsinhala | 465
+bbccomsinhala | 466
 colombotelegraphcom | 471
 islandlk | 2,778
 economynextcom | 2,871
 dailyftlk | 3,162
 adalk | 4,372
 dailymirrorlk | 4,733
-adaderanalk | 5,558
-tamilmirrorlk | 6,345
-virakesarilk | 7,550
+adaderanalk | 5,559
+tamilmirrorlk | 6,346
+virakesarilk | 7,553
 adaderanasinhalalk | 8,165
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,223 (100.0%) of 47,223 articles have been extended.
+47,229 (100.0%) of 47,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### UGC notice on accepting applications for university admission
+
+*2024-10-01 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102382/ugc-notice-on-accepting-applications-for-university-admission-) · `en`
+
+The University Grants Commission (UGC) says that applications have been called from the applicants who have qualified to apply for university admission based on the re-scrutinized results and the release of withheld results of the G.C.E. (Advanced Level) Examination 2023 (2024), for the academic year 2023/2024.
+
+The UGC says that the relevant applications can be submitted online from October 01 to October 08, 2024.
+
+Further details on submitting applications are mentioned in the previously published newspaper advertisement on the calling for applications for university admission for the academic year 2023/2024 published on the official website of the UGC (www.ugc.ac.lk).
+
+The UGC also noted that the two-week period previously given for applicants of the academic year 2023/2024 for changing the order of preference for courses of study is not applicable for this occasion.
+
+...
+
+[Data](articles/5cdc2399.json)
+
+[Extended Data](ext_articles/5cdc2399.ext.json)
+
+---
+
+### Seven female plantation workers hurt
+
+*2024-10-01 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195237) · `ta`
+
+Seven female plantation workers injured in wasp attack at Pitratmalai Tea Estate. One transferred to hospital. Incident occurred when wasp nest dissolved in tree.
+
+🟩
+
+Seven female plantation workers were injured in the wasp of Pitratmalai Tea Estate, Aputtalai police said.
+
+The attack took place as a wasp nest in the tree in the tea estate in the Pitratmalai tea estate dissolved.
+
+In this case, one of the injured has been transferred to the Diyatalawa Base Hospital for further treatment, police said.
+
+◼️
+
+[Data](articles/d9c8cb22.json)
+
+[Extended Data](ext_articles/d9c8cb22.ext.json)
+
+---
+
+### The person who confused the president's bayer
+
+*2024-10-01 16:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பேயரை-சொல்லி-குழப்பிய-நபர்/175-344765) · `ta`
+
+Tense situation in Vavuniya: Protest over missing relatives turns chaotic when unknown person threatens supporters of President Anura, causing confusion and prompting police intervention.
+
+🟩
+
+A tense situation was caused by a person who claimed to be a supporter of President Anura's supporter of the struggle carried out on Tuesday (01) due to missing relations in Vavuniya.
+
+A demonstration was carried out at the Vavuniya old bus station by the Association of Missing Relations on the International Children's Day.
+
+An unidentified person who came to the place said, “This is the rule of Anura you are all stomachs. The money is coming to you. He is involved in the Muttanam with the mother of the struggle. Will catch you in the police. I stand up for two years with Anuragumara. The Police Intelligence Unit will come and arrest you now.Dogs scolds all to go home. Subsequently missing relationships are involved in the contradiction.
+
+This caused confusion in the area and after a short time the person had threatened them from the area.
+
+◼️
+
+[Data](articles/d0e0b1ea.json)
+
+[Extended Data](ext_articles/d0e0b1ea.ext.json)
+
+---
 
 ### TNA's former MP Sridharan reports
 
@@ -212,6 +278,32 @@ The Indian team won the tournament with both matches in the tournament.
 
 ---
 
+### A man arrested with ice drugs in Colombo
+
+*2024-10-01 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195234) · `ta`
+
+Colombo police arrest 36-year-old woman with 114,900 rupees suspected of ice drug trafficking. 33 grams of 270 mg ice seized during raid on Burgation Road. Further investigation ongoing.
+
+🟩
+
+A woman was arrested on Monday (30) with money suspected of earning an ice and drug trafficking on Burgation Road, which belongs to the Grandpass Police Division in Colombo.
+
+The suspect was arrested during a raid carried out on the basis of confidential information received by the Colombo Police Crime Unit.
+
+The arrested was a 36 -year -old woman from Colombo 14.
+
+Police have seized 114,900 rupees suspected of earning 33 grams of 270 milligrams of ice and drug trafficking from the arrested suspect.
+
+Further investigations are being carried out by the Colombo Police Crime Unit.
+
+◼️
+
+[Data](articles/400e9f5c.json)
+
+[Extended Data](ext_articles/400e9f5c.ext.json)
+
+---
+
 ### Sridharan congratulates the new president
 
 *2024-10-01 15:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-ஸ்ரீதரன்-வாழ்த்து/175-344762) · `ta`
@@ -271,6 +363,34 @@ Both parties highlighted the importance of enhancing cooperation in key areas su
 [Data](articles/404c45ad.json)
 
 [Extended Data](ext_articles/404c45ad.ext.json)
+
+---
+
+### Complaint against Human Rights Commission against land grabbing in Trincomalee
+
+*2024-10-01 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195225) · `ta`
+
+Trincomalee residents lodge complaint with Human Rights Commission regarding unresolved land dispute. 31 families' 42-acre residential lands seized during civil war, military camp established post-conflict. Residents unable to resettle due to Wildlife Department restrictions and state machinery lease arrangements. Appeal filed at various levels, issue remains unresolved.
+
+🟩
+
+Civil and City of Trincomalee have lodged a complaint at the Trincomalee Regional Office of the Human Rights Commission on Monday (30).
+
+The 42 -acre residential lands of the 31 families living in the area have not yet been released.
+
+When the villagers were displaced due to the civil war, the state had taken over the land and had come to the Human Rights Commission due to the inability to resettle the lands on the lands after the war.
+
+During the 1983 riots, they were displaced and resettled in the 90s, after which a military camp was set up in the areas where their homes were located.
+
+After that, after the border of the Wildlife Department in the area, it was impossible to go there and that there were arrangements to provide a long -term lease on a long -term lease by a majority of state machinery.
+
+They also said that although the appeal was filed at various levels, the Human Rights Commission had appealed to the Human Rights Commission on the issue.
+
+◼️
+
+[Data](articles/d313ded1.json)
+
+[Extended Data](ext_articles/d313ded1.ext.json)
 
 ---
 
@@ -1446,6 +1566,46 @@ Accordingly, it has been decided to give the consensus of the Cabinet of Ministe
 
 ---
 
+### Rohan De Sema: The British National Sri Lanka, who wins the music industry in England
+
+*2024-10-01 10:43:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz048dl181do) · `si`
+
+Here's a 200-character summary:
+
+
+
+Rohan de Seam: British-Sri Lankan cellist. Born in England to Sri Lankan parents. Won awards including Guilhermina Suggia Award. Played with renowned musicians like Pablo Casals. Member of Cherioti Quartet for 26 years. Known for rare talent and blending Eastern and Western influences in music.
+
+🟩
+
+Rohan De Sema: The British National Sri Lanka, who wins the music industry in England
+
+Rohan de Seam, who was born as a physician, who was born a Sri Lankan mother and father, passed away on September 29.
+
+Although a Sri Lankan pig is a Sri Lankan pig in the name Rohan De Seam, he is called a British Chelona.
+
+He is known as a gardens with Britain's climax.
+
+How was Rohan de Seam born to Sri Lankan parents and was a British?
+
+On March 9, 1939, during the British colonial season, Rohan de Forum was born in Sheffield area of ​​England.
+
+Therefore, some are known as a Sri Lankan born in British.
+
+His parents were Dramaniyagala, Robert De Form and Mirimanalagala.
+
+At the age of 11, he studied with the Spanish National Chew, the famous Spanish Kazao (Gaspar Cassadó) at the age of 11.
+
+In 1955, when he was 16, he became the first winner of the Guilhermina Suggia Award, and then he was able to receive music education with Pablo Casels in the UK. The next year he won Harriet Cohen International Music Award.
+
+...
+
+[Data](articles/22259623.json)
+
+[Extended Data](ext_articles/22259623.ext.json)
+
+---
+
 ### IMF. Will the agreement review?Here's what is going to discuss with a representative
 
 *2024-10-01 10:42:27* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ගිවිසුම-සමාලෝචනය-කරයිද--එම-නියෝජිතයක්-සමග-සාකච්ඡා-කරන්න-යන-දේ-මෙන්න/11-412249) · `si`
@@ -2277,113 +2437,5 @@ The move comes as the country gears up for a general election, and the Commissio
 [Data](articles/adfb842c.json)
 
 [Extended Data](ext_articles/adfb842c.ext.json)
-
----
-
-### CID complaint lodged over another stock of low-quality Indian manufactured immunoglobulin
-
-*2024-10-01 01:30:48* · [`dailyftlk`](https://www.ft.lk/news/CID-complaint-lodged-over-another-stock-of-low-quality-Indian-manufactured-immunoglobulin/56-767390) · `en`
-
-Medical and Civil Rights Professional Association President Dr. Chamara Sanjeewa, has filed a complaint with the Criminal Investigation Department (CID) regarding yet another stock of alleged low-quality human immunoglobulin vials imported from India.
-
-The complaint was lodged yesterday, following revelations that the stock, deemed unfit for use, was ordered to be removed from use by the Health Ministry in September.
-
-Dr. Sanjeewa presented a document signed by the Health Ministry Director of Supplies indicating that a decision had been made to discontinue the use of the immunoglobulin due to quality issues. He revealed that during a meeting of the Health Ministry’s Safety and Risk Committee, it was decided to withdraw the entire stock from use.  He further noted that despite previous arrests, including that of former Health Minister Keheliya Rambukwella and at least 15 other officials, questions remain about how such low-quality medicines continue to enter Sri Lanka.
-
-...
-
-[Data](articles/0b82c43f.json)
-
-[Extended Data](ext_articles/0b82c43f.ext.json)
-
----
-
-### Sri Lankan worker in Israel dies by suicide
-
-*2024-10-01 01:29:59* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-worker-in-Israel-dies-by-suicide/56-767389) · `en`
-
-A Sri Lankan man employed in Israel’s agricultural sector has tragically died by suicide, according to Sri Lanka’s Ambassador to Israel Nimal Bandara.
-
-The 35-year-old man, a resident of Kandy, reportedly took his own life due to personal reasons, the Ambassador confirmed. The individual had been working in Israel for the past six months.
-
-Efforts are currently being made to repatriate the body to Sri Lanka, Ambassador Bandara added.
-
-Despite the ongoing volatile situation in the region, the Sri Lankan Government has recently been facilitating employment opportunities for Sri Lankans in Israel’s agriculture sector.
-
-Suicidal thoughts can effect anyone. For support call the National Mental Health Hotline on 1926 which is operational 24/7 or CCCline on 1333. Additionally Sri Lanka Sumithrayo also offers emotional support to those who are lonely, depressed, despairing and in danger of taking their own lives. Contact Sri Lanka Sumithrayo on 070 7308308.
-
-◼️
-
-[Data](articles/429d9273.json)
-
-[Extended Data](ext_articles/429d9273.ext.json)
-
----
-
-### Sri Lanka Ceramics and Glass Council congratulates President AKD
-
-*2024-10-01 01:27:44* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Ceramics-and-Glass-Council-congratulates-President-AKD/34-767388) · `en`
-
-Sri Lanka Ceramics and Glass Council, has extended its heartfelt congratulations to President Anura Kumara Dissanayake on his election as the 9th Executive President of Sri Lanka.
-
-“Your leadership comes at a crucial time for our country, and we are optimistic about the meaningful progress and stability your leadership will bring. We trust that your commitment to good governance, transparency, and accountability will foster a proper environment for industries like ours to thrive,” the Council said.  “With the right policies in place, the ceramics and glass sector can significantly enhance the nation’s economy and international competitiveness.
-
-Together, we can address industry-specific issues and harness opportunities for growth that align with national interests. We look forward to supporting your vision and collaborating to ensure sustainable growth for our industry and the country,” Sri Lanka Ceramics and Glass Council added.
-
-◼️
-
-[Data](articles/01b21e98.json)
-
-[Extended Data](ext_articles/01b21e98.ext.json)
-
----
-
-### SL issues travel warning to Lebanon and Syria
-
-*2024-10-01 01:26:55* · [`dailyftlk`](https://www.ft.lk/business/SL-issues-travel-warning-to-Lebanon-and-Syria/34-767387) · `en`
-
-Foreign Ministry yesterday instructed Sri Lankan nationals not to travel to Lebanon and Syria until further notice due to the current volatile situation in the region.
-
-All Sri Lankans who are currently in Lebanon and Syria are strongly requested to be on alert and to take necessary precautions including restricting their outside movements and maintaining regular contacts with the Sri Lanka Embassy in Beirut and the Honorary Consul of Sri Lanka in Damascus, through Email ID [email protected], or the following emergency hotlines: 0094 771102510 Sanath Balasuriya; 0094 718381581 Priyangi Dissanayake; 00961 81485809 Fahd Hawwa and Honorary Consul of Sri Lanka in Damascus Dr. Al Droubi Email ID: [email protected]; Phone: 00963 944499666, 00963 933858803.
-
-◼️
-
-[Data](articles/7b3c5d5e.json)
-
-[Extended Data](ext_articles/7b3c5d5e.ext.json)
-
----
-
-### Ashoka Goonesekere appointed to Distilleries Board
-
-*2024-10-01 01:26:06* · [`dailyftlk`](https://www.ft.lk/business/Ashoka-Goonesekere-appointed-to-Distilleries-Board/34-767386) · `en`
-
-Ashoka Goonesekere has been appointed to the Board of Distilleries Company of Sri Lanka as an Independent Non-Executive Director.
-
-With a wealth of over 36 years of expertise in the banking industry, Goonesekere brings a distinguished background in financial reporting, financial management, taxation, financial operations, and risk management. Holding an MBA from the University of Sri Jayewardenepura (PIM), he is a fellow member of both the Institute of Chartered Accountants of Sri Lanka and the Institute of Cost and Management Accountants of Sri Lanka.
-
-He has held pivotal roles in corporate management, serving as the Chief Financial Officer of Hatton National Bank PLC and as the Senior Vice President/Chief Financial Officer, as well as the Senior Vice President Integrated Risk Management/Chief Risk Officer at DFCC Bank PLC.
-
-...
-
-[Data](articles/7e3571f0.json)
-
-[Extended Data](ext_articles/7e3571f0.ext.json)
-
----
-
-### Karu Jayasuriya calls for return to good governance at IDAG inauguration
-
-*2024-10-01 01:22:44* · [`dailyftlk`](https://www.ft.lk/news/Karu-Jayasuriya-calls-for-return-to-good-governance-at-IDAG-inauguration/56-767385) · `en`
-
-The National Movement for Social Justice Chairperson and former Speaker Karu Jayasuriya, emphasised the critical need for good governance, asserting that it is not a luxury but a necessity in today’s world.
-
-Speaking at the inauguration ceremony of the Institute of Democracy and Governance (IDAG) in Colombo yesterday, Jayasuriya expressed concern over the current political leadership in Sri Lanka, noting a departure from the values upheld by past leaders such as D.S. Senanayake and Don Baron Jayatilaka, as well as their successors. He lamented that self-interest and scandals now seem to overshadow the commitment to serving the public.
-
-...
-
-[Data](articles/b6338827.json)
-
-[Extended Data](ext_articles/b6338827.ext.json)
 
 ---

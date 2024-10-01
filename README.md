@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 03:08:30**
+As of **2024-10-02 03:22:58**
 
 ## Newspaper Stats
 
-*Scraped **47,298** Articles*
+*Scraped **47,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 466
 colombotelegraphcom | 473
 islandlk | 2,778
 economynextcom | 2,882
-dailyftlk | 3,181
+dailyftlk | 3,185
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
@@ -26,11 +26,91 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,298 (100.0%) of 47,298 articles have been extended.
+47,302 (100.0%) of 47,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Cabinet moves to cut costs of MPs and ex-Presidents privileges
+
+*2024-10-02 03:00:27* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-moves-to-cut-costs-of-MPs-and-ex-Presidents-privileges/56-767446) · `en`
+
+Appoints three-member committee to study entitlements and make suitable recommendations to either limit them or propose alternative methods to ease burden on Treasury
+
+In response to growing concerns over the high cost of maintaining entitlements for Members of Parliament (MPs), Ministers and former Presidents, the Cabinet of Minister at their meeting on Monday approved reviewing and potentially reducing the privileges they receive.
+
+The move comes as the Government seeks to ease the burden on public finances, which have been stretched due to fiscal constraints.
+
+“Currently MPs, Ministers and ex-Presidents are provided with a range of entitlements and allowances, including salaries, pensions, housing, vehicles, staff, office equipment and security personnel. These benefits come at a significant cost to the Government, funded by public taxes,” Cabinet Spokesman and Minister Vijitha Herath said at the post-Cabinet meeting media briefing yesterday.
+
+...
+
+[Data](articles/979a6863.json)
+
+[Extended Data](ext_articles/979a6863.ext.json)
+
+---
+
+### Russian envoy calls on President AKD, discusses strengthening bilateral ties
+
+*2024-10-02 02:58:33* · [`dailyftlk`](https://www.ft.lk/news/Russian-envoy-calls-on-President-AKD-discusses-strengthening-bilateral-ties/56-767445) · `en`
+
+Russian Federation Ambassador Levan S. Dzhagaryan yesterday called on new President Anura Kumara Dissanayake and discussed measures to strengthen bilateral relations.
+
+During the meeting, Ambassador Dzhagaryan extended his warm congratulations to President Dissanayake on his recent election and delivered a personal message from Russian President Vladimir Putin.
+
+President Putin in his message states, that he expects that the bilateral relationship between the two countries will deepen under the leadership of President Anura Dissanayake.
+
+The discussions focused on strengthening the longstanding bilateral relations between Sri Lanka and Russia. Both parties highlighted the importance of enhancing cooperation in key areas such as trade, investment, culture, and education, while reaffirming their commitment to deepening diplomatic ties for the mutual benefit of both nations.
+
+◼️
+
+[Data](articles/d087c7dd.json)
+
+[Extended Data](ext_articles/d087c7dd.ext.json)
+
+---
+
+### US envoy calls on President
+
+*2024-10-02 02:57:59* · [`dailyftlk`](https://www.ft.lk/news/US-envoy-calls-on-President/56-767444) · `en`
+
+President Anura Kumara Dissanayake yesterday met with US Ambassador Julie J. Chung at the Presidential Secretariat.
+
+Ambassador Chung extended her warm congratulations to President Dissanayake on his recent inauguration and emphasised the importance of fostering robust bilateral relations between the United States and Sri Lanka.
+
+Particular focus was placed on enhancing diplomatic relations between the United States and Sri Lanka, along with fostering economic and social cooperation in areas of mutual interest to both nations.
+
+◼️
+
+[Data](articles/af901e65.json)
+
+[Extended Data](ext_articles/af901e65.ext.json)
+
+---
+
+### Govt. to recall politically appointed Ambassadors and High Commissioners
+
+*2024-10-02 02:56:03* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-recall-politically-appointed-Ambassadors-and-High-Commissioners/56-767443) · `en`
+
+The Government yesterday announced plans to recall Ambassadors and High Commissioners who were appointed based on political allegiances.
+
+Speaking at the post-Cabinet meeting press conference, Cabinet Spokesman and Minister Vijitha Herath states that a detailed report is being prepared to review these appointments and that political appointees will be recalled accordingly.
+
+“Many daughters and sons of Members of the Parliament have been given diplomatic appointments,” he said, highlighting the extent of political influence in recent diplomatic placements.
+
+The move was seen as part of the new Government’s effort to address political favouritism in Foreign Service appointments, aiming for a more merit-based diplomatic corps moving forward.
+
+However, Herath clarified that no Sri Lankan diplomats would be recalled immediately, as several key international conferences and summits including the United Nations General Assembly (UNGA) are ongoing.
+
+...
+
+[Data](articles/d4d14c67.json)
+
+[Extended Data](ext_articles/d4d14c67.ext.json)
+
+---
 
 ### JICA discusses resumption of BIA 2nd phase development, TV digitisation projects
 
@@ -2191,105 +2271,5 @@ He added that the initial inquiries have been launched by the Ministry of Public
 [Data](articles/de56e839.json)
 
 [Extended Data](ext_articles/de56e839.ext.json)
-
----
-
-### "Must be more concerned about enriching the mood of the children" - Chairman Rishad!
-
-*2024-10-01 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195214) · `ta`
-
-Chairman Rishad emphasizes nurturing children's emotional well-being through compassion, love, and warmth. He believes community leaders should leverage challenges to enhance children's resilience and future outlook.
-
-🟩
-
-All Ceylon People's Congress leader Rishad Bathiudeen has stated that it is necessary to strengthen the mood of the children by compassion, love and warmth.
-
-The compulsion to build themselves in the face of massive challenges has caused children in today's modern world.
-
-It is the responsibility of the community leaders to find out the means to take advantage of these challenges.
-
-We are engaged in the field work in this responsibility. Our activities will support the future beliefs of all children. ”
-
-◼️
-
-[Data](articles/2929800e.json)
-
-[Extended Data](ext_articles/2929800e.ext.json)
-
----
-
-### Explanation for Ivar
-
-*2024-10-01 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195207) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Five suspects arrested for illegal excavation in Batticaloa. Ordered remanded till Thursday. Police seized treasure-related items. Suspects aged 28-30, four from Batticaloa district.
-
-🟩
-
-The Kalmunai Magistrate has ordered the five suspects arrested on charges of excavating a house till Thursday (3).
-
-Five persons were arrested on charges of excavating a house in Pandaruppu Thiruvalluvar Road, Pandaruppu Thiruvalluvar Road last Friday night (27).
-
-The suspects have arrested the suspects in a roundup of confidential information available to the police led by the Inspector of Police, JSK Weerasinghe, who is in charge of the Periyakkunnu Police Station.
-
-Kalmunai Court Responding to the five suspects arrested. He was ordered to be held in detention until Monday (30).
-
-The Kalmunai Magistrate's Magistrate has ordered to be remanded till Thursday (3), as the five suspects arrested at the Kalmunai Magistrate's Court on Monday (30) were presented.
-
-In the incident, his friends, including a man who lived on Pandaruppu Thiruvalluvar road, were arrested by the police on charges of excavating treasure.
-
-...
-
-[Data](articles/d5fcef0a.json)
-
-[Extended Data](ext_articles/d5fcef0a.ext.json)
-
----
-
-### "He died of arakala attack"
-
-*2024-10-01 12:57:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-தாக்குதலால்-தான்-அவர்-இறந்தார்/175-344756) · `ta`
-
-Former MP Kumara Welgama died from injuries sustained during the Arakalaya incident on May 9, 2022. He was hospitalized repeatedly due to his condition after being attacked. As an opposition member, Welgama faced violence during this event.
-
-🟩
-
-Former MP Kumara Welgama's death was caused by injuries in the confusion on May 9, 2022. One said.
-
-“Those who started the Arakalaya on May 9, 2022 suffered a severe attack on Welgama.. He was admitted to the hospital from time to time due to injuries during the Arakalaya during the Arakalaya.
-
-It is noteworthy that he was a member of the opposition at the time of the attack on May 9, 2022.
-
-◼️
-
-[Data](articles/eb7ed84d.json)
-
-[Extended Data](ext_articles/eb7ed84d.ext.json)
-
----
-
-### New chairman appointed to Litro Gas Company
-
-*2024-10-01 12:57:12* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-සමාගමට-නව-සභාපතිවරයෙක්-පත්-කෙරේ/11-412255) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"New chairman appointed to Litro Gas Company: Litro Gas Company and Litro Gas Terminal Lanka (Pvt) announce appointment of new chairman for Sri Lanka."
-
-🟩
-
-Litro Gas Company and Litro Gas Terminal Lanka (Pvt) A new Chairman of Sri Lanka has been appointed.
-
-◼️
-
-[Data](articles/81f74580.json)
-
-[Extended Data](ext_articles/81f74580.ext.json)
 
 ---

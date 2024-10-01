@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 00:55:39**
+As of **2024-10-02 01:08:02**
 
 ## Newspaper Stats
 
-*Scraped **47,281** Articles*
+*Scraped **47,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 466
 colombotelegraphcom | 473
 islandlk | 2,778
 economynextcom | 2,882
-dailyftlk | 3,166
+dailyftlk | 3,167
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,281 (100.0%) of 47,281 articles have been extended.
+47,281 (100.0%) of 47,282 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,24 @@ It was said that the just completed election was the most peaceful. Erik Solheim
 [Data](articles/435cf5e2.json)
 
 [Extended Data](ext_articles/435cf5e2.ext.json)
+
+---
+
+### Here, and the road from here
+
+*2024-10-02 00:08:49* · [`dailyftlk`](https://www.ft.lk/columns/Here-and-the-road-from-here/4-767403) · `en`
+
+The aftermath of the 2024 Presidential election was the most peaceful, ever. No fire-crackers, let alone gunshots or arson. An absence made possible by the NPP/JVP walking the talk. Given that public wrath at the political class played a decisive role in this election, a few incidents of over-the-top rejoicing might have been expected. But there were none. The election outcome amounted to a political upheaval, yet the country remained as calm as a goldfish bowl
+
+Will President Dissanayake and his party be able to move beyond the restrictions imposed by their lingering primordial loyalties and appeal to non-Sinhala Lankans on a platform of genuine equality?
+
+The Election Commission continues to rock. This week, it halted, for the duration of parliamentary polls, an order by President Anura Kumara Dissanayake to increase fertiliser and fuel subsidies to farmers and fishermen.
+
+The same way it stopped a multitude of giveaways by Ranil Wickremesinghe during Presidential elections.
+
+...
+
+[Data](articles/5a77cfb2.json)
 
 ---
 
@@ -2341,25 +2359,5 @@ The Elections Commission announced that the 2124 general election is used for th
 [Data](articles/3dc47987.json)
 
 [Extended Data](ext_articles/3dc47987.ext.json)
-
----
-
-### President instructs to suspend Scholarship Exam paper marking for 2 weeks
-
-*2024-10-01 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102372/president-instructs-to-suspend-scholarship-exam-paper-marking-for-2-weeks) · `en`
-
-President Anura Kumara Dissanayake has instructed to suspend the evaluation of answer sheets of the Grade 05 Scholarship Examination for two weeks, the President’s Media Division said.
-
-A meeting took place yesterday afternoon (30) at the Presidential Secretariat between President Anura Kumara Dissanayake and a group of parents who had protested regarding the recent Grade 5 Scholarship Examination question paper issue.
-
-Following the discussion, the President directed the relevant officials to suspend the evaluation of the Grade 5 Scholarship Examination answer sheets for two weeks, the according to the President’s Media Division.
-
-Additionally, the parents have requested that the President to consider holding a re-examination for the first paper of the Grade 5 Scholarship Examination, as they claimed eight questions, and not three, were leaked prior to the exam.
-
-◼️
-
-[Data](articles/a16128fa.json)
-
-[Extended Data](ext_articles/a16128fa.ext.json)
 
 ---

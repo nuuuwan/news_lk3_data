@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 08:04:50**
+As of **2024-10-01 08:29:27**
 
 ## Newspaper Stats
 
-*Scraped **47,121** Articles*
+*Scraped **47,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 471
 islandlk | 2,773
 economynextcom | 2,861
 dailyftlk | 3,161
-adalk | 4,356
+adalk | 4,357
 dailymirrorlk | 4,733
 adaderanalk | 5,540
-tamilmirrorlk | 6,327
+tamilmirrorlk | 6,328
 virakesarilk | 7,539
 adaderanasinhalalk | 8,142
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,119 (100.0%) of 47,121 articles have been extended.
+47,119 (100.0%) of 47,123 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -355,6 +355,22 @@ In addition, the Indian High Commission in Sri Lanka has stated that the Indian 
 [Data](articles/55a9b99c.json)
 
 [Extended Data](ext_articles/55a9b99c.ext.json)
+
+---
+
+### தபால் வாக்களிப்பு: விண்ணப்பங்கள் அச்சிடல் நிறைவு
+
+*2024-10-01 00:19:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்களிப்பு-விண்ணப்பங்கள்-அச்சிடல்-நிறைவு/175-344741) · `ta`
+
+எதிர்வரும் பொதுத் தேர்தலுக்கான தபால் மூல வாக்களிப்பு விண்ணப்பங்களை அச்சிடும் நடவடிக்கைகள் நிறைவடைந்துள்ளதாக அரச அச்சகம் தெரிவித்துள்ளது.
+
+10 லட்சம் விண்ணப்பங்கள் அச்சிடப்பட்டுள்ளதாக அரச அச்சகர் கங்கா கல்பனி லியனகே தெரிவித்துள்ளார்.
+
+இதனிடையே, 2024 பொதுத் தேர்தலில் தபால் மூல வாக்களிப்பிற்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் நடவடிக்கை இன்று ஆரம்பமாகவுள்ளது. (a)
+
+◼️
+
+[Data](articles/367328c7.json)
 
 ---
 
@@ -695,6 +711,24 @@ In plain language, IMF is only about getting back to the rotten and festering pa
 [Data](articles/a5dbb579.json)
 
 [Extended Data](ext_articles/a5dbb579.ext.json)
+
+---
+
+### පක්ෂය පාවා දුන්න අය ආයේ ගන්නේ නෑ
+
+*2024-09-30 22:59:00* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂය-පාවා-දුන්න-අය-ආයේ-ගන්නේ-නෑ/11-412243) · `si`
+
+තම ප්‍රතිපත්ති සමග එකඟ වන පක්ෂ සමග පමණක් මහ මැතිවරණයේදී සන්ධානගත වීමට දැඩි තීරණයක් ගෙන ඇතැයි ශ්‍රී ලංකා පොදුජන පෙරමුණ ප්‍රකාශ කළේය.
+
+එහි ප්‍රධාන ලේකම්, නීතිඥ සාගර කාරියවසම් මහතා සඳහන් කර සිටියේ, සන්ධානගත වීමට ආරාධනා ලැබී තිබුණද, අදාළ පක්ෂ මූලික වශයෙන් රටේ ඒකීයභාවය පිළිනොගන්නා බවයි.
+
+බත්තරමුල්ල, නෙළුම් මාවතෙහි පිහිටි ශ්‍රී ලංකා පොදුජන පෙරමුණු මූලස්ථානයේදී  අද (30දා) පැවති මාධ්‍ය හමුවකදී මාධ්‍යවේදීන් විසින් අසන ලද පක්ෂ සඳහා පිළිතුරු දෙමින් මේ පිළිබඳ වැඩිදුරටත් අදහස් දැක්වූ ඒ මහතා,
+
+“අද මේ මූලික වශයෙන් සන්ධානගත වෙන්න හදන පක්ෂ ඔවුන් මේ රටේ ඒකීයභාවය පිළිගන්නා පක්ෂ නොවේ. ඔවුන් සියල්ලම වෙනත් මතවාද දරන පක්ෂ. අපි යම්කිසි තාවකාලික පසුබැස්මක ඉන්නවා. අපිට මේ පසුබැස්ම ඇති වෙලා තිබෙන්නේ පහුගිය කාලයේ මේ රටේ අපේ නායකයන්ට කළ බොරු චෝදනා රටේ ජනතාව විශ්වාස කළ නිසා. අපි ඉතාම ආයාචනාත්මකව මේ රජයෙන් ඉල්ලා සිටිනවා, ඔබලා කළ බොරු චෝදනාවලට නීතිය ක්‍රියාත්මක කරන්න.
+
+...
+
+[Data](articles/0c2f92a3.json)
 
 ---
 
@@ -2259,55 +2293,5 @@ About 20 others with the leader of the Hezbollah had died of the attack on the a
 [Data](articles/ea47a331.json)
 
 [Extended Data](ext_articles/ea47a331.ext.json)
-
----
-
-### Colombo’s inflation drops to -0.5% in Sept. 2024
-
-*2024-09-30 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102356/colombos-inflation-drops-to-05-in-sept-2024) · `en`
-
-The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has decreased to -0.5% in September 2024, compared to 0.5% in August 2024, according to the latest data released by the Department of Census and Statistics.
-
-Meanwhile, food inflation has decreased to -0.3% in September 2024 compared to 0.8% in August 2024.
-
-Year-on-Year inflation of Non-Food Group decreased to -0.5% in September 2024 from 0.4% in August 2024.
-
-The Colombo Consumer Price Index (CCPI) in September 2024 has decreased to 190.9 from 191.1 in August 2024.
-
-The Month-on-Month change was contributed by -0.17% from food and 0.06% from non-food, the report said.
-
-CCPI Core in September 2024 has increased to 177.6 from 177.3 in August 2024.
-
-The general price level has increased by 90.9% compared to the index reference.
-
-◼️
-
-[Data](articles/f46f0e0d.json)
-
-[Extended Data](ext_articles/f46f0e0d.ext.json)
-
----
-
-### Inflation down
-
-*2024-09-30 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201690) · `si`
-
-Colombo Municipal Community: Inflation drops to -0.5% in September 2024. Food category sees 0% annual inflation, while non-food remains at -0.4%. These figures represent a decrease from previous months' rates.
-
-🟩
-
-The Colombo Municipal Community's customer inflation rate has been reduced to-0.5% for September 2024.
-
-The Department of Census and Statistics have informed this in a statement.
-
-In September 2024, the annual inflation of food category has reduced to-0% and in August 2024 as 0.8%.
-
-Also, the non-food annual inflation (point) is up to - 0.4% of the non-food annual inflation for September 2024. It was 0.4% in August 2024.
-
-◼️
-
-[Data](articles/0a32db73.json)
-
-[Extended Data](ext_articles/0a32db73.ext.json)
 
 ---

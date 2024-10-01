@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 21:38:49**
+As of **2024-10-01 21:59:47**
 
 ## Newspaper Stats
 
-*Scraped **47,254** Articles*
+*Scraped **47,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ colombotelegraphcom | 472
 islandlk | 2,778
 economynextcom | 2,871
 dailyftlk | 3,162
-adalk | 4,376
+adalk | 4,377
 dailymirrorlk | 4,733
-adaderanalk | 5,562
-tamilmirrorlk | 6,347
+adaderanalk | 5,563
+tamilmirrorlk | 6,348
 virakesarilk | 7,561
-adaderanasinhalalk | 8,173
+adaderanasinhalalk | 8,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,254 (100.0%) of 47,254 articles have been extended.
+47,258 (100.0%) of 47,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Investigations begin on bond fraud
+
+*2024-10-01 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201740) · `si`
+
+Bond fraud investigation begins: Cabinet Minister Vijitha Herath confirms probes underway. President Ranil Wickremesinghe not immune from legal action.
+
+🟩
+
+Cabinet spokesman, Minister Vijitha Herath said that the legitimated tests were already commenced on bond fraud.
+
+He was speaking at the Cabinet press conference on the cabinet decisions at the Government Information Department this morning.
+
+"Already, investigations have already begun.  රනිල් වික්‍රමසිංහ මහත්තයාත් දැන් ජනාධිපති නෙමෙයි. So there is no immunity. Now we have the authority to call him in court. Let's see the action of it. "
+
+◼️
+
+[Data](articles/21082aac.json)
+
+[Extended Data](ext_articles/21082aac.ext.json)
+
+---
+
+### Re -handled vehicles
+
+*2024-10-01 21:22:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-கையளிக்கப்பட்ட-வாகனங்கள்/175-344767) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"State institutions transfer 19 vehicles to companies. 15 handed over today. Remaining vehicles to be allocated later."
+
+🟩
+
+In the past, vehicles brought from various state institutions, including ministries and departments, were re -elected to the respective companies this afternoon.
+
+Arrangements have been made to re -submit 19 vehicles and 15 of them have been handed over to the officials of the companies that were present at the announcement.. Remble
+
+◼️
+
+[Data](articles/dee0fc94.json)
+
+[Extended Data](ext_articles/dee0fc94.ext.json)
+
+---
 
 ### Change in Litro price?
 
@@ -51,6 +97,26 @@ Litro Gas Ceylon also reports that the best stock management and operational man
 [Data](articles/2c7bbf02.json)
 
 [Extended Data](ext_articles/2c7bbf02.ext.json)
+
+---
+
+### Bangladesh sees fresh protests over increasing age limit for government jobs
+
+*2024-10-01 21:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102387/bangladesh-sees-fresh-protests-over-increasing-age-limit-for-government-jobs) · `en`
+
+The police fired tear gas shells and rubber bullets in an attempt to stop the protesters from marching towards the residence of Bangladesh Chief Advisor Muhammad Yunus in Dhaka.
+
+Protesters took to the streets of Dhaka on Monday demanding the Bangladesh caretaker government to increase the age limit from 31 to 35 for government jobs. The fresh protest in the capital city came as the crisis-hit nation is still recovering from the political turmoil that erupted in August, leading to the ouster of former Prime Minister Sheikh Hasina.
+
+On Monday morning, the protesters gathered in front of the National Museum in the city’s Shahbagh. From there, they started their march to Chief Advisor Muhammad Yunus’s official residence, Jamuna in Minto Road.
+
+According to local media reports, the protesters ignored a police restriction on rallies and gatherings in front of the Chief Advisor’s residence and attempted to occupy the premises.
+
+...
+
+[Data](articles/8346650d.json)
+
+[Extended Data](ext_articles/8346650d.ext.json)
 
 ---
 
@@ -81,6 +147,26 @@ Farmers' organizations have warned that if the fertilizer subsidy for the approa
 [Data](articles/48c48cd1.json)
 
 [Extended Data](ext_articles/48c48cd1.ext.json)
+
+---
+
+### TNA. MP Sridhal meets President
+
+*2024-10-01 20:53:12* · [`adalk`](https://www.ada.lk/breaking_news/ටී-එන්-ඒ--මන්ත්‍රී-ශ්‍රීධරන්-ජනපති-හමුවෙයි/11-412263) · `si`
+
+Sridharan, former Jaffna MP, meets President Anura Kumara Dissanayake at Presidential Secretariat. Discusses national matters as sovereign executive head of country.
+
+🟩
+
+Former Jaffna District Parliamentarian S.. Mr. Sridharan met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
+
+Human sovereign executive President of the country. Mr. Sridharan also spoke with the President.
+
+◼️
+
+[Data](articles/968efad0.json)
+
+[Extended Data](ext_articles/968efad0.ext.json)
 
 ---
 
@@ -2359,101 +2445,5 @@ National Transport Commission (National Transport Commission) has been operating
 [Data](articles/306b17fc.json)
 
 [Extended Data](ext_articles/306b17fc.ext.json)
-
----
-
-### Only a candidate has announced the cost
-
-*2024-10-01 10:23:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-வேட்பாளர்-மட்டுமே-செலவை-அறிவித்துள்ளார்/175-344748) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Independent candidate Premasiri Manage announces propaganda fund, but major parties delay. Election Commission warns candidates to disclose finances by October 12 or face legal action. Candidates must report 40% party costs and 60% personal expenses.
-
-🟩
-
-Only an independent candidate who contested the 2024 presidential election has announced his propaganda fund, while no big party with nine days of 21 days has announced their election expenses by the end of September.
-
-Independent candidate contested in 'glass' symbol. Premasiri Manage announced his propaganda funds to the Election Commission of Sri Lanka (ECSL) by September 30.
-
-A senior official of the Election Commission told the Daily Mirror today that no other candidate, including the major political parties contested in the election, has not yet announced their income or expenses during the election.
-
-A candidate or the party he represents must announce their propaganda funds within 21 days after the election, which was passed in January 2023 and the first election that was tested for the first time during the 2024 presidential election.
-
-...
-
-[Data](articles/8b10fb58.json)
-
-[Extended Data](ext_articles/8b10fb58.ext.json)
-
----
-
-### Yall. Cataract surgery has been successful at the teaching hospital - C. Yamunananda
-
-*2024-10-01 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/195193) · `ta`
-
-Cataract surgery successful at Jaffna Teaching Hospital. Dr. C. Yamunananda reports positive outcomes. Treatment available for vision-impaired patients aged 50+. Anonymous surgery unit to provide care within a month.
-
-🟩
-
-Yall. Cataract surgery has been successful at the Teaching Hospital. Dr. C. Yamunananda, Deputy Inspector of the Teaching Hospital, said.
-
-Surgery for cataract patients registered at the Jaffna Teaching Hospital has been successful.
-
-So, Jaffna. In the district or the Northern Province, there is a vision impairment of cataracts, especially over 50 years of age.. He said that the teaching hospital will be given appropriate treatment within a month by seeking the an anonymous surgery unit of the Hospital.
-
-◼️
-
-[Data](articles/84c0b585.json)
-
-[Extended Data](ext_articles/84c0b585.ext.json)
-
----
-
-### Bus fare will be reduced
-
-*2024-10-01 10:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணம்-குறைக்கப்படும்/175-344747) · `ta`
-
-National Transport Commission reduces bus fare due to diesel price drop. New rates to be announced on Tuesday.
-
-🟩
-
-The National Transport Commission has decided to reduce the bus fare to provide people with the benefit of diesel prices.
-
-An official of the National Transport Commission said that the calculations have been launched and the new bus fares are expected to be announced on Tuesday (01).
-
-◼️
-
-[Data](articles/9cfad7f7.json)
-
-[Extended Data](ext_articles/9cfad7f7.ext.json)
-
----
-
-### Postal voting applications for General Election accepted from today
-
-*2024-10-01 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102368/postal-voting-applications-for-general-election-accepted-from-today) · `en`
-
-The applications for postal voting for the upcoming General Election will be accepted from today (01).
-
-The Election Commission announced that the postal voting applications will be accepted until October 08.
-
-The 2024 certified voter list will be used for the 2024 General Election to be held on November 14.
-
-The Election Commission has announced that the 2024 voter lists for all electoral divisions across the island will be displayed from today for the convenience of the postal voters.
-
-Accordingly, voter lists are to be displayed in all District Secretariats, all Divisional Secretariats, Grama Niladhari Offices and some other selected locations.
-
-Postal voting applications can be obtained free of charge from places where the voter lists are displayed, at the District Election Offices, and can also be downloaded from the Election Commission’s website.
-
-The Election Commission states that applications must be submitted to the District Returning Officer of the relevant district by October 08.
-
-◼️
-
-[Data](articles/255a5197.json)
-
-[Extended Data](ext_articles/255a5197.ext.json)
 
 ---

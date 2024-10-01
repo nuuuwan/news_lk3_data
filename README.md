@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 09:16:54**
+As of **2024-10-01 09:03:05**
 
 ## Newspaper Stats
 
-*Scraped **47,133** Articles*
+*Scraped **47,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 471
 islandlk | 2,774
 economynextcom | 2,861
 dailyftlk | 3,161
-adalk | 4,359
+adalk | 4,358
 dailymirrorlk | 4,733
-adaderanalk | 5,542
+adaderanalk | 5,541
 tamilmirrorlk | 6,328
 virakesarilk | 7,539
 adaderanasinhalalk | 8,147
@@ -26,29 +26,11 @@ adaderanasinhalalk | 8,147
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,131 (100.0%) of 47,133 articles have been extended.
+47,131 (100.0%) of 47,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
-
-### Israel begins Lebanon ground invasion with ‘limited’ raids on Hezbollah
-
-*2024-10-01 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102366/israel-begins-lebanon-ground-invasion-with-limited-raids-on-hezbollah) · `en`
-
-Israel’s widely expected ground invasion of Lebanon appeared to be getting underway early on Tuesday as its military said troops had begun “limited” raids against Hezbollah targets in the border area.
-
-The military said in a statement that it had begun “limited, localised, and targeted ground raids based on precise intelligence” against Hezbollah in southern Lebanon villages close to the border that posed “an immediate threat to Israeli communities in northern Israel”.
-
-It said the air force and artillery were supporting the ground forces with “precise strikes.”
-
-Local residents in the Lebanese border town of Aita al-Shaab reported heavy shelling and the sound of helicopters and drones overhead. Flares were repeatedly launched over the Lebanese border town of Rmeish, lighting up the night sky.
-
-...
-
-[Data](articles/7eb5aef7.json)
-
----
 
 ### Man dies in an attack
 
@@ -1632,24 +1614,6 @@ Their work was enormous during the unification of the Tamil national parties and
 
 ---
 
-### වාහන කඩිනමින් අත්‍යාවශ්‍ය සේවා සඳහා ලබාදීමේ කටයුතු කඩිනමින්
-
-*2024-09-30 18:41:38* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-කඩිනමින්-අත්‍යාවශ්‍ය-සේවා-සඳහා-ලබාදීමේ-කටයුතු-කඩිනමින්/11-412237) · `si`
-
-ජනාධිපති ලේකම් කාර්යාලය අසල පරිශ්‍රයේ නවතා තිබෙන රථ වාහන කඩිනමින් අත්‍යවශ්‍ය සේවා සඳහා ලබා දීමට මේ වන විටත් කටයුතු සකස් කරමින් ඇති බව ජනාධිපති කාර්යාලය පවසයි.
-
-මෙම වාහන ජනාධිපති ලේකම් කාර්යාලයේ නිත්‍ය කාර්ය මණ්ඩලය වෙත ලබා දී තිබු රථ වාහන නොවන අතර හිටපු ජනාධිපතිවරයා විසින් සිය ධූර කාලයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 41 (1) වගන්තිය යටතේ පත් කරන ලද සිය පෞද්ගලික කාර්ය මණ්ඩලය වෙත ලබා දී තිබු රථ වාහන බව ජනාධිපති කාර්යාලය සඳහන් කරයි.
-
-එසේම මෙම රථ වාහන ජනාධිපති ලේකම් කාර්යාලයෙන් පිටත පරිශ්‍රයේ නවතා ඇත්තේ ජනාධිපති ලේකම් කාර්යාලයේ එතරම් වාහන ප්‍රමාණයක් නැවැත්වීමට ඉඩ කඩ නොමැති වීම හේතුවෙන් මිස එම වාහන ප්‍රදර්ශනය කිරීමේ අරමුණින් නොවන බවද ජනාධිපති කාර්යාලය පවසයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා  පත්වීමත් සමඟ පසුගිය දින කිහිපයේ කළ දැනුම් දීම පරිදි ජනාධිපති කාර්යාලය වෙත භාර දුන් රථ වාහන 107 ක් මේ වන විට ජනාධිපති කාර්යාලයෙන් පිටත පරිශ්‍රයේ පොලිස් ආරක්ෂාව යටතේ තාවකාලිකව නවතා තිබේ.
-
-...
-
-[Data](articles/40b55573.json)
-
----
-
 ### Sri Lanka’s former state FinMin justifies last govt’s economic reforms after deflation
 
 *2024-09-30 18:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-state-finmin-justifies-last-govts-economic-reforms-after-deflation-181651/) · `en`
@@ -2285,5 +2249,57 @@ Export earnings from electrical and electronics components, other export crops, 
 [Data](articles/ddec0c8c.json)
 
 [Extended Data](ext_articles/ddec0c8c.ext.json)
+
+---
+
+### Sri Lanka sees deflation in year to September 2024, economic growth growls softly
+
+*2024-09-30 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-deflation-in-year-to-september-2024-economic-growth-growls-softly-181581/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has produced 0.1 percent deflation over the past 12-months based on the widely watched Colombo Consumer Price Index, running broadly deflationary policy with currency stability, official data show.
+
+The Colombo Consumer Price Index fell almost continuously from March 2024, except June when the currency also came under pressure from excess liquidity from dollar purchases.
+
+Sri Lanka’s central bank has produced almost no inflation for 24 months since September 2024, when its deflationary policy began to show up in the balance of payments.
+
+In March 2023, the central bank lifted a surrender rule, that had led to a collapse of the currency during a failed float in 2022, and allowed the exchange rate to appreciate from 360 to around 300 sharply bringing down traded goods and food prices, even as services went up to make up for the currency collapse.
+
+...
+
+[Data](articles/d4fd0e1a.json)
+
+[Extended Data](ext_articles/d4fd0e1a.ext.json)
+
+---
+
+### Spoon heated his daughter's body
+
+*2024-09-30 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201693) · `si`
+
+Kandy Police arrest mother for burning daughter's body. Child hospitalized, father accused. Investigation ongoing.
+
+🟩
+
+The Kandy Children's and Women's Bureau has been arrested by the Child and Women's Bureau of the Kandy Police.
+
+After the mother was produced in court, Marswaratne Navaratne was remanded until October 4.
+
+Police say the burn wounds of the girl were at around two inches magnitude, police said.
+
+Investigations have revealed that the mother had been burnt to the daughter to go back to pre-school.
+
+The burned child has been admitted to the Kandy National Hospital for treatment.
+
+The father of the child had told the police a statement that he had burned the body to the body and burned several places in the body of her daughter.
+
+Two husbandi laws were submitted to the court of the daughter.
+
+The Divisions Children's and Women's Bureau is conducting further investigations on the instructions of the Kandy Superintendent of Police Anuruddha Bandaranaike.
+
+◼️
+
+[Data](articles/051db63e.json)
+
+[Extended Data](ext_articles/051db63e.ext.json)
 
 ---

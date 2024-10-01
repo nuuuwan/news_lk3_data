@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 06:44:22**
+As of **2024-10-01 07:27:16**
 
 ## Newspaper Stats
 
-*Scraped **47,111** Articles*
+*Scraped **47,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 465
 colombotelegraphcom | 471
-islandlk | 2,763
+islandlk | 2,773
 economynextcom | 2,861
 dailyftlk | 3,161
 adalk | 4,356
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,111 (100.0%) of 47,111 articles have been extended.
+47,117 (100.0%) of 47,121 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -382,6 +382,34 @@ Helen storm recorded as the worst hurricane that hit the United States in 173 ye
 
 ### 2024-09-30 (Monday)
 
+### ‘Ballard of the Warriors’
+
+*2024-09-30 23:46:00* · [`islandlk`](http://island.lk/ballard-of-the-warriors/) · `en`
+
+The Special Forces Veterans’ Association, established for the welfare of retired war veterans, is working on a musical show to raise funds.
+
+‘Ballard of the Warriors’ will be held at the Bishop’s College Auditorium on Saturday, 9th November.
+
+The charity concert will feature some of the big names in the showbiz scene here.
+
+Billed to appear are Yohani, Kamal, Sohan, Judy, Clifford, JPal and Umaria.
+
+According to the organisers, the primary aim of this concert is to raise funds to continue the Association’s vital work in supporting and honouring the brave warriors who have served their country with distinction.
+
+President Anura Kumara Dissanayake’s Historic Win and his Promising Start
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/85ceb2db.json)
+
+[Extended Data](ext_articles/85ceb2db.ext.json)
+
+---
+
 ### A political and policy tightrope awaits Sri Lanka’s new president
 
 *2024-09-30 23:41:56* · [`dailyftlk`](https://www.ft.lk/opinion/A-political-and-policy-tightrope-awaits-Sri-Lanka-s-new-president/14-767366) · `en`
@@ -498,6 +526,36 @@ The high-level delegation is visiting the island to discuss latest economic deve
 
 ---
 
+### Beach clean-up in celebration of World Clean-Up Day
+
+*2024-09-30 23:20:00* · [`islandlk`](http://island.lk/beach-clean-up-in-celebration-of-world-clean-up-day/) · `en`
+
+In a continued effort to create a cleaner Sri Lanka, Gunadamin Elephant House, in collaboration with Muve Colombo and Cleantech, launched a comprehensive beach clean-up program from Mount Lavinia to Wellawatta to mark ‘World Clean-Up Day’. The initiative, held on 7 September, not only aimed to restore the natural beauty of the beach but also to raise awareness about responsible PET disposal and the importance of recycling for a healthier ecosystem.
+
+The program is part of an ongoing six-month partnership between Gunadamin Elephant House and Muve Colombo, ensuring daily clean-ups along the designated beach stretch. The initiative also includes the installation of bins for collection at restaurants and public entrances, making it easier for consumers to responsibly dispose of Plastic.
+
+...
+
+[Data](articles/35b0af1d.json)
+
+[Extended Data](ext_articles/35b0af1d.ext.json)
+
+---
+
+### Club Hotel Dolphin triumphs as South Asia’s Top All-Inclusive Resort at SATA 2024
+
+*2024-09-30 23:20:00* · [`islandlk`](http://island.lk/club-hotel-dolphin-triumphs-as-south-asias-top-all-inclusive-resort-at-sata-2024/) · `en`
+
+Club Hotel Dolphin, Waikkal, a premier property in the Browns Hotels & Resorts portfolio, has been recognised as the Leading All-Inclusive Resort at the South Asian Travel Awards (SATA) 2024. The ceremony took place in Kathmandu, Nepal, where Thurashath Niyatapala, General Manager, accepted the accolade at a star-studded event. SATA, considered as one of South Asia’s foremost hospitality awards, celebrates excellence in travel and tourism, acknowledging those who have contributed to shaping and elevating the industry.
+
+...
+
+[Data](articles/d8bde01f.json)
+
+[Extended Data](ext_articles/d8bde01f.ext.json)
+
+---
+
 ### Sri Lanka’s UNP open to Sajith as PM under common alliance, symbol: Saman R
 
 *2024-09-30 23:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-unp-open-to-sajith-as-pm-under-common-alliance-symbol-saman-r-181668/) · `en`
@@ -563,6 +621,50 @@ The attacks on Israel was not stopped at Lebanon and 105 people were killed in y
 [Data](articles/aa2a760c.json)
 
 [Extended Data](ext_articles/aa2a760c.ext.json)
+
+---
+
+### ‘Managing Foreign Exchange through Hedge Accounting’
+
+*2024-09-30 23:13:00* · [`islandlk`](http://island.lk/managing-foreign-exchange-through-hedge-accounting/) · `en`
+
+The National Chamber of Commerce of Sri Lanka (NCCSL) has scheduled an insightful session on Forex Market titled, ‘Managing Foreign Exchange through Hedge Accounting’ on October 4 from 3.00 p.m. to 5.00 p.m. at the National Chamber Auditorium.
+
+Guest speaker of the session would be Rajith Perera, Partner at EY and the Financial Services Risk Management Leader in Sri Lanka, a passionate advocate for sharing knowledge on the importance of managing forex.  Rajith will be sharing vital insights on the topic through his many years of experience and understanding the characteristics of the forex market as it is crucial for the success of any organization.
+
+The National Chamber of Commerce of Sri Lanka invites the interested participants to register for this insightful session.
+
+Registration details: Contact Hansi / Nethmi at 011 4 741 788 or Nishanthi at 076 2555 707, or email: nishanthi@nationalchamber.lk; hansi@nationalchamber.lk.
+
+Registration will be accepted till 12 noon of 4th October 2024.
+
+...
+
+[Data](articles/f3db036b.json)
+
+[Extended Data](ext_articles/f3db036b.ext.json)
+
+---
+
+### Share investors adopt cautious stance in run-up to IMF-govt. meet
+
+*2024-09-30 23:12:00* · [`islandlk`](http://island.lk/share-investors-adopt-cautious-stance-in-run-up-to-imf-govt-meet/) · `en`
+
+Stock market activities were somewhat positive yesterday despite there being profit- takings as some local and foreign investors adopted a cautious stance.
+
+Market analysts said that investors were cautious in the run-up to a team from the IMF visiting Sri Lanka this week and meeting President Anura Kumara Dissanayake, a top official said.
+
+The IMF team will also be making a courtesy call on Anil Jayantha, the head of the Economic Council of the President’s National people’s Power party.
+
+Amid those developments, both indices moved upwards. The All Share Price Index went up by 89.5 points while S and P SL20 rose by 49.5 points.
+
+Turnover stood at Rs 2.62 billion with two crossings. Those crossings were reported in HNB, which crossed 857,000 shares to the tune of Rs 176 million; its shares traded at Rs 205 million and JKH 116,000 shares crossed for Rs 21 million; its shares traded at Rs 180.
+
+...
+
+[Data](articles/13f3b8a9.json)
+
+[Extended Data](ext_articles/13f3b8a9.ext.json)
 
 ---
 
@@ -2207,125 +2309,5 @@ Also, the non-food annual inflation (point) is up to - 0.4% of the non-food annu
 [Data](articles/0a32db73.json)
 
 [Extended Data](ext_articles/0a32db73.ext.json)
-
----
-
-### Adjournment of the case against Wimal
-
-*2024-09-30 15:22:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமலுக்கு-எதிரான-வழக்கு-ஒத்திவைப்பு/175-344709) · `ta`
-
-Wimal Weerawansa case adjourned UN HQ protest charges postponed Oct 28 hearing
-
-🟩
-
-The case against Wimal Weerawansa has been postponed until next month.
-
-When the United Nations Human Rights Commissioner Prince Syed Al -Hussein visited Sri Lanka in 2016, the case was filed against former ministers Wimal Weerawansa, Veera Kumara Dissanayake, Mohammed Muzammil and Roger Seneviratne on charges of preventing the headquarters of the United Nations in Dummulla in Colombo..
-
-The Colombo Chief Magistrate's Court has ordered the hearing of the further evidence of the case on October 28.
-
-The order was issued when the case was taken up for hearing in the presence of Colombo Chief Magistrate Thilina Kamage on Monday (30).
-
-◼️
-
-[Data](articles/e254f7b9.json)
-
-[Extended Data](ext_articles/e254f7b9.ext.json)
-
----
-
-### CPC tried to collect dues, up to current gov to follow through: Former minister
-
-*2024-09-30 15:11:00* · [`economynextcom`](https://economynext.com/cpc-tried-to-collect-dues-up-to-current-gov-to-follow-through-former-minister-181557/) · `en`
-
-ECONOMYNEXT – The Ceylon Petroleum Corporation had taken steps to interdict officials who had failed to recover dues, and it’s now up to the current Government to follow through with the process and recover the lost revenue and pass down the benefit of the court decision to the consumers, former Minister of Power and Energy has said.
-
-Kanchana Wijesekera issued a clarification on a newspaper article that “the previous Government of President @RW_SRILANKA have failed to recover due revenue from the Petroleum Dealers.”
-
-Wijesekera said when he assumed duties in April 2022, instructions were given to CPC to recover due revenue from lease agreements, rentals and dealer margins from the decisions which were approved by the CPC board in 2006 and not implemented until 2014.
-
-“The Ministry instructed CPC in 2022 to recover the revenue that was due from 2014. When CPC started recovering in 2022 the Petroleum Dealers Association prevented CPC the recovery with an interim order against the decision.
-
-...
-
-[Data](articles/39f4cda0.json)
-
-[Extended Data](ext_articles/39f4cda0.ext.json)
-
----
-
-### New Cabinet to hold inaugural meeting today
-
-*2024-09-30 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102355/new-cabinet-to-hold-inaugural-meeting-today) · `en`
-
-The new Cabinet of Ministers is scheduled to meet this afternoon (30) for the first time under the patronage of President Anura Kumara Dissanayake.
-
-The Cabinet is scheduled to take several important decisions at this meeting, while the media will be briefed regarding these decisions following the meeting, the President’s Media Division (PMD) said.
-
-◼️
-
-[Data](articles/b740dfa0.json)
-
-[Extended Data](ext_articles/b740dfa0.ext.json)
-
----
-
-### 10 lakh postal voting applications have been printed
-
-*2024-09-30 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195136) · `ta`
-
-10 lakh postal voting apps printed for parliamentary election. Handover to Election Commission soon. Printing of all election materials including polling cards to finish a week before November 14 election date. Remaining work after October 4 nomination filing. New parliament expected to convene on November 21 based on 2024 voter registration.
-
-🟩
-
-The Department of Government Press Department has announced that printing of postal voting applications for the upcoming parliamentary election has been completed.
-
-According to the Government Press Officer Ganga Kalpani Liyanage, a total of 10 lakh postal voting applications have been printed.
-
-A constituency of printed applications has been handed over to the Election Commission yesterday and is to be presented today.
-
-Ganga Kalpani Liyanage added that all printing work on parliamentary elections, including polling and official voter cards, will be completed a week before the election on November 14.
-
-According to the Special Vardhamani announcement, the remaining printing work will begin after the nomination papers are filed from the 4th to the 11th of October.
-
-Parliamentary elections will be held on the basis of the 2024 voter registration. The newly elected parliament is expected to meet on November 21.
-
-◼️
-
-[Data](articles/bbcc8ed1.json)
-
-[Extended Data](ext_articles/bbcc8ed1.ext.json)
-
----
-
-### The list of people who have taken 107 vehicles out
-
-*2024-09-30 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201689) · `si`
-
-Here's a 200-character summary:
-
-
-
-Presidential Secretariat announces 107 vehicles temporarily assigned. Vehicles not allowed outside premises. Not for permanent staff use. Former President's vehicles returned. List of users not provided.
-
-🟩
-
-The Presidential Secretariat has issued announcement on vehicles in the premises near the Presidential Secretariat.
-
-It states that 107 vehicles handed over to the Presidential Secretariat have been temporarily handed over to the Presidential Secretariat with the security office of the Presidential Secretariat with the appointment of the new President.
-
-The vehicle also said that the vehicle vehicles were not allowed in the presidency outside the Presidential Secretariat, so he was not allowed to be parked in the Presidential Secretariat.
-
-However, it is stated in the announcement issued by the Presidential Media Unit that the Presidential Media Unit issued not to be demonstrated at all.
-
-The vehicles were not vehicles provided to the Permanent Staff of the Presidential Secretariat and the former President has been given vehicles that were appointed to the former President in his tenure.
-
-Below is the full list of those used by the vehicle.
-
-◼️
-
-[Data](articles/f4a34937.json)
-
-[Extended Data](ext_articles/f4a34937.ext.json)
 
 ---

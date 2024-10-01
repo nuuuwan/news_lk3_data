@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 15:38:56**
+As of **2024-10-01 15:57:56**
 
 ## Newspaper Stats
 
-*Scraped **47,214** Articles*
+*Scraped **47,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,117 @@ dailymirrorlk | 4,733
 adaderanalk | 5,555
 tamilmirrorlk | 6,345
 virakesarilk | 7,550
-adaderanasinhalalk | 8,160
+adaderanasinhalalk | 8,163
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,213 (100.0%) of 47,214 articles have been extended.
+47,217 (100.0%) of 47,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
 
-### එක්දින තරගයක්  මෙන් ක්‍රීඩා කළ ඉන්දු - බංග්ලාදේශ ටෙස්ට් තරගයේ ජය ඉන්දියාවට
+### Increase in stock market
+
+*2024-10-01 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201729) · `si`
+
+Stock market surge: ASPI rises 137.86 points to 11,992.91, boosting investor confidence.
+
+🟩
+
+All Stock Price Index (ASPI) increased by 137.86 units today (01).
+
+At the end of transactions, all stock price index value was recorded as 11,992.91 points.
+
+◼️
+
+[Data](articles/44fae632.json)
+
+[Extended Data](ext_articles/44fae632.ext.json)
+
+---
+
+### President of Poutin is a personal message
+
+*2024-10-01 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201728) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake received a private message from Russia's President Vladimir Putin. The meeting aimed to strengthen bilateral relations between the two nations, focusing on trade, investment, culture, and education.
+
+🟩
+
+President Anura Kumara Dissanayake met with President Vladimir Putin's private message to Sri Lanka's Sri Lankan Ambassador to Sri Lanka.
+
+The Russian Ambassador in Sri Lanka Levan s. Dzhageryan met the President and accepted the message at the Presidential Secretariat this morning.
+
+President Vladimir Putin says that the two countries are expected to strengthen bilateral relations between President Anura Kumara Dissanayake.
+
+The Presidential Media Unit added that the Sri Lankan Ambassador and President Anura Kumara Dissanayake said that Sri Lanka and Russia continued to strengthen the long-term bilateral relations between Sri Lanka and Russia.
+
+The commitment to enhance diplomatic relations on both sides is re-established.
+
+The sides also emphasized the importance of improving key areas such as trade, investment, culture and education.
+
+◼️
+
+[Data](articles/011645c6.json)
+
+[Extended Data](ext_articles/011645c6.ext.json)
+
+---
+
+### Notice to A / L Small
+
+*2024-10-01 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201727) · `si`
+
+University Admission Notice: Apply online from Oct 1 to Oct 8 for 2023/2024 academic year. Check previous notification for application details.
+
+🟩
+
+Applications have been called for the university admission to the university admission to the university admission to the resurrection results of the A / L examination and the suspension results.
+
+The University Grants Commission announced that the applications have been called for the academic year.
+
+The UGC commission says that applications can be sent online from today (01) to October 08.
+
+Further details on the submission of applications are said to have been referred to in the previous newspaper notification regarding the calling for the University approach of the University approach of the academic year 2023/2024.
+
+The University Grants Commission is informed that two weeks of the year 2023 to change the per year of the academic year for courses.
+
+◼️
+
+[Data](articles/3e15a4e2.json)
+
+[Extended Data](ext_articles/3e15a4e2.ext.json)
+
+---
+
+### India wins the Indo-Bangladesh Test series playing like one day match
 
 *2024-10-01 15:02:24* · [`adalk`](https://www.ada.lk/sports/එක්දින-තරගයක්--මෙන්-ක්‍රීඩා-කළ-ඉන්දු---බංග්ලාදේශ-ටෙස්ට්-තරගයේ-ජය-ඉන්දියාවට/9-412258) · `si`
 
-බංග්ලාදේශ කණ්ඩායමට එරෙහිව පැවති දෙවැනි ටෙස්ට් ක්‍රිකට් තරගයෙන් කඩුලු 07ක ජයක් වාර්තා කිරීමට සංචාරක ඉන්දීය කණ්ඩායම සමත් විය.
+India wins Indo-Bangladesh Test series. India recovered 7 wickets in second match. Bangladesh scored 233 runs in first innings. India won target scoring 98 runs for loss of 3 wickets. India elected in first innings. India wins tournament with both matches.
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බංග්ලාදේශ කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 233ක් රැස් කළ අතර, ඊට පිළිතුරු ඉනිම ඉන්දීය කණ්ඩායම  පළමු ඉනිමට කඩුලු 09ක් දැවී ලකුණු 285ක් ලබා සිටියදී ඉනිම අත්හිටුවීමට කටයුතු කළේය.
+🟩
 
-අනතුවරු දෙවන ඉනිම ක්‍රීඩා කළ බංග්ලාදේශ කණ්ඩායම සියලුදෙනා දැවී ලකුණු 146ක් රැස් කළේය.
+Tourist India recovered 07 wickets in seven wickets in the second Test match against Bangladesh.
 
-ඒ අනුව ජයග්‍රාහී ලකුණු 95ක ඉලක්කය හඹා ගිය ඉන්දීය කණ්ඩායම කඩුලු 03ක් පමණක් දැවී ලකුණු 98ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
+Bangladesh scored 233 runs for the first innings and in reply to the first innings in the first innings to the loss of 9 wickets.
 
-මෙහිදී ඉන්දීය කණ්ඩායම පළමු ඉනිමේදී වේගවත් ලෙස ලකුණු රැස් කරනු දක්නට ලැබිණි.
+The Bangladesh team scored 146 runs for the loss of all innings.
 
-මෙම තරගාවලියේ තරග දෙකම ජයගත් ඉන්දීය කණ්ඩායම තරගාවලියේ ජයද හිමි කරගනු ලැබුවේය.
+Accordingly, India won the target and scored 98 runs for the loss of three wickets.
+
+India was elected in the first innings.
+
+The Indian team won the tournament with both matches in the tournament.
 
 ◼️
 
 [Data](articles/b9cfc1f8.json)
+
+[Extended Data](ext_articles/b9cfc1f8.ext.json)
 
 ---
 
@@ -2299,75 +2379,5 @@ Public support for the government after the presidential election is on the rise
 [Data](articles/253c0b50.json)
 
 [Extended Data](ext_articles/253c0b50.ext.json)
-
----
-
-### More excitement for Sri Lankans in Melbourne
-
-*2024-09-30 23:49:00* · [`islandlk`](http://island.lk/more-excitement-for-sri-lankans-in-melbourne/) · `en`
-
-Sri Lankans, Down Under, especially in Melbourne, are never short of entertainment. They have something exciting to look forward to, on a regular basis, and, invariably, it comes from Sri Lankan artistes…not domiciled in Australia.
-
-Just recently we had the Gypsies who were involved in three ‘sold out’ concerts, in Perth, Sydney and Adelaide.
-
-On Friday, 20th September, it was the turn of another popular Sri Lankan artiste to do the needful, in Australia – Melantha Perera.
-
-He was featured at ‘Moratuwa Night’ held in Sydney, along with the band Redemption.
-
-On 11th October, Melantha will be seen in action again, and this time in Melbourne, with the band Ebony, at the Walawwa (Sandown Regency).
-
-Having built up a huge fan base, in Melbourne, Suzi Flückiger (better known as Suzi Croner in the local scene), is ready to give her fans another memorable happening.
-
-Suzi is billed to appear at ‘Country Night’, scheduled for Saturday, 26th October, at The Grand On Princess.
-
-...
-
-[Data](articles/793f64f5.json)
-
-[Extended Data](ext_articles/793f64f5.ext.json)
-
----
-
-### ‘Ballard of the Warriors’
-
-*2024-09-30 23:46:00* · [`islandlk`](http://island.lk/ballard-of-the-warriors/) · `en`
-
-The Special Forces Veterans’ Association, established for the welfare of retired war veterans, is working on a musical show to raise funds.
-
-‘Ballard of the Warriors’ will be held at the Bishop’s College Auditorium on Saturday, 9th November.
-
-The charity concert will feature some of the big names in the showbiz scene here.
-
-Billed to appear are Yohani, Kamal, Sohan, Judy, Clifford, JPal and Umaria.
-
-According to the organisers, the primary aim of this concert is to raise funds to continue the Association’s vital work in supporting and honouring the brave warriors who have served their country with distinction.
-
-President Anura Kumara Dissanayake’s Historic Win and his Promising Start
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/85ceb2db.json)
-
-[Extended Data](ext_articles/85ceb2db.ext.json)
-
----
-
-### A political and policy tightrope awaits Sri Lanka’s new president
-
-*2024-09-30 23:41:56* · [`dailyftlk`](https://www.ft.lk/opinion/A-political-and-policy-tightrope-awaits-Sri-Lanka-s-new-president/14-767366) · `en`
-
-Anura Kumara Dissanayake has emerged victorious in Sri Lanka’s Presidential election, held on 21 September 2024. Dissanayake, who obtained 42.3% of the votes, managed to secure victory over his closest competitor Sajith Premadasa, who gained 32.8% of votes.
-
-This represents a historic change in the country. For the first time in Sri Lanka’s post-independence history, a candidate belonging to neither of the two main elite parties or their offshoots has come to power. Incumbent president Ranil Wickremesinghe came in a distant third, with 17.3% of the votes. Namal Rajapaksa, the son of former president Mahinda Rajapaksa, came fourth with a mere 2.6% of the votes.
-
-...
-
-[Data](articles/66f76ce4.json)
-
-[Extended Data](ext_articles/66f76ce4.ext.json)
 
 ---

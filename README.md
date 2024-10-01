@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 14:38:41**
+As of **2024-10-01 15:10:10**
 
 ## Newspaper Stats
 
-*Scraped **47,206** Articles*
+*Scraped **47,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,47 @@ newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 465
 colombotelegraphcom | 471
-islandlk | 2,777
+islandlk | 2,778
 economynextcom | 2,871
 dailyftlk | 3,162
-adalk | 4,369
+adalk | 4,370
 dailymirrorlk | 4,733
-adaderanalk | 5,554
+adaderanalk | 5,555
 tamilmirrorlk | 6,344
-virakesarilk | 7,548
+virakesarilk | 7,550
 adaderanasinhalalk | 8,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,206 (100.0%) of 47,206 articles have been extended.
+47,211 (100.0%) of 47,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Russian Ambassador calls on President; delivers personal message from Putin
+
+*2024-10-01 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102379/russian-ambassador-calls-on-president-delivers-personal-message-from-putin-) · `en`
+
+Ambassador of the Russian Federation to Sri Lanka, Levan S. Dzhagaryan has called on newly elected President Anura Kumara Dissanayake this morning (01) at the Presidential Secretariat.
+
+During the meeting, Ambassador Dzhagaryan extended his warm congratulations to President Dissanayake on his recent election and delivered a personal message from Russian President Vladimir Putin, according to the PMD.
+
+President Putin in his message states, that he expects that the bilateral relationship between the two countries will deepen under the leadership of President Anura Dissanayake, the statement said.
+
+The discussions focused on strengthening the longstanding bilateral relations between Sri Lanka and Russia.
+
+Both parties highlighted the importance of enhancing cooperation in key areas such as trade, investment, culture, and education, while reaffirming their commitment to deepening diplomatic ties for the mutual benefit of both nations.
+
+◼️
+
+[Data](articles/404c45ad.json)
+
+[Extended Data](ext_articles/404c45ad.ext.json)
+
+---
 
 ### School bus catches fire in Thailand, 25 feared dead
 
@@ -59,6 +81,8 @@ The blaze was later extinguished. A Reuters photographer saw fire trucks, police
 *2024-10-01 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102377/bus-fares-reduced) · `en`
 
 Bus fares have been reduced by 4.24%, effective from midnight today (Oct. 01), according to the National Transport Commission (NTC).
+
+Meanwhile, the minimum fare has been reduced by one rupee to Rs. 27.
 
 ◼️
 
@@ -170,6 +194,30 @@ Dhammika Perera owns 51.01% of the share capital of Hayleys PLC.
 
 ---
 
+### National Reading Month and Children's Day in Trincomalee
+
+*2024-10-01 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195220) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National Reading Month kicked off on January 1st in Trincomalee. A new library was inaugurated at the National Library. Special children's events were organized for Children's Day celebrations.
+
+🟩
+
+The National Reading Month Event for the Year commenced on Tuesday (01) on Tuesday (01).. The National Reading Monthly Advertisement Library was built at the main gate of the National Library.
+
+A special events for children were held on the occasion of Children's Day.
+
+◼️
+
+[Data](articles/823ce502.json)
+
+[Extended Data](ext_articles/823ce502.ext.json)
+
+---
+
 ### Action to call diplomats
 
 *2024-10-01 13:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜதந்திரிகளை-மீள-அழைக்க-நடவடிக்கை/175-344759) · `ta`
@@ -241,6 +289,32 @@ Dhammika Perera holds 382,596,970 (51.01%) of the ordinary shares of Hayleys PLC
 [Data](articles/61d9c5c7.json)
 
 [Extended Data](ext_articles/61d9c5c7.ext.json)
+
+---
+
+### The person who caused confusion in the struggle of the missing relations of the president's name!
+
+*2024-10-01 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195230) · `ta`
+
+Protests erupted in Vavuniya over missing relatives. Demonstrators clashed with an unidentified individual supporting President Anura Kumara Dissanayake. Tensions rose as police threatened arrests, dispersing the crowd after warnings.
+
+🟩
+
+During the protests carried out on Tuesday (01) due to missing relations in Vavuniya, there was a tense situation as President Anura Kumara Dissanayake was a supporter of Kumara Dissanayake.
+
+A demonstration was staged at the old bus station in Vavuniya by the Association of Missing Relations today.
+
+It is an unidentified person who came to the area.. The money is coming to you. He is in conflict with the mother of the struggle.
+
+Will catch you in the police. I stand for two years with Anura Kumara. The police and the intelligence unit will come and arrest you now. Dogs scolds everyone to go home.
+
+This caused confusion in the area. After a while, the person had been dispersed from the area to threaten them.
+
+◼️
+
+[Data](articles/487c6622.json)
+
+[Extended Data](ext_articles/487c6622.ext.json)
 
 ---
 
@@ -478,6 +552,30 @@ Meanwhile, the services from Point Pedro via Amban Maruthankani were not able to
 
 ---
 
+### Two instructors to the President on the Hon. On the Hon.
+
+*2024-10-01 12:43:10* · [`adalk`](https://www.ada.lk/breaking_news/ගරු-සේවා-පදනම-මත-ජනපතිට-උපදේශකවරුන්-දෙදෙනෙක්/11-412254) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"President approves appointment of two advisors: Duminda Hulangamuwa and Dr. AA JJ for economic and financial roles."
+
+🟩
+
+Cabinet approval has been granted to appoint two instructors to the President on the Hon.
+
+Accordingly, Duminda Hulangamuwa and Dr. AA JJ for two economic and money Presidential posts.. Fernando has been appointed.
+
+◼️
+
+[Data](articles/f0c5ea06.json)
+
+[Extended Data](ext_articles/f0c5ea06.ext.json)
+
+---
+
 ### Mayank Yadav call for Indian team
 
 *2024-10-01 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201721) · `si`
@@ -698,6 +796,12 @@ The Elections Commission announced that the 2124 general election is used for th
 
 President Anura Kumara Dissanayake has instructed to suspend the evaluation of answer sheets of the Grade 05 Scholarship Examination for two weeks, the President’s Media Division said.
 
+A meeting took place yesterday afternoon (30) at the Presidential Secretariat between President Anura Kumara Dissanayake and a group of parents who had protested regarding the recent Grade 5 Scholarship Examination question paper issue.
+
+Following the discussion, the President directed the relevant officials to suspend the evaluation of the Grade 5 Scholarship Examination answer sheets for two weeks, the according to the President’s Media Division.
+
+Additionally, the parents have requested that the President to consider holding a re-examination for the first paper of the Grade 5 Scholarship Examination, as they claimed eight questions, and not three, were leaked prior to the exam.
+
 ◼️
 
 [Data](articles/a16128fa.json)
@@ -858,9 +962,11 @@ Sri Lanka will also discuss about domestic debt restructuring since there have b
 
 The Additional Secretary of Public Security Ministry, B.M.D. Nilusha Balasuriya, has been appointed as the Acting Controller General of Immigration and Emigration, said the Cabinet Spokesman, Minister Vijitha Herath.
 
-This decision follows the remand of the former Controller General of Immigration and Emigration I.S.H.J. Illukpitiya, who has been ordered remanded from September 24 by the Supreme Court over contempt charges.
+This decision follows the recent remand of the former Controller General of Immigration and Emigration I.S.H.J. Illukpitiya, who has been ordered remanded from September 25 by the Supreme Court over contempt charges.
 
-◼️
+Since Mr. I.S.H.J. Illukpitiya, who served as a Controller General of Immigration and Emigration, has been remanded from 25-09-2024 on Supreme Court Order, a suitable officer should be appointed to perform the duties in the said post, the cabinet spokesman said.
+
+...
 
 [Data](articles/ef7b47fa.json)
 
@@ -2253,91 +2359,5 @@ He has over 35 years of experience in business and is on the Boards of several q
 [Data](articles/d265d6f4.json)
 
 [Extended Data](ext_articles/d265d6f4.ext.json)
-
----
-
-### The solution to the parents of the President to the President
-
-*2024-09-30 23:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201707) · `si`
-
-Parents protest Grade 5 Scholarship Examination question paper issue. President meets parents, discusses stopping test and adding first sheet.
-
-🟩
-
-Parents' Examination Question Paper Examination The Scholarship Examination said the scholarship examination question paper said that the President was instructing that the answer scholarship examination would be investigated.
-
-They said that when he met the President this afternoon, they added.
-
-They said he had requested the president as well as the first sheet.
-
-A parent protests in Battaramulla and Colombo, calling for a solution to the question paper of the Grade 5 Scholarship Examination.
-
-Later, they remained near the Presidential Secretariat, and six parents have a discussion with the President.
-
-"He was saying he would stop the test. We made a request to put the first sheet.
-
-◼️
-
-[Data](articles/c4b8e283.json)
-
-[Extended Data](ext_articles/c4b8e283.ext.json)
-
----
-
-### President’s invitation for constructive criticism; some points to consider
-
-*2024-09-30 23:27:10* · [`dailyftlk`](https://www.ft.lk/columns/President-s-invitation-for-constructive-criticism-some-points-to-consider/4-767361) · `en`
-
-What has to be understood is the fact that over the years, what has happened is that Governments have only ‘managed’ the economy, and that too not very well, and not developed the economy. This indicates that a fundamental change in thinking is required. To do so, a great change in thinking is urgently required. Though the political will to do so has been expressed, I am not too certain, that the process to achieve has been understood
-
-...
-
-[Data](articles/1b8031ca.json)
-
-[Extended Data](ext_articles/1b8031ca.ext.json)
-
----
-
-### IMF team to arrive on Wednesday
-
-*2024-09-30 23:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201706) · `si`
-
-IMF team arrives Wednesday: Top official visits Sri Lanka Oct 2-4. Director of Asia Pacific Department leads delegation. Discusses economy program with President Anura Kumara Dissanayake and officials.
-
-🟩
-
-It is reported that a top official of the IMF is due to visit Sri Lanka from October 2 to 4.
-
-The head of the group is the Director of the Asia Pacific Department as the Director of the Asia Pacific Department.
-
-The International Monetary Fund a spokesman said that President Anura Kumara Dissanayake and other officials of the International Monetary Fund said that President Anura Kumara Dissanayake and other officials will be discussed.
-
-The International Monetary Fund is due to discuss the economy program in the country.
-
-◼️
-
-[Data](articles/9a418210.json)
-
-[Extended Data](ext_articles/9a418210.ext.json)
-
----
-
-### No nominations for Sri Lanka Podujana Peramuna “betrayers”: gen secy
-
-*2024-09-30 23:27:00* · [`economynextcom`](https://economynext.com/no-nominations-for-sri-lanka-podujana-peramuna-betrayers-gen-secy-181671/) · `en`
-
-ECONOMYNEXT — Former ruling party Sri Lanka Podujana Peramuna (SLPP) will not appoint any of its recent dissenters to high positions in the party, nor will they receive nominations for the November 2024 parliamentary election, according to an official.
-
-SLPP general secretary Sagara Kariyawasam told reporters on Monday September 30 that the party has decided to contest the election under its own lotus bud symbol in every district.
-
-“We have decided to contest in every district in Sri Lanka under the lotus symbol and to emerge strong and face this election with a strong team and win,” he said.
-
-“We stand firmly by the decision we took as a party. No one who betrayed the party will be appointed to high office in the party, nor will they receive nominations for the election,” he added.
-
-...
-
-[Data](articles/dbafd72e.json)
-
-[Extended Data](ext_articles/dbafd72e.ext.json)
 
 ---

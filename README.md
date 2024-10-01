@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 21:10:26**
+As of **2024-10-01 21:38:49**
 
 ## Newspaper Stats
 
-*Scraped **47,252** Articles*
+*Scraped **47,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 3,162
 adalk | 4,376
 dailymirrorlk | 4,733
 adaderanalk | 5,562
-tamilmirrorlk | 6,346
+tamilmirrorlk | 6,347
 virakesarilk | 7,561
-adaderanasinhalalk | 8,172
+adaderanasinhalalk | 8,173
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,252 (100.0%) of 47,252 articles have been extended.
+47,254 (100.0%) of 47,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Change in Litro price?
+
+*2024-10-01 21:17:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-விலையில்-மாற்றம்/175-344766) · `ta`
+
+Litro Gas denies price hike, cites efficient operations. No change in cooking gas prices despite global LP gas cost increase. Company emphasizes effective stock and operational management benefits consumers.
+
+🟩
+
+Litro gas company said there was no change in the price of cooking gas.
+
+The company has issued a statement that it has decided not to increase the price of domestic gas, despite the increase in the price of LP gas in the international market in October.
+
+Litro Gas Ceylon also reports that the best stock management and operational management has been able to provide relief to consumers. Remble
+
+◼️
+
+[Data](articles/2c7bbf02.json)
+
+[Extended Data](ext_articles/2c7bbf02.ext.json)
+
+---
+
+### We agree with the decision of the Election Commission - Vijitha Herath
+
+*2024-10-01 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201739) · `si`
+
+Election Commission suspends fertilizer subsidy due to elections. Cabinet agrees. Farmers protest delay.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath today (01), said that the Elections Commission to temporarily suspend the fertilizer subsidy of Rs. 25,000.
+
+"The Election Commission has to suspend it due to this election. We agree to the Election Commission verdict. We are working accordingly. "
+
+President Anura Kumara Dissanayake took steps to increase the Rs.
+
+However, the Elections Commission to temporarily suspend the subsidy to the subsidy of the event.
+
+The Elections Commission had informed the execution of the proposal after the election.
+
+Meanwhile, the National Organization has lodged a complaint to the Elections Commission this afternoon, protesting the relevant action taken by the election commission.
+
+Farmers' organizations have warned that if the fertilizer subsidy for the approachable subsidy is delayed in the face of the situation.
+
+◼️
+
+[Data](articles/48c48cd1.json)
+
+[Extended Data](ext_articles/48c48cd1.ext.json)
+
+---
 
 ### Many information about the murder of Hanwella
 
@@ -2403,59 +2455,5 @@ The Election Commission states that applications must be submitted to the Distri
 [Data](articles/255a5197.json)
 
 [Extended Data](ext_articles/255a5197.ext.json)
-
----
-
-### Kihi Pathana in Shanghai, China
-
-*2024-10-01 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201715) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Shanghai supermarket attack: 3 dead, 15 injured. Suspect, 37, arrested. Police say motive was financial stress. Incident occurred on 30th.
-
-🟩
-
-Foreign media reports that three were killed and 15 others wounded in Shanghai's supermarket complex.
-
-The suspect, 37-year-old had been arrested in connection with the incident yesterday (30).
-
-A police spokesman has said that the person who was facing a heavy economic problem has committed this crime to eject his anger.
-
-◼️
-
-[Data](articles/427a62b5.json)
-
-[Extended Data](ext_articles/427a62b5.ext.json)
-
----
-
-### Order to close the liquor school in Mannar following strong opposition
-
-*2024-10-01 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195191) · `ta`
-
-Liquor school closure order issued due to public opposition in Mannar. Protesters demonstrated against the establishment near a youth training center and school. Local officials met with residents to address concerns. The state government has temporarily closed the facility pending further action.
-
-🟩
-
-The Liquor Department Commissioner has ordered the immediate closure of the newly opened liquor school near the Mannar, Talaimannar main road, Piroor junction.
-
-People gathered in the Mannar, Talaimannar main road, near the Junction of Velur on Monday (30).
-
-The area where the liquor is located is found in people's immigration, youth training center, Common and schoolhouse. People have complained that the liquor store has been opened here despite the opposition of the people.
-
-Similarly, the people of the area staged a demonstration in front of the Mannar District Secretariat and handed over a hand to the Mannar District Government Agent demanding not to open the liquor school.
-
-Hundreds of people gathered with an autopsy on Monday (30) yesterday (30).
-
-Mannar Divisional Secretary M. Pradeep, Mannar District Government Agent K. Kanakeswaran visited the spot and discussed with the people.
-
-...
-
-[Data](articles/ee1612f1.json)
-
-[Extended Data](ext_articles/ee1612f1.ext.json)
 
 ---

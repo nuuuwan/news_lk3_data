@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 15:10:10**
+As of **2024-10-01 15:22:56**
 
 ## Newspaper Stats
 
-*Scraped **47,211** Articles*
+*Scraped **47,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ dailyftlk | 3,162
 adalk | 4,370
 dailymirrorlk | 4,733
 adaderanalk | 5,555
-tamilmirrorlk | 6,344
+tamilmirrorlk | 6,345
 virakesarilk | 7,550
-adaderanasinhalalk | 8,159
+adaderanasinhalalk | 8,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,211 (100.0%) of 47,211 articles have been extended.
+47,211 (100.0%) of 47,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### புதிய ஜனாதிபதிக்கு   ஸ்ரீதரன்  வாழ்த்து
+
+*2024-10-01 15:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-ஸ்ரீதரன்-வாழ்த்து/175-344762) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின்   யாழ்.மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் எஸ். ஸ்ரீதரன் இன்று (01) முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை சந்தித்தார்.
+
+இலங்கையின் ஒன்பதாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக மக்கள் இறைமையின் ஊடாகத் தெரிவு செய்யப்பட்ட  அநுரகுமார திசாநாயக்கவுக்கு வாழ்த்துத் தெரிவித்த எஸ். ஸ்ரீதரன் , ஜனாதிபதியுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்டார்.
+
+◼️
+
+[Data](articles/ce0ad5ce.json)
+
+---
+
+### තායිලන්තයෙන් වාර්තා වූ ඛේදවාචකය
+
+*2024-10-01 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201726) · `si`
+
+තායිලන්තයේ පාසල් සිසුන් සහ ගුරුවරුන් පිරිසක් ක්ෂේත්‍ර චාරිකාවක් සඳහා ගමන් කරමින් සිටි බස් රථය ගිනි ගැනීමෙන් 25 දෙනෙක් පමණ මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+අද (01) එම අනතුර සිදුව ඇත්තේ තායිලන්ත අගනුවරට ආසන්න ප්‍රදේශයක දීය.
+
+◼️
+
+[Data](articles/9b0698d4.json)
+
+---
 
 ### Russian Ambassador calls on President; delivers personal message from Putin
 
@@ -2323,41 +2351,5 @@ First, we must congratulate the Chairperson, R.M.A.L. Rathnayake, the Election C
 [Data](articles/b22ac744.json)
 
 [Extended Data](ext_articles/b22ac744.ext.json)
-
----
-
-### Old Wines in New Democracies:Education in the making
-
-*2024-09-30 23:39:00* · [`islandlk`](http://island.lk/old-wines-in-new-democracieseducation-in-the-making/) · `en`
-
-These are new times indeed. The country is in a celebratory mood. We have a brand new President, and a brand new Prime Minister, who would both enjoy an anticipated majority in Parliament – a government that has infused the people with much hope. Though we have not seen a decisive victory for the new President, the country has woken up to the remarkable change the Presidential election has ushered. The times are also critical. This is the first election after the protests of 2022 – the Aragalaya-Porattam-Struggle movement. Since independence we have seen a see-sawing between two traditional parties, the UNP and the SLFP and their offshoots, coalitions, etc. In Dissanayake, we have a completely new face, a new class of face, a new ethos of politics in the promise that corruption will be eliminated from the practice of governance.
-
-...
-
-[Data](articles/49422f32.json)
-
-[Extended Data](ext_articles/49422f32.ext.json)
-
----
-
-### Dhammika Perera returns to Sri Lanka’s Hayleys board
-
-*2024-09-30 23:37:00* · [`economynextcom`](https://economynext.com/dhammika-perera-returns-to-sri-lankas-hayleys-board-181672/) · `en`
-
-ECONOMYNEXT – Dhammika Perera will be appointed as Co-Chairman of Hayleys Plc and non-executive director to its Board with effect from October 1.
-
-Kulappu Arachchige Don Dhammika Perera is a “philanthropist, quintessential strategist and business leader with interests in various key industries, including manufacturing, banking and finance, leisure, plantations, and hydropower generation” Hayleys said in a stock exchange filing.
-
-Perera holds 382,596,970 (51.01%) of the ordinary shares of Hayleys Plc as at date.
-
-He was formerly its Co-Chairman, but left when he entered politics in 2022.
-
-He has over 35 years of experience in business and is on the Boards of several quoted and unquoted companies. (Colombo/Sep30/2024)
-
-◼️
-
-[Data](articles/d265d6f4.json)
-
-[Extended Data](ext_articles/d265d6f4.ext.json)
 
 ---

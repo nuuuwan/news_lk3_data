@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 20:57:58**
+As of **2024-10-01 21:10:26**
 
 ## Newspaper Stats
 
-*Scraped **47,251** Articles*
+*Scraped **47,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 472
 islandlk | 2,778
 economynextcom | 2,871
 dailyftlk | 3,162
-adalk | 4,375
+adalk | 4,376
 dailymirrorlk | 4,733
 adaderanalk | 5,562
 tamilmirrorlk | 6,346
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,172
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,251 (100.0%) of 47,251 articles have been extended.
+47,252 (100.0%) of 47,252 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -201,6 +201,30 @@ Senior Additional Secretary to the Presidential Secretariat Rosh Hewavitharana, 
 [Data](articles/7c08a327.json)
 
 [Extended Data](ext_articles/7c08a327.ext.json)
+
+---
+
+### President of Russian President's Poutin
+
+*2024-10-01 18:09:41* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-ජනපති-පුටින්ගෙන්-ජනපති-අනුරට-පුද්ගලික-පණිවිඩයක්/11-412262) · `si`
+
+Russian Ambassador Levan Dzhagaryan met Sri Lankan President Anura Kumara Dissanayake. They discussed strengthening ties between their countries, focusing on diplomacy and mutual cooperation.
+
+🟩
+
+Ambassador of the Russian Federation in Sri Lanka. Jagaraan (Levan s. Dzhagaryan met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
+
+Ambassador to this meeting. Jagarron congratulated President Dissanayake recently to the elected President Dissanayake.
+
+President Putin was expected to be increasingly strengthened by the two countries under the leadership of President Anura Kumara Dissanayake.
+
+The discussion focused on further strengthening the commitment to enhance the lengthy diplomatic relations between Sri Lanka and Russia.The two sides also emphasized the importance of improving.
+
+◼️
+
+[Data](articles/434a7df3.json)
+
+[Extended Data](ext_articles/434a7df3.ext.json)
 
 ---
 
@@ -2433,33 +2457,5 @@ Mannar Divisional Secretary M. Pradeep, Mannar District Government Agent K. Kana
 [Data](articles/ee1612f1.json)
 
 [Extended Data](ext_articles/ee1612f1.ext.json)
-
----
-
-### We will create the world of boys: President greeting
-
-*2024-10-01 09:57:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களின்-உலகத்தை-உருவாக்குவோம்-ஜனாதிபதி-வாழ்த்து/175-344746) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake addresses children's day, highlighting challenges like poverty, education inequality, and technology misuse. He aims to create a world where children thrive physically and mentally, fostering imagination and economic freedom while protecting natural resources.
-
-🟩
-
-The world is for boys. President Anura Kumara Dissanayake said in his children's day greeting.
-
-We have identified the challenges faced by children in this milenium, such as poverty, nutrition, health and health care, educational inequality, inequality in social opportunities, as well as the misuse of technology.
-
-Moreover, the main objective of our revival work is to free the child the children's world and re -provide them with the child's world of children from the impacts of the social effects of children's psychological development and the educational methods that focus on a stressful examination.
-
-We believe that by creating the generation of healthy children by body and in the body, we are creating the free fantasy and classic men who have the freedom imagination that will conquer the future.
-
-...
-
-[Data](articles/af7e1c58.json)
-
-[Extended Data](ext_articles/af7e1c58.ext.json)
 
 ---

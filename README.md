@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 13:39:24**
+As of **2024-10-01 13:58:31**
 
 ## Newspaper Stats
 
-*Scraped **47,194** Articles*
+*Scraped **47,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,108 @@ colombotelegraphcom | 471
 islandlk | 2,776
 economynextcom | 2,871
 dailyftlk | 3,162
-adalk | 4,368
+adalk | 4,369
 dailymirrorlk | 4,733
-adaderanalk | 5,550
-tamilmirrorlk | 6,342
+adaderanalk | 5,551
+tamilmirrorlk | 6,343
 virakesarilk | 7,548
-adaderanasinhalalk | 8,155
+adaderanasinhalalk | 8,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,194 (100.0%) of 47,194 articles have been extended.
+47,198 (100.0%) of 47,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Action to return to the Ambassadors
+
+*2024-10-01 13:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூதுவர்கள்-உயர்ஸ்தானிகர்களை-மீள-அழைக்க-நடவடிக்கை/175-344759) · `ta`
+
+Sri Lanka government plans to recover diplomatic posts from politically appointed ambassadors. Report being prepared to restore positions based on merit, not family ties. No immediate changes expected for current diplomats.
+
+🟩
+
+The government has taken steps to return to the ambassadors and high -rankings appointed on the basis of political strength and faith.
+
+Speaking to the media at a weekly meeting announcing the Cabinet decisions, Minister Vijitha Herath said the report was being prepared.
+
+Based on this report, the posts of political appointments will be recovered, he said.
+
+"Many sons and daughters of MPs have been given diplomatic appointments," he said.
+
+However, the Minister said that none of the Sri Lankan diplomats would be immediately recovered.
+
+◼️
+
+[Data](articles/c4667d6e.json)
+
+[Extended Data](ext_articles/c4667d6e.ext.json)
+
+---
+
+### Dhammika Perera re-appointed Co-Chairman of Hayleys PLC
+
+*2024-10-01 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102375/dhammika-perera-re-appointed-co-chairman-of-hayleys-plc) · `en`
+
+Dhammika Perera has been re-appointed as the Non-Executive Director to the Board and as the Co-Chairman of Hayleys PLC with effect from today (October 01).
+
+◼️
+
+[Data](articles/61d9c5c7.json)
+
+[Extended Data](ext_articles/61d9c5c7.ext.json)
+
+---
+
+### US Ambassador meets President
+
+*2024-10-01 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201722) · `si`
+
+US Ambassador meets President Anura Kumara Dissanayake. Discusses strengthening bilateral relations, economic, and social cooperation between US and Sri Lanka.
+
+🟩
+
+President Anura Kumara Dissanayake and US Ambassador to US Ambassador to the Presidential Secretariat was held this morning.
+
+The continuous development of strong bilateral relations between US and Sri Lanka have been discussed.
+
+The Presidential Media Unit announced that it was also paid to strengthening diplomatic relations between the two countries as well as economic and social cooperation.
+
+◼️
+
+[Data](articles/b398ae82.json)
+
+[Extended Data](ext_articles/b398ae82.ext.json)
+
+---
+
+### Superfluous King's Karan hospitalized
+
+*2024-10-01 13:21:12* · [`adalk`](https://www.ada.lk/breaking_news/සුපිරි-නළු-රජිනි-කාන්ත්-රෝහල්-ගත-කරයි/11-412256) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Superfluous King Karan hospitalized at South Indiana Rajaini Kanny Hospital. Media reports indicate a conscious doctor will conduct investigations."
+
+🟩
+
+South Indiana Rajaini Kanny Hospital has been hospitalized.
+
+The media reports also stated that a conscious doctor will be conducting several investigations.
+
+◼️
+
+[Data](articles/a8c502c1.json)
+
+[Extended Data](ext_articles/a8c502c1.ext.json)
+
+---
 
 ### New Chairman appointment to Litro
 
@@ -2215,77 +2301,5 @@ Registration will be accepted till 12 noon of 4th October 2024.
 [Data](articles/f3db036b.json)
 
 [Extended Data](ext_articles/f3db036b.ext.json)
-
----
-
-### There is no decision about the next politics
-
-*2024-09-30 23:12:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දේශපාලනය-ගැන-තවමත්-තීරණයක්-නෑ/11-412245) · `si`
-
-No decision made on future politics. Speaker Mahinda Yapa Abeywardena states no immediate action planned. Future decisions will be based on current situations. No general election ordered yet.
-
-🟩
-
-Mr. Hon. Speaker Mahinda Yapa Abeywardena told the 'Today' to 'Today' newspaper.
-
-He added that a decision would be taken in the future.
-
-"Not yet a decision. If someone is doing, he helps him. Let's see what happens. There is no order for general election. Anyway, I have not yet decided what I'm doing in the future. "
-
-◼️
-
-[Data](articles/4ed046f5.json)
-
-[Extended Data](ext_articles/4ed046f5.ext.json)
-
----
-
-### Share investors adopt cautious stance in run-up to IMF-govt. meet
-
-*2024-09-30 23:12:00* · [`islandlk`](http://island.lk/share-investors-adopt-cautious-stance-in-run-up-to-imf-govt-meet/) · `en`
-
-Stock market activities were somewhat positive yesterday despite there being profit- takings as some local and foreign investors adopted a cautious stance.
-
-Market analysts said that investors were cautious in the run-up to a team from the IMF visiting Sri Lanka this week and meeting President Anura Kumara Dissanayake, a top official said.
-
-The IMF team will also be making a courtesy call on Anil Jayantha, the head of the Economic Council of the President’s National people’s Power party.
-
-Amid those developments, both indices moved upwards. The All Share Price Index went up by 89.5 points while S and P SL20 rose by 49.5 points.
-
-Turnover stood at Rs 2.62 billion with two crossings. Those crossings were reported in HNB, which crossed 857,000 shares to the tune of Rs 176 million; its shares traded at Rs 205 million and JKH 116,000 shares crossed for Rs 21 million; its shares traded at Rs 180.
-
-...
-
-[Data](articles/13f3b8a9.json)
-
-[Extended Data](ext_articles/13f3b8a9.ext.json)
-
----
-
-### The change started, but it will not be ending
-
-*2024-09-30 23:10:01* · [`dailyftlk`](https://www.ft.lk/columns/The-change-started-but-it-will-not-be-ending/4-767359) · `en`
-
-There are many election manifestos flying around these days issued by the major contenders for the next Presidential election on 21 September 2024. This much awaited contest has a very significant focus on the national economy which is still in the grips of a dire emergency, irrespective of the claims of recovery made by those in power.
-
-...
-
-[Data](articles/2027a3d2.json)
-
-[Extended Data](ext_articles/2027a3d2.ext.json)
-
----
-
-### Sustainable, future proof and visionary energy policy for Sri Lanka
-
-*2024-09-30 23:10:01* · [`dailyftlk`](https://www.ft.lk/columns/Sustainable-future-proof-and-visionary-energy-policy-for-Sri-Lanka/4-767359) · `en`
-
-There are many election manifestos flying around these days issued by the major contenders for the next Presidential election on 21 September 2024. This much awaited contest has a very significant focus on the national economy which is still in the grips of a dire emergency, irrespective of the claims of recovery made by those in power.
-
-...
-
-[Data](articles/5519b8bf.json)
-
-[Extended Data](ext_articles/5519b8bf.ext.json)
 
 ---

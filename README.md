@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 14:12:54**
+As of **2024-10-01 14:24:55**
 
 ## Newspaper Stats
 
-*Scraped **47,198** Articles*
+*Scraped **47,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 465
 colombotelegraphcom | 471
-islandlk | 2,776
+islandlk | 2,777
 economynextcom | 2,871
 dailyftlk | 3,162
 adalk | 4,369
 dailymirrorlk | 4,733
-adaderanalk | 5,551
+adaderanalk | 5,553
 tamilmirrorlk | 6,343
 virakesarilk | 7,548
 adaderanasinhalalk | 8,156
@@ -26,11 +26,41 @@ adaderanasinhalalk | 8,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,198 (100.0%) of 47,198 articles have been extended.
+47,198 (100.0%) of 47,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Bus fares reduced
+
+*2024-10-01 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102377/bus-fares-reduced) · `en`
+
+Bus fares have been reduced by 4.24%, effective from midnight today (Oct. 01), according to the National Transport Commission (NTC).
+
+◼️
+
+[Data](articles/75e6b192.json)
+
+---
+
+### US Ambassador Julie Chung calls on President Dissanayake
+
+*2024-10-01 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102376/us-ambassador-julie-chung-calls-on-president-dissanayake) · `en`
+
+President Anura Kumara Dissanayake has met with U.S. Ambassador Julie J. Chung at the Presidential Secretariat in Colombo, today (01).
+
+Ambassador Chung extended her warm congratulations to President Dissanayake on his recent inauguration and emphasized the importance of fostering robust bilateral relations between the United States and Sri Lanka.
+
+Particular focus was placed on enhancing diplomatic relations between the United States and Sri Lanka, along with fostering economic and social cooperation in areas of mutual interest to both nations, the President’s Media Division (PMD) said.
+
+Meanwhile, in a post on ‘X’ (formerly Twitter), the US Ambassador said it was a pleasure to meet with President Dissanayake Anura Kumara Dissanayake to discuss the enduring U.S.-Sri Lanka partnership.
+
+...
+
+[Data](articles/ee589ff8.json)
+
+---
 
 ### Action to return to the Ambassadors
 
@@ -2255,59 +2285,5 @@ An outspoken activist justified his support for Anura Kumara Dissanayake (AKD) b
 [Data](articles/02f57cfb.json)
 
 [Extended Data](ext_articles/02f57cfb.ext.json)
-
----
-
-### Israel's next preparation
-
-*2024-09-30 23:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201705) · `si`
-
-Israel prepares for potential land incursion into Lebanon. US informs Israel about its plans. Hezbollah warns of possible Israeli ground assault. Israeli airstrikes continue, killing 105 in Lebanon. Hezbollah leader's body discovered, funeral details pending. Tensions escalate between Israel and Lebanon.
-
-🟩
-
-The United States has informed the United States that Israel is looking to lands down to Lebanon.
-
-It has been reported that Israel has informed an American official that the attacks are launched today (30).
-
-Meanwhile, the Lebanese-Israeli border was directed to Israeli border to intensify the risk of a ground attack on Lebanon.
-
-Hezbollah's Deputy Leader Shaik Nimi coins were emphasized to face a Israeli lands attack on the nation.
-
-Meanwhile, Sadid Hassan Nasaralla, Leader of the Hezbolnewan, the leader of the Hezbolleh in Lebanon, died of an Israeli airline.
-
-The body of Hezbollah leader was found yesterday (29).
-
-The date of the funeral will have not been revealed yet.
-
-The attacks on Israel was not stopped at Lebanon and 105 people were killed in yesterday's attacks.
-
-◼️
-
-[Data](articles/aa2a760c.json)
-
-[Extended Data](ext_articles/aa2a760c.ext.json)
-
----
-
-### ‘Managing Foreign Exchange through Hedge Accounting’
-
-*2024-09-30 23:13:00* · [`islandlk`](http://island.lk/managing-foreign-exchange-through-hedge-accounting/) · `en`
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) has scheduled an insightful session on Forex Market titled, ‘Managing Foreign Exchange through Hedge Accounting’ on October 4 from 3.00 p.m. to 5.00 p.m. at the National Chamber Auditorium.
-
-Guest speaker of the session would be Rajith Perera, Partner at EY and the Financial Services Risk Management Leader in Sri Lanka, a passionate advocate for sharing knowledge on the importance of managing forex.  Rajith will be sharing vital insights on the topic through his many years of experience and understanding the characteristics of the forex market as it is crucial for the success of any organization.
-
-The National Chamber of Commerce of Sri Lanka invites the interested participants to register for this insightful session.
-
-Registration details: Contact Hansi / Nethmi at 011 4 741 788 or Nishanthi at 076 2555 707, or email: nishanthi@nationalchamber.lk; hansi@nationalchamber.lk.
-
-Registration will be accepted till 12 noon of 4th October 2024.
-
-...
-
-[Data](articles/f3db036b.json)
-
-[Extended Data](ext_articles/f3db036b.ext.json)
 
 ---

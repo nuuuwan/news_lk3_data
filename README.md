@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 20:38:41**
+As of **2024-10-01 20:57:58**
 
 ## Newspaper Stats
 
-*Scraped **47,249** Articles*
+*Scraped **47,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,98 @@ adalk | 4,375
 dailymirrorlk | 4,733
 adaderanalk | 5,562
 tamilmirrorlk | 6,346
-virakesarilk | 7,559
+virakesarilk | 7,561
 adaderanasinhalalk | 8,172
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,248 (100.0%) of 47,249 articles have been extended.
+47,251 (100.0%) of 47,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
 
-### හංවැල්ලේ ඝාතනය ගැන තොරතුරු රැසක්
+### Many information about the murder of Hanwella
 
 *2024-10-01 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201738) · `si`
 
-කප්පම් ලබා නොදීමේ සිද්ධියක් මුල්කරගෙන හංවැල්ල ප්‍රදේශයේ ව්‍යාපාරිකයෙකුව නාඳුනන තුවක්කරුවකු විසින් ඊයේ (30) රාත්‍රියේ වෙඩි තබා ඝාතනය කර තිබුණි.
+Hanwella businessman murdered by Lalith Kannangara. Unidentified gunman killed Vajira Nishantha. CCTV footage shows shooter. Investigations ongoing under DIG Ganga Marapana. Victim's house attacked in 2021.
 
-ඩුබායිහී සැඟව සිටින ලලිත් කන්නන්ගර නැමැති පාතාල කල්ලි සාමාජිකයා මෙම ඝාතනය මෙහෙයවා ඇති අතර මේ සමගම ඔහු කප්පම් ඉල්ලූ ව්‍යාපාරිකයන් පිරිසක් එම ප්‍රදේශයේ නිවෙස් අතහැර ගොස් ඇති බව පොලීසිය පවසයි.
+🟩
 
-එම ව්‍යාපාරිකයන් ඔහුගේ මරණ තර්ජනවලට ඇති බිය හේතුවෙන් මාධ්‍ය වෙත අදහස් දැක්වීමද ප්‍රතික්ෂේප කර ඇත.
+An unidentified gun was shot dead at a businessman in Hanwella last night with no extortion.
 
-මෙම සිදුවීම් සියල්ල සම්බන්ධයෙන් බස්නාහිර දකුණ භාර නියෝජ්‍ය පොලිස්පති ගයංග මාරපන මහතාගේ අධීක්ෂණය යටතේ විමර්ශන සිදුකෙරෙමින් පවතී.
+The murder was conducted by Lalith Kannangara, Lalith Kannangara, Dubai Kannangara.
 
-හංවැල්ල, නෙළුවත්තුඩුව ප්‍රදේශයේ නිවසකට ඊයේ රාත්‍රී 8.15ට පමණ පැමිණි නාඳුනන තුවක්කුකරුවකු එහි පදිංචිව සිටි ව්‍යාපාරිකයාව ඝාතනය කර තිබුණි.
+Those businessmen have refused to comment on the media due to fear of his death threats.
 
-වෙඩික්කරු අපරාධය සඳහා නිවසෙහි වූ තාප්පයකින් පැන පැමිණෙන අයුරු සහ වෙඩි ප්‍රහාරය එල්ල කිරීමෙන් පසු වෙඩික්කරු පළ යන ආකාරය ද සීසීටීවී කැමරාවක සටහන්වී තිබේ.
+Investigations are underway under the supervision of DIG Ganga Marapana in charge of all these incidents.
 
-වෙඩි ප්‍රහාරයෙන් තුවාල ලැබූ වජිර නිශාන්ත නමැති 55 හැවිරිදි ව්‍යාපාරිකයා අවිස්සාවේල්ල මූලික රෝහලට ඇතුළත් කිරීමේදී මියගොස් සිටි බව පොලීසිය පවසයි.
+An unidentified gunman had been assassinated by an unidentified gunman at Neluwala, Neluwakadu, Hanwella last night last night.
+
+A CCTV camera has been recorded in a CCTV's way to arise from a wall of the house for the crime and the shotter.
+
+Vajira Nishantha, who was injured in the shooting, died on admission to the Avissawella Base Hospital.
+
+The victim's house was shot in 2021 and was set on fire to his business.
+
+Lalith Kannangara has previously demanded ransom from the businessman who had previously had to pay the money and had been threatened with family members.
 
 ...
 
 [Data](articles/d0f29840.json)
+
+[Extended Data](ext_articles/d0f29840.ext.json)
+
+---
+
+### 167 laws were enacted in the ninth parliament
+
+*2024-10-01 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195271) · `ta`
+
+Ninth Parliament enacted 167 laws from 2020 to 2024, including key acts like Election, Anti-Corruption, and Central Bank legislation.
+
+🟩
+
+Opened on August 20, 2020, 167 laws were enacted during the Ninth Parliament, which was dissolved on 24th September, 2024.
+
+2020 government laws, 30 government laws in 2021, 44 government laws in 2022, 2 private members, 29 government laws in 2023, 05 private members, 36 government laws and 21 private laws.
+
+Accordingly, the Elections Act No. 03 of 2023, the Parliamentary Budget Office Act No. 06 of 2023, the Anti -Corruption Act No. 09 of 2023, No. 16 of the Central Bank Act of 2023, 2023Yes, Elections (Special Provisions) Act,
+
+Anti -Corruption Act No. 28 of 2023, Ceylon Act No. 09 of 2024, Ceylon Electricity Act No. 36 of 2024, Public Finance Management Act No. 44 of 2024The Transformation Act, including the 9th Parliament, is significant laws.
+
+◼️
+
+[Data](articles/a4a8339d.json)
+
+[Extended Data](ext_articles/a4a8339d.ext.json)
+
+---
+
+### The national people's power will win the general election;Do not provide a two -thirds majority - Udaya Kammanpila
+
+*2024-10-01 19:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195269) · `ta`
+
+Udaya Kammanpila predicts National People's Power victory in general election. He advises against two-thirds majority, citing potential political crises. Former presidents' experiences with such majorities are cited as examples.
+
+🟩
+
+National People's Power Wins in the General Election. People should provide the simple majority strength. Udaya Kammanpila, a former leader of the Pivithuru Hela Urumaya (Hela Urumaya Party), said that the government and the country would be affected if the two -thirds majority was given.
+
+He was speaking to the media after attending an event in Colombo on Tuesday (1).
+
+The best decision is that the security provided to former MPs. If you get state security. We are not currently people's representatives, so there is no need for special security.
+
+The government refers to the cancellation of the pension paid to former MPs.Many of the former parliamentarians have renounced state high positions before entering politics. They can no longer join public service. Therefore, the government should re -review the decision taken on the Oyuya Payment.
+
+...
+
+[Data](articles/e541f4ff.json)
+
+[Extended Data](ext_articles/e541f4ff.ext.json)
 
 ---
 
@@ -2403,51 +2461,5 @@ We believe that by creating the generation of healthy children by body and in th
 [Data](articles/af7e1c58.json)
 
 [Extended Data](ext_articles/af7e1c58.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 295.80/296.10 to US dollar, bond yields steady
-
-*2024-10-01 09:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-295-80-296-10-to-us-dollar-bond-yields-steady-181734/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated to open at 295.80/296.10 to the US dollar on Tuesday, from 296.10/60 a day earlier, while bond yields were broadly steady dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.60/80 percent, up from 11.60/75 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.92/98 percent, from 11.85/12.00 percent.
-
-A bond maturing on 15.06.2029 was quoted at 11.90/12.10 percent, from 11.90/12.00 percent.
-
-In equities, Colombo’s All Share Price Index opened 0.03 percent, or 3.67 points higher at 11,858, while the S&P SL20 of more liquid stocks opened up 0.26 percent or 8.97 points higher at 3,450.
-
-Meanwhile the central bank announced 142,500 million rupees in Treasury bills are to be issued through its auction tomorrow. (Colombo/Oct1/2024)
-
-◼️
-
-[Data](articles/8f3a507d.json)
-
-[Extended Data](ext_articles/8f3a507d.ext.json)
-
----
-
-### 8 people injured in bus accident
-
-*2024-10-01 09:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-8-பேர்-காயம்/175-344745) · `ta`
-
-Bus crash injures 8 near Avissawella; driver blamed for negligence.
-
-🟩
-
-Eight people were injured and admitted to the Kegalle General Hospital after a bus belonging to the Sri Lanka Transport Board (SLTB) near the Kottabola railway track of the Avissawella-Kegalle main road, Bindeniya police said.
-
-A bus traveling from Rampukkan to Rambukkan crashed into the accident and the driver's negligence was caused by the driver's negligence, police said.
-
-The driver of the bus and three boys were injured in the accident and eight people were receiving treatment at the Kegalle hospital, police said.
-
-◼️
-
-[Data](articles/bf9eac6d.json)
-
-[Extended Data](ext_articles/bf9eac6d.ext.json)
 
 ---

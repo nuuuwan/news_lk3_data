@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 01:38:46**
+As of **2024-10-02 01:57:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,282 (100.0%) of 47,284 articles have been extended.
+47,284 (100.0%) of 47,284 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ During the event, the leadership team highlighted the WCIC’s enduring commitme
 ...
 
 [Data](articles/4da78a5b.json)
+
+[Extended Data](ext_articles/4da78a5b.ext.json)
 
 ---
 
@@ -128,21 +130,27 @@ Similarly, the Sri Lankan Ambassador to Israel said to keep the essential food, 
 
 ---
 
-### ஜனாதிபதியை சந்தித்தார் ரஷ்ய தூதுவர்
+### Russian Ambassador to meet the president
 
 *2024-10-01 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ரஷ்ய-தூதுவர்/175-344783) · `ta`
 
-இலங்கைக்கான ரஷ்யத் தூதுவர் லெவன் எஸ். ஜகார்யன் (Levan S. Dzhagaryan)  இன்று (01) முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை சந்தித்தார்.
+Russian Ambassador Levan Jagarian met Sri Lankan President Anura Kumara Dissanayake. Jagarian congratulated Dissanayake and arranged a personal greeting from Russian President Putin. Both leaders emphasized strengthening bilateral ties, focusing on trade, investment, culture, and education cooperation.
 
-இந்த சந்திப்பில் புதிதாக தெரிவான ஜனாதிபதி திசாநாயக்கவிற்கு  தூதுவர் எஸ். ஜகார்யன் தனது வாழ்த்துகளைத் தெரிவித்ததுடன், ரஷ்ய ஜனாதிபதி விளாடிமிர் புட்டினின் தனிப்பட்ட வாழ்த்துச் செய்தியொன்றையும் ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கு வழங்கினார்.
+🟩
 
-ஜனாதிபதி அநுர திசாநாயக்கவின் தலைமையில் இரு நாடுகளுக்கும் இடையிலான இருதரப்பு உறவுகள் மேலும்  வலுவடையும் என எதிர்பார்ப்பதாக ஜனாதிபதி புடின் தனது செய்தியில் குறிப்பிட்டிருந்தார்.
+Russian Ambassador to Sri Lanka. Jagarian (Levan s. Dzhangaryan) President Anurakumara Dissanayake met with President's Office at the Presidential Office this morning.
 
-இலங்கைக்கும் ரஷ்யாவுக்கும் இடையிலான நீண்ட கால இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவது குறித்து கலந்துரையாடலில் விசேட கவனம் செலுத்தப்பட்டதுடன், இராஜதந்திர உறவுகளை பரஸ்பரம் மேம்படுத்துவதற்கு இரு தரப்பினதும் அர்ப்பணிப்பை மீண்டும் உறுதிப்படுத்துவதுடன், வர்த்தகம், முதலீடு, கலாசாரம் மற்றும் கல்வி போன்ற முக்கிய துறைகளில் ஒத்துழைப்பை மேம்படுத்துவதன் முக்கியத்துவத்தையும் இரு தரப்பினரும் வலியுறுத்தினர்.
+Ambassador to the newly elected President Dissanayake at the meeting. Jagaryan congratulated him and presented President Anura Kumara Dissanayake to Russian President Vladimir Putin's personal greeting.
+
+President Putin stated in his message that the bilateral relations between the two countries, led by President Anura Dissanayake, are expected to strengthen.
+
+Special attention was paid to the further strengthening of long -term bilateral relations between Sri Lanka and Russia and re -confirmed the commitment of both sides to improve diplomatic relations and the importance of cooperation in key sectors such as trade, investment, culture and education.
 
 ◼️
 
 [Data](articles/dce042f7.json)
+
+[Extended Data](ext_articles/dce042f7.ext.json)
 
 ---
 

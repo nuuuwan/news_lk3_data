@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 10:38:46**
+As of **2024-10-01 10:57:15**
 
 ## Newspaper Stats
 
-*Scraped **47,144** Articles*
+*Scraped **47,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,111 @@ dailyftlk | 3,162
 adalk | 4,360
 dailymirrorlk | 4,733
 adaderanalk | 5,544
-tamilmirrorlk | 6,331
-virakesarilk | 7,539
-adaderanasinhalalk | 8,149
+tamilmirrorlk | 6,333
+virakesarilk | 7,541
+adaderanasinhalalk | 8,150
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,144 (100.0%) of 47,144 articles have been extended.
+47,149 (100.0%) of 47,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### To re -conduct the exam
+
+*2024-10-01 10:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சையை-மீண்டும்-நடாத்த-வேண்டும்/175-344749) · `ta`
+
+Sri Lanka Opposition Leader Sajith Premadasa calls for re-exam after Grade 5 scholarship leak. He urges swift action from authorities to maintain exam integrity and protect students' futures.
+
+🟩
+
+Opposition Leader Sajith Premadasa expressed deep concern that the allegation that the Grade 5 scholarship examination was leaked was a widespread depression among students and parents.
+
+Premadasa, who made a statement on the incident, emphasized the need for the speedy action of the authorities to address the issue and called for the re -examination to ensure justice for all students.
+
+He urged the Premadasa government to take stern measures to prevent such incidents in the future, highlighting the importance of maintaining the integrity of the National Examination of Sri Lanka and the importance of protecting the hard work and future opportunities of the affected students.
+
+◼️
+
+[Data](articles/b9176526.json)
+
+[Extended Data](ext_articles/b9176526.ext.json)
+
+---
+
+### Three member committee to look into parliamentarians
+
+*2024-10-01 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201716) · `si`
+
+Cabinet forms 3-member panel to review MP claims, ministers' perks, ex-presidents' benefits. Committee to analyze current rules and submit report.
+
+🟩
+
+The Cabinet has decided to appoint a committee on the re-examination of the claims of Members of Parliament, Ministers and former presidents.
+
+Inforcing the Cabinet Decisions, Minister Vijitha Herath said that a three member committee has been appointed to study the existing regulations and submitting a report.
+
+◼️
+
+[Data](articles/1d4e89f8.json)
+
+[Extended Data](ext_articles/1d4e89f8.ext.json)
+
+---
+
+### Only a candidate has announced the cost
+
+*2024-10-01 10:23:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-வேட்பாளர்-மட்டுமே-செலவை-அறிவித்துள்ளார்/175-344748) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Independent candidate Premasiri Manage announces propaganda fund, but major parties delay. Election Commission warns candidates to disclose finances by October 12 or face legal action. Candidates must report 40% party costs and 60% personal expenses.
+
+🟩
+
+Only an independent candidate who contested the 2024 presidential election has announced his propaganda fund, while no big party with nine days of 21 days has announced their election expenses by the end of September.
+
+Independent candidate contested in 'glass' symbol. Premasiri Manage announced his propaganda funds to the Election Commission of Sri Lanka (ECSL) by September 30.
+
+A senior official of the Election Commission told the Daily Mirror today that no other candidate, including the major political parties contested in the election, has not yet announced their income or expenses during the election.
+
+A candidate or the party he represents must announce their propaganda funds within 21 days after the election, which was passed in January 2023 and the first election that was tested for the first time during the 2024 presidential election.
+
+...
+
+[Data](articles/8b10fb58.json)
+
+[Extended Data](ext_articles/8b10fb58.ext.json)
+
+---
+
+### Yall. Cataract surgery has been successful at the teaching hospital - C. Yamunananda
+
+*2024-10-01 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/195193) · `ta`
+
+Cataract surgery successful at Jaffna Teaching Hospital. Dr. C. Yamunananda reports positive outcomes. Treatment available for vision-impaired patients aged 50+. Anonymous surgery unit to provide care within a month.
+
+🟩
+
+Yall. Cataract surgery has been successful at the Teaching Hospital. Dr. C. Yamunananda, Deputy Inspector of the Teaching Hospital, said.
+
+Surgery for cataract patients registered at the Jaffna Teaching Hospital has been successful.
+
+So, Jaffna. In the district or the Northern Province, there is a vision impairment of cataracts, especially over 50 years of age.. He said that the teaching hospital will be given appropriate treatment within a month by seeking the an anonymous surgery unit of the Hospital.
+
+◼️
+
+[Data](articles/84c0b585.json)
+
+[Extended Data](ext_articles/84c0b585.ext.json)
+
+---
 
 ### Bus fare will be reduced
 
@@ -101,6 +193,34 @@ A police spokesman has said that the person who was facing a heavy economic prob
 [Data](articles/427a62b5.json)
 
 [Extended Data](ext_articles/427a62b5.ext.json)
+
+---
+
+### Order to close the liquor school in Mannar following strong opposition
+
+*2024-10-01 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195191) · `ta`
+
+Liquor school closure order issued due to public opposition in Mannar. Protesters demonstrated against the establishment near a youth training center and school. Local officials met with residents to address concerns. The state government has temporarily closed the facility pending further action.
+
+🟩
+
+The Liquor Department Commissioner has ordered the immediate closure of the newly opened liquor school near the Mannar, Talaimannar main road, Piroor junction.
+
+People gathered in the Mannar, Talaimannar main road, near the Junction of Velur on Monday (30).
+
+The area where the liquor is located is found in people's immigration, youth training center, Common and schoolhouse. People have complained that the liquor store has been opened here despite the opposition of the people.
+
+Similarly, the people of the area staged a demonstration in front of the Mannar District Secretariat and handed over a hand to the Mannar District Government Agent demanding not to open the liquor school.
+
+Hundreds of people gathered with an autopsy on Monday (30) yesterday (30).
+
+Mannar Divisional Secretary M. Pradeep, Mannar District Government Agent K. Kanakeswaran visited the spot and discussed with the people.
+
+...
+
+[Data](articles/ee1612f1.json)
+
+[Extended Data](ext_articles/ee1612f1.ext.json)
 
 ---
 
@@ -2141,141 +2261,5 @@ Meanwhile the central bank announced 142,500 million rupees in Treasury bills ar
 [Data](articles/18ad8e9d.json)
 
 [Extended Data](ext_articles/18ad8e9d.ext.json)
-
----
-
-### Prophet Muhammad
-
-*2024-09-30 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195163) · `ta`
-
-Sri Lanka: Opposition leader Anura Kumara Dissanayake accused of making false allegations against Rajapakse. Supporters claim fake accusations led to political setback. Dissanayake vows cooperation for national resolution.
-
-🟩
-
-President Anura Kumara Dissanayake should prove the allegations leveled against Rajapakse while in the opposition party. "We are a little back in politics due to fake allegations," said Sakara Kariyawasam, General Secretary of the Sri Lanka Peoples Alliance Peramuna.
-
-He made this statement during a media briefing held at the Sri Lanka PA's office on Monday (30).
-
-We thank all those who voted for our presidential candidate Namal Rajapakse in the presidential election.. That is why we are back in politics.
-
-President Anura Kumara Dissanayake made several allegations regarding Rajapaksa while in the opposition party. He noted that he had documents for corruption.
-
-He has powers and philosophies for the president of executive power. Therefore, the allegations made while in the opposition must be provenly proven.
-
-...
-
-[Data](articles/05ccc613.json)
-
-[Extended Data](ext_articles/05ccc613.ext.json)
-
----
-
-### Two youth arrested in Jaffna
-
-*2024-09-30 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/195162) · `ta`
-
-Two youths arrested in Jaffna: 18-year-old and 24-year-old from violent gang. Police seized 2 handguns, 4 swords, 4 petrol bombs. Handed over to Manipay Police Station for legal action.
-
-🟩
-
-Two youths from a violent gang have been arrested in Jaffna, including two handguns.
-
-Yall. Based on the confidential information available to the District Crime Unit, the police have arrested two youths aged 18 and 24, aged Manipay.
-
-Police said 02 handguns, 04 swords and 4 petrol bombs were seized from the arrested persons.
-
-In addition, the Manipay police have been handed over to the Manipay Police Station for further legal action for further legal action.
-
-◼️
-
-[Data](articles/3c33bd7a.json)
-
-[Extended Data](ext_articles/3c33bd7a.ext.json)
-
----
-
-### If the parties do not want to join the parliamentary election as the Tamil party - Sumanthiran
-
-*2024-09-30 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195158) · `ta`
-
-Tamil National Alliance invites parties to contest under its name in upcoming parliamentary elections. If refused, TNA will field separate candidates. Focus on youth participation and giving opportunities to newcomers. Decision made after nomination deadline and appointment committee formation.
-
-🟩
-
-In the upcoming parliamentary elections, the Tamil National Alliance (TNA) has invited the party to contest the election in the name of the party. Former parliamentarian and president's lawyer. A. Sumanthiran said.
-
-He said this while speaking to the media in Mannar on Monday evening.
-
-We recently decided to call on all parties in the Tamil National Alliance (TNA) to come to the party and contest the election in the name of the Sri Lanka Tamil National Alliance (TNA) and the symbol of the Tamil National Alliance (TNA).
-
-We have already decided that if they are not, we will be contesting separately.
-
-Therefore, it is only a little more time since the filing of the nomination papers, and the appointment committee we appointed as soon as they did not comply with the appointment committee, and we would decide on the TNA candidates.
-
-...
-
-[Data](articles/1a4976c9.json)
-
-[Extended Data](ext_articles/1a4976c9.ext.json)
-
----
-
-### Actress Inia starrer 'Seeran'
-
-*2024-09-30 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195148) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Seeran" stars Inia, "Siriran" features debutant James Karthik. Music preview released by director M. Rajesh. Film promotes education as weapon against oppression. Directed by Murugan, produced by Netco Studios.
-
-🟩
-
-The music and preview of the film 'Siriran' starring debutant James Karthik is the hero of the story.
-
-Director M.. Rajesh released the music and preview on the role of a special guest.
-
-Introduction Director Durai K. James Karthik, Inia, Sonia Agarwal, Krisha Group, 'Aadukalam' Narain, Gondayan, Murthy, Ajith, Aryan, Arundhati Nair and many others star in the film 'Siriran' directed by Murugan.
-
-The film, which has been recorded by Bhaskar Arumugam, has composed the film by Arvind Gerald, Sasitharan and Jubin.
-
-Producer James Karthik on behalf of Netco Studios. Niaz has been co -produced.
-
-The music and preview of the film, which will be released in the world worldwide on the fourth of October, was held in Chennai.
-
-Speaking at the time, actress Inia said, “I have played the role of Poongothi in this movie. I have played three different badges as a 20 -year -old woman, two children and a 56 -year -old woman.
-
-...
-
-[Data](articles/42ef63b5.json)
-
-[Extended Data](ext_articles/42ef63b5.ext.json)
-
----
-
-### Sathyaraj starrer 'Zebra'
-
-*2024-09-30 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195150) · `ta`
-
-"Zebra" film summary: Satya Dev, Dali Tananjaya, Sathyaraj star. Directed by Ishwar Karthik. Produced by Old Town Pictures and Padmaja Films. Releases October 31st in Tamil, Telugu, Malayalam, Kannada, Hindi. Expected to showcase financial irregularities and emotional scenes.
-
-🟩
-
-The film 'Zebra' has been released in the lead role of the leading film actors of the South Indian film industry Satya Dev, Dali Tananjaya and Sathyaraj.
-
-Directed by director Ishwar Karthik, 'Zebra' starring Satya Dev, Dali Tananjaya, Satyaraj, Priya Bhavani Shankar, Sunil, Satya, Jennifer Pikinado.
-
-Producers SS on behalf of Old Town Pictures and Padmaja Films India Private Limited. My. Reddy, S. Padmaja, Balasundaram and Dinesh Sundaram are co -produced.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 31st of October.
-
-The expectation of the film has increased as those who engage in financial irregularities, the existing parties and the emotional scenes are in place.
-
-◼️
-
-[Data](articles/4c7828fb.json)
-
-[Extended Data](ext_articles/4c7828fb.ext.json)
 
 ---

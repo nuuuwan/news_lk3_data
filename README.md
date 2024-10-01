@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 03:22:58**
+As of **2024-10-02 03:57:24**
 
 ## Newspaper Stats
 
-*Scraped **47,302** Articles*
+*Scraped **47,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,185
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
-tamilmirrorlk | 6,352
+tamilmirrorlk | 6,353
 virakesarilk | 7,563
 adaderanasinhalalk | 8,176
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,302 (100.0%) of 47,302 articles have been extended.
+47,303 (100.0%) of 47,303 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -415,6 +415,30 @@ The same way it stopped a multitude of giveaways by Ranil Wickremesinghe during 
 ---
 
 ### 2024-10-01 (Tuesday)
+
+### We will settle through the new constitution
+
+*2024-10-01 23:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியலமைப்பின்-ஊடாக-தீர்வு-வழங்குவோம்/175-344786) · `ta`
+
+New constitution to address Tamil issues after parliamentary elections. Government promises transparency in political appointments. Diplomatic positions to be reviewed.
+
+🟩
+
+The presidential election is over. The new President has been appointed. Parliamentary elections are to be held. After gaining power, the new constitution will be prepared and passed with the mandate of the people. In it, the government has announced that the political problem of the Tamil people will be solved.
+
+Responding to questions asked by journalists at a press conference announcing the weekly cabinet decisions at the Government Information Department on Tuesday, Cabinet and Cabinet spokesman Vijaya Herath said.
+
+The new constitution will be brought to the people. He said the people would be fulfilled with the mandate. Meanwhile, President Anura Kumara Dissanayake, headed by President Anura Kumara Dissanayake, said that the Cabinet meeting was not taken at the Cabinet meeting on the 2nd of October on October 2.
+
+The government has taken steps to return to the ambassadors and high -rankings appointed on the basis of political strength and faith.
+
+...
+
+[Data](articles/9320d286.json)
+
+[Extended Data](ext_articles/9320d286.ext.json)
+
+---
 
 ### Permanent solution to the fisherman's problem
 
@@ -2251,25 +2275,5 @@ The protesters carry the Tamil children terrorists, the day of the Children's Da
 [Data](articles/33723360.json)
 
 [Extended Data](ext_articles/33723360.ext.json)
-
----
-
-### The beginning of the main two inquiries
-
-*2024-10-01 13:08:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முக்கிய-இரு-விசாரணைகள்-ஆரம்பம்/175-344757) · `ta`
-
-Preliminary investigations launched into Easter bombings and central bank bailout by Ministry of Public Security, according to Cabinet Spokesman Vijitha Herath.
-
-🟩
-
-Cabinet spokesman and minister Vijitha Herath said that preliminary inquiries into Easter Sunday bombings and central bank bailout have begun.
-
-He added that the initial inquiries have been launched by the Ministry of Public Security.
-
-◼️
-
-[Data](articles/de56e839.json)
-
-[Extended Data](ext_articles/de56e839.ext.json)
 
 ---

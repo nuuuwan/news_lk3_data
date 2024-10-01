@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 09:03:05**
+As of **2024-10-01 09:26:32**
 
 ## Newspaper Stats
 
-*Scraped **47,131** Articles*
+*Scraped **47,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 465
 colombotelegraphcom | 471
-islandlk | 2,774
+islandlk | 2,776
 economynextcom | 2,861
 dailyftlk | 3,161
-adalk | 4,358
+adalk | 4,359
 dailymirrorlk | 4,733
-adaderanalk | 5,541
+adaderanalk | 5,542
 tamilmirrorlk | 6,328
 virakesarilk | 7,539
 adaderanasinhalalk | 8,147
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,147
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,131 (100.0%) of 47,131 articles have been extended.
+47,133 (100.0%) of 47,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Israel begins Lebanon ground invasion with ‘limited’ raids on Hezbollah
+
+*2024-10-01 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102366/israel-begins-lebanon-ground-invasion-with-limited-raids-on-hezbollah) · `en`
+
+Israel’s widely expected ground invasion of Lebanon appeared to be getting underway early on Tuesday as its military said troops had begun “limited” raids against Hezbollah targets in the border area.
+
+The military said in a statement that it had begun “limited, localised, and targeted ground raids based on precise intelligence” against Hezbollah in southern Lebanon villages close to the border that posed “an immediate threat to Israeli communities in northern Israel”.
+
+It said the air force and artillery were supporting the ground forces with “precise strikes.”
+
+Local residents in the Lebanese border town of Aita al-Shaab reported heavy shelling and the sound of helicopters and drones overhead. Flares were repeatedly launched over the Lebanese border town of Rmeish, lighting up the night sky.
+
+...
+
+[Data](articles/7eb5aef7.json)
+
+[Extended Data](ext_articles/7eb5aef7.ext.json)
+
+---
 
 ### Man dies in an attack
 
@@ -570,6 +590,30 @@ Public support for the government after the presidential election is on the rise
 
 ---
 
+### More excitement for Sri Lankans in Melbourne
+
+*2024-09-30 23:49:00* · [`islandlk`](http://island.lk/more-excitement-for-sri-lankans-in-melbourne/) · `en`
+
+Sri Lankans, Down Under, especially in Melbourne, are never short of entertainment. They have something exciting to look forward to, on a regular basis, and, invariably, it comes from Sri Lankan artistes…not domiciled in Australia.
+
+Just recently we had the Gypsies who were involved in three ‘sold out’ concerts, in Perth, Sydney and Adelaide.
+
+On Friday, 20th September, it was the turn of another popular Sri Lankan artiste to do the needful, in Australia – Melantha Perera.
+
+He was featured at ‘Moratuwa Night’ held in Sydney, along with the band Redemption.
+
+On 11th October, Melantha will be seen in action again, and this time in Melbourne, with the band Ebony, at the Walawwa (Sandown Regency).
+
+Having built up a huge fan base, in Melbourne, Suzi Flückiger (better known as Suzi Croner in the local scene), is ready to give her fans another memorable happening.
+
+Suzi is billed to appear at ‘Country Night’, scheduled for Saturday, 26th October, at The Grand On Princess.
+
+...
+
+[Data](articles/793f64f5.json)
+
+---
+
 ### ‘Ballard of the Warriors’
 
 *2024-09-30 23:46:00* · [`islandlk`](http://island.lk/ballard-of-the-warriors/) · `en`
@@ -627,6 +671,18 @@ First, we must congratulate the Chairperson, R.M.A.L. Rathnayake, the Election C
 [Data](articles/b22ac744.json)
 
 [Extended Data](ext_articles/b22ac744.ext.json)
+
+---
+
+### Old Wines in New Democracies:Education in the making
+
+*2024-09-30 23:39:00* · [`islandlk`](http://island.lk/old-wines-in-new-democracieseducation-in-the-making/) · `en`
+
+These are new times indeed. The country is in a celebratory mood. We have a brand new President, and a brand new Prime Minister, who would both enjoy an anticipated majority in Parliament – a government that has infused the people with much hope. Though we have not seen a decisive victory for the new President, the country has woken up to the remarkable change the Presidential election has ushered. The times are also critical. This is the first election after the protests of 2022 – the Aragalaya-Porattam-Struggle movement. Since independence we have seen a see-sawing between two traditional parties, the UNP and the SLFP and their offshoots, coalitions, etc. In Dissanayake, we have a completely new face, a new class of face, a new ethos of politics in the promise that corruption will be eliminated from the practice of governance.
+
+...
+
+[Data](articles/49422f32.json)
 
 ---
 
@@ -1614,6 +1670,32 @@ Their work was enormous during the unification of the Tamil national parties and
 
 ---
 
+### Essential to provide vehicles for essential services
+
+*2024-09-30 18:41:38* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-කඩිනමින්-අත්‍යාවශ්‍ය-සේවා-සඳහා-ලබාදීමේ-කටයුතු-කඩිනමින්/11-412237) · `si`
+
+Presidential Secretariat implements essential services vehicles. Vehicles previously used by private staff now serve public needs. 107 vehicles temporarily halted under new administration. Transparency ensured through vehicle inventory list.
+
+🟩
+
+The Presidential Secretariat says that the vehicles parked at the premises near the Presidential Secretariat are now being implemented with immediate essential services.
+
+The vehicles were not vehicles given to the Permanent Staff of the Presidential Secretariat and the former President was given to the private staff who was appointed under Section 41 (1) of the Constitution of the Constitution.
+
+The vehicles have also been stopped at the premises outside the Presidential Secretariat due to the absence of such vehicles at the Presidential Secretariat.
+
+With the appointment of President Anura Kumara Dissanayake, 107 vehicles handed over to the Presidential Secretariat have been temporarily stopped under the protection of the president's office.
+
+The Presidential Secretariat has also prepared a complete list of vehicles to protect the transparency and accuracy.
+
+...
+
+[Data](articles/40b55573.json)
+
+[Extended Data](ext_articles/40b55573.ext.json)
+
+---
+
 ### Sri Lanka’s former state FinMin justifies last govt’s economic reforms after deflation
 
 *2024-09-30 18:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-former-state-finmin-justifies-last-govts-economic-reforms-after-deflation-181651/) · `en`
@@ -2205,101 +2287,5 @@ The collapsation and the trees have also been disrupted.
 [Data](articles/fdd2443d.json)
 
 [Extended Data](ext_articles/fdd2443d.ext.json)
-
----
-
-### Further rupee strengthens values
-
-*2024-09-30 16:19:33* · [`adalk`](https://www.ada.lk/breaking_news/තවදුරටත්-රුපියල-ශක්තිමත්-වෙයි-අගයන්-මෙන්න/11-412232) · `si`
-
-Sri Lanka: Rupee strengthens against USD. Central Bank reports $1 = 293.50 LKR buy rate, 302.56 LKR sell rate. Hatton National Bank offers lowest sell price among major banks at 300.25 LKR.
-
-🟩
-
-According to the daily exchange rate released by the Central Bank of Sri Lanka today (30), a US dollar cost Rs. 293.50 and the price of sale is Rs. It has been reported that 302.56 has been down.
-
-Hatton National Bank has recorded the lowest selling value of several major commercial banks in Sri Lanka and Amana Bank has recorded Rs. 300.25.
-
-◼️
-
-[Data](articles/813fc6fe.json)
-
-[Extended Data](ext_articles/813fc6fe.ext.json)
-
----
-
-### Sri Lanka goods exports rise 4.1-pct in August 2024, apparels up
-
-*2024-09-30 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-goods-exports-rise-4-1-pct-in-august-2024-apparels-up-181575/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s goods exports grew 4.1 percent from a year ago to 1.1 billion dollars in August 2024, the island’s export promotion office said, helped by a spike in apparel exports.
-
-Apparel and textiles rose to 511.13 million dollars in August 2024 from 511.13 million last year. This was the first time in two years that exports topped 500 million dollars, Sri Lana’s Export Development Board said.
-
-During the eight months to August exports rose 5.37 percent to 8.4 billion dollars.
-
-In the month of August, tea grew 9.11 percent to 130.54 million dollars, rubber products grew 29.48 percent to 103.79 million, and coconut products grew 38.3.
-
-Export earnings from food and beverages decreased by 11.71 percent to 40.7 million dollars, with poor performance in exports of processed food.
-
-Export earnings from electrical and electronics components, other export crops, seafood and ornamental fish also decreased.
-
-...
-
-[Data](articles/ddec0c8c.json)
-
-[Extended Data](ext_articles/ddec0c8c.ext.json)
-
----
-
-### Sri Lanka sees deflation in year to September 2024, economic growth growls softly
-
-*2024-09-30 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-deflation-in-year-to-september-2024-economic-growth-growls-softly-181581/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has produced 0.1 percent deflation over the past 12-months based on the widely watched Colombo Consumer Price Index, running broadly deflationary policy with currency stability, official data show.
-
-The Colombo Consumer Price Index fell almost continuously from March 2024, except June when the currency also came under pressure from excess liquidity from dollar purchases.
-
-Sri Lanka’s central bank has produced almost no inflation for 24 months since September 2024, when its deflationary policy began to show up in the balance of payments.
-
-In March 2023, the central bank lifted a surrender rule, that had led to a collapse of the currency during a failed float in 2022, and allowed the exchange rate to appreciate from 360 to around 300 sharply bringing down traded goods and food prices, even as services went up to make up for the currency collapse.
-
-...
-
-[Data](articles/d4fd0e1a.json)
-
-[Extended Data](ext_articles/d4fd0e1a.ext.json)
-
----
-
-### Spoon heated his daughter's body
-
-*2024-09-30 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201693) · `si`
-
-Kandy Police arrest mother for burning daughter's body. Child hospitalized, father accused. Investigation ongoing.
-
-🟩
-
-The Kandy Children's and Women's Bureau has been arrested by the Child and Women's Bureau of the Kandy Police.
-
-After the mother was produced in court, Marswaratne Navaratne was remanded until October 4.
-
-Police say the burn wounds of the girl were at around two inches magnitude, police said.
-
-Investigations have revealed that the mother had been burnt to the daughter to go back to pre-school.
-
-The burned child has been admitted to the Kandy National Hospital for treatment.
-
-The father of the child had told the police a statement that he had burned the body to the body and burned several places in the body of her daughter.
-
-Two husbandi laws were submitted to the court of the daughter.
-
-The Divisions Children's and Women's Bureau is conducting further investigations on the instructions of the Kandy Superintendent of Police Anuruddha Bandaranaike.
-
-◼️
-
-[Data](articles/051db63e.json)
-
-[Extended Data](ext_articles/051db63e.ext.json)
 
 ---

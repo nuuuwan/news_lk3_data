@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 10:23:41**
+As of **2024-10-01 10:38:46**
 
 ## Newspaper Stats
 
-*Scraped **47,141** Articles*
+*Scraped **47,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ dailyftlk | 3,162
 adalk | 4,360
 dailymirrorlk | 4,733
 adaderanalk | 5,544
-tamilmirrorlk | 6,329
+tamilmirrorlk | 6,331
 virakesarilk | 7,539
-adaderanasinhalalk | 8,148
+adaderanasinhalalk | 8,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,139 (100.0%) of 47,141 articles have been extended.
+47,144 (100.0%) of 47,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Bus fare will be reduced
+
+*2024-10-01 10:09:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணம்-குறைக்கப்படும்/175-344747) · `ta`
+
+National Transport Commission reduces bus fare due to diesel price drop. New rates to be announced on Tuesday.
+
+🟩
+
+The National Transport Commission has decided to reduce the bus fare to provide people with the benefit of diesel prices.
+
+An official of the National Transport Commission said that the calculations have been launched and the new bus fares are expected to be announced on Tuesday (01).
+
+◼️
+
+[Data](articles/9cfad7f7.json)
+
+[Extended Data](ext_articles/9cfad7f7.ext.json)
+
+---
 
 ### Postal voting applications for General Election accepted from today
 
@@ -53,6 +73,62 @@ The Election Commission states that applications must be submitted to the Distri
 ◼️
 
 [Data](articles/255a5197.json)
+
+[Extended Data](ext_articles/255a5197.ext.json)
+
+---
+
+### Kihi Pathana in Shanghai, China
+
+*2024-10-01 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201715) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Shanghai supermarket attack: 3 dead, 15 injured. Suspect, 37, arrested. Police say motive was financial stress. Incident occurred on 30th.
+
+🟩
+
+Foreign media reports that three were killed and 15 others wounded in Shanghai's supermarket complex.
+
+The suspect, 37-year-old had been arrested in connection with the incident yesterday (30).
+
+A police spokesman has said that the person who was facing a heavy economic problem has committed this crime to eject his anger.
+
+◼️
+
+[Data](articles/427a62b5.json)
+
+[Extended Data](ext_articles/427a62b5.ext.json)
+
+---
+
+### We will create the world of boys: President greeting
+
+*2024-10-01 09:57:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களின்-உலகத்தை-உருவாக்குவோம்-ஜனாதிபதி-வாழ்த்து/175-344746) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake addresses children's day, highlighting challenges like poverty, education inequality, and technology misuse. He aims to create a world where children thrive physically and mentally, fostering imagination and economic freedom while protecting natural resources.
+
+🟩
+
+The world is for boys. President Anura Kumara Dissanayake said in his children's day greeting.
+
+We have identified the challenges faced by children in this milenium, such as poverty, nutrition, health and health care, educational inequality, inequality in social opportunities, as well as the misuse of technology.
+
+Moreover, the main objective of our revival work is to free the child the children's world and re -provide them with the child's world of children from the impacts of the social effects of children's psychological development and the educational methods that focus on a stressful examination.
+
+We believe that by creating the generation of healthy children by body and in the body, we are creating the free fantasy and classic men who have the freedom imagination that will conquer the future.
+
+...
+
+[Data](articles/af7e1c58.json)
+
+[Extended Data](ext_articles/af7e1c58.ext.json)
 
 ---
 
@@ -1034,23 +1110,31 @@ There are many election manifestos flying around these days issued by the major 
 
 ---
 
-### එජාප ප්‍රමුඛ සන්ධානය සියලුම මැතිවරණ කොට්ඨාවලට තරග කරයි
+### UNP's prominent alliances compete in all election areas
 
 *2024-09-30 23:03:36* · [`adalk`](https://www.ada.lk/breaking_news/එජාප-ප්‍රමුඛ-සන්ධානය-සියලුම-මැතිවරණ-කොට්ඨාවලට-තරග-කරයි/11-412244) · `si`
 
-ඉදිරි මහ මැතිවරණයේදී එක්සත් ජාතික පක්ෂය ප්‍රමුඛ නව සන්ධානය ශ්‍රී ලංකාවේ සියලුම මැතිවරණ කොට්ඨාස සඳහා අපේක්ෂක ලැයිස්තු ඉදිරිපත් කිරීමට නියමිතය.
+UNP alliances compete in elections; SLFP joins UNP alliance; decision on general election date expected soon.
 
-නව සන්ධානය මහ මැතිවරණය සඳහා ඉදිරිපත් වන ලකුණ ඉදිරි දින දෙක තුළදී තීරණය කිරීමට නියමිත බව එක්සත් ජාතික පක්ෂය සඳහන් කරයි.
+🟩
 
-මහ මැතිවරණයට ඉදිරිපත් වීම සඳහා වන කටයුතු කඩිනමින් සම්පාදනය කරන ලෙස හිටපු ජනාධිපති එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා එක්සත් ජාතික පක්ෂ නිලධාරී මණ්ඩලයට දැනුම් දී ඇත.
+The UPFA is to be presented to the United National Party (UNP) at the next general election.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ, ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ පක්ෂ රැසක් එක්සත් ජාතික පක්ෂය සමග සන්ධානගත වී මහ මැතිවරණයට ඉදිරිපත් වීමට මේ වන විට එකඟතා පළව තිබෙන බව පක්ෂ ජ්‍යෙෂ්ඨ ප්‍රකාශකයෙක් සඳහන් කළේය.
+The United National Party (UNP) states that the mark for the General Election is scheduled to be decided in the next two days.
 
-මහ මැතිවරණයට එක්සත් ජාතික පක්ෂය ප්‍රමුඛ නව සන්ධානය ඉදිරිපත් වන ආකාරය සම්බන්ධයෙන් සාකච්ඡාවක් පක්ෂ නායක හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කොළඹ මල් පාරේ පිහිටි දේශපාලන කාර්යාලයේදී ඊයේ (30දා) පැවැත්විණි.
+Former President of the UNP leader Ranil Wickremesinghe has informed the UNP officials.
 
-...
+A senior party spokesman said that the Sri Lanka Freedom Party (SLFP) and several parties with the United National Freedom Party (SLFP) have agreed to contest the general election.
+
+Former President Ranil Wickremesinghe, the new alliance presented the UNP, was held yesterday (30) at the political office of Colombo Floric Road.
+
+Deputy Leader Ruwan Wijayawardena, Chairman Vajira Abeywardena, Ven.
+
+◼️
 
 [Data](articles/f7f5892d.json)
+
+[Extended Data](ext_articles/f7f5892d.ext.json)
 
 ---
 
@@ -2193,77 +2277,5 @@ The expectation of the film has increased as those who engage in financial irreg
 [Data](articles/4c7828fb.json)
 
 [Extended Data](ext_articles/4c7828fb.ext.json)
-
----
-
-### Sri Lanka stocks close up, positive momentum continues
-
-*2024-09-30 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-positive-momentum-continues-181621/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 0.69 percent, or 81.17 points, at 11,855; while the more liquid S&P SL20 Index closed up 1.45 percent, or 49.51 points, at 3,459.
-
-“The positive momentum in the market continued,” Softlogic Stockbrokers said.
-
-Top turnover generators were Hatton National Bank (up at 204.75), United Motors (down at 52.40), John Keells Holdings (up at 179.25), Hayleys Fabric (up at 52.50), and Dipped Products (up at 37.80).
-
-Banking stocks were up; Commercial Bank (up at 101.25), Sampath Bank (up at 77.70), HNB, DFCC Bank (up at 77.00) and National Development Bank (up at 78.30).
-
-Top foreign buying was seen in JKH, Vidullanka (up at 14.00), Tokyo Cement (up at 49.00), Browns Investments (flat at 5.90), PGP Glass (up at 29.00) and Melstacorp (up at 85.00).
-
-...
-
-[Data](articles/6b99e5a2.json)
-
-[Extended Data](ext_articles/6b99e5a2.ext.json)
-
----
-
-### Be careful of lightning here
-
-*2024-09-30 16:53:56* · [`adalk`](https://www.ada.lk/breaking_news/අකුණු-වලින්-ප්‍රවේසම්-වන්න-මෙන්න-මේ-පැතිවල/11-412233) · `si`
-
-Lightning warning: Western, Sabaragamuwa, Southern, Central, Uva, North Western provinces. Evening/night risk in Ampara, Batticaloa, Polonnaruwa districts.
-
-🟩
-
-The Meteorological Department has issued a pronouncement by the Department of Meteorological Dictionary.
-
-Accordingly, in the Western, Sabaragamuwa, Southern, Central, Uva and North Western provinces, in the evening or night in Ampara, Batticaloa and Polonnaruwa districts have the potential.
-
-◼️
-
-[Data](articles/d2fc32ed.json)
-
-[Extended Data](ext_articles/d2fc32ed.ext.json)
-
----
-
-### A rare star that appear before sunrise
-
-*2024-09-30 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201695) · `si`
-
-Rare comet appears east sky after 5 days. Difficult to observe due to horizon vision and light pollution. Peak brightness on October 15th. Visible in western sky after October 12th. Last appeared 80,000 years ago.
-
-🟩
-
-Arthur C. Clark Center states that a rare comet is appearing in the eastern sky after 5 days.
-
-China's Purple Mountain Observatory and NASA's ASTEROID TERRROID TERRERSTRUST - C / 2023 A3 comet is displayed by the C / 2023 A3 comet.
-
-The Arthur C Clark Center says that it is very difficult to observe this comet due to the vision of the horizon and the existing light corruption.
-
-The comet is expected to reach the peak brightness at 2nd October and 15, and it is about 46 per cent of its visual, size.
-
-Arthur C Clark Center that the comet will be displayed in the western sky after October 12th
-
-Arthur C Clark said 80,000 years after the return of this comet after 80,000 years later, he said.
-
-◼️
-
-[Data](articles/427f3da7.json)
-
-[Extended Data](ext_articles/427f3da7.ext.json)
 
 ---

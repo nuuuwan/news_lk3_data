@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 23:58:34**
+As of **2024-10-02 00:13:08**
 
 ## Newspaper Stats
 
-*Scraped **47,264** Articles*
+*Scraped **47,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 390
 bbccomsinhala | 466
 colombotelegraphcom | 472
 islandlk | 2,778
-economynextcom | 2,871
+economynextcom | 2,882
 dailyftlk | 3,162
 adalk | 4,377
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,264 (100.0%) of 47,264 articles have been extended.
+47,273 (100.0%) of 47,275 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -450,6 +450,26 @@ The protesters tried to move Bangladesh main advisor to the city of Muhammad Yun
 
 ---
 
+### Sri Lanka’s new govt vows to proceed with bond scam court case
+
+*2024-10-01 18:44:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-govt-vows-to-proceed-with-bond-scam-court-case-181838/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new government under President Anura Kumara Dissanayake will proceed with the legal case on 2015 bond scam in which former leader Ranil Wickremesinghe and his close ally are being accused of being involved in the scam.
+
+A presidential commission of inquiry found that Arjuna Mahendran, handpicked for Central Bank Governor post in 2015 had interfered in a bond auction and has leaked inside information to help Perpetual Treasuries, owned by his son in law, to make billions of rupees in profits.
+
+Mahendran raised a policy rate floor outside the regular monetary policy meeting and pressured a tender board to sell bonds at high prices, the inquiry found.
+
+The inquiry also found that Perpetual Treasuries had paid central bank dealers, who were managing the country’s largest pension fund, to buy bonds at high prices and other state funds.
+
+...
+
+[Data](articles/ac327f36.json)
+
+[Extended Data](ext_articles/ac327f36.ext.json)
+
+---
+
 ### The last government should be responsible for the passport and visa issue - Vijitha Herath
 
 *2024-10-01 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195268) · `ta`
@@ -471,6 +491,28 @@ But after I took the responsibility of the Ministry, I had taken action. Accordi
 [Data](articles/069c58c7.json)
 
 [Extended Data](ext_articles/069c58c7.ext.json)
+
+---
+
+### Policy decision on SriLankan Airlines restructure to be taken after elections
+
+*2024-10-01 18:31:00* · [`economynextcom`](https://economynext.com/policy-decision-on-srilankan-airlines-restructure-to-be-taken-after-elections-181836/) · `en`
+
+ECONOMYNEXT  – No decision on the restructure of state-run SriLankan Airlines will be taken until after elections bring a new government to office, Minister Vijitha Herath said.
+
+“In this interim period we will not go for any policy related decisions,” Minister Herath told reporters at weekly post-cabinet press briefing.
+
+“In a future government, which we will build soon, we will go for some actions. At the moment, in this short period we will not go for policy decisions.”
+
+Sri Lanka sought a buyer for a stake sale of SriLankan Airlines but nothing was finalized, the current sale process was dropped amid weak interest.
+
+However SriLankan has debt, including a government guaranteed bond, that has to be resolved. (Colombo/Oct01/2024)
+
+◼️
+
+[Data](articles/e4c26128.json)
+
+[Extended Data](ext_articles/e4c26128.ext.json)
 
 ---
 
@@ -694,6 +736,54 @@ The public who wish to go abroad for various issues, including foreign employmen
 
 ---
 
+### Sri Lanka leader meets US, Russian envoys; foreign policy direction awaited
+
+*2024-10-01 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-meets-us-russian-envoys-foreign-policy-direction-awaited-181822/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s newly elected Leftist President Anura Kumara Dissanayake met Ambassadors of the United States and Russia to Colombo while the new leader is yet to spell out his government’s foreign policy.
+
+Dissanayake, the leader of Marxists Janatha Vimukthi Peramuna (JVP)-led National People’s Power (NPP) coalition won the presidential election and is running an interim government with a three-member cabinet after dissolving the parliament.
+
+Dissanayake’s party in the past has been against India and raised concerns over Indian expansionism in the island nation. However, during the election campaign, Dissanayake and his party members were silent on his foreign policy.
+
+Political and foreign policy analysts have seen Dissanayake as a pro-Chinese and pro-Russian due to his JVP’s affiliation to communism.
+
+...
+
+[Data](articles/43706304.json)
+
+[Extended Data](ext_articles/43706304.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 294.75/295.00 to US dollar, bond yields down
+
+*2024-10-01 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-294-75-295-00-to-us-dollar-bond-yields-down-181832/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated further to close at 294.75/295.00 to the US dollar Tuesday, from 296.10/60 a day earlier, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.70/85 percent, up from 10.65/80 percent.
+
+A bond maturing on 15.12.2027 closed at 11.45/60 percent, down from 11.60/75 percent.
+
+A bond maturing on 15.02.2028 closed at 11.75/85 percent, down from 11.85/12.00 percent.
+
+A bond maturing on 15.09.2029 closed at 11.90/12.00 percent, down from 11.95/12.05 percent.
+
+A bond maturing on 15.05.2030 closed at 12.10/30 percent, up from 12.00/20 percent.
+
+A bond maturing on 01.10.2032 closed stable at 12.20/45 percent.
+
+Meanwhile the central bank announced 142,500 million rupees in Treasury bills are to be issued through its auction
+
+◼️
+
+[Data](articles/d80367f8.json)
+
+[Extended Data](ext_articles/d80367f8.ext.json)
+
+---
+
 ### Govt says only preliminary discussion on IMF program with visiting team
 
 *2024-10-01 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102384/govt-says-only-preliminary-discussion-on-imf-program-with-visiting-team-) · `en`
@@ -767,6 +857,32 @@ According to reports, 28.12 per cent of the votes were cast as of 11 am.
 [Data](articles/612729f2.json)
 
 [Extended Data](ext_articles/612729f2.ext.json)
+
+---
+
+### Sri Lanka stocks close up, Ceylon Hospitals to amalgamate subsidiary
+
+*2024-10-01 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-ceylon-hospitals-to-amalgamate-subsidiary-181820/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 1.16 percent, or 137.86 points, at 11,992; while the more liquid S&P SL20 Index closed up 1.95 percent, or 67.51 points, at 3, 520.
+
+The ASPI crossed the 12,000 mark near close of trade before edging back down.
+
+Turnover was 3.5 billion. Banking stocks were major contributors (Rs1.5bn).
+
+Top contributors to the ASPI were Hatton National Bank (up at 214.25), John Keells Holdings (up at 184.00), Commercial Bank (up at 103.00), DFCC Bank (up at 80.00), and Sampath Bank (up at 79.00).
+
+Ceylon Hospitals Plc said it had resolved to amalgamate with its subsidiary Durdans Heart Centre (Pvt) Ltd, subject to obtaining the approval of the shareholders.
+
+The amalgamation will be effected by way of a share swap, where shareholders of DHC will be offered ordinary voting shares in the proportion of 0.2933) ordinary voting shares of CHPLC for each ordinary voting share held in DHC.
+
+...
+
+[Data](articles/426c52d6.json)
+
+[Extended Data](ext_articles/426c52d6.ext.json)
 
 ---
 
@@ -1193,6 +1309,32 @@ Both parties highlighted the importance of enhancing cooperation in key areas su
 [Data](articles/404c45ad.json)
 
 [Extended Data](ext_articles/404c45ad.ext.json)
+
+---
+
+### Dinesh Weerakkody to head Sri Lanka’s Union Bank, Nirvana Chaudhary steps down
+
+*2024-10-01 14:38:00* · [`economynextcom`](https://economynext.com/dinesh-weerakkody-to-head-sri-lankas-union-bank-nirvana-chaudhary-steps-down-181815/) · `en`
+
+ECONOMYNEXT – The Board of Directors of Union Bank of Colombo Plc has unanimously resolved to appoint Dinesh Weerakkody as its Chairman with effect from September 30.
+
+The decision was made after Nirvana Chaudhary, informed the Bank regarding his decision to step down as the Chairman of Union Bank of Colombo due to his ongoing commitments in Nepal.
+
+The Board at its meeting held on September 30 accepted his resignation effective immediately, it said in a stock exchange filing.
+
+Weerakkody was an independent non-executive director of the bank before this. He is a former Chairman of both Commercial Bank of Ceylon and Hatton National Bank and has also served on the Board of DFCC Bank.
+
+In 2015, he chaired the government-appointed committee tasked with reviewing the consolidation of banks and non-bank financial institutions (NBFIs).
+
+He is a director of several companies and the Chairman of the Employers’ Federation of Ceylon.
+
+He has held senior leadership roles in the public sector as well.
+
+...
+
+[Data](articles/fecb2288.json)
+
+[Extended Data](ext_articles/fecb2288.ext.json)
 
 ---
 
@@ -1748,6 +1890,28 @@ Meanwhile, the services from Point Pedro via Amban Maruthankani were not able to
 
 ---
 
+### Sri Lanka’s new president to review IMF deal before discussing
+
+*2024-10-01 12:44:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-president-to-review-imf-deal-before-discussing-181792/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s government under newly elected President Anura Kumara Dissanayake will review the island nation’s deal with the International Monetary Fund (IMF), new Cabinet Spokesman Vijitha Herath said.
+
+Dissanayake’s Marxists-led National People/s Power (NPP) during the election campaign has repeatedly said it would renegotiate the IMF deal as people in general are facing difficulties due to the global lender’s deal signed under the previous government led by Ranil Wickremesinghe.
+
+“First of all, we will review what is the content of the agreement. Then we will go forward,” Herath told reporters at the new government’s first weekly news briefing to announce cabinet decisions.
+
+“We have not taken any new decisions during yesterday’s cabinet meeting.”
+
+An IMF team will be in Sri Lanka from October 2-4 to meet President Dissanayake and his economic council to have some preliminary discussion on the IMF deal.
+
+...
+
+[Data](articles/ee3d60bd.json)
+
+[Extended Data](ext_articles/ee3d60bd.ext.json)
+
+---
+
 ### Two instructors to the President on the Hon. On the Hon.
 
 *2024-10-01 12:43:10* · [`adalk`](https://www.ada.lk/breaking_news/ගරු-සේවා-පදනම-මත-ජනපතිට-උපදේශකවරුන්-දෙදෙනෙක්/11-412254) · `si`
@@ -1769,6 +1933,26 @@ Accordingly, Duminda Hulangamuwa and Dr. AA JJ for two economic and money Presid
 [Data](articles/f0c5ea06.json)
 
 [Extended Data](ext_articles/f0c5ea06.ext.json)
+
+---
+
+### Sri Lanka President allocates Rs5bn for general elections
+
+*2024-10-01 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-allocates-rs5bn-for-general-elections-181786/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s three-member cabinet, which includes the president, has approved President Anura Dissanayake’s proposal to release 5 billion rupees from the government’s consolidated fund for conducting the general election.
+
+“The 2024 budget had only set aside money for one election,” newly appointed Cabinet spokesman minister Vijitha Herath said. “There wasn’t money allocated for a general election.”
+
+Under Sri Lanka’s constitution, powers are vested in the president, by Article 150(4), to issue funds from the consolidated fund.
+
+The Cabinet also approved the allocation of another 6 billion rupees from the 2025 budget through a Vote on Account expected to be submitted to the Parliament. (Colombo/Oct1/2024)
+
+◼️
+
+[Data](articles/64e53e4a.json)
+
+[Extended Data](ext_articles/64e53e4a.ext.json)
 
 ---
 
@@ -1925,6 +2109,46 @@ Kishida and his ministers stepped down at a Cabinet meeting on Tuesday morning, 
 [Data](articles/24532028.json)
 
 [Extended Data](ext_articles/24532028.ext.json)
+
+---
+
+### Sri Lanka’s new govt defends decision to retain top officials
+
+*2024-10-01 12:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-govt-defends-decision-to-retain-top-officials-181771/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s new government has defended its decision to retain the services of two key public officials instrumental to the International Monetary Fund (IMF) programme despite the ruling party’s recent criticisms of them.
+
+Responding to questions from journalists at the first ever cabinet press briefing of President Anura Kumara Dissanayake’s administration, cabinet spokesman Vijitha Herath said Central Bank Governor Nandalal Weerasinghe and Finance Ministry Secretary Mahinda Siriwardana are currently engaged in matters pertaining to the IMF programme.
+
+Herath was asked if the Dissanayake administration retained the services of the two officials because it has now accepted that decisions taken by them during the previous government of President Ranil Wickremesinghe were correct.
+
+...
+
+[Data](articles/dee39865.json)
+
+[Extended Data](ext_articles/dee39865.ext.json)
+
+---
+
+### Mission to free children from harmful prejudices: Sri Lanka president
+
+*2024-10-01 12:18:00* · [`economynextcom`](https://economynext.com/mission-to-free-children-from-harmful-prejudices-sri-lanka-president-181764/) · `en`
+
+ECONOMYNEXT – The new government’s mission is to free children from harmful prejudices and social effects, Sri Lanka President Anura Kumara Dissanayake said in a World Children’s Day message.
+
+“Our mission in this renaissance era is to free children from harmful prejudices and social effects, and the pressures of exam-focused education, which hinder their psychosocial development,” a statement by the president’s media division read.
+
+To achieve this, the government will promote economic freedom, Dissanayake said.
+
+Sri Lanka marks World Children’s Day on October 1. The rest of the world marks it on November 20.
+
+Globally, October 1 is International Day for Older Persons. There was no presidential message issued to mark this. The current president’s party campaigned on an ageist platform pandering to younger voters and disparaging older politicians.
+
+Let’s dedicate ourselves to creating a better world for them.
+
+...
+
+[Data](articles/9ee038af.json)
 
 ---
 
@@ -2165,311 +2389,5 @@ In the past, we have allowed ourselves to become fragmented—split into various
 [Data](articles/ad75bbf5.json)
 
 [Extended Data](ext_articles/ad75bbf5.ext.json)
-
----
-
-### Sri Lanka will discuss IMF program, ISB deal in US late Oct: Minister Herath
-
-*2024-10-01 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-will-discuss-imf-program-isb-deal-in-us-late-oct-minister-herath-181763/) · `en`
-
-ECONOMYNEXT – A team from Sri Lanka will visit the International Monetary Fund headquarters in the United States later in October to hold in-depth discussions, Media Minister Vijitha Herath said.
-
-An IMF team currently in Sri Lanka will engage in preliminary discussions on taking the program forward, he said after at the weekly post-cabinet press briefing.
-
-President’s advisors and Treasury Secretary will be in the Sri Lanka team, he said.
-
-The IMF deal was not discussed at the cabinet meeting but Sri Lanka would review the program and go forward, he said.
-
-A framework deal with international sovereign bonds, which was in final stages, will also be discussed with the IMF, he said.
-
-Sri Lanka will also discuss about domestic debt restructuring since there have been criticisms about that he said. (Colombo/Oct01/2024)
-
-◼️
-
-[Data](articles/6fa398ad.json)
-
-[Extended Data](ext_articles/6fa398ad.ext.json)
-
----
-
-### Acting Controller General of Immigration and Emigration appointed
-
-*2024-10-01 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102370/acting-controller-general-of-immigration-and-emigration-appointed-) · `en`
-
-The Additional Secretary of Public Security Ministry, B.M.D. Nilusha Balasuriya, has been appointed as the Acting Controller General of Immigration and Emigration, said the Cabinet Spokesman, Minister Vijitha Herath.
-
-This decision follows the recent remand of the former Controller General of Immigration and Emigration I.S.H.J. Illukpitiya, who has been ordered remanded from September 25 by the Supreme Court over contempt charges.
-
-Since Mr. I.S.H.J. Illukpitiya, who served as a Controller General of Immigration and Emigration, has been remanded from 25-09-2024 on Supreme Court Order, a suitable officer should be appointed to perform the duties in the said post, the cabinet spokesman said.
-
-...
-
-[Data](articles/ef7b47fa.json)
-
-[Extended Data](ext_articles/ef7b47fa.ext.json)
-
----
-
-### Nilazasasha Balasuriya is appointed to act in the post of Immigration and Emigration
-
-*2024-10-01 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201717) · `si`
-
-Nilasasha Balasuriya appointed Immigration & Emigration Controller. Cabinet approves proposal. Previously served as Controller General. Decision made September 25th. Special grade officer in Sri Lanka Administrative Service.
-
-🟩
-
-B. M. D. The proposal made by the Cabinet of Public Defense has been approved to appoint Nilasasha Balasuriya to the appointment of Immigration and Emigration Controller.
-
-Served as the Controller General of Immigration and Emigration. S. H. J. The decision has been taken from the 25th of September to the Supreme Court orders from September 25th.
-
-Balasuriya is a special grade of the Sri Lanka Administrative Service as a Additional Secretary of the Public Defense Ministry.
-
-◼️
-
-[Data](articles/23919fe9.json)
-
-[Extended Data](ext_articles/23919fe9.ext.json)
-
----
-
-### “Ranil should resign”
-
-*2024-10-01 10:56:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-பதவி-விலக-வேண்டும்/175-344751) · `ta`
-
-"Ranil Wickremesinghe urged UNP resignation for alliance. Harshana Rajakaruna suggests joining SJP instead. UNP grassroots resolution against Wickremesinghe begins. Vajira Abeywardena proposes forming common opposition coalition."
-
-🟩
-
-The United National Party (UNP) leader Ranil Wickremesinghe urges the United National Party (UNP) to resign as a matter of alliance with his party in considering the general election.
-
-Former parliamentarian Harshana Rajakaruna has said that all the United National Party should join the SJP rather than join the United National Party.
-
-“Let a few people who want to support party leader Wickremesinghe be with a few party members in Sirikotha, others must join us. The SJP is now the best place for the United National Party. We are ready to take over the United National Party if the current leader Ranil Wickremesinghe resigned and handed over the party to us.
-
-He has repeatedly asked Mr. Vikramasinghe to resign from his post and he did not listen to his request. Rajakaruna told the media that if Wickremesinghe leaves, we are ready to capture the UNP, but there is doubt whether it will be given to us.
-
-...
-
-[Data](articles/699f25ab.json)
-
-[Extended Data](ext_articles/699f25ab.ext.json)
-
----
-
-### Ceylon Chamber head, Anil Jayantha advisors to Sri Lanka president
-
-*2024-10-01 10:48:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-head-appointed-advisor-to-sri-lanka-president-181750/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa has been appointed Senior Consultant of Economic affairs and Finance to President Anura Dissanayake, Cabinet media spokesman minister Vijitha Herath said.
-
-“The special advisors will not be receiving any remuneration, and this is a voluntary position,” Herath told reporters at the first Cabinet press briefing after the president was elected.
-
-Consensus of the 3 member Cabinet of Ministers was also given to appoint A A J Fernando, as Senior Consultant of Economic Affairs and Finance.
-
-Duminda Hulangamuwa is the Country Managing Partner for Sri Lanka and The Maldives, Ernst & Young.
-
-He has experience of 30 years in the industry, and is a member of the Chartered Institute of Accountants of Sri Lanka and the Chartered Institute of Management Accountants (UK). (Colombo/Oct1/2024)
-
-◼️
-
-[Data](articles/104bae04.json)
-
-[Extended Data](ext_articles/104bae04.ext.json)
-
----
-
-### Anura Kumara Dissanayake;'Left -wing' star in Sri Lankan sky
-
-*2024-10-01 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195194) · `ta`
-
-This text appears to be a biographical sketch of Anura Kumara Dissanayake, a prominent figure in Sri Lankan politics. Here's a summary of key points:
-
-
-
-1. Early life and education: 
-
-   - Born in Thambuttegama
-
-   - First student from Thambuttegama Central College to attend the University of Peradeniya
-
-   - Enthusiastic reader, particularly fond of works by Leo Tolstoy, Marx, and Mahinda Prasad Mahesimbul
-
-
-
-2. Political involvement:
-
-   - Joined the Janatha Vimukthi Peramuna (JVP) in 1987 at age 19
-
-   - Brother Sunil Ratnayake influenced his decision to join the JVP
-
-   - Participated in the JVP's second rebellion in 1987-1990
-
-   - Involved in underground activities, including messenger work
-
-
-
-3. Personal experiences:
-
-   - Witnessed the death of his brother Sunil Ratnayake during the JVP's second rebellion
-
-   - Fled to Peradeniya and then to Kelaniya University
-
-   - Family home allegedly set on fire by state agents
-
-
-
-4. Later career:
-
-   - Resumed education at the University of Kelaniya
-
-   - Gradually rose through the ranks of the JVP
-
-   - Currently serves as the Executive President of Sri Lanka
-
-
-
-5. Historical context:
-
-   - Mentioned the Indo-Sri Lanka Peace Agreement of 1987
-
-   - Referenced the JVP's first rebellion in 1971
-
-   - Discussed the aftermath of the JVP's second rebellion, including the deaths of many youth and leaders
-
-
-
-6. Cultural references:
-
-   - Compared the JVP's resurgence to the phoenix bird in mythology
-
-   - Mentioned historical figures like Marx, Engels, Lenin, Gandhi, and others whose works influenced Dissanayake
-
-
-
-This biography provides insight into Dissanayake's early life, his involvement in Sri Lankan politics, particularly with the JVP, and his rise to prominence in the country's left-wing movement.
-
-🟩
-
-Red Star Over China's 'Red Star Over China' has prompted the topic to put this title to American journalist Edgar Sino. It was first published in 1937 as a life -threatening illustration of the Chinese Communist leader Mao Sethung and the Red Cross.. Mao Sethung, known as Mao, was not known in the West at the time.
-
-Many years later, when the Communists, led by Mao seized power in China. It was read with the Paravaru to get an impression on the new Communist rulers of China.
-
-Newly elected Executive President Anura Kumara Dissanayake in Sri Lanka is a red star or left -wing star in Sri Lanka today. Anura or AKD. Dissanayake, who was popularly known, won the election on September 21, 2024.. He was sworn in as the Executive President of Sri Lanka on September 23.
-
-55 -year -old Dissanayake Janata Vimukthi Peramuna (JVP. ) The leader of the national and the power of the people.The JVP, who became a radical movement and later became a political party. Has a history of six decades.
-
-...
-
-[Data](articles/154c9b82.json)
-
-[Extended Data](ext_articles/154c9b82.ext.json)
-
----
-
-### All parties should unite to ensure Tamil representation of Ampara District - Former President Mahinda Rajapaksa's Ampara District Coordinator
-
-*2024-10-01 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195192) · `ta`
-
-Former President Mahinda Rajapaksa's Ampara District Coordinator calls for unity among parties to secure Tamil representation in the upcoming parliamentary elections. He criticizes other parties for neglecting Tamil representation in previous elections and appeals to them to contest to achieve 35,000 votes.
-
-🟩
-
-Former President Mahinda Rajapaksa's Ampara District Coordinator and former Member of the Eastern Provincial Council, Kumaraswamy Puspakumar, said that all parties should unite to ensure Tamil representation in the Ampara district.
-
-He was speaking at a special press conference held on Monday night on contemporary political issues at the Ampara Media Center.
-
-In the upcoming parliamentary elections, all should unite to obtain Tamil representation in the Ampara district.
-
-This is because various parties visited the Ampara district to avoid the Tamil representation of the Ampara district in the past election.
-
-All parties must come forward to cooperate to cooperate with all the parties to keep our representation from doing so.
-
-...
-
-[Data](articles/81b9b7db.json)
-
-[Extended Data](ext_articles/81b9b7db.ext.json)
-
----
-
-### Duminda Hulangamuwa and Prof. Anil Fernando appointed Senior Economic Advisors to President
-
-*2024-10-01 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102369/duminda-hulangamuwa-and-prof-anil-fernando-appointed-senior-economic-advisors-to-president) · `en`
-
-The Cabinet of Ministers has given its consensus to appoint the Chairman of the Ceylon Chamber of Commerce, Duminda Hulangamuwa and Professor Anil Fernando of Sri Jayewardenepura University as Senior Economic Advisors to the President.
-
-They will serve in an honorary capacity, according to the Cabinet Spokesman, Minister Vijitha Herath.
-
-As per powers vested by the Article 41 (1) of the Constitution, the president is empowered to appoint his staff by consulting the Cabinet of Ministers.
-
-Accordingly, it has been decided to give the consensus of the Cabinet of Ministers to appoint Mr. Duminda Hulangamuwa (Senior Consultant of Economic Affairs and Finance) and Dr. A.A.J. Fernando (Senior Consultant of Economic affairs and Finance) with effect from 24-09-2024 on honorary basis, the spokesman said.
-
-◼️
-
-[Data](articles/e3cfec27.json)
-
-[Extended Data](ext_articles/e3cfec27.ext.json)
-
----
-
-### Rohan De Sema: The British National Sri Lanka, who wins the music industry in England
-
-*2024-10-01 10:43:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz048dl181do) · `si`
-
-Here's a 200-character summary:
-
-
-
-Rohan de Seam: British-Sri Lankan cellist. Born in England to Sri Lankan parents. Won awards including Guilhermina Suggia Award. Played with renowned musicians like Pablo Casals. Member of Cherioti Quartet for 26 years. Known for rare talent and blending Eastern and Western influences in music.
-
-🟩
-
-Rohan De Sema: The British National Sri Lanka, who wins the music industry in England
-
-Rohan de Seam, who was born as a physician, who was born a Sri Lankan mother and father, passed away on September 29.
-
-Although a Sri Lankan pig is a Sri Lankan pig in the name Rohan De Seam, he is called a British Chelona.
-
-He is known as a gardens with Britain's climax.
-
-How was Rohan de Seam born to Sri Lankan parents and was a British?
-
-On March 9, 1939, during the British colonial season, Rohan de Forum was born in Sheffield area of ​​England.
-
-Therefore, some are known as a Sri Lankan born in British.
-
-His parents were Dramaniyagala, Robert De Form and Mirimanalagala.
-
-At the age of 11, he studied with the Spanish National Chew, the famous Spanish Kazao (Gaspar Cassadó) at the age of 11.
-
-In 1955, when he was 16, he became the first winner of the Guilhermina Suggia Award, and then he was able to receive music education with Pablo Casels in the UK. The next year he won Harriet Cohen International Music Award.
-
-...
-
-[Data](articles/22259623.json)
-
-[Extended Data](ext_articles/22259623.ext.json)
-
----
-
-### IMF. Will the agreement review?Here's what is going to discuss with a representative
-
-*2024-10-01 10:42:27* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--ගිවිසුම-සමාලෝචනය-කරයිද--එම-නියෝජිතයක්-සමග-සාකච්ඡා-කරන්න-යන-දේ-මෙන්න/11-412249) · `si`
-
-IMF agreement review: Minister Vijitha Herath states no deep discussion planned with IMF rep tomorrow. Basic meeting to move forward work.
-
-🟩
-
-Minister Vijitha Herath said that a deepening discussion should not be conducted with the IMF representative tomorrow.
-
-He was speaking at a press briefing to inform the Cabinet decisions now.
-
-"IMF. There is an idea that needs to be a review regarding the agreement. But tomorrow's IMF. Such a deep discussion with agents is not. This is the IMF when the new president was over. How to bring the work forward, only a basic discussion of it. "
-
-◼️
-
-[Data](articles/31d0047d.json)
-
-[Extended Data](ext_articles/31d0047d.ext.json)
 
 ---

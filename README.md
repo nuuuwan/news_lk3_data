@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 16:12:50**
+As of **2024-10-01 16:23:21**
 
 ## Newspaper Stats
 
-*Scraped **47,218** Articles*
+*Scraped **47,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ colombotelegraphcom | 471
 islandlk | 2,778
 economynextcom | 2,871
 dailyftlk | 3,162
-adalk | 4,371
+adalk | 4,372
 dailymirrorlk | 4,733
-adaderanalk | 5,556
+adaderanalk | 5,558
 tamilmirrorlk | 6,345
 virakesarilk | 7,550
-adaderanasinhalalk | 8,163
+adaderanasinhalalk | 8,165
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,217 (100.0%) of 47,218 articles have been extended.
+47,223 (100.0%) of 47,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### TNA's former MP Sridharan reports
+
+*2024-10-01 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201731) · `si`
+
+Sridharan meets President Dissanayake at Presidential Secretariat. Discusses human sovereignty and people's sovereignty. Conversation described as friendly by Presidential Media Center.
+
+🟩
+
+Former Jaffna District Parliamentarian S.. Mr. Sridharan met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
+
+Human sovereignty of the people's sovereignty as the President of Sri Lanka. The Presidential Media Senses stabbed that Mr. Sridharan has a friendly conversation with the President.
+
+◼️
+
+[Data](articles/57955abe.json)
+
+[Extended Data](ext_articles/57955abe.ext.json)
+
+---
+
+### Nimal Siripala is unable to quit politics
+
+*2024-10-01 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201730) · `si`
+
+Nimal Siripala de Silva, former minister, claims ready to leave politics but feels obligated due to long political career.
+
+🟩
+
+Former Minister Nimal Siripala de Silva says he is ready to leave politics without any problems.
+
+Speaking to the media, he added that the party and the party of politics with him and the party cannot leave politics.
+
+"I can leave this, I can have no problem. You've been politics for 35 years with us. The only question I have is about 35 years of politics alone, I have the question that I can go to leave. So the winning is not the case. So when I inquired about this, I asked so much that I was saying that I wanted to come to the competition. "
+
+◼️
+
+[Data](articles/aa0920a9.json)
+
+[Extended Data](ext_articles/aa0920a9.ext.json)
+
+---
+
+### TNA’s Shritharan meets President Anura Kumara Dissanayake
+
+*2024-10-01 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102381/tnas-shritharan-meets-president-anura-kumara-dissanayake) · `en`
+
+Former Jaffna District MP of the Tamil National Alliance (TNA), S. Shritharan, has met with President Anura Kumara Dissanayake at the Presidential Secretariat today (01), the President’s Media Division (PMD) said.
+
+During the meeting, former MP Shritharan congratulated President Dissanayake on his election as the ninth Executive President of Sri Lanka, reflecting the will of the people.
+
+The two also engaged in a warm and friendly conversation, the statement said.
+
+◼️
+
+[Data](articles/3f75e4ed.json)
+
+[Extended Data](ext_articles/3f75e4ed.ext.json)
+
+---
 
 ### ASPI jumps 137 points, nears 12,000 mark
 
@@ -45,6 +105,8 @@ Meanwhile, the S&P SL20 has increased by 67.51 points (1.95%) to close at 3,520.
 ◼️
 
 [Data](articles/679edfe7.json)
+
+[Extended Data](ext_articles/679edfe7.ext.json)
 
 ---
 
@@ -450,6 +512,32 @@ Dhammika Perera holds 382,596,970 (51.01%) of the ordinary shares of Hayleys PLC
 
 ---
 
+### President instructs inspection for the answer sheet of the scholarship examination two weeks
+
+*2024-10-01 13:28:51* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගයේ-පිළිතුරු-පත්‍ර-පරීක්ෂාව-සති-දෙකකට-අත්හිටුවීමට-ජනපතිගෙන්-උපදෙස්/11-412257) · `si`
+
+Here's a 200-character summary:
+
+
+
+President orders 2-week suspension of Grade 5 Scholarship Exam answers due to controversy over 3 exam questions. Parents requested cancellation, but exam will proceed with modified questions.
+
+🟩
+
+A discussion was held at the Presidential Secretariat yesterday afternoon, Anura Kumara Dissanayake and Grade 5 Scholarship Examination question paper.
+
+As a result, the President instructed the relevant officials to suspend the answer of the answer scholarship examination for two weeks.
+
+The parents asked the President not to hold the examination but the examination, not 3 questions on the Grade 5 scholarship examination.
+
+◼️
+
+[Data](articles/bd5d7c57.json)
+
+[Extended Data](ext_articles/bd5d7c57.ext.json)
+
+---
+
 ### The person who caused confusion in the struggle of the missing relations of the president's name!
 
 *2024-10-01 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195230) · `ta`
@@ -842,6 +930,30 @@ In September of 2021, Kihida was elected to the ruling party leadership in Septe
 
 ---
 
+### Japan’s parliament elects former defence minister Shigeru Ishiba as prime minister
+
+*2024-10-01 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102374/japans-parliament-elects-former-defence-minister-shigeru-ishiba-as-prime-minister) · `en`
+
+Japan’s parliament on Tuesday formally elected Shigeru Ishiba, head of the governing Liberal Democratic Party, as the country’s new prime minister.
+
+Ishiba was chosen as the party’s leader on Friday to replace Fumio Kishida, who then stepped down earlier on Tuesday to pave the way.
+
+Kishida took office in 2021 but left so his party could have a fresh leader after his government was dogged by scandals. Ishiba plans to call a parliamentary election for Oct. 27.
+
+Opposition parties criticized Ishiba for allowing only a short period of time for his policies to be examined and discussed in parliament before the national election.
+
+Kishida had announced in August he would resign at the end of his three-year term.
+
+Kishida and his ministers stepped down at a Cabinet meeting on Tuesday morning, Chief Cabinet Secretary Yoshimasa Hayashi said. Kishida left his office after a brief send-off ceremony in which he was presented a bouquet of red roses and applauded by his staff and former Cabinet members.
+
+...
+
+[Data](articles/038781c7.json)
+
+[Extended Data](ext_articles/038781c7.ext.json)
+
+---
+
 ### Japan’s parliament elects Shigeru Ishiba, newly elected governing party leader, as prime minister
 
 *2024-10-01 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102374/japans-parliament-elects-shigeru-ishiba-newly-elected-governing-party-leader-as-prime-minister) · `en`
@@ -976,9 +1088,9 @@ The Cabinet of Ministers has approved the appointment of a committee chaired by 
 
 The committee is tasked with submitting a detailed report within two months, offering suitable recommendations or suggesting other alternative methods to assess and review the limitation of claims, allowances and privileges.
 
-- Mr. K.T. Chithrasiri (Chairman) - Retired Supreme Court Judge
+Members of Parliament, Ministers and ex-Presidents who are elected by the people, have been granted various entitlements, allowances, and privileges such as salaries, allowances, pensions, quarters, vehicles, staff, office equipment and security personnel.
 
-◼️
+...
 
 [Data](articles/40a6da27.json)
 
@@ -2273,111 +2385,5 @@ Speaking at the inauguration ceremony of the Institute of Democracy and Governan
 [Data](articles/b6338827.json)
 
 [Extended Data](ext_articles/b6338827.ext.json)
-
----
-
-### JCI Sri Lanka set to emerge as dynamic force for change
-
-*2024-10-01 01:20:23* · [`dailyftlk`](https://www.ft.lk/news/JCI-Sri-Lanka-set-to-emerge-as-dynamic-force-for-change/56-767384) · `en`
-
-In a pivotal move towards revitalising Junior Chamber International (JCI) Sri Lanka, the JCI Senate Sri Lanka and JCI Colombo Mid-Town, on Sunday kicked off the Asia Pacific Development Councillors (APDC). It concludes tomorrow.
-
-Founded in 1954, JCI Sri Lanka faced disaffiliation in 2017 due to internal challenges. However, recent efforts have led to the establishment of four new chapters, including the inauguration of JCI Colombo Central held recently at the NH Collection Hotel, Colombo.
-
-The purpose of the APDC visit is to evaluate the progress made by the local JCI Movement. A positive assessment could facilitate Sri Lanka’s re-admission to the global JCI network, positioning the country for the JCI World Congress in October 2024 in Taiwan. This is a crucial step in re-establishing Sri Lanka’s role within the global JCI network, which emphasises leadership development, entrepreneurship, and community service.
-
-...
-
-[Data](articles/b8734674.json)
-
-[Extended Data](ext_articles/b8734674.ext.json)
-
----
-
-### Locate Your Child Anywhere with Dialog Suraksha Tag: The Ultimate Tracking Solution
-
-*2024-10-01 01:17:30* · [`dailyftlk`](https://www.ft.lk/news/LocateYour-Child-Anywhere-with-Dialog-Suraksha-Tag-The-Ultimate-Tracking-Solution/56-767383) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, has announced the launch of the Dialog Suraksha Tag, an advanced child tracking solution designed to offer parents and guardians peace of mind by allowing them to monitor their child’s location in real time. This compact, wearable device, which can be comfortably worn around the neck, is ideal for young children who may not be old enough to use a phone.
-
-The TeDi Fleet mobile app, launched in collaboration with The Connection Workshop Pvt Ltd, a fully owned subsidiary of South Asian Technologies, integrates seamlessly with the Dialog Suraksha Tag, allowing parents to easily manage its features. The app supports multiple access, enabling both parents to monitor their child’s location simultaneously with real-time updates.
-
-...
-
-[Data](articles/8c6d8f80.json)
-
-[Extended Data](ext_articles/8c6d8f80.ext.json)
-
----
-
-### Vijitha Herath - Santosh Ja Meeting
-
-*2024-10-01 00:30:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-சந்தோஷ்-ஜா-சந்திப்பு/175-344742) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Meeting: Vijitha Herath (Sri Lanka) met Santosh Ja (India). Discussed strengthening bilateral ties and cultural exchange between nations.
-
-🟩
-
-A meeting was held yesterday between External Affairs Minister Vijitha Hera and Indian High Commissioner Santosh Ja.
-
-In addition, the Indian High Commission in Sri Lanka has stated that the Indian High Commission in Sri Lanka has also discussed the process of further strengthening the cultural friendship of the two countries.. (A)
-
-◼️
-
-[Data](articles/55a9b99c.json)
-
-[Extended Data](ext_articles/55a9b99c.ext.json)
-
----
-
-### Postal Voting: Applications Complete the Printing
-
-*2024-10-01 00:19:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்களிப்பு-விண்ணப்பங்கள்-அச்சிடல்-நிறைவு/175-344741) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Postal voting applications for the 2023 general election have been finalized. The government reports 10 lakh applications have been printed. Action to accept applications for the 2024 general election begins today."
-
-🟩
-
-Postal voting applications for the upcoming general election have been completed, the State Press said.
-
-Government Amaker Ganga Kalpani Liyanage says 10 lakh applications have been printed.
-
-Meanwhile, action to accept applications for postal voting in 2024 general elections will begin today. (A)
-
-◼️
-
-[Data](articles/367328c7.json)
-
-[Extended Data](ext_articles/367328c7.ext.json)
-
----
-
-### Helen Storm in the United States: 90 killed
-
-*2024-10-01 00:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவில்-ஹெலன்-புயல்-90-பேர்-பலி/50-344740) · `ta`
-
-Helen Storm kills 90 in North Carolina. Electricity and communication disrupted. Roads closed due to tree collapses. Worst US hurricane in 173 years.
-
-🟩
-
-Foreign media reports that 90 more people have been killed in a Helen storm that hit the state of North Carolina in the United States.
-
-It has been reported that electricity and telecommunication services have been paralyzed throughout the state and many roads have been closed due to the collapse of trees.
-
-Helen storm recorded as the worst hurricane that hit the United States in 173 years. (A)
-
-◼️
-
-[Data](articles/9883e2f4.json)
-
-[Extended Data](ext_articles/9883e2f4.ext.json)
 
 ---

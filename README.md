@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 15:22:56**
+As of **2024-10-01 15:38:56**
 
 ## Newspaper Stats
 
-*Scraped **47,213** Articles*
+*Scraped **47,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 471
 islandlk | 2,778
 economynextcom | 2,871
 dailyftlk | 3,162
-adalk | 4,370
+adalk | 4,371
 dailymirrorlk | 4,733
 adaderanalk | 5,555
 tamilmirrorlk | 6,345
@@ -26,37 +26,71 @@ adaderanasinhalalk | 8,160
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,211 (100.0%) of 47,213 articles have been extended.
+47,213 (100.0%) of 47,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
 
-### புதிய ஜனாதிபதிக்கு   ஸ்ரீதரன்  வாழ்த்து
+### එක්දින තරගයක්  මෙන් ක්‍රීඩා කළ ඉන්දු - බංග්ලාදේශ ටෙස්ට් තරගයේ ජය ඉන්දියාවට
+
+*2024-10-01 15:02:24* · [`adalk`](https://www.ada.lk/sports/එක්දින-තරගයක්--මෙන්-ක්‍රීඩා-කළ-ඉන්දු---බංග්ලාදේශ-ටෙස්ට්-තරගයේ-ජය-ඉන්දියාවට/9-412258) · `si`
+
+බංග්ලාදේශ කණ්ඩායමට එරෙහිව පැවති දෙවැනි ටෙස්ට් ක්‍රිකට් තරගයෙන් කඩුලු 07ක ජයක් වාර්තා කිරීමට සංචාරක ඉන්දීය කණ්ඩායම සමත් විය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බංග්ලාදේශ කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 233ක් රැස් කළ අතර, ඊට පිළිතුරු ඉනිම ඉන්දීය කණ්ඩායම  පළමු ඉනිමට කඩුලු 09ක් දැවී ලකුණු 285ක් ලබා සිටියදී ඉනිම අත්හිටුවීමට කටයුතු කළේය.
+
+අනතුවරු දෙවන ඉනිම ක්‍රීඩා කළ බංග්ලාදේශ කණ්ඩායම සියලුදෙනා දැවී ලකුණු 146ක් රැස් කළේය.
+
+ඒ අනුව ජයග්‍රාහී ලකුණු 95ක ඉලක්කය හඹා ගිය ඉන්දීය කණ්ඩායම කඩුලු 03ක් පමණක් දැවී ලකුණු 98ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
+
+මෙහිදී ඉන්දීය කණ්ඩායම පළමු ඉනිමේදී වේගවත් ලෙස ලකුණු රැස් කරනු දක්නට ලැබිණි.
+
+මෙම තරගාවලියේ තරග දෙකම ජයගත් ඉන්දීය කණ්ඩායම තරගාවලියේ ජයද හිමි කරගනු ලැබුවේය.
+
+◼️
+
+[Data](articles/b9cfc1f8.json)
+
+---
+
+### Sridharan congratulates the new president
 
 *2024-10-01 15:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-ஸ்ரீதரன்-வாழ்த்து/175-344762) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின்   யாழ்.மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் எஸ். ஸ்ரீதரன் இன்று (01) முற்பகல் ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை சந்தித்தார்.
+Sridharan congratulates Anura Kumara Dissanayake on his election as Sri Lanka's president. Former TNA MP met Dissanayake at the Presidential Office, praising him as the people's choice for the role.
 
-இலங்கையின் ஒன்பதாவது நிறைவேற்று அதிகாரம் கொண்ட ஜனாதிபதியாக மக்கள் இறைமையின் ஊடாகத் தெரிவு செய்யப்பட்ட  அநுரகுமார திசாநாயக்கவுக்கு வாழ்த்துத் தெரிவித்த எஸ். ஸ்ரீதரன் , ஜனாதிபதியுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்டார்.
+🟩
+
+Former Parliamentarian of the Tamil National Alliance (TNA). Sreedharan met President Anura Kumara Dissanayake at the Presidential Office early this morning.
+
+S. congratulated Anuragumara Dissanayake, who was elected through the sovereignty of the people as the ninth executive president of Sri Lanka. Sreedharan engaged in a speech with the president.
 
 ◼️
 
 [Data](articles/ce0ad5ce.json)
 
+[Extended Data](ext_articles/ce0ad5ce.ext.json)
+
 ---
 
-### තායිලන්තයෙන් වාර්තා වූ ඛේදවාචකය
+### The tragedy reported from Thailand
 
 *2024-10-01 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201726) · `si`
 
-තායිලන්තයේ පාසල් සිසුන් සහ ගුරුවරුන් පිරිසක් ක්ෂේත්‍ර චාරිකාවක් සඳහා ගමන් කරමින් සිටි බස් රථය ගිනි ගැනීමෙන් 25 දෙනෙක් පමණ මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Tragedy in Thailand: School children and teachers died in fire near Thailand today. Foreign media reports details.
 
-අද (01) එම අනතුර සිදුව ඇත්තේ තායිලන්ත අගනුවරට ආසන්න ප්‍රදේශයක දීය.
+🟩
+
+A group of school children and teachers in Thailand have died on fire, foreign media reports.
+
+The accident had occurred in the area near Thailand today (01).
 
 ◼️
 
 [Data](articles/9b0698d4.json)
+
+[Extended Data](ext_articles/9b0698d4.ext.json)
 
 ---
 
@@ -2335,21 +2369,5 @@ This represents a historic change in the country. For the first time in Sri Lank
 [Data](articles/66f76ce4.json)
 
 [Extended Data](ext_articles/66f76ce4.ext.json)
-
----
-
-### Triumph of an independent commission – a role model
-
-*2024-09-30 23:39:39* · [`dailyftlk`](https://www.ft.lk/columns/Triumph-of-an-independent-commission-a-role-model/4-767365) · `en`
-
-A peaceful, fair, and corruption-free national election is a rare achievement for a developing, financially struggling country. However, we should take pride in our Election Commission, which excelled in planning, executing, counting, and releasing the results of a significant and complex election in a remarkably short time. Additionally, the Commission effectively mitigated post-election celebrations, preventing the violence and intimidation that often follow.
-
-First, we must congratulate the Chairperson, R.M.A.L. Rathnayake, the Election Commission board members, and all staff for their outstanding work. Such recognition is seldom seen, even in the media, which tends to focus more on inflammatory stories that threaten peace.
-
-...
-
-[Data](articles/b22ac744.json)
-
-[Extended Data](ext_articles/b22ac744.ext.json)
 
 ---

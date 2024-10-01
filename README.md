@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 19:22:54**
+As of **2024-10-01 19:38:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,170
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,245 (100.0%) of 47,246 articles have been extended.
+47,246 (100.0%) of 47,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,15 +108,21 @@ In 1986, the farmers who enter the Indian cinema in 1986 have already contribute
 
 ---
 
-### ලිට්‍රෝ ගෑස් මිල ගැන අද ගත්ත තීරණය මෙන්න
+### Here is the decision about the litro gas price
 
 *2024-10-01 18:02:24* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-ගැන-අද-ගත්ත-තීරණය-මෙන්න/11-412261) · `si`
 
-ඔක්තෝම්බර් මාසයට අදාළව ලිට්‍රෝ ගෑස් මිල වෙනස් නොකිරීමට එම සමාගම තීරණය කර තිබේ.
+Litro gas prices unchanged in October. Company maintains current rates.
+
+🟩
+
+The company has decided not to change the litro gas prices in relation to October.
 
 ◼️
 
 [Data](articles/b0f8a1b2.json)
+
+[Extended Data](ext_articles/b0f8a1b2.ext.json)
 
 ---
 

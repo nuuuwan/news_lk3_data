@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 18:19:44**
+As of **2024-10-01 18:34:40**
 
 ## Newspaper Stats
 
-*Scraped **47,241** Articles*
+*Scraped **47,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,561
 tamilmirrorlk | 6,346
 virakesarilk | 7,558
-adaderanasinhalalk | 8,168
+adaderanasinhalalk | 8,169
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,241 (100.0%) of 47,241 articles have been extended.
+47,242 (100.0%) of 47,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Superbollywood Veduvada shot
+
+*2024-10-01 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201735) · `si`
+
+Bollywood actor Govinda hospitalized after self-inflicted gunshot wound. Condition stable, expected recovery. Actor known for iconic roles in 80s-90s films.
+
+🟩
+
+Populated Bollywood actor Govinda has been hospitalized due to firing.
+
+The Indian media said that the legitimated revolver was in operation and shot his own foot.
+
+The shooting was injured below the knee and after nearly an hourly surgery, reports say.
+
+The doctors have said that his condition is not serious and that he can leave the hospital after being treated with hospital for several days.
+
+The 60th is now known as the Hero no.1 of the 60th, the 60th year-old governing cinema.
+
+In 1986, the farmers who enter the Indian cinema in 1986 have already contributed to the performance of the film.
+
+◼️
+
+[Data](articles/439a932e.json)
+
+[Extended Data](ext_articles/439a932e.ext.json)
+
+---
 
 ### Notification of University Grants Commission!
 
@@ -2423,35 +2451,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/28a5e8e3.json)
 
 [Extended Data](ext_articles/28a5e8e3.ext.json)
-
----
-
-### Postal voting applications from today
-
-*2024-10-01 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201712) · `si`
-
-Postal voting applications begin today. Applications open until Oct 8 for Nov 14 general election. Electoral registers displayed at District Secretariats and Grama Niladhari offices. Apply online or at district election offices. Submit forms to district selection officers by Oct 8 deadline.
-
-🟩
-
-Postal voting applications for the general election begins today (01).
-
-The Elections Commission announced that applications were accepted until midnight on October 8.
-
-The 2124 general election will be used for the 2024 general election on November 14.
-
-The Elections Commission announced that the electoral regions of the 2024 electoral registers are displayed today for the convenience of postal vacancies.
-
-Accordingly, electoral registers are to be displayed at all District Secretariats, all Grama Niladhari offices and other selected areas.
-
-Postal voting applications can be obtained from the district election offices, while the district election offices can be recovered from the Commission website.
-
-The Election Commission states that the applications should be sent to the selection officer in the district on or before October 08.
-
-◼️
-
-[Data](articles/cf6e491a.json)
-
-[Extended Data](ext_articles/cf6e491a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 13:22:57**
+As of **2024-10-01 13:39:24**
 
 ## Newspaper Stats
 
-*Scraped **47,185** Articles*
+*Scraped **47,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,144 @@ colombotelegraphcom | 471
 islandlk | 2,776
 economynextcom | 2,871
 dailyftlk | 3,162
-adalk | 4,366
+adalk | 4,368
 dailymirrorlk | 4,733
 adaderanalk | 5,550
-tamilmirrorlk | 6,340
-virakesarilk | 7,543
+tamilmirrorlk | 6,342
+virakesarilk | 7,548
 adaderanasinhalalk | 8,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,185 (100.0%) of 47,185 articles have been extended.
+47,194 (100.0%) of 47,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### New Chairman appointment to Litro
+
+*2024-10-01 13:16:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-நிறுவனத்திற்கு-புதிய-தலைவர்-நியமனம்/175-344758) · `ta`
+
+Sanna Gunawardena appointed new chairman of Litro Gas Terminal Lanka. Previously executive director of Porcelain PLC. Holds chartered accountant degree from Sri Jayawardenapura University.
+
+🟩
+
+Sanna Gunawardena has been appointed as the new chairman of Litro Gas Terminal Lanka (PVT) LTD. He had previously served as the Executive Director of Porcelain PLC.
+
+Channa is a colleague and a colleague of Sri Lankan Chartered Accountant in Chartered Administrative Accountants (UK) graduated from the University of Queensland, Australia.
+
+He holds a first grade degree in the field of accounting and financial management of Sri Jayawardenapura University.
+
+◼️
+
+[Data](articles/5f3e86a9.json)
+
+[Extended Data](ext_articles/5f3e86a9.ext.json)
+
+---
+
+### Missing Relationships Demonstration on Children's Day!
+
+*2024-10-01 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195215) · `ta`
+
+Demonstration by Association of Missing Relations on Children's Day. Protesters demand justice for missing children, criticize Visamis' interference. Carried Tamil children's photos, raised slogans.
+
+🟩
+
+A demonstration was staged by the Association of Missing Relations on Tuesday (01).
+
+No one has created a judicial system for our children who have disappeared despite all the children's organizations in Sri Lanka. So we are carrying out our struggles for international justice.
+
+In this case, some Visamis are deliberately carrying out activities to confuse our struggles. However, we will not abandon these struggles until we get justice.
+
+The protesters carry the Tamil children terrorists, the day of the Children's Day seeking justice, the Bachilam children's arms carried and the slogans were raised.
+
+◼️
+
+[Data](articles/33723360.json)
+
+[Extended Data](ext_articles/33723360.ext.json)
+
+---
+
+### The beginning of the main two inquiries
+
+*2024-10-01 13:08:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முக்கிய-இரு-விசாரணைகள்-ஆரம்பம்/175-344757) · `ta`
+
+Preliminary investigations launched into Easter bombings and central bank bailout by Ministry of Public Security, according to Cabinet Spokesman Vijitha Herath.
+
+🟩
+
+Cabinet spokesman and minister Vijitha Herath said that preliminary inquiries into Easter Sunday bombings and central bank bailout have begun.
+
+He added that the initial inquiries have been launched by the Ministry of Public Security.
+
+◼️
+
+[Data](articles/de56e839.json)
+
+[Extended Data](ext_articles/de56e839.ext.json)
+
+---
+
+### "Must be more concerned about enriching the mood of the children" - Chairman Rishad!
+
+*2024-10-01 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195214) · `ta`
+
+Chairman Rishad emphasizes nurturing children's emotional well-being through compassion, love, and warmth. He believes community leaders should leverage challenges to enhance children's resilience and future outlook.
+
+🟩
+
+All Ceylon People's Congress leader Rishad Bathiudeen has stated that it is necessary to strengthen the mood of the children by compassion, love and warmth.
+
+The compulsion to build themselves in the face of massive challenges has caused children in today's modern world.
+
+It is the responsibility of the community leaders to find out the means to take advantage of these challenges.
+
+We are engaged in the field work in this responsibility. Our activities will support the future beliefs of all children. ”
+
+◼️
+
+[Data](articles/2929800e.json)
+
+[Extended Data](ext_articles/2929800e.ext.json)
+
+---
+
+### Explanation for Ivar
+
+*2024-10-01 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195207) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Five suspects arrested for illegal excavation in Batticaloa. Ordered remanded till Thursday. Police seized treasure-related items. Suspects aged 28-30, four from Batticaloa district.
+
+🟩
+
+The Kalmunai Magistrate has ordered the five suspects arrested on charges of excavating a house till Thursday (3).
+
+Five persons were arrested on charges of excavating a house in Pandaruppu Thiruvalluvar Road, Pandaruppu Thiruvalluvar Road last Friday night (27).
+
+The suspects have arrested the suspects in a roundup of confidential information available to the police led by the Inspector of Police, JSK Weerasinghe, who is in charge of the Periyakkunnu Police Station.
+
+Kalmunai Court Responding to the five suspects arrested. He was ordered to be held in detention until Monday (30).
+
+The Kalmunai Magistrate's Magistrate has ordered to be remanded till Thursday (3), as the five suspects arrested at the Kalmunai Magistrate's Court on Monday (30) were presented.
+
+In the incident, his friends, including a man who lived on Pandaruppu Thiruvalluvar road, were arrested by the police on charges of excavating treasure.
+
+...
+
+[Data](articles/d5fcef0a.json)
+
+[Extended Data](ext_articles/d5fcef0a.ext.json)
+
+---
 
 ### "He died of arakala attack"
 
@@ -51,6 +173,50 @@ It is noteworthy that he was a member of the opposition at the time of the attac
 [Data](articles/eb7ed84d.json)
 
 [Extended Data](ext_articles/eb7ed84d.ext.json)
+
+---
+
+### New chairman appointed to Litro Gas Company
+
+*2024-10-01 12:57:12* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-සමාගමට-නව-සභාපතිවරයෙක්-පත්-කෙරේ/11-412255) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"New chairman appointed to Litro Gas Company: Litro Gas Company and Litro Gas Terminal Lanka (Pvt) announce appointment of new chairman for Sri Lanka."
+
+🟩
+
+Litro Gas Company and Litro Gas Terminal Lanka (Pvt) A new Chairman of Sri Lanka has been appointed.
+
+◼️
+
+[Data](articles/81f74580.json)
+
+[Extended Data](ext_articles/81f74580.ext.json)
+
+---
+
+### Bus service from Kirimala to Colombo
+
+*2024-10-01 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195205) · `ta`
+
+Sri Lanka Transport Board resumes bus service from Kirimala to Colombo starting Tuesday. Route includes stops at Point Pedro, Velvettithurai, and Puttalam before reaching Colombo. Service previously unavailable due to lack of buses and drivers until 2020.
+
+🟩
+
+Bus service from Kirimala to Colombo will be resumed from Tuesday (01) by the Sri Lanka Transport Board's Point Pedro Road.
+
+Due to the lack of a service bus and a lack of drivers until the year 2020, the departure from Kirimalai at 7:15 pm and reached the Point Pedro, Velvettithurai, Velvettithurai, from Point Pedro Malisandi, Nelliyadi, Thunnalai via Puttalam, Puttalam, Puttalam, Puttalam, Puttalam.Point Pedro Road Management has announced that it will reach Colombo.
+
+Meanwhile, the services from Point Pedro via Amban Maruthankani were not able to continue due to shortage of bus services, drivers and buses to Colombo.
+
+◼️
+
+[Data](articles/0f778acf.json)
+
+[Extended Data](ext_articles/0f778acf.ext.json)
 
 ---
 
@@ -83,6 +249,30 @@ The players Nighth Kumar, Abhishek Sharma and Hersh, was also replaced by Night.
 [Data](articles/ef155a57.json)
 
 [Extended Data](ext_articles/ef155a57.ext.json)
+
+---
+
+### Elections Rs. 11ths 11
+
+*2024-10-01 12:36:22* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-රු-බි--11ක්-වෙන්-කරයි/11-412253) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"President Anura Kumara Dissanayake approves allocation of Rs. 11 billion for parliamentary elections. Rs. 5 billion will come from Consolidated Fund."
+
+🟩
+
+President Anura Kumara Dissanayake has been approved by President Anura Kumara Dissanayake to allocate Rs. 11 billion for the parliamentary election.
+
+5 billion rupees will be obtained from the Consolidated Fund to Rs.
+
+◼️
+
+[Data](articles/efd96ea7.json)
+
+[Extended Data](ext_articles/efd96ea7.ext.json)
 
 ---
 
@@ -173,6 +363,34 @@ Channa Gunawardana has been appointed as the new Chairman of Litro Gas Lanka Lim
 [Data](articles/4628feb7.json)
 
 [Extended Data](ext_articles/4628feb7.ext.json)
+
+---
+
+### Actor Rajinikanth Hospital
+
+*2024-10-01 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195211) · `ta`
+
+Rajinikanth hospitalized in Chennai with stomach inflammation. Doctors treating him. Angiogram scheduled for Tuesday. Actor recovering after sudden illness. Previously treated at Apollo Hospital in 2020 due to health issues.
+
+🟩
+
+Actor Rajinikanth has been admitted to the Apollo Hospital in Chennai on Monday evening (30) evening.
+
+Doctors who examined him reported that the stomach was found to have inflammation in the blood vessel. It is reported that doctors are being treated and his health is steady.
+
+In this case, the Medical Committee has decided to arrange for Rajinikanth on Tuesday (01) than angiogram.
+
+Actor Rajinikanth has completed his role in Vettaiyan. The film is set to hit the screens on the 10th. This is followed by Rajinikanth in the film Kuli.
+
+It is reported that actor Rajinikanth has suffered a sudden illness and has suffered a sudden illness.
+
+In addition, actor Rajinikanth has already been treated at the Apollo Hospital due to a sudden illness in December 2020 and has abandoned politics due to ill health.
+
+◼️
+
+[Data](articles/0075c2cd.json)
+
+[Extended Data](ext_articles/0075c2cd.ext.json)
 
 ---
 
@@ -2069,199 +2287,5 @@ There are many election manifestos flying around these days issued by the major 
 [Data](articles/5519b8bf.json)
 
 [Extended Data](ext_articles/5519b8bf.ext.json)
-
----
-
-### UNP's prominent alliances compete in all election areas
-
-*2024-09-30 23:03:36* · [`adalk`](https://www.ada.lk/breaking_news/එජාප-ප්‍රමුඛ-සන්ධානය-සියලුම-මැතිවරණ-කොට්ඨාවලට-තරග-කරයි/11-412244) · `si`
-
-UNP alliances compete in elections; SLFP joins UNP alliance; decision on general election date expected soon.
-
-🟩
-
-The UPFA is to be presented to the United National Party (UNP) at the next general election.
-
-The United National Party (UNP) states that the mark for the General Election is scheduled to be decided in the next two days.
-
-Former President of the UNP leader Ranil Wickremesinghe has informed the UNP officials.
-
-A senior party spokesman said that the Sri Lanka Freedom Party (SLFP) and several parties with the United National Freedom Party (SLFP) have agreed to contest the general election.
-
-Former President Ranil Wickremesinghe, the new alliance presented the UNP, was held yesterday (30) at the political office of Colombo Floric Road.
-
-Deputy Leader Ruwan Wijayawardena, Chairman Vajira Abeywardena, Ven.
-
-◼️
-
-[Data](articles/f7f5892d.json)
-
-[Extended Data](ext_articles/f7f5892d.ext.json)
-
----
-
-### AKD’s “change” with IMF and RW’s “economic stability”
-
-*2024-09-30 23:01:45* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-change-with-IMF-and-RW-s-economic-stability/4-767358) · `en`
-
-In plain language, IMF is only about getting back to the rotten and festering past. The “change” that AKD and NPP promised should be a better socio-economic life with peace and decency around and the security forces back in barracks. Perhaps, AKD needs a new open discourse outside the NPP before formulating his 2025 annual budget
-
-“Many steps have to be taken during a considerably long period, to achieve the ‘change’ we aspire. They nevertheless need ensuring stability and trust in this present economy. We have therefore decided to begin discussions with the IMF as soon as possible to move ahead with the Extended Fund Facility” – President Anura Kumara Dissanayake in his first address to the nation on 25 September 2024 (translated from Sinhala script).
-
-...
-
-[Data](articles/a5dbb579.json)
-
-[Extended Data](ext_articles/a5dbb579.ext.json)
-
----
-
-### Those who betrayed the party come back
-
-*2024-09-30 22:59:00* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂය-පාවා-දුන්න-අය-ආයේ-ගන්නේ-නෑ/11-412243) · `si`
-
-Sri Lanka Knowledge Crown SLPF rejects opposition parties, vows loyalty to national unity. Main Secretary Sagara Kariyawasam criticizes betrayal within party, warns against those who abandoned principles. President Mahinda Rajapaksa emphasizes commitment to unity and rejection of traitors.
-
-🟩
-
-The Sri Lanka Knowledge Crown (SLPF) has decided that he has taken a strong decision to enrolled in the general election only with the parties that agree with their policies.
-
-The main Secretary, Attorney attorney Sagara Kariyawasam, said that although the opposition was invited to be invited, the individuality of the country would not accept the unity of the country.
-
-Speaking at a press conference held at Nelum Mawatha, Battaramulla yesterday (30), he further stated:
-
-"Parties that are allied in this primarily today are not parties recognizing the unity of this country. Parties they all over the other. We are temporary retarded. We have caused this settings because we have believed in the false accusations of our leaders in the recent past. We are inviting this government and urge the law to the lies that you have done.
-
-...
-
-[Data](articles/0c2f92a3.json)
-
-[Extended Data](ext_articles/0c2f92a3.ext.json)
-
----
-
-### “Don't go to Syria” warns Sri Lankans
-
-*2024-09-30 22:56:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரியாவுக்குச்-செல்ல-வேண்டாம்-இலங்கையர்களுக்கு-எச்சரிக்கை/175-344727) · `ta`
-
-"Don't travel to Syria" warning issued by Sri Lanka's Ministry of External Affairs due to tensions. Embassy advises caution and provides emergency contact details for citizens in Lebanon and Syria.
-
-🟩
-
-The Ministry of External Affairs has advised the public not to go to Lebanon and Syria until the re -notice is due to the tense situation in Lebanon and Syria.
-
-The Ministry has asked all the Sri Lankans living in Lebanon and Syria to take care and take necessary precautions.
-
-It has also asked the Sri Lankan embassy in Beirut and the embassy in Beirut and the embassy in Damascus.
-
-Sri Lankans in these countries can contact the embassy or embassy via slemb.beiruit@mfa.gov.lk through email or the following emergency telephone numbers:
-
-◼️
-
-[Data](articles/20fa4c8b.json)
-
-[Extended Data](ext_articles/20fa4c8b.ext.json)
-
----
-
-### The change started, but it will not be ending
-
-*2024-09-30 22:45:07* · [`dailyftlk`](https://www.ft.lk/columns/The-change-started-but-it-will-not-be-ending/4-767357) · `en`
-
-Generally, changes are fundamental, dynamic, and demanding, so they are not time-bound. Some changes can be quick, others take time, and some are long-term. AKD/NPP will make changes on priority and step by step, along with what he promised. However, the impact of any change on the masses and the country must be positive; people must be able to feel, understand, and be convinced. Only then could the welfare and well-being of the masses be enhanced, step by step, in the right direction
-
-Since March 2024, I have written 24 articles about the change Sri Lanka and its people have wanted since 1948, and the AKD/NPP has committed accordingly. The change that the people and the country want to witness is massive in terms of economic, social, political, cultural, and many more. A peaceful or nonviolent Presidential election marked the beginning of the realisation of change, while the opposition advocated violent polls because of their bankruptcy in many ways.
-
-...
-
-[Data](articles/595a4b6c.json)
-
-[Extended Data](ext_articles/595a4b6c.ext.json)
-
----
-
-### IMF says to discuss with new Sri Lanka president, economic team
-
-*2024-09-30 22:37:00* · [`economynextcom`](https://economynext.com/imf-says-to-discuss-with-new-sri-lanka-president-economic-team-181663/) · `en`
-
-ECONOMYNEXT – An International Monetary Fund (IMF) team will visit Sri Lanka this week to have discussions with the newly elected President Anura Kumara Dissanayake and his economic team, the global lender said.
-
-“A high-level IMF team led by Krishna Srinivasan, Director for the Asia Pacific Department, will be visiting Colombo October 2-4 to meet with President Dissanayake and the new economic team to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF,” the IMF said in a statement.
-
-The IMF last week said it expects to work under Sri Lanka’s new President Dissanayake who was elected at the September 21 elections. The global lender said it will discuss the timing of the third review of its ongoing economic reform under a 48-month loan.
-
-Sri Lanka has committed a raft of economic reforms including increasing tax revenue and restructuring of state-owned enterprises.
-
-...
-
-[Data](articles/ea3907f0.json)
-
-[Extended Data](ext_articles/ea3907f0.ext.json)
-
----
-
-### A proposal to the Scholarship Examination issue
-
-*2024-09-30 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201704) · `si`
-
-Here's a summary of the proposal in 200 characters:
-
-
-
-Proposal: Resolve Grade 5 Scholarship Exam scheduling issues. Request immediate action to reuse exam papers. Authorities urged to prevent future incidents. Students and parents disappointed due to previous exam problems.
-
-🟩
-
-Sajith Premadasa requests Sajith Premadasa to take measures to resolve the serious schedule of Grade 5 Scholarship Question Papers and take immediate action to reuse the examination.
-
-He has made this request by referring to a special announcement, stating that '5th Grade Scholarship Examination Papers' Departure. "
-
-It has further requested authorities to take strict to prevent such incidents in the future.
-
-It also shows that before the scholarship examination question paper is a very sad event, so both students and parents are very disappointed.
-
-◼️
-
-[Data](articles/c1614a8b.json)
-
-[Extended Data](ext_articles/c1614a8b.ext.json)
-
----
-
-### Governmental Expenditure Vs. Sustainable Growth In Sri Lanka
-
-*2024-09-30 22:13:00* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/governmental-expenditure-vs-sustainable-growth-in-sri-lanka/) · `en`
-
-Over the past few decades, people witnessed disruptive politicians who governed the country returning to power. However, this change somewhat in 2024, voters are making decisions based on policies than just for a party. This sentiment is reflected in the over 4.7 million voters (out of 6.9 million) who previously voted for the former President but have now supported the current President, Anura Kumara Dissanayake. This is a clear objection and a mandate to keep them out and initiate a complete system change. Additionally, those who voted for the current President on September 21st, along with a growing number of others, are advocating for legislation that would permanently disqualify corrupt politicians from holding any elected or appointed positions in the future.
-
-...
-
-[Data](articles/fc496cd6.json)
-
-[Extended Data](ext_articles/fc496cd6.ext.json)
-
----
-
-### Sri Lanka’s new government reduces fuel prices after poll campaign allegations
-
-*2024-09-30 22:08:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-government-reduces-fuel-prices-after-poll-campaign-allegations-181659/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new government led by recently elected leader Anura Kumara Dissanayake reduced retail fuel prices for October 2024, state-run Ceylon Petroleum Corporation said.
-
-The CPC on Monday (30) announced fuel prices based on formula which will be effective throughout October 2024.
-
-The CPC reduced mostly used Octane 92 by 21 rupees to 311 rupees a litre, Auto diesel by 24 rupees to 283, and Super diesel by 33 rupees to 319 rupees.
-
-The price of Kerosene is reduced by 19 rupees to 183 rupees. However, it left the price of 95 Octane unchanged at 377 rupees.
-
-During the election campaign, President Dissanayake’s Marxists-led National People’s Power (NPP) accused previous government of burdening the public of exorbitant tax on fuel and some corrupt deals for higher prices.
-
-Some of the NPP members said the price could be reduced by more than 100 rupees through removing the taxes. (Colombo/September 31/2024)
-
-◼️
-
-[Data](articles/0bebde74.json)
-
-[Extended Data](ext_articles/0bebde74.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 09:39:07**
+As of **2024-10-01 09:58:12**
 
 ## Newspaper Stats
 
-*Scraped **47,136** Articles*
+*Scraped **47,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 465
 colombotelegraphcom | 471
 islandlk | 2,776
 economynextcom | 2,861
-dailyftlk | 3,161
+dailyftlk | 3,162
 adalk | 4,359
 dailymirrorlk | 4,733
-adaderanalk | 5,542
-tamilmirrorlk | 6,328
+adaderanalk | 5,543
+tamilmirrorlk | 6,329
 virakesarilk | 7,539
 adaderanasinhalalk | 8,148
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,136 (100.0%) of 47,136 articles have been extended.
+47,139 (100.0%) of 47,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### 8 people injured in bus accident
+
+*2024-10-01 09:33:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-8-பேர்-காயம்/175-344745) · `ta`
+
+Bus crash injures 8 near Avissawella; driver blamed for negligence.
+
+🟩
+
+Eight people were injured and admitted to the Kegalle General Hospital after a bus belonging to the Sri Lanka Transport Board (SLTB) near the Kottabola railway track of the Avissawella-Kegalle main road, Bindeniya police said.
+
+A bus traveling from Rampukkan to Rambukkan crashed into the accident and the driver's negligence was caused by the driver's negligence, police said.
+
+The driver of the bus and three boys were injured in the accident and eight people were receiving treatment at the Kegalle hospital, police said.
+
+◼️
+
+[Data](articles/bf9eac6d.json)
+
+[Extended Data](ext_articles/bf9eac6d.ext.json)
+
+---
+
+### ‘We aim to reclaim joyful, carefree childhood every child deserves’ – President
+
+*2024-10-01 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102367/-we-aim-to-reclaim-joyful-carefree-childhood-every-child-deserves-president) · `en`
+
+President Anura Kumara Dissanayake says they have identified several significant challenges facing today’s children, including poverty, malnutrition, inadequate health and sanitation, environmental degradation, educational disparities, social inequalities, and the risks associated with substance abuse and technology misuse.
+
+In his Children’s Day message, he said their mission in this renaissance era is to free children from harmful prejudices and social effects, and the pressures of exam-focused education, which hinder their psychosocial development.
+
+“We aim to reclaim the joyful, carefree childhood that every child deserves,” he said, adding that by nurturing a generation of children who are healthy both in mind and spirit, we can foster compassionate, independent, and imaginative individuals who will shape a better future.
+
+Let’s dedicate ourselves to creating a better world for them.
+
+...
+
+[Data](articles/3f2fb28e.json)
+
+[Extended Data](ext_articles/3f2fb28e.ext.json)
+
+---
 
 ### Sanath explains why foreign coaches brought
 
@@ -951,6 +993,20 @@ There are many election manifestos flying around these days issued by the major 
 [Data](articles/2027a3d2.json)
 
 [Extended Data](ext_articles/2027a3d2.ext.json)
+
+---
+
+### Sustainable, future proof and visionary energy policy for Sri Lanka
+
+*2024-09-30 23:10:01* · [`dailyftlk`](https://www.ft.lk/columns/Sustainable-future-proof-and-visionary-energy-policy-for-Sri-Lanka/4-767359) · `en`
+
+There are many election manifestos flying around these days issued by the major contenders for the next Presidential election on 21 September 2024. This much awaited contest has a very significant focus on the national economy which is still in the grips of a dire emergency, irrespective of the claims of recovery made by those in power.
+
+...
+
+[Data](articles/5519b8bf.json)
+
+[Extended Data](ext_articles/5519b8bf.ext.json)
 
 ---
 
@@ -2217,75 +2273,5 @@ Applicants can obtain their results certificates through ecommerce, one day serv
 [Data](articles/35f1691a.json)
 
 [Extended Data](ext_articles/35f1691a.ext.json)
-
----
-
-### Samyukta Vijayan's 'blue sun'
-
-*2024-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195145) · `ta`
-
-"Blue Sun" film stars Samyukta Vijayan, directed by her, explores societal norms through transgender lens. Set for Oct 4 release.
-
-🟩
-
-It has been announced that the film 'Blue Sun', starring the hero of the sex minority, Samyukta Vijayan, is being released on the fourth of October.
-
-Samyukta Vijayan, Geeta Kailasam, Gaja Raj, Mashant and many others have starred in the movie 'Blue Sun', directed by transgender Samyukta Vijayan.
-
-The film, which has been recorded and composed by Steve Benjamin, has produced the producer Mala Maniyan on behalf of the First Kopi Production Company.
-
-Commenting on the film, the director said, “How do we look at our society, not just about wanting to become a male and female?I have made it a screenplay in the 'blue sun'.
-
-The film, which has been screened and praised at several international film festivals, has also been aimed at fans as it is the first Tamil film to be produced in the transgender movement.
-
-◼️
-
-[Data](articles/0644db35.json)
-
-[Extended Data](ext_articles/0644db35.ext.json)
-
----
-
-### Actor Manikandan ...
-
-*2024-09-30 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195142) · `ta`
-
-Actor Manikandan stars in "Kamavasthan", sequel to hits "Goodnight" and "Lover". Directed by Rajeswar Kalisamy, produced by Vinod Kumar. First look released. Manikandan faces family challenges as hero. Expected to be commercially and critically successful, potentially giving him a hat-trick.
-
-🟩
-
-Following the success of 'Goodnight' and 'Lover', the new film, which plays the lead role of actor Manikandan's story, has been named 'Kamavasthan' and its first view has been released.
-
-Actor Silambarasan posted this on his web page and congratulated the film crew.
-
-Manikandan, Sanway Mahana, Guru Somasundaram and many others are starring in the film 'Kudiyasthan' directed by director Rajeswar Kalisamy.
-
-The film was made on behalf of the filmmaker. Produced by Vinod Kumar.
-
-The final phase of the film is being shot. In this case, the film crew has released the name of the film and the first look.
-
-Manikandan, the hero of the story, is a great welcome as the hero of the story, Manikandan, has been tied up on the legs and faced with the challenges of winning as a family.
-
-...
-
-[Data](articles/14c82de5.json)
-
-[Extended Data](ext_articles/14c82de5.ext.json)
-
----
-
-### Sir John Kotelawela (1953 — 1956), as seen by his Assistant Secretary
-
-*2024-09-30 16:29:00* · [`islandlk`](http://island.lk/sir-john-kotelawela-1953-1956-as-seen-by-his-assistant-secretary/) · `en`
-
-The strongest man is never strong enough to be always master, unless lie transforms his power into right, and obedience to duty.
-
-At the time my story begins, a routine civil service transfer had me moved as Assistant Secretary in the prime minister’s office which was without doubt the most exalted and powerful institution in Sri Lanka. For the first 30 years of the new state’s existence, its place in the political structure remained unchallenged and unchanged. The role of the prime minister as the keystone of the arch in a Westminster-style government was paramount. It was only much later, after the second Republican Constitution in 1978 and the creation of the Executive Presidency with its enormous concentration of power, that the position of the prime minister became as it now is, devoid of constitutional authority, largely decorative’ and what its holder is able to make of it.
-
-...
-
-[Data](articles/641349ff.json)
-
-[Extended Data](ext_articles/641349ff.ext.json)
 
 ---

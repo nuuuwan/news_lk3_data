@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 11:39:17**
+As of **2024-10-01 11:58:57**
 
 ## Newspaper Stats
 
-*Scraped **47,162** Articles*
+*Scraped **47,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,861
 dailyftlk | 3,162
 adalk | 4,364
 dailymirrorlk | 4,733
-adaderanalk | 5,546
+adaderanalk | 5,548
 tamilmirrorlk | 6,337
 virakesarilk | 7,543
 adaderanasinhalalk | 8,151
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,151
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,161 (100.0%) of 47,162 articles have been extended.
+47,164 (100.0%) of 47,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### President instructs to suspend Scholarship Exam paper marking for 2 weeks
+
+*2024-10-01 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102372/president-instructs-to-suspend-scholarship-exam-paper-marking-for-2-weeks) · `en`
+
+President Anura Kumara Dissanayake has instructed to suspend the evaluation of answer sheets of the Grade 05 Scholarship Examination for two weeks, the President’s Media Division said.
+
+◼️
+
+[Data](articles/a16128fa.json)
+
+[Extended Data](ext_articles/a16128fa.ext.json)
+
+---
+
+### Committee to review privileges granted to MPs, Ministers, and ex-presidents
+
+*2024-10-01 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102371/committee-to-review-privileges-granted-to-mps-ministers-and-ex-presidents) · `en`
+
+The Cabinet of Ministers has approved the appointment of a committee chaired by retired Supreme Court Judge K.T. Chithrasiri, to assess and review the limitation of claims, allowances and privileges granted to Members of Parliament (MPs), Ministers, and former Presidents.
+
+◼️
+
+[Data](articles/40a6da27.json)
+
+[Extended Data](ext_articles/40a6da27.ext.json)
+
+---
 
 ### Julie J. Sung met the president
 
@@ -1516,19 +1544,25 @@ Registration will be accepted till 12 noon of 4th October 2024.
 
 ---
 
-### ඉදිරි දේශපාලනය ගැන තවමත් තීරණයක් නෑ
+### There is no decision about the next politics
 
 *2024-09-30 23:12:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-දේශපාලනය-ගැන-තවමත්-තීරණයක්-නෑ/11-412245) · `si`
 
-ඉදිරි දේශපාලන කටයුතු සම්බන්ධයෙන් තමා තවම තීරණයක් ගෙන නොමැති බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා ‘අද’ පුවත්පතට පැවසීය.
+No decision made on future politics. Speaker Mahinda Yapa Abeywardena states no immediate action planned. Future decisions will be based on current situations. No general election ordered yet.
 
-ඒ පිළිබඳ ඉදිරියේදී තීරණයක් ගන්නා බව හෙතෙම සඳහන් කළේය.එහිදී වැඩිදුරටත් කථානායක මහින්ද යාපා අබේවර්ධන මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+🟩
 
-“තවම තීරණයක් අරන් නෑ. කවුරු හරි කරනවා නම් එයාට උදව් කරනවා. බලමු මොකද වෙන්නේ කියලා. මහ මැතිවරණය සම්බන්ධයෙන් තවම පිළිවෙලක් නෑනේ. කොහොමත් මම දැනට තීරණයක් අරන් නෑ ඉදිරියේදී කරන්නේ මොනවාද කියලා.”
+Mr. Hon. Speaker Mahinda Yapa Abeywardena told the 'Today' to 'Today' newspaper.
+
+He added that a decision would be taken in the future.
+
+"Not yet a decision. If someone is doing, he helps him. Let's see what happens. There is no order for general election. Anyway, I have not yet decided what I'm doing in the future. "
 
 ◼️
 
 [Data](articles/4ed046f5.json)
+
+[Extended Data](ext_articles/4ed046f5.ext.json)
 
 ---
 
@@ -2251,59 +2285,5 @@ The Secretary General of the Division, former Parliamentarian Sagara Kariyawasam
 [Data](articles/5aaa3653.json)
 
 [Extended Data](ext_articles/5aaa3653.ext.json)
-
----
-
-### Facebook Wata held in a lonely home - 18 youths arrested
-
-*2024-09-30 19:12:04* · [`adalk`](https://www.ada.lk/breaking_news/පාළු-නිවසක-පැවැත්වූ-ෆේස්බුක්-පාටිය-වටලයි---තරුණ-තරුණියන්-18ක්-අල්ලයි/11-412238) · `si`
-
-Facebook Watch: Youth arrested in Ganemulla raid. 18 teens, 2 girls aged 15-19 found in house. Police investigation ongoing.
-
-🟩
-
-A youth arrested for a lone house in Kandaliyadda Basal area of ​​Ganemulla belonging to the Ragama Police area.
-
-The police have been drinking drugs at the raid of the police on a tip off received by the police.
-
-Police said that the group had sixteen youths and two young girls and that they are between 15 and 19 years of age.
-
-According to police investigations, one of the girl's father is abroad and the mother has been separated from the mother.
-
-The youth has joined the party from Kotahena, Dematagoda, OIC of the Ragama Police Station, covering the house with a roller gate and cover the house.The house has been raided by a group of officers.
-
-The police were present at the Mahara Magistrate's 30 youths and had come to the Mahara, who was arrested and had come to the guardians of the youth and returned to the guardians of the police.
-
-Ragama Police OIC Chief Inspector Buddhika Rajapaksa said that these youths have been identified through the face of their youth.
-
-◼️
-
-[Data](articles/59799340.json)
-
-[Extended Data](ext_articles/59799340.ext.json)
-
----
-
-### Honeymoon will be over soon
-
-*2024-09-30 19:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேனிலவு-விரைவில்-முடிந்து-விடும்/175-344725) · `ta`
-
-Wimal Weerawansa comments: JVP evolves into NPP, supports current government efforts. Honeymoon period ends, revealing true character of any new administration.
-
-🟩
-
-Former parliamentarian Wimal Weerawansa has said that the difference between JVP and the JVP (National People's Power) is clearly evolving and the JVP has evolved as the National People's Power (NPP).
-
-Commenting on the media, Weerawansa hoped that the National People's Party would take action to improve the country.
-
-“Since the JVP was my former party, we have no objection to the current government's efforts to raise the nation.”
-
-He said that every new government is experiencing honeymoon time, as in the Gotabhaya Rajapaksa administration, but the real character of the government will emerge over time.
-
-◼️
-
-[Data](articles/c3725e49.json)
-
-[Extended Data](ext_articles/c3725e49.ext.json)
 
 ---

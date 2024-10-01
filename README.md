@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 02:38:24**
+As of **2024-10-02 02:57:24**
 
 ## Newspaper Stats
 
-*Scraped **47,287** Articles*
+*Scraped **47,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 466
 colombotelegraphcom | 473
 islandlk | 2,778
 economynextcom | 2,882
-dailyftlk | 3,170
+dailyftlk | 3,177
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
@@ -26,11 +26,135 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,284 (100.0%) of 47,287 articles have been extended.
+47,293 (100.0%) of 47,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### SJB files RTI on alleged privileges sought by ex-President
+
+*2024-10-02 02:28:51* · [`dailyftlk`](https://www.ft.lk/news/SJB-files-RTI-on-alleged-privileges-sought-by-ex-President/56-767438) · `en`
+
+The Samagi Jana Balawegaya (SJB) has formally requested information regarding alleged privileges sought for the former President, following claims that a letter had been sent by Ranil Wickremesinghe’s Security Head SSP Nizam Jamaldeen. SJB Legal Secretary Farman Cassim has filed an application under the Right to Information Act (RTI) seeking details about the privileges reportedly requested on behalf of the former President.
+
+Taking to X SJB’s Weligama Organiser and former Chairman of the Weligama Pradeshiya Sabha, Rehan Jayawickrama confirmed the party’s move, citing concerns about a letter sent by SSP Nizam Jamaldeen, ref. D/PSD/18763/09/2024. The letter, allegedly seeking additional facilities for the former President, was reportedly received by the secretary to President Anura Dissanayake on 25 September 2024, he said.
+
+...
+
+[Data](articles/d1f89a1e.json)
+
+[Extended Data](ext_articles/d1f89a1e.ext.json)
+
+---
+
+### ADB President congratulates President Anura Kumara Dissanayake
+
+*2024-10-02 02:24:32* · [`dailyftlk`](https://www.ft.lk/news/ADB-President-congratulates-PresidentAnura-Kumara-Dissanayake/56-767437) · `en`
+
+The Asian Development Bank (ADB) President Masatsugu Asakawa, has extended his best wishes to Anura Kumara Dissanayake on his election as the President of the Democratic Socialist Republic of Sri Lanka.
+
+In his message, Asakawa warmly welcomed the President as ADB Governor for Sri Lanka.
+
+Asakawa praised the people of Sri Lanka for conducting a peaceful and orderly democratic election and highlighted the longstanding partnership between ADB and Sri Lanka, which has existed since the Bank’s establishment in 1966. Over the years, ADB has been a steadfast partner in addressing Sri Lanka’s challenges and, during the current economic crisis, has provided crucial budgetary support to strengthen reform initiatives and alleviate the hardships faced by the country’s most vulnerable populations.
+
+...
+
+[Data](articles/afc5644d.json)
+
+[Extended Data](ext_articles/afc5644d.ext.json)
+
+---
+
+### Two advisers for President for economic and finance on honorary basis
+
+*2024-10-02 02:21:57* · [`dailyftlk`](https://www.ft.lk/news/Two-advisers-for-President-for-economic-and-finance-on-honorary-basis/56-767436) · `en`
+
+The Cabinet of Ministers at their inaugural meeting on Monday approved appointing two advisers to guide President Anura Kumara Dissanayake with matters related to finance and economy.
+
+Speaking at the first weekly post-Cabinet meeting under the new Government, Cabinet Spokesman and Minister Vijitha Herath announced that the Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa and University of Sri Jayewardenepura Prof. Anil Fernando were appointed as Senior Advisers for Economic and Finance on honorary basis. He stated that the appointments were made as per powers vested by the Article 41 (91) of the Constitution, appoint his staff by consulting the Cabinet of Ministers.
+
+The two honorary appointments are effective from 24 September 2024.
+
+◼️
+
+[Data](articles/37e73de1.json)
+
+[Extended Data](ext_articles/37e73de1.ext.json)
+
+---
+
+### Govt. to draft new Constitution after Parliamentary elections: Cabinet Spokesman
+
+*2024-10-02 02:21:13* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-draft-new-Constitution-after-Parliamentary-elections-Cabinet-Spokesman/56-767435) · `en`
+
+The Cabinet Spokesman and Minister Vijitha Herath yesterday announced that the Government will begin drafting a new Constitution following the upcoming Parliamentary elections.
+
+Speaking to the media after the inaugural Cabinet meeting on Monday, he stated that the draft Constitution would be presented to the public for approval via a referendum.
+
+Herath asserted that the recent election focused on electing a President, while the Parliamentary election will establish a Government that can take forward the constitutional process.
+
+“Our manifesto clearly states that a new Constitution will be drafted and presented to the people for their approval. We will begin that process once the new Government has been formed post-14 November,” he added.
+
+The new draft Constitution, Herath explained would devolve political and administrative power to local Government bodies, districts and provinces ensuring the political participation of all ethnicities within the framework of a united country.
+
+...
+
+[Data](articles/83e9eb1a.json)
+
+[Extended Data](ext_articles/83e9eb1a.ext.json)
+
+---
+
+### Cabinet nod to allocate Rs. 11 b for General Election
+
+*2024-10-02 02:20:35* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-allocate-Rs-11-b-for-General-Election/56-767434) · `en`
+
+The three-member Cabinet led by President Anura Kumara Dissanayake in their inaugural meeting on Monday approved releasing Rs. 11 billion for the General Election scheduled for 14 November 2024.
+
+“With the 2024 Budget lacking provisions for the election, the Cabinet has approved Rs. 5 billion from the Consolidated Fund and decided to allocate an additional Rs. 6 billion for election-related expenses to be settled in 2025,” Cabinet Spokesman and Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.  He said the 2024 Budget has only allocated money for one election and that was the Presidential election, affirming there was no funds set aside for a General Election.
+
+...
+
+[Data](articles/57c94ec7.json)
+
+[Extended Data](ext_articles/57c94ec7.ext.json)
+
+---
+
+### Haritha TV protests ECSL’s suspension of fertiliser subsidy
+
+*2024-10-02 02:19:57* · [`dailyftlk`](https://www.ft.lk/news/Haritha-TV-protests-ECSL-s-suspension-of-fertiliser-subsidy/56-767433) · `en`
+
+Haritha TV, a national agriculture and environment-focused channel, is protesting the temporary suspension of the Government’s fertiliser subsidy program and the free distribution of Muriate of Potash (M.O.P) fertiliser. The Election Commission’s decision to halt these initiatives, citing the upcoming Parliamentary elections, has sparked complaints from farmers across Sri Lanka, the channel said.
+
+Lodging a complaint with the ECSL yesterday Haritha TV, operated by Haritha TV Company, highlighted that the suspension affects agricultural communities in various regions who have expressed grievances over the impact on their livelihoods. The channel, whose mission is to uplift agriculture, fisheries, and women empowerment in Sri Lanka, is protesting the suspension, calling it unjust and beyond the authority of the Election Commission.
+
+...
+
+[Data](articles/72dca926.json)
+
+[Extended Data](ext_articles/72dca926.ext.json)
+
+---
+
+### Petition filed over alleged irregularities in AG Department state counsel recruitment
+
+*2024-10-02 02:19:10* · [`dailyftlk`](https://www.ft.lk/news/Petition-filed-over-alleged-irregularities-in-AG-Department-state-counsel-recruitment/56-767432) · `en`
+
+A writ petition has been filed before the Court of Appeal, alleging irregularities in the recent recruitment process for state counsel positions at the Attorney General’s Department. The petition claims that names of selected candidates from the interview process were removed and replaced by persons with connections, compromising the integrity of the recruitment.
+
+According to the petition, applications for the recruitment of 23 state counsels were invited between 29 December last year and 22 January this year, attracting 800 applicants. Out of these, 600 qualified candidates were shortlisted, while 200 applications were rejected.
+
+The petitioners said the qualified candidates were called for a series of interviews spanning 30 days. After the interviews, 46 candidates were initially selected. However, the number of vacancies was subsequently increased by 38, raising the total to 78.
+
+...
+
+[Data](articles/0502935b.json)
+
+[Extended Data](ext_articles/0502935b.ext.json)
+
+---
 
 ### Aviyana becomes main sponsor for Sri Lanka Trade Fair Dubai 2024
 
@@ -45,6 +169,8 @@ Sri Lanka Trade Fair Dubai 2024 is an event that seeks to bridge business connec
 ...
 
 [Data](articles/abf903c9.json)
+
+[Extended Data](ext_articles/abf903c9.ext.json)
 
 ---
 
@@ -65,6 +191,8 @@ Acting Controller General Balasuriya is a special Grade Officer of the Sri Lanka
 ◼️
 
 [Data](articles/bf03dd40.json)
+
+[Extended Data](ext_articles/bf03dd40.ext.json)
 
 ---
 
@@ -2173,179 +2301,5 @@ The Cabinet also approved the allocation of another 6 billion rupees from the 20
 [Data](articles/64e53e4a.json)
 
 [Extended Data](ext_articles/64e53e4a.ext.json)
-
----
-
-### Mayank Yadav call for Indian team
-
-*2024-10-01 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201721) · `si`
-
-Here's a 200-character summary:
-
-
-
-Indian cricket team announced for 20-20 tournament against Bangladesh. Led by Surkumar Yadav, 15-player squad includes returning players like Gybrino Gill and Yasausvi Jayswal. Bowlers from IPL selected. Some players rested: Rishab Bar, Akar Patel, Mohammad Sarirag. Replacements: Nighth Kumar, Abhishek Sharma, Hersh.
-
-🟩
-
-The Indian squad has been named for the 20-20 international tournament with Bangladesh.
-
-The squad led by Surkumar Yadav is included in 15 players.
-
-2024 The bowler was bowled out for the Indian squad, which was bowled out in the Indian Premier League.
-
-The last 20-20 international tournament, the last 20-20 international tournament, has been recalled to the Indian squad.
-
-Gybrino Gill, Yasausvi Jayswal, Rishab Bar, Akar Patel and Mohammad Sarirag have rest for the tournament.
-
-The players Nighth Kumar, Abhishek Sharma and Hersh, was also replaced by Night.
-
-◼️
-
-[Data](articles/ef155a57.json)
-
-[Extended Data](ext_articles/ef155a57.ext.json)
-
----
-
-### Elections Rs. 11ths 11
-
-*2024-10-01 12:36:22* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-රු-බි--11ක්-වෙන්-කරයි/11-412253) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"President Anura Kumara Dissanayake approves allocation of Rs. 11 billion for parliamentary elections. Rs. 5 billion will come from Consolidated Fund."
-
-🟩
-
-President Anura Kumara Dissanayake has been approved by President Anura Kumara Dissanayake to allocate Rs. 11 billion for the parliamentary election.
-
-5 billion rupees will be obtained from the Consolidated Fund to Rs.
-
-◼️
-
-[Data](articles/efd96ea7.json)
-
-[Extended Data](ext_articles/efd96ea7.ext.json)
-
----
-
-### Bus charge is low (video)
-
-*2024-10-01 12:35:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/பஸ்-கட்டணம்-குறைந்தது-வீடியோ/52-344755) · `ta`
-
-Inter-Provincial Bus Association reduces minimum bus travel fee by 4% due to lower fuel prices. Benefits expected for consumers amid bus shortages.
-
-🟩
-
-The Inter -Provincial Bus Association has decided to reduce the minimum bus travel fee by Rs.
-
-Anjana Priyanjith, General Secretary of the Association's Secretary to the Association, said that the bus fare has been reduced by four per cent.
-
-He said that as the fuel prices have been reduced since midnight yesterday, the benefits should be provided to the people.
-
-He pointed out that the association has decided to reduce the bus fare by 4 percent and that the people will benefit if the bus fares are determined by the bus fares, considering the retail shortage of the buses.
-
-◼️
-
-[Data](articles/83b69261.json)
-
-[Extended Data](ext_articles/83b69261.ext.json)
-
----
-
-### Former Defense Minister appointed as Prime Minister of Japan
-
-*2024-10-01 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201720) · `si`
-
-Former Defense Minister Shimaru Isiba becomes Prime Minister of Sri Lanka, replacing Japanese PM Fumio Kishida. Kishida stepped down as leader of the Liberal Democratic Party. The new PM plans to take office on October 27.
-
-🟩
-
-Former Defense Minister Shimaru Isiba has won the new Prime Minister of Sri Lanka.
-
-Japanese Prime Minister Prime Minister Fumio Kukuda was replaced by foreign media reports, foreign media reports say.
-
-The new Prime Minister's plan is to be held on October 27.
-
-Japanese Prime Minister Fumio Kuzida left the country with the leadership of the ruling party, the Liberal Democratic Party.
-
-Addressing a media briefing at Tokyo, he announced that he would not contest the next leadership party next leadership party.
-
-In September of 2021, Kihida was elected to the ruling party leadership in September 2011, with a period of three years.
-
-◼️
-
-[Data](articles/2114ca68.json)
-
-[Extended Data](ext_articles/2114ca68.ext.json)
-
----
-
-### Japan’s parliament elects former defence minister Shigeru Ishiba as prime minister
-
-*2024-10-01 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102374/japans-parliament-elects-former-defence-minister-shigeru-ishiba-as-prime-minister) · `en`
-
-Japan’s parliament on Tuesday formally elected Shigeru Ishiba, head of the governing Liberal Democratic Party, as the country’s new prime minister.
-
-Ishiba was chosen as the party’s leader on Friday to replace Fumio Kishida, who then stepped down earlier on Tuesday to pave the way.
-
-Kishida took office in 2021 but left so his party could have a fresh leader after his government was dogged by scandals. Ishiba plans to call a parliamentary election for Oct. 27.
-
-Opposition parties criticized Ishiba for allowing only a short period of time for his policies to be examined and discussed in parliament before the national election.
-
-Kishida had announced in August he would resign at the end of his three-year term.
-
-Kishida and his ministers stepped down at a Cabinet meeting on Tuesday morning, Chief Cabinet Secretary Yoshimasa Hayashi said. Kishida left his office after a brief send-off ceremony in which he was presented a bouquet of red roses and applauded by his staff and former Cabinet members.
-
-...
-
-[Data](articles/038781c7.json)
-
-[Extended Data](ext_articles/038781c7.ext.json)
-
----
-
-### Japan’s parliament elects Shigeru Ishiba, newly elected governing party leader, as prime minister
-
-*2024-10-01 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102374/japans-parliament-elects-shigeru-ishiba-newly-elected-governing-party-leader-as-prime-minister) · `en`
-
-Japan’s parliament on Tuesday formally elected Shigeru Ishiba, head of the governing Liberal Democratic Party, as the country’s new prime minister.
-
-Ishiba was chosen as the party’s leader on Friday to replace Fumio Kishida, who then stepped down earlier on Tuesday to pave the way.
-
-Kishida took office in 2021 but left so his party could have a fresh leader after his government was dogged by scandals. Ishiba plans to call a parliamentary election for Oct. 27.
-
-Opposition parties criticized Ishiba for allowing only a short period of time for his policies to be examined and discussed in parliament before the national election.
-
-Kishida had announced in August he would resign at the end of his three-year term.
-
-Kishida and his ministers stepped down at a Cabinet meeting on Tuesday morning, Chief Cabinet Secretary Yoshimasa Hayashi said. Kishida left his office after a brief send-off ceremony in which he was presented a bouquet of red roses and applauded by his staff and former Cabinet members.
-
-...
-
-[Data](articles/24532028.json)
-
-[Extended Data](ext_articles/24532028.ext.json)
-
----
-
-### Sri Lanka’s new govt defends decision to retain top officials
-
-*2024-10-01 12:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-govt-defends-decision-to-retain-top-officials-181771/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s new government has defended its decision to retain the services of two key public officials instrumental to the International Monetary Fund (IMF) programme despite the ruling party’s recent criticisms of them.
-
-Responding to questions from journalists at the first ever cabinet press briefing of President Anura Kumara Dissanayake’s administration, cabinet spokesman Vijitha Herath said Central Bank Governor Nandalal Weerasinghe and Finance Ministry Secretary Mahinda Siriwardana are currently engaged in matters pertaining to the IMF programme.
-
-Herath was asked if the Dissanayake administration retained the services of the two officials because it has now accepted that decisions taken by them during the previous government of President Ranil Wickremesinghe were correct.
-
-...
-
-[Data](articles/dee39865.json)
-
-[Extended Data](ext_articles/dee39865.ext.json)
 
 ---

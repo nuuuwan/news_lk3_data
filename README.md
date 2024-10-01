@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 20:22:40**
+As of **2024-10-01 20:38:41**
 
 ## Newspaper Stats
 
-*Scraped **47,248** Articles*
+*Scraped **47,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,562
 tamilmirrorlk | 6,346
 virakesarilk | 7,559
-adaderanasinhalalk | 8,171
+adaderanasinhalalk | 8,172
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,248 (100.0%) of 47,248 articles have been extended.
+47,248 (100.0%) of 47,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### හංවැල්ලේ ඝාතනය ගැන තොරතුරු රැසක්
+
+*2024-10-01 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201738) · `si`
+
+කප්පම් ලබා නොදීමේ සිද්ධියක් මුල්කරගෙන හංවැල්ල ප්‍රදේශයේ ව්‍යාපාරිකයෙකුව නාඳුනන තුවක්කරුවකු විසින් ඊයේ (30) රාත්‍රියේ වෙඩි තබා ඝාතනය කර තිබුණි.
+
+ඩුබායිහී සැඟව සිටින ලලිත් කන්නන්ගර නැමැති පාතාල කල්ලි සාමාජිකයා මෙම ඝාතනය මෙහෙයවා ඇති අතර මේ සමගම ඔහු කප්පම් ඉල්ලූ ව්‍යාපාරිකයන් පිරිසක් එම ප්‍රදේශයේ නිවෙස් අතහැර ගොස් ඇති බව පොලීසිය පවසයි.
+
+එම ව්‍යාපාරිකයන් ඔහුගේ මරණ තර්ජනවලට ඇති බිය හේතුවෙන් මාධ්‍ය වෙත අදහස් දැක්වීමද ප්‍රතික්ෂේප කර ඇත.
+
+මෙම සිදුවීම් සියල්ල සම්බන්ධයෙන් බස්නාහිර දකුණ භාර නියෝජ්‍ය පොලිස්පති ගයංග මාරපන මහතාගේ අධීක්ෂණය යටතේ විමර්ශන සිදුකෙරෙමින් පවතී.
+
+හංවැල්ල, නෙළුවත්තුඩුව ප්‍රදේශයේ නිවසකට ඊයේ රාත්‍රී 8.15ට පමණ පැමිණි නාඳුනන තුවක්කුකරුවකු එහි පදිංචිව සිටි ව්‍යාපාරිකයාව ඝාතනය කර තිබුණි.
+
+වෙඩික්කරු අපරාධය සඳහා නිවසෙහි වූ තාප්පයකින් පැන පැමිණෙන අයුරු සහ වෙඩි ප්‍රහාරය එල්ල කිරීමෙන් පසු වෙඩික්කරු පළ යන ආකාරය ද සීසීටීවී කැමරාවක සටහන්වී තිබේ.
+
+වෙඩි ප්‍රහාරයෙන් තුවාල ලැබූ වජිර නිශාන්ත නමැති 55 හැවිරිදි ව්‍යාපාරිකයා අවිස්සාවේල්ල මූලික රෝහලට ඇතුළත් කිරීමේදී මියගොස් සිටි බව පොලීසිය පවසයි.
+
+...
+
+[Data](articles/d0f29840.json)
+
+---
 
 ### Presidential Secretariat returns 19 vehicles to govt institutions
 
@@ -2425,25 +2449,5 @@ The driver of the bus and three boys were injured in the accident and eight peop
 [Data](articles/bf9eac6d.json)
 
 [Extended Data](ext_articles/bf9eac6d.ext.json)
-
----
-
-### Sri Lanka leftist president wants to promote economic freedom
-
-*2024-10-01 09:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-leftist-president-wants-to-promote-economic-freedom-181732/) · `en`
-
-ECONOMYNEXT — President Anura Kumara Dissanayake, who leads a leftist political formation, has said in a World Children’s Day message that his government is committed to promoting economic freedom.
-
-“By nurturing a generation of children who are healthy both in mind and spirit, we can foster compassionate, independent, and imaginative individuals who will shape a better future,” Dissanayake said on Tuesday November 01.
-
-“To achieve this, we are committed to promoting economic freedom, fostering human kindness, building mutual trust, and encouraging respect and acceptance within society. Additionally, we prioritise the protection of our rich environmental heritage and advocate for necessary political transformation,” he said.
-
-Dissanayake, who is now into his second week as president, said the future belongs to children, and called for the creation of a better world for them.
-
-...
-
-[Data](articles/0dfee6f3.json)
-
-[Extended Data](ext_articles/0dfee6f3.ext.json)
 
 ---

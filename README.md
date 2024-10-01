@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 17:59:44**
+As of **2024-10-01 18:19:44**
 
 ## Newspaper Stats
 
-*Scraped **47,234** Articles*
+*Scraped **47,241** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 2,871
 dailyftlk | 3,162
 adalk | 4,373
 dailymirrorlk | 4,733
-adaderanalk | 5,560
+adaderanalk | 5,561
 tamilmirrorlk | 6,346
-virakesarilk | 7,553
-adaderanasinhalalk | 8,167
+virakesarilk | 7,558
+adaderanasinhalalk | 8,168
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,234 (100.0%) of 47,234 articles have been extended.
+47,241 (100.0%) of 47,241 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Notification of University Grants Commission!
+
+*2024-10-01 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195263) · `ta`
+
+University Grants Commission announces application window for university admission based on re-exam and suspended results. Apply online from Oct 1-8 at www.ugc.ac.lk for 2023/2024 academic year. Exams for completed skills/practicals excluded.
+
+🟩
+
+Applications have been requested from applicants who have been eligible to apply for university admission based on re -examination results and suspended results, the University Grants Commission said.
+
+Applications can be applied through the website from October 01 to October 08, the University Grants Commission said.
+
+The University Grants Commission's official website www.ugc.ac.lk has said that applications for university admissions for the academic year 2023/2024 will be obtained through www.ugc.ac.lk.
+
+Further details on sending applications have been issued in a previously released statement.
+
+The University Grants Commission said that the opportunities for applying for the university admission for the academic year 2023/2024 are not applicable to the universities of the already completed skills / practical exams.
+
+◼️
+
+[Data](articles/d33ded80.json)
+
+[Extended Data](ext_articles/d33ded80.ext.json)
+
+---
+
+### No change in Litro Gas prices for October
+
+*2024-10-01 17:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102385/no-change-in-litro-gas-prices-for-october) · `en`
+
+The Litro Gas Company says that the prices of domestic LP Gas will remain unchanged for the month of October 2024.
+
+Issuing an announcement today (Oct. 01), the newly appointed Litro chairman Channa Gunawardena said that despite the rising LP gas prices in the global market, a decision was taken not to increase the prices of Litro gas in order to provide relief to the consumers.
+
+The state-owned company further said that it was possible to provide such relief due to proper management of stocks and operations.
+
+Accordingly, the prices of Litro LP gas domestic gas cylinders will remain unchanged as follows:
+
+◼️
+
+[Data](articles/6b8f02e0.json)
+
+[Extended Data](ext_articles/6b8f02e0.ext.json)
+
+---
+
+### Litro gas prices do not change
+
+*2024-10-01 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201734) · `si`
+
+Litro Gas Company announces unchanged prices for October 2024. Domestic gas prices remain stable, providing relief to consumers. Prices for 12.5kg, 5kg, and 2.3kg cylinders are Rs. 3,690, Rs. 1,482, and Rs. 694 respectively.
+
+🟩
+
+Litro Gas Company says that Litro domestic gas is not revised to this month.
+
+In an announcement, the company pointed out that LP gas prices in October to provide relief to the Litro gas consumer, the Litro Gas Consumer has decided not to increase the price of household gas.
+
+Litro Gas Lanka further stated that the consumer has been able to provide relief to the consumer as well as well-bulk management and operational management.
+
+Accordingly, the current prices of October 2024 will be valid.
+
+The following is the Litro Gas Indoor Gas prices (applicable to the Colombo district).
+
+The price of a 12.5kg gas cylinder is Rs. 3,690. The price of 5 kilos cylinder is Rs. 1,482. The price of a 2.3kg gas cylinder is Rs. 694.
+
+◼️
+
+[Data](articles/f323ec38.json)
+
+[Extended Data](ext_articles/f323ec38.ext.json)
+
+---
 
 ### Special statutes passed in parliament 9
 
@@ -99,6 +173,118 @@ A high-level team of the IMF led by its Director of the Asia Pacific Department,
 [Data](articles/2916d1f7.json)
 
 [Extended Data](ext_articles/2916d1f7.ext.json)
+
+---
+
+### Children's Day Event at Al-Hamra Maha Vidyalaya
+
+*2024-10-01 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195255) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Al-Hamra Maha Vidyalaya celebrated Children's Day on 01/02 under President UK Abdur Rahim's patronage. Programs included psalms and student performances. Deputy Principals MA Kamarunnisha and IA Juman attended along with teachers."
+
+🟩
+
+The Children's Day event of the Oluvil Al-Hamra Maha Vidyalaya was held on Tuesday (01) under the patronage of President UK Abdur Rahim.
+
+Deputy Chancellor J.. The event, which was under the guidance of Wahag Thein, was presented with various programs such as the psalm and the injection of the students.
+
+School Deputy Principals MA Kamarunnisha, IA. Juman and many teachers were also present.
+
+◼️
+
+[Data](articles/39268696.json)
+
+[Extended Data](ext_articles/39268696.ext.json)
+
+---
+
+### Jammu & Kashmir Union Territory Third Phase General Election - Voting
+
+*2024-10-01 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195251) · `ta`
+
+Jammu & Kashmir Union Territory Third Phase General Election summary: Voting underway for 40 seats, 28% turnout reported so far. Election Commission set up 5,060 polling booths with comprehensive security measures. Major parties contesting include National Convention Party, Congress, BJP, and PDP. Voting concludes at 7 PM today.
+
+🟩
+
+The general election is being held in three phases for the Jammu & Kashmir Union, the northern border of India.
+
+The third and final phase of the election is being held today. Voters are enthusiastic about their votes.
+
+The Election Commission of India is conducting a general election in three phases for the Jammu & Kashmir Union, which has a total of 90 seats.
+
+The first phase of the election was held on the 18th of September. The Election Commission officially declared 61.13 per cent voting.
+
+This was followed by the second phase of the election on October 25. The Election Commission has announced that 56.79 per cent of the votes were cast in this election.
+
+Elections were held for 24 seats in the first phase and 26 seats in the second phase.
+
+The remaining 40 seats are being held in the third and final phase of the ongoing third and final elections.
+
+According to reports, 28.12 per cent of the votes were cast as of 11 am.
+
+...
+
+[Data](articles/612729f2.json)
+
+[Extended Data](ext_articles/612729f2.ext.json)
+
+---
+
+### Super Star Rajinikanth starrer 'Vettayan'
+
+*2024-10-01 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195244) · `ta`
+
+Rajinikanth hospitalized in Chennai for digestive issues. His upcoming film "Vettayan" postponed due to health concerns. Fans pray for quick recovery as political and film celebrities wish him well.
+
+🟩
+
+Super Star Rajinikanth has been admitted to a private hospital in Chennai due to ill health.
+
+Super Star Rajinikanth, who has been admitted for the digestive tract problem, is conducting modern examinations and treating the impact and treating it accordingly.
+
+He should be healed quickly. G. Political and film celebrities, including Stalin, have posted on the social network.
+
+At this moment, Super Star Rajinikanth's upcoming film 'Vettayan', which will be released in Tamil, Telugu, Malayalam, Kannada and Hindi, will be released on the second day of the film House in Tamil, Telugu, Malayalam, Kannada and Hindi.
+
+In the meantime, the film 'Vettayan' is being released due to the release of Super Star Rajinikanth, his fans are praying that he should be healed quickly and that he has been canceled due to the sudden digestive tract problem during the filming of 'Kuli'.
+
+◼️
+
+[Data](articles/563c15c7.json)
+
+[Extended Data](ext_articles/563c15c7.ext.json)
+
+---
+
+### The first song release of 'Game Changer' starring Ram Charan
+
+*2024-10-01 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195241) · `ta`
+
+"First song 'Raha Macha Macha' from Game Changer featuring Ram Charan released. Song by Vivek, sung by Nakas Ashish. Popular among fans for its catchy tune and Ram Charan's dance moves."
+
+🟩
+
+The first song 'Raha Macha Macha', which is featured in the film 'Game Changer', which is the hero of the story of Telugu star actor Ram Saran, who is well known to Tamil fans, has been released.
+
+Ram Saran, Kiara Advani, Anjali, Samudrakani, S.. J.. Surya, Srikanth, Sunil and many others have acted.
+
+The film is being produced by Sri Venkateswara Creations on behalf of Sri Venkateswara Creations.
+
+The film, which is being released in Tamil, Telugu, Malayalam, Kannada and Hindi on the twentieth of December, has been released by the first song and the song of the song 'Klaza Madaki and I'.
+
+This song is written by songwriter Vivek, and backward singer Nakas Ashish is sung. The song, which is made of tulle music, has been very popular as the dance moves and lyrics of Man Ram Saran are very much in love with the fans.
+
+Within a short time of the song, millions of viewers have been visited and achieved.
+
+◼️
+
+[Data](articles/5d08caf6.json)
+
+[Extended Data](ext_articles/5d08caf6.ext.json)
 
 ---
 
@@ -2267,167 +2453,5 @@ The Election Commission states that the applications should be sent to the selec
 [Data](articles/cf6e491a.json)
 
 [Extended Data](ext_articles/cf6e491a.ext.json)
-
----
-
-### President calls for children to return to children
-
-*2024-10-01 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201711) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake calls for children to return to children's day celebrations. Focuses on poverty, education, social opportunities, and technology. Prime Minister Dr. Harari Amarasuriya emphasizes investment in future generations. Government committed to economic development and elderly care support systems.
-
-🟩
-
-President Anura Kumara Dissanayake says that it is aimed at the World Children's Day to win children's popularity again to children.
-
-We have identified poverty, malnutrition, health and hygiene, unquality, unqualifiedness, unquality, unquestion of education, social opportunities, dissimilar, unquality, environmental and technology, dissimilarity, disbelieve of education, unqualifiedness, unquestion, and technology.
-
-Also, the celebration of children who restore children's popularity and children's popularity, which is hindered the psychological development of the children's psychological development, bring up the current children's generation and winning their children's popularity is to win their lives. We believe that the creation of a generation of free imagination in the future by creating a generation of kine as well as a healthy childhood.
-
-...
-
-[Data](articles/1f497f3d.json)
-
-[Extended Data](ext_articles/1f497f3d.ext.json)
-
----
-
-### Sri Lanka cuts petrol to Rs311, diesel to Rs283, Sinopec Rs280
-
-*2024-10-01 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-petrol-to-rs311-diesel-to-rs283-sinopec-rs280-181686/) · `en`
-
-ECONOMYNEXT – Sri Lanka has cut petrol price by 21 rupees to 311 rupees a litre and diesel by 24 rupees to 283 rupees, from midnight on September 30.
-
-Kerosene was cut by 19 rupees to 183 rupees. (Colombo/Oct01/2024)
-
-◼️
-
-[Data](articles/2f101102.json)
-
-[Extended Data](ext_articles/2f101102.ext.json)
-
----
-
-### World Children's Day Today
-
-*2024-10-01 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201710) · `si`
-
-Here's a 200-character summary:
-
-
-
-National Child Protection Authority emphasizes child rights importance. Chairman calls for parents and adults to create suitable environments for children. World Children's Day highlights need for increased focus on protecting and promoting children's welfare.
-
-🟩
-
-The National Child Protection Authority (NVQ) stated that more attention should be paid to the rights of children.
-
-Appointment of the Chairman Saronsi Weerawardena said that creating a suitable environment for children is the duty of parents as well as adults.
-
-◼️
-
-[Data](articles/387467f7.json)
-
-[Extended Data](ext_articles/387467f7.ext.json)
-
----
-
-### Prepare scholarship exam to a new schedule
-
-*2024-10-01 06:35:33* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගය-නව-කාලසටහනකට-සකස්-කරන්න/11-412247) · `si`
-
-Sri Lanka: Opposition calls for rescheduling Grade 5 scholarship exam, citing concerns over question paper integrity and student anxiety. Authorities urged to address issue and prevent similar problems in the future.
-
-🟩
-
-Opposition Leader Sajith Premadasa has issued a statement that the Grade 05 scholarship examination should be taken to prepare the passage of the Grade Five.
-
-It also said that steps should be taken to prevent such incidents in the future.
-
-The 5th Grade Scholarship Examination Questions Papers, such as the examination, both students and parents have been very disappointed. It has no doubts about the integrity of the National Examination system in Sri Lanka. The students, especially preparations for the exam, have been worried and worried.
-
-Fearing the hard work and future prospects of this event, the students who are afraid to be damaged due to a fair and justifying solution to this serious problem.
-
-The Opposition announcer further states that the authorities have requested the authorities to take steps to solve this serious problem and take the exam to prevention of the examination.
-
-◼️
-
-[Data](articles/055a5a70.json)
-
-[Extended Data](ext_articles/055a5a70.ext.json)
-
----
-
-### Showers in many areas today
-
-*2024-10-01 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201708) · `si`
-
-Heavy showers/thundershowers expected in Central, Sabaragamuwa, North Western, and North Central provinces today/tonight. Public advised to take precautions against strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the country today (01) or night.
-
-The department states that the department states in some places in the Central, Sabaragamuwa, North Western and North Central Provinces. Heavy close is likely to grow more than 50.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/3698a88f.json)
-
-[Extended Data](ext_articles/3698a88f.ext.json)
-
----
-
-### Top Group of International Monetary Fund to Sri Lanka
-
-*2024-10-01 04:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/195185) · `ta`
-
-IMF delegation visits Sri Lanka Oct 2-4. Led by Krishna Srinivasan, it'll meet President Dissanayake to discuss economy and reforms.
-
-🟩
-
-It is reported that a high -level official committee of the International Monetary Fund is scheduled to visit Sri Lanka from Wednesday 2nd to 4th of October.
-
-The committee headed by Krishna Srinivasan, the director of the Asia Pacific Department of the IMF, has arrived.
-
-The International Monetary Fund spokesman said the IMF would meet President Anura Kumara Dissanayake and other officials to discuss the country's economy and economic reform programs.
-
-It is also worth noting that the International Monetary Fund of Sri Lanka will also discuss the economic program.
-
-◼️
-
-[Data](articles/0c449e0c.json)
-
-[Extended Data](ext_articles/0c449e0c.ext.json)
-
----
-
-### கூட்டணி அமைக்கும் நடவடிக்கை இறுதிக்கட்டத்தில் உள்ளது ; ஐ.ம.ச. The negotiations with the UNP have not yet ended- the UNP
-
-*2024-10-01 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195184) · `ta`
-
-United National Party forms alliance for parliamentary election. Negotiations ongoing with United People's Power. Final decision on election symbol to be made tomorrow. Committee preparing candidate list. Talks expected to conclude within two days.
-
-🟩
-
-The work of forming an alliance for the general election is in the final stages. The negotiations will be completed within two days. Former United National Party (UNP) parliamentarian Saman Ratnapriya said there is still opportunity to continue talks with the United People's Power.
-
-He said this in a statement on the United National Party's move to form an alliance to contest the upcoming parliamentary elections.
-
-The United National Party has decided to form an alliance in the parliamentary election. We held 3 major negotiations with the United People's Power. However, due to some conditions put forward by the United People's Power, there have been obstacles in continuing to advance.
-
-என்றாலும் ஐக்கிய மக்கள் சக்யுடனான பேச்சுவார்த்தையை இன்னும் நாங்கள் முடிவுக்கு கொண்டுவரவில்லை. There is still the opportunity to contest the election. We expect to continue to talk with them. Because it is likely to get the government by competing together. Or a strong opposition can be set up in Parliament.
-
-...
-
-[Data](articles/77b7c25d.json)
-
-[Extended Data](ext_articles/77b7c25d.ext.json)
 
 ---

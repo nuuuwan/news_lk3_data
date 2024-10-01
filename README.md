@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 04:57:33**
+As of **2024-10-01 05:45:26**
 
 ## Newspaper Stats
 
-*Scraped **47,104** Articles*
+*Scraped **47,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,162 @@ adalk | 4,356
 dailymirrorlk | 4,733
 adaderanalk | 5,540
 tamilmirrorlk | 6,326
-virakesarilk | 7,533
+virakesarilk | 7,539
 adaderanasinhalalk | 8,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,104 (100.0%) of 47,104 articles have been extended.
+47,110 (100.0%) of 47,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Top Group of International Monetary Fund to Sri Lanka
+
+*2024-10-01 04:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/195185) · `ta`
+
+IMF delegation visits Sri Lanka Oct 2-4. Led by Krishna Srinivasan, it'll meet President Dissanayake to discuss economy and reforms.
+
+🟩
+
+It is reported that a high -level official committee of the International Monetary Fund is scheduled to visit Sri Lanka from Wednesday 2nd to 4th of October.
+
+The committee headed by Krishna Srinivasan, the director of the Asia Pacific Department of the IMF, has arrived.
+
+The International Monetary Fund spokesman said the IMF would meet President Anura Kumara Dissanayake and other officials to discuss the country's economy and economic reform programs.
+
+It is also worth noting that the International Monetary Fund of Sri Lanka will also discuss the economic program.
+
+◼️
+
+[Data](articles/0c449e0c.json)
+
+[Extended Data](ext_articles/0c449e0c.ext.json)
+
+---
+
+### கூட்டணி அமைக்கும் நடவடிக்கை இறுதிக்கட்டத்தில் உள்ளது ; ஐ.ம.ச. The negotiations with the UNP have not yet ended- the UNP
+
+*2024-10-01 04:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195184) · `ta`
+
+United National Party forms alliance for parliamentary election. Negotiations ongoing with United People's Power. Final decision on election symbol to be made tomorrow. Committee preparing candidate list. Talks expected to conclude within two days.
+
+🟩
+
+The work of forming an alliance for the general election is in the final stages. The negotiations will be completed within two days. Former United National Party (UNP) parliamentarian Saman Ratnapriya said there is still opportunity to continue talks with the United People's Power.
+
+He said this in a statement on the United National Party's move to form an alliance to contest the upcoming parliamentary elections.
+
+The United National Party has decided to form an alliance in the parliamentary election. We held 3 major negotiations with the United People's Power. However, due to some conditions put forward by the United People's Power, there have been obstacles in continuing to advance.
+
+என்றாலும் ஐக்கிய மக்கள் சக்யுடனான பேச்சுவார்த்தையை இன்னும் நாங்கள் முடிவுக்கு கொண்டுவரவில்லை. There is still the opportunity to contest the election. We expect to continue to talk with them. Because it is likely to get the government by competing together. Or a strong opposition can be set up in Parliament.
+
+...
+
+[Data](articles/77b7c25d.json)
+
+[Extended Data](ext_articles/77b7c25d.ext.json)
+
+---
+
+### People should choose those who are eligible to call the 'Hon.' Parliamentarian -Karu Jayasuriya
+
+*2024-10-01 04:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195183) · `ta`
+
+Karu Jayasuriya emphasizes voting for qualified candidates in upcoming general election. He inaugurates Democracy and Governance Learning Institute, stressing importance of transparency and responsible governance in Sri Lanka.
+
+🟩
+
+Karu Jayasuriya, the leader of the National Movement for Social Justice and former Speaker of the National Movement for Social Justice, said that it is the duty of the country to vote for the candidates who are qualified to call the 'Hon.' Parliamentarian in the upcoming general election.
+
+Under the guidance of Karu Jayasuriya, the leader of the National Movement for Social Justice, and the inauguration of the newly established Democracy and Governing Learning Institute at 3.30 pm at the Lakshman Kadirgamar Studies Institute in Colombo at 3.30 pm.
+
+Former Speaker Karu Jayasuriya, former President of Sri Lanka and former Sri Lankan High Commissioner to India, Austin Fernando, lecturers, intellectuals, international diplomats, civil society for students and civil society for students, working in Sri Lanka.
+
+...
+
+[Data](articles/09c85a8a.json)
+
+[Extended Data](ext_articles/09c85a8a.ext.json)
+
+---
+
+### If possible, express the connection between the liquor station opened in Kadirgama
+
+*2024-10-01 04:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195182) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former Deputy Speaker denies liquor bar claim. Accuses National People's Power member of false propaganda. Threatens legal action over reputation damage.
+
+🟩
+
+If my brother's name has a liquor bar, I am ready to accept any legal punishment. Former Deputy Speaker Ajith Rajapakse said that he would take legal action against Vasantha Samarasinghe's false accusation.
+
+The National People's Power Political Council member Wasantha Samarasinghe commented on the allegations made by the National People's Power Council.
+
+President Anura Kumara Dissanayake is well aware of my activities. But Vasantha Samarasinghe, a member of the National People's Power Political Council, is unaware of me and is making a false propaganda regarding the liquor that has been opened in Kadirgama. When he was holding a media briefing, he said that there was a liquor bar in the name of the Deputy Speaker's brother and that there was information about the involvement of the liquor school.
+
+If Vasantha Samarasinghe can hold a media briefing and not tell the comedy stories. I am going to take legal action against what he has said to tarnish my reputation.
+
+...
+
+[Data](articles/68edfc46.json)
+
+[Extended Data](ext_articles/68edfc46.ext.json)
+
+---
+
+### Despite the two ministers, I have initiated efforts to solve the problems of the Tamil people - R. Sanakiyan
+
+*2024-10-01 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195181) · `ta`
+
+Former TNA MP claims solving Tamil issues despite other ministers. TNA contests Batticaloa polls, receives many applications. Politicians urged to represent public interests honestly.
+
+🟩
+
+Although two people came to Batticaloa as ministers in Batticaloa, I have made efforts to settle with them during the problems faced by the Batticaloa district, ”said former parliamentarian of the Tamil National Alliance (TNA) Batticaloa district.
+
+He made this statement at a media briefing held at Kaluwanchikudi in Batticaloa this evening.
+
+All parties are now carrying out the initial work of the dissolution of the Sri Lankan parliament and the tenth parliament will be held.
+
+The Central Executive of the Sri Lanka Tamil National Alliance (TNA) last Sunday met with some decisions in Vavuniya.. In accordance with those resolutions, it was taken as a decision to contest the upcoming parliamentary elections in the House of Tamil National Party (TNA). We have also called on those who have been separated from the Tamil National Alliance to contest with the Sri Lanka Tamil National Alliance (TNA).
+
+...
+
+[Data](articles/73a626b8.json)
+
+[Extended Data](ext_articles/73a626b8.ext.json)
+
+---
+
+### Everyone should mobilize to protect Tamil representation in the East -. Drum
+
+*2024-10-01 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195180) · `ta`
+
+Tamil representation protection efforts underway in Eastern Province. Political leaders urging mobilization against potential loss of Tamil seats in upcoming elections. Focus on Batticaloa district where several groups contesting under Tamil nationalist banner. Call for unity among Tamil parties and communities to safeguard representation.
+
+🟩
+
+In the Eastern Province, many are preparing to compete as hands -on to prevent representation of Tamils ​​in the Eastern Province.. Lf. Ira, a member of the party's senior and former Eastern Provincial Council. Durairatnam has called for a challenge.
+
+He was speaking at the office of Parliamentarian K. Karunagaram on Monday (30).
+
+A representative in the Ampara district on the basis of Tamils ​​in the Eastern Province. A representative in Trincomalee district, six Tamil parliamentary representatives, including four representatives in the Batticaloa district, must be protected by the parliamentary elections.. Only then can we protect the presence of Tamils.
+
+...
+
+[Data](articles/79e37b4b.json)
+
+[Extended Data](ext_articles/79e37b4b.ext.json)
+
+---
 
 ### ECSL halts President’s subsidy plan for farmers and fishermen
 
@@ -2187,153 +2331,5 @@ Investigations have revealed that the arrested person was involved in drug consu
 [Data](articles/aaa68775.json)
 
 [Extended Data](ext_articles/aaa68775.ext.json)
-
----
-
-### Date Dates Notification to Apply
-
-*2024-09-30 14:50:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பிக்க-வேண்டிய-திகதிகள்-அறிவிப்பு/175-344707) · `ta`
-
-Elections Commission announces postal voting application dates: Oct 1-8. General election set for Nov 14. Nominations filing: Oct 4-11. New Parliament: Nov 21, 2024.
-
-🟩
-
-The Elections Commission has announced that applications for postal voting in the upcoming general election will be accepted from October 1 to October 8.
-
-The Commissioner General of Elections has confirmed that the general elections will be held on the 14th of November.
-
-The announcement was recently issued by President Anura Kumara Dissanayake by dissolving the Parliament of Sri Lanka on the 24th of last month.
-
-Accordingly, the filing of nominations will be held from October 4 to 2024 from October 11, while the new Parliament is scheduled for November 21, 2024.
-
-◼️
-
-[Data](articles/bd6ce83b.json)
-
-[Extended Data](ext_articles/bd6ce83b.ext.json)
-
----
-
-### First Cabinet decisions of the National People's Power will be announced tomorrow
-
-*2024-09-30 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195130) · `ta`
-
-National People's Power Government announces Cabinet decisions on Tuesday. Minister Vijitha Herath to reveal initial decisions.
-
-🟩
-
-The National People's Power Government will announce the Cabinet decisions of the government on Tuesday (01). Minister Vijitha Herath will announce the initial decisions of the Cabinet.
-
-◼️
-
-[Data](articles/c9d13c4e.json)
-
-[Extended Data](ext_articles/c9d13c4e.ext.json)
-
----
-
-### The boys arrested for attending the party
-
-*2024-09-30 14:45:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருந்தில்-கலந்து-கொண்ட-சிறுவர்கள்-கைது/175-344705) · `ta`
-
-Ragama police arrest 18 students aged 15-19 for drug-related activities at a secret gathering.
-
-🟩
-
-Officials have confirmed that 18 students have been arrested by the Ragama police yesterday (29) evening.
-
-The move was followed by confidential information that was secretly gathering at a parking lot in Nugawela Kesalwatte.
-
-The arrested have 16 boys and two girls aged 15 to 19.
-
-It is reported that students from Kottanchenai, Blumental, Dematagoda, Wellampitiya and Kolonnawa are studying in popular schools in these areas.
-
-According to the police, the police said that these students had been engaged in drug -related activities for some time and had a rich appearance even though they belong to poor families.
-
-The raid took place under the leadership of the Chief Inspector Buddhika Rajapaksa of the Ragama Police Station and the Criminal Investigation Officer of the Department.
-
-◼️
-
-[Data](articles/55605d62.json)
-
-[Extended Data](ext_articles/55605d62.ext.json)
-
----
-
-### Weather advisory for severe lightning
-
-*2024-09-30 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102354/weather-advisory-for-severe-lightning) · `en`
-
-The Department of Meteorology has issued an advisory for severe lightning for several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Sabaragamuwa, Southern, Central, Uva and North-western provinces and in Ampara, Batticaloa and Polonnaruwa districts, it said.
-
-There may be temporary localized strong winds during thundershowers while the general public is requested to take adequate precautions to minimize damages caused by lightning activity.
-
-◼️
-
-[Data](articles/71d5c12a.json)
-
-[Extended Data](ext_articles/71d5c12a.ext.json)
-
----
-
-### Complaint of substandard results - complains to CID
-
-*2024-09-30 14:38:08* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රමිතියෙන්-තොර-ප්‍රති-දේහ-එන්නත්-යළිත්-මෙරටට-ගෙන්වලා---සී-අයි-ඩී-යට-පැමිණිල්ලක්/11-412230) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dr. Chamal Sanjeewa removed from India over substandard pharmaceuticals. Complains to CID about criminal investigation. Medical supply director says imported stock removed due to quality issues.
-
-🟩
-
-Dr. Chamal Sanjeewa, chairman of medical and civil rights doctors, has been removed from India and the pharmaceutical stock of pharmaceuticals has been completely removed in September last September.
-
-He was speaking to the media after a complaint with the Criminal Investigation Department today (30).
-
-The Director of the Medical Supply Dias, the Director of the Medical Supply Dias, the Director of the Medical Support Dias states that the country is imported from India after the arrest of Minister Keheliya Rambukwella.. It is said that the stock of the emiyuglobourin was substandard and was completely removed from the use of those stocks of this year.
-
-◼️
-
-[Data](articles/848089e4.json)
-
-[Extended Data](ext_articles/848089e4.ext.json)
-
----
-
-### Rain for pouring;Homes that are completely treasured;More than 200 people killed in Nepal
-
-*2024-09-30 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/195133) · `ta`
-
-Nepal floods: 200+ dead, homes destroyed, rivers overflowed. Climate crisis blamed. Rescue efforts ongoing.
-
-🟩
-
-In Nepal, 200 people have been killed in the capital Kathmandu due to flooding due to continuous rains.
-
-Due to continuous rains, rivers have been revealed that many cities of the capital are under water.
-
-More than 100 houses have been destroyed, highways have been cut off due to floods, Nepal reports say.
-
-Scientists have said that Nepal is facing the most dangerous rainfall and flooding due to the climate crisis.
-
-Rescuers are facing great difficulties in rescuing and rescued by floods and those who have been flooded with floods in the distant area.
-
-Lalithpur in the south of Kathmandu is facing the worst effects.
-
-Rescue workers are digging those areas with their hands to rescue those who are thought to be in the mud or flood.
-
-Helicopters and boats are being used to rescue people who have taken refuge on the roofs.
-
-192 people have died since Friday and 92 were injured and a large number of people disappeared, officials said.
-
-...
-
-[Data](articles/53653262.json)
-
-[Extended Data](ext_articles/53653262.ext.json)
 
 ---

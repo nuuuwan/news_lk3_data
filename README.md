@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 10:12:03**
+As of **2024-10-01 10:23:41**
 
 ## Newspaper Stats
 
-*Scraped **47,139** Articles*
+*Scraped **47,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 471
 islandlk | 2,776
 economynextcom | 2,861
 dailyftlk | 3,162
-adalk | 4,359
+adalk | 4,360
 dailymirrorlk | 4,733
-adaderanalk | 5,543
+adaderanalk | 5,544
 tamilmirrorlk | 6,329
 virakesarilk | 7,539
 adaderanasinhalalk | 8,148
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,139 (100.0%) of 47,139 articles have been extended.
+47,139 (100.0%) of 47,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Postal voting applications for General Election accepted from today
+
+*2024-10-01 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102368/postal-voting-applications-for-general-election-accepted-from-today) · `en`
+
+The applications for postal voting for the upcoming General Election will be accepted from today (01).
+
+The Election Commission announced that the postal voting applications will be accepted until October 08.
+
+The 2024 certified voter list will be used for the 2024 General Election to be held on November 14.
+
+The Election Commission has announced that the 2024 voter lists for all electoral divisions across the island will be displayed from today for the convenience of the postal voters.
+
+Accordingly, voter lists are to be displayed in all District Secretariats, all Divisional Secretariats, Grama Niladhari Offices and some other selected locations.
+
+Postal voting applications can be obtained free of charge from places where the voter lists are displayed, at the District Election Offices, and can also be downloaded from the Election Commission’s website.
+
+The Election Commission states that applications must be submitted to the District Returning Officer of the relevant district by October 08.
+
+◼️
+
+[Data](articles/255a5197.json)
+
+---
 
 ### 8 people injured in bus accident
 
@@ -1007,6 +1031,26 @@ There are many election manifestos flying around these days issued by the major 
 [Data](articles/5519b8bf.json)
 
 [Extended Data](ext_articles/5519b8bf.ext.json)
+
+---
+
+### එජාප ප්‍රමුඛ සන්ධානය සියලුම මැතිවරණ කොට්ඨාවලට තරග කරයි
+
+*2024-09-30 23:03:36* · [`adalk`](https://www.ada.lk/breaking_news/එජාප-ප්‍රමුඛ-සන්ධානය-සියලුම-මැතිවරණ-කොට්ඨාවලට-තරග-කරයි/11-412244) · `si`
+
+ඉදිරි මහ මැතිවරණයේදී එක්සත් ජාතික පක්ෂය ප්‍රමුඛ නව සන්ධානය ශ්‍රී ලංකාවේ සියලුම මැතිවරණ කොට්ඨාස සඳහා අපේක්ෂක ලැයිස්තු ඉදිරිපත් කිරීමට නියමිතය.
+
+නව සන්ධානය මහ මැතිවරණය සඳහා ඉදිරිපත් වන ලකුණ ඉදිරි දින දෙක තුළදී තීරණය කිරීමට නියමිත බව එක්සත් ජාතික පක්ෂය සඳහන් කරයි.
+
+මහ මැතිවරණයට ඉදිරිපත් වීම සඳහා වන කටයුතු කඩිනමින් සම්පාදනය කරන ලෙස හිටපු ජනාධිපති එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා එක්සත් ජාතික පක්ෂ නිලධාරී මණ්ඩලයට දැනුම් දී ඇත.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ, ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ පක්ෂ රැසක් එක්සත් ජාතික පක්ෂය සමග සන්ධානගත වී මහ මැතිවරණයට ඉදිරිපත් වීමට මේ වන විට එකඟතා පළව තිබෙන බව පක්ෂ ජ්‍යෙෂ්ඨ ප්‍රකාශකයෙක් සඳහන් කළේය.
+
+මහ මැතිවරණයට එක්සත් ජාතික පක්ෂය ප්‍රමුඛ නව සන්ධානය ඉදිරිපත් වන ආකාරය සම්බන්ධයෙන් සාකච්ඡාවක් පක්ෂ නායක හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් කොළඹ මල් පාරේ පිහිටි දේශපාලන කාර්යාලයේදී ඊයේ (30දා) පැවැත්විණි.
+
+...
+
+[Data](articles/f7f5892d.json)
 
 ---
 
@@ -2221,57 +2265,5 @@ Arthur C Clark said 80,000 years after the return of this comet after 80,000 yea
 [Data](articles/427f3da7.json)
 
 [Extended Data](ext_articles/427f3da7.ext.json)
-
----
-
-### Postal voting applications for General Election accepted from tomorrow
-
-*2024-09-30 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102358/postal-voting-applications-for-general-election-accepted-from-tomorrow-) · `en`
-
-The accepting of applications for postal voting in the upcoming parliamentary elections will commence from tomorrow (Oct. 01) and is scheduled to end on October 08, 2024.
-
-Meanwhile, the Commissioner General of Elections, Saman Sri Ratnayake discussed the preparations for the upcoming General Election while participating in the Ada Derana’s ‘Big Focus’ program.
-
-He noted that while the election was officially announced on September 25 and that the voter list certified by then is the voter list which was certified on July 08.
-
-Answering a question regarding the allocation of funds for the General Elections, the Commissioner General stated that if the President dissolves parliament as per his wishes, then he is bound by Article 150 (4) of the Constitution to allocate the necessary funds for the election.
-
-...
-
-[Data](articles/74b044c7.json)
-
-[Extended Data](ext_articles/74b044c7.ext.json)
-
----
-
-### Announcement of the GCE Ordinary Level Examination for 2024
-
-*2024-09-30 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/195147) · `ta`
-
-GCE Ordinary Level Exam 2024: March announcement, GCE A/L Nov-Dec 2023, next O/L Mar 2025, online application deadline Oct 14, results via e-commerce, one-day service, or regular service.
-
-🟩
-
-The Department of Examinations has announced that the General Quality Examination for 2024 will be held in March next year.
-
-The Commissioner General of Examinations Amit Jayasundara said that the date of the exams will be announced in a timely manner.
-
-Meanwhile, Commissioner General Amit Jayasundara added that the GCE Advanced Level Examinations will commence on November 25 and will be held till December 20.
-
-Also, we intend to hold the next GCE Ordinary Level Examination in March 2025. The appropriate dates for the exam will be announced later.
-
-By 2026, the examinations will be reduced to a timely cardboard.
-
-In addition, applications for the Recycle of the GCE Ordinary Level Examination Recovery will be accepted from tomorrow.
-
-Accordingly, the Commissioner General Jayasundera has urged that applications on the website will be accepted until October 14.
-
-Applicants can obtain their results certificates through ecommerce, one day services or regular services.
-
-...
-
-[Data](articles/35f1691a.json)
-
-[Extended Data](ext_articles/35f1691a.ext.json)
 
 ---

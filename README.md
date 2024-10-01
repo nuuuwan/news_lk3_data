@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 00:13:08**
+As of **2024-10-02 00:24:19**
 
 ## Newspaper Stats
 
-*Scraped **47,275** Articles*
+*Scraped **47,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,162
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
-tamilmirrorlk | 6,349
+tamilmirrorlk | 6,350
 virakesarilk | 7,563
 adaderanasinhalalk | 8,176
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,273 (100.0%) of 47,275 articles have been extended.
+47,275 (100.0%) of 47,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### இஸ்ரேலில் பதற்றம் - இலங்கையர்களுக்கு கடுமையான எச்சரிக்கை
+
+*2024-10-01 23:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-பதற்றம்-இலங்கையர்களுக்கு-கடுமையான-எச்சரிக்கை/175-344784) · `ta`
+
+லெபனான் மீது தொடர்ந்து தாக்குதல் நடத்திய இஸ்ரேலுக்கு பதிலடி கொடுக்கும் வகையில் இஸ்ரேலை நோக்கி ஈரான் ஏவுகணை தாக்குதலை நடத்தி வருவதாக இஸ்ரேல் இராணுவம் தெரிவித்துள்ளது
+
+இந்த நிலையில், இஸ்ரேலில் உள்ள இலங்கை பிரஜைகள் அனைவரும் மறு அறிவிப்பு வரும் வரை பாதுகாப்பான இடங்களில் இருக்குமாறு இஸ்ரேலுக்கான இலங்கைத் தூதுவர் நிமால் பண்டார விசேட அறிவிப்பு ஒன்றை வெளியிட்டுள்ளார்.
+
+தேவையற்ற பயணங்களிலிருந்து தம்மை பாதுகாத்துக் கொள்ளுங்களுமாறும், பாதுகாப்பு அமைச்சகம் மற்றும் PIBA வழங்கும் வழிமுறைகளை பின்பற்றுமாறும் அறிவுறுத்தப்பட்டுள்ளது.
+
+அதேபோல், அத்தியாவசிய உணவு, மருந்து, தண்ணீர் ஆகியவற்றை அருகில் வைத்துக் கொள்ளுமாறும் இஸ்ரேலுக்கான இலங்கைத் தூதுவர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/0c91d60e.json)
+
+---
 
 ### Actor Rajinikanth suddenly admitted to hospital
 
@@ -2150,6 +2168,8 @@ Let’s dedicate ourselves to creating a better world for them.
 
 [Data](articles/9ee038af.json)
 
+[Extended Data](ext_articles/9ee038af.ext.json)
+
 ---
 
 ### New Chairman appointed to Litro Gas
@@ -2373,21 +2393,5 @@ The two countries have discussed bilateral relations between the two countries.
 [Data](articles/a825ff77.json)
 
 [Extended Data](ext_articles/a825ff77.ext.json)
-
----
-
-### A Call For Unity: Seize This Rare Opportunity For Tamil Representation
-
-*2024-10-01 11:11:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-call-for-unity-seize-this-rare-opportunity-for-tamil-representation/) · `en`
-
-With the presidential election behind us and the parliamentary elections on the horizon, it is time for us, as representatives of the Tamil community, to act with clarity and purpose. Our people have endured decades of hardship, their basic rights eroded, and it is now our responsibility to ensure that these rights are restored. To achieve this, we must speak with one voice, unified under a common goal, to represent the needs and aspirations of the Tamil population.
-
-In the past, we have allowed ourselves to become fragmented—split into various groups with disparate agendas. This has weakened our collective voice, and the end result has often been failure. We cannot afford to repeat these mistakes. Now more than ever, our people need a clear and unified leadership to negotiate with the central government. Splintered groups with incoherent demands will only continue the cycle of disappointment and missed opportunities. Our strength lies in unity, and we must act accordingly.
-
-...
-
-[Data](articles/ad75bbf5.json)
-
-[Extended Data](ext_articles/ad75bbf5.ext.json)
 
 ---

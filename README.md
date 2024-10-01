@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 08:49:09**
+As of **2024-10-01 09:03:05**
 
 ## Newspaper Stats
 
-*Scraped **47,129** Articles*
+*Scraped **47,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 465
 colombotelegraphcom | 471
-islandlk | 2,773
+islandlk | 2,774
 economynextcom | 2,861
 dailyftlk | 3,161
 adalk | 4,358
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,541
 tamilmirrorlk | 6,328
 virakesarilk | 7,539
-adaderanasinhalalk | 8,146
+adaderanasinhalalk | 8,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,123 (100.0%) of 47,129 articles have been extended.
+47,131 (100.0%) of 47,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Man dies in an attack
+
+*2024-10-01 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201713) · `si`
+
+Father killed by son-in-law over argument. 63-year-old man murdered in Pattalagedara. Suspect arrested, hospitalized. Police investigating.
+
+🟩
+
+The father of the daughter has been assassinated by the man who was married to the daughter to marry the daughter due to a heated argument.
+
+The incident was reported from a house in Pattalagedara, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha.
+
+The deceased has been identified as a 63 year old resident of the Veyangoda, Veyangoda.
+
+The suspect has been arrested and the suspect is also receiving treatment at the Vathupitiwela Hospital in the confrontation.
+
+The body is under the protection of the magisterial inquiry and the Veyangoda Police are conducting further investigations.
+
+◼️
+
+[Data](articles/2acbcecb.json)
+
+[Extended Data](ext_articles/2acbcecb.ext.json)
+
+---
 
 ### Fairly heavy showers expected in several provinces
 
@@ -48,75 +74,109 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/28a5e8e3.json)
 
+[Extended Data](ext_articles/28a5e8e3.ext.json)
+
 ---
 
-### තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම අද සිට
+### Postal voting applications from today
 
 *2024-10-01 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201712) · `si`
 
-මහ මැතිවරණය සඳහා තැපැල් ඡන්ද අයදුම්පත් භාරගැනීම අද (01) සිට ආරම්භ වෙයි.
+Postal voting applications begin today. Applications open until Oct 8 for Nov 14 general election. Electoral registers displayed at District Secretariats and Grama Niladhari offices. Apply online or at district election offices. Submit forms to district selection officers by Oct 8 deadline.
 
-මැතිවරණ කොමිෂන් සභාව නිවේදනය කළේ ඔක්තෝබර් 8 වැනිදා මධ්‍යම රාත්‍රිය දක්වා අයදුම්පත් භාරගැනීම සිදුකරන බවය.
+🟩
 
-නොවැම්බර් මස 14 වැනිදා පැවැත්වීමට නියමිත 2024 මහ මැතිවරණය සඳහා භාවිත කරනු ලබන්නේ 2024 වර්ෂයේ සහතික කරන ලද ඡන්ද හිමි නාමලේඛනයයි.
+Postal voting applications for the general election begins today (01).
 
-ඒ අනුව තැපැල් ඡන්ද හිමියන්ගේ පහසුව සඳහා දිවයිනේ සියලුම මැතිවරණ කොට්ඨාසවලට අදාළ 2024 වර්ෂයේ ඡන්ද හිමි නාමලේඛන අද සිට ප්‍රදර්ශනය කරන බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+The Elections Commission announced that applications were accepted until midnight on October 8.
 
-ඒ අනුව, සියලුම දිස්ත්‍රික් ලේකම් කාර්යාලවල, සියලුම ප්‍රාදේශීය ලේකම් කාර්යාලවල, සියලුම ග්‍රාම නිලධාරි කාර්යාලවල සහ තෝරාගත් තවත් ස්ථාන කිහිපයකදී ඡන්ද හිමි නාමලේඛන ප්‍රදර්ශනය කිරීමට නියමිතය.
+The 2124 general election will be used for the 2024 general election on November 14.
 
-තැපැල් ඡන්ද අයදුම්පත් ඡන්ද හිමි නාමලේඛන ප්‍රදර්ශනය කරනු ලබන ස්ථානවලින්, දිස්ත්‍රික් මැතිවරණ කාර්යාලවලින් නොමිලේ ලබාගත හැකි අතර කොමිෂන් සභාවේ වෙබ් අඩවියෙන්ද බාගත කළ හැකි වේ.
+The Elections Commission announced that the electoral regions of the 2024 electoral registers are displayed today for the convenience of postal vacancies.
 
-මැතිවරණ කොමිෂන් සභාව පවසන්නේ එම අයදුම්පත් ඔක්තෝබර් 08 දින හෝ ඊට පෙර අදාළ දිස්ත්‍රික්කයේ තේරීම්භාර නිලධාරිවරයා වෙත යොමුකළ යුතු බවය.
+Accordingly, electoral registers are to be displayed at all District Secretariats, all Grama Niladhari offices and other selected areas.
+
+Postal voting applications can be obtained from the district election offices, while the district election offices can be recovered from the Commission website.
+
+The Election Commission states that the applications should be sent to the selection officer in the district on or before October 08.
 
 ◼️
 
 [Data](articles/cf6e491a.json)
 
+[Extended Data](ext_articles/cf6e491a.ext.json)
+
 ---
 
-### ළමා ලෝකය නැවත දරුවන්ට දිනාදීම තම අරමුණ බව ජනපති කියයි
+### President calls for children to return to children
 
 *2024-10-01 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201711) · `si`
 
-දරුවන්ට හිමි ළමා ලෝකය නැවත දරුවන්ට  දිනා දීම අපගේ පුනරුද යුග  කාර්යයේ මාහැඟි අරමුණ බව ලෝක ළමා දිනය වෙනුවෙන් පණිවුඩයක් නිකුත් කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a 200-character summary:
 
-මේ සහශ්‍රකයේ දරුවන් මුහුණ දෙන අභියෝග ලෙස දිළිඳුකම, මන්දපෝෂණය, සෞඛ්‍ය සහ සනීපාරක්ෂාව, පරිසර විනාශය, අධ්‍යාපනයේ අසමතුලිත බව, සමාජ අවස්ථාවල අසමාන බව, මත්ද්‍රව්‍ය මෙන්ම  තාක්ෂණය අනිසි ලෙස භාවිතයේ ගොදුරු බවට පත්වීම යනාදිය අපි හඳුනාගෙන  ඇත්තෙමු.
 
-එසේම  දරුවන්ගේ මනෝ සමාජයීය  සංවර්ධනයට බාධා කරන  සමාජයීය සාධක මෙන්ම ආතතියෙන් පිරුණු විභාග කේන්ද්‍රීය අධ්‍යාපන රටාව යනාදී අගතීන් ගෙන් වත්මන් ළමා පරපුර මුදවාගෙන දරුවන්ට හිමි ළමා ලෝකය නැවත දරුවන්ට දිනා දීම  අපගේ පුනරුද යුග කාර්යයේ මාහැඟි අරමුණයි. කයින් මනසින්  මෙන්ම  අධ්‍යාත්මයෙන්ද  නිරෝගී සුපසන්  ළමා පරපුරක් බිහිකිරීම  මඟින් අනාගත  ලොව දිනන නිදහස් පරිකල්පනයකින් යුතු නිවහල් උදාර මිනිසා නිර්මාණය වන බව  අපි විශ්වාස කරන්නෙමු.
+
+President Anura Kumara Dissanayake calls for children to return to children's day celebrations. Focuses on poverty, education, social opportunities, and technology. Prime Minister Dr. Harari Amarasuriya emphasizes investment in future generations. Government committed to economic development and elderly care support systems.
+
+🟩
+
+President Anura Kumara Dissanayake says that it is aimed at the World Children's Day to win children's popularity again to children.
+
+We have identified poverty, malnutrition, health and hygiene, unquality, unqualifiedness, unquality, unquestion of education, social opportunities, dissimilar, unquality, environmental and technology, dissimilarity, disbelieve of education, unqualifiedness, unquestion, and technology.
+
+Also, the celebration of children who restore children's popularity and children's popularity, which is hindered the psychological development of the children's psychological development, bring up the current children's generation and winning their children's popularity is to win their lives. We believe that the creation of a generation of free imagination in the future by creating a generation of kine as well as a healthy childhood.
 
 ...
 
 [Data](articles/1f497f3d.json)
 
+[Extended Data](ext_articles/1f497f3d.ext.json)
+
 ---
 
-### ලෝක ළමා දිනය අදයි
+### World Children's Day Today
 
 *2024-10-01 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201710) · `si`
 
-ළමුන්ගේ අයිතිවාසිකම් සම්බන්ධයෙන් වැඩි අවධානයක් යොමුකළ යුතු බව ජාතික ළමා රක්ෂණ අධිකාරිය පවසයි.
+Here's a 200-character summary:
 
-එහි සභාපති සරෝජනී කුසලා වීරවර්ධන මහත්මිය පැවසුවේ ළමයින්ට සුදුසු පරිසරයක් නිර්මාණය කිරීම මව්පියන්ගේ මෙන්ම වැඩිහිටියන්ගේ ද යුතුකමක් බවය.
+
+
+National Child Protection Authority emphasizes child rights importance. Chairman calls for parents and adults to create suitable environments for children. World Children's Day highlights need for increased focus on protecting and promoting children's welfare.
+
+🟩
+
+The National Child Protection Authority (NVQ) stated that more attention should be paid to the rights of children.
+
+Appointment of the Chairman Saronsi Weerawardena said that creating a suitable environment for children is the duty of parents as well as adults.
 
 ◼️
 
 [Data](articles/387467f7.json)
 
+[Extended Data](ext_articles/387467f7.ext.json)
+
 ---
 
-### අදත් ප්‍රදේශ රැසකට වැසි
+### Showers in many areas today
 
 *2024-10-01 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201708) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවල අද (01) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy showers/thundershowers expected in Central, Sabaragamuwa, North Western, and North Central provinces today/tonight. Public advised to take precautions against strong winds and lightning.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම, සබරගමුව, වයඹ සහ උතුරුමැද පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 50ට වැඩි තරමක තද වැසිද ඇති විය හැකි බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the country today (01) or night.
+
+The department states that the department states in some places in the Central, Sabaragamuwa, North Western and North Central Provinces. Heavy close is likely to grow more than 50.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/3698a88f.json)
+
+[Extended Data](ext_articles/3698a88f.ext.json)
 
 ---
 
@@ -495,6 +555,20 @@ Helen storm recorded as the worst hurricane that hit the United States in 173 ye
 ---
 
 ### 2024-09-30 (Monday)
+
+### RALLYING AROUND THE PRESIDENT
+
+*2024-09-30 23:51:00* · [`islandlk`](http://island.lk/rallying-around-the-president/) · `en`
+
+Public support for the government after the presidential election is on the rise. The first actions of the government have been appreciated by the general public. These include the exposure of former presidential advisors and their vehicles, the investigation ordered into the visa and passport controversies not to mention the peaceful conduct of the post-election celebrations which did not include any taking of revenge against those who had been in power. This is indeed a break with the past when the victors went on the rampage against their political opponents and included innocent ethnic and religious minorities in their frenzy.
+
+...
+
+[Data](articles/253c0b50.json)
+
+[Extended Data](ext_articles/253c0b50.ext.json)
+
+---
 
 ### ‘Ballard of the Warriors’
 
@@ -1560,19 +1634,25 @@ The Colombo Consumer Price Index fell almost continuously from March 2024, excep
 
 ---
 
-### මන්ත්‍රී විශ්‍රාම වැටුප හා වාහන බලපත්‍රය අහෝසි කිරීම ගැන හොයන්න කමිටුවක්
+### Committee to investigate MP Pension and abolition of vehicle license
 
 *2024-09-30 18:19:15* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-විශ්‍රාම-වැටුප-හා-වාහන-බලපත්‍රය-අහෝසි-කිරීම-ගැන-හොයන්න-කමිටුවක්/11-412236) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප සහ තීරුබදු රහිත වාහන බලපත්‍ර අහෝසි කිරීමට ඇති හැකියාව පිළිබඳව සොයා බලා නිර්දේශ ඉදිරිපත් කිරීමට කමිටුවක් පත් කිරීමට තීරණය කර ඇතැයි වාර්තා වේ.
+Committee formed to investigate MP pensions and duty-free vehicle licenses. Cabinet approves committee to examine pensions and duties, but not abolish vehicle permits. Committee tasked with legal research and Act analysis. Decision made during Cabinet meeting under President Anura Kumara Dissanayake's patronage. First Cabinet meeting of new government held at Presidential Secretariat.
 
-ඒ අනුව පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප සහ තීරුබදු රහිත වාහන බලපත්‍ර අහෝසි කිරීම සම්බන්ධයෙන් සොයාබලා නිර්දේශ ඉදිරිපත් කිරීමට කමිටුවක් පත් කිරීම සඳහා කැබිනට් අනුමැතිය ලබා දී ඇත. කැබිනට් තීරණය අනුව අදාළ කමිටුව පත් කර, ඊට අදාළ පනත් පිළිබඳව සැලකිල්ලට ගනිමින් සහ නීතිමය පසුබිම පිළිබඳව සොයාබලමින් එම නිර්දේශ ඉදිරිපත් කිරීමේ වගකීම එම කමිටුවට පැවරීමට නියමිත බව ද වාර්තා විය.
+🟩
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (30දා) රැස්වූ කැබිනට් මණ්ඩලයේ දී මෙම තීරණය ගෙන තිබේ. නව රජයේ පළමු කැබිනට් මණ්ඩලය ඊයේ (30දා) පස්වරුවේ ජනාධිපති කාර්‍යාලයේ දී රැස්විය.
+It is reported that a committee has been appointed to investigate the possibility of the MPs and the possibility of abolishing the pension and duty licenses.
+
+Accordingly, the Cabinet approval has been given to appoint a committee to look into the pension and duty without the abolition of duty free vehicle permits. It was also reported that the committee would be given the responsibility of providing them with legal background, taking into legal background, to appoint the relevant Acts and finding the recommendations.
+
+The decision was taken at the Cabinet meeting yesterday (30) under the patronage of President Anura Kumara Dissanayake yesterday.. The first Cabinet of the new government met at the Presidential Secretariat yesterday.
 
 ◼️
 
 [Data](articles/44c3b885.json)
+
+[Extended Data](ext_articles/44c3b885.ext.json)
 
 ---
 
@@ -2221,55 +2301,5 @@ The Divisions Children's and Women's Bureau is conducting further investigations
 [Data](articles/051db63e.json)
 
 [Extended Data](ext_articles/051db63e.ext.json)
-
----
-
-### Two women arrested for defrauding the country job dreams
-
-*2024-09-30 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201692) · `si`
-
-Two women arrested for fraudulently obtaining jobs abroad. They were expecting money from the Sri Lanka Bureau of Foreign Employment but lacked proper licenses. One was fined 400,000 rupees, while the other was remanded until October 04. The bureau plans to pursue legal action against both suspects.
-
-🟩
-
-The Bureau's Special Investigation Division has arrested two women who were expecting the money that the Sri Lanka Bureau of Foreign Employment would be given foreign employment without a valid license.
-
-A person has obtained Rs.
-
-However, a woman from a resident of the Kandy area has been arrested by the Investigation Officers in her home.
-
-The arrestedwoody was produced before the Kandy Magistrate's Court and then punished the 4 lakhs of Rs.
-
-Meanwhile, a resident of the Galagedara area has been arrested by a resident of Galagedara, a sum of Rs.
-
-The suspect was produced before the Galagedara Magistrate's Court and remanded until October 04.
-
-The bureau is being taken to further the Bureau against the suspect and will be taken to take over the complaints.
-
-◼️
-
-[Data](articles/7be16dcb.json)
-
-[Extended Data](ext_articles/7be16dcb.ext.json)
-
----
-
-### Kolify joins Sachin, Sangakkara, Pontin's society
-
-*2024-09-30 16:11:10* · [`adalk`](https://www.ada.lk/sports/සචින්--සංගක්කාර-පොන්ටින්ගේ-සමාජයට-කෝලිත්-එක්වෙයි/9-412231) · `si`
-
-Kohli joins elite club: 4th to reach 27000+ intl runs, after Sachin, Sangakkara, Ponting.
-
-🟩
-
-India's Wednesday (30) Rathya Virdia B. Virath Kohli surrendered to the fourth player who crossed 27,000 runs in international competitions.
-
-Previously, that skill was referred to Sachin Tenderkar (India), Kumar Sangakkara (Sri Lanka) and Ricky Ponting (Australia).
-
-◼️
-
-[Data](articles/f2e1b230.json)
-
-[Extended Data](ext_articles/f2e1b230.ext.json)
 
 ---

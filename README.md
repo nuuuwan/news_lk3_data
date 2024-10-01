@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 18:34:40**
+As of **2024-10-01 18:48:09**
 
 ## Newspaper Stats
 
-*Scraped **47,242** Articles*
+*Scraped **47,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ colombotelegraphcom | 472
 islandlk | 2,778
 economynextcom | 2,871
 dailyftlk | 3,162
-adalk | 4,373
+adalk | 4,374
 dailymirrorlk | 4,733
 adaderanalk | 5,561
 tamilmirrorlk | 6,346
 virakesarilk | 7,558
-adaderanasinhalalk | 8,169
+adaderanasinhalalk | 8,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,242 (100.0%) of 47,242 articles have been extended.
+47,242 (100.0%) of 47,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### ගාල් කළ වාහන නැවත එම ආයතනවලටම භාරදෙයි
+
+*2024-10-01 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201736) · `si`
+
+පසුගිය සමයේ අමාත්‍යාංශ, දෙපාර්තමේන්තු ඇතුළු විවිධ රජයේ ආයතනවලින් ජනාධිපති කාර්යාලයට රැගෙන විත් තිබූ වාහන නැවත එම ආයතනවලට භාරදීම අද (01) පස්වරුවේ ජනාධිපති කාර්යාලය අසල එම වාහන නවතා තිබූ පරිශ්‍රයේදී සිදු කෙරුණි.
+
+ඒ අනුව අද (01) වාහන 19ක් නිදහස් කිරීමට කටයුතු කෙරුණු අතර එයින් වාහන 15ක් පමණ පූර්ව දැනුම්දීමකට අනුව එම ස්ථානයට පැමිණි අදාළ ආයතනවල නිලධාරීන් අද දිනම රැගෙන ගිය බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+මාර්ග සංවර්ධන අධිකාරියෙන් ලබාගත් වාහන 08ක්, මුදල් අමාත්‍යාංශයෙන් ලබාගත් වාහන 03ක්, දකුණු පළාත් සභාවෙන්, ප්‍රවාහන හා සිවිල් ගුවන්සේවා අමාත්‍යාංශයෙන් සහ වනජීවි දෙපාර්තමේන්තුවෙන් ලබාගත් වාහන 01 බැගින් සම්පූර්ණ වාහන 15ක් අද දින මෙලෙස ආදළ ආයතනවලට නැවත ලබාදීම සිදු විය.
+
+මෙම අවස්ථාවට ජනාධිපති කාර්යාලයේ ජ්‍යෙෂ්ඨ අතිරේක ලේකම් රොෂාන් ගමගේ, අතිරේක ලේකම් මහේෂ් හේවාවිතාරණ යන මහත්වරු ඇතුළු පිරිසක් එක්වී තිබේ.
+
+◼️
+
+[Data](articles/7c08a327.json)
+
+---
 
 ### Superbollywood Veduvada shot
 
@@ -313,6 +331,20 @@ Within a short time of the song, millions of viewers have been visited and achie
 [Data](articles/5d08caf6.json)
 
 [Extended Data](ext_articles/5d08caf6.ext.json)
+
+---
+
+### මෙම සතියේ සුරාසැල් වැසෙන දිනය මෙන්න
+
+*2024-10-01 16:39:26* · [`adalk`](https://www.ada.lk/breaking_news/මෙම-සතියේ-සුරාසැල්-වැසෙන-දිනය-මෙන්න/11-412260) · `si`
+
+ඔක්තෝම්බර්  03 වැනිදා දිවයිනපුරා සුරා සැල් වසා තබන ලෙස සුරාබදු කොමසාරිස් ජනරාල්වරයා නියෝග කර තිබේ.
+
+එදිනට යෙදී ඇති ලෝක අමද්‍යම දිනය නිමිත්තෙන් මෙම පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/b994e006.json)
 
 ---
 
@@ -2405,51 +2437,5 @@ It was in the 1960s that the US Fed, driven by ‘macroeconomic policy’ starte
 [Data](articles/53ef099b.json)
 
 [Extended Data](ext_articles/53ef099b.ext.json)
-
----
-
-### Man dies in an attack
-
-*2024-10-01 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201713) · `si`
-
-Father killed by son-in-law over argument. 63-year-old man murdered in Pattalagedara. Suspect arrested, hospitalized. Police investigating.
-
-🟩
-
-The father of the daughter has been assassinated by the man who was married to the daughter to marry the daughter due to a heated argument.
-
-The incident was reported from a house in Pattalagedara, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha, Veyangoda Mawatha.
-
-The deceased has been identified as a 63 year old resident of the Veyangoda, Veyangoda.
-
-The suspect has been arrested and the suspect is also receiving treatment at the Vathupitiwela Hospital in the confrontation.
-
-The body is under the protection of the magisterial inquiry and the Veyangoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/2acbcecb.json)
-
-[Extended Data](ext_articles/2acbcecb.ext.json)
-
----
-
-### Fairly heavy showers expected in several provinces
-
-*2024-10-01 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102365/fairly-heavy-showers-expected-in-several-provinces) · `en`
-
-The Meteorology Department says showers or thundershowers will occur over most parts of the island during the afternoon or night.
-
-Fairly heavy showers above 50 mm can be expected at some places in Central, Sabaragamuwa, North-western and North-central provinces.
-
-Showers may occur in Southern Province during the morning too, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
-
-◼️
-
-[Data](articles/28a5e8e3.json)
-
-[Extended Data](ext_articles/28a5e8e3.ext.json)
 
 ---

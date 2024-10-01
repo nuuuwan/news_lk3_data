@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-01 17:22:58**
+As of **2024-10-01 17:39:37**
 
 ## Newspaper Stats
 
-*Scraped **47,231** Articles*
+*Scraped **47,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 2,871
 dailyftlk | 3,162
 adalk | 4,373
 dailymirrorlk | 4,733
-adaderanalk | 5,559
+adaderanalk | 5,560
 tamilmirrorlk | 6,346
 virakesarilk | 7,553
-adaderanasinhalalk | 8,165
+adaderanasinhalalk | 8,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,231 (100.0%) of 47,231 articles have been extended.
+47,234 (100.0%) of 47,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
+
+### Special statutes passed in parliament 9
+
+*2024-10-01 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201733) · `si`
+
+Sri Lanka Parliament passes 167 bills in 9th session: 146 govt, 21 private. Key legislation includes communication and constitutional services acts.
+
+🟩
+
+The Parliament of Sri Lanka Announced that 167 bills had passed over the 9th parliamentary period 20th of 2020 and the 9th parliamentary period of 2024.
+
+The bills 146 government bills and 21 private seat are passed.
+
+Communication / Director of Constitutional Services / Director of Sri Lanka (Acting). Jayalath Perera has been informed by a statement.
+
+◼️
+
+[Data](articles/b84f17e8.json)
+
+[Extended Data](ext_articles/b84f17e8.ext.json)
+
+---
+
+### The interim ban against purchase of ordinary passport is removed
+
+*2024-10-01 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201732) · `si`
+
+Court removes interim ban on passport purchases, appeals court extends injunction, affecting millions of licenses.
+
+🟩
+
+The Court today (01) has ordered the removal of the interim injunction ordered order imposed by private companies.
+
+However, the latest Court of Appeal has decided to extend the interim injunction with the next cases, preventing the imprisonment of five million licenses.
+
+Epic Lanka (Pvt) Ltd was re-released by the Court of Appeal, which prevented the 750,000 passports and eight million passports from private companies from private companies.
+
+Additional Sumathi Dharma Dharma Dharmawardena, who has been named as respondents, the Secretary to the Ministry of Enmuting and Emigration, has held only 13,080 empty passports.
+
+It is sufficient that the additional Solicitor General also pointed out that 13 working days only to issue passports.
+
+If the Additional Solicitor General that claims to issue passports after the end, if such an additional situation arises
+
+The public who wish to go abroad for various issues, including foreign employment, said that he was facing severe hardships.
+
+...
+
+[Data](articles/e7dca30e.json)
+
+[Extended Data](ext_articles/e7dca30e.ext.json)
+
+---
+
+### Govt says only preliminary discussion on IMF program with visiting team
+
+*2024-10-01 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102384/govt-says-only-preliminary-discussion-on-imf-program-with-visiting-team-) · `en`
+
+Speaking on the upcoming visit of the high-level International Monetary Fund (IMF) delegation visiting Sri Lanka this week, Cabinet Spokesman Vijitha Herath says that only preliminary discussions on the country’s EFF program will take place during the meeting.
+
+A further discussion on its structural facts is scheduled to take place in New York around the end of October, he told reporters in Colombo today (01).
+
+A high-level team of the IMF led by its Director of the Asia Pacific Department, Krishna Srinivasan, is scheduled to visit Colombo from October 02 to 04 to meet with President Anura Kumara Dissanayake and Sri Lanka’s new economic team to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF, a spokesperson for the global lender confirmed yesterday.
+
+◼️
+
+[Data](articles/2916d1f7.json)
+
+[Extended Data](ext_articles/2916d1f7.ext.json)
+
+---
 
 ### UGC notice on accepting applications for university admission
 
@@ -2359,79 +2429,5 @@ The United National Party has decided to form an alliance in the parliamentary e
 [Data](articles/77b7c25d.json)
 
 [Extended Data](ext_articles/77b7c25d.ext.json)
-
----
-
-### People should choose those who are eligible to call the 'Hon.' Parliamentarian -Karu Jayasuriya
-
-*2024-10-01 04:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195183) · `ta`
-
-Karu Jayasuriya emphasizes voting for qualified candidates in upcoming general election. He inaugurates Democracy and Governance Learning Institute, stressing importance of transparency and responsible governance in Sri Lanka.
-
-🟩
-
-Karu Jayasuriya, the leader of the National Movement for Social Justice and former Speaker of the National Movement for Social Justice, said that it is the duty of the country to vote for the candidates who are qualified to call the 'Hon.' Parliamentarian in the upcoming general election.
-
-Under the guidance of Karu Jayasuriya, the leader of the National Movement for Social Justice, and the inauguration of the newly established Democracy and Governing Learning Institute at 3.30 pm at the Lakshman Kadirgamar Studies Institute in Colombo at 3.30 pm.
-
-Former Speaker Karu Jayasuriya, former President of Sri Lanka and former Sri Lankan High Commissioner to India, Austin Fernando, lecturers, intellectuals, international diplomats, civil society for students and civil society for students, working in Sri Lanka.
-
-...
-
-[Data](articles/09c85a8a.json)
-
-[Extended Data](ext_articles/09c85a8a.ext.json)
-
----
-
-### If possible, express the connection between the liquor station opened in Kadirgama
-
-*2024-10-01 04:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195182) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former Deputy Speaker denies liquor bar claim. Accuses National People's Power member of false propaganda. Threatens legal action over reputation damage.
-
-🟩
-
-If my brother's name has a liquor bar, I am ready to accept any legal punishment. Former Deputy Speaker Ajith Rajapakse said that he would take legal action against Vasantha Samarasinghe's false accusation.
-
-The National People's Power Political Council member Wasantha Samarasinghe commented on the allegations made by the National People's Power Council.
-
-President Anura Kumara Dissanayake is well aware of my activities. But Vasantha Samarasinghe, a member of the National People's Power Political Council, is unaware of me and is making a false propaganda regarding the liquor that has been opened in Kadirgama. When he was holding a media briefing, he said that there was a liquor bar in the name of the Deputy Speaker's brother and that there was information about the involvement of the liquor school.
-
-If Vasantha Samarasinghe can hold a media briefing and not tell the comedy stories. I am going to take legal action against what he has said to tarnish my reputation.
-
-...
-
-[Data](articles/68edfc46.json)
-
-[Extended Data](ext_articles/68edfc46.ext.json)
-
----
-
-### Despite the two ministers, I have initiated efforts to solve the problems of the Tamil people - R. Sanakiyan
-
-*2024-10-01 03:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195181) · `ta`
-
-Former TNA MP claims solving Tamil issues despite other ministers. TNA contests Batticaloa polls, receives many applications. Politicians urged to represent public interests honestly.
-
-🟩
-
-Although two people came to Batticaloa as ministers in Batticaloa, I have made efforts to settle with them during the problems faced by the Batticaloa district, ”said former parliamentarian of the Tamil National Alliance (TNA) Batticaloa district.
-
-He made this statement at a media briefing held at Kaluwanchikudi in Batticaloa this evening.
-
-All parties are now carrying out the initial work of the dissolution of the Sri Lankan parliament and the tenth parliament will be held.
-
-The Central Executive of the Sri Lanka Tamil National Alliance (TNA) last Sunday met with some decisions in Vavuniya.. In accordance with those resolutions, it was taken as a decision to contest the upcoming parliamentary elections in the House of Tamil National Party (TNA). We have also called on those who have been separated from the Tamil National Alliance to contest with the Sri Lanka Tamil National Alliance (TNA).
-
-...
-
-[Data](articles/73a626b8.json)
-
-[Extended Data](ext_articles/73a626b8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 02:22:55**
+As of **2024-10-02 02:38:24**
 
 ## Newspaper Stats
 
-*Scraped **47,284** Articles*
+*Scraped **47,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 466
 colombotelegraphcom | 473
 islandlk | 2,778
 economynextcom | 2,882
-dailyftlk | 3,168
+dailyftlk | 3,170
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
-tamilmirrorlk | 6,351
+tamilmirrorlk | 6,352
 virakesarilk | 7,563
 adaderanasinhalalk | 8,176
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,284 (100.0%) of 47,284 articles have been extended.
+47,284 (100.0%) of 47,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Aviyana becomes main sponsor for Sri Lanka Trade Fair Dubai 2024
+
+*2024-10-02 02:17:43* · [`dailyftlk`](https://www.ft.lk/business/Aviyana-becomes-main-sponsor-for-Sri-Lanka-Trade-Fair-Dubai-2024/34-767431) · `en`
+
+Pixel Advertising Solution CEO Sanjaya Rathnayaka (right) with Aviyana Group Chairman Dr. Thisara Hewawasam
+
+Aviyana, in a move to promote business and tourism hand in hand, Sri Lanka’s first-ever 7-star hotel, has chosen to be the main sponsor for the highly anticipated Sri Lanka Trade Fair Dubai 2024, which is set to take place on 2  and 3 November 2024 at the Crown Plaza, Dubai, UAE.
+
+Sri Lanka Trade Fair Dubai 2024 is an event that seeks to bridge business connections between Sri Lankan exporters and Gulf buyers, providing a global platform for Sri Lankan businesses to showcase their finest products. The event will feature a range of industries including Gem and Jewelry, Spices, Coconut Products, Tea, Textiles, and more. Aviyana’s commitment to this event goes beyond sponsorship and symbolises the hotel’s belief.
+
+...
+
+[Data](articles/abf903c9.json)
+
+---
+
+### Govt. appoints Acting Controller General for Department of Immigration and Emigration
+
+*2024-10-02 02:15:44* · [`dailyftlk`](https://www.ft.lk/business/Govt-appoints-Acting-Controller-General-for-Department-of-Immigration-and-Emigration/34-767430) · `en`
+
+The Cabinet of Ministers on Monday approved appointing the Public Security Ministry Additional Secretary B.M.D. Nilusha Balasuriya as the acting Controller General of the Department Immigration and Emigration (DIE) with immediate effect.
+
+Speaking at the weekly post-Cabinet meeting media briefing, Cabinet Spokesman and Minister Vijitha Herath said the decision follows the remand of the former DIE Controller General Harsha Ilukpitiya, who has been ordered remanded from 25 September by the Supreme Court over contempt charges.
+
+“Since former Controller General has been remanded till January, it was necessary to appoint a suitable officer to perform the critical duties in the post,” he explained.
+
+He said the signature of the Controller General was necessary in issuing passports and thus filling the vacated post was important.
+
+Acting Controller General Balasuriya is a special Grade Officer of the Sri Lanka Administrative Service.
+
+◼️
+
+[Data](articles/bf03dd40.json)
+
+---
 
 ### Women’s Chamber of Industry and Commerce holds 39th AGM
 
@@ -105,6 +141,20 @@ The same way it stopped a multitude of giveaways by Ranil Wickremesinghe during 
 ---
 
 ### 2024-10-01 (Tuesday)
+
+### ’மீனவர் பிரச்சினைக்கு நிரந்தர தீர்வு வேண்டும்’
+
+*2024-10-01 23:53:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்-பிரச்சினைக்கு-நிரந்தர-தீர்வு-வேண்டும்/175-344785) · `ta`
+
+“இன்றைய நிலையில் தமிழக மீனவர்கள் 162 பேர் கைது செய்யப்பட்டு இலங்கை சிறைகளில் அடைக்கப்பட்டுள்ளனர். அவர்கள் அனைவரையும் விடுதலை செய்யும்படியும், மீனவர் சிக்கலுக்கு நிரந்தரத் தீர்வு காண கூட்டுப் பணிக்குழுவை அமைக்கும்படியும், இலங்கை செல்லும் இந்திய வெளியுறவுத் துறை அமைச்சர் ஜெய்சங்கர் வலியுறுத்த வேண்டும்” என்று பாட்டாளி மக்கள் கட்சியின் (பாமக)  நிறுவனர் ராமதாஸ் கூறியுள்ளார்.
+
+இதுதொடர்பாக அவர் தனது எக்ஸ் தளத்தில், “இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க,   பொறுப்பேற்ற பிறகு, முதல் வெளிநாட்டுத் தலைவராக இந்திய வெளியுறவுத்துறை அமைச்சர் ஜெய்சங்கர் வரும் 4ம் திகதி இலங்கை செல்கிறார். இரு தரப்பு உறவுகளை வலுப்படுத்தும் நோக்குடன் அவர் மேற்கொள்ளவிருக்கும் இந்தப் பயணம் அங்குள்ள தமிழர்களுக்கு பயனும், அதிகாரமும் அளிக்கும் வகையில் அமைய வேண்டும்.
+
+...
+
+[Data](articles/925342f6.json)
+
+---
 
 ### Tension in Israel - Strict warning to Sri Lankans
 
@@ -2297,71 +2347,5 @@ Herath was asked if the Dissanayake administration retained the services of the 
 [Data](articles/dee39865.json)
 
 [Extended Data](ext_articles/dee39865.ext.json)
-
----
-
-### Mission to free children from harmful prejudices: Sri Lanka president
-
-*2024-10-01 12:18:00* · [`economynextcom`](https://economynext.com/mission-to-free-children-from-harmful-prejudices-sri-lanka-president-181764/) · `en`
-
-ECONOMYNEXT – The new government’s mission is to free children from harmful prejudices and social effects, Sri Lanka President Anura Kumara Dissanayake said in a World Children’s Day message.
-
-“Our mission in this renaissance era is to free children from harmful prejudices and social effects, and the pressures of exam-focused education, which hinder their psychosocial development,” a statement by the president’s media division read.
-
-To achieve this, the government will promote economic freedom, Dissanayake said.
-
-Sri Lanka marks World Children’s Day on October 1. The rest of the world marks it on November 20.
-
-Globally, October 1 is International Day for Older Persons. There was no presidential message issued to mark this. The current president’s party campaigned on an ageist platform pandering to younger voters and disparaging older politicians.
-
-Let’s dedicate ourselves to creating a better world for them.
-
-...
-
-[Data](articles/9ee038af.json)
-
-[Extended Data](ext_articles/9ee038af.ext.json)
-
----
-
-### New Chairman appointed to Litro Gas
-
-*2024-10-01 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102373/new-chairman-appointed-to-litro-gas) · `en`
-
-Channa Gunawardana has been appointed as the new Chairman of Litro Gas Lanka Limited and Litro Gas Terminal Lanka (Pvt) Ltd.
-
-◼️
-
-[Data](articles/4628feb7.json)
-
-[Extended Data](ext_articles/4628feb7.ext.json)
-
----
-
-### Actor Rajinikanth Hospital
-
-*2024-10-01 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195211) · `ta`
-
-Rajinikanth hospitalized in Chennai with stomach inflammation. Doctors treating him. Angiogram scheduled for Tuesday. Actor recovering after sudden illness. Previously treated at Apollo Hospital in 2020 due to health issues.
-
-🟩
-
-Actor Rajinikanth has been admitted to the Apollo Hospital in Chennai on Monday evening (30) evening.
-
-Doctors who examined him reported that the stomach was found to have inflammation in the blood vessel. It is reported that doctors are being treated and his health is steady.
-
-In this case, the Medical Committee has decided to arrange for Rajinikanth on Tuesday (01) than angiogram.
-
-Actor Rajinikanth has completed his role in Vettaiyan. The film is set to hit the screens on the 10th. This is followed by Rajinikanth in the film Kuli.
-
-It is reported that actor Rajinikanth has suffered a sudden illness and has suffered a sudden illness.
-
-In addition, actor Rajinikanth has already been treated at the Apollo Hospital due to a sudden illness in December 2020 and has abandoned politics due to ill health.
-
-◼️
-
-[Data](articles/0075c2cd.json)
-
-[Extended Data](ext_articles/0075c2cd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 02:57:24**
+As of **2024-10-02 03:08:30**
 
 ## Newspaper Stats
 
-*Scraped **47,294** Articles*
+*Scraped **47,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 466
 colombotelegraphcom | 473
 islandlk | 2,778
 economynextcom | 2,882
-dailyftlk | 3,177
+dailyftlk | 3,181
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
@@ -26,11 +26,77 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,293 (100.0%) of 47,294 articles have been extended.
+47,298 (100.0%) of 47,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### JICA discusses resumption of BIA 2nd phase development, TV digitisation projects
+
+*2024-10-02 02:54:21* · [`dailyftlk`](https://www.ft.lk/business/JICA-discusses-resumption-of-BIA-2nd-phase-development-TV-digitisation-projects/34-767442) · `en`
+
+The Japan International Cooperation Agency (JICA) Chief Representative Yamada Tetsuya, along with a delegation of senior representatives, met with the Secretary to the President Dr. Nandika Sanath Kumanayake yesterday.
+
+The discussion focused on the second phase of theBandaranaike International Airport (BIA) Development Project, implemented by JICA, and the immediate launch of the Terrestrial Television Broadcast Digitisation Project. In a recent meeting with the Secretary to the President, the Japanese Ambassador emphasised the need for the swift completion of 11 ongoing projects supported by JICA. Today’s discussion centred on accelerating the progress of these initiatives.
+
+Katsuhiro Suzuki, the Second Secretary of the Japanese Embassy in Sri Lanka, along with other officials, also attended the meeting.
+
+◼️
+
+[Data](articles/ea7c11e4.json)
+
+[Extended Data](ext_articles/ea7c11e4.ext.json)
+
+---
+
+### Two Independent Non-Executive Directors appointed to Tokyo Cement Board
+
+*2024-10-02 02:52:38* · [`dailyftlk`](https://www.ft.lk/business/Two-Independent-Non-Executive-Directors-appointed-to-Tokyo-Cement-Board/34-767441) · `en`
+
+Tokyo Cement Company (Lanka) PLC recently announced the appointment of Mano Sekaram and Averil Anne Ludowyke as Independent Non-Executive Directors to its Board.
+
+Mano Sekaram is a renowned tech entrepreneur and investor in the Sri Lankan IT industry with over 30 years of experience in the corporate arena. He is the Founder and Chairman of 99x Technology Sri Lanka and Asia, and Board Member of 99x Investment AS Norway, an award-winning digital product engineering company serving European markets. He was featured on the prestigious LMD100 Club for both 2019 and 2020, which highlights the A-list of Sri Lankan businesspeople driving the Nation’s growth. He was awarded the ‘Lifetime Achievement Award’ by the British Computer Society (BCS) at the National Best Quality Software Awards (NBQSA) 2014, for his vast contributions to the ICT industry.
+
+...
+
+[Data](articles/29fc59bf.json)
+
+[Extended Data](ext_articles/29fc59bf.ext.json)
+
+---
+
+### KPMG Sri Lanka appoints Dushani Corea as a Principal
+
+*2024-10-02 02:48:58* · [`dailyftlk`](https://www.ft.lk/business/KPMG-Sri-Lanka-appoints-Dushani-Corea-as-a-Principal/34-767440) · `en`
+
+KPMG in Sri Lanka, a member firm of the KPMG network of independent member firms has appointed Dushani Corea as a Principal of the Firm with effect from 1 October 2024.
+
+...
+
+[Data](articles/fc42e87b.json)
+
+[Extended Data](ext_articles/fc42e87b.ext.json)
+
+---
+
+### CWIT welcomes additions to crane fleet ahead of 2025 operations
+
+*2024-10-02 02:46:33* · [`dailyftlk`](https://www.ft.lk/business/CWIT-welcomes-additions-to-crane-fleet-ahead-of-2025-operations/34-767439) · `en`
+
+The Colombo West International Terminal (CWIT) said yesterday it has made another crucial advance towards becoming one of Asia’s leading port facilities with the delivery of its first 2 semi-automated Rail Mounted Quay Cranes (RMQCs) and 3 additional fully automated Cantilever Rail-Mounted Gantry Cranes (CRMGs).
+
+This shipment marks the second in a series of deliveries as the terminal gears up for Phase 1 operations in February of 2025.
+
+This follows the earlier delivery of 5 CRMGs on 3 September. In total, CWIT will have 9 cranes operational before the terminal officially begins handling cargo next year. These state-of-the-art automated cranes are designed to improve efficiency and enhance safety by reducing human intervention and increasing operational precision.
+
+...
+
+[Data](articles/a200be41.json)
+
+[Extended Data](ext_articles/a200be41.ext.json)
+
+---
 
 ### SJB files RTI on alleged privileges sought by ex-President
 
@@ -270,17 +336,29 @@ The same way it stopped a multitude of giveaways by Ranil Wickremesinghe during 
 
 ### 2024-10-01 (Tuesday)
 
-### ’மீனவர் பிரச்சினைக்கு நிரந்தர தீர்வு வேண்டும்’
+### Permanent solution to the fisherman's problem
 
 *2024-10-01 23:53:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்-பிரச்சினைக்கு-நிரந்தர-தீர்வு-வேண்டும்/175-344785) · `ta`
 
-“இன்றைய நிலையில் தமிழக மீனவர்கள் 162 பேர் கைது செய்யப்பட்டு இலங்கை சிறைகளில் அடைக்கப்பட்டுள்ளனர். அவர்கள் அனைவரையும் விடுதலை செய்யும்படியும், மீனவர் சிக்கலுக்கு நிரந்தரத் தீர்வு காண கூட்டுப் பணிக்குழுவை அமைக்கும்படியும், இலங்கை செல்லும் இந்திய வெளியுறவுத் துறை அமைச்சர் ஜெய்சங்கர் வலியுறுத்த வேண்டும்” என்று பாட்டாளி மக்கள் கட்சியின் (பாமக)  நிறுவனர் ராமதாஸ் கூறியுள்ளார்.
+Here's a 200-character summary:
 
-இதுதொடர்பாக அவர் தனது எக்ஸ் தளத்தில், “இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க,   பொறுப்பேற்ற பிறகு, முதல் வெளிநாட்டுத் தலைவராக இந்திய வெளியுறவுத்துறை அமைச்சர் ஜெய்சங்கர் வரும் 4ம் திகதி இலங்கை செல்கிறார். இரு தரப்பு உறவுகளை வலுப்படுத்தும் நோக்குடன் அவர் மேற்கொள்ளவிருக்கும் இந்தப் பயணம் அங்குள்ள தமிழர்களுக்கு பயனும், அதிகாரமும் அளிக்கும் வகையில் அமைய வேண்டும்.
+
+
+Indian Foreign Minister Jaishankar visits Sri Lanka to address fishermen arrests, war crimes, and Tamil rights. He urges President to free detained fishermen and establish a joint committee for a permanent solution.
+
+🟩
+
+“Today, 162 fishermen have been arrested and taken to Sri Lankan jails. Indian Foreign Minister Jaishankar, who is going to Sri Lanka, should urge the release of all of them and set up a joint task committee to set up a permanent solution to the fishermen's problem, ”said Ramadas, founder of the proletariat.
+
+In this regard, he said, “After taking over as the new President of Sri Lanka, Anuragumara Dissanayake, Indian Foreign Minister Jaishankar will visit Sri Lanka on the 4th of this month.. The journey, which is aimed at strengthening bilateral relations, should be benefited by the Tamils ​​there.
+
+15 years after the end of the Sri Lankan war, no one responsible for the deadly war crimes has been punished yet. Although India insisted that the Tamils ​​should be empowered under the 13th Amendment to the Constitution of Sri Lanka, there was no benefit.
 
 ...
 
 [Data](articles/925342f6.json)
+
+[Extended Data](ext_articles/925342f6.ext.json)
 
 ---
 
@@ -2213,93 +2291,5 @@ Litro Gas Company and Litro Gas Terminal Lanka (Pvt) A new Chairman of Sri Lanka
 [Data](articles/81f74580.json)
 
 [Extended Data](ext_articles/81f74580.ext.json)
-
----
-
-### Bus service from Kirimala to Colombo
-
-*2024-10-01 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195205) · `ta`
-
-Sri Lanka Transport Board resumes bus service from Kirimala to Colombo starting Tuesday. Route includes stops at Point Pedro, Velvettithurai, and Puttalam before reaching Colombo. Service previously unavailable due to lack of buses and drivers until 2020.
-
-🟩
-
-Bus service from Kirimala to Colombo will be resumed from Tuesday (01) by the Sri Lanka Transport Board's Point Pedro Road.
-
-Due to the lack of a service bus and a lack of drivers until the year 2020, the departure from Kirimalai at 7:15 pm and reached the Point Pedro, Velvettithurai, Velvettithurai, from Point Pedro Malisandi, Nelliyadi, Thunnalai via Puttalam, Puttalam, Puttalam, Puttalam, Puttalam.Point Pedro Road Management has announced that it will reach Colombo.
-
-Meanwhile, the services from Point Pedro via Amban Maruthankani were not able to continue due to shortage of bus services, drivers and buses to Colombo.
-
-◼️
-
-[Data](articles/0f778acf.json)
-
-[Extended Data](ext_articles/0f778acf.ext.json)
-
----
-
-### Sri Lanka’s new president to review IMF deal before discussing
-
-*2024-10-01 12:44:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-president-to-review-imf-deal-before-discussing-181792/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s government under newly elected President Anura Kumara Dissanayake will review the island nation’s deal with the International Monetary Fund (IMF), new Cabinet Spokesman Vijitha Herath said.
-
-Dissanayake’s Marxists-led National People/s Power (NPP) during the election campaign has repeatedly said it would renegotiate the IMF deal as people in general are facing difficulties due to the global lender’s deal signed under the previous government led by Ranil Wickremesinghe.
-
-“First of all, we will review what is the content of the agreement. Then we will go forward,” Herath told reporters at the new government’s first weekly news briefing to announce cabinet decisions.
-
-“We have not taken any new decisions during yesterday’s cabinet meeting.”
-
-An IMF team will be in Sri Lanka from October 2-4 to meet President Dissanayake and his economic council to have some preliminary discussion on the IMF deal.
-
-...
-
-[Data](articles/ee3d60bd.json)
-
-[Extended Data](ext_articles/ee3d60bd.ext.json)
-
----
-
-### Two instructors to the President on the Hon. On the Hon.
-
-*2024-10-01 12:43:10* · [`adalk`](https://www.ada.lk/breaking_news/ගරු-සේවා-පදනම-මත-ජනපතිට-උපදේශකවරුන්-දෙදෙනෙක්/11-412254) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"President approves appointment of two advisors: Duminda Hulangamuwa and Dr. AA JJ for economic and financial roles."
-
-🟩
-
-Cabinet approval has been granted to appoint two instructors to the President on the Hon.
-
-Accordingly, Duminda Hulangamuwa and Dr. AA JJ for two economic and money Presidential posts.. Fernando has been appointed.
-
-◼️
-
-[Data](articles/f0c5ea06.json)
-
-[Extended Data](ext_articles/f0c5ea06.ext.json)
-
----
-
-### Sri Lanka President allocates Rs5bn for general elections
-
-*2024-10-01 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-allocates-rs5bn-for-general-elections-181786/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s three-member cabinet, which includes the president, has approved President Anura Dissanayake’s proposal to release 5 billion rupees from the government’s consolidated fund for conducting the general election.
-
-“The 2024 budget had only set aside money for one election,” newly appointed Cabinet spokesman minister Vijitha Herath said. “There wasn’t money allocated for a general election.”
-
-Under Sri Lanka’s constitution, powers are vested in the president, by Article 150(4), to issue funds from the consolidated fund.
-
-The Cabinet also approved the allocation of another 6 billion rupees from the 2025 budget through a Vote on Account expected to be submitted to the Parliament. (Colombo/Oct1/2024)
-
-◼️
-
-[Data](articles/64e53e4a.json)
-
-[Extended Data](ext_articles/64e53e4a.ext.json)
 
 ---

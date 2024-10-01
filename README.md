@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 00:24:19**
+As of **2024-10-02 00:38:20**
 
 ## Newspaper Stats
 
-*Scraped **47,276** Articles*
+*Scraped **47,279** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 390
 bbccomsinhala | 466
-colombotelegraphcom | 472
+colombotelegraphcom | 473
 islandlk | 2,778
 economynextcom | 2,882
-dailyftlk | 3,162
+dailyftlk | 3,164
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
@@ -26,27 +26,65 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,275 (100.0%) of 47,276 articles have been extended.
+47,278 (100.0%) of 47,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-01 (Tuesday)
 
-### இஸ்ரேலில் பதற்றம் - இலங்கையர்களுக்கு கடுமையான எச்சரிக்கை
+### Tension in Israel - Strict warning to Sri Lankans
 
 *2024-10-01 23:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-பதற்றம்-இலங்கையர்களுக்கு-கடுமையான-எச்சரிக்கை/175-344784) · `ta`
 
-லெபனான் மீது தொடர்ந்து தாக்குதல் நடத்திய இஸ்ரேலுக்கு பதிலடி கொடுக்கும் வகையில் இஸ்ரேலை நோக்கி ஈரான் ஏவுகணை தாக்குதலை நடத்தி வருவதாக இஸ்ரேல் இராணுவம் தெரிவித்துள்ளது
+Israel-Iran conflict: Sri Lankans warned to stay safe, avoid travel, follow defense ministry instructions.
 
-இந்த நிலையில், இஸ்ரேலில் உள்ள இலங்கை பிரஜைகள் அனைவரும் மறு அறிவிப்பு வரும் வரை பாதுகாப்பான இடங்களில் இருக்குமாறு இஸ்ரேலுக்கான இலங்கைத் தூதுவர் நிமால் பண்டார விசேட அறிவிப்பு ஒன்றை வெளியிட்டுள்ளார்.
+🟩
 
-தேவையற்ற பயணங்களிலிருந்து தம்மை பாதுகாத்துக் கொள்ளுங்களுமாறும், பாதுகாப்பு அமைச்சகம் மற்றும் PIBA வழங்கும் வழிமுறைகளை பின்பற்றுமாறும் அறிவுறுத்தப்பட்டுள்ளது.
+The Israeli military has reported that Iran is launching a missile attack on Israel in response to Israel's continued attack on Lebanon.
 
-அதேபோல், அத்தியாவசிய உணவு, மருந்து, தண்ணீர் ஆகியவற்றை அருகில் வைத்துக் கொள்ளுமாறும் இஸ்ரேலுக்கான இலங்கைத் தூதுவர் தெரிவித்துள்ளார். R
+At this juncture, Sri Lankan Ambassador to Israel Nimal Bandara has issued a special announcement that all Sri Lankan citizens in Israel will remain in safe places until the announcement.
+
+It has been advised to protect themselves from unnecessary trips and follow the instructions of the Ministry of Defense and PIBA.
+
+Similarly, the Sri Lankan Ambassador to Israel said to keep the essential food, medicine and water nearby.. Remble
 
 ◼️
 
 [Data](articles/0c91d60e.json)
+
+[Extended Data](ext_articles/0c91d60e.ext.json)
+
+---
+
+### Battle for Parliament
+
+*2024-10-01 23:05:12* · [`dailyftlk`](https://www.ft.lk/columns/Battle-for-Parliament/4-767402) · `en`
+
+Without a comfortable victory in this battle AKD’s schedule for reforms and system change would die of stillbirth – Pic by Shehan Gunasekara
+
+From the voting behaviour demonstrated at the last Presidential election, it was evident that the three minorities had not kept abreast of the thirst for change that was awakening the Sinhalese community. Unfortunately, the Aragalaya effect did not penetrate sufficiently deeply into these communities. While ethnonationalism continued to rule the Tamil mindset, provincialism and religious fervour dictated the thinking and behaviour of Muslims, particularly in the Eastern Province. This provincial and religious mindset had been kept alive deliberately by local Muslim leaders ever since 1947
+
+...
+
+[Data](articles/c1129985.json)
+
+[Extended Data](ext_articles/c1129985.ext.json)
+
+---
+
+### Sri Lanka Presidential election 2024: A turning point or a false dawn?
+
+*2024-10-01 23:02:33* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-Presidential-election-2024-A-turning-point-or-a-false-dawn/4-767401) · `en`
+
+AKD’s victory is seen as a triumph for those who demand a system that prioritises social welfare of the masses over the interests of a few
+
+One of the most pressing challenges facing Dissanayake’s administration is the renegotiation of Sri Lanka’s debt. The island’s economy remains shackled by billions of dollars in foreign debt, with China, Japan, and the International Monetary Fund (IMF) being its largest creditors. The austerity measures imposed by the IMF in exchange for bailout packages have further deepened the economic hardship experienced by ordinary Sri Lankans, leading to widespread resentment. Dissanayake has signalled his intention to renegotiate Sri Lanka’s debt on more favourable terms, seeking to alleviate the burden on the working class while pursuing a path of debt sustainability
+
+...
+
+[Data](articles/05b90011.json)
+
+[Extended Data](ext_articles/05b90011.ext.json)
 
 ---
 
@@ -485,6 +523,20 @@ The inquiry also found that Perpetual Treasuries had paid central bank dealers, 
 [Data](articles/ac327f36.json)
 
 [Extended Data](ext_articles/ac327f36.ext.json)
+
+---
+
+### Why Let Socially Imposed Faiths Divide Us?
+
+*2024-10-01 18:41:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-let-socially-imposed-faiths-divide-us/) · `en`
+
+Dr. Amir Ali’s article titled “Battle for the Parliament” published in Colombo Telegraph of September 29, 2024 is encouraging because it has a strong appeal to all those who wish to see the unity of all Sri Lankans belonging to different faiths.
+
+It is no news that religious and ethnic differences have been a major cause of social segregation. And, these artificial divisions had served the crafty politicians who had ruled the country in the past. They had exploited, among other things, religion and ethnicity as a way of preventing the electorate from understanding their common problem of widespread poverty, which had nothing to do with their religion or ethnicity.
+
+...
+
+[Data](articles/a2f2f1e7.json)
 
 ---
 
@@ -2319,79 +2371,5 @@ Later, they remained near the Presidential Secretariat last evening and protesti
 [Data](articles/b3bf9fc9.json)
 
 [Extended Data](ext_articles/b3bf9fc9.ext.json)
-
----
-
-### Scholarship Answer Sheet Assessment Pause
-
-*2024-10-01 11:21:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-விடைத்தாள்-மதிப்பீடு-இடைநிறுத்தம்/175-344753) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential Office: President suspends 5th scholarship answer sheet assessment for 2 weeks due to protest over leaked questions. Parents demand re-conducting the exam.
-
-🟩
-
-President Anura Kumara Dissanayake has advised the relevant authorities to suspend the assessment of the 5th scholarship answer sheets for two weeks.
-
-A meeting between President Anura Kumara Dissanayake and parents who were protesting on the 5th scholarship question paper issue was held on Monday afternoon at the Presidential Office.
-
-The President advised the relevant authorities to suspend the assessment of the 5 -year scholarship answer sheet for two weeks.
-
-Parents appealed to the president to re -conduct the exam, saying that 8 questions were released before the exam, except for the 3 questions of the Fifth Annual Scholarship Examination.
-
-◼️
-
-[Data](articles/f70ddc30.json)
-
-[Extended Data](ext_articles/f70ddc30.ext.json)
-
----
-
-### Julie J. Sung met the president
-
-*2024-10-01 11:16:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ஜூலி-ஜே-சங்/175-344752) · `ta`
-
-US Ambassador Julie J. Sangh met President Anura Kumara Dissanayake at Presidential Office. She congratulated him on his appointment and discussed strengthening bilateral ties, economic cooperation, and diplomatic relations between US and Sri Lanka.
-
-🟩
-
-The meeting between President Anura Kumara Dissanayake and US Ambassador Julie J. Sangh took place on Tuesday (01) at the Presidential Office.
-
-The US Ambassador congratulated Dissanayake, who was appointed as the new President of Sri Lanka, and discussed the continued improving the strong bilateral ties between the US and Sri Lanka.
-
-Special attention was also paid to the diplomatic relations between the US and Sri Lanka, strengthening economic and social cooperation and mutual interested sectors between the two countries.
-
-◼️
-
-[Data](articles/e3760cc2.json)
-
-[Extended Data](ext_articles/e3760cc2.ext.json)
-
----
-
-### A special meeting between President Anura and July Chang
-
-*2024-10-01 11:11:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-සහ-ජූලි-චන්ග්-අතර-විශේෂ-හමුවක්/11-412250) · `si`
-
-Here's a 200-character summary:
-
-
-
-"President Anura Kumara Dissanayake met Sri Lanka's Ambassador July Chang. They discussed bilateral relations between their countries."
-
-🟩
-
-President Anura Kumara Dissanayake and Sri Lanka's Ambassador to Sri Lanka has held a special meeting between July Chang today (01).
-
-The two countries have discussed bilateral relations between the two countries.
-
-◼️
-
-[Data](articles/a825ff77.json)
-
-[Extended Data](ext_articles/a825ff77.ext.json)
 
 ---

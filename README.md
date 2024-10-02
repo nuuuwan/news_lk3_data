@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 00:55:55**
+As of **2024-10-03 01:08:11**
 
 ## Newspaper Stats
 
-*Scraped **47,465** Articles*
+*Scraped **47,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 468
 colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,899
-dailyftlk | 3,185
+dailyftlk | 3,191
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,465 (100.0%) of 47,465 articles have been extended.
+47,467 (100.0%) of 47,471 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,42 @@ Representatives of the International Monetary Fund have congratulated the new re
 ---
 
 ### 2024-10-02 (Wednesday)
+
+### Netherlands funded € 300,000 project grants electric three-wheelers to Gampaha’s batik SMEs
+
+*2024-10-02 23:50:26* · [`dailyftlk`](https://www.ft.lk/business/Netherlands-funded-300-000-project-grants-electric-three-wheelers-to-Gampaha-s-batik-SMEs/34-767463) · `en`
+
+ILO Country office for Sri Lanka and Maldives Director Joni Simpson (left) and Netherlands Deputy Ambassador Iwan Rutjens officially switch on the solar power system
+
+ILO Country office for Sri Lanka and Maldives Director Joni Simpson (second from left), Netherlands Deputy Ambassador Iwan Rutjens, CODEGEN Director Kusal Subasinghe and National Enterprise Development Authority Director Dhanuka Liyanagamage at the officially hand over of electric three wheel
+
+Backed by a € 300,000 investment from Foreign Affairs Ministry of the Netherlands, a cluster project in Gampaha, recently equipped local batik SMEs with solar panels and commercially produced electric three-wheelers including commercial chargers, driving growth and sustainability in Sri Lanka’s apparel industry.
+
+...
+
+[Data](articles/a64ee008.json)
+
+[Extended Data](ext_articles/a64ee008.ext.json)
+
+---
+
+### Public hearings: A key to ensuring integrity in high-level public service appointments
+
+*2024-10-02 23:38:44* · [`dailyftlk`](https://www.ft.lk/columns/Public-hearings-A-key-to-ensuring-integrity-in-high-level-public-service-appointments/4-767462) · `en`
+
+Parliament in session: A transparent and democratic approach to public service appointments, highlighting the need for public hearings to ensure accountability and integrity
+
+Public hearings are vital tools in administrative governance, providing a formal mechanism for the public to scrutinise the transparency and efficacy of appointments. According to John Rohr in To Run a Constitution: The Legitimacy of the Administrative State (1986), ‘public hearings in the context of administrative appointments serve to ensure that such appointments are not only made in the best interest of the public but also adhere to principles of meritocracy, fairness, and openness, reflecting the democratic ethos of society’
+
+The National People’s Power (NPP) Government inherited an administrative appointment system steeped in nepotism, political loyalty, corruption, and social status markers like caste and race, which often prioritised feudal-like allegiance over expertise, honesty, and integrity.
+
+...
+
+[Data](articles/fab0b662.json)
+
+[Extended Data](ext_articles/fab0b662.ext.json)
+
+---
 
 ### Suspect arrested with drug
 
@@ -114,6 +150,38 @@ When the Women's Group was in six World Cups, Australia's 8 cricket tournaments 
 
 ---
 
+### AKD needs presidency, not supermajority; Sajith as PM means win-win
+
+*2024-10-02 22:24:10* · [`dailyftlk`](https://www.ft.lk/columns/AKD-needs-presidency-not-supermajority-Sajith-as-PM-means-win-win/4-767460) · `en`
+
+For roughly two decades (1970-1989), Ceylon/Sri Lanka lived under two consecutive administrations, one centre-left, the other centre-right, led by Sirima Bandaranaike and JR Jayewardene respectively, which possessed a two-thirds majority in Parliament. Those nearly 20 years were the most bloodily nightmarish in our country’s modern history. Why would any rational person want President AKD and his NPP to win a two-thirds majority in Parliament when it inevitably leads to a bad end?
+
+Sri Lanka has the best chance of a win/win scenario it has had since 2009 when we won the war.
+
+In my columns (and sporadic TV and YouTube appearances) early this year on the elections, I made three points.
+
+We should grasp the chance for a generational change of national leadership with Anura and Sajith.
+
+We should end a long dark chapter in our contemporary history by electorally exorcising Ranil Wickremesinghe.
+
+...
+
+[Data](articles/0d95e65a.json)
+
+---
+
+### Challenges ahead for President Anura Kumara Dissanayake: Navigating Sri Lanka’s political labyrinth
+
+*2024-10-02 22:13:09* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-ahead-for-President-Anura-Kumara-Dissanayake-Navigating-Sri-Lanka-s-political-labyrinth/4-767459) · `en`
+
+The challenges ahead for President Anura Kumara Dissanayake are vast, but not insurmountable. Navigating Sri Lanka’s complex political landscape will require a delicate balance of strategic alliances, visible achievements, and long-term reforms. AKD must manage the expectations of a hopeful electorate while remaining pragmatic about the realities of governance. In the coming months, his ability to lead effectively will determine whether Sri Lanka embarks on a new path of reform and prosperity, or if AKD becomes yet another leader shackled by the limitations of political office. The stakes are high—not just for AKD, but for the future of Sri Lanka
+
+...
+
+[Data](articles/bfb5edfe.json)
+
+---
+
 ### All flights in Iran cancel
 
 *2024-10-02 22:03:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானில்-அனைத்து-விமான-சேவைகளும்-இரத்து/50-344839) · `ta`
@@ -133,6 +201,34 @@ Meanwhile, people are advised to avoid unnecessarily outdoors in considering the
 [Data](articles/23aeee65.json)
 
 [Extended Data](ext_articles/23aeee65.ext.json)
+
+---
+
+### Our busted bus service
+
+*2024-10-02 21:56:57* · [`dailyftlk`](https://www.ft.lk/columns/Our-busted-bus-service/4-767458) · `en`
+
+What we commuters want is an economical, reliable, comfortable, safe public transport system
+
+Bus service was nationalised in 1958 and during early 70s there was a very good bus service in the country when late Anil Moonasinghe was the Chairman of CTB. Most bus stands in towns had a time table, although there were delays, etc. CTB always assured the first and last bus. Then in 1977 the bus service was opened for private sector. That was under the premise competition would give the commuter a better service. Even after nearly four decades we are struggling to experience what can be considered a “transport service” which is reliable and convenient and economical. What we have is far from those basic qualities and in addition what we have is dangerous to all road users and even bystanders.
+
+...
+
+[Data](articles/c12ebe15.json)
+
+---
+
+### Positive market impact of Sri Lanka’s Presidential elections: Key decisions for good governance
+
+*2024-10-02 21:51:00* · [`dailyftlk`](https://www.ft.lk/columns/Positive-market-impact-of-Sri-Lanka-s-Presidential-elections-Key-decisions-for-good-governance/4-767457) · `en`
+
+The decisive actions taken by Sri Lanka’s new President have bolstered confidence and paved the way for sustained economic recovery
+
+Sri Lanka has recently witnessed significant political change following the conclusion of the Presidential elections. With a new administration now in place, the initial market response has been overwhelmingly positive, reflecting renewed investor confidence and optimism for future economic growth. This article explores how key decisions made by the newly elected President have set the foundation for good governance, economic stability, and sustainable growth.
+
+...
+
+[Data](articles/5d95e830.json)
 
 ---
 
@@ -2305,149 +2401,5 @@ The sea area between Rameswaram to Nagapattinam in Tamil Nadu is very short. So,
 [Data](articles/6e791f89.json)
 
 [Extended Data](ext_articles/6e791f89.ext.json)
-
----
-
-### “I am ready to retire, but”
-
-*2024-10-02 11:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-ஓய்வு-பெறத்-தயார்-ஆனால்/175-344803) · `ta`
-
-Former minister Nimal Siripala de Silva expresses reluctance to retire due to loyalty to political colleagues and supporters after 35 years in politics. He considers resigning but feels obligated to his team. Various parties unanimously suggest he contest again.
-
-🟩
-
-Former minister Nimal Siripala de Silva said he had no doubt about his resignation.
-
-Commenting to the media, he said, “Even though I want to retire, I feel responsible for those who have been with me in my 35 -year political career. It would be a difficult decision to abandon my political colleagues and supporters. ”
-
-“I have no problem with resignation. But they have been doing politics with them for 35 years and they cannot leave them. The only problem I have is whether I should leave them or not. So the problem is not about success, ”he said.
-
-He added that after the consultation of various parties, he was unanimously suggested that he should contest again.
-
-◼️
-
-[Data](articles/4fbda922.json)
-
-[Extended Data](ext_articles/4fbda922.ext.json)
-
----
-
-### A case against Patali is postponed until next year
-
-*2024-10-02 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201755) · `si`
-
-Patali Champika Ranawaka case postponed until February 28, 2025, due to Supreme Court interim order suspending proceedings.
-
-🟩
-
-The Colombo High Court has been appointed to postpone the case against former Minister Patali Champika Ranawaka, who has been imprisoned and accused of an accident in Rajagiriya.
-
-When the case was taken up today (02), Mr. Defendant Champali Champavika Ranawaka appeared in court.
-
-Attorney-at-Law Amarasiri Panditharatne appearing on behalf of him at the time, he said that the Supreme Court has issued an interim order with the suspension of the case.
-
-Accordingly, the lawyer asked the court to provide another date to call the case.
-
-The High Court Judge accepted the request to be summoned on 28th February 2025.
-
-The case has been filed against Patali Champika Ranawaka on the 28th of February 2016.
-
-◼️
-
-[Data](articles/f0a7b0fb.json)
-
-[Extended Data](ext_articles/f0a7b0fb.ext.json)
-
----
-
-### Roshan Ranasinghe appointed party chairman
-
-*2024-10-02 11:33:23* · [`adalk`](https://www.ada.lk/breaking_news/රොෂාන්-රණසිංහට-පක්ෂ-සභාපති-ධුරයක්/11-412270) · `si`
-
-Roshan Ranasinghe joins People's Republican Party as chairman. Former Sports Minister Dilinda Jayaweera leads the party. Channa Jayasumana named Vice President of Motherland.
-
-🟩
-
-Former Sports Minister Roshan Ranasinghe has joined the People's Republican Party (People's Rep) led by entrepreneral Dilinda Jayaweera.
-
-Former Parliamentarian Professor Channa Jayasumana has been appointed as the Vice President of the Motherland.
-
-◼️
-
-[Data](articles/a66bc0aa.json)
-
-[Extended Data](ext_articles/a66bc0aa.ext.json)
-
----
-
-### Former Minister Dilith Jayaweera joined
-
-*2024-10-02 11:24:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-திலித்-ஜயவீரவுடன்-இணைந்தார்/175-344801) · `ta`
-
-Dilith Jayaweera joins Maubima Janata Party as Chairman. Former Minister Sanna Jayasumana named Vice President. Milan Jayatilaka appointed Gampaha district organizer.
-
-🟩
-
-The Maubima Janata Party (MJP) has been appointed as the Chairman of the former Minister of State Sanna Jayasumana as the Vice President
-
-Former MP Milan Jayatilaka has been appointed as the party's Gampaha district organizer.
-
-◼️
-
-[Data](articles/bf66c4f6.json)
-
-[Extended Data](ext_articles/bf66c4f6.ext.json)
-
----
-
-### "There will be no shortage until April"
-
-*2024-10-02 11:24:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-வரை-தட்டுப்பாடு-இருக்காது/175-344800) · `ta`
-
-Fuel shortage ends April: Sri Lanka Petroleum Corp. Chairman DJ Karunaratne says Ceylon Petroleum Corp. booked all fuel supplies. Weekly reserve plans announced. Refinery improvements and price revisions discussed. Transparency ensured through Regulatory Commission.
-
-🟩
-
-Sri Lanka Petroleum Corporation Chairman DJ Karunaratne said that the fuel shortage will not occur until April as the Ceylon Petroleum Corporation has deliberately provided all the bookings for fuel.
-
-Speaking to the media, he said that future plans for maintaining adequate fuel reserves will be planned weekly.
-
-"Petroleum Corporation aims to improve the refinery industry for more efficient fuel supply. According to the current price formula, the latest fuel prices have been revised, and the CPC is planning to upgrade the CPC formula to make more concessions to the public, ”he said.. Said.
-
-The chairman also stated that the resolutions relating to the fuel price correction are expected to hand over them to the Regulatory Commission to ensure transparency.
-
-“It is impossible to reduce the price of fuels imported by other side.. The latest fuel prices have been revised according to the existing formula and legal structure. ”He said.
-
-...
-
-[Data](articles/13659403.json)
-
-[Extended Data](ext_articles/13659403.ext.json)
-
----
-
-### Jilmot girlfriend caught
-
-*2024-10-02 11:19:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜில்மாட்-காதலி-சிக்கினார்/175-344799) · `ta`
-
-A 33-year-old woman accused of theft from a police officer's home where she sought refuge. She allegedly stole 9 pounds of gold jewelry before being arrested and remanded until July 14th.
-
-🟩
-
-Nine pound gold jewelery has been stolen from the house of a police officer who gave refuge to a girlfriend who was looking for a boyfriend from Otisuttan.
-
-The Batticaloa Magistrate's Court on Tuesday (01) ordered that a 33 -year -old woman arrested in Ottisuttan was arrested until the 14th of this month.
-
-According to the incident, a 33 -year -old woman who was married at the Ottisuttan Police Station, who was married to Arayambathi, was married to a 33 -year -old woman.
-
-The girlfriend went to the Kaluwanchikudi police station last June and met her lover.
-
-He was already married and had children to know that he had not married and told him that he had not finished marriage and transferred the police officer to the Valaichenai police station after he had a problem with her boyfriend.
-
-...
-
-[Data](articles/ec4783bb.json)
-
-[Extended Data](ext_articles/ec4783bb.ext.json)
 
 ---

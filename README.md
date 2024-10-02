@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 21:22:52**
+As of **2024-10-02 21:58:28**
 
 ## Newspaper Stats
 
-*Scraped **47,446** Articles*
+*Scraped **47,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,86 @@ economynextcom | 2,893
 dailyftlk | 3,185
 adalk | 4,391
 dailymirrorlk | 4,733
-adaderanalk | 5,582
+adaderanalk | 5,583
 tamilmirrorlk | 6,386
 virakesarilk | 7,584
-adaderanasinhalalk | 8,208
+adaderanasinhalalk | 8,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,446 (100.0%) of 47,446 articles have been extended.
+47,449 (100.0%) of 47,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### All party gas cylinder supported Ranil to contest general
+
+*2024-10-02 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201781) · `si`
+
+Ranil Wickremesinghe contested elections with support from all political parties under a new democratic alliance. Gas cylinders were used as symbols in the election campaign.
+
+🟩
+
+පසුගිය ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වූ සියලුම දේශපාලන පක්ෂ ඉදිරි මහ මැතිවරණයට නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ යටතේ ගෑස් සිලින්ඩරය ලකුණින් තරග කිරීමට එකඟවී තිබේ.
+
+◼️
+
+[Data](articles/709a96b6.json)
+
+[Extended Data](ext_articles/709a96b6.ext.json)
+
+---
+
+### Parties that backed Ranil to contest general election under ‘Gas Cylinder’ symbol
+
+*2024-10-02 21:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102408/parties-that-backed-ranil-to-contest-general-election-under-gas-cylinder-symbol) · `en`
+
+All political parties that supported former President Ranil Wickremesinghe at the recent Presidential Election are to contest the upcoming General Election under the New Democratic Front (NDF), with the ‘Gas Cylinder’ as their symbol.
+
+Former President Wickremesinghe had also contested the recent presidential election under the symbol of the ‘Gas Cylinder’, albeit as an independent candidate.
+
+Political sources told Ada Derana, earlier today, that former MPs who supported Wickremesinghe are preparing to contest the upcoming General Election under either the ‘elephant’ symbol or another common symbol.
+
+It was reported that the opinion of the Election Commission had been sought to obtain the ‘Gas Cylinder’ symbol and that a final decision was to be taken after the commission’s decision is conveyed.
+
+...
+
+[Data](articles/92660bd0.json)
+
+[Extended Data](ext_articles/92660bd0.ext.json)
+
+---
+
+### Meeting between IMF representatives and government economic group
+
+*2024-10-02 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201780) · `si`
+
+IMF delegation meets Sri Lankan government officials at Presidential Secretariat. Discusses progress of IMF program and $2.9 billion loan. Praises country's economic reforms and stability efforts.
+
+🟩
+
+A top-year delegation (IMF) has arrived in Sri Lanka today (02).
+
+Accordingly, the new government and the new government have appointed to the IMF talks held at the Presidential Secretariat this afternoon.
+
+The objective of this visit is to hold discussions on the progress of the IMF program and the fourth premium of $ 2.9 billion.
+
+The International Monetary Fund and Sri Lanka have been conducted by the two parties, and the Presidential Media Unit said.
+
+The International Monetary Fund representatives have published their praise on the country's new reforms and commitment to economic stability and the continued support of the International Monetary Fund.
+
+Members of the International Monetary Fund Senior Missions Senior Missions Senior Missionalized, Dr. Herbra Abeywickrama, Chairman of Sri LankaProfessor Anil Jayanthi, Professor Sunil Handunnetti, Senior Advisor to Senior Advisor to Sunil Gamage, President of the Hon.. Mrs. Dayaratne Banda and Amakookara were present.
+
+◼️
+
+[Data](articles/367b3fd5.json)
+
+[Extended Data](ext_articles/367b3fd5.ext.json)
+
+---
 
 ### Praveen Jayawickinika banned one year
 
@@ -2395,77 +2461,5 @@ Accordingly, our executive committee has decided to reduce the transportation ta
 [Data](articles/03bc4fc1.json)
 
 [Extended Data](ext_articles/03bc4fc1.ext.json)
-
----
-
-### Sri Lanka’s UNP unable to accept some of SJB’s conditions: spokesman
-
-*2024-10-02 10:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-unp-unable-to-accept-some-of-sjbs-conditions-spokesman-181899/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s fractured opposition still appears undecided on forming a broader alliance against the National People’s Power (NPP), with the United National Party (UNP) and the Samagi Jana Balawegaya (SJB) seeming unable to reconcile.
-
-The UNP’s Saman Ratnapriya told reporters on Tuesday October 01 that all members of the Sri Lanka Podujana Peramuna (SLPP) that had supported former president Ranil Wickremesinghe at the presidential election are agreeable to moving forward with the gas cylinder symbol for the parliamentary election scheduled for November 14.
-
-“All SLPP MPs are agreeable to the gas cylinder. They have no problem. We plan to keep discussions with the SJB open. If they too come in good faith, we can get all groups together and move forward. The SJB made some conditions, some of which we find difficult to accept,” the former MP said.
-
-SJB general secretary Ranjith Madduma Bandara claimed that his party has no room for the corrupt.
-
-...
-
-[Data](articles/23328c2e.json)
-
-[Extended Data](ext_articles/23328c2e.ext.json)
-
----
-
-### Barber Assaves resign to second time
-
-*2024-10-02 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201753) · `si`
-
-Barber Assaves resigns twice: once from ODI team, then from T20 group. Cites focus on batting and workload management. Notified Pakistan cricket board last year after initial resignation during World Cup. Aged 29, scored 5729 runs in 117 internationals and 4145 in 123 matches.
-
-🟩
-
-Pakistan ODI and 20 ODIs and 20th groups have resigned from the leadership, led by groups.
-
-He has said that he has made a note of his X account and pay more attention to its batting and manage the amount of work.
-
-He said he was notified last year to the Pakistan cricket authorities.
-
-He first resigned from the top of the ODIs' World Cup last year.
-
-But 4 months later, he was led by one day and 20 teams.
-
-The 29-year-old batsman scored 5,729 in 117 international competitions and 4,145 in 123 international matches.
-
-◼️
-
-[Data](articles/ebb443ea.json)
-
-[Extended Data](ext_articles/ebb443ea.ext.json)
-
----
-
-### The island of super-basketball champions
-
-*2024-10-02 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201752) · `si`
-
-Sri Lanka Air Force teams win women's and men's championships in Maldives' Super Cup Basketball Tournament. Teams arrive at Katunayake airport. Senior officials receive awards at Bandaranaike International Airport.
-
-🟩
-
-Sri Lanka Air Force groups have won both women and women championships in the "Super" Cup Basketball Tournament organized by the Maldivian Basketball Association.
-
-The two Sri Lankan Air Force groups have arrived at the Katunayake airport yesterday morning.
-
-The Maldives were held with the World-in-World Basketball Tournament in this "Super" cup
-
-Sri Lanka Air Force Commodore Amal Perera, Chairman of Sri Lanka Air Force Basadore Reserve Amaul Perera and other senior officials of the Sri Lanka Air Force were present at the Bandaranaike International Air Force to accept the winning SLAF Competives
-
-◼️
-
-[Data](articles/601a81d8.json)
-
-[Extended Data](ext_articles/601a81d8.ext.json)
 
 ---

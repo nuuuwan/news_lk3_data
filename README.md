@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 11:58:39**
+As of **2024-10-02 12:13:23**
 
 ## Newspaper Stats
 
-*Scraped **47,360** Articles*
+*Scraped **47,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,185
 adalk | 4,383
 dailymirrorlk | 4,733
 adaderanalk | 5,570
-tamilmirrorlk | 6,366
+tamilmirrorlk | 6,368
 virakesarilk | 7,570
 adaderanasinhalalk | 8,187
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 8,187
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,360 (100.0%) of 47,360 articles have been extended.
+47,362 (100.0%) of 47,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Siege of Sri Lanka Embassy
+
+*2024-10-02 11:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தூதரகம்-முன்-முற்றுகைப்-போராட்டம்/175-344804) · `ta`
+
+Sri Lanka Embassy siege planned Oct 8 over jailed Tamil Nadu fishermen. Protesters demand release of 162 fishermen and 192 seized boats. Tamil Nadu accuses Sri Lankan navy of violating rights and arresting fishermen near Indian border.
+
+🟩
+
+The 162 fishermen who are in Sri Lankan jails should be released with their boats;Party leader Anbumani Ramadas has announced that the Sri Lankan embassy siege will be held on Tuesday, October 8, urging the Sri Lankan government and the central and state governments to take action to release the 192 boats confiscated in Sri Lanka.
+
+In a statement issued today, he said, “The violation and repression of the Sinhalese navy on Tamil Nadu fishermen who are fishing in the Bay of Bengal are increasing day by day.. Although the entire Tamil Nadu urges the fishermen's right to fish in the traditional waters, it is strongly condemned by the Sinhalese government.
+
+The sea area between Rameswaram to Nagapattinam in Tamil Nadu is very short. So, whether Tamil Nadu fishermen or Sri Lankan fishermen cannot cross the border. At the same time, the fishermen organizations in Tamil Nadu are urging the fishermen in those areas that they have been fishing for a long time.
+
+...
+
+[Data](articles/6e791f89.json)
+
+[Extended Data](ext_articles/6e791f89.ext.json)
+
+---
+
+### “I am ready to retire, but”
+
+*2024-10-02 11:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-ஓய்வு-பெறத்-தயார்-ஆனால்/175-344803) · `ta`
+
+Former minister Nimal Siripala de Silva expresses reluctance to retire due to loyalty to political colleagues and supporters after 35 years in politics. He considers resigning but feels obligated to his team. Various parties unanimously suggest he contest again.
+
+🟩
+
+Former minister Nimal Siripala de Silva said he had no doubt about his resignation.
+
+Commenting to the media, he said, “Even though I want to retire, I feel responsible for those who have been with me in my 35 -year political career. It would be a difficult decision to abandon my political colleagues and supporters. ”
+
+“I have no problem with resignation. But they have been doing politics with them for 35 years and they cannot leave them. The only problem I have is whether I should leave them or not. So the problem is not about success, ”he said.
+
+He added that after the consultation of various parties, he was unanimously suggested that he should contest again.
+
+◼️
+
+[Data](articles/4fbda922.json)
+
+[Extended Data](ext_articles/4fbda922.ext.json)
+
+---
 
 ### A case against Patali is postponed until next year
 
@@ -2263,43 +2309,5 @@ However SriLankan has debt, including a government guaranteed bond, that has to 
 [Data](articles/e4c26128.json)
 
 [Extended Data](ext_articles/e4c26128.ext.json)
-
----
-
-### Parked vehicles handed over to those institutions
-
-*2024-10-01 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201736) · `si`
-
-Vehicles transferred to institutions. Presidential Secretariat received vehicles. Officials arrived today. Total vehicles replaced across ministries. Senior Additional Secretary present.
-
-🟩
-
-The vehicles were taken to the Presidential Secretariats, including ministries, departments, and the Presidential Officers were taken to the Presidential Secretariat at the premises near the Presidential Secretariat this afternoon.
-
-According to the Presidential Media Unit, officials from the relevant institutions arrived today (Fifteen vehicles were taken to the scene).
-
-Eight vehicles obtained from the Road Development Authority and the total number of vehicles across the Ministry of Finance and the Ministry of Transport and Civil Aviation and the Department of Transport and Civil Aviation were replaced by the Department.
-
-Senior Additional Secretary to the Presidential Secretariat Rosh Hewavitharana, Senior Additional Secretary, has joined the occasion.
-
-◼️
-
-[Data](articles/7c08a327.json)
-
-[Extended Data](ext_articles/7c08a327.ext.json)
-
----
-
-### Anura Kumara  Dissanayake ; “Leftist” Star  Rises   Over Sri Lanka.
-
-*2024-10-01 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84814) · `en`
-
-The heading of this article is inspired by the title of Edgar Snow’s  , “Red Star Over China”. Snow’s book first published in 1937 was a vivid account of  his interaction with the  Chinese communist leader  Mao  Ze Dong and the Red Army. Mao known then as Mao Tse Tung was relatively called  to the  Western world at that time. Years later when the communists under Mao captured power in China, “Red Star Over China” became a best seller. The book was widely read   by people who wanted to gain an insight into the new “unknown”  Communist rulers  of China.
-
-...
-
-[Data](articles/139b1f89.json)
-
-[Extended Data](ext_articles/139b1f89.ext.json)
 
 ---

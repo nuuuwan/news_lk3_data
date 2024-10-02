@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 16:11:44**
+As of **2024-10-02 16:22:51**
 
 ## Newspaper Stats
 
-*Scraped **47,401** Articles*
+*Scraped **47,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,578
 tamilmirrorlk | 6,375
 virakesarilk | 7,575
-adaderanasinhalalk | 8,195
+adaderanasinhalalk | 8,196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,401 (100.0%) of 47,401 articles have been extended.
+47,402 (100.0%) of 47,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Indian Foreign Minister to Sri Lanka
+
+*2024-10-02 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201766) · `si`
+
+Indian Foreign Minister S. Jaishankar to visit Sri Lanka on April 4th. He will meet Anura Kumara Dissanayake, marking India-Sri Lanka's first diplomatic meeting under the new president.
+
+🟩
+
+Indian Foreign Minister S. According to Indian media reports, the Jeeashawkur is to arrive in Sri Lanka on the 4th.
+
+According to Indian media reports, Anura Kumara Dissanayake is a diplomatic first meeting between India and Sri Lanka after being president.
+
+◼️
+
+[Data](articles/d3329fda.json)
+
+[Extended Data](ext_articles/d3329fda.ext.json)
+
+---
 
 ### No reports of Sri Lankans in Israel affected by Iran attacks - envoy
 
@@ -2375,23 +2395,5 @@ Where is the power to publish an emergency situation?
 [Data](articles/7aec9e2b.json)
 
 [Extended Data](ext_articles/7aec9e2b.ext.json)
-
----
-
-### Women’s Chamber of Industry and Commerce holds 39th AGM
-
-*2024-10-02 01:11:07* · [`dailyftlk`](https://www.ft.lk/business/Women-s-Chamber-of-Industry-and-Commerce-holds-39th-AGM/34-767419) · `en`
-
-The Women’s Chamber of Industry and Commerce (WCIC) held its Annual General Meeting (AGM), marking a pivotal moment in the organisation’s 39-year journey.
-
-Established in 1985 as the world’s first chamber dedicated to empowering women, the WCIC remains committed to fostering female entrepreneurship, leadership, and professional development across Sri Lanka. This year’s AGM, led by Chairperson Anoji De Silva and the 15-member Board, celebrated the Chamber’s achievements during the 2023/24 term while setting the stage for future growth.
-
-During the event, the leadership team highlighted the WCIC’s enduring commitment to creating sustainable businesses, advocating for women’s participation in the economy, and breaking down barriers for female entrepreneurs.
-
-...
-
-[Data](articles/4da78a5b.json)
-
-[Extended Data](ext_articles/4da78a5b.ext.json)
 
 ---

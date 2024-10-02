@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 16:56:04**
+As of **2024-10-02 17:07:59**
 
 ## Newspaper Stats
 
-*Scraped **47,407** Articles*
+*Scraped **47,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ economynextcom | 2,893
 dailyftlk | 3,185
 adalk | 4,387
 dailymirrorlk | 4,733
-adaderanalk | 5,579
+adaderanalk | 5,580
 tamilmirrorlk | 6,375
 virakesarilk | 7,575
-adaderanasinhalalk | 8,196
+adaderanasinhalalk | 8,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,407 (100.0%) of 47,407 articles have been extended.
+47,407 (100.0%) of 47,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### චීනයෙන් ජනපතිට පොරොන්දුවක්
+
+*2024-10-02 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201770) · `si`
+
+ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීම සහ ආර්ථික ස්ථාවරත්වය සඳහා පූර්ණ සහාය ලබාදීමට සහතික වන බව ශ්‍රී ලංකාවේ මහජන චීන සමූහාණ්ඩුවේ තානාපති Qi Zhenhong මහතා පවසයි.
+
+ඔහු මේ බව පවසා ඇත්තේ ජනාධිපති අනුර කුමාර දිසානායක මහතා සමග අද (02) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවති හමුවක දී බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+
+එහිදී ජනාධිපතිවරණ ජයග්‍රහණය පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත තානාපතිවරයා සිය හෘදයාංගම සුබ පැතුම් පිරිනමා තිබේ.
+
+එමෙන්ම ශ්‍රී ලංකාවේ ඉදිරි කටයුතු සඳහා චීනය අඛණ්ඩව සහාය දක්වන බවත්, ශ්‍රී ලංකාව සමග පවතින ද්විපාර්ශ්වික සබඳතා වැඩි දියුණු කරගැනීම වෙනුවෙන් චීන රජය අඛණ්ඩව කැපවී සිටින බවත් තානාපතිවරයා ප්‍රකාශ කර ඇත.
+
+ශ්‍රී ලංකාව තුළ මේ වනවිට ක්‍රියාත්මක සහයෝගීතා ව්‍යාපෘතිවල වැදගත්කම හා ශ්‍රී ලංකාවේ සංවර්ධන කාර්යයන් සඳහා සහාය දැක්වීම සඳහා චීන සංවර්ධන බැංකුව (CDB) සහ EXIM බැංකුවේ ක්‍රියාකාරී මැදිහත්වීම පිළිබඳව ද මෙහිදී ඔහු විසින් අවධාරණය කළ බව එම නිවේදනයේ සඳහන් වෙයි.
+
+...
+
+[Data](articles/0a5dc724.json)
+
+---
+
+### Weather advisory issued for severe lightning
+
+*2024-10-02 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102403/-weather-advisory-issued-for-severe-lightning) · `en`
+
+The Meteorology Department has issued an ‘Amber’ advisory for severe lightning for several provinces and districts.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Eastern, Uva and North-central provinces and in Mullaittivu and Vavuniya districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to seek shelter, preferably indoors and never under trees, avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, avoid using wired telephones and connected electric appliances during thunderstorms and also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+For emergency assistance, the public is requested to contact local disaster management authorities.
+
+◼️
+
+[Data](articles/9999e1f4.json)
+
+---
+
+### ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේනදයක්
+
+*2024-10-02 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201769) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේනදයක් නිකුත් කර තිබේ.
+
+අද (02) පස්වරුවේ නිකුත් කළ එම නිවේදනය හෙට (03) රාත්‍රී 11.00 දක්වා වලංගු වෙයි.
+
+ඒ අනුව නැගෙනහිර, ඌව සහ උතුරුමැද පළාවලත් මුලතිව් සහ වවුනියාව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/43b33868.json)
+
+---
+
+### ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස් ජනපතිව හමුවෙයි
+
+*2024-10-02 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201768) · `si`
+
+ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස් Andrew Patrick මහතා අද (02) ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
+
+දෙරට අතර ශක්තිමත් රාජ්‍ය තාන්ත්‍රික සබඳතා තවදුරටත් තහවුරු කරගැනීමේ වැදගත් පියවරක් සනිටුහන් කරමින් මෙම හමුව සිදුවූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+පසුගිය ජනාධිපතිවරණයේදී අනුර කුමාර දිසානායක මහතා ලබාගත් ජයග්‍රහණය වෙනුවෙන් බ්‍රිතාන්‍ය මහ කොමසාරිස්වරයා මෙහිදී සිය සුභාශිංසන පිරිනමා තිබේ.
+
+එසේම ශ්‍රී ලංකාවේ ජනාධිපතිවරයා ලෙස අනුර කුමාර දිසානායක මහතාගේ ඉදිරි පාලනය වෙනුවෙන් බ්‍රිතාන්‍ය රජයේ සුබ පැතුම් එක් කළ මහකොමසාරිස්වරයා, අනුර කුමාර දිසානායක මහතාගේ නායකත්වය පිළිබඳව ප්‍රසාදය පළ කෙරෙන III වන චාල්ස් රජුගේ සහ බ්‍රිතාන්‍ය අගමැති Sir Keir Starmer මහතාගේ පුද්ගලික සුබ පැතුම් ද ජනාධිපතිවරයා වෙත පිළිගන්වන ලදි.
+
+සෘජු විදේශ ආයෝජන (FDIs) ආකර්ශනය කරගැනීමේ ශ්‍රී ලංකාවේ ප්‍රයත්නයන් සඳහා බ්‍රිතාන්‍ය රජයේ නොමඳ සහයෝගය ලබාදීම පිළිබඳව සහ අධ්‍යාපන ක්ෂේත්‍රයේ සහයෝගීතාවයේ වැදගත්කම පිළිබඳව ද මෙම හමුවේ දී සාකච්ඡා කළ බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේ ය.
+
+...
+
+[Data](articles/cd760ace.json)
+
+---
 
 ### Jaishankar to visit Sri Lanka on Oct 4 - reports
 
@@ -2321,79 +2399,5 @@ Taking to X SJB’s Weligama Organiser and former Chairman of the Weligama Prade
 [Data](articles/d1f89a1e.json)
 
 [Extended Data](ext_articles/d1f89a1e.ext.json)
-
----
-
-### ADB President congratulates President Anura Kumara Dissanayake
-
-*2024-10-02 02:24:32* · [`dailyftlk`](https://www.ft.lk/news/ADB-President-congratulates-PresidentAnura-Kumara-Dissanayake/56-767437) · `en`
-
-The Asian Development Bank (ADB) President Masatsugu Asakawa, has extended his best wishes to Anura Kumara Dissanayake on his election as the President of the Democratic Socialist Republic of Sri Lanka.
-
-In his message, Asakawa warmly welcomed the President as ADB Governor for Sri Lanka.
-
-Asakawa praised the people of Sri Lanka for conducting a peaceful and orderly democratic election and highlighted the longstanding partnership between ADB and Sri Lanka, which has existed since the Bank’s establishment in 1966. Over the years, ADB has been a steadfast partner in addressing Sri Lanka’s challenges and, during the current economic crisis, has provided crucial budgetary support to strengthen reform initiatives and alleviate the hardships faced by the country’s most vulnerable populations.
-
-...
-
-[Data](articles/afc5644d.json)
-
-[Extended Data](ext_articles/afc5644d.ext.json)
-
----
-
-### Two advisers for President for economic and finance on honorary basis
-
-*2024-10-02 02:21:57* · [`dailyftlk`](https://www.ft.lk/news/Two-advisers-for-President-for-economic-and-finance-on-honorary-basis/56-767436) · `en`
-
-The Cabinet of Ministers at their inaugural meeting on Monday approved appointing two advisers to guide President Anura Kumara Dissanayake with matters related to finance and economy.
-
-Speaking at the first weekly post-Cabinet meeting under the new Government, Cabinet Spokesman and Minister Vijitha Herath announced that the Ceylon Chamber of Commerce Chairman Duminda Hulangamuwa and University of Sri Jayewardenepura Prof. Anil Fernando were appointed as Senior Advisers for Economic and Finance on honorary basis. He stated that the appointments were made as per powers vested by the Article 41 (91) of the Constitution, appoint his staff by consulting the Cabinet of Ministers.
-
-The two honorary appointments are effective from 24 September 2024.
-
-◼️
-
-[Data](articles/37e73de1.json)
-
-[Extended Data](ext_articles/37e73de1.ext.json)
-
----
-
-### Govt. to draft new Constitution after Parliamentary elections: Cabinet Spokesman
-
-*2024-10-02 02:21:13* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-draft-new-Constitution-after-Parliamentary-elections-Cabinet-Spokesman/56-767435) · `en`
-
-The Cabinet Spokesman and Minister Vijitha Herath yesterday announced that the Government will begin drafting a new Constitution following the upcoming Parliamentary elections.
-
-Speaking to the media after the inaugural Cabinet meeting on Monday, he stated that the draft Constitution would be presented to the public for approval via a referendum.
-
-Herath asserted that the recent election focused on electing a President, while the Parliamentary election will establish a Government that can take forward the constitutional process.
-
-“Our manifesto clearly states that a new Constitution will be drafted and presented to the people for their approval. We will begin that process once the new Government has been formed post-14 November,” he added.
-
-The new draft Constitution, Herath explained would devolve political and administrative power to local Government bodies, districts and provinces ensuring the political participation of all ethnicities within the framework of a united country.
-
-...
-
-[Data](articles/83e9eb1a.json)
-
-[Extended Data](ext_articles/83e9eb1a.ext.json)
-
----
-
-### Cabinet nod to allocate Rs. 11 b for General Election
-
-*2024-10-02 02:20:35* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-allocate-Rs-11-b-for-General-Election/56-767434) · `en`
-
-The three-member Cabinet led by President Anura Kumara Dissanayake in their inaugural meeting on Monday approved releasing Rs. 11 billion for the General Election scheduled for 14 November 2024.
-
-“With the 2024 Budget lacking provisions for the election, the Cabinet has approved Rs. 5 billion from the Consolidated Fund and decided to allocate an additional Rs. 6 billion for election-related expenses to be settled in 2025,” Cabinet Spokesman and Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.  He said the 2024 Budget has only allocated money for one election and that was the Presidential election, affirming there was no funds set aside for a General Election.
-
-...
-
-[Data](articles/57c94ec7.json)
-
-[Extended Data](ext_articles/57c94ec7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 15:22:57**
+As of **2024-10-02 15:38:51**
 
 ## Newspaper Stats
 
-*Scraped **47,397** Articles*
+*Scraped **47,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 3,185
 adalk | 4,386
 dailymirrorlk | 4,733
 adaderanalk | 5,577
-tamilmirrorlk | 6,374
+tamilmirrorlk | 6,375
 virakesarilk | 7,575
-adaderanasinhalalk | 8,194
+adaderanasinhalalk | 8,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,397 (100.0%) of 47,397 articles have been extended.
+47,397 (100.0%) of 47,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### இலங்கைப் பிரஜைக்கு பாதிப்பில்லை
+
+*2024-10-02 15:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைப்-பிரஜைக்கு-பாதிப்பில்லை/175-344813) · `ta`
+
+இஸ்ரேல் மீது ஈரானியப் படைகள் நடத்தியதாகக் கூறப்படும் தாக்குதலைத் தொடர்ந்து இலங்கைப் பிரஜைகள் மத்தியில் காயங்களோ உயிரிழப்புகளோ பதிவாகவில்லை என இஸ்ரேலுக்கான இலங்கைத் தூதுவர் நிமல் பண்டார உறுதிப்படுத்தினார்.
+
+◼️
+
+[Data](articles/2da589b9.json)
+
+---
+
+### ශ්‍රී ලංකාවේදී ලැබූ ටෙස්ට් පරාජයෙන් පසු නවසීලන්ත නායකයා ගත් තීරණය
+
+*2024-10-02 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201764) · `si`
+
+ශ්‍රී ලංකාව සමග පැවති තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලිය පරාජය වීමත් සමගම නවසීලන්ත නායක ටීම් සවූති නායකත්වයෙන් අස්වීමට තීරණය කර තිබේ.
+
+සවූති පවසන්නේ කණ්ඩායමේ යහපත වෙනුවෙන් ඔහු එම තීරණය ගන්නා බවයි.
+
+2022 වසරේදී කේන් විලියම්සන් ටෙස්ට් නායකත්වයෙන් ඉල්ලා අස්වුණු අතර පසුව නායකත්වය ටීම් සවුති ට පැවරිණි.
+
+ඔහු ටෙස්ට් තරග 14කදී නවසීලන්ත කණ්ඩායම මෙහෙයවා ඇති අතර ඉන් තරග 6ක් ජයගෙන 6ක් පරාජය විය. තරග 2ක් ජයපරාජයෙන් තොරව අවසන් වුණි.
+
+ශ්‍රී ලංකාව සමග ගාල්ලේ පැවති පළමු ටෙස්ට් තරගය ලකුණු 63කින් පරාජය වූ නවසීලන්ත කණ්ඩායම දෙවැනි තරගය ඉනිමකින් සහ ලකුණු 154කින් පරාජය විය.
+
+◼️
+
+[Data](articles/be5e9a0c.json)
+
+---
 
 ### Namal challenge to Anura
 
@@ -2335,51 +2367,5 @@ It was said that the just completed election was the most peaceful. Erik Solheim
 [Data](articles/435cf5e2.json)
 
 [Extended Data](ext_articles/435cf5e2.ext.json)
-
----
-
-### Here, and the road from here
-
-*2024-10-02 00:08:49* · [`dailyftlk`](https://www.ft.lk/columns/Here-and-the-road-from-here/4-767403) · `en`
-
-The aftermath of the 2024 Presidential election was the most peaceful, ever. No fire-crackers, let alone gunshots or arson. An absence made possible by the NPP/JVP walking the talk. Given that public wrath at the political class played a decisive role in this election, a few incidents of over-the-top rejoicing might have been expected. But there were none. The election outcome amounted to a political upheaval, yet the country remained as calm as a goldfish bowl
-
-Will President Dissanayake and his party be able to move beyond the restrictions imposed by their lingering primordial loyalties and appeal to non-Sinhala Lankans on a platform of genuine equality?
-
-The Election Commission continues to rock. This week, it halted, for the duration of parliamentary polls, an order by President Anura Kumara Dissanayake to increase fertiliser and fuel subsidies to farmers and fishermen.
-
-The same way it stopped a multitude of giveaways by Ranil Wickremesinghe during Presidential elections.
-
-...
-
-[Data](articles/5a77cfb2.json)
-
-[Extended Data](ext_articles/5a77cfb2.ext.json)
-
----
-
-### 2024-10-01 (Tuesday)
-
-### We will settle through the new constitution
-
-*2024-10-01 23:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியலமைப்பின்-ஊடாக-தீர்வு-வழங்குவோம்/175-344786) · `ta`
-
-New constitution to address Tamil issues after parliamentary elections. Government promises transparency in political appointments. Diplomatic positions to be reviewed.
-
-🟩
-
-The presidential election is over. The new President has been appointed. Parliamentary elections are to be held. After gaining power, the new constitution will be prepared and passed with the mandate of the people. In it, the government has announced that the political problem of the Tamil people will be solved.
-
-Responding to questions asked by journalists at a press conference announcing the weekly cabinet decisions at the Government Information Department on Tuesday, Cabinet and Cabinet spokesman Vijaya Herath said.
-
-The new constitution will be brought to the people. He said the people would be fulfilled with the mandate. Meanwhile, President Anura Kumara Dissanayake, headed by President Anura Kumara Dissanayake, said that the Cabinet meeting was not taken at the Cabinet meeting on the 2nd of October on October 2.
-
-The government has taken steps to return to the ambassadors and high -rankings appointed on the basis of political strength and faith.
-
-...
-
-[Data](articles/9320d286.json)
-
-[Extended Data](ext_articles/9320d286.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 06:43:58**
+As of **2024-10-02 07:25:41**
 
 ## Newspaper Stats
 
-*Scraped **47,313** Articles*
+*Scraped **47,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 391
 bbccomsinhala | 466
 colombotelegraphcom | 473
-islandlk | 2,783
+islandlk | 2,786
 economynextcom | 2,882
 dailyftlk | 3,185
 adalk | 4,377
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,312 (100.0%) of 47,313 articles have been extended.
+47,316 (100.0%) of 47,316 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -630,6 +630,20 @@ Special attention was paid to the further strengthening of long -term bilateral 
 
 ---
 
+### HNB Assurance joins hands with Industrial Development Board to offer special insurance solution to over 10,000 registered companies
+
+*2024-10-01 23:21:00* · [`islandlk`](http://island.lk/hnb-assurance-joins-hands-with-industrial-development-board-to-offer-special-insurance-solution-to-over-10000-registered-companies/) · `en`
+
+HNB Assurance PLC entered an exciting new partnership with the Industrial Development Board (IDB), which will bring customized insurance solutions to more than 10,000 Micro, Small and Medium Enterprises and large corporates that are registered with the IDB. This collaboration is aimed at supporting the backbone of Sri Lanka’s economy and helping businesses thrive with the security they need to grow.
+
+...
+
+[Data](articles/39fb6def.json)
+
+[Extended Data](ext_articles/39fb6def.ext.json)
+
+---
+
 ### “Mega Expo 2024” brings industry leaders to Jaffna
 
 *2024-10-01 23:21:00* · [`islandlk`](http://island.lk/mega-expo-2024-brings-industry-leaders-to-jaffna/) · `en`
@@ -643,6 +657,22 @@ Supported by Fine Vision Group, NAPSL, and INGRIN Printing & Graphics Academy of
 [Data](articles/ef88ec25.json)
 
 [Extended Data](ext_articles/ef88ec25.ext.json)
+
+---
+
+### Channa Gunawardana appointed chairman at Litro Gas Lanka
+
+*2024-10-01 23:19:00* · [`islandlk`](http://island.lk/channa-gunawardana-appointed-chairman-at-litro-gas-lanka/) · `en`
+
+Sri Lanka’s leading LP Gas providers, Litro Gas Lanka Ltd. and Litro Gas Terminal Lanka PVT Ltd., have appointed Channa Gunawardana as their new Chairman, marking a significant step in the companies’ ongoing commitment to ensuring uninterrupted energy supply across Sri Lanka.
+
+Gunawardana brings a wealth of experience from his previous roles, including his tenure at Aitken Spence Group as CEO/Director of Aitken Spence Garments Ltd. and CEO of Royal Fernwood Porcelain PLC from December 2021. Prior to that, he joined Dankotuwa Porcelain PLC in 2019, where he demonstrated his expertise in business transformation and leadership.
+
+...
+
+[Data](articles/7aeb3b01.json)
+
+[Extended Data](ext_articles/7aeb3b01.ext.json)
 
 ---
 
@@ -2195,61 +2225,5 @@ In addition, the minimum bus fare is reduced from a rupee and the new minimum fe
 [Data](articles/dbba575a.json)
 
 [Extended Data](ext_articles/dbba575a.ext.json)
-
----
-
-### Cabinet proclaimed revelation on the IMF team
-
-*2024-10-01 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201724) · `si`
-
-Sri Lanka IMF team arrives tomorrow, meets officials till Oct 4. Discusses economic reforms, basic program details. Structural talks in NY late Oct.
-
-🟩
-
-A large number of International Monetary Fund is scheduled to arrive in Sri Lanka tomorrow (02).
-
-The team headed by the Director of the International Monetary Fund (IMF) is headed in Sri Lanka until October 4.
-
-They are scheduled to meet President Anura Kumara Dissanayake and the new economic group.
-
-They will discuss the economic reforms under the Sri Lanka Economic Program in Sri Lanka and the Sri Lanka Economic Program in the Sri Lanka Economic Program in Sri Lanka.
-
-Speaking at a press briefing in the press conference held today (01), the Cabinet spokesman Vijitha Herath said that with the IMF's army, the IMF's mission is only a basic discussion regarding the IMF program.
-
-A discussion of its structural matters will be held in New York in late October.
-
-◼️
-
-[Data](articles/2eeb11d7.json)
-
-[Extended Data](ext_articles/2eeb11d7.ext.json)
-
----
-
-### Dhammika Perera Hayleys is appointed chairman
-
-*2024-10-01 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201723) · `si`
-
-Dhammika Perera replaces Mohan Pandithage as Hayleys PLC chairman. Appointed today after serving as co-chairman since June 2022. Owns 51.01% stake in company.
-
-🟩
-
-Business Dhammika Perera has been replaced by the delegation of Sri Lanka's leading companies, a non-executive director of the country.
-
-Mr. Hayleys Group Chairman and CEO Mohan Pandithage has informed the Colombo Stock Exchange.
-
-The appointment of Dhammika Perera is implemented this morning (01).
-
-Earlier, Dhammika Perera, who had previously served as a co-chairman and an executive director of the Non-Executive Directors of Hayleys, removed from the relevant positions from June 10, 2022.
-
-Hayleys PLC is a large group of companies engaged in diversified fields in the country and Mr. Dhammika Perera is its controlled partner.
-
-Dhammika Perera owns 51.01% of the share capital of Hayleys PLC.
-
-◼️
-
-[Data](articles/f61090dc.json)
-
-[Extended Data](ext_articles/f61090dc.ext.json)
 
 ---

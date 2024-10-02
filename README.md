@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 14:38:40**
+As of **2024-10-02 14:57:50**
 
 ## Newspaper Stats
 
-*Scraped **47,394** Articles*
+*Scraped **47,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,889
 dailyftlk | 3,185
-adalk | 4,385
+adalk | 4,386
 dailymirrorlk | 4,733
 adaderanalk | 5,577
-tamilmirrorlk | 6,372
+tamilmirrorlk | 6,373
 virakesarilk | 7,575
 adaderanasinhalalk | 8,194
 
@@ -26,33 +26,63 @@ adaderanasinhalalk | 8,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,390 (100.0%) of 47,394 articles have been extended.
+47,396 (100.0%) of 47,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
 
-### ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයින් ගැන දැනුම්දීමක්
+### Namal
+
+*2024-10-02 14:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுக்கு-சாவால்-விடும்-நாமல்/175-344812) · `ta`
+
+Namal Rajapaksa challenges President Anura Kumara Dissanayake to prove allegations of hidden billions in Uganda and other countries. Rajapaksa denies claims public funds were stolen during his regime.
+
+🟩
+
+Former parliamentarian Namal Rajapaksa has challenged President Anura Kumara Dissanayake to prove the allegation that the Rajapakse regime has hidden billions of dollars in Uganda and other countries.
+
+Responding to a video of Dissanayake during the presidential campaign, Namal and his delegation have been claiming that public funds have been stolen for years.
+
+“President Anuragumara Dissanayake and his group have been accusing us of hiding billions of dollars in Uganda and various countries for many years.
+
+President Anura Kumara Dissanayake has time to prove his allegations, ”Rajapakse posted on the 'X' site.
+
+◼️
+
+[Data](articles/97d52a72.json)
+
+[Extended Data](ext_articles/97d52a72.ext.json)
+
+---
+
+### Notice of Sri Lankans in Israel
 
 *2024-10-02 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201763) · `si`
 
-ඉරානය ඊශ්‍රායලය ඉලක්ක කරමින් ප්‍රහාර එල්ල කිරීමත් සමග ඊශ්‍රායලයේ සිටින සියලුම ශ්‍රී ලාංකිකයින්ට ආරක්ෂිත ස්ථානයක රැඳී සිටින ලෙස ශ්‍රී ලංකා තානාපති කාර්යාලය දැනුම් දුන්නේය.
+Sri Lankan embassy warns citizens in Israel due to Iran's missile attacks. Ambassador reports no casualties among Sri Lankans. Israel destroys many incoming missiles.
 
-මේ අතර අත්‍යාවශ්‍ය ආහාර සහ ඖෂධ ආදිය ළඟ තබාගන්නා ලෙසත් එරට ශ්‍රී ලංකා තානාපති කාර්යාලය ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයින්ට දැනුම් දී තිබුණි.
+🟩
 
-මෙවන් පසුබිමක ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසන්නේ, ඉරාන ප්‍රහාරවලින් ශ්‍රී ලාංකිකයින්ට හානියන් සිදුව ඇතැයි මෙතෙක් වාර්තා වී නොමැති බවය.
+As Iran is targeting Israel, the Sri Lankan embassy informed all Sri Lankans in Israel to stay in a safe place in Israel.
 
-ඉරානය ඊයේ (01) රාත්‍රීයේ ඊශ්‍රායලය වෙත දැවැන්ත මිසයිල ප්‍රහාරයක් එල්ල කළේය.
+Meanwhile, the Sri Lankan Embassy of Sri Lanka in Israel had informed Sri Lankans in Israel to have essential foods and drugs.
 
-ඊශ්‍රායලයේ අයන් ඩෝම් මිසයිල ආරක්ෂණ පද්ධතිය සහ අමෙරිකානු ප්‍රති මිසයිල මෙහෙයුමක් මඟින් එලෙස එල්ල කෙරුණු මිසයිල රැසක් විනාශ කිරීමට ඊශ්‍රායලය සමත්ව තිබුණි.
+Sri Lanka Ambassador, Sri Lanka's Ambassador Nimal Bandara, says that Sri Lankans have not reported to Sri Lankans have been reported from Iranian attacks.
 
-ගාසා තීරය සහ ලෙබනනය වෙත අඛණ්ඩ ගුවන් සහ ගොඩබිම් ප්‍රහාර එල්ල කරමින් සිටින ඊශ්‍රායලය වෙත දැවැන්ත බැලැස්ටික් මිසයිල ප්‍රහාර මාලාවක් එල්ල කිරීමට ඉරානය ඊයේ (01) කටයුතු කළේ ය.
+Iran launched a huge missile attack on Israel yesterday night.
 
-එම ප්‍රහාරවල ඉලක්කය වී තිබුණේ ජනාකීර්ණ ටෙල් අවීව් අගනුවර, ජෙරුසෙලම සහ හයිෆා යන නගරවල තෝරාගත් හමුදා ඉලක්කයන්ය.
+Israel was able to destroy many missiles to destroy a number of missiles by Israel in Israel.
+
+Iran was served yesterday (01) to launch a series of massaves to Israel with continuous air and ground attacks on the Gaza.
+
+The target of those attacks was the selected military prospects in the crowded Tel Aviva capital, Jerusalema and Hifa.
 
 ◼️
 
 [Data](articles/27c2fd01.json)
+
+[Extended Data](ext_articles/27c2fd01.ext.json)
 
 ---
 
@@ -74,23 +104,31 @@ He also highlighted the importance of maintaining economic transparency as a cru
 
 [Data](articles/1f37f1a8.json)
 
+[Extended Data](ext_articles/1f37f1a8.ext.json)
+
 ---
 
-### ஈரானுக்கு செல்ல வேண்டாம்
+### Don't go to Iran
 
 *2024-10-02 14:14:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானுக்கு-செல்ல-வேண்டாம்/50-344811) · `ta`
 
-மத்திய கிழக்கு நாடுகளில் ஒன்றான ஈரானுக்கு இந்தியர்கள் பயணம் மேற்கொள்வதை தவிர்க்குமாறு இந்திய வெளியுறவுத்துறை அமைச்சகம் தெரிவித்துள்ளது.
+India advises against travel to Iran due to rising security concerns. Ministry urges vigilance for Indian citizens in Iran and contact with embassy. Israeli Prime Minister warns Iran will face consequences over missile attacks.
 
-இது தொடர்பாக அமைச்சகம் வெளியிட்டுள்ள அறிக்கையில், “ஈரானில் அண்மைய நாட்களாக அதிகரித்து வரும் பாதுகாப்பு சூழலை நாங்கள் உன்னிப்பாக கவனித்து வருகிறோம். அதை கருத்தில் கொண்டு அங்கு இந்திய குடிமக்கள் பயணம் மேற்கொள்வதை தவிர்க்குமாறு கேட்டுக் கொள்கிறோம்.
+🟩
 
-மேலும், ஈரானில் உள்ள இந்தியர்கள் பாதுகாப்பு குறித்த விழிப்புடன் இருக்குமாறு கேட்டுக் கொள்கிறோம். அதோடு தெஹ்ரானில் அமைந்துள்ள இந்திய தூதரகத்துடன் தொடர்பில் இருக்குமாறு அங்கு வசிக்கும் இந்திய மக்களை கேட்டுக் கொள்கிறோம்” எனத் தெரிவித்துள்ளது.
+The Ministry of Foreign Affairs of India has said that Indians are traveling to Iran, one of the Middle East countries.
 
-இஸ்ரேலை நோக்கி ஈரான் நூற்றுக்கணக்கான ஏவுகணைகளை வீசி தாக்குதல் மேற்கொண்ட நிலையில், இதற்கான விலையை அந்த நாடு கொடுக்கும் என இஸ்ரேல் பிரதமர் நெதன்யாகு எச்சரித்திருந்தார். இந்த நிலையில் இந்திய வெளியுறவுத்துறை அமைச்சகம் இதனை தெரிவித்துள்ளது.
+In a statement issued by the Ministry, he said, “We have been watching the rising security environment in Iran recently. Considering that, we urge the Indian citizens to avoid traveling there.
+
+Also, we urge Indians in Iran to be vigilant on security. We also ask the Indian people living in Tehran in contact with the Indian Embassy. ”
+
+Israeli Prime Minister Netanyahu has warned that the country will pay the price, while Iran fired hundreds of missiles towards Israel.. The Indian Foreign Ministry said this.
 
 ◼️
 
 [Data](articles/c40b3ad9.json)
+
+[Extended Data](ext_articles/c40b3ad9.ext.json)
 
 ---
 
@@ -118,29 +156,39 @@ Tehran said any Israeli response to the attack, which Israel said involved more 
 
 ---
 
-### මැදපෙරදිග යුද ගිනි - ඉරානයට යළිත් අනතුරු ඇඟවීමක්
+### Middle East fire on Iran again
 
 *2024-10-02 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201762) · `si`
 
-ඉරානය ඊයේ (01) රාත්‍රීයේ ඊශ්‍රායලය වෙත දැවැන්ත මිසයිල ප්‍රහාරයක් එල්ල කර තිබේ.
+Iran launches missile attacks on Israel, targeting Tel Aviv, Jerusalem, Haifa. Israel destroys many missiles. Palestinians killed in West Bank. US assists defense. Iran claims retaliation for Hezbollah leader's death. Netanyahu vows severe response.
 
-ඊශ්‍රායලයේ අයන් ඩෝම් මිසයිල ආරක්ෂණ පද්ධතිය සහ අමෙරිකානු ප්‍රති මිසයිල මෙහෙයුමක් මඟින් එලෙස එල්ල කෙරුණු මිසයිල රැසක් විනාශ කිරීමට ඊශ්‍රායලය සමත්ව තිබුණි.
+🟩
 
-ගාසා තීරය සහ ලෙබනනය වෙත අඛණ්ඩ ගුවන් සහ ගොඩබිම් ප්‍රහාර එල්ල කරමින් සිටින ඊශ්‍රායලය වෙත දැවැන්ත බැලැස්ටික් මිසයිල ප්‍රහාර මාලාවක් එල්ල කිරීමට ඉරානය ඊයේ(01) කටයුතු කළේ ය.
+Iran has been attacked Israel yesterday (01).
 
-එම ප්‍රහාරවල ඉලක්කය වී තිබුණේ ජනාකීර්ණ ටෙල් අවීව් අගනුවර, ජෙරුසෙලම සහ හයිෆා යන නගරවල තෝරාගත් හමුදා ඉලක්කයන්ය.
+Israel was able to destroy many missiles to destroy a number of missiles by Israel in Israel.
 
-විදෙස් වාර්තාවලට අනුව මෙලෙස එල්ල කෙරුණු මිසයිල සංඛ්‍යාව 180කට ආසන්නය.
+Iran was served yesterday (01) to launch a series of massaves to Israel with continuous air and ground attacks on the Gaza.
 
-ප්‍රහාරවලට සමගාමීව ඊශ්‍රායල ජනතාව ආරක්ෂිත ස්ථාන වෙත යොමු කෙරුණු අතර ඊශ්‍රායලයේ අයන් ඩෝම් මිසයිල ආරක්ෂණ පද්ධතිය මඟින් මෙලෙස පැමිණි මිසයිල රැසක් විනාශ කර තිබුණි.
+The target of those attacks was the selected military prospects in the crowded Tel Aviva capital, Jerusalema and Hifa.
 
-මේ අතර අමෙරිකාව සඳහන් කළේ, මෙම මිසයිල ප්‍රහාරය මැඬලීම සඳහා තමන් ද සහාය වූ බවය.
+According to foreign reports, the number of missiles were nearing 180.
 
-කෙසේ නමුත් මෙලෙස එල්ල කළ මිසයිලවලින් කිහිපයක් සාර්ථක වූ අතර, බටහිර ඉවුරට එල්ල වූ එවන් ප්‍රහාරයකින් පලස්තීන වැසියෙක් මියගොස් තිබුණි.
+Israeli people were sent to safe places in parallel to the attacks and had destroyed many missiles in Israel.
+
+Meanwhile, Americans have also helped to suppress the missile attack.
+
+However, a few missiles were successful and a Palestinian inhabitants had died in a western bank.
+
+It is also reported that an Israeli military base and a school in central Israel and a restaurant in Tel Avavi have also been assaulted.
+
+With the commencement of the missile strikes, Tehran people descended and shouted for joy and shouting to shout the Iranian attack.
 
 ...
 
 [Data](articles/c0438e81.json)
+
+[Extended Data](ext_articles/c0438e81.ext.json)
 
 ---
 
@@ -325,6 +373,28 @@ Several other embassies and consulates are also located in the area.
 [Data](articles/c558aa82.json)
 
 [Extended Data](ext_articles/c558aa82.ext.json)
+
+---
+
+### Here is the cause of the Ambassadors and High Commissioners of the President
+
+*2024-10-02 12:37:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අද-රටවල්-07ක-තානාපතිවරුන්--මහකොමසාරිස්වරුන්-හමුවෙන-හේතුව-මෙන්න/11-412272) · `si`
+
+President Anura Kumara Dissanayake meets ambassadors from 7 nations: Cuba, UK, Australia, Japan, Canada, India. Discusses strengthening bilateral relations.
+
+🟩
+
+President Anura Kumara Dissanayake is scheduled to meet with Ambassadors and High Commissioners of seven countries today (02).
+
+The current government's policy of strengthening bilateral relations with all countries, the President is scheduled to meet with foreign ambassadors and High Commissioners.
+
+Accordingly, representatives including Ambassadors, High Commissioners, High Commissioners, Canada, Canada and India will hold talks to Cuba, UK, Australia, Japan, Canada and India.
+
+◼️
+
+[Data](articles/a4455123.json)
+
+[Extended Data](ext_articles/a4455123.ext.json)
 
 ---
 
@@ -2313,53 +2383,5 @@ In this regard, he said, “After taking over as the new President of Sri Lanka,
 [Data](articles/925342f6.json)
 
 [Extended Data](ext_articles/925342f6.ext.json)
-
----
-
-### Tension in Israel - Strict warning to Sri Lankans
-
-*2024-10-01 23:53:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-பதற்றம்-இலங்கையர்களுக்கு-கடுமையான-எச்சரிக்கை/175-344784) · `ta`
-
-Israel-Iran conflict: Sri Lankans warned to stay safe, avoid travel, follow defense ministry instructions.
-
-🟩
-
-The Israeli military has reported that Iran is launching a missile attack on Israel in response to Israel's continued attack on Lebanon.
-
-At this juncture, Sri Lankan Ambassador to Israel Nimal Bandara has issued a special announcement that all Sri Lankan citizens in Israel will remain in safe places until the announcement.
-
-It has been advised to protect themselves from unnecessary trips and follow the instructions of the Ministry of Defense and PIBA.
-
-Similarly, the Sri Lankan Ambassador to Israel said to keep the essential food, medicine and water nearby.. Remble
-
-◼️
-
-[Data](articles/0c91d60e.json)
-
-[Extended Data](ext_articles/0c91d60e.ext.json)
-
----
-
-### Russian Ambassador to meet the president
-
-*2024-10-01 23:45:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ரஷ்ய-தூதுவர்/175-344783) · `ta`
-
-Russian Ambassador Levan Jagarian met Sri Lankan President Anura Kumara Dissanayake. Jagarian congratulated Dissanayake and arranged a personal greeting from Russian President Putin. Both leaders emphasized strengthening bilateral ties, focusing on trade, investment, culture, and education cooperation.
-
-🟩
-
-Russian Ambassador to Sri Lanka. Jagarian (Levan s. Dzhangaryan) President Anurakumara Dissanayake met with President's Office at the Presidential Office this morning.
-
-Ambassador to the newly elected President Dissanayake at the meeting. Jagaryan congratulated him and presented President Anura Kumara Dissanayake to Russian President Vladimir Putin's personal greeting.
-
-President Putin stated in his message that the bilateral relations between the two countries, led by President Anura Dissanayake, are expected to strengthen.
-
-Special attention was paid to the further strengthening of long -term bilateral relations between Sri Lanka and Russia and re -confirmed the commitment of both sides to improve diplomatic relations and the importance of cooperation in key sectors such as trade, investment, culture and education.
-
-◼️
-
-[Data](articles/dce042f7.json)
-
-[Extended Data](ext_articles/dce042f7.ext.json)
 
 ---

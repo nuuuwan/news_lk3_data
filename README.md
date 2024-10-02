@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 09:38:44**
+As of **2024-10-02 09:58:11**
 
 ## Newspaper Stats
 
-*Scraped **47,334** Articles*
+*Scraped **47,336** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 392
+dbsjeyarajcom | 393
 bbccomsinhala | 467
 colombotelegraphcom | 473
 islandlk | 2,786
@@ -19,34 +19,64 @@ adalk | 4,380
 dailymirrorlk | 4,733
 adaderanalk | 5,567
 tamilmirrorlk | 6,357
-virakesarilk | 7,567
+virakesarilk | 7,568
 adaderanasinhalalk | 8,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,333 (100.0%) of 47,334 articles have been extended.
+47,336 (100.0%) of 47,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
 
+### Political parties must unite and determine new directions for future politics - Jaffna. Calling the Catholic Diocese of Priests
+
+*2024-10-02 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195285) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil political parties urged unity ahead of Jaffna parliamentary election. Catholic Diocese calls for new directions, rejecting internal conflicts and corruption. Emphasizes need for change, gender equality, and youth leadership.
+
+🟩
+
+Political parties should unite and determine new directions for future politics. The Catholic Diocese of Priests Union has called.
+
+The upcoming parliamentary election Jaffna. This is stated in the media report of the Catholic Diocese of the Diocese
+
+The Tamil people are the Tamil political parties, in order to make a new change, we are standing in a historical leap as a race.. In the wake of the ongoing presidential election, the upcoming parliamentary elections have provoked expectations for giants among the Tamil people.
+
+The tendencies of contemporary political parties, internal chaos and decisive political vague, are prolonging confusion and pain among the Tamil people.. If this is the case, there will be a significant number of Tamil parliamentary representatives in the upcoming parliamentary election.
+
+...
+
+[Data](articles/a21d8251.json)
+
+[Extended Data](ext_articles/a21d8251.ext.json)
+
+---
+
 ### ADB President reaffirms commitment to deepening cooperation with Sri Lanka
 
 *2024-10-02 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102391/adb-president-reaffirms-commitment-to-deepening-cooperation-with-sri-lanka) · `en`
 
-President of the Asian Development Bank (ADB), Mr. Masatsugu Asakawa, congratulated President Anura Kumara Dissanayake on his election as the President of the Democratic Socialist Republic of Sri Lanka.
+President of the Asian Development Bank (ADB), Mr. Masatsugu Asakawa, congratulated President Anura Kumara Dissanayake on his election as the President of Sri Lanka, the President’s Media Division (PMD) said.
 
 In his message, Mr. Asakawa warmly welcomed the President as ADB Governor for Sri Lanka.
 
-Mr. Asakawa praised the people of Sri Lanka for conducting a peaceful and orderly democratic election and highlighted the longstanding partnership between ADB and Sri Lanka, which has existed since the Bank’s establishment in 1966. Over the years, ADB has been a steadfast partner in addressing Sri Lanka’s challenges and, during the current economic crisis, has provided crucial budgetary support to strengthen reform initiatives and alleviate the hardships faced by the country’s most vulnerable populations.
+Mr. Asakawa praised the people of Sri Lanka for conducting a peaceful and orderly democratic election and highlighted the longstanding partnership between ADB and Sri Lanka, which has existed since the Bank’s establishment in 1966.
 
-The ADB President emphasized the vital role of President Dissanayake’s leadership in stabilizing the economy and steering it towards a more inclusive, sustainable, and resilient future.
+Over the years, ADB has been a steadfast partner in addressing Sri Lanka’s challenges and, during the current economic crisis, has provided crucial budgetary support to strengthen reform initiatives and alleviate the hardships faced by the country’s most vulnerable populations.
 
 ...
 
 [Data](articles/f32ff470.json)
+
+[Extended Data](ext_articles/f32ff470.ext.json)
 
 ---
 
@@ -2227,27 +2257,5 @@ Human sovereignty of the people's sovereignty as the President of Sri Lanka. The
 [Data](articles/57955abe.json)
 
 [Extended Data](ext_articles/57955abe.ext.json)
-
----
-
-### Nimal Siripala is unable to quit politics
-
-*2024-10-01 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201730) · `si`
-
-Nimal Siripala de Silva, former minister, claims ready to leave politics but feels obligated due to long political career.
-
-🟩
-
-Former Minister Nimal Siripala de Silva says he is ready to leave politics without any problems.
-
-Speaking to the media, he added that the party and the party of politics with him and the party cannot leave politics.
-
-"I can leave this, I can have no problem. You've been politics for 35 years with us. The only question I have is about 35 years of politics alone, I have the question that I can go to leave. So the winning is not the case. So when I inquired about this, I asked so much that I was saying that I wanted to come to the competition. "
-
-◼️
-
-[Data](articles/aa0920a9.json)
-
-[Extended Data](ext_articles/aa0920a9.ext.json)
 
 ---

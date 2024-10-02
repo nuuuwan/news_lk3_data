@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 20:10:05**
+As of **2024-10-02 20:23:13**
 
 ## Newspaper Stats
 
-*Scraped **47,439** Articles*
+*Scraped **47,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,185
 adalk | 4,390
 dailymirrorlk | 4,733
 adaderanalk | 5,582
-tamilmirrorlk | 6,385
+tamilmirrorlk | 6,386
 virakesarilk | 7,582
 adaderanasinhalalk | 8,205
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,439 (100.0%) of 47,439 articles have been extended.
+47,439 (100.0%) of 47,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### திடீரென மூடப்படும் மதுபானசாலைகள்
+
+*2024-10-02 19:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-மூடப்படும்-மதுபானசாலைகள்/175-344825) · `ta`
+
+உலக மது ஒழிப்பு தினத்தை முன்னிட்டு நாடளாவிய ரீதியில் உள்ள அனைத்து மதுபானசாலைகளையும் நாளையதினம் (03) மூடுமாறு மதுவரித் திணைக்கள ஆணையாளர் நாயகம் உத்தரவிட்டுள்ளார்.
+
+இதேவேளை மதுபானத்துடன் தொடர்புடைய குற்றங்கள் மற்றும் போதைப்பொருளுடன் தொடர்புடைய முறைப்பாடுகளை அறிவிப்பதற்கு மதுவரித் திணைக்களத்தின் செயற்பாட்டு அறையுடன் இணைக்கப்பட்டுள்ள 1913 என்ற தொலைபேசி இலக்கம் 24 மணிநேரமும் பொதுமக்களுக்காகத் செயற்பாட்டில் இருக்கும் என மதுவரித் திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/05af9b9a.json)
+
+---
 
 ### Youth arrested with ice drug
 
@@ -79,6 +93,10 @@ It is further reported that if the former MPs are unable to obtain the ‘Gas Cy
 ### Assessed in India's anti-corruption program
 
 *2024-10-02 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201775) · `si`
+
+India supports Sri Lanka's development, emphasizing anti-corruption efforts and digitalization programs.
+
+🟩
 
 President Anura Kumara Dissanayake and Sri Lanka General Commissioner Sanantha Jaha had met with Sansh JHA (2).
 
@@ -2431,27 +2449,5 @@ Over the years, ADB has been a steadfast partner in addressing Sri Lanka’s cha
 [Data](articles/f32ff470.json)
 
 [Extended Data](ext_articles/f32ff470.ext.json)
-
----
-
-### Iran says attack on Israel is over as fears grow of wider conflict
-
-*2024-10-02 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102390/iran-says-attack-on-israel-is-over-as-fears-grow-of-wider-conflict) · `en`
-
-Iran said early on Wednesday that its missile attack on Israel was over barring further provocation, while Israel and the U.S. promised to retaliate against Tehran as fears of a wider war intensified.
-
-Washington said it would work with longtime ally Israel to make sure Iran faced “severe consequences” for Tuesday’s attack, which Israel said involved more than 180 ballistic missiles.
-
-The United Nations Security Council scheduled a meeting about the Middle East for Wednesday, and the European Union called for an immediate ceasefire.
-
-“Our action is concluded unless the Israeli regime decides to invite further retaliation. In that scenario, our response will be stronger and more powerful,” Iranian Foreign Minister Abbas Araqchi said in a post on X early on Wednesday.
-
-Israel renewed its bombardment early on Wednesday of Beirut’s southern suburbs, a stronghold of the Iran-backed armed Hezbollah group, with at least a dozen airstrikes against what it said were targets belonging the group.
-
-...
-
-[Data](articles/56ddad5f.json)
-
-[Extended Data](ext_articles/56ddad5f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 05:08:28**
+As of **2024-10-03 05:23:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,480 (100.0%) of 47,484 articles have been extended.
+47,484 (100.0%) of 47,484 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The Australian Government reassured its support in key areas, including mari
 
 [Data](articles/9ab072be.json)
 
+[Extended Data](ext_articles/9ab072be.ext.json)
+
 ---
 
 ### Japanese Ambassador assures support to President
@@ -63,6 +65,8 @@ Ambassador Mizukoshi lauded the President’s focus on eradicating corruption an
 ...
 
 [Data](articles/b7d67dca.json)
+
+[Extended Data](ext_articles/b7d67dca.ext.json)
 
 ---
 
@@ -82,6 +86,8 @@ The High Commissioner highlighted corruption and the lack of safety as significa
 
 [Data](articles/65fe39f6.json)
 
+[Extended Data](ext_articles/65fe39f6.ext.json)
+
 ---
 
 ### British envoy conveys UK’s best wishes and support to new President
@@ -97,6 +103,8 @@ The High Commissioner expressed the British Government’s strong support for Sr
 ◼️
 
 [Data](articles/55487a6a.json)
+
+[Extended Data](ext_articles/55487a6a.ext.json)
 
 ---
 

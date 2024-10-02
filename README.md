@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 12:24:16**
+As of **2024-10-02 12:38:30**
 
 ## Newspaper Stats
 
-*Scraped **47,368** Articles*
+*Scraped **47,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,882
 dailyftlk | 3,185
-adalk | 4,383
+adalk | 4,384
 dailymirrorlk | 4,733
-adaderanalk | 5,571
+adaderanalk | 5,572
 tamilmirrorlk | 6,370
 virakesarilk | 7,573
-adaderanasinhalalk | 8,187
+adaderanasinhalalk | 8,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,368 (100.0%) of 47,368 articles have been extended.
+47,372 (100.0%) of 47,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Curry prices in the world market
+
+*2024-10-02 12:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201756) · `si`
+
+Here's a 200-character summary:
+
+
+
+Middle East conflicts drive up global oil prices. Iran-Iraq tensions increase crude costs. Brent crude hits $74.40. Iran, 7th largest oil producer, impacts 20% of world fuel supply via strategic waterway.
+
+🟩
+
+Middle East conflicts have developed the Middle East conflicts due to the missile attacks targeted by Iran.
+
+The international media reports that crude oil prices have increased in the world market.
+
+The price of a barrel of Brent crude oil was increased to $ 74.40.
+
+Iran is the 7th largest fuel manufacturer in the world. The third largest fuel manufacturer of OPEC is the third largest fuel manufacturer.
+
+Trade sources said that if conflicts further expand the conflicts, the traffic can be hindered through the Strait.
+
+The sea between Iran and Oman are a major contributor to the world fuel trade, which is about 20% of the world fuel supply.
+
+Other OPEC member countries, Saudi Arabia, UAE users use this marine path to transport its fuel.
+
+◼️
+
+[Data](articles/66681bd9.json)
+
+[Extended Data](ext_articles/66681bd9.ext.json)
+
+---
+
+### Curry prices in the world market
+
+*2024-10-02 12:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201757) · `si`
+
+Here's a 200-character summary:
+
+
+
+Middle East conflicts drive oil price surge. Iran-Iraq tensions increase crude costs. Brent crude hits $74.40. Strait of Hormuz crucial for global fuel supply. OPEC members rely on this sea route for oil transport.
+
+🟩
+
+Middle East conflicts have developed the Middle East conflicts due to the missile attacks targeted by Iran.
+
+The international media reports that crude oil prices have increased in the world market.
+
+The price of a barrel of Brent crude oil was increased to $ 74.40.
+
+Iran is the 7th largest fuel manufacturer in the world. The third largest fuel manufacturer of OPEC is the third largest fuel manufacturer.
+
+Trade sources said that if conflicts further expand the conflicts, the traffic can be hindered through the Strait.
+
+The sea between Iran and Oman are a major contributor to the world fuel trade, which is about 20% of the world fuel supply.
+
+Other OPEC member countries, Saudi Arabia, UAE users use this marine path to transport its fuel.
+
+◼️
+
+[Data](articles/669c3751.json)
+
+[Extended Data](ext_articles/669c3751.ext.json)
+
+---
 
 ### Meeting between Indian High Commission and All Ceylon Peoples Congress
 
@@ -111,6 +179,20 @@ The selling rate of the US Dollar has dropped below the Rs. 300 mark for the fir
 [Data](articles/0fd09ed3.json)
 
 [Extended Data](ext_articles/0fd09ed3.ext.json)
+
+---
+
+### USD selling rate drops below Rs. 300 for first time in over 15 months
+
+*2024-10-02 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102395/usd-selling-rate-drops-below-rs-300-for-first-time-in-over-15-months) · `en`
+
+The selling rate of the US Dollar has dropped below the Rs. 300 mark for the first time since June 8, 2023.
+
+◼️
+
+[Data](articles/266f7d20.json)
+
+[Extended Data](ext_articles/266f7d20.ext.json)
 
 ---
 
@@ -219,6 +301,26 @@ The case has been filed against Patali Champika Ranawaka on the 28th of February
 [Data](articles/f0a7b0fb.json)
 
 [Extended Data](ext_articles/f0a7b0fb.ext.json)
+
+---
+
+### Roshan Ranasinghe appointed party chairman
+
+*2024-10-02 11:33:23* · [`adalk`](https://www.ada.lk/breaking_news/රොෂාන්-රණසිංහට-පක්ෂ-සභාපති-ධුරයක්/11-412270) · `si`
+
+Roshan Ranasinghe joins People's Republican Party as chairman. Former Sports Minister Dilinda Jayaweera leads the party. Channa Jayasumana named Vice President of Motherland.
+
+🟩
+
+Former Sports Minister Roshan Ranasinghe has joined the People's Republican Party (People's Rep) led by entrepreneral Dilinda Jayaweera.
+
+Former Parliamentarian Professor Channa Jayasumana has been appointed as the Vice President of the Motherland.
+
+◼️
+
+[Data](articles/a66bc0aa.json)
+
+[Extended Data](ext_articles/a66bc0aa.ext.json)
 
 ---
 
@@ -2221,109 +2323,5 @@ Human sovereign executive President of the country. Mr. Sridharan also spoke wit
 [Data](articles/968efad0.json)
 
 [Extended Data](ext_articles/968efad0.ext.json)
-
----
-
-### Many information about the murder of Hanwella
-
-*2024-10-01 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201738) · `si`
-
-Hanwella businessman murdered by Lalith Kannangara. Unidentified gunman killed Vajira Nishantha. CCTV footage shows shooter. Investigations ongoing under DIG Ganga Marapana. Victim's house attacked in 2021.
-
-🟩
-
-An unidentified gun was shot dead at a businessman in Hanwella last night with no extortion.
-
-The murder was conducted by Lalith Kannangara, Lalith Kannangara, Dubai Kannangara.
-
-Those businessmen have refused to comment on the media due to fear of his death threats.
-
-Investigations are underway under the supervision of DIG Ganga Marapana in charge of all these incidents.
-
-An unidentified gunman had been assassinated by an unidentified gunman at Neluwala, Neluwakadu, Hanwella last night last night.
-
-A CCTV camera has been recorded in a CCTV's way to arise from a wall of the house for the crime and the shotter.
-
-Vajira Nishantha, who was injured in the shooting, died on admission to the Avissawella Base Hospital.
-
-The victim's house was shot in 2021 and was set on fire to his business.
-
-Lalith Kannangara has previously demanded ransom from the businessman who had previously had to pay the money and had been threatened with family members.
-
-...
-
-[Data](articles/d0f29840.json)
-
-[Extended Data](ext_articles/d0f29840.ext.json)
-
----
-
-### 167 laws were enacted in the ninth parliament
-
-*2024-10-01 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195271) · `ta`
-
-Ninth Parliament enacted 167 laws from 2020 to 2024, including key acts like Election, Anti-Corruption, and Central Bank legislation.
-
-🟩
-
-Opened on August 20, 2020, 167 laws were enacted during the Ninth Parliament, which was dissolved on 24th September, 2024.
-
-2020 government laws, 30 government laws in 2021, 44 government laws in 2022, 2 private members, 29 government laws in 2023, 05 private members, 36 government laws and 21 private laws.
-
-Accordingly, the Elections Act No. 03 of 2023, the Parliamentary Budget Office Act No. 06 of 2023, the Anti -Corruption Act No. 09 of 2023, No. 16 of the Central Bank Act of 2023, 2023Yes, Elections (Special Provisions) Act,
-
-Anti -Corruption Act No. 28 of 2023, Ceylon Act No. 09 of 2024, Ceylon Electricity Act No. 36 of 2024, Public Finance Management Act No. 44 of 2024The Transformation Act, including the 9th Parliament, is significant laws.
-
-◼️
-
-[Data](articles/a4a8339d.json)
-
-[Extended Data](ext_articles/a4a8339d.ext.json)
-
----
-
-### The national people's power will win the general election;Do not provide a two -thirds majority - Udaya Kammanpila
-
-*2024-10-01 19:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195269) · `ta`
-
-Udaya Kammanpila predicts National People's Power victory in general election. He advises against two-thirds majority, citing potential political crises. Former presidents' experiences with such majorities are cited as examples.
-
-🟩
-
-National People's Power Wins in the General Election. People should provide the simple majority strength. Udaya Kammanpila, a former leader of the Pivithuru Hela Urumaya (Hela Urumaya Party), said that the government and the country would be affected if the two -thirds majority was given.
-
-He was speaking to the media after attending an event in Colombo on Tuesday (1).
-
-The best decision is that the security provided to former MPs. If you get state security. We are not currently people's representatives, so there is no need for special security.
-
-The government refers to the cancellation of the pension paid to former MPs.Many of the former parliamentarians have renounced state high positions before entering politics. They can no longer join public service. Therefore, the government should re -review the decision taken on the Oyuya Payment.
-
-...
-
-[Data](articles/e541f4ff.json)
-
-[Extended Data](ext_articles/e541f4ff.ext.json)
-
----
-
-### Second phase of BIA development and TV broadcast digitization projects to recommence with JICA support
-
-*2024-10-01 19:38:00* · [`islandlk`](http://island.lk/second-phase-of-bia-development-and-tv-broadcast-digitization-projects-to-recommence-with-jica-support/) · `en`
-
-The Chief Representative of the Japan International Cooperation Agency (JICA), Mr. Yamada Tetsuya, along with a delegation of senior representatives, met with the Secretary to the President Dr. Nandika Sanath Kumanayake, this afternoon (01) at the Presidential Secretariat.
-
-The discussion focused on recommencing the second phase of the Bandaranaike International Airport (BIA) Development Project, implemented by JICA, and the launch of the Terrestrial Television Broadcast Digitization Project.
-
-At a recent meeting with the Secretary to the President, the Japanese Ambassador emphasized the need for the swift completion of 11 projects supported by JICA.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/a4bbf2fc.json)
-
-[Extended Data](ext_articles/a4bbf2fc.ext.json)
 
 ---

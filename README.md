@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 15:38:51**
+As of **2024-10-02 15:57:40**
 
 ## Newspaper Stats
 
-*Scraped **47,399** Articles*
+*Scraped **47,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,889
 dailyftlk | 3,185
-adalk | 4,386
+adalk | 4,387
 dailymirrorlk | 4,733
-adaderanalk | 5,577
+adaderanalk | 5,578
 tamilmirrorlk | 6,375
 virakesarilk | 7,575
 adaderanasinhalalk | 8,195
@@ -26,41 +26,77 @@ adaderanasinhalalk | 8,195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,397 (100.0%) of 47,399 articles have been extended.
+47,401 (100.0%) of 47,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
 
-### இலங்கைப் பிரஜைக்கு பாதிப்பில்லை
+### No reports of Sri Lankans in Israel affected by Iran attacks - envoy
+
+*2024-10-02 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102401/no-reports-of-sri-lankans-in-israel-affected-by-iran-attacks-envoy) · `en`
+
+The Sri Lankan Embassy in Tel Aviv has issued an announcement to all Sri Lankan nationals residing in Israel in the wake of the Iran missile attacks on Israel.
+
+The embassy had yesterday advised Sri Lankans living in Israel to remain in safe shelters during the attacks, while they were also instructed to keep stocks of essential food items and medicines.
+
+Iran had launched at least 180 missiles into Israel, the latest in a series of escalating attacks in a yearslong conflict between Israel and Iran and its Arab allies.
+
+However, the Sri Lankan Ambassador to Israel, Nimal Bandara says that it has not been reported that any Sri Lankans have been harmed by the attacks.
+
+Iran launched missiles targeting Israel, the military said Tuesday (01), following US warnings that an Iranian attack was imminent.
+
+Iran described the campaign as defensive and solely aimed at Israeli military facilities. Iran’s state news agency said three Israeli military bases had been targeted.
+
+...
+
+[Data](articles/f589e2f7.json)
+
+[Extended Data](ext_articles/f589e2f7.ext.json)
+
+---
+
+### Sri Lankan citizen is not harmed
 
 *2024-10-02 15:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைப்-பிரஜைக்கு-பாதிப்பில்லை/175-344813) · `ta`
 
-இஸ்ரேல் மீது ஈரானியப் படைகள் நடத்தியதாகக் கூறப்படும் தாக்குதலைத் தொடர்ந்து இலங்கைப் பிரஜைகள் மத்தியில் காயங்களோ உயிரிழப்புகளோ பதிவாகவில்லை என இஸ்ரேலுக்கான இலங்கைத் தூதுவர் நிமல் பண்டார உறுதிப்படுத்தினார்.
+Sri Lankan citizens unharmed: No injuries reported among Sri Lankans after alleged Israeli strike on Iranian forces.
+
+🟩
+
+Sri Lankan Ambassador to Israel Nimal Bandara confirmed that there were no injuries or casualties among Sri Lankan nationals following the alleged attack on Iranian forces on Israel.
 
 ◼️
 
 [Data](articles/2da589b9.json)
 
+[Extended Data](ext_articles/2da589b9.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවේදී ලැබූ ටෙස්ට් පරාජයෙන් පසු නවසීලන්ත නායකයා ගත් තීරණය
+### New Zealand leader was taken after the Test defeat in Sri Lanka
 
 *2024-10-02 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201764) · `si`
 
-ශ්‍රී ලංකාව සමග පැවති තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලිය පරාජය වීමත් සමගම නවසීලන්ත නායක ටීම් සවූති නායකත්වයෙන් අස්වීමට තීරණය කර තිබේ.
+New Zealand cricket captain resigns after losing two tests to Sri Lanka. He cites team benefit for decision. Led NZ in 14 tests, winning 6 and drawing 2. Team lost by 63 runs in both matches.
 
-සවූති පවසන්නේ කණ්ඩායමේ යහපත වෙනුවෙන් ඔහු එම තීරණය ගන්නා බවයි.
+🟩
 
-2022 වසරේදී කේන් විලියම්සන් ටෙස්ට් නායකත්වයෙන් ඉල්ලා අස්වුණු අතර පසුව නායකත්වය ටීම් සවුති ට පැවරිණි.
+With the defeat of two matches with Sri Lanka, New Zealand leader Tim has decided to resign.
 
-ඔහු ටෙස්ට් තරග 14කදී නවසීලන්ත කණ්ඩායම මෙහෙයවා ඇති අතර ඉන් තරග 6ක් ජයගෙන 6ක් පරාජය විය. තරග 2ක් ජයපරාජයෙන් තොරව අවසන් වුණි.
+The Sangha says that he will take that decision for the benefit of the group.
 
-ශ්‍රී ලංකාව සමග ගාල්ලේ පැවති පළමු ටෙස්ට් තරගය ලකුණු 63කින් පරාජය වූ නවසීලන්ත කණ්ඩායම දෙවැනි තරගය ඉනිමකින් සහ ලකුණු 154කින් පරාජය විය.
+In 2022, Khan Williamson resigned from Test leadership and was later led by leadership.
+
+He has led the New Zealand team in 14 Tests, and 6 matches won six. Two matches ended without the Jayatakera.
+
+New Zealand team defeated by 63 runs with Sri Lanka, New Zealand team defeated by 63 runs in their innings and 154 runs.
 
 ◼️
 
 [Data](articles/be5e9a0c.json)
+
+[Extended Data](ext_articles/be5e9a0c.ext.json)
 
 ---
 
@@ -109,6 +145,30 @@ President Anura Kumara Dissanayake has time to prove his allegations, ”Rajapak
 [Data](articles/97d52a72.json)
 
 [Extended Data](ext_articles/97d52a72.ext.json)
+
+---
+
+### Dates for the release of water for Maha season
+
+*2024-10-02 14:26:37* · [`adalk`](https://www.ada.lk/breaking_news/මහ-කන්නය-සඳහ-ජලය-නිකුත්-කිරීම-සඳහා-දින-නියම-කරයි/11-412273) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Ministry of Agriculture announces water release dates for Maha season: Water will be issued starting from the 15th. Note: There is a water shortage."
+
+🟩
+
+The Ministry of Agriculture said that the issuance of water for the Mahakan this year will be released from the 15th.
+
+The Ministry said that there is a water destruction.
+
+◼️
+
+[Data](articles/b3744a79.json)
+
+[Extended Data](ext_articles/b3744a79.ext.json)
 
 ---
 
@@ -2333,39 +2393,5 @@ During the event, the leadership team highlighted the WCIC’s enduring commitme
 [Data](articles/4da78a5b.json)
 
 [Extended Data](ext_articles/4da78a5b.ext.json)
-
----
-
-### Go for the low hanging fruit, Mr. President
-
-*2024-10-02 00:33:54* · [`dailyftlk`](https://www.ft.lk/columns/Go-for-the-low-hanging-fruit-Mr-President/4-767406) · `en`
-
-You are now the hope of those seven million pleading for a better quality of life
-
-Your opponents’ claim was that you lack experience in the top job, they are correct. You do not have the experience of bringing down an entire economy, you do not have the experience of corrupt practices or poor governance. However, you have been able to observe these taking place over the years and that should have given you lessons and insights to bring such practices to an end. So never fear to try the untested
-
-As they say in the classics, it’s done and dusted. Your long cherished dream of leading your country has come to fruition. It has been a long struggle from your humble beginnings in the village of Tambuttegama to the Presidential Palace in Colombo. Yet you have not lost your humility and simple way of life and the kitchen staff at President’s House will need to change menus to village style rice and curry dishes instead of French cuisines including award winning wines.
-
-...
-
-[Data](articles/986e920f.json)
-
-[Extended Data](ext_articles/986e920f.ext.json)
-
----
-
-### Date of LG election from tourism point of view
-
-*2024-10-02 00:27:02* · [`dailyftlk`](https://www.ft.lk/opinion/Date-of-LG-election-from-tourism-point-of-view/14-767404) · `en`
-
-Congratulations on your victory which not only belongs to you, but it is a very strong demonstration of how powerful the democratic process is here in Sri Lanka. Now the field is wide open for any underdogs to enter the race in the future. It was truly ground breaking in every possible way.
-
-It was said that the just completed election was the most peaceful. Erik Solheim, former Norwegian Minister said, this election is a lesson for Western nations. Yet we all saw just a couple of days before the election US issued a travel advisory for its travellers. Just imagine that! People of this country completed the most peaceful election in the country ever had, yet US issued a travel advisory. Thankfully that advisory came in the last minute and the rest of the nations did not follow. Anyone dealing with travel advisories knows that they are contagious, when one country imposes them, other countries follow soon. As the saying goes “beggars can’t be choosers”, this is sadly our state.
-
-...
-
-[Data](articles/435cf5e2.json)
-
-[Extended Data](ext_articles/435cf5e2.ext.json)
 
 ---

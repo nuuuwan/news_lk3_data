@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 08:36:57**
+As of **2024-10-02 08:21:33**
 
 ## Newspaper Stats
 
-*Scraped **47,320** Articles*
+*Scraped **47,318** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 392
-bbccomsinhala | 467
+bbccomsinhala | 466
 colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,882
 dailyftlk | 3,185
-adalk | 4,378
+adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
 tamilmirrorlk | 6,354
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,318 (100.0%) of 47,320 articles have been extended.
+47,318 (100.0%) of 47,318 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -477,24 +477,6 @@ Acting Controller General Balasuriya is a special Grade Officer of the Sri Lanka
 [Data](articles/bf03dd40.json)
 
 [Extended Data](ext_articles/bf03dd40.ext.json)
-
----
-
-### සිවිල් කටයුතු සඳහා හමුදාව කැඳවූයේ ඇයි?: 'ජනපති කරුණු පැහැදිලි කළ යුතු යි'
-
-*2024-10-02 02:03:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz0481dzrnko) · `si`
-
-සිවිල් කටයුතු සඳහා හමුදාව කැඳවූයේ ඇයි?: 'ජනපති කරුණු පැහැදිලි කළ යුතු යි'
-
-රට තුළ කැරලි කෝලාහල ඇති වන අවස්ථාවකදී ඒවා පාලනය සඳහා සිවිල් රාජකාරිවලට, එසේත් නොමැති නම් සාමාන්‍යයෙන් පොලිසිය විසින් සිදු කරනු ලබන රාජකාරී සඳහා සන්නද්ධ හමුදා කැඳවීමේ විශේෂිත බලයක් (40 වන අධිකාරිය වූ) මහජන ආරක්ෂක පනතේ 12 වන වගන්තියෙන් විධායක ජනාධිපතිවරයා සතුව තිබේ.
-
-එම බලය උපයෝගී කරගෙන නව ජනාධිපති අනුර කුමාර දිසානායක ද ශ්‍රී ලංකාවේ සියලු ම පරිපාලන දිස්ත්‍රික්ක සහ මුහුදු තීරයක් සහිත දිස්ත්‍රික්කවල දේශීය ජල තීරයටත් බලපැවැත්වෙන පරිදි රාජකාරි සඳහා සන්නද්ධ හමුදාවල සියලු ම සාමාජිකයන් කැඳවා තිබේ.
-
-රට තුළ කැරලි කෝලාහල තත්ත්වයක් නොමැති පසුබිමකදී ජනාධිපතිවරයා එවැනි ගැසට්ටුවක් නිකුත් කිරීමේ අවශ්‍යතාව කුමක් ද? මේ, ඒ සම්බන්ධයෙන් බීබීසී සිංහල සේවය කළ සොයා බැලීමකි.
-
-...
-
-[Data](articles/7aec9e2b.json)
 
 ---
 
@@ -955,24 +937,6 @@ Arrangements have been made to re -submit 19 vehicles and 15 of them have been h
 [Data](articles/dee0fc94.json)
 
 [Extended Data](ext_articles/dee0fc94.ext.json)
-
----
-
-### රජයේ ආයතනවලින් ජනාධිපති කාර්යාලයට ගත් වාහන නැවත එම ආයතනවලට
-
-*2024-10-01 21:19:33* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ආයතනවලින්-ජනාධිපති-කාර්යාලයට-ගත්-වාහන-නැවත-එම-ආයතනවලට/11-412264) · `si`
-
-පසුගිය සමයේ අමාත්‍යාංශ, දෙපාර්තමේන්තු ඇතුළු විවිධ රජයේ ආයතනවලින් ජනාධිපති කාර්යාලයට රැගෙන විත් තිබූ වාහන නැවත එම ආයතනවලට භාරදීම අද (01) පස්වරුවේ ජනාධිපති කාර්යාලය අසළ එම වාහන නවතා තිබූ පරිශ්‍රයේ දී සිදු විය.
-
-ඒ අනුව අද වාහන 19ක් නිදහස් කිරීමට කටයුතු කෙරුණු අතර එයින් වාහන 15ක් පමණ පූර්ව දැනුම් දීමකට අනුව එම ස්ථානයට පැමිණි අදාළ ආයතනවල නිලධාරීන් අද දිනම රැගෙන යනු ලැබීය.
-
-මාර්ග සංවර්ධන අධිකාරියෙන් ලබාගත් වාහන 08ක්, මුදල් අමාත්‍යාංශයෙන් ලබාගත් වාහන 03ක්, දකුණු පළාත් සභාවෙන්, ප්‍රවාහන හා සිවිල් ගුවන්සේවා අමාත්‍යාංශයෙන් සහ වනජීවි දෙපාර්තමේන්තුවෙන් ලබාගත් වාහන 01 බැගින් සම්පූර්ණ වාහන 15ක් අද දින මෙලෙස ආදළ ආයතනවලට නැවත ලබාදීම සිදු විය.
-
-මෙම අවස්ථාවට ජනාධිපති කාර්යාලයේ ජ්‍යෙෂ්ඨ අතිරේක ලේකම් රොෂාන් ගමගේ, අතිරේක ලේකම් මහේෂ් හේවාවිතාරණ යන මහත්වරු ඇතුළු පිරිසක් එක්ව සිටියහ.
-
-◼️
-
-[Data](articles/99234637.json)
 
 ---
 
@@ -2213,5 +2177,43 @@ They also said that although the appeal was filed at various levels, the Human R
 [Data](articles/d313ded1.json)
 
 [Extended Data](ext_articles/d313ded1.ext.json)
+
+---
+
+### School bus catches fire in Thailand, 25 feared dead
+
+*2024-10-01 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102378/school-bus-catches-fire-in-thailand-25-feared-dead) · `en`
+
+About 25 people were feared dead in Thailand on Tuesday when a school bus carrying students and teachers on a field trip caught fire on the outskirts of the capital Bangkok, with 16 passengers hospitalised, the government said.
+
+Police could not immediately confirm the number of injuries or deaths but Interior Minister Anutin Charnvirakul told reporters about 25 people were believed to have been killed, without elaborating.
+
+Sixteen students and three teachers were sent to a hospital for treatment, Transport Minister Suriya Juangroongruangkit said, adding the causes of the incident were still be investigated.
+
+Early images posted on social media and carried by local news outlets showed thick grey smoke pouring out of the bus, parts of which were still on fire.
+
+The blaze was later extinguished. A Reuters photographer saw fire trucks, police and rescue vehicles parked around the blackened vehicle, with a cluster of firefighters at the entrance.
+
+...
+
+[Data](articles/373a84f9.json)
+
+[Extended Data](ext_articles/373a84f9.ext.json)
+
+---
+
+### Bus fares reduced
+
+*2024-10-01 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102377/bus-fares-reduced) · `en`
+
+Bus fares have been reduced by 4.24%, effective from midnight today (Oct. 01), according to the National Transport Commission (NTC).
+
+Meanwhile, the minimum fare has been reduced by one rupee to Rs. 27.
+
+◼️
+
+[Data](articles/75e6b192.json)
+
+[Extended Data](ext_articles/75e6b192.ext.json)
 
 ---

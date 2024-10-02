@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 09:23:35**
+As of **2024-10-02 09:38:44**
 
 ## Newspaper Stats
 
-*Scraped **47,333** Articles*
+*Scraped **47,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,882
 dailyftlk | 3,185
 adalk | 4,380
 dailymirrorlk | 4,733
-adaderanalk | 5,566
+adaderanalk | 5,567
 tamilmirrorlk | 6,357
 virakesarilk | 7,567
 adaderanasinhalalk | 8,182
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,182
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,333 (100.0%) of 47,333 articles have been extended.
+47,333 (100.0%) of 47,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### ADB President reaffirms commitment to deepening cooperation with Sri Lanka
+
+*2024-10-02 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102391/adb-president-reaffirms-commitment-to-deepening-cooperation-with-sri-lanka) · `en`
+
+President of the Asian Development Bank (ADB), Mr. Masatsugu Asakawa, congratulated President Anura Kumara Dissanayake on his election as the President of the Democratic Socialist Republic of Sri Lanka.
+
+In his message, Mr. Asakawa warmly welcomed the President as ADB Governor for Sri Lanka.
+
+Mr. Asakawa praised the people of Sri Lanka for conducting a peaceful and orderly democratic election and highlighted the longstanding partnership between ADB and Sri Lanka, which has existed since the Bank’s establishment in 1966. Over the years, ADB has been a steadfast partner in addressing Sri Lanka’s challenges and, during the current economic crisis, has provided crucial budgetary support to strengthen reform initiatives and alleviate the hardships faced by the country’s most vulnerable populations.
+
+The ADB President emphasized the vital role of President Dissanayake’s leadership in stabilizing the economy and steering it towards a more inclusive, sustainable, and resilient future.
+
+...
+
+[Data](articles/f32ff470.json)
+
+---
 
 ### Iran says attack on Israel is over as fears grow of wider conflict
 
@@ -2231,23 +2249,5 @@ Speaking to the media, he added that the party and the party of politics with hi
 [Data](articles/aa0920a9.json)
 
 [Extended Data](ext_articles/aa0920a9.ext.json)
-
----
-
-### TNA’s Shritharan meets President Anura Kumara Dissanayake
-
-*2024-10-01 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102381/tnas-shritharan-meets-president-anura-kumara-dissanayake) · `en`
-
-Former Jaffna District MP of the Tamil National Alliance (TNA), S. Shritharan, has met with President Anura Kumara Dissanayake at the Presidential Secretariat today (01), the President’s Media Division (PMD) said.
-
-During the meeting, former MP Shritharan congratulated President Dissanayake on his election as the ninth Executive President of Sri Lanka, reflecting the will of the people.
-
-The two also engaged in a warm and friendly conversation, the statement said.
-
-◼️
-
-[Data](articles/3f75e4ed.json)
-
-[Extended Data](ext_articles/3f75e4ed.ext.json)
 
 ---

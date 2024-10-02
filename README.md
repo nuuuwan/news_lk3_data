@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 13:39:16**
+As of **2024-10-02 13:58:16**
 
 ## Newspaper Stats
 
-*Scraped **47,386** Articles*
+*Scraped **47,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 4,385
 dailymirrorlk | 4,733
 adaderanalk | 5,575
 tamilmirrorlk | 6,371
-virakesarilk | 7,573
+virakesarilk | 7,575
 adaderanasinhalalk | 8,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,383 (100.0%) of 47,386 articles have been extended.
+47,388 (100.0%) of 47,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Former MP Vino Nogarathalingam announces not contesting parliamentary elections
+
+*2024-10-02 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195311) · `ta`
+
+Former MP Vino Nogarathalingam announces non-participation in upcoming parliamentary elections due to public demand for change and youth representation.
+
+🟩
+
+Former Wanni district parliamentarian Vino Nogarathalingam says he has decided not to contest the upcoming parliamentary elections.
+
+In the last presidential election, the need for a political change was felt among the people, especially the Sinhalese majority.
+
+The result is the president of Anuragumara Dissanayake. Similarly, the Tamil people are looking for a change in the upcoming parliamentary elections in the Northeast.
+
+It means to send newcomers and young people to Parliament. We cannot prevent this change in the minds of the people.
+
+It is inevitable to give way. The main duty of political parties and leaders is to understand the feelings of the people and accept the youth and the elderly.
+
+I think the decision to not contest with mine and some other former MPs will be motivated to realize and decide.
+
+"I have decided not to contest the upcoming parliamentary general election," he said.
+
+◼️
+
+[Data](articles/c1b8adfe.json)
+
+[Extended Data](ext_articles/c1b8adfe.ext.json)
+
+---
 
 ### HC adjourns hearing of ‘hit-and-run’ case against Patali Champika till Feb. 28
 
@@ -48,25 +78,65 @@ The defence attorney further expressed that the Supreme Court, which considered 
 
 [Data](articles/5ccf7481.json)
 
+[Extended Data](ext_articles/5ccf7481.ext.json)
+
 ---
 
-### ඩෙංගු මර්දනයට කියුබාවෙන් විශේෂඥ සහාය
+### Specialist in Cuba to Eradicate Dengue
 
 *2024-10-02 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201759) · `si`
 
-ශ්‍රී ලංකා ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලංකාවේ කියුබානු තානාපති අන්ද්‍රේස් මාර්සෙලෝ ගොන්සාලෙස් ගොරිඩෝ මහතා අතර හමුවක් අද (02) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී සිදුවිය.
+Cuban Ambassador meets Sri Lankan President to strengthen ties and combat dengue fever.
 
-දෙරට අතර පවතින දීර්ඝ කාලීන රාජ්‍ය තාන්ත්‍රික සබඳතා සහ මිත්‍රත්වය ශක්තිමත් කර ගැනීම පිළිබඳව මෙම හමුවේදී අවධානය යොමු වී තිබේ.
+🟩
 
-පසුගියදා පැවති ජනාධිපතිවරණයෙන් ලබාගත් ජයග්‍රහණය පිළිබඳව මෙම සුහද සාකච්ඡාවේදී කියුබානු තානාපතිවරයා ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත සිය උණුසුම් සුබපැතුම් පිරිනමා තිබුණි.
+President of Sri Lanka Anura Kumara Dissanayake and Sri Lanka's Cuban Ambassador to Sri Lanka's Cuban Ambassador to President Alhindan ambassador to Presidential Secretariat.
 
-එමෙන්ම ජනාධිපතිවරයාගේ නායකත්වය පිළිබඳ ප්‍රශංසා කර ඇති මෙරට කියුබානු තානාපතිවරයා, ශ්‍රී ලංකාව සමඟ පවතින සහයෝගීතාව වැඩි දියුණු කිරීමට කියුබාව සූදානමින් සිටින බව ද ප්‍රකාශ කළ බව සඳහන් ය.
+Attention has been paid to strengthening the long-term diplomatic relations and friendship between the two countries.
 
-එමෙන්ම, ඩෙංගු මර්දනය සඳහා ශ්‍රී ලංකාව දරන ප්‍රයත්නයන් සඳහා කියුබානු රජය අඛණ්ඩව සහාය ලබා දෙන බව ඔහු මෙහිදී සහතික විය.
+The Cuban Ambassador had greeted the Cuban Ambassador to President Anura Kumara Dissanayake on the victory of the recent presidential election.
 
-...
+It is said that the Cuban Ambassador of the country has been praised by the President's leadership and the Cuban Ambassador of Sri Lanka is ready to improve the collaboration with Sri Lanka.
+
+He also ensured that the Cuban government continues to support Sri Lanka's efforts for dengue eradication.
+
+The Cuban Ambassador to the success of the dengue menace is also willing to share and share the necessary specialist in Sri Lanka to help the eradication of the dengue menace in Sri Lanka.
+
+◼️
 
 [Data](articles/37a2f113.json)
+
+[Extended Data](ext_articles/37a2f113.ext.json)
+
+---
+
+### Individuals who have banned land paths in the sixth phase of Trincomalee - public outrage
+
+*2024-10-02 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195308) · `ta`
+
+Trincomalee residents protest against private land ban near Lakshmi Narayanan temple. Residents claim illegal settlement established in 1982. Private individual from France claims ownership, causing public outcry and affecting local church and preschool operations.
+
+🟩
+
+Residents of the Upper area are worried that the roads near the Lakshmi Narayanan temple in the Nilavali road in Trincomalee have been banned by a private person.
+
+The residents of the Upper area say that the proceedings have been set up in front of the Eastern Governor.
+
+They said that a person who had come from France had claimed that he was a land and that such an act is currently underway.
+
+The Christian clergyman expressed his source of the issue of many people coming to the way.
+
+They also say that the Christian church and the preschool are banned due to the ban on the students' education.
+
+In 1982, we have set up legal settlements and are now claiming that one of the people of the area is worried that we have been blatantly claimed to be his land.
+
+They have been threatened with a few quarters that they have been informed of this and have been threatened by a few quarters.
+
+◼️
+
+[Data](articles/05b1492d.json)
+
+[Extended Data](ext_articles/05b1492d.ext.json)
 
 ---
 
@@ -192,17 +262,23 @@ Officials of the Bribery Commission were able to seize the vehicle only after a 
 
 ---
 
-### මල් කැකුළු 25ට මරු කැඳවූ තායිලන්තයේ බස් රථ අනතුර
+### Bus accident that killed the 25 Kakulu Kakulu
 
 *2024-10-02 12:15:40* · [`adalk`](https://www.ada.lk/breaking_news/මල්-කැකුළු-25ට-මරු-කැඳවූ-තායිලන්තයේ-බස්-රථ-අනතුර/11-412271) · `si`
 
-තායිලන්තයේ බැංකොක් නුවර පාසල් සිසුන් ප්‍රවාහනය කළ බස් රථයක් ගිනි ගැනීමට ලක්වීමෙන් කුඩා පාසල් ළමුන් 25 දෙනෙකු පමණ ජීවිතක්ෂයට පත්ව තිබේ.
+Bangkok bus crash kills 25 school children. Foreign reports claim 38 schools and six teachers were aboard.
 
-ගිනි ගැනීම සිදු වන අවස්ථාවේ බස් රථය තුළ පාසල් සිදුන් 38 දෙනෙකු සහ ගුරුවරුන් 06 දෙනෙකු සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+🟩
+
+Around 25 small school children were killed by a bus carrying school children in Bangkok, Thailand.
+
+Foreign media reports that there were 38 schools and six teachers in the bus at the time of fire.
 
 ◼️
 
 [Data](articles/bd4b0263.json)
+
+[Extended Data](ext_articles/bd4b0263.ext.json)
 
 ---
 
@@ -2241,45 +2317,5 @@ From the voting behaviour demonstrated at the last Presidential election, it was
 [Data](articles/c1129985.json)
 
 [Extended Data](ext_articles/c1129985.ext.json)
-
----
-
-### Sri Lanka Presidential election 2024: A turning point or a false dawn?
-
-*2024-10-01 23:02:33* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-Presidential-election-2024-A-turning-point-or-a-false-dawn/4-767401) · `en`
-
-AKD’s victory is seen as a triumph for those who demand a system that prioritises social welfare of the masses over the interests of a few
-
-One of the most pressing challenges facing Dissanayake’s administration is the renegotiation of Sri Lanka’s debt. The island’s economy remains shackled by billions of dollars in foreign debt, with China, Japan, and the International Monetary Fund (IMF) being its largest creditors. The austerity measures imposed by the IMF in exchange for bailout packages have further deepened the economic hardship experienced by ordinary Sri Lankans, leading to widespread resentment. Dissanayake has signalled his intention to renegotiate Sri Lanka’s debt on more favourable terms, seeking to alleviate the burden on the working class while pursuing a path of debt sustainability
-
-...
-
-[Data](articles/05b90011.json)
-
-[Extended Data](ext_articles/05b90011.ext.json)
-
----
-
-### Actor Rajinikanth suddenly admitted to hospital
-
-*2024-10-01 22:51:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகர்-ரஜினிகாந்த்-திடீரென-வைத்தியசாலையில்-அனுமதி/54-344782) · `ta`
-
-Rajinikanth hospitalized in Chennai due to stomach inflammation and potential heart-related issues. Wife says he's recovering well. Doctors expect full recovery without surgery in two days.
-
-🟩
-
-Actor Rajinikanth has been admitted to Apollo Hospital in Thousand Lights in Chennai.
-
-He was immediately rushed to Apollo Hospital, and a few news reports that Rajinikanth's stomach inflammation was the cause.
-
-On the other hand, it is reported that Rajinikanth's heart -related treatment is about to take place today. Also, the superstar's wife, Rajinikanth, seems to be saying that he is good and has no problem with fear.
-
-In this case, Rajinikanth had an inflammation in the blood vessel heading to the heart. Doctors have issued a statement saying that it is simplified without surgery and that he is currently resting with full health and he can return home in two more days.. Remble
-
-◼️
-
-[Data](articles/ddec59c7.json)
-
-[Extended Data](ext_articles/ddec59c7.ext.json)
 
 ---

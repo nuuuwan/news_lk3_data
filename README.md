@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 04:57:40**
+As of **2024-10-03 05:08:28**
 
 ## Newspaper Stats
 
-*Scraped **47,480** Articles*
+*Scraped **47,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 468
 colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,899
-dailyftlk | 3,195
+dailyftlk | 3,199
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
@@ -26,11 +26,79 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,480 (100.0%) of 47,480 articles have been extended.
+47,480 (100.0%) of 47,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Australian High Commissioner calls on President
+
+*2024-10-03 04:54:13* · [`dailyftlk`](https://www.ft.lk/news/Australian-High-Commissioner-calls-on-President/56-767487) · `en`
+
+The High Commissioner of Australia to Sri Lanka, Paul Stephens yesterday called on President Anura Kumara Dissanayake.
+
+During the discussion, the High Commissioner extended his warmest congratulations to President Dissanayake and the Government of Australia on his recent election, expressing the Australian Government’s strong commitment to deepening ties with Sri Lanka.
+
+The Australian Government reassured its support in key areas, including mari
+
+◼️
+
+[Data](articles/9ab072be.json)
+
+---
+
+### Japanese Ambassador assures support to President
+
+*2024-10-03 04:40:54* · [`dailyftlk`](https://www.ft.lk/news/Japanese-Ambassador-assures-support-to-President/56-767486) · `en`
+
+Japanese Ambassador Mizukoshi Hideaki yesterday called on President Anura Kumara Dissanayake.
+
+During their cordial meeting, Ambassador Mizukoshi extended his heartfelt congratulations to the President on his recent election victory.
+
+The Ambassador conveyed the Japanese Government’s strong commitment to further enhancing the longstanding relationship between Japan and Sri Lanka. Both leaders discussed areas of mutual interest and expressed their intention to continue working closely to strengthen ties between the two nations.
+
+Ambassador Mizukoshi lauded the President’s focus on eradicating corruption and promoting transparent governance as outlined in his manifesto, expressing Japan’s willingness to support in these initiatives. He also confirmed that Japan-funded projects, such as the Bandaranaike International Airport (BIA) expansion and the Terrestrial Television Broadcast Digitalisation project, would resume.
+
+...
+
+[Data](articles/b7d67dca.json)
+
+---
+
+### Canadian High Commissioner calls on President
+
+*2024-10-03 04:38:14* · [`dailyftlk`](https://www.ft.lk/news/Canadian-High-Commissioner-calls-on-President/56-767485) · `en`
+
+Extends support for President’s anti-corruption and safety initiatives, IMF and debt restructuring process
+
+Canadian High Commissioner Eric Walsh yesterday called on President Anura Kumara Dissanayake.
+
+During the meeting, Ambassador Walsh extended his congratulations to the President on his recent election victory and conveyed the Canadian Government’s and its people’s best wishes.
+
+The High Commissioner highlighted corruption and the lack of safety as significant obstacles to attracting foreign investments. He expressed his appreciation for the President’s commitment to eradicating corruption and ensuring a secure environment in the country. Ambassador Walsh emphasised that with the proposed reforms, Sri Lanka would be better positioned to attract international investments. He also reaffirmed Canada’s support for Sri Lanka’s engagement with the International Monetary Fund (IMF) and the on-going debt restructuring process.
+
+◼️
+
+[Data](articles/65fe39f6.json)
+
+---
+
+### British envoy conveys UK’s best wishes and support to new President
+
+*2024-10-03 04:36:06* · [`dailyftlk`](https://www.ft.lk/news/British-envoy-conveys-UK-s-best-wishes-and-support-to-new-President/56-767484) · `en`
+
+The British High Commissioner Andrew Patrick yesterday made a courtesy call on President Anura Kumara Dissanayake.
+
+The visit marked an important step in reinforcing the strong diplomatic relations between the two countries. During the meeting, High Commissioner Patrick congratulated President Dissanayake on his recent election and conveyed the British Government’s best wishes for his tenure. He also conveyed personal congratulations and warm wishes from King Charles III and the Prime Minister of Britain, Sir Keir Starmer expressing their goodwill for the President’s leadership.
+
+The High Commissioner expressed the British Government’s strong support for Sri Lanka’s efforts to attract Foreign Direct Investments (FDIs) and emphasised the importance of collaboration in the education sector. He also conveyed the UK’s support towards the IMF program and the debt restructuring process.
+
+◼️
+
+[Data](articles/55487a6a.json)
+
+---
 
 ### We will never accommodate the creation of the federal regime - Roshan Ranasinghe
 
@@ -2307,97 +2375,5 @@ Accordingly, representatives including Ambassadors, High Commissioners, High Com
 [Data](articles/a4455123.json)
 
 [Extended Data](ext_articles/a4455123.ext.json)
-
----
-
-### SeaLead Shipping, Sri Lanka Ports Authority launch direct liner service
-
-*2024-10-02 12:29:00* · [`economynextcom`](https://economynext.com/sealead-shipping-sri-lanka-ports-authority-launch-direct-liner-service-181941/) · `en`
-
-ECONOMYNEXT – Global shipping line SeaLead Shipping has launched a weekly direct liner service with the Sri Lanka Ports Authority (SLPA), which increases maritime connectivity between the Far East, India, and East Africa through its Far East India Djibouti (FID) service.
-
-“By providing direct connections between China, India, and Djibouti, the service is set to reduce transit times and boost trade efficiency across major global trade routes, especially with the inclusion of Colombo as a key hub port,” SeaLead said in a statement outlining the advantages of the FID service.
-
-The FID service, which commenced operations on September 5, provides weekly liner services, connecting vital ports in China, India, and Djibouti, SLPA said in a statement.
-
-The westbound route starts in Shanghai and includes key stops at Ningbo, Nansha, Port Klang, Colombo, Nhava Sheva, and Mundra, culminating in Djibouti.
-
-...
-
-[Data](articles/e8985072.json)
-
-[Extended Data](ext_articles/e8985072.ext.json)
-
----
-
-### Dollar down fast
-
-*2024-10-02 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201758) · `si`
-
-Sri Lanka: US Dollar price drops to record low. Central Bank reports selling price at Rs. 299.35, buying price at Rs. 290.30. Mid-value at Rs. 295.62. Lowest level reached since June 8, 2023.
-
-🟩
-
-The price of the US dollar is Rs.. The Central Bank of Sri Lanka says that the lower 300 has reached the low level.
-
-According to the Daily Exchange rate of the Central Bank of Sri Lanka, the US dollar prices for today (02). 290.30 and the sale price is Rs. 299.35 is recorded.
-
-The dollar's selling price is Rs. The 300 was the limits of 300 years after the first time after June 8, 2023.
-
-Meanwhile, the dollar mid-value notes today is Rs.. 295.62.
-
-◼️
-
-[Data](articles/3a69b6af.json)
-
-[Extended Data](ext_articles/3a69b6af.ext.json)
-
----
-
-### Meeting between Indian High Commission and All Ceylon Peoples Congress
-
-*2024-10-02 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195304) · `ta`
-
-Indian High Commissioner Santosh Ja met with All Ceylon People's Congress leader Rishad Bathiudeen. They discussed Sri Lanka's political progress and mutual interests.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja and All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen. There was a meeting between Amir Ali.
-
-At the meeting, the country's current political advances and mutual welfare issues were discussed.
-
-◼️
-
-[Data](articles/f792fc48.json)
-
-[Extended Data](ext_articles/f792fc48.ext.json)
-
----
-
-### Problem for those who imported vehicle
-
-*2024-10-02 12:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனம்-இறக்குமதி-செய்தோருக்கு-சிக்கல்/175-344807) · `ta`
-
-Sri Lanka: Luxury vehicle import scandal. After 2015, 200 vehicles falsely registered as pre-2015 imports. Commission investigates, arrests owners causing $500 million customs loss.
-
-🟩
-
-After 2015, the Commission to Investigate Luxury vehicles has been issued to the Commission to Investigate Bribery or Corruption to immediately arrest those who have incurred luxury vehicles and caused a loss of over Rs 50 billion to the Sri Lankan customs.
-
-Colombo Chief Magistrate Thilina Kamage said that the Commission of Investigation on Bribery or Corruption has issued a directive yesterday to confiscate vehicles and arrest those involved in illegal importers.
-
-The order was issued by the Judge who examined the facts presented by the Bribery Commission that only 20 of the 200 vehicles were imported.
-
-A Mitsubishi Jeep, who was seized by the seized, was produced in court yesterday by the Bribery Commission officials.
-
-The judiciary had instructed the owner of the vehicle on September 18 to hand over the vehicle to the government, but he was hiding the vehicle.
-
-Officials of the Bribery Commission were able to seize the vehicle only after a court order to seize the vehicle.
-
-...
-
-[Data](articles/895789b2.json)
-
-[Extended Data](ext_articles/895789b2.ext.json)
 
 ---

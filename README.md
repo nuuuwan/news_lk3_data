@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 19:56:56**
+As of **2024-10-02 20:10:05**
 
 ## Newspaper Stats
 
-*Scraped **47,437** Articles*
+*Scraped **47,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,582
 tamilmirrorlk | 6,385
 virakesarilk | 7,582
-adaderanasinhalalk | 8,203
+adaderanasinhalalk | 8,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,437 (100.0%) of 47,437 articles have been extended.
+47,439 (100.0%) of 47,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Youth arrested with ice drug
+
+*2024-10-02 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201776) · `si`
+
+Weligama youth arrested with ice drugs. Police found 1kg ice and 838g during motorcycle search. Midigama Police investigating.
+
+🟩
+
+A 20-year-old youth from Weligama has been arrested today (02) with ice drugs.
+
+He was arrested by a police team in the village in the Ibbawala area.
+
+Police said that the motorcycle of the suspect was inspected by the police, 1 kg of ice drugs and 838 grams were recovered.
+
+Midigama Police are conducting further investigations at the time of the raid.
+
+◼️
+
+[Data](articles/e524b634.json)
+
+[Extended Data](ext_articles/e524b634.ext.json)
+
+---
 
 ### MPs who supported former President to contest under ‘elephant’ symbol?
 
@@ -49,6 +73,30 @@ It is further reported that if the former MPs are unable to obtain the ‘Gas Cy
 [Data](articles/6820a76f.json)
 
 [Extended Data](ext_articles/6820a76f.ext.json)
+
+---
+
+### Assessed in India's anti-corruption program
+
+*2024-10-02 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201775) · `si`
+
+President Anura Kumara Dissanayake and Sri Lanka General Commissioner Sanantha Jaha had met with Sansh JHA (2).
+
+India has said that India is preparing to support Sri Lanka's development process in the last presidential election.
+
+The country has stated that Sri Lanka's ethics emerged as a peaceful and standing state in the region.
+
+The Indian High Commissioner, who remembered the long-term friendship and intimacy between India and Sri Lanka, emphasized the importance of continuing and stable friendship between the two countries.
+
+The Indian High Commissioner expressed the importance of state systems, especially to fight corruption, appreciated the importance of state systems.
+
+The High Commissioner also said that India willingly support Sri Lanka when the implementation of digitalization programs.
+
+◼️
+
+[Data](articles/921e63d4.json)
+
+[Extended Data](ext_articles/921e63d4.ext.json)
 
 ---
 
@@ -2405,63 +2453,5 @@ Israel renewed its bombardment early on Wednesday of Beirut’s southern suburbs
 [Data](articles/56ddad5f.json)
 
 [Extended Data](ext_articles/56ddad5f.ext.json)
-
----
-
-### 17 year old victim dies in clash
-
-*2024-10-02 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201750) · `si`
-
-17-year-old killed in group clash; police investigating; 55-year-old arrested; two injured hospitalized; motive unclear
-
-🟩
-
-A youth was killed in a confrontation between two groups in the Madawala area in Mahawela.
-
-Police said that investigations have revealed that the murder had been assaulted by a poles and safe empty.
-
-The cause of the attack has not yet been revealed.
-
-A 55-year-old man residing in the Madawala area has been arrested with a resident of Madawala area.
-
-The other suspects have fled the Mahawela Police for the arrest of them.
-
-Meanwhile, two persons who were injured in a sword and spear were seriously injured and admitted to Avissawella hospital.
-
-Police said that the man died yesterday (01).
-
-The victim is a 65 year old resident of Thihapaththapitiya.
-
-Investigations have revealed that the murder had been carried out on a personal dispute between the deceased and suspects.
-
-A 45-year-old suspect was arrested with a sword and a munch.
-
-◼️
-
-[Data](articles/7239bb4f.json)
-
-[Extended Data](ext_articles/7239bb4f.ext.json)
-
----
-
-### Israel was a great mistake in the night - Iran made a big mistake - prepare for compensation
-
-*2024-10-02 08:49:58* · [`adalk`](https://www.ada.lk/breaking_news/රාත්‍රියේ-ගිනි-ඇවිලුණු-ඊශ්‍රායලය---ඉරානය-විශාල-වැරැද්දක්-කළා---වන්දි-ගෙවන්න-සූදානම්-වෙන්න/11-412268) · `si`
-
-Iran attacks Israel, 180 missiles fired. Netanyahu claims "big mistake." Compensation expected.
-
-🟩
-
-Israeli Prime Minister Benjamin Netanyahu has made a statement from Iran's attack on Israel yesterday (01).
-
-According to foreign media reports, Iran made a huge mistake tonight and ready to compensate it.
-
-The Israeli military has stated that about 180 missiles were launched by Iran in this attack.
-
-◼️
-
-[Data](articles/1543468b.json)
-
-[Extended Data](ext_articles/1543468b.ext.json)
 
 ---

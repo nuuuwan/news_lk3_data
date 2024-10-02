@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 10:23:12**
+As of **2024-10-02 10:38:26**
 
 ## Newspaper Stats
 
-*Scraped **47,342** Articles*
+*Scraped **47,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,882
 dailyftlk | 3,185
-adalk | 4,380
+adalk | 4,381
 dailymirrorlk | 4,733
-adaderanalk | 5,568
+adaderanalk | 5,569
 tamilmirrorlk | 6,358
 virakesarilk | 7,569
 adaderanasinhalalk | 8,185
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,342 (100.0%) of 47,342 articles have been extended.
+47,342 (100.0%) of 47,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### High-level IMF team to arrive in Sri Lanka today
+
+*2024-10-02 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102393/high-level-imf-team-to-arrive-in-sri-lanka-today) · `en`
+
+A high-level team of the International Monetary Fund (IMF) is scheduled to visit the island today (02).
+
+Accordingly, the team led by its Director of the Asia Pacific Department, Krishna Srinivasan, is scheduled to visit Colombo from October 02 to 04 to meet with President Anura Kumara Dissanayake and Sri Lanka’s new economic team.
+
+The high-level delegation is visiting the island to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF, according to a spokesperson for the global lender.
+
+Speaking on the upcoming visit of the high-level International Monetary Fund (IMF) delegation visiting Sri Lanka this week, Cabinet Spokesman Vijitha Herath said that only preliminary discussions on the country’s EFF program will take place during the meeting
+
+A further discussion on its structural facts is scheduled to take place in New York around the end of October, he told reporters in Colombo yesterday (01).
+
+◼️
+
+[Data](articles/69f58607.json)
+
+---
 
 ### Reduction of container transport fee
 
@@ -283,6 +303,22 @@ A 45-year-old suspect was arrested with a sword and a munch.
 [Data](articles/7239bb4f.json)
 
 [Extended Data](ext_articles/7239bb4f.ext.json)
+
+---
+
+### රාත්‍රියේ ගිනි ඇවිලුණු ඊශ්‍රායලය - ඉරානය විශාල වැරැද්දක් කළා - වන්දි ගෙවන්න සූදානම් වෙන්න
+
+*2024-10-02 08:49:58* · [`adalk`](https://www.ada.lk/breaking_news/රාත්‍රියේ-ගිනි-ඇවිලුණු-ඊශ්‍රායලය---ඉරානය-විශාල-වැරැද්දක්-කළා---වන්දි-ගෙවන්න-සූදානම්-වෙන්න/11-412268) · `si`
+
+ඉරානය විසින් ඊශ්‍රායලයට ඊයේ(01දා) රාත්‍රී කාලයේදී එල්ල කළ ප්‍රහාරය සම්න්ධයෙන් ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු ප්‍රකාශයක් කර තිබේ.
+
+ඒ අනුව ‘ඉරානය අද රාත්‍රියේ විශාල වැරැද්දක් කළා ,එයට වන්දි ගෙවන්න සූදානම් වෙන්න ’ යනුවෙන් එම ප්‍රකාශය සිදු කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙම ප්‍රහාරයේදී ඉරානය විසින් මිසයිල 180ක් පමණ එල්ල කළ බවත්, එයින් යම්කිසි ප්‍රමාණයක් ප්‍රති ප්‍රහාර එල්ල කරමින් විනාශ කළ බවත් ඊශ්‍රායල හමුදාව ප්‍රකාශ කර ඇත.
+
+◼️
+
+[Data](articles/1543468b.json)
 
 ---
 
@@ -2219,57 +2255,5 @@ According to reports, 28.12 per cent of the votes were cast as of 11 am.
 [Data](articles/612729f2.json)
 
 [Extended Data](ext_articles/612729f2.ext.json)
-
----
-
-### Sri Lanka stocks close up, Ceylon Hospitals to amalgamate subsidiary
-
-*2024-10-01 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-ceylon-hospitals-to-amalgamate-subsidiary-181820/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 1.16 percent, or 137.86 points, at 11,992; while the more liquid S&P SL20 Index closed up 1.95 percent, or 67.51 points, at 3, 520.
-
-The ASPI crossed the 12,000 mark near close of trade before edging back down.
-
-Turnover was 3.5 billion. Banking stocks were major contributors (Rs1.5bn).
-
-Top contributors to the ASPI were Hatton National Bank (up at 214.25), John Keells Holdings (up at 184.00), Commercial Bank (up at 103.00), DFCC Bank (up at 80.00), and Sampath Bank (up at 79.00).
-
-Ceylon Hospitals Plc said it had resolved to amalgamate with its subsidiary Durdans Heart Centre (Pvt) Ltd, subject to obtaining the approval of the shareholders.
-
-The amalgamation will be effected by way of a share swap, where shareholders of DHC will be offered ordinary voting shares in the proportion of 0.2933) ordinary voting shares of CHPLC for each ordinary voting share held in DHC.
-
-...
-
-[Data](articles/426c52d6.json)
-
-[Extended Data](ext_articles/426c52d6.ext.json)
-
----
-
-### Super Star Rajinikanth starrer 'Vettayan'
-
-*2024-10-01 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195244) · `ta`
-
-Rajinikanth hospitalized in Chennai for digestive issues. His upcoming film "Vettayan" postponed due to health concerns. Fans pray for quick recovery as political and film celebrities wish him well.
-
-🟩
-
-Super Star Rajinikanth has been admitted to a private hospital in Chennai due to ill health.
-
-Super Star Rajinikanth, who has been admitted for the digestive tract problem, is conducting modern examinations and treating the impact and treating it accordingly.
-
-He should be healed quickly. G. Political and film celebrities, including Stalin, have posted on the social network.
-
-At this moment, Super Star Rajinikanth's upcoming film 'Vettayan', which will be released in Tamil, Telugu, Malayalam, Kannada and Hindi, will be released on the second day of the film House in Tamil, Telugu, Malayalam, Kannada and Hindi.
-
-In the meantime, the film 'Vettayan' is being released due to the release of Super Star Rajinikanth, his fans are praying that he should be healed quickly and that he has been canceled due to the sudden digestive tract problem during the filming of 'Kuli'.
-
-◼️
-
-[Data](articles/563c15c7.json)
-
-[Extended Data](ext_articles/563c15c7.ext.json)
 
 ---

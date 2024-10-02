@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 13:08:14**
+As of **2024-10-02 13:22:43**
 
 ## Newspaper Stats
 
-*Scraped **47,382** Articles*
+*Scraped **47,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,889
 dailyftlk | 3,185
 adalk | 4,384
 dailymirrorlk | 4,733
-adaderanalk | 5,573
+adaderanalk | 5,574
 tamilmirrorlk | 6,371
 virakesarilk | 7,573
 adaderanasinhalalk | 8,190
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,381 (100.0%) of 47,382 articles have been extended.
+47,383 (100.0%) of 47,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Cuba agrees to provide expert knowledge for dengue control in Sri Lanka
+
+*2024-10-02 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102397/cuba-agrees-to-provide-expert-knowledge-for-dengue-control-in-sri-lanka) · `en`
+
+In a significant diplomatic engagement, the President of Sri Lanka Anura Kumara Dissanayake, has met with the Cuban Ambassador to Sri Lanka, Andres Marcelo Gonzales Gorrido, at the Presidential Secretariat this morning (02).
+
+The meeting focused on bolstering the longstanding diplomatic and friendly relations between the two countries, according to the President’s Media Division (PMD).
+
+During the cordial discussions, the Cuban Ambassador extended warm congratulations to President Dissanayake on his recent election victory.
+
+He praised the President’s leadership and expressed Cuba’s readiness to enhance cooperation with Sri Lanka, the PMD reported.
+
+Additionally, the Cuban government reaffirmed its continuous support for Sri Lanka’s efforts in combating dengue.
+
+Ambassador Gonzales highlighted Cuba’s success in dengue control and conveyed Cuba’s willingness to share expertise and collaborate on public health initiatives aimed at eradicating dengue in Sri Lanka.
+
+◼️
+
+[Data](articles/92d99d08.json)
+
+[Extended Data](ext_articles/92d99d08.ext.json)
+
+---
 
 ### Danish police investigate two blasts near Israel’s embassy in Copenhagen
 
@@ -1320,6 +1344,8 @@ Once the economic policies and quantity targets are approved by the IMF board, a
 
 [Data](articles/55480d08.json)
 
+[Extended Data](ext_articles/55480d08.ext.json)
+
 ---
 
 ### IMF representatives to visit the island today
@@ -2283,31 +2309,5 @@ The All Island Inter-Provincial School Children Transport Association (JVP) has 
 [Data](articles/b0142e38.json)
 
 [Extended Data](ext_articles/b0142e38.ext.json)
-
----
-
-### What happened to our children who were missing?Will the international community and the UN come together and get justice?-Relationships of North, East Missing Missing
-
-*2024-10-01 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195274) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka: Missing children inquiry sought by UN. Parents demand truth about children's fate during war. UN urged to investigate military officers. International community called upon for justice.
-
-🟩
-
-We have lost confidence in the internal tradition and we are only fully confident in the International Justice System. Our loved ones during the final battle can find out what happened to the loved ones, including our children, by investigating the military officers who were responsible for the surrendered military checkpoints.
-
-Will the international community and the United Nations work together in this regard?The association of the Missing Relations of the North and East has questioned the United Nations Human Rights Service.
-
-The International Children's Day, the International Children's Day yesterday, said in a letter sent to the UN Human Rights High Commissioner by the Association of Missing Relations yesterday, emphasizing the need to reveal the fact that their children were missing.
-
-...
-
-[Data](articles/79a73b3a.json)
-
-[Extended Data](ext_articles/79a73b3a.ext.json)
 
 ---

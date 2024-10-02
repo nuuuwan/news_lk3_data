@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 20:38:50**
+As of **2024-10-02 20:57:53**
 
 ## Newspaper Stats
 
-*Scraped **47,440** Articles*
+*Scraped **47,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 4,390
 dailymirrorlk | 4,733
 adaderanalk | 5,582
 tamilmirrorlk | 6,386
-virakesarilk | 7,582
-adaderanasinhalalk | 8,205
+virakesarilk | 7,584
+adaderanasinhalalk | 8,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,440 (100.0%) of 47,440 articles have been extended.
+47,443 (100.0%) of 47,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Joseph Stalin revealed about question papers
+
+*2024-10-02 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201777) · `si`
+
+Here's a 200-character summary:
+
+
+
+Joseph Stalin criticizes Department of Examinations over Grade 5 Scholarship Exam paper issues. HRC notes CID investigation incomplete.
+
+🟩
+
+The Department of Examinations Joseph Stalin says that the Department of Examinations is a proposed that the Department of Examinations is a proposed that the Department of Examinations is to provide a proper solution to the exit crisis.
+
+Speaking at a media briefing in Colombo today (02), he said this regarding the problems faced by the first question paper of the Grade 5 Scholarship Examination.
+
+"Now the exam papers crisis continued. That means the failure of the Department of Examinations. There is a list of persons who have been submitted by the Department of Examinations on 12.04.2012. There are 473 people involved in the exam frauds. They have banned exams. 'What has been done with that. There's it.. Some divisions directors. Different officers. The Department of Examinations is a fully proof of reorganization. "
+
+...
+
+[Data](articles/4a1b4890.json)
+
+[Extended Data](ext_articles/4a1b4890.ext.json)
+
+---
 
 ### Brews that suddenly closed
 
@@ -49,6 +75,28 @@ Meanwhile, the Department of Liquor has said that the telephone number 1913, whi
 [Data](articles/05af9b9a.json)
 
 [Extended Data](ext_articles/05af9b9a.ext.json)
+
+---
+
+### Yall. Fire in a house in Navanturai
+
+*2024-10-02 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195349) · `ta`
+
+Fire breaks out in Navanthurai house. Neighbors try to put it out. Firefighters respond. Cause unknown. Police investigating.
+
+🟩
+
+A fire broke out in a house in Navanthurai, Jaffna on Wednesday (2).
+
+Neighbors who saw the burning of the house were trying to extinguish the fire and reported to the Municipal Council firefighters. Firefighters rushed to the scene and extinguished the fire.
+
+Jaffna police and forensic police are conducting investigations as the cause of the fire was not detected.
+
+◼️
+
+[Data](articles/dcd424fe.json)
+
+[Extended Data](ext_articles/dcd424fe.ext.json)
 
 ---
 
@@ -73,6 +121,28 @@ Midigama Police are conducting further investigations at the time of the raid.
 [Data](articles/e524b634.json)
 
 [Extended Data](ext_articles/e524b634.ext.json)
+
+---
+
+### The Election Commission stopped the president's guarantee that subsidize farmers;District Organization of the Madhu District Agricultural Authority
+
+*2024-10-02 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195348) · `ta`
+
+Election Commission halts fertilizer subsidy for farmers. New President promises Rs 25,000 per hectare support. Farmers disappointed by decision, citing upcoming parliamentary elections. Request Election Commission reconsider subsidy to aid agriculture and economy.
+
+🟩
+
+The new President Anuragumara Dissanayake has been very happy that all the farmers have been able to pay for the immediate payment of our fertilizer subsidy allowance for Rs.. The district organization of the other Batticaloa District Agricultural Authority has requested.
+
+The President and Secretary of the District Agricultural Authority of the District Agricultural Authority and the Secretary of the District Agricultural Authority have appealed at a press conference held on Wednesday (2).
+
+First of all, we express our gratitude and congratulations to President Anura Kumarathisanayake on behalf of the District Authority. The president is making some excellent steps in our country and politics for the past few days.
+
+...
+
+[Data](articles/da0c5708.json)
+
+[Extended Data](ext_articles/da0c5708.ext.json)
 
 ---
 
@@ -2387,73 +2457,5 @@ The association has decided to decrease the import and export freight container 
 [Data](articles/dd7ceb7f.json)
 
 [Extended Data](ext_articles/dd7ceb7f.ext.json)
-
----
-
-### Sri Lanka transport commission reduces bus fares
-
-*2024-10-02 09:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-transport-commission-reduces-bus-fares-181891/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s National Transport Commission has imposed a 4.24 percent reduction in bus fares following a revision in the price of diesel.
-
-The commission announced the new fares would come into effect from Tuesday October 01 midnight.
-
-The reduction in fares is applicable to normal, semi-luxury, luxury and super luxury categories of buses. The Ministry Transport has said legal action will be taken against bus service operators who do not comply.
-
-President of the Lanka Private Bus Owners’ Association (LPBOA) Gemunu Wijeratne told reporters on Tuesday that their pricing formula allows for a bus fare revision only in the event of a 4 percent increase or reduction in the price of diesel.
-
-...
-
-[Data](articles/b36be50a.json)
-
-[Extended Data](ext_articles/b36be50a.ext.json)
-
----
-
-### A officer who spends the funds of the ministry to go to France
-
-*2024-10-02 09:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-செல்ல-அமைச்சின்-நிதியை-செலவு-செய்த-அதிகாரி/175-344792) · `ta`
-
-Former Palm Development Board chair faces inquiry over Rs 19 lakh fund misuse for France trip. Resigned after allegations of misusing ministry funds for personal travel. Trip aimed to promote Sri Lankan palm products in Europe but resulted in zero export revenue. Investigation committee recommends refunding the spent amount.
-
-🟩
-
-The former chairman of the Palm Development Board has decided to conduct an immediate inquiry into the spending of more than Rs 19 lakhs from the Ministry -owned fund to go to France.
-
-It was also reported that the Chairman of the House had handed over his resignation letter to the Secretary of the Ministry yesterday (01).
-
-The former chairman was appointed chairman of the Palm Development Board in 2020, and he visited European countries, including France from September 2021 to the popularity of the country's palm products.
-
-For this 23 -day trip, the amount of palm development council spent is Rs 1,949,450.
-
-The aim of the leader's visit was to encourage the sale of palm products produced in Sri Lanka in Europe, including France, to upgrade the warehouses, and to appoint a representative to maintain the local palm products selling network.
-
-However, from 2021 and April 2022, the income earned by exporting palm products to European countries is zero.
-
-...
-
-[Data](articles/b2ad740b.json)
-
-[Extended Data](ext_articles/b2ad740b.ext.json)
-
----
-
-### ADB President reaffirms commitment to deepening cooperation with Sri Lanka
-
-*2024-10-02 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102391/adb-president-reaffirms-commitment-to-deepening-cooperation-with-sri-lanka) · `en`
-
-President of the Asian Development Bank (ADB), Mr. Masatsugu Asakawa, congratulated President Anura Kumara Dissanayake on his election as the President of Sri Lanka, the President’s Media Division (PMD) said.
-
-In his message, Mr. Asakawa warmly welcomed the President as ADB Governor for Sri Lanka.
-
-Mr. Asakawa praised the people of Sri Lanka for conducting a peaceful and orderly democratic election and highlighted the longstanding partnership between ADB and Sri Lanka, which has existed since the Bank’s establishment in 1966.
-
-Over the years, ADB has been a steadfast partner in addressing Sri Lanka’s challenges and, during the current economic crisis, has provided crucial budgetary support to strengthen reform initiatives and alleviate the hardships faced by the country’s most vulnerable populations.
-
-...
-
-[Data](articles/f32ff470.json)
-
-[Extended Data](ext_articles/f32ff470.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 12:38:30**
+As of **2024-10-02 12:57:02**
 
 ## Newspaper Stats
 
-*Scraped **47,372** Articles*
+*Scraped **47,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,91 @@ dailyftlk | 3,185
 adalk | 4,384
 dailymirrorlk | 4,733
 adaderanalk | 5,572
-tamilmirrorlk | 6,370
+tamilmirrorlk | 6,371
 virakesarilk | 7,573
-adaderanasinhalalk | 8,189
+adaderanasinhalalk | 8,190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,372 (100.0%) of 47,372 articles have been extended.
+47,374 (100.0%) of 47,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Dollar down fast
+
+*2024-10-02 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201758) · `si`
+
+Sri Lanka: US Dollar price drops to record low. Central Bank reports selling price at Rs. 299.35, buying price at Rs. 290.30. Mid-value at Rs. 295.62. Lowest level reached since June 8, 2023.
+
+🟩
+
+The price of the US dollar is Rs.. The Central Bank of Sri Lanka says that the lower 300 has reached the low level.
+
+According to the Daily Exchange rate of the Central Bank of Sri Lanka, the US dollar prices for today (02). 290.30 and the sale price is Rs. 299.35 is recorded.
+
+The dollar's selling price is Rs. The 300 was the limits of 300 years after the first time after June 8, 2023.
+
+Meanwhile, the dollar mid-value notes today is Rs.. 295.62.
+
+◼️
+
+[Data](articles/3a69b6af.json)
+
+[Extended Data](ext_articles/3a69b6af.ext.json)
+
+---
+
+### Meeting between Indian High Commission and All Ceylon Peoples Congress
+
+*2024-10-02 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195304) · `ta`
+
+Indian High Commissioner Santosh Ja met with All Ceylon People's Congress leader Rishad Bathiudeen. They discussed Sri Lanka's political progress and mutual interests.
+
+🟩
+
+Indian High Commissioner to Sri Lanka Santosh Ja and All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen. There was a meeting between Amir Ali.
+
+At the meeting, the country's current political advances and mutual welfare issues were discussed.
+
+◼️
+
+[Data](articles/f792fc48.json)
+
+[Extended Data](ext_articles/f792fc48.ext.json)
+
+---
+
+### Problem for those who imported vehicle
+
+*2024-10-02 12:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனம்-இறக்குமதி-செய்தோருக்கு-சிக்கல்/175-344807) · `ta`
+
+Sri Lanka: Luxury vehicle import scandal. After 2015, 200 vehicles falsely registered as pre-2015 imports. Commission investigates, arrests owners causing $500 million customs loss.
+
+🟩
+
+After 2015, the Commission to Investigate Luxury vehicles has been issued to the Commission to Investigate Bribery or Corruption to immediately arrest those who have incurred luxury vehicles and caused a loss of over Rs 50 billion to the Sri Lankan customs.
+
+Colombo Chief Magistrate Thilina Kamage said that the Commission of Investigation on Bribery or Corruption has issued a directive yesterday to confiscate vehicles and arrest those involved in illegal importers.
+
+The order was issued by the Judge who examined the facts presented by the Bribery Commission that only 20 of the 200 vehicles were imported.
+
+A Mitsubishi Jeep, who was seized by the seized, was produced in court yesterday by the Bribery Commission officials.
+
+The judiciary had instructed the owner of the vehicle on September 18 to hand over the vehicle to the government, but he was hiding the vehicle.
+
+Officials of the Bribery Commission were able to seize the vehicle only after a court order to seize the vehicle.
+
+...
+
+[Data](articles/895789b2.json)
+
+[Extended Data](ext_articles/895789b2.ext.json)
+
+---
 
 ### Curry prices in the world market
 
@@ -97,26 +169,6 @@ Other OPEC member countries, Saudi Arabia, UAE users use this marine path to tra
 [Data](articles/669c3751.json)
 
 [Extended Data](ext_articles/669c3751.ext.json)
-
----
-
-### Meeting between Indian High Commission and All Ceylon Peoples Congress
-
-*2024-10-02 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195304) · `ta`
-
-Indian High Commissioner Santosh Ja met with All Ceylon People's Congress leader Rishad Bathiudeen. They discussed Sri Lanka's political progress and mutual interests.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja and All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen. There was a meeting between Amir Ali.
-
-At the meeting, the country's current political advances and mutual welfare issues were discussed.
-
-◼️
-
-[Data](articles/f792fc48.json)
-
-[Extended Data](ext_articles/f792fc48.ext.json)
 
 ---
 
@@ -2273,55 +2325,5 @@ It has to allocate funds for that. If allocated funds must be submitted to the b
 [Data](articles/6f2e2384.json)
 
 [Extended Data](ext_articles/6f2e2384.ext.json)
-
----
-
-### We agree with the decision of the Election Commission - Vijitha Herath
-
-*2024-10-01 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201739) · `si`
-
-Election Commission suspends fertilizer subsidy due to elections. Cabinet agrees. Farmers protest delay.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath today (01), said that the Elections Commission to temporarily suspend the fertilizer subsidy of Rs. 25,000.
-
-"The Election Commission has to suspend it due to this election. We agree to the Election Commission verdict. We are working accordingly. "
-
-President Anura Kumara Dissanayake took steps to increase the Rs.
-
-However, the Elections Commission to temporarily suspend the subsidy to the subsidy of the event.
-
-The Elections Commission had informed the execution of the proposal after the election.
-
-Meanwhile, the National Organization has lodged a complaint to the Elections Commission this afternoon, protesting the relevant action taken by the election commission.
-
-Farmers' organizations have warned that if the fertilizer subsidy for the approachable subsidy is delayed in the face of the situation.
-
-◼️
-
-[Data](articles/48c48cd1.json)
-
-[Extended Data](ext_articles/48c48cd1.ext.json)
-
----
-
-### TNA. MP Sridhal meets President
-
-*2024-10-01 20:53:12* · [`adalk`](https://www.ada.lk/breaking_news/ටී-එන්-ඒ--මන්ත්‍රී-ශ්‍රීධරන්-ජනපති-හමුවෙයි/11-412263) · `si`
-
-Sridharan, former Jaffna MP, meets President Anura Kumara Dissanayake at Presidential Secretariat. Discusses national matters as sovereign executive head of country.
-
-🟩
-
-Former Jaffna District Parliamentarian S.. Mr. Sridharan met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
-
-Human sovereign executive President of the country. Mr. Sridharan also spoke with the President.
-
-◼️
-
-[Data](articles/968efad0.json)
-
-[Extended Data](ext_articles/968efad0.ext.json)
 
 ---

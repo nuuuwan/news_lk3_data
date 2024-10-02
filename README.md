@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 22:12:50**
+As of **2024-10-02 22:24:43**
 
 ## Newspaper Stats
 
-*Scraped **47,453** Articles*
+*Scraped **47,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,893
 dailyftlk | 3,185
 adalk | 4,391
 dailymirrorlk | 4,733
-adaderanalk | 5,583
+adaderanalk | 5,585
 tamilmirrorlk | 6,387
 virakesarilk | 7,587
 adaderanasinhalalk | 8,210
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,453 (100.0%) of 47,453 articles have been extended.
+47,453 (100.0%) of 47,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### High-level IMF delegation meets new govt’s economic team, discuss reforms
+
+*2024-10-02 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102410/high-level-imf-delegation-meets-new-govts-economic-team-discuss-reforms) · `en`
+
+A high-level delegation from the International Monetary Fund (IMF) arrived in Sri Lanka today (2) to engage with the newly formed government led by President Anura Kumara Dissanayake.
+
+The primary objective of the visit was to initiate discussions on the progress of the IMF program and necessary steps towards the release of the fourth tranche of the $ 2.9 billion Extended Fund Facility (EFF), the President’s Office said.
+
+The meeting, held at the Presidential Secretariat, featured cordial discussions between the IMF delegation and the economic team of the new government. Both parties reviewed the IMF programme thus far and outlined the way forward for future collaboration, the statement said.
+
+“The IMF delegation expressed appreciation for the significant changes taking place in Sri Lanka, boosting the positive outlook on Sri Lanka under the present government,” it said.
+
+...
+
+[Data](articles/30189505.json)
+
+---
 
 ### Exit Exit
 
@@ -77,6 +95,24 @@ All political parties that supported former President Ranil Wickremesinghe in th
 [Data](articles/5a6dc399.json)
 
 [Extended Data](ext_articles/5a6dc399.ext.json)
+
+---
+
+### Praveen Jayawickrama banned under ICC Anti-Corruption Code
+
+*2024-10-02 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102409/praveen-jayawickrama-banned-under-icc-anti-corruption-code) · `en`
+
+The International Cricket Council (ICC) has banned Sri Lankan player Praveen Jayawickrama from all cricket for one year, of which six months are suspended, after he admitted breaching the ICC Anti-Corruption Code.
+
+Issuing a release, the ICC said that Jayawickrama admitted to being in breach of the following provision under the Code:
+
+Article 2.4.7 – Obstructing or delaying any investigation that may be carried out by the ACU, including concealing, tampering with or destroying any documentation or other information that may be relevant to that investigation and/or that may be evidence or may lead to the discovery of evidence of corrupt conduct under the Anti-Corruption Code.
+
+As a result of the admission, Jayawickrama has accepted a sanction of a one-year period of ineligibility, of which the last six months are suspended, the statement said.
+
+...
+
+[Data](articles/f568980c.json)
 
 ---
 
@@ -2411,51 +2447,5 @@ In the growing number of people, in many families, youth in many families are fa
 [Data](articles/488c2b68.json)
 
 [Extended Data](ext_articles/488c2b68.ext.json)
-
----
-
-### Barber resigned twice in one year
-
-*2024-10-02 10:30:44* · [`adalk`](https://www.ada.lk/sports/වසරක්-තුළ-දෙවරක්-ඉල්ලා-අස්වූ-බාබර්/9-412269) · `si`
-
-Pakistan cricket team captain Babar Azam resigns twice within a year due to personal reasons, prioritizing family life over cricket responsibilities.
-
-🟩
-
-Limited-widest-o-wander leader Barber Assam resigned from the leadership of Pakistan.
-
-He is the second time in which he is led by the leadership.
-
-He has given priority to his batting, as well as the resignation of spending time with his family.
-
-◼️
-
-[Data](articles/6df92659.json)
-
-[Extended Data](ext_articles/6df92659.ext.json)
-
----
-
-### Innovation
-
-*2024-10-02 10:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியவகை-நாகபாம்பு-கண்டுபிடிப்பு/175-344794) · `ta`
-
-Rare pink snake (18ft) handed to zoo. Low population, needs forest protection from predators.
-
-🟩
-
-This pink is 18 feet long. The Nagabhu has been handed over to the officials of the Dehiwala Zoo.
-
-This rare snake is very low in the country. Such rare snakes are born once in many years.
-
-Therefore, it is necessary to keep it in the forest safely without leaving the forest.
-
-This is because other animals in the forest are likely to hunt this rare nagabambam.
-
-◼️
-
-[Data](articles/76d43390.json)
-
-[Extended Data](ext_articles/76d43390.ext.json)
 
 ---

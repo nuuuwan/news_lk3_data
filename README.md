@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 14:12:22**
+As of **2024-10-02 14:24:30**
 
 ## Newspaper Stats
 
-*Scraped **47,389** Articles*
+*Scraped **47,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,889
 dailyftlk | 3,185
 adalk | 4,385
 dailymirrorlk | 4,733
-adaderanalk | 5,575
+adaderanalk | 5,576
 tamilmirrorlk | 6,371
 virakesarilk | 7,575
 adaderanasinhalalk | 8,192
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,389 (100.0%) of 47,389 articles have been extended.
+47,389 (100.0%) of 47,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Oil prices jump more than 2% as Middle East tensions escalate
+
+*2024-10-02 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102399/oil-prices-jump-more-than-2-as-middle-east-tensions-escalate) · `en`
+
+Oil prices climbed more than 2% on Wednesday on rising concerns that Middle East tensions could escalate, potentially disrupting crude output from the region, following Iran’s biggest ever military blow against Israel.
+
+Brent futures leapt $1.63, or 2.2%, to $75.19 a barrel, while U.S. West Texas Intermediate (WTI) crude spiked $1.70, or 2.4%, to $71.53 at 0755 GMT. WTI had earlier risen more than $2.
+
+Both crude benchmarks on Tuesday surged more than 5% before closing around 2.5% higher.
+
+Iran said early on Wednesday that its missile attack on Israel was over barring further provocation, while Israel and the U.S. promised to strike back against Tehran as fears of a wider war intensified.
+
+“This could include damaging or obliterating Iran’s oil facilities,” said Tamas Varga of oil broker PVM.
+
+Tehran said any Israeli response to the attack, which Israel said involved more than 180 ballistic missiles, would be met with “vast destruction”.
+
+...
+
+[Data](articles/fb08480b.json)
+
+---
 
 ### Twin to win the 8th of the year
 
@@ -2311,21 +2333,5 @@ Product Central is designed to boost developer productivity and reduce human err
 [Data](articles/d677baaa.json)
 
 [Extended Data](ext_articles/d677baaa.ext.json)
-
----
-
-### Expected dips in interest rates positively impact investor sentiment in share market
-
-*2024-10-01 23:16:00* · [`islandlk`](http://island.lk/expected-dips-in-interest-rates-positively-impact-investor-sentiment-in-share-market/) · `en`
-
-The stock market investor sentiment notably improved yesterday with the anticipation that interest rates would come down. Besides the debt restructuring process with bond dealers was reportedly going off smoothly. These developments positively impacted banking sector counters in the share market, analysts said.
-
-In September, Sri Lanka experienced deflation for the first time since 2015, with the general price level falling below that of a year ago. This decline was driven by administrative price adjustments that brought down key cost drivers, including food, fuel, and water tariffs. This situation would considerably impact interest rates, market analysts added.
-
-...
-
-[Data](articles/70fccbab.json)
-
-[Extended Data](ext_articles/70fccbab.ext.json)
 
 ---

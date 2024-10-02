@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 17:59:37**
+As of **2024-10-02 18:19:54**
 
 ## Newspaper Stats
 
-*Scraped **47,420** Articles*
+*Scraped **47,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 3,185
 adalk | 4,388
 dailymirrorlk | 4,733
 adaderanalk | 5,580
-tamilmirrorlk | 6,382
+tamilmirrorlk | 6,384
 virakesarilk | 7,575
-adaderanasinhalalk | 8,200
+adaderanasinhalalk | 8,201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,420 (100.0%) of 47,420 articles have been extended.
+47,423 (100.0%) of 47,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Suspect arrested for abusing six children including a girl
+
+*2024-10-02 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201772) · `si`
+
+63-year-old man arrested for abusing 6 children, including 15-year-old girl. Suspect intimidated victims. Five victims aged 12-15, two brothers. Married father fled scene. Remanded until April 11.
+
+🟩
+
+A 63-year-old suspect has been arrested in connection with a 15-year-old schoolgirl and five schoolchildren.
+
+The suspect, a resident of the Peradeniya, Peradeniya, Peradeniya has been arrested by the Kandy Divisional Children's and Women's Bureau.
+
+Police say that the suspects have been forcibly abused by intimidating the suspect.
+
+The 15-year-old girl had previously lodged a complaint with the Peradeniya Police, our correspondent said.
+
+Investigations have said that the five schoolchildren who had been abused is between 12 and 15 years old and two brothers were among them.
+
+Police investigations have revealed that the suspect and five students have been abused by the suspect.
+
+The suspect, a married father, was forcibly taken to a valuable boy in the area and was preparing to abuse the suspect.
+
+The suspect had fled the area while he had complained to the incident.
+
+...
+
+[Data](articles/76e5affe.json)
+
+[Extended Data](ext_articles/76e5affe.ext.json)
+
+---
+
+### “Don't be afraid of relatives”
+
+*2024-10-02 17:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறவினர்கள்-அஞ்ச-வேண்டாம்/175-344822) · `ta`
+
+"Don't fear relatives" - Sri Lankan envoy advises caution for citizens in Israel. Embassy monitors safety, verifies flights for travelers.
+
+🟩
+
+Sri Lankan Ambassador to Israel Nimal Bandara has said that the Sri Lankan embassy is actively monitoring the safety of Sri Lankans in Israel.
+
+He added that passengers who wish to come to Sri Lanka from Sri Lanka and passengers who want to travel to Sri Lanka from Israel should be verified that their flight is operated before they go to the airport.
+
+◼️
+
+[Data](articles/a7890933.json)
+
+[Extended Data](ext_articles/a7890933.ext.json)
+
+---
 
 ### Explosion of the Middle East
 
@@ -61,6 +113,38 @@ The United States, which had warned Israel before, said it had helped Israel to 
 [Data](articles/00b353ce.json)
 
 [Extended Data](ext_articles/00b353ce.ext.json)
+
+---
+
+### Explosive Middle East
+
+*2024-10-02 17:18:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெடிக்கிறது-மத்திய-கிழக்கு/50-344821) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Iran launches missile attack on Israel, causing international tensions. Israel claims hundreds of missiles targeted major cities. US helps intercept missiles. Iran threatens future attacks if Israel retaliates. Impact on crude oil trade and regional stability questioned.
+
+🟩
+
+Iran is the missile attack on Israel. Tuesday (01) started at midnight. This has caused a tense situation in the international community, including the Middle East.
+
+International media reports that the attacks have been carried out in retaliation for events including Palestine's Gaza, Lebanon and the assassination of Hizbullah leaders.
+
+The Israeli military said Iran had launched hundreds of missiles towards major cities, including Israel's Tel Aviv.. The government has stepped up the task of taking the public immediately by signaling and taking them to safe places
+
+Iran's attacks on Israel, which are expected to occur in the Middle East at any time, have been realized by Iran's missile attacks.
+
+The US has said that Iran has launched an attack on Israel with about 200 Balistic missiles.
+
+The United States, which had warned Israel before, said it had helped Israel to interrupt Iran's missiles along the way.
+
+...
+
+[Data](articles/131b3597.json)
+
+[Extended Data](ext_articles/131b3597.ext.json)
 
 ---
 
@@ -2395,97 +2479,5 @@ Senior Additional Secretary of the President's Office Roshan Kamage and Addition
 [Data](articles/ecf277a6.json)
 
 [Extended Data](ext_articles/ecf277a6.ext.json)
-
----
-
-### The second phase of the Bandaranaike Airport Development and Rupawahini Digital Operations
-
-*2024-10-02 04:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/195277) · `ta`
-
-Bandaranaike Airport development: JICA discusses TV digitization, 11 projects completion. Senior delegation meets President's Secretary.
-
-🟩
-
-Senior delegation, including the Chief Minister of the Japanese International Cooperation Agency, Yamada Tetsuya, met with the President's Secretary of the President at the Presidential Office at the Presidential Office on Tuesday afternoon.
-
-The Bandaranaike International Airport Development Program, which is being carried out by Jayaika by Jayaika, was discussed soon to launch programs such as digitalization of television and television.
-
-During the recent meeting between the Ambassador and the President of Japan, the Japanese Ambassador and the President were discussing the completion of 11 programs in the country with the help of Jica (JICA).
-
-Katsuhiro Suzuki, second secretary of the Japanese embassy in Sri Lanka, was also present at the meeting.
-
-◼️
-
-[Data](articles/e99d20b1.json)
-
-[Extended Data](ext_articles/e99d20b1.ext.json)
-
----
-
-### I have handed over 7 vehicles of the government;I have also performed social services in retirement - former President Chandrika
-
-*2024-10-02 03:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195276) · `ta`
-
-Former President Chandrika Bandaranaike Kumaratunga discusses her post-political life:
-
-
-
-• Handed over 7 out of 14 government-provided vehicles
-
-• Used pension for social services
-
-• Paid for own expenses and employee wages
-
-• Did not receive state funding for 12 years
-
-• Previously had food expenses covered by government
-
-
-
-Summary: 200 characters
-
-🟩
-
-During the reign of Mahinda Rajapaksa. I also used the 94 000 pension provided in the government of goodwill for social services. Former President Chandrika Bandaranaike Kumaratunga said that 7 vehicles have been handed over to the government.
-
-He further stated at the press conference held on Tuesday (1).
-
-I was not given a pension during the Mahinda Rajapaksa regime.
-
-Its braid has been given as a 94000 thousand pension. That's the pension given to me. After that I gave a report to the media. I opened a separate account for my own use and I used it for many social services.
-
-I have handed over 7 of the 14 vehicles provided by the government. Currently I have 4 vehicles. Two of them are for safety and the other two for travel and personal needs. I have not received any money from the state for his cost in 12 years of political life.
-
-...
-
-[Data](articles/b30f2d74.json)
-
-[Extended Data](ext_articles/b30f2d74.ext.json)
-
----
-
-### Some attempts to make our party a disgrace: It happened during the struggle of the disappeared - the National People's Power Organizer
-
-*2024-10-02 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195275) · `ta`
-
-Attempts to discredit party during missing persons protest. Some individuals disrupted event, targeting party's image. Government vows action against such incidents.
-
-🟩
-
-Some people are trying to make our party a disgrace. Vavuniya District Organizer of the National People's Power, Upali Samarasinghe, said that such an act took place during the struggle of the disappeared today.
-
-During a demonstration held by relatives of the missing persons on Tuesday morning (1), some were disturbed and they were aimed at disturbing our party's reputation as members of the national people's power.
-
-At present, some people who cannot tolerate the support and good intentions of the national population among the Tamil people are considering such a subversive act.
-
-Our government will take care of it so that this is not the case in the future.
-
-We would like to report to the Tamil people and the relatives of the missing people about the fact that some of these mudslides were involved in the election.
-
-◼️
-
-[Data](articles/b96d61f3.json)
-
-[Extended Data](ext_articles/b96d61f3.ext.json)
 
 ---

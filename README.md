@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 09:58:11**
+As of **2024-10-02 10:23:12**
 
 ## Newspaper Stats
 
-*Scraped **47,336** Articles*
+*Scraped **47,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,140 @@ economynextcom | 2,882
 dailyftlk | 3,185
 adalk | 4,380
 dailymirrorlk | 4,733
-adaderanalk | 5,567
-tamilmirrorlk | 6,357
-virakesarilk | 7,568
-adaderanasinhalalk | 8,182
+adaderanalk | 5,568
+tamilmirrorlk | 6,358
+virakesarilk | 7,569
+adaderanasinhalalk | 8,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,336 (100.0%) of 47,336 articles have been extended.
+47,342 (100.0%) of 47,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Reduction of container transport fee
+
+*2024-10-02 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195289) · `ta`
+
+Container transport fee reduced 4% due to lower fuel costs. Government cuts diesel price by 24 rupees, prompting association to lower rates.
+
+🟩
+
+The container vehicle owners' association said the container transport fee was reduced by 4 percent from midnight on Tuesday (01).
+
+Chairman of the container vehicle owners association, Sanath Manjula said,
+
+“As the government has reduced the fuel prices, Otto diesel prices have been reduced by 24 rupees and previously 10 rupees.
+
+It has been decided to reduce the import and export container transport fee by 4 percent compared to those prices. The government is currently working on relief to the entire public.
+
+Accordingly, our executive committee has decided to reduce the transportation tariffs.
+
+◼️
+
+[Data](articles/03bc4fc1.json)
+
+[Extended Data](ext_articles/03bc4fc1.ext.json)
+
+---
+
+### Barber Assaves resign to second time
+
+*2024-10-02 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201753) · `si`
+
+Barber Assaves resigns twice: once from ODI team, then from T20 group. Cites focus on batting and workload management. Notified Pakistan cricket board last year after initial resignation during World Cup. Aged 29, scored 5729 runs in 117 internationals and 4145 in 123 matches.
+
+🟩
+
+Pakistan ODI and 20 ODIs and 20th groups have resigned from the leadership, led by groups.
+
+He has said that he has made a note of his X account and pay more attention to its batting and manage the amount of work.
+
+He said he was notified last year to the Pakistan cricket authorities.
+
+He first resigned from the top of the ODIs' World Cup last year.
+
+But 4 months later, he was led by one day and 20 teams.
+
+The 29-year-old batsman scored 5,729 in 117 international competitions and 4,145 in 123 international matches.
+
+◼️
+
+[Data](articles/ebb443ea.json)
+
+[Extended Data](ext_articles/ebb443ea.ext.json)
+
+---
+
+### The island of super-basketball champions
+
+*2024-10-02 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201752) · `si`
+
+Sri Lanka Air Force teams win women's and men's championships in Maldives' Super Cup Basketball Tournament. Teams arrive at Katunayake airport. Senior officials receive awards at Bandaranaike International Airport.
+
+🟩
+
+Sri Lanka Air Force groups have won both women and women championships in the "Super" Cup Basketball Tournament organized by the Maldivian Basketball Association.
+
+The two Sri Lankan Air Force groups have arrived at the Katunayake airport yesterday morning.
+
+The Maldives were held with the World-in-World Basketball Tournament in this "Super" cup
+
+Sri Lanka Air Force Commodore Amal Perera, Chairman of Sri Lanka Air Force Basadore Reserve Amaul Perera and other senior officials of the Sri Lanka Air Force were present at the Bandaranaike International Air Force to accept the winning SLAF Competives
+
+◼️
+
+[Data](articles/601a81d8.json)
+
+[Extended Data](ext_articles/601a81d8.ext.json)
+
+---
+
+### Two arrested for possessing priceless antiquities
+
+*2024-10-02 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201751) · `si`
+
+Two arrested for antique theft: STF seizes gems, statues worth millions in Sri Lanka raid.
+
+🟩
+
+Two persons have been arrested by the STF with the possession of anti-corresponding gems and rare statues and rare statues and rare statues obtained from it.
+
+The brigade said that the raid was carried out in the Paramekada area, according to information received by the Passara camp.
+
+There were three types of rare burdens with an ancient value and had a golden weight and 11 gem statues, a golden Buddha statue, a golden Buddha statue.
+
+The STF said that two-year-old and 63-year-old residents of Hettimulla, Kegalle were arrested.
+
+◼️
+
+[Data](articles/06879a49.json)
+
+[Extended Data](ext_articles/06879a49.ext.json)
+
+---
+
+### Freight container transport charges reduced
+
+*2024-10-02 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102392/freight-container-transport-charges-reduced) · `en`
+
+The All-Island United Container Transport Owners’ Association says container transportation charges have been decreased by 4 percent, with effect from midnight yesterday (01 Oct).
+
+The president of the Association, Sanath Manjula stated that the decision comes in response to the government’s recent reduction in Auto Diesel prices by Rs. 24, following an earlier reduction of Rs. 10. The association has decided to decrease the import and export freight container transport charges by 4 percent, in line with the fuel prices, he said.
+
+“Currently, the government is working to provide relief to the entire public. Accordingly, our executive committee decided to lower the container transport charges, “said the president of the association.
+
+◼️
+
+[Data](articles/dd7ceb7f.json)
+
+[Extended Data](ext_articles/dd7ceb7f.ext.json)
+
+---
 
 ### Political parties must unite and determine new directions for future politics - Jaffna. Calling the Catholic Diocese of Priests
 
@@ -57,6 +177,34 @@ The tendencies of contemporary political parties, internal chaos and decisive po
 [Data](articles/a21d8251.json)
 
 [Extended Data](ext_articles/a21d8251.ext.json)
+
+---
+
+### A officer who spends the funds of the ministry to go to France
+
+*2024-10-02 09:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-செல்ல-அமைச்சின்-நிதியை-செலவு-செய்த-அதிகாரி/175-344792) · `ta`
+
+Former Palm Development Board chair faces inquiry over Rs 19 lakh fund misuse for France trip. Resigned after allegations of misusing ministry funds for personal travel. Trip aimed to promote Sri Lankan palm products in Europe but resulted in zero export revenue. Investigation committee recommends refunding the spent amount.
+
+🟩
+
+The former chairman of the Palm Development Board has decided to conduct an immediate inquiry into the spending of more than Rs 19 lakhs from the Ministry -owned fund to go to France.
+
+It was also reported that the Chairman of the House had handed over his resignation letter to the Secretary of the Ministry yesterday (01).
+
+The former chairman was appointed chairman of the Palm Development Board in 2020, and he visited European countries, including France from September 2021 to the popularity of the country's palm products.
+
+For this 23 -day trip, the amount of palm development council spent is Rs 1,949,450.
+
+The aim of the leader's visit was to encourage the sale of palm products produced in Sri Lanka in Europe, including France, to upgrade the warehouses, and to appoint a representative to maintain the local palm products selling network.
+
+However, from 2021 and April 2022, the income earned by exporting palm products to European countries is zero.
+
+...
+
+[Data](articles/b2ad740b.json)
+
+[Extended Data](ext_articles/b2ad740b.ext.json)
 
 ---
 
@@ -2123,139 +2271,5 @@ In the meantime, the film 'Vettayan' is being released due to the release of Sup
 [Data](articles/563c15c7.json)
 
 [Extended Data](ext_articles/563c15c7.ext.json)
-
----
-
-### The first song release of 'Game Changer' starring Ram Charan
-
-*2024-10-01 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195241) · `ta`
-
-"First song 'Raha Macha Macha' from Game Changer featuring Ram Charan released. Song by Vivek, sung by Nakas Ashish. Popular among fans for its catchy tune and Ram Charan's dance moves."
-
-🟩
-
-The first song 'Raha Macha Macha', which is featured in the film 'Game Changer', which is the hero of the story of Telugu star actor Ram Saran, who is well known to Tamil fans, has been released.
-
-Ram Saran, Kiara Advani, Anjali, Samudrakani, S.. J.. Surya, Srikanth, Sunil and many others have acted.
-
-The film is being produced by Sri Venkateswara Creations on behalf of Sri Venkateswara Creations.
-
-The film, which is being released in Tamil, Telugu, Malayalam, Kannada and Hindi on the twentieth of December, has been released by the first song and the song of the song 'Klaza Madaki and I'.
-
-This song is written by songwriter Vivek, and backward singer Nakas Ashish is sung. The song, which is made of tulle music, has been very popular as the dance moves and lyrics of Man Ram Saran are very much in love with the fans.
-
-Within a short time of the song, millions of viewers have been visited and achieved.
-
-◼️
-
-[Data](articles/5d08caf6.json)
-
-[Extended Data](ext_articles/5d08caf6.ext.json)
-
----
-
-### Here is the day of liquor closing this week
-
-*2024-10-01 16:39:26* · [`adalk`](https://www.ada.lk/breaking_news/මෙම-සතියේ-සුරාසැල්-වැසෙන-දිනය-මෙන්න/11-412260) · `si`
-
-Liquor stores close Oct 3 to observe World Christianity Day. Commissioner General of Excise issues order.
-
-🟩
-
-The Commissioner General of Excise has been ordered to sit on October 3.
-
-This step has been taken to mark the World Christendom day on that day.
-
-◼️
-
-[Data](articles/b994e006.json)
-
-[Extended Data](ext_articles/b994e006.ext.json)
-
----
-
-### UGC notice on accepting applications for university admission
-
-*2024-10-01 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102382/ugc-notice-on-accepting-applications-for-university-admission-) · `en`
-
-The University Grants Commission (UGC) says that applications have been called from the applicants who have qualified to apply for university admission based on the re-scrutinized results and the release of withheld results of the G.C.E. (Advanced Level) Examination 2023 (2024), for the academic year 2023/2024.
-
-The UGC says that the relevant applications can be submitted online from October 01 to October 08, 2024.
-
-Further details on submitting applications are mentioned in the previously published newspaper advertisement on the calling for applications for university admission for the academic year 2023/2024 published on the official website of the UGC (www.ugc.ac.lk).
-
-The UGC also noted that the two-week period previously given for applicants of the academic year 2023/2024 for changing the order of preference for courses of study is not applicable for this occasion.
-
-...
-
-[Data](articles/5cdc2399.json)
-
-[Extended Data](ext_articles/5cdc2399.ext.json)
-
----
-
-### Seven female plantation workers hurt
-
-*2024-10-01 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195237) · `ta`
-
-Seven female plantation workers injured in wasp attack at Pitratmalai Tea Estate. One transferred to hospital. Incident occurred when wasp nest dissolved in tree.
-
-🟩
-
-Seven female plantation workers were injured in the wasp of Pitratmalai Tea Estate, Aputtalai police said.
-
-The attack took place as a wasp nest in the tree in the tea estate in the Pitratmalai tea estate dissolved.
-
-In this case, one of the injured has been transferred to the Diyatalawa Base Hospital for further treatment, police said.
-
-◼️
-
-[Data](articles/d9c8cb22.json)
-
-[Extended Data](ext_articles/d9c8cb22.ext.json)
-
----
-
-### The person who confused the president's bayer
-
-*2024-10-01 16:25:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பேயரை-சொல்லி-குழப்பிய-நபர்/175-344765) · `ta`
-
-Tense situation in Vavuniya: Protest over missing relatives turns chaotic when unknown person threatens supporters of President Anura, causing confusion and prompting police intervention.
-
-🟩
-
-A tense situation was caused by a person who claimed to be a supporter of President Anura's supporter of the struggle carried out on Tuesday (01) due to missing relations in Vavuniya.
-
-A demonstration was carried out at the Vavuniya old bus station by the Association of Missing Relations on the International Children's Day.
-
-An unidentified person who came to the place said, “This is the rule of Anura you are all stomachs. The money is coming to you. He is involved in the Muttanam with the mother of the struggle. Will catch you in the police. I stand up for two years with Anuragumara. The Police Intelligence Unit will come and arrest you now.Dogs scolds all to go home. Subsequently missing relationships are involved in the contradiction.
-
-This caused confusion in the area and after a short time the person had threatened them from the area.
-
-◼️
-
-[Data](articles/d0e0b1ea.json)
-
-[Extended Data](ext_articles/d0e0b1ea.ext.json)
-
----
-
-### TNA's former MP Sridharan reports
-
-*2024-10-01 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201731) · `si`
-
-Sridharan meets President Dissanayake at Presidential Secretariat. Discusses human sovereignty and people's sovereignty. Conversation described as friendly by Presidential Media Center.
-
-🟩
-
-Former Jaffna District Parliamentarian S.. Mr. Sridharan met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
-
-Human sovereignty of the people's sovereignty as the President of Sri Lanka. The Presidential Media Senses stabbed that Mr. Sridharan has a friendly conversation with the President.
-
-◼️
-
-[Data](articles/57955abe.json)
-
-[Extended Data](ext_articles/57955abe.ext.json)
 
 ---

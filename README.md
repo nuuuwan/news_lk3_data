@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 21:58:28**
+As of **2024-10-02 22:12:50**
 
 ## Newspaper Stats
 
-*Scraped **47,449** Articles*
+*Scraped **47,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,115 @@ dailyftlk | 3,185
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,583
-tamilmirrorlk | 6,386
-virakesarilk | 7,584
+tamilmirrorlk | 6,387
+virakesarilk | 7,587
 adaderanasinhalalk | 8,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,449 (100.0%) of 47,449 articles have been extended.
+47,453 (100.0%) of 47,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Exit Exit
+
+*2024-10-02 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195353) · `ta`
+
+Stalin criticizes exam system overhaul, citing unnecessary changes. CID investigates pre-release of Grade 5 scholarship questions. Human Rights Commission advises against action until probe completion.
+
+🟩
+
+Joseph Stalin, General Secretary of the Sri Lanka Teachers Union, says that the complete restructuring of the Department of Examinations is not essential for the crisis of the Examination Questionnaire.
+
+He said this while attending a media briefing in Colombo on Wednesday (02) on the issue of the first questionnaire of the Grade 5 scholarship examination of this year.
+
+“Now the selection sheet is prolonged. The selection department means failure. On 12.04.2024. 473 people involved in various exams. These individuals are banned from choices.
+
+Meanwhile, the Criminal Investigation Department (CID) has not yet completed the investigation of whether the question paper of the Grade 5 scholarship examination has been published in advance, the Sri Lanka Human Rights Commission said.
+
+The announcement was issued on Tuesday (01) and that the Human Rights Commission had written to the Secretary of the Ministry of Education not to take any resolution on the Grade 5 scholarship examination.
+
+◼️
+
+[Data](articles/1056b756.json)
+
+[Extended Data](ext_articles/1056b756.ext.json)
+
+---
+
+### New Democratic Front to field in general election and cylinder symbol!
+
+*2024-10-02 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/195352) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Former President Ranil Wickremesinghe's supporters unite under 'Democratic Front' for upcoming general election. Parties agree to use gas cylinder symbol."
+
+🟩
+
+All political parties that supported former President Ranil Wickremesinghe in the last presidential election have agreed to contest the gas cylinder symbol under the new Democratic Front in the next general election.
+
+◼️
+
+[Data](articles/5a6dc399.json)
+
+[Extended Data](ext_articles/5a6dc399.ext.json)
+
+---
+
+### Ranil again in the cylinder
+
+*2024-10-02 21:36:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-சிலிண்டரில்-ரணில்/175-344838) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former President Ranil Wickremesinghe's supporters form new coalition called New Democratic Front. They will contest upcoming general election under "gas cylinder" symbol.
+
+🟩
+
+In the last presidential election, those who supported former President Ranil Wickremesinghe have formed a new coalition.
+
+The coalition, which is under the name of the New Democratic Front, is expected to contest the upcoming general election in the gas cylinder symbol.. Remble
+
+◼️
+
+[Data](articles/ffffc8cb.json)
+
+[Extended Data](ext_articles/ffffc8cb.ext.json)
+
+---
+
+### Discussions on economic reforms between the top representatives of the International Monetary Fund and the Government of Sri Lanka
+
+*2024-10-02 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/195351) · `ta`
+
+IMF delegation visits Sri Lanka to discuss economic reforms and review progress of $2.9 billion loan program. Meeting focuses on future projects and new government's initiatives. IMF representatives praise ongoing reforms and express continued support for Sri Lanka.
+
+🟩
+
+A high -level committee of the IMF (IMF) visited Sri Lanka on Wednesday (02) to investigate the future project of the new government headed by President Anura Kumara Dissanayake, which is in conjunction with the International Monetary Fund.
+
+The purpose of this visit is to investigate the progress of the IMF project and the fourth installment of the $ 2.9 billion extended financial facility.
+
+Accordingly, a meeting between the IMF delegation and the economic committee appointed to the new government's International Monetary Fund was held at the Presidential Office on Wednesday afternoon.
+
+The two sides reviewed the project between the International Monetary Fund and Sri Lanka and commented on its future activities.
+
+...
+
+[Data](articles/42985c4f.json)
+
+[Extended Data](ext_articles/42985c4f.ext.json)
+
+---
 
 ### All party gas cylinder supported Ranil to contest general
 
@@ -2361,105 +2457,5 @@ This is because other animals in the forest are likely to hunt this rare nagabam
 [Data](articles/76d43390.json)
 
 [Extended Data](ext_articles/76d43390.ext.json)
-
----
-
-### Rare pink
-
-*2024-10-02 10:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியவகை-இளஞ்சிவப்பு-நிற-நாகபாம்பு-கண்டுபிடிப்பு/175-344794) · `ta`
-
-Rare pink nagabhu found in Ambalangoda, 18 feet long. Handed over to Dehiwala Zoo. Low population, born rarely. Must stay in forest to protect from predators.
-
-🟩
-
-A rare pink nagabhu has been discovered by residents from a house in Ambalangoda, Vatuketara and Adathola area.
-
-This pink is 18 feet long. The Nagabhu has been handed over to the authorities of the Dehiwala Zoo.
-
-This rare pink snake is very low in the country. Such rare snakes are born once in many years.
-
-Therefore, it is necessary to keep it in the forest safely without leaving the forest.
-
-This is because other animals in the forest are likely to hunt this rare nagabambam.
-
-◼️
-
-[Data](articles/e91b1561.json)
-
-[Extended Data](ext_articles/e91b1561.ext.json)
-
----
-
-### Pikuwaka at the age of 12
-
-*2024-10-02 10:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிறப்பு-கட்டுரைகள்/அனுரவை-12-வயதில்-பிக்குவாக்கக்-கூறினர்-தாய்-உருக்கம்/91-344793) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Seelavati refuses to let her 12-year-old son Anura Kumara Dissanayake become a Buddhist monk. She believes astrology predicted he'd be president. Anura grew up in poverty but pursued politics, becoming Sri Lanka's president in 2024.
-
-🟩
-
-"Why do I do not accept my son Anura Kumara Dissanayake to make a Buddhist monk to make a Buddhist monk at the age of 12," said Seelavati, the new president's mother, Seelavati.
-
-President Anura Kumara Dissanayake's mother, TM Kumara Dissanayake, is a small asbestos roofing home in Thambuthegama, a farmhouse, 25 km from Anuradhapura, the capital of the North Central Province of Sri Lanka.. Seelavati (86) lives with her daughter Sriyalatha (62).
-
-In an interview with Mother Seelavathi, President of Sri Lanka Anura Kumara Dissanayake said:. Go to the nearest swimming pool everyday and likes to swim. Anura always likes reading books.
-
-...
-
-[Data](articles/4e2a16d3.json)
-
-[Extended Data](ext_articles/4e2a16d3.ext.json)
-
----
-
-### High-level IMF team to arrive in Sri Lanka today
-
-*2024-10-02 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102393/high-level-imf-team-to-arrive-in-sri-lanka-today) · `en`
-
-A high-level team of the International Monetary Fund (IMF) is scheduled to visit the island today (02).
-
-Accordingly, the team led by its Director of the Asia Pacific Department, Krishna Srinivasan, is scheduled to visit Colombo from October 02 to 04 to meet with President Anura Kumara Dissanayake and Sri Lanka’s new economic team.
-
-The high-level delegation is visiting the island to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF, according to a spokesperson for the global lender.
-
-Speaking on the upcoming visit of the high-level International Monetary Fund (IMF) delegation visiting Sri Lanka this week, Cabinet Spokesman Vijitha Herath said that only preliminary discussions on the country’s EFF program will take place during the meeting
-
-A further discussion on its structural facts is scheduled to take place in New York around the end of October, he told reporters in Colombo yesterday (01).
-
-◼️
-
-[Data](articles/69f58607.json)
-
-[Extended Data](ext_articles/69f58607.ext.json)
-
----
-
-### Reduction of container transport fee
-
-*2024-10-02 10:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195289) · `ta`
-
-Container transport fee reduced 4% due to lower fuel costs. Government cuts diesel price by 24 rupees, prompting association to lower rates.
-
-🟩
-
-The container vehicle owners' association said the container transport fee was reduced by 4 percent from midnight on Tuesday (01).
-
-Chairman of the container vehicle owners association, Sanath Manjula said,
-
-“As the government has reduced the fuel prices, Otto diesel prices have been reduced by 24 rupees and previously 10 rupees.
-
-It has been decided to reduce the import and export container transport fee by 4 percent compared to those prices. The government is currently working on relief to the entire public.
-
-Accordingly, our executive committee has decided to reduce the transportation tariffs.
-
-◼️
-
-[Data](articles/03bc4fc1.json)
-
-[Extended Data](ext_articles/03bc4fc1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 00:38:44**
+As of **2024-10-03 00:55:55**
 
 ## Newspaper Stats
 
-*Scraped **47,464** Articles*
+*Scraped **47,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,185
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
-tamilmirrorlk | 6,388
+tamilmirrorlk | 6,389
 virakesarilk | 7,587
 adaderanasinhalalk | 8,212
 
@@ -26,9 +26,37 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,464 (100.0%) of 47,464 articles have been extended.
+47,465 (100.0%) of 47,465 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-03 (Thursday)
+
+### IMF - Government Discussion
+
+*2024-10-03 00:20:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-அரசாங்கம்-கலந்துரையாடல்/175-344840) · `ta`
+
+IMF delegation visits Sri Lanka to discuss new government's projects and review $2.9 billion extended financial facility progress. Meeting held at Presidential Office, focusing on future operations and reforms. IMF representatives praise new government's initiatives and express positive attitude towards Sri Lanka's economic stability efforts.
+
+🟩
+
+A high -level committee of the International Monetary Fund visited Sri Lanka yesterday to investigate the future project of the new government led by President Anura Kumara Dissanayake, which is in conjunction with the International Monetary Fund.
+
+IMF. The purpose of this visit is to investigate the progress of the project and the fourth installment of the $ 2.9 billion extended financial facility.
+
+Accordingly, the IMF. The meeting between the delegation and the new government's IMF for talks was held at the Presidential Office yesterday afternoon.
+
+Both sides reviewed the project between the International Monetary Fund and Sri Lanka and commented on its future operations.
+
+Representatives of the International Monetary Fund have congratulated the new reforms in the country under the current government and increased the positive attitude towards Sri Lanka.
+
+...
+
+[Data](articles/85c90b81.json)
+
+[Extended Data](ext_articles/85c90b81.ext.json)
+
+---
 
 ### 2024-10-02 (Wednesday)
 
@@ -2421,27 +2449,5 @@ He was already married and had children to know that he had not married and told
 [Data](articles/ec4783bb.json)
 
 [Extended Data](ext_articles/ec4783bb.ext.json)
-
----
-
-### Cuban ambassador meets Sri Lanka president
-
-*2024-10-02 11:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-hotels-ceylon-tea-trails-win-rest-of-asia-awards-by-conde-nast-traveller-181900/) · `en`
-
-ECONOMYNEXT – Cuban Ambassador to Sri Lanka Andrés Marcelo González Garrido has met President Anura Dissanayake to reaffirm the Cuban government’s ongoing support.
-
-“Ambassador Gonzales extended warm greetings to the new government and expressed Cuba’s readiness to enhance cooperation with Sri Lanka,” the president’s media division said in a statement.
-
-“He reaffirmed the Cuban government’s ongoing support for our efforts to combat dengue, offering collaboration and expertise to strengthen public health initiatives aimed at eradicating the disease.”
-
-Discussions also focused on reinforcing the long-term diplomatic relations and the enduring friendship between the two nations, the statement read.
-
-This follows courtesy calls by other ambassadors including those from India, China, US and Russia.(Colombo/Oct02/2024)
-
-◼️
-
-[Data](articles/cf42a898.json)
-
-[Extended Data](ext_articles/cf42a898.ext.json)
 
 ---

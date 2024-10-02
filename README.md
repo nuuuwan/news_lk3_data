@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 04:11:07**
+As of **2024-10-03 04:38:37**
 
 ## Newspaper Stats
 
-*Scraped **47,478** Articles*
+*Scraped **47,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
 tamilmirrorlk | 6,389
-virakesarilk | 7,590
+virakesarilk | 7,592
 adaderanasinhalalk | 8,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,478 (100.0%) of 47,478 articles have been extended.
+47,480 (100.0%) of 47,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### We will never accommodate the creation of the federal regime - Roshan Ranasinghe
+
+*2024-10-03 03:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195357) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Roshan Ranasinghe opposes federal system, supports President Dissanayake's decisions for national welfare. He criticizes corruption in previous government, discusses upcoming elections strategy.
+
+🟩
+
+We will provide unconditional cooperation to the best decisions taken by President Anura Kumara Dissanayake for the welfare of the country. Homeland People's Party leader Roshan Ranasinghe said that there was never a place to create a federal system that would divide the country.
+
+Former Parliamentarian Roshan Ranasinghe, former MP Sanna Jayasumana as the leader of the homeland People's Party led by businessman Dilith Jayaweera, and former MP Sanna Jayasumana and former parliamentarian Milan Jayatilaka Gampaha district coordinator were appointed by Thilathi Jayaweera on Wednesday.
+
+Roshan Ranasinghe said during a media briefing held at the Mother's Leadership Office on Wednesday (2) following the appointment.
+
+I am well aware of businessman Dilith Jayaweera. He has advanced by his labor.. I was expelled from our government because they voiced against corruption.
+
+...
+
+[Data](articles/64c085ba.json)
+
+[Extended Data](ext_articles/64c085ba.ext.json)
+
+---
+
+### Australian Deputy High Commissioner who described Ravikaran as a future MP
+
+*2024-10-03 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195358) · `ta`
+
+Australian Deputy High Commissioner Lalitha Kapoor met Durairasa Ravikaran in Mullaitivu. She called him a future MP, discussing issues like political prisoner releases, land occupations, drug use, and fishing violations.
+
+🟩
+
+Australian Deputy High Commissioner to Sri Lanka Lalitha Kapoor and former Northern Provincial Councilor Durairasa Ravikaran held a meeting on Wednesday (02) at Ravikaran's public relations in Mullaitivu.
+
+During the meeting, Australian Vice -Ambassador to Sri Lanka, Lalitha Kapoor, described Ravikaran as a future Member of Parliament.
+
+Former Northern Provincial Council Member Durairasa Ravikaran is widely talked about in the upcoming parliamentary election on behalf of the Sri Lankan Tamil party.. It was in this context that the Australian Vice -Ambassador to Sri Lanka, Ravikaran, explained the above.
+
+The meeting also discussed a variety of issues including the release of political prisoners, the threats of the intelligence of the investigators, the occupation of the lands of the Tamils, the use of drugs in the Tamil areas, the activities of the Indian fishermen and the violation of the Sri Lankan fishermen.
+
+◼️
+
+[Data](articles/78ba7652.json)
+
+[Extended Data](ext_articles/78ba7652.ext.json)
+
+---
 
 ### Sri Lankan trade delegation forges strong business links with Australia
 
@@ -2347,59 +2399,5 @@ Officials of the Bribery Commission were able to seize the vehicle only after a 
 [Data](articles/895789b2.json)
 
 [Extended Data](ext_articles/895789b2.ext.json)
-
----
-
-### Bus accident that killed the 25 Kakulu Kakulu
-
-*2024-10-02 12:15:40* · [`adalk`](https://www.ada.lk/breaking_news/මල්-කැකුළු-25ට-මරු-කැඳවූ-තායිලන්තයේ-බස්-රථ-අනතුර/11-412271) · `si`
-
-Bangkok bus crash kills 25 school children. Foreign reports claim 38 schools and six teachers were aboard.
-
-🟩
-
-Around 25 small school children were killed by a bus carrying school children in Bangkok, Thailand.
-
-Foreign media reports that there were 38 schools and six teachers in the bus at the time of fire.
-
-◼️
-
-[Data](articles/bd4b0263.json)
-
-[Extended Data](ext_articles/bd4b0263.ext.json)
-
----
-
-### Curry prices in the world market
-
-*2024-10-02 12:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201756) · `si`
-
-Here's a 200-character summary:
-
-
-
-Middle East conflicts drive up global oil prices. Iran-Iraq tensions increase crude costs. Brent crude hits $74.40. Iran, 7th largest oil producer, impacts 20% of world fuel supply via strategic waterway.
-
-🟩
-
-Middle East conflicts have developed the Middle East conflicts due to the missile attacks targeted by Iran.
-
-The international media reports that crude oil prices have increased in the world market.
-
-The price of a barrel of Brent crude oil was increased to $ 74.40.
-
-Iran is the 7th largest fuel manufacturer in the world. The third largest fuel manufacturer of OPEC is the third largest fuel manufacturer.
-
-Trade sources said that if conflicts further expand the conflicts, the traffic can be hindered through the Strait.
-
-The sea between Iran and Oman are a major contributor to the world fuel trade, which is about 20% of the world fuel supply.
-
-Other OPEC member countries, Saudi Arabia, UAE users use this marine path to transport its fuel.
-
-◼️
-
-[Data](articles/66681bd9.json)
-
-[Extended Data](ext_articles/66681bd9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 13:22:43**
+As of **2024-10-02 13:39:16**
 
 ## Newspaper Stats
 
-*Scraped **47,383** Articles*
+*Scraped **47,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,889
 dailyftlk | 3,185
-adalk | 4,384
+adalk | 4,385
 dailymirrorlk | 4,733
-adaderanalk | 5,574
+adaderanalk | 5,575
 tamilmirrorlk | 6,371
 virakesarilk | 7,573
-adaderanasinhalalk | 8,190
+adaderanasinhalalk | 8,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,383 (100.0%) of 47,383 articles have been extended.
+47,383 (100.0%) of 47,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### HC adjourns hearing of ‘hit-and-run’ case against Patali Champika till Feb. 28
+
+*2024-10-02 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102398/hc-adjourns-hearing-of-hit-and-run-case-against-patali-champika-till-feb-28) · `en`
+
+The Colombo High Court has ordered the case against former Minister Patali Champika Ranawaka over the hit-and-run incident which took place in 2016, in which the vehicle the former Minister was travelling in had collided with a motorcycle in Rajagiriya, to be postponed until February 28, 2025.
+
+When the case was taken up for consideration today (02), the defendant, former MP Patali Champika Ranawaka, appeared before the Colombo High Court.
+
+Appearing for the defendant, Attorney-at-Law Amarasiri Panditharathna stated before the courts that the defendant has filed an appeal before the Supreme Court in relation to another similar case which is based on this case.
+
+The defence attorney further expressed that the Supreme Court, which considered the appeal, issued an interim order preventing the hearing of the relevant case in the Colombo High Court.
+
+...
+
+[Data](articles/5ccf7481.json)
+
+---
+
+### ඩෙංගු මර්දනයට කියුබාවෙන් විශේෂඥ සහාය
+
+*2024-10-02 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201759) · `si`
+
+ශ්‍රී ලංකා ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ශ්‍රී ලංකාවේ කියුබානු තානාපති අන්ද්‍රේස් මාර්සෙලෝ ගොන්සාලෙස් ගොරිඩෝ මහතා අතර හමුවක් අද (02) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී සිදුවිය.
+
+දෙරට අතර පවතින දීර්ඝ කාලීන රාජ්‍ය තාන්ත්‍රික සබඳතා සහ මිත්‍රත්වය ශක්තිමත් කර ගැනීම පිළිබඳව මෙම හමුවේදී අවධානය යොමු වී තිබේ.
+
+පසුගියදා පැවති ජනාධිපතිවරණයෙන් ලබාගත් ජයග්‍රහණය පිළිබඳව මෙම සුහද සාකච්ඡාවේදී කියුබානු තානාපතිවරයා ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත සිය උණුසුම් සුබපැතුම් පිරිනමා තිබුණි.
+
+එමෙන්ම ජනාධිපතිවරයාගේ නායකත්වය පිළිබඳ ප්‍රශංසා කර ඇති මෙරට කියුබානු තානාපතිවරයා, ශ්‍රී ලංකාව සමඟ පවතින සහයෝගීතාව වැඩි දියුණු කිරීමට කියුබාව සූදානමින් සිටින බව ද ප්‍රකාශ කළ බව සඳහන් ය.
+
+එමෙන්ම, ඩෙංගු මර්දනය සඳහා ශ්‍රී ලංකාව දරන ප්‍රයත්නයන් සඳහා කියුබානු රජය අඛණ්ඩව සහාය ලබා දෙන බව ඔහු මෙහිදී සහතික විය.
+
+...
+
+[Data](articles/37a2f113.json)
+
+---
 
 ### Cuba agrees to provide expert knowledge for dengue control in Sri Lanka
 
@@ -151,6 +189,20 @@ Officials of the Bribery Commission were able to seize the vehicle only after a 
 [Data](articles/895789b2.json)
 
 [Extended Data](ext_articles/895789b2.ext.json)
+
+---
+
+### මල් කැකුළු 25ට මරු කැඳවූ තායිලන්තයේ බස් රථ අනතුර
+
+*2024-10-02 12:15:40* · [`adalk`](https://www.ada.lk/breaking_news/මල්-කැකුළු-25ට-මරු-කැඳවූ-තායිලන්තයේ-බස්-රථ-අනතුර/11-412271) · `si`
+
+තායිලන්තයේ බැංකොක් නුවර පාසල් සිසුන් ප්‍රවාහනය කළ බස් රථයක් ගිනි ගැනීමට ලක්වීමෙන් කුඩා පාසල් ළමුන් 25 දෙනෙකු පමණ ජීවිතක්ෂයට පත්ව තිබේ.
+
+ගිනි ගැනීම සිදු වන අවස්ථාවේ බස් රථය තුළ පාසල් සිදුන් 38 දෙනෙකු සහ ගුරුවරුන් 06 දෙනෙකු සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/bd4b0263.json)
 
 ---
 
@@ -2229,85 +2281,5 @@ In this case, Rajinikanth had an inflammation in the blood vessel heading to the
 [Data](articles/ddec59c7.json)
 
 [Extended Data](ext_articles/ddec59c7.ext.json)
-
----
-
-### Iran attacks in Israel
-
-*2024-10-01 22:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201742) · `si`
-
-Iran threatens missile strikes on Israel. Israeli army warns civilians to seek shelter. Sri Lanka advises citizens to stay safe. Defense Ministry issues travel restrictions. Essential supplies like food, medicine, and water are prioritized.
-
-🟩
-
-The Israeli Army says Iran will launch missile strikes over Israel.
-
-According to foreign media reports, all Israeli civilians are detained in security places.
-
-Meanwhile, Sri Lankan Ambassador to Israel, Sri Lankans in Israel, has been a special notification for Israel.
-
-It states that everyone in Israel must be nearing a place where security is available until it is again informed.
-
-The Ministry of Defense and the instructions issued by the Ministry of Defense and PIBA have been informed to protect their protection from unnecessary travels.
-
-He further stated that the essential foods, drugs and water.
-
-◼️
-
-[Data](articles/75ebd405.json)
-
-[Extended Data](ext_articles/75ebd405.ext.json)
-
----
-
-### Israel Military says missiles launched by Iran at Israel
-
-*2024-10-01 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102388/israel-military-says-missiles-launched-by-iran-at-israel) · `en`
-
-Iran has launched missiles targeting Israel, the military said Tuesday, following US warnings that an Iranian attack was imminent.
-
-“A short while ago, missiles were launched from Iran towards the State of Israel,” the military said in a statement. It said sirens were sounded across Israel, including in Jerusalem.
-
-The US embassy in Israel called on its staff and their family members to shelter in place amid the warnings.
-
-“As a result of the current security situation, the US embassy has directed all US government employees and their family members to shelter in place until further notice,” the embassy said in a statement.
-
-Air raid sirens have sounded, and AFP journalists have reported hearing explosions over Jerusalem.
-
-Earlier on Tuesday, at least seven people were wounded in a shooting in Israel’s commercial hub Tel Aviv, according to emergency responders, in what police said was a suspected “terror” attack.
-
-...
-
-[Data](articles/50f938be.json)
-
-[Extended Data](ext_articles/50f938be.ext.json)
-
----
-
-### School children will not decrease transport charges
-
-*2024-10-01 22:15:59* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-ප්‍රවාහන-ගාස්තු-අඩු-වෙන්නේ-නෑ/11-412266) · `si`
-
-Fuel price drop won't lower transport costs for school children. Association president says vehicle price hike offsets savings. Decision pending executive committee review.
-
-🟩
-
-Despite the reduction of fuel prices, the All Island School Children's Train Association President Ruwan Prasad said yesterday (01st) this morning at a press conference held at Ambalangoda yesterday morning.
-
-Mr. Ruwan added that the specific official statement of this will take his Association's Executive Committee in three days.
-
-He said that there were many reasons for the loss of a decrease in the use of fuel tariffs, but the increase in vehicle prices was reduced.
-
-Mr. Ruwan said that if the fuel prices of fuel will be substantially purchased at least six months and regulate their service, he could agree to reduce the transportation of school children.
-
-Mr. Ruwan said that the fuel prices have no relief to its industry by the uplifting vehicles.
-
-The All Island Inter-Provincial School Children Transport Association (JVP) has also commented on the National Organizing School Children Transport Association.
-
-◼️
-
-[Data](articles/b0142e38.json)
-
-[Extended Data](ext_articles/b0142e38.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 09:12:23**
+As of **2024-10-02 09:23:35**
 
 ## Newspaper Stats
 
-*Scraped **47,330** Articles*
+*Scraped **47,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 2,882
 dailyftlk | 3,185
 adalk | 4,380
 dailymirrorlk | 4,733
-adaderanalk | 5,565
-tamilmirrorlk | 6,356
+adaderanalk | 5,566
+tamilmirrorlk | 6,357
 virakesarilk | 7,567
-adaderanasinhalalk | 8,181
+adaderanasinhalalk | 8,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,330 (100.0%) of 47,330 articles have been extended.
+47,333 (100.0%) of 47,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Iran says attack on Israel is over as fears grow of wider conflict
+
+*2024-10-02 09:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102390/iran-says-attack-on-israel-is-over-as-fears-grow-of-wider-conflict) · `en`
+
+Iran said early on Wednesday that its missile attack on Israel was over barring further provocation, while Israel and the U.S. promised to retaliate against Tehran as fears of a wider war intensified.
+
+Washington said it would work with longtime ally Israel to make sure Iran faced “severe consequences” for Tuesday’s attack, which Israel said involved more than 180 ballistic missiles.
+
+The United Nations Security Council scheduled a meeting about the Middle East for Wednesday, and the European Union called for an immediate ceasefire.
+
+“Our action is concluded unless the Israeli regime decides to invite further retaliation. In that scenario, our response will be stronger and more powerful,” Iranian Foreign Minister Abbas Araqchi said in a post on X early on Wednesday.
+
+Israel renewed its bombardment early on Wednesday of Beirut’s southern suburbs, a stronghold of the Iran-backed armed Hezbollah group, with at least a dozen airstrikes against what it said were targets belonging the group.
+
+...
+
+[Data](articles/56ddad5f.json)
+
+[Extended Data](ext_articles/56ddad5f.ext.json)
+
+---
+
+### 17 year old victim dies in clash
+
+*2024-10-02 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201750) · `si`
+
+17-year-old killed in group clash; police investigating; 55-year-old arrested; two injured hospitalized; motive unclear
+
+🟩
+
+A youth was killed in a confrontation between two groups in the Madawala area in Mahawela.
+
+Police said that investigations have revealed that the murder had been assaulted by a poles and safe empty.
+
+The cause of the attack has not yet been revealed.
+
+A 55-year-old man residing in the Madawala area has been arrested with a resident of Madawala area.
+
+The other suspects have fled the Mahawela Police for the arrest of them.
+
+Meanwhile, two persons who were injured in a sword and spear were seriously injured and admitted to Avissawella hospital.
+
+Police said that the man died yesterday (01).
+
+The victim is a 65 year old resident of Thihapaththapitiya.
+
+Investigations have revealed that the murder had been carried out on a personal dispute between the deceased and suspects.
+
+A 45-year-old suspect was arrested with a sword and a munch.
+
+◼️
+
+[Data](articles/7239bb4f.json)
+
+[Extended Data](ext_articles/7239bb4f.ext.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -49,6 +107,28 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/c71703ae.json)
 
 [Extended Data](ext_articles/c71703ae.ext.json)
+
+---
+
+### IMF Group coming to meet the new president
+
+*2024-10-02 08:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதியை-சந்திக்க-வரும்-IMF-குழு/175-344790) · `ta`
+
+IMF delegation led by Krishna Srinivasan meets Sri Lanka's new president Anura Kumara Dissanayake. Discusses economic development and reforms under Sri Lanka Economic Program supported by IMF.
+
+🟩
+
+A team headed by Krishna Srinivasan, Director of the Asia Pacific Department of the International Monetary Fund, will visit Sri Lanka today.
+
+They will meet President Anura Kumara Dissanayake and the new government's economists.
+
+During the visit, a spokesman for the IMF said that the economic development of Sri Lanka and the economic reforms under the Sri Lanka Economic Program with the support of the International Monetary Fund will be discussed, said a spokesman for the IMF.. Remble
+
+◼️
+
+[Data](articles/dbedb95e.json)
+
+[Extended Data](ext_articles/dbedb95e.ext.json)
 
 ---
 
@@ -2169,61 +2249,5 @@ The two also engaged in a warm and friendly conversation, the statement said.
 [Data](articles/3f75e4ed.json)
 
 [Extended Data](ext_articles/3f75e4ed.ext.json)
-
----
-
-### ASPI jumps 137 points, nears 12,000 mark
-
-*2024-10-01 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/102380/aspi-jumps-137-points-nears-12000-mark) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange has increased by 137.86 points to close at 11,992.91 today (Oct. 01).
-
-This is an increase of 1.16 percent from the previous close.
-
-Meanwhile, the S&P SL20 has increased by 67.51 points (1.95%) to close at 3,520.92 points.
-
-◼️
-
-[Data](articles/679edfe7.json)
-
-[Extended Data](ext_articles/679edfe7.ext.json)
-
----
-
-### Increase in stock market
-
-*2024-10-01 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201729) · `si`
-
-Stock market surge: ASPI rises 137.86 points to 11,992.91, boosting investor confidence.
-
-🟩
-
-All Stock Price Index (ASPI) increased by 137.86 units today (01).
-
-At the end of transactions, all stock price index value was recorded as 11,992.91 points.
-
-◼️
-
-[Data](articles/44fae632.json)
-
-[Extended Data](ext_articles/44fae632.ext.json)
-
----
-
-### Bus fares from midnight today reduce bus fare - Minimum bus fare is Rs
-
-*2024-10-01 15:33:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-මධ්‍යම-රාත්‍රියේ-සිට-බස්-ගාස්තු-අඩු-වෙයි---අවම-බස්-ගාස්තුව-රු-27යි/11-412259) · `si`
-
-National Transport Commission reduces bus fares by 4.24%. Minimum fare now Rs [amount]. Effective midnight today.
-
-🟩
-
-The National Transport Commission has taken steps to reduce the bus fares by 4.24% with the reduction of fuel prices.
-
-◼️
-
-[Data](articles/04de4b34.json)
-
-[Extended Data](ext_articles/04de4b34.ext.json)
 
 ---

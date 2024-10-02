@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 13:58:16**
+As of **2024-10-02 14:12:22**
 
 ## Newspaper Stats
 
-*Scraped **47,388** Articles*
+*Scraped **47,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,575
 tamilmirrorlk | 6,371
 virakesarilk | 7,575
-adaderanasinhalalk | 8,191
+adaderanasinhalalk | 8,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,388 (100.0%) of 47,388 articles have been extended.
+47,389 (100.0%) of 47,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Twin to win the 8th of the year
+
+*2024-10-02 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201761) · `si`
+
+Two 13-year-old twins from Kalubowila excel in GCE O/L exams. They credit their father's guidance and private tutoring for their success. Both aim to become computer technicians after pursuing A/L studies.
+
+🟩
+
+At the age of 13, two twin children who won the GCE O / L examination were reported in Kalubowila.
+
+Daughter, Daughter, Daughter, Daughter, who is residents of Kalubowila Anderson Road, Nugegoda. The examination was held with the recent school in St. John (Women's College) College, Nugegoda.
+
+Also, her twin the exam with her, the eight-grade of Eight Grade Eight of Easipathana Vidyalaya, Colombo. Nishan Sugith Spoods also examined optimal awards and awards certificates.
+
+The father of the two twins was able to achieve this victory over the guidance of private tuition after leaving the school examination at low age examination.. P. P. Said Nishantha said.
+
+Commenting on this victory said:
+
+...
+
+[Data](articles/e6100078.json)
+
+[Extended Data](ext_articles/e6100078.ext.json)
+
+---
 
 ### Former MP Vino Nogarathalingam announces not contesting parliamentary elections
 
@@ -2301,21 +2327,5 @@ In September, Sri Lanka experienced deflation for the first time since 2015, wit
 [Data](articles/70fccbab.json)
 
 [Extended Data](ext_articles/70fccbab.ext.json)
-
----
-
-### Battle for Parliament
-
-*2024-10-01 23:05:12* · [`dailyftlk`](https://www.ft.lk/columns/Battle-for-Parliament/4-767402) · `en`
-
-Without a comfortable victory in this battle AKD’s schedule for reforms and system change would die of stillbirth – Pic by Shehan Gunasekara
-
-From the voting behaviour demonstrated at the last Presidential election, it was evident that the three minorities had not kept abreast of the thirst for change that was awakening the Sinhalese community. Unfortunately, the Aragalaya effect did not penetrate sufficiently deeply into these communities. While ethnonationalism continued to rule the Tamil mindset, provincialism and religious fervour dictated the thinking and behaviour of Muslims, particularly in the Eastern Province. This provincial and religious mindset had been kept alive deliberately by local Muslim leaders ever since 1947
-
-...
-
-[Data](articles/c1129985.json)
-
-[Extended Data](ext_articles/c1129985.ext.json)
 
 ---

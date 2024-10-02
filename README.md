@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 18:19:54**
+As of **2024-10-02 18:34:10**
 
 ## Newspaper Stats
 
@@ -1498,9 +1498,7 @@ ECONOMYNEXT – Cuban Ambassador to Sri Lanka Andrés Marcelo González Garrido 
 
 “He reaffirmed the Cuban government’s ongoing support for our efforts to combat dengue, offering collaboration and expertise to strengthen public health initiatives aimed at eradicating the disease.”
 
-Discussions also focused on reinforcing the long-term diplomatic relations and the enduring friendship between the two nations, the statement read.
-
-This follows courtesy calls by other ambassadors including those from India, China, US and Russia.(Colombo/Oct02/2024)
+Discussions also focused on reinforcing the long-term diplomatic relations and the enduring friendship between the two nations, the statement read. (Colombo/Oct02/2024)
 
 ◼️
 

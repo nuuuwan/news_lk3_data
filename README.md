@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 22:38:30**
+As of **2024-10-02 23:09:06**
 
 ## Newspaper Stats
 
-*Scraped **47,455** Articles*
+*Scraped **47,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ dailymirrorlk | 4,733
 adaderanalk | 5,585
 tamilmirrorlk | 6,387
 virakesarilk | 7,587
-adaderanasinhalalk | 8,210
+adaderanasinhalalk | 8,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,455 (100.0%) of 47,455 articles have been extended.
+47,457 (100.0%) of 47,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Suspect arrested with drug
+
+*2024-10-02 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201785) · `si`
+
+Welipenna Police arrest suspect with 900g ice drugs. Suspect linked to Ahungalle Sanjeewa Sanjeewa, accused of distributing drugs in Welipenara, Aluthgama, and along the Southern Expressway.
+
+🟩
+
+The Welipenna Police have arrested a follower of Ahungalle Sanjeewa Sanjeewa.
+
+The suspect was arrested in the Welipenuwa Kalape area of ​​the Welipenara Kalalla, Welipenara Kalalla.
+
+It is reported that nearly 900 grams of ice drugs in his possession have been recovered.
+
+Interviews from the suspect is a leading drug dealer who is hiding in a foreign country to the Ice drug, Ahungalla dealer in a foreign country to various people, as well as the ice drug dealer in Aluthgama, Welipenu, and Welipenuwe Southern Expressway as well as the Welipenuwewa areas.It is available.
+
+◼️
+
+[Data](articles/282e0da9.json)
+
+[Extended Data](ext_articles/282e0da9.ext.json)
+
+---
+
+### Lions' daughter to fight tomorrow
+
+*2024-10-02 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201784) · `si`
+
+Women's 20 World Cup starts tomorrow. Scotland, Bangladesh join. Sri Lanka vs Pakistan first match. Tournament divided into two categories. Sri Lanka team plays four matches against Pakistan, Australia, India, New Zealand.
+
+🟩
+
+The 9th Women's 20 World Cup Tomorrow begins tomorrow (03).
+
+Scotland and Bangladesh are due to enter the tournament.
+
+The first match of the Sri Lanka women's group will be held at 7.30 pm tomorrow with Pakistan.
+
+The ICC took steps to take the ICC to take the United Arabic Emer to the United Arabic Emer state due to the political crisis of 2024.
+
+This year's tournament is operating in two categories and enters the Sri Lanka Women's Team.
+
+Sri Lanka women participate in four matches in the basic tournament, which is Pakistan, Australia, India and New Zealand.
+
+When the Women's Group was in six World Cups, Australia's 8 cricket tournaments in six cricket tournaments, England and West were women's groups in one of the 20th 2020 World Champions.
+
+◼️
+
+[Data](articles/e7160c68.json)
+
+[Extended Data](ext_articles/e7160c68.ext.json)
+
+---
 
 ### High-level IMF delegation meets new govt’s economic team, discuss reforms
 
@@ -2397,59 +2451,5 @@ In the hotel category, Singapore, South East Asia hotels were in a separate cate
 [Data](articles/54cf72be.json)
 
 [Extended Data](ext_articles/54cf72be.ext.json)
-
----
-
-### Political parties must unite and determine new directions for future politics - Jaffna. Calling the Catholic Diocese of Priests
-
-*2024-10-02 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195285) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil political parties urged unity ahead of Jaffna parliamentary election. Catholic Diocese calls for new directions, rejecting internal conflicts and corruption. Emphasizes need for change, gender equality, and youth leadership.
-
-🟩
-
-Political parties should unite and determine new directions for future politics. The Catholic Diocese of Priests Union has called.
-
-The upcoming parliamentary election Jaffna. This is stated in the media report of the Catholic Diocese of the Diocese
-
-The Tamil people are the Tamil political parties, in order to make a new change, we are standing in a historical leap as a race.. In the wake of the ongoing presidential election, the upcoming parliamentary elections have provoked expectations for giants among the Tamil people.
-
-The tendencies of contemporary political parties, internal chaos and decisive political vague, are prolonging confusion and pain among the Tamil people.. If this is the case, there will be a significant number of Tamil parliamentary representatives in the upcoming parliamentary election.
-
-...
-
-[Data](articles/a21d8251.json)
-
-[Extended Data](ext_articles/a21d8251.ext.json)
-
----
-
-### Stop setting up liquor at Valikamam North
-
-*2024-10-02 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195287) · `ta`
-
-Residents oppose liquor bar construction in Urani, Thaitti, Mayiliti villages. Concerns about alcohol-related issues, family violence, and cultural degradation. Letter sent to President, Governor, and other authorities.
-
-🟩
-
-People from Urani, Thaitti and Mayiliti have sent a letter to the President to stop the construction of a new liquor bar in the area of ​​the villages of Urani, Thaitti and Mayiliti.
-
-Steps are being taken to construct a new liquor bar in the area where the villages of Urani, Thaitti and Mayiliti are in connection with the blockade of the liquor school.
-
-As the villagers, we express our opposition for the following reasons that this liquor bar is located in our village.
-
-After the displacement of 1990, we have been facing many difficulties and destroying us 30 years of war and 15 years of war, destroying us and now we have returned to our homes and we are living in all developments.We are greatly suffering to build society as prosperous.
-
-In the growing number of people, in many families, youth in many families are facing a variety of problems and the future society is deteriorating.
-
-...
-
-[Data](articles/488c2b68.json)
-
-[Extended Data](ext_articles/488c2b68.ext.json)
 
 ---

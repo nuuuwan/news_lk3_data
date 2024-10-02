@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 10:57:10**
+As of **2024-10-02 11:10:31**
 
 ## Newspaper Stats
 
-*Scraped **47,346** Articles*
+*Scraped **47,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,882
 dailyftlk | 3,185
-adalk | 4,381
+adalk | 4,382
 dailymirrorlk | 4,733
 adaderanalk | 5,569
 tamilmirrorlk | 6,359
-virakesarilk | 7,569
+virakesarilk | 7,570
 adaderanasinhalalk | 8,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,346 (100.0%) of 47,346 articles have been extended.
+47,348 (100.0%) of 47,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Political parties must unite and determine new directions for future politics - Jaffna. Calling the Catholic Diocese of Priests
+
+*2024-10-02 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195285) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil political parties urged unity ahead of Jaffna parliamentary election. Catholic Diocese calls for new directions, rejecting internal conflicts and corruption. Emphasizes need for change, gender equality, and youth leadership.
+
+🟩
+
+Political parties should unite and determine new directions for future politics. The Catholic Diocese of Priests Union has called.
+
+The upcoming parliamentary election Jaffna. This is stated in the media report of the Catholic Diocese of the Diocese
+
+The Tamil people are the Tamil political parties, in order to make a new change, we are standing in a historical leap as a race.. In the wake of the ongoing presidential election, the upcoming parliamentary elections have provoked expectations for giants among the Tamil people.
+
+The tendencies of contemporary political parties, internal chaos and decisive political vague, are prolonging confusion and pain among the Tamil people.. If this is the case, there will be a significant number of Tamil parliamentary representatives in the upcoming parliamentary election.
+
+...
+
+[Data](articles/a21d8251.json)
+
+[Extended Data](ext_articles/a21d8251.ext.json)
+
+---
+
+### Stop setting up liquor at Valikamam North
+
+*2024-10-02 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195287) · `ta`
+
+Residents oppose liquor bar construction in Urani, Thaitti, Mayiliti villages. Concerns about alcohol-related issues, family violence, and cultural degradation. Letter sent to President, Governor, and other authorities.
+
+🟩
+
+People from Urani, Thaitti and Mayiliti have sent a letter to the President to stop the construction of a new liquor bar in the area of ​​the villages of Urani, Thaitti and Mayiliti.
+
+Steps are being taken to construct a new liquor bar in the area where the villages of Urani, Thaitti and Mayiliti are in connection with the blockade of the liquor school.
+
+As the villagers, we express our opposition for the following reasons that this liquor bar is located in our village.
+
+After the displacement of 1990, we have been facing many difficulties and destroying us 30 years of war and 15 years of war, destroying us and now we have returned to our homes and we are living in all developments.We are greatly suffering to build society as prosperous.
+
+In the growing number of people, in many families, youth in many families are facing a variety of problems and the future society is deteriorating.
+
+...
+
+[Data](articles/488c2b68.json)
+
+[Extended Data](ext_articles/488c2b68.ext.json)
+
+---
 
 ### Rare pink
 
@@ -199,34 +253,6 @@ The association has decided to decrease the import and export freight container 
 [Data](articles/dd7ceb7f.json)
 
 [Extended Data](ext_articles/dd7ceb7f.ext.json)
-
----
-
-### Political parties must unite and determine new directions for future politics - Jaffna. Calling the Catholic Diocese of Priests
-
-*2024-10-02 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195285) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil political parties urged unity ahead of Jaffna parliamentary election. Catholic Diocese calls for new directions, rejecting internal conflicts and corruption. Emphasizes need for change, gender equality, and youth leadership.
-
-🟩
-
-Political parties should unite and determine new directions for future politics. The Catholic Diocese of Priests Union has called.
-
-The upcoming parliamentary election Jaffna. This is stated in the media report of the Catholic Diocese of the Diocese
-
-The Tamil people are the Tamil political parties, in order to make a new change, we are standing in a historical leap as a race.. In the wake of the ongoing presidential election, the upcoming parliamentary elections have provoked expectations for giants among the Tamil people.
-
-The tendencies of contemporary political parties, internal chaos and decisive political vague, are prolonging confusion and pain among the Tamil people.. If this is the case, there will be a significant number of Tamil parliamentary representatives in the upcoming parliamentary election.
-
-...
-
-[Data](articles/a21d8251.json)
-
-[Extended Data](ext_articles/a21d8251.ext.json)
 
 ---
 
@@ -1444,6 +1470,34 @@ Earlier on Tuesday, at least seven people were wounded in a shooting in Israel�
 
 ---
 
+### School children will not decrease transport charges
+
+*2024-10-01 22:15:59* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-ප්‍රවාහන-ගාස්තු-අඩු-වෙන්නේ-නෑ/11-412266) · `si`
+
+Fuel price drop won't lower transport costs for school children. Association president says vehicle price hike offsets savings. Decision pending executive committee review.
+
+🟩
+
+Despite the reduction of fuel prices, the All Island School Children's Train Association President Ruwan Prasad said yesterday (01st) this morning at a press conference held at Ambalangoda yesterday morning.
+
+Mr. Ruwan added that the specific official statement of this will take his Association's Executive Committee in three days.
+
+He said that there were many reasons for the loss of a decrease in the use of fuel tariffs, but the increase in vehicle prices was reduced.
+
+Mr. Ruwan said that if the fuel prices of fuel will be substantially purchased at least six months and regulate their service, he could agree to reduce the transportation of school children.
+
+Mr. Ruwan said that the fuel prices have no relief to its industry by the uplifting vehicles.
+
+The All Island Inter-Provincial School Children Transport Association (JVP) has also commented on the National Organizing School Children Transport Association.
+
+◼️
+
+[Data](articles/b0142e38.json)
+
+[Extended Data](ext_articles/b0142e38.ext.json)
+
+---
+
 ### What happened to our children who were missing?Will the international community and the UN come together and get justice?-Relationships of North, East Missing Missing
 
 *2024-10-01 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195274) · `ta`
@@ -2203,51 +2257,5 @@ Political and foreign policy analysts have seen Dissanayake as a pro-Chinese and
 [Data](articles/43706304.json)
 
 [Extended Data](ext_articles/43706304.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 294.75/295.00 to US dollar, bond yields down
-
-*2024-10-01 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-294-75-295-00-to-us-dollar-bond-yields-down-181832/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee appreciated further to close at 294.75/295.00 to the US dollar Tuesday, from 296.10/60 a day earlier, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.70/85 percent, up from 10.65/80 percent.
-
-A bond maturing on 15.12.2027 closed at 11.45/60 percent, down from 11.60/75 percent.
-
-A bond maturing on 15.02.2028 closed at 11.75/85 percent, down from 11.85/12.00 percent.
-
-A bond maturing on 15.09.2029 closed at 11.90/12.00 percent, down from 11.95/12.05 percent.
-
-A bond maturing on 15.05.2030 closed at 12.10/30 percent, up from 12.00/20 percent.
-
-A bond maturing on 01.10.2032 closed stable at 12.20/45 percent.
-
-Meanwhile the central bank announced 142,500 million rupees in Treasury bills are to be issued through its auction
-
-◼️
-
-[Data](articles/d80367f8.json)
-
-[Extended Data](ext_articles/d80367f8.ext.json)
-
----
-
-### Govt says only preliminary discussion on IMF program with visiting team
-
-*2024-10-01 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102384/govt-says-only-preliminary-discussion-on-imf-program-with-visiting-team-) · `en`
-
-Speaking on the upcoming visit of the high-level International Monetary Fund (IMF) delegation visiting Sri Lanka this week, Cabinet Spokesman Vijitha Herath says that only preliminary discussions on the country’s EFF program will take place during the meeting.
-
-A further discussion on its structural facts is scheduled to take place in New York around the end of October, he told reporters in Colombo today (01).
-
-A high-level team of the IMF led by its Director of the Asia Pacific Department, Krishna Srinivasan, is scheduled to visit Colombo from October 02 to 04 to meet with President Anura Kumara Dissanayake and Sri Lanka’s new economic team to discuss latest economic developments and economic reforms under Sri Lanka’s economic program supported by the IMF, a spokesperson for the global lender confirmed yesterday.
-
-◼️
-
-[Data](articles/2916d1f7.json)
-
-[Extended Data](ext_articles/2916d1f7.ext.json)
 
 ---

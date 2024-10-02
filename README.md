@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 06:08:15**
+As of **2024-10-02 06:43:58**
 
 ## Newspaper Stats
 
-*Scraped **47,307** Articles*
+*Scraped **47,313** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 390
+dbsjeyarajcom | 391
 bbccomsinhala | 466
 colombotelegraphcom | 473
-islandlk | 2,778
+islandlk | 2,783
 economynextcom | 2,882
 dailyftlk | 3,185
 adalk | 4,377
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,307 (100.0%) of 47,307 articles have been extended.
+47,312 (100.0%) of 47,313 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -630,6 +630,54 @@ Special attention was paid to the further strengthening of long -term bilateral 
 
 ---
 
+### “Mega Expo 2024” brings industry leaders to Jaffna
+
+*2024-10-01 23:21:00* · [`islandlk`](http://island.lk/mega-expo-2024-brings-industry-leaders-to-jaffna/) · `en`
+
+The much-anticipated Future Image Mega Expo 2024 was held on August 23rd and 25th, 2024, at the iconic Veerasingham Hall in Jaffna. Organized by Tima International (Pvt) Ltd, a leading event management company since 2008, the expo served as a premier platform for professionals in photography, videography, cinema, advertising, and printing industries.
+
+Supported by Fine Vision Group, NAPSL, and INGRIN Printing & Graphics Academy of Sri Lanka, the event featured nearly 200 stalls, showcasing cutting-edge technology and services. Attendees had the opportunity to explore a wide range of products and services from both local and international experts, including Color Lab Partners, TV & Radio Broadcasting Service Providers, and Digital Printing Suppliers.
+
+...
+
+[Data](articles/ef88ec25.json)
+
+[Extended Data](ext_articles/ef88ec25.ext.json)
+
+---
+
+### 99x unveils Product Central, boosting developer productivity and streamlining software development
+
+*2024-10-01 23:18:00* · [`islandlk`](http://island.lk/99x-unveils-product-central-boosting-developer-productivity-and-streamlining-software-development/) · `en`
+
+99x has announced the launch of Product Central, a pioneering development workbench designed to revolutionise how software teams build, deploy, and manage cloud applications. In today’s fast-paced digital landscape, developers are often overwhelmed by repetitive operational tasks that divert attention from creative and value-driven work. Product Central addresses this challenge by automating routine processes, allowing development teams to focus on delivering exceptional digital experiences to their customers.
+
+Product Central is designed to boost developer productivity and reduce human error by providing a unified platform that standardises reference architectures and platform configurations. This end-to-end solution not only streamlines operations but also scales efficiently to meet the demands of modern software development, enabling developers to focus on innovation by eliminating time-consuming setup and deployment tasks and freeing them from the burden of non-value-adding work.
+
+...
+
+[Data](articles/d677baaa.json)
+
+[Extended Data](ext_articles/d677baaa.ext.json)
+
+---
+
+### Expected dips in interest rates positively impact investor sentiment in share market
+
+*2024-10-01 23:16:00* · [`islandlk`](http://island.lk/expected-dips-in-interest-rates-positively-impact-investor-sentiment-in-share-market/) · `en`
+
+The stock market investor sentiment notably improved yesterday with the anticipation that interest rates would come down. Besides the debt restructuring process with bond dealers was reportedly going off smoothly. These developments positively impacted banking sector counters in the share market, analysts said.
+
+In September, Sri Lanka experienced deflation for the first time since 2015, with the general price level falling below that of a year ago. This decline was driven by administrative price adjustments that brought down key cost drivers, including food, fuel, and water tariffs. This situation would considerably impact interest rates, market analysts added.
+
+...
+
+[Data](articles/70fccbab.json)
+
+[Extended Data](ext_articles/70fccbab.ext.json)
+
+---
+
 ### Battle for Parliament
 
 *2024-10-01 23:05:12* · [`dailyftlk`](https://www.ft.lk/columns/Battle-for-Parliament/4-767402) · `en`
@@ -1038,6 +1086,28 @@ The government refers to the cancellation of the pension paid to former MPs.Many
 
 ---
 
+### Second phase of BIA development and TV broadcast digitization projects to recommence with JICA support
+
+*2024-10-01 19:38:00* · [`islandlk`](http://island.lk/second-phase-of-bia-development-and-tv-broadcast-digitization-projects-to-recommence-with-jica-support/) · `en`
+
+The Chief Representative of the Japan International Cooperation Agency (JICA), Mr. Yamada Tetsuya, along with a delegation of senior representatives, met with the Secretary to the President Dr. Nandika Sanath Kumanayake, this afternoon (01) at the Presidential Secretariat.
+
+The discussion focused on recommencing the second phase of the Bandaranaike International Airport (BIA) Development Project, implemented by JICA, and the launch of the Terrestrial Television Broadcast Digitization Project.
+
+At a recent meeting with the Secretary to the President, the Japanese Ambassador emphasized the need for the swift completion of 11 projects supported by JICA.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/a4bbf2fc.json)
+
+[Extended Data](ext_articles/a4bbf2fc.ext.json)
+
+---
+
 ### Presidential Secretariat returns 19 vehicles to govt institutions
 
 *2024-10-01 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102386/presidential-secretariat-returns-19-vehicles-to-govt-institutions) · `en`
@@ -1183,6 +1253,20 @@ Senior Additional Secretary to the Presidential Secretariat Rosh Hewavitharana, 
 [Data](articles/7c08a327.json)
 
 [Extended Data](ext_articles/7c08a327.ext.json)
+
+---
+
+### Anura Kumara  Dissanayake ; “Leftist” Star  Rises   Over Sri Lanka.
+
+*2024-10-01 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84814) · `en`
+
+The heading of this article is inspired by the title of Edgar Snow’s  , “Red Star Over China”. Snow’s book first published in 1937 was a vivid account of  his interaction with the  Chinese communist leader  Mao  Ze Dong and the Red Army. Mao known then as Mao Tse Tung was relatively called  to the  Western world at that time. Years later when the communists under Mao captured power in China, “Red Star Over China” became a best seller. The book was widely read   by people who wanted to gain an insight into the new “unknown”  Communist rulers  of China.
+
+...
+
+[Data](articles/139b1f89.json)
+
+[Extended Data](ext_articles/139b1f89.ext.json)
 
 ---
 
@@ -1816,6 +1900,24 @@ The sides also emphasized the importance of improving key areas such as trade, i
 
 ---
 
+### Anura Kumara Dissanayake “did not win”.  Sajith Premadasa with his Oversized Ego nd Hurry to become President Handed Over the Election to  AKD
+
+*2024-10-01 15:15:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84825) · `en`
+
+The presidential election’s outcome has been described in flowery language: A vote for system change, the rejection of the old regime, a clarion call against corruption and cronyism, a vote against the sale of national assets, and so on.
+
+All that is true to a certain degree, but they still miss the wood for the trees. The risk of these feel-good assessments is that they could also delude the election winner. To explore the danger of misreading an election mandate, look no further than the Yahapalanaya’s and Maithripala Sirisena’s victory over the Mahinda Rajapaksa regime.
+
+Sirisena won the election, thanks to sound electoral arithmetic, riding on the overwhelming minority vote, even though he lost the South by half a million votes.
+
+...
+
+[Data](articles/f46b5226.json)
+
+[Extended Data](ext_articles/f46b5226.ext.json)
+
+---
+
 ### Notice to A / L Small
 
 *2024-10-01 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201727) · `si`
@@ -2149,155 +2251,5 @@ Dhammika Perera owns 51.01% of the share capital of Hayleys PLC.
 [Data](articles/f61090dc.json)
 
 [Extended Data](ext_articles/f61090dc.ext.json)
-
----
-
-### National Reading Month and Children's Day in Trincomalee
-
-*2024-10-01 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195220) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National Reading Month kicked off on January 1st in Trincomalee. A new library was inaugurated at the National Library. Special children's events were organized for Children's Day celebrations.
-
-🟩
-
-The National Reading Month Event for the Year commenced on Tuesday (01) on Tuesday (01).. The National Reading Monthly Advertisement Library was built at the main gate of the National Library.
-
-A special events for children were held on the occasion of Children's Day.
-
-◼️
-
-[Data](articles/823ce502.json)
-
-[Extended Data](ext_articles/823ce502.ext.json)
-
----
-
-### Action to call diplomats
-
-*2024-10-01 13:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜதந்திரிகளை-மீள-அழைக்க-நடவடிக்கை/175-344759) · `ta`
-
-Sri Lanka government plans to recall ambassadors based on political influence. Minister Vijitha Herath announces recovery of diplomatic positions from politically appointed individuals. No immediate action for current diplomats.
-
-🟩
-
-The government has taken steps to return to the ambassadors and high -rankings appointed on the basis of political strength and faith.
-
-Speaking to the media at a weekly meeting announcing the Cabinet decisions, Minister Vijitha Herath said the report was being prepared.
-
-Based on this report, the posts of political appointments will be recovered, he said.
-
-"Many sons and daughters of MPs have been given diplomatic appointments," he said.
-
-However, the Minister said that none of the Sri Lankan diplomats would be immediately recovered.
-
-◼️
-
-[Data](articles/c1adbc52.json)
-
-[Extended Data](ext_articles/c1adbc52.ext.json)
-
----
-
-### Action to return to the Ambassadors
-
-*2024-10-01 13:31:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூதுவர்கள்-உயர்ஸ்தானிகர்களை-மீள-அழைக்க-நடவடிக்கை/175-344759) · `ta`
-
-Sri Lanka government plans to recover diplomatic posts from politically appointed ambassadors. Report being prepared to restore positions based on merit, not family ties. No immediate changes expected for current diplomats.
-
-🟩
-
-The government has taken steps to return to the ambassadors and high -rankings appointed on the basis of political strength and faith.
-
-Speaking to the media at a weekly meeting announcing the Cabinet decisions, Minister Vijitha Herath said the report was being prepared.
-
-Based on this report, the posts of political appointments will be recovered, he said.
-
-"Many sons and daughters of MPs have been given diplomatic appointments," he said.
-
-However, the Minister said that none of the Sri Lankan diplomats would be immediately recovered.
-
-◼️
-
-[Data](articles/c4667d6e.json)
-
-[Extended Data](ext_articles/c4667d6e.ext.json)
-
----
-
-### Dhammika Perera re-appointed Co-Chairman of Hayleys PLC
-
-*2024-10-01 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102375/dhammika-perera-re-appointed-co-chairman-of-hayleys-plc) · `en`
-
-Billionaire businessman Dhammika Perera has been re-appointed as the Non-Executive Director to the Board and as the Co-Chairman of Hayleys PLC with effect from today (October 01).
-
-The business tycoon resigned from the positions on June 10, 2022, after deciding to accept the SLPP National List MP seat in parliament which had fallen vacant following the resignation of former Minister Basil Rajapaksa.
-
-The Board of Directors of Hayleys PLC has informed the Colombo Stock Exchange in writing that Mr. Dhammika Perera will be appointed as a Non-Executive Director to the Board of the Company and as the Co-Chairman of the Company with effect from October 01, 2024.
-
-The disclosure further states that the appointment has been reviewed by the Nominations and Governance Committee of the Company and recommended to the Board, which had granted approval on September 30.
-
-Dhammika Perera holds 382,596,970 (51.01%) of the ordinary shares of Hayleys PLC as at date.
-
-...
-
-[Data](articles/61d9c5c7.json)
-
-[Extended Data](ext_articles/61d9c5c7.ext.json)
-
----
-
-### President instructs inspection for the answer sheet of the scholarship examination two weeks
-
-*2024-10-01 13:28:51* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගයේ-පිළිතුරු-පත්‍ර-පරීක්ෂාව-සති-දෙකකට-අත්හිටුවීමට-ජනපතිගෙන්-උපදෙස්/11-412257) · `si`
-
-Here's a 200-character summary:
-
-
-
-President orders 2-week suspension of Grade 5 Scholarship Exam answers due to controversy over 3 exam questions. Parents requested cancellation, but exam will proceed with modified questions.
-
-🟩
-
-A discussion was held at the Presidential Secretariat yesterday afternoon, Anura Kumara Dissanayake and Grade 5 Scholarship Examination question paper.
-
-As a result, the President instructed the relevant officials to suspend the answer of the answer scholarship examination for two weeks.
-
-The parents asked the President not to hold the examination but the examination, not 3 questions on the Grade 5 scholarship examination.
-
-◼️
-
-[Data](articles/bd5d7c57.json)
-
-[Extended Data](ext_articles/bd5d7c57.ext.json)
-
----
-
-### The person who caused confusion in the struggle of the missing relations of the president's name!
-
-*2024-10-01 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195230) · `ta`
-
-Protests erupted in Vavuniya over missing relatives. Demonstrators clashed with an unidentified individual supporting President Anura Kumara Dissanayake. Tensions rose as police threatened arrests, dispersing the crowd after warnings.
-
-🟩
-
-During the protests carried out on Tuesday (01) due to missing relations in Vavuniya, there was a tense situation as President Anura Kumara Dissanayake was a supporter of Kumara Dissanayake.
-
-A demonstration was staged at the old bus station in Vavuniya by the Association of Missing Relations today.
-
-It is an unidentified person who came to the area.. The money is coming to you. He is in conflict with the mother of the struggle.
-
-Will catch you in the police. I stand for two years with Anura Kumara. The police and the intelligence unit will come and arrest you now. Dogs scolds everyone to go home.
-
-This caused confusion in the area. After a while, the person had been dispersed from the area to threaten them.
-
-◼️
-
-[Data](articles/487c6622.json)
-
-[Extended Data](ext_articles/487c6622.ext.json)
 
 ---

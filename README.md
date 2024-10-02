@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 11:22:40**
+As of **2024-10-02 11:39:08**
 
 ## Newspaper Stats
 
-*Scraped **47,353** Articles*
+*Scraped **47,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 3,185
 adalk | 4,382
 dailymirrorlk | 4,733
 adaderanalk | 5,569
-tamilmirrorlk | 6,363
+tamilmirrorlk | 6,364
 virakesarilk | 7,570
-adaderanasinhalalk | 8,185
+adaderanasinhalalk | 8,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,352 (100.0%) of 47,353 articles have been extended.
+47,355 (100.0%) of 47,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Jilmot girlfriend caught
+
+*2024-10-02 11:19:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜில்மாட்-காதலி-சிக்கினார்/175-344799) · `ta`
+
+A 33-year-old woman accused of theft from a police officer's home where she sought refuge. She allegedly stole 9 pounds of gold jewelry before being arrested and remanded until July 14th.
+
+🟩
+
+Nine pound gold jewelery has been stolen from the house of a police officer who gave refuge to a girlfriend who was looking for a boyfriend from Otisuttan.
+
+The Batticaloa Magistrate's Court on Tuesday (01) ordered that a 33 -year -old woman arrested in Ottisuttan was arrested until the 14th of this month.
+
+According to the incident, a 33 -year -old woman who was married at the Ottisuttan Police Station, who was married to Arayambathi, was married to a 33 -year -old woman.
+
+The girlfriend went to the Kaluwanchikudi police station last June and met her lover.
+
+He was already married and had children to know that he had not married and told him that he had not finished marriage and transferred the police officer to the Valaichenai police station after he had a problem with her boyfriend.
+
+...
+
+[Data](articles/ec4783bb.json)
+
+[Extended Data](ext_articles/ec4783bb.ext.json)
+
+---
+
+### Roshan Ranasinghe to be appointed chairman of the People's Party
+
+*2024-10-02 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201754) · `si`
+
+Roshan Ranasinghe named Chairman of People's Party. Former Sports Minister joins Motherland. Channa Jayasumanne becomes Vice President. Muan Jayatilake appointed organizer in Gampaha District.
+
+🟩
+
+Former Sports Minister Roshan Ranasinghe has joined the Motherland to lead the party.
+
+Former Minister Professor Channa Jayasumanne obtained his appointment as the Vice President of the Motherland.
+
+Meanwhile, the Sri Lanka Arose Front of the Gampaha General Mannar, Muan Jayatilake, has joined the Motherland People's Republic.
+
+He has been appointed as the organizer of the Mawbima in Gampaha District.
+
+◼️
+
+[Data](articles/da484890.json)
+
+[Extended Data](ext_articles/da484890.ext.json)
+
+---
 
 ### "Welcome to Sajith as the prime ministerial candidate"
 
@@ -1240,22 +1290,6 @@ During the event, the leadership team highlighted the WCIC’s enduring commitme
 
 ---
 
-### Anura  Kumra Dissanayake will ask the people who elected him as President to give his NPP a big victory at the Parliamentary Elections to stabilise the economy and fulfil  promises.
-
-*2024-10-02 01:01:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84845) · `en`
-
-When Parliament elected Ranil Wickremesinghe as President two years ago, it was said that he was the ultimate beneficiary of the unprecedented people’s uprising in Sri Lanka. However, last week’s Presidential Election showed the world the real beneficiary of that uprising.
-
-Just as the Sri Lanka Freedom Party (SLFP) Founding Leader, the late S.W.R.D. Bandaranaike won the General Elections and came to power three years after the famous 1953 August Hartal, National People’s Power (NPP) Leader Anura Kumara Dissanayake was elected as the ninth Executive President of Sri Lanka at the Presidential Election last week, more than two years after the 2022 ‘Aragalaya’ people’s uprising.
-
-...
-
-[Data](articles/d061128c.json)
-
-[Extended Data](ext_articles/d061128c.ext.json)
-
----
-
 ### Go for the low hanging fruit, Mr. President
 
 *2024-10-02 00:33:54* · [`dailyftlk`](https://www.ft.lk/columns/Go-for-the-low-hanging-fruit-Mr-President/4-767406) · `en`
@@ -2263,25 +2297,5 @@ The University Grants Commission said that the opportunities for applying for th
 [Data](articles/d33ded80.json)
 
 [Extended Data](ext_articles/d33ded80.ext.json)
-
----
-
-### No change in Litro Gas prices for October
-
-*2024-10-01 17:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102385/no-change-in-litro-gas-prices-for-october) · `en`
-
-The Litro Gas Company says that the prices of domestic LP Gas will remain unchanged for the month of October 2024.
-
-Issuing an announcement today (Oct. 01), the newly appointed Litro chairman Channa Gunawardena said that despite the rising LP gas prices in the global market, a decision was taken not to increase the prices of Litro gas in order to provide relief to the consumers.
-
-The state-owned company further said that it was possible to provide such relief due to proper management of stocks and operations.
-
-Accordingly, the prices of Litro LP gas domestic gas cylinders will remain unchanged as follows:
-
-◼️
-
-[Data](articles/6b8f02e0.json)
-
-[Extended Data](ext_articles/6b8f02e0.ext.json)
 
 ---

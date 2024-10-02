@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 12:57:02**
+As of **2024-10-02 13:08:14**
 
 ## Newspaper Stats
 
-*Scraped **47,374** Articles*
+*Scraped **47,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 394
 bbccomsinhala | 468
 colombotelegraphcom | 473
 islandlk | 2,786
-economynextcom | 2,882
+economynextcom | 2,889
 dailyftlk | 3,185
 adalk | 4,384
 dailymirrorlk | 4,733
-adaderanalk | 5,572
+adaderanalk | 5,573
 tamilmirrorlk | 6,371
 virakesarilk | 7,573
 adaderanasinhalalk | 8,190
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,374 (100.0%) of 47,374 articles have been extended.
+47,381 (100.0%) of 47,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Danish police investigate two blasts near Israel’s embassy in Copenhagen
+
+*2024-10-02 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102396/danish-police-investigate-two-blasts-near-israels-embassy-in-copenhagen) · `en`
+
+Danish police said on Wednesday they were investigating two blasts in the immediate vicinity of Israel’s embassy in the northern outskirts of Copenhagen.
+
+There were no injuries reported and it was too early to say how big the blasts had been, a police spokesperson told reporters at the scene.
+
+“It is clear that the Israeli embassy is in the immediate vicinity and that is naturally also an angle that we look at,” Deputy Assistant Commissioner Jakob Hansen of the Copenhagen police said.
+
+A large area was cordoned off, and pictures published by tabloid Ekstra Bladet showed heavily armed Danish military personnel guarding the embassy.
+
+Investigators were seen wearing coverall suits as they combed the scene for evidence, tabloid B.T. reported.
+
+The Israeli embassy was not immediately available for comment when contacted by Reuters.
+
+Several other embassies and consulates are also located in the area.
+
+◼️
+
+[Data](articles/c558aa82.json)
+
+[Extended Data](ext_articles/c558aa82.ext.json)
+
+---
 
 ### Dollar down fast
 
@@ -448,6 +474,28 @@ He was already married and had children to know that he had not married and told
 
 ---
 
+### Cuban ambassador meets Sri Lanka president
+
+*2024-10-02 11:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-hotels-ceylon-tea-trails-win-rest-of-asia-awards-by-conde-nast-traveller-181900/) · `en`
+
+ECONOMYNEXT – Cuban Ambassador to Sri Lanka Andrés Marcelo González Garrido has met President Anura Dissanayake to reaffirm the Cuban government’s ongoing support.
+
+“Ambassador Gonzales extended warm greetings to the new government and expressed Cuba’s readiness to enhance cooperation with Sri Lanka,” the president’s media division said in a statement.
+
+“He reaffirmed the Cuban government’s ongoing support for our efforts to combat dengue, offering collaboration and expertise to strengthen public health initiatives aimed at eradicating the disease.”
+
+Discussions also focused on reinforcing the long-term diplomatic relations and the enduring friendship between the two nations, the statement read.
+
+This follows courtesy calls by other ambassadors including those from India, China, US and Russia.(Colombo/Oct02/2024)
+
+◼️
+
+[Data](articles/cf42a898.json)
+
+[Extended Data](ext_articles/cf42a898.ext.json)
+
+---
+
 ### Roshan Ranasinghe appointed Chairman of MJP
 
 *2024-10-02 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102394/roshan-ranasinghe-appointed-chairman-of-mjp) · `en`
@@ -520,6 +568,30 @@ No coalition was formed in the symbol of the partner of the coalition. It should
 
 ---
 
+### Sri Lanka rupee trades stronger at 294.60/75 to US dollar, bond yields down
+
+*2024-10-02 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-294-60-75-to-us-dollar-bond-yields-down-181905/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 294.60/75 to the US dollar on Wednesday, from 294.75/295.00 a day earlier, while bond yields were further down dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.30/40 percent, down from 11.45/60 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.57/58 percent, down from 11.75/85 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.80/85 percent, from 11.90/12.10 percent.
+
+In equities, Colombo’s All Share Price Index opened 0.04 percent, or 5.23 points lower at 11,987, while the S&P SL20 of more liquid stocks opened down 0.08 percent or 2.89 points higher at 3,518.
+
+Meanwhile, 142,500 million rupees in Treasury bills are being issued through the central bank’s ongoing auction. (Colombo/Oct2/2024)
+
+◼️
+
+[Data](articles/9bfaf41d.json)
+
+[Extended Data](ext_articles/9bfaf41d.ext.json)
+
+---
+
 ### Governor of the Northern Province
 
 *2024-10-02 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195294) · `ta`
@@ -541,6 +613,28 @@ He also explores the nature of the tourism sector and develops important issues 
 [Data](articles/81dc1da6.json)
 
 [Extended Data](ext_articles/81dc1da6.ext.json)
+
+---
+
+### Sri Lanka hotels, Ceylon Tea Trails win Rest of Asia awards by  Condé Nast Traveller
+
+*2024-10-02 10:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-hotels-ceylon-tea-trails-win-rest-of-asia-awards-by-conde-nast-traveller-181902/) · `en`
+
+ECONOMYNEXT – Several hotels in Sri Lanka have won top positions for Rest of Asia, while Ceylon Tea Trails has won the resort award, in awards conducted among UK readers of Condé Nast Traveller Magazine.
+
+In resort for Rest Of Asia, which included India and Vietnam, Ceylon Tea Trails won first place, and Heritance Ahungalla, No 10. Ceylon Tea Trails came ahead of some resorts in Vietnam, India, Malaysia, Myanmar and Six Senses Thimpu.
+
+In the resort category, Indonesia, Thailand and the Indian Ocean (including Maldives) had separate award categories. Heritance Aarah came in 20th place in Indian Ocean.
+
+In the hotels category for Rest of Asia, Galle Face Hotel was placed first, Aditya Galle second, Amangalle third, Heritance Tea Factory fourth, Fort Bazaar, fifth.
+
+In the hotel category, Singapore, South East Asia hotels were in a separate category.
+
+◼️
+
+[Data](articles/54cf72be.json)
+
+[Extended Data](ext_articles/54cf72be.ext.json)
 
 ---
 
@@ -744,6 +838,26 @@ Accordingly, our executive committee has decided to reduce the transportation ta
 
 ---
 
+### Sri Lanka’s UNP unable to accept some of SJB’s conditions: spokesman
+
+*2024-10-02 10:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-unp-unable-to-accept-some-of-sjbs-conditions-spokesman-181899/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s fractured opposition still appears undecided on forming a broader alliance against the National People’s Power (NPP), with the United National Party (UNP) and the Samagi Jana Balawegaya (SJB) seeming unable to reconcile.
+
+The UNP’s Saman Ratnapriya told reporters on Tuesday October 01 that all members of the Sri Lanka Podujana Peramuna (SLPP) that had supported former president Ranil Wickremesinghe at the presidential election are agreeable to moving forward with the gas cylinder symbol for the parliamentary election scheduled for November 14.
+
+“All SLPP MPs are agreeable to the gas cylinder. They have no problem. We plan to keep discussions with the SJB open. If they too come in good faith, we can get all groups together and move forward. The SJB made some conditions, some of which we find difficult to accept,” the former MP said.
+
+SJB general secretary Ranjith Madduma Bandara claimed that his party has no room for the corrupt.
+
+...
+
+[Data](articles/23328c2e.json)
+
+[Extended Data](ext_articles/23328c2e.ext.json)
+
+---
+
 ### Barber Assaves resign to second time
 
 *2024-10-02 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201753) · `si`
@@ -820,6 +934,26 @@ The STF said that two-year-old and 63-year-old residents of Hettimulla, Kegalle 
 
 ---
 
+### Former Tamil National Alliance MP meets Sri Lanka’s new president
+
+*2024-10-02 09:49:00* · [`economynextcom`](https://economynext.com/former-tamil-national-alliance-mp-meets-sri-lankas-new-president-181897/) · `en`
+
+ECONOMYNEXT — Former Tamil National Alliance MP S Shritharan has met President Anura Kumara Dissanayake, according to the president’s media division (PMD).
+
+According to the PMD, the former Jaffna district MP met President Dissanayake at the Presidential Secretariat in Colombo on Tuesday October 01.
+
+“During the meeting, former MP Shritharan congratulated President Dissanayake on his election as the ninth Executive President of Sri Lanka, reflecting the will of the people. The two also engaged in a warm and friendly conversation,” the PMD said in its statement.
+
+Shritharan in a Facebook posted on Tuesday said he had handed over a letter to the president discussing the expectations and stand of the Tamil people.
+
+...
+
+[Data](articles/b9d4c904.json)
+
+[Extended Data](ext_articles/b9d4c904.ext.json)
+
+---
+
 ### Freight container transport charges reduced
 
 *2024-10-02 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102392/freight-container-transport-charges-reduced) · `en`
@@ -837,6 +971,26 @@ The association has decided to decrease the import and export freight container 
 [Data](articles/dd7ceb7f.json)
 
 [Extended Data](ext_articles/dd7ceb7f.ext.json)
+
+---
+
+### Sri Lanka transport commission reduces bus fares
+
+*2024-10-02 09:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-transport-commission-reduces-bus-fares-181891/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s National Transport Commission has imposed a 4.24 percent reduction in bus fares following a revision in the price of diesel.
+
+The commission announced the new fares would come into effect from Tuesday October 01 midnight.
+
+The reduction in fares is applicable to normal, semi-luxury, luxury and super luxury categories of buses. The Ministry Transport has said legal action will be taken against bus service operators who do not comply.
+
+President of the Lanka Private Bus Owners’ Association (LPBOA) Gemunu Wijeratne told reporters on Tuesday that their pricing formula allows for a bus fare revision only in the event of a 4 percent increase or reduction in the price of diesel.
+
+...
+
+[Data](articles/b36be50a.json)
+
+[Extended Data](ext_articles/b36be50a.ext.json)
 
 ---
 
@@ -1145,6 +1299,26 @@ The greetings also further stated that the leadership of President Anura Kumara 
 [Data](articles/ba7a8088.json)
 
 [Extended Data](ext_articles/ba7a8088.ext.json)
+
+---
+
+### Sri Lanka’s IMF program review, what can happen next
+
+*2024-10-02 07:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-imf-program-review-what-can-happen-next-181847/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s International Monetary Fund program is reviewed every six months based on how the quantity targets (performance criteria) and reforms (structural benchmarks) are reached.
+
+In order to pass the review, a new staff level agreement has to be reached for the next phase, of about a year with hardened and finalized targets for the next six months and proposed and indicative targets for the next.
+
+Once passed by the board, it will contain the policy direction and reforms or structural bench markets set out in a Memorandum of Economic and Financial Policies with quantity performance criteria every six months and indicative targets quarterly.
+
+A technical memorandum of understanding will further supplement the quantity targets.
+
+Once the economic policies and quantity targets are approved by the IMF board, and the quantity targets and structural benchmarks up to the review period are met a disbursement of 254 (SDR) or around 330 million dollars is made.
+
+...
+
+[Data](articles/55480d08.json)
 
 ---
 
@@ -2135,195 +2309,5 @@ The International Children's Day, the International Children's Day yesterday, sa
 [Data](articles/79a73b3a.json)
 
 [Extended Data](ext_articles/79a73b3a.ext.json)
-
----
-
-### A campaign to be turned to the Mahaweli River
-
-*2024-10-01 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201741) · `si`
-
-Campaign releases wastewater from Polgolla Reservoir into Mahaweli River. Government officials open sluice gates for drinking water supply. Health department investigates waste disposal. Residents and businesses directed to improve waste management systems within 2 weeks.
-
-🟩
-
-The Mahaweli River and the surrounding wastewater was released to the Mahaweli River, the largest wastewater that provides the drinking water needs of a large number of people in Kandy.
-
-It was in a special operation conducted by officials in many government institutions.
-
-All the sluice gates of the Polgolla Reservoir of the Polgolla, Akurapitiya, Pathadumbara, Akalapitiya, is recently opened for a renovation of drinking water needs.
-
-Parallel to this, the Department of Health, the Police, Environmental Authority and a special investigation in the Polgolla area of ​​Polgolla has been conducted today.
-
-It is to find out whether waste disposed of waste to the reservoir.
-
-The residents and business places have been released directly to the Mahaweli River, as well as the waste reservoir.
-
-Accordingly, some people have been instructed to deal with legislation and to properly arrange their waste systems in 2 weeks.
-
-◼️
-
-[Data](articles/8ecb91fb.json)
-
-[Extended Data](ext_articles/8ecb91fb.ext.json)
-
----
-
-### IM F delegation to visit Sri Lanka
-
-*2024-10-01 22:01:27* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එ‍ෆ්--නියෝජිත-පිරිසක්-අද-ලංකාවට/11-412265) · `si`
-
-IMF delegation visits Sri Lanka. Basic monetary fund program discussed. Structural talks set for New York in October. IMF Director Krishna stays until Oct 4, meets President Dissanayake and new economic group.
-
-🟩
-
-A top delegation from the IMF is due to arrive in Sri Lanka. The Cabinet Spokesperson Vijitha Herath said that the Cabinet Decision in the press conference held yesterday (01) said that only a basic discussion of the Monetary Fund's Program with the IMF.
-
-A discussion of its structural matters is scheduled to be held in New York in late October.
-
-It is reported that the International Monetary Fund (IMF) Director of the Pacific Director Director Krishna is staying in Sri Lanka until October 4.
-
-They are due to meet with President Anura Kumara Dissanayake and the new economic group.
-
-◼️
-
-[Data](articles/adca8239.json)
-
-[Extended Data](ext_articles/adca8239.ext.json)
-
----
-
-### Investigations begin on bond fraud
-
-*2024-10-01 21:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201740) · `si`
-
-Bond fraud investigation begins: Cabinet Minister Vijitha Herath confirms probes underway. President Ranil Wickremesinghe not immune from legal action.
-
-🟩
-
-Cabinet spokesman, Minister Vijitha Herath said that the legitimated tests were already commenced on bond fraud.
-
-He was speaking at the Cabinet press conference on the cabinet decisions at the Government Information Department this morning.
-
-"Already, investigations have already begun.  රනිල් වික්‍රමසිංහ මහත්තයාත් දැන් ජනාධිපති නෙමෙයි. So there is no immunity. Now we have the authority to call him in court. Let's see the action of it. "
-
-◼️
-
-[Data](articles/21082aac.json)
-
-[Extended Data](ext_articles/21082aac.ext.json)
-
----
-
-### Re -handled vehicles
-
-*2024-10-01 21:22:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-கையளிக்கப்பட்ட-வாகனங்கள்/175-344767) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"State institutions transfer 19 vehicles to companies. 15 handed over today. Remaining vehicles to be allocated later."
-
-🟩
-
-In the past, vehicles brought from various state institutions, including ministries and departments, were re -elected to the respective companies this afternoon.
-
-Arrangements have been made to re -submit 19 vehicles and 15 of them have been handed over to the officials of the companies that were present at the announcement.. Remble
-
-◼️
-
-[Data](articles/dee0fc94.json)
-
-[Extended Data](ext_articles/dee0fc94.ext.json)
-
----
-
-### Repeat Vehicles taken to the Presidential Secretariat from government institutions
-
-*2024-10-01 21:19:33* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ආයතනවලින්-ජනාධිපති-කාර්යාලයට-ගත්-වාහන-නැවත-එම-ආයතනවලට/11-412264) · `si`
-
-Vehicles returned to Presidential Secretariat: 19 cars released; officials from various ministries present. Senior officials Roshan Gamage and Mahesh Hewavitharana attended event.
-
-🟩
-
-The vehicles were taken to the Presidential Secretariats, including ministries, Ministries, including ministries, departments, had taken place on the premises near the Presidential Secretariat this afternoon.
-
-Accordingly, 19 vehicles were released today and the officials of the relevant institutions arrived today.
-
-Eight vehicles obtained from the Road Development Authority and the total number of vehicles across the Ministry of Finance and the Ministry of Transport and Civil Aviation and the Department of Transport and Civil Aviation were replaced by the Department.
-
-Senior Additional Secretary to the Presidential Secretariat Roshan Gamage, Additional Secretary Mahesh Hewavitharana were present at the occasion.
-
-◼️
-
-[Data](articles/99234637.json)
-
-[Extended Data](ext_articles/99234637.ext.json)
-
----
-
-### Change in Litro price?
-
-*2024-10-01 21:17:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-விலையில்-மாற்றம்/175-344766) · `ta`
-
-Litro Gas denies price hike, cites efficient operations. No change in cooking gas prices despite global LP gas cost increase. Company emphasizes effective stock and operational management benefits consumers.
-
-🟩
-
-Litro gas company said there was no change in the price of cooking gas.
-
-The company has issued a statement that it has decided not to increase the price of domestic gas, despite the increase in the price of LP gas in the international market in October.
-
-Litro Gas Ceylon also reports that the best stock management and operational management has been able to provide relief to consumers. Remble
-
-◼️
-
-[Data](articles/2c7bbf02.json)
-
-[Extended Data](ext_articles/2c7bbf02.ext.json)
-
----
-
-### Bangladesh sees fresh protests over increasing age limit for government jobs
-
-*2024-10-01 21:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102387/bangladesh-sees-fresh-protests-over-increasing-age-limit-for-government-jobs) · `en`
-
-The police fired tear gas shells and rubber bullets in an attempt to stop the protesters from marching towards the residence of Bangladesh Chief Advisor Muhammad Yunus in Dhaka.
-
-Protesters took to the streets of Dhaka on Monday demanding the Bangladesh caretaker government to increase the age limit from 31 to 35 for government jobs. The fresh protest in the capital city came as the crisis-hit nation is still recovering from the political turmoil that erupted in August, leading to the ouster of former Prime Minister Sheikh Hasina.
-
-On Monday morning, the protesters gathered in front of the National Museum in the city’s Shahbagh. From there, they started their march to Chief Advisor Muhammad Yunus’s official residence, Jamuna in Minto Road.
-
-According to local media reports, the protesters ignored a police restriction on rallies and gatherings in front of the Chief Advisor’s residence and attempted to occupy the premises.
-
-...
-
-[Data](articles/8346650d.json)
-
-[Extended Data](ext_articles/8346650d.ext.json)
-
----
-
-### Public Officers' Salary Increase
-
-*2024-10-01 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195272) · `ta`
-
-State official salary increase pending new government budget approval. Cabinet agrees salary hike necessary but implementation depends on budget allocation and formation of new government.
-
-🟩
-
-The budget that will be subsequently submitted by the parliamentary elections can be determined whether or not the salaries of state officials can be increased. Cabinet spokesman Vijitha Herath said that the last government's decision could not be implemented.
-
-He further stated that at a press conference announcing the Cabinet decisions held on Tuesday,
-
-We accept that state officials should be paid a salary increase. When the cost of living increases, the parallel allowances must be increased. The last government has decided to pay a salary increase to state officials since next January.
-
-It has to allocate funds for that. If allocated funds must be submitted to the budget. The budget will also be submitted only after the new government is formed. So you can pay attention to this only when submitting the budget.
-
-...
-
-[Data](articles/6f2e2384.json)
-
-[Extended Data](ext_articles/6f2e2384.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 05:44:22**
+As of **2024-10-02 06:08:15**
 
 ## Newspaper Stats
 
-*Scraped **47,303** Articles*
+*Scraped **47,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,134 @@ adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
 tamilmirrorlk | 6,353
-virakesarilk | 7,563
+virakesarilk | 7,567
 adaderanasinhalalk | 8,176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,303 (100.0%) of 47,303 articles have been extended.
+47,307 (100.0%) of 47,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Vehicles received from various state institutions to the Presidential Secretariat
+
+*2024-10-02 04:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195278) · `ta`
+
+State institutions return vehicles to original owners. 19 vehicles redistributed; 15 handed over to company officials. Vehicles from Road Development Authority, Ministry of Finance, and other departments returned. Event attended by senior officials.
+
+🟩
+
+In the past, vehicles brought from various government institutions, including ministries and departments, to the President's Office, were re -elected to their respective companies on Tuesday afternoon at the premises where vehicles were parked near the Presidential Office.
+
+Arrangements have been made to re -handle 19 vehicles and 15 of them have been handed over to the officials of the companies that were present at the announcement.
+
+Accordingly, 8 vehicles of the Road Development Authority and three vehicles of the Ministry of Finance were recovered from the Southern Provincial Council, Transport and Civil Aviation Service and the Department of Wildlife.
+
+Senior Additional Secretary of the President's Office Roshan Kamage and Additional Secretary Mahesh Hewawitharana and many others participated in the event.
+
+◼️
+
+[Data](articles/ecf277a6.json)
+
+[Extended Data](ext_articles/ecf277a6.ext.json)
+
+---
+
+### The second phase of the Bandaranaike Airport Development and Rupawahini Digital Operations
+
+*2024-10-02 04:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/195277) · `ta`
+
+Bandaranaike Airport development: JICA discusses TV digitization, 11 projects completion. Senior delegation meets President's Secretary.
+
+🟩
+
+Senior delegation, including the Chief Minister of the Japanese International Cooperation Agency, Yamada Tetsuya, met with the President's Secretary of the President at the Presidential Office at the Presidential Office on Tuesday afternoon.
+
+The Bandaranaike International Airport Development Program, which is being carried out by Jayaika by Jayaika, was discussed soon to launch programs such as digitalization of television and television.
+
+During the recent meeting between the Ambassador and the President of Japan, the Japanese Ambassador and the President were discussing the completion of 11 programs in the country with the help of Jica (JICA).
+
+Katsuhiro Suzuki, second secretary of the Japanese embassy in Sri Lanka, was also present at the meeting.
+
+◼️
+
+[Data](articles/e99d20b1.json)
+
+[Extended Data](ext_articles/e99d20b1.ext.json)
+
+---
+
+### I have handed over 7 vehicles of the government;I have also performed social services in retirement - former President Chandrika
+
+*2024-10-02 03:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195276) · `ta`
+
+Former President Chandrika Bandaranaike Kumaratunga discusses her post-political life:
+
+
+
+• Handed over 7 out of 14 government-provided vehicles
+
+• Used pension for social services
+
+• Paid for own expenses and employee wages
+
+• Did not receive state funding for 12 years
+
+• Previously had food expenses covered by government
+
+
+
+Summary: 200 characters
+
+🟩
+
+During the reign of Mahinda Rajapaksa. I also used the 94 000 pension provided in the government of goodwill for social services. Former President Chandrika Bandaranaike Kumaratunga said that 7 vehicles have been handed over to the government.
+
+He further stated at the press conference held on Tuesday (1).
+
+I was not given a pension during the Mahinda Rajapaksa regime.
+
+Its braid has been given as a 94000 thousand pension. That's the pension given to me. After that I gave a report to the media. I opened a separate account for my own use and I used it for many social services.
+
+I have handed over 7 of the 14 vehicles provided by the government. Currently I have 4 vehicles. Two of them are for safety and the other two for travel and personal needs. I have not received any money from the state for his cost in 12 years of political life.
+
+...
+
+[Data](articles/b30f2d74.json)
+
+[Extended Data](ext_articles/b30f2d74.ext.json)
+
+---
+
+### Some attempts to make our party a disgrace: It happened during the struggle of the disappeared - the National People's Power Organizer
+
+*2024-10-02 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195275) · `ta`
+
+Attempts to discredit party during missing persons protest. Some individuals disrupted event, targeting party's image. Government vows action against such incidents.
+
+🟩
+
+Some people are trying to make our party a disgrace. Vavuniya District Organizer of the National People's Power, Upali Samarasinghe, said that such an act took place during the struggle of the disappeared today.
+
+During a demonstration held by relatives of the missing persons on Tuesday morning (1), some were disturbed and they were aimed at disturbing our party's reputation as members of the national people's power.
+
+At present, some people who cannot tolerate the support and good intentions of the national population among the Tamil people are considering such a subversive act.
+
+Our government will take care of it so that this is not the case in the future.
+
+We would like to report to the Tamil people and the relatives of the missing people about the fact that some of these mudslides were involved in the election.
+
+◼️
+
+[Data](articles/b96d61f3.json)
+
+[Extended Data](ext_articles/b96d61f3.ext.json)
+
+---
 
 ### Cabinet moves to cut costs of MPs and ex-Presidents privileges
 
@@ -2183,97 +2299,5 @@ This caused confusion in the area. After a while, the person had been dispersed 
 [Data](articles/487c6622.json)
 
 [Extended Data](ext_articles/487c6622.ext.json)
-
----
-
-### US Ambassador meets President
-
-*2024-10-01 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201722) · `si`
-
-US Ambassador meets President Anura Kumara Dissanayake. Discusses strengthening bilateral relations, economic, and social cooperation between US and Sri Lanka.
-
-🟩
-
-President Anura Kumara Dissanayake and US Ambassador to US Ambassador to the Presidential Secretariat was held this morning.
-
-The continuous development of strong bilateral relations between US and Sri Lanka have been discussed.
-
-The Presidential Media Unit announced that it was also paid to strengthening diplomatic relations between the two countries as well as economic and social cooperation.
-
-◼️
-
-[Data](articles/b398ae82.json)
-
-[Extended Data](ext_articles/b398ae82.ext.json)
-
----
-
-### Superfluous King's Karan hospitalized
-
-*2024-10-01 13:21:12* · [`adalk`](https://www.ada.lk/breaking_news/සුපිරි-නළු-රජිනි-කාන්ත්-රෝහල්-ගත-කරයි/11-412256) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Superfluous King Karan hospitalized at South Indiana Rajaini Kanny Hospital. Media reports indicate a conscious doctor will conduct investigations."
-
-🟩
-
-South Indiana Rajaini Kanny Hospital has been hospitalized.
-
-The media reports also stated that a conscious doctor will be conducting several investigations.
-
-◼️
-
-[Data](articles/a8c502c1.json)
-
-[Extended Data](ext_articles/a8c502c1.ext.json)
-
----
-
-### New Chairman appointment to Litro
-
-*2024-10-01 13:16:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லிட்ரோ-நிறுவனத்திற்கு-புதிய-தலைவர்-நியமனம்/175-344758) · `ta`
-
-Sanna Gunawardena appointed new chairman of Litro Gas Terminal Lanka. Previously executive director of Porcelain PLC. Holds chartered accountant degree from Sri Jayawardenapura University.
-
-🟩
-
-Sanna Gunawardena has been appointed as the new chairman of Litro Gas Terminal Lanka (PVT) LTD. He had previously served as the Executive Director of Porcelain PLC.
-
-Channa is a colleague and a colleague of Sri Lankan Chartered Accountant in Chartered Administrative Accountants (UK) graduated from the University of Queensland, Australia.
-
-He holds a first grade degree in the field of accounting and financial management of Sri Jayawardenapura University.
-
-◼️
-
-[Data](articles/5f3e86a9.json)
-
-[Extended Data](ext_articles/5f3e86a9.ext.json)
-
----
-
-### Missing Relationships Demonstration on Children's Day!
-
-*2024-10-01 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195215) · `ta`
-
-Demonstration by Association of Missing Relations on Children's Day. Protesters demand justice for missing children, criticize Visamis' interference. Carried Tamil children's photos, raised slogans.
-
-🟩
-
-A demonstration was staged by the Association of Missing Relations on Tuesday (01).
-
-No one has created a judicial system for our children who have disappeared despite all the children's organizations in Sri Lanka. So we are carrying out our struggles for international justice.
-
-In this case, some Visamis are deliberately carrying out activities to confuse our struggles. However, we will not abandon these struggles until we get justice.
-
-The protesters carry the Tamil children terrorists, the day of the Children's Day seeking justice, the Bachilam children's arms carried and the slogans were raised.
-
-◼️
-
-[Data](articles/33723360.json)
-
-[Extended Data](ext_articles/33723360.ext.json)
 
 ---

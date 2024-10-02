@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 08:58:12**
+As of **2024-10-02 09:12:23**
 
 ## Newspaper Stats
 
-*Scraped **47,322** Articles*
+*Scraped **47,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,882
 dailyftlk | 3,185
-adalk | 4,378
+adalk | 4,380
 dailymirrorlk | 4,733
-adaderanalk | 5,564
+adaderanalk | 5,565
 tamilmirrorlk | 6,356
 virakesarilk | 7,567
-adaderanasinhalalk | 8,176
+adaderanasinhalalk | 8,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,322 (100.0%) of 47,322 articles have been extended.
+47,330 (100.0%) of 47,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-10-02 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102389/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+Showers or thundershowers will occur over most parts of the Island during the afternoon or night, says the Meteorology Department.
+
+Fairly heavy showers above 50 mm can be expected at some places in Eastern, Central, and North-central provinces, it said.
+
+A few showers may occur in the coastal areas of Southern and Western provinces during the morning too.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/c71703ae.json)
+
+[Extended Data](ext_articles/c71703ae.ext.json)
+
+---
 
 ### A reduction in another fee
 
@@ -49,6 +69,76 @@ As the government has reduced the fuel prices, it has decided to reduce the impo
 [Data](articles/29687659.json)
 
 [Extended Data](ext_articles/29687659.ext.json)
+
+---
+
+### 167 bills passed
+
+*2024-10-02 08:28:36* · [`adalk`](https://www.ada.lk/breaking_news/9-වැනි-පාර්ලිමේන්තු-කාලයේදී--පනත්-167ක්-සම්මතයි/11-412267) · `si`
+
+Here's a 200-character summary:
+
+
+
+167 bills passed between 2020-2024: 146 State Acts, 21 Private Members'. Key acts include Elections Regulatory Act (2023) and Empowerment of Sri Lanka Power and Energy Act (2024). Some bills approved by Translation Act.
+
+🟩
+
+The meetings began on August 20, 2020 and was passed over the ninth parliamentary period of 2024.
+
+The bills 146 State Acts and 21 Private Members' Bills have been passed.
+
+Elections Regulatory Act No 3, No. 3 of 2023, No. 6 of 2023Empowerment of Sri Lanka Power and Energy Act No. 36 of 2024, No. 37 of 2024, No. 37 of 2024, No. 44 of 2024, No. 44 of 2024, No. 44 of 2024, No. 44 of 2024There are some of the bills of the Acts that were approved by the Translation Act.
+
+In the 2020, there were 44 State Acts and 4, 36 government bills and 14 private seats in 2023, including Thirteen of 2021.
+
+◼️
+
+[Data](articles/20eb5395.json)
+
+[Extended Data](ext_articles/20eb5395.ext.json)
+
+---
+
+### Sajith says it is ready to contribute to the building of the country
+
+*2024-10-02 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201749) · `si`
+
+Sajith Premadasa addresses party activists in Maharagama, emphasizing UPFA's role in national development and reconciliation. He calls for overcoming challenges through unity and increased investment in education.
+
+🟩
+
+The only options currently available is Sajith Premadasa that the UPFA is the Alliance and the reconciliation.
+
+He says that there is a car to overcome the challenges facing the country.
+
+He was speaking at a meeting with party activists in Maharagama.
+
+...
+
+[Data](articles/ae0263e1.json)
+
+[Extended Data](ext_articles/ae0263e1.ext.json)
+
+---
+
+### Container transport rates will be reduced by four percent
+
+*2024-10-02 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201748) · `si`
+
+Container transport fees reduced by 4% due to lower fuel costs and government support measures.
+
+🟩
+
+The Container Owners Association says that the container transport fees have been reduced by 4 percent from midnight yesterday (01).
+
+"The government has reduced the price of fuel prices and Rs. 24 and Rs.. The export indication fees decided to reduce the export container transport fees compared to that prices by 4%. At present the government is working to provide relief to the entire public. Accordingly, our Executive Committee decided to download container transport charges. "
+
+◼️
+
+[Data](articles/0c9b9667.json)
+
+[Extended Data](ext_articles/0c9b9667.ext.json)
 
 ---
 
@@ -74,6 +164,60 @@ Many companies including the Mahaweli Authority, the Department of Agriculture a
 
 ---
 
+### ADB chairman greet the President
+
+*2024-10-02 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201747) · `si`
+
+ADB Chairman greets President Anura Kumara Dissanayake. Masakawa praises Sri Lanka's peaceful democracy and economic stability under Dissanayake's leadership. Japan's International Cooperation Agency delegation meets at Presidential Secretariat to discuss Bandaranaike International Airport project.
+
+🟩
+
+President of the Asian Development Bank, Chairman, Masakawa has joined President Anura Kumara Dissanayake.
+
+The Chairman of the ADB said that the Chairman of the ADB has said that President Anura Kumara Dissanayake accepted the program of President Anura Kumara Dissanayake.
+
+The greetings have been thankful that the people of Sri Lanka are thankful for a peaceful and democratic election in Sri Lanka.
+
+From 1966, Mr. Asakawa, which has been powered by the Asia Development Bank and Sri Lanka, the Asadawa, the Asia, Asian Development Bank and Sri Lanka has been a long-standing partner in Sri Lanka and as a permanent partner to meet the aspirations of the people.
+
+The greetings also further stated that the leadership of President Anura Kumara Dissanayake is also capable of stabilizing the economy of Sri Lanka and further strengthening it.
+
+...
+
+[Data](articles/ba7a8088.json)
+
+[Extended Data](ext_articles/ba7a8088.ext.json)
+
+---
+
+### IMF representatives to visit the island today
+
+*2024-10-02 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201746) · `si`
+
+IMF team arrives in Sri Lanka today. Director stays till Oct 4. Meets Pres & govt officials. Discusses economic policies & growth program. Structural issues discussed in NY later.
+
+🟩
+
+The International Monetary Fund (IMF) group is due to arrive in the island today.
+
+Accordingly, the Director of the Monetary Fund Asia Pacific, Director of Monetary Fund, is due to stay in Sri Lanka until October 4.
+
+They are due to meet President Anura Kumara Dissanayake and the new government experts.
+
+A spokesman for the International Monetary Fund (IMF) stated that they will also meet the economic repressions of the new economic growth and the Sri Lanka Economic Program in the Sri Lanka Economic Program.
+
+Cabinet spokesman Vijitha Herath expressed his views at the Cabinet Decisions yesterday (01).
+
+A discussion of its structural matters will be held in New York in late October.
+
+◼️
+
+[Data](articles/d954eb31.json)
+
+[Extended Data](ext_articles/d954eb31.ext.json)
+
+---
+
 ### Katunayake Airport Development soon
 
 *2024-10-02 06:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்க-விமான-நிலைய-அபிவிருத்தி-விரைவில்/175-344787) · `ta`
@@ -93,6 +237,30 @@ At a recent meeting between the Ambassador and the President of Japan, the Japan
 [Data](articles/56408c15.json)
 
 [Extended Data](ext_articles/56408c15.ext.json)
+
+---
+
+### Heavy showers in several areas today
+
+*2024-10-02 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201744) · `si`
+
+Heavy showers expected in eastern, central, and northern regions tonight. Thunderstorms possible in southern and western coastal areas. Public advised to be cautious due to strong winds and lightning.
+
+🟩
+
+Showers or thundershowers will occur at several places in the country, in the evening or night.
+
+Department of Meteorological Department to some places in the Eastern, Central and North Central Provinces. Heavy close is likely to grow more than 50.
+
+Showers may occur at the coastal areas in the southern and Western provinces.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/fd493996.json)
+
+[Extended Data](ext_articles/fd493996.ext.json)
 
 ---
 
@@ -965,6 +1133,30 @@ Accordingly, some people have been instructed to deal with legislation and to pr
 [Data](articles/8ecb91fb.json)
 
 [Extended Data](ext_articles/8ecb91fb.ext.json)
+
+---
+
+### IM F delegation to visit Sri Lanka
+
+*2024-10-01 22:01:27* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එ‍ෆ්--නියෝජිත-පිරිසක්-අද-ලංකාවට/11-412265) · `si`
+
+IMF delegation visits Sri Lanka. Basic monetary fund program discussed. Structural talks set for New York in October. IMF Director Krishna stays until Oct 4, meets President Dissanayake and new economic group.
+
+🟩
+
+A top delegation from the IMF is due to arrive in Sri Lanka. The Cabinet Spokesperson Vijitha Herath said that the Cabinet Decision in the press conference held yesterday (01) said that only a basic discussion of the Monetary Fund's Program with the IMF.
+
+A discussion of its structural matters is scheduled to be held in New York in late October.
+
+It is reported that the International Monetary Fund (IMF) Director of the Pacific Director Director Krishna is staying in Sri Lanka until October 4.
+
+They are due to meet with President Anura Kumara Dissanayake and the new economic group.
+
+◼️
+
+[Data](articles/adca8239.json)
+
+[Extended Data](ext_articles/adca8239.ext.json)
 
 ---
 
@@ -2033,193 +2225,5 @@ The National Transport Commission has taken steps to reduce the bus fares by 4.2
 [Data](articles/04de4b34.json)
 
 [Extended Data](ext_articles/04de4b34.ext.json)
-
----
-
-### President of Poutin is a personal message
-
-*2024-10-01 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201728) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake received a private message from Russia's President Vladimir Putin. The meeting aimed to strengthen bilateral relations between the two nations, focusing on trade, investment, culture, and education.
-
-🟩
-
-President Anura Kumara Dissanayake met with President Vladimir Putin's private message to Sri Lanka's Sri Lankan Ambassador to Sri Lanka.
-
-The Russian Ambassador in Sri Lanka Levan s. Dzhageryan met the President and accepted the message at the Presidential Secretariat this morning.
-
-President Vladimir Putin says that the two countries are expected to strengthen bilateral relations between President Anura Kumara Dissanayake.
-
-The Presidential Media Unit added that the Sri Lankan Ambassador and President Anura Kumara Dissanayake said that Sri Lanka and Russia continued to strengthen the long-term bilateral relations between Sri Lanka and Russia.
-
-The commitment to enhance diplomatic relations on both sides is re-established.
-
-The sides also emphasized the importance of improving key areas such as trade, investment, culture and education.
-
-◼️
-
-[Data](articles/011645c6.json)
-
-[Extended Data](ext_articles/011645c6.ext.json)
-
----
-
-### Anura Kumara Dissanayake “did not win”.  Sajith Premadasa with his Oversized Ego nd Hurry to become President Handed Over the Election to  AKD
-
-*2024-10-01 15:15:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84825) · `en`
-
-The presidential election’s outcome has been described in flowery language: A vote for system change, the rejection of the old regime, a clarion call against corruption and cronyism, a vote against the sale of national assets, and so on.
-
-All that is true to a certain degree, but they still miss the wood for the trees. The risk of these feel-good assessments is that they could also delude the election winner. To explore the danger of misreading an election mandate, look no further than the Yahapalanaya’s and Maithripala Sirisena’s victory over the Mahinda Rajapaksa regime.
-
-Sirisena won the election, thanks to sound electoral arithmetic, riding on the overwhelming minority vote, even though he lost the South by half a million votes.
-
-...
-
-[Data](articles/f46b5226.json)
-
-[Extended Data](ext_articles/f46b5226.ext.json)
-
----
-
-### Notice to A / L Small
-
-*2024-10-01 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201727) · `si`
-
-University Admission Notice: Apply online from Oct 1 to Oct 8 for 2023/2024 academic year. Check previous notification for application details.
-
-🟩
-
-Applications have been called for the university admission to the university admission to the university admission to the resurrection results of the A / L examination and the suspension results.
-
-The University Grants Commission announced that the applications have been called for the academic year.
-
-The UGC commission says that applications can be sent online from today (01) to October 08.
-
-Further details on the submission of applications are said to have been referred to in the previous newspaper notification regarding the calling for the University approach of the University approach of the academic year 2023/2024.
-
-The University Grants Commission is informed that two weeks of the year 2023 to change the per year of the academic year for courses.
-
-◼️
-
-[Data](articles/3e15a4e2.json)
-
-[Extended Data](ext_articles/3e15a4e2.ext.json)
-
----
-
-### India wins the Indo-Bangladesh Test series playing like one day match
-
-*2024-10-01 15:02:24* · [`adalk`](https://www.ada.lk/sports/එක්දින-තරගයක්--මෙන්-ක්‍රීඩා-කළ-ඉන්දු---බංග්ලාදේශ-ටෙස්ට්-තරගයේ-ජය-ඉන්දියාවට/9-412258) · `si`
-
-India wins Indo-Bangladesh Test series. India recovered 7 wickets in second match. Bangladesh scored 233 runs in first innings. India won target scoring 98 runs for loss of 3 wickets. India elected in first innings. India wins tournament with both matches.
-
-🟩
-
-Tourist India recovered 07 wickets in seven wickets in the second Test match against Bangladesh.
-
-Bangladesh scored 233 runs for the first innings and in reply to the first innings in the first innings to the loss of 9 wickets.
-
-The Bangladesh team scored 146 runs for the loss of all innings.
-
-Accordingly, India won the target and scored 98 runs for the loss of three wickets.
-
-India was elected in the first innings.
-
-The Indian team won the tournament with both matches in the tournament.
-
-◼️
-
-[Data](articles/b9cfc1f8.json)
-
-[Extended Data](ext_articles/b9cfc1f8.ext.json)
-
----
-
-### A man arrested with ice drugs in Colombo
-
-*2024-10-01 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195234) · `ta`
-
-Colombo police arrest 36-year-old woman with 114,900 rupees suspected of ice drug trafficking. 33 grams of 270 mg ice seized during raid on Burgation Road. Further investigation ongoing.
-
-🟩
-
-A woman was arrested on Monday (30) with money suspected of earning an ice and drug trafficking on Burgation Road, which belongs to the Grandpass Police Division in Colombo.
-
-The suspect was arrested during a raid carried out on the basis of confidential information received by the Colombo Police Crime Unit.
-
-The arrested was a 36 -year -old woman from Colombo 14.
-
-Police have seized 114,900 rupees suspected of earning 33 grams of 270 milligrams of ice and drug trafficking from the arrested suspect.
-
-Further investigations are being carried out by the Colombo Police Crime Unit.
-
-◼️
-
-[Data](articles/400e9f5c.json)
-
-[Extended Data](ext_articles/400e9f5c.ext.json)
-
----
-
-### Sridharan congratulates the new president
-
-*2024-10-01 15:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதிக்கு-ஸ்ரீதரன்-வாழ்த்து/175-344762) · `ta`
-
-Sridharan congratulates Anura Kumara Dissanayake on his election as Sri Lanka's president. Former TNA MP met Dissanayake at the Presidential Office, praising him as the people's choice for the role.
-
-🟩
-
-Former Parliamentarian of the Tamil National Alliance (TNA). Sreedharan met President Anura Kumara Dissanayake at the Presidential Office early this morning.
-
-S. congratulated Anuragumara Dissanayake, who was elected through the sovereignty of the people as the ninth executive president of Sri Lanka. Sreedharan engaged in a speech with the president.
-
-◼️
-
-[Data](articles/ce0ad5ce.json)
-
-[Extended Data](ext_articles/ce0ad5ce.ext.json)
-
----
-
-### The tragedy reported from Thailand
-
-*2024-10-01 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201726) · `si`
-
-Tragedy in Thailand: School children and teachers died in fire near Thailand today. Foreign media reports details.
-
-🟩
-
-A group of school children and teachers in Thailand have died on fire, foreign media reports.
-
-The accident had occurred in the area near Thailand today (01).
-
-◼️
-
-[Data](articles/9b0698d4.json)
-
-[Extended Data](ext_articles/9b0698d4.ext.json)
-
----
-
-### Russian Ambassador calls on President; delivers personal message from Putin
-
-*2024-10-01 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102379/russian-ambassador-calls-on-president-delivers-personal-message-from-putin-) · `en`
-
-Ambassador of the Russian Federation to Sri Lanka, Levan S. Dzhagaryan has called on newly elected President Anura Kumara Dissanayake this morning (01) at the Presidential Secretariat.
-
-During the meeting, Ambassador Dzhagaryan extended his warm congratulations to President Dissanayake on his recent election and delivered a personal message from Russian President Vladimir Putin, according to the PMD.
-
-President Putin in his message states, that he expects that the bilateral relationship between the two countries will deepen under the leadership of President Anura Dissanayake, the statement said.
-
-The discussions focused on strengthening the longstanding bilateral relations between Sri Lanka and Russia.
-
-Both parties highlighted the importance of enhancing cooperation in key areas such as trade, investment, culture, and education, while reaffirming their commitment to deepening diplomatic ties for the mutual benefit of both nations.
-
-◼️
-
-[Data](articles/404c45ad.json)
-
-[Extended Data](ext_articles/404c45ad.ext.json)
 
 ---

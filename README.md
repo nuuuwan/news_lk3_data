@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 08:21:33**
+As of **2024-10-02 08:58:12**
 
 ## Newspaper Stats
 
-*Scraped **47,318** Articles*
+*Scraped **47,322** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 392
-bbccomsinhala | 466
+bbccomsinhala | 467
 colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,882
 dailyftlk | 3,185
-adalk | 4,377
+adalk | 4,378
 dailymirrorlk | 4,733
 adaderanalk | 5,564
-tamilmirrorlk | 6,354
+tamilmirrorlk | 6,356
 virakesarilk | 7,567
 adaderanasinhalalk | 8,176
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,318 (100.0%) of 47,318 articles have been extended.
+47,322 (100.0%) of 47,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### A reduction in another fee
+
+*2024-10-02 08:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-கட்டணம்-குறைப்பு/175-344789) · `ta`
+
+Container transport fee reduced 4% due to lower fuel prices. Government decision impacts import/export tariffs.
+
+🟩
+
+Chairperson of the container vehicle owners association, Sanath Manjula, said that the container transport fee has been reduced by 4 percent from midnight yesterday (01).
+
+As the government has reduced the fuel prices, it has decided to reduce the import and export container transport tariffs 4% compared to those prices.
+
+◼️
+
+[Data](articles/29687659.json)
+
+[Extended Data](ext_articles/29687659.ext.json)
+
+---
+
+### Action to provide water for the majority
+
+*2024-10-02 07:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்போகத்திற்கு-நீரை-விடுக்க-நடவடிக்கை/175-344788) · `ta`
+
+Ministry of Agriculture plans to release water starting 15th. Discussion held at Department of Agriculture involving Mahaweli Authority, Department of Agriculture, and Irrigation Department.
+
+🟩
+
+The Ministry of Agriculture has said that steps will be taken to release the water from the 15th of this month.
+
+A discussion was held at the Department of Agriculture at Kanni yesterday, its secretary MPM Wickremesinghe said.
+
+Many companies including the Mahaweli Authority, the Department of Agriculture and the Irrigation Department participated in the discussion.. (A)
+
+◼️
+
+[Data](articles/f27cf6d0.json)
+
+[Extended Data](ext_articles/f27cf6d0.ext.json)
+
+---
 
 ### Katunayake Airport Development soon
 
@@ -477,6 +519,38 @@ Acting Controller General Balasuriya is a special Grade Officer of the Sri Lanka
 [Data](articles/bf03dd40.json)
 
 [Extended Data](ext_articles/bf03dd40.ext.json)
+
+---
+
+### Why did the army called for civilian affairs?: 'The Presidential Things Show "
+
+*2024-10-02 02:03:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz0481dzrnko) · `si`
+
+Here's a 200-character summary:
+
+
+
+Army calls for civilian affairs due to presidential power under Public Security Act. New president issues gazette for police-like powers during riots. Critics argue against extending beyond 30 days without parliamentary approval. Military lacks training for civilian policing roles compared to police.
+
+🟩
+
+Why did the army called for civilian affairs?: 'The Presidential Things Show "
+
+The executive president has a special power of the Public Security Act (40th Authority) for the duties of the police for riots in the country.
+
+The new President Anura Kumara Dissanayake has been convened to duties in the district with all administrative districts and seasures in Sri Lanka.
+
+What is the need to issue such a gazette in a context of riots in the country?This is a search for BBC Sinhala.
+
+The Public Security Ordinance is one of the main law in Sri Lanka's national security. Executive President has been able to make the decisions that require the decisions they need in several clauses in the country.. The 5 presidents in the nearly a period of over decade have issued various gazette notifications in accordance with the powers vested under this Ordinance.
+
+Where is the power to publish an emergency situation?
+
+...
+
+[Data](articles/7aec9e2b.json)
+
+[Extended Data](ext_articles/7aec9e2b.ext.json)
 
 ---
 
@@ -937,6 +1011,30 @@ Arrangements have been made to re -submit 19 vehicles and 15 of them have been h
 [Data](articles/dee0fc94.json)
 
 [Extended Data](ext_articles/dee0fc94.ext.json)
+
+---
+
+### Repeat Vehicles taken to the Presidential Secretariat from government institutions
+
+*2024-10-01 21:19:33* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ආයතනවලින්-ජනාධිපති-කාර්යාලයට-ගත්-වාහන-නැවත-එම-ආයතනවලට/11-412264) · `si`
+
+Vehicles returned to Presidential Secretariat: 19 cars released; officials from various ministries present. Senior officials Roshan Gamage and Mahesh Hewavitharana attended event.
+
+🟩
+
+The vehicles were taken to the Presidential Secretariats, including ministries, Ministries, including ministries, departments, had taken place on the premises near the Presidential Secretariat this afternoon.
+
+Accordingly, 19 vehicles were released today and the officials of the relevant institutions arrived today.
+
+Eight vehicles obtained from the Road Development Authority and the total number of vehicles across the Ministry of Finance and the Ministry of Transport and Civil Aviation and the Department of Transport and Civil Aviation were replaced by the Department.
+
+Senior Additional Secretary to the Presidential Secretariat Roshan Gamage, Additional Secretary Mahesh Hewavitharana were present at the occasion.
+
+◼️
+
+[Data](articles/99234637.json)
+
+[Extended Data](ext_articles/99234637.ext.json)
 
 ---
 
@@ -2123,97 +2221,5 @@ Both parties highlighted the importance of enhancing cooperation in key areas su
 [Data](articles/404c45ad.json)
 
 [Extended Data](ext_articles/404c45ad.ext.json)
-
----
-
-### Dinesh Weerakkody to head Sri Lanka’s Union Bank, Nirvana Chaudhary steps down
-
-*2024-10-01 14:38:00* · [`economynextcom`](https://economynext.com/dinesh-weerakkody-to-head-sri-lankas-union-bank-nirvana-chaudhary-steps-down-181815/) · `en`
-
-ECONOMYNEXT – The Board of Directors of Union Bank of Colombo Plc has unanimously resolved to appoint Dinesh Weerakkody as its Chairman with effect from September 30.
-
-The decision was made after Nirvana Chaudhary, informed the Bank regarding his decision to step down as the Chairman of Union Bank of Colombo due to his ongoing commitments in Nepal.
-
-The Board at its meeting held on September 30 accepted his resignation effective immediately, it said in a stock exchange filing.
-
-Weerakkody was an independent non-executive director of the bank before this. He is a former Chairman of both Commercial Bank of Ceylon and Hatton National Bank and has also served on the Board of DFCC Bank.
-
-In 2015, he chaired the government-appointed committee tasked with reviewing the consolidation of banks and non-bank financial institutions (NBFIs).
-
-He is a director of several companies and the Chairman of the Employers’ Federation of Ceylon.
-
-He has held senior leadership roles in the public sector as well.
-
-...
-
-[Data](articles/fecb2288.json)
-
-[Extended Data](ext_articles/fecb2288.ext.json)
-
----
-
-### Complaint against Human Rights Commission against land grabbing in Trincomalee
-
-*2024-10-01 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195225) · `ta`
-
-Trincomalee residents lodge complaint with Human Rights Commission regarding unresolved land dispute. 31 families' 42-acre residential lands seized during civil war, military camp established post-conflict. Residents unable to resettle due to Wildlife Department restrictions and state machinery lease arrangements. Appeal filed at various levels, issue remains unresolved.
-
-🟩
-
-Civil and City of Trincomalee have lodged a complaint at the Trincomalee Regional Office of the Human Rights Commission on Monday (30).
-
-The 42 -acre residential lands of the 31 families living in the area have not yet been released.
-
-When the villagers were displaced due to the civil war, the state had taken over the land and had come to the Human Rights Commission due to the inability to resettle the lands on the lands after the war.
-
-During the 1983 riots, they were displaced and resettled in the 90s, after which a military camp was set up in the areas where their homes were located.
-
-After that, after the border of the Wildlife Department in the area, it was impossible to go there and that there were arrangements to provide a long -term lease on a long -term lease by a majority of state machinery.
-
-They also said that although the appeal was filed at various levels, the Human Rights Commission had appealed to the Human Rights Commission on the issue.
-
-◼️
-
-[Data](articles/d313ded1.json)
-
-[Extended Data](ext_articles/d313ded1.ext.json)
-
----
-
-### School bus catches fire in Thailand, 25 feared dead
-
-*2024-10-01 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102378/school-bus-catches-fire-in-thailand-25-feared-dead) · `en`
-
-About 25 people were feared dead in Thailand on Tuesday when a school bus carrying students and teachers on a field trip caught fire on the outskirts of the capital Bangkok, with 16 passengers hospitalised, the government said.
-
-Police could not immediately confirm the number of injuries or deaths but Interior Minister Anutin Charnvirakul told reporters about 25 people were believed to have been killed, without elaborating.
-
-Sixteen students and three teachers were sent to a hospital for treatment, Transport Minister Suriya Juangroongruangkit said, adding the causes of the incident were still be investigated.
-
-Early images posted on social media and carried by local news outlets showed thick grey smoke pouring out of the bus, parts of which were still on fire.
-
-The blaze was later extinguished. A Reuters photographer saw fire trucks, police and rescue vehicles parked around the blackened vehicle, with a cluster of firefighters at the entrance.
-
-...
-
-[Data](articles/373a84f9.json)
-
-[Extended Data](ext_articles/373a84f9.ext.json)
-
----
-
-### Bus fares reduced
-
-*2024-10-01 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102377/bus-fares-reduced) · `en`
-
-Bus fares have been reduced by 4.24%, effective from midnight today (Oct. 01), according to the National Transport Commission (NTC).
-
-Meanwhile, the minimum fare has been reduced by one rupee to Rs. 27.
-
-◼️
-
-[Data](articles/75e6b192.json)
-
-[Extended Data](ext_articles/75e6b192.ext.json)
 
 ---

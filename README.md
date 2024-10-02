@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 12:13:23**
+As of **2024-10-02 12:24:16**
 
 ## Newspaper Stats
 
-*Scraped **47,362** Articles*
+*Scraped **47,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,136 @@ economynextcom | 2,882
 dailyftlk | 3,185
 adalk | 4,383
 dailymirrorlk | 4,733
-adaderanalk | 5,570
-tamilmirrorlk | 6,368
-virakesarilk | 7,570
+adaderanalk | 5,571
+tamilmirrorlk | 6,370
+virakesarilk | 7,573
 adaderanasinhalalk | 8,187
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,362 (100.0%) of 47,362 articles have been extended.
+47,368 (100.0%) of 47,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Meeting between Indian High Commission and All Ceylon Peoples Congress
+
+*2024-10-02 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195304) · `ta`
+
+Indian High Commissioner Santosh Ja met with All Ceylon People's Congress leader Rishad Bathiudeen. They discussed Sri Lanka's political progress and mutual interests.
+
+🟩
+
+Indian High Commissioner to Sri Lanka Santosh Ja and All Ceylon People's Congress leader and Member of Parliament Rishad Bathiudeen. There was a meeting between Amir Ali.
+
+At the meeting, the country's current political advances and mutual welfare issues were discussed.
+
+◼️
+
+[Data](articles/f792fc48.json)
+
+[Extended Data](ext_articles/f792fc48.ext.json)
+
+---
+
+### Former MP Vino Action Notification
+
+*2024-10-02 12:04:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பி-வினோ-அதிரடி-அறிவிப்பு/175-344806) · `ta`
+
+Former MP Vino Nogarathalingam decides not to contest upcoming parliamentary elections. Cites need for political change in South, particularly among Sinhalese majority. Emphasizes accepting public sentiment and giving opportunities to youth and newcomers. Decision made alongside other former MPs.
+
+🟩
+
+Former Wanni Parliamentarian Vino Nogarathalingam says he has decided to not contest the upcoming parliamentary elections.
+
+In the last presidential election, the need for a political change was felt among the people in the South, especially among the Sinhalese majority. The result is the president of the Anuragumara Dissanayake.
+
+We cannot prevent this change in the minds of the people.
+
+It is inevitable to give way. It is to understand and accept the feelings of the minds and give them a place for young people and newcomers
+
+The decision to not contest with mine and some other former MPs
+
+◼️
+
+[Data](articles/b6a23223.json)
+
+[Extended Data](ext_articles/b6a23223.ext.json)
+
+---
+
+### President Meeting with diplomats
+
+*2024-10-02 11:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜதந்திரிகளுடன்-ஜனாதிபதி-சந்திப்பு/175-344805) · `ta`
+
+President Anura Kumara Dissanayake meets ambassadors from Cuba, UK, Australia, China, Japan, Canada, and India to discuss strengthening bilateral relations.
+
+🟩
+
+President Anura Kumara Dissanayake will meet the Ambassadors, High Commissioners and other diplomatic representatives of the seven countries today, the Presidential Media Unit (PMD) said.
+
+Ambassadors, high -rankings and representatives of Cuba, the United Kingdom, Australia, China, Japan, Canada and India are expected to engage in discussion with the president.
+
+The PMD further stated that these discussions will focus on strengthening bilateral relations with all countries in accordance with the foreign policy of the government.
+
+◼️
+
+[Data](articles/fb5e6478.json)
+
+[Extended Data](ext_articles/fb5e6478.ext.json)
+
+---
+
+### USD drops below Rs. 300 for first time in over 15 months
+
+*2024-10-02 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102395/usd-drops-below-rs-300-for-first-time-in-over-15-months-) · `en`
+
+The selling rate of the US Dollar has dropped below the Rs. 300 mark for the first time since June 8, 2023.
+
+◼️
+
+[Data](articles/0fd09ed3.json)
+
+[Extended Data](ext_articles/0fd09ed3.ext.json)
+
+---
+
+### At first came the warning reports on Iran's attack - and then heard the noise of the missiles intercepting - the BBC about the situation in Israel
+
+*2024-10-02 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195305) · `ta`
+
+Israel under missile threat: Iran launches attack, Israelis seek shelter. Military intercepts missiles, causing loud noises. Public warned via SMS to stay in safe areas. Reports of explosions and smoke. Fears of escalation as Israeli forces enter Lebanon.
+
+🟩
+
+According to the Israeli time, the text message came to everyone's mobile phones.
+
+The SMS warned, "You should all go to the area that was declared a safe place and stay there until the announcement."
+
+The message was sent by the Central Command Faculty of the Israeli Army's Internal Security Force. It referred to the life -saving instructions.
+
+When the missiles were launched from Iran to Israel, people went to safe rooms.
+
+Once the hazard began to sound, we went to a safe place in the BBC's Jerusalem Bureau.
+
+We often heard the massive noise caused by the missiles and the sound of Israel's loss.
+
+Videos posted on social media have shown light caused by missiles.. Videos have also shown the smoke zones caused by the intercept or explosion.
+
+The Israeli military issued a report that they would interrupt the missiles at 8 pm and asked the public to remain in safe places.
+
+The Israeli military said, "The sounds you hear are caused by interrupted missiles."
+
+...
+
+[Data](articles/a9e1407e.json)
+
+[Extended Data](ext_articles/a9e1407e.ext.json)
+
+---
 
 ### Siege of Sri Lanka Embassy
 
@@ -247,6 +363,30 @@ No coalition was formed in the symbol of the partner of the coalition. It should
 [Data](articles/2239fca3.json)
 
 [Extended Data](ext_articles/2239fca3.ext.json)
+
+---
+
+### Governor of the Northern Province
+
+*2024-10-02 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195294) · `ta`
+
+Northern Province Governor promotes tourism development in Nedundevu, focusing on economic benefits and infrastructure improvements. Initiates quick project implementation and prepares for World Tourism Day celebrations.
+
+🟩
+
+Governor of the Northern Province. The Vedanan analyzed.
+
+The Secretary of the Ministry of Local Government, the Secretary of the Governor, the Assistant Secretary of the Governor, the Secretary of the Tourism Bureau, the Governor's Coordinator, the Director of the Tourism Bureau, the Officer of the Tourism Department, the Secretary of the Tourism, the Secretary of the Department of Tourism, the Secretary of the Department of Local Government, Jaffna.
+
+Knowing the current state of tourism on the Northern Province, the Governor asked for the development of the tourism industry in Nedundevu.. The people of the Northern Province also discussed the benefit of the people of the Northern Province to generate more income by improving the tourism sector in the Northern Province.
+
+He also explores the nature of the tourism sector and develops important issues to the areas where the expansion of the tourism sector expansion.
+
+...
+
+[Data](articles/81dc1da6.json)
+
+[Extended Data](ext_articles/81dc1da6.ext.json)
 
 ---
 
@@ -2185,129 +2325,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/a4bbf2fc.json)
 
 [Extended Data](ext_articles/a4bbf2fc.ext.json)
-
----
-
-### Presidential Secretariat returns 19 vehicles to govt institutions
-
-*2024-10-01 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102386/presidential-secretariat-returns-19-vehicles-to-govt-institutions) · `en`
-
-The vehicles that had been brought to the Presidential Secretariat from various government institutions, including Ministries and Departments, were returned to their respective agencies today (01), at the parking area near the secretariat, the President’s Media Division said.
-
-Today, 19 vehicles were released, with approximately 15 being collected by officials from the relevant agencies who arrived on prior notice, the statement said.
-
-A total of 15 vehicles were returned to their respective institutions today, including 08 from the Road Development Authority (RDA), 03 from the Ministry of Finance, and 01 each from the Southern Provincial Council, the Ministry of Transport and Civil Aviation, and the Department of Wildlife Conservation.
-
-Senior Additional Secretary Roshan Gamage, Additional Secretary Mahesh Hewawitharana, and other officials were present at the event, the PMD said.
-
-◼️
-
-[Data](articles/9a06178b.json)
-
-[Extended Data](ext_articles/9a06178b.ext.json)
-
----
-
-### Protesters come to find the house of Yunus in Bangladesh
-
-*2024-10-01 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201737) · `si`
-
-Protesters seek higher age limit for government jobs. Demonstrations target Muhammad Yunus' home. Police use tear gas and rubber bullets to disperse crowds.
-
-🟩
-
-A series of protests has begun a series of protests demanding the increase in the age limit for the government.
-
-Protesters demand the government's job limit for the government's jobs to 31 to 35 years.
-
-The protesters tried to move Bangladesh main advisor to the city of Muhammad Yunus, Kuhammad Yunus, and the police had attacked tear gas and rubber bullets to disperse the protesters.
-
-◼️
-
-[Data](articles/27038c1b.json)
-
-[Extended Data](ext_articles/27038c1b.ext.json)
-
----
-
-### Sri Lanka’s new govt vows to proceed with bond scam court case
-
-*2024-10-01 18:44:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-govt-vows-to-proceed-with-bond-scam-court-case-181838/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new government under President Anura Kumara Dissanayake will proceed with the legal case on 2015 bond scam in which former leader Ranil Wickremesinghe and his close ally are being accused of being involved in the scam.
-
-A presidential commission of inquiry found that Arjuna Mahendran, handpicked for Central Bank Governor post in 2015 had interfered in a bond auction and has leaked inside information to help Perpetual Treasuries, owned by his son in law, to make billions of rupees in profits.
-
-Mahendran raised a policy rate floor outside the regular monetary policy meeting and pressured a tender board to sell bonds at high prices, the inquiry found.
-
-The inquiry also found that Perpetual Treasuries had paid central bank dealers, who were managing the country’s largest pension fund, to buy bonds at high prices and other state funds.
-
-...
-
-[Data](articles/ac327f36.json)
-
-[Extended Data](ext_articles/ac327f36.ext.json)
-
----
-
-### Why Let Socially Imposed Faiths Divide Us?
-
-*2024-10-01 18:41:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-let-socially-imposed-faiths-divide-us/) · `en`
-
-Dr. Amir Ali’s article titled “Battle for the Parliament” published in Colombo Telegraph of September 29, 2024 is encouraging because it has a strong appeal to all those who wish to see the unity of all Sri Lankans belonging to different faiths.
-
-It is no news that religious and ethnic differences have been a major cause of social segregation. And, these artificial divisions had served the crafty politicians who had ruled the country in the past. They had exploited, among other things, religion and ethnicity as a way of preventing the electorate from understanding their common problem of widespread poverty, which had nothing to do with their religion or ethnicity.
-
-...
-
-[Data](articles/a2f2f1e7.json)
-
-[Extended Data](ext_articles/a2f2f1e7.ext.json)
-
----
-
-### The last government should be responsible for the passport and visa issue - Vijitha Herath
-
-*2024-10-01 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195268) · `ta`
-
-Last government responsible for passport/visa issues. Current government re-implemented old system, started online visa issuance. New electronic passport project delayed due to lack of funds. Old stock limited, causing distribution problems. Entire cabinet blamed for inconvenience. Solution expected soon.
-
-🟩
-
-The past government may have followed the old methods in the passport and visa issue. But the government has not taken any action. Cabinet spokesman Vijitha Herath said that the entire Cabinet should be held responsible for the matter.
-
-He further stated that at a press conference announcing the Cabinet decisions held on Tuesday (1),
-
-VFS. A court order has been issued on the visa issue. The system has been suspended accordingly. It has also been decided to go to the old method. Could have implemented the old system by the last government. But the government has not taken any action.
-
-But after I took the responsibility of the Ministry, I had taken action. Accordingly, the old system has been re -implemented and visa issuance through the Internet has begun. It has also been decided to conduct the audit. The Auditor's Department has begun its operations.
-
-...
-
-[Data](articles/069c58c7.json)
-
-[Extended Data](ext_articles/069c58c7.ext.json)
-
----
-
-### Policy decision on SriLankan Airlines restructure to be taken after elections
-
-*2024-10-01 18:31:00* · [`economynextcom`](https://economynext.com/policy-decision-on-srilankan-airlines-restructure-to-be-taken-after-elections-181836/) · `en`
-
-ECONOMYNEXT  – No decision on the restructure of state-run SriLankan Airlines will be taken until after elections bring a new government to office, Minister Vijitha Herath said.
-
-“In this interim period we will not go for any policy related decisions,” Minister Herath told reporters at weekly post-cabinet press briefing.
-
-“In a future government, which we will build soon, we will go for some actions. At the moment, in this short period we will not go for policy decisions.”
-
-Sri Lanka sought a buyer for a stake sale of SriLankan Airlines but nothing was finalized, the current sale process was dropped amid weak interest.
-
-However SriLankan has debt, including a government guaranteed bond, that has to be resolved. (Colombo/Oct01/2024)
-
-◼️
-
-[Data](articles/e4c26128.json)
-
-[Extended Data](ext_articles/e4c26128.ext.json)
 
 ---

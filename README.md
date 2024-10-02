@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 14:24:30**
+As of **2024-10-02 14:38:40**
 
 ## Newspaper Stats
 
-*Scraped **47,390** Articles*
+*Scraped **47,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 2,889
 dailyftlk | 3,185
 adalk | 4,385
 dailymirrorlk | 4,733
-adaderanalk | 5,576
-tamilmirrorlk | 6,371
+adaderanalk | 5,577
+tamilmirrorlk | 6,372
 virakesarilk | 7,575
-adaderanasinhalalk | 8,192
+adaderanasinhalalk | 8,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,389 (100.0%) of 47,390 articles have been extended.
+47,390 (100.0%) of 47,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයින් ගැන දැනුම්දීමක්
+
+*2024-10-02 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201763) · `si`
+
+ඉරානය ඊශ්‍රායලය ඉලක්ක කරමින් ප්‍රහාර එල්ල කිරීමත් සමග ඊශ්‍රායලයේ සිටින සියලුම ශ්‍රී ලාංකිකයින්ට ආරක්ෂිත ස්ථානයක රැඳී සිටින ලෙස ශ්‍රී ලංකා තානාපති කාර්යාලය දැනුම් දුන්නේය.
+
+මේ අතර අත්‍යාවශ්‍ය ආහාර සහ ඖෂධ ආදිය ළඟ තබාගන්නා ලෙසත් එරට ශ්‍රී ලංකා තානාපති කාර්යාලය ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයින්ට දැනුම් දී තිබුණි.
+
+මෙවන් පසුබිමක ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසන්නේ, ඉරාන ප්‍රහාරවලින් ශ්‍රී ලාංකිකයින්ට හානියන් සිදුව ඇතැයි මෙතෙක් වාර්තා වී නොමැති බවය.
+
+ඉරානය ඊයේ (01) රාත්‍රීයේ ඊශ්‍රායලය වෙත දැවැන්ත මිසයිල ප්‍රහාරයක් එල්ල කළේය.
+
+ඊශ්‍රායලයේ අයන් ඩෝම් මිසයිල ආරක්ෂණ පද්ධතිය සහ අමෙරිකානු ප්‍රති මිසයිල මෙහෙයුමක් මඟින් එලෙස එල්ල කෙරුණු මිසයිල රැසක් විනාශ කිරීමට ඊශ්‍රායලය සමත්ව තිබුණි.
+
+ගාසා තීරය සහ ලෙබනනය වෙත අඛණ්ඩ ගුවන් සහ ගොඩබිම් ප්‍රහාර එල්ල කරමින් සිටින ඊශ්‍රායලය වෙත දැවැන්ත බැලැස්ටික් මිසයිල ප්‍රහාර මාලාවක් එල්ල කිරීමට ඉරානය ඊයේ (01) කටයුතු කළේ ය.
+
+එම ප්‍රහාරවල ඉලක්කය වී තිබුණේ ජනාකීර්ණ ටෙල් අවීව් අගනුවර, ජෙරුසෙලම සහ හයිෆා යන නගරවල තෝරාගත් හමුදා ඉලක්කයන්ය.
+
+◼️
+
+[Data](articles/27c2fd01.json)
+
+---
+
+### Australia assures support for Sri Lanka’s IMF program
+
+*2024-10-02 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102400/australia-assures-support-for-sri-lankas-imf-program) · `en`
+
+The High Commissioner of Australia to Sri Lanka, Paul Stephens, held a courtesy meeting with President Anura Kumara Dissanayake this morning (02) at the Presidential Secretariat in Colombo.
+
+During the discussion, the High Commissioner extended his warmest congratulations to President Dissanayake and the Government of Australia on his recent election, expressing the Australian Government’s strong commitment to deepening ties with Sri Lanka, the President’s Media Division (PMD) said.
+
+The Australian government reassured its support in key areas, including maritime safety, border control, and counter-terrorism efforts, the statement said.
+
+High Commissioner Stephens emphasized Australia’s commitment to supporting Sri Lanka’s IMF program and expressed a strong interest in promoting Foreign Direct Investments (FDIs) in the country.
+
+He also highlighted the importance of maintaining economic transparency as a crucial element for fostering investor confidence, the PMD said.
+
+◼️
+
+[Data](articles/1f37f1a8.json)
+
+---
+
+### ஈரானுக்கு செல்ல வேண்டாம்
+
+*2024-10-02 14:14:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானுக்கு-செல்ல-வேண்டாம்/50-344811) · `ta`
+
+மத்திய கிழக்கு நாடுகளில் ஒன்றான ஈரானுக்கு இந்தியர்கள் பயணம் மேற்கொள்வதை தவிர்க்குமாறு இந்திய வெளியுறவுத்துறை அமைச்சகம் தெரிவித்துள்ளது.
+
+இது தொடர்பாக அமைச்சகம் வெளியிட்டுள்ள அறிக்கையில், “ஈரானில் அண்மைய நாட்களாக அதிகரித்து வரும் பாதுகாப்பு சூழலை நாங்கள் உன்னிப்பாக கவனித்து வருகிறோம். அதை கருத்தில் கொண்டு அங்கு இந்திய குடிமக்கள் பயணம் மேற்கொள்வதை தவிர்க்குமாறு கேட்டுக் கொள்கிறோம்.
+
+மேலும், ஈரானில் உள்ள இந்தியர்கள் பாதுகாப்பு குறித்த விழிப்புடன் இருக்குமாறு கேட்டுக் கொள்கிறோம். அதோடு தெஹ்ரானில் அமைந்துள்ள இந்திய தூதரகத்துடன் தொடர்பில் இருக்குமாறு அங்கு வசிக்கும் இந்திய மக்களை கேட்டுக் கொள்கிறோம்” எனத் தெரிவித்துள்ளது.
+
+இஸ்ரேலை நோக்கி ஈரான் நூற்றுக்கணக்கான ஏவுகணைகளை வீசி தாக்குதல் மேற்கொண்ட நிலையில், இதற்கான விலையை அந்த நாடு கொடுக்கும் என இஸ்ரேல் பிரதமர் நெதன்யாகு எச்சரித்திருந்தார். இந்த நிலையில் இந்திய வெளியுறவுத்துறை அமைச்சகம் இதனை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c40b3ad9.json)
+
+---
 
 ### Oil prices jump more than 2% as Middle East tensions escalate
 
@@ -51,6 +113,34 @@ Tehran said any Israeli response to the attack, which Israel said involved more 
 ...
 
 [Data](articles/fb08480b.json)
+
+[Extended Data](ext_articles/fb08480b.ext.json)
+
+---
+
+### මැදපෙරදිග යුද ගිනි - ඉරානයට යළිත් අනතුරු ඇඟවීමක්
+
+*2024-10-02 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201762) · `si`
+
+ඉරානය ඊයේ (01) රාත්‍රීයේ ඊශ්‍රායලය වෙත දැවැන්ත මිසයිල ප්‍රහාරයක් එල්ල කර තිබේ.
+
+ඊශ්‍රායලයේ අයන් ඩෝම් මිසයිල ආරක්ෂණ පද්ධතිය සහ අමෙරිකානු ප්‍රති මිසයිල මෙහෙයුමක් මඟින් එලෙස එල්ල කෙරුණු මිසයිල රැසක් විනාශ කිරීමට ඊශ්‍රායලය සමත්ව තිබුණි.
+
+ගාසා තීරය සහ ලෙබනනය වෙත අඛණ්ඩ ගුවන් සහ ගොඩබිම් ප්‍රහාර එල්ල කරමින් සිටින ඊශ්‍රායලය වෙත දැවැන්ත බැලැස්ටික් මිසයිල ප්‍රහාර මාලාවක් එල්ල කිරීමට ඉරානය ඊයේ(01) කටයුතු කළේ ය.
+
+එම ප්‍රහාරවල ඉලක්කය වී තිබුණේ ජනාකීර්ණ ටෙල් අවීව් අගනුවර, ජෙරුසෙලම සහ හයිෆා යන නගරවල තෝරාගත් හමුදා ඉලක්කයන්ය.
+
+විදෙස් වාර්තාවලට අනුව මෙලෙස එල්ල කෙරුණු මිසයිල සංඛ්‍යාව 180කට ආසන්නය.
+
+ප්‍රහාරවලට සමගාමීව ඊශ්‍රායල ජනතාව ආරක්ෂිත ස්ථාන වෙත යොමු කෙරුණු අතර ඊශ්‍රායලයේ අයන් ඩෝම් මිසයිල ආරක්ෂණ පද්ධතිය මඟින් මෙලෙස පැමිණි මිසයිල රැසක් විනාශ කර තිබුණි.
+
+මේ අතර අමෙරිකාව සඳහන් කළේ, මෙම මිසයිල ප්‍රහාරය මැඬලීම සඳහා තමන් ද සහාය වූ බවය.
+
+කෙසේ නමුත් මෙලෙස එල්ල කළ මිසයිලවලින් කිහිපයක් සාර්ථක වූ අතර, බටහිර ඉවුරට එල්ල වූ එවන් ප්‍රහාරයකින් පලස්තීන වැසියෙක් මියගොස් තිබුණි.
+
+...
+
+[Data](articles/c0438e81.json)
 
 ---
 
@@ -2271,67 +2361,5 @@ Special attention was paid to the further strengthening of long -term bilateral 
 [Data](articles/dce042f7.json)
 
 [Extended Data](ext_articles/dce042f7.ext.json)
-
----
-
-### HNB Assurance joins hands with Industrial Development Board to offer special insurance solution to over 10,000 registered companies
-
-*2024-10-01 23:21:00* · [`islandlk`](http://island.lk/hnb-assurance-joins-hands-with-industrial-development-board-to-offer-special-insurance-solution-to-over-10000-registered-companies/) · `en`
-
-HNB Assurance PLC entered an exciting new partnership with the Industrial Development Board (IDB), which will bring customized insurance solutions to more than 10,000 Micro, Small and Medium Enterprises and large corporates that are registered with the IDB. This collaboration is aimed at supporting the backbone of Sri Lanka’s economy and helping businesses thrive with the security they need to grow.
-
-...
-
-[Data](articles/39fb6def.json)
-
-[Extended Data](ext_articles/39fb6def.ext.json)
-
----
-
-### “Mega Expo 2024” brings industry leaders to Jaffna
-
-*2024-10-01 23:21:00* · [`islandlk`](http://island.lk/mega-expo-2024-brings-industry-leaders-to-jaffna/) · `en`
-
-The much-anticipated Future Image Mega Expo 2024 was held on August 23rd and 25th, 2024, at the iconic Veerasingham Hall in Jaffna. Organized by Tima International (Pvt) Ltd, a leading event management company since 2008, the expo served as a premier platform for professionals in photography, videography, cinema, advertising, and printing industries.
-
-Supported by Fine Vision Group, NAPSL, and INGRIN Printing & Graphics Academy of Sri Lanka, the event featured nearly 200 stalls, showcasing cutting-edge technology and services. Attendees had the opportunity to explore a wide range of products and services from both local and international experts, including Color Lab Partners, TV & Radio Broadcasting Service Providers, and Digital Printing Suppliers.
-
-...
-
-[Data](articles/ef88ec25.json)
-
-[Extended Data](ext_articles/ef88ec25.ext.json)
-
----
-
-### Channa Gunawardana appointed chairman at Litro Gas Lanka
-
-*2024-10-01 23:19:00* · [`islandlk`](http://island.lk/channa-gunawardana-appointed-chairman-at-litro-gas-lanka/) · `en`
-
-Sri Lanka’s leading LP Gas providers, Litro Gas Lanka Ltd. and Litro Gas Terminal Lanka PVT Ltd., have appointed Channa Gunawardana as their new Chairman, marking a significant step in the companies’ ongoing commitment to ensuring uninterrupted energy supply across Sri Lanka.
-
-Gunawardana brings a wealth of experience from his previous roles, including his tenure at Aitken Spence Group as CEO/Director of Aitken Spence Garments Ltd. and CEO of Royal Fernwood Porcelain PLC from December 2021. Prior to that, he joined Dankotuwa Porcelain PLC in 2019, where he demonstrated his expertise in business transformation and leadership.
-
-...
-
-[Data](articles/7aeb3b01.json)
-
-[Extended Data](ext_articles/7aeb3b01.ext.json)
-
----
-
-### 99x unveils Product Central, boosting developer productivity and streamlining software development
-
-*2024-10-01 23:18:00* · [`islandlk`](http://island.lk/99x-unveils-product-central-boosting-developer-productivity-and-streamlining-software-development/) · `en`
-
-99x has announced the launch of Product Central, a pioneering development workbench designed to revolutionise how software teams build, deploy, and manage cloud applications. In today’s fast-paced digital landscape, developers are often overwhelmed by repetitive operational tasks that divert attention from creative and value-driven work. Product Central addresses this challenge by automating routine processes, allowing development teams to focus on delivering exceptional digital experiences to their customers.
-
-Product Central is designed to boost developer productivity and reduce human error by providing a unified platform that standardises reference architectures and platform configurations. This end-to-end solution not only streamlines operations but also scales efficiently to meet the demands of modern software development, enabling developers to focus on innovation by eliminating time-consuming setup and deployment tasks and freeing them from the burden of non-value-adding work.
-
-...
-
-[Data](articles/d677baaa.json)
-
-[Extended Data](ext_articles/d677baaa.ext.json)
 
 ---

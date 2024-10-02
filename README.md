@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 14:57:50**
+As of **2024-10-02 15:09:37**
 
 ## Newspaper Stats
 
-*Scraped **47,396** Articles*
+*Scraped **47,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,185
 adalk | 4,386
 dailymirrorlk | 4,733
 adaderanalk | 5,577
-tamilmirrorlk | 6,373
+tamilmirrorlk | 6,374
 virakesarilk | 7,575
 adaderanasinhalalk | 8,194
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,396 (100.0%) of 47,396 articles have been extended.
+47,397 (100.0%) of 47,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Namal challenge to Anura
+
+*2024-10-02 14:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுக்கு-நாமல்-சவால்/175-344812) · `ta`
+
+Namal Rajapaksa challenges Anura Kumara Dissanayake to prove allegations of hidden billions in Uganda and other countries. Rajapaksa denies claims made by Dissanayake during presidential campaign.
+
+🟩
+
+Former parliamentarian Namal Rajapaksa has challenged President Anura Kumara Dissanayake to prove the allegation that the Rajapakse regime has hidden billions of dollars in Uganda and other countries.
+
+Responding to a video of Dissanayake during the presidential campaign, Namal and his delegation have been claiming that public funds have been stolen for years.
+
+“President Anuragumara Dissanayake and his group have been accusing us of hiding billions of dollars in Uganda and various countries for many years.
+
+President Anura Kumara Dissanayake has time to prove his allegations, ”Rajapakse posted on the 'X' site.
+
+◼️
+
+[Data](articles/8e9d3fa4.json)
+
+[Extended Data](ext_articles/8e9d3fa4.ext.json)
+
+---
 
 ### Namal
 
@@ -2357,31 +2381,5 @@ The government has taken steps to return to the ambassadors and high -rankings a
 [Data](articles/9320d286.json)
 
 [Extended Data](ext_articles/9320d286.ext.json)
-
----
-
-### Permanent solution to the fisherman's problem
-
-*2024-10-01 23:53:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்-பிரச்சினைக்கு-நிரந்தர-தீர்வு-வேண்டும்/175-344785) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Indian Foreign Minister Jaishankar visits Sri Lanka to address fishermen arrests, war crimes, and Tamil rights. He urges President to free detained fishermen and establish a joint committee for a permanent solution.
-
-🟩
-
-“Today, 162 fishermen have been arrested and taken to Sri Lankan jails. Indian Foreign Minister Jaishankar, who is going to Sri Lanka, should urge the release of all of them and set up a joint task committee to set up a permanent solution to the fishermen's problem, ”said Ramadas, founder of the proletariat.
-
-In this regard, he said, “After taking over as the new President of Sri Lanka, Anuragumara Dissanayake, Indian Foreign Minister Jaishankar will visit Sri Lanka on the 4th of this month.. The journey, which is aimed at strengthening bilateral relations, should be benefited by the Tamils ​​there.
-
-15 years after the end of the Sri Lankan war, no one responsible for the deadly war crimes has been punished yet. Although India insisted that the Tamils ​​should be empowered under the 13th Amendment to the Constitution of Sri Lanka, there was no benefit.
-
-...
-
-[Data](articles/925342f6.json)
-
-[Extended Data](ext_articles/925342f6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 17:07:59**
+As of **2024-10-02 17:39:40**
 
 ## Newspaper Stats
 
-*Scraped **47,411** Articles*
+*Scraped **47,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,104 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,893
 dailyftlk | 3,185
-adalk | 4,387
+adalk | 4,388
 dailymirrorlk | 4,733
 adaderanalk | 5,580
-tamilmirrorlk | 6,375
+tamilmirrorlk | 6,382
 virakesarilk | 7,575
-adaderanasinhalalk | 8,199
+adaderanasinhalalk | 8,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,407 (100.0%) of 47,411 articles have been extended.
+47,420 (100.0%) of 47,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
 
-### චීනයෙන් ජනපතිට පොරොන්දුවක්
+### Explosion of the Middle East
 
-*2024-10-02 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201770) · `si`
+*2024-10-02 17:18:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மத்திய-கிழக்கு-வெடிக்கிறது/50-344821) · `ta`
 
-ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීම සහ ආර්ථික ස්ථාවරත්වය සඳහා පූර්ණ සහාය ලබාදීමට සහතික වන බව ශ්‍රී ලංකාවේ මහජන චීන සමූහාණ්ඩුවේ තානාපති Qi Zhenhong මහතා පවසයි.
+Here's a 200-character summary:
 
-ඔහු මේ බව පවසා ඇත්තේ ජනාධිපති අනුර කුමාර දිසානායක මහතා සමග අද (02) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවති හමුවක දී බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
 
-එහිදී ජනාධිපතිවරණ ජයග්‍රහණය පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත තානාපතිවරයා සිය හෘදයාංගම සුබ පැතුම් පිරිනමා තිබේ.
 
-එමෙන්ම ශ්‍රී ලංකාවේ ඉදිරි කටයුතු සඳහා චීනය අඛණ්ඩව සහාය දක්වන බවත්, ශ්‍රී ලංකාව සමග පවතින ද්විපාර්ශ්වික සබඳතා වැඩි දියුණු කරගැනීම වෙනුවෙන් චීන රජය අඛණ්ඩව කැපවී සිටින බවත් තානාපතිවරයා ප්‍රකාශ කර ඇත.
+Iran launches missile attack on Israel, causing international tensions. Israel claims hundreds of missiles targeted major cities. US assists Israel in intercepting missiles. Iran confirms attack, threatening future strikes. India warns citizens traveling to Iran. Tensions raise questions about regional stability and oil markets.
 
-ශ්‍රී ලංකාව තුළ මේ වනවිට ක්‍රියාත්මක සහයෝගීතා ව්‍යාපෘතිවල වැදගත්කම හා ශ්‍රී ලංකාවේ සංවර්ධන කාර්යයන් සඳහා සහාය දැක්වීම සඳහා චීන සංවර්ධන බැංකුව (CDB) සහ EXIM බැංකුවේ ක්‍රියාකාරී මැදිහත්වීම පිළිබඳව ද මෙහිදී ඔහු විසින් අවධාරණය කළ බව එම නිවේදනයේ සඳහන් වෙයි.
+🟩
+
+Iran is the missile attack on Israel. Tuesday (01) started at midnight. This has caused a tense situation in the international community, including the Middle East.
+
+International media reports that the attacks have been carried out in retaliation for events including Palestine's Gaza, Lebanon and the assassination of Hizbullah leaders.
+
+The Israeli military said Iran had launched hundreds of missiles towards major cities, including Israel's Tel Aviv.. The government has stepped up the task of taking the public immediately by signaling and taking them to safe places
+
+Iran's attacks on Israel, which are expected to occur in the Middle East at any time, have been realized by Iran's missile attacks.
+
+The US has said that Iran has launched an attack on Israel with about 200 Balistic missiles.
+
+The United States, which had warned Israel before, said it had helped Israel to interrupt Iran's missiles along the way.
 
 ...
 
+[Data](articles/00b353ce.json)
+
+[Extended Data](ext_articles/00b353ce.ext.json)
+
+---
+
+### Japan fully supports President's program
+
+*2024-10-02 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201771) · `si`
+
+Japan supports Sri Lanka's president. Ambassador Mizukoshi met with President Dissanayake. Japan commits to strengthening ties. Ambassador promises to learn Sinhala to deepen friendship.
+
+🟩
+
+Japanese Ambassador, Mizukoshi Hideaki, said,
+
+President Anura Kumara Dissanayake and the Japanese Ambassador of Japan in Sri Lanka was held today (02).
+
+The Japanese government has been committed to further enhance the long-term ties between Japan and Sri Lanka, who was elected President of Sri Lanka.
+
+The Ambassador to the President has assured the President to study Japanese to study Japanese to further strengthen the long-term friendship between Sri Lanka and Japan.
+
+◼️
+
+[Data](articles/74204fa2.json)
+
+[Extended Data](ext_articles/74204fa2.ext.json)
+
+---
+
+### China promises to president
+
+*2024-10-02 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201770) · `si`
+
+China supports Sri Lanka's economic stability, certifying loans and collaborating on development projects.
+
+🟩
+
+The Ambassador of the People's Republic of China, Qi Zhenhong says that Sri Lankan loans will be certified and fully supported for economic stability.
+
+He was speaking at a meeting with President Anura Kumara Dissanayake at the Presidential Secretariat this morning (02).
+
+The Ambassador has greeted his heartfelt congratulations on the presidential election.
+
+The Ambassador has said that China continues to support Sri Lanka's future and that the Government of the Chinese government has been committed to improving bilateral relations with Sri Lanka.
+
+The statement states that the Chinese Development Bank (CDB) and EXIM Bank has also emphasized the importance of collaboration projects implemented in Sri Lanka and the development work of Sri Lanka.
+
+The Ambassador has also assured President Anura Kumara Dissanayake that he will provide full support to the restructuring process of the debt commercial and bilateral loans to support Sri Lanka's economic stability and growth.
+
+◼️
+
 [Data](articles/0a5dc724.json)
+
+[Extended Data](ext_articles/0a5dc724.ext.json)
 
 ---
 
@@ -70,43 +134,111 @@ For emergency assistance, the public is requested to contact local disaster mana
 
 [Data](articles/9999e1f4.json)
 
+[Extended Data](ext_articles/9999e1f4.ext.json)
+
 ---
 
-### ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේනදයක්
+### Of the three who went to meet the lover, one was killed
+
+*2024-10-02 16:36:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதலியை-சந்திக்க-சென்ற-மூவரில்-ஒருவர்-பலி/76-344819) · `ta`
+
+Schoolgirl killed after gang attack while meeting friend's girlfriend. Two others fled, boyfriend hospitalized. Suspect arrested.
+
+🟩
+
+A schoolgirl who went to meet his friend's girlfriend has died after being attacked by a gang, Matale Mahawela police said.
+
+The deceased is a 17 -year -old schoolgirl named Morgan Yukesh, a schoolgirl from Kaudubella Kalaimala Vidyalaya, Madawala, Ulpatta, Madawala.
+
+The student was attacked by a gang of Kodawela Buddha when he was riding a motorbike to Madawala Ulpatha, at 5.30 pm on Tuesday (01) at 5.30 pm to meet the friend's girlfriend's schoolgirl.
+
+Two other people have fled and the student has been attacked and found dead by the people of the area.
+
+The boy's boyfriend and the other student have been admitted to the hospital for treatment and are being treated at the hospital and the wife's father has been arrested and is conducting investigations.
+
+◼️
+
+[Data](articles/0cf0a229.json)
+
+[Extended Data](ext_articles/0cf0a229.ext.json)
+
+---
+
+### Cooperation for direct foreign investments
+
+*2024-10-02 16:34:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேரடி-வெளிநாட்டு-முதலீடுகளுக்கு-ஒத்துழைப்பு/175-344818) · `ta`
+
+British High Commissioner meets Sri Lankan President, discusses cooperation on foreign investments and education ties.
+
+🟩
+
+British High Commissioner to Sri Lanka Andrew Pedrick met President Anura Kumara Dissanayake on Wednesday (02).
+
+The visit was an important initiative in further strengthening strong diplomatic relations between the two countries.
+
+High Commissioner Pedricky congratulated President Anura Kumara Dissanayake for his victory in the last presidential election and congratulated the British government for the rule of the President of Sri Lanka.
+
+The British High Commissioner also handed over the exclusive congratulations of King III Charles and British Prime Minister Sir Keir Starmer to congratulate President Anura Kumara Dissanayake.
+
+The High Commissioner, promising to provide continuous support for Sri Lanka's efforts to attract direct foreign investment, emphasized the importance of educational relations.. He also promised to help the British government for the International Monetary Fund and Debt Relief activities.
+
+◼️
+
+[Data](articles/c60a5ba3.json)
+
+[Extended Data](ext_articles/c60a5ba3.ext.json)
+
+---
+
+### A warning new in a strong lightning
 
 *2024-10-02 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201769) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ප්‍රබල අකුණු පිළිබඳ අවවාදාත්මක නිවේනදයක් නිකුත් කර තිබේ.
+Meteorology warns of public strike from 03/04 11pm. Thunderstorms expected in Uva, North Central, and Vavuniya regions. Public advised to take precautions against wind damage and lightning.
 
-අද (02) පස්වරුවේ නිකුත් කළ එම නිවේදනය හෙට (03) රාත්‍රී 11.00 දක්වා වලංගු වෙයි.
+🟩
 
-ඒ අනුව නැගෙනහිර, ඌව සහ උතුරුමැද පළාවලත් මුලතිව් සහ වවුනියාව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතී.
+The Department of Meteorology has issued a warning new public strike.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+The announcement issued by this afternoon will be valid from tomorrow (03) to 11 pm.
+
+Accordingly, in the evening, Uva and North and North Central territories, in the evening or Vavuniya districts, in the evening or Vavuniya districts is higher than at the same time.
+
+The Department of Meteorology also requests the public to take action to reduce the damages caused by temporary winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/43b33868.json)
 
+[Extended Data](ext_articles/43b33868.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස් ජනපතිව හමුවෙයි
+### British High Commissioner in Sri Lanka meets President
 
 *2024-10-02 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201768) · `si`
 
-ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස් Andrew Patrick මහතා අද (02) ජනාධිපති කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
+British High Commissioner meets Sri Lankan President to strengthen ties, discuss foreign investment and education cooperation.
 
-දෙරට අතර ශක්තිමත් රාජ්‍ය තාන්ත්‍රික සබඳතා තවදුරටත් තහවුරු කරගැනීමේ වැදගත් පියවරක් සනිටුහන් කරමින් මෙම හමුව සිදුවූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+🟩
 
-පසුගිය ජනාධිපතිවරණයේදී අනුර කුමාර දිසානායක මහතා ලබාගත් ජයග්‍රහණය වෙනුවෙන් බ්‍රිතාන්‍ය මහ කොමසාරිස්වරයා මෙහිදී සිය සුභාශිංසන පිරිනමා තිබේ.
+The British High Commissioner for Sri Lanka has met with President Anura Kumara Dissanayake at the President's Office today (02).
 
-එසේම ශ්‍රී ලංකාවේ ජනාධිපතිවරයා ලෙස අනුර කුමාර දිසානායක මහතාගේ ඉදිරි පාලනය වෙනුවෙන් බ්‍රිතාන්‍ය රජයේ සුබ පැතුම් එක් කළ මහකොමසාරිස්වරයා, අනුර කුමාර දිසානායක මහතාගේ නායකත්වය පිළිබඳව ප්‍රසාදය පළ කෙරෙන III වන චාල්ස් රජුගේ සහ බ්‍රිතාන්‍ය අගමැති Sir Keir Starmer මහතාගේ පුද්ගලික සුබ පැතුම් ද ජනාධිපතිවරයා වෙත පිළිගන්වන ලදි.
+The meeting has taken place to promote strong diplomatic relations between the two countries, the Presidential Media Unit said.
 
-සෘජු විදේශ ආයෝජන (FDIs) ආකර්ශනය කරගැනීමේ ශ්‍රී ලංකාවේ ප්‍රයත්නයන් සඳහා බ්‍රිතාන්‍ය රජයේ නොමඳ සහයෝගය ලබාදීම පිළිබඳව සහ අධ්‍යාපන ක්ෂේත්‍රයේ සහයෝගීතාවයේ වැදගත්කම පිළිබඳව ද මෙම හමුවේ දී සාකච්ඡා කළ බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේ ය.
+The British High Commissioner has been awarded to the victory of Anura Kumara Dissanayake in the last presidential election.
 
-...
+The private greetings of the British Government of Sri Lanka and was presented to the President, King Char Kumara, and British Prime Minister Sir Keir Staarker, who was welcomed for the leadership of the British Kumara Dissanayake.
+
+The Presidential Media Unit stated that the Presidential Media Unit was discussed with the use of the British government for Sri Lanka's efforts to attract direct foreign investment (FDIS) and the importance of the education sector cooperation.
+
+He further stated that the British government has also supported the International Monetary Fund's Procedure and Debt Rataback.
+
+◼️
 
 [Data](articles/cd760ace.json)
+
+[Extended Data](ext_articles/cd760ace.ext.json)
 
 ---
 
@@ -170,6 +302,80 @@ Dissanayake and his party have long accused the Rajapaksa family of taking wealt
 
 ---
 
+### Cylinder?Elephant?
+
+*2024-10-02 15:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டரா-யானையா-ஆராய்கிறது-ஐ-தே-க/175-344816) · `ta`
+
+UNP selects symbol: gas cylinder or elephant. Decision pending consultation with SLFP. Meeting chaired by Ranil Wickremesinghe.
+
+🟩
+
+It is being investigated at the ongoing meeting of the United National Party (UNP) headquarters in the upcoming parliamentary election.
+
+United National Party (UNP) Deputy Leader Ruwan Wijayawardena said that the United National Party (UNP) executive committee had agreed to select a gas cylinder or elephant and contest the next general election.
+
+Ruwan Vijayawardena also stated that a final decision will be taken in consultation with other parties, including the Sri Lanka Freedom Party (SLFP), which is contesting with the United National Party (UNP) and the United National Party.
+
+The United National Party (UNP) Executive Committee and several special meetings were held at the party headquarters, Sirikotha, headed by former United National Party (UNP) leader Ranil Wickremesinghe and discussed these issues.
+
+The meeting was attended by UNP district leaders, constituency organizers, managers and party activists.
+
+◼️
+
+[Data](articles/6137c8b9.json)
+
+[Extended Data](ext_articles/6137c8b9.ext.json)
+
+---
+
+### Luxury Car Controversy; Rosie Description
+
+*2024-10-02 15:59:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-கார்-சர்ச்சை-ரோசி-விளக்கம்/175-344815) · `ta`
+
+Porsche Cayenne controversy: Rosie Senanayake denies personal use, claims vehicle damaged.
+
+🟩
+
+Responding to the allegations that Porsche Cayenne was given during the reign of former President Ranil Wickremesinghe, Rosie Senanayake said the vehicle was one of the eight vehicles used from time to time.
+
+During a special media briefing held today, Rosie Senanayake explained to the media about the various vehicles given to him by the President's Office during his tenure.
+
+He added that he had used eight vehicles during his president's advisor and that the last used vehicle before the coup was Porsche Gayen.
+
+“All the vehicles provided in 2023 were replaced after damage. I used to use a total of eight vehicles. When my final vehicle was damaged, the President's Office gave me an unhealthy Porsche Cain.
+
+Immediately contacted the automobile trustee and requested a different vehicle. He advised me to use the vehicle until the other vehicle was available. The Porsche Cayen was immediately ripe and sent for transfer, ”he explained.
+
+...
+
+[Data](articles/d706cc73.json)
+
+[Extended Data](ext_articles/d706cc73.ext.json)
+
+---
+
+### "School shoes will be reduced"
+
+*2024-10-02 15:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-காலணிகள்-விலை-குறைக்கப்படும்/175-344814) · `ta`
+
+"School shoe prices cut: FLGIG reduces costs, urges local purchases."
+
+🟩
+
+The Footwear and Skin Products Association (FLGIG) said today that it has decided to reduce the prices of school shoes and relevance.
+
+Commenting on the media, FLGIG president Buddhika Wimalasiri said that in the community, which is seeking demands when the government comes to power, the country's industrialists and developers have been appointed to support the government.
+
+The leader appealed to the consumers to contribute to the purchase of goods made in Sri Lanka.
+
+◼️
+
+[Data](articles/97cd1750.json)
+
+[Extended Data](ext_articles/97cd1750.ext.json)
+
+---
+
 ### No reports of Sri Lankans in Israel affected by Iran attacks - envoy
 
 *2024-10-02 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102401/no-reports-of-sri-lankans-in-israel-affected-by-iran-attacks-envoy) · `en`
@@ -194,6 +400,32 @@ Iran described the campaign as defensive and solely aimed at Israeli military fa
 
 ---
 
+### Here are the places of Test Rankings, Chandimal, Angie, Prabhath
+
+*2024-10-02 15:20:19* · [`adalk`](https://www.ada.lk/sports/ටෙස්ට්-ශ්‍රේණිගත-කිරීම්හී-කමිඳු--චන්දිමාල්--ඇන්ජි--ප්‍රභාත්-හිමි-කරගත්-ස්ථාන-මෙන්න/9-412274) · `si`
+
+International Cricket Council publishes latest Test Rankings. Kamindu Mendis moves up to 11th place among batsmen. Dinesh Chandimal advances to 20th. Angelo Mathews improves ranking. Jaspri Bumrah tops Test bowlers. Prabath Jayasuriya rises to 8th place.
+
+🟩
+
+The latest Test Rankings have been published by the International Cricket Council.
+
+Accordingly, Kamindu Mendis has passed the 11th to the 11th place Test batsmen.
+
+Dinesh Chandimal has come forward to the 20th and Angelo Mathews has come forward in four parts.
+
+Meanwhile, Jaspradi Bumta has been able to reach the first place in the first place in the first place in Test bowlers.
+
+Sri Lanka's Prabath Jayasuriya has been able to advance from one place to the 08th place.
+
+◼️
+
+[Data](articles/63ab853d.json)
+
+[Extended Data](ext_articles/63ab853d.ext.json)
+
+---
+
 ### Sri Lankan citizen is not harmed
 
 *2024-10-02 15:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைப்-பிரஜைக்கு-பாதிப்பில்லை/175-344813) · `ta`
@@ -209,6 +441,24 @@ Sri Lankan Ambassador to Israel Nimal Bandara confirmed that there were no injur
 [Data](articles/2da589b9.json)
 
 [Extended Data](ext_articles/2da589b9.ext.json)
+
+---
+
+### Sri Lankan citizens are not harmed
+
+*2024-10-02 15:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைப்-பிரஜைகளுக்கு-பாதிப்பில்லை/175-344813) · `ta`
+
+Sri Lankan citizens unharmed: No injuries or casualties reported among Sri Lankans after alleged Israeli strike on Iranian forces.
+
+🟩
+
+Sri Lankan Ambassador to Israel Nimal Bandara confirmed that there were no injuries or casualties among Sri Lankan nationals following the alleged attack on Iranian forces on Israel.
+
+◼️
+
+[Data](articles/66f06924.json)
+
+[Extended Data](ext_articles/66f06924.ext.json)
 
 ---
 
@@ -2237,167 +2487,5 @@ We would like to report to the Tamil people and the relatives of the missing peo
 [Data](articles/b96d61f3.json)
 
 [Extended Data](ext_articles/b96d61f3.ext.json)
-
----
-
-### Cabinet moves to cut costs of MPs and ex-Presidents privileges
-
-*2024-10-02 03:00:27* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-moves-to-cut-costs-of-MPs-and-ex-Presidents-privileges/56-767446) · `en`
-
-Appoints three-member committee to study entitlements and make suitable recommendations to either limit them or propose alternative methods to ease burden on Treasury
-
-In response to growing concerns over the high cost of maintaining entitlements for Members of Parliament (MPs), Ministers and former Presidents, the Cabinet of Minister at their meeting on Monday approved reviewing and potentially reducing the privileges they receive.
-
-The move comes as the Government seeks to ease the burden on public finances, which have been stretched due to fiscal constraints.
-
-“Currently MPs, Ministers and ex-Presidents are provided with a range of entitlements and allowances, including salaries, pensions, housing, vehicles, staff, office equipment and security personnel. These benefits come at a significant cost to the Government, funded by public taxes,” Cabinet Spokesman and Minister Vijitha Herath said at the post-Cabinet meeting media briefing yesterday.
-
-...
-
-[Data](articles/979a6863.json)
-
-[Extended Data](ext_articles/979a6863.ext.json)
-
----
-
-### Russian envoy calls on President AKD, discusses strengthening bilateral ties
-
-*2024-10-02 02:58:33* · [`dailyftlk`](https://www.ft.lk/news/Russian-envoy-calls-on-President-AKD-discusses-strengthening-bilateral-ties/56-767445) · `en`
-
-Russian Federation Ambassador Levan S. Dzhagaryan yesterday called on new President Anura Kumara Dissanayake and discussed measures to strengthen bilateral relations.
-
-During the meeting, Ambassador Dzhagaryan extended his warm congratulations to President Dissanayake on his recent election and delivered a personal message from Russian President Vladimir Putin.
-
-President Putin in his message states, that he expects that the bilateral relationship between the two countries will deepen under the leadership of President Anura Dissanayake.
-
-The discussions focused on strengthening the longstanding bilateral relations between Sri Lanka and Russia. Both parties highlighted the importance of enhancing cooperation in key areas such as trade, investment, culture, and education, while reaffirming their commitment to deepening diplomatic ties for the mutual benefit of both nations.
-
-◼️
-
-[Data](articles/d087c7dd.json)
-
-[Extended Data](ext_articles/d087c7dd.ext.json)
-
----
-
-### US envoy calls on President
-
-*2024-10-02 02:57:59* · [`dailyftlk`](https://www.ft.lk/news/US-envoy-calls-on-President/56-767444) · `en`
-
-President Anura Kumara Dissanayake yesterday met with US Ambassador Julie J. Chung at the Presidential Secretariat.
-
-Ambassador Chung extended her warm congratulations to President Dissanayake on his recent inauguration and emphasised the importance of fostering robust bilateral relations between the United States and Sri Lanka.
-
-Particular focus was placed on enhancing diplomatic relations between the United States and Sri Lanka, along with fostering economic and social cooperation in areas of mutual interest to both nations.
-
-◼️
-
-[Data](articles/af901e65.json)
-
-[Extended Data](ext_articles/af901e65.ext.json)
-
----
-
-### Govt. to recall politically appointed Ambassadors and High Commissioners
-
-*2024-10-02 02:56:03* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-recall-politically-appointed-Ambassadors-and-High-Commissioners/56-767443) · `en`
-
-The Government yesterday announced plans to recall Ambassadors and High Commissioners who were appointed based on political allegiances.
-
-Speaking at the post-Cabinet meeting press conference, Cabinet Spokesman and Minister Vijitha Herath states that a detailed report is being prepared to review these appointments and that political appointees will be recalled accordingly.
-
-“Many daughters and sons of Members of the Parliament have been given diplomatic appointments,” he said, highlighting the extent of political influence in recent diplomatic placements.
-
-The move was seen as part of the new Government’s effort to address political favouritism in Foreign Service appointments, aiming for a more merit-based diplomatic corps moving forward.
-
-However, Herath clarified that no Sri Lankan diplomats would be recalled immediately, as several key international conferences and summits including the United Nations General Assembly (UNGA) are ongoing.
-
-...
-
-[Data](articles/d4d14c67.json)
-
-[Extended Data](ext_articles/d4d14c67.ext.json)
-
----
-
-### JICA discusses resumption of BIA 2nd phase development, TV digitisation projects
-
-*2024-10-02 02:54:21* · [`dailyftlk`](https://www.ft.lk/business/JICA-discusses-resumption-of-BIA-2nd-phase-development-TV-digitisation-projects/34-767442) · `en`
-
-The Japan International Cooperation Agency (JICA) Chief Representative Yamada Tetsuya, along with a delegation of senior representatives, met with the Secretary to the President Dr. Nandika Sanath Kumanayake yesterday.
-
-The discussion focused on the second phase of theBandaranaike International Airport (BIA) Development Project, implemented by JICA, and the immediate launch of the Terrestrial Television Broadcast Digitisation Project. In a recent meeting with the Secretary to the President, the Japanese Ambassador emphasised the need for the swift completion of 11 ongoing projects supported by JICA. Today’s discussion centred on accelerating the progress of these initiatives.
-
-Katsuhiro Suzuki, the Second Secretary of the Japanese Embassy in Sri Lanka, along with other officials, also attended the meeting.
-
-◼️
-
-[Data](articles/ea7c11e4.json)
-
-[Extended Data](ext_articles/ea7c11e4.ext.json)
-
----
-
-### Two Independent Non-Executive Directors appointed to Tokyo Cement Board
-
-*2024-10-02 02:52:38* · [`dailyftlk`](https://www.ft.lk/business/Two-Independent-Non-Executive-Directors-appointed-to-Tokyo-Cement-Board/34-767441) · `en`
-
-Tokyo Cement Company (Lanka) PLC recently announced the appointment of Mano Sekaram and Averil Anne Ludowyke as Independent Non-Executive Directors to its Board.
-
-Mano Sekaram is a renowned tech entrepreneur and investor in the Sri Lankan IT industry with over 30 years of experience in the corporate arena. He is the Founder and Chairman of 99x Technology Sri Lanka and Asia, and Board Member of 99x Investment AS Norway, an award-winning digital product engineering company serving European markets. He was featured on the prestigious LMD100 Club for both 2019 and 2020, which highlights the A-list of Sri Lankan businesspeople driving the Nation’s growth. He was awarded the ‘Lifetime Achievement Award’ by the British Computer Society (BCS) at the National Best Quality Software Awards (NBQSA) 2014, for his vast contributions to the ICT industry.
-
-...
-
-[Data](articles/29fc59bf.json)
-
-[Extended Data](ext_articles/29fc59bf.ext.json)
-
----
-
-### KPMG Sri Lanka appoints Dushani Corea as a Principal
-
-*2024-10-02 02:48:58* · [`dailyftlk`](https://www.ft.lk/business/KPMG-Sri-Lanka-appoints-Dushani-Corea-as-a-Principal/34-767440) · `en`
-
-KPMG in Sri Lanka, a member firm of the KPMG network of independent member firms has appointed Dushani Corea as a Principal of the Firm with effect from 1 October 2024.
-
-...
-
-[Data](articles/fc42e87b.json)
-
-[Extended Data](ext_articles/fc42e87b.ext.json)
-
----
-
-### CWIT welcomes additions to crane fleet ahead of 2025 operations
-
-*2024-10-02 02:46:33* · [`dailyftlk`](https://www.ft.lk/business/CWIT-welcomes-additions-to-crane-fleet-ahead-of-2025-operations/34-767439) · `en`
-
-The Colombo West International Terminal (CWIT) said yesterday it has made another crucial advance towards becoming one of Asia’s leading port facilities with the delivery of its first 2 semi-automated Rail Mounted Quay Cranes (RMQCs) and 3 additional fully automated Cantilever Rail-Mounted Gantry Cranes (CRMGs).
-
-This shipment marks the second in a series of deliveries as the terminal gears up for Phase 1 operations in February of 2025.
-
-This follows the earlier delivery of 5 CRMGs on 3 September. In total, CWIT will have 9 cranes operational before the terminal officially begins handling cargo next year. These state-of-the-art automated cranes are designed to improve efficiency and enhance safety by reducing human intervention and increasing operational precision.
-
-...
-
-[Data](articles/a200be41.json)
-
-[Extended Data](ext_articles/a200be41.ext.json)
-
----
-
-### SJB files RTI on alleged privileges sought by ex-President
-
-*2024-10-02 02:28:51* · [`dailyftlk`](https://www.ft.lk/news/SJB-files-RTI-on-alleged-privileges-sought-by-ex-President/56-767438) · `en`
-
-The Samagi Jana Balawegaya (SJB) has formally requested information regarding alleged privileges sought for the former President, following claims that a letter had been sent by Ranil Wickremesinghe’s Security Head SSP Nizam Jamaldeen. SJB Legal Secretary Farman Cassim has filed an application under the Right to Information Act (RTI) seeking details about the privileges reportedly requested on behalf of the former President.
-
-Taking to X SJB’s Weligama Organiser and former Chairman of the Weligama Pradeshiya Sabha, Rehan Jayawickrama confirmed the party’s move, citing concerns about a letter sent by SSP Nizam Jamaldeen, ref. D/PSD/18763/09/2024. The letter, allegedly seeking additional facilities for the former President, was reportedly received by the secretary to President Anura Dissanayake on 25 September 2024, he said.
-
-...
-
-[Data](articles/d1f89a1e.json)
-
-[Extended Data](ext_articles/d1f89a1e.ext.json)
 
 ---

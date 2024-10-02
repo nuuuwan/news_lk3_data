@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 11:39:08**
+As of **2024-10-02 11:58:39**
 
 ## Newspaper Stats
 
-*Scraped **47,355** Articles*
+*Scraped **47,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,882
 dailyftlk | 3,185
-adalk | 4,382
+adalk | 4,383
 dailymirrorlk | 4,733
-adaderanalk | 5,569
-tamilmirrorlk | 6,364
+adaderanalk | 5,570
+tamilmirrorlk | 6,366
 virakesarilk | 7,570
-adaderanasinhalalk | 8,186
+adaderanasinhalalk | 8,187
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,355 (100.0%) of 47,355 articles have been extended.
+47,360 (100.0%) of 47,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### A case against Patali is postponed until next year
+
+*2024-10-02 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201755) · `si`
+
+Patali Champika Ranawaka case postponed until February 28, 2025, due to Supreme Court interim order suspending proceedings.
+
+🟩
+
+The Colombo High Court has been appointed to postpone the case against former Minister Patali Champika Ranawaka, who has been imprisoned and accused of an accident in Rajagiriya.
+
+When the case was taken up today (02), Mr. Defendant Champali Champavika Ranawaka appeared in court.
+
+Attorney-at-Law Amarasiri Panditharatne appearing on behalf of him at the time, he said that the Supreme Court has issued an interim order with the suspension of the case.
+
+Accordingly, the lawyer asked the court to provide another date to call the case.
+
+The High Court Judge accepted the request to be summoned on 28th February 2025.
+
+The case has been filed against Patali Champika Ranawaka on the 28th of February 2016.
+
+◼️
+
+[Data](articles/f0a7b0fb.json)
+
+[Extended Data](ext_articles/f0a7b0fb.ext.json)
+
+---
+
+### Former Minister Dilith Jayaweera joined
+
+*2024-10-02 11:24:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-திலித்-ஜயவீரவுடன்-இணைந்தார்/175-344801) · `ta`
+
+Dilith Jayaweera joins Maubima Janata Party as Chairman. Former Minister Sanna Jayasumana named Vice President. Milan Jayatilaka appointed Gampaha district organizer.
+
+🟩
+
+The Maubima Janata Party (MJP) has been appointed as the Chairman of the former Minister of State Sanna Jayasumana as the Vice President
+
+Former MP Milan Jayatilaka has been appointed as the party's Gampaha district organizer.
+
+◼️
+
+[Data](articles/bf66c4f6.json)
+
+[Extended Data](ext_articles/bf66c4f6.ext.json)
+
+---
+
+### "There will be no shortage until April"
+
+*2024-10-02 11:24:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-வரை-தட்டுப்பாடு-இருக்காது/175-344800) · `ta`
+
+Fuel shortage ends April: Sri Lanka Petroleum Corp. Chairman DJ Karunaratne says Ceylon Petroleum Corp. booked all fuel supplies. Weekly reserve plans announced. Refinery improvements and price revisions discussed. Transparency ensured through Regulatory Commission.
+
+🟩
+
+Sri Lanka Petroleum Corporation Chairman DJ Karunaratne said that the fuel shortage will not occur until April as the Ceylon Petroleum Corporation has deliberately provided all the bookings for fuel.
+
+Speaking to the media, he said that future plans for maintaining adequate fuel reserves will be planned weekly.
+
+"Petroleum Corporation aims to improve the refinery industry for more efficient fuel supply. According to the current price formula, the latest fuel prices have been revised, and the CPC is planning to upgrade the CPC formula to make more concessions to the public, ”he said.. Said.
+
+The chairman also stated that the resolutions relating to the fuel price correction are expected to hand over them to the Regulatory Commission to ensure transparency.
+
+“It is impossible to reduce the price of fuels imported by other side.. The latest fuel prices have been revised according to the existing formula and legal structure. ”He said.
+
+...
+
+[Data](articles/13659403.json)
+
+[Extended Data](ext_articles/13659403.ext.json)
+
+---
 
 ### Jilmot girlfriend caught
 
@@ -55,6 +129,24 @@ He was already married and had children to know that he had not married and told
 [Data](articles/ec4783bb.json)
 
 [Extended Data](ext_articles/ec4783bb.ext.json)
+
+---
+
+### Roshan Ranasinghe appointed Chairman of MJP
+
+*2024-10-02 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102394/roshan-ranasinghe-appointed-chairman-of-mjp) · `en`
+
+Former Minister Roshan Ranasinghe has joined the Mawbima Janatha Party (MJP) led by entrepreneur Dilith Jayaweera.
+
+Meanwhile, former Minister Prof. Channa Jayasumana has been appointed Vice Chairman of MJP.
+
+Former MP Milan Jayatilleke has been appointed party’s Gampaha District Organiser.
+
+◼️
+
+[Data](articles/872aa611.json)
+
+[Extended Data](ext_articles/872aa611.ext.json)
 
 ---
 
@@ -163,6 +255,28 @@ In the growing number of people, in many families, youth in many families are fa
 [Data](articles/488c2b68.json)
 
 [Extended Data](ext_articles/488c2b68.ext.json)
+
+---
+
+### Barber resigned twice in one year
+
+*2024-10-02 10:30:44* · [`adalk`](https://www.ada.lk/sports/වසරක්-තුළ-දෙවරක්-ඉල්ලා-අස්වූ-බාබර්/9-412269) · `si`
+
+Pakistan cricket team captain Babar Azam resigns twice within a year due to personal reasons, prioritizing family life over cricket responsibilities.
+
+🟩
+
+Limited-widest-o-wander leader Barber Assam resigned from the leadership of Pakistan.
+
+He is the second time in which he is led by the leadership.
+
+He has given priority to his batting, as well as the resignation of spending time with his family.
+
+◼️
+
+[Data](articles/6df92659.json)
+
+[Extended Data](ext_articles/6df92659.ext.json)
 
 ---
 
@@ -2187,115 +2301,5 @@ The heading of this article is inspired by the title of Edgar Snow’s  , “Red
 [Data](articles/139b1f89.json)
 
 [Extended Data](ext_articles/139b1f89.ext.json)
-
----
-
-### President of Russian President's Poutin
-
-*2024-10-01 18:09:41* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-ජනපති-පුටින්ගෙන්-ජනපති-අනුරට-පුද්ගලික-පණිවිඩයක්/11-412262) · `si`
-
-Russian Ambassador Levan Dzhagaryan met Sri Lankan President Anura Kumara Dissanayake. They discussed strengthening ties between their countries, focusing on diplomacy and mutual cooperation.
-
-🟩
-
-Ambassador of the Russian Federation in Sri Lanka. Jagaraan (Levan s. Dzhagaryan met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
-
-Ambassador to this meeting. Jagarron congratulated President Dissanayake recently to the elected President Dissanayake.
-
-President Putin was expected to be increasingly strengthened by the two countries under the leadership of President Anura Kumara Dissanayake.
-
-The discussion focused on further strengthening the commitment to enhance the lengthy diplomatic relations between Sri Lanka and Russia.The two sides also emphasized the importance of improving.
-
-◼️
-
-[Data](articles/434a7df3.json)
-
-[Extended Data](ext_articles/434a7df3.ext.json)
-
----
-
-### Superbollywood Veduvada shot
-
-*2024-10-01 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201735) · `si`
-
-Bollywood actor Govinda hospitalized after self-inflicted gunshot wound. Condition stable, expected recovery. Actor known for iconic roles in 80s-90s films.
-
-🟩
-
-Populated Bollywood actor Govinda has been hospitalized due to firing.
-
-The Indian media said that the legitimated revolver was in operation and shot his own foot.
-
-The shooting was injured below the knee and after nearly an hourly surgery, reports say.
-
-The doctors have said that his condition is not serious and that he can leave the hospital after being treated with hospital for several days.
-
-The 60th is now known as the Hero no.1 of the 60th, the 60th year-old governing cinema.
-
-In 1986, the farmers who enter the Indian cinema in 1986 have already contributed to the performance of the film.
-
-◼️
-
-[Data](articles/439a932e.json)
-
-[Extended Data](ext_articles/439a932e.ext.json)
-
----
-
-### Here is the decision about the litro gas price
-
-*2024-10-01 18:02:24* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-ගැන-අද-ගත්ත-තීරණය-මෙන්න/11-412261) · `si`
-
-Litro gas prices unchanged in October. Company maintains current rates.
-
-🟩
-
-The company has decided not to change the litro gas prices in relation to October.
-
-◼️
-
-[Data](articles/b0f8a1b2.json)
-
-[Extended Data](ext_articles/b0f8a1b2.ext.json)
-
----
-
-### அநுர குமார திசாநாயக்க ; இலங்கை வானில்  ‘ இடதுசாரி ‘ நட்சத்திரம்
-
-*2024-10-01 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84833) · `en`
-
-அமெரிக்க பத்திரிகையாளர் எட்கார் சினோவின் ‘ சீன வானில்  சிவப்பு நட்சத்திரம்  ‘ (Red Star over China ) என்ற நூல்தான்  கட்டுரைக்கு இந்த தலைப்பை  வைப்பதற்கு தூண்டுதல் அளித்தது. சீனக் கம்யூனிஸ்ட் தலைவர் மாவோ சேதுங்குடனும் செஞ்சேனையுடனும் தனது ஊடாட்டம் பற்றிய உயிர்களையுடைய விபரிப்பாக அமைந்த அந்த முதலில் 1937 ஆம் ஆண்டில் பிரசுரமானது. மாவோ என்று அறியப்பட்ட மாவோ சேதுங்கைப் பற்றி அந்த நேரத்தில் மேற்குலகில் பெரிதாகத் தெரியாது. பல வருடங்கள் கழித்து மாவோவின் தலைமையில் கம்யூனிஸ்டுகள் சீனாவில் அதிகாரத்தைக் கைப்பற்றியபோது ‘ சீன வானில்  சிவப்பு நட்சத்திரத்தின் ‘ பிரதிகள்  பிரமிக்கத்தக்க அளவில் பெரும் எண்ணிக்கையில் உலகெங்கும் விற்பனையானது. சீனாவின் புதிய கம்யூனிஸ்ட் ஆட்சியாளர்கள் பற்றி ஒரு உள்நோக்கைப் பெறுவதற்கு அந்த்நூல் பேராவலூடன் வாசிக்கப்பட்டது.
-
-...
-
-[Data](articles/583f59c1.json)
-
-[Extended Data](ext_articles/583f59c1.ext.json)
-
----
-
-### Notification of University Grants Commission!
-
-*2024-10-01 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195263) · `ta`
-
-University Grants Commission announces application window for university admission based on re-exam and suspended results. Apply online from Oct 1-8 at www.ugc.ac.lk for 2023/2024 academic year. Exams for completed skills/practicals excluded.
-
-🟩
-
-Applications have been requested from applicants who have been eligible to apply for university admission based on re -examination results and suspended results, the University Grants Commission said.
-
-Applications can be applied through the website from October 01 to October 08, the University Grants Commission said.
-
-The University Grants Commission's official website www.ugc.ac.lk has said that applications for university admissions for the academic year 2023/2024 will be obtained through www.ugc.ac.lk.
-
-Further details on sending applications have been issued in a previously released statement.
-
-The University Grants Commission said that the opportunities for applying for the university admission for the academic year 2023/2024 are not applicable to the universities of the already completed skills / practical exams.
-
-◼️
-
-[Data](articles/d33ded80.json)
-
-[Extended Data](ext_articles/d33ded80.ext.json)
 
 ---

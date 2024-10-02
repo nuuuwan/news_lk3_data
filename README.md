@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 23:22:42**
+As of **2024-10-02 23:39:12**
 
 ## Newspaper Stats
 
-*Scraped **47,457** Articles*
+*Scraped **47,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,185
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
-tamilmirrorlk | 6,387
+tamilmirrorlk | 6,388
 virakesarilk | 7,587
 adaderanasinhalalk | 8,212
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,457 (100.0%) of 47,457 articles have been extended.
+47,458 (100.0%) of 47,458 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,28 @@ When the Women's Group was in six World Cups, Australia's 8 cricket tournaments 
 [Data](articles/e7160c68.json)
 
 [Extended Data](ext_articles/e7160c68.ext.json)
+
+---
+
+### All flights in Iran cancel
+
+*2024-10-02 22:03:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானில்-அனைத்து-விமான-சேவைகளும்-இரத்து/50-344839) · `ta`
+
+Iran cancels all flights due to Israel attack. Airspace closed until tomorrow. Avoid unnecessary outdoor activities due to unsafe environment.
+
+🟩
+
+Following the attack on Israel, Iran has announced that it has temporarily closed its airspace as a precautionary precaution.
+
+Accordingly, all flights in Iran have been canceled until tomorrow (03).
+
+Meanwhile, people are advised to avoid unnecessarily outdoors in considering the unsafe environment in Iran.. Remble
+
+◼️
+
+[Data](articles/23aeee65.json)
+
+[Extended Data](ext_articles/23aeee65.ext.json)
 
 ---
 
@@ -2429,27 +2451,5 @@ He also explores the nature of the tourism sector and develops important issues 
 [Data](articles/81dc1da6.json)
 
 [Extended Data](ext_articles/81dc1da6.ext.json)
-
----
-
-### Sri Lanka hotels, Ceylon Tea Trails win Rest of Asia awards by  Condé Nast Traveller
-
-*2024-10-02 10:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-hotels-ceylon-tea-trails-win-rest-of-asia-awards-by-conde-nast-traveller-181902/) · `en`
-
-ECONOMYNEXT – Several hotels in Sri Lanka have won top positions for Rest of Asia, while Ceylon Tea Trails has won the resort award, in awards conducted among UK readers of Condé Nast Traveller Magazine.
-
-In resort for Rest Of Asia, which included India and Vietnam, Ceylon Tea Trails won first place, and Heritance Ahungalla, No 10. Ceylon Tea Trails came ahead of some resorts in Vietnam, India, Malaysia, Myanmar and Six Senses Thimpu.
-
-In the resort category, Indonesia, Thailand and the Indian Ocean (including Maldives) had separate award categories. Heritance Aarah came in 20th place in Indian Ocean.
-
-In the hotels category for Rest of Asia, Galle Face Hotel was placed first, Aditya Galle second, Amangalle third, Heritance Tea Factory fourth, Fort Bazaar, fifth.
-
-In the hotel category, Singapore, South East Asia hotels were in a separate category.
-
-◼️
-
-[Data](articles/54cf72be.json)
-
-[Extended Data](ext_articles/54cf72be.ext.json)
 
 ---

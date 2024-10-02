@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 22:24:43**
+As of **2024-10-02 22:38:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,453 (100.0%) of 47,455 articles have been extended.
+47,455 (100.0%) of 47,455 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The meeting, held at the Presidential Secretariat, featured cordial discussions 
 ...
 
 [Data](articles/30189505.json)
+
+[Extended Data](ext_articles/30189505.ext.json)
 
 ---
 
@@ -113,6 +115,8 @@ As a result of the admission, Jayawickrama has accepted a sanction of a one-year
 ...
 
 [Data](articles/f568980c.json)
+
+[Extended Data](ext_articles/f568980c.ext.json)
 
 ---
 

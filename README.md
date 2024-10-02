@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 16:22:51**
+As of **2024-10-02 16:38:15**
 
 ## Newspaper Stats
 
-*Scraped **47,402** Articles*
+*Scraped **47,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,889
 dailyftlk | 3,185
 adalk | 4,387
 dailymirrorlk | 4,733
-adaderanalk | 5,578
+adaderanalk | 5,579
 tamilmirrorlk | 6,375
 virakesarilk | 7,575
 adaderanasinhalalk | 8,196
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,196
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,402 (100.0%) of 47,402 articles have been extended.
+47,403 (100.0%) of 47,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Jaishankar to visit Sri Lanka on Oct 4 - reports
+
+*2024-10-02 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102402/jaishankar-to-visit-sri-lanka-on-oct-4-reports) · `en`
+
+India’s external Affairs Minister S Jaishankar will be visiting Sri Lanka this week and call on newly elected President Anura Kumara Dissanayake, who assumed office on September 23, Indian media reported today.
+
+His visit to Colombo would be the first by any foreign minister after the presidential elections last month.
+
+Jaishankar’s visit to the neighbouring island nation, which is expected to begin on October 4, will be closely watched as it will include high-level engagement between India and Sri Lanka after Dissanayake came to power.
+
+India’s high commissioner to Sri Lanka, Santosh Jha, was the first foreign diplomat to call on Dissanayake after the outcome of the 2024 Sri Lanka was announced.
+
+The Sri Lanka visit of the Indian EAM will be a significant opportunity for India to reinforce its commitment to providing development support for its strategically situated Indian Ocean neighbor, amid worries about a shift in its foreign policy under the new president, the report said.
+
+...
+
+[Data](articles/3eb3edcb.json)
+
+[Extended Data](ext_articles/3eb3edcb.ext.json)
+
+---
 
 ### Indian Foreign Minister to Sri Lanka
 
@@ -2363,37 +2385,5 @@ Acting Controller General Balasuriya is a special Grade Officer of the Sri Lanka
 [Data](articles/bf03dd40.json)
 
 [Extended Data](ext_articles/bf03dd40.ext.json)
-
----
-
-### Why did the army called for civilian affairs?: 'The Presidential Things Show "
-
-*2024-10-02 02:03:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz0481dzrnko) · `si`
-
-Here's a 200-character summary:
-
-
-
-Army calls for civilian affairs due to presidential power under Public Security Act. New president issues gazette for police-like powers during riots. Critics argue against extending beyond 30 days without parliamentary approval. Military lacks training for civilian policing roles compared to police.
-
-🟩
-
-Why did the army called for civilian affairs?: 'The Presidential Things Show "
-
-The executive president has a special power of the Public Security Act (40th Authority) for the duties of the police for riots in the country.
-
-The new President Anura Kumara Dissanayake has been convened to duties in the district with all administrative districts and seasures in Sri Lanka.
-
-What is the need to issue such a gazette in a context of riots in the country?This is a search for BBC Sinhala.
-
-The Public Security Ordinance is one of the main law in Sri Lanka's national security. Executive President has been able to make the decisions that require the decisions they need in several clauses in the country.. The 5 presidents in the nearly a period of over decade have issued various gazette notifications in accordance with the powers vested under this Ordinance.
-
-Where is the power to publish an emergency situation?
-
-...
-
-[Data](articles/7aec9e2b.json)
-
-[Extended Data](ext_articles/7aec9e2b.ext.json)
 
 ---

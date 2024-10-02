@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 20:57:53**
+As of **2024-10-02 21:10:08**
 
 ## Newspaper Stats
 
-*Scraped **47,443** Articles*
+*Scraped **47,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,893
 dailyftlk | 3,185
-adalk | 4,390
+adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,582
 tamilmirrorlk | 6,386
 virakesarilk | 7,584
-adaderanasinhalalk | 8,206
+adaderanasinhalalk | 8,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,443 (100.0%) of 47,443 articles have been extended.
+47,446 (100.0%) of 47,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Praveen Jayawickinika banned one year
+
+*2024-10-02 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201779) · `si`
+
+Here's a 200-character summary:
+
+
+
+International Cricket Council bans Sri Lankan cricketer Praveen Jayawickrama for one year due to disciplinary action.
+
+🟩
+
+The International Cricket Council has decided to impose a percussion of Sri Lankan cricketer Prainika Jayawickrama for one year.
+
+◼️
+
+[Data](articles/56477abb.json)
+
+[Extended Data](ext_articles/56477abb.ext.json)
+
+---
+
+### New government should be given a chance - Dilith
+
+*2024-10-02 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201778) · `si`
+
+New government deserves chance: Dilith. UNP welcomes former ministers. Party pledges good opposition role.
+
+🟩
+
+The new government should be given the opportunity and his party is ready to be a good opposition, "he said.
+
+He was speaking at the motherland in the party headquarters in Colombo today (02).
+
+"We have the duty to give the new government at the time of good politics. We have to say ... We're coming to a good opposition. You work with your program. But whenever our policies do not match our policies, it is more positive to people. People can accept that. "
+
+Meanwhile, former ministers Roshan Ranasinghe, Professor Channa Jayasuman and former Parliamentarian Milan Jayatilleka joined the UNP today (02).
+
+Former Sports Minister Roshan Ranasinghe, who contested as an independent candidate for the last presidential election, joined the Motherland People's Party today after the motherland.
+
+Former State Minister Professor Dr. Channa Jayasumana, who was elected to Parliament representing the Sri Lanka Civil Front, joined the Motherland.
+
+...
+
+[Data](articles/5959f442.json)
+
+[Extended Data](ext_articles/5959f442.ext.json)
+
+---
 
 ### Joseph Stalin revealed about question papers
 
@@ -191,6 +241,30 @@ The High Commissioner also said that India willingly support Sri Lanka when the 
 [Data](articles/921e63d4.json)
 
 [Extended Data](ext_articles/921e63d4.ext.json)
+
+---
+
+### Full support of China to Restructuring Credit
+
+*2024-10-02 19:11:02* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමට-චීනයේ-පූර්ණ-සහාය/11-412277) · `si`
+
+China supports Sri Lanka's debt restructuring efforts through CDB and EXIM banks, emphasizing economic stability and growth.
+
+🟩
+
+President Anura Kumara Dissanayake and the ambassador of the People's Republic of Sri Lanka. A meeting between Mr. Sea Zhenhond was held at the Presidential Secretariat this morning.
+
+The Ambassador who congratulated his heartfelt greeting to President Anura Kumara Dissanayake regarding the presidential election, and China continues to support Sri Lanka's future.
+
+He also emphasized the English Development Bank (CDB) and EXIM to support Sri Lanka's development projects in Sri Lanka.
+
+The Ambassador also assured President Anura Kumara Dissanayake to support the process of restructuring of the debt as major commercial and bilateral loans to support Sri Lanka's economic stability and growth.
+
+◼️
+
+[Data](articles/bfa5320e.json)
+
+[Extended Data](ext_articles/bfa5320e.ext.json)
 
 ---
 
@@ -2393,69 +2467,5 @@ Sri Lanka Air Force Commodore Amal Perera, Chairman of Sri Lanka Air Force Basad
 [Data](articles/601a81d8.json)
 
 [Extended Data](ext_articles/601a81d8.ext.json)
-
----
-
-### Two arrested for possessing priceless antiquities
-
-*2024-10-02 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201751) · `si`
-
-Two arrested for antique theft: STF seizes gems, statues worth millions in Sri Lanka raid.
-
-🟩
-
-Two persons have been arrested by the STF with the possession of anti-corresponding gems and rare statues and rare statues and rare statues obtained from it.
-
-The brigade said that the raid was carried out in the Paramekada area, according to information received by the Passara camp.
-
-There were three types of rare burdens with an ancient value and had a golden weight and 11 gem statues, a golden Buddha statue, a golden Buddha statue.
-
-The STF said that two-year-old and 63-year-old residents of Hettimulla, Kegalle were arrested.
-
-◼️
-
-[Data](articles/06879a49.json)
-
-[Extended Data](ext_articles/06879a49.ext.json)
-
----
-
-### Former Tamil National Alliance MP meets Sri Lanka’s new president
-
-*2024-10-02 09:49:00* · [`economynextcom`](https://economynext.com/former-tamil-national-alliance-mp-meets-sri-lankas-new-president-181897/) · `en`
-
-ECONOMYNEXT — Former Tamil National Alliance MP S Shritharan has met President Anura Kumara Dissanayake, according to the president’s media division (PMD).
-
-According to the PMD, the former Jaffna district MP met President Dissanayake at the Presidential Secretariat in Colombo on Tuesday October 01.
-
-“During the meeting, former MP Shritharan congratulated President Dissanayake on his election as the ninth Executive President of Sri Lanka, reflecting the will of the people. The two also engaged in a warm and friendly conversation,” the PMD said in its statement.
-
-Shritharan in a Facebook posted on Tuesday said he had handed over a letter to the president discussing the expectations and stand of the Tamil people.
-
-...
-
-[Data](articles/b9d4c904.json)
-
-[Extended Data](ext_articles/b9d4c904.ext.json)
-
----
-
-### Freight container transport charges reduced
-
-*2024-10-02 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102392/freight-container-transport-charges-reduced) · `en`
-
-The All-Island United Container Transport Owners’ Association says container transportation charges have been decreased by 4 percent, with effect from midnight yesterday (01 Oct).
-
-The president of the Association, Sanath Manjula stated that the decision comes in response to the government’s recent reduction in Auto Diesel prices by Rs. 24, following an earlier reduction of Rs. 10.
-
-The association has decided to decrease the import and export freight container transport charges by 4 percent, in line with the fuel prices, he said.
-
-“Currently, the government is working to provide relief to the entire public. Accordingly, our executive committee decided to lower the container transport charges,” said the president of the association.
-
-◼️
-
-[Data](articles/dd7ceb7f.json)
-
-[Extended Data](ext_articles/dd7ceb7f.ext.json)
 
 ---

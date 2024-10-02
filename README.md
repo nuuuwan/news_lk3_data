@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 23:39:12**
+As of **2024-10-02 23:58:27**
 
 ## Newspaper Stats
 
-*Scraped **47,458** Articles*
+*Scraped **47,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 394
 bbccomsinhala | 468
 colombotelegraphcom | 473
 islandlk | 2,786
-economynextcom | 2,893
+economynextcom | 2,899
 dailyftlk | 3,185
 adalk | 4,391
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,458 (100.0%) of 47,458 articles have been extended.
+47,464 (100.0%) of 47,464 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -452,6 +452,24 @@ Midigama Police are conducting further investigations at the time of the raid.
 
 ---
 
+### Rights group urges Sri Lanka’s new leader cooperate with UN
+
+*2024-10-02 19:42:00* · [`economynextcom`](https://economynext.com/rights-group-urges-sri-lankas-new-leader-cooperate-with-un-182030/) · `en`
+
+ECONOMYNEXT – Human Rights Watch (HRW), an international a non-governmental organization that conducts research and advocacy on human rights has urged Sri Lanka’s new President Anura Kumara Dissanayake to cooperate with the United Nations Human Rights Council’s (UNHRC) investigations into the past human rights abuses and end the use of repressive laws in the island nation.
+
+Sri Lanka has been facing allegations of human rights violations in the final stage of a 26-year war between Tamil Tiger rebels and the state military and a raft of other abuses since the end of conflict in 2009.
+
+The UNHRC has passed resolutions to investigate the past rights abuses in Sri Lanka and collect evidence on such violations, though successive governments in the South Asian island nation have rejected cooperating with the global body, citing the move as infringing its sovereignty.
+
+...
+
+[Data](articles/64b5cc69.json)
+
+[Extended Data](ext_articles/64b5cc69.ext.json)
+
+---
+
 ### The Election Commission stopped the president's guarantee that subsidize farmers;District Organization of the Madhu District Agricultural Authority
 
 *2024-10-02 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195348) · `ta`
@@ -662,6 +680,28 @@ He highlighted the active engagement of the China Development Bank (CDB) and EXI
 
 ---
 
+### Sri Lanka heads for spy shakeup
+
+*2024-10-02 18:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-heads-for-spy-shakeup-182024/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s premier spy agency, the State Intelligence Service (SIS), is set for a shake-up under the new government of President Anura Kumara Dissanayake, according to a source involved in the process.
+
+The agency is to appoint a new head, a serving Deputy Inspector-General (DIG), to replace Suresh Sallay, a controversial retired major general. Sallay was appointed to the top post by Gotabaya Rajapaksa when he became president in November 2019.
+
+With the appointment of a DIG, the SIS returns to the orbit of the police after being under military influence for nearly four years.
+
+Gotabaya had blamed Sallay’s SIS for intelligence failures that led to his toppling in July 2022, following months of street protests against acute shortages of food, fuel, and medicines amid the country’s worst economic crisis.
+
+Rajapaksa’s successor, Ranil Wickremesinghe, not only retained Sallay but also granted him an extension after he retired from active service in the army.
+
+...
+
+[Data](articles/00f0d294.json)
+
+[Extended Data](ext_articles/00f0d294.ext.json)
+
+---
+
 ### Solve the problems faced by the Tamil people. The letter of the Merchant Corporation
 
 *2024-10-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/195340) · `ta`
@@ -740,6 +780,26 @@ He added that passengers who wish to come to Sri Lanka from Sri Lanka and passen
 
 ---
 
+### Sri Lanka treasury bill yields plunge
+
+*2024-10-02 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-plunge-182006/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction, a week after the presidential election, with all 142.5 billion of offered bills sold, data from the debt office showed.
+
+The 3-month yield was down 43 basis points to 10.06 percent, with 65 billion rupees of bills offered and 72 billion rupees of bills sold.
+
+The 6-month yield was down 35 basis points to 10.37 percent, with all 67.5 billion rupees of bills offered sold.
+
+The 12-month bill was down 1 basis point at 10.04 percent, with only 2.9 million sold of an offered 10 billion rupees. (Colombo/Oct2/2024)
+
+◼️
+
+[Data](articles/30595820.json)
+
+[Extended Data](ext_articles/30595820.ext.json)
+
+---
+
 ### Here is the leader who resigned after the defeat found in Sri Lanka
 
 *2024-10-02 17:20:32* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාව-හමුවේ-ලද-පරාජයෙන්-පසු-ඉල්ලා-අස්වූ-නායකයා-මෙන්න/9-412276) · `si`
@@ -757,6 +817,32 @@ Accordingly, during the upcoming Indian visit, Tom Leute has been given to Tom L
 [Data](articles/7654a28d.json)
 
 [Extended Data](ext_articles/7654a28d.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 296.40/80 to US dollar, bond yields down
+
+*2024-10-02 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-296-40-80-to-us-dollar-bond-yields-down-182008/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated to close at 296.40/80 to the US dollar Wednesday, from 294.75/295.00 a day earlier, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.35/55 percent, down from 10.70/85 percent.
+
+A bond maturing on 15.12.2027 closed at 11.15/30 percent, down from 11.45/60 percent.
+
+A bond maturing on 15.02.2028 closed at 11.35/45 percent, down from 11.75/85 percent.
+
+A bond maturing on 15.09.2029 closed at 11.70/85 percent, down from 11.90/12.00 percent.
+
+A bond maturing on 15.10.2030 closed at 11.95/12.10 percent, down from 12.10/30 percent.
+
+A bond maturing on 01.10.2032 closed at 12.10/40 percent, down from 12.20/45 percent. (Colombo/Oct1/2024)
+
+◼️
+
+[Data](articles/04eb7ca0.json)
+
+[Extended Data](ext_articles/04eb7ca0.ext.json)
 
 ---
 
@@ -891,6 +977,32 @@ Official voter cards will be distributed from the 12th of this month. The Electi
 [Data](articles/65a9a4a6.json)
 
 [Extended Data](ext_articles/65a9a4a6.ext.json)
+
+---
+
+### Sri Lanka stocks close down, as momentum slows
+
+*2024-10-02 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-as-momentum-slows-182001/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 0.49 percent, or 58.68 points, at 11,934; while the more liquid S&P SL20 Index closed down 0.31 percent, or 10.89 points, at 3,510.
+
+“We saw a correction in the market,” Softlogic Stockbrokers said. “There was some profit realization, and the momentum slowed down.”
+
+Interest in banking counters continued, they said, with local investors taking positions.
+
+Crossings took place on Commercial Bank (up at 104.75), Sampath Bank (up at 79.80), Hayleys (down at 99.80), and Nations Trust Bank (down at 128.75).
+
+Top turnover generators were Sampath Bank, Commercial Bank, Hatton National Bank (up at 214.75), NTB and Vallibel One (down at 52.60)
+
+“Foreigners have been on the selling side for a while now, and there was profit taking in banks and conglomerates. Now the quantities have increased.”
+
+◼️
+
+[Data](articles/1714bc82.json)
+
+[Extended Data](ext_articles/1714bc82.ext.json)
 
 ---
 
@@ -1281,6 +1393,28 @@ The leader appealed to the consumers to contribute to the purchase of goods made
 [Data](articles/97cd1750.json)
 
 [Extended Data](ext_articles/97cd1750.ext.json)
+
+---
+
+### Sri Lanka tourist arrivals up 9.1-pct in September
+
+*2024-10-02 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-up-9-1-pct-in-september-181975/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tourist arrivals grew 9.1 percent from a year ago to 122,140 in September 2024, led by India as the sector continued to recover.
+
+Indian arrivals were by far the highest at 27,884, overtaking China at 9,078, United Kingdom at 8,688, Germany at 8,260, and Australia at 7,200.
+
+Russia which was a big source market at the beginning of the year yielded only 4,199 visitors to the island.
+
+This was lesser than the 4,359 visitors from neighboring Indian ocean island nation Maldives which announced a forex shortage in September.
+
+Visitors from Bangladesh, another South Asian neighbor in crisis, were at 4,178. (Colombo/Oct2/2024)
+
+◼️
+
+[Data](articles/d53f5f77.json)
+
+[Extended Data](ext_articles/d53f5f77.ext.json)
 
 ---
 
@@ -2309,147 +2443,5 @@ This follows courtesy calls by other ambassadors including those from India, Chi
 [Data](articles/cf42a898.json)
 
 [Extended Data](ext_articles/cf42a898.ext.json)
-
----
-
-### Cuban ambassador meets Sri Lanka president
-
-*2024-10-02 11:19:00* · [`economynextcom`](https://economynext.com/cuban-ambassador-meets-sri-lanka-president-181900/) · `en`
-
-ECONOMYNEXT – Cuban Ambassador to Sri Lanka Andrés Marcelo González Garrido has met President Anura Dissanayake to reaffirm the Cuban government’s ongoing support.
-
-“Ambassador Gonzales extended warm greetings to the new government and expressed Cuba’s readiness to enhance cooperation with Sri Lanka,” the president’s media division said in a statement.
-
-“He reaffirmed the Cuban government’s ongoing support for our efforts to combat dengue, offering collaboration and expertise to strengthen public health initiatives aimed at eradicating the disease.”
-
-Discussions also focused on reinforcing the long-term diplomatic relations and the enduring friendship between the two nations, the statement read. (Colombo/Oct02/2024)
-
-◼️
-
-[Data](articles/e387fa4d.json)
-
-[Extended Data](ext_articles/e387fa4d.ext.json)
-
----
-
-### Roshan Ranasinghe appointed Chairman of MJP
-
-*2024-10-02 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102394/roshan-ranasinghe-appointed-chairman-of-mjp) · `en`
-
-Former Minister Roshan Ranasinghe has joined the Mawbima Janatha Party (MJP) led by entrepreneur Dilith Jayaweera.
-
-Meanwhile, former Minister Prof. Channa Jayasumana has been appointed Vice Chairman of MJP.
-
-Former MP Milan Jayatilleke has been appointed party’s Gampaha District Organiser.
-
-A former member of the Sri Lanka Podujana Peramuna (SLPP), Ranasinghe had previously served as Sports Minister and had also contested the recent presidential election.
-
-◼️
-
-[Data](articles/872aa611.json)
-
-[Extended Data](ext_articles/872aa611.ext.json)
-
----
-
-### Roshan Ranasinghe to be appointed chairman of the People's Party
-
-*2024-10-02 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201754) · `si`
-
-Roshan Ranasinghe named Chairman of People's Party. Former Sports Minister joins Motherland. Channa Jayasumanne becomes Vice President. Muan Jayatilake appointed organizer in Gampaha District.
-
-🟩
-
-Former Sports Minister Roshan Ranasinghe has joined the Motherland to lead the party.
-
-Former Minister Professor Channa Jayasumanne obtained his appointment as the Vice President of the Motherland.
-
-Meanwhile, the Sri Lanka Arose Front of the Gampaha General Mannar, Muan Jayatilake, has joined the Motherland People's Republic.
-
-He has been appointed as the organizer of the Mawbima in Gampaha District.
-
-◼️
-
-[Data](articles/da484890.json)
-
-[Extended Data](ext_articles/da484890.ext.json)
-
----
-
-### "Welcome to Sajith as the prime ministerial candidate"
-
-*2024-10-02 11:06:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-வேட்பாளராக-சஜித்தை-வரவேற்கிறோம்/175-344796) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Opposition parties consider Sajith Premadasa as PM candidate if he joins coalition. UNP wants elephant symbol, SJB prefers different. Decision on common symbol expected soon.
-
-🟩
-
-A former MP said yesterday that the United National Party and other opposition parties are ready to accept the United People's Power (SJB) leader Sajith Premadasa as the prime ministerial candidate if they agree with the opposition's general coalition before the general election.
-
-Former President Ranil Wickremesinghe's close associate, Saman Ratnapriya, told the media that Mr. Premadasa is welcome to be the prime ministerial candidate if Mr. Premadasa comprises the general coalition.
-
-“If Mr. Premadasa agrees to form a common opposition coalition in the general symbol, we are ready to welcome Mr. Premadasa as the prime ministerial candidate.. The problem, however, is that SJB wants the phone as a symbol of the general coalition.
-
-No coalition was formed in the symbol of the partner of the coalition. It should be a common symbol, ”Ratnabriya said.
-
-"However, we will make a final decision on the common symbol in two days and then announce the general symbol," he added.
-
-...
-
-[Data](articles/2239fca3.json)
-
-[Extended Data](ext_articles/2239fca3.ext.json)
-
----
-
-### Sri Lanka rupee trades stronger at 294.60/75 to US dollar, bond yields down
-
-*2024-10-02 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-294-60-75-to-us-dollar-bond-yields-down-181905/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 294.60/75 to the US dollar on Wednesday, from 294.75/295.00 a day earlier, while bond yields were further down dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.30/40 percent, down from 11.45/60 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.57/58 percent, down from 11.75/85 percent.
-
-A bond maturing on 15.06.2029 was quoted at 11.80/85 percent, from 11.90/12.10 percent.
-
-In equities, Colombo’s All Share Price Index opened 0.04 percent, or 5.23 points lower at 11,987, while the S&P SL20 of more liquid stocks opened down 0.08 percent or 2.89 points higher at 3,518.
-
-Meanwhile, 142,500 million rupees in Treasury bills are being issued through the central bank’s ongoing auction. (Colombo/Oct2/2024)
-
-◼️
-
-[Data](articles/9bfaf41d.json)
-
-[Extended Data](ext_articles/9bfaf41d.ext.json)
-
----
-
-### Governor of the Northern Province
-
-*2024-10-02 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195294) · `ta`
-
-Northern Province Governor promotes tourism development in Nedundevu, focusing on economic benefits and infrastructure improvements. Initiates quick project implementation and prepares for World Tourism Day celebrations.
-
-🟩
-
-Governor of the Northern Province. The Vedanan analyzed.
-
-The Secretary of the Ministry of Local Government, the Secretary of the Governor, the Assistant Secretary of the Governor, the Secretary of the Tourism Bureau, the Governor's Coordinator, the Director of the Tourism Bureau, the Officer of the Tourism Department, the Secretary of the Tourism, the Secretary of the Department of Tourism, the Secretary of the Department of Local Government, Jaffna.
-
-Knowing the current state of tourism on the Northern Province, the Governor asked for the development of the tourism industry in Nedundevu.. The people of the Northern Province also discussed the benefit of the people of the Northern Province to generate more income by improving the tourism sector in the Northern Province.
-
-He also explores the nature of the tourism sector and develops important issues to the areas where the expansion of the tourism sector expansion.
-
-...
-
-[Data](articles/81dc1da6.json)
-
-[Extended Data](ext_articles/81dc1da6.ext.json)
 
 ---

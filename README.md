@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 18:59:11**
+As of **2024-10-02 19:22:58**
 
 ## Newspaper Stats
 
-*Scraped **47,432** Articles*
+*Scraped **47,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,91 @@ dailyftlk | 3,185
 adalk | 4,389
 dailymirrorlk | 4,733
 adaderanalk | 5,581
-tamilmirrorlk | 6,384
+tamilmirrorlk | 6,385
 virakesarilk | 7,581
-adaderanasinhalalk | 8,202
+adaderanasinhalalk | 8,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,431 (100.0%) of 47,432 articles have been extended.
+47,434 (100.0%) of 47,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
 
-### ඊශ්‍රායලය සහ ලෙබනනයේ තත්ත්වය ගැන දැනුම්වත් කිරීමක්
+### Group supporting Ranil to the general election with the elephant mark?
+
+*2024-10-02 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201774) · `si`
+
+Ranil Wickremesinghe's group plans to contest the general election. They initially considered using a gas cylinder symbol but may opt for an elephant symbol instead if the gas cylinder isn't available. Former MPs gathered at Election Headquarters to finalize their decision and alliance.
+
+🟩
+
+Former President Ranil Wickremesinghe at the Presidential Election, the former MPs is planning to contest the next general election.
+
+It is reported that the final decision has been taken to obtain the mark of the gas cylinder.
+
+The former MPs had come to the Election Headquarters on the Colombo Flower Road today (02) to contest the sign and alliance.
+
+It is also reported that if the gas cylinder is unable to obtain, they will most likely compete under the elephant sign or other common mark.
+
+◼️
+
+[Data](articles/8666eff3.json)
+
+[Extended Data](ext_articles/8666eff3.ext.json)
+
+---
+
+### An informed of Israel and Lebanon status
 
 *2024-10-02 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201773) · `si`
 
-කුමන හෝ කටයුත්තක් සඳහා ඊශ්‍රායලයට යෑමට සූදානමින් සිටින පුද්ගයෙකු සිටී නම් තාවකාලිකව එම විදෙස්ගතවීම නවතා දමන ලෙස ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+Israel-Lebanon conflict update: SLBFE advises caution for Sri Lankans. Embassy monitoring situation. No reports of harm to Sri Lankans. Normalcy maintained but security measures advised.
 
-ඊශ්‍රායලයේ සහ ලෙබනනයේ වර්තමානයේ උද්ගත වී ඇති යුදමය තත්ත්වය සම්බන්ධයෙන් අද (02) මාධ්‍ය වෙත අදහස් දක්වමින් එම කාර්යාංශයේ ජාත්‍යන්තර කටයුතු පිළිබඳ අතිරේක සාමාන්‍යාධිකාරී ගාමිණී සෙනරත් යාපා මහතා මේ බව පැහැදිලි කළේය.
+🟩
 
-ඔහු පැවසුවේ යුදමය තත්ත්වය නිරීක්ෂණය කර අවශ්‍ය කටයුතු සිදුකිරීමට යොමු වන ලෙසය.
+The Sri Lanka Bureau of Foreign Employment states that if there is a person who is ready to go to Israel for any activity, the Sri Lanka Bureau of Foreign Employment (SLBFE) says.
 
-තවද ඊශ්‍රායලය, ලේබනනය සහ සිරියාව යන රටවල් වෙත යාමට අවශ්‍ය කෙනෙකු වේ නම් ඔවුන් පූර්ණ ලෙස විදේශ කටයුතු අමාත්‍යාංශය හා සම්බන්ධ විය යුතු බවද ඒ මහතා පැවසීය.
+Additional General Manager of the International Affairs Gamini Senarath Yapa made this statement regarding the current state situation in Israel and Lebanon today.
 
-මීට අමතරව ඊශ්‍රායලයේ සිටින ශ්‍රී ලාංකිකයෙකුට නැවතත් මෙරටට පැමිණීමට අවශ්‍ය නම් තානාපති කාර්යාලය වෙත එය දැනුම් දිය යුතුවේ.
+He said that the military situation is observed and to take action.
+
+He also said that if Israel is wanted to go to the lands and Syria, they should be fully involved in the Ministry of External Affairs.
+
+In addition, if a Sri Lankan in Israel wants to return to Sri Lanka, it should be informed to the embassy.
 
 ...
 
 [Data](articles/1052137f.json)
+
+[Extended Data](ext_articles/1052137f.ext.json)
+
+---
+
+### Japanese language to Sri Lankans
+
+*2024-10-02 18:25:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களுக்கு-ஜப்பானிய-மொழி/175-344823) · `ta`
+
+Japanese Ambassador Mizukoshi Hideaki supports Sri Lanka's President Anuragumara Dissanayake's anti-corruption efforts. He pledged cooperation on projects like airport expansion and digital TV. The ambassador offered Japanese language classes and job opportunities in Japan to deepen bilateral ties.
+
+🟩
+
+Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki (Mizukoshi Hideaki, said that the Japanese government will give full support to the program of President Anuragumara Dissanayake, who is the best rule of corrupt. President Anuragumara Dissanayake and Japanese Ambassador to Sri Lanka.
+
+The Japanese Ambassador expressed his sincere congratulations to Anuragumara Dissanayake, the new president of Sri Lanka, and said the Japanese government is committed to further enhance the long -term ties between Japan and Sri Lanka.
+
+The mutual interested departments between the two countries were exploring in detail and agreed to work closely with the two countries in the future.
+
+In his election manifesto, the Japanese Ambassador congratulated the President Anukumara Dissanayake to focus on the creation of corrupt and excellent regime and promised to provide full support for the program.
+
+...
+
+[Data](articles/208a6d00.json)
+
+[Extended Data](ext_articles/208a6d00.ext.json)
 
 ---
 
@@ -2407,55 +2461,5 @@ As the government has reduced the fuel prices, it has decided to reduce the impo
 [Data](articles/29687659.json)
 
 [Extended Data](ext_articles/29687659.ext.json)
-
----
-
-### 167 bills passed
-
-*2024-10-02 08:28:36* · [`adalk`](https://www.ada.lk/breaking_news/9-වැනි-පාර්ලිමේන්තු-කාලයේදී--පනත්-167ක්-සම්මතයි/11-412267) · `si`
-
-Here's a 200-character summary:
-
-
-
-167 bills passed between 2020-2024: 146 State Acts, 21 Private Members'. Key acts include Elections Regulatory Act (2023) and Empowerment of Sri Lanka Power and Energy Act (2024). Some bills approved by Translation Act.
-
-🟩
-
-The meetings began on August 20, 2020 and was passed over the ninth parliamentary period of 2024.
-
-The bills 146 State Acts and 21 Private Members' Bills have been passed.
-
-Elections Regulatory Act No 3, No. 3 of 2023, No. 6 of 2023Empowerment of Sri Lanka Power and Energy Act No. 36 of 2024, No. 37 of 2024, No. 37 of 2024, No. 44 of 2024, No. 44 of 2024, No. 44 of 2024, No. 44 of 2024There are some of the bills of the Acts that were approved by the Translation Act.
-
-In the 2020, there were 44 State Acts and 4, 36 government bills and 14 private seats in 2023, including Thirteen of 2021.
-
-◼️
-
-[Data](articles/20eb5395.json)
-
-[Extended Data](ext_articles/20eb5395.ext.json)
-
----
-
-### Sajith says it is ready to contribute to the building of the country
-
-*2024-10-02 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201749) · `si`
-
-Sajith Premadasa addresses party activists in Maharagama, emphasizing UPFA's role in national development and reconciliation. He calls for overcoming challenges through unity and increased investment in education.
-
-🟩
-
-The only options currently available is Sajith Premadasa that the UPFA is the Alliance and the reconciliation.
-
-He says that there is a car to overcome the challenges facing the country.
-
-He was speaking at a meeting with party activists in Maharagama.
-
-...
-
-[Data](articles/ae0263e1.json)
-
-[Extended Data](ext_articles/ae0263e1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 16:38:15**
+As of **2024-10-02 16:56:04**
 
 ## Newspaper Stats
 
-*Scraped **47,403** Articles*
+*Scraped **47,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 394
 bbccomsinhala | 468
 colombotelegraphcom | 473
 islandlk | 2,786
-economynextcom | 2,889
+economynextcom | 2,893
 dailyftlk | 3,185
 adalk | 4,387
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,196
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,403 (100.0%) of 47,403 articles have been extended.
+47,407 (100.0%) of 47,407 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,24 @@ According to Indian media reports, Anura Kumara Dissanayake is a diplomatic firs
 [Data](articles/d3329fda.json)
 
 [Extended Data](ext_articles/d3329fda.ext.json)
+
+---
+
+### Sri Lanka’s new leader urged to find Rajapaksa’s stashed money in Uganda
+
+*2024-10-02 16:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-leader-urged-to-find-rajapaksas-stashed-money-in-uganda-181973/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new President Anura Kumara Dissanayake and his party members should now investigate long alleged stolen money in Uganda by former leader Mahinda Rajapaksa’s family, Rajapaksa-led former ruling party members said.
+
+Dissanayake and his party have long accused the Rajapaksa family of taking wealth out of Sri Lanka they were supposed to have earned from commissions and other deals through illegal and inappropriate means when in public office.
+
+“President Anura Kumara Dissanayake (AKD) and his team have been alleging for years that we have stashed away billions of dollars in Uganda and various countries. It is now time for President AKD to prove his allegations,” Rajapaksa’s eldest son Namal Rajapaksa said on his personal X (twitter) platform.
+
+...
+
+[Data](articles/93a93405.json)
+
+[Extended Data](ext_articles/93a93405.ext.json)
 
 ---
 
@@ -556,6 +574,26 @@ Accordingly, representatives including Ambassadors, High Commissioners, High Com
 
 ---
 
+### SeaLead Shipping, Sri Lanka Ports Authority launch direct liner service
+
+*2024-10-02 12:29:00* · [`economynextcom`](https://economynext.com/sealead-shipping-sri-lanka-ports-authority-launch-direct-liner-service-181941/) · `en`
+
+ECONOMYNEXT – Global shipping line SeaLead Shipping has launched a weekly direct liner service with the Sri Lanka Ports Authority (SLPA), which increases maritime connectivity between the Far East, India, and East Africa through its Far East India Djibouti (FID) service.
+
+“By providing direct connections between China, India, and Djibouti, the service is set to reduce transit times and boost trade efficiency across major global trade routes, especially with the inclusion of Colombo as a key hub port,” SeaLead said in a statement outlining the advantages of the FID service.
+
+The FID service, which commenced operations on September 5, provides weekly liner services, connecting vital ports in China, India, and Djibouti, SLPA said in a statement.
+
+The westbound route starts in Shanghai and includes key stops at Ningbo, Nansha, Port Klang, Colombo, Nhava Sheva, and Mundra, culminating in Djibouti.
+
+...
+
+[Data](articles/e8985072.json)
+
+[Extended Data](ext_articles/e8985072.ext.json)
+
+---
+
 ### Dollar down fast
 
 *2024-10-02 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201758) · `si`
@@ -713,6 +751,30 @@ Other OPEC member countries, Saudi Arabia, UAE users use this marine path to tra
 [Data](articles/669c3751.json)
 
 [Extended Data](ext_articles/669c3751.ext.json)
+
+---
+
+### Former state minister urges gov to remain committed to IMF programme
+
+*2024-10-02 12:06:00* · [`economynextcom`](https://economynext.com/former-state-minister-urges-gov-to-remain-committed-to-imf-programme-181932/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former state Minister of Finance Shehan Semasinghe has urged the new government to stick with the International Monetary Fund programme amidst the steady appreciation of the rupee against the dollar.
+
+“I urge the new administration to remain committed to the IMF programme, which has been instrumental in stabilizing Sri Lanka’s economy,” Semasinghe said on social media platform X.
+
+“Any disruptive decisions could jeopardize the hard-earned progress that is vital for the betterment of our nation.”
+
+Sri Lanka’s rupee was trading stronger at 294.60/75 to the US dollar on Wednesday, after gaining steadily over the week.
+
+“It is great to see that the ambitious reform programme, carried out during the most difficult economic crises, is now bearing fruit,” the former state minister who played an active role in discussions with the global lender said.
+
+“As a result, the selling rate of the US dollar has dropped below Rs. 300 for the first time since June, 2023.”
+
+...
+
+[Data](articles/4176aa8e.json)
+
+[Extended Data](ext_articles/4176aa8e.ext.json)
 
 ---
 
@@ -1011,6 +1073,28 @@ This follows courtesy calls by other ambassadors including those from India, Chi
 [Data](articles/cf42a898.json)
 
 [Extended Data](ext_articles/cf42a898.ext.json)
+
+---
+
+### Cuban ambassador meets Sri Lanka president
+
+*2024-10-02 11:19:00* · [`economynextcom`](https://economynext.com/cuban-ambassador-meets-sri-lanka-president-181900/) · `en`
+
+ECONOMYNEXT – Cuban Ambassador to Sri Lanka Andrés Marcelo González Garrido has met President Anura Dissanayake to reaffirm the Cuban government’s ongoing support.
+
+“Ambassador Gonzales extended warm greetings to the new government and expressed Cuba’s readiness to enhance cooperation with Sri Lanka,” the president’s media division said in a statement.
+
+“He reaffirmed the Cuban government’s ongoing support for our efforts to combat dengue, offering collaboration and expertise to strengthen public health initiatives aimed at eradicating the disease.”
+
+Discussions also focused on reinforcing the long-term diplomatic relations and the enduring friendship between the two nations, the statement read.
+
+This follows courtesy calls by other ambassadors including those from India, China, US and Russia.(Colombo/Oct02/2024)
+
+◼️
+
+[Data](articles/e387fa4d.json)
+
+[Extended Data](ext_articles/e387fa4d.ext.json)
 
 ---
 
@@ -2311,79 +2395,5 @@ The three-member Cabinet led by President Anura Kumara Dissanayake in their inau
 [Data](articles/57c94ec7.json)
 
 [Extended Data](ext_articles/57c94ec7.ext.json)
-
----
-
-### Haritha TV protests ECSL’s suspension of fertiliser subsidy
-
-*2024-10-02 02:19:57* · [`dailyftlk`](https://www.ft.lk/news/Haritha-TV-protests-ECSL-s-suspension-of-fertiliser-subsidy/56-767433) · `en`
-
-Haritha TV, a national agriculture and environment-focused channel, is protesting the temporary suspension of the Government’s fertiliser subsidy program and the free distribution of Muriate of Potash (M.O.P) fertiliser. The Election Commission’s decision to halt these initiatives, citing the upcoming Parliamentary elections, has sparked complaints from farmers across Sri Lanka, the channel said.
-
-Lodging a complaint with the ECSL yesterday Haritha TV, operated by Haritha TV Company, highlighted that the suspension affects agricultural communities in various regions who have expressed grievances over the impact on their livelihoods. The channel, whose mission is to uplift agriculture, fisheries, and women empowerment in Sri Lanka, is protesting the suspension, calling it unjust and beyond the authority of the Election Commission.
-
-...
-
-[Data](articles/72dca926.json)
-
-[Extended Data](ext_articles/72dca926.ext.json)
-
----
-
-### Petition filed over alleged irregularities in AG Department state counsel recruitment
-
-*2024-10-02 02:19:10* · [`dailyftlk`](https://www.ft.lk/news/Petition-filed-over-alleged-irregularities-in-AG-Department-state-counsel-recruitment/56-767432) · `en`
-
-A writ petition has been filed before the Court of Appeal, alleging irregularities in the recent recruitment process for state counsel positions at the Attorney General’s Department. The petition claims that names of selected candidates from the interview process were removed and replaced by persons with connections, compromising the integrity of the recruitment.
-
-According to the petition, applications for the recruitment of 23 state counsels were invited between 29 December last year and 22 January this year, attracting 800 applicants. Out of these, 600 qualified candidates were shortlisted, while 200 applications were rejected.
-
-The petitioners said the qualified candidates were called for a series of interviews spanning 30 days. After the interviews, 46 candidates were initially selected. However, the number of vacancies was subsequently increased by 38, raising the total to 78.
-
-...
-
-[Data](articles/0502935b.json)
-
-[Extended Data](ext_articles/0502935b.ext.json)
-
----
-
-### Aviyana becomes main sponsor for Sri Lanka Trade Fair Dubai 2024
-
-*2024-10-02 02:17:43* · [`dailyftlk`](https://www.ft.lk/business/Aviyana-becomes-main-sponsor-for-Sri-Lanka-Trade-Fair-Dubai-2024/34-767431) · `en`
-
-Pixel Advertising Solution CEO Sanjaya Rathnayaka (right) with Aviyana Group Chairman Dr. Thisara Hewawasam
-
-Aviyana, in a move to promote business and tourism hand in hand, Sri Lanka’s first-ever 7-star hotel, has chosen to be the main sponsor for the highly anticipated Sri Lanka Trade Fair Dubai 2024, which is set to take place on 2  and 3 November 2024 at the Crown Plaza, Dubai, UAE.
-
-Sri Lanka Trade Fair Dubai 2024 is an event that seeks to bridge business connections between Sri Lankan exporters and Gulf buyers, providing a global platform for Sri Lankan businesses to showcase their finest products. The event will feature a range of industries including Gem and Jewelry, Spices, Coconut Products, Tea, Textiles, and more. Aviyana’s commitment to this event goes beyond sponsorship and symbolises the hotel’s belief.
-
-...
-
-[Data](articles/abf903c9.json)
-
-[Extended Data](ext_articles/abf903c9.ext.json)
-
----
-
-### Govt. appoints Acting Controller General for Department of Immigration and Emigration
-
-*2024-10-02 02:15:44* · [`dailyftlk`](https://www.ft.lk/business/Govt-appoints-Acting-Controller-General-for-Department-of-Immigration-and-Emigration/34-767430) · `en`
-
-The Cabinet of Ministers on Monday approved appointing the Public Security Ministry Additional Secretary B.M.D. Nilusha Balasuriya as the acting Controller General of the Department Immigration and Emigration (DIE) with immediate effect.
-
-Speaking at the weekly post-Cabinet meeting media briefing, Cabinet Spokesman and Minister Vijitha Herath said the decision follows the remand of the former DIE Controller General Harsha Ilukpitiya, who has been ordered remanded from 25 September by the Supreme Court over contempt charges.
-
-“Since former Controller General has been remanded till January, it was necessary to appoint a suitable officer to perform the critical duties in the post,” he explained.
-
-He said the signature of the Controller General was necessary in issuing passports and thus filling the vacated post was important.
-
-Acting Controller General Balasuriya is a special Grade Officer of the Sri Lanka Administrative Service.
-
-◼️
-
-[Data](articles/bf03dd40.json)
-
-[Extended Data](ext_articles/bf03dd40.ext.json)
 
 ---

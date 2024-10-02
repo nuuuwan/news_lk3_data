@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 19:22:58**
+As of **2024-10-02 19:56:56**
 
 ## Newspaper Stats
 
-*Scraped **47,434** Articles*
+*Scraped **47,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,893
 dailyftlk | 3,185
-adalk | 4,389
+adalk | 4,390
 dailymirrorlk | 4,733
-adaderanalk | 5,581
+adaderanalk | 5,582
 tamilmirrorlk | 6,385
-virakesarilk | 7,581
+virakesarilk | 7,582
 adaderanasinhalalk | 8,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,434 (100.0%) of 47,434 articles have been extended.
+47,437 (100.0%) of 47,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### MPs who supported former President to contest under ‘elephant’ symbol?
+
+*2024-10-02 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102407/mps-who-supported-former-president-to-contest-under-elephant-symbol) · `en`
+
+The former MPs who supported former President Ranil Wickremesinghe are preparing to contest the upcoming General Election under either the ‘elephant’ symbol or another common symbol, political sources told Ada Derana.
+
+It is reported that the opinion of the Election Commission has been sought to obtain the ‘Gas Cylinder’ symbol while a final decision is to be taken after the commission’s decision is conveyed.
+
+The group of former MPs had gathered at the Election Operations office of the former president at Flower Road in Colombo today (02), in order to reach the final decision regarding the symbol and the alliance they will contest under in the upcoming election.
+
+It is further reported that if the former MPs are unable to obtain the ‘Gas Cylinder’ symbol, they will most likely contest under the symbol of the ‘Elephant’ or another common symbol.
+
+◼️
+
+[Data](articles/6820a76f.json)
+
+[Extended Data](ext_articles/6820a76f.ext.json)
+
+---
 
 ### Group supporting Ranil to the general election with the elephant mark?
 
@@ -79,6 +99,28 @@ In addition, if a Sri Lankan in Israel wants to return to Sri Lanka, it should b
 [Data](articles/1052137f.json)
 
 [Extended Data](ext_articles/1052137f.ext.json)
+
+---
+
+### Julie Sung extends to a further year without refereting Sri Lanka at the UN Human Rights Council
+
+*2024-10-02 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195346) · `ta`
+
+US Ambassador Julie Sung extends UNHRC resolution on Sri Lanka without referendum. Discusses post-election politics with TNA leader MA Sumanthiran, focusing on new government policies and potential corruption issues. Questions majority in upcoming general election.
+
+🟩
+
+US Ambassador to Sri Lanka Julie Sung said that the United Nations Human Rights Council (UNHRC) has taken steps to extend the 51/1 resolution already passed on Sri Lanka for a further year without a referendum.
+
+A meeting between US Ambassador to Sri Lanka Julie Sangh and former MP MA Sumanthiran of the Sri Lanka Tamil National Alliance (TNA) MA Sumanthiran. The meeting, which was aimed at discussing the post -President election, lasted for about an hour.
+
+Ambassador Julie Sung asked Sumanthiran about the position of the Tamil National Political Parties, the Tamil general candidate and the presidential election results, including the Sri Lankan Tamil party, in the recent presidential election.
+
+...
+
+[Data](articles/5c2bc0bb.json)
+
+[Extended Data](ext_articles/5c2bc0bb.ext.json)
 
 ---
 
@@ -201,6 +243,26 @@ He added that passengers who wish to come to Sri Lanka from Sri Lanka and passen
 [Data](articles/a7890933.json)
 
 [Extended Data](ext_articles/a7890933.ext.json)
+
+---
+
+### Here is the leader who resigned after the defeat found in Sri Lanka
+
+*2024-10-02 17:20:32* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාව-හමුවේ-ලද-පරාජයෙන්-පසු-ඉල්ලා-අස්වූ-නායකයා-මෙන්න/9-412276) · `si`
+
+New Zealand cricket team leader resigns after losing series to Sri Lanka. Tim Southee steps down, Tom Latham takes over as captain for upcoming India tour.
+
+🟩
+
+Tim Sauhei has decided to quit the New Zealand Test leadership due to the defeat of the two Test cricket matches with Sri Lanka.
+
+Accordingly, during the upcoming Indian visit, Tom Leute has been given to Tom Leute.
+
+◼️
+
+[Data](articles/7654a28d.json)
+
+[Extended Data](ext_articles/7654a28d.ext.json)
 
 ---
 
@@ -1786,6 +1848,8 @@ Meanwhile, former Minister Prof. Channa Jayasumana has been appointed Vice Chair
 
 Former MP Milan Jayatilleke has been appointed party’s Gampaha District Organiser.
 
+A former member of the Sri Lanka Podujana Peramuna (SLPP), Ranasinghe had previously served as Sports Minister and had also contested the recent presidential election.
+
 ◼️
 
 [Data](articles/872aa611.json)
@@ -2399,67 +2463,5 @@ The Israeli military has stated that about 180 missiles were launched by Iran in
 [Data](articles/1543468b.json)
 
 [Extended Data](ext_articles/1543468b.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-10-02 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102389/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-Showers or thundershowers will occur over most parts of the Island during the afternoon or night, says the Meteorology Department.
-
-Fairly heavy showers above 50 mm can be expected at some places in Eastern, Central, and North-central provinces, it said.
-
-A few showers may occur in the coastal areas of Southern and Western provinces during the morning too.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/c71703ae.json)
-
-[Extended Data](ext_articles/c71703ae.ext.json)
-
----
-
-### IMF Group coming to meet the new president
-
-*2024-10-02 08:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-ஜனாதிபதியை-சந்திக்க-வரும்-IMF-குழு/175-344790) · `ta`
-
-IMF delegation led by Krishna Srinivasan meets Sri Lanka's new president Anura Kumara Dissanayake. Discusses economic development and reforms under Sri Lanka Economic Program supported by IMF.
-
-🟩
-
-A team headed by Krishna Srinivasan, Director of the Asia Pacific Department of the International Monetary Fund, will visit Sri Lanka today.
-
-They will meet President Anura Kumara Dissanayake and the new government's economists.
-
-During the visit, a spokesman for the IMF said that the economic development of Sri Lanka and the economic reforms under the Sri Lanka Economic Program with the support of the International Monetary Fund will be discussed, said a spokesman for the IMF.. Remble
-
-◼️
-
-[Data](articles/dbedb95e.json)
-
-[Extended Data](ext_articles/dbedb95e.ext.json)
-
----
-
-### A reduction in another fee
-
-*2024-10-02 08:34:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-கட்டணம்-குறைப்பு/175-344789) · `ta`
-
-Container transport fee reduced 4% due to lower fuel prices. Government decision impacts import/export tariffs.
-
-🟩
-
-Chairperson of the container vehicle owners association, Sanath Manjula, said that the container transport fee has been reduced by 4 percent from midnight yesterday (01).
-
-As the government has reduced the fuel prices, it has decided to reduce the import and export container transport tariffs 4% compared to those prices.
-
-◼️
-
-[Data](articles/29687659.json)
-
-[Extended Data](ext_articles/29687659.ext.json)
 
 ---

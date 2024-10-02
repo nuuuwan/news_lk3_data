@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 10:38:26**
+As of **2024-10-02 10:57:10**
 
 ## Newspaper Stats
 
-*Scraped **47,344** Articles*
+*Scraped **47,346** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 393
+dbsjeyarajcom | 394
 bbccomsinhala | 467
 colombotelegraphcom | 473
 islandlk | 2,786
@@ -18,7 +18,7 @@ dailyftlk | 3,185
 adalk | 4,381
 dailymirrorlk | 4,733
 adaderanalk | 5,569
-tamilmirrorlk | 6,358
+tamilmirrorlk | 6,359
 virakesarilk | 7,569
 adaderanasinhalalk | 8,185
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 8,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,342 (100.0%) of 47,344 articles have been extended.
+47,346 (100.0%) of 47,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Rare pink
+
+*2024-10-02 10:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியவகை-இளஞ்சிவப்பு-நிற-நாகபாம்பு-கண்டுபிடிப்பு/175-344794) · `ta`
+
+Rare pink nagabhu found in Ambalangoda, 18 feet long. Handed over to Dehiwala Zoo. Low population, born rarely. Must stay in forest to protect from predators.
+
+🟩
+
+A rare pink nagabhu has been discovered by residents from a house in Ambalangoda, Vatuketara and Adathola area.
+
+This pink is 18 feet long. The Nagabhu has been handed over to the authorities of the Dehiwala Zoo.
+
+This rare pink snake is very low in the country. Such rare snakes are born once in many years.
+
+Therefore, it is necessary to keep it in the forest safely without leaving the forest.
+
+This is because other animals in the forest are likely to hunt this rare nagabambam.
+
+◼️
+
+[Data](articles/e91b1561.json)
+
+[Extended Data](ext_articles/e91b1561.ext.json)
+
+---
 
 ### High-level IMF team to arrive in Sri Lanka today
 
@@ -49,6 +75,8 @@ A further discussion on its structural facts is scheduled to take place in New Y
 ◼️
 
 [Data](articles/69f58607.json)
+
+[Extended Data](ext_articles/69f58607.ext.json)
 
 ---
 
@@ -160,9 +188,11 @@ The STF said that two-year-old and 63-year-old residents of Hettimulla, Kegalle 
 
 The All-Island United Container Transport Owners’ Association says container transportation charges have been decreased by 4 percent, with effect from midnight yesterday (01 Oct).
 
-The president of the Association, Sanath Manjula stated that the decision comes in response to the government’s recent reduction in Auto Diesel prices by Rs. 24, following an earlier reduction of Rs. 10. The association has decided to decrease the import and export freight container transport charges by 4 percent, in line with the fuel prices, he said.
+The president of the Association, Sanath Manjula stated that the decision comes in response to the government’s recent reduction in Auto Diesel prices by Rs. 24, following an earlier reduction of Rs. 10.
 
-“Currently, the government is working to provide relief to the entire public. Accordingly, our executive committee decided to lower the container transport charges, “said the president of the association.
+The association has decided to decrease the import and export freight container transport charges by 4 percent, in line with the fuel prices, he said.
+
+“Currently, the government is working to provide relief to the entire public. Accordingly, our executive committee decided to lower the container transport charges,” said the president of the association.
 
 ◼️
 
@@ -306,19 +336,25 @@ A 45-year-old suspect was arrested with a sword and a munch.
 
 ---
 
-### රාත්‍රියේ ගිනි ඇවිලුණු ඊශ්‍රායලය - ඉරානය විශාල වැරැද්දක් කළා - වන්දි ගෙවන්න සූදානම් වෙන්න
+### Israel was a great mistake in the night - Iran made a big mistake - prepare for compensation
 
 *2024-10-02 08:49:58* · [`adalk`](https://www.ada.lk/breaking_news/රාත්‍රියේ-ගිනි-ඇවිලුණු-ඊශ්‍රායලය---ඉරානය-විශාල-වැරැද්දක්-කළා---වන්දි-ගෙවන්න-සූදානම්-වෙන්න/11-412268) · `si`
 
-ඉරානය විසින් ඊශ්‍රායලයට ඊයේ(01දා) රාත්‍රී කාලයේදී එල්ල කළ ප්‍රහාරය සම්න්ධයෙන් ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු ප්‍රකාශයක් කර තිබේ.
+Iran attacks Israel, 180 missiles fired. Netanyahu claims "big mistake." Compensation expected.
 
-ඒ අනුව ‘ඉරානය අද රාත්‍රියේ විශාල වැරැද්දක් කළා ,එයට වන්දි ගෙවන්න සූදානම් වෙන්න ’ යනුවෙන් එම ප්‍රකාශය සිදු කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+🟩
 
-මෙම ප්‍රහාරයේදී ඉරානය විසින් මිසයිල 180ක් පමණ එල්ල කළ බවත්, එයින් යම්කිසි ප්‍රමාණයක් ප්‍රති ප්‍රහාර එල්ල කරමින් විනාශ කළ බවත් ඊශ්‍රායල හමුදාව ප්‍රකාශ කර ඇත.
+Israeli Prime Minister Benjamin Netanyahu has made a statement from Iran's attack on Israel yesterday (01).
+
+According to foreign media reports, Iran made a huge mistake tonight and ready to compensate it.
+
+The Israeli military has stated that about 180 missiles were launched by Iran in this attack.
 
 ◼️
 
 [Data](articles/1543468b.json)
+
+[Extended Data](ext_articles/1543468b.ext.json)
 
 ---
 
@@ -1049,6 +1085,22 @@ During the event, the leadership team highlighted the WCIC’s enduring commitme
 [Data](articles/4da78a5b.json)
 
 [Extended Data](ext_articles/4da78a5b.ext.json)
+
+---
+
+### Anura  Kumra Dissanayake will ask the people who elected him as President to give his NPP a big victory at the Parliamentary Elections to stabilise the economy and fulfil  promises.
+
+*2024-10-02 01:01:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84845) · `en`
+
+When Parliament elected Ranil Wickremesinghe as President two years ago, it was said that he was the ultimate beneficiary of the unprecedented people’s uprising in Sri Lanka. However, last week’s Presidential Election showed the world the real beneficiary of that uprising.
+
+Just as the Sri Lanka Freedom Party (SLFP) Founding Leader, the late S.W.R.D. Bandaranaike won the General Elections and came to power three years after the famous 1953 August Hartal, National People’s Power (NPP) Leader Anura Kumara Dissanayake was elected as the ninth Executive President of Sri Lanka at the Presidential Election last week, more than two years after the 2022 ‘Aragalaya’ people’s uprising.
+
+...
+
+[Data](articles/d061128c.json)
+
+[Extended Data](ext_articles/d061128c.ext.json)
 
 ---
 
@@ -2197,63 +2249,5 @@ A high-level team of the IMF led by its Director of the Asia Pacific Department,
 [Data](articles/2916d1f7.json)
 
 [Extended Data](ext_articles/2916d1f7.ext.json)
-
----
-
-### Children's Day Event at Al-Hamra Maha Vidyalaya
-
-*2024-10-01 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195255) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Al-Hamra Maha Vidyalaya celebrated Children's Day on 01/02 under President UK Abdur Rahim's patronage. Programs included psalms and student performances. Deputy Principals MA Kamarunnisha and IA Juman attended along with teachers."
-
-🟩
-
-The Children's Day event of the Oluvil Al-Hamra Maha Vidyalaya was held on Tuesday (01) under the patronage of President UK Abdur Rahim.
-
-Deputy Chancellor J.. The event, which was under the guidance of Wahag Thein, was presented with various programs such as the psalm and the injection of the students.
-
-School Deputy Principals MA Kamarunnisha, IA. Juman and many teachers were also present.
-
-◼️
-
-[Data](articles/39268696.json)
-
-[Extended Data](ext_articles/39268696.ext.json)
-
----
-
-### Jammu & Kashmir Union Territory Third Phase General Election - Voting
-
-*2024-10-01 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195251) · `ta`
-
-Jammu & Kashmir Union Territory Third Phase General Election summary: Voting underway for 40 seats, 28% turnout reported so far. Election Commission set up 5,060 polling booths with comprehensive security measures. Major parties contesting include National Convention Party, Congress, BJP, and PDP. Voting concludes at 7 PM today.
-
-🟩
-
-The general election is being held in three phases for the Jammu & Kashmir Union, the northern border of India.
-
-The third and final phase of the election is being held today. Voters are enthusiastic about their votes.
-
-The Election Commission of India is conducting a general election in three phases for the Jammu & Kashmir Union, which has a total of 90 seats.
-
-The first phase of the election was held on the 18th of September. The Election Commission officially declared 61.13 per cent voting.
-
-This was followed by the second phase of the election on October 25. The Election Commission has announced that 56.79 per cent of the votes were cast in this election.
-
-Elections were held for 24 seats in the first phase and 26 seats in the second phase.
-
-The remaining 40 seats are being held in the third and final phase of the ongoing third and final elections.
-
-According to reports, 28.12 per cent of the votes were cast as of 11 am.
-
-...
-
-[Data](articles/612729f2.json)
-
-[Extended Data](ext_articles/612729f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 18:34:10**
+As of **2024-10-02 18:46:59**
 
 ## Newspaper Stats
 
-*Scraped **47,423** Articles*
+*Scraped **47,431** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,893
 dailyftlk | 3,185
-adalk | 4,388
+adalk | 4,389
 dailymirrorlk | 4,733
-adaderanalk | 5,580
+adaderanalk | 5,581
 tamilmirrorlk | 6,384
-virakesarilk | 7,575
+virakesarilk | 7,581
 adaderanasinhalalk | 8,201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,423 (100.0%) of 47,423 articles have been extended.
+47,423 (100.0%) of 47,431 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### China pledges full support for Sri Lanka’s debt restructuring and economic stability
+
+*2024-10-02 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102406/china-pledges-full-support-for-sri-lankas-debt-restructuring-and-economic-stability) · `en`
+
+The Ambassador of the People’s Republic of China to Sri Lanka, Qi Zhenhong met with President Anura Kumara Dissanayake today (02) at the Presidential Secretariat in Colombo.
+
+The Ambassador extended his heartfelt congratulations to the President on his recent election victory and expressed China’s continued commitment to supporting Sri Lanka in its future endeavours, the President’s Media Division (PMD) said.
+
+Ambassador Qi reaffirmed the Chinese government’s continued commitment to enhancing bilateral relations with Sri Lanka, emphasizing the significance of on-going collaborative projects.
+
+He highlighted the active engagement of the China Development Bank (CDB) and EXIM Bank in supporting Sri Lanka’s development initiatives, the statement said.
+
+...
+
+[Data](articles/98c28205.json)
+
+---
+
+### தமிழ் மக்கள் எதிர்நோக்கும் பிரச்சினைகளை முன்னுரிமை அடிப்படையில்  தீர்த்து வையுங்கள் - ஜனாதிபதிக்கு யாழ். வணிகர் கழகம் கடிதம்
+
+*2024-10-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/195340) · `ta`
+
+ஜனாதிபதி தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிட்டதை கருத்தில் எடுத்து தமிழ் மக்களுக்குரிய நிரந்தர தீர்வுகளை விரைவாக வழங்கவேண்டும் என யாழ்ப்பாணம் வணிகர் கழகம் வேண்டுகோள் விடுத்து கடிதம் ஒன்றை ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கு அனுப்பிவைத்துள்ளது.
+
+தாங்கள் இந்த நாட்டின் ஜனாதிபதியாக தெரிவு செய்யப்பட்டமையிட்டு நாங்கள் எங்கள் பாராட்டுக்களை தெரிவித்துக்கொள்கின்றோம். நீண்ட காலமாக ஆட்சி முறைமை மாற்றத்துக்காகப் போராடிய தங்களுக்கு கிடைத்த இந்த வெற்றியானது நாட்டில் பாரிய மாற்றங்களை ஏற்படுத்தும் என நாம் எண்ணுகின்றோம்.
+
+இரண்டு முறை ஆயுத வழியில் ஆட்சி மாற்றத்தை ஏற்படுத்த முயன்றும் தங்களின் அமைப்பு தோல்வி கண்டது. அதன் பின்பு தாங்கள் விரும்பிய ஆட்சி மாற்றத்தை ஏற்படுத்த ஜனநாயக முறையில் நீங்கள் எடுத்த நீண்ட கால முயற்சியின் பின் இன்று இந்த நாட்டு ஜனாதிபதி தேர்தல் மூலம் உங்கள் கனவை சாத்தியமாக்கியுள்ளீர்கள்.
+
+...
+
+[Data](articles/64ab79e9.json)
+
+---
 
 ### Suspect arrested for abusing six children including a girl
 
@@ -172,6 +206,62 @@ The Ambassador to the President has assured the President to study Japanese to s
 
 ---
 
+### එස්.ජයශංකර් ලබන 04 වැනිදා ශ්‍රී ලංකාවට
+
+*2024-10-02 17:13:38* · [`adalk`](https://www.ada.lk/breaking_news/එස්-ජයශංකර්-ලබන-04-වැනිදා-ශ්‍රී-ලංකාවට/11-412275) · `si`
+
+ඉන්දියී විදේශ කටයුතු අමාත්‍ය එස්.ජයශංකර් ශ්‍රී ලංකාවේ සංචාරයක නිරත වීමට තීරණය කර තිබේ.
+
+ඒ අනුව ඔහුලේ ශ්‍රී ලංකා සංචාරය ලබන 04වැනිදා ආරම්භ කිරීම නියමිතව ඇත.
+
+මෙම සංචාරයේදී මෙරට නව ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවීම ප්‍රධාන අරමුණ වී තිබේ.
+
+◼️
+
+[Data](articles/b1300cef.json)
+
+---
+
+### காலி மாவட்டம் எல்பிட்டிய பிரதேச சபைத் தேர்தல் ; தபால் மூல வாக்களிப்புக்கான திகதிகள் அறிவிப்பு
+
+*2024-10-02 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195335) · `ta`
+
+காலி மாவட்டம் எல்பிட்டிய பிரதேச சபைத்தேர்தலுக்கான தபால்மூல வாக்களிப்பு 2024.10.14 மற்றும் 18 ஆம் திகதிகளில் நடைபெறும். உத்தியோகபூர்வ வாக்காளர் அட்டைகள் எதிர்வரும் 12 ஆம் திகதி முதல் விநியோகிக்கப்படும் என தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+காலி மாவட்டம் எல்பிட்டிய பிரதேச சபைத் தேர்தல் எதிர்வரும் 26 ஆம் திகதி (சனிக்கிழமை) நடைபெறவுள்ள நிலையில் அனைத்து பணிகளையும் ஆணைக்குழு நிறைவு செய்துள்ளது. இதற்கமைய தபால்மூல வாக்களிப்புக்கு விண்ணப்பித்து வாக்களிக்க தகுதி பெற்றுள்ளவர்களுக்கான வாக்காளர் அட்டை எதிர்வரும் 7 ஆம் திகதி திங்கட்கிழமை விநியோகிக்கப்படும்.
+
+தகுதிபெற்ற தபால்மூல வாக்காளர்கள் 2024.10.14 வாக்களிக்க முடியும். இத்தினத்தில் வாக்களிக்காதவர்கள் தாம் சேவையாற்றும் மாவட்டத்தின் மாவட்டத் தேர்தல்கள் அலுவலகத்தில் 2024.10.18 ஆம் திகதி வாக்களிக்க முடியும்.
+
+உத்தியோகபூர்வ வாக்காளர் அட்டைகள் எதிர்வரும் 12 ஆம் திகதி முதல் விநியோகிக்கப்படும். தற்காலிக அடையாள அட்டையை வழங்குவது 2024.10.22 ஆம் திகதி வரை இடம்பெறும் என தேர்தல்கள் ஆணைக்குழு குறிப்பிட்டுள்ளது.
+
+...
+
+[Data](articles/65a9a4a6.json)
+
+---
+
+### லிந்துலையில் வீடொன்றை உடைத்து நகைகள் திருட்டு : சந்தேகநபர் கைது
+
+*2024-10-02 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195334) · `ta`
+
+லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட பெரிய ராணிவத்த தோட்டத்தில் செவ்வாய்க்கிழமை (01) வீடு ஒன்றை உடைத்து மூன்று அரை பவுண் தங்கப் நகைகளைத் திருடிய சம்பவத்துடன் தொடர்புடைய சந்தேக நபரொருவரை  பொலிஸார் கைது செய்துள்ளனர்.
+
+வீட்டில் யாரும் இல்லாத நேரத்திலேயே, இக்கொள்ளைச் சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+வீட்டு உரிமையாளர் லிந்துலை பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டின் அடிப்படையில் நுவரெலியா தடயவியல் பொலிஸாரின் உதவியுடன் கைரேகை நிபுணர்கள், மோப்ப நாயுடன் பரிசோதனைகளை மேற்கொண்டனர்.
+
+பின்னர் அதே பகுதியில் உள்ள ஒரு வீட்டுக்குள் பிரவேசித்த பொலிஸ் குழுவினர்  30 வயதுடைய சந்தேக நபர் ஒருவரை  கைதுசெய்ததுடன், அவரிடம் நடத்திய விசாரணையில், அவரிடம் இருந்து திருடப்பட்ட தங்க நகைகளையும் கைபற்றியுள்ளனர்.
+
+சந்தேக நபரிடமிருந்து மீட்கப்பட்ட தங்க நகைகளின் பெறுமதி ஆறு இலட்சத்திற்கும் அதிகம் என பொலிஸார்  தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபரை நுவரெலியா மாவட்ட நீதிவான் நீதிமன்றில் வியாழக்கிழமை (03) முன்னிலைப்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/428ebb93.json)
+
+---
+
 ### China promises to president
 
 *2024-10-02 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201770) · `si`
@@ -197,6 +287,22 @@ The Ambassador has also assured President Anura Kumara Dissanayake that he will 
 [Data](articles/0a5dc724.json)
 
 [Extended Data](ext_articles/0a5dc724.ext.json)
+
+---
+
+### அமெரிக்க தூதரகத்தின் பாதுகாப்பு ஆலோசகர் பாதுகாப்பு செயலாளரை சந்தித்தார்
+
+*2024-10-02 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195332) · `ta`
+
+இலங்கைக்கான அமெரிக்க தூதரகத்தின் பாதுகாப்பு ஆலோசகர் லெப்டினன்ட் கேர்ணல் அந்தனி நெல்சன் பாதுகாப்பு செயலாளர் எயார் வைஸ் மார்ஷல் சம்பத் தூயகொந்தாவை (ஓய்வு) கோட்டை ஸ்ரீ ஜெயவர்தனபுரவில் உள்ள பாதுகாப்பு தலைமையக வளாகத்தில் இன்று (02) சந்தித்தார்.
+
+இச்சந்திப்பின் போது பாதுகாப்பு செயலாளர் தூயகொந்தா, அமெரிக்க பாதுகாப்பு ஆலோசகருடன் சுமூகமான கலந்துரையாடலில் ஈடுபட்டதுடன், இந்ந சந்திப்பை குறிக்கும் வகையில் அவருடன் நினைவுச் சின்னங்களையும் பரிமாறிக் கொண்டார்.
+
+அமெரிக்க தூதரகத்தின் கடற்படை ஆலோசகர் லெப்டினன்ட் கொமாண்டர் ஜெசிகா டி மொன்ட், உதவி பாதுகாப்பு ஆலோசகர் செத் நெவின்ஸ், பாதுகாப்பு ஒத்துழைப்பு அலுவலகத்தின் பிரதானி லெப்டினன்ட் கொமாண்டர் ஷான் ஜின் ஆகியோரும் இந்த சந்திப்பில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/19e40d81.json)
 
 ---
 
@@ -298,6 +404,24 @@ The Department of Meteorology also requests the public to take action to reduce 
 
 ---
 
+### பாடசாலை மாணவர்களுக்கான காலணிகளின் விலைகள் விரைவில் குறைக்கப்படும் - புத்திக விமலசிறி
+
+*2024-10-02 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/195324) · `ta`
+
+பாடசாலை மாணவர்களுக்கான  காலணிகளின்  விலைகளை விரைவில் குறைக்க தீர்மானித்துள்ளதாக இன்று புதன்கிழமை (02) காலணி மற்றும் தோல் பொருட்கள் தொழில்துறையினர் சங்கம் (FLGIG) தெரிவித்துள்ளது.
+
+காலணி மற்றும் தோல் பொருட்கள் தொழில்துறையினர் சங்கத்தின் தலைவர்  புத்திக விமலசிறி ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் இதனை தெரவித்துள்ளார்.
+
+அரசாங்கமொன்று பதவிக்கு வந்ததும் பல விடயங்களை எதிர்பார்க்கும் இந்த சமூகத்தில் நாட்டின் தொழில்துறையினரும் வடிவமைப்பாளர்களும் அரசாங்கத்திற்கு ஆதரவளிக்கவேண்டியது அவசியம் என அவர்  தெரிவித்துள்ளார்.
+
+இலங்கையில் உற்பத்தி செய்யப்பட்ட பொருட்களை கொள்வனவுசெய்வதன் மூலம் நாட்டின் வளர்ச்சிக்கு பங்களிப்பு செய்யவேண்டும் என அவர் வேண்டுகோள் விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/954ac10b.json)
+
+---
+
 ### British High Commissioner in Sri Lanka meets President
 
 *2024-10-02 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201768) · `si`
@@ -345,6 +469,28 @@ The Sri Lanka visit of the Indian EAM will be a significant opportunity for Indi
 [Data](articles/3eb3edcb.json)
 
 [Extended Data](ext_articles/3eb3edcb.ext.json)
+
+---
+
+### இலங்கை விஜயத்தின் போது மீனவர்கள் பிரச்சினைக்கு தீர்வு காணுங்கள் - தமிழக மீனவர்கள் ஜெய்சங்கருக்கு கடிதம்
+
+*2024-10-02 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195321) · `ta`
+
+அரசு முறை பயணமாக  வெள்ளிக்கிழமை (04)  இலங்கைக்கு விஜயம் செய்யவுள்ள இந்திய வெளியுறவுத்துறை அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கருக்கு தமிழக மீனவர்கள் சார்பாக 4 கோரிக்கைகளை முன்வைக்கப்பட்டுள்ளன.
+
+தேசிய பாரம்பரிய மீனவர்கள் கூட்டமைப்பினால் இந்த கோரிக்கைகள் அடங்கிய கடிதம் வெளியுறவுத்துறை அமைச்சர் எஸ்.ஜெங்ஷங்கருக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+1974ஆம் ஆண்டு கச்சத்தீவு ஒப்பந்தத்தின் ஆறாவது சரத்தில் உள்ள பாரம்பரிய மீன்பிடி கடலில் உள்ள மீன்பிடிக்கும் உரிமையை உறுதி செய்ய வேண்டும்.
+
+இலங்கை சிறையில் உள்ள 125க்கு மேற்பட்ட இந்திய மீனவர்களையும், 190க்கும் மேற்பட்ட விசைப்படகு மற்றும் நாட்டுபடகுகளை உடனடியாக மீட்க  நடவடிக்கை எடுக்க வேண்டும்.
+
+இந்திய நீதிமன்றங்களால் விடுதலை செய்யப்பட்டு தமிழக கடற்கரையில் நிறுத்தி வைக்கப்பட்டுள்ள இலங்கை மீனவர்களின் மீன்பிடி படகுகளை மீண்டும் அவர்களிடம் ஒப்படைக்க நடவடிக்கை எடுக்கவேண்டும்.
+
+இலங்கை நீதிமன்றத்தால் விடுதலை செய்யப்பட்ட 10க்கு மேற்ப்பட்ட இந்திய மீன்பிடி படகுகளை மீட்க உடனடியாக நடவடிக்கை எடுக்கவேண்டும் என்ற  4 கோரிக்கைகள் குறித்த கடிதத்தில் உள்ளடக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/4f599197.json)
 
 ---
 
@@ -777,6 +923,40 @@ With the commencement of the missile strikes, Tehran people descended and shoute
 [Data](articles/c0438e81.json)
 
 [Extended Data](ext_articles/c0438e81.ext.json)
+
+---
+
+### At first came the warning reports on Iran's attack - and then heard the noise of the missiles intercepting - the BBC about the situation in Israel
+
+*2024-10-02 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195305) · `ta`
+
+Israel under missile threat: Iran launches attack, Israelis seek shelter. Military intercepts missiles, causing loud noises. Public warned via SMS to stay in safe areas. Reports of explosions and smoke. Fears of escalation as Israeli forces enter Lebanon.
+
+🟩
+
+According to the Israeli time, the text message came to everyone's mobile phones.
+
+The SMS warned, "You should all go to the area that was declared a safe place and stay there until the announcement."
+
+The message was sent by the Central Command Faculty of the Israeli Army's Internal Security Force. It referred to the life -saving instructions.
+
+When the missiles were launched from Iran to Israel, people went to safe rooms.
+
+Once the hazard began to sound, we went to a safe place in the BBC's Jerusalem Bureau.
+
+We often heard the massive noise caused by the missiles and the sound of Israel's loss.
+
+Videos posted on social media have shown light caused by missiles.. Videos have also shown the smoke zones caused by the intercept or explosion.
+
+The Israeli military issued a report that they would interrupt the missiles at 8 pm and asked the public to remain in safe places.
+
+The Israeli military said, "The sounds you hear are caused by interrupted missiles."
+
+...
+
+[Data](articles/a9e1407e.json)
+
+[Extended Data](ext_articles/a9e1407e.ext.json)
 
 ---
 
@@ -1263,40 +1443,6 @@ The selling rate of the US Dollar has dropped below the Rs. 300 mark for the fir
 [Data](articles/266f7d20.json)
 
 [Extended Data](ext_articles/266f7d20.ext.json)
-
----
-
-### At first came the warning reports on Iran's attack - and then heard the noise of the missiles intercepting - the BBC about the situation in Israel
-
-*2024-10-02 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195305) · `ta`
-
-Israel under missile threat: Iran launches attack, Israelis seek shelter. Military intercepts missiles, causing loud noises. Public warned via SMS to stay in safe areas. Reports of explosions and smoke. Fears of escalation as Israeli forces enter Lebanon.
-
-🟩
-
-According to the Israeli time, the text message came to everyone's mobile phones.
-
-The SMS warned, "You should all go to the area that was declared a safe place and stay there until the announcement."
-
-The message was sent by the Central Command Faculty of the Israeli Army's Internal Security Force. It referred to the life -saving instructions.
-
-When the missiles were launched from Iran to Israel, people went to safe rooms.
-
-Once the hazard began to sound, we went to a safe place in the BBC's Jerusalem Bureau.
-
-We often heard the massive noise caused by the missiles and the sound of Israel's loss.
-
-Videos posted on social media have shown light caused by missiles.. Videos have also shown the smoke zones caused by the intercept or explosion.
-
-The Israeli military issued a report that they would interrupt the missiles at 8 pm and asked the public to remain in safe places.
-
-The Israeli military said, "The sounds you hear are caused by interrupted missiles."
-
-...
-
-[Data](articles/a9e1407e.json)
-
-[Extended Data](ext_articles/a9e1407e.ext.json)
 
 ---
 
@@ -2263,219 +2409,5 @@ The Container Owners Association says that the container transport fees have bee
 [Data](articles/0c9b9667.json)
 
 [Extended Data](ext_articles/0c9b9667.ext.json)
-
----
-
-### Action to provide water for the majority
-
-*2024-10-02 07:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்போகத்திற்கு-நீரை-விடுக்க-நடவடிக்கை/175-344788) · `ta`
-
-Ministry of Agriculture plans to release water starting 15th. Discussion held at Department of Agriculture involving Mahaweli Authority, Department of Agriculture, and Irrigation Department.
-
-🟩
-
-The Ministry of Agriculture has said that steps will be taken to release the water from the 15th of this month.
-
-A discussion was held at the Department of Agriculture at Kanni yesterday, its secretary MPM Wickremesinghe said.
-
-Many companies including the Mahaweli Authority, the Department of Agriculture and the Irrigation Department participated in the discussion.. (A)
-
-◼️
-
-[Data](articles/f27cf6d0.json)
-
-[Extended Data](ext_articles/f27cf6d0.ext.json)
-
----
-
-### ADB chairman greet the President
-
-*2024-10-02 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201747) · `si`
-
-ADB Chairman greets President Anura Kumara Dissanayake. Masakawa praises Sri Lanka's peaceful democracy and economic stability under Dissanayake's leadership. Japan's International Cooperation Agency delegation meets at Presidential Secretariat to discuss Bandaranaike International Airport project.
-
-🟩
-
-President of the Asian Development Bank, Chairman, Masakawa has joined President Anura Kumara Dissanayake.
-
-The Chairman of the ADB said that the Chairman of the ADB has said that President Anura Kumara Dissanayake accepted the program of President Anura Kumara Dissanayake.
-
-The greetings have been thankful that the people of Sri Lanka are thankful for a peaceful and democratic election in Sri Lanka.
-
-From 1966, Mr. Asakawa, which has been powered by the Asia Development Bank and Sri Lanka, the Asadawa, the Asia, Asian Development Bank and Sri Lanka has been a long-standing partner in Sri Lanka and as a permanent partner to meet the aspirations of the people.
-
-The greetings also further stated that the leadership of President Anura Kumara Dissanayake is also capable of stabilizing the economy of Sri Lanka and further strengthening it.
-
-...
-
-[Data](articles/ba7a8088.json)
-
-[Extended Data](ext_articles/ba7a8088.ext.json)
-
----
-
-### Sri Lanka’s IMF program review, what can happen next
-
-*2024-10-02 07:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-imf-program-review-what-can-happen-next-181847/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s International Monetary Fund program is reviewed every six months based on how the quantity targets (performance criteria) and reforms (structural benchmarks) are reached.
-
-In order to pass the review, a new staff level agreement has to be reached for the next phase, of about a year with hardened and finalized targets for the next six months and proposed and indicative targets for the next.
-
-Once passed by the board, it will contain the policy direction and reforms or structural bench markets set out in a Memorandum of Economic and Financial Policies with quantity performance criteria every six months and indicative targets quarterly.
-
-A technical memorandum of understanding will further supplement the quantity targets.
-
-Once the economic policies and quantity targets are approved by the IMF board, and the quantity targets and structural benchmarks up to the review period are met a disbursement of 254 (SDR) or around 330 million dollars is made.
-
-...
-
-[Data](articles/55480d08.json)
-
-[Extended Data](ext_articles/55480d08.ext.json)
-
----
-
-### IMF representatives to visit the island today
-
-*2024-10-02 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201746) · `si`
-
-IMF team arrives in Sri Lanka today. Director stays till Oct 4. Meets Pres & govt officials. Discusses economic policies & growth program. Structural issues discussed in NY later.
-
-🟩
-
-The International Monetary Fund (IMF) group is due to arrive in the island today.
-
-Accordingly, the Director of the Monetary Fund Asia Pacific, Director of Monetary Fund, is due to stay in Sri Lanka until October 4.
-
-They are due to meet President Anura Kumara Dissanayake and the new government experts.
-
-A spokesman for the International Monetary Fund (IMF) stated that they will also meet the economic repressions of the new economic growth and the Sri Lanka Economic Program in the Sri Lanka Economic Program.
-
-Cabinet spokesman Vijitha Herath expressed his views at the Cabinet Decisions yesterday (01).
-
-A discussion of its structural matters will be held in New York in late October.
-
-◼️
-
-[Data](articles/d954eb31.json)
-
-[Extended Data](ext_articles/d954eb31.ext.json)
-
----
-
-### Katunayake Airport Development soon
-
-*2024-10-02 06:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்க-விமான-நிலைய-அபிவிருத்தி-விரைவில்/175-344787) · `ta`
-
-Japanese aid agency officials meet Sri Lankan government to discuss airport development and TV broadcast digitization projects.
-
-🟩
-
-Senior representatives of the Japanese International Cooperation Agency, including Chief Minister Yamoda Techsuya, met with the President's Secretary, Dr. Nandika Sanath Kumanayake at the Presidential Office yesterday afternoon.
-
-It was discussed that the Bandaranaike International Airport Development Program is being launched in Sri Lanka by Jayaika and the second phase of the television broadcast and digitalization of television broadcasts.
-
-At a recent meeting between the Ambassador and the President of Japan, the Japanese Ambassador and the President discussed the completion of 11 programs in the country with the help of Jayaika and discussed the expedition of those activities.. (A)
-
-◼️
-
-[Data](articles/56408c15.json)
-
-[Extended Data](ext_articles/56408c15.ext.json)
-
----
-
-### Heavy showers in several areas today
-
-*2024-10-02 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201744) · `si`
-
-Heavy showers expected in eastern, central, and northern regions tonight. Thunderstorms possible in southern and western coastal areas. Public advised to be cautious due to strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the country, in the evening or night.
-
-Department of Meteorological Department to some places in the Eastern, Central and North Central Provinces. Heavy close is likely to grow more than 50.
-
-Showers may occur at the coastal areas in the southern and Western provinces.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/fd493996.json)
-
-[Extended Data](ext_articles/fd493996.ext.json)
-
----
-
-### T20 Women's World Cup: What are the challenges of the Sri Lankan team?
-
-*2024-10-02 05:24:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czxd00w6yy5o) · `si`
-
-Sri Lankan women's cricket team faces challenges in T20 World Cup:
-
-
-
-1. Ranked 7th globally
-
-2. Strongest opponent: Australia
-
-3. Key players: Chamari Atapattu (batsman), Hershita de Silva (all-rounder)
-
-4. Spin-friendly conditions may favor team
-
-5. Need to overcome individual player weaknesses
-
-🟩
-
-T20 Women's World Cup: What are the challenges of the Sri Lankan team?
-
-The ICC Women's Twenty20 World Cup will be started in the United Arab Emirates.
-
-The International Cricket Council decided to move the Women's World Cup in Bangladesh to another country with political instability.
-
-10 teams will compete in the Group A and B at the Women's 20 World Cup.
-
-Launched in 2009, the women's T20 World Cup had been held up to eight tournaments so far.
-
-In addition, England and the West Indies have won the women's T20 World Cup at one point.
-
-According to the ICC T20 ranings, the Sri Lanka Women's Cricket Team is the 07th. The Sri Lankan women's group is played under the World Cup.
-
-In addition to the Sri Lankan team, Australia, India, New Zealand and Pakistan are also represented.
-
-Veteran Cricket Commentary Roshan Abeyasinghe said that Australia was the most powerful rival team to meet the category in this year.
-
-...
-
-[Data](articles/85aa22c4.json)
-
-[Extended Data](ext_articles/85aa22c4.ext.json)
-
----
-
-### Vehicles received from various state institutions to the Presidential Secretariat
-
-*2024-10-02 04:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195278) · `ta`
-
-State institutions return vehicles to original owners. 19 vehicles redistributed; 15 handed over to company officials. Vehicles from Road Development Authority, Ministry of Finance, and other departments returned. Event attended by senior officials.
-
-🟩
-
-In the past, vehicles brought from various government institutions, including ministries and departments, to the President's Office, were re -elected to their respective companies on Tuesday afternoon at the premises where vehicles were parked near the Presidential Office.
-
-Arrangements have been made to re -handle 19 vehicles and 15 of them have been handed over to the officials of the companies that were present at the announcement.
-
-Accordingly, 8 vehicles of the Road Development Authority and three vehicles of the Ministry of Finance were recovered from the Southern Provincial Council, Transport and Civil Aviation Service and the Department of Wildlife.
-
-Senior Additional Secretary of the President's Office Roshan Kamage and Additional Secretary Mahesh Hewawitharana and many others participated in the event.
-
-◼️
-
-[Data](articles/ecf277a6.json)
-
-[Extended Data](ext_articles/ecf277a6.ext.json)
 
 ---

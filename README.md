@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 20:23:13**
+As of **2024-10-02 20:38:50**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 8,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,439 (100.0%) of 47,440 articles have been extended.
+47,440 (100.0%) of 47,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
 
-### திடீரென மூடப்படும் மதுபானசாலைகள்
+### Brews that suddenly closed
 
 *2024-10-02 19:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-மூடப்படும்-மதுபானசாலைகள்/175-344825) · `ta`
 
-உலக மது ஒழிப்பு தினத்தை முன்னிட்டு நாடளாவிய ரீதியில் உள்ள அனைத்து மதுபானசாலைகளையும் நாளையதினம் (03) மூடுமாறு மதுவரித் திணைக்கள ஆணையாளர் நாயகம் உத்தரவிட்டுள்ளார்.
+Liquor stores close nationwide due to alcoholism awareness. Public can report liquor/drug-related crimes via 1913 hotline.
 
-இதேவேளை மதுபானத்துடன் தொடர்புடைய குற்றங்கள் மற்றும் போதைப்பொருளுடன் தொடர்புடைய முறைப்பாடுகளை அறிவிப்பதற்கு மதுவரித் திணைக்களத்தின் செயற்பாட்டு அறையுடன் இணைக்கப்பட்டுள்ள 1913 என்ற தொலைபேசி இலக்கம் 24 மணிநேரமும் பொதுமக்களுக்காகத் செயற்பாட்டில் இருக்கும் என மதுவரித் திணைக்களம் தெரிவித்துள்ளது. R
+🟩
+
+The Liquor Department Commissioner General has ordered the closure of all liquor stores across the country on the eve of World Alcoholism Day.
+
+Meanwhile, the Department of Liquor has said that the telephone number 1913, which is attached to the Liquor Department's Operational Room, will be in operation for the public to announce the crimes associated with liquor and drugs.. Remble
 
 ◼️
 
 [Data](articles/05af9b9a.json)
+
+[Extended Data](ext_articles/05af9b9a.ext.json)
 
 ---
 

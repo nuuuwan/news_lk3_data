@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 01:38:52**
+As of **2024-10-03 01:57:53**
 
 ## Newspaper Stats
 
-*Scraped **47,471** Articles*
+*Scraped **47,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 468
 colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,899
-dailyftlk | 3,191
+dailyftlk | 3,195
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
@@ -26,11 +26,85 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,470 (100.0%) of 47,471 articles have been extended.
+47,475 (100.0%) of 47,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Sri Lankan trade delegation forges strong business links with Australia
+
+*2024-10-03 01:06:51* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-trade-delegation-forges-strong-business-links-with-Australia/34-767475) · `en`
+
+The Sri Lanka Export Development Board (EDB), in collaboration with the Sri Lanka Consulate General in Melbourne (SLCG) and the Sri Lanka-Australia Chamber of Commerce (SLACC), successfully organised a trade delegation to Melbourne, Australia, from 2 to 6 September.
+
+...
+
+[Data](articles/ac0fcf53.json)
+
+[Extended Data](ext_articles/ac0fcf53.ext.json)
+
+---
+
+### Employers’ Federation of Ceylon congratulates President AKD
+
+*2024-10-03 01:05:00* · [`dailyftlk`](https://www.ft.lk/business/Employers-Federation-of-Ceylon-congratulates-President-AKD/34-767474) · `en`
+
+The Employers’ Federation of Ceylon (EFC), has extended its best wishes to President Anura Kumara Dissanayaka on his election as the 9th executive President of Sri Lanka.
+
+“The EFC extends its best wishes to President Anura Kumara Dissanayaka and assures its commitment in promoting initiatives and policies to achieve social harmony through productive employment,” a statement from the private sector body said.
+
+EFC said considering the highly competitive environment businesses are required to operate in at present, it calls on the President to initiate labour law reforms which will result in the promotion of investment, creation of new and better job opportunities, strengthen social security and create an enabling environment for employees and employers to realise the full potential of the modern world of work.
+
+...
+
+[Data](articles/a73c5c54.json)
+
+[Extended Data](ext_articles/a73c5c54.ext.json)
+
+---
+
+### Exporters Association congratulates new President
+
+*2024-10-03 01:04:33* · [`dailyftlk`](https://www.ft.lk/business/Exporters-Association-congratulates-new-President/34-767473) · `en`
+
+The Exporters Association of Sri Lanka (EASL) yesterday extended its heartfelt congratulations to President Anura Kumara Dissanayake on his election as the ninth President of Sri Lanka.
+
+“This remarkable achievement is a testament to his dedication and leadership,” the EASL noted via a statement.
+
+As a vital part of the nation’s economic framework, the export sector stands ready to support and collaborate with the administration in promoting sustainable growth, enhancing international trade relations, and expanding opportunities for businesses of all sizes.
+
+“We are eager to work with his Government to overcome challenges and unlock the vast potential within Sri Lanka’s export industries,” the EASL stated.
+
+◼️
+
+[Data](articles/46fe80ca.json)
+
+[Extended Data](ext_articles/46fe80ca.ext.json)
+
+---
+
+### Excise Department urges companies to settle Rs. 1.8 b unpaid taxes by 30 November
+
+*2024-10-03 01:04:01* · [`dailyftlk`](https://www.ft.lk/business/Excise-Department-urges-companies-to-settle-Rs-1-8-b-unpaid-taxes-by-30-November/34-767472) · `en`
+
+Excise Department Commissioner General M.J. Gunasiri says only Rs. 162 b of Rs. 323 b target achieved so far
+
+Warns legal action will be taken against companies who fail to comply
+
+The Excise Department Commissioner General M.J. Gunasiri yesterday called on liquor manufactures to pay their overdue taxes before 30 November, warning that legal action will be taken against those who fail to comply.
+
+Speaking to the media after a meeting with distillery manufacturers, he insisted that despite the challenges faced by the companies, extended time had already been given for payment.
+
+“The total unpaid taxes for the financial year 2023/24 amount to around Rs. 1.8 billion. The department has a target of Rs. 323 billion for the year, but only Rs. 162 billion has been collected so far,” he said, adding that this year’s target is Rs. 53 billion higher than last year.
+
+...
+
+[Data](articles/5c1cdca2.json)
+
+[Extended Data](ext_articles/5c1cdca2.ext.json)
+
+---
 
 ### IMF - Government Discussion
 
@@ -235,6 +309,8 @@ Sri Lanka has recently witnessed significant political change following the conc
 ...
 
 [Data](articles/5d95e830.json)
+
+[Extended Data](ext_articles/5d95e830.ext.json)
 
 ---
 
@@ -2335,77 +2411,5 @@ The decision to not contest with mine and some other former MPs
 [Data](articles/b6a23223.json)
 
 [Extended Data](ext_articles/b6a23223.ext.json)
-
----
-
-### President Meeting with diplomats
-
-*2024-10-02 11:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜதந்திரிகளுடன்-ஜனாதிபதி-சந்திப்பு/175-344805) · `ta`
-
-President Anura Kumara Dissanayake meets ambassadors from Cuba, UK, Australia, China, Japan, Canada, and India to discuss strengthening bilateral relations.
-
-🟩
-
-President Anura Kumara Dissanayake will meet the Ambassadors, High Commissioners and other diplomatic representatives of the seven countries today, the Presidential Media Unit (PMD) said.
-
-Ambassadors, high -rankings and representatives of Cuba, the United Kingdom, Australia, China, Japan, Canada and India are expected to engage in discussion with the president.
-
-The PMD further stated that these discussions will focus on strengthening bilateral relations with all countries in accordance with the foreign policy of the government.
-
-◼️
-
-[Data](articles/fb5e6478.json)
-
-[Extended Data](ext_articles/fb5e6478.ext.json)
-
----
-
-### USD drops below Rs. 300 for first time in over 15 months
-
-*2024-10-02 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102395/usd-drops-below-rs-300-for-first-time-in-over-15-months-) · `en`
-
-The selling rate of the US Dollar has dropped below the Rs. 300 mark for the first time since June 8, 2023.
-
-◼️
-
-[Data](articles/0fd09ed3.json)
-
-[Extended Data](ext_articles/0fd09ed3.ext.json)
-
----
-
-### USD selling rate drops below Rs. 300 for first time in over 15 months
-
-*2024-10-02 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102395/usd-selling-rate-drops-below-rs-300-for-first-time-in-over-15-months) · `en`
-
-The selling rate of the US Dollar has dropped below the Rs. 300 mark for the first time since June 8, 2023.
-
-◼️
-
-[Data](articles/266f7d20.json)
-
-[Extended Data](ext_articles/266f7d20.ext.json)
-
----
-
-### Siege of Sri Lanka Embassy
-
-*2024-10-02 11:51:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-தூதரகம்-முன்-முற்றுகைப்-போராட்டம்/175-344804) · `ta`
-
-Sri Lanka Embassy siege planned Oct 8 over jailed Tamil Nadu fishermen. Protesters demand release of 162 fishermen and 192 seized boats. Tamil Nadu accuses Sri Lankan navy of violating rights and arresting fishermen near Indian border.
-
-🟩
-
-The 162 fishermen who are in Sri Lankan jails should be released with their boats;Party leader Anbumani Ramadas has announced that the Sri Lankan embassy siege will be held on Tuesday, October 8, urging the Sri Lankan government and the central and state governments to take action to release the 192 boats confiscated in Sri Lanka.
-
-In a statement issued today, he said, “The violation and repression of the Sinhalese navy on Tamil Nadu fishermen who are fishing in the Bay of Bengal are increasing day by day.. Although the entire Tamil Nadu urges the fishermen's right to fish in the traditional waters, it is strongly condemned by the Sinhalese government.
-
-The sea area between Rameswaram to Nagapattinam in Tamil Nadu is very short. So, whether Tamil Nadu fishermen or Sri Lankan fishermen cannot cross the border. At the same time, the fishermen organizations in Tamil Nadu are urging the fishermen in those areas that they have been fishing for a long time.
-
-...
-
-[Data](articles/6e791f89.json)
-
-[Extended Data](ext_articles/6e791f89.ext.json)
 
 ---

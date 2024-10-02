@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 02:10:46**
+As of **2024-10-03 02:38:45**
 
 ## Newspaper Stats
 
-*Scraped **47,475** Articles*
+*Scraped **47,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
 tamilmirrorlk | 6,389
-virakesarilk | 7,587
+virakesarilk | 7,590
 adaderanasinhalalk | 8,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,475 (100.0%) of 47,475 articles have been extended.
+47,478 (100.0%) of 47,478 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -246,6 +246,32 @@ We should end a long dark chapter in our contemporary history by electorally exo
 
 ---
 
+### Japanese government's full support for the president's program that creates a corrupt country
+
+*2024-10-02 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195356) · `ta`
+
+Japanese government supports corrupt regime in Sri Lanka. Ambassador promises aid for airport expansion and digital TV project. Offers Japanese language education and jobs in Japan to strengthen bilateral ties.
+
+🟩
+
+Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki, said the Japanese government would give full support to the President Anurakumara Dissanayake, who creates a corrupt regime.
+
+A meeting between President Anura Kumara Dissanayake and Japanese Ambassador to Sri Lanka Missukoshi Hideiagi took place on Wednesday (02) at the Presidential Office.
+
+The Japanese Ambassador expressed his sincere congratulations to Anuragumara Dissanayake, the new president of Sri Lanka, and said the Japanese government is committed to further enhance the long -term ties between Japan and Sri Lanka.
+
+The mutual interested departments between the two countries were exploring in detail and agreed to work closely with the two countries in the future.
+
+In his election manifesto, the Japanese Ambassador congratulated the President Anukumara Dissanayake to focus on the creation of corrupt and better regime and promised to provide full support for the program.
+
+...
+
+[Data](articles/014b3254.json)
+
+[Extended Data](ext_articles/014b3254.ext.json)
+
+---
+
 ### Challenges ahead for President Anura Kumara Dissanayake: Navigating Sri Lanka’s political labyrinth
 
 *2024-10-02 22:13:09* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-ahead-for-President-Anura-Kumara-Dissanayake-Navigating-Sri-Lanka-s-political-labyrinth/4-767459) · `en`
@@ -257,6 +283,30 @@ The challenges ahead for President Anura Kumara Dissanayake are vast, but not in
 [Data](articles/bfb5edfe.json)
 
 [Extended Data](ext_articles/bfb5edfe.ext.json)
+
+---
+
+### Meeting Chinese Ambassador President;To ensure that the debt is fully supported to establish the restoration and economic stability
+
+*2024-10-02 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195355) · `ta`
+
+Chinese Ambassador Qi Zhenhong met President Anura Kumara Dissanayake. He congratulated the president's election win and pledged full cooperation between China and Sri Lanka. The ambassador emphasized the importance of ongoing cooperation programs and the role of Chinese banks in supporting Sri Lanka's development. He assured full support for credit restructuring to ensure economic stability and sustainability.
+
+🟩
+
+The Ambassador of the People's Republic of China, Qi Zhenhong, met with President Anura Kumara Dissanayake on Wednesday (02) at the Presidential Office.
+
+At the meeting held at the Presidential Office, the Ambassador congratulated the President Anura Kumara Dissanayake's election victory and promised to fully cooperate with China to cooperate with the future activities of Sri Lanka and to further strengthen bilateral relations with the China government.
+
+He also pointed out the importance of the programs that are currently being carried out on the basis of cooperation in Sri Lanka and the effective interventions of the Chinese Development Bank (CDB) and EXIM Bank to cooperate with Sri Lanka's development activities.
+
+The Chinese Ambassador assured the president that it would provide full support for credit restructuring activities as the main business credit provider and bilateral credit provider in collaboration with Sri Lanka's economic sustainability and development.
+
+◼️
+
+[Data](articles/a9300cfc.json)
+
+[Extended Data](ext_articles/a9300cfc.ext.json)
 
 ---
 
@@ -279,6 +329,30 @@ Meanwhile, people are advised to avoid unnecessarily outdoors in considering the
 [Data](articles/23aeee65.json)
 
 [Extended Data](ext_articles/23aeee65.ext.json)
+
+---
+
+### Meeting between the President and the Indian High Commission;Praise the President's Anti -Corruption Program
+
+*2024-10-02 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195354) · `ta`
+
+President Anura Kumara Dissanayake met Indian High Commissioner Santosh Jha. India supports Sri Lanka's development. High Commissioner praised President's anti-corruption program, offering support for digitalization projects.
+
+🟩
+
+The meeting between President Anura Kumara Dissanayake and Indian High Commissioner to Sri Lanka Santosh Jha (Santosh JHA) took place on Wednesday (02).
+
+He said that the Indian High Commissioner, who congratulated Anura Kumara Dissanayake in the last presidential election, said that India is ready to support all the ways of Sri Lanka's development activities and that Sri Lanka is looking for a peaceful and stable country in the region.
+
+The Indian High Commissioner, who recalled the long -standing friendship and intimacy between India and Sri Lanka, emphasized the importance of continuing and sustainable maintenance between the two countries, as neighboring brothers and countries.
+
+Pointing to the importance of digitizing government structures to effectively fighting corruption, the Indian High Commissioner praised the anti -corruption program underlined in the declaration of the president's policy.
+
+...
+
+[Data](articles/4a6602d3.json)
+
+[Extended Data](ext_articles/4a6602d3.ext.json)
 
 ---
 
@@ -2327,89 +2401,5 @@ Other OPEC member countries, Saudi Arabia, UAE users use this marine path to tra
 [Data](articles/66681bd9.json)
 
 [Extended Data](ext_articles/66681bd9.ext.json)
-
----
-
-### Curry prices in the world market
-
-*2024-10-02 12:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201757) · `si`
-
-Here's a 200-character summary:
-
-
-
-Middle East conflicts drive oil price surge. Iran-Iraq tensions increase crude costs. Brent crude hits $74.40. Strait of Hormuz crucial for global fuel supply. OPEC members rely on this sea route for oil transport.
-
-🟩
-
-Middle East conflicts have developed the Middle East conflicts due to the missile attacks targeted by Iran.
-
-The international media reports that crude oil prices have increased in the world market.
-
-The price of a barrel of Brent crude oil was increased to $ 74.40.
-
-Iran is the 7th largest fuel manufacturer in the world. The third largest fuel manufacturer of OPEC is the third largest fuel manufacturer.
-
-Trade sources said that if conflicts further expand the conflicts, the traffic can be hindered through the Strait.
-
-The sea between Iran and Oman are a major contributor to the world fuel trade, which is about 20% of the world fuel supply.
-
-Other OPEC member countries, Saudi Arabia, UAE users use this marine path to transport its fuel.
-
-◼️
-
-[Data](articles/669c3751.json)
-
-[Extended Data](ext_articles/669c3751.ext.json)
-
----
-
-### Former state minister urges gov to remain committed to IMF programme
-
-*2024-10-02 12:06:00* · [`economynextcom`](https://economynext.com/former-state-minister-urges-gov-to-remain-committed-to-imf-programme-181932/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former state Minister of Finance Shehan Semasinghe has urged the new government to stick with the International Monetary Fund programme amidst the steady appreciation of the rupee against the dollar.
-
-“I urge the new administration to remain committed to the IMF programme, which has been instrumental in stabilizing Sri Lanka’s economy,” Semasinghe said on social media platform X.
-
-“Any disruptive decisions could jeopardize the hard-earned progress that is vital for the betterment of our nation.”
-
-Sri Lanka’s rupee was trading stronger at 294.60/75 to the US dollar on Wednesday, after gaining steadily over the week.
-
-“It is great to see that the ambitious reform programme, carried out during the most difficult economic crises, is now bearing fruit,” the former state minister who played an active role in discussions with the global lender said.
-
-“As a result, the selling rate of the US dollar has dropped below Rs. 300 for the first time since June, 2023.”
-
-...
-
-[Data](articles/4176aa8e.json)
-
-[Extended Data](ext_articles/4176aa8e.ext.json)
-
----
-
-### Former MP Vino Action Notification
-
-*2024-10-02 12:04:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பி-வினோ-அதிரடி-அறிவிப்பு/175-344806) · `ta`
-
-Former MP Vino Nogarathalingam decides not to contest upcoming parliamentary elections. Cites need for political change in South, particularly among Sinhalese majority. Emphasizes accepting public sentiment and giving opportunities to youth and newcomers. Decision made alongside other former MPs.
-
-🟩
-
-Former Wanni Parliamentarian Vino Nogarathalingam says he has decided to not contest the upcoming parliamentary elections.
-
-In the last presidential election, the need for a political change was felt among the people in the South, especially among the Sinhalese majority. The result is the president of the Anuragumara Dissanayake.
-
-We cannot prevent this change in the minds of the people.
-
-It is inevitable to give way. It is to understand and accept the feelings of the minds and give them a place for young people and newcomers
-
-The decision to not contest with mine and some other former MPs
-
-◼️
-
-[Data](articles/b6a23223.json)
-
-[Extended Data](ext_articles/b6a23223.ext.json)
 
 ---

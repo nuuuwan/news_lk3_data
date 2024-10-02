@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 11:10:31**
+As of **2024-10-02 11:22:40**
 
 ## Newspaper Stats
 
-*Scraped **47,348** Articles*
+*Scraped **47,353** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 394
-bbccomsinhala | 467
+bbccomsinhala | 468
 colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,882
@@ -18,7 +18,7 @@ dailyftlk | 3,185
 adalk | 4,382
 dailymirrorlk | 4,733
 adaderanalk | 5,569
-tamilmirrorlk | 6,359
+tamilmirrorlk | 6,363
 virakesarilk | 7,570
 adaderanasinhalalk | 8,185
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 8,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,348 (100.0%) of 47,348 articles have been extended.
+47,352 (100.0%) of 47,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### "Welcome to Sajith as the prime ministerial candidate"
+
+*2024-10-02 11:06:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-வேட்பாளராக-சஜித்தை-வரவேற்கிறோம்/175-344796) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Opposition parties consider Sajith Premadasa as PM candidate if he joins coalition. UNP wants elephant symbol, SJB prefers different. Decision on common symbol expected soon.
+
+🟩
+
+A former MP said yesterday that the United National Party and other opposition parties are ready to accept the United People's Power (SJB) leader Sajith Premadasa as the prime ministerial candidate if they agree with the opposition's general coalition before the general election.
+
+Former President Ranil Wickremesinghe's close associate, Saman Ratnapriya, told the media that Mr. Premadasa is welcome to be the prime ministerial candidate if Mr. Premadasa comprises the general coalition.
+
+“If Mr. Premadasa agrees to form a common opposition coalition in the general symbol, we are ready to welcome Mr. Premadasa as the prime ministerial candidate.. The problem, however, is that SJB wants the phone as a symbol of the general coalition.
+
+No coalition was formed in the symbol of the partner of the coalition. It should be a common symbol, ”Ratnabriya said.
+
+"However, we will make a final decision on the common symbol in two days and then announce the general symbol," he added.
+
+...
+
+[Data](articles/2239fca3.json)
+
+[Extended Data](ext_articles/2239fca3.ext.json)
+
+---
 
 ### Political parties must unite and determine new directions for future politics - Jaffna. Calling the Catholic Diocese of Priests
 
@@ -86,6 +116,30 @@ In the growing number of people, in many families, youth in many families are fa
 
 ---
 
+### Innovation
+
+*2024-10-02 10:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியவகை-நாகபாம்பு-கண்டுபிடிப்பு/175-344794) · `ta`
+
+Rare pink snake (18ft) handed to zoo. Low population, needs forest protection from predators.
+
+🟩
+
+This pink is 18 feet long. The Nagabhu has been handed over to the officials of the Dehiwala Zoo.
+
+This rare snake is very low in the country. Such rare snakes are born once in many years.
+
+Therefore, it is necessary to keep it in the forest safely without leaving the forest.
+
+This is because other animals in the forest are likely to hunt this rare nagabambam.
+
+◼️
+
+[Data](articles/76d43390.json)
+
+[Extended Data](ext_articles/76d43390.ext.json)
+
+---
+
 ### Rare pink
 
 *2024-10-02 10:27:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரியவகை-இளஞ்சிவப்பு-நிற-நாகபாம்பு-கண்டுபிடிப்பு/175-344794) · `ta`
@@ -109,6 +163,32 @@ This is because other animals in the forest are likely to hunt this rare nagabam
 [Data](articles/e91b1561.json)
 
 [Extended Data](ext_articles/e91b1561.ext.json)
+
+---
+
+### Pikuwaka at the age of 12
+
+*2024-10-02 10:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிறப்பு-கட்டுரைகள்/அனுரவை-12-வயதில்-பிக்குவாக்கக்-கூறினர்-தாய்-உருக்கம்/91-344793) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Seelavati refuses to let her 12-year-old son Anura Kumara Dissanayake become a Buddhist monk. She believes astrology predicted he'd be president. Anura grew up in poverty but pursued politics, becoming Sri Lanka's president in 2024.
+
+🟩
+
+"Why do I do not accept my son Anura Kumara Dissanayake to make a Buddhist monk to make a Buddhist monk at the age of 12," said Seelavati, the new president's mother, Seelavati.
+
+President Anura Kumara Dissanayake's mother, TM Kumara Dissanayake, is a small asbestos roofing home in Thambuthegama, a farmhouse, 25 km from Anuradhapura, the capital of the North Central Province of Sri Lanka.. Seelavati (86) lives with her daughter Sriyalatha (62).
+
+In an interview with Mother Seelavathi, President of Sri Lanka Anura Kumara Dissanayake said:. Go to the nearest swimming pool everyday and likes to swim. Anura always likes reading books.
+
+...
+
+[Data](articles/4e2a16d3.json)
+
+[Extended Data](ext_articles/4e2a16d3.ext.json)
 
 ---
 
@@ -635,6 +715,52 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/fd493996.json)
 
 [Extended Data](ext_articles/fd493996.ext.json)
+
+---
+
+### T20 Women's World Cup: What are the challenges of the Sri Lankan team?
+
+*2024-10-02 05:24:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czxd00w6yy5o) · `si`
+
+Sri Lankan women's cricket team faces challenges in T20 World Cup:
+
+
+
+1. Ranked 7th globally
+
+2. Strongest opponent: Australia
+
+3. Key players: Chamari Atapattu (batsman), Hershita de Silva (all-rounder)
+
+4. Spin-friendly conditions may favor team
+
+5. Need to overcome individual player weaknesses
+
+🟩
+
+T20 Women's World Cup: What are the challenges of the Sri Lankan team?
+
+The ICC Women's Twenty20 World Cup will be started in the United Arab Emirates.
+
+The International Cricket Council decided to move the Women's World Cup in Bangladesh to another country with political instability.
+
+10 teams will compete in the Group A and B at the Women's 20 World Cup.
+
+Launched in 2009, the women's T20 World Cup had been held up to eight tournaments so far.
+
+In addition, England and the West Indies have won the women's T20 World Cup at one point.
+
+According to the ICC T20 ranings, the Sri Lanka Women's Cricket Team is the 07th. The Sri Lankan women's group is played under the World Cup.
+
+In addition to the Sri Lankan team, Australia, India, New Zealand and Pakistan are also represented.
+
+Veteran Cricket Commentary Roshan Abeyasinghe said that Australia was the most powerful rival team to meet the category in this year.
+
+...
+
+[Data](articles/85aa22c4.json)
+
+[Extended Data](ext_articles/85aa22c4.ext.json)
 
 ---
 
@@ -2157,105 +2283,5 @@ Accordingly, the prices of Litro LP gas domestic gas cylinders will remain uncha
 [Data](articles/6b8f02e0.json)
 
 [Extended Data](ext_articles/6b8f02e0.ext.json)
-
----
-
-### Litro gas prices do not change
-
-*2024-10-01 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201734) · `si`
-
-Litro Gas Company announces unchanged prices for October 2024. Domestic gas prices remain stable, providing relief to consumers. Prices for 12.5kg, 5kg, and 2.3kg cylinders are Rs. 3,690, Rs. 1,482, and Rs. 694 respectively.
-
-🟩
-
-Litro Gas Company says that Litro domestic gas is not revised to this month.
-
-In an announcement, the company pointed out that LP gas prices in October to provide relief to the Litro gas consumer, the Litro Gas Consumer has decided not to increase the price of household gas.
-
-Litro Gas Lanka further stated that the consumer has been able to provide relief to the consumer as well as well-bulk management and operational management.
-
-Accordingly, the current prices of October 2024 will be valid.
-
-The following is the Litro Gas Indoor Gas prices (applicable to the Colombo district).
-
-The price of a 12.5kg gas cylinder is Rs. 3,690. The price of 5 kilos cylinder is Rs. 1,482. The price of a 2.3kg gas cylinder is Rs. 694.
-
-◼️
-
-[Data](articles/f323ec38.json)
-
-[Extended Data](ext_articles/f323ec38.ext.json)
-
----
-
-### Special statutes passed in parliament 9
-
-*2024-10-01 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201733) · `si`
-
-Sri Lanka Parliament passes 167 bills in 9th session: 146 govt, 21 private. Key legislation includes communication and constitutional services acts.
-
-🟩
-
-The Parliament of Sri Lanka Announced that 167 bills had passed over the 9th parliamentary period 20th of 2020 and the 9th parliamentary period of 2024.
-
-The bills 146 government bills and 21 private seat are passed.
-
-Communication / Director of Constitutional Services / Director of Sri Lanka (Acting). Jayalath Perera has been informed by a statement.
-
-◼️
-
-[Data](articles/b84f17e8.json)
-
-[Extended Data](ext_articles/b84f17e8.ext.json)
-
----
-
-### The interim ban against purchase of ordinary passport is removed
-
-*2024-10-01 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201732) · `si`
-
-Court removes interim ban on passport purchases, appeals court extends injunction, affecting millions of licenses.
-
-🟩
-
-The Court today (01) has ordered the removal of the interim injunction ordered order imposed by private companies.
-
-However, the latest Court of Appeal has decided to extend the interim injunction with the next cases, preventing the imprisonment of five million licenses.
-
-Epic Lanka (Pvt) Ltd was re-released by the Court of Appeal, which prevented the 750,000 passports and eight million passports from private companies from private companies.
-
-Additional Sumathi Dharma Dharma Dharmawardena, who has been named as respondents, the Secretary to the Ministry of Enmuting and Emigration, has held only 13,080 empty passports.
-
-It is sufficient that the additional Solicitor General also pointed out that 13 working days only to issue passports.
-
-If the Additional Solicitor General that claims to issue passports after the end, if such an additional situation arises
-
-The public who wish to go abroad for various issues, including foreign employment, said that he was facing severe hardships.
-
-...
-
-[Data](articles/e7dca30e.json)
-
-[Extended Data](ext_articles/e7dca30e.ext.json)
-
----
-
-### Sri Lanka leader meets US, Russian envoys; foreign policy direction awaited
-
-*2024-10-01 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-meets-us-russian-envoys-foreign-policy-direction-awaited-181822/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s newly elected Leftist President Anura Kumara Dissanayake met Ambassadors of the United States and Russia to Colombo while the new leader is yet to spell out his government’s foreign policy.
-
-Dissanayake, the leader of Marxists Janatha Vimukthi Peramuna (JVP)-led National People’s Power (NPP) coalition won the presidential election and is running an interim government with a three-member cabinet after dissolving the parliament.
-
-Dissanayake’s party in the past has been against India and raised concerns over Indian expansionism in the island nation. However, during the election campaign, Dissanayake and his party members were silent on his foreign policy.
-
-Political and foreign policy analysts have seen Dissanayake as a pro-Chinese and pro-Russian due to his JVP’s affiliation to communism.
-
-...
-
-[Data](articles/43706304.json)
-
-[Extended Data](ext_articles/43706304.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-02 07:25:41**
+As of **2024-10-02 08:21:33**
 
 ## Newspaper Stats
 
-*Scraped **47,316** Articles*
+*Scraped **47,318** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 391
+dbsjeyarajcom | 392
 bbccomsinhala | 466
 colombotelegraphcom | 473
 islandlk | 2,786
@@ -18,7 +18,7 @@ dailyftlk | 3,185
 adalk | 4,377
 dailymirrorlk | 4,733
 adaderanalk | 5,564
-tamilmirrorlk | 6,353
+tamilmirrorlk | 6,354
 virakesarilk | 7,567
 adaderanasinhalalk | 8,176
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,316 (100.0%) of 47,316 articles have been extended.
+47,318 (100.0%) of 47,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-02 (Wednesday)
+
+### Katunayake Airport Development soon
+
+*2024-10-02 06:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்க-விமான-நிலைய-அபிவிருத்தி-விரைவில்/175-344787) · `ta`
+
+Japanese aid agency officials meet Sri Lankan government to discuss airport development and TV broadcast digitization projects.
+
+🟩
+
+Senior representatives of the Japanese International Cooperation Agency, including Chief Minister Yamoda Techsuya, met with the President's Secretary, Dr. Nandika Sanath Kumanayake at the Presidential Office yesterday afternoon.
+
+It was discussed that the Bandaranaike International Airport Development Program is being launched in Sri Lanka by Jayaika and the second phase of the television broadcast and digitalization of television broadcasts.
+
+At a recent meeting between the Ambassador and the President of Japan, the Japanese Ambassador and the President discussed the completion of 11 programs in the country with the help of Jayaika and discussed the expedition of those activities.. (A)
+
+◼️
+
+[Data](articles/56408c15.json)
+
+[Extended Data](ext_articles/56408c15.ext.json)
+
+---
 
 ### Vehicles received from various state institutions to the Presidential Secretariat
 
@@ -1370,6 +1392,20 @@ The company has decided not to change the litro gas prices in relation to Octobe
 
 ---
 
+### அநுர குமார திசாநாயக்க ; இலங்கை வானில்  ‘ இடதுசாரி ‘ நட்சத்திரம்
+
+*2024-10-01 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84833) · `en`
+
+அமெரிக்க பத்திரிகையாளர் எட்கார் சினோவின் ‘ சீன வானில்  சிவப்பு நட்சத்திரம்  ‘ (Red Star over China ) என்ற நூல்தான்  கட்டுரைக்கு இந்த தலைப்பை  வைப்பதற்கு தூண்டுதல் அளித்தது. சீனக் கம்யூனிஸ்ட் தலைவர் மாவோ சேதுங்குடனும் செஞ்சேனையுடனும் தனது ஊடாட்டம் பற்றிய உயிர்களையுடைய விபரிப்பாக அமைந்த அந்த முதலில் 1937 ஆம் ஆண்டில் பிரசுரமானது. மாவோ என்று அறியப்பட்ட மாவோ சேதுங்கைப் பற்றி அந்த நேரத்தில் மேற்குலகில் பெரிதாகத் தெரியாது. பல வருடங்கள் கழித்து மாவோவின் தலைமையில் கம்யூனிஸ்டுகள் சீனாவில் அதிகாரத்தைக் கைப்பற்றியபோது ‘ சீன வானில்  சிவப்பு நட்சத்திரத்தின் ‘ பிரதிகள்  பிரமிக்கத்தக்க அளவில் பெரும் எண்ணிக்கையில் உலகெங்கும் விற்பனையானது. சீனாவின் புதிய கம்யூனிஸ்ட் ஆட்சியாளர்கள் பற்றி ஒரு உள்நோக்கைப் பெறுவதற்கு அந்த்நூல் பேராவலூடன் வாசிக்கப்பட்டது.
+
+...
+
+[Data](articles/583f59c1.json)
+
+[Extended Data](ext_articles/583f59c1.ext.json)
+
+---
+
 ### Notification of University Grants Commission!
 
 *2024-10-01 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195263) · `ta`
@@ -2179,51 +2215,5 @@ Meanwhile, the minimum fare has been reduced by one rupee to Rs. 27.
 [Data](articles/75e6b192.json)
 
 [Extended Data](ext_articles/75e6b192.ext.json)
-
----
-
-### US Ambassador Julie Chung calls on President Dissanayake
-
-*2024-10-01 14:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102376/us-ambassador-julie-chung-calls-on-president-dissanayake) · `en`
-
-President Anura Kumara Dissanayake has met with U.S. Ambassador Julie J. Chung at the Presidential Secretariat in Colombo, today (01).
-
-Ambassador Chung extended her warm congratulations to President Dissanayake on his recent inauguration and emphasized the importance of fostering robust bilateral relations between the United States and Sri Lanka.
-
-Particular focus was placed on enhancing diplomatic relations between the United States and Sri Lanka, along with fostering economic and social cooperation in areas of mutual interest to both nations, the President’s Media Division (PMD) said.
-
-Meanwhile, in a post on ‘X’ (formerly Twitter), the US Ambassador said it was a pleasure to meet with President Dissanayake Anura Kumara Dissanayake to discuss the enduring U.S.-Sri Lanka partnership.
-
-...
-
-[Data](articles/ee589ff8.json)
-
-[Extended Data](ext_articles/ee589ff8.ext.json)
-
----
-
-### Bus fares revised
-
-*2024-10-01 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201725) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-"Bus fares increased by 4.24% starting midnight. Minimum fare reduced from 1 rupee to new amount."
-
-🟩
-
-The bus fares have been revised from midnight today (01).
-
-The National Transport Commission stated that the bus fares revised by 4.24 percent.
-
-In addition, the minimum bus fare is reduced from a rupee and the new minimum fee is Rs.
-
-◼️
-
-[Data](articles/dbba575a.json)
-
-[Extended Data](ext_articles/dbba575a.ext.json)
 
 ---

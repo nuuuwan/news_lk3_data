@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 01:08:11**
+As of **2024-10-03 01:38:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,467 (100.0%) of 47,471 articles have been extended.
+47,470 (100.0%) of 47,471 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -168,6 +168,8 @@ We should end a long dark chapter in our contemporary history by electorally exo
 
 [Data](articles/0d95e65a.json)
 
+[Extended Data](ext_articles/0d95e65a.ext.json)
+
 ---
 
 ### Challenges ahead for President Anura Kumara Dissanayake: Navigating Sri Lanka’s political labyrinth
@@ -179,6 +181,8 @@ The challenges ahead for President Anura Kumara Dissanayake are vast, but not in
 ...
 
 [Data](articles/bfb5edfe.json)
+
+[Extended Data](ext_articles/bfb5edfe.ext.json)
 
 ---
 
@@ -215,6 +219,8 @@ Bus service was nationalised in 1958 and during early 70s there was a very good 
 ...
 
 [Data](articles/c12ebe15.json)
+
+[Extended Data](ext_articles/c12ebe15.ext.json)
 
 ---
 

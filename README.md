@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 08:21:48**
+As of **2024-10-03 08:43:14**
 
 ## Newspaper Stats
 
-*Scraped **47,508** Articles*
+*Scraped **47,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,148 @@ colombotelegraphcom | 473
 islandlk | 2,796
 economynextcom | 2,899
 dailyftlk | 3,209
-adalk | 4,391
+adalk | 4,392
 dailymirrorlk | 4,733
-adaderanalk | 5,585
+adaderanalk | 5,586
 tamilmirrorlk | 6,391
 virakesarilk | 7,592
-adaderanasinhalalk | 8,214
+adaderanasinhalalk | 8,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,508 (100.0%) of 47,508 articles have been extended.
+47,514 (100.0%) of 47,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### 20 and 20 women's cricket cup today begins today
+
+*2024-10-03 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201792) · `si`
+
+Women's Cricket Cup: Dubai hosts tournament from 20th. Groups include Sri Lanka, Pakistan, Australia, India, New Zealand. Sri Lanka vs Pakistan match starts at 7:30 PM today.
+
+🟩
+
+The tournament will be held in Dubai until the 20th.
+
+Sri Lanka Women's Women's Group "A" category is due to be held in this year, and Pakistan, Australia, India and New Zealand are other groups of the category.
+
+The first match of Sri Lanka will take place at 7.30 pm today with the Pakistani team.
+
+◼️
+
+[Data](articles/61b52b88.json)
+
+[Extended Data](ext_articles/61b52b88.ext.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2024-10-03 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102411/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at a few places in Eastern and Uva provinces during the afternoon or night.
+
+A few showers may occur in the coastal areas of Southern and Western provinces during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7e22d609.json)
+
+[Extended Data](ext_articles/7e22d609.ext.json)
+
+---
+
+### Man arrested with rash drugs
+
+*2024-10-03 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201791) · `si`
+
+Sri Lanka: Drug arrests at airport and local areas. 883g hashish seized at Katunayake Airport. 838g ice found in Midigama. 920g ice discovered in Kosgahadeniya. Investigations ongoing.
+
+🟩
+
+A person has been arrested at the Katunayake Airport with a huge drug brought to Sri Lanka.
+
+The suspect has been arrested following a raid conducted by a team of officers of the Airport Unit of the Airport Unit of the Police Narcotics Bureau.
+
+883 grams have been recovered from a kilogram of rahr drugs in the possession of the suspect.
+
+Meanwhile, a man has been arrested in the Ibbage area of ​​the Midigama area with 838 grams of ice.
+
+According to information received received by the Midigama police station, the stock of drug has been recovered.
+
+The suspect is a resident of Weligama and three others in the area have fled the scene.
+
+Investigations have been started to arrest them.
+
+Meanwhile, a person has been arrested in Kosgahadeniya area with 920 grams of ice.
+
+The arrested were a 29-year-old resident of Walagedara.
+
+◼️
+
+[Data](articles/aa354140.json)
+
+[Extended Data](ext_articles/aa354140.ext.json)
+
+---
+
+### Several deadly accidents
+
+*2024-10-03 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201790) · `si`
+
+Deadly accidents: 3 deaths, 1 injured. Motorcyclist, child hurt. Tipper-bus collision. Three-wheeler crash. Cab rollover kills one, injures two. Police investigating.
+
+🟩
+
+Three persons have died due to road accidents yesterday (02).
+
+According to a motorcycle to turn to the Soorudawewa to Padalangala, a tipper behind the road was collided with a bus.
+
+The tipper was later killed in a motorcyclist stopped at the right side of the road and the motorcyclist who stopped the right hand side was killed.
+
+The motorcyclist who went to the south of the crash and a four-year-old girl who was rushed to the Suriyawewa hospital and was transferred to the Hambantota Base Hospital for further treatment.
+
+The driver of the Tipper has fled after the accident and Sooriyawewa Police are investigating him.
+
+Also, Deniyaya has been a three-wheeler from Kiriwiyadola junction on Siriwalpola Junction area and a three-wheeler and a three-wheeler was not controlled by the Driver.
+
+The driver of the three-year-old driver was injured and admitted to the Deniyaya hospital with a three-wheeler driver.
+
+...
+
+[Data](articles/45f3034d.json)
+
+[Extended Data](ext_articles/45f3034d.ext.json)
+
+---
+
+### World Alcohol Prevention Day
+
+*2024-10-03 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201789) · `si`
+
+World Alcohol Prevention Day: Nearly 3 million deaths annually worldwide due to alcohol. In Sri Lanka, alcohol-related deaths occur while the government spends $237 billion annually on healthcare. The Alcohol and Drugs Center executive director calls for a systematic program to address alcohol use.
+
+🟩
+
+Nearly 3 million people die each year around the world due to alcohol.
+
+The alcoholic use of Sri Lanka is killed every year, while the government spends 237 billion annually for the sick.
+
+Executive Director of Alcohol and Drugs Center, said that the government requests the implementation of a systematic program to ensure the use of alcohol use.
+
+◼️
+
+[Data](articles/261e4b6a.json)
+
+[Extended Data](ext_articles/261e4b6a.ext.json)
+
+---
 
 ### New Defense Secretary meets security heads
 
@@ -1248,6 +1374,32 @@ Jaffna police and forensic police are conducting investigations as the cause of 
 
 ---
 
+### Israeli agricultural employment was 2330
+
+*2024-10-02 19:49:47* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-කෘෂි-රැකියාවලට-2330ක්-ගිිහින්/11-412278) · `si`
+
+Sri Lankans employed in Israeli agriculture: 2330 workers arrived since Dec under bilateral agreement. SLBFE assigns 118 more for Oct departure. Employment continues despite Israel's tensions.
+
+🟩
+
+Sri Lankans have come to Israel from December last year, according to the Understanding Agreement between the Government of Sri Lanka and the Government of Israel, and 2330 Sri Lankans have left for Israel.
+
+Meanwhile, the Sri Lanka Bureau of Foreign Employment (SLBFE) was assigned to 118 other Sri Lankan students who qualified for employment in agriculture.
+
+These people are due to go to Israel on October 09, 10,12 and 13.
+
+Sri Lankans who are engaged in Israel have been confirmed in the face of the tense situation in the country.
+
+Sri Lankans are entitled to Sri Lankans with an understanding agreement between the two countries, as a Memorandum of Understanding between the two countries, the Sri Lanka Foreign Employment has requested the public to prevent any person to get employment opportunities.
+
+◼️
+
+[Data](articles/d0b65dac.json)
+
+[Extended Data](ext_articles/d0b65dac.ext.json)
+
+---
+
 ### Youth arrested with ice drug
 
 *2024-10-02 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201776) · `si`
@@ -2139,151 +2291,5 @@ Dissanayake and his party have long accused the Rajapaksa family of taking wealt
 [Data](articles/93a93405.json)
 
 [Extended Data](ext_articles/93a93405.ext.json)
-
----
-
-### Cylinder?Elephant?
-
-*2024-10-02 15:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டரா-யானையா-ஆராய்கிறது-ஐ-தே-க/175-344816) · `ta`
-
-UNP selects symbol: gas cylinder or elephant. Decision pending consultation with SLFP. Meeting chaired by Ranil Wickremesinghe.
-
-🟩
-
-It is being investigated at the ongoing meeting of the United National Party (UNP) headquarters in the upcoming parliamentary election.
-
-United National Party (UNP) Deputy Leader Ruwan Wijayawardena said that the United National Party (UNP) executive committee had agreed to select a gas cylinder or elephant and contest the next general election.
-
-Ruwan Vijayawardena also stated that a final decision will be taken in consultation with other parties, including the Sri Lanka Freedom Party (SLFP), which is contesting with the United National Party (UNP) and the United National Party.
-
-The United National Party (UNP) Executive Committee and several special meetings were held at the party headquarters, Sirikotha, headed by former United National Party (UNP) leader Ranil Wickremesinghe and discussed these issues.
-
-The meeting was attended by UNP district leaders, constituency organizers, managers and party activists.
-
-◼️
-
-[Data](articles/6137c8b9.json)
-
-[Extended Data](ext_articles/6137c8b9.ext.json)
-
----
-
-### Luxury Car Controversy; Rosie Description
-
-*2024-10-02 15:59:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொகுசு-கார்-சர்ச்சை-ரோசி-விளக்கம்/175-344815) · `ta`
-
-Porsche Cayenne controversy: Rosie Senanayake denies personal use, claims vehicle damaged.
-
-🟩
-
-Responding to the allegations that Porsche Cayenne was given during the reign of former President Ranil Wickremesinghe, Rosie Senanayake said the vehicle was one of the eight vehicles used from time to time.
-
-During a special media briefing held today, Rosie Senanayake explained to the media about the various vehicles given to him by the President's Office during his tenure.
-
-He added that he had used eight vehicles during his president's advisor and that the last used vehicle before the coup was Porsche Gayen.
-
-“All the vehicles provided in 2023 were replaced after damage. I used to use a total of eight vehicles. When my final vehicle was damaged, the President's Office gave me an unhealthy Porsche Cain.
-
-Immediately contacted the automobile trustee and requested a different vehicle. He advised me to use the vehicle until the other vehicle was available. The Porsche Cayen was immediately ripe and sent for transfer, ”he explained.
-
-...
-
-[Data](articles/d706cc73.json)
-
-[Extended Data](ext_articles/d706cc73.ext.json)
-
----
-
-### "School shoes will be reduced"
-
-*2024-10-02 15:49:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-காலணிகள்-விலை-குறைக்கப்படும்/175-344814) · `ta`
-
-"School shoe prices cut: FLGIG reduces costs, urges local purchases."
-
-🟩
-
-The Footwear and Skin Products Association (FLGIG) said today that it has decided to reduce the prices of school shoes and relevance.
-
-Commenting on the media, FLGIG president Buddhika Wimalasiri said that in the community, which is seeking demands when the government comes to power, the country's industrialists and developers have been appointed to support the government.
-
-The leader appealed to the consumers to contribute to the purchase of goods made in Sri Lanka.
-
-◼️
-
-[Data](articles/97cd1750.json)
-
-[Extended Data](ext_articles/97cd1750.ext.json)
-
----
-
-### Sri Lanka tourist arrivals up 9.1-pct in September
-
-*2024-10-02 15:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-up-9-1-pct-in-september-181975/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tourist arrivals grew 9.1 percent from a year ago to 122,140 in September 2024, led by India as the sector continued to recover.
-
-Indian arrivals were by far the highest at 27,884, overtaking China at 9,078, United Kingdom at 8,688, Germany at 8,260, and Australia at 7,200.
-
-Russia which was a big source market at the beginning of the year yielded only 4,199 visitors to the island.
-
-This was lesser than the 4,359 visitors from neighboring Indian ocean island nation Maldives which announced a forex shortage in September.
-
-Visitors from Bangladesh, another South Asian neighbor in crisis, were at 4,178. (Colombo/Oct2/2024)
-
-◼️
-
-[Data](articles/d53f5f77.json)
-
-[Extended Data](ext_articles/d53f5f77.ext.json)
-
----
-
-### No reports of Sri Lankans in Israel affected by Iran attacks - envoy
-
-*2024-10-02 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102401/no-reports-of-sri-lankans-in-israel-affected-by-iran-attacks-envoy) · `en`
-
-The Sri Lankan Embassy in Tel Aviv has issued an announcement to all Sri Lankan nationals residing in Israel in the wake of the Iran missile attacks on Israel.
-
-The embassy had yesterday advised Sri Lankans living in Israel to remain in safe shelters during the attacks, while they were also instructed to keep stocks of essential food items and medicines.
-
-Iran had launched at least 180 missiles into Israel, the latest in a series of escalating attacks in a yearslong conflict between Israel and Iran and its Arab allies.
-
-However, the Sri Lankan Ambassador to Israel, Nimal Bandara says that it has not been reported that any Sri Lankans have been harmed by the attacks.
-
-Iran launched missiles targeting Israel, the military said Tuesday (01), following US warnings that an Iranian attack was imminent.
-
-Iran described the campaign as defensive and solely aimed at Israeli military facilities. Iran’s state news agency said three Israeli military bases had been targeted.
-
-...
-
-[Data](articles/f589e2f7.json)
-
-[Extended Data](ext_articles/f589e2f7.ext.json)
-
----
-
-### Here are the places of Test Rankings, Chandimal, Angie, Prabhath
-
-*2024-10-02 15:20:19* · [`adalk`](https://www.ada.lk/sports/ටෙස්ට්-ශ්‍රේණිගත-කිරීම්හී-කමිඳු--චන්දිමාල්--ඇන්ජි--ප්‍රභාත්-හිමි-කරගත්-ස්ථාන-මෙන්න/9-412274) · `si`
-
-International Cricket Council publishes latest Test Rankings. Kamindu Mendis moves up to 11th place among batsmen. Dinesh Chandimal advances to 20th. Angelo Mathews improves ranking. Jaspri Bumrah tops Test bowlers. Prabath Jayasuriya rises to 8th place.
-
-🟩
-
-The latest Test Rankings have been published by the International Cricket Council.
-
-Accordingly, Kamindu Mendis has passed the 11th to the 11th place Test batsmen.
-
-Dinesh Chandimal has come forward to the 20th and Angelo Mathews has come forward in four parts.
-
-Meanwhile, Jaspradi Bumta has been able to reach the first place in the first place in the first place in Test bowlers.
-
-Sri Lanka's Prabath Jayasuriya has been able to advance from one place to the 08th place.
-
-◼️
-
-[Data](articles/63ab853d.json)
-
-[Extended Data](ext_articles/63ab853d.ext.json)
 
 ---

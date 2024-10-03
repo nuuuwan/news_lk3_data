@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 06:08:22**
+As of **2024-10-03 06:44:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,499 (100.0%) of 47,504 articles have been extended.
+47,502 (100.0%) of 47,504 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -635,6 +635,8 @@ Turnover stood at Rs 2.2 billion with four crossings. Those crossings were repor
 ...
 
 [Data](articles/21bd7224.json)
+
+[Extended Data](ext_articles/21bd7224.ext.json)
 
 ---
 

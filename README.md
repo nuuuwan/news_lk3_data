@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 04:38:52**
+As of **2024-10-04 04:57:26**
 
 ## Newspaper Stats
 
-*Scraped **47,669** Articles*
+*Scraped **47,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,176 @@ adalk | 4,412
 dailymirrorlk | 4,733
 adaderanalk | 5,604
 tamilmirrorlk | 6,426
-virakesarilk | 7,626
+virakesarilk | 7,632
 adaderanasinhalalk | 8,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,669 (100.0%) of 47,669 articles have been extended.
+47,675 (100.0%) of 47,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### A boy who is addicted to a mobile game in Jaffna
+
+*2024-10-04 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195438) · `ta`
+
+Boy addicted to Free Fire game in Jaffna wrongfully committed. Student absent from school for 3 months due to gaming addiction. Parents confiscate phone, but child runs away. Found dead near house. Anatomical exam performed.
+
+🟩
+
+A boy who is addicted to a mobile game in Jaffna today has been wrongly committed. The deceased is a student from Lotus Road, Varnaparpanai and Jaffna, Jaffna, a student of Periyapulam Maha Vidyalaya, Jaffna.
+
+The student has not gone to school for the past 3 months as the student is addicted to the mobile phone game called Free Fire. It is reported that the Grama Niladhari, Chancellor, Teachers and Divisional Secretariat Officers did not go to school demanding that they come to school.
+
+In this case, the father has seized the student's cell phone. The student left the house on 25.10.2024. Parents filed a complaint at the Jaffna Police Station.
+
+A relative brought him home last night (02), claiming that the student was standing at his house in Paranthan and joined his parents.. The student played the game about 2 am this morning and lifted the land near the house.
+
+...
+
+[Data](articles/e496c02d.json)
+
+[Extended Data](ext_articles/e496c02d.ext.json)
+
+---
+
+### Discussion on Northern Province Transportation
+
+*2024-10-04 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195437) · `ta`
+
+Northern Province transportation issues discussed: private transport council challenges, state vs private transport board time restrictions, association violations, worker discipline, bus owner livelihoods. Governor calls for provincial road transport authority response and investigation of implementation problems.
+
+🟩
+
+Governor of the Northern Province. The Vedanayaka was held on Thursday (3).
+
+During the discussion at the Governor's Secretariat, the issues faced by the private transport councils were discussed in detail and the opportunities and shortcomings in the private bus station and bus stops.
+
+The time restrictions between both the State Transport and the Private Transport Board were also investigated.
+
+The newly joined associations have violated the procedures between private transport associations and that there are many problems and travelers are facing many obstacles.
+
+It was also discussed on the discipline of those who work in private transport associations and the implementation of their clothes.
+
+According to the route's license. There were also problems facing the livelihood of private bus owners.
+
+The Governor said that the Provincial Road Transport Authority should be given the appropriate response to the Northern Provincial Transport Board and the Northern Provincial Transport Board.
+
+...
+
+[Data](articles/b9c518d1.json)
+
+[Extended Data](ext_articles/b9c518d1.ext.json)
+
+---
+
+### 8 Independent Committees in Jaffna Election District
+
+*2024-10-04 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195436) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"8 independent committees oversee Jaffna election district. Nominations due by noon on 11th."
+
+🟩
+
+Jaffna District Elections Office and Government Agent Marudalingam Pradeepan said that 8 Independent Committees have paid control of the upcoming parliamentary election in the Jaffna election district.
+
+He was speaking at a media briefing held at the Jaffna District Secretariat on Thursday (3). In addition,
+
+Accordingly, nominations can be submitted till 12 noon on the 11th.
+
+◼️
+
+[Data](articles/ddd39725.json)
+
+[Extended Data](ext_articles/ddd39725.ext.json)
+
+---
+
+### Once the general election is over, the date for the local government election will be announced - the Elections Commission
+
+*2024-10-04 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195435) · `ta`
+
+Local government elections delayed due to Supreme Court ruling. Date to be announced soon after general election.
+
+🟩
+
+We honorably accept the verdict of the Supreme Court regarding the local government elections. The Elections Commission has stated that the date of holding the local government elections will be announced as soon as possible.
+
+The Elections Commission honored the verdict of the High Court on 22.08.2012, taking up petitions on the fundamental rights violation of the Local Government Elections in 2023.
+
+The Extreme Gazette, which was published on 26.07.2012, 26.07.2012, was taken to hold the local government elections after the Presidential Elections to hold the presidential election on 21.09.2012.
+
+It was observed that the district would take at least 30 -35 days to carry out the next steps following a meeting with the District Deputy, Assistant Elections Commissioners and the State Principal.
+
+President Anura Kumara Dissanayake has dissolved the ninth parliament on 24.09.2012 and issued the announcement of the vote for the general election.
+
+...
+
+[Data](articles/a692db90.json)
+
+[Extended Data](ext_articles/a692db90.ext.json)
+
+---
+
+### St. Theresal Temple Festival of Kilinochchi
+
+*2024-10-04 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195434) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+St. Theresa's Temple Festival in Kilinochchi: The first day's events were shared with Raja Dilakasan's assistance and blessings from Silvezrr Das. Notably, the Chief Minister of Marakkottai and all temple priests attended.
+
+🟩
+
+Ipaci 1st day share. With the help of Raja Dilakasan and the Blessings of the Silvezrr Das. It is noteworthy that the Chief Minister of the Marakkottai and all the priests of the parrot was presented with all the priests.
+
+◼️
+
+[Data](articles/c012ae20.json)
+
+[Extended Data](ext_articles/c012ae20.ext.json)
+
+---
+
+### Sri Lanka's strong feet in the Women's T20 World Cup;Failed by 31 runs to Pakistan
+
+*2024-10-04 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195433) · `ta`
+
+Sri Lanka loses to Pakistan in Women's T20 World Cup. Sri Lanka failed to defend 85 runs, losing by 31 runs. Key factors: poor batting, especially in last 5 overs; Pakistan's quick runs and good bowling. Vishmi Gunaratne top scorer for Sri Lanka with 20 runs. Pakistan wins crucial match.
+
+🟩
+
+In the first match of the ICC Women's R20 World Cup, Pakistan won the most essential victory at the Sharjah Cricket Stadium between Sri Lanka and Pakistan on Thursday night.
+
+The main reason for its defeat was that Sri Lanka gave up 32 runs in the last five overs, unable to beat Pakistan's last 2 wickets quickly. In addition, Pakistan captain Fatima Sanaa's fast -paced 30 runs and the accurate bowling of bowlers made Pakistan easier.
+
+The Sri Lankan women's team lost by 9 wickets in 20 overs and lost 85 runs.
+
+This defeat has fallen into a heavy blow to Sri Lanka and has to face a severe crisis in the ongoing matches.
+
+The worst feet of the Sri Lankan players on the pitch, which favored the spin, beat the wickets at regular intervals due to reckless bats.
+
+Vishmi Gunaratne was the only young hero in the front row and scored 20 runs.
+
+Samari Attappattu (6), Harshita Samarawickrama (7), Hassini Perera (8) and Kavisha Dilhari (3) lost the same number.
+
+...
+
+[Data](articles/ae6c11a8.json)
+
+[Extended Data](ext_articles/ae6c11a8.ext.json)
+
+---
 
 ### The UN. Meeting with the associate president
 
@@ -2407,161 +2565,5 @@ Police investigations have revealed that the suspect has maintained close contac
 [Data](articles/24ae3d6d.json)
 
 [Extended Data](ext_articles/24ae3d6d.ext.json)
-
----
-
-### Local Government Elections soon after parliamentary elections - Election Commission
-
-*2024-10-03 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195381) · `ta`
-
-Election Commission announces local government elections post-parliamentary polls. Discussions ongoing about funding and leader consultations. Local elections to be held immediately after general election completion.
-
-🟩
-
-The Elections Commission has announced that it will announce an official resolution on the local government elections after the end of the parliamentary election.
-
-The announcement was made following discussions on legal proceedings for the necessary funds to hold elections.
-
-The Commission also said that it has held preliminary discussions with leaders to ensure that the local government elections are smooth.
-
-The Commission reiterated that "we have completed the basic tasks and we will hold a local government election immediately after the general election."
-
-◼️
-
-[Data](articles/5c385ee1.json)
-
-[Extended Data](ext_articles/5c385ee1.ext.json)
-
----
-
-### Sri Lanka’s central bank cancels pensions to Governors
-
-*2024-10-03 12:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-cancels-pensions-to-governors-182111/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has cancelled process that paid a pension to governors who are appointed from outside the agency, a gazette notice signed by current Governor Nandalal Weerasinghe said.
-
-According to the earlier rule, a person appointed as a Central Bank Governor from 01.01.1998 would be “deemed to be an employee” and would “receive a monthly pension irrespective of the number of years of his service, equal to 74 percent of the basic salary last paid to him.”
-
-If a person was appointed as governor before 01.01.2015, he would get a pension only after 01.01.2015.
-
-“Provided, in the event criminal investigation or proceedings are being conducted before a Court of Law in respect of a former Governor, pension payment to such former Governor shall be stayed or suspended until the conclusion of such investigations or proceedings,” according to the earlier rule.
-
-...
-
-[Data](articles/5a3bfbc1.json)
-
-[Extended Data](ext_articles/5a3bfbc1.ext.json)
-
----
-
-### At the easoletal, a land attack on Lebanon
-
-*2024-10-03 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201802) · `si`
-
-Here's a 200-character summary of the situation:
-
-
-
-Israel-Lebanon conflict escalates. Israeli Army clashes with Hezbollah near border. Eight Israeli soldiers killed. UN convenes emergency meeting. Iran-backed attacks damage Israeli businesses. US warns Iran of severe consequences.
-
-🟩
-
-The first time was the first time after the Israeli Army and Hezbollah militants, including Iran stopped attacks on Israel.
-
-Foreign media reports that eight Israeli soldiers have died during the confrontation.
-
-Meanwhile, the United Nations General Assembly has also been convened to discuss the militarity situation that has arisen in the Middle East.
-
-Israeli-Hamas-war-long-year-long-year-long conflicts were resorted to a new dimensionalizing the missile strikes as a support to Lebanon.
-
-Iranian missile attacks were damaged in Israel, including businesses.
-
-The Israeli Military Lebanon has entered the Israeli military lebition after the Iranian stopping.
-
-They had entered the Lebanon about 400 meters from the Israeli-Lebanon border.
-
-The land clashes between the Israeli Army and Hezbollah fighting were the first time.
-
-Eight Israeli soldiers were killed and another injured in these clashes between the Israeli military and Hezbollah militants.
-
-...
-
-[Data](articles/bb900809.json)
-
-[Extended Data](ext_articles/bb900809.ext.json)
-
----
-
-### Colombo HC defers hearing of Keheliya’s corruption case
-
-*2024-10-03 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102419/colombo-hc-defers-hearing-of-keheliyas-corruption-case) · `en`
-
-The Colombo High Court has ordered for the case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against former Health Minister Keheliya Rambukwella and the former Chairman of the State Printing Corporation, to be called for hearing on November 29.
-
-This order was issued when the relevant plaint was called before Colombo High Court Judge Sujeewa Nissanka today (03).
-
-At that time, the accused former minister Keheliya Rambukwella had also appeared before the court.
-
-Accordingly, the High Court judge had ordered the case to be heard on November 29 as previously scheduled.
-
-Former minister Keheliya Rambukwella and former chairman of the State Printing Corporation Jayampathi Bandara Heenkenda stand accused of allegedly misappropriating the funds belonging to the corporation to pay Rambukwella’s personal telephone bill, amounting to Rs. 230,000 between March and April 2012, during his tenure as the Minister of Mass Media.
-
-◼️
-
-[Data](articles/8b079404.json)
-
-[Extended Data](ext_articles/8b079404.ext.json)
-
----
-
-### No media spectacles, Sri Lanka president says assuming duties as Agriculture Minister
-
-*2024-10-03 12:33:00* · [`economynextcom`](https://economynext.com/no-media-spectacles-sri-lanka-president-says-assuming-duties-as-agriculture-minister-182104/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has officially assumed the duties as the Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries, and Aquatic Resources, his media division said.
-
-Dissanayake met with ministry officials after assuming office on Thursday (3).
-
-“We will not publicly question officials in front of the media, as previous leaders have done, nor will we entertain such media spectacles,” Dissanayake said in a post on social media platform X.
-
-• The Ministry’s role in eradicating rural poverty is immense, and the performance of our government officials will be key to our success.
-
-• I am committed to advocating for our dedicated public servants to help create an efficient and responsive public service.
-
-• Traditional political reprisals will not be tolerated in the future.
-
-...
-
-[Data](articles/cee2d4a8.json)
-
-[Extended Data](ext_articles/cee2d4a8.ext.json)
-
----
-
-### 15 breast cancer patients per day
-
-*2024-10-03 12:20:21* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-දිනකට-පියයුරු-පිළිකා-රෝගින්-15ක්/11-412287) · `si`
-
-Here's a 200-character summary:
-
-
-
-Breast cancer awareness month: 15 daily cases. Event educates public. National program collaborates with health ministry, police, NGOs. Screening recommended for women 20+. 2.3 million cases reported in Sri Lanka. Early detection key to cure.
-
-🟩
-
-October, October is especially regarded as a rose to educate breast cancer. A special march and a special event was held at the Health Ministry Secretary Medical Palitha Mawkala as well as a special event to educate the society in breast cancer.
-
-"Identify. Let's take treatment. Let's be overcome.. A special event was held to educate the public.
-
-The event was organized by the National Cancer Prevention Program of the Ministry of Health and collaborated with the Sri Lankan police, civil organizations, government institutions and private institutions.
-
-The Ministry of Health requests the public every month after 20 years of age and over the age of 20 to 40 years and for 40 years and for 40 years.
-
-...
-
-[Data](articles/44d2b3d4.json)
-
-[Extended Data](ext_articles/44d2b3d4.ext.json)
 
 ---

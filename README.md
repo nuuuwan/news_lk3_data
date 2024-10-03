@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 10:24:01**
+As of **2024-10-03 10:38:38**
 
 ## Newspaper Stats
 
@@ -26,33 +26,45 @@ adaderanasinhalalk | 8,221
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,527 (100.0%) of 47,531 articles have been extended.
+47,531 (100.0%) of 47,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
 
-### මහාධිකරණ විනිසුරුට අපහාසාත්මක පෝස්ටර් ඇලවූ තවත් දෙදෙනෙක් අල්ලයි
+### Two others were arrested by High Court Judge
 
 *2024-10-03 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201795) · `si`
 
-මන්නාරම මහාධිකරණ විනිසුරුවරයාට අපහසාත්මක දැන්වීම් ඇලවීමේ සිද්ධියට අදාළව තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+High Court Judge arrests two suspects in Mannar case. Police seize phones, investigating alleged insults. Three more arrested earlier, remanded. Further arrests pending.
 
-ඊයේ (02) දින දහවල් කාලයේ දී කැලණිය සහ දෙහිවල යන ප්‍රදේශවලදී මෙම සැකකරුවන් කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-ඔවුන් සන්තකයේ තිබූ ජංගම දුරකථන 03 ක් ද පොලිස් භාරයට ගෙන තිබේ.
+Two more suspects have been arrested in connection with the Mannar High Court Judge of the Mannar High Court.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අඹකොටේ සහ දෙහිවල යන ප්‍රදේශවල පදිංචි වයස අවුරුදු 27 සහ 41 වයස්වල පසුවන්නන්ය.
+The suspects were arrested by the Colombo Crimes Division in Kelaniya and Dehiwala areas yesterday.
 
-ඔවුන් අද (03) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+Police have also seized three mobile phones in their possession.
 
-සැකකරුවන් විසින් අදාළ පෝස්ටර් නිර්මාණය කිරීම, මුද්‍රණය කිරීම හා සන්තකයේ තබා ගැනීම සිදුකර ඇති බවට විමර්ශනවලදී අනාවරණය වී තිබේ.
+The suspects are aged between 27 and 41 years of age and 41 years of age.
 
-පසුගිය අගෝස්තු 28 වන දින මන්නාරම මහාධිකරණ විනිසුරුවරයාගේ ඡායාරූපය ඇතුළත් කරමින් ඔහුට අපහාසයක් සිදුවන අයුරින් කිසියම් පිරිසක් විසින් කොළඹ ඇතුළු තදාසන්න ප්‍රදේශවල දැන්වීම් ඇලවීම සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාශය විමර්ශනයක් ආරම්භ කර තිබුණි.
+They are to be produced before the Colombo Chief Magistrate today (03).
 
-...
+Investigations have revealed that the suspects have been made, printed and possessed by the suspects.
+
+The Colombo Crimes Division has launched an investigation into whether he is insulted by the Mannar High Court Judge on August 28.
+
+Three suspects have been arrested on September 11, a resident of Madapatha, Matale and Pannipitiya.
+
+They were produced before the Colombo Chief Magistrate's Court and remanded.
+
+The Colombo Crimes Division is conducting further investigations to arrest other suspects in connection with the incident.
+
+◼️
 
 [Data](articles/14495e93.json)
+
+[Extended Data](ext_articles/14495e93.ext.json)
 
 ---
 
@@ -69,6 +81,8 @@ The body has been placed in the mortuary of the Nagoda Hospital and Aluthgama Po
 ◼️
 
 [Data](articles/fede7d19.json)
+
+[Extended Data](ext_articles/fede7d19.ext.json)
 
 ---
 
@@ -87,6 +101,8 @@ Saying that the State government only writes letters to the central government s
 ...
 
 [Data](articles/d342ac87.json)
+
+[Extended Data](ext_articles/d342ac87.ext.json)
 
 ---
 
@@ -137,6 +153,8 @@ The arrested suspect is a 20-year-old resident of Weligama area and three other 
 ...
 
 [Data](articles/e1dad1db.json)
+
+[Extended Data](ext_articles/e1dad1db.ext.json)
 
 ---
 

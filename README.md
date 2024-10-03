@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 23:23:03**
+As of **2024-10-03 23:39:01**
 
 ## Newspaper Stats
 
-*Scraped **47,650** Articles*
+*Scraped **47,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ dailymirrorlk | 4,733
 adaderanalk | 5,604
 tamilmirrorlk | 6,424
 virakesarilk | 7,625
-adaderanasinhalalk | 8,243
+adaderanasinhalalk | 8,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,650 (100.0%) of 47,650 articles have been extended.
+47,651 (100.0%) of 47,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Sri Lanka is a bitter defeat
+
+*2024-10-03 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201822) · `si`
+
+Sri Lanka lost to Pakistan in Women's T20 World Cup. Sri Lankans scored 85 runs in 20 overs, Chamari Atapattu bowled out first wicket. Pakistan won by 31 runs, Fatima Sana top-scored with 30 off 20 balls. Pakistani bowlers took 3 wickets each.
+
+🟩
+
+The Sri Lankan team began 31 runs in the first night in the first night, commenced the Twenty20 Women's World Cup.
+
+Sri Lanka were able to score only 85 runs for the loss of 9 wickets in the 20 overs.
+
+Chamari Atapattu began in Sri Lanka with Simiti Gunaratne Sri Lanka, while Chamari was bowled out for the first wicket.
+
+Sri Lanka mark on the event of 13 (12.4), the Sri Lanka Scorecard was recorded as five wickets for 52 runs.
+
+Nilakshi de Silva scored 22 runs and the opening batsman Varima Gunaratne scored 20 runs.
+
+No other batsman could not carry the innings of Sri Lanka in the innings of Sri Lanka.
+
+She was raped from Pakistan for Pakistan (3/17), Nasra joints (2/15) and the Oimma Southern (2/17) bowling.
+
+Batting first Pakistan women scored 116 runs in the 20 overs.
+
+Leader Fatima Sana, who lifted Pakistan innings, hit 30 balls with 30 balls.
+
+Her innings were placed in 20 balls and a six-four fours and six.
+
+In addition to her, Nadara scored 23 runs.
+
+...
+
+[Data](articles/3e457082.json)
+
+[Extended Data](ext_articles/3e457082.ext.json)
+
+---
 
 ### No Sri Lankans seriously affected by situation in Lebanon - MFA
 
@@ -2569,29 +2607,5 @@ A minister of Singapore is a large number of corruption charges in 1986.
 [Data](articles/719f8dcf.json)
 
 [Extended Data](ext_articles/719f8dcf.ext.json)
-
----
-
-### Two more arrested over defamatory posters of Mannar HC Judge
-
-*2024-10-03 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102416/two-more-arrested-over-defamatory-posters-of-mannar-hc-judge) · `en`
-
-Two more suspects have been arrested in connection with the incident of pasting defamatory posters targeting the Mannar High Court Judge.
-
-The two suspects were arrested in Kelaniya and Dehiwala areas last evening (03) by a team of officers from the Colombo Crimes Division (CCD).
-
-Police have also seized three mobile phones found in the possession of the suspects.
-
-The arrested suspects, residents of Ambakote and Dehiwala areas who are aged 27 and 41, are expected to produce before the Colombo Chief Magistrate Court today (03).
-
-Investigations have revealed that the suspects were involved in designing, printing, and distributing the defamatory posters.
-
-On August 28, the Colombo Crimes Division had launched an investigation into a series of defamatory posters displayed in Colombo and suburbs targeting the Mannar High Court Judge, which had been created using his photograph.
-
-...
-
-[Data](articles/11f0a90e.json)
-
-[Extended Data](ext_articles/11f0a90e.ext.json)
 
 ---

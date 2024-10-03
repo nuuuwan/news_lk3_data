@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 05:44:19**
+As of **2024-10-03 06:08:22**
 
 ## Newspaper Stats
 
-*Scraped **47,492** Articles*
+*Scraped **47,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 468
 colombotelegraphcom | 473
-islandlk | 2,786
+islandlk | 2,796
 economynextcom | 2,899
-dailyftlk | 3,207
+dailyftlk | 3,209
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
@@ -26,11 +26,57 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,492 (100.0%) of 47,492 articles have been extended.
+47,499 (100.0%) of 47,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### SJS only alternative against current Govt. – Ranjith Madduma Bandara
+
+*2024-10-03 05:25:59* · [`dailyftlk`](https://www.ft.lk/news/SJS-only-alternative-against-current-Govt-Ranjith-Madduma-Bandara/56-767497) · `en`
+
+Stresses need for citizens to support the SJS, which he described as having the best experienced team
+
+Claims Sri Lanka’s recent economic collapse was a direct consequence of entrusting power to individuals without sufficient experience
+
+Urges people not to make the same mistake again and vote for SJS
+
+Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara yesterday declared that the Samagi Jana Sandhanaya (SJS), a broad coalition led by the SJB, is the only viable alternative to the current Government led by President Anura Kumara Dissanayake.
+
+Speaking at a press conference held in Colombo, Madduma Bandara stressed the need for the people to support the SJS, which he described as having the “best experienced team” capable of correcting past mistakes and leading the country towards recovery.
+
+...
+
+[Data](articles/dee3a57a.json)
+
+[Extended Data](ext_articles/dee3a57a.ext.json)
+
+---
+
+### Catholic Church highlights missing report on Channel 4 allegations
+
+*2024-10-03 05:21:15* · [`dailyftlk`](https://www.ft.lk/news/Catholic-Church-highlights-missing-report-on-Channel-4-allegations/56-767496) · `en`
+
+Archdiocese of Colombo Spokesperson Rev. Father Cyril Gamini Fernando says there is no trace of the report
+
+Emphasises that the report holds critical information about those responsible for orchestrating the attacks
+
+Laments lack of political will to uncover this mastermind behind the bombings, despite evidence being available
+
+Says if this truth is found, most politicians should be in prison and sent home
+
+Archdiocese of Colombo Spokesperson Rev. Father Cyril Gamini Fernando has expressed deep concern over the missing report related to allegations made by British media outlet Channel 4 regarding the 2019 Easter Sunday terrorist attacks. The report, initially handed over to President Ranil Wickremesinghe, has since gone missing, raising questions about accountability and transparency in the investigation, Fernando said.
+
+“We were informed it was handed over to the Attorney General. However we cannot find who it was handed over to and where it is now,” he said.
+
+...
+
+[Data](articles/37b221dc.json)
+
+[Extended Data](ext_articles/37b221dc.ext.json)
+
+---
 
 ### Indian High Commissioner calls on President
 
@@ -444,6 +490,34 @@ Backed by a € 300,000 investment from Foreign Affairs Ministry of the Netherla
 
 ---
 
+### Green Tea Scrub
+
+*2024-10-02 23:42:00* · [`islandlk`](http://island.lk/green-tea-scrub/) · `en`
+
+Lots of people talk about the benefits of green tea and, therefore, this week, I thought I should work on green tea for my beauty tips.
+
+You will need 02 tablespoons of used green tea, 01 tablespoon of sugar and 01 tablespoon of honey. By the way, you need to make sure the used green tea is dry but still fresh.
+
+Mix the ingredients thoroughly, in a bowl, until you achieve a paste-like consistency. You can adjust the sugar or honey to your desired texture.
+
+Take a warm shower, or bath, to open up your pores, making your skin more receptive to exfoliation.
+
+Now apply the scrub…gently massaging the scrub onto damp skin, using circular motions, focusing on rough areas, like elbows, knees, and feet.
+
+After scrubbing for about 5-10 minutes, rinse off with warm water, making sure that all residue is removed.
+
+Pat your skin dry and follow up with your favourite moisturizer to lock in hydration.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/e381187e.json)
+
+[Extended Data](ext_articles/e381187e.ext.json)
+
+---
+
 ### Public hearings: A key to ensuring integrity in high-level public service appointments
 
 *2024-10-02 23:38:44* · [`dailyftlk`](https://www.ft.lk/columns/Public-hearings-A-key-to-ensuring-integrity-in-high-level-public-service-appointments/4-767462) · `en`
@@ -459,6 +533,68 @@ The National People’s Power (NPP) Government inherited an administrative appoi
 [Data](articles/fab0b662.json)
 
 [Extended Data](ext_articles/fab0b662.ext.json)
+
+---
+
+### AIA’s Director of Group Healthcare, Dr. Christian Wards, speaks at Sri Lanka International Insurance Summit 2024
+
+*2024-10-02 22:40:00* · [`islandlk`](http://island.lk/aias-director-of-group-healthcare-dr-christian-wards-speaks-at-sri-lanka-international-insurance-summit-2024/) · `en`
+
+Dr. Christian Wards, AIA’s Director of Group Healthcare, recently addressed the Sri Lanka International Insurance Summit 2024, held at Shangri-La Colombo. The summit, themed ‘Insurer’s Role in Challenging Economic Dynamics,’ brought together global industry leaders, policymakers and experts to explore the evolving role of insurers in today’s complex economic environment.
+
+Dr. Wards, who has over 25 years of international experience in healthcare, including health insurance, healthcare provision and health services, shared his valuable insights on “The Future of Medical Insurance with Emerging Regional Trends and Digital Adoption.” His presentation highlighted key trends transforming the industry, including the shift towards value-based healthcare, the growing importance of digital solutions and analytic insights in improving health risk management, and the integration of health insurance with healthcare provision to deliver enhanced customer experiences.
+
+...
+
+[Data](articles/fc983b18.json)
+
+[Extended Data](ext_articles/fc983b18.ext.json)
+
+---
+
+### ‘Your dream home awaits with Pan Asia Bank’
+
+*2024-10-02 22:39:00* · [`islandlk`](http://island.lk/your-dream-home-awaits-with-pan-asia-bank/) · `en`
+
+Pan Asia Bank is transforming the path to homeownership by offering customers more than just a loan – we deliver innovative, tailored solutions that make securing a home easier than ever. In response to rising energy costs and the demands of modern living, Pan Asia Bank offers a unique housing loan package that includes an additional benefit: the option to incorporate solar panel installation into the loan. Customers can now bundle their home loan with a solar energy loan, reducing long-term energy costs while investing in a more sustainable lifestyle.
+
+...
+
+[Data](articles/4f3f3913.json)
+
+[Extended Data](ext_articles/4f3f3913.ext.json)
+
+---
+
+### iPay joins LankaPay’s ‘JustPay Web’
+
+*2024-10-02 22:38:00* · [`islandlk`](http://island.lk/ipay-joins-lankapays-justpay-web/) · `en`
+
+Marking a significant advancement in Sri Lanka’s digital payment ecosystem, iPay – Sri Lanka’s leading digital payment solution, has integrated with JustPay Web, a cutting-edge online payment platform developed by LankaPay. This feature enablement signifies a new chapter in the evolution of online payments, offering customers of any bank the option to pay seamlessly, securely and in real time, by making direct payments via their bank accounts.
+
+...
+
+[Data](articles/344144fd.json)
+
+[Extended Data](ext_articles/344144fd.ext.json)
+
+---
+
+### AA celebrates Children’s Day
+
+*2024-10-02 22:37:00* · [`islandlk`](http://island.lk/aa-celebrates-childrens-day/) · `en`
+
+HELMET – IF YOU LOVE. UN/ FIA Road Safety Programme was conducted at Science College, Templers Road, Mt. Lavinia to educate children, parents, teachers and motorcyclists on the importance of children wearing Helmets. The event was organized by LOLC in collaboration with the Traffic Police, Mt. Lavinia and City Traffic, Colombo. Children who were wearing helmets and dropped by the parents were given a cash award and a selected few children who were not wearing helmets were given brand new helmets in the HELMET – IF YOU LOVE PROGRAMME. The Mt. Lavinia Police, the principal and teachers of Science College helped to make this event a success.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/93d35af6.json)
+
+[Extended Data](ext_articles/93d35af6.ext.json)
 
 ---
 
@@ -483,6 +619,22 @@ Interviews from the suspect is a leading drug dealer who is hiding in a foreign 
 [Data](articles/282e0da9.json)
 
 [Extended Data](ext_articles/282e0da9.ext.json)
+
+---
+
+### West Asian tensions trigger share market volatility; indices down
+
+*2024-10-02 22:34:00* · [`islandlk`](http://island.lk/west-asian-tensions-trigger-share-market-volatility-indices-down/) · `en`
+
+The stock market was highly volatile yesterday due to tensions in West Asia focusing on Israel and Lebanon. Global stock markets also showed some volatility and stocks dipped, stock market analysts said.
+
+Amid those developments both indices were down. The All Share Price Index went down by 58.68 points while S and P SL20 declined by 8.28 points.
+
+Turnover stood at Rs 2.2 billion with four crossings. Those crossings were reported in Commercial Bank, where 1.5 million shares crossed to the tune of Rs 156 million; its share price was Rs 104.50, Sampath Bank 1.5 million shares crossed for Rs 120 million; its shares traded at Rs 80 and NTB 200,000 shares crossed for Rs 25.8 million; its shares traded at Rs 129.
+
+...
+
+[Data](articles/21bd7224.json)
 
 ---
 
@@ -2123,223 +2275,5 @@ President Anura Kumara Dissanayake has time to prove his allegations, ”Rajapak
 [Data](articles/8e9d3fa4.json)
 
 [Extended Data](ext_articles/8e9d3fa4.ext.json)
-
----
-
-### Namal
-
-*2024-10-02 14:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுக்கு-சாவால்-விடும்-நாமல்/175-344812) · `ta`
-
-Namal Rajapaksa challenges President Anura Kumara Dissanayake to prove allegations of hidden billions in Uganda and other countries. Rajapaksa denies claims public funds were stolen during his regime.
-
-🟩
-
-Former parliamentarian Namal Rajapaksa has challenged President Anura Kumara Dissanayake to prove the allegation that the Rajapakse regime has hidden billions of dollars in Uganda and other countries.
-
-Responding to a video of Dissanayake during the presidential campaign, Namal and his delegation have been claiming that public funds have been stolen for years.
-
-“President Anuragumara Dissanayake and his group have been accusing us of hiding billions of dollars in Uganda and various countries for many years.
-
-President Anura Kumara Dissanayake has time to prove his allegations, ”Rajapakse posted on the 'X' site.
-
-◼️
-
-[Data](articles/97d52a72.json)
-
-[Extended Data](ext_articles/97d52a72.ext.json)
-
----
-
-### Dates for the release of water for Maha season
-
-*2024-10-02 14:26:37* · [`adalk`](https://www.ada.lk/breaking_news/මහ-කන්නය-සඳහ-ජලය-නිකුත්-කිරීම-සඳහා-දින-නියම-කරයි/11-412273) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Ministry of Agriculture announces water release dates for Maha season: Water will be issued starting from the 15th. Note: There is a water shortage."
-
-🟩
-
-The Ministry of Agriculture said that the issuance of water for the Mahakan this year will be released from the 15th.
-
-The Ministry said that there is a water destruction.
-
-◼️
-
-[Data](articles/b3744a79.json)
-
-[Extended Data](ext_articles/b3744a79.ext.json)
-
----
-
-### Notice of Sri Lankans in Israel
-
-*2024-10-02 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201763) · `si`
-
-Sri Lankan embassy warns citizens in Israel due to Iran's missile attacks. Ambassador reports no casualties among Sri Lankans. Israel destroys many incoming missiles.
-
-🟩
-
-As Iran is targeting Israel, the Sri Lankan embassy informed all Sri Lankans in Israel to stay in a safe place in Israel.
-
-Meanwhile, the Sri Lankan Embassy of Sri Lanka in Israel had informed Sri Lankans in Israel to have essential foods and drugs.
-
-Sri Lanka Ambassador, Sri Lanka's Ambassador Nimal Bandara, says that Sri Lankans have not reported to Sri Lankans have been reported from Iranian attacks.
-
-Iran launched a huge missile attack on Israel yesterday night.
-
-Israel was able to destroy many missiles to destroy a number of missiles by Israel in Israel.
-
-Iran was served yesterday (01) to launch a series of massaves to Israel with continuous air and ground attacks on the Gaza.
-
-The target of those attacks was the selected military prospects in the crowded Tel Aviva capital, Jerusalema and Hifa.
-
-◼️
-
-[Data](articles/27c2fd01.json)
-
-[Extended Data](ext_articles/27c2fd01.ext.json)
-
----
-
-### Australia assures support for Sri Lanka’s IMF program
-
-*2024-10-02 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102400/australia-assures-support-for-sri-lankas-imf-program) · `en`
-
-The High Commissioner of Australia to Sri Lanka, Paul Stephens, held a courtesy meeting with President Anura Kumara Dissanayake this morning (02) at the Presidential Secretariat in Colombo.
-
-During the discussion, the High Commissioner extended his warmest congratulations to President Dissanayake and the Government of Australia on his recent election, expressing the Australian Government’s strong commitment to deepening ties with Sri Lanka, the President’s Media Division (PMD) said.
-
-The Australian government reassured its support in key areas, including maritime safety, border control, and counter-terrorism efforts, the statement said.
-
-High Commissioner Stephens emphasized Australia’s commitment to supporting Sri Lanka’s IMF program and expressed a strong interest in promoting Foreign Direct Investments (FDIs) in the country.
-
-He also highlighted the importance of maintaining economic transparency as a crucial element for fostering investor confidence, the PMD said.
-
-◼️
-
-[Data](articles/1f37f1a8.json)
-
-[Extended Data](ext_articles/1f37f1a8.ext.json)
-
----
-
-### Don't go to Iran
-
-*2024-10-02 14:14:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானுக்கு-செல்ல-வேண்டாம்/50-344811) · `ta`
-
-India advises against travel to Iran due to rising security concerns. Ministry urges vigilance for Indian citizens in Iran and contact with embassy. Israeli Prime Minister warns Iran will face consequences over missile attacks.
-
-🟩
-
-The Ministry of Foreign Affairs of India has said that Indians are traveling to Iran, one of the Middle East countries.
-
-In a statement issued by the Ministry, he said, “We have been watching the rising security environment in Iran recently. Considering that, we urge the Indian citizens to avoid traveling there.
-
-Also, we urge Indians in Iran to be vigilant on security. We also ask the Indian people living in Tehran in contact with the Indian Embassy. ”
-
-Israeli Prime Minister Netanyahu has warned that the country will pay the price, while Iran fired hundreds of missiles towards Israel.. The Indian Foreign Ministry said this.
-
-◼️
-
-[Data](articles/c40b3ad9.json)
-
-[Extended Data](ext_articles/c40b3ad9.ext.json)
-
----
-
-### Oil prices jump more than 2% as Middle East tensions escalate
-
-*2024-10-02 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102399/oil-prices-jump-more-than-2-as-middle-east-tensions-escalate) · `en`
-
-Oil prices climbed more than 2% on Wednesday on rising concerns that Middle East tensions could escalate, potentially disrupting crude output from the region, following Iran’s biggest ever military blow against Israel.
-
-Brent futures leapt $1.63, or 2.2%, to $75.19 a barrel, while U.S. West Texas Intermediate (WTI) crude spiked $1.70, or 2.4%, to $71.53 at 0755 GMT. WTI had earlier risen more than $2.
-
-Both crude benchmarks on Tuesday surged more than 5% before closing around 2.5% higher.
-
-Iran said early on Wednesday that its missile attack on Israel was over barring further provocation, while Israel and the U.S. promised to strike back against Tehran as fears of a wider war intensified.
-
-“This could include damaging or obliterating Iran’s oil facilities,” said Tamas Varga of oil broker PVM.
-
-Tehran said any Israeli response to the attack, which Israel said involved more than 180 ballistic missiles, would be met with “vast destruction”.
-
-...
-
-[Data](articles/fb08480b.json)
-
-[Extended Data](ext_articles/fb08480b.ext.json)
-
----
-
-### Middle East fire on Iran again
-
-*2024-10-02 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201762) · `si`
-
-Iran launches missile attacks on Israel, targeting Tel Aviv, Jerusalem, Haifa. Israel destroys many missiles. Palestinians killed in West Bank. US assists defense. Iran claims retaliation for Hezbollah leader's death. Netanyahu vows severe response.
-
-🟩
-
-Iran has been attacked Israel yesterday (01).
-
-Israel was able to destroy many missiles to destroy a number of missiles by Israel in Israel.
-
-Iran was served yesterday (01) to launch a series of massaves to Israel with continuous air and ground attacks on the Gaza.
-
-The target of those attacks was the selected military prospects in the crowded Tel Aviva capital, Jerusalema and Hifa.
-
-According to foreign reports, the number of missiles were nearing 180.
-
-Israeli people were sent to safe places in parallel to the attacks and had destroyed many missiles in Israel.
-
-Meanwhile, Americans have also helped to suppress the missile attack.
-
-However, a few missiles were successful and a Palestinian inhabitants had died in a western bank.
-
-It is also reported that an Israeli military base and a school in central Israel and a restaurant in Tel Avavi have also been assaulted.
-
-With the commencement of the missile strikes, Tehran people descended and shouted for joy and shouting to shout the Iranian attack.
-
-...
-
-[Data](articles/c0438e81.json)
-
-[Extended Data](ext_articles/c0438e81.ext.json)
-
----
-
-### At first came the warning reports on Iran's attack - and then heard the noise of the missiles intercepting - the BBC about the situation in Israel
-
-*2024-10-02 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195305) · `ta`
-
-Israel under missile threat: Iran launches attack, Israelis seek shelter. Military intercepts missiles, causing loud noises. Public warned via SMS to stay in safe areas. Reports of explosions and smoke. Fears of escalation as Israeli forces enter Lebanon.
-
-🟩
-
-According to the Israeli time, the text message came to everyone's mobile phones.
-
-The SMS warned, "You should all go to the area that was declared a safe place and stay there until the announcement."
-
-The message was sent by the Central Command Faculty of the Israeli Army's Internal Security Force. It referred to the life -saving instructions.
-
-When the missiles were launched from Iran to Israel, people went to safe rooms.
-
-Once the hazard began to sound, we went to a safe place in the BBC's Jerusalem Bureau.
-
-We often heard the massive noise caused by the missiles and the sound of Israel's loss.
-
-Videos posted on social media have shown light caused by missiles.. Videos have also shown the smoke zones caused by the intercept or explosion.
-
-The Israeli military issued a report that they would interrupt the missiles at 8 pm and asked the public to remain in safe places.
-
-The Israeli military said, "The sounds you hear are caused by interrupted missiles."
-
-...
-
-[Data](articles/a9e1407e.json)
-
-[Extended Data](ext_articles/a9e1407e.ext.json)
 
 ---

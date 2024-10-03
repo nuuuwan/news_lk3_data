@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 18:21:20**
+As of **2024-10-03 18:34:27**
 
 ## Newspaper Stats
 
-*Scraped **47,607** Articles*
+*Scraped **47,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
-adalk | 4,402
+adalk | 4,405
 dailymirrorlk | 4,733
 adaderanalk | 5,601
-tamilmirrorlk | 6,416
-virakesarilk | 7,612
+tamilmirrorlk | 6,418
+virakesarilk | 7,616
 adaderanasinhalalk | 8,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,607 (100.0%) of 47,607 articles have been extended.
+47,616 (100.0%) of 47,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### “The report is worried about lost”
+
+*2024-10-03 17:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-தொலைந்தது-கவலையளிக்கிறது/175-344878) · `ta`
+
+Sri Lanka PAP calls for investigation into missing Easter Sunday attack report. Government urged to locate and release PCOI findings.
+
+🟩
+
+The Sri Lanka Peoples Freedom Alliance (PAP) Namal Rajapakse has called on the government to investigate the disappearance of the Presidential Investigation Commission (PCOI) report on Sunday attacks on Easter Sunday 2019.
+
+Gamini Fernando, Director of the Colombo High Commission, Aruttand, has announced that Gamini Fernando has announced that the UK's Channel 4 allegations have not been investigated regarding the attacks.
+
+“It is worrying that the Presidential Commission's report on the investigation of Easter Sunday attacks has disappeared. If it is true, the government should immediately explore its location and make it known to the public, ”he said.
+
+◼️
+
+[Data](articles/a0a117c3.json)
+
+[Extended Data](ext_articles/a0a117c3.ext.json)
+
+---
 
 ### A subsidy of Rs.25000 for farmers
 
@@ -53,6 +75,30 @@ Therefore, there is no restriction on providing fertilizer subsidy, he said.
 [Data](articles/6254963f.json)
 
 [Extended Data](ext_articles/6254963f.ext.json)
+
+---
+
+### Rs. 25,000 subsidy to farmers
+
+*2024-10-03 17:36:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளுக்கு-ரூ-25-000-மானியம்/175-344877) · `ta`
+
+President Anura Kumara Dissanayake announces Rs. 25,000 subsidy for farmers. Secretary says QR Index system for fertilizer purchase will be implemented soon. No restrictions on fertilizer subsidy distribution.
+
+🟩
+
+Secretary to the Ministry of Agriculture
+
+The resolution was reached during a discussion with President Anura Kumara Dissanayake today.
+
+“The President visited the Ministry of Agriculture this morning and went to review with the authorities. Farmers advised to implement the QR Index system for the purchase of fertilizer, obtaining the necessary information. Once it is completed, the amount will be implemented by the banking system, ”the secretary said.
+
+Therefore, there is no restriction on providing fertilizer subsidy, he said.
+
+◼️
+
+[Data](articles/7badbaba.json)
+
+[Extended Data](ext_articles/7badbaba.ext.json)
 
 ---
 
@@ -109,6 +155,204 @@ The teachers of the Technical College say that the charmic car technique is a st
 [Data](articles/935ffc66.json)
 
 [Extended Data](ext_articles/935ffc66.ext.json)
+
+---
+
+### Plantation Society's Rights and Challenges by Social and Economic Development Center
+
+*2024-10-03 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195417) · `ta`
+
+Social and Economic Development Center study on plantation communities in Sri Lanka highlights rights, challenges, and cultural identity. Event attended by legal and diplomatic figures discusses future prospects and issues faced by vulnerable communities.
+
+🟩
+
+The Social and Economic Development Center of the Catholic Catholic Bishops Council, which works for the well -being of the vulnerable communities nationwide, is' detailed under two topics, 'the right, problems, challenges and future marks of the plantation community in Sri Lanka' and 'the culture and identity of the plantation communities in Sri Lanka'.Has conducted a study.
+
+The documentary launch event on the study was held at the Social and Economic Development Center in Colombo 8 yesterday under the theme 'Dawn of the Plantation Community'.
+
+The event was chaired by the National Director of the Social and Economic Development Center, Luke Nelson Perera, and the special guests were Supreme Court Justice S. Turarajah and the Ambassador to Sri Lanka, Dr. Bryn Udaiku.
+
+The study was based on the districts of Nuwara Eliya, Kandy, Matale, Kegalle, Ratnapura, Kalutara, Galle and Colombo.
+
+In this regard, the Tambapanni Green Edge Private Edge Private Estate Advisor Dr. WG Somatna explained.
+
+...
+
+[Data](articles/0edc73ba.json)
+
+[Extended Data](ext_articles/0edc73ba.ext.json)
+
+---
+
+### State officials do not question the media
+
+*2024-10-03 17:19:34* · [`adalk`](https://www.ada.lk/breaking_news/මින්-ඉදිරියට-මාධ්‍ය-ඉදිරියේ-රාජ්‍ය-නිලධාරීන්-ප්‍රශ්න-කරන්නේ-නෑ/11-412293) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake emphasizes efficient public service, criticizes media questioning officials, vows no political retaliation against civil servants.
+
+🟩
+
+The public servants who are dedicated to the creation of an efficient populist public service
+
+- President assumes duties as Minister of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources
+
+President Anura Kumara Dissanayake said that he appeared for public servants who are dedicated to the creation of an efficient populist public service.
+
+The President added that the proportional traditional political retaliations will not be faced with the government officials who work on behalf of the citizen.
+
+President Anura Kumara Dissanayake made this statement at the discussion with the Ministry officials following the Ministry of Agriculture today (03) as the Minister of Agriculture at the Ministry of Agriculture this morning.
+
+President Anura Kumara Dissanayake was also discussed at length with the current status and the present position of the Ministry of Agriculture.
+
+...
+
+[Data](articles/761f6def.json)
+
+[Extended Data](ext_articles/761f6def.ext.json)
+
+---
+
+### Ajith Kumar starrer 'Good Bad Bad Ugly'
+
+*2024-10-03 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/195396) · `ta`
+
+Ajith Kumar stars in "Good Bad Bad Agli" alongside Trisha and Sunil. Directed by Adik Ravichandran, produced by Maithri Movie Makers. Shooting complete, releasing next year on Pongal.
+
+🟩
+
+New information has been released about the movie 'Good Bad Bad Agli' starring Ajith Kumar.
+
+Ajith Kumar, Trisha and Sunil are starring in the upcoming film 'Good Bad Bad Agli' directed by director Adik Ravichandran.
+
+Actor Prasanna has confirmed this on his social network.He has also said that he is eagerly waiting for Ajit Kumar to work with the shooting site.
+
+The film, which is being recorded by Abhinandan Ramanujam, is composed by Devi Sri Devi Sri Prasad.
+
+The film was made on behalf of Maithri Movie Makers Company Producers Naveen Jenernie. Ravi Shankar is co -produced.
+
+The shooting of the film has been completed and the shoot is currently underway in Hyderabad.
+
+The film crew has also said that actor Prasanna is internet. Fans are excited because Prasanna is associated with Ajith Kumar.
+
+...
+
+[Data](articles/798dab00.json)
+
+[Extended Data](ext_articles/798dab00.ext.json)
+
+---
+
+### Vimal - Suri Alliance
+
+*2024-10-03 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195395) · `ta`
+
+Actor Vimal and Surya join "Badava" film, releasing this month. Directed by Nanda, produced by John Peter. Their previous collaborations "Pokalam" and "Sir" were successful.
+
+🟩
+
+Actor Vimal and Surya, who are progressing in the market value of the Tamil film industry, have joined the film 'Badava', which will be released in the film mansion this month.
+
+Director K. V.. Vimal, Suri, Garuda Ram, Devadarshini and many others have starred in the film 'Badava' directed by Nanda.
+
+The film was produced by composer John Peter on behalf of J Studios International.
+
+The film crew said that the film is scheduled to be released this month and the official announcement of the release date will be made soon.
+
+Meanwhile, two films 'Pokalam' and 'Sir', which has been released this year, and 'Garuda' and 'Kottukkali' in Suri's upcoming film 'Pokkam' and 'Sir', and 'Kottukkali' have been critical and commercially successful, and the two are co -starring together.It is noteworthy that the film 'Badawa' has a huge welcome among the filmmakers.
+
+◼️
+
+[Data](articles/fcea6bfc.json)
+
+[Extended Data](ext_articles/fcea6bfc.ext.json)
+
+---
+
+### Farmers' Victims in Nuwara Eliya
+
+*2024-10-03 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195411) · `ta`
+
+Vegetable prices drop in Nuwara Eliya; farmers concerned about losses despite increased supply.
+
+🟩
+
+The prices of vegetables at the Nuwara Eliya Economic Center have been reduced today (03) compared to the recent vegetable prices in Nuwara Eliya.. Traders report that prices have declined as the amount of vegetables has increased.
+
+Nuwara Eliya is one of the most produced vegetable districts in the country, and today, the prices of vegetables are abandoned by an unexpected fall.
+
+Most people in Nuwara Eliya only rely on agriculture. This is why they have cultivated vegetables like the carrot leeks.
+
+Five months ago, history was rapidly increased and a kilo was purchased for 1800 rupees and sold for 2000 rupees.
+
+Currently, the total price of a kilo of bear has fallen from Rs 70 to 80 rupees and the price of bear in the market has been reduced.
+
+Farmers are worried that they have suffered a huge loss in the gardens of many carriers this time.
+
+Despite the change in the price of vegetables, there have been no changes in antiseptic, daily wages and pastels.
+
+...
+
+[Data](articles/aae8e1c1.json)
+
+[Extended Data](ext_articles/aae8e1c1.ext.json)
+
+---
+
+### Dhamma Sirisena leaves Dilith
+
+*2024-10-03 17:03:29* · [`adalk`](https://www.ada.lk/breaking_news/දහම්-සිරිසේන-දිලිත්ට-හේත්තු-වෙයි/11-412292) · `si`
+
+Dhamma Sirisena joins Motherland People's Party, becomes Polonnaruwa district organizer. Slice Sirisena named Dilith organizer. Former MP Rajakira Wickremasinghe appointed Minister and Dedigama organizer.
+
+🟩
+
+Slice Sirisena, son of former MP Rajaka Wickremasinghe and former President Maithripala Sirisena, joined the Motherland People's Party today (03). It was in the country headquarters in Colombo.
+
+Former MP Rajakira Wickremasinghe was appointed as the Minister of National Mahinda Rajapaksa and Dedigama organizer.
+
+The Daham Sirisena has been appointed as the party organizer of the people of the Polonnaruwa district.
+
+◼️
+
+[Data](articles/617043c2.json)
+
+[Extended Data](ext_articles/617043c2.ext.json)
+
+---
+
+### What happened to the lowland vegetables
+
+*2024-10-03 16:46:50* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-එළවළු-පහතරට-වැවීමෙන්-සිදුවූ-දේ/11-412291) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Lowland farmers struggle due to lack of subsidies. Carrots, cabbage, and other vegetables face challenges. Hybrid seeds impact crop yields and pricing. Government seeks solutions to support local agriculture.
+
+🟩
+
+Due to the low country farmers, carrots, cabbage and brietor, which is unbreakable in the presence of the cultivation, the Kandyan Farmers murmurus are murmured.
+
+No subsidy will give farmers to the farmer vegetable farmers, but we can't cultivate paddy in Nuwara Eliya area, such as vegetables, carrots, cabbage, leeks.
+
+The farmers in the lowland areas, including Welimada, growing vegetables that we have unique without growing the fertilizer subsidy of the fertilizer is to help our vegetables unable to get a fixed price.
+
+The seeds of good quality of the people of Nuwara Eliya have grown only in Nuwara Eliya and now the hybrid seeds are around, hybrid seeds.
+
+This will cause serious damage, because the prices of the vegetables are rapidly collapsing, but it is possible to buy rice to buy rice to buy the rice abroad for consumption.
+
+Purchasing a kilo of rice is an expression of a tragic to Nuwara Eliya, Nuwara Eliya.
+
+...
+
+[Data](articles/60ce1b52.json)
+
+[Extended Data](ext_articles/60ce1b52.ext.json)
 
 ---
 
@@ -2289,215 +2533,5 @@ Executive Director of Alcohol and Drugs Center, said that the government request
 [Data](articles/261e4b6a.json)
 
 [Extended Data](ext_articles/261e4b6a.ext.json)
-
----
-
-### Gas Cylinder arrives in general election
-
-*2024-10-03 07:24:59* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයට-ගෑස්-සිලින්ඩරයෙන්-එන-කණ්ඩායම/11-412281) · `si`
-
-UNP Deputy Leader Ruwan Wijewardene announces party's participation in upcoming general election. Decision made during special meeting at UNP office. UNP to contest alongside SLFP and other parties.
-
-🟩
-
-UNP Deputy Leader Ruwan Wijewardene said that the UNP Working Committee agreed to compete in the next general election.
-
-Discussions held discussions on the next election at the working committee of the Working Committee on the Working Committee on the Working Committee yesterday (UTDA).
-
-Ruwan Wijewardene has decided to contest the general election with the UNP and the Sri Lanka Freedom Party team and other parties including the UNP.Mentioned.
-
-Several special meetings were held to discuss the general election.
-
-The decision has been taken at the meeting held at the UNP office on Flower Road, former president, UNP leader Ranil Wickremesinghe.
-
-The two parties including the UNP's district leaders, organizers and managing managing were present.
-
-◼️
-
-[Data](articles/a61b7c15.json)
-
-[Extended Data](ext_articles/a61b7c15.ext.json)
-
----
-
-### IMF. Discussions between the new government begin
-
-*2024-10-03 07:13:49* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--හා-නව-රජය-අතර-සාකච්ඡා-ඇරඹෙයි/11-412279) · `si`
-
-IMF discusses future program with Sri Lanka's new government. Focuses on program progress and $2.9 billion installment. Meeting held at Presidential Secretariat. IMF praises Sri Lanka's commitment to economic stability. Key officials from both sides attend.
-
-🟩
-
-The International Monetary Fund (IMF) visited the International Monetary Fund (IMF) to look into the future program led by President Anura Kumara Dissanayake.
-
-The objective of this visit is to hold discussions on the progress of the IMF program and the fourth premium of Rs. 2.9 billion.
-
-Accordingly, the new government and the new government have appointed to the EMF talks held at the Presidential Secretariat yesterday after a meeting.
-
-The International Monetary Fund and Sri Lanka have been conducted by the two parties.
-
-The International Monetary Fund representatives were praised by the current government under the present government, raising the positive attitude of Sri Lanka and marked the commitment of Sri Lanka's commitment to economic stability and the continued support of the International Monetary Fund.
-
-...
-
-[Data](articles/f84c5720.json)
-
-[Extended Data](ext_articles/f84c5720.ext.json)
-
----
-
-### New Defense Secretary meets security heads
-
-*2024-10-03 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201788) · `si`
-
-New Defense Secretary Sampantha meets top military brass at HQ. Chiefs of Army, Navy, Air Force attend. Acting IGP joins talks. First official meeting after assuming duties.
-
-🟩
-
-Defense Secretary Pension Air Vice Marshal Sampantha Tigers met with security heads.
-
-The meeting has taken place at the Defense Headquarters yesterday (02).
-
-Chief of Defense Staff Shavendra Silva, Army Commander Lieutenant General's Vice Admiral Priyantha Perera, Army Commander of the Navy Vice Admiral Priyantha Perera, Air Force Commander of the Air Force Admiral Priyantha Perera.
-
-The acting IGP Priyantha Weerasuriya has also held a friendly discussion meeting with the defense secretary.
-
-This is the first time the Defense Secretary has met senior officials following the assume of duties.
-
-◼️
-
-[Data](articles/0195fcd7.json)
-
-[Extended Data](ext_articles/0195fcd7.ext.json)
-
----
-
-### Sri Lanka can learn from Japan’s Meiji restoration, Dodge line stabilization: envoy
-
-*2024-10-03 06:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-learn-from-japans-meiji-restoration-dodge-line-stabilization-envoy-182037/) · `en`
-
-ECONOMYNEXT – Sri Lanka can learn from Japan’s success where the country emerged from the crises stronger sometimes due to external pressure, Japan’s Ambassador to Colombo Mizukoshi Hideaki has said.
-
-Sri Lanka is currently under an International Monetary Fund program after monetary stability was lost for the umpteenth time after aggressive monetary policy, and the country went through its first sovereign default.
-
-Japan’s first phase of modernization came during the so-called ‘Meiji restoration’ in the 19th century which turned the country into a nation state with many European style institutions and ended the isolationist policies of the Tokugawa shogunate.
-
-“In 1868, Japan embarked on a dramatic transformation from a feudal society, a society run by samurais into a modern nation-state,” Ambassador Mizukoshi said according to prepared remarks delivered at the JICA Chair Special Programme this week.
-
-...
-
-[Data](articles/894e5090.json)
-
-[Extended Data](ext_articles/894e5090.ext.json)
-
----
-
-### Showers in several places
-
-*2024-10-03 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201787) · `si`
-
-Weather alert: Showers/thundershowers expected in Eastern/Uva provinces. Coastal areas may see morning showers. Public advised to prepare for wind/lightning risks.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Eastern and Uva provinces.
-
-The announcement states that showers may be in the morning in the coastal areas of the Southern and Western Provinces.
-
-They call on the public to take necessary steps to reduce temporary winds and lightning accidents.
-
-◼️
-
-[Data](articles/1bbe8525.json)
-
-[Extended Data](ext_articles/1bbe8525.ext.json)
-
----
-
-### SJS only alternative against current Govt. – Ranjith Madduma Bandara
-
-*2024-10-03 05:25:59* · [`dailyftlk`](https://www.ft.lk/news/SJS-only-alternative-against-current-Govt-Ranjith-Madduma-Bandara/56-767497) · `en`
-
-Stresses need for citizens to support the SJS, which he described as having the best experienced team
-
-Claims Sri Lanka’s recent economic collapse was a direct consequence of entrusting power to individuals without sufficient experience
-
-Urges people not to make the same mistake again and vote for SJS
-
-Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara yesterday declared that the Samagi Jana Sandhanaya (SJS), a broad coalition led by the SJB, is the only viable alternative to the current Government led by President Anura Kumara Dissanayake.
-
-Speaking at a press conference held in Colombo, Madduma Bandara stressed the need for the people to support the SJS, which he described as having the “best experienced team” capable of correcting past mistakes and leading the country towards recovery.
-
-...
-
-[Data](articles/dee3a57a.json)
-
-[Extended Data](ext_articles/dee3a57a.ext.json)
-
----
-
-### Catholic Church highlights missing report on Channel 4 allegations
-
-*2024-10-03 05:21:15* · [`dailyftlk`](https://www.ft.lk/news/Catholic-Church-highlights-missing-report-on-Channel-4-allegations/56-767496) · `en`
-
-Archdiocese of Colombo Spokesperson Rev. Father Cyril Gamini Fernando says there is no trace of the report
-
-Emphasises that the report holds critical information about those responsible for orchestrating the attacks
-
-Laments lack of political will to uncover this mastermind behind the bombings, despite evidence being available
-
-Says if this truth is found, most politicians should be in prison and sent home
-
-Archdiocese of Colombo Spokesperson Rev. Father Cyril Gamini Fernando has expressed deep concern over the missing report related to allegations made by British media outlet Channel 4 regarding the 2019 Easter Sunday terrorist attacks. The report, initially handed over to President Ranil Wickremesinghe, has since gone missing, raising questions about accountability and transparency in the investigation, Fernando said.
-
-“We were informed it was handed over to the Attorney General. However we cannot find who it was handed over to and where it is now,” he said.
-
-...
-
-[Data](articles/37b221dc.json)
-
-[Extended Data](ext_articles/37b221dc.ext.json)
-
----
-
-### Indian High Commissioner calls on President
-
-*2024-10-03 05:20:12* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commissioner-calls-on-President/56-767495) · `en`
-
-The Indian High Commissioner to Sri Lanka Santosh Jha yesterday called on President Anura Kumara Dissanayake to congratulate him on his recent election victory. The meeting took place at the Presidential Secretariat.
-
-During the meeting, High Commissioner emphasised the long-standing friendship and close proximity between India and Sri Lanka, highlighting the importance of maintaining strong bilateral ties.
-
-He expressed India’s readiness to support Sri Lanka’s development process in all possible ways and wished to see Sri Lanka emerge as a peaceful and stable nation in the region.
-
-The High Commissioner also praised the President’s anti-corruption initiatives outlined in his manifesto, particularly stressing the importance of digitalisation in Government systems to effectively combat corruption.
-
-Jha reaffirmed India’s willingness to assist Sri Lanka in implementing digitalisation measures, while underscoring the continuous stable friendship between the two neighbouring nations.
-
-◼️
-
-[Data](articles/1f7a58b9.json)
-
-[Extended Data](ext_articles/1f7a58b9.ext.json)
-
----
-
-### India’s External Affairs Minister in town tomorrow
-
-*2024-10-03 05:18:04* · [`dailyftlk`](https://www.ft.lk/news/India-s-External-Affairs-Minister-in-town-tomorrow/56-767494) · `en`
-
-Indian External Affairs Minister Dr. S. Jaishankar is expected to visit Sri Lanka tomorrow (4) and call on President Anura Kumara Dissanayake.
-
-His visit to Colombo would mark the first by any foreign diplomat after President took office on 23 September.
-
-Dr. Jaishankar’s visit will be closely watched as it will include high-level engagement between India and Sri Lanka.
-
-President Dissanayake held talks with Dr. Jaishankar and National Security Adviser Ajit Doval, during his visit to Delhi before the 2024 Presidential Election.
-
-◼️
-
-[Data](articles/a9c64607.json)
-
-[Extended Data](ext_articles/a9c64607.ext.json)
 
 ---

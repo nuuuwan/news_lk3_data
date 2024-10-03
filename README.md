@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 17:59:51**
+As of **2024-10-03 18:21:20**
 
 ## Newspaper Stats
 
-*Scraped **47,606** Articles*
+*Scraped **47,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,903
 dailyftlk | 3,209
 adalk | 4,402
 dailymirrorlk | 4,733
-adaderanalk | 5,600
+adaderanalk | 5,601
 tamilmirrorlk | 6,416
 virakesarilk | 7,612
 adaderanasinhalalk | 8,236
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,606 (100.0%) of 47,606 articles have been extended.
+47,607 (100.0%) of 47,607 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,30 @@ Therefore, there is no restriction on providing fertilizer subsidy, he said.
 [Data](articles/6254963f.json)
 
 [Extended Data](ext_articles/6254963f.ext.json)
+
+---
+
+### Israel says Hamas government chief, 2 top leaders eliminated in Gaza
+
+*2024-10-03 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102424/israel-says-hamas-government-chief-2-top-leaders-eliminated-in-gaza) · `en`
+
+The Israeli military on Thursday said a strike three months ago killed three senior Hamas leaders in Gaza, where the army has been battling the Palestinian operatives for nearly a year.
+
+The military said the strike killed Rawhi Mushtaha, the head of the Hamas government in the Gaza Strip, and Sameh al-Siraj, who held the security portfolio for Hamas’s political bureau, and Sami Oudeh, a commander.
+
+“Mushtaha was one of Hamas’ most senior operatives and had a direct impact on decisions relating to Hamas’ force deployment,” said the military in a statement.
+
+The military called Mushtaha the “right-hand man” to Hamas’s top leader Yahya Sinwar.
+
+In 2015, the US State Department had designated Mushtaha as a “specially designated global terrorist”.
+
+The European Council on Foreign Relations described Mushtaha as a member of Hamas’s Gaza politburo who also oversaw its financial affairs.
+
+...
+
+[Data](articles/0e6aec76.json)
+
+[Extended Data](ext_articles/0e6aec76.ext.json)
 
 ---
 
@@ -2475,27 +2499,5 @@ President Dissanayake held talks with Dr. Jaishankar and National Security Advis
 [Data](articles/a9c64607.json)
 
 [Extended Data](ext_articles/a9c64607.ext.json)
-
----
-
-### Govt. uncertain about public sector salary hike promised by previous regime
-
-*2024-10-03 05:15:19* · [`dailyftlk`](https://www.ft.lk/news/Govt-uncertain-about-public-sector-salary-hike-promised-by-previous-regime/56-767493) · `en`
-
-The incumbent Government yesterday announced that it remains uncertain whether it can fulfil the salary increment promised by the previous administration, set for January 2025.
-
-“We understand that public sector salaries need to be adjusted to reflect the rising cost of living. However, we cannot yet confirm whether the financial capacity exists to implement the salary hike from 1 January 2025, as planned by the former administration,” Cabinet Spokesman and Minister Vijitha Herath said at the post-Cabinet meeting media briefing yesterday.
-
-He explained that the decision on salary increments would be made during the formulation of the 2025 Budget.
-
-“We agree in principle that public sector wages should be increased, but the mechanism and feasibility will only be determined through the budgetary process,” he added.
-
-Herath assured that the new Government is committed to fulfilling the needs of the people, though these aspirations would be realised gradually.
-
-...
-
-[Data](articles/84a8b405.json)
-
-[Extended Data](ext_articles/84a8b405.ext.json)
 
 ---

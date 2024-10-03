@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 14:12:09**
+As of **2024-10-03 14:38:42**
 
 ## Newspaper Stats
 
-*Scraped **47,577** Articles*
+*Scraped **47,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,143 @@ dailyftlk | 3,209
 adalk | 4,399
 dailymirrorlk | 4,733
 adaderanalk | 5,596
-tamilmirrorlk | 6,406
+tamilmirrorlk | 6,409
 virakesarilk | 7,607
-adaderanasinhalalk | 8,229
+adaderanasinhalalk | 8,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,577 (100.0%) of 47,577 articles have been extended.
+47,582 (100.0%) of 47,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Prison for former minister
+
+*2024-10-03 14:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-அமைச்சருக்கு-சிறை/50-344870) · `ta`
+
+Former Singapore minister sentenced 300,000 SGD for bribery. Lost position after allegations. Investigation led to 12-month prison term. Corruption lawsuit filed earlier.
+
+🟩
+
+The former minister has been sentenced to over 300,000 Singapore dollars from seven businessmen who are considered to be close friends.
+
+Eswaran, a Singapore cabinet minister for 13 years. Eswaran was the Minister of Trade, Communication and Transportation. Based on these allegations, he lost his post.
+
+There are several bribery allegations, and an investigation was sentenced to 12 months in prison.
+
+Earlier a lawsuit was filed against Ishwaran in court for corruption and bribery.
+
+◼️
+
+[Data](articles/b611eca3.json)
+
+[Extended Data](ext_articles/b611eca3.ext.json)
+
+---
+
+### Dhamma Sirisena and Rajaika Wickremasinghe to the People's Party
+
+*2024-10-03 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201807) · `si`
+
+Rajaika Wickremasinghe joins UNP, becomes Gampaha District organizer. Dhamma Sirisena named Polonnaruwa district party organizer. Other appointments made in Kandy and Kegalle districts.
+
+🟩
+
+Former MP Rajakiri Wickremasinghe and Dhamma Sirisena joined the UNP today (03).
+
+Former Parliamentarian Rajaika Wickremasinghe from the National List representing the Sri Lanka Civil Front was appointed as the Gampaha District and Dedigama organizer in Kegalle.
+
+The Sirisena, son of former President Maithripala Sirisena, has been appointed as the party organizer of the Polonnaruwa district.
+
+Meanwhile, Chamindu Kumarasinghe has been appointed as the Polonnaruwa District District and the Udunuwara organizer for Kandy, Janasila Premasiri Kandy.
+
+Thakshila Seneviratne, Kandy, Yatinuwara organizer, was appointed as the Ratgama organizer of Kandy, Yasinuwara organizer.
+
+◼️
+
+[Data](articles/e3adb5a3.json)
+
+[Extended Data](ext_articles/e3adb5a3.ext.json)
+
+---
+
+### Information regarding Sri Lankans
+
+*2024-10-03 14:05:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்-தொடர்பில்-வெளியான-தகவல்/175-344869) · `ta`
+
+Sri Lanka: No major impact reported. Embassy in Beirut maintains contact with registered citizens, provides assistance. Some individuals trapped in Lebanon remain affected.
+
+🟩
+
+Except for some Sri Lankans trapped in Lebanon, none of the Sri Lankans have been affected yet, the Foreign Ministry said.
+
+The Ministry said that the Sri Lankan embassy in Beirut continues to maintain contact with individual Sri Lankans registered at the embassy.
+
+The Ministry has stated that the Sri Lankan Embassy in Beirut is providing necessary assistance.
+
+◼️
+
+[Data](articles/7118e672.json)
+
+[Extended Data](ext_articles/7118e672.ext.json)
+
+---
+
+### Highseat gazette leaving
+
+*2024-10-03 14:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-344868) · `ta`
+
+Central Bank cancels pensions for governors effective Sept 11, 2024. Gazette states payments suspended, future claims rejected.
+
+🟩
+
+The Central Bank has issued a high -level gazette that will cancel the pension benefits of the central bank governors from September 11, 2024.
+
+The gazette issued by the Governor of the Central Bank Nandalal Weerasinghe said the pension payments would be suspended from 11.09.2024 to a person appointed as Governor and that the demands for pension payments would not be accepted by the Central Bank of Sri Lanka after 11.09.2024.
+
+◼️
+
+[Data](articles/4d19b515.json)
+
+[Extended Data](ext_articles/4d19b515.ext.json)
+
+---
+
+### A group of police officers apologize to the Supreme Court
+
+*2024-10-03 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201806) · `si`
+
+Police officers apologize Supreme Court interrogation lawyer rights violation
+
+🟩
+
+A group of police officers had to apologize to the petitioner today to question the Supreme Court today to interrogate a lawyer in the road.
+
+This apology was taken by a fundamental rights petition filed by Selvaraj Raj Rajipaidi, a resident of Kalutara.
+
+The petition was called before the Supreme Court Bench, the Supreme Court Bench, the Supreme Court Bench, who enjoys rejoicing today.
+
+The incident was forgiven, Police Sergeant, Premaratne Dissanayake, Premaratne Police Constables, Ratnasiri, Senadhira and Nanasikkara.
+
+The petitioner claims that he returned to the Negombo Magistrate on January 16, and a group of civilian dresses from motorbikes arrived in motorbikes.
+
+The petitioner stated that the group was tested by the civilian dress, which was said to be "from the police," he tested his right hand and handcuffed them.
+
+The petitioner said that the group left the group, "not ...
+
+The petitioner stated that these officials have confirmed that the group attached to the Negombo Police.
+
+...
+
+[Data](articles/857f289e.json)
+
+[Extended Data](ext_articles/857f289e.ext.json)
+
+---
 
 ### The President took over the duties of the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources
 
@@ -2289,91 +2413,5 @@ The National People’s Power (NPP) Government inherited an administrative appoi
 [Data](articles/fab0b662.json)
 
 [Extended Data](ext_articles/fab0b662.ext.json)
-
----
-
-### AIA’s Director of Group Healthcare, Dr. Christian Wards, speaks at Sri Lanka International Insurance Summit 2024
-
-*2024-10-02 22:40:00* · [`islandlk`](http://island.lk/aias-director-of-group-healthcare-dr-christian-wards-speaks-at-sri-lanka-international-insurance-summit-2024/) · `en`
-
-Dr. Christian Wards, AIA’s Director of Group Healthcare, recently addressed the Sri Lanka International Insurance Summit 2024, held at Shangri-La Colombo. The summit, themed ‘Insurer’s Role in Challenging Economic Dynamics,’ brought together global industry leaders, policymakers and experts to explore the evolving role of insurers in today’s complex economic environment.
-
-Dr. Wards, who has over 25 years of international experience in healthcare, including health insurance, healthcare provision and health services, shared his valuable insights on “The Future of Medical Insurance with Emerging Regional Trends and Digital Adoption.” His presentation highlighted key trends transforming the industry, including the shift towards value-based healthcare, the growing importance of digital solutions and analytic insights in improving health risk management, and the integration of health insurance with healthcare provision to deliver enhanced customer experiences.
-
-...
-
-[Data](articles/fc983b18.json)
-
-[Extended Data](ext_articles/fc983b18.ext.json)
-
----
-
-### ‘Your dream home awaits with Pan Asia Bank’
-
-*2024-10-02 22:39:00* · [`islandlk`](http://island.lk/your-dream-home-awaits-with-pan-asia-bank/) · `en`
-
-Pan Asia Bank is transforming the path to homeownership by offering customers more than just a loan – we deliver innovative, tailored solutions that make securing a home easier than ever. In response to rising energy costs and the demands of modern living, Pan Asia Bank offers a unique housing loan package that includes an additional benefit: the option to incorporate solar panel installation into the loan. Customers can now bundle their home loan with a solar energy loan, reducing long-term energy costs while investing in a more sustainable lifestyle.
-
-...
-
-[Data](articles/4f3f3913.json)
-
-[Extended Data](ext_articles/4f3f3913.ext.json)
-
----
-
-### iPay joins LankaPay’s ‘JustPay Web’
-
-*2024-10-02 22:38:00* · [`islandlk`](http://island.lk/ipay-joins-lankapays-justpay-web/) · `en`
-
-Marking a significant advancement in Sri Lanka’s digital payment ecosystem, iPay – Sri Lanka’s leading digital payment solution, has integrated with JustPay Web, a cutting-edge online payment platform developed by LankaPay. This feature enablement signifies a new chapter in the evolution of online payments, offering customers of any bank the option to pay seamlessly, securely and in real time, by making direct payments via their bank accounts.
-
-...
-
-[Data](articles/344144fd.json)
-
-[Extended Data](ext_articles/344144fd.ext.json)
-
----
-
-### AA celebrates Children’s Day
-
-*2024-10-02 22:37:00* · [`islandlk`](http://island.lk/aa-celebrates-childrens-day/) · `en`
-
-HELMET – IF YOU LOVE. UN/ FIA Road Safety Programme was conducted at Science College, Templers Road, Mt. Lavinia to educate children, parents, teachers and motorcyclists on the importance of children wearing Helmets. The event was organized by LOLC in collaboration with the Traffic Police, Mt. Lavinia and City Traffic, Colombo. Children who were wearing helmets and dropped by the parents were given a cash award and a selected few children who were not wearing helmets were given brand new helmets in the HELMET – IF YOU LOVE PROGRAMME. The Mt. Lavinia Police, the principal and teachers of Science College helped to make this event a success.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/93d35af6.json)
-
-[Extended Data](ext_articles/93d35af6.ext.json)
-
----
-
-### Suspect arrested with drug
-
-*2024-10-02 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201785) · `si`
-
-Welipenna Police arrest suspect with 900g ice drugs. Suspect linked to Ahungalle Sanjeewa Sanjeewa, accused of distributing drugs in Welipenara, Aluthgama, and along the Southern Expressway.
-
-🟩
-
-The Welipenna Police have arrested a follower of Ahungalle Sanjeewa Sanjeewa.
-
-The suspect was arrested in the Welipenuwa Kalape area of ​​the Welipenara Kalalla, Welipenara Kalalla.
-
-It is reported that nearly 900 grams of ice drugs in his possession have been recovered.
-
-Interviews from the suspect is a leading drug dealer who is hiding in a foreign country to the Ice drug, Ahungalla dealer in a foreign country to various people, as well as the ice drug dealer in Aluthgama, Welipenu, and Welipenuwe Southern Expressway as well as the Welipenuwewa areas.It is available.
-
-◼️
-
-[Data](articles/282e0da9.json)
-
-[Extended Data](ext_articles/282e0da9.ext.json)
 
 ---

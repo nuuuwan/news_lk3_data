@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 09:58:42**
+As of **2024-10-03 10:12:30**
 
 ## Newspaper Stats
 
-*Scraped **47,524** Articles*
+*Scraped **47,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ colombotelegraphcom | 473
 islandlk | 2,796
 economynextcom | 2,899
 dailyftlk | 3,209
-adalk | 4,393
+adalk | 4,394
 dailymirrorlk | 4,733
 adaderanalk | 5,587
 tamilmirrorlk | 6,396
 virakesarilk | 7,595
-adaderanasinhalalk | 8,218
+adaderanasinhalalk | 8,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,524 (100.0%) of 47,524 articles have been extended.
+47,527 (100.0%) of 47,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### A growth of children between 5 and 12 years of teeth
+
+*2024-10-03 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201794) · `si`
+
+Children's dental health improves, but issues persist. Experts warn about rising fungal infections linked to diabetes control. Proper hygiene and diet crucial for overall health.
+
+🟩
+
+The number of dental measures of children aged 5 to 12 years have increased.
+
+Prof. Dilith de Silva said that Professor Dilee de Silva said that the oral health of children should be paid to the oral health of the University of Peradeniya.
+
+Professor Dileep de Silva made this statement participating at a function in Kandy.
+
+"There are oral surveys for 10 in 10 years. This is one last. New One 2024 - 2025 started these days. Thus the disease is 63% of the 5-year children. That means 63 people have oral holes of teeth if you take 100 kids. If you take 10 kids, there are 6. The 12-year-old we need to be less. This is 63% if you pour 55% before school. Message One. Brush teeth twice, twice, cold. Teach the whole day and reduce sweetness foods. Easy, if sweetened food is restricted to a major meal. "
+
+Meanwhile, Dr. Paryali Jayasekara says that the rise in black split patients in the country will increase the increase in black disorders.
+
+...
+
+[Data](articles/70ce5d88.json)
+
+[Extended Data](ext_articles/70ce5d88.ext.json)
+
+---
+
+### Man hit and killed by train
+
+*2024-10-03 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201793) · `si`
+
+Train collides with man between stations; victim dies. Train from Maradana to Hikkaduwa hits railway line. Body taken to Nagoda Sundaratmaya. Aluthgama police investigating.
+
+🟩
+
+The victim was killed after collision with a train between Hettimulla Railway Station and Aluthgama Railway Station.
+
+The train traveling from Maradana to Hikkaduwa has collided with the railway line.
+
+The remains are placed at the Nagoda Sundaratmaya and the Aluthgama Police are conducting further investigations.
+
+◼️
+
+[Data](articles/bd8ae3eb.json)
+
+[Extended Data](ext_articles/bd8ae3eb.ext.json)
+
+---
 
 ### 2 suspects arrested with foreign cigarettes in Kalmunai
 
@@ -333,6 +381,34 @@ Executive Director of Alcohol and Drugs Center, said that the government request
 [Data](articles/261e4b6a.json)
 
 [Extended Data](ext_articles/261e4b6a.ext.json)
+
+---
+
+### Gas Cylinder arrives in general election
+
+*2024-10-03 07:24:59* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයට-ගෑස්-සිලින්ඩරයෙන්-එන-කණ්ඩායම/11-412281) · `si`
+
+UNP Deputy Leader Ruwan Wijewardene announces party's participation in upcoming general election. Decision made during special meeting at UNP office. UNP to contest alongside SLFP and other parties.
+
+🟩
+
+UNP Deputy Leader Ruwan Wijewardene said that the UNP Working Committee agreed to compete in the next general election.
+
+Discussions held discussions on the next election at the working committee of the Working Committee on the Working Committee on the Working Committee yesterday (UTDA).
+
+Ruwan Wijewardene has decided to contest the general election with the UNP and the Sri Lanka Freedom Party team and other parties including the UNP.Mentioned.
+
+Several special meetings were held to discuss the general election.
+
+The decision has been taken at the meeting held at the UNP office on Flower Road, former president, UNP leader Ranil Wickremesinghe.
+
+The two parties including the UNP's district leaders, organizers and managing managing were present.
+
+◼️
+
+[Data](articles/a61b7c15.json)
+
+[Extended Data](ext_articles/a61b7c15.ext.json)
 
 ---
 
@@ -2225,83 +2301,5 @@ Top turnover generators were Sampath Bank, Commercial Bank, Hatton National Bank
 [Data](articles/1714bc82.json)
 
 [Extended Data](ext_articles/1714bc82.ext.json)
-
----
-
-### Breaking a house in Lindulai
-
-*2024-10-02 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195334) · `ta`
-
-Lindulai police arrest suspect over broken house incident involving 3-pound gold jewelry theft. Suspect identified as 30-year-old. Jewelry valued at over 600,000. Case to be presented at Nuwara Eliya District Magistrate's Court on Thursday.
-
-🟩
-
-Police have arrested a suspect in connection with a three -pound gold jewelery that broke a house on Tuesday (01) in a large queen of the Lindulai Police Division.
-
-Police said the incident took place at a time when there was no one in the house.
-
-With the help of the Nuwara Eliya Forensic Police, the fingerprint experts carried out the checked dog on the basis of a complaint lodged at the homeowner Lindula.
-
-A group of policemen who entered a house in the same area later arrested a 30 -year -old suspect and investigated him and seized the gold jewelery that was stolen from him.
-
-The value of gold jewelery recovered from the suspect is more than six lakh, police said.
-
-Police have taken steps to present the arrested suspect at the Nuwara Eliya District Magistrate's Court on Thursday (03).
-
-◼️
-
-[Data](articles/428ebb93.json)
-
-[Extended Data](ext_articles/428ebb93.ext.json)
-
----
-
-### China promises to president
-
-*2024-10-02 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201770) · `si`
-
-China supports Sri Lanka's economic stability, certifying loans and collaborating on development projects.
-
-🟩
-
-The Ambassador of the People's Republic of China, Qi Zhenhong says that Sri Lankan loans will be certified and fully supported for economic stability.
-
-He was speaking at a meeting with President Anura Kumara Dissanayake at the Presidential Secretariat this morning (02).
-
-The Ambassador has greeted his heartfelt congratulations on the presidential election.
-
-The Ambassador has said that China continues to support Sri Lanka's future and that the Government of the Chinese government has been committed to improving bilateral relations with Sri Lanka.
-
-The statement states that the Chinese Development Bank (CDB) and EXIM Bank has also emphasized the importance of collaboration projects implemented in Sri Lanka and the development work of Sri Lanka.
-
-The Ambassador has also assured President Anura Kumara Dissanayake that he will provide full support to the restructuring process of the debt commercial and bilateral loans to support Sri Lanka's economic stability and growth.
-
-◼️
-
-[Data](articles/0a5dc724.json)
-
-[Extended Data](ext_articles/0a5dc724.ext.json)
-
----
-
-### The US Embassy's Security Advisor met the Defense Secretary
-
-*2024-10-02 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195332) · `ta`
-
-US Embassy Security Advisor meets Defense Secretary in Sri Lanka. Discussion held at Security HQ. Monuments exchanged as token. US officials present: Naval Advisor, Assistant Security Advisor, Chief of Security Cooperation Office.
-
-🟩
-
-The US Embassy in Sri Lanka, Lieutenant Colonel Anthony Nelson, met with Defense Secretary Air Vice Marshal Sampath Pure Sampath (Retired) at the Security Headquarters in Sri Jayawardenapura, Fort.
-
-During the meeting, Defense Secretary Purekonda engaged in a smooth discussion with the US security adviser and exchanged monuments with him to mark the meeting.
-
-US Embassy's Naval Advisor Lieutenant Commander Jessica de Mont, Assistant Security Advisor Seth Neinson and Lieutenant Commander Shaun Jin, Chief of Security Cooperation Office, were also present.
-
-◼️
-
-[Data](articles/19e40d81.json)
-
-[Extended Data](ext_articles/19e40d81.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 14:38:42**
+As of **2024-10-03 14:57:54**
 
 ## Newspaper Stats
 
-*Scraped **47,582** Articles*
+*Scraped **47,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,903
 dailyftlk | 3,209
 adalk | 4,399
 dailymirrorlk | 4,733
-adaderanalk | 5,596
-tamilmirrorlk | 6,409
+adaderanalk | 5,598
+tamilmirrorlk | 6,410
 virakesarilk | 7,607
 adaderanasinhalalk | 8,231
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 8,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,582 (100.0%) of 47,582 articles have been extended.
+47,585 (100.0%) of 47,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Ali Sabri returned to the old business
+
+*2024-10-03 14:29:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-தொழிலுக்குத்-திரும்பினார்-அலி-சப்ரி/175-344871) · `ta`
+
+Former Sri Lankan FM Ali Sabri returns to law practice after regime change. He won't run in upcoming polls, ending political career.
+
+🟩
+
+Former Foreign Minister Ali Sabri has returned to his legal business following the recent regime change.
+
+Ali Sabri has shared a photo on social media with his legal profession, and posted, "I am happy to return to my place."
+
+The former minister has confirmed that he will not contest the upcoming parliamentary elections.
+
+Ali Sabri, a prominent member of the Sri Lanka PA (SLPP) party, was elected to Parliament through the National List.
+
+He served as the Minister of Justice and Foreign Affairs under former governments of Gotabhaya Rajapaksa and Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/ca563b0f.json)
+
+[Extended Data](ext_articles/ca563b0f.ext.json)
+
+---
+
+### Daham Sirisena and Rajika Wickremesinghe join MJP
+
+*2024-10-03 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102421/daham-sirisena-and-rajika-wickremesinghe-join-mjp) · `en`
+
+Former MP Rajika Wickremesinghe and Daham Sirisena joined the Mawbima Janatha Party (MJP) led by entrepreneur Dilith Jayaweera today (03).
+
+Wickremesinghe and Sirisena have been appointed MJP District Organisers for Kegalle and Polonnaruwa districts respectively.
+
+Daham is the son of former Polonnaruwa District Parliamentarian and former President Maithripala Sirisena.
+
+He had previously served as the Sri Lanka Freedom Party (SLFP) electoral organizer for Polonnaruwa West and as President of the Polonnaruwa District SLFP Youth League.
+
+Rajika Wickremesinghe is a former Member of Parliament of the Sri Lanka Podujana Peramuna (SLPP).
+
+◼️
+
+[Data](articles/01f9f34f.json)
+
+[Extended Data](ext_articles/01f9f34f.ext.json)
+
+---
+
+### President says committed to building an efficient, people-centered public service
+
+*2024-10-03 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102420/president-says-committed-to-building-an-efficient-people-centered-public-service) · `en`
+
+President Anura Kumara Dissanayake affirmed his commitment to supporting public servants who dedicate themselves to creating an efficient, citizen-focused public service, the President’s Media Division (PMD) said.
+
+He emphasized that unlike under previous administrations government officials working in the interest of the people will no longer face political retaliation.
+
+The President made these remarks during a meeting with ministry officials after assuming office as the Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries, and Aquatic Resources this morning (03), the release said.
+
+In a comprehensive discussion with ministry secretaries and senior officials, the current state and future plans of the Ministry of Agriculture were thoroughly reviewed. The President highlighted the critical role the ministry plays in eradicating rural poverty, noting that the performance of government officials will be decisive in achieving this goal.
+
+...
+
+[Data](articles/2ec1c6ba.json)
+
+[Extended Data](ext_articles/2ec1c6ba.ext.json)
+
+---
 
 ### Prison for former minister
 
@@ -2347,71 +2415,5 @@ Representatives of the International Monetary Fund have congratulated the new re
 [Data](articles/85c90b81.json)
 
 [Extended Data](ext_articles/85c90b81.ext.json)
-
----
-
-### 2024-10-02 (Wednesday)
-
-### Netherlands funded € 300,000 project grants electric three-wheelers to Gampaha’s batik SMEs
-
-*2024-10-02 23:50:26* · [`dailyftlk`](https://www.ft.lk/business/Netherlands-funded-300-000-project-grants-electric-three-wheelers-to-Gampaha-s-batik-SMEs/34-767463) · `en`
-
-ILO Country office for Sri Lanka and Maldives Director Joni Simpson (left) and Netherlands Deputy Ambassador Iwan Rutjens officially switch on the solar power system
-
-ILO Country office for Sri Lanka and Maldives Director Joni Simpson (second from left), Netherlands Deputy Ambassador Iwan Rutjens, CODEGEN Director Kusal Subasinghe and National Enterprise Development Authority Director Dhanuka Liyanagamage at the officially hand over of electric three wheel
-
-Backed by a € 300,000 investment from Foreign Affairs Ministry of the Netherlands, a cluster project in Gampaha, recently equipped local batik SMEs with solar panels and commercially produced electric three-wheelers including commercial chargers, driving growth and sustainability in Sri Lanka’s apparel industry.
-
-...
-
-[Data](articles/a64ee008.json)
-
-[Extended Data](ext_articles/a64ee008.ext.json)
-
----
-
-### Green Tea Scrub
-
-*2024-10-02 23:42:00* · [`islandlk`](http://island.lk/green-tea-scrub/) · `en`
-
-Lots of people talk about the benefits of green tea and, therefore, this week, I thought I should work on green tea for my beauty tips.
-
-You will need 02 tablespoons of used green tea, 01 tablespoon of sugar and 01 tablespoon of honey. By the way, you need to make sure the used green tea is dry but still fresh.
-
-Mix the ingredients thoroughly, in a bowl, until you achieve a paste-like consistency. You can adjust the sugar or honey to your desired texture.
-
-Take a warm shower, or bath, to open up your pores, making your skin more receptive to exfoliation.
-
-Now apply the scrub…gently massaging the scrub onto damp skin, using circular motions, focusing on rough areas, like elbows, knees, and feet.
-
-After scrubbing for about 5-10 minutes, rinse off with warm water, making sure that all residue is removed.
-
-Pat your skin dry and follow up with your favourite moisturizer to lock in hydration.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/e381187e.json)
-
-[Extended Data](ext_articles/e381187e.ext.json)
-
----
-
-### Public hearings: A key to ensuring integrity in high-level public service appointments
-
-*2024-10-02 23:38:44* · [`dailyftlk`](https://www.ft.lk/columns/Public-hearings-A-key-to-ensuring-integrity-in-high-level-public-service-appointments/4-767462) · `en`
-
-Parliament in session: A transparent and democratic approach to public service appointments, highlighting the need for public hearings to ensure accountability and integrity
-
-Public hearings are vital tools in administrative governance, providing a formal mechanism for the public to scrutinise the transparency and efficacy of appointments. According to John Rohr in To Run a Constitution: The Legitimacy of the Administrative State (1986), ‘public hearings in the context of administrative appointments serve to ensure that such appointments are not only made in the best interest of the public but also adhere to principles of meritocracy, fairness, and openness, reflecting the democratic ethos of society’
-
-The National People’s Power (NPP) Government inherited an administrative appointment system steeped in nepotism, political loyalty, corruption, and social status markers like caste and race, which often prioritised feudal-like allegiance over expertise, honesty, and integrity.
-
-...
-
-[Data](articles/fab0b662.json)
-
-[Extended Data](ext_articles/fab0b662.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 23:58:31**
+As of **2024-10-04 00:13:03**
 
 ## Newspaper Stats
 
-*Scraped **47,653** Articles*
+*Scraped **47,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 394
 bbccomsinhala | 470
 colombotelegraphcom | 473
 islandlk | 2,797
-economynextcom | 2,903
+economynextcom | 2,918
 dailyftlk | 3,209
 adalk | 4,412
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,244
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,653 (100.0%) of 47,653 articles have been extended.
+47,663 (100.0%) of 47,668 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -354,6 +354,26 @@ Cigarettes have been recovered during the Mannar Special Task Force (STF), based
 
 ---
 
+### Sri Lanka new govt to provide VAT, income tax relief, AKD tells IMF
+
+*2024-10-03 20:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-to-provide-vat-income-tax-relief-akd-tells-imf-182214/) · `en`
+
+ECONOMYNEXT – Sri Lanka government is planning to provide income and Value Added Tax (VAT) relief to the people who are struggling, President Anura Kumara Dissanayake has told the International Monetary Fund (IMF) officials.
+
+President Dissanayake discussed the progress of Sri Lanka’s on-going IMF programme with the global lender’s delegation including Director of the Asia Pacific Department, Krishna Srinivasan and Senior Mission Chief Peter Breuer.
+
+“President Dissanayake reaffirmed the government’s broad agreement in principle with the objectives of the IMF programme but emphasized the importance of achieving these objectives through alternative means that relieves the burden off the people,” the President Media Division said in a statement.
+
+“The President stated that the government plans to provide relief to those who are struggling due to high VAT and income taxes.”
+
+...
+
+[Data](articles/4795e526.json)
+
+[Extended Data](ext_articles/4795e526.ext.json)
+
+---
+
 ### A special scheme for children who do not have a birth certificate
 
 *2024-10-03 20:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிறப்புச்-சான்றிதழ்-இல்லாத-குழந்தைகளுக்கான-விஷேட-திட்டம்/175-344882) · `ta`
@@ -405,6 +425,30 @@ The answer is that we see this as a historical change.That is, the two major par
 [Data](articles/560148ac.json)
 
 [Extended Data](ext_articles/560148ac.ext.json)
+
+---
+
+### Korean Exim Bank agreed to fund Sri Lanka’s development projects  – PMD
+
+*2024-10-03 20:27:00* · [`economynextcom`](https://economynext.com/korean-exim-bank-agreed-to-fund-sri-lankas-development-projects-pmd-182211/) · `en`
+
+ECONOMYNEXT – The Export and Import (Exim) Bank of Korea has agreed to financially support the Sri Lanka government’s development project. President’s Media Division (PMD said.
+
+The agreement was announced during a meeting between officials of the Exim Bank of Korea and Secretary to the President Nandika Sanath Kumanayake at the Presidential Secretariat on Thursday (03).
+
+The financial support from the Korean Exim Bank for development projects was suspended after the economic crisis and sovereign debt default.
+
+.”…during their meeting, representatives of the Exim Bank expressed their commitment to offering subsidized interest loans for the re-implementation of these projects,” the PMD said in a statement.
+
+“They also emphasized their intention to support economically viable programs initiated by the Government of Sri Lanka in the future.”
+
+Director of Exim Bank Won-suk HA, Deputy Director Hanui Han, and Project Manager Nalin Jayathunga participated at the meeting. (Colombo/October 03/2024)
+
+◼️
+
+[Data](articles/c9a7923c.json)
+
+[Extended Data](ext_articles/c9a7923c.ext.json)
 
 ---
 
@@ -876,6 +920,28 @@ Gamini Fernando, Director of the Colombo High Commission, Aruttand, has announce
 
 ---
 
+### Sri Lanka’s ex-leader denies immunity claim in bond scam
+
+*2024-10-03 17:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-ex-leader-denies-immunity-claim-in-bond-scam-182192/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former president Ranil Wickremesinghe has never requested presidential immunity in the controversial bond scam legal process as claimed by Cabinet Spokesman Vijitha Herath, his sources said.
+
+Herath in his first cabinet media briefing on Tuesday (01) said presidential immunity stated in the constitution has been considered for not calling Wickremesinghe to the courts.
+
+“There was no need for former President Ranil Wickramasinghe to request any immunity and in fact the former President has never requested such immunity,” Dhanushka Ramanayake, Wickremesinghe’s Presidential Media Director, said in a statement.
+
+Presidential immunity in the past had allowed past presidents not to be accountable for their wrong decisions or to appear in the courts in legal cases against them.
+
+Hearth responding to a question said Wickremesinghe is also not the president anymore and he did not have immunity.
+
+...
+
+[Data](articles/43b4989d.json)
+
+[Extended Data](ext_articles/43b4989d.ext.json)
+
+---
+
 ### At the general election we get two thirds
 
 *2024-10-03 17:45:48* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී-අපට-තුනෙන්-දෙකක්-ලැබෙනවා/11-412297) · `si`
@@ -1010,6 +1076,30 @@ The teachers of the Technical College say that the charmic car technique is a st
 
 ---
 
+### Sri Lanka rupee closes stronger at 294.00/50 to US dollar, bond yields up
+
+*2024-10-03 17:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-294-00-50-to-us-dollar-bond-yields-up-182186/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 294.00/50 to the US dollar Wednesday, from 296.40/80 a day earlier, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.45/60 percent, up from 10.35/55 percent.
+
+A bond maturing on 15.12.2027 closed at 11.40/55 percent, up from 11.15/30 percent.
+
+A bond maturing on 15.02.2028 closed at 11.60/75 percent, up from 11.35/45 percent.
+
+A bond maturing on 15.09.2029 closed at 11.95/12.05 percent, up from 11.70/85 percent.
+
+A bond maturing on 15.05.2030 closed at 12.10/30 percent. (Colombo/Oct3/2024)
+
+◼️
+
+[Data](articles/dd546af3.json)
+
+[Extended Data](ext_articles/dd546af3.ext.json)
+
+---
+
 ### Gates Foundation guarantees to support government digitalization project
 
 *2024-10-03 17:30:51* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ඩිජිටල්කරණ-ව්‍යාපෘතියට-සහාය-ලබාදීමට-ගේට්ස්-පදනම-සහතික-වෙයි/11-412295) · `si`
@@ -1053,6 +1143,28 @@ Sirimadean Sarathchandra Ranasinghe is also a heerawickrama viposubusion, Ranavi
 [Data](articles/d72baf9e.json)
 
 [Extended Data](ext_articles/d72baf9e.ext.json)
+
+---
+
+### Sri Lanka stocks close down, pulled by banks and conglomerates
+
+*2024-10-03 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-pulled-by-banks-and-conglomerates-182183/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The broader All Share Index closed down 0.04 percent, or 4.24 points, at 11,929; while the more liquid S&P SL20 Index closed down 0.75 percent, or 26.20 points, at 3,483.
+
+One crossing took place on Commercial Credit and Finance (up at 36.30).
+
+Top turnover generators were Sampath Bank (down at 79.00), Lankem Developments (up at 17.60), Commercial Credit and Finance, Digital Mobility Solutions (up at 39.00), and Commercial Bank of Ceylon (down at 104.00).
+
+Foreign buying was seen in ACL Plastics (down at 421.25), Vallibel One (down at 51.70), Richard Pieris (up at 21.60), Tokyo Cement non-voting (up at 43.50), Vallibel Finance (down at 40.20), and Hemas Holdings (up at 78.50).
+
+...
+
+[Data](articles/22edbe02.json)
+
+[Extended Data](ext_articles/22edbe02.ext.json)
 
 ---
 
@@ -1254,6 +1366,24 @@ Purchasing a kilo of rice is an expression of a tragic to Nuwara Eliya, Nuwara E
 
 ---
 
+### Gates Foundation to support Sri Lanka’s digitisation projects: president’s office
+
+*2024-10-03 16:43:00* · [`economynextcom`](https://economynext.com/gates-foundation-to-support-sri-lankas-digitisation-projects-presidents-office-182159/) · `en`
+
+ECONOMYNEXT — The Bill & Melinda Gates Foundation is ready to provide financial, technical and advisory support for Sri Lanka’s digitisation projects, the government said, citing an “independent consultant” of the foundation.
+
+A statement from the president’s media division (PMD) said an independent consultant of the Gates Foundation by the name of Chanditha Samaranayake has met the Secretary to the President Nandika Sanath Kumanayake in Colombo.
+
+According to the statement, the Gates Foundation’s projects related to upliftment of agriculture in Sri Lanka, improvement of children’s nutrition including provision of school lunch, development of human resources in the public and private sectors, livestock, climate change etc. were discussed at length.
+
+...
+
+[Data](articles/3d41dddd.json)
+
+[Extended Data](ext_articles/3d41dddd.ext.json)
+
+---
+
 ### SLFP to form alliance to contest General Election?
 
 *2024-10-03 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102423/slfp-to-form-alliance-to-contest-general-election) · `en`
@@ -1297,6 +1427,28 @@ President Anura Kumara Dissanayake said that the next 40-day will be a transitio
 [Data](articles/ce30449f.json)
 
 [Extended Data](ext_articles/ce30449f.ext.json)
+
+---
+
+### Sri Lanka’s CMG appoints Srinivasan as CEO
+
+*2024-10-03 16:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-cmg-appoints-srinivasan-as-ceo-182162/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Capital Maharaja Group (CMG), which has interests in media business to manufacturing, has appointed Suresh Srinivasan as the new Group Director and Chief Executive Officer (CEO), the company said.
+
+Srinivasan, an accomplished business leader with over three decades of experience, succeeds Sunil Kanojia, who navigated the group in one of the most challenging periods from 2019 to 2024.
+
+“With Suresh Srinivasan at the helm, the future looks bright as the Group embarks on its journey towards a historic centenary,” the CMG said in a statement.
+
+Srinivasan, is an expert in spanning manufacturing, industrial relations, supply chain, sales & marketing, and business turnarounds.
+
+He has revitalized underperforming Parry Sugars Refinery India to a 100% export-oriented business, from a significant loss-making entity within two years.
+
+...
+
+[Data](articles/2e9b5cbf.json)
+
+[Extended Data](ext_articles/2e9b5cbf.ext.json)
 
 ---
 
@@ -1463,6 +1615,28 @@ At the end of the struggle, the President was handed over to the President throu
 [Data](articles/38a72ecd.json)
 
 [Extended Data](ext_articles/38a72ecd.ext.json)
+
+---
+
+### SriLankan Airlines changes London route after Israel attack; carries extra fuel
+
+*2024-10-03 15:26:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-changes-london-route-after-israel-attack-carries-extra-fuel-182155/) · `en`
+
+ECONOMYNEXT – SriLankan Airlines, the country’s national carrier, has changed its regular route over Iraq skies to London and is carrying extra fuel after Iran’s missile attack on Israel, a SriLankan official said.
+
+Israeli Prime Minister Benjamin Netanyahu has promised that Iran would pay for its missile attack against Israel on Tuesday, while Tehran said any retaliation would be met with “vast destruction”, raising fears of a wider war.
+
+The Iran attack has threatened escalation of fighting in the Middle East.
+
+“We have now changed the London flight route and now flying via Egypt skies,” the official told EconomyNext.
+
+“The new route takes 30 minutes longer than the usual route and the flights carry extra fuel in the new route.” (Colombo/October 03/2024)
+
+◼️
+
+[Data](articles/43eca2f6.json)
+
+[Extended Data](ext_articles/43eca2f6.ext.json)
 
 ---
 
@@ -1679,6 +1853,28 @@ They have been appointed as the Maubima Janata Party (MJP) and the district orga
 [Data](articles/09f6ee45.json)
 
 [Extended Data](ext_articles/09f6ee45.ext.json)
+
+---
+
+### Indian External Affairs Minister visits Sri Lanka, to meet President, PM
+
+*2024-10-03 14:39:00* · [`economynextcom`](https://economynext.com/indian-external-affairs-minister-visits-sri-lanka-to-meet-president-pm-182151/) · `en`
+
+ECONOMYNEXT – Indian External Affairs Minister Subrahmanyam Jaishankar will be undertaking an official visit to Sri Lanka on Friday, the island nation’s Foreign Ministry said.
+
+Jaishankar will be the first foreign dignitary to meet the President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya after their National People’s Power (NPP) won the presidential poll on September 21.
+
+The visiting Indian External Affairs Minister and his delegation will also have a meeting with Foreign Minister Vijitha Herath at the Ministry of Foreign Affairs.
+
+India has been pushing for renewable energy, power, and port projects in Sri Lanka in the last few years. Some of its projects have been in limbo due to a long approval process and legal challenge in court.
+
+Minister Jaishankar met Dissanayake in February this year when the current Sri Lankan president went on an official visit to India when he was in the opposition.
+
+...
+
+[Data](articles/8adfc2e4.json)
+
+[Extended Data](ext_articles/8adfc2e4.ext.json)
 
 ---
 
@@ -2048,6 +2244,32 @@ Japan has recently resumed 11 Japanese currency loans schemes following the reac
 
 ---
 
+### Sri Lanka 9th parliament sees two members resigning to be president
+
+*2024-10-03 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-9th-parliament-sees-two-members-resigning-to-be-president-182118/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 9th parliament has seen two members resigning to be President of the country, while 19 posts fell vacant for various reasons, a statement from the assembly said.
+
+Ranil Wickremesinghe became president after Gotabaya Rajapaksa left in July 2022 following social unrest from forex shortages.
+
+Following the election in September 2024 Anura Dissanayake became president.
+
+The Ninth Parliament commenced on August 20, 2020 and was dissolved by the president at midnight on September 24, 2024.
+
+During its lifespan there were 19 vacancies of parliamentary seats according to Article 66 of the Constitution, and 16 members were appointed as new members on 18 occasions.
+
+Some of the vacancies were created by deaths, migrations, new job offers and court rulings.
+
+Jayantha Katagoda, who was elected to Parliament from the national list, resigned and Basil Rajapaksa was appointed in his place.
+
+...
+
+[Data](articles/279978ae.json)
+
+[Extended Data](ext_articles/279978ae.ext.json)
+
+---
+
 ### Porsche of the country: What is a manifestation vehicle?
 
 *2024-10-03 13:06:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdengx7j9yzo) · `si`
@@ -2110,6 +2332,26 @@ It is noteworthy that the violent gang set fire to the sari shop again yesterday
 
 ---
 
+### Sri Lankan stranded in Lebanon provided shelter, volatile situation: FM
+
+*2024-10-03 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankan-stranded-in-lebanon-provided-shelter-volatile-situation-fm-182114/) · `en`
+
+ECONOMYNEXT – Sri Lanka embassy in Lebanon said it is keeping in touch with nationals who are registered with them, and no one has been ‘seriously affected’ so far by Israeli bombing.
+
+Up to a million people are estimated to have been displaced so far.
+
+The security situation in Lebanon is volatile and constantly evolving.
+
+The Sri Lanka Embassy in Beirut is maintaining constant contact with Sri Lankan Associations and individual Sri Lankans registered with the Embassy. Ambassador Kapila Jayaweera and officers of the Sri Lanka Embassy are providing assistance to Sri Lankans as required.
+
+Apart from a few Sri Lankans who have been stranded and for whom the Embassy has arranged shelter, no Sri Lankans have been seriously affected by the situation so far.
+
+◼️
+
+[Data](articles/cf6ef723.json)
+
+---
+
 ### Arrested with a sword, manna kid
 
 *2024-10-03 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195380) · `ta`
@@ -2157,6 +2399,24 @@ The Commission reiterated that "we have completed the basic tasks and we will ho
 [Data](articles/5c385ee1.json)
 
 [Extended Data](ext_articles/5c385ee1.ext.json)
+
+---
+
+### Sri Lanka’s central bank cancels pensions to Governors
+
+*2024-10-03 12:43:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-cancels-pensions-to-governors-182111/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has cancelled process that paid a pension to governors who are appointed from outside the agency, a gazette notice signed by current Governor Nandalal Weerasinghe said.
+
+According to the earlier rule, a person appointed as a Central Bank Governor from 01.01.1998 would be “deemed to be an employee” and would “receive a monthly pension irrespective of the number of years of his service, equal to 74 percent of the basic salary last paid to him.”
+
+If a person was appointed as governor before 01.01.2015, he would get a pension only after 01.01.2015.
+
+“Provided, in the event criminal investigation or proceedings are being conducted before a Court of Law in respect of a former Governor, pension payment to such former Governor shall be stayed or suspended until the conclusion of such investigations or proceedings,” according to the earlier rule.
+
+...
+
+[Data](articles/5a3bfbc1.json)
 
 ---
 
@@ -2220,6 +2480,28 @@ Former minister Keheliya Rambukwella and former chairman of the State Printing C
 
 ---
 
+### No media spectacles, Sri Lanka president says assuming duties as Agriculture Minister
+
+*2024-10-03 12:33:00* · [`economynextcom`](https://economynext.com/no-media-spectacles-sri-lanka-president-says-assuming-duties-as-agriculture-minister-182104/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has officially assumed the duties as the Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries, and Aquatic Resources, his media division said.
+
+Dissanayake met with ministry officials after assuming office on Thursday (3).
+
+“We will not publicly question officials in front of the media, as previous leaders have done, nor will we entertain such media spectacles,” Dissanayake said in a post on social media platform X.
+
+• The Ministry’s role in eradicating rural poverty is immense, and the performance of our government officials will be key to our success.
+
+• I am committed to advocating for our dedicated public servants to help create an efficient and responsive public service.
+
+• Traditional political reprisals will not be tolerated in the future.
+
+...
+
+[Data](articles/cee2d4a8.json)
+
+---
+
 ### 15 breast cancer patients per day
 
 *2024-10-03 12:20:21* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-දිනකට-පියයුරු-පිළිකා-රෝගින්-15ක්/11-412287) · `si`
@@ -2265,343 +2547,5 @@ The sentence handed down was more severe than the six to seven months sought by 
 [Data](articles/4328d20a.json)
 
 [Extended Data](ext_articles/4328d20a.ext.json)
-
----
-
-### "Police officers apologize in Supreme Court
-
-*2024-10-03 12:06:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9p14qj5j7o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Police officers apologize in Supreme Court over wrongful interrogation. Three officers admitted fault for detaining a man based on mistaken tattoo claim. Petitioner seeks compensation for violation of basic rights.
-
-🟩
-
-"Police officers apologize in Supreme Court
-
-A group of police officers today (October 3) was unconditionally forging a lawyer's driver to interrogate a lawyer from the guy.
-
-This apology was taken by the Supreme Court today before the Supreme Court today, a fundamental rights filed by the Supreme Court today.
-
-The petition was summoned before the Supreme Court Judge Bench, the three-member Supreme Court Bedule consisting of cheer pure Padman Surasena.
-
-Dissanayake, Premaratne, Police Constables, Ratnasiri, Senadheera, Senadheera and Nanashakkara have apologized for the incident.
-
-The petitioner claims that he returned to the Negombo Magistrate on January 16 and returned to his motorcycle front of the motorcyclists.
-
-The petitioner said that the group, which was said to be "from the police," and examined the hands of their right hand, "a tattoo."
-
-Police apologize to three suspects who were detained after the Passover attack
-
-...
-
-[Data](articles/b7c12a31.json)
-
-[Extended Data](ext_articles/b7c12a31.ext.json)
-
----
-
-### Postponement of the case against Keheliya
-
-*2024-10-03 12:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிரான-வழக்கு-ஒத்திவைப்பு/175-344866) · `ta`
-
-Colombo High Court postpones bribery case against Keheliya Rambukwella, orders appearance Nov 29. Former Minister accused of misusing State Press Corporation funds during tenure.
-
-🟩
-
-The Colombo High Court has ordered the hearing of the case filed by the Investigation Commission on bribery or corruption against former Minister Keheliya Rambukwella and former President of the State Press Corporation, Jayampathi Heinkenda.
-
-The case was summoned before Colombo High Court Judge Sujeewa Nishanga on Thursday (03).
-
-The Colombo High Court judge ordered the former minister Keheliya Rambukwella to appear before the court on November 29.
-
-Former Minister Keheliya Rambukwella and former Chairman of the State Press Corporation, Jayampathi Heinkenda, have filed a complaint against the bribery corruption order, accusing the government of using the funds of the State Press Corporation by using the funds of the State Press Corporation during his tenure as the Minister of Media.Notably.
-
-◼️
-
-[Data](articles/bee0a5fd.json)
-
-[Extended Data](ext_articles/bee0a5fd.ext.json)
-
----
-
-### Three arrests with drugs;Trio escape
-
-*2024-10-03 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195370) · `ta`
-
-Sri Lanka: Drug arrests and escapes. Three suspects caught with cannabis and methamphetamine. Three others flee police.
-
-🟩
-
-Three suspects have been arrested and three suspects have been arrested and three have fled the country.
-
-A suspect has been arrested yesterday (02) at the Katunayake airport with a Kush narcotics that illegally brought to Sri Lanka.
-
-1 kg of 883 grams of Kush has been seized from the arrested suspect.
-
-Meanwhile, a suspect has been arrested in Mithigama Eppawala area with 01 kg 838 grams of ice.
-
-The arrested suspect is a 20 -year -old from Weligama and three others have escaped from the police during the raid, police said.
-
-In addition, a suspect has been arrested with 920 grams of ice drugs in Kosateniya, Welipanai.
-
-The arrested person was 29 years old from Walagadera, police said.
-
-◼️
-
-[Data](articles/b495312b.json)
-
-[Extended Data](ext_articles/b495312b.ext.json)
-
----
-
-### Elephant - Human conflict is a little less
-
-*2024-10-03 11:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-மனித-மோதல்-கொஞ்சம்-குறைந்தது/175-344864) · `ta`
-
-Sri Lanka: Elephant-human conflict deaths decrease. 340 elephants died in 8 months of 2023 vs 239 this year. Human casualties fell from 117 to 90. Measures reduce conflicts.
-
-🟩
-
-The Wildlife Protection Department said that the deaths of elephant-human conflict in Sri Lanka during the first eight months of this year.
-
-340 elephants died in the same period in 2023, while 239 elephants have died this year.
-
-In addition, the human casualties caused by the elephant attack have fallen from 117 to 90, the department said.
-
-Elephant - Elephant - The deaths have been reduced due to measures taken to avoid human conflicts.
-
-◼️
-
-[Data](articles/571337e9.json)
-
-[Extended Data](ext_articles/571337e9.ext.json)
-
----
-
-### Elephant - Significant decrease in human conflict incidents
-
-*2024-10-03 11:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-மனித-மோதல்-சம்பவங்களில்-குறிப்பிடத்தக்க-குறைவு/175-344864) · `ta`
-
-Sri Lanka: Elephant-human conflict deaths drop 23% in 8 months. 340 elephants killed in 2023 vs 239 this year. Human casualties fell from 117 to 90. Measures implemented to reduce conflicts.
-
-🟩
-
-The Wildlife Protection Department said that the deaths of elephant-human conflict in Sri Lanka during the first eight months of this year.
-
-340 elephants died in the same period in 2023, while 239 elephants have died this year.
-
-In addition, the human casualties caused by the elephant attack have fallen from 117 to 90, the department said.
-
-Elephant - Elephant - The deaths have been reduced due to measures taken to avoid human conflicts.
-
-◼️
-
-[Data](articles/e25a804c.json)
-
-[Extended Data](ext_articles/e25a804c.ext.json)
-
----
-
-### LG Elections to be held soon after parliamentary polls
-
-*2024-10-03 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102417/lg-elections-to-be-held-soon-after-parliamentary-polls-) · `en`
-
-The Election Commission of Sri Lanka says that steps will be taken to hold the Local Government Elections, in compliance with the Supreme Court order, as soon as the upcoming General Election is concluded.
-
-◼️
-
-[Data](articles/0577f377.json)
-
-[Extended Data](ext_articles/0577f377.ext.json)
-
----
-
-### LG Elections to be held soon after parliamentary polls
-
-*2024-10-03 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102417/lg-elections-to-be-held-soon-after-parliamentary-polls) · `en`
-
-The Election Commission of Sri Lanka says that steps will be taken to hold the Local Government Elections, in compliance with the Supreme Court order, as soon as the upcoming General Election is concluded.
-
-The announcement notes that the Election Commission has given due respect to the Supreme Court’s decision made on 22.08.2024, concerning the Fundamental Rights Applications related to the 2023 Local Government Elections.
-
-Accordingly, the announcement further emphasizes that the Election Commission acknowledges its responsibility to safeguard the democratic rights of the people of Sri Lanka.
-
-The chairman of the Election Commission has reiterated in the announcement that according to the Supreme Court’s order and in accordance with the legal guidelines for holding elections, the Commission plans to set a date immediately for the local government elections after the parliamentary elections conclude.
-
-...
-
-[Data](articles/dfff1ba9.json)
-
-[Extended Data](ext_articles/dfff1ba9.ext.json)
-
----
-
-### Political revenge will no longer happen
-
-*2024-10-03 11:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-பழிவாங்கல்-இனிமேல்-நடக்காது/175-344863) · `ta`
-
-President Anura Kumara Dissanayake vows to end political revenge against public servants, promising support for those dedicated to public welfare. He emphasizes creating an efficient public service, eradicating rural poverty, and preventing fraud and corruption. New political customs and opposition to old culture are expected to impact governance.
-
-🟩
-
-President Anura Kumara Dissanayake has promised that we will be supportive of public servants who dedicate to the public welfare service.
-
-The President said this after taking over his duties as Minister of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources on Thursday (03).
-
-President Anura Kumara Dissanayake said he was supporting the public servants who dedicated him to create a welfare public service.
-
-The President said that even though the state officials who strive for citizens face political revenge, the custom would no longer happen.
-
-President Anura Kumara Dissanayake held a detailed discussion with the Secretaries of the Ministry and top officials of the Ministry of Agriculture.
-
-The President pointed out that the contribution to the Ministry of Agriculture to eradicate rural poverty is immense and whether or not poverty will be eradicated in accordance with the activities of state officials.
-
-...
-
-[Data](articles/f3d2d2f4.json)
-
-[Extended Data](ext_articles/f3d2d2f4.ext.json)
-
----
-
-### Exclusive events in the ninth parliament
-
-*2024-10-03 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201800) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ninth Parliament: 19 seats, 4 sessions, 390 days. Key events: MP changes, presidential elections, resignations. Notable figures: Jayantha Ketagoda, Basil Rajapaksa, Ajith Nivard Cabraal, Munibar Rahman, Fowzie, Harin Fernando. Presidential transitions: Gotabhaya Rajapaksa, Ranil Wickremesinghe. Significant dates: August 20, 2020, April 24, 2012.
-
-🟩
-
-Season 19 seats, 4 season endings and 390 days were 390 days.
-
-Accordingly, the first meeting on August 20, 2020, was vary of 19 section 6 of the Constitution of 196th.
-
-Accordingly, 16 MPs have been selected as new MPs in 18 occasions and 241 MPs have been represented.
-
-Jayantha Ketagoda, who was elected to Parliament from the national list, was resigned and Mr. Basil Rajapaksa was.
-
-The National List MP Ajith Nivard Cabraal resigned and Jayantha Ketagoda was back to the vacancy.
-
-Similarly, the resignation of Mr. Munibar Rahman for this purpose for the vacant seat. HM. Mr. Fowzie was elected and Munibar Rahman was again appointed to the Parliamentary Diyayana Gamage, which vacant Diyayana Gamage.
-
-However, a new MP was not appointed for the vacant Harin Fernando.
-
-The 7th Executive President Gotabhaya Rajapaksa resigns as the 7th Executive President Gotabhaya Rajapaksa in the ninth parliament.
-
-Ranil Wickremesinghe was elected 8th Executive President of the country.
-
-...
-
-[Data](articles/a1fee90c.json)
-
-[Extended Data](ext_articles/a1fee90c.ext.json)
-
----
-
-### Lion Degils to win World Cup winning
-
-*2024-10-03 11:45:45* · [`adalk`](https://www.ada.lk/sports/වැලි-කතරේ-ලෝක-කුසලාන-ජය-සොයා-සිංහ-දේනුවන්-අද-තරග-බිමට/9-412286) · `si`
-
-Women's Twenty T20 World Cup 2024 starts today in UAE. 10 teams participating, including Bangladesh and Scotland. Sri Lanka vs Pakistan in second match at 7:30 PM local time. Tournament held in Dubai and Sharjah.
-
-🟩
-
-The 2024 Women's Twenty T20 World Cup begins today (3) at the United Arab Emirates.
-
-The tournament will be held at Dubai and Sharjah cities, which will participate in 10 teams including Sri Lanka.
-
-Bangladesh Women's Team and Scottish women's team will compete in the tournament of the tournament.
-
-Sri Lanka Women's Team and Pakistan women's team are to be competitized as the second match. The match will be opened at 7.30 pm in Sri Lanka.
-
-◼️
-
-[Data](articles/c3b61286.json)
-
-[Extended Data](ext_articles/c3b61286.ext.json)
-
----
-
-### Elderly death
-
-*2024-10-03 11:40:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வாழைப்பழம்-சிக்கி-வயோதிபர்-மரணம்/76-344861) · `ta`
-
-74-year-old Piyadasa dies in Balangoda. Autopsy reveals banana caused choking. Wife claims he died at home with neighbor's help. Legal specialist present during incident.
-
-🟩
-
-Piyadasa, a 74 -year -old elderly man, has died in the Weligapola area, Balangoda.
-
-An autopsy revealed that a piece of bananas he consumed was in the presence of a legal specialist at the Balangoda main hospital, who was suffering from suffocation due to trapped in his throat.
-
-“Her husband ate bananas after eating. After that he had difficulty breathing. Piyadasa's wife testified in the presence of the main legal doctor, however, that we had died at the hospital with the help of neighbors.
-
-◼️
-
-[Data](articles/d3b63098.json)
-
-[Extended Data](ext_articles/d3b63098.ext.json)
-
----
-
-### 473 people are involved in exam frauds - Sri Lanka Teachers Association
-
-*2024-10-03 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195373) · `ta`
-
-Sri Lanka Teachers Union demands overhaul of Department of Examinations due to 473 individuals involved in exam fraud. List includes high-ranking officials. Union calls for complete replacement of department.
-
-🟩
-
-The Sri Lanka Teachers Union has requested that the Department of Examinations completely replace the Department of Examinations as 473 people are involved in the exam fraud.
-
-Joseph Stalin, general secretary of the Sri Lanka Teachers Union, commented to the media
-
-The names of 473 people who were involved in the 2024 exams are listed.
-
-The list includes the names of the Divisional Director General and senior officials.
-
-Therefore, in the current situation, the Department of Examinations is necessary to completely change the Department of Examinations.
-
-◼️
-
-[Data](articles/fb4f5ddb.json)
-
-[Extended Data](ext_articles/fb4f5ddb.ext.json)
-
----
-
-### Commission announced on Little Element
-
-*2024-10-03 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201799) · `si`
-
-Election Commission announces local polls, cites Supreme Court decisions, aims to preserve democracy. Chairman stresses holding parliamentary elections soon after local polls completion.
-
-🟩
-
-2023 The Elections Commission has issued a statement regarding the local government elections.
-
-Chairman of the Election Commission, R. M. A. L. The announcement has been issued with the signature of Mr. Rathnayake.
-
-2023 The Election Commission has given proper attention by the Supreme Court decision on 22.08.2010, according to the Supreme Court decision on 22.04.2010.
-
-The announcement also states that the Election Commission will understand their role in the preservation of the democratic rights of the Sri Lankan people.
-
-The Commission is also elected as soon as possible to hold the parliamentary elections as soon as possible to hold the parliamentary elections as soon as the Parliamentary Elections were completed by the Supreme Court election by 2224.The Chairman of the Commission has stressed.
-
-Meanwhile, the Elections Commission will inform the Elpitiya Pradeshiya Sabha elections on October 26.
-
-◼️
-
-[Data](articles/c4f08bf0.json)
-
-[Extended Data](ext_articles/c4f08bf0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 20:38:39**
+As of **2024-10-03 20:57:55**
 
 ## Newspaper Stats
 
-*Scraped **47,634** Articles*
+*Scraped **47,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
-adalk | 4,408
+adalk | 4,409
 dailymirrorlk | 4,733
 adaderanalk | 5,603
 tamilmirrorlk | 6,421
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,634 (100.0%) of 47,634 articles have been extended.
+47,635 (100.0%) of 47,635 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -387,6 +387,36 @@ Gamini Fernando, Director of the Colombo High Commission, Aruttand, has announce
 [Data](articles/a0a117c3.json)
 
 [Extended Data](ext_articles/a0a117c3.ext.json)
+
+---
+
+### At the general election we get two thirds
+
+*2024-10-03 17:45:48* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී-අපට-තුනෙන්-දෙකක්-ලැබෙනවා/11-412297) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National Election executive committee expects two-thirds majority in general election. Criticizes opposition parties for division. Promises strong parliament and effective law enforcement. Assures transparency in appointments and accountability measures.
+
+🟩
+
+The executive committee member of the National Election will definitely receive power over two thirds in the general election due to the President's population. Mr. Lal Kanthe said.
+
+He was speaking at a press conference held in Kandy today 3.
+
+Responding to journalists' questions and the Executive Committee of the National Institute of Power, the Executive Committee of the National Institute of Power, he added:
+
+We do not want to work on the general election. There is a work that brought the work for the presidential election. We have the false in the masses because of the President's populist actions. A large number of people who have not been involved with us have been involved with us.
+
+In fact, there was no opposition in our country. Opposition is the three previous parties. Sajith Premadasa is a nominal leader, not an opposition leaders in the recent past. But they build an argument that if the votes we have left, we can win the votes that they can win the votes.
+
+...
+
+[Data](articles/8884d23b.json)
+
+[Extended Data](ext_articles/8884d23b.ext.json)
 
 ---
 
@@ -2545,31 +2575,5 @@ A total of 2,348 bombs weighing a total of 41 tonnes were removed in 2023, accor
 [Data](articles/6c37fae1.json)
 
 [Extended Data](ext_articles/6c37fae1.ext.json)
-
----
-
-### A growth of children between 5 and 12 years of teeth
-
-*2024-10-03 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201794) · `si`
-
-Children's dental health improves, but issues persist. Experts warn about rising fungal infections linked to diabetes control. Proper hygiene and diet crucial for overall health.
-
-🟩
-
-The number of dental measures of children aged 5 to 12 years have increased.
-
-Prof. Dilith de Silva said that Professor Dilee de Silva said that the oral health of children should be paid to the oral health of the University of Peradeniya.
-
-Professor Dileep de Silva made this statement participating at a function in Kandy.
-
-"There are oral surveys for 10 in 10 years. This is one last. New One 2024 - 2025 started these days. Thus the disease is 63% of the 5-year children. That means 63 people have oral holes of teeth if you take 100 kids. If you take 10 kids, there are 6. The 12-year-old we need to be less. This is 63% if you pour 55% before school. Message One. Brush teeth twice, twice, cold. Teach the whole day and reduce sweetness foods. Easy, if sweetened food is restricted to a major meal. "
-
-Meanwhile, Dr. Paryali Jayasekara says that the rise in black split patients in the country will increase the increase in black disorders.
-
-...
-
-[Data](articles/70ce5d88.json)
-
-[Extended Data](ext_articles/70ce5d88.ext.json)
 
 ---

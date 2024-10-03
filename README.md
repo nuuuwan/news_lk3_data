@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 20:57:55**
+As of **2024-10-03 21:10:17**
 
 ## Newspaper Stats
 
-*Scraped **47,635** Articles*
+*Scraped **47,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,99 @@ dailyftlk | 3,209
 adalk | 4,409
 dailymirrorlk | 4,733
 adaderanalk | 5,603
-tamilmirrorlk | 6,421
+tamilmirrorlk | 6,423
 virakesarilk | 7,620
-adaderanasinhalalk | 8,240
+adaderanasinhalalk | 8,241
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,635 (100.0%) of 47,635 articles have been extended.
+47,638 (100.0%) of 47,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Ranil party responds to the Minister's Vijitha
+
+*2024-10-03 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201819) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka: Former President Ranil Wickremesinghe denies involvement in Central Bank bond scandal. Minister Vijitha Herath claims no immunity for Wickremesinghe. Wickremesinghe's media director disputes claim. Presidential Commission investigated bond deals; Wickremesinghe denies connection.
+
+🟩
+
+The Minister of Cabinet spokesman Vijitha Herath recently made a statement that former President Ranil Wickremesinghe's presidential minute was carried out by the presidential intermology.
+
+Former Presidential Media Director General Dhanushka Ramanayake has issued a statement that the statement is incorrect.
+
+The Commission states that the Commission appointed to look into the bond accusation, he has been released by the Commission to look into the matter.
+
+Minister Vijitha Herath made this statement regarding the former President of Ranil Wickremesinghe at the Central Bank bonds last Tuesday.
+
+"Mr. Ranil Wickremesinghe is not the president. So there is no immunity. Now we have the authority to call him in court. Let's see, let's go.
+
+Responding to the next Presidential Media Director General of Ranil Wickremesinghe, responded, Dhanushka Ramanayake has issued a press release today.
+
+...
+
+[Data](articles/4c6683b2.json)
+
+[Extended Data](ext_articles/4c6683b2.ext.json)
+
+---
+
+### A special scheme for children who do not have a birth certificate
+
+*2024-10-03 20:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிறப்புச்-சான்றிதழ்-இல்லாத-குழந்தைகளுக்கான-விஷேட-திட்டம்/175-344882) · `ta`
+
+Special scheme for children without birth certificates. National implementation by Department of Probation and Child Care Services and Registrar General. Free birth certificates issued to address difficulties faced by many children.
+
+🟩
+
+பிறப்புச் சான்றிதழ் இல்லாத குழந்தைகளுக்கான பிறப்புச் சான்றிதழ் வழங்கும் வேலைத்திட்டம் நாடளாவிய ரீதியில் அமுல்படுத்தப்பட்டு வருவதாக அரசாங்க தகவல் திணைக்களம் தெரிவித்துள்ளது.
+
+The purpose of this program is to identify children who do not have birth certificates nationwide and provide certificates by the Department of Probation and Child Care Services and Registrar General.
+
+The program has been implemented as it has been reported that a significant number of children are facing various difficulties without a birth certificate.
+
+The Government Information Department said that the birth certificates issued through this program will not be charged.. Remble
+
+◼️
+
+[Data](articles/bb383539.json)
+
+[Extended Data](ext_articles/bb383539.ext.json)
+
+---
+
+### The resolution of the former Prime Minister
+
+*2024-10-03 20:23:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-பிரதமர்-தரப்பு-எடுத்த-தீர்மானம்/175-344881) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former PM Dinesh Gunawardena's UPFA party announces candidacy in all districts for upcoming general election. Decision made after today's talks.
+
+🟩
+
+The United People's Freedom Alliance (UPFA), led by former Prime Minister Dinesh Gunawardena in the upcoming general election, has announced that it has decided to field candidates in the public symbol in all districts.
+
+The decision has been announced only after talks on the general election today. Remble
+
+◼️
+
+[Data](articles/3c11dc13.json)
+
+[Extended Data](ext_articles/3c11dc13.ext.json)
+
+---
 
 ### High-level IMF delegation meets President Dissanayake
 
@@ -2499,81 +2579,5 @@ Saying that the State government only writes letters to the central government s
 [Data](articles/d342ac87.json)
 
 [Extended Data](ext_articles/d342ac87.ext.json)
-
----
-
-### International Alcohol Abolition Day today!
-
-*2024-10-03 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195363) · `ta`
-
-International Alcohol Abolition Day: 30m addicts worldwide, 50 deaths daily in Sri Lanka, 237b rupees annual cost. Government urged to implement reduction programs. Liquor outlets closed nationwide.
-
-🟩
-
-International Alcohol Abolition Day is celebrated on Thursday (03) globally.
-
-It is reported that about 30 million people are addicted to alcohol every year.
-
-It is reported that nearly 50 people die of alcohol in Sri Lanka due to alcohol use and the government spends 237 billion rupees annually.
-
-The Executive Director of the Liquor and Drug Information Center, Sampath de Seram, said that the government has been asked to implement a systematic program to reduce alcohol use in Sri Lanka.
-
-The Liquor Department said that it has been instructed to close liquor outlets across the country today (03) on the eve of International Alcohol Abolition Day.
-
-◼️
-
-[Data](articles/aa161433.json)
-
-[Extended Data](ext_articles/aa161433.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 296.60/297.20 to US dollar, bond yields up
-
-*2024-10-03 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-296-60-297-20-to-us-dollar-bond-yields-up-182082/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 296.60/297.20 to the US dollar on Thursday, from 296.40/80 a day earlier, while bond yields were up dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.35/50 percent, up from 11.15/30 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.50/55 percent, up from 11.35/45 percent.
-
-A bond maturing on 15.06.2029 was quoted at 11.90./12.10 percent, up from 11.80/85 percent.
-
-In equities, Colombo’s All Share Price Index opened 0.07 percent, or 8.70 points higher at 11,942, while the S&P SL20 of more liquid stocks opened up 0.08 percent or 2.72 points higher at 3,512.
-
-◼️
-
-[Data](articles/d216fc6e.json)
-
-[Extended Data](ext_articles/d216fc6e.ext.json)
-
----
-
-### Bomb bomb exploded at Japan airport
-
-*2024-10-03 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/195362) · `ta`
-
-Japan airport bomb explodes, creates 23-foot crater. US WWII-era bomb suspected. No casualties. Police investigate. Airport aims to reopen Thursday. Miyazaki Airport, once naval base, still contains unexploded ordnance from war.
-
-🟩
-
-The blast caused a ditch on a 23 -foot -deep crater on the airway. No casualties featured.
-
-The Japanese Defense Corps has confirmed that the US bomb weighing £ 500 is responsible for the bombing.
-
-The bomb is thought to have been thrown to prevent "comicase" aircraft during World War II.
-
-There is no chance of an explosion in the area. Police and firefighters are currently investigating the scene. Chief Cabinet Secretary Yoshimasa Hayashi said that the airport is looking forward to reopening on Thursday.
-
-Miyazaki Airport is located in the south -west of East Asian country of Japan. In 1943, during World War II, the airport was opened as the Japanese Naval Base. Hundreds of tons of bombs that were thrown during World War II are buried around Japan. Sometimes, bombs are found during construction.
-
-A total of 2,348 bombs weighing a total of 41 tonnes were removed in 2023, according to the Reuters news agency.
-
-◼️
-
-[Data](articles/6c37fae1.json)
-
-[Extended Data](ext_articles/6c37fae1.ext.json)
 
 ---

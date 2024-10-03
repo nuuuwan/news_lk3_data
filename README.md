@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 16:57:13**
+As of **2024-10-03 16:38:36**
 
 ## Newspaper Stats
 
-*Scraped **47,601** Articles*
+*Scraped **47,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,43 +18,19 @@ dailyftlk | 3,209
 adalk | 4,401
 dailymirrorlk | 4,733
 adaderanalk | 5,599
-tamilmirrorlk | 6,414
+tamilmirrorlk | 6,413
 virakesarilk | 7,612
-adaderanasinhalalk | 8,235
+adaderanasinhalalk | 8,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,601 (100.0%) of 47,601 articles have been extended.
+47,596 (100.0%) of 47,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
-
-### President receives a message to public servants
-
-*2024-10-03 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201812) · `si`
-
-President Anura Kumara Dissanayake says he is appearing for public servants who are dedicated to the creation of an efficient populist public service.
-
-The President added that the proportional traditional political retaliations will not be faced with the government officials who work on behalf of the citizen.
-
-President Anura Kumara Dissanayake made this statement at the discussion with the Ministry officials following the Ministry of Agriculture at the Ministry of Agriculture (03) as Minister of Agriculture.
-
-The President pointed out that the role assigned to the Ministry of Agriculture is determined whether it will be eliminated to eliminate rural poverty.
-
-President Anura Kumara Dissanayake said that the present public servant is required to create an effective and efficient public service to satisfy the citizen.
-
-President Anura Kumara Dissanayake said that the next 40-day will be a transition period and the public servant should take action to run the state service.
-
-...
-
-[Data](articles/ce30449f.json)
-
-[Extended Data](ext_articles/ce30449f.ext.json)
-
----
 
 ### Gates Foundation commits to supporting govt’s digitization projects
 
@@ -72,57 +48,23 @@ Senior Additional Secretary to the President Mr. Roshan Gamage also participated
 
 [Data](articles/1f652d82.json)
 
-[Extended Data](ext_articles/1f652d82.ext.json)
-
 ---
 
-### The fertilizer subsidy of Rs. 25,000 could be granted Rs. 25,000
+### රු 25,000ක පොහොර සහනාධාරය ලබාදිය හැකි බව කෘෂිකර්ම ලේකම් කියයි
 
 *2024-10-03 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201811) · `si`
 
-Sri Lanka: Govt announces Rs. 25,000 fertilizer subsidy per hectare for paddy farmers. President advises QR code system for purchases. Election impact on subsidy amounts discussed. Direct credit method proposed for farmer accounts.
+වී ගොවීන් සඳහා හෙක්ටයාරයකට රුපියල් 25,000ක පොහොර සහනාධාරය ලබාදීමේ කිසිදු ගැටලුවක් නොමැති බව කෘෂිකර්ම අමාත්‍යාංශයේ ලේකම් එම්. පී. එන්. එම්. වික්‍රමසිංහ මහතා අද (03) පැවසීය.
 
-🟩
+අද පෙරවරුවේ ජනාධිපති අනුර කුමාර දිසානායක මහතා කෘෂිකර්ම අමාත්‍යාංශයට පැමිණ සියලුම නිලධාරීන් සමග ප්‍රගති සමාලෝචන සාකච්ඡාවක් පැවැත්වූ අතර ඉන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් එම්. පී. එන්. එම්. වික්‍රමසිංහ මහතා මේ බව පැවසීය.
 
-Secretary to the Ministry of Agriculture MV launched Rs. 25,000 per hectare for paddy farmers. P. N. M. Mr. Wickremesinghe said today (03).
+කෘෂිකර්ම, ඉඩම්, වාරිමාර්ග, පශු සම්පත්, ධීවර හා ජලජ සම්පත් අමාත්‍යාංශයේ ලේකම් එම්. පී. එන්. එම්. වික්‍රමසිංහ මහතා,
 
-President Anura Kumara Dissanayake arrived at the Ministry of Agriculture this morning and thereafter a progress review meeting with all officers.. P. N. M. Mr. Wickremasinghe said this.
-
-Secretary, Ministry of Agriculture, Land, Irrigation, Livestock, Fisheries and Aquatic Resources. P. N. M. Mr. Wickremesinghe,
-
-"The President arrived in the Ministry of Agriculture this morning. There was a progress review discussion with all officers. The President advised the farmers to prepare a QR code system when buying fertilizer fertilizer. Then we have information. The same amount will go to the banking system. "
-
-"The problem does not cause the fertilizer subsidy of Rs 25,000. Rs. 15,000 can be made to Rs. 10,000 after the election. I do not see a problem with Rs. 25,000. "
+"අද උදේ ජනාධිපතිතුමා කෘෂිකර්ම අමාත්‍යාංශයට පැමිණියා. සියලුම නිලධාරීන් සමග ප්‍රගති සමාලෝචන සාකච්ඡාවක් තිබ්බා. එහිදී ජනාධිපතිතුමා උපදෙස් දුන්නා ගොවීන්ට පොහොර මිලදී ගැනීමේදී  QR කේත ක්‍රමයක් සකස් කරන්න කියලා. එතකොට අපිට තොරතුරු වාර්තා වෙනවා. ඒ වාර්තා වූ සැනින් අදාළ මුදල බැංකු ගත කිරීමේ ක්‍රමයකට ඉදිරියේදී යනවා."
 
 ...
 
 [Data](articles/ed68dbc9.json)
-
-[Extended Data](ext_articles/ed68dbc9.ext.json)
-
----
-
-### Demonstration against Child Day Murder
-
-*2024-10-03 16:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவர்-தின-கொலைக்கு-எதிராக-ஆர்ப்பாட்டம்/76-344875) · `ta`
-
-Protesters demand justice after schoolgirl's murder. Students, residents march 5km, over 500 participants.
-
-🟩
-
-Residents of the Nalandawatte area and students of the educated school staged a demonstration in front of the school on Thursday (03) in connection with the brutal murder of a schoolgirl and a group who went to meet his friend's girlfriend.
-
-Students and residents of the area protested for about an hour from the house of the deceased school student to the Kalaimala School, 5 km away from the Kandy -Jaffna A9 road.
-
-The demonstration has been carried out demanding action against the attackers and the death of the student's death.
-
-More than 500 people, including the principal and teachers of the school, participated in the demonstration.
-
-◼️
-
-[Data](articles/b9648e6b.json)
-
-[Extended Data](ext_articles/b9648e6b.ext.json)
 
 ---
 
@@ -152,7 +94,7 @@ More than 500 people, including the principal and teachers of the school, partic
 
 ### At the hospital 15 female workers targeted for the wasp
 
-*2024-10-03 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195404) · `ta`
+*2024-10-03 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195404) · `ta`
 
 Here's a summary of the text in approximately 200 characters:
 
@@ -173,32 +115,6 @@ A spokesman for the hospital said that 11 people were admitted to the Mandarasi 
 [Data](articles/d40b3dcc.json)
 
 [Extended Data](ext_articles/d40b3dcc.ext.json)
-
----
-
-### International Virtue Day
-
-*2024-10-03 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/195399) · `ta`
-
-Protest against alcohol sales near schools and religious sites. Participants demand no liquor stores in the area. Chant slogans promoting sobriety and healthy society. Event organized by local organizations and attended by community members.
-
-🟩
-
-A protest against drugs was held in front of the Sanganai bus stand in front of the North Pradeshiya Virtue Federation on Thursday (03) in honor of the International Virtue Day.
-
-Schools, educational institutions, religious places and citizens are located near the site of the liquor station.
-
-The struggle was therefore urged not to grant permission to the liquor store in the area.
-
-The protesters chanted, "Do not reduce the prices of alcoholic prices, the way for the health of our society is the way for the health of the life, the wine that destroys our society, do not take the wine in your hands, the younger community does not take wine in your hands..
-
-At the end of the struggle, the President was handed over to the President through Kavitha Udayakumar, the Divisional Secretary of Sangan.
-
-...
-
-[Data](articles/38a72ecd.json)
-
-[Extended Data](ext_articles/38a72ecd.ext.json)
 
 ---
 
@@ -249,6 +165,32 @@ According to the Government Information Department, the Government Information D
 [Data](articles/39695d78.json)
 
 [Extended Data](ext_articles/39695d78.ext.json)
+
+---
+
+### International Virtue Day
+
+*2024-10-03 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195399) · `ta`
+
+Protest against alcohol sales near schools and religious sites. Participants demand no liquor stores in the area. Chant slogans promoting sobriety and healthy society. Event organized by local organizations and attended by community members.
+
+🟩
+
+A protest against drugs was held in front of the Sanganai bus stand in front of the North Pradeshiya Virtue Federation on Thursday (03) in honor of the International Virtue Day.
+
+Schools, educational institutions, religious places and citizens are located near the site of the liquor station.
+
+The struggle was therefore urged not to grant permission to the liquor store in the area.
+
+The protesters chanted, "Do not reduce the prices of alcoholic prices, the way for the health of our society is the way for the health of the life, the wine that destroys our society, do not take the wine in your hands, the younger community does not take wine in your hands..
+
+At the end of the struggle, the President was handed over to the President through Kavitha Udayakumar, the Divisional Secretary of Sangan.
+
+...
+
+[Data](articles/38a72ecd.json)
+
+[Extended Data](ext_articles/38a72ecd.ext.json)
 
 ---
 
@@ -322,21 +264,15 @@ The arrested suspect is 38 years old from Wellaweeda.
 
 ---
 
-### Here is the decision about Keheliya's case
+### කෙහෙළියගේ නඩුවක් ගැන අද ලැබුණු තීරණය මෙන්න
 
 *2024-10-03 15:02:04* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නඩුවක්-ගැන-අද-ලැබුණු-තීරණය-මෙන්න/11-412289) · `si`
 
-Colombo High Court orders Bribery and Corruption Commission to summon former Minister Keheliya Rambukwella on November 29th.
-
-🟩
-
-The Colombo High Court has ordered to be summoned by the Bribery and Corruption Commission (CSR) against former Minister Keheliya Rambukwella on the 29th of November.
+හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ලට එරෙහිව අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් ගොනුකළ නඩුව විභාගය සඳහා නොවැම්බර් මස 29 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය  නියෝග කර තිබේ.
 
 ◼️
 
 [Data](articles/74c7d8dd.json)
-
-[Extended Data](ext_articles/74c7d8dd.ext.json)
 
 ---
 
@@ -2473,5 +2409,43 @@ Moreover, Ambassador Qi assured that both institutions, as key commercial and bi
 [Data](articles/3f6c8ad1.json)
 
 [Extended Data](ext_articles/3f6c8ad1.ext.json)
+
+---
+
+### Australian High Commissioner calls on President
+
+*2024-10-03 04:54:13* · [`dailyftlk`](https://www.ft.lk/news/Australian-High-Commissioner-calls-on-President/56-767487) · `en`
+
+The High Commissioner of Australia to Sri Lanka, Paul Stephens yesterday called on President Anura Kumara Dissanayake.
+
+During the discussion, the High Commissioner extended his warmest congratulations to President Dissanayake and the Government of Australia on his recent election, expressing the Australian Government’s strong commitment to deepening ties with Sri Lanka.
+
+The Australian Government reassured its support in key areas, including mari
+
+◼️
+
+[Data](articles/9ab072be.json)
+
+[Extended Data](ext_articles/9ab072be.ext.json)
+
+---
+
+### Japanese Ambassador assures support to President
+
+*2024-10-03 04:40:54* · [`dailyftlk`](https://www.ft.lk/news/Japanese-Ambassador-assures-support-to-President/56-767486) · `en`
+
+Japanese Ambassador Mizukoshi Hideaki yesterday called on President Anura Kumara Dissanayake.
+
+During their cordial meeting, Ambassador Mizukoshi extended his heartfelt congratulations to the President on his recent election victory.
+
+The Ambassador conveyed the Japanese Government’s strong commitment to further enhancing the longstanding relationship between Japan and Sri Lanka. Both leaders discussed areas of mutual interest and expressed their intention to continue working closely to strengthen ties between the two nations.
+
+Ambassador Mizukoshi lauded the President’s focus on eradicating corruption and promoting transparent governance as outlined in his manifesto, expressing Japan’s willingness to support in these initiatives. He also confirmed that Japan-funded projects, such as the Bandaranaike International Airport (BIA) expansion and the Terrestrial Television Broadcast Digitalisation project, would resume.
+
+...
+
+[Data](articles/b7d67dca.json)
+
+[Extended Data](ext_articles/b7d67dca.ext.json)
 
 ---

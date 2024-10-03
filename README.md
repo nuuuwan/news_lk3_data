@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 11:22:49**
+As of **2024-10-03 11:39:19**
 
 ## Newspaper Stats
 
-*Scraped **47,539** Articles*
+*Scraped **47,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,209
 adalk | 4,395
 dailymirrorlk | 4,733
 adaderanalk | 5,590
-tamilmirrorlk | 6,396
+tamilmirrorlk | 6,400
 virakesarilk | 7,599
 adaderanasinhalalk | 8,223
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,223
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,539 (100.0%) of 47,539 articles have been extended.
+47,543 (100.0%) of 47,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### “No longer ready to vote according to the differences”
+
+*2024-10-03 11:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேறுபாடுகளின்-படி-இனி-வாக்களிக்கத்-தயார்-இல்லை/175-344856) · `ta`
+
+People reject voting based on religion, race, or clan. They oppose racism, religious divisions, bribery, and corruption. Economic and social issues worsen. Religious harmony efforts aim to unite communities despite differing beliefs. True believers suffer due to misconceptions about other religions.
+
+🟩
+
+Buddhist affairs coordinator and leader of the Buddhist affairs, Dr. Sastrapati Galagama Tammarani Nayaka Thera said that the people were no longer ready to vote on the basis of religion, race or clan.
+
+He told the media yesterday that people have voted against racism, religious divisions, continuous bribery and corruption in the country.
+
+“Currently, the country's economic and social issues are deteriorating. Therefore, the association has decided to improve religious harmony as part of the unity effort between religion, ”Thera said.
+
+"A group of temples, churches or mosques that do not believe in any religion stood for national and religious harmony in the country. People who have true faith are suffering from their misconceptions, ”he added.
+
+◼️
+
+[Data](articles/db4ccbd5.json)
+
+[Extended Data](ext_articles/db4ccbd5.ext.json)
+
+---
+
+### 5 human remains recovered at the port of Colombo
+
+*2024-10-03 10:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-துறைமுகத்தில்-5-மனித-எச்சங்கள்-மீட்பு/175-344855) · `ta`
+
+Human remains found at Colombo port during excavations. Five skeletons discovered, investigation ongoing. Police protecting evidence. Next phase of digging planned for October 17, 2024.
+
+🟩
+
+Five human skeletons have been recovered during further excavations carried out at the Colombo port premises, police said.
+
+Initially on July 13, human remains were discovered during the 6 -foot -digging construction work near the old secretariat building in Colombo Fort as part of the Port City Highway Project by a private company.
+
+The investigation into the skeletons found at the Port of Colombo was launched on September 5, 2024, headed by the Chief Magistrate of Colombo.
+
+At this point, there were representatives of the office (OMP) of legal officers, archaeologists and missing persons. The Magistrate has approved the OMP (Missing Persons Office) to oversee the investigation into human burials.
+
+The second phase was carried out on September 26, 27 and 28 after the first excavation, police said.. The rescued human skeletons have been kept under police protection at the Colombo (North) Crime Unit for further investigations.
+
+...
+
+[Data](articles/6f77481e.json)
+
+[Extended Data](ext_articles/6f77481e.ext.json)
+
+---
 
 ### A case against the Keheliya is postponed
 
@@ -58,6 +108,30 @@ Former Minister Keheliya Rambukkali and the former Minister of State Printing Co
 
 ---
 
+### “I spoke on the phone with the president"
+
+*2024-10-03 10:47:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-ஜனாதிபதியுடன்-தொலைபேசியில்-பேசினேன்/175-344852) · `ta`
+
+Former MP Ranjan Ramanayake met with the Presidential Secretariat regarding his citizenship status. He claims to have spoken with President Anura Kumara Dissanayake about restoring his rights, including voting eligibility. Ramanayake stated he will refrain from commenting on political parties once his citizenship is reinstated.
+
+🟩
+
+Former parliamentarian Ranjan Ramanayake was summoned by the Presidential Secretariat yesterday with the relevant documents, and his citizenship is expected to be recovered soon.
+
+Commenting on the media after visiting the Presidential Secretariat, Ramanayake said that he was asked to bring some documents yesterday.. "I approached the national people's power leaders. They listened to my request to restore my citizenship. I also spoke to President Anura Kumara Dissanayake on the phone, ”he told the media.
+
+“I was forbidden to contest the election and lost the right to vote. I got a ballot to vote in the presidential election. However, I could not vote because I was abroad, ”he added.
+
+Ramanayake said that when his citizenship is recovered, he will not comment on the NPP in the general election.
+
+◼️
+
+[Data](articles/f03fe007.json)
+
+[Extended Data](ext_articles/f03fe007.ext.json)
+
+---
+
 ### Death towards the wildlife deaths and wild elephants
 
 *2024-10-03 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201796) · `si`
@@ -81,6 +155,38 @@ The Department of Wildlife Conservation said that the deaths were reduced due to
 [Data](articles/05ab8189.json)
 
 [Extended Data](ext_articles/05ab8189.ext.json)
+
+---
+
+### The government should immediately release the names of the telephone number
+
+*2024-10-03 10:39:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெயர்களை-உடனடியாக-அரசாங்கம்-வெளியிட-வேண்டும்/175-344850) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka Tamil party leader demands government reveal names of former MPs/politicians granted liquor permits. Calls for transparency amid controversy over increased liquor stores. Urges publication of license approvers before elections to exclude them from future politics. Criticizes unnecessary privileges for MPs during economic crisis. Supports reducing concessions and improving transparency.
+
+🟩
+
+MA Sumanthiran, a spokesman for the Sri Lankan Tamil state party and former MP MA Sumanthiran, has demanded that the government immediately release the names of former MPs and politicians who have obtained liquor permits in the previous administration.
+
+Speaking at a media briefing in Colombo yesterday, Sumanthiran emphasized the need for transparency in the wake of controversy over the increase in liquor stores across the country.
+
+He urged the government to publish a list of people responsible to recommend to open these companies.
+
+“There is a widespread issue in liquor stores across the country, and the public is worthy of knowing which MPs or politicians have approved these licenses.
+
+This should be made public before the upcoming election, so those involved will be excluded from the future.
+
+Sumanthiran stressed that the increase in liquor outlets is a significant social issue that will have adverse effects on the younger generation.
+
+...
+
+[Data](articles/5a6966fa.json)
+
+[Extended Data](ext_articles/5a6966fa.ext.json)
 
 ---
 
@@ -2199,93 +2305,5 @@ In addition, if a Sri Lankan in Israel wants to return to Sri Lanka, it should b
 [Data](articles/1052137f.json)
 
 [Extended Data](ext_articles/1052137f.ext.json)
-
----
-
-### Julie Sung extends to a further year without refereting Sri Lanka at the UN Human Rights Council
-
-*2024-10-02 18:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195346) · `ta`
-
-US Ambassador Julie Sung extends UNHRC resolution on Sri Lanka without referendum. Discusses post-election politics with TNA leader MA Sumanthiran, focusing on new government policies and potential corruption issues. Questions majority in upcoming general election.
-
-🟩
-
-US Ambassador to Sri Lanka Julie Sung said that the United Nations Human Rights Council (UNHRC) has taken steps to extend the 51/1 resolution already passed on Sri Lanka for a further year without a referendum.
-
-A meeting between US Ambassador to Sri Lanka Julie Sangh and former MP MA Sumanthiran of the Sri Lanka Tamil National Alliance (TNA) MA Sumanthiran. The meeting, which was aimed at discussing the post -President election, lasted for about an hour.
-
-Ambassador Julie Sung asked Sumanthiran about the position of the Tamil National Political Parties, the Tamil general candidate and the presidential election results, including the Sri Lankan Tamil party, in the recent presidential election.
-
-...
-
-[Data](articles/5c2bc0bb.json)
-
-[Extended Data](ext_articles/5c2bc0bb.ext.json)
-
----
-
-### Japanese language to Sri Lankans
-
-*2024-10-02 18:25:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்களுக்கு-ஜப்பானிய-மொழி/175-344823) · `ta`
-
-Japanese Ambassador Mizukoshi Hideaki supports Sri Lanka's President Anuragumara Dissanayake's anti-corruption efforts. He pledged cooperation on projects like airport expansion and digital TV. The ambassador offered Japanese language classes and job opportunities in Japan to deepen bilateral ties.
-
-🟩
-
-Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki (Mizukoshi Hideaki, said that the Japanese government will give full support to the program of President Anuragumara Dissanayake, who is the best rule of corrupt. President Anuragumara Dissanayake and Japanese Ambassador to Sri Lanka.
-
-The Japanese Ambassador expressed his sincere congratulations to Anuragumara Dissanayake, the new president of Sri Lanka, and said the Japanese government is committed to further enhance the long -term ties between Japan and Sri Lanka.
-
-The mutual interested departments between the two countries were exploring in detail and agreed to work closely with the two countries in the future.
-
-In his election manifesto, the Japanese Ambassador congratulated the President Anukumara Dissanayake to focus on the creation of corrupt and excellent regime and promised to provide full support for the program.
-
-...
-
-[Data](articles/208a6d00.json)
-
-[Extended Data](ext_articles/208a6d00.ext.json)
-
----
-
-### China pledges full support for Sri Lanka’s debt restructuring and economic stability
-
-*2024-10-02 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102406/china-pledges-full-support-for-sri-lankas-debt-restructuring-and-economic-stability) · `en`
-
-The Ambassador of the People’s Republic of China to Sri Lanka, Qi Zhenhong met with President Anura Kumara Dissanayake today (02) at the Presidential Secretariat in Colombo.
-
-The Ambassador extended his heartfelt congratulations to the President on his recent election victory and expressed China’s continued commitment to supporting Sri Lanka in its future endeavours, the President’s Media Division (PMD) said.
-
-Ambassador Qi reaffirmed the Chinese government’s continued commitment to enhancing bilateral relations with Sri Lanka, emphasizing the significance of on-going collaborative projects.
-
-He highlighted the active engagement of the China Development Bank (CDB) and EXIM Bank in supporting Sri Lanka’s development initiatives, the statement said.
-
-...
-
-[Data](articles/98c28205.json)
-
-[Extended Data](ext_articles/98c28205.ext.json)
-
----
-
-### Sri Lanka heads for spy shakeup
-
-*2024-10-02 18:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-heads-for-spy-shakeup-182024/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s premier spy agency, the State Intelligence Service (SIS), is set for a shake-up under the new government of President Anura Kumara Dissanayake, according to a source involved in the process.
-
-The agency is to appoint a new head, a serving Deputy Inspector-General (DIG), to replace Suresh Sallay, a controversial retired major general. Sallay was appointed to the top post by Gotabaya Rajapaksa when he became president in November 2019.
-
-With the appointment of a DIG, the SIS returns to the orbit of the police after being under military influence for nearly four years.
-
-Gotabaya had blamed Sallay’s SIS for intelligence failures that led to his toppling in July 2022, following months of street protests against acute shortages of food, fuel, and medicines amid the country’s worst economic crisis.
-
-Rajapaksa’s successor, Ranil Wickremesinghe, not only retained Sallay but also granted him an extension after he retired from active service in the army.
-
-...
-
-[Data](articles/00f0d294.json)
-
-[Extended Data](ext_articles/00f0d294.ext.json)
 
 ---

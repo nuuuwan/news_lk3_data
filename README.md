@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 13:09:00**
+As of **2024-10-03 13:22:51**
 
 ## Newspaper Stats
 
-*Scraped **47,564** Articles*
+*Scraped **47,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,903
 dailyftlk | 3,209
 adalk | 4,398
 dailymirrorlk | 4,733
-adaderanalk | 5,595
+adaderanalk | 5,596
 tamilmirrorlk | 6,405
 virakesarilk | 7,599
 adaderanasinhalalk | 8,227
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,564 (100.0%) of 47,564 articles have been extended.
+47,565 (100.0%) of 47,565 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -381,6 +381,30 @@ A minister of Singapore is a large number of corruption charges in 1986.
 [Data](articles/719f8dcf.json)
 
 [Extended Data](ext_articles/719f8dcf.ext.json)
+
+---
+
+### Two more arrested over defamatory posters of Mannar HC Judge
+
+*2024-10-03 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102416/two-more-arrested-over-defamatory-posters-of-mannar-hc-judge) · `en`
+
+Two more suspects have been arrested in connection with the incident of pasting defamatory posters targeting the Mannar High Court Judge.
+
+The two suspects were arrested in Kelaniya and Dehiwala areas last evening (03) by a team of officers from the Colombo Crimes Division (CCD).
+
+Police have also seized three mobile phones found in the possession of the suspects.
+
+The arrested suspects, residents of Ambakote and Dehiwala areas who are aged 27 and 41, are expected to produce before the Colombo Chief Magistrate Court today (03).
+
+Investigations have revealed that the suspects were involved in designing, printing, and distributing the defamatory posters.
+
+On August 28, the Colombo Crimes Division had launched an investigation into a series of defamatory posters displayed in Colombo and suburbs targeting the Mannar High Court Judge, which had been created using his photograph.
+
+...
+
+[Data](articles/11f0a90e.json)
+
+[Extended Data](ext_articles/11f0a90e.ext.json)
 
 ---
 
@@ -2295,31 +2319,5 @@ The meeting, held at the Presidential Secretariat, featured cordial discussions 
 [Data](articles/30189505.json)
 
 [Extended Data](ext_articles/30189505.ext.json)
-
----
-
-### Exit Exit
-
-*2024-10-02 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195353) · `ta`
-
-Stalin criticizes exam system overhaul, citing unnecessary changes. CID investigates pre-release of Grade 5 scholarship questions. Human Rights Commission advises against action until probe completion.
-
-🟩
-
-Joseph Stalin, General Secretary of the Sri Lanka Teachers Union, says that the complete restructuring of the Department of Examinations is not essential for the crisis of the Examination Questionnaire.
-
-He said this while attending a media briefing in Colombo on Wednesday (02) on the issue of the first questionnaire of the Grade 5 scholarship examination of this year.
-
-“Now the selection sheet is prolonged. The selection department means failure. On 12.04.2024. 473 people involved in various exams. These individuals are banned from choices.
-
-Meanwhile, the Criminal Investigation Department (CID) has not yet completed the investigation of whether the question paper of the Grade 5 scholarship examination has been published in advance, the Sri Lanka Human Rights Commission said.
-
-The announcement was issued on Tuesday (01) and that the Human Rights Commission had written to the Secretary of the Ministry of Education not to take any resolution on the Grade 5 scholarship examination.
-
-◼️
-
-[Data](articles/1056b756.json)
-
-[Extended Data](ext_articles/1056b756.ext.json)
 
 ---

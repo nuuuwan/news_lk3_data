@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 21:39:05**
+As of **2024-10-03 22:12:51**
 
 ## Newspaper Stats
 
-*Scraped **47,638** Articles*
+*Scraped **47,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,149 @@ dailyftlk | 3,209
 adalk | 4,409
 dailymirrorlk | 4,733
 adaderanalk | 5,603
-tamilmirrorlk | 6,423
-virakesarilk | 7,620
-adaderanasinhalalk | 8,241
+tamilmirrorlk | 6,424
+virakesarilk | 7,625
+adaderanasinhalalk | 8,242
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,638 (100.0%) of 47,638 articles have been extended.
+47,645 (100.0%) of 47,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### United Nations leads to meet President
+
+*2024-10-03 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201820) · `si`
+
+UN representative meets SL president, discusses IMF support, praises anti-national programs in election manifesto.
+
+🟩
+
+Sri Lanka's Coordinator Mark-André Franchae has met with President Anura Kumara Dissanayake at the Presidential Secretariat today (03).
+
+Mr. Anura Kumara Dissanayake has been awarded to President Anura Kumara Dissanayake.
+
+Mark Andrew, who commended the moral nature of President Anura Kumara Dissanayake at the last Presidential Election, was also evaluated the election policy statement.
+
+The Mark Andrew Franz has also been assured that the future period will be challenging with the International Monetary World Fund and the UN.
+
+He also praised the anti-nation program in the election manifesto of President Anura Kumara Dissanayake.
+
+The Sri Lankan co-ordinator of the Sri Lanka's new initiatives for national peace was also commended by the Presidential Media Unit, the Presidential Media Unit of the President.
+
+The United Nations has also supported this initiative to promote sustainable peace in the country.
+
+◼️
+
+[Data](articles/992474ca.json)
+
+[Extended Data](ext_articles/992474ca.ext.json)
+
+---
+
+### IMF high -level group met with president
+
+*2024-10-03 21:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்த-IMF-உயர்மட்டக்-குழு/175-344895) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"IMF delegation meets Sri Lankan President Anura Kumara Dissanayake at Presidential Secretariat. Meeting focused on economic discussions."
+
+🟩
+
+The International Monetary Fund (IMF), which has visited Sri Lanka, met President Anura Kumara Dissanayake today (03).
+
+The meeting was held at the Presidential Secretariat, the Presidential Media Unit said. Remble
+
+◼️
+
+[Data](articles/ac88cbb4.json)
+
+[Extended Data](ext_articles/ac88cbb4.ext.json)
+
+---
+
+### A person who falls down from the roof to death
+
+*2024-10-03 21:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/195430) · `ta`
+
+Person fell from roof during construction, died. 34-year-old Tawalambalasa Wewebetha Madulseem. Injured while rehabilitating building in Mettikatna area.
+
+🟩
+
+Madulseem police said that a person died from the roof to the roof.
+
+The death of a 34 -year -old Tawalambalasa Wewebetha Madulseem.
+
+Madhikatna police said that the man was taken to the Mettikattanna Divisional Hospital when he was injured when a building was rehabilitated when the roof of a building was reconstructed in the Mettikatna area.
+
+◼️
+
+[Data](articles/db50a808.json)
+
+[Extended Data](ext_articles/db50a808.ext.json)
+
+---
+
+### Korea Exim Bank Compliance to provide financial assistance to Sri Lanka's development projects
+
+*2024-10-03 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195429) · `ta`
+
+Korean Exim Bank resumes funding Sri Lanka's development projects after economic downturn. Agreement signed at Presidential Office, officials present. Future plans for concessionary assistance announced.
+
+🟩
+
+Korean Exim Bank has agreed to fund the Sri Lankan government's development projects.
+
+Officials of Korea Exim Bank issued the agreement on Thursday (03) at the Presidential Office at the Presidential Secretariat.
+
+As Sri Lanka's economy fell, Korean Exim Bank's funding for Sri Lanka's development projects was suspended on 2022-2024. Representatives of Korean Exim Bank informed the president's secretary that the future will take steps to provide concessionary assistance to re -implement those development projects.
+
+Korean Exim Bank representatives have urged the Sri Lankan government to provide financial assistance to the Government of Sri Lanka in the future.
+
+Korean Exim Bank Director Wonsukh Ha, Deputy Director Hanui Han and Project Manager Nalin Jayatunga were also present at the meeting.
+
+◼️
+
+[Data](articles/1f5514f1.json)
+
+[Extended Data](ext_articles/1f5514f1.ext.json)
+
+---
+
+### The UN. Meeting with the Association of Organization
+
+*2024-10-03 21:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/195428) · `ta`
+
+UN Coordinator meets SL President: Discusses cooperation on development, poverty reduction, and peacebuilding efforts.
+
+🟩
+
+United Nations Coordinator Mark Anduru France met with President Anurakumara Dissanayake on Thursday (03) at the Presidential Office.
+
+The United Nations Resident Coordinator, President Anura Kumara Dissanayake presented the greeting of the UN Secretary -General Antonia Gutaras.
+
+In the last presidential election, President Anura Kumara Dissanayake congratulated the president's election manifesto.
+
+Pointing out that the people's expectations are high, the UN Assistant promised that the UN would cooperate with Sri Lanka's program and poverty alleviation efforts with the International Monetary Fund.
+
+Mark Andrew praised the president's election manifesto and promised to provide UN technical and financial assistance to those initiatives.
+
+Similarly, the resident of the new government for national peace in the community, the resident of the resident, also congratulated the president's commitment to build confidence in each party.
+
+...
+
+[Data](articles/2eb3a602.json)
+
+[Extended Data](ext_articles/2eb3a602.ext.json)
+
+---
 
 ### Ranil party responds to the Minister's Vijitha
 
@@ -64,6 +194,26 @@ Responding to the next Presidential Media Director General of Ranil Wickremesing
 
 ---
 
+### A woman arrested with cigarettes made abroad in Mannar Basalai area
+
+*2024-10-03 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195427) · `ta`
+
+Foreign cigarettes seized, woman arrested in Mannar Basalai. STF recovers cigarettes based on Navy Intelligence tip.
+
+🟩
+
+A batch of foreign cigarettes has been seized from a shop in Mannar Basal area on Thursday evening and a woman has been arrested.
+
+Cigarettes have been recovered during the Mannar Special Task Force (STF), based on information received by the Navy Intelligence Unit.
+
+◼️
+
+[Data](articles/f11336f8.json)
+
+[Extended Data](ext_articles/f11336f8.ext.json)
+
+---
+
 ### A special scheme for children who do not have a birth certificate
 
 *2024-10-03 20:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிறப்புச்-சான்றிதழ்-இல்லாத-குழந்தைகளுக்கான-விஷேட-திட்டம்/175-344882) · `ta`
@@ -85,6 +235,36 @@ The Government Information Department said that the birth certificates issued th
 [Data](articles/bb383539.json)
 
 [Extended Data](ext_articles/bb383539.ext.json)
+
+---
+
+### The North and East must move towards the new politics that joins South Sri Lanka
+
+*2024-10-03 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195426) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka faces economic crisis and political upheaval. New government must address poverty, unemployment, and economic recovery while navigating international pressures and domestic challenges. Political changes in North and East regions expected. Government must balance austerity measures with economic relief and implement policies to address food security and rural development. Foreign policy shift towards non-aligned stance recommended to counter influence of major powers.
+
+🟩
+
+We see a biggest political change in the south.Similarly, there is a possibility of massive political changes in the North and East
+
+New politics has long been a challenge in the Tamil political area. It is important to know how to carry out a politics with the southern people, the Muslim people and the people of the hill country within the United Sri Lanka. Dr. Akhilan Kadirgamar, a senior lecturer and economist of the university.
+
+He made this statement in a special interview with Veerakesari. The details of the examination
+
+Question in Sri Lanka's history. How do you see the new president's choice?
+
+The answer is that we see this as a historical change.That is, the two major parties in Sri Lanka or the parties that have been separated from it are not given power.A party that has carried out an armed struggle twice in Sri Lanka has now come to power.We have been facing a huge economic crisis since 2022.
+
+...
+
+[Data](articles/560148ac.json)
+
+[Extended Data](ext_articles/560148ac.ext.json)
 
 ---
 
@@ -118,7 +298,15 @@ The decision has been announced only after talks on the general election today. 
 
 The high-level delegation from the International Monetary Fund (IMF) visiting Sri Lanka met with President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo today, the President’s Media Division (PMD) said.
 
-◼️
+President Dissanayake reaffirmed commitment to IMF objectives and advocated for alternative solutions to ease the burden on people today, the President’s Media Division said.
+
+While reaffirming the government’s broad agreement in principle with the objectives of the IMF programme, he emphasized the importance of achieving these objectives through alternative means that relieves the burden off the people, it said.
+
+The President stated that the government plans to expand social spending and offer relief to those burdened by high Value Added Tax (VAT) and income taxes.
+
+The IMF team led by its Director of the Asia Pacific Department, Krishna Srinivasan, is on a visit Colombo from October 02 to 04.
+
+...
 
 [Data](articles/293b87ab.json)
 
@@ -2401,183 +2589,5 @@ Ramanayake said that when his citizenship is recovered, he will not comment on t
 [Data](articles/f03fe007.json)
 
 [Extended Data](ext_articles/f03fe007.ext.json)
-
----
-
-### Death towards the wildlife deaths and wild elephants
-
-*2024-10-03 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201796) · `si`
-
-Wildlife deaths decrease: 340 elephants killed in 2022 vs 239 in 2023. Elephant-related deaths drop from 117 to 90. Department attributes reduction to conservation efforts.
-
-🟩
-
-The number of deaths caused by elephant deaths and wild elephants in the first eight months of this year have been reduced, said the Department of Wildlife Conservation.
-
-340 elephants were killed in the first 8 months of last year.
-
-The department said that only 239 of the elephants have died during this year.
-
-Elephants have taken 117 deaths in the first eight months of last year and it has been reduced to 90 this year.
-
-The Department of Wildlife Conservation said that the deaths were reduced due to measures taken by his department.
-
-◼️
-
-[Data](articles/05ab8189.json)
-
-[Extended Data](ext_articles/05ab8189.ext.json)
-
----
-
-### The government should immediately release the names of the telephone number
-
-*2024-10-03 10:39:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெயர்களை-உடனடியாக-அரசாங்கம்-வெளியிட-வேண்டும்/175-344850) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka Tamil party leader demands government reveal names of former MPs/politicians granted liquor permits. Calls for transparency amid controversy over increased liquor stores. Urges publication of license approvers before elections to exclude them from future politics. Criticizes unnecessary privileges for MPs during economic crisis. Supports reducing concessions and improving transparency.
-
-🟩
-
-MA Sumanthiran, a spokesman for the Sri Lankan Tamil state party and former MP MA Sumanthiran, has demanded that the government immediately release the names of former MPs and politicians who have obtained liquor permits in the previous administration.
-
-Speaking at a media briefing in Colombo yesterday, Sumanthiran emphasized the need for transparency in the wake of controversy over the increase in liquor stores across the country.
-
-He urged the government to publish a list of people responsible to recommend to open these companies.
-
-“There is a widespread issue in liquor stores across the country, and the public is worthy of knowing which MPs or politicians have approved these licenses.
-
-This should be made public before the upcoming election, so those involved will be excluded from the future.
-
-Sumanthiran stressed that the increase in liquor outlets is a significant social issue that will have adverse effects on the younger generation.
-
-...
-
-[Data](articles/5a6966fa.json)
-
-[Extended Data](ext_articles/5a6966fa.ext.json)
-
----
-
-### A train collides
-
-*2024-10-03 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195365) · `ta`
-
-Train collision reported near Hettimulla-Aluthgama railway stations. Police investigating incident. Body taken for autopsy at Nagoda Hospital.
-
-🟩
-
-A train collided between Hettimulla and Aluthgama railway stations belonging to the Aluthgama police division on Wednesday night (02), police said.
-
-In addition, the body has been placed in the funeral room of the Nagoda Hospital for autopsy and Aluthgama police are conducting further investigations.
-
-◼️
-
-[Data](articles/cc73b30b.json)
-
-[Extended Data](ext_articles/cc73b30b.ext.json)
-
----
-
-### Three cases of accidents in different areas
-
-*2024-10-03 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195364) · `ta`
-
-Road accidents claim lives: Motorcycle-bus crash, three-wheeler rock collision, speeding taxi crash.
-
-🟩
-
-Three people have died in road accidents that occurred on Wednesday (02) in different areas, police said.
-
-The accident occurred when a motorcycle traveling from the Suriyawewa area crashed into a bus that was trying to overtake a bus in the same direction when he tried to turn the right side of the road.
-
-A motorcycle driver and a four -year -old girl who was traveling on a motorcycle was injured and admitted to the Sunwewa Hospital and transferred to the Hambantota Resource Hospital for further treatment, police said.
-
-Subsequently, the driver of the tipper vehicle has fled the area and Suriyawewa police are conducting investigations to arrest him.
-
-Meanwhile, a three -wheeler traveling from Kiriveltola to Deniyaya has lost control of the driver and crashed into a rock in the Kirivella junction of the Deniyaya - Kirivella road.
-
-...
-
-[Data](articles/f5cd1b78.json)
-
-[Extended Data](ext_articles/f5cd1b78.ext.json)
-
----
-
-### Two others were arrested by High Court Judge
-
-*2024-10-03 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201795) · `si`
-
-High Court Judge arrests two suspects in Mannar case. Police seize phones, investigating alleged insults. Three more arrested earlier, remanded. Further arrests pending.
-
-🟩
-
-Two more suspects have been arrested in connection with the Mannar High Court Judge of the Mannar High Court.
-
-The suspects were arrested by the Colombo Crimes Division in Kelaniya and Dehiwala areas yesterday.
-
-Police have also seized three mobile phones in their possession.
-
-The suspects are aged between 27 and 41 years of age and 41 years of age.
-
-They are to be produced before the Colombo Chief Magistrate today (03).
-
-Investigations have revealed that the suspects have been made, printed and possessed by the suspects.
-
-The Colombo Crimes Division has launched an investigation into whether he is insulted by the Mannar High Court Judge on August 28.
-
-Three suspects have been arrested on September 11, a resident of Madapatha, Matale and Pannipitiya.
-
-They were produced before the Colombo Chief Magistrate's Court and remanded.
-
-The Colombo Crimes Division is conducting further investigations to arrest other suspects in connection with the incident.
-
-◼️
-
-[Data](articles/14495e93.json)
-
-[Extended Data](ext_articles/14495e93.ext.json)
-
----
-
-### Person killed after being hit by train in Aluthgama
-
-*2024-10-03 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102415/person-killed-after-being-hit-by-train-in-aluthgama) · `en`
-
-A person has reportedly been killed after being hit by a train between Hettimulla and Aluthgama railway stations in the Aluthgama police division.
-
-The individual died after he was hit by a train plying from Maradana to Hikkaduwa.
-
-The body has been placed in the mortuary of the Nagoda Hospital and Aluthgama Police is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/fede7d19.json)
-
-[Extended Data](ext_articles/fede7d19.ext.json)
-
----
-
-### Fishermen arrest: PMK to picket Sri Lankan Consulate in Chennai
-
-*2024-10-03 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102414/fishermen-arrest-pmk-to-picket-sri-lankan-consulate-in-chennai) · `en`
-
-Condemning the arrest of Tamil Nadu fishermen by the Sri Lankan navy, PMK president Anbumani Ramadoss has announced that the party will stage a protest at the Sri Lankan Deputy High Commission in Chennai on October 8.
-
-In a statement, Anbumani said that since June 16 after the fishing ban ended, as many as 404 fishermen have been arrested.
-
-“As many as 54 boats have been seized. In total, 192 boats were impounded and 162 fishermen remain in Sri Lankan prisons. Due to the arrests, families of fishermen are suffering, “ he said.
-
-Saying that the State government only writes letters to the central government seeking action, Anbumani added that during the protest, the party will demand the release of fishermen and their boats.
-
-...
-
-[Data](articles/d342ac87.json)
-
-[Extended Data](ext_articles/d342ac87.ext.json)
 
 ---

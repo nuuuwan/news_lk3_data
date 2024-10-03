@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 15:23:33**
+As of **2024-10-03 15:38:46**
 
 ## Newspaper Stats
 
-*Scraped **47,589** Articles*
+*Scraped **47,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ dailymirrorlk | 4,733
 adaderanalk | 5,598
 tamilmirrorlk | 6,412
 virakesarilk | 7,608
-adaderanasinhalalk | 8,231
+adaderanasinhalalk | 8,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,589 (100.0%) of 47,589 articles have been extended.
+47,589 (100.0%) of 47,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### රාජ්‍ය පරිපාලන අමාත්‍යාංශයට නව ලේකම්වරයෙක්
+
+*2024-10-03 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201810) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් රාජ්‍ය පරිපාලන,  ස්වදේශ කටයුතු පළාත් සභා පළාත් පාලන සහ කම්කරු අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස එස්. ආලෝක බණ්ඩාර මහතා පත්කර ඇත.
+
+අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් අද (03) ජනාධිපති ලේකම් කාර්යාලයේදී ඒ මහතා වෙත භාර දුන්නේය.
+
+◼️
+
+[Data](articles/8ac95e5c.json)
+
+---
+
+### උප්පැන්න සහතික නොමැති ළමුන් වෙනුවෙන් වැඩසටහනක්
+
+*2024-10-03 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201809) · `si`
+
+උප්පැන්න සහතික නොමැති ළමුන් සඳහා උප්පැන්න සහතික ලබාදීමේ වැඩසටහනක් දිවයින පුරා ක්‍රියාත්මක කරන බව රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව පවසයි.
+
+පරිවාස හා ළමාරක්ෂක සේවා දෙපාර්තමේන්තුව සහ රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව එක්ව දිවයින පුරා උප්පැන්න සහතික නොමැති දරුවන් හඳුනාගනිමින් ඔවුනට එම සහතික ලබාදීම මෙම වැඩසටහනේ අරමුණ වේ.
+
+මේ වන විටත් සැලකිය යුතු ළමුන් පිරිසක් උප්පැන්න සහතික නොමැතිව විවිධ දුෂ්කරතාවලට මුහුණ දෙන බවට වාර්තා වී ඇති බැවින් මෙම වැඩසටහන ක්‍රියාත්මක කර ඇත.
+
+ප්‍රාදේශීය ලේකම් කාර්යාල මට්ටමින් සේවය කරනු ලබන ළමා හිමිකම් ප්‍රවර්ධන නිලධාරීන් මගින් මෙම ක්‍රියාවලිය මෙම මාසය පුරා සිදු කෙරේ.
+
+මෙම වැඩසටහන ඔස්සේ ඔක්තෝබර් මාසය පුරා ලබා දෙන උප්පැන්න සහතික සඳහා කිසිදු අයකිරීමක් සිදු නොකරන බව ද රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/39695d78.json)
+
+---
 
 ### Rs 1 crore robbery in Jaffna: two arrested
 
@@ -2385,49 +2419,5 @@ As a vital part of the nation’s economic framework, the export sector stands r
 [Data](articles/46fe80ca.json)
 
 [Extended Data](ext_articles/46fe80ca.ext.json)
-
----
-
-### Excise Department urges companies to settle Rs. 1.8 b unpaid taxes by 30 November
-
-*2024-10-03 01:04:01* · [`dailyftlk`](https://www.ft.lk/business/Excise-Department-urges-companies-to-settle-Rs-1-8-b-unpaid-taxes-by-30-November/34-767472) · `en`
-
-Excise Department Commissioner General M.J. Gunasiri says only Rs. 162 b of Rs. 323 b target achieved so far
-
-Warns legal action will be taken against companies who fail to comply
-
-The Excise Department Commissioner General M.J. Gunasiri yesterday called on liquor manufactures to pay their overdue taxes before 30 November, warning that legal action will be taken against those who fail to comply.
-
-Speaking to the media after a meeting with distillery manufacturers, he insisted that despite the challenges faced by the companies, extended time had already been given for payment.
-
-“The total unpaid taxes for the financial year 2023/24 amount to around Rs. 1.8 billion. The department has a target of Rs. 323 billion for the year, but only Rs. 162 billion has been collected so far,” he said, adding that this year’s target is Rs. 53 billion higher than last year.
-
-...
-
-[Data](articles/5c1cdca2.json)
-
-[Extended Data](ext_articles/5c1cdca2.ext.json)
-
----
-
-### Vijitha Herath - Julie Sung Meeting
-
-*2024-10-03 00:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-ஜூலி-சங்-சந்திப்பு/175-344844) · `ta`
-
-Foreign Minister Vijitha Herath met US Ambassador Julie Sung. They discussed strengthening US-Sri Lanka ties, focusing on security, trade, and human rights. The US remains committed to supporting Sri Lanka's national integrity, justice, and transparent governance.
-
-🟩
-
-There is a meeting between Foreign Minister Vijitha Herath and US Ambassador to Sri Lanka Julie Sangh.
-
-He noted that he is looking forward to strengthening relations between the US and Sri Lanka and working on issues such as security, trade and human rights.
-
-US Ambassador Julie Sung has said that the US is still dedicated to support the progress of national integrity, justice and transparent administration.. (A)
-
-◼️
-
-[Data](articles/f1202cc4.json)
-
-[Extended Data](ext_articles/f1202cc4.ext.json)
 
 ---

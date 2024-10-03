@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 13:58:18**
+As of **2024-10-03 14:12:09**
 
 ## Newspaper Stats
 
-*Scraped **47,573** Articles*
+*Scraped **47,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,104 @@ adalk | 4,399
 dailymirrorlk | 4,733
 adaderanalk | 5,596
 tamilmirrorlk | 6,406
-virakesarilk | 7,605
-adaderanasinhalalk | 8,227
+virakesarilk | 7,607
+adaderanasinhalalk | 8,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,573 (100.0%) of 47,573 articles have been extended.
+47,577 (100.0%) of 47,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### The President took over the duties of the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources
+
+*2024-10-03 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195389) · `ta`
+
+President Anuragumara Dissanayake assumed responsibilities of Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources on 03/Thursday.
+
+🟩
+
+President Anuragumara Dissanayake took over the duties of the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources on Thursday (03).
+
+◼️
+
+[Data](articles/94443af9.json)
+
+[Extended Data](ext_articles/94443af9.ext.json)
+
+---
+
+### Unidentified body found in Wellawatte coast
+
+*2024-10-03 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201805) · `si`
+
+Body discovered Wellawatte coast investigation underway police report details
+
+🟩
+
+Unidentified body has been launched to the coast of the Wellawatte Seawah area.
+
+Investigations into the Wellawatte Police had commenced today (03).
+
+A 45-year-old, a typical bundle, is one of four feet high in a height height.
+
+◼️
+
+[Data](articles/a98d21d5.json)
+
+[Extended Data](ext_articles/a98d21d5.ext.json)
+
+---
+
+### Freedom Party Alliance to the General Election
+
+*2024-10-03 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201804) · `si`
+
+Sri Lanka Freedom Party undecided about general election participation. Leader Mahinda Amaraweera focuses on alliances for future elections.
+
+🟩
+
+The Sri Lanka Freedom Party has not yet decided to contest the general election, Mr. Mahinda Amaraweera said.
+
+He said that he was also focused on contending to the next general election with several other parties.
+
+Speaking to the media, Mahinda Amaraweera expressed his views to the media when he came to attend a discussion at the Independence Party Headquarters on how to contest the general election.
+
+◼️
+
+[Data](articles/806362f9.json)
+
+[Extended Data](ext_articles/806362f9.ext.json)
+
+---
+
+### Wild Elephants in Vavuniya - Eechangulam
+
+*2024-10-03 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195386) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Vavuniya: Wild elephants destroy coconut trees overnight. Impact on agriculture and livelihoods in southern areas."
+
+🟩
+
+A large number of coconut trees have been completely destroyed overnight by wild elephants in Vavuniya.
+
+Elephants have been destroyed by the elephants during the waterfront and cultivated in the South and their livelihood has been affected and how to do the upcoming agricultural impact on the impact of the elephant.
+
+◼️
+
+[Data](articles/5e4445f6.json)
+
+[Extended Data](ext_articles/5e4445f6.ext.json)
+
+---
 
 ### Japan will never invest in Sri Lanka if corruption continues - Ambassador
 
@@ -342,7 +428,13 @@ The Election Commission of Sri Lanka says that steps will be taken to hold the L
 
 The Election Commission of Sri Lanka says that steps will be taken to hold the Local Government Elections, in compliance with the Supreme Court order, as soon as the upcoming General Election is concluded.
 
-◼️
+The announcement notes that the Election Commission has given due respect to the Supreme Court’s decision made on 22.08.2024, concerning the Fundamental Rights Applications related to the 2023 Local Government Elections.
+
+Accordingly, the announcement further emphasizes that the Election Commission acknowledges its responsibility to safeguard the democratic rights of the people of Sri Lanka.
+
+The chairman of the Election Commission has reiterated in the announcement that according to the Supreme Court’s order and in accordance with the legal guidelines for holding elections, the Commission plans to set a date immediately for the local government elections after the parliamentary elections conclude.
+
+...
 
 [Data](articles/dfff1ba9.json)
 
@@ -2283,91 +2375,5 @@ Interviews from the suspect is a leading drug dealer who is hiding in a foreign 
 [Data](articles/282e0da9.json)
 
 [Extended Data](ext_articles/282e0da9.ext.json)
-
----
-
-### Employers’ Federation of Ceylon congratulates President AKD
-
-*2024-10-02 22:36:00* · [`islandlk`](http://island.lk/employers-federation-of-ceylon-congratulates-president-akd/) · `en`
-
-The Employers’ Federation of Ceylon (EFC), congratulates and extends its best wishes to Anura Kumara Dissanayaka on his election as the 9th executive President of Sri Lanka.
-
-The EFC, established in 1929, is an organization of employers dealing with Labour, Employment and Social policy in Sri Lanka. Today, it is the principal organization of employers promoting employer interests at national level.
-
-...
-
-[Data](articles/fd3163e4.json)
-
-[Extended Data](ext_articles/fd3163e4.ext.json)
-
----
-
-### West Asian tensions trigger share market volatility; indices down
-
-*2024-10-02 22:34:00* · [`islandlk`](http://island.lk/west-asian-tensions-trigger-share-market-volatility-indices-down/) · `en`
-
-The stock market was highly volatile yesterday due to tensions in West Asia focusing on Israel and Lebanon. Global stock markets also showed some volatility and stocks dipped, stock market analysts said.
-
-Amid those developments both indices were down. The All Share Price Index went down by 58.68 points while S and P SL20 declined by 8.28 points.
-
-Turnover stood at Rs 2.2 billion with four crossings. Those crossings were reported in Commercial Bank, where 1.5 million shares crossed to the tune of Rs 156 million; its share price was Rs 104.50, Sampath Bank 1.5 million shares crossed for Rs 120 million; its shares traded at Rs 80 and NTB 200,000 shares crossed for Rs 25.8 million; its shares traded at Rs 129.
-
-...
-
-[Data](articles/21bd7224.json)
-
-[Extended Data](ext_articles/21bd7224.ext.json)
-
----
-
-### Lions' daughter to fight tomorrow
-
-*2024-10-02 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201784) · `si`
-
-Women's 20 World Cup starts tomorrow. Scotland, Bangladesh join. Sri Lanka vs Pakistan first match. Tournament divided into two categories. Sri Lanka team plays four matches against Pakistan, Australia, India, New Zealand.
-
-🟩
-
-The 9th Women's 20 World Cup Tomorrow begins tomorrow (03).
-
-Scotland and Bangladesh are due to enter the tournament.
-
-The first match of the Sri Lanka women's group will be held at 7.30 pm tomorrow with Pakistan.
-
-The ICC took steps to take the ICC to take the United Arabic Emer to the United Arabic Emer state due to the political crisis of 2024.
-
-This year's tournament is operating in two categories and enters the Sri Lanka Women's Team.
-
-Sri Lanka women participate in four matches in the basic tournament, which is Pakistan, Australia, India and New Zealand.
-
-When the Women's Group was in six World Cups, Australia's 8 cricket tournaments in six cricket tournaments, England and West were women's groups in one of the 20th 2020 World Champions.
-
-◼️
-
-[Data](articles/e7160c68.json)
-
-[Extended Data](ext_articles/e7160c68.ext.json)
-
----
-
-### AKD needs presidency, not supermajority; Sajith as PM means win-win
-
-*2024-10-02 22:24:10* · [`dailyftlk`](https://www.ft.lk/columns/AKD-needs-presidency-not-supermajority-Sajith-as-PM-means-win-win/4-767460) · `en`
-
-For roughly two decades (1970-1989), Ceylon/Sri Lanka lived under two consecutive administrations, one centre-left, the other centre-right, led by Sirima Bandaranaike and JR Jayewardene respectively, which possessed a two-thirds majority in Parliament. Those nearly 20 years were the most bloodily nightmarish in our country’s modern history. Why would any rational person want President AKD and his NPP to win a two-thirds majority in Parliament when it inevitably leads to a bad end?
-
-Sri Lanka has the best chance of a win/win scenario it has had since 2009 when we won the war.
-
-In my columns (and sporadic TV and YouTube appearances) early this year on the elections, I made three points.
-
-We should grasp the chance for a generational change of national leadership with Anura and Sajith.
-
-We should end a long dark chapter in our contemporary history by electorally exorcising Ranil Wickremesinghe.
-
-...
-
-[Data](articles/0d95e65a.json)
-
-[Extended Data](ext_articles/0d95e65a.ext.json)
 
 ---

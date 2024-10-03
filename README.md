@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 18:34:27**
+As of **2024-10-03 18:59:28**
 
 ## Newspaper Stats
 
-*Scraped **47,616** Articles*
+*Scraped **47,617** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 394
-bbccomsinhala | 468
+bbccomsinhala | 469
 colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,236
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,616 (100.0%) of 47,616 articles have been extended.
+47,617 (100.0%) of 47,617 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1308,6 +1308,42 @@ The sentence handed down was more severe than the six to seven months sought by 
 
 ---
 
+### "Police officers apologize in Supreme Court
+
+*2024-10-03 12:06:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9p14qj5j7o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Police officers apologize in Supreme Court over wrongful interrogation. Three officers admitted fault for detaining a man based on mistaken tattoo claim. Petitioner seeks compensation for violation of basic rights.
+
+🟩
+
+"Police officers apologize in Supreme Court
+
+A group of police officers today (October 3) was unconditionally forging a lawyer's driver to interrogate a lawyer from the guy.
+
+This apology was taken by the Supreme Court today before the Supreme Court today, a fundamental rights filed by the Supreme Court today.
+
+The petition was summoned before the Supreme Court Judge Bench, the three-member Supreme Court Bedule consisting of cheer pure Padman Surasena.
+
+Dissanayake, Premaratne, Police Constables, Ratnasiri, Senadheera, Senadheera and Nanashakkara have apologized for the incident.
+
+The petitioner claims that he returned to the Negombo Magistrate on January 16 and returned to his motorcycle front of the motorcyclists.
+
+The petitioner said that the group, which was said to be "from the police," and examined the hands of their right hand, "a tattoo."
+
+Police apologize to three suspects who were detained after the Passover attack
+
+...
+
+[Data](articles/b7c12a31.json)
+
+[Extended Data](ext_articles/b7c12a31.ext.json)
+
+---
+
 ### Postponement of the case against Keheliya
 
 *2024-10-03 12:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிரான-வழக்கு-ஒத்திவைப்பு/175-344866) · `ta`
@@ -2511,27 +2547,5 @@ The Sri Lanka Muslim Congress had assisted the presidential candidate of reconci
 [Data](articles/46b680a3.json)
 
 [Extended Data](ext_articles/46b680a3.ext.json)
-
----
-
-### World Alcohol Prevention Day
-
-*2024-10-03 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201789) · `si`
-
-World Alcohol Prevention Day: Nearly 3 million deaths annually worldwide due to alcohol. In Sri Lanka, alcohol-related deaths occur while the government spends $237 billion annually on healthcare. The Alcohol and Drugs Center executive director calls for a systematic program to address alcohol use.
-
-🟩
-
-Nearly 3 million people die each year around the world due to alcohol.
-
-The alcoholic use of Sri Lanka is killed every year, while the government spends 237 billion annually for the sick.
-
-Executive Director of Alcohol and Drugs Center, said that the government requests the implementation of a systematic program to ensure the use of alcohol use.
-
-◼️
-
-[Data](articles/261e4b6a.json)
-
-[Extended Data](ext_articles/261e4b6a.ext.json)
 
 ---

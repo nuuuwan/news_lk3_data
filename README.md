@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 17:08:01**
+As of **2024-10-03 17:22:57**
 
 ## Newspaper Stats
 
-*Scraped **47,603** Articles*
+*Scraped **47,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,209
 adalk | 4,402
 dailymirrorlk | 4,733
 adaderanalk | 5,600
-tamilmirrorlk | 6,414
+tamilmirrorlk | 6,415
 virakesarilk | 7,612
 adaderanasinhalalk | 8,235
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,235
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,601 (100.0%) of 47,603 articles have been extended.
+47,604 (100.0%) of 47,604 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Amaraweera made these comments while speaking to the media when he arrived to pa
 ◼️
 
 [Data](articles/98671fe2.json)
+
+[Extended Data](ext_articles/98671fe2.ext.json)
 
 ---
 
@@ -76,17 +78,23 @@ President Anura Kumara Dissanayake said that the next 40-day will be a transitio
 
 ---
 
-### රාජ්‍ය පරිපාලන අමාත්‍යාංශයට නව ලේකම්වරයෙක්
+### New Secretary to the Ministry of Public Administration
 
 *2024-10-03 16:17:44* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-පරිපාලන-අමාත්‍යාංශයට-නව-ලේකම්වරයෙක්/11-412290) · `si`
 
-රාජ්‍ය පරිපාලන,  ස්වදේශ කටයුතු පළාත් සභා පළාත් පාලන සහ කම්කරු අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස එස්. ආලෝක බණ්ඩාර මහතා පත්කර තිබේ.
+Mr. Bhak Bandara appointed as New Secretary to Ministry of Public Administration. President Anura Kumara Dissanayake made the appointment. Letter handed over at Presidential Secretariat on March 3rd.
 
-මෙම පත් කිරීම ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් සිදු කර ඇති අතර,  පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් අද (03) ජනාධිපති ලේකම් කාර්යාලයේදී ඒ මහතා වෙත භාර දී ඇත.
+🟩
+
+Public Administration, Home Affairs Ministry of Local Government and Ministry of Labor. Mr. Bhak Bandara has been appointed.
+
+President Anura Kumara Dissanayake has been appointed by President Anura Kumara Dissanayake and the appointment letter has been handed over to him at the Presidential Secretariat today (03).
 
 ◼️
 
 [Data](articles/e09f40d8.json)
+
+[Extended Data](ext_articles/e09f40d8.ext.json)
 
 ---
 
@@ -449,6 +457,32 @@ They have been appointed as the Maubima Janata Party (MJP) and the district orga
 [Data](articles/09f6ee45.json)
 
 [Extended Data](ext_articles/09f6ee45.ext.json)
+
+---
+
+### Ali Sabri returns to lawyer business
+
+*2024-10-03 14:29:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணி-தொழிலுக்குத்-திரும்பினார்-அலி-சப்ரி/175-344871) · `ta`
+
+Ali Sabri resumes law practice after political career. Former Foreign Minister shares photo, confirms no election bid. Served under Gotabhaya Rajapaksa and Ranil Wickremesinghe.
+
+🟩
+
+Former Foreign Minister Ali Sabri has returned to his legal business following the recent regime change.
+
+Ali Sabri has shared a photo on social media with his legal profession, and posted, "I am happy to return to my place."
+
+The former minister has confirmed that he will not contest the upcoming parliamentary elections.
+
+Ali Sabri, a prominent member of the Sri Lanka PA (SLPP) party, was elected to Parliament through the National List.
+
+He served as the Minister of Justice and Foreign Affairs under former governments of Gotabhaya Rajapaksa and Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/af967edd.json)
+
+[Extended Data](ext_articles/af967edd.ext.json)
 
 ---
 
@@ -2443,27 +2477,5 @@ Speaking to the media, Ramanayake revealed that he had spoken to the President o
 [Data](articles/51b0f125.json)
 
 [Extended Data](ext_articles/51b0f125.ext.json)
-
----
-
-### MJP announces significant appointments ahead of General Election
-
-*2024-10-03 05:08:31* · [`dailyftlk`](https://www.ft.lk/news/MJP-announces-significant-appointments-ahead-of-General-Election/56-767490) · `en`
-
-Appoints former Minister Roshan Ranasinghe as Chairman of MJP, former Minister Prof. Channa Jayasumana as Deputy Chairman
-
-The Mawbima Janatha Party (MJP) leader Dilith Jayaweera yesterday announced that the party made significant appointments yesterday. Taking to ‘X’ he noted that former Minister Roshan Ranasinghe was appointed as the Chairman of the party, while former Minister Prof. Channa Jayasumana was appointed the Deputy Chairman.
-
-In addition, former MP Milan Jayatilake was appointed as the Gampaha District Organiser, while former Western Provincial Council Member Rajitha Hapuarachchi was appointed Organiser of the Katana seat.
-
-Jayaweera said the appointments were made as MJP prepares to contest the upcoming General Election on 14 November.
-
-“I welcome them and look forward to working closely towards a Happy Nation,” he added.
-
-◼️
-
-[Data](articles/1b7e84ff.json)
-
-[Extended Data](ext_articles/1b7e84ff.ext.json)
 
 ---

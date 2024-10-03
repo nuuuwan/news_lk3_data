@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 11:39:19**
+As of **2024-10-03 11:58:40**
 
 ## Newspaper Stats
 
-*Scraped **47,543** Articles*
+*Scraped **47,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,80 @@ dbsjeyarajcom | 394
 bbccomsinhala | 468
 colombotelegraphcom | 473
 islandlk | 2,797
-economynextcom | 2,899
+economynextcom | 2,903
 dailyftlk | 3,209
 adalk | 4,395
 dailymirrorlk | 4,733
 adaderanalk | 5,590
-tamilmirrorlk | 6,400
+tamilmirrorlk | 6,401
 virakesarilk | 7,599
-adaderanasinhalalk | 8,223
+adaderanasinhalalk | 8,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,543 (100.0%) of 47,543 articles have been extended.
+47,548 (100.0%) of 47,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### 19 MPs change in the 9th Parliament
+
+*2024-10-03 11:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-ஆவது-பாராளுமன்றில்-19-எம்-பிக்கள்-மாற்றம்/175-344859) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Ninth Parliament saw 19 MP changes. Key events: Jayantha Kadagoda's resignations, Basil Rajapakse's replacement, and Gotabhaya Rajapaksa's presidency. Four dissolutions occurred during its five sessions.
+
+🟩
+
+The first session began on August 20, 2020, and on September 24, 2024, the vacuum of 19 Parliamentary Members of the Constitution under Article 66 of the Constitution was dissolved by President Anura Kumara Dissanayake.
+
+In 18 cases, 16 were appointed as MPs. Accordingly, 241 members represented Parliament.
+
+Jayantha Kadagoda resigned to Parliament on the national list and Basil Rajapakse was replaced by him.
+
+Jayantha Kadagoda has been re -appointed to the vacuum following the resignation of National List MP Ajith Niwad Kabral. Similarly, AHM Fouzi was appointed for the vacuum following the resignation of Mujibur Rahman.
+
+Subsequently, Mujibur Rahman was re -appointed to the vacancy caused by the loss of membership in the name of MP Diana Kamage.. However, a new parliamentarian has not been appointed to the vacuum of Harin Fernando.
+
+...
+
+[Data](articles/7dd52ffa.json)
+
+[Extended Data](ext_articles/7dd52ffa.ext.json)
+
+---
+
+### Former cabinet minister hearing gifts
+
+*2024-10-03 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201798) · `si`
+
+Singapore former Cabinet Minister sentenced 12 months prison corruption charges
+
+🟩
+
+Former Cabinet Minister in Singapore, who has been accused of receiving the Minister of Transport, has been sentenced to 12 months in prison.
+
+According to foreign media reports, Subramaniam Azwaran served as the Minister of Trade, Communication and Transport.
+
+He has been a member of the Singapore cabinet for 13 years and has been obtained from the Ministry of Transport.
+
+Investigations have commenced since July last year and the verdict has been announced from a court of law.
+
+A minister of Singapore is a large number of corruption charges in 1986.
+
+◼️
+
+[Data](articles/719f8dcf.json)
+
+[Extended Data](ext_articles/719f8dcf.ext.json)
+
+---
 
 ### “No longer ready to vote according to the differences”
 
@@ -333,6 +389,28 @@ The Liquor Department said that it has been instructed to close liquor outlets a
 [Data](articles/aa161433.json)
 
 [Extended Data](ext_articles/aa161433.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 296.60/297.20 to US dollar, bond yields up
+
+*2024-10-03 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-296-60-297-20-to-us-dollar-bond-yields-up-182082/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 296.60/297.20 to the US dollar on Thursday, from 296.40/80 a day earlier, while bond yields were up dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.35/50 percent, up from 11.15/30 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.50/55 percent, up from 11.35/45 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.90./12.10 percent, up from 11.80/85 percent.
+
+In equities, Colombo’s All Share Price Index opened 0.07 percent, or 8.70 points higher at 11,942, while the S&P SL20 of more liquid stocks opened up 0.08 percent or 2.72 points higher at 3,512.
+
+◼️
+
+[Data](articles/d216fc6e.json)
+
+[Extended Data](ext_articles/d216fc6e.ext.json)
 
 ---
 
@@ -844,6 +922,26 @@ This is the first time the Defense Secretary has met senior officials following 
 
 ---
 
+### Sri Lanka can learn from Japan’s Meiji restoration, Dodge line stabilization: envoy
+
+*2024-10-03 06:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-learn-from-japans-meiji-restoration-dodge-line-stabilization-envoy-182037/) · `en`
+
+ECONOMYNEXT – Sri Lanka can learn from Japan’s success where the country emerged from the crises stronger sometimes due to external pressure, Japan’s Ambassador to Colombo Mizukoshi Hideaki has said.
+
+Sri Lanka is currently under an International Monetary Fund program after monetary stability was lost for the umpteenth time after aggressive monetary policy, and the country went through its first sovereign default.
+
+Japan’s first phase of modernization came during the so-called ‘Meiji restoration’ in the 19th century which turned the country into a nation state with many European style institutions and ended the isolationist policies of the Tokugawa shogunate.
+
+“In 1868, Japan embarked on a dramatic transformation from a feudal society, a society run by samurais into a modern nation-state,” Ambassador Mizukoshi said according to prepared remarks delivered at the JICA Chair Special Programme this week.
+
+...
+
+[Data](articles/894e5090.json)
+
+[Extended Data](ext_articles/894e5090.ext.json)
+
+---
+
 ### Showers in several places
 
 *2024-10-03 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201787) · `si`
@@ -1201,6 +1299,44 @@ The meeting also discussed a variety of issues including the release of politica
 [Data](articles/78ba7652.json)
 
 [Extended Data](ext_articles/78ba7652.ext.json)
+
+---
+
+### IMF delegation meets Sri Lanka new government economic team
+
+*2024-10-03 02:28:00* · [`economynextcom`](https://economynext.com/imf-delegation-meets-sri-lanka-new-government-economic-team-182034/) · `en`
+
+ECONOMYNEXT – The economic team of Sri Lanka’s newly elected President Anura Dissanayake has met International Monetary Fund official for the first time.
+
+“The meeting, held at the Presidential Secretariat, featured cordial discussions between the IMF delegation and the economic team of the new government,” a government statement said.
+
+“Both parties reviewed the IMF programme thus far and outlined the way forward for future collaboration.
+
+“The IMF delegation expressed appreciation for the significant changes taking place in Sri Lanka, boosting the positive outlook on Sri Lanka under the present government.”
+
+The IMF team included Peter Breuer, Senior Mission Chief; Sarwat Jahan, Resident Representative and Manavee Abeyawickrama, Economist.
+
+...
+
+[Data](articles/cee54dec.json)
+
+[Extended Data](ext_articles/cee54dec.ext.json)
+
+---
+
+### Ambassador to Sri Lanka speaks on Japan’s economic transformation: full text
+
+*2024-10-03 01:11:00* · [`economynextcom`](https://economynext.com/ambassador-to-sri-lanka-speaks-on-japans-economic-transformation-full-text-182040/) · `en`
+
+ECONOMYNEXT  – Japan’s ambassador to Sri Lanka Mizukoshi Hideaki, delivered a speech on the his country’s economic transformation, at of JICA-chair special program. The full text of the speech is reproduced below.
+
+Today I am very happy and honorable to address to the students of JICA-chair program of Colombo University and Peradeniya University as well as the members of JDS Alumni Association at a very crucial juncture in the history of Sri Lanka. Only ten (10) days earlier, Sri Lankan people made a historic choice of departing from the traditional party politics and supporting a new leader with the determination to make a complete system change of the politics and society.
+
+Immediately after the election of new leader, I have expressed my commitment to support the new government  which  represented  people’s  desire  for change.
+
+...
+
+[Data](articles/7edda24b.json)
 
 ---
 
@@ -2161,149 +2297,5 @@ The UNHRC has passed resolutions to investigate the past rights abuses in Sri La
 [Data](articles/64b5cc69.json)
 
 [Extended Data](ext_articles/64b5cc69.ext.json)
-
----
-
-### The Election Commission stopped the president's guarantee that subsidize farmers;District Organization of the Madhu District Agricultural Authority
-
-*2024-10-02 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195348) · `ta`
-
-Election Commission halts fertilizer subsidy for farmers. New President promises Rs 25,000 per hectare support. Farmers disappointed by decision, citing upcoming parliamentary elections. Request Election Commission reconsider subsidy to aid agriculture and economy.
-
-🟩
-
-The new President Anuragumara Dissanayake has been very happy that all the farmers have been able to pay for the immediate payment of our fertilizer subsidy allowance for Rs.. The district organization of the other Batticaloa District Agricultural Authority has requested.
-
-The President and Secretary of the District Agricultural Authority of the District Agricultural Authority and the Secretary of the District Agricultural Authority have appealed at a press conference held on Wednesday (2).
-
-First of all, we express our gratitude and congratulations to President Anura Kumarathisanayake on behalf of the District Authority. The president is making some excellent steps in our country and politics for the past few days.
-
-...
-
-[Data](articles/da0c5708.json)
-
-[Extended Data](ext_articles/da0c5708.ext.json)
-
----
-
-### MPs who supported former President to contest under ‘elephant’ symbol?
-
-*2024-10-02 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102407/mps-who-supported-former-president-to-contest-under-elephant-symbol) · `en`
-
-The former MPs who supported former President Ranil Wickremesinghe are preparing to contest the upcoming General Election under either the ‘elephant’ symbol or another common symbol, political sources told Ada Derana.
-
-It is reported that the opinion of the Election Commission has been sought to obtain the ‘Gas Cylinder’ symbol while a final decision is to be taken after the commission’s decision is conveyed.
-
-The group of former MPs had gathered at the Election Operations office of the former president at Flower Road in Colombo today (02), in order to reach the final decision regarding the symbol and the alliance they will contest under in the upcoming election.
-
-It is further reported that if the former MPs are unable to obtain the ‘Gas Cylinder’ symbol, they will most likely contest under the symbol of the ‘Elephant’ or another common symbol.
-
-◼️
-
-[Data](articles/6820a76f.json)
-
-[Extended Data](ext_articles/6820a76f.ext.json)
-
----
-
-### Assessed in India's anti-corruption program
-
-*2024-10-02 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201775) · `si`
-
-India supports Sri Lanka's development, emphasizing anti-corruption efforts and digitalization programs.
-
-🟩
-
-President Anura Kumara Dissanayake and Sri Lanka General Commissioner Sanantha Jaha had met with Sansh JHA (2).
-
-India has said that India is preparing to support Sri Lanka's development process in the last presidential election.
-
-The country has stated that Sri Lanka's ethics emerged as a peaceful and standing state in the region.
-
-The Indian High Commissioner, who remembered the long-term friendship and intimacy between India and Sri Lanka, emphasized the importance of continuing and stable friendship between the two countries.
-
-The Indian High Commissioner expressed the importance of state systems, especially to fight corruption, appreciated the importance of state systems.
-
-The High Commissioner also said that India willingly support Sri Lanka when the implementation of digitalization programs.
-
-◼️
-
-[Data](articles/921e63d4.json)
-
-[Extended Data](ext_articles/921e63d4.ext.json)
-
----
-
-### Full support of China to Restructuring Credit
-
-*2024-10-02 19:11:02* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමට-චීනයේ-පූර්ණ-සහාය/11-412277) · `si`
-
-China supports Sri Lanka's debt restructuring efforts through CDB and EXIM banks, emphasizing economic stability and growth.
-
-🟩
-
-President Anura Kumara Dissanayake and the ambassador of the People's Republic of Sri Lanka. A meeting between Mr. Sea Zhenhond was held at the Presidential Secretariat this morning.
-
-The Ambassador who congratulated his heartfelt greeting to President Anura Kumara Dissanayake regarding the presidential election, and China continues to support Sri Lanka's future.
-
-He also emphasized the English Development Bank (CDB) and EXIM to support Sri Lanka's development projects in Sri Lanka.
-
-The Ambassador also assured President Anura Kumara Dissanayake to support the process of restructuring of the debt as major commercial and bilateral loans to support Sri Lanka's economic stability and growth.
-
-◼️
-
-[Data](articles/bfa5320e.json)
-
-[Extended Data](ext_articles/bfa5320e.ext.json)
-
----
-
-### Group supporting Ranil to the general election with the elephant mark?
-
-*2024-10-02 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201774) · `si`
-
-Ranil Wickremesinghe's group plans to contest the general election. They initially considered using a gas cylinder symbol but may opt for an elephant symbol instead if the gas cylinder isn't available. Former MPs gathered at Election Headquarters to finalize their decision and alliance.
-
-🟩
-
-Former President Ranil Wickremesinghe at the Presidential Election, the former MPs is planning to contest the next general election.
-
-It is reported that the final decision has been taken to obtain the mark of the gas cylinder.
-
-The former MPs had come to the Election Headquarters on the Colombo Flower Road today (02) to contest the sign and alliance.
-
-It is also reported that if the gas cylinder is unable to obtain, they will most likely compete under the elephant sign or other common mark.
-
-◼️
-
-[Data](articles/8666eff3.json)
-
-[Extended Data](ext_articles/8666eff3.ext.json)
-
----
-
-### An informed of Israel and Lebanon status
-
-*2024-10-02 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201773) · `si`
-
-Israel-Lebanon conflict update: SLBFE advises caution for Sri Lankans. Embassy monitoring situation. No reports of harm to Sri Lankans. Normalcy maintained but security measures advised.
-
-🟩
-
-The Sri Lanka Bureau of Foreign Employment states that if there is a person who is ready to go to Israel for any activity, the Sri Lanka Bureau of Foreign Employment (SLBFE) says.
-
-Additional General Manager of the International Affairs Gamini Senarath Yapa made this statement regarding the current state situation in Israel and Lebanon today.
-
-He said that the military situation is observed and to take action.
-
-He also said that if Israel is wanted to go to the lands and Syria, they should be fully involved in the Ministry of External Affairs.
-
-In addition, if a Sri Lankan in Israel wants to return to Sri Lanka, it should be informed to the embassy.
-
-...
-
-[Data](articles/1052137f.json)
-
-[Extended Data](ext_articles/1052137f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 19:57:22**
+As of **2024-10-03 20:11:10**
 
 ## Newspaper Stats
 
-*Scraped **47,627** Articles*
+*Scraped **47,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
-adalk | 4,407
+adalk | 4,408
 dailymirrorlk | 4,733
 adaderanalk | 5,602
 tamilmirrorlk | 6,420
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,238
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,627 (100.0%) of 47,627 articles have been extended.
+47,628 (100.0%) of 47,628 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1354,6 +1354,32 @@ Elephants have been destroyed by the elephants during the waterfront and cultiva
 
 ---
 
+### Nineh Parliament represented 241 MPs
+
+*2024-10-03 13:36:00* · [`adalk`](https://www.ada.lk/breaking_news/නවවැනි-පාර්ලිමේන්තුව-මන්ත්‍රීවරු-241ක්-නියෝජනය-කරලා/11-412288) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ninth Parliament: 241 MPs, 196 vacancies filled. Key events: resignations, elections, appointments. Notable figures: Ranil Wickremesinghe, Gotabhaya Rajapaksa. Sessions ran from 2012 to 2023, meeting 390 days total.
+
+🟩
+
+The first meeting began on August 20, 202, on September 24, 2024, 196 constitutional vacancies in the 19th-month election section. 16 members of the Constitution of 18 occasionsMPs have become MPs.
+
+Accordingly 241 MPs have represented this Parliament. Jayantha Ketagoda, who was elected to Parliament from the national list, was elected to Parliament, but Basil Rajapaksa was elected. The Hon. Ajith Nivard Cabraal resigned by the Hon. Ajith Nivard Cabraal.
+
+Similarly, Mr. Munibar Rahman's resignation for the vacant seat. HM. Mr. Fowzie was elected and Munibir Rahman was again elected to the Parliamentary Diyanama Gamage, which vacant Diyanayam Gamage.. However, a new MP was not appointed to the vacant Hon. Harin Fernando.
+
+...
+
+[Data](articles/7a04f21c.json)
+
+[Extended Data](ext_articles/7a04f21c.ext.json)
+
+---
+
 ### Japan will never invest in Sri Lanka if corruption continues - Ambassador
 
 *2024-10-03 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195385) · `ta`
@@ -2543,27 +2569,5 @@ But when the thunderstorm is raining, there will be strong winds and the sea reg
 [Data](articles/6ec21417.json)
 
 [Extended Data](ext_articles/6ec21417.ext.json)
-
----
-
-### Sri Lankans trapped at the airport
-
-*2024-10-03 08:29:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-சிக்கிய-இலங்கையர்/175-344848) · `ta`
-
-Sri Lankan arrested at Katunayake airport with 883g illegal cannabis. Police Narcotics Unit conducted raid.
-
-🟩
-
-One person has been arrested at the Katunayake airport with an illegal kush drug, which was illegally brought to Sri Lanka.
-
-The suspect was arrested during a raid carried out by a group of airport officials of the Police Narcotics Unit.
-
-A kilogram of 883 grams of kush has been found from the suspect.
-
-◼️
-
-[Data](articles/22ca8433.json)
-
-[Extended Data](ext_articles/22ca8433.ext.json)
 
 ---

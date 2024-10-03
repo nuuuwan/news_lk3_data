@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 07:25:52**
+As of **2024-10-03 08:01:21**
 
 ## Newspaper Stats
 
-*Scraped **47,506** Articles*
+*Scraped **47,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 3,209
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
-tamilmirrorlk | 6,390
+tamilmirrorlk | 6,391
 virakesarilk | 7,592
-adaderanasinhalalk | 8,213
+adaderanasinhalalk | 8,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,506 (100.0%) of 47,506 articles have been extended.
+47,508 (100.0%) of 47,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### New Defense Secretary meets security heads
+
+*2024-10-03 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201788) · `si`
+
+New Defense Secretary Sampantha meets top military brass at HQ. Chiefs of Army, Navy, Air Force attend. Acting IGP joins talks. First official meeting after assuming duties.
+
+🟩
+
+Defense Secretary Pension Air Vice Marshal Sampantha Tigers met with security heads.
+
+The meeting has taken place at the Defense Headquarters yesterday (02).
+
+Chief of Defense Staff Shavendra Silva, Army Commander Lieutenant General's Vice Admiral Priyantha Perera, Army Commander of the Navy Vice Admiral Priyantha Perera, Air Force Commander of the Air Force Admiral Priyantha Perera.
+
+The acting IGP Priyantha Weerasuriya has also held a friendly discussion meeting with the defense secretary.
+
+This is the first time the Defense Secretary has met senior officials following the assume of duties.
+
+◼️
+
+[Data](articles/0195fcd7.json)
+
+[Extended Data](ext_articles/0195fcd7.ext.json)
+
+---
 
 ### Showers in several places
 
@@ -463,6 +489,30 @@ Speaking to the media after a meeting with distillery manufacturers, he insisted
 [Data](articles/5c1cdca2.json)
 
 [Extended Data](ext_articles/5c1cdca2.ext.json)
+
+---
+
+### China provides full cooperation to Sri Lanka
+
+*2024-10-03 00:40:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-சீனா-முழு-ஒத்துழைப்பை-வழங்கும்/175-344842) · `ta`
+
+China supports Sri Lanka's development, cooperating on future projects and strengthening bilateral ties.
+
+🟩
+
+Chinese Ambassador Gee.Shenhong said China will cooperate with Sri Lanka's future activities.
+
+The Ambassador of the People's Republic of China, K. Shenhong, met with President Anura Kumara Dissanayake yesterday morning.
+
+At the meeting held at the Presidential Office, the Ambassador congratulated President Anura Kumara Dissanayake's election victory and promised to fully cooperate with China to cooperate with the future activities of Sri Lanka and to further strengthen bilateral relations with the China government.
+
+He also pointed out the importance of the programs that are currently being carried out on the basis of cooperation in Sri Lanka and the effective interventions of the Chinese Development Bank and the EXIM Bank to cooperate with Sri Lanka's development activities.
+
+...
+
+[Data](articles/124cb257.json)
+
+[Extended Data](ext_articles/124cb257.ext.json)
 
 ---
 
@@ -2235,41 +2285,5 @@ Sri Lanka's Prabath Jayasuriya has been able to advance from one place to the 08
 [Data](articles/63ab853d.json)
 
 [Extended Data](ext_articles/63ab853d.ext.json)
-
----
-
-### Sri Lankan citizen is not harmed
-
-*2024-10-02 15:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைப்-பிரஜைக்கு-பாதிப்பில்லை/175-344813) · `ta`
-
-Sri Lankan citizens unharmed: No injuries reported among Sri Lankans after alleged Israeli strike on Iranian forces.
-
-🟩
-
-Sri Lankan Ambassador to Israel Nimal Bandara confirmed that there were no injuries or casualties among Sri Lankan nationals following the alleged attack on Iranian forces on Israel.
-
-◼️
-
-[Data](articles/2da589b9.json)
-
-[Extended Data](ext_articles/2da589b9.ext.json)
-
----
-
-### Sri Lankan citizens are not harmed
-
-*2024-10-02 15:12:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைப்-பிரஜைகளுக்கு-பாதிப்பில்லை/175-344813) · `ta`
-
-Sri Lankan citizens unharmed: No injuries or casualties reported among Sri Lankans after alleged Israeli strike on Iranian forces.
-
-🟩
-
-Sri Lankan Ambassador to Israel Nimal Bandara confirmed that there were no injuries or casualties among Sri Lankan nationals following the alleged attack on Iranian forces on Israel.
-
-◼️
-
-[Data](articles/66f06924.json)
-
-[Extended Data](ext_articles/66f06924.ext.json)
 
 ---

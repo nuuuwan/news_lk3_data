@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 08:43:14**
+As of **2024-10-03 08:58:29**
 
 ## Newspaper Stats
 
-*Scraped **47,514** Articles*
+*Scraped **47,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,209
 adalk | 4,392
 dailymirrorlk | 4,733
 adaderanalk | 5,586
-tamilmirrorlk | 6,391
+tamilmirrorlk | 6,395
 virakesarilk | 7,592
 adaderanasinhalalk | 8,218
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 8,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,514 (100.0%) of 47,514 articles have been extended.
+47,518 (100.0%) of 47,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Sri Lankans trapped at the airport
+
+*2024-10-03 08:29:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-நிலையத்தில்-சிக்கிய-இலங்கையர்/175-344848) · `ta`
+
+Sri Lankan arrested at Katunayake airport with 883g illegal cannabis. Police Narcotics Unit conducted raid.
+
+🟩
+
+One person has been arrested at the Katunayake airport with an illegal kush drug, which was illegally brought to Sri Lanka.
+
+The suspect was arrested during a raid carried out by a group of airport officials of the Police Narcotics Unit.
+
+A kilogram of 883 grams of kush has been found from the suspect.
+
+◼️
+
+[Data](articles/22ca8433.json)
+
+[Extended Data](ext_articles/22ca8433.ext.json)
+
+---
+
+### What happened to the house given to Sambandan?
+
+*2024-10-03 08:23:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனுக்கு-வழங்கப்பட்ட-வீட்டிற்கு-நடந்தது-என்ன/175-344847) · `ta`
+
+Sambandan's official residence in Colombo 7 remains unreturned to the government despite his death. The property, valued at 3.5 crores, underwent repairs in 2017. Current plans involve handing it over to new Minister Harini Amarasuriya.
+
+🟩
+
+The residence of Colombo 7, Colombo 7, was given to R. Sampanthan, former Opposition Leader and former leader of the Tamil National Alliance (TNA), and has not been handed over to the government although Sambandan's death has been over three months after the death of Sambandan.
+
+Although the Ministry recently handed over the Cabinet paper to the government's re -obtaining the residence, the resolution was stopped following a regime change.
+
+Following this, reports say that arrangements are being made to hand over the bond to the new Minister Dr. Harini Amarasuriya.
+
+Sampanthan got this official residence after taking office as the leader of the Opposition in 2015.
+
+Later on October 26, 2018, Mahinda Rajapaksa was re -elected as the leader of the Opposition, but Sambandan gave him the opportunity to continue at the official residence.
+
+...
+
+[Data](articles/0dfb71d2.json)
+
+[Extended Data](ext_articles/0dfb71d2.ext.json)
+
+---
 
 ### 20 and 20 women's cricket cup today begins today
 
@@ -69,6 +117,30 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/7e22d609.json)
 
 [Extended Data](ext_articles/7e22d609.ext.json)
+
+---
+
+### Another Action Order on Miraculous vehicles
+
+*2024-10-03 08:11:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிசொகுசு-வாகனங்கள்-குறித்து-மற்றுமொரு-அதிரடி-உத்தரவு/175-344846) · `ta`
+
+Bribery Commission recovers 20 luxury vehicles from 200 illegally imported ones. Chief Magistrate orders immediate arrest of suspects and seizure of vehicles. Vehicles were registered as ordinary imports since 2015.
+
+🟩
+
+The Bribery Commission has informed the Colombo Chief Magistrate's Court that only 20 vehicles have been handed over over 200 illegal imported luxury vehicles without paying more than Rs 500 crore.
+
+Chief Magistrate Thilina Kamage has ordered the Bribery Commission to recover the imported luxury vehicles to the government and immediately arrest all the suspects involved in the crime.
+
+Since 2015, 200 luxury vehicles, including Brado, Land Crusher, V8 and Range Rover, have been registered as ordinary vehicles imported before 2005, officials of the Bribery Commission said.
+
+In addition, the court has ordered the owners to immediately hand over luxury vehicles to the government. Remble
+
+◼️
+
+[Data](articles/9ef9bcbd.json)
+
+[Extended Data](ext_articles/9ef9bcbd.ext.json)
 
 ---
 
@@ -615,6 +687,30 @@ Speaking to the media after a meeting with distillery manufacturers, he insisted
 [Data](articles/5c1cdca2.json)
 
 [Extended Data](ext_articles/5c1cdca2.ext.json)
+
+---
+
+### Ready to support Sri Lanka in all ways
+
+*2024-10-03 00:48:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இலங்கைக்கு-சகல-வழிகளிலும்-ஆதரவளிக்க-தயார்/150-344843) · `ta`
+
+India supports Sri Lanka's development, emphasizing digitalization and anti-corruption efforts.
+
+🟩
+
+The meeting between President Anura Kumara Dissanayake and Indian High Commissioner to Sri Lanka Santosh Ja was held yesterday at the Presidential Office.
+
+He said that the Indian High Commissioner congratulated Dissanayake's victory in the last presidential election and said that India is ready to support Sri Lanka's development activities in all ways and that Sri Lanka is looking for a peaceful and stable country in the region.
+
+The Indian High Commissioner, who commemorates the long -standing friendship and intimacy between India and Sri Lanka, emphasized the importance of continuing and sustainable maintenance between the two countries as neighboring brothers and countries.
+
+Pointing to the importance of digitalizing government structures to effectively fighting corruption, the Indian High Commissioner praised the anti -corruption program underlined in the President's Policy Declaration.
+
+...
+
+[Data](articles/fe0bd908.json)
+
+[Extended Data](ext_articles/fe0bd908.ext.json)
 
 ---
 
@@ -2203,93 +2299,5 @@ He further stated that the British government has also supported the Internation
 [Data](articles/cd760ace.json)
 
 [Extended Data](ext_articles/cd760ace.ext.json)
-
----
-
-### Jaishankar to visit Sri Lanka on Oct 4 - reports
-
-*2024-10-02 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102402/jaishankar-to-visit-sri-lanka-on-oct-4-reports) · `en`
-
-India’s external Affairs Minister S Jaishankar will be visiting Sri Lanka this week and call on newly elected President Anura Kumara Dissanayake, who assumed office on September 23, Indian media reported today.
-
-His visit to Colombo would be the first by any foreign minister after the presidential elections last month.
-
-Jaishankar’s visit to the neighbouring island nation, which is expected to begin on October 4, will be closely watched as it will include high-level engagement between India and Sri Lanka after Dissanayake came to power.
-
-India’s high commissioner to Sri Lanka, Santosh Jha, was the first foreign diplomat to call on Dissanayake after the outcome of the 2024 Sri Lanka was announced.
-
-The Sri Lanka visit of the Indian EAM will be a significant opportunity for India to reinforce its commitment to providing development support for its strategically situated Indian Ocean neighbor, amid worries about a shift in its foreign policy under the new president, the report said.
-
-...
-
-[Data](articles/3eb3edcb.json)
-
-[Extended Data](ext_articles/3eb3edcb.ext.json)
-
----
-
-### During Sri Lanka's visit to Sri Lanka
-
-*2024-10-02 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195321) · `ta`
-
-Sri Lanka visit Indian Foreign Minister Tamil Nadu fishermen demands Kachchativu Agreement fishing rights jail release folklore boats rescue action
-
-🟩
-
-Indian Foreign Minister Dr. S.. Four demands have been made on behalf of Tamil Nadu fishermen.
-
-A letter containing these requests by the National Heritage Fishermen's Federation has been sent to Foreign Minister S. Jekengshankar.
-
-The right to fishing rights in the traditional fishing sea in the sixth string of the 1974 Kachchativu Agreement must be ensured.
-
-More than 125 Indian fishermen in Sri Lankan jails should take immediate steps to restore more than 190 fishermen and folklore.
-
-Steps should be taken to hand over the fishing boats of Sri Lankan fishermen who have been released by Indian courts and parked on the coast of Tamil Nadu.
-
-The letter contained four requests to take immediate action to rescue Indian fishing boats over 10 released by the Sri Lankan court.
-
-◼️
-
-[Data](articles/4f599197.json)
-
-[Extended Data](ext_articles/4f599197.ext.json)
-
----
-
-### Indian Foreign Minister to Sri Lanka
-
-*2024-10-02 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201766) · `si`
-
-Indian Foreign Minister S. Jaishankar to visit Sri Lanka on April 4th. He will meet Anura Kumara Dissanayake, marking India-Sri Lanka's first diplomatic meeting under the new president.
-
-🟩
-
-Indian Foreign Minister S. According to Indian media reports, the Jeeashawkur is to arrive in Sri Lanka on the 4th.
-
-According to Indian media reports, Anura Kumara Dissanayake is a diplomatic first meeting between India and Sri Lanka after being president.
-
-◼️
-
-[Data](articles/d3329fda.json)
-
-[Extended Data](ext_articles/d3329fda.ext.json)
-
----
-
-### Sri Lanka’s new leader urged to find Rajapaksa’s stashed money in Uganda
-
-*2024-10-02 16:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-leader-urged-to-find-rajapaksas-stashed-money-in-uganda-181973/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new President Anura Kumara Dissanayake and his party members should now investigate long alleged stolen money in Uganda by former leader Mahinda Rajapaksa’s family, Rajapaksa-led former ruling party members said.
-
-Dissanayake and his party have long accused the Rajapaksa family of taking wealth out of Sri Lanka they were supposed to have earned from commissions and other deals through illegal and inappropriate means when in public office.
-
-“President Anura Kumara Dissanayake (AKD) and his team have been alleging for years that we have stashed away billions of dollars in Uganda and various countries. It is now time for President AKD to prove his allegations,” Rajapaksa’s eldest son Namal Rajapaksa said on his personal X (twitter) platform.
-
-...
-
-[Data](articles/93a93405.json)
-
-[Extended Data](ext_articles/93a93405.ext.json)
 
 ---

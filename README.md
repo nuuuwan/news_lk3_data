@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 06:44:30**
+As of **2024-10-03 07:25:52**
 
 ## Newspaper Stats
 
-*Scraped **47,504** Articles*
+*Scraped **47,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,41 @@ dailyftlk | 3,209
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
-tamilmirrorlk | 6,389
+tamilmirrorlk | 6,390
 virakesarilk | 7,592
-adaderanasinhalalk | 8,212
+adaderanasinhalalk | 8,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,502 (100.0%) of 47,504 articles have been extended.
+47,506 (100.0%) of 47,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Showers in several places
+
+*2024-10-03 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201787) · `si`
+
+Weather alert: Showers/thundershowers expected in Eastern/Uva provinces. Coastal areas may see morning showers. Public advised to prepare for wind/lightning risks.
+
+🟩
+
+Showers or thundershowers will occur at several places in the Eastern and Uva provinces.
+
+The announcement states that showers may be in the morning in the coastal areas of the Southern and Western Provinces.
+
+They call on the public to take necessary steps to reduce temporary winds and lightning accidents.
+
+◼️
+
+[Data](articles/1bbe8525.json)
+
+[Extended Data](ext_articles/1bbe8525.ext.json)
+
+---
 
 ### SJS only alternative against current Govt. – Ranjith Madduma Bandara
 
@@ -441,6 +463,28 @@ Speaking to the media after a meeting with distillery manufacturers, he insisted
 [Data](articles/5c1cdca2.json)
 
 [Extended Data](ext_articles/5c1cdca2.ext.json)
+
+---
+
+### Sri Lankans are safe in Israel
+
+*2024-10-03 00:30:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-இலங்கையர்-பாதுகாப்பாகவுள்ளனர்/175-344841) · `ta`
+
+Sri Lankans in Israel unaffected by Iran's missile attacks. Embassy confirms safety. Ambassador monitoring situation.
+
+🟩
+
+The Sri Lankan embassy for the country has said that Iran's missile attacks on Israel have not been affected by the Sri Lankan people living there.
+
+Sri Lanka's Ambassador Nimal Bandara said that the people of Sri Lanka are still monitoring the people of Sri Lanka.
+
+The Sri Lankan Ambassador to Israel said that all Israel's activities are underway.. (A)
+
+◼️
+
+[Data](articles/6d2e19c8.json)
+
+[Extended Data](ext_articles/6d2e19c8.ext.json)
 
 ---
 
@@ -2227,55 +2271,5 @@ Sri Lankan Ambassador to Israel Nimal Bandara confirmed that there were no injur
 [Data](articles/66f06924.json)
 
 [Extended Data](ext_articles/66f06924.ext.json)
-
----
-
-### New Zealand leader was taken after the Test defeat in Sri Lanka
-
-*2024-10-02 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201764) · `si`
-
-New Zealand cricket captain resigns after losing two tests to Sri Lanka. He cites team benefit for decision. Led NZ in 14 tests, winning 6 and drawing 2. Team lost by 63 runs in both matches.
-
-🟩
-
-With the defeat of two matches with Sri Lanka, New Zealand leader Tim has decided to resign.
-
-The Sangha says that he will take that decision for the benefit of the group.
-
-In 2022, Khan Williamson resigned from Test leadership and was later led by leadership.
-
-He has led the New Zealand team in 14 Tests, and 6 matches won six. Two matches ended without the Jayatakera.
-
-New Zealand team defeated by 63 runs with Sri Lanka, New Zealand team defeated by 63 runs in their innings and 154 runs.
-
-◼️
-
-[Data](articles/be5e9a0c.json)
-
-[Extended Data](ext_articles/be5e9a0c.ext.json)
-
----
-
-### Namal challenge to Anura
-
-*2024-10-02 14:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவுக்கு-நாமல்-சவால்/175-344812) · `ta`
-
-Namal Rajapaksa challenges Anura Kumara Dissanayake to prove allegations of hidden billions in Uganda and other countries. Rajapaksa denies claims made by Dissanayake during presidential campaign.
-
-🟩
-
-Former parliamentarian Namal Rajapaksa has challenged President Anura Kumara Dissanayake to prove the allegation that the Rajapakse regime has hidden billions of dollars in Uganda and other countries.
-
-Responding to a video of Dissanayake during the presidential campaign, Namal and his delegation have been claiming that public funds have been stolen for years.
-
-“President Anuragumara Dissanayake and his group have been accusing us of hiding billions of dollars in Uganda and various countries for many years.
-
-President Anura Kumara Dissanayake has time to prove his allegations, ”Rajapakse posted on the 'X' site.
-
-◼️
-
-[Data](articles/8e9d3fa4.json)
-
-[Extended Data](ext_articles/8e9d3fa4.ext.json)
 
 ---

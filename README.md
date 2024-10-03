@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 16:12:33**
+As of **2024-10-03 16:22:56**
 
 ## Newspaper Stats
 
-*Scraped **47,595** Articles*
+*Scraped **47,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,209
 adalk | 4,400
 dailymirrorlk | 4,733
 adaderanalk | 5,598
-tamilmirrorlk | 6,412
+tamilmirrorlk | 6,413
 virakesarilk | 7,612
 adaderanasinhalalk | 8,233
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,595 (100.0%) of 47,595 articles have been extended.
+47,596 (100.0%) of 47,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Demonstration against the murder of Children's Day
+
+*2024-10-03 16:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவர்-தினத்தன்று-நடத்தப்பட்ட-கொலைக்கு-எதிராக-ஆர்ப்பாட்டம்/76-344875) · `ta`
+
+Protesters demand justice after schoolgirl's murder. Students, residents march 5km, over 500 participants.
+
+🟩
+
+Residents of the Nalandawatte area and students of the educated school staged a demonstration in front of the school on Thursday (03) in connection with the brutal murder of a schoolgirl and a group who went to meet his friend's girlfriend.
+
+Students and residents of the area protested for about an hour from the house of the deceased school student to the Kalaimala School, 5 km away from the Kandy -Jaffna A9 road.
+
+The demonstration has been carried out demanding action against the attackers and the death of the student's death.
+
+More than 500 people, including the principal and teachers of the school, participated in the demonstration.
+
+◼️
+
+[Data](articles/ca0bb7a4.json)
+
+[Extended Data](ext_articles/ca0bb7a4.ext.json)
+
+---
 
 ### At the hospital 15 female workers targeted for the wasp
 
@@ -2441,29 +2465,5 @@ I am well aware of businessman Dilith Jayaweera. He has advanced by his labor.. 
 [Data](articles/64c085ba.json)
 
 [Extended Data](ext_articles/64c085ba.ext.json)
-
----
-
-### Australian Deputy High Commissioner who described Ravikaran as a future MP
-
-*2024-10-03 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195358) · `ta`
-
-Australian Deputy High Commissioner Lalitha Kapoor met Durairasa Ravikaran in Mullaitivu. She called him a future MP, discussing issues like political prisoner releases, land occupations, drug use, and fishing violations.
-
-🟩
-
-Australian Deputy High Commissioner to Sri Lanka Lalitha Kapoor and former Northern Provincial Councilor Durairasa Ravikaran held a meeting on Wednesday (02) at Ravikaran's public relations in Mullaitivu.
-
-During the meeting, Australian Vice -Ambassador to Sri Lanka, Lalitha Kapoor, described Ravikaran as a future Member of Parliament.
-
-Former Northern Provincial Council Member Durairasa Ravikaran is widely talked about in the upcoming parliamentary election on behalf of the Sri Lankan Tamil party.. It was in this context that the Australian Vice -Ambassador to Sri Lanka, Ravikaran, explained the above.
-
-The meeting also discussed a variety of issues including the release of political prisoners, the threats of the intelligence of the investigators, the occupation of the lands of the Tamils, the use of drugs in the Tamil areas, the activities of the Indian fishermen and the violation of the Sri Lankan fishermen.
-
-◼️
-
-[Data](articles/78ba7652.json)
-
-[Extended Data](ext_articles/78ba7652.ext.json)
 
 ---

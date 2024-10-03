@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 11:58:40**
+As of **2024-10-03 12:13:25**
 
 ## Newspaper Stats
 
-*Scraped **47,549** Articles*
+*Scraped **47,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,200 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
-adalk | 4,395
+adalk | 4,397
 dailymirrorlk | 4,733
-adaderanalk | 5,590
-tamilmirrorlk | 6,401
+adaderanalk | 5,592
+tamilmirrorlk | 6,404
 virakesarilk | 7,599
-adaderanasinhalalk | 8,224
+adaderanasinhalalk | 8,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,548 (100.0%) of 47,549 articles have been extended.
+47,557 (100.0%) of 47,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Elephant - Significant decrease in human conflict incidents
+
+*2024-10-03 11:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-மனித-மோதல்-சம்பவங்களில்-குறிப்பிடத்தக்க-குறைவு/175-344864) · `ta`
+
+Sri Lanka: Elephant-human conflict deaths drop 23% in 8 months. 340 elephants killed in 2023 vs 239 this year. Human casualties fell from 117 to 90. Measures implemented to reduce conflicts.
+
+🟩
+
+The Wildlife Protection Department said that the deaths of elephant-human conflict in Sri Lanka during the first eight months of this year.
+
+340 elephants died in the same period in 2023, while 239 elephants have died this year.
+
+In addition, the human casualties caused by the elephant attack have fallen from 117 to 90, the department said.
+
+Elephant - Elephant - The deaths have been reduced due to measures taken to avoid human conflicts.
+
+◼️
+
+[Data](articles/e25a804c.json)
+
+[Extended Data](ext_articles/e25a804c.ext.json)
+
+---
+
+### LG Elections to be held soon after parliamentary polls
+
+*2024-10-03 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102417/lg-elections-to-be-held-soon-after-parliamentary-polls-) · `en`
+
+The Election Commission of Sri Lanka says that steps will be taken to hold the Local Government Elections, in compliance with the Supreme Court order, as soon as the upcoming General Election is concluded.
+
+◼️
+
+[Data](articles/0577f377.json)
+
+[Extended Data](ext_articles/0577f377.ext.json)
+
+---
+
+### Political revenge will no longer happen
+
+*2024-10-03 11:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-பழிவாங்கல்-இனிமேல்-நடக்காது/175-344863) · `ta`
+
+President Anura Kumara Dissanayake vows to end political revenge against public servants, promising support for those dedicated to public welfare. He emphasizes creating an efficient public service, eradicating rural poverty, and preventing fraud and corruption. New political customs and opposition to old culture are expected to impact governance.
+
+🟩
+
+President Anura Kumara Dissanayake has promised that we will be supportive of public servants who dedicate to the public welfare service.
+
+The President said this after taking over his duties as Minister of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources on Thursday (03).
+
+President Anura Kumara Dissanayake said he was supporting the public servants who dedicated him to create a welfare public service.
+
+The President said that even though the state officials who strive for citizens face political revenge, the custom would no longer happen.
+
+President Anura Kumara Dissanayake held a detailed discussion with the Secretaries of the Ministry and top officials of the Ministry of Agriculture.
+
+The President pointed out that the contribution to the Ministry of Agriculture to eradicate rural poverty is immense and whether or not poverty will be eradicated in accordance with the activities of state officials.
+
+...
+
+[Data](articles/f3d2d2f4.json)
+
+[Extended Data](ext_articles/f3d2d2f4.ext.json)
+
+---
+
+### Exclusive events in the ninth parliament
+
+*2024-10-03 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201800) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ninth Parliament: 19 seats, 4 sessions, 390 days. Key events: MP changes, presidential elections, resignations. Notable figures: Jayantha Ketagoda, Basil Rajapaksa, Ajith Nivard Cabraal, Munibar Rahman, Fowzie, Harin Fernando. Presidential transitions: Gotabhaya Rajapaksa, Ranil Wickremesinghe. Significant dates: August 20, 2020, April 24, 2012.
+
+🟩
+
+Season 19 seats, 4 season endings and 390 days were 390 days.
+
+Accordingly, the first meeting on August 20, 2020, was vary of 19 section 6 of the Constitution of 196th.
+
+Accordingly, 16 MPs have been selected as new MPs in 18 occasions and 241 MPs have been represented.
+
+Jayantha Ketagoda, who was elected to Parliament from the national list, was resigned and Mr. Basil Rajapaksa was.
+
+The National List MP Ajith Nivard Cabraal resigned and Jayantha Ketagoda was back to the vacancy.
+
+Similarly, the resignation of Mr. Munibar Rahman for this purpose for the vacant seat. HM. Mr. Fowzie was elected and Munibar Rahman was again appointed to the Parliamentary Diyayana Gamage, which vacant Diyayana Gamage.
+
+However, a new MP was not appointed for the vacant Harin Fernando.
+
+The 7th Executive President Gotabhaya Rajapaksa resigns as the 7th Executive President Gotabhaya Rajapaksa in the ninth parliament.
+
+Ranil Wickremesinghe was elected 8th Executive President of the country.
+
+...
+
+[Data](articles/a1fee90c.json)
+
+[Extended Data](ext_articles/a1fee90c.ext.json)
+
+---
+
+### Lion Degils to win World Cup winning
+
+*2024-10-03 11:45:45* · [`adalk`](https://www.ada.lk/sports/වැලි-කතරේ-ලෝක-කුසලාන-ජය-සොයා-සිංහ-දේනුවන්-අද-තරග-බිමට/9-412286) · `si`
+
+Women's Twenty T20 World Cup 2024 starts today in UAE. 10 teams participating, including Bangladesh and Scotland. Sri Lanka vs Pakistan in second match at 7:30 PM local time. Tournament held in Dubai and Sharjah.
+
+🟩
+
+The 2024 Women's Twenty T20 World Cup begins today (3) at the United Arab Emirates.
+
+The tournament will be held at Dubai and Sharjah cities, which will participate in 10 teams including Sri Lanka.
+
+Bangladesh Women's Team and Scottish women's team will compete in the tournament of the tournament.
+
+Sri Lanka Women's Team and Pakistan women's team are to be competitized as the second match. The match will be opened at 7.30 pm in Sri Lanka.
+
+◼️
+
+[Data](articles/c3b61286.json)
+
+[Extended Data](ext_articles/c3b61286.ext.json)
+
+---
+
+### Elderly death
+
+*2024-10-03 11:40:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வாழைப்பழம்-சிக்கி-வயோதிபர்-மரணம்/76-344861) · `ta`
+
+74-year-old Piyadasa dies in Balangoda. Autopsy reveals banana caused choking. Wife claims he died at home with neighbor's help. Legal specialist present during incident.
+
+🟩
+
+Piyadasa, a 74 -year -old elderly man, has died in the Weligapola area, Balangoda.
+
+An autopsy revealed that a piece of bananas he consumed was in the presence of a legal specialist at the Balangoda main hospital, who was suffering from suffocation due to trapped in his throat.
+
+“Her husband ate bananas after eating. After that he had difficulty breathing. Piyadasa's wife testified in the presence of the main legal doctor, however, that we had died at the hospital with the help of neighbors.
+
+◼️
+
+[Data](articles/d3b63098.json)
+
+[Extended Data](ext_articles/d3b63098.ext.json)
+
+---
+
+### Commission announced on Little Element
+
+*2024-10-03 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201799) · `si`
+
+Election Commission announces local polls, cites Supreme Court decisions, aims to preserve democracy. Chairman stresses holding parliamentary elections soon after local polls completion.
+
+🟩
+
+2023 The Elections Commission has issued a statement regarding the local government elections.
+
+Chairman of the Election Commission, R. M. A. L. The announcement has been issued with the signature of Mr. Rathnayake.
+
+2023 The Election Commission has given proper attention by the Supreme Court decision on 22.08.2010, according to the Supreme Court decision on 22.04.2010.
+
+The announcement also states that the Election Commission will understand their role in the preservation of the democratic rights of the Sri Lankan people.
+
+The Commission is also elected as soon as possible to hold the parliamentary elections as soon as possible to hold the parliamentary elections as soon as the Parliamentary Elections were completed by the Supreme Court election by 2224.The Chairman of the Commission has stressed.
+
+Meanwhile, the Elections Commission will inform the Elpitiya Pradeshiya Sabha elections on October 26.
+
+◼️
+
+[Data](articles/c4f08bf0.json)
+
+[Extended Data](ext_articles/c4f08bf0.ext.json)
+
+---
 
 ### 19 MPs change in the 9th Parliament
 
@@ -85,6 +263,30 @@ A minister of Singapore is a large number of corruption charges in 1986.
 [Data](articles/719f8dcf.json)
 
 [Extended Data](ext_articles/719f8dcf.ext.json)
+
+---
+
+### Two more arrested over defamatory posters of Mannar HC Judge
+
+*2024-10-03 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102416/two-more-arrested-over-defamatory-posters-of-mannar-hc-judge-) · `en`
+
+Two more suspects have been arrested in connection with the incident of pasting defamatory posters targeting the Mannar High Court Judge.
+
+The two suspects were arrested in Kelaniya and Dehiwala areas last evening (03) by a team of officers from the Colombo Crimes Division (CCD).
+
+Police have also seized three mobile phones found in the possession of the suspects.
+
+The arrested suspects, residents of Ambakote and Dehiwala areas who are aged 27 and 41, are expected to produce before the Colombo Chief Magistrate Court today (03).
+
+Investigations have revealed that the suspects were involved in designing, printing, and distributing the defamatory posters.
+
+On August 28, the Colombo Crimes Division had launched an investigation into a series of defamatory posters displayed in Colombo and suburbs targeting the Mannar High Court Judge, which had been created using his photograph.
+
+...
+
+[Data](articles/b91bc281.json)
+
+[Extended Data](ext_articles/b91bc281.ext.json)
 
 ---
 
@@ -795,6 +997,32 @@ The driver of the three-year-old driver was injured and admitted to the Deniyaya
 [Data](articles/45f3034d.json)
 
 [Extended Data](ext_articles/45f3034d.ext.json)
+
+---
+
+### More and more Japan's jobs in Japan
+
+*2024-10-03 07:34:05* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකිකයන්ට-වැඩි-වැඩියෙන්-ජපානයේ-රැකියා-දොරටු/11-412283) · `si`
+
+Japan-Sri Lanka relations strengthened. President Anura Kumara Dissanayake meets Japanese Ambassador Mizukoshi Hideaki. Discusses mutual interests, airport development, and language education.
+
+🟩
+
+Japanese Ambassador of Japan will be fully supported by President Anura Kumara Dissanayake to create corruption and the right state of controversy (Mizukoshi hideaki).
+
+President Anura Kumara Dissanayake and Japanese Ambassador of Japan in Sri Lanka (Mizukoshi Hideaki) took place yesterday (02).
+
+The Japanese government has been committed to further enhance the long-term ties between Japan and Sri Lanka, who was elected to be the new president in Sri Lanka.
+
+It was also discussed at length about the mutual interest areas of interested areas, and the two countries also agreed to work closely as friendly states.
+
+The Japanese Ambassador who praised President Anura Kumara Dissanayake to pay attention to the focus of his policy as stated by his policy statement.
+
+...
+
+[Data](articles/60ec6a1b.json)
+
+[Extended Data](ext_articles/60ec6a1b.ext.json)
 
 ---
 
@@ -2083,219 +2311,5 @@ It was reported that the opinion of the Election Commission had been sought to o
 [Data](articles/92660bd0.json)
 
 [Extended Data](ext_articles/92660bd0.ext.json)
-
----
-
-### Meeting between IMF representatives and government economic group
-
-*2024-10-02 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201780) · `si`
-
-IMF delegation meets Sri Lankan government officials at Presidential Secretariat. Discusses progress of IMF program and $2.9 billion loan. Praises country's economic reforms and stability efforts.
-
-🟩
-
-A top-year delegation (IMF) has arrived in Sri Lanka today (02).
-
-Accordingly, the new government and the new government have appointed to the IMF talks held at the Presidential Secretariat this afternoon.
-
-The objective of this visit is to hold discussions on the progress of the IMF program and the fourth premium of $ 2.9 billion.
-
-The International Monetary Fund and Sri Lanka have been conducted by the two parties, and the Presidential Media Unit said.
-
-The International Monetary Fund representatives have published their praise on the country's new reforms and commitment to economic stability and the continued support of the International Monetary Fund.
-
-Members of the International Monetary Fund Senior Missions Senior Missions Senior Missionalized, Dr. Herbra Abeywickrama, Chairman of Sri LankaProfessor Anil Jayanthi, Professor Sunil Handunnetti, Senior Advisor to Senior Advisor to Sunil Gamage, President of the Hon.. Mrs. Dayaratne Banda and Amakookara were present.
-
-◼️
-
-[Data](articles/367b3fd5.json)
-
-[Extended Data](ext_articles/367b3fd5.ext.json)
-
----
-
-### Praveen Jayawickinika banned one year
-
-*2024-10-02 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201779) · `si`
-
-Here's a 200-character summary:
-
-
-
-International Cricket Council bans Sri Lankan cricketer Praveen Jayawickrama for one year due to disciplinary action.
-
-🟩
-
-The International Cricket Council has decided to impose a percussion of Sri Lankan cricketer Prainika Jayawickrama for one year.
-
-◼️
-
-[Data](articles/56477abb.json)
-
-[Extended Data](ext_articles/56477abb.ext.json)
-
----
-
-### New government should be given a chance - Dilith
-
-*2024-10-02 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201778) · `si`
-
-New government deserves chance: Dilith. UNP welcomes former ministers. Party pledges good opposition role.
-
-🟩
-
-The new government should be given the opportunity and his party is ready to be a good opposition, "he said.
-
-He was speaking at the motherland in the party headquarters in Colombo today (02).
-
-"We have the duty to give the new government at the time of good politics. We have to say ... We're coming to a good opposition. You work with your program. But whenever our policies do not match our policies, it is more positive to people. People can accept that. "
-
-Meanwhile, former ministers Roshan Ranasinghe, Professor Channa Jayasuman and former Parliamentarian Milan Jayatilleka joined the UNP today (02).
-
-Former Sports Minister Roshan Ranasinghe, who contested as an independent candidate for the last presidential election, joined the Motherland People's Party today after the motherland.
-
-Former State Minister Professor Dr. Channa Jayasumana, who was elected to Parliament representing the Sri Lanka Civil Front, joined the Motherland.
-
-...
-
-[Data](articles/5959f442.json)
-
-[Extended Data](ext_articles/5959f442.ext.json)
-
----
-
-### Joseph Stalin revealed about question papers
-
-*2024-10-02 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201777) · `si`
-
-Here's a 200-character summary:
-
-
-
-Joseph Stalin criticizes Department of Examinations over Grade 5 Scholarship Exam paper issues. HRC notes CID investigation incomplete.
-
-🟩
-
-The Department of Examinations Joseph Stalin says that the Department of Examinations is a proposed that the Department of Examinations is a proposed that the Department of Examinations is to provide a proper solution to the exit crisis.
-
-Speaking at a media briefing in Colombo today (02), he said this regarding the problems faced by the first question paper of the Grade 5 Scholarship Examination.
-
-"Now the exam papers crisis continued. That means the failure of the Department of Examinations. There is a list of persons who have been submitted by the Department of Examinations on 12.04.2012. There are 473 people involved in the exam frauds. They have banned exams. 'What has been done with that. There's it.. Some divisions directors. Different officers. The Department of Examinations is a fully proof of reorganization. "
-
-...
-
-[Data](articles/4a1b4890.json)
-
-[Extended Data](ext_articles/4a1b4890.ext.json)
-
----
-
-### Brews that suddenly closed
-
-*2024-10-02 19:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-மூடப்படும்-மதுபானசாலைகள்/175-344825) · `ta`
-
-Liquor stores close nationwide due to alcoholism awareness. Public can report liquor/drug-related crimes via 1913 hotline.
-
-🟩
-
-The Liquor Department Commissioner General has ordered the closure of all liquor stores across the country on the eve of World Alcoholism Day.
-
-Meanwhile, the Department of Liquor has said that the telephone number 1913, which is attached to the Liquor Department's Operational Room, will be in operation for the public to announce the crimes associated with liquor and drugs.. Remble
-
-◼️
-
-[Data](articles/05af9b9a.json)
-
-[Extended Data](ext_articles/05af9b9a.ext.json)
-
----
-
-### Yall. Fire in a house in Navanturai
-
-*2024-10-02 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195349) · `ta`
-
-Fire breaks out in Navanthurai house. Neighbors try to put it out. Firefighters respond. Cause unknown. Police investigating.
-
-🟩
-
-A fire broke out in a house in Navanthurai, Jaffna on Wednesday (2).
-
-Neighbors who saw the burning of the house were trying to extinguish the fire and reported to the Municipal Council firefighters. Firefighters rushed to the scene and extinguished the fire.
-
-Jaffna police and forensic police are conducting investigations as the cause of the fire was not detected.
-
-◼️
-
-[Data](articles/dcd424fe.json)
-
-[Extended Data](ext_articles/dcd424fe.ext.json)
-
----
-
-### Israeli agricultural employment was 2330
-
-*2024-10-02 19:49:47* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-කෘෂි-රැකියාවලට-2330ක්-ගිිහින්/11-412278) · `si`
-
-Sri Lankans employed in Israeli agriculture: 2330 workers arrived since Dec under bilateral agreement. SLBFE assigns 118 more for Oct departure. Employment continues despite Israel's tensions.
-
-🟩
-
-Sri Lankans have come to Israel from December last year, according to the Understanding Agreement between the Government of Sri Lanka and the Government of Israel, and 2330 Sri Lankans have left for Israel.
-
-Meanwhile, the Sri Lanka Bureau of Foreign Employment (SLBFE) was assigned to 118 other Sri Lankan students who qualified for employment in agriculture.
-
-These people are due to go to Israel on October 09, 10,12 and 13.
-
-Sri Lankans who are engaged in Israel have been confirmed in the face of the tense situation in the country.
-
-Sri Lankans are entitled to Sri Lankans with an understanding agreement between the two countries, as a Memorandum of Understanding between the two countries, the Sri Lanka Foreign Employment has requested the public to prevent any person to get employment opportunities.
-
-◼️
-
-[Data](articles/d0b65dac.json)
-
-[Extended Data](ext_articles/d0b65dac.ext.json)
-
----
-
-### Youth arrested with ice drug
-
-*2024-10-02 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201776) · `si`
-
-Weligama youth arrested with ice drugs. Police found 1kg ice and 838g during motorcycle search. Midigama Police investigating.
-
-🟩
-
-A 20-year-old youth from Weligama has been arrested today (02) with ice drugs.
-
-He was arrested by a police team in the village in the Ibbawala area.
-
-Police said that the motorcycle of the suspect was inspected by the police, 1 kg of ice drugs and 838 grams were recovered.
-
-Midigama Police are conducting further investigations at the time of the raid.
-
-◼️
-
-[Data](articles/e524b634.json)
-
-[Extended Data](ext_articles/e524b634.ext.json)
-
----
-
-### Rights group urges Sri Lanka’s new leader cooperate with UN
-
-*2024-10-02 19:42:00* · [`economynextcom`](https://economynext.com/rights-group-urges-sri-lankas-new-leader-cooperate-with-un-182030/) · `en`
-
-ECONOMYNEXT – Human Rights Watch (HRW), an international a non-governmental organization that conducts research and advocacy on human rights has urged Sri Lanka’s new President Anura Kumara Dissanayake to cooperate with the United Nations Human Rights Council’s (UNHRC) investigations into the past human rights abuses and end the use of repressive laws in the island nation.
-
-Sri Lanka has been facing allegations of human rights violations in the final stage of a 26-year war between Tamil Tiger rebels and the state military and a raft of other abuses since the end of conflict in 2009.
-
-The UNHRC has passed resolutions to investigate the past rights abuses in Sri Lanka and collect evidence on such violations, though successive governments in the South Asian island nation have rejected cooperating with the global body, citing the move as infringing its sovereignty.
-
-...
-
-[Data](articles/64b5cc69.json)
-
-[Extended Data](ext_articles/64b5cc69.ext.json)
 
 ---

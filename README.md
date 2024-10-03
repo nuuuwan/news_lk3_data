@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 11:10:37**
+As of **2024-10-03 11:22:49**
 
 ## Newspaper Stats
 
-*Scraped **47,537** Articles*
+*Scraped **47,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,590
 tamilmirrorlk | 6,396
 virakesarilk | 7,599
-adaderanasinhalalk | 8,221
+adaderanasinhalalk | 8,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,537 (100.0%) of 47,537 articles have been extended.
+47,539 (100.0%) of 47,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### A case against the Keheliya is postponed
+
+*2024-10-03 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201797) · `si`
+
+Colombo High Court postpones Keheliya Rambukwella bribery case to Nov 29. Former minister appears before Judge Sujeewa Nissanka. Case filed by Bribery Commission.
+
+🟩
+
+The Colombo High Court has been summarized to be summoned by the Bribery Commission on the 29th November.
+
+The case was taken up before Colombo High Court Judge Sujeewa Nissanka today (03).
+
+Former Minister of the accused, Keheliya Rambukwella appeared in court.
+
+Accordingly, the High Court judge ordered the hearing on November 29, as the case was previously.
+
+Former Minister Keheliya Rambukkali and the former Minister of State Printing Corporation, the former Minister of State Printing Corporation and the former Minister of State Printing Corporation is bribed against the former Minister of State Printing Corporation.The case has been filed by the Commission.
+
+◼️
+
+[Data](articles/9ba2c051.json)
+
+[Extended Data](ext_articles/9ba2c051.ext.json)
+
+---
+
+### Death towards the wildlife deaths and wild elephants
+
+*2024-10-03 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201796) · `si`
+
+Wildlife deaths decrease: 340 elephants killed in 2022 vs 239 in 2023. Elephant-related deaths drop from 117 to 90. Department attributes reduction to conservation efforts.
+
+🟩
+
+The number of deaths caused by elephant deaths and wild elephants in the first eight months of this year have been reduced, said the Department of Wildlife Conservation.
+
+340 elephants were killed in the first 8 months of last year.
+
+The department said that only 239 of the elephants have died during this year.
+
+Elephants have taken 117 deaths in the first eight months of last year and it has been reduced to 90 this year.
+
+The Department of Wildlife Conservation said that the deaths were reduced due to measures taken by his department.
+
+◼️
+
+[Data](articles/05ab8189.json)
+
+[Extended Data](ext_articles/05ab8189.ext.json)
+
+---
 
 ### A train collides
 
@@ -2235,63 +2287,5 @@ Rajapaksa’s successor, Ranil Wickremesinghe, not only retained Sallay but also
 [Data](articles/00f0d294.json)
 
 [Extended Data](ext_articles/00f0d294.ext.json)
-
----
-
-### Solve the problems faced by the Tamil people. The letter of the Merchant Corporation
-
-*2024-10-02 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/195340) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Jaffna Merchants' Corp urges President to address Tamil issues: land rights, prisoner releases, refugee repatriation, economic development, political solutions. Emphasizes Tamil heritage and equal citizenship rights.
-
-🟩
-
-The Jaffna Merchants' Corporation has sent a letter to President Anura Kumara Dissanayake that the Tamil people should be given permanent solutions to the Tamil people's permanent solutions to the presidential election manifesto.
-
-We express our appreciation for their elected president of this country. We hope that this victory for their long -standing regime change will be a major change in the country.
-
-Their organization failed to seek to bring about regime change twice. After a long -standing effort to make the regime change they wanted, you have made your dream possible through this country's presidential election today.
-
-...
-
-[Data](articles/64ab79e9.json)
-
-[Extended Data](ext_articles/64ab79e9.ext.json)
-
----
-
-### Suspect arrested for abusing six children including a girl
-
-*2024-10-02 17:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201772) · `si`
-
-63-year-old man arrested for abusing 6 children, including 15-year-old girl. Suspect intimidated victims. Five victims aged 12-15, two brothers. Married father fled scene. Remanded until April 11.
-
-🟩
-
-A 63-year-old suspect has been arrested in connection with a 15-year-old schoolgirl and five schoolchildren.
-
-The suspect, a resident of the Peradeniya, Peradeniya, Peradeniya has been arrested by the Kandy Divisional Children's and Women's Bureau.
-
-Police say that the suspects have been forcibly abused by intimidating the suspect.
-
-The 15-year-old girl had previously lodged a complaint with the Peradeniya Police, our correspondent said.
-
-Investigations have said that the five schoolchildren who had been abused is between 12 and 15 years old and two brothers were among them.
-
-Police investigations have revealed that the suspect and five students have been abused by the suspect.
-
-The suspect, a married father, was forcibly taken to a valuable boy in the area and was preparing to abuse the suspect.
-
-The suspect had fled the area while he had complained to the incident.
-
-...
-
-[Data](articles/76e5affe.json)
-
-[Extended Data](ext_articles/76e5affe.ext.json)
 
 ---

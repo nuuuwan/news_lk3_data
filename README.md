@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 01:08:09**
+As of **2024-10-04 01:22:50**
 
 ## Newspaper Stats
 
-*Scraped **47,668** Articles*
+*Scraped **47,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,209
 adalk | 4,412
 dailymirrorlk | 4,733
 adaderanalk | 5,604
-tamilmirrorlk | 6,425
+tamilmirrorlk | 6,426
 virakesarilk | 7,626
 adaderanasinhalalk | 8,244
 
@@ -26,9 +26,39 @@ adaderanasinhalalk | 8,244
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,668 (100.0%) of 47,668 articles have been extended.
+47,669 (100.0%) of 47,669 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-04 (Friday)
+
+### The UN. Meeting with the associate president
+
+*2024-10-04 00:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-இணைப்பாளர்-ஜனாதிபதியுடன்-சந்திப்பு/175-344898) · `ta`
+
+UN Coordinator meets SL President, discusses cooperation on development and poverty reduction.
+
+🟩
+
+United Nations Coordinator Mark Anduru France met with President Anura Kumara Dissanayake at the Presidential Office yesterday (03).
+
+The United Nations Resident Coordinator, President Anura Kumara Dissanayake presented the greeting of the UN Secretary -General Antonia Gutaras.
+
+In the last presidential election, President Anura Kumara Dissanayake congratulated the president's election manifesto.
+
+Pointing out that the people's expectations are high, the UN Assistant promised that the UN would cooperate with Sri Lanka's program and poverty alleviation efforts with the International Monetary Fund.
+
+Mark Andrew praised the president's election manifesto and promised to provide UN technical and financial assistance to those initiatives.
+
+Similarly, the resident of the new government for national peace in the community, the resident of the resident, also congratulated the president's commitment to build confidence in each party.
+
+...
+
+[Data](articles/e35066a9.json)
+
+[Extended Data](ext_articles/e35066a9.ext.json)
+
+---
 
 ### 2024-10-03 (Thursday)
 
@@ -2533,25 +2563,5 @@ The Ministry of Health requests the public every month after 20 years of age and
 [Data](articles/44d2b3d4.json)
 
 [Extended Data](ext_articles/44d2b3d4.ext.json)
-
----
-
-### Singapore’s disgraced former minister S. Iswaran jailed in landmark case
-
-*2024-10-03 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102418/singapores-disgraced-former-minister-s-iswaran-jailed-in-landmark-case) · `en`
-
-A Singapore court on Thursday sentenced a former minister to 12 months in prison for obstructing justice and receiving more than $300,000 worth of gifts, in the first jailing of an ex-cabinet member in a city-state famous for its clean governance.
-
-S. Iswaran, who was a cabinet member for 13 years and has held the trade, communications and transport portfolios, pleaded guilty last week to four counts of improperly receiving gifts and one of obstructing justice.
-
-The sentence handed down was more severe than the six to seven months sought by the prosecution, which presiding judge Vincent Hoong said was “manifestly inadequate” given the gravity of Iswaran’s offences and their impact on public trust.
-
-“Trust and confidence in public institutions were the bedrock of effective governance, which could all too easily be undermined by the appearance that an individual public servant had fallen below the standards of integrity and accountability,” he said in sentencing Iswaran.
-
-...
-
-[Data](articles/4328d20a.json)
-
-[Extended Data](ext_articles/4328d20a.ext.json)
 
 ---

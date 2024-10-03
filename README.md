@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 23:39:01**
+As of **2024-10-03 23:58:31**
 
 ## Newspaper Stats
 
-*Scraped **47,651** Articles*
+*Scraped **47,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 3,209
 adalk | 4,412
 dailymirrorlk | 4,733
 adaderanalk | 5,604
-tamilmirrorlk | 6,424
-virakesarilk | 7,625
+tamilmirrorlk | 6,425
+virakesarilk | 7,626
 adaderanasinhalalk | 8,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,651 (100.0%) of 47,651 articles have been extended.
+47,653 (100.0%) of 47,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### What did the President say about the tax and income tax?
+
+*2024-10-03 23:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-வரி-வருமான-வரி-குறித்து-IMF-இடம்-ஜனாதிபதி-கூறியது-என்ன/175-344897) · `ta`
+
+President Anura Kumara Dissanayake urges IMF to consider alternatives to reduce tax burden on citizens. Government agrees with IMF goals but seeks exemptions for high-income earners.
+
+🟩
+
+President Anura Kumara Dissanayake has urged the IMF officials of the importance of approaching those objectives through alternatives to eliminate the burden on the people.
+
+The Senior Ambassador of the International Monetary Fund, including the Director of the International Monetary Fund, Krishna Srinivasan, Senior delegation, Dr. Peter Bruire, met with President Anura Kumara Dissanayake today (03).
+
+Central Bank Governor Dr. Nandalal Weerasinghe, Treasury Secretary Mahinda Siriwardena, Dr. Harshana Suriyaparuma and President's senior advisors Professor Anil Jayantha and Duminda Hulangamuwa were present at the meeting.
+
+The president reiterated the vast agreement of the government in principle with the objectives of the International Monetary Fund and emphasized the importance of approaching those objectives through alternatives to eliminate the burden on the people.
+
+...
+
+[Data](articles/43879e9b.json)
+
+[Extended Data](ext_articles/43879e9b.ext.json)
+
+---
+
+### Bangladesh over 10 years of victory in the World Cup by defeating Scotland
+
+*2024-10-03 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195432) · `ta`
+
+Bangladesh wins ICC Women's T20 World Cup match vs Scotland after 10-year drought. Captain Nikar Sultana expresses joy at victory on UAE soil.
+
+🟩
+
+Bangladesh won by 16 runs in the ICC Women's T20 World Cup in the Bomber's Bomber's Bomber at the Sharjah Cricket Stadium against Scotland on Thursday afternoon.
+
+Bangladesh, who lost 16 matches in the World Cup in the World Cup in 2014, have set a 10 -year win.
+
+And this victory on the 'shadow home' has given Bangladesh a great deal of excitement.
+
+'Not playing in our own country makes the heart hurt. But, we play for their own country as we were safe. We have made a good success in the presence of a good number of visitors. This has brought happiness in our own country, ”said Nikar Sultana, the captain of the 100th Women's International T20 match.
+
+It is certain that the defeat will be disappointing for Scotland for the first time in the Women's T20 World Cup in the World Cup.
+
+The game did not make a huge flaw as both sides left the field on the field. In the entire match, the two were over 30 runs.
+
+...
+
+[Data](articles/1bb9700f.json)
+
+[Extended Data](ext_articles/1bb9700f.ext.json)
+
+---
 
 ### Sri Lanka is a bitter defeat
 
@@ -2551,61 +2603,5 @@ Meanwhile, the Elections Commission will inform the Elpitiya Pradeshiya Sabha el
 [Data](articles/c4f08bf0.json)
 
 [Extended Data](ext_articles/c4f08bf0.ext.json)
-
----
-
-### 19 MPs change in the 9th Parliament
-
-*2024-10-03 11:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-ஆவது-பாராளுமன்றில்-19-எம்-பிக்கள்-மாற்றம்/175-344859) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ninth Parliament saw 19 MP changes. Key events: Jayantha Kadagoda's resignations, Basil Rajapakse's replacement, and Gotabhaya Rajapaksa's presidency. Four dissolutions occurred during its five sessions.
-
-🟩
-
-The first session began on August 20, 2020, and on September 24, 2024, the vacuum of 19 Parliamentary Members of the Constitution under Article 66 of the Constitution was dissolved by President Anura Kumara Dissanayake.
-
-In 18 cases, 16 were appointed as MPs. Accordingly, 241 members represented Parliament.
-
-Jayantha Kadagoda resigned to Parliament on the national list and Basil Rajapakse was replaced by him.
-
-Jayantha Kadagoda has been re -appointed to the vacuum following the resignation of National List MP Ajith Niwad Kabral. Similarly, AHM Fouzi was appointed for the vacuum following the resignation of Mujibur Rahman.
-
-Subsequently, Mujibur Rahman was re -appointed to the vacancy caused by the loss of membership in the name of MP Diana Kamage.. However, a new parliamentarian has not been appointed to the vacuum of Harin Fernando.
-
-...
-
-[Data](articles/7dd52ffa.json)
-
-[Extended Data](ext_articles/7dd52ffa.ext.json)
-
----
-
-### Former cabinet minister hearing gifts
-
-*2024-10-03 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201798) · `si`
-
-Singapore former Cabinet Minister sentenced 12 months prison corruption charges
-
-🟩
-
-Former Cabinet Minister in Singapore, who has been accused of receiving the Minister of Transport, has been sentenced to 12 months in prison.
-
-According to foreign media reports, Subramaniam Azwaran served as the Minister of Trade, Communication and Transport.
-
-He has been a member of the Singapore cabinet for 13 years and has been obtained from the Ministry of Transport.
-
-Investigations have commenced since July last year and the verdict has been announced from a court of law.
-
-A minister of Singapore is a large number of corruption charges in 1986.
-
-◼️
-
-[Data](articles/719f8dcf.json)
-
-[Extended Data](ext_articles/719f8dcf.ext.json)
 
 ---

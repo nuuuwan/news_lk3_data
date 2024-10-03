@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 08:58:29**
+As of **2024-10-03 09:12:04**
 
 ## Newspaper Stats
 
-*Scraped **47,518** Articles*
+*Scraped **47,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 473
 islandlk | 2,796
 economynextcom | 2,899
 dailyftlk | 3,209
-adalk | 4,392
+adalk | 4,393
 dailymirrorlk | 4,733
 adaderanalk | 5,586
-tamilmirrorlk | 6,395
+tamilmirrorlk | 6,396
 virakesarilk | 7,592
 adaderanasinhalalk | 8,218
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,518 (100.0%) of 47,518 articles have been extended.
+47,520 (100.0%) of 47,520 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -227,6 +227,32 @@ Executive Director of Alcohol and Drugs Center, said that the government request
 [Data](articles/261e4b6a.json)
 
 [Extended Data](ext_articles/261e4b6a.ext.json)
+
+---
+
+### IMF. Discussions between the new government begin
+
+*2024-10-03 07:13:49* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--හා-නව-රජය-අතර-සාකච්ඡා-ඇරඹෙයි/11-412279) · `si`
+
+IMF discusses future program with Sri Lanka's new government. Focuses on program progress and $2.9 billion installment. Meeting held at Presidential Secretariat. IMF praises Sri Lanka's commitment to economic stability. Key officials from both sides attend.
+
+🟩
+
+The International Monetary Fund (IMF) visited the International Monetary Fund (IMF) to look into the future program led by President Anura Kumara Dissanayake.
+
+The objective of this visit is to hold discussions on the progress of the IMF program and the fourth premium of Rs. 2.9 billion.
+
+Accordingly, the new government and the new government have appointed to the EMF talks held at the Presidential Secretariat yesterday after a meeting.
+
+The International Monetary Fund and Sri Lanka have been conducted by the two parties.
+
+The International Monetary Fund representatives were praised by the current government under the present government, raising the positive attitude of Sri Lanka and marked the commitment of Sri Lanka's commitment to economic stability and the continued support of the International Monetary Fund.
+
+...
+
+[Data](articles/f84c5720.json)
+
+[Extended Data](ext_articles/f84c5720.ext.json)
 
 ---
 
@@ -687,6 +713,28 @@ Speaking to the media after a meeting with distillery manufacturers, he insisted
 [Data](articles/5c1cdca2.json)
 
 [Extended Data](ext_articles/5c1cdca2.ext.json)
+
+---
+
+### Vijitha Herath - Julie Sung Meeting
+
+*2024-10-03 00:53:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-ஜூலி-சங்-சந்திப்பு/175-344844) · `ta`
+
+Foreign Minister Vijitha Herath met US Ambassador Julie Sung. They discussed strengthening US-Sri Lanka ties, focusing on security, trade, and human rights. The US remains committed to supporting Sri Lanka's national integrity, justice, and transparent governance.
+
+🟩
+
+There is a meeting between Foreign Minister Vijitha Herath and US Ambassador to Sri Lanka Julie Sangh.
+
+He noted that he is looking forward to strengthening relations between the US and Sri Lanka and working on issues such as security, trade and human rights.
+
+US Ambassador Julie Sung has said that the US is still dedicated to support the progress of national integrity, justice and transparent administration.. (A)
+
+◼️
+
+[Data](articles/f1202cc4.json)
+
+[Extended Data](ext_articles/f1202cc4.ext.json)
 
 ---
 
@@ -2247,57 +2295,5 @@ The Department of Meteorology also requests the public to take action to reduce 
 [Data](articles/43b33868.json)
 
 [Extended Data](ext_articles/43b33868.ext.json)
-
----
-
-### The prices of shoes for school students will be reduced soon - Buddhika Vimalasiri
-
-*2024-10-02 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/195324) · `ta`
-
-Sri Lanka: Shoe prices for students to drop soon. Industry leader Buddhika Wimalasiri calls for supporting local production to boost national growth.
-
-🟩
-
-The FLGIG (FLGIG) said that it has decided to reduce the prices of shoes for school children soon.
-
-The president of the shoe and leather industry, Buddhika Wimalasiri, spoke to the media.
-
-He said that when a government came to power, the country's industry and designers need to support the government in this community.
-
-He has requested that the country's growth be contributed to the development of the country by buying the products produced in Sri Lanka.
-
-◼️
-
-[Data](articles/954ac10b.json)
-
-[Extended Data](ext_articles/954ac10b.ext.json)
-
----
-
-### British High Commissioner in Sri Lanka meets President
-
-*2024-10-02 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201768) · `si`
-
-British High Commissioner meets Sri Lankan President to strengthen ties, discuss foreign investment and education cooperation.
-
-🟩
-
-The British High Commissioner for Sri Lanka has met with President Anura Kumara Dissanayake at the President's Office today (02).
-
-The meeting has taken place to promote strong diplomatic relations between the two countries, the Presidential Media Unit said.
-
-The British High Commissioner has been awarded to the victory of Anura Kumara Dissanayake in the last presidential election.
-
-The private greetings of the British Government of Sri Lanka and was presented to the President, King Char Kumara, and British Prime Minister Sir Keir Staarker, who was welcomed for the leadership of the British Kumara Dissanayake.
-
-The Presidential Media Unit stated that the Presidential Media Unit was discussed with the use of the British government for Sri Lanka's efforts to attract direct foreign investment (FDIS) and the importance of the education sector cooperation.
-
-He further stated that the British government has also supported the International Monetary Fund's Procedure and Debt Rataback.
-
-◼️
-
-[Data](articles/cd760ace.json)
-
-[Extended Data](ext_articles/cd760ace.ext.json)
 
 ---

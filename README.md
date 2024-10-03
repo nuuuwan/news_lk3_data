@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 10:12:30**
+As of **2024-10-03 10:24:01**
 
 ## Newspaper Stats
 
-*Scraped **47,527** Articles*
+*Scraped **47,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 2,899
 dailyftlk | 3,209
 adalk | 4,394
 dailymirrorlk | 4,733
-adaderanalk | 5,587
+adaderanalk | 5,590
 tamilmirrorlk | 6,396
 virakesarilk | 7,595
-adaderanasinhalalk | 8,220
+adaderanasinhalalk | 8,221
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,527 (100.0%) of 47,527 articles have been extended.
+47,527 (100.0%) of 47,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### මහාධිකරණ විනිසුරුට අපහාසාත්මක පෝස්ටර් ඇලවූ තවත් දෙදෙනෙක් අල්ලයි
+
+*2024-10-03 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201795) · `si`
+
+මන්නාරම මහාධිකරණ විනිසුරුවරයාට අපහසාත්මක දැන්වීම් ඇලවීමේ සිද්ධියට අදාළව තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (02) දින දහවල් කාලයේ දී කැලණිය සහ දෙහිවල යන ප්‍රදේශවලදී මෙම සැකකරුවන් කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් විසින් අත්අඩංගුවට ගෙන තිබුණි.
+
+ඔවුන් සන්තකයේ තිබූ ජංගම දුරකථන 03 ක් ද පොලිස් භාරයට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අඹකොටේ සහ දෙහිවල යන ප්‍රදේශවල පදිංචි වයස අවුරුදු 27 සහ 41 වයස්වල පසුවන්නන්ය.
+
+ඔවුන් අද (03) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+සැකකරුවන් විසින් අදාළ පෝස්ටර් නිර්මාණය කිරීම, මුද්‍රණය කිරීම හා සන්තකයේ තබා ගැනීම සිදුකර ඇති බවට විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+පසුගිය අගෝස්තු 28 වන දින මන්නාරම මහාධිකරණ විනිසුරුවරයාගේ ඡායාරූපය ඇතුළත් කරමින් ඔහුට අපහාසයක් සිදුවන අයුරින් කිසියම් පිරිසක් විසින් කොළඹ ඇතුළු තදාසන්න ප්‍රදේශවල දැන්වීම් ඇලවීම සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාශය විමර්ශනයක් ආරම්භ කර තිබුණි.
+
+...
+
+[Data](articles/14495e93.json)
+
+---
+
+### Person killed after being hit by train in Aluthgama
+
+*2024-10-03 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102415/person-killed-after-being-hit-by-train-in-aluthgama) · `en`
+
+A person has reportedly been killed after being hit by a train between Hettimulla and Aluthgama railway stations in the Aluthgama police division.
+
+The individual died after he was hit by a train plying from Maradana to Hikkaduwa.
+
+The body has been placed in the mortuary of the Nagoda Hospital and Aluthgama Police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/fede7d19.json)
+
+---
+
+### Fishermen arrest: PMK to picket Sri Lankan Consulate in Chennai
+
+*2024-10-03 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/102414/fishermen-arrest-pmk-to-picket-sri-lankan-consulate-in-chennai) · `en`
+
+Condemning the arrest of Tamil Nadu fishermen by the Sri Lankan navy, PMK president Anbumani Ramadoss has announced that the party will stage a protest at the Sri Lankan Deputy High Commission in Chennai on October 8.
+
+In a statement, Anbumani said that since June 16 after the fishing ban ended, as many as 404 fishermen have been arrested.
+
+“As many as 54 boats have been seized. In total, 192 boats were impounded and 162 fishermen remain in Sri Lankan prisons. Due to the arrests, families of fishermen are suffering, “ he said.
+
+Saying that the State government only writes letters to the central government seeking action, Anbumani added that during the protest, the party will demand the release of fishermen and their boats.
+
+...
+
+[Data](articles/d342ac87.json)
+
+---
 
 ### A growth of children between 5 and 12 years of teeth
 
@@ -55,6 +113,30 @@ Meanwhile, Dr. Paryali Jayasekara says that the rise in black split patients in 
 [Data](articles/70ce5d88.json)
 
 [Extended Data](ext_articles/70ce5d88.ext.json)
+
+---
+
+### Suspect arrested with over 1.8kg Kush cannabis at BIA
+
+*2024-10-03 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102413/suspect-arrested-with-over-18kg-kush-cannabis-at-bia) · `en`
+
+A passenger has been arrested at the Bandaranaike International Airport (BIA) in Katunayake with a stock of Kush cannabis smuggled into the country.
+
+It is reported that the suspect was arrested during a raid conducted by the officers of Police Narcotics Bureau (PNB) at the BIA.
+
+At the time of arrest, the suspect was in possession one kilogram and 883 grams of Kush cannabis.
+
+The arrested suspect is a 56-year- old resident of Kotugoda area.
+
+Meanwhile, a suspect has been arrested in possession of 1 kg and 838 grams of crystal methamphetamine (commonly known as ‘Ice’), in Ibbawala area in Midigama.
+
+The raid was carried out based on a tip-off received by the Midigama Police, and the drugs were discovered during a search of an individual who was traveling on a motorcycle.
+
+The arrested suspect is a 20-year-old resident of Weligama area and three other individuals who were present at the time of the operation have fled.
+
+...
+
+[Data](articles/e1dad1db.json)
 
 ---
 
@@ -2205,101 +2287,5 @@ The United States, which had warned Israel before, said it had helped Israel to 
 [Data](articles/131b3597.json)
 
 [Extended Data](ext_articles/131b3597.ext.json)
-
----
-
-### Japan fully supports President's program
-
-*2024-10-02 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201771) · `si`
-
-Japan supports Sri Lanka's president. Ambassador Mizukoshi met with President Dissanayake. Japan commits to strengthening ties. Ambassador promises to learn Sinhala to deepen friendship.
-
-🟩
-
-Japanese Ambassador, Mizukoshi Hideaki, said,
-
-President Anura Kumara Dissanayake and the Japanese Ambassador of Japan in Sri Lanka was held today (02).
-
-The Japanese government has been committed to further enhance the long-term ties between Japan and Sri Lanka, who was elected President of Sri Lanka.
-
-The Ambassador to the President has assured the President to study Japanese to study Japanese to further strengthen the long-term friendship between Sri Lanka and Japan.
-
-◼️
-
-[Data](articles/74204fa2.json)
-
-[Extended Data](ext_articles/74204fa2.ext.json)
-
----
-
-### S. Jayasanka to Sri Lanka on 04rd
-
-*2024-10-02 17:13:38* · [`adalk`](https://www.ada.lk/breaking_news/එස්-ජයශංකර්-ලබන-04-වැනිදා-ශ්‍රී-ලංකාවට/11-412275) · `si`
-
-Indian Foreign Minister S. Jaishankar visits Sri Lanka on April 4th. Main goal: New President Anura Kumara Dissanayake's objectives.
-
-🟩
-
-Indian Foreign Minister Sdishankar has decided to visit Sri Lanka.
-
-Accordingly, Sri Lanka's visit to Sri Lanka on the 4th of this month.
-
-The main objective of the new President Anura Kumara Dissanayake is the main objective of this visit.
-
-◼️
-
-[Data](articles/b1300cef.json)
-
-[Extended Data](ext_articles/b1300cef.ext.json)
-
----
-
-### Galle District Election of Elpitiya Pradeshiya Sabha;Date of postal voting
-
-*2024-10-02 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195335) · `ta`
-
-Elpitiya Pradeshiya Sabha election: Postal voting dates 2024.10.14 & 18. Voter cards from 12th October. Temporary IDs till 22nd October. Supreme Court orders quick local government elections.
-
-🟩
-
-Postal Voting for the Elpitiya Pradeshiya Sabha election will be held on 2024.10.14 and 18th. The Elections Commission has announced that official voter cards will be issued from the 12th of this month.
-
-The Commission has completed all the tasks as the Elpitiya Pradeshiya Sabha elections will be held on Saturday (Saturday).. Accordingly, the voter card for those who are eligible to vote for the postal vote will be issued on Monday, the 7th.
-
-Eligible postal voters can vote 2024.10.14. Those who do not vote at this time can vote on 2024.10.18 at the District Elections Office of the District where they serve.
-
-Official voter cards will be distributed from the 12th of this month. The Elections Commission stated that the issuance of a temporary ID card will be held until 22.10.10.10.10.10.10.10.10.10.10.2012.
-
-...
-
-[Data](articles/65a9a4a6.json)
-
-[Extended Data](ext_articles/65a9a4a6.ext.json)
-
----
-
-### Sri Lanka stocks close down, as momentum slows
-
-*2024-10-02 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-as-momentum-slows-182001/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 0.49 percent, or 58.68 points, at 11,934; while the more liquid S&P SL20 Index closed down 0.31 percent, or 10.89 points, at 3,510.
-
-“We saw a correction in the market,” Softlogic Stockbrokers said. “There was some profit realization, and the momentum slowed down.”
-
-Interest in banking counters continued, they said, with local investors taking positions.
-
-Crossings took place on Commercial Bank (up at 104.75), Sampath Bank (up at 79.80), Hayleys (down at 99.80), and Nations Trust Bank (down at 128.75).
-
-Top turnover generators were Sampath Bank, Commercial Bank, Hatton National Bank (up at 214.75), NTB and Vallibel One (down at 52.60)
-
-“Foreigners have been on the selling side for a while now, and there was profit taking in banks and conglomerates. Now the quantities have increased.”
-
-◼️
-
-[Data](articles/1714bc82.json)
-
-[Extended Data](ext_articles/1714bc82.ext.json)
 
 ---

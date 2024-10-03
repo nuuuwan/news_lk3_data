@@ -1,36 +1,130 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 20:11:10**
+As of **2024-10-03 20:22:57**
 
 ## Newspaper Stats
 
-*Scraped **47,628** Articles*
+*Scraped **47,633** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 394
-bbccomsinhala | 469
+bbccomsinhala | 470
 colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
 adalk | 4,408
 dailymirrorlk | 4,733
-adaderanalk | 5,602
-tamilmirrorlk | 6,420
+adaderanalk | 5,603
+tamilmirrorlk | 6,421
 virakesarilk | 7,619
-adaderanasinhalalk | 8,238
+adaderanasinhalalk | 8,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,628 (100.0%) of 47,628 articles have been extended.
+47,633 (100.0%) of 47,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### High-level IMF delegation meets President Dissanayake
+
+*2024-10-03 20:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102426/high-level-imf-delegation-meets-president-dissanayake) · `en`
+
+The high-level delegation from the International Monetary Fund (IMF) visiting Sri Lanka met with President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo today, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/293b87ab.json)
+
+[Extended Data](ext_articles/293b87ab.ext.json)
+
+---
+
+### Korean Exim Bank Compliance to provide funding
+
+*2024-10-03 19:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதியுதவி-வழங்க-கொரிய-எக்ஸிம்-வங்கி-இணக்கம்/175-344880) · `ta`
+
+Korean Exim Bank resumes funding Sri Lanka's development projects after economic downturn. Agreement reached during presidential office meeting. Concessionary assistance to be provided for suspended projects.
+
+🟩
+
+Korean Exim Bank has agreed to fund the Sri Lankan government's development projects.
+
+Officials of Korean Exim Bank issued the agreement when they met with the President's Secretary of the President at the Presidential Office today (03).
+
+With the decline in the economy of Sri Lanka, Korean Exim Bank's funding for Sri Lanka's development projects was suspended on 2022-2024.
+
+Representatives of Korean Exim Bank informed the president's secretary that the future will take steps to provide concessionary assistance to re -implement those development projects.
+
+Korean Exim Bank representatives have urged the Sri Lankan government to provide financial assistance to the Government of Sri Lanka in the future.
+
+Korean Exim Bank Director Wonsukh Ha, Deputy Director Hanui Han and Project Manager Nalin Jayatunga were also present at the meeting.
+
+◼️
+
+[Data](articles/eaaa3f15.json)
+
+[Extended Data](ext_articles/eaaa3f15.ext.json)
+
+---
+
+### Meeting between IMF Representatives and President
+
+*2024-10-03 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201818) · `si`
+
+IMF reps meet President Anura Kumara Dissanayake today at Presidential Secretariat.
+
+🟩
+
+The International Monetary Fund (IMF) has met with President Anura Kumara Dissanayake today (03).
+
+The meeting was said that the meeting was held at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/30cd8ad3.json)
+
+[Extended Data](ext_articles/30cd8ad3.ext.json)
+
+---
+
+### 7 arrested for assassination of student
+
+*2024-10-03 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201817) · `si`
+
+7 arrested for student assassination. Protesters brutally attacked area. Student killed with poles. Two friends hospitalized. Funeral tomorrow.
+
+🟩
+
+Residents of the area claimed to be severely punished for everyone in the area of ​​brutally assaulted the area in general area Mahawela.
+
+They were protesting in front of the Kaudopalella weapon of Kaudopalella, the student who was living in the Nadandaphthawatta area of ​​the student.
+
+Madawala source of mud in Matale. A 17-year-old schoolgirl named Uges died on the 1st of 1st.
+
+He had gone to the area with two other friends to meet their friend's girlfriend.
+
+With the stay on the house, they had taken their motorcycle's key to the house with her motorcycle next afternoon.
+
+Mahawela Police said that with the argument caused by the argument, the sister, who had been disturbed, had assaulted her three students.
+
+The father of the student in the house, another sister and two residents of the area intervened to conflict.
+
+With the attack on them with a poles and security empty plan, the student was killed and admitted to the Matale hospital.
+
+...
+
+[Data](articles/cea772f7.json)
+
+[Extended Data](ext_articles/cea772f7.ext.json)
+
+---
 
 ### To the Pakistan to the toss of coin
 
@@ -1412,6 +1506,42 @@ Japan has recently resumed 11 Japanese currency loans schemes following the reac
 
 ---
 
+### Porsche of the country: What is a manifestation vehicle?
+
+*2024-10-03 13:06:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdengx7j9yzo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Porsche of the country": A luxury vehicle in Sri Lanka. Recent controversy over presidential vehicle. Media reports questioned its authenticity. Unique features like cooking facilities, large engines, natural leather, and advanced air conditioning. Debate on whether such vehicles are truly "made-in-Sri-Lanka". High maintenance costs and fuel consumption.
+
+🟩
+
+Many Sri Lankan people have paid attention to luxury vehicles.
+
+Two things affected in recent years. One point was the publication of media reports, as the vessel entrusted to the president after he was appointed as the president.
+
+The second is the 'Porsche Cyan S (PORSCHE),' PORSCHES CAYENS S (PERSCHES Cian S) type is a "manufacturing from a" manufacturing.
+
+The Presidential Media Unit mentioned that 107 vehicles were given back to the government.
+
+However, Rosy Senanayake said a press conference was summoned by October 2, and the vehicle was in a dilapidated condition for over 10 years.
+
+She also accused the relevant media institutions regarding propagating the vehicle as a "manufacturing".
+
+"A sense of luxury is a car and equipment with a special level, which is often connected to high quality, unique, unique and identity," shows information on information.
+
+The materials, technology, engine, mode, mode, comfort and comfort are used to produce them.
+
+...
+
+[Data](articles/3ddee61c.json)
+
+[Extended Data](ext_articles/3ddee61c.ext.json)
+
+---
+
 ### Yall. Fire by a violent gang of sarcasm in Nelliyadi
 
 *2024-10-03 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195377) · `ta`
@@ -2441,133 +2571,5 @@ The arrested suspect is a 20-year-old resident of Weligama area and three other 
 [Data](articles/e1dad1db.json)
 
 [Extended Data](ext_articles/e1dad1db.ext.json)
-
----
-
-### Man hit and killed by train
-
-*2024-10-03 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201793) · `si`
-
-Train collides with man between stations; victim dies. Train from Maradana to Hikkaduwa hits railway line. Body taken to Nagoda Sundaratmaya. Aluthgama police investigating.
-
-🟩
-
-The victim was killed after collision with a train between Hettimulla Railway Station and Aluthgama Railway Station.
-
-The train traveling from Maradana to Hikkaduwa has collided with the railway line.
-
-The remains are placed at the Nagoda Sundaratmaya and the Aluthgama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/bd8ae3eb.json)
-
-[Extended Data](ext_articles/bd8ae3eb.ext.json)
-
----
-
-### 2 suspects arrested with foreign cigarettes in Kalmunai
-
-*2024-10-03 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195361) · `ta`
-
-Two suspects arrested with foreign cigarettes in Kalmunai. STF raids three-wheeler, seizes illegal cigarettes. Suspects aged 58 and 72 handed over to police station for further investigation.
-
-🟩
-
-Kalmunai Special Task Force (STF) has arrested two suspects who have been abducted by a three -wheeler illegally foreign cigarettes.
-
-On Thursday morning (03), a special team of specialist team from the Big Neewana Special Action Force camp was engaged in search operations on the basis of confidential information.
-
-Meanwhile, the three -wheeler who was traveling suspiciously on the Kalmunai main road in the Ampara district was interrupted and raided.
-
-A large number of illegal foreign cigarette cartons have been rescued and two suspects have been arrested in a trio.
-
-It is noteworthy that the Special Task Force (STF) has been arrested by the Special Task Force when they were smuggled into a shop where 20,200 illegal cigarettes worth Rs.
-
-Special Task Force (STF) detention is being carried out by a 72 -year -old suspect from Maruthamunai Hajiyar Road, including a 58 -year -old suspect from the Kalmunai Beach School Road Auto Pasar junction.
-
-...
-
-[Data](articles/17a5a92d.json)
-
-[Extended Data](ext_articles/17a5a92d.ext.json)
-
----
-
-### Israel strikes heart of Beirut, killing six
-
-*2024-10-03 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102412/israel-strikes-heart-of-beirut-killing-six) · `en`
-
-Israel bombed central Beirut in the early hours of Thursday, killing at least six people, after its forces suffered their deadliest day on the Lebanese front in a year of clashes against Iran-backed armed group Hezbollah.
-
-Israel said it conducted a precise air strike on Beirut. Reuters witnesses reported hearing a massive blast, and a security source said it targeted a building in central Beirut’s Bachoura neighbourhood close to parliament, the nearest Israeli strikes have come to Lebanon’s seat of government.
-
-At least six people were killed and seven wounded, Lebanese health officials said. A photo being circulated on Lebanese WhatsApp groups, which Reuters could not immediately verify, showed a heavily damaged building with its first floor on fire.
-
-...
-
-[Data](articles/cfd97689.json)
-
-[Extended Data](ext_articles/cfd97689.ext.json)
-
----
-
-### UN Human Rights Council Resolutions on Sri Lanka are essential to maintain attention on human rights violations - Human Rights Watch
-
-*2024-10-03 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195331) · `ta`
-
-Human Rights Watch urges UN Human Rights Council to pass resolution on Sri Lanka's past violations. New threats to freedom emerge as long-term restructuring remains incomplete. President Anura Kumara Dissanayake must protect affected parties and activists. UN resolutions crucial for maintaining focus on human rights issues in Sri Lanka.
-
-🟩
-
-The Human Rights Watch has urged the United Nations Human Rights Council to pass a resolution in Sri Lanka's past violations in Sri Lanka.
-
-He has called for the proceedings of the United Nations Human Rights Council by the United Nations Human Rights Council, which has been appointed by the previous governments by the previous governments to end the actions of the victims of the victims, including the relatives of the missing persons.
-
-In a statement issued by the Human Rights Watch, the new resolution prepared by the British -led Internet countries to submit the 51/1 resolution already passed in Sri Lanka
-
-UN Human Rights High Commissioner Volcker Turuk's new report on Sri Lanka. The long -term pending restructuring has not yet been completed.
-
-Instead, new threats that can be questioned by basic freedom have emerged. ”
-
-Sri Lanka's past governments have failed to take responsibility for officials associated with violence and violence against the Tamil and Muslim people.
-
-...
-
-[Data](articles/4ce917fd.json)
-
-[Extended Data](ext_articles/4ce917fd.ext.json)
-
----
-
-### Today is a little rainfall
-
-*2024-10-03 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195360) · `ta`
-
-Light rainfall expected Eastern Uva provinces afternoon night. Showers thunderstorms sea regions Mannar Kankesanthurai Colombo Galle Hambantota. Strong winds lightning warnings issued. Southwest winds 25-35 km/h sea areas, potentially increasing 45-50 km/h certain regions.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that some rainfall in the Eastern and Uva provinces could occur in the afternoon or night.
-
-Rainfall is likely in the morning in the upper and Southern Province coastal regions.
-
-The public is asked to take care in the events of strong winds and lightning.
-
-Showers or thunderstorms are expected in some parts of the sea regions from Mannar to Kankesanthurai in the afternoon or night.
-
-Rainfall is expected in some parts of the sea regions from Colombo to Galle to Hambantota.
-
-Winds from the southwest at speeds of 25 - 35 km / h in the sea regions.
-
-From the beginning of the Kankesanthurai to Mannar to Mannar as well as in the sea regions from Hambantota to Pottuvil via Pottuvil, the winds may increase at 45 - 50 km / h.. In such cases, these sea regions are somewhat turbulent.
-
-But when the thunderstorm is raining, there will be strong winds and the sea regions are temporarily in a very turbulent.
-
-◼️
-
-[Data](articles/6ec21417.json)
-
-[Extended Data](ext_articles/6ec21417.ext.json)
 
 ---

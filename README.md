@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 13:22:51**
+As of **2024-10-03 13:39:15**
 
 ## Newspaper Stats
 
-*Scraped **47,565** Articles*
+*Scraped **47,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,209
 adalk | 4,398
 dailymirrorlk | 4,733
 adaderanalk | 5,596
-tamilmirrorlk | 6,405
+tamilmirrorlk | 6,406
 virakesarilk | 7,599
 adaderanasinhalalk | 8,227
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,565 (100.0%) of 47,565 articles have been extended.
+47,566 (100.0%) of 47,566 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -133,6 +133,30 @@ Former Minister Keheliya Rambukwella and former Chairman of the State Press Corp
 [Data](articles/bee0a5fd.json)
 
 [Extended Data](ext_articles/bee0a5fd.ext.json)
+
+---
+
+### Elephant - Human conflict is a little less
+
+*2024-10-03 11:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-மனித-மோதல்-கொஞ்சம்-குறைந்தது/175-344864) · `ta`
+
+Sri Lanka: Elephant-human conflict deaths decrease. 340 elephants died in 8 months of 2023 vs 239 this year. Human casualties fell from 117 to 90. Measures reduce conflicts.
+
+🟩
+
+The Wildlife Protection Department said that the deaths of elephant-human conflict in Sri Lanka during the first eight months of this year.
+
+340 elephants died in the same period in 2023, while 239 elephants have died this year.
+
+In addition, the human casualties caused by the elephant attack have fallen from 117 to 90, the department said.
+
+Elephant - Elephant - The deaths have been reduced due to measures taken to avoid human conflicts.
+
+◼️
+
+[Data](articles/571337e9.json)
+
+[Extended Data](ext_articles/571337e9.ext.json)
 
 ---
 
@@ -2299,25 +2323,5 @@ Sri Lanka has recently witnessed significant political change following the conc
 [Data](articles/5d95e830.json)
 
 [Extended Data](ext_articles/5d95e830.ext.json)
-
----
-
-### High-level IMF delegation meets new govt’s economic team, discuss reforms
-
-*2024-10-02 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102410/high-level-imf-delegation-meets-new-govts-economic-team-discuss-reforms) · `en`
-
-A high-level delegation from the International Monetary Fund (IMF) arrived in Sri Lanka today (2) to engage with the newly formed government led by President Anura Kumara Dissanayake.
-
-The primary objective of the visit was to initiate discussions on the progress of the IMF program and necessary steps towards the release of the fourth tranche of the $ 2.9 billion Extended Fund Facility (EFF), the President’s Office said.
-
-The meeting, held at the Presidential Secretariat, featured cordial discussions between the IMF delegation and the economic team of the new government. Both parties reviewed the IMF programme thus far and outlined the way forward for future collaboration, the statement said.
-
-“The IMF delegation expressed appreciation for the significant changes taking place in Sri Lanka, boosting the positive outlook on Sri Lanka under the present government,” it said.
-
-...
-
-[Data](articles/30189505.json)
-
-[Extended Data](ext_articles/30189505.ext.json)
 
 ---

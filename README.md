@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 13:39:15**
+As of **2024-10-03 13:58:18**
 
 ## Newspaper Stats
 
-*Scraped **47,566** Articles*
+*Scraped **47,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,130 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
-adalk | 4,398
+adalk | 4,399
 dailymirrorlk | 4,733
 adaderanalk | 5,596
 tamilmirrorlk | 6,406
-virakesarilk | 7,599
+virakesarilk | 7,605
 adaderanasinhalalk | 8,227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,566 (100.0%) of 47,566 articles have been extended.
+47,573 (100.0%) of 47,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Japan will never invest in Sri Lanka if corruption continues - Ambassador
+
+*2024-10-03 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195385) · `ta`
+
+Japan warns: No investment without ending corruption in Sri Lanka. Economic reforms underway, but transparency crucial for foreign investors.
+
+🟩
+
+Japanese Ambassador to Sri Lanka Missukoshi Hadeki has stated that there is no chance of getting Japan's investments if corruption in Sri Lanka persists.
+
+He was speaking at a function held at the Colbees Hotel, Colombo
+
+Sri Lanka is today implementing economic reforms under the International Monetary Agreement.
+
+However, such foreign pressures should not be considered weak for the best future of the country, but rather a testament to the intelligence of the leaders.
+
+India faced financial crisis in 1991, with the International Monetary Fund with the advice of the World Bank with the advice of the World Bank.
+
+Economic reforms on that day have made India the fastest growing economy today.
+
+The international community considers Sri Lanka's dedication to follow the intelligent economic policies of the International Monetary Fund.
+
+Japan has recently resumed 11 Japanese currency loans schemes following the reaching of Sri Lanka in 2022.
+
+...
+
+[Data](articles/5abe7a7b.json)
+
+[Extended Data](ext_articles/5abe7a7b.ext.json)
+
+---
+
+### Yall. Fire by a violent gang of sarcasm in Nelliyadi
+
+*2024-10-03 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195377) · `ta`
+
+Violent gang sets fire to sari shop in Jaffna, destroying goods. Three men on motorbike poured petrol and ignited blaze. Police investigating incident.
+
+🟩
+
+A violent gang set fire to a sari shop in Nelliyadi, Jaffna, and the value of the store has been destroyed in the fire.
+
+A three -year -old violent gang of violence has broken into a nearby sarcasm in the necklace market on Wednesday (02) night.
+
+Police said that the fire spread rapidly, the valuable clothes were destroyed in the fire.
+
+At the same time, the investigation revealed that the three men who had arrived on a motorbike last week had poured petrol and set fire to the shop.
+
+It is noteworthy that the violent gang set fire to the sari shop again yesterday.
+
+◼️
+
+[Data](articles/f727ce6c.json)
+
+[Extended Data](ext_articles/f727ce6c.ext.json)
+
+---
+
+### Arrested with a sword, manna kid
+
+*2024-10-03 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195380) · `ta`
+
+Colombo Police arrest suspect swords manna knives two murders Kasun drug trafficker
+
+🟩
+
+The Colombo Police Crime Prevention Division has arrested a suspect in connection with two murder incidents in a house in Wellampitiya Varakoda area.
+
+The suspect has been arrested in connection with information received by the Colombo Police Crime Unit.
+
+Two swords and manna knives have been seized by the police in the house of the suspect.
+
+The arrested suspect has been detained on two murders in the Grandpass Police Division and later released on bail, police investigations have revealed.
+
+Police investigations have revealed that the suspect has maintained close contact with the famous drug trafficker "Kasun", who is abroad.
+
+◼️
+
+[Data](articles/24ae3d6d.json)
+
+[Extended Data](ext_articles/24ae3d6d.ext.json)
+
+---
+
+### Local Government Elections soon after parliamentary elections - Election Commission
+
+*2024-10-03 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195381) · `ta`
+
+Election Commission announces local government elections post-parliamentary polls. Discussions ongoing about funding and leader consultations. Local elections to be held immediately after general election completion.
+
+🟩
+
+The Elections Commission has announced that it will announce an official resolution on the local government elections after the end of the parliamentary election.
+
+The announcement was made following discussions on legal proceedings for the necessary funds to hold elections.
+
+The Commission also said that it has held preliminary discussions with leaders to ensure that the local government elections are smooth.
+
+The Commission reiterated that "we have completed the basic tasks and we will hold a local government election immediately after the general election."
+
+◼️
+
+[Data](articles/5c385ee1.json)
+
+[Extended Data](ext_articles/5c385ee1.ext.json)
+
+---
 
 ### At the easoletal, a land attack on Lebanon
 
@@ -133,6 +241,36 @@ Former Minister Keheliya Rambukwella and former Chairman of the State Press Corp
 [Data](articles/bee0a5fd.json)
 
 [Extended Data](ext_articles/bee0a5fd.ext.json)
+
+---
+
+### Three arrests with drugs;Trio escape
+
+*2024-10-03 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195370) · `ta`
+
+Sri Lanka: Drug arrests and escapes. Three suspects caught with cannabis and methamphetamine. Three others flee police.
+
+🟩
+
+Three suspects have been arrested and three suspects have been arrested and three have fled the country.
+
+A suspect has been arrested yesterday (02) at the Katunayake airport with a Kush narcotics that illegally brought to Sri Lanka.
+
+1 kg of 883 grams of Kush has been seized from the arrested suspect.
+
+Meanwhile, a suspect has been arrested in Mithigama Eppawala area with 01 kg 838 grams of ice.
+
+The arrested suspect is a 20 -year -old from Weligama and three others have escaped from the police during the raid, police said.
+
+In addition, a suspect has been arrested with 920 grams of ice drugs in Kosateniya, Welipanai.
+
+The arrested person was 29 years old from Walagadera, police said.
+
+◼️
+
+[Data](articles/b495312b.json)
+
+[Extended Data](ext_articles/b495312b.ext.json)
 
 ---
 
@@ -321,6 +459,32 @@ An autopsy revealed that a piece of bananas he consumed was in the presence of a
 [Data](articles/d3b63098.json)
 
 [Extended Data](ext_articles/d3b63098.ext.json)
+
+---
+
+### 473 people are involved in exam frauds - Sri Lanka Teachers Association
+
+*2024-10-03 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195373) · `ta`
+
+Sri Lanka Teachers Union demands overhaul of Department of Examinations due to 473 individuals involved in exam fraud. List includes high-ranking officials. Union calls for complete replacement of department.
+
+🟩
+
+The Sri Lanka Teachers Union has requested that the Department of Examinations completely replace the Department of Examinations as 473 people are involved in the exam fraud.
+
+Joseph Stalin, general secretary of the Sri Lanka Teachers Union, commented to the media
+
+The names of 473 people who were involved in the 2024 exams are listed.
+
+The list includes the names of the Divisional Director General and senior officials.
+
+Therefore, in the current situation, the Department of Examinations is necessary to completely change the Department of Examinations.
+
+◼️
+
+[Data](articles/fb4f5ddb.json)
+
+[Extended Data](ext_articles/fb4f5ddb.ext.json)
 
 ---
 
@@ -1099,6 +1263,30 @@ In addition, the court has ordered the owners to immediately hand over luxury ve
 [Data](articles/9ef9bcbd.json)
 
 [Extended Data](ext_articles/9ef9bcbd.ext.json)
+
+---
+
+### Magistrate complains to police
+
+*2024-10-03 08:04:10* · [`adalk`](https://www.ada.lk/breaking_news/මහේස්ත්‍රාත්‍ගෙන්-පොලීසියට-පැමිණිල්ලක්/11-412285) · `si`
+
+Colombo Chief Magistrate Thilina Gamage lodges complaint against threats over controversial cases. Police increase security measures.
+
+🟩
+
+Colombo Chief Magistrate Thilina Gamage lodged a complaint with the DIG of the Criminal Inspector Department and the director of the Criminal Investigation Department (CID).
+
+It is reported that the complaint has been lodged with the Colombo Chief Magistrate based on a poster of Isuru Surapea on Mosque (01).
+
+The threatening letters were referred to a number of controversial proceedings and heroin traffickers, which criticize a number of controversial lawsuit of the Colombo Chief Magistrate Thilina Gamage.The police have taken steps to strengthen security.
+
+The complaint states that the proposal has been proposed to kill a high court on a verdict on a pronouncement of a prominent person who had led a popular decision.
+
+◼️
+
+[Data](articles/4b2c02b4.json)
+
+[Extended Data](ext_articles/4b2c02b4.ext.json)
 
 ---
 
@@ -2181,147 +2369,5 @@ We should end a long dark chapter in our contemporary history by electorally exo
 [Data](articles/0d95e65a.json)
 
 [Extended Data](ext_articles/0d95e65a.ext.json)
-
----
-
-### Japanese government's full support for the president's program that creates a corrupt country
-
-*2024-10-02 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195356) · `ta`
-
-Japanese government supports corrupt regime in Sri Lanka. Ambassador promises aid for airport expansion and digital TV project. Offers Japanese language education and jobs in Japan to strengthen bilateral ties.
-
-🟩
-
-Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki, said the Japanese government would give full support to the President Anurakumara Dissanayake, who creates a corrupt regime.
-
-A meeting between President Anura Kumara Dissanayake and Japanese Ambassador to Sri Lanka Missukoshi Hideiagi took place on Wednesday (02) at the Presidential Office.
-
-The Japanese Ambassador expressed his sincere congratulations to Anuragumara Dissanayake, the new president of Sri Lanka, and said the Japanese government is committed to further enhance the long -term ties between Japan and Sri Lanka.
-
-The mutual interested departments between the two countries were exploring in detail and agreed to work closely with the two countries in the future.
-
-In his election manifesto, the Japanese Ambassador congratulated the President Anukumara Dissanayake to focus on the creation of corrupt and better regime and promised to provide full support for the program.
-
-...
-
-[Data](articles/014b3254.json)
-
-[Extended Data](ext_articles/014b3254.ext.json)
-
----
-
-### Challenges ahead for President Anura Kumara Dissanayake: Navigating Sri Lanka’s political labyrinth
-
-*2024-10-02 22:13:09* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-ahead-for-President-Anura-Kumara-Dissanayake-Navigating-Sri-Lanka-s-political-labyrinth/4-767459) · `en`
-
-The challenges ahead for President Anura Kumara Dissanayake are vast, but not insurmountable. Navigating Sri Lanka’s complex political landscape will require a delicate balance of strategic alliances, visible achievements, and long-term reforms. AKD must manage the expectations of a hopeful electorate while remaining pragmatic about the realities of governance. In the coming months, his ability to lead effectively will determine whether Sri Lanka embarks on a new path of reform and prosperity, or if AKD becomes yet another leader shackled by the limitations of political office. The stakes are high—not just for AKD, but for the future of Sri Lanka
-
-...
-
-[Data](articles/bfb5edfe.json)
-
-[Extended Data](ext_articles/bfb5edfe.ext.json)
-
----
-
-### Meeting Chinese Ambassador President;To ensure that the debt is fully supported to establish the restoration and economic stability
-
-*2024-10-02 22:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195355) · `ta`
-
-Chinese Ambassador Qi Zhenhong met President Anura Kumara Dissanayake. He congratulated the president's election win and pledged full cooperation between China and Sri Lanka. The ambassador emphasized the importance of ongoing cooperation programs and the role of Chinese banks in supporting Sri Lanka's development. He assured full support for credit restructuring to ensure economic stability and sustainability.
-
-🟩
-
-The Ambassador of the People's Republic of China, Qi Zhenhong, met with President Anura Kumara Dissanayake on Wednesday (02) at the Presidential Office.
-
-At the meeting held at the Presidential Office, the Ambassador congratulated the President Anura Kumara Dissanayake's election victory and promised to fully cooperate with China to cooperate with the future activities of Sri Lanka and to further strengthen bilateral relations with the China government.
-
-He also pointed out the importance of the programs that are currently being carried out on the basis of cooperation in Sri Lanka and the effective interventions of the Chinese Development Bank (CDB) and EXIM Bank to cooperate with Sri Lanka's development activities.
-
-The Chinese Ambassador assured the president that it would provide full support for credit restructuring activities as the main business credit provider and bilateral credit provider in collaboration with Sri Lanka's economic sustainability and development.
-
-◼️
-
-[Data](articles/a9300cfc.json)
-
-[Extended Data](ext_articles/a9300cfc.ext.json)
-
----
-
-### All flights in Iran cancel
-
-*2024-10-02 22:03:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஈரானில்-அனைத்து-விமான-சேவைகளும்-இரத்து/50-344839) · `ta`
-
-Iran cancels all flights due to Israel attack. Airspace closed until tomorrow. Avoid unnecessary outdoor activities due to unsafe environment.
-
-🟩
-
-Following the attack on Israel, Iran has announced that it has temporarily closed its airspace as a precautionary precaution.
-
-Accordingly, all flights in Iran have been canceled until tomorrow (03).
-
-Meanwhile, people are advised to avoid unnecessarily outdoors in considering the unsafe environment in Iran.. Remble
-
-◼️
-
-[Data](articles/23aeee65.json)
-
-[Extended Data](ext_articles/23aeee65.ext.json)
-
----
-
-### Meeting between the President and the Indian High Commission;Praise the President's Anti -Corruption Program
-
-*2024-10-02 21:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195354) · `ta`
-
-President Anura Kumara Dissanayake met Indian High Commissioner Santosh Jha. India supports Sri Lanka's development. High Commissioner praised President's anti-corruption program, offering support for digitalization projects.
-
-🟩
-
-The meeting between President Anura Kumara Dissanayake and Indian High Commissioner to Sri Lanka Santosh Jha (Santosh JHA) took place on Wednesday (02).
-
-He said that the Indian High Commissioner, who congratulated Anura Kumara Dissanayake in the last presidential election, said that India is ready to support all the ways of Sri Lanka's development activities and that Sri Lanka is looking for a peaceful and stable country in the region.
-
-The Indian High Commissioner, who recalled the long -standing friendship and intimacy between India and Sri Lanka, emphasized the importance of continuing and sustainable maintenance between the two countries, as neighboring brothers and countries.
-
-Pointing to the importance of digitizing government structures to effectively fighting corruption, the Indian High Commissioner praised the anti -corruption program underlined in the declaration of the president's policy.
-
-...
-
-[Data](articles/4a6602d3.json)
-
-[Extended Data](ext_articles/4a6602d3.ext.json)
-
----
-
-### Our busted bus service
-
-*2024-10-02 21:56:57* · [`dailyftlk`](https://www.ft.lk/columns/Our-busted-bus-service/4-767458) · `en`
-
-What we commuters want is an economical, reliable, comfortable, safe public transport system
-
-Bus service was nationalised in 1958 and during early 70s there was a very good bus service in the country when late Anil Moonasinghe was the Chairman of CTB. Most bus stands in towns had a time table, although there were delays, etc. CTB always assured the first and last bus. Then in 1977 the bus service was opened for private sector. That was under the premise competition would give the commuter a better service. Even after nearly four decades we are struggling to experience what can be considered a “transport service” which is reliable and convenient and economical. What we have is far from those basic qualities and in addition what we have is dangerous to all road users and even bystanders.
-
-...
-
-[Data](articles/c12ebe15.json)
-
-[Extended Data](ext_articles/c12ebe15.ext.json)
-
----
-
-### Positive market impact of Sri Lanka’s Presidential elections: Key decisions for good governance
-
-*2024-10-02 21:51:00* · [`dailyftlk`](https://www.ft.lk/columns/Positive-market-impact-of-Sri-Lanka-s-Presidential-elections-Key-decisions-for-good-governance/4-767457) · `en`
-
-The decisive actions taken by Sri Lanka’s new President have bolstered confidence and paved the way for sustained economic recovery
-
-Sri Lanka has recently witnessed significant political change following the conclusion of the Presidential elections. With a new administration now in place, the initial market response has been overwhelmingly positive, reflecting renewed investor confidence and optimism for future economic growth. This article explores how key decisions made by the newly elected President have set the foundation for good governance, economic stability, and sustainable growth.
-
-...
-
-[Data](articles/5d95e830.json)
-
-[Extended Data](ext_articles/5d95e830.ext.json)
 
 ---

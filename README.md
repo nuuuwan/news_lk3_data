@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 12:24:37**
+As of **2024-10-03 12:57:19**
 
 ## Newspaper Stats
 
-*Scraped **47,560** Articles*
+*Scraped **47,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
-adalk | 4,397
+adalk | 4,398
 dailymirrorlk | 4,733
-adaderanalk | 5,593
+adaderanalk | 5,595
 tamilmirrorlk | 6,405
 virakesarilk | 7,599
 adaderanasinhalalk | 8,226
@@ -26,25 +26,75 @@ adaderanasinhalalk | 8,226
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,557 (100.0%) of 47,560 articles have been extended.
+47,563 (100.0%) of 47,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
 
-### கெஹலியவுக்கு எதிரான வழக்கு ஒத்திவைப்பு
+### Colombo HC defers hearing of Keheliya’s corruption case
 
-*2024-10-03 12:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிரான-வழக்கு-ஒத்திவைப்பு/175-344866) · `ta`
+*2024-10-03 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102419/colombo-hc-defers-hearing-of-keheliyas-corruption-case) · `en`
 
-முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல மற்றும் அரச அச்சக கூட்டுத்தாபனத்தின் முன்னாள் தலைவர் ஜயம்பதி ஹீன்கெந்த ஆகியோருக்கு எதிராக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்யும் ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கை நவம்பர் மாதம் 29ஆம் திகதி விசாரணைக்கு எடுத்துக்கொள்ள கொழும்பு மேல் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Colombo High Court has ordered for the case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against former Health Minister Keheliya Rambukwella and the former Chairman of the State Printing Corporation, to be called for hearing on November 29.
 
-இந்த வழக்கு வியாழக்கிழமை (03) கொழும்பு மேல் நீதிமன்ற நீதிபதி சுஜீவ நிஷங்க முன்னிலையில் அழைக்கப்பட்டிருந்தது.
+This order was issued when the relevant plaint was called before Colombo High Court Judge Sujeewa Nissanka today (03).
 
-இதன்போது  முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல நீதிமன்றத்தில் ஆஜரானாதோடு குறித்த வழக்கை ஏற்கனவே திட்டமிட்டபடி நவம்பர் மாதம் 29-ம் திகதி விசாரிக்க கொழும்பு மேல் நீதிமன்ற நீதிபதி உத்தரவிட்டார்.
+At that time, the accused former minister Keheliya Rambukwella had also appeared before the court.
+
+Accordingly, the High Court judge had ordered the case to be heard on November 29 as previously scheduled.
+
+Former minister Keheliya Rambukwella and former chairman of the State Printing Corporation Jayampathi Bandara Heenkenda stand accused of allegedly misappropriating the funds belonging to the corporation to pay Rambukwella’s personal telephone bill, amounting to Rs. 230,000 between March and April 2012, during his tenure as the Minister of Mass Media.
+
+◼️
+
+[Data](articles/8b079404.json)
+
+[Extended Data](ext_articles/8b079404.ext.json)
+
+---
+
+### Singapore’s disgraced former minister S. Iswaran jailed in landmark case
+
+*2024-10-03 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102418/singapores-disgraced-former-minister-s-iswaran-jailed-in-landmark-case) · `en`
+
+A Singapore court on Thursday sentenced a former minister to 12 months in prison for obstructing justice and receiving more than $300,000 worth of gifts, in the first jailing of an ex-cabinet member in a city-state famous for its clean governance.
+
+S. Iswaran, who was a cabinet member for 13 years and has held the trade, communications and transport portfolios, pleaded guilty last week to four counts of improperly receiving gifts and one of obstructing justice.
+
+The sentence handed down was more severe than the six to seven months sought by the prosecution, which presiding judge Vincent Hoong said was “manifestly inadequate” given the gravity of Iswaran’s offences and their impact on public trust.
+
+“Trust and confidence in public institutions were the bedrock of effective governance, which could all too easily be undermined by the appearance that an individual public servant had fallen below the standards of integrity and accountability,” he said in sentencing Iswaran.
 
 ...
 
+[Data](articles/4328d20a.json)
+
+[Extended Data](ext_articles/4328d20a.ext.json)
+
+---
+
+### Postponement of the case against Keheliya
+
+*2024-10-03 12:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிரான-வழக்கு-ஒத்திவைப்பு/175-344866) · `ta`
+
+Colombo High Court postpones bribery case against Keheliya Rambukwella, orders appearance Nov 29. Former Minister accused of misusing State Press Corporation funds during tenure.
+
+🟩
+
+The Colombo High Court has ordered the hearing of the case filed by the Investigation Commission on bribery or corruption against former Minister Keheliya Rambukwella and former President of the State Press Corporation, Jayampathi Heinkenda.
+
+The case was summoned before Colombo High Court Judge Sujeewa Nishanga on Thursday (03).
+
+The Colombo High Court judge ordered the former minister Keheliya Rambukwella to appear before the court on November 29.
+
+Former Minister Keheliya Rambukwella and former Chairman of the State Press Corporation, Jayampathi Heinkenda, have filed a complaint against the bribery corruption order, accusing the government of using the funds of the State Press Corporation by using the funds of the State Press Corporation during his tenure as the Minister of Media.Notably.
+
+◼️
+
 [Data](articles/bee0a5fd.json)
+
+[Extended Data](ext_articles/bee0a5fd.ext.json)
 
 ---
 
@@ -95,6 +145,8 @@ The Election Commission of Sri Lanka says that steps will be taken to hold the L
 ◼️
 
 [Data](articles/dfff1ba9.json)
+
+[Extended Data](ext_articles/dfff1ba9.ext.json)
 
 ---
 
@@ -1028,6 +1080,24 @@ The driver of the three-year-old driver was injured and admitted to the Deniyaya
 
 ---
 
+### 58 independent groups bail
+
+*2024-10-03 07:43:33* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-ස්වාධීන-කණ්ඩායම්-58ක්-ඇප-තියයි/11-412284) · `si`
+
+58 independent groups registered for Nov 14 election. Most in Wanni district (10 groups).
+
+🟩
+
+58 independent groups have deposited for the general election held on November 14.. Most independent groups have deposited in the Wanni district. That value is 10 groups.
+
+◼️
+
+[Data](articles/2013073b.json)
+
+[Extended Data](ext_articles/2013073b.ext.json)
+
+---
+
 ### More and more Japan's jobs in Japan
 
 *2024-10-03 07:34:05* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකිකයන්ට-වැඩි-වැඩියෙන්-ජපානයේ-රැකියා-දොරටු/11-412283) · `si`
@@ -1593,6 +1663,8 @@ Immediately after the election of new leader, I have expressed my commitment to 
 ...
 
 [Data](articles/7edda24b.json)
+
+[Extended Data](ext_articles/7edda24b.ext.json)
 
 ---
 
@@ -2233,73 +2305,5 @@ All political parties that supported former President Ranil Wickremesinghe in th
 [Data](articles/5a6dc399.json)
 
 [Extended Data](ext_articles/5a6dc399.ext.json)
-
----
-
-### Praveen Jayawickrama banned under ICC Anti-Corruption Code
-
-*2024-10-02 21:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102409/praveen-jayawickrama-banned-under-icc-anti-corruption-code) · `en`
-
-The International Cricket Council (ICC) has banned Sri Lankan player Praveen Jayawickrama from all cricket for one year, of which six months are suspended, after he admitted breaching the ICC Anti-Corruption Code.
-
-Issuing a release, the ICC said that Jayawickrama admitted to being in breach of the following provision under the Code:
-
-Article 2.4.7 – Obstructing or delaying any investigation that may be carried out by the ACU, including concealing, tampering with or destroying any documentation or other information that may be relevant to that investigation and/or that may be evidence or may lead to the discovery of evidence of corrupt conduct under the Anti-Corruption Code.
-
-As a result of the admission, Jayawickrama has accepted a sanction of a one-year period of ineligibility, of which the last six months are suspended, the statement said.
-
-...
-
-[Data](articles/f568980c.json)
-
-[Extended Data](ext_articles/f568980c.ext.json)
-
----
-
-### Ranil again in the cylinder
-
-*2024-10-02 21:36:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-சிலிண்டரில்-ரணில்/175-344838) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former President Ranil Wickremesinghe's supporters form new coalition called New Democratic Front. They will contest upcoming general election under "gas cylinder" symbol.
-
-🟩
-
-In the last presidential election, those who supported former President Ranil Wickremesinghe have formed a new coalition.
-
-The coalition, which is under the name of the New Democratic Front, is expected to contest the upcoming general election in the gas cylinder symbol.. Remble
-
-◼️
-
-[Data](articles/ffffc8cb.json)
-
-[Extended Data](ext_articles/ffffc8cb.ext.json)
-
----
-
-### Discussions on economic reforms between the top representatives of the International Monetary Fund and the Government of Sri Lanka
-
-*2024-10-02 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/195351) · `ta`
-
-IMF delegation visits Sri Lanka to discuss economic reforms and review progress of $2.9 billion loan program. Meeting focuses on future projects and new government's initiatives. IMF representatives praise ongoing reforms and express continued support for Sri Lanka.
-
-🟩
-
-A high -level committee of the IMF (IMF) visited Sri Lanka on Wednesday (02) to investigate the future project of the new government headed by President Anura Kumara Dissanayake, which is in conjunction with the International Monetary Fund.
-
-The purpose of this visit is to investigate the progress of the IMF project and the fourth installment of the $ 2.9 billion extended financial facility.
-
-Accordingly, a meeting between the IMF delegation and the economic committee appointed to the new government's International Monetary Fund was held at the Presidential Office on Wednesday afternoon.
-
-The two sides reviewed the project between the International Monetary Fund and Sri Lanka and commented on its future activities.
-
-...
-
-[Data](articles/42985c4f.json)
-
-[Extended Data](ext_articles/42985c4f.ext.json)
 
 ---

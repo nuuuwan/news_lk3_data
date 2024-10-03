@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 22:12:51**
+As of **2024-10-03 22:24:46**
 
 ## Newspaper Stats
 
-*Scraped **47,645** Articles*
+*Scraped **47,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 2,903
 dailyftlk | 3,209
 adalk | 4,409
 dailymirrorlk | 4,733
-adaderanalk | 5,603
+adaderanalk | 5,604
 tamilmirrorlk | 6,424
 virakesarilk | 7,625
-adaderanasinhalalk | 8,242
+adaderanasinhalalk | 8,243
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,645 (100.0%) of 47,645 articles have been extended.
+47,647 (100.0%) of 47,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### No Sri Lankans seriously affected by situation in Lebanon - MFA
+
+*2024-10-03 22:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102427/no-sri-lankans-seriously-affected-by-situation-in-lebanon-mfa) · `en`
+
+The Ministry of Foreign Affairs says that no Sri Lankans have been seriously affected by the situation so far in Lebanon, which it described as volatile and constantly evolving.
+
+Issuing an announcement on the safety of Sri Lankans in Lebanon on Thursday (3), it said the Sri Lankan Embassy in Beirut is maintaining constant contact with Sri Lankan Associations and individual Sri Lankans registered with the embassy.
+
+Ambassador Kapila Jayaweera and officers of the Sri Lanka Embassy are providing assistance to Sri Lankans as required, it said.
+
+“Apart from a few Sri Lankans who have been stranded and for whom the Embassy has arranged shelter, no Sri Lankans have been seriously affected by the situation so far,” the ministry said.
+
+On September 30, the Ministry of Foreign Affairs issued a travel advisory instructing Sri Lankan nationals not to travel to Lebanon and Syria until further notice due to the current volatile situation in the region.
+
+...
+
+[Data](articles/2e17f8a5.json)
+
+[Extended Data](ext_articles/2e17f8a5.ext.json)
+
+---
+
+### Financial Assistance for Korean Exymon Bank to Sri Lanka
+
+*2024-10-03 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201821) · `si`
+
+Korean Exympara Bank resumes financial aid for Sri Lanka's development projects after suspending it from 2022-2024. Agreement signed between Korea Example and Sri Lanka's government. Economic support emphasized by Korean officials.
+
+🟩
+
+Korea Example has agreed to provide financial support for the development projects of the Government of Sri Lanka.
+
+The agreement was published when the Secretary of Korea Sanath Sanath Sanath Sanath Kanayake met today (03) at the Presidential Secretariat.
+
+Korean Exympara Bank suspended financial assistance to Sri Lanka's development projects in 2022 -2024 years in 2022 -2024 years of relief debts to re-implement relief loans to re-implementation of the development projectsHas been done.
+
+Representatives of Korea Exyllants have also emphasized that the Sri Lankan government economically supports.
+
+Korean Exyllant Bank Director Won-Suk HA, Deputy Director Hanui Han, Project Manager Nalin Jayatunga.
+
+The Additional Secretary of the President Roshan Gamage was also present at the occasion.
+
+◼️
+
+[Data](articles/958195d1.json)
+
+[Extended Data](ext_articles/958195d1.ext.json)
+
+---
 
 ### United Nations leads to meet President
 
@@ -2539,55 +2589,5 @@ The second phase was carried out on September 26, 27 and 28 after the first exca
 [Data](articles/6f77481e.json)
 
 [Extended Data](ext_articles/6f77481e.ext.json)
-
----
-
-### A case against the Keheliya is postponed
-
-*2024-10-03 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201797) · `si`
-
-Colombo High Court postpones Keheliya Rambukwella bribery case to Nov 29. Former minister appears before Judge Sujeewa Nissanka. Case filed by Bribery Commission.
-
-🟩
-
-The Colombo High Court has been summarized to be summoned by the Bribery Commission on the 29th November.
-
-The case was taken up before Colombo High Court Judge Sujeewa Nissanka today (03).
-
-Former Minister of the accused, Keheliya Rambukwella appeared in court.
-
-Accordingly, the High Court judge ordered the hearing on November 29, as the case was previously.
-
-Former Minister Keheliya Rambukkali and the former Minister of State Printing Corporation, the former Minister of State Printing Corporation and the former Minister of State Printing Corporation is bribed against the former Minister of State Printing Corporation.The case has been filed by the Commission.
-
-◼️
-
-[Data](articles/9ba2c051.json)
-
-[Extended Data](ext_articles/9ba2c051.ext.json)
-
----
-
-### “I spoke on the phone with the president"
-
-*2024-10-03 10:47:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-ஜனாதிபதியுடன்-தொலைபேசியில்-பேசினேன்/175-344852) · `ta`
-
-Former MP Ranjan Ramanayake met with the Presidential Secretariat regarding his citizenship status. He claims to have spoken with President Anura Kumara Dissanayake about restoring his rights, including voting eligibility. Ramanayake stated he will refrain from commenting on political parties once his citizenship is reinstated.
-
-🟩
-
-Former parliamentarian Ranjan Ramanayake was summoned by the Presidential Secretariat yesterday with the relevant documents, and his citizenship is expected to be recovered soon.
-
-Commenting on the media after visiting the Presidential Secretariat, Ramanayake said that he was asked to bring some documents yesterday.. "I approached the national people's power leaders. They listened to my request to restore my citizenship. I also spoke to President Anura Kumara Dissanayake on the phone, ”he told the media.
-
-“I was forbidden to contest the election and lost the right to vote. I got a ballot to vote in the presidential election. However, I could not vote because I was abroad, ”he added.
-
-Ramanayake said that when his citizenship is recovered, he will not comment on the NPP in the general election.
-
-◼️
-
-[Data](articles/f03fe007.json)
-
-[Extended Data](ext_articles/f03fe007.ext.json)
 
 ---

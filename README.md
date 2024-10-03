@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 20:22:57**
+As of **2024-10-03 20:38:39**
 
 ## Newspaper Stats
 
-*Scraped **47,633** Articles*
+*Scraped **47,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,408
 dailymirrorlk | 4,733
 adaderanalk | 5,603
 tamilmirrorlk | 6,421
-virakesarilk | 7,619
+virakesarilk | 7,620
 adaderanasinhalalk | 8,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,633 (100.0%) of 47,633 articles have been extended.
+47,634 (100.0%) of 47,634 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -165,6 +165,32 @@ This is the first visit of any foreign minister to Sri Lanka since the new gover
 [Data](articles/bbd8e7e1.json)
 
 [Extended Data](ext_articles/bbd8e7e1.ext.json)
+
+---
+
+### Birth Certificate for Children - Government Information Department
+
+*2024-10-03 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/195425) · `ta`
+
+Government launches program to issue free birth certificates for children without them. Child Rights Promotion Officers will distribute certificates across divisions. Program aims to identify and assist children without birth documents.
+
+🟩
+
+The Government Information Department said that a program for children who do not have a birth certificate nationwide will be implemented.
+
+The purpose of this program is to identify children who do not have birth certificates and provide certificates by the Department of Probation and Child Care Services and the Registrar General Department.
+
+The event will be carried out throughout this month by Child Rights Promotion Officers on duty at the Divisional Secretariat level.
+
+The program has already been implemented as it has already been reported that a significant number of children are facing various difficulties without a birth certificate.
+
+The Government Information Department further stated that the birth certificates issued through this program will not be charged throughout the month of October.
+
+◼️
+
+[Data](articles/23abdb2b.json)
+
+[Extended Data](ext_articles/23abdb2b.ext.json)
 
 ---
 
@@ -2545,31 +2571,5 @@ Meanwhile, Dr. Paryali Jayasekara says that the rise in black split patients in 
 [Data](articles/70ce5d88.json)
 
 [Extended Data](ext_articles/70ce5d88.ext.json)
-
----
-
-### Suspect arrested with over 1.8kg Kush cannabis at BIA
-
-*2024-10-03 09:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102413/suspect-arrested-with-over-18kg-kush-cannabis-at-bia) · `en`
-
-A passenger has been arrested at the Bandaranaike International Airport (BIA) in Katunayake with a stock of Kush cannabis smuggled into the country.
-
-It is reported that the suspect was arrested during a raid conducted by the officers of Police Narcotics Bureau (PNB) at the BIA.
-
-At the time of arrest, the suspect was in possession one kilogram and 883 grams of Kush cannabis.
-
-The arrested suspect is a 56-year- old resident of Kotugoda area.
-
-Meanwhile, a suspect has been arrested in possession of 1 kg and 838 grams of crystal methamphetamine (commonly known as ‘Ice’), in Ibbawala area in Midigama.
-
-The raid was carried out based on a tip-off received by the Midigama Police, and the drugs were discovered during a search of an individual who was traveling on a motorcycle.
-
-The arrested suspect is a 20-year-old resident of Weligama area and three other individuals who were present at the time of the operation have fled.
-
-...
-
-[Data](articles/e1dad1db.json)
-
-[Extended Data](ext_articles/e1dad1db.ext.json)
 
 ---

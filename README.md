@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 10:38:38**
+As of **2024-10-03 10:57:33**
 
 ## Newspaper Stats
 
-*Scraped **47,531** Articles*
+*Scraped **47,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,71 @@ newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 468
 colombotelegraphcom | 473
-islandlk | 2,796
+islandlk | 2,797
 economynextcom | 2,899
 dailyftlk | 3,209
 adalk | 4,394
 dailymirrorlk | 4,733
 adaderanalk | 5,590
 tamilmirrorlk | 6,396
-virakesarilk | 7,595
+virakesarilk | 7,599
 adaderanasinhalalk | 8,221
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,531 (100.0%) of 47,531 articles have been extended.
+47,536 (100.0%) of 47,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### A train collides
+
+*2024-10-03 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195365) · `ta`
+
+Train collision reported near Hettimulla-Aluthgama railway stations. Police investigating incident. Body taken for autopsy at Nagoda Hospital.
+
+🟩
+
+A train collided between Hettimulla and Aluthgama railway stations belonging to the Aluthgama police division on Wednesday night (02), police said.
+
+In addition, the body has been placed in the funeral room of the Nagoda Hospital for autopsy and Aluthgama police are conducting further investigations.
+
+◼️
+
+[Data](articles/cc73b30b.json)
+
+[Extended Data](ext_articles/cc73b30b.ext.json)
+
+---
+
+### Three cases of accidents in different areas
+
+*2024-10-03 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195364) · `ta`
+
+Road accidents claim lives: Motorcycle-bus crash, three-wheeler rock collision, speeding taxi crash.
+
+🟩
+
+Three people have died in road accidents that occurred on Wednesday (02) in different areas, police said.
+
+The accident occurred when a motorcycle traveling from the Suriyawewa area crashed into a bus that was trying to overtake a bus in the same direction when he tried to turn the right side of the road.
+
+A motorcycle driver and a four -year -old girl who was traveling on a motorcycle was injured and admitted to the Sunwewa Hospital and transferred to the Hambantota Resource Hospital for further treatment, police said.
+
+Subsequently, the driver of the tipper vehicle has fled the area and Suriyawewa police are conducting investigations to arrest him.
+
+Meanwhile, a three -wheeler traveling from Kiriveltola to Deniyaya has lost control of the driver and crashed into a rock in the Kirivella junction of the Deniyaya - Kirivella road.
+
+...
+
+[Data](articles/f5cd1b78.json)
+
+[Extended Data](ext_articles/f5cd1b78.ext.json)
+
+---
 
 ### Two others were arrested by High Court Judge
 
@@ -103,6 +149,60 @@ Saying that the State government only writes letters to the central government s
 [Data](articles/d342ac87.json)
 
 [Extended Data](ext_articles/d342ac87.ext.json)
+
+---
+
+### International Alcohol Abolition Day today!
+
+*2024-10-03 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195363) · `ta`
+
+International Alcohol Abolition Day: 30m addicts worldwide, 50 deaths daily in Sri Lanka, 237b rupees annual cost. Government urged to implement reduction programs. Liquor outlets closed nationwide.
+
+🟩
+
+International Alcohol Abolition Day is celebrated on Thursday (03) globally.
+
+It is reported that about 30 million people are addicted to alcohol every year.
+
+It is reported that nearly 50 people die of alcohol in Sri Lanka due to alcohol use and the government spends 237 billion rupees annually.
+
+The Executive Director of the Liquor and Drug Information Center, Sampath de Seram, said that the government has been asked to implement a systematic program to reduce alcohol use in Sri Lanka.
+
+The Liquor Department said that it has been instructed to close liquor outlets across the country today (03) on the eve of International Alcohol Abolition Day.
+
+◼️
+
+[Data](articles/aa161433.json)
+
+[Extended Data](ext_articles/aa161433.ext.json)
+
+---
+
+### Bomb bomb exploded at Japan airport
+
+*2024-10-03 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/195362) · `ta`
+
+Japan airport bomb explodes, creates 23-foot crater. US WWII-era bomb suspected. No casualties. Police investigate. Airport aims to reopen Thursday. Miyazaki Airport, once naval base, still contains unexploded ordnance from war.
+
+🟩
+
+The blast caused a ditch on a 23 -foot -deep crater on the airway. No casualties featured.
+
+The Japanese Defense Corps has confirmed that the US bomb weighing £ 500 is responsible for the bombing.
+
+The bomb is thought to have been thrown to prevent "comicase" aircraft during World War II.
+
+There is no chance of an explosion in the area. Police and firefighters are currently investigating the scene. Chief Cabinet Secretary Yoshimasa Hayashi said that the airport is looking forward to reopening on Thursday.
+
+Miyazaki Airport is located in the south -west of East Asian country of Japan. In 1943, during World War II, the airport was opened as the Japanese Naval Base. Hundreds of tons of bombs that were thrown during World War II are buried around Japan. Sometimes, bombs are found during construction.
+
+A total of 2,348 bombs weighing a total of 41 tonnes were removed in 2023, according to the Reuters news agency.
+
+◼️
+
+[Data](articles/6c37fae1.json)
+
+[Extended Data](ext_articles/6c37fae1.ext.json)
 
 ---
 
@@ -1268,6 +1368,22 @@ Interviews from the suspect is a leading drug dealer who is hiding in a foreign 
 
 ---
 
+### Employers’ Federation of Ceylon congratulates President AKD
+
+*2024-10-02 22:36:00* · [`islandlk`](http://island.lk/employers-federation-of-ceylon-congratulates-president-akd/) · `en`
+
+The Employers’ Federation of Ceylon (EFC), congratulates and extends its best wishes to Anura Kumara Dissanayaka on his election as the 9th executive President of Sri Lanka.
+
+The EFC, established in 1929, is an organization of employers dealing with Labour, Employment and Social policy in Sri Lanka. Today, it is the principal organization of employers promoting employer interests at national level.
+
+...
+
+[Data](articles/fd3163e4.json)
+
+[Extended Data](ext_articles/fd3163e4.ext.json)
+
+---
+
 ### West Asian tensions trigger share market volatility; indices down
 
 *2024-10-02 22:34:00* · [`islandlk`](http://island.lk/west-asian-tensions-trigger-share-market-volatility-indices-down/) · `en`
@@ -2175,135 +2291,5 @@ He added that passengers who wish to come to Sri Lanka from Sri Lanka and passen
 [Data](articles/a7890933.json)
 
 [Extended Data](ext_articles/a7890933.ext.json)
-
----
-
-### Sri Lanka treasury bill yields plunge
-
-*2024-10-02 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-plunge-182006/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields fell across maturities at Wednesday’s auction, a week after the presidential election, with all 142.5 billion of offered bills sold, data from the debt office showed.
-
-The 3-month yield was down 43 basis points to 10.06 percent, with 65 billion rupees of bills offered and 72 billion rupees of bills sold.
-
-The 6-month yield was down 35 basis points to 10.37 percent, with all 67.5 billion rupees of bills offered sold.
-
-The 12-month bill was down 1 basis point at 10.04 percent, with only 2.9 million sold of an offered 10 billion rupees. (Colombo/Oct2/2024)
-
-◼️
-
-[Data](articles/30595820.json)
-
-[Extended Data](ext_articles/30595820.ext.json)
-
----
-
-### Here is the leader who resigned after the defeat found in Sri Lanka
-
-*2024-10-02 17:20:32* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකාව-හමුවේ-ලද-පරාජයෙන්-පසු-ඉල්ලා-අස්වූ-නායකයා-මෙන්න/9-412276) · `si`
-
-New Zealand cricket team leader resigns after losing series to Sri Lanka. Tim Southee steps down, Tom Latham takes over as captain for upcoming India tour.
-
-🟩
-
-Tim Sauhei has decided to quit the New Zealand Test leadership due to the defeat of the two Test cricket matches with Sri Lanka.
-
-Accordingly, during the upcoming Indian visit, Tom Leute has been given to Tom Leute.
-
-◼️
-
-[Data](articles/7654a28d.json)
-
-[Extended Data](ext_articles/7654a28d.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 296.40/80 to US dollar, bond yields down
-
-*2024-10-02 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-296-40-80-to-us-dollar-bond-yields-down-182008/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee depreciated to close at 296.40/80 to the US dollar Wednesday, from 294.75/295.00 a day earlier, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.35/55 percent, down from 10.70/85 percent.
-
-A bond maturing on 15.12.2027 closed at 11.15/30 percent, down from 11.45/60 percent.
-
-A bond maturing on 15.02.2028 closed at 11.35/45 percent, down from 11.75/85 percent.
-
-A bond maturing on 15.09.2029 closed at 11.70/85 percent, down from 11.90/12.00 percent.
-
-A bond maturing on 15.10.2030 closed at 11.95/12.10 percent, down from 12.10/30 percent.
-
-A bond maturing on 01.10.2032 closed at 12.10/40 percent, down from 12.20/45 percent. (Colombo/Oct1/2024)
-
-◼️
-
-[Data](articles/04eb7ca0.json)
-
-[Extended Data](ext_articles/04eb7ca0.ext.json)
-
----
-
-### Explosion of the Middle East
-
-*2024-10-02 17:18:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மத்திய-கிழக்கு-வெடிக்கிறது/50-344821) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Iran launches missile attack on Israel, causing international tensions. Israel claims hundreds of missiles targeted major cities. US assists Israel in intercepting missiles. Iran confirms attack, threatening future strikes. India warns citizens traveling to Iran. Tensions raise questions about regional stability and oil markets.
-
-🟩
-
-Iran is the missile attack on Israel. Tuesday (01) started at midnight. This has caused a tense situation in the international community, including the Middle East.
-
-International media reports that the attacks have been carried out in retaliation for events including Palestine's Gaza, Lebanon and the assassination of Hizbullah leaders.
-
-The Israeli military said Iran had launched hundreds of missiles towards major cities, including Israel's Tel Aviv.. The government has stepped up the task of taking the public immediately by signaling and taking them to safe places
-
-Iran's attacks on Israel, which are expected to occur in the Middle East at any time, have been realized by Iran's missile attacks.
-
-The US has said that Iran has launched an attack on Israel with about 200 Balistic missiles.
-
-The United States, which had warned Israel before, said it had helped Israel to interrupt Iran's missiles along the way.
-
-...
-
-[Data](articles/00b353ce.json)
-
-[Extended Data](ext_articles/00b353ce.ext.json)
-
----
-
-### Explosive Middle East
-
-*2024-10-02 17:18:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெடிக்கிறது-மத்திய-கிழக்கு/50-344821) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Iran launches missile attack on Israel, causing international tensions. Israel claims hundreds of missiles targeted major cities. US helps intercept missiles. Iran threatens future attacks if Israel retaliates. Impact on crude oil trade and regional stability questioned.
-
-🟩
-
-Iran is the missile attack on Israel. Tuesday (01) started at midnight. This has caused a tense situation in the international community, including the Middle East.
-
-International media reports that the attacks have been carried out in retaliation for events including Palestine's Gaza, Lebanon and the assassination of Hizbullah leaders.
-
-The Israeli military said Iran had launched hundreds of missiles towards major cities, including Israel's Tel Aviv.. The government has stepped up the task of taking the public immediately by signaling and taking them to safe places
-
-Iran's attacks on Israel, which are expected to occur in the Middle East at any time, have been realized by Iran's missile attacks.
-
-The US has said that Iran has launched an attack on Israel with about 200 Balistic missiles.
-
-The United States, which had warned Israel before, said it had helped Israel to interrupt Iran's missiles along the way.
-
-...
-
-[Data](articles/131b3597.json)
-
-[Extended Data](ext_articles/131b3597.ext.json)
 
 ---

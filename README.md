@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 15:38:46**
+As of **2024-10-03 15:57:38**
 
 ## Newspaper Stats
 
-*Scraped **47,591** Articles*
+*Scraped **47,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,188 @@ adalk | 4,400
 dailymirrorlk | 4,733
 adaderanalk | 5,598
 tamilmirrorlk | 6,412
-virakesarilk | 7,608
+virakesarilk | 7,612
 adaderanasinhalalk | 8,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,589 (100.0%) of 47,591 articles have been extended.
+47,595 (100.0%) of 47,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
 
-### රාජ්‍ය පරිපාලන අමාත්‍යාංශයට නව ලේකම්වරයෙක්
+### At the hospital 15 female workers targeted for the wasp
+
+*2024-10-03 15:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195404) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+15 female workers stung by wasps while picking tea leaves in Thalawakelle. 11 hospitalized at Mandarasi Divisional Hospital. Incident occurred on Thursday morning.
+
+🟩
+
+15 people have been admitted to the hospital in the Newfresston section of the Akkarapatana Elpian Estate, Thalawakelle.
+
+The female estate workers were struck by tea on Thursday morning (03).
+
+A spokesman for the hospital said that 11 people were admitted to the Mandarasi Divisional Hospital after being treated at the Mandarasi Divisional Hospital.
+
+◼️
+
+[Data](articles/d40b3dcc.json)
+
+[Extended Data](ext_articles/d40b3dcc.ext.json)
+
+---
+
+### New Secretary to the Ministry of Public Administration
 
 *2024-10-03 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201810) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් රාජ්‍ය පරිපාලන,  ස්වදේශ කටයුතු පළාත් සභා පළාත් පාලන සහ කම්කරු අමාත්‍යාංශයේ නව ලේකම්වරයා ලෙස එස්. ආලෝක බණ්ඩාර මහතා පත්කර ඇත.
+Here's a summary of the text in approximately 200 characters:
 
-අදාළ පත්වීම් ලිපිය ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් අද (03) ජනාධිපති ලේකම් කාර්යාලයේදී ඒ මහතා වෙත භාර දුන්නේය.
+
+
+"President Anura Kumara Dissanayake appoints Larke Bandara as new Secretary to Ministry of Public Administration and Provincial Councils. Appointment letter handed over at Presidential Secretariat on March 3rd."
+
+🟩
+
+President Anura Kumara Dissanayake as the new Secretary of the Provincial Council of Provincial Councils and the Ministry of Labor. Mr. Larke Bandara has been appointed.
+
+The relevant appointment letter was handed over to him at the Presidential Secretariat today (03) at the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/8ac95e5c.json)
 
+[Extended Data](ext_articles/8ac95e5c.ext.json)
+
 ---
 
-### උප්පැන්න සහතික නොමැති ළමුන් වෙනුවෙන් වැඩසටහනක්
+### A program for children who do not have the birth certificate
 
 *2024-10-03 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201809) · `si`
 
-උප්පැන්න සහතික නොමැති ළමුන් සඳහා උප්පැන්න සහතික ලබාදීමේ වැඩසටහනක් දිවයින පුරා ක්‍රියාත්මක කරන බව රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව පවසයි.
+Program for children without birth certificates: Island-wide initiative to issue ID certificates. Implemented by Probation and Child Care Services and Registrar General. No charges for certificates in October. Processed by child rights promotion officers at Divisional Secretariat level.
 
-පරිවාස හා ළමාරක්ෂක සේවා දෙපාර්තමේන්තුව සහ රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව එක්ව දිවයින පුරා උප්පැන්න සහතික නොමැති දරුවන් හඳුනාගනිමින් ඔවුනට එම සහතික ලබාදීම මෙම වැඩසටහනේ අරමුණ වේ.
+🟩
 
-මේ වන විටත් සැලකිය යුතු ළමුන් පිරිසක් උප්පැන්න සහතික නොමැතිව විවිධ දුෂ්කරතාවලට මුහුණ දෙන බවට වාර්තා වී ඇති බැවින් මෙම වැඩසටහන ක්‍රියාත්මක කර ඇත.
+A certificate certificate will be implemented island wide for children who do not have birth certificates.
 
-ප්‍රාදේශීය ලේකම් කාර්යාල මට්ටමින් සේවය කරනු ලබන ළමා හිමිකම් ප්‍රවර්ධන නිලධාරීන් මගින් මෙම ක්‍රියාවලිය මෙම මාසය පුරා සිදු කෙරේ.
+The program aims to identify the certificates of identification of children without birth certificates and the Department of Probation and Child Care Services and Registrar General.
 
-මෙම වැඩසටහන ඔස්සේ ඔක්තෝබර් මාසය පුරා ලබා දෙන උප්පැන්න සහතික සඳහා කිසිදු අයකිරීමක් සිදු නොකරන බව ද රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+The program has already been implemented, as a significant number of children is reported to face various difficulties without birth certificates.
+
+The process will be carried out throughout the month by child rights promotion officers serving at Divisional Secretariat level.
+
+According to the Government Information Department, the Government Information Department further stated that no charge will be charged for birth certificates throughout October.
 
 ◼️
 
 [Data](articles/39695d78.json)
+
+[Extended Data](ext_articles/39695d78.ext.json)
+
+---
+
+### International Virtue Day
+
+*2024-10-03 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195399) · `ta`
+
+Protest against alcohol sales near schools and religious sites. Participants demand no liquor stores in the area. Chant slogans promoting sobriety and healthy society. Event organized by local organizations and attended by community members.
+
+🟩
+
+A protest against drugs was held in front of the Sanganai bus stand in front of the North Pradeshiya Virtue Federation on Thursday (03) in honor of the International Virtue Day.
+
+Schools, educational institutions, religious places and citizens are located near the site of the liquor station.
+
+The struggle was therefore urged not to grant permission to the liquor store in the area.
+
+The protesters chanted, "Do not reduce the prices of alcoholic prices, the way for the health of our society is the way for the health of the life, the wine that destroys our society, do not take the wine in your hands, the younger community does not take wine in your hands..
+
+At the end of the struggle, the President was handed over to the President through Kavitha Udayakumar, the Divisional Secretary of Sangan.
+
+...
+
+[Data](articles/38a72ecd.json)
+
+[Extended Data](ext_articles/38a72ecd.ext.json)
+
+---
+
+### The blow to the allowances of former presidents….!
+
+*2024-10-03 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195087) · `ta`
+
+Former presidents' allowances reduced. Gifts for ex-presidents Mahinda, Maithri, and Gotabhaya to be canceled. Cabinet discussion pending. Civil organizations oppose perks for convicted leaders.
+
+🟩
+
+Former presidents are receiving all the gifts received by a cabinet minister. President Anura Kumara has taken steps to reduce reforms and reduce the allowances.To be discussed in the Cabinet. Also, all the gifts for the former presidents of Mahinda, Mahinda, Maithri and Gotabhaya have to be canceled.. Civil organizations have also noted that they have no right to enjoy the government's privileges as the three have been declared criminals by the High Court.
+
+◼️
+
+[Data](articles/1d1c21f7.json)
+
+[Extended Data](ext_articles/1d1c21f7.ext.json)
+
+---
+
+### Daham Sirisena and Rajika Wickremasinghe joined the Mawpima Janata Party
+
+*2024-10-03 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195398) · `ta`
+
+Daham Sirisena and Rajika Wickremasinghe join Mawpima Janata Party. Daham becomes Polonnaruwa district organizer. Rajika appointed district and Tikka ma organizer. Other appointments: Samindu Kumarasinghe coordinator, Taksila Premasiri Kandy-Udunuwara coordinator, Sanjeeva Suraweera Kandy Hewaheta organizer, Taksila Seneviratne Kandy Yatinuwara organizer, Ratgama organizer Tusitha Thilanga Jayasinghe.
+
+🟩
+
+Taham Sirisena, son of former President Maithripala Sirisena and former PA's former parliamentarian Rajika Wickremesinghe have joined the Mawpima Janata Party today (03).
+
+They have joined the Mawpima Janata Party at the party headquarters in Colombo.
+
+Former Parliamentarian Rajika Wickremesinghe, who has entered the Parliament through the National List of the Sri Lanka PA, has been appointed as the District and Tikkama organizer of the Homeland People's Party.
+
+At the same time, Taham Sirisena, son of former President Maithripala Sirisena, has been appointed as the organizer of the Polonnaruwa District Home People's Party.
+
+Meanwhile, Samindu Kumarasinghe has been appointed as the Coordinator of the Polonnaruwa District and Taksila Premasiri as the Kandy and Udunuwara District Coordinator.
+
+Sanjeeva Suraweera as the Kandy Hewaheta organizer, Taksila Seneviratne as Kandy Yatinuwara organizer and Ratgama organizer Tusitha Thilanga Jayasinghe.
+
+◼️
+
+[Data](articles/e57d554b.json)
+
+[Extended Data](ext_articles/e57d554b.ext.json)
+
+---
+
+### One arrested with illegal liquor in Negombo
+
+*2024-10-03 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195393) · `ta`
+
+Negombo police arrest 38-year-old man with 67.5 liters of illegal liquor during raid.
+
+🟩
+
+A suspect has been arrested by the police on Wednesday (02) with illegal liquor in the Wellaweeda area of ​​the Negombo Police Division.
+
+The suspect has been arrested during a raid carried out on confidential information received by the Negombo police.
+
+The arrested suspect is 38 years old from Wellaweeda.
+
+67.5 liters of illegal liquor (90 bottles) has been seized from the arrested suspect.
+
+◼️
+
+[Data](articles/9617db25.json)
+
+[Extended Data](ext_articles/9617db25.ext.json)
 
 ---
 
@@ -2327,97 +2465,5 @@ The meeting also discussed a variety of issues including the release of politica
 [Data](articles/78ba7652.json)
 
 [Extended Data](ext_articles/78ba7652.ext.json)
-
----
-
-### IMF delegation meets Sri Lanka new government economic team
-
-*2024-10-03 02:28:00* · [`economynextcom`](https://economynext.com/imf-delegation-meets-sri-lanka-new-government-economic-team-182034/) · `en`
-
-ECONOMYNEXT – The economic team of Sri Lanka’s newly elected President Anura Dissanayake has met International Monetary Fund official for the first time.
-
-“The meeting, held at the Presidential Secretariat, featured cordial discussions between the IMF delegation and the economic team of the new government,” a government statement said.
-
-“Both parties reviewed the IMF programme thus far and outlined the way forward for future collaboration.
-
-“The IMF delegation expressed appreciation for the significant changes taking place in Sri Lanka, boosting the positive outlook on Sri Lanka under the present government.”
-
-The IMF team included Peter Breuer, Senior Mission Chief; Sarwat Jahan, Resident Representative and Manavee Abeyawickrama, Economist.
-
-...
-
-[Data](articles/cee54dec.json)
-
-[Extended Data](ext_articles/cee54dec.ext.json)
-
----
-
-### Ambassador to Sri Lanka speaks on Japan’s economic transformation: full text
-
-*2024-10-03 01:11:00* · [`economynextcom`](https://economynext.com/ambassador-to-sri-lanka-speaks-on-japans-economic-transformation-full-text-182040/) · `en`
-
-ECONOMYNEXT  – Japan’s ambassador to Sri Lanka Mizukoshi Hideaki, delivered a speech on the his country’s economic transformation, at of JICA-chair special program. The full text of the speech is reproduced below.
-
-Today I am very happy and honorable to address to the students of JICA-chair program of Colombo University and Peradeniya University as well as the members of JDS Alumni Association at a very crucial juncture in the history of Sri Lanka. Only ten (10) days earlier, Sri Lankan people made a historic choice of departing from the traditional party politics and supporting a new leader with the determination to make a complete system change of the politics and society.
-
-Immediately after the election of new leader, I have expressed my commitment to support the new government  which  represented  people’s  desire  for change.
-
-...
-
-[Data](articles/7edda24b.json)
-
-[Extended Data](ext_articles/7edda24b.ext.json)
-
----
-
-### Sri Lankan trade delegation forges strong business links with Australia
-
-*2024-10-03 01:06:51* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-trade-delegation-forges-strong-business-links-with-Australia/34-767475) · `en`
-
-The Sri Lanka Export Development Board (EDB), in collaboration with the Sri Lanka Consulate General in Melbourne (SLCG) and the Sri Lanka-Australia Chamber of Commerce (SLACC), successfully organised a trade delegation to Melbourne, Australia, from 2 to 6 September.
-
-...
-
-[Data](articles/ac0fcf53.json)
-
-[Extended Data](ext_articles/ac0fcf53.ext.json)
-
----
-
-### Employers’ Federation of Ceylon congratulates President AKD
-
-*2024-10-03 01:05:00* · [`dailyftlk`](https://www.ft.lk/business/Employers-Federation-of-Ceylon-congratulates-President-AKD/34-767474) · `en`
-
-The Employers’ Federation of Ceylon (EFC), has extended its best wishes to President Anura Kumara Dissanayaka on his election as the 9th executive President of Sri Lanka.
-
-“The EFC extends its best wishes to President Anura Kumara Dissanayaka and assures its commitment in promoting initiatives and policies to achieve social harmony through productive employment,” a statement from the private sector body said.
-
-EFC said considering the highly competitive environment businesses are required to operate in at present, it calls on the President to initiate labour law reforms which will result in the promotion of investment, creation of new and better job opportunities, strengthen social security and create an enabling environment for employees and employers to realise the full potential of the modern world of work.
-
-...
-
-[Data](articles/a73c5c54.json)
-
-[Extended Data](ext_articles/a73c5c54.ext.json)
-
----
-
-### Exporters Association congratulates new President
-
-*2024-10-03 01:04:33* · [`dailyftlk`](https://www.ft.lk/business/Exporters-Association-congratulates-new-President/34-767473) · `en`
-
-The Exporters Association of Sri Lanka (EASL) yesterday extended its heartfelt congratulations to President Anura Kumara Dissanayake on his election as the ninth President of Sri Lanka.
-
-“This remarkable achievement is a testament to his dedication and leadership,” the EASL noted via a statement.
-
-As a vital part of the nation’s economic framework, the export sector stands ready to support and collaborate with the administration in promoting sustainable growth, enhancing international trade relations, and expanding opportunities for businesses of all sizes.
-
-“We are eager to work with his Government to overcome challenges and unlock the vast potential within Sri Lanka’s export industries,” the EASL stated.
-
-◼️
-
-[Data](articles/46fe80ca.json)
-
-[Extended Data](ext_articles/46fe80ca.ext.json)
 
 ---

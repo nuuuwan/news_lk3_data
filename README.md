@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 19:11:24**
+As of **2024-10-03 19:22:51**
 
 ## Newspaper Stats
 
-*Scraped **47,620** Articles*
+*Scraped **47,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,191 @@ dailyftlk | 3,209
 adalk | 4,407
 dailymirrorlk | 4,733
 adaderanalk | 5,601
-tamilmirrorlk | 6,419
-virakesarilk | 7,616
-adaderanasinhalalk | 8,236
+tamilmirrorlk | 6,420
+virakesarilk | 7,619
+adaderanasinhalalk | 8,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,617 (100.0%) of 47,620 articles have been extended.
+47,625 (100.0%) of 47,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
 
-### “சங்கு எங்கள் சின்னம்: கொழும்பிலும் குதிப்போம்”
+### A vehicle technology learning student is crushed by bus
+
+*2024-10-03 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195424) · `ta`
+
+Vehicle tech student killed by bus during training in Sri Lanka. 17-year-old Samika Prabhat Fernando died after slipping under a bus at Anamaduwa Technology College. Driver arrested.
+
+🟩
+
+Anamaduwa police said that a student of vehicle technology learning in Anamaduwa was crushed by a training bus.
+
+Anamaduwa police said that a student who was studying in a training course at the Anamaduwa Technology College was admitted to the Anamaduwa Hospital on Thursday (03).
+
+A 17 -year -old Samika Prabhat Fernando, a student from Maha Usweva, Anamaduwa, has died.
+
+The bus was taken to another place for repair (wiring) at the Technology College grounds, and the student suddenly slipped into it and fell under the same bus.
+
+On various occasions, the same bus, which had been repaired with her hands, had to say goodbye.
+
+The driver of the bus has been arrested in connection with the accident and the bus has been taken over by the Anamaduwa police.
+
+◼️
+
+[Data](articles/5dfe28ce.json)
+
+[Extended Data](ext_articles/5dfe28ce.ext.json)
+
+---
+
+### “The conch is our symbol: Jump in Colombo”
 
 *2024-10-03 18:50:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சங்கு-எங்கள்-சின்னம்-கொழும்பிலும்-குதிப்போம்/175-344879) · `ta`
 
-ஐனநாயக தமிழ்த் தேசியக் கூட்டணிக்கு தேர்தல் திணைக்களத்தால் தற்போது சங்குச் சின்னம் ஒதுக்கப்பட்டுள்ளது. இதற்கமைய வடக்கு கிழக்கு முழுவதும் கூட்டணியாக சங்குச் சின்னத்தில் போட்டியிட உள்ளோம். அதேநேரத்தில் கொழும்பிலும் இம்முறை போட்டியிடுவது தொடர்பிலும் ஆராயந்து வருகிறோம் என ஈபிஆர்எல்எப் அமைப்பின் தலைவரும் ஜனநாயக தமிழ்த் தேசியக் கூட்டணியின் ஊடகப் பேச்சாளரும் முன்னாள் பாராளுமன்ற உறுப்பினருமான சுரேஸ் பிரேமச்சந்திரன் தெரிவித்தார்.
+Here's a 200-character summary:
 
-யாழ் கட்டப்பிராயில் உள்ள அவரது இல்லத்தில், வியாழக்கிழமை (03)  நடாத்திய ஊடக சந்திப்பின் போதே அவர் மேற்கண்டவாறு தெரிவித்தார். மேலும் தெரிவிக்கையில்..
 
-ஐனநாயக தமிழ்த் தேசிய கூட்டணியானது பதிவு செய்யப்பட்ட ஒரு கட்சியாக இருக்கிறது. இந்த கூட்டசியில் நாங்கள் உட்பட ஜந்து கட்சிகள் அங்கம் வகிக்கின்றன.
 
-கடந்த உள்ளூராட்சி சபை தேர்தல் அறிவிக்கப்பட்ட போதும் நாம் அதில் போட்டியிடுவதற்கு வேட்புமனுவையும் தாக்கல் செய்திருந்தோம். இக் கூட்டணியின் சின்னமாக குத்துவிக்கு இருந்த்து.
+Tamil National Alliance contests parliamentary election under "conch" symbol. Focuses on North and East, investigates Colombo constituency. Party spokesperson Suresh Premachandran announces strategy during Jaffna media briefing.
+
+🟩
+
+The Elections Department has now been assigned the symbol of the Tamil National Alliance. We are contesting the coalition across the North and East. At the same time, we are also investigating the contest of Colombo this year, said Suresh Premachandran, a media spokesman for the EPRLF and the media spokesman of the Democratic Tamil National Alliance (TNA).
+
+He made this statement during a media briefing held at his residence in Jaffna on Thursday (03).. In addition ..
+
+The National Tamil National Alliance is a registered party. The Janta parties, including us, are part of this alliance.
+
+Even though the last local government election was announced, we had filed nominations for contesting it. Kutti was the symbol of this alliance.
+
+But in the upcoming presidential election, the Tamil National Party and the Tamil People's General Assembly, which focuses on the North and East, have co -stated a common candidate.
 
 ...
 
 [Data](articles/dfadbaed.json)
+
+[Extended Data](ext_articles/dfadbaed.ext.json)
+
+---
+
+### "The conch is our symbol: let's jump anywhere"
+
+*2024-10-03 18:50:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சங்கு-எங்கள்-சின்னம்-எங்கும்-குதிப்போம்/175-344879) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Tamil National Alliance gets conch symbol for parliamentary election. Contesting in North, East, and exploring Colombo. Symbol change from Kutti to conch represents unity of Tamil people.
+
+🟩
+
+The Elections Department has now been assigned the symbol of the Tamil National Alliance. We are contesting the coalition across the North and East. At the same time, we are also investigating the contest of Colombo this year, said Suresh Premachandran, a media spokesman for the EPRLF and the media spokesman of the Democratic Tamil National Alliance (TNA).
+
+He made this statement during a media briefing held at his residence in Jaffna on Thursday (03).. In addition ..
+
+The National Tamil National Alliance is a registered party. The Janta parties, including us, are part of this alliance.
+
+Even though the last local government election was announced, we had filed nominations for contesting it. Kutti was the symbol of this alliance.
+
+But in the upcoming presidential election, the Tamil National Party and the Tamil People's General Assembly, which focuses on the North and East, have co -stated a common candidate.
+
+...
+
+[Data](articles/ffbe698c.json)
+
+[Extended Data](ext_articles/ffbe698c.ext.json)
+
+---
+
+### Bangladesh begins to win the Women's World Cup
+
+*2024-10-03 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201815) · `si`
+
+Bangladesh women's cricket team wins Women's Twenty20 World Cup. They scored 119 runs in 20 overs, with Sobhaya Mosteric scoring highest at 36 runs. Scotland scored 103 runs chasing 120 target. Bangladesh won by 16 runs.
+
+🟩
+
+The Bangladesh team won the Women's Twenty20 World Cup from 16 runs today (3).
+
+Bangladesh women scored 119 runs for the loss of 07 wickets in their 20 overs.
+
+She scored the highest score of the Sobhaya Mosteric innings, and she scored 36 runs. Mosteri's innings included two fours.
+
+In addition, the opening Busani Rani scored 29 runs. She suffered 3 fours in 32 balls.
+
+Sizkia Hourley took 3 wickets for Scotland. She paid only 13 overs for 2 overs.
+
+Chasing a target of 120, however, only 103 runs for scotland scored 103 runs in the 20 overs.
+
+Opening Breakin Sarakin, Saratney Bryce Bryce, launched 49 runs at the time of Scottish innings.
+
+However, no other batsman could be played for any other batsman.
+
+Fonseka took 2 wickets for Bangladesh. She was given only 15 points.
+
+◼️
+
+[Data](articles/72f5b358.json)
+
+[Extended Data](ext_articles/72f5b358.ext.json)
+
+---
+
+### Eastern Tamil Union
+
+*2024-10-03 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195423) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Eastern Tamil Union calls for unity among Tamil parties to protect representation. Secretary urges national parties not to manipulate voters. Gunalan emphasizes importance of choosing Tamil representatives.
+
+🟩
+
+Other parties that are in the elections are the only parties that will be released for the national list, and the people of the Eastern Tamil Union, the Secretary of the Eastern Tamil Union and the retired Deputy Director of Education, Gunalan said.
+
+The Secretary of the Eastern Tamil Union said that he would like to post this answer, considering the troubles of the people who continue to suffer various troubles.
+
+In the last election, Tamil representation was lost and a representative was appointed through the national list. But in the past, it was the history of everyone that everyone united and selected a representative. But now the various groups and parties are trying to get votes targeting the Ampara district.
+
+Deciding this, there are many contradictions among the national parties today. This has made our people a hateful position. First a Tamil -speaking person should be selected in the territory. Therefore, it is our demand that all Tamil parties should union in this election.
+
+...
+
+[Data](articles/691c5b3f.json)
+
+[Extended Data](ext_articles/691c5b3f.ext.json)
+
+---
+
+### The 49th commemoration of the great leader Kamarajar
+
+*2024-10-03 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195422) · `ta`
+
+Here's a 200-character summary of the event:
+
+
+
+49th Kamarajar commemoration in Colombo. Global Memorial Forum at Methodist Tamil Vidyalaya. Chairman Amirtham Jayakumar led event. Teachers, students participated.
+
+🟩
+
+The Global Kamarajar Memorial Forum on behalf of Sri Lanka was held at the 13th Methodist Tamil Vidyalaya, Colombo on behalf of Sri Lanka.
+
+Forum Chairman Amirtham Jayakumar and Mrs.. Teachers and students participated in the event.
+
+◼️
+
+[Data](articles/c3d21da1.json)
+
+[Extended Data](ext_articles/c3d21da1.ext.json)
 
 ---
 
@@ -176,37 +332,49 @@ The teachers of the Technical College say that the charmic car technique is a st
 
 ---
 
-### රජයේ ඩිජිටල්කරණ ව්‍යාපෘතියට සහාය ලබාදීමට ගේට්ස් පදනම සහතික වෙයි
+### Gates Foundation guarantees to support government digitalization project
 
 *2024-10-03 17:30:51* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ඩිජිටල්කරණ-ව්‍යාපෘතියට-සහාය-ලබාදීමට-ගේට්ස්-පදනම-සහතික-වෙයි/11-412295) · `si`
 
-ගේට්ස් පදනමේ ස්වාධීන උපදේශක චන්දිත සමරනායක මහතා අද (03) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා හමු වී සාකච්ඡාවක නිරත විය.
+Bill Gates Foundation supports govt digitalization project. Focuses on child nutrition, education, healthcare, and anti-corruption efforts. Offers financial, technical, and consulting aid for digital initiatives.
 
-ගේට්ස් පදනම මඟින් ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක කෘෂිකාර්මාන්තය නගා සිටුවීම, පාසල් දිවා ආහාරය ලබා දීම ඇතුළු මෙරට ළමුන්ගේ පෝෂණය වැඩිදියුණු කිරීම, රාජ්‍ය හා පෞද්ගලික අංශයේ මානව සම්පත් සංවර්ධනය, පශු සම්පත්, දේශගුණික විපර්යාස ආදි ක්ෂේත්‍රයන්ට අදාළ  ව්‍යාපෘති පිළිබඳව මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+🟩
 
-නව රජයේ දූෂණ විරෝධී ප්‍රතිපත්තිය ක්‍රියාත්මක කිරීම සඳහා ඩිජිටල්කරණයේ වැදගත්කම පෙන්වා දුන් චන්දිත සමරනායක මහතා රජය ක්‍රියාත්මක කරනු ලබන ඩිජිටල්කරණ ව්‍යාපෘති වෙනුවෙන් මූල්‍යමය, තාක්ෂණික සහ උපදේශන සහාය ලබාදීමට ගේට්ස් පදනම සූදානම් බව ද පැවසීය.
+The Independent Advisor Chanditha Samaranayake held at the Presidential Secretariat this morning (03).
 
-ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් රෝෂන් ගමගේ මහතා ද මෙම අවස්ථාවට  එක්විය.
+The Guts Foundation discussed the nutrition of the children of the country, including providing school lunch, public and private sector human resource development, livestock, climate change, and sectors.
+
+Chanditha Samaranayake, pointed out the importance of digital policy to implement the anti-government corruption policy, said that Gates base is ready to provide financial, technical and consulting support for the digitalization projects implemented by the government.
+
+Mr. Joshhan Gamage was also present at the occasion.
 
 ◼️
 
 [Data](articles/a0c842ab.json)
 
+[Extended Data](ext_articles/a0c842ab.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා වරාය අධිකාරියට නව සභාපතිවරයෙක්
+### New Chairman of Sri Lanka
 
 *2024-10-03 17:26:31* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-වරාය-අධිකාරියට-නව-සභාපතිවරයෙක්/11-412294) · `si`
 
-ශ්‍රී ලංකා වරාය අධිකාරියේ නව සභාපති ලෙසින් හිටපු නාවික හමුදාපති අද්මිරාල් සිරිමෙවන් සරත්චන්ද්‍ර රණසිංහ මහතා අද දින (.03) වැඩ භාර ගැනීම සිදුවිය. 1982 වර්ෂයේ කැඩෙට් නිලධාරියෙකු ලෙසින් ශ්‍රී ලංකා නාවික හමුදාවට එක් වූ සිරිමෙවන් සරත්චන්ද්‍ර රණසිංහ මහතා 2015 වර්ෂයේ දී නාවික හමුදා කාර්ය මණ්ඩල ප්‍රධානි ධූරයට පත් විය.
+Admiral Sirim Sarathchandra Ranasinghe appointed Chairman of Sri Lanka Ports Authority. Former Navy Commander educated at Pakistani National Defense University. Awarded several medals including Great Services Medal.
 
-අනුරාධපුර ශාන්ත ජෝශෆ් විද්‍යාලය හා අනුරාධපුර මධ්‍යමහා විද්‍යාලයෙන් මූලික හා ද්විතියික අධ්‍යාපනය ලැබූ සිරිමෙවන් මහතා පකිස්ථාන ජාතික ආරක්ෂක විශ්ව විද්‍යාලයෙන් යුද අධ්‍යාපනය හා ආරක්ෂක කළමණාකරණය පිළිබඳ ඵීක්‍ උපාධිය ද, මධුරාසි විශ්ව විද්‍යාලයෙන් ආරක්ෂක හා උපාය මාර්ගික අධ්‍යාපනය පිළිබඳ දර්ශනශූරි උපාධිය ද හිමිකර ගෙන තිබේ.
+🟩
 
-සිරිමෙවන් සරත්චන්ද්‍ර රණසිංහ මහතා වීරවික්‍රම විභූෂණ, රණවික්‍රම පදක්කම, විශිෂ්ඨ සේවා විභූෂණ සහ උත්තමසේවා පදක්කම් ලාභියෙකු ද වේ.
+Former Navy Commander of the Sri Lanka Ports Authority Admiral Sirim, Sarathchandra Ranasinghe, was assigned today (Rs.. Sirimangana Sarathchandra Ranasinghe joined the Sri Lanka Navy as a Cadet Officer in 1982, he became the Chief of Naval Staff.
+
+Sirimitevan, who has been educated in the Pakistani National Defense University, has also won the Basic and Secondary Study of the Pakistani National Defense University at the Pakistani National Defense University.
+
+Sirimadean Sarathchandra Ranasinghe is also a heerawickrama viposubusion, Ranavikawa, and a Great Services Medalist.
 
 ◼️
 
 [Data](articles/d72baf9e.json)
+
+[Extended Data](ext_articles/d72baf9e.ext.json)
 
 ---
 
@@ -2403,135 +2571,5 @@ The first match of Sri Lanka will take place at 7.30 pm today with the Pakistani
 [Data](articles/61b52b88.json)
 
 [Extended Data](ext_articles/61b52b88.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-10-03 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102411/showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at a few places in Eastern and Uva provinces during the afternoon or night.
-
-A few showers may occur in the coastal areas of Southern and Western provinces during the morning.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7e22d609.json)
-
-[Extended Data](ext_articles/7e22d609.ext.json)
-
----
-
-### Another Action Order on Miraculous vehicles
-
-*2024-10-03 08:11:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிசொகுசு-வாகனங்கள்-குறித்து-மற்றுமொரு-அதிரடி-உத்தரவு/175-344846) · `ta`
-
-Bribery Commission recovers 20 luxury vehicles from 200 illegally imported ones. Chief Magistrate orders immediate arrest of suspects and seizure of vehicles. Vehicles were registered as ordinary imports since 2015.
-
-🟩
-
-The Bribery Commission has informed the Colombo Chief Magistrate's Court that only 20 vehicles have been handed over over 200 illegal imported luxury vehicles without paying more than Rs 500 crore.
-
-Chief Magistrate Thilina Kamage has ordered the Bribery Commission to recover the imported luxury vehicles to the government and immediately arrest all the suspects involved in the crime.
-
-Since 2015, 200 luxury vehicles, including Brado, Land Crusher, V8 and Range Rover, have been registered as ordinary vehicles imported before 2005, officials of the Bribery Commission said.
-
-In addition, the court has ordered the owners to immediately hand over luxury vehicles to the government. Remble
-
-◼️
-
-[Data](articles/9ef9bcbd.json)
-
-[Extended Data](ext_articles/9ef9bcbd.ext.json)
-
----
-
-### Magistrate complains to police
-
-*2024-10-03 08:04:10* · [`adalk`](https://www.ada.lk/breaking_news/මහේස්ත්‍රාත්‍ගෙන්-පොලීසියට-පැමිණිල්ලක්/11-412285) · `si`
-
-Colombo Chief Magistrate Thilina Gamage lodges complaint against threats over controversial cases. Police increase security measures.
-
-🟩
-
-Colombo Chief Magistrate Thilina Gamage lodged a complaint with the DIG of the Criminal Inspector Department and the director of the Criminal Investigation Department (CID).
-
-It is reported that the complaint has been lodged with the Colombo Chief Magistrate based on a poster of Isuru Surapea on Mosque (01).
-
-The threatening letters were referred to a number of controversial proceedings and heroin traffickers, which criticize a number of controversial lawsuit of the Colombo Chief Magistrate Thilina Gamage.The police have taken steps to strengthen security.
-
-The complaint states that the proposal has been proposed to kill a high court on a verdict on a pronouncement of a prominent person who had led a popular decision.
-
-◼️
-
-[Data](articles/4b2c02b4.json)
-
-[Extended Data](ext_articles/4b2c02b4.ext.json)
-
----
-
-### Man arrested with rash drugs
-
-*2024-10-03 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201791) · `si`
-
-Sri Lanka: Drug arrests at airport and local areas. 883g hashish seized at Katunayake Airport. 838g ice found in Midigama. 920g ice discovered in Kosgahadeniya. Investigations ongoing.
-
-🟩
-
-A person has been arrested at the Katunayake Airport with a huge drug brought to Sri Lanka.
-
-The suspect has been arrested following a raid conducted by a team of officers of the Airport Unit of the Airport Unit of the Police Narcotics Bureau.
-
-883 grams have been recovered from a kilogram of rahr drugs in the possession of the suspect.
-
-Meanwhile, a man has been arrested in the Ibbage area of ​​the Midigama area with 838 grams of ice.
-
-According to information received received by the Midigama police station, the stock of drug has been recovered.
-
-The suspect is a resident of Weligama and three others in the area have fled the scene.
-
-Investigations have been started to arrest them.
-
-Meanwhile, a person has been arrested in Kosgahadeniya area with 920 grams of ice.
-
-The arrested were a 29-year-old resident of Walagedara.
-
-◼️
-
-[Data](articles/aa354140.json)
-
-[Extended Data](ext_articles/aa354140.ext.json)
-
----
-
-### Several deadly accidents
-
-*2024-10-03 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201790) · `si`
-
-Deadly accidents: 3 deaths, 1 injured. Motorcyclist, child hurt. Tipper-bus collision. Three-wheeler crash. Cab rollover kills one, injures two. Police investigating.
-
-🟩
-
-Three persons have died due to road accidents yesterday (02).
-
-According to a motorcycle to turn to the Soorudawewa to Padalangala, a tipper behind the road was collided with a bus.
-
-The tipper was later killed in a motorcyclist stopped at the right side of the road and the motorcyclist who stopped the right hand side was killed.
-
-The motorcyclist who went to the south of the crash and a four-year-old girl who was rushed to the Suriyawewa hospital and was transferred to the Hambantota Base Hospital for further treatment.
-
-The driver of the Tipper has fled after the accident and Sooriyawewa Police are investigating him.
-
-Also, Deniyaya has been a three-wheeler from Kiriwiyadola junction on Siriwalpola Junction area and a three-wheeler and a three-wheeler was not controlled by the Driver.
-
-The driver of the three-year-old driver was injured and admitted to the Deniyaya hospital with a three-wheeler driver.
-
-...
-
-[Data](articles/45f3034d.json)
-
-[Extended Data](ext_articles/45f3034d.ext.json)
 
 ---

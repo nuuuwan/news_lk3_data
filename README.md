@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 12:57:19**
+As of **2024-10-03 13:09:00**
 
 ## Newspaper Stats
 
-*Scraped **47,563** Articles*
+*Scraped **47,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ dailymirrorlk | 4,733
 adaderanalk | 5,595
 tamilmirrorlk | 6,405
 virakesarilk | 7,599
-adaderanasinhalalk | 8,226
+adaderanasinhalalk | 8,227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,563 (100.0%) of 47,563 articles have been extended.
+47,564 (100.0%) of 47,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### At the easoletal, a land attack on Lebanon
+
+*2024-10-03 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201802) · `si`
+
+Here's a 200-character summary of the situation:
+
+
+
+Israel-Lebanon conflict escalates. Israeli Army clashes with Hezbollah near border. Eight Israeli soldiers killed. UN convenes emergency meeting. Iran-backed attacks damage Israeli businesses. US warns Iran of severe consequences.
+
+🟩
+
+The first time was the first time after the Israeli Army and Hezbollah militants, including Iran stopped attacks on Israel.
+
+Foreign media reports that eight Israeli soldiers have died during the confrontation.
+
+Meanwhile, the United Nations General Assembly has also been convened to discuss the militarity situation that has arisen in the Middle East.
+
+Israeli-Hamas-war-long-year-long-year-long conflicts were resorted to a new dimensionalizing the missile strikes as a support to Lebanon.
+
+Iranian missile attacks were damaged in Israel, including businesses.
+
+The Israeli Military Lebanon has entered the Israeli military lebition after the Iranian stopping.
+
+They had entered the Lebanon about 400 meters from the Israeli-Lebanon border.
+
+The land clashes between the Israeli Army and Hezbollah fighting were the first time.
+
+Eight Israeli soldiers were killed and another injured in these clashes between the Israeli military and Hezbollah militants.
+
+...
+
+[Data](articles/bb900809.json)
+
+[Extended Data](ext_articles/bb900809.ext.json)
+
+---
 
 ### Colombo HC defers hearing of Keheliya’s corruption case
 
@@ -2283,27 +2321,5 @@ The announcement was issued on Tuesday (01) and that the Human Rights Commission
 [Data](articles/1056b756.json)
 
 [Extended Data](ext_articles/1056b756.ext.json)
-
----
-
-### New Democratic Front to field in general election and cylinder symbol!
-
-*2024-10-02 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/195352) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Former President Ranil Wickremesinghe's supporters unite under 'Democratic Front' for upcoming general election. Parties agree to use gas cylinder symbol."
-
-🟩
-
-All political parties that supported former President Ranil Wickremesinghe in the last presidential election have agreed to contest the gas cylinder symbol under the new Democratic Front in the next general election.
-
-◼️
-
-[Data](articles/5a6dc399.json)
-
-[Extended Data](ext_articles/5a6dc399.ext.json)
 
 ---

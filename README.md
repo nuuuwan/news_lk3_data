@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 09:12:04**
+As of **2024-10-03 09:23:37**
 
 ## Newspaper Stats
 
-*Scraped **47,520** Articles*
+*Scraped **47,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,126 @@ economynextcom | 2,899
 dailyftlk | 3,209
 adalk | 4,393
 dailymirrorlk | 4,733
-adaderanalk | 5,586
+adaderanalk | 5,587
 tamilmirrorlk | 6,396
-virakesarilk | 7,592
+virakesarilk | 7,595
 adaderanasinhalalk | 8,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,520 (100.0%) of 47,520 articles have been extended.
+47,524 (100.0%) of 47,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### 2 suspects arrested with foreign cigarettes in Kalmunai
+
+*2024-10-03 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195361) · `ta`
+
+Two suspects arrested with foreign cigarettes in Kalmunai. STF raids three-wheeler, seizes illegal cigarettes. Suspects aged 58 and 72 handed over to police station for further investigation.
+
+🟩
+
+Kalmunai Special Task Force (STF) has arrested two suspects who have been abducted by a three -wheeler illegally foreign cigarettes.
+
+On Thursday morning (03), a special team of specialist team from the Big Neewana Special Action Force camp was engaged in search operations on the basis of confidential information.
+
+Meanwhile, the three -wheeler who was traveling suspiciously on the Kalmunai main road in the Ampara district was interrupted and raided.
+
+A large number of illegal foreign cigarette cartons have been rescued and two suspects have been arrested in a trio.
+
+It is noteworthy that the Special Task Force (STF) has been arrested by the Special Task Force when they were smuggled into a shop where 20,200 illegal cigarettes worth Rs.
+
+Special Task Force (STF) detention is being carried out by a 72 -year -old suspect from Maruthamunai Hajiyar Road, including a 58 -year -old suspect from the Kalmunai Beach School Road Auto Pasar junction.
+
+...
+
+[Data](articles/17a5a92d.json)
+
+[Extended Data](ext_articles/17a5a92d.ext.json)
+
+---
+
+### Israel strikes heart of Beirut, killing six
+
+*2024-10-03 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102412/israel-strikes-heart-of-beirut-killing-six) · `en`
+
+Israel bombed central Beirut in the early hours of Thursday, killing at least six people, after its forces suffered their deadliest day on the Lebanese front in a year of clashes against Iran-backed armed group Hezbollah.
+
+Israel said it conducted a precise air strike on Beirut. Reuters witnesses reported hearing a massive blast, and a security source said it targeted a building in central Beirut’s Bachoura neighbourhood close to parliament, the nearest Israeli strikes have come to Lebanon’s seat of government.
+
+At least six people were killed and seven wounded, Lebanese health officials said. A photo being circulated on Lebanese WhatsApp groups, which Reuters could not immediately verify, showed a heavily damaged building with its first floor on fire.
+
+...
+
+[Data](articles/cfd97689.json)
+
+[Extended Data](ext_articles/cfd97689.ext.json)
+
+---
+
+### UN Human Rights Council Resolutions on Sri Lanka are essential to maintain attention on human rights violations - Human Rights Watch
+
+*2024-10-03 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195331) · `ta`
+
+Human Rights Watch urges UN Human Rights Council to pass resolution on Sri Lanka's past violations. New threats to freedom emerge as long-term restructuring remains incomplete. President Anura Kumara Dissanayake must protect affected parties and activists. UN resolutions crucial for maintaining focus on human rights issues in Sri Lanka.
+
+🟩
+
+The Human Rights Watch has urged the United Nations Human Rights Council to pass a resolution in Sri Lanka's past violations in Sri Lanka.
+
+He has called for the proceedings of the United Nations Human Rights Council by the United Nations Human Rights Council, which has been appointed by the previous governments by the previous governments to end the actions of the victims of the victims, including the relatives of the missing persons.
+
+In a statement issued by the Human Rights Watch, the new resolution prepared by the British -led Internet countries to submit the 51/1 resolution already passed in Sri Lanka
+
+UN Human Rights High Commissioner Volcker Turuk's new report on Sri Lanka. The long -term pending restructuring has not yet been completed.
+
+Instead, new threats that can be questioned by basic freedom have emerged. ”
+
+Sri Lanka's past governments have failed to take responsibility for officials associated with violence and violence against the Tamil and Muslim people.
+
+...
+
+[Data](articles/4ce917fd.json)
+
+[Extended Data](ext_articles/4ce917fd.ext.json)
+
+---
+
+### Today is a little rainfall
+
+*2024-10-03 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195360) · `ta`
+
+Light rainfall expected Eastern Uva provinces afternoon night. Showers thunderstorms sea regions Mannar Kankesanthurai Colombo Galle Hambantota. Strong winds lightning warnings issued. Southwest winds 25-35 km/h sea areas, potentially increasing 45-50 km/h certain regions.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that some rainfall in the Eastern and Uva provinces could occur in the afternoon or night.
+
+Rainfall is likely in the morning in the upper and Southern Province coastal regions.
+
+The public is asked to take care in the events of strong winds and lightning.
+
+Showers or thunderstorms are expected in some parts of the sea regions from Mannar to Kankesanthurai in the afternoon or night.
+
+Rainfall is expected in some parts of the sea regions from Colombo to Galle to Hambantota.
+
+Winds from the southwest at speeds of 25 - 35 km / h in the sea regions.
+
+From the beginning of the Kankesanthurai to Mannar to Mannar as well as in the sea regions from Hambantota to Pottuvil via Pottuvil, the winds may increase at 45 - 50 km / h.. In such cases, these sea regions are somewhat turbulent.
+
+But when the thunderstorm is raining, there will be strong winds and the sea regions are temporarily in a very turbulent.
+
+◼️
+
+[Data](articles/6ec21417.json)
+
+[Extended Data](ext_articles/6ec21417.ext.json)
+
+---
 
 ### Sri Lankans trapped at the airport
 
@@ -2197,103 +2303,5 @@ US Embassy's Naval Advisor Lieutenant Commander Jessica de Mont, Assistant Secur
 [Data](articles/19e40d81.json)
 
 [Extended Data](ext_articles/19e40d81.ext.json)
-
----
-
-### Weather advisory issued for severe lightning
-
-*2024-10-02 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102403/-weather-advisory-issued-for-severe-lightning) · `en`
-
-The Meteorology Department has issued an ‘Amber’ advisory for severe lightning for several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Eastern, Uva and North-central provinces and in Mullaittivu and Vavuniya districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to seek shelter, preferably indoors and never under trees, avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, avoid using wired telephones and connected electric appliances during thunderstorms and also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-For emergency assistance, the public is requested to contact local disaster management authorities.
-
-◼️
-
-[Data](articles/9999e1f4.json)
-
-[Extended Data](ext_articles/9999e1f4.ext.json)
-
----
-
-### Of the three who went to meet the lover, one was killed
-
-*2024-10-02 16:36:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதலியை-சந்திக்க-சென்ற-மூவரில்-ஒருவர்-பலி/76-344819) · `ta`
-
-Schoolgirl killed after gang attack while meeting friend's girlfriend. Two others fled, boyfriend hospitalized. Suspect arrested.
-
-🟩
-
-A schoolgirl who went to meet his friend's girlfriend has died after being attacked by a gang, Matale Mahawela police said.
-
-The deceased is a 17 -year -old schoolgirl named Morgan Yukesh, a schoolgirl from Kaudubella Kalaimala Vidyalaya, Madawala, Ulpatta, Madawala.
-
-The student was attacked by a gang of Kodawela Buddha when he was riding a motorbike to Madawala Ulpatha, at 5.30 pm on Tuesday (01) at 5.30 pm to meet the friend's girlfriend's schoolgirl.
-
-Two other people have fled and the student has been attacked and found dead by the people of the area.
-
-The boy's boyfriend and the other student have been admitted to the hospital for treatment and are being treated at the hospital and the wife's father has been arrested and is conducting investigations.
-
-◼️
-
-[Data](articles/0cf0a229.json)
-
-[Extended Data](ext_articles/0cf0a229.ext.json)
-
----
-
-### Cooperation for direct foreign investments
-
-*2024-10-02 16:34:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேரடி-வெளிநாட்டு-முதலீடுகளுக்கு-ஒத்துழைப்பு/175-344818) · `ta`
-
-British High Commissioner meets Sri Lankan President, discusses cooperation on foreign investments and education ties.
-
-🟩
-
-British High Commissioner to Sri Lanka Andrew Pedrick met President Anura Kumara Dissanayake on Wednesday (02).
-
-The visit was an important initiative in further strengthening strong diplomatic relations between the two countries.
-
-High Commissioner Pedricky congratulated President Anura Kumara Dissanayake for his victory in the last presidential election and congratulated the British government for the rule of the President of Sri Lanka.
-
-The British High Commissioner also handed over the exclusive congratulations of King III Charles and British Prime Minister Sir Keir Starmer to congratulate President Anura Kumara Dissanayake.
-
-The High Commissioner, promising to provide continuous support for Sri Lanka's efforts to attract direct foreign investment, emphasized the importance of educational relations.. He also promised to help the British government for the International Monetary Fund and Debt Relief activities.
-
-◼️
-
-[Data](articles/c60a5ba3.json)
-
-[Extended Data](ext_articles/c60a5ba3.ext.json)
-
----
-
-### A warning new in a strong lightning
-
-*2024-10-02 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201769) · `si`
-
-Meteorology warns of public strike from 03/04 11pm. Thunderstorms expected in Uva, North Central, and Vavuniya regions. Public advised to take precautions against wind damage and lightning.
-
-🟩
-
-The Department of Meteorology has issued a warning new public strike.
-
-The announcement issued by this afternoon will be valid from tomorrow (03) to 11 pm.
-
-Accordingly, in the evening, Uva and North and North Central territories, in the evening or Vavuniya districts, in the evening or Vavuniya districts is higher than at the same time.
-
-The Department of Meteorology also requests the public to take action to reduce the damages caused by temporary winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/43b33868.json)
-
-[Extended Data](ext_articles/43b33868.ext.json)
 
 ---

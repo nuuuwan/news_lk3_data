@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 19:38:51**
+As of **2024-10-03 19:57:22**
 
 ## Newspaper Stats
 
-*Scraped **47,625** Articles*
+*Scraped **47,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 2,903
 dailyftlk | 3,209
 adalk | 4,407
 dailymirrorlk | 4,733
-adaderanalk | 5,601
+adaderanalk | 5,602
 tamilmirrorlk | 6,420
 virakesarilk | 7,619
-adaderanasinhalalk | 8,237
+adaderanasinhalalk | 8,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,625 (100.0%) of 47,625 articles have been extended.
+47,627 (100.0%) of 47,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### To the Pakistan to the toss of coin
+
+*2024-10-03 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201816) · `si`
+
+Pakistan wins coin toss, decides to bat first in Women's T20 WC match against Sri Lanka. Fatima Sana leads Pakistan team.
+
+🟩
+
+Sri Lanka is playing the first match of the Women's Twenty20 World Cup against Pakistan.
+
+Pakistani leader Fatima Sana decided to bat first, winning the coin.
+
+◼️
+
+[Data](articles/5619a0a4.json)
+
+[Extended Data](ext_articles/5619a0a4.ext.json)
+
+---
+
+### Jaishankar to meet new President and PM during Sri Lanka visit
+
+*2024-10-03 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102425/jaishankar-to-meet-new-president-and-pm-during-sri-lanka-visit) · `en`
+
+The Minister of External Affairs of India, Dr. Subrahmanyam Jaishankar will be undertaking an official visit to Sri Lanka on 04 October 2024, the Ministry of Foreign Affairs confirmed today.
+
+During this visit, the External Affairs Minister of India is scheduled to pay courtesy calls on President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya, the statement said.
+
+The visiting Indian External Affairs Minister and his delegation will also have a meeting with Foreign Minister Vijitha Herath at the Ministry of Foreign Affairs.
+
+Minister Jaishankar will be accompanied by senior officials of the Ministry of External Affairs of India.
+
+This is the first visit of any foreign minister to Sri Lanka since the new government was sworn in last week. Dr Jaishankar’s meeting with the leadership reaffirms India’s bilateral ties with Sri Lanka, Indian media reported today.
+
+...
+
+[Data](articles/bbd8e7e1.json)
+
+[Extended Data](ext_articles/bbd8e7e1.ext.json)
+
+---
 
 ### A vehicle technology learning student is crushed by bus
 
@@ -1066,7 +1108,7 @@ hye received their letters of appointment from party leader Dilith Jayaweera at 
 
 Rajika Wickremesinghe has been appointed as the MJP’s Kegalle District Organisers and Dedigama electorate organizer while Daham Sirisena has been appointed Polonnaruwa District Organiser.
 
-Meanwhile, Chamindu Kumarasinghe has been appointed as the Polonnaruwa District Coordinator andThakshila Premasiri as organiser for Udunuwara, Kandy.
+Meanwhile, Chalindu Kumarasinghe has been appointed as the Polonnaruwa District Coordinator andThakshila Premasiri as organiser for Udunuwara, Kandy.
 
 Daham is the son of former Polonnaruwa District Parliamentarian and former President Maithripala Sirisena.
 
@@ -2523,53 +2565,5 @@ A kilogram of 883 grams of kush has been found from the suspect.
 [Data](articles/22ca8433.json)
 
 [Extended Data](ext_articles/22ca8433.ext.json)
-
----
-
-### What happened to the house given to Sambandan?
-
-*2024-10-03 08:23:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பந்தனுக்கு-வழங்கப்பட்ட-வீட்டிற்கு-நடந்தது-என்ன/175-344847) · `ta`
-
-Sambandan's official residence in Colombo 7 remains unreturned to the government despite his death. The property, valued at 3.5 crores, underwent repairs in 2017. Current plans involve handing it over to new Minister Harini Amarasuriya.
-
-🟩
-
-The residence of Colombo 7, Colombo 7, was given to R. Sampanthan, former Opposition Leader and former leader of the Tamil National Alliance (TNA), and has not been handed over to the government although Sambandan's death has been over three months after the death of Sambandan.
-
-Although the Ministry recently handed over the Cabinet paper to the government's re -obtaining the residence, the resolution was stopped following a regime change.
-
-Following this, reports say that arrangements are being made to hand over the bond to the new Minister Dr. Harini Amarasuriya.
-
-Sampanthan got this official residence after taking office as the leader of the Opposition in 2015.
-
-Later on October 26, 2018, Mahinda Rajapaksa was re -elected as the leader of the Opposition, but Sambandan gave him the opportunity to continue at the official residence.
-
-...
-
-[Data](articles/0dfb71d2.json)
-
-[Extended Data](ext_articles/0dfb71d2.ext.json)
-
----
-
-### 20 and 20 women's cricket cup today begins today
-
-*2024-10-03 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201792) · `si`
-
-Women's Cricket Cup: Dubai hosts tournament from 20th. Groups include Sri Lanka, Pakistan, Australia, India, New Zealand. Sri Lanka vs Pakistan match starts at 7:30 PM today.
-
-🟩
-
-The tournament will be held in Dubai until the 20th.
-
-Sri Lanka Women's Women's Group "A" category is due to be held in this year, and Pakistan, Australia, India and New Zealand are other groups of the category.
-
-The first match of Sri Lanka will take place at 7.30 pm today with the Pakistani team.
-
-◼️
-
-[Data](articles/61b52b88.json)
-
-[Extended Data](ext_articles/61b52b88.ext.json)
 
 ---

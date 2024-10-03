@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 22:24:46**
+As of **2024-10-03 22:42:12**
 
 ## Newspaper Stats
 
-*Scraped **47,647** Articles*
+*Scraped **47,650** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
-adalk | 4,409
+adalk | 4,412
 dailymirrorlk | 4,733
 adaderanalk | 5,604
 tamilmirrorlk | 6,424
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,647 (100.0%) of 47,647 articles have been extended.
+47,649 (100.0%) of 47,650 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -634,6 +634,24 @@ Fonseka took 2 wickets for Bangladesh. She was given only 15 points.
 
 ---
 
+### පුංචි ඡන්දයත් ළඟ ළඟම එයි
+
+*2024-10-03 18:32:05* · [`adalk`](https://www.ada.lk/breaking_news/පුංචි-ඡන්දයත්-ළඟ-ළඟම-එයි/11-412300) · `si`
+
+පාර්ලිමේන්තු මැතිවරණය අවසන් වූ වහාම පළාත් පාලන මැතිවරණයට දින නියම කරන බව මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කරමින් සදහන් කරයි.
+
+ඒකි ඡන්ද විමසීමට අදාළව  මැතිවරණ කොමිෂන් සභාවේ සභාපති, ආර්. එම්. ඒ. එල්. රත්නායකගේ අත්සනින් යුතුව අදාළ නිවේදනය නිකුත් කර තිබේ.
+
+2023 පළාත් පාලන ආයතන ඡන්ද විමසීමට අදාළව ගොනුකර තිබූ මුලික අයිතිවාසිකම් අයදුම්පත් සම්බන්ධයෙන් 2024.08.22 දින ශ්‍රේෂ්ඨාධිකරණය විසින් ලබාදුන් තීන්දුව මැතිවරණ කොමිෂන් සභාව විසින් නිසි ගෞරවයෙන් යුතුව සැලකිල්ලට ගත් බව එම නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+ඒ අනුව ශ්‍රී ලාංකික ජනතාවගේ ප්‍රජාතන්ත්‍රවාදී අයිතීන් සුරැකීම සඳහා මැතිවරණ කොමිෂන් සභාව සිය කාර්යභාරය මැනවින් වටහාගෙන කටයුතු කරන බව ද අදාළ නිවේදනයේ තවදුරටත් සඳහන් වේ.
+
+...
+
+[Data](articles/7be96f6a.json)
+
+---
+
 ### Eastern Tamil Union
 
 *2024-10-03 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195423) · `ta`
@@ -662,6 +680,36 @@ Deciding this, there are many contradictions among the national parties today. T
 
 ---
 
+### Parents demands that Nadeesha's body was deceased in Jordan
+
+*2024-10-03 18:23:57* · [`adalk`](https://www.ada.lk/breaking_news/ජෝර්දානයේදී-මියගිය-නදීශාගේ-දේහය-ගෙන්වන්නැයි-දෙමාපියෝ-ඉල්ලති/11-412299) · `si`
+
+Sri Lankan parents demand return of daughter's body from Jordan. 25-year-old Nadeeshani Dissanayake died in Jordan while working in a garment factory. Parents claim she was ill but died on September 29. Foreign Employment Institute informed.
+
+🟩
+
+Parents, a resident of Wathiyawela, Kosgoda, have called on the authorities to be brought to Sri Lanka while working in a garment factory in Jordan.
+
+The body of the 25-year-old Igala Dissanayake, the Twenty-East Igalaani Dissanayake, who is in Kosgoda Wathuwavel, is the body of Nadeeshani Dissanayake.
+
+Nadeeshani 2023, Kosgoda to work in a garment factory in Kosgoda to work on April 10, was located in a garment factory in Wattane on April 10.
+
+They say she has gone to work in a garment factory in Jordan after registration of foreign employment agency.
+
+Nadeeshani has gone abroad to fulfill its homework and complete the construction of the construction work.
+
+Nadeeshani, who went to Geordan to Jordan and said that he had already used the necessary steps to Sri Lanka as he was ill.
+
+But on September 29, she served in the Nadeeshani's replication factory, Nadeeshani's replication, said Nadeeshani died.
+
+...
+
+[Data](articles/6497bef2.json)
+
+[Extended Data](ext_articles/6497bef2.ext.json)
+
+---
+
 ### The 49th commemoration of the great leader Kamarajar
 
 *2024-10-03 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195422) · `ta`
@@ -683,6 +731,28 @@ Forum Chairman Amirtham Jayakumar and Mrs.. Teachers and students participated i
 [Data](articles/c3d21da1.json)
 
 [Extended Data](ext_articles/c3d21da1.ext.json)
+
+---
+
+### How says the compass will win the general election
+
+*2024-10-03 18:15:50* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී-මාලිමාව-දිනන-හැටි-උදය-ගණන්-හදලම-කියයි/11-412298) · `si`
+
+Here's a 200-character summary:
+
+
+
+Compass leader predicts winning 120 seats in upcoming parliamentary election. Party claims strong focus on Sri Lankan politics. Presidential election results often influence parliamentary outcomes. Main opposition parties may lose significant vote share, potentially allowing Compass to secure majority.
+
+🟩
+
+The Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Serates is the ability to win about one hundred twenty seats in the next parliamentary election.He was speaking at a press conference held at the party headquarters today (October 03, 204).The Leader JHU of the JHU further commented:
+
+...
+
+[Data](articles/df727314.json)
+
+[Extended Data](ext_articles/df727314.ext.json)
 
 ---
 
@@ -2515,79 +2585,5 @@ On August 28, the Colombo Crimes Division had launched an investigation into a s
 [Data](articles/11f0a90e.json)
 
 [Extended Data](ext_articles/11f0a90e.ext.json)
-
----
-
-### Two more arrested over defamatory posters of Mannar HC Judge
-
-*2024-10-03 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102416/two-more-arrested-over-defamatory-posters-of-mannar-hc-judge-) · `en`
-
-Two more suspects have been arrested in connection with the incident of pasting defamatory posters targeting the Mannar High Court Judge.
-
-The two suspects were arrested in Kelaniya and Dehiwala areas last evening (03) by a team of officers from the Colombo Crimes Division (CCD).
-
-Police have also seized three mobile phones found in the possession of the suspects.
-
-The arrested suspects, residents of Ambakote and Dehiwala areas who are aged 27 and 41, are expected to produce before the Colombo Chief Magistrate Court today (03).
-
-Investigations have revealed that the suspects were involved in designing, printing, and distributing the defamatory posters.
-
-On August 28, the Colombo Crimes Division had launched an investigation into a series of defamatory posters displayed in Colombo and suburbs targeting the Mannar High Court Judge, which had been created using his photograph.
-
-...
-
-[Data](articles/b91bc281.json)
-
-[Extended Data](ext_articles/b91bc281.ext.json)
-
----
-
-### “No longer ready to vote according to the differences”
-
-*2024-10-03 11:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேறுபாடுகளின்-படி-இனி-வாக்களிக்கத்-தயார்-இல்லை/175-344856) · `ta`
-
-People reject voting based on religion, race, or clan. They oppose racism, religious divisions, bribery, and corruption. Economic and social issues worsen. Religious harmony efforts aim to unite communities despite differing beliefs. True believers suffer due to misconceptions about other religions.
-
-🟩
-
-Buddhist affairs coordinator and leader of the Buddhist affairs, Dr. Sastrapati Galagama Tammarani Nayaka Thera said that the people were no longer ready to vote on the basis of religion, race or clan.
-
-He told the media yesterday that people have voted against racism, religious divisions, continuous bribery and corruption in the country.
-
-“Currently, the country's economic and social issues are deteriorating. Therefore, the association has decided to improve religious harmony as part of the unity effort between religion, ”Thera said.
-
-"A group of temples, churches or mosques that do not believe in any religion stood for national and religious harmony in the country. People who have true faith are suffering from their misconceptions, ”he added.
-
-◼️
-
-[Data](articles/db4ccbd5.json)
-
-[Extended Data](ext_articles/db4ccbd5.ext.json)
-
----
-
-### 5 human remains recovered at the port of Colombo
-
-*2024-10-03 10:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-துறைமுகத்தில்-5-மனித-எச்சங்கள்-மீட்பு/175-344855) · `ta`
-
-Human remains found at Colombo port during excavations. Five skeletons discovered, investigation ongoing. Police protecting evidence. Next phase of digging planned for October 17, 2024.
-
-🟩
-
-Five human skeletons have been recovered during further excavations carried out at the Colombo port premises, police said.
-
-Initially on July 13, human remains were discovered during the 6 -foot -digging construction work near the old secretariat building in Colombo Fort as part of the Port City Highway Project by a private company.
-
-The investigation into the skeletons found at the Port of Colombo was launched on September 5, 2024, headed by the Chief Magistrate of Colombo.
-
-At this point, there were representatives of the office (OMP) of legal officers, archaeologists and missing persons. The Magistrate has approved the OMP (Missing Persons Office) to oversee the investigation into human burials.
-
-The second phase was carried out on September 26, 27 and 28 after the first excavation, police said.. The rescued human skeletons have been kept under police protection at the Colombo (North) Crime Unit for further investigations.
-
-...
-
-[Data](articles/6f77481e.json)
-
-[Extended Data](ext_articles/6f77481e.ext.json)
 
 ---

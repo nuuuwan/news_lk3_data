@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 05:23:05**
+As of **2024-10-03 05:44:19**
 
 ## Newspaper Stats
 
-*Scraped **47,484** Articles*
+*Scraped **47,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 468
 colombotelegraphcom | 473
 islandlk | 2,786
 economynextcom | 2,899
-dailyftlk | 3,199
+dailyftlk | 3,207
 adalk | 4,391
 dailymirrorlk | 4,733
 adaderanalk | 5,585
@@ -26,11 +26,175 @@ adaderanasinhalalk | 8,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,484 (100.0%) of 47,484 articles have been extended.
+47,492 (100.0%) of 47,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Indian High Commissioner calls on President
+
+*2024-10-03 05:20:12* · [`dailyftlk`](https://www.ft.lk/news/Indian-High-Commissioner-calls-on-President/56-767495) · `en`
+
+The Indian High Commissioner to Sri Lanka Santosh Jha yesterday called on President Anura Kumara Dissanayake to congratulate him on his recent election victory. The meeting took place at the Presidential Secretariat.
+
+During the meeting, High Commissioner emphasised the long-standing friendship and close proximity between India and Sri Lanka, highlighting the importance of maintaining strong bilateral ties.
+
+He expressed India’s readiness to support Sri Lanka’s development process in all possible ways and wished to see Sri Lanka emerge as a peaceful and stable nation in the region.
+
+The High Commissioner also praised the President’s anti-corruption initiatives outlined in his manifesto, particularly stressing the importance of digitalisation in Government systems to effectively combat corruption.
+
+Jha reaffirmed India’s willingness to assist Sri Lanka in implementing digitalisation measures, while underscoring the continuous stable friendship between the two neighbouring nations.
+
+◼️
+
+[Data](articles/1f7a58b9.json)
+
+[Extended Data](ext_articles/1f7a58b9.ext.json)
+
+---
+
+### India’s External Affairs Minister in town tomorrow
+
+*2024-10-03 05:18:04* · [`dailyftlk`](https://www.ft.lk/news/India-s-External-Affairs-Minister-in-town-tomorrow/56-767494) · `en`
+
+Indian External Affairs Minister Dr. S. Jaishankar is expected to visit Sri Lanka tomorrow (4) and call on President Anura Kumara Dissanayake.
+
+His visit to Colombo would mark the first by any foreign diplomat after President took office on 23 September.
+
+Dr. Jaishankar’s visit will be closely watched as it will include high-level engagement between India and Sri Lanka.
+
+President Dissanayake held talks with Dr. Jaishankar and National Security Adviser Ajit Doval, during his visit to Delhi before the 2024 Presidential Election.
+
+◼️
+
+[Data](articles/a9c64607.json)
+
+[Extended Data](ext_articles/a9c64607.ext.json)
+
+---
+
+### Govt. uncertain about public sector salary hike promised by previous regime
+
+*2024-10-03 05:15:19* · [`dailyftlk`](https://www.ft.lk/news/Govt-uncertain-about-public-sector-salary-hike-promised-by-previous-regime/56-767493) · `en`
+
+The incumbent Government yesterday announced that it remains uncertain whether it can fulfil the salary increment promised by the previous administration, set for January 2025.
+
+“We understand that public sector salaries need to be adjusted to reflect the rising cost of living. However, we cannot yet confirm whether the financial capacity exists to implement the salary hike from 1 January 2025, as planned by the former administration,” Cabinet Spokesman and Minister Vijitha Herath said at the post-Cabinet meeting media briefing yesterday.
+
+He explained that the decision on salary increments would be made during the formulation of the 2025 Budget.
+
+“We agree in principle that public sector wages should be increased, but the mechanism and feasibility will only be determined through the budgetary process,” he added.
+
+Herath assured that the new Government is committed to fulfilling the needs of the people, though these aspirations would be realised gradually.
+
+...
+
+[Data](articles/84a8b405.json)
+
+[Extended Data](ext_articles/84a8b405.ext.json)
+
+---
+
+### Gandhi Jayanti celebrations in Colombo
+
+*2024-10-03 05:11:22* · [`dailyftlk`](https://www.ft.lk/news/Gandhi-Jayanti-celebrations-in-Colombo/56-767492) · `en`
+
+Commemorating the 155th  birth anniversary of Mahatma Gandhi, Prime Minister of Sri Lanka Dr. Harini Amarasuriya and the High Commissioner of India to Sri Lanka Santosh Jha paid tributes to Mahatma Gandhi by garlanding his bust at the Prime Minister’s Office in Colombo yesterday.
+
+Following the ceremony, the High Commissioner called on the Prime Minister Dr. Amarasuriya.
+
+The bust was a gift from India in 2019, commemorating the 150th birth anniversary of Mahatma Gandhi. The 42 inches-tall bronze bust of Gandhiji in meditative pose was sculpted by Padma Bhushan Awardee Ram Vanji Sutar. Sutar also has to his credit the world’s tallest bronze statue of Sardar Vallabhbhai Patel in Kevadiya, Gujarat.
+
+Later in the day, a Gandhi Oration organised by the Sri Lanka India Society (SLIS) in collaboration with the Swami Vivekananda Cultural Centre, the cultural arm of the High Commission of India in Colombo, was delivered by former High Commissioner of Sri Lanka to India Austin Fernando.
+
+...
+
+[Data](articles/4476a56c.json)
+
+[Extended Data](ext_articles/4476a56c.ext.json)
+
+---
+
+### Ranjan appeals to President Anura Dissanayake for restoration of civic rights
+
+*2024-10-03 05:10:40* · [`dailyftlk`](https://www.ft.lk/news/Ranjan-appeals-to-President-Anura-Dissanayake-for-restoration-of-civic-rights/56-767491) · `en`
+
+Actor-turned-politician Ranjan Ramanayake submitted a formal request to the Presidential Secretariat yesterday, appealing to President Anura Kumara Dissanayake to restore his civic rights. Ramanayake, who was conditionally pardoned in 2022 by former President Ranil Wickremesinghe following his conviction for contempt of court, expressed hope that President Dissanayake would grant him a full pardon.
+
+Speaking to the media, Ramanayake revealed that he had spoken to the President over the phone, who instructed him to submit the request for consideration. “The former President forgave me, but my mouth remains closed, preventing me from engaging in active politics. I am making a new appeal to the current President for my civic rights. Since I was not jailed for a crime, I believe I will be granted my request the former MP said.
+
+...
+
+[Data](articles/51b0f125.json)
+
+[Extended Data](ext_articles/51b0f125.ext.json)
+
+---
+
+### MJP announces significant appointments ahead of General Election
+
+*2024-10-03 05:08:31* · [`dailyftlk`](https://www.ft.lk/news/MJP-announces-significant-appointments-ahead-of-General-Election/56-767490) · `en`
+
+Appoints former Minister Roshan Ranasinghe as Chairman of MJP, former Minister Prof. Channa Jayasumana as Deputy Chairman
+
+The Mawbima Janatha Party (MJP) leader Dilith Jayaweera yesterday announced that the party made significant appointments yesterday. Taking to ‘X’ he noted that former Minister Roshan Ranasinghe was appointed as the Chairman of the party, while former Minister Prof. Channa Jayasumana was appointed the Deputy Chairman.
+
+In addition, former MP Milan Jayatilake was appointed as the Gampaha District Organiser, while former Western Provincial Council Member Rajitha Hapuarachchi was appointed Organiser of the Katana seat.
+
+Jayaweera said the appointments were made as MJP prepares to contest the upcoming General Election on 14 November.
+
+“I welcome them and look forward to working closely towards a Happy Nation,” he added.
+
+◼️
+
+[Data](articles/1b7e84ff.json)
+
+[Extended Data](ext_articles/1b7e84ff.ext.json)
+
+---
+
+### New Acting DG for Govt. Information Department
+
+*2024-10-03 05:05:12* · [`dailyftlk`](https://www.ft.lk/news/New-Acting-DG-for-Govt-Information-Department/56-767489) · `en`
+
+The Cabinet of Ministers on Monday approved appointing H.S.K.J. Bandara as the new Director General of the Government Information Department with immediate effect on a full-time acting basis.
+
+The announcement was made by Cabinet Spokesman and Minister Vijitha Herath yesterday at the post-Cabinet meeting media briefing.
+
+The appointment was made after former Director General Dinith Chinthaka Karunarathne resigned from the post. Bandara is a Grade I officer of the Sri Lanka Administrative Service who serves as Director (Admin) of the Department of Government Information at present.
+
+◼️
+
+[Data](articles/e6b2f800.json)
+
+[Extended Data](ext_articles/e6b2f800.ext.json)
+
+---
+
+### Chinese Ambassador calls on President; extends full backing
+
+*2024-10-03 04:56:44* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Ambassador-calls-on-President-extends-full-backing/56-767488) · `en`
+
+Pledges full support for Sri Lanka’s debt restructuring and economic stability
+
+Chinese Ambassador Qi Zhenhong called on President Anura Kumara Dissanayake yesterday.
+
+The Ambassador extended his heartfelt congratulations to the President on his recent election victory and expressed China’s continued commitment to supporting Sri Lanka in its future endeavours.
+
+Qi reaffirmed the Chinese Government’s continued commitment to enhancing bilateral relations with Sri Lanka, emphasising the significance of on-going collaborative projects.
+
+He highlighted the active engagement of the China Development Bank (CDB) and EXIM Bank in supporting Sri Lanka’s development initiatives.
+
+Moreover, Ambassador Qi assured that both institutions, as key commercial and bilateral creditors, will provide comprehensive assistance in the debt restructuring process, underscoring China’s dedication to supporting Sri Lanka’s economic stability and growth.
+
+◼️
+
+[Data](articles/3f6c8ad1.json)
+
+[Extended Data](ext_articles/3f6c8ad1.ext.json)
+
+---
 
 ### Australian High Commissioner calls on President
 
@@ -2177,211 +2341,5 @@ The Israeli military said, "The sounds you hear are caused by interrupted missil
 [Data](articles/a9e1407e.json)
 
 [Extended Data](ext_articles/a9e1407e.ext.json)
-
----
-
-### Twin to win the 8th of the year
-
-*2024-10-02 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201761) · `si`
-
-Two 13-year-old twins from Kalubowila excel in GCE O/L exams. They credit their father's guidance and private tutoring for their success. Both aim to become computer technicians after pursuing A/L studies.
-
-🟩
-
-At the age of 13, two twin children who won the GCE O / L examination were reported in Kalubowila.
-
-Daughter, Daughter, Daughter, Daughter, who is residents of Kalubowila Anderson Road, Nugegoda. The examination was held with the recent school in St. John (Women's College) College, Nugegoda.
-
-Also, her twin the exam with her, the eight-grade of Eight Grade Eight of Easipathana Vidyalaya, Colombo. Nishan Sugith Spoods also examined optimal awards and awards certificates.
-
-The father of the two twins was able to achieve this victory over the guidance of private tuition after leaving the school examination at low age examination.. P. P. Said Nishantha said.
-
-Commenting on this victory said:
-
-...
-
-[Data](articles/e6100078.json)
-
-[Extended Data](ext_articles/e6100078.ext.json)
-
----
-
-### Former MP Vino Nogarathalingam announces not contesting parliamentary elections
-
-*2024-10-02 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195311) · `ta`
-
-Former MP Vino Nogarathalingam announces non-participation in upcoming parliamentary elections due to public demand for change and youth representation.
-
-🟩
-
-Former Wanni district parliamentarian Vino Nogarathalingam says he has decided not to contest the upcoming parliamentary elections.
-
-In the last presidential election, the need for a political change was felt among the people, especially the Sinhalese majority.
-
-The result is the president of Anuragumara Dissanayake. Similarly, the Tamil people are looking for a change in the upcoming parliamentary elections in the Northeast.
-
-It means to send newcomers and young people to Parliament. We cannot prevent this change in the minds of the people.
-
-It is inevitable to give way. The main duty of political parties and leaders is to understand the feelings of the people and accept the youth and the elderly.
-
-I think the decision to not contest with mine and some other former MPs will be motivated to realize and decide.
-
-"I have decided not to contest the upcoming parliamentary general election," he said.
-
-◼️
-
-[Data](articles/c1b8adfe.json)
-
-[Extended Data](ext_articles/c1b8adfe.ext.json)
-
----
-
-### HC adjourns hearing of ‘hit-and-run’ case against Patali Champika till Feb. 28
-
-*2024-10-02 13:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102398/hc-adjourns-hearing-of-hit-and-run-case-against-patali-champika-till-feb-28) · `en`
-
-The Colombo High Court has ordered the case against former Minister Patali Champika Ranawaka over the hit-and-run incident which took place in 2016, in which the vehicle the former Minister was travelling in had collided with a motorcycle in Rajagiriya, to be postponed until February 28, 2025.
-
-When the case was taken up for consideration today (02), the defendant, former MP Patali Champika Ranawaka, appeared before the Colombo High Court.
-
-Appearing for the defendant, Attorney-at-Law Amarasiri Panditharathna stated before the courts that the defendant has filed an appeal before the Supreme Court in relation to another similar case which is based on this case.
-
-The defence attorney further expressed that the Supreme Court, which considered the appeal, issued an interim order preventing the hearing of the relevant case in the Colombo High Court.
-
-...
-
-[Data](articles/5ccf7481.json)
-
-[Extended Data](ext_articles/5ccf7481.ext.json)
-
----
-
-### Specialist in Cuba to Eradicate Dengue
-
-*2024-10-02 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201759) · `si`
-
-Cuban Ambassador meets Sri Lankan President to strengthen ties and combat dengue fever.
-
-🟩
-
-President of Sri Lanka Anura Kumara Dissanayake and Sri Lanka's Cuban Ambassador to Sri Lanka's Cuban Ambassador to President Alhindan ambassador to Presidential Secretariat.
-
-Attention has been paid to strengthening the long-term diplomatic relations and friendship between the two countries.
-
-The Cuban Ambassador had greeted the Cuban Ambassador to President Anura Kumara Dissanayake on the victory of the recent presidential election.
-
-It is said that the Cuban Ambassador of the country has been praised by the President's leadership and the Cuban Ambassador of Sri Lanka is ready to improve the collaboration with Sri Lanka.
-
-He also ensured that the Cuban government continues to support Sri Lanka's efforts for dengue eradication.
-
-The Cuban Ambassador to the success of the dengue menace is also willing to share and share the necessary specialist in Sri Lanka to help the eradication of the dengue menace in Sri Lanka.
-
-◼️
-
-[Data](articles/37a2f113.json)
-
-[Extended Data](ext_articles/37a2f113.ext.json)
-
----
-
-### Individuals who have banned land paths in the sixth phase of Trincomalee - public outrage
-
-*2024-10-02 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195308) · `ta`
-
-Trincomalee residents protest against private land ban near Lakshmi Narayanan temple. Residents claim illegal settlement established in 1982. Private individual from France claims ownership, causing public outcry and affecting local church and preschool operations.
-
-🟩
-
-Residents of the Upper area are worried that the roads near the Lakshmi Narayanan temple in the Nilavali road in Trincomalee have been banned by a private person.
-
-The residents of the Upper area say that the proceedings have been set up in front of the Eastern Governor.
-
-They said that a person who had come from France had claimed that he was a land and that such an act is currently underway.
-
-The Christian clergyman expressed his source of the issue of many people coming to the way.
-
-They also say that the Christian church and the preschool are banned due to the ban on the students' education.
-
-In 1982, we have set up legal settlements and are now claiming that one of the people of the area is worried that we have been blatantly claimed to be his land.
-
-They have been threatened with a few quarters that they have been informed of this and have been threatened by a few quarters.
-
-◼️
-
-[Data](articles/05b1492d.json)
-
-[Extended Data](ext_articles/05b1492d.ext.json)
-
----
-
-### Cuba agrees to provide expert knowledge for dengue control in Sri Lanka
-
-*2024-10-02 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102397/cuba-agrees-to-provide-expert-knowledge-for-dengue-control-in-sri-lanka) · `en`
-
-In a significant diplomatic engagement, the President of Sri Lanka Anura Kumara Dissanayake, has met with the Cuban Ambassador to Sri Lanka, Andres Marcelo Gonzales Gorrido, at the Presidential Secretariat this morning (02).
-
-The meeting focused on bolstering the longstanding diplomatic and friendly relations between the two countries, according to the President’s Media Division (PMD).
-
-During the cordial discussions, the Cuban Ambassador extended warm congratulations to President Dissanayake on his recent election victory.
-
-He praised the President’s leadership and expressed Cuba’s readiness to enhance cooperation with Sri Lanka, the PMD reported.
-
-Additionally, the Cuban government reaffirmed its continuous support for Sri Lanka’s efforts in combating dengue.
-
-Ambassador Gonzales highlighted Cuba’s success in dengue control and conveyed Cuba’s willingness to share expertise and collaborate on public health initiatives aimed at eradicating dengue in Sri Lanka.
-
-◼️
-
-[Data](articles/92d99d08.json)
-
-[Extended Data](ext_articles/92d99d08.ext.json)
-
----
-
-### Danish police investigate two blasts near Israel’s embassy in Copenhagen
-
-*2024-10-02 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102396/danish-police-investigate-two-blasts-near-israels-embassy-in-copenhagen) · `en`
-
-Danish police said on Wednesday they were investigating two blasts in the immediate vicinity of Israel’s embassy in the northern outskirts of Copenhagen.
-
-There were no injuries reported and it was too early to say how big the blasts had been, a police spokesperson told reporters at the scene.
-
-“It is clear that the Israeli embassy is in the immediate vicinity and that is naturally also an angle that we look at,” Deputy Assistant Commissioner Jakob Hansen of the Copenhagen police said.
-
-A large area was cordoned off, and pictures published by tabloid Ekstra Bladet showed heavily armed Danish military personnel guarding the embassy.
-
-Investigators were seen wearing coverall suits as they combed the scene for evidence, tabloid B.T. reported.
-
-The Israeli embassy was not immediately available for comment when contacted by Reuters.
-
-Several other embassies and consulates are also located in the area.
-
-◼️
-
-[Data](articles/c558aa82.json)
-
-[Extended Data](ext_articles/c558aa82.ext.json)
-
----
-
-### Here is the cause of the Ambassadors and High Commissioners of the President
-
-*2024-10-02 12:37:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අද-රටවල්-07ක-තානාපතිවරුන්--මහකොමසාරිස්වරුන්-හමුවෙන-හේතුව-මෙන්න/11-412272) · `si`
-
-President Anura Kumara Dissanayake meets ambassadors from 7 nations: Cuba, UK, Australia, Japan, Canada, India. Discusses strengthening bilateral relations.
-
-🟩
-
-President Anura Kumara Dissanayake is scheduled to meet with Ambassadors and High Commissioners of seven countries today (02).
-
-The current government's policy of strengthening bilateral relations with all countries, the President is scheduled to meet with foreign ambassadors and High Commissioners.
-
-Accordingly, representatives including Ambassadors, High Commissioners, High Commissioners, Canada, Canada and India will hold talks to Cuba, UK, Australia, Japan, Canada and India.
-
-◼️
-
-[Data](articles/a4455123.json)
-
-[Extended Data](ext_articles/a4455123.ext.json)
 
 ---

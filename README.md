@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 10:57:33**
+As of **2024-10-03 11:10:37**
 
 ## Newspaper Stats
 
-*Scraped **47,536** Articles*
+*Scraped **47,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,899
 dailyftlk | 3,209
-adalk | 4,394
+adalk | 4,395
 dailymirrorlk | 4,733
 adaderanalk | 5,590
 tamilmirrorlk | 6,396
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,221
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,536 (100.0%) of 47,536 articles have been extended.
+47,537 (100.0%) of 47,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -559,6 +559,28 @@ The driver of the three-year-old driver was injured and admitted to the Deniyaya
 [Data](articles/45f3034d.json)
 
 [Extended Data](ext_articles/45f3034d.ext.json)
+
+---
+
+### SLMC contests with education
+
+*2024-10-03 07:30:29* · [`adalk`](https://www.ada.lk/breaking_news/මුස්ලිම්-කොංග්‍රසය-සජබයට-එක්ව-තරග-කරයි/11-412282) · `si`
+
+Sri Lanka Muslim Congress (SLMC) contests with education. Former National Organizer focuses on competing in general elections. Nominations prepared under reconciliation power. SLMC supported presidential candidate in last election.
+
+🟩
+
+Former National Organizer of the Congress has focused on competing with the General Elections for the general election. Former MP's national organizer MS MP MS. Mr. Tuppick said.
+
+According to the National Organizer, nominations are being prepared to contest under the reconciliation power.
+
+The Sri Lanka Muslim Congress had assisted the presidential candidate of reconciliation in the last presidential election
+
+◼️
+
+[Data](articles/46b680a3.json)
+
+[Extended Data](ext_articles/46b680a3.ext.json)
 
 ---
 
@@ -2271,25 +2293,5 @@ The suspect had fled the area while he had complained to the incident.
 [Data](articles/76e5affe.json)
 
 [Extended Data](ext_articles/76e5affe.ext.json)
-
----
-
-### “Don't be afraid of relatives”
-
-*2024-10-02 17:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உறவினர்கள்-அஞ்ச-வேண்டாம்/175-344822) · `ta`
-
-"Don't fear relatives" - Sri Lankan envoy advises caution for citizens in Israel. Embassy monitors safety, verifies flights for travelers.
-
-🟩
-
-Sri Lankan Ambassador to Israel Nimal Bandara has said that the Sri Lankan embassy is actively monitoring the safety of Sri Lankans in Israel.
-
-He added that passengers who wish to come to Sri Lanka from Sri Lanka and passengers who want to travel to Sri Lanka from Israel should be verified that their flight is operated before they go to the airport.
-
-◼️
-
-[Data](articles/a7890933.json)
-
-[Extended Data](ext_articles/a7890933.ext.json)
 
 ---

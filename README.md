@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 17:39:36**
+As of **2024-10-03 17:59:51**
 
 ## Newspaper Stats
 
-*Scraped **47,604** Articles*
+*Scraped **47,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailyftlk | 3,209
 adalk | 4,402
 dailymirrorlk | 4,733
 adaderanalk | 5,600
-tamilmirrorlk | 6,415
+tamilmirrorlk | 6,416
 virakesarilk | 7,612
-adaderanasinhalalk | 8,235
+adaderanasinhalalk | 8,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,604 (100.0%) of 47,604 articles have been extended.
+47,606 (100.0%) of 47,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### A subsidy of Rs.25000 for farmers
+
+*2024-10-03 17:36:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளுக்கு-ரூ-25000-மானியம்/175-344877) · `ta`
+
+Rs.25,000 subsidy for farmers approved by President Anura Kumara Dissanayake. Secretary: QR Index system for fertilizer purchase; subsidy to be implemented via banking system. No restrictions on fertilizer subsidy distribution.
+
+🟩
+
+Secretary to the Ministry of Agriculture
+
+The resolution was reached during a discussion with President Anura Kumara Dissanayake today.
+
+“The President visited the Ministry of Agriculture this morning and went to review with the authorities. Farmers advised to implement the QR Index system for the purchase of fertilizer, obtaining the necessary information. Once it is completed, the amount will be implemented by the banking system, ”the secretary said.
+
+Therefore, there is no restriction on providing fertilizer subsidy, he said.
+
+◼️
+
+[Data](articles/6254963f.json)
+
+[Extended Data](ext_articles/6254963f.ext.json)
+
+---
+
+### Man dies after his arms repaired
+
+*2024-10-03 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201814) · `si`
+
+Student dies after bus crushes him during repair lesson. 17-year-old Chamaka Prabath Fernando killed when bus falls on him. Driver arrested. Victim was talented automotive student from economically struggling family.
+
+🟩
+
+A student who was studying the car techniques in the vehicle, a newspaper was subjected to the bus.
+
+Anamaduwa Police say that a student who was admitted to the Anamaduwa Base Hospital after being admitted to the Anamaduwa Industrial College, Anamaduwa Technical College.
+
+The victim is Chamaka Prabath Fernando, a 17-year-old student from the Mahawewa area in Anamaduwa.
+
+The student had been submerged by the bus, which was suddenly driven by the ground on the ground, suddenly driven by the bus.
+
+The victim has died after being admitted to the Anamaduwa Hospital.
+
+The eldest child, who was weighing his family with the aim of winning his life in the middle of severe economic hardship, was the oldest child.
+
+His care of his father and his mother, and younger brother, had lived in a charmic rental home.
+
+The teachers of the Technical College say that the charmic car technique is a student of its unique talent and said that he was planning to recruit for a job in the company.
+
+...
+
+[Data](articles/935ffc66.json)
+
+[Extended Data](ext_articles/935ffc66.ext.json)
+
+---
 
 ### SLFP to form alliance to contest General Election?
 
@@ -2441,41 +2497,5 @@ Herath assured that the new Government is committed to fulfilling the needs of t
 [Data](articles/84a8b405.json)
 
 [Extended Data](ext_articles/84a8b405.ext.json)
-
----
-
-### Gandhi Jayanti celebrations in Colombo
-
-*2024-10-03 05:11:22* · [`dailyftlk`](https://www.ft.lk/news/Gandhi-Jayanti-celebrations-in-Colombo/56-767492) · `en`
-
-Commemorating the 155th  birth anniversary of Mahatma Gandhi, Prime Minister of Sri Lanka Dr. Harini Amarasuriya and the High Commissioner of India to Sri Lanka Santosh Jha paid tributes to Mahatma Gandhi by garlanding his bust at the Prime Minister’s Office in Colombo yesterday.
-
-Following the ceremony, the High Commissioner called on the Prime Minister Dr. Amarasuriya.
-
-The bust was a gift from India in 2019, commemorating the 150th birth anniversary of Mahatma Gandhi. The 42 inches-tall bronze bust of Gandhiji in meditative pose was sculpted by Padma Bhushan Awardee Ram Vanji Sutar. Sutar also has to his credit the world’s tallest bronze statue of Sardar Vallabhbhai Patel in Kevadiya, Gujarat.
-
-Later in the day, a Gandhi Oration organised by the Sri Lanka India Society (SLIS) in collaboration with the Swami Vivekananda Cultural Centre, the cultural arm of the High Commission of India in Colombo, was delivered by former High Commissioner of Sri Lanka to India Austin Fernando.
-
-...
-
-[Data](articles/4476a56c.json)
-
-[Extended Data](ext_articles/4476a56c.ext.json)
-
----
-
-### Ranjan appeals to President Anura Dissanayake for restoration of civic rights
-
-*2024-10-03 05:10:40* · [`dailyftlk`](https://www.ft.lk/news/Ranjan-appeals-to-President-Anura-Dissanayake-for-restoration-of-civic-rights/56-767491) · `en`
-
-Actor-turned-politician Ranjan Ramanayake submitted a formal request to the Presidential Secretariat yesterday, appealing to President Anura Kumara Dissanayake to restore his civic rights. Ramanayake, who was conditionally pardoned in 2022 by former President Ranil Wickremesinghe following his conviction for contempt of court, expressed hope that President Dissanayake would grant him a full pardon.
-
-Speaking to the media, Ramanayake revealed that he had spoken to the President over the phone, who instructed him to submit the request for consideration. “The former President forgave me, but my mouth remains closed, preventing me from engaging in active politics. I am making a new appeal to the current President for my civic rights. Since I was not jailed for a crime, I believe I will be granted my request the former MP said.
-
-...
-
-[Data](articles/51b0f125.json)
-
-[Extended Data](ext_articles/51b0f125.ext.json)
 
 ---

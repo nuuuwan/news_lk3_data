@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 00:13:03**
+As of **2024-10-04 00:24:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,244
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,663 (100.0%) of 47,668 articles have been extended.
+47,668 (100.0%) of 47,668 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2350,6 +2350,8 @@ Apart from a few Sri Lankans who have been stranded and for whom the Embassy has
 
 [Data](articles/cf6ef723.json)
 
+[Extended Data](ext_articles/cf6ef723.ext.json)
+
 ---
 
 ### Arrested with a sword, manna kid
@@ -2417,6 +2419,8 @@ If a person was appointed as governor before 01.01.2015, he would get a pension 
 ...
 
 [Data](articles/5a3bfbc1.json)
+
+[Extended Data](ext_articles/5a3bfbc1.ext.json)
 
 ---
 
@@ -2499,6 +2503,8 @@ Dissanayake met with ministry officials after assuming office on Thursday (3).
 ...
 
 [Data](articles/cee2d4a8.json)
+
+[Extended Data](ext_articles/cee2d4a8.ext.json)
 
 ---
 

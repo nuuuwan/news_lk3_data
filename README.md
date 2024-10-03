@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 16:22:56**
+As of **2024-10-03 16:38:36**
 
 ## Newspaper Stats
 
-*Scraped **47,596** Articles*
+*Scraped **47,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
-adalk | 4,400
+adalk | 4,401
 dailymirrorlk | 4,733
-adaderanalk | 5,598
+adaderanalk | 5,599
 tamilmirrorlk | 6,413
 virakesarilk | 7,612
-adaderanasinhalalk | 8,233
+adaderanasinhalalk | 8,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,596 (100.0%) of 47,596 articles have been extended.
+47,596 (100.0%) of 47,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Gates Foundation commits to supporting govt’s digitization projects
+
+*2024-10-03 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102422/gates-foundation-commits-to-supporting-govts-digitization-projects) · `en`
+
+Mr. Chanditha Samaranayake, independent consultant of the Gates Foundation, met with the Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat this morning (03) and engaged in a discussion.
+
+The Gates Foundation’s projects related to upliftment of agriculture in Sri Lanka, improvement of children’s nutrition including provision of school lunch, development of human resources in the public and private sectors, livestock, climate change etc. were discussed at length, the President’s Media Division (PMD) said.
+
+Mr. Chanditha Samaranayake, who pointed out the importance of digitization for the implementation of the new government’s anti-corruption policy, also said that the Gates Foundation is ready to provide financial, technical and advisory support for the digitization projects implemented by the government.
+
+Senior Additional Secretary to the President Mr. Roshan Gamage also participated in the meeting, the PMD reported.
+
+◼️
+
+[Data](articles/1f652d82.json)
+
+---
+
+### රු 25,000ක පොහොර සහනාධාරය ලබාදිය හැකි බව කෘෂිකර්ම ලේකම් කියයි
+
+*2024-10-03 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201811) · `si`
+
+වී ගොවීන් සඳහා හෙක්ටයාරයකට රුපියල් 25,000ක පොහොර සහනාධාරය ලබාදීමේ කිසිදු ගැටලුවක් නොමැති බව කෘෂිකර්ම අමාත්‍යාංශයේ ලේකම් එම්. පී. එන්. එම්. වික්‍රමසිංහ මහතා අද (03) පැවසීය.
+
+අද පෙරවරුවේ ජනාධිපති අනුර කුමාර දිසානායක මහතා කෘෂිකර්ම අමාත්‍යාංශයට පැමිණ සියලුම නිලධාරීන් සමග ප්‍රගති සමාලෝචන සාකච්ඡාවක් පැවැත්වූ අතර ඉන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් එම්. පී. එන්. එම්. වික්‍රමසිංහ මහතා මේ බව පැවසීය.
+
+කෘෂිකර්ම, ඉඩම්, වාරිමාර්ග, පශු සම්පත්, ධීවර හා ජලජ සම්පත් අමාත්‍යාංශයේ ලේකම් එම්. පී. එන්. එම්. වික්‍රමසිංහ මහතා,
+
+"අද උදේ ජනාධිපතිතුමා කෘෂිකර්ම අමාත්‍යාංශයට පැමිණියා. සියලුම නිලධාරීන් සමග ප්‍රගති සමාලෝචන සාකච්ඡාවක් තිබ්බා. එහිදී ජනාධිපතිතුමා උපදෙස් දුන්නා ගොවීන්ට පොහොර මිලදී ගැනීමේදී  QR කේත ක්‍රමයක් සකස් කරන්න කියලා. එතකොට අපිට තොරතුරු වාර්තා වෙනවා. ඒ වාර්තා වූ සැනින් අදාළ මුදල බැංකු ගත කිරීමේ ක්‍රමයකට ඉදිරියේදී යනවා."
+
+...
+
+[Data](articles/ed68dbc9.json)
+
+---
 
 ### Demonstration against the murder of Children's Day
 
@@ -225,6 +261,18 @@ The arrested suspect is 38 years old from Wellaweeda.
 [Data](articles/9617db25.json)
 
 [Extended Data](ext_articles/9617db25.ext.json)
+
+---
+
+### කෙහෙළියගේ නඩුවක් ගැන අද ලැබුණු තීරණය මෙන්න
+
+*2024-10-03 15:02:04* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නඩුවක්-ගැන-අද-ලැබුණු-තීරණය-මෙන්න/11-412289) · `si`
+
+හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ලට එරෙහිව අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් ගොනුකළ නඩුව විභාගය සඳහා නොවැම්බර් මස 29 වනදා කැඳවන ලෙස කොළඹ මහාධිකරණය  නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/74c7d8dd.json)
 
 ---
 
@@ -2399,71 +2447,5 @@ Ambassador Mizukoshi lauded the President’s focus on eradicating corruption an
 [Data](articles/b7d67dca.json)
 
 [Extended Data](ext_articles/b7d67dca.ext.json)
-
----
-
-### Canadian High Commissioner calls on President
-
-*2024-10-03 04:38:14* · [`dailyftlk`](https://www.ft.lk/news/Canadian-High-Commissioner-calls-on-President/56-767485) · `en`
-
-Extends support for President’s anti-corruption and safety initiatives, IMF and debt restructuring process
-
-Canadian High Commissioner Eric Walsh yesterday called on President Anura Kumara Dissanayake.
-
-During the meeting, Ambassador Walsh extended his congratulations to the President on his recent election victory and conveyed the Canadian Government’s and its people’s best wishes.
-
-The High Commissioner highlighted corruption and the lack of safety as significant obstacles to attracting foreign investments. He expressed his appreciation for the President’s commitment to eradicating corruption and ensuring a secure environment in the country. Ambassador Walsh emphasised that with the proposed reforms, Sri Lanka would be better positioned to attract international investments. He also reaffirmed Canada’s support for Sri Lanka’s engagement with the International Monetary Fund (IMF) and the on-going debt restructuring process.
-
-◼️
-
-[Data](articles/65fe39f6.json)
-
-[Extended Data](ext_articles/65fe39f6.ext.json)
-
----
-
-### British envoy conveys UK’s best wishes and support to new President
-
-*2024-10-03 04:36:06* · [`dailyftlk`](https://www.ft.lk/news/British-envoy-conveys-UK-s-best-wishes-and-support-to-new-President/56-767484) · `en`
-
-The British High Commissioner Andrew Patrick yesterday made a courtesy call on President Anura Kumara Dissanayake.
-
-The visit marked an important step in reinforcing the strong diplomatic relations between the two countries. During the meeting, High Commissioner Patrick congratulated President Dissanayake on his recent election and conveyed the British Government’s best wishes for his tenure. He also conveyed personal congratulations and warm wishes from King Charles III and the Prime Minister of Britain, Sir Keir Starmer expressing their goodwill for the President’s leadership.
-
-The High Commissioner expressed the British Government’s strong support for Sri Lanka’s efforts to attract Foreign Direct Investments (FDIs) and emphasised the importance of collaboration in the education sector. He also conveyed the UK’s support towards the IMF program and the debt restructuring process.
-
-◼️
-
-[Data](articles/55487a6a.json)
-
-[Extended Data](ext_articles/55487a6a.ext.json)
-
----
-
-### We will never accommodate the creation of the federal regime - Roshan Ranasinghe
-
-*2024-10-03 03:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195357) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Roshan Ranasinghe opposes federal system, supports President Dissanayake's decisions for national welfare. He criticizes corruption in previous government, discusses upcoming elections strategy.
-
-🟩
-
-We will provide unconditional cooperation to the best decisions taken by President Anura Kumara Dissanayake for the welfare of the country. Homeland People's Party leader Roshan Ranasinghe said that there was never a place to create a federal system that would divide the country.
-
-Former Parliamentarian Roshan Ranasinghe, former MP Sanna Jayasumana as the leader of the homeland People's Party led by businessman Dilith Jayaweera, and former MP Sanna Jayasumana and former parliamentarian Milan Jayatilaka Gampaha district coordinator were appointed by Thilathi Jayaweera on Wednesday.
-
-Roshan Ranasinghe said during a media briefing held at the Mother's Leadership Office on Wednesday (2) following the appointment.
-
-I am well aware of businessman Dilith Jayaweera. He has advanced by his labor.. I was expelled from our government because they voiced against corruption.
-
-...
-
-[Data](articles/64c085ba.json)
-
-[Extended Data](ext_articles/64c085ba.ext.json)
 
 ---

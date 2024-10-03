@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 12:13:25**
+As of **2024-10-03 12:24:37**
 
 ## Newspaper Stats
 
-*Scraped **47,558** Articles*
+*Scraped **47,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,903
 dailyftlk | 3,209
 adalk | 4,397
 dailymirrorlk | 4,733
-adaderanalk | 5,592
-tamilmirrorlk | 6,404
+adaderanalk | 5,593
+tamilmirrorlk | 6,405
 virakesarilk | 7,599
 adaderanasinhalalk | 8,226
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,226
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,557 (100.0%) of 47,558 articles have been extended.
+47,557 (100.0%) of 47,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### கெஹலியவுக்கு எதிரான வழக்கு ஒத்திவைப்பு
+
+*2024-10-03 12:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவுக்கு-எதிரான-வழக்கு-ஒத்திவைப்பு/175-344866) · `ta`
+
+முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல மற்றும் அரச அச்சக கூட்டுத்தாபனத்தின் முன்னாள் தலைவர் ஜயம்பதி ஹீன்கெந்த ஆகியோருக்கு எதிராக இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்யும் ஆணைக்குழுவினால் தாக்கல் செய்யப்பட்ட வழக்கை நவம்பர் மாதம் 29ஆம் திகதி விசாரணைக்கு எடுத்துக்கொள்ள கொழும்பு மேல் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இந்த வழக்கு வியாழக்கிழமை (03) கொழும்பு மேல் நீதிமன்ற நீதிபதி சுஜீவ நிஷங்க முன்னிலையில் அழைக்கப்பட்டிருந்தது.
+
+இதன்போது  முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல நீதிமன்றத்தில் ஆஜரானாதோடு குறித்த வழக்கை ஏற்கனவே திட்டமிட்டபடி நவம்பர் மாதம் 29-ம் திகதி விசாரிக்க கொழும்பு மேல் நீதிமன்ற நீதிபதி உத்தரவிட்டார்.
+
+...
+
+[Data](articles/bee0a5fd.json)
+
+---
 
 ### Elephant - Significant decrease in human conflict incidents
 
@@ -67,6 +83,18 @@ The Election Commission of Sri Lanka says that steps will be taken to hold the L
 [Data](articles/0577f377.json)
 
 [Extended Data](ext_articles/0577f377.ext.json)
+
+---
+
+### LG Elections to be held soon after parliamentary polls
+
+*2024-10-03 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102417/lg-elections-to-be-held-soon-after-parliamentary-polls) · `en`
+
+The Election Commission of Sri Lanka says that steps will be taken to hold the Local Government Elections, in compliance with the Supreme Court order, as soon as the upcoming General Election is concluded.
+
+◼️
+
+[Data](articles/dfff1ba9.json)
 
 ---
 
@@ -2273,43 +2301,5 @@ The two sides reviewed the project between the International Monetary Fund and S
 [Data](articles/42985c4f.json)
 
 [Extended Data](ext_articles/42985c4f.ext.json)
-
----
-
-### All party gas cylinder supported Ranil to contest general
-
-*2024-10-02 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201781) · `si`
-
-Ranil Wickremesinghe contested elections with support from all political parties under a new democratic alliance. Gas cylinders were used as symbols in the election campaign.
-
-🟩
-
-පසුගිය ජනාධිපතිවරණයේදී රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වූ සියලුම දේශපාලන පක්ෂ ඉදිරි මහ මැතිවරණයට නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ යටතේ ගෑස් සිලින්ඩරය ලකුණින් තරග කිරීමට එකඟවී තිබේ.
-
-◼️
-
-[Data](articles/709a96b6.json)
-
-[Extended Data](ext_articles/709a96b6.ext.json)
-
----
-
-### Parties that backed Ranil to contest general election under ‘Gas Cylinder’ symbol
-
-*2024-10-02 21:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102408/parties-that-backed-ranil-to-contest-general-election-under-gas-cylinder-symbol) · `en`
-
-All political parties that supported former President Ranil Wickremesinghe at the recent Presidential Election are to contest the upcoming General Election under the New Democratic Front (NDF), with the ‘Gas Cylinder’ as their symbol.
-
-Former President Wickremesinghe had also contested the recent presidential election under the symbol of the ‘Gas Cylinder’, albeit as an independent candidate.
-
-Political sources told Ada Derana, earlier today, that former MPs who supported Wickremesinghe are preparing to contest the upcoming General Election under either the ‘elephant’ symbol or another common symbol.
-
-It was reported that the opinion of the Election Commission had been sought to obtain the ‘Gas Cylinder’ symbol and that a final decision was to be taken after the commission’s decision is conveyed.
-
-...
-
-[Data](articles/92660bd0.json)
-
-[Extended Data](ext_articles/92660bd0.ext.json)
 
 ---

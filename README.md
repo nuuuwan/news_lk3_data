@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-03 14:57:54**
+As of **2024-10-03 15:23:33**
 
 ## Newspaper Stats
 
-*Scraped **47,585** Articles*
+*Scraped **47,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ colombotelegraphcom | 473
 islandlk | 2,797
 economynextcom | 2,903
 dailyftlk | 3,209
-adalk | 4,399
+adalk | 4,400
 dailymirrorlk | 4,733
 adaderanalk | 5,598
-tamilmirrorlk | 6,410
-virakesarilk | 7,607
+tamilmirrorlk | 6,412
+virakesarilk | 7,608
 adaderanasinhalalk | 8,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,585 (100.0%) of 47,585 articles have been extended.
+47,589 (100.0%) of 47,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-03 (Thursday)
+
+### Rs 1 crore robbery in Jaffna: two arrested
+
+*2024-10-03 14:59:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-ரூ-1-கோடி-கொள்ளை-இருவர்-கைது/71-344873) · `ta`
+
+Jaffna robbery: Two suspects arrested for stealing Rs 1 crore from a man returning home. Police recovered stolen money and phone. Case filed at Mallakam Magistrate's Court.
+
+🟩
+
+Police have arrested two suspects for allegedly robbing a man who had been returning home with a money of Rs.
+
+A person from Sanguveli area recently lives abroad, recently visited Jaffna. He was returning home with the money he sold his land on Wednesday (02).
+
+The two men who had been following a motorcycle had been attacked on the street and robbed him of money, passports and a mobile phone worth Rs.
+
+The police were conducting investigations after lodging a complaint at the Manipay police station.
+
+On the basis of the confidential information received by the police that the suspects were hidden in the area, the police have arrested two men who rushed to the scene.
+
+They have also recovered robbery of money and mobile phone from the arrested.
+
+The police have taken steps to the Mallakam Magistrate's Court.
+
+◼️
+
+[Data](articles/a3f08cad.json)
+
+[Extended Data](ext_articles/a3f08cad.ext.json)
+
+---
+
+### We will be supporting public servants who dedicated to the creation of a repetitive people's welfare service - the President
+
+*2024-10-03 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195391) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake vows to support public servants creating welfare services, ending political retaliation against officials striving for citizen benefits. He emphasizes eradicating rural poverty and improving public service efficiency.
+
+🟩
+
+We will support the public servants who dedicate themselves to create a public welfare public service. President Anura Kumara Dissanayake has said that even though the state officials who strive for citizens face political revenge, the custom will no longer continue.
+
+The President said this during a discussion with the officials of the Ministry after taking over the duties on Thursday morning (03) as Minister of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources.
+
+He discussed the current situation of the Ministry of Agriculture and future activities with the President, Secretaries of the Ministry and top officials of the Ministry.
+
+The President pointed out that the contribution to the Ministry of Agriculture to eradicate rural poverty is immense and whether or not poverty will be eradicated in accordance with the activities of state officials.
+
+...
+
+[Data](articles/92cda851.json)
+
+[Extended Data](ext_articles/92cda851.ext.json)
+
+---
+
+### Maithri's son joined Dilith
+
+*2024-10-03 14:48:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-புதல்வர்-திலித்துடன்-இணைந்தார்/175-344872) · `ta`
+
+Maithri's son joins Dilith. Former MP Rajika Wickremesinghe and ex-president's son Daham Sirisena join MJP. Appointed district organizers for Kegalle and Polonnaruwa.
+
+🟩
+
+Former parliamentarian Rajika Wickremesinghe and former president's son Daham Sirisena joined the party in support of Dilith Jayaweera.
+
+They have been appointed as the Maubima Janata Party (MJP) and the district organizers of the Kegalle and Polonnaruwa district respectively.
+
+◼️
+
+[Data](articles/09f6ee45.json)
+
+[Extended Data](ext_articles/09f6ee45.ext.json)
+
+---
 
 ### Ali Sabri returned to the old business
 
@@ -62,15 +140,19 @@ He served as the Minister of Justice and Foreign Affairs under former government
 
 *2024-10-03 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102421/daham-sirisena-and-rajika-wickremesinghe-join-mjp) · `en`
 
-Former MP Rajika Wickremesinghe and Daham Sirisena joined the Mawbima Janatha Party (MJP) led by entrepreneur Dilith Jayaweera today (03).
+Former MP Rajika Wickremesinghe and Daham Sirisena joined the Mawbima Janatha Party (MJP) led by entrepreneur Dilith Jayaweera.
 
-Wickremesinghe and Sirisena have been appointed MJP District Organisers for Kegalle and Polonnaruwa districts respectively.
+hye received their letters of appointment from party leader Dilith Jayaweera at the MJP head office in Colombo today (03).
+
+Rajika Wickremesinghe has been appointed as the MJP’s Kegalle District Organisers and Dedigama electorate organizer while Daham Sirisena has been appointed Polonnaruwa District Organiser.
+
+Meanwhile, Chamindu Kumarasinghe has been appointed as the Polonnaruwa District Coordinator andThakshila Premasiri as organiser for Udunuwara, Kandy.
 
 Daham is the son of former Polonnaruwa District Parliamentarian and former President Maithripala Sirisena.
 
 He had previously served as the Sri Lanka Freedom Party (SLFP) electoral organizer for Polonnaruwa West and as President of the Polonnaruwa District SLFP Youth League.
 
-Rajika Wickremesinghe is a former Member of Parliament of the Sri Lanka Podujana Peramuna (SLPP).
+Rajika Wickremesinghe is a former National List Member of Parliament of the Sri Lanka Podujana Peramuna (SLPP).
 
 ◼️
 
@@ -475,6 +557,34 @@ Former minister Keheliya Rambukwella and former chairman of the State Printing C
 [Data](articles/8b079404.json)
 
 [Extended Data](ext_articles/8b079404.ext.json)
+
+---
+
+### 15 breast cancer patients per day
+
+*2024-10-03 12:20:21* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවෙන්-දිනකට-පියයුරු-පිළිකා-රෝගින්-15ක්/11-412287) · `si`
+
+Here's a 200-character summary:
+
+
+
+Breast cancer awareness month: 15 daily cases. Event educates public. National program collaborates with health ministry, police, NGOs. Screening recommended for women 20+. 2.3 million cases reported in Sri Lanka. Early detection key to cure.
+
+🟩
+
+October, October is especially regarded as a rose to educate breast cancer. A special march and a special event was held at the Health Ministry Secretary Medical Palitha Mawkala as well as a special event to educate the society in breast cancer.
+
+"Identify. Let's take treatment. Let's be overcome.. A special event was held to educate the public.
+
+The event was organized by the National Cancer Prevention Program of the Ministry of Health and collaborated with the Sri Lankan police, civil organizations, government institutions and private institutions.
+
+The Ministry of Health requests the public every month after 20 years of age and over the age of 20 to 40 years and for 40 years and for 40 years.
+
+...
+
+[Data](articles/44d2b3d4.json)
+
+[Extended Data](ext_articles/44d2b3d4.ext.json)
 
 ---
 
@@ -2319,101 +2429,5 @@ US Ambassador Julie Sung has said that the US is still dedicated to support the 
 [Data](articles/f1202cc4.json)
 
 [Extended Data](ext_articles/f1202cc4.ext.json)
-
----
-
-### Ready to support Sri Lanka in all ways
-
-*2024-10-03 00:48:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இலங்கைக்கு-சகல-வழிகளிலும்-ஆதரவளிக்க-தயார்/150-344843) · `ta`
-
-India supports Sri Lanka's development, emphasizing digitalization and anti-corruption efforts.
-
-🟩
-
-The meeting between President Anura Kumara Dissanayake and Indian High Commissioner to Sri Lanka Santosh Ja was held yesterday at the Presidential Office.
-
-He said that the Indian High Commissioner congratulated Dissanayake's victory in the last presidential election and said that India is ready to support Sri Lanka's development activities in all ways and that Sri Lanka is looking for a peaceful and stable country in the region.
-
-The Indian High Commissioner, who commemorates the long -standing friendship and intimacy between India and Sri Lanka, emphasized the importance of continuing and sustainable maintenance between the two countries as neighboring brothers and countries.
-
-Pointing to the importance of digitalizing government structures to effectively fighting corruption, the Indian High Commissioner praised the anti -corruption program underlined in the President's Policy Declaration.
-
-...
-
-[Data](articles/fe0bd908.json)
-
-[Extended Data](ext_articles/fe0bd908.ext.json)
-
----
-
-### China provides full cooperation to Sri Lanka
-
-*2024-10-03 00:40:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-சீனா-முழு-ஒத்துழைப்பை-வழங்கும்/175-344842) · `ta`
-
-China supports Sri Lanka's development, cooperating on future projects and strengthening bilateral ties.
-
-🟩
-
-Chinese Ambassador Gee.Shenhong said China will cooperate with Sri Lanka's future activities.
-
-The Ambassador of the People's Republic of China, K. Shenhong, met with President Anura Kumara Dissanayake yesterday morning.
-
-At the meeting held at the Presidential Office, the Ambassador congratulated President Anura Kumara Dissanayake's election victory and promised to fully cooperate with China to cooperate with the future activities of Sri Lanka and to further strengthen bilateral relations with the China government.
-
-He also pointed out the importance of the programs that are currently being carried out on the basis of cooperation in Sri Lanka and the effective interventions of the Chinese Development Bank and the EXIM Bank to cooperate with Sri Lanka's development activities.
-
-...
-
-[Data](articles/124cb257.json)
-
-[Extended Data](ext_articles/124cb257.ext.json)
-
----
-
-### Sri Lankans are safe in Israel
-
-*2024-10-03 00:30:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஸ்ரேலில்-இலங்கையர்-பாதுகாப்பாகவுள்ளனர்/175-344841) · `ta`
-
-Sri Lankans in Israel unaffected by Iran's missile attacks. Embassy confirms safety. Ambassador monitoring situation.
-
-🟩
-
-The Sri Lankan embassy for the country has said that Iran's missile attacks on Israel have not been affected by the Sri Lankan people living there.
-
-Sri Lanka's Ambassador Nimal Bandara said that the people of Sri Lanka are still monitoring the people of Sri Lanka.
-
-The Sri Lankan Ambassador to Israel said that all Israel's activities are underway.. (A)
-
-◼️
-
-[Data](articles/6d2e19c8.json)
-
-[Extended Data](ext_articles/6d2e19c8.ext.json)
-
----
-
-### IMF - Government Discussion
-
-*2024-10-03 00:20:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-அரசாங்கம்-கலந்துரையாடல்/175-344840) · `ta`
-
-IMF delegation visits Sri Lanka to discuss new government's projects and review $2.9 billion extended financial facility progress. Meeting held at Presidential Office, focusing on future operations and reforms. IMF representatives praise new government's initiatives and express positive attitude towards Sri Lanka's economic stability efforts.
-
-🟩
-
-A high -level committee of the International Monetary Fund visited Sri Lanka yesterday to investigate the future project of the new government led by President Anura Kumara Dissanayake, which is in conjunction with the International Monetary Fund.
-
-IMF. The purpose of this visit is to investigate the progress of the project and the fourth installment of the $ 2.9 billion extended financial facility.
-
-Accordingly, the IMF. The meeting between the delegation and the new government's IMF for talks was held at the Presidential Office yesterday afternoon.
-
-Both sides reviewed the project between the International Monetary Fund and Sri Lanka and commented on its future operations.
-
-Representatives of the International Monetary Fund have congratulated the new reforms in the country under the current government and increased the positive attitude towards Sri Lanka.
-
-...
-
-[Data](articles/85c90b81.json)
-
-[Extended Data](ext_articles/85c90b81.ext.json)
 
 ---

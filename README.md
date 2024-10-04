@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 15:22:55**
+As of **2024-10-04 15:38:48**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 8,257
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,769 (100.0%) of 47,773 articles have been extended.
+47,773 (100.0%) of 47,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
 
-### කෙහෙළියට සහ පවුලේ අයට පැනවූ තහනමක් දීර්ඝ කෙරේ
+### The Keheliya and his family imposed refuge
 
 *2024-10-04 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201836) · `si`
 
-අල්ලස් කොමිසම විසින් සිදුකරනු ලබන විමර්ශනයකට අදාළව හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල හා ඔහුගේ පවුලේ සාමාජිකයින්ට අයත් බැංකු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු කිහිපයක් අත්හිටුවමින් නිකුත් කර තිබූ නියෝගය තවදුරටත් දීර්ඝ කිරීමට කොළඹ මහාධිකරණය අද(04) නියම කර තිබේ.
+Colombo High Court extends order against Keheliya Rambukwella's family bank accounts and assets due to Bribery Commission investigation. Suspension continues until January 4th.
 
-අල්ලස් කොමිසම විසින් කරන ලද ඉල්ලීමක් සලකා බැලූ කොළඹ මහාධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+🟩
 
-මීට පෙර අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකා බැලූ කොළඹ මහාධිකරණය කෙහෙළිය රඹුක්වැල්ල සහ ඔහුගේ පවුලේ සාමාජිකයින්ට අයත් බැංකු ගිණුම් 16ක් සහ ජීවිත රක්ෂණ ඔප්පු 05ක් අත්හිටුවමින් අද දින තෙක් බලපැවැත්වෙන පරිදි නියෝගයක් නිකුත් කර තිබුණි.
+The Colombo High Court today (04) has been prolonged to extend the order issued by former Minister Keheliya Rambukwella and his family with bank accounts and lives belonging to a investigation made by the Bribery Commission.
 
-ඒ අනුව අද දින අල්ලස් කොමිසම කළ ඉල්ලීම සලකා බැලූ මහාධිකරණය එම අත්හිටුවීමේ නියෝගය ලබන ජනවාරි මස 04 වනදා දක්වා තවදුරටත් දීර්ඝ කරන ලෙස නියම කළේය.
+The Colombo High Court issued the order considered a request made by the Bribery Commission.
+
+Considering a request made by the Bribery Commission, the Colombo High Court had issued 16 bank accounts of his family and five lives were suspended.
+
+Accordingly, the High Court of Bribery Commission today (was) further conditioned the suspension order until January 04.
 
 ◼️
 
 [Data](articles/f3d4c3c4.json)
+
+[Extended Data](ext_articles/f3d4c3c4.ext.json)
 
 ---
 
@@ -70,21 +76,29 @@ This helped the Sri Lankan companies “to network and gain exposure to the comp
 
 [Data](articles/ba7715aa.json)
 
+[Extended Data](ext_articles/ba7715aa.ext.json)
+
 ---
 
-### வயோதிப தம்பதி வெட்டிக்கொலை
+### Elderly couple
 
 *2024-10-04 14:59:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயோதிப-தம்பதி-வெட்டிக்கொலை/175-344918) · `ta`
 
-வீடொன்றில் இருந்த தம்பதி வெட்டிக்கொலை செய்யப்பட்டுள்ளதாக அஹங்கம பொலிஸார் தெரிவித்தனர். அஹங்கம, வல்ஹெங்கொட பிரதேசத்தில் உள்ள வீடொன்றில் இருந்தே இவ்விருவரின் சடலங்களும் மீட்கப்பட்டுள்ளன.
+Elderly couple found hacked to death in Ahangama. Bodies discovered in Walhengoda area. Daughter pregnant, away seeking medical care. Father received suspicious phone call before incident. Neighbors reported finding victims after daughter's visit.
 
-தம்பதியின் மகள் கர்ப்பிணியாவார். அவர், சிகிச்சைக்காக வெள்ளிக்கிழமை (04) காலை வீட்டில் இருந்து கொழும்பு சென்றுள்ளார். தந்தைக்கு மகள் தொலைபேசி அழைப்பு எடுத்துள்ளார். எவ்விதமான பதிலும் இல்லை. அதனையடுத்தே பக்கத்து வீட்டாருக்கு அழைப்பு எடுத்துள்ளார்.
+🟩
 
-அவர்கள், இந்த தம்பதியின் வீட்டுக்குச் சென்று பார்த்த போது, ​​வீட்டுக்குள் தம்பதியர் கழுத்தை அறுத்து கொலை செய்யப்பட்டிருப்பது ​தெரியவந்தது.
+Ahangama police said the couple had been hacked to death in a house. The bodies of the two have been recovered from a house in the Walhengoda area of ​​Ahangama.
+
+The daughter of the couple is pregnant. He has traveled from home to Colombo on Friday morning (04) for treatment. The father has taken the phone call to the father. There is no response. He has since been invited to the neighbor.
+
+When they visited the couple's house, it was revealed that the couple had been hacked to death.
 
 ◼️
 
 [Data](articles/6855057a.json)
+
+[Extended Data](ext_articles/6855057a.ext.json)
 
 ---
 
@@ -628,25 +642,31 @@ Further investigations are being carried out by the Rambukkanai police.
 
 ---
 
-### ඉන්දිය විදෙස් ඇමති එයි
+### Indian foreign minister comes
 
 *2024-10-04 11:47:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දිය-විදෙස්-ඇමති-එයි/11-412308) · `si`
 
-ඉන්දීය විදේශ කටයුතු පිළිබඳ අමාත්‍ය ආචාර්ය සුබ්‍රමනියම් ජයශංකර් මහතා එක් දින ශ්‍රී ලංකා නිල සංචාරයක් සදහා 10/04 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
+Indian Foreign Minister Dr. Subramaniam Jayasankar arrives in Sri Lanka on April 10th. He's accompanied by 8 officials from the Ministry of External Affairs. Indian High Commissioner Sanantha Raman and Sri Lankan officials greet him at Katunayake Airport. Journalists are not allowed to cover the event. The delegation departs at 6 pm on April 6th.
 
-ඔහු සමග දූත පිරිස ලෙස සහභාගී වීම සදහා තවත් එරට විදේශ කටයුතු අමාත්‍යාංශයේ උසස් නිලධාරීන් 08 දෙනෙකු ද පැමිණ සිටියහ .
+🟩
 
-ඔවුන් 10/04 දින උදෑසන 10.15 ට ඉන්දියාවේ නවදිල්ලි නුවර සිට ඉන්දීය ගුවන් හමුදාවට ( Indian Air Force ) අයත් අයි.එෆ්.සී.- 34 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+Indian External Affairs Minister Dr. Subramaniam Jayasankur arrived at the Katunayake Airport on 10/04 days on a Sri Lankan official visit to Sri Lanka.
 
-මෙම පිරිස පිළිගැනීම සදහා ශ්‍රී ලංකාවේ ඉන්දීය මහකොමසාරිස් සන්තෝෂ් ජා මහතා ඇතුළු ඉන්දීය මහකොමසාරිස් කාර්යාලයේ නිලධාරීන් පිරිසක් සහ ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන් පිරිසක් ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+Another eight high officials of the Ministry of External Affairs were also present to attend him as the delegation.
 
-මෙම අවස්ථාව ආවරණය කිරීම සදහා මාධ්‍යවේදීන් හට අවස්ථාව ලබා දී නොතිබුණි .
+They belong to the Indian Air Force from New Delhi, India, from New Delhi, India, from New Delhi, India.
 
-ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා ඇතුළු පිරිස , ශ්‍රී ලංකා  සිය එක් දින නිල සංචාරය නිමා කර 10/04 දින සවස 06.00 ට පමණ කටුනායක ගුවන් තොටුපොළෙන් , ඔවුන් පැමිණි ගුවන් යානයෙන්ම ආපසු ඉන්දියාවේ නවදිල්ලි නුවර බලා පිටත්ව යාමට නියමිතය .
+Indian High Commissioner Sanantha Raman and a group of officials of the Indian High Commission and the Sri Lanka External Affairs Ministry officials were also present at the Katunayake airport.
+
+Journalists were not given the opportunity to cover this opportunity.
+
+The Indian Foreign Minister and the people will leave the Katunayake airport at the Katunayake airport at Katunayake at 6/04 pm on the Katunayake airport, Katunayake.
 
 ◼️
 
 [Data](articles/f15e10f5.json)
+
+[Extended Data](ext_articles/f15e10f5.ext.json)
 
 ---
 

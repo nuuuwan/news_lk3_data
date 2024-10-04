@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 23:38:53**
+As of **2024-10-05 00:12:52**
 
 ## Newspaper Stats
 
-*Scraped **47,846** Articles*
+*Scraped **47,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 394
 bbccomsinhala | 473
 colombotelegraphcom | 474
 islandlk | 2,813
-economynextcom | 2,934
+economynextcom | 2,935
 dailyftlk | 3,222
 adalk | 4,425
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,841 (100.0%) of 47,846 articles have been extended.
+47,847 (100.0%) of 47,847 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -580,6 +580,26 @@ Former minister Nimal Siripala de Silva said this will be held this afternoon.
 
 ### Sri Lanka new govt to go ahead with ISB deal, Citigroup to manage exchange
 
+*2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-to-go-ahead-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
+
+ECONOMYNEXT – Sri Lanka will go ahead with a restructure of international sovereign bonds, with final confirmation having come from both the International Monetary Fund and the Official Creditor Committee.
+
+Sri Lanka said the International Monetary Fund had earlier gave informal confirmation that the sovereign bond agreement in principle (AIP) with the local option was in line with the debt sustainability parameters.
+
+“Following the Presidential Elections held in Sri Lanka on Saturday 21st September and the appointment of the new government on 24th of September, the Sri Lanka authorities confirm their endorsement of the program debt targets and the AIP terms as announced on 19th September and confirm their intention to expedite the implementation of the ISBs restructuring transaction in line with these terms.”
+
+Citigroup Global Markets has been appointed to manage the bond exchange which is expected to conclude in about 10 weeks.
+
+...
+
+[Data](articles/46b9f982.json)
+
+[Extended Data](ext_articles/46b9f982.ext.json)
+
+---
+
+### Sri Lanka new govt to go ahead with ISB deal, Citigroup to manage exchange
+
 *2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-to-go-head-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
 
 ECONOMYNEXT – Sri Lanka will go ahead with a restructure of international sovereign bonds, with final confirmation having come from both the International Monetary Fund and the Official Creditor Committee.
@@ -958,6 +978,8 @@ The visiting Indian official also tweeted that he appreciates Premadasa’s cont
 
 [Data](articles/65609bfc.json)
 
+[Extended Data](ext_articles/65609bfc.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes flat at 294.0/35 to dollar, bond yields up
@@ -985,6 +1007,8 @@ A bond maturing on 15.05.2030 closed at 12.15/25 percent, 12.10/30 percent. (Col
 ◼️
 
 [Data](articles/a4df08f5.json)
+
+[Extended Data](ext_articles/a4df08f5.ext.json)
 
 ---
 
@@ -1160,6 +1184,8 @@ Melstacorp was up 1.30 rupees at 86.40, Lion Brewery closed down 5 rupees at 994
 
 [Data](articles/e35c81ef.json)
 
+[Extended Data](ext_articles/e35c81ef.ext.json)
+
 ---
 
 ### Skirberg, second, only the muscle
@@ -1273,6 +1299,8 @@ Jaishankar the first foreign dignitary outside the country to meet Dissanayake a
 ...
 
 [Data](articles/ccdd9805.json)
+
+[Extended Data](ext_articles/ccdd9805.ext.json)
 
 ---
 
@@ -1517,6 +1545,8 @@ The IMF itself gave technical assistance to calculate potential output.
 ...
 
 [Data](articles/a0ff3eb4.json)
+
+[Extended Data](ext_articles/a0ff3eb4.ext.json)
 
 ---
 
@@ -2409,23 +2439,5 @@ In the early hours of Thursday (02), the student made a wrong decision and died 
 [Data](articles/4b5c12ce.json)
 
 [Extended Data](ext_articles/4b5c12ce.ext.json)
-
----
-
-### There was no change in gas prices in October;Lap company
-
-*2024-10-04 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195446) · `ta`
-
-No change in gas prices in October, according to Lap company CEO Niroshan J. Peiris.
-
-🟩
-
-Niroshan J.. Peiris said.
-
-◼️
-
-[Data](articles/568e8459.json)
-
-[Extended Data](ext_articles/568e8459.ext.json)
 
 ---

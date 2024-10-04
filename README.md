@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 01:08:13**
+As of **2024-10-05 01:23:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,859 (100.0%) of 47,861 articles have been extended.
+47,861 (100.0%) of 47,861 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -252,6 +252,8 @@ It’s time for the other party leaders to walk the talk and stop playing blame 
 
 [Data](articles/79fdf480.json)
 
+[Extended Data](ext_articles/79fdf480.ext.json)
+
 ---
 
 ### Ranil Wickremesinghe: A courageous gentleman in times of crisis
@@ -261,6 +263,8 @@ It’s time for the other party leaders to walk the talk and stop playing blame 
 ◼️
 
 [Data](articles/5c7235b5.json)
+
+[Extended Data](ext_articles/5c7235b5.ext.json)
 
 ---
 

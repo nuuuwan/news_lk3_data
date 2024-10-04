@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 07:26:07**
+As of **2024-10-04 08:43:03**
 
 ## Newspaper Stats
 
-*Scraped **47,699** Articles*
+*Scraped **47,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,185 @@ newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 470
 colombotelegraphcom | 473
-islandlk | 2,806
+islandlk | 2,808
 economynextcom | 2,918
 dailyftlk | 3,222
 adalk | 4,412
 dailymirrorlk | 4,733
-adaderanalk | 5,604
-tamilmirrorlk | 6,427
+adaderanalk | 5,606
+tamilmirrorlk | 6,433
 virakesarilk | 7,632
-adaderanasinhalalk | 8,245
+adaderanasinhalalk | 8,246
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,686 (100.0%) of 47,699 articles have been extended.
+47,708 (100.0%) of 47,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### The nomination process is the beginning of today
+
+*2024-10-04 08:17:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனு-கையேற்பு-இன்று-முதல்-ஆரம்பம்/175-344907) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Nominations open until 12 noon on 11th. Election Commission announcement marks start of process. Candidates have limited time to submit applications.
+
+🟩
+
+Accordingly, the Elections Commission said that nominations can be submitted until 12 noon on the 11th of this month.. (A)
+
+◼️
+
+[Data](articles/95428d84.json)
+
+[Extended Data](ext_articles/95428d84.ext.json)
+
+---
+
+### Many vehicles magic;One month is required
+
+*2024-10-04 08:13:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-வாகனங்கள்-மாயம்-ஒரு-மாத-காலம்-தேவை/175-344906) · `ta`
+
+National Audit Office investigates Presidential Secretariat, Ministries, State Institutions over vehicle ownership. Detailed inquiries expected to take one month. Audit officers face challenges due to lack of information on many vehicles. Report to focus on improper acceptance of non-company-owned vehicles and lack of proper practices.
+
+🟩
+
+According to sources in the National Audit Office, it will take about a month of detailed inquiries into the Presidential Secretariat, Ministries and State Institutions.
+
+Each company -related statements are made separately and then the overall report will be prepared.
+
+The National Audit Office started these investigations last week. According to the current investigations, there are no information on a large number of vehicles.
+
+As a result, the audit officers of the investigation are very inconvenienced. In addition, the law should be implemented against the authorities who have accepted vehicles that are not owned by their company and the authorities who have accepted vehicles without proper practice.. Remble
+
+◼️
+
+[Data](articles/63f3765f.json)
+
+[Extended Data](ext_articles/63f3765f.ext.json)
+
+---
+
+### Emergency alarm
+
+*2024-10-04 08:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோருக்கு-விடுக்கப்பட்ட-அவசர-எச்சரிக்கை/175-344905) · `ta`
+
+Influenza cases rising: Health dept advises masking symptomatic children. Hand, Foot & Mouth Disease also prevalent. Dr. Deepal Perera recommends adhering to proper health guidelines to prevent spread.
+
+🟩
+
+The health department is asking parents that children with influenza symptoms are more likely to be reported in these days, so that children with those symptoms need to wear facial expressions.
+
+Meanwhile, Children with Hand, Foot and Mouth Disease are also reported in these days, so child health doctor Dr. Deepal Perera points out that children can protect children by following the right health instructions.. Remble
+
+◼️
+
+[Data](articles/46e912fa.json)
+
+[Extended Data](ext_articles/46e912fa.ext.json)
+
+---
+
+### UN Security Council backs Guterres after Israel bars him from country
+
+*2024-10-04 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102429/un-security-council-backs-guterres-after-israel-bars-him-from-country) · `en`
+
+The United Nations Security Council on Thursday expressed its full support for Secretary-General Antonio Guterres after Israel’s foreign minister said he was barring him from entering the country.
+
+The 15-member council said in a statement that “any decision not to engage with the U.N. Secretary-General or the United Nations is counterproductive, especially in the context of escalating tensions in the Middle East.”
+
+The statement did not name Israel. Such statements by the council are agreed by consensus.
+
+◼️
+
+[Data](articles/f2a0aec3.json)
+
+[Extended Data](ext_articles/f2a0aec3.ext.json)
+
+---
+
+### Showers expected in parts of the country
+
+*2024-10-04 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102428/showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at a few places in Northern, Eastern and Uva provinces during the afternoon or night.
+
+A few showers may occur in the coastal areas of Southern and Western provinces during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/451c2ee2.json)
+
+[Extended Data](ext_articles/451c2ee2.ext.json)
+
+---
+
+### S.. Jaishankar is coming today
+
+*2024-10-04 07:37:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-ஜெய்சங்கர்-இன்று-வருகிறார்/175-344904) · `ta`
+
+Dr. Subramaniam Jaishankar visits Sri Lanka today, concluding a two-day official trip.
+
+🟩
+
+Indian Foreign Minister Dr. Subramaniam Jaishankar will visit Sri Lanka today after a two -day official visit.
+
+◼️
+
+[Data](articles/a0632c49.json)
+
+[Extended Data](ext_articles/a0632c49.ext.json)
+
+---
+
+### Heavy rain this evening
+
+*2024-10-04 07:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மாலை-பலத்த-மழை/175-344903) · `ta`
+
+Heavy rain expected tonight in North, East, and Uva provinces. Thunderstorms possible. Public advised to prepare for strong winds and lightning.
+
+🟩
+
+The Department of Meteorology has forecast rain or thunderstorms in some parts of the North, East and Uva provinces this evening or night.
+
+The Department of Meteorology has advised the public to take steps to reduce the risks caused by heavy winds and lightning in cases of thunderstorms.. (A)
+
+◼️
+
+[Data](articles/2cef360f.json)
+
+[Extended Data](ext_articles/2cef360f.ext.json)
+
+---
+
+### Request to wear oral covering children
+
+*2024-10-04 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201825) · `si`
+
+Health experts advise parents to use oral coverings for children showing flu symptoms. Recent reports indicate cases of hand-foot-and-mouth disease among children.
+
+🟩
+
+The health aspects of the health sector calls for parents to wear oral covering children with influenza symptoms.
+
+Children also say children with arms, foot and mouth disease have been reported these days.
+
+◼️
+
+[Data](articles/028987f8.json)
+
+[Extended Data](ext_articles/028987f8.ext.json)
+
+---
 
 ### Change of rain condition
 
@@ -146,6 +306,8 @@ Dissanayake emphasised that unlike under previous administrations, public sector
 
 [Data](articles/fb01ef4a.json)
 
+[Extended Data](ext_articles/fb01ef4a.ext.json)
+
 ---
 
 ### Exim Bank of Korea to provide financial support for SL’s development projects
@@ -166,6 +328,8 @@ Exim Bank Director Won-suk HA, Deputy Director Hanui Han, Project Manager Nalin 
 
 [Data](articles/49e48440.json)
 
+[Extended Data](ext_articles/49e48440.ext.json)
+
 ---
 
 ### MillenniumIT ESP expands global reach with new delivery hub at Port City Colombo
@@ -179,6 +343,8 @@ This new centre, registered under the company’s subsidiary, Millennium IT ESP 
 ...
 
 [Data](articles/e13ada06.json)
+
+[Extended Data](ext_articles/e13ada06.ext.json)
 
 ---
 
@@ -194,6 +360,8 @@ As Chairman of the Panel, Rathika de Silva will lead an experienced and versatil
 
 [Data](articles/04e8bd1f.json)
 
+[Extended Data](ext_articles/04e8bd1f.ext.json)
+
 ---
 
 ### RW allies to contest general election under “Gas Cylinder” symbol
@@ -208,6 +376,8 @@ United National Party (UNP) Kesbewa Electoral Seat Organiser Saman Rathnapriya, 
 
 [Data](articles/e6b89cf0.json)
 
+[Extended Data](ext_articles/e6b89cf0.ext.json)
+
 ---
 
 ### Pathfinder Foundations launches Sinhala translation of “The India Way: Strategies for an Uncertain World”
@@ -221,6 +391,8 @@ The decade from the 2008 global financial crisis to the 2020 COVID-19 pandemic, 
 ...
 
 [Data](articles/7b654540.json)
+
+[Extended Data](ext_articles/7b654540.ext.json)
 
 ---
 
@@ -240,6 +412,8 @@ Samagi Jana Balawegaya (SJB) leader Sajith Premadasa has emphasised the need for
 
 [Data](articles/798ef81a.json)
 
+[Extended Data](ext_articles/798ef81a.ext.json)
+
 ---
 
 ### President appoints new Secretary to Public Administration Ministry
@@ -251,6 +425,8 @@ President Anura Kumara Dissanayake has appointed S. Aloka Bandara as the new Pub
 ◼️
 
 [Data](articles/bf7c7956.json)
+
+[Extended Data](ext_articles/bf7c7956.ext.json)
 
 ---
 
@@ -268,17 +444,45 @@ Ceremonial welcomes was accorded to the incoming delegation, and were received b
 
 [Data](articles/27dac6ce.json)
 
+[Extended Data](ext_articles/27dac6ce.ext.json)
+
 ---
 
-### எலிக்காய்ச்சல் அபாயம்
+### Alaka Bandara appointment as the new secretary
+
+*2024-10-04 03:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளராக-ஆலோக-பண்டார-நியமனம்/175-344900) · `ta`
+
+S. Aloka Bandara named new Secretary of Ministry of Home Affairs, Provincial Councils, Local Government, and Labor. Appointment letter issued by Dr. Nandika Sanath Kumanayake at President's Office.
+
+🟩
+
+S. Aloka Bandara has been appointed as the new Secretary of the Ministry of Home Affairs, Provincial Councils and Local Government and Labor.
+
+The new appointment letter was issued yesterday at the President's Office by Dr. Nandika Sanath Kumanayake.. (A)
+
+◼️
+
+[Data](articles/b90acbee.json)
+
+[Extended Data](ext_articles/b90acbee.ext.json)
+
+---
+
+### Rat fever risk
 
 *2024-10-04 02:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-அபாயம்/175-344899) · `ta`
 
-எலிக்காய்ச்சலால் மரணிப்பவர்களின் வீதம், டெங்கு நோயாளர்களின் உயிரிழப்பு வீதத்தை தாண்டியுள்ளதாக பொது சுகாதார பரிசோதகர்கள் சங்கத்தின் செயலாளர் சமிந்த முத்துகுட தெரிவித்துள்ளார். (a)
+Rat fever risk: Dengue patient mortality higher than expected, according to Public Health Inspectors Association Secretary Saminda Muthukuda.
+
+🟩
+
+Secretary of the Public Health Inspectors Association, Saminda Muthukuda, said that the rate of deaths due to the deaths of dengue patients exceeds the death rate of dengue patients.. (A)
 
 ◼️
 
 [Data](articles/aa83ab7d.json)
+
+[Extended Data](ext_articles/aa83ab7d.ext.json)
 
 ---
 
@@ -519,6 +723,20 @@ Samari Attappattu (6), Harshita Samarawickrama (7), Hassini Perera (8) and Kavis
 [Data](articles/ae6c11a8.json)
 
 [Extended Data](ext_articles/ae6c11a8.ext.json)
+
+---
+
+### Vignettes, USA
+
+*2024-10-04 01:42:00* · [`islandlk`](http://island.lk/vignettes-usa/) · `en`
+
+Americans like to think of themselves as a young country, and a young people. They like to think they represent the New World. In Daisy Miller, the great Henry James contrasts the insouciance of this new world with staidness of the old. The new world does not, to be sure, always triumph – the heroine in Daisy Miller, for instance, meets a tragic ending – yet even in tragedy, one feels that it has been vindicated over the old.
+
+...
+
+[Data](articles/effd0faa.json)
+
+[Extended Data](ext_articles/effd0faa.ext.json)
 
 ---
 
@@ -2157,243 +2375,5 @@ The Iran attack has threatened escalation of fighting in the Middle East.
 [Data](articles/43eca2f6.json)
 
 [Extended Data](ext_articles/43eca2f6.ext.json)
-
----
-
-### New Secretary to the Ministry of Public Administration
-
-*2024-10-03 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201810) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"President Anura Kumara Dissanayake appoints Larke Bandara as new Secretary to Ministry of Public Administration and Provincial Councils. Appointment letter handed over at Presidential Secretariat on March 3rd."
-
-🟩
-
-President Anura Kumara Dissanayake as the new Secretary of the Provincial Council of Provincial Councils and the Ministry of Labor. Mr. Larke Bandara has been appointed.
-
-The relevant appointment letter was handed over to him at the Presidential Secretariat today (03) at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/8ac95e5c.json)
-
-[Extended Data](ext_articles/8ac95e5c.ext.json)
-
----
-
-### A program for children who do not have the birth certificate
-
-*2024-10-03 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201809) · `si`
-
-Program for children without birth certificates: Island-wide initiative to issue ID certificates. Implemented by Probation and Child Care Services and Registrar General. No charges for certificates in October. Processed by child rights promotion officers at Divisional Secretariat level.
-
-🟩
-
-A certificate certificate will be implemented island wide for children who do not have birth certificates.
-
-The program aims to identify the certificates of identification of children without birth certificates and the Department of Probation and Child Care Services and Registrar General.
-
-The program has already been implemented, as a significant number of children is reported to face various difficulties without birth certificates.
-
-The process will be carried out throughout the month by child rights promotion officers serving at Divisional Secretariat level.
-
-According to the Government Information Department, the Government Information Department further stated that no charge will be charged for birth certificates throughout October.
-
-◼️
-
-[Data](articles/39695d78.json)
-
-[Extended Data](ext_articles/39695d78.ext.json)
-
----
-
-### The blow to the allowances of former presidents….!
-
-*2024-10-03 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195087) · `ta`
-
-Former presidents' allowances reduced. Gifts for ex-presidents Mahinda, Maithri, and Gotabhaya to be canceled. Cabinet discussion pending. Civil organizations oppose perks for convicted leaders.
-
-🟩
-
-Former presidents are receiving all the gifts received by a cabinet minister. President Anura Kumara has taken steps to reduce reforms and reduce the allowances.To be discussed in the Cabinet. Also, all the gifts for the former presidents of Mahinda, Mahinda, Maithri and Gotabhaya have to be canceled.. Civil organizations have also noted that they have no right to enjoy the government's privileges as the three have been declared criminals by the High Court.
-
-◼️
-
-[Data](articles/1d1c21f7.json)
-
-[Extended Data](ext_articles/1d1c21f7.ext.json)
-
----
-
-### Daham Sirisena and Rajika Wickremasinghe joined the Mawpima Janata Party
-
-*2024-10-03 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195398) · `ta`
-
-Daham Sirisena and Rajika Wickremasinghe join Mawpima Janata Party. Daham becomes Polonnaruwa district organizer. Rajika appointed district and Tikka ma organizer. Other appointments: Samindu Kumarasinghe coordinator, Taksila Premasiri Kandy-Udunuwara coordinator, Sanjeeva Suraweera Kandy Hewaheta organizer, Taksila Seneviratne Kandy Yatinuwara organizer, Ratgama organizer Tusitha Thilanga Jayasinghe.
-
-🟩
-
-Taham Sirisena, son of former President Maithripala Sirisena and former PA's former parliamentarian Rajika Wickremesinghe have joined the Mawpima Janata Party today (03).
-
-They have joined the Mawpima Janata Party at the party headquarters in Colombo.
-
-Former Parliamentarian Rajika Wickremesinghe, who has entered the Parliament through the National List of the Sri Lanka PA, has been appointed as the District and Tikkama organizer of the Homeland People's Party.
-
-At the same time, Taham Sirisena, son of former President Maithripala Sirisena, has been appointed as the organizer of the Polonnaruwa District Home People's Party.
-
-Meanwhile, Samindu Kumarasinghe has been appointed as the Coordinator of the Polonnaruwa District and Taksila Premasiri as the Kandy and Udunuwara District Coordinator.
-
-Sanjeeva Suraweera as the Kandy Hewaheta organizer, Taksila Seneviratne as Kandy Yatinuwara organizer and Ratgama organizer Tusitha Thilanga Jayasinghe.
-
-◼️
-
-[Data](articles/e57d554b.json)
-
-[Extended Data](ext_articles/e57d554b.ext.json)
-
----
-
-### One arrested with illegal liquor in Negombo
-
-*2024-10-03 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195393) · `ta`
-
-Negombo police arrest 38-year-old man with 67.5 liters of illegal liquor during raid.
-
-🟩
-
-A suspect has been arrested by the police on Wednesday (02) with illegal liquor in the Wellaweeda area of ​​the Negombo Police Division.
-
-The suspect has been arrested during a raid carried out on confidential information received by the Negombo police.
-
-The arrested suspect is 38 years old from Wellaweeda.
-
-67.5 liters of illegal liquor (90 bottles) has been seized from the arrested suspect.
-
-◼️
-
-[Data](articles/9617db25.json)
-
-[Extended Data](ext_articles/9617db25.ext.json)
-
----
-
-### Here is the decision about Keheliya's case
-
-*2024-10-03 15:02:04* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියගේ-නඩුවක්-ගැන-අද-ලැබුණු-තීරණය-මෙන්න/11-412289) · `si`
-
-Colombo High Court orders Bribery and Corruption Commission to summon former Minister Keheliya Rambukwella on November 29th.
-
-🟩
-
-The Colombo High Court has ordered to be summoned by the Bribery and Corruption Commission (CSR) against former Minister Keheliya Rambukwella on the 29th of November.
-
-◼️
-
-[Data](articles/74c7d8dd.json)
-
-[Extended Data](ext_articles/74c7d8dd.ext.json)
-
----
-
-### Rs 1 crore robbery in Jaffna: two arrested
-
-*2024-10-03 14:59:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-ரூ-1-கோடி-கொள்ளை-இருவர்-கைது/71-344873) · `ta`
-
-Jaffna robbery: Two suspects arrested for stealing Rs 1 crore from a man returning home. Police recovered stolen money and phone. Case filed at Mallakam Magistrate's Court.
-
-🟩
-
-Police have arrested two suspects for allegedly robbing a man who had been returning home with a money of Rs.
-
-A person from Sanguveli area recently lives abroad, recently visited Jaffna. He was returning home with the money he sold his land on Wednesday (02).
-
-The two men who had been following a motorcycle had been attacked on the street and robbed him of money, passports and a mobile phone worth Rs.
-
-The police were conducting investigations after lodging a complaint at the Manipay police station.
-
-On the basis of the confidential information received by the police that the suspects were hidden in the area, the police have arrested two men who rushed to the scene.
-
-They have also recovered robbery of money and mobile phone from the arrested.
-
-The police have taken steps to the Mallakam Magistrate's Court.
-
-◼️
-
-[Data](articles/a3f08cad.json)
-
-[Extended Data](ext_articles/a3f08cad.ext.json)
-
----
-
-### We will be supporting public servants who dedicated to the creation of a repetitive people's welfare service - the President
-
-*2024-10-03 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195391) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake vows to support public servants creating welfare services, ending political retaliation against officials striving for citizen benefits. He emphasizes eradicating rural poverty and improving public service efficiency.
-
-🟩
-
-We will support the public servants who dedicate themselves to create a public welfare public service. President Anura Kumara Dissanayake has said that even though the state officials who strive for citizens face political revenge, the custom will no longer continue.
-
-The President said this during a discussion with the officials of the Ministry after taking over the duties on Thursday morning (03) as Minister of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources.
-
-He discussed the current situation of the Ministry of Agriculture and future activities with the President, Secretaries of the Ministry and top officials of the Ministry.
-
-The President pointed out that the contribution to the Ministry of Agriculture to eradicate rural poverty is immense and whether or not poverty will be eradicated in accordance with the activities of state officials.
-
-...
-
-[Data](articles/92cda851.json)
-
-[Extended Data](ext_articles/92cda851.ext.json)
-
----
-
-### Maithri's son joined Dilith
-
-*2024-10-03 14:48:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-புதல்வர்-திலித்துடன்-இணைந்தார்/175-344872) · `ta`
-
-Maithri's son joins Dilith. Former MP Rajika Wickremesinghe and ex-president's son Daham Sirisena join MJP. Appointed district organizers for Kegalle and Polonnaruwa.
-
-🟩
-
-Former parliamentarian Rajika Wickremesinghe and former president's son Daham Sirisena joined the party in support of Dilith Jayaweera.
-
-They have been appointed as the Maubima Janata Party (MJP) and the district organizers of the Kegalle and Polonnaruwa district respectively.
-
-◼️
-
-[Data](articles/09f6ee45.json)
-
-[Extended Data](ext_articles/09f6ee45.ext.json)
-
----
-
-### Indian External Affairs Minister visits Sri Lanka, to meet President, PM
-
-*2024-10-03 14:39:00* · [`economynextcom`](https://economynext.com/indian-external-affairs-minister-visits-sri-lanka-to-meet-president-pm-182151/) · `en`
-
-ECONOMYNEXT – Indian External Affairs Minister Subrahmanyam Jaishankar will be undertaking an official visit to Sri Lanka on Friday, the island nation’s Foreign Ministry said.
-
-Jaishankar will be the first foreign dignitary to meet the President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya after their National People’s Power (NPP) won the presidential poll on September 21.
-
-The visiting Indian External Affairs Minister and his delegation will also have a meeting with Foreign Minister Vijitha Herath at the Ministry of Foreign Affairs.
-
-India has been pushing for renewable energy, power, and port projects in Sri Lanka in the last few years. Some of its projects have been in limbo due to a long approval process and legal challenge in court.
-
-Minister Jaishankar met Dissanayake in February this year when the current Sri Lankan president went on an official visit to India when he was in the opposition.
-
-...
-
-[Data](articles/8adfc2e4.json)
-
-[Extended Data](ext_articles/8adfc2e4.ext.json)
 
 ---

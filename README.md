@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 23:09:19**
+As of **2024-10-04 23:23:22**
 
 ## Newspaper Stats
 
-*Scraped **47,830** Articles*
+*Scraped **47,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 394
 bbccomsinhala | 473
 colombotelegraphcom | 474
 islandlk | 2,813
-economynextcom | 2,923
+economynextcom | 2,934
 dailyftlk | 3,222
 adalk | 4,425
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,830 (100.0%) of 47,830 articles have been extended.
+47,832 (100.0%) of 47,841 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -284,6 +284,26 @@ They have been arrested when he had asked for a bribe of Rs.
 
 ---
 
+### Indian EAM raises concern over fishermen arrest, pushes for 13A
+
+*2024-10-04 19:16:00* · [`economynextcom`](https://economynext.com/indian-eam-raises-concern-over-fishermen-arrest-pushes-for-13a-182420/) · `en`
+
+ECONOMYNEXT – India’s External Affairs Minister (EAM) S. Jaishankar raised concerns over the arrest of poaching fishermen and heavy fines on their boats when he met Sri Lanka’s newly elected president Anura Kumara Dissanayake, the Indian External Affairs Ministry said.
+
+Jaishankar was in Colombo on Friday (04) on an official visit and met President Dissanayake, Prime Minister Harini Amarasuriya, Foreign Minister Vijitha Herath. former President Ranil Wickremesinghe, and former Opposition Leader Sajith Premadasa.
+
+“EAM raised the concerns pertaining to Indian fishermen who are detained in Sri Lanka. He pressed for their early release, as well as of their boats, and reconsideration of the heavy fines imposed on them,” the External Affairs Ministry said in a statement.
+
+Sri Lanka has witnessed bottom trawling by Indian fishermen during the peak fishing season in the island nation’s northern waters off Jaffna, Navy and Northern government officials have said.
+
+...
+
+[Data](articles/ef9585c6.json)
+
+[Extended Data](ext_articles/ef9585c6.ext.json)
+
+---
+
 ### Jaishankar's main meetings
 
 *2024-10-04 19:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெய்சங்கரின்-முக்கிய-சந்திப்புகள்/175-344922) · `ta`
@@ -422,6 +442,26 @@ Former minister Nimal Siripala de Silva said this will be held this afternoon.
 
 ---
 
+### Sri Lanka new govt to go ahead with ISB deal, Citigroup to manage exchange
+
+*2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-to-go-head-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
+
+ECONOMYNEXT – Sri Lanka will go ahead with a restructure of international sovereign bonds, with final confirmation having come from both the International Monetary Fund and the Official Creditor Committee.
+
+Sri Lanka said the International Monetary Fund had earlier gave informal confirmation that the sovereign bond agreement in principle (AIP) with the local option was in line with the debt sustainability parameters.
+
+“Following the Presidential Elections held in Sri Lanka on Saturday 21st September and the appointment of the new government on 24th of September, the Sri Lanka authorities confirm their endorsement of the program debt targets and the AIP terms as announced on 19th September and confirm their intention to expedite the implementation of the ISBs restructuring transaction in line with these terms.”
+
+Citigroup Global Markets has been appointed to manage the bond exchange which is expected to conclude in about 10 weeks.
+
+...
+
+[Data](articles/a307d393.json)
+
+[Extended Data](ext_articles/a307d393.ext.json)
+
+---
+
 ### The audience answers Lal Kantha's statement
 
 *2024-10-04 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201848) · `si`
@@ -522,6 +562,22 @@ Pradeep Comrade Dr. Krishna Sriney, Director General of the Department of Econom
 
 ---
 
+### IMF, Sri Lanka agree on continuing “hard-won” gains, int’l lender says
+
+*2024-10-04 18:21:00* · [`economynextcom`](https://economynext.com/imf-sri-lanka-agree-on-continuing-hard-won-gains-intl-lender-says-182366/) · `en`
+
+ECONOMYNEXT — The International Monetary Fund (IMF) has said it is encouraged by the new government’s commitment to continue Sri Lanka’s reform efforts and that agreement was reached on continuing to build on the “hard-won” gains.
+
+The IMF said in a statement on Friday October 04 that initial talks between an IMF team led by Director for the Asia Pacific Department Krishna Srinivasan with newly elected President Anura Kumara Dissanayake were productive.
+
+The team met with President Dissanayake, Prime Minister Harini Amarasuriya, Foreign Minister Vijitha Herath, Central Ban Governor Nandalal Weerasinghe and Secretary to the Treasury Mahinda Siriwardena and other stakeholders.
+
+...
+
+[Data](articles/0f574952.json)
+
+---
+
 ### A major road near Temple Trees opens
 
 *2024-10-04 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201846) · `si`
@@ -575,6 +631,26 @@ Dr. Jaishankar was the first high-level foreign dignitary to visit Sri Lanka aft
 [Data](articles/5870d78c.json)
 
 [Extended Data](ext_articles/5870d78c.ext.json)
+
+---
+
+### Top India official thanks former Sri Lanka leader for advancing ties
+
+*2024-10-04 17:54:00* · [`economynextcom`](https://economynext.com/top-india-official-thanks-former-sri-lanka-leader-for-advancing-ties-182360/) · `en`
+
+ECONOMYNEXT — Visting India external affairs minister S Jaishankar has met former Sri Lanka president Ranil Wickremesinghe and thanked him for advancing ties between the two countries in the past two years.
+
+“Glad to see former President @RW_SRILANKA today. Thanked him for his efforts in advancing our ties in the last two years. Assured him that India will continue to commit to Sri Lanka’s economic recovery and development,” he tweeted Friday October 04 afternoon.
+
+Visiting Indian External Affairs Minister @DrSJaishankar called on former President Ranil Wickremesinghe at his residence in Colombo. #SriLanka pic.twitter.com/Fqjzf5qzBr
+
+In June, Wickremesinghe as then president and Narendra Modi, who had just been sworn in for a third consecutive term as Prime Minister of India, reaffirmed their commitment to maintaining strong Indo-Sri Lankan relations.
+
+Wickremesinghe attended the swearing-in ceremony in New Delhi on July 09 on the invitation of Modi.
+
+...
+
+[Data](articles/8f8046c6.json)
 
 ---
 
@@ -664,6 +740,22 @@ S. President Anura Kumara Dissanayake met President Anura Kumara Dissanayake at 
 
 ---
 
+### India external affairs minister holds wide-ranging talks with Sri Lanka FM, PM
+
+*2024-10-04 17:37:00* · [`economynextcom`](https://economynext.com/india-external-affairs-minister-holds-wide-ranging-talks-with-sri-lanka-fm-pm-182357/) · `en`
+
+ECONOMYNEXT — Visiting India external affairs minister S Jaishankar has met Sri Lanka Prime Minister Harini Amarasuriya and Foreign Minister Vijitha Herath, the latter with whom he said he held “wide-ranaging and detailed” talks.
+
+“Concluded wide ranging and detailed talks with FM Vijitha Herath today in Colombo. Congratulated him once again on his new responsibilities. Reviewed various dimensions of India-Sri Lanka partnership. Assured him of India’s continued support to Sri Lanka’s economic rebuilding. Our Neighbourhood First Policy and Sagar outlook will always guide the advancement of ties,” Jaishankar tweeted Friday October 04 afternoon.
+
+He later met Prime Minister Amarasuriya with whom he said he discussed digital public infrastructure, among other matters.
+
+...
+
+[Data](articles/23f6d35f.json)
+
+---
+
 ### Increase in Sri Lankans migrating for foreign employments
 
 *2024-10-04 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102450/increase-in-sri-lankans-migrating-for-foreign-employments) · `en`
@@ -683,6 +775,72 @@ The highest number of Sri Lankans has sought employment opportunities in the Kin
 [Data](articles/cc803f9a.json)
 
 [Extended Data](ext_articles/cc803f9a.ext.json)
+
+---
+
+### Sri Lankan Catholics Seek Sacking of Spy Chief Over Easter Attacks
+
+*2024-10-04 17:24:00* · [`economynextcom`](https://economynext.com/sri-lankan-catholics-seek-sacking-of-spy-chief-over-easter-attacks-182353/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new president was urged on Friday to deliver on a promise to ensure justice for the victims of the Easter Sunday bombings and to call for the sacking of the country’s spy chief, who is implicated in the worst terror attack against civilians.
+
+The Centre for Society and Religion (CSR), in a six-page appeal to President Anura Kumara Dissanayake, sought, among other things, the removal of Suresh Sallay from his position as head of the State Intelligence Service.
+
+The CSR noted that Sallay, a retired military intelligence officer allegedly linked to the Easter bombers, was in a position to destroy evidence and should be removed immediately, with investigations being handed over to a new specialised unit.
+
+The organisation, linked to the Catholic Church, pointed out that Sallay had been accused of involvement with Zahran Hashim, the leader of the suicide squad that targeted three luxury hotels and three churches on April 21, 2019.
+
+...
+
+[Data](articles/627f72c3.json)
+
+---
+
+### India external affairs minister meets former Sri Lanka opposition leader
+
+*2024-10-04 17:23:00* · [`economynextcom`](https://economynext.com/india-external-affairs-minister-meets-former-sri-lanka-opposition-leader-182347/) · `en`
+
+ECONOMYNEXT — Visiting External Affairs Ministers of India S Jaishankar has met former Sri Lanka opposition leader Sajith Premadasa.
+
+Premadasa tweeted Friday October 04 afternoon that the Samagi Jana Balawegaya (SJB) which he leads look forward to India’s continued support.
+
+“Great to meet @DrSJaishankar during his visit to Sri Lanka. As he often says, ‘A strong and prosperous neighborhood is in everyone’s interest.’ We look forward to India’s continued fullest support in advancing Sri Lanka’s stability and growth, while supporting our mutual interests for regional development,” said Premadasa.
+
+The visiting Indian official also tweeted that he appreciates Premadasa’s continued support for relations between the two countries.
+
+“Good to see SJB leader @sajithpremadasa in Colombo today. Appreciate his continued support for the India-Sri Lanka relationship,” he said.
+
+...
+
+[Data](articles/65609bfc.json)
+
+---
+
+### Sri Lanka rupee closes flat at 294.0/35 to dollar, bond yields up
+
+*2024-10-04 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-294-0-35-to-dollar-bond-yields-up-182345/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 294.00/35 to the US dollar Friday, from 294.00/50 a day earlier, dealers said while bond yields were up.
+
+Sri Lanka’s rupee has appreciated amid deflationary policy which is triggering balance of payments surpluses putting upward pressure on the rupee.
+
+However the central bank can buy dollars and maintain the exchange rate if it wants to.
+
+There seemed to some profit taking after two days for falling yields, traders said.
+
+A bond maturing on 15.12.2026 closed at 10.50/65 percent up from 10.45/60 percent.
+
+A bond maturing on 15.12.2027 closed at 10.50/60 percent up from 11.40/55 percent.
+
+A bond maturing on 15.02.2028 closed at 11.70/80 percent up from 11.60/75 percent.
+
+A bond maturing on 15.09.2029 closed at 11.12/15 up from 11.95/12.05 percent.
+
+A bond maturing on 15.05.2030 closed at 12.15/25 percent, 12.10/30 percent. (Colombo/Oct3/2024)
+
+◼️
+
+[Data](articles/a4df08f5.json)
 
 ---
 
@@ -838,6 +996,28 @@ Speaking about this, the filmmakers are in talks to release the film 'Vaida Tri'
 
 ---
 
+### Sri Lanka stocks close up 1-pct helped by banks, JKH
+
+*2024-10-04 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-helped-by-banks-jkh-182343/) · `en`
+
+ECONOMYNEXT – Sri Lanka stocks closed up 1 percent, Friday with stock demand for banks, brokers said.
+
+The Colombo All Share index rose 123.5 points to 12,053 points and the S&P SL 20 Index of more liquid index rose 59 points at 3,543 points.
+
+Turnover was 2.83 billion rupees with large volumes of Sampath Bank traded
+
+Top contributors to the gain were John Keells Holdings, Sampath, HNB, and NDB.
+
+JKH closed up 5.75 at 186.25 rupees, Sampath closed up 2.30 rupees to 81.30 rupees, Commercial Bank of Ceylon closed up 1 rupee at 105 rupees, Hatton National Bank closed up 3.0 rupees at 215.25.
+
+Melstacorp was up 1.30 rupees at 86.40, Lion Brewery closed down 5 rupees at 994.75 rupees. (Colombo/Oct04/2024)
+
+◼️
+
+[Data](articles/e35c81ef.json)
+
+---
+
 ### Skirberg, second, only the muscle
 
 *2024-10-04 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201843) · `si`
@@ -931,6 +1111,24 @@ Accordingly, after considering the request made by the Bribery Commission today,
 [Data](articles/63511950.json)
 
 [Extended Data](ext_articles/63511950.ext.json)
+
+---
+
+### India’s EA Minister meets Sri Lanka leader, says discussed deepening ties
+
+*2024-10-04 16:09:00* · [`economynextcom`](https://economynext.com/indias-ea-minister-meets-sri-lanka-leader-says-discussed-deepening-ties-182340/) · `en`
+
+ECONOMYNEXT – Indian External Affairs Minister S. Jaishankar met Sri Lanka’s newly elected leader Anura Kumara Dissanayake and discussed deepening the ties between the two South Asian neighbours.
+
+Jaishankar the first foreign dignitary outside the country to meet Dissanayake after his election on September 21.
+
+“Honored to call on President Anura Kumara Dissanayake today in Colombo. Conveyed warm greetings of President Droupadi Murmu and PM Narendra Modi,” Jaishankar said in his X-platform.
+
+“Appreciate his warm sentiments and guidance for the India-Sri Lanka relations. Discussed ways to deepen ongoing cooperation and strengthen India-Sri Lanka ties for the benefit of people of two countries and the region.”
+
+...
+
+[Data](articles/ccdd9805.json)
 
 ---
 
@@ -1155,6 +1353,26 @@ Accordingly, Israeli-Hamas began in October 7, 2023, aimed at the attacks on Sab
 [Data](articles/4fe83534.json)
 
 [Extended Data](ext_articles/4fe83534.ext.json)
+
+---
+
+### Sri Lanka President meets IMF for second day
+
+*2024-10-04 15:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-for-second-day-182313/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has met a visiting International Monetary Fund delegation for the second day.
+
+“President Dissanayake aims to achieve the objectives of the program in partnership with the IMF, seeking alternative approaches that will alleviate the burden on the citizens,” a statement issued after the second meeting said.
+
+“The required cordial and good environment was built between the two sides and the three days of talks concluded successfully.
+
+Sri Lanka’s citizens were hit with the worst currency collapse in the history of the central bank after extreme macro-economic policy involving both rate cuts (money printing) and tax cuts to boost potential output, which ended in sovereign default.
+
+The IMF itself gave technical assistance to calculate potential output.
+
+...
+
+[Data](articles/a0ff3eb4.json)
 
 ---
 
@@ -2185,257 +2403,5 @@ Minister Jaishankar is accompanied by senior officials of the Ministry of Extern
 [Data](articles/5f91a058.json)
 
 [Extended Data](ext_articles/5f91a058.ext.json)
-
----
-
-### I. Meeting between the Resident Representative of the Na Development Program and the Secretary of the President
-
-*2024-10-04 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195444) · `ta`
-
-UNDP Resident Representative Azuza Kubota met with Sri Lanka's President's Secretary Dr. Nandika Sanath Kumanayake. They discussed ongoing development projects and UNDP's support for Sri Lanka's new initiatives. Kubota praised the anti-corruption efforts and emphasized the need for digitalization in public services. The UNDP committed to assisting Sri Lanka in developing capable government officials for digital transformation.
-
-🟩
-
-The United Nations Development Program (UNDP) Azusa Kubota, Azusa Kubota, met with Dr. Nandika Sanath Kumanayake at the President's Office yesterday (03).
-
-The continuous implementation of the development projects implemented within Sri Lanka through the United Nations Development Program and the cooperation program between the Sri Lanka and the United Nations Development Program was discussed.
-
-The President's Secretary, Dr. Nandika Sanath Kumanayake, also addressed the United Nations Development Program for Sri Lanka's new development programs.
-
-Azuza Kuboda praised the government's program against corruption and emphasized the importance of moving to digitalization soon to ensure the power and effectiveness of the public service.
-
-...
-
-[Data](articles/300a3244.json)
-
-[Extended Data](ext_articles/300a3244.ext.json)
-
----
-
-### President Anura Kumara Dissanayake will visit India as the first foreign trip
-
-*2024-10-04 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195440) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake embarks on his first foreign trip to India. Indian Foreign Minister Dr. S. Jaishankar visits Sri Lanka today, marking the first high-level meeting between the two countries since Dissanayake's election victory on September 21.
-
-🟩
-
-Indian External Affairs Minister Dr. S. Jaishankar will visit the country today (04).
-
-It is reported that President Anura Kumara Dissanayake will make his first official foreign visit to New Delhi.
-
-Jaishankar is the first top foreign leader to meet President Anura Kumara Dissanayake after winning the presidential election on September 21.
-
-◼️
-
-[Data](articles/244b6257.json)
-
-[Extended Data](ext_articles/244b6257.ext.json)
-
----
-
-### Sri Lanka rupee appreciates below 294 to US dollar, bond yields down
-
-*2024-10-04 10:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-appreciates-below-294-to-us-dollar-bond-yields-down-182304/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 293.70/90 to the US dollar Friday, up from 294.00/50 to the US dollar a day earlier, while bond yields were steady, dealers said.
-
-Sri Lanka’s rupee has appreciated steadily amid over last few days amid sell downs of the central bank’s remaining bill stock.
-
-When the exchange rate starts to appreciate, importers wait for to cover their bills.
-
-Based on earlier swings of the rupee dollar rate, some buyers from importers are also taking a wait and see attitude, market sources say.
-
-Meanwhile liquidity is also starting to build up from dollar purchases. Reverse repo borrowings, which were at almost 60 billion rupees on October 18, has fallen to around 18 billion rupees by Thursday.
-
-The overnight auction rate at which the rupees were injected, which was at at 8.56 percent, had fallen to 8.26 percent or the floor rate of the corridor.
-
-A bond maturing on 15.12.2026 was quoted at 10.50/60 Friday slightly up from 10.45/60 percent a day earlier.
-
-...
-
-[Data](articles/882b5b9e.json)
-
-[Extended Data](ext_articles/882b5b9e.ext.json)
-
----
-
-### UN assures support for Sri Lanka’s IMF program and govt’s poverty eradication efforts
-
-*2024-10-04 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102433/un-assures-support-for-sri-lankas-imf-program-and-govts-poverty-eradication-efforts) · `en`
-
-The United Nations (UN) Resident Coordinator in Sri Lanka Marc-André Franche met with President Anura Kumara Dissanayake on Thursday (03) at the Presidential Secretariat.
-
-During the meeting, the UN Resident Coordinator conveyed the warm greetings of UN Secretary-General António Guterres to President Dissanayake, the President’s Media Division (PMD) said.
-
-Mr. Marc-André Franche praised the President’s manifesto and commended the President’s ethical nature of the political campaign, it said.
-
-The Resident Coordinator acknowledged that the coming period will be challenging as public expectations are high, but assured the UN’s support for Sri Lanka’s IMF programme and the government’s poverty eradication efforts.
-
-He also lauded the anti-corruption initiative outlined in the President Anura Kumara Dissanayake’s manifesto, noting that it offers hope for a new beginning. He assured technical and financial support from the UN to aid in these efforts, the PMD reported.
-
-...
-
-[Data](articles/721958f3.json)
-
-[Extended Data](ext_articles/721958f3.ext.json)
-
----
-
-### President reaffirms commitment to continuing IMF program without disruption
-
-*2024-10-04 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102432/-president-reaffirms-commitment-to-continuing-imf-program-without-disruption) · `en`
-
-In a significant meeting on Thursday, President Anura Kumara Dissanayake engaged directly with IMF delegation including the Director of the Asia Pacific Department, Krishna Srinivasan and Senior Mission Chief Dr. Peter Breuer to discuss the progress of Sri Lanka’s on-going IMF programme.
-
-The President was accompanied by key Sri Lankan officials, including Central Bank Governor Dr.Nandalal Weerasinghe, Secretary to the Treasury Mr. Mahinda Siriwardena, Dr. Harshana Sooriyapperuma, Senior Advisors to the President Prof. Anil Jayantha and Mr. Duminda Hulangamuwa.
-
-President Dissanayake reaffirmed the government’s broad agreement in principle with the objectives of the IMF programme but emphasized the importance of achieving these objectives through alternative means that relieves the burden off the people, the President’s Media Division (PMD) said.
-
-The President stated that the government plans to provide relief to those who are struggling due to high VAT and income taxes, the statement said.
-
-...
-
-[Data](articles/d1c91850.json)
-
-[Extended Data](ext_articles/d1c91850.ext.json)
-
----
-
-### A man arrested for illegal liquor in Bamunugama
-
-*2024-10-04 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195418) · `ta`
-
-Man arrested for illegal liquor in Bamunugama. Police seized 75 liters from three-wheeler raid. Incident occurred Wednesday under Pamunugama police division.
-
-🟩
-
-Pamunugama police said that a suspect was arrested on Wednesday (02) for allegedly kidnapping illegal liquor in a three -wheeler in the Maldiyawatta area under the Pamunugama police division.
-
-The suspect has been arrested in a raid on a suspicious three -wheeler on suspicion of information received by the Pamunugama police.
-
-The suspect's 75 liters (100 bottles) of the suspect has been seized by the police.
-
-◼️
-
-[Data](articles/43b06409.json)
-
-[Extended Data](ext_articles/43b06409.ext.json)
-
----
-
-### Laugfs gas prices to remain unchanged
-
-*2024-10-04 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102431/laugfs-gas-prices-to-remain-unchanged) · `en`
-
-Laugfs Gas PLC announced that the company will not revise domestic LP gas prices for the month of October.
-
-This was communicated by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J Peiris.
-
-Meanwhile, the Litro Gas Company had also announced that the prices of domestic LP Gas will remain unchanged for the month of October 2024.
-
-Issuing an announcement on Tuesday (Oct. 01), the newly appointed Litro chairman Channa Gunawardena said that despite the rising LP gas prices in the global market, a decision was taken not to increase the prices of Litro gas in order to provide relief to the consumers.
-
-◼️
-
-[Data](articles/f50659cc.json)
-
-[Extended Data](ext_articles/f50659cc.ext.json)
-
----
-
-### Notice of LAUGFS Gas Prices
-
-*2024-10-04 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201828) · `si`
-
-Here's a 200-character summary:
-
-
-
-"LAUGFS Gas Notice: No domestic gas price revision for October."
-
-🟩
-
-Laugfs says that no domestic gas is not revised for the month of October.
-
-◼️
-
-[Data](articles/d806d7b1.json)
-
-[Extended Data](ext_articles/d806d7b1.ext.json)
-
----
-
-### The risk of spreading hands, leg, oral infections among children
-
-*2024-10-04 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195442) · `ta`
-
-Risk of spreading hand, foot, and mouth disease among children increasing. Doctor advises following health guidelines to protect kids. Flu cases also rising among young population.
-
-🟩
-
-Children's welfare doctor Deepal Perera said that the spread of the flu is increasing among children.
-
-The number of children suffering from hand, foot and mouth infection is increasing.
-
-Therefore, he should follow the right health guidelines to protect the children.
-
-◼️
-
-[Data](articles/732038b0.json)
-
-[Extended Data](ext_articles/732038b0.ext.json)
-
----
-
-### Together murdered the led drinks
-
-*2024-10-04 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201827) · `si`
-
-Two men killed in brawl over drinks in Sri Lanka. Police arrest one suspect. Murder occurred during heated argument. Victim, 39, died from injuries.
-
-🟩
-
-Police said that a person had been killed by a heavy assault between two people who were drinking a heated argument in the Rambukkana and Gabbaru.
-
-The other person was attacked with a sharp object, and he died in admission to the Talampitiya Hospital.
-
-The deceased is a 39 year old resident of Kotwella, police said.
-
-Investigations have revealed that the murder had been carried out due to a heated argument while drinking.
-
-The 33 year old Gabbar, Gabbar, Kotawella residents of the murder of the assassination was also arrested.
-
-◼️
-
-[Data](articles/141e0138.json)
-
-[Extended Data](ext_articles/141e0138.ext.json)
-
----
-
-### Furniture accumulation in ministers' bungalows
-
-*2024-10-04 09:01:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களின்-பங்களாக்களில்-தளபாடங்கள்-குவிப்பு/175-344908) · `ta`
-
-Former ministers accumulate furniture in state bungalows. Government delays accepting goods until companies resupply. Ministry urges corporations to accept goods immediately. Only ten bungalows returned so far.
-
-🟩
-
-It is reported that many former ministers are full of state bungalows in Colombo.
-
-It is also reported that the government is delaying the acceptance of these bungalows until the goods are re -supplied to the concerned companies.
-
-Thus, the Ministry has written in writing to the corporations concerned to accept the goods immediately.
-
-Since many ministers have many government agencies, they are said to have brought to state bungalows such as chairs, tables and televisions from each company.
-
-Only ten bungalows have been handed over to the state bungalows given to former ministers, Ministry sources said. Remble
-
-◼️
-
-[Data](articles/1900f99d.json)
-
-[Extended Data](ext_articles/1900f99d.ext.json)
 
 ---

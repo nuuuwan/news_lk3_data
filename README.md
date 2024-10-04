@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 16:12:16**
+As of **2024-10-04 16:23:08**
 
 ## Newspaper Stats
 
-*Scraped **47,785** Articles*
+*Scraped **47,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,118 @@ economynextcom | 2,923
 dailyftlk | 3,222
 adalk | 4,421
 dailymirrorlk | 4,733
-adaderanalk | 5,620
+adaderanalk | 5,622
 tamilmirrorlk | 6,444
 virakesarilk | 7,648
-adaderanasinhalalk | 8,261
+adaderanasinhalalk | 8,262
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,776 (100.0%) of 47,785 articles have been extended.
+47,785 (100.0%) of 47,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
 
-### ඉන්දීය විදේශ ඇමති ජනපති හමුවෙයි
+### ශ්‍රී ලාංකිකයන් රැකියා සඳහා විදෙස්ගත වීම් ඉහළට
+
+*2024-10-04 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201841) · `si`
+
+පසුගිය 2023 වසරේ සැප්තැම්බර් මාසයට සාපේක්ෂව 2024 සැප්තැම්බර් මාසයේදී ශ්‍රී ලාංකිකයින් විදෙස් රැකියා සඳහා පිටත් ව යාම ඉහළ ගොස් ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+
+කාර්යාංශය පැවසුවේ මේ වන විට විදෙස් ගතවීම් 10%කින් ඉහළ ගොස් ඇති බවය.
+
+ඒ අනුව 2024 සැප්තැම්බර් මාසයේදී ශ්‍රී ලාංකිකයින් 28,344 දෙනෙකු විදෙස් රැකියා සඳහා පිටත්ව ගොස් ඇති අතර 2023 වර්ෂයේ සැප්තැම්බර් මාසයේදී විදෙස් රැකියා සඳහා පිටත්ව ගිය ප්‍රමාණය 25,716 කි.
+
+2024 මුල් මාස 9 තුළ විදෙස් රැකියා සඳහා යොමු වී ඇති ශ්‍රි ලාංකිකයින් ප්‍රමාණය 240,109 ක් ව තිබේ.
+
+එයට කාන්තා ශ්‍රමිකයින් 99,939 ක් හා  පිරිමි ශ්‍රමිකයින් 142,170 ක් ඇතුළත් ය.
+
+මෙම කාලය තුළ පුහුණු ශ්‍රමිකයින් 70,396 දෙනෙකු රැකියා සඳහා විදෙස් ගතව තිබේ
+
+ඒ අතරට පිරිමි ශ්‍රමිකයින් 62,177ක් හා කාන්තා ශ්‍රමිකයින් 8,219 දෙනෙකු අයත් ය.
+
+2024 මුල් මාස 9 තුළ වෘත්තිය රැකියා සඳහා ශ්‍රමිකයින් 17,649 දෙනෙකු විදේශ ගතවී ඇති අතර, අර්ධ පුහුණු රැකියා සඳහා යොමු වූ ලාංකිකයින් ප්‍රමාණය 3,704 කි.
+
+...
+
+[Data](articles/17ad28ba.json)
+
+---
+
+### India’s Jaishankar calls on President Dissanayake
+
+*2024-10-04 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102447/indias-jaishankar-calls-on-president-dissanayake) · `en`
+
+The visiting India’s Minister of External Affairs Dr. S. Jaishankar has called on President Anura Kumara Dissanayake in Colombo this afternoon (04).
+
+Posting on ‘X’, Dr. Jaishankar stated that he conveyed warm greetings of Indian President Droupadi Murmu and Prime Minister Narendra Modi for the appointment of President Dissanayake.
+
+The Indian External Affairs Minister said he appreciates Dissanayake’s “warm sentiments and guidance” for the India-Sri Lanka relations.
+
+Meanwhile, he also said that they discussed ways to deepen ongoing cooperation and strengthen India-Sri Lanka ties for the benefit of people of two countries and the region.
+
+◼️
+
+[Data](articles/8434e2b1.json)
+
+---
+
+### Indian Foreign Minister meets President
 
 *2024-10-04 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201840) · `si`
 
-දිවයිනට පැමිණි ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා අද (04) ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවී සාකච්ඡා පවත්වා තිබේ.
+Indian Foreign Minister Dr. S. Sahana Jayasankur met President Anura Kumara Dissanayake today. They discussed matters related to India-Sri Lanka relations. The meeting aimed to strengthen bilateral ties between the two nations.
+
+🟩
+
+Indian Foreign Minister Dr. S. Sahana. Jayasankur has held discussions with President Anura Kumara Dissanayake today (04).
 
 ◼️
 
 [Data](articles/b79d27c5.json)
 
+[Extended Data](ext_articles/b79d27c5.ext.json)
+
 ---
 
-### කොටස් වෙළෙඳපොළේ ලොකු වෙනසක්
+### SLBFE pauses registration of migrant workers to Lebanon
+
+*2024-10-04 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102446/slbfe-pauses-registration-of-migrant-workers-to-lebanon-) · `en`
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) states that relatives of Sri Lankans working in war-affected Middle Eastern countries can access information regarding their family members or seek assistance by contacting the hotline number ‘1989’, amid the growing conflict situation in the region.
+
+Speaking to reporters regarding the recruitment of workers to Middle Eastern countries, Additional General Manager of International Affairs of the SLBFE Gamini Senarath Yapa confirmed that worker registration for Lebanon is currently suspended.
+
+“There is no immediate danger to Sri Lankans working in Israel or Lebanon despite the ongoing conflict situation. The Israeli government has implemented safety measures that all workers should follow. Relatives in Sri Lanka can contact us via the ‘1989’ hotline if they have any concerns,” Mr. Yapa explained.
+
+...
+
+[Data](articles/2d51d9e7.json)
+
+---
+
+### A big change in the stock market
 
 *2024-10-04 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201839) · `si`
 
-කොළඹ කොටස් වෙළෙඳපොළේ, සියලු කොටස් මිල දර්ශකය ඒකකය 12,000 සීමාව ඉක්මවා ගොස් තිබේ.
+Colombo Stock Exchange: All stock prices exceed 12,000 mark for first time since July 3, 2024. Index increases by 123.50 units, reaching 12,053.49 today.
 
-2024 ජූලි 03 වන දිනට පසුව එම අගය ඉක්මවා ගිය පළමු අවස්ථාව මෙය වේ.
+🟩
 
-අද දිනයේ දී සියලු කොටස් මිල දර්ශකය ඒකක 123.50කින් ඉහළ ගිය අතර, දිනය නිමාවෙන විට මුළු අගය දැක්වූයේ 12,053.49ක් ලෙසය.
+In the Colombo Stock Exchange, all stock price index has exceed 12,000.
+
+This is the first time that the value exceeded the value after July 3, 2024.
+
+Today, all stock price index increased by 123.50 units, and the total value was 12,053.49.
 
 ◼️
 
 [Data](articles/1309e74d.json)
+
+[Extended Data](ext_articles/1309e74d.ext.json)
 
 ---
 
@@ -104,23 +176,29 @@ Ajith Parakum Jayasinghe was translated into Sinhala.
 
 ---
 
-### வெங்காய விலை வீழ்ச்சியால் விவசாயிகள் சிரமம்
+### Farmers difficulty with the fall of onion prices
 
 *2024-10-04 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195471) · `ta`
 
-அநுராதபுரம் மாவட்டத்தின் கலென்பிந்துனுவெவ பிரதேச செயலகப் பிரிவுக்குட்பட்ட விவசாயிகள், சுமார் 1,000 ஏக்கர் நிலப்பரப்பில், பெரிய வெங்காயம் பயிர் செய்கைகளை மேற்கொண்டிருந்த போதிலும், அவற்றின் அறுவடைக்கு உரிய விலை கிடைக்காததால் சிரமத்திற்குள்ளாகியுள்ளதாக விவசாயிகள் தெரிவித்தனர்.
+Anuradhapura district farmers struggle with low onion prices, seeking 275-300 rupee per kg sale for locally grown onions. Imported onions sold cheaper, affecting profits.
 
-ஒரு கிலோ பெரிய வெங்காயத்தின் விலை 156, 160 மற்றும் 170 ரூபாவாக காணப்படுவது மிகவும் வருத்தமளிக்கும் நிலை என விவசாயிகள் சுட்டிக்காட்டுகின்றனர்.
+🟩
 
-விவசாயிகள் பயிரிட்டுள்ள பெரிய வெங்காயங்களை குறைந்த விலைக்கு விற்பனை செய்வதன் மூலம் தமக்கு இலாபம் கிடைப்பதில்லை எனவும் இதனால் பயிர்ச்செய்கைக்காக பெற்ற கடனை கூட செலுத்த முடியாதுள்ளதாகவும் விவசாயிகள் தெரிவித்துள்ளனர்.
+Farmers belonging to the Kalanpindunuwewa Divisional Secretariat Division of the Anuradhapura district have been in trouble, despite the large onion cultivation, but they are inconvenienced due to the lack of proper prices of their harvest.
 
-மேலும், வெளிநாட்டில் இருந்து  பெரிய வெங்காயங்களை இறக்குமதி செய்வதால், உள்ளூர் பெரிய வெங்காயங்கள் குறைந்த விலையில் விற்பனை செய்யப்படுவதாக தெரிவிக்கின்றன ர்.
+Farmers point out that the price of a kilogram of onion is 156, 160 and 170 rupees.
 
-உள்நாட்டு விவசாயிகள் பயிரிட்டுள்ள பெரிய வெங்காயங்களை ஒரு கிலோ 275 முதல் 300 ரூபா வரை விற்பனை செய்ய அரசாங்கம் ஏற்பாடு செய்ய வேண்டும் என விவசாயிகள் கோரிக்கை விடுத்துள்ளனர்.
+Farmers have said that they do not get a profit by selling the big onions cultivated at a lower price and that it is not possible to pay for the cultivation.
+
+In addition, local onions are imported from abroad and local big onions are sold at cheaper prices.
+
+Farmers have demanded that the government arrange to sell large onions cultivated by indigenous farmers for 275 to 300 rupees.
 
 ◼️
 
 [Data](articles/79bbacf8.json)
+
+[Extended Data](ext_articles/79bbacf8.ext.json)
 
 ---
 
@@ -232,23 +310,33 @@ When they visited the couple's house, it was revealed that the couple had been h
 
 ---
 
-### 'இது நிச்சயமாக சிறந்த ஆரம்பம், இரண்டு வாரங்களை  அனுரகுமார சிறப்பாக பயன்படுத்தியுள்ளார், சர்வதேச சமூகம் இலங்கைக்கு ஆதரவளிக்கவேண்டும்" - எரிக்சொல்ஹெய்ம்
+### 'This is certainly the best start, the two weeks of the Anurakumara has used the best, the international community must support Sri Lanka ”
 
 *2024-10-04 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195477) · `ta`
 
-சர்வதேச சமூகம் இலங்கைக்கு ஆதரவளிக்கவேண்டும் என தெரிவித்துள்ள இலங்கைக்கான நோர்வேயின் முன்னாள் சமாதான தூதுவர் எரிக்சொல்ஹெய்ம் இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார தெரிவு செய்யப்பட்டு இரண்டு வாரங்களாகின்றன , இந்த காலத்தை அவர் அவர் சிறப்பாக பயன்படுத்தியுள்ளார் என குறிப்பிட்டுள்ளார்
+Anurakumara's presidency: International support sought, diplomatic outreach, economic focus, anti-corruption drive, and reform efforts.
 
-இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார தெரிவு செய்யப்பட்டு இரண்டு வாரங்களாகின்றன , இந்த காலத்தை அவர் அவர் சிறப்பாக பயன்படுத்தியுள்ளார்.
+🟩
 
-அவர் இராஜதந்திர செயற்பாடுகளை மிகச்சரியான முறையில் முன்னெடுத்துள்ளார்.முதலில் இந்திய தூதுவருடன் சந்திப்பு, பின்னர் சீன தூதுவருடன், இதன் முக்கியமான நாடு என பார்த்தால்  இந்தியாவிற்கே முதலிடம் அதற்கு பின்னரே சீனா என்ற சமி;க்ஞையை அவர் வெளிப்படுத்தியுள்ளார்.
+It has been two weeks since Anurakumara has been elected as the new President of Sri Lanka, Eriksholheim, the former Norwegian Peace Ambassador to Sri Lanka, said that the international community should support Sri Lanka.
 
-அதன் பின்னர் அனைத்து நாடுகளினதும் தூதுவர்களை அவர் சந்தித்துள்ளார்.மேற்குலகம் , ரஸ்யா மேலும் பல நாடுகள்.
+Two weeks after Anuragumara was elected as the new President of Sri Lanka, he has used this time.
 
-இலங்கைக்கு முதலிடம் என்ற வெளிவிவகார கொள்கையே பின்பற்றப்படும் என்ற சமிக்ஞையை அவர் வெளியிட்டுள்ளார்.
+In the first place with the Indian Ambassador and later the Chinese Ambassador, it was the first country to be the first country to be the first country to be the first country.
+
+He has since met the ambassadors of all countries. West, Russia and many other countries.
+
+He has issued a signal that Sri Lanka's first foreign policy will be followed.
+
+After taking office, Anura Kumaradisanayake immediately visited the Dalada Malika in Kandy. He received the support of the Mahanayaka Thera.
+
+He has extended his hands towards the business community, and that it can bring about resources to improve the prosperity of educational health and the creation of opportunities for the poor.
 
 ...
 
 [Data](articles/b2798b53.json)
+
+[Extended Data](ext_articles/b2798b53.ext.json)
 
 ---
 
@@ -272,21 +360,27 @@ A magisterial inquest is scheduled to be conducted on the bodies, the police sai
 
 ---
 
-### பாராளுமன்றத் தேர்தலில் போட்டியிடப் போவதில்லை - பந்துல குணவர்தன
+### Bandula Gunawardena is not going to contest parliamentary elections
 
 *2024-10-04 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195474) · `ta`
 
-பாராளுமன்றத் தேர்தலில் போட்டியிடப் போவதில்லை என முன்னாள் அமைச்சர் பந்துல குணவர்தன அறிவித்துள்ளார்.
+Former Minister Bandula Gunawardena announces he won't run in upcoming parliamentary elections. He cites over 20 years in politics, including roles as Deputy Minister and Cabinet Minister. Plans to focus on education and filmmaking instead.
 
-ஹோமாகம தேர்தல் தொகுதியை பிரதிநிதித்துவப்படுத்தி 20 வருடங்களுக்கும் மேலாக அரசியலில் ஈடுப்பட்டுள்ளேன். இந்நிலையில், நான் பிரதி அமைச்சராகவும் அமைச்சரவை அமைச்சராகவும் செயற்பட்டுள்ளேன்.
+🟩
 
-நீண்டகாலமாக பாராளுமன்றத்தில் பிரதிநிதித்துவம் இல்லாமல் இருந்த ஹோமாகம தொகுதியை நான் பிரதிநிதித்துவப்படுத்தியமைக்கும்,  ஹோமாகம நகரை கல்வியின் மையமாக மாற்றியமைக்காகவும் மகிழ்ச்சியடைகிறேன்.
+Former Minister Bandula Gunawardena has announced that he will not contest the parliamentary election.
 
-கலாநிதி பட்டத்தை பெறுவதற்காக கல்வியை தொடரவும், திரைப்படம் தயாரிப்பதற்கும் தனது நேரத்தை செலவிட திட்டமிட்டுள்ளேன் என தெரிவித்துள்ளார்.
+I have been in politics for more than 20 years representing the Homagama electorate. In this case, I have acted as Deputy Minister and Cabinet Minister.
+
+I am happy to represent the Homagama constituency that has long been without representation in Parliament and transform the city of Homagama into the center of education.
+
+"I am planning to spend his time to continue education and make a film to get a doctor's degree."
 
 ◼️
 
 [Data](articles/147e11e5.json)
+
+[Extended Data](ext_articles/147e11e5.ext.json)
 
 ---
 
@@ -314,31 +408,43 @@ Later, the case was ordered to be called on November 4 for pre-trial conference.
 
 ---
 
-### ජනපති සහ අයි.එම්.එෆ්. අතර දෙවන දිනටත් සාකච්ඡා
+### President and IMF. Among the second days
 
 *2024-10-04 14:34:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-අයි-එම්-එෆ්--අතර-දෙවන-දිනටත්-සාකච්ඡා/11-412309) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහන ශක්තිමත්ව ඉදිරියට ගෙන යාම වෙනුවෙන් වූ වත්මන් ජනාධිපතිවරයාගේ කැපවීම තහවුරු කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදල අතර විශේෂ සාකච්ඡාවක් දෙවන දිනටද අද (04) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී  ආරම්භ කෙරිණි.
+Sri Lanka President Anura Kumara Dissanayake met IMF officials led by Dr. Peter Barwer. They discussed economic reforms and alternatives to achieve IMF program goals.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ආසියා පැසිෆික් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ක්‍රිෂ්ණ ශ්‍රීනිවාසන් (Krishna Srinivasan), ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී ආචාර්ය පීටර් බෘවර් (Dr. Peter Breuer) යන මහත්වරු ප්‍රමුඛ ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ නියෝජිතයින් සහ IMF සාකච්ඡා සඳහා පත් කෙරුණු මෙරට නියෝජිත කණ්ඩායම ඊට එක්ව සිටියි.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහනේ ඉලක්ක සපුරා ගන්නා අතරම ජනතාව මත පැටවෙන පිඩනය ඉවත් කෙරෙන විකල්ප මාර්ගයන් ඔස්සේ එම අරමුණු වෙත ළඟා වීම ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ අරමුණයි.
+President Anura Kumara Dissanayake and the International Monetary Fund (IMF) opened a special discussion between the International Monetary Fund (IMF) and the International Monetary Fund.
+
+International Monetary Fund Asia Pacific Department Director General Mission Senior Mission Head of Senior Mission Dr. Peter Barwer (Dr.. The Sri Lankan delegation, appointed to senior representatives of the International Monetary Fund and IMF talks, are appointed to the Jathika International Monetary Fund.
+
+President Anura Kumara Dissanayake is the objective of reaching those objectives through alternative routes that will be achieved by the program with the International Monetary Fund.
 
 ◼️
 
 [Data](articles/15e95de1.json)
 
+[Extended Data](ext_articles/15e95de1.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-10-04 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195469) · `ta`
 
-இன்று வெள்ளிக்கிழமை (04) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.4949 ரூபாவாகவும், விற்பனை விலை 298.4983 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US dollar exchange rate: 289.4949 rupees buying, 298.4983 selling. Released by Central Bank on Friday (04).
+
+🟩
+
+The US dollar purchasing price was 289.4949 rupees and the sales price were 298.4983 rupees based on a currency exchange rate released by the Central Bank on Friday (04).
 
 ◼️
 
 [Data](articles/30335884.json)
+
+[Extended Data](ext_articles/30335884.ext.json)
 
 ---
 
@@ -408,21 +514,35 @@ Indian External Affairs Minister Dr. Subramaniam Jaishankar, who has arrived in 
 
 ---
 
-### திருப்தியுடனேயே   வெளியேறுகிறேன் ; மீண்டும் சட்டத்தரணி தொழிலை ஆரம்பித்தார் அலி சப்ரி
+### I am satisfied;Ali Sabri started the lawyer business again
 
 *2024-10-04 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/195465) · `ta`
 
-மிகவும் சவாலான ஐந்து வருட காலப் பகுதியில் அரசியலில் என்னால் முடியுமான அனைத்தையும் இந்த நாட்டுக்காக செய்தேன். அந்த வகையில் நாட்டுக்கு ஆற்றிய சேவை தொடர்பில் நான் திருப்தியுடன் வெளியேறுகிறேன். இனி அரசியலில் பிரவேசிக்க மாட்டேன் என்று முன்னாள் வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+Here's a 200-character summary:
 
-கடந்த ஜனாதிபதித் தேர்தலில் ஆட்சி மாற்றம் ஏற்பட்டதுடன் பாராளுமன்றம் கலைக்கப்பட்டது. இந்நிலையில் முன்னாள் வெளிவிவகார அமைச்சர் அலி சப்ரி அரசியலிலிருந்து முழுமையாக வெளியேறியுள்ளதுடன் மீண்டும் தனது சட்டத்தரணி தொழிலை ஆரம்பித்திருக்கிறார்.
 
-நேற்று வியாழக்கிழமை (03) தனது முன்னைய சட்டத்தரணி தொழிலை ஆரம்பித்த ஜனாதிபதி சட்டத்தரணி அலி சப்ரி தனது குழுவினருடன் எடுத்துக்கொண்ட புகைப்படம் ஒன்றை சமூக வலைதளத்தில் பதிவிட்டிருந்தார்.
 
-‘‘எனக்கு உரிய இடத்துக்கு மீண்டும் திரும்பி வந்தமை தொடர்பில் நன்றாக உணர்கிறேன்’’ இவ்வாறு ஜனாதிபதி சட்டத்தரணி அலி சப்ரி எக்ஸ் தளத்தில் பதிவிட்டிருக்கிறார்.
+Former Foreign Minister Ali Sabri ends political career, returns to law practice. Served as Finance Minister, Foreign Minister during crises. Resumes lawyer business, citing satisfaction with public service.
+
+🟩
+
+I did everything I could in politics during the five years of the most challenging. I am satisfied with the service provided to the country. Former Foreign Minister Ali Sabri said he would no longer enter politics.
+
+In the last presidential election, a regime change and parliament was dissolved. Former Foreign Minister Ali Sabri has completely out of politics and has once again started his lawyer business.
+
+President's Attorney Ali Sabri posted a photo of his team on the social network yesterday (03), who started his previous lawyer business.
+
+President Attorney Ali Sabri has posted on the site so that I feel better about returning to my place.
+
+Ali Sabri, who entered the politics of 2020, came to Parliament on behalf of the Sri Lanka PA, and was appointed by the former President Gotabhaya Rajapakse as Justice.
+
+Later, the economic crisis was appointed as the Finance Minister during the Arakalai period and Ranil Wickremesinghe was appointed as the Foreign Minister after becoming President.
 
 ...
 
 [Data](articles/feeff9b1.json)
+
+[Extended Data](ext_articles/feeff9b1.ext.json)
 
 ---
 
@@ -468,19 +588,25 @@ The President had also met with the visiting high-level IMF delegation yesterday
 
 ---
 
-### யாழ்ப்பாண மாவட்டத்தில் டெங்கு நோய் கட்டுப்படுத்தல் தொடர்பான விசேட கலந்துரையாடல்
+### Special Discussion on Dengue Control Control in Jaffna District
 
 *2024-10-04 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195463) · `ta`
 
-யாழ்ப்பாண மாவட்டத்தில் டெங்குநோயை கட்டுப்படுத்தல் தொடர்பான கலந்துரையாடல் யாழ்ப்பாண மாவட்ட அரசாங்க அதிபரும் மாவட்டச் செயலாளருமான  மருதலிங்கம் பிரதீபன் அவர்களின் தலைமையில் நேற்று வியாழக்கிழமை (03) மாவட்ட செயலக கேட்போர் கூடத்தில் இடம்பெற்றது.
+Dengue control meeting in Jaffna: District officials discuss prevention strategies as rainy season approaches.
 
-மழை காலம் வருவதனால் டெங்கு நோய் வராமல் தடுப்பதற்குரிய வழிவகைகள் ஆராயப்பட்டு கலந்துரையாடலில் தீர்மானங்கள்  எடுக்கப்பட்டன.
+🟩
 
-இக் கலந்துரையாடலில் மாகாண சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி சமன் பத்திரண, பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஆ.கேதீஸ்வரன், மேலதிக அரசாங்க அதிபர் (காணி) க.ஸ்ரீமோகனன், யாழ்ப்பாண மாவட்ட பிரதேச செயலாளர்கள், சுகாதார வைத்திய அதிகாரிகள், சிரேஷ்ட பொது சுகாதார பரிசோதகர்கள், பிரதேச சபை செயலாளர்கள், சமூக மட்ட அமைப்புக்களின் பிரதிநிதிகள்,மாவட்ட செயலக உத்தியோகத்தர்கள் உள்ளிட்ட பலர் கலந்துகொண்டனர்.
+A discussion on the control of dengue in the Jaffna district was held yesterday (03) at the District Secretariat Auditorium under the patronage of Marudalingam Pradeepan, District Secretary and District Secretary.
+
+Due to the coming of the rainy season, the decisions were taken to investigate the way to prevent dengue.
+
+Provincial Health Services Director Dr. Dr. Saman Pathirana, Regional Health Services Director, Dr. A. Ketheeswaran, Additional Government Agent (Land) K. SrimohananRepresentatives of the level organizations, District Secretariat Officers and many others participated.
 
 ◼️
 
 [Data](articles/d49bdc50.json)
+
+[Extended Data](ext_articles/d49bdc50.ext.json)
 
 ---
 
@@ -2129,85 +2255,5 @@ Amid those developments both indices moved downwards yesterday. The All Share Pr
 [Data](articles/c7ed3916.json)
 
 [Extended Data](ext_articles/c7ed3916.ext.json)
-
----
-
-### A boy who is addicted to a mobile game in Jaffna
-
-*2024-10-04 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195438) · `ta`
-
-Boy addicted to Free Fire game in Jaffna wrongfully committed. Student absent from school for 3 months due to gaming addiction. Parents confiscate phone, but child runs away. Found dead near house. Anatomical exam performed.
-
-🟩
-
-A boy who is addicted to a mobile game in Jaffna today has been wrongly committed. The deceased is a student from Lotus Road, Varnaparpanai and Jaffna, Jaffna, a student of Periyapulam Maha Vidyalaya, Jaffna.
-
-The student has not gone to school for the past 3 months as the student is addicted to the mobile phone game called Free Fire. It is reported that the Grama Niladhari, Chancellor, Teachers and Divisional Secretariat Officers did not go to school demanding that they come to school.
-
-In this case, the father has seized the student's cell phone. The student left the house on 25.10.2024. Parents filed a complaint at the Jaffna Police Station.
-
-A relative brought him home last night (02), claiming that the student was standing at his house in Paranthan and joined his parents.. The student played the game about 2 am this morning and lifted the land near the house.
-
-...
-
-[Data](articles/e496c02d.json)
-
-[Extended Data](ext_articles/e496c02d.ext.json)
-
----
-
-### Discussion on Northern Province Transportation
-
-*2024-10-04 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195437) · `ta`
-
-Northern Province transportation issues discussed: private transport council challenges, state vs private transport board time restrictions, association violations, worker discipline, bus owner livelihoods. Governor calls for provincial road transport authority response and investigation of implementation problems.
-
-🟩
-
-Governor of the Northern Province. The Vedanayaka was held on Thursday (3).
-
-During the discussion at the Governor's Secretariat, the issues faced by the private transport councils were discussed in detail and the opportunities and shortcomings in the private bus station and bus stops.
-
-The time restrictions between both the State Transport and the Private Transport Board were also investigated.
-
-The newly joined associations have violated the procedures between private transport associations and that there are many problems and travelers are facing many obstacles.
-
-It was also discussed on the discipline of those who work in private transport associations and the implementation of their clothes.
-
-According to the route's license. There were also problems facing the livelihood of private bus owners.
-
-The Governor said that the Provincial Road Transport Authority should be given the appropriate response to the Northern Provincial Transport Board and the Northern Provincial Transport Board.
-
-...
-
-[Data](articles/b9c518d1.json)
-
-[Extended Data](ext_articles/b9c518d1.ext.json)
-
----
-
-### 8 Independent Committees in Jaffna Election District
-
-*2024-10-04 02:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195436) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"8 independent committees oversee Jaffna election district. Nominations due by noon on 11th."
-
-🟩
-
-Jaffna District Elections Office and Government Agent Marudalingam Pradeepan said that 8 Independent Committees have paid control of the upcoming parliamentary election in the Jaffna election district.
-
-He was speaking at a media briefing held at the Jaffna District Secretariat on Thursday (3). In addition,
-
-Accordingly, nominations can be submitted till 12 noon on the 11th.
-
-◼️
-
-[Data](articles/ddd39725.json)
-
-[Extended Data](ext_articles/ddd39725.ext.json)
 
 ---

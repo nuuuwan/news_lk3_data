@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 07:26:07**
+As of **2024-10-04 08:21:57**
 
 ## Newspaper Stats
 
-*Scraped **47,699** Articles*
+*Scraped **47,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,71 @@ newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 470
 colombotelegraphcom | 473
-islandlk | 2,806
+islandlk | 2,807
 economynextcom | 2,918
 dailyftlk | 3,222
 adalk | 4,412
 dailymirrorlk | 4,733
-adaderanalk | 5,604
-tamilmirrorlk | 6,427
+adaderanalk | 5,606
+tamilmirrorlk | 6,428
 virakesarilk | 7,632
-adaderanasinhalalk | 8,245
+adaderanasinhalalk | 8,246
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,686 (100.0%) of 47,699 articles have been extended.
+47,693 (100.0%) of 47,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### UN Security Council backs Guterres after Israel bars him from country
+
+*2024-10-04 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102429/un-security-council-backs-guterres-after-israel-bars-him-from-country) · `en`
+
+The United Nations Security Council on Thursday expressed its full support for Secretary-General Antonio Guterres after Israel’s foreign minister said he was barring him from entering the country.
+
+The 15-member council said in a statement that “any decision not to engage with the U.N. Secretary-General or the United Nations is counterproductive, especially in the context of escalating tensions in the Middle East.”
+
+The statement did not name Israel. Such statements by the council are agreed by consensus.
+
+◼️
+
+[Data](articles/f2a0aec3.json)
+
+---
+
+### Showers expected in parts of the country
+
+*2024-10-04 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102428/showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at a few places in Northern, Eastern and Uva provinces during the afternoon or night.
+
+A few showers may occur in the coastal areas of Southern and Western provinces during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/451c2ee2.json)
+
+---
+
+### දරුවන්ට මුඛ ආවරණ පළඳවන ලෙස ඉල්ලීමක්
+
+*2024-10-04 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201825) · `si`
+
+ඉන්ෆ්ලුවෙන්සා රෝග ලක්ෂණ සහිත දරුවන් මේ දිනවල වාර්තාවන බැවින් එම රෝග ලක්ෂණ සහිත දරුවන්ට මුඛ ආවරණ පළඳවන ලෙස සෞඛ්‍ය අංශ මව්පියන්ගෙන් ඉල්ලා සිටියි.
+
+එමෙන්ම අත්, පා මුඛ රෝගය (Hand, foot and mouth disease) සහිත දරුවන්ද මේ දිනවල වාර්තා වන බැවින් නිසි සෞඛ්‍ය උපදෙස් අනුගමනය කිරිම තුළින් දරුවන් ආරක්ෂා කරගත හැකි බව ළමාරෝග විශේෂඥ වෛද්‍ය දිපාල් පෙරේරා මහතා පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/028987f8.json)
+
+---
 
 ### Change of rain condition
 
@@ -146,6 +192,8 @@ Dissanayake emphasised that unlike under previous administrations, public sector
 
 [Data](articles/fb01ef4a.json)
 
+[Extended Data](ext_articles/fb01ef4a.ext.json)
+
 ---
 
 ### Exim Bank of Korea to provide financial support for SL’s development projects
@@ -166,6 +214,8 @@ Exim Bank Director Won-suk HA, Deputy Director Hanui Han, Project Manager Nalin 
 
 [Data](articles/49e48440.json)
 
+[Extended Data](ext_articles/49e48440.ext.json)
+
 ---
 
 ### MillenniumIT ESP expands global reach with new delivery hub at Port City Colombo
@@ -179,6 +229,8 @@ This new centre, registered under the company’s subsidiary, Millennium IT ESP 
 ...
 
 [Data](articles/e13ada06.json)
+
+[Extended Data](ext_articles/e13ada06.ext.json)
 
 ---
 
@@ -194,6 +246,8 @@ As Chairman of the Panel, Rathika de Silva will lead an experienced and versatil
 
 [Data](articles/04e8bd1f.json)
 
+[Extended Data](ext_articles/04e8bd1f.ext.json)
+
 ---
 
 ### RW allies to contest general election under “Gas Cylinder” symbol
@@ -208,6 +262,8 @@ United National Party (UNP) Kesbewa Electoral Seat Organiser Saman Rathnapriya, 
 
 [Data](articles/e6b89cf0.json)
 
+[Extended Data](ext_articles/e6b89cf0.ext.json)
+
 ---
 
 ### Pathfinder Foundations launches Sinhala translation of “The India Way: Strategies for an Uncertain World”
@@ -221,6 +277,8 @@ The decade from the 2008 global financial crisis to the 2020 COVID-19 pandemic, 
 ...
 
 [Data](articles/7b654540.json)
+
+[Extended Data](ext_articles/7b654540.ext.json)
 
 ---
 
@@ -239,6 +297,8 @@ Samagi Jana Balawegaya (SJB) leader Sajith Premadasa has emphasised the need for
 ...
 
 [Data](articles/798ef81a.json)
+
+[Extended Data](ext_articles/798ef81a.ext.json)
 
 ---
 
@@ -267,6 +327,20 @@ Ceremonial welcomes was accorded to the incoming delegation, and were received b
 ...
 
 [Data](articles/27dac6ce.json)
+
+---
+
+### புதிய செயலாளராக ஆலோக பண்டார நியமனம்
+
+*2024-10-04 03:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளராக-ஆலோக-பண்டார-நியமனம்/175-344900) · `ta`
+
+உள்நாட்டு அலுவல்கள், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சு மற்றும் தொழில் அமைச்சின் புதிய செயலாளராக எஸ்.ஆலோக பண்டார நியமிக்கப்பட்டுள்ளார்.
+
+புதிய நியமனக் கடிதம் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவினால் ஜனாதிபதி அலுவலகத்தில் நேற்று  வழங்கபட்டது. (a)
+
+◼️
+
+[Data](articles/b90acbee.json)
 
 ---
 
@@ -2295,105 +2369,5 @@ The Colombo High Court has ordered to be summoned by the Bribery and Corruption 
 [Data](articles/74c7d8dd.json)
 
 [Extended Data](ext_articles/74c7d8dd.ext.json)
-
----
-
-### Rs 1 crore robbery in Jaffna: two arrested
-
-*2024-10-03 14:59:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-ரூ-1-கோடி-கொள்ளை-இருவர்-கைது/71-344873) · `ta`
-
-Jaffna robbery: Two suspects arrested for stealing Rs 1 crore from a man returning home. Police recovered stolen money and phone. Case filed at Mallakam Magistrate's Court.
-
-🟩
-
-Police have arrested two suspects for allegedly robbing a man who had been returning home with a money of Rs.
-
-A person from Sanguveli area recently lives abroad, recently visited Jaffna. He was returning home with the money he sold his land on Wednesday (02).
-
-The two men who had been following a motorcycle had been attacked on the street and robbed him of money, passports and a mobile phone worth Rs.
-
-The police were conducting investigations after lodging a complaint at the Manipay police station.
-
-On the basis of the confidential information received by the police that the suspects were hidden in the area, the police have arrested two men who rushed to the scene.
-
-They have also recovered robbery of money and mobile phone from the arrested.
-
-The police have taken steps to the Mallakam Magistrate's Court.
-
-◼️
-
-[Data](articles/a3f08cad.json)
-
-[Extended Data](ext_articles/a3f08cad.ext.json)
-
----
-
-### We will be supporting public servants who dedicated to the creation of a repetitive people's welfare service - the President
-
-*2024-10-03 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195391) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake vows to support public servants creating welfare services, ending political retaliation against officials striving for citizen benefits. He emphasizes eradicating rural poverty and improving public service efficiency.
-
-🟩
-
-We will support the public servants who dedicate themselves to create a public welfare public service. President Anura Kumara Dissanayake has said that even though the state officials who strive for citizens face political revenge, the custom will no longer continue.
-
-The President said this during a discussion with the officials of the Ministry after taking over the duties on Thursday morning (03) as Minister of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources.
-
-He discussed the current situation of the Ministry of Agriculture and future activities with the President, Secretaries of the Ministry and top officials of the Ministry.
-
-The President pointed out that the contribution to the Ministry of Agriculture to eradicate rural poverty is immense and whether or not poverty will be eradicated in accordance with the activities of state officials.
-
-...
-
-[Data](articles/92cda851.json)
-
-[Extended Data](ext_articles/92cda851.ext.json)
-
----
-
-### Maithri's son joined Dilith
-
-*2024-10-03 14:48:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-புதல்வர்-திலித்துடன்-இணைந்தார்/175-344872) · `ta`
-
-Maithri's son joins Dilith. Former MP Rajika Wickremesinghe and ex-president's son Daham Sirisena join MJP. Appointed district organizers for Kegalle and Polonnaruwa.
-
-🟩
-
-Former parliamentarian Rajika Wickremesinghe and former president's son Daham Sirisena joined the party in support of Dilith Jayaweera.
-
-They have been appointed as the Maubima Janata Party (MJP) and the district organizers of the Kegalle and Polonnaruwa district respectively.
-
-◼️
-
-[Data](articles/09f6ee45.json)
-
-[Extended Data](ext_articles/09f6ee45.ext.json)
-
----
-
-### Indian External Affairs Minister visits Sri Lanka, to meet President, PM
-
-*2024-10-03 14:39:00* · [`economynextcom`](https://economynext.com/indian-external-affairs-minister-visits-sri-lanka-to-meet-president-pm-182151/) · `en`
-
-ECONOMYNEXT – Indian External Affairs Minister Subrahmanyam Jaishankar will be undertaking an official visit to Sri Lanka on Friday, the island nation’s Foreign Ministry said.
-
-Jaishankar will be the first foreign dignitary to meet the President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya after their National People’s Power (NPP) won the presidential poll on September 21.
-
-The visiting Indian External Affairs Minister and his delegation will also have a meeting with Foreign Minister Vijitha Herath at the Ministry of Foreign Affairs.
-
-India has been pushing for renewable energy, power, and port projects in Sri Lanka in the last few years. Some of its projects have been in limbo due to a long approval process and legal challenge in court.
-
-Minister Jaishankar met Dissanayake in February this year when the current Sri Lankan president went on an official visit to India when he was in the opposition.
-
-...
-
-[Data](articles/8adfc2e4.json)
-
-[Extended Data](ext_articles/8adfc2e4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 21:09:59**
+As of **2024-10-04 21:23:08**
 
 ## Newspaper Stats
 
-*Scraped **47,821** Articles*
+*Scraped **47,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 474
 islandlk | 2,813
 economynextcom | 2,923
 dailyftlk | 3,222
-adalk | 4,423
+adalk | 4,424
 dailymirrorlk | 4,733
 adaderanalk | 5,629
-tamilmirrorlk | 6,447
+tamilmirrorlk | 6,448
 virakesarilk | 7,653
 adaderanasinhalalk | 8,274
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,821 (100.0%) of 47,821 articles have been extended.
+47,823 (100.0%) of 47,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Hand over before November 7
+
+*2024-10-04 20:59:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பர்-7-க்கு-முன்-ஒப்படையுங்கள்/175-344923) · `ta`
+
+Ministry of Defense recovers weapons, bullets by Nov 7. Owners must hand them over. Review process follows.
+
+🟩
+
+The Ministry of Defense has stated that it has decided to recover all the guns and bullets provided to the public for self -defense.
+
+The Ministry of Defense further stated that the guns and bullets should be handed over before November 07.
+
+The Ministry of Defense has stated that the guns will be reviewed and then re -handed over to the owners after reviewing what is needed. Remble
+
+◼️
+
+[Data](articles/91f6efe7.json)
+
+[Extended Data](ext_articles/91f6efe7.ext.json)
+
+---
 
 ### Ranasin Jayatilake joins GS sports
 
@@ -403,6 +425,32 @@ In the first nine months of the first 9 months, the largest number of Sri Lankan
 [Data](articles/d9a92062.json)
 
 [Extended Data](ext_articles/d9a92062.ext.json)
+
+---
+
+### IMF. A discussions are successful
+
+*2024-10-04 17:45:25* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-සාකචඡා-සාර්ථකයි/11-412311) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake met with IMF officials. They discussed overcoming future IMF reviews and potential delays. The President agreed with IMF goals and public prospects. A positive atmosphere led to a 3-day negotiation series. Key attendees included IMF Asia Pacific Director Krishna Srinivas and Senior Mission Head Heather Brewer.
+
+🟩
+
+President Anura Kumara Dissanayake held a discussion with the International Monetary Fund (IMF) at the Presidential Secretariat and the second discussion between the International Monetary Fund and the President.
+
+The two sides discussed the steps to be taken to overcome the future review of the program with the International Monetary Fund and the possible delays.
+
+Meanwhile, the President emphasized that he agrees with the purposes of the IMF program the objectives of the IMF program and the prospect of the public.
+
+Therefore, it is the purpose of achieving alternative approaches that will be achieved by the program targets with the International Monetary Fund.
+
+A good and friendly environment for this purpose was built between the two sides and the negotiation series of three days.. With that, the IMF delegation is the closing of the IMF delegation this time.
+
+...
+
+[Data](articles/c823fd52.json)
+
+[Extended Data](ext_articles/c823fd52.ext.json)
 
 ---
 
@@ -2375,47 +2423,5 @@ Anura Kumara Dissanayake, candidate of the Janatha Vimukthi Peramuna (JVP) and N
 [Data](articles/9ac3fd2c.json)
 
 [Extended Data](ext_articles/9ac3fd2c.ext.json)
-
----
-
-### Health officials warn over spread of hand, foot and mouth disease among children
-
-*2024-10-04 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102430/health-officials-warn-over-spread-of-hand-foot-and-mouth-disease-among-children) · `en`
-
-As children with influenza symptoms are being reported these days, health officials are advising parents to ensure their children wear face masks.
-
-Pediatrician Dr. Deepal Perera notes that cases of children infected with hand, foot, and mouth disease are also on the rise, emphasizing the importance of adhering to proper health guidelines to protect children.
-
-◼️
-
-[Data](articles/951a6c9c.json)
-
-[Extended Data](ext_articles/951a6c9c.ext.json)
-
----
-
-### Dineshla's final decision today
-
-*2024-10-04 07:54:27* · [`adalk`](https://www.ada.lk/breaking_news/දිනේෂ්ලාගේ-අවසන්-තීරණය-අද/11-412307) · `si`
-
-United National UPFA agrees to compete in Gas Cylinder event. Final decision pending. Party to run candidates in all districts. Led by UNP's Dinesh Gunawardena.
-
-🟩
-
-The final agreement on whether the Common Faming UPFA competitions will contest under the Gas Cylinder is to be studied.
-
-Leading the United Nations Dinesh Gunawardena, the United National UPFA has agreed to compete in the Gas Cylinder, but the final decision will be taken up today.
-
-The Commonwealth Executive Committee of the United Floor Freedom Alliance (CHOGM) was held yesterday (3) in Colombo.
-
-The General United Floor Alliance has also decided to present candidates for all districts of the country.
-
-A senior spokesman of the United FLugs United Freedom Alliance said that his party would often compete as a party leader who led former President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/a85373ce.json)
-
-[Extended Data](ext_articles/a85373ce.ext.json)
 
 ---

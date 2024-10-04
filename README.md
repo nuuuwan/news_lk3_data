@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 17:39:39**
+As of **2024-10-04 17:59:47**
 
 ## Newspaper Stats
 
-*Scraped **47,793** Articles*
+*Scraped **47,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,923
 dailyftlk | 3,222
 adalk | 4,421
 dailymirrorlk | 4,733
-adaderanalk | 5,623
+adaderanalk | 5,624
 tamilmirrorlk | 6,445
 virakesarilk | 7,648
 adaderanasinhalalk | 8,265
@@ -26,27 +26,59 @@ adaderanasinhalalk | 8,265
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,792 (100.0%) of 47,793 articles have been extended.
+47,794 (100.0%) of 47,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
 
-### රාජිත ඇතුළු දෙදෙනෙකුට එරෙහි සුදු වෑන් නඩුව කල් යයි
+### Increase in Sri Lankans migrating for foreign employments
+
+*2024-10-04 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102450/increase-in-sri-lankans-migrating-for-foreign-employments) · `en`
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) states that Sri Lanka has seen a significant increase in the number of Sri Lankans departing for overseas employments in September 2024, compared to the same period in 2023.
+
+The SLBFE highlighted that accordingly, there has been a 10% increase in Sri Lankans departing for foreign employments as 28,344 individuals have been expatriated in the in the month of September alone in 2024. The figure was recorded as 25,716 in September 2023, according to the SLBFE.
+
+Meanwhile, over 240,000 Sri Lankans have left for overseas employment within the first 09 months of 2024, it added, noting that this includes 99,939 females and 142,170 males.
+
+The total number of skilled workers who have departed for foreign employment thus far in 2024 is 70,396 while 3,704 others have left for semi-skilled jobs.
+
+The highest number of Sri Lankans has sought employment opportunities in the Kingdom of Saudi Arabia so far in 2024, as per figures released by the SLBFE.
+
+...
+
+[Data](articles/cc803f9a.json)
+
+[Extended Data](ext_articles/cc803f9a.ext.json)
+
+---
+
+### White van case postponed against Rajitha
 
 *2024-10-04 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201844) · `si`
 
-හිටපු අමාත්‍ය රාජිත සේනාරත්න මහතා ඇතුළු විත්තිකරුවන් දෙදෙනෙකුට එරෙහිව ගොනු කර තිබෙන නඩුවෙන්  විත්තිවාචකය කැඳවීමකින් තොරව විත්තිකරුවන්  නිදහස් කරන ලෙස කෙරුණු ඉල්ලීම පිළිබඳ නියෝගය ලබන 24 වැනිදා ප්‍රකාශයට පත් කරන බව කොළඹ මහාධිකරණය අද (04) නිවේදනය කළේය.
+Colombo High Court postpones White Van case against Rajitha Senaratne. Case related to 2019 presidential election allegations. Defendants released due to lack of evidence. Next hearing scheduled for 24th.
 
-2019 වසරේ පැවැති ජනාධිපතිවරණය සමයේ සුදු වෑන්වලින් පුද්ගලයින් පැහැරගෙන යාම පිළිබඳව මාධ්‍ය සාකච්ඡාවක් පවත්වා එවකට ජනාධිපති අපේක්ෂක ගෝඨාභය රාජපක්ෂ මහතාට අගතියක් සිදු කළේ යැයි හිටපු පාර්ලිමේන්තු මන්ත්‍රී රාජිත සේනාරත්න ඇතුළු දෙදෙනෙකුට චෝදනා එල්ල විය.
+🟩
 
-මෙම නඩුව අද කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා ඉදිරියේ කැඳවනු ලැබීය.
+The Colombo High Court today announced that the order on the request was issued on the 24th of this month, former Minister Rajitha Senaratne and two defendants filed against two defendants.
 
-එහිදී විත්තිකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරු  අධිකරණය හමුවේ කරුණු දක්වමින් මෙම නඩුවේ විත්තිකරුවන්ට එරෙහිව එල්ල කර තිබෙන චෝදනා සාධාරණ සැකයකින් ඔබ්බට ඔප්පු කිරීමට පැමිණිල්ල අසමත් වී ඇති බැවින් විත්තිවාචකය කැඳවීමකින් තොරව විත්තිකරුවන් නිදහස් කරන ලෙස ඉල්ලා සිටියේය.
+Former Parliamentarian Rajitha Senaratne, including a media discussion was accused of a press conference regarding the abduction of the Presidential Elections in the 2019 presidential election.
+
+The case was called before Colombo High Court Judge Sujeewa Nissanka.
+
+The lawyers appearing on behalf of the defendants appeared to the court, the complaint failed to prove the accusations beyond a reasonable doubt, the defendants were asked to release the defendants without calling.
+
+The Attorney General who appeared on behalf of the Attorney General was presented against the defendant Rajitha Senaratne, as the defendant was called for a decision.
+
+After considering the facts presented by the judge, is the defendant acquitted without calling the defense orte?Not?The order ordered that the 24th of this month.
 
 ...
 
 [Data](articles/e75734fb.json)
+
+[Extended Data](ext_articles/e75734fb.ext.json)
 
 ---
 
@@ -2281,25 +2313,5 @@ Ceremonial welcomes was accorded to the incoming delegation, and were received b
 [Data](articles/27dac6ce.json)
 
 [Extended Data](ext_articles/27dac6ce.ext.json)
-
----
-
-### Alaka Bandara appointment as the new secretary
-
-*2024-10-04 03:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளராக-ஆலோக-பண்டார-நியமனம்/175-344900) · `ta`
-
-S. Aloka Bandara named new Secretary of Ministry of Home Affairs, Provincial Councils, Local Government, and Labor. Appointment letter issued by Dr. Nandika Sanath Kumanayake at President's Office.
-
-🟩
-
-S. Aloka Bandara has been appointed as the new Secretary of the Ministry of Home Affairs, Provincial Councils and Local Government and Labor.
-
-The new appointment letter was issued yesterday at the President's Office by Dr. Nandika Sanath Kumanayake.. (A)
-
-◼️
-
-[Data](articles/b90acbee.json)
-
-[Extended Data](ext_articles/b90acbee.ext.json)
 
 ---

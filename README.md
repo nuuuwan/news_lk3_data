@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 16:38:38**
+As of **2024-10-04 16:55:35**
 
 ## Newspaper Stats
 
-*Scraped **47,788** Articles*
+*Scraped **47,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,923
 dailyftlk | 3,222
 adalk | 4,421
 dailymirrorlk | 4,733
-adaderanalk | 5,622
+adaderanalk | 5,623
 tamilmirrorlk | 6,444
 virakesarilk | 7,648
 adaderanasinhalalk | 8,262
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,788 (100.0%) of 47,788 articles have been extended.
+47,789 (100.0%) of 47,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Court further suspends Keheliya and family’s assets worth Rs. 97 mn
+
+*2024-10-04 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102448/court-further-suspends-keheliya-and-familys-assets-worth-rs-97-mn-) · `en`
+
+The Colombo High Court has further extended the order issued suspending the fixed deposits and insurance policies to the tune of Rs. 97 million belonging to former Health Minister Keheliya Rambukwella and fiver of his close relatives, in connection with an investigation by the Bribery Commission.
+
+This order was issued by the Colombo High Court after considering a request made by the Bribery Commission.
+
+On July 05, the Colombo High Court suspended the fixed deposits and insurance policies to the tune of Rs. 97 million belonging to former Health Minister Keheliya Rambukwella and fiver of his close relatives for a period of 03 months which ended from today (04).
+
+Accordingly, after considering the request made by the Bribery Commission today, the High Court decided to further extend the suspension order until January 4.
+
+◼️
+
+[Data](articles/63511950.json)
+
+[Extended Data](ext_articles/63511950.ext.json)
+
+---
 
 ### Sri Lankans go abroad for employment
 
@@ -72,11 +92,15 @@ In the first nine months of the first nine months, the largest number of Sri Lan
 
 The visiting India’s Minister of External Affairs Dr. S. Jaishankar has called on President Anura Kumara Dissanayake in Colombo this afternoon (04).
 
-Posting on ‘X’, Dr. Jaishankar stated that he conveyed warm greetings of Indian President Droupadi Murmu and Prime Minister Narendra Modi for the appointment of President Dissanayake.
+Posting on ‘X’, Dr. Jaishankar stated that he conveyed the warm greetings of Indian President Droupadi Murmu and Prime Minister Narendra Modi for the appointment of President Dissanayake.
 
-The Indian External Affairs Minister said he appreciates Dissanayake’s “warm sentiments and guidance” for the India-Sri Lanka relations.
+The Indian External Affairs Minister said he appreciates Dissanayake’s “warm sentiments and guidance” for India-Sri Lanka relations.
 
-Meanwhile, he also said that they discussed ways to deepen ongoing cooperation and strengthen India-Sri Lanka ties for the benefit of people of two countries and the region.
+He also said that they discussed ways to deepen ongoing cooperation and strengthen India-Sri Lanka ties for the benefit of the people of the two countries and the region.
+
+Meanwhile, the new Sri Lankan president said that the discussions focused on boosting cooperation in tourism, energy, and investment.
+
+“Dr. Jaishankar reaffirmed India’s support for Sri Lanka’s economic recovery. The importance of continued collaboration on fisheries, security, and national unity was also discussed,” Dissanayake posted on ‘X’.
 
 ◼️
 
@@ -2247,25 +2271,5 @@ Beyond the corporate sector, Govindasamy has made significant contributions to S
 [Data](articles/90c184f9.json)
 
 [Extended Data](ext_articles/90c184f9.ext.json)
-
----
-
-### Operator of PickMe App, third biggest contributor to CSE turnover
-
-*2024-10-04 02:26:00* · [`islandlk`](http://island.lk/operator-of-pickme-app-third-biggest-contributor-to-cse-turnover/) · `en`
-
-Digital Mobility Solutions Lanka Limited, which operates Sri Lanka’s PickMe application for booking taxis, commenced trading in the stock market, CSE sources said.
-
-‘The shares of Digital Mobility Solutions Lanka Limited commenced trading at the CSE yesterday. The shares have been listed on the Main Board of the CSE. The occasion was marked with a special Bell Ringing ceremony, informed sources added.
-
-The initial public offer of Digital Mobility Solutions Lanka Limited was oversubscribed and closed on the opening day of September 13.
-
-Amid those developments both indices moved downwards yesterday. The All Share Price Index went down by 4.2 points, while the S and P SL20 declined by 19.2 points. Turnover stood at Rs 1.34 billion with one crossing. The crossing was reported in Commercial Credit, which crossed 1 million shares to the tune of Rs 36.3 million; its shares traded at Rs 36.30.
-
-...
-
-[Data](articles/c7ed3916.json)
-
-[Extended Data](ext_articles/c7ed3916.ext.json)
 
 ---

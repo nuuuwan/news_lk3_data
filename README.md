@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 19:23:03**
+As of **2024-10-04 19:38:51**
 
 ## Newspaper Stats
 
-*Scraped **47,816** Articles*
+*Scraped **47,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,222
 adalk | 4,423
 dailymirrorlk | 4,733
 adaderanalk | 5,628
-tamilmirrorlk | 6,445
+tamilmirrorlk | 6,447
 virakesarilk | 7,653
 adaderanasinhalalk | 8,272
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,816 (100.0%) of 47,816 articles have been extended.
+47,816 (100.0%) of 47,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### ஜெய்சங்கரின் முக்கிய சந்திப்புகள்
+
+*2024-10-04 19:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெய்சங்கரின்-முக்கிய-சந்திப்புகள்/175-344922) · `ta`
+
+இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் உத்தியோகப்பூர்வமாக இன்று இலங்கை வந்துள்ளார்.
+
+இவர் பல அரசியல் தலைவர்களை சந்தித்ததுடன், புதிய அரசாங்கத்தின் முக்கியஸ்தர்களையும், ஜனாதிபதியையும் சந்தித்தார்.
+
+மேலும், புதிய அரசாங்கத்தின் பிரதமர் கலாநிதி ஹரிணியையும் இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் சந்தித்துள்ளார். R
+
+◼️
+
+[Data](articles/c67a4521.json)
+
+---
 
 ### Defence Ministry orders to surrender all firearms issued to civilians
 
@@ -71,6 +87,20 @@ The Ministry of Defense states that those persons are due to be returned with a 
 [Data](articles/7c2d7ede.json)
 
 [Extended Data](ext_articles/7c2d7ede.ext.json)
+
+---
+
+### சஜித்தை சந்தித்தார் ஜெய்சங்கர்
+
+*2024-10-04 18:52:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-சந்தித்தார்-ஜெய்சங்கர்/175-344921) · `ta`
+
+இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் உத்தியோகப்பூர்வமாக இன்று இலங்கை வந்துள்ளார்.
+
+இவர் பல அரசியல் தலைவர்களை சந்தித்ததுடன், புதிய அரசாங்கத்தின் முக்கியஸ்தர்களையும், ஜனாதிபதியையும் சந்தித்தார்.
+
+◼️
+
+[Data](articles/3cb786e8.json)
 
 ---
 
@@ -2367,55 +2397,5 @@ Indian Foreign Minister Dr. Subramaniam Jaishankar will visit Sri Lanka today af
 [Data](articles/a0632c49.json)
 
 [Extended Data](ext_articles/a0632c49.ext.json)
-
----
-
-### Heavy rain this evening
-
-*2024-10-04 07:32:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மாலை-பலத்த-மழை/175-344903) · `ta`
-
-Heavy rain expected tonight in North, East, and Uva provinces. Thunderstorms possible. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-The Department of Meteorology has forecast rain or thunderstorms in some parts of the North, East and Uva provinces this evening or night.
-
-The Department of Meteorology has advised the public to take steps to reduce the risks caused by heavy winds and lightning in cases of thunderstorms.. (A)
-
-◼️
-
-[Data](articles/2cef360f.json)
-
-[Extended Data](ext_articles/2cef360f.ext.json)
-
----
-
-### World Bank says the front is a challenge
-
-*2024-10-04 07:30:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරිය-අභියෝගයක්-බව-ලෝක-බැංකුව-කියයි/11-412306) · `si`
-
-UN Resident Coordinator praises Sri Lanka's President Anura Kumara Dissanayake's anti-corruption efforts and commitment to community trust. Challenges ahead with IMF support.
-
-🟩
-
-President of Sri Lanka's Coordinating President Anura Kumara Dissanayake
-
-Sri Lanka's Coordinator Mark-André Franche (03) found President Anura Kumara Dissanayake at the Presidential Secretariat yesterday (03).
-
-The United Nations Resident Coordinator presented to President Anura Kumara Dissanayake, the support of the United Nations General Secretary Antonio Gutreres.
-
-Mark Andrew evaluated the moral character of President Anura Kumara Dissanayake at the last Presidential Election and the election policy statement.
-
-The residence copyright assured that the next period would be challenging with the International Monetary Fund with the International Monetary Fund.
-
-Mark Andrew praised the anti-corruption program of President Anura Kumara Dissanayake, he said.
-
-The Resident Coordinator also commended the President's commitment to enhance the trust among different groups among the community, and the resident coordinator of the resident co-ordained to promote sustainable peace in the country.He said.
-
-◼️
-
-[Data](articles/59c0ee34.json)
-
-[Extended Data](ext_articles/59c0ee34.ext.json)
 
 ---

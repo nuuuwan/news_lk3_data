@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 10:38:44**
+As of **2024-10-04 10:57:18**
 
 ## Newspaper Stats
 
-*Scraped **47,722** Articles*
+*Scraped **47,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,154 @@ colombotelegraphcom | 473
 islandlk | 2,809
 economynextcom | 2,918
 dailyftlk | 3,222
-adalk | 4,416
+adalk | 4,417
 dailymirrorlk | 4,733
-adaderanalk | 5,609
+adaderanalk | 5,611
 tamilmirrorlk | 6,434
-virakesarilk | 7,632
-adaderanasinhalalk | 8,249
+virakesarilk | 7,638
+adaderanasinhalalk | 8,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,721 (100.0%) of 47,722 articles have been extended.
+47,732 (100.0%) of 47,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Indian Foreign Minister to visit Sri Lanka
+
+*2024-10-04 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201829) · `si`
+
+Indian Foreign Minister Dr. S. Jayasankur arrives in Sri Lanka for official visit. Scheduled to meet President, PM, and Foreign Minister.
+
+🟩
+
+Indian Foreign Minister Dr. S. Jayasankur arrived in the island this morning on an official visit this morning.
+
+Jayasankur is scheduled to meet President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya.
+
+The Indian Foreign Minister and his delegation meet with Foreign Minister Vijitha Herath.
+
+◼️
+
+[Data](articles/98fedec2.json)
+
+[Extended Data](ext_articles/98fedec2.ext.json)
+
+---
+
+### Indian Foreign Minister Jaishankar arrives in Sri Lanka
+
+*2024-10-04 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102434/indian-foreign-minister-jaishankar-arrives-in-sri-lanka) · `en`
+
+India’s Minister of External Affairs, Dr. Subrahmanyam Jaishankar arrived in Sri Lanka on Friday (October 04) on an official visit.
+
+During this visit, the Indian External Affairs Minister is scheduled to pay courtesy calls on President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya.
+
+The visiting Indian External Affairs Minister and his delegation will also have a meeting with Foreign Minister Vijitha Herath at the Ministry of Foreign Affairs.
+
+Minister Jaishankar is accompanied by senior officials of the Ministry of External Affairs of India.
+
+This is the first visit of any foreign minister to Sri Lanka since the new government was sworn in last week.
+
+Dr Jaishankar’s meeting with the leadership reaffirms India’s bilateral ties with Sri Lanka, Indian media reported yesterday.
+
+...
+
+[Data](articles/5f91a058.json)
+
+[Extended Data](ext_articles/5f91a058.ext.json)
+
+---
+
+### There was no change in gas prices in October;Lap company
+
+*2024-10-04 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/195446) · `ta`
+
+No change in gas prices in October, according to Lap company CEO Niroshan J. Peiris.
+
+🟩
+
+Niroshan J.. Peiris said.
+
+◼️
+
+[Data](articles/568e8459.json)
+
+[Extended Data](ext_articles/568e8459.ext.json)
+
+---
+
+### I. Meeting between the Resident Representative of the Na Development Program and the Secretary of the President
+
+*2024-10-04 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195444) · `ta`
+
+UNDP Resident Representative Azuza Kubota met with Sri Lanka's President's Secretary Dr. Nandika Sanath Kumanayake. They discussed ongoing development projects and UNDP's support for Sri Lanka's new initiatives. Kubota praised the anti-corruption efforts and emphasized the need for digitalization in public services. The UNDP committed to assisting Sri Lanka in developing capable government officials for digital transformation.
+
+🟩
+
+The United Nations Development Program (UNDP) Azusa Kubota, Azusa Kubota, met with Dr. Nandika Sanath Kumanayake at the President's Office yesterday (03).
+
+The continuous implementation of the development projects implemented within Sri Lanka through the United Nations Development Program and the cooperation program between the Sri Lanka and the United Nations Development Program was discussed.
+
+The President's Secretary, Dr. Nandika Sanath Kumanayake, also addressed the United Nations Development Program for Sri Lanka's new development programs.
+
+Azuza Kuboda praised the government's program against corruption and emphasized the importance of moving to digitalization soon to ensure the power and effectiveness of the public service.
+
+...
+
+[Data](articles/300a3244.json)
+
+[Extended Data](ext_articles/300a3244.ext.json)
+
+---
+
+### President Anura Kumara Dissanayake will visit India as the first foreign trip
+
+*2024-10-04 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195440) · `ta`
+
+Sri Lanka's President Anura Kumara Dissanayake embarks on his first foreign trip to India. Indian Foreign Minister Dr. S. Jaishankar visits Sri Lanka today, marking the first high-level meeting between the two countries since Dissanayake's election victory on September 21.
+
+🟩
+
+Indian External Affairs Minister Dr. S. Jaishankar will visit the country today (04).
+
+It is reported that President Anura Kumara Dissanayake will make his first official foreign visit to New Delhi.
+
+Jaishankar is the first top foreign leader to meet President Anura Kumara Dissanayake after winning the presidential election on September 21.
+
+◼️
+
+[Data](articles/244b6257.json)
+
+[Extended Data](ext_articles/244b6257.ext.json)
+
+---
+
+### UN assures support for Sri Lanka’s IMF program and govt’s poverty eradication efforts
+
+*2024-10-04 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102433/un-assures-support-for-sri-lankas-imf-program-and-govts-poverty-eradication-efforts) · `en`
+
+The United Nations (UN) Resident Coordinator in Sri Lanka Marc-André Franche met with President Anura Kumara Dissanayake on Thursday (03) at the Presidential Secretariat.
+
+During the meeting, the UN Resident Coordinator conveyed the warm greetings of UN Secretary-General António Guterres to President Dissanayake, the President’s Media Division (PMD) said.
+
+Mr. Marc-André Franche praised the President’s manifesto and commended the President’s ethical nature of the political campaign, it said.
+
+The Resident Coordinator acknowledged that the coming period will be challenging as public expectations are high, but assured the UN’s support for Sri Lanka’s IMF programme and the government’s poverty eradication efforts.
+
+He also lauded the anti-corruption initiative outlined in the President Anura Kumara Dissanayake’s manifesto, noting that it offers hope for a new beginning. He assured technical and financial support from the UN to aid in these efforts, the PMD reported.
+
+...
+
+[Data](articles/721958f3.json)
+
+[Extended Data](ext_articles/721958f3.ext.json)
+
+---
 
 ### President reaffirms commitment to continuing IMF program without disruption
 
@@ -47,6 +179,30 @@ The President stated that the government plans to provide relief to those who ar
 ...
 
 [Data](articles/d1c91850.json)
+
+[Extended Data](ext_articles/d1c91850.ext.json)
+
+---
+
+### A man arrested for illegal liquor in Bamunugama
+
+*2024-10-04 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195418) · `ta`
+
+Man arrested for illegal liquor in Bamunugama. Police seized 75 liters from three-wheeler raid. Incident occurred Wednesday under Pamunugama police division.
+
+🟩
+
+Pamunugama police said that a suspect was arrested on Wednesday (02) for allegedly kidnapping illegal liquor in a three -wheeler in the Maldiyawatta area under the Pamunugama police division.
+
+The suspect has been arrested in a raid on a suspicious three -wheeler on suspicion of information received by the Pamunugama police.
+
+The suspect's 75 liters (100 bottles) of the suspect has been seized by the police.
+
+◼️
+
+[Data](articles/43b06409.json)
+
+[Extended Data](ext_articles/43b06409.ext.json)
 
 ---
 
@@ -89,6 +245,28 @@ Laugfs says that no domestic gas is not revised for the month of October.
 [Data](articles/d806d7b1.json)
 
 [Extended Data](ext_articles/d806d7b1.ext.json)
+
+---
+
+### The risk of spreading hands, leg, oral infections among children
+
+*2024-10-04 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195442) · `ta`
+
+Risk of spreading hand, foot, and mouth disease among children increasing. Doctor advises following health guidelines to protect kids. Flu cases also rising among young population.
+
+🟩
+
+Children's welfare doctor Deepal Perera said that the spread of the flu is increasing among children.
+
+The number of children suffering from hand, foot and mouth infection is increasing.
+
+Therefore, he should follow the right health guidelines to protect the children.
+
+◼️
+
+[Data](articles/732038b0.json)
+
+[Extended Data](ext_articles/732038b0.ext.json)
 
 ---
 
@@ -141,6 +319,38 @@ Only ten bungalows have been handed over to the state bungalows given to former 
 [Data](articles/1900f99d.json)
 
 [Extended Data](ext_articles/1900f99d.ext.json)
+
+---
+
+### Thundershowers in some places
+
+*2024-10-04 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195439) · `ta`
+
+Thunderstorms and heavy rainfall expected in North, East, and Uva provinces. Strong winds and lightning warnings issued. Sea regions from Mannar to Kankesanthurai may experience turbulence due to gusty winds.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that rain or thunderstorms are likely to occur in some parts of the North, East and Uva provinces in the afternoon or night.
+
+Rainfall in the morning and the Southern Province coastal regions can occur in the morning.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Showers or thunderstorms are expected in some parts of the sea regions from Mannar to Kankesanthurai in the afternoon or night.
+
+Rainfall is expected in some parts of the sea regions from Colombo to Galle to Hambantota.
+
+Winds from the southwest at speeds of 25 - 35 km / h in the sea regions.
+
+From the beginning of the Kankesanthurai to Mannar to Mannar as well as the speed of 45 - 50 km / h in the sea regions from Hambantota to Pottuvil to Pottuvil. In such cases, these sea regions are somewhat turbulent.
+
+But when the thunderstorm is raining, strong winds are blowing and the sea regions are temporarily in a very turbulent.
+
+◼️
+
+[Data](articles/426a0717.json)
+
+[Extended Data](ext_articles/426a0717.ext.json)
 
 ---
 
@@ -1584,6 +1794,28 @@ The Government Information Department further stated that the birth certificates
 
 ---
 
+### Eggs a surplus
+
+*2024-10-03 19:05:03* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-අතිරික්තයක්/11-412304) · `si`
+
+Egg surplus causes economic issues. Consumers benefit from low prices, while farmers struggle financially. Import policies affect supply and demand. Government intervention may be necessary to balance market and support both consumers and producers.
+
+🟩
+
+Convener of the Sanjeewa Karunadawajara, who is convenient for the consumer, said that the consumer was a convenience of production, but the egg farmer was a loss incurred by the consumer.
+
+"Eg egg consumption is about 7.5 million and the cost of production is Rs.There is a surplus of eggs these days and the egg cannot be marketed in or for more than two weeks. Imports of about 85,000 and 900,000 mother hens per year.With the importation of 1260000 mother hens, the import was excessive.
+
+In 2022, only 35,000 mother hens were imported and eggs caused a shortage of eggs. Their main objective was to establish a shortage of eggs and import the eggs and obtaining the eggs.It has been taken to provide tax concessions to import animal feed. He listened carefully when discussing the Secretary to the Ministry of Agriculture and Livestock.We're grateful to it.A new president was elected. A new government becomes. We hope to keep the consumer and protect the farmer. "
+
+◼️
+
+[Data](articles/260765e1.json)
+
+[Extended Data](ext_articles/260765e1.ext.json)
+
+---
+
 ### A vehicle technology learning student is crushed by bus
 
 *2024-10-03 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195424) · `ta`
@@ -2111,271 +2343,5 @@ A bond maturing on 15.05.2030 closed at 12.10/30 percent. (Colombo/Oct3/2024)
 [Data](articles/dd546af3.json)
 
 [Extended Data](ext_articles/dd546af3.ext.json)
-
----
-
-### Gates Foundation guarantees to support government digitalization project
-
-*2024-10-03 17:30:51* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-ඩිජිටල්කරණ-ව්‍යාපෘතියට-සහාය-ලබාදීමට-ගේට්ස්-පදනම-සහතික-වෙයි/11-412295) · `si`
-
-Bill Gates Foundation supports govt digitalization project. Focuses on child nutrition, education, healthcare, and anti-corruption efforts. Offers financial, technical, and consulting aid for digital initiatives.
-
-🟩
-
-The Independent Advisor Chanditha Samaranayake held at the Presidential Secretariat this morning (03).
-
-The Guts Foundation discussed the nutrition of the children of the country, including providing school lunch, public and private sector human resource development, livestock, climate change, and sectors.
-
-Chanditha Samaranayake, pointed out the importance of digital policy to implement the anti-government corruption policy, said that Gates base is ready to provide financial, technical and consulting support for the digitalization projects implemented by the government.
-
-Mr. Joshhan Gamage was also present at the occasion.
-
-◼️
-
-[Data](articles/a0c842ab.json)
-
-[Extended Data](ext_articles/a0c842ab.ext.json)
-
----
-
-### New Chairman of Sri Lanka
-
-*2024-10-03 17:26:31* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-වරාය-අධිකාරියට-නව-සභාපතිවරයෙක්/11-412294) · `si`
-
-Admiral Sirim Sarathchandra Ranasinghe appointed Chairman of Sri Lanka Ports Authority. Former Navy Commander educated at Pakistani National Defense University. Awarded several medals including Great Services Medal.
-
-🟩
-
-Former Navy Commander of the Sri Lanka Ports Authority Admiral Sirim, Sarathchandra Ranasinghe, was assigned today (Rs.. Sirimangana Sarathchandra Ranasinghe joined the Sri Lanka Navy as a Cadet Officer in 1982, he became the Chief of Naval Staff.
-
-Sirimitevan, who has been educated in the Pakistani National Defense University, has also won the Basic and Secondary Study of the Pakistani National Defense University at the Pakistani National Defense University.
-
-Sirimadean Sarathchandra Ranasinghe is also a heerawickrama viposubusion, Ranavikawa, and a Great Services Medalist.
-
-◼️
-
-[Data](articles/d72baf9e.json)
-
-[Extended Data](ext_articles/d72baf9e.ext.json)
-
----
-
-### Sri Lanka stocks close down, pulled by banks and conglomerates
-
-*2024-10-03 17:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-pulled-by-banks-and-conglomerates-182183/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
-
-The broader All Share Index closed down 0.04 percent, or 4.24 points, at 11,929; while the more liquid S&P SL20 Index closed down 0.75 percent, or 26.20 points, at 3,483.
-
-One crossing took place on Commercial Credit and Finance (up at 36.30).
-
-Top turnover generators were Sampath Bank (down at 79.00), Lankem Developments (up at 17.60), Commercial Credit and Finance, Digital Mobility Solutions (up at 39.00), and Commercial Bank of Ceylon (down at 104.00).
-
-Foreign buying was seen in ACL Plastics (down at 421.25), Vallibel One (down at 51.70), Richard Pieris (up at 21.60), Tokyo Cement non-voting (up at 43.50), Vallibel Finance (down at 40.20), and Hemas Holdings (up at 78.50).
-
-...
-
-[Data](articles/22edbe02.json)
-
-[Extended Data](ext_articles/22edbe02.ext.json)
-
----
-
-### Plantation Society's Rights and Challenges by Social and Economic Development Center
-
-*2024-10-03 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195417) · `ta`
-
-Social and Economic Development Center study on plantation communities in Sri Lanka highlights rights, challenges, and cultural identity. Event attended by legal and diplomatic figures discusses future prospects and issues faced by vulnerable communities.
-
-🟩
-
-The Social and Economic Development Center of the Catholic Catholic Bishops Council, which works for the well -being of the vulnerable communities nationwide, is' detailed under two topics, 'the right, problems, challenges and future marks of the plantation community in Sri Lanka' and 'the culture and identity of the plantation communities in Sri Lanka'.Has conducted a study.
-
-The documentary launch event on the study was held at the Social and Economic Development Center in Colombo 8 yesterday under the theme 'Dawn of the Plantation Community'.
-
-The event was chaired by the National Director of the Social and Economic Development Center, Luke Nelson Perera, and the special guests were Supreme Court Justice S. Turarajah and the Ambassador to Sri Lanka, Dr. Bryn Udaiku.
-
-The study was based on the districts of Nuwara Eliya, Kandy, Matale, Kegalle, Ratnapura, Kalutara, Galle and Colombo.
-
-In this regard, the Tambapanni Green Edge Private Edge Private Estate Advisor Dr. WG Somatna explained.
-
-...
-
-[Data](articles/0edc73ba.json)
-
-[Extended Data](ext_articles/0edc73ba.ext.json)
-
----
-
-### State officials do not question the media
-
-*2024-10-03 17:19:34* · [`adalk`](https://www.ada.lk/breaking_news/මින්-ඉදිරියට-මාධ්‍ය-ඉදිරියේ-රාජ්‍ය-නිලධාරීන්-ප්‍රශ්න-කරන්නේ-නෑ/11-412293) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake emphasizes efficient public service, criticizes media questioning officials, vows no political retaliation against civil servants.
-
-🟩
-
-The public servants who are dedicated to the creation of an efficient populist public service
-
-- President assumes duties as Minister of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources
-
-President Anura Kumara Dissanayake said that he appeared for public servants who are dedicated to the creation of an efficient populist public service.
-
-The President added that the proportional traditional political retaliations will not be faced with the government officials who work on behalf of the citizen.
-
-President Anura Kumara Dissanayake made this statement at the discussion with the Ministry officials following the Ministry of Agriculture today (03) as the Minister of Agriculture at the Ministry of Agriculture this morning.
-
-President Anura Kumara Dissanayake was also discussed at length with the current status and the present position of the Ministry of Agriculture.
-
-...
-
-[Data](articles/761f6def.json)
-
-[Extended Data](ext_articles/761f6def.ext.json)
-
----
-
-### Ajith Kumar starrer 'Good Bad Bad Ugly'
-
-*2024-10-03 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/195396) · `ta`
-
-Ajith Kumar stars in "Good Bad Bad Agli" alongside Trisha and Sunil. Directed by Adik Ravichandran, produced by Maithri Movie Makers. Shooting complete, releasing next year on Pongal.
-
-🟩
-
-New information has been released about the movie 'Good Bad Bad Agli' starring Ajith Kumar.
-
-Ajith Kumar, Trisha and Sunil are starring in the upcoming film 'Good Bad Bad Agli' directed by director Adik Ravichandran.
-
-Actor Prasanna has confirmed this on his social network.He has also said that he is eagerly waiting for Ajit Kumar to work with the shooting site.
-
-The film, which is being recorded by Abhinandan Ramanujam, is composed by Devi Sri Devi Sri Prasad.
-
-The film was made on behalf of Maithri Movie Makers Company Producers Naveen Jenernie. Ravi Shankar is co -produced.
-
-The shooting of the film has been completed and the shoot is currently underway in Hyderabad.
-
-The film crew has also said that actor Prasanna is internet. Fans are excited because Prasanna is associated with Ajith Kumar.
-
-...
-
-[Data](articles/798dab00.json)
-
-[Extended Data](ext_articles/798dab00.ext.json)
-
----
-
-### Vimal - Suri Alliance
-
-*2024-10-03 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195395) · `ta`
-
-Actor Vimal and Surya join "Badava" film, releasing this month. Directed by Nanda, produced by John Peter. Their previous collaborations "Pokalam" and "Sir" were successful.
-
-🟩
-
-Actor Vimal and Surya, who are progressing in the market value of the Tamil film industry, have joined the film 'Badava', which will be released in the film mansion this month.
-
-Director K. V.. Vimal, Suri, Garuda Ram, Devadarshini and many others have starred in the film 'Badava' directed by Nanda.
-
-The film was produced by composer John Peter on behalf of J Studios International.
-
-The film crew said that the film is scheduled to be released this month and the official announcement of the release date will be made soon.
-
-Meanwhile, two films 'Pokalam' and 'Sir', which has been released this year, and 'Garuda' and 'Kottukkali' in Suri's upcoming film 'Pokkam' and 'Sir', and 'Kottukkali' have been critical and commercially successful, and the two are co -starring together.It is noteworthy that the film 'Badawa' has a huge welcome among the filmmakers.
-
-◼️
-
-[Data](articles/fcea6bfc.json)
-
-[Extended Data](ext_articles/fcea6bfc.ext.json)
-
----
-
-### Farmers' Victims in Nuwara Eliya
-
-*2024-10-03 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195411) · `ta`
-
-Vegetable prices drop in Nuwara Eliya; farmers concerned about losses despite increased supply.
-
-🟩
-
-The prices of vegetables at the Nuwara Eliya Economic Center have been reduced today (03) compared to the recent vegetable prices in Nuwara Eliya.. Traders report that prices have declined as the amount of vegetables has increased.
-
-Nuwara Eliya is one of the most produced vegetable districts in the country, and today, the prices of vegetables are abandoned by an unexpected fall.
-
-Most people in Nuwara Eliya only rely on agriculture. This is why they have cultivated vegetables like the carrot leeks.
-
-Five months ago, history was rapidly increased and a kilo was purchased for 1800 rupees and sold for 2000 rupees.
-
-Currently, the total price of a kilo of bear has fallen from Rs 70 to 80 rupees and the price of bear in the market has been reduced.
-
-Farmers are worried that they have suffered a huge loss in the gardens of many carriers this time.
-
-Despite the change in the price of vegetables, there have been no changes in antiseptic, daily wages and pastels.
-
-...
-
-[Data](articles/aae8e1c1.json)
-
-[Extended Data](ext_articles/aae8e1c1.ext.json)
-
----
-
-### Dhamma Sirisena leaves Dilith
-
-*2024-10-03 17:03:29* · [`adalk`](https://www.ada.lk/breaking_news/දහම්-සිරිසේන-දිලිත්ට-හේත්තු-වෙයි/11-412292) · `si`
-
-Dhamma Sirisena joins Motherland People's Party, becomes Polonnaruwa district organizer. Slice Sirisena named Dilith organizer. Former MP Rajakira Wickremasinghe appointed Minister and Dedigama organizer.
-
-🟩
-
-Slice Sirisena, son of former MP Rajaka Wickremasinghe and former President Maithripala Sirisena, joined the Motherland People's Party today (03). It was in the country headquarters in Colombo.
-
-Former MP Rajakira Wickremasinghe was appointed as the Minister of National Mahinda Rajapaksa and Dedigama organizer.
-
-The Daham Sirisena has been appointed as the party organizer of the people of the Polonnaruwa district.
-
-◼️
-
-[Data](articles/617043c2.json)
-
-[Extended Data](ext_articles/617043c2.ext.json)
-
----
-
-### What happened to the lowland vegetables
-
-*2024-10-03 16:46:50* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-එළවළු-පහතරට-වැවීමෙන්-සිදුවූ-දේ/11-412291) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Lowland farmers struggle due to lack of subsidies. Carrots, cabbage, and other vegetables face challenges. Hybrid seeds impact crop yields and pricing. Government seeks solutions to support local agriculture.
-
-🟩
-
-Due to the low country farmers, carrots, cabbage and brietor, which is unbreakable in the presence of the cultivation, the Kandyan Farmers murmurus are murmured.
-
-No subsidy will give farmers to the farmer vegetable farmers, but we can't cultivate paddy in Nuwara Eliya area, such as vegetables, carrots, cabbage, leeks.
-
-The farmers in the lowland areas, including Welimada, growing vegetables that we have unique without growing the fertilizer subsidy of the fertilizer is to help our vegetables unable to get a fixed price.
-
-The seeds of good quality of the people of Nuwara Eliya have grown only in Nuwara Eliya and now the hybrid seeds are around, hybrid seeds.
-
-This will cause serious damage, because the prices of the vegetables are rapidly collapsing, but it is possible to buy rice to buy rice to buy the rice abroad for consumption.
-
-Purchasing a kilo of rice is an expression of a tragic to Nuwara Eliya, Nuwara Eliya.
-
-...
-
-[Data](articles/60ce1b52.json)
-
-[Extended Data](ext_articles/60ce1b52.ext.json)
 
 ---

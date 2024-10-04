@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 06:44:17**
+As of **2024-10-04 07:26:07**
 
 ## Newspaper Stats
 
-*Scraped **47,697** Articles*
+*Scraped **47,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,41 @@ dailyftlk | 3,222
 adalk | 4,412
 dailymirrorlk | 4,733
 adaderanalk | 5,604
-tamilmirrorlk | 6,426
+tamilmirrorlk | 6,427
 virakesarilk | 7,632
-adaderanasinhalalk | 8,244
+adaderanasinhalalk | 8,245
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,683 (100.0%) of 47,697 articles have been extended.
+47,686 (100.0%) of 47,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Change of rain condition
+
+*2024-10-04 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201823) · `si`
+
+Rain conditions: Showers/thunderstorms in North, East, Uva provinces. Coastal areas may see brief showers. Meteorological Dept advises caution due to strong winds and lightning risks.
+
+🟩
+
+Showers or thundershowers at several places in the North, East and Uva provinces have occurred at several places in the North, East and Uva provinces.
+
+The coastal areas of the southern and the Western provinces may also have few showers in the morning.
+
+The Meteorological Department also requests the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/31ebfb2c.json)
+
+[Extended Data](ext_articles/31ebfb2c.ext.json)
+
+---
 
 ### SL renews commitment to multilateral cooperation in pursuit of peace, prosperity, and sustainability
 
@@ -84,6 +106,8 @@ In 2014, Narendra Modi and his BJP party stormed to power in India. It seemingly
 
 [Data](articles/38d6406b.json)
 
+[Extended Data](ext_articles/38d6406b.ext.json)
+
 ---
 
 ### Politics, policy and progression in agriculture
@@ -95,6 +119,8 @@ The inefficiencies in the entire food system should be minimised to provide high
 ...
 
 [Data](articles/932762d9.json)
+
+[Extended Data](ext_articles/932762d9.ext.json)
 
 ---
 
@@ -241,6 +267,18 @@ Ceremonial welcomes was accorded to the incoming delegation, and were received b
 ...
 
 [Data](articles/27dac6ce.json)
+
+---
+
+### எலிக்காய்ச்சல் அபாயம்
+
+*2024-10-04 02:58:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-அபாயம்/175-344899) · `ta`
+
+எலிக்காய்ச்சலால் மரணிப்பவர்களின் வீதம், டெங்கு நோயாளர்களின் உயிரிழப்பு வீதத்தை தாண்டியுள்ளதாக பொது சுகாதார பரிசோதகர்கள் சங்கத்தின் செயலாளர் சமிந்த முத்துகுட தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/aa83ab7d.json)
 
 ---
 
@@ -2357,57 +2395,5 @@ Minister Jaishankar met Dissanayake in February this year when the current Sri L
 [Data](articles/8adfc2e4.json)
 
 [Extended Data](ext_articles/8adfc2e4.ext.json)
-
----
-
-### Ali Sabri returns to lawyer business
-
-*2024-10-03 14:29:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணி-தொழிலுக்குத்-திரும்பினார்-அலி-சப்ரி/175-344871) · `ta`
-
-Ali Sabri resumes law practice after political career. Former Foreign Minister shares photo, confirms no election bid. Served under Gotabhaya Rajapaksa and Ranil Wickremesinghe.
-
-🟩
-
-Former Foreign Minister Ali Sabri has returned to his legal business following the recent regime change.
-
-Ali Sabri has shared a photo on social media with his legal profession, and posted, "I am happy to return to my place."
-
-The former minister has confirmed that he will not contest the upcoming parliamentary elections.
-
-Ali Sabri, a prominent member of the Sri Lanka PA (SLPP) party, was elected to Parliament through the National List.
-
-He served as the Minister of Justice and Foreign Affairs under former governments of Gotabhaya Rajapaksa and Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/af967edd.json)
-
-[Extended Data](ext_articles/af967edd.ext.json)
-
----
-
-### Ali Sabri returned to the old business
-
-*2024-10-03 14:29:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-தொழிலுக்குத்-திரும்பினார்-அலி-சப்ரி/175-344871) · `ta`
-
-Former Sri Lankan FM Ali Sabri returns to law practice after regime change. He won't run in upcoming polls, ending political career.
-
-🟩
-
-Former Foreign Minister Ali Sabri has returned to his legal business following the recent regime change.
-
-Ali Sabri has shared a photo on social media with his legal profession, and posted, "I am happy to return to my place."
-
-The former minister has confirmed that he will not contest the upcoming parliamentary elections.
-
-Ali Sabri, a prominent member of the Sri Lanka PA (SLPP) party, was elected to Parliament through the National List.
-
-He served as the Minister of Justice and Foreign Affairs under former governments of Gotabhaya Rajapaksa and Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/ca563b0f.json)
-
-[Extended Data](ext_articles/ca563b0f.ext.json)
 
 ---

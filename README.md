@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 18:58:48**
+As of **2024-10-04 19:11:00**
 
 ## Newspaper Stats
 
-*Scraped **47,811** Articles*
+*Scraped **47,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,58 +17,156 @@ economynextcom | 2,923
 dailyftlk | 3,222
 adalk | 4,423
 dailymirrorlk | 4,733
-adaderanalk | 5,626
+adaderanalk | 5,628
 tamilmirrorlk | 6,445
 virakesarilk | 7,653
-adaderanasinhalalk | 8,269
+adaderanasinhalalk | 8,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,806 (100.0%) of 47,811 articles have been extended.
+47,809 (100.0%) of 47,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
 
-### ලාල්කාන්තගේ ප්‍රකාශයට සබයෙන් පිළිතුරු
+### Defence Ministry orders to surrender all firearms issued to civilians
+
+*2024-10-04 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102454/defence-ministry-orders-to-surrender-all-firearms-issued-to-civilians) · `en`
+
+The Ministry of Defence has announced that all firearms and ammunition provided to civilians for self-defence will be acquired by the government and that they must be handed over to the relevant authorities before 07 November.
+
+Furthermore, the Defence Ministry stated that they will be returned pending a review and consideration of the need to possess such firearms.
+
+◼️
+
+[Data](articles/0d31daac.json)
+
+---
+
+### ආරක්ෂක අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+
+*2024-10-04 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201851) · `si`
+
+ස්වයං ආරක්ෂාව සඳහා පුරවැසියන්ට නිකුත් කර ඇති සියලූම ගිනිඅවි සහ උණ්ඩ නැවත ලබාගැනීමට ආරක්ෂක අමාත්‍යාංශය තීරණය කර තිබේ.
+
+ඒ අනුව එම ගිනිඅවි සහ උණ්ඩ නොවැම්බර් 7 වන දාට පෙර නැවත භාරදිය යුතු වේ.
+
+ආරක්ෂක අමාත්‍යාංශය පවසන්නේ, එම පුද්ගලයින්ට ගිනිඅවි සමාලෝචනයකින් සහ අවශ්‍යතාවය කුමක්දැයි සොයා බැලීමෙන් අනතුරුව නැවත ලබාදීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/7c2d7ede.json)
+
+---
+
+### IMF නියෝජිත කණ්ඩායමෙන් නිවේදනයක්
+
+*2024-10-04 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201850) · `si`
+
+මෙරට සංචාරය කළ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත කණ්ඩායම අද (04) සිය සංචාරය නිම කිරීමෙන් අනතුරුව නිවේදනයක් නිකුත්කර තිබේ.
+
+IMFහි ආසියා - පැසිෆික් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ක්‍රිෂ්ණා ශ්‍රීනිවාසන් එම නියෝජිත පිරිසේ ප්‍රධානියා ලෙස කටයුතු කළේය.
+
+ඔහු පවසන්නේ, "අපි ජනාධිපති දිසානායක සහ ශ්‍රී ලංකා ආර්ථික කණ්ඩායම සමග ශ්‍රී ලංකා ආර්ථිකය මුහුණදී තිබෙන ආර්ථික සහ මූල්‍ය අභියෝග සම්බන්ධයෙන් ඵලදායී සාකච්ඡා පැවැත්වුවා. ශ්‍රී ලංකාව 2022දී මුහුණදුන් දරුණු ආර්ථික ආර්බුදයෙන් අනතුරුව අපහසුවෙන් ලබාගත් ජයග්‍රහණ තවදුරටත් ආරක්ෂාකර ගනිමින් ඉදිරියට යාමේ වැදගත්කම සම්බන්ධයෙන් අපි එකඟ වුණා."
+
+"ප්‍රතිසංස්කරණ ප්‍රයත්නයන් සම්බන්ධයෙන් බලධාරීන්ගේ කැපවීම අපව දිරිමත් කරයි. ජාත්‍යන්තර මූල්‍ය අරමුදල ශ්‍රී ලංකාවට සහ එහි ජනතාවට සහාය දැක්වීමේ ස්ථීර හවුල්කරුවෙකු වන අතර රටේ ආර්ථික ප්‍රතිසංස්කරණ ඉලක්ක සපුරා ගැනීමට සහායවීමට සූදානමින් සිටියි. ජාත්‍යන්තර මූල්‍ය අරමුදලේ සහාය ලබන වැඩසටහනේ තුන්වන සමාලෝචනය සඳහා දිනයක් නියම කිරීම සඳහා IMF කණ්ඩායම ශ්‍රී ලංකාවේ ආර්ථික කණ්ඩායම සමඟ සමීප සබඳතාවයක් පවත්වාගෙන යයි."
+
+◼️
+
+[Data](articles/3e3106b3.json)
+
+---
+
+### නිදහස් පක්ෂයේ නිමල් සිරිපාල ඇතුළු පිරිසක් ගෑස් සිලින්ඩරයෙන් එයි
+
+*2024-10-04 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201849) · `si`
+
+එළඹෙන මහ මැතිවරණය සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයේ නිමල් සිරිපාල පාර්ශ්වය ගෑස් සිලින්ඩරය ලකුණින් තරග කිරීමට තීරණ කර තිබේ.
+
+මේ බව අද (04) පස්වරුවේ හිටපු අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+
+◼️
+
+[Data](articles/b2e0cfae.json)
+
+---
+
+### The audience answers Lal Kantha's statement
 
 *2024-10-04 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201848) · `si`
 
-සජිත් ප්‍රේමදාස මහතා විපක්ෂ නායකවරයා ලෙස ගත් ක්‍රියාමාර්ග හේතුවෙන් රටේ ජනතාව වර්තමානයේ පවා ප්‍රතිලාභ භූක්ති විඳිමින් සිටින බව සමගි ජන බලවේගය පවසයි.
+Here's a 200-character summary:
 
-නිවේදනයක් නිකුත් කරමින් එම පක්ෂය මේ බව සඳහන් කර ඇත්තේ, ජාතික ජන බලවේගයේ ජාතික විධායක සභික කේ.ඩි. ලාල්කාන්ත මහතා කළ ප්‍රකාශයකට ප්‍රතිචාර දක්වමිනි.
 
-කේ.ඩි. ලාල්කාන්ත මහතා ඊයේ (03) ප්‍රකාශයක් සිදුකරමින් පවසා ඇත්තේ, "සජිත් ප්‍රේමදාස නාමික විපක්ෂ නායකවරයෙකු මිස, විපක්ෂ නායකකමක් පහුගිය කාලෙවත් කළේ නැහැ" යනුවෙනි.
 
-ඊට ප්‍රතිචාර දක්වමින් සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතාගේ මාධ්‍ය ලේකම් ගිෂාන් විජේසුන්දර මහතා අද (04) නිවේදනයක් නිකුත් කර තිබුණි.
+Opposition Leader Sajith Premadasa denies being a nominal leader. He claims his election was based on public support, not just votes. This response comes after Lal Kantha criticized him as ineffective. The statement emphasizes Premadasa's connection to the people and his rejection of Kantha's criticism.
 
-ලාල්කාන්ත මහතාගේ ප්‍රකාශය තරයේ ප්‍රතික්ෂේප කරන එම නිවේදනයේ සඳහන්ව තිබුණේ, විපක්ෂ නායකවරයා ලෙස සජිත් ප්‍රේමදාස මහතා සිදුකළ සේවයෙන් ප්‍රතිලාභ ලබන්නේ ඔහුට ඡන්දය දුන් ජනතාව නොව උපන්, නූපන් දරුවාගේ සිට මේ රටේ ලක්ෂ 220ක් වූ සෑම පුරවැසියෙකුම බවය.
+🟩
+
+Sajith Premadasa says that the people of the Opposition is suffering from the present people, even today's people are suffering.
+
+The party made this statement this party, the National Executive Committee of the National Institute of Power. At response to a statement made by Lal Kanthe.
+
+KD. Mr. Lal Kanthe has made a statement yesterday (03), "Sajith Premadasa was not a nominal leader," but the Leader of the Opposition did not later.
+
+Leader of the Samagivers Department Sajith Wijesundara today issued a statement today (04).
+
+The announcement states that the service of Mr. Lal Kantha was rejected by the Opposition Leader and Sajith Premadasa was the people who were elected, not the people who voted, but every citizen of the unborn child.
 
 ◼️
 
 [Data](articles/ebe81dec.json)
 
+[Extended Data](ext_articles/ebe81dec.ext.json)
+
 ---
 
-### போதைப்பொருளுடன் கைதான சந்தேக நபரின் வீட்டிலிருந்து ஆயுதங்கள் கண்டுபிடிப்பு
+### The discovery of weapons from the house of the suspect arrested with the drug
 
 *2024-10-04 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195476) · `ta`
 
-தெஹியோவிட்ட, தெபேகம பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் கைது செய்யப்பட்ட சந்தேக நபரின் வீட்டில் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபரினால் தயாரிக்கப்பட்டதாக கூறப்படும் ஆயுதங்கள் கைப்பற்றப்பட்டுள்ளதாக தெஹியோவிட்ட பொலிஸார்  தெரிவித்தனர்.
+Police seize weapons during drug raid, arrest suspects in Tehiyovita
 
-தெஹியோவிட்ட, தெபேகம பிரதேசத்தில் பொலிஸ் அதிகாரிகள் சிலர் சுற்றிவளைப்பு நடவடிக்கைகளில் ஈடுபட்டிருந்த போது ஐஸ் போதைப்பொருளுடன் சந்தேக நபரொருவரை கைது செய்யதுள்ளனர்.
+🟩
 
-பின்னர், கைது செய்யப்பட்ட சந்தேக நபரின் வீட்டில் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபரினால் தயாரிக்கப்பட்டதாக கூறப்படும் வாள்கள்,  இரண்டு கத்திகள் , வாள் தயாரிக்கும் வெள்ளை இரும்புத் தகடுகள் மற்றும் வாள் தயாரிப்பதற்குப் பயன்படுத்தப்படும்  உபகரணங்கள் என்பன கைப்பற்றப்பட்டுள்ளன.
+Tehiowita police said that the weapons of the suspect have been seized by the suspect in a raid carried out at the house of the suspect arrested in the Tehbigama area in Tehiyovita.
 
-இதனையடுத்து, சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணையில், சந்தேக நபரின் வீட்டிற்கு ஹெரோயின் போதைப்பொருளை கடத்திச் செல்வதாக கூறப்படும் இரு இளைஞர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Some police officers in the Tehbhegama area, Tehiyovita, have been arrested by an ice drug while engaging in surrounding activities.
 
-கைது செய்யப்பட்ட இரு இளைஞர்களும் அல்கொட மற்றும் முருத்தெட்டுவ பிரதேசத்தை சேர்ந்த 21 வயதுடையவர்கள் என பொலிஸார் தெரிவித்தனர்.
+Subsequently, a raid carried out at the arrested suspect had seized swords, two knives, white iron plates that made the sword and the manufacture of swords.
+
+Subsequently, two youths allegedly smuggling heroin drugs to the suspect's house have been arrested by the police.
+
+The two youths who were arrested were 21 -year -old from Alkoda and Muruttuwa area, police said.
 
 ◼️
 
 [Data](articles/65824d24.json)
+
+[Extended Data](ext_articles/65824d24.ext.json)
+
+---
+
+### IMF encouraged by new SL govt’s commitment to continue reform efforts
+
+*2024-10-04 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102453/imf-encouraged-by-new-sl-govts-commitment-to-continue-reform-efforts) · `en`
+
+The International Monetary Fund (IMF) team visiting the island says it will continue its close engagement with Sri Lanka’s economic team to set a date for the third review of the IMF-supported program.
+
+“We are encouraged by the authorities’ commitment to continue the reform efforts,” the global lender’s Director for the Asia Pacific Department, said in a statement at the end of the visit to Sri Lanka.
+
+He further stated that the IMF remains a steadfast partner in supporting Sri Lanka and its people and stands ready to assist the country achieve its economic reform goals.
+
+An International Monetary Fund (IMF) team led by Mr. Krishna Srinivasan, Director for the Asia Pacific Department, visited Colombo October 2-4, 2024.
+
+During the visit, Mr. Srinivasan met with President Dissanayake, Prime Minister Amarasuriya, Minister Herath, Governor Weerasinghe, Secretary to the Treasury Siriwardena, and other stakeholders.
+
+...
+
+[Data](articles/96ceda64.json)
 
 ---
 
@@ -2293,129 +2391,5 @@ The Resident Coordinator also commended the President's commitment to enhance th
 [Data](articles/59c0ee34.json)
 
 [Extended Data](ext_articles/59c0ee34.ext.json)
-
----
-
-### Relief for people affected by taxes
-
-*2024-10-04 07:24:16* · [`adalk`](https://www.ada.lk/breaking_news/බදු-නිසා-පීඩාවට-පත්-ජනතාවට-සහන/11-412305) · `si`
-
-Sri Lanka President offers tax relief alternatives to IMF targets, easing burden on citizens.
-
-🟩
-
-President refers to alternative solutions to meet the IMF targets and relaxing the pressure to the people
-
-International Monetary Fund Asia Pacific Director Krishna Srinivasan (Krishna Srinivasan), Senior Mission Head of Senior Mission Dr. Peter Breer (dr. A senior delegation from the International Monetary Fund, including Peter Brewer, met President Anura Kumara Dissanayake at the Presidential Secretariat today (03).
-
-Central Bank Governance, Treasury Secretary Mahinda Siriwardena and Senior Advisors Senior Advisors of the International Monetary Fund and Senior Advisers of Sri LankaIn the program
-
-The President also emphasized the importance of the government with the objectives of the government with the objective of the government with the objective of the program with the International Monetary Fund.
-
-President Anura Kumara Dissanayake pointed out that the government has planned to provide relief to the people affected by high VAT and income tax.
-
-...
-
-[Data](articles/16ab67c2.json)
-
-[Extended Data](ext_articles/16ab67c2.ext.json)
-
----
-
-### Request to wear oral covering children
-
-*2024-10-04 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201825) · `si`
-
-Health experts advise parents to use oral coverings for children showing flu symptoms. Recent reports indicate cases of hand-foot-and-mouth disease among children.
-
-🟩
-
-The health aspects of the health sector calls for parents to wear oral covering children with influenza symptoms.
-
-Children also say children with arms, foot and mouth disease have been reported these days.
-
-◼️
-
-[Data](articles/028987f8.json)
-
-[Extended Data](ext_articles/028987f8.ext.json)
-
----
-
-### Price Control Price: 'No law to climb the fines fines fines fines
-
-*2024-10-04 07:01:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cglk62918pyo) · `si`
-
-Rice price control controversy: Retailers claim inability to purchase at controlled rates due to mill owners' reluctance. Consumer Affairs Authority asserts legal authority but faces challenges in enforcing price limits.
-
-🟩
-
-Price Control Price: 'No law to climb the fines fines fines fines
-
-Retail traders that sell rice sold more rural prices more rice to the consumer service, but the Consumer Affairs Authority (CAA) says it is not possible to buy rice at higher prices.
-
-'' As per Act 2003 was advised by the Attorney General. We have notified that large scale mill owners raid or prosecute. The judiciary has no authority. When we revise the bill, we will acquire that power and the Director of the Consumer Affairs Authority (CAA) raids and the Director of the Special Investigation Unit told the BBC Sinhala service.
-
-Gazette notification has been issued 2278/2 on 0278/2 on 2 May 2022, indicating control price for rice. However, the rice sells rice at the market due to the number of rice stocks for more than the larger-scale mill owners.
-
-But from September 28, 2024, a Dudley Sirisena has issued a statement on behalf of large scale mills.
-
-The retailers say they do not receive rice for the control price.
-
-◼️
-
-[Data](articles/d7660e33.json)
-
-[Extended Data](ext_articles/d7660e33.ext.json)
-
----
-
-### IMF: 'Important maintaining economic reforms in Sri Lanka is important'
-
-*2024-10-04 06:54:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6q71qxxnpo) · `si`
-
-Sri Lanka IMF talks ongoing, economic reforms crucial. President Anura Kumara Dissanayake discusses debt program achievements. IMF Director emphasizes continued reforms importance.
-
-🟩
-
-A special discussion between President Anura Kumara Dissanayake and the International Monetary Fund representatives began at the Presidential Secretariat today (October 4).
-
-President Anura Kumara Dissanayake said that the goals of the debt program with the International Monetary Fund have achieved the objectives of the Presidential Media Unit said.
-
-Meanwhile, the Director of the International Monetary Fund (IMF Communication Department Communications Department) was also important to continue the economic reform program in Sri Lanka yesterday (October 03).
-
-July Director of the Communication Department said in response to questions about Sri Lanka's questions regarding the media in the Messianic Fund."The fruitage of hand has been fruitful,".
-
-"We still have significant risky and uncertainties, as we foretold," and said, "She said.
-
-It means that "it is very important to keep the reform unchanged," said July Kadaka.
-
-...
-
-[Data](articles/3397d3f3.json)
-
-[Extended Data](ext_articles/3397d3f3.ext.json)
-
----
-
-### Change of rain condition
-
-*2024-10-04 06:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201823) · `si`
-
-Rain conditions: Showers/thunderstorms in North, East, Uva provinces. Coastal areas may see brief showers. Meteorological Dept advises caution due to strong winds and lightning risks.
-
-🟩
-
-Showers or thundershowers at several places in the North, East and Uva provinces have occurred at several places in the North, East and Uva provinces.
-
-The coastal areas of the southern and the Western provinces may also have few showers in the morning.
-
-The Meteorological Department also requests the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/31ebfb2c.json)
-
-[Extended Data](ext_articles/31ebfb2c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 20:23:00**
+As of **2024-10-04 20:58:03**
 
 ## Newspaper Stats
 
-*Scraped **47,819** Articles*
+*Scraped **47,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,76 @@ economynextcom | 2,923
 dailyftlk | 3,222
 adalk | 4,423
 dailymirrorlk | 4,733
-adaderanalk | 5,628
+adaderanalk | 5,629
 tamilmirrorlk | 6,447
 virakesarilk | 7,653
-adaderanasinhalalk | 8,273
+adaderanasinhalalk | 8,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,818 (100.0%) of 47,819 articles have been extended.
+47,821 (100.0%) of 47,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
 
-### RMV ලොක්කෙක් ඇතුළු තුනක් අල්ලස් ගද්දී අල්ලයි
+### Ranasin Jayatilake joins GS sports
+
+*2024-10-04 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201853) · `si`
+
+Ranasta Jayatilleke, Sri Lanka Tariff Team Leader, becomes Brand Ambassador for GEORGE Steuart Health. GS Sports sponsors him. He attends GS Sports party in Kollupitiya.
+
+🟩
+
+Sri Lanka Tariff Team Leader Ranasta Jayatilleke participated as Brand Ambassador with GEORGE Steuart Health.
+
+GS Sports Spots joined the sponsor of Ranasta Jayatilleke.
+
+Rasta then returned to the GS Sports Party in Kollupitiya.
+
+◼️
+
+[Data](articles/761820f4.json)
+
+[Extended Data](ext_articles/761820f4.ext.json)
+
+---
+
+### DMT deputy commissioner, clerk and broker arrested over bribe
+
+*2024-10-04 20:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102455/dmt-deputy-commissioner-clerk-and-broker-arrested-over-bribe) · `en`
+
+A Deputy Commissioner, and a clerk from the Department of Motor Traffic (DMT), as well as a broker have been arrested by the Bribery Commission officers while accepting a bribe.
+
+They have been arrested for soliciting a bribe of Rs. 300,000 to facilitate the transfer of ownership of three buses, according to the Bribery Commission.
+
+◼️
+
+[Data](articles/4e251ad2.json)
+
+[Extended Data](ext_articles/4e251ad2.ext.json)
+
+---
+
+### RMV boss and three arrested in bribe
 
 *2024-10-04 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201852) · `si`
 
-මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නියෝජ්‍ය කොමසාරිස්වරයෙකු, ලිපිකරුවෙකු සහ තැරැව්කරුවෙකු අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
+Bribery Commission arrests RMV boss, deputy commissioner, clerk, and broker over bribery case involving Rs. amount.
 
-බස් රථ 03ක අයිතිය පැවරීමට රුපියල් ලක්ෂ 03ක අල්ලස් මුදලක් ඉල්ලා සිටි අවස්ථාවේදී ඔවුන් අත්අඩංගුවට ගෙන ඇත.
+🟩
+
+The Bribery Commission has arrested a deputy commissioner, a clerk and broker of the Department of Motor Traffic.
+
+They have been arrested when he had asked for a bribe of Rs.
 
 ◼️
 
 [Data](articles/53a113ca.json)
+
+[Extended Data](ext_articles/53a113ca.ext.json)
 
 ---
 
@@ -2373,41 +2417,5 @@ A senior spokesman of the United FLugs United Freedom Alliance said that his par
 [Data](articles/a85373ce.json)
 
 [Extended Data](ext_articles/a85373ce.ext.json)
-
----
-
-### UN Security Council backs Guterres after Israel bars him from country
-
-*2024-10-04 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/102429/un-security-council-backs-guterres-after-israel-bars-him-from-country) · `en`
-
-The United Nations Security Council on Thursday expressed its full support for Secretary-General Antonio Guterres after Israel’s foreign minister said he was barring him from entering the country.
-
-The 15-member council said in a statement that “any decision not to engage with the U.N. Secretary-General or the United Nations is counterproductive, especially in the context of escalating tensions in the Middle East.”
-
-The statement did not name Israel. Such statements by the council are agreed by consensus.
-
-◼️
-
-[Data](articles/f2a0aec3.json)
-
-[Extended Data](ext_articles/f2a0aec3.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-10-04 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102428/showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at a few places in Northern, Eastern and Uva provinces during the afternoon or night.
-
-A few showers may occur in the coastal areas of Southern and Western provinces during the morning.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/451c2ee2.json)
-
-[Extended Data](ext_articles/451c2ee2.ext.json)
 
 ---

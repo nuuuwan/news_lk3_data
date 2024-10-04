@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 18:34:04**
+As of **2024-10-04 18:58:48**
 
 ## Newspaper Stats
 
-*Scraped **47,805** Articles*
+*Scraped **47,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,87 @@ newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 473
 colombotelegraphcom | 474
-islandlk | 2,810
+islandlk | 2,813
 economynextcom | 2,923
 dailyftlk | 3,222
 adalk | 4,423
 dailymirrorlk | 4,733
 adaderanalk | 5,626
 tamilmirrorlk | 6,445
-virakesarilk | 7,652
-adaderanasinhalalk | 8,267
+virakesarilk | 7,653
+adaderanasinhalalk | 8,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,805 (100.0%) of 47,805 articles have been extended.
+47,806 (100.0%) of 47,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### ලාල්කාන්තගේ ප්‍රකාශයට සබයෙන් පිළිතුරු
+
+*2024-10-04 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201848) · `si`
+
+සජිත් ප්‍රේමදාස මහතා විපක්ෂ නායකවරයා ලෙස ගත් ක්‍රියාමාර්ග හේතුවෙන් රටේ ජනතාව වර්තමානයේ පවා ප්‍රතිලාභ භූක්ති විඳිමින් සිටින බව සමගි ජන බලවේගය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම පක්ෂය මේ බව සඳහන් කර ඇත්තේ, ජාතික ජන බලවේගයේ ජාතික විධායක සභික කේ.ඩි. ලාල්කාන්ත මහතා කළ ප්‍රකාශයකට ප්‍රතිචාර දක්වමිනි.
+
+කේ.ඩි. ලාල්කාන්ත මහතා ඊයේ (03) ප්‍රකාශයක් සිදුකරමින් පවසා ඇත්තේ, "සජිත් ප්‍රේමදාස නාමික විපක්ෂ නායකවරයෙකු මිස, විපක්ෂ නායකකමක් පහුගිය කාලෙවත් කළේ නැහැ" යනුවෙනි.
+
+ඊට ප්‍රතිචාර දක්වමින් සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතාගේ මාධ්‍ය ලේකම් ගිෂාන් විජේසුන්දර මහතා අද (04) නිවේදනයක් නිකුත් කර තිබුණි.
+
+ලාල්කාන්ත මහතාගේ ප්‍රකාශය තරයේ ප්‍රතික්ෂේප කරන එම නිවේදනයේ සඳහන්ව තිබුණේ, විපක්ෂ නායකවරයා ලෙස සජිත් ප්‍රේමදාස මහතා සිදුකළ සේවයෙන් ප්‍රතිලාභ ලබන්නේ ඔහුට ඡන්දය දුන් ජනතාව නොව උපන්, නූපන් දරුවාගේ සිට මේ රටේ ලක්ෂ 220ක් වූ සෑම පුරවැසියෙකුම බවය.
+
+◼️
+
+[Data](articles/ebe81dec.json)
+
+---
+
+### போதைப்பொருளுடன் கைதான சந்தேக நபரின் வீட்டிலிருந்து ஆயுதங்கள் கண்டுபிடிப்பு
+
+*2024-10-04 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195476) · `ta`
+
+தெஹியோவிட்ட, தெபேகம பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் கைது செய்யப்பட்ட சந்தேக நபரின் வீட்டில் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபரினால் தயாரிக்கப்பட்டதாக கூறப்படும் ஆயுதங்கள் கைப்பற்றப்பட்டுள்ளதாக தெஹியோவிட்ட பொலிஸார்  தெரிவித்தனர்.
+
+தெஹியோவிட்ட, தெபேகம பிரதேசத்தில் பொலிஸ் அதிகாரிகள் சிலர் சுற்றிவளைப்பு நடவடிக்கைகளில் ஈடுபட்டிருந்த போது ஐஸ் போதைப்பொருளுடன் சந்தேக நபரொருவரை கைது செய்யதுள்ளனர்.
+
+பின்னர், கைது செய்யப்பட்ட சந்தேக நபரின் வீட்டில் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபரினால் தயாரிக்கப்பட்டதாக கூறப்படும் வாள்கள்,  இரண்டு கத்திகள் , வாள் தயாரிக்கும் வெள்ளை இரும்புத் தகடுகள் மற்றும் வாள் தயாரிப்பதற்குப் பயன்படுத்தப்படும்  உபகரணங்கள் என்பன கைப்பற்றப்பட்டுள்ளன.
+
+இதனையடுத்து, சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணையில், சந்தேக நபரின் வீட்டிற்கு ஹெரோயின் போதைப்பொருளை கடத்திச் செல்வதாக கூறப்படும் இரு இளைஞர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட இரு இளைஞர்களும் அல்கொட மற்றும் முருத்தெட்டுவ பிரதேசத்தை சேர்ந்த 21 வயதுடையவர்கள் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/65824d24.json)
+
+---
+
+### Meeting between IMF representatives and Prime Minister
+
+*2024-10-04 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201847) · `si`
+
+IMF reps meet PM Harini Amarasuriya at office. Discussion on cooperation between Sri Lanka and IMF. Pradeep Comrade Dr. Krishna Sriney from Central Bank participates.
+
+🟩
+
+A discussion between Prime Minister Dr. Harini Amarasuriya and the International Monetary Fund representatives were held at the Prime Minister's Office this afternoon.
+
+The meeting also focuses on maintaining cooperation between Sri Lanka and the International Monetary Fund.
+
+Pradeep Comrade Dr. Krishna Sriney, Director General of the Department of Economic Research and Central Bank of Sri Lanka (Bilateral)The gentlemen have participated in the discussion.
+
+◼️
+
+[Data](articles/dd3c410d.json)
+
+[Extended Data](ext_articles/dd3c410d.ext.json)
+
+---
 
 ### A major road near Temple Trees opens
 
@@ -2355,61 +2417,5 @@ The Meteorological Department also requests the public to take necessary steps t
 [Data](articles/31ebfb2c.json)
 
 [Extended Data](ext_articles/31ebfb2c.ext.json)
-
----
-
-### IMF says discussing Sri Lanka new govt reform objectives, vulnerabilities remain
-
-*2024-10-04 06:04:00* · [`economynextcom`](https://economynext.com/imf-says-discussing-sri-lanka-new-govt-reform-objectives-vulnerabilities-remain-182217/) · `en`
-
-ECONOMYNEXT – A delegation led by the Director of the International Monetary Fund’s Asia Pacific Department, Krishna Srinivasan is visiting Sri Lanka and discussing the new administration’s reform objectives, an official said.
-
-“Program performance is strong, and reform efforts are bearing fruit in terms of reviving economic growth, lowering inflation, boosting reserves and improving revenue mobilization,” Julie Kozack, Director of the Communications Department said.
-
-“However, as we have said before, important vulnerabilities and uncertainties do remain, and this means that sustaining reform momentum is critical.”
-
-Newly elected President Anura Dissanayake has said Sri Lanka wants to cut both value added tax and income tax.
-
-...
-
-[Data](articles/907f1f3a.json)
-
-[Extended Data](ext_articles/907f1f3a.ext.json)
-
----
-
-### SL renews commitment to multilateral cooperation in pursuit of peace, prosperity, and sustainability
-
-*2024-10-04 05:49:31* · [`dailyftlk`](https://www.ft.lk/opinion/SL-renews-commitment-to-multilateral-cooperation-in-pursuit-of-peace-prosperity-and-sustainability/14-767529) · `en`
-
-Permanent Representative of Sri Lanka to the United Nations Mohan Pieris
-
-This is an article based on the statement delivered by Mohan Pieris, Permanent Representative of Sri Lanka to the United Nations, New York  79th Session of the United Nations General Assembly
-
-General Debate on the theme  ‘Leaving no one behind: Acting together for the advancement of peace, sustainable development and human dignity for present and future generations’ on 30 September
-
-Against the background of global turmoil, setbacks and transformations, the aspirations of this year’s Assembly for a better global future resonate with those of the people of Sri Lanka.
-
-...
-
-[Data](articles/c40d491f.json)
-
-[Extended Data](ext_articles/c40d491f.ext.json)
-
----
-
-### Human Rights Watch says UN Rights Council should extend crucial mandate on SL
-
-*2024-10-04 05:45:04* · [`dailyftlk`](https://www.ft.lk/opinion/Human-Rights-Watch-says-UN-Rights-Council-should-extend-crucial-mandate-on-SL/14-767528) · `en`
-
-Human Rights Watch said yesterday that the United Nations Human Rights Council should adopt a resolution on Sri Lanka to enable continued UN monitoring, reporting, and evidence collection of rights violations for future prosecutions.
-
-It said President Anura Kumara Dissanayake, who was elected on September 21, 2024, should reverse the policies of his predecessors by cooperating with the UN’s investigation mechanism, ending the use of repressive laws to stifle dissent, and preventing security forces from targeting activists, survivors of abuses, and victims’ families with threats and reprisals.
-
-...
-
-[Data](articles/163ba034.json)
-
-[Extended Data](ext_articles/163ba034.ext.json)
 
 ---

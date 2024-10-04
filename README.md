@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 22:38:29**
+As of **2024-10-04 22:56:46**
 
 ## Newspaper Stats
 
-*Scraped **47,828** Articles*
+*Scraped **47,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 2,923
 dailyftlk | 3,222
 adalk | 4,425
 dailymirrorlk | 4,733
-adaderanalk | 5,630
+adaderanalk | 5,631
 tamilmirrorlk | 6,448
 virakesarilk | 7,653
-adaderanasinhalalk | 8,277
+adaderanasinhalalk | 8,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,828 (100.0%) of 47,828 articles have been extended.
+47,830 (100.0%) of 47,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Haitian gang kills at least 70 people, including 3 infants, UN says
+
+*2024-10-04 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102457/haitian-gang-kills-at-least-70-people-including-3-infants-un-says) · `en`
+
+Armed men belonging to the Gran Grif gang killed at least 70 people, including three infants, as they swept through a Haitian town shooting automatic rifles at residents, a spokesperson for the United Nations’ Human Rights Office said on Friday.
+
+“We are horrified by Thursday’s gang attacks in the town of Pont-Sonde in Haiti’s Artibonite department,” spokesperson Thameen Al-Kheetan said in a statement.
+
+At least another 16 people were seriously injured in the attack in the early hours of Thursday, including two gang members hit during an exchange of fire with Haitian police, according to the U.N. The gang members reportedly set fire to at least 45 houses and 34 vehicles, forcing residents to flee their homes.
+
+“This odious crime against defenseless women, men and children is not only an attack against victims but against the entire Haitian nation,” Prime Minister Garry Conille said on X.
+
+“Security forces, backed by our international partners, are reinforcing their intervention.”
+
+...
+
+[Data](articles/1fad5862.json)
+
+[Extended Data](ext_articles/1fad5862.ext.json)
+
+---
+
+### Ministry of Finance announced on the IMF process
+
+*2024-10-04 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201857) · `si`
+
+Sri Lanka completes IMF consultation, forms creditor committee. Ministry of Finance announces successful restructuring agreement with international sovereign bondholders.
+
+🟩
+
+Sri Lanka completed the committee of his official creditors and the International Monetary Fund's consulting process.
+
+In a statement, the Ministry of Finance stated that the official creditors of the official debtors have been from the official debtors.
+
+Sri Lanka announced the policy agreement with international sovereignty owners in relation to the restructuring of credit.
+
+Accordingly, the Ministry of Finance announced that Sri Lanka has successfully completed the official creditors' committee and the International Monetary Fund.
+
+Sri Lanka has been able to complete the parameters of the program to support the International Monetary Fund.
+
+The Ministry of Finance further stated that the support given to this process will thank all creditors and official creditors to the committee of all creditors and official creditors.
+
+◼️
+
+[Data](articles/f79e101f.json)
+
+[Extended Data](ext_articles/f79e101f.ext.json)
+
+---
 
 ### Dilith says it is a powerful opposition after the general election
 
@@ -2387,59 +2437,5 @@ Only ten bungalows have been handed over to the state bungalows given to former 
 [Data](articles/1900f99d.json)
 
 [Extended Data](ext_articles/1900f99d.ext.json)
-
----
-
-### Thundershowers in some places
-
-*2024-10-04 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195439) · `ta`
-
-Thunderstorms and heavy rainfall expected in North, East, and Uva provinces. Strong winds and lightning warnings issued. Sea regions from Mannar to Kankesanthurai may experience turbulence due to gusty winds.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that rain or thunderstorms are likely to occur in some parts of the North, East and Uva provinces in the afternoon or night.
-
-Rainfall in the morning and the Southern Province coastal regions can occur in the morning.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Showers or thunderstorms are expected in some parts of the sea regions from Mannar to Kankesanthurai in the afternoon or night.
-
-Rainfall is expected in some parts of the sea regions from Colombo to Galle to Hambantota.
-
-Winds from the southwest at speeds of 25 - 35 km / h in the sea regions.
-
-From the beginning of the Kankesanthurai to Mannar to Mannar as well as the speed of 45 - 50 km / h in the sea regions from Hambantota to Pottuvil to Pottuvil. In such cases, these sea regions are somewhat turbulent.
-
-But when the thunderstorm is raining, strong winds are blowing and the sea regions are temporarily in a very turbulent.
-
-◼️
-
-[Data](articles/426a0717.json)
-
-[Extended Data](ext_articles/426a0717.ext.json)
-
----
-
-### Sri Lanka foreign exchange inflows exceed imports by $757mn in Aug
-
-*2024-10-04 08:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-exchange-inflows-exceed-imports-by-757mn-in-aug-182278/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current gross foreign exchange inflows have exceeded imports of 2,411 million dollars in August have exceeded imports of 1,654 million US dollars in August 2024, official data released by the central bank show.
-
-Current inflows include merchandise exports of 1,224 million US dollars, the highest since August 2022, remittances of 577.5 million US dollars, and gross service (including 282 million of estimated tourism earnings) of 609.3 million US dollars.
-
-Travel aboard was reported as 99.7 million US dollars for August and air transport, 61.2 million dollars.
-
-When inflows are spent by their recipients, like export factory workers, families of expatriate workers, tourism sector workers or staff of information technology firms, imports are generated.
-
-Since inflows come from areas other than merchandise exports, like tourism or remittances, there is usually a trade deficit.
-
-...
-
-[Data](articles/c7768ec1.json)
-
-[Extended Data](ext_articles/c7768ec1.ext.json)
 
 ---

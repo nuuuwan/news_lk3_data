@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 11:39:29**
+As of **2024-10-04 11:58:42**
 
 ## Newspaper Stats
 
-*Scraped **47,735** Articles*
+*Scraped **47,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 394
 bbccomsinhala | 470
 colombotelegraphcom | 473
 islandlk | 2,809
-economynextcom | 2,918
+economynextcom | 2,921
 dailyftlk | 3,222
 adalk | 4,417
 dailymirrorlk | 4,733
 adaderanalk | 5,612
-tamilmirrorlk | 6,435
+tamilmirrorlk | 6,436
 virakesarilk | 7,639
 adaderanasinhalalk | 8,250
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 8,250
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,735 (100.0%) of 47,735 articles have been extended.
+47,739 (100.0%) of 47,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Tendon
+
+*2024-10-04 11:22:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைபேசிக்கு-அடிமையான-மாணவன்-உயிர்மாய்ப்பு/175-344911) · `ta`
+
+Student dies during death investigation after addiction to telephone game in Jaffna. Parents complained to police when child didn't return home. Body handed over after autopsy.
+
+🟩
+
+During the death investigation, a school student who was addicted to a telephone game in Jaffna had made a wrong decision.
+
+Yall. A Grade 11 student at a school near the city has become addicted to telephone game and has not gone to school for more than three months and has been involved in telephone games from home.
+
+Since the student did not attend the school for more than three months, the school principal and the teachers have advised the parents to take it to the attention of the parents and send the student to the school.
+
+So, the father grabbed the student's mobile phone. So the angry student left the house on the 25th.
+
+Parents lodged a complaint at the Jaffna Police Station as the student did not return home
+
+In this case, a relative of a student living in Kilinochchi on Wednesday (03) has handed over the student to his parents claiming that the student was staying in his house.
+
+In the early hours of Thursday (02), the student made a wrong decision and died of his life.
+
+...
+
+[Data](articles/4b5c12ce.json)
+
+[Extended Data](ext_articles/4b5c12ce.ext.json)
+
+---
+
+### There was no change in gas prices in October;Lap company
+
+*2024-10-04 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195446) · `ta`
+
+No change in gas prices in October, according to Lap company CEO Niroshan J. Peiris.
+
+🟩
+
+Niroshan J.. Peiris said.
+
+◼️
+
+[Data](articles/568e8459.json)
+
+[Extended Data](ext_articles/568e8459.ext.json)
+
+---
 
 ### Rs.. 1 crore robbery: two arrested with broker
 
@@ -152,24 +200,6 @@ Dr Jaishankar’s meeting with the leadership reaffirms India’s bilateral ties
 
 ---
 
-### There was no change in gas prices in October;Lap company
-
-*2024-10-04 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/195446) · `ta`
-
-No change in gas prices in October, according to Lap company CEO Niroshan J. Peiris.
-
-🟩
-
-Niroshan J.. Peiris said.
-
-◼️
-
-[Data](articles/568e8459.json)
-
-[Extended Data](ext_articles/568e8459.ext.json)
-
----
-
 ### I. Meeting between the Resident Representative of the Na Development Program and the Secretary of the President
 
 *2024-10-04 10:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195444) · `ta`
@@ -213,6 +243,32 @@ Jaishankar is the first top foreign leader to meet President Anura Kumara Dissan
 [Data](articles/244b6257.json)
 
 [Extended Data](ext_articles/244b6257.ext.json)
+
+---
+
+### Sri Lanka rupee appreciates below 294 to US dollar, bond yields down
+
+*2024-10-04 10:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-appreciates-below-294-to-us-dollar-bond-yields-down-182304/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 293.70/90 to the US dollar Friday, up from 294.00/50 to the US dollar a day earlier, while bond yields were steady, dealers said.
+
+Sri Lanka’s rupee has appreciated steadily amid over last few days amid sell downs of the central bank’s remaining bill stock.
+
+When the exchange rate starts to appreciate, importers wait for to cover their bills.
+
+Based on earlier swings of the rupee dollar rate, some buyers from importers are also taking a wait and see attitude, market sources say.
+
+Meanwhile liquidity is also starting to build up from dollar purchases. Reverse repo borrowings, which were at almost 60 billion rupees on October 18, has fallen to around 18 billion rupees by Thursday.
+
+The overnight auction rate at which the rupees were injected, which was at at 8.56 percent, had fallen to 8.26 percent or the floor rate of the corridor.
+
+A bond maturing on 15.12.2026 was quoted at 10.50/60 Friday slightly up from 10.45/60 percent a day earlier.
+
+...
+
+[Data](articles/882b5b9e.json)
+
+[Extended Data](ext_articles/882b5b9e.ext.json)
 
 ---
 
@@ -425,6 +481,28 @@ But when the thunderstorm is raining, strong winds are blowing and the sea regio
 [Data](articles/426a0717.json)
 
 [Extended Data](ext_articles/426a0717.ext.json)
+
+---
+
+### Sri Lanka foreign exchange inflows exceed imports by $757mn in Aug
+
+*2024-10-04 08:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-exchange-inflows-exceed-imports-by-757mn-in-aug-182278/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current gross foreign exchange inflows have exceeded imports of 2,411 million dollars in August have exceeded imports of 1,654 million US dollars in August 2024, official data released by the central bank show.
+
+Current inflows include merchandise exports of 1,224 million US dollars, the highest since August 2022, remittances of 577.5 million US dollars, and gross service (including 282 million of estimated tourism earnings) of 609.3 million US dollars.
+
+Travel aboard was reported as 99.7 million US dollars for August and air transport, 61.2 million dollars.
+
+When inflows are spent by their recipients, like export factory workers, families of expatriate workers, tourism sector workers or staff of information technology firms, imports are generated.
+
+Since inflows come from areas other than merchandise exports, like tourism or remittances, there is usually a trade deficit.
+
+...
+
+[Data](articles/c7768ec1.json)
+
+[Extended Data](ext_articles/c7768ec1.ext.json)
 
 ---
 
@@ -679,6 +757,26 @@ The Meteorological Department also requests the public to take necessary steps t
 [Data](articles/31ebfb2c.json)
 
 [Extended Data](ext_articles/31ebfb2c.ext.json)
+
+---
+
+### IMF says discussing Sri Lanka new govt reform objectives, vulnerabilities remain
+
+*2024-10-04 06:04:00* · [`economynextcom`](https://economynext.com/imf-says-discussing-sri-lanka-new-govt-reform-objectives-vulnerabilities-remain-182217/) · `en`
+
+ECONOMYNEXT – A delegation led by the Director of the International Monetary Fund’s Asia Pacific Department, Krishna Srinivasan is visiting Sri Lanka and discussing the new administration’s reform objectives, an official said.
+
+“Program performance is strong, and reform efforts are bearing fruit in terms of reviving economic growth, lowering inflation, boosting reserves and improving revenue mobilization,” Julie Kozack, Director of the Communications Department said.
+
+“However, as we have said before, important vulnerabilities and uncertainties do remain, and this means that sustaining reform momentum is critical.”
+
+Newly elected President Anura Dissanayake has said Sri Lanka wants to cut both value added tax and income tax.
+
+...
+
+[Data](articles/907f1f3a.json)
+
+[Extended Data](ext_articles/907f1f3a.ext.json)
 
 ---
 
@@ -2237,105 +2335,5 @@ Gamini Fernando, Director of the Colombo High Commission, Aruttand, has announce
 [Data](articles/a0a117c3.json)
 
 [Extended Data](ext_articles/a0a117c3.ext.json)
-
----
-
-### Sri Lanka’s ex-leader denies immunity claim in bond scam
-
-*2024-10-03 17:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-ex-leader-denies-immunity-claim-in-bond-scam-182192/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former president Ranil Wickremesinghe has never requested presidential immunity in the controversial bond scam legal process as claimed by Cabinet Spokesman Vijitha Herath, his sources said.
-
-Herath in his first cabinet media briefing on Tuesday (01) said presidential immunity stated in the constitution has been considered for not calling Wickremesinghe to the courts.
-
-“There was no need for former President Ranil Wickramasinghe to request any immunity and in fact the former President has never requested such immunity,” Dhanushka Ramanayake, Wickremesinghe’s Presidential Media Director, said in a statement.
-
-Presidential immunity in the past had allowed past presidents not to be accountable for their wrong decisions or to appear in the courts in legal cases against them.
-
-Hearth responding to a question said Wickremesinghe is also not the president anymore and he did not have immunity.
-
-...
-
-[Data](articles/43b4989d.json)
-
-[Extended Data](ext_articles/43b4989d.ext.json)
-
----
-
-### At the general election we get two thirds
-
-*2024-10-03 17:45:48* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී-අපට-තුනෙන්-දෙකක්-ලැබෙනවා/11-412297) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National Election executive committee expects two-thirds majority in general election. Criticizes opposition parties for division. Promises strong parliament and effective law enforcement. Assures transparency in appointments and accountability measures.
-
-🟩
-
-The executive committee member of the National Election will definitely receive power over two thirds in the general election due to the President's population. Mr. Lal Kanthe said.
-
-He was speaking at a press conference held in Kandy today 3.
-
-Responding to journalists' questions and the Executive Committee of the National Institute of Power, the Executive Committee of the National Institute of Power, he added:
-
-We do not want to work on the general election. There is a work that brought the work for the presidential election. We have the false in the masses because of the President's populist actions. A large number of people who have not been involved with us have been involved with us.
-
-In fact, there was no opposition in our country. Opposition is the three previous parties. Sajith Premadasa is a nominal leader, not an opposition leaders in the recent past. But they build an argument that if the votes we have left, we can win the votes that they can win the votes.
-
-...
-
-[Data](articles/8884d23b.json)
-
-[Extended Data](ext_articles/8884d23b.ext.json)
-
----
-
-### A subsidy of Rs.25000 for farmers
-
-*2024-10-03 17:36:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளுக்கு-ரூ-25000-மானியம்/175-344877) · `ta`
-
-Rs.25,000 subsidy for farmers approved by President Anura Kumara Dissanayake. Secretary: QR Index system for fertilizer purchase; subsidy to be implemented via banking system. No restrictions on fertilizer subsidy distribution.
-
-🟩
-
-Secretary to the Ministry of Agriculture
-
-The resolution was reached during a discussion with President Anura Kumara Dissanayake today.
-
-“The President visited the Ministry of Agriculture this morning and went to review with the authorities. Farmers advised to implement the QR Index system for the purchase of fertilizer, obtaining the necessary information. Once it is completed, the amount will be implemented by the banking system, ”the secretary said.
-
-Therefore, there is no restriction on providing fertilizer subsidy, he said.
-
-◼️
-
-[Data](articles/6254963f.json)
-
-[Extended Data](ext_articles/6254963f.ext.json)
-
----
-
-### Rs. 25,000 subsidy to farmers
-
-*2024-10-03 17:36:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளுக்கு-ரூ-25-000-மானியம்/175-344877) · `ta`
-
-President Anura Kumara Dissanayake announces Rs. 25,000 subsidy for farmers. Secretary says QR Index system for fertilizer purchase will be implemented soon. No restrictions on fertilizer subsidy distribution.
-
-🟩
-
-Secretary to the Ministry of Agriculture
-
-The resolution was reached during a discussion with President Anura Kumara Dissanayake today.
-
-“The President visited the Ministry of Agriculture this morning and went to review with the authorities. Farmers advised to implement the QR Index system for the purchase of fertilizer, obtaining the necessary information. Once it is completed, the amount will be implemented by the banking system, ”the secretary said.
-
-Therefore, there is no restriction on providing fertilizer subsidy, he said.
-
-◼️
-
-[Data](articles/7badbaba.json)
-
-[Extended Data](ext_articles/7badbaba.ext.json)
 
 ---

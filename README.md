@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 19:38:51**
+As of **2024-10-04 19:57:19**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 8,272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,816 (100.0%) of 47,818 articles have been extended.
+47,818 (100.0%) of 47,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
 
-### ஜெய்சங்கரின் முக்கிய சந்திப்புகள்
+### Jaishankar's main meetings
 
 *2024-10-04 19:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெய்சங்கரின்-முக்கிய-சந்திப்புகள்/175-344922) · `ta`
 
-இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் உத்தியோகப்பூர்வமாக இன்று இலங்கை வந்துள்ளார்.
+Here's a summary of 200 characters:
 
-இவர் பல அரசியல் தலைவர்களை சந்தித்ததுடன், புதிய அரசாங்கத்தின் முக்கியஸ்தர்களையும், ஜனாதிபதியையும் சந்தித்தார்.
 
-மேலும், புதிய அரசாங்கத்தின் பிரதமர் கலாநிதி ஹரிணியையும் இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் சந்தித்துள்ளார். R
+
+Indian Foreign Minister Jaishankar arrives in Sri Lanka. Meets political leaders, new government officials, and President. Also meets Prime Minister Dr. Harini. Discusses bilateral relations and cooperation.
+
+🟩
+
+Indian Foreign Minister. Jaishankar officially arrived in Sri Lanka today.
+
+He met several political leaders and met with the leaders of the new government and the president.
+
+In addition, the Prime Minister of the new government, Dr. Harini, and Indian Foreign Minister. Jaishankar has met. Remble
 
 ◼️
 
 [Data](articles/c67a4521.json)
+
+[Extended Data](ext_articles/c67a4521.ext.json)
 
 ---
 
@@ -90,17 +100,23 @@ The Ministry of Defense states that those persons are due to be returned with a 
 
 ---
 
-### சஜித்தை சந்தித்தார் ஜெய்சங்கர்
+### Jaishankar met Sajith
 
 *2024-10-04 18:52:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-சந்தித்தார்-ஜெய்சங்கர்/175-344921) · `ta`
 
-இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் உத்தியோகப்பூர்வமாக இன்று இலங்கை வந்துள்ளார்.
+Indian Foreign Minister Jaishankar arrives in Sri Lanka, meets political leaders and new government officials.
 
-இவர் பல அரசியல் தலைவர்களை சந்தித்ததுடன், புதிய அரசாங்கத்தின் முக்கியஸ்தர்களையும், ஜனாதிபதியையும் சந்தித்தார்.
+🟩
+
+Indian Foreign Minister. Jaishankar officially arrived in Sri Lanka today.
+
+He met several political leaders and met with the leaders of the new government and the president.
 
 ◼️
 
 [Data](articles/3cb786e8.json)
+
+[Extended Data](ext_articles/3cb786e8.ext.json)
 
 ---
 

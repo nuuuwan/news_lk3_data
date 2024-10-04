@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 17:59:47**
+As of **2024-10-04 18:19:43**
 
 ## Newspaper Stats
 
-*Scraped **47,794** Articles*
+*Scraped **47,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 4,421
 dailymirrorlk | 4,733
 adaderanalk | 5,624
 tamilmirrorlk | 6,445
-virakesarilk | 7,648
-adaderanasinhalalk | 8,265
+virakesarilk | 7,652
+adaderanasinhalalk | 8,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,794 (100.0%) of 47,794 articles have been extended.
+47,799 (100.0%) of 47,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### President invites Migodanu
+
+*2024-10-04 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201845) · `si`
+
+Narendra Modi invites Anura Kumara Dissanayake to India. S. Jayashankar meets Sri Lankan officials. Leaders discuss strengthening bilateral ties.
+
+🟩
+
+Indian Prime Minister Narendra Modi has invited President Anura Kumara Dissanayake to visit India.
+
+Indian Foreign Minister S. The invitation was carried out by Mr. Jayasankara.
+
+Meanwhile, Indian Foreign Minister S. Jayashankar has met the Prime Minister Dr. Harini Amarasuriya.
+
+The S. during the trip. Jayasankur met with the leader of the former President Ranil Wickremesinghe and the leader of the Sihily Power Sajith.
+
+Indian Foreign Minister S. Jayasankar arrived in Bandaranaike International Airport this morning at Katunayake Bandaranaike.
+
+Jayashankar is the highest diplomat for Anura Kumara Dissanayake as the 9th Executive President of Sri Lanka.
+
+Meanwhile, the Indian Foreign Minister also met with External Affairs Minister Vijitha Herath at the Ministry of External Affairs.
+
+S. President Anura Kumara Dissanayake met President Anura Kumara Dissanayake at the presidential office.
+
+...
+
+[Data](articles/7c7e756d.json)
+
+[Extended Data](ext_articles/7c7e756d.ext.json)
+
+---
 
 ### Increase in Sri Lankans migrating for foreign employments
 
@@ -51,6 +83,74 @@ The highest number of Sri Lankans has sought employment opportunities in the Kin
 [Data](articles/cc803f9a.json)
 
 [Extended Data](ext_articles/cc803f9a.ext.json)
+
+---
+
+### Aragon - Film Review
+
+*2024-10-04 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195487) · `ta`
+
+Here's a 200-character summary of the Aragon film review:
+
+
+
+"Aragon" stars Michael Thangadurai and Kavi Priya Manoharan. Director explores themes of youth preservation and deception. Michael Thangadurai shines as the protagonist, while Kavi Priya Manoharan impresses as the debut actress. Cinematography and background music praised in the first half. Overall, a promising debut from the director.
+
+🟩
+
+Actors: Michael Thangadurai, Kavi Priya Manoharan, Sri Ranjani, Kalarani, Yasser and many others
+
+The famous actor Michael Thangadurai - The hero of the story, 'Arakan', has attracted all the fans?Or not?We will continue to see.
+
+A sage is a sage to keep this body young - a prince who saved his life.
+
+What is its modern phenomenon?The debut director has tried to describe the natural screenplay.
+
+Michael Thangadurai, the hero of the story, is the heroine of the story that grew up in the orphanage.
+
+Michael Thangadurai promises to the girlfriend that he has to start his own business and raise funds for it.
+
+The girlfriend also enjoys listening to her lover's ambition and agrees to work as a nurses who are lonely in a distant lonely woman to help him.
+
+After that, he feels that he has been cheated and that her boyfriend is trapped in an expanding trap.
+
+What does he make after that?That is the culmination of the film.
+
+...
+
+[Data](articles/0f3c5ef5.json)
+
+[Extended Data](ext_articles/0f3c5ef5.ext.json)
+
+---
+
+### Petty - movie review
+
+*2024-10-04 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195488) · `ta`
+
+"Petty" movie review summary: Triangular love story set in 90s. Deepiksha stars alongside newcomers. Poor reception due to outdated plot and subpar performances. Limited appeal despite some decent comedy scenes.
+
+🟩
+
+Actors: Dr. Ditto, Mahesh, Deepiksha, Sams, Madhumita, Mani Bai, Senthamizhan and many others.
+
+The triangular love story 'Chelkutty', which has been released in the newcomers, has attracted all the fans?Or not?We will continue to see.
+
+The story is set in as it takes place in the 90s. The heroes of the story, Sentha (Deepiksha), who is a friend of the story, are the heroes of the story, Dito and Mahesh.
+
+Tito introduces Mahesh to Sentha at a moment. The heroine Sentha is compassionate because Mahesh is not a parent. Mahesh misunderstand this and falls in love with Sentha. Senta never loved Mahesh.
+
+He reports it directly to Mahesh. However Mahesh continues to love Senatha. Mahesh fails at school without getting a great deal.
+
+But Ditto and Senta are siddhi in the exam and both enroll in college to teach higher education.
+
+Senta, who is impressed by Dito's action, begins to love him. Ditto's parents also listen to Sentha. But Ditto-Sentha refuses to marry.
+
+...
+
+[Data](articles/47027f6b.json)
+
+[Extended Data](ext_articles/47027f6b.ext.json)
 
 ---
 
@@ -79,6 +179,62 @@ After considering the facts presented by the judge, is the defendant acquitted w
 [Data](articles/e75734fb.json)
 
 [Extended Data](ext_articles/e75734fb.ext.json)
+
+---
+
+### Bollywood actress Aaliya Bhatt starrer 'Alpha'
+
+*2024-10-04 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195486) · `ta`
+
+Aaliya Bhatt stars in "Alpha" directed by Shiv Rawil. Co-starring Bobby Deol, Hrithik Roshan. Produced by Aditya Chopra for Yash Raj Films. Releasing Dec 25, 2023 in Tamil, Telugu, Hindi. Fans anticipate her portrayal as an intelligence officer.
+
+🟩
+
+The release date of the film 'Alpha', which plays the lead role in the story of Aaliya Bhatt, is the leading star of the Bollywood film industry.
+
+Directed by director Shiv Rawil, Aaliya Bhatt, Sherwari, Square Kapoor, Bobby Deol, Hrithik Roshan and many others have starred in the film 'Alpha'.
+
+The film was produced by Aditya Chopra, producer on behalf of Yash Raj Films.
+
+The massive work -centered creation is expected to be released in Tamil, Telugu and Hindi on December 25, December 25, next year.
+
+The expectation for the film, which is playing Aaliya Bhatt intelligence officer, has increased in fans.
+
+◼️
+
+[Data](articles/ec3dafa4.json)
+
+[Extended Data](ext_articles/ec3dafa4.ext.json)
+
+---
+
+### Why is Kamal Haasan's 'Indian 3' directly on the digital site?
+
+*2024-10-04 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195483) · `ta`
+
+Kamal Haasan's 'Indian 3' likely direct digital release due to 'Indian 2's' poor box office performance. Lyca Productions in talks for digital platform release. Official announcement expected early December.
+
+🟩
+
+The movie 'Indian 3', which is starring Kamal Haasan, is expected to be released directly on the digital site.
+
+The film 'Indian 2', directed by the director Shankar, received mixed reviews.
+
+However, the film grossed over Rs 180 crore in Indian value. The filmmakers Kamal Haasan- Shankar, Anirudh, Laika, Indian, and Indian, have formed a coalition, but 'Indian 2' is not a commercial success.
+
+In this case, Kamal Haasan, the hero of the film 'Indian 2', said, "I agreed to act in Indian 2 because of the story of Indian 3."
+
+At that moment had the expectation for the film 'Indian 3'.But the film industry has no support for the film 'Indian 3' in the filmmaker as the 'Indian 2' is not a commercial success.
+
+Realizing this, business sources said that the film production company Lyca is in talks to release the 'Indian 3' image directly on the digital site.
+
+Speaking about this, the filmmakers are in talks to release the film 'Vaida Tri' starring Ajit Kumar on behalf of Leica on Pongal on 2025.
+
+...
+
+[Data](articles/c4b5165f.json)
+
+[Extended Data](ext_articles/c4b5165f.ext.json)
 
 ---
 
@@ -2229,89 +2385,5 @@ As Chairman of the Panel, Rathika de Silva will lead an experienced and versatil
 [Data](articles/04e8bd1f.json)
 
 [Extended Data](ext_articles/04e8bd1f.ext.json)
-
----
-
-### RW allies to contest general election under “Gas Cylinder” symbol
-
-*2024-10-04 05:13:12* · [`dailyftlk`](https://www.ft.lk/news/RW-allies-to-contest-general-election-under-Gas-Cylinder-symbol/56-767520) · `en`
-
-Political parties that supported former President Ranil Wickremesinghe in the recent Presidential election are gearing up to contest the upcoming General Election under the banner of the New Democratic Front (NDF), with the “Gas Cylinder” as their election symbol.
-
-United National Party (UNP) Kesbewa Electoral Seat Organiser Saman Rathnapriya, yesterday confirmed that all parties within the alliance had agreed to contest under the “Gas Cylinder” symbol. Alliance member S.M. Chandrasena also echoed this sentiment, stating that the group was united in their decision.
-
-...
-
-[Data](articles/e6b89cf0.json)
-
-[Extended Data](ext_articles/e6b89cf0.ext.json)
-
----
-
-### Pathfinder Foundations launches Sinhala translation of “The India Way: Strategies for an Uncertain World”
-
-*2024-10-04 05:11:48* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundations-launches-Sinhala-translation-of-The-India-Way-Strategies-for-an-Uncertain-World/56-767519) · `en`
-
-The Sinhala translation of “The India Way: Strategies for an Uncertain World” by India’s External Affairs Minister Dr. S. Jaishankar will be launched in Colombo today.
-
-The decade from the 2008 global financial crisis to the 2020 COVID-19 pandemic, has significantly transformed the world order. In “The India Way”, Dr. S. Jaishankar analyses these challenges and proposes possible policy responses. He places this thinking in the context of history and tradition, appropriate for a civilisational power that seeks to reclaim its place on the world stage.
-
-...
-
-[Data](articles/7b654540.json)
-
-[Extended Data](ext_articles/7b654540.ext.json)
-
----
-
-### Sajith calls for national unity; urges focus on solutions over politics
-
-*2024-10-04 05:11:28* · [`dailyftlk`](https://www.ft.lk/news/Sajith-calls-for-national-unity-urges-focus-on-solutions-over-politics/56-767518) · `en`
-
-Urges all political factions to set aside narrow political arguments and prioritise welfare of SL
-
-Criticises prevailing hypocritical political culture and calls for a collective effort to find practical solutions
-
-Urges need to support local entrepreneurs and businesses, promote investments, and create export-oriented economic growth that generates jobs for youth
-
-Samagi Jana Balawegaya (SJB) leader Sajith Premadasa has emphasised the need for national unity and collaborative efforts to tackle Sri Lanka’s pressing issues during a recent meeting with party workers in the Dehiwala area. He urged all political factions to set aside narrow political arguments and prioritise the welfare of the country.
-
-...
-
-[Data](articles/798ef81a.json)
-
-[Extended Data](ext_articles/798ef81a.ext.json)
-
----
-
-### President appoints new Secretary to Public Administration Ministry
-
-*2024-10-04 05:10:09* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-new-Secretary-to-Public-Administration-Ministry/56-767517) · `en`
-
-President Anura Kumara Dissanayake has appointed S. Aloka Bandara as the new Public Administration, Home Affairs, Provincial Councils, Local Government and Labour Ministry Secretary. The appointment was officially presented by Dr. Nandika Sanath Kumanayake at the Presidential Secretariat yesterday.
-
-◼️
-
-[Data](articles/bf7c7956.json)
-
-[Extended Data](ext_articles/bf7c7956.ext.json)
-
----
-
-### Reciprocal cultural visit between Indian and Sri Lankan armed forces
-
-*2024-10-04 05:09:06* · [`dailyftlk`](https://www.ft.lk/news/Reciprocal-cultural-visit-between-Indian-and-Sri-Lankan-armed-forces/56-767516) · `en`
-
-A Reciprocal cultural visit between the Indian and Sri Lankan armed forces commenced on 2 October, with arrival of an Indian Air Force Aircraft carrying 120 Indian armed forces personnel at Bandaranaike International Airport, Colombo.
-
-Over the next three days, Indian delegation will be visiting cultural sites in and around Nuwara Eliya. Simultaneously, an aircraft departed with 120 Sri Lankan armed forces personnel for a three day long visit to Bodh Gaya, India.
-
-Ceremonial welcomes was accorded to the incoming delegation, and were received by senior officers from the Indian High Commission, Colombo and Sri Lankan armed forces. A memento exchange between the heads of delegations from both sides was followed by a group photograph. The aim of this cultural exchange is to further enhance people to people contact between both the armed forces and exposing them to each other’s cultural heritage.
-
-...
-
-[Data](articles/27dac6ce.json)
-
-[Extended Data](ext_articles/27dac6ce.ext.json)
 
 ---

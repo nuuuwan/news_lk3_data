@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 18:46:27**
+As of **2024-10-04 18:34:04**
 
 ## Newspaper Stats
 
-*Scraped **47,806** Articles*
+*Scraped **47,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,17 @@ dailymirrorlk | 4,733
 adaderanalk | 5,626
 tamilmirrorlk | 6,445
 virakesarilk | 7,652
-adaderanasinhalalk | 8,268
+adaderanasinhalalk | 8,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,805 (100.0%) of 47,806 articles have been extended.
+47,805 (100.0%) of 47,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
-
-### IMF නියෝජිතයන් සහ අගමැතිනි අතර හමුවක්
-
-*2024-10-04 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201847) · `si`
-
-අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අතර සාකච්ඡාවක් අද (04) පස්වරුවේ අග්‍රාමාත්‍ය කාර්යාලයේදී පැවැත්විණි.
-
-ශ්‍රී ලංකාව සහ ජාත්‍යන්තර මූල්‍ය අරමුදල අතර සහයෝගීතාව තවදුරටත් පවත්වා ගැනීම පිළිබඳව මෙම හමුවේදී අවධානය යොමු ඇත.
-
-අග්‍රාමාත්‍ය ලේකම් ප්‍රදීප් සපුතන්ත්‍රි, ආසියා ශාන්තිකර කලාපීය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ වෛද්‍ය ක්‍රිෂ්ණා ශ්‍රීනිවාසන් සහ ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී ආචාර්ය පීටර් බ්‍රෙයර්, ශ්‍රී ලංකා මහ බැංකුවේ ආර්ථික පර්යේෂණ දෙපාර්තමේන්තුවේ නියෝජ්‍ය අධ්‍යක්ෂ ජානක එදිරිසිංහ, අග්නිදිග ආසියා සහ මධ්‍යම ආර්ථික කටයුතු (ද්විපාර්ශ්වික) ජ්‍යෙෂ්ඨ අධ්‍යක්ෂ ජනරාල් දර්ශන එම් පෙරේරා යන මහත්වරුන් මෙම සාකච්ඡාවට සහභාගී වී තිබේ.
-
-◼️
-
-[Data](articles/dd3c410d.json)
-
----
 
 ### A major road near Temple Trees opens
 
@@ -2411,5 +2395,21 @@ Against the background of global turmoil, setbacks and transformations, the aspi
 [Data](articles/c40d491f.json)
 
 [Extended Data](ext_articles/c40d491f.ext.json)
+
+---
+
+### Human Rights Watch says UN Rights Council should extend crucial mandate on SL
+
+*2024-10-04 05:45:04* · [`dailyftlk`](https://www.ft.lk/opinion/Human-Rights-Watch-says-UN-Rights-Council-should-extend-crucial-mandate-on-SL/14-767528) · `en`
+
+Human Rights Watch said yesterday that the United Nations Human Rights Council should adopt a resolution on Sri Lanka to enable continued UN monitoring, reporting, and evidence collection of rights violations for future prosecutions.
+
+It said President Anura Kumara Dissanayake, who was elected on September 21, 2024, should reverse the policies of his predecessors by cooperating with the UN’s investigation mechanism, ending the use of repressive laws to stifle dissent, and preventing security forces from targeting activists, survivors of abuses, and victims’ families with threats and reprisals.
+
+...
+
+[Data](articles/163ba034.json)
+
+[Extended Data](ext_articles/163ba034.ext.json)
 
 ---

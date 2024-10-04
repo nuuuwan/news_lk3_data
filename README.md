@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 16:23:08**
+As of **2024-10-04 16:38:38**
 
 ## Newspaper Stats
 
@@ -26,35 +26,43 @@ adaderanasinhalalk | 8,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,785 (100.0%) of 47,788 articles have been extended.
+47,788 (100.0%) of 47,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
 
-### ශ්‍රී ලාංකිකයන් රැකියා සඳහා විදෙස්ගත වීම් ඉහළට
+### Sri Lankans go abroad for employment
 
 *2024-10-04 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201841) · `si`
 
-පසුගිය 2023 වසරේ සැප්තැම්බර් මාසයට සාපේක්ෂව 2024 සැප්තැම්බර් මාසයේදී ශ්‍රී ලාංකිකයින් විදෙස් රැකියා සඳහා පිටත් ව යාම ඉහළ ගොස් ඇති බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+Sri Lankans' foreign employment surge: 28,344 left in Sept 2023, 240,109 total in 9 months. Top destinations: Saudi Arabia (38,133), Israel (6,391), Japan (6,295).
 
-කාර්යාංශය පැවසුවේ මේ වන විට විදෙස් ගතවීම් 10%කින් ඉහළ ගොස් ඇති බවය.
+🟩
 
-ඒ අනුව 2024 සැප්තැම්බර් මාසයේදී ශ්‍රී ලාංකිකයින් 28,344 දෙනෙකු විදෙස් රැකියා සඳහා පිටත්ව ගොස් ඇති අතර 2023 වර්ෂයේ සැප්තැම්බර් මාසයේදී විදෙස් රැකියා සඳහා පිටත්ව ගිය ප්‍රමාණය 25,716 කි.
+In September 2023, Sri Lankans have increased to foreign employment in September 2023, according to the Sri Lanka Foreign Employment Bureau.
 
-2024 මුල් මාස 9 තුළ විදෙස් රැකියා සඳහා යොමු වී ඇති ශ්‍රි ලාංකිකයින් ප්‍රමාණය 240,109 ක් ව තිබේ.
+The Bureau said that foreign substation has increased by 10%.
 
-එයට කාන්තා ශ්‍රමිකයින් 99,939 ක් හා  පිරිමි ශ්‍රමිකයින් 142,170 ක් ඇතුළත් ය.
+Accordingly, 28,344 Sri Lankans left for foreign employment in September 2023 and in September 2023, 25,716 were departed for foreign employment.
 
-මෙම කාලය තුළ පුහුණු ශ්‍රමිකයින් 70,396 දෙනෙකු රැකියා සඳහා විදෙස් ගතව තිබේ
+In the first nine months of the first nine months, the size of Sri Lankans, which have been for foreign employment, has been 240,109.
 
-ඒ අතරට පිරිමි ශ්‍රමිකයින් 62,177ක් හා කාන්තා ශ්‍රමිකයින් 8,219 දෙනෙකු අයත් ය.
+It includes 99,939 workers and 142,170 male workers.
 
-2024 මුල් මාස 9 තුළ වෘත්තිය රැකියා සඳහා ශ්‍රමිකයින් 17,649 දෙනෙකු විදේශ ගතවී ඇති අතර, අර්ධ පුහුණු රැකියා සඳහා යොමු වූ ලාංකිකයින් ප්‍රමාණය 3,704 කි.
+70,396 skilled workers have been abroad during this period
+
+At the same time, 62,177 male workers and 8,219 female workers.
+
+In the first nine months of 2024, 17,649 workers have passed abroad and 3,704 Sri Lankans who have referred to semi-skilled jobs.
+
+In the first nine months of the first nine months, the largest number of Sri Lankans are in Saudi Arabia, and it is 38,133.
 
 ...
 
 [Data](articles/17ad28ba.json)
+
+[Extended Data](ext_articles/17ad28ba.ext.json)
 
 ---
 
@@ -73,6 +81,8 @@ Meanwhile, he also said that they discussed ways to deepen ongoing cooperation a
 ◼️
 
 [Data](articles/8434e2b1.json)
+
+[Extended Data](ext_articles/8434e2b1.ext.json)
 
 ---
 
@@ -107,6 +117,8 @@ Speaking to reporters regarding the recruitment of workers to Middle Eastern cou
 ...
 
 [Data](articles/2d51d9e7.json)
+
+[Extended Data](ext_articles/2d51d9e7.ext.json)
 
 ---
 

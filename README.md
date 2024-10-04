@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 10:23:17**
+As of **2024-10-04 10:38:44**
 
 ## Newspaper Stats
 
-*Scraped **47,721** Articles*
+*Scraped **47,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,918
 dailyftlk | 3,222
 adalk | 4,416
 dailymirrorlk | 4,733
-adaderanalk | 5,608
+adaderanalk | 5,609
 tamilmirrorlk | 6,434
 virakesarilk | 7,632
 adaderanasinhalalk | 8,249
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,249
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,721 (100.0%) of 47,721 articles have been extended.
+47,721 (100.0%) of 47,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### President reaffirms commitment to continuing IMF program without disruption
+
+*2024-10-04 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102432/-president-reaffirms-commitment-to-continuing-imf-program-without-disruption) · `en`
+
+In a significant meeting on Thursday, President Anura Kumara Dissanayake engaged directly with IMF delegation including the Director of the Asia Pacific Department, Krishna Srinivasan and Senior Mission Chief Dr. Peter Breuer to discuss the progress of Sri Lanka’s on-going IMF programme.
+
+The President was accompanied by key Sri Lankan officials, including Central Bank Governor Dr.Nandalal Weerasinghe, Secretary to the Treasury Mr. Mahinda Siriwardena, Dr. Harshana Sooriyapperuma, Senior Advisors to the President Prof. Anil Jayantha and Mr. Duminda Hulangamuwa.
+
+President Dissanayake reaffirmed the government’s broad agreement in principle with the objectives of the IMF programme but emphasized the importance of achieving these objectives through alternative means that relieves the burden off the people, the President’s Media Division (PMD) said.
+
+The President stated that the government plans to provide relief to those who are struggling due to high VAT and income taxes, the statement said.
+
+...
+
+[Data](articles/d1c91850.json)
+
+---
 
 ### Laugfs gas prices to remain unchanged
 
@@ -2359,23 +2377,5 @@ Purchasing a kilo of rice is an expression of a tragic to Nuwara Eliya, Nuwara E
 [Data](articles/60ce1b52.json)
 
 [Extended Data](ext_articles/60ce1b52.ext.json)
-
----
-
-### Gates Foundation to support Sri Lanka’s digitisation projects: president’s office
-
-*2024-10-03 16:43:00* · [`economynextcom`](https://economynext.com/gates-foundation-to-support-sri-lankas-digitisation-projects-presidents-office-182159/) · `en`
-
-ECONOMYNEXT — The Bill & Melinda Gates Foundation is ready to provide financial, technical and advisory support for Sri Lanka’s digitisation projects, the government said, citing an “independent consultant” of the foundation.
-
-A statement from the president’s media division (PMD) said an independent consultant of the Gates Foundation by the name of Chanditha Samaranayake has met the Secretary to the President Nandika Sanath Kumanayake in Colombo.
-
-According to the statement, the Gates Foundation’s projects related to upliftment of agriculture in Sri Lanka, improvement of children’s nutrition including provision of school lunch, development of human resources in the public and private sectors, livestock, climate change etc. were discussed at length.
-
-...
-
-[Data](articles/3d41dddd.json)
-
-[Extended Data](ext_articles/3d41dddd.ext.json)
 
 ---

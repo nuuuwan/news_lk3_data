@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 15:38:48**
+As of **2024-10-04 15:57:46**
 
 ## Newspaper Stats
 
-*Scraped **47,773** Articles*
+*Scraped **47,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ economynextcom | 2,923
 dailyftlk | 3,222
 adalk | 4,420
 dailymirrorlk | 4,733
-adaderanalk | 5,619
+adaderanalk | 5,620
 tamilmirrorlk | 6,444
 virakesarilk | 7,642
-adaderanasinhalalk | 8,257
+adaderanasinhalalk | 8,259
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,773 (100.0%) of 47,773 articles have been extended.
+47,776 (100.0%) of 47,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### CSE’s ASPI crosses 12,000 mark
+
+*2024-10-04 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102445/cses-aspi-crosses-12000-mark) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has crossed the 12,000 mark today (04).
+
+The CSE’s ASPI crossed this milestone for the first time since 03 July 2024 increasing by 123.50 points to close at 12,053.49.
+
+Meanwhile, the market turnover was recorded at Rs. 2.8 billion today.
+
+◼️
+
+[Data](articles/0265e158.json)
+
+[Extended Data](ext_articles/0265e158.ext.json)
+
+---
+
+### Indian Foreign Minister's book is issued in Sinhala
+
+*2024-10-04 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201838) · `si`
+
+Dr. S. Jayasankara's "India Way" book translated into Sinhala. Presented by Indian Mawatha. Discusses global economic crisis and India's policy responses. Attended by Bernard Gunatilleke and Indian High Commissioner.
+
+🟩
+
+Indian Foreign Minister Dr. S. Jayasankara's 'India Way: Stratetain World' work has been translated into Sinhala by Indian Mawatha.
+
+Indian Foreign Minister Dr. S. Story Indian Foreign Minister Milinda Moragoda. Mr. Jayasankara was presented today (04).
+
+Bernard Gunatilleke, Chairman of PathFinder Foundation, and the High Commissioner of India joined the occasion.
+
+This book reveals that the context of the world's world economic crisis, the 2020 world economic crisis, and its challenges, as well as the policy responses to India proposed.
+
+Ajith Parakum Jayasinghe was translated into Sinhala.
+
+◼️
+
+[Data](articles/b2abcb63.json)
+
+[Extended Data](ext_articles/b2abcb63.ext.json)
+
+---
+
+### Lebanon is found in the face of Israeli attacks
+
+*2024-10-04 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201837) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Israel launches airstrikes on Lebanon, targeting Hezbollah. Heavy casualties reported. World Health Organization confirms 28 health workers killed in 24 hours. Israel denies targeting civilians, claims aiming at Hamas structures. This marks Israel's first strike on West Bank in 20 years.
+
+🟩
+
+Israel has a series of massive air strikes to South Bert targeting the Hezbolleh of Lebanon.
+
+Foreign media reports that the attacks on Lebanon Kaluwel, after the end of the war, were nearing nearly 2,000 people.
+
+Israeli objections have intensified the unstableness of the security of Lebanon, and in order to the southern Berette, Israel was launched yesterday (03).
+
+A plane from France had been attacked near the Bereurtost Airport.
+
+The city of Israel is the main goal of Israel, which is said to be located.
+
+The murder of Hashham, which is the head of the Hezbollah Executive Councilor, is currently the main objective of Israel.
+
+It is said that the Israelites claimed that Hezbollah intelligence was targeting buildings belonging to the main headquarters.
+
+Lebanon has been killed and 37 people were killed and over 100 wounded.
+
+Accordingly, Israeli-Hamas began in October 7, 2023, aimed at the attacks on Sabulla on October 7, 2023, and the attacks on the Lebanulla have been attacked by 127 children.
+
+...
+
+[Data](articles/4fe83534.json)
+
+[Extended Data](ext_articles/4fe83534.ext.json)
+
+---
 
 ### The Keheliya and his family imposed refuge
 
@@ -2171,93 +2253,5 @@ The president reiterated the vast agreement of the government in principle with 
 [Data](articles/43879e9b.json)
 
 [Extended Data](ext_articles/43879e9b.ext.json)
-
----
-
-### Bangladesh over 10 years of victory in the World Cup by defeating Scotland
-
-*2024-10-03 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195432) · `ta`
-
-Bangladesh wins ICC Women's T20 World Cup match vs Scotland after 10-year drought. Captain Nikar Sultana expresses joy at victory on UAE soil.
-
-🟩
-
-Bangladesh won by 16 runs in the ICC Women's T20 World Cup in the Bomber's Bomber's Bomber at the Sharjah Cricket Stadium against Scotland on Thursday afternoon.
-
-Bangladesh, who lost 16 matches in the World Cup in the World Cup in 2014, have set a 10 -year win.
-
-And this victory on the 'shadow home' has given Bangladesh a great deal of excitement.
-
-'Not playing in our own country makes the heart hurt. But, we play for their own country as we were safe. We have made a good success in the presence of a good number of visitors. This has brought happiness in our own country, ”said Nikar Sultana, the captain of the 100th Women's International T20 match.
-
-It is certain that the defeat will be disappointing for Scotland for the first time in the Women's T20 World Cup in the World Cup.
-
-The game did not make a huge flaw as both sides left the field on the field. In the entire match, the two were over 30 runs.
-
-...
-
-[Data](articles/1bb9700f.json)
-
-[Extended Data](ext_articles/1bb9700f.ext.json)
-
----
-
-### Sri Lanka is a bitter defeat
-
-*2024-10-03 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201822) · `si`
-
-Sri Lanka lost to Pakistan in Women's T20 World Cup. Sri Lankans scored 85 runs in 20 overs, Chamari Atapattu bowled out first wicket. Pakistan won by 31 runs, Fatima Sana top-scored with 30 off 20 balls. Pakistani bowlers took 3 wickets each.
-
-🟩
-
-The Sri Lankan team began 31 runs in the first night in the first night, commenced the Twenty20 Women's World Cup.
-
-Sri Lanka were able to score only 85 runs for the loss of 9 wickets in the 20 overs.
-
-Chamari Atapattu began in Sri Lanka with Simiti Gunaratne Sri Lanka, while Chamari was bowled out for the first wicket.
-
-Sri Lanka mark on the event of 13 (12.4), the Sri Lanka Scorecard was recorded as five wickets for 52 runs.
-
-Nilakshi de Silva scored 22 runs and the opening batsman Varima Gunaratne scored 20 runs.
-
-No other batsman could not carry the innings of Sri Lanka in the innings of Sri Lanka.
-
-She was raped from Pakistan for Pakistan (3/17), Nasra joints (2/15) and the Oimma Southern (2/17) bowling.
-
-Batting first Pakistan women scored 116 runs in the 20 overs.
-
-Leader Fatima Sana, who lifted Pakistan innings, hit 30 balls with 30 balls.
-
-Her innings were placed in 20 balls and a six-four fours and six.
-
-In addition to her, Nadara scored 23 runs.
-
-...
-
-[Data](articles/3e457082.json)
-
-[Extended Data](ext_articles/3e457082.ext.json)
-
----
-
-### No Sri Lankans seriously affected by situation in Lebanon - MFA
-
-*2024-10-03 22:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102427/no-sri-lankans-seriously-affected-by-situation-in-lebanon-mfa) · `en`
-
-The Ministry of Foreign Affairs says that no Sri Lankans have been seriously affected by the situation so far in Lebanon, which it described as volatile and constantly evolving.
-
-Issuing an announcement on the safety of Sri Lankans in Lebanon on Thursday (3), it said the Sri Lankan Embassy in Beirut is maintaining constant contact with Sri Lankan Associations and individual Sri Lankans registered with the embassy.
-
-Ambassador Kapila Jayaweera and officers of the Sri Lanka Embassy are providing assistance to Sri Lankans as required, it said.
-
-“Apart from a few Sri Lankans who have been stranded and for whom the Embassy has arranged shelter, no Sri Lankans have been seriously affected by the situation so far,” the ministry said.
-
-On September 30, the Ministry of Foreign Affairs issued a travel advisory instructing Sri Lankan nationals not to travel to Lebanon and Syria until further notice due to the current volatile situation in the region.
-
-...
-
-[Data](articles/2e17f8a5.json)
-
-[Extended Data](ext_articles/2e17f8a5.ext.json)
 
 ---

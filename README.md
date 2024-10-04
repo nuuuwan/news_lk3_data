@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 14:38:44**
+As of **2024-10-04 15:10:11**
 
 ## Newspaper Stats
 
-*Scraped **47,765** Articles*
+*Scraped **47,769** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 472
-colombotelegraphcom | 473
+colombotelegraphcom | 474
 islandlk | 2,810
 economynextcom | 2,922
 dailyftlk | 3,222
 adalk | 4,419
 dailymirrorlk | 4,733
-adaderanalk | 5,616
+adaderanalk | 5,619
 tamilmirrorlk | 6,443
 virakesarilk | 7,642
 adaderanasinhalalk | 8,256
@@ -26,11 +26,55 @@ adaderanasinhalalk | 8,256
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,765 (100.0%) of 47,765 articles have been extended.
+47,769 (100.0%) of 47,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Elderly couple found murdered inside house in Ahangama
+
+*2024-10-04 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102444/elderly-couple-found-murdered-inside-house-in-ahangama) · `en`
+
+An elderly couple has been found murdered with a sharp weapon inside their house in Welhengoda, in the Ahangama police division, early this morning (04).
+
+The victims, identified as a 67-year-old man and a 63-year-old woman, were discovered lying in pools of their own blood with throats slit after police received an emergency alert reporting an individual was found on the ground of the house with severe injuries.
+
+Authorities have yet to determine the motive behind the double homicide, and no suspects have been identified so far.
+
+A magisterial inquest is scheduled to be conducted on the bodies, the police said.
+
+◼️
+
+[Data](articles/8b48e640.json)
+
+[Extended Data](ext_articles/8b48e640.ext.json)
+
+---
+
+### HC permits to amend witness list in case against Diana Gamage
+
+*2024-10-04 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102443/hc-permits-to-amend-witness-list-in-case-against-diana-gamage) · `en`
+
+The case filed against the former State Minister Diana Gamage over allegedly obtaining a passport by producing formed documents was taken up for hearing before the Colombo High Court today (04).
+
+During the proceedings, the state counsel informed the court that it has been decided to add an additional witness to the case and therefore, requested permission to amend the relevant witness list.
+
+The High Court judge, who accepted the request, allowed the relevant witness list to be amended.
+
+President’s Counsel Shanaka Ranasinghe who appeared for the defense stated before the court that he wanted to examine the original birth certificate of the defendant which has been submitted as evidence to the court before the trial began.
+
+Accordingly, the judge also ordered the Director of the Criminal Investigation Department (CID) to ensure that the relevant document be submitted to the court within a week.
+
+Later, the case was ordered to be called on November 4 for pre-trial conference.
+
+...
+
+[Data](articles/47faeb9d.json)
+
+[Extended Data](ext_articles/47faeb9d.ext.json)
+
+---
 
 ### Notice on Registration of Workers in Lebanon
 
@@ -57,6 +101,26 @@ If workers are hired for Lebanon, registration is not carried out at the moment.
 [Data](articles/f37dc6de.json)
 
 [Extended Data](ext_articles/f37dc6de.ext.json)
+
+---
+
+### Israeli airstrikes rock southern suburbs of Beirut and cut off a key crossing into Syria
+
+*2024-10-04 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102442/israeli-airstrikes-rock-southern-suburbs-of-beirut-and-cut-off-a-key-crossing-into-syria) · `en`
+
+Israel carried out a series of massive airstrikes overnight in southern suburbs of Beirut and another that cut off the main border crossing between Lebanon and Syria.
+
+The new wave of strikes came after Israel warned people to evacuate communities in southern Lebanon that are outside a United Nations-declared buffer zone, as the yearlong conflict between Israel and the Lebanese militant group Hezbollah escalates.
+
+Israel launched a ground incursion into Lebanon on Tuesday and its forces have been clashing with Hezbollah militants in a narrow strip along the border. A series of attacks before the incursion killed some of the group’s key members, including longtime leader Hassan Nasrallah.
+
+Iran’s Foreign Minister Abbas Araghchi arrived on Friday in Beirut, where he was expected to discuss the war between Israel and Hezbollah with Lebanese officials.
+
+...
+
+[Data](articles/56e05af4.json)
+
+[Extended Data](ext_articles/56e05af4.ext.json)
 
 ---
 
@@ -1095,6 +1159,20 @@ Meanwhile, Children with Hand, Foot and Mouth Disease are also reported in these
 [Data](articles/46e912fa.json)
 
 [Extended Data](ext_articles/46e912fa.ext.json)
+
+---
+
+### AKD Riding The Tiger
+
+*2024-10-04 08:07:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akd-riding-the-tiger/) · `en`
+
+Anura Kumara Dissanayake, candidate of the Janatha Vimukthi Peramuna (JVP) and National Peoples Power (NPP) front, has been elected as President of Sri Lanka in the election held on September 24. His election is a proof that the Aragalaya, the spontaneous mass protests in May 2022 was no flash in the pan. Anura’s campaign focused on the youth, who had rallied together during Aragalaya protests and successfully converted them into votes. However, Anura does not seem to have understood the younger generations’ discontent against the existing political class and systems that generated Aragalaya protests. His speeches in the run up to the election focused on providing corruption free administration. His detailed election manifesto titled “A Prosperous Nation, A Beautiful Life” gives a summary of plans for the development of various sectors, including engineering, IT, the economy, social issues, education, and health. But speaks of no systemic changes.
+
+...
+
+[Data](articles/9ac3fd2c.json)
+
+[Extended Data](ext_articles/9ac3fd2c.ext.json)
 
 ---
 
@@ -2187,111 +2265,5 @@ Madhikatna police said that the man was taken to the Mettikattanna Divisional Ho
 [Data](articles/db50a808.json)
 
 [Extended Data](ext_articles/db50a808.ext.json)
-
----
-
-### Korea Exim Bank Compliance to provide financial assistance to Sri Lanka's development projects
-
-*2024-10-03 21:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/195429) · `ta`
-
-Korean Exim Bank resumes funding Sri Lanka's development projects after economic downturn. Agreement signed at Presidential Office, officials present. Future plans for concessionary assistance announced.
-
-🟩
-
-Korean Exim Bank has agreed to fund the Sri Lankan government's development projects.
-
-Officials of Korea Exim Bank issued the agreement on Thursday (03) at the Presidential Office at the Presidential Secretariat.
-
-As Sri Lanka's economy fell, Korean Exim Bank's funding for Sri Lanka's development projects was suspended on 2022-2024. Representatives of Korean Exim Bank informed the president's secretary that the future will take steps to provide concessionary assistance to re -implement those development projects.
-
-Korean Exim Bank representatives have urged the Sri Lankan government to provide financial assistance to the Government of Sri Lanka in the future.
-
-Korean Exim Bank Director Wonsukh Ha, Deputy Director Hanui Han and Project Manager Nalin Jayatunga were also present at the meeting.
-
-◼️
-
-[Data](articles/1f5514f1.json)
-
-[Extended Data](ext_articles/1f5514f1.ext.json)
-
----
-
-### The UN. Meeting with the Association of Organization
-
-*2024-10-03 21:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/195428) · `ta`
-
-UN Coordinator meets SL President: Discusses cooperation on development, poverty reduction, and peacebuilding efforts.
-
-🟩
-
-United Nations Coordinator Mark Anduru France met with President Anurakumara Dissanayake on Thursday (03) at the Presidential Office.
-
-The United Nations Resident Coordinator, President Anura Kumara Dissanayake presented the greeting of the UN Secretary -General Antonia Gutaras.
-
-In the last presidential election, President Anura Kumara Dissanayake congratulated the president's election manifesto.
-
-Pointing out that the people's expectations are high, the UN Assistant promised that the UN would cooperate with Sri Lanka's program and poverty alleviation efforts with the International Monetary Fund.
-
-Mark Andrew praised the president's election manifesto and promised to provide UN technical and financial assistance to those initiatives.
-
-Similarly, the resident of the new government for national peace in the community, the resident of the resident, also congratulated the president's commitment to build confidence in each party.
-
-...
-
-[Data](articles/2eb3a602.json)
-
-[Extended Data](ext_articles/2eb3a602.ext.json)
-
----
-
-### Ranil party responds to the Minister's Vijitha
-
-*2024-10-03 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201819) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: Former President Ranil Wickremesinghe denies involvement in Central Bank bond scandal. Minister Vijitha Herath claims no immunity for Wickremesinghe. Wickremesinghe's media director disputes claim. Presidential Commission investigated bond deals; Wickremesinghe denies connection.
-
-🟩
-
-The Minister of Cabinet spokesman Vijitha Herath recently made a statement that former President Ranil Wickremesinghe's presidential minute was carried out by the presidential intermology.
-
-Former Presidential Media Director General Dhanushka Ramanayake has issued a statement that the statement is incorrect.
-
-The Commission states that the Commission appointed to look into the bond accusation, he has been released by the Commission to look into the matter.
-
-Minister Vijitha Herath made this statement regarding the former President of Ranil Wickremesinghe at the Central Bank bonds last Tuesday.
-
-"Mr. Ranil Wickremesinghe is not the president. So there is no immunity. Now we have the authority to call him in court. Let's see, let's go.
-
-Responding to the next Presidential Media Director General of Ranil Wickremesinghe, responded, Dhanushka Ramanayake has issued a press release today.
-
-...
-
-[Data](articles/4c6683b2.json)
-
-[Extended Data](ext_articles/4c6683b2.ext.json)
-
----
-
-### A woman arrested with cigarettes made abroad in Mannar Basalai area
-
-*2024-10-03 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195427) · `ta`
-
-Foreign cigarettes seized, woman arrested in Mannar Basalai. STF recovers cigarettes based on Navy Intelligence tip.
-
-🟩
-
-A batch of foreign cigarettes has been seized from a shop in Mannar Basal area on Thursday evening and a woman has been arrested.
-
-Cigarettes have been recovered during the Mannar Special Task Force (STF), based on information received by the Navy Intelligence Unit.
-
-◼️
-
-[Data](articles/f11336f8.json)
-
-[Extended Data](ext_articles/f11336f8.ext.json)
 
 ---

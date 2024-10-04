@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 12:13:44**
+As of **2024-10-04 12:24:49**
 
 ## Newspaper Stats
 
-*Scraped **47,742** Articles*
+*Scraped **47,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,613
 tamilmirrorlk | 6,436
 virakesarilk | 7,639
-adaderanasinhalalk | 8,251
+adaderanasinhalalk | 8,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,742 (100.0%) of 47,742 articles have been extended.
+47,743 (100.0%) of 47,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Diana summoned the case against Gamage
+
+*2024-10-04 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201831) · `si`
+
+Diana Gamage case: Foreign passport fraud accusation. Additional witness added. Judge allows revising evidence list. Defendant's file inspection ordered. Case rescheduled for November 4. Indictment filed on December 9, 2004.
+
+🟩
+
+The case has been taken against Mrs. Diana Gamage, who is accused of obtaining a culprit of a foreign passport.
+
+The State Counseling before the courts, the Evidence of the case has been decided to add another witness to the list, so he requested to allow the list of relevant evidence.
+
+The High Court Judge accepted the request was allowed to revise the list of evidence.
+
+President's Counsel Shanaka Ranasinghe appearing for the accused as a case in the case as a case in the case, the original file of the defendant named in the case has been said to be inspected before the trial.
+
+The judge ordered the director of the Criminal Investigation Department to take the file to the court within a week.
+
+The previous case was also taken to be called on November 4.
+
+On December 09, 2004, the Attorney General has filed the indictment of obtaining a foreign traffic with a foreign traffic with a national identity card in Panadura and Colombo.
+
+◼️
+
+[Data](articles/b485b156.json)
+
+[Extended Data](ext_articles/b485b156.ext.json)
+
+---
 
 ### Nominations for general election begins
 
@@ -2315,35 +2345,5 @@ Deciding this, there are many contradictions among the national parties today. T
 [Data](articles/691c5b3f.json)
 
 [Extended Data](ext_articles/691c5b3f.ext.json)
-
----
-
-### Parents demands that Nadeesha's body was deceased in Jordan
-
-*2024-10-03 18:23:57* · [`adalk`](https://www.ada.lk/breaking_news/ජෝර්දානයේදී-මියගිය-නදීශාගේ-දේහය-ගෙන්වන්නැයි-දෙමාපියෝ-ඉල්ලති/11-412299) · `si`
-
-Sri Lankan parents demand return of daughter's body from Jordan. 25-year-old Nadeeshani Dissanayake died in Jordan while working in a garment factory. Parents claim she was ill but died on September 29. Foreign Employment Institute informed.
-
-🟩
-
-Parents, a resident of Wathiyawela, Kosgoda, have called on the authorities to be brought to Sri Lanka while working in a garment factory in Jordan.
-
-The body of the 25-year-old Igala Dissanayake, the Twenty-East Igalaani Dissanayake, who is in Kosgoda Wathuwavel, is the body of Nadeeshani Dissanayake.
-
-Nadeeshani 2023, Kosgoda to work in a garment factory in Kosgoda to work on April 10, was located in a garment factory in Wattane on April 10.
-
-They say she has gone to work in a garment factory in Jordan after registration of foreign employment agency.
-
-Nadeeshani has gone abroad to fulfill its homework and complete the construction of the construction work.
-
-Nadeeshani, who went to Geordan to Jordan and said that he had already used the necessary steps to Sri Lanka as he was ill.
-
-But on September 29, she served in the Nadeeshani's replication factory, Nadeeshani's replication, said Nadeeshani died.
-
-...
-
-[Data](articles/6497bef2.json)
-
-[Extended Data](ext_articles/6497bef2.ext.json)
 
 ---

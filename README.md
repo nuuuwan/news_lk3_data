@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 00:38:32**
+As of **2024-10-05 00:56:10**
 
 ## Newspaper Stats
 
-*Scraped **47,847** Articles*
+*Scraped **47,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 473
 colombotelegraphcom | 474
 islandlk | 2,813
 economynextcom | 2,935
-dailyftlk | 3,222
+dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
 adaderanalk | 5,631
-tamilmirrorlk | 6,448
+tamilmirrorlk | 6,449
 virakesarilk | 7,658
 adaderanasinhalalk | 8,278
 
@@ -26,11 +26,237 @@ adaderanasinhalalk | 8,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,847 (100.0%) of 47,847 articles have been extended.
+47,856 (100.0%) of 47,861 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-10-05 (Saturday)
+
+### Women request PM Harini to curb OGBV
+
+*2024-10-05 00:31:30* · [`dailyftlk`](https://www.ft.lk/news/Women-request-PM-Harini-to-curb-OGBV/56-767589) · `en`
+
+A peaceful protest was held on Thursday in front of the Prime Minister’s Office on Flower Road, Colombo, calling for swift legal action against online gender-based violence (OGBV), particularly targeting women politicians, including former President Chandrika Bandaranaike Kumaratunga.
+
+Organised by a group of women activists from both the political sphere and civil organisations, the protest demanded the intervention of Prime Minister Dr. Harini Amarasuriya, who is also the Minister of Women, Children, and Youth Affairs.
+
+The protest followed a series of offensive comments made by popular YouTube figure Sudaththa Thilaksiri, who had recently used derogatory language against former President Kumaratunga on multiple occasions. The activists carried placards and raised their voices against online hate speech directed at women. They stressed that no one should be permitted to insult women, especially public figures, in such a degrading manner.
+
+...
+
+[Data](articles/1875c0e1.json)
+
+[Extended Data](ext_articles/1875c0e1.ext.json)
+
+---
+
+### Lankan envoy in Warsaw meets Sri Lanka Community Association in Poland
+
+*2024-10-05 00:30:28* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Warsaw-meets-Sri-Lanka-Community-Association-in-Poland/56-767588) · `en`
+
+Ambassador of Sri Lanka to Poland Priyangika Dharmasena met with the Executive Committee of the Sri Lanka Community Association in Poland (SLAPL) on 27 September 2024 at the Embassy.
+
+During the discussions, the Ambassador highlighted the importance of closer interaction between the Embassy and the Sri Lankan community in Poland which would be beneficial for both sides in addressing matters related to the welfare of the community, and also for the furtherance of goals envisaged by the Government. Furthermore, she pointed out that registering with the Embassy would facilitate easy communication, especially in times of emergency such as natural disasters, and with regard to special events held by the Embassy as well. In addition, the meeting fostered discussion on consular matters.
+
+The Ambassador also highlighted the initiatives taken by the Office of the Overseas Sri Lankans Affairs (OOSLA), to reach out to Sri Lankans abroad, through Sri Lankan missions.
+
+...
+
+[Data](articles/adf2ad43.json)
+
+[Extended Data](ext_articles/adf2ad43.ext.json)
+
+---
+
+### UN Resident Rep. calls on President Anura Kumara Dissanayake
+
+*2024-10-05 00:30:20* · [`dailyftlk`](https://www.ft.lk/news/UN-Resident-Rep-calls-on-President-Anura-Kumara-Dissanayake/56-767587) · `en`
+
+The United Nations (UN) Resident Coordinator in Sri Lanka Marc-André Franche yesterday met with President Anura Kumara Dissanayake.
+
+During the meeting, the UN Resident Coordinator conveyed the warm greetings of UN Secretary-General António Guterres to President Dissanayake.
+
+Marc-André Franche praised the President’s manifesto and commended the President’s ethical nature of the political campaign. The Resident Coordinator acknowledged that the coming period will be challenging as public expectations are high, but assured the UN’s support for Sri Lanka’s IMF program and the Government’s poverty eradication efforts.
+
+The Coordinator also lauded the anti-corruption initiative outlined in the President Anura Kumara Dissanayake’s manifesto, noting that it offers hope for a new beginning. He assured technical and financial support from the UN to aid in these efforts.
+
+...
+
+[Data](articles/5691ed81.json)
+
+[Extended Data](ext_articles/5691ed81.ext.json)
+
+---
+
+### Bandula decides not to contest in General election
+
+*2024-10-05 00:29:42* · [`dailyftlk`](https://www.ft.lk/news/Bandula-decides-not-to-contest-in-General-election/56-767586) · `en`
+
+Former Cabinet Spokesman and Minister Bandula Gunawardena yesterday said that he will not contest the upcoming Parliamentary Election and instead, is expecting to get involved in non-political activities such as producing a movie.
+
+The former Parliamentarian said that during his 20-year political career, he had served as a Parliamentarian representing the Homagama Division, and has also served in the capacity of Cabinet Spokesman, State Minister and Minister.
+
+Stating that through these positions he has served the public to the best of his capacity, Gunawardena said he is also content for having done his best for the Homagama Division as well.
+
+Alongside his interest in producing a movie, Gunawardena said he also intends to pursue a Doctoral study in the coming years, due to which he will not contest the General Election.
+
+◼️
+
+[Data](articles/8c5bda19.json)
+
+[Extended Data](ext_articles/8c5bda19.ext.json)
+
+---
+
+### Pathfinder Foundation presents Sinhala translation of ‘The India Way’ to India’s External Affairs Minister
+
+*2024-10-05 00:28:47* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-presents-Sinhala-translation-of-The-India-Way-to-India-s-External-Affairs-Minister/56-767585) · `en`
+
+The Pathfinder Foundation yesterday presented the Sinhala translation of Dr. S. Jaishankar’s seminal work, The India Way: Strategies for an Uncertain World, (ඉන්දීය මාවත: අවිනිශ්චිත ලෝකයක උපාය මාර්ග) to the visiting Indian External Affairs Minister during a ceremony in Colombo.
+
+The presentation was attended by Pathfinder Foundation Founder Milinda Moragoda, High Commissioner of India in Sri Lanka Santhosh Jha, Chairman PF Bernard Goonetilleke, and Consultant (Communications) PF Gamini Sarath Godakanda. The translation, undertaken by Ajith Perakum Jayasinghe, is part of the Foundation’s broader initiative to make significant global policy discussions accessible to the Sri Lankan audience, thereby promoting a deeper understanding of India’s strategic perspectives.
+
+...
+
+[Data](articles/f65d60b8.json)
+
+[Extended Data](ext_articles/f65d60b8.ext.json)
+
+---
+
+### Security Force chiefs meet with president
+
+*2024-10-05 00:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-படை-பிரதானிகள்-ஜனாதிபதியுடன்-சந்திப்பு/175-344936) · `ta`
+
+Security Force chiefs meet newly appointed President Anura Kumara Dissanayake at Presidential Office. Attendees include Chief Minister Shavendra Silva, Defense Chief, Military Commander, Air Force Commander, and Navy Commander.
+
+🟩
+
+Following the appointment of the new President, the chiefs of the country's security forces formally met with President Anura Kumara Dissanayake at the Presidential Office yesterday.
+
+Accordingly, Chief Minister Shavendra Silva, Chief of Defense, Military Commander Lieutenant General Vikki Liyanage, Air Force Commander Air Marshall Udayani Rajapaksa and Navy Commander Vice Admiral Priyantha Perera met with the President.
+
+◼️
+
+[Data](articles/52eb6920.json)
+
+[Extended Data](ext_articles/52eb6920.ext.json)
+
+---
+
 ### 2024-10-04 (Friday)
+
+### SriLankan Airlines and SLCB showcase Sri Lanka to top South Indian journalists
+
+*2024-10-04 23:49:54* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-and-SLCB-showcase-Sri-Lanka-to-top-South-Indian-journalists/34-767576) · `en`
+
+SriLankan Airlines, together with its leisure arm SriLankan Holidays and the Sri Lanka Convention Bureau (SLCB), recently hosted a group of senior journalists from some of South India’s most prominent media outlets: Deccan Chronicle, Tourism India, Malayala Manorama, Sun Group TV, Mathrubhumi Newspaper, DT Next, and Provoke Magazine.
+
+The week-long adventure offered the journalists an immersive experience of Sri Lanka’s stunning coastal belt, from the shores of Negombo to Galle, with a shopping stop in Colombo. The group embarked on an exciting safari through Udawalawe National Park, strolled through the winding, historic fortifications of Galle, and visited sacred Kovils and other iconic landmarks during their tour.
+
+...
+
+[Data](articles/190d3adc.json)
+
+[Extended Data](ext_articles/190d3adc.ext.json)
+
+---
+
+### ComBank ranked no. 2 among Sri Lanka’s Top 100 listed companies
+
+*2024-10-04 23:48:36* · [`dailyftlk`](https://www.ft.lk/business/ComBank-ranked-no-2-among-Sri-Lanka-s-Top-100-listed-companies/34-767575) · `en`
+
+The Commercial Bank of Ceylon has been ranked second in the prestigious ‘LMD 100’ for 2023-24, moving up five places in the ranking the magazine calls ‘Sri Lanka’s Roll of Corporate Honour.’
+
+With this latest LMD ranking, Commercial Bank has not only retained its status as the highest-ranked bank in the LMD 100, but has also overtaken some of the country’s biggest diversified business groups in terms of turnover, on which LMD’s primary ranking is based.Commercial Bank also has the distinction of being in the Top 10 of the LMD ranking every year since it was first published, 31 years ago.
+
+...
+
+[Data](articles/1b444362.json)
+
+[Extended Data](ext_articles/1b444362.ext.json)
+
+---
+
+### Qatar-Sri Lanka Business Council and National Chamber of Exporters of Sri Lanka sign Memorandum of Understanding
+
+*2024-10-04 23:48:22* · [`dailyftlk`](https://www.ft.lk/business/Qatar-Sri-Lanka-Business-Council-and-National-Chamber-of-Exporters-of-Sri-Lanka-sign-Memorandum-of-Understanding/34-767574) · `en`
+
+The Qatar-Sri Lanka Business Council (QSBC) signed a Memorandum of Understanding (MoU) with the National Chamber of Exporters (NCE) of Sri Lanka with the aim of fostering stronger business ties and enhancing trade and investment opportunities between Qatar and Sri Lanka.
+
+At the launching ceremony of the QSBC, Sri Lankan Ambassador to Qatar Mohamed Mafaz Mohideen emphasised the importance of signing MoUs and fostering mutual agreements between business chambers and associations in both countries to strengthen bilateral business ties. He noted that this MoU marks an important milestone in this initiative.
+
+...
+
+[Data](articles/24c3b4d5.json)
+
+[Extended Data](ext_articles/24c3b4d5.ext.json)
+
+---
+
+### ‘National lists’ of political parties for general elections in Sri Lanka
+
+*2024-10-04 23:41:19* · [`dailyftlk`](https://www.ft.lk/columns/National-lists-of-political-parties-for-general-elections-in-Sri-Lanka/4-767568) · `en`
+
+In this era where a system change in the political culture in Sri Lanka is dawning it will be a welcome move if all political parties seriously consider using the national list for the purpose it was intended. We hope that the upcoming elections will result in a group of eminent people with impeccable credentials being nominated on all national lists across the political spectrum in the country
+
+...
+
+[Data](articles/9cab8ff7.json)
+
+---
+
+### Role of research providers for building climate-smart and resilient food systems
+
+*2024-10-04 23:38:58* · [`dailyftlk`](https://www.ft.lk/columns/Role-of-research-providers-for-building-climate-smart-and-resilient-food-systems/4-767567) · `en`
+
+There is a need to transform food systems in the face of the climate crisis and make more sustainable use of natural ecosystems, resources, and biodiversity. As outlined by the Intergovernmental Panel on Climate Change (IPCC) with high confidence in its latest assessment report (AR6), “climate change impacts are stressing agriculture, forestry, fisheries, and aquaculture, increasingly hindering efforts to meet human needs,” including negative impacts on food security, livelihoods, human health, and economic growth. Climate-related risks to food systems are an especially severe threat to tropical and subtropical developing countries with high employment in relevant sectors, including Sri Lanka.
+
+...
+
+[Data](articles/b5672bb5.json)
+
+---
+
+### Letter to the President: Clarion call for fairness
+
+*2024-10-04 23:37:08* · [`dailyftlk`](https://www.ft.lk/columns/Letter-to-the-President-Clarion-call-for-fairness/4-767566) · `en`
+
+For an extended period, I have asserted that I was an ‘accidental’ Sri Lankan by birth. Now, I express a measured optimism in my hope that you can serve as a President for all, not by deepening Sri Lanka’s past racial divisions, but instead by focusing on strengthening the present bonds between all Sri Lankans. Despite our backgrounds, there is a basic universal truth: we always have more in common than different across all races, religions, and political ideologies
+
+A fair, stable and prosperous Sri Lanka must be a nation that is relentless in its commitment to reconciliation, addressing current grievances of minorities and past injustices while ensuring that no community thrives at the expense of another. Because true peace is built on the foundation of fairness and dignity for all
+
+...
+
+[Data](articles/3dfd54ab.json)
+
+---
+
+### Old political parties back to their old tricks
+
+*2024-10-04 23:34:54* · [`dailyftlk`](https://www.ft.lk/columns/Old-political-parties-back-to-their-old-tricks/4-767565) · `en`
+
+Instead of dwelling on the past, they should focus on presenting their manifestos for the upcoming election – Pic by Shehan Gunasekara
+
+I am appalled to see how all the old political parties are scrambling to form alliances against the NPP for the upcoming general election. These are the same corrupt figures who took a different stance during the Presidential election, and now they’re back to their old tricks. Meanwhile, the NPP is showing wisdom by steering clear of these alliances, positioning themselves to secure over 113 seats in Parliament.
+
+It’s time for the other party leaders to walk the talk and stop playing blame games. Instead of dwelling on the past, they should focus on presenting their manifestos for the upcoming election and offer real solutions to the public. It’s clear that the people are well-informed and no longer fooled by these antics.
+
+...
+
+[Data](articles/79fdf480.json)
+
+---
+
+### Ranil Wickremesinghe: A courageous gentleman in times of crisis
+
+*2024-10-04 23:32:26* · [`dailyftlk`](https://www.ft.lk/opinion/Ranil-Wickremesinghe-A-courageous-gentleman-in-times-of-crisis/14-767564) · `en`
+
+◼️
+
+[Data](articles/5c7235b5.json)
+
+---
 
 ### Haitian gang kills at least 70 people, including 3 infants, UN says
 
@@ -2077,367 +2303,5 @@ President Anura Kumara Dissanayake's intention is to reducing people's loads whi
 [Data](articles/81b93b45.json)
 
 [Extended Data](ext_articles/81b93b45.ext.json)
-
----
-
-### The woman who caused the former tension in the house of Maithri
-
-*2024-10-04 12:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வீட்டிற்கு-முன்னாள்-பதற்றத்தை-ஏற்படுத்திய-பெண்/175-344915) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Woman causes tension at Maithri's residence. Harsh words directed at former Prez Maithripala Sirisena and his brother Dudley. White car involved. Complaint filed. Investigations ongoing.
-
-🟩
-
-Former President Maithripala Sirisena's official residence in the Cinnamon Gardens in Colombo, Cinnamon Gardens, a white car in a white car, has gone away after a harsh word.
-
-A police officer in charge of the area has said that a police officer who was on duty at the official residence of former President Maithripala Sirisena has lodged a complaint.
-
-The number of the white car that has arrived at the woman is mentioned. In addition, the police officer said that the woman had made a harsh word for former President Maithripala Sirisena's brother and businessman, Dudley Sirisena.
-
-The number of the car that has arrived has been sent to the Motor Transport Department and further investigations are being carried out by the Cinnamon Police.. Remble
-
-◼️
-
-[Data](articles/582d74d6.json)
-
-[Extended Data](ext_articles/582d74d6.ext.json)
-
----
-
-### Maithri house
-
-*2024-10-04 12:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வீட்டின்-முன்-பெண்-ரகளை/175-344915) · `ta`
-
-Former President Maithripala Sirisena's official residence in Colombo's Cinnamon Gardens has reported an incident involving a woman in a white car. She allegedly used harsh words against the former president and his brother, businessman Dudley Sirisena. The police have filed a complaint and are investigating further.
-
-🟩
-
-Former President Maithripala Sirisena's official residence in the Cinnamon Gardens in Colombo, Cinnamon Gardens, has gone from there after a harsh word for a woman who was in a white car.
-
-A police officer in charge of the area has said that a police officer who was on duty at the official residence of former President Maithripala Sirisena has lodged a complaint.
-
-The number of the white car that has arrived at the woman is mentioned. In addition, the police officer said that the woman had made a harsh word for former President Maithripala Sirisena's brother and businessman Dudley Sirisena.
-
-The number of the car that has arrived has been sent to the Motor Transport Department and further investigations are being carried out by the Cinnamon Police.. Remble
-
-◼️
-
-[Data](articles/8df6408f.json)
-
-[Extended Data](ext_articles/8df6408f.ext.json)
-
----
-
-### The woman who made tension in front of Maithri's house
-
-*2024-10-04 12:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வீட்டிற்கு-முன்பாக-பதற்றத்தை-ஏற்படுத்திய-பெண்/175-344915) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former President Maithripala Sirisena's home in Colombo faced tension when a woman in a white car made harsh remarks about him and his brother. A police officer filed a complaint, and the car's number plate was reported. Investigations are ongoing.
-
-🟩
-
-Former President Maithripala Sirisena's official residence in the Cinnamon Gardens in Colombo, Cinnamon Gardens, has gone from there after a harsh word for a woman who was in a white car.
-
-A police officer in charge of the area has said that a police officer who was on duty at the official residence of former President Maithripala Sirisena has lodged a complaint.
-
-The number of the white car that has arrived at the woman is mentioned. In addition, the police officer said that the woman had made a harsh word for former President Maithripala Sirisena's brother and businessman Dudley Sirisena.
-
-The number of the car that has arrived has been sent to the Motor Transport Department and further investigations are being carried out by the Cinnamon Police.. Remble
-
-◼️
-
-[Data](articles/c43bce19.json)
-
-[Extended Data](ext_articles/c43bce19.ext.json)
-
----
-
-### Jaishankar arrived
-
-*2024-10-04 12:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வந்தடைந்தார்-ஜெய்சங்கர்/175-344914) · `ta`
-
-Dr. Subramaniam Jaishankar, India's Foreign Minister, visited Sri Lanka. He greeted Sri Lanka's State Secretary Aruni Wijewardena at Katunayake International Airport on Wednesday.
-
-🟩
-
-Indian External Affairs Minister Dr. Subramaniam Jaishankar, who arrived in Sri Lanka on an official visit to Sri Lanka, welcomed Sri Lanka's Secretary of State Aruni Wijewardena at the Katunayake International Airport on Wednesday morning.
-
-◼️
-
-[Data](articles/c841dd1f.json)
-
-[Extended Data](ext_articles/c841dd1f.ext.json)
-
----
-
-### Asia-Pacific women more likely to be in care employment: UN report
-
-*2024-10-04 12:30:00* · [`economynextcom`](https://economynext.com/asia-pacific-women-more-likely-to-be-in-care-employment-un-report-182160/) · `en`
-
-ECONOMYNEXT – In the Asia Pacific, including Sri Lanka, women are more likely to be in care employment compared to men, a UN Women’s latest report finds.
-
-“For some this is a choice; for others it is not,” UN Women said.
-
-Ageing populations are likely to put pressure on fiscal systems with rising demands for costly care services, such as long-term care, the report found.
-
-“Population projections for the Asia-Pacific region anticipate an important demographic shift with significant implications for societies and economies in the region,” the report states.
-
-“The low fertility rates observed in several countries coupled with low mortality rates have raised questions – especially in fast-ageing societies, such as in Eastern Asia – about who will provide long-term care for older
-
-people, a traditional role of women and girls within families.
-
-...
-
-[Data](articles/f2955dd4.json)
-
-[Extended Data](ext_articles/f2955dd4.ext.json)
-
----
-
-### 2024 General Election: Accepting of nominations begins
-
-*2024-10-04 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102437/2024-general-election-accepting-of-nominations-begins) · `en`
-
-The accepting of nominations for the 2024 General Election commenced this morning (04).
-
-The activities related to the accepting of nominations commenced at the district secretariats in 22 electoral districts today.
-
-The nomination period is expected to conclude at 12 noon on October 11, 2024.
-
-On September 24, President Anura Kumara Dissanayake issued an Extraordinary Gazette notification fixing November 14, 2024 as the date for the election of the new Members of Parliament.
-
-The Gazette notification further specified the period beginning on October 04 and ending at 12 noon October 11, 2024 as the nomination period, during which nomination papers shall be received by the Returning Officers.
-
-The Parliament of Sri Lanka comprises 225 members, with 196 elected from 22 electoral districts. The remaining 29 members are appointed through the national list, based on the proportion of votes secured by each political party or independent group in the general election.
-
-◼️
-
-[Data](articles/b1c27063.json)
-
-[Extended Data](ext_articles/b1c27063.ext.json)
-
----
-
-### Re -discussion between the President and the IMF
-
-*2024-10-04 12:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-IMFக்கு-இடையில்-மீண்டும்-கலந்துரையாடல்/175-344912) · `ta`
-
-Meeting between President Anura Kumara Dissanayake and IMF officials begins. Focuses on implementing IMF program and reducing citizens' burdens.
-
-🟩
-
-A meeting between President Anura Kumara Dissanayake and the International Monetary Fund began today (04) at the Presidential Office to ensure the president's commitment to implement the IMF program.
-
-Krishna Srinivasan, Director of the Asia Pacific Department of the International Monetary Fund (Krishna Srinivasan). The Senior delegation of the International Monetary Fund, including the Peter Breuer, and the Sri Lankan representatives of the IMF negotiations were also present at the meeting.
-
-President Anura Kumara Dissanayake's intention is to reducing people's loads while reaching the goals of the International Monetary Fund.
-
-◼️
-
-[Data](articles/866982be.json)
-
-[Extended Data](ext_articles/866982be.ext.json)
-
----
-
-### Diana summoned the case against Gamage
-
-*2024-10-04 12:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201831) · `si`
-
-Diana Gamage case: Foreign passport fraud accusation. Additional witness added. Judge allows revising evidence list. Defendant's file inspection ordered. Case rescheduled for November 4. Indictment filed on December 9, 2004.
-
-🟩
-
-The case has been taken against Mrs. Diana Gamage, who is accused of obtaining a culprit of a foreign passport.
-
-The State Counseling before the courts, the Evidence of the case has been decided to add another witness to the list, so he requested to allow the list of relevant evidence.
-
-The High Court Judge accepted the request was allowed to revise the list of evidence.
-
-President's Counsel Shanaka Ranasinghe appearing for the accused as a case in the case as a case in the case, the original file of the defendant named in the case has been said to be inspected before the trial.
-
-The judge ordered the director of the Criminal Investigation Department to take the file to the court within a week.
-
-The previous case was also taken to be called on November 4.
-
-On December 09, 2004, the Attorney General has filed the indictment of obtaining a foreign traffic with a foreign traffic with a national identity card in Panadura and Colombo.
-
-◼️
-
-[Data](articles/b485b156.json)
-
-[Extended Data](ext_articles/b485b156.ext.json)
-
----
-
-### Nominations for general election begins
-
-*2024-10-04 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201830) · `si`
-
-General election nominations begin today. 22 electoral districts open. Nominations close Oct 11 at noon. No demonstrations allowed after deadline.
-
-🟩
-
-The acceptance of nominations regarding the general election was held today (04).
-
-The activities began at twenty two electorates.
-
-Sri Lanka's parliament consists of 225 members, of which 196 of them are electronic 22 electoral districts.
-
-The 29 members are selected from the National List, according to the percentage of votes obtained by each political parties and independent groups.
-
-The acceptance of nominations will end at 12 noon on October 11.
-
-The Election Commission says that the demonstration of the acceptance of nominations is prohibited on the end of the end of the nomination.
-
-◼️
-
-[Data](articles/e16f50e3.json)
-
-[Extended Data](ext_articles/e16f50e3.ext.json)
-
----
-
-### The conflict between the two men was attacked by a sharp weapon
-
-*2024-10-04 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195450) · `ta`
-
-Conflict between two men escalated into assault with sharp weapon in Kapala area. Police arrested 33-year-old suspect from Kodavella. Further investigation ongoing.
-
-🟩
-
-Rambukkanai police said that a man was assassinated by a sharp weapon in a conflict between two people who had been drinking alcohol in a house in Kapala area in Rambukkanai.
-
-In the meantime, the conflict between the two has been attacked by a sharp weapon by a weapon.
-
-Subsequently, a 33 -year -old suspect from Kodavella area has been arrested by the police.
-
-Further investigations are being carried out by the Rambukkanai police.
-
-◼️
-
-[Data](articles/63b21860.json)
-
-[Extended Data](ext_articles/63b21860.ext.json)
-
----
-
-### Indian foreign minister comes
-
-*2024-10-04 11:47:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දිය-විදෙස්-ඇමති-එයි/11-412308) · `si`
-
-Indian Foreign Minister Dr. Subramaniam Jayasankar arrives in Sri Lanka on April 10th. He's accompanied by 8 officials from the Ministry of External Affairs. Indian High Commissioner Sanantha Raman and Sri Lankan officials greet him at Katunayake Airport. Journalists are not allowed to cover the event. The delegation departs at 6 pm on April 6th.
-
-🟩
-
-Indian External Affairs Minister Dr. Subramaniam Jayasankur arrived at the Katunayake Airport on 10/04 days on a Sri Lankan official visit to Sri Lanka.
-
-Another eight high officials of the Ministry of External Affairs were also present to attend him as the delegation.
-
-They belong to the Indian Air Force from New Delhi, India, from New Delhi, India, from New Delhi, India.
-
-Indian High Commissioner Sanantha Raman and a group of officials of the Indian High Commission and the Sri Lanka External Affairs Ministry officials were also present at the Katunayake airport.
-
-Journalists were not given the opportunity to cover this opportunity.
-
-The Indian Foreign Minister and the people will leave the Katunayake airport at the Katunayake airport at Katunayake at 6/04 pm on the Katunayake airport, Katunayake.
-
-◼️
-
-[Data](articles/f15e10f5.json)
-
-[Extended Data](ext_articles/f15e10f5.ext.json)
-
----
-
-### Sri Lanka keen to step up co-operation in potential areas with Vietnam
-
-*2024-10-04 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102436/sri-lanka-keen-to-step-up-co-operation-in-potential-areas-with-vietnam) · `en`
-
-Sri Lanka aspires to boost ties with Vietnam, especially in areas of great potential, said Sri Lankan Prime Minister Harini Amarasuriya at a reception held on October 3 for Vietnamese Ambassador to Sri Lanka Trinh Thi Tam.
-
-At the meeting, the Vietnamese Ambassador said that both nations have enjoyed sound relations between their parties, states, and parliaments, setting out hope that the two sides will intensify mutual visits and contacts at a high level.
-
-This is along with accelerating the implementation of bilateral co-operation mechanisms and expanding collaboration across potential areas such as tourism, culture, education and agriculture  to encourage people-to-people exchanges.
-
-Other efforts include continuing ties of traditional co-operation and support for each other at multilateral forums, including the UN, as they will celebrate the 55th anniversary of their diplomacy next year.
-
-...
-
-[Data](articles/3e4ac69e.json)
-
-[Extended Data](ext_articles/3e4ac69e.ext.json)
-
----
-
-### BMICH 'War Literary Booth': Is Firearms and War Works Questioned?
-
-*2024-10-04 11:28:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn039384r6lo) · `si`
-
-Sri Lanka's BMICH hosts controversial "War Literary Booth". Debate rages over portrayal of firearms and war in literature. Critics argue works lack neutrality, perpetuate hostility. Military involvement sparks concerns about censorship and reconciliation efforts.
-
-🟩
-
-BMICH 'War Literary Booth': Is Firearms and War Works Questioned?
-
-Sri Lanka is a country affected by a civil war for over 30 years. It is normal to create a war literature in such a country.
-
-War literature is recognized as a literary series. The art, the war, soldiers, as well as war, are included in the war.
-
-There are many books on war in Sri Lanka.
-
-This year's international book Exhibition is found that many have been focused on a labeling stall, "war literature".
-
-The gun modeling around that stall is also a refuge of war.
-
-The Secretary of the Book Pubse's Pubson's Association, Dinesh Kulathunga told the Sinhala service that this is not a booth belonging to Colombo International Book Fair.
-
-He stated that the Sri Lanka Army was conducting the bookseller at a separate stall, parallel to the International Book Fair.
-
-He said that a chamber of the International Book Exhibition was not received, he said.
-
-...
-
-[Data](articles/36f1ef76.json)
-
-[Extended Data](ext_articles/36f1ef76.ext.json)
-
----
-
-### Tendon
-
-*2024-10-04 11:22:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொலைபேசிக்கு-அடிமையான-மாணவன்-உயிர்மாய்ப்பு/175-344911) · `ta`
-
-Student dies during death investigation after addiction to telephone game in Jaffna. Parents complained to police when child didn't return home. Body handed over after autopsy.
-
-🟩
-
-During the death investigation, a school student who was addicted to a telephone game in Jaffna had made a wrong decision.
-
-Yall. A Grade 11 student at a school near the city has become addicted to telephone game and has not gone to school for more than three months and has been involved in telephone games from home.
-
-Since the student did not attend the school for more than three months, the school principal and the teachers have advised the parents to take it to the attention of the parents and send the student to the school.
-
-So, the father grabbed the student's mobile phone. So the angry student left the house on the 25th.
-
-Parents lodged a complaint at the Jaffna Police Station as the student did not return home
-
-In this case, a relative of a student living in Kilinochchi on Wednesday (03) has handed over the student to his parents claiming that the student was staying in his house.
-
-In the early hours of Thursday (02), the student made a wrong decision and died of his life.
-
-...
-
-[Data](articles/4b5c12ce.json)
-
-[Extended Data](ext_articles/4b5c12ce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 12:38:40**
+As of **2024-10-04 13:08:25**
 
 ## Newspaper Stats
 
-*Scraped **47,743** Articles*
+*Scraped **47,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,179 @@ newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 470
 colombotelegraphcom | 473
-islandlk | 2,809
-economynextcom | 2,921
+islandlk | 2,810
+economynextcom | 2,922
 dailyftlk | 3,222
-adalk | 4,418
+adalk | 4,419
 dailymirrorlk | 4,733
-adaderanalk | 5,613
-tamilmirrorlk | 6,436
-virakesarilk | 7,639
+adaderanalk | 5,614
+tamilmirrorlk | 6,439
+virakesarilk | 7,642
 adaderanasinhalalk | 8,252
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,743 (100.0%) of 47,743 articles have been extended.
+47,753 (100.0%) of 47,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### In the surrounding areas of Jaffna
+
+*2024-10-04 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195460) · `ta`
+
+Jaffna area cleanup operation involved health parties, police, military. Northern Province Governor and officials participated. Plastic banners and collection baskets placed. Military, navy, health officers, and local council employees attended.
+
+🟩
+
+A difficulty in the surrounding areas of the Jaffna Farm on Friday morning (04).
+
+The operation, with the contribution of the health parties, the police and the military, was collected and the baskets of plastic banners and plastic collection were placed.
+
+Northern Province Governor Na Vedanayagan, Jaffna District Response Secretary, Northern Province Chief Secretary Ilangovan, Northern Provincial Ministry of Health Secretary Arulraj, Northern Provincial Health Director Saman Pathirana, Jaffna Divisional Secretary SudarshanSeveral military police officers, navy, health officers and Jaffna Municipal Council employees were present.
+
+◼️
+
+[Data](articles/ceeebc4c.json)
+
+[Extended Data](ext_articles/ceeebc4c.ext.json)
+
+---
+
+### Discussion for the second day between the President and the International Monetary Fund
+
+*2024-10-04 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195461) · `ta`
+
+Sri Lanka: IMF talks continue. President Anura Kumara Dissanayake seeks to reduce citizens' burdens while meeting IMF goals. Director Krishna Srinivasan and Senior Delegation Chief Peter Breuer represent IMF.
+
+🟩
+
+The talks were held for the second day between the representatives of the Monetary Fund and the Sri Lankan representatives, including the Director of the Asian Development Department of the IMF, Krishna Srinivas, Senior delegation, Chief Peter Bruire.
+
+Krishna Srinivasan, Director of the Asia Pacific Department of the International Monetary Fund (Krishna Srinivasan). The Senior delegation of the International Monetary Fund, including the Peter Breuer, and the Sri Lankan representatives of the IMF negotiations were also present at the meeting.
+
+President Anura Kumara Dissanayake's intention is to reducing people's loads while reaching the goals of the International Monetary Fund.
+
+◼️
+
+[Data](articles/81b93b45.json)
+
+[Extended Data](ext_articles/81b93b45.ext.json)
+
+---
+
+### The woman who caused the former tension in the house of Maithri
+
+*2024-10-04 12:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வீட்டிற்கு-முன்னாள்-பதற்றத்தை-ஏற்படுத்திய-பெண்/175-344915) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Woman causes tension at Maithri's residence. Harsh words directed at former Prez Maithripala Sirisena and his brother Dudley. White car involved. Complaint filed. Investigations ongoing.
+
+🟩
+
+Former President Maithripala Sirisena's official residence in the Cinnamon Gardens in Colombo, Cinnamon Gardens, a white car in a white car, has gone away after a harsh word.
+
+A police officer in charge of the area has said that a police officer who was on duty at the official residence of former President Maithripala Sirisena has lodged a complaint.
+
+The number of the white car that has arrived at the woman is mentioned. In addition, the police officer said that the woman had made a harsh word for former President Maithripala Sirisena's brother and businessman, Dudley Sirisena.
+
+The number of the car that has arrived has been sent to the Motor Transport Department and further investigations are being carried out by the Cinnamon Police.. Remble
+
+◼️
+
+[Data](articles/582d74d6.json)
+
+[Extended Data](ext_articles/582d74d6.ext.json)
+
+---
+
+### Jaishankar arrived
+
+*2024-10-04 12:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வந்தடைந்தார்-ஜெய்சங்கர்/175-344914) · `ta`
+
+Dr. Subramaniam Jaishankar, India's Foreign Minister, visited Sri Lanka. He greeted Sri Lanka's State Secretary Aruni Wijewardena at Katunayake International Airport on Wednesday.
+
+🟩
+
+Indian External Affairs Minister Dr. Subramaniam Jaishankar, who arrived in Sri Lanka on an official visit to Sri Lanka, welcomed Sri Lanka's Secretary of State Aruni Wijewardena at the Katunayake International Airport on Wednesday morning.
+
+◼️
+
+[Data](articles/c841dd1f.json)
+
+[Extended Data](ext_articles/c841dd1f.ext.json)
+
+---
+
+### Asia-Pacific women more likely to be in care employment: UN report
+
+*2024-10-04 12:30:00* · [`economynextcom`](https://economynext.com/asia-pacific-women-more-likely-to-be-in-care-employment-un-report-182160/) · `en`
+
+ECONOMYNEXT – In the Asia Pacific, including Sri Lanka, women are more likely to be in care employment compared to men, a UN Women’s latest report finds.
+
+“For some this is a choice; for others it is not,” UN Women said.
+
+Ageing populations are likely to put pressure on fiscal systems with rising demands for costly care services, such as long-term care, the report found.
+
+“Population projections for the Asia-Pacific region anticipate an important demographic shift with significant implications for societies and economies in the region,” the report states.
+
+“The low fertility rates observed in several countries coupled with low mortality rates have raised questions – especially in fast-ageing societies, such as in Eastern Asia – about who will provide long-term care for older
+
+people, a traditional role of women and girls within families.
+
+...
+
+[Data](articles/f2955dd4.json)
+
+[Extended Data](ext_articles/f2955dd4.ext.json)
+
+---
+
+### 2024 General Election: Accepting of nominations begins
+
+*2024-10-04 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/102437/2024-general-election-accepting-of-nominations-begins) · `en`
+
+The accepting of nominations for the 2024 General Election commenced this morning (04).
+
+The activities related to the accepting of nominations commenced at the district secretaries in 22 electoral districts today.
+
+On September 24, President Anura Kumara Dissanayake issued an Extraordinary Gazette notification fixing November 14, 2024 as the date for the election of the new Members of Parliament.
+
+The Gazette notification further specified the period beginning on October 04 and ending at 12 noon October 11, 2024 as the nomination period, during which nomination papers shall be received by the Returning Officers.
+
+The Parliament of Sri Lanka comprises 225 members, with 196 elected from 22 electoral districts. The remaining 29 members are appointed through the national list, based on the proportion of votes secured by each political party or independent group in the general election.
+
+◼️
+
+[Data](articles/b1c27063.json)
+
+[Extended Data](ext_articles/b1c27063.ext.json)
+
+---
+
+### Re -discussion between the President and the IMF
+
+*2024-10-04 12:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-IMFக்கு-இடையில்-மீண்டும்-கலந்துரையாடல்/175-344912) · `ta`
+
+A meeting between President Anura Kumara Dissanayake and the International Monetary Fund began today (04) at the Presidential Office to ensure the president's commitment to implement the IMF program.
+
+Krishna Srinivasan, Director of the Asia Pacific Department of the International Monetary Fund (Krishna Srinivasan). The Senior delegation of the International Monetary Fund, including the Peter Breuer, and the Sri Lankan representatives of the IMF negotiations were also present at the meeting.
+
+President Anura Kumara Dissanayake's intention is to reducing people's loads while reaching the goals of the International Monetary Fund.
+
+◼️
+
+[Data](articles/866982be.json)
+
+[Extended Data](ext_articles/866982be.ext.json)
+
+---
 
 ### Diana summoned the case against Gamage
 
@@ -87,6 +241,30 @@ The Election Commission says that the demonstration of the acceptance of nominat
 [Data](articles/e16f50e3.json)
 
 [Extended Data](ext_articles/e16f50e3.ext.json)
+
+---
+
+### The conflict between the two men was attacked by a sharp weapon
+
+*2024-10-04 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195450) · `ta`
+
+Conflict between two men escalated into assault with sharp weapon in Kapala area. Police arrested 33-year-old suspect from Kodavella. Further investigation ongoing.
+
+🟩
+
+Rambukkanai police said that a man was assassinated by a sharp weapon in a conflict between two people who had been drinking alcohol in a house in Kapala area in Rambukkanai.
+
+In the meantime, the conflict between the two has been attacked by a sharp weapon by a weapon.
+
+Subsequently, a 33 -year -old suspect from Kodavella area has been arrested by the police.
+
+Further investigations are being carried out by the Rambukkanai police.
+
+◼️
+
+[Data](articles/63b21860.json)
+
+[Extended Data](ext_articles/63b21860.ext.json)
 
 ---
 
@@ -260,15 +438,15 @@ The Indian Foreign Minister and his delegation meet with Foreign Minister Vijith
 
 India’s Minister of External Affairs, Dr. Subrahmanyam Jaishankar arrived in Sri Lanka on Friday (October 04) on an official visit.
 
+Upon arriving in the island, the foreign minister was welcomed by Sri Lanka’s Foreign Secretary Aruni Wijewardane and Indian High Commissioner to Colombo Santosh Jha at the BIA airport.
+
+“Good to be in Colombo again. Look forward to my engagements with the Sri Lankan leadership today,” Jaishankar post on ‘X’ (formerly Twitter) after arriving in the country.
+
 During this visit, the Indian External Affairs Minister is scheduled to pay courtesy calls on President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya.
 
 The visiting Indian External Affairs Minister and his delegation will also have a meeting with Foreign Minister Vijitha Herath at the Ministry of Foreign Affairs.
 
 Minister Jaishankar is accompanied by senior officials of the Ministry of External Affairs of India.
-
-This is the first visit of any foreign minister to Sri Lanka since the new government was sworn in last week.
-
-Dr Jaishankar’s meeting with the leadership reaffirms India’s bilateral ties with Sri Lanka, Indian media reported yesterday.
 
 ...
 
@@ -693,6 +871,32 @@ Pediatrician Dr. Deepal Perera notes that cases of children infected with hand, 
 [Data](articles/951a6c9c.json)
 
 [Extended Data](ext_articles/951a6c9c.ext.json)
+
+---
+
+### Dineshla's final decision today
+
+*2024-10-04 07:54:27* · [`adalk`](https://www.ada.lk/breaking_news/දිනේෂ්ලාගේ-අවසන්-තීරණය-අද/11-412307) · `si`
+
+United National UPFA agrees to compete in Gas Cylinder event. Final decision pending. Party to run candidates in all districts. Led by UNP's Dinesh Gunawardena.
+
+🟩
+
+The final agreement on whether the Common Faming UPFA competitions will contest under the Gas Cylinder is to be studied.
+
+Leading the United Nations Dinesh Gunawardena, the United National UPFA has agreed to compete in the Gas Cylinder, but the final decision will be taken up today.
+
+The Commonwealth Executive Committee of the United Floor Freedom Alliance (CHOGM) was held yesterday (3) in Colombo.
+
+The General United Floor Alliance has also decided to present candidates for all districts of the country.
+
+A senior spokesman of the United FLugs United Freedom Alliance said that his party would often compete as a party leader who led former President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/a85373ce.json)
+
+[Extended Data](ext_articles/a85373ce.ext.json)
 
 ---
 
@@ -1171,6 +1375,20 @@ On September 19, the 30th anniversary International Forum and Exhibition OTDYKH 
 [Data](articles/7f783460.json)
 
 [Extended Data](ext_articles/7f783460.ext.json)
+
+---
+
+### Sri Lanka Gem and Jewellery Association congratulates President Anura Kumara Dissanayake
+
+*2024-10-04 02:28:00* · [`islandlk`](http://island.lk/sri-lanka-gem-and-jewellery-association-congratulates-president-anura-kumara-dissanayake/) · `en`
+
+The Sri Lanka Gem and Jewellery Association (SLGJA) the apex body and the voice of the country’s Gem and jewellery industry, with great pride and respect extends heartfelt congratulations to His Excellency on being sworn in as the 9th President of the Democratic Socialist Republic of Sri Lanka.
+
+...
+
+[Data](articles/18a311fa.json)
+
+[Extended Data](ext_articles/18a311fa.ext.json)
 
 ---
 
@@ -2071,279 +2289,5 @@ The Government Information Department further stated that the birth certificates
 [Data](articles/23abdb2b.json)
 
 [Extended Data](ext_articles/23abdb2b.ext.json)
-
----
-
-### Eggs a surplus
-
-*2024-10-03 19:05:03* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-අතිරික්තයක්/11-412304) · `si`
-
-Egg surplus causes economic issues. Consumers benefit from low prices, while farmers struggle financially. Import policies affect supply and demand. Government intervention may be necessary to balance market and support both consumers and producers.
-
-🟩
-
-Convener of the Sanjeewa Karunadawajara, who is convenient for the consumer, said that the consumer was a convenience of production, but the egg farmer was a loss incurred by the consumer.
-
-"Eg egg consumption is about 7.5 million and the cost of production is Rs.There is a surplus of eggs these days and the egg cannot be marketed in or for more than two weeks. Imports of about 85,000 and 900,000 mother hens per year.With the importation of 1260000 mother hens, the import was excessive.
-
-In 2022, only 35,000 mother hens were imported and eggs caused a shortage of eggs. Their main objective was to establish a shortage of eggs and import the eggs and obtaining the eggs.It has been taken to provide tax concessions to import animal feed. He listened carefully when discussing the Secretary to the Ministry of Agriculture and Livestock.We're grateful to it.A new president was elected. A new government becomes. We hope to keep the consumer and protect the farmer. "
-
-◼️
-
-[Data](articles/260765e1.json)
-
-[Extended Data](ext_articles/260765e1.ext.json)
-
----
-
-### A vehicle technology learning student is crushed by bus
-
-*2024-10-03 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195424) · `ta`
-
-Vehicle tech student killed by bus during training in Sri Lanka. 17-year-old Samika Prabhat Fernando died after slipping under a bus at Anamaduwa Technology College. Driver arrested.
-
-🟩
-
-Anamaduwa police said that a student of vehicle technology learning in Anamaduwa was crushed by a training bus.
-
-Anamaduwa police said that a student who was studying in a training course at the Anamaduwa Technology College was admitted to the Anamaduwa Hospital on Thursday (03).
-
-A 17 -year -old Samika Prabhat Fernando, a student from Maha Usweva, Anamaduwa, has died.
-
-The bus was taken to another place for repair (wiring) at the Technology College grounds, and the student suddenly slipped into it and fell under the same bus.
-
-On various occasions, the same bus, which had been repaired with her hands, had to say goodbye.
-
-The driver of the bus has been arrested in connection with the accident and the bus has been taken over by the Anamaduwa police.
-
-◼️
-
-[Data](articles/5dfe28ce.json)
-
-[Extended Data](ext_articles/5dfe28ce.ext.json)
-
----
-
-### Dhanushka says the statement of the cabinet statement is false
-
-*2024-10-03 18:54:02* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-ප්‍රකාශකගේ-ප්‍රකාශය-සාවද්‍ය-බව-ධනුෂ්ක-කියයි/11-412303) · `si`
-
-Dhanushka Ramanayake denies Cabinet statement claims, criticizes Vijitha Herath's comments on Ranil Wickremesinghe's involvement in public enterprises inquiry. Disputes allegations of misleading public and media. Case against 10 individuals ongoing, with appeal to Supreme Court scheduled for January 2025.
-
-🟩
-
-Former Presidential Media Director General Dhanushka Ramanayake says that the statement made by the Cabinet Publisher
-
-Accordingly, as a Minister and Cabinet spokesman, it is inappropriate that it is not inappropriate.
-
-"The statement made by the Cabinet of Ministers Vijitha Herath has been instructed on October 1, the new government's appointment on Oct.
-
-The fact that the people and the entire masses have been misled by the fact that the masses, including media institutions, are misleading.
-
-Prime Minister Ranil Wickremesinghe appointed the Parliamentary Select Committee of the Public Enterprises to the then Prime Minister Ranil Wickremesinghe.. Thereafter an inquiry by the Presidential Commission of Inquiry and the Presidential Commission of Penstewealth was conducted by the then Presidential Commission of Inquiry and the Prime Minister Hon. Prime Minister Hon.
-
-...
-
-[Data](articles/97df6018.json)
-
-[Extended Data](ext_articles/97df6018.ext.json)
-
----
-
-### “The conch is our symbol: Jump in Colombo”
-
-*2024-10-03 18:50:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சங்கு-எங்கள்-சின்னம்-கொழும்பிலும்-குதிப்போம்/175-344879) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil National Alliance contests parliamentary election under "conch" symbol. Focuses on North and East, investigates Colombo constituency. Party spokesperson Suresh Premachandran announces strategy during Jaffna media briefing.
-
-🟩
-
-The Elections Department has now been assigned the symbol of the Tamil National Alliance. We are contesting the coalition across the North and East. At the same time, we are also investigating the contest of Colombo this year, said Suresh Premachandran, a media spokesman for the EPRLF and the media spokesman of the Democratic Tamil National Alliance (TNA).
-
-He made this statement during a media briefing held at his residence in Jaffna on Thursday (03).. In addition ..
-
-The National Tamil National Alliance is a registered party. The Janta parties, including us, are part of this alliance.
-
-Even though the last local government election was announced, we had filed nominations for contesting it. Kutti was the symbol of this alliance.
-
-But in the upcoming presidential election, the Tamil National Party and the Tamil People's General Assembly, which focuses on the North and East, have co -stated a common candidate.
-
-...
-
-[Data](articles/dfadbaed.json)
-
-[Extended Data](ext_articles/dfadbaed.ext.json)
-
----
-
-### "The conch is our symbol: let's jump anywhere"
-
-*2024-10-03 18:50:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சங்கு-எங்கள்-சின்னம்-எங்கும்-குதிப்போம்/175-344879) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil National Alliance gets conch symbol for parliamentary election. Contesting in North, East, and exploring Colombo. Symbol change from Kutti to conch represents unity of Tamil people.
-
-🟩
-
-The Elections Department has now been assigned the symbol of the Tamil National Alliance. We are contesting the coalition across the North and East. At the same time, we are also investigating the contest of Colombo this year, said Suresh Premachandran, a media spokesman for the EPRLF and the media spokesman of the Democratic Tamil National Alliance (TNA).
-
-He made this statement during a media briefing held at his residence in Jaffna on Thursday (03).. In addition ..
-
-The National Tamil National Alliance is a registered party. The Janta parties, including us, are part of this alliance.
-
-Even though the last local government election was announced, we had filed nominations for contesting it. Kutti was the symbol of this alliance.
-
-But in the upcoming presidential election, the Tamil National Party and the Tamil People's General Assembly, which focuses on the North and East, have co -stated a common candidate.
-
-...
-
-[Data](articles/ffbe698c.json)
-
-[Extended Data](ext_articles/ffbe698c.ext.json)
-
----
-
-### Bangladesh begins to win the Women's World Cup
-
-*2024-10-03 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201815) · `si`
-
-Bangladesh women's cricket team wins Women's Twenty20 World Cup. They scored 119 runs in 20 overs, with Sobhaya Mosteric scoring highest at 36 runs. Scotland scored 103 runs chasing 120 target. Bangladesh won by 16 runs.
-
-🟩
-
-The Bangladesh team won the Women's Twenty20 World Cup from 16 runs today (3).
-
-Bangladesh women scored 119 runs for the loss of 07 wickets in their 20 overs.
-
-She scored the highest score of the Sobhaya Mosteric innings, and she scored 36 runs. Mosteri's innings included two fours.
-
-In addition, the opening Busani Rani scored 29 runs. She suffered 3 fours in 32 balls.
-
-Sizkia Hourley took 3 wickets for Scotland. She paid only 13 overs for 2 overs.
-
-Chasing a target of 120, however, only 103 runs for scotland scored 103 runs in the 20 overs.
-
-Opening Breakin Sarakin, Saratney Bryce Bryce, launched 49 runs at the time of Scottish innings.
-
-However, no other batsman could be played for any other batsman.
-
-Fonseka took 2 wickets for Bangladesh. She was given only 15 points.
-
-◼️
-
-[Data](articles/72f5b358.json)
-
-[Extended Data](ext_articles/72f5b358.ext.json)
-
----
-
-### Ranil is not asking for the UPFA votes
-
-*2024-10-03 18:46:36* · [`adalk`](https://www.ada.lk/breaking_news/සන්ධානයට-ඡන්දය-දුන්නත්-රනිල්-ඉල්ලන්නේ-නැතිලු/11-412302) · `si`
-
-Here's a 200-character summary:
-
-
-
-Ranil Wickremesinghe won't contest general election. UNP, SLFP, others support him for presidency. General Alliance formed to back him. Initially, UNP rejected opposition alliance offer.
-
-🟩
-
-Ranil Wickremesinghe has said that he would not contest the general election despite the leadership of the UNP.. Accordingly, the United National Party (UNP) and the Sri Lanka Freedom Party (SLFP) and other parties including the Sri Lanka Freedom Party (SLFP) to support Mr. Ranil Wickremesinghe in the presidential election.
-
-The General Alliance, the General Alliance (2) had decided to contest the Gas Cylinder's mark.
-
-The UNP was initially invited to reconciliation with the objective of establishing a wide alliance in the opposition, and the force refused the invitation. The general alliance was set up to be established to contest the general election under the leadership of former President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/19c2184e.json)
-
-[Extended Data](ext_articles/19c2184e.ext.json)
-
----
-
-### The General Man General's No decision has been made yet
-
-*2024-10-03 18:37:30* · [`adalk`](https://www.ada.lk/breaking_news/පොදුජන-පෙරමුණ-තවම-තීරණයක්-ගෙන-නෑ/11-412301) · `si`
-
-Namal Rajapaksa contests Kurunegala; denies misleading voters about Hambantota seat.
-
-🟩
-
-The Sri Lanka Known Knowledge, the Sri Lanka Ceremony has not decided to contest and the final agreements of each candidates in the coming general election.
-
-Accordingly, reports that Namal Rajapaksa is contesting in the Kurunegala District for the next general election, he said.
-
-He said that he continues to continue in politics with the people who were elected in the Hambantota district in the last general election.
-
-In such a situation, proclaiming that they will come from Kurunegala is a misleading the people who have faced the political advantage.
-
-◼️
-
-[Data](articles/c014d6a4.json)
-
-[Extended Data](ext_articles/c014d6a4.ext.json)
-
----
-
-### Little votes come near
-
-*2024-10-03 18:32:05* · [`adalk`](https://www.ada.lk/breaking_news/පුංචි-ඡන්දයත්-ළඟ-ළඟම-එයි/11-412300) · `si`
-
-Sri Lanka Election Commission announces local government polls after parliamentary elections. Chairman emphasizes holding elections promptly. Supreme Court ruling guides timeline.
-
-🟩
-
-The Elections Commission (EPL) says the Elections Commission (EPL) states that the date on the local government election is aimed at the end of the parliamentary election.
-
-Chairman of the Elections Commission, R, relating to the election election. M. A. L. Relevant notice has been issued with the signature of Ratnayake.
-
-2023 The Election Commission has given proper attention by the Supreme Court decision on 22.08.2010, according to the Supreme Court decision on 22.04.2010.
-
-The announcement also states that the Election Commission will understand their role in the preservation of the democratic rights of the Sri Lankan people.
-
-The Commission is also elected as soon as possible to hold the parliamentary elections as soon as possible to hold the parliamentary elections as soon as the Parliamentary Elections were completed by the Supreme Court election by 2224.The Chairman of the Commission has stressed.
-
-...
-
-[Data](articles/7be96f6a.json)
-
-[Extended Data](ext_articles/7be96f6a.ext.json)
-
----
-
-### Eastern Tamil Union
-
-*2024-10-03 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195423) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Eastern Tamil Union calls for unity among Tamil parties to protect representation. Secretary urges national parties not to manipulate voters. Gunalan emphasizes importance of choosing Tamil representatives.
-
-🟩
-
-Other parties that are in the elections are the only parties that will be released for the national list, and the people of the Eastern Tamil Union, the Secretary of the Eastern Tamil Union and the retired Deputy Director of Education, Gunalan said.
-
-The Secretary of the Eastern Tamil Union said that he would like to post this answer, considering the troubles of the people who continue to suffer various troubles.
-
-In the last election, Tamil representation was lost and a representative was appointed through the national list. But in the past, it was the history of everyone that everyone united and selected a representative. But now the various groups and parties are trying to get votes targeting the Ampara district.
-
-Deciding this, there are many contradictions among the national parties today. This has made our people a hateful position. First a Tamil -speaking person should be selected in the territory. Therefore, it is our demand that all Tamil parties should union in this election.
-
-...
-
-[Data](articles/691c5b3f.json)
-
-[Extended Data](ext_articles/691c5b3f.ext.json)
 
 ---

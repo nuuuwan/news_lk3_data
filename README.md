@@ -1,36 +1,120 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 18:19:43**
+As of **2024-10-04 18:34:04**
 
 ## Newspaper Stats
 
-*Scraped **47,799** Articles*
+*Scraped **47,805** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 394
-bbccomsinhala | 472
+bbccomsinhala | 473
 colombotelegraphcom | 474
 islandlk | 2,810
 economynextcom | 2,923
 dailyftlk | 3,222
-adalk | 4,421
+adalk | 4,423
 dailymirrorlk | 4,733
-adaderanalk | 5,624
+adaderanalk | 5,626
 tamilmirrorlk | 6,445
 virakesarilk | 7,652
-adaderanasinhalalk | 8,266
+adaderanasinhalalk | 8,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,799 (100.0%) of 47,799 articles have been extended.
+47,805 (100.0%) of 47,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### A major road near Temple Trees opens
+
+*2024-10-04 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201846) · `si`
+
+Major road near Temple Trees opens today. Connects to Rotton Roundabout via Aralagena Roundabout.
+
+🟩
+
+Road to Rotton Roundabout near the Aralagena Roundabout near the Aralagena Roundra was opened today (04).
+
+◼️
+
+[Data](articles/d60f7619.json)
+
+[Extended Data](ext_articles/d60f7619.ext.json)
+
+---
+
+### Jaishankar meets Ranil, Sajith and Harini during Sri Lanka visit
+
+*2024-10-04 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102452/jaishankar-meets-ranil-sajith-and-harini-during-sri-lanka-visit) · `en`
+
+Indian Foreign Affairs Minister Dr. Subramaniam Jaishankar, who arrived in Sri Lanka on an official visit this morning, has met with Prime Minister Dr. Harini Amarasuriya, former President Ranil Wickremesinghe and former Opposition Leader Sajith Premadasa in separate meetings today.
+
+Earlier today, Jaishankar had called on Sri Lanka’s new President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo and also met with his Sri Lankan counterpart, Vijitha Herath at the Foreign Ministry.
+
+Posting on ‘X’ (formerly Twitter), after meeting Sri Lanka’s new prime minister, the Indian foreign minister said he conveyed good wishes for her new responsibility.
+
+“Discussed Digital Public Infrastructure, training and capacity building. Agreed to work together to advance our partnership,” he said.
+
+Following his meeting with Wickremesinghe, Jaishankar said he was glad to see the former President today and that he “thanked him for his efforts in advancing our ties in the last two years.”
+
+...
+
+[Data](articles/9991e3e7.json)
+
+[Extended Data](ext_articles/9991e3e7.ext.json)
+
+---
+
+### Jaishankar extends invitation for President Dissanayake to visit India
+
+*2024-10-04 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102451/jaishankar-extends-invitation-for-president-dissanayake-to-visit-india) · `en`
+
+External Affairs Minister of India Dr. Subrahmanyam Jaishankar who was on a one-day official visit to Sri Lanka met with his Sri Lankan counterpart, Foreign Minister Vijitha Herath for bilateral talks at the Ministry of Foreign Affairs this afternoon (04). Earlier in the day, Minister Dr. Jaishankar was received on arrival at the Bandaranaike International Airport by Foreign Secretary Aruni Wijewardane.
+
+Dr. Jaishankar was the first high-level foreign dignitary to visit Sri Lanka after the government of President Anura Kumara Dissanayake assumed office on 22 September. The main objective of the visit of the External Affairs Minister of India was to congratulate the new President and the government and to demonstrate India’s commitment in moving forward with the strong bilateral partnership, the Ministry of Foreign Affairs said in a statement.
+
+...
+
+[Data](articles/5870d78c.json)
+
+[Extended Data](ext_articles/5870d78c.ext.json)
+
+---
+
+### Departure for foreign employment increased by 10 percent in September
+
+*2024-10-04 17:51:49* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-සඳහා-පිටත්වීම-සැප්තැම්බර්-මාසයේදී-සියයට-10-කින්-ඉහළට/11-412312) · `si`
+
+Sri Lankan foreign employment increased 10% in September 2024 compared to 2023. 28,344 left for work abroad, including 70,396 skilled workers. Most went to Saudi Arabia (38,133), followed by Israel (6,391) and Japan (6,295).
+
+🟩
+
+In September 2023, September 2024, September 2024, Sri Lankans have risen 10 percent to the foreign employment, the Sri Lanka Foreign Employment Bureau.
+
+In September 2024, 28,344 Sri Lankans have left foreign employment and in September 2023, 25,716 departure for foreign employment in September 2023.
+
+In the first nine months of 2024, there are 240,109 Sri Lankans in the first nine months and includes 99,939 males and 142,170 female workers.
+
+70,396 skilled workers have passed abroad and belongs to employers and 62,177 male workers and 8,219 female workers. In the first nine months of 2024, 17,649 workers have passed abroad and 3,704 have been selected for semi-skilled jobs.
+
+In the first nine months of the first 9 months, the largest number of Sri Lankans have joined in Saudi Arabia, which is 38,133. During this time, 6391 Sri Lankans have left for Israeli jobs, and 6295 Sri Lankans have left in Japan.
+
+5870 for Sri Lanka's jobs, 5677 and 3995 for UAE have been leaving for Rs.
+
+◼️
+
+[Data](articles/d9a92062.json)
+
+[Extended Data](ext_articles/d9a92062.ext.json)
+
+---
 
 ### President invites Migodanu
 
@@ -702,6 +786,28 @@ I am happy to represent the Homagama constituency that has long been without rep
 
 ---
 
+### Bandula is political
+
+*2024-10-04 14:45:06* · [`adalk`](https://www.ada.lk/breaking_news/බන්දුලට-දේශපාලන-එපා-වෙයි/11-412310) · `si`
+
+Dr. Bandula Gunawardena, former cabinet minister, announces plans for future political involvement and personal projects. He intends to pursue another doctorate and create a film while continuing his public service career spanning over two decades.
+
+🟩
+
+Former Patrol Highways and Mass Media Cabinet Minister Dr. Bandula Gunawardena declared openings that they would not have been given to the upcoming parliamentary election.
+
+Learning for another doctorate in the next few years, he is intending to create a film.
+
+He said that he had served on behalf of the public to represent the Electorate in Homagama, representing a number of positions as a Minister of Parliament for more than twenty years.
+
+◼️
+
+[Data](articles/c938dd18.json)
+
+[Extended Data](ext_articles/c938dd18.ext.json)
+
+---
+
 ### HC permits to amend witness list in case against Diana Gamage
 
 *2024-10-04 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102443/hc-permits-to-amend-witness-list-in-case-against-diana-gamage) · `en`
@@ -1361,6 +1467,40 @@ Other efforts include continuing ties of traditional co-operation and support fo
 [Data](articles/3e4ac69e.json)
 
 [Extended Data](ext_articles/3e4ac69e.ext.json)
+
+---
+
+### BMICH 'War Literary Booth': Is Firearms and War Works Questioned?
+
+*2024-10-04 11:28:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn039384r6lo) · `si`
+
+Sri Lanka's BMICH hosts controversial "War Literary Booth". Debate rages over portrayal of firearms and war in literature. Critics argue works lack neutrality, perpetuate hostility. Military involvement sparks concerns about censorship and reconciliation efforts.
+
+🟩
+
+BMICH 'War Literary Booth': Is Firearms and War Works Questioned?
+
+Sri Lanka is a country affected by a civil war for over 30 years. It is normal to create a war literature in such a country.
+
+War literature is recognized as a literary series. The art, the war, soldiers, as well as war, are included in the war.
+
+There are many books on war in Sri Lanka.
+
+This year's international book Exhibition is found that many have been focused on a labeling stall, "war literature".
+
+The gun modeling around that stall is also a refuge of war.
+
+The Secretary of the Book Pubse's Pubson's Association, Dinesh Kulathunga told the Sinhala service that this is not a booth belonging to Colombo International Book Fair.
+
+He stated that the Sri Lanka Army was conducting the bookseller at a separate stall, parallel to the International Book Fair.
+
+He said that a chamber of the International Book Exhibition was not received, he said.
+
+...
+
+[Data](articles/36f1ef76.json)
+
+[Extended Data](ext_articles/36f1ef76.ext.json)
 
 ---
 
@@ -2271,119 +2411,5 @@ It said President Anura Kumara Dissanayake, who was elected on September 21, 202
 [Data](articles/163ba034.json)
 
 [Extended Data](ext_articles/163ba034.ext.json)
-
----
-
-### Pragmatism and peopleism
-
-*2024-10-04 05:40:35* · [`dailyftlk`](https://www.ft.lk/columns/Pragmatism-and-peopleism/4-767527) · `en`
-
-Similarities in the successful rise of Prime Minster Narendra Modi in India and President Anura Kumara Dissanayake in Sri Lanka
-
-I was dining in a Colombo restaurant when the person waiting on me asked who I thought was going to win the Sri Lankan Presidential election. I said I had no vote and so would reserve my opinion but asked him who he thought would win. He said “100% sure AKD”. I said “oh”. The person continued as if he felt he needed to allay fears – he said this is like Narendra Modi coming to power in India. A common man taking away power from the family (entrenched political establishment).
-
-That set me thinking if indeed there was such a common thread tying the two politicians in South Asia.
-
-In 2014, Narendra Modi and his BJP party stormed to power in India. It seemingly marked the decimation of the traditional party – the Gandhi Family run Congress Party. Till 2014 the Congress party was the pre eminent power with BJP or Janatha party (its predecessor) making slow in roads.
-
-...
-
-[Data](articles/38d6406b.json)
-
-[Extended Data](ext_articles/38d6406b.ext.json)
-
----
-
-### Politics, policy and progression in agriculture
-
-*2024-10-04 05:31:10* · [`dailyftlk`](https://www.ft.lk/columns/Politics-policy-and-progression-in-agriculture/4-767525) · `en`
-
-The inefficiencies in the entire food system should be minimised to provide high quality rice at an affordable price to the consumer, without causing economic disadvantages to the producer
-
-...
-
-[Data](articles/932762d9.json)
-
-[Extended Data](ext_articles/932762d9.ext.json)
-
----
-
-### President affirms commitment to building efficient, people-centred public service
-
-*2024-10-04 05:21:54* · [`dailyftlk`](https://www.ft.lk/news/President-affirms-commitment-to-building-efficient-people-centred-public-service/56-767524) · `en`
-
-Assumes office as Agriculture, Lands, Livestock, Irrigation, Fisheries, and Aquatic Resources Minister
-
-Highlights critical role Ministry plays in eradicating rural poverty; insisting performance of officials will be decisive in achieving this goal
-
-Calls on public servants to uphold the trust placed in them by people, dedicate them to fulfilling responsibilities with integrity
-
-Says next 40 days will be a transitional period and new Ministers will be appointed after the General election
-
-President Anura Kumara Dissanayake yesterday affirmed his commitment to supporting public servants who dedicate themselves to creating an efficient, citizen-focused public service.
-
-He made these remarks after assuming office as the Agriculture, Lands, Livestock, Irrigation, Fisheries, and Aquatic Resources Minister.
-
-Dissanayake emphasised that unlike under previous administrations, public sector officials working in the interest of the people will no longer face political retaliation.
-
-...
-
-[Data](articles/fb01ef4a.json)
-
-[Extended Data](ext_articles/fb01ef4a.ext.json)
-
----
-
-### Exim Bank of Korea to provide financial support for SL’s development projects
-
-*2024-10-04 05:20:35* · [`dailyftlk`](https://www.ft.lk/news/Exim-Bank-of-Korea-to-provide-financial-support-for-SL-s-development-projects/56-767523) · `en`
-
-The Exim Bank of Korea has agreed to provide financial support for the development projects of the Government of Sri Lanka, the President’s Media Division said.
-
-This agreement was announced during a meeting between officials of the Exim Bank of Korea and Secretary to the President Dr. Nandika Sanath Kumanayake.
-
-PMD said following the collapse of Sri Lanka’s economy, financial support from the Korean Exim Bank for development projects was suspended from 2022 to 2024. However, during their meeting, representatives of the Exim Bank expressed their commitment to offering subsidised interest loans for the re-implementation of these projects.
-
-They also emphasised their intention to support economically viable programs initiated by the Government of Sri Lanka in the future.
-
-Exim Bank Director Won-suk HA, Deputy Director Hanui Han, Project Manager Nalin Jayathunga and Additional Secretary to the President Roshan Gamage were also present at the meeting.
-
-◼️
-
-[Data](articles/49e48440.json)
-
-[Extended Data](ext_articles/49e48440.ext.json)
-
----
-
-### MillenniumIT ESP expands global reach with new delivery hub at Port City Colombo
-
-*2024-10-04 05:17:51* · [`dailyftlk`](https://www.ft.lk/business/MillenniumIT-ESP-expands-global-reach-with-new-delivery-hub-at-Port-City-Colombo/34-767522) · `en`
-
-MillenniumIT ESP, leading Enterprise Solutions Provider, said yesterday it has recently marked a significant milestone in its growth journey with the establishment of its Global Service Delivery Centre at Port City Colombo.
-
-This new centre, registered under the company’s subsidiary, Millennium IT ESP Singapore, will serve as the primary hub for delivering solutions to its growing global clientele. This strategic move reinforces MillenniumIT ESP’s commitment to expanding its international presence and meeting the increasing global demand for its cutting-edge technology solutions.
-
-...
-
-[Data](articles/e13ada06.json)
-
-[Extended Data](ext_articles/e13ada06.ext.json)
-
----
-
-### Ceylon Chamber announces acclaimed panel of evaluators for BCCS Awards 2024
-
-*2024-10-04 05:16:24* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-announces-acclaimed-panel-of-evaluators-for-BCCS-Awards-2024/34-767521) · `en`
-
-Following the launch of the application process for the Best Corporate Citizen Sustainability Awards 2024, The Ceylon Chamber of Commerce recently announced the Panel of Evaluators for the Awards.
-
-As Chairman of the Panel, Rathika de Silva will lead an experienced and versatile panel of evaluators who will evaluate applications for sustainability under the Awards’ 3 Ps – Planet, People and Profit.
-
-...
-
-[Data](articles/04e8bd1f.json)
-
-[Extended Data](ext_articles/04e8bd1f.ext.json)
 
 ---

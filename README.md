@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 02:38:49**
+As of **2024-10-05 02:57:18**
 
 ## Newspaper Stats
 
-*Scraped **47,861** Articles*
+*Scraped **47,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ adalk | 4,425
 dailymirrorlk | 4,733
 adaderanalk | 5,631
 tamilmirrorlk | 6,449
-virakesarilk | 7,658
+virakesarilk | 7,660
 adaderanasinhalalk | 8,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,861 (100.0%) of 47,861 articles have been extended.
+47,863 (100.0%) of 47,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Yall. Public demonstration
+
+*2024-10-05 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195517) · `ta`
+
+Public protest against liquor store opening near temples in Jaffna. Demonstrators demand halt citing impact on religious sites. Government grants permit despite opposition. Case referred to local official.
+
+🟩
+
+The public staged a demonstration on Friday (4) against the liquor school to be opened in the Jaffna Water Supply area.
+
+The demonstration was held on Friday evening in front of the Kopay Divisional Secretariat, demanding the immediate stopping of a liquor barrier in the waterproofing area, but according to the newly granted permission, the government is banning the liquor station.
+
+The pilgrims who go to the temple are affected by the fact that the liquor road is to be opened near the Athiyar Hindukkalluri and Kanda Swamy Temple in Neerveli.
+
+The public handed over the matter to the Kopay Divisional Assistant Divisional Secretary Sanjeevan Radhika.
+
+◼️
+
+[Data](articles/c9b56963.json)
+
+[Extended Data](ext_articles/c9b56963.ext.json)
+
+---
+
+### Let the Tamil nation be revived by a new political culture!- RPG. University Student Union
+
+*2024-10-05 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195516) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Revive Tamil nation through new political culture. Address economic crisis, corruption, and lack of progress in Tamil nationalist parties. Propose visionary candidates across sectors. Focus on Ampara district representation. Criticize external contests undermining homeland integrity. Emphasize collective action over individual interests.
+
+🟩
+
+Sri Lanka's presidential election results have revealed the different dimensions of the vote and the political ideas of the people. The Tamil general candidate and the election boycott from the Tamil National Vision are a new twist in the Tamil political part of the Tamil people.
+
+The fear that the agent of chauvinism, which is predicted to overcome the Sinhalese - Buddhist chauvinism in the South, is not conquered, is also the guidance of the people to vote for the agent of another chauvinism.
+
+Sinhalese people have voted for a change in the economic crisis as the economic crisis has been temporarily limited to the Sinhala -Buddhist chauvinism.. However, the Tamil people have made it clear that it is not just an economic crisis by voting on the voting system of the Sinhalese people.
+
+...
+
+[Data](articles/4b62cb5e.json)
+
+[Extended Data](ext_articles/4b62cb5e.ext.json)
+
+---
 
 ### Women request PM Harini to curb OGBV
 
@@ -2269,49 +2319,5 @@ He added that in a few more years, he will be re -reading a doctorate.
 [Data](articles/66dbc20a.json)
 
 [Extended Data](ext_articles/66dbc20a.ext.json)
-
----
-
-### In the surrounding areas of Jaffna
-
-*2024-10-04 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195460) · `ta`
-
-Jaffna area cleanup operation involved health parties, police, military. Northern Province Governor and officials participated. Plastic banners and collection baskets placed. Military, navy, health officers, and local council employees attended.
-
-🟩
-
-A difficulty in the surrounding areas of the Jaffna Farm on Friday morning (04).
-
-The operation, with the contribution of the health parties, the police and the military, was collected and the baskets of plastic banners and plastic collection were placed.
-
-Northern Province Governor Na Vedanayagan, Jaffna District Response Secretary, Northern Province Chief Secretary Ilangovan, Northern Provincial Ministry of Health Secretary Arulraj, Northern Provincial Health Director Saman Pathirana, Jaffna Divisional Secretary SudarshanSeveral military police officers, navy, health officers and Jaffna Municipal Council employees were present.
-
-◼️
-
-[Data](articles/ceeebc4c.json)
-
-[Extended Data](ext_articles/ceeebc4c.ext.json)
-
----
-
-### Discussion for the second day between the President and the International Monetary Fund
-
-*2024-10-04 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195461) · `ta`
-
-Sri Lanka: IMF talks continue. President Anura Kumara Dissanayake seeks to reduce citizens' burdens while meeting IMF goals. Director Krishna Srinivasan and Senior Delegation Chief Peter Breuer represent IMF.
-
-🟩
-
-The talks were held for the second day between the representatives of the Monetary Fund and the Sri Lankan representatives, including the Director of the Asian Development Department of the IMF, Krishna Srinivas, Senior delegation, Chief Peter Bruire.
-
-Krishna Srinivasan, Director of the Asia Pacific Department of the International Monetary Fund (Krishna Srinivasan). The Senior delegation of the International Monetary Fund, including the Peter Breuer, and the Sri Lankan representatives of the IMF negotiations were also present at the meeting.
-
-President Anura Kumara Dissanayake's intention is to reducing people's loads while reaching the goals of the International Monetary Fund.
-
-◼️
-
-[Data](articles/81b93b45.json)
-
-[Extended Data](ext_articles/81b93b45.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 20:10:29**
+As of **2024-10-04 20:23:00**
 
 ## Newspaper Stats
 
-*Scraped **47,818** Articles*
+*Scraped **47,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ dailymirrorlk | 4,733
 adaderanalk | 5,628
 tamilmirrorlk | 6,447
 virakesarilk | 7,653
-adaderanasinhalalk | 8,272
+adaderanasinhalalk | 8,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,818 (100.0%) of 47,818 articles have been extended.
+47,818 (100.0%) of 47,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### RMV ලොක්කෙක් ඇතුළු තුනක් අල්ලස් ගද්දී අල්ලයි
+
+*2024-10-04 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201852) · `si`
+
+මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නියෝජ්‍ය කොමසාරිස්වරයෙකු, ලිපිකරුවෙකු සහ තැරැව්කරුවෙකු අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+බස් රථ 03ක අයිතිය පැවරීමට රුපියල් ලක්ෂ 03ක අල්ලස් මුදලක් ඉල්ලා සිටි අවස්ථාවේදී ඔවුන් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/53a113ca.json)
+
+---
 
 ### Jaishankar's main meetings
 
@@ -2395,23 +2409,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/451c2ee2.json)
 
 [Extended Data](ext_articles/451c2ee2.ext.json)
-
----
-
-### S.. Jaishankar is coming today
-
-*2024-10-04 07:37:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-ஜெய்சங்கர்-இன்று-வருகிறார்/175-344904) · `ta`
-
-Dr. Subramaniam Jaishankar visits Sri Lanka today, concluding a two-day official trip.
-
-🟩
-
-Indian Foreign Minister Dr. Subramaniam Jaishankar will visit Sri Lanka today after a two -day official visit.
-
-◼️
-
-[Data](articles/a0632c49.json)
-
-[Extended Data](ext_articles/a0632c49.ext.json)
 
 ---

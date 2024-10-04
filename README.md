@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 21:38:48**
+As of **2024-10-04 21:58:21**
 
 ## Newspaper Stats
 
-*Scraped **47,824** Articles*
+*Scraped **47,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,629
 tamilmirrorlk | 6,448
 virakesarilk | 7,653
-adaderanasinhalalk | 8,275
+adaderanasinhalalk | 8,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,824 (100.0%) of 47,824 articles have been extended.
+47,825 (100.0%) of 47,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### All controversial criminal investigators resume
+
+*2024-10-04 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201855) · `si`
+
+Defense Secretary orders resumption of controversial investigations. Acting IGP instructs CID to restart delayed cases, including Easter bombings probe. Discussion held yesterday, some issues identified.
+
+🟩
+
+Secretary Defense Ministry Ravi Seneviratne has instructed the police to resume all controversial investigations.
+
+The Police Media Spokesperson said that the instructions were given during a discussion yesterday (03).
+
+"Acting IGP instructed the IGP in charge of CID and Identify investigations and delay investigations and start investigations. The Passover attack also discussed this. The discussion was made to discuss and there were some imperfections. "
+
+◼️
+
+[Data](articles/3e7c96d0.json)
+
+[Extended Data](ext_articles/3e7c96d0.ext.json)
+
+---
 
 ### The decision taken about the IMF Third Premium
 
@@ -2417,25 +2439,5 @@ As a result, the audit officers of the investigation are very inconvenienced. In
 [Data](articles/63f3765f.json)
 
 [Extended Data](ext_articles/63f3765f.ext.json)
-
----
-
-### Emergency alarm
-
-*2024-10-04 08:08:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெற்றோருக்கு-விடுக்கப்பட்ட-அவசர-எச்சரிக்கை/175-344905) · `ta`
-
-Influenza cases rising: Health dept advises masking symptomatic children. Hand, Foot & Mouth Disease also prevalent. Dr. Deepal Perera recommends adhering to proper health guidelines to prevent spread.
-
-🟩
-
-The health department is asking parents that children with influenza symptoms are more likely to be reported in these days, so that children with those symptoms need to wear facial expressions.
-
-Meanwhile, Children with Hand, Foot and Mouth Disease are also reported in these days, so child health doctor Dr. Deepal Perera points out that children can protect children by following the right health instructions.. Remble
-
-◼️
-
-[Data](articles/46e912fa.json)
-
-[Extended Data](ext_articles/46e912fa.ext.json)
 
 ---

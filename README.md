@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 21:58:21**
+As of **2024-10-04 22:12:58**
 
 ## Newspaper Stats
 
-*Scraped **47,825** Articles*
+*Scraped **47,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 474
 islandlk | 2,813
 economynextcom | 2,923
 dailyftlk | 3,222
-adalk | 4,424
+adalk | 4,425
 dailymirrorlk | 4,733
 adaderanalk | 5,629
 tamilmirrorlk | 6,448
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,825 (100.0%) of 47,825 articles have been extended.
+47,826 (100.0%) of 47,826 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -101,6 +101,30 @@ The Ministry of Defense has stated that the guns will be reviewed and then re -h
 [Data](articles/91f6efe7.json)
 
 [Extended Data](ext_articles/91f6efe7.ext.json)
+
+---
+
+### Student who played cricket into the livestock
+
+*2024-10-04 20:48:28* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-සෙල්ලම්-කරමින්-සිටි-සිසුවෙක්-ඇද-වැටි-ජිවිතක්ෂයට/11-412313) · `si`
+
+A student died after hitting his head while playing cricket near a livestock area in Kotagala. He was rushed to Dikoya Hospital and later transferred to Kandy Teaching Hospital for further treatment. Police are investigating the incident.
+
+🟩
+
+Kotagala Cabbridge, who is being governed by the Nuwara Eliya Zonal Education Office, has been admitted to the Dikooya Basic Hospital while the student was admitted to the Damoon Basic Hospital while he was taken to the Kandy Teaching Hospital for further treatment.Dimbula Dimbula Dimbula Dimbula Dimbula Dimbulan Dimbula Patana Police said that the day was killed.
+
+The victims were killed in the school student, Sivuumar, Nadash, who was living in Talawakele Great Wester estate.
+
+The school student who had touched the ball to catch the ball from a wall of the Lissossu in a building while playing a ball with another group of children at school leisure.A doctor at the Dikoya Base Hospital said.
+
+The body of the deceased student was placed at the Dikoya Bundator Hospital for the post mortem.Dimbula down the Dimbula Patana Police are conducting further investigations.
+
+◼️
+
+[Data](articles/6014849c.json)
+
+[Extended Data](ext_articles/6014849c.ext.json)
 
 ---
 
@@ -196,7 +220,13 @@ The Ministry of Defence has announced that all firearms and ammunition provided 
 
 Furthermore, the Defence Ministry stated that they will be returned pending a review and consideration of the need to possess such firearms.
 
-◼️
+A decision has been taken to take over all firearms issued for personal protection to civilians by the Ministry of Defence.
+
+This decision was in accordance to the powers vested to the Defence Secretary under Sections 6(1) and 6(2) of the Firearms Ordinance Act No. 33 of 1916, to take over firearms on temporary basis to the government.
+
+Further, this decision is taken subjected to reissue them after a review process, the ministry said in a statement.
+
+...
 
 [Data](articles/0d31daac.json)
 
@@ -2415,29 +2445,5 @@ The Police Media Division added that there is a number of important investigatio
 [Data](articles/94cb1809.json)
 
 [Extended Data](ext_articles/94cb1809.ext.json)
-
----
-
-### Many vehicles magic;One month is required
-
-*2024-10-04 08:13:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-வாகனங்கள்-மாயம்-ஒரு-மாத-காலம்-தேவை/175-344906) · `ta`
-
-National Audit Office investigates Presidential Secretariat, Ministries, State Institutions over vehicle ownership. Detailed inquiries expected to take one month. Audit officers face challenges due to lack of information on many vehicles. Report to focus on improper acceptance of non-company-owned vehicles and lack of proper practices.
-
-🟩
-
-According to sources in the National Audit Office, it will take about a month of detailed inquiries into the Presidential Secretariat, Ministries and State Institutions.
-
-Each company -related statements are made separately and then the overall report will be prepared.
-
-The National Audit Office started these investigations last week. According to the current investigations, there are no information on a large number of vehicles.
-
-As a result, the audit officers of the investigation are very inconvenienced. In addition, the law should be implemented against the authorities who have accepted vehicles that are not owned by their company and the authorities who have accepted vehicles without proper practice.. Remble
-
-◼️
-
-[Data](articles/63f3765f.json)
-
-[Extended Data](ext_articles/63f3765f.ext.json)
 
 ---

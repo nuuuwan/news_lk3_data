@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 11:10:38**
+As of **2024-10-04 11:22:56**
 
 ## Newspaper Stats
 
-*Scraped **47,733** Articles*
+*Scraped **47,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ dailyftlk | 3,222
 adalk | 4,417
 dailymirrorlk | 4,733
 adaderanalk | 5,612
-tamilmirrorlk | 6,434
-virakesarilk | 7,638
+tamilmirrorlk | 6,435
+virakesarilk | 7,639
 adaderanasinhalalk | 8,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,732 (100.0%) of 47,733 articles have been extended.
+47,735 (100.0%) of 47,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Rs.. 1 crore robbery: two arrested with broker
+
+*2024-10-04 10:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-ரூ-1-கோடி-கொள்ளை-தரகருடன்-இருவர்-கைது/175-344909) · `ta`
+
+Rs. 1 crore robbery solved: Two arrested, including broker's son. Police recover stolen cash, passport, and mobile phone. Investigation reveals land sale scam involving broker and buyer.
+
+🟩
+
+Police investigations have revealed that one crore rupees has been raised under the guidance of the land broker.
+
+A man from Sanguveli, Jaffna, recently came to Jaffna as he is currently living abroad.
+
+While he was returning home with the money that he sold his land in the Chenthankulam area last Wednesday, two men who were pursuing a motorcycle had gone to the streets and robbed him with money, passports and a mobile phone worth Rs.
+
+The man who sold the land and the buyer of the land was transferred to the lawyer after the lawyer.. During that time, the land sales broker was with them.
+
+Suspecting the robber, the broker was suspected that the robber had been robbed on the basis of information on the issue of those who were going with money when the land was sold home with money.
+
+Following the investigation, the police searched the broker's house in the Uru area, and the robbery of the robbery and the mobile phone were recovered.
+
+...
+
+[Data](articles/28c63064.json)
+
+[Extended Data](ext_articles/28c63064.ext.json)
+
+---
 
 ### Progress of police investigations into high-profile cases reviewed
 
@@ -49,6 +77,32 @@ Additionally, the meeting focused on investigations that have been unnecessarily
 ...
 
 [Data](articles/612306a1.json)
+
+[Extended Data](ext_articles/612306a1.ext.json)
+
+---
+
+### Couple arrested with domestic gun in Varakapolai
+
+*2024-10-04 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195448) · `ta`
+
+Couple arrested with homemade gun in Varakapola home raid. Police found illegal liquor during search.
+
+🟩
+
+Warakapola police said that a couple had been arrested on Thursday (03) with a locally manufactured gun in a house in Algama.
+
+A 59 -year -old wife and a 40 -year -old husband have been arrested in Algama.
+
+Varakapola police have received information that illegal liquor has been hidden in a house in Algama area in Varakapola.
+
+Subsequently, a domestic gun that had been buried in the house was seized into the house in a raid carried out by the police.
+
+◼️
+
+[Data](articles/251dc825.json)
+
+[Extended Data](ext_articles/251dc825.ext.json)
 
 ---
 
@@ -2283,61 +2337,5 @@ Therefore, there is no restriction on providing fertilizer subsidy, he said.
 [Data](articles/7badbaba.json)
 
 [Extended Data](ext_articles/7badbaba.ext.json)
-
----
-
-### Israel says Hamas government chief, 2 top leaders eliminated in Gaza
-
-*2024-10-03 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102424/israel-says-hamas-government-chief-2-top-leaders-eliminated-in-gaza) · `en`
-
-The Israeli military on Thursday said a strike three months ago killed three senior Hamas leaders in Gaza, where the army has been battling the Palestinian operatives for nearly a year.
-
-The military said the strike killed Rawhi Mushtaha, the head of the Hamas government in the Gaza Strip, and Sameh al-Siraj, who held the security portfolio for Hamas’s political bureau, and Sami Oudeh, a commander.
-
-“Mushtaha was one of Hamas’ most senior operatives and had a direct impact on decisions relating to Hamas’ force deployment,” said the military in a statement.
-
-The military called Mushtaha the “right-hand man” to Hamas’s top leader Yahya Sinwar.
-
-In 2015, the US State Department had designated Mushtaha as a “specially designated global terrorist”.
-
-The European Council on Foreign Relations described Mushtaha as a member of Hamas’s Gaza politburo who also oversaw its financial affairs.
-
-...
-
-[Data](articles/0e6aec76.json)
-
-[Extended Data](ext_articles/0e6aec76.ext.json)
-
----
-
-### Man dies after his arms repaired
-
-*2024-10-03 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201814) · `si`
-
-Student dies after bus crushes him during repair lesson. 17-year-old Chamaka Prabath Fernando killed when bus falls on him. Driver arrested. Victim was talented automotive student from economically struggling family.
-
-🟩
-
-A student who was studying the car techniques in the vehicle, a newspaper was subjected to the bus.
-
-Anamaduwa Police say that a student who was admitted to the Anamaduwa Base Hospital after being admitted to the Anamaduwa Industrial College, Anamaduwa Technical College.
-
-The victim is Chamaka Prabath Fernando, a 17-year-old student from the Mahawewa area in Anamaduwa.
-
-The student had been submerged by the bus, which was suddenly driven by the ground on the ground, suddenly driven by the bus.
-
-The victim has died after being admitted to the Anamaduwa Hospital.
-
-The eldest child, who was weighing his family with the aim of winning his life in the middle of severe economic hardship, was the oldest child.
-
-His care of his father and his mother, and younger brother, had lived in a charmic rental home.
-
-The teachers of the Technical College say that the charmic car technique is a student of its unique talent and said that he was planning to recruit for a job in the company.
-
-...
-
-[Data](articles/935ffc66.json)
-
-[Extended Data](ext_articles/935ffc66.ext.json)
 
 ---

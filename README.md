@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 22:12:58**
+As of **2024-10-04 22:24:32**
 
 ## Newspaper Stats
 
-*Scraped **47,826** Articles*
+*Scraped **47,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,923
 dailyftlk | 3,222
 adalk | 4,425
 dailymirrorlk | 4,733
-adaderanalk | 5,629
+adaderanalk | 5,630
 tamilmirrorlk | 6,448
 virakesarilk | 7,653
-adaderanasinhalalk | 8,276
+adaderanasinhalalk | 8,277
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,826 (100.0%) of 47,826 articles have been extended.
+47,828 (100.0%) of 47,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Dilith says it is a powerful opposition after the general election
+
+*2024-10-04 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201856) · `si`
+
+Dilith Jayaweera leads opposition after general election. Key appointments made in Motherland People's Party. Aims for main opposition status. Focuses on grassroots engagement rather than targeting PM position.
+
+🟩
+
+The leading entrepreneral Diliva Dilitian Diliva Dilith Jayaweera says the objective of the motherland has been instrumental after the coming opposition after the next General Election.
+
+Meanwhile, the 'Field Organization', the Chairman of Ananda Deasaging, joined the Mawlandi People's Party (04).
+
+Accordingly, Ananda Divaasanha was appointed as the Kegalle District Organizer and Deraniyagala electoral organizer of the Motherland People's Party.
+
+"Leiman-Youth Organization" of the Thand Entrepreneurs Sanjaya Weerasinghe was appointed as the Kegalle District Programminist secretary of the Motherland People's Party and Kegalle District Coordinator.
+
+The Colombo district leader Thushara Weerasinghe was presented to the Colombo District Programmarks of the Motherland People's Party.
+
+Meanwhile, entreprenerific Priyadenaging Bentarachchi joined the Motherland People's Party today.
+
+Speaking further, the leader, leader Dilith Jayaweera said,
+
+...
+
+[Data](articles/d7f8f297.json)
+
+[Extended Data](ext_articles/d7f8f297.ext.json)
+
+---
+
+### Sri Lanka announces successful completion of OCC and IMF consultation process
+
+*2024-10-04 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102456/sri-lanka-announces-successful-completion-of-occ-and-imf-consultation-process) · `en`
+
+The Ministry of Finance stated that Sri Lanka has successfully completed consultations with the Official Creditor Committee (OCC) and the International Monetary Fund (IMF).
+
+“The Democratic Socialist Republic of Sri Lanka is pleased to announce that, following the Agreement in Principle (AIP) reached with representatives of its international and local holders of International Sovereign Bonds (ISBs) on 19th September 2024, the Sri Lankan authorities have now completed their consultations with Sri Lanka’s Official Creditor Committee (OCC) and the IMF regarding the compliance of the AIP terms with the Comparability of Treatment (CoT) principle and the parameters of Sri Lanka’s IMF-supported program,” the Finance Ministry said today (04).
+
+Sri Lanka is pleased to report that formal confirmation has been received from the OCC that the terms of the AIP, as it stands, are compatible with the CoT principle, the statement said.
+
+...
+
+[Data](articles/0256c976.json)
+
+[Extended Data](ext_articles/0256c976.ext.json)
+
+---
 
 ### All controversial criminal investigators resume
 
@@ -2393,57 +2441,5 @@ Since inflows come from areas other than merchandise exports, like tourism or re
 [Data](articles/c7768ec1.json)
 
 [Extended Data](ext_articles/c7768ec1.ext.json)
-
----
-
-### The nomination process is the beginning of today
-
-*2024-10-04 08:17:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பு-மனு-கையேற்பு-இன்று-முதல்-ஆரம்பம்/175-344907) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Nominations open until 12 noon on 11th. Election Commission announcement marks start of process. Candidates have limited time to submit applications.
-
-🟩
-
-Accordingly, the Elections Commission said that nominations can be submitted until 12 noon on the 11th of this month.. (A)
-
-◼️
-
-[Data](articles/95428d84.json)
-
-[Extended Data](ext_articles/95428d84.ext.json)
-
----
-
-### Progress of controversial investigations
-
-*2024-10-04 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201826) · `si`
-
-Police discuss ongoing investigations, focus on delays and unnecessary probes. Acting IGP and CID officials attend meeting.
-
-🟩
-
-The Police Media Division said that a special discussion was held yesterday (3) at the Police Headquarters yesterday.
-
-The discussion has been called to look into the progress of various investigations on crimes, frauds and other special crimes in the country.
-
-The acting IGP Priyantha Weerasuriya and senior officials of the CID and senior officials of the CID were also present.
-
-The most attention focused on whether the investigations are being carried out by the investigation, what are the temporarily suspended.
-
-Meanwhile, special attention is also paid to what is unnecessary investigations and newly delayed investigations.
-
-The police said that investigations were delayed and discussed what they were.
-
-The Police Media Division added that there is a number of important investigations.
-
-◼️
-
-[Data](articles/94cb1809.json)
-
-[Extended Data](ext_articles/94cb1809.ext.json)
 
 ---

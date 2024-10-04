@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 00:56:10**
+As of **2024-10-05 01:08:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,278
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,856 (100.0%) of 47,861 articles have been extended.
+47,859 (100.0%) of 47,861 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -204,6 +204,8 @@ In this era where a system change in the political culture in Sri Lanka is dawni
 
 [Data](articles/9cab8ff7.json)
 
+[Extended Data](ext_articles/9cab8ff7.ext.json)
+
 ---
 
 ### Role of research providers for building climate-smart and resilient food systems
@@ -215,6 +217,8 @@ There is a need to transform food systems in the face of the climate crisis and 
 ...
 
 [Data](articles/b5672bb5.json)
+
+[Extended Data](ext_articles/b5672bb5.ext.json)
 
 ---
 
@@ -229,6 +233,8 @@ A fair, stable and prosperous Sri Lanka must be a nation that is relentless in i
 ...
 
 [Data](articles/3dfd54ab.json)
+
+[Extended Data](ext_articles/3dfd54ab.ext.json)
 
 ---
 

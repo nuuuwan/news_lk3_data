@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 09:12:11**
+As of **2024-10-04 09:23:30**
 
 ## Newspaper Stats
 
-*Scraped **47,712** Articles*
+*Scraped **47,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 470
 colombotelegraphcom | 473
-islandlk | 2,808
+islandlk | 2,809
 economynextcom | 2,918
 dailyftlk | 3,222
-adalk | 4,412
+adalk | 4,415
 dailymirrorlk | 4,733
 adaderanalk | 5,607
-tamilmirrorlk | 6,433
+tamilmirrorlk | 6,434
 virakesarilk | 7,632
 adaderanasinhalalk | 8,247
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,712 (100.0%) of 47,712 articles have been extended.
+47,712 (100.0%) of 47,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### அமைச்சர்களின் பங்களாக்களில் தளபாடங்கள் குவிப்பு
+
+*2024-10-04 09:01:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சர்களின்-பங்களாக்களில்-தளபாடங்கள்-குவிப்பு/175-344908) · `ta`
+
+பல முன்னாள் அமைச்சர்களுக்கு கொழும்பில் வழங்கப்பட்ட அரச பங்களாக்களில் பல நிறுவனங்களின் உடைமைகள் நிறைந்திருப்பதாக தெரிவிக்கப்படுகின்றது.
+
+சம்பந்தப்பட்ட நிறுவனங்களுக்கு பொருட்களை மீண்டும் வழங்கும் வரை, இந்த பங்களாக்களை அரசால் ஏற்றுக்கொள்வது தாமதமாகி வருவதாகவும் தெரிவிக்கப்படுகின்றது.
+
+இதனால், பொருட்களை உடனடியாக ஏற்றுக்கொள்ளுமாறு அமைச்சு சம்பந்தப்பட்ட நிறுவனங்களுக்கு எழுத்து மூலம் அறிவித்துள்ளது.
+
+அமைச்சர்கள் பலர் பல அரசாங்க நிறுவனங்களை வைத்திருப்பதால், அந்த ஒவ்வொரு நிறுவனங்களிலிருந்தும் நாற்காலிகள், மேஜைகள், தொலைக்காட்சிகள் போன்ற தளபாடங்களை அவர்கள் அரச  பங்களாக்களுக்கு கொண்டு வந்ததாக கூறப்படுகிறது.
+
+முன்னாள் அமைச்சர்களுக்கு வழங்கப்பட்ட அரச பங்களாக்களில் இதுவரை பத்து பங்களாக்கள் மட்டுமே கையளிக்கப்பட்டுள்ளதாக அமைச்சு வட்டாரங்கள் தெரிவித்தன. R
+
+◼️
+
+[Data](articles/1900f99d.json)
+
+---
 
 ### The nomination process is the beginning of today
 
@@ -215,6 +235,22 @@ The Department of Meteorology has advised the public to take steps to reduce the
 [Data](articles/2cef360f.json)
 
 [Extended Data](ext_articles/2cef360f.ext.json)
+
+---
+
+### බදු නිසා පීඩාවට පත් ජනතාවට සහන
+
+*2024-10-04 07:24:16* · [`adalk`](https://www.ada.lk/breaking_news/බදු-නිසා-පීඩාවට-පත්-ජනතාවට-සහන/11-412305) · `si`
+
+IMF ඉලක්ක සපුරා ගැනීම සහ  ජනතාව වෙත වන පීඩනය ලිහිල් කිරීම සඳහා වන විකල්ප විසඳුම් වෙනුවෙන් පෙනී සිටින බව ජනපති යළි තහවුරු කරයි
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ආසියා පැසිෆික් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ක්‍රිෂ්ණ ශ්‍රීනිවාසන් (Krishna Srinivasan), ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී ආචාර්ය පීටර් බ්‍රෙයර් (Dr. Peter Breuer) යන මහත්වරු ඇතුළු ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ නියෝජිත පිරිසක් අද (03) ජනාධිපති කාර්යාලයේ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු වී විශේෂ සාකච්ඡාවක නිරත විය.
+
+මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ, මහා භාණ්ඩාගාර ලේකම් මහින්ද සිරිවර්ධන, ආචාර්ය හර්ෂණ සූරියප්පෙරුම සහ  ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශකවරුන් වන මහාචාර්ය අනිල් ජයන්ත හා දුමින්ද හුලංගමුව යන මහත්වරුන් ඇතුළු ශ්‍රී ලංකාවේ ප්‍රධාන නිලධාරීන් පිරිසක්ද සහභාගී වු මෙම හමුවේ දි ජාත්‍යන්තර මූල්‍ය අරමුදල සහ ශ්‍රී ලංකාව අතර මේ වන විට ක්‍රියාත්මක වැඩසටහනේ
+
+...
+
+[Data](articles/16ab67c2.json)
 
 ---
 
@@ -739,6 +775,20 @@ Ipaci 1st day share. With the help of Raja Dilakasan and the Blessings of the Si
 [Data](articles/c012ae20.json)
 
 [Extended Data](ext_articles/c012ae20.ext.json)
+
+---
+
+### Eva leads national effort to raise awareness on menstrual health
+
+*2024-10-04 01:54:00* · [`islandlk`](http://island.lk/eva-leads-national-effort-to-raise-awareness-on-menstrual-health/) · `en`
+
+Eva, the leading sanitary napkin brand in Sri Lanka, partnered with the Ministry of Education, Sri Lanka Police and Team Hero Foundation to launch a transformative educational initiative titled “Eva Danamuthu Daru – Danagenama Lokuwemu” under the national program “Magaharunu Padama.” The “Eva Danamuthu Daru – Danagenama Lokuwemu” initiative aims to raise awareness about feminine health, puberty, reproductive health, and menstruation in over 3,000 girls’ schools across the island.
+
+The inauguration of the “Magaharunu Padama” program was held on October 1st in honor of World Children’s Day, graced by the newly appointed Prime Minister, Dr. Harini Amarasuriya, along with other delegates and officials from the Ministry of Education and Sri Lanka Police. This effort is designed to fill the gaps in education about areas often surrounded by stigma and misinformation.
+
+...
+
+[Data](articles/90bf7957.json)
 
 ---
 
@@ -1552,6 +1602,40 @@ Fonseka took 2 wickets for Bangladesh. She was given only 15 points.
 
 ---
 
+### සන්ධානයට ඡන්දය දුන්නත් රනිල් ඉල්ලන්නේ නැතිලු
+
+*2024-10-03 18:46:36* · [`adalk`](https://www.ada.lk/breaking_news/සන්ධානයට-ඡන්දය-දුන්නත්-රනිල්-ඉල්ලන්නේ-නැතිලු/11-412302) · `si`
+
+එක්සත් ජාතික පක්ෂය ප්‍රමුඛව බිහිවන වන සන්ධානයට තමා නායකත්වය ලබා දුන්නද මහ මැතිවරණයට තරග නොකරන බව රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කර තිබේ. ඒ අනුව එක්සත් ජාතික පක්ෂය, ජනාධිපතිවරණයේ දී රනිල් වික්‍රමසිංහ මහතාට සහාය දැක්වූ ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ශ්වයක් සහ ශ්‍රී ලංකා නිදහස් පක්ෂය ඇතුළු පක්ෂ රැසක් එකතුව ඉදිරි මහ මැතිවරණය සඳහා ඉදිරිපත් වීමට නියමිතය.
+
+එක්සත් ජාතික පක්ෂය ප්‍රමුඛ පොදු සන්ධානය ගෑස් සිලින්ඩරය ලකුණෙන් මහ මැතිවරණය සඳහා ඉදිරිපත් වීමට පෙරේදා (02දා) තීරණය කර තිබුණි.
+
+විපක්ෂයේ පුළුල් සන්ධානයක් පිහිටුවීමේ අරමුණින් එක්සත් ජාතික පක්ෂය මුලින් සමගි ජන බලවේගයට ආරාධනා කළ අතර, එම බලවේගය ආරාධනය ප්‍රතික්ෂේප කළේය. අනතුරුව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ නායකත්වයෙන් පොදු සන්ධානයක් පිහිටුවා මහ මැතිවරණයට තරඟ කිරීමට තීරණය කෙරිණි.
+
+◼️
+
+[Data](articles/19c2184e.json)
+
+---
+
+### පොදුජන පෙරමුණ තවම තීරණයක් ගෙන නෑ
+
+*2024-10-03 18:37:30* · [`adalk`](https://www.ada.lk/breaking_news/පොදුජන-පෙරමුණ-තවම-තීරණයක්-ගෙන-නෑ/11-412301) · `si`
+
+එළඹෙන මහ මැතිවරණයේ දී එක් එක් අපේක්ෂකයන් තරග කරන දිස්ත්‍රික්ක හා ඊට අදාළ අවසන් එකඟතා  මේ දක්වා තීරණය කර නොමැති බව ශ්‍රී ලංකා පොදුජන පෙරමුණ  ප්‍රකාශ කළේය.
+
+ඒ අනුව ඉදිරි මහ මැතිවරණය සඳහා එම පක්ෂයේ  ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා කුරුණෑගල දිස්ත්‍රික්කයෙන් තරග කරන බවට පළ කෙරෙන  වාර්තා අසත්‍ය වන බව ඒ මහතා පැවසීය.
+
+ඔහු සඳහන් කර සිටියේ පසුගිය මහ මැතිවරණයේ දී තමන් වැඩිම මනාපයෙන් පාර්ලිමේන්තුවට තෝරාපත් කළ හම්බන්තොට දිස්ත්‍රික්කයේ ජනතාව සමඟ ඉදිරියටත් අඛණ්ඩව දේශපාලනයේ නිරතවන බවයි.
+
+එවැනි පසුබිමක  තමන් කුරුණෑගලින් ඉදිරිපත් වනු ඇතැයි ප්‍රචාරය කිරීම හුදෙක් දේශපාලන වාසිය තකා කළ ජනතාව නොමග යැවීමක් බව රාජපක්ෂ මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/c014d6a4.json)
+
+---
+
 ### Little votes come near
 
 *2024-10-03 18:32:05* · [`adalk`](https://www.ada.lk/breaking_news/පුංචි-ඡන්දයත්-ළඟ-ළඟම-එයි/11-412300) · `si`
@@ -2253,125 +2337,5 @@ President Anura Kumara Dissanayake has been appointed by President Anura Kumara 
 [Data](articles/e09f40d8.json)
 
 [Extended Data](ext_articles/e09f40d8.ext.json)
-
----
-
-### Gates Foundation commits to supporting govt’s digitization projects
-
-*2024-10-03 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/102422/gates-foundation-commits-to-supporting-govts-digitization-projects) · `en`
-
-Mr. Chanditha Samaranayake, independent consultant of the Gates Foundation, met with the Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat this morning (03) and engaged in a discussion.
-
-The Gates Foundation’s projects related to upliftment of agriculture in Sri Lanka, improvement of children’s nutrition including provision of school lunch, development of human resources in the public and private sectors, livestock, climate change etc. were discussed at length, the President’s Media Division (PMD) said.
-
-Mr. Chanditha Samaranayake, who pointed out the importance of digitization for the implementation of the new government’s anti-corruption policy, also said that the Gates Foundation is ready to provide financial, technical and advisory support for the digitization projects implemented by the government.
-
-Senior Additional Secretary to the President Mr. Roshan Gamage also participated in the meeting, the PMD reported.
-
-◼️
-
-[Data](articles/1f652d82.json)
-
-[Extended Data](ext_articles/1f652d82.ext.json)
-
----
-
-### The fertilizer subsidy of Rs. 25,000 could be granted Rs. 25,000
-
-*2024-10-03 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201811) · `si`
-
-Sri Lanka: Govt announces Rs. 25,000 fertilizer subsidy per hectare for paddy farmers. President advises QR code system for purchases. Election impact on subsidy amounts discussed. Direct credit method proposed for farmer accounts.
-
-🟩
-
-Secretary to the Ministry of Agriculture MV launched Rs. 25,000 per hectare for paddy farmers. P. N. M. Mr. Wickremesinghe said today (03).
-
-President Anura Kumara Dissanayake arrived at the Ministry of Agriculture this morning and thereafter a progress review meeting with all officers.. P. N. M. Mr. Wickremasinghe said this.
-
-Secretary, Ministry of Agriculture, Land, Irrigation, Livestock, Fisheries and Aquatic Resources. P. N. M. Mr. Wickremesinghe,
-
-"The President arrived in the Ministry of Agriculture this morning. There was a progress review discussion with all officers. The President advised the farmers to prepare a QR code system when buying fertilizer fertilizer. Then we have information. The same amount will go to the banking system. "
-
-"The problem does not cause the fertilizer subsidy of Rs 25,000. Rs. 15,000 can be made to Rs. 10,000 after the election. I do not see a problem with Rs. 25,000. "
-
-...
-
-[Data](articles/ed68dbc9.json)
-
-[Extended Data](ext_articles/ed68dbc9.ext.json)
-
----
-
-### Demonstration against Child Day Murder
-
-*2024-10-03 16:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவர்-தின-கொலைக்கு-எதிராக-ஆர்ப்பாட்டம்/76-344875) · `ta`
-
-Protesters demand justice after schoolgirl's murder. Students, residents march 5km, over 500 participants.
-
-🟩
-
-Residents of the Nalandawatte area and students of the educated school staged a demonstration in front of the school on Thursday (03) in connection with the brutal murder of a schoolgirl and a group who went to meet his friend's girlfriend.
-
-Students and residents of the area protested for about an hour from the house of the deceased school student to the Kalaimala School, 5 km away from the Kandy -Jaffna A9 road.
-
-The demonstration has been carried out demanding action against the attackers and the death of the student's death.
-
-More than 500 people, including the principal and teachers of the school, participated in the demonstration.
-
-◼️
-
-[Data](articles/b9648e6b.json)
-
-[Extended Data](ext_articles/b9648e6b.ext.json)
-
----
-
-### Demonstration against the murder of Children's Day
-
-*2024-10-03 16:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுவர்-தினத்தன்று-நடத்தப்பட்ட-கொலைக்கு-எதிராக-ஆர்ப்பாட்டம்/76-344875) · `ta`
-
-Protesters demand justice after schoolgirl's murder. Students, residents march 5km, over 500 participants.
-
-🟩
-
-Residents of the Nalandawatte area and students of the educated school staged a demonstration in front of the school on Thursday (03) in connection with the brutal murder of a schoolgirl and a group who went to meet his friend's girlfriend.
-
-Students and residents of the area protested for about an hour from the house of the deceased school student to the Kalaimala School, 5 km away from the Kandy -Jaffna A9 road.
-
-The demonstration has been carried out demanding action against the attackers and the death of the student's death.
-
-More than 500 people, including the principal and teachers of the school, participated in the demonstration.
-
-◼️
-
-[Data](articles/ca0bb7a4.json)
-
-[Extended Data](ext_articles/ca0bb7a4.ext.json)
-
----
-
-### At the hospital 15 female workers targeted for the wasp
-
-*2024-10-03 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195404) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-15 female workers stung by wasps while picking tea leaves in Thalawakelle. 11 hospitalized at Mandarasi Divisional Hospital. Incident occurred on Thursday morning.
-
-🟩
-
-15 people have been admitted to the hospital in the Newfresston section of the Akkarapatana Elpian Estate, Thalawakelle.
-
-The female estate workers were struck by tea on Thursday morning (03).
-
-A spokesman for the hospital said that 11 people were admitted to the Mandarasi Divisional Hospital after being treated at the Mandarasi Divisional Hospital.
-
-◼️
-
-[Data](articles/d40b3dcc.json)
-
-[Extended Data](ext_articles/d40b3dcc.ext.json)
 
 ---

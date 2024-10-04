@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 14:24:10**
+As of **2024-10-04 14:38:44**
 
 ## Newspaper Stats
 
-*Scraped **47,763** Articles*
+*Scraped **47,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 3,222
 adalk | 4,419
 dailymirrorlk | 4,733
 adaderanalk | 5,616
-tamilmirrorlk | 6,442
+tamilmirrorlk | 6,443
 virakesarilk | 7,642
-adaderanasinhalalk | 8,255
+adaderanasinhalalk | 8,256
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,763 (100.0%) of 47,763 articles have been extended.
+47,765 (100.0%) of 47,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Notice on Registration of Workers in Lebanon
+
+*2024-10-04 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201835) · `si`
+
+Sri Lankan worker registration suspended due to family issues. Contact 1989 number for assistance. No immediate danger in Israel/Lebanon. Embassy support available for return. High airfare costs for travel.
+
+🟩
+
+Additional General Manager of International Affairs Gamini Senarath Yapa says that the registration of workers for Lebanon is not done at the moment.
+
+He says that if the relatives of the country are a problem with their relatives, it is possible to contact the 1989 number.
+
+He said:
+
+"There is no danger to any Sri Lankan working in Israel or Lebanon. The Israeli government has set limits. Everyone has to adapt to the safety opportunities.
+
+The relatives of the country have the potentially problem with their relatives, and talk to the 1989 number to us.
+
+If workers are hired for Lebanon, registration is not carried out at the moment. If any Sri Lankan wants to come to Sri Lanka at this moment, they have the ability to contact the embassies. Sri Lanka is capable of coming through Middle East. But the airline fees are high. Because demand is more ".
+
+◼️
+
+[Data](articles/f37dc6de.json)
+
+[Extended Data](ext_articles/f37dc6de.ext.json)
+
+---
+
+### Meeting of Foreign and Foreign Ministers
+
+*2024-10-04 14:12:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிவிவகார-வெளியுறவுத்துறை-அமைச்சர்கள்-சந்திப்பு/175-344917) · `ta`
+
+Dr. Subramaniam Jaishankar met Sri Lankan Foreign Minister Vijitha Herath during his official visit to Sri Lanka. They discussed key issues between India and Sri Lanka.
+
+🟩
+
+Indian External Affairs Minister Dr. Subramaniam Jaishankar, who has arrived in Sri Lanka on an official visit to Sri Lanka, held talks with Sri Lankan Foreign Minister Vijitha Herath.
+
+◼️
+
+[Data](articles/5553ca14.json)
+
+[Extended Data](ext_articles/5553ca14.ext.json)
+
+---
 
 ### An elderly couple cut into a house
 
@@ -2247,49 +2293,5 @@ Cigarettes have been recovered during the Mannar Special Task Force (STF), based
 [Data](articles/f11336f8.json)
 
 [Extended Data](ext_articles/f11336f8.ext.json)
-
----
-
-### Sri Lanka new govt to provide VAT, income tax relief, AKD tells IMF
-
-*2024-10-03 20:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-to-provide-vat-income-tax-relief-akd-tells-imf-182214/) · `en`
-
-ECONOMYNEXT – Sri Lanka government is planning to provide income and Value Added Tax (VAT) relief to the people who are struggling, President Anura Kumara Dissanayake has told the International Monetary Fund (IMF) officials.
-
-President Dissanayake discussed the progress of Sri Lanka’s on-going IMF programme with the global lender’s delegation including Director of the Asia Pacific Department, Krishna Srinivasan and Senior Mission Chief Peter Breuer.
-
-“President Dissanayake reaffirmed the government’s broad agreement in principle with the objectives of the IMF programme but emphasized the importance of achieving these objectives through alternative means that relieves the burden off the people,” the President Media Division said in a statement.
-
-“The President stated that the government plans to provide relief to those who are struggling due to high VAT and income taxes.”
-
-...
-
-[Data](articles/4795e526.json)
-
-[Extended Data](ext_articles/4795e526.ext.json)
-
----
-
-### A special scheme for children who do not have a birth certificate
-
-*2024-10-03 20:32:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிறப்புச்-சான்றிதழ்-இல்லாத-குழந்தைகளுக்கான-விஷேட-திட்டம்/175-344882) · `ta`
-
-Special scheme for children without birth certificates. National implementation by Department of Probation and Child Care Services and Registrar General. Free birth certificates issued to address difficulties faced by many children.
-
-🟩
-
-பிறப்புச் சான்றிதழ் இல்லாத குழந்தைகளுக்கான பிறப்புச் சான்றிதழ் வழங்கும் வேலைத்திட்டம் நாடளாவிய ரீதியில் அமுல்படுத்தப்பட்டு வருவதாக அரசாங்க தகவல் திணைக்களம் தெரிவித்துள்ளது.
-
-The purpose of this program is to identify children who do not have birth certificates nationwide and provide certificates by the Department of Probation and Child Care Services and Registrar General.
-
-The program has been implemented as it has been reported that a significant number of children are facing various difficulties without a birth certificate.
-
-The Government Information Department said that the birth certificates issued through this program will not be charged.. Remble
-
-◼️
-
-[Data](articles/bb383539.json)
-
-[Extended Data](ext_articles/bb383539.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 19:11:00**
+As of **2024-10-04 19:23:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,809 (100.0%) of 47,816 articles have been extended.
+47,816 (100.0%) of 47,816 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,53 +44,77 @@ Furthermore, the Defence Ministry stated that they will be returned pending a re
 
 [Data](articles/0d31daac.json)
 
+[Extended Data](ext_articles/0d31daac.ext.json)
+
 ---
 
-### ආරක්ෂක අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+### Ministry of Defense
 
 *2024-10-04 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201851) · `si`
 
-ස්වයං ආරක්ෂාව සඳහා පුරවැසියන්ට නිකුත් කර ඇති සියලූම ගිනිඅවි සහ උණ්ඩ නැවත ලබාගැනීමට ආරක්ෂක අමාත්‍යාංශය තීරණය කර තිබේ.
+Here's a 200-character summary:
 
-ඒ අනුව එම ගිනිඅවි සහ උණ්ඩ නොවැම්බර් 7 වන දාට පෙර නැවත භාරදිය යුතු වේ.
 
-ආරක්ෂක අමාත්‍යාංශය පවසන්නේ, එම පුද්ගලයින්ට ගිනිඅවි සමාලෝචනයකින් සහ අවශ්‍යතාවය කුමක්දැයි සොයා බැලීමෙන් අනතුරුව නැවත ලබාදීමට නියමිත බවය.
+
+"Ministry of Defense orders return of all citizen-issued firearms and ammunition by Nov 7. Those returning weapons must undergo a firearm review."
+
+🟩
+
+The Ministry of Defense has decided to recover all firearms and ammunition issued to citizens for self-protection.
+
+Accordingly, those firearms and ammunition should be resurrected before November 7.
+
+The Ministry of Defense states that those persons are due to be returned with a firearm review and the need.
 
 ◼️
 
 [Data](articles/7c2d7ede.json)
 
+[Extended Data](ext_articles/7c2d7ede.ext.json)
+
 ---
 
-### IMF නියෝජිත කණ්ඩායමෙන් නිවේදනයක්
+### An announcement from the IMF delegation
 
 *2024-10-04 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201850) · `si`
 
-මෙරට සංචාරය කළ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත කණ්ඩායම අද (04) සිය සංචාරය නිම කිරීමෙන් අනතුරුව නිවේදනයක් නිකුත්කර තිබේ.
+IMF delegation visits Sri Lanka, discusses economic reforms. Asia-Pacific Director commends government efforts, expresses readiness to support economic goals. Team to set date for third review.
 
-IMFහි ආසියා - පැසිෆික් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ක්‍රිෂ්ණා ශ්‍රීනිවාසන් එම නියෝජිත පිරිසේ ප්‍රධානියා ලෙස කටයුතු කළේය.
+🟩
 
-ඔහු පවසන්නේ, "අපි ජනාධිපති දිසානායක සහ ශ්‍රී ලංකා ආර්ථික කණ්ඩායම සමග ශ්‍රී ලංකා ආර්ථිකය මුහුණදී තිබෙන ආර්ථික සහ මූල්‍ය අභියෝග සම්බන්ධයෙන් ඵලදායී සාකච්ඡා පැවැත්වුවා. ශ්‍රී ලංකාව 2022දී මුහුණදුන් දරුණු ආර්ථික ආර්බුදයෙන් අනතුරුව අපහසුවෙන් ලබාගත් ජයග්‍රහණ තවදුරටත් ආරක්ෂාකර ගනිමින් ඉදිරියට යාමේ වැදගත්කම සම්බන්ධයෙන් අපි එකඟ වුණා."
+The International Monetary Fund delegation visited Sri Lanka has issued a statement today (04) after completing his visit.
 
-"ප්‍රතිසංස්කරණ ප්‍රයත්නයන් සම්බන්ධයෙන් බලධාරීන්ගේ කැපවීම අපව දිරිමත් කරයි. ජාත්‍යන්තර මූල්‍ය අරමුදල ශ්‍රී ලංකාවට සහ එහි ජනතාවට සහාය දැක්වීමේ ස්ථීර හවුල්කරුවෙකු වන අතර රටේ ආර්ථික ප්‍රතිසංස්කරණ ඉලක්ක සපුරා ගැනීමට සහායවීමට සූදානමින් සිටියි. ජාත්‍යන්තර මූල්‍ය අරමුදලේ සහාය ලබන වැඩසටහනේ තුන්වන සමාලෝචනය සඳහා දිනයක් නියම කිරීම සඳහා IMF කණ්ඩායම ශ්‍රී ලංකාවේ ආර්ථික කණ්ඩායම සමඟ සමීප සබඳතාවයක් පවත්වාගෙන යයි."
+Asia-Pacific Director, Director of the Asia-Pacific, was the head of the delegation.
+
+He says, "We held effective discussions with the Sri Lankan economy with the Sri Lankan economy with the Sri Lankan economy and the Sri Lankan economy.. After Sri Lanka faced the most economical Economic and the victorious victories taken in 822, we agreed to protect the victories. "
+
+"The commitment of the authorities in reform efforts encourages us. The International Monetary Fund is a permanent partner to support Sri Lanka and its people and is ready to assist in achieving the country's economic reform goals. The IMF team maintains a close relationship with Sri Lanka's economic group to set a date for the third review of the International Monetary Fund. "
 
 ◼️
 
 [Data](articles/3e3106b3.json)
 
+[Extended Data](ext_articles/3e3106b3.ext.json)
+
 ---
 
-### නිදහස් පක්ෂයේ නිමල් සිරිපාල ඇතුළු පිරිසක් ගෑස් සිලින්ඩරයෙන් එයි
+### Freedom Party Nimal Siripala and several others come from gas cylinder
 
 *2024-10-04 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201849) · `si`
 
-එළඹෙන මහ මැතිවරණය සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂයේ නිමල් සිරිපාල පාර්ශ්වය ගෑස් සිලින්ඩරය ලකුණින් තරග කිරීමට තීරණ කර තිබේ.
+Nimal Siripala de Silva, former minister, announces meeting Gas Cylinder mark for general election today afternoon. Freedom Party and SLFP members involved.
 
-මේ බව අද (04) පස්වරුවේ හිටපු අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා පැවසීය.
+🟩
+
+The SLFP Nimal Siripala has decided to meet the Gas Cylinder mark for the coming general election.
+
+Former minister Nimal Siripala de Silva said this will be held this afternoon.
 
 ◼️
 
 [Data](articles/b2e0cfae.json)
+
+[Extended Data](ext_articles/b2e0cfae.ext.json)
 
 ---
 
@@ -167,6 +191,8 @@ During the visit, Mr. Srinivasan met with President Dissanayake, Prime Minister 
 ...
 
 [Data](articles/96ceda64.json)
+
+[Extended Data](ext_articles/96ceda64.ext.json)
 
 ---
 

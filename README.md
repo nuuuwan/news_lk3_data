@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 09:58:05**
+As of **2024-10-04 10:11:27**
 
 ## Newspaper Stats
 
-*Scraped **47,717** Articles*
+*Scraped **47,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ colombotelegraphcom | 473
 islandlk | 2,809
 economynextcom | 2,918
 dailyftlk | 3,222
-adalk | 4,415
+adalk | 4,416
 dailymirrorlk | 4,733
-adaderanalk | 5,607
+adaderanalk | 5,608
 tamilmirrorlk | 6,434
 virakesarilk | 7,632
-adaderanasinhalalk | 8,247
+adaderanasinhalalk | 8,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,717 (100.0%) of 47,717 articles have been extended.
+47,721 (100.0%) of 47,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Laugfs gas prices to remain unchanged
+
+*2024-10-04 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102431/laugfs-gas-prices-to-remain-unchanged) · `en`
+
+Laugfs Gas PLC announced that the company will not revise domestic LP gas prices for the month of October.
+
+This was communicated by the Cluster Director/CEO of Laugfs Gas PLC, Dr. Niroshan J Peiris.
+
+Meanwhile, the Litro Gas Company had also announced that the prices of domestic LP Gas will remain unchanged for the month of October 2024.
+
+Issuing an announcement on Tuesday (Oct. 01), the newly appointed Litro chairman Channa Gunawardena said that despite the rising LP gas prices in the global market, a decision was taken not to increase the prices of Litro gas in order to provide relief to the consumers.
+
+◼️
+
+[Data](articles/f50659cc.json)
+
+[Extended Data](ext_articles/f50659cc.ext.json)
+
+---
+
+### Notice of LAUGFS Gas Prices
+
+*2024-10-04 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201828) · `si`
+
+Here's a 200-character summary:
+
+
+
+"LAUGFS Gas Notice: No domestic gas price revision for October."
+
+🟩
+
+Laugfs says that no domestic gas is not revised for the month of October.
+
+◼️
+
+[Data](articles/d806d7b1.json)
+
+[Extended Data](ext_articles/d806d7b1.ext.json)
+
+---
+
+### Together murdered the led drinks
+
+*2024-10-04 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201827) · `si`
+
+Two men killed in brawl over drinks in Sri Lanka. Police arrest one suspect. Murder occurred during heated argument. Victim, 39, died from injuries.
+
+🟩
+
+Police said that a person had been killed by a heavy assault between two people who were drinking a heated argument in the Rambukkana and Gabbaru.
+
+The other person was attacked with a sharp object, and he died in admission to the Talampitiya Hospital.
+
+The deceased is a 39 year old resident of Kotwella, police said.
+
+Investigations have revealed that the murder had been carried out due to a heated argument while drinking.
+
+The 33 year old Gabbar, Gabbar, Kotawella residents of the murder of the assassination was also arrested.
+
+◼️
+
+[Data](articles/141e0138.json)
+
+[Extended Data](ext_articles/141e0138.ext.json)
+
+---
 
 ### Furniture accumulation in ministers' bungalows
 
@@ -1526,6 +1594,32 @@ The driver of the bus has been arrested in connection with the accident and the 
 
 ---
 
+### Dhanushka says the statement of the cabinet statement is false
+
+*2024-10-03 18:54:02* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-ප්‍රකාශකගේ-ප්‍රකාශය-සාවද්‍ය-බව-ධනුෂ්ක-කියයි/11-412303) · `si`
+
+Dhanushka Ramanayake denies Cabinet statement claims, criticizes Vijitha Herath's comments on Ranil Wickremesinghe's involvement in public enterprises inquiry. Disputes allegations of misleading public and media. Case against 10 individuals ongoing, with appeal to Supreme Court scheduled for January 2025.
+
+🟩
+
+Former Presidential Media Director General Dhanushka Ramanayake says that the statement made by the Cabinet Publisher
+
+Accordingly, as a Minister and Cabinet spokesman, it is inappropriate that it is not inappropriate.
+
+"The statement made by the Cabinet of Ministers Vijitha Herath has been instructed on October 1, the new government's appointment on Oct.
+
+The fact that the people and the entire masses have been misled by the fact that the masses, including media institutions, are misleading.
+
+Prime Minister Ranil Wickremesinghe appointed the Parliamentary Select Committee of the Public Enterprises to the then Prime Minister Ranil Wickremesinghe.. Thereafter an inquiry by the Presidential Commission of Inquiry and the Presidential Commission of Penstewealth was conducted by the then Presidential Commission of Inquiry and the Prime Minister Hon. Prime Minister Hon.
+
+...
+
+[Data](articles/97df6018.json)
+
+[Extended Data](ext_articles/97df6018.ext.json)
+
+---
+
 ### “The conch is our symbol: Jump in Colombo”
 
 *2024-10-03 18:50:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சங்கு-எங்கள்-சின்னம்-கொழும்பிலும்-குதிப்போம்/175-344879) · `ta`
@@ -2283,93 +2377,5 @@ According to the statement, the Gates Foundation’s projects related to upliftm
 [Data](articles/3d41dddd.json)
 
 [Extended Data](ext_articles/3d41dddd.ext.json)
-
----
-
-### SLFP to form alliance to contest General Election?
-
-*2024-10-03 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102423/slfp-to-form-alliance-to-contest-general-election) · `en`
-
-Mahinda Amaraweera says that the Sri Lanka Freedom Party (SLFP) is yet to take a final decision on how it will contest the General Election.
-
-He mentioned that they are also considering forming an alliance with several other parties for the upcoming General Election.
-
-Amaraweera made these comments while speaking to the media when he arrived to participate in a discussion held at the SLFP’s headquarters regarding the General Election.
-
-◼️
-
-[Data](articles/98671fe2.json)
-
-[Extended Data](ext_articles/98671fe2.ext.json)
-
----
-
-### President receives a message to public servants
-
-*2024-10-03 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201812) · `si`
-
-President Anura Kumara Dissanayake addresses public servants, emphasizing efficiency and protection from political retaliation. He highlights the Ministry of Agriculture's role in combating rural poverty and calls for effective public service during a 40-day transition period. The President also hints at post-election ministerial appointments and criticizes media portrayals of government officials.
-
-🟩
-
-President Anura Kumara Dissanayake says he is appearing for public servants who are dedicated to the creation of an efficient populist public service.
-
-The President added that the proportional traditional political retaliations will not be faced with the government officials who work on behalf of the citizen.
-
-President Anura Kumara Dissanayake made this statement at the discussion with the Ministry officials following the Ministry of Agriculture at the Ministry of Agriculture (03) as Minister of Agriculture.
-
-The President pointed out that the role assigned to the Ministry of Agriculture is determined whether it will be eliminated to eliminate rural poverty.
-
-President Anura Kumara Dissanayake said that the present public servant is required to create an effective and efficient public service to satisfy the citizen.
-
-President Anura Kumara Dissanayake said that the next 40-day will be a transition period and the public servant should take action to run the state service.
-
-...
-
-[Data](articles/ce30449f.json)
-
-[Extended Data](ext_articles/ce30449f.ext.json)
-
----
-
-### Sri Lanka’s CMG appoints Srinivasan as CEO
-
-*2024-10-03 16:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-cmg-appoints-srinivasan-as-ceo-182162/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Capital Maharaja Group (CMG), which has interests in media business to manufacturing, has appointed Suresh Srinivasan as the new Group Director and Chief Executive Officer (CEO), the company said.
-
-Srinivasan, an accomplished business leader with over three decades of experience, succeeds Sunil Kanojia, who navigated the group in one of the most challenging periods from 2019 to 2024.
-
-“With Suresh Srinivasan at the helm, the future looks bright as the Group embarks on its journey towards a historic centenary,” the CMG said in a statement.
-
-Srinivasan, is an expert in spanning manufacturing, industrial relations, supply chain, sales & marketing, and business turnarounds.
-
-He has revitalized underperforming Parry Sugars Refinery India to a 100% export-oriented business, from a significant loss-making entity within two years.
-
-...
-
-[Data](articles/2e9b5cbf.json)
-
-[Extended Data](ext_articles/2e9b5cbf.ext.json)
-
----
-
-### New Secretary to the Ministry of Public Administration
-
-*2024-10-03 16:17:44* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-පරිපාලන-අමාත්‍යාංශයට-නව-ලේකම්වරයෙක්/11-412290) · `si`
-
-Mr. Bhak Bandara appointed as New Secretary to Ministry of Public Administration. President Anura Kumara Dissanayake made the appointment. Letter handed over at Presidential Secretariat on March 3rd.
-
-🟩
-
-Public Administration, Home Affairs Ministry of Local Government and Ministry of Labor. Mr. Bhak Bandara has been appointed.
-
-President Anura Kumara Dissanayake has been appointed by President Anura Kumara Dissanayake and the appointment letter has been handed over to him at the Presidential Secretariat today (03).
-
-◼️
-
-[Data](articles/e09f40d8.json)
-
-[Extended Data](ext_articles/e09f40d8.ext.json)
 
 ---

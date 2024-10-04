@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 11:58:42**
+As of **2024-10-04 12:13:44**
 
 ## Newspaper Stats
 
-*Scraped **47,739** Articles*
+*Scraped **47,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ colombotelegraphcom | 473
 islandlk | 2,809
 economynextcom | 2,921
 dailyftlk | 3,222
-adalk | 4,417
+adalk | 4,418
 dailymirrorlk | 4,733
-adaderanalk | 5,612
+adaderanalk | 5,613
 tamilmirrorlk | 6,436
 virakesarilk | 7,639
-adaderanasinhalalk | 8,250
+adaderanasinhalalk | 8,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,739 (100.0%) of 47,739 articles have been extended.
+47,742 (100.0%) of 47,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Nominations for general election begins
+
+*2024-10-04 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201830) · `si`
+
+General election nominations begin today. 22 electoral districts open. Nominations close Oct 11 at noon. No demonstrations allowed after deadline.
+
+🟩
+
+The acceptance of nominations regarding the general election was held today (04).
+
+The activities began at twenty two electorates.
+
+Sri Lanka's parliament consists of 225 members, of which 196 of them are electronic 22 electoral districts.
+
+The 29 members are selected from the National List, according to the percentage of votes obtained by each political parties and independent groups.
+
+The acceptance of nominations will end at 12 noon on October 11.
+
+The Election Commission says that the demonstration of the acceptance of nominations is prohibited on the end of the end of the nomination.
+
+◼️
+
+[Data](articles/e16f50e3.json)
+
+[Extended Data](ext_articles/e16f50e3.ext.json)
+
+---
+
+### Sri Lanka keen to step up co-operation in potential areas with Vietnam
+
+*2024-10-04 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102436/sri-lanka-keen-to-step-up-co-operation-in-potential-areas-with-vietnam) · `en`
+
+Sri Lanka aspires to boost ties with Vietnam, especially in areas of great potential, said Sri Lankan Prime Minister Harini Amarasuriya at a reception held on October 3 for Vietnamese Ambassador to Sri Lanka Trinh Thi Tam.
+
+At the meeting, the Vietnamese Ambassador said that both nations have enjoyed sound relations between their parties, states, and parliaments, setting out hope that the two sides will intensify mutual visits and contacts at a high level.
+
+This is along with accelerating the implementation of bilateral co-operation mechanisms and expanding collaboration across potential areas such as tourism, culture, education and agriculture  to encourage people-to-people exchanges.
+
+Other efforts include continuing ties of traditional co-operation and support for each other at multilateral forums, including the UN, as they will celebrate the 55th anniversary of their diplomacy next year.
+
+...
+
+[Data](articles/3e4ac69e.json)
+
+[Extended Data](ext_articles/3e4ac69e.ext.json)
+
+---
 
 ### Tendon
 
@@ -689,6 +737,36 @@ The Department of Meteorology has advised the public to take steps to reduce the
 [Data](articles/2cef360f.json)
 
 [Extended Data](ext_articles/2cef360f.ext.json)
+
+---
+
+### World Bank says the front is a challenge
+
+*2024-10-04 07:30:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරිය-අභියෝගයක්-බව-ලෝක-බැංකුව-කියයි/11-412306) · `si`
+
+UN Resident Coordinator praises Sri Lanka's President Anura Kumara Dissanayake's anti-corruption efforts and commitment to community trust. Challenges ahead with IMF support.
+
+🟩
+
+President of Sri Lanka's Coordinating President Anura Kumara Dissanayake
+
+Sri Lanka's Coordinator Mark-André Franche (03) found President Anura Kumara Dissanayake at the Presidential Secretariat yesterday (03).
+
+The United Nations Resident Coordinator presented to President Anura Kumara Dissanayake, the support of the United Nations General Secretary Antonio Gutreres.
+
+Mark Andrew evaluated the moral character of President Anura Kumara Dissanayake at the last Presidential Election and the election policy statement.
+
+The residence copyright assured that the next period would be challenging with the International Monetary Fund with the International Monetary Fund.
+
+Mark Andrew praised the anti-corruption program of President Anura Kumara Dissanayake, he said.
+
+The Resident Coordinator also commended the President's commitment to enhance the trust among different groups among the community, and the resident coordinator of the resident co-ordained to promote sustainable peace in the country.He said.
+
+◼️
+
+[Data](articles/59c0ee34.json)
+
+[Extended Data](ext_articles/59c0ee34.ext.json)
 
 ---
 
@@ -2267,73 +2345,5 @@ But on September 29, she served in the Nadeeshani's replication factory, Nadeesh
 [Data](articles/6497bef2.json)
 
 [Extended Data](ext_articles/6497bef2.ext.json)
-
----
-
-### The 49th commemoration of the great leader Kamarajar
-
-*2024-10-03 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195422) · `ta`
-
-Here's a 200-character summary of the event:
-
-
-
-49th Kamarajar commemoration in Colombo. Global Memorial Forum at Methodist Tamil Vidyalaya. Chairman Amirtham Jayakumar led event. Teachers, students participated.
-
-🟩
-
-The Global Kamarajar Memorial Forum on behalf of Sri Lanka was held at the 13th Methodist Tamil Vidyalaya, Colombo on behalf of Sri Lanka.
-
-Forum Chairman Amirtham Jayakumar and Mrs.. Teachers and students participated in the event.
-
-◼️
-
-[Data](articles/c3d21da1.json)
-
-[Extended Data](ext_articles/c3d21da1.ext.json)
-
----
-
-### How says the compass will win the general election
-
-*2024-10-03 18:15:50* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී-මාලිමාව-දිනන-හැටි-උදය-ගණන්-හදලම-කියයි/11-412298) · `si`
-
-Here's a 200-character summary:
-
-
-
-Compass leader predicts winning 120 seats in upcoming parliamentary election. Party claims strong focus on Sri Lankan politics. Presidential election results often influence parliamentary outcomes. Main opposition parties may lose significant vote share, potentially allowing Compass to secure majority.
-
-🟩
-
-The Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Leader of the Serates is the ability to win about one hundred twenty seats in the next parliamentary election.He was speaking at a press conference held at the party headquarters today (October 03, 204).The Leader JHU of the JHU further commented:
-
-...
-
-[Data](articles/df727314.json)
-
-[Extended Data](ext_articles/df727314.ext.json)
-
----
-
-### “The report is worried about lost”
-
-*2024-10-03 17:49:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-தொலைந்தது-கவலையளிக்கிறது/175-344878) · `ta`
-
-Sri Lanka PAP calls for investigation into missing Easter Sunday attack report. Government urged to locate and release PCOI findings.
-
-🟩
-
-The Sri Lanka Peoples Freedom Alliance (PAP) Namal Rajapakse has called on the government to investigate the disappearance of the Presidential Investigation Commission (PCOI) report on Sunday attacks on Easter Sunday 2019.
-
-Gamini Fernando, Director of the Colombo High Commission, Aruttand, has announced that Gamini Fernando has announced that the UK's Channel 4 allegations have not been investigated regarding the attacks.
-
-“It is worrying that the Presidential Commission's report on the investigation of Easter Sunday attacks has disappeared. If it is true, the government should immediately explore its location and make it known to the public, ”he said.
-
-◼️
-
-[Data](articles/a0a117c3.json)
-
-[Extended Data](ext_articles/a0a117c3.ext.json)
 
 ---

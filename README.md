@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 13:39:27**
+As of **2024-10-04 13:58:23**
 
 ## Newspaper Stats
 
-*Scraped **47,759** Articles*
+*Scraped **47,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,922
 dailyftlk | 3,222
 adalk | 4,419
 dailymirrorlk | 4,733
-adaderanalk | 5,614
-tamilmirrorlk | 6,441
+adaderanalk | 5,616
+tamilmirrorlk | 6,442
 virakesarilk | 7,642
 adaderanasinhalalk | 8,254
 
@@ -26,61 +26,123 @@ adaderanasinhalalk | 8,254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,753 (100.0%) of 47,759 articles have been extended.
+47,762 (100.0%) of 47,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
 
-### ජනපති සහ IMF අතර දෙවන දිනටත් සාකච්ඡා
+### President holds talks with IMF team for second day
+
+*2024-10-04 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102441/president-holds-talks-with-imf-team-for-second-day) · `en`
+
+President Anura Kumara Dissanayake has engaged in a discussion with the visiting International Monetary Fund (IMF) delegation at the Presidential Secretariat for the second day today (04).
+
+The President’s Media Division (PMD) said that the discussions were attended by Director of the IMF’s Asia Pacific Department Krishna Srinivasan, Senior Mission Chief Dr. Peter Breuer, along with other senior IMF representatives and the Sri Lankan delegation.
+
+President Dissanayake aims to achieve the objectives of the program in partnership with the IMF, seeking alternative approaches that will alleviate the burden on the citizens, the PMD added.
+
+The President had also met with the visiting high-level IMF delegation yesterday while it was also attended by the Central Bank Governor Dr.Nandalal Weerasinghe, Secretary to the Treasury Mr. Mahinda Siriwardena, Dr. Harshana Sooriyapperuma, Senior Advisors to the President Prof. Anil Jayantha and Mr. Duminda Hulangamuwa.
+
+◼️
+
+[Data](articles/d7e268fc.json)
+
+[Extended Data](ext_articles/d7e268fc.ext.json)
+
+---
+
+### Bandula decides not to contest 2024 General Election
+
+*2024-10-04 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102440/bandula-decides-not-to-contest-2024-general-election) · `en`
+
+The former Cabinet Spokesman and former Minister of Transport and Mass Media, Bandula Gunawardena says that he will not contest the upcoming parliamentary election.
+
+Speaking to the media in this regard today (04), the former MP expressed that he served the people to the best of his ability by holding a number of positions as a Member of Parliament, a Deputy Minister and a Cabinet Minister while representing the Homagama constituency in the Parliament for more than twenty years.
+
+Furthermore, Gunawardena stated that he has done everything possible to turn the Homagama city into a center of knowledge for the people of the Homagama constituency who have been helpless for many years without a proper public representative to represent them in the Parliament.
+
+Meanwhile, he also revealed plans of producing another movie while continuing his further education for another doctorate in the upcoming years.
+
+◼️
+
+[Data](articles/f61a1a29.json)
+
+[Extended Data](ext_articles/f61a1a29.ext.json)
+
+---
+
+### President and IMF discusses
 
 *2024-10-04 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201833) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහන ශක්තිමත්ව ඉදිරියට ගෙනයාම වෙනුවෙන් වූ වත්මන් ජනාධිපතිවරයාගේ කැපවීම තහවුරු කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදල අතර විශේෂ සාකච්ඡාවක් දෙවන දිනටද අද (04) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී ආරම්භ වී තිබේ.
+Here's a 200-character summary:
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ආසියා පැසිෆික් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ක්‍රිෂ්ණ ශ්‍රීනිවාසන්, ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී ආචාර්ය පීටර් බෘවර් යන මහත්වරු ප්‍රමුඛ ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ නියෝජිතයින් සහ IMF සාකච්ඡා සඳහා පත්කෙරුණු මෙරට නියෝජිත කණ්ඩායම ඊට එක්ව සිටියහ.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහනේ ඉලක්ක සපුරා ගන්නා අතරම ජනතාව මත පැටවෙන පිඩනය ඉවත් කෙරෙන විකල්ප මාර්ගයන් ඔස්සේ එම අරමුණු වෙත ළඟාවීම ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ අරමුණ බව ජනාධිපති මාධ්‍ය ඒකකය නිවේදනය කරයි.
+
+Sri Lanka's President Anura Kumara Dissanayake met with IMF officials. The meeting focused on achieving program goals set by the International Monetary Fund. A Sri Lankan delegation participated in discussions led by the IMF's Asia Pacific Director.
+
+🟩
+
+President Anura Kumara Dissanayake and the International Monetary Fund (IMF) has held a special discussion between the International Monetary Fund.
+
+The Director of the International Monetary Fund Asia Pacific, Senior Mission Head Branch, appointed to senior international Monetary Fund, was attended by the Sri Lankan delegation and IMF talks.
+
+President Anura Kumara Dissanayake is announced that President Anura Kumara Dissanayake is the objective of reaching the objective of the program targets with the International Monetary Fund.
 
 ◼️
 
 [Data](articles/1adb87c4.json)
 
+[Extended Data](ext_articles/1adb87c4.ext.json)
+
 ---
 
-### බන්දුල තීරණයක් ගනී
+### Bandula is a decision
 
 *2024-10-04 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201832) · `si`
 
-ඉදිරියේදී පැවැත්වීමට නියමිත පාර්ලිමේන්තු මහ මැතිවරණය සඳහා තමන් ඉදිරිපත් නොවන බව හිටපු ප්‍රවාහන මහා මාර්ග සහ ජනමාධ්‍ය කැබිනට් අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා අද (04) ප්‍රකාශ කළේය.
+Dr. Bandula Gunawardena announces retirement from politics after decades of service. He plans to pursue further studies and filmmaking.
 
-තමන් වසර විස්සකට වැඩි කාලයක් හෝමාගම මැතිවරණ කොට්ඨාසය නියෝජනය කරමින් පාර්ලිමේන්තුවට පැමිණ පාර්ලිමේන්තු මන්ත්‍රීවරයකු, නියෝජ්‍ය අමාත්‍යවරයෙකු, කැබිනට් අමාත්‍යවරයෙකු වශයෙන් තනතුරු ගණනාවක් දරමින් කළ හැකි උපරිමයෙන් ජනතාව වෙනුවෙන් සේවය කළ බවත් ඒ මහතා පැවසීය.
+🟩
 
-පාර්ලිමේන්තුව නියෝජනය සඳහා මහජන නියෝජිතයකු නොමැතිව වසර ගණනාවක් අසරණව සිටි හෝමාගම මැතිවරණ කොට්ඨාසයේ ජනතාව වෙනුවෙන් එම නගරය දැනුමේ කේන්ද්‍රස්ථානයක් හෙවත් ප්‍රඥා බන්දු පුරවරයක් බවට පත්කරලීම සඳහා කළ හැකි සියල්ල සිදුකළ බවත් ඒ පිළිබඳව තමන් සතුටු වන බවත් බන්දුල ගුණවර්ධන මහතා කියා සිටියේය.
+Former Graduates and Mass Media Cabinet Minister Dr. Bandula Gunawardena today stated that he was not contesting for the upcoming parliamentary election.
 
-ඉදිරි වසර කිහිපයේදී තවත් ආචාර්ය උපාධියක් සඳහා ඉගෙනුම් කටයුතු සිදුකරන අතර, සිනමා නිර්මාණයක් කිරීමටත් අදහස් කරමින් සිටින බවද ඒ මහතා වැඩිදුරටත් පැවසීය.
+He said that he had served on behalf of the public to represent the Electorate in Homagama, representing a number of positions as a Minister of Parliament for more than twenty years.
+
+Bandula Gunawardena said that he had done everything he could to make a knowledge hub for the people of the Homagama electorate for many years without a public representative of Parliament.
+
+In the next few years, learning work for another doctorate, he added and is intending to create a film.
 
 ◼️
 
 [Data](articles/df591f77.json)
 
+[Extended Data](ext_articles/df591f77.ext.json)
+
 ---
 
-### இனி போட்டியிடேன்: பந்துல
+### I will compete anymore: Bandula
 
 *2024-10-04 13:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-போட்டியிடேன்-பந்துல/175-344916) · `ta`
 
-எதிர்வரும் பாராளுமன்ற பொதுத் தேர்தலில் போட்டியிடப் போவதில்லை என முன்னாள் போக்குவரத்து நெடுஞ்சாலைகள் மற்றும் ஊடகத்துறை அமைச்சர் கலாநிதி பந்துல குணவர்தன வௌ்ளிக்கிழமை (04) தெரிவித்தார்.
+Dr. Bandula Gunawardena announces retirement from politics after 20+ years serving Homagama constituency. He cites his efforts to develop the area and plans to pursue further studies soon.
 
-இருபது வருடங்களுக்கு மேலாக ஹோமாகம தொகுதியை பாராளுமன்றத்தில் பிரதிநிதித்துவப்படுத்தி பாராளுமன்ற உறுப்பினராகவும் பிரதியமைச்சராகவும் அமைச்சரவை அமைச்சராகவும் தன்னால் இயன்றவரை மக்களுக்காக உழைத்ததாகவும் அவர் தெரிவித்தார்.
+🟩
 
-பல வருடங்களாக பாராளுமன்றத்தை பிரதிநிதித்துவப்படுத்துவதற்கு மக்கள் பிரதிநிதிகள் இன்றி அநாதரவாக இருந்த ஹோமாகம பிரதேசத்தை மக்களின் அறிவு மையமாக அல்லது பிரக்ஞை பண்டு நகராக மாற்றுவதற்கு இயன்ற அனைத்தையும் செய்துள்ளதாகவும் அதில் மகிழ்ச்சியடைவதாகவும் தெரிவித்தார்.
+Former Transport Highways and Media Minister Dr. Bandula Gunawardena said on Wednesday (04) that he would not contest the upcoming parliamentary general election.
 
-இன்னும் சில வருடங்களில் மீண்டும் டாக்டர் பட்டம் படித்து திரைப்படம் எடுக்க உள்ளதாக அவர் மேலும் கூறினார்.
+He said that he had worked for the people as much as he could, as a Member of Parliament, Deputy Minister and Cabinet Minister, representing the Homagama constituency for more than twenty years.
+
+He said that the Homagama area, which had been an orphaned without representatives of the people for many years, has done everything possible to convert the people's knowledge center or the city of Pandu.
+
+He added that in a few more years, he will be re -reading a doctorate.
 
 ◼️
 
 [Data](articles/66dbc20a.json)
+
+[Extended Data](ext_articles/66dbc20a.ext.json)
 
 ---
 
@@ -156,19 +218,43 @@ The number of the car that has arrived has been sent to the Motor Transport Depa
 
 ---
 
-### மைத்திரியின் வீட்டிற்கு முன்பாக பதற்றத்தை ஏற்படுத்திய பெண்
+### Maithri house
+
+*2024-10-04 12:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வீட்டின்-முன்-பெண்-ரகளை/175-344915) · `ta`
+
+Former President Maithripala Sirisena's official residence in the Cinnamon Gardens in Colombo, Cinnamon Gardens, has gone from there after a harsh word for a woman who was in a white car.
+
+A police officer in charge of the area has said that a police officer who was on duty at the official residence of former President Maithripala Sirisena has lodged a complaint.
+
+The number of the white car that has arrived at the woman is mentioned. In addition, the police officer said that the woman had made a harsh word for former President Maithripala Sirisena's brother and businessman Dudley Sirisena.
+
+The number of the car that has arrived has been sent to the Motor Transport Department and further investigations are being carried out by the Cinnamon Police.. Remble
+
+◼️
+
+[Data](articles/8df6408f.json)
+
+[Extended Data](ext_articles/8df6408f.ext.json)
+
+---
+
+### The woman who made tension in front of Maithri's house
 
 *2024-10-04 12:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வீட்டிற்கு-முன்பாக-பதற்றத்தை-ஏற்படுத்திய-பெண்/175-344915) · `ta`
 
-கொழும்பு, கறுவாத்தோட்டம் ஹெக்டர் கொப்பேகடுவ மாவத்தையில் அமைந்துள்ள முன்னாள் ஜனாதிபதி மைத்ரிபால சிறிசேனவின் உத்தியோகபூர்வ இல்லமுன்றிலில் வெள்ளைநிற காரொன்றில் வந்திறங்கிய பெண்ணொருவர் கத்திகூச்சலிட்டு முரண்பாட்டை ஏற்படுத்தும் வகையில் செயற்பட்டு கடும் வார்த்தைப் பிரயோகத்தில் ஈடுபட்ட பின்னர் அவ்விடத்திலிருந்து சென்றுள்ளார்.
+Former President Maithripala Sirisena's official residence in the Cinnamon Gardens in Colombo, Cinnamon Gardens, has gone from there after a harsh word for a woman who was in a white car.
 
-முன்னாள் ஜனாதிபதி மைத்ரிபால சிறிசேனவின் உத்தியோகபூர்வ இல்லத்தில் பாதுகாப்புக் கடமையில் ஈடுபட்டிருந்த பொலிஸ் உத்தியோகத்தர் ஒருவர் மேற்படி சம்பவம் குறித்து முறைப்பாடளித்துள்ளதாக குறித்த பிரதேசத்துக்குப் பொறுப்பான பொலிஸ் உயரதிகாரியொருவர் தெரிவித்துள்ளார்.
+A police officer in charge of the area has said that a police officer who was on duty at the official residence of former President Maithripala Sirisena has lodged a complaint.
 
-மேற்படி பெண் வந்திறங்கிய வெள்ளைநிற காரின் இலக்கம் குறிப்பிடப்பட்டுள்ளது. அத்தோடு குறித்த பெண் முன்னாள் ஜனாதிபதி மைத்ரிபால சிறிசேனவின் சகோதரரும் வர்த்தகருமான டட்லி சிறிசேனவை குறிப்பிட்டே கடும் வார்த்தைப் பிரயோகத்தை மேற்கொண்டிருந்ததாக மேற்படி பொலிஸ் உத்தியோகத்தர் வழங்கிய முறைப்பாட்டில் தெரிவிக்கப்பட்டுள்ளது.
+The number of the white car that has arrived at the woman is mentioned. In addition, the police officer said that the woman had made a harsh word for former President Maithripala Sirisena's brother and businessman Dudley Sirisena.
 
-...
+The number of the car that has arrived has been sent to the Motor Transport Department and further investigations are being carried out by the Cinnamon Police.. Remble
+
+◼️
 
 [Data](articles/c43bce19.json)
+
+[Extended Data](ext_articles/c43bce19.ext.json)
 
 ---
 
@@ -220,7 +306,9 @@ people, a traditional role of women and girls within families.
 
 The accepting of nominations for the 2024 General Election commenced this morning (04).
 
-The activities related to the accepting of nominations commenced at the district secretaries in 22 electoral districts today.
+The activities related to the accepting of nominations commenced at the district secretariats in 22 electoral districts today.
+
+The nomination period is expected to conclude at 12 noon on October 11, 2024.
 
 On September 24, President Anura Kumara Dissanayake issued an Extraordinary Gazette notification fixing November 14, 2024 as the date for the election of the new Members of Parliament.
 
@@ -1122,39 +1210,59 @@ Children also say children with arms, foot and mouth disease have been reported 
 
 ---
 
-### සහල් පාලන මිල : 'සිල්ලර මුදලාලිලාට දඩ ගැහුවට ලොකු මෝල් හිමියන්ට දඩ ගහන්න නීතියක් නෑ'
+### Price Control Price: 'No law to climb the fines fines fines fines
 
 *2024-10-04 07:01:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cglk62918pyo) · `si`
 
-සහල් පාලන මිල : 'සිල්ලර මුදලාලිලාට දඩ ගැහුවට ලොකු මෝල් හිමියන්ට දඩ ගහන්න නීතියක් නෑ'
+Rice price control controversy: Retailers claim inability to purchase at controlled rates due to mill owners' reluctance. Consumer Affairs Authority asserts legal authority but faces challenges in enforcing price limits.
 
-පාලන මිලට වැඩියෙන් සහල් අලෙවි කරන සිල්ලර වෙළඳුන්ට දඩ පැනවීමට බලය තිබුණ ද මහා පරිමාණ මෝල් හිමියන් වැඩි මිලට සහල් අලෙවි කිරීමේ දී නීතිමය පියවරක් ගැනීමේ හැකියාවක් නැතැයි පාරිභෝගික සේවා අධිකාරිය පවසයි.
+🟩
 
-''2003 පනත අනුව නීතිපතිතුමාගෙන් උපදෙස් ගත්තා. මහා පරිමාණ මෝල් හිමියන් වැටලීමට හෝ නඩු පැවරීමට අපට බලයක් නැහැයි කියලා දැනුම් දීලා තියෙනවා. අධිකරණයටත් ඒකට බලයක් නෑ. මේ පනත සංශෝධනය කරනකොට අපි ඒ බලය ලබා ගන්න බලාපොරොත්තු වෙනවා'' යනුවෙන් පාරිභෝගික සේවා අධිකාරියේ වැටලීම් හා විශේෂ විමර්ශන ඒකකයේ අධ්‍යක්ෂ සංජය ඉරසිංහ BBC සිංහල සේවයට පැවසුවේය.
+Price Control Price: 'No law to climb the fines fines fines fines
 
-සහල් සඳහා පාලන මිල දක්වමින් 2022 මැයි 02 දින 2278/2 දරණ ගැසට් නිවේදනය නිකුත් කර තිබේ. නමුත් මහා පරිමාණ මෝල් හිමියන් පාලන මිලට වඩා වැඩි මුදලකට සහල් තොග නිකුත් කිරීම නිසා වෙළඳපොලේ පාලන මිලට සහල් අලෙවි නොවේ.
+Retail traders that sell rice sold more rural prices more rice to the consumer service, but the Consumer Affairs Authority (CAA) says it is not possible to buy rice at higher prices.
 
-නමුත් 2024 සැප්තැම්බර් 28 සිට පාලන මිලට සහල් අලෙවි කරන බව මහා පරිමාණ මෝල් හිමියන් වෙනුවෙන් ඩඩ්ලි සිරිසේන ප්‍රකාශයක් නිකුත් කළේය.
+'' As per Act 2003 was advised by the Attorney General. We have notified that large scale mill owners raid or prosecute. The judiciary has no authority. When we revise the bill, we will acquire that power and the Director of the Consumer Affairs Authority (CAA) raids and the Director of the Special Investigation Unit told the BBC Sinhala service.
 
-...
+Gazette notification has been issued 2278/2 on 0278/2 on 2 May 2022, indicating control price for rice. However, the rice sells rice at the market due to the number of rice stocks for more than the larger-scale mill owners.
+
+But from September 28, 2024, a Dudley Sirisena has issued a statement on behalf of large scale mills.
+
+The retailers say they do not receive rice for the control price.
+
+◼️
 
 [Data](articles/d7660e33.json)
 
+[Extended Data](ext_articles/d7660e33.ext.json)
+
 ---
 
-### IMF: 'ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිසංස්කරණ නොවෙනස්ව පවත්වාගෙන යාම වැදගත්'
+### IMF: 'Important maintaining economic reforms in Sri Lanka is important'
 
 *2024-10-04 06:54:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6q71qxxnpo) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අතර විශේෂ සාකච්ඡාවක් දෙවන දිනට ද අද (ඔක්තෝබර් 4 වැනිදා) ජනාධිපති කාර්යාලයේ දී  ආරම්භ විය.
+Sri Lanka IMF talks ongoing, economic reforms crucial. President Anura Kumara Dissanayake discusses debt program achievements. IMF Director emphasizes continued reforms importance.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන ණය වැඩසටහනේ ඉලක්ක සපුරා ගන්නා අතරම ජනතාව මත පැටවෙන පිඩනය ඉවත් කෙරෙන විකල්ප මාර්ගයන් ඔස්සේ එම අරමුණු වෙත ළඟා වීම ජනාධිපති අනුර කුමාර දිසානායක ගේ අරමුණ වී ඇතැයි ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+🟩
 
-මේ අතර, ජාත්‍යන්තර මූල්‍ය අරමුදලේ සන්නිවේදන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂක ජූලි කොසෑක් ඇමරිකා එක්සත් ජනපදයේ ඊයේ (ඔක්තෝබර් 03) පැවැත්වූ මාධ්‍ය හමුවකදී ද ශ්‍රී ලංකාව සම්බන්ධයෙන් අදහස් දක්වමින් කියා සිටියේ, ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිසංස්කරණ වැඩපිළිවෙල අඛණ්ඩව ඉදිරියට ගෙන යාම ඉතා වැදගත් බව ය.
+A special discussion between President Anura Kumara Dissanayake and the International Monetary Fund representatives began at the Presidential Secretariat today (October 4).
+
+President Anura Kumara Dissanayake said that the goals of the debt program with the International Monetary Fund have achieved the objectives of the Presidential Media Unit said.
+
+Meanwhile, the Director of the International Monetary Fund (IMF Communication Department Communications Department) was also important to continue the economic reform program in Sri Lanka yesterday (October 03).
+
+July Director of the Communication Department said in response to questions about Sri Lanka's questions regarding the media in the Messianic Fund."The fruitage of hand has been fruitful,".
+
+"We still have significant risky and uncertainties, as we foretold," and said, "She said.
+
+It means that "it is very important to keep the reform unchanged," said July Kadaka.
 
 ...
 
 [Data](articles/3397d3f3.json)
+
+[Extended Data](ext_articles/3397d3f3.ext.json)
 
 ---
 
@@ -2179,75 +2287,5 @@ The answer is that we see this as a historical change.That is, the two major par
 [Data](articles/560148ac.json)
 
 [Extended Data](ext_articles/560148ac.ext.json)
-
----
-
-### Korean Exim Bank agreed to fund Sri Lanka’s development projects  – PMD
-
-*2024-10-03 20:27:00* · [`economynextcom`](https://economynext.com/korean-exim-bank-agreed-to-fund-sri-lankas-development-projects-pmd-182211/) · `en`
-
-ECONOMYNEXT – The Export and Import (Exim) Bank of Korea has agreed to financially support the Sri Lanka government’s development project. President’s Media Division (PMD said.
-
-The agreement was announced during a meeting between officials of the Exim Bank of Korea and Secretary to the President Nandika Sanath Kumanayake at the Presidential Secretariat on Thursday (03).
-
-The financial support from the Korean Exim Bank for development projects was suspended after the economic crisis and sovereign debt default.
-
-.”…during their meeting, representatives of the Exim Bank expressed their commitment to offering subsidized interest loans for the re-implementation of these projects,” the PMD said in a statement.
-
-“They also emphasized their intention to support economically viable programs initiated by the Government of Sri Lanka in the future.”
-
-Director of Exim Bank Won-suk HA, Deputy Director Hanui Han, and Project Manager Nalin Jayathunga participated at the meeting. (Colombo/October 03/2024)
-
-◼️
-
-[Data](articles/c9a7923c.json)
-
-[Extended Data](ext_articles/c9a7923c.ext.json)
-
----
-
-### The resolution of the former Prime Minister
-
-*2024-10-03 20:23:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-பிரதமர்-தரப்பு-எடுத்த-தீர்மானம்/175-344881) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former PM Dinesh Gunawardena's UPFA party announces candidacy in all districts for upcoming general election. Decision made after today's talks.
-
-🟩
-
-The United People's Freedom Alliance (UPFA), led by former Prime Minister Dinesh Gunawardena in the upcoming general election, has announced that it has decided to field candidates in the public symbol in all districts.
-
-The decision has been announced only after talks on the general election today. Remble
-
-◼️
-
-[Data](articles/3c11dc13.json)
-
-[Extended Data](ext_articles/3c11dc13.ext.json)
-
----
-
-### High-level IMF delegation meets President Dissanayake
-
-*2024-10-03 20:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102426/high-level-imf-delegation-meets-president-dissanayake) · `en`
-
-The high-level delegation from the International Monetary Fund (IMF) visiting Sri Lanka met with President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo today, the President’s Media Division (PMD) said.
-
-President Dissanayake reaffirmed commitment to IMF objectives and advocated for alternative solutions to ease the burden on people today, the President’s Media Division said.
-
-While reaffirming the government’s broad agreement in principle with the objectives of the IMF programme, he emphasized the importance of achieving these objectives through alternative means that relieves the burden off the people, it said.
-
-The President stated that the government plans to expand social spending and offer relief to those burdened by high Value Added Tax (VAT) and income taxes.
-
-The IMF team led by its Director of the Asia Pacific Department, Krishna Srinivasan, is on a visit Colombo from October 02 to 04.
-
-...
-
-[Data](articles/293b87ab.json)
-
-[Extended Data](ext_articles/293b87ab.ext.json)
 
 ---

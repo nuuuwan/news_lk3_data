@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 08:43:03**
+As of **2024-10-04 08:58:16**
 
 ## Newspaper Stats
 
-*Scraped **47,710** Articles*
+*Scraped **47,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 2,918
 dailyftlk | 3,222
 adalk | 4,412
 dailymirrorlk | 4,733
-adaderanalk | 5,606
+adaderanalk | 5,607
 tamilmirrorlk | 6,433
 virakesarilk | 7,632
-adaderanasinhalalk | 8,246
+adaderanasinhalalk | 8,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,708 (100.0%) of 47,710 articles have been extended.
+47,712 (100.0%) of 47,712 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,36 @@ Accordingly, the Elections Commission said that nominations can be submitted unt
 [Data](articles/95428d84.json)
 
 [Extended Data](ext_articles/95428d84.ext.json)
+
+---
+
+### Progress of controversial investigations
+
+*2024-10-04 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201826) · `si`
+
+Police discuss ongoing investigations, focus on delays and unnecessary probes. Acting IGP and CID officials attend meeting.
+
+🟩
+
+The Police Media Division said that a special discussion was held yesterday (3) at the Police Headquarters yesterday.
+
+The discussion has been called to look into the progress of various investigations on crimes, frauds and other special crimes in the country.
+
+The acting IGP Priyantha Weerasuriya and senior officials of the CID and senior officials of the CID were also present.
+
+The most attention focused on whether the investigations are being carried out by the investigation, what are the temporarily suspended.
+
+Meanwhile, special attention is also paid to what is unnecessary investigations and newly delayed investigations.
+
+The police said that investigations were delayed and discussed what they were.
+
+The Police Media Division added that there is a number of important investigations.
+
+◼️
+
+[Data](articles/94cb1809.json)
+
+[Extended Data](ext_articles/94cb1809.ext.json)
 
 ---
 
@@ -95,6 +125,22 @@ Meanwhile, Children with Hand, Foot and Mouth Disease are also reported in these
 [Data](articles/46e912fa.json)
 
 [Extended Data](ext_articles/46e912fa.ext.json)
+
+---
+
+### Health officials warn over spread of hand, foot and mouth disease among children
+
+*2024-10-04 08:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/102430/health-officials-warn-over-spread-of-hand-foot-and-mouth-disease-among-children) · `en`
+
+As children with influenza symptoms are being reported these days, health officials are advising parents to ensure their children wear face masks.
+
+Pediatrician Dr. Deepal Perera notes that cases of children infected with hand, foot, and mouth disease are also on the rise, emphasizing the importance of adhering to proper health guidelines to protect children.
+
+◼️
+
+[Data](articles/951a6c9c.json)
+
+[Extended Data](ext_articles/951a6c9c.ext.json)
 
 ---
 
@@ -2327,53 +2373,5 @@ A spokesman for the hospital said that 11 people were admitted to the Mandarasi 
 [Data](articles/d40b3dcc.json)
 
 [Extended Data](ext_articles/d40b3dcc.ext.json)
-
----
-
-### International Virtue Day
-
-*2024-10-03 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/195399) · `ta`
-
-Protest against alcohol sales near schools and religious sites. Participants demand no liquor stores in the area. Chant slogans promoting sobriety and healthy society. Event organized by local organizations and attended by community members.
-
-🟩
-
-A protest against drugs was held in front of the Sanganai bus stand in front of the North Pradeshiya Virtue Federation on Thursday (03) in honor of the International Virtue Day.
-
-Schools, educational institutions, religious places and citizens are located near the site of the liquor station.
-
-The struggle was therefore urged not to grant permission to the liquor store in the area.
-
-The protesters chanted, "Do not reduce the prices of alcoholic prices, the way for the health of our society is the way for the health of the life, the wine that destroys our society, do not take the wine in your hands, the younger community does not take wine in your hands..
-
-At the end of the struggle, the President was handed over to the President through Kavitha Udayakumar, the Divisional Secretary of Sangan.
-
-...
-
-[Data](articles/38a72ecd.json)
-
-[Extended Data](ext_articles/38a72ecd.ext.json)
-
----
-
-### SriLankan Airlines changes London route after Israel attack; carries extra fuel
-
-*2024-10-03 15:26:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-changes-london-route-after-israel-attack-carries-extra-fuel-182155/) · `en`
-
-ECONOMYNEXT – SriLankan Airlines, the country’s national carrier, has changed its regular route over Iraq skies to London and is carrying extra fuel after Iran’s missile attack on Israel, a SriLankan official said.
-
-Israeli Prime Minister Benjamin Netanyahu has promised that Iran would pay for its missile attack against Israel on Tuesday, while Tehran said any retaliation would be met with “vast destruction”, raising fears of a wider war.
-
-The Iran attack has threatened escalation of fighting in the Middle East.
-
-“We have now changed the London flight route and now flying via Egypt skies,” the official told EconomyNext.
-
-“The new route takes 30 minutes longer than the usual route and the flights carry extra fuel in the new route.” (Colombo/October 03/2024)
-
-◼️
-
-[Data](articles/43eca2f6.json)
-
-[Extended Data](ext_articles/43eca2f6.ext.json)
 
 ---

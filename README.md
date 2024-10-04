@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 23:23:22**
+As of **2024-10-04 23:38:53**
 
 ## Newspaper Stats
 
-*Scraped **47,841** Articles*
+*Scraped **47,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,425
 dailymirrorlk | 4,733
 adaderanalk | 5,631
 tamilmirrorlk | 6,448
-virakesarilk | 7,653
+virakesarilk | 7,658
 adaderanasinhalalk | 8,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,832 (100.0%) of 47,841 articles have been extended.
+47,841 (100.0%) of 47,846 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,6 +152,30 @@ The Police Media Spokesperson said that the instructions were given during a dis
 
 ---
 
+### Charles Nirmalanathan is contesting the parliamentary election at the request of Sumanthiran
+
+*2024-10-04 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195515) · `ta`
+
+Charles Nirmalanathan contests parliamentary election at Sumanthiran's request. TNA selects candidates due to party confusion. Nirmalanathan agrees to run, along with others from Mannar district. He plans to step down for younger candidates in future elections.
+
+🟩
+
+The Mannar electoral constituency has a sudden twist on the Sri Lanka Tamil National Alliance (TNA) candidates contesting the parliamentary general election.Due to the confusion within the Tamil parties, the main Tamil parties are selected in the parliamentary general election.
+
+On the basis of this, the Vanni district's candidates have been delayed on behalf of the Sri Lanka Tamil National Alliance (Vanni) and former Member of Parliament Charles Nirmalanathan, former Northern Provincial Chief Secretary A. Pathinathan and Young Lawyer Selvarajah Dinesan from Mannar district have been elected from the Mannar district to contest the Vanni election.Knowing.
+
+All these choices have been revealed that former Parliamentarian Attorney MA Sumanthiran visited Mannar on Friday (4).
+
+MA Sumanthiran's visit to the Mannar party office with key members of the party held a two -hour discussion and talked about the expenses for the election.
+
+...
+
+[Data](articles/1d9df7ae.json)
+
+[Extended Data](ext_articles/1d9df7ae.ext.json)
+
+---
+
 ### The decision taken about the IMF Third Premium
 
 *2024-10-04 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201854) · `si`
@@ -226,6 +250,30 @@ The body of the deceased student was placed at the Dikoya Bundator Hospital for 
 
 ---
 
+### Permission to resume projects suspended during the presidential election - Elections Commission
+
+*2024-10-04 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195513) · `ta`
+
+Elections Commission suspends projects during presidential election. Post-election, implementation resumes. Public urged to ignore misinformation. No commission approval needed for post-election initiatives like fertilizer subsidies, fisherman aid, pension payments. Approval required for pre-election projects from relevant corporations to avoid legal issues.
+
+🟩
+
+While the elections were suspended by the Elections Commission during the presidential election, the implementation of the election after the election was approved;It is observed that a few people are referring to the misunderstanding of the public. The Elections Commission has urged the public to act on the resolutions of the Elections Commission without paying attention to such baseless opinions.
+
+During the presidential election period, the Commission has taken steps to suspend some of the proposals, projects and relief to the public to promote political parties and candidates.
+
+With the presidential election, it is not necessary to obtain the permission of the Commission to implement the programs, projects and relief to the people.
+
+Particularly 2024 and 2025, fertilizer for the majority of agricultural activities, relief to fishermen, pay the pension arrears, the country's general administration and public service with the efficiency and beneficial manner of the Presidential Elections.
+
+...
+
+[Data](articles/d124aa32.json)
+
+[Extended Data](ext_articles/d124aa32.ext.json)
+
+---
+
 ### Ranasin Jayatilake joins GS sports
 
 *2024-10-04 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201853) · `si`
@@ -284,6 +332,28 @@ They have been arrested when he had asked for a bribe of Rs.
 
 ---
 
+### A man arrested with ice drugs in Kalkisa
+
+*2024-10-04 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195499) · `ta`
+
+Man arrested with ice drugs in Kalkisa. Suspect caught near Odeon junction by Mount Lavinia Police. 10g 200ml of ice seized during raid based on tip-off.
+
+🟩
+
+A suspect has been arrested yesterday (03) with an ice drug near the Odean junction belonging to the Mount Lavinia Police Division.
+
+The suspect was arrested during a raid carried out on information received by the Mount Lavinia Police Criminal Investigation Division.
+
+10 g 200 ml of ice from the suspect has been seized by the police.
+
+◼️
+
+[Data](articles/22d03f45.json)
+
+[Extended Data](ext_articles/22d03f45.ext.json)
+
+---
+
 ### Indian EAM raises concern over fishermen arrest, pushes for 13A
 
 *2024-10-04 19:16:00* · [`economynextcom`](https://economynext.com/indian-eam-raises-concern-over-fishermen-arrest-pushes-for-13a-182420/) · `en`
@@ -301,6 +371,40 @@ Sri Lanka has witnessed bottom trawling by Indian fishermen during the peak fish
 [Data](articles/ef9585c6.json)
 
 [Extended Data](ext_articles/ef9585c6.ext.json)
+
+---
+
+### Bronze Medal for Sri Lanka in Rugby
+
+*2024-10-04 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195510) · `ta`
+
+Sri Lanka wins bronze in Asian Rugby Emirates. Defeated Malaysia 17-14. Won 3 matches, tied 1. UAE and Hong Kong played final. UAE won gold, Hong Kong silver.
+
+🟩
+
+Sri Lanka won a bronze medal in the recent Asian Rugby Emirates at the Johar Bahru Stadium in Malaysia.
+
+Sri Lanka won the bronze medal by winning Malaysia by 17 (3 trucks, one Convention) - 14 (2 goals).
+
+In the tournament, the Sri Lankan league round was qualified to play in the 3rd place in the Sri Lanka League round.
+
+Sri Lanka won the first league match by 27 - 0 in the second match by 29 - 12 in the second match.
+
+Sri Lanka ended the 3rd match against Thailand by 17 - 17.
+
+Sri Lanka won 20 - 0 in a match without playing a match.
+
+In the A group, the United Arab Emirates and Malaysia won the top two.
+
+Following this, the United Arab Emirates and Hong Kong China clashed in the final of the Champions Bowl.
+
+The United Arab Emirates won the gold medal by winning 43 - 0. Hong Kong Saina received a silver medal.
+
+...
+
+[Data](articles/e7f122cf.json)
+
+[Extended Data](ext_articles/e7f122cf.ext.json)
 
 ---
 
@@ -327,6 +431,38 @@ In addition, the Prime Minister of the new government, Dr. Harini, and Indian Fo
 [Data](articles/c67a4521.json)
 
 [Extended Data](ext_articles/c67a4521.ext.json)
+
+---
+
+### Milapa in bowling, Lora in the batting, Dasmin;South Africa launches
+
+*2024-10-04 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195508) · `ta`
+
+Here's a 200-character summary:
+
+
+
+South Africa crushes West Indies in ICC Women's T20 World Cup. Milaba, Lora, and Dasmin star in bowling and batting. South Africa wins by 10 wickets, scoring 119/0 in 17.5 overs. West Indies struggles at 118/6 in 20 overs.
+
+🟩
+
+South Africa easily won the West Indies by 10 wickets at the ICC Women's R20 World Cup for the B Group held at the Dubai International Cricket Stadium on Friday (04).
+
+In a one -sided -up match, the accurate bowling of Nonkululeko Milaba, the captain of the team, Lora Wulward and Tasmin Britdz, made South Africa easier to win South Africa.
+
+South Africa scored 119 runs in 17.5 overs without the loss of wickets in 17.5 overs.
+
+The ninth Women's T20 World Cup chapter was recorded as the fantastic link to 119 runs in the opening wicket of both Lora Wulwat and Dasmin Britts.
+
+They also became the first to score half a century in the Women's T20 World Cup this year.
+
+Lorera Wulward faced 55 balls and 59 runs, including 7 pounds, and Dasmin failed 52 balls and 57 runs, including 6 pounds.West Indies, who were first invited to bat in the upting match, scored 118 runs for the loss of six wickets in 20 overs.
+
+...
+
+[Data](articles/79b0993c.json)
+
+[Extended Data](ext_articles/79b0993c.ext.json)
 
 ---
 
@@ -576,6 +712,8 @@ The team met with President Dissanayake, Prime Minister Harini Amarasuriya, Fore
 
 [Data](articles/0f574952.json)
 
+[Extended Data](ext_articles/0f574952.ext.json)
+
 ---
 
 ### A major road near Temple Trees opens
@@ -651,6 +789,8 @@ Wickremesinghe attended the swearing-in ceremony in New Delhi on July 09 on the 
 ...
 
 [Data](articles/8f8046c6.json)
+
+[Extended Data](ext_articles/8f8046c6.ext.json)
 
 ---
 
@@ -754,6 +894,8 @@ He later met Prime Minister Amarasuriya with whom he said he discussed digital p
 
 [Data](articles/23f6d35f.json)
 
+[Extended Data](ext_articles/23f6d35f.ext.json)
+
 ---
 
 ### Increase in Sri Lankans migrating for foreign employments
@@ -793,6 +935,8 @@ The organisation, linked to the Catholic Church, pointed out that Sallay had bee
 ...
 
 [Data](articles/627f72c3.json)
+
+[Extended Data](ext_articles/627f72c3.ext.json)
 
 ---
 
@@ -2283,125 +2427,5 @@ Niroshan J.. Peiris said.
 [Data](articles/568e8459.json)
 
 [Extended Data](ext_articles/568e8459.ext.json)
-
----
-
-### Rs.. 1 crore robbery: two arrested with broker
-
-*2024-10-04 10:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-ரூ-1-கோடி-கொள்ளை-தரகருடன்-இருவர்-கைது/175-344909) · `ta`
-
-Rs. 1 crore robbery solved: Two arrested, including broker's son. Police recover stolen cash, passport, and mobile phone. Investigation reveals land sale scam involving broker and buyer.
-
-🟩
-
-Police investigations have revealed that one crore rupees has been raised under the guidance of the land broker.
-
-A man from Sanguveli, Jaffna, recently came to Jaffna as he is currently living abroad.
-
-While he was returning home with the money that he sold his land in the Chenthankulam area last Wednesday, two men who were pursuing a motorcycle had gone to the streets and robbed him with money, passports and a mobile phone worth Rs.
-
-The man who sold the land and the buyer of the land was transferred to the lawyer after the lawyer.. During that time, the land sales broker was with them.
-
-Suspecting the robber, the broker was suspected that the robber had been robbed on the basis of information on the issue of those who were going with money when the land was sold home with money.
-
-Following the investigation, the police searched the broker's house in the Uru area, and the robbery of the robbery and the mobile phone were recovered.
-
-...
-
-[Data](articles/28c63064.json)
-
-[Extended Data](ext_articles/28c63064.ext.json)
-
----
-
-### Progress of police investigations into high-profile cases reviewed
-
-*2024-10-04 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102435/progress-of-police-investigations-into-high-profile-cases-reviewed-) · `en`
-
-The Police Media Division stated that a special meeting took place yesterday (3) at the Police Headquarters chaired by the new Secretary to the Ministry of Public Security, Ravi Seneviratne.
-
-The purpose of this meeting was to review the progress of various police investigations concerning high-profile cases of crimes, fraud, and other special crimes that have occurred in the country.
-
-Police stated that the Acting IGP Priyantha Weerasooriya, a group of senior police officials and a group of senior representatives from the Criminal Investigation Department (CID) had also joined the discussion.
-
-Meanwhile, special attention has been paid to ongoing investigations, any cases that might have been temporarily halted and whether political factors have influenced those halted investigations.
-
-Additionally, the meeting focused on investigations that have been unnecessarily delayed and whether there are any other new investigations that need to be launched.
-
-...
-
-[Data](articles/612306a1.json)
-
-[Extended Data](ext_articles/612306a1.ext.json)
-
----
-
-### Couple arrested with domestic gun in Varakapolai
-
-*2024-10-04 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195448) · `ta`
-
-Couple arrested with homemade gun in Varakapola home raid. Police found illegal liquor during search.
-
-🟩
-
-Warakapola police said that a couple had been arrested on Thursday (03) with a locally manufactured gun in a house in Algama.
-
-A 59 -year -old wife and a 40 -year -old husband have been arrested in Algama.
-
-Varakapola police have received information that illegal liquor has been hidden in a house in Algama area in Varakapola.
-
-Subsequently, a domestic gun that had been buried in the house was seized into the house in a raid carried out by the police.
-
-◼️
-
-[Data](articles/251dc825.json)
-
-[Extended Data](ext_articles/251dc825.ext.json)
-
----
-
-### Indian Foreign Minister to visit Sri Lanka
-
-*2024-10-04 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201829) · `si`
-
-Indian Foreign Minister Dr. S. Jayasankur arrives in Sri Lanka for official visit. Scheduled to meet President, PM, and Foreign Minister.
-
-🟩
-
-Indian Foreign Minister Dr. S. Jayasankur arrived in the island this morning on an official visit this morning.
-
-Jayasankur is scheduled to meet President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya.
-
-The Indian Foreign Minister and his delegation meet with Foreign Minister Vijitha Herath.
-
-◼️
-
-[Data](articles/98fedec2.json)
-
-[Extended Data](ext_articles/98fedec2.ext.json)
-
----
-
-### Indian Foreign Minister Jaishankar arrives in Sri Lanka
-
-*2024-10-04 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102434/indian-foreign-minister-jaishankar-arrives-in-sri-lanka) · `en`
-
-India’s Minister of External Affairs, Dr. Subrahmanyam Jaishankar arrived in Sri Lanka on Friday (October 04) on an official visit.
-
-Upon arriving in the island, the foreign minister was welcomed by Sri Lanka’s Foreign Secretary Aruni Wijewardane and Indian High Commissioner to Colombo Santosh Jha at the BIA airport.
-
-“Good to be in Colombo again. Look forward to my engagements with the Sri Lankan leadership today,” Jaishankar post on ‘X’ (formerly Twitter) after arriving in the country.
-
-During this visit, the Indian External Affairs Minister is scheduled to pay courtesy calls on President Anura Kumara Dissanayake and Prime Minister Dr. Harini Amarasuriya.
-
-The visiting Indian External Affairs Minister and his delegation will also have a meeting with Foreign Minister Vijitha Herath at the Ministry of Foreign Affairs.
-
-Minister Jaishankar is accompanied by senior officials of the Ministry of External Affairs of India.
-
-...
-
-[Data](articles/5f91a058.json)
-
-[Extended Data](ext_articles/5f91a058.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 15:10:11**
+As of **2024-10-04 15:22:55**
 
 ## Newspaper Stats
 
-*Scraped **47,769** Articles*
+*Scraped **47,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,80 @@ dbsjeyarajcom | 394
 bbccomsinhala | 472
 colombotelegraphcom | 474
 islandlk | 2,810
-economynextcom | 2,922
+economynextcom | 2,923
 dailyftlk | 3,222
-adalk | 4,419
+adalk | 4,420
 dailymirrorlk | 4,733
 adaderanalk | 5,619
-tamilmirrorlk | 6,443
+tamilmirrorlk | 6,444
 virakesarilk | 7,642
-adaderanasinhalalk | 8,256
+adaderanasinhalalk | 8,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,769 (100.0%) of 47,769 articles have been extended.
+47,769 (100.0%) of 47,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### කෙහෙළියට සහ පවුලේ අයට පැනවූ තහනමක් දීර්ඝ කෙරේ
+
+*2024-10-04 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201836) · `si`
+
+අල්ලස් කොමිසම විසින් සිදුකරනු ලබන විමර්ශනයකට අදාළව හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල හා ඔහුගේ පවුලේ සාමාජිකයින්ට අයත් බැංකු ගිණුම් සහ ජීවිත රක්ෂණ ඔප්පු කිහිපයක් අත්හිටුවමින් නිකුත් කර තිබූ නියෝගය තවදුරටත් දීර්ඝ කිරීමට කොළඹ මහාධිකරණය අද(04) නියම කර තිබේ.
+
+අල්ලස් කොමිසම විසින් කරන ලද ඉල්ලීමක් සලකා බැලූ කොළඹ මහාධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+මීට පෙර අල්ලස් කොමිසම විසින් කළ ඉල්ලීමක් සලකා බැලූ කොළඹ මහාධිකරණය කෙහෙළිය රඹුක්වැල්ල සහ ඔහුගේ පවුලේ සාමාජිකයින්ට අයත් බැංකු ගිණුම් 16ක් සහ ජීවිත රක්ෂණ ඔප්පු 05ක් අත්හිටුවමින් අද දින තෙක් බලපැවැත්වෙන පරිදි නියෝගයක් නිකුත් කර තිබුණි.
+
+ඒ අනුව අද දින අල්ලස් කොමිසම කළ ඉල්ලීම සලකා බැලූ මහාධිකරණය එම අත්හිටුවීමේ නියෝගය ලබන ජනවාරි මස 04 වනදා දක්වා තවදුරටත් දීර්ඝ කරන ලෙස නියම කළේය.
+
+◼️
+
+[Data](articles/f3d4c3c4.json)
+
+---
+
+### Sri Lanka export companies visit Australia to explore trade ties
+
+*2024-10-04 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-export-companies-visit-australia-to-explore-trade-ties-182138/) · `en`
+
+ECONOMYNEXT – A group of 17 Sri Lankan export companies have visited Melbourne, Australia to get a better understanding of the Australian market.
+
+The visit was organized by the Export Development Board, the Consulate General in Melbourne and the Sri Lanka-Australia Chamber of Commerce.
+
+“This outward trade delegation was an important step towards increasing awareness among Sri Lankan exporters of the Australian market,” an EDB statement read.
+
+Such missions were important in expanding international trade and fostering long-term partnerships, EDB said.
+
+Delegates attended Fine Food Australia 2024, a trade event for food, packaging and hospitality industry, where they met international partners, secured deals, and explored trends that could be incorporated into Sri Lanka’s food export industry.
+
+This helped the Sri Lankan companies “to network and gain exposure to the competitive Australian market.”
+
+...
+
+[Data](articles/ba7715aa.json)
+
+---
+
+### வயோதிப தம்பதி வெட்டிக்கொலை
+
+*2024-10-04 14:59:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயோதிப-தம்பதி-வெட்டிக்கொலை/175-344918) · `ta`
+
+வீடொன்றில் இருந்த தம்பதி வெட்டிக்கொலை செய்யப்பட்டுள்ளதாக அஹங்கம பொலிஸார் தெரிவித்தனர். அஹங்கம, வல்ஹெங்கொட பிரதேசத்தில் உள்ள வீடொன்றில் இருந்தே இவ்விருவரின் சடலங்களும் மீட்கப்பட்டுள்ளன.
+
+தம்பதியின் மகள் கர்ப்பிணியாவார். அவர், சிகிச்சைக்காக வெள்ளிக்கிழமை (04) காலை வீட்டில் இருந்து கொழும்பு சென்றுள்ளார். தந்தைக்கு மகள் தொலைபேசி அழைப்பு எடுத்துள்ளார். எவ்விதமான பதிலும் இல்லை. அதனையடுத்தே பக்கத்து வீட்டாருக்கு அழைப்பு எடுத்துள்ளார்.
+
+அவர்கள், இந்த தம்பதியின் வீட்டுக்குச் சென்று பார்த்த போது, ​​வீட்டுக்குள் தம்பதியர் கழுத்தை அறுத்து கொலை செய்யப்பட்டிருப்பது ​தெரியவந்தது.
+
+◼️
+
+[Data](articles/6855057a.json)
+
+---
 
 ### Elderly couple found murdered inside house in Ahangama
 
@@ -569,6 +625,28 @@ Further investigations are being carried out by the Rambukkanai police.
 [Data](articles/63b21860.json)
 
 [Extended Data](ext_articles/63b21860.ext.json)
+
+---
+
+### ඉන්දිය විදෙස් ඇමති එයි
+
+*2024-10-04 11:47:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දිය-විදෙස්-ඇමති-එයි/11-412308) · `si`
+
+ඉන්දීය විදේශ කටයුතු පිළිබඳ අමාත්‍ය ආචාර්ය සුබ්‍රමනියම් ජයශංකර් මහතා එක් දින ශ්‍රී ලංකා නිල සංචාරයක් සදහා 10/04 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය .
+
+ඔහු සමග දූත පිරිස ලෙස සහභාගී වීම සදහා තවත් එරට විදේශ කටයුතු අමාත්‍යාංශයේ උසස් නිලධාරීන් 08 දෙනෙකු ද පැමිණ සිටියහ .
+
+ඔවුන් 10/04 දින උදෑසන 10.15 ට ඉන්දියාවේ නවදිල්ලි නුවර සිට ඉන්දීය ගුවන් හමුදාවට ( Indian Air Force ) අයත් අයි.එෆ්.සී.- 34 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+මෙම පිරිස පිළිගැනීම සදහා ශ්‍රී ලංකාවේ ඉන්දීය මහකොමසාරිස් සන්තෝෂ් ජා මහතා ඇතුළු ඉන්දීය මහකොමසාරිස් කාර්යාලයේ නිලධාරීන් පිරිසක් සහ ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යාංශයේ නිලධාරීන් පිරිසක් ද කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+
+මෙම අවස්ථාව ආවරණය කිරීම සදහා මාධ්‍යවේදීන් හට අවස්ථාව ලබා දී නොතිබුණි .
+
+ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා ඇතුළු පිරිස , ශ්‍රී ලංකා  සිය එක් දින නිල සංචාරය නිමා කර 10/04 දින සවස 06.00 ට පමණ කටුනායක ගුවන් තොටුපොළෙන් , ඔවුන් පැමිණි ගුවන් යානයෙන්ම ආපසු ඉන්දියාවේ නවදිල්ලි නුවර බලා පිටත්ව යාමට නියමිතය .
+
+◼️
+
+[Data](articles/f15e10f5.json)
 
 ---
 
@@ -2161,109 +2239,5 @@ On September 30, the Ministry of Foreign Affairs issued a travel advisory instru
 [Data](articles/2e17f8a5.json)
 
 [Extended Data](ext_articles/2e17f8a5.ext.json)
-
----
-
-### Financial Assistance for Korean Exymon Bank to Sri Lanka
-
-*2024-10-03 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201821) · `si`
-
-Korean Exympara Bank resumes financial aid for Sri Lanka's development projects after suspending it from 2022-2024. Agreement signed between Korea Example and Sri Lanka's government. Economic support emphasized by Korean officials.
-
-🟩
-
-Korea Example has agreed to provide financial support for the development projects of the Government of Sri Lanka.
-
-The agreement was published when the Secretary of Korea Sanath Sanath Sanath Sanath Kanayake met today (03) at the Presidential Secretariat.
-
-Korean Exympara Bank suspended financial assistance to Sri Lanka's development projects in 2022 -2024 years in 2022 -2024 years of relief debts to re-implement relief loans to re-implementation of the development projectsHas been done.
-
-Representatives of Korea Exyllants have also emphasized that the Sri Lankan government economically supports.
-
-Korean Exyllant Bank Director Won-Suk HA, Deputy Director Hanui Han, Project Manager Nalin Jayatunga.
-
-The Additional Secretary of the President Roshan Gamage was also present at the occasion.
-
-◼️
-
-[Data](articles/958195d1.json)
-
-[Extended Data](ext_articles/958195d1.ext.json)
-
----
-
-### United Nations leads to meet President
-
-*2024-10-03 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201820) · `si`
-
-UN representative meets SL president, discusses IMF support, praises anti-national programs in election manifesto.
-
-🟩
-
-Sri Lanka's Coordinator Mark-André Franchae has met with President Anura Kumara Dissanayake at the Presidential Secretariat today (03).
-
-Mr. Anura Kumara Dissanayake has been awarded to President Anura Kumara Dissanayake.
-
-Mark Andrew, who commended the moral nature of President Anura Kumara Dissanayake at the last Presidential Election, was also evaluated the election policy statement.
-
-The Mark Andrew Franz has also been assured that the future period will be challenging with the International Monetary World Fund and the UN.
-
-He also praised the anti-nation program in the election manifesto of President Anura Kumara Dissanayake.
-
-The Sri Lankan co-ordinator of the Sri Lanka's new initiatives for national peace was also commended by the Presidential Media Unit, the Presidential Media Unit of the President.
-
-The United Nations has also supported this initiative to promote sustainable peace in the country.
-
-◼️
-
-[Data](articles/992474ca.json)
-
-[Extended Data](ext_articles/992474ca.ext.json)
-
----
-
-### IMF high -level group met with president
-
-*2024-10-03 21:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்த-IMF-உயர்மட்டக்-குழு/175-344895) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"IMF delegation meets Sri Lankan President Anura Kumara Dissanayake at Presidential Secretariat. Meeting focused on economic discussions."
-
-🟩
-
-The International Monetary Fund (IMF), which has visited Sri Lanka, met President Anura Kumara Dissanayake today (03).
-
-The meeting was held at the Presidential Secretariat, the Presidential Media Unit said. Remble
-
-◼️
-
-[Data](articles/ac88cbb4.json)
-
-[Extended Data](ext_articles/ac88cbb4.ext.json)
-
----
-
-### A person who falls down from the roof to death
-
-*2024-10-03 21:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/195430) · `ta`
-
-Person fell from roof during construction, died. 34-year-old Tawalambalasa Wewebetha Madulseem. Injured while rehabilitating building in Mettikatna area.
-
-🟩
-
-Madulseem police said that a person died from the roof to the roof.
-
-The death of a 34 -year -old Tawalambalasa Wewebetha Madulseem.
-
-Madhikatna police said that the man was taken to the Mettikattanna Divisional Hospital when he was injured when a building was rehabilitated when the roof of a building was reconstructed in the Mettikatna area.
-
-◼️
-
-[Data](articles/db50a808.json)
-
-[Extended Data](ext_articles/db50a808.ext.json)
 
 ---

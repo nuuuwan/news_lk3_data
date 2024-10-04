@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 05:44:21**
+As of **2024-10-04 06:44:17**
 
 ## Newspaper Stats
 
-*Scraped **47,678** Articles*
+*Scraped **47,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 470
 colombotelegraphcom | 473
-islandlk | 2,800
+islandlk | 2,806
 economynextcom | 2,918
-dailyftlk | 3,209
+dailyftlk | 3,222
 adalk | 4,412
 dailymirrorlk | 4,733
 adaderanalk | 5,604
@@ -26,11 +26,275 @@ adaderanasinhalalk | 8,244
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,675 (100.0%) of 47,678 articles have been extended.
+47,683 (100.0%) of 47,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### SL renews commitment to multilateral cooperation in pursuit of peace, prosperity, and sustainability
+
+*2024-10-04 05:49:31* · [`dailyftlk`](https://www.ft.lk/opinion/SL-renews-commitment-to-multilateral-cooperation-in-pursuit-of-peace-prosperity-and-sustainability/14-767529) · `en`
+
+Permanent Representative of Sri Lanka to the United Nations Mohan Pieris
+
+This is an article based on the statement delivered by Mohan Pieris, Permanent Representative of Sri Lanka to the United Nations, New York  79th Session of the United Nations General Assembly
+
+General Debate on the theme  ‘Leaving no one behind: Acting together for the advancement of peace, sustainable development and human dignity for present and future generations’ on 30 September
+
+Against the background of global turmoil, setbacks and transformations, the aspirations of this year’s Assembly for a better global future resonate with those of the people of Sri Lanka.
+
+...
+
+[Data](articles/c40d491f.json)
+
+[Extended Data](ext_articles/c40d491f.ext.json)
+
+---
+
+### Human Rights Watch says UN Rights Council should extend crucial mandate on SL
+
+*2024-10-04 05:45:04* · [`dailyftlk`](https://www.ft.lk/opinion/Human-Rights-Watch-says-UN-Rights-Council-should-extend-crucial-mandate-on-SL/14-767528) · `en`
+
+Human Rights Watch said yesterday that the United Nations Human Rights Council should adopt a resolution on Sri Lanka to enable continued UN monitoring, reporting, and evidence collection of rights violations for future prosecutions.
+
+It said President Anura Kumara Dissanayake, who was elected on September 21, 2024, should reverse the policies of his predecessors by cooperating with the UN’s investigation mechanism, ending the use of repressive laws to stifle dissent, and preventing security forces from targeting activists, survivors of abuses, and victims’ families with threats and reprisals.
+
+...
+
+[Data](articles/163ba034.json)
+
+[Extended Data](ext_articles/163ba034.ext.json)
+
+---
+
+### Pragmatism and peopleism
+
+*2024-10-04 05:40:35* · [`dailyftlk`](https://www.ft.lk/columns/Pragmatism-and-peopleism/4-767527) · `en`
+
+Similarities in the successful rise of Prime Minster Narendra Modi in India and President Anura Kumara Dissanayake in Sri Lanka
+
+I was dining in a Colombo restaurant when the person waiting on me asked who I thought was going to win the Sri Lankan Presidential election. I said I had no vote and so would reserve my opinion but asked him who he thought would win. He said “100% sure AKD”. I said “oh”. The person continued as if he felt he needed to allay fears – he said this is like Narendra Modi coming to power in India. A common man taking away power from the family (entrenched political establishment).
+
+That set me thinking if indeed there was such a common thread tying the two politicians in South Asia.
+
+In 2014, Narendra Modi and his BJP party stormed to power in India. It seemingly marked the decimation of the traditional party – the Gandhi Family run Congress Party. Till 2014 the Congress party was the pre eminent power with BJP or Janatha party (its predecessor) making slow in roads.
+
+...
+
+[Data](articles/38d6406b.json)
+
+---
+
+### Politics, policy and progression in agriculture
+
+*2024-10-04 05:31:10* · [`dailyftlk`](https://www.ft.lk/columns/Politics-policy-and-progression-in-agriculture/4-767525) · `en`
+
+The inefficiencies in the entire food system should be minimised to provide high quality rice at an affordable price to the consumer, without causing economic disadvantages to the producer
+
+...
+
+[Data](articles/932762d9.json)
+
+---
+
+### President affirms commitment to building efficient, people-centred public service
+
+*2024-10-04 05:21:54* · [`dailyftlk`](https://www.ft.lk/news/President-affirms-commitment-to-building-efficient-people-centred-public-service/56-767524) · `en`
+
+Assumes office as Agriculture, Lands, Livestock, Irrigation, Fisheries, and Aquatic Resources Minister
+
+Highlights critical role Ministry plays in eradicating rural poverty; insisting performance of officials will be decisive in achieving this goal
+
+Calls on public servants to uphold the trust placed in them by people, dedicate them to fulfilling responsibilities with integrity
+
+Says next 40 days will be a transitional period and new Ministers will be appointed after the General election
+
+President Anura Kumara Dissanayake yesterday affirmed his commitment to supporting public servants who dedicate themselves to creating an efficient, citizen-focused public service.
+
+He made these remarks after assuming office as the Agriculture, Lands, Livestock, Irrigation, Fisheries, and Aquatic Resources Minister.
+
+Dissanayake emphasised that unlike under previous administrations, public sector officials working in the interest of the people will no longer face political retaliation.
+
+...
+
+[Data](articles/fb01ef4a.json)
+
+---
+
+### Exim Bank of Korea to provide financial support for SL’s development projects
+
+*2024-10-04 05:20:35* · [`dailyftlk`](https://www.ft.lk/news/Exim-Bank-of-Korea-to-provide-financial-support-for-SL-s-development-projects/56-767523) · `en`
+
+The Exim Bank of Korea has agreed to provide financial support for the development projects of the Government of Sri Lanka, the President’s Media Division said.
+
+This agreement was announced during a meeting between officials of the Exim Bank of Korea and Secretary to the President Dr. Nandika Sanath Kumanayake.
+
+PMD said following the collapse of Sri Lanka’s economy, financial support from the Korean Exim Bank for development projects was suspended from 2022 to 2024. However, during their meeting, representatives of the Exim Bank expressed their commitment to offering subsidised interest loans for the re-implementation of these projects.
+
+They also emphasised their intention to support economically viable programs initiated by the Government of Sri Lanka in the future.
+
+Exim Bank Director Won-suk HA, Deputy Director Hanui Han, Project Manager Nalin Jayathunga and Additional Secretary to the President Roshan Gamage were also present at the meeting.
+
+◼️
+
+[Data](articles/49e48440.json)
+
+---
+
+### MillenniumIT ESP expands global reach with new delivery hub at Port City Colombo
+
+*2024-10-04 05:17:51* · [`dailyftlk`](https://www.ft.lk/business/MillenniumIT-ESP-expands-global-reach-with-new-delivery-hub-at-Port-City-Colombo/34-767522) · `en`
+
+MillenniumIT ESP, leading Enterprise Solutions Provider, said yesterday it has recently marked a significant milestone in its growth journey with the establishment of its Global Service Delivery Centre at Port City Colombo.
+
+This new centre, registered under the company’s subsidiary, Millennium IT ESP Singapore, will serve as the primary hub for delivering solutions to its growing global clientele. This strategic move reinforces MillenniumIT ESP’s commitment to expanding its international presence and meeting the increasing global demand for its cutting-edge technology solutions.
+
+...
+
+[Data](articles/e13ada06.json)
+
+---
+
+### Ceylon Chamber announces acclaimed panel of evaluators for BCCS Awards 2024
+
+*2024-10-04 05:16:24* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-announces-acclaimed-panel-of-evaluators-for-BCCS-Awards-2024/34-767521) · `en`
+
+Following the launch of the application process for the Best Corporate Citizen Sustainability Awards 2024, The Ceylon Chamber of Commerce recently announced the Panel of Evaluators for the Awards.
+
+As Chairman of the Panel, Rathika de Silva will lead an experienced and versatile panel of evaluators who will evaluate applications for sustainability under the Awards’ 3 Ps – Planet, People and Profit.
+
+...
+
+[Data](articles/04e8bd1f.json)
+
+---
+
+### RW allies to contest general election under “Gas Cylinder” symbol
+
+*2024-10-04 05:13:12* · [`dailyftlk`](https://www.ft.lk/news/RW-allies-to-contest-general-election-under-Gas-Cylinder-symbol/56-767520) · `en`
+
+Political parties that supported former President Ranil Wickremesinghe in the recent Presidential election are gearing up to contest the upcoming General Election under the banner of the New Democratic Front (NDF), with the “Gas Cylinder” as their election symbol.
+
+United National Party (UNP) Kesbewa Electoral Seat Organiser Saman Rathnapriya, yesterday confirmed that all parties within the alliance had agreed to contest under the “Gas Cylinder” symbol. Alliance member S.M. Chandrasena also echoed this sentiment, stating that the group was united in their decision.
+
+...
+
+[Data](articles/e6b89cf0.json)
+
+---
+
+### Pathfinder Foundations launches Sinhala translation of “The India Way: Strategies for an Uncertain World”
+
+*2024-10-04 05:11:48* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundations-launches-Sinhala-translation-of-The-India-Way-Strategies-for-an-Uncertain-World/56-767519) · `en`
+
+The Sinhala translation of “The India Way: Strategies for an Uncertain World” by India’s External Affairs Minister Dr. S. Jaishankar will be launched in Colombo today.
+
+The decade from the 2008 global financial crisis to the 2020 COVID-19 pandemic, has significantly transformed the world order. In “The India Way”, Dr. S. Jaishankar analyses these challenges and proposes possible policy responses. He places this thinking in the context of history and tradition, appropriate for a civilisational power that seeks to reclaim its place on the world stage.
+
+...
+
+[Data](articles/7b654540.json)
+
+---
+
+### Sajith calls for national unity; urges focus on solutions over politics
+
+*2024-10-04 05:11:28* · [`dailyftlk`](https://www.ft.lk/news/Sajith-calls-for-national-unity-urges-focus-on-solutions-over-politics/56-767518) · `en`
+
+Urges all political factions to set aside narrow political arguments and prioritise welfare of SL
+
+Criticises prevailing hypocritical political culture and calls for a collective effort to find practical solutions
+
+Urges need to support local entrepreneurs and businesses, promote investments, and create export-oriented economic growth that generates jobs for youth
+
+Samagi Jana Balawegaya (SJB) leader Sajith Premadasa has emphasised the need for national unity and collaborative efforts to tackle Sri Lanka’s pressing issues during a recent meeting with party workers in the Dehiwala area. He urged all political factions to set aside narrow political arguments and prioritise the welfare of the country.
+
+...
+
+[Data](articles/798ef81a.json)
+
+---
+
+### President appoints new Secretary to Public Administration Ministry
+
+*2024-10-04 05:10:09* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-new-Secretary-to-Public-Administration-Ministry/56-767517) · `en`
+
+President Anura Kumara Dissanayake has appointed S. Aloka Bandara as the new Public Administration, Home Affairs, Provincial Councils, Local Government and Labour Ministry Secretary. The appointment was officially presented by Dr. Nandika Sanath Kumanayake at the Presidential Secretariat yesterday.
+
+◼️
+
+[Data](articles/bf7c7956.json)
+
+---
+
+### Reciprocal cultural visit between Indian and Sri Lankan armed forces
+
+*2024-10-04 05:09:06* · [`dailyftlk`](https://www.ft.lk/news/Reciprocal-cultural-visit-between-Indian-and-Sri-Lankan-armed-forces/56-767516) · `en`
+
+A Reciprocal cultural visit between the Indian and Sri Lankan armed forces commenced on 2 October, with arrival of an Indian Air Force Aircraft carrying 120 Indian armed forces personnel at Bandaranaike International Airport, Colombo.
+
+Over the next three days, Indian delegation will be visiting cultural sites in and around Nuwara Eliya. Simultaneously, an aircraft departed with 120 Sri Lankan armed forces personnel for a three day long visit to Bodh Gaya, India.
+
+Ceremonial welcomes was accorded to the incoming delegation, and were received by senior officers from the Indian High Commission, Colombo and Sri Lankan armed forces. A memento exchange between the heads of delegations from both sides was followed by a group photograph. The aim of this cultural exchange is to further enhance people to people contact between both the armed forces and exposing them to each other’s cultural heritage.
+
+...
+
+[Data](articles/27dac6ce.json)
+
+---
+
+### Sri Lanka makes waves at the OTDYKH / Leisure Travel Fair 2024 in Russia
+
+*2024-10-04 02:32:00* · [`islandlk`](http://island.lk/sri-lanka-makes-waves-at-the-otdykh-leisure-travel-fair-2024-in-russia/) · `en`
+
+On September 19, the 30th anniversary International Forum and Exhibition OTDYKH Leisure 2024 concluded its work at the Expocentre Fairgrounds. This year, the event was a great success, bringing together more than 9,000 industry professionals on one site , including official representatives of Russian regions, delegations from foreign countries, leading tour operators and travel agencies, hotels and accommodation facilities, online booking agencies, MICE agencies and concierge services and other representatives of the tourism industry and related fields.
+
+...
+
+[Data](articles/7f783460.json)
+
+[Extended Data](ext_articles/7f783460.ext.json)
+
+---
+
+### Dialog Axiata appoints Visvanathamoorthy (“Vish”) Govindasamy as an Independent, Non-Executive Director
+
+*2024-10-04 02:27:00* · [`islandlk`](http://island.lk/dialog-axiata-appoints-visvanathamoorthy-vish-govindasamy-as-an-independent-non-executive-director/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, is pleased to announce the appointment of Vish Govindasamy to its Board as an Independent, Non-Executive Director, effective 1 October 2024.
+
+Govindasamy currently serves as an Executive, Non-Independent Director at both Sunshine Holdings PLC and Watawala Plantations PLC. At Sunshine Holdings PLC, he holds the role of Deputy Chairman and serves in Boards of several subsidiaries of Sunshine Holdings PLC and Watawala Plantations PLC. Furthermore, he serves as an Independent, Non-Executive Director at Softlogic Life Insurance PLC, TAL Lanka Hotels PLC, United Motors Lanka PLC, and the 1990 Suwa Seriya Foundation.
+
+Beyond the corporate sector, Govindasamy has made significant contributions to Sri Lanka’s economy. He is a member of the Governing Board of the Central Bank of Sri Lanka and has served as the Immediate Past Chairman of the Ceylon Chamber of Commerce, as well as a former Chairman of the Employers Federation of Ceylon.
+
+...
+
+[Data](articles/90c184f9.json)
+
+[Extended Data](ext_articles/90c184f9.ext.json)
+
+---
+
+### Operator of PickMe App, third biggest contributor to CSE turnover
+
+*2024-10-04 02:26:00* · [`islandlk`](http://island.lk/operator-of-pickme-app-third-biggest-contributor-to-cse-turnover/) · `en`
+
+Digital Mobility Solutions Lanka Limited, which operates Sri Lanka’s PickMe application for booking taxis, commenced trading in the stock market, CSE sources said.
+
+‘The shares of Digital Mobility Solutions Lanka Limited commenced trading at the CSE yesterday. The shares have been listed on the Main Board of the CSE. The occasion was marked with a special Bell Ringing ceremony, informed sources added.
+
+The initial public offer of Digital Mobility Solutions Lanka Limited was oversubscribed and closed on the opening day of September 13.
+
+Amid those developments both indices moved downwards yesterday. The All Share Price Index went down by 4.2 points, while the S and P SL20 declined by 19.2 points. Turnover stood at Rs 1.34 billion with one crossing. The crossing was reported in Commercial Credit, which crossed 1 million shares to the tune of Rs 36.3 million; its shares traded at Rs 36.30.
+
+...
+
+[Data](articles/c7ed3916.json)
+
+[Extended Data](ext_articles/c7ed3916.ext.json)
+
+---
 
 ### A boy who is addicted to a mobile game in Jaffna
 
@@ -135,6 +399,36 @@ President Anura Kumara Dissanayake has dissolved the ninth parliament on 24.09.2
 [Data](articles/a692db90.json)
 
 [Extended Data](ext_articles/a692db90.ext.json)
+
+---
+
+### Bollywood Boutique celebrates a decade of elegance with grand showroom launch
+
+*2024-10-04 01:58:00* · [`islandlk`](http://island.lk/bollywood-boutique-celebrates-a-decade-of-elegance-with-grand-showroom-launch/) · `en`
+
+Bollywood Boutique, the renowned ethnic wear destination known for its exquisite collection of sarees, salwars, kurtis, and lehengas, marked a significant milestone with the grand launch of its new 7,000-square-foot showroom at 17 Hampden Lane, Colombo 06. This event not only celebrated the boutique’s 10th anniversary but also unveiled an expanded range that promises to elevate the shopping experience for fashion enthusiasts across the city.
+
+Established in 2014, Bollywood Boutique has become a household name for those seeking the finest in Indian and Pakistani fashion. From the intricate weaves of luxurious sarees to the vibrant hues of bridal lehengas, the boutique has consistently offered a curated selection from top designers across both countries. The new showroom, with its expansive layout, allows for an even more immersive shopping experience, showcasing the breadth and depth of their collection in a space designed to inspire and delight.
+
+...
+
+[Data](articles/3c839871.json)
+
+[Extended Data](ext_articles/3c839871.ext.json)
+
+---
+
+### WIS Accountancy launches AI-driven mortgage platform ‘MortgagX’ and announces major job expansion
+
+*2024-10-04 01:58:00* · [`islandlk`](http://island.lk/wis-accountancy-launches-ai-driven-mortgage-platform-mortgagx-and-announces-major-job-expansion/) · `en`
+
+WIS Accountancy, a leading provider of digital accountancy, bookkeeping, tax, and business advisory services in UK, is expanding operations in both the UK and Sri Lanka. WIS Accountancy is a part of the one-stop finance shop the WIS Group of companies which also comprises WIS Umbrella, WIS Mortgages and Insurance and WIS Wealth.
+
+...
+
+[Data](articles/6678d3c3.json)
+
+[Extended Data](ext_articles/6678d3c3.ext.json)
 
 ---
 
@@ -2115,455 +2409,5 @@ He served as the Minister of Justice and Foreign Affairs under former government
 [Data](articles/ca563b0f.json)
 
 [Extended Data](ext_articles/ca563b0f.ext.json)
-
----
-
-### Daham Sirisena and Rajika Wickremesinghe join MJP
-
-*2024-10-03 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102421/daham-sirisena-and-rajika-wickremesinghe-join-mjp) · `en`
-
-Former MP Rajika Wickremesinghe and Daham Sirisena joined the Mawbima Janatha Party (MJP) led by entrepreneur Dilith Jayaweera.
-
-hye received their letters of appointment from party leader Dilith Jayaweera at the MJP head office in Colombo today (03).
-
-Rajika Wickremesinghe has been appointed as the MJP’s Kegalle District Organisers and Dedigama electorate organizer while Daham Sirisena has been appointed Polonnaruwa District Organiser.
-
-Meanwhile, Chalindu Kumarasinghe has been appointed as the Polonnaruwa District Coordinator andThakshila Premasiri as organiser for Udunuwara, Kandy.
-
-Daham is the son of former Polonnaruwa District Parliamentarian and former President Maithripala Sirisena.
-
-He had previously served as the Sri Lanka Freedom Party (SLFP) electoral organizer for Polonnaruwa West and as President of the Polonnaruwa District SLFP Youth League.
-
-Rajika Wickremesinghe is a former National List Member of Parliament of the Sri Lanka Podujana Peramuna (SLPP).
-
-◼️
-
-[Data](articles/01f9f34f.json)
-
-[Extended Data](ext_articles/01f9f34f.ext.json)
-
----
-
-### President says committed to building an efficient, people-centered public service
-
-*2024-10-03 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102420/president-says-committed-to-building-an-efficient-people-centered-public-service) · `en`
-
-President Anura Kumara Dissanayake affirmed his commitment to supporting public servants who dedicate themselves to creating an efficient, citizen-focused public service, the President’s Media Division (PMD) said.
-
-He emphasized that unlike under previous administrations government officials working in the interest of the people will no longer face political retaliation.
-
-The President made these remarks during a meeting with ministry officials after assuming office as the Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries, and Aquatic Resources this morning (03), the release said.
-
-In a comprehensive discussion with ministry secretaries and senior officials, the current state and future plans of the Ministry of Agriculture were thoroughly reviewed. The President highlighted the critical role the ministry plays in eradicating rural poverty, noting that the performance of government officials will be decisive in achieving this goal.
-
-...
-
-[Data](articles/2ec1c6ba.json)
-
-[Extended Data](ext_articles/2ec1c6ba.ext.json)
-
----
-
-### Prison for former minister
-
-*2024-10-03 14:08:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-அமைச்சருக்கு-சிறை/50-344870) · `ta`
-
-Former Singapore minister sentenced 300,000 SGD for bribery. Lost position after allegations. Investigation led to 12-month prison term. Corruption lawsuit filed earlier.
-
-🟩
-
-The former minister has been sentenced to over 300,000 Singapore dollars from seven businessmen who are considered to be close friends.
-
-Eswaran, a Singapore cabinet minister for 13 years. Eswaran was the Minister of Trade, Communication and Transportation. Based on these allegations, he lost his post.
-
-There are several bribery allegations, and an investigation was sentenced to 12 months in prison.
-
-Earlier a lawsuit was filed against Ishwaran in court for corruption and bribery.
-
-◼️
-
-[Data](articles/b611eca3.json)
-
-[Extended Data](ext_articles/b611eca3.ext.json)
-
----
-
-### Dhamma Sirisena and Rajaika Wickremasinghe to the People's Party
-
-*2024-10-03 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201807) · `si`
-
-Rajaika Wickremasinghe joins UNP, becomes Gampaha District organizer. Dhamma Sirisena named Polonnaruwa district party organizer. Other appointments made in Kandy and Kegalle districts.
-
-🟩
-
-Former MP Rajakiri Wickremasinghe and Dhamma Sirisena joined the UNP today (03).
-
-Former Parliamentarian Rajaika Wickremasinghe from the National List representing the Sri Lanka Civil Front was appointed as the Gampaha District and Dedigama organizer in Kegalle.
-
-The Sirisena, son of former President Maithripala Sirisena, has been appointed as the party organizer of the Polonnaruwa district.
-
-Meanwhile, Chamindu Kumarasinghe has been appointed as the Polonnaruwa District District and the Udunuwara organizer for Kandy, Janasila Premasiri Kandy.
-
-Thakshila Seneviratne, Kandy, Yatinuwara organizer, was appointed as the Ratgama organizer of Kandy, Yasinuwara organizer.
-
-◼️
-
-[Data](articles/e3adb5a3.json)
-
-[Extended Data](ext_articles/e3adb5a3.ext.json)
-
----
-
-### Information regarding Sri Lankans
-
-*2024-10-03 14:05:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்-தொடர்பில்-வெளியான-தகவல்/175-344869) · `ta`
-
-Sri Lanka: No major impact reported. Embassy in Beirut maintains contact with registered citizens, provides assistance. Some individuals trapped in Lebanon remain affected.
-
-🟩
-
-Except for some Sri Lankans trapped in Lebanon, none of the Sri Lankans have been affected yet, the Foreign Ministry said.
-
-The Ministry said that the Sri Lankan embassy in Beirut continues to maintain contact with individual Sri Lankans registered at the embassy.
-
-The Ministry has stated that the Sri Lankan Embassy in Beirut is providing necessary assistance.
-
-◼️
-
-[Data](articles/7118e672.json)
-
-[Extended Data](ext_articles/7118e672.ext.json)
-
----
-
-### Highseat gazette leaving
-
-*2024-10-03 14:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீடு/175-344868) · `ta`
-
-Central Bank cancels pensions for governors effective Sept 11, 2024. Gazette states payments suspended, future claims rejected.
-
-🟩
-
-The Central Bank has issued a high -level gazette that will cancel the pension benefits of the central bank governors from September 11, 2024.
-
-The gazette issued by the Governor of the Central Bank Nandalal Weerasinghe said the pension payments would be suspended from 11.09.2024 to a person appointed as Governor and that the demands for pension payments would not be accepted by the Central Bank of Sri Lanka after 11.09.2024.
-
-◼️
-
-[Data](articles/4d19b515.json)
-
-[Extended Data](ext_articles/4d19b515.ext.json)
-
----
-
-### A group of police officers apologize to the Supreme Court
-
-*2024-10-03 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201806) · `si`
-
-Police officers apologize Supreme Court interrogation lawyer rights violation
-
-🟩
-
-A group of police officers had to apologize to the petitioner today to question the Supreme Court today to interrogate a lawyer in the road.
-
-This apology was taken by a fundamental rights petition filed by Selvaraj Raj Rajipaidi, a resident of Kalutara.
-
-The petition was called before the Supreme Court Bench, the Supreme Court Bench, the Supreme Court Bench, who enjoys rejoicing today.
-
-The incident was forgiven, Police Sergeant, Premaratne Dissanayake, Premaratne Police Constables, Ratnasiri, Senadhira and Nanasikkara.
-
-The petitioner claims that he returned to the Negombo Magistrate on January 16, and a group of civilian dresses from motorbikes arrived in motorbikes.
-
-The petitioner stated that the group was tested by the civilian dress, which was said to be "from the police," he tested his right hand and handcuffed them.
-
-The petitioner said that the group left the group, "not ...
-
-The petitioner stated that these officials have confirmed that the group attached to the Negombo Police.
-
-...
-
-[Data](articles/857f289e.json)
-
-[Extended Data](ext_articles/857f289e.ext.json)
-
----
-
-### The President took over the duties of the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources
-
-*2024-10-03 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195389) · `ta`
-
-President Anuragumara Dissanayake assumed responsibilities of Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources on 03/Thursday.
-
-🟩
-
-President Anuragumara Dissanayake took over the duties of the Ministry of Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources on Thursday (03).
-
-◼️
-
-[Data](articles/94443af9.json)
-
-[Extended Data](ext_articles/94443af9.ext.json)
-
----
-
-### Unidentified body found in Wellawatte coast
-
-*2024-10-03 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201805) · `si`
-
-Body discovered Wellawatte coast investigation underway police report details
-
-🟩
-
-Unidentified body has been launched to the coast of the Wellawatte Seawah area.
-
-Investigations into the Wellawatte Police had commenced today (03).
-
-A 45-year-old, a typical bundle, is one of four feet high in a height height.
-
-◼️
-
-[Data](articles/a98d21d5.json)
-
-[Extended Data](ext_articles/a98d21d5.ext.json)
-
----
-
-### Freedom Party Alliance to the General Election
-
-*2024-10-03 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201804) · `si`
-
-Sri Lanka Freedom Party undecided about general election participation. Leader Mahinda Amaraweera focuses on alliances for future elections.
-
-🟩
-
-The Sri Lanka Freedom Party has not yet decided to contest the general election, Mr. Mahinda Amaraweera said.
-
-He said that he was also focused on contending to the next general election with several other parties.
-
-Speaking to the media, Mahinda Amaraweera expressed his views to the media when he came to attend a discussion at the Independence Party Headquarters on how to contest the general election.
-
-◼️
-
-[Data](articles/806362f9.json)
-
-[Extended Data](ext_articles/806362f9.ext.json)
-
----
-
-### Wild Elephants in Vavuniya - Eechangulam
-
-*2024-10-03 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195386) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Vavuniya: Wild elephants destroy coconut trees overnight. Impact on agriculture and livelihoods in southern areas."
-
-🟩
-
-A large number of coconut trees have been completely destroyed overnight by wild elephants in Vavuniya.
-
-Elephants have been destroyed by the elephants during the waterfront and cultivated in the South and their livelihood has been affected and how to do the upcoming agricultural impact on the impact of the elephant.
-
-◼️
-
-[Data](articles/5e4445f6.json)
-
-[Extended Data](ext_articles/5e4445f6.ext.json)
-
----
-
-### Nineh Parliament represented 241 MPs
-
-*2024-10-03 13:36:00* · [`adalk`](https://www.ada.lk/breaking_news/නවවැනි-පාර්ලිමේන්තුව-මන්ත්‍රීවරු-241ක්-නියෝජනය-කරලා/11-412288) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ninth Parliament: 241 MPs, 196 vacancies filled. Key events: resignations, elections, appointments. Notable figures: Ranil Wickremesinghe, Gotabhaya Rajapaksa. Sessions ran from 2012 to 2023, meeting 390 days total.
-
-🟩
-
-The first meeting began on August 20, 202, on September 24, 2024, 196 constitutional vacancies in the 19th-month election section. 16 members of the Constitution of 18 occasionsMPs have become MPs.
-
-Accordingly 241 MPs have represented this Parliament. Jayantha Ketagoda, who was elected to Parliament from the national list, was elected to Parliament, but Basil Rajapaksa was elected. The Hon. Ajith Nivard Cabraal resigned by the Hon. Ajith Nivard Cabraal.
-
-Similarly, Mr. Munibar Rahman's resignation for the vacant seat. HM. Mr. Fowzie was elected and Munibir Rahman was again elected to the Parliamentary Diyanama Gamage, which vacant Diyanayam Gamage.. However, a new MP was not appointed to the vacant Hon. Harin Fernando.
-
-...
-
-[Data](articles/7a04f21c.json)
-
-[Extended Data](ext_articles/7a04f21c.ext.json)
-
----
-
-### Japan will never invest in Sri Lanka if corruption continues - Ambassador
-
-*2024-10-03 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/195385) · `ta`
-
-Japan warns: No investment without ending corruption in Sri Lanka. Economic reforms underway, but transparency crucial for foreign investors.
-
-🟩
-
-Japanese Ambassador to Sri Lanka Missukoshi Hadeki has stated that there is no chance of getting Japan's investments if corruption in Sri Lanka persists.
-
-He was speaking at a function held at the Colbees Hotel, Colombo
-
-Sri Lanka is today implementing economic reforms under the International Monetary Agreement.
-
-However, such foreign pressures should not be considered weak for the best future of the country, but rather a testament to the intelligence of the leaders.
-
-India faced financial crisis in 1991, with the International Monetary Fund with the advice of the World Bank with the advice of the World Bank.
-
-Economic reforms on that day have made India the fastest growing economy today.
-
-The international community considers Sri Lanka's dedication to follow the intelligent economic policies of the International Monetary Fund.
-
-Japan has recently resumed 11 Japanese currency loans schemes following the reaching of Sri Lanka in 2022.
-
-...
-
-[Data](articles/5abe7a7b.json)
-
-[Extended Data](ext_articles/5abe7a7b.ext.json)
-
----
-
-### Sri Lanka 9th parliament sees two members resigning to be president
-
-*2024-10-03 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-9th-parliament-sees-two-members-resigning-to-be-president-182118/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 9th parliament has seen two members resigning to be President of the country, while 19 posts fell vacant for various reasons, a statement from the assembly said.
-
-Ranil Wickremesinghe became president after Gotabaya Rajapaksa left in July 2022 following social unrest from forex shortages.
-
-Following the election in September 2024 Anura Dissanayake became president.
-
-The Ninth Parliament commenced on August 20, 2020 and was dissolved by the president at midnight on September 24, 2024.
-
-During its lifespan there were 19 vacancies of parliamentary seats according to Article 66 of the Constitution, and 16 members were appointed as new members on 18 occasions.
-
-Some of the vacancies were created by deaths, migrations, new job offers and court rulings.
-
-Jayantha Katagoda, who was elected to Parliament from the national list, resigned and Basil Rajapaksa was appointed in his place.
-
-...
-
-[Data](articles/279978ae.json)
-
-[Extended Data](ext_articles/279978ae.ext.json)
-
----
-
-### Porsche of the country: What is a manifestation vehicle?
-
-*2024-10-03 13:06:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdengx7j9yzo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Porsche of the country": A luxury vehicle in Sri Lanka. Recent controversy over presidential vehicle. Media reports questioned its authenticity. Unique features like cooking facilities, large engines, natural leather, and advanced air conditioning. Debate on whether such vehicles are truly "made-in-Sri-Lanka". High maintenance costs and fuel consumption.
-
-🟩
-
-Many Sri Lankan people have paid attention to luxury vehicles.
-
-Two things affected in recent years. One point was the publication of media reports, as the vessel entrusted to the president after he was appointed as the president.
-
-The second is the 'Porsche Cyan S (PORSCHE),' PORSCHES CAYENS S (PERSCHES Cian S) type is a "manufacturing from a" manufacturing.
-
-The Presidential Media Unit mentioned that 107 vehicles were given back to the government.
-
-However, Rosy Senanayake said a press conference was summoned by October 2, and the vehicle was in a dilapidated condition for over 10 years.
-
-She also accused the relevant media institutions regarding propagating the vehicle as a "manufacturing".
-
-"A sense of luxury is a car and equipment with a special level, which is often connected to high quality, unique, unique and identity," shows information on information.
-
-The materials, technology, engine, mode, mode, comfort and comfort are used to produce them.
-
-...
-
-[Data](articles/3ddee61c.json)
-
-[Extended Data](ext_articles/3ddee61c.ext.json)
-
----
-
-### Yall. Fire by a violent gang of sarcasm in Nelliyadi
-
-*2024-10-03 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195377) · `ta`
-
-Violent gang sets fire to sari shop in Jaffna, destroying goods. Three men on motorbike poured petrol and ignited blaze. Police investigating incident.
-
-🟩
-
-A violent gang set fire to a sari shop in Nelliyadi, Jaffna, and the value of the store has been destroyed in the fire.
-
-A three -year -old violent gang of violence has broken into a nearby sarcasm in the necklace market on Wednesday (02) night.
-
-Police said that the fire spread rapidly, the valuable clothes were destroyed in the fire.
-
-At the same time, the investigation revealed that the three men who had arrived on a motorbike last week had poured petrol and set fire to the shop.
-
-It is noteworthy that the violent gang set fire to the sari shop again yesterday.
-
-◼️
-
-[Data](articles/f727ce6c.json)
-
-[Extended Data](ext_articles/f727ce6c.ext.json)
-
----
-
-### Sri Lankan stranded in Lebanon provided shelter, volatile situation: FM
-
-*2024-10-03 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankan-stranded-in-lebanon-provided-shelter-volatile-situation-fm-182114/) · `en`
-
-ECONOMYNEXT – Sri Lanka embassy in Lebanon said it is keeping in touch with nationals who are registered with them, and no one has been ‘seriously affected’ so far by Israeli bombing.
-
-Up to a million people are estimated to have been displaced so far.
-
-The security situation in Lebanon is volatile and constantly evolving.
-
-The Sri Lanka Embassy in Beirut is maintaining constant contact with Sri Lankan Associations and individual Sri Lankans registered with the Embassy. Ambassador Kapila Jayaweera and officers of the Sri Lanka Embassy are providing assistance to Sri Lankans as required.
-
-Apart from a few Sri Lankans who have been stranded and for whom the Embassy has arranged shelter, no Sri Lankans have been seriously affected by the situation so far.
-
-◼️
-
-[Data](articles/cf6ef723.json)
-
-[Extended Data](ext_articles/cf6ef723.ext.json)
-
----
-
-### Arrested with a sword, manna kid
-
-*2024-10-03 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195380) · `ta`
-
-Colombo Police arrest suspect swords manna knives two murders Kasun drug trafficker
-
-🟩
-
-The Colombo Police Crime Prevention Division has arrested a suspect in connection with two murder incidents in a house in Wellampitiya Varakoda area.
-
-The suspect has been arrested in connection with information received by the Colombo Police Crime Unit.
-
-Two swords and manna knives have been seized by the police in the house of the suspect.
-
-The arrested suspect has been detained on two murders in the Grandpass Police Division and later released on bail, police investigations have revealed.
-
-Police investigations have revealed that the suspect has maintained close contact with the famous drug trafficker "Kasun", who is abroad.
-
-◼️
-
-[Data](articles/24ae3d6d.json)
-
-[Extended Data](ext_articles/24ae3d6d.ext.json)
 
 ---

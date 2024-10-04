@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 15:57:46**
+As of **2024-10-04 16:12:16**
 
 ## Newspaper Stats
 
-*Scraped **47,776** Articles*
+*Scraped **47,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ colombotelegraphcom | 474
 islandlk | 2,810
 economynextcom | 2,923
 dailyftlk | 3,222
-adalk | 4,420
+adalk | 4,421
 dailymirrorlk | 4,733
 adaderanalk | 5,620
 tamilmirrorlk | 6,444
-virakesarilk | 7,642
-adaderanasinhalalk | 8,259
+virakesarilk | 7,648
+adaderanasinhalalk | 8,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,776 (100.0%) of 47,776 articles have been extended.
+47,776 (100.0%) of 47,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### ඉන්දීය විදේශ ඇමති ජනපති හමුවෙයි
+
+*2024-10-04 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201840) · `si`
+
+දිවයිනට පැමිණි ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා අද (04) ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවී සාකච්ඡා පවත්වා තිබේ.
+
+◼️
+
+[Data](articles/b79d27c5.json)
+
+---
+
+### කොටස් වෙළෙඳපොළේ ලොකු වෙනසක්
+
+*2024-10-04 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201839) · `si`
+
+කොළඹ කොටස් වෙළෙඳපොළේ, සියලු කොටස් මිල දර්ශකය ඒකකය 12,000 සීමාව ඉක්මවා ගොස් තිබේ.
+
+2024 ජූලි 03 වන දිනට පසුව එම අගය ඉක්මවා ගිය පළමු අවස්ථාව මෙය වේ.
+
+අද දිනයේ දී සියලු කොටස් මිල දර්ශකය ඒකක 123.50කින් ඉහළ ගිය අතර, දිනය නිමාවෙන විට මුළු අගය දැක්වූයේ 12,053.49ක් ලෙසය.
+
+◼️
+
+[Data](articles/1309e74d.json)
+
+---
 
 ### CSE’s ASPI crosses 12,000 mark
 
@@ -73,6 +101,26 @@ Ajith Parakum Jayasinghe was translated into Sinhala.
 [Data](articles/b2abcb63.json)
 
 [Extended Data](ext_articles/b2abcb63.ext.json)
+
+---
+
+### வெங்காய விலை வீழ்ச்சியால் விவசாயிகள் சிரமம்
+
+*2024-10-04 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195471) · `ta`
+
+அநுராதபுரம் மாவட்டத்தின் கலென்பிந்துனுவெவ பிரதேச செயலகப் பிரிவுக்குட்பட்ட விவசாயிகள், சுமார் 1,000 ஏக்கர் நிலப்பரப்பில், பெரிய வெங்காயம் பயிர் செய்கைகளை மேற்கொண்டிருந்த போதிலும், அவற்றின் அறுவடைக்கு உரிய விலை கிடைக்காததால் சிரமத்திற்குள்ளாகியுள்ளதாக விவசாயிகள் தெரிவித்தனர்.
+
+ஒரு கிலோ பெரிய வெங்காயத்தின் விலை 156, 160 மற்றும் 170 ரூபாவாக காணப்படுவது மிகவும் வருத்தமளிக்கும் நிலை என விவசாயிகள் சுட்டிக்காட்டுகின்றனர்.
+
+விவசாயிகள் பயிரிட்டுள்ள பெரிய வெங்காயங்களை குறைந்த விலைக்கு விற்பனை செய்வதன் மூலம் தமக்கு இலாபம் கிடைப்பதில்லை எனவும் இதனால் பயிர்ச்செய்கைக்காக பெற்ற கடனை கூட செலுத்த முடியாதுள்ளதாகவும் விவசாயிகள் தெரிவித்துள்ளனர்.
+
+மேலும், வெளிநாட்டில் இருந்து  பெரிய வெங்காயங்களை இறக்குமதி செய்வதால், உள்ளூர் பெரிய வெங்காயங்கள் குறைந்த விலையில் விற்பனை செய்யப்படுவதாக தெரிவிக்கின்றன ர்.
+
+உள்நாட்டு விவசாயிகள் பயிரிட்டுள்ள பெரிய வெங்காயங்களை ஒரு கிலோ 275 முதல் 300 ரூபா வரை விற்பனை செய்ய அரசாங்கம் ஏற்பாடு செய்ய வேண்டும் என விவசாயிகள் கோரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/79bbacf8.json)
 
 ---
 
@@ -184,6 +232,26 @@ When they visited the couple's house, it was revealed that the couple had been h
 
 ---
 
+### 'இது நிச்சயமாக சிறந்த ஆரம்பம், இரண்டு வாரங்களை  அனுரகுமார சிறப்பாக பயன்படுத்தியுள்ளார், சர்வதேச சமூகம் இலங்கைக்கு ஆதரவளிக்கவேண்டும்" - எரிக்சொல்ஹெய்ம்
+
+*2024-10-04 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195477) · `ta`
+
+சர்வதேச சமூகம் இலங்கைக்கு ஆதரவளிக்கவேண்டும் என தெரிவித்துள்ள இலங்கைக்கான நோர்வேயின் முன்னாள் சமாதான தூதுவர் எரிக்சொல்ஹெய்ம் இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார தெரிவு செய்யப்பட்டு இரண்டு வாரங்களாகின்றன , இந்த காலத்தை அவர் அவர் சிறப்பாக பயன்படுத்தியுள்ளார் என குறிப்பிட்டுள்ளார்
+
+இலங்கையின் புதிய ஜனாதிபதியாக அனுரகுமார தெரிவு செய்யப்பட்டு இரண்டு வாரங்களாகின்றன , இந்த காலத்தை அவர் அவர் சிறப்பாக பயன்படுத்தியுள்ளார்.
+
+அவர் இராஜதந்திர செயற்பாடுகளை மிகச்சரியான முறையில் முன்னெடுத்துள்ளார்.முதலில் இந்திய தூதுவருடன் சந்திப்பு, பின்னர் சீன தூதுவருடன், இதன் முக்கியமான நாடு என பார்த்தால்  இந்தியாவிற்கே முதலிடம் அதற்கு பின்னரே சீனா என்ற சமி;க்ஞையை அவர் வெளிப்படுத்தியுள்ளார்.
+
+அதன் பின்னர் அனைத்து நாடுகளினதும் தூதுவர்களை அவர் சந்தித்துள்ளார்.மேற்குலகம் , ரஸ்யா மேலும் பல நாடுகள்.
+
+இலங்கைக்கு முதலிடம் என்ற வெளிவிவகார கொள்கையே பின்பற்றப்படும் என்ற சமிக்ஞையை அவர் வெளியிட்டுள்ளார்.
+
+...
+
+[Data](articles/b2798b53.json)
+
+---
+
 ### Elderly couple found murdered inside house in Ahangama
 
 *2024-10-04 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102444/elderly-couple-found-murdered-inside-house-in-ahangama) · `en`
@@ -201,6 +269,24 @@ A magisterial inquest is scheduled to be conducted on the bodies, the police sai
 [Data](articles/8b48e640.json)
 
 [Extended Data](ext_articles/8b48e640.ext.json)
+
+---
+
+### பாராளுமன்றத் தேர்தலில் போட்டியிடப் போவதில்லை - பந்துல குணவர்தன
+
+*2024-10-04 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195474) · `ta`
+
+பாராளுமன்றத் தேர்தலில் போட்டியிடப் போவதில்லை என முன்னாள் அமைச்சர் பந்துல குணவர்தன அறிவித்துள்ளார்.
+
+ஹோமாகம தேர்தல் தொகுதியை பிரதிநிதித்துவப்படுத்தி 20 வருடங்களுக்கும் மேலாக அரசியலில் ஈடுப்பட்டுள்ளேன். இந்நிலையில், நான் பிரதி அமைச்சராகவும் அமைச்சரவை அமைச்சராகவும் செயற்பட்டுள்ளேன்.
+
+நீண்டகாலமாக பாராளுமன்றத்தில் பிரதிநிதித்துவம் இல்லாமல் இருந்த ஹோமாகம தொகுதியை நான் பிரதிநிதித்துவப்படுத்தியமைக்கும்,  ஹோமாகம நகரை கல்வியின் மையமாக மாற்றியமைக்காகவும் மகிழ்ச்சியடைகிறேன்.
+
+கலாநிதி பட்டத்தை பெறுவதற்காக கல்வியை தொடரவும், திரைப்படம் தயாரிப்பதற்கும் தனது நேரத்தை செலவிட திட்டமிட்டுள்ளேன் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/147e11e5.json)
 
 ---
 
@@ -225,6 +311,34 @@ Later, the case was ordered to be called on November 4 for pre-trial conference.
 [Data](articles/47faeb9d.json)
 
 [Extended Data](ext_articles/47faeb9d.ext.json)
+
+---
+
+### ජනපති සහ අයි.එම්.එෆ්. අතර දෙවන දිනටත් සාකච්ඡා
+
+*2024-10-04 14:34:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-අයි-එම්-එෆ්--අතර-දෙවන-දිනටත්-සාකච්ඡා/11-412309) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහන ශක්තිමත්ව ඉදිරියට ගෙන යාම වෙනුවෙන් වූ වත්මන් ජනාධිපතිවරයාගේ කැපවීම තහවුරු කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදල අතර විශේෂ සාකච්ඡාවක් දෙවන දිනටද අද (04) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී  ආරම්භ කෙරිණි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ආසියා පැසිෆික් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ක්‍රිෂ්ණ ශ්‍රීනිවාසන් (Krishna Srinivasan), ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී ආචාර්ය පීටර් බෘවර් (Dr. Peter Breuer) යන මහත්වරු ප්‍රමුඛ ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ නියෝජිතයින් සහ IMF සාකච්ඡා සඳහා පත් කෙරුණු මෙරට නියෝජිත කණ්ඩායම ඊට එක්ව සිටියි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන වැඩසටහනේ ඉලක්ක සපුරා ගන්නා අතරම ජනතාව මත පැටවෙන පිඩනය ඉවත් කෙරෙන විකල්ප මාර්ගයන් ඔස්සේ එම අරමුණු වෙත ළඟා වීම ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ අරමුණයි.
+
+◼️
+
+[Data](articles/15e95de1.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-10-04 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195469) · `ta`
+
+இன்று வெள்ளிக்கிழமை (04) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.4949 ரூபாவாகவும், விற்பனை விலை 298.4983 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/30335884.json)
 
 ---
 
@@ -294,6 +408,24 @@ Indian External Affairs Minister Dr. Subramaniam Jaishankar, who has arrived in 
 
 ---
 
+### திருப்தியுடனேயே   வெளியேறுகிறேன் ; மீண்டும் சட்டத்தரணி தொழிலை ஆரம்பித்தார் அலி சப்ரி
+
+*2024-10-04 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/195465) · `ta`
+
+மிகவும் சவாலான ஐந்து வருட காலப் பகுதியில் அரசியலில் என்னால் முடியுமான அனைத்தையும் இந்த நாட்டுக்காக செய்தேன். அந்த வகையில் நாட்டுக்கு ஆற்றிய சேவை தொடர்பில் நான் திருப்தியுடன் வெளியேறுகிறேன். இனி அரசியலில் பிரவேசிக்க மாட்டேன் என்று முன்னாள் வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்தார்.
+
+கடந்த ஜனாதிபதித் தேர்தலில் ஆட்சி மாற்றம் ஏற்பட்டதுடன் பாராளுமன்றம் கலைக்கப்பட்டது. இந்நிலையில் முன்னாள் வெளிவிவகார அமைச்சர் அலி சப்ரி அரசியலிலிருந்து முழுமையாக வெளியேறியுள்ளதுடன் மீண்டும் தனது சட்டத்தரணி தொழிலை ஆரம்பித்திருக்கிறார்.
+
+நேற்று வியாழக்கிழமை (03) தனது முன்னைய சட்டத்தரணி தொழிலை ஆரம்பித்த ஜனாதிபதி சட்டத்தரணி அலி சப்ரி தனது குழுவினருடன் எடுத்துக்கொண்ட புகைப்படம் ஒன்றை சமூக வலைதளத்தில் பதிவிட்டிருந்தார்.
+
+‘‘எனக்கு உரிய இடத்துக்கு மீண்டும் திரும்பி வந்தமை தொடர்பில் நன்றாக உணர்கிறேன்’’ இவ்வாறு ஜனாதிபதி சட்டத்தரணி அலி சப்ரி எக்ஸ் தளத்தில் பதிவிட்டிருக்கிறார்.
+
+...
+
+[Data](articles/feeff9b1.json)
+
+---
+
 ### An elderly couple cut into a house
 
 *2024-10-04 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201834) · `si`
@@ -333,6 +465,22 @@ The President had also met with the visiting high-level IMF delegation yesterday
 [Data](articles/d7e268fc.json)
 
 [Extended Data](ext_articles/d7e268fc.ext.json)
+
+---
+
+### யாழ்ப்பாண மாவட்டத்தில் டெங்கு நோய் கட்டுப்படுத்தல் தொடர்பான விசேட கலந்துரையாடல்
+
+*2024-10-04 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195463) · `ta`
+
+யாழ்ப்பாண மாவட்டத்தில் டெங்குநோயை கட்டுப்படுத்தல் தொடர்பான கலந்துரையாடல் யாழ்ப்பாண மாவட்ட அரசாங்க அதிபரும் மாவட்டச் செயலாளருமான  மருதலிங்கம் பிரதீபன் அவர்களின் தலைமையில் நேற்று வியாழக்கிழமை (03) மாவட்ட செயலக கேட்போர் கூடத்தில் இடம்பெற்றது.
+
+மழை காலம் வருவதனால் டெங்கு நோய் வராமல் தடுப்பதற்குரிய வழிவகைகள் ஆராயப்பட்டு கலந்துரையாடலில் தீர்மானங்கள்  எடுக்கப்பட்டன.
+
+இக் கலந்துரையாடலில் மாகாண சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி சமன் பத்திரண, பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஆ.கேதீஸ்வரன், மேலதிக அரசாங்க அதிபர் (காணி) க.ஸ்ரீமோகனன், யாழ்ப்பாண மாவட்ட பிரதேச செயலாளர்கள், சுகாதார வைத்திய அதிகாரிகள், சிரேஷ்ட பொது சுகாதார பரிசோதகர்கள், பிரதேச சபை செயலாளர்கள், சமூக மட்ட அமைப்புக்களின் பிரதிநிதிகள்,மாவட்ட செயலக உத்தியோகத்தர்கள் உள்ளிட்ட பலர் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/d49bdc50.json)
 
 ---
 
@@ -2061,197 +2209,5 @@ Accordingly, nominations can be submitted till 12 noon on the 11th.
 [Data](articles/ddd39725.json)
 
 [Extended Data](ext_articles/ddd39725.ext.json)
-
----
-
-### Once the general election is over, the date for the local government election will be announced - the Elections Commission
-
-*2024-10-04 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195435) · `ta`
-
-Local government elections delayed due to Supreme Court ruling. Date to be announced soon after general election.
-
-🟩
-
-We honorably accept the verdict of the Supreme Court regarding the local government elections. The Elections Commission has stated that the date of holding the local government elections will be announced as soon as possible.
-
-The Elections Commission honored the verdict of the High Court on 22.08.2012, taking up petitions on the fundamental rights violation of the Local Government Elections in 2023.
-
-The Extreme Gazette, which was published on 26.07.2012, 26.07.2012, was taken to hold the local government elections after the Presidential Elections to hold the presidential election on 21.09.2012.
-
-It was observed that the district would take at least 30 -35 days to carry out the next steps following a meeting with the District Deputy, Assistant Elections Commissioners and the State Principal.
-
-President Anura Kumara Dissanayake has dissolved the ninth parliament on 24.09.2012 and issued the announcement of the vote for the general election.
-
-...
-
-[Data](articles/a692db90.json)
-
-[Extended Data](ext_articles/a692db90.ext.json)
-
----
-
-### Bollywood Boutique celebrates a decade of elegance with grand showroom launch
-
-*2024-10-04 01:58:00* · [`islandlk`](http://island.lk/bollywood-boutique-celebrates-a-decade-of-elegance-with-grand-showroom-launch/) · `en`
-
-Bollywood Boutique, the renowned ethnic wear destination known for its exquisite collection of sarees, salwars, kurtis, and lehengas, marked a significant milestone with the grand launch of its new 7,000-square-foot showroom at 17 Hampden Lane, Colombo 06. This event not only celebrated the boutique’s 10th anniversary but also unveiled an expanded range that promises to elevate the shopping experience for fashion enthusiasts across the city.
-
-Established in 2014, Bollywood Boutique has become a household name for those seeking the finest in Indian and Pakistani fashion. From the intricate weaves of luxurious sarees to the vibrant hues of bridal lehengas, the boutique has consistently offered a curated selection from top designers across both countries. The new showroom, with its expansive layout, allows for an even more immersive shopping experience, showcasing the breadth and depth of their collection in a space designed to inspire and delight.
-
-...
-
-[Data](articles/3c839871.json)
-
-[Extended Data](ext_articles/3c839871.ext.json)
-
----
-
-### WIS Accountancy launches AI-driven mortgage platform ‘MortgagX’ and announces major job expansion
-
-*2024-10-04 01:58:00* · [`islandlk`](http://island.lk/wis-accountancy-launches-ai-driven-mortgage-platform-mortgagx-and-announces-major-job-expansion/) · `en`
-
-WIS Accountancy, a leading provider of digital accountancy, bookkeeping, tax, and business advisory services in UK, is expanding operations in both the UK and Sri Lanka. WIS Accountancy is a part of the one-stop finance shop the WIS Group of companies which also comprises WIS Umbrella, WIS Mortgages and Insurance and WIS Wealth.
-
-...
-
-[Data](articles/6678d3c3.json)
-
-[Extended Data](ext_articles/6678d3c3.ext.json)
-
----
-
-### St. Theresal Temple Festival of Kilinochchi
-
-*2024-10-04 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195434) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-St. Theresa's Temple Festival in Kilinochchi: The first day's events were shared with Raja Dilakasan's assistance and blessings from Silvezrr Das. Notably, the Chief Minister of Marakkottai and all temple priests attended.
-
-🟩
-
-Ipaci 1st day share. With the help of Raja Dilakasan and the Blessings of the Silvezrr Das. It is noteworthy that the Chief Minister of the Marakkottai and all the priests of the parrot was presented with all the priests.
-
-◼️
-
-[Data](articles/c012ae20.json)
-
-[Extended Data](ext_articles/c012ae20.ext.json)
-
----
-
-### Eva leads national effort to raise awareness on menstrual health
-
-*2024-10-04 01:54:00* · [`islandlk`](http://island.lk/eva-leads-national-effort-to-raise-awareness-on-menstrual-health/) · `en`
-
-Eva, the leading sanitary napkin brand in Sri Lanka, partnered with the Ministry of Education, Sri Lanka Police and Team Hero Foundation to launch a transformative educational initiative titled “Eva Danamuthu Daru – Danagenama Lokuwemu” under the national program “Magaharunu Padama.” The “Eva Danamuthu Daru – Danagenama Lokuwemu” initiative aims to raise awareness about feminine health, puberty, reproductive health, and menstruation in over 3,000 girls’ schools across the island.
-
-The inauguration of the “Magaharunu Padama” program was held on October 1st in honor of World Children’s Day, graced by the newly appointed Prime Minister, Dr. Harini Amarasuriya, along with other delegates and officials from the Ministry of Education and Sri Lanka Police. This effort is designed to fill the gaps in education about areas often surrounded by stigma and misinformation.
-
-...
-
-[Data](articles/90bf7957.json)
-
-[Extended Data](ext_articles/90bf7957.ext.json)
-
----
-
-### Sri Lanka's strong feet in the Women's T20 World Cup;Failed by 31 runs to Pakistan
-
-*2024-10-04 01:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195433) · `ta`
-
-Sri Lanka loses to Pakistan in Women's T20 World Cup. Sri Lanka failed to defend 85 runs, losing by 31 runs. Key factors: poor batting, especially in last 5 overs; Pakistan's quick runs and good bowling. Vishmi Gunaratne top scorer for Sri Lanka with 20 runs. Pakistan wins crucial match.
-
-🟩
-
-In the first match of the ICC Women's R20 World Cup, Pakistan won the most essential victory at the Sharjah Cricket Stadium between Sri Lanka and Pakistan on Thursday night.
-
-The main reason for its defeat was that Sri Lanka gave up 32 runs in the last five overs, unable to beat Pakistan's last 2 wickets quickly. In addition, Pakistan captain Fatima Sanaa's fast -paced 30 runs and the accurate bowling of bowlers made Pakistan easier.
-
-The Sri Lankan women's team lost by 9 wickets in 20 overs and lost 85 runs.
-
-This defeat has fallen into a heavy blow to Sri Lanka and has to face a severe crisis in the ongoing matches.
-
-The worst feet of the Sri Lankan players on the pitch, which favored the spin, beat the wickets at regular intervals due to reckless bats.
-
-Vishmi Gunaratne was the only young hero in the front row and scored 20 runs.
-
-Samari Attappattu (6), Harshita Samarawickrama (7), Hassini Perera (8) and Kavisha Dilhari (3) lost the same number.
-
-...
-
-[Data](articles/ae6c11a8.json)
-
-[Extended Data](ext_articles/ae6c11a8.ext.json)
-
----
-
-### Vignettes, USA
-
-*2024-10-04 01:42:00* · [`islandlk`](http://island.lk/vignettes-usa/) · `en`
-
-Americans like to think of themselves as a young country, and a young people. They like to think they represent the New World. In Daisy Miller, the great Henry James contrasts the insouciance of this new world with staidness of the old. The new world does not, to be sure, always triumph – the heroine in Daisy Miller, for instance, meets a tragic ending – yet even in tragedy, one feels that it has been vindicated over the old.
-
-...
-
-[Data](articles/effd0faa.json)
-
-[Extended Data](ext_articles/effd0faa.ext.json)
-
----
-
-### The UN. Meeting with the associate president
-
-*2024-10-04 00:56:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-இணைப்பாளர்-ஜனாதிபதியுடன்-சந்திப்பு/175-344898) · `ta`
-
-UN Coordinator meets SL President, discusses cooperation on development and poverty reduction.
-
-🟩
-
-United Nations Coordinator Mark Anduru France met with President Anura Kumara Dissanayake at the Presidential Office yesterday (03).
-
-The United Nations Resident Coordinator, President Anura Kumara Dissanayake presented the greeting of the UN Secretary -General Antonia Gutaras.
-
-In the last presidential election, President Anura Kumara Dissanayake congratulated the president's election manifesto.
-
-Pointing out that the people's expectations are high, the UN Assistant promised that the UN would cooperate with Sri Lanka's program and poverty alleviation efforts with the International Monetary Fund.
-
-Mark Andrew praised the president's election manifesto and promised to provide UN technical and financial assistance to those initiatives.
-
-Similarly, the resident of the new government for national peace in the community, the resident of the resident, also congratulated the president's commitment to build confidence in each party.
-
-...
-
-[Data](articles/e35066a9.json)
-
-[Extended Data](ext_articles/e35066a9.ext.json)
-
----
-
-### 2024-10-03 (Thursday)
-
-### What did the President say about the tax and income tax?
-
-*2024-10-03 23:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வற்-வரி-வருமான-வரி-குறித்து-IMF-இடம்-ஜனாதிபதி-கூறியது-என்ன/175-344897) · `ta`
-
-President Anura Kumara Dissanayake urges IMF to consider alternatives to reduce tax burden on citizens. Government agrees with IMF goals but seeks exemptions for high-income earners.
-
-🟩
-
-President Anura Kumara Dissanayake has urged the IMF officials of the importance of approaching those objectives through alternatives to eliminate the burden on the people.
-
-The Senior Ambassador of the International Monetary Fund, including the Director of the International Monetary Fund, Krishna Srinivasan, Senior delegation, Dr. Peter Bruire, met with President Anura Kumara Dissanayake today (03).
-
-Central Bank Governor Dr. Nandalal Weerasinghe, Treasury Secretary Mahinda Siriwardena, Dr. Harshana Suriyaparuma and President's senior advisors Professor Anil Jayantha and Duminda Hulangamuwa were present at the meeting.
-
-The president reiterated the vast agreement of the government in principle with the objectives of the International Monetary Fund and emphasized the importance of approaching those objectives through alternatives to eliminate the burden on the people.
-
-...
-
-[Data](articles/43879e9b.json)
-
-[Extended Data](ext_articles/43879e9b.ext.json)
 
 ---

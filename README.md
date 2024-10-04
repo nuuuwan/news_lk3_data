@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 13:08:25**
+As of **2024-10-04 13:22:58**
 
 ## Newspaper Stats
 
@@ -171,6 +171,10 @@ The Parliament of Sri Lanka comprises 225 members, with 196 elected from 22 elec
 ### Re -discussion between the President and the IMF
 
 *2024-10-04 12:10:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கும்-IMFக்கு-இடையில்-மீண்டும்-கலந்துரையாடல்/175-344912) · `ta`
+
+Meeting between President Anura Kumara Dissanayake and IMF officials begins. Focuses on implementing IMF program and reducing citizens' burdens.
+
+🟩
 
 A meeting between President Anura Kumara Dissanayake and the International Monetary Fund began today (04) at the Presidential Office to ensure the president's commitment to implement the IMF program.
 

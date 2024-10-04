@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 21:23:08**
+As of **2024-10-04 21:38:48**
 
 ## Newspaper Stats
 
-*Scraped **47,823** Articles*
+*Scraped **47,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,629
 tamilmirrorlk | 6,448
 virakesarilk | 7,653
-adaderanasinhalalk | 8,274
+adaderanasinhalalk | 8,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,823 (100.0%) of 47,823 articles have been extended.
+47,824 (100.0%) of 47,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### The decision taken about the IMF Third Premium
+
+*2024-10-04 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201854) · `si`
+
+Sri Lanka IMF Third Review summary: IMF approves $336 million aid, praises reform progress but warns of ongoing risks. New president meets IMF officials to discuss debt restructuring and program adjustments. Future decisions on third loan installment pending.
+
+🟩
+
+The Third Review of Sri Lanka is announced by the IMF's visit to the island.
+
+A special discussion between the President and the International Monetary Fund was held at the Presidential Secretariat this morning (04).
+
+The second discussion focused on the alternate roads that will meet the targets of the IMF program and remove the pressure on the people.
+
+The Presidential Media Unit said that a good and friendly environment for this purpose was well built in these discussions between the two sides.
+
+The negotiation series of three days was successfully completed.
+
+Q: Where can you change the parameters of the program and violations of the new president's administration and the analysis of the Credit and the obligations of the debt owners.
+
+...
+
+[Data](articles/486f8cb5.json)
+
+[Extended Data](ext_articles/486f8cb5.ext.json)
+
+---
 
 ### Hand over before November 7
 
@@ -2409,19 +2437,5 @@ Meanwhile, Children with Hand, Foot and Mouth Disease are also reported in these
 [Data](articles/46e912fa.json)
 
 [Extended Data](ext_articles/46e912fa.ext.json)
-
----
-
-### AKD Riding The Tiger
-
-*2024-10-04 08:07:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akd-riding-the-tiger/) · `en`
-
-Anura Kumara Dissanayake, candidate of the Janatha Vimukthi Peramuna (JVP) and National Peoples Power (NPP) front, has been elected as President of Sri Lanka in the election held on September 24. His election is a proof that the Aragalaya, the spontaneous mass protests in May 2022 was no flash in the pan. Anura’s campaign focused on the youth, who had rallied together during Aragalaya protests and successfully converted them into votes. However, Anura does not seem to have understood the younger generations’ discontent against the existing political class and systems that generated Aragalaya protests. His speeches in the run up to the election focused on providing corruption free administration. His detailed election manifesto titled “A Prosperous Nation, A Beautiful Life” gives a summary of plans for the development of various sectors, including engineering, IT, the economy, social issues, education, and health. But speaks of no systemic changes.
-
-...
-
-[Data](articles/9ac3fd2c.json)
-
-[Extended Data](ext_articles/9ac3fd2c.ext.json)
 
 ---

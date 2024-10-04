@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 16:55:35**
+As of **2024-10-04 17:08:21**
 
 ## Newspaper Stats
 
-*Scraped **47,789** Articles*
+*Scraped **47,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 3,222
 adalk | 4,421
 dailymirrorlk | 4,733
 adaderanalk | 5,623
-tamilmirrorlk | 6,444
+tamilmirrorlk | 6,445
 virakesarilk | 7,648
-adaderanasinhalalk | 8,262
+adaderanasinhalalk | 8,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,789 (100.0%) of 47,789 articles have been extended.
+47,789 (100.0%) of 47,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### මස්ක්ට පමණක් දෙවැනි වූ සකර්බර්ග්
+
+*2024-10-04 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201843) · `si`
+
+මෙටා ප්‍රධාන විධායක මාර්ක් සකර්බර්ග් ලොව ධනවත්ම පුද්ගලයින් අතර දෙවන ස්ථානයට පත්ව තිබේ.
+
+ඒ මේ දක්වා එම ස්ථානයේ පසු වූ AMAZON සමාගමේ නිර්මාතෘ ජෙෆ් බේසෝස් තෙවන ස්ථානයට පත් කරමිනි.
+
+මාර්ක් සකර්බර්ගේ ආදායම අමෙරිකානු ඩොලර් බිලියන 206.2ක් ලෙස දැක්වෙන අතර මේ වසරේ දෙවන කාර්තුවේ දී ඔහුගේ ආදායම 23% කින් වර්ධනය වී ඇති බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+මස්ක් ලොව ධනවත්ම පුද්ගලයා ලෙස පෙරමුණේ පසුවන අතර ඔහුගේ ආදායම අමෙරිකානු ඩොලර් බිලියන 256 කි.
+
+ලොව ධනවත්ව පුද්ගලයින් අතර තෙවන ස්ථානයට පත්ව සිටින ජෙෆ් බේසෝස්ගේ ආදායම දැක්වෙන්නේ අමෙරිකානු ඩොලර් බිලියන 205ක් ලෙසය.
+
+◼️
+
+[Data](articles/3913055e.json)
+
+---
+
+### ඉන්දීය විදේශ ඇමති හමුවු ජනපති අනුරගේ X පණිවුඩය
+
+*2024-10-04 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201842) · `si`
+
+දිවයිනට පැමිණි ඉන්දීය විදේශ අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා අද (04) පස්වරුවේ ශ්‍රී ලංකා ජනාධිපති අනුර කුමාර දිසානායක මහතාව හමුවී සාකච්ඡා පැවැත්විය.
+
+එම සාකච්ඡාව සම්බන්ධයෙන් X පණිවුඩයක් නිකුත් කරමින් ජනපතිවරයා පවසන්නේ, සංචාරක ව්‍යාපාරය වර්ධනය කිරීමෙන්, බලශක්ති කේෂ්ත්‍රය සහ ආයෝජන සම්බන්ධයෙන් ඉන්දීය විදේශ අමාත්‍යවරයා සමග අදහස් හුවමාරු කරගත් බවය.
+
+එසේම ශ්‍රී ලංකාවේ ආර්ථිකය යථා තත්ත්වයට පත්කිරීම සඳහා ඉන්දියාව සහාය ලබාදෙන බවත් ඉන්දීය විදේශ අමාත්‍යවරයා දැනුම්දී තිබේ.
+
+ධීවර, ආර්ථික සහ ජාතික සමගිය සම්බන්ධයෙන් ද ඔවුන් දෙපොළ අදහස් හුවමාරු කරගෙන තිබේ.
+
+◼️
+
+[Data](articles/ec1ec2e6.json)
+
+---
+
+### ஜனாதிபதியை சந்தித்தார் ஜெய்சங்கர்
+
+*2024-10-04 16:32:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ஜெய்சங்கர்/175-344920) · `ta`
+
+இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ். ஜெய்சங்கர் ஜனாதிபதி அனுரகுமார திஸாநாயக்கவை வௌ்ளிக்கிழமை (04) சந்தித்து, இந்தியாவுக்கும் இலங்கைக்கும் இடையிலான ஒத்துழைப்பை மேம்படுத்துதல் மற்றும் உறவை வலுப்படுத்துதல் ஆகியவற்றில் கவனம் செலுத்தினார்.
+
+இந்த சந்திப்பின் போது, ​​அண்டை நாடுகளுக்கு இடையே நிலவும் கூட்டாண்மையை ஆழப்படுத்தும் நோக்கில் இரு தலைவர்களும் பேச்சுவார்த்தையில் ஈடுபட்டனர்.
+
+சந்திப்பைத் தொடர்ந்து, கலாநிதி ஜெய்சங்கர் தனது உணர்வுகளை சமூக ஊடக தளமான ‘X’ இல் வெளிப்படுத்தினார், ஜனாதிபதி திஸாநாயக்கவின் கொழும்பு விஜயத்தின் போது அவரைச் சந்திப்பது ஒரு "கௌரவம்" என்று குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/d5970984.json)
+
+---
 
 ### Court further suspends Keheliya and family’s assets worth Rs. 97 mn
 
@@ -2225,51 +2279,5 @@ Secretary of the Public Health Inspectors Association, Saminda Muthukuda, said t
 [Data](articles/aa83ab7d.json)
 
 [Extended Data](ext_articles/aa83ab7d.ext.json)
-
----
-
-### Sri Lanka makes waves at the OTDYKH / Leisure Travel Fair 2024 in Russia
-
-*2024-10-04 02:32:00* · [`islandlk`](http://island.lk/sri-lanka-makes-waves-at-the-otdykh-leisure-travel-fair-2024-in-russia/) · `en`
-
-On September 19, the 30th anniversary International Forum and Exhibition OTDYKH Leisure 2024 concluded its work at the Expocentre Fairgrounds. This year, the event was a great success, bringing together more than 9,000 industry professionals on one site , including official representatives of Russian regions, delegations from foreign countries, leading tour operators and travel agencies, hotels and accommodation facilities, online booking agencies, MICE agencies and concierge services and other representatives of the tourism industry and related fields.
-
-...
-
-[Data](articles/7f783460.json)
-
-[Extended Data](ext_articles/7f783460.ext.json)
-
----
-
-### Sri Lanka Gem and Jewellery Association congratulates President Anura Kumara Dissanayake
-
-*2024-10-04 02:28:00* · [`islandlk`](http://island.lk/sri-lanka-gem-and-jewellery-association-congratulates-president-anura-kumara-dissanayake/) · `en`
-
-The Sri Lanka Gem and Jewellery Association (SLGJA) the apex body and the voice of the country’s Gem and jewellery industry, with great pride and respect extends heartfelt congratulations to His Excellency on being sworn in as the 9th President of the Democratic Socialist Republic of Sri Lanka.
-
-...
-
-[Data](articles/18a311fa.json)
-
-[Extended Data](ext_articles/18a311fa.ext.json)
-
----
-
-### Dialog Axiata appoints Visvanathamoorthy (“Vish”) Govindasamy as an Independent, Non-Executive Director
-
-*2024-10-04 02:27:00* · [`islandlk`](http://island.lk/dialog-axiata-appoints-visvanathamoorthy-vish-govindasamy-as-an-independent-non-executive-director/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, is pleased to announce the appointment of Vish Govindasamy to its Board as an Independent, Non-Executive Director, effective 1 October 2024.
-
-Govindasamy currently serves as an Executive, Non-Independent Director at both Sunshine Holdings PLC and Watawala Plantations PLC. At Sunshine Holdings PLC, he holds the role of Deputy Chairman and serves in Boards of several subsidiaries of Sunshine Holdings PLC and Watawala Plantations PLC. Furthermore, he serves as an Independent, Non-Executive Director at Softlogic Life Insurance PLC, TAL Lanka Hotels PLC, United Motors Lanka PLC, and the 1990 Suwa Seriya Foundation.
-
-Beyond the corporate sector, Govindasamy has made significant contributions to Sri Lanka’s economy. He is a member of the Governing Board of the Central Bank of Sri Lanka and has served as the Immediate Past Chairman of the Ceylon Chamber of Commerce, as well as a former Chairman of the Employers Federation of Ceylon.
-
-...
-
-[Data](articles/90c184f9.json)
-
-[Extended Data](ext_articles/90c184f9.ext.json)
 
 ---

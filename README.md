@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 10:57:18**
+As of **2024-10-04 11:10:38**
 
 ## Newspaper Stats
 
-*Scraped **47,732** Articles*
+*Scraped **47,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,918
 dailyftlk | 3,222
 adalk | 4,417
 dailymirrorlk | 4,733
-adaderanalk | 5,611
+adaderanalk | 5,612
 tamilmirrorlk | 6,434
 virakesarilk | 7,638
 adaderanasinhalalk | 8,250
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,250
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,732 (100.0%) of 47,732 articles have been extended.
+47,732 (100.0%) of 47,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### Progress of police investigations into high-profile cases reviewed
+
+*2024-10-04 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/102435/progress-of-police-investigations-into-high-profile-cases-reviewed-) · `en`
+
+The Police Media Division stated that a special meeting took place yesterday (3) at the Police Headquarters chaired by the new Secretary to the Ministry of Public Security, Ravi Seneviratne.
+
+The purpose of this meeting was to review the progress of various police investigations concerning high-profile cases of crimes, fraud, and other special crimes that have occurred in the country.
+
+Police stated that the Acting IGP Priyantha Weerasooriya, a group of senior police officials and a group of senior representatives from the Criminal Investigation Department (CID) had also joined the discussion.
+
+Meanwhile, special attention has been paid to ongoing investigations, any cases that might have been temporarily halted and whether political factors have influenced those halted investigations.
+
+Additionally, the meeting focused on investigations that have been unnecessarily delayed and whether there are any other new investigations that need to be launched.
+
+...
+
+[Data](articles/612306a1.json)
+
+---
 
 ### Indian Foreign Minister to visit Sri Lanka
 
@@ -2319,29 +2339,5 @@ The teachers of the Technical College say that the charmic car technique is a st
 [Data](articles/935ffc66.json)
 
 [Extended Data](ext_articles/935ffc66.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 294.00/50 to US dollar, bond yields up
-
-*2024-10-03 17:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-294-00-50-to-us-dollar-bond-yields-up-182186/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 294.00/50 to the US dollar Wednesday, from 296.40/80 a day earlier, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.45/60 percent, up from 10.35/55 percent.
-
-A bond maturing on 15.12.2027 closed at 11.40/55 percent, up from 11.15/30 percent.
-
-A bond maturing on 15.02.2028 closed at 11.60/75 percent, up from 11.35/45 percent.
-
-A bond maturing on 15.09.2029 closed at 11.95/12.05 percent, up from 11.70/85 percent.
-
-A bond maturing on 15.05.2030 closed at 12.10/30 percent. (Colombo/Oct3/2024)
-
-◼️
-
-[Data](articles/dd546af3.json)
-
-[Extended Data](ext_articles/dd546af3.ext.json)
 
 ---

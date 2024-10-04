@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-04 13:58:23**
+As of **2024-10-04 14:12:14**
 
 ## Newspaper Stats
 
-*Scraped **47,762** Articles*
+*Scraped **47,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,616
 tamilmirrorlk | 6,442
 virakesarilk | 7,642
-adaderanasinhalalk | 8,254
+adaderanasinhalalk | 8,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,762 (100.0%) of 47,762 articles have been extended.
+47,763 (100.0%) of 47,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-04 (Friday)
+
+### An elderly couple cut into a house
+
+*2024-10-04 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201834) · `si`
+
+Elderly couple trapped in house. Police investigating incident in Veldala, Ahangama. Victim: 67-year-old man, 63-year-old woman.
+
+🟩
+
+The police said that the elderly couple in the Veldala area in the Ahangama Police Division today (04) had been cut off.
+
+Police have commenced investigations into a telephone message received by a person who had fallen in a house with lecturers.
+
+The victim was a 67 year old man and 63 year old woman.
+
+◼️
+
+[Data](articles/78a1037e.json)
+
+[Extended Data](ext_articles/78a1037e.ext.json)
+
+---
 
 ### President holds talks with IMF team for second day
 
@@ -222,6 +244,10 @@ The number of the car that has arrived has been sent to the Motor Transport Depa
 
 *2024-10-04 12:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வீட்டின்-முன்-பெண்-ரகளை/175-344915) · `ta`
 
+Former President Maithripala Sirisena's official residence in Colombo's Cinnamon Gardens has reported an incident involving a woman in a white car. She allegedly used harsh words against the former president and his brother, businessman Dudley Sirisena. The police have filed a complaint and are investigating further.
+
+🟩
+
 Former President Maithripala Sirisena's official residence in the Cinnamon Gardens in Colombo, Cinnamon Gardens, has gone from there after a harsh word for a woman who was in a white car.
 
 A police officer in charge of the area has said that a police officer who was on duty at the official residence of former President Maithripala Sirisena has lodged a complaint.
@@ -241,6 +267,14 @@ The number of the car that has arrived has been sent to the Motor Transport Depa
 ### The woman who made tension in front of Maithri's house
 
 *2024-10-04 12:39:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வீட்டிற்கு-முன்பாக-பதற்றத்தை-ஏற்படுத்திய-பெண்/175-344915) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former President Maithripala Sirisena's home in Colombo faced tension when a woman in a white car made harsh remarks about him and his brother. A police officer filed a complaint, and the car's number plate was reported. Investigations are ongoing.
+
+🟩
 
 Former President Maithripala Sirisena's official residence in the Cinnamon Gardens in Colombo, Cinnamon Gardens, has gone from there after a harsh word for a woman who was in a white car.
 
@@ -2257,35 +2291,5 @@ The Government Information Department said that the birth certificates issued th
 [Data](articles/bb383539.json)
 
 [Extended Data](ext_articles/bb383539.ext.json)
-
----
-
-### The North and East must move towards the new politics that joins South Sri Lanka
-
-*2024-10-03 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195426) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka faces economic crisis and political upheaval. New government must address poverty, unemployment, and economic recovery while navigating international pressures and domestic challenges. Political changes in North and East regions expected. Government must balance austerity measures with economic relief and implement policies to address food security and rural development. Foreign policy shift towards non-aligned stance recommended to counter influence of major powers.
-
-🟩
-
-We see a biggest political change in the south.Similarly, there is a possibility of massive political changes in the North and East
-
-New politics has long been a challenge in the Tamil political area. It is important to know how to carry out a politics with the southern people, the Muslim people and the people of the hill country within the United Sri Lanka. Dr. Akhilan Kadirgamar, a senior lecturer and economist of the university.
-
-He made this statement in a special interview with Veerakesari. The details of the examination
-
-Question in Sri Lanka's history. How do you see the new president's choice?
-
-The answer is that we see this as a historical change.That is, the two major parties in Sri Lanka or the parties that have been separated from it are not given power.A party that has carried out an armed struggle twice in Sri Lanka has now come to power.We have been facing a huge economic crisis since 2022.
-
-...
-
-[Data](articles/560148ac.json)
-
-[Extended Data](ext_articles/560148ac.ext.json)
 
 ---

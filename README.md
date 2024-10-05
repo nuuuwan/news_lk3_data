@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 01:57:24**
+As of **2024-10-06 02:08:22**
 
 ## Newspaper Stats
 
-*Scraped **47,952** Articles*
+*Scraped **47,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,429
 dailymirrorlk | 4,733
 adaderanalk | 5,648
-tamilmirrorlk | 6,462
+tamilmirrorlk | 6,463
 virakesarilk | 7,674
 adaderanasinhalalk | 8,306
 
@@ -26,9 +26,37 @@ adaderanasinhalalk | 8,306
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,952 (100.0%) of 47,952 articles have been extended.
+47,953 (100.0%) of 47,953 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-06 (Sunday)
+
+### The President blessed the Maha Nayaka Thera of the Ramanya Peetha
+
+*2024-10-06 01:31:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமண்ய-பீடத்தின்-மகா-நாயக்க-தேரரிடம்-ஆசி-பெற்றார்-ஜனாதிபதி/175-344949) · `ta`
+
+President Anura Kumara Dissanayake visits Ramanya Faculty, meets Maha Nayaka Thera, receives blessings from Maha Sangha. Discusses economic and political issues. Maha Sangha requests appointments for ambassadors, governors, and ministry secretaries.
+
+🟩
+
+President Anura Kumara Dissanayake visited the Ramanya Faculty of Narahenpita yesterday morning. Makulaway met Wimalanayaka Thera and blessed.
+
+The Maha Sangha led by the Anunayaka Thera and the Registrars participated in the event and recited the Seth Brith and bless the President.
+
+Subsequently, the President discussed a short time to address the current economic political situation to the Maha Sangha.
+
+When appointing ambassadors, the Maha Sangha asked the president to appoint those who could represent the country abroad and to appoint those who were responsible for the appointment of governors.
+
+They also urged the appointment of those appropriate to the post of Secretary of the Ministries. (A)
+
+◼️
+
+[Data](articles/4285b024.json)
+
+[Extended Data](ext_articles/4285b024.ext.json)
+
+---
 
 ### 2024-10-05 (Saturday)
 
@@ -2307,23 +2335,5 @@ A fair, stable and prosperous Sri Lanka must be a nation that is relentless in i
 [Data](articles/3dfd54ab.json)
 
 [Extended Data](ext_articles/3dfd54ab.ext.json)
-
----
-
-### Old political parties back to their old tricks
-
-*2024-10-04 23:34:54* · [`dailyftlk`](https://www.ft.lk/columns/Old-political-parties-back-to-their-old-tricks/4-767565) · `en`
-
-Instead of dwelling on the past, they should focus on presenting their manifestos for the upcoming election – Pic by Shehan Gunasekara
-
-I am appalled to see how all the old political parties are scrambling to form alliances against the NPP for the upcoming general election. These are the same corrupt figures who took a different stance during the Presidential election, and now they’re back to their old tricks. Meanwhile, the NPP is showing wisdom by steering clear of these alliances, positioning themselves to secure over 113 seats in Parliament.
-
-It’s time for the other party leaders to walk the talk and stop playing blame games. Instead of dwelling on the past, they should focus on presenting their manifestos for the upcoming election and offer real solutions to the public. It’s clear that the people are well-informed and no longer fooled by these antics.
-
-...
-
-[Data](articles/79fdf480.json)
-
-[Extended Data](ext_articles/79fdf480.ext.json)
 
 ---

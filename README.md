@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 14:57:54**
+As of **2024-10-05 15:09:32**
 
 ## Newspaper Stats
 
-*Scraped **47,908** Articles*
+*Scraped **47,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
-adaderanalk | 5,641
-tamilmirrorlk | 6,457
+adaderanalk | 5,642
+tamilmirrorlk | 6,458
 virakesarilk | 7,663
 adaderanasinhalalk | 8,291
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,908 (100.0%) of 47,908 articles have been extended.
+47,910 (100.0%) of 47,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### President receives blessings from Chief Prelates of Amarapura and Ramanna Maha Nikayas
+
+*2024-10-05 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102468/president-receives-blessings-from-chief-prelates-of-amarapura-and-ramanna-maha-nikayas) · `en`
+
+President Anura Kumara Dissanayake visited the headquarters of the Amarapura Maha Nikaya in Wellawatte this morning (05) and received blessings from the Acting Maha Nayaka, Most Venerable Karagoda Uyangoda Maithri Murthi Maha Nayaka Thero of Amarapura Nikaya.
+
+The Nayaka Theros of the Secretariat of the Amarapura Maha Nikaya were also present at this occasion, where they invoked blessings for the President, the President’s Media Division (PMD) said.
+
+During the discussion, the Chief Prelate emphasized the need to build a strong state by maximizing the use of the country’s resources. He noted that only then could Sri Lanka rise as an independent nation on the global stage.
+
+The President acknowledged that the current period, with a General Election already announced, is a politically transitional time. He expressed his intention to accelerate progress on key tasks with full Parliamentary power following the election, it said.
+
+...
+
+[Data](articles/7061e9af.json)
+
+[Extended Data](ext_articles/7061e9af.ext.json)
+
+---
 
 ### Bribery Commission handed over to a jeep illegal
 
@@ -71,6 +91,26 @@ Issuing a statement regarding Dr. S. Jaishankar’s Sri Lanka visit, the Indian 
 [Data](articles/9f6be255.json)
 
 [Extended Data](ext_articles/9f6be255.ext.json)
+
+---
+
+### Happy notice of vehicle imports
+
+*2024-10-05 13:42:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-344944) · `ta`
+
+Sri Lanka Vehicle Importers Association expects to resume imports in January 2024. Central Bank allocates funds for vehicle imports.
+
+🟩
+
+The Sri Lanka Vehicle Importers Association said it expects to import vehicles again from January next year.
+
+President of the association Indika Sampath said the central bank has allocated funds for this.
+
+◼️
+
+[Data](articles/d77a9782.json)
+
+[Extended Data](ext_articles/d77a9782.ext.json)
 
 ---
 
@@ -2203,57 +2243,5 @@ The organisation, linked to the Catholic Church, pointed out that Sallay had bee
 [Data](articles/627f72c3.json)
 
 [Extended Data](ext_articles/627f72c3.ext.json)
-
----
-
-### India external affairs minister meets former Sri Lanka opposition leader
-
-*2024-10-04 17:23:00* · [`economynextcom`](https://economynext.com/india-external-affairs-minister-meets-former-sri-lanka-opposition-leader-182347/) · `en`
-
-ECONOMYNEXT — Visiting External Affairs Ministers of India S Jaishankar has met former Sri Lanka opposition leader Sajith Premadasa.
-
-Premadasa tweeted Friday October 04 afternoon that the Samagi Jana Balawegaya (SJB) which he leads look forward to India’s continued support.
-
-“Great to meet @DrSJaishankar during his visit to Sri Lanka. As he often says, ‘A strong and prosperous neighborhood is in everyone’s interest.’ We look forward to India’s continued fullest support in advancing Sri Lanka’s stability and growth, while supporting our mutual interests for regional development,” said Premadasa.
-
-The visiting Indian official also tweeted that he appreciates Premadasa’s continued support for relations between the two countries.
-
-“Good to see SJB leader @sajithpremadasa in Colombo today. Appreciate his continued support for the India-Sri Lanka relationship,” he said.
-
-...
-
-[Data](articles/65609bfc.json)
-
-[Extended Data](ext_articles/65609bfc.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 294.0/35 to dollar, bond yields up
-
-*2024-10-04 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-294-0-35-to-dollar-bond-yields-up-182345/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 294.00/35 to the US dollar Friday, from 294.00/50 a day earlier, dealers said while bond yields were up.
-
-Sri Lanka’s rupee has appreciated amid deflationary policy which is triggering balance of payments surpluses putting upward pressure on the rupee.
-
-However the central bank can buy dollars and maintain the exchange rate if it wants to.
-
-There seemed to some profit taking after two days for falling yields, traders said.
-
-A bond maturing on 15.12.2026 closed at 10.50/65 percent up from 10.45/60 percent.
-
-A bond maturing on 15.12.2027 closed at 10.50/60 percent up from 11.40/55 percent.
-
-A bond maturing on 15.02.2028 closed at 11.70/80 percent up from 11.60/75 percent.
-
-A bond maturing on 15.09.2029 closed at 11.12/15 up from 11.95/12.05 percent.
-
-A bond maturing on 15.05.2030 closed at 12.15/25 percent, 12.10/30 percent. (Colombo/Oct3/2024)
-
-◼️
-
-[Data](articles/a4df08f5.json)
-
-[Extended Data](ext_articles/a4df08f5.ext.json)
 
 ---

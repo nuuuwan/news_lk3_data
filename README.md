@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 09:11:22**
+As of **2024-10-05 09:39:15**
 
 ## Newspaper Stats
 
-*Scraped **47,881** Articles*
+*Scraped **47,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ economynextcom | 2,935
 dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
-adaderanalk | 5,634
-tamilmirrorlk | 6,451
-virakesarilk | 7,661
-adaderanasinhalalk | 8,283
+adaderanalk | 5,635
+tamilmirrorlk | 6,452
+virakesarilk | 7,663
+adaderanasinhalalk | 8,284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,881 (100.0%) of 47,881 articles have been extended.
+47,886 (100.0%) of 47,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Street opening near the Alari House several years later!
+
+*2024-10-05 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195521) · `ta`
+
+New street opens near Alari House in Colombo, reducing traffic and improving travel. Road connects Kaluppitti School to Rodunda Circle.
+
+🟩
+
+The road from Kaluppitti School to the Rodunda Circle near the Alari House in Colombo has been opened on Friday (04) for public use.
+
+The opening of this road is expected to reduce traffic congestion in the surrounding areas and lead the public to easy travel.
+
+◼️
+
+[Data](articles/ae619d93.json)
+
+[Extended Data](ext_articles/ae619d93.ext.json)
+
+---
+
+### Women cricket team a decisive match today
+
+*2024-10-05 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201863) · `si`
+
+Sri Lanka women's cricket team plays crucial T20 World Cup match against Australia today. Win required for semi-final hopes. Match starts at 3:30 PM local time.
+
+🟩
+
+Sri Lanka's second match will be held today (05) in the women's T20 World Cup today (05).
+
+The competition is scheduled to be held in Sharjah, which is a match.
+
+It is mandatory to win this competition to Sri Lankan women's hopes to hope in the semi-finals of the tournament.
+
+That is with the first match with Pakistan women's group.
+
+Sri Lanka and Australia Women's Competition will start at 3.30 pm in Sri Lanka.
+
+◼️
+
+[Data](articles/ad22b541.json)
+
+[Extended Data](ext_articles/ad22b541.ext.json)
+
+---
+
+### Uptick in dengue cases amid current weather conditions
+
+*2024-10-05 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102461/uptick-in-dengue-cases-amid-current-weather-conditions) · `en`
+
+The Government Health Entomology Officers’ Association has reported a significant rise in dengue cases since the end of September, attributed to prevailing weather conditions.
+
+According to Najith Sumanasena, President of the association, over 38,000 dengue cases have been reported so far.
+
+He further noted that the number of patients has increased across 20 Medical Officer of Health (MOH) divisions.
+
+◼️
+
+[Data](articles/ca0f0f09.json)
+
+[Extended Data](ext_articles/ca0f0f09.ext.json)
+
+---
+
+### In some parts of the country, intermittent rainfall is likely
+
+*2024-10-05 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195520) · `ta`
+
+Intermittent rainfall forecasted for Sabaragamuwa, Western Provinces, Galle, Matara districts. Thunderstorms possible in North, East, Uva provinces. Strong winds and lightning warnings issued. Heavy rains expected in coastal areas. Southwest winds 25-35 km/h in sea regions. Turbulent seas predicted from Hambantota to Pottuvil.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that rainfall is likely to occur in Sabaragamuwa and Western Provinces as well as the Galle and Matara districts.
+
+There is a chance of rain or thunderstorms in some parts of the North, East and Uva provinces in the afternoon or night.
+
+The public is asked to take care in the events of strong winds and lightning.
+
+Heavy rains are expected in some parts of the sea regions from Puttalam to Colombo and Galle.
+
+Rainfall or thunderstorms are expected in many parts of the sea regions from Mannar to Kankesanthurai in the evening or night.
+
+Winds from the southwest at 25 - 35 km per hour in the sea regions.
+
+From the beginning of the Kankesanthurai to Mannar, the sea will increase the wind at 45 - 50 km per hour in the sea regions from Hambantota to Pottuvil.. In such cases, these sea regions are somewhat turbulent.
+
+But when the thunderstorm is raining, strong winds are blowing and the sea regions are temporarily in a very turbulent.
+
+◼️
+
+[Data](articles/fdd83486.json)
+
+[Extended Data](ext_articles/fdd83486.ext.json)
+
+---
 
 ### Dengue strengthens
 
@@ -359,6 +455,28 @@ Sinhalese people have voted for a change in the economic crisis as the economic 
 [Data](articles/4b62cb5e.json)
 
 [Extended Data](ext_articles/4b62cb5e.ext.json)
+
+---
+
+### The UN. President Meeting the Presidential Secretary with representative
+
+*2024-10-05 00:32:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-பிரதிநிதியுடன்-ஜனாதிபதி-செயலாளர்-சந்திப்பு/175-344939) · `ta`
+
+UNDP Resident Representative Asusa Kuboda met with Sri Lanka's President's Secretary Dr. Nandika Sanath Kumanayake at the Presidential Office. They discussed ongoing development projects and new programs between Sri Lanka and UNDP.
+
+🟩
+
+The resident representative of the United Nations Development Program, Asusa Kuboda, met with the President's Secretary Dr. Nandika Sanath Kumanayake at the Presidential Office.
+
+The continuous implementation of the development projects implemented within Sri Lanka through the United Nations Development Program and the cooperation program between the Sri Lanka and the United Nations Development Program was discussed.
+
+The Resident Representative of the United Nations Development Program for Sri Lanka's new Development Programs also made it clear to the President's Secretary. (A)
+
+◼️
+
+[Data](articles/49f3eebc.json)
+
+[Extended Data](ext_articles/49f3eebc.ext.json)
 
 ---
 
@@ -2177,125 +2295,5 @@ Accordingly, the High Court of Bribery Commission today (was) further conditione
 [Data](articles/f3d4c3c4.json)
 
 [Extended Data](ext_articles/f3d4c3c4.ext.json)
-
----
-
-### Sri Lanka export companies visit Australia to explore trade ties
-
-*2024-10-04 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-export-companies-visit-australia-to-explore-trade-ties-182138/) · `en`
-
-ECONOMYNEXT – A group of 17 Sri Lankan export companies have visited Melbourne, Australia to get a better understanding of the Australian market.
-
-The visit was organized by the Export Development Board, the Consulate General in Melbourne and the Sri Lanka-Australia Chamber of Commerce.
-
-“This outward trade delegation was an important step towards increasing awareness among Sri Lankan exporters of the Australian market,” an EDB statement read.
-
-Such missions were important in expanding international trade and fostering long-term partnerships, EDB said.
-
-Delegates attended Fine Food Australia 2024, a trade event for food, packaging and hospitality industry, where they met international partners, secured deals, and explored trends that could be incorporated into Sri Lanka’s food export industry.
-
-This helped the Sri Lankan companies “to network and gain exposure to the competitive Australian market.”
-
-...
-
-[Data](articles/ba7715aa.json)
-
-[Extended Data](ext_articles/ba7715aa.ext.json)
-
----
-
-### Elderly couple
-
-*2024-10-04 14:59:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயோதிப-தம்பதி-வெட்டிக்கொலை/175-344918) · `ta`
-
-Elderly couple found hacked to death in Ahangama. Bodies discovered in Walhengoda area. Daughter pregnant, away seeking medical care. Father received suspicious phone call before incident. Neighbors reported finding victims after daughter's visit.
-
-🟩
-
-Ahangama police said the couple had been hacked to death in a house. The bodies of the two have been recovered from a house in the Walhengoda area of ​​Ahangama.
-
-The daughter of the couple is pregnant. He has traveled from home to Colombo on Friday morning (04) for treatment. The father has taken the phone call to the father. There is no response. He has since been invited to the neighbor.
-
-When they visited the couple's house, it was revealed that the couple had been hacked to death.
-
-◼️
-
-[Data](articles/6855057a.json)
-
-[Extended Data](ext_articles/6855057a.ext.json)
-
----
-
-### 'This is certainly the best start, the two weeks of the Anurakumara has used the best, the international community must support Sri Lanka ”
-
-*2024-10-04 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195477) · `ta`
-
-Anurakumara's presidency: International support sought, diplomatic outreach, economic focus, anti-corruption drive, and reform efforts.
-
-🟩
-
-It has been two weeks since Anurakumara has been elected as the new President of Sri Lanka, Eriksholheim, the former Norwegian Peace Ambassador to Sri Lanka, said that the international community should support Sri Lanka.
-
-Two weeks after Anuragumara was elected as the new President of Sri Lanka, he has used this time.
-
-In the first place with the Indian Ambassador and later the Chinese Ambassador, it was the first country to be the first country to be the first country to be the first country.
-
-He has since met the ambassadors of all countries. West, Russia and many other countries.
-
-He has issued a signal that Sri Lanka's first foreign policy will be followed.
-
-After taking office, Anura Kumaradisanayake immediately visited the Dalada Malika in Kandy. He received the support of the Mahanayaka Thera.
-
-He has extended his hands towards the business community, and that it can bring about resources to improve the prosperity of educational health and the creation of opportunities for the poor.
-
-...
-
-[Data](articles/b2798b53.json)
-
-[Extended Data](ext_articles/b2798b53.ext.json)
-
----
-
-### Elderly couple found murdered inside house in Ahangama
-
-*2024-10-04 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102444/elderly-couple-found-murdered-inside-house-in-ahangama) · `en`
-
-An elderly couple has been found murdered with a sharp weapon inside their house in Welhengoda, in the Ahangama police division, early this morning (04).
-
-The victims, identified as a 67-year-old man and a 63-year-old woman, were discovered lying in pools of their own blood with throats slit after police received an emergency alert reporting an individual was found on the ground of the house with severe injuries.
-
-Authorities have yet to determine the motive behind the double homicide, and no suspects have been identified so far.
-
-A magisterial inquest is scheduled to be conducted on the bodies, the police said.
-
-◼️
-
-[Data](articles/8b48e640.json)
-
-[Extended Data](ext_articles/8b48e640.ext.json)
-
----
-
-### Bandula Gunawardena is not going to contest parliamentary elections
-
-*2024-10-04 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195474) · `ta`
-
-Former Minister Bandula Gunawardena announces he won't run in upcoming parliamentary elections. He cites over 20 years in politics, including roles as Deputy Minister and Cabinet Minister. Plans to focus on education and filmmaking instead.
-
-🟩
-
-Former Minister Bandula Gunawardena has announced that he will not contest the parliamentary election.
-
-I have been in politics for more than 20 years representing the Homagama electorate. In this case, I have acted as Deputy Minister and Cabinet Minister.
-
-I am happy to represent the Homagama constituency that has long been without representation in Parliament and transform the city of Homagama into the center of education.
-
-"I am planning to spend his time to continue education and make a film to get a doctor's degree."
-
-◼️
-
-[Data](articles/147e11e5.json)
-
-[Extended Data](ext_articles/147e11e5.ext.json)
 
 ---

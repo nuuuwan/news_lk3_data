@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 20:09:04**
+As of **2024-10-05 20:22:57**
 
 ## Newspaper Stats
 
-*Scraped **47,926** Articles*
+*Scraped **47,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ dailymirrorlk | 4,733
 adaderanalk | 5,646
 tamilmirrorlk | 6,461
 virakesarilk | 7,663
-adaderanasinhalalk | 8,300
+adaderanasinhalalk | 8,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,926 (100.0%) of 47,926 articles have been extended.
+47,928 (100.0%) of 47,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Dilith from Kegalle with Dilith for the country
+
+*2024-10-05 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201884) · `si`
+
+Here's a 200-character summary:
+
+
+
+Kegalle district leaders support Dilith Jayaweera's Motherland People's Party. They back Anura Kumara's government, requesting 113 seats instead of 150. The party opposes corruption and promises clean governance for the upcoming parliamentary election.
+
+🟩
+
+A group of former provincial councils and local government representatives from the Kegalle district participated in the motherland.
+
+There, the leader of the Motherland People's Party, Dilith Jayaweera, operating the electoral organizer in the Kegalle District.
+
+Motherland Janasinghe, Chairman of the Motherland People's Party, Roshan Ranasinghe, said,
+
+"Mr. Anura Kumara's governments should be empowered.. And give them 113.. But don't give 150. 150 Want to give Eve. The stolen money raised hand to bring up the hand 150 .... We are ready to be prepared to Mr. Anura Kumara's state. The main opposition to give the people of the country to join the universal power today. Because a good clean group of people, a special group of parliamentary elections will be forwarded to the next parliamentary election. "
+
+◼️
+
+[Data](articles/a841df89.json)
+
+[Extended Data](ext_articles/a841df89.ext.json)
+
+---
+
+### Former President Mahinda's land removes a number of electrical containers
+
+*2024-10-05 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201883) · `si`
+
+Former President Mahinda Rajapaksa's land in Weeraketiya removed electrical containers during power cuts. CEB personnel retrieved some cables.
+
+🟩
+
+The Ceylon Electricity Board (CEB) had acted in several power cuts on a land on Tangalle Road, Weeraketiya.
+
+It is reported that the land belongs to former President Mahinda Rajapaksa.
+
+Ada Derana reporter said that they were rescued to rescue some of its power cords.
+
+◼️
+
+[Data](articles/f0c4bec0.json)
+
+[Extended Data](ext_articles/f0c4bec0.ext.json)
+
+---
 
 ### Public asked to report evidence on ‘leaked’ questions in 2024 Scholarship Exam
 
@@ -2241,41 +2291,5 @@ Former minister Nimal Siripala de Silva said this will be held this afternoon.
 [Data](articles/b2e0cfae.json)
 
 [Extended Data](ext_articles/b2e0cfae.ext.json)
-
----
-
-### Sri Lanka new govt proceeds with ISB deal, Citigroup to manage exchange
-
-*2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-proceeds-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
-
-ECONOMYNEXT – Sri Lanka is going ahead with a deal to restructure sovereign bond reached last month, with final confirmation on compliance with their parameters having come from both the International Monetary Fund and an Official Creditor Committee.
-
-Sri Lanka said the International Monetary Fund earlier gave informal confirmation that the sovereign bond agreement in principle (AIP) reached in September, with a ‘local option’ domestic banks was in line with the debt sustainability parameters.
-
-Final confirmation was received from both IMF on compliance with its debt sustainability parameters and official creditor committee on comparability of treatment.
-
-...
-
-[Data](articles/3ba9c9a5.json)
-
-[Extended Data](ext_articles/3ba9c9a5.ext.json)
-
----
-
-### Sri Lanka new govt proceeds with ISB deal, Citigroup to manage exchange
-
-*2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-to-go-ahead-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
-
-ECONOMYNEXT – Sri Lanka will go ahead with a deal to restructure sovereign bond reached last month, with final confirmation on compliance with their parameters having come from both the International Monetary Fund and an Official Creditor Committee.
-
-Sri Lanka said the International Monetary Fund earlier gave informal confirmation that the sovereign bond agreement in principle (AIP) reached in September, with a ‘local option’ domestic banks was in line with the debt sustainability parameters.
-
-Final confirmation was received from both IMF on compliance with its debt sustainability parameters and official creditor committee on comparability of treatment.
-
-...
-
-[Data](articles/46b9f982.json)
-
-[Extended Data](ext_articles/46b9f982.ext.json)
 
 ---

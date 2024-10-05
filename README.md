@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 14:38:36**
+As of **2024-10-05 14:57:54**
 
 ## Newspaper Stats
 
-*Scraped **47,907** Articles*
+*Scraped **47,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,641
 tamilmirrorlk | 6,457
 virakesarilk | 7,663
-adaderanasinhalalk | 8,290
+adaderanasinhalalk | 8,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,907 (100.0%) of 47,907 articles have been extended.
+47,908 (100.0%) of 47,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Bribery Commission handed over to a jeep illegal
+
+*2024-10-05 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201870) · `si`
+
+Bribery Commission seizes jeep from businessman accused of tax fraud. Court issues warrant after he violated orders.
+
+🟩
+
+The Bribery Commission has taken over a jeep that has lost income of taxes to the government.
+
+The Secret and Intelligence Investigation Unit of the Commission has received information that the car has been registered with the Department of Motor Traffic and has been conducted.
+
+Accordingly, the businessman was given to the Commission to Investigate Allegations of Bribery or Corruption before the 18th of this month.
+
+However, the Colombo Magistrate's Court had implemented a warrant against a businessman in Nallumgama due to violating the orders.
+
+Accordingly, the bribery Intelligence Unit of the Bribery Commission has taken steps to take the relevant jeep as per court.
+
+◼️
+
+[Data](articles/9d8534ee.json)
+
+[Extended Data](ext_articles/9d8534ee.ext.json)
+
+---
 
 ### ‘Will never allow Sri Lankan territory to be used inimical for India’s security interests’ – President
 
@@ -2229,43 +2255,5 @@ A bond maturing on 15.05.2030 closed at 12.15/25 percent, 12.10/30 percent. (Col
 [Data](articles/a4df08f5.json)
 
 [Extended Data](ext_articles/a4df08f5.ext.json)
-
----
-
-### Aragon - Film Review
-
-*2024-10-04 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195487) · `ta`
-
-Here's a 200-character summary of the Aragon film review:
-
-
-
-"Aragon" stars Michael Thangadurai and Kavi Priya Manoharan. Director explores themes of youth preservation and deception. Michael Thangadurai shines as the protagonist, while Kavi Priya Manoharan impresses as the debut actress. Cinematography and background music praised in the first half. Overall, a promising debut from the director.
-
-🟩
-
-Actors: Michael Thangadurai, Kavi Priya Manoharan, Sri Ranjani, Kalarani, Yasser and many others
-
-The famous actor Michael Thangadurai - The hero of the story, 'Arakan', has attracted all the fans?Or not?We will continue to see.
-
-A sage is a sage to keep this body young - a prince who saved his life.
-
-What is its modern phenomenon?The debut director has tried to describe the natural screenplay.
-
-Michael Thangadurai, the hero of the story, is the heroine of the story that grew up in the orphanage.
-
-Michael Thangadurai promises to the girlfriend that he has to start his own business and raise funds for it.
-
-The girlfriend also enjoys listening to her lover's ambition and agrees to work as a nurses who are lonely in a distant lonely woman to help him.
-
-After that, he feels that he has been cheated and that her boyfriend is trapped in an expanding trap.
-
-What does he make after that?That is the culmination of the film.
-
-...
-
-[Data](articles/0f3c5ef5.json)
-
-[Extended Data](ext_articles/0f3c5ef5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 21:08:30**
+As of **2024-10-05 21:23:14**
 
 ## Newspaper Stats
 
-*Scraped **47,938** Articles*
+*Scraped **47,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 474
 islandlk | 2,820
 economynextcom | 2,937
 dailyftlk | 3,235
-adalk | 4,427
+adalk | 4,428
 dailymirrorlk | 4,733
 adaderanalk | 5,646
 tamilmirrorlk | 6,461
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,938 (100.0%) of 47,938 articles have been extended.
+47,939 (100.0%) of 47,939 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1001,6 +1001,28 @@ Meanwhile, the exams department also mentioned that the exam applicants will be 
 [Data](articles/455403f4.json)
 
 [Extended Data](ext_articles/455403f4.ext.json)
+
+---
+
+### Another road closed from 2005
+
+*2024-10-05 12:19:27* · [`adalk`](https://www.ada.lk/breaking_news/2005-සිට-වසා-තිබූ-තවත්-පාරක්-අරියි/11-412316) · `si`
+
+Colombo road reopened after 19 years due to Defense Ministry orders. Vehicles now operate in one direction until another lane opens.
+
+🟩
+
+Michael roundabout from the Kollupitiya Police Station, Colombo was to be closed for security reasons in 2005.
+
+After 19 years, this road was opened for the public yesterday (04) on the instructions of the Defense Ministry.
+
+Due to the development work of the road, vehicles will be operated in one direction alone, and the other is also opened immediately after completing it.
+
+◼️
+
+[Data](articles/642e8177.json)
+
+[Extended Data](ext_articles/642e8177.ext.json)
 
 ---
 
@@ -2299,25 +2321,5 @@ They have been arrested for soliciting a bribe of Rs. 300,000 to facilitate the 
 [Data](articles/4e251ad2.json)
 
 [Extended Data](ext_articles/4e251ad2.ext.json)
-
----
-
-### RMV boss and three arrested in bribe
-
-*2024-10-04 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201852) · `si`
-
-Bribery Commission arrests RMV boss, deputy commissioner, clerk, and broker over bribery case involving Rs. amount.
-
-🟩
-
-The Bribery Commission has arrested a deputy commissioner, a clerk and broker of the Department of Motor Traffic.
-
-They have been arrested when he had asked for a bribe of Rs.
-
-◼️
-
-[Data](articles/53a113ca.json)
-
-[Extended Data](ext_articles/53a113ca.ext.json)
 
 ---

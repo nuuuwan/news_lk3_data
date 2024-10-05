@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 15:09:32**
+As of **2024-10-05 15:23:03**
 
 ## Newspaper Stats
 
-*Scraped **47,910** Articles*
+*Scraped **47,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
-adaderanalk | 5,642
+adaderanalk | 5,643
 tamilmirrorlk | 6,458
 virakesarilk | 7,663
-adaderanasinhalalk | 8,291
+adaderanasinhalalk | 8,292
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,910 (100.0%) of 47,910 articles have been extended.
+47,912 (100.0%) of 47,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### New Director appointed to State Intelligence Service
+
+*2024-10-05 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102469/new-director-appointed-to-state-intelligence-service) · `en`
+
+The Deputy Inspector General of Police (DIG) Dhammika Kumara has been appointed as the new Director of the State Intelligence Service (SIS).
+
+This appointment comes following the retirement of former Director of the SIS Major General Suresh Sallay.
+
+◼️
+
+[Data](articles/dbd72a17.json)
+
+[Extended Data](ext_articles/dbd72a17.ext.json)
+
+---
+
+### New Director of State Intelligence Service DIG Dhammika Kumara
+
+*2024-10-05 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201871) · `si`
+
+Here's a 200-character summary:
+
+
+
+DIG Dhammika Kumara named new Director of State Intelligence Service. Replaces Major General Suresh Sureei upon retirement.
+
+🟩
+
+DIG Dhammika Kumara has been appointed as the new Director of State Intelligence Service.
+
+It is reported that Major General Suresh Sureei has been appointed as the new director after his retirement.
+
+◼️
+
+[Data](articles/f5836f64.json)
+
+[Extended Data](ext_articles/f5836f64.ext.json)
+
+---
 
 ### President receives blessings from Chief Prelates of Amarapura and Ramanna Maha Nikayas
 
@@ -2201,47 +2241,5 @@ He later met Prime Minister Amarasuriya with whom he said he discussed digital p
 [Data](articles/23f6d35f.json)
 
 [Extended Data](ext_articles/23f6d35f.ext.json)
-
----
-
-### Increase in Sri Lankans migrating for foreign employments
-
-*2024-10-04 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102450/increase-in-sri-lankans-migrating-for-foreign-employments) · `en`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) states that Sri Lanka has seen a significant increase in the number of Sri Lankans departing for overseas employments in September 2024, compared to the same period in 2023.
-
-The SLBFE highlighted that accordingly, there has been a 10% increase in Sri Lankans departing for foreign employments as 28,344 individuals have been expatriated in the in the month of September alone in 2024. The figure was recorded as 25,716 in September 2023, according to the SLBFE.
-
-Meanwhile, over 240,000 Sri Lankans have left for overseas employment within the first 09 months of 2024, it added, noting that this includes 99,939 females and 142,170 males.
-
-The total number of skilled workers who have departed for foreign employment thus far in 2024 is 70,396 while 3,704 others have left for semi-skilled jobs.
-
-The highest number of Sri Lankans has sought employment opportunities in the Kingdom of Saudi Arabia so far in 2024, as per figures released by the SLBFE.
-
-...
-
-[Data](articles/cc803f9a.json)
-
-[Extended Data](ext_articles/cc803f9a.ext.json)
-
----
-
-### Sri Lankan Catholics Seek Sacking of Spy Chief Over Easter Attacks
-
-*2024-10-04 17:24:00* · [`economynextcom`](https://economynext.com/sri-lankan-catholics-seek-sacking-of-spy-chief-over-easter-attacks-182353/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new president was urged on Friday to deliver on a promise to ensure justice for the victims of the Easter Sunday bombings and to call for the sacking of the country’s spy chief, who is implicated in the worst terror attack against civilians.
-
-The Centre for Society and Religion (CSR), in a six-page appeal to President Anura Kumara Dissanayake, sought, among other things, the removal of Suresh Sallay from his position as head of the State Intelligence Service.
-
-The CSR noted that Sallay, a retired military intelligence officer allegedly linked to the Easter bombers, was in a position to destroy evidence and should be removed immediately, with investigations being handed over to a new specialised unit.
-
-The organisation, linked to the Catholic Church, pointed out that Sallay had been accused of involvement with Zahran Hashim, the leader of the suicide squad that targeted three luxury hotels and three churches on April 21, 2019.
-
-...
-
-[Data](articles/627f72c3.json)
-
-[Extended Data](ext_articles/627f72c3.ext.json)
 
 ---

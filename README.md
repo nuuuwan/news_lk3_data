@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 23:58:15**
+As of **2024-10-06 00:11:34**
 
 ## Newspaper Stats
 
-*Scraped **47,949** Articles*
+*Scraped **47,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ dbsjeyarajcom | 395
 bbccomsinhala | 474
 colombotelegraphcom | 474
 islandlk | 2,820
-economynextcom | 2,937
+economynextcom | 2,939
 dailyftlk | 3,235
 adalk | 4,429
 dailymirrorlk | 4,733
 adaderanalk | 5,648
 tamilmirrorlk | 6,462
-virakesarilk | 7,673
+virakesarilk | 7,674
 adaderanasinhalalk | 8,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,949 (100.0%) of 47,949 articles have been extended.
+47,952 (100.0%) of 47,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### England won by 21 runs
+
+*2024-10-05 23:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195587) · `ta`
+
+England won by 21 runs against Bangladesh in the ICC Women's T20 World Cup. They batted first, scoring 118/7 in 20 overs. Bangladesh replied with 97/7, led by Sopna Mostari's 44. England's Denny Viet Haj top-scored with 41.
+
+🟩
+
+England finally faced a small challenge to Bangladesh at the ICC Women's T20 World Cup for the B Group held on Saturday (05) at the Sharjah Cricket Stadium of the United Arab Emirates.
+
+In the history of the Women's World Cup, England won by retaining the lowest number of the opposition to the opposition.
+
+The bowling of the pitch, which favored the spin, ensured that the game of the game did not slip from England.
+
+England decided to bat first and scored 118 runs for the loss of 7 wickets in 20 overs.
+
+In the six -year -old matches so far, no other team, besides New Zealand, did not reach 120 runs.
+
+Maya Boucher and Deni Viet Haj shared 48 runs and made England the best start.
+
+But after that, the speed of the speed was low.. England lost only 3 wickets in 12 overs and scored 76 runs.
+
+But then, in the midst of Bangladesh's challenging bowling, England lost 4 wickets in the last 8 overs and scored 42 runs.
+
+...
+
+[Data](articles/cd485e32.json)
+
+[Extended Data](ext_articles/cd485e32.ext.json)
+
+---
 
 ### Nasrallah’s possible successor out of contact since Friday, Lebanese source says
 
@@ -343,6 +375,26 @@ Issuing a statement in this regard, the Police Media Division stated that compla
 [Data](articles/3a329a00.json)
 
 [Extended Data](ext_articles/3a329a00.ext.json)
+
+---
+
+### Sri Lanka spy chief sacked, agency returns to police control
+
+*2024-10-05 19:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-spy-chief-sacked-agency-returns-to-police-control-182451/) · `en`
+
+ECONOMYNEXT – The head of Sri Lanka’s State Intelligence Service (SIS) was sacked on Saturday, and the premier spy agency was brought back under the control of the police after nearly five years.
+
+Retired Major General Suresh Sallay was dismissed after he refused to resign following the takeover by the new government of President Anura Kumara Dissanayake, an official source involved in the shake-up told Economynext.
+
+Police Deputy Inspector General Dhammika Priyantha, who had earlier served at the CID/FCID, was appointed as the director of the SIS, bringing the agency back under the police’s jurisdiction.
+
+The SIS had shifted to military control under Gotabaya Rajapaksa’s presidency, but his successor, Ranil Wickremesinghe, not only retained the controversial Major General Sallay but also re-employed him after his retirement.
+
+...
+
+[Data](articles/b91868cf.json)
+
+[Extended Data](ext_articles/b91868cf.ext.json)
 
 ---
 
@@ -1304,6 +1356,28 @@ The commemorative monuments were also made to mark the opportunities.
 
 ---
 
+### Sri Lanka’s tourism revenue grows 18.9-pct in September
+
+*2024-10-05 11:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-tourism-revenue-grows-18-9-pct-in-september-182446/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism rose to $181 million in September, rising 18.9 percent compared to the same month last year, the central bank said, quoting tourism promotion authorities.
+
+The revenue in the first nine months of 2024 have jumped 61.2 percent to $2.35 billion compared to $1.46 billion in the same period last year, the data showed.
+
+The arrivals also has picked up throughout the year with number of foreign visitors to Sri Lanka rose 9.1 percent to 122,140 in September 2024 compared to a year ago, while the arrivals have jumped 46.1 percent to 1.48 million in the first nine months of the year, compared to the same period last year.
+
+Sri Lanka expects an ambitious 2.3 million tourist arrivals in 2024 with a $5 billion revenue for the whole year.
+
+Sri Lanka’s peak tourism season starts in November and goes until early March.
+
+...
+
+[Data](articles/d8d72859.json)
+
+[Extended Data](ext_articles/d8d72859.ext.json)
+
+---
+
 ### Sweden's attention to develop renewable energy in this country
 
 *2024-10-05 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201866) · `si`
@@ -2251,67 +2325,5 @@ It’s time for the other party leaders to walk the talk and stop playing blame 
 [Data](articles/79fdf480.json)
 
 [Extended Data](ext_articles/79fdf480.ext.json)
-
----
-
-### Ranil Wickremesinghe: A courageous gentleman in times of crisis
-
-*2024-10-04 23:32:26* · [`dailyftlk`](https://www.ft.lk/opinion/Ranil-Wickremesinghe-A-courageous-gentleman-in-times-of-crisis/14-767564) · `en`
-
-◼️
-
-[Data](articles/5c7235b5.json)
-
-[Extended Data](ext_articles/5c7235b5.ext.json)
-
----
-
-### Haitian gang kills at least 70 people, including 3 infants, UN says
-
-*2024-10-04 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102457/haitian-gang-kills-at-least-70-people-including-3-infants-un-says) · `en`
-
-Armed men belonging to the Gran Grif gang killed at least 70 people, including three infants, as they swept through a Haitian town shooting automatic rifles at residents, a spokesperson for the United Nations’ Human Rights Office said on Friday.
-
-“We are horrified by Thursday’s gang attacks in the town of Pont-Sonde in Haiti’s Artibonite department,” spokesperson Thameen Al-Kheetan said in a statement.
-
-At least another 16 people were seriously injured in the attack in the early hours of Thursday, including two gang members hit during an exchange of fire with Haitian police, according to the U.N. The gang members reportedly set fire to at least 45 houses and 34 vehicles, forcing residents to flee their homes.
-
-“This odious crime against defenseless women, men and children is not only an attack against victims but against the entire Haitian nation,” Prime Minister Garry Conille said on X.
-
-“Security forces, backed by our international partners, are reinforcing their intervention.”
-
-...
-
-[Data](articles/1fad5862.json)
-
-[Extended Data](ext_articles/1fad5862.ext.json)
-
----
-
-### Ministry of Finance announced on the IMF process
-
-*2024-10-04 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201857) · `si`
-
-Sri Lanka completes IMF consultation, forms creditor committee. Ministry of Finance announces successful restructuring agreement with international sovereign bondholders.
-
-🟩
-
-Sri Lanka completed the committee of his official creditors and the International Monetary Fund's consulting process.
-
-In a statement, the Ministry of Finance stated that the official creditors of the official debtors have been from the official debtors.
-
-Sri Lanka announced the policy agreement with international sovereignty owners in relation to the restructuring of credit.
-
-Accordingly, the Ministry of Finance announced that Sri Lanka has successfully completed the official creditors' committee and the International Monetary Fund.
-
-Sri Lanka has been able to complete the parameters of the program to support the International Monetary Fund.
-
-The Ministry of Finance further stated that the support given to this process will thank all creditors and official creditors to the committee of all creditors and official creditors.
-
-◼️
-
-[Data](articles/f79e101f.json)
-
-[Extended Data](ext_articles/f79e101f.ext.json)
 
 ---

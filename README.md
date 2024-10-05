@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 13:38:52**
+As of **2024-10-05 13:58:14**
 
 ## Newspaper Stats
 
-*Scraped **47,902** Articles*
+*Scraped **47,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,81 @@ dailymirrorlk | 4,733
 adaderanalk | 5,640
 tamilmirrorlk | 6,455
 virakesarilk | 7,663
-adaderanasinhalalk | 8,288
+adaderanasinhalalk | 8,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,902 (100.0%) of 47,902 articles have been extended.
+47,904 (100.0%) of 47,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Asset Investigation Division again questions Pilumiyan
+
+*2024-10-05 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201869) · `si`
+
+Pilumiyan questioned over illegal assets investigation. Police probe BMW vehicle and assets. Model questioned for nearly 3 hours. Investigation focuses on drug dealer's luxury car and skin trade. Specialist Arts arrives for questioning.
+
+🟩
+
+The illegal assets of the Piyumi Hansayamaya, a well-known model, has once again questioned.
+
+It applies to the investigation of a BMW type carrier and her assets.
+
+Accordingly, she has been questioned for almost three hours yesterday.
+
+The Police Narcotics Bureau, a famous model car of a drug dealer, had been priced from Hansamades.
+
+Accordingly, the Illegal Asset Investigation Division (Illegal Asset Investigation Division) launched an investigation into the production of the BMW car vehicle to buy the BMW car and the skin that she sold.
+
+Specialist Arts, Piyumi Hansami Hansalai had arrived at the Illegal Assets Division in about the investigation into the investigation.
+
+She left her at around 6 pm yesterday.
+
+◼️
+
+[Data](articles/e8db8dab.json)
+
+[Extended Data](ext_articles/e8db8dab.ext.json)
+
+---
+
+### President Mahindarshanka's Meeting announced at the Indian High Commission
+
+*2024-10-05 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201868) · `si`
+
+Here's a 200-character summary:
+
+
+
+India-Sri Lanka relations: Indian FM meets SL Prez, discusses security, economic ties, ethnic reconciliation, and regional stability.
+
+🟩
+
+The Indian High Commission has announced that the Sri Lankan territory will never be able to harm the security needs of India.
+
+In that release, Indian Foreign Minister S. President Anura Kumara Dissanayake made this statement at the meeting with Mr. Jeyishankar.
+
+He has also emphasized the support of all communities, including equality, duty, respect and peace of the ethnic problem and reconciliation process.
+
+He further stated that these objectives will facilitate the 13th Amendment to the Constitution and conduct provincial council elections expeditiously.
+
+Indian Foreign Minister S. Mr. Jeymy arrived in the country from Katunayake Bandaranaike International Airport yesterday morning.
+
+The Indian Foreign Minister met President Anura Kumara Dissanayake at the presidential office.
+
+The Indian Foreign Minister also ensured that India's interest in the field of India to support the fields of tourism as well as investment, electricity and energy and liquid dairy industry.
+
+...
+
+[Data](articles/e85ed22f.json)
+
+[Extended Data](ext_articles/e85ed22f.ext.json)
+
+---
 
 ### Tunisia votes Sunday in its third presidential election since the Arab Spring
 
@@ -1656,7 +1720,7 @@ Former minister Nimal Siripala de Silva said this will be held this afternoon.
 
 *2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-proceeds-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
 
-ECONOMYNEXT – Sri Lanka will go ahead with a deal to restructure sovereign bond reached last month, with final confirmation on compliance with their parameters having come from both the International Monetary Fund and an Official Creditor Committee.
+ECONOMYNEXT – Sri Lanka is going ahead with a deal to restructure sovereign bond reached last month, with final confirmation on compliance with their parameters having come from both the International Monetary Fund and an Official Creditor Committee.
 
 Sri Lanka said the International Monetary Fund earlier gave informal confirmation that the sovereign bond agreement in principle (AIP) reached in September, with a ‘local option’ domestic banks was in line with the debt sustainability parameters.
 
@@ -2221,59 +2285,5 @@ The expectation for the film, which is playing Aaliya Bhatt intelligence officer
 [Data](articles/ec3dafa4.json)
 
 [Extended Data](ext_articles/ec3dafa4.ext.json)
-
----
-
-### Why is Kamal Haasan's 'Indian 3' directly on the digital site?
-
-*2024-10-04 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195483) · `ta`
-
-Kamal Haasan's 'Indian 3' likely direct digital release due to 'Indian 2's' poor box office performance. Lyca Productions in talks for digital platform release. Official announcement expected early December.
-
-🟩
-
-The movie 'Indian 3', which is starring Kamal Haasan, is expected to be released directly on the digital site.
-
-The film 'Indian 2', directed by the director Shankar, received mixed reviews.
-
-However, the film grossed over Rs 180 crore in Indian value. The filmmakers Kamal Haasan- Shankar, Anirudh, Laika, Indian, and Indian, have formed a coalition, but 'Indian 2' is not a commercial success.
-
-In this case, Kamal Haasan, the hero of the film 'Indian 2', said, "I agreed to act in Indian 2 because of the story of Indian 3."
-
-At that moment had the expectation for the film 'Indian 3'.But the film industry has no support for the film 'Indian 3' in the filmmaker as the 'Indian 2' is not a commercial success.
-
-Realizing this, business sources said that the film production company Lyca is in talks to release the 'Indian 3' image directly on the digital site.
-
-Speaking about this, the filmmakers are in talks to release the film 'Vaida Tri' starring Ajit Kumar on behalf of Leica on Pongal on 2025.
-
-...
-
-[Data](articles/c4b5165f.json)
-
-[Extended Data](ext_articles/c4b5165f.ext.json)
-
----
-
-### Sri Lanka stocks close up 1-pct helped by banks, JKH
-
-*2024-10-04 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-1-pct-helped-by-banks-jkh-182343/) · `en`
-
-ECONOMYNEXT – Sri Lanka stocks closed up 1 percent, Friday with stock demand for banks, brokers said.
-
-The Colombo All Share index rose 123.5 points to 12,053 points and the S&P SL 20 Index of more liquid index rose 59 points at 3,543 points.
-
-Turnover was 2.83 billion rupees with large volumes of Sampath Bank traded
-
-Top contributors to the gain were John Keells Holdings, Sampath, HNB, and NDB.
-
-JKH closed up 5.75 at 186.25 rupees, Sampath closed up 2.30 rupees to 81.30 rupees, Commercial Bank of Ceylon closed up 1 rupee at 105 rupees, Hatton National Bank closed up 3.0 rupees at 215.25.
-
-Melstacorp was up 1.30 rupees at 86.40, Lion Brewery closed down 5 rupees at 994.75 rupees. (Colombo/Oct04/2024)
-
-◼️
-
-[Data](articles/e35c81ef.json)
-
-[Extended Data](ext_articles/e35c81ef.ext.json)
 
 ---

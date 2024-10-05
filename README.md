@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 06:44:01**
+As of **2024-10-05 07:25:14**
 
 ## Newspaper Stats
 
-*Scraped **47,871** Articles*
+*Scraped **47,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
 adaderanalk | 5,631
-tamilmirrorlk | 6,449
+tamilmirrorlk | 6,450
 virakesarilk | 7,661
-adaderanasinhalalk | 8,278
+adaderanasinhalalk | 8,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,871 (100.0%) of 47,871 articles have been extended.
+47,873 (100.0%) of 47,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Several spells of showers to several provinces
+
+*2024-10-05 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201858) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Showers forecasted in Western, Sabaragamuwa, Galle, and Matara regions. Possible evening/night showers in Northern, Eastern, and Uva provinces. Public advised to prepare for strong winds and lightning."
+
+🟩
+
+Several spells of showers in the Western and Sabaragamuwa provinces and the Galle and Matara districts.
+
+Showers or nights in the North, Eastern and Uva provinces may experience showers at several places in the evening or at night.
+
+The Department has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/0a5edb7a.json)
+
+[Extended Data](ext_articles/0a5edb7a.ext.json)
+
+---
 
 ### NDB Bank brings joy and learning to Royal College on World Children’s Day
 
@@ -251,6 +277,26 @@ Alongside his interest in producing a movie, Gunawardena said he also intends to
 [Data](articles/8c5bda19.json)
 
 [Extended Data](ext_articles/8c5bda19.ext.json)
+
+---
+
+### Bus operators violation: Introduction of Emergency number
+
+*2024-10-05 00:29:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-நடத்துனர்கள்-விதிமீறல்-அவசர-இலக்கம்-அறிமுகம்/175-344937) · `ta`
+
+National Transport Commission introduces emergency phone number 1955 for lodging complaints against bus conductors who fail to collect fares from passengers.
+
+🟩
+
+The National Transport Commission has announced that it can lodge a complaint with conductors who do not pay the passengers and pay for the passengers on the bus.
+
+The Commission said that the complaints could be made by contacting the emergency telephone number 1955. (A)
+
+◼️
+
+[Data](articles/c9c2ff88.json)
+
+[Extended Data](ext_articles/c9c2ff88.ext.json)
 
 ---
 
@@ -2257,47 +2303,5 @@ Later, the economic crisis was appointed as the Finance Minister during the Arak
 [Data](articles/feeff9b1.json)
 
 [Extended Data](ext_articles/feeff9b1.ext.json)
-
----
-
-### An elderly couple cut into a house
-
-*2024-10-04 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201834) · `si`
-
-Elderly couple trapped in house. Police investigating incident in Veldala, Ahangama. Victim: 67-year-old man, 63-year-old woman.
-
-🟩
-
-The police said that the elderly couple in the Veldala area in the Ahangama Police Division today (04) had been cut off.
-
-Police have commenced investigations into a telephone message received by a person who had fallen in a house with lecturers.
-
-The victim was a 67 year old man and 63 year old woman.
-
-◼️
-
-[Data](articles/78a1037e.json)
-
-[Extended Data](ext_articles/78a1037e.ext.json)
-
----
-
-### President holds talks with IMF team for second day
-
-*2024-10-04 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102441/president-holds-talks-with-imf-team-for-second-day) · `en`
-
-President Anura Kumara Dissanayake has engaged in a discussion with the visiting International Monetary Fund (IMF) delegation at the Presidential Secretariat for the second day today (04).
-
-The President’s Media Division (PMD) said that the discussions were attended by Director of the IMF’s Asia Pacific Department Krishna Srinivasan, Senior Mission Chief Dr. Peter Breuer, along with other senior IMF representatives and the Sri Lankan delegation.
-
-President Dissanayake aims to achieve the objectives of the program in partnership with the IMF, seeking alternative approaches that will alleviate the burden on the citizens, the PMD added.
-
-The President had also met with the visiting high-level IMF delegation yesterday while it was also attended by the Central Bank Governor Dr.Nandalal Weerasinghe, Secretary to the Treasury Mr. Mahinda Siriwardena, Dr. Harshana Sooriyapperuma, Senior Advisors to the President Prof. Anil Jayantha and Mr. Duminda Hulangamuwa.
-
-◼️
-
-[Data](articles/d7e268fc.json)
-
-[Extended Data](ext_articles/d7e268fc.ext.json)
 
 ---

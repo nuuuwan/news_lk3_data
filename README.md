@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 08:21:12**
+As of **2024-10-05 08:47:09**
 
 ## Newspaper Stats
 
-*Scraped **47,876** Articles*
+*Scraped **47,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,124 @@ economynextcom | 2,935
 dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
-adaderanalk | 5,632
+adaderanalk | 5,634
 tamilmirrorlk | 6,451
 virakesarilk | 7,661
-adaderanasinhalalk | 8,280
+adaderanasinhalalk | 8,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,876 (100.0%) of 47,876 articles have been extended.
+47,879 (100.0%) of 47,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### ඩෙංගු රෝගීන්ගේ වර්ධනයක්
+
+*2024-10-05 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201862) · `si`
+
+දැනට පවතින කාලගුණ තත්ත්වයත් සමඟ සැප්තැම්බර් මස අවසානයේ සිට ඩෙංගු රෝගීන්ගේ වර්ධනයක් පෙන්නුම් කරන බව සෞඛ්‍ය කීට විද්‍යා නිලධාරීන්ගේ සංගමය පවසයි.
+
+එහි සභාපති නජිත් සුමනසේන මහතා සඳහන් කලේ මේ වනවිට ඩෙංගු රෝගීන් 38,000 කට අධික සංඛ්‍යාවක් වර්තා වී ඇති බවය.
+
+දැනට සෞඛ්‍ය වෛද්‍ය නිලධාරී කොට්ඨාස 20 ක රෝගීන් වාර්තා වීම වර්ධනය වී ඇති බවද ඔහු පැවසුවේය.
+
+◼️
+
+[Data](articles/45963862.json)
+
+---
+
+### Defence Chiefs pay traditional courtesy call on President Anura Kumara
+
+*2024-10-05 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102460/defence-chiefs-pay-traditional-courtesy-call-on-president-anura-kumara) · `en`
+
+Following the appointment as the new President, the Chiefs of Defence Forces paid a traditional courtesy call on President Anura Kumara Dissanayake yesterday (04) at the Presidential Secretariat, the President’s Media Division (PMD) stated.
+
+Accordingly, Chief of Defence Staff General Shavendra Silva, Army Commander Lieutenant General Vikum Liyanage, Air Force Commander Air Marshal Udeni Rajapaksa, and Navy Commander Vice Admiral Priyantha Perera met with the President and engaged in a cordial conversation.
+
+To mark the occasion, commemorative tokens were also presented, according to the PMD.
+
+◼️
+
+[Data](articles/263cbeda.json)
+
+---
+
+### Woman dies after drowning drowning
+
+*2024-10-05 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201861) · `si`
+
+61-year-old woman drowns in Pakukwella tank. Identified as Gokarella resident. Died after dropping lotus flower. Investigation ongoing.
+
+🟩
+
+The woman was dead in the Pakukwella tank in the Pakukwella area yesterday afternoon.
+
+The deceased has been identified as a 61-year resident of Gokarella.
+
+The investigation was revealed that she had dropped the lotus while they were in the Pakwella tank.
+
+◼️
+
+[Data](articles/4e8317ef.json)
+
+[Extended Data](ext_articles/4e8317ef.ext.json)
+
+---
+
+### 122 independent groups place deposits for 2024 General Election
+
+*2024-10-05 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102459/122-independent-groups-place-deposits-for-2024-general-election) · `en`
+
+A total of 122 independent groups have placed deposits to contest the 2024 General Election as of yesterday (04), according to the Election Commission.
+
+The Commission further confirmed that 36 independent groups had placed their deposits within yesterday alone.
+
+Deposits have been made for 21 out of the 22 electoral districts, with the exception of the Matale district, where no deposits had been placed as of yesterday, said the Commission.
+
+The Janasetha Peramuna Party has submitted its nominations for the Jaffna and Wanni districts. Additionally, three independent groups submitted their nominations yesterday.
+
+The acceptance of nominations for the 2024 General Election commenced on October 4 and will continue until 12 noon on October 11, 2024.
+
+◼️
+
+[Data](articles/ba7b66da.json)
+
+[Extended Data](ext_articles/ba7b66da.ext.json)
+
+---
+
+### Three killed in several fatal accidents
+
+*2024-10-05 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201860) · `si`
+
+Fatal accidents: Bus crash kills 3 near Niwalapitiya, pedestrian dies after collision on Colombo-Kandy road, and one person dies when hit by lorry in Kotahena.
+
+🟩
+
+A bus traveling towards the niwalapitiya road on Naiwela Vidyalaya on Naiwalapitiya has been insecly.
+
+The man who was seriously injured in the accident was also killed in admission to the Gampaha Hospital.
+
+The victim is a resident of Veyangoda, 48 year old Naiwela.
+
+Meanwhile, a sanctuary was crashed into a pedestrian that traveled through the Colombo-Kandy main road.
+
+The pedestrian, who was seriously injured, has died in admission to the Kegalle hospital.
+
+A person who had returned to a lorry, who was driven by a lorry and stocked behind the lorry at the Kotahena Mfield Junction area, he had died in a lorry.
+
+◼️
+
+[Data](articles/15dacaf2.json)
+
+[Extended Data](ext_articles/15dacaf2.ext.json)
+
+---
 
 ### Several spells of showers expected today
 
@@ -2185,119 +2289,5 @@ I am happy to represent the Homagama constituency that has long been without rep
 [Data](articles/147e11e5.json)
 
 [Extended Data](ext_articles/147e11e5.ext.json)
-
----
-
-### Bandula is political
-
-*2024-10-04 14:45:06* · [`adalk`](https://www.ada.lk/breaking_news/බන්දුලට-දේශපාලන-එපා-වෙයි/11-412310) · `si`
-
-Dr. Bandula Gunawardena, former cabinet minister, announces plans for future political involvement and personal projects. He intends to pursue another doctorate and create a film while continuing his public service career spanning over two decades.
-
-🟩
-
-Former Patrol Highways and Mass Media Cabinet Minister Dr. Bandula Gunawardena declared openings that they would not have been given to the upcoming parliamentary election.
-
-Learning for another doctorate in the next few years, he is intending to create a film.
-
-He said that he had served on behalf of the public to represent the Electorate in Homagama, representing a number of positions as a Minister of Parliament for more than twenty years.
-
-◼️
-
-[Data](articles/c938dd18.json)
-
-[Extended Data](ext_articles/c938dd18.ext.json)
-
----
-
-### HC permits to amend witness list in case against Diana Gamage
-
-*2024-10-04 14:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102443/hc-permits-to-amend-witness-list-in-case-against-diana-gamage) · `en`
-
-The case filed against the former State Minister Diana Gamage over allegedly obtaining a passport by producing formed documents was taken up for hearing before the Colombo High Court today (04).
-
-During the proceedings, the state counsel informed the court that it has been decided to add an additional witness to the case and therefore, requested permission to amend the relevant witness list.
-
-The High Court judge, who accepted the request, allowed the relevant witness list to be amended.
-
-President’s Counsel Shanaka Ranasinghe who appeared for the defense stated before the court that he wanted to examine the original birth certificate of the defendant which has been submitted as evidence to the court before the trial began.
-
-Accordingly, the judge also ordered the Director of the Criminal Investigation Department (CID) to ensure that the relevant document be submitted to the court within a week.
-
-Later, the case was ordered to be called on November 4 for pre-trial conference.
-
-...
-
-[Data](articles/47faeb9d.json)
-
-[Extended Data](ext_articles/47faeb9d.ext.json)
-
----
-
-### President and IMF. Among the second days
-
-*2024-10-04 14:34:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-අයි-එම්-එෆ්--අතර-දෙවන-දිනටත්-සාකච්ඡා/11-412309) · `si`
-
-Sri Lanka President Anura Kumara Dissanayake met IMF officials led by Dr. Peter Barwer. They discussed economic reforms and alternatives to achieve IMF program goals.
-
-🟩
-
-President Anura Kumara Dissanayake and the International Monetary Fund (IMF) opened a special discussion between the International Monetary Fund (IMF) and the International Monetary Fund.
-
-International Monetary Fund Asia Pacific Department Director General Mission Senior Mission Head of Senior Mission Dr. Peter Barwer (Dr.. The Sri Lankan delegation, appointed to senior representatives of the International Monetary Fund and IMF talks, are appointed to the Jathika International Monetary Fund.
-
-President Anura Kumara Dissanayake is the objective of reaching those objectives through alternative routes that will be achieved by the program with the International Monetary Fund.
-
-◼️
-
-[Data](articles/15e95de1.json)
-
-[Extended Data](ext_articles/15e95de1.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-04 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195469) · `ta`
-
-US dollar exchange rate: 289.4949 rupees buying, 298.4983 selling. Released by Central Bank on Friday (04).
-
-🟩
-
-The US dollar purchasing price was 289.4949 rupees and the sales price were 298.4983 rupees based on a currency exchange rate released by the Central Bank on Friday (04).
-
-◼️
-
-[Data](articles/30335884.json)
-
-[Extended Data](ext_articles/30335884.ext.json)
-
----
-
-### Notice on Registration of Workers in Lebanon
-
-*2024-10-04 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201835) · `si`
-
-Sri Lankan worker registration suspended due to family issues. Contact 1989 number for assistance. No immediate danger in Israel/Lebanon. Embassy support available for return. High airfare costs for travel.
-
-🟩
-
-Additional General Manager of International Affairs Gamini Senarath Yapa says that the registration of workers for Lebanon is not done at the moment.
-
-He says that if the relatives of the country are a problem with their relatives, it is possible to contact the 1989 number.
-
-He said:
-
-"There is no danger to any Sri Lankan working in Israel or Lebanon. The Israeli government has set limits. Everyone has to adapt to the safety opportunities.
-
-The relatives of the country have the potentially problem with their relatives, and talk to the 1989 number to us.
-
-If workers are hired for Lebanon, registration is not carried out at the moment. If any Sri Lankan wants to come to Sri Lanka at this moment, they have the ability to contact the embassies. Sri Lanka is capable of coming through Middle East. But the airline fees are high. Because demand is more ".
-
-◼️
-
-[Data](articles/f37dc6de.json)
-
-[Extended Data](ext_articles/f37dc6de.ext.json)
 
 ---

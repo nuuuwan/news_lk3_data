@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 12:23:33**
+As of **2024-10-05 12:38:58**
 
 ## Newspaper Stats
 
-*Scraped **47,897** Articles*
+*Scraped **47,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 474
 islandlk | 2,820
 economynextcom | 2,937
 dailyftlk | 3,235
-adalk | 4,425
+adalk | 4,427
 dailymirrorlk | 4,733
 adaderanalk | 5,638
 tamilmirrorlk | 6,455
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,287
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,897 (100.0%) of 47,897 articles have been extended.
+47,897 (100.0%) of 47,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### ආරක්ෂක ප්‍රධානීන් ජනාධිපති හමු වෙයි
+
+*2024-10-05 12:17:19* · [`adalk`](https://www.ada.lk/breaking_news/ආරක්ෂක-ප්‍රධානීන්-ජනාධිපති-හමු-වෙයි/11-412315) · `si`
+
+නව ජනාධිපතිවරයා ලෙස පත්වීමෙන් පසුව සාම්ප්‍රදායානුකුලව ආරක්ෂක ප්‍රධානීන් ඊයේ (04) ජනාධිපති කාර්යාලයේ දී සේනාධිනායක ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු විය.
+
+ඒ අනුව ආරක්ෂක මාණ්ඩලික ප්‍රධානී ජෙනරාල් ශවේන්ද්‍ර සිල්වා, යුද හමුදාපති ලුතිනන් ජනරාල් විකුම් ලියනගේ, ගුවන් හමුදාපති එයාර් මාර්ෂල් උදේනි රාජපක්ෂ සහ නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා යන මහත්වරුන් ජනාධිපතිවරයා හමු වී සුහද කථා බහක නිරත විය.
+
+එම අවස්ථාවන් සනිටුහන් කරමින් සමරු සිහිවටන පිරිනැමීම ද සිදු කෙරිණි.
+
+◼️
+
+[Data](articles/5032e196.json)
+
+---
 
 ### Sweden's attention to develop renewable energy in this country
 
@@ -1166,6 +1182,26 @@ Q: Where can you change the parameters of the program and violations of the new 
 
 ---
 
+### ජනපති අනුරට ඉන්දීය සංචාරයකට මෝදිගෙන් ආරාධනා
+
+*2024-10-04 21:07:21* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-අනුරට-ඉන්දීය-සංචාරයකට-මෝදිගෙන්-ආරාධනා/10-412314) · `si`
+
+ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා ජනපති හමු වෙයි
+
+එක්දින නිල සංචාරයක් සඳහා මෙරටට පැමිණි ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය  එස්. ජයශංකර් මහතා අද (04) පස්වරුවේ ජනාධිපති කර්යාලයේ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු විය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ නව ධූර කාලය ආරම්භ වීමත් සමඟම මෙරට සංචාරයකට එක්වීමට ලැබීම පිළිබඳ සතුට පළ කළ ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා ජනාධිපතිවරයා වෙත සිය උණුසුම් සුබ පැතුම් පිළිගැන්වීය.
+
+එසේම ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ සුබපැතුම් ද ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත පිළිගැන්වූ ජයශංකර් මහතා ඉන්දු - ශ්‍රී ලංකා සහයෝගිතාව විවිධ ක්ෂේත්‍ර ඔස්සේ තවදුරටත් ශක්තිමත් කර ගැනීම පිළිබඳව ද ජනාධිපතිවරයා සමඟ සාකච්ඡා කළේය.
+
+ශ්‍රී ලංකාවේ සංචාරක ක්ෂේත්‍රයේ මෙන්ම ආයෝජනය, විදුලිබල හා බලශක්ති සහ දියර කිරි කර්මාන්තය යන ක්ෂේත්‍ර සඳහා සහායවීමට ඉන්දියාව දක්වන උනන්දුව පිළිබඳව ද කරුණු පැහැදිළි කළ ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා ශ්‍රී ලංකාවේ ආර්ථික පුනරුදය සඳහා ඉන්දියාවේ පූර්ණ සහයෝගය ලබා දෙන බවට සහතික විය.
+
+...
+
+[Data](articles/d8c999f6.json)
+
+---
+
 ### Hand over before November 7
 
 *2024-10-04 20:59:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பர்-7-க்கு-முன்-ஒப்படையுங்கள்/175-344923) · `ta`
@@ -2239,45 +2275,5 @@ Following the meeting, Dr. Jaishankar expressed his sentiments on social media s
 [Data](articles/d5970984.json)
 
 [Extended Data](ext_articles/d5970984.ext.json)
-
----
-
-### Court further suspends Keheliya and family’s assets worth Rs. 97 mn
-
-*2024-10-04 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102448/court-further-suspends-keheliya-and-familys-assets-worth-rs-97-mn-) · `en`
-
-The Colombo High Court has further extended the order issued suspending the fixed deposits and insurance policies to the tune of Rs. 97 million belonging to former Health Minister Keheliya Rambukwella and fiver of his close relatives, in connection with an investigation by the Bribery Commission.
-
-This order was issued by the Colombo High Court after considering a request made by the Bribery Commission.
-
-On July 05, the Colombo High Court suspended the fixed deposits and insurance policies to the tune of Rs. 97 million belonging to former Health Minister Keheliya Rambukwella and fiver of his close relatives for a period of 03 months which ended from today (04).
-
-Accordingly, after considering the request made by the Bribery Commission today, the High Court decided to further extend the suspension order until January 4.
-
-◼️
-
-[Data](articles/63511950.json)
-
-[Extended Data](ext_articles/63511950.ext.json)
-
----
-
-### India’s EA Minister meets Sri Lanka leader, says discussed deepening ties
-
-*2024-10-04 16:09:00* · [`economynextcom`](https://economynext.com/indias-ea-minister-meets-sri-lanka-leader-says-discussed-deepening-ties-182340/) · `en`
-
-ECONOMYNEXT – Indian External Affairs Minister S. Jaishankar met Sri Lanka’s newly elected leader Anura Kumara Dissanayake and discussed deepening the ties between the two South Asian neighbours.
-
-Jaishankar the first foreign dignitary outside the country to meet Dissanayake after his election on September 21.
-
-“Honored to call on President Anura Kumara Dissanayake today in Colombo. Conveyed warm greetings of President Droupadi Murmu and PM Narendra Modi,” Jaishankar said in his X-platform.
-
-“Appreciate his warm sentiments and guidance for the India-Sri Lanka relations. Discussed ways to deepen ongoing cooperation and strengthen India-Sri Lanka ties for the benefit of people of two countries and the region.”
-
-...
-
-[Data](articles/ccdd9805.json)
-
-[Extended Data](ext_articles/ccdd9805.ext.json)
 
 ---

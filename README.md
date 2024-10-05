@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 10:12:13**
+As of **2024-10-05 10:23:13**
 
 ## Newspaper Stats
 
-*Scraped **47,888** Articles*
+*Scraped **47,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 2,935
 dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
-adaderanalk | 5,635
+adaderanalk | 5,636
 tamilmirrorlk | 6,454
 virakesarilk | 7,663
-adaderanasinhalalk | 8,284
+adaderanasinhalalk | 8,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,888 (100.0%) of 47,888 articles have been extended.
+47,890 (100.0%) of 47,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Israel targets Hezbollah intel HQ in Lebanon, Iran says it will not back down
+
+*2024-10-05 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102462/israel-targets-hezbollah-intel-hq-in-lebanon-iran-says-it-will-not-back-down) · `en`
+
+Israel said it had targeted the intelligence headquarters of Hezbollah in Beirut and was assessing the damage on Friday after a series of strikes on senior figures in the group that Iran’s Supreme Leader dismissed as counterproductive.
+
+Israel has been weighing options in its response to Iran’s ballistic missile attack on Tuesday, which Iran had carried out in response to Israel’s military action in Lebanon.
+
+Oil prices have risen on the possibility of an attack on Iran’s oil facilities as Israel pursues its goals of pushing back Hezbollah militants in Lebanon and eliminating their Hamas allies in Gaza.
+
+The air attack on Beirut, part of a wider assault that has driven more than 1.2 million Lebanese from their homes, was reported to have targeted the potential successor to the leader of Iran-backed Hezbollah, Sayyed Hassan Nasrallah, killed by Israel a week ago.
+
+Hashem Safieddine’s fate was unclear and neither Israel nor Hezbollah have offered any comment.
+
+...
+
+[Data](articles/7e46c27d.json)
+
+[Extended Data](ext_articles/7e46c27d.ext.json)
+
+---
+
+### Murder in Pettah
+
+*2024-10-05 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201864) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Murder in Pettah: 33-year-old from Mahiyanganaya stabbed near Colombo Racecourse at 1:30 AM on 05/2023."
+
+🟩
+
+A person who stabs a sharp weapon in the Colombo Reqmalation Road, the second crossview.
+
+The victim was a 33 year old resident of Mahiyanganaya.
+
+The incident had taken place around 1.30 am today (05).
+
+◼️
+
+[Data](articles/c4a5d3d9.json)
+
+[Extended Data](ext_articles/c4a5d3d9.ext.json)
+
+---
 
 ### Student death
 
@@ -2241,69 +2289,5 @@ Ajith Parakum Jayasinghe was translated into Sinhala.
 [Data](articles/b2abcb63.json)
 
 [Extended Data](ext_articles/b2abcb63.ext.json)
-
----
-
-### Farmers difficulty with the fall of onion prices
-
-*2024-10-04 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195471) · `ta`
-
-Anuradhapura district farmers struggle with low onion prices, seeking 275-300 rupee per kg sale for locally grown onions. Imported onions sold cheaper, affecting profits.
-
-🟩
-
-Farmers belonging to the Kalanpindunuwewa Divisional Secretariat Division of the Anuradhapura district have been in trouble, despite the large onion cultivation, but they are inconvenienced due to the lack of proper prices of their harvest.
-
-Farmers point out that the price of a kilogram of onion is 156, 160 and 170 rupees.
-
-Farmers have said that they do not get a profit by selling the big onions cultivated at a lower price and that it is not possible to pay for the cultivation.
-
-In addition, local onions are imported from abroad and local big onions are sold at cheaper prices.
-
-Farmers have demanded that the government arrange to sell large onions cultivated by indigenous farmers for 275 to 300 rupees.
-
-◼️
-
-[Data](articles/79bbacf8.json)
-
-[Extended Data](ext_articles/79bbacf8.ext.json)
-
----
-
-### Lebanon is found in the face of Israeli attacks
-
-*2024-10-04 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201837) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Israel launches airstrikes on Lebanon, targeting Hezbollah. Heavy casualties reported. World Health Organization confirms 28 health workers killed in 24 hours. Israel denies targeting civilians, claims aiming at Hamas structures. This marks Israel's first strike on West Bank in 20 years.
-
-🟩
-
-Israel has a series of massive air strikes to South Bert targeting the Hezbolleh of Lebanon.
-
-Foreign media reports that the attacks on Lebanon Kaluwel, after the end of the war, were nearing nearly 2,000 people.
-
-Israeli objections have intensified the unstableness of the security of Lebanon, and in order to the southern Berette, Israel was launched yesterday (03).
-
-A plane from France had been attacked near the Bereurtost Airport.
-
-The city of Israel is the main goal of Israel, which is said to be located.
-
-The murder of Hashham, which is the head of the Hezbollah Executive Councilor, is currently the main objective of Israel.
-
-It is said that the Israelites claimed that Hezbollah intelligence was targeting buildings belonging to the main headquarters.
-
-Lebanon has been killed and 37 people were killed and over 100 wounded.
-
-Accordingly, Israeli-Hamas began in October 7, 2023, aimed at the attacks on Sabulla on October 7, 2023, and the attacks on the Lebanulla have been attacked by 127 children.
-
-...
-
-[Data](articles/4fe83534.json)
-
-[Extended Data](ext_articles/4fe83534.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 17:39:31**
+As of **2024-10-05 17:59:28**
 
 ## Newspaper Stats
 
-*Scraped **47,920** Articles*
+*Scraped **47,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
-adaderanalk | 5,643
+adaderanalk | 5,644
 tamilmirrorlk | 6,460
 virakesarilk | 7,663
 adaderanasinhalalk | 8,298
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,920 (100.0%) of 47,920 articles have been extended.
+47,921 (100.0%) of 47,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Lebanon hospitals close as Israeli strikes hit health facilities
+
+*2024-10-05 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102470/lebanon-hospitals-close-as-israeli-strikes-hit-health-facilities) · `en`
+
+At least four hospitals in Lebanon announced on Friday that they were suspending work because of Israeli strikes, while a Hezbollah-affiliated health organisation said that 11 paramedics had been killed in the past 24 hours.
+
+The four closures capped two weeks of Israeli strikes on hospitals and healthcare workers in Lebanon that have shuttered at least 37 facilities and killed dozens of medical staff, according to the World Health Organisation.
+
+Late on Friday night, the Israeli army issued a statement alleging that Hezbollah was using medical vehicles to transport fighters and weapons, warning that it would strike any vehicle it suspected of being used for military purposes.
+
+Hospital staff in southern Lebanon told the BBC that health facilities treating wounded civilians had been hit with direct Israeli strikes. The BBC has approached the IDF for comment.
+
+...
+
+[Data](articles/fb76566c.json)
+
+[Extended Data](ext_articles/fb76566c.ext.json)
+
+---
 
 ### America and British Hoothies are looking for goals
 
@@ -2253,23 +2273,5 @@ Pradeep Comrade Dr. Krishna Sriney, Director General of the Department of Econom
 [Data](articles/dd3c410d.json)
 
 [Extended Data](ext_articles/dd3c410d.ext.json)
-
----
-
-### IMF, Sri Lanka agree on continuing “hard-won” gains, int’l lender says
-
-*2024-10-04 18:21:00* · [`economynextcom`](https://economynext.com/imf-sri-lanka-agree-on-continuing-hard-won-gains-intl-lender-says-182366/) · `en`
-
-ECONOMYNEXT — The International Monetary Fund (IMF) has said it is encouraged by the new government’s commitment to continue Sri Lanka’s reform efforts and that agreement was reached on continuing to build on the “hard-won” gains.
-
-The IMF said in a statement on Friday October 04 that initial talks between an IMF team led by Director for the Asia Pacific Department Krishna Srinivasan with newly elected President Anura Kumara Dissanayake were productive.
-
-The team met with President Dissanayake, Prime Minister Harini Amarasuriya, Foreign Minister Vijitha Herath, Central Ban Governor Nandalal Weerasinghe and Secretary to the Treasury Mahinda Siriwardena and other stakeholders.
-
-...
-
-[Data](articles/0f574952.json)
-
-[Extended Data](ext_articles/0f574952.ext.json)
 
 ---

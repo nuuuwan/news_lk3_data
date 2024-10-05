@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 16:55:46**
+As of **2024-10-05 17:08:09**
 
 ## Newspaper Stats
 
-*Scraped **47,916** Articles*
+*Scraped **47,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,643
 tamilmirrorlk | 6,458
 virakesarilk | 7,663
-adaderanasinhalalk | 8,296
+adaderanasinhalalk | 8,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,916 (100.0%) of 47,916 articles have been extended.
+47,917 (100.0%) of 47,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Pirivena GCE Ordinary Level Examination Results
+
+*2024-10-05 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201878) · `si`
+
+Pirivena GCE Ordinary Level exam results released online. Visit www.doenets.lk for details. Contact 1911 helpline for inquiries. Results available now after being announced on 28th.
+
+🟩
+
+The results of the Pirivenal Ordinary Level have been released.
+
+The results were released on the Internet today, the Department of Examinations said.
+
+Accordingly, visiting the Examination Department www.doenets.lk
+
+The Department of Examinations states that inquiries can be made to the 1911 instant call number if there is a need to investigate.
+
+The results of the GCE O / L examination were released on the 28th and the results of the candidates who sat the examination have been released today.
+
+◼️
+
+[Data](articles/6284031c.json)
+
+[Extended Data](ext_articles/6284031c.ext.json)
+
+---
 
 ### Three persons including the boss of the Department of Transport
 
@@ -2221,27 +2247,5 @@ Dr. Jaishankar was the first high-level foreign dignitary to visit Sri Lanka aft
 [Data](articles/5870d78c.json)
 
 [Extended Data](ext_articles/5870d78c.ext.json)
-
----
-
-### Top India official thanks former Sri Lanka leader for advancing ties
-
-*2024-10-04 17:54:00* · [`economynextcom`](https://economynext.com/top-india-official-thanks-former-sri-lanka-leader-for-advancing-ties-182360/) · `en`
-
-ECONOMYNEXT — Visting India external affairs minister S Jaishankar has met former Sri Lanka president Ranil Wickremesinghe and thanked him for advancing ties between the two countries in the past two years.
-
-“Glad to see former President @RW_SRILANKA today. Thanked him for his efforts in advancing our ties in the last two years. Assured him that India will continue to commit to Sri Lanka’s economic recovery and development,” he tweeted Friday October 04 afternoon.
-
-Visiting Indian External Affairs Minister @DrSJaishankar called on former President Ranil Wickremesinghe at his residence in Colombo. #SriLanka pic.twitter.com/Fqjzf5qzBr
-
-In June, Wickremesinghe as then president and Narendra Modi, who had just been sworn in for a third consecutive term as Prime Minister of India, reaffirmed their commitment to maintaining strong Indo-Sri Lankan relations.
-
-Wickremesinghe attended the swearing-in ceremony in New Delhi on July 09 on the invitation of Modi.
-
-...
-
-[Data](articles/8f8046c6.json)
-
-[Extended Data](ext_articles/8f8046c6.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 12:38:58**
+As of **2024-10-05 12:57:39**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 8,287
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,897 (100.0%) of 47,899 articles have been extended.
+47,899 (100.0%) of 47,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
 
-### ආරක්ෂක ප්‍රධානීන් ජනාධිපති හමු වෙයි
+### Security heads meet President
 
 *2024-10-05 12:17:19* · [`adalk`](https://www.ada.lk/breaking_news/ආරක්ෂක-ප්‍රධානීන්-ජනාධිපති-හමු-වෙයි/11-412315) · `si`
 
-නව ජනාධිපතිවරයා ලෙස පත්වීමෙන් පසුව සාම්ප්‍රදායානුකුලව ආරක්ෂක ප්‍රධානීන් ඊයේ (04) ජනාධිපති කාර්යාලයේ දී සේනාධිනායක ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු විය.
+Security officials meet new President: Defense Chiefs visit Presidential Secretariat, discuss national security strategies.
 
-ඒ අනුව ආරක්ෂක මාණ්ඩලික ප්‍රධානී ජෙනරාල් ශවේන්ද්‍ර සිල්වා, යුද හමුදාපති ලුතිනන් ජනරාල් විකුම් ලියනගේ, ගුවන් හමුදාපති එයාර් මාර්ෂල් උදේනි රාජපක්ෂ සහ නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා යන මහත්වරුන් ජනාධිපතිවරයා හමු වී සුහද කථා බහක නිරත විය.
+🟩
 
-එම අවස්ථාවන් සනිටුහන් කරමින් සමරු සිහිවටන පිරිනැමීම ද සිදු කෙරිණි.
+After the appointment as the new president, the heads of Defense Heads of Commander Anura Kumara Dissanayake were found at the Presidential Secretariat yesterday (04).
+
+Accordingly Chief of Defense Staff General Shavendra Silva, Army Commander Lieutenant General, Air Force Vice Admiral Priyantha Perera, Commander of the Navy Vice Admiral Priyantha Perera met the President.
+
+The commemorative monuments were also made to mark the opportunities.
 
 ◼️
 
 [Data](articles/5032e196.json)
+
+[Extended Data](ext_articles/5032e196.ext.json)
 
 ---
 
@@ -1182,23 +1188,37 @@ Q: Where can you change the parameters of the program and violations of the new 
 
 ---
 
-### ජනපති අනුරට ඉන්දීය සංචාරයකට මෝදිගෙන් ආරාධනා
+### President invites Indian
 
 *2024-10-04 21:07:21* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-අනුරට-ඉන්දීය-සංචාරයකට-මෝදිගෙන්-ආරාධනා/10-412314) · `si`
 
-ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයශංකර් මහතා ජනපති හමු වෙයි
+Here's a 200-character summary:
 
-එක්දින නිල සංචාරයක් සඳහා මෙරටට පැමිණි ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය  එස්. ජයශංකර් මහතා අද (04) පස්වරුවේ ජනාධිපති කර්යාලයේ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා හමු විය.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ නව ධූර කාලය ආරම්භ වීමත් සමඟම මෙරට සංචාරයකට එක්වීමට ලැබීම පිළිබඳ සතුට පළ කළ ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා ජනාධිපතිවරයා වෙත සිය උණුසුම් සුබ පැතුම් පිළිගැන්වීය.
 
-එසේම ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ සුබපැතුම් ද ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත පිළිගැන්වූ ජයශංකර් මහතා ඉන්දු - ශ්‍රී ලංකා සහයෝගිතාව විවිධ ක්ෂේත්‍ර ඔස්සේ තවදුරටත් ශක්තිමත් කර ගැනීම පිළිබඳව ද ජනාධිපතිවරයා සමඟ සාකච්ඡා කළේය.
+Sri Lankan President Anura Kumara Dissanayake meets Indian Foreign Minister Dr. S. Jaishankar. They discuss strengthening bilateral ties, economic cooperation, and India's support for Sri Lanka's development in sectors like tourism, investment, and energy. Both leaders agree to promote mutual interests and invite each other for visits.
 
-ශ්‍රී ලංකාවේ සංචාරක ක්ෂේත්‍රයේ මෙන්ම ආයෝජනය, විදුලිබල හා බලශක්ති සහ දියර කිරි කර්මාන්තය යන ක්ෂේත්‍ර සඳහා සහායවීමට ඉන්දියාව දක්වන උනන්දුව පිළිබඳව ද කරුණු පැහැදිළි කළ ඉන්දීය විදේශ කටයුතු අමාත්‍යවරයා ශ්‍රී ලංකාවේ ආර්ථික පුනරුදය සඳහා ඉන්දියාවේ පූර්ණ සහයෝගය ලබා දෙන බවට සහතික විය.
+🟩
+
+Indian Foreign Minister Dr. S. Jayasankur met President
+
+Indian External Affairs Minister Dr. S. Story. Jayasankur met President Anura Kumara Dissanayake at the Presidential Carry (04).
+
+The Indian Foreign Minister presented his war to the President to join the President of President Anura Kumara Dissanayake.
+
+Jayasankur also discussed Indian Prime Minister Narendra Modi, Narendra Modi and Jayasankur, further strengthening Indo-Sri Lanka cooperation through various fields.
+
+The Indian Foreign Minister assured India's full support to Sri Lanka's economic revival for Sri Lanka's economic revival in Sri Lanka's interest to support the fields of tourism, investment industry, power and energy and liquid dairy industry.
+
+Jayashankar also emphasized Sri Lanka's massive market in India to enhance its economic renaissance.
+
+President Anura Kumara Dissanayake, who was grateful to India's financial support in the recent world, was to collaborate with India.
 
 ...
 
 [Data](articles/d8c999f6.json)
+
+[Extended Data](ext_articles/d8c999f6.ext.json)
 
 ---
 

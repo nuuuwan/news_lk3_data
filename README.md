@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 11:23:01**
+As of **2024-10-05 11:38:48**
 
 ## Newspaper Stats
 
-*Scraped **47,892** Articles*
+*Scraped **47,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,637
 tamilmirrorlk | 6,455
 virakesarilk | 7,663
-adaderanasinhalalk | 8,285
+adaderanasinhalalk | 8,286
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,892 (100.0%) of 47,892 articles have been extended.
+47,893 (100.0%) of 47,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Protests in Bangladesh against Israel
+
+*2024-10-05 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201865) · `si`
+
+Bangladesh protests against Israel attacks. Organized by Islamic parties. Demonstrators wave Palestinian flags. Demand UN intervention. Foreign media coverage highlights anti-Israel sentiment.
+
+🟩
+
+Foreign media reports on a massive protest in Bangladesh.
+
+They protested against the attacks on the attacks on Israel, Lebanon and Gaza.
+
+The Islar and Islamic political party of Bangladesh had organized the protest.
+
+Foreign media reports have reported that they have protested against anti-war slogan with the attackers of the Palestinian flag.
+
+The protesters were severely protested against the Muslim community.
+
+Protesters have said that the United Nations immediately should take immediate action.
+
+◼️
+
+[Data](articles/df9be4be.json)
+
+[Extended Data](ext_articles/df9be4be.ext.json)
+
+---
 
 ### Success in negotiations - Finance Ministry Notification
 
@@ -2261,27 +2289,5 @@ Speaking to reporters regarding the recruitment of workers to Middle Eastern cou
 [Data](articles/2d51d9e7.json)
 
 [Extended Data](ext_articles/2d51d9e7.ext.json)
-
----
-
-### A big change in the stock market
-
-*2024-10-04 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201839) · `si`
-
-Colombo Stock Exchange: All stock prices exceed 12,000 mark for first time since July 3, 2024. Index increases by 123.50 units, reaching 12,053.49 today.
-
-🟩
-
-In the Colombo Stock Exchange, all stock price index has exceed 12,000.
-
-This is the first time that the value exceeded the value after July 3, 2024.
-
-Today, all stock price index increased by 123.50 units, and the total value was 12,053.49.
-
-◼️
-
-[Data](articles/1309e74d.json)
-
-[Extended Data](ext_articles/1309e74d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 13:22:58**
+As of **2024-10-05 13:38:52**
 
 ## Newspaper Stats
 
-*Scraped **47,901** Articles*
+*Scraped **47,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
-adaderanalk | 5,639
+adaderanalk | 5,640
 tamilmirrorlk | 6,455
 virakesarilk | 7,663
 adaderanasinhalalk | 8,288
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,288
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,901 (100.0%) of 47,901 articles have been extended.
+47,902 (100.0%) of 47,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Tunisia votes Sunday in its third presidential election since the Arab Spring
+
+*2024-10-05 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102466/tunisia-votes-sunday-in-its-third-presidential-election-since-the-arab-spring) · `en`
+
+With his major opponents imprisoned or left off the ballot, Tunisian President Kais Saied faces few obstacles to winning reelection on Sunday, five years after riding anti-establishment backlash to a first term.
+
+The North African country’s Oct. 6 presidential election is its third since protests led to the 2011 ouster of President Zine El Abidine Ben Ali — the first autocrat toppled in the Arab Spring uprisings that also overthrew leaders in Egypt, Libya and Yemen.
+
+International observers praised the previous two contests as meeting democratic norms. However, a raft of arrests and actions taken by a Saied-appointed election authority have raised questions about whether this year’s race is free and fair. And opposition parties have called for a boycott.
+
+...
+
+[Data](articles/940632eb.json)
+
+[Extended Data](ext_articles/940632eb.ext.json)
+
+---
 
 ### Fire at the Mihindu Mawatha in Pettah
 
@@ -2257,35 +2275,5 @@ Melstacorp was up 1.30 rupees at 86.40, Lion Brewery closed down 5 rupees at 994
 [Data](articles/e35c81ef.json)
 
 [Extended Data](ext_articles/e35c81ef.ext.json)
-
----
-
-### Skirberg, second, only the muscle
-
-*2024-10-04 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201843) · `si`
-
-Here's a 200-character summary:
-
-
-
-Mark Zuckerberg (Meta CEO) ranks second globally in wealth, with $206.2 billion. Jeff Bezos (Amazon founder) tops the list at $256 billion. Elon Musk (Tesla/SpaceX CEO) holds third place with $205 billion.
-
-🟩
-
-Metta CEO Mark Zankarberg has been second among the world's richest people.
-
-Juff Bsos, the third place in the place, was placed third.
-
-Mark Zakarber's income is $ 206.2 billion in the second quarter of this year, according to foreign reports.
-
-Milk is the world's richest person in the world and his income is US $ 256 billion.
-
-Jeff Basos, who is the third place between the world's rich people, indicates US $ 205 billion.
-
-◼️
-
-[Data](articles/3913055e.json)
-
-[Extended Data](ext_articles/3913055e.ext.json)
 
 ---

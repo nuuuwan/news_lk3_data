@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 14:23:20**
+As of **2024-10-05 14:38:36**
 
 ## Newspaper Stats
 
-*Scraped **47,906** Articles*
+*Scraped **47,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
-adaderanalk | 5,640
+adaderanalk | 5,641
 tamilmirrorlk | 6,457
 virakesarilk | 7,663
 adaderanasinhalalk | 8,290
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,906 (100.0%) of 47,906 articles have been extended.
+47,907 (100.0%) of 47,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### ‘Will never allow Sri Lankan territory to be used inimical for India’s security interests’ – President
+
+*2024-10-05 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102467/will-never-allow-sri-lankan-territory-to-be-used-inimical-for-indias-security-interests-president) · `en`
+
+President Anura Kumara Dissanayake has reiterated that Sri Lankan territory would never allowed to be used in a manner inimical to India’s security interests. Dissanayake highlighted this, during a discussion held in Colombo with India’s External Affairs Minister (EAM) Dr. S. Jaishankar who visited Sri Lanka on Friday (04).
+
+Issuing a statement regarding Dr. S. Jaishankar’s Sri Lanka visit, the Indian High Commission in Sri Lanka stated that regarding security and defence, the meetings brought out that the interests of India and Sri Lanka were closely intertwined. Their collaboration was in mutual interest and contributed to the stability and security of the region. The importance of a continuous dialogue that would promote trust, transparency and mutual sensitivity was recognized.
+
+...
+
+[Data](articles/9f6be255.json)
+
+[Extended Data](ext_articles/9f6be255.ext.json)
+
+---
 
 ### Happy notice of vehicle imports
 
@@ -2251,35 +2267,5 @@ What does he make after that?That is the culmination of the film.
 [Data](articles/0f3c5ef5.json)
 
 [Extended Data](ext_articles/0f3c5ef5.ext.json)
-
----
-
-### Petty - movie review
-
-*2024-10-04 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195488) · `ta`
-
-"Petty" movie review summary: Triangular love story set in 90s. Deepiksha stars alongside newcomers. Poor reception due to outdated plot and subpar performances. Limited appeal despite some decent comedy scenes.
-
-🟩
-
-Actors: Dr. Ditto, Mahesh, Deepiksha, Sams, Madhumita, Mani Bai, Senthamizhan and many others.
-
-The triangular love story 'Chelkutty', which has been released in the newcomers, has attracted all the fans?Or not?We will continue to see.
-
-The story is set in as it takes place in the 90s. The heroes of the story, Sentha (Deepiksha), who is a friend of the story, are the heroes of the story, Dito and Mahesh.
-
-Tito introduces Mahesh to Sentha at a moment. The heroine Sentha is compassionate because Mahesh is not a parent. Mahesh misunderstand this and falls in love with Sentha. Senta never loved Mahesh.
-
-He reports it directly to Mahesh. However Mahesh continues to love Senatha. Mahesh fails at school without getting a great deal.
-
-But Ditto and Senta are siddhi in the exam and both enroll in college to teach higher education.
-
-Senta, who is impressed by Dito's action, begins to love him. Ditto's parents also listen to Sentha. But Ditto-Sentha refuses to marry.
-
-...
-
-[Data](articles/47027f6b.json)
-
-[Extended Data](ext_articles/47027f6b.ext.json)
 
 ---

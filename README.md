@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 19:38:41**
+As of **2024-10-05 19:56:46**
 
 ## Newspaper Stats
 
-*Scraped **47,925** Articles*
+*Scraped **47,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
-adaderanalk | 5,645
+adaderanalk | 5,646
 tamilmirrorlk | 6,461
 virakesarilk | 7,663
 adaderanasinhalalk | 8,300
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,925 (100.0%) of 47,925 articles have been extended.
+47,926 (100.0%) of 47,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Public asked to report evidence on ‘leaked’ questions in 2024 Scholarship Exam
+
+*2024-10-05 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102472/public-asked-to-report-evidence-on-leaked-questions-in-2024-scholarship-exam) · `en`
+
+Sri Lanka Police informs that anyone with evidence or knowledge of any exam questions, other than the three questions already alleged to have been leaked, being disclosed prior to the 2024 Scholarship Examination, to come forward with complaints by October 7, 2024.
+
+Issuing a statement in this regard, the Police Media Division stated that complaints can be submitted at the offices of Senior Superintendents of Police (SSP) in police divisions across the island. Those unable to visit these offices can instead file complaints at the nearest police station, where the Divisional Criminal Investigation Unit will record the information and forward it to the Criminal Investigation Department (CID) for further investigation.
+
+...
+
+[Data](articles/3a329a00.json)
+
+[Extended Data](ext_articles/3a329a00.ext.json)
+
+---
 
 ### Sri Lanka deprives winning the second match
 
@@ -376,7 +392,7 @@ It is mandatory to win this competition to Sri Lanka's expectations in the semi-
 
 *2024-10-05 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102469/new-director-appointed-to-state-intelligence-service) · `en`
 
-The Deputy Inspector General of Police (DIG) Dhammika Kumara has been appointed as the new Director of the State Intelligence Service (SIS).
+The Deputy Inspector General of Police (DIG) Dhammika Priyantha has been appointed as the new Director of the State Intelligence Service (SIS).
 
 This appointment comes following the retirement of former Director of the SIS Major General Suresh Sallay.
 
@@ -2261,25 +2277,5 @@ Final confirmation was received from both IMF on compliance with its debt sustai
 [Data](articles/46b9f982.json)
 
 [Extended Data](ext_articles/46b9f982.ext.json)
-
----
-
-### Sri Lanka new govt to go ahead with ISB deal, Citigroup to manage exchange
-
-*2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-to-go-head-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
-
-ECONOMYNEXT – Sri Lanka will go ahead with a restructure of international sovereign bonds, with final confirmation having come from both the International Monetary Fund and the Official Creditor Committee.
-
-Sri Lanka said the International Monetary Fund had earlier gave informal confirmation that the sovereign bond agreement in principle (AIP) with the local option was in line with the debt sustainability parameters.
-
-“Following the Presidential Elections held in Sri Lanka on Saturday 21st September and the appointment of the new government on 24th of September, the Sri Lanka authorities confirm their endorsement of the program debt targets and the AIP terms as announced on 19th September and confirm their intention to expedite the implementation of the ISBs restructuring transaction in line with these terms.”
-
-Citigroup Global Markets has been appointed to manage the bond exchange which is expected to conclude in about 10 weeks.
-
-...
-
-[Data](articles/a307d393.json)
-
-[Extended Data](ext_articles/a307d393.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 21:23:14**
+As of **2024-10-05 22:11:46**
 
 ## Newspaper Stats
 
-*Scraped **47,939** Articles*
+*Scraped **47,943** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 394
+dbsjeyarajcom | 395
 bbccomsinhala | 474
 colombotelegraphcom | 474
 islandlk | 2,820
@@ -18,19 +18,83 @@ dailyftlk | 3,235
 adalk | 4,428
 dailymirrorlk | 4,733
 adaderanalk | 5,646
-tamilmirrorlk | 6,461
+tamilmirrorlk | 6,462
 virakesarilk | 7,671
-adaderanasinhalalk | 8,303
+adaderanasinhalalk | 8,305
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,939 (100.0%) of 47,939 articles have been extended.
+47,940 (100.0%) of 47,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### පොහොට්ටුවෙන් සම්මුඛ පරීක්ෂණ
+
+*2024-10-05 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201887) · `si`
+
+ඉදිරි මහ මැතිවරණයට ශ්‍රී ලංකා පොදුජන පෙරමුණින් නාමයෝජනා ලබාදීම සඳහා වන සම්මුඛ පරීක්ෂණ අද (05) එම පක්ෂ කාර්යාලයේදී පැවැත් වුණි.
+
+මේ අතර එළැඹෙන මහමැතිවරණයේ දී පක්ෂයේ ප්‍රතිපත්ති ඉදිරියට ගෙනයාමට පමණක් නව සන්ධාන බිහිකරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණ පවසයි.
+
+පාර්ලිමේන්තුවට මන්ත්‍රීවරුන් වැඩිකර ගැනීමේ අරමුණින් නව සන්ධාන බිහිකිරීමේ අරමුණක් නොමැති බව ඔවුන් සඳහන් කළේය.
+
+එළැඹෙන මහමැතිවරණය වෙනුවෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ නාමයෝජනා සකස් කිරීමේ කටයුතු මේ දිනවල සිදුකරන අතර ඉදිරි දිනවලදී සියලු දිස්ත්‍රික්ක වෙනුවෙන් නාමයෝජනා භාරදීම් කටයුතු සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/b1fa45e3.json)
+
+---
+
+### காங்கேசந்துறை துறைமுகம் அபிவிருத்திக்கு இந்தியா உதவி
+
+*2024-10-05 21:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கேசந்துறை-துறைமுகம்-அபிவிருத்திக்கு-இந்தியா-உதவி/175-344948) · `ta`
+
+காங்கேசந்துறை துறைமுகத்தை 61.5 மில்லியன் அமெரிக்க டொலர்களில் நவீனமயமாக்குவதற்கு இந்தியா முன்வந்துள்ளதாக இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர் ஜனாதிபதி அநுர குமார திசாநாநாயக்கவிடம் தெரிவித்துள்ளார்.
+
+அத்துடன் இலங்கை ரயில்வே திணைக்களத்துக்கு 22 டீசல் இயந்திரங்களைப் பரிசாக வழங்குவதற்கும் இந்தியா தீர்மானித்துள்ளதாகவும் இந்திய வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+
+இலங்கையில் மேற்கொள்ளப்படவுள்ள முதலீடுகள் மற்றும் அபிவிருத்தி திட்டங்கள் தொடர்பிலும் ஜனாதிபதியிடம் இந்திய வெளிவிவகார அமைச்சர் இதன்போது கலந்துரையாடியுள்ளார். R
+
+◼️
+
+[Data](articles/eab5cc29.json)
+
+---
+
+### Police notice of the five scholarship question paper
+
+*2024-10-05 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201886) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Five Scholarship Exam: Police investigate leaked questions. Answer sheets halted. CID probes ongoing. HRC focuses on rights violations. Police inquiries continue regarding exam paper applications."
+
+🟩
+
+If there is evidence that other problems have been exited in addition to the three issues of the Five Scholarship Examination, the five scholarship examination has been exited to leave.
+
+It states that the information is handed over to the nearest police station before the next 7th.
+
+The Grade 05 Scholarship Examination Question Sheet has been temporarily stopped using its answer sheets in the face of the crisis.
+
+The Criminal Investigation Department has also commenced an inquiry into the matter and the investigation of the Human Rights Commission of Sri Lanka had been focused on investigations.
+
+Investigations have been made by the investigation by the police in connection with the application of the question papers of the Grade 05 Scholarship Examination.
+
+◼️
+
+[Data](articles/da248e00.json)
+
+[Extended Data](ext_articles/da248e00.ext.json)
+
+---
 
 ### India leaves 22 diesel station engines to Sri Lanka
 
@@ -1045,6 +1109,20 @@ The commemorative monuments were also made to mark the opportunities.
 [Data](articles/5032e196.json)
 
 [Extended Data](ext_articles/5032e196.ext.json)
+
+---
+
+### ஜனாதிபதிகள் வரலாம்  ஜனாதிபதிகள் போகலாம், ஆனால்  ஜே. ஆர்.ஜெயவர்தனவின் ஜனாதிபதி ஆட்சிமுறை தொடர்ந்து கொண்டேயிருக்கும்
+
+*2024-10-05 12:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84858) · `en`
+
+இலங்கையில் நிறைவேற்று அதிகார ஜனாதிபதி ஆட்சிமுறையை ஒழிக்கவேண்டும் என்ற கோரிக்கை ஒன்றும் புதியது அல்ல. அந்த ஆட்சிமுறை என்றைக்கு அறிமுகப்படுத்தப்பட்டதோ அன்றிலிருந்தே அதை ஒழிக்கவேண்டும் என்ற கோரிக்கையும் முன்வைக்கப்பட்டு வந்திருக்கிறது. ஜனாதிபதி ஆட்சிமுறையை ஒழிக்கப் போவதாக தேர்தல்களில் வாக்குறுதி  அளித்து மக்களின் ஆணையைப் பெற்று ஜனாதிபதியாக ஆட்சியதிகாரத்துக்கு வந்தவர்கள் எவருமே அதை ஒழிக்கவில்லை என்பது அண்மைக்கால வரலாறு.
+
+இறுதியாக நடைபெற்ற ஜனாதிபதி தேர்தலிலும் பிரதான வேட்பாளர்களில் அநுரா குமார திசாநாயக்கவும் ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாசவும் ஜனாதிபதி ஆட்சிமுறையை ஒழிக்கப்போவதாக மக்களுக்கு வாக்குறுதி வழங்கினார்கள். அவர்களது தேர்தல் விஞ்ஞாபனங்களிலும் அதைக் குறிப்பிட்டிருந்தார்கள்.
+
+...
+
+[Data](articles/3ebbab5e.json)
 
 ---
 
@@ -2235,91 +2313,5 @@ The Ministry of Defense has stated that the guns will be reviewed and then re -h
 [Data](articles/91f6efe7.json)
 
 [Extended Data](ext_articles/91f6efe7.ext.json)
-
----
-
-### Student who played cricket into the livestock
-
-*2024-10-04 20:48:28* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-සෙල්ලම්-කරමින්-සිටි-සිසුවෙක්-ඇද-වැටි-ජිවිතක්ෂයට/11-412313) · `si`
-
-A student died after hitting his head while playing cricket near a livestock area in Kotagala. He was rushed to Dikoya Hospital and later transferred to Kandy Teaching Hospital for further treatment. Police are investigating the incident.
-
-🟩
-
-Kotagala Cabbridge, who is being governed by the Nuwara Eliya Zonal Education Office, has been admitted to the Dikooya Basic Hospital while the student was admitted to the Damoon Basic Hospital while he was taken to the Kandy Teaching Hospital for further treatment.Dimbula Dimbula Dimbula Dimbula Dimbula Dimbulan Dimbula Patana Police said that the day was killed.
-
-The victims were killed in the school student, Sivuumar, Nadash, who was living in Talawakele Great Wester estate.
-
-The school student who had touched the ball to catch the ball from a wall of the Lissossu in a building while playing a ball with another group of children at school leisure.A doctor at the Dikoya Base Hospital said.
-
-The body of the deceased student was placed at the Dikoya Bundator Hospital for the post mortem.Dimbula down the Dimbula Patana Police are conducting further investigations.
-
-◼️
-
-[Data](articles/6014849c.json)
-
-[Extended Data](ext_articles/6014849c.ext.json)
-
----
-
-### Permission to resume projects suspended during the presidential election - Elections Commission
-
-*2024-10-04 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195513) · `ta`
-
-Elections Commission suspends projects during presidential election. Post-election, implementation resumes. Public urged to ignore misinformation. No commission approval needed for post-election initiatives like fertilizer subsidies, fisherman aid, pension payments. Approval required for pre-election projects from relevant corporations to avoid legal issues.
-
-🟩
-
-While the elections were suspended by the Elections Commission during the presidential election, the implementation of the election after the election was approved;It is observed that a few people are referring to the misunderstanding of the public. The Elections Commission has urged the public to act on the resolutions of the Elections Commission without paying attention to such baseless opinions.
-
-During the presidential election period, the Commission has taken steps to suspend some of the proposals, projects and relief to the public to promote political parties and candidates.
-
-With the presidential election, it is not necessary to obtain the permission of the Commission to implement the programs, projects and relief to the people.
-
-Particularly 2024 and 2025, fertilizer for the majority of agricultural activities, relief to fishermen, pay the pension arrears, the country's general administration and public service with the efficiency and beneficial manner of the Presidential Elections.
-
-...
-
-[Data](articles/d124aa32.json)
-
-[Extended Data](ext_articles/d124aa32.ext.json)
-
----
-
-### Ranasin Jayatilake joins GS sports
-
-*2024-10-04 20:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201853) · `si`
-
-Ranasta Jayatilleke, Sri Lanka Tariff Team Leader, becomes Brand Ambassador for GEORGE Steuart Health. GS Sports sponsors him. He attends GS Sports party in Kollupitiya.
-
-🟩
-
-Sri Lanka Tariff Team Leader Ranasta Jayatilleke participated as Brand Ambassador with GEORGE Steuart Health.
-
-GS Sports Spots joined the sponsor of Ranasta Jayatilleke.
-
-Rasta then returned to the GS Sports Party in Kollupitiya.
-
-◼️
-
-[Data](articles/761820f4.json)
-
-[Extended Data](ext_articles/761820f4.ext.json)
-
----
-
-### DMT deputy commissioner, clerk and broker arrested over bribe
-
-*2024-10-04 20:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102455/dmt-deputy-commissioner-clerk-and-broker-arrested-over-bribe) · `en`
-
-A Deputy Commissioner, and a clerk from the Department of Motor Traffic (DMT), as well as a broker have been arrested by the Bribery Commission officers while accepting a bribe.
-
-They have been arrested for soliciting a bribe of Rs. 300,000 to facilitate the transfer of ownership of three buses, according to the Bribery Commission.
-
-◼️
-
-[Data](articles/4e251ad2.json)
-
-[Extended Data](ext_articles/4e251ad2.ext.json)
 
 ---

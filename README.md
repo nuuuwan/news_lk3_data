@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 18:41:50**
+As of **2024-10-05 18:57:56**
 
 ## Newspaper Stats
 
-*Scraped **47,922** Articles*
+*Scraped **47,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
-adaderanalk | 5,644
-tamilmirrorlk | 6,460
+adaderanalk | 5,645
+tamilmirrorlk | 6,461
 virakesarilk | 7,663
-adaderanasinhalalk | 8,299
+adaderanasinhalalk | 8,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,922 (100.0%) of 47,922 articles have been extended.
+47,922 (100.0%) of 47,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### දෙවෙනි තරගයේ ජයත් ශ්‍රී ලංකාවට අහිමි වෙයි
+
+*2024-10-05 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201882) · `si`
+
+2024 කාන්තා 20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අද (05) සහභාගී වූ දෙවෙනි තරගයේ ජයත් ශ්‍රී ලංකාවට අහිමිවී ගියාය.
+
+ඒ, ඔස්ට්‍රේලියාව සමග පැවති තරගයෙන් කඩුලු 6ක පරාජයක් හිමිවීමත් සමගය.
+
+සාජා පැවැති තීරණාත්මක තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා නායිකා චමරි අතපත්තු පළමුව පන්දුවට පහර දීමට තීරණය කළාය.
+
+ශ්‍රී ලංකා කණ්ඩායම අද එක් වෙනස්කමක් සිදුකරමින් සචිනි නිසංසලා වෙනුවට ඉනෝකා රණවීර තරගයට කැඳවා තිබුණි.
+
+ඒ අනුව ශ්‍රී ලංකා ඉනිම ආරම්භ කළේ විශ්මි ගුණරත්න සමඟින් චමරි අතපත්තුය.
+
+කෙසේ වෙතත් ශ්‍රී ලංකා ලකුණු පුවරුව ලකුණු 6ක් ලෙස සටහන් වෙද්දී විශ්මි ගුණරත්න ලකුණු ලබා ගැනීමට පෙර දවාගැනීමට ඔස්ට්‍රේලියා පන්දු යවන්නන් සමත් විය.
+
+කඩා වැටුණු ශ්‍රී ලංකා ඉනිමට යම් ජීවයක් එක් කරන්නට හර්ෂිතා සමරවික්‍රම සහ නිලක්ෂිකා සිල්වා උත්සාහ දැරුවේ සිව්වැනි කඩුල්ලට ලකුණු 31ක සබඳතාවක් එක්කරමිනි.
+
+ඉවසිලිවන්ත ඉනිමක් ක්‍රීඩාකළ නිලක්ෂිකා සිල්වා නොදැවී ලකුණු 29ක් ලබා ගත්තාය.
+
+ඒ අනුව ශ්‍රී ලංකා කාන්තා කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී ලබා ගැනීමට හැකිවුණේ ලකුණු 93ක් පමණි.
+
+...
+
+[Data](articles/c9d08590.json)
+
+---
+
+### பியூமி ஹன்சமாலியிடம் 9 மணி நேரம் விசாரணை
+
+*2024-10-05 18:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமி-ஹன்சமாலியிடம்-9-மணி-நேரம்-விசாரணை/175-344947) · `ta`
+
+பிரபல நடிகையும் மாடலுமான பியூமி ஹன்சமாலியிடம் சட்டவிரோத சொத்துக்கள் விசாரணை பிரிவு மீண்டும் விசாரணை நடத்தியுள்ளது.
+
+அவருக்கு சொந்தமான சொகுசு கார் மற்றும் அவரது சொத்துக்கள் தொடர்பாக நேற்று (04) சுமார் 9 மணி நேரம் அவரிடம் விசாரணை மேற்கொள்ளப்பட்டுள்ளது.
+
+சொகுசு கார் வாங்குவதற்கு பியூமி ஹன்சமாலி எப்படி பணம் சம்பாதித்தார் என்பது குறித்தும், அவர் விற்பனை செய்யும் அழகுசாதன பொருட்கள் ஊடாக அதிக அளவு பணம் பெற்றது எப்படி என்பது குறித்தும் விசாரணை ஆரம்பிக்கப்பட்டது.
+
+அந்த விசாரணை தொடர்பான வாக்குமூலங்களை வழங்குவதற்காக பியூமி ஹன்சமாலி நேற்று காலை 9 மணியளவில் சட்டவிரோத சொத்துக்கள் புலனாய்வு பிரிவில் முன்னிலையானார். R
+
+◼️
+
+[Data](articles/6ee5c4e9.json)
+
+---
+
+### PHIs issue notice over imported coconut oil
+
+*2024-10-05 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102471/phis-issue-notice-over-imported-coconut-oil-) · `en`
+
+The Public Health Inspectors’ Union has reassured the public that there is no need for undue concern regarding imported coconut oil.
+
+Commenting regarding the rising suspicions surrounding the safety and quality of coconut oil entering Sri Lanka, the Chairman of the Public Health Inspectors’ Union Upul Rohana said: “When coconut oil is imported to Sri Lanka, a special inspection is conducted by food inspectors from the Food Control Unit at Sri Lanka Customs. Imported RBD (Refined, Bleached, and Deodorized) oil can be sold as regular coconut oil, provided it adheres to the standards set by the 1987 directives under the Food Act No. 26 of 1980. There is no legal obstacle to its sale.”
+
+Mr Rohana emphasized that, in addition to customs inspections, the Public Health Inspectors conduct regular checks on coconut oil available in stores, both locally produced and imported.
+
+...
+
+[Data](articles/11e7442f.json)
+
+---
 
 ### Explanation of the coconut oil in the market
 
@@ -2199,83 +2261,5 @@ Citigroup Global Markets has been appointed to manage the bond exchange which is
 [Data](articles/a307d393.json)
 
 [Extended Data](ext_articles/a307d393.ext.json)
-
----
-
-### The audience answers Lal Kantha's statement
-
-*2024-10-04 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201848) · `si`
-
-Here's a 200-character summary:
-
-
-
-Opposition Leader Sajith Premadasa denies being a nominal leader. He claims his election was based on public support, not just votes. This response comes after Lal Kantha criticized him as ineffective. The statement emphasizes Premadasa's connection to the people and his rejection of Kantha's criticism.
-
-🟩
-
-Sajith Premadasa says that the people of the Opposition is suffering from the present people, even today's people are suffering.
-
-The party made this statement this party, the National Executive Committee of the National Institute of Power. At response to a statement made by Lal Kanthe.
-
-KD. Mr. Lal Kanthe has made a statement yesterday (03), "Sajith Premadasa was not a nominal leader," but the Leader of the Opposition did not later.
-
-Leader of the Samagivers Department Sajith Wijesundara today issued a statement today (04).
-
-The announcement states that the service of Mr. Lal Kantha was rejected by the Opposition Leader and Sajith Premadasa was the people who were elected, not the people who voted, but every citizen of the unborn child.
-
-◼️
-
-[Data](articles/ebe81dec.json)
-
-[Extended Data](ext_articles/ebe81dec.ext.json)
-
----
-
-### The discovery of weapons from the house of the suspect arrested with the drug
-
-*2024-10-04 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195476) · `ta`
-
-Police seize weapons during drug raid, arrest suspects in Tehiyovita
-
-🟩
-
-Tehiowita police said that the weapons of the suspect have been seized by the suspect in a raid carried out at the house of the suspect arrested in the Tehbigama area in Tehiyovita.
-
-Some police officers in the Tehbhegama area, Tehiyovita, have been arrested by an ice drug while engaging in surrounding activities.
-
-Subsequently, a raid carried out at the arrested suspect had seized swords, two knives, white iron plates that made the sword and the manufacture of swords.
-
-Subsequently, two youths allegedly smuggling heroin drugs to the suspect's house have been arrested by the police.
-
-The two youths who were arrested were 21 -year -old from Alkoda and Muruttuwa area, police said.
-
-◼️
-
-[Data](articles/65824d24.json)
-
-[Extended Data](ext_articles/65824d24.ext.json)
-
----
-
-### IMF encouraged by new SL govt’s commitment to continue reform efforts
-
-*2024-10-04 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102453/imf-encouraged-by-new-sl-govts-commitment-to-continue-reform-efforts) · `en`
-
-The International Monetary Fund (IMF) team visiting the island says it will continue its close engagement with Sri Lanka’s economic team to set a date for the third review of the IMF-supported program.
-
-“We are encouraged by the authorities’ commitment to continue the reform efforts,” the global lender’s Director for the Asia Pacific Department, said in a statement at the end of the visit to Sri Lanka.
-
-He further stated that the IMF remains a steadfast partner in supporting Sri Lanka and its people and stands ready to assist the country achieve its economic reform goals.
-
-An International Monetary Fund (IMF) team led by Mr. Krishna Srinivasan, Director for the Asia Pacific Department, visited Colombo October 2-4, 2024.
-
-During the visit, Mr. Srinivasan met with President Dissanayake, Prime Minister Amarasuriya, Minister Herath, Governor Weerasinghe, Secretary to the Treasury Siriwardena, and other stakeholders.
-
-...
-
-[Data](articles/96ceda64.json)
-
-[Extended Data](ext_articles/96ceda64.ext.json)
 
 ---

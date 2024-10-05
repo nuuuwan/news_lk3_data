@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 09:39:15**
+As of **2024-10-05 09:58:07**
 
 ## Newspaper Stats
 
-*Scraped **47,886** Articles*
+*Scraped **47,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
 adaderanalk | 5,635
-tamilmirrorlk | 6,452
+tamilmirrorlk | 6,454
 virakesarilk | 7,663
 adaderanasinhalalk | 8,284
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 8,284
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,886 (100.0%) of 47,886 articles have been extended.
+47,888 (100.0%) of 47,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Student death
+
+*2024-10-05 09:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலையில்-வழுக்கி-விழுந்து-மாணவன்-மரணம்/76-344941) · `ta`
+
+Student dies from head injury while playing cricket at school. He crashed into a building while trying to catch a ball. The 18-year-old was rushed to hospital but passed away en route. Police are investigating the incident.
+
+🟩
+
+A student who was playing cricket at the Kotagala - Cambridge School died in a head injury when he crashed into a school building when he tried to hold it.
+
+Sivakumar Nadees (age 18), a student of the Greedweston Estate, Thalawakelle, who is studying at the college, has died.
+
+While playing cricket with fellow students at the school break yesterday, a student who ran to hold the ball fell off his head and hit his head on the wall of a school building.. This caused a severe injury to his head.
+
+Subsequently, the student has been admitted to the Dikoya Primary Hospital. From there, he died on the way to the Kandy Hospital.
+
+Dimbulla - Pathana police are investigating the incident. Remble
+
+◼️
+
+[Data](articles/38155f4b.json)
+
+[Extended Data](ext_articles/38155f4b.ext.json)
+
+---
+
+### Sudden twist in the Mannar electorate
+
+*2024-10-05 09:24:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-தேர்தல்-தொகுதியில்-திடீர்-திருப்பம்/72-344940) · `ta`
+
+Here's a 200-character summary:
+
+
+
+TNA candidates reshuffled in Mannar electorate due to internal conflicts. Charles Nirmalanathan, Anthony Pathinathan, and Selvarajah Dinesan chosen to contest parliamentary election. MA Sumanthiran finalizes selections after party meeting.
+
+🟩
+
+The Mannar electoral constituency has a sudden twist on the Sri Lanka Tamil National Alliance (TNA) candidates contesting the parliamentary general election.
+
+Due to the confusion within the Tamil parties, the main Tamil parties are selected in the parliamentary general election.
+
+On the basis of this, the Vanni district's candidates have been delayed on behalf of the Sri Lanka Tamil National Alliance (TNA), former MP Charles Nirmalanathan and former Northern Provincial Chief Secretary Mr. A.. It is reported that Pathinathan and the young lawyer Selvarajah Dinesan from Mannar district have been elected from the Mannar district to contest the Vanni electoral constituency.
+
+All these choices are reported to have been finalized by former Member of Parliament MA Sumanthiran today (4).
+
+MA Sumanthiran's visit to the Mannar party office with key members of the party held a two -hour discussion and talked about the expenses for the election.
+
+...
+
+[Data](articles/a053b5a0.json)
+
+[Extended Data](ext_articles/a053b5a0.ext.json)
+
+---
 
 ### Street opening near the Alari House several years later!
 
@@ -2249,51 +2305,5 @@ Accordingly, Israeli-Hamas began in October 7, 2023, aimed at the attacks on Sab
 [Data](articles/4fe83534.json)
 
 [Extended Data](ext_articles/4fe83534.ext.json)
-
----
-
-### Sri Lanka President meets IMF for second day
-
-*2024-10-04 15:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-for-second-day-182313/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has met a visiting International Monetary Fund delegation for the second day.
-
-“President Dissanayake aims to achieve the objectives of the program in partnership with the IMF, seeking alternative approaches that will alleviate the burden on the citizens,” a statement issued after the second meeting said.
-
-“The required cordial and good environment was built between the two sides and the three days of talks concluded successfully.
-
-Sri Lanka’s citizens were hit with the worst currency collapse in the history of the central bank after extreme macro-economic policy involving both rate cuts (money printing) and tax cuts to boost potential output, which ended in sovereign default.
-
-The IMF itself gave technical assistance to calculate potential output.
-
-...
-
-[Data](articles/a0ff3eb4.json)
-
-[Extended Data](ext_articles/a0ff3eb4.ext.json)
-
----
-
-### The Keheliya and his family imposed refuge
-
-*2024-10-04 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201836) · `si`
-
-Colombo High Court extends order against Keheliya Rambukwella's family bank accounts and assets due to Bribery Commission investigation. Suspension continues until January 4th.
-
-🟩
-
-The Colombo High Court today (04) has been prolonged to extend the order issued by former Minister Keheliya Rambukwella and his family with bank accounts and lives belonging to a investigation made by the Bribery Commission.
-
-The Colombo High Court issued the order considered a request made by the Bribery Commission.
-
-Considering a request made by the Bribery Commission, the Colombo High Court had issued 16 bank accounts of his family and five lives were suspended.
-
-Accordingly, the High Court of Bribery Commission today (was) further conditioned the suspension order until January 04.
-
-◼️
-
-[Data](articles/f3d4c3c4.json)
-
-[Extended Data](ext_articles/f3d4c3c4.ext.json)
 
 ---

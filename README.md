@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 05:23:00**
+As of **2024-10-05 05:44:23**
 
 ## Newspaper Stats
 
-*Scraped **47,863** Articles*
+*Scraped **47,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,121 @@ newsfirstlk | 363
 dbsjeyarajcom | 394
 bbccomsinhala | 473
 colombotelegraphcom | 474
-islandlk | 2,813
+islandlk | 2,820
 economynextcom | 2,935
 dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
 adaderanalk | 5,631
 tamilmirrorlk | 6,449
-virakesarilk | 7,660
+virakesarilk | 7,661
 adaderanasinhalalk | 8,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,863 (100.0%) of 47,863 articles have been extended.
+47,870 (100.0%) of 47,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### NDB Bank brings joy and learning to Royal College on World Children’s Day
+
+*2024-10-05 02:54:00* · [`islandlk`](http://island.lk/ndb-bank-brings-joy-and-learning-to-royal-college-on-world-childrens-day/) · `en`
+
+In celebration of World Children’s Day 2024, NDB Bank hosted a special event at Royal College, Colombo, offering a series of fun and educational activities for students. The day was filled with excitement, creativity, and learning, designed to engage children in meaningful experiences that inspire good habits, financial literacy, and creativity.
+
+The day’s festivities catered to two age groups. For students in grades 1-3, the event featured an interactive magic show that captivated the young audience and a session by NDB Bank on cultivating good habits. For grades 4 and 5, the magic show continued to entertain, followed by a lively Q&A session that engaged students on essential life skills and habits.
+
+...
+
+[Data](articles/da81590a.json)
+
+[Extended Data](ext_articles/da81590a.ext.json)
+
+---
+
+### Chairman, Sri Lanka Ports Authority
+
+*2024-10-05 02:53:00* · [`islandlk`](http://island.lk/chairman-sri-lanka-ports-authority/) · `en`
+
+Admiral Sirimevan Sarathchandra Ranasinghe (Rtd) aasumed duties today (10/03/2024) as the Chairman of Sri Lanka Ports Authority (SLPA). He was the Commander of the Navy from October 2017 to December 2018. Admiral Ranasinghe also served as the Secretary to Ministry of Ports and Shipping & Southern Development in 2019.
+
+He is an Anti-Submarine Warfare Specialist trained at INS Vendurutthy, Kochi. He followed his Defence Services Staff Course at Wellington, India, War Course in NDU, Islamabad, Pakistan and National Defence Course at National Defence College in New Delhi, India.
+
+Admiral Sirimevan Ranasinghe was born in Anuradhapura, and first joined Sri Lanka Navy in 1982. He had his basic training at Naval and Maritime Academy, Trincomalee and at Britannia Royal Naval College, Dartmouth, England (1984-1985).
+
+NDB Bank brings joy and learning to Royal College on World Children’s Day
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/ecf58013.json)
+
+[Extended Data](ext_articles/ecf58013.ext.json)
+
+---
+
+### Burlington English making positive impact on Sri Lanka
+
+*2024-10-05 02:52:00* · [`islandlk`](http://island.lk/burlington-english-making-positive-impact-on-sri-lanka/) · `en`
+
+Burlington English, a global leader in English language learning and teaching, is making waves in Sri Lanka, following a successful expansion across India.With a mission to enhance the classroom environment and improve educational outcomes, the group’s Managing Director, Amit Baveja, is spearheading efforts to engage Sri Lankan educators with cutting-edge teaching practices and AI-integrated learning resources.
+
+Baveja, who oversees the South Asia and Southeast Asia markets, expressed excitement about the company’s foray into Sri Lanka.
+
+Speaking to The Island Financial Review he said: ‘After a remarkable journey in India, Sri Lanka is our natural next step. We are here to support educators and the education system by providing state-of-the-art English language learning resources.’ He highlighting the importance of quality education in a country where English proficiency is critical for economic and career growth.
+
+...
+
+[Data](articles/5ea23ad1.json)
+
+[Extended Data](ext_articles/5ea23ad1.ext.json)
+
+---
+
+### SLT-MOBITEL offers unparalleled benefits with eSim services
+
+*2024-10-05 02:36:00* · [`islandlk`](http://island.lk/slt-mobitel-offers-unparalleled-benefits-with-esim-services/) · `en`
+
+SLT-MOBITEL is offering an easy and seamless way to join the network with its cutting-edge eSIM service. Powered by SLT-MOBITEL’s unparalleled 4G connectivity and extensive island-wide coverage, this proposition empowers customers to get connected within minutes—wherever you are.
+
+SLT-MOBITEL eSIM eliminates the need for a physical SIM card, enabling new customers to activate their preferred mobile connections digitally. This hassle-free solution not only offers convenience but also supports global digitalization and sustainability efforts. Whether at home or on the go, customers can enjoy unmatched data speeds backed by SLT-MOBITEL’s superior network coverage.
+
+...
+
+[Data](articles/9dbb258f.json)
+
+[Extended Data](ext_articles/9dbb258f.ext.json)
+
+---
+
+### The tragedy of a student who played cricket
+
+*2024-10-05 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195518) · `ta`
+
+Student dies from head injury while playing cricket at school. He collided with a building while trying to catch a ball. The 18-year-old was rushed to hospital but passed away en route. Police investigating the incident.
+
+🟩
+
+A student who was playing cricket at Cambridge School, Kottagala, was killed and died in a head injury when he tried to get caught and crashed into a school building.
+
+He was playing cricket with fellow students during school break on Friday (04). The student who ran for the holding. Her head was severely injured in the head of a school building.
+
+Subsequently, the student has been admitted to the Dikoya Primary Hospital. From there, he died on the way to the Kandy Hospital.
+
+Sivakumar Nadhees (age 18), a student of Greedweston Estate, Thalawakelle, who is studying in grade 13 in the college, died.. It is noteworthy that the Dimbulla -Pathanam police are conducting investigations into the incident.
+
+◼️
+
+[Data](articles/131911df.json)
+
+[Extended Data](ext_articles/131911df.ext.json)
+
+---
 
 ### Yall. Public demonstration
 
@@ -2203,121 +2299,5 @@ The President had also met with the visiting high-level IMF delegation yesterday
 [Data](articles/d7e268fc.json)
 
 [Extended Data](ext_articles/d7e268fc.ext.json)
-
----
-
-### Special Discussion on Dengue Control Control in Jaffna District
-
-*2024-10-04 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195463) · `ta`
-
-Dengue control meeting in Jaffna: District officials discuss prevention strategies as rainy season approaches.
-
-🟩
-
-A discussion on the control of dengue in the Jaffna district was held yesterday (03) at the District Secretariat Auditorium under the patronage of Marudalingam Pradeepan, District Secretary and District Secretary.
-
-Due to the coming of the rainy season, the decisions were taken to investigate the way to prevent dengue.
-
-Provincial Health Services Director Dr. Dr. Saman Pathirana, Regional Health Services Director, Dr. A. Ketheeswaran, Additional Government Agent (Land) K. SrimohananRepresentatives of the level organizations, District Secretariat Officers and many others participated.
-
-◼️
-
-[Data](articles/d49bdc50.json)
-
-[Extended Data](ext_articles/d49bdc50.ext.json)
-
----
-
-### Bandula decides not to contest 2024 General Election
-
-*2024-10-04 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/102440/bandula-decides-not-to-contest-2024-general-election) · `en`
-
-The former Cabinet Spokesman and former Minister of Transport and Mass Media, Bandula Gunawardena says that he will not contest the upcoming parliamentary election.
-
-Speaking to the media in this regard today (04), the former MP expressed that he served the people to the best of his ability by holding a number of positions as a Member of Parliament, a Deputy Minister and a Cabinet Minister while representing the Homagama constituency in the Parliament for more than twenty years.
-
-Furthermore, Gunawardena stated that he has done everything possible to turn the Homagama city into a center of knowledge for the people of the Homagama constituency who have been helpless for many years without a proper public representative to represent them in the Parliament.
-
-Meanwhile, he also revealed plans of producing another movie while continuing his further education for another doctorate in the upcoming years.
-
-◼️
-
-[Data](articles/f61a1a29.json)
-
-[Extended Data](ext_articles/f61a1a29.ext.json)
-
----
-
-### President and IMF discusses
-
-*2024-10-04 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201833) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake met with IMF officials. The meeting focused on achieving program goals set by the International Monetary Fund. A Sri Lankan delegation participated in discussions led by the IMF's Asia Pacific Director.
-
-🟩
-
-President Anura Kumara Dissanayake and the International Monetary Fund (IMF) has held a special discussion between the International Monetary Fund.
-
-The Director of the International Monetary Fund Asia Pacific, Senior Mission Head Branch, appointed to senior international Monetary Fund, was attended by the Sri Lankan delegation and IMF talks.
-
-President Anura Kumara Dissanayake is announced that President Anura Kumara Dissanayake is the objective of reaching the objective of the program targets with the International Monetary Fund.
-
-◼️
-
-[Data](articles/1adb87c4.json)
-
-[Extended Data](ext_articles/1adb87c4.ext.json)
-
----
-
-### Bandula is a decision
-
-*2024-10-04 13:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201832) · `si`
-
-Dr. Bandula Gunawardena announces retirement from politics after decades of service. He plans to pursue further studies and filmmaking.
-
-🟩
-
-Former Graduates and Mass Media Cabinet Minister Dr. Bandula Gunawardena today stated that he was not contesting for the upcoming parliamentary election.
-
-He said that he had served on behalf of the public to represent the Electorate in Homagama, representing a number of positions as a Minister of Parliament for more than twenty years.
-
-Bandula Gunawardena said that he had done everything he could to make a knowledge hub for the people of the Homagama electorate for many years without a public representative of Parliament.
-
-In the next few years, learning work for another doctorate, he added and is intending to create a film.
-
-◼️
-
-[Data](articles/df591f77.json)
-
-[Extended Data](ext_articles/df591f77.ext.json)
-
----
-
-### I will compete anymore: Bandula
-
-*2024-10-04 13:02:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-போட்டியிடேன்-பந்துல/175-344916) · `ta`
-
-Dr. Bandula Gunawardena announces retirement from politics after 20+ years serving Homagama constituency. He cites his efforts to develop the area and plans to pursue further studies soon.
-
-🟩
-
-Former Transport Highways and Media Minister Dr. Bandula Gunawardena said on Wednesday (04) that he would not contest the upcoming parliamentary general election.
-
-He said that he had worked for the people as much as he could, as a Member of Parliament, Deputy Minister and Cabinet Minister, representing the Homagama constituency for more than twenty years.
-
-He said that the Homagama area, which had been an orphaned without representatives of the people for many years, has done everything possible to convert the people's knowledge center or the city of Pandu.
-
-He added that in a few more years, he will be re -reading a doctorate.
-
-◼️
-
-[Data](articles/66dbc20a.json)
-
-[Extended Data](ext_articles/66dbc20a.ext.json)
 
 ---

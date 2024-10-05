@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 13:08:24**
+As of **2024-10-05 13:22:58**
 
 ## Newspaper Stats
 
-*Scraped **47,899** Articles*
+*Scraped **47,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
-adaderanalk | 5,638
+adaderanalk | 5,639
 tamilmirrorlk | 6,455
 virakesarilk | 7,663
-adaderanasinhalalk | 8,287
+adaderanasinhalalk | 8,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,899 (100.0%) of 47,899 articles have been extended.
+47,901 (100.0%) of 47,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Fire at the Mihindu Mawatha in Pettah
+
+*2024-10-05 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201867) · `si`
+
+Fire breaks out on Mihindu Mawatha in Pettah, spreading to two nearby homes. Firefighters and ambulances respond quickly, successfully controlling the blaze within minutes. No casualties reported.
+
+🟩
+
+Further, there are two nearby houses and the fire had spread.
+
+Two fire extinguisher and ambulance have been directed to the location and the fire was completely controlled and the fire was completely controlled.
+
+◼️
+
+[Data](articles/4bab52c4.json)
+
+[Extended Data](ext_articles/4bab52c4.ext.json)
+
+---
+
+### Piriven O/L results released
+
+*2024-10-05 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102465/piriven-ol-results-released) · `en`
+
+The results of the 2023 (2024) Piriven Ordinary Level examination has been released online today (Oct. 05).
+
+The Department of Examination announced that the relevant examination results can be accessed from the official website of the department via www.doenets.lk and www.results.exams.gov.lk.
+
+Meanwhile, the exams department also mentioned that the exam applicants will be informed regarding the re-scrutiny of the exam results and the issuance of results sheets in the future.
+
+◼️
+
+[Data](articles/455403f4.json)
+
+[Extended Data](ext_articles/455403f4.ext.json)
+
+---
 
 ### Security heads meet President
 
@@ -2249,51 +2287,5 @@ Jeff Basos, who is the third place between the world's rich people, indicates US
 [Data](articles/3913055e.json)
 
 [Extended Data](ext_articles/3913055e.ext.json)
-
----
-
-### <br> <br> <br> <br> <br> <br> <br> <br> <br> Indian Foreign Minister found
-
-*2024-10-04 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201842) · `si`
-
-Indian Foreign Minister Dr. S. Sahana Jayasankar met Sri Lankan President Anura Kumara Dissanayake. Discussed tourism, energy, investments, and India's support for Sri Lanka's economy restoration.
-
-🟩
-
-Indian Foreign Minister Dr. S. Sahana. Jayasankur met with Sri Lankan President Anura Kumara Dissanayake today (04).
-
-The President says about the discussion on the discussion, the President said that the Indian Foreign Minister had communicated with the development of the tourism, energy sector and investment.
-
-The Indian Foreign Minister has also informed India support to restore Sri Lanka's economy.
-
-They have also communicated to fishing, economic and national unity.
-
-◼️
-
-[Data](articles/ec1ec2e6.json)
-
-[Extended Data](ext_articles/ec1ec2e6.ext.json)
-
----
-
-### Jaishankar met the president
-
-*2024-10-04 16:32:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-சந்தித்தார்-ஜெய்சங்கர்/175-344920) · `ta`
-
-Indian Foreign Minister Jaishankar met Sri Lankan President Dissanayake to strengthen ties and improve cooperation between India and Sri Lanka. They discussed deepening bilateral relations during the visit.
-
-🟩
-
-Indian Foreign Minister. Jaishankar met President Anura Kumara Dissanayake on Wednesday (04) and focused on improving cooperation between India and Sri Lanka and strengthening relations.
-
-During the meeting, the two leaders negotiated with the aim of deepening the coalition between the neighbors.
-
-Following the meeting, Dr. Jaishankar expressed his sentiments on social media site X -telephone, saying that meeting him during his visit to President Dissanayake during his visit to Colombo.
-
-◼️
-
-[Data](articles/d5970984.json)
-
-[Extended Data](ext_articles/d5970984.ext.json)
 
 ---

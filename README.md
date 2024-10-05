@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 18:18:59**
+As of **2024-10-05 18:31:55**
 
 ## Newspaper Stats
 
-*Scraped **47,921** Articles*
+*Scraped **47,922** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,644
 tamilmirrorlk | 6,460
 virakesarilk | 7,663
-adaderanasinhalalk | 8,298
+adaderanasinhalalk | 8,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,921 (100.0%) of 47,921 articles have been extended.
+47,922 (100.0%) of 47,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Explanation of the coconut oil in the market
+
+*2024-10-05 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201881) · `si`
+
+Here's a 200-character summary:
+
+
+
+Colleges Association claims no need for passion regarding imported coconut oil. Public Health Inspectors Association president expresses concern about imported coconut oil quality. Imported coconut oil must meet Sri Lanka Standards. Local manufacturers accuse imported coconut oil marketing racket.
+
+🟩
+
+The Colleges Association (CHOGM) says that there is no need for passion to the imported coconut oil.
+
+Commenting on the suspicion of the imported coconut oil, President of the Public Health Inspectors' Association Mr. Upul Rohana said this.
+
+"In the Customs, the Food Control Checks conducted by the Food Control Unit at Customs to import coconut oil to Sri Lanka.  රට තුළට ආනයන කරන RBD ඔයිල් සාමන්‍ය පොල්තෙල් විදිහට අලෙවි කිරීමේ හැකියාව තියෙනවා. No legal disturbance for the Food Act No. 26 of 1980, in relation to the Coconut oil. Also, the coconut oil to bring the coconut oil in Sri Lanka as well as the Sri Lanka Standards Bureau officials are conducted by the officers of this coconut oil. "
+
+...
+
+[Data](articles/a2c8636f.json)
+
+[Extended Data](ext_articles/a2c8636f.ext.json)
+
+---
 
 ### Lebanon hospitals close as Israeli strikes hit health facilities
 
@@ -2251,27 +2277,5 @@ During the visit, Mr. Srinivasan met with President Dissanayake, Prime Minister 
 [Data](articles/96ceda64.json)
 
 [Extended Data](ext_articles/96ceda64.ext.json)
-
----
-
-### Meeting between IMF representatives and Prime Minister
-
-*2024-10-04 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201847) · `si`
-
-IMF reps meet PM Harini Amarasuriya at office. Discussion on cooperation between Sri Lanka and IMF. Pradeep Comrade Dr. Krishna Sriney from Central Bank participates.
-
-🟩
-
-A discussion between Prime Minister Dr. Harini Amarasuriya and the International Monetary Fund representatives were held at the Prime Minister's Office this afternoon.
-
-The meeting also focuses on maintaining cooperation between Sri Lanka and the International Monetary Fund.
-
-Pradeep Comrade Dr. Krishna Sriney, Director General of the Department of Economic Research and Central Bank of Sri Lanka (Bilateral)The gentlemen have participated in the discussion.
-
-◼️
-
-[Data](articles/dd3c410d.json)
-
-[Extended Data](ext_articles/dd3c410d.ext.json)
 
 ---

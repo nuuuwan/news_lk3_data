@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 10:23:13**
+As of **2024-10-05 10:38:51**
 
 ## Newspaper Stats
 
-*Scraped **47,890** Articles*
+*Scraped **47,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,935
 dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
-adaderanalk | 5,636
+adaderanalk | 5,637
 tamilmirrorlk | 6,454
 virakesarilk | 7,663
 adaderanasinhalalk | 8,285
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,890 (100.0%) of 47,890 articles have been extended.
+47,891 (100.0%) of 47,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### 33-year-old man stabbed to death in Colombo
+
+*2024-10-05 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102463/33-year-old-man-stabbed-to-death-in-colombo) · `en`
+
+A 33-year-old resident of Mahiyanganaya was reportedly stabbed to death with a sharp weapon on Reclamation Road, Second Cross Street in Colombo.
+
+The incident took place today (05) around 1:30 a.m., according to police reports.
+
+◼️
+
+[Data](articles/3759d209.json)
+
+[Extended Data](ext_articles/3759d209.ext.json)
+
+---
 
 ### Israel targets Hezbollah intel HQ in Lebanon, Iran says it will not back down
 
@@ -2263,31 +2279,5 @@ Meanwhile, the market turnover was recorded at Rs. 2.8 billion today.
 [Data](articles/0265e158.json)
 
 [Extended Data](ext_articles/0265e158.ext.json)
-
----
-
-### Indian Foreign Minister's book is issued in Sinhala
-
-*2024-10-04 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201838) · `si`
-
-Dr. S. Jayasankara's "India Way" book translated into Sinhala. Presented by Indian Mawatha. Discusses global economic crisis and India's policy responses. Attended by Bernard Gunatilleke and Indian High Commissioner.
-
-🟩
-
-Indian Foreign Minister Dr. S. Jayasankara's 'India Way: Stratetain World' work has been translated into Sinhala by Indian Mawatha.
-
-Indian Foreign Minister Dr. S. Story Indian Foreign Minister Milinda Moragoda. Mr. Jayasankara was presented today (04).
-
-Bernard Gunatilleke, Chairman of PathFinder Foundation, and the High Commissioner of India joined the occasion.
-
-This book reveals that the context of the world's world economic crisis, the 2020 world economic crisis, and its challenges, as well as the policy responses to India proposed.
-
-Ajith Parakum Jayasinghe was translated into Sinhala.
-
-◼️
-
-[Data](articles/b2abcb63.json)
-
-[Extended Data](ext_articles/b2abcb63.ext.json)
 
 ---

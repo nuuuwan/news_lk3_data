@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 10:38:51**
+As of **2024-10-05 10:57:10**
 
 ## Newspaper Stats
 
-*Scraped **47,891** Articles*
+*Scraped **47,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
 adaderanalk | 5,637
-tamilmirrorlk | 6,454
+tamilmirrorlk | 6,455
 virakesarilk | 7,663
 adaderanasinhalalk | 8,285
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,285
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,891 (100.0%) of 47,891 articles have been extended.
+47,892 (100.0%) of 47,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Success in negotiations - Finance Ministry Notification
+
+*2024-10-05 10:33:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேச்சுவார்த்தைகள்-வெற்றி-நிதியமைச்சு-அறிவிப்பு/175-344942) · `ta`
+
+Sri Lanka's Finance Ministry announced successful negotiations between its official lending committee and the IMF. The two parties confirmed compatibility with China's Export Import Bank regarding debt restructuring agreements. The new government has adopted debt goals, compliance conditions, and international sovereignty system reforms.
+
+🟩
+
+In a statement issued yesterday, the Finance Ministry said that the officials of Sri Lanka's official lending committee and the International Monetary Fund have successfully concluded.
+
+According to the report, they have confirmed that the issues were compatible with the official credit issuer committee and the China's Export Import Bank last June and the issues involved in the official debt renovation agreement are based on the IMF conditions.
+
+The Finance Ministry said that the debt goals, compliance and conditions associated with the new president -led government have been adopted and the reorganization of international sovereignty systems has been approved in accordance with them.. Remble
+
+◼️
+
+[Data](articles/01f072af.json)
+
+[Extended Data](ext_articles/01f072af.ext.json)
+
+---
 
 ### 33-year-old man stabbed to death in Colombo
 
@@ -2261,23 +2283,5 @@ Today, all stock price index increased by 123.50 units, and the total value was 
 [Data](articles/1309e74d.json)
 
 [Extended Data](ext_articles/1309e74d.ext.json)
-
----
-
-### CSE’s ASPI crosses 12,000 mark
-
-*2024-10-04 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/102445/cses-aspi-crosses-12000-mark) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange (CSE) has crossed the 12,000 mark today (04).
-
-The CSE’s ASPI crossed this milestone for the first time since 03 July 2024 increasing by 123.50 points to close at 12,053.49.
-
-Meanwhile, the market turnover was recorded at Rs. 2.8 billion today.
-
-◼️
-
-[Data](articles/0265e158.json)
-
-[Extended Data](ext_articles/0265e158.ext.json)
 
 ---

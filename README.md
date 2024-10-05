@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 13:58:14**
+As of **2024-10-05 14:11:16**
 
 ## Newspaper Stats
 
-*Scraped **47,904** Articles*
+*Scraped **47,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
 adaderanalk | 5,640
-tamilmirrorlk | 6,455
+tamilmirrorlk | 6,457
 virakesarilk | 7,663
 adaderanasinhalalk | 8,290
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 8,290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,904 (100.0%) of 47,904 articles have been extended.
+47,906 (100.0%) of 47,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Happy notice of vehicle imports
+
+*2024-10-05 13:42:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதஜ-குறித்து-மகிழ்ச்சியான-அறிவிப்பு/175-344944) · `ta`
+
+Sri Lanka Vehicle Importers Association expects to resume imports in January 2024 due to central bank funding allocation.
+
+🟩
+
+The Sri Lanka Vehicle Importers Association said it expects to import vehicles again from January next year.
+
+President of the association Indika Sampath said the central bank has allocated funds for this.
+
+◼️
+
+[Data](articles/d889fcc4.json)
+
+[Extended Data](ext_articles/d889fcc4.ext.json)
+
+---
+
+### Transfer to the Inspector of Police
+
+*2024-10-05 13:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அடாவடி-செய்த-பொலிஸ்-பரிசோதகருக்கு-இடமாற்றம்/76-344943) · `ta`
+
+Police inspector transferred to Muslim-owned restaurant after complaint about food quality and behavior caught on camera. Incident sparked investigation and temporary transfer.
+
+🟩
+
+Nuwara Eliya police said that a police inspector has been temporarily transferred to a restaurant run by a Muslim businessman in Nuwara Eliya.
+
+The incident, which took place on the morning of the morning (03), a police inspector working in Nuwara Eliya at the office of a Deputy Inspector General of Police in Kandy has been temporarily transferred, police said.
+
+A restaurant is run by a Muslim businessman near the Muslim Periyapalli in Nuwara Eliya.
+
+The police inspector, who was transferred to the restaurant in the incident, visited the incident on the 03rd (03) to get food.
+
+Foods such as idiopam, paratha and curries kept at the restaurant
+
+The police inspector with a businessman has said that the man is selling food and selling food and the expensive food is expensive.
+
+The police inspector has also attacked the businessman and restaurant workers, while the trader has forcibly eaten cold foods.
+
+...
+
+[Data](articles/703a0b3f.json)
+
+[Extended Data](ext_articles/703a0b3f.ext.json)
+
+---
 
 ### Asset Investigation Division again questions Pilumiyan
 
@@ -2231,59 +2281,5 @@ Senta, who is impressed by Dito's action, begins to love him. Ditto's parents al
 [Data](articles/47027f6b.json)
 
 [Extended Data](ext_articles/47027f6b.ext.json)
-
----
-
-### White van case postponed against Rajitha
-
-*2024-10-04 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201844) · `si`
-
-Colombo High Court postpones White Van case against Rajitha Senaratne. Case related to 2019 presidential election allegations. Defendants released due to lack of evidence. Next hearing scheduled for 24th.
-
-🟩
-
-The Colombo High Court today announced that the order on the request was issued on the 24th of this month, former Minister Rajitha Senaratne and two defendants filed against two defendants.
-
-Former Parliamentarian Rajitha Senaratne, including a media discussion was accused of a press conference regarding the abduction of the Presidential Elections in the 2019 presidential election.
-
-The case was called before Colombo High Court Judge Sujeewa Nissanka.
-
-The lawyers appearing on behalf of the defendants appeared to the court, the complaint failed to prove the accusations beyond a reasonable doubt, the defendants were asked to release the defendants without calling.
-
-The Attorney General who appeared on behalf of the Attorney General was presented against the defendant Rajitha Senaratne, as the defendant was called for a decision.
-
-After considering the facts presented by the judge, is the defendant acquitted without calling the defense orte?Not?The order ordered that the 24th of this month.
-
-...
-
-[Data](articles/e75734fb.json)
-
-[Extended Data](ext_articles/e75734fb.ext.json)
-
----
-
-### Bollywood actress Aaliya Bhatt starrer 'Alpha'
-
-*2024-10-04 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195486) · `ta`
-
-Aaliya Bhatt stars in "Alpha" directed by Shiv Rawil. Co-starring Bobby Deol, Hrithik Roshan. Produced by Aditya Chopra for Yash Raj Films. Releasing Dec 25, 2023 in Tamil, Telugu, Hindi. Fans anticipate her portrayal as an intelligence officer.
-
-🟩
-
-The release date of the film 'Alpha', which plays the lead role in the story of Aaliya Bhatt, is the leading star of the Bollywood film industry.
-
-Directed by director Shiv Rawil, Aaliya Bhatt, Sherwari, Square Kapoor, Bobby Deol, Hrithik Roshan and many others have starred in the film 'Alpha'.
-
-The film was produced by Aditya Chopra, producer on behalf of Yash Raj Films.
-
-The massive work -centered creation is expected to be released in Tamil, Telugu and Hindi on December 25, December 25, next year.
-
-The expectation for the film, which is playing Aaliya Bhatt intelligence officer, has increased in fans.
-
-◼️
-
-[Data](articles/ec3dafa4.json)
-
-[Extended Data](ext_articles/ec3dafa4.ext.json)
 
 ---

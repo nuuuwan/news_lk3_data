@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 08:36:17**
+As of **2024-10-05 08:21:12**
 
 ## Newspaper Stats
 
-*Scraped **47,879** Articles*
+*Scraped **47,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,78 +17,20 @@ economynextcom | 2,935
 dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
-adaderanalk | 5,633
+adaderanalk | 5,632
 tamilmirrorlk | 6,451
 virakesarilk | 7,661
-adaderanasinhalalk | 8,282
+adaderanasinhalalk | 8,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,876 (100.0%) of 47,879 articles have been extended.
+47,876 (100.0%) of 47,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
-
-### දියේ ගිලීමෙන් කාන්තාවක් මරුට
-
-*2024-10-05 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201861) · `si`
-
-ඊයේ (04) දහවල් කාලයේදී කුඹුක්ගැටේ ප්‍රදේශයේ පුවක්වැල්ල වැවේ ගිලී මෙම කාන්තාව මියගොස් තිබේ.
-
-මෙලෙස මරණයට පත්ව ඇත්තේ අවුරුදු 61ක් වූ ගොකරැල්ල ප්‍රදේශයේ පදිංචිකාරියකි.
-
-ඇය පුවක්වැල්ල වැවේ නෙළුම් මල් කැඩීමට ගොස් සිටියදී මෙලෙස දියේ ගිලී ඇති බව සිදුකරන ලද විමර්ශනයේ දී අනාවරණය වී තිබේ.
-
-◼️
-
-[Data](articles/4e8317ef.json)
-
----
-
-### 122 independent groups place deposits for 2024 General Election
-
-*2024-10-05 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102459/122-independent-groups-place-deposits-for-2024-general-election) · `en`
-
-As of yesterday (04), a total of 122 independent groups have placed deposits to contest the 2024 General Election, according to the Election Commission.
-
-The Commission further confirmed that 36 independent groups had placed their deposits within yesterday alone.
-
-Deposits have been made for 21 out of the 22 electoral districts, with the exception of the Matale district, where no deposits had been placed as of yesterday, said the Commission.
-
-The Janasetha Peramuna Party has submitted its nominations for the Jaffna and Wanni districts. Additionally, three independent groups submitted their nominations yesterday.
-
-The acceptance of nominations for the 2024 General Election commenced on October 4 and will continue until 12 noon on October 11, 2024.
-
-◼️
-
-[Data](articles/ba7b66da.json)
-
----
-
-### මාරක රිය අනතුරු කිහිපයකින් තිදෙනෙක් මරුට
-
-*2024-10-05 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201860) · `si`
-
-නයිවල දිවුලපිටිය මාර්ගයේ නයිවල වත්ත ප්‍රදේශයේදී දිවුලපිටිය දෙස සිට නයිවල දෙසට ධාවනය වූ බස් රථයක් මාර්ගය මැද අනාරක්ෂිත ලෙස නිදාගෙන සිටි පුද්ගලයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
-
-අනතුරින් බරපතළ තුවාල ලැබූ පුද්ගලයා ගම්පහ රෝහලට ඇතුළත් කිරීමේදි මියගොස් තිබේ.
-
-මියගොස් ඇත්තේ අවුරුදු 48ක් වූ නයිවල වත්ත වේයන්ගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-මේ අතර කොළඹ නුවර ප්‍රධාන මාර්ගයේ මොළගොඩ ප්‍රදේශයේදී නුවර දෙස සිට කොළඹ දෙසට ධාවනය වූ ගිලන් රථයක් මාර්ගය හරහා ගමන් කළ පදිකයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
-
-අනතුරින් බරපතළ තුවාල ලැබූ පදිකයා කෑගල්ල රෝහලට ඇතුළත් කිරීමේදී මියගොස් තිබේ.
-
-තවද කොටහේන මේෆීල්ඩ් හන්දිය ප්‍රදේශයේදී බඩු පැටවීම සඳහා පසුපසට ධාවනය කළ ලොරි රථයකට හා එම ලොරි රථයට පිටුපසින් නවතා තිබූ තවත් ලොරි රථයකට සිරවීමෙන් ලොරි රථයකට බඩු පැටවීම සඳහා පැමිණි පුද්ගලයෙකු මියගොස් තිබේ.
-
-◼️
-
-[Data](articles/15dacaf2.json)
-
----
 
 ### Several spells of showers expected today
 
@@ -2289,5 +2231,73 @@ Later, the case was ordered to be called on November 4 for pre-trial conference.
 [Data](articles/47faeb9d.json)
 
 [Extended Data](ext_articles/47faeb9d.ext.json)
+
+---
+
+### President and IMF. Among the second days
+
+*2024-10-04 14:34:15* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-සහ-අයි-එම්-එෆ්--අතර-දෙවන-දිනටත්-සාකච්ඡා/11-412309) · `si`
+
+Sri Lanka President Anura Kumara Dissanayake met IMF officials led by Dr. Peter Barwer. They discussed economic reforms and alternatives to achieve IMF program goals.
+
+🟩
+
+President Anura Kumara Dissanayake and the International Monetary Fund (IMF) opened a special discussion between the International Monetary Fund (IMF) and the International Monetary Fund.
+
+International Monetary Fund Asia Pacific Department Director General Mission Senior Mission Head of Senior Mission Dr. Peter Barwer (Dr.. The Sri Lankan delegation, appointed to senior representatives of the International Monetary Fund and IMF talks, are appointed to the Jathika International Monetary Fund.
+
+President Anura Kumara Dissanayake is the objective of reaching those objectives through alternative routes that will be achieved by the program with the International Monetary Fund.
+
+◼️
+
+[Data](articles/15e95de1.json)
+
+[Extended Data](ext_articles/15e95de1.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-10-04 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195469) · `ta`
+
+US dollar exchange rate: 289.4949 rupees buying, 298.4983 selling. Released by Central Bank on Friday (04).
+
+🟩
+
+The US dollar purchasing price was 289.4949 rupees and the sales price were 298.4983 rupees based on a currency exchange rate released by the Central Bank on Friday (04).
+
+◼️
+
+[Data](articles/30335884.json)
+
+[Extended Data](ext_articles/30335884.ext.json)
+
+---
+
+### Notice on Registration of Workers in Lebanon
+
+*2024-10-04 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201835) · `si`
+
+Sri Lankan worker registration suspended due to family issues. Contact 1989 number for assistance. No immediate danger in Israel/Lebanon. Embassy support available for return. High airfare costs for travel.
+
+🟩
+
+Additional General Manager of International Affairs Gamini Senarath Yapa says that the registration of workers for Lebanon is not done at the moment.
+
+He says that if the relatives of the country are a problem with their relatives, it is possible to contact the 1989 number.
+
+He said:
+
+"There is no danger to any Sri Lankan working in Israel or Lebanon. The Israeli government has set limits. Everyone has to adapt to the safety opportunities.
+
+The relatives of the country have the potentially problem with their relatives, and talk to the 1989 number to us.
+
+If workers are hired for Lebanon, registration is not carried out at the moment. If any Sri Lankan wants to come to Sri Lanka at this moment, they have the ability to contact the embassies. Sri Lanka is capable of coming through Middle East. But the airline fees are high. Because demand is more ".
+
+◼️
+
+[Data](articles/f37dc6de.json)
+
+[Extended Data](ext_articles/f37dc6de.ext.json)
 
 ---

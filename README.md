@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 15:23:03**
+As of **2024-10-05 15:38:36**
 
 ## Newspaper Stats
 
-*Scraped **47,912** Articles*
+*Scraped **47,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,643
 tamilmirrorlk | 6,458
 virakesarilk | 7,663
-adaderanasinhalalk | 8,292
+adaderanasinhalalk | 8,293
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,912 (100.0%) of 47,912 articles have been extended.
+47,913 (100.0%) of 47,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Sri Lanka to benefit the coin
+
+*2024-10-05 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201873) · `si`
+
+Sri Lanka wins toss against Australia in cricket match. Must secure victory to advance to tournament semifinals.
+
+🟩
+
+Sri Lanka is destined to hold the second match with Australia today (05).
+
+Sri Lanka won the toss and win the match.
+
+It is mandatory to win this competition to Sri Lanka's expectations in the semi-finals of the tournament.
+
+◼️
+
+[Data](articles/2ab21679.json)
+
+[Extended Data](ext_articles/2ab21679.ext.json)
+
+---
 
 ### New Director appointed to State Intelligence Service
 
@@ -2223,23 +2245,5 @@ S. President Anura Kumara Dissanayake met President Anura Kumara Dissanayake at 
 [Data](articles/7c7e756d.json)
 
 [Extended Data](ext_articles/7c7e756d.ext.json)
-
----
-
-### India external affairs minister holds wide-ranging talks with Sri Lanka FM, PM
-
-*2024-10-04 17:37:00* · [`economynextcom`](https://economynext.com/india-external-affairs-minister-holds-wide-ranging-talks-with-sri-lanka-fm-pm-182357/) · `en`
-
-ECONOMYNEXT — Visiting India external affairs minister S Jaishankar has met Sri Lanka Prime Minister Harini Amarasuriya and Foreign Minister Vijitha Herath, the latter with whom he said he held “wide-ranaging and detailed” talks.
-
-“Concluded wide ranging and detailed talks with FM Vijitha Herath today in Colombo. Congratulated him once again on his new responsibilities. Reviewed various dimensions of India-Sri Lanka partnership. Assured him of India’s continued support to Sri Lanka’s economic rebuilding. Our Neighbourhood First Policy and Sagar outlook will always guide the advancement of ties,” Jaishankar tweeted Friday October 04 afternoon.
-
-He later met Prime Minister Amarasuriya with whom he said he discussed digital public infrastructure, among other matters.
-
-...
-
-[Data](articles/23f6d35f.json)
-
-[Extended Data](ext_articles/23f6d35f.ext.json)
 
 ---

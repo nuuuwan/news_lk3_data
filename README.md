@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 22:11:46**
+As of **2024-10-05 22:23:23**
 
 ## Newspaper Stats
 
-*Scraped **47,943** Articles*
+*Scraped **47,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,114 @@ colombotelegraphcom | 474
 islandlk | 2,820
 economynextcom | 2,937
 dailyftlk | 3,235
-adalk | 4,428
+adalk | 4,429
 dailymirrorlk | 4,733
-adaderanalk | 5,646
+adaderanalk | 5,647
 tamilmirrorlk | 6,462
-virakesarilk | 7,671
+virakesarilk | 7,673
 adaderanasinhalalk | 8,305
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,940 (100.0%) of 47,943 articles have been extended.
+47,947 (100.0%) of 47,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
 
-### පොහොට්ටුවෙන් සම්මුඛ පරීක්ෂණ
+### Sri Lanka’s “political trauma” driven by both internal and external factors – Indian FM
+
+*2024-10-05 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102473/sri-lankas-political-trauma-driven-by-both-internal-and-external-factors-indian-fm) · `en`
+
+Indian Minister of External Affairs Dr. Subrahmanyam Jaishankar says the political trauma Sri Lanka had to experience two years ago was a result of both internal and external factors.
+
+Addressing a discussion organised by the U.S. think tank Carnegie Endowment for International Peace, the Indian External Affairs Minister said conflicts in a specific region can have serious impacts on other regions of the world, especially the global south.
+
+“The international economy today is fragile. I have travelled to various parts of the world which has had a very hard time for the last five years, where people have seen a visible sort of drop in the quality of life. I may mention Sri Lanka. I’ve been in that country, I’ve been going there from time to time. I think part of what explains political shifts there was actually the trauma that they underwent as a result of some sort of factors within their control, but some of it was not”, he said.
+
+...
+
+[Data](articles/d12474d1.json)
+
+[Extended Data](ext_articles/d12474d1.ext.json)
+
+---
+
+### Interviews from the pouch
 
 *2024-10-05 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201887) · `si`
 
-ඉදිරි මහ මැතිවරණයට ශ්‍රී ලංකා පොදුජන පෙරමුණින් නාමයෝජනා ලබාදීම සඳහා වන සම්මුඛ පරීක්ෂණ අද (05) එම පක්ෂ කාර්යාලයේදී පැවැත් වුණි.
+Sri Lanka political interviews held at party office. New alliances formed to advance policies in upcoming general election. Nomination process begins across districts.
 
-මේ අතර එළැඹෙන මහමැතිවරණයේ දී පක්ෂයේ ප්‍රතිපත්ති ඉදිරියට ගෙනයාමට පමණක් නව සන්ධාන බිහිකරන බව ශ්‍රී ලංකා පොදුජන පෙරමුණ පවසයි.
+🟩
 
-පාර්ලිමේන්තුවට මන්ත්‍රීවරුන් වැඩිකර ගැනීමේ අරමුණින් නව සන්ධාන බිහිකිරීමේ අරමුණක් නොමැති බව ඔවුන් සඳහන් කළේය.
+Interviews for the next general election were held at the party's office today (05).
 
-එළැඹෙන මහමැතිවරණය වෙනුවෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ නාමයෝජනා සකස් කිරීමේ කටයුතු මේ දිනවල සිදුකරන අතර ඉදිරි දිනවලදී සියලු දිස්ත්‍රික්ක වෙනුවෙන් නාමයෝජනා භාරදීම් කටයුතු සිදුකිරීමට නියමිතය.
+Meanwhile, the Sri Lanka Ceremony Arology Front says that the new allies will produce new allies to advance the policies of the party in the coming general election.
+
+They noted that there is no purpose to produce new alliance in order to increase the MPs.
+
+The Nominations of the Sri Lanka Civil Appointment will be conducted these days, while the nominations are scheduled for all districts for the coming general election.
 
 ◼️
 
 [Data](articles/b1fa45e3.json)
 
+[Extended Data](ext_articles/b1fa45e3.ext.json)
+
 ---
 
-### காங்கேசந்துறை துறைமுகம் அபிவிருத்திக்கு இந்தியா உதவி
+### Haryana State Legislative Assembly Election: Voting
+
+*2024-10-05 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195581) · `ta`
+
+Haryana assembly election underway. 36.69% voted by noon. BJP vs Congress rivalry. 1031 candidates. Results awaited.
+
+🟩
+
+The general election is held today for the state of Haryana, one of the Indian states. According to reports, 36.69 per cent of the votes were cast till noon.
+
+The legislative elections for the 90 -member Haryana state are being held today.
+
+A total of two crore voters vote. For this purpose, the Election Commission of India has set up polling centers 20, 632. Voting takes place from 7 am to 6 pm.
+
+There is a strong rivalry between the Bharatiya Janata Party and the Congress in this election.
+
+Along with them, one of the state leaders, Dushyant Saudala, is contesting the Democratic Janata Party and the Aam Aadmi Party in the field.. A total of 1031 candidates are contesting.
+
+Current Chief Minister Nayab Singh Shiny, Wrestler Vinesh Bogat and Dushyant Saudala are contesting as star candidates.
+
+The Election Commission of India has announced that the official details of the voting will be released. More votes are counted on the eighth day.
+
+...
+
+[Data](articles/316fb41a.json)
+
+[Extended Data](ext_articles/316fb41a.ext.json)
+
+---
+
+### India Helping Kankesanthurai Port Development
 
 *2024-10-05 21:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கேசந்துறை-துறைமுகம்-அபிவிருத்திக்கு-இந்தியா-உதவி/175-344948) · `ta`
 
-காங்கேசந்துறை துறைமுகத்தை 61.5 மில்லியன் அமெரிக்க டொலர்களில் நவீனமயமாக்குவதற்கு இந்தியா முன்வந்துள்ளதாக இந்திய வெளிவிவகார அமைச்சர் எஸ். ஜெய்சங்கர் ஜனாதிபதி அநுர குமார திசாநாநாயக்கவிடம் தெரிவித்துள்ளார்.
+India aids Kankesanthurai port upgrade ($61.5m). Gifts 22 diesel engines to Sri Lanka railways. Discusses investment projects with Sri Lankan president.
 
-அத்துடன் இலங்கை ரயில்வே திணைக்களத்துக்கு 22 டீசல் இயந்திரங்களைப் பரிசாக வழங்குவதற்கும் இந்தியா தீர்மானித்துள்ளதாகவும் இந்திய வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+🟩
 
-இலங்கையில் மேற்கொள்ளப்படவுள்ள முதலீடுகள் மற்றும் அபிவிருத்தி திட்டங்கள் தொடர்பிலும் ஜனாதிபதியிடம் இந்திய வெளிவிவகார அமைச்சர் இதன்போது கலந்துரையாடியுள்ளார். R
+India has come forward to modernize the Kankesanthurai port at US $ 61.5 million. Jaishankar has told President Anura Kumara Dissanayake.
+
+The Indian External Affairs Minister said that India has decided to gift 22 diesel machines to the Sri Lanka Railways Department.
+
+The Minister of Foreign Affairs of India has also discussed with the President on the investments and development projects to be launched in Sri Lanka.. Remble
 
 ◼️
 
 [Data](articles/eab5cc29.json)
+
+[Extended Data](ext_articles/eab5cc29.ext.json)
 
 ---
 
@@ -93,6 +153,62 @@ Investigations have been made by the investigation by the police in connection w
 [Data](articles/da248e00.json)
 
 [Extended Data](ext_articles/da248e00.ext.json)
+
+---
+
+### If information about the application of questions
+
+*2024-10-05 20:58:13* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රශ්න-පිටවීම-ගැන-තොරතුරු-ඇත්නම්-ඉල්ලයි/11-412317) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Police investigation reveals 3 questions removed from scholarship exam. Parents advised to report issues to Senanayake Police Office.
+
+🟩
+
+According to police, investigations have not been revealed that three questions have been demated that three questions have been exited on the question paper of the scholarship examination.
+
+However, the police informed parents to complain to a Senanayake of Police Office with any testimony if more problems have been exited.
+
+◼️
+
+[Data](articles/fa77843e.json)
+
+[Extended Data](ext_articles/fa77843e.ext.json)
+
+---
+
+### Sri Lanka is leaving the first round as Aussie fails
+
+*2024-10-05 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195586) · `ta`
+
+Sri Lanka loses to Australia in ICC Women's T20 World Cup. Batting struggles continue. Australia wins by 4 wickets in 12.2 overs.
+
+🟩
+
+Sri Lanka, who lost to Australia at the ICC Women's T20 World Cup for the A group on Saturday at the Sharjah Cricket Stadium in the United Arab Emirates, faced a first round of the first round.
+
+The Ninth ICC Women's World Cup has begun with hope of the current world champion.
+
+This is the second consecutive defeat in Sri Lanka, which has already lost to Pakistan, this year's Women's T20 World Cup.
+
+Sri Lanka's batting was not good in Australia, like the first match with Pakistan.
+
+Sri Lanka decided to bat first in today's match and scored 93 runs for the loss of 7 wickets in 20 overs.
+
+The opening batsmen Vishmi Gunaratne (0) and team captain Samari Atapattu (3) lost the first three overs and Kavisha Dilhari (5) left the 7th over.
+
+Harshita Samarawickrama and Nilakshika Silva shared 31 runs in the 4th wicket and gave the Sri Lankan team a little excitement.
+
+However, after the loss of Harsitha Samarawickrama, 3 more Weeks were overthrown at regular intervals.
+
+...
+
+[Data](articles/bd49dd9a.json)
+
+[Extended Data](ext_articles/bd49dd9a.ext.json)
 
 ---
 
@@ -1123,6 +1239,8 @@ The commemorative monuments were also made to mark the opportunities.
 ...
 
 [Data](articles/3ebbab5e.json)
+
+[Extended Data](ext_articles/3ebbab5e.ext.json)
 
 ---
 
@@ -2205,113 +2323,5 @@ The Police Media Spokesperson said that the instructions were given during a dis
 [Data](articles/3e7c96d0.json)
 
 [Extended Data](ext_articles/3e7c96d0.ext.json)
-
----
-
-### Charles Nirmalanathan is contesting the parliamentary election at the request of Sumanthiran
-
-*2024-10-04 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195515) · `ta`
-
-Charles Nirmalanathan contests parliamentary election at Sumanthiran's request. TNA selects candidates due to party confusion. Nirmalanathan agrees to run, along with others from Mannar district. He plans to step down for younger candidates in future elections.
-
-🟩
-
-The Mannar electoral constituency has a sudden twist on the Sri Lanka Tamil National Alliance (TNA) candidates contesting the parliamentary general election.Due to the confusion within the Tamil parties, the main Tamil parties are selected in the parliamentary general election.
-
-On the basis of this, the Vanni district's candidates have been delayed on behalf of the Sri Lanka Tamil National Alliance (Vanni) and former Member of Parliament Charles Nirmalanathan, former Northern Provincial Chief Secretary A. Pathinathan and Young Lawyer Selvarajah Dinesan from Mannar district have been elected from the Mannar district to contest the Vanni election.Knowing.
-
-All these choices have been revealed that former Parliamentarian Attorney MA Sumanthiran visited Mannar on Friday (4).
-
-MA Sumanthiran's visit to the Mannar party office with key members of the party held a two -hour discussion and talked about the expenses for the election.
-
-...
-
-[Data](articles/1d9df7ae.json)
-
-[Extended Data](ext_articles/1d9df7ae.ext.json)
-
----
-
-### The decision taken about the IMF Third Premium
-
-*2024-10-04 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201854) · `si`
-
-Sri Lanka IMF Third Review summary: IMF approves $336 million aid, praises reform progress but warns of ongoing risks. New president meets IMF officials to discuss debt restructuring and program adjustments. Future decisions on third loan installment pending.
-
-🟩
-
-The Third Review of Sri Lanka is announced by the IMF's visit to the island.
-
-A special discussion between the President and the International Monetary Fund was held at the Presidential Secretariat this morning (04).
-
-The second discussion focused on the alternate roads that will meet the targets of the IMF program and remove the pressure on the people.
-
-The Presidential Media Unit said that a good and friendly environment for this purpose was well built in these discussions between the two sides.
-
-The negotiation series of three days was successfully completed.
-
-Q: Where can you change the parameters of the program and violations of the new president's administration and the analysis of the Credit and the obligations of the debt owners.
-
-...
-
-[Data](articles/486f8cb5.json)
-
-[Extended Data](ext_articles/486f8cb5.ext.json)
-
----
-
-### President invites Indian
-
-*2024-10-04 21:07:21* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-අනුරට-ඉන්දීය-සංචාරයකට-මෝදිගෙන්-ආරාධනා/10-412314) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake meets Indian Foreign Minister Dr. S. Jaishankar. They discuss strengthening bilateral ties, economic cooperation, and India's support for Sri Lanka's development in sectors like tourism, investment, and energy. Both leaders agree to promote mutual interests and invite each other for visits.
-
-🟩
-
-Indian Foreign Minister Dr. S. Jayasankur met President
-
-Indian External Affairs Minister Dr. S. Story. Jayasankur met President Anura Kumara Dissanayake at the Presidential Carry (04).
-
-The Indian Foreign Minister presented his war to the President to join the President of President Anura Kumara Dissanayake.
-
-Jayasankur also discussed Indian Prime Minister Narendra Modi, Narendra Modi and Jayasankur, further strengthening Indo-Sri Lanka cooperation through various fields.
-
-The Indian Foreign Minister assured India's full support to Sri Lanka's economic revival for Sri Lanka's economic revival in Sri Lanka's interest to support the fields of tourism, investment industry, power and energy and liquid dairy industry.
-
-Jayashankar also emphasized Sri Lanka's massive market in India to enhance its economic renaissance.
-
-President Anura Kumara Dissanayake, who was grateful to India's financial support in the recent world, was to collaborate with India.
-
-...
-
-[Data](articles/d8c999f6.json)
-
-[Extended Data](ext_articles/d8c999f6.ext.json)
-
----
-
-### Hand over before November 7
-
-*2024-10-04 20:59:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பர்-7-க்கு-முன்-ஒப்படையுங்கள்/175-344923) · `ta`
-
-Ministry of Defense recovers weapons, bullets by Nov 7. Owners must hand them over. Review process follows.
-
-🟩
-
-The Ministry of Defense has stated that it has decided to recover all the guns and bullets provided to the public for self -defense.
-
-The Ministry of Defense further stated that the guns and bullets should be handed over before November 07.
-
-The Ministry of Defense has stated that the guns will be reviewed and then re -handed over to the owners after reviewing what is needed. Remble
-
-◼️
-
-[Data](articles/91f6efe7.json)
-
-[Extended Data](ext_articles/91f6efe7.ext.json)
 
 ---

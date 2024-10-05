@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 15:57:16**
+As of **2024-10-05 16:10:31**
 
 ## Newspaper Stats
 
-*Scraped **47,913** Articles*
+*Scraped **47,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,643
 tamilmirrorlk | 6,458
 virakesarilk | 7,663
-adaderanasinhalalk | 8,293
+adaderanasinhalalk | 8,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,913 (100.0%) of 47,913 articles have been extended.
+47,914 (100.0%) of 47,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Many information about Pettah murder
+
+*2024-10-05 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201874) · `si`
+
+Pettah murder: 23-year-old assaulted in Keselwatta over personal dispute. Police arrest 38-year-old suspect. Incident captured by Czech cameras. Victim's family claims harassment and assault.
+
+🟩
+
+A 23-year-old youth was assaulted in Keselwatta area in Pettah.
+
+The police said that the murder had been carried out over a personal dispute.
+
+The murder had occurred in Keselwatta, Keselwatta, yesterday (04).
+
+A group of czech camera was diagnosed with how a group of people were chased after the young man and attacking him.
+
+"Our homes have a home. We rented. We were told that there was a wood of water. I'll come tomorrow and said. Then he came to our home and shouted to our mother. I came and went to her house and asked. Then came to hit me. Scolded my mom on the garbage. It was hit my brother. He had gone to her home and took a two. Then hit the brother. When I went, I was raised. The brother is gone. "
+
+Police have arrested a 38-year-old suspect in the Colombo 12 area regarding the incident.
+
+◼️
+
+[Data](articles/977eb795.json)
+
+[Extended Data](ext_articles/977eb795.ext.json)
+
+---
 
 ### Sri Lanka to benefit the coin
 
@@ -2213,37 +2241,5 @@ A good and friendly environment for this purpose was built between the two sides
 [Data](articles/c823fd52.json)
 
 [Extended Data](ext_articles/c823fd52.ext.json)
-
----
-
-### President invites Migodanu
-
-*2024-10-04 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201845) · `si`
-
-Narendra Modi invites Anura Kumara Dissanayake to India. S. Jayashankar meets Sri Lankan officials. Leaders discuss strengthening bilateral ties.
-
-🟩
-
-Indian Prime Minister Narendra Modi has invited President Anura Kumara Dissanayake to visit India.
-
-Indian Foreign Minister S. The invitation was carried out by Mr. Jayasankara.
-
-Meanwhile, Indian Foreign Minister S. Jayashankar has met the Prime Minister Dr. Harini Amarasuriya.
-
-The S. during the trip. Jayasankur met with the leader of the former President Ranil Wickremesinghe and the leader of the Sihily Power Sajith.
-
-Indian Foreign Minister S. Jayasankar arrived in Bandaranaike International Airport this morning at Katunayake Bandaranaike.
-
-Jayashankar is the highest diplomat for Anura Kumara Dissanayake as the 9th Executive President of Sri Lanka.
-
-Meanwhile, the Indian Foreign Minister also met with External Affairs Minister Vijitha Herath at the Ministry of External Affairs.
-
-S. President Anura Kumara Dissanayake met President Anura Kumara Dissanayake at the presidential office.
-
-...
-
-[Data](articles/7c7e756d.json)
-
-[Extended Data](ext_articles/7c7e756d.ext.json)
 
 ---

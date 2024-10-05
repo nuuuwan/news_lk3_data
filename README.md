@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 22:38:33**
+As of **2024-10-05 22:56:55**
 
 ## Newspaper Stats
 
-*Scraped **47,947** Articles*
+*Scraped **47,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,647
 tamilmirrorlk | 6,462
 virakesarilk | 7,673
-adaderanasinhalalk | 8,305
+adaderanasinhalalk | 8,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,947 (100.0%) of 47,947 articles have been extended.
+47,948 (100.0%) of 47,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Ranil is the leader of the New Alliance
+
+*2024-10-05 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201888) · `si`
+
+Ranil Wickremesinghe leads New Alliance. Opposition parties form alliance ahead of elections. Gas cylinder issue divides them. Sajith Premadasa's conditions cause discussion breakdown.
+
+🟩
+
+Ranil Wickremesinghe says that Ranil Wickremesinghe is the leader of the UNP leader.
+
+The opposition political parties will be held in view of a meeting in order to create a new alliance.
+
+The general election, however, has decided to contest the gas cylinder.
+
+The discussions were broken due to the conditions of the Opposition Leader Sajith Premadasa.
+
+◼️
+
+[Data](articles/63f31ca2.json)
+
+[Extended Data](ext_articles/63f31ca2.ext.json)
+
+---
 
 ### Sri Lanka’s “political trauma” driven by both internal and external factors – Indian FM
 
@@ -1184,6 +1208,20 @@ Meanwhile, the exams department also mentioned that the exam applicants will be 
 
 ---
 
+### Anura Kumara  Dissanayake ; “Leftist” Star  Rises   Over Sri Lanka.
+
+*2024-10-05 12:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84814) · `en`
+
+The heading of this article is inspired by the title of Edgar Snow’s  , “Red Star Over China”. Snow’s book first published in 1937 was a vivid account of  his interaction with the  Chinese communist leader  Mao  Ze Dong and the Red Army. Mao known then as Mao Tse Tung was relatively called  to the  Western world at that time. Years later when the communists under Mao captured power in China, “Red Star Over China” became a best seller. The book was widely read   by people who wanted to gain an insight into the new “unknown”  Communist rulers  of China.
+
+...
+
+[Data](articles/139b1f89.json)
+
+[Extended Data](ext_articles/139b1f89.ext.json)
+
+---
+
 ### Another road closed from 2005
 
 *2024-10-05 12:19:27* · [`adalk`](https://www.ada.lk/breaking_news/2005-සිට-වසා-තිබූ-තවත්-පාරක්-අරියි/11-412316) · `si`
@@ -1228,7 +1266,7 @@ The commemorative monuments were also made to mark the opportunities.
 
 ---
 
-### ஜனாதிபதிகள் வரலாம்  ஜனாதிபதிகள் போகலாம், ஆனால்  ஜே. ஆர்.ஜெயவர்தனவின் ஜனாதிபதி ஆட்சிமுறை தொடர்ந்து கொண்டேயிருக்கும்
+### ஜனாதிபதிகள் வரலாம் , ஜனாதிபதிகள் போகலாம், ஆனால்  ஜே. ஆர்.ஜெயவர்தனவின் ஜனாதிபதி ஆட்சிமுறை தொடர்ந்து கொண்டேயிருக்கும்
 
 *2024-10-05 12:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84858) · `en`
 
@@ -2283,45 +2321,5 @@ Speaking further, the leader, leader Dilith Jayaweera said,
 [Data](articles/d7f8f297.json)
 
 [Extended Data](ext_articles/d7f8f297.ext.json)
-
----
-
-### Sri Lanka announces successful completion of OCC and IMF consultation process
-
-*2024-10-04 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102456/sri-lanka-announces-successful-completion-of-occ-and-imf-consultation-process) · `en`
-
-The Ministry of Finance stated that Sri Lanka has successfully completed consultations with the Official Creditor Committee (OCC) and the International Monetary Fund (IMF).
-
-“The Democratic Socialist Republic of Sri Lanka is pleased to announce that, following the Agreement in Principle (AIP) reached with representatives of its international and local holders of International Sovereign Bonds (ISBs) on 19th September 2024, the Sri Lankan authorities have now completed their consultations with Sri Lanka’s Official Creditor Committee (OCC) and the IMF regarding the compliance of the AIP terms with the Comparability of Treatment (CoT) principle and the parameters of Sri Lanka’s IMF-supported program,” the Finance Ministry said today (04).
-
-Sri Lanka is pleased to report that formal confirmation has been received from the OCC that the terms of the AIP, as it stands, are compatible with the CoT principle, the statement said.
-
-...
-
-[Data](articles/0256c976.json)
-
-[Extended Data](ext_articles/0256c976.ext.json)
-
----
-
-### All controversial criminal investigators resume
-
-*2024-10-04 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201855) · `si`
-
-Defense Secretary orders resumption of controversial investigations. Acting IGP instructs CID to restart delayed cases, including Easter bombings probe. Discussion held yesterday, some issues identified.
-
-🟩
-
-Secretary Defense Ministry Ravi Seneviratne has instructed the police to resume all controversial investigations.
-
-The Police Media Spokesperson said that the instructions were given during a discussion yesterday (03).
-
-"Acting IGP instructed the IGP in charge of CID and Identify investigations and delay investigations and start investigations. The Passover attack also discussed this. The discussion was made to discuss and there were some imperfections. "
-
-◼️
-
-[Data](articles/3e7c96d0.json)
-
-[Extended Data](ext_articles/3e7c96d0.ext.json)
 
 ---

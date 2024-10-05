@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 20:22:57**
+As of **2024-10-05 20:38:31**
 
 ## Newspaper Stats
 
-*Scraped **47,928** Articles*
+*Scraped **47,937** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 394
-bbccomsinhala | 473
+bbccomsinhala | 474
 colombotelegraphcom | 474
 islandlk | 2,820
 economynextcom | 2,937
@@ -19,14 +19,14 @@ adalk | 4,427
 dailymirrorlk | 4,733
 adaderanalk | 5,646
 tamilmirrorlk | 6,461
-virakesarilk | 7,663
+virakesarilk | 7,671
 adaderanasinhalalk | 8,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,928 (100.0%) of 47,928 articles have been extended.
+47,936 (100.0%) of 47,937 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -206,6 +206,124 @@ Commenting on the suspicion of the imported coconut oil, President of the Public
 
 ---
 
+### Director K. 'Alan' film music and preview of the actor's success released by Bhagyaraj
+
+*2024-10-05 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/195574) · `ta`
+
+"Film 'Alan' music preview released. Starring Siva, Mathura, Anu Siddhar, Karunakaran. Directed by Bhagyaraj. Music release in Chennai soon."
+
+🟩
+
+The music and preview of the film 'Alan', which plays the hero of the story, has been released by the film 'Eight Bottom', which has attracted the attention of the fans and continues to offer different works.
+
+This is the director of 'Screenplay Mannan'. Bhagyaraj to publish, producer and actor. Siva grabbed.
+
+Director and producer R. The film 'Alan', which is being produced by Siva, has starred in Mathura, Anu Siddara, Karunakaran, Vivek Prasanna and 'Aruvi' Madan Kumar.
+
+The music and preview of the film will be released soon in Chennai.
+
+During this time, 'King of Screenplay'. Bhagyaraj, producer and actor De Siva and director Gopinath participated as special guests.
+
+Producer and Director. Siva said, “I have realistically recorded the life of a writer. A book is equal to a thousand friends. A book has the power to change one's life.
+
+Books will be a motivation for a life of discipline and a meaningful quest for the books you read.
+
+...
+
+[Data](articles/0ba8aac1.json)
+
+[Extended Data](ext_articles/0ba8aac1.ext.json)
+
+---
+
+### Actor Jeeva's upcoming film 'Black'
+
+*2024-10-05 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195575) · `ta`
+
+Jeeva's 'Black' film: Director Balasubramani, stars Priya Bhavani Shankar, Vivek Prasanna. Produced by SR Prakash Babu, SR Prabhu. Release date: 11th month. Comparison with Rajinikanth's 'Vettayan'. Commercial success uncertain.
+
+🟩
+
+Actor Jeeva has been officially announced with a special photo of the release date of the movie 'Black'.
+
+Director K. G. Jeeva, Priya Bhavani Shankar, Vivek Prasanna, Swayam Siddha, Yok JP and many others have starred in the film 'Black' directed by Balasubramani.
+
+Sam C for the film, which has been recorded by Gokul Pinoy. S.. Has composed.
+
+The film is being produced by Horror Thriller Janer and produced by SR Prakash Babu, SR Prabhu, Gopinath and Gold Prabhakaran on behalf of Pottansal Studio LP.
+
+The film's Burst Luk and the preview were released. In this case, the film crew has announced that the film will be released on the 11th of this month at the world.
+
+In the meantime, the film 'Vettayan', which is set to star in Super Star Rajinikanth on October 10, will be released in the film mansion and the next day is the film 'Black', which is being produced by Jeeva, so will the film be a commercial success?It is noteworthy that the filmmakers are skeptical.
+
+◼️
+
+[Data](articles/be289065.json)
+
+[Extended Data](ext_articles/be289065.ext.json)
+
+---
+
+### The announcement of the release date of 'Sir' starring Wimal
+
+*2024-10-05 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195571) · `ta`
+
+'Sir' starring Vimal releases on 18th. Directed by Bose Venkat, music by Inion J. Sidhu Kumar. Produced by SS Pictures.
+
+🟩
+
+The film crew has officially released a special photo of the film 'Sir', which played the lead role as the hero of the story of Vimal, one of the star actors of the Tamil film industry.
+
+Vimal, Saya Devi Kannan, S Sir Sir, directed by actor and director Bose Venkat. Siraj, 'Cotuthiveeran' Saravanan, Rama, 'Aadukalam' Jayapalan and many others.
+
+Inion J. Sidhu Kumar has composed the film, which has been recorded by Harris.
+
+Producer SS Pictures on behalf of SS Pictures. Produced by Siraj and Nilofer Siraj.
+
+The film, which was waiting for all the work to be completed and the release of the film, has been announced on the 18th of this month at the film House.
+
+Meanwhile, the film 'Polam is not too far from the beginning of this year and has been a huge success, and that the film, which is being produced by Wimal's performance, has received great support among the filmmakers.
+
+◼️
+
+[Data](articles/c61f0306.json)
+
+[Extended Data](ext_articles/c61f0306.ext.json)
+
+---
+
+### Actor Silambarasan's 'Rocket Driver' image preview
+
+*2024-10-05 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195570) · `ta`
+
+"Rocket Driver" film preview: Silambarasan stars alongside Vishwath. Directed by Sri Ram Ananda Shankar, it features magic realism. Hero inspired by Abdul Kalam. Kaushik Girish composed music. Reginald Surya Thomas handled recording.
+
+🟩
+
+The preview of the new film 'Rocket Driver' starring Vishwath's story has been released.
+
+Silambarasan, the leading star actor of the Tamil film industry, posted this on his web page and congratulated the film crew.
+
+Directed by director Sri Ram Ananda Shankar, Vishwat, Naga Vishal, Sunina, Khadi Ramamurthy, Jagan and many others have starred in the film 'Rocket Driver'.
+
+Kaushik Girish has composed the film, which has been recorded by Regimal Surya Thomas.
+
+The film is being produced in Fantasy Janer, focusing on magic realistic life.
+
+Commenting on the film, the director said, “Abdul Kalam, the late Indian President, is a role model for the hero of the driver of Otto.
+
+He meets young Abdul Kalam while running Otto vehicle. At that moment, his life is unexpectedly twist.
+
+The appearance of young Abdul Kalam in the preview of the film. The expectation of the film has increased as his speeches have attracted the attention of the audience.
+
+◼️
+
+[Data](articles/ab555c91.json)
+
+[Extended Data](ext_articles/ab555c91.ext.json)
+
+---
+
 ### Lebanon hospitals close as Israeli strikes hit health facilities
 
 *2024-10-05 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102470/lebanon-hospitals-close-as-israeli-strikes-hit-health-facilities) · `en`
@@ -283,6 +401,30 @@ The results of the GCE O / L examination were released on the 28th and the resul
 [Data](articles/6284031c.json)
 
 [Extended Data](ext_articles/6284031c.ext.json)
+
+---
+
+### Cows theft in Welikanda;Suspect arrested with guns
+
+*2024-10-05 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/195551) · `ta`
+
+Cows theft suspect arrested Welikanda police seize guns cannabis
+
+🟩
+
+Welikanda police said that a suspect was arrested with guns on Friday (04), who was searching for a crime of stealing three cows in the Senapura area of ​​the Welikanda police division.
+
+The suspect was arrested during a raid carried out on confidential information received by Welikanda police.
+
+The suspect was 21 years old from Welikanda Senapura.
+
+Subsequently, police said that a raid carried out at the suspect had seized a foreign gun, domestic rifle 1 and 01 grams of cannabis.
+
+◼️
+
+[Data](articles/e01c0a18.json)
+
+[Extended Data](ext_articles/e01c0a18.ext.json)
 
 ---
 
@@ -388,6 +530,50 @@ Meanwhile, President Anura Kumara Dissanayake visited the Sanghaya Headquarters 
 
 ---
 
+### Arrested for sale of meat without permit
+
+*2024-10-05 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195545) · `ta`
+
+Businessman arrested selling illegal beef in Dambulla. Over 3,000kg seized from hidden fridge. Operated as licensed shop but slaughtered animals illegally.
+
+🟩
+
+Dambulla police said that a businessman who killed cows and livestock for many years in Dambulla Nikkavatavana area has been arrested on Friday (04).
+
+According to information received by the Dambulla police, the suspect has been arrested in a beef shop carried out under the guise of a shop recognized by the Dambulla Pradeshiya Sabha.
+
+During the roundup, Dambulla police said that more than three,000 kg of beef was recovered from the refrigerator in the barn room near the beef shop.
+
+◼️
+
+[Data](articles/836a18ae.json)
+
+[Extended Data](ext_articles/836a18ae.ext.json)
+
+---
+
+### Sri Lanka Freedom Party (SLFP) resolution to contest the Gas cylinder symbol
+
+*2024-10-05 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/195557) · `ta`
+
+Sri Lanka Freedom Party SLFP contests Gas cylinder symbol in general election. Decision made by party committees. Coalition to use symbol in local government polls.
+
+🟩
+
+The Sri Lanka Freedom Party (SLFP) respondent and former minister Nimal Siripala de Silva has said that it has decided to contest the Gas cylinder symbol in the upcoming general election.
+
+He added that the decision was made by the party's political committee and the central action committee.
+
+He added that the Sri Lanka Freedom Party (SLFP) -led coalition will contest the new symbol in the local government elections.
+
+◼️
+
+[Data](articles/f97bfbe8.json)
+
+[Extended Data](ext_articles/f97bfbe8.ext.json)
+
+---
+
 ### Many information about Pettah murder
 
 *2024-10-05 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201874) · `si`
@@ -413,6 +599,26 @@ Police have arrested a 38-year-old suspect in the Colombo 12 area regarding the 
 [Data](articles/977eb795.json)
 
 [Extended Data](ext_articles/977eb795.ext.json)
+
+---
+
+### New Director appointed to State Intelligence Service
+
+*2024-10-05 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195553) · `ta`
+
+Dhammika Kumara named new Director of State Intelligence Service after Major General Suresh Saleh retires.
+
+🟩
+
+Deputy Inspector General of Police Dhammika Kumara has been appointed as the new Director of the State Intelligence Service (SIS).
+
+The appointment has been made following the retirement of Major General Suresh Saleh.
+
+◼️
+
+[Data](articles/3db96f20.json)
+
+[Extended Data](ext_articles/3db96f20.ext.json)
 
 ---
 
@@ -495,6 +701,36 @@ The President acknowledged that the current period, with a General Election alre
 [Data](articles/7061e9af.json)
 
 [Extended Data](ext_articles/7061e9af.ext.json)
+
+---
+
+### චමරී අතපත්තු යළිත් අසාර්ථක වෙයි: දෙවන තරගයෙනුත් ශ්‍රී ලංකාවට පරාජය
+
+*2024-10-05 14:17:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6qxeeyv3zo) · `si`
+
+චමරී අතපත්තු යළිත් අසාර්ථක වෙයි: දෙවන තරගයෙනුත් ශ්‍රී ලංකාවට පරාජය
+
+ලෝක කුසලාන කාන්තා T20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගි වූ දෙවන තරගයෙනුත් ශ්‍රී ලංකා කණ්ඩායමට පරාජයට පත්විය.
+
+ඒ, ඔස්ට්‍රේලියාව ශ්‍රී ලංකා කණ්ඩායම හමුවේ කඩුලු 6ක පහසු ජයකන් වාර්තා කිරීමත් සමග ය.
+
+තරගයේ කාසියේ වාසිය හිමි කර ගත් නායිකා චමරි අතපත්තු පළමුවෙන් පන්දුවට පහර දීමට තීරණය කළා ය.
+
+ආරම්භක පිතිකරුවෙකු ලෙස පිටියට පිවිසි නායිකා චමරි අතපත්තු යළිත් වරක් අසාර්ථක පිතිකරණයන නිරත වෙමින් ලකුණු 3ක් ලබා සිටියදී දැවී ගියා ය.
+
+පකිස්ථානයට එරෙහිව පැවති තරගයේදී ද චමරි අතපත්තු රැස් කළේ, ලකුණු 6ක් පමණි.
+
+ඔස්ට්‍රේලියාවට එරෙහි තරගයේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් වැඩි ම ලකුණු රැස් කළ නිලක්ෂිකා සිල්වා නොදැවී ලකුණු 29ක් රැස් කළා ය.
+
+හර්ෂිතා සමරවික්‍රම ලකුණු 23ක් රැස් කළ අතර, අනුෂ්කා සංජීවනී ලකුණු 16ක් රැස් කළා ය.
+
+සෙසු කිසිදු පිතිකාරිණියකට ලකුණු 5 සීමාව ඉක්මවා රැස් කිරීමට ඔස්ට්‍රේලියා පන්දු යවන ක්‍රීඩිකාවෝ ඉඩ ලබා නොදුන්හ.
+
+ඒ අනුව, නියමිත පන්දු වාර 20 තුළදී ශ්‍රී ලංකා කණ්ඩායමට කඩුලු 7ක් දැවී රැස් කර ගත හැකි වූයේ, ලකුණු 93ක් පමණි.
+
+...
+
+[Data](articles/4fbd2897.json)
 
 ---
 
@@ -2067,229 +2303,5 @@ The suspect was arrested during a raid carried out on information received by th
 [Data](articles/22d03f45.json)
 
 [Extended Data](ext_articles/22d03f45.ext.json)
-
----
-
-### Indian EAM raises concern over fishermen arrest, pushes for 13A
-
-*2024-10-04 19:16:00* · [`economynextcom`](https://economynext.com/indian-eam-raises-concern-over-fishermen-arrest-pushes-for-13a-182420/) · `en`
-
-ECONOMYNEXT – India’s External Affairs Minister (EAM) S. Jaishankar raised concerns over the arrest of poaching fishermen and heavy fines on their boats when he met Sri Lanka’s newly elected president Anura Kumara Dissanayake, the Indian External Affairs Ministry said.
-
-Jaishankar was in Colombo on Friday (04) on an official visit and met President Dissanayake, Prime Minister Harini Amarasuriya, Foreign Minister Vijitha Herath. former President Ranil Wickremesinghe, and former Opposition Leader Sajith Premadasa.
-
-“EAM raised the concerns pertaining to Indian fishermen who are detained in Sri Lanka. He pressed for their early release, as well as of their boats, and reconsideration of the heavy fines imposed on them,” the External Affairs Ministry said in a statement.
-
-Sri Lanka has witnessed bottom trawling by Indian fishermen during the peak fishing season in the island nation’s northern waters off Jaffna, Navy and Northern government officials have said.
-
-...
-
-[Data](articles/ef9585c6.json)
-
-[Extended Data](ext_articles/ef9585c6.ext.json)
-
----
-
-### Bronze Medal for Sri Lanka in Rugby
-
-*2024-10-04 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195510) · `ta`
-
-Sri Lanka wins bronze in Asian Rugby Emirates. Defeated Malaysia 17-14. Won 3 matches, tied 1. UAE and Hong Kong played final. UAE won gold, Hong Kong silver.
-
-🟩
-
-Sri Lanka won a bronze medal in the recent Asian Rugby Emirates at the Johar Bahru Stadium in Malaysia.
-
-Sri Lanka won the bronze medal by winning Malaysia by 17 (3 trucks, one Convention) - 14 (2 goals).
-
-In the tournament, the Sri Lankan league round was qualified to play in the 3rd place in the Sri Lanka League round.
-
-Sri Lanka won the first league match by 27 - 0 in the second match by 29 - 12 in the second match.
-
-Sri Lanka ended the 3rd match against Thailand by 17 - 17.
-
-Sri Lanka won 20 - 0 in a match without playing a match.
-
-In the A group, the United Arab Emirates and Malaysia won the top two.
-
-Following this, the United Arab Emirates and Hong Kong China clashed in the final of the Champions Bowl.
-
-The United Arab Emirates won the gold medal by winning 43 - 0. Hong Kong Saina received a silver medal.
-
-...
-
-[Data](articles/e7f122cf.json)
-
-[Extended Data](ext_articles/e7f122cf.ext.json)
-
----
-
-### Jaishankar's main meetings
-
-*2024-10-04 19:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெய்சங்கரின்-முக்கிய-சந்திப்புகள்/175-344922) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Indian Foreign Minister Jaishankar arrives in Sri Lanka. Meets political leaders, new government officials, and President. Also meets Prime Minister Dr. Harini. Discusses bilateral relations and cooperation.
-
-🟩
-
-Indian Foreign Minister. Jaishankar officially arrived in Sri Lanka today.
-
-He met several political leaders and met with the leaders of the new government and the president.
-
-In addition, the Prime Minister of the new government, Dr. Harini, and Indian Foreign Minister. Jaishankar has met. Remble
-
-◼️
-
-[Data](articles/c67a4521.json)
-
-[Extended Data](ext_articles/c67a4521.ext.json)
-
----
-
-### Milapa in bowling, Lora in the batting, Dasmin;South Africa launches
-
-*2024-10-04 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195508) · `ta`
-
-Here's a 200-character summary:
-
-
-
-South Africa crushes West Indies in ICC Women's T20 World Cup. Milaba, Lora, and Dasmin star in bowling and batting. South Africa wins by 10 wickets, scoring 119/0 in 17.5 overs. West Indies struggles at 118/6 in 20 overs.
-
-🟩
-
-South Africa easily won the West Indies by 10 wickets at the ICC Women's R20 World Cup for the B Group held at the Dubai International Cricket Stadium on Friday (04).
-
-In a one -sided -up match, the accurate bowling of Nonkululeko Milaba, the captain of the team, Lora Wulward and Tasmin Britdz, made South Africa easier to win South Africa.
-
-South Africa scored 119 runs in 17.5 overs without the loss of wickets in 17.5 overs.
-
-The ninth Women's T20 World Cup chapter was recorded as the fantastic link to 119 runs in the opening wicket of both Lora Wulwat and Dasmin Britts.
-
-They also became the first to score half a century in the Women's T20 World Cup this year.
-
-Lorera Wulward faced 55 balls and 59 runs, including 7 pounds, and Dasmin failed 52 balls and 57 runs, including 6 pounds.West Indies, who were first invited to bat in the upting match, scored 118 runs for the loss of six wickets in 20 overs.
-
-...
-
-[Data](articles/79b0993c.json)
-
-[Extended Data](ext_articles/79b0993c.ext.json)
-
----
-
-### Defence Ministry orders to surrender all firearms issued to civilians
-
-*2024-10-04 18:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102454/defence-ministry-orders-to-surrender-all-firearms-issued-to-civilians) · `en`
-
-The Ministry of Defence has announced that all firearms and ammunition provided to civilians for self-defence will be acquired by the government and that they must be handed over to the relevant authorities before 07 November.
-
-Furthermore, the Defence Ministry stated that they will be returned pending a review and consideration of the need to possess such firearms.
-
-A decision has been taken to take over all firearms issued for personal protection to civilians by the Ministry of Defence.
-
-This decision was in accordance to the powers vested to the Defence Secretary under Sections 6(1) and 6(2) of the Firearms Ordinance Act No. 33 of 1916, to take over firearms on temporary basis to the government.
-
-Further, this decision is taken subjected to reissue them after a review process, the ministry said in a statement.
-
-...
-
-[Data](articles/0d31daac.json)
-
-[Extended Data](ext_articles/0d31daac.ext.json)
-
----
-
-### Ministry of Defense
-
-*2024-10-04 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201851) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Ministry of Defense orders return of all citizen-issued firearms and ammunition by Nov 7. Those returning weapons must undergo a firearm review."
-
-🟩
-
-The Ministry of Defense has decided to recover all firearms and ammunition issued to citizens for self-protection.
-
-Accordingly, those firearms and ammunition should be resurrected before November 7.
-
-The Ministry of Defense states that those persons are due to be returned with a firearm review and the need.
-
-◼️
-
-[Data](articles/7c2d7ede.json)
-
-[Extended Data](ext_articles/7c2d7ede.ext.json)
-
----
-
-### Jaishankar met Sajith
-
-*2024-10-04 18:52:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்தை-சந்தித்தார்-ஜெய்சங்கர்/175-344921) · `ta`
-
-Indian Foreign Minister Jaishankar arrives in Sri Lanka, meets political leaders and new government officials.
-
-🟩
-
-Indian Foreign Minister. Jaishankar officially arrived in Sri Lanka today.
-
-He met several political leaders and met with the leaders of the new government and the president.
-
-◼️
-
-[Data](articles/3cb786e8.json)
-
-[Extended Data](ext_articles/3cb786e8.ext.json)
-
----
-
-### An announcement from the IMF delegation
-
-*2024-10-04 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201850) · `si`
-
-IMF delegation visits Sri Lanka, discusses economic reforms. Asia-Pacific Director commends government efforts, expresses readiness to support economic goals. Team to set date for third review.
-
-🟩
-
-The International Monetary Fund delegation visited Sri Lanka has issued a statement today (04) after completing his visit.
-
-Asia-Pacific Director, Director of the Asia-Pacific, was the head of the delegation.
-
-He says, "We held effective discussions with the Sri Lankan economy with the Sri Lankan economy with the Sri Lankan economy and the Sri Lankan economy.. After Sri Lanka faced the most economical Economic and the victorious victories taken in 822, we agreed to protect the victories. "
-
-"The commitment of the authorities in reform efforts encourages us. The International Monetary Fund is a permanent partner to support Sri Lanka and its people and is ready to assist in achieving the country's economic reform goals. The IMF team maintains a close relationship with Sri Lanka's economic group to set a date for the third review of the International Monetary Fund. "
-
-◼️
-
-[Data](articles/3e3106b3.json)
-
-[Extended Data](ext_articles/3e3106b3.ext.json)
-
----
-
-### Freedom Party Nimal Siripala and several others come from gas cylinder
-
-*2024-10-04 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201849) · `si`
-
-Nimal Siripala de Silva, former minister, announces meeting Gas Cylinder mark for general election today afternoon. Freedom Party and SLFP members involved.
-
-🟩
-
-The SLFP Nimal Siripala has decided to meet the Gas Cylinder mark for the coming general election.
-
-Former minister Nimal Siripala de Silva said this will be held this afternoon.
-
-◼️
-
-[Data](articles/b2e0cfae.json)
-
-[Extended Data](ext_articles/b2e0cfae.ext.json)
 
 ---

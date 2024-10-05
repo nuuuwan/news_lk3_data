@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 16:23:03**
+As of **2024-10-05 16:55:46**
 
 ## Newspaper Stats
 
-*Scraped **47,915** Articles*
+*Scraped **47,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,643
 tamilmirrorlk | 6,458
 virakesarilk | 7,663
-adaderanasinhalalk | 8,295
+adaderanasinhalalk | 8,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,915 (100.0%) of 47,915 articles have been extended.
+47,916 (100.0%) of 47,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Three persons including the boss of the Department of Transport
+
+*2024-10-05 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201877) · `si`
+
+Colombo Magistrate's Court remands three persons including Transport Department boss over bribery allegations. Deputy Commissioner, clerk, broker implicated. Bribery Commission seeks further investigation. Suspects remanded until 8th.
+
+🟩
+
+The Colombo Magistrate's Court has been remanded to be remanded to the owner of three buses to be handed over to the owner of three buses.
+
+Among those who were remanded, the Deputy Commissioner of the Transfer Division of the Department, its subject clerk and broker include.
+
+The bribery Commission filed the court that the bribe of Rs.
+
+The Bribery Commission requested the court to be further investigated and the suspects were remanded.
+
+After considering the following, the Magistrate ordered that the suspects were remanded till the 8th.
+
+◼️
+
+[Data](articles/3492d226.json)
+
+[Extended Data](ext_articles/3492d226.ext.json)
+
+---
 
 ### President makes decisions based on policy statement
 
@@ -2217,33 +2243,5 @@ Wickremesinghe attended the swearing-in ceremony in New Delhi on July 09 on the 
 [Data](articles/8f8046c6.json)
 
 [Extended Data](ext_articles/8f8046c6.ext.json)
-
----
-
-### Departure for foreign employment increased by 10 percent in September
-
-*2024-10-04 17:51:49* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-රැකියා-සඳහා-පිටත්වීම-සැප්තැම්බර්-මාසයේදී-සියයට-10-කින්-ඉහළට/11-412312) · `si`
-
-Sri Lankan foreign employment increased 10% in September 2024 compared to 2023. 28,344 left for work abroad, including 70,396 skilled workers. Most went to Saudi Arabia (38,133), followed by Israel (6,391) and Japan (6,295).
-
-🟩
-
-In September 2023, September 2024, September 2024, Sri Lankans have risen 10 percent to the foreign employment, the Sri Lanka Foreign Employment Bureau.
-
-In September 2024, 28,344 Sri Lankans have left foreign employment and in September 2023, 25,716 departure for foreign employment in September 2023.
-
-In the first nine months of 2024, there are 240,109 Sri Lankans in the first nine months and includes 99,939 males and 142,170 female workers.
-
-70,396 skilled workers have passed abroad and belongs to employers and 62,177 male workers and 8,219 female workers. In the first nine months of 2024, 17,649 workers have passed abroad and 3,704 have been selected for semi-skilled jobs.
-
-In the first nine months of the first 9 months, the largest number of Sri Lankans have joined in Saudi Arabia, which is 38,133. During this time, 6391 Sri Lankans have left for Israeli jobs, and 6295 Sri Lankans have left in Japan.
-
-5870 for Sri Lanka's jobs, 5677 and 3995 for UAE have been leaving for Rs.
-
-◼️
-
-[Data](articles/d9a92062.json)
-
-[Extended Data](ext_articles/d9a92062.ext.json)
 
 ---

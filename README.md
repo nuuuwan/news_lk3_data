@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 22:56:55**
+As of **2024-10-05 23:09:19**
 
 ## Newspaper Stats
 
-*Scraped **47,948** Articles*
+*Scraped **47,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,429
 dailymirrorlk | 4,733
-adaderanalk | 5,647
+adaderanalk | 5,648
 tamilmirrorlk | 6,462
 virakesarilk | 7,673
 adaderanasinhalalk | 8,306
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,306
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,948 (100.0%) of 47,948 articles have been extended.
+47,949 (100.0%) of 47,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Nasrallah’s possible successor out of contact since Friday, Lebanese source says
+
+*2024-10-05 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102474/nasrallahs-possible-successor-out-of-contact-since-friday-lebanese-source-says) · `en`
+
+The potential successor to slain Hezbollah leader Sayyed Hassan Nasrallah has been out of contact since Friday, a Lebanese security source said on Saturday, after an Israeli airstrike that is reported to have targeted him.
+
+In its campaign against the Iran-backed Lebanese group, Israel carried out a large strike on Beirut’s southern suburbs late on Thursday that Axios cited three Israeli officials as saying targeted Hashem Safieddine in an underground bunker.
+
+The Lebanese security source and two other Lebanese security sources said that ongoing Israeli strikes on Beirut’s southern suburb - known as Dahiyeh - since Friday have kept rescue workers from scouring the site of the attack.
+
+Hezbollah has made no comment so far on Safieddine since the attack.
+
+Israeli Lieutenant Colonel Nadav Shoshani said on Friday the military was still assessing the Thursday night airstrikes, which he said targeted Hezbollah’s intelligence headquarters.
+
+...
+
+[Data](articles/2dc90067.json)
+
+[Extended Data](ext_articles/2dc90067.ext.json)
+
+---
 
 ### Ranil is the leader of the New Alliance
 
@@ -2291,35 +2313,5 @@ The Ministry of Finance further stated that the support given to this process wi
 [Data](articles/f79e101f.json)
 
 [Extended Data](ext_articles/f79e101f.ext.json)
-
----
-
-### Dilith says it is a powerful opposition after the general election
-
-*2024-10-04 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201856) · `si`
-
-Dilith Jayaweera leads opposition after general election. Key appointments made in Motherland People's Party. Aims for main opposition status. Focuses on grassroots engagement rather than targeting PM position.
-
-🟩
-
-The leading entrepreneral Diliva Dilitian Diliva Dilith Jayaweera says the objective of the motherland has been instrumental after the coming opposition after the next General Election.
-
-Meanwhile, the 'Field Organization', the Chairman of Ananda Deasaging, joined the Mawlandi People's Party (04).
-
-Accordingly, Ananda Divaasanha was appointed as the Kegalle District Organizer and Deraniyagala electoral organizer of the Motherland People's Party.
-
-"Leiman-Youth Organization" of the Thand Entrepreneurs Sanjaya Weerasinghe was appointed as the Kegalle District Programminist secretary of the Motherland People's Party and Kegalle District Coordinator.
-
-The Colombo district leader Thushara Weerasinghe was presented to the Colombo District Programmarks of the Motherland People's Party.
-
-Meanwhile, entreprenerific Priyadenaging Bentarachchi joined the Motherland People's Party today.
-
-Speaking further, the leader, leader Dilith Jayaweera said,
-
-...
-
-[Data](articles/d7f8f297.json)
-
-[Extended Data](ext_articles/d7f8f297.ext.json)
 
 ---

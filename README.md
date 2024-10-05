@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 20:38:31**
+As of **2024-10-05 20:57:18**
 
 ## Newspaper Stats
 
-*Scraped **47,937** Articles*
+*Scraped **47,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,646
 tamilmirrorlk | 6,461
 virakesarilk | 7,671
-adaderanasinhalalk | 8,302
+adaderanasinhalalk | 8,303
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,936 (100.0%) of 47,937 articles have been extended.
+47,938 (100.0%) of 47,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### India leaves 22 diesel station engines to Sri Lanka
+
+*2024-10-05 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201885) · `si`
+
+India gifts 22 diesel engines to Sri Lanka: Indian Foreign Minister Dr. S.S. Jaishankar confirms during visit. Loan for 7 projects worth $US. India converts Rs.
+
+🟩
+
+Indian Foreign Minister Dr. S. S. Sara Indian Foreign Minister Dr. S. Mr. Jeyzankar has said.
+
+Indian External Affairs Minister Dr. S. S. Story arrived in the island to one day. Mr. Jeyishank was meeting the President, Prime Minister and the Minister of External Affairs and the Indian High Commission in Sri Lanka was issued.
+
+And the completed loan 7 line projects is US $. The Indian Foreign Minister has said that India has decided to convert Rs.
+
+◼️
+
+[Data](articles/c899845f.json)
+
+[Extended Data](ext_articles/c899845f.ext.json)
+
+---
 
 ### Dilith from Kegalle with Dilith for the country
 
@@ -704,33 +726,49 @@ The President acknowledged that the current period, with a General Election alre
 
 ---
 
-### චමරී අතපත්තු යළිත් අසාර්ථක වෙයි: දෙවන තරගයෙනුත් ශ්‍රී ලංකාවට පරාජය
+### Chamary Atapattu fails again: Defeat Sri Lanka
 
 *2024-10-05 14:17:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6qxeeyv3zo) · `si`
 
-චමරී අතපත්තු යළිත් අසාර්ථක වෙයි: දෙවන තරගයෙනුත් ශ්‍රී ලංකාවට පරාජය
+Here's a 200-character summary:
 
-ලෝක කුසලාන කාන්තා T20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගි වූ දෙවන තරගයෙනුත් ශ්‍රී ලංකා කණ්ඩායමට පරාජයට පත්විය.
 
-ඒ, ඔස්ට්‍රේලියාව ශ්‍රී ලංකා කණ්ඩායම හමුවේ කඩුලු 6ක පහසු ජයකන් වාර්තා කිරීමත් සමග ය.
 
-තරගයේ කාසියේ වාසිය හිමි කර ගත් නායිකා චමරි අතපත්තු පළමුවෙන් පන්දුවට පහර දීමට තීරණය කළා ය.
+Sri Lanka loses ICC T20 Women's World Cup match to Australia. Chamari Atapattu scores 3 runs. Australia wins by 94 runs. Sri Lanka faces India next. Tournament progression uncertain.
 
-ආරම්භක පිතිකරුවෙකු ලෙස පිටියට පිවිසි නායිකා චමරි අතපත්තු යළිත් වරක් අසාර්ථක පිතිකරණයන නිරත වෙමින් ලකුණු 3ක් ලබා සිටියදී දැවී ගියා ය.
+🟩
 
-පකිස්ථානයට එරෙහිව පැවති තරගයේදී ද චමරි අතපත්තු රැස් කළේ, ලකුණු 6ක් පමණි.
+Chamary Atapattu fails again: Defeat Sri Lanka
 
-ඔස්ට්‍රේලියාවට එරෙහි තරගයේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් වැඩි ම ලකුණු රැස් කළ නිලක්ෂිකා සිල්වා නොදැවී ලකුණු 29ක් රැස් කළා ය.
+The Sri Lankan team was defeated by the World Cup Women's T20 cricket tournament.
 
-හර්ෂිතා සමරවික්‍රම ලකුණු 23ක් රැස් කළ අතර, අනුෂ්කා සංජීවනී ලකුණු 16ක් රැස් කළා ය.
+That is when Australia reported six wickets in six wickets.
 
-සෙසු කිසිදු පිතිකාරිණියකට ලකුණු 5 සීමාව ඉක්මවා රැස් කිරීමට ඔස්ට්‍රේලියා පන්දු යවන ක්‍රීඩිකාවෝ ඉඩ ලබා නොදුන්හ.
+Leader of the competition, Chamari decided to bat first and battled.
 
-ඒ අනුව, නියමිත පන්දු වාර 20 තුළදී ශ්‍රී ලංකා කණ්ඩායමට කඩුලු 7ක් දැවී රැස් කර ගත හැකි වූයේ, ලකුණු 93ක් පමණි.
+Leader Chamari Atapattu as a starter batsman and the bowled out for 3 runs.
+
+Chamari raised only six runs in the match against Pakistan.
+
+Niladu Missika Silva, who scored the highest number of marks in the match against Australia, scored 29 runs.
+
+Hershae Samarawickra scored 23 runs and Anushka Sanjeewa scored 16 runs.
+
+Australia bowledmen did not allow any other batsman to collect the five marks five.
+
+Accordingly, Sri Lanka were able to score only 93 runs for the loss of 7 wickets in the 20 overs.
+
+Beth Money, the opening of the Australian group, scored 43 off 38 balls in 38 balls.
+
+Ellis Perees scored 17 runs and Ashley Gardner scored 12 runs.
+
+Accordingly, the Australian team won the match wins 94 runs in 14.2 overs.
 
 ...
 
 [Data](articles/4fbd2897.json)
+
+[Extended Data](ext_articles/4fbd2897.ext.json)
 
 ---
 
@@ -2281,27 +2319,5 @@ They have been arrested when he had asked for a bribe of Rs.
 [Data](articles/53a113ca.json)
 
 [Extended Data](ext_articles/53a113ca.ext.json)
-
----
-
-### A man arrested with ice drugs in Kalkisa
-
-*2024-10-04 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195499) · `ta`
-
-Man arrested with ice drugs in Kalkisa. Suspect caught near Odeon junction by Mount Lavinia Police. 10g 200ml of ice seized during raid based on tip-off.
-
-🟩
-
-A suspect has been arrested yesterday (03) with an ice drug near the Odean junction belonging to the Mount Lavinia Police Division.
-
-The suspect was arrested during a raid carried out on information received by the Mount Lavinia Police Criminal Investigation Division.
-
-10 g 200 ml of ice from the suspect has been seized by the police.
-
-◼️
-
-[Data](articles/22d03f45.json)
-
-[Extended Data](ext_articles/22d03f45.ext.json)
 
 ---

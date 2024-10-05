@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 16:10:31**
+As of **2024-10-05 16:23:03**
 
 ## Newspaper Stats
 
-*Scraped **47,914** Articles*
+*Scraped **47,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,643
 tamilmirrorlk | 6,458
 virakesarilk | 7,663
-adaderanasinhalalk | 8,294
+adaderanasinhalalk | 8,295
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,914 (100.0%) of 47,914 articles have been extended.
+47,915 (100.0%) of 47,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### President makes decisions based on policy statement
+
+*2024-10-05 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201875) · `si`
+
+Sri Lanka President Anura Kumara Dissanayake visits religious headquarters, discusses policy implementation and constitutional reform. Emphasizes decision-making based on policy statements and seeks Maha Sangha support for changes.
+
+🟩
+
+President Anura Kumara Dissanayake visited the Ramananayake Headquarts of the Ramanna Headquarts in Narahenpita today (05).
+
+The President then joined a brief discussion with the Mahanayake's top priority console.
+
+President Anura Kumara Dissanayake said that he is the objective of making all decisions as stated in his policy statement.
+
+The ambassadors were to appoint a group of people in an educated, intelligent and foreign country to appoint governors to appoint governors, not to appoint politics without politics.
+
+The Venerable Thera pointed out that the appointment of secretaries to the Ministry should also be appointed.
+
+The premises of the Anunayaka Thero and the Forecast Residents of the Sectioned Seth Pirith chanted the President and blessed the President.
+
+Meanwhile, President Anura Kumara Dissanayake visited the Sanghaya Headquarters of Sri Lanka Amarapura Maha Nikaya today (05) and visited Uyangoda Maithrimpathi Maha Vidyalaya.
+
+...
+
+[Data](articles/389e4b18.json)
+
+[Extended Data](ext_articles/389e4b18.ext.json)
+
+---
 
 ### Many information about Pettah murder
 
@@ -2215,31 +2245,5 @@ In the first nine months of the first 9 months, the largest number of Sri Lankan
 [Data](articles/d9a92062.json)
 
 [Extended Data](ext_articles/d9a92062.ext.json)
-
----
-
-### IMF. A discussions are successful
-
-*2024-10-04 17:45:25* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-සාකචඡා-සාර්ථකයි/11-412311) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake met with IMF officials. They discussed overcoming future IMF reviews and potential delays. The President agreed with IMF goals and public prospects. A positive atmosphere led to a 3-day negotiation series. Key attendees included IMF Asia Pacific Director Krishna Srinivas and Senior Mission Head Heather Brewer.
-
-🟩
-
-President Anura Kumara Dissanayake held a discussion with the International Monetary Fund (IMF) at the Presidential Secretariat and the second discussion between the International Monetary Fund and the President.
-
-The two sides discussed the steps to be taken to overcome the future review of the program with the International Monetary Fund and the possible delays.
-
-Meanwhile, the President emphasized that he agrees with the purposes of the IMF program the objectives of the IMF program and the prospect of the public.
-
-Therefore, it is the purpose of achieving alternative approaches that will be achieved by the program targets with the International Monetary Fund.
-
-A good and friendly environment for this purpose was built between the two sides and the negotiation series of three days.. With that, the IMF delegation is the closing of the IMF delegation this time.
-
-...
-
-[Data](articles/c823fd52.json)
-
-[Extended Data](ext_articles/c823fd52.ext.json)
 
 ---

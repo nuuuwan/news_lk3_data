@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 11:58:42**
+As of **2024-10-05 12:23:33**
 
 ## Newspaper Stats
 
-*Scraped **47,893** Articles*
+*Scraped **47,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,72 @@ dbsjeyarajcom | 394
 bbccomsinhala | 473
 colombotelegraphcom | 474
 islandlk | 2,820
-economynextcom | 2,935
+economynextcom | 2,937
 dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
-adaderanalk | 5,637
+adaderanalk | 5,638
 tamilmirrorlk | 6,455
 virakesarilk | 7,663
-adaderanasinhalalk | 8,286
+adaderanasinhalalk | 8,287
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,893 (100.0%) of 47,893 articles have been extended.
+47,897 (100.0%) of 47,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Sweden's attention to develop renewable energy in this country
+
+*2024-10-05 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201866) · `si`
+
+Sweden focuses on renewable energy in Sri Lanka, reducing visa barriers for education. Swedish Ambassador discusses investments and higher education opportunities with Prime Minister.
+
+🟩
+
+Swedish government is focusing on the development of the renewable energy sector in Sri Lanka and reduce visas' educational opportunities and visa difficulties in Sweden.
+
+Dr. Harini Amarasuriya, Dr. Harin Amarasuriya and Swedish Ambassador in Sri Lanka was held at the Prime Minister's Office.
+
+Swedish Ambassador said that Swedish government is primarily focused on the renewable energy sector in Sri Lanka based on Swedish investments.
+
+Prime Minister Dr. Weli Amarasuriya has also paid attention to the attention of Swedish ambassador on higher education opportunities and visa difficulties in Sweden.
+
+The Hon.
+
+◼️
+
+[Data](articles/527b3e6d.json)
+
+[Extended Data](ext_articles/527b3e6d.ext.json)
+
+---
+
+### IMF acknowledges Sri Lanka’s progress, warns of ongoing vulnerabilities
+
+*2024-10-05 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102464/imf-acknowledges-sri-lankas-progress-warns-of-ongoing-vulnerabilities) · `en`
+
+The International Monetary Fund (IMF) says Sri Lanka’s Third Review under the USD 2.9 billion Extended Fund Facility (EFF) programme, will be announced in due course.
+
+Addressing a bi-weekly media briefing held in Washington DC, IMF’s Director for Communications Julie Kozack noted that vulnerabilities and uncertainties remain, meaning sustaining the reform momentum is critical for Sri Lanka.
+
+However, Kozack reiterated that Sri Lanka’s performance under the programme is strong, and reform efforts are bearing fruit in terms of reviving economic growth.
+
+Meanwhile on Friday (04), the IMF team who visited the island said it will continue its close engagement with Sri Lanka’s economic team to set a date for the third review of the IMF-supported program.
+
+“We are encouraged by the authorities’ commitment to continue the reform efforts,” the global lender’s Director for the Asia Pacific Department, said in a statement at the end of the visit to Sri Lanka.
+
+...
+
+[Data](articles/cc0f3f5e.json)
+
+[Extended Data](ext_articles/cc0f3f5e.ext.json)
+
+---
 
 ### Protests in Bangladesh against Israel
 
@@ -335,6 +383,24 @@ To mark the occasion, commemorative tokens were also presented, according to the
 [Data](articles/263cbeda.json)
 
 [Extended Data](ext_articles/263cbeda.ext.json)
+
+---
+
+### EC suspends new Port Minister’s MD appointment at Sri Lanka Ports Authority
+
+*2024-10-05 08:22:00* · [`economynextcom`](https://economynext.com/ec-suspends-new-port-ministers-md-appointment-at-sri-lanka-ports-authority-182441/) · `en`
+
+ECONOMYNEXT –Election Commission has halted an appointment made by new Port Minister Vijitha Herath to the state-owned Sri Lanka Ports Authority (SLPA) after the former official complained to the EC citing the move was against the election laws.
+
+Minister Herath appointed the new Managing Director after replacing Prabath Malavige who has nearly ten years of service remaining. The move was done without prior notice to Malavige, SLPA officials told EconomyNext.
+
+“The complaint states that a new SLPA Managing Director has been appointed while asking to vacate the current MD Prabath J Malavige immediately from the post,” B P C Kularatne, the additional Election Commissioner in charge of law, investigations and planning at the EC wrote in a letter to the Secretary of the Port Ministry.
+
+...
+
+[Data](articles/c37b3b25.json)
+
+[Extended Data](ext_articles/c37b3b25.ext.json)
 
 ---
 
@@ -1476,6 +1542,24 @@ Former minister Nimal Siripala de Silva said this will be held this afternoon.
 
 ### Sri Lanka new govt proceeds with ISB deal, Citigroup to manage exchange
 
+*2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-proceeds-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
+
+ECONOMYNEXT – Sri Lanka will go ahead with a deal to restructure sovereign bond reached last month, with final confirmation on compliance with their parameters having come from both the International Monetary Fund and an Official Creditor Committee.
+
+Sri Lanka said the International Monetary Fund earlier gave informal confirmation that the sovereign bond agreement in principle (AIP) reached in September, with a ‘local option’ domestic banks was in line with the debt sustainability parameters.
+
+Final confirmation was received from both IMF on compliance with its debt sustainability parameters and official creditor committee on comparability of treatment.
+
+...
+
+[Data](articles/3ba9c9a5.json)
+
+[Extended Data](ext_articles/3ba9c9a5.ext.json)
+
+---
+
+### Sri Lanka new govt proceeds with ISB deal, Citigroup to manage exchange
+
 *2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-to-go-ahead-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
 
 ECONOMYNEXT – Sri Lanka will go ahead with a deal to restructure sovereign bond reached last month, with final confirmation on compliance with their parameters having come from both the International Monetary Fund and an Official Creditor Committee.
@@ -2195,99 +2279,5 @@ Jaishankar the first foreign dignitary outside the country to meet Dissanayake a
 [Data](articles/ccdd9805.json)
 
 [Extended Data](ext_articles/ccdd9805.ext.json)
-
----
-
-### Sri Lankans go abroad for employment
-
-*2024-10-04 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201841) · `si`
-
-Sri Lankans' foreign employment surge: 28,344 left in Sept 2023, 240,109 total in 9 months. Top destinations: Saudi Arabia (38,133), Israel (6,391), Japan (6,295).
-
-🟩
-
-In September 2023, Sri Lankans have increased to foreign employment in September 2023, according to the Sri Lanka Foreign Employment Bureau.
-
-The Bureau said that foreign substation has increased by 10%.
-
-Accordingly, 28,344 Sri Lankans left for foreign employment in September 2023 and in September 2023, 25,716 were departed for foreign employment.
-
-In the first nine months of the first nine months, the size of Sri Lankans, which have been for foreign employment, has been 240,109.
-
-It includes 99,939 workers and 142,170 male workers.
-
-70,396 skilled workers have been abroad during this period
-
-At the same time, 62,177 male workers and 8,219 female workers.
-
-In the first nine months of 2024, 17,649 workers have passed abroad and 3,704 Sri Lankans who have referred to semi-skilled jobs.
-
-In the first nine months of the first nine months, the largest number of Sri Lankans are in Saudi Arabia, and it is 38,133.
-
-...
-
-[Data](articles/17ad28ba.json)
-
-[Extended Data](ext_articles/17ad28ba.ext.json)
-
----
-
-### India’s Jaishankar calls on President Dissanayake
-
-*2024-10-04 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102447/indias-jaishankar-calls-on-president-dissanayake) · `en`
-
-The visiting India’s Minister of External Affairs Dr. S. Jaishankar has called on President Anura Kumara Dissanayake in Colombo this afternoon (04).
-
-Posting on ‘X’, Dr. Jaishankar stated that he conveyed the warm greetings of Indian President Droupadi Murmu and Prime Minister Narendra Modi for the appointment of President Dissanayake.
-
-The Indian External Affairs Minister said he appreciates Dissanayake’s “warm sentiments and guidance” for India-Sri Lanka relations.
-
-He also said that they discussed ways to deepen ongoing cooperation and strengthen India-Sri Lanka ties for the benefit of the people of the two countries and the region.
-
-Meanwhile, the new Sri Lankan president said that the discussions focused on boosting cooperation in tourism, energy, and investment.
-
-“Dr. Jaishankar reaffirmed India’s support for Sri Lanka’s economic recovery. The importance of continued collaboration on fisheries, security, and national unity was also discussed,” Dissanayake posted on ‘X’.
-
-◼️
-
-[Data](articles/8434e2b1.json)
-
-[Extended Data](ext_articles/8434e2b1.ext.json)
-
----
-
-### Indian Foreign Minister meets President
-
-*2024-10-04 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201840) · `si`
-
-Indian Foreign Minister Dr. S. Sahana Jayasankur met President Anura Kumara Dissanayake today. They discussed matters related to India-Sri Lanka relations. The meeting aimed to strengthen bilateral ties between the two nations.
-
-🟩
-
-Indian Foreign Minister Dr. S. Sahana. Jayasankur has held discussions with President Anura Kumara Dissanayake today (04).
-
-◼️
-
-[Data](articles/b79d27c5.json)
-
-[Extended Data](ext_articles/b79d27c5.ext.json)
-
----
-
-### SLBFE pauses registration of migrant workers to Lebanon
-
-*2024-10-04 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102446/slbfe-pauses-registration-of-migrant-workers-to-lebanon-) · `en`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) states that relatives of Sri Lankans working in war-affected Middle Eastern countries can access information regarding their family members or seek assistance by contacting the hotline number ‘1989’, amid the growing conflict situation in the region.
-
-Speaking to reporters regarding the recruitment of workers to Middle Eastern countries, Additional General Manager of International Affairs of the SLBFE Gamini Senarath Yapa confirmed that worker registration for Lebanon is currently suspended.
-
-“There is no immediate danger to Sri Lankans working in Israel or Lebanon despite the ongoing conflict situation. The Israeli government has implemented safety measures that all workers should follow. Relatives in Sri Lanka can contact us via the ‘1989’ hotline if they have any concerns,” Mr. Yapa explained.
-
-...
-
-[Data](articles/2d51d9e7.json)
-
-[Extended Data](ext_articles/2d51d9e7.ext.json)
 
 ---

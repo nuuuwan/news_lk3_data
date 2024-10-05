@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 17:08:09**
+As of **2024-10-05 17:23:17**
 
 ## Newspaper Stats
 
-*Scraped **47,917** Articles*
+*Scraped **47,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 3,235
 adalk | 4,427
 dailymirrorlk | 4,733
 adaderanalk | 5,643
-tamilmirrorlk | 6,458
+tamilmirrorlk | 6,460
 virakesarilk | 7,663
-adaderanasinhalalk | 8,297
+adaderanasinhalalk | 8,298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,917 (100.0%) of 47,917 articles have been extended.
+47,920 (100.0%) of 47,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### America and British Hoothies are looking for goals
+
+*2024-10-05 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201880) · `si`
+
+US-Britain airstrikes target Yemeni areas, hitting Iranian-backed Houthis. Israel attacks Lebanon, blocking Syrian route. Thousands flee Lebanon to Syria.
+
+🟩
+
+The US and Britain have launched airstrima to 15 Yemen's poorers.
+
+The Pentagon says the Hoouth Organization has targeted the Red Sea ship to ensure the safety of the road.
+
+Airstrikes included in the air strikes, including weapons and camps of Iran.
+
+Accordingly, Yemen's capital is attacked by several cities, including the planee town, the main port city city.
+
+Since November 2023, the Hoouth has attacked over 100 commercial vessels in the Red Sea.
+
+It is in a support to the Palestinian people who have been inaugurated in the Israeli attack.
+
+Meanwhile, Israel has attacked the Lebanon yesterday.
+
+It is said that the way to Syria to Syria is the only ground road from Lebanon.
+
+Thousands in Lebanon are jumping into Syria and they have been severely embarrassed by blocking the road.
+
+◼️
+
+[Data](articles/cb175632.json)
+
+[Extended Data](ext_articles/cb175632.ext.json)
+
+---
 
 ### Pirivena GCE Ordinary Level Examination Results
 
@@ -81,6 +115,52 @@ After considering the following, the Magistrate ordered that the suspects were r
 [Data](articles/3492d226.json)
 
 [Extended Data](ext_articles/3492d226.ext.json)
+
+---
+
+### New Director appointment to State Intelligence Service
+
+*2024-10-05 16:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-புலனாய்வு-சேவைக்கு-புதிய-பணிப்பாளர்-நியமனம்/175-344946) · `ta`
+
+Dhammika Kumara appointed Director State Intelligence Service replacing Major General Suresh Saleh after his retirement.
+
+🟩
+
+Deputy Inspector General of Police Dhammika Kumara has been appointed as the new Director of the State Intelligence Service (SIS).
+
+The appointment has been made following the retirement of Major General Suresh Saleh, who was previously in office.. Remble
+
+◼️
+
+[Data](articles/3bcf3450.json)
+
+[Extended Data](ext_articles/3bcf3450.ext.json)
+
+---
+
+### The President blessed the Mahanayaka Thera of the Amarapura Faculty
+
+*2024-10-05 16:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமரபுர-பீடத்தின்-மகாநாயக்க-தேரரிடம்-ஆசி-பெற்றார்-ஜனாதிபதி/175-344945) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+President Anuragumara Dissanayake blesses Mahanayaka Thera Karagoda Ungoda Maithrimoorthy. Amarapura Faculty Secretary present. Seth Brith recitation performed. Discussion with Maha Sangha on political-economic issues.
+
+🟩
+
+President Anuragumara Dissanayake today (05). Karagoda Ungoda Maithrimoorthy has met the Thera and blessed.
+
+The Secretary of the Amarapura Faculty also attended the event. Seth Brith was recited and blessed with the President.
+
+Subsequently, the President held a discussion with the Maha Sangha for a while to take up the current political and economic conditions.R
+
+◼️
+
+[Data](articles/14422ff7.json)
+
+[Extended Data](ext_articles/14422ff7.ext.json)
 
 ---
 
@@ -2191,61 +2271,5 @@ The team met with President Dissanayake, Prime Minister Harini Amarasuriya, Fore
 [Data](articles/0f574952.json)
 
 [Extended Data](ext_articles/0f574952.ext.json)
-
----
-
-### A major road near Temple Trees opens
-
-*2024-10-04 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201846) · `si`
-
-Major road near Temple Trees opens today. Connects to Rotton Roundabout via Aralagena Roundabout.
-
-🟩
-
-Road to Rotton Roundabout near the Aralagena Roundabout near the Aralagena Roundra was opened today (04).
-
-◼️
-
-[Data](articles/d60f7619.json)
-
-[Extended Data](ext_articles/d60f7619.ext.json)
-
----
-
-### Jaishankar meets Ranil, Sajith and Harini during Sri Lanka visit
-
-*2024-10-04 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102452/jaishankar-meets-ranil-sajith-and-harini-during-sri-lanka-visit) · `en`
-
-Indian Foreign Affairs Minister Dr. Subramaniam Jaishankar, who arrived in Sri Lanka on an official visit this morning, has met with Prime Minister Dr. Harini Amarasuriya, former President Ranil Wickremesinghe and former Opposition Leader Sajith Premadasa in separate meetings today.
-
-Earlier today, Jaishankar had called on Sri Lanka’s new President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo and also met with his Sri Lankan counterpart, Vijitha Herath at the Foreign Ministry.
-
-Posting on ‘X’ (formerly Twitter), after meeting Sri Lanka’s new prime minister, the Indian foreign minister said he conveyed good wishes for her new responsibility.
-
-“Discussed Digital Public Infrastructure, training and capacity building. Agreed to work together to advance our partnership,” he said.
-
-Following his meeting with Wickremesinghe, Jaishankar said he was glad to see the former President today and that he “thanked him for his efforts in advancing our ties in the last two years.”
-
-...
-
-[Data](articles/9991e3e7.json)
-
-[Extended Data](ext_articles/9991e3e7.ext.json)
-
----
-
-### Jaishankar extends invitation for President Dissanayake to visit India
-
-*2024-10-04 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102451/jaishankar-extends-invitation-for-president-dissanayake-to-visit-india) · `en`
-
-External Affairs Minister of India Dr. Subrahmanyam Jaishankar who was on a one-day official visit to Sri Lanka met with his Sri Lankan counterpart, Foreign Minister Vijitha Herath for bilateral talks at the Ministry of Foreign Affairs this afternoon (04). Earlier in the day, Minister Dr. Jaishankar was received on arrival at the Bandaranaike International Airport by Foreign Secretary Aruni Wijewardane.
-
-Dr. Jaishankar was the first high-level foreign dignitary to visit Sri Lanka after the government of President Anura Kumara Dissanayake assumed office on 22 September. The main objective of the visit of the External Affairs Minister of India was to congratulate the new President and the government and to demonstrate India’s commitment in moving forward with the strong bilateral partnership, the Ministry of Foreign Affairs said in a statement.
-
-...
-
-[Data](articles/5870d78c.json)
-
-[Extended Data](ext_articles/5870d78c.ext.json)
 
 ---

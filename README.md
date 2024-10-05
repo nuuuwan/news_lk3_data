@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-05 07:25:14**
+As of **2024-10-05 08:00:15**
 
 ## Newspaper Stats
 
-*Scraped **47,873** Articles*
+*Scraped **47,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,935
 dailyftlk | 3,235
 adalk | 4,425
 dailymirrorlk | 4,733
-adaderanalk | 5,631
-tamilmirrorlk | 6,450
+adaderanalk | 5,632
+tamilmirrorlk | 6,451
 virakesarilk | 7,661
-adaderanasinhalalk | 8,279
+adaderanasinhalalk | 8,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,873 (100.0%) of 47,873 articles have been extended.
+47,876 (100.0%) of 47,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-05 (Saturday)
+
+### Several spells of showers expected today
+
+*2024-10-05 06:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102458/several-spells-of-showers-expected-today) · `en`
+
+The Department of Meteorology says that several spells of showers will occur in Western and Sabaragamuwa provinces and in Galle and Matara districts today (05).
+
+Meanwhile, showers or thundershowers will occur at a few places in Northern, Eastern and Uva provinces during the afternoon or night, the Met. Department added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/0c512c20.json)
+
+[Extended Data](ext_articles/0c512c20.ext.json)
+
+---
+
+### Independent groups deposit bail to general election
+
+*2024-10-05 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201859) · `si`
+
+Independent groups deposit bail for general election. 36 groups submitted deposits in 22 electorate divisions. No party deposits in Matale. Janasetha Front nominated for Jaffna and Vanni. Nominations accepted on 11th.
+
+🟩
+
+This year's general election has been paid yesterday (04).
+
+The Elections Commission said that 36 independent groups have deposited only in yesterday's day.
+
+The independent groups have deposited by the independent groups in the 22 electorate divisions.
+
+However, the Commission said that no parties were deposited for the Matale electorate by yesterday.
+
+The Janasetha Front has handed over nominations for Jaffna and Vanni electorate and three independent groups have handed over nominations.
+
+The nomination commencement was commenced yesterday and the nominations to be accepted on the 11th of the 11th.
+
+◼️
+
+[Data](articles/40f3bb8b.json)
+
+[Extended Data](ext_articles/40f3bb8b.ext.json)
+
+---
 
 ### Several spells of showers to several provinces
 
@@ -219,6 +265,28 @@ The protest followed a series of offensive comments made by popular YouTube figu
 [Data](articles/1875c0e1.json)
 
 [Extended Data](ext_articles/1875c0e1.ext.json)
+
+---
+
+### Special Day for Distribution of Voter Card
+
+*2024-10-05 00:31:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகிக்கும்-விசேட-தினம்/175-344938) · `ta`
+
+Voter card distribution: Nov 27. Nomination deadline: Nov 11. Elections: Nov 14.
+
+🟩
+
+The process of receiving nominations for the parliamentary elections to be held on the 14th of November has begun yesterday.
+
+Accordingly, it has been announced that nominations for 22 election districts will be accepted through the respective District Election Officers until the 11th.
+
+Meanwhile, Deputy Post Office Rajitha Ranasinghe has said that the issuance of official voter cards will be carried out on the 27th of this month.. (A)
+
+◼️
+
+[Data](articles/e2681746.json)
+
+[Extended Data](ext_articles/e2681746.ext.json)
 
 ---
 
@@ -1006,17 +1074,15 @@ Former minister Nimal Siripala de Silva said this will be held this afternoon.
 
 ---
 
-### Sri Lanka new govt to go ahead with ISB deal, Citigroup to manage exchange
+### Sri Lanka new govt proceeds with ISB deal, Citigroup to manage exchange
 
 *2024-10-04 18:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-to-go-ahead-with-isb-deal-citigroup-to-manage-exchange-182363/) · `en`
 
-ECONOMYNEXT – Sri Lanka will go ahead with a restructure of international sovereign bonds, with final confirmation having come from both the International Monetary Fund and the Official Creditor Committee.
+ECONOMYNEXT – Sri Lanka will go ahead with a deal to restructure sovereign bond reached last month, with final confirmation on compliance with their parameters having come from both the International Monetary Fund and an Official Creditor Committee.
 
-Sri Lanka said the International Monetary Fund had earlier gave informal confirmation that the sovereign bond agreement in principle (AIP) with the local option was in line with the debt sustainability parameters.
+Sri Lanka said the International Monetary Fund earlier gave informal confirmation that the sovereign bond agreement in principle (AIP) reached in September, with a ‘local option’ domestic banks was in line with the debt sustainability parameters.
 
-“Following the Presidential Elections held in Sri Lanka on Saturday 21st September and the appointment of the new government on 24th of September, the Sri Lanka authorities confirm their endorsement of the program debt targets and the AIP terms as announced on 19th September and confirm their intention to expedite the implementation of the ISBs restructuring transaction in line with these terms.”
-
-Citigroup Global Markets has been appointed to manage the bond exchange which is expected to conclude in about 10 weeks.
+Final confirmation was received from both IMF on compliance with its debt sustainability parameters and official creditor committee on comparability of treatment.
 
 ...
 
@@ -2233,75 +2299,5 @@ If workers are hired for Lebanon, registration is not carried out at the moment.
 [Data](articles/f37dc6de.json)
 
 [Extended Data](ext_articles/f37dc6de.ext.json)
-
----
-
-### Israeli airstrikes rock southern suburbs of Beirut and cut off a key crossing into Syria
-
-*2024-10-04 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102442/israeli-airstrikes-rock-southern-suburbs-of-beirut-and-cut-off-a-key-crossing-into-syria) · `en`
-
-Israel carried out a series of massive airstrikes overnight in southern suburbs of Beirut and another that cut off the main border crossing between Lebanon and Syria.
-
-The new wave of strikes came after Israel warned people to evacuate communities in southern Lebanon that are outside a United Nations-declared buffer zone, as the yearlong conflict between Israel and the Lebanese militant group Hezbollah escalates.
-
-Israel launched a ground incursion into Lebanon on Tuesday and its forces have been clashing with Hezbollah militants in a narrow strip along the border. A series of attacks before the incursion killed some of the group’s key members, including longtime leader Hassan Nasrallah.
-
-Iran’s Foreign Minister Abbas Araghchi arrived on Friday in Beirut, where he was expected to discuss the war between Israel and Hezbollah with Lebanese officials.
-
-...
-
-[Data](articles/56e05af4.json)
-
-[Extended Data](ext_articles/56e05af4.ext.json)
-
----
-
-### Meeting of Foreign and Foreign Ministers
-
-*2024-10-04 14:12:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிவிவகார-வெளியுறவுத்துறை-அமைச்சர்கள்-சந்திப்பு/175-344917) · `ta`
-
-Dr. Subramaniam Jaishankar met Sri Lankan Foreign Minister Vijitha Herath during his official visit to Sri Lanka. They discussed key issues between India and Sri Lanka.
-
-🟩
-
-Indian External Affairs Minister Dr. Subramaniam Jaishankar, who has arrived in Sri Lanka on an official visit to Sri Lanka, held talks with Sri Lankan Foreign Minister Vijitha Herath.
-
-◼️
-
-[Data](articles/5553ca14.json)
-
-[Extended Data](ext_articles/5553ca14.ext.json)
-
----
-
-### I am satisfied;Ali Sabri started the lawyer business again
-
-*2024-10-04 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/195465) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former Foreign Minister Ali Sabri ends political career, returns to law practice. Served as Finance Minister, Foreign Minister during crises. Resumes lawyer business, citing satisfaction with public service.
-
-🟩
-
-I did everything I could in politics during the five years of the most challenging. I am satisfied with the service provided to the country. Former Foreign Minister Ali Sabri said he would no longer enter politics.
-
-In the last presidential election, a regime change and parliament was dissolved. Former Foreign Minister Ali Sabri has completely out of politics and has once again started his lawyer business.
-
-President's Attorney Ali Sabri posted a photo of his team on the social network yesterday (03), who started his previous lawyer business.
-
-President Attorney Ali Sabri has posted on the site so that I feel better about returning to my place.
-
-Ali Sabri, who entered the politics of 2020, came to Parliament on behalf of the Sri Lanka PA, and was appointed by the former President Gotabhaya Rajapakse as Justice.
-
-Later, the economic crisis was appointed as the Finance Minister during the Arakalai period and Ranil Wickremesinghe was appointed as the Foreign Minister after becoming President.
-
-...
-
-[Data](articles/feeff9b1.json)
-
-[Extended Data](ext_articles/feeff9b1.ext.json)
 
 ---

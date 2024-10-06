@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 08:03:34**
+As of **2024-10-06 08:25:49**
 
 ## Newspaper Stats
 
-*Scraped **47,972** Articles*
+*Scraped **47,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 395
 bbccomsinhala | 474
 colombotelegraphcom | 474
-islandlk | 2,835
+islandlk | 2,836
 economynextcom | 2,939
 dailyftlk | 3,235
 adalk | 4,429
 dailymirrorlk | 4,733
-adaderanalk | 5,648
+adaderanalk | 5,649
 tamilmirrorlk | 6,465
 virakesarilk | 7,674
 adaderanasinhalalk | 8,308
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,308
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,965 (100.0%) of 47,972 articles have been extended.
+47,965 (100.0%) of 47,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Afternoon thundershowers expected in most parts of the island
+
+*2024-10-06 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102475/afternoon-thundershowers-expected-in-most-parts-of-the-island) · `en`
+
+The Meteorology Department says the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island from today (06).
+
+Showers or thundershowers will occur at most places in the island during the afternoon or night.
+
+Showers may occur in Western, Sabaragamuwa, Northern and North-western provinces and in Galle, Matara and Trincomalee districts during the morning too, it added.
+
+Fairly heavy showers of about 75 mm are likely at some places in Northern, North-central, Eastern and Uva province.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/85a3d605.json)
+
+---
 
 ### 122 Independent Groups controlled
 
@@ -273,6 +293,18 @@ Q: Could you please share the ‘story’ behind the establishment of the Depart
 [Data](articles/002d568a.json)
 
 [Extended Data](ext_articles/002d568a.ext.json)
+
+---
+
+### The US Secret to Staying on Top – My Talk with George Friedman
+
+*2024-10-06 02:52:00* · [`islandlk`](http://island.lk/the-us-secret-to-staying-on-top-my-talk-with-george-friedman/) · `en`
+
+Forecasting geopolitics has been George Friedman’s life’s work; a historian renowned for his foresight into global shifts. In an era of global volatility, I had the opportunity to sit down with Friedman to discuss current world affairs, focusing on major powers such as the United States, Russia, and China. Notably, this was the first time he shared his insights on Sri Lanka, exploring its future in the context of a changing global landscape. As the founder of Geopolitical Futures and former chairman of Stratfor, Friedman’s experience and knowledge provided a comprehensive view of how global powers are shifting.
+
+...
+
+[Data](articles/97ffb495.json)
 
 ---
 
@@ -2287,39 +2319,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/ecf58013.json)
 
 [Extended Data](ext_articles/ecf58013.ext.json)
-
----
-
-### Burlington English making positive impact on Sri Lanka
-
-*2024-10-05 02:52:00* · [`islandlk`](http://island.lk/burlington-english-making-positive-impact-on-sri-lanka/) · `en`
-
-Burlington English, a global leader in English language learning and teaching, is making waves in Sri Lanka, following a successful expansion across India.With a mission to enhance the classroom environment and improve educational outcomes, the group’s Managing Director, Amit Baveja, is spearheading efforts to engage Sri Lankan educators with cutting-edge teaching practices and AI-integrated learning resources.
-
-Baveja, who oversees the South Asia and Southeast Asia markets, expressed excitement about the company’s foray into Sri Lanka.
-
-Speaking to The Island Financial Review he said: ‘After a remarkable journey in India, Sri Lanka is our natural next step. We are here to support educators and the education system by providing state-of-the-art English language learning resources.’ He highlighting the importance of quality education in a country where English proficiency is critical for economic and career growth.
-
-...
-
-[Data](articles/5ea23ad1.json)
-
-[Extended Data](ext_articles/5ea23ad1.ext.json)
-
----
-
-### SLT-MOBITEL offers unparalleled benefits with eSim services
-
-*2024-10-05 02:36:00* · [`islandlk`](http://island.lk/slt-mobitel-offers-unparalleled-benefits-with-esim-services/) · `en`
-
-SLT-MOBITEL is offering an easy and seamless way to join the network with its cutting-edge eSIM service. Powered by SLT-MOBITEL’s unparalleled 4G connectivity and extensive island-wide coverage, this proposition empowers customers to get connected within minutes—wherever you are.
-
-SLT-MOBITEL eSIM eliminates the need for a physical SIM card, enabling new customers to activate their preferred mobile connections digitally. This hassle-free solution not only offers convenience but also supports global digitalization and sustainability efforts. Whether at home or on the go, customers can enjoy unmatched data speeds backed by SLT-MOBITEL’s superior network coverage.
-
-...
-
-[Data](articles/9dbb258f.json)
-
-[Extended Data](ext_articles/9dbb258f.ext.json)
 
 ---

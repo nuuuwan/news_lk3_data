@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 14:10:55**
+As of **2024-10-06 14:23:03**
 
 ## Newspaper Stats
 
-*Scraped **48,019** Articles*
+*Scraped **48,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,436
 dailymirrorlk | 4,733
 adaderanalk | 5,657
-tamilmirrorlk | 6,481
+tamilmirrorlk | 6,482
 virakesarilk | 7,680
 adaderanasinhalalk | 8,314
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,314
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,019 (100.0%) of 48,019 articles have been extended.
+48,020 (100.0%) of 48,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### 50 people who looted the woman;Allow the video to watch the video
+
+*2024-10-06 13:57:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பெண்ணை-சூறையாடிய-50-பேர்-வீடியோவை-மக்களும்-பார்க்க-அனுமதி/50-344975) · `ta`
+
+Here's a 200-character summary:
+
+
+
+French man drugged wife, brought 50+ people for sex. Wife sues, demands public screening of video evidence. Husband faces 20-year sentence if convicted. Case sparks debate on victim rights and public access to sensitive content.
+
+🟩
+
+There has been an incident in France that the husband gave his wife anesthesia and brought more than 50 people in the absence of self -consciousness.
+
+Kischel Feligot is a resident of France. Her husband is Dominic Beligot. Kissell's husband, Dominic, has been unaware of her for almost 10 years, giving her an anesthetic at home, and when he is not self -conscious, he has brought out the outsiders.. This is photographers, videos and filmed. This detail was recently revealed to the police. In 2020, a Supermarket was arrested by the police, while the Tominic film was held with a secret camera, unaware of them in the underwear of 3 women.. Subsequently, the police inspected his computer and investigated the shocking reports.
+
+...
+
+[Data](articles/08b2d9d0.json)
+
+[Extended Data](ext_articles/08b2d9d0.ext.json)
+
+---
 
 ### Two other matches of Women's World Cup today
 
@@ -2435,25 +2459,5 @@ Police have arrested a 38-year-old suspect in the Colombo 12 area regarding the 
 [Data](articles/977eb795.json)
 
 [Extended Data](ext_articles/977eb795.ext.json)
-
----
-
-### New Director appointed to State Intelligence Service
-
-*2024-10-05 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195553) · `ta`
-
-Dhammika Kumara named new Director of State Intelligence Service after Major General Suresh Saleh retires.
-
-🟩
-
-Deputy Inspector General of Police Dhammika Kumara has been appointed as the new Director of the State Intelligence Service (SIS).
-
-The appointment has been made following the retirement of Major General Suresh Saleh.
-
-◼️
-
-[Data](articles/3db96f20.json)
-
-[Extended Data](ext_articles/3db96f20.ext.json)
 
 ---

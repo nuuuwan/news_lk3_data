@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 23:22:50**
+As of **2024-10-06 23:38:51**
 
 ## Newspaper Stats
 
-*Scraped **48,070** Articles*
+*Scraped **48,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,940
 dailyftlk | 3,235
 adalk | 4,444
 dailymirrorlk | 4,733
-adaderanalk | 5,664
+adaderanalk | 5,665
 tamilmirrorlk | 6,489
 virakesarilk | 7,700
 adaderanasinhalalk | 8,322
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,322
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,070 (100.0%) of 48,070 articles have been extended.
+48,071 (100.0%) of 48,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Police security for former President Ranil to remain unchanged
+
+*2024-10-06 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102490/police-security-for-former-president-ranil-to-remain-unchanged) · `en`
+
+The Police Spokesman DIG Nihal Thalduwa has confirmed that the security detail for former President Ranil Wickremesinghe, which includes 50 Special Task Force (STF) personnel, will remain unchanged.
+
+However, he noted that the necessary number of personnel required for the former president’s security will be reviewed and allocated soon.
+
+◼️
+
+[Data](articles/331a0872.json)
+
+[Extended Data](ext_articles/331a0872.ext.json)
+
+---
 
 ### The Women's T20 World Cup against Scotland won by 6 wickets
 
@@ -2489,23 +2505,5 @@ The promotion aims to create lasting memories for policyholders and has previous
 [Data](articles/19c9a29c.json)
 
 [Extended Data](ext_articles/19c9a29c.ext.json)
-
----
-
-### Uninotes.lk: A game-changer for Lankan students seeking courses
-
-*2024-10-06 04:24:00* · [`islandlk`](http://island.lk/uninotes-lk-a-game-changer-for-lankan-students-seeking-courses/) · `en`
-
-Launched in 2024, Uninotes.lk is a transformative platform that helps Sri Lankan students find suitable courses from local and globally recognized universities. The user-friendly interface allows students to filter and browse over 1,000 courses, facilitating direct inquiries to universities with minimal effort. Uninotes.lk offers a diverse range of programs, from certificates to PhDs, and partners with universities to provide scholarships, enhancing accessibility to higher education. With global accessibility, the platform empowers students to make informed decisions about their educational paths, contributing to a more skilled workforce in Sri Lanka.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/aa301539.json)
-
-[Extended Data](ext_articles/aa301539.ext.json)
 
 ---

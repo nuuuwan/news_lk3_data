@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 20:57:19**
+As of **2024-10-06 21:08:34**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 8,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,057 (100.0%) of 48,059 articles have been extended.
+48,059 (100.0%) of 48,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
 
-### பட்டம் விட்ட சிறுவர்கள் மின்சாரம் தாக்கி மரணம்
+### Death
 
 *2024-10-06 20:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டம்-விட்ட-சிறுவர்கள்-மின்சாரம்-தாக்கி-மரணம்/175-345006) · `ta`
 
-13 வயது சிறுவர்கள் இருவர் பட்டம் விட்டு விளையாடும் போது, அதி சக்திவாய்ந்த  மின்சாரம் தாக்கி மருத்துவமனைக்கு கொண்டு செல்லப்பட்ட போது உயிரிழந்ததாக பண்டாரகம பொலிஸார் தெரிவிக்கின்றனர்.
+Two 13-year-old boys died after being electrocuted while playing near a high-voltage power supply in Bandaragama, Sri Lanka. They were rushed to the hospital but succumbed to injuries. The incident occurred during their graduation celebration on the third floor of a three-story building. Neighbors reported hearing loud noises before the tragedy unfolded.
 
-பண்டாரகம அடலுகம குருந்துவத்தையில் உள்ள மூன்று மாடி வீட்டின் மேல் மாடியில் குறித்த சிறுவர்கள் பட்டம் விட்டுக்கொண்டு இருந்தனர்.
+🟩
 
-இதன்போது, மின்சாரம் சிறுவர்களை தாக்கியதில் பலத்த வெடிச் சத்தம் கேட்ட நிலையில், சிறுவர்களின் உடலில் மின்சாரம் தாக்கி எரிந்துள்ளனர்.
+Bandaragama police say that two 13 -year -old boys died when they were taken to the hospital when they were a powerful power supply.
 
-அருகிலுள்ளவர்கள் சிறுவர்களை வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போதும், அவர்கள் உயிரிழந்ததாக தெரிவித்துள்ளனர். R
+The boys were graduating on the top floor of a three -storey house in Bandaragama Adalugama Kurunduwatta.
+
+During this time, the boys were burned to the body of the boys, hearing the noise of the power of the children.
+
+Though the neighbors were taken to the hospital, they said they died. Remble
 
 ◼️
 
 [Data](articles/8087a909.json)
+
+[Extended Data](ext_articles/8087a909.ext.json)
 
 ---
 
@@ -350,25 +356,41 @@ Hanwella police are conducting further investigations into the incident as the w
 
 ---
 
-### ඝාතනයක් බවට සැක ව්‍යාපාරික අඹුසැමි යුවලකගේ මළසිරුරු නිවසේ සාලයේ
+### Body of a couple of couple at home
 
 *2024-10-06 17:28:41* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතනයක්-බවට-සැක-ව්‍යාපාරික-අඹුසැමි-යුවලකගේ-මළසිරුරු-නිවසේ-සාලයේ/11-412331) · `si`
 
-රෙදිපටියකින් මුහුණ ගැටගසා ව්‍යාපාරිකයෙකු සහ ඔහුගේ බිරිඳ නිවස තුල ඝාතනය කර ඇති බවට ලද තොරතුරක් ඔස්සේ  වැලිපැන්න පොලිසිය පරීක්ෂණ ආරම්භ කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-මෙසේ ඝාතනයට ලක්ව  ඇත්තේ වැලිපැන්න අලුත්ගම පාරේ පදිංචිව සිටී විජිත ඈපා සෙනවිරත්න නමැති  75 හැවිරිදි ව්‍යාපාරිකයෙකු සහ ඔහුගේ බිරිද වන චන්ද්‍රා සෙනරත් නමැති  67 හැවිරිදි ව්‍යාපාරික කාන්තාවක බව පොලිසිය සදහන් කරයි .
 
-වැලිපැන්න මුස්ලිම් විද්‍යාලය අසල නිවසක ඝාතනය කල බවට සැක ව්‍යාපාරික  අඹුසැමි යුවලකගේ මළසිරුරු දෙකක් තිබෙන බවට ලද තොරතුරක් ඔස්සේ පරීක්ෂණ කිරීමේදී නිවසේ සාලයේ තිබී මළසිරුරු දෙක හමුවූ බවත්  පොලිසිය කීය .
 
-නිවසේ සාලයේ පිරිමි පුද්ගලයාගේ මුහුණ රෙදි පටියකින් ගැටගැසූ මළසිරුරු තිබී ඇති අතර , ඊට ආසන්නයේ ඔහුගේ බිරිද ගේ  මුණින් අතට වැටී තිබූ මළසිරුර හමුව තිබේ.
+Welipenna police investigating murder of couple at home. Bodies found at Muslim school. No children, significant property. Further investigation ongoing involving local authorities.
 
-නිවසේ පිටිපස දොර අඩවල් කර තිබී ඇති අතර , විදුලි පහන් කිහිපයක් දැල්වෙමින් පවතින බවද දැකගත හැකිවිය .
+🟩
 
-මියගොස් ඇති ව්‍යාපාරික අඹුසැමි වතු කිහිපයක් සහ  ගල් කොරියක් හිමි ව්‍යාපාරික යුවලක් බවත් , ඔවුන්ට දරුවන් නොමැති බවද පැවසේ.
+The Welipenna police have commenced investigations through a fair manner and his wife had been killed in the house.
 
-...
+The victim has been identified as Welipenna, Welipenna.
+
+Police said that two bodies of a couple of couple who were killed at the Welipenna Muslim Vidyalaya have been found that two bodies have been found.
+
+The male's face of the house was found in a fabric of a fabric man, and his wife's handling was found to meet the body.
+
+The backdrop of the house was situated and the lights were fired.
+
+It is said that they have no children and a large number of estates and a stone lame trees that have been deceased.
+
+The police also said that the man's blood flowing with one's ear.
+
+The Welipenna Police say that the Matugama Magistrate's inquiry is scheduled to investigate Kalutara Divisional Secretariat.
+
+Kalutara Crimes Division, Kalutara Criminal Investigation Unit and Welipenna Police are conducting further investigations.
+
+◼️
 
 [Data](articles/fb613a5b.json)
+
+[Extended Data](ext_articles/fb613a5b.ext.json)
 
 ---
 

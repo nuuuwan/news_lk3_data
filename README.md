@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 06:11:22**
+As of **2024-10-06 06:44:23**
 
 ## Newspaper Stats
 
-*Scraped **47,953** Articles*
+*Scraped **47,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,648
 tamilmirrorlk | 6,463
 virakesarilk | 7,674
-adaderanasinhalalk | 8,306
+adaderanasinhalalk | 8,307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,953 (100.0%) of 47,953 articles have been extended.
+47,954 (100.0%) of 47,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Thundershowers at several places
+
+*2024-10-06 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201889) · `si`
+
+Thunderstorms expected in Western, Sabaragamuwa, Northern, and Northwestern provinces. Heavy showers predicted in Galle, Matara, and Trincomalee districts. Public advised to be cautious due to potential lightning accidents.
+
+🟩
+
+The Meteorological Department says that at the evening of the evening in many parts of the island, the Met Department said.
+
+The department states that showers or thundershowers will occur at night or night in many parts of the island.
+
+Showers in the Western, Sabaragamuwa, Northern and Northwestern provinces and in the Galle, Matara and Trincomalee districts.
+
+MM to some places in the Northern, North Central, Eastern and Uva provinces. The Met Department announces heavy showers about 75%.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/0e3f9dcf.json)
+
+[Extended Data](ext_articles/0e3f9dcf.ext.json)
+
+---
 
 ### The President blessed the Maha Nayaka Thera of the Ramanya Peetha
 
@@ -2319,21 +2345,5 @@ There is a need to transform food systems in the face of the climate crisis and 
 [Data](articles/b5672bb5.json)
 
 [Extended Data](ext_articles/b5672bb5.ext.json)
-
----
-
-### Letter to the President: Clarion call for fairness
-
-*2024-10-04 23:37:08* · [`dailyftlk`](https://www.ft.lk/columns/Letter-to-the-President-Clarion-call-for-fairness/4-767566) · `en`
-
-For an extended period, I have asserted that I was an ‘accidental’ Sri Lankan by birth. Now, I express a measured optimism in my hope that you can serve as a President for all, not by deepening Sri Lanka’s past racial divisions, but instead by focusing on strengthening the present bonds between all Sri Lankans. Despite our backgrounds, there is a basic universal truth: we always have more in common than different across all races, religions, and political ideologies
-
-A fair, stable and prosperous Sri Lanka must be a nation that is relentless in its commitment to reconciliation, addressing current grievances of minorities and past injustices while ensuring that no community thrives at the expense of another. Because true peace is built on the foundation of fairness and dignity for all
-
-...
-
-[Data](articles/3dfd54ab.json)
-
-[Extended Data](ext_articles/3dfd54ab.ext.json)
 
 ---

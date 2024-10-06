@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 00:55:53**
+As of **2024-10-07 01:08:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,076 (100.0%) of 48,078 articles have been extended.
+48,077 (100.0%) of 48,078 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -111,6 +111,8 @@ The weakness in this Vel Palama equation is that it seeks to resolve the economi
 ...
 
 [Data](articles/994ccdb3.json)
+
+[Extended Data](ext_articles/994ccdb3.ext.json)
 
 ---
 

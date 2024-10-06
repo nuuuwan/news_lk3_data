@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 13:39:14**
+As of **2024-10-06 13:58:08**
 
 ## Newspaper Stats
 
-*Scraped **48,016** Articles*
+*Scraped **48,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ dailymirrorlk | 4,733
 adaderanalk | 5,657
 tamilmirrorlk | 6,481
 virakesarilk | 7,680
-adaderanasinhalalk | 8,313
+adaderanasinhalalk | 8,314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,016 (100.0%) of 48,016 articles have been extended.
+48,017 (100.0%) of 48,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Two teachers sharing knowledge aside by disorders
+
+*2024-10-06 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201896) · `si`
+
+Here's a 200-character summary:
+
+
+
+World Teachers' Day honors educators globally. In Sri Lanka, it's celebrated on Oct 6th. Two inspiring teachers share knowledge despite disabilities. Samantha Bandara teaches computer skills to students. These dedicated educators serve as role models, demonstrating courage and commitment to education.
+
+🟩
+
+Teachers are assigned to teachers to create a future generation with knowledge and good gains.
+
+On October 5, the world teacher day is named as world teachers' day to evaluate the special task.
+
+Parallel to this, in Sri Lanka will celebrate the teachers' day on October 6.
+
+The main objective of the teachers' day is the evaluation of committed teachers who have dedicated to more definition of their role.
+
+The UNESCO has been named as World Teachers Day on October 05 and the most important role of teachers in over 100 countries worldwide.
+
+Meanwhile, teachers are the highly recognized in our society today.
+
+We meet two teachers who committed to their children with their disorders from the Amispattuwa National School in Kandy.
+
+The teacher loses one hand, even if there is no shortcomings.
+
+She lost a hand today as a teacher as a teacher today as a result of the loss of a hand.
+
+Samantha Bandara, who is the same school, is a similar Great Teacher.
+
+...
+
+[Data](articles/63a9fc03.json)
+
+[Extended Data](ext_articles/63a9fc03.ext.json)
+
+---
 
 ### Tamil parties join in Ampara and Trincomalee Districts?
 
@@ -2405,29 +2445,5 @@ This appointment comes following the retirement of former Director of the SIS Ma
 [Data](articles/dbd72a17.json)
 
 [Extended Data](ext_articles/dbd72a17.ext.json)
-
----
-
-### New Director of State Intelligence Service DIG Dhammika Kumara
-
-*2024-10-05 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201871) · `si`
-
-Here's a 200-character summary:
-
-
-
-DIG Dhammika Kumara named new Director of State Intelligence Service. Replaces Major General Suresh Sureei upon retirement.
-
-🟩
-
-DIG Dhammika Kumara has been appointed as the new Director of State Intelligence Service.
-
-It is reported that Major General Suresh Sureei has been appointed as the new director after his retirement.
-
-◼️
-
-[Data](articles/f5836f64.json)
-
-[Extended Data](ext_articles/f5836f64.ext.json)
 
 ---

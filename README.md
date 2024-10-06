@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 16:11:46**
+As of **2024-10-06 16:55:46**
 
 ## Newspaper Stats
 
-*Scraped **48,029** Articles*
+*Scraped **48,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,135 @@ dailyftlk | 3,235
 adalk | 4,438
 dailymirrorlk | 4,733
 adaderanalk | 5,659
-tamilmirrorlk | 6,483
-virakesarilk | 7,682
-adaderanasinhalalk | 8,316
+tamilmirrorlk | 6,484
+virakesarilk | 7,685
+adaderanasinhalalk | 8,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,029 (100.0%) of 48,029 articles have been extended.
+48,034 (100.0%) of 48,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### China
+
+*2024-10-06 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195624) · `ta`
+
+Here's a 200-character summary:
+
+
+
+China's diplomatic strategy in Sri Lanka avoided accusations of "debt trap diplomacy" similar to those faced in India and the West. This approach contrasted with the Rajapaksa regime's downfall due to such claims.
+
+🟩
+
+India and the West's continued allegations of debt trap diplomacy have affected China more. It was through this campaign that the Rajapaksa dynasty in Sri Lanka was removed from power. China could not tolerate this.
+
+China was careful not to bring witchcraft for China's diplomacy and politics in Sri Lanka, just as the allegations of debt -diplomacy caused witchcraft in the politics of Rajapakse.
+
+◼️
+
+[Data](articles/66f49229.json)
+
+[Extended Data](ext_articles/66f49229.ext.json)
+
+---
+
+### Is the Indian attitude change?
+
+*2024-10-06 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195626) · `ta`
+
+India's stance towards Sri Lanka remains unchanged despite regional shifts. New Delhi continues to prioritize stability in its southern neighbor, unaffected by geopolitical developments in neighboring countries. The relationship is built on mutual trust and cooperation, with both nations prioritizing pragmatic solutions over ideological differences.
+
+🟩
+
+India has the most relying on Sri Lanka, regardless of regional political and geopolitical matters and security matters. With the regime changes in countries like Bangladesh and Nepal, New Delhi is trying to make Sri Lanka's regime change as a favorable.. Both sides have come to a position to believe in the "fighter rather than the witness."
+
+◼️
+
+[Data](articles/0aba64ea.json)
+
+[Extended Data](ext_articles/0aba64ea.ext.json)
+
+---
+
+### 56 Pakistanis released
+
+*2024-10-06 15:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/56-பாகிஸ்தானியர்கள்-விடுவிப்பு/175-344986) · `ta`
+
+56 Pakistanis freed in Sri Lanka: 51 men, 5 women, flown to Pakistan after detention for drugs and crimes.
+
+🟩
+
+The airport officer confirmed that 56 Pakistani national prisoners who had been detained in Sri Lanka for drug allegations and other crimes were handed over to the Katunayake airport on Sunday (06).
+
+The group includes 51 male prisoners and the remaining 05 female prisoners.
+
+A special flight from Pakistan arrived at the Katunayake airport on Sunday (06) at 03.00 pm to take the prisoners to the prisoners' transfer program, which will be implemented several years later.
+
+The airport official added that there are more than one hundred Pakistani national prison officials on the plane.
+
+The Pakistani prisoners said that the prisoners' hands were placed in the hands of the prisoners until they were taken to prisons across Sri Lanka, including Colombo and Welikada, until they were handed over to Pakistani prison authorities.
+
+The Pakistani special aircraft will be traveling from Katunayake airport to Pakistan at 05.30 pm.
+
+◼️
+
+[Data](articles/63b2fcda.json)
+
+[Extended Data](ext_articles/63b2fcda.ext.json)
+
+---
+
+### A new program to search for people who have not paid taxes
+
+*2024-10-06 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201899) · `si`
+
+New tax enforcement program: Inland Revenue Department targets unpaid taxpayers. Commissioner announces launch tomorrow. Income target exceeded, department to recover from identified defaulters through legal means.
+
+🟩
+
+2023/2024 The Inland Revenue Department has decided to implement a tax on the premises of those who have not done tax payments in relation to the valuation year.
+
+Commissioner General of Inland Revenue Seal Palika Chandrasekera said that the program would be launched tomorrow.
+
+The Inland Revenue Department has charged as taxes of Rs 1417 billion in September this year.
+
+The income target for the year 2024 was over 70 percent of Rs. 2024 billion.
+
+However, the Inland Revenue Department has decided to go to their premises as they have been identified as taxpayers payable to payments.
+
+Accordingly, the Department will take immediate action to be immediate recovery towards immediate recovery to the legal procedure.
+
+◼️
+
+[Data](articles/34b6e594.json)
+
+[Extended Data](ext_articles/34b6e594.ext.json)
+
+---
+
+### Will the Northern Maritime Department be revived in the new regime?
+
+*2024-10-06 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195627) · `ta`
+
+Northern Maritime Department revival uncertain under new regime. Indian fishermen border crossings long-standing issue affecting 200k livelihoods. New government must address Tamil Nadu's reckless policies to resolve crisis.
+
+🟩
+
+Indian fishermen crossed the border have been a serious solution for decades after decades, and the livelihood of about two hundred thousand fishermen who lived in the sector have been badly affected by the reckless activities of the Tamil Nadu government.. It is not allowed to continue further. The new government needs to find a mechanism for resolving it.
+
+◼️
+
+[Data](articles/6360e483.json)
+
+[Extended Data](ext_articles/6360e483.ext.json)
+
+---
 
 ### President visits the Kattuvapitti temple
 
@@ -54,29 +170,9 @@ He emphasized the importance of a legitimate and open investigation.
 
 ---
 
-### The bodies of the dead couple found in a house
-
-*2024-10-06 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201898) · `si`
-
-Dead couple found in house: Police investigate murder in Welipenna. Bodies discovered during inquiry led by Kalutara Division Criminal Investigations Officers.
-
-🟩
-
-The Welipenna police stated that two bodies of a couple of a resident of Welipenna were arrested in suspicion of a house in Welipenna.
-
-Kalutara Division Criminal Investigations Officers conducting an inquiry into the incident.
-
-◼️
-
-[Data](articles/078c636d.json)
-
-[Extended Data](ext_articles/078c636d.ext.json)
-
----
-
 ### Samasti - Traditional Tamil Homeland - International mechanism for war crimes - JVP -British Tamil Congress opposed peace efforts
 
-*2024-10-06 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195625) · `ta`
+*2024-10-06 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195625) · `ta`
 
 Here's a summary of the text in approximately 200 characters:
 
@@ -105,6 +201,26 @@ During his student period, Anuragumaratisanayaka joined the JVP, the anti -Tamil
 [Data](articles/8a5e2f78.json)
 
 [Extended Data](ext_articles/8a5e2f78.ext.json)
+
+---
+
+### The bodies of the dead couple found in a house
+
+*2024-10-06 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201898) · `si`
+
+Dead couple found in house: Police investigate murder in Welipenna. Bodies discovered during inquiry led by Kalutara Division Criminal Investigations Officers.
+
+🟩
+
+The Welipenna police stated that two bodies of a couple of a resident of Welipenna were arrested in suspicion of a house in Welipenna.
+
+Kalutara Division Criminal Investigations Officers conducting an inquiry into the incident.
+
+◼️
+
+[Data](articles/078c636d.json)
+
+[Extended Data](ext_articles/078c636d.ext.json)
 
 ---
 
@@ -2307,147 +2423,5 @@ Books will be a motivation for a life of discipline and a meaningful quest for t
 [Data](articles/0ba8aac1.json)
 
 [Extended Data](ext_articles/0ba8aac1.ext.json)
-
----
-
-### Actor Jeeva's upcoming film 'Black'
-
-*2024-10-05 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195575) · `ta`
-
-Jeeva's 'Black' film: Director Balasubramani, stars Priya Bhavani Shankar, Vivek Prasanna. Produced by SR Prakash Babu, SR Prabhu. Release date: 11th month. Comparison with Rajinikanth's 'Vettayan'. Commercial success uncertain.
-
-🟩
-
-Actor Jeeva has been officially announced with a special photo of the release date of the movie 'Black'.
-
-Director K. G. Jeeva, Priya Bhavani Shankar, Vivek Prasanna, Swayam Siddha, Yok JP and many others have starred in the film 'Black' directed by Balasubramani.
-
-Sam C for the film, which has been recorded by Gokul Pinoy. S.. Has composed.
-
-The film is being produced by Horror Thriller Janer and produced by SR Prakash Babu, SR Prabhu, Gopinath and Gold Prabhakaran on behalf of Pottansal Studio LP.
-
-The film's Burst Luk and the preview were released. In this case, the film crew has announced that the film will be released on the 11th of this month at the world.
-
-In the meantime, the film 'Vettayan', which is set to star in Super Star Rajinikanth on October 10, will be released in the film mansion and the next day is the film 'Black', which is being produced by Jeeva, so will the film be a commercial success?It is noteworthy that the filmmakers are skeptical.
-
-◼️
-
-[Data](articles/be289065.json)
-
-[Extended Data](ext_articles/be289065.ext.json)
-
----
-
-### The announcement of the release date of 'Sir' starring Wimal
-
-*2024-10-05 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195571) · `ta`
-
-'Sir' starring Vimal releases on 18th. Directed by Bose Venkat, music by Inion J. Sidhu Kumar. Produced by SS Pictures.
-
-🟩
-
-The film crew has officially released a special photo of the film 'Sir', which played the lead role as the hero of the story of Vimal, one of the star actors of the Tamil film industry.
-
-Vimal, Saya Devi Kannan, S Sir Sir, directed by actor and director Bose Venkat. Siraj, 'Cotuthiveeran' Saravanan, Rama, 'Aadukalam' Jayapalan and many others.
-
-Inion J. Sidhu Kumar has composed the film, which has been recorded by Harris.
-
-Producer SS Pictures on behalf of SS Pictures. Produced by Siraj and Nilofer Siraj.
-
-The film, which was waiting for all the work to be completed and the release of the film, has been announced on the 18th of this month at the film House.
-
-Meanwhile, the film 'Polam is not too far from the beginning of this year and has been a huge success, and that the film, which is being produced by Wimal's performance, has received great support among the filmmakers.
-
-◼️
-
-[Data](articles/c61f0306.json)
-
-[Extended Data](ext_articles/c61f0306.ext.json)
-
----
-
-### Actor Silambarasan's 'Rocket Driver' image preview
-
-*2024-10-05 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195570) · `ta`
-
-"Rocket Driver" film preview: Silambarasan stars alongside Vishwath. Directed by Sri Ram Ananda Shankar, it features magic realism. Hero inspired by Abdul Kalam. Kaushik Girish composed music. Reginald Surya Thomas handled recording.
-
-🟩
-
-The preview of the new film 'Rocket Driver' starring Vishwath's story has been released.
-
-Silambarasan, the leading star actor of the Tamil film industry, posted this on his web page and congratulated the film crew.
-
-Directed by director Sri Ram Ananda Shankar, Vishwat, Naga Vishal, Sunina, Khadi Ramamurthy, Jagan and many others have starred in the film 'Rocket Driver'.
-
-Kaushik Girish has composed the film, which has been recorded by Regimal Surya Thomas.
-
-The film is being produced in Fantasy Janer, focusing on magic realistic life.
-
-Commenting on the film, the director said, “Abdul Kalam, the late Indian President, is a role model for the hero of the driver of Otto.
-
-He meets young Abdul Kalam while running Otto vehicle. At that moment, his life is unexpectedly twist.
-
-The appearance of young Abdul Kalam in the preview of the film. The expectation of the film has increased as his speeches have attracted the attention of the audience.
-
-◼️
-
-[Data](articles/ab555c91.json)
-
-[Extended Data](ext_articles/ab555c91.ext.json)
-
----
-
-### Lebanon hospitals close as Israeli strikes hit health facilities
-
-*2024-10-05 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102470/lebanon-hospitals-close-as-israeli-strikes-hit-health-facilities) · `en`
-
-At least four hospitals in Lebanon announced on Friday that they were suspending work because of Israeli strikes, while a Hezbollah-affiliated health organisation said that 11 paramedics had been killed in the past 24 hours.
-
-The four closures capped two weeks of Israeli strikes on hospitals and healthcare workers in Lebanon that have shuttered at least 37 facilities and killed dozens of medical staff, according to the World Health Organisation.
-
-Late on Friday night, the Israeli army issued a statement alleging that Hezbollah was using medical vehicles to transport fighters and weapons, warning that it would strike any vehicle it suspected of being used for military purposes.
-
-Hospital staff in southern Lebanon told the BBC that health facilities treating wounded civilians had been hit with direct Israeli strikes. The BBC has approached the IDF for comment.
-
-...
-
-[Data](articles/fb76566c.json)
-
-[Extended Data](ext_articles/fb76566c.ext.json)
-
----
-
-### America and British Hoothies are looking for goals
-
-*2024-10-05 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201880) · `si`
-
-US-Britain airstrikes target Yemeni areas, hitting Iranian-backed Houthis. Israel attacks Lebanon, blocking Syrian route. Thousands flee Lebanon to Syria.
-
-🟩
-
-The US and Britain have launched airstrima to 15 Yemen's poorers.
-
-The Pentagon says the Hoouth Organization has targeted the Red Sea ship to ensure the safety of the road.
-
-Airstrikes included in the air strikes, including weapons and camps of Iran.
-
-Accordingly, Yemen's capital is attacked by several cities, including the planee town, the main port city city.
-
-Since November 2023, the Hoouth has attacked over 100 commercial vessels in the Red Sea.
-
-It is in a support to the Palestinian people who have been inaugurated in the Israeli attack.
-
-Meanwhile, Israel has attacked the Lebanon yesterday.
-
-It is said that the way to Syria to Syria is the only ground road from Lebanon.
-
-Thousands in Lebanon are jumping into Syria and they have been severely embarrassed by blocking the road.
-
-◼️
-
-[Data](articles/cb175632.json)
-
-[Extended Data](ext_articles/cb175632.ext.json)
 
 ---

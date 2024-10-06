@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 08:58:59**
+As of **2024-10-06 09:13:17**
 
 ## Newspaper Stats
 
-*Scraped **47,981** Articles*
+*Scraped **47,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,96 @@ colombotelegraphcom | 474
 islandlk | 2,836
 economynextcom | 2,939
 dailyftlk | 3,235
-adalk | 4,429
+adalk | 4,430
 dailymirrorlk | 4,733
 adaderanalk | 5,651
 tamilmirrorlk | 6,468
 virakesarilk | 7,674
-adaderanasinhalalk | 8,310
+adaderanasinhalalk | 8,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,973 (100.0%) of 47,981 articles have been extended.
+47,978 (100.0%) of 47,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
 
-### இலங்கையில் சர்ச்சையை ஏற்படுத்திய ஜீப் வண்டி
+### A terrible flooding condition in Mexico
+
+*2024-10-06 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201893) · `si`
+
+Flooding in Oaxaca, Mexico: Heavy rains displace hundreds, flood cities, relief efforts underway. Weather warning issued for upcoming days.
+
+🟩
+
+Foreign media reports that hundreds of people are displaced in the Ohacaots State.
+
+In Mexico, heavy rains and floods, including heavy rains and floods, have reported.
+
+Accordingly, many cities in the state have been flooded by foreign media.
+
+Accordingly, relief workers had taken steps to refer to the affected groups to protective places.
+
+A few relief teams have been deployed to assist personnel affected man.
+
+The Mexican weather authorities had warned that heavy showers from Ohacaoting in the next few days.
+
+◼️
+
+[Data](articles/3e0fe30f.json)
+
+[Extended Data](ext_articles/3e0fe30f.ext.json)
+
+---
+
+### Jeep cart that caused controversy in Sri Lanka
 
 *2024-10-06 08:31:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-சர்ச்சையை-ஏற்படுத்திய-ஜீப்-வண்டி/175-344956) · `ta`
 
-சட்டவிரோதமான முறையில் இலங்கைக்கு கொண்டு வரப்பட்டு அரசாங்கத்திற்கு செலுத்த வேண்டிய வரியை செலுத்தாமல் நஷ்டத்தை ஏற்படுத்திய ஜீப் வண்டியொன்று இலஞ்ச ஊழல் ஆணைக்குழுவினால் கைப்பற்றப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Sri Lanka: Jeep seizure controversy. Illegally imported vehicle seized by Bribery Commission. Businessman defies court order, sparking legal battle.
 
-குறித்த ஜீப் மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்யப்பட்டுள்ளதாக மேற்படி ஆணைக்குழுவின் இரகசிய மற்றும் புலனாய்வுப் பிரிவுக்கு தகவல் கிடைத்துள்ளது.
+🟩
 
-இதன்படி கடந்த 18ஆம் திகதிக்கு முன்னர் குறித்த ஜீப் வண்டியை இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவிடம் ஒப்படைக்குமாறு தொழிலதிபருக்கு நீதிமன்ற உத்தரவு பிறப்பித்திருந்தது.
+It is reported that a jeep, which has been illegally brought to Sri Lanka to Sri Lanka, has been seized by the Bribery Commission.
 
-ஆனால் அந்த உத்தரவுகளை மீறியதன் காரணமாக பதுளை நெலும்கம பிரதேசத்தில் உள்ள தொழிலதிபருக்கு எதிராக கொழும்பு நீதவான் நீதிமன்றம் பிடியாணை பிறப்பித்திருந்த நிலையிலேயே, இலஞ்ச ஊழல் ஆணைக்குழுவின் இரகசிய புலனாய்வுப் பிரிவினர் ஜீப்பை கைப்பற்றியுள்ளனர். R
+The Secret and Intelligence Unit of the Commission has received information that the jeep has been registered with the Department of Motor Transportation.
+
+Accordingly, a court of court ordered the businessman to hand over the jeep car to the Bribery Commission before the 18th.
+
+However, the Colombo Magistrate's Court has issued a court order against a businessman in Nelumgama, Badulla, in violation of those orders. Remble
 
 ◼️
 
 [Data](articles/e67beb48.json)
 
+[Extended Data](ext_articles/e67beb48.ext.json)
+
 ---
 
-### மக்களே உங்களிடம் ஆதாரம் இருக்கின்றதா?
+### Do you have evidence of people?
 
 *2024-10-06 08:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-உங்களிடம்-ஆதாரம்-இருக்கின்றதா/175-344955) · `ta`
 
-தரம் 5 புலமைப்பரிசில் பரீட்சையின் 3 வினாக்கள் கசிந்துள்ளதாக கூறப்படுவதற்கு மேலதிகமாக ஏதேனும் வினாக்கள் கசிந்துள்ளமைக்கான ஆதாரம் இருந்தால் அது தொடர்பான தகவல்களை விரைவில் அருகிலுள்ள பொலிஸ் நிலையத்திற்கு வழங்குமாறு பொலிஸார் கோரிக்கை விடுத்துள்ளனர்.
+Evidence of people: Police request information submission deadline. Grade 05 exams suspended due to conditions. Criminal Investigation Department investigating, notified Sri Lanka Human Rights Commission.
 
-எதிர்வரும் 7 ஆம் திகதிக்கு முன்னர் இது தொடர்பான தகவல்களை அருகில் உள்ள பொலிஸ் நிலையத்தில் ஒப்படைக்குமாறு கூறப்பட்டுள்ளது.
+🟩
 
-தரம் 05 புலமைப்பரிசில் பரீட்சை வினாக்கள் முன்கூட்டியே வெளியிடப்பட்டுள்ள நிலையை கருத்தில் கொண்டு, விடைத்தாள் திருத்தும் பணி தற்காலிகமாக நிறுத்தப்பட்டுள்ளது.
+The police have requested that the relevant information to the nearest police station soon be provided to the nearest police station.
 
-அத்துடன், இது தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளதுடன், இது தொடர்பான விசாரணைகள் தொடர்பில் இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் கவனத்துக்குக் கொண்டுவரப்பட்டமை குறிப்பிடத்தக்கது. R
+It has been reported to be handed over to the nearby police station before the 7th of this month.
+
+Grade 05 Scholarship Examination Questions have been temporarily suspended, considering the pre -published condition.
+
+It is also worth noting that the Criminal Investigation Department has launched an investigation into the matter and has been brought to the notice of the Sri Lanka Human Rights Commission regarding the investigation into the matter.. Remble
 
 ◼️
 
 [Data](articles/7b489cb1.json)
+
+[Extended Data](ext_articles/7b489cb1.ext.json)
 
 ---
 
@@ -130,19 +170,29 @@ He was speaking at a function held at Kakudah yesterday.
 
 ---
 
-### 80 வகையான மருந்துகளுக்கு தட்டுப்பாடு
+### Scarcity for 80 types of drugs
 
 *2024-10-06 07:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-வகையான-மருந்துகளுக்கு-தட்டுப்பாடு/175-344952) · `ta`
 
-நாட்டில் தொடர்ந்தும் 80 வகையான மருந்துகளுக்கு தட்டுப்பாடு காணப்படுவதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+Here's a summary of the text in 200 characters:
 
-மேற்படி மருந்துகளை வைத்தியசாலை மட்டத்தில் கொள்வனவு செய்வதற்கு அனுமதி வழங்கப்பட்டுள்ளதாக சுகாதார அமைச்சின் சிரேஷ்ட அதிகாரியொருவர் குறிப்பிட்டுள்ளார்.
 
-அதற்கமைய சிக்கல்கள் இன்றி சிகிச்சைகளை முன்னெடுத்துச்செல்ல முடியும் என அவர் தெரிவித்துள்ளார். (a)
+
+80 types of drugs scarce in country. Ministry allows purchase at hospitals. Treatment possible without issues.
+
+🟩
+
+The Ministry of Health said that there are 80 types of drugs in the country.
+
+A senior official of the Ministry of Health said that the drug was allowed to be purchased at the hospital level.
+
+He said that treatment can be carried out without problems. (A)
 
 ◼️
 
 [Data](articles/480eae9c.json)
+
+[Extended Data](ext_articles/480eae9c.ext.json)
 
 ---
 
@@ -498,6 +548,8 @@ When I returned to Sri Lanka from Sussex in 1982, the Director of ARTI requested
 
 [Data](articles/a4a6d43b.json)
 
+[Extended Data](ext_articles/a4a6d43b.ext.json)
+
 ---
 
 ### Crisis in Sri Lanka-US relations, Janavegaya & Mrs. B separating politics from official work
@@ -635,6 +687,24 @@ The discussions were broken due to the conditions of the Opposition Leader Sajit
 [Data](articles/63f31ca2.json)
 
 [Extended Data](ext_articles/63f31ca2.ext.json)
+
+---
+
+### ජනපතිට ඇති අත්හළ නොහැකි වගකීම ගැන අටමස්ථානාධිපති හිමියෝ කියති
+
+*2024-10-05 22:00:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිට-ඇති-අත්හළ-නොහැකි-වගකීම-ගැන-අටමස්ථානාධිපති-හිමියෝ-කියති/11-412318) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (05) පස්වරුවේ අනුරාධපුර ඓතිහාසික ජය ශ්‍රී මහා බෝධීන් වහන්සේ වැඳ පුදා ගෙන ආශිර්වාද ලබා ගත්තේය.
+
+අනුරාධපුර ඓතිහාසික පුදබිම වෙත පැමිණි ජනාධිපතිවරයා පළමුව අටමස්ථානාධිපති, නුවර කලාවියේ ප්‍රධාන සංඝනායක, අනුරාධපුර මහාවිහාර පිරිවෙන් කෘත්‍යාධිකාරී ගෞරව ශාස්ත්‍රවේදී පූජ්‍ය පල්ලේගම හේමරතන නායක හිමිපාණන් වහන්සේ බැහැදැක සුවදුක් විමසා කෙටි පිළිසඳරක නිරත විය.
+
+අනතුරුව ජනාධිපතිවරයා උඩමළුව වෙත පැමිණ ආගමික වතාවත්වල නිරත වු අතර  ජය ශ්‍රී මහා බෝ මළුවේ ප්‍රධාන ධර්ම ශාලාවේදී අටමස්ථානාධිපති හිමියන්, ප්‍රමුඛ මහා සංඝරත්නය විසින් සෙත් පිරිත් සජ්ජායනා කර ජනාධිපතිවරයා වෙත ආශිර්වාද පළ කළහ.
+
+අනුරාධපුර ඓතිහාසික ලංකාරාමාධිපති පූජ්‍ය රළපනාවේ ධම්මජෝති නායක හිමි, රුවන්වැලි චෛත්‍යාරාමාධිකාරී ගෞරව ශාස්ත්‍රපති පූජ්‍ය ඊතලවැටුණවැවේ ඥානතිලක හිමි, ථූපාරාම චෛත්‍යාරාමාධිකාරී ශාස්ත්‍රපති පූජ්‍ය කහල්ලේ ඥානින්ද හිමි, මිරිසවැටිය චෛත්‍යාරාමාධිකාරී ශාස්ත්‍රපති පූජ්‍ය වැලිහේනේ සෝභිත හිමි, අභයගිරි චෛත්‍යාරාමාධිකාරී ආචාර්ය පූජ්‍ය කලංචියේ රතනසිරි
+
+...
+
+[Data](articles/0e07ad06.json)
 
 ---
 
@@ -2275,49 +2345,5 @@ Minister Herath appointed the new Managing Director after replacing Prabath Mala
 [Data](articles/c37b3b25.json)
 
 [Extended Data](ext_articles/c37b3b25.ext.json)
-
----
-
-### Woman dies after drowning drowning
-
-*2024-10-05 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201861) · `si`
-
-61-year-old woman drowns in Pakukwella tank. Identified as Gokarella resident. Died after dropping lotus flower. Investigation ongoing.
-
-🟩
-
-The woman was dead in the Pakukwella tank in the Pakukwella area yesterday afternoon.
-
-The deceased has been identified as a 61-year resident of Gokarella.
-
-The investigation was revealed that she had dropped the lotus while they were in the Pakwella tank.
-
-◼️
-
-[Data](articles/4e8317ef.json)
-
-[Extended Data](ext_articles/4e8317ef.ext.json)
-
----
-
-### 122 independent groups place deposits for 2024 General Election
-
-*2024-10-05 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102459/122-independent-groups-place-deposits-for-2024-general-election) · `en`
-
-A total of 122 independent groups have placed deposits to contest the 2024 General Election as of yesterday (04), according to the Election Commission.
-
-The Commission further confirmed that 36 independent groups had placed their deposits within yesterday alone.
-
-Deposits have been made for 21 out of the 22 electoral districts, with the exception of the Matale district, where no deposits had been placed as of yesterday, said the Commission.
-
-The Janasetha Peramuna Party has submitted its nominations for the Jaffna and Wanni districts. Additionally, three independent groups submitted their nominations yesterday.
-
-The acceptance of nominations for the 2024 General Election commenced on October 4 and will continue until 12 noon on October 11, 2024.
-
-◼️
-
-[Data](articles/ba7b66da.json)
-
-[Extended Data](ext_articles/ba7b66da.ext.json)
 
 ---

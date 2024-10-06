@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 19:08:41**
+As of **2024-10-06 19:22:54**
 
 ## Newspaper Stats
 
-*Scraped **48,052** Articles*
+*Scraped **48,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,441
 dailymirrorlk | 4,733
 adaderanalk | 5,661
-tamilmirrorlk | 6,486
+tamilmirrorlk | 6,487
 virakesarilk | 7,693
 adaderanasinhalalk | 8,320
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,320
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,052 (100.0%) of 48,052 articles have been extended.
+48,053 (100.0%) of 48,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Arrest someone with foreign cigarettes
+
+*2024-10-06 18:53:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளுடன்-ஒருவர்-கைது/175-344992) · `ta`
+
+Sri Lankan navy and STF arrest 54-year-old man with 2020 foreign cigarettes on bus in Puttalam. Suspect handed to local police for legal proceedings.
+
+🟩
+
+A 54 -year -old suspect has been arrested with 2,020 foreign cigarettes taken on a bus last Saturday (05) in a joint venture of the Sri Lanka Navy and Police Special Task Force (STF) in Puttalam.
+
+The Sri Lankan navy said that the move was taken on a confidential information received by the SLNS Thambapanni along with the Special Task Force.
+
+The suspect from Puttalam has been handed over to the Kavalakaswewa police for further legal action with the seized cigarettes.
+
+◼️
+
+[Data](articles/1bad7cb7.json)
+
+[Extended Data](ext_articles/1bad7cb7.ext.json)
+
+---
 
 ### IGP notifying all police stations
 
@@ -2405,29 +2427,5 @@ Israeli Lieutenant Colonel Nadav Shoshani said on Friday the military was still 
 [Data](articles/2dc90067.json)
 
 [Extended Data](ext_articles/2dc90067.ext.json)
-
----
-
-### Ranil is the leader of the New Alliance
-
-*2024-10-05 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201888) · `si`
-
-Ranil Wickremesinghe leads New Alliance. Opposition parties form alliance ahead of elections. Gas cylinder issue divides them. Sajith Premadasa's conditions cause discussion breakdown.
-
-🟩
-
-Ranil Wickremesinghe says that Ranil Wickremesinghe is the leader of the UNP leader.
-
-The opposition political parties will be held in view of a meeting in order to create a new alliance.
-
-The general election, however, has decided to contest the gas cylinder.
-
-The discussions were broken due to the conditions of the Opposition Leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/63f31ca2.json)
-
-[Extended Data](ext_articles/63f31ca2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 20:38:27**
+As of **2024-10-06 20:57:19**
 
 ## Newspaper Stats
 
-*Scraped **48,057** Articles*
+*Scraped **48,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,442
+adalk | 4,443
 dailymirrorlk | 4,733
 adaderanalk | 5,662
-tamilmirrorlk | 6,488
+tamilmirrorlk | 6,489
 virakesarilk | 7,693
 adaderanasinhalalk | 8,321
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,057 (100.0%) of 48,057 articles have been extended.
+48,057 (100.0%) of 48,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### பட்டம் விட்ட சிறுவர்கள் மின்சாரம் தாக்கி மரணம்
+
+*2024-10-06 20:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டம்-விட்ட-சிறுவர்கள்-மின்சாரம்-தாக்கி-மரணம்/175-345006) · `ta`
+
+13 வயது சிறுவர்கள் இருவர் பட்டம் விட்டு விளையாடும் போது, அதி சக்திவாய்ந்த  மின்சாரம் தாக்கி மருத்துவமனைக்கு கொண்டு செல்லப்பட்ட போது உயிரிழந்ததாக பண்டாரகம பொலிஸார் தெரிவிக்கின்றனர்.
+
+பண்டாரகம அடலுகம குருந்துவத்தையில் உள்ள மூன்று மாடி வீட்டின் மேல் மாடியில் குறித்த சிறுவர்கள் பட்டம் விட்டுக்கொண்டு இருந்தனர்.
+
+இதன்போது, மின்சாரம் சிறுவர்களை தாக்கியதில் பலத்த வெடிச் சத்தம் கேட்ட நிலையில், சிறுவர்களின் உடலில் மின்சாரம் தாக்கி எரிந்துள்ளனர்.
+
+அருகிலுள்ளவர்கள் சிறுவர்களை வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போதும், அவர்கள் உயிரிழந்ததாக தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/8087a909.json)
+
+---
 
 ### Foreigners arrested for defrauding money online
 
@@ -329,6 +347,28 @@ Hanwella police are conducting further investigations into the incident as the w
 [Data](articles/2b39a671.json)
 
 [Extended Data](ext_articles/2b39a671.ext.json)
+
+---
+
+### ඝාතනයක් බවට සැක ව්‍යාපාරික අඹුසැමි යුවලකගේ මළසිරුරු නිවසේ සාලයේ
+
+*2024-10-06 17:28:41* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතනයක්-බවට-සැක-ව්‍යාපාරික-අඹුසැමි-යුවලකගේ-මළසිරුරු-නිවසේ-සාලයේ/11-412331) · `si`
+
+රෙදිපටියකින් මුහුණ ගැටගසා ව්‍යාපාරිකයෙකු සහ ඔහුගේ බිරිඳ නිවස තුල ඝාතනය කර ඇති බවට ලද තොරතුරක් ඔස්සේ  වැලිපැන්න පොලිසිය පරීක්ෂණ ආරම්භ කර තිබේ.
+
+මෙසේ ඝාතනයට ලක්ව  ඇත්තේ වැලිපැන්න අලුත්ගම පාරේ පදිංචිව සිටී විජිත ඈපා සෙනවිරත්න නමැති  75 හැවිරිදි ව්‍යාපාරිකයෙකු සහ ඔහුගේ බිරිද වන චන්ද්‍රා සෙනරත් නමැති  67 හැවිරිදි ව්‍යාපාරික කාන්තාවක බව පොලිසිය සදහන් කරයි .
+
+වැලිපැන්න මුස්ලිම් විද්‍යාලය අසල නිවසක ඝාතනය කල බවට සැක ව්‍යාපාරික  අඹුසැමි යුවලකගේ මළසිරුරු දෙකක් තිබෙන බවට ලද තොරතුරක් ඔස්සේ පරීක්ෂණ කිරීමේදී නිවසේ සාලයේ තිබී මළසිරුරු දෙක හමුවූ බවත්  පොලිසිය කීය .
+
+නිවසේ සාලයේ පිරිමි පුද්ගලයාගේ මුහුණ රෙදි පටියකින් ගැටගැසූ මළසිරුරු තිබී ඇති අතර , ඊට ආසන්නයේ ඔහුගේ බිරිද ගේ  මුණින් අතට වැටී තිබූ මළසිරුර හමුව තිබේ.
+
+නිවසේ පිටිපස දොර අඩවල් කර තිබී ඇති අතර , විදුලි පහන් කිහිපයක් දැල්වෙමින් පවතින බවද දැකගත හැකිවිය .
+
+මියගොස් ඇති ව්‍යාපාරික අඹුසැමි වතු කිහිපයක් සහ  ගල් කොරියක් හිමි ව්‍යාපාරික යුවලක් බවත් , ඔවුන්ට දරුවන් නොමැති බවද පැවසේ.
+
+...
+
+[Data](articles/fb613a5b.json)
 
 ---
 
@@ -2385,37 +2425,5 @@ The phrase originated in 1980, during the presidential election season of that y
 [Data](articles/77d13664.json)
 
 [Extended Data](ext_articles/77d13664.ext.json)
-
----
-
-### Professional Challenges and the End of My Government Service
-
-*2024-10-06 02:32:00* · [`islandlk`](http://island.lk/professional-challenges-and-the-end-of-my-government-service/) · `en`
-
-When I returned to Sri Lanka from Sussex in 1982, the Director of ARTI requested me to oversee farmer training programmes. He appointed me the first Editor of the Sri Lanka Journal of Agrarian Studies. I invited Prof B H Farmer of Cambridge University to write the inaugural article of the journal on changing scenarios of agrarian systems in Sri Lanka. He was a well-known expert on Sri Lanka’s Dry Zone agriculture. He was the author of Pioneer Peasant Colonization in Ceylon: A Study in Asian Agrarian Problems (1957). Farmer was the committee chairman who investigated the post-colonial development prospects of irrigated agriculture in the Dry Zone and contributed to revising and updating the Land Development Ordinance of 1935.
-
-...
-
-[Data](articles/a4a6d43b.json)
-
-[Extended Data](ext_articles/a4a6d43b.ext.json)
-
----
-
-### Crisis in Sri Lanka-US relations, Janavegaya & Mrs. B separating politics from official work
-
-*2024-10-06 02:07:00* · [`islandlk`](http://island.lk/crisis-in-sri-lanka-us-relations-janavegaya-mrs-b-separating-politics-from-official-work/) · `en`
-
-(Excerpted from the autobiography of Dharmasiri Pieris, Secretary to the Prime Minister)
-
-One could not however easily get away from managing. Besides the day to day management that was necessary to maintain paper and information flows, one had to service important meetings and conferences. There was the perpetual follow-up of numerous matters, each day bringing new material. In the midst of all these, someone often created a crisis, which ultimately ended up with us.
-
-One such, during this time was the strong attack made by the Finance Minister Dr. N.M. Perera, on United States PL 480 assistance to Sri Lanka, before a large gathering on May Day. To the Americans, this attack by a senior Minister and the Finance Minister on an important program of official assistance was indeed inexplicable and unfriendly. Chris Van Hollen the Ambassador was not unnaturally quite exercised over this.
-
-...
-
-[Data](articles/9d642185.json)
-
-[Extended Data](ext_articles/9d642185.ext.json)
 
 ---

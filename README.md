@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 22:57:00**
+As of **2024-10-06 23:09:35**
 
 ## Newspaper Stats
 
-*Scraped **48,068** Articles*
+*Scraped **48,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,940
 dailyftlk | 3,235
 adalk | 4,444
 dailymirrorlk | 4,733
-adaderanalk | 5,663
+adaderanalk | 5,664
 tamilmirrorlk | 6,489
 virakesarilk | 7,699
 adaderanasinhalalk | 8,322
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,322
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,068 (100.0%) of 48,068 articles have been extended.
+48,069 (100.0%) of 48,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Sri Lanka to commence information collection for census of population, housing
+
+*2024-10-06 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102489/sri-lanka-to-commence-information-collection-for-census-of-population-housing) · `en`
+
+Sri Lanka’s Department of Census and Statistics said on Sunday that it will commence the collection of personal and housing information for the 15th census of population and housing in the country on Monday.
+
+Director General of the department Anoja Senevirathne told journalists in Colombo that census officials will be visiting households across the country to collect vital data.
+
+She said around 50,000 officials will be engaged as enumerators in the process, according to Xinhua news agency.
+
+She said Sri Lanka usually holds a population census once every 10 years, but the process was delayed due to the COVID-19 pandemic and the economic crisis.
+
+The South Asian country’s last population census was conducted in 2012.
+
+◼️
+
+[Data](articles/e0bc658d.json)
+
+[Extended Data](ext_articles/e0bc658d.ext.json)
+
+---
 
 ### A strike on a mosque kills 19 as Israel bombards northern Gaza and southern Lebanon
 
@@ -2471,23 +2493,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/b3f930e8.json)
 
 [Extended Data](ext_articles/b3f930e8.ext.json)
-
----
-
-### HNB Assurance Hosts First Intl Partnership Awards in Bangkok
-
-*2024-10-06 04:22:00* · [`islandlk`](http://island.lk/hnb-assurance-hosts-first-intl-partnership-awards-in-bangkok/) · `en`
-
-HNB Assurance PLC hosted its first-ever international Partnership Awards 2024 at the Berkeley Hotel in Bangkok, celebrating the contributions of its partnership channel. The event gathered over 100 participants, including staff and families, marking a milestone in the company’s growth.
-
-CEO Lasitha Wimalaratne highlighted the channel’s critical role, contributing 46% to the company’s total gross written premium and surpassing the LKR 5 billion mark. The event recognized 122 MDRT qualifiers, showcasing the team’s dedication and the company’s success as the Best Life Bancassurance Provider for four consecutive years.
-
-Supun Dias, Assistant General Manager of HNB, praised HNB Assurance’s impressive growth despite economic challenges and expressed confidence in its continued success and future industry leadership. He shared pride in witnessing this significant milestone for the HNB group.
-
-...
-
-[Data](articles/daf76d87.json)
-
-[Extended Data](ext_articles/daf76d87.ext.json)
 
 ---

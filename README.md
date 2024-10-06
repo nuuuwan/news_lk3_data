@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 14:38:34**
+As of **2024-10-06 14:57:23**
 
 ## Newspaper Stats
 
-*Scraped **48,024** Articles*
+*Scraped **48,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,436
+adalk | 4,437
 dailymirrorlk | 4,733
 adaderanalk | 5,659
 tamilmirrorlk | 6,482
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,020 (100.0%) of 48,024 articles have been extended.
+48,025 (100.0%) of 48,025 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Exit polls, conducted by private polling firms including TV broadcasters, have a
 ...
 
 [Data](articles/967dbcc2.json)
+
+[Extended Data](ext_articles/967dbcc2.ext.json)
 
 ---
 
@@ -72,23 +74,31 @@ The return of these 56 Pakistanis comes after years of detention in Sri Lankan j
 
 [Data](articles/9ba9871a.json)
 
+[Extended Data](ext_articles/9ba9871a.ext.json)
+
 ---
 
-### ඊශ්‍රායලයෙන් ගාසා දේවස්ථානයකට ගුවන් ප්‍රහාරයක්
+### Air strikes on a Gaza church
 
 *2024-10-06 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201897) · `si`
 
-ඊශ්‍රායලය විසින් ගාසා හි දේවස්ථානයකට එල්ල කළ ගුවන් ප්‍රහාරයකින් පුද්ගලයින් 24 දෙනෙකු ජිවිතක්ෂයට පත්ව තිබේ.
+Airstrikes hit Gaza church, killing 24. Foreign media reports possible higher death toll. Attacks displace 2.3 million, kill 42,000 overall.
 
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ අවතැන්වූවන් රඳවා සිටි දේවස්ථානයක් වෙත අදාළ ප්‍රහාරය එල්ල වී ඇති බවයි.
+🟩
 
-කෙසේවෙතත් ප්‍රහාරයෙන් මියගිය පිරිස තවදුරටත් ඉහළ යා හැකි බව ද විදෙස් මාධ්‍ය වාර්තා කළේය.
+24 persons have been killed in airstrike on a rapid attack on Gaza's church in Gaza.
 
-ඊශ්‍රායලය විසින් පලස්තිනය වෙත එල්ල කළ ප්‍රහාරවලින් මේ වන විට පුද්ගලයින් 42,000ක් පමණ ජීවිතක්ෂයට පත්ව තවත් මිලියන 2.3 පිරිසක් අවතැන්ව ඇති බව වාර්තා වෙයි.
+Foreign media reports that the attack on a shrine of the IDPs has been launched.
+
+However, foreign media reports that the deceased could be increased further.
+
+At least 42,000 people have been killed and 2.3 million have been displaced due to the attacks on the charity.
 
 ◼️
 
 [Data](articles/44d934c4.json)
+
+[Extended Data](ext_articles/44d934c4.ext.json)
 
 ---
 
@@ -138,15 +148,25 @@ The second match is scheduled to start between Scotland team and the West Indies
 
 ---
 
-### இலங்கை அரசியலில் தலைவரும் செயலாளரும்
+### Leader and Secretary in Sri Lankan politics
 
 *2024-10-06 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/195613) · `ta`
 
-எதிர்வரும் பாராளுமன்றத் தேர்தலில் ஐக்கிய தேசிய கட்சியை கட்டியெழுப்பும் ஒரு அற்புதமான சந்தர்ப்பத்தை ரணில் நழுவ விட்டிருக்கின்றார். ஊழல் குற்றச்சாட்டு இல்லாத கை சுத்தமானவர், இராஜதந்திரி, எந்த சங்கடமான நிலைமைகளையும் சமாளிப்பவர், சர்வதேசத்துடனான தொடர்புகள், அரசியல் ஞானம் என்ற பெருமைகளை அவர் கொண்டிருந்தாலும் அவர் சிறந்த தலைமைத்துவ பண்புகள் கொண்டவராக இல்லை. தலைமைத்துவ பண்புகளில் முதன்மையானது புதிய தலைமைத்துவங்களுக்கு இடங்கொடுப்பது மற்றும் அவர்களை உருவாக்குவதாகும். அந்த பண்புகள் துளியளவும் ரணிலிடம் இல்லை. இப்படியான குணவியல்புகள் கொண்டவரிடம் தான் மீண்டும் சில கட்சிகள் எதிர்வரும் பாராளுமன்றத் தேர்தலுக்காக தஞ்சமடைந்துள்ளன.
+Here's a 200-character summary:
+
+
+
+Ranil missed chance to strengthen UNP in polls. Despite diplomatic skills, lacks key leadership traits like creating new leaders. Parties seek alternative candidates with stronger leadership qualities for upcoming elections.
+
+🟩
+
+Ranil has slipped a wonderful opportunity to build the United National Party in the upcoming parliamentary election. Although he is proud to be a man who has no accusation, diplomat, a diplomat, and the glory of international contacts and political wisdom, he is not the best leadership characteristics. The first of the leadership attributes is to make new leaderships and make them. Ranil does not have those properties. Some parties have once again sought refuge for the upcoming parliamentary elections with such characteristics.
 
 ◼️
 
 [Data](articles/9086cffa.json)
+
+[Extended Data](ext_articles/9086cffa.ext.json)
 
 ---
 
@@ -217,6 +237,30 @@ Meanwhile, the Illilonic Tamil Ahazi party nomination committee met in Vavuniya 
 [Data](articles/923c5596.json)
 
 [Extended Data](ext_articles/923c5596.ext.json)
+
+---
+
+### The Department of Inland Revenue achieves a 70 percent tax goal
+
+*2024-10-06 13:01:59* · [`adalk`](https://www.ada.lk/breaking_news/දේශීය-ආදායම්-දෙපාර්තමේන්තුව-සියයට-70ක-බදු-ඉලක්කයක්-සපුරා-ගනියි/11-412324) · `si`
+
+Department of Inland Revenue meets 70% tax goal, earning Rs. 3024 crore. Commissioner General notes slow recovery progress but cites self-assessment scheme for ongoing payments. The department plans to visit taxpayers starting today to recover funds.
+
+🟩
+
+The Department of Inland Revenue earned tax revenue of Rs. 3024 by Rs.
+
+The Department of Inland Revenue has given a tax revenue target this year.
+
+The Commissioner General of Inland Revenue, the Commissioner General of Inland Revenue, said that the progress of recovery is not admirable, but there are still tax payments due to the self-assessment scheme.
+
+She added that the department from today (06) to ensure the recovery of funds will visit these taxpayers today.
+
+◼️
+
+[Data](articles/614a3849.json)
+
+[Extended Data](ext_articles/614a3849.ext.json)
 
 ---
 
@@ -2403,31 +2447,5 @@ The appointment has been made following the retirement of Major General Suresh S
 [Data](articles/3bcf3450.json)
 
 [Extended Data](ext_articles/3bcf3450.ext.json)
-
----
-
-### The President blessed the Mahanayaka Thera of the Amarapura Faculty
-
-*2024-10-05 16:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமரபுர-பீடத்தின்-மகாநாயக்க-தேரரிடம்-ஆசி-பெற்றார்-ஜனாதிபதி/175-344945) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Anuragumara Dissanayake blesses Mahanayaka Thera Karagoda Ungoda Maithrimoorthy. Amarapura Faculty Secretary present. Seth Brith recitation performed. Discussion with Maha Sangha on political-economic issues.
-
-🟩
-
-President Anuragumara Dissanayake today (05). Karagoda Ungoda Maithrimoorthy has met the Thera and blessed.
-
-The Secretary of the Amarapura Faculty also attended the event. Seth Brith was recited and blessed with the President.
-
-Subsequently, the President held a discussion with the Maha Sangha for a while to take up the current political and economic conditions.R
-
-◼️
-
-[Data](articles/14422ff7.json)
-
-[Extended Data](ext_articles/14422ff7.ext.json)
 
 ---

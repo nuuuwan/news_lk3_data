@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 22:11:34**
+As of **2024-10-06 22:23:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,322
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,064 (100.0%) of 48,068 articles have been extended.
+48,068 (100.0%) of 48,068 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -158,37 +158,49 @@ Though the neighbors were taken to the hospital, they said they died. Remble
 
 ---
 
-### விண்ணைத் தொடும் தேங்காய் விலை
+### Gloss
 
 *2024-10-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195648) · `ta`
 
-சில பிரதேசங்களில் தேங்காய் ஒன்று 180 ரூபாவிற்கு விற்பனை செய்யப்படுவதாக நுகர்வோர்கள் தெரிவித்தனர்.
+Coconut prices surge from 90-100 to 180 rupees. Egg prices rebound after brief dip, now up to 40 rupees in some areas.
 
-கடந்த காலத்தில் ஒரு தேங்காய் 90 ரூபாய் முதல் 100 ரூபாய் வரை விற்கப்பட்டது.
+🟩
 
-இதேவேளை, கடந்த சில நாட்களாக வீழ்ச்சியடைந்திருந்த முட்டையின் விலை மீண்டும் அதிகரித்து வருவதாக சந்தை வட்டாரங்கள் தெரிவிக்கின்றன.
+Consumers said that coconuts are being sold for 180 rupees in some areas.
 
-சில பகுதிகளில் முட்டையின் விலை 40 ரூபாய் வரை உயர்ந்துள்ளதாக கூறப்படுகிறது. ஆனால், சில நாட்களுக்கு முன்பு முட்டை விலை 30 ரூபாய்க்கும் குறைவாக இருந்தமை குறிப்பிடத்தக்கது.
+In the past, a coconut was sold for Rs 90 to Rs 100.
+
+Meanwhile, market sources said that the price of eggs, which had fallen over the past few days, is rising again.
+
+In some areas, the price of eggs is said to have risen up to 40 rupees. But it is noteworthy that the price of eggs was less than 30 rupees a few days ago.
 
 ◼️
 
 [Data](articles/172cd1e1.json)
 
+[Extended Data](ext_articles/172cd1e1.ext.json)
+
 ---
 
-### கம்பஹாவில் இணையம் மூலம் மோசடி செய்த 40  வெளிநாட்டவர்கள் கைது
+### 40 foreigners arrested for allegedly defrauding the Internet in Gampaha
 
 *2024-10-06 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195647) · `ta`
 
-கம்பஹாவில் உள்ள ஹோட்டல் மற்றும் ஹன்வெல்லவில் உள்ள தனியார் நிறுவனம் ஒன்றில் இணையம் மூலம் மோசடி செய்த 40 வெளிநாட்டவர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Foreigners arrested for fraud in Gampaha: 40 suspects, including Chinese, Indians, Thais. Police seized 499 mobiles, 25 laptops, 29 desktops for investigation.
 
-கைது செய்யப்பட்டவர்களில் 30 சீனர்கள், 4 இந்தியர்கள் மற்றும் 6 தாய்லாந்து பிரஜைகள் உட்பட 40 வெளிநாட்டவர்கள் ஆவர்.
+🟩
 
-தடயவியல் பரிசோதனைக்காக 499 மொபைல் போன்கள், 25 மடிக்கணினிகள் மற்றும் 29 டெஸ்க்டாப் கணினிகள் காவலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+Police said that 40 foreigners have been arrested for allegedly defrauding a private company in a hotel and Hanwella in Gampaha.
+
+Of the arrested, 40 were 40 foreigners, including Chinese, 4 Indians and 6 Thailand citizens.
+
+It is noteworthy that 499 mobile phones, 25 laptops and 29 desktop computers have been detained for forensic examination.
 
 ◼️
 
 [Data](articles/e8dc3822.json)
+
+[Extended Data](ext_articles/e8dc3822.ext.json)
 
 ---
 
@@ -242,29 +254,41 @@ Meanwhile, the police have also taken 499 mobile phones, 25 laptops and 29 deskt
 
 ---
 
-### அனைத்து பொலிஸ் நிலையங்களுக்கும் பதில் பொலிஸ் மா அதிபரின் பணிப்புரை
+### The Directorate of the Inspector General of Police In response to all police stations
 
 *2024-10-06 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195646) · `ta`
 
-பொதுமக்களால் சமர்ப்பிக்கப்பட்டுள்ள அனைத்து சிறு முறைப்பாடுகளையும் அடுத்த இரண்டு வாரங்களில் விசாரணை செய்து தேவையான நடவடிக்கைகளை எடுக்குமாறு அனைத்து பொலிஸ் நிலையங்களுக்கும் பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய பணிப்புரை விடுத்துள்ளார்.
+Inspector General of Police Priyantha Weerasuriya orders investigation of minor complaints within two weeks. Directive applies to all police stations nationwide.
 
-பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ இதனைத் தெரிவித்துள்ளார்.
+🟩
+
+Inspector General of Police Priyantha Weerasuriya has issued a directive in response to all police stations to investigate all the minor complaints lodged by the public in the next two weeks.
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said this.
 
 ◼️
 
 [Data](articles/b01e80fe.json)
 
+[Extended Data](ext_articles/b01e80fe.ext.json)
+
 ---
 
-### பாரம்பரிய கட்சிகளை தண்டித்த வாக்காளர்கள்
+### Voters who punished traditional parties
 
 *2024-10-06 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195638) · `ta`
 
-இலங்கையின் தேர்தல் அரசியல் வரலாற்றில் முதற்தடவையாக வாக்காளர்கள் பாரம்பரிய கட்சிகளைப் புறக்கணித்து ஒரு சிறிய கட்சிக்கு அதிகாரத்தைக் கொடுத்துள்ளனர். அதிகளவு வாக்காளர்கள் வாக்களிக்க தகுதி பெற்ற இந்தத் தேர்தலில் வரலாற்றில் அதிகமான வேட்பாளர்கள் போட்டியிட்டனர்.  அத்துடன் கடந்த தேர்தல்களுடன் ஒப்பிடுகையில் அதிகமான  வாக்குகள் நிராகரிக்கப்பட்டுள்ளன.  எந்தவிதமான அழுத்தங்களும் இன்றி வன்முறைகள் இன்றி அமைதியாக தேர்தல் நடைபெற்றது
+Sri Lanka election summary: Voters reject traditional parties, empower small party. High voter turnout, increased rejected votes. Election peaceful without pressure or violence.
+
+🟩
+
+For the first time in Sri Lanka's electoral history, voters have ignored the traditional parties and gave power to a small party. Most voters qualified to vote in this election. As well as more votes have been rejected compared to the last elections. The election was held quietly without any pressure and violence
 
 ◼️
 
 [Data](articles/40fc39b4.json)
+
+[Extended Data](ext_articles/40fc39b4.ext.json)
 
 ---
 

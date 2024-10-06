@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 00:11:30**
+As of **2024-10-07 00:23:03**
 
 ## Newspaper Stats
 
-*Scraped **48,074** Articles*
+*Scraped **48,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
-tamilmirrorlk | 6,489
+tamilmirrorlk | 6,490
 virakesarilk | 7,700
 adaderanasinhalalk | 8,323
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,074 (100.0%) of 48,074 articles have been extended.
+48,075 (100.0%) of 48,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### The security of the former president is not removed
+
+*2024-10-06 23:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதியின்-பாதுகாப்பு-நீக்கப்படவில்லை/175-345008) · `ta`
+
+Former President Ranil Wickremesinghe's security detail remains unchanged. 163 officers continue to protect him, including 50 Police Special Task Force members and 6 Dignitaries Security Division officers. Transferred personnel also maintain security duties.
+
+🟩
+
+The reports that the security of former President Ranil Wickremesinghe has been removed is untrue.
+
+He said 163 officers are still involved in the security duty of the former president.
+
+These include 50 officers of the Police Special Task Force, 6 officers of the Dignitaries Security Division and some of the transferred officers.. (A)
+
+◼️
+
+[Data](articles/f42c50f6.json)
+
+[Extended Data](ext_articles/f42c50f6.ext.json)
+
+---
 
 ### Police certification for the safety of former President
 
@@ -2479,33 +2501,5 @@ The agricultural sector employees spent 2,187,563 by the first quarter of 2023. 
 [Data](articles/b74d5e4b.json)
 
 [Extended Data](ext_articles/b74d5e4b.ext.json)
-
----
-
-### 122 Independent Groups controlled
-
-*2024-10-06 07:12:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/122-சுயேட்சை-குழுக்கள்-கட்டுப்பணம்-செலுத்தின/175-344951) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"122 independent groups registered for 2024 Sri Lanka parliamentary elections. 36 more added yesterday. High concentration in Jaffna and Batticaloa districts."
-
-🟩
-
-The Elections Commission has announced that 122 independent groups have so far controlled for the 2024 parliamentary elections.
-
-The Commission said that 36 independent groups have been controlled yesterday.
-
-Accordingly, the large number of independent groups in Jaffna and Batticaloa districts have been controlled.
-
-In both districts, 15 independent groups have been controlled, the Elections Commission said.(a)
-
-◼️
-
-[Data](articles/a9caebe1.json)
-
-[Extended Data](ext_articles/a9caebe1.ext.json)
 
 ---

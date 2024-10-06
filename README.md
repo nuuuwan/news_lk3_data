@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 14:57:23**
+As of **2024-10-06 15:08:15**
 
 ## Newspaper Stats
 
-*Scraped **48,025** Articles*
+*Scraped **48,026** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 4,437
 dailymirrorlk | 4,733
 adaderanalk | 5,659
 tamilmirrorlk | 6,482
-virakesarilk | 7,681
+virakesarilk | 7,682
 adaderanasinhalalk | 8,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,025 (100.0%) of 48,025 articles have been extended.
+48,026 (100.0%) of 48,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Samasti - Traditional Tamil Homeland - International mechanism for war crimes - JVP -British Tamil Congress opposed peace efforts
+
+*2024-10-06 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195625) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+JVP opposes peace efforts, supports war crimes investigation opposition. Anura Kumara Dissanayake's leadership questioned. British Tamil Congress criticizes JVP's anti-Tamil history. JVP's influence on Sri Lankan politics and peace process highlighted.
+
+🟩
+
+The British Tamil Congress, which has issued a statement pointing to the JVP's anti -Tamil past and their steps to confuse peace efforts
+
+Under the worst governments;The presence of Anura Kumaratisanayake, who made the promise of the organization's serious changes in the moment of the nation, appears to be a matter of great relief to the Sri Lankan people.
+
+Will this change end the 75 -year violence against the Tamil people?
+
+He is not a Marxist, but he is a left -wing Sinhala nationalist in Sri Lankan politics.
+
+His political life is seen as a testament to things that have not yet taken place during his tenure.
+
+In this statement, the British Tamil Congress wants to present some issues about the JVP and Anuragumaratisanayake.
+
+During his student period, Anuragumaratisanayaka joined the JVP, the anti -Tamil anti -Western anti -Western anti -Western anti -Western anti -Sinhala Sinhalese fundamentalist organization.
+
+...
+
+[Data](articles/8a5e2f78.json)
+
+[Extended Data](ext_articles/8a5e2f78.ext.json)
+
+---
 
 ### India’s ruling party set to lose two state elections, exit polls show
 
@@ -2427,25 +2461,5 @@ After considering the following, the Magistrate ordered that the suspects were r
 [Data](articles/3492d226.json)
 
 [Extended Data](ext_articles/3492d226.ext.json)
-
----
-
-### New Director appointment to State Intelligence Service
-
-*2024-10-05 16:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-புலனாய்வு-சேவைக்கு-புதிய-பணிப்பாளர்-நியமனம்/175-344946) · `ta`
-
-Dhammika Kumara appointed Director State Intelligence Service replacing Major General Suresh Saleh after his retirement.
-
-🟩
-
-Deputy Inspector General of Police Dhammika Kumara has been appointed as the new Director of the State Intelligence Service (SIS).
-
-The appointment has been made following the retirement of Major General Suresh Saleh, who was previously in office.. Remble
-
-◼️
-
-[Data](articles/3bcf3450.json)
-
-[Extended Data](ext_articles/3bcf3450.ext.json)
 
 ---

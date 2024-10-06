@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 04:23:04**
+As of **2024-10-07 04:38:56**
 
 ## Newspaper Stats
 
-*Scraped **48,085** Articles*
+*Scraped **48,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 475
 colombotelegraphcom | 476
 islandlk | 2,836
 economynextcom | 2,942
-dailyftlk | 3,242
+dailyftlk | 3,247
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
@@ -26,11 +26,101 @@ adaderanasinhalalk | 8,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,085 (100.0%) of 48,085 articles have been extended.
+48,090 (100.0%) of 48,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### DIG Dhammika Priyantha Kumara replaces Maj. General Suresh Salley as SIS Chief
+
+*2024-10-07 04:04:02* · [`dailyftlk`](https://www.ft.lk/news/DIG-Dhammika-Priyantha-Kumara-replaces-Maj-General-Suresh-Salley-as-SISChief/56-767646) · `en`
+
+Deputy Inspector General of Police (DIG) Dhammika Priyantha Kumara has been appointed as the new Director of the State Intelligence Service (SIS), replacing Major General Suresh Salley who has faced ongoing allegations of involvement in the 2019 Easter Sunday bombings.
+
+DIG Kumara’s appointment follows the dismissal of Salley and comes at a time of growing demands for accountability in one of Sri Lanka’s most devastating terror attacks.
+
+DIG Kumara, who previously held key positions such as Financial Crimes Investigation Division (FCID) Director and Criminal Investigation Department (CID) Deputy Director, brings extensive experience in handling high-profile investigations.
+
+...
+
+[Data](articles/75ba1f2e.json)
+
+[Extended Data](ext_articles/75ba1f2e.ext.json)
+
+---
+
+### Acting IGP orders swift action on police complaints
+
+*2024-10-07 04:03:29* · [`dailyftlk`](https://www.ft.lk/news/Acting-IGP-orders-swift-action-on-police-complaints/56-767645) · `en`
+
+All investigations into complaints received are commenced on the same day and are completed within 48 hours
+
+Sets a deadline of two weeks to resolve all uninvestigated and unresolved complaints to date
+
+Acting Inspector General of Police (IGP) Priyantha Weerasooriya has directed all police stations across the country to ensure that investigations into complaints received are commenced on the same day and are completed within 48 hours. He has also issued an urgent order to resolve all uninvestigated and unresolved complaints to date within two weeks.
+
+The directive aims to improve the efficiency of police investigations and ensure swift justice for the public. The Acting IGP’s orders come amid concerns over delayed investigations and unresolved cases at police stations nationwide.
+
+Last week, the Police Media Division reported that a special meeting was held on 3 October at the Police Headquarters, chaired by the new Public Security Ministry Secretary Senior DIG (Rtd) Ravi Seneviratne.
+
+...
+
+[Data](articles/6a7a643f.json)
+
+[Extended Data](ext_articles/6a7a643f.ext.json)
+
+---
+
+### Rajeev Amarasuriya to contest for post of BASL President 2025/2026
+
+*2024-10-07 04:01:32* · [`dailyftlk`](https://www.ft.lk/news/Rajeev-Amarasuriya-to-contest-for-post-of-BASL-President-2025-2026/56-767644) · `en`
+
+Attorney-at-Law Rajeev Amarasuriya will contest for the post of President of the Bar Association of Sri Lanka (BASL) for the year 2025/2026, at the elections scheduled for February 2025.
+
+Amarasuriya was elected BASL Secretary in February 2020 with a landslide majority, having received 83% of the votes cast, and thereafter commenced his tenure in the midst of the first country lockdown due to the COVID-19 pandemic.
+
+Amarasuriya, as BASL Secretary, is credited for providing transformational leadership to the BASL during the period 2020–2022, which covered both the pandemic and the economic crisis, introducing many novel initiatives and completely changing the way the BASL conducted its operations, making use of new technology and other innovative methods.
+
+...
+
+[Data](articles/50908cae.json)
+
+[Extended Data](ext_articles/50908cae.ext.json)
+
+---
+
+### Industry giant Maliban asserts intellectual property rights for ‘Maliban Cream Cracker’ in famous ‘red’ pack
+
+*2024-10-07 03:57:24* · [`dailyftlk`](https://www.ft.lk/business/Industry-giant-Maliban-asserts-intellectual-property-rights-for-Maliban-Cream-Cracker-in-famous-red-pack/34-767643) · `en`
+
+An enjoining order was issued by the Commercial High Court of Colombo on 30 September 2024 enjoining Uswatte Confectionery Works Ltd. from manufacturing, packing, stocking, displaying, distributing, selling, reselling, advertising, promoting, and/or dealing in any manner howsoever, any products under the packaging which is confusingly similar and/or identical to the ‘Maliban Cream Cracker’ packaging owned by the industry giant Maliban Biscuit Manufactories Ltd.
+
+The matter was taken up before Judge K.P. Fernando in the Commercial High Court of Colombo, and upon hearing the submissions made by the Counsel representing Maliban Biscuit Manufactories Ltd., the enjoining order was granted against the Defendant, Uswatte Confectionery Works Ltd.
+
+...
+
+[Data](articles/35640cc2.json)
+
+[Extended Data](ext_articles/35640cc2.ext.json)
+
+---
+
+### Ceylon Chamber welcomes successful IMF and OCC agreement on debt relief
+
+*2024-10-07 03:56:55* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-welcomes-successful-IMF-and-OCC-agreement-on-debt-relief/34-767642) · `en`
+
+The Ceylon Chamber of Commerce yesterday commended the Government on the successful completion of consultations with the Official Creditor Committee (OCC) and the International Monetary Fund (IMF) regarding the Agreement in Principle (AIP) reached with international and local holders of International Sovereign Bonds (ISBs).
+
+It said this marks significant progress towards achieving external debt restructuring and is aligned with the first priority out of the 10 key areas The Chamber highlighted in its recommendations to the new administration (https://www.chamber.lk/ceylon-chamber-congratulates-new-president/).
+
+...
+
+[Data](articles/ba9f53c2.json)
+
+[Extended Data](ext_articles/ba9f53c2.ext.json)
+
+---
 
 ### One person dies in a heavy vehicle collision with a plowing machine
 
@@ -2327,129 +2417,5 @@ The OIC Chief Inspector Investigation OIC Chief Inspector Investigation Unit, Ch
 [Data](articles/66118351.json)
 
 [Extended Data](ext_articles/66118351.ext.json)
-
----
-
-### Thundershowers in many parts of the country
-
-*2024-10-06 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195588) · `ta`
-
-Thunderstorms forecasted across Sri Lanka today. Heavy rain expected in several provinces. Strong winds and lightning warnings issued. Sea areas to experience turbulence due to high winds. Public advised to remain vigilant.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that atmospheric conditions are optimal for thunderstorms in most parts of the country from this afternoon.
-
-Rain or thunderstorms can occur in most parts of the country in the afternoon or night.
-
-Rainfall is expected in the morning in Sabaragamuwa, Upper, North Western and Northern Provinces as well as in the Galle, Matara and Trincomalee districts.
-
-Heavy rains are expected to occur up to 75 mm in some parts of the North, Eastern, North Central and Uva provinces.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Rainfall or thunderstorms are expected in many parts of the sea regions from Trincomalee to Kankesanthurai, Mannar, Colombo and Galle in many parts of the sea regions in the evening or night.
-
-Winds from the southwest at speeds of 25 - 35 km / h in the sea regions.
-
-...
-
-[Data](articles/6f11b567.json)
-
-[Extended Data](ext_articles/6f11b567.ext.json)
-
----
-
-### Acting IGP praises police conduct during Presidential Election
-
-*2024-10-06 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102478/acting-igp-praises-police-conduct-during-presidential-election) · `en`
-
-Acting Inspector General of Police (IGP) Priyantha Weerasooriya stated that the Sri Lanka Police were able to build a positive image in society through their conduct during the recent presidential election.
-
-Speaking at a function in Kalkudah yesterday (05), Weerasooriya emphasized, “The most challenging period following a political transition is often post-election violence. However, after this election, I witnessed the most peaceful post-election period during my service. This is a new culture, and we must continue to uphold it, as it greatly benefits the Sri Lanka Police.”
-
-He also expressed gratitude to the political authorities for facilitating such an environment, noting that this election demonstrated the highest efficiency of the police.
-
-“The police were able to recover from past setbacks and restore a positive image, which has been praised both locally and internationally,” he added.
-
-◼️
-
-[Data](articles/378d3230.json)
-
-[Extended Data](ext_articles/378d3230.ext.json)
-
----
-
-### Ranil is another leadership
-
-*2024-10-06 08:49:06* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ට-තවත්-නායකත්වයක්/11-412319) · `si`
-
-Ranil Wickremesinghe proposed as UPFA leader for general election. Opposition parties joining UPFA, supporting Ranil from previous presidential race. UPFA plans to contest general election.
-
-🟩
-
-Ranil Wickremesinghe has been proposed to be appointed as the Leader of the UPFA leader to give birth to the General Election.
-
-The opposition political parties will be added to the UPFA, which supported by Ranil Wickremesinghe in the last presidential election, the party to join the UPFA.
-
-The UPFA has decided to contest the gas cylinder to the general election.
-
-◼️
-
-[Data](articles/a34fff9f.json)
-
-[Extended Data](ext_articles/a34fff9f.ext.json)
-
----
-
-### A terrible flooding condition in Mexico
-
-*2024-10-06 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201893) · `si`
-
-Flooding in Oaxaca, Mexico: Heavy rains displace hundreds, flood cities, relief efforts underway. Weather warning issued for upcoming days.
-
-🟩
-
-Foreign media reports that hundreds of people are displaced in the Ohacaots State.
-
-In Mexico, heavy rains and floods, including heavy rains and floods, have reported.
-
-Accordingly, many cities in the state have been flooded by foreign media.
-
-Accordingly, relief workers had taken steps to refer to the affected groups to protective places.
-
-A few relief teams have been deployed to assist personnel affected man.
-
-The Mexican weather authorities had warned that heavy showers from Ohacaoting in the next few days.
-
-◼️
-
-[Data](articles/3e0fe30f.json)
-
-[Extended Data](ext_articles/3e0fe30f.ext.json)
-
----
-
-### Jeep cart that caused controversy in Sri Lanka
-
-*2024-10-06 08:31:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-சர்ச்சையை-ஏற்படுத்திய-ஜீப்-வண்டி/175-344956) · `ta`
-
-Sri Lanka: Jeep seizure controversy. Illegally imported vehicle seized by Bribery Commission. Businessman defies court order, sparking legal battle.
-
-🟩
-
-It is reported that a jeep, which has been illegally brought to Sri Lanka to Sri Lanka, has been seized by the Bribery Commission.
-
-The Secret and Intelligence Unit of the Commission has received information that the jeep has been registered with the Department of Motor Transportation.
-
-Accordingly, a court of court ordered the businessman to hand over the jeep car to the Bribery Commission before the 18th.
-
-However, the Colombo Magistrate's Court has issued a court order against a businessman in Nelumgama, Badulla, in violation of those orders. Remble
-
-◼️
-
-[Data](articles/e67beb48.json)
-
-[Extended Data](ext_articles/e67beb48.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 11:09:33**
+As of **2024-10-06 11:22:58**
 
 ## Newspaper Stats
 
-*Scraped **47,994** Articles*
+*Scraped **47,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,939
 dailyftlk | 3,235
-adalk | 4,431
+adalk | 4,432
 dailymirrorlk | 4,733
 adaderanalk | 5,653
-tamilmirrorlk | 6,473
+tamilmirrorlk | 6,474
 virakesarilk | 7,675
 adaderanasinhalalk | 8,312
 
@@ -26,57 +26,105 @@ adaderanasinhalalk | 8,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,991 (100.0%) of 47,994 articles have been extended.
+47,996 (100.0%) of 47,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
 
-### உருளைக்கிழங்கு, வெங்காயத்தின் வரி அதிகரிப்பு
+### I don't even write a word about it ”
+
+*2024-10-06 11:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-அதைப்-பற்றி-ஒரு-வார்த்தை-கூட-எழுதவில்லை/175-344966) · `ta`
+
+Former President Maithripala Sirisena released autobiography Sihinaya - Nonimia in Colombo. He addressed Easter attacks, saying he didn't mention them. Book took three years to write and was printed abroad due to concerns about local printing. Sirisena felt publishing under new government was right timing.
+
+🟩
+
+Former President Maithripala Sirisena released his autobiography Sihinaya - Nonimia in Colombo last Friday.
+
+Speaking at the event, Sirisena addressed the alive Sunday attacks during the 2019 regime.
+
+“Those who want to discredit me can expect to find something about the Easter attack in this book. I didn't even write a word about it, ”he said.
+
+He explained that it took three years to write this book and that it was concerned about whether it was to printed it in Sri Lanka.. "So, it was printed abroad and had not been released for five years," he added.
+
+Sirisena said he was waiting for the right time to publish the book and that he felt the right time under the new government.
+
+◼️
+
+[Data](articles/e0d6b10c.json)
+
+[Extended Data](ext_articles/e0d6b10c.ext.json)
+
+---
+
+### Potato, onion tax increase
 
 *2024-10-06 10:51:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உருளைக்கிழங்கு-வெங்காயத்தின்-வரி-அதிகரிப்பு/175-344964) · `ta`
 
-உருளைக்கிழங்கு மற்றும் பெரிய வெங்காயத்திற்கான விசேட இறக்குமதி வரியை நிதி அமைச்சு அதிகரித்துள்ளது.
+Potato, onion tax hike: Potato tax rises 10 rupees/kg, onion tax increases 20 rupees/kg.
 
-அதன்படி உருளைக்கிழங்கு மீதான வரி கிலோ ஒன்றுக்கு 10 ரூபாவும், பெரிய வெங்காயத்திற்கான வரி கிலோவுக்கு 20 ரூபாவினாலும் அதிகரிக்கப்பட்டுள்ளது.
+🟩
+
+The Ministry of Finance has increased the special import tax on potatoes and large onions.
+
+Accordingly, the tax on potatoes has been increased by 10 rupees per kg and the tax on onion is 20 rupees per kg.
 
 ◼️
 
 [Data](articles/3cb8f7f3.json)
 
+[Extended Data](ext_articles/3cb8f7f3.ext.json)
+
 ---
 
-### வீட்டை விட்டு வெளியேறிய சிறுமிகள் பாலியல் வன்கொடுமை
+### The girls who left the house are sexually abused
 
 *2024-10-06 10:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டை-விட்டு-வெளியேறிய-சிறுமிகள்-பாலியல்-வன்கொடுமை/175-344963) · `ta`
 
-பெற்றோர்களின் தொல்லை தாங்க முடியாது, கொழும்பு சென்று வாழ வேண்டும்  என வீட்டை விட்டு வெளியேறிய 14 வயதுடைய இரு சிறுமிகளை விடுதி ஒன்றிற்கு கொண்டு சென்று பாலியல் வன்கொடுமை செய்த சென்ற தனியார் பேருந்தொன்றின் நடத்துனர் மற்றும் சாரதி சனிக்கிழமை (5) அன்று கைது செய்யப்பட்டுள்ளனர் .
+Sexual abuse case: Two girls, ages 2 and 14, assaulted on bus. Conductor and driver arrested. Victims hospitalized. Case remanded for investigation.
 
-காத்தான்குடி பிரதேசத்தைச் சேர்ந்த 14 வயதுடைய இரு சிறுமிகளின் பெற்றோர்கள் தொடர்ச்சியாக கண்டித்து வருவதன் காரணமாக அவர்களின் தொல்லை தாங்க முடியாது வீட்டை விட்டு கொழும்புக்கு சென்று தங்கி வாழ வேண்டும் என திட்டமிட்ட சிறுமிகள் புதன்கிழமை (02) அன்று காலை பாடசாலை செல்வதாக கூறி வீட்டை விட்டு வெளியேறி மட்டக்களப்புக்கு சென்று ஓர் இடத்தில் தமது பாடசாலை உடைகளை மாற்றிக்கொண்டு கொழும்பு செல்வதற்காக பஸ் தரிப்பு நிலையத்தில் காத்திருந்துள்ளனர் .
+🟩
+
+The conductor and driver of a private bus who had been sexually assaulted by a 14 -year -old girl who had left the house to live in Colombo, had been arrested on Saturday (5).
+
+Two -year -old girls from Kattankudy area continued to condemn their parents who were planning to leave the house on Wednesday morning (02) and went to Batticaloa to travel to Colombo to travel to Colombo on Wednesday morning.Waiting at the station.
+
+During this time, a private bus traveling from Akkaraipattu to Trincomalee arrived at the Batticaloa main bus stand and the two were able to go to Colombo and get to Colombo.
+
+As the bus reached the Vaharai, the two girls who were sleeping in the conductor went to the Ottumavadi, and you have not come down to the Vakarai.
 
 ...
 
 [Data](articles/eb40e721.json)
 
+[Extended Data](ext_articles/eb40e721.ext.json)
+
 ---
 
-### தண்ணீர் போத்தல்களின் விலை தொடர்பில் அறிவிப்பு
+### Notice regarding the price of water bottles
 
 *2024-10-06 10:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீர்-போத்தல்களின்-விலை-தொடர்பில்-அறிவிப்பு/175-344962) · `ta`
 
-தற்போது விற்பனை செய்யப்படும் தண்ணீர் போத்தல் தொடர்பில் மத்திய மாகாண இயற்கை கனிய நீர் உற்பத்தியாளர்கள் சங்கம் புதிய அறிவிப்பொன்றை வெளியிட்டுள்ளது.
+Central Province Natural Framework Producers Association announces 500ml water bottles now priced at 70 rupees instead of 100 rupees. Guest Sabumal Kumara made statement during Kandy press conference. Reports suggest commodity prices may drop within two weeks due to strengthening rupee against USD.
 
-சந்தையில் தற்போது 100 ரூபாவிற்கு விற்பனை செய்யப்படும் 500 மில்லிலீற்றர் தண்ணீர் போத்தல் ஒன்றை 70 ரூபாவிற்கு விற்பனை செய்ய முடியும் என அறிவித்துள்ளது.
+🟩
 
-கண்டியில் சனிக்கிழமை (5) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவித்த போதே அந்த சங்கத்தின் அழைப்பாளர் சபுமல் குமார இதனைத் தெரிவித்தார்.
+The Central Province Natural Framework Producers Association has issued a new announcement regarding the current water bottle.
 
-இதேவேளை, நாட்டில் எதிர்வரும் இரண்டு வாரங்களில் பொருட்களின் விலை குறைவடைவதற்கான வாய்ப்புள்ளதாக தகவல்கள் வெளியாகி உள்ளது.
+It has been announced that a 500mm of water, which is currently sold for 100 rupees in the market, can be sold for 70 rupees.
 
-அமெரிக்க டொலருக்கு நிகரான ரூபாவின் பெறுமதி வலுவடைந்ததுள்ளதால் அதன் பலனை நுகர்வோருக்கு பெற்றுக்கொடுக்க உள்ளதாக வர்த்தக நுகர்வோர் பாதுகாப்பு அமைச்சு ( Ministry of Trade, Commerce and Food Security) அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+The guest of the association, Sabumal Kumara, said this while addressing a media briefing held in Kandy on Saturday (5).
+
+Meanwhile, reports have emerged that the price of commodities will fall in the next two weeks.
+
+It is noteworthy that the Ministry of Commerce of Trade, Commerce and Food Security has announced that the value of the rupee against the US dollar has been strengthened.
 
 ◼️
 
 [Data](articles/d65270f3.json)
+
+[Extended Data](ext_articles/d65270f3.ext.json)
 
 ---
 
@@ -143,6 +191,32 @@ Accordingly, the government has taken the imported commodity tax of Rs. 10 to Rs
 [Data](articles/3aba4272.json)
 
 [Extended Data](ext_articles/3aba4272.ext.json)
+
+---
+
+### Women's back video was arrested
+
+*2024-10-06 09:09:41* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්ගේ-පසුපස-වීඩියෝ-කළ-අනංගයා-අල්ලයි/11-412320) · `si`
+
+Kandy police arrest suspect over women's back video. CMC unit investigates 30-year-old man. Photos and videos found. Further investigation led by Chief Inspector Anuruddha Bandaranaike.
+
+🟩
+
+The Kandy Employees Criminal Investigation Unit (CMC) has been arrested in the backdrop of young women in Kandy.
+
+The Kandy Vidyalaya Divisional Investigation Unrise Investigation Unit was observed and observed that he was doing something suspiciously in civilian clothes this morning.
+
+The videos and 19 photographs of women in Kandy have been observed in the city of Kandy.
+
+As a hygiene of the Kandy National Hospital, Thirty-year-old manner has been admitted to the videos and photos of him.
+
+The OIC Chief Inspector Investigation OIC Chief Inspector Investigation Unit, Chief Inspector General of Police Anuruddha Bandaranaike, is conducting further investigations.
+
+◼️
+
+[Data](articles/66118351.json)
+
+[Extended Data](ext_articles/66118351.ext.json)
 
 ---
 
@@ -2321,43 +2395,5 @@ Protesters have said that the United Nations immediately should take immediate a
 [Data](articles/df9be4be.json)
 
 [Extended Data](ext_articles/df9be4be.ext.json)
-
----
-
-### Success in negotiations - Finance Ministry Notification
-
-*2024-10-05 10:33:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேச்சுவார்த்தைகள்-வெற்றி-நிதியமைச்சு-அறிவிப்பு/175-344942) · `ta`
-
-Sri Lanka's Finance Ministry announced successful negotiations between its official lending committee and the IMF. The two parties confirmed compatibility with China's Export Import Bank regarding debt restructuring agreements. The new government has adopted debt goals, compliance conditions, and international sovereignty system reforms.
-
-🟩
-
-In a statement issued yesterday, the Finance Ministry said that the officials of Sri Lanka's official lending committee and the International Monetary Fund have successfully concluded.
-
-According to the report, they have confirmed that the issues were compatible with the official credit issuer committee and the China's Export Import Bank last June and the issues involved in the official debt renovation agreement are based on the IMF conditions.
-
-The Finance Ministry said that the debt goals, compliance and conditions associated with the new president -led government have been adopted and the reorganization of international sovereignty systems has been approved in accordance with them.. Remble
-
-◼️
-
-[Data](articles/01f072af.json)
-
-[Extended Data](ext_articles/01f072af.ext.json)
-
----
-
-### 33-year-old man stabbed to death in Colombo
-
-*2024-10-05 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102463/33-year-old-man-stabbed-to-death-in-colombo) · `en`
-
-A 33-year-old resident of Mahiyanganaya was reportedly stabbed to death with a sharp weapon on Reclamation Road, Second Cross Street in Colombo.
-
-The incident took place today (05) around 1:30 a.m., according to police reports.
-
-◼️
-
-[Data](articles/3759d209.json)
-
-[Extended Data](ext_articles/3759d209.ext.json)
 
 ---

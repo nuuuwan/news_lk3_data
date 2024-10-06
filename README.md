@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 17:23:15**
+As of **2024-10-06 17:39:42**
 
 ## Newspaper Stats
 
-*Scraped **48,035** Articles*
+*Scraped **48,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,438
+adalk | 4,439
 dailymirrorlk | 4,733
-adaderanalk | 5,659
-tamilmirrorlk | 6,484
+adaderanalk | 5,660
+tamilmirrorlk | 6,485
 virakesarilk | 7,685
 adaderanasinhalalk | 8,318
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,318
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,035 (100.0%) of 48,035 articles have been extended.
+48,038 (100.0%) of 48,038 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### President assures justice for Easter attacks victims
+
+*2024-10-06 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102485/president-assures-justice-for-easter-attacks-victims) · `en`
+
+President Anura Kumara Dissanayake announced that the investigations into the Easter Sunday attacks will be expedited, and steps will be taken to ensure that such a tragedy never occurs again in the country. He assured that justice will be delivered to the victims.
+
+The President made these remarks during a discussion held today (06) at St. Sebastian’s Church in Katuwapitiya, Negambo, with the families of those killed and injured in the Easter Sunday attack, the President’s Media Division (PMD) reported.
+
+President Anura Kumara Dissanayake visited the church during the morning and laid floral tributes at the memorial established in honor of the victims. To mark the occasion, a commemorative gift was also presented to the president.
+
+...
+
+[Data](articles/00425d88.json)
+
+[Extended Data](ext_articles/00425d88.ext.json)
+
+---
 
 ### President guarantees to bring justice to Easter victims
 
@@ -57,6 +75,34 @@ The President of Sri Lanka's citizens, hope, hope and purpose, and the prospect 
 [Data](articles/9814472f.json)
 
 [Extended Data](ext_articles/9814472f.ext.json)
+
+---
+
+### “Yoshitha has 7 guns”
+
+*2024-10-06 16:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யோஷிதவிடம்-7-துப்பாக்கிகள்-உள்ளன/175-344988) · `ta`
+
+Sri Lanka: Former MP receives 8 guns, businessman gets 9. Ministry orders return of weapons for self-defense. Deadline set for November 7.
+
+🟩
+
+The Ministry of Defense has reported that former MP Johnston Fernando has received 8 guns from the last government.
+
+Accordingly, AF 408-9mm CZ 75, AHIBT 219-9mm Glock, ESM 893-9mm GLOCK, 24SLG2-0002-12Bore Repeater, 24SLG2-0151-12 bore Repeater-12410, 2400 2/240888-153399-12410, 2400 2/240888The 8 guns of the war -rebellion have been provided by the Ministry of Defense.
+
+In addition, Nishanga, who runs Avancard, has received 9 guns from the last government.. The guns have 7 pistols (9mm) and 2 warpters.
+
+The Ministry of Defense has decided on Friday (04) to recover all the guns and shoes provided to citizens for self -defense.
+
+Accordingly, all the licensed people were announced to be handed over to the State Business Explosives Reserve in the Sri Lanka Navy's Welisara before November 7.
+
+Former President Mahinda Rajapaksa's son Yoshitha Rajapaksa has been given 07 guns by the previous government.
+
+◼️
+
+[Data](articles/ebd65113.json)
+
+[Extended Data](ext_articles/ebd65113.ext.json)
 
 ---
 
@@ -365,6 +411,32 @@ The second match is scheduled to start between Scotland team and the West Indies
 [Data](articles/02d258af.json)
 
 [Extended Data](ext_articles/02d258af.ext.json)
+
+---
+
+### A racket of increasing artificial egg equipment
+
+*2024-10-06 13:32:17* · [`adalk`](https://www.ada.lk/breaking_news/කෘතිම-බිත්තර-හිගයක්-මවා-බිත්තර-මිල-ඉහළ-දැමිමේ-ජාවාරමක්/11-412326) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sanjeewa Karuna Sanjeewa discusses artificial egg equipment at a press conference in Kurunegala. He addresses rising egg prices and potential shortages. Sanjeewa plans to increase egg prices in December and provide false eggs to farmers, discussing this with the Ministry of Agriculture and Postal Elements.
+
+🟩
+
+Convener of the Sanjeewa Karuna Sanjeewa, Sanjeewa Karuna Sanjeewa held at the press conference held in Kurunegala.
+
+He is ready to embrace the heat of egg prices, as well as in the marketplace that the eggs were in the market, and preparation to embarrass the shortage of false eggs.Much, he said.
+
+It has been discussed with the Ministry of Agriculture and the Postal Elements to increase the egg prices in December and to provide false eggs to the farmers who have already decreased relief to farmers.Speaking to Sanjeewa added Karunara, he added ...
+
+◼️
+
+[Data](articles/8cbdceb8.json)
+
+[Extended Data](ext_articles/8cbdceb8.ext.json)
 
 ---
 
@@ -2349,77 +2421,5 @@ Chasing a 94 runs, Australia launched its target of 14 wickets at the end of 4 o
 [Data](articles/c9d08590.json)
 
 [Extended Data](ext_articles/c9d08590.ext.json)
-
----
-
-### Bumi Hansamali is a 9 -hour trial
-
-*2024-10-05 18:36:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியூமி-ஹன்சமாலியிடம்-9-மணி-நேரம்-விசாரணை/175-344947) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Famous actress/model Pumi Hansamali questioned 9 hours about luxury car & assets. Investigation focuses on income sources for car purchase and additional earnings from cosmetic sales.
-
-🟩
-
-The illegal assets investigation unit has once again investigated the famous actress and model Pumi Hansamali.
-
-He was investigated for about 9 hours yesterday (04) regarding his luxury car and his assets.
-
-Investigations have been launched on how Pumi Hansamali made money for the purchase of a luxury car and how he received more money through the cosmetics she sells.
-
-Pumi Hansamali appeared in the Intelligence Unit at 9 am yesterday to present the affidavits regarding the investigation.. Remble
-
-◼️
-
-[Data](articles/6ee5c4e9.json)
-
-[Extended Data](ext_articles/6ee5c4e9.ext.json)
-
----
-
-### PHIs issue notice over imported coconut oil
-
-*2024-10-05 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/102471/phis-issue-notice-over-imported-coconut-oil-) · `en`
-
-The Public Health Inspectors’ Union has reassured the public that there is no need for undue concern regarding imported coconut oil.
-
-Commenting regarding the rising suspicions surrounding the safety and quality of coconut oil entering Sri Lanka, the Chairman of the Public Health Inspectors’ Union Upul Rohana said: “When coconut oil is imported to Sri Lanka, a special inspection is conducted by food inspectors from the Food Control Unit at Sri Lanka Customs. Imported RBD (Refined, Bleached, and Deodorized) oil can be sold as regular coconut oil, provided it adheres to the standards set by the 1987 directives under the Food Act No. 26 of 1980. There is no legal obstacle to its sale.”
-
-Mr Rohana emphasized that, in addition to customs inspections, the Public Health Inspectors conduct regular checks on coconut oil available in stores, both locally produced and imported.
-
-...
-
-[Data](articles/11e7442f.json)
-
-[Extended Data](ext_articles/11e7442f.ext.json)
-
----
-
-### Explanation of the coconut oil in the market
-
-*2024-10-05 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201881) · `si`
-
-Here's a 200-character summary:
-
-
-
-Colleges Association claims no need for passion regarding imported coconut oil. Public Health Inspectors Association president expresses concern about imported coconut oil quality. Imported coconut oil must meet Sri Lanka Standards. Local manufacturers accuse imported coconut oil marketing racket.
-
-🟩
-
-The Colleges Association (CHOGM) says that there is no need for passion to the imported coconut oil.
-
-Commenting on the suspicion of the imported coconut oil, President of the Public Health Inspectors' Association Mr. Upul Rohana said this.
-
-"In the Customs, the Food Control Checks conducted by the Food Control Unit at Customs to import coconut oil to Sri Lanka.  රට තුළට ආනයන කරන RBD ඔයිල් සාමන්‍ය පොල්තෙල් විදිහට අලෙවි කිරීමේ හැකියාව තියෙනවා. No legal disturbance for the Food Act No. 26 of 1980, in relation to the Coconut oil. Also, the coconut oil to bring the coconut oil in Sri Lanka as well as the Sri Lanka Standards Bureau officials are conducted by the officers of this coconut oil. "
-
-...
-
-[Data](articles/a2c8636f.json)
-
-[Extended Data](ext_articles/a2c8636f.ext.json)
 
 ---

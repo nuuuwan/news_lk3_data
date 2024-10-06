@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 17:08:15**
+As of **2024-10-06 17:23:15**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 8,318
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,034 (100.0%) of 48,035 articles have been extended.
+48,035 (100.0%) of 48,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
 
-### පාස්කු වින්දිතයන්ට යුක්තිය ඉටු කරන බවට ජනපතිගෙන් සහතිකයක්
+### President guarantees to bring justice to Easter victims
 
 *2024-10-06 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201900) · `si`
 
-පාස්කු ඉරිදා ප්‍රහාරයට අදාළ පරීක්ෂණ කඩිනම් කර එවන් ඛේදවාචකයක් නැවත රට තුළ ඇති නොවීමට පසුබිම සකසන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+Sri Lanka President Anura Kumara Dissanayake vows justice for Easter victims, promising swift investigations and retribution against perpetrators. Emphasizes tragedy's impact on national security and calls for eliminating political motivations behind attacks.
 
-පාස්කු ඉරිදා බෝම්බ ප්‍රහාරයෙන් තුවාල ලැබූ සහ මියගිය අයගේ පවුල්වල සාමාජිකයන් සමග අද (06) මීගමුව, කටුවාපිටිය ශාන්ත සෙබස්තියන් දේවස්ථානයේදී සාකච්ඡාවකට එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී ඔහු පාස්කු ප්‍රහාරයෙන් අසරණ වූ වින්දිතයන්ට සාධාරණය සහ යුක්තිය ඉටු කරන බවටද සහතික විය.
+President Anura Kumara Dissanayake said that the background was prepared to expedite investigations into the Easter attack and re-establish such tragedy.
 
-මෑත කාලයේ මෙරට සිදු වූ විශාලතම ඛේදවාචකය වන පාස්කු ප්‍රහාරය කාලයේ වැලි තලාවට යටපත් වුවත්, එය මකා දැමීමට කිසිසේත්ම ඉඩ නොදෙන බව ජනාධිපතිවරයා මෙහිදී අවධාරණය කළේය.
+The President was speaking at a discussion at St. Sebastian Church today (06) with the families of the Past Sunday, Negombo, Kalapitiya, Negombo.
 
-පසුගිය ජනාධිපතිවරණයේදී ජනතාව සිය දේශපාලන තීන්දුව ගැනීමට බලපෑ සාධක අතුරෙන් පාස්කු ප්‍රහාරය පිළිබඳ සාධාරණය හා යුක්තිය ඉටු වීමේ අපේක්ෂාවද ඇතුළත් බව තමා විශ්වාස කරන බව ජනාධිපතිවරයා සඳහන් කළේය.
+There he also ensured the victims of the victims and justice.
+
+The President emphasized that the Passover attack is the largest tragedy in the country recently, but it will not be allowed to delete the sand.
+
+The President said that he believed that the people of the last presidential election includes the prospect of being the prospect of justice and justice prospect of the Passover attack.
+
+The President of Sri Lanka's citizens, hope, hope and purpose, and the prospect of justice and fairness in Sri Lanka, the prospect of the people, the prospect of the Easter, have already begun.
 
 ...
 
 [Data](articles/9814472f.json)
+
+[Extended Data](ext_articles/9814472f.ext.json)
 
 ---
 

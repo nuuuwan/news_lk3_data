@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 11:39:15**
+As of **2024-10-06 11:58:22**
 
 ## Newspaper Stats
 
-*Scraped **47,998** Articles*
+*Scraped **47,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,939
 dailyftlk | 3,235
 adalk | 4,432
 dailymirrorlk | 4,733
-adaderanalk | 5,654
+adaderanalk | 5,655
 tamilmirrorlk | 6,475
 virakesarilk | 7,675
 adaderanasinhalalk | 8,312
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,998 (100.0%) of 47,998 articles have been extended.
+47,999 (100.0%) of 47,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Man killed in crocodile attack in Gemunupura
+
+*2024-10-06 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102480/man-killed-in-crocodile-attack-in-gemunupura) · `en`
+
+A man has reportedly been snatched by a crocodile while attempting to cross the Mora Oya in the Gemunupura area of the Sripura police division.
+
+The incident occurred after the victim, along with two others, had crossed the Mora Oya and was consuming alcohol in the ‘Ranjith Mankada’ area. Later, when the victim attempted to cross the river again to retrieve meat from his home, he was attacked by the crocodile, the police said.
+
+According to the police, part of the victim’s body was found partially eaten by the crocodile.
+
+The victim has been identified as a 60-year-old resident of Gamunupura, Padavi Sripura.
+
+The deceased’s body has been placed in the mortuary of Anuradhapura Hospital following an autopsy, and further investigations are being conducted by Sripura Police.
+
+◼️
+
+[Data](articles/7bff4530.json)
+
+[Extended Data](ext_articles/7bff4530.ext.json)
+
+---
 
 ### President Jayasree Maha Bodhi
 
@@ -2367,31 +2389,5 @@ Sri Lanka’s peak tourism season starts in November and goes until early March.
 [Data](articles/d8d72859.json)
 
 [Extended Data](ext_articles/d8d72859.ext.json)
-
----
-
-### Sweden's attention to develop renewable energy in this country
-
-*2024-10-05 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201866) · `si`
-
-Sweden focuses on renewable energy in Sri Lanka, reducing visa barriers for education. Swedish Ambassador discusses investments and higher education opportunities with Prime Minister.
-
-🟩
-
-Swedish government is focusing on the development of the renewable energy sector in Sri Lanka and reduce visas' educational opportunities and visa difficulties in Sweden.
-
-Dr. Harini Amarasuriya, Dr. Harin Amarasuriya and Swedish Ambassador in Sri Lanka was held at the Prime Minister's Office.
-
-Swedish Ambassador said that Swedish government is primarily focused on the renewable energy sector in Sri Lanka based on Swedish investments.
-
-Prime Minister Dr. Weli Amarasuriya has also paid attention to the attention of Swedish ambassador on higher education opportunities and visa difficulties in Sweden.
-
-The Hon.
-
-◼️
-
-[Data](articles/527b3e6d.json)
-
-[Extended Data](ext_articles/527b3e6d.ext.json)
 
 ---

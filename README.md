@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 14:23:03**
+As of **2024-10-06 14:38:34**
 
 ## Newspaper Stats
 
-*Scraped **48,020** Articles*
+*Scraped **48,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 2,940
 dailyftlk | 3,235
 adalk | 4,436
 dailymirrorlk | 4,733
-adaderanalk | 5,657
+adaderanalk | 5,659
 tamilmirrorlk | 6,482
-virakesarilk | 7,680
-adaderanasinhalalk | 8,314
+virakesarilk | 7,681
+adaderanasinhalalk | 8,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,020 (100.0%) of 48,020 articles have been extended.
+48,020 (100.0%) of 48,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### India’s ruling party set to lose two state elections, exit polls show
+
+*2024-10-06 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102484/indias-ruling-party-set-to-lose-two-state-elections-exit-polls-show) · `en`
+
+India’s ruling party is projected to have lost two key provincial elections to the main opposition Congress party and its allies, exit polls showed, suggesting another setback after the party fared poorly in national elections.
+
+Local media reported that Congress had a clear advantage in exit polls in the northern state of Haryana, indicating an end to a decade of rule by Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP) in the state. The opposition also held an edge in the Himalayan territory of Jammu and Kashmir.
+
+The two elections were held in phases that ended on Saturday. Votes will be counted on Tuesday and results will be announced the same day. The exit poll results were released late on Saturday.
+
+Exit polls, conducted by private polling firms including TV broadcasters, have a patchy record in India, which analysts say poses a particular challenge due to its large and diverse voting population.
+
+...
+
+[Data](articles/967dbcc2.json)
+
+---
+
+### 56 Pakistanis held in Sri Lanka return home after years in detention
+
+*2024-10-06 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102483/56-pakistanis-held-in-sri-lanka-return-home-after-years-in-detention) · `en`
+
+56 Pakistanis imprisoned in Sri Lanka for several years are finally set to leave today.
+
+Their return follows months of diplomatic negotiations by the Pakistani government. A chartered flight has been dispatched to Sri Lanka to bring back the detainees.
+
+Federal Minister of Interior Mohsin Naqvi spearheaded the efforts to secure their release, maintaining close contact with Sri Lankan authorities over the last three months.
+
+According to Express News, federal minister for privatization Abdul Aleem Khan is covering all costs associated with the repatriation, ensuring the prisoners’ safe return.
+
+Mohsin Naqvi thanked the Sri Lankan government and its High Commissioner for their cooperation in the matter.
+
+He also expressed gratitude to Abdul Aleem Khan for his financial support, which made the repatriation possible.
+
+The return of these 56 Pakistanis comes after years of detention in Sri Lankan jails.
+
+...
+
+[Data](articles/9ba9871a.json)
+
+---
+
+### ඊශ්‍රායලයෙන් ගාසා දේවස්ථානයකට ගුවන් ප්‍රහාරයක්
+
+*2024-10-06 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201897) · `si`
+
+ඊශ්‍රායලය විසින් ගාසා හි දේවස්ථානයකට එල්ල කළ ගුවන් ප්‍රහාරයකින් පුද්ගලයින් 24 දෙනෙකු ජිවිතක්ෂයට පත්ව තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ අවතැන්වූවන් රඳවා සිටි දේවස්ථානයක් වෙත අදාළ ප්‍රහාරය එල්ල වී ඇති බවයි.
+
+කෙසේවෙතත් ප්‍රහාරයෙන් මියගිය පිරිස තවදුරටත් ඉහළ යා හැකි බව ද විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ඊශ්‍රායලය විසින් පලස්තිනය වෙත එල්ල කළ ප්‍රහාරවලින් මේ වන විට පුද්ගලයින් 42,000ක් පමණ ජීවිතක්ෂයට පත්ව තවත් මිලියන 2.3 පිරිසක් අවතැන්ව ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/44d934c4.json)
+
+---
 
 ### 50 people who looted the woman;Allow the video to watch the video
 
@@ -75,6 +135,18 @@ The second match is scheduled to start between Scotland team and the West Indies
 [Data](articles/02d258af.json)
 
 [Extended Data](ext_articles/02d258af.ext.json)
+
+---
+
+### இலங்கை அரசியலில் தலைவரும் செயலாளரும்
+
+*2024-10-06 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/195613) · `ta`
+
+எதிர்வரும் பாராளுமன்றத் தேர்தலில் ஐக்கிய தேசிய கட்சியை கட்டியெழுப்பும் ஒரு அற்புதமான சந்தர்ப்பத்தை ரணில் நழுவ விட்டிருக்கின்றார். ஊழல் குற்றச்சாட்டு இல்லாத கை சுத்தமானவர், இராஜதந்திரி, எந்த சங்கடமான நிலைமைகளையும் சமாளிப்பவர், சர்வதேசத்துடனான தொடர்புகள், அரசியல் ஞானம் என்ற பெருமைகளை அவர் கொண்டிருந்தாலும் அவர் சிறந்த தலைமைத்துவ பண்புகள் கொண்டவராக இல்லை. தலைமைத்துவ பண்புகளில் முதன்மையானது புதிய தலைமைத்துவங்களுக்கு இடங்கொடுப்பது மற்றும் அவர்களை உருவாக்குவதாகும். அந்த பண்புகள் துளியளவும் ரணிலிடம் இல்லை. இப்படியான குணவியல்புகள் கொண்டவரிடம் தான் மீண்டும் சில கட்சிகள் எதிர்வரும் பாராளுமன்றத் தேர்தலுக்காக தஞ்சமடைந்துள்ளன.
+
+◼️
+
+[Data](articles/9086cffa.json)
 
 ---
 
@@ -2357,107 +2429,5 @@ Subsequently, the President held a discussion with the Maha Sangha for a while t
 [Data](articles/14422ff7.json)
 
 [Extended Data](ext_articles/14422ff7.ext.json)
-
----
-
-### President makes decisions based on policy statement
-
-*2024-10-05 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201875) · `si`
-
-Sri Lanka President Anura Kumara Dissanayake visits religious headquarters, discusses policy implementation and constitutional reform. Emphasizes decision-making based on policy statements and seeks Maha Sangha support for changes.
-
-🟩
-
-President Anura Kumara Dissanayake visited the Ramananayake Headquarts of the Ramanna Headquarts in Narahenpita today (05).
-
-The President then joined a brief discussion with the Mahanayake's top priority console.
-
-President Anura Kumara Dissanayake said that he is the objective of making all decisions as stated in his policy statement.
-
-The ambassadors were to appoint a group of people in an educated, intelligent and foreign country to appoint governors to appoint governors, not to appoint politics without politics.
-
-The Venerable Thera pointed out that the appointment of secretaries to the Ministry should also be appointed.
-
-The premises of the Anunayaka Thero and the Forecast Residents of the Sectioned Seth Pirith chanted the President and blessed the President.
-
-Meanwhile, President Anura Kumara Dissanayake visited the Sanghaya Headquarters of Sri Lanka Amarapura Maha Nikaya today (05) and visited Uyangoda Maithrimpathi Maha Vidyalaya.
-
-...
-
-[Data](articles/389e4b18.json)
-
-[Extended Data](ext_articles/389e4b18.ext.json)
-
----
-
-### Arrested for sale of meat without permit
-
-*2024-10-05 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195545) · `ta`
-
-Businessman arrested selling illegal beef in Dambulla. Over 3,000kg seized from hidden fridge. Operated as licensed shop but slaughtered animals illegally.
-
-🟩
-
-Dambulla police said that a businessman who killed cows and livestock for many years in Dambulla Nikkavatavana area has been arrested on Friday (04).
-
-According to information received by the Dambulla police, the suspect has been arrested in a beef shop carried out under the guise of a shop recognized by the Dambulla Pradeshiya Sabha.
-
-During the roundup, Dambulla police said that more than three,000 kg of beef was recovered from the refrigerator in the barn room near the beef shop.
-
-◼️
-
-[Data](articles/836a18ae.json)
-
-[Extended Data](ext_articles/836a18ae.ext.json)
-
----
-
-### Sri Lanka Freedom Party (SLFP) resolution to contest the Gas cylinder symbol
-
-*2024-10-05 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/195557) · `ta`
-
-Sri Lanka Freedom Party SLFP contests Gas cylinder symbol in general election. Decision made by party committees. Coalition to use symbol in local government polls.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) respondent and former minister Nimal Siripala de Silva has said that it has decided to contest the Gas cylinder symbol in the upcoming general election.
-
-He added that the decision was made by the party's political committee and the central action committee.
-
-He added that the Sri Lanka Freedom Party (SLFP) -led coalition will contest the new symbol in the local government elections.
-
-◼️
-
-[Data](articles/f97bfbe8.json)
-
-[Extended Data](ext_articles/f97bfbe8.ext.json)
-
----
-
-### Many information about Pettah murder
-
-*2024-10-05 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201874) · `si`
-
-Pettah murder: 23-year-old assaulted in Keselwatta over personal dispute. Police arrest 38-year-old suspect. Incident captured by Czech cameras. Victim's family claims harassment and assault.
-
-🟩
-
-A 23-year-old youth was assaulted in Keselwatta area in Pettah.
-
-The police said that the murder had been carried out over a personal dispute.
-
-The murder had occurred in Keselwatta, Keselwatta, yesterday (04).
-
-A group of czech camera was diagnosed with how a group of people were chased after the young man and attacking him.
-
-"Our homes have a home. We rented. We were told that there was a wood of water. I'll come tomorrow and said. Then he came to our home and shouted to our mother. I came and went to her house and asked. Then came to hit me. Scolded my mom on the garbage. It was hit my brother. He had gone to her home and took a two. Then hit the brother. When I went, I was raised. The brother is gone. "
-
-Police have arrested a 38-year-old suspect in the Colombo 12 area regarding the incident.
-
-◼️
-
-[Data](articles/977eb795.json)
-
-[Extended Data](ext_articles/977eb795.ext.json)
 
 ---

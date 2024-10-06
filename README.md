@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 08:03:34**
+As of **2024-10-06 08:46:03**
 
 ## Newspaper Stats
 
-*Scraped **47,972** Articles*
+*Scraped **47,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,123 @@ newsfirstlk | 363
 dbsjeyarajcom | 395
 bbccomsinhala | 474
 colombotelegraphcom | 474
-islandlk | 2,835
+islandlk | 2,836
 economynextcom | 2,939
 dailyftlk | 3,235
 adalk | 4,429
 dailymirrorlk | 4,733
-adaderanalk | 5,648
+adaderanalk | 5,651
 tamilmirrorlk | 6,465
 virakesarilk | 7,674
-adaderanasinhalalk | 8,308
+adaderanasinhalalk | 8,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,965 (100.0%) of 47,972 articles have been extended.
+47,968 (100.0%) of 47,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Dozens of Pakistan police injured in clashes with supporters of former PM Khan
+
+*2024-10-06 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102477/dozens-of-pakistan-police-injured-in-clashes-with-supporters-of-former-pm-khan) · `en`
+
+Over 80 police personnel have been injured in clashes with supporters of jailed former Prime Minister Imran Khan taking part in a march near Islamabad, Interior Minister Mohsin Naqvi said on Saturday.
+
+The march, which is being led by the head of the northwestern province of Khyber-Pakhtunkhwa, where Khan’s party remains in power, aims to gather in the capital, defying a ban on congregations, to press for Khan’s release and agitate against the ruling coalition.
+
+“The convoy, led by the chief minister, fired on the police and continuously used teargas against law-enforcers,” Naqvi told journalists.
+
+He said more than 80 police officers had been treated for injuries since Friday, when clashes broke out just outside the city during an anti-government rally.
+
+Authorities have sealed off Islamabad and blocked cellphone services to prevent the gathering.
+
+...
+
+[Data](articles/e1e7bb4c.json)
+
+---
+
+### President receives blessings from Sacred Jaya Sri Maha Bodhi
+
+*2024-10-06 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102476/president-receives-blessings-from-sacred-jaya-sri-maha-bodhi) · `en`
+
+President Anura Kumara Dissanayake visited the sacred Jaya Sri Maha Bodhi in Anuradhapura last afternoon (05) to pay homage and receive blessings.
+
+Upon his arrival at the historic Anuradhapura sacred site, the President first met with the Atamasthanadhipathi, Chief Sanghanayaka of Nuwara Kalaviya, and Chief Administrator of the Anuradhapura Maha Viharaya, Most Venerable Pallekumbura Hemarathana Nayake Thero. During this meeting, the President engaged in a brief discussion, inquiring about the Venerable Thero’s well-being, the President’s Media Division (PMD) said.
+
+Following this, the President proceeded to the Udamaluwa, where he participated in religious observances. At the main Dhamma Hall of the Jaya Sri Maha Bodhi, the Atamasthana Chief Prelate, along with the Maha Sangha, conducted Seth Pirith and invoked blessings upon the President.
+
+...
+
+[Data](articles/bb22f32e.json)
+
+---
+
+### ජනපතිවරණයේදී පොලීසියේ වැඩ සාර්ථකයි
+
+*2024-10-06 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201892) · `si`
+
+පසුගිය ජනාධිපතිවරණයේදී ශ්‍රී ලංකා පොලීසිය ක්‍රියාත්මක වූ ආකාරය තුළ සමාජය ඉදිරියේ පොලිසිය පිළිබඳ යහපත් ප්‍රතිරූපයක් ගොඩනැංවීමට හැකිවූ බව වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පවසයි.
+
+ඔහු මේ අදහස් පළ කළේ ඊයේ (05) කල්කුඩා ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින්ය.
+
+"දේශපාලන පරිවර්තනයකින් පසු ඉතාමත් අමාරුම කාලයක් තමයි පශ්චාත් මැතිවරණ ප්‍රචණ්ඩ ක්‍රියා. මගේ සේවා කාලයේ දුටු සාමකාමීම පශ්චාත් මැතිවරණ සමය මේ මැතිවරණයෙන් පස්සේ. අලුත් සංස්කෘතියක් මේක. අපි මේවා ඉදිරියට නඩත්තු කළ යුතුයි. එයින් වැඩිම පහසුව සැලසෙන්නේ ශ්‍රී ලංකා පොලිසියට. එවැනි අවස්ථාවක් සැදූ දේශපාලන අධිකාරියට ස්තූතියි. ඒ වගේම පොලීසියේ  ඉහළම කාර්යක්ෂමතාව ප්‍රදර්ශනය කරපු මැතිවරණයක්. පොලිසිය වැටී සිටි තැනින් නැගිටලා. පොලිසිය පිළිබඳ ඉහළ ප්‍රතිරූපයක් ඇති වුණා එම ක්‍රියාකාරීත්වය දෙස් විදෙස් ප්‍රශංසාවට ලක්වෙලා තියෙනවා."
+
+◼️
+
+[Data](articles/0468ceb5.json)
+
+---
+
+### Afternoon thundershowers expected in most parts of the island
+
+*2024-10-06 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102475/afternoon-thundershowers-expected-in-most-parts-of-the-island) · `en`
+
+The Meteorology Department says the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island from today (06).
+
+Showers or thundershowers will occur at most places in the island during the afternoon or night.
+
+Showers may occur in Western, Sabaragamuwa, Northern and North-western provinces and in Galle, Matara and Trincomalee districts during the morning too, it added.
+
+Fairly heavy showers of about 75 mm are likely at some places in Northern, North-central, Eastern and Uva province.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/85a3d605.json)
+
+[Extended Data](ext_articles/85a3d605.ext.json)
+
+---
+
+### වසරක් තුළ ලක්ෂයකට ආසන්න පිරිසක් කෘෂි රැකියාවලින් ඉවතට
+
+*2024-10-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201891) · `si`
+
+වසරක කාලයක් තුළ මෙරට කෘෂිකර්ම ක්ෂේත්‍රයේ රැකියාවලින් පුද්ගලයින් ලක්ෂයකට අධික ප්‍රමාණයක් ඉවත්ව ගොස් ඇති බව පේරාදෙණිය විශ්ව විද්‍යාලයේ ආර්ථික විද්‍යා හා සංඛ්‍යාන අධ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරළ මහතා පවසයි.
+
+ඔහු පැවසුවේ ජන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව නිකුත් කළ වාර්තාවකට අනුව මේ බව තහවුරු වන බවයි.
+
+වැඩිදුරටත් අදහස් දක්වමින් ඔහු පැවසුවේ මෙරට කෘෂිකාර්මික අංශය තුළ පවත්නා විවිධ ගැටළු හේතුවෙන් පුද්ගලයින් කෘෂිකාර්මික රැකියාවලින් ඉවත් වන බවත් රටට අවශ්‍ය කෘෂිකාර්මික නිෂ්පාදනයන් නිපදවීමද පහළ යාමක් දක්නට ලැබෙන බවත්ය.
+
+මෙම තත්ත්වය දිගින් දිගටම පැවතියහොත් මෙරට ආර්ථිකයට දැඩි බලපෑමක් එල්ල වනු ඇතැයි ද ඔහු පැවසීය.
+
+"පසුගිය වසරක පමණ කාලය තුළ කෘෂි අංශයේ රැකියාවලින් 147,989 පමණ ඉවත් වෙලා තියනවා.
+
+කෘෂි අංශයේ සේවා නියුක්ත පිරිස 2023 පළවෙනි කාර්තුව වනවිට 2,187,563 පමණ හිටියා. ඒක 2024 පළවෙනි කාර්තුව වෙනකොට 2,139,574 දක්වා පහළ යාමක් පෙන්නුම් කරනවා.
+
+2023 පළවෙනි කාර්තුව වනවිට සමස්ත සේවා නියුක්තියෙන් කෘෂි අංශයේ සේවා නියුක්තිය 26.7%ක් තිබුණේ. නමුත් 2024 පළමුවැනි කාර්තුව වනවිට එය 25.8% පහළ යාමක් පෙන්නුම් කරනවා."
+
+◼️
+
+[Data](articles/b74d5e4b.json)
+
+---
 
 ### 122 Independent Groups controlled
 
@@ -276,6 +374,20 @@ Q: Could you please share the ‘story’ behind the establishment of the Depart
 
 ---
 
+### The US Secret to Staying on Top – My Talk with George Friedman
+
+*2024-10-06 02:52:00* · [`islandlk`](http://island.lk/the-us-secret-to-staying-on-top-my-talk-with-george-friedman/) · `en`
+
+Forecasting geopolitics has been George Friedman’s life’s work; a historian renowned for his foresight into global shifts. In an era of global volatility, I had the opportunity to sit down with Friedman to discuss current world affairs, focusing on major powers such as the United States, Russia, and China. Notably, this was the first time he shared his insights on Sri Lanka, exploring its future in the context of a changing global landscape. As the founder of Geopolitical Futures and former chairman of Stratfor, Friedman’s experience and knowledge provided a comprehensive view of how global powers are shifting.
+
+...
+
+[Data](articles/97ffb495.json)
+
+[Extended Data](ext_articles/97ffb495.ext.json)
+
+---
+
 ### A pragmatic approach to governance: An independent citizen’s perspective on President Dissanayake’s recent appointments
 
 *2024-10-06 02:51:00* · [`islandlk`](http://island.lk/a-pragmatic-approach-to-governance-an-independent-citizens-perspective-on-president-dissanayakes-recent-appointments/) · `en`
@@ -287,6 +399,8 @@ As a concerned citizen of Sri Lanka, I have closely observed the early days of P
 ...
 
 [Data](articles/b0156f46.json)
+
+[Extended Data](ext_articles/b0156f46.ext.json)
 
 ---
 
@@ -2209,117 +2323,5 @@ The nomination commencement was commenced yesterday and the nominations to be ac
 [Data](articles/40f3bb8b.json)
 
 [Extended Data](ext_articles/40f3bb8b.ext.json)
-
----
-
-### Several spells of showers to several provinces
-
-*2024-10-05 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201858) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Showers forecasted in Western, Sabaragamuwa, Galle, and Matara regions. Possible evening/night showers in Northern, Eastern, and Uva provinces. Public advised to prepare for strong winds and lightning."
-
-🟩
-
-Several spells of showers in the Western and Sabaragamuwa provinces and the Galle and Matara districts.
-
-Showers or nights in the North, Eastern and Uva provinces may experience showers at several places in the evening or at night.
-
-The Department has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/0a5edb7a.json)
-
-[Extended Data](ext_articles/0a5edb7a.ext.json)
-
----
-
-### Sri Lanka Tourism surpasses 2023 tourist arrivals
-
-*2024-10-05 02:55:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-surpasses-2023-tourist-arrivals/) · `en`
-
-Sri Lanka Tourism with its continuous promotional efforts with clearly defined strategy and objectives, achieved the previous full year arrivals within the 1st nine months of this year. In 2023 the total arrivals were 1,487,303. During the month of September 2024, a total number of 112,140 tourist arrivals were recorded which showed a 9% growth compared to last year. The key source markets which contributed for this achievement were India, China, UK, Germany, Australia, Maldives, Russia, Bangladesh, Spain and France.
-
-The success was achieved through many strategic initiatives. With the tourism industry at a cross roads, “Seen is believing” influencer campaign created a huge impact to take the reality to the globe. Under this initiative, Sri Lanka Tourism Promotion Bureau (SLTPB) hosted nearly 180 media influencers from all over the world to take the positive message and to showcase the truth which supported the industry to come back gradually to normalcy.
-
-...
-
-[Data](articles/df8d48ac.json)
-
----
-
-### NDB Bank brings joy and learning to Royal College on World Children’s Day
-
-*2024-10-05 02:54:00* · [`islandlk`](http://island.lk/ndb-bank-brings-joy-and-learning-to-royal-college-on-world-childrens-day/) · `en`
-
-In celebration of World Children’s Day 2024, NDB Bank hosted a special event at Royal College, Colombo, offering a series of fun and educational activities for students. The day was filled with excitement, creativity, and learning, designed to engage children in meaningful experiences that inspire good habits, financial literacy, and creativity.
-
-The day’s festivities catered to two age groups. For students in grades 1-3, the event featured an interactive magic show that captivated the young audience and a session by NDB Bank on cultivating good habits. For grades 4 and 5, the magic show continued to entertain, followed by a lively Q&A session that engaged students on essential life skills and habits.
-
-...
-
-[Data](articles/da81590a.json)
-
-[Extended Data](ext_articles/da81590a.ext.json)
-
----
-
-### Chairman, Sri Lanka Ports Authority
-
-*2024-10-05 02:53:00* · [`islandlk`](http://island.lk/chairman-sri-lanka-ports-authority/) · `en`
-
-Admiral Sirimevan Sarathchandra Ranasinghe (Rtd) aasumed duties today (10/03/2024) as the Chairman of Sri Lanka Ports Authority (SLPA). He was the Commander of the Navy from October 2017 to December 2018. Admiral Ranasinghe also served as the Secretary to Ministry of Ports and Shipping & Southern Development in 2019.
-
-He is an Anti-Submarine Warfare Specialist trained at INS Vendurutthy, Kochi. He followed his Defence Services Staff Course at Wellington, India, War Course in NDU, Islamabad, Pakistan and National Defence Course at National Defence College in New Delhi, India.
-
-Admiral Sirimevan Ranasinghe was born in Anuradhapura, and first joined Sri Lanka Navy in 1982. He had his basic training at Naval and Maritime Academy, Trincomalee and at Britannia Royal Naval College, Dartmouth, England (1984-1985).
-
-NDB Bank brings joy and learning to Royal College on World Children’s Day
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/ecf58013.json)
-
-[Extended Data](ext_articles/ecf58013.ext.json)
-
----
-
-### Burlington English making positive impact on Sri Lanka
-
-*2024-10-05 02:52:00* · [`islandlk`](http://island.lk/burlington-english-making-positive-impact-on-sri-lanka/) · `en`
-
-Burlington English, a global leader in English language learning and teaching, is making waves in Sri Lanka, following a successful expansion across India.With a mission to enhance the classroom environment and improve educational outcomes, the group’s Managing Director, Amit Baveja, is spearheading efforts to engage Sri Lankan educators with cutting-edge teaching practices and AI-integrated learning resources.
-
-Baveja, who oversees the South Asia and Southeast Asia markets, expressed excitement about the company’s foray into Sri Lanka.
-
-Speaking to The Island Financial Review he said: ‘After a remarkable journey in India, Sri Lanka is our natural next step. We are here to support educators and the education system by providing state-of-the-art English language learning resources.’ He highlighting the importance of quality education in a country where English proficiency is critical for economic and career growth.
-
-...
-
-[Data](articles/5ea23ad1.json)
-
-[Extended Data](ext_articles/5ea23ad1.ext.json)
-
----
-
-### SLT-MOBITEL offers unparalleled benefits with eSim services
-
-*2024-10-05 02:36:00* · [`islandlk`](http://island.lk/slt-mobitel-offers-unparalleled-benefits-with-esim-services/) · `en`
-
-SLT-MOBITEL is offering an easy and seamless way to join the network with its cutting-edge eSIM service. Powered by SLT-MOBITEL’s unparalleled 4G connectivity and extensive island-wide coverage, this proposition empowers customers to get connected within minutes—wherever you are.
-
-SLT-MOBITEL eSIM eliminates the need for a physical SIM card, enabling new customers to activate their preferred mobile connections digitally. This hassle-free solution not only offers convenience but also supports global digitalization and sustainability efforts. Whether at home or on the go, customers can enjoy unmatched data speeds backed by SLT-MOBITEL’s superior network coverage.
-
-...
-
-[Data](articles/9dbb258f.json)
-
-[Extended Data](ext_articles/9dbb258f.ext.json)
 
 ---

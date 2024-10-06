@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 18:31:53**
+As of **2024-10-06 18:42:05**
 
 ## Newspaper Stats
 
-*Scraped **48,044** Articles*
+*Scraped **48,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,940
 dailyftlk | 3,235
 adalk | 4,440
 dailymirrorlk | 4,733
-adaderanalk | 5,660
-tamilmirrorlk | 6,485
+adaderanalk | 5,661
+tamilmirrorlk | 6,486
 virakesarilk | 7,689
 adaderanasinhalalk | 8,319
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,041 (100.0%) of 48,044 articles have been extended.
+48,046 (100.0%) of 48,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Acting IGP orders police to resolve all minor complaints within 2 weeks
+
+*2024-10-06 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102486/acting-igp-orders-police-to-resolve-all-minor-complaints-within-2-weeks) · `en`
+
+The Acting Inspector General of Police (IGP) Priyantha Weerasooriya has instructed all police stations to inquire into all pending minor complaints lodged by the public and take necessary actions within the next two weeks.
+
+This was communicated by Police Spokesman DIG Nihal Thalduwa today (06).
+
+◼️
+
+[Data](articles/c04870b8.json)
+
+[Extended Data](ext_articles/c04870b8.ext.json)
+
+---
 
 ### Solution to the Ministry of Agriculture to protect the egg industry
 
@@ -89,6 +105,30 @@ He said he was carrying out the reduction of the cost of chicken. As soon as the
 [Data](articles/ef638e98.json)
 
 [Extended Data](ext_articles/ef638e98.ext.json)
+
+---
+
+### A boyfriend killed in a bath
+
+*2024-10-06 17:49:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளிக்கச்-சென்ற-சிறுவயது-காதலன்-விபத்தில்-பலி/76-344991) · `ta`
+
+Motorcycle crash: Boyfriend (19) dies, girlfriend (20) hospitalized after falling into canal during romantic bath. Hanwella police investigating.
+
+🟩
+
+A 19 -year -old youth has died and a 20 -year -old woman has been admitted to hospital after falling into the canal on a romantic motorcycle in Lapugama, Dummodara area.
+
+Lakshan Lakshan, a native of Pamunuwa Bansalai, Piliyandala, died in an accident. It is reported that the injured woman belongs to Ambalangoda Kenane area
+
+The two had gone to bathe in a motorcycle from Kalu Akkala to Lapugama and fell into the Belbola area in an unsafe canal.
+
+Hanwella police are conducting further investigations into the incident as the woman in the accident was in critical condition and was admitted to the intensive care unit.
+
+◼️
+
+[Data](articles/2b39a671.json)
+
+[Extended Data](ext_articles/2b39a671.ext.json)
 
 ---
 
@@ -168,37 +208,51 @@ It is not the intention of this passage to examine who the true heirs of the Tam
 
 ---
 
-### பொகவந்தலாவையில் மாணிக்கக்கல் அகழ்வில் ஈடுபட்ட இருவர் கைது
+### Two persons arrested for excavation in Bogawantalawa
 
 *2024-10-06 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195631) · `ta`
 
-பொகவந்தலாவை பொலிஸ்பிரிவிற்குட்பட்ட பிரைட்வெல் தோட்ட பகுதியில் சட்டவிரோதமாக மாணிக்கக்கல் அகழ்வில் ஈடுபட்டு வந்த இருவர் உபகரணங்களுடன் கைது செய்யப்பட்டுள்ளதாக  பொகவந்தலாவ பொலிஸார்  தெரிவித்தனர்.
+Two men, ages 38 and 42, arrested for illegal gem mining in Bogawantalawa. Police action taken against unauthorized excavation activities.
 
-கைது செய்யப்பட்ட சந்தேகநபர்கள் 38 மற்றும் 42 வயதுடைய பொகவந்தலாவ பகுதியைச் சேர்ந்தவர்கள் ஆவர்.
+🟩
+
+Bogawantalawa police said that two persons who were illegally engaged in gem excavation in the Bogawantalawa police division area have been arrested.
+
+The arrested suspects are from Bogawantalawa, aged 38 and 42.
 
 ◼️
 
 [Data](articles/d0b3e8ef.json)
 
+[Extended Data](ext_articles/d0b3e8ef.ext.json)
+
 ---
 
-### පාකිස්තාන සිරකරුවන් 56ක් පාකිස්තානයට භාර දෙයි
+### 56 Pakistan prisoners handed over to Pakistan
 
 *2024-10-06 17:02:02* · [`adalk`](https://www.ada.lk/breaking_news/පාකිස්තාන-සිරකරුවන්-56ක්-පාකිස්තානයට-භාර-දෙයි/11-412328) · `si`
 
-මත්ද්‍රව්‍ය චෝදනා ඇතුළු තවත් වැරදි වලට ශ්‍රී ලංකාවේ බන්ධනාගාර ගත කර සිටි පකිස්තානු ජාතික සිරකරුවන් 56 දෙනෙකු 10/06 දින  පස්වරුවේ  එරට බන්ධනාගාර නිලධාරීන් වෙත භාර දීම කටුනායක ගුවන් තොටුපොළ තුළ  දී සිදු වූ බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය.
+56 Pakistani prisoners transferred to Sri Lanka on drug charges. 51 men, 5 women. Handover at Katunayake airport. Over 100 Pakistani officials present. Special flights arranged for transfer.
 
-මෙම පිරිස අතරින් 51 දෙනෙකු පිරිමි සිරකරුවන් වූ අතර ඉතිරි 05 දෙනා කාන්තා සිරකාරිනියන් වූහ.
+🟩
 
-වසර ගනනාවකට පසුව ක්‍රියාත්මක වන මෙම සිරකරු හුවමාරු වැඩසටහන සදහා මෙම සිරකරුවන් පිරිස රැගෙන යාමට පකිස්තානයේ සිට විශේෂ ගුවන් යානයක් 10/06 දින පස්වරු 03.00 ට පමණ කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+The officer in charge of the Airport was confirmed that 56 Pakistani national prisoners in Sri Lanka to be handed over to Sri Lanka by 10/06 pm on drug charges.
 
-මෙම ගුවන් යානය තුළ පකිස්තානු ජාතික බන්ධනාගාර නිලධාරීන් සියයකට අධික පිරිසක් පැමිණ සිටින බව ද ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා වැඩිදුරටත් පැවසීය.
+Of these, 51 were men's prisoners and the remaining five were women prisoners.
 
-මෙම පකිස්තාන ජාතික සිරකරුවන් කොළඹ , වැළිකඩ ඇතුළු ශ්‍රී ලංකාව පුරා පිහිටි බන්ධනාගාර වල රදවා තබා සිටි සිරකරුවන් වූ අතර , ඔවුන් පකිස්තාන  බන්ධනාගාර නිලධාරීන් වෙත භාර දෙන තෙක්ම , සහ ඔවුන් එම ගුවන් යානය තුළට රැගෙන යන තෙක්ම , මෙම සිරකරුවන්ගේ දෙඅත් වලට මාංචු දමා තිබූ බව ද ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය.
+The prisoner had arrived at the Katunayake airport from Pakistan to take these prisoners to the prisoners to take these prisoners to the prisoners.
 
-...
+The airport work officer said that more than 100 Pakistani officials were present at the flight.
+
+These Pakistani prisoners were detained in prisons across Sri Lanka, including Colombo and Sri Lanka.He said the cost of the ferry.
+
+The Pakistan special flights to be taken to Pakistan at the Katunayake airport at Katunayake around 506 pm on 10.0 pm.
+
+◼️
 
 [Data](articles/ccd4ac0f.json)
+
+[Extended Data](ext_articles/ccd4ac0f.ext.json)
 
 ---
 
@@ -258,23 +312,29 @@ Former President Mahinda Rajapaksa's son Yoshitha Rajapaksa has been given 07 gu
 
 ---
 
-### சட்ட விரோதமாக கொண்டுவரப்பட்ட சிகரெட்டுகளுடன் கட்டுநாயக்கவில் இருவர் கைது
+### Two persons arrested in Katunayake with cigarettes
 
 *2024-10-06 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/195628) · `ta`
 
-அபுதாபியிலிருந்து இலங்கைக்கு சட்டவிரோதமாக கொண்டுவரப்பட்ட சிகரெட்டுகளுடன் சந்தேக நபர்கள் இருவர் கட்டுநாயக்க விமான நிலைய வளாகத்தில் இன்று ஞாயிற்றுக்கிழமை (06) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two arrests made at Katunayake airport: 23-year-old woman and 37-year-old man caught smuggling cigarettes from Abu Dhabi. Total of 48,800 cigarettes seized. Investigation ongoing.
 
-பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் விமான நிலையப் பிரிவு அதிகாரிகளினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-தெஹியோவிட்ட பகுதியைச் சேர்ந்த 23 வயதுடைய பெண் மற்றும் பாணந்துறை பிரதேசத்தை சேர்ந்த 37 வயதுடைய ஆண் என இருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two suspects have been arrested by police today (06) at the Katunayake airport complex with cigarettes brought from Abu Dhabi to Sri Lanka.
 
-கைதான பெண்ணிடமிருந்து 24,200 சிகரெட்டுகளும் (121 கார்டூன்கள்) மற்றைய நபரிடமிருந்து 24,600 சிகரெட்டுகளும் (123 கார்டூன்கள்) பொலிஸாரினால் கைப்பற்றப்பட்டன.
+They were arrested during a raid carried out by the Airport Unit of the Police Drug Eradication Unit.
 
-இது தொடர்பான மேலதிக விசாரணைகளில் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினர் ஈடுபட்டு வருகின்றனர்.
+Two 23 -year -old girl from Tehiota area and 37 -year -old male from Panadura area have been arrested by police.
+
+24,200 cigarettes (121 cartoons) from the arrest woman, 24,600 cigarettes (123 cartoons) were seized by the police.
+
+Further investigations are being carried out by the Police Drug Eradication Unit.
 
 ◼️
 
 [Data](articles/94eefd96.json)
+
+[Extended Data](ext_articles/94eefd96.ext.json)
 
 ---
 
@@ -2393,61 +2453,5 @@ Investigations have been made by the investigation by the police in connection w
 [Data](articles/da248e00.json)
 
 [Extended Data](ext_articles/da248e00.ext.json)
-
----
-
-### If information about the application of questions
-
-*2024-10-05 20:58:13* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රශ්න-පිටවීම-ගැන-තොරතුරු-ඇත්නම්-ඉල්ලයි/11-412317) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Police investigation reveals 3 questions removed from scholarship exam. Parents advised to report issues to Senanayake Police Office.
-
-🟩
-
-According to police, investigations have not been revealed that three questions have been demated that three questions have been exited on the question paper of the scholarship examination.
-
-However, the police informed parents to complain to a Senanayake of Police Office with any testimony if more problems have been exited.
-
-◼️
-
-[Data](articles/fa77843e.json)
-
-[Extended Data](ext_articles/fa77843e.ext.json)
-
----
-
-### Sri Lanka is leaving the first round as Aussie fails
-
-*2024-10-05 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195586) · `ta`
-
-Sri Lanka loses to Australia in ICC Women's T20 World Cup. Batting struggles continue. Australia wins by 4 wickets in 12.2 overs.
-
-🟩
-
-Sri Lanka, who lost to Australia at the ICC Women's T20 World Cup for the A group on Saturday at the Sharjah Cricket Stadium in the United Arab Emirates, faced a first round of the first round.
-
-The Ninth ICC Women's World Cup has begun with hope of the current world champion.
-
-This is the second consecutive defeat in Sri Lanka, which has already lost to Pakistan, this year's Women's T20 World Cup.
-
-Sri Lanka's batting was not good in Australia, like the first match with Pakistan.
-
-Sri Lanka decided to bat first in today's match and scored 93 runs for the loss of 7 wickets in 20 overs.
-
-The opening batsmen Vishmi Gunaratne (0) and team captain Samari Atapattu (3) lost the first three overs and Kavisha Dilhari (5) left the 7th over.
-
-Harshita Samarawickrama and Nilakshika Silva shared 31 runs in the 4th wicket and gave the Sri Lankan team a little excitement.
-
-However, after the loss of Harsitha Samarawickrama, 3 more Weeks were overthrown at regular intervals.
-
-...
-
-[Data](articles/bd49dd9a.json)
-
-[Extended Data](ext_articles/bd49dd9a.ext.json)
 
 ---

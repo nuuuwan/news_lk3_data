@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 10:11:28**
+As of **2024-10-06 10:38:32**
 
 ## Newspaper Stats
 
-*Scraped **47,988** Articles*
+*Scraped **47,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,86 @@ economynextcom | 2,939
 dailyftlk | 3,235
 adalk | 4,431
 dailymirrorlk | 4,733
-adaderanalk | 5,652
-tamilmirrorlk | 6,469
+adaderanalk | 5,653
+tamilmirrorlk | 6,470
 virakesarilk | 7,675
-adaderanasinhalalk | 8,311
+adaderanasinhalalk | 8,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,988 (100.0%) of 47,988 articles have been extended.
+47,991 (100.0%) of 47,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### 11 children's father beat up
+
+*2024-10-06 10:17:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/11-பிள்ளைகளின்-தந்தை-அடித்துக்கொலை/76-344959) · `ta`
+
+Father of 11 children killed by second wife during drunken argument. Local residents rushed him to hospitals but died after 10-day ICU stay. Police investigation ongoing.
+
+🟩
+
+Raghwana police said that the father of eleven children (41 years old) from the age of three to fifteen was beaten to death by his wife.
+
+Chellappan Balakrishnan, a plantation worker, who lived in the Rangwaladenna estate, died on the 04th.
+
+Police said the deceased had two wives, seven children for one wife and four children for the other.
+
+When the deceased had a drunken dispute, the deceased was attacked by a wife of a wife.
+
+Later the local residents took the injured person to Raghwana Hospital. From there, he was transferred to Kahawatte Hospital and later transferred to the Ratnapura General Hospital for further treatment.
+
+He died on the 4th after being treated for about ten days in the intensive care unit at the hospital, police said.
+
+◼️
+
+[Data](articles/418a85a8.json)
+
+[Extended Data](ext_articles/418a85a8.ext.json)
+
+---
+
+### Special import levy on potatoes and onions increased
+
+*2024-10-06 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102479/special-import-levy-on-potatoes-and-onions-increased) · `en`
+
+The Ministry of Finance says the special import tax on potatoes has been increased by Rs. 10 per kilogram.
+
+Meanwhile, the special import tax on a kilogram of onions has been raised by Rs. 20.
+
+◼️
+
+[Data](articles/392a403b.json)
+
+[Extended Data](ext_articles/392a403b.ext.json)
+
+---
+
+### Special import tax on imported potatoes and onions increase
+
+*2024-10-06 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201894) · `si`
+
+Import tax hike: Potatoes + Onions. Govt increases duty on imported spuds and onions. Potato tax raised from Rs. to Rs., onion tax per kg increased from Rs. to Rs. 10.
+
+🟩
+
+Steps have been taken to increase the special import tax on potatoes by Rs.
+
+The Ministry of Finance has also increased the tax of a kilogram of big onions by Rs.
+
+Accordingly, the government has taken the imported commodity tax of Rs. 10 to Rs.
+
+◼️
+
+[Data](articles/3aba4272.json)
+
+[Extended Data](ext_articles/3aba4272.ext.json)
+
+---
 
 ### Thundershowers in many parts of the country
 
@@ -2319,81 +2385,5 @@ Dimbulla - Pathana police are investigating the incident. Remble
 [Data](articles/38155f4b.json)
 
 [Extended Data](ext_articles/38155f4b.ext.json)
-
----
-
-### Sudden twist in the Mannar electorate
-
-*2024-10-05 09:24:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-தேர்தல்-தொகுதியில்-திடீர்-திருப்பம்/72-344940) · `ta`
-
-Here's a 200-character summary:
-
-
-
-TNA candidates reshuffled in Mannar electorate due to internal conflicts. Charles Nirmalanathan, Anthony Pathinathan, and Selvarajah Dinesan chosen to contest parliamentary election. MA Sumanthiran finalizes selections after party meeting.
-
-🟩
-
-The Mannar electoral constituency has a sudden twist on the Sri Lanka Tamil National Alliance (TNA) candidates contesting the parliamentary general election.
-
-Due to the confusion within the Tamil parties, the main Tamil parties are selected in the parliamentary general election.
-
-On the basis of this, the Vanni district's candidates have been delayed on behalf of the Sri Lanka Tamil National Alliance (TNA), former MP Charles Nirmalanathan and former Northern Provincial Chief Secretary Mr. A.. It is reported that Pathinathan and the young lawyer Selvarajah Dinesan from Mannar district have been elected from the Mannar district to contest the Vanni electoral constituency.
-
-All these choices are reported to have been finalized by former Member of Parliament MA Sumanthiran today (4).
-
-MA Sumanthiran's visit to the Mannar party office with key members of the party held a two -hour discussion and talked about the expenses for the election.
-
-...
-
-[Data](articles/a053b5a0.json)
-
-[Extended Data](ext_articles/a053b5a0.ext.json)
-
----
-
-### Street opening near the Alari House several years later!
-
-*2024-10-05 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195521) · `ta`
-
-New street opens near Alari House in Colombo, reducing traffic and improving travel. Road connects Kaluppitti School to Rodunda Circle.
-
-🟩
-
-The road from Kaluppitti School to the Rodunda Circle near the Alari House in Colombo has been opened on Friday (04) for public use.
-
-The opening of this road is expected to reduce traffic congestion in the surrounding areas and lead the public to easy travel.
-
-◼️
-
-[Data](articles/ae619d93.json)
-
-[Extended Data](ext_articles/ae619d93.ext.json)
-
----
-
-### Women cricket team a decisive match today
-
-*2024-10-05 09:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201863) · `si`
-
-Sri Lanka women's cricket team plays crucial T20 World Cup match against Australia today. Win required for semi-final hopes. Match starts at 3:30 PM local time.
-
-🟩
-
-Sri Lanka's second match will be held today (05) in the women's T20 World Cup today (05).
-
-The competition is scheduled to be held in Sharjah, which is a match.
-
-It is mandatory to win this competition to Sri Lankan women's hopes to hope in the semi-finals of the tournament.
-
-That is with the first match with Pakistan women's group.
-
-Sri Lanka and Australia Women's Competition will start at 3.30 pm in Sri Lanka.
-
-◼️
-
-[Data](articles/ad22b541.json)
-
-[Extended Data](ext_articles/ad22b541.ext.json)
 
 ---

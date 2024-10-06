@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 12:23:25**
+As of **2024-10-06 12:38:53**
 
 ## Newspaper Stats
 
-*Scraped **48,000** Articles*
+*Scraped **48,002** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,940
 dailyftlk | 3,235
 adalk | 4,432
 dailymirrorlk | 4,733
-adaderanalk | 5,655
+adaderanalk | 5,657
 tamilmirrorlk | 6,475
 virakesarilk | 7,675
 adaderanasinhalalk | 8,312
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,000 (100.0%) of 48,000 articles have been extended.
+48,002 (100.0%) of 48,002 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### IRD collects over 70% of 2024 tax revenue target
+
+*2024-10-06 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102482/ird-collects-over-70-of-2024-tax-revenue-target) · `en`
+
+The Inland Revenue Department has successfully collected Rs. 1,417 billion in taxes as of September 30, 2024, surpassing 70% of the annual revenue target of Rs. 2,024 billion.
+
+In a statement, the Commissioner General of the Department of Inland Revenue Sepalika Chandrasekara noted that while the collection progress is commendable, there are still outstanding taxes owed by certain taxpayers under the self-assessment payment system.
+
+She mentioned that beginning today (06), the department will conduct visits to the premises of these taxpayers to ensure prompt collection of dues.
+
+“Moving forward, we will enforce the collection of unpaid self-assessment taxes through the appropriate legal procedures,” said Chandrasekara.
+
+◼️
+
+[Data](articles/d1113ef8.json)
+
+[Extended Data](ext_articles/d1113ef8.ext.json)
+
+---
+
+### Sri Lanka’s tourism earnings reach USD 181 million in September
+
+*2024-10-06 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102481/sri-lankas-tourism-earnings-reach-usd-181-million-in-september-) · `en`
+
+Sri Lanka’s foreign exchange revenue from tourism has reached USD 181 million within the month of September this year.
+
+According to the Central Bank of Sri Lanka (CBSL), this revenue represents a significant increase compared to September of last year, which saw USD 152 million in tourism earnings.
+
+Data from the Central Bank also revealed that revenue earned during the first nine months of this year has surged by 61.2%, totaling USD 2.35 billion compared to USD 1.46 billion during the same period last year.
+
+The Sri Lanka Tourism Development Authority’s weekly report indicated that there were 122,140 tourist arrivals in September, marking a 9.11% increase from 111,938 arrivals in September of the previous year.
+
+So far, the number of tourist arrivals for the first nine months of 2024 stands at 1.48 million, with Sri Lanka expecting a total of 2.3 million tourist arrivals for the year.
+
+...
+
+[Data](articles/175a29ce.json)
+
+[Extended Data](ext_articles/175a29ce.ext.json)
+
+---
 
 ### Man killed in crocodile attack in Gemunupura
 
@@ -2351,43 +2393,5 @@ Due to the development work of the road, vehicles will be operated in one direct
 [Data](articles/642e8177.json)
 
 [Extended Data](ext_articles/642e8177.ext.json)
-
----
-
-### Security heads meet President
-
-*2024-10-05 12:17:19* · [`adalk`](https://www.ada.lk/breaking_news/ආරක්ෂක-ප්‍රධානීන්-ජනාධිපති-හමු-වෙයි/11-412315) · `si`
-
-Security officials meet new President: Defense Chiefs visit Presidential Secretariat, discuss national security strategies.
-
-🟩
-
-After the appointment as the new president, the heads of Defense Heads of Commander Anura Kumara Dissanayake were found at the Presidential Secretariat yesterday (04).
-
-Accordingly Chief of Defense Staff General Shavendra Silva, Army Commander Lieutenant General, Air Force Vice Admiral Priyantha Perera, Commander of the Navy Vice Admiral Priyantha Perera met the President.
-
-The commemorative monuments were also made to mark the opportunities.
-
-◼️
-
-[Data](articles/5032e196.json)
-
-[Extended Data](ext_articles/5032e196.ext.json)
-
----
-
-### ஜனாதிபதிகள் வரலாம் , ஜனாதிபதிகள் போகலாம், ஆனால்  ஜே. ஆர்.ஜெயவர்தனவின் ஜனாதிபதி ஆட்சிமுறை தொடர்ந்து கொண்டேயிருக்கும்
-
-*2024-10-05 12:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84858) · `en`
-
-இலங்கையில் நிறைவேற்று அதிகார ஜனாதிபதி ஆட்சிமுறையை ஒழிக்கவேண்டும் என்ற கோரிக்கை ஒன்றும் புதியது அல்ல. அந்த ஆட்சிமுறை என்றைக்கு அறிமுகப்படுத்தப்பட்டதோ அன்றிலிருந்தே அதை ஒழிக்கவேண்டும் என்ற கோரிக்கையும் முன்வைக்கப்பட்டு வந்திருக்கிறது. ஜனாதிபதி ஆட்சிமுறையை ஒழிக்கப் போவதாக தேர்தல்களில் வாக்குறுதி  அளித்து மக்களின் ஆணையைப் பெற்று ஜனாதிபதியாக ஆட்சியதிகாரத்துக்கு வந்தவர்கள் எவருமே அதை ஒழிக்கவில்லை என்பது அண்மைக்கால வரலாறு.
-
-இறுதியாக நடைபெற்ற ஜனாதிபதி தேர்தலிலும் பிரதான வேட்பாளர்களில் அநுரா குமார திசாநாயக்கவும் ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாசவும் ஜனாதிபதி ஆட்சிமுறையை ஒழிக்கப்போவதாக மக்களுக்கு வாக்குறுதி வழங்கினார்கள். அவர்களது தேர்தல் விஞ்ஞாபனங்களிலும் அதைக் குறிப்பிட்டிருந்தார்கள்.
-
-...
-
-[Data](articles/3ebbab5e.json)
-
-[Extended Data](ext_articles/3ebbab5e.ext.json)
 
 ---

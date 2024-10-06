@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 01:57:49**
+As of **2024-10-07 02:08:20**
 
 ## Newspaper Stats
 
-*Scraped **48,080** Articles*
+*Scraped **48,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 475
 colombotelegraphcom | 475
 islandlk | 2,836
 economynextcom | 2,942
-dailyftlk | 3,239
+dailyftlk | 3,241
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
@@ -26,11 +26,47 @@ adaderanasinhalalk | 8,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,080 (100.0%) of 48,080 articles have been extended.
+48,082 (100.0%) of 48,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### American Chamber of Commerce in Sri Lanka holds 32nd AGM
+
+*2024-10-07 01:39:11* · [`dailyftlk`](https://www.ft.lk/business/American-Chamber-of-Commerce-in-Sri-Lanka-holds-32nd-AGM/34-767621) · `en`
+
+The AmCham Sri Lanka held its 32nd Annual General Meeting and election of Directors recently.
+
+At this year’s AGM, the AmCham Sri Lanka reflected on a year of strengthened partnerships, and a commitment to fostering a robust, dynamic business environment. As the voice of the US-Sri Lanka business community, the AmCham Sri Lanka will continue to foster cross-border collaborations that drive economic prosperity.
+
+The AmCham Sri Lanka reported a year of exceptional performance, as highlighted during its AGM. In 2023/24, the Chamber successfully united the local business community through numerous business and social events, further strengthening bilateral relations between Sri Lanka and the United States of America, while demonstrating remarkable resilience and adaptability. The Chamber also achieved its highest net surplus for the fifth consecutive year. This underscores the AmCham Sri Lanka’s strength, even amid challenging economic conditions.
+
+...
+
+[Data](articles/70652c43.json)
+
+[Extended Data](ext_articles/70652c43.ext.json)
+
+---
+
+### Sri Lankan company leaders demonstrate expertise as sustainability champions at Asia and Oceania regional event ‘Forward Faster Now by UN Global Compact’
+
+*2024-10-07 01:35:54* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-company-leaders-demonstrate-expertise-as-sustainability-champions-at-Asia-and-Oceania-regional-event-Forward-Faster-Now-by-UN-Global-Compact/34-767620) · `en`
+
+The UN Global Compact regional flagship event, ‘Forward Faster Now|Asia & Oceania’, held in Kuala Lumpur on 5-6 August, marked a pivotal moment for sustainable business action across the region.
+
+Organised by the United Nations Global Compact in collaboration with 16 Global Compact Country Networks and Country Offices, the inaugural event brought together high-level executives, government leaders, and sustainability experts from across Asia and Oceania.
+
+The landmark event aimed to accelerate sustainable business practices, build partnerships, and highlight impactful stories of corporate sustainability. It served as a platform for regional peer learning and exchange, focusing on key themes such as Sustainable Development Goals (SDGs) progress, business commitment to sustainability, and integrating sustainability into corporate operations.
+
+...
+
+[Data](articles/9e3cf935.json)
+
+[Extended Data](ext_articles/9e3cf935.ext.json)
+
+---
 
 ### Sri Lanka’s International Sovereign Bonds restructuring – frequently asked questions
 
@@ -2423,45 +2459,5 @@ Authorities have sealed off Islamabad and blocked cellphone services to prevent 
 [Data](articles/e1e7bb4c.json)
 
 [Extended Data](ext_articles/e1e7bb4c.ext.json)
-
----
-
-### President receives blessings from Sacred Jaya Sri Maha Bodhi
-
-*2024-10-06 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102476/president-receives-blessings-from-sacred-jaya-sri-maha-bodhi) · `en`
-
-President Anura Kumara Dissanayake visited the sacred Jaya Sri Maha Bodhi in Anuradhapura last afternoon (05) to pay homage and receive blessings.
-
-Upon his arrival at the historic Anuradhapura sacred site, the President first met with the Atamasthanadhipathi, Chief Sanghanayaka of Nuwara Kalaviya, and Chief Administrator of the Anuradhapura Maha Viharaya, Most Venerable Pallekumbura Hemarathana Nayake Thero. During this meeting, the President engaged in a brief discussion, inquiring about the Venerable Thero’s well-being, the President’s Media Division (PMD) said.
-
-Following this, the President proceeded to the Udamaluwa, where he participated in religious observances. At the main Dhamma Hall of the Jaya Sri Maha Bodhi, the Atamasthana Chief Prelate, along with the Maha Sangha, conducted Seth Pirith and invoked blessings upon the President.
-
-...
-
-[Data](articles/bb22f32e.json)
-
-[Extended Data](ext_articles/bb22f32e.ext.json)
-
----
-
-### Increase in the number of dengue patients
-
-*2024-10-06 07:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-344953) · `ta`
-
-Dengue cases surge: 39,698 patients identified, mostly in Western Province. 19 deaths reported.
-
-🟩
-
-During this year, 39,698 dengue patients have been identified.
-
-The National Dengue Control Division has said that most of the dengue patients are reported in the Western Province.
-
-At the same time, 19 people have been killed in the year of dengue, the National Dengue Control Division said.. (A)
-
-◼️
-
-[Data](articles/27be60b8.json)
-
-[Extended Data](ext_articles/27be60b8.ext.json)
 
 ---

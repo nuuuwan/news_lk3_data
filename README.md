@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 11:22:58**
+As of **2024-10-06 11:39:15**
 
 ## Newspaper Stats
 
-*Scraped **47,996** Articles*
+*Scraped **47,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,939
 dailyftlk | 3,235
 adalk | 4,432
 dailymirrorlk | 4,733
-adaderanalk | 5,653
-tamilmirrorlk | 6,474
+adaderanalk | 5,654
+tamilmirrorlk | 6,475
 virakesarilk | 7,675
 adaderanasinhalalk | 8,312
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 8,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,996 (100.0%) of 47,996 articles have been extended.
+47,998 (100.0%) of 47,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### President Jayasree Maha Bodhi
+
+*2024-10-06 11:13:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஜயஸ்ரீ-மகா-போதியை-தரிசித்தார்/175-344967) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+President Anura Kumara Dissanayake visited Anuradhapura, meeting Buddhist leaders. He emphasized protecting the country, nation, and religion. The President discussed the importance of a national policy and good governance.
+
+🟩
+
+President Anura Kumara Dissanayake was blessed by the historic Jayasree Maha Bodhi in Anuradhapura yesterday afternoon.
+
+The President who had gone to Anuradhapura first met Adamasthanapathi Pallegama Hemaratha Nayaka Thera and blessed him and asked him for good.
+
+Subsequently, the President of the Maha Sangha, led by the President of the President, recited and recited the blessing of the President's worship.
+
+Anuradhapuram. Ethalavetunuveve Gnanathilaka Thera. Kahakalle Gnaninda Thera, Mirichavettiya Vikramadi Velhene Sobhitha Thera, Abayagiri Vikramaditya. Ratnasiri Thera, Historical Irumuni. Religious Sumangla Thera, Anuradhapura Sri Sambutha Jayanthi Vihara. The Maha Sangam led by Nukheenne Panjananda Thera was present.
+
+He said that the country, the nation and the religion were to protect the life of the second time and the responsibility of improving the quality of life of the nation has been assigned to the President.
+
+...
+
+[Data](articles/05b7b3ff.json)
+
+[Extended Data](ext_articles/05b7b3ff.ext.json)
+
+---
 
 ### I don't even write a word about it ”
 
@@ -169,6 +199,24 @@ Meanwhile, the special import tax on a kilogram of onions has been raised by Rs.
 [Data](articles/392a403b.json)
 
 [Extended Data](ext_articles/392a403b.ext.json)
+
+---
+
+### Special import levy on potatoes and big onions increased
+
+*2024-10-06 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102479/special-import-levy-on-potatoes-and-big-onions-increased) · `en`
+
+The Ministry of Finance says the special import tax on potatoes has been increased by Rs. 10 per kilogram.
+
+Meanwhile, the special import tax on a kilogram of big onions has been raised by Rs. 20.
+
+Accordingly, the government has implemented measures to increase the import tax on potatoes from Rs. 50 to Rs. 60, an increase of Rs. 10, and the tax on imported big onions from Rs. 10 to Rs. 30, an increase of Rs. 20.
+
+◼️
+
+[Data](articles/653aa8cd.json)
+
+[Extended Data](ext_articles/653aa8cd.ext.json)
 
 ---
 
@@ -2345,55 +2393,5 @@ The Hon.
 [Data](articles/527b3e6d.json)
 
 [Extended Data](ext_articles/527b3e6d.ext.json)
-
----
-
-### IMF acknowledges Sri Lanka’s progress, warns of ongoing vulnerabilities
-
-*2024-10-05 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102464/imf-acknowledges-sri-lankas-progress-warns-of-ongoing-vulnerabilities) · `en`
-
-The International Monetary Fund (IMF) says Sri Lanka’s Third Review under the USD 2.9 billion Extended Fund Facility (EFF) programme, will be announced in due course.
-
-Addressing a bi-weekly media briefing held in Washington DC, IMF’s Director for Communications Julie Kozack noted that vulnerabilities and uncertainties remain, meaning sustaining the reform momentum is critical for Sri Lanka.
-
-However, Kozack reiterated that Sri Lanka’s performance under the programme is strong, and reform efforts are bearing fruit in terms of reviving economic growth.
-
-Meanwhile on Friday (04), the IMF team who visited the island said it will continue its close engagement with Sri Lanka’s economic team to set a date for the third review of the IMF-supported program.
-
-“We are encouraged by the authorities’ commitment to continue the reform efforts,” the global lender’s Director for the Asia Pacific Department, said in a statement at the end of the visit to Sri Lanka.
-
-...
-
-[Data](articles/cc0f3f5e.json)
-
-[Extended Data](ext_articles/cc0f3f5e.ext.json)
-
----
-
-### Protests in Bangladesh against Israel
-
-*2024-10-05 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201865) · `si`
-
-Bangladesh protests against Israel attacks. Organized by Islamic parties. Demonstrators wave Palestinian flags. Demand UN intervention. Foreign media coverage highlights anti-Israel sentiment.
-
-🟩
-
-Foreign media reports on a massive protest in Bangladesh.
-
-They protested against the attacks on the attacks on Israel, Lebanon and Gaza.
-
-The Islar and Islamic political party of Bangladesh had organized the protest.
-
-Foreign media reports have reported that they have protested against anti-war slogan with the attackers of the Palestinian flag.
-
-The protesters were severely protested against the Muslim community.
-
-Protesters have said that the United Nations immediately should take immediate action.
-
-◼️
-
-[Data](articles/df9be4be.json)
-
-[Extended Data](ext_articles/df9be4be.ext.json)
 
 ---

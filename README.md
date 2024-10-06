@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 06:44:23**
+As of **2024-10-06 07:27:32**
 
 ## Newspaper Stats
 
-*Scraped **47,954** Articles*
+*Scraped **47,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 395
 bbccomsinhala | 474
 colombotelegraphcom | 474
-islandlk | 2,820
+islandlk | 2,835
 economynextcom | 2,939
 dailyftlk | 3,235
 adalk | 4,429
 dailymirrorlk | 4,733
 adaderanalk | 5,648
-tamilmirrorlk | 6,463
+tamilmirrorlk | 6,464
 virakesarilk | 7,674
 adaderanasinhalalk | 8,307
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,307
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,954 (100.0%) of 47,954 articles have been extended.
+47,961 (100.0%) of 47,970 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,236 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/0e3f9dcf.json)
 
 [Extended Data](ext_articles/0e3f9dcf.ext.json)
+
+---
+
+### Ceylinco Life launches 18th ‘Family Savari’
+
+*2024-10-06 04:26:00* · [`islandlk`](http://island.lk/ceylinco-life-launches-18th-family-savari/) · `en`
+
+Ceylinco Life has launched the 18th edition of its ‘Family Savari’ mega promotion, offering exciting travel experiences for policyholders, a release said.
+
+It said: In 2025, the program will provide all-expenses-paid overseas holidays to 60 individuals from 15 policyholder families—five families will travel to China, and ten families to Malaysia. Additionally, 250 families, totaling 1,000 individuals, will enjoy a day at the Pearl Bay Water Park in Bandaragama.
+
+The promotion aims to create lasting memories for policyholders and has previously rewarded over 36,000 participants with trips to popular destinations worldwide. To qualify for the draws, policyholders need to maintain their policies or specified account balances during the promotion period from September 1 to December 31, 2024. New customers must pay at least three-monthly premiums to enter.
+
+...
+
+[Data](articles/19c9a29c.json)
+
+[Extended Data](ext_articles/19c9a29c.ext.json)
+
+---
+
+### Uninotes.lk: A game-changer for Lankan students seeking courses
+
+*2024-10-06 04:24:00* · [`islandlk`](http://island.lk/uninotes-lk-a-game-changer-for-lankan-students-seeking-courses/) · `en`
+
+Launched in 2024, Uninotes.lk is a transformative platform that helps Sri Lankan students find suitable courses from local and globally recognized universities. The user-friendly interface allows students to filter and browse over 1,000 courses, facilitating direct inquiries to universities with minimal effort. Uninotes.lk offers a diverse range of programs, from certificates to PhDs, and partners with universities to provide scholarships, enhancing accessibility to higher education. With global accessibility, the platform empowers students to make informed decisions about their educational paths, contributing to a more skilled workforce in Sri Lanka.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/aa301539.json)
+
+[Extended Data](ext_articles/aa301539.ext.json)
+
+---
+
+### IIHS: A pathway to successful careers in healthcare
+
+*2024-10-06 04:23:00* · [`islandlk`](http://island.lk/iihs-a-pathway-to-successful-careers-in-healthcare/) · `en`
+
+The International Institute of Health Sciences (IIHS) offers a wide range of healthcare courses, including Nursing, Physiotherapy, and Nutrition, designed to prepare students for successful careers in the industry, said a release.
+
+It said: With state-of-the-art facilities and experienced faculty, IIHS provides a comprehensive learning experience, emphasizing practical skills and global qualifications. The institute has strong international partnerships with universities in Australia, the UK, and the US, ensuring adherence to high educational standards. IIHS aims to guide students in finding career paths in healthcare and invites prospective students to explore their programs for a bright future in the sector.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/b3f930e8.json)
+
+[Extended Data](ext_articles/b3f930e8.ext.json)
+
+---
+
+### HNB Assurance Hosts First Intl Partnership Awards in Bangkok
+
+*2024-10-06 04:22:00* · [`islandlk`](http://island.lk/hnb-assurance-hosts-first-intl-partnership-awards-in-bangkok/) · `en`
+
+HNB Assurance PLC hosted its first-ever international Partnership Awards 2024 at the Berkeley Hotel in Bangkok, celebrating the contributions of its partnership channel. The event gathered over 100 participants, including staff and families, marking a milestone in the company’s growth.
+
+CEO Lasitha Wimalaratne highlighted the channel’s critical role, contributing 46% to the company’s total gross written premium and surpassing the LKR 5 billion mark. The event recognized 122 MDRT qualifiers, showcasing the team’s dedication and the company’s success as the Best Life Bancassurance Provider for four consecutive years.
+
+Supun Dias, Assistant General Manager of HNB, praised HNB Assurance’s impressive growth despite economic challenges and expressed confidence in its continued success and future industry leadership. He shared pride in witnessing this significant milestone for the HNB group.
+
+...
+
+[Data](articles/daf76d87.json)
+
+[Extended Data](ext_articles/daf76d87.ext.json)
+
+---
+
+### Lasith Nanayakkara appointed as New CIO at NSB
+
+*2024-10-06 04:20:00* · [`islandlk`](http://island.lk/lasith-nanayakkara-appointed-as-new-cio-at-nsb/) · `en`
+
+National Savings Bank (NSB) has appointed Lasith Nanayakkara as its new Deputy General Manager – IT / Chief Information Officer (CIO), effective Oct 1, 2024. He succeeds Dr. Amal Illesinghe, who recently retired after over 17 years of dedicated service to the Bank.
+
+Nanayakkara brings over 35 years of experience in the banking and finance sector to this role. Prior to joining NSB, he served as Executive Vice President and Chief Transformation Officer at Nations Trust Bank PLC, Sri Lanka. With extensive expertise in both local and international banking, he has a strong background in digital transformation and IT modernization. His leadership is expected to enhance NSB’s technological capabilities and improve customer experiences in an increasingly digital banking environment.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/35be42f8.json)
+
+[Extended Data](ext_articles/35be42f8.ext.json)
+
+---
+
+### Delma Lanka celebrates Calin Baby Soap’s SLS certification and new product launch at gala event
+
+*2024-10-06 03:30:00* · [`islandlk`](http://island.lk/delma-lanka-celebrates-calin-baby-soaps-sls-certification-and-new-product-launch-at-gala-event/) · `en`
+
+Delma Lanka marked a significant milestone on October 1st with a media event at the luxurious Shangri-La Hotel in Colombo, celebrating the SLS certification of Calin Baby Soap. The occasion, timed to coincide with World Children’s Day, was led by a distinguished panel, including founder Lelwala G Piyanandha, Managing Director Umesh Godakanda, Director Chathurika Jayasekara, Sudaraka Chirantha, National Sales Manager, President’s Counsel Dr. Harsha Cabral, and Senior Counsel Sunil Watagala. Maternal and child health consultant Shyamali Pathirage served as chairperson for the event.
+
+A vibrant gathering of media representatives from television, radio, print, and social media joined commercial partners from the Delma Lanka along with notable artists and other prominent guests, making the event a true celebration of community and achievement.
+
+...
+
+[Data](articles/b0e13d5d.json)
+
+[Extended Data](ext_articles/b0e13d5d.ext.json)
+
+---
+
+### Buddhist Way to Peace and Prosperity
+
+*2024-10-06 03:08:00* · [`islandlk`](http://island.lk/buddhist-way-to-peace-and-prosperity/) · `en`
+
+Economic and social policies based on Buddhist principles were the foundation of peace and prosperity in ancient Sri Lanka. A close examination of this Buddhist foundation would be of assistance to attain, once again, the cherished goal of peace and economic prosperity.
+
+Economic and political theories before Western influence were based on two famous ancient treatises, namely, Kautilya’s Arthaśāstra and Brihaspati’s Arthaśāstra. They had one common feature, in that, under the title of ‘Arthaśātra’ both writers had written on politics and economics, leaving out the most important ingredient for any development process, i.e. the mental and spiritual development of man.
+
+...
+
+[Data](articles/f5aa7ece.json)
+
+[Extended Data](ext_articles/f5aa7ece.ext.json)
+
+---
+
+### Back to Paradise
+
+*2024-10-06 03:00:00* · [`islandlk`](http://island.lk/back-to-paradise/) · `en`
+
+Fewer things are more impossible than a 45-minute layover at Doha International Airport. Disembarking takes a good 15 minutes, while the gates close 20 minutes before the next departure.
+
+When you do the math, you realise you need to have exceptionally strong, sturdy legs to get to your next terminal. And that’s without the burden of bulky bags and the fear of wondering what will happen if you miss your flight and you have to wait a couple of hours or even a day to go back home.
+
+In my case, home lay around 3,000 miles away. Not as far as San Francisco is to Doha – a gruelling 14 plus hour flight that can exhaust anyone – but far enough to make you want to go there quicker.
+
+I had not been homesick in the US – there had been enough and more programs and meetings, friends to meet and places to visit, that had kept me busy – but as I sat in San Francisco, I had felt the vaguest stirrings of wanting to go back, kick off my shoes, and just collapse on my bed.
+
+...
+
+[Data](articles/13723a19.json)
+
+---
+
+### Medical Humanities:an interdisciplinary approach to holistic health
+
+*2024-10-06 02:57:00* · [`islandlk`](http://island.lk/medical-humanitiesan-interdisciplinary-approach-to-holistic-health/) · `en`
+
+The Department of Medical Humanities at the University of Colombo’s Medical Faculty is another groundbreaking initiative by the institution as the pioneer of the discipline here at home and in South Asia. In an interview with the Sunday Island, Clinical Psychologist and Head of the Department of Medical Humanities, Dr. Santushi Amarasuriya elucidates on how this discipline, which is gaining momentum the world over, explores human experiences of health and illness drawing from a spectrum of other social and aesthetic branches.
+
+Q: Could you please share the ‘story’ behind the establishment of the Department of Medical Humanities at the Colombo Medical Faculty?
+
+...
+
+[Data](articles/002d568a.json)
+
+---
+
+### A pragmatic approach to governance: An independent citizen’s perspective on President Dissanayake’s recent appointments
+
+*2024-10-06 02:51:00* · [`islandlk`](http://island.lk/a-pragmatic-approach-to-governance-an-independent-citizens-perspective-on-president-dissanayakes-recent-appointments/) · `en`
+
+“It doesn’t matter whether a cat is black or white, as long as it catches mice – Deng Xiaoping”
+
+As a concerned citizen of Sri Lanka, I have closely observed the early days of President Anura Kumara Dissanayake’s (AKD) tenure. Elected on a platform of reform, transparency, and merit-based governance, his recent appointments to key government positions have sparked debate. Some argue that these choices contradict the very principles AKD campaigned on. However, a closer look reveals a more nuanced and pragmatic approach to governance that prioritises results and effective leadership.
+
+...
+
+[Data](articles/b0156f46.json)
+
+---
+
+### Will there be an October Surprise to sway the 2024 election?
+
+*2024-10-06 02:46:00* · [`islandlk`](http://island.lk/will-there-be-an-october-surprise-to-sway-the-2024-election/) · `en`
+
+An October Surprise is defined as “an unexpected political event or revelation in the month before a presidential election, especially one that seems intended to influence the outcome”. Since 1980, there have been a few “October Surprises” which may have changed the history of the nation.
+
+The phrase originated in 1980, during the presidential election season of that year. Militants in Iran had seized 66 American citizens from the US Embassy in 1979, and held 52 of them hostage for over a year. Jimmy Carter was the incumbent president at the time. His failure to have the hostages released was the main reason he was losing in the polls to Ronald Reagan. The hostage crisis occurred after the Iran’s Islamic revolution and the overthrow of the Pahlavi dynasty. Carter had planned to negotiate a last-minute release of the hostages which would win him the election. It never happened.
+
+...
+
+[Data](articles/77d13664.json)
+
+---
+
+### Professional Challenges and the End of My Government Service
+
+*2024-10-06 02:32:00* · [`islandlk`](http://island.lk/professional-challenges-and-the-end-of-my-government-service/) · `en`
+
+When I returned to Sri Lanka from Sussex in 1982, the Director of ARTI requested me to oversee farmer training programmes. He appointed me the first Editor of the Sri Lanka Journal of Agrarian Studies. I invited Prof B H Farmer of Cambridge University to write the inaugural article of the journal on changing scenarios of agrarian systems in Sri Lanka. He was a well-known expert on Sri Lanka’s Dry Zone agriculture. He was the author of Pioneer Peasant Colonization in Ceylon: A Study in Asian Agrarian Problems (1957). Farmer was the committee chairman who investigated the post-colonial development prospects of irrigated agriculture in the Dry Zone and contributed to revising and updating the Land Development Ordinance of 1935.
+
+...
+
+[Data](articles/a4a6d43b.json)
+
+---
+
+### Crisis in Sri Lanka-US relations, Janavegaya & Mrs. B separating politics from official work
+
+*2024-10-06 02:07:00* · [`islandlk`](http://island.lk/crisis-in-sri-lanka-us-relations-janavegaya-mrs-b-separating-politics-from-official-work/) · `en`
+
+(Excerpted from the autobiography of Dharmasiri Pieris, Secretary to the Prime Minister)
+
+One could not however easily get away from managing. Besides the day to day management that was necessary to maintain paper and information flows, one had to service important meetings and conferences. There was the perpetual follow-up of numerous matters, each day bringing new material. In the midst of all these, someone often created a crisis, which ultimately ended up with us.
+
+One such, during this time was the strong attack made by the Finance Minister Dr. N.M. Perera, on United States PL 480 assistance to Sri Lanka, before a large gathering on May Day. To the Americans, this attack by a senior Minister and the Finance Minister on an important program of official assistance was indeed inexplicable and unfriendly. Chris Van Hollen the Ambassador was not unnaturally quite exercised over this.
+
+...
+
+[Data](articles/9d642185.json)
+
+---
+
+### இன்று இடியுடன் கூடிய மழை
+
+*2024-10-06 01:35:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-344950) · `ta`
+
+நாட்டின் பல பகுதிகளில் இன்று இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன்படி மேல், சபரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையில் மழை பெய்யக்கூடும்.
+
+மழை பெய்யும் சந்தர்ப்பங்களில் தற்காலிகமாகப் பலத்த காற்றும் வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. (a)
+
+◼️
+
+[Data](articles/84287b37.json)
 
 ---
 
@@ -1948,6 +2178,20 @@ The Department has requested the public to take necessary steps to reduce tempor
 
 ---
 
+### Sri Lanka Tourism surpasses 2023 tourist arrivals
+
+*2024-10-05 02:55:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-surpasses-2023-tourist-arrivals/) · `en`
+
+Sri Lanka Tourism with its continuous promotional efforts with clearly defined strategy and objectives, achieved the previous full year arrivals within the 1st nine months of this year. In 2023 the total arrivals were 1,487,303. During the month of September 2024, a total number of 112,140 tourist arrivals were recorded which showed a 9% growth compared to last year. The key source markets which contributed for this achievement were India, China, UK, Germany, Australia, Maldives, Russia, Bangladesh, Spain and France.
+
+The success was achieved through many strategic initiatives. With the tourism industry at a cross roads, “Seen is believing” influencer campaign created a huge impact to take the reality to the globe. Under this initiative, Sri Lanka Tourism Promotion Bureau (SLTPB) hosted nearly 180 media influencers from all over the world to take the positive message and to showcase the truth which supported the industry to come back gradually to normalcy.
+
+...
+
+[Data](articles/df8d48ac.json)
+
+---
+
 ### NDB Bank brings joy and learning to Royal College on World Children’s Day
 
 *2024-10-05 02:54:00* · [`islandlk`](http://island.lk/ndb-bank-brings-joy-and-learning-to-royal-college-on-world-childrens-day/) · `en`
@@ -2065,285 +2309,5 @@ The public handed over the matter to the Kopay Divisional Assistant Divisional S
 [Data](articles/c9b56963.json)
 
 [Extended Data](ext_articles/c9b56963.ext.json)
-
----
-
-### Let the Tamil nation be revived by a new political culture!- RPG. University Student Union
-
-*2024-10-05 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195516) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Revive Tamil nation through new political culture. Address economic crisis, corruption, and lack of progress in Tamil nationalist parties. Propose visionary candidates across sectors. Focus on Ampara district representation. Criticize external contests undermining homeland integrity. Emphasize collective action over individual interests.
-
-🟩
-
-Sri Lanka's presidential election results have revealed the different dimensions of the vote and the political ideas of the people. The Tamil general candidate and the election boycott from the Tamil National Vision are a new twist in the Tamil political part of the Tamil people.
-
-The fear that the agent of chauvinism, which is predicted to overcome the Sinhalese - Buddhist chauvinism in the South, is not conquered, is also the guidance of the people to vote for the agent of another chauvinism.
-
-Sinhalese people have voted for a change in the economic crisis as the economic crisis has been temporarily limited to the Sinhala -Buddhist chauvinism.. However, the Tamil people have made it clear that it is not just an economic crisis by voting on the voting system of the Sinhalese people.
-
-...
-
-[Data](articles/4b62cb5e.json)
-
-[Extended Data](ext_articles/4b62cb5e.ext.json)
-
----
-
-### The UN. President Meeting the Presidential Secretary with representative
-
-*2024-10-05 00:32:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-பிரதிநிதியுடன்-ஜனாதிபதி-செயலாளர்-சந்திப்பு/175-344939) · `ta`
-
-UNDP Resident Representative Asusa Kuboda met with Sri Lanka's President's Secretary Dr. Nandika Sanath Kumanayake at the Presidential Office. They discussed ongoing development projects and new programs between Sri Lanka and UNDP.
-
-🟩
-
-The resident representative of the United Nations Development Program, Asusa Kuboda, met with the President's Secretary Dr. Nandika Sanath Kumanayake at the Presidential Office.
-
-The continuous implementation of the development projects implemented within Sri Lanka through the United Nations Development Program and the cooperation program between the Sri Lanka and the United Nations Development Program was discussed.
-
-The Resident Representative of the United Nations Development Program for Sri Lanka's new Development Programs also made it clear to the President's Secretary. (A)
-
-◼️
-
-[Data](articles/49f3eebc.json)
-
-[Extended Data](ext_articles/49f3eebc.ext.json)
-
----
-
-### Women request PM Harini to curb OGBV
-
-*2024-10-05 00:31:30* · [`dailyftlk`](https://www.ft.lk/news/Women-request-PM-Harini-to-curb-OGBV/56-767589) · `en`
-
-A peaceful protest was held on Thursday in front of the Prime Minister’s Office on Flower Road, Colombo, calling for swift legal action against online gender-based violence (OGBV), particularly targeting women politicians, including former President Chandrika Bandaranaike Kumaratunga.
-
-Organised by a group of women activists from both the political sphere and civil organisations, the protest demanded the intervention of Prime Minister Dr. Harini Amarasuriya, who is also the Minister of Women, Children, and Youth Affairs.
-
-The protest followed a series of offensive comments made by popular YouTube figure Sudaththa Thilaksiri, who had recently used derogatory language against former President Kumaratunga on multiple occasions. The activists carried placards and raised their voices against online hate speech directed at women. They stressed that no one should be permitted to insult women, especially public figures, in such a degrading manner.
-
-...
-
-[Data](articles/1875c0e1.json)
-
-[Extended Data](ext_articles/1875c0e1.ext.json)
-
----
-
-### Special Day for Distribution of Voter Card
-
-*2024-10-05 00:31:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகிக்கும்-விசேட-தினம்/175-344938) · `ta`
-
-Voter card distribution: Nov 27. Nomination deadline: Nov 11. Elections: Nov 14.
-
-🟩
-
-The process of receiving nominations for the parliamentary elections to be held on the 14th of November has begun yesterday.
-
-Accordingly, it has been announced that nominations for 22 election districts will be accepted through the respective District Election Officers until the 11th.
-
-Meanwhile, Deputy Post Office Rajitha Ranasinghe has said that the issuance of official voter cards will be carried out on the 27th of this month.. (A)
-
-◼️
-
-[Data](articles/e2681746.json)
-
-[Extended Data](ext_articles/e2681746.ext.json)
-
----
-
-### Lankan envoy in Warsaw meets Sri Lanka Community Association in Poland
-
-*2024-10-05 00:30:28* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Warsaw-meets-Sri-Lanka-Community-Association-in-Poland/56-767588) · `en`
-
-Ambassador of Sri Lanka to Poland Priyangika Dharmasena met with the Executive Committee of the Sri Lanka Community Association in Poland (SLAPL) on 27 September 2024 at the Embassy.
-
-During the discussions, the Ambassador highlighted the importance of closer interaction between the Embassy and the Sri Lankan community in Poland which would be beneficial for both sides in addressing matters related to the welfare of the community, and also for the furtherance of goals envisaged by the Government. Furthermore, she pointed out that registering with the Embassy would facilitate easy communication, especially in times of emergency such as natural disasters, and with regard to special events held by the Embassy as well. In addition, the meeting fostered discussion on consular matters.
-
-The Ambassador also highlighted the initiatives taken by the Office of the Overseas Sri Lankans Affairs (OOSLA), to reach out to Sri Lankans abroad, through Sri Lankan missions.
-
-...
-
-[Data](articles/adf2ad43.json)
-
-[Extended Data](ext_articles/adf2ad43.ext.json)
-
----
-
-### UN Resident Rep. calls on President Anura Kumara Dissanayake
-
-*2024-10-05 00:30:20* · [`dailyftlk`](https://www.ft.lk/news/UN-Resident-Rep-calls-on-President-Anura-Kumara-Dissanayake/56-767587) · `en`
-
-The United Nations (UN) Resident Coordinator in Sri Lanka Marc-André Franche yesterday met with President Anura Kumara Dissanayake.
-
-During the meeting, the UN Resident Coordinator conveyed the warm greetings of UN Secretary-General António Guterres to President Dissanayake.
-
-Marc-André Franche praised the President’s manifesto and commended the President’s ethical nature of the political campaign. The Resident Coordinator acknowledged that the coming period will be challenging as public expectations are high, but assured the UN’s support for Sri Lanka’s IMF program and the Government’s poverty eradication efforts.
-
-The Coordinator also lauded the anti-corruption initiative outlined in the President Anura Kumara Dissanayake’s manifesto, noting that it offers hope for a new beginning. He assured technical and financial support from the UN to aid in these efforts.
-
-...
-
-[Data](articles/5691ed81.json)
-
-[Extended Data](ext_articles/5691ed81.ext.json)
-
----
-
-### Bandula decides not to contest in General election
-
-*2024-10-05 00:29:42* · [`dailyftlk`](https://www.ft.lk/news/Bandula-decides-not-to-contest-in-General-election/56-767586) · `en`
-
-Former Cabinet Spokesman and Minister Bandula Gunawardena yesterday said that he will not contest the upcoming Parliamentary Election and instead, is expecting to get involved in non-political activities such as producing a movie.
-
-The former Parliamentarian said that during his 20-year political career, he had served as a Parliamentarian representing the Homagama Division, and has also served in the capacity of Cabinet Spokesman, State Minister and Minister.
-
-Stating that through these positions he has served the public to the best of his capacity, Gunawardena said he is also content for having done his best for the Homagama Division as well.
-
-Alongside his interest in producing a movie, Gunawardena said he also intends to pursue a Doctoral study in the coming years, due to which he will not contest the General Election.
-
-◼️
-
-[Data](articles/8c5bda19.json)
-
-[Extended Data](ext_articles/8c5bda19.ext.json)
-
----
-
-### Bus operators violation: Introduction of Emergency number
-
-*2024-10-05 00:29:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-நடத்துனர்கள்-விதிமீறல்-அவசர-இலக்கம்-அறிமுகம்/175-344937) · `ta`
-
-National Transport Commission introduces emergency phone number 1955 for lodging complaints against bus conductors who fail to collect fares from passengers.
-
-🟩
-
-The National Transport Commission has announced that it can lodge a complaint with conductors who do not pay the passengers and pay for the passengers on the bus.
-
-The Commission said that the complaints could be made by contacting the emergency telephone number 1955. (A)
-
-◼️
-
-[Data](articles/c9c2ff88.json)
-
-[Extended Data](ext_articles/c9c2ff88.ext.json)
-
----
-
-### Pathfinder Foundation presents Sinhala translation of ‘The India Way’ to India’s External Affairs Minister
-
-*2024-10-05 00:28:47* · [`dailyftlk`](https://www.ft.lk/news/Pathfinder-Foundation-presents-Sinhala-translation-of-The-India-Way-to-India-s-External-Affairs-Minister/56-767585) · `en`
-
-The Pathfinder Foundation yesterday presented the Sinhala translation of Dr. S. Jaishankar’s seminal work, The India Way: Strategies for an Uncertain World, (ඉන්දීය මාවත: අවිනිශ්චිත ලෝකයක උපාය මාර්ග) to the visiting Indian External Affairs Minister during a ceremony in Colombo.
-
-The presentation was attended by Pathfinder Foundation Founder Milinda Moragoda, High Commissioner of India in Sri Lanka Santhosh Jha, Chairman PF Bernard Goonetilleke, and Consultant (Communications) PF Gamini Sarath Godakanda. The translation, undertaken by Ajith Perakum Jayasinghe, is part of the Foundation’s broader initiative to make significant global policy discussions accessible to the Sri Lankan audience, thereby promoting a deeper understanding of India’s strategic perspectives.
-
-...
-
-[Data](articles/f65d60b8.json)
-
-[Extended Data](ext_articles/f65d60b8.ext.json)
-
----
-
-### Security Force chiefs meet with president
-
-*2024-10-05 00:26:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-படை-பிரதானிகள்-ஜனாதிபதியுடன்-சந்திப்பு/175-344936) · `ta`
-
-Security Force chiefs meet newly appointed President Anura Kumara Dissanayake at Presidential Office. Attendees include Chief Minister Shavendra Silva, Defense Chief, Military Commander, Air Force Commander, and Navy Commander.
-
-🟩
-
-Following the appointment of the new President, the chiefs of the country's security forces formally met with President Anura Kumara Dissanayake at the Presidential Office yesterday.
-
-Accordingly, Chief Minister Shavendra Silva, Chief of Defense, Military Commander Lieutenant General Vikki Liyanage, Air Force Commander Air Marshall Udayani Rajapaksa and Navy Commander Vice Admiral Priyantha Perera met with the President.
-
-◼️
-
-[Data](articles/52eb6920.json)
-
-[Extended Data](ext_articles/52eb6920.ext.json)
-
----
-
-### 2024-10-04 (Friday)
-
-### SriLankan Airlines and SLCB showcase Sri Lanka to top South Indian journalists
-
-*2024-10-04 23:49:54* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-Airlines-and-SLCB-showcase-Sri-Lanka-to-top-South-Indian-journalists/34-767576) · `en`
-
-SriLankan Airlines, together with its leisure arm SriLankan Holidays and the Sri Lanka Convention Bureau (SLCB), recently hosted a group of senior journalists from some of South India’s most prominent media outlets: Deccan Chronicle, Tourism India, Malayala Manorama, Sun Group TV, Mathrubhumi Newspaper, DT Next, and Provoke Magazine.
-
-The week-long adventure offered the journalists an immersive experience of Sri Lanka’s stunning coastal belt, from the shores of Negombo to Galle, with a shopping stop in Colombo. The group embarked on an exciting safari through Udawalawe National Park, strolled through the winding, historic fortifications of Galle, and visited sacred Kovils and other iconic landmarks during their tour.
-
-...
-
-[Data](articles/190d3adc.json)
-
-[Extended Data](ext_articles/190d3adc.ext.json)
-
----
-
-### ComBank ranked no. 2 among Sri Lanka’s Top 100 listed companies
-
-*2024-10-04 23:48:36* · [`dailyftlk`](https://www.ft.lk/business/ComBank-ranked-no-2-among-Sri-Lanka-s-Top-100-listed-companies/34-767575) · `en`
-
-The Commercial Bank of Ceylon has been ranked second in the prestigious ‘LMD 100’ for 2023-24, moving up five places in the ranking the magazine calls ‘Sri Lanka’s Roll of Corporate Honour.’
-
-With this latest LMD ranking, Commercial Bank has not only retained its status as the highest-ranked bank in the LMD 100, but has also overtaken some of the country’s biggest diversified business groups in terms of turnover, on which LMD’s primary ranking is based.Commercial Bank also has the distinction of being in the Top 10 of the LMD ranking every year since it was first published, 31 years ago.
-
-...
-
-[Data](articles/1b444362.json)
-
-[Extended Data](ext_articles/1b444362.ext.json)
-
----
-
-### Qatar-Sri Lanka Business Council and National Chamber of Exporters of Sri Lanka sign Memorandum of Understanding
-
-*2024-10-04 23:48:22* · [`dailyftlk`](https://www.ft.lk/business/Qatar-Sri-Lanka-Business-Council-and-National-Chamber-of-Exporters-of-Sri-Lanka-sign-Memorandum-of-Understanding/34-767574) · `en`
-
-The Qatar-Sri Lanka Business Council (QSBC) signed a Memorandum of Understanding (MoU) with the National Chamber of Exporters (NCE) of Sri Lanka with the aim of fostering stronger business ties and enhancing trade and investment opportunities between Qatar and Sri Lanka.
-
-At the launching ceremony of the QSBC, Sri Lankan Ambassador to Qatar Mohamed Mafaz Mohideen emphasised the importance of signing MoUs and fostering mutual agreements between business chambers and associations in both countries to strengthen bilateral business ties. He noted that this MoU marks an important milestone in this initiative.
-
-...
-
-[Data](articles/24c3b4d5.json)
-
-[Extended Data](ext_articles/24c3b4d5.ext.json)
-
----
-
-### ‘National lists’ of political parties for general elections in Sri Lanka
-
-*2024-10-04 23:41:19* · [`dailyftlk`](https://www.ft.lk/columns/National-lists-of-political-parties-for-general-elections-in-Sri-Lanka/4-767568) · `en`
-
-In this era where a system change in the political culture in Sri Lanka is dawning it will be a welcome move if all political parties seriously consider using the national list for the purpose it was intended. We hope that the upcoming elections will result in a group of eminent people with impeccable credentials being nominated on all national lists across the political spectrum in the country
-
-...
-
-[Data](articles/9cab8ff7.json)
-
-[Extended Data](ext_articles/9cab8ff7.ext.json)
-
----
-
-### Role of research providers for building climate-smart and resilient food systems
-
-*2024-10-04 23:38:58* · [`dailyftlk`](https://www.ft.lk/columns/Role-of-research-providers-for-building-climate-smart-and-resilient-food-systems/4-767567) · `en`
-
-There is a need to transform food systems in the face of the climate crisis and make more sustainable use of natural ecosystems, resources, and biodiversity. As outlined by the Intergovernmental Panel on Climate Change (IPCC) with high confidence in its latest assessment report (AR6), “climate change impacts are stressing agriculture, forestry, fisheries, and aquaculture, increasingly hindering efforts to meet human needs,” including negative impacts on food security, livelihoods, human health, and economic growth. Climate-related risks to food systems are an especially severe threat to tropical and subtropical developing countries with high employment in relevant sectors, including Sri Lanka.
-
-...
-
-[Data](articles/b5672bb5.json)
-
-[Extended Data](ext_articles/b5672bb5.ext.json)
 
 ---

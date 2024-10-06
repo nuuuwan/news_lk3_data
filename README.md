@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 09:13:17**
+As of **2024-10-06 09:24:14**
 
 ## Newspaper Stats
 
-*Scraped **47,983** Articles*
+*Scraped **47,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,430
 dailymirrorlk | 4,733
 adaderanalk | 5,651
-tamilmirrorlk | 6,468
+tamilmirrorlk | 6,469
 virakesarilk | 7,674
 adaderanasinhalalk | 8,311
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,311
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,978 (100.0%) of 47,983 articles have been extended.
+47,979 (100.0%) of 47,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -145,6 +145,22 @@ Following this, the President proceeded to the Udamaluwa, where he participated 
 [Data](articles/bb22f32e.json)
 
 [Extended Data](ext_articles/bb22f32e.ext.json)
+
+---
+
+### டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரிப்பு
+
+*2024-10-06 07:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-344953) · `ta`
+
+இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 39,698 பேர் டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர்.
+
+அதிகளவான டெங்கு நோயாளர்கள் மேல் மாகாணத்திலேயே பதிவாகியுள்ளனர் என தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+அதேநேரம், டெங்கு நோயினால் இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 19 பேர் பலியாகியுள்ளனர் என தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/27be60b8.json)
 
 ---
 
@@ -565,6 +581,8 @@ One such, during this time was the strong attack made by the Finance Minister Dr
 ...
 
 [Data](articles/9d642185.json)
+
+[Extended Data](ext_articles/9d642185.ext.json)
 
 ---
 
@@ -2327,23 +2345,5 @@ To mark the occasion, commemorative tokens were also presented, according to the
 [Data](articles/263cbeda.json)
 
 [Extended Data](ext_articles/263cbeda.ext.json)
-
----
-
-### EC suspends new Port Minister’s MD appointment at Sri Lanka Ports Authority
-
-*2024-10-05 08:22:00* · [`economynextcom`](https://economynext.com/ec-suspends-new-port-ministers-md-appointment-at-sri-lanka-ports-authority-182441/) · `en`
-
-ECONOMYNEXT –Election Commission has halted an appointment made by new Port Minister Vijitha Herath to the state-owned Sri Lanka Ports Authority (SLPA) after the former official complained to the EC citing the move was against the election laws.
-
-Minister Herath appointed the new Managing Director after replacing Prabath Malavige who has nearly ten years of service remaining. The move was done without prior notice to Malavige, SLPA officials told EconomyNext.
-
-“The complaint states that a new SLPA Managing Director has been appointed while asking to vacate the current MD Prabath J Malavige immediately from the post,” B P C Kularatne, the additional Election Commissioner in charge of law, investigations and planning at the EC wrote in a letter to the Secretary of the Port Ministry.
-
-...
-
-[Data](articles/c37b3b25.json)
-
-[Extended Data](ext_articles/c37b3b25.ext.json)
 
 ---

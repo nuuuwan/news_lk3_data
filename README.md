@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 21:22:55**
+As of **2024-10-06 21:38:35**
 
 ## Newspaper Stats
 
-*Scraped **48,059** Articles*
+*Scraped **48,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,662
 tamilmirrorlk | 6,489
 virakesarilk | 7,693
-adaderanasinhalalk | 8,321
+adaderanasinhalalk | 8,322
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,059 (100.0%) of 48,059 articles have been extended.
+48,060 (100.0%) of 48,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Many prisoners in Sri Lanka to visit Pakistan
+
+*2024-10-06 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201905) · `si`
+
+Sri Lanka sends 56 Pakistani prisoners home under Prisoner Exchange Act. 5 women, 51 men repatriated for drug offenses. First large-scale exchange in department history. Cooperation between justice, defense ministries, civil aviation authority, and Pakistani embassy facilitated transfer.
+
+🟩
+
+56 Pakistani National Prisoners have been sent back to Pakistan under the Prisoner Exchange Act.
+
+The Prisons Department stated that a group of Pakistani prisoners were sent to Pakistan for drug charges.
+
+Five Pakistani National Women's Women's Women's Lives and 51 males have left for a special flight of Pakistan today (6).
+
+Prison spokesman Prison Spokesman, Commissioner of Prisons Spokesman Gaminayake said that this was the first time a large number of inmates were exchanged in the history of the Department of Prisons.
+
+The Prisoner Exchange, the Ministry of Justice, Ministry of Defense, the Sri Lanka Civil Aviation Authority and the Embassy of the Pakistani Embassy has been implemented.
+
+The prison given to these detainees is to be implemented in prisons in his mother.
+
+◼️
+
+[Data](articles/6954b314.json)
+
+[Extended Data](ext_articles/6954b314.ext.json)
+
+---
 
 ### Death
 
@@ -2431,21 +2459,5 @@ As a concerned citizen of Sri Lanka, I have closely observed the early days of P
 [Data](articles/b0156f46.json)
 
 [Extended Data](ext_articles/b0156f46.ext.json)
-
----
-
-### Will there be an October Surprise to sway the 2024 election?
-
-*2024-10-06 02:46:00* · [`islandlk`](http://island.lk/will-there-be-an-october-surprise-to-sway-the-2024-election/) · `en`
-
-An October Surprise is defined as “an unexpected political event or revelation in the month before a presidential election, especially one that seems intended to influence the outcome”. Since 1980, there have been a few “October Surprises” which may have changed the history of the nation.
-
-The phrase originated in 1980, during the presidential election season of that year. Militants in Iran had seized 66 American citizens from the US Embassy in 1979, and held 52 of them hostage for over a year. Jimmy Carter was the incumbent president at the time. His failure to have the hostages released was the main reason he was losing in the polls to Ronald Reagan. The hostage crisis occurred after the Iran’s Islamic revolution and the overthrow of the Pahlavi dynasty. Carter had planned to negotiate a last-minute release of the hostages which would win him the election. It never happened.
-
-...
-
-[Data](articles/77d13664.json)
-
-[Extended Data](ext_articles/77d13664.ext.json)
 
 ---

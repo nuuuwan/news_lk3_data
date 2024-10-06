@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 18:57:56**
+As of **2024-10-06 19:08:41**
 
 ## Newspaper Stats
 
-*Scraped **48,047** Articles*
+*Scraped **48,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,124 @@ adalk | 4,441
 dailymirrorlk | 4,733
 adaderanalk | 5,661
 tamilmirrorlk | 6,486
-virakesarilk | 7,689
-adaderanasinhalalk | 8,319
+virakesarilk | 7,693
+adaderanasinhalalk | 8,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,047 (100.0%) of 48,047 articles have been extended.
+48,052 (100.0%) of 48,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### IGP notifying all police stations
+
+*2024-10-06 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201903) · `si`
+
+IGP instructs police stations to investigate minor complaints. Acting IGP Priyantha Weerasuriya orders probe into public grievances. Police Media Spokesperson DIG Nihal Thalduwala confirms directive.
+
+🟩
+
+Acting IGP Priyantha Weerasuriya has instructed all police stations to investigate and take necessary steps regarding all the minor complaints made by the public.
+
+The Police Media Spokesperson DIG's launches said the DIG's latter and Nihal Thalduwala said that.
+
+◼️
+
+[Data](articles/7c45ade6.json)
+
+[Extended Data](ext_articles/7c45ade6.ext.json)
+
+---
+
+### Political justification and solutions for the Tamil people
+
+*2024-10-06 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/195630) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Leadership requires more than education. Political candidates should be judged on life experience, moral character, and empathy for common struggles. These traits are crucial for effective governance and addressing citizen needs.
+
+🟩
+
+When choosing political leaders, it is important to consider not only their academic qualifications but also their moods and qualities. Education is not enough to ensure skilled leadership. The life experiences of a politician, the moral compass, and the understanding of the struggles faced by ordinary citizens are equally important in determining their suitability.
+
+◼️
+
+[Data](articles/dc58f739.json)
+
+[Extended Data](ext_articles/dc58f739.ext.json)
+
+---
+
+### Economic crisis intensifies if political promises are fulfilled - Sehan Semasinghe
+
+*2024-10-06 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195643) · `ta`
+
+Economic crisis deepens if election promises fulfilled. IMF review delay impacts $300-$330 million installment. Government cooperation sought for economic recovery.
+
+🟩
+
+The notority of the IMF's third review of the International Monetary Fund will have an impact on receiving the fourth installment. Former Finance Minister Xihan Semasinghe said the economic crisis would be intensified if the promises made during the election period were again intensified.
+
+The President is delighted that the government led by former President Ranil Wickremesinghe for economic recovery. We will cooperate fully to find a steady solution to the economic crisis.
+
+The International Monetary Fund's Special Ambassador to Sri Lanka visited the country last week and held talks with the president. The date for the third review is not certain.
+
+It was initially decided to receive $ 300 or 330 million as a fourth installment of the International Monetary Fund. If the third term review is delayed, the next installment will be affected.
+
+...
+
+[Data](articles/de68c42e.json)
+
+[Extended Data](ext_articles/de68c42e.ext.json)
+
+---
+
+### There is no point in traveling with the Tamil state party - Mithilaichelvi
+
+*2024-10-06 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195634) · `ta`
+
+Tamil State Party candidate selection process criticized by Mithilaichelvi as ineffective.
+
+🟩
+
+The culture of declaration of candidates in the Tamil State Party's Committee continues.
+
+◼️
+
+[Data](articles/1b2e6983.json)
+
+[Extended Data](ext_articles/1b2e6983.ext.json)
+
+---
+
+### Recovery as Corps of Corps in Welipanna
+
+*2024-10-06 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195633) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Bodies of couple found dead in Welipanna house. Police investigating suspicious deaths.
+
+🟩
+
+The bodies of the couple who died suspiciously from a house in Welipanna area have been found, Welipanna police said.
+
+◼️
+
+[Data](articles/6c13b0b4.json)
+
+[Extended Data](ext_articles/6c13b0b4.ext.json)
+
+---
 
 ### Acting IGP orders police to resolve all minor complaints within 2 weeks
 
@@ -2323,133 +2429,5 @@ The discussions were broken due to the conditions of the Opposition Leader Sajit
 [Data](articles/63f31ca2.json)
 
 [Extended Data](ext_articles/63f31ca2.ext.json)
-
----
-
-### The Atamasthanadhi Thero says of the undertaker responsibility
-
-*2024-10-05 22:00:35* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිට-ඇති-අත්හළ-නොහැකි-වගකීම-ගැන-අටමස්ථානාධිපති-හිමියෝ-කියති/11-412318) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan President visits Anuradhapura, pays homage to Jaya Sri Maha Bodhi. Religious leaders bless president. Discussion on national policies and political culture.
-
-🟩
-
-President Anura Kumara Dissanayake paid homage to the victory of the Historical Jaya Sri Maha Bodhi in Anuradhapura this afternoon.
-
-The President arrived at the historical sacrifice of Anuradhapura, the Atamatian and Kandy Kalawa Working Director Ven.
-
-The President then visited Udamaluwa and the Atamataddharders of the Jayaththara, the leader of the Jayaththara and the Maha Sangha made Seth Pirith and bless the President.
-
-Ruwanwothy Leader of Sri Lanka's historical leader, Ruwanwothy Leader, Ruwanwothy Leader of the Ruwanwoththa, Ven. Rie Dr. Grade Yarchary Ratings
-
-Ven, Isurumuni Rajamaha Viharaya and Anuradhapura Sri Sambudunananda Viharaya, Anuradhapura, Ven.
-
-The Atamasthanadhipathi Nilmale Revisive Atamaskathi Ven.
-
-The Venerable Thera pointed out that the President of the people of the country is also the prosperity of the lives of the people of the area as the head of state.
-
-...
-
-[Data](articles/0e07ad06.json)
-
-[Extended Data](ext_articles/0e07ad06.ext.json)
-
----
-
-### Sri Lanka’s “political trauma” driven by both internal and external factors – Indian FM
-
-*2024-10-05 21:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102473/sri-lankas-political-trauma-driven-by-both-internal-and-external-factors-indian-fm) · `en`
-
-Indian Minister of External Affairs Dr. Subrahmanyam Jaishankar says the political trauma Sri Lanka had to experience two years ago was a result of both internal and external factors.
-
-Addressing a discussion organised by the U.S. think tank Carnegie Endowment for International Peace, the Indian External Affairs Minister said conflicts in a specific region can have serious impacts on other regions of the world, especially the global south.
-
-“The international economy today is fragile. I have travelled to various parts of the world which has had a very hard time for the last five years, where people have seen a visible sort of drop in the quality of life. I may mention Sri Lanka. I’ve been in that country, I’ve been going there from time to time. I think part of what explains political shifts there was actually the trauma that they underwent as a result of some sort of factors within their control, but some of it was not”, he said.
-
-...
-
-[Data](articles/d12474d1.json)
-
-[Extended Data](ext_articles/d12474d1.ext.json)
-
----
-
-### Interviews from the pouch
-
-*2024-10-05 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201887) · `si`
-
-Sri Lanka political interviews held at party office. New alliances formed to advance policies in upcoming general election. Nomination process begins across districts.
-
-🟩
-
-Interviews for the next general election were held at the party's office today (05).
-
-Meanwhile, the Sri Lanka Ceremony Arology Front says that the new allies will produce new allies to advance the policies of the party in the coming general election.
-
-They noted that there is no purpose to produce new alliance in order to increase the MPs.
-
-The Nominations of the Sri Lanka Civil Appointment will be conducted these days, while the nominations are scheduled for all districts for the coming general election.
-
-◼️
-
-[Data](articles/b1fa45e3.json)
-
-[Extended Data](ext_articles/b1fa45e3.ext.json)
-
----
-
-### Haryana State Legislative Assembly Election: Voting
-
-*2024-10-05 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195581) · `ta`
-
-Haryana assembly election underway. 36.69% voted by noon. BJP vs Congress rivalry. 1031 candidates. Results awaited.
-
-🟩
-
-The general election is held today for the state of Haryana, one of the Indian states. According to reports, 36.69 per cent of the votes were cast till noon.
-
-The legislative elections for the 90 -member Haryana state are being held today.
-
-A total of two crore voters vote. For this purpose, the Election Commission of India has set up polling centers 20, 632. Voting takes place from 7 am to 6 pm.
-
-There is a strong rivalry between the Bharatiya Janata Party and the Congress in this election.
-
-Along with them, one of the state leaders, Dushyant Saudala, is contesting the Democratic Janata Party and the Aam Aadmi Party in the field.. A total of 1031 candidates are contesting.
-
-Current Chief Minister Nayab Singh Shiny, Wrestler Vinesh Bogat and Dushyant Saudala are contesting as star candidates.
-
-The Election Commission of India has announced that the official details of the voting will be released. More votes are counted on the eighth day.
-
-...
-
-[Data](articles/316fb41a.json)
-
-[Extended Data](ext_articles/316fb41a.ext.json)
-
----
-
-### India Helping Kankesanthurai Port Development
-
-*2024-10-05 21:27:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கேசந்துறை-துறைமுகம்-அபிவிருத்திக்கு-இந்தியா-உதவி/175-344948) · `ta`
-
-India aids Kankesanthurai port upgrade ($61.5m). Gifts 22 diesel engines to Sri Lanka railways. Discusses investment projects with Sri Lankan president.
-
-🟩
-
-India has come forward to modernize the Kankesanthurai port at US $ 61.5 million. Jaishankar has told President Anura Kumara Dissanayake.
-
-The Indian External Affairs Minister said that India has decided to gift 22 diesel machines to the Sri Lanka Railways Department.
-
-The Minister of Foreign Affairs of India has also discussed with the President on the investments and development projects to be launched in Sri Lanka.. Remble
-
-◼️
-
-[Data](articles/eab5cc29.json)
-
-[Extended Data](ext_articles/eab5cc29.ext.json)
 
 ---

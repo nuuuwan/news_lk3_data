@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 23:38:51**
+As of **2024-10-06 23:58:15**
 
 ## Newspaper Stats
 
-*Scraped **48,071** Articles*
+*Scraped **48,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,54 @@ dbsjeyarajcom | 395
 colombotelegraphcom | 474
 bbccomsinhala | 475
 islandlk | 2,836
-economynextcom | 2,940
+economynextcom | 2,942
 dailyftlk | 3,235
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
 tamilmirrorlk | 6,489
 virakesarilk | 7,700
-adaderanasinhalalk | 8,322
+adaderanasinhalalk | 8,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,071 (100.0%) of 48,071 articles have been extended.
+48,074 (100.0%) of 48,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Police certification for the safety of former President
+
+*2024-10-06 23:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201906) · `si`
+
+Here's a 200-character summary:
+
+
+
+Police deny claims of reduced security for ex-President Wickremesinghe. 50 officers still deployed. Number of officers needed to be determined. Presidential Secretariat reduces excess personnel.
+
+🟩
+
+Police Media Spokesperson DIG Talduuwa said that the propaganda that the security of former President Ranil Wickremesinghe has been removed has been completely false.
+
+The police spokesman said that 50 police officers who have been deployed to the security of the former president were working with the police.
+
+Police Media Spokesman DIG Talduwa, responding to the 'Ada Derana', responding to Ada Derana, responding to the safety of former President Ranil Wickremesinghe.
+
+However, he added that the number of officers who should be given to the former President are expected to be determined and established.
+
+Meanwhile, the number of officers who are required to establish the Presidential Secretariat of President Anura Kumara Dissanayake has decided to establish the removal of surplus officers.
+
+◼️
+
+[Data](articles/ce185806.json)
+
+[Extended Data](ext_articles/ce185806.ext.json)
+
+---
 
 ### Police security for former President Ranil to remain unchanged
 
@@ -750,6 +780,28 @@ However, in the documents provided by the Government Finance Department to the G
 
 ---
 
+### Sri Lanka President resurrects moribund Easter Sunday investigation
+
+*2024-10-06 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-resurrects-moribund-easter-sunday-investigation-182491/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has ordered the Secretary to the Ministry of Public Security to conduct a transparent and impartial investigation into the Easter Sunday bombing, a statement from his office said.
+
+President Dissanayake appointed former police Deputy Inspector General Ravi Seneviratne, who oversaw Criminal Investigation Department probe in to the Easter Sunday bombing as the Secretary to the Public Security Ministry as one of the first acts after being elected.
+
+There is a widespread belief in society that the Easter Sunday attacks may have been carried out to gain political mileage, President Dissanayake was quoted as saying when he visited St Sebastian’s Church in Katuwapitiya Sunday.
+
+If hundreds of innocent lives were sacrificed for political purposes, it would be a profound tragedy, he said.
+
+If politics in the country has reached such an extreme, the first priority must be to eliminate this dangerous situation.
+
+...
+
+[Data](articles/dceacad8.json)
+
+[Extended Data](ext_articles/dceacad8.ext.json)
+
+---
+
 ### Tamil nationalism within the disaster
 
 *2024-10-06 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195636) · `ta`
@@ -909,6 +961,28 @@ Former President Mahinda Rajapaksa's son Yoshitha Rajapaksa has been given 07 gu
 [Data](articles/ebd65113.json)
 
 [Extended Data](ext_articles/ebd65113.ext.json)
+
+---
+
+### Ceylon Chamber commends ISB restructure progress within IMF, OCC parameters
+
+*2024-10-06 16:42:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-commends-isb-restructure-progress-within-imf-occ-parameters-182489/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Chamber of Commerce said International Monetary Fund and official creditor committee clearance for an in-principle deal with private bondholders, will pave the way for fiscal stability.
+
+Sri Lanka Friday said the IMF and OCC had given their ok for the latest tweaks to a deal with bondholders to re-structure debt.
+
+Sri Lanka plans to issue GDP linked upside/downside bonds and some plain vanilla bonds linked to governance indicators which are yet to be decided.
+
+“The Chamber looks forward to the completion of the restructuring of Sri Lanka’s external debt,” the trade association said.
+
+“The completion of the OCC and IMF consultation process is a positive indicator for ensuring successful future reviews and disbursements under the IMF’s Extended Fund Facility (EFF) arrangement, which will be essential in the country’s journey towards fiscal stability and economic transformation.
+
+...
+
+[Data](articles/ee3a0ceb.json)
+
+[Extended Data](ext_articles/ee3a0ceb.ext.json)
 
 ---
 
@@ -2433,77 +2507,5 @@ In both districts, 15 independent groups have been controlled, the Elections Com
 [Data](articles/a9caebe1.json)
 
 [Extended Data](ext_articles/a9caebe1.ext.json)
-
----
-
-### Man killed in a crocodile attack
-
-*2024-10-06 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201890) · `si`
-
-A 60-year-old man was fatally attacked by a crocodile while crossing a river in Sri Lanka. The incident occurred near the Sri Purai area. The police have taken custody of the body and are investigating further.
-
-🟩
-
-A person who went to cross the Poya in Gemunupura in the Sri Purai area, has been shaken by a crocodile.
-
-The deceased has been crossed in the Morata in Ranjith Mad.
-
-Later, the deceased has seized a crocodia when he crossed the house to bring the meat at home.
-
-Police say that part of the body has been observed by the crocodile
-
-The victim is a 60 year old resident of Padaviyapura, Padavi Sri Papitiya.
-
-The body has been placed at the Anuradhapura hospital morgue and the Sri Pill Police are conducting further investigations.
-
-◼️
-
-[Data](articles/77a2c98a.json)
-
-[Extended Data](ext_articles/77a2c98a.ext.json)
-
----
-
-### Thundershowers at several places
-
-*2024-10-06 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201889) · `si`
-
-Thunderstorms expected in Western, Sabaragamuwa, Northern, and Northwestern provinces. Heavy showers predicted in Galle, Matara, and Trincomalee districts. Public advised to be cautious due to potential lightning accidents.
-
-🟩
-
-The Meteorological Department says that at the evening of the evening in many parts of the island, the Met Department said.
-
-The department states that showers or thundershowers will occur at night or night in many parts of the island.
-
-Showers in the Western, Sabaragamuwa, Northern and Northwestern provinces and in the Galle, Matara and Trincomalee districts.
-
-MM to some places in the Northern, North Central, Eastern and Uva provinces. The Met Department announces heavy showers about 75%.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/0e3f9dcf.json)
-
-[Extended Data](ext_articles/0e3f9dcf.ext.json)
-
----
-
-### Ceylinco Life launches 18th ‘Family Savari’
-
-*2024-10-06 04:26:00* · [`islandlk`](http://island.lk/ceylinco-life-launches-18th-family-savari/) · `en`
-
-Ceylinco Life has launched the 18th edition of its ‘Family Savari’ mega promotion, offering exciting travel experiences for policyholders, a release said.
-
-It said: In 2025, the program will provide all-expenses-paid overseas holidays to 60 individuals from 15 policyholder families—five families will travel to China, and ten families to Malaysia. Additionally, 250 families, totaling 1,000 individuals, will enjoy a day at the Pearl Bay Water Park in Bandaragama.
-
-The promotion aims to create lasting memories for policyholders and has previously rewarded over 36,000 participants with trips to popular destinations worldwide. To qualify for the draws, policyholders need to maintain their policies or specified account balances during the promotion period from September 1 to December 31, 2024. New customers must pay at least three-monthly premiums to enter.
-
-...
-
-[Data](articles/19c9a29c.json)
-
-[Extended Data](ext_articles/19c9a29c.ext.json)
 
 ---

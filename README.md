@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 08:03:34**
+As of **2024-10-06 08:58:59**
 
 ## Newspaper Stats
 
-*Scraped **47,972** Articles*
+*Scraped **47,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,191 @@ newsfirstlk | 363
 dbsjeyarajcom | 395
 bbccomsinhala | 474
 colombotelegraphcom | 474
-islandlk | 2,835
+islandlk | 2,836
 economynextcom | 2,939
 dailyftlk | 3,235
 adalk | 4,429
 dailymirrorlk | 4,733
-adaderanalk | 5,648
-tamilmirrorlk | 6,465
+adaderanalk | 5,651
+tamilmirrorlk | 6,468
 virakesarilk | 7,674
-adaderanasinhalalk | 8,308
+adaderanasinhalalk | 8,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,965 (100.0%) of 47,972 articles have been extended.
+47,973 (100.0%) of 47,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### இலங்கையில் சர்ச்சையை ஏற்படுத்திய ஜீப் வண்டி
+
+*2024-10-06 08:31:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-சர்ச்சையை-ஏற்படுத்திய-ஜீப்-வண்டி/175-344956) · `ta`
+
+சட்டவிரோதமான முறையில் இலங்கைக்கு கொண்டு வரப்பட்டு அரசாங்கத்திற்கு செலுத்த வேண்டிய வரியை செலுத்தாமல் நஷ்டத்தை ஏற்படுத்திய ஜீப் வண்டியொன்று இலஞ்ச ஊழல் ஆணைக்குழுவினால் கைப்பற்றப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+குறித்த ஜீப் மோட்டார் போக்குவரத்து திணைக்களத்தில் பதிவு செய்யப்பட்டுள்ளதாக மேற்படி ஆணைக்குழுவின் இரகசிய மற்றும் புலனாய்வுப் பிரிவுக்கு தகவல் கிடைத்துள்ளது.
+
+இதன்படி கடந்த 18ஆம் திகதிக்கு முன்னர் குறித்த ஜீப் வண்டியை இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவிடம் ஒப்படைக்குமாறு தொழிலதிபருக்கு நீதிமன்ற உத்தரவு பிறப்பித்திருந்தது.
+
+ஆனால் அந்த உத்தரவுகளை மீறியதன் காரணமாக பதுளை நெலும்கம பிரதேசத்தில் உள்ள தொழிலதிபருக்கு எதிராக கொழும்பு நீதவான் நீதிமன்றம் பிடியாணை பிறப்பித்திருந்த நிலையிலேயே, இலஞ்ச ஊழல் ஆணைக்குழுவின் இரகசிய புலனாய்வுப் பிரிவினர் ஜீப்பை கைப்பற்றியுள்ளனர். R
+
+◼️
+
+[Data](articles/e67beb48.json)
+
+---
+
+### மக்களே உங்களிடம் ஆதாரம் இருக்கின்றதா?
+
+*2024-10-06 08:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-உங்களிடம்-ஆதாரம்-இருக்கின்றதா/175-344955) · `ta`
+
+தரம் 5 புலமைப்பரிசில் பரீட்சையின் 3 வினாக்கள் கசிந்துள்ளதாக கூறப்படுவதற்கு மேலதிகமாக ஏதேனும் வினாக்கள் கசிந்துள்ளமைக்கான ஆதாரம் இருந்தால் அது தொடர்பான தகவல்களை விரைவில் அருகிலுள்ள பொலிஸ் நிலையத்திற்கு வழங்குமாறு பொலிஸார் கோரிக்கை விடுத்துள்ளனர்.
+
+எதிர்வரும் 7 ஆம் திகதிக்கு முன்னர் இது தொடர்பான தகவல்களை அருகில் உள்ள பொலிஸ் நிலையத்தில் ஒப்படைக்குமாறு கூறப்பட்டுள்ளது.
+
+தரம் 05 புலமைப்பரிசில் பரீட்சை வினாக்கள் முன்கூட்டியே வெளியிடப்பட்டுள்ள நிலையை கருத்தில் கொண்டு, விடைத்தாள் திருத்தும் பணி தற்காலிகமாக நிறுத்தப்பட்டுள்ளது.
+
+அத்துடன், இது தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளதுடன், இது தொடர்பான விசாரணைகள் தொடர்பில் இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் கவனத்துக்குக் கொண்டுவரப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/7b489cb1.json)
+
+---
+
+### Dozens of Pakistan police injured in clashes with supporters of former PM Khan
+
+*2024-10-06 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102477/dozens-of-pakistan-police-injured-in-clashes-with-supporters-of-former-pm-khan) · `en`
+
+Over 80 police personnel have been injured in clashes with supporters of jailed former Prime Minister Imran Khan taking part in a march near Islamabad, Interior Minister Mohsin Naqvi said on Saturday.
+
+The march, which is being led by the head of the northwestern province of Khyber-Pakhtunkhwa, where Khan’s party remains in power, aims to gather in the capital, defying a ban on congregations, to press for Khan’s release and agitate against the ruling coalition.
+
+“The convoy, led by the chief minister, fired on the police and continuously used teargas against law-enforcers,” Naqvi told journalists.
+
+He said more than 80 police officers had been treated for injuries since Friday, when clashes broke out just outside the city during an anti-government rally.
+
+Authorities have sealed off Islamabad and blocked cellphone services to prevent the gathering.
+
+...
+
+[Data](articles/e1e7bb4c.json)
+
+[Extended Data](ext_articles/e1e7bb4c.ext.json)
+
+---
+
+### President receives blessings from Sacred Jaya Sri Maha Bodhi
+
+*2024-10-06 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102476/president-receives-blessings-from-sacred-jaya-sri-maha-bodhi) · `en`
+
+President Anura Kumara Dissanayake visited the sacred Jaya Sri Maha Bodhi in Anuradhapura last afternoon (05) to pay homage and receive blessings.
+
+Upon his arrival at the historic Anuradhapura sacred site, the President first met with the Atamasthanadhipathi, Chief Sanghanayaka of Nuwara Kalaviya, and Chief Administrator of the Anuradhapura Maha Viharaya, Most Venerable Pallekumbura Hemarathana Nayake Thero. During this meeting, the President engaged in a brief discussion, inquiring about the Venerable Thero’s well-being, the President’s Media Division (PMD) said.
+
+Following this, the President proceeded to the Udamaluwa, where he participated in religious observances. At the main Dhamma Hall of the Jaya Sri Maha Bodhi, the Atamasthana Chief Prelate, along with the Maha Sangha, conducted Seth Pirith and invoked blessings upon the President.
+
+...
+
+[Data](articles/bb22f32e.json)
+
+[Extended Data](ext_articles/bb22f32e.ext.json)
+
+---
+
+### Police work in the presidential election
+
+*2024-10-06 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201892) · `si`
+
+Sri Lanka police chief praises force's performance in presidential election, highlighting post-election stability and international recognition.
+
+🟩
+
+Acting IGP Priyantha Weerasuriya says that a good image of the police have been able to build a good image in the presidential election.
+
+He was speaking at a function held at Kakudah yesterday.
+
+"Post-election violence violence after a political translation is the most difficult time. The Peace of My Ministry of Service Post Election Season After this election. This is a new culture. We must maintain these forward. The highest convenience to the Sri Lanka Police. Thank you for the political authority who split such a chance. Also, an election demonstrated the highest efficiency of the police. The police got up from the fall. There was a high image of the police and praised the functioning of the functioning and foreign overseas. "
+
+◼️
+
+[Data](articles/0468ceb5.json)
+
+[Extended Data](ext_articles/0468ceb5.ext.json)
+
+---
+
+### 80 வகையான மருந்துகளுக்கு தட்டுப்பாடு
+
+*2024-10-06 07:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-வகையான-மருந்துகளுக்கு-தட்டுப்பாடு/175-344952) · `ta`
+
+நாட்டில் தொடர்ந்தும் 80 வகையான மருந்துகளுக்கு தட்டுப்பாடு காணப்படுவதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+மேற்படி மருந்துகளை வைத்தியசாலை மட்டத்தில் கொள்வனவு செய்வதற்கு அனுமதி வழங்கப்பட்டுள்ளதாக சுகாதார அமைச்சின் சிரேஷ்ட அதிகாரியொருவர் குறிப்பிட்டுள்ளார்.
+
+அதற்கமைய சிக்கல்கள் இன்றி சிகிச்சைகளை முன்னெடுத்துச்செல்ல முடியும் என அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/480eae9c.json)
+
+---
+
+### Afternoon thundershowers expected in most parts of the island
+
+*2024-10-06 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102475/afternoon-thundershowers-expected-in-most-parts-of-the-island) · `en`
+
+The Meteorology Department says the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island from today (06).
+
+Showers or thundershowers will occur at most places in the island during the afternoon or night.
+
+Showers may occur in Western, Sabaragamuwa, Northern and North-western provinces and in Galle, Matara and Trincomalee districts during the morning too, it added.
+
+Fairly heavy showers of about 75 mm are likely at some places in Northern, North-central, Eastern and Uva province.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/85a3d605.json)
+
+[Extended Data](ext_articles/85a3d605.ext.json)
+
+---
+
+### Nearly 100,000 people out of agro-employment in one year
+
+*2024-10-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201891) · `si`
+
+Over 100,000 leave agriculture sector in one year, impacting economy. Jobs decreased from 147,989 to 2,139,574 between Q1 2023 and Q1 2024. Employment percentage dropped from 26.7% to 25.8%.
+
+🟩
+
+The Department of Economics and Statistical Studies of the Department of Economics and Statistical Studies of the University of Peradeniya said that more than 100,000 people have left the agriculture sector in the country for a year.
+
+He said that this is confirmed according to a report issued by the Department of Census and Statistics.
+
+He further said that due to various issues in the agriculture sector in the country's agricultural sector, the people are removing agricultural jobs and the production of agricultural products.
+
+He said that if the situation continues, the economy of the country will be affected.
+
+"Nearly 147,989 jobs have left about 147,989 jobs during the past year.
+
+The agricultural sector employees spent 2,187,563 by the first quarter of 2023. It decreases the first quarter of 2024 to 2,139,574.
+
+2023 by the first quarter of 2023, agricultural sector employment was 26.7%. But by the first quarter of 2024, it shows 25.8% down. "
+
+◼️
+
+[Data](articles/b74d5e4b.json)
+
+[Extended Data](ext_articles/b74d5e4b.ext.json)
+
+---
 
 ### 122 Independent Groups controlled
 
@@ -276,6 +442,20 @@ Q: Could you please share the ‘story’ behind the establishment of the Depart
 
 ---
 
+### The US Secret to Staying on Top – My Talk with George Friedman
+
+*2024-10-06 02:52:00* · [`islandlk`](http://island.lk/the-us-secret-to-staying-on-top-my-talk-with-george-friedman/) · `en`
+
+Forecasting geopolitics has been George Friedman’s life’s work; a historian renowned for his foresight into global shifts. In an era of global volatility, I had the opportunity to sit down with Friedman to discuss current world affairs, focusing on major powers such as the United States, Russia, and China. Notably, this was the first time he shared his insights on Sri Lanka, exploring its future in the context of a changing global landscape. As the founder of Geopolitical Futures and former chairman of Stratfor, Friedman’s experience and knowledge provided a comprehensive view of how global powers are shifting.
+
+...
+
+[Data](articles/97ffb495.json)
+
+[Extended Data](ext_articles/97ffb495.ext.json)
+
+---
+
 ### A pragmatic approach to governance: An independent citizen’s perspective on President Dissanayake’s recent appointments
 
 *2024-10-06 02:51:00* · [`islandlk`](http://island.lk/a-pragmatic-approach-to-governance-an-independent-citizens-perspective-on-president-dissanayakes-recent-appointments/) · `en`
@@ -287,6 +467,8 @@ As a concerned citizen of Sri Lanka, I have closely observed the early days of P
 ...
 
 [Data](articles/b0156f46.json)
+
+[Extended Data](ext_articles/b0156f46.ext.json)
 
 ---
 
@@ -301,6 +483,8 @@ The phrase originated in 1980, during the presidential election season of that y
 ...
 
 [Data](articles/77d13664.json)
+
+[Extended Data](ext_articles/77d13664.ext.json)
 
 ---
 
@@ -2135,191 +2319,5 @@ The acceptance of nominations for the 2024 General Election commenced on October
 [Data](articles/ba7b66da.json)
 
 [Extended Data](ext_articles/ba7b66da.ext.json)
-
----
-
-### Three killed in several fatal accidents
-
-*2024-10-05 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201860) · `si`
-
-Fatal accidents: Bus crash kills 3 near Niwalapitiya, pedestrian dies after collision on Colombo-Kandy road, and one person dies when hit by lorry in Kotahena.
-
-🟩
-
-A bus traveling towards the niwalapitiya road on Naiwela Vidyalaya on Naiwalapitiya has been insecly.
-
-The man who was seriously injured in the accident was also killed in admission to the Gampaha Hospital.
-
-The victim is a resident of Veyangoda, 48 year old Naiwela.
-
-Meanwhile, a sanctuary was crashed into a pedestrian that traveled through the Colombo-Kandy main road.
-
-The pedestrian, who was seriously injured, has died in admission to the Kegalle hospital.
-
-A person who had returned to a lorry, who was driven by a lorry and stocked behind the lorry at the Kotahena Mfield Junction area, he had died in a lorry.
-
-◼️
-
-[Data](articles/15dacaf2.json)
-
-[Extended Data](ext_articles/15dacaf2.ext.json)
-
----
-
-### Several spells of showers expected today
-
-*2024-10-05 06:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102458/several-spells-of-showers-expected-today) · `en`
-
-The Department of Meteorology says that several spells of showers will occur in Western and Sabaragamuwa provinces and in Galle and Matara districts today (05).
-
-Meanwhile, showers or thundershowers will occur at a few places in Northern, Eastern and Uva provinces during the afternoon or night, the Met. Department added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/0c512c20.json)
-
-[Extended Data](ext_articles/0c512c20.ext.json)
-
----
-
-### Independent groups deposit bail to general election
-
-*2024-10-05 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201859) · `si`
-
-Independent groups deposit bail for general election. 36 groups submitted deposits in 22 electorate divisions. No party deposits in Matale. Janasetha Front nominated for Jaffna and Vanni. Nominations accepted on 11th.
-
-🟩
-
-This year's general election has been paid yesterday (04).
-
-The Elections Commission said that 36 independent groups have deposited only in yesterday's day.
-
-The independent groups have deposited by the independent groups in the 22 electorate divisions.
-
-However, the Commission said that no parties were deposited for the Matale electorate by yesterday.
-
-The Janasetha Front has handed over nominations for Jaffna and Vanni electorate and three independent groups have handed over nominations.
-
-The nomination commencement was commenced yesterday and the nominations to be accepted on the 11th of the 11th.
-
-◼️
-
-[Data](articles/40f3bb8b.json)
-
-[Extended Data](ext_articles/40f3bb8b.ext.json)
-
----
-
-### Several spells of showers to several provinces
-
-*2024-10-05 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201858) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Showers forecasted in Western, Sabaragamuwa, Galle, and Matara regions. Possible evening/night showers in Northern, Eastern, and Uva provinces. Public advised to prepare for strong winds and lightning."
-
-🟩
-
-Several spells of showers in the Western and Sabaragamuwa provinces and the Galle and Matara districts.
-
-Showers or nights in the North, Eastern and Uva provinces may experience showers at several places in the evening or at night.
-
-The Department has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/0a5edb7a.json)
-
-[Extended Data](ext_articles/0a5edb7a.ext.json)
-
----
-
-### Sri Lanka Tourism surpasses 2023 tourist arrivals
-
-*2024-10-05 02:55:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-surpasses-2023-tourist-arrivals/) · `en`
-
-Sri Lanka Tourism with its continuous promotional efforts with clearly defined strategy and objectives, achieved the previous full year arrivals within the 1st nine months of this year. In 2023 the total arrivals were 1,487,303. During the month of September 2024, a total number of 112,140 tourist arrivals were recorded which showed a 9% growth compared to last year. The key source markets which contributed for this achievement were India, China, UK, Germany, Australia, Maldives, Russia, Bangladesh, Spain and France.
-
-The success was achieved through many strategic initiatives. With the tourism industry at a cross roads, “Seen is believing” influencer campaign created a huge impact to take the reality to the globe. Under this initiative, Sri Lanka Tourism Promotion Bureau (SLTPB) hosted nearly 180 media influencers from all over the world to take the positive message and to showcase the truth which supported the industry to come back gradually to normalcy.
-
-...
-
-[Data](articles/df8d48ac.json)
-
----
-
-### NDB Bank brings joy and learning to Royal College on World Children’s Day
-
-*2024-10-05 02:54:00* · [`islandlk`](http://island.lk/ndb-bank-brings-joy-and-learning-to-royal-college-on-world-childrens-day/) · `en`
-
-In celebration of World Children’s Day 2024, NDB Bank hosted a special event at Royal College, Colombo, offering a series of fun and educational activities for students. The day was filled with excitement, creativity, and learning, designed to engage children in meaningful experiences that inspire good habits, financial literacy, and creativity.
-
-The day’s festivities catered to two age groups. For students in grades 1-3, the event featured an interactive magic show that captivated the young audience and a session by NDB Bank on cultivating good habits. For grades 4 and 5, the magic show continued to entertain, followed by a lively Q&A session that engaged students on essential life skills and habits.
-
-...
-
-[Data](articles/da81590a.json)
-
-[Extended Data](ext_articles/da81590a.ext.json)
-
----
-
-### Chairman, Sri Lanka Ports Authority
-
-*2024-10-05 02:53:00* · [`islandlk`](http://island.lk/chairman-sri-lanka-ports-authority/) · `en`
-
-Admiral Sirimevan Sarathchandra Ranasinghe (Rtd) aasumed duties today (10/03/2024) as the Chairman of Sri Lanka Ports Authority (SLPA). He was the Commander of the Navy from October 2017 to December 2018. Admiral Ranasinghe also served as the Secretary to Ministry of Ports and Shipping & Southern Development in 2019.
-
-He is an Anti-Submarine Warfare Specialist trained at INS Vendurutthy, Kochi. He followed his Defence Services Staff Course at Wellington, India, War Course in NDU, Islamabad, Pakistan and National Defence Course at National Defence College in New Delhi, India.
-
-Admiral Sirimevan Ranasinghe was born in Anuradhapura, and first joined Sri Lanka Navy in 1982. He had his basic training at Naval and Maritime Academy, Trincomalee and at Britannia Royal Naval College, Dartmouth, England (1984-1985).
-
-NDB Bank brings joy and learning to Royal College on World Children’s Day
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/ecf58013.json)
-
-[Extended Data](ext_articles/ecf58013.ext.json)
-
----
-
-### Burlington English making positive impact on Sri Lanka
-
-*2024-10-05 02:52:00* · [`islandlk`](http://island.lk/burlington-english-making-positive-impact-on-sri-lanka/) · `en`
-
-Burlington English, a global leader in English language learning and teaching, is making waves in Sri Lanka, following a successful expansion across India.With a mission to enhance the classroom environment and improve educational outcomes, the group’s Managing Director, Amit Baveja, is spearheading efforts to engage Sri Lankan educators with cutting-edge teaching practices and AI-integrated learning resources.
-
-Baveja, who oversees the South Asia and Southeast Asia markets, expressed excitement about the company’s foray into Sri Lanka.
-
-Speaking to The Island Financial Review he said: ‘After a remarkable journey in India, Sri Lanka is our natural next step. We are here to support educators and the education system by providing state-of-the-art English language learning resources.’ He highlighting the importance of quality education in a country where English proficiency is critical for economic and career growth.
-
-...
-
-[Data](articles/5ea23ad1.json)
-
-[Extended Data](ext_articles/5ea23ad1.ext.json)
-
----
-
-### SLT-MOBITEL offers unparalleled benefits with eSim services
-
-*2024-10-05 02:36:00* · [`islandlk`](http://island.lk/slt-mobitel-offers-unparalleled-benefits-with-esim-services/) · `en`
-
-SLT-MOBITEL is offering an easy and seamless way to join the network with its cutting-edge eSIM service. Powered by SLT-MOBITEL’s unparalleled 4G connectivity and extensive island-wide coverage, this proposition empowers customers to get connected within minutes—wherever you are.
-
-SLT-MOBITEL eSIM eliminates the need for a physical SIM card, enabling new customers to activate their preferred mobile connections digitally. This hassle-free solution not only offers convenience but also supports global digitalization and sustainability efforts. Whether at home or on the go, customers can enjoy unmatched data speeds backed by SLT-MOBITEL’s superior network coverage.
-
-...
-
-[Data](articles/9dbb258f.json)
-
-[Extended Data](ext_articles/9dbb258f.ext.json)
 
 ---

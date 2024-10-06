@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 21:38:35**
+As of **2024-10-06 21:58:02**
 
 ## Newspaper Stats
 
-*Scraped **48,060** Articles*
+*Scraped **48,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,443
+adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,662
 tamilmirrorlk | 6,489
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,322
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,060 (100.0%) of 48,060 articles have been extended.
+48,061 (100.0%) of 48,061 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -381,6 +381,32 @@ Hanwella police are conducting further investigations into the incident as the w
 [Data](articles/2b39a671.json)
 
 [Extended Data](ext_articles/2b39a671.ext.json)
+
+---
+
+### The party builds the challenges
+
+*2024-10-06 17:41:44* · [`adalk`](https://www.ada.lk/breaking_news/අභියෝගවලට-මුහුණ-දෙමින්-පක්ෂය-ගොඩ-නගනවා/11-412332) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Namal Rajapaksa: Party rebuilds by facing challenges. Criticizes personal attacks on other parties. Focuses on youth employment, education reform, and addressing local issues. Emphasizes policy-based governance and supporting young people.
+
+🟩
+
+National Organizer of the National Organizer of the National Organizer of the National Organizer of Namal Rajapaksa, Namal Rajapaksa, said that the party would be rebuilt by facing challenges.. He further stated that at the meeting held at the Heshai Hotel in Kegalle.
+
+"Like this team that led the Kegalle district, we faced that challenge. This is what we make changes in the party.
+
+There are a large number of people who have not been able to address the people who have been voting over the reasons for personal reasons, leaders, or principles.. I think the majority of them are the Sri Lanka General Filling Front. Let's talk to them.
+
+...
+
+[Data](articles/7ca83d39.json)
+
+[Extended Data](ext_articles/7ca83d39.ext.json)
 
 ---
 
@@ -2443,21 +2469,5 @@ Forecasting geopolitics has been George Friedman’s life’s work; a historian 
 [Data](articles/97ffb495.json)
 
 [Extended Data](ext_articles/97ffb495.ext.json)
-
----
-
-### A pragmatic approach to governance: An independent citizen’s perspective on President Dissanayake’s recent appointments
-
-*2024-10-06 02:51:00* · [`islandlk`](http://island.lk/a-pragmatic-approach-to-governance-an-independent-citizens-perspective-on-president-dissanayakes-recent-appointments/) · `en`
-
-“It doesn’t matter whether a cat is black or white, as long as it catches mice – Deng Xiaoping”
-
-As a concerned citizen of Sri Lanka, I have closely observed the early days of President Anura Kumara Dissanayake’s (AKD) tenure. Elected on a platform of reform, transparency, and merit-based governance, his recent appointments to key government positions have sparked debate. Some argue that these choices contradict the very principles AKD campaigned on. However, a closer look reveals a more nuanced and pragmatic approach to governance that prioritises results and effective leadership.
-
-...
-
-[Data](articles/b0156f46.json)
-
-[Extended Data](ext_articles/b0156f46.ext.json)
 
 ---

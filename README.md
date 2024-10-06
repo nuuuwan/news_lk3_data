@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 16:55:46**
+As of **2024-10-06 17:08:15**
 
 ## Newspaper Stats
 
-*Scraped **48,034** Articles*
+*Scraped **48,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,659
 tamilmirrorlk | 6,484
 virakesarilk | 7,685
-adaderanasinhalalk | 8,317
+adaderanasinhalalk | 8,318
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,034 (100.0%) of 48,034 articles have been extended.
+48,034 (100.0%) of 48,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### පාස්කු වින්දිතයන්ට යුක්තිය ඉටු කරන බවට ජනපතිගෙන් සහතිකයක්
+
+*2024-10-06 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201900) · `si`
+
+පාස්කු ඉරිදා ප්‍රහාරයට අදාළ පරීක්ෂණ කඩිනම් කර එවන් ඛේදවාචකයක් නැවත රට තුළ ඇති නොවීමට පසුබිම සකසන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+පාස්කු ඉරිදා බෝම්බ ප්‍රහාරයෙන් තුවාල ලැබූ සහ මියගිය අයගේ පවුල්වල සාමාජිකයන් සමග අද (06) මීගමුව, කටුවාපිටිය ශාන්ත සෙබස්තියන් දේවස්ථානයේදී සාකච්ඡාවකට එක්වෙමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+
+එහිදී ඔහු පාස්කු ප්‍රහාරයෙන් අසරණ වූ වින්දිතයන්ට සාධාරණය සහ යුක්තිය ඉටු කරන බවටද සහතික විය.
+
+මෑත කාලයේ මෙරට සිදු වූ විශාලතම ඛේදවාචකය වන පාස්කු ප්‍රහාරය කාලයේ වැලි තලාවට යටපත් වුවත්, එය මකා දැමීමට කිසිසේත්ම ඉඩ නොදෙන බව ජනාධිපතිවරයා මෙහිදී අවධාරණය කළේය.
+
+පසුගිය ජනාධිපතිවරණයේදී ජනතාව සිය දේශපාලන තීන්දුව ගැනීමට බලපෑ සාධක අතුරෙන් පාස්කු ප්‍රහාරය පිළිබඳ සාධාරණය හා යුක්තිය ඉටු වීමේ අපේක්ෂාවද ඇතුළත් බව තමා විශ්වාස කරන බව ජනාධිපතිවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/9814472f.json)
+
+---
 
 ### China
 
@@ -2393,35 +2413,5 @@ Commenting on the suspicion of the imported coconut oil, President of the Public
 [Data](articles/a2c8636f.json)
 
 [Extended Data](ext_articles/a2c8636f.ext.json)
-
----
-
-### Director K. 'Alan' film music and preview of the actor's success released by Bhagyaraj
-
-*2024-10-05 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/195574) · `ta`
-
-"Film 'Alan' music preview released. Starring Siva, Mathura, Anu Siddhar, Karunakaran. Directed by Bhagyaraj. Music release in Chennai soon."
-
-🟩
-
-The music and preview of the film 'Alan', which plays the hero of the story, has been released by the film 'Eight Bottom', which has attracted the attention of the fans and continues to offer different works.
-
-This is the director of 'Screenplay Mannan'. Bhagyaraj to publish, producer and actor. Siva grabbed.
-
-Director and producer R. The film 'Alan', which is being produced by Siva, has starred in Mathura, Anu Siddara, Karunakaran, Vivek Prasanna and 'Aruvi' Madan Kumar.
-
-The music and preview of the film will be released soon in Chennai.
-
-During this time, 'King of Screenplay'. Bhagyaraj, producer and actor De Siva and director Gopinath participated as special guests.
-
-Producer and Director. Siva said, “I have realistically recorded the life of a writer. A book is equal to a thousand friends. A book has the power to change one's life.
-
-Books will be a motivation for a life of discipline and a meaningful quest for the books you read.
-
-...
-
-[Data](articles/0ba8aac1.json)
-
-[Extended Data](ext_articles/0ba8aac1.ext.json)
 
 ---

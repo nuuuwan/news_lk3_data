@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 23:09:35**
+As of **2024-10-06 23:22:50**
 
 ## Newspaper Stats
 
-*Scraped **48,069** Articles*
+*Scraped **48,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,664
 tamilmirrorlk | 6,489
-virakesarilk | 7,699
+virakesarilk | 7,700
 adaderanasinhalalk | 8,322
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,069 (100.0%) of 48,069 articles have been extended.
+48,070 (100.0%) of 48,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### The Women's T20 World Cup against Scotland won by 6 wickets
+
+*2024-10-06 22:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195651) · `ta`
+
+Women's T20 World Cup: West Indies defeat Scotland by 6 wickets. Scottish batted first, scoring 98/8 in 20 overs. West Indies replied with 101/4 in 11.4 overs, winning in the 12th over. Giana Joseph top-scored with 4 off 18 balls.
+
+🟩
+
+West Indies won by 6 wickets at the ICC Women's R20 World Cup at the Dubai International Cricket Stadium on Sunday night at the Dubai International Cricket Stadium.
+
+It is certain that the victory will have been a source of excitement for the West Indies, which have defeated South Africa.
+
+Scottish, who decided to bat first in the match, scored 98 runs for the loss of 8 wickets in 20 overs.
+
+Although the five -digit numbers were scored on behalf of Scotland, they all got the runs in a recession.
+
+Eylza Lister (26) and team captain Kethrin Brys (25) were the best coordinators in the 3rd wicket.
+
+Darcy Katter (14 AE), Saskia Horley (11) and Lorna Jeck Brahun (11) scored more than 10 runs.
+
+In reply, the West Indies won by 4 wickets in 11.4 overs and scored 101 runs.
+
+Team captain Hayley Methuses (8), Stefani Taylor (4) and Shemein Kempell (2) were also playing with single digits.
+
+Giana Joseph, who played the most effectively, scored 4 off 18 balls with 3 pounds and one six with a six.
+
+...
+
+[Data](articles/ef57b7b6.json)
+
+[Extended Data](ext_articles/ef57b7b6.ext.json)
+
+---
 
 ### Sri Lanka to commence information collection for census of population, housing
 
@@ -2473,25 +2507,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/aa301539.json)
 
 [Extended Data](ext_articles/aa301539.ext.json)
-
----
-
-### IIHS: A pathway to successful careers in healthcare
-
-*2024-10-06 04:23:00* · [`islandlk`](http://island.lk/iihs-a-pathway-to-successful-careers-in-healthcare/) · `en`
-
-The International Institute of Health Sciences (IIHS) offers a wide range of healthcare courses, including Nursing, Physiotherapy, and Nutrition, designed to prepare students for successful careers in the industry, said a release.
-
-It said: With state-of-the-art facilities and experienced faculty, IIHS provides a comprehensive learning experience, emphasizing practical skills and global qualifications. The institute has strong international partnerships with universities in Australia, the UK, and the US, ensuring adherence to high educational standards. IIHS aims to guide students in finding career paths in healthcare and invites prospective students to explore their programs for a bright future in the sector.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/b3f930e8.json)
-
-[Extended Data](ext_articles/b3f930e8.ext.json)
 
 ---

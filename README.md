@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 03:38:36**
+As of **2024-10-07 03:57:07**
 
 ## Newspaper Stats
 
-*Scraped **48,084** Articles*
+*Scraped **48,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
 tamilmirrorlk | 6,490
-virakesarilk | 7,700
+virakesarilk | 7,701
 adaderanasinhalalk | 8,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,084 (100.0%) of 48,084 articles have been extended.
+48,085 (100.0%) of 48,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### One person dies in a heavy vehicle collision with a plowing machine
+
+*2024-10-07 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195652) · `ta`
+
+Heavy vehicle collides with plowing machine near Malwatte School, Ampara. One killed instantly, another hospitalized. Driver arrested. Police investigating.
+
+🟩
+
+One person died on the spot when a heavy vehicle crashed with a plowing machine and the other was admitted to the hospital with injuries.
+
+The incident took place on Saturday evening (05) evening at the Malwatte School, located on the Kalmunai Ampara main road, which belongs to the Ampara District.. Another man has been admitted to the Ampara Hospital after being injured.
+
+The accident was on the way back home from the plowing machine and the driver of the heavy vehicle collided with a plowing machine has been arrested by the police.
+
+The body of the deceased in the accident. Samanthurai police are conducting further investigations.
+
+◼️
+
+[Data](articles/02e2d2f3.json)
+
+[Extended Data](ext_articles/02e2d2f3.ext.json)
+
+---
 
 ### Nine leadership imperatives for new Lankan leader
 
@@ -166,6 +190,40 @@ Meanwhile, the number of officers who are required to establish the Presidential
 
 ---
 
+### The Women's T20 World Cup against Scotland won by 6 wickets
+
+*2024-10-06 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195651) · `ta`
+
+Women's T20 World Cup: West Indies defeat Scotland by 6 wickets. Scottish batted first, scoring 98/8 in 20 overs. West Indies replied with 101/4 in 11.4 overs, winning in the 12th over. Giana Joseph top-scored with 4 off 18 balls.
+
+🟩
+
+West Indies won by 6 wickets at the ICC Women's R20 World Cup at the Dubai International Cricket Stadium on Sunday night at the Dubai International Cricket Stadium.
+
+It is certain that the victory will have been a source of excitement for the West Indies, which have defeated South Africa.
+
+Scottish, who decided to bat first in the match, scored 98 runs for the loss of 8 wickets in 20 overs.
+
+Although the five -digit numbers were scored on behalf of Scotland, they all got the runs in a recession.
+
+Eylza Lister (26) and team captain Kethrin Brys (25) were the best coordinators in the 3rd wicket.
+
+Darcy Katter (14 AE), Saskia Horley (11) and Lorna Jeck Brahun (11) scored more than 10 runs.
+
+In reply, the West Indies won by 4 wickets in 11.4 overs and scored 101 runs.
+
+Team captain Hayley Methuses (8), Stefani Taylor (4) and Shemein Kempell (2) were also playing with single digits.
+
+Giana Joseph, who played the most effectively, scored 4 off 18 balls with 3 pounds and one six with a six.
+
+...
+
+[Data](articles/ef57b7b6.json)
+
+[Extended Data](ext_articles/ef57b7b6.ext.json)
+
+---
+
 ### AKD should not try out RW’s failed ‘Vel Palama’ to cross to the other side
 
 *2024-10-06 23:23:47* · [`dailyftlk`](https://www.ft.lk/columns/AKD-should-not-try-out-RW-s-failed-Vel-Palama-to-cross-to-the-other-side/4-767612) · `en`
@@ -209,40 +267,6 @@ However, he noted that the necessary number of personnel required for the former
 [Data](articles/331a0872.json)
 
 [Extended Data](ext_articles/331a0872.ext.json)
-
----
-
-### The Women's T20 World Cup against Scotland won by 6 wickets
-
-*2024-10-06 22:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195651) · `ta`
-
-Women's T20 World Cup: West Indies defeat Scotland by 6 wickets. Scottish batted first, scoring 98/8 in 20 overs. West Indies replied with 101/4 in 11.4 overs, winning in the 12th over. Giana Joseph top-scored with 4 off 18 balls.
-
-🟩
-
-West Indies won by 6 wickets at the ICC Women's R20 World Cup at the Dubai International Cricket Stadium on Sunday night at the Dubai International Cricket Stadium.
-
-It is certain that the victory will have been a source of excitement for the West Indies, which have defeated South Africa.
-
-Scottish, who decided to bat first in the match, scored 98 runs for the loss of 8 wickets in 20 overs.
-
-Although the five -digit numbers were scored on behalf of Scotland, they all got the runs in a recession.
-
-Eylza Lister (26) and team captain Kethrin Brys (25) were the best coordinators in the 3rd wicket.
-
-Darcy Katter (14 AE), Saskia Horley (11) and Lorna Jeck Brahun (11) scored more than 10 runs.
-
-In reply, the West Indies won by 4 wickets in 11.4 overs and scored 101 runs.
-
-Team captain Hayley Methuses (8), Stefani Taylor (4) and Shemein Kempell (2) were also playing with single digits.
-
-Giana Joseph, who played the most effectively, scored 4 off 18 balls with 3 pounds and one six with a six.
-
-...
-
-[Data](articles/ef57b7b6.json)
-
-[Extended Data](ext_articles/ef57b7b6.ext.json)
 
 ---
 
@@ -2427,29 +2451,5 @@ However, the Colombo Magistrate's Court has issued a court order against a busin
 [Data](articles/e67beb48.json)
 
 [Extended Data](ext_articles/e67beb48.ext.json)
-
----
-
-### Do you have evidence of people?
-
-*2024-10-06 08:24:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களே-உங்களிடம்-ஆதாரம்-இருக்கின்றதா/175-344955) · `ta`
-
-Evidence of people: Police request information submission deadline. Grade 05 exams suspended due to conditions. Criminal Investigation Department investigating, notified Sri Lanka Human Rights Commission.
-
-🟩
-
-The police have requested that the relevant information to the nearest police station soon be provided to the nearest police station.
-
-It has been reported to be handed over to the nearby police station before the 7th of this month.
-
-Grade 05 Scholarship Examination Questions have been temporarily suspended, considering the pre -published condition.
-
-It is also worth noting that the Criminal Investigation Department has launched an investigation into the matter and has been brought to the notice of the Sri Lanka Human Rights Commission regarding the investigation into the matter.. Remble
-
-◼️
-
-[Data](articles/7b489cb1.json)
-
-[Extended Data](ext_articles/7b489cb1.ext.json)
 
 ---

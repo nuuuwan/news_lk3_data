@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 02:22:58**
+As of **2024-10-07 02:38:39**
 
 ## Newspaper Stats
 
-*Scraped **48,083** Articles*
+*Scraped **48,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 475
 colombotelegraphcom | 476
 islandlk | 2,836
 economynextcom | 2,942
-dailyftlk | 3,241
+dailyftlk | 3,242
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,082 (100.0%) of 48,083 articles have been extended.
+48,084 (100.0%) of 48,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Nine leadership imperatives for new Lankan leader
+
+*2024-10-07 02:18:17* · [`dailyftlk`](https://www.ft.lk/columns/Nine-leadership-imperatives-for-new-Lankan-leader/4-767632) · `en`
+
+The country has spoken loud and clear. We have a new leader, not representing one race or religion but the entire nation. It does not matter whether he was one’s dream leader or not. What does really matter now is his delivery as per the declared desire and design. Let me reflect on leadership in the context of the refreshing revival expected. Let me identify seven leadership challenges for the new Sri Lankan leader, from a management perspective.
+
+...
+
+[Data](articles/fa0b4e9f.json)
+
+[Extended Data](ext_articles/fa0b4e9f.ext.json)
+
+---
 
 ### American Chamber of Commerce in Sri Lanka holds 32nd AGM
 
@@ -2437,27 +2451,5 @@ It is also worth noting that the Criminal Investigation Department has launched 
 [Data](articles/7b489cb1.json)
 
 [Extended Data](ext_articles/7b489cb1.ext.json)
-
----
-
-### Dozens of Pakistan police injured in clashes with supporters of former PM Khan
-
-*2024-10-06 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/102477/dozens-of-pakistan-police-injured-in-clashes-with-supporters-of-former-pm-khan) · `en`
-
-Over 80 police personnel have been injured in clashes with supporters of jailed former Prime Minister Imran Khan taking part in a march near Islamabad, Interior Minister Mohsin Naqvi said on Saturday.
-
-The march, which is being led by the head of the northwestern province of Khyber-Pakhtunkhwa, where Khan’s party remains in power, aims to gather in the capital, defying a ban on congregations, to press for Khan’s release and agitate against the ruling coalition.
-
-“The convoy, led by the chief minister, fired on the police and continuously used teargas against law-enforcers,” Naqvi told journalists.
-
-He said more than 80 police officers had been treated for injuries since Friday, when clashes broke out just outside the city during an anti-government rally.
-
-Authorities have sealed off Islamabad and blocked cellphone services to prevent the gathering.
-
-...
-
-[Data](articles/e1e7bb4c.json)
-
-[Extended Data](ext_articles/e1e7bb4c.ext.json)
 
 ---

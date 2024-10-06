@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 13:22:59**
+As of **2024-10-06 13:39:14**
 
 ## Newspaper Stats
 
-*Scraped **48,015** Articles*
+*Scraped **48,016** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,105 @@ dailymirrorlk | 4,733
 adaderanalk | 5,657
 tamilmirrorlk | 6,481
 virakesarilk | 7,680
-adaderanasinhalalk | 8,312
+adaderanasinhalalk | 8,313
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,009 (100.0%) of 48,015 articles have been extended.
+48,016 (100.0%) of 48,016 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
 
-### இஸ்ரேலிய பிரதமர் தனது அரசியல் எதிர்காலத்திற்காக யுத்தத்தை முன்னெடுக்கின்றார் - ஹமாசினால் பணயக்கைதிகளாக பிடிக்கப்பட்டவர்களின் உறவினர்கள் தெரிவிப்பு - இஸ்ரேலில் பெரும் ஆர்ப்பாட்டங்கள்
+### Tamil parties join in Ampara and Trincomalee Districts?
+
+*2024-10-06 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201895) · `si`
+
+Tamil parties contesting parliamentary elections in Ampara and Trincomalee districts. Former UNP MP Suresh Premachandra confirms Tamil National Alliance and other parties' participation. Candidates selected for each district, including Trincomalee and Ampara.
+
+🟩
+
+All the Tamil parties representing the North and the Ampara districts have to contest for the parliamentary election.
+
+Former UNP MP Suresh Premachandra says that he believes that all the Tamil parties will contest with the two Tamil parties.
+
+Suresh Premachandra has said that the Illiothey Thamil Arija Party leader Mawamanadirrajah has been notified and the party's decision will be informed to the UPFA tomorrow.
+
+The nomination of the Tamil National Alliance (TNA) was held in Vavuniya last yesterday, Speaking to the media after the meeting, Mr. Suresh Premachandran said.
+
+Speaking further he said that the Tamil parties would not be able to select any candidate by contesting the Trincomalee and Ampara districts and that could be unfair.
+
+Accordingly, the ILion is the ICI to contest the democratic TNA, a logo of democratic TNA on behalf of the Trincomalee District.
+
+Meanwhile, the Illilonic Tamil Ahazi party nomination committee met in Vavuniya yesterday.
+
+...
+
+[Data](articles/923c5596.json)
+
+[Extended Data](ext_articles/923c5596.ext.json)
+
+---
+
+### The Israeli Prime Minister is waging war for his political future - relatives of those caught hostage by Hamas
 
 *2024-10-06 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195607) · `ta`
 
-ஹமாஸ் அமைப்பு இஸ்ரேல் மீது தாக்குதலை மேற்கொண்டு ஒரு வருடமாகின்ற நிலையில்  ஹமாஸ் அமைப்பினால் பணயக்கைதிகளாக பிடிக்கப்பட்டவர்களை விடுவிப்பதற்காக இஸ்ரேலின் பெஞ்சமின் நெட்டன்யாகு அரசாங்கம் உரிய நடவடிக்கைகளை எடுக்காதமைக்கு எதிர்ப்பு தெரிவித்து இஸ்ரேலின் பல நகரங்களில் ஆர்ப்பாட்டங்கள் இடம்பெற்றுள்ளன.
+Israeli PM Netanyahu faces criticism over handling of Hamas-held hostages. Protests demand action to free captives. Relatives accuse Netanyahu of prioritizing war over hostage release. Demonstrations near Netanyahu's home in Kfar Saba. Critics claim ongoing conflict benefits Netanyahu politically.
 
-காசாவில் தொடர்ந்தும் சிக்குண்டுள்ள பணயக்கைதிகளை விடுவிப்பதற்காக மேலும் நடவடிக்கைகளை எடுக்கவேண்டும் என ஆர்ப்பாட்டக்காரர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+🟩
 
-இஸ்ரேலிய தலைநகர் உட்பட பல நகரங்களில் ஆர்ப்பாட்டங்களில் ஈடுபட்டுள்ள பணயக்கைதிகளின் உறவினர்கள்  பணயக்கைதிகளை விடுதலை செய்வதற்கு மேலும் தீவிர நடவடிக்கைகள் அவசியம் என மன்றாட்டமா வேண்டுகோள் விடுத்துள்ளனர்.
+A year after the Hamas Organization has launched an attack on Israel, there have been protests in many cities of Israel in protest of the lack of appropriate measures to release those caught by Hamas.
 
-இஸ்ரேலின் கேசரியாவில் உள்ள பிரதமர் பெஞ்சமின் நெட்டன்யாகுவின் தனிப்பட்ட இல்லத்தின் முன்னாலும் ஆர்ப்பாட்டங்கள் இடம்பெற்றுள்ளன.
+Demonstrators have requested that further action be taken to release the hostages that have been held in Gaza.
 
-பெஞ்சமின் நெட்டன்யாகு காரணமாகவே பணயக்கைதிகள் இன்னமும் காசாவில் சிக்குண்டுள்ளனர் என காசாவில் சிக்குண்டுள்ள மட்டன் என்பவரின் தாயார் தெரிவித்துள்ளார்.
+Relatives of hostages who have been protesting in many cities, including the Israeli capital, have appealed for more serious measures to release the hostages.
+
+Demonstrations have also taken place in front of the personal residence of Prime Minister Benjamin Netanyaku in Israel's Kesaria.
+
+The mother of Mutton, Muttan, said that the hostages are still in the Gaza due to Benjamin Netanyaku.
+
+Benjamin Netanyaku did not want to release the hostages, but he wants to continue the war in the south, even though the war ended in the North, the mother said.
+
+"I think the war is politically helping Benjamin Nettanyaku, confirms that he is in power," he said.
 
 ...
 
 [Data](articles/0f7332f3.json)
 
+[Extended Data](ext_articles/0f7332f3.ext.json)
+
 ---
 
-### முதலையால் தாக்கப்பட்டு வயோதிபர் உயிரிழப்பு
+### Diesel
 
 *2024-10-06 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195594) · `ta`
 
-அனுராதபுரம் - கெமுனுபுர பிரதேசத்தில் மொர ஓயாவில் முதலை தாக்கி 60 வயதுடைய முதியவர் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Here's a summary of the article in approximately 200 characters:
 
-இந்த சம்பவம் கடந்த வெள்ளிக்கிழமை (4) இடம்பெற்றுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
 
-வெள்ளிக்கிழமை மாலை மொர ஓயாவுக்கு அருகில் ரஞ்சித் மங்கட என்கிற பகுதியில் மூன்று பேர் ஒன்றாக அமர்ந்து மது அருந்தியுள்ளனர்.
 
-அவர்களில் ஒருவர் இறைச்சி எடுத்துக்கொண்டு வருதற்காக தனது வீட்டுக்குச் செல்ல  மீண்டும் ஓடையை கடக்கும்போது முதலையினால் தாக்கப்பட்டதாக பொலிஸாரின் முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+60-year-old man killed by crocodile in Sri Lanka's Anuradhapura district. Incident occurred on Friday evening near Mora Oya. Victim was attacked while crossing a stream to retrieve meat. Body undergoing autopsy at Anuradhapura Hospital.
 
-இந்நிலையில், சடலம் பிரேத பரிசோதனை செய்யப்பட்டு அனுராதபுரம் வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது.
+🟩
+
+A 60 -year -old man has died after being attacked by a crocodile in Mora Oya in the Anuradhapura - Gemunupura area, police said.
+
+The incident took place last Friday (4), the police media unit said.
+
+On Friday evening, three people sat together in the Ranjith Mangada area near Mora Oya.
+
+Preliminary inquiries by the police revealed that one of them had been attacked by the first when crossing the stream to go back to his home to take the meat.
+
+In this case, the body is being investigated and placed in the autopsy of the Anuradhapura Hospital.
 
 ◼️
 
 [Data](articles/2f7e0ab4.json)
+
+[Extended Data](ext_articles/2f7e0ab4.ext.json)
 
 ---
 
@@ -96,37 +146,49 @@ A woman who went through the tree saw the body of a farmer in the tree branch, i
 
 ---
 
-### முட்டையின் விலை மீண்டும் உயர்வு
+### Egg prices are up again
 
 *2024-10-06 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195593) · `ta`
 
-தற்போது நாட்டின் பல இடங்களில் முட்டைகளின் சில்லறை விலை 40 ரூபாவாகவும் சில பகுதிகளில், 45 ரூபாவாகவும் உயர்ந்துள்ளதாக சந்தை வட்டாரங்கள் தெரிவித்துள்ளன.
+Egg prices surge: 40-45 rupees reported, previously under 30 rupees. Further increases expected due to current market conditions.
 
-ஆனால், இரண்டு நாட்களுக்கு முன், முட்டையின் விலை 30 ரூபாய்க்கும் குறைவாக இருந்துள்ளது.
+🟩
 
-தற்போதைய நிலவரத்தின் அடிப்படையில் முட்டையின் விலை அடுத்த சில நாட்களில் மேலும் அதிகரிக்கப்படலாம் எனவும் கூறப்படுகிறது.
+At present, the price of eggs in many parts of the country has risen to 40 rupees and in some areas to 45 rupees, market sources said.
+
+But, two days ago, the price of eggs was less than 30 rupees.
+
+It is also said that the price of eggs can be increased further in the next few days based on the current situation.
 
 ◼️
 
 [Data](articles/b2875ec8.json)
 
+[Extended Data](ext_articles/b2875ec8.ext.json)
+
 ---
 
-### களைகட்டும் விமானங்களின் சாகச நிகழ்ச்சி : காணொளி
+### Adventure Event of Weeding Planes: Video
 
 *2024-10-06 11:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களைகட்டும்-விமானங்களின்-சாகச-நிகழ்ச்சி-காணொளி/175-344972) · `ta`
 
-இந்திய விமானப் படையின் 92-வது ஆண்டு தினத்தை முன்னிட்டு, விமானப் படையினரின் சாகச நிகழ்ச்சி சென்னை மெரினாவில் ஞாயிற்றுக்கிழமை (06)  நடைபெற்று வருகிறது.
+Indian Air Force adventure event summary: Chennai Marina, 92nd anniversary celebration, attended by governor, chief minister, and armed forces commander. 22 viewing spots set up, 8,000 police officers deployed for safety, additional buses operated from various parts of Chennai.
 
-இந்த நிகழ்ச்சியில் தமிழ்நாடு கவர்னர் ஆர்.என்.ரவி, முதல்-அமைச்சர் மு.க.ஸ்டாலின், முப்படைகளின் தளபதி அனில் சவுரா உள்ளிட்ட பலர் கலந்து கொண்டனர்.
+🟩
 
-சாகச நிகழ்ச்சியை பார்க்கவரும் பார்வையாளர்கள் தங்களுடைய வாகனங்களை நிறுத்துவதற்கு ஏதுவாக, காமராஜர் சாலையையொட்டி 22 இடங்கள் தேர்வு செய்யப்பட்டு, அங்கு அதற்கான ஏற்பாடுகளை பொலிஸார் செய்திருக்கின்றனர்.
+The Air Force's adventure was held on Sunday (06) at the Chennai Marina on the 92nd anniversary of the Indian Air Force.
 
-மேலும் பாதுகாப்பு பணிக்காக சுமார் 8 ஆயிரம் பொலிஸாரும் அமர்த்தப்பட்டிருந்ததோடு சாகச நிகழ்ச்சி நடைபெறும் பகுதிகளுக்கு வந்து செல்வதற்கு ஏதுவாக ஏற்கனவே இயக்கப்பட்டு வரும் மாநகர பஸ்களுடன், கூடுதலாக சிறப்பு பஸ்களும் சென்னையின் பல்வேறு பகுதிகளில் இருந்து இயக்கப்பட்டிருந்தமை குறிப்படத்தக்கது.
+The event was attended by Tamil Nadu Governor RN Ravi, Chief Minister MK Stalin and Anil Saura, Commander of the Armed Forces.
+
+22 places have been selected along the Kamarajar road to enable visitors to watch the adventure event, where the police have made arrangements.
+
+It is noteworthy that about 8,000 policemen have been hired for safety work and additional buses, which are already operating to the adventure events, have been operated from various parts of Chennai.
 
 ◼️
 
 [Data](articles/0417a64a.json)
+
+[Extended Data](ext_articles/0417a64a.ext.json)
 
 ---
 
@@ -270,19 +332,25 @@ The price of eggs has increased again due to the decline of production, the Sri 
 
 ---
 
-### ஒரு கிலோ உருளைக்கிழங்குக்கு 10 ரூபாவும், பெரிய வெங்காயத்துக்கு 20 ரூபாவும் விசேட இறக்குமதி வரி அதிகரிப்பு-நிதி அமைச்சு
+### 10 rupees per kg of potatoes and 20 rupees per big onion
 
 *2024-10-06 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195597) · `ta`
 
-ஒரு கிலோ உருளைக்கிழங்கு மற்றும் பெரிய வெங்காயத்துக்கான விசேட இறக்குமதி வரியை அதிகரிக்க நிதி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+Potato import tax raised from 50 to 60 rupees, onion tax from 20 to 40 rupees.
 
-அதன்படி, ஒரு கிலோ உருளைக்கிழங்குக்கான இறக்குமதி வரி 10 ரூபாவினாலும், ஒரு கிலோ பெரிய வெங்காயத்துக்கான இறக்குமதி வரி 20 ரூபாவினாலும் அதிகரிக்கப்பட்டுள்ளது.
+🟩
 
-இதேவேளை, உருளைக்கிழங்கு இறக்குமதி வரி 50 ரூபாவில் இருந்து 60 ரூபாவாக 10 ரூபாவினாலும், இறக்குமதி செய்யப்படும். வெங்காயத்துக்கான வரி 10 ரூபாவில் இருந்து 30 ரூபாவாக 20 ரூபாவினாலும் அதிகரிக்க நிதி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+The Ministry of Finance has taken steps to increase the special import tax on one kilogram of potatoes and large onions.
+
+Accordingly, the import tax on one kilogram of potatoes has been increased by 10 rupees and the import tax on one kilogram of large onions has been increased by 20 rupees.
+
+Meanwhile, the potato import tax will be imported from 50 rupees to 60 rupees.. The Ministry of Finance has taken steps to increase the tax from 10 rupees to 30 rupees.
 
 ◼️
 
 [Data](articles/bf3f594a.json)
+
+[Extended Data](ext_articles/bf3f594a.ext.json)
 
 ---
 
@@ -502,25 +570,37 @@ Accordingly, the government has implemented measures to increase the import tax 
 
 ---
 
-### கிழக்குப் பல்கலைக்கழகத்தின் 2023ம் ஆண்டிற்கான 28 ஆவது பொதுப்பட்டமளிப்பு  விழா
+### The 28th General Ceremony for 2023 of the Eastern University
 
 *2024-10-06 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195591) · `ta`
 
-கிழக்குப் பல்கலைக்கழகத்தின் 2023ம் ஆண்டிற்கான 28 ஆவது பொதுப்பட்டமளிப்பு  விழா நேற்று சனிக்கிழமை (05) மற்றும்   இன்று ஞாயிற்றுக்கிழமை (06) இடம்பெற்று வருகின்றது.
+Here's a 200-character summary:
 
-கிழக்குப்பல்கலைக்கழகத்தின் உபவேந்தர் பேராசிரியர் வல்லிபுரம் கனகசிங்கம் அவர்களின் ஒருங்கிணைப்பில் நல்லையா ஞாபகார்த்த மண்டபத்தில் நடைபெற்றுவருகின்றது.
 
-இந் நிகழ்வில்  கிழக்குப் பல்கலைக்கழகத்தின் வேந்தர் ஓய்வு பெற்ற பேராசிரியர் மா.செல்வராஜா பட்டமளிப்பு விழாவிற்கு தலைமை தாங்குவதுடன் பட்டதாரிகளின் பட்டங்களையும் உறுதிசெய்துள்ளார்.
 
-இலங்கைக்கான இந்தியத்  துணைத் தூதுவர் (யாழ்ப்பாணம்) ஸ்ரீ சாய் முரளி அவர்கள் இந்நிகழ்ச்சியில் பிரதம அதிதியாக கலந்து கொண்டுள்ளார்.
+"Eastern University's 28th General Ceremony 2023: 2340 graduates honored. Chief Guest Indian Ambassador Sri Sai Murali. First-time record high graduation. Degrees in various fields including science, agriculture, business, computer science."
 
-வரலாற்றில் முதல் தடவையாக அதிகூடிய    எண்ணிககையிலான  மாணவர்கள் இம்முறை  பட்டம் பெற்றுள்ளனர்.
+🟩
 
-ஏறத்தாழ 2340 உள்வாரி, வெளிவாரி, கலாநிதி மற்றும் பட்டப்பின்படிப்பு பட்டங்கள் இம்முறை பொது பட்டமளிப்பு விழாவில் பட்டம் வழங்க உறுதிசெய்யப்பட்டுள்ளதாக கிழக்கு பல்கலைக்கழக உபவேந்தர் - பேராசிரியர் கலாநிதி வ.கனகசிங்கம் தெரிவித்தார்.
+The 28th General Ceremony for the 2023 Eastern University of Eastern University is being held on Saturday (05) and today (06).
+
+Vice Chancellor of the Eastern University, Professor Vallipuram Kanagasingham is held at the Nallaiyaya Memorial Hall.
+
+At the event, the Retired Professor of the Eastern University, Prof. Ma Selvarajah presided over the graduation ceremony and confirmed the degrees of graduates.
+
+Indian Ambassador to Sri Lanka (Jaffna) Sri Sai Murali was the chief guest at the event.
+
+For the first time in history, the highest number of students have graduated this year.
+
+Eastern University Vice Chancellor - Professor Dr. V. Kanagasingham said that nearly 2340 internal, outsiders, doctors and degrees degrees have been confirmed this time.
+
+Deputy Vice Chancellor Professor Dr. R. Prabhakaran and many others were present.
 
 ...
 
 [Data](articles/d6ece91a.json)
+
+[Extended Data](ext_articles/d6ece91a.ext.json)
 
 ---
 
@@ -2349,25 +2429,5 @@ It is reported that Major General Suresh Sureei has been appointed as the new di
 [Data](articles/f5836f64.json)
 
 [Extended Data](ext_articles/f5836f64.ext.json)
-
----
-
-### President receives blessings from Chief Prelates of Amarapura and Ramanna Maha Nikayas
-
-*2024-10-05 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102468/president-receives-blessings-from-chief-prelates-of-amarapura-and-ramanna-maha-nikayas) · `en`
-
-President Anura Kumara Dissanayake visited the headquarters of the Amarapura Maha Nikaya in Wellawatte this morning (05) and received blessings from the Acting Maha Nayaka, Most Venerable Karagoda Uyangoda Maithri Murthi Maha Nayaka Thero of Amarapura Nikaya.
-
-The Nayaka Theros of the Secretariat of the Amarapura Maha Nikaya were also present at this occasion, where they invoked blessings for the President, the President’s Media Division (PMD) said.
-
-During the discussion, the Chief Prelate emphasized the need to build a strong state by maximizing the use of the country’s resources. He noted that only then could Sri Lanka rise as an independent nation on the global stage.
-
-The President acknowledged that the current period, with a General Election already announced, is a politically transitional time. He expressed his intention to accelerate progress on key tasks with full Parliamentary power following the election, it said.
-
-...
-
-[Data](articles/7061e9af.json)
-
-[Extended Data](ext_articles/7061e9af.ext.json)
 
 ---

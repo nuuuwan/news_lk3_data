@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 15:38:47**
+As of **2024-10-06 15:57:26**
 
 ## Newspaper Stats
 
-*Scraped **48,027** Articles*
+*Scraped **48,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,437
+adalk | 4,438
 dailymirrorlk | 4,733
 adaderanalk | 5,659
-tamilmirrorlk | 6,482
+tamilmirrorlk | 6,483
 virakesarilk | 7,682
 adaderanasinhalalk | 8,316
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,316
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,027 (100.0%) of 48,027 articles have been extended.
+48,029 (100.0%) of 48,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### President visits the Kattuvapitti temple
+
+*2024-10-06 15:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுவாப்பிட்டி-ஆலயத்திற்கு-ஜனாதிபதி-விஜயம்/175-344978) · `ta`
+
+President Anura Kumara Dissanayake visited Kattuvapitti temple, promising swift investigation into 2019 Easter attacks and justice for affected families. He stressed need for thorough, transparent probe.
+
+🟩
+
+President Anura Kumara Dissanayake has promised to expedite investigations into the 2019 Easter Sunday attacks and that justice will be given to the affected families.
+
+He said this while visiting the St. Sebastian Temple of Katuwapitiya today.
+
+He emphasized the importance of a legitimate and open investigation.
+
+◼️
+
+[Data](articles/27dcfe88.json)
+
+[Extended Data](ext_articles/27dcfe88.ext.json)
+
+---
 
 ### The bodies of the dead couple found in a house
 
@@ -221,6 +243,28 @@ Ranil has slipped a wonderful opportunity to build the United National Party in 
 [Data](articles/9086cffa.json)
 
 [Extended Data](ext_articles/9086cffa.ext.json)
+
+---
+
+### Customs and Excise Tax. 67 tax stick
+
+*2024-10-06 13:26:24* · [`adalk`](https://www.ada.lk/breaking_news/රේගුවට-හා-සුරා-බද්දට-රු-බි--67ක-බදු-පොල්ලක්/11-412325) · `si`
+
+Sri Lanka Customs & Excise report: Army tax Rs. 57.8B, Excise Rs. 7.9B. Recovered Rs. 57B from bribery. Government seeks Rs. 90B from local income tax.
+
+🟩
+
+The third report presented by the methods of the Sri Lanka Institute of Customs and the Excise Department this year, the third report presented in the third report on parliament.
+
+According to the report, the army tax on Customs is Rs. 57.8 billion. 7.9 billion in the Excise DepartmentThe report contains Rs.
+
+Also, a sum of Rs 57 billion has been recovered from cutting money. 84 billion in the Halistic group. This report also states that the government's source of Rs.. 900 announcements have been sent to the recovery of the bodies by the local income tax
+
+◼️
+
+[Data](articles/031ade26.json)
+
+[Extended Data](ext_articles/031ade26.ext.json)
 
 ---
 
@@ -2405,55 +2449,5 @@ Thousands in Lebanon are jumping into Syria and they have been severely embarras
 [Data](articles/cb175632.json)
 
 [Extended Data](ext_articles/cb175632.ext.json)
-
----
-
-### Pirivena GCE Ordinary Level Examination Results
-
-*2024-10-05 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201878) · `si`
-
-Pirivena GCE Ordinary Level exam results released online. Visit www.doenets.lk for details. Contact 1911 helpline for inquiries. Results available now after being announced on 28th.
-
-🟩
-
-The results of the Pirivenal Ordinary Level have been released.
-
-The results were released on the Internet today, the Department of Examinations said.
-
-Accordingly, visiting the Examination Department www.doenets.lk
-
-The Department of Examinations states that inquiries can be made to the 1911 instant call number if there is a need to investigate.
-
-The results of the GCE O / L examination were released on the 28th and the results of the candidates who sat the examination have been released today.
-
-◼️
-
-[Data](articles/6284031c.json)
-
-[Extended Data](ext_articles/6284031c.ext.json)
-
----
-
-### Cows theft in Welikanda;Suspect arrested with guns
-
-*2024-10-05 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/195551) · `ta`
-
-Cows theft suspect arrested Welikanda police seize guns cannabis
-
-🟩
-
-Welikanda police said that a suspect was arrested with guns on Friday (04), who was searching for a crime of stealing three cows in the Senapura area of ​​the Welikanda police division.
-
-The suspect was arrested during a raid carried out on confidential information received by Welikanda police.
-
-The suspect was 21 years old from Welikanda Senapura.
-
-Subsequently, police said that a raid carried out at the suspect had seized a foreign gun, domestic rifle 1 and 01 grams of cannabis.
-
-◼️
-
-[Data](articles/e01c0a18.json)
-
-[Extended Data](ext_articles/e01c0a18.ext.json)
 
 ---

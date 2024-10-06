@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 18:18:46**
+As of **2024-10-06 18:31:53**
 
 ## Newspaper Stats
 
-*Scraped **48,038** Articles*
+*Scraped **48,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,439
+adalk | 4,440
 dailymirrorlk | 4,733
 adaderanalk | 5,660
 tamilmirrorlk | 6,485
-virakesarilk | 7,685
-adaderanasinhalalk | 8,318
+virakesarilk | 7,689
+adaderanasinhalalk | 8,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,038 (100.0%) of 48,038 articles have been extended.
+48,041 (100.0%) of 48,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Solution to the Ministry of Agriculture to protect the egg industry
+
+*2024-10-06 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201901) · `si`
+
+Ministry of Agriculture addresses egg industry concerns:
+
+
+
+1. Egg prices not increasing due to cost control measures.
+
+
+
+2. Secretary MP. Nishantha Wickremasinghe explains:
+
+
+
+   - Reducing chicken feed costs
+
+   - Addressing high migrant worker wages
+
+   - Working on equipment pricing issues
+
+
+
+3. Impact on egg prices:
+
+   
+
+   - Current market price: Rs 36
+
+   - Potential reduction: Rs 29-30
+
+
+
+4. Factors affecting egg prices:
+
+   
+
+   - Chicken feed costs (80% of expenses)
+
+   - Maize price fluctuations
+
+🟩
+
+The Ministry of Agriculture points out that the price of an egg is not running out of Rs.
+
+Secretary to the Ministry MP. Nishantha Wickremasinghe said this at a press conference held today (06).
+
+He said he was carrying out the reduction of the cost of chicken. As soon as the cost of reducing the cost, the price can be issued to the market at a price.
+
+"Eat 33 of 33 rupees costs. Chicken is most of this expense. About 80% depend on the migrant prices. There is some problemity to determine the prices of the equipment. We are working these days to solve that. Anyway affects the chicken if there was no egg at 36 rupees in the market. There are 165 causes of chicken, especially the cost of maize. It can be reduced like 140. After the purpose of doing so, the egg's prices of the egg prices of Rs 29 and 30 rupees. "
+
+◼️
+
+[Data](articles/ef638e98.json)
+
+[Extended Data](ext_articles/ef638e98.ext.json)
+
+---
 
 ### President assures justice for Easter attacks victims
 
@@ -47,6 +107,98 @@ President Anura Kumara Dissanayake visited the church during the morning and lai
 [Data](articles/00425d88.json)
 
 [Extended Data](ext_articles/00425d88.ext.json)
+
+---
+
+### The main announcement issued by the Department of Internal
+
+*2024-10-06 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195635) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Deadline for 2023-2024 income tax payment was Sept 30. Failure to pay results in legal action, penalties, and interest. Taxpayers must provide accurate financial information and follow tax laws to avoid complications. Online payment options are available through the Internal Revenue Department's website.
+
+🟩
+
+The deadline for completing the income tax for 2023-2024 ended on September 30 last month. The Department of Home Affairs has already warned the taxpayer and those who have to pay the new tax.
+
+The Department has issued a warning of legal proceedings facing those who fail to pay all taxes using this time. According to the relevant notice, the deadline for paying pending taxes was given by October 30, 2024.
+
+The total income target of the Department of Customs and Liquor of Sri Lanka is Rs 4,127 billion this year.. The revenue target of the Internal Revenue Department is 2,024 billion rupees. Accordingly, in the nine months from January to September this year, the Internal Revenue Department is worth 1,518 billion rupees.
+
+However, in the documents provided by the Government Finance Department to the Government of the Government of the Government of India, it is worth noting that 1,498 billion rupees for the first nine months.
+
+...
+
+[Data](articles/9e87c9a1.json)
+
+[Extended Data](ext_articles/9e87c9a1.ext.json)
+
+---
+
+### Tamil nationalism within the disaster
+
+*2024-10-06 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195636) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil nationalism faces internal conflicts and external pressures in Sri Lanka's North and East. Political parties struggle with LTTE allegiances and central government ties. Election results show mixed support for candidates across Tamil-dominated areas. The future of Tamil nationalist parties remains uncertain amid changing voter preferences and alliances.
+
+🟩
+
+Tamil Nationalism is the main slogan of all Tamil political parties centered on the North and East. But within those political parties, there are massive contradictions of who are the Tamil nationalists.
+
+The political parties that have embraced matters that are compatible with the doctrines of the Liberation Tigers of Tamil Eelam (LTTE) are identified as pure Tamil nationalist forces or voices for the rights of Tamils.
+
+At the same time, political parties or members who have traveled with the central government are portrayed as Tamil nationals or Tamil national traitors.
+
+It is worth noting that within these types, the moderate or progressive thinking forces are included.
+
+It is not the intention of this passage to examine who the true heirs of the Tamil nationalism and the fake Tamil nationalists. Because it is concerned with the decree of the Tamil people.
+
+...
+
+[Data](articles/c350ded0.json)
+
+[Extended Data](ext_articles/c350ded0.ext.json)
+
+---
+
+### பொகவந்தலாவையில் மாணிக்கக்கல் அகழ்வில் ஈடுபட்ட இருவர் கைது
+
+*2024-10-06 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195631) · `ta`
+
+பொகவந்தலாவை பொலிஸ்பிரிவிற்குட்பட்ட பிரைட்வெல் தோட்ட பகுதியில் சட்டவிரோதமாக மாணிக்கக்கல் அகழ்வில் ஈடுபட்டு வந்த இருவர் உபகரணங்களுடன் கைது செய்யப்பட்டுள்ளதாக  பொகவந்தலாவ பொலிஸார்  தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் 38 மற்றும் 42 வயதுடைய பொகவந்தலாவ பகுதியைச் சேர்ந்தவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/d0b3e8ef.json)
+
+---
+
+### පාකිස්තාන සිරකරුවන් 56ක් පාකිස්තානයට භාර දෙයි
+
+*2024-10-06 17:02:02* · [`adalk`](https://www.ada.lk/breaking_news/පාකිස්තාන-සිරකරුවන්-56ක්-පාකිස්තානයට-භාර-දෙයි/11-412328) · `si`
+
+මත්ද්‍රව්‍ය චෝදනා ඇතුළු තවත් වැරදි වලට ශ්‍රී ලංකාවේ බන්ධනාගාර ගත කර සිටි පකිස්තානු ජාතික සිරකරුවන් 56 දෙනෙකු 10/06 දින  පස්වරුවේ  එරට බන්ධනාගාර නිලධාරීන් වෙත භාර දීම කටුනායක ගුවන් තොටුපොළ තුළ  දී සිදු වූ බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය.
+
+මෙම පිරිස අතරින් 51 දෙනෙකු පිරිමි සිරකරුවන් වූ අතර ඉතිරි 05 දෙනා කාන්තා සිරකාරිනියන් වූහ.
+
+වසර ගනනාවකට පසුව ක්‍රියාත්මක වන මෙම සිරකරු හුවමාරු වැඩසටහන සදහා මෙම සිරකරුවන් පිරිස රැගෙන යාමට පකිස්තානයේ සිට විශේෂ ගුවන් යානයක් 10/06 දින පස්වරු 03.00 ට පමණ කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+මෙම ගුවන් යානය තුළ පකිස්තානු ජාතික බන්ධනාගාර නිලධාරීන් සියයකට අධික පිරිසක් පැමිණ සිටින බව ද ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා වැඩිදුරටත් පැවසීය.
+
+මෙම පකිස්තාන ජාතික සිරකරුවන් කොළඹ , වැළිකඩ ඇතුළු ශ්‍රී ලංකාව පුරා පිහිටි බන්ධනාගාර වල රදවා තබා සිටි සිරකරුවන් වූ අතර , ඔවුන් පකිස්තාන  බන්ධනාගාර නිලධාරීන් වෙත භාර දෙන තෙක්ම , සහ ඔවුන් එම ගුවන් යානය තුළට රැගෙන යන තෙක්ම , මෙම සිරකරුවන්ගේ දෙඅත් වලට මාංචු දමා තිබූ බව ද ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය.
+
+...
+
+[Data](articles/ccd4ac0f.json)
 
 ---
 
@@ -103,6 +255,26 @@ Former President Mahinda Rajapaksa's son Yoshitha Rajapaksa has been given 07 gu
 [Data](articles/ebd65113.json)
 
 [Extended Data](ext_articles/ebd65113.ext.json)
+
+---
+
+### சட்ட விரோதமாக கொண்டுவரப்பட்ட சிகரெட்டுகளுடன் கட்டுநாயக்கவில் இருவர் கைது
+
+*2024-10-06 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/195628) · `ta`
+
+அபுதாபியிலிருந்து இலங்கைக்கு சட்டவிரோதமாக கொண்டுவரப்பட்ட சிகரெட்டுகளுடன் சந்தேக நபர்கள் இருவர் கட்டுநாயக்க விமான நிலைய வளாகத்தில் இன்று ஞாயிற்றுக்கிழமை (06) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் விமான நிலையப் பிரிவு அதிகாரிகளினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+தெஹியோவிட்ட பகுதியைச் சேர்ந்த 23 வயதுடைய பெண் மற்றும் பாணந்துறை பிரதேசத்தை சேர்ந்த 37 வயதுடைய ஆண் என இருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கைதான பெண்ணிடமிருந்து 24,200 சிகரெட்டுகளும் (121 கார்டூன்கள்) மற்றைய நபரிடமிருந்து 24,600 சிகரெட்டுகளும் (123 கார்டூன்கள்) பொலிஸாரினால் கைப்பற்றப்பட்டன.
+
+இது தொடர்பான மேலதிக விசாரணைகளில் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினர் ஈடுபட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/94eefd96.json)
 
 ---
 
@@ -2277,149 +2449,5 @@ However, after the loss of Harsitha Samarawickrama, 3 more Weeks were overthrown
 [Data](articles/bd49dd9a.json)
 
 [Extended Data](ext_articles/bd49dd9a.ext.json)
-
----
-
-### India leaves 22 diesel station engines to Sri Lanka
-
-*2024-10-05 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201885) · `si`
-
-India gifts 22 diesel engines to Sri Lanka: Indian Foreign Minister Dr. S.S. Jaishankar confirms during visit. Loan for 7 projects worth $US. India converts Rs.
-
-🟩
-
-Indian Foreign Minister Dr. S. S. Sara Indian Foreign Minister Dr. S. Mr. Jeyzankar has said.
-
-Indian External Affairs Minister Dr. S. S. Story arrived in the island to one day. Mr. Jeyishank was meeting the President, Prime Minister and the Minister of External Affairs and the Indian High Commission in Sri Lanka was issued.
-
-And the completed loan 7 line projects is US $. The Indian Foreign Minister has said that India has decided to convert Rs.
-
-◼️
-
-[Data](articles/c899845f.json)
-
-[Extended Data](ext_articles/c899845f.ext.json)
-
----
-
-### Dilith from Kegalle with Dilith for the country
-
-*2024-10-05 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201884) · `si`
-
-Here's a 200-character summary:
-
-
-
-Kegalle district leaders support Dilith Jayaweera's Motherland People's Party. They back Anura Kumara's government, requesting 113 seats instead of 150. The party opposes corruption and promises clean governance for the upcoming parliamentary election.
-
-🟩
-
-A group of former provincial councils and local government representatives from the Kegalle district participated in the motherland.
-
-There, the leader of the Motherland People's Party, Dilith Jayaweera, operating the electoral organizer in the Kegalle District.
-
-Motherland Janasinghe, Chairman of the Motherland People's Party, Roshan Ranasinghe, said,
-
-"Mr. Anura Kumara's governments should be empowered.. And give them 113.. But don't give 150. 150 Want to give Eve. The stolen money raised hand to bring up the hand 150 .... We are ready to be prepared to Mr. Anura Kumara's state. The main opposition to give the people of the country to join the universal power today. Because a good clean group of people, a special group of parliamentary elections will be forwarded to the next parliamentary election. "
-
-◼️
-
-[Data](articles/a841df89.json)
-
-[Extended Data](ext_articles/a841df89.ext.json)
-
----
-
-### Former President Mahinda's land removes a number of electrical containers
-
-*2024-10-05 19:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201883) · `si`
-
-Former President Mahinda Rajapaksa's land in Weeraketiya removed electrical containers during power cuts. CEB personnel retrieved some cables.
-
-🟩
-
-The Ceylon Electricity Board (CEB) had acted in several power cuts on a land on Tangalle Road, Weeraketiya.
-
-It is reported that the land belongs to former President Mahinda Rajapaksa.
-
-Ada Derana reporter said that they were rescued to rescue some of its power cords.
-
-◼️
-
-[Data](articles/f0c4bec0.json)
-
-[Extended Data](ext_articles/f0c4bec0.ext.json)
-
----
-
-### Public asked to report evidence on ‘leaked’ questions in 2024 Scholarship Exam
-
-*2024-10-05 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102472/public-asked-to-report-evidence-on-leaked-questions-in-2024-scholarship-exam) · `en`
-
-Sri Lanka Police informs that anyone with evidence or knowledge of any exam questions, other than the three questions already alleged to have been leaked, being disclosed prior to the 2024 Scholarship Examination, to come forward with complaints by October 7, 2024.
-
-Issuing a statement in this regard, the Police Media Division stated that complaints can be submitted at the offices of Senior Superintendents of Police (SSP) in police divisions across the island. Those unable to visit these offices can instead file complaints at the nearest police station, where the Divisional Criminal Investigation Unit will record the information and forward it to the Criminal Investigation Department (CID) for further investigation.
-
-...
-
-[Data](articles/3a329a00.json)
-
-[Extended Data](ext_articles/3a329a00.ext.json)
-
----
-
-### Sri Lanka spy chief sacked, agency returns to police control
-
-*2024-10-05 19:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-spy-chief-sacked-agency-returns-to-police-control-182451/) · `en`
-
-ECONOMYNEXT – The head of Sri Lanka’s State Intelligence Service (SIS) was sacked on Saturday, and the premier spy agency was brought back under the control of the police after nearly five years.
-
-Retired Major General Suresh Sallay was dismissed after he refused to resign following the takeover by the new government of President Anura Kumara Dissanayake, an official source involved in the shake-up told Economynext.
-
-Police Deputy Inspector General Dhammika Priyantha, who had earlier served at the CID/FCID, was appointed as the director of the SIS, bringing the agency back under the police’s jurisdiction.
-
-The SIS had shifted to military control under Gotabaya Rajapaksa’s presidency, but his successor, Ranil Wickremesinghe, not only retained the controversial Major General Sallay but also re-employed him after his retirement.
-
-...
-
-[Data](articles/b91868cf.json)
-
-[Extended Data](ext_articles/b91868cf.ext.json)
-
----
-
-### Sri Lanka deprives winning the second match
-
-*2024-10-05 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201882) · `si`
-
-Sri Lanka loses 2nd World Cup match to Australia. Chamari Atapattu wins toss, elects to bat. Inoka Ranaweera replaces injured player. Hershaka Samarawickrama scores 29. Sri Lanka all out for 93 in 20 overs. Australia reaches target in 4 overs.
-
-🟩
-
-Sri Lanka lost the second match in the 20th World Cup today (05).
-
-It was a 6 wicket defeat in the match with Australia.
-
-Sri Lanka Leader Chamari Atapattu first, won the toss and elected to the ball.
-
-The Sri Lankan team had been convened to the Inokin Ranaweera instead of the sister of Sachini.
-
-According to Chamari Atapattu, with Chamari Gunaratne.
-
-However, as the Sri Lankan scoreboard scored six runs, Australia won the bowlers.
-
-Hershaka Samarawickrama and Nayakika Silva had attempted to have a life crash to the fourth wicket.
-
-Instead of patient innings, Nihakshakshika Silva scored 29 runs.
-
-Accordingly, the Sri Lanka women's group was bowled out for 93 runs in the end of 20 overs.
-
-Chasing a 94 runs, Australia launched its target of 14 wickets at the end of 4 overs.
-
-◼️
-
-[Data](articles/c9d08590.json)
-
-[Extended Data](ext_articles/c9d08590.ext.json)
 
 ---

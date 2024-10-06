@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 19:22:54**
+As of **2024-10-06 19:38:37**
 
 ## Newspaper Stats
 
-*Scraped **48,053** Articles*
+*Scraped **48,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,441
 dailymirrorlk | 4,733
 adaderanalk | 5,661
-tamilmirrorlk | 6,487
+tamilmirrorlk | 6,488
 virakesarilk | 7,693
 adaderanasinhalalk | 8,320
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,320
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,053 (100.0%) of 48,053 articles have been extended.
+48,054 (100.0%) of 48,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Time is over ... Only four submissions
+
+*2024-10-06 19:14:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-முடிந்தது-இதுவரை-நால்வர்-மாத்திரமே-சமர்ப்பிப்பு/175-344993) · `ta`
+
+Elections Commission: Four candidates submitted cost reports out of 38. Deadline is January 13th. Non-compliance may result in legal consequences.
+
+🟩
+
+The Elections Commission said that only four of them have been submitted to 38 candidates who have contested the presidential election, but only four have been submitted so far.
+
+The four candidates who made their cost reports include Dr. Vijayadasa Rajapaksa, the National Democratic Front, Vijayadasa Rajapaksa, the Sri Lanka Samajwadi Party's Mahinda Devage, Independent candidate Premasirimanage and K Ananda Gularatne.
+
+According to the Election Cost of Control Act, it is said that the deadline to submit them is the 13th of this month, and that the reports submitted may be sentenced under illegal charges.. Remble
+
+◼️
+
+[Data](articles/061767d7.json)
+
+[Extended Data](ext_articles/061767d7.ext.json)
+
+---
 
 ### Arrest someone with foreign cigarettes
 
@@ -2405,27 +2427,5 @@ But then, in the midst of Bangladesh's challenging bowling, England lost 4 wicke
 [Data](articles/cd485e32.json)
 
 [Extended Data](ext_articles/cd485e32.ext.json)
-
----
-
-### Nasrallah’s possible successor out of contact since Friday, Lebanese source says
-
-*2024-10-05 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102474/nasrallahs-possible-successor-out-of-contact-since-friday-lebanese-source-says) · `en`
-
-The potential successor to slain Hezbollah leader Sayyed Hassan Nasrallah has been out of contact since Friday, a Lebanese security source said on Saturday, after an Israeli airstrike that is reported to have targeted him.
-
-In its campaign against the Iran-backed Lebanese group, Israel carried out a large strike on Beirut’s southern suburbs late on Thursday that Axios cited three Israeli officials as saying targeted Hashem Safieddine in an underground bunker.
-
-The Lebanese security source and two other Lebanese security sources said that ongoing Israeli strikes on Beirut’s southern suburb - known as Dahiyeh - since Friday have kept rescue workers from scouring the site of the attack.
-
-Hezbollah has made no comment so far on Safieddine since the attack.
-
-Israeli Lieutenant Colonel Nadav Shoshani said on Friday the military was still assessing the Thursday night airstrikes, which he said targeted Hezbollah’s intelligence headquarters.
-
-...
-
-[Data](articles/2dc90067.json)
-
-[Extended Data](ext_articles/2dc90067.ext.json)
 
 ---

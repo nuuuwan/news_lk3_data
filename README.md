@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 19:56:48**
+As of **2024-10-06 20:09:24**
 
 ## Newspaper Stats
 
-*Scraped **48,056** Articles*
+*Scraped **48,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,662
 tamilmirrorlk | 6,488
 virakesarilk | 7,693
-adaderanasinhalalk | 8,320
+adaderanasinhalalk | 8,321
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,056 (100.0%) of 48,056 articles have been extended.
+48,057 (100.0%) of 48,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Foreigners arrested for defrauding money online
+
+*2024-10-06 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201904) · `si`
+
+Foreigners arrested for online fraud: 29 Chinese, 1 Indian, 2 Thai nationals detained in Gampaha. Police seized 24 phones and 29 devices used for scams including investment and pig butchering schemes. CID investigating with international cooperation.
+
+🟩
+
+Foreign nationals have been arrested in operational frauds online.
+
+Police have arrested the National Suspects of the Hanwella Road, Hotel in the Hanwella Road, Gampaha Hotel in the Hanwella Road, Avissawella Road and Hanwella Road, Police.
+
+It has been revealed that these people have done financial frauds by social media networks and telephone calls.
+
+The suspects were 29 Chinese nationals, a Chinese woman, Indian male, Indian national male and three women, two Thailand nationals and four women.
+
+The Investigations have been taken into custody 24 mobile phones and 29 delegates used for financial frauds in their possession.
+
+They have also observed that they have been engaged in financial frauds through Investment Scam, Pig Butchering Scam in further investigation into the suspects.
+
+The suspects have also observed that the deposit of the East and Indonesia, Indonesia and Thailand, have also been observed.
+
+...
+
+[Data](articles/ebc0d399.json)
+
+[Extended Data](ext_articles/ebc0d399.ext.json)
+
+---
 
 ### 40 foreigners involved in online financial scams arrested
 
@@ -2387,31 +2417,5 @@ One such, during this time was the strong attack made by the Finance Minister Dr
 [Data](articles/9d642185.json)
 
 [Extended Data](ext_articles/9d642185.ext.json)
-
----
-
-### Thunderstorms today
-
-*2024-10-06 01:35:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-344950) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Thunderstorms forecasted nationwide today. Rain expected in Sabaragamuwa, North Western Provinces, and Galle/Matara districts. Temporary gusts possible during rainfall."
-
-🟩
-
-The Department of Meteorology has predicted thunderstorms in many parts of the country today.
-
-Rainfall is expected in the morning in the morning, Sabaragamuwa and North Western Provinces and Galle and Matara districts.
-
-The Department of Meteorology has predicted that temporary winds may blow in the rainy occasions. (A)
-
-◼️
-
-[Data](articles/84287b37.json)
-
-[Extended Data](ext_articles/84287b37.ext.json)
 
 ---

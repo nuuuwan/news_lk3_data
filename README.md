@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 12:56:56**
+As of **2024-10-06 13:08:09**
 
 ## Newspaper Stats
 
-*Scraped **48,003** Articles*
+*Scraped **48,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,433
+adalk | 4,434
 dailymirrorlk | 4,733
 adaderanalk | 5,657
-tamilmirrorlk | 6,475
+tamilmirrorlk | 6,480
 virakesarilk | 7,675
 adaderanasinhalalk | 8,312
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 8,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,003 (100.0%) of 48,003 articles have been extended.
+48,009 (100.0%) of 48,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Farmer death
+
+*2024-10-06 12:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கிளையில்-உடை-சிக்கி-விவசாயி-மரணம்/175-344973) · `ta`
+
+Farmer WH Siripala (62) dies after falling from tree branch while working in field. His shirt gets stuck, causing fatal injury. Incident reported by neighbor who spotted body. Police investigation ongoing.
+
+🟩
+
+A farmer from Wariyapola Kongolla village has been unfortunately dead in a t Shirt he was wearing, Wariyapola police said.
+
+The deceased is the 62 -year -old WH Siripala, the father of two children from the village.
+
+The man has fallen down the branches of the tree near his field and has died on the spot when the dress he was wearing was trapped in a tree.
+
+A woman who went through the tree saw the body of a farmer in the tree branch, informed the neighbors and later informed the police.
+
+◼️
+
+[Data](articles/9b7d7106.json)
+
+[Extended Data](ext_articles/9b7d7106.ext.json)
+
+---
+
+### Adventure Event of Art Glabs: Video
+
+*2024-10-06 11:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலைகட்டும்-விமானங்களின்-சாகச-நிகழ்ச்சி-காணொளி/175-344972) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Indian Air Force 92nd anniversary celebration at Chennai Marina. Attended by TN Governor, CM, and Armed Forces Commander. 22 viewing spots set up. 8,000 police officers ensure safety. Additional buses operate from various locations in Chennai.
+
+🟩
+
+The Air Force's adventure was held on Sunday (06) at the Chennai Marina on the 92nd anniversary of the Indian Air Force.
+
+The event was attended by Tamil Nadu Governor RN Ravi, Chief Minister MK Stalin and Anil Saura, Commander of the Armed Forces.
+
+22 places have been selected along the Kamarajar road to enable visitors to watch the adventure event, where the police have made arrangements.
+
+It is noteworthy that about 8,000 policemen have been hired for safety work and additional buses, which are already operating to the adventure events, have been operated from various parts of Chennai.
+
+◼️
+
+[Data](articles/7a029914.json)
+
+[Extended Data](ext_articles/7a029914.ext.json)
+
+---
 
 ### IRD collects over 70% of 2024 tax revenue target
 
@@ -74,6 +126,30 @@ So far, the number of tourist arrivals for the first nine months of 2024 stands 
 
 ---
 
+### Removal of the electric wires provided to Mahinda's home
+
+*2024-10-06 11:36:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-வீட்டுக்கு-வழங்கிய-மின்சார-கம்பிகள்-அகற்றம்/175-344971) · `ta`
+
+Electricity Board removes power lines from Mahinda Rajapaksa's home as part of eliminating facilities for politicians under current government's policy.
+
+🟩
+
+The power lines supplied to the Veerakettiya Carlton estate used by former President Mahinda Rajapaksa were removed by the Electricity Board employees.
+
+Steps are being taken to eliminate the facilities provided to MPs under the policy of the government headed by President Anura Kumara Dissanayake.
+
+According to an official of the Ceylon Electricity Board (CEB), the Ceylon Electricity Board (CEB) said that two power lines were removed to the Carlton estate.
+
+The official added that three three wires have been put in the Carlton garden and two of them will be removed.
+
+◼️
+
+[Data](articles/5584021d.json)
+
+[Extended Data](ext_articles/5584021d.ext.json)
+
+---
+
 ### Man killed in crocodile attack in Gemunupura
 
 *2024-10-06 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102480/man-killed-in-crocodile-attack-in-gemunupura) · `en`
@@ -93,6 +169,58 @@ The deceased’s body has been placed in the mortuary of Anuradhapura Hospital f
 [Data](articles/7bff4530.json)
 
 [Extended Data](ext_articles/7bff4530.ext.json)
+
+---
+
+### Increase in the price of egg prices again
+
+*2024-10-06 11:25:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-மீண்டும்-அதிகரிப்பு/175-344970) · `ta`
+
+Egg prices surge: 40+ rupees per egg. Recent increase attributed to declining production. Some areas report higher prices up to 45 rupees.
+
+🟩
+
+Egg prices on the market have increased again. According to the Sri Lanka Egg Trade Association, the price of an egg has passed 40 rupees.
+
+The egg was sold for less than 30 rupees 3 days ago.
+
+However, people say that eggs are being sold for 45 rupees in some areas.
+
+The price of eggs has increased again due to the decline of production, the Sri Lanka Egg Trade Association said.
+
+◼️
+
+[Data](articles/5c2b6c62.json)
+
+[Extended Data](ext_articles/5c2b6c62.ext.json)
+
+---
+
+### The former president declared Oiwa
+
+*2024-10-06 11:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதி-ஓய்வை-அறிவித்தார்/175-344969) · `ta`
+
+Former President Mahinda Rajapakse retires from politics due to health issues, criticism, and economic crisis allegations. He will not contest the upcoming election, citing adverse political environment and age.
+
+🟩
+
+Former President Mahinda Rajapakse has decided to retire from politics, reports say.
+
+Information about his retirement from politics has been revealed as Mahinda has decided not to contest the upcoming election.
+
+Sources close to Mahinda said that he had made this decision in view of the adverse environment, health and age in contemporary politics.
+
+It has also been pointed out that the criticism of traditional politics is also responsible for this decision.
+
+Many people who have been a member of the Mahinda regime have been accused of corruption and fraud in the past. The people of the country are very dissatisfied with this.
+
+It is noteworthy that the court ruled that the government was responsible for the economic crisis in Sri Lanka during the last regime
+
+◼️
+
+[Data](articles/e2df239b.json)
+
+[Extended Data](ext_articles/e2df239b.ext.json)
 
 ---
 
@@ -325,6 +453,34 @@ The financial account is the mirror image of the current account (subject to err
 [Data](articles/910819b4.json)
 
 [Extended Data](ext_articles/910819b4.ext.json)
+
+---
+
+### Leader of the Leaders' Thero to the school girl who had drunk water
+
+*2024-10-06 09:44:31* · [`adalk`](https://www.ada.lk/breaking_news/ජලයට-සිනි-දමා-පානය-කළ-පාසල්-දැරියට-සඳගිරි-සෑ-නායක-හිමියන්ගේ-පිහිට/11-412322) · `si`
+
+Here's a 200-character summary:
+
+
+
+Leaders' Theory: Girl drank water after fasting. Class teacher accused her of stomach issues. Mother reported to police. Leaders Thera promised to build a house for the family.
+
+🟩
+
+The Entrendness Leader Thero of the girl who had been tolerant for breakfast on the World Children's Day was a dry diet worth Rs. 20,000.
+
+The class teacher's interrogation had stated that the girl was studying the stomach to relieve the inflammation of the stomach to relieve the inflammation of the water.
+
+After hearing the girl's mother, the mother of the girl, had to learn the girl through Katugastota Police and the girl was brought to the Katugastota Ven.
+
+The Leaders Thera said that they would also help them to create a house.
+
+◼️
+
+[Data](articles/53d8ca3f.json)
+
+[Extended Data](ext_articles/53d8ca3f.ext.json)
 
 ---
 
@@ -2259,139 +2415,5 @@ The police inspector has also attacked the businessman and restaurant workers, w
 [Data](articles/703a0b3f.json)
 
 [Extended Data](ext_articles/703a0b3f.ext.json)
-
----
-
-### Asset Investigation Division again questions Pilumiyan
-
-*2024-10-05 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201869) · `si`
-
-Pilumiyan questioned over illegal assets investigation. Police probe BMW vehicle and assets. Model questioned for nearly 3 hours. Investigation focuses on drug dealer's luxury car and skin trade. Specialist Arts arrives for questioning.
-
-🟩
-
-The illegal assets of the Piyumi Hansayamaya, a well-known model, has once again questioned.
-
-It applies to the investigation of a BMW type carrier and her assets.
-
-Accordingly, she has been questioned for almost three hours yesterday.
-
-The Police Narcotics Bureau, a famous model car of a drug dealer, had been priced from Hansamades.
-
-Accordingly, the Illegal Asset Investigation Division (Illegal Asset Investigation Division) launched an investigation into the production of the BMW car vehicle to buy the BMW car and the skin that she sold.
-
-Specialist Arts, Piyumi Hansami Hansalai had arrived at the Illegal Assets Division in about the investigation into the investigation.
-
-She left her at around 6 pm yesterday.
-
-◼️
-
-[Data](articles/e8db8dab.json)
-
-[Extended Data](ext_articles/e8db8dab.ext.json)
-
----
-
-### President Mahindarshanka's Meeting announced at the Indian High Commission
-
-*2024-10-05 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201868) · `si`
-
-Here's a 200-character summary:
-
-
-
-India-Sri Lanka relations: Indian FM meets SL Prez, discusses security, economic ties, ethnic reconciliation, and regional stability.
-
-🟩
-
-The Indian High Commission has announced that the Sri Lankan territory will never be able to harm the security needs of India.
-
-In that release, Indian Foreign Minister S. President Anura Kumara Dissanayake made this statement at the meeting with Mr. Jeyishankar.
-
-He has also emphasized the support of all communities, including equality, duty, respect and peace of the ethnic problem and reconciliation process.
-
-He further stated that these objectives will facilitate the 13th Amendment to the Constitution and conduct provincial council elections expeditiously.
-
-Indian Foreign Minister S. Mr. Jeymy arrived in the country from Katunayake Bandaranaike International Airport yesterday morning.
-
-The Indian Foreign Minister met President Anura Kumara Dissanayake at the presidential office.
-
-The Indian Foreign Minister also ensured that India's interest in the field of India to support the fields of tourism as well as investment, electricity and energy and liquid dairy industry.
-
-...
-
-[Data](articles/e85ed22f.json)
-
-[Extended Data](ext_articles/e85ed22f.ext.json)
-
----
-
-### Tunisia votes Sunday in its third presidential election since the Arab Spring
-
-*2024-10-05 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/102466/tunisia-votes-sunday-in-its-third-presidential-election-since-the-arab-spring) · `en`
-
-With his major opponents imprisoned or left off the ballot, Tunisian President Kais Saied faces few obstacles to winning reelection on Sunday, five years after riding anti-establishment backlash to a first term.
-
-The North African country’s Oct. 6 presidential election is its third since protests led to the 2011 ouster of President Zine El Abidine Ben Ali — the first autocrat toppled in the Arab Spring uprisings that also overthrew leaders in Egypt, Libya and Yemen.
-
-International observers praised the previous two contests as meeting democratic norms. However, a raft of arrests and actions taken by a Saied-appointed election authority have raised questions about whether this year’s race is free and fair. And opposition parties have called for a boycott.
-
-...
-
-[Data](articles/940632eb.json)
-
-[Extended Data](ext_articles/940632eb.ext.json)
-
----
-
-### Fire at the Mihindu Mawatha in Pettah
-
-*2024-10-05 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201867) · `si`
-
-Fire breaks out on Mihindu Mawatha in Pettah, spreading to two nearby homes. Firefighters and ambulances respond quickly, successfully controlling the blaze within minutes. No casualties reported.
-
-🟩
-
-Further, there are two nearby houses and the fire had spread.
-
-Two fire extinguisher and ambulance have been directed to the location and the fire was completely controlled and the fire was completely controlled.
-
-◼️
-
-[Data](articles/4bab52c4.json)
-
-[Extended Data](ext_articles/4bab52c4.ext.json)
-
----
-
-### Piriven O/L results released
-
-*2024-10-05 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102465/piriven-ol-results-released) · `en`
-
-The results of the 2023 (2024) Piriven Ordinary Level examination has been released online today (Oct. 05).
-
-The Department of Examination announced that the relevant examination results can be accessed from the official website of the department via www.doenets.lk and www.results.exams.gov.lk.
-
-Meanwhile, the exams department also mentioned that the exam applicants will be informed regarding the re-scrutiny of the exam results and the issuance of results sheets in the future.
-
-◼️
-
-[Data](articles/455403f4.json)
-
-[Extended Data](ext_articles/455403f4.ext.json)
-
----
-
-### Anura Kumara  Dissanayake ; “Leftist” Star  Rises   Over Sri Lanka.
-
-*2024-10-05 12:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84814) · `en`
-
-The heading of this article is inspired by the title of Edgar Snow’s  , “Red Star Over China”. Snow’s book first published in 1937 was a vivid account of  his interaction with the  Chinese communist leader  Mao  Ze Dong and the Red Army. Mao known then as Mao Tse Tung was relatively called  to the  Western world at that time. Years later when the communists under Mao captured power in China, “Red Star Over China” became a best seller. The book was widely read   by people who wanted to gain an insight into the new “unknown”  Communist rulers  of China.
-
-...
-
-[Data](articles/139b1f89.json)
-
-[Extended Data](ext_articles/139b1f89.ext.json)
 
 ---

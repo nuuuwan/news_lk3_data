@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 13:58:08**
+As of **2024-10-06 14:10:55**
 
 ## Newspaper Stats
 
-*Scraped **48,017** Articles*
+*Scraped **48,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,434
+adalk | 4,436
 dailymirrorlk | 4,733
 adaderanalk | 5,657
 tamilmirrorlk | 6,481
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,314
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,017 (100.0%) of 48,017 articles have been extended.
+48,019 (100.0%) of 48,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Two other matches of Women's World Cup today
+
+*2024-10-06 13:46:22* · [`adalk`](https://www.ada.lk/sports/කාන්තා-​ලෝක-කුසලානයේ-තවත්-තරග-දෙකක්-අද/9-412327) · `si`
+
+Women's World Cup: India vs Pakistan at 3:30 PM; Scotland vs West Indies later today.
+
+🟩
+
+Two other matures of the Women's T20 World Cup will be held today (06).
+
+Accordingly, the first match will begin at 3.30 pm and the Indian team and Pakistan will compete.
+
+The second match is scheduled to start between Scotland team and the West Indies.
+
+◼️
+
+[Data](articles/02d258af.json)
+
+[Extended Data](ext_articles/02d258af.ext.json)
+
+---
 
 ### Two teachers sharing knowledge aside by disorders
 
@@ -99,6 +121,32 @@ Meanwhile, the Illilonic Tamil Ahazi party nomination committee met in Vavuniya 
 [Data](articles/923c5596.json)
 
 [Extended Data](ext_articles/923c5596.ext.json)
+
+---
+
+### Potatoes and B onion tax reached
+
+*2024-10-06 12:51:40* · [`adalk`](https://www.ada.lk/breaking_news/අල-හා-බී-ලූණු-බදු--ඉහළට/11-412323) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Government increases tax on imported potatoes and large onions to support local farmers. Potato tax raised by Rs. [amount], while onion tax increased from Rs. 30 per kg."
+
+🟩
+
+The government has taken steps to increase special import tax on potatoes and big onions. The steps have been taken to protect the local farmers with the local farmers and the potato yields of the local big onions and potatoes.
+
+Accordingly, the special import tax for potatoes has been increased by Rs.
+
+The tax of a kilogram of big onions has been increased by Rs. 30 to Rs.
+
+◼️
+
+[Data](articles/b68f04ba.json)
+
+[Extended Data](ext_articles/b68f04ba.ext.json)
 
 ---
 
@@ -2407,43 +2455,5 @@ The appointment has been made following the retirement of Major General Suresh S
 [Data](articles/3db96f20.json)
 
 [Extended Data](ext_articles/3db96f20.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-10-05 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201873) · `si`
-
-Sri Lanka wins toss against Australia in cricket match. Must secure victory to advance to tournament semifinals.
-
-🟩
-
-Sri Lanka is destined to hold the second match with Australia today (05).
-
-Sri Lanka won the toss and win the match.
-
-It is mandatory to win this competition to Sri Lanka's expectations in the semi-finals of the tournament.
-
-◼️
-
-[Data](articles/2ab21679.json)
-
-[Extended Data](ext_articles/2ab21679.ext.json)
-
----
-
-### New Director appointed to State Intelligence Service
-
-*2024-10-05 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/102469/new-director-appointed-to-state-intelligence-service) · `en`
-
-The Deputy Inspector General of Police (DIG) Dhammika Priyantha has been appointed as the new Director of the State Intelligence Service (SIS).
-
-This appointment comes following the retirement of former Director of the SIS Major General Suresh Sallay.
-
-◼️
-
-[Data](articles/dbd72a17.json)
-
-[Extended Data](ext_articles/dbd72a17.ext.json)
 
 ---

@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 01:23:11**
+As of **2024-10-07 01:38:49**
 
 ## Newspaper Stats
 
-*Scraped **48,078** Articles*
+*Scraped **48,080** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 395
-colombotelegraphcom | 474
 bbccomsinhala | 475
+colombotelegraphcom | 475
 islandlk | 2,836
 economynextcom | 2,942
-dailyftlk | 3,238
+dailyftlk | 3,239
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
@@ -26,9 +26,25 @@ adaderanasinhalalk | 8,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,078 (100.0%) of 48,078 articles have been extended.
+48,080 (100.0%) of 48,080 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-07 (Monday)
+
+### Sri Lanka’s International Sovereign Bonds restructuring – frequently asked questions
+
+*2024-10-07 01:05:47* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-International-Sovereign-Bonds-restructuring-frequently-asked-questions/14-767615) · `en`
+
+On 19 September 2024, the Democratic Socialist Republic of Sri Lanka (the “Republic”) announced agreements in principle on the restructuring of approximately $ 14.2 billion of sovereign debt (as of end 2023) with the holders of its International Sovereign Bonds (the “Bonds”), following negotiations with the Ad Hoc Group of Bondholders (“AHGB”), a representative group of international investors, and the Local Consortium of Sri Lanka (“LCSL”), a representative group of domestic financial institutions.
+
+...
+
+[Data](articles/57f2cef6.json)
+
+[Extended Data](ext_articles/57f2cef6.ext.json)
+
+---
 
 ### 2024-10-06 (Sunday)
 
@@ -2447,27 +2463,5 @@ At the same time, 19 people have been killed in the year of dengue, the National
 [Data](articles/27be60b8.json)
 
 [Extended Data](ext_articles/27be60b8.ext.json)
-
----
-
-### Police work in the presidential election
-
-*2024-10-06 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201892) · `si`
-
-Sri Lanka police chief praises force's performance in presidential election, highlighting post-election stability and international recognition.
-
-🟩
-
-Acting IGP Priyantha Weerasuriya says that a good image of the police have been able to build a good image in the presidential election.
-
-He was speaking at a function held at Kakudah yesterday.
-
-"Post-election violence violence after a political translation is the most difficult time. The Peace of My Ministry of Service Post Election Season After this election. This is a new culture. We must maintain these forward. The highest convenience to the Sri Lanka Police. Thank you for the political authority who split such a chance. Also, an election demonstrated the highest efficiency of the police. The police got up from the fall. There was a high image of the police and praised the functioning of the functioning and foreign overseas. "
-
-◼️
-
-[Data](articles/0468ceb5.json)
-
-[Extended Data](ext_articles/0468ceb5.ext.json)
 
 ---

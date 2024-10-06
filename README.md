@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 00:23:03**
+As of **2024-10-07 00:38:44**
 
 ## Newspaper Stats
 
-*Scraped **48,075** Articles*
+*Scraped **48,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 474
 bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,942
-dailyftlk | 3,235
+dailyftlk | 3,238
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,075 (100.0%) of 48,075 articles have been extended.
+48,075 (100.0%) of 48,078 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,20 @@ These include 50 officers of the Police Special Task Force, 6 officers of the Di
 [Data](articles/f42c50f6.json)
 
 [Extended Data](ext_articles/f42c50f6.ext.json)
+
+---
+
+### Priority matrix for tea sector: Part 1
+
+*2024-10-06 23:34:28* · [`dailyftlk`](https://www.ft.lk/columns/Priority-matrix-for-tea-sector-Part-1/4-767613) · `en`
+
+The tea sector’s value chain is intricately interwoven and deeply interdependent, as not in many other agricultural value chains
+
+Enhancing the financial resilience and empowerment of stakeholders within Sri Lanka’s tea value chain is critical. By ensuring access to finance, improving financial literacy, building capacity, and offering a diverse range of financial services, we can achieve this. By doing so, Sri Lanka can aim to establish a robust support system for tea producers, processors, marketers, and associated businesses
+
+...
+
+[Data](articles/6df057ef.json)
 
 ---
 
@@ -81,6 +95,32 @@ Meanwhile, the number of officers who are required to establish the Presidential
 [Data](articles/ce185806.json)
 
 [Extended Data](ext_articles/ce185806.ext.json)
+
+---
+
+### AKD should not try out RW’s failed ‘Vel Palama’ to cross to the other side
+
+*2024-10-06 23:23:47* · [`dailyftlk`](https://www.ft.lk/columns/AKD-should-not-try-out-RW-s-failed-Vel-Palama-to-cross-to-the-other-side/4-767612) · `en`
+
+AKD cannot waste his time by seeking to cross the cliff by walking through the unstable Vel Palama as suggested by Ranil
+
+The weakness in this Vel Palama equation is that it seeks to resolve the economic issues faced by the country at that time through a conventional method. It is a ‘within-the-frame solution’. When you see a difficulty and there is a conventional way to overcome that difficulty, you follow it without considering its efficacy or timeliness or costs. Economic strategists seek to resolve the issues by looking for solutions outside the frame. This is true for military strategists as well
+
+...
+
+[Data](articles/994ccdb3.json)
+
+---
+
+### Humility, empathy and authenticity key between RW defeat and AKD victory
+
+*2024-10-06 23:13:49* · [`dailyftlk`](https://www.ft.lk/columns/Humility-empathy-and-authenticity-key-between-RW-defeat-and-AKD-victory/4-767611) · `en`
+
+I attribute RW’s defeat to a distinct lack of empathy which impaired his ability to understand the needs, hardships, feelings, yearnings, and thoughts of a significant component of the population, these being the low-income earners and the lower middle-income earners. Opinions may differ but facts are stubborn. The Achilles heel of RW in many past elections, both presidential and general, has been his inability to respond to the needs of the common person. AKD, on the other hand, understood them perfectly and his message was astutely crafted to tugging at the heart strings of this section of the population, a section which had been disadvantaged over many years by elitist thinking
+
+...
+
+[Data](articles/84068a72.json)
 
 ---
 
@@ -2423,83 +2463,5 @@ He was speaking at a function held at Kakudah yesterday.
 [Data](articles/0468ceb5.json)
 
 [Extended Data](ext_articles/0468ceb5.ext.json)
-
----
-
-### Scarcity for 80 types of drugs
-
-*2024-10-06 07:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/80-வகையான-மருந்துகளுக்கு-தட்டுப்பாடு/175-344952) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-80 types of drugs scarce in country. Ministry allows purchase at hospitals. Treatment possible without issues.
-
-🟩
-
-The Ministry of Health said that there are 80 types of drugs in the country.
-
-A senior official of the Ministry of Health said that the drug was allowed to be purchased at the hospital level.
-
-He said that treatment can be carried out without problems. (A)
-
-◼️
-
-[Data](articles/480eae9c.json)
-
-[Extended Data](ext_articles/480eae9c.ext.json)
-
----
-
-### Afternoon thundershowers expected in most parts of the island
-
-*2024-10-06 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102475/afternoon-thundershowers-expected-in-most-parts-of-the-island) · `en`
-
-The Meteorology Department says the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island from today (06).
-
-Showers or thundershowers will occur at most places in the island during the afternoon or night.
-
-Showers may occur in Western, Sabaragamuwa, Northern and North-western provinces and in Galle, Matara and Trincomalee districts during the morning too, it added.
-
-Fairly heavy showers of about 75 mm are likely at some places in Northern, North-central, Eastern and Uva province.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/85a3d605.json)
-
-[Extended Data](ext_articles/85a3d605.ext.json)
-
----
-
-### Nearly 100,000 people out of agro-employment in one year
-
-*2024-10-06 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201891) · `si`
-
-Over 100,000 leave agriculture sector in one year, impacting economy. Jobs decreased from 147,989 to 2,139,574 between Q1 2023 and Q1 2024. Employment percentage dropped from 26.7% to 25.8%.
-
-🟩
-
-The Department of Economics and Statistical Studies of the Department of Economics and Statistical Studies of the University of Peradeniya said that more than 100,000 people have left the agriculture sector in the country for a year.
-
-He said that this is confirmed according to a report issued by the Department of Census and Statistics.
-
-He further said that due to various issues in the agriculture sector in the country's agricultural sector, the people are removing agricultural jobs and the production of agricultural products.
-
-He said that if the situation continues, the economy of the country will be affected.
-
-"Nearly 147,989 jobs have left about 147,989 jobs during the past year.
-
-The agricultural sector employees spent 2,187,563 by the first quarter of 2023. It decreases the first quarter of 2024 to 2,139,574.
-
-2023 by the first quarter of 2023, agricultural sector employment was 26.7%. But by the first quarter of 2024, it shows 25.8% down. "
-
-◼️
-
-[Data](articles/b74d5e4b.json)
-
-[Extended Data](ext_articles/b74d5e4b.ext.json)
 
 ---

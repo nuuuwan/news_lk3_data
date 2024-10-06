@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 12:38:53**
+As of **2024-10-06 12:56:56**
 
 ## Newspaper Stats
 
-*Scraped **48,002** Articles*
+*Scraped **48,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,432
+adalk | 4,433
 dailymirrorlk | 4,733
 adaderanalk | 5,657
 tamilmirrorlk | 6,475
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,002 (100.0%) of 48,002 articles have been extended.
+48,003 (100.0%) of 48,003 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -325,6 +325,28 @@ The financial account is the mirror image of the current account (subject to err
 [Data](articles/910819b4.json)
 
 [Extended Data](ext_articles/910819b4.ext.json)
+
+---
+
+### Abdullah Maharoof to UNP
+
+*2024-10-06 09:13:33* · [`adalk`](https://www.ada.lk/breaking_news/අබ්දුල්ලා-මහරුෆ්-එජාපයට/11-412321) · `si`
+
+Ranil Wickremesinghe joins UNP; Abdullah Maharoof becomes district leader; Wickremesinghe named electoral organizer; Maharoof leads nomination process.
+
+🟩
+
+The party membership with the former Ceylon General Organizer of the All Ceylon General Organization, the former National Organization of the All Ceylon Public Organizer and former MP Abdullah Maharupp, who led the nomination was not given nominations, met with Ranil Wickremesinghe.
+
+After the membership of Ranil Wickremesinghe with supporters, he was appointed as the UNP's Muttur electoral organizer.
+
+In addition, Mr. Abdullah Maharup was appointed as the Trincomalee District Leader of the UNP. Ranil Wickremesinghe was also appointed as the leader of the Trincomalee District Team leader of the UNP in the next general election.
+
+◼️
+
+[Data](articles/778bd275.json)
+
+[Extended Data](ext_articles/778bd275.ext.json)
 
 ---
 
@@ -2371,27 +2393,5 @@ The heading of this article is inspired by the title of Edgar Snow’s  , “Red
 [Data](articles/139b1f89.json)
 
 [Extended Data](ext_articles/139b1f89.ext.json)
-
----
-
-### Another road closed from 2005
-
-*2024-10-05 12:19:27* · [`adalk`](https://www.ada.lk/breaking_news/2005-සිට-වසා-තිබූ-තවත්-පාරක්-අරියි/11-412316) · `si`
-
-Colombo road reopened after 19 years due to Defense Ministry orders. Vehicles now operate in one direction until another lane opens.
-
-🟩
-
-Michael roundabout from the Kollupitiya Police Station, Colombo was to be closed for security reasons in 2005.
-
-After 19 years, this road was opened for the public yesterday (04) on the instructions of the Defense Ministry.
-
-Due to the development work of the road, vehicles will be operated in one direction alone, and the other is also opened immediately after completing it.
-
-◼️
-
-[Data](articles/642e8177.json)
-
-[Extended Data](ext_articles/642e8177.ext.json)
 
 ---

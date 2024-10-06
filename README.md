@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 07:27:32**
+As of **2024-10-06 08:03:34**
 
 ## Newspaper Stats
 
-*Scraped **47,970** Articles*
+*Scraped **47,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,75 @@ dailyftlk | 3,235
 adalk | 4,429
 dailymirrorlk | 4,733
 adaderanalk | 5,648
-tamilmirrorlk | 6,464
+tamilmirrorlk | 6,465
 virakesarilk | 7,674
-adaderanasinhalalk | 8,307
+adaderanasinhalalk | 8,308
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,961 (100.0%) of 47,970 articles have been extended.
+47,965 (100.0%) of 47,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### 122 Independent Groups controlled
+
+*2024-10-06 07:12:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/122-சுயேட்சை-குழுக்கள்-கட்டுப்பணம்-செலுத்தின/175-344951) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"122 independent groups registered for 2024 Sri Lanka parliamentary elections. 36 more added yesterday. High concentration in Jaffna and Batticaloa districts."
+
+🟩
+
+The Elections Commission has announced that 122 independent groups have so far controlled for the 2024 parliamentary elections.
+
+The Commission said that 36 independent groups have been controlled yesterday.
+
+Accordingly, the large number of independent groups in Jaffna and Batticaloa districts have been controlled.
+
+In both districts, 15 independent groups have been controlled, the Elections Commission said.(a)
+
+◼️
+
+[Data](articles/a9caebe1.json)
+
+[Extended Data](ext_articles/a9caebe1.ext.json)
+
+---
+
+### Man killed in a crocodile attack
+
+*2024-10-06 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201890) · `si`
+
+A 60-year-old man was fatally attacked by a crocodile while crossing a river in Sri Lanka. The incident occurred near the Sri Purai area. The police have taken custody of the body and are investigating further.
+
+🟩
+
+A person who went to cross the Poya in Gemunupura in the Sri Purai area, has been shaken by a crocodile.
+
+The deceased has been crossed in the Morata in Ranjith Mad.
+
+Later, the deceased has seized a crocodia when he crossed the house to bring the meat at home.
+
+Police say that part of the body has been observed by the crocodile
+
+The victim is a 60 year old resident of Padaviyapura, Padavi Sri Papitiya.
+
+The body has been placed at the Anuradhapura hospital morgue and the Sri Pill Police are conducting further investigations.
+
+◼️
+
+[Data](articles/77a2c98a.json)
+
+[Extended Data](ext_articles/77a2c98a.ext.json)
+
+---
 
 ### Thundershowers at several places
 
@@ -200,6 +256,8 @@ I had not been homesick in the US – there had been enough and more programs an
 
 [Data](articles/13723a19.json)
 
+[Extended Data](ext_articles/13723a19.ext.json)
+
 ---
 
 ### Medical Humanities:an interdisciplinary approach to holistic health
@@ -213,6 +271,8 @@ Q: Could you please share the ‘story’ behind the establishment of the Depart
 ...
 
 [Data](articles/002d568a.json)
+
+[Extended Data](ext_articles/002d568a.ext.json)
 
 ---
 
@@ -2261,53 +2321,5 @@ SLT-MOBITEL eSIM eliminates the need for a physical SIM card, enabling new custo
 [Data](articles/9dbb258f.json)
 
 [Extended Data](ext_articles/9dbb258f.ext.json)
-
----
-
-### The tragedy of a student who played cricket
-
-*2024-10-05 02:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195518) · `ta`
-
-Student dies from head injury while playing cricket at school. He collided with a building while trying to catch a ball. The 18-year-old was rushed to hospital but passed away en route. Police investigating the incident.
-
-🟩
-
-A student who was playing cricket at Cambridge School, Kottagala, was killed and died in a head injury when he tried to get caught and crashed into a school building.
-
-He was playing cricket with fellow students during school break on Friday (04). The student who ran for the holding. Her head was severely injured in the head of a school building.
-
-Subsequently, the student has been admitted to the Dikoya Primary Hospital. From there, he died on the way to the Kandy Hospital.
-
-Sivakumar Nadhees (age 18), a student of Greedweston Estate, Thalawakelle, who is studying in grade 13 in the college, died.. It is noteworthy that the Dimbulla -Pathanam police are conducting investigations into the incident.
-
-◼️
-
-[Data](articles/131911df.json)
-
-[Extended Data](ext_articles/131911df.ext.json)
-
----
-
-### Yall. Public demonstration
-
-*2024-10-05 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195517) · `ta`
-
-Public protest against liquor store opening near temples in Jaffna. Demonstrators demand halt citing impact on religious sites. Government grants permit despite opposition. Case referred to local official.
-
-🟩
-
-The public staged a demonstration on Friday (4) against the liquor school to be opened in the Jaffna Water Supply area.
-
-The demonstration was held on Friday evening in front of the Kopay Divisional Secretariat, demanding the immediate stopping of a liquor barrier in the waterproofing area, but according to the newly granted permission, the government is banning the liquor station.
-
-The pilgrims who go to the temple are affected by the fact that the liquor road is to be opened near the Athiyar Hindukkalluri and Kanda Swamy Temple in Neerveli.
-
-The public handed over the matter to the Kopay Divisional Assistant Divisional Secretary Sanjeevan Radhika.
-
-◼️
-
-[Data](articles/c9b56963.json)
-
-[Extended Data](ext_articles/c9b56963.ext.json)
 
 ---

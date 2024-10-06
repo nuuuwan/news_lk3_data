@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 11:58:22**
+As of **2024-10-06 12:23:25**
 
 ## Newspaper Stats
 
-*Scraped **47,999** Articles*
+*Scraped **48,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 395
 colombotelegraphcom | 474
 bbccomsinhala | 475
 islandlk | 2,836
-economynextcom | 2,939
+economynextcom | 2,940
 dailyftlk | 3,235
 adalk | 4,432
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,999 (100.0%) of 47,999 articles have been extended.
+48,000 (100.0%) of 48,000 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -261,6 +261,28 @@ Accordingly, the government has taken the imported commodity tax of Rs. 10 to Rs
 [Data](articles/3aba4272.json)
 
 [Extended Data](ext_articles/3aba4272.ext.json)
+
+---
+
+### Sri Lanka current account US$1.1bn in surplus to June amid financial outflows
+
+*2024-10-06 09:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-account-us1-1bn-in-surplus-to-june-amid-financial-outflows-182467/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s external current account recorded a 415 million US dollar surplus in the second quarter of 2024, central bank data shows, as debt repayments and reserve collections at an appropriate interest rate, allowed outflows from through the financial account.
+
+So far in 2024, the current account is about 1.1 billion US dollars in surplus and economy is staring to recover.
+
+Sri Lanka started to record current account surpluses from around the third quarter of 2022 when the central bank stopped printing money and its deflationary policy started to show up in the balance of payments.
+
+The financial account officially (subject to errors and omissions) started to show a deficit (outflows) from the fourth quarter for 2022 as loans were repaid on a net basis, and private banks also repaid syndicated loans and later built dollar reserve to cover net open position shortfalls.
+
+The financial account is the mirror image of the current account (subject to errors and omissions).
+
+...
+
+[Data](articles/910819b4.json)
+
+[Extended Data](ext_articles/910819b4.ext.json)
 
 ---
 
@@ -2367,27 +2389,5 @@ The commemorative monuments were also made to mark the opportunities.
 [Data](articles/3ebbab5e.json)
 
 [Extended Data](ext_articles/3ebbab5e.ext.json)
-
----
-
-### Sri Lanka’s tourism revenue grows 18.9-pct in September
-
-*2024-10-05 11:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-tourism-revenue-grows-18-9-pct-in-september-182446/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s foreign exchange revenue from tourism rose to $181 million in September, rising 18.9 percent compared to the same month last year, the central bank said, quoting tourism promotion authorities.
-
-The revenue in the first nine months of 2024 have jumped 61.2 percent to $2.35 billion compared to $1.46 billion in the same period last year, the data showed.
-
-The arrivals also has picked up throughout the year with number of foreign visitors to Sri Lanka rose 9.1 percent to 122,140 in September 2024 compared to a year ago, while the arrivals have jumped 46.1 percent to 1.48 million in the first nine months of the year, compared to the same period last year.
-
-Sri Lanka expects an ambitious 2.3 million tourist arrivals in 2024 with a $5 billion revenue for the whole year.
-
-Sri Lanka’s peak tourism season starts in November and goes until early March.
-
-...
-
-[Data](articles/d8d72859.json)
-
-[Extended Data](ext_articles/d8d72859.ext.json)
 
 ---

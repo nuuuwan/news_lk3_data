@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 10:57:18**
+As of **2024-10-06 11:09:33**
 
 ## Newspaper Stats
 
-*Scraped **47,991** Articles*
+*Scraped **47,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,235
 adalk | 4,431
 dailymirrorlk | 4,733
 adaderanalk | 5,653
-tamilmirrorlk | 6,470
+tamilmirrorlk | 6,473
 virakesarilk | 7,675
 adaderanasinhalalk | 8,312
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 8,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,991 (100.0%) of 47,991 articles have been extended.
+47,991 (100.0%) of 47,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### உருளைக்கிழங்கு, வெங்காயத்தின் வரி அதிகரிப்பு
+
+*2024-10-06 10:51:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உருளைக்கிழங்கு-வெங்காயத்தின்-வரி-அதிகரிப்பு/175-344964) · `ta`
+
+உருளைக்கிழங்கு மற்றும் பெரிய வெங்காயத்திற்கான விசேட இறக்குமதி வரியை நிதி அமைச்சு அதிகரித்துள்ளது.
+
+அதன்படி உருளைக்கிழங்கு மீதான வரி கிலோ ஒன்றுக்கு 10 ரூபாவும், பெரிய வெங்காயத்திற்கான வரி கிலோவுக்கு 20 ரூபாவினாலும் அதிகரிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3cb8f7f3.json)
+
+---
+
+### வீட்டை விட்டு வெளியேறிய சிறுமிகள் பாலியல் வன்கொடுமை
+
+*2024-10-06 10:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டை-விட்டு-வெளியேறிய-சிறுமிகள்-பாலியல்-வன்கொடுமை/175-344963) · `ta`
+
+பெற்றோர்களின் தொல்லை தாங்க முடியாது, கொழும்பு சென்று வாழ வேண்டும்  என வீட்டை விட்டு வெளியேறிய 14 வயதுடைய இரு சிறுமிகளை விடுதி ஒன்றிற்கு கொண்டு சென்று பாலியல் வன்கொடுமை செய்த சென்ற தனியார் பேருந்தொன்றின் நடத்துனர் மற்றும் சாரதி சனிக்கிழமை (5) அன்று கைது செய்யப்பட்டுள்ளனர் .
+
+காத்தான்குடி பிரதேசத்தைச் சேர்ந்த 14 வயதுடைய இரு சிறுமிகளின் பெற்றோர்கள் தொடர்ச்சியாக கண்டித்து வருவதன் காரணமாக அவர்களின் தொல்லை தாங்க முடியாது வீட்டை விட்டு கொழும்புக்கு சென்று தங்கி வாழ வேண்டும் என திட்டமிட்ட சிறுமிகள் புதன்கிழமை (02) அன்று காலை பாடசாலை செல்வதாக கூறி வீட்டை விட்டு வெளியேறி மட்டக்களப்புக்கு சென்று ஓர் இடத்தில் தமது பாடசாலை உடைகளை மாற்றிக்கொண்டு கொழும்பு செல்வதற்காக பஸ் தரிப்பு நிலையத்தில் காத்திருந்துள்ளனர் .
+
+...
+
+[Data](articles/eb40e721.json)
+
+---
+
+### தண்ணீர் போத்தல்களின் விலை தொடர்பில் அறிவிப்பு
+
+*2024-10-06 10:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீர்-போத்தல்களின்-விலை-தொடர்பில்-அறிவிப்பு/175-344962) · `ta`
+
+தற்போது விற்பனை செய்யப்படும் தண்ணீர் போத்தல் தொடர்பில் மத்திய மாகாண இயற்கை கனிய நீர் உற்பத்தியாளர்கள் சங்கம் புதிய அறிவிப்பொன்றை வெளியிட்டுள்ளது.
+
+சந்தையில் தற்போது 100 ரூபாவிற்கு விற்பனை செய்யப்படும் 500 மில்லிலீற்றர் தண்ணீர் போத்தல் ஒன்றை 70 ரூபாவிற்கு விற்பனை செய்ய முடியும் என அறிவித்துள்ளது.
+
+கண்டியில் சனிக்கிழமை (5) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவித்த போதே அந்த சங்கத்தின் அழைப்பாளர் சபுமல் குமார இதனைத் தெரிவித்தார்.
+
+இதேவேளை, நாட்டில் எதிர்வரும் இரண்டு வாரங்களில் பொருட்களின் விலை குறைவடைவதற்கான வாய்ப்புள்ளதாக தகவல்கள் வெளியாகி உள்ளது.
+
+அமெரிக்க டொலருக்கு நிகரான ரூபாவின் பெறுமதி வலுவடைந்ததுள்ளதால் அதன் பலனை நுகர்வோருக்கு பெற்றுக்கொடுக்க உள்ளதாக வர்த்தக நுகர்வோர் பாதுகாப்பு அமைச்சு ( Ministry of Trade, Commerce and Food Security) அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d65270f3.json)
+
+---
 
 ### 11 children's father beat up
 
@@ -2311,79 +2359,5 @@ The incident took place today (05) around 1:30 a.m., according to police reports
 [Data](articles/3759d209.json)
 
 [Extended Data](ext_articles/3759d209.ext.json)
-
----
-
-### Israel targets Hezbollah intel HQ in Lebanon, Iran says it will not back down
-
-*2024-10-05 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/102462/israel-targets-hezbollah-intel-hq-in-lebanon-iran-says-it-will-not-back-down) · `en`
-
-Israel said it had targeted the intelligence headquarters of Hezbollah in Beirut and was assessing the damage on Friday after a series of strikes on senior figures in the group that Iran’s Supreme Leader dismissed as counterproductive.
-
-Israel has been weighing options in its response to Iran’s ballistic missile attack on Tuesday, which Iran had carried out in response to Israel’s military action in Lebanon.
-
-Oil prices have risen on the possibility of an attack on Iran’s oil facilities as Israel pursues its goals of pushing back Hezbollah militants in Lebanon and eliminating their Hamas allies in Gaza.
-
-The air attack on Beirut, part of a wider assault that has driven more than 1.2 million Lebanese from their homes, was reported to have targeted the potential successor to the leader of Iran-backed Hezbollah, Sayyed Hassan Nasrallah, killed by Israel a week ago.
-
-Hashem Safieddine’s fate was unclear and neither Israel nor Hezbollah have offered any comment.
-
-...
-
-[Data](articles/7e46c27d.json)
-
-[Extended Data](ext_articles/7e46c27d.ext.json)
-
----
-
-### Murder in Pettah
-
-*2024-10-05 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201864) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Murder in Pettah: 33-year-old from Mahiyanganaya stabbed near Colombo Racecourse at 1:30 AM on 05/2023."
-
-🟩
-
-A person who stabs a sharp weapon in the Colombo Reqmalation Road, the second crossview.
-
-The victim was a 33 year old resident of Mahiyanganaya.
-
-The incident had taken place around 1.30 am today (05).
-
-◼️
-
-[Data](articles/c4a5d3d9.json)
-
-[Extended Data](ext_articles/c4a5d3d9.ext.json)
-
----
-
-### Student death
-
-*2024-10-05 09:29:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலையில்-வழுக்கி-விழுந்து-மாணவன்-மரணம்/76-344941) · `ta`
-
-Student dies from head injury while playing cricket at school. He crashed into a building while trying to catch a ball. The 18-year-old was rushed to hospital but passed away en route. Police are investigating the incident.
-
-🟩
-
-A student who was playing cricket at the Kotagala - Cambridge School died in a head injury when he crashed into a school building when he tried to hold it.
-
-Sivakumar Nadees (age 18), a student of the Greedweston Estate, Thalawakelle, who is studying at the college, has died.
-
-While playing cricket with fellow students at the school break yesterday, a student who ran to hold the ball fell off his head and hit his head on the wall of a school building.. This caused a severe injury to his head.
-
-Subsequently, the student has been admitted to the Dikoya Primary Hospital. From there, he died on the way to the Kandy Hospital.
-
-Dimbulla - Pathana police are investigating the incident. Remble
-
-◼️
-
-[Data](articles/38155f4b.json)
-
-[Extended Data](ext_articles/38155f4b.ext.json)
 
 ---

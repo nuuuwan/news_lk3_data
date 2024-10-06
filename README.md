@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 21:58:02**
+As of **2024-10-06 22:11:34**
 
 ## Newspaper Stats
 
-*Scraped **48,061** Articles*
+*Scraped **48,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 2,940
 dailyftlk | 3,235
 adalk | 4,444
 dailymirrorlk | 4,733
-adaderanalk | 5,662
+adaderanalk | 5,663
 tamilmirrorlk | 6,489
-virakesarilk | 7,693
+virakesarilk | 7,699
 adaderanasinhalalk | 8,322
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,061 (100.0%) of 48,061 articles have been extended.
+48,064 (100.0%) of 48,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### A strike on a mosque kills 19 as Israel bombards northern Gaza and southern Lebanon
+
+*2024-10-06 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102488/a-strike-on-a-mosque-kills-19-as-israel-bombards-northern-gaza-and-southern-lebanon) · `en`
+
+An Israeli strike on a mosque in the Gaza Strip early Sunday killed at least 19 people, Palestinian officials said, as Israel intensified its bombardment of northern Gaza and southern Lebanon in a widening war with Iran-allied militant groups across the region.
+
+Israel still battles Hamas a year after the group’s Oct. 7 attack on Israel, and has opened a new front in Lebanon against Hezbollah, which has traded fire with Israel along the border since the war in Gaza began. Israel has vowed to strike Iran itself after Tehran launched a ballistic missile attack on Israel last week.
+
+The widening conflict risks further drawing in the United States, which has provided crucial military and diplomatic support to Israel. Iran-allied militant groups in Syria, Iraq and Yemen have joined in with long-distance strikes on Israel.
+
+...
+
+[Data](articles/aa191e24.json)
+
+[Extended Data](ext_articles/aa191e24.ext.json)
+
+---
+
+### TNA in Ampara District
+
+*2024-10-06 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195650) · `ta`
+
+TNA contests separately in Ampara district. Former MP MS Sumanthiran says Ampara District Committee didn't decide on conch symbol. Party will run independently for secretary position.
+
+🟩
+
+Former parliamentarian MS Sumanthiran said that the TNA is contesting separately in Ampara district.
+
+He said this while speaking to the media today.
+
+He said that his Ampara District Committee did not take a decision to contest the conch symbol and that they should contest separately for our party secretary.
+
+◼️
+
+[Data](articles/928c8e66.json)
+
+[Extended Data](ext_articles/928c8e66.ext.json)
+
+---
 
 ### Many prisoners in Sri Lanka to visit Pakistan
 
@@ -60,6 +100,40 @@ The prison given to these detainees is to be implemented in prisons in his mothe
 
 ---
 
+### India won by 6 wickets in the midst of Pakistan's heavy challenge
+
+*2024-10-06 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195649) · `ta`
+
+India wins ICC Women's R20 World Cup match against Pakistan. India scored 106/4 in 18.5 overs, with Smriti Mandhana scoring 7 runs. Jemima Rodrigues and Shafali Verma shared 43 runs. Harmanpreet Kaur and Deepti Sharma contributed 104 runs. Pakistan batted first, scoring 105/8 in 20 overs. Arundhati Reddy took 3 wickets for 19 runs. India won by 6 wickets.
+
+🟩
+
+India won the ICC Women's R20 World Cup in the Dubai International Cricket Stadium on Sunday (06) at the Dubai International Cricket Stadium.
+
+This victory has given India a great encouragement to New Zealand in its opening match for the group.
+
+However, India won the match against Pakistan, but the team for the A team continues to be fourth.
+
+The four teams - New Zealand, Australia, Pakistan and India have scored 2 points each.
+
+In response to a target of 106 runs, India lost 4 wickets in 18.5 overs in the midst of a heavy challenge.
+
+Smrithi Mandana, who was named for the action, lost the match with 7 runs without a time attack.
+
+However, Jemima Rodrigas shared 43 runs with the other opener Shabali Verma in the 2nd wicket and gave India the confidence.
+
+However, Shabali Verma lost 32 runs and Jemima Rhodrigas 23 runs and Richa Ghosh lost by 19 runs.. (80 - 4 wig.)
+
+The captain of the team, Hamanpreet Gore and Deepti Sharma, were effectively bowled out and raised the total number to 104 runs.
+
+...
+
+[Data](articles/eaf4475c.json)
+
+[Extended Data](ext_articles/eaf4475c.ext.json)
+
+---
+
 ### Death
 
 *2024-10-06 20:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டம்-விட்ட-சிறுவர்கள்-மின்சாரம்-தாக்கி-மரணம்/175-345006) · `ta`
@@ -81,6 +155,40 @@ Though the neighbors were taken to the hospital, they said they died. Remble
 [Data](articles/8087a909.json)
 
 [Extended Data](ext_articles/8087a909.ext.json)
+
+---
+
+### விண்ணைத் தொடும் தேங்காய் விலை
+
+*2024-10-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195648) · `ta`
+
+சில பிரதேசங்களில் தேங்காய் ஒன்று 180 ரூபாவிற்கு விற்பனை செய்யப்படுவதாக நுகர்வோர்கள் தெரிவித்தனர்.
+
+கடந்த காலத்தில் ஒரு தேங்காய் 90 ரூபாய் முதல் 100 ரூபாய் வரை விற்கப்பட்டது.
+
+இதேவேளை, கடந்த சில நாட்களாக வீழ்ச்சியடைந்திருந்த முட்டையின் விலை மீண்டும் அதிகரித்து வருவதாக சந்தை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+சில பகுதிகளில் முட்டையின் விலை 40 ரூபாய் வரை உயர்ந்துள்ளதாக கூறப்படுகிறது. ஆனால், சில நாட்களுக்கு முன்பு முட்டை விலை 30 ரூபாய்க்கும் குறைவாக இருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/172cd1e1.json)
+
+---
+
+### கம்பஹாவில் இணையம் மூலம் மோசடி செய்த 40  வெளிநாட்டவர்கள் கைது
+
+*2024-10-06 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195647) · `ta`
+
+கம்பஹாவில் உள்ள ஹோட்டல் மற்றும் ஹன்வெல்லவில் உள்ள தனியார் நிறுவனம் ஒன்றில் இணையம் மூலம் மோசடி செய்த 40 வெளிநாட்டவர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கைது செய்யப்பட்டவர்களில் 30 சீனர்கள், 4 இந்தியர்கள் மற்றும் 6 தாய்லாந்து பிரஜைகள் உட்பட 40 வெளிநாட்டவர்கள் ஆவர்.
+
+தடயவியல் பரிசோதனைக்காக 499 மொபைல் போன்கள், 25 மடிக்கணினிகள் மற்றும் 29 டெஸ்க்டாப் கணினிகள் காவலில் வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e8dc3822.json)
 
 ---
 
@@ -131,6 +239,32 @@ Meanwhile, the police have also taken 499 mobile phones, 25 laptops and 29 deskt
 [Data](articles/f7cc3643.json)
 
 [Extended Data](ext_articles/f7cc3643.ext.json)
+
+---
+
+### அனைத்து பொலிஸ் நிலையங்களுக்கும் பதில் பொலிஸ் மா அதிபரின் பணிப்புரை
+
+*2024-10-06 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195646) · `ta`
+
+பொதுமக்களால் சமர்ப்பிக்கப்பட்டுள்ள அனைத்து சிறு முறைப்பாடுகளையும் அடுத்த இரண்டு வாரங்களில் விசாரணை செய்து தேவையான நடவடிக்கைகளை எடுக்குமாறு அனைத்து பொலிஸ் நிலையங்களுக்கும் பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய பணிப்புரை விடுத்துள்ளார்.
+
+பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ இதனைத் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b01e80fe.json)
+
+---
+
+### பாரம்பரிய கட்சிகளை தண்டித்த வாக்காளர்கள்
+
+*2024-10-06 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195638) · `ta`
+
+இலங்கையின் தேர்தல் அரசியல் வரலாற்றில் முதற்தடவையாக வாக்காளர்கள் பாரம்பரிய கட்சிகளைப் புறக்கணித்து ஒரு சிறிய கட்சிக்கு அதிகாரத்தைக் கொடுத்துள்ளனர். அதிகளவு வாக்காளர்கள் வாக்களிக்க தகுதி பெற்ற இந்தத் தேர்தலில் வரலாற்றில் அதிகமான வேட்பாளர்கள் போட்டியிட்டனர்.  அத்துடன் கடந்த தேர்தல்களுடன் ஒப்பிடுகையில் அதிகமான  வாக்குகள் நிராகரிக்கப்பட்டுள்ளன.  எந்தவிதமான அழுத்தங்களும் இன்றி வன்முறைகள் இன்றி அமைதியாக தேர்தல் நடைபெற்றது
+
+◼️
+
+[Data](articles/40fc39b4.json)
 
 ---
 
@@ -2331,143 +2465,5 @@ Supun Dias, Assistant General Manager of HNB, praised HNB Assurance’s impressi
 [Data](articles/daf76d87.json)
 
 [Extended Data](ext_articles/daf76d87.ext.json)
-
----
-
-### Lasith Nanayakkara appointed as New CIO at NSB
-
-*2024-10-06 04:20:00* · [`islandlk`](http://island.lk/lasith-nanayakkara-appointed-as-new-cio-at-nsb/) · `en`
-
-National Savings Bank (NSB) has appointed Lasith Nanayakkara as its new Deputy General Manager – IT / Chief Information Officer (CIO), effective Oct 1, 2024. He succeeds Dr. Amal Illesinghe, who recently retired after over 17 years of dedicated service to the Bank.
-
-Nanayakkara brings over 35 years of experience in the banking and finance sector to this role. Prior to joining NSB, he served as Executive Vice President and Chief Transformation Officer at Nations Trust Bank PLC, Sri Lanka. With extensive expertise in both local and international banking, he has a strong background in digital transformation and IT modernization. His leadership is expected to enhance NSB’s technological capabilities and improve customer experiences in an increasingly digital banking environment.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/35be42f8.json)
-
-[Extended Data](ext_articles/35be42f8.ext.json)
-
----
-
-### Are men more concerned about sanitation than women?
-
-*2024-10-06 03:39:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8elyy0n5z3o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Research suggests men may prioritize personal hygiene less than women. Studies indicate men engage in riskier behaviors, including poor sanitation practices. However, cultural differences exist globally, challenging generalizations about gender-specific hygiene concerns.
-
-🟩
-
-In India, a woman in Uther Pradesh, India, a woman calls for divorce about a month after marriage, the media reported on a special bath due to the lack of bath.
-
-This person is bath only once or twice a month, and his wife has decided to leave marriage after forty days of marriage.
-
-There are social norms on sanitation. The sanitary norms change by different peoples. When sanitary behavior is handy, men find out about the research that they care more than women.
-
-Another youth who lived in a hostel in Pamankada area, Colombo, shared their meetings with us.
-
-He is known by Amila, he said that the 22-year-old in the hostel was that his friend would not take a bath often.
-
-He was only a mere mobilization and wear the same dress and wear the same clothes and wearing the same shirts.
-
-It was said that due to his room and even when he was near him. In his room, diligent clothes have been frequent.
-
-The youth said that the youth left the hostel in the face of poor hygiene and dirtyness.
-
-...
-
-[Data](articles/f8914994.json)
-
-[Extended Data](ext_articles/f8914994.ext.json)
-
----
-
-### Delma Lanka celebrates Calin Baby Soap’s SLS certification and new product launch at gala event
-
-*2024-10-06 03:30:00* · [`islandlk`](http://island.lk/delma-lanka-celebrates-calin-baby-soaps-sls-certification-and-new-product-launch-at-gala-event/) · `en`
-
-Delma Lanka marked a significant milestone on October 1st with a media event at the luxurious Shangri-La Hotel in Colombo, celebrating the SLS certification of Calin Baby Soap. The occasion, timed to coincide with World Children’s Day, was led by a distinguished panel, including founder Lelwala G Piyanandha, Managing Director Umesh Godakanda, Director Chathurika Jayasekara, Sudaraka Chirantha, National Sales Manager, President’s Counsel Dr. Harsha Cabral, and Senior Counsel Sunil Watagala. Maternal and child health consultant Shyamali Pathirage served as chairperson for the event.
-
-A vibrant gathering of media representatives from television, radio, print, and social media joined commercial partners from the Delma Lanka along with notable artists and other prominent guests, making the event a true celebration of community and achievement.
-
-...
-
-[Data](articles/b0e13d5d.json)
-
-[Extended Data](ext_articles/b0e13d5d.ext.json)
-
----
-
-### Buddhist Way to Peace and Prosperity
-
-*2024-10-06 03:08:00* · [`islandlk`](http://island.lk/buddhist-way-to-peace-and-prosperity/) · `en`
-
-Economic and social policies based on Buddhist principles were the foundation of peace and prosperity in ancient Sri Lanka. A close examination of this Buddhist foundation would be of assistance to attain, once again, the cherished goal of peace and economic prosperity.
-
-Economic and political theories before Western influence were based on two famous ancient treatises, namely, Kautilya’s Arthaśāstra and Brihaspati’s Arthaśāstra. They had one common feature, in that, under the title of ‘Arthaśātra’ both writers had written on politics and economics, leaving out the most important ingredient for any development process, i.e. the mental and spiritual development of man.
-
-...
-
-[Data](articles/f5aa7ece.json)
-
-[Extended Data](ext_articles/f5aa7ece.ext.json)
-
----
-
-### Back to Paradise
-
-*2024-10-06 03:00:00* · [`islandlk`](http://island.lk/back-to-paradise/) · `en`
-
-Fewer things are more impossible than a 45-minute layover at Doha International Airport. Disembarking takes a good 15 minutes, while the gates close 20 minutes before the next departure.
-
-When you do the math, you realise you need to have exceptionally strong, sturdy legs to get to your next terminal. And that’s without the burden of bulky bags and the fear of wondering what will happen if you miss your flight and you have to wait a couple of hours or even a day to go back home.
-
-In my case, home lay around 3,000 miles away. Not as far as San Francisco is to Doha – a gruelling 14 plus hour flight that can exhaust anyone – but far enough to make you want to go there quicker.
-
-I had not been homesick in the US – there had been enough and more programs and meetings, friends to meet and places to visit, that had kept me busy – but as I sat in San Francisco, I had felt the vaguest stirrings of wanting to go back, kick off my shoes, and just collapse on my bed.
-
-...
-
-[Data](articles/13723a19.json)
-
-[Extended Data](ext_articles/13723a19.ext.json)
-
----
-
-### Medical Humanities:an interdisciplinary approach to holistic health
-
-*2024-10-06 02:57:00* · [`islandlk`](http://island.lk/medical-humanitiesan-interdisciplinary-approach-to-holistic-health/) · `en`
-
-The Department of Medical Humanities at the University of Colombo’s Medical Faculty is another groundbreaking initiative by the institution as the pioneer of the discipline here at home and in South Asia. In an interview with the Sunday Island, Clinical Psychologist and Head of the Department of Medical Humanities, Dr. Santushi Amarasuriya elucidates on how this discipline, which is gaining momentum the world over, explores human experiences of health and illness drawing from a spectrum of other social and aesthetic branches.
-
-Q: Could you please share the ‘story’ behind the establishment of the Department of Medical Humanities at the Colombo Medical Faculty?
-
-...
-
-[Data](articles/002d568a.json)
-
-[Extended Data](ext_articles/002d568a.ext.json)
-
----
-
-### The US Secret to Staying on Top – My Talk with George Friedman
-
-*2024-10-06 02:52:00* · [`islandlk`](http://island.lk/the-us-secret-to-staying-on-top-my-talk-with-george-friedman/) · `en`
-
-Forecasting geopolitics has been George Friedman’s life’s work; a historian renowned for his foresight into global shifts. In an era of global volatility, I had the opportunity to sit down with Friedman to discuss current world affairs, focusing on major powers such as the United States, Russia, and China. Notably, this was the first time he shared his insights on Sri Lanka, exploring its future in the context of a changing global landscape. As the founder of Geopolitical Futures and former chairman of Stratfor, Friedman’s experience and knowledge provided a comprehensive view of how global powers are shifting.
-
-...
-
-[Data](articles/97ffb495.json)
-
-[Extended Data](ext_articles/97ffb495.ext.json)
 
 ---

@@ -1,36 +1,108 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 09:39:16**
+As of **2024-10-06 10:11:28**
 
 ## Newspaper Stats
 
-*Scraped **47,984** Articles*
+*Scraped **47,988** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 395
-bbccomsinhala | 474
 colombotelegraphcom | 474
+bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,939
 dailyftlk | 3,235
-adalk | 4,430
+adalk | 4,431
 dailymirrorlk | 4,733
-adaderanalk | 5,651
+adaderanalk | 5,652
 tamilmirrorlk | 6,469
-virakesarilk | 7,674
+virakesarilk | 7,675
 adaderanasinhalalk | 8,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-47,984 (100.0%) of 47,984 articles have been extended.
+47,988 (100.0%) of 47,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### Thundershowers in many parts of the country
+
+*2024-10-06 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195588) · `ta`
+
+Thunderstorms forecasted across Sri Lanka today. Heavy rain expected in several provinces. Strong winds and lightning warnings issued. Sea areas to experience turbulence due to high winds. Public advised to remain vigilant.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said that atmospheric conditions are optimal for thunderstorms in most parts of the country from this afternoon.
+
+Rain or thunderstorms can occur in most parts of the country in the afternoon or night.
+
+Rainfall is expected in the morning in Sabaragamuwa, Upper, North Western and Northern Provinces as well as in the Galle, Matara and Trincomalee districts.
+
+Heavy rains are expected to occur up to 75 mm in some parts of the North, Eastern, North Central and Uva provinces.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Rainfall or thunderstorms are expected in many parts of the sea regions from Trincomalee to Kankesanthurai, Mannar, Colombo and Galle in many parts of the sea regions in the evening or night.
+
+Winds from the southwest at speeds of 25 - 35 km / h in the sea regions.
+
+...
+
+[Data](articles/6f11b567.json)
+
+[Extended Data](ext_articles/6f11b567.ext.json)
+
+---
+
+### Acting IGP praises police conduct during Presidential Election
+
+*2024-10-06 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102478/acting-igp-praises-police-conduct-during-presidential-election) · `en`
+
+Acting Inspector General of Police (IGP) Priyantha Weerasooriya stated that the Sri Lanka Police were able to build a positive image in society through their conduct during the recent presidential election.
+
+Speaking at a function in Kalkudah yesterday (05), Weerasooriya emphasized, “The most challenging period following a political transition is often post-election violence. However, after this election, I witnessed the most peaceful post-election period during my service. This is a new culture, and we must continue to uphold it, as it greatly benefits the Sri Lanka Police.”
+
+He also expressed gratitude to the political authorities for facilitating such an environment, noting that this election demonstrated the highest efficiency of the police.
+
+“The police were able to recover from past setbacks and restore a positive image, which has been praised both locally and internationally,” he added.
+
+◼️
+
+[Data](articles/378d3230.json)
+
+[Extended Data](ext_articles/378d3230.ext.json)
+
+---
+
+### Ranil is another leadership
+
+*2024-10-06 08:49:06* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ට-තවත්-නායකත්වයක්/11-412319) · `si`
+
+Ranil Wickremesinghe proposed as UPFA leader for general election. Opposition parties joining UPFA, supporting Ranil from previous presidential race. UPFA plans to contest general election.
+
+🟩
+
+Ranil Wickremesinghe has been proposed to be appointed as the Leader of the UPFA leader to give birth to the General Election.
+
+The opposition political parties will be added to the UPFA, which supported by Ranil Wickremesinghe in the last presidential election, the party to join the UPFA.
+
+The UPFA has decided to contest the gas cylinder to the general election.
+
+◼️
+
+[Data](articles/a34fff9f.json)
+
+[Extended Data](ext_articles/a34fff9f.ext.json)
+
+---
 
 ### A terrible flooding condition in Mexico
 
@@ -443,6 +515,42 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/35be42f8.json)
 
 [Extended Data](ext_articles/35be42f8.ext.json)
+
+---
+
+### Are men more concerned about sanitation than women?
+
+*2024-10-06 03:39:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8elyy0n5z3o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Research suggests men may prioritize personal hygiene less than women. Studies indicate men engage in riskier behaviors, including poor sanitation practices. However, cultural differences exist globally, challenging generalizations about gender-specific hygiene concerns.
+
+🟩
+
+In India, a woman in Uther Pradesh, India, a woman calls for divorce about a month after marriage, the media reported on a special bath due to the lack of bath.
+
+This person is bath only once or twice a month, and his wife has decided to leave marriage after forty days of marriage.
+
+There are social norms on sanitation. The sanitary norms change by different peoples. When sanitary behavior is handy, men find out about the research that they care more than women.
+
+Another youth who lived in a hostel in Pamankada area, Colombo, shared their meetings with us.
+
+He is known by Amila, he said that the 22-year-old in the hostel was that his friend would not take a bath often.
+
+He was only a mere mobilization and wear the same dress and wear the same clothes and wearing the same shirts.
+
+It was said that due to his room and even when he was near him. In his room, diligent clothes have been frequent.
+
+The youth said that the youth left the hostel in the face of poor hygiene and dirtyness.
+
+...
+
+[Data](articles/f8914994.json)
+
+[Extended Data](ext_articles/f8914994.ext.json)
 
 ---
 
@@ -2287,95 +2395,5 @@ Sri Lanka and Australia Women's Competition will start at 3.30 pm in Sri Lanka.
 [Data](articles/ad22b541.json)
 
 [Extended Data](ext_articles/ad22b541.ext.json)
-
----
-
-### Uptick in dengue cases amid current weather conditions
-
-*2024-10-05 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102461/uptick-in-dengue-cases-amid-current-weather-conditions) · `en`
-
-The Government Health Entomology Officers’ Association has reported a significant rise in dengue cases since the end of September, attributed to prevailing weather conditions.
-
-According to Najith Sumanasena, President of the association, over 38,000 dengue cases have been reported so far.
-
-He further noted that the number of patients has increased across 20 Medical Officer of Health (MOH) divisions.
-
-◼️
-
-[Data](articles/ca0f0f09.json)
-
-[Extended Data](ext_articles/ca0f0f09.ext.json)
-
----
-
-### In some parts of the country, intermittent rainfall is likely
-
-*2024-10-05 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195520) · `ta`
-
-Intermittent rainfall forecasted for Sabaragamuwa, Western Provinces, Galle, Matara districts. Thunderstorms possible in North, East, Uva provinces. Strong winds and lightning warnings issued. Heavy rains expected in coastal areas. Southwest winds 25-35 km/h in sea regions. Turbulent seas predicted from Hambantota to Pottuvil.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said that rainfall is likely to occur in Sabaragamuwa and Western Provinces as well as the Galle and Matara districts.
-
-There is a chance of rain or thunderstorms in some parts of the North, East and Uva provinces in the afternoon or night.
-
-The public is asked to take care in the events of strong winds and lightning.
-
-Heavy rains are expected in some parts of the sea regions from Puttalam to Colombo and Galle.
-
-Rainfall or thunderstorms are expected in many parts of the sea regions from Mannar to Kankesanthurai in the evening or night.
-
-Winds from the southwest at 25 - 35 km per hour in the sea regions.
-
-From the beginning of the Kankesanthurai to Mannar, the sea will increase the wind at 45 - 50 km per hour in the sea regions from Hambantota to Pottuvil.. In such cases, these sea regions are somewhat turbulent.
-
-But when the thunderstorm is raining, strong winds are blowing and the sea regions are temporarily in a very turbulent.
-
-◼️
-
-[Data](articles/fdd83486.json)
-
-[Extended Data](ext_articles/fdd83486.ext.json)
-
----
-
-### Dengue strengthens
-
-*2024-10-05 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201862) · `si`
-
-Dengue cases surge: 38,000+ patients reported, 20 Health Medical Officerial Secretariats see increase due to current weather conditions.
-
-🟩
-
-The Health Entomology Officers' Association (Health Entomology) Association says that with the existing weather conditions, the dengue patients have shown a growth.
-
-Chairman Najith Sumanasena stated that over 38,000 dengue patients have been reported.
-
-He said that the number of patients in 20 Health Medical Officerial Secretariats has increased.
-
-◼️
-
-[Data](articles/45963862.json)
-
-[Extended Data](ext_articles/45963862.ext.json)
-
----
-
-### Defence Chiefs pay traditional courtesy call on President Anura Kumara
-
-*2024-10-05 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102460/defence-chiefs-pay-traditional-courtesy-call-on-president-anura-kumara) · `en`
-
-Following the appointment as the new President, the Chiefs of Defence Forces paid a traditional courtesy call on President Anura Kumara Dissanayake yesterday (04) at the Presidential Secretariat, the President’s Media Division (PMD) stated.
-
-Accordingly, Chief of Defence Staff General Shavendra Silva, Army Commander Lieutenant General Vikum Liyanage, Air Force Commander Air Marshal Udeni Rajapaksa, and Navy Commander Vice Admiral Priyantha Perera met with the President and engaged in a cordial conversation.
-
-To mark the occasion, commemorative tokens were also presented, according to the PMD.
-
-◼️
-
-[Data](articles/263cbeda.json)
-
-[Extended Data](ext_articles/263cbeda.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 18:42:05**
+As of **2024-10-06 18:57:56**
 
 ## Newspaper Stats
 
-*Scraped **48,046** Articles*
+*Scraped **48,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,440
+adalk | 4,441
 dailymirrorlk | 4,733
 adaderanalk | 5,661
 tamilmirrorlk | 6,486
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,046 (100.0%) of 48,046 articles have been extended.
+48,047 (100.0%) of 48,047 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -205,6 +205,34 @@ It is not the intention of this passage to examine who the true heirs of the Tam
 [Data](articles/c350ded0.json)
 
 [Extended Data](ext_articles/c350ded0.ext.json)
+
+---
+
+### The Easter victims are justice and justice
+
+*2024-10-06 17:10:14* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-වින්දිතයන්ට-සාධාරණය-හා-යුක්තිය-ඉටුකරනවා/11-412329) · `si`
+
+Sri Lanka President Anura Kumara Dissanayake addresses Easter victims' families, vows justice and transparency in investigations.
+
+🟩
+
+President Anura Kumara Dissanayake said that the environment is expedited and ensures that such tragedy will not be expedited in the country.
+
+President Anura Kumara Dissanayake made this statement participating at a discussion with the families of the Passover and the families of the deceased.
+
+The President visited the Saint Sebastian St. Sebastian Palayapitiya this morning, the President visited the monument established in the land to commemorate the crowd.
+
+President Anura Kumara Dissanayake had then joined a discussion with the injured and the families of the Passover and died.
+
+The President stressed that the largest tragedy in the country was in recent years on April 21, 2019, that the tragedy would not be allowed to delete the tragedy.
+
+President Anura Kumara Dissanayake said that he believes that the people of the last presidential election includes the prospect of justice and justice prospect of the Passover attack.
+
+...
+
+[Data](articles/29a69bf0.json)
+
+[Extended Data](ext_articles/29a69bf0.ext.json)
 
 ---
 
@@ -2423,35 +2451,5 @@ The Minister of Foreign Affairs of India has also discussed with the President o
 [Data](articles/eab5cc29.json)
 
 [Extended Data](ext_articles/eab5cc29.ext.json)
-
----
-
-### Police notice of the five scholarship question paper
-
-*2024-10-05 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201886) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Five Scholarship Exam: Police investigate leaked questions. Answer sheets halted. CID probes ongoing. HRC focuses on rights violations. Police inquiries continue regarding exam paper applications."
-
-🟩
-
-If there is evidence that other problems have been exited in addition to the three issues of the Five Scholarship Examination, the five scholarship examination has been exited to leave.
-
-It states that the information is handed over to the nearest police station before the next 7th.
-
-The Grade 05 Scholarship Examination Question Sheet has been temporarily stopped using its answer sheets in the face of the crisis.
-
-The Criminal Investigation Department has also commenced an inquiry into the matter and the investigation of the Human Rights Commission of Sri Lanka had been focused on investigations.
-
-Investigations have been made by the investigation by the police in connection with the application of the question papers of the Grade 05 Scholarship Examination.
-
-◼️
-
-[Data](articles/da248e00.json)
-
-[Extended Data](ext_articles/da248e00.ext.json)
 
 ---

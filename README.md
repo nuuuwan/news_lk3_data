@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 15:08:15**
+As of **2024-10-06 15:23:01**
 
 ## Newspaper Stats
 
-*Scraped **48,026** Articles*
+*Scraped **48,027** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ dailymirrorlk | 4,733
 adaderanalk | 5,659
 tamilmirrorlk | 6,482
 virakesarilk | 7,682
-adaderanasinhalalk | 8,315
+adaderanasinhalalk | 8,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,026 (100.0%) of 48,026 articles have been extended.
+48,027 (100.0%) of 48,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### The bodies of the dead couple found in a house
+
+*2024-10-06 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201898) · `si`
+
+Dead couple found in house: Police investigate murder in Welipenna. Bodies discovered during inquiry led by Kalutara Division Criminal Investigations Officers.
+
+🟩
+
+The Welipenna police stated that two bodies of a couple of a resident of Welipenna were arrested in suspicion of a house in Welipenna.
+
+Kalutara Division Criminal Investigations Officers conducting an inquiry into the incident.
+
+◼️
+
+[Data](articles/078c636d.json)
+
+[Extended Data](ext_articles/078c636d.ext.json)
+
+---
 
 ### Samasti - Traditional Tamil Homeland - International mechanism for war crimes - JVP -British Tamil Congress opposed peace efforts
 
@@ -2435,31 +2455,5 @@ Subsequently, police said that a raid carried out at the suspect had seized a fo
 [Data](articles/e01c0a18.json)
 
 [Extended Data](ext_articles/e01c0a18.ext.json)
-
----
-
-### Three persons including the boss of the Department of Transport
-
-*2024-10-05 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201877) · `si`
-
-Colombo Magistrate's Court remands three persons including Transport Department boss over bribery allegations. Deputy Commissioner, clerk, broker implicated. Bribery Commission seeks further investigation. Suspects remanded until 8th.
-
-🟩
-
-The Colombo Magistrate's Court has been remanded to be remanded to the owner of three buses to be handed over to the owner of three buses.
-
-Among those who were remanded, the Deputy Commissioner of the Transfer Division of the Department, its subject clerk and broker include.
-
-The bribery Commission filed the court that the bribe of Rs.
-
-The Bribery Commission requested the court to be further investigated and the suspects were remanded.
-
-After considering the following, the Magistrate ordered that the suspects were remanded till the 8th.
-
-◼️
-
-[Data](articles/3492d226.json)
-
-[Extended Data](ext_articles/3492d226.ext.json)
 
 ---

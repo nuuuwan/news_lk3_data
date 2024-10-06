@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-06 19:38:37**
+As of **2024-10-06 19:56:48**
 
 ## Newspaper Stats
 
-*Scraped **48,054** Articles*
+*Scraped **48,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 475
 islandlk | 2,836
 economynextcom | 2,940
 dailyftlk | 3,235
-adalk | 4,441
+adalk | 4,442
 dailymirrorlk | 4,733
-adaderanalk | 5,661
+adaderanalk | 5,662
 tamilmirrorlk | 6,488
 virakesarilk | 7,693
 adaderanasinhalalk | 8,320
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,320
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,054 (100.0%) of 48,054 articles have been extended.
+48,056 (100.0%) of 48,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-06 (Sunday)
+
+### 40 foreigners involved in online financial scams arrested
+
+*2024-10-06 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102487/40-foreigners-involved-in-online-financial-scams-arrested) · `en`
+
+Police have arrested 40 foreigners staying in Sri Lanka who were involved in online financial scams this morning (06).
+
+Police Media Division said that the arrested group of foreigners include 30 Chinese, 4 Indian and 6 Thai nationals.
+
+The arrests have been carried out in a hotel in Gampaha and a private institution in Hanwella, according to police.
+
+Meanwhile, the police have also taken 499 mobile phones, 25 laptops and 29 desktop computers into custody for forensic examination.
+
+◼️
+
+[Data](articles/f7cc3643.json)
+
+[Extended Data](ext_articles/f7cc3643.ext.json)
+
+---
 
 ### Time is over ... Only four submissions
 
@@ -279,6 +299,32 @@ Hanwella police are conducting further investigations into the incident as the w
 [Data](articles/2b39a671.json)
 
 [Extended Data](ext_articles/2b39a671.ext.json)
+
+---
+
+### 'I'm tired'
+
+*2024-10-06 17:21:38* · [`adalk`](https://www.ada.lk/breaking_news/’මට-මාර-මහන්සියි’/11-412330) · `si`
+
+"I'm tired" summarizes the main point of the text, which is that someone named Piyumi Hansamali is involved in a legal issue related to asset investigation and drug trafficking. The person mentioned is reluctant to discuss details due to ongoing legal proceedings.
+
+🟩
+
+Asset Investigation Division says that public modernistic Piyumi Hansamali owned by Piyumi Hansamali has been selected for nearly 9 hours.
+
+Lasting cargo managed by the Drug Trafficking Karu, who was arrested in the Garage of Piyumi Hansalai, who was arrested in the Garage of the Nawala, who was arrested in the Garage of Piyumi Hansay, who were arrested by the Drug Trafficking of Rs.Were taken into custody.
+
+It was revealed that the vehicle was purchased by Piyumi Hansali in the investigation of the illegal assets division.
+
+She was summoned to the Undergarrant Asset Division regarding the manner in which Piyumi Hansamali earned the car and earn the skin.
+
+At around 9 am, she visited the UPFA to the Investigation Division (Piyumi arrived at about 6 pm) and said: "I can't talk about this due to the trial in court.Tired. When the case is run, you'll make a statement about this. "
+
+◼️
+
+[Data](articles/3f5b46a9.json)
+
+[Extended Data](ext_articles/3f5b46a9.ext.json)
 
 ---
 
@@ -2367,65 +2413,5 @@ The Department of Meteorology has predicted that temporary winds may blow in the
 [Data](articles/84287b37.json)
 
 [Extended Data](ext_articles/84287b37.ext.json)
-
----
-
-### The President blessed the Maha Nayaka Thera of the Ramanya Peetha
-
-*2024-10-06 01:31:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமண்ய-பீடத்தின்-மகா-நாயக்க-தேரரிடம்-ஆசி-பெற்றார்-ஜனாதிபதி/175-344949) · `ta`
-
-President Anura Kumara Dissanayake visits Ramanya Faculty, meets Maha Nayaka Thera, receives blessings from Maha Sangha. Discusses economic and political issues. Maha Sangha requests appointments for ambassadors, governors, and ministry secretaries.
-
-🟩
-
-President Anura Kumara Dissanayake visited the Ramanya Faculty of Narahenpita yesterday morning. Makulaway met Wimalanayaka Thera and blessed.
-
-The Maha Sangha led by the Anunayaka Thera and the Registrars participated in the event and recited the Seth Brith and bless the President.
-
-Subsequently, the President discussed a short time to address the current economic political situation to the Maha Sangha.
-
-When appointing ambassadors, the Maha Sangha asked the president to appoint those who could represent the country abroad and to appoint those who were responsible for the appointment of governors.
-
-They also urged the appointment of those appropriate to the post of Secretary of the Ministries. (A)
-
-◼️
-
-[Data](articles/4285b024.json)
-
-[Extended Data](ext_articles/4285b024.ext.json)
-
----
-
-### 2024-10-05 (Saturday)
-
-### England won by 21 runs
-
-*2024-10-05 23:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195587) · `ta`
-
-England won by 21 runs against Bangladesh in the ICC Women's T20 World Cup. They batted first, scoring 118/7 in 20 overs. Bangladesh replied with 97/7, led by Sopna Mostari's 44. England's Denny Viet Haj top-scored with 41.
-
-🟩
-
-England finally faced a small challenge to Bangladesh at the ICC Women's T20 World Cup for the B Group held on Saturday (05) at the Sharjah Cricket Stadium of the United Arab Emirates.
-
-In the history of the Women's World Cup, England won by retaining the lowest number of the opposition to the opposition.
-
-The bowling of the pitch, which favored the spin, ensured that the game of the game did not slip from England.
-
-England decided to bat first and scored 118 runs for the loss of 7 wickets in 20 overs.
-
-In the six -year -old matches so far, no other team, besides New Zealand, did not reach 120 runs.
-
-Maya Boucher and Deni Viet Haj shared 48 runs and made England the best start.
-
-But after that, the speed of the speed was low.. England lost only 3 wickets in 12 overs and scored 76 runs.
-
-But then, in the midst of Bangladesh's challenging bowling, England lost 4 wickets in the last 8 overs and scored 42 runs.
-
-...
-
-[Data](articles/cd485e32.json)
-
-[Extended Data](ext_articles/cd485e32.ext.json)
 
 ---

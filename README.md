@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 12:57:27**
+As of **2024-10-07 13:08:25**
 
 ## Newspaper Stats
 
-*Scraped **48,151** Articles*
+*Scraped **48,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 2,944
 dailyftlk | 3,247
 adalk | 4,452
 dailymirrorlk | 4,733
-adaderanalk | 5,674
+adaderanalk | 5,676
 tamilmirrorlk | 6,508
-virakesarilk | 7,701
+virakesarilk | 7,709
 adaderanasinhalalk | 8,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,151 (100.0%) of 48,151 articles have been extended.
+48,151 (100.0%) of 48,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### World Bank signs additional $200M to support Sri Lanka’s economic reforms
+
+*2024-10-07 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102503/world-bank-signs-additional-200m-to-support-sri-lankas-economic-reforms) · `en`
+
+The World Bank and the Government of Sri Lanka today signed the Second Resilience, Stability, and Economic Turnaround (RESET) Development Policy Operation (DPO) for $200 million. This is the second operation in a two-part series that began in 2022. The first operation, totaling $500 million, was disbursed in June and December 2023.
+
+The Second RESET DPO aims to support reforms that improve economic governance, enhance growth and competitiveness, and protect the poor and vulnerable, helping to build Sri Lanka’s resilience and fostering an equitable economy.
+
+...
+
+[Data](articles/45d8bfd8.json)
+
+---
+
+### NIE Director and school teacher further remanded over scholarship exam paper ‘leak’
+
+*2024-10-07 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102502/nie-director-and-school-teacher-further-remanded-over-scholarship-exam-paper-leak) · `en`
+
+The Director of the Planning Division of the National Institute of Education (NIE) in Maharagama and the school teacher, who were arrested by the Criminal Investigations Department (CID) over the Grade 5 scholarship examination question paper issue, have been ordered to be remanded until October 22.
+
+This order was issued after the arrested 58-year-old NIE Director, who was a member of the committee which prepared the 2024 Grade 05 Scholarship Examination paper, and the 49-year-old teacher who had been conducting tuition classes, were produced before the Kaduwela Magistrate’s Court, Ada Derana reporter said.
+
+On September 20, an investigation was launched by the Department of Examinations after it was alleged that a question paper from the exam had been leaked. Later, the initial investigation report has been handed over to the Criminal Investigation Department (CID), which is currently conducting further inquiries.
+
+...
+
+[Data](articles/0e40325f.json)
+
+---
+
+### காட்டு யானை தாக்கி வேன் சாரதி உயிரிழப்பு
+
+*2024-10-07 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195667) · `ta`
+
+பொலன்னறுவை கிரித்தல - பக்கமுன பிரதான வீதியில் சோமியேல் பகுதியில் பயணித்த வேன் ஒன்றை காட்டு யானை தாக்கியதில் வேன் சாரதி உயிரிழந்துள்ளதாக பக்கமுன பொலிஸார் தெரிவித்துள்ளனர்.
+
+கிரித்தல - பக்கமுன பிரதான வீதியில் சோமியேல் பகுதியில் காட்டு யானை ஒன்று வீதியை கடக்க முற்பட்ட போது அவ்வழியாக பயணித்த வேன் ஒன்று காட்டு யானை மீது மோதியுள்ளது.
+
+பின்னர், இந்த காட்டு யானையானது குறித்த வேனை தாக்கியுள்ள நிலையில் வேனானது அருகில் உள்ள ஆற்றில் கவிழ்ந்து வீழ்ந்துள்ளது.
+
+இதன்போது, வேனில் சாரதி மாத்திரமே இருந்துள்ளதாகவும் அவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+சுற்றுலாவிற்குச் சென்ற சிலரை வீட்டில் இறக்கி விட்டு மீண்டும் வீடு நோக்கிப் பயணித்த வேன் ஒன்றே தாக்குதலுக்குள்ளாகியுள்ளது.
+
+◼️
+
+[Data](articles/058483e1.json)
+
+---
 
 ### SLC confirms Sanath Jayasuriya as national team’s head coach
 
@@ -143,6 +193,56 @@ Sanath Jayasuriya was the acting coach for the tournament.
 [Data](articles/2ce60bff.json)
 
 [Extended Data](ext_articles/2ce60bff.ext.json)
+
+---
+
+### மின்சாரம் தாக்கி ஆசிரியை உயிரிழப்பு!
+
+*2024-10-07 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195663) · `ta`
+
+பெலியத்தை, தெத்துவாவெல தம்பேஆர பகுதியில் மின்சாரம் தாக்கி ஓய்வுபெற்ற பாடசாலை ஆசிரியை ஒருவர் உயிரிழந்துள்ளதாக பெலியத்தை பொலிஸார் தெரிவித்தனர்.
+
+இவர் தனது காணிக்குச் சென்று மீண்டும் வீடு நோக்கி சென்றுகொண்டிருக்கும் போது மற்றுமொரு காணியில் பன்றிகளை வேட்டையாடுவதற்காக பொருத்தப்பட்டிருந்த மின்கம்பியில் சிக்கி மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f11d875a.json)
+
+---
+
+### மீரிகமவில் தொலைபேசி கோபுரத்தில் மின் உபகரணங்கள் திருட்டு ; சந்தேக நபர் கைது
+
+*2024-10-07 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195660) · `ta`
+
+மீரிகம ரயில் நிலையத்திற்கு அருகில் உள்ள தொலைபேசி கோபுரத்தில் இருந்து மின் உபகரணங்களை திருடியதாக கூறப்படும் சந்தேக நபர்  ஒருவர் நேற்று (06) ஞாயிற்றுக்கிழமை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் வெயாங்கொடை பிரதேசத்தை சேர்ந்த 30 வயதுடையவர் ஆவார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 457 அடி நீளமுடைய மின் கம்பிகள் மற்றும் 40 கிலோ உறுக்கிய செம்புகள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+சந்தே நபர் , மீரிகம, நால்ல, தொம்பே, அத்தனகல்ல, பல்லேவெல, நிட்டம்புவ, கம்பஹா, வீரகுல ஆகிய பிரதேசங்களில் உள்ள தொலைபேசி கோபுரங்களில் இருந்து மின் உபகரணங்களை திருடியுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/bfc57c9d.json)
+
+---
+
+### கொழும்பில் அதிகளவான மழைவீழ்ச்சி பதிவு
+
+*2024-10-07 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195666) · `ta`
+
+ஞாயிற்றுக்கிழமை (06) காலை 08.30 மணி முதல் இன்று (07) காலை 07.00 மணி வரையான 24 மணித்தியாலங்களில் கொழும்பு மாவட்டத்தில் அதிகளவான மழைவீழ்ச்சி பதிவாகியுள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இதேவேளை, களுத்துறை மாவட்டத்தில் வலல்லாவிட்ட (112.5 மி.மீ) மற்றும் ஹொரணை (111.5 மி.மீ) ஆகிய பகுதிகளிலும், காலி மாவட்டத்தில் நெலுவ (109.5 மி.மீ) மற்றும் மாத்தறை மாவட்டத்தில் களுபோவிட்டியான (84.0 மி.மீ) ஆகிய பகுதிகளிலும் அதிகளவான மழைவீழ்ச்சி பதிவாகியுள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அயன அயல் ஒருங்கல் வலயமானது நாட்டின் வானிலையில் தாக்கத்தை ஏற்படுத்துகின்றது. இதனால் நாட்டின் பெரும்பாலான பகுதிகளில் பிற்பகல் அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என சிரேஸ்ட  வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் தெரிவித்துள்ளார்.
+
+மேலும், சில இடங்களில் 100 மில்லி மீற்றரிலும்  கூடிய பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/3c826683.json)
 
 ---
 
@@ -444,6 +544,44 @@ The Sri Lanka PA (SLPP), which has a majority in the present parliament, has dec
 
 ---
 
+### கொழும்பில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு பெண்ணொருவர் கொலை
+
+*2024-10-07 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195655) · `ta`
+
+கொழும்பு , வாழைத்தோட்டம், டெக்னிக்கல் சந்தி பகுதியில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு பெண் ஒருவர் கொலை செய்யப்பட்டுள்ளதாக வாழைத்தோட்டம் பொலிஸார் தெரிவித்தனர்.
+
+கொலை செய்யப்பட்ட பெண் 32 வயது மதிக்கத்தக்கவர் என்பதுடன் இவர் தொடர்பில் இதுவரை எந்த தகவல்களும் கிடைக்கவில்லை என பொலிஸார் தெரிவித்தனர்.
+
+கொலை செய்யப்பட்ட பெண்ணுக்கும் மற்றுமொரு நபருக்கும் இடையில் ஏற்பட்ட தனிப்பட்ட தகராறு காரணமாக இந்த தாக்குதல் இடம்பெற்றுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+இதனையடுத்து, காயமடைந்த பெண் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a30c3ea5.json)
+
+---
+
+### பாகிஸ்தான் கராச்சி விமான நிலையத்தில் வெடிப்புச் சம்பவம் ; இரு சீனர்கள் பலி
+
+*2024-10-07 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195659) · `ta`
+
+பாகிஸ்தானின் சிந்து மகாண தலைநகரான கராச்சியில் மர்ம பொருள் ஒன்று பயங்கர சத்தத்துடன் வெடித்துள்ளது. ஜின்னா சர்வதேச விமான நிலையம் அருகே இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+கராச்சி விமான நிலையத்தை சுற்றியுள்ள இடங்கள் பாதுகாப்பு வளையத்தின் கீழ் கொண்டு வரப்பட்டுள்ளது. விமான நிலையத்தின் அனைத்து வாயில்களும் மூடப்பட்டுள்ளது.
+
+வெடிப்பு சம்பவத்தை அடுத்து அப்பகுதியில் சில கார்களும் தீ பிடித்து எரிந்தன. விரைந்து வந்த தீ அணைப்பு வாகனங்கள் தீயை கட்டுப்படுத்தியுள்ளன.
+
+இது ஒரு  "பயங்கரவாதத் தாக்குதல்". சிந்து மாகாணத்தில் மின் திட்டத்தில் பணிபுரியும் சீன பொறியாளர்களை குறிவைத்து இந்த வெடிப்புச் சம்பவம் நிகழ்ந்தப்பட்டுள்ளதாக பாகிஸ்தானில் உள்ள சீனத் தூதரகம் தெரிவித்துள்ளது.
+
+அந்த மாகாணத்தின் உள்துறை அமைச்சர் சியா உல் ஹசன் இது வெளிநாட்டினரைக் குறிவைத்து நடத்தப்பட்ட தாக்குதல் என்று குறிப்பிட்டுள்ளார். மேலும், பாகிஸ்தானில் உள்ள சீனர்கள் மீது குறிவைத்து நடத்தப்பட்டத் தாக்குதல் என்றும் அதிகாரிகள் தரப்பில் கூறப்பட்டது.
+
+◼️
+
+[Data](articles/e840800d.json)
+
+---
+
 ### Easter attacks: Senior DIG Nilantha Jayawardena appears before SC
 
 *2024-10-07 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102495/easter-attacks-senior-dig-nilantha-jayawardena-appears-before-sc) · `en`
@@ -459,6 +597,26 @@ The Supreme Court ordered former President Sirisena to pay Rs. 100 million in co
 [Data](articles/4f13e536.json)
 
 [Extended Data](ext_articles/4f13e536.ext.json)
+
+---
+
+### போதைப்பொருளுடன் தொலைக்காட்சி நாடக நடிகர் கைது
+
+*2024-10-07 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195656) · `ta`
+
+ஐஸ் போதைப்பொருளை தம்வசம் வைத்திருந்த தொலைக்காட்சி நாடக நடிகர் ஒருவர் பொலிஸாருக்கு 10 இலட்சம்  ரூபாய் இலஞ்சம் வழங்கி தப்பிச் செல்ல முற்பட்ட வேளை தனமல்வில பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபர்  வெல்லவாய நீதவான் முன்னிலையில் ஆஜர்படுத்தப்பட்டு நீதிமன்ற உத்தரவின் பேரில் ஒக்டோபர் 11 ஆம் திகதி வரை மேலதிக விசாரணைகளுக்காக விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+சந்தேக நபர் தன்னை கைது செய்யாமல் இருக்க  தனமல்வில தலைமை பொலிஸ் நிலைய பொறுப்பதிகாரி  டி.எம்.பி பண்டாரவுக்கு 10 இலட்சம்  வழங்க முற்பட்டுள்ளார்.
+
+இந்நிலையில், தலைமை பொலிஸ் நிலைய பொறுப்பதிகாரி வழங்கிய தகவலின் பேரில் பொலிஸ் அதிகாரி  குழு ஒன்று பலஹருவ பகுதியில் சுற்றிவளைப்பை மேற்கொண்ட போது 10,300 கிராம் ஐஸ் போதைப்பொருடன் சந்தேக நபரை கைது செய்துள்ளது.
+
+இதேவேளை, தலைமன்னார் பகுதியில் 40 மில்லியன் ரூபா பெறுமதியான  ஐஸ் போதைப்பொருள் விற்பனையில் ஈடுப்பட்டமை தொடர்பில் சந்தேக நபருக்கு  எதிரான வழக்கு நிலுவையில் உள்ளதாகவும், அவருக்கு எதிரான சட்டவிரோத சொத்துக்கள் தொடர்பில் விசாரணைகள் நடைபெற்று வருவதாகவும் விசாரணைகளில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/43bbc177.json)
 
 ---
 
@@ -627,6 +785,28 @@ Traffic police had made changes to traffic to keep the general public and motori
 [Data](articles/c5ebc344.json)
 
 [Extended Data](ext_articles/c5ebc344.ext.json)
+
+---
+
+### சில பகுதிகளில் 100 மில்லி மீற்றருக்கும் அதிகமான பலத்த மழை பெய்யும்
+
+*2024-10-07 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195654) · `ta`
+
+அயன அயல் ஒருங்கல் வலயமானது நாட்டின் வானிலையில் தாக்கத்தை ஏற்படுத்துகின்றது. இதனால் நாட்டின் பெரும்பாலான பகுதிகளில் பிற்பகல் அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என சிரேஸ்ட  வானிலை அதிகாரி கலாநிதி மொஹமட் சாலிஹீன் தெரிவித்துள்ளார்.
+
+சில இடங்களில் 100 மில்லி மீற்றரிலும்  கூடிய பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+சப்ரகமுவ, மேல் மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன் காலி, மாத்தறை மன்னார் மற்றும் முல்லைத்தீவு மாவட்டங்களிலும் காலை வேளையிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+பலத்த காற்றும் மின்னல் தாக்கங்களும் ஏற்படக்கூடிய சந்தர்ப்பங்களில் பொதுமக்கள் அவதானத்துடன் செயற்படுமாறு கேட்டுக்கொள்ளப்படுகின்றனர்.
+
+நாட்டை சூழ உள்ள கடல் பிராந்தியங்களின் பல இடங்களில் பிற்பகல் அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+திருகோணமலை தொடக்கம் காங்கேசன்துறை, மன்னார், கொழும்பு, காலி ஊடாக ஹம்பாந்தோட்டை வரையான கடல் பிராந்தியங்களின் பல இடங்களில் காலை வேளையிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/359cbe54.json)
 
 ---
 
@@ -2007,297 +2187,5 @@ This was communicated by Police Spokesman DIG Nihal Thalduwa today (06).
 [Data](articles/c04870b8.json)
 
 [Extended Data](ext_articles/c04870b8.ext.json)
-
----
-
-### Traditional political hypocrisy is not on our way
-
-*2024-10-06 18:24:48* · [`adalk`](https://www.ada.lk/breaking_news/සාම්ප්‍රදායික-දේශපාලන-කුහකකම-අපේ-ගමනේ-නෑ/11-412336) · `si`
-
-Here's a 200-character summary:
-
-
-
-Opposition Leader Sajith Premadasa emphasizes country development over political games. He seeks foreign aid, increased Indian tourism, and support for manufacturing and IT industries. Rejects traditional political hypocrisy, focusing on national progress instead of personal interests.
-
-🟩
-
-Leader of the Opposition Leader Sajith Premadasa said that although there is a politically downturn, the country should be first put in place.
-
-He was speaking at a meeting with the party members of the people of the people in Homagama.
-
-The Opposition Leader Sajith Premadasa said so.
-
-"We engage in these political movements to win this democratic journey over the blessings of the people. Build our country. Through this politics, we intend to defend the country and protect the country and protect the people in our country, protecting the citizenship, women's generation and protecting the citizen community, protecting the citizen communityTo create.
-
-I found the Foreign Minister of India. Mr. Dr. Jeyzankar. When I met it, I thanked him for the biggest aid from the bank's bankrupt and financial strength as a single country.I suggested that we support our country more than ever before. I made a request to help our country more and more.
-
-...
-
-[Data](articles/b79e74ff.json)
-
-[Extended Data](ext_articles/b79e74ff.ext.json)
-
----
-
-### Suresh Salai retires early
-
-*2024-10-06 18:17:36* · [`adalk`](https://www.ada.lk/breaking_news/සුරේෂ්-සලෙයි-කලින්ම-විශ්‍රාම-යයි/11-412335) · `si`
-
-Suresh Salai retires early; DIG Dhammika Priyantha named new SIS director. Former Major General Suresh Eley replaces him post-retirement. Suresh Salai's planned December retirement accelerated.
-
-🟩
-
-DIG Dhammika Priyantha has been appointed as the new director of State Intelligence Service (SIS).
-
-The appointment of former State Intelligence Service Major General Suresh Eley has been appointed after retirement.
-
-However, Suresh Elections were to be retired in December, who was coming.
-
-◼️
-
-[Data](articles/47d89e3b.json)
-
-[Extended Data](ext_articles/47d89e3b.ext.json)
-
----
-
-### Solution to the Ministry of Agriculture to protect the egg industry
-
-*2024-10-06 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201901) · `si`
-
-Ministry of Agriculture addresses egg industry concerns:
-
-
-
-1. Egg prices not increasing due to cost control measures.
-
-
-
-2. Secretary MP. Nishantha Wickremasinghe explains:
-
-
-
-   - Reducing chicken feed costs
-
-   - Addressing high migrant worker wages
-
-   - Working on equipment pricing issues
-
-
-
-3. Impact on egg prices:
-
-   
-
-   - Current market price: Rs 36
-
-   - Potential reduction: Rs 29-30
-
-
-
-4. Factors affecting egg prices:
-
-   
-
-   - Chicken feed costs (80% of expenses)
-
-   - Maize price fluctuations
-
-🟩
-
-The Ministry of Agriculture points out that the price of an egg is not running out of Rs.
-
-Secretary to the Ministry MP. Nishantha Wickremasinghe said this at a press conference held today (06).
-
-He said he was carrying out the reduction of the cost of chicken. As soon as the cost of reducing the cost, the price can be issued to the market at a price.
-
-"Eat 33 of 33 rupees costs. Chicken is most of this expense. About 80% depend on the migrant prices. There is some problemity to determine the prices of the equipment. We are working these days to solve that. Anyway affects the chicken if there was no egg at 36 rupees in the market. There are 165 causes of chicken, especially the cost of maize. It can be reduced like 140. After the purpose of doing so, the egg's prices of the egg prices of Rs 29 and 30 rupees. "
-
-◼️
-
-[Data](articles/ef638e98.json)
-
-[Extended Data](ext_articles/ef638e98.ext.json)
-
----
-
-### The poult is allied
-
-*2024-10-06 18:01:43* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-සන්ධානගත-වෙයි/11-412334) · `si`
-
-Sri Lanka General Election: Poult allied, no new alliances formed. Nomination process ongoing, interviews conducted.
-
-🟩
-
-The Sri Lanka General Pupaker's front stated that the current general election is allied at the upcoming general election.
-
-The front states that there is no hope of creating new alliances to increase their party representatives for Parliament.
-
-Accordingly, the nomination of the general election will take place these days and nominations will be handed over to all districts in the coming days.
-
-Interviews for nominations for the general election were held at the party office in Nelum Mawatha, Battaramulla yesterday (06).
-
-◼️
-
-[Data](articles/649a395a.json)
-
-[Extended Data](ext_articles/649a395a.ext.json)
-
----
-
-### Rs. Workshop on Water
-
-*2024-10-06 17:53:33* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියනයක්-වතුරේ-ගිය-වැඩමුළුව/11-412333) · `si`
-
-Audit report reveals excessive spending on children's book selection. Educational Publications Department incurred Rs. 5,759,018 on unsuitable manuscripts. 228,950 books printed in Sinhala and Tamil. Expenditure deemed futile due to poor quality content.
-
-🟩
-
-Implementation of a Children's Book (1,089,546) to be spent on the selection of a Children's Book of Workshops for the selection of a Children's Book (1,08966).A new audit report released by the Audit Office is stated.
-
-The Audit Report states that the cost of the selection of a children's book to be used by a large sum of money has become futile expenditure.
-
-The Department of Educational Publications had decided that the 64 manuscript was not suitable for printing or a copy of the 64 manuscripts surveyed.. In the workshops conducted by this manner in this manner, the Department of Educational Publications had decided to write a book from a writing writer in the workshops after not to select a child.. A total of Rs. 5,759,018 has been spent on it.
-
-155,475 copies of books in Sinhala and 73,475 copies were printed in Tamil. This information is included in the special audit report released on the role of the Educational Publications Department.
-
-◼️
-
-[Data](articles/7e2ffbf2.json)
-
-[Extended Data](ext_articles/7e2ffbf2.ext.json)
-
----
-
-### A boyfriend killed in a bath
-
-*2024-10-06 17:49:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளிக்கச்-சென்ற-சிறுவயது-காதலன்-விபத்தில்-பலி/76-344991) · `ta`
-
-Motorcycle crash: Boyfriend (19) dies, girlfriend (20) hospitalized after falling into canal during romantic bath. Hanwella police investigating.
-
-🟩
-
-A 19 -year -old youth has died and a 20 -year -old woman has been admitted to hospital after falling into the canal on a romantic motorcycle in Lapugama, Dummodara area.
-
-Lakshan Lakshan, a native of Pamunuwa Bansalai, Piliyandala, died in an accident. It is reported that the injured woman belongs to Ambalangoda Kenane area
-
-The two had gone to bathe in a motorcycle from Kalu Akkala to Lapugama and fell into the Belbola area in an unsafe canal.
-
-Hanwella police are conducting further investigations into the incident as the woman in the accident was in critical condition and was admitted to the intensive care unit.
-
-◼️
-
-[Data](articles/2b39a671.json)
-
-[Extended Data](ext_articles/2b39a671.ext.json)
-
----
-
-### The party builds the challenges
-
-*2024-10-06 17:41:44* · [`adalk`](https://www.ada.lk/breaking_news/අභියෝගවලට-මුහුණ-දෙමින්-පක්ෂය-ගොඩ-නගනවා/11-412332) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Namal Rajapaksa: Party rebuilds by facing challenges. Criticizes personal attacks on other parties. Focuses on youth employment, education reform, and addressing local issues. Emphasizes policy-based governance and supporting young people.
-
-🟩
-
-National Organizer of the National Organizer of the National Organizer of the National Organizer of Namal Rajapaksa, Namal Rajapaksa, said that the party would be rebuilt by facing challenges.. He further stated that at the meeting held at the Heshai Hotel in Kegalle.
-
-"Like this team that led the Kegalle district, we faced that challenge. This is what we make changes in the party.
-
-There are a large number of people who have not been able to address the people who have been voting over the reasons for personal reasons, leaders, or principles.. I think the majority of them are the Sri Lanka General Filling Front. Let's talk to them.
-
-...
-
-[Data](articles/7ca83d39.json)
-
-[Extended Data](ext_articles/7ca83d39.ext.json)
-
----
-
-### Body of a couple of couple at home
-
-*2024-10-06 17:28:41* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතනයක්-බවට-සැක-ව්‍යාපාරික-අඹුසැමි-යුවලකගේ-මළසිරුරු-නිවසේ-සාලයේ/11-412331) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Welipenna police investigating murder of couple at home. Bodies found at Muslim school. No children, significant property. Further investigation ongoing involving local authorities.
-
-🟩
-
-The Welipenna police have commenced investigations through a fair manner and his wife had been killed in the house.
-
-The victim has been identified as Welipenna, Welipenna.
-
-Police said that two bodies of a couple of couple who were killed at the Welipenna Muslim Vidyalaya have been found that two bodies have been found.
-
-The male's face of the house was found in a fabric of a fabric man, and his wife's handling was found to meet the body.
-
-The backdrop of the house was situated and the lights were fired.
-
-It is said that they have no children and a large number of estates and a stone lame trees that have been deceased.
-
-The police also said that the man's blood flowing with one's ear.
-
-The Welipenna Police say that the Matugama Magistrate's inquiry is scheduled to investigate Kalutara Divisional Secretariat.
-
-Kalutara Crimes Division, Kalutara Criminal Investigation Unit and Welipenna Police are conducting further investigations.
-
-◼️
-
-[Data](articles/fb613a5b.json)
-
-[Extended Data](ext_articles/fb613a5b.ext.json)
-
----
-
-### 'I'm tired'
-
-*2024-10-06 17:21:38* · [`adalk`](https://www.ada.lk/breaking_news/’මට-මාර-මහන්සියි’/11-412330) · `si`
-
-"I'm tired" summarizes the main point of the text, which is that someone named Piyumi Hansamali is involved in a legal issue related to asset investigation and drug trafficking. The person mentioned is reluctant to discuss details due to ongoing legal proceedings.
-
-🟩
-
-Asset Investigation Division says that public modernistic Piyumi Hansamali owned by Piyumi Hansamali has been selected for nearly 9 hours.
-
-Lasting cargo managed by the Drug Trafficking Karu, who was arrested in the Garage of Piyumi Hansalai, who was arrested in the Garage of the Nawala, who was arrested in the Garage of Piyumi Hansay, who were arrested by the Drug Trafficking of Rs.Were taken into custody.
-
-It was revealed that the vehicle was purchased by Piyumi Hansali in the investigation of the illegal assets division.
-
-She was summoned to the Undergarrant Asset Division regarding the manner in which Piyumi Hansamali earned the car and earn the skin.
-
-At around 9 am, she visited the UPFA to the Investigation Division (Piyumi arrived at about 6 pm) and said: "I can't talk about this due to the trial in court.Tired. When the case is run, you'll make a statement about this. "
-
-◼️
-
-[Data](articles/3f5b46a9.json)
-
-[Extended Data](ext_articles/3f5b46a9.ext.json)
-
----
-
-### President assures justice for Easter attacks victims
-
-*2024-10-06 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102485/president-assures-justice-for-easter-attacks-victims) · `en`
-
-President Anura Kumara Dissanayake announced that the investigations into the Easter Sunday attacks will be expedited, and steps will be taken to ensure that such a tragedy never occurs again in the country. He assured that justice will be delivered to the victims.
-
-The President made these remarks during a discussion held today (06) at St. Sebastian’s Church in Katuwapitiya, Negambo, with the families of those killed and injured in the Easter Sunday attack, the President’s Media Division (PMD) reported.
-
-President Anura Kumara Dissanayake visited the church during the morning and laid floral tributes at the memorial established in honor of the victims. To mark the occasion, a commemorative gift was also presented to the president.
-
-...
-
-[Data](articles/00425d88.json)
-
-[Extended Data](ext_articles/00425d88.ext.json)
 
 ---

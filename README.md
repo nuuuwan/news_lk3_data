@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 08:59:04**
+As of **2024-10-07 09:13:16**
 
 ## Newspaper Stats
 
-*Scraped **48,109** Articles*
+*Scraped **48,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,247
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,666
-tamilmirrorlk | 6,493
+tamilmirrorlk | 6,495
 virakesarilk | 7,701
 adaderanasinhalalk | 8,327
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,106 (100.0%) of 48,109 articles have been extended.
+48,111 (100.0%) of 48,111 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,56 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/a8f78fb9.json)
+
+[Extended Data](ext_articles/a8f78fb9.ext.json)
+
+---
+
+### Problem in providing food;The decision taken by the Ministry of Education
+
+*2024-10-07 08:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-வழங்குவதில்-சிக்கல்-கல்வி-அமைச்சு-எடுத்த-தீர்மானம்/175-345014) · `ta`
+
+Ministry of Education announces action against Zonal Education Offices not paying school lunch suppliers. Some schools in Western Province halted meal services due to unpaid distributors. Ministry aims to inform government about non-paying offices.
+
+🟩
+
+The Ministry of Education has decided to provide information on Zonal Education Offices that do not pay for lunch distributors in schools.
+
+Despite all the money required for the lunch plan, the decision was made due to complaints received that the Zonal Education Offices did not pay for food providers.
+
+Some schools in the Western Province have stopped providing lunch for two months, saying that the distributors have notified the principals that they cannot provide food until the money is available.
+
+A senior official of the Ministry said that there were delays in the payment of two to three months earlier, but these steps were carried out this time aimed at making the government aimed at informing the government.. Remble
+
+◼️
+
+[Data](articles/34b14cfd.json)
+
+[Extended Data](ext_articles/34b14cfd.ext.json)
+
+---
+
+### EPDP's Wanni District Candidate Details
+
+*2024-10-07 08:25:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-பி-டி-பியின்-வன்னி-மாவட்ட-வேட்பாளர்-விபரம்/175-345013) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Kulasingham Dileepan named EPDP's Vanni District candidate. Appointed by Christopher Dinase Rosinran and Madura Prabhot Herath for Vavuniya. Antony Pillai Jayaraj, Vinson Tibol Arulnathan, Chinnathurai also represent Mullaithivu.
+
+🟩
+
+Former parliamentarian Kulasingham Dileepan has been appointed as the primary candidate in the Vanni electoral district.. He has been appointed by Christopher Dinase Rosinran and Madura Prabhot Herath to represent Vavuniya.
+
+Along with them, representing the Mullaithivu of the Vanni electoral district, Antony Pillai Jayaraj, Vinson Tibol Arulnathan, Chinnathurai Dr.. (A)
+
+◼️
+
+[Data](articles/832e39db.json)
+
+[Extended Data](ext_articles/832e39db.ext.json)
 
 ---
 
@@ -74,41 +124,53 @@ However, it is also mentioned that the price of eggs will return to normal in tw
 
 ---
 
-### මාරක රිය අනතුරු දෙකක්
+### Two fatal accidents
 
 *2024-10-07 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201911) · `si`
 
-දිවයින පුරා සිදුවූ රිය අනතුරු දෙකකින් පුද්ගලයන් දෙදෙනෙකු මියගොස් තිබේ.
+Fatal accidents: Woman killed in truck crash near Ganemulla; Motorcyclist dies after falling off bike in Hanwella.
 
-ඒ අනුව, ගණේමුල්ල පොලිස් වසමේ මෝල හන්දිය නුගවෙල අතුරු මාර්ගයේ දී ලොරි රථයක් රියදුරු විසින් පසුපසට ධාවනය කළ අවස්ථාවේදී මාර්ගය අයිනේ ගමන් කළ කාන්තාවකගේ ගැටී සිදුවූ අනතුරින් එම කාන්තාව මියගොස් තිබේ.
+🟩
 
-මේ අතර, හංවැල්ල පොලිස් වසමේ කළුඅග්ගල ලබුගම මාර්ගයේ පැල්පොල ප්‍රදේශයේදී කළුඅග්ගල දෙස සිට ලබුගම දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට ගොස් අසල තිබූ බොක්කුවක් තුළට වැටී තිබේ.
+Two persons were killed in two accidents around the country.
 
-අනතුරින් බරපතළ තුවාල ලැබූ පැදිකරු හා පසුපැදිකරු අවිස්සාවේල්ල රෝහලට ඇතුළත් කිරීමේදි පැදිකරු මියගොස් තිබේ.
+Accordingly, the woman was killed in a woman who had traveled by a woman who was traveling back by a lorry driver at the Nugawela edge of the Ganemulla Police Division.
+
+Meanwhile, a motorcycle traffic from Kaluaggala on the Hanwella Police Division, a motorcycle to Labugala, has fallen into a nearby bay.
+
+The motorcyclist was killed in admission to the Avissawella hospital.
 
 ◼️
 
 [Data](articles/c5d2d6cd.json)
 
+[Extended Data](ext_articles/c5d2d6cd.ext.json)
+
 ---
 
-### කොළඹදී කාන්තාවක් ව ඝාතනය කරයි
+### Woman murder in Colombo
 
 *2024-10-07 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201910) · `si`
 
-කෙසෙල්වත්ත පොලිස් වසමේ ටෙක්නිකල් හන්දිය ප්‍රදේශයේදී තියුණු ආයුධයකින් පහරදීම හේතුවෙන් කාන්තාවක් මියගොස් තිබේ.
+Colombo: Woman murdered in Keselwatta. Sharp weapon used. Admitted to Colombo National Hospital. Suspect identified. Dispute led to killing. Investigations ongoing.
 
-පහරදීමෙන් බරපතළ තත්ත්වයේ පසුවූ ඇය කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමේදි මියගොස් ඇත.
+🟩
 
-ඇයගේ ස්ථීර පදිංචි ලිපිනය මෙතෙක් අනාවරණ වී නොමැති බව පොලීසිය පවසයි.
+A woman was killed by a sharp weapon in the Technical Junction area in Keselwatta area.
 
-මරණකාරිය සහ තවත් පුද්ගලයෙකු අතර ඇතිවූ ආරවුලක් මත මෙම ඝාතනය සිදුව ඇති බව විමර්ශනයේදී අනාවරණ වී ඇත.
+She was also killed in admission to the Colombo National Hospital.
 
-සැකකරු හඳුනාගෙන ඇති අතර, ඔහු අත්අඩංගුවට ගැනීම සඳහා කෙසෙල්වත්ත පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
+Police say that her permanent residential residential address has not been revealed yet.
+
+Investigations have revealed that the murder had taken place on a dispute between the deceased and another.
+
+The suspect has been identified and the Keselwatta Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/2ef542d7.json)
+
+[Extended Data](ext_articles/2ef542d7.ext.json)
 
 ---
 
@@ -2299,51 +2361,5 @@ The official added that three three wires have been put in the Carlton garden an
 [Data](articles/5584021d.json)
 
 [Extended Data](ext_articles/5584021d.ext.json)
-
----
-
-### Man killed in crocodile attack in Gemunupura
-
-*2024-10-06 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102480/man-killed-in-crocodile-attack-in-gemunupura) · `en`
-
-A man has reportedly been snatched by a crocodile while attempting to cross the Mora Oya in the Gemunupura area of the Sripura police division.
-
-The incident occurred after the victim, along with two others, had crossed the Mora Oya and was consuming alcohol in the ‘Ranjith Mankada’ area. Later, when the victim attempted to cross the river again to retrieve meat from his home, he was attacked by the crocodile, the police said.
-
-According to the police, part of the victim’s body was found partially eaten by the crocodile.
-
-The victim has been identified as a 60-year-old resident of Gamunupura, Padavi Sripura.
-
-The deceased’s body has been placed in the mortuary of Anuradhapura Hospital following an autopsy, and further investigations are being conducted by Sripura Police.
-
-◼️
-
-[Data](articles/7bff4530.json)
-
-[Extended Data](ext_articles/7bff4530.ext.json)
-
----
-
-### Increase in the price of egg prices again
-
-*2024-10-06 11:25:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-மீண்டும்-அதிகரிப்பு/175-344970) · `ta`
-
-Egg prices surge: 40+ rupees per egg. Recent increase attributed to declining production. Some areas report higher prices up to 45 rupees.
-
-🟩
-
-Egg prices on the market have increased again. According to the Sri Lanka Egg Trade Association, the price of an egg has passed 40 rupees.
-
-The egg was sold for less than 30 rupees 3 days ago.
-
-However, people say that eggs are being sold for 45 rupees in some areas.
-
-The price of eggs has increased again due to the decline of production, the Sri Lanka Egg Trade Association said.
-
-◼️
-
-[Data](articles/5c2b6c62.json)
-
-[Extended Data](ext_articles/5c2b6c62.ext.json)
 
 ---

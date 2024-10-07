@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 12:25:06**
+As of **2024-10-07 12:38:46**
 
 ## Newspaper Stats
 
-*Scraped **48,148** Articles*
+*Scraped **48,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 476
 islandlk | 2,847
 economynextcom | 2,944
 dailyftlk | 3,247
-adalk | 4,451
+adalk | 4,452
 dailymirrorlk | 4,733
 adaderanalk | 5,673
 tamilmirrorlk | 6,507
@@ -26,63 +26,103 @@ adaderanasinhalalk | 8,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,144 (100.0%) of 48,148 articles have been extended.
+48,149 (100.0%) of 48,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
 
-### දිස්ත්‍රික්ක කිහිපයකට නායයෑම් අනතුරු ඇඟවීම්
+### Landslide warnings for several districts
 
 *2024-10-07 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201918) · `si`
 
-දිස්ත්‍රික්ක කිහිපයකට නායයාමේ පූර්ව අනතුරු ඇඟවීම් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+National Building Research Organization issues landslide warnings for several districts. Warnings operate 9:30 AM to 9:30 PM tomorrow. Affected areas include Walallawita (Kalutara), Pitabeddara (Kegalle). Yellow alerts issued for specific locations.
 
-එම සංවිධානය පැවසුවේ මෙම අනතුරු ඇඟවීම අද (07) පෙරවරු 9.30 සිට හෙට පස්වරු 9.30 දක්වා ක්‍රියාත්මක බවයි.
+🟩
 
-ඒ අනුව ගාල්ල දිස්ත්‍රික්කයේ නාගොඩ, ඇල්පිටිය, කළුතර දිස්ත්‍රික්කයේ වලල්ලාවිට යන ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත ඇම්බර් පැහැයෙන් යුතු "අවදානයෙන් සිටින ලෙසට" අනතුරු අඟවා තිබේ.
+The National Building Research Organization has taken steps to issue landslides to several districts.
 
-තවද ගාල්ල දිස්ත්‍රික්කයේ නියාගම, කෑගල්ල දිස්ත්‍රික්කයේ දෙහිඕවිට, මාතර දිස්ත්‍රික්කයේ පිටබැද්දර යන ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත "කහ පැහැයෙන් යුතු" විමසිලිමත් වන්න යන අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+The warning said that the warning is operating from 9.30 am to 9.30 pm tomorrow.
+
+Accordingly, the phrasal secretary of Valallawita in the Nagoda, Elpitiya, Elpitiya in the Nagoda, Elpitiya, Kalutara district have been warned to Walallawita in Kalutara.
+
+The warnings of "yellow" to the Pitabeddara, District of Dehioadara, in the Kegalle District of Niyagadara, Kegalle District have been issued to the "Yellow" to the Pitabeddara.
 
 ◼️
 
 [Data](articles/c90d42ff.json)
 
+[Extended Data](ext_articles/c90d42ff.ext.json)
+
 ---
 
-### 162.5 மில்லிமீற்றர் மழை வீழ்ச்சி பதிவு
+### 162.5 millimeters of rainfall record
 
 *2024-10-07 11:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/162-5-மில்லிமீற்றர்-மழை-வீழ்ச்சி-பதிவு/175-345032) · `ta`
 
-கொழும்பு மாவட்டத்தில் ஞாயிற்றுக்கிழமை (06) இரவு முதல் திங்கட்கிழமை (07) காலை 7.00 மணி வரை பெய்த மழையால்  162.5 மில்லிமீற்றர் மழை வீழ்ச்சி பதிவாகியுள்ளதாக வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+Heavy rainfall recorded: 162.5mm. Highest in Vellala (112.5mm). Rainfall expected in Western, Sabaragamuwa, and North Western provinces. Possible thunderstorms in afternoon.
 
-இது தவிர, வல்லல்லாவிட்ட (112.5 மி.மீ.), ஹொரணை (111.5 மி.மீ.), நெலுவ (109 மி.மீ.) மற்றும் உடுகம (94.5 மி.மீ.) ஆகிய இடங்களில் அதிகளவான மழைவீழ்ச்சி பதிவாகியுள்ளதாக அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-இதற்கிடையில், அயன மண்டலங்களுக்கு இடையிலான ஒடுங்கும் வலயம் (வட அரைக்கோளத்திலிருந்தும் தென் அரைக்கோளத்திலிருந்தும் வீசும் வணிகக் காற்றுகள் ஒடுங்கும் பிரதேசம்) நாட்டின் வானிலையில் பாதிப்பை ஏற்படுத்தியுள்ளதாகவும், நாட்டின் பெரும்பாலான பிரதேசங்களில் பிற்பகலில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+The Department of Meteorology has announced that the rainfall of 162.5 millimeters has been reported due to heavy rains from 7.00 am on Sunday night (06) night (06).
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, மன்னார் மற்றும் முல்லைத்தீவு மாவட்டங்களிலும் காலை வேளையிலும் மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+In addition, the department has stated that the heavy rainfall has been reported in Vallalla (112.5 mm), Horana (111.5 mm), Neluwa (109 mm) and Udugama (94.5 mm).
+
+Meanwhile, the interruption zone between the ionosphere (the trade winds that blow from the northern hemisphere and the southern hemisphere are damaged in the weather of the country, and in most parts of the country in most parts of the country, there is a possibility of rainfall or thundershowers in the afternoon.
+
+The Department of Meteorology said that rainfall in the Western, Sabaragamuwa and North Western Provinces will also occur in the morning in the Galle, Matara, Mannar and Mullaitivu districts.
 
 ◼️
 
 [Data](articles/5025d9c0.json)
 
+[Extended Data](ext_articles/5025d9c0.ext.json)
+
 ---
 
-### සනත් ගේ පත්වීම තහවුරු කෙරේ
+### Sanath's appointment confirmed
 
 *2024-10-07 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201917) · `si`
 
-ශ්‍රී ලංකා හිටපු ක්‍රිකට් නායක සනත් ජයසුරිය ශ්‍රී ලංකා ජාතික කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස පත්කළ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය අද (07) නිල වශයෙන් නිවේදනය කළේය.
+Sanath Jayasuriya named Chief Trainer of Sri Lanka National Team. Appointed from Oct 1, 2024 to Mar 31, 2026. Decision based on team's performance in India and NZ tours.
 
-2024 ඔක්තෝබර් 01 වනදා සිට 2026 මාර්තු 31 වනදා දක්වා කාලය සඳහා ඔහුව අදාළ තනතුර සඳහා පත්කර තිබේ.
+🟩
 
-පසුගිය ඉන්දීය, එංගලන්ත සහ නවසීලන්ත තරගාවලි වලදී ශ්‍රී ලංකා කණ්ඩායම දැක්වූ දක්ෂතා සැලකිල්ලට ගෙන ශ්‍රී ලංකා ක්‍රිකට් විධායක කමිටුව විසින් අදාළ තීරණය ගෙන ඇති බව දැක්වෙයි.
+Sri Lanka Cricket official announced that Sri Lanka former Sri Lanka captain Sanath Jayasuriya was appointed as the Chief Trainer of the Sri Lanka National Group.
 
-එම තරගාවලි සඳහා වැඩබලන පුහුණුකරු ලෙස සනත් ජයසූරිය කටයුතු කළේය.
+He has been appointed to the relevant post from October 1, 2024 to 31st March 31, 2026.
+
+The Sri Lanka Cricket Executive Committee has taken the decision to take into account the performance of the Sri Lankan team in last Indian and New Zealand competitions.
+
+Sanath Jayasuriya was the acting coach for the tournament.
 
 ◼️
 
 [Data](articles/2ce60bff.json)
+
+[Extended Data](ext_articles/2ce60bff.ext.json)
+
+---
+
+### Here is the responsibility of the Jayasuriya
+
+*2024-10-07 11:46:12* · [`adalk`](https://www.ada.lk/sports/ස්ථීරවම-ජයසූරියට-ලැබුණු-වගකීම-මෙන්න/9-412345) · `si`
+
+Sanath Jayasuriya appointed head coach Sri Lankan cricket team Oct 1, 2024 - Mar 31, 2026. Previously acted as coach.
+
+🟩
+
+The SLC Executive Committee has decided to appoint Sanath Jayasuriya as the head coach of the Sri Lankan cricket team.
+
+Sri Lanka Cricket announced that Sanath Jayasuriya was previously acting coach.
+
+The appointment was effective from October 1, 2024, and will last until March 31, 2026.
+
+◼️
+
+[Data](articles/fc400b45.json)
+
+[Extended Data](ext_articles/fc400b45.ext.json)
 
 ---
 
@@ -782,23 +822,33 @@ The suspect has been identified and the Keselwatta Police are conducting further
 
 ---
 
-### ප්‍රභූන්ගේ ආරක්ෂාවට සිටි නිලධාරින් 1145ක් සාමාන්‍ය රාජකාර‍ිවලට
+### 1145 officers who were in the vulnerabilities of elite to the normal duties
 
 *2024-10-07 07:31:23* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූන්ගේ-ආරක්ෂාවට-සිටි-නිලධාරින්-1145ක්-සාමාන්‍ය-රාජකාර‍ිවලට/11-412339) · `si`
 
-ප්‍රභූවරුන්ගේ ආරක්‍ෂාව සඳහා දී තිබු නිලධාරීන් 1145 දෙනෙකු වහාම ක්‍රියාත්මක වන පරිදි ප්‍රභූ ආරක්‍ෂක සේවයෙන් ඉවත් කර සාමාන්‍ය රාජකාරී සඳහා ඊයේ (06) සිට පොලිස්ථාන වලට අනුයුක්ත කර ඇතැයි වාර්තාවේ.
+Here's a summary of the text in approximately 200 characters:
 
-වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසුරිය මහතාගේ අත්සනින් යුතුව නිකුත් කළ නියෝගයක් මඟින් ප්‍රභූවරුන්ගේ ආරක්‍ෂාව සඳහා යොදවා තිබු ආරක්‍ෂක නිලධාරීන් ඉන් ඉවත් කර සාමාන්‍ය පොලිස්ථාන වලට අනුයුක්ත කර ඇතැයි දැනුම් දී ඇත.
 
-මැතිවරණ කොමිෂන් සභාවේ ආවරණ අනුමැතියට යටත්ව රාජ්‍ය සේවා කොමිෂන් සභා කාර්්‍ය පටිපාටික රීතී සංග්‍රහට යටතේ අදාළ මාරූවීම් ලබාදී ඇතැයි සඳහන් වේ.
 
-ප්‍රභූ ආරක්‍ෂක සේවයෙන් ඉවත් කර සාමාන්‍ය පොලිස්ථාන වලට අනුයුක්ත කළ නිලධාරීන් අතර ප්‍රධාන පොලිස් පරීක්‍ෂකවරුන්, පොලිස් පරීක්‍ෂකවරුන්, උප පොලිස් පරීක්‍ෂකවරුන්, සැරයන්වරුන්, කොස්තාපල්වරුන්, මෙන්ම මෙම නිලයන් වල කාන්තා නිලධාරීන්ද සිටින බව වාර්තාවේ.
+1145 officers reassigned from elite protection to regular duties. Acting IGP orders removal of security personnel from elite protection and redeployment to general police stations. Decision made under Public Service Commission and Election Commission oversight. Includes officers of various ranks: women, police inspectors, constables. Acting IGP instructed to redirect funds from elite protection to general police stations.
 
-ප්‍රභූ ආරක්‍ෂක සේවයේ යොදවා සිටියදී එම නිලධාරීන්ට ගෙවනු ලබන උපවේශණ දීමනා සාමාන්‍ය පොලිස්ථාන වලට අනුයුක්ත කළ පසු එම නිලධාරීන්ට නොගෙවීමටද වැඩබලන පොලිස්පතිවරයා අදාළ නියෝගය මඟින් නියම කර ඇත.
+🟩
+
+1145 officers were immediately assigned to the security of the elite, reports say.
+
+It has been asked that the security personnel deployed by the acting IGP Priyantha Weerasuriya has been removed and attached to the general police stations.
+
+Subject to the Public Service Commission under the Public Service Commission under the Public Service Commission under the Election Commission covering approval is given under the relevant commissioner's Office Procedure.
+
+It is reported that there are also women's officers, police inspectors, police inspectors, services, constables, series, constables, and these ranks.
+
+The acting IGP is also required to pay not paying the instructions paid to the general police stations while employing the officials.
 
 ◼️
 
 [Data](articles/1b1f47aa.json)
+
+[Extended Data](ext_articles/1b1f47aa.ext.json)
 
 ---
 
@@ -2257,35 +2307,5 @@ If politics in the country has reached such an extreme, the first priority must 
 [Data](articles/dceacad8.json)
 
 [Extended Data](ext_articles/dceacad8.ext.json)
-
----
-
-### Tamil nationalism within the disaster
-
-*2024-10-06 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195636) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil nationalism faces internal conflicts and external pressures in Sri Lanka's North and East. Political parties struggle with LTTE allegiances and central government ties. Election results show mixed support for candidates across Tamil-dominated areas. The future of Tamil nationalist parties remains uncertain amid changing voter preferences and alliances.
-
-🟩
-
-Tamil Nationalism is the main slogan of all Tamil political parties centered on the North and East. But within those political parties, there are massive contradictions of who are the Tamil nationalists.
-
-The political parties that have embraced matters that are compatible with the doctrines of the Liberation Tigers of Tamil Eelam (LTTE) are identified as pure Tamil nationalist forces or voices for the rights of Tamils.
-
-At the same time, political parties or members who have traveled with the central government are portrayed as Tamil nationals or Tamil national traitors.
-
-It is worth noting that within these types, the moderate or progressive thinking forces are included.
-
-It is not the intention of this passage to examine who the true heirs of the Tamil nationalism and the fake Tamil nationalists. Because it is concerned with the decree of the Tamil people.
-
-...
-
-[Data](articles/c350ded0.json)
-
-[Extended Data](ext_articles/c350ded0.ext.json)
 
 ---

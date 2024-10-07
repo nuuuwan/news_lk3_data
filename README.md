@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 03:08:46**
+As of **2024-10-08 03:39:05**
 
 ## Newspaper Stats
 
-*Scraped **48,258** Articles*
+*Scraped **48,266** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 396
-colombotelegraphcom | 477
 bbccomsinhala | 477
+colombotelegraphcom | 478
 islandlk | 2,849
 economynextcom | 2,954
 dailyftlk | 3,247
@@ -19,16 +19,78 @@ adalk | 4,467
 dailymirrorlk | 4,733
 adaderanalk | 5,689
 tamilmirrorlk | 6,529
-virakesarilk | 7,726
+virakesarilk | 7,733
 adaderanasinhalalk | 8,351
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,258 (100.0%) of 48,258 articles have been extended.
+48,261 (100.0%) of 48,266 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-08 (Tuesday)
+
+### England progresses to the top spot by defeating South Africa in the Women's R20 World Cup
+
+*2024-10-08 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195723) · `ta`
+
+England beats South Africa in Women's R20 World Cup, winning by 7 wickets. Key players: Deni Viet Haj, Net Shivar Brand. South Africa scored 124 runs in 20 overs. England advances chances for semi-finals.
+
+🟩
+
+England won by 7 wickets in the Sharjah Cricket Stadium against South Africa on Monday (07).
+
+With this victory, the England and B team teams have increased their chances for the semi -finals.
+
+In response, England were bowled out for 125 runs for the loss of 125 runs in 19.2 overs, scoring 125 runs.
+
+England's start, scoring only 3 runs in the first two overs, did not excel.
+
+However, the speed of the drive has increased and the efficient bats of both Deni Vietal Haj and Net Shivar Brand have ensured England's success.
+
+There is no denying that South Africa's victory played a key role in the missing of 3 bats, including 2 grip, South Africa.
+
+The total number of England was 16 runs when the initial hero Mala Boucher (8) lost the game.
+
+Deni Viet Haj and Alice Kepsi then shared 34 runs in the 2nd wicket.
+
+Subsequently, Deni Viet Haj and Net Sivar Brend shared 64 runs in 55 balls in the 3rd wicket.
+
+However, Net Shivar Brand gave 11 runs that needed further success.
+
+...
+
+[Data](articles/9af8ab89.json)
+
+[Extended Data](ext_articles/9af8ab89.ext.json)
+
+---
+
+### Sanath Jayasuriya says that he has built confidence in the team and confidence in others
+
+*2024-10-08 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195722) · `ta`
+
+Sanath Jayasuriya emphasizes building team confidence and believes in player abilities. He aims to create a supportive environment and encourages open communication. As Sri Lanka's new chief coach, he targets qualifying for the ICC World Test Championship final by winning key matches against South Africa and Australia.
+
+🟩
+
+Sri Lanka Cricket's chief coach Sanath Jayasuriya said that all the confidence in the cricket arena, the confidence in the other, and the luck.
+
+He was speaking at a media briefing at the Sri Lanka Cricket Headquarters this afternoon after his appointment as the chief coach of the Sri Lankan cricket team.
+
+'What I always say is that self -confidence and believing in the other person. I have made this into the team. That is very important. I think it contains a little fortune. How hard can we work. But sometimes we need luck, 'he said.
+
+'All players are dedicated to play efficiently. Know what they have faced in the last two years. They had gone to the beginning. Thus I asked the public to support the Sri Lankan soldiers. They are a great cricket group. They have talent. I have fed up with them. I am with them. They can discuss anything with me, ”Sanath Jayasuriya added.
+
+...
+
+[Data](articles/cef31173.json)
+
+[Extended Data](ext_articles/cef31173.ext.json)
+
+---
 
 ### 2024-10-07 (Monday)
 
@@ -57,6 +119,34 @@ If the taxes are pending by the end of this year, the maximum steps will be take
 [Data](articles/bc9d9d6d.json)
 
 [Extended Data](ext_articles/bc9d9d6d.ext.json)
+
+---
+
+### Ranil Wickremesinghe's security officials have been removed -the UNP is not true -the UNP. Deputy Chairman Ruwan Wijewardena's announcement
+
+*2024-10-07 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195721) · `ta`
+
+Here's a 200-character summary:
+
+
+
+UNP denies claims of Ranil Wickremesinghe's security removals. Police IG disputes reports. UNP condemns misinformation campaigns against former president.
+
+🟩
+
+The Inspector General of Police has denied the reply even though the police officers who have been for the protection of former President Ranil Wickremesinghe have been dismissed.
+
+UNP Deputy Leader Ruwan Wijewardena has said that we are strongly condemned as the United National Party (UNP) for the purpose of insulting Ranil Wickremesinghe and insulting him.
+
+After the presidential election, former President Ranil Wickremesinghe continues to insult him to insult him.. As a United National Party, we vehemently condemn those issues.
+
+Ranil Wickremesinghe has done massive tasks for this country. He was the one who built the economy of this country that had fallen in the past. However, false information is being circulated on social media.
+
+...
+
+[Data](articles/5c281a06.json)
+
+[Extended Data](ext_articles/5c281a06.ext.json)
 
 ---
 
@@ -109,6 +199,26 @@ Before the end of this year, you will take maximum action to recover. We have th
 [Data](articles/d0d03e3d.json)
 
 [Extended Data](ext_articles/d0d03e3d.ext.json)
+
+---
+
+### 100 மில்லிமீற்றருக்கும் அதிகமான மழை; பல இடங்களில் மண்சரிவு எச்சரிக்கை!
+
+*2024-10-07 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195720) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும், காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இடியுடன் கூடிய மழை பெய்யும் போது, அந்த பகுதிகளில் தற்காலிக பலத்த காற்று வீசக்கூடும். மேலும், பலத்த மின்னல் ஏற்படுவதற்கான அதிக சாத்தியக்கூறுகள் காணப்படுவதாக திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய விபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கேட்டுக்கொள்கின்றது.
+
+காலி மற்றும் மாத்தறை மாவட்டங்களில் 2ஆம் நிலை மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
+
+அடுத்த 24 மணி நேரத்தில் கேகாலை பகுதிக்கு முதல் நிலை எச்சரிக்கை விடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/35e1e5fb.json)
 
 ---
 
@@ -195,6 +305,52 @@ Commenting further, he said: “Until recently, the security arrangements for bo
 [Data](articles/b8b48f5b.json)
 
 [Extended Data](ext_articles/b8b48f5b.ext.json)
+
+---
+
+### The Role Of Buddhist Monks In Reforming Sri Lanka
+
+*2024-10-07 21:13:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-role-of-buddhist-monks-in-reforming-sri-lanka/) · `en`
+
+Anura Kumara Dissanayake, following tradition, undertook a round-trip meeting with leading monks, visiting temples and places of worship after his election. This was also a necessary move to counter rivals’ claims that the NPP would not prioritize Buddhism.
+
+We are writing at a time when the yellow robe, which commands respect and reverence, seems to empower many monks to appear as custodians of the nation’s spiritual well-being. However, this role has come under increasing scrutiny. Over recent decades, some monks have diverged from their spiritual calling by becoming involved in politics, raising concerns about their role in society.
+
+The veneration for the yellow robe has, in many instances, been exploited. The respect associated with the robe has sometimes been leveraged to assert authority beyond spiritual matters, with monks engaging in activities unrelated to either mundane development or spiritual progress.
+
+...
+
+[Data](articles/7c57fe83.json)
+
+---
+
+### இலங்கை தொழிலாளர் காங்கிரஸிலிருந்து பதவி விலகிய பாரத் அருள்சாமி
+
+*2024-10-07 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195719) · `ta`
+
+இலங்கை தொழிலாளர் காங்கிரஸின் உப தலைவர் பதவியிலிருந்தும், கட்சியின் அடிப்படை உறுப்பினர் பதவியிலிருந்தும் பாரத் அருள்சாமி பதவி விலகும் கடிதத்தை அக்கட்சியின் பொதுச் செயலாளர் ஜீவன் தொண்டமானுக்கு இன்று மாலை அனுப்பி வைத்துள்ளார்.
+
+மக்களினதும், கட்சி அங்கத்தவர்களினதும் எதிர்பார்ப்புகளை மீறி எதிர்வரும் பொதுத் தேர்தலில் இந்த நாட்டினை வங்குரோத்து நிலைக்கு அடைய செய்த முன்னாள் பாராளுமன்ற உறுப்பினர்கள் மற்றும் தங்களது சுயநல அரசியலுக்காக கண்டி மக்களை அடகு வைத்த உறுப்பினர்களோடு இணைந்து தாம் போட்டியிட தயார் இல்லை எனவும், கட்சியின் தீர்மானத்திற்கு அமைவாக மக்களின் எதிர்பார்ப்புக்கு அப்பால் தன்னால் செயல்பட இயலாது என்பதன் காரணமாக இந்த முடிவை தான் எடுத்துள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/bdcaff22.json)
+
+---
+
+### நாட்டின் மறுமலர்ச்சிக்கான செயற்திட்டத்திற்கும் மக்கள் ஒத்துழைப்பு வழங்க வேண்டும் - இ.தவஞானசூரியம்
+
+*2024-10-07 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195710) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின்  மறுமலர்ச்சியும் எதிர்கால வளர்ச்சியையும் விவசாயம், மீன்பிடி, கைத்தொழில், தொழில்வாய்ப்பு, போன்ற பல பிரச்சனைகளுக்கு தீர்வு காண முடியும். அதற்கு எமது கட்சியின் தலைவர் அநுரகுமார திசாநாயக்கவின் நாட்டின் மறுமலர்ச்சிக்கான செயற்திட்டத்திற்கும் மக்கள் ஒத்துழைப்பு வழங்க வேண்டும் என தேசிய மக்கள் சக்தி கட்சியின் பட்டிருப்பு தொகுதிக்குரிய அதிகாரமளிக்கப்பட்ட முகவர் இ.தவஞானசூரியம் தெரிவித்துள்ளார்.
+
+தேசிய மக்கள் சக்தி கட்சியின் ஏற்பாட்டில் தேர்தல் தொடர்பில் மக்களைத் தெளிவுறுத்தும் கூட்டம் மட்டக்களப்பு செட்டிபாளையம் பொது மைதானத்தில் ஞாயிற்றுக்கிழமை (06) மாலை இடம்பெற்றது.
+
+தேசிய மக்கள் சக்தி கட்சியின் ஆதரவாளர் குமாரசாமி கணேசலிங்கத்தின் ஏற்பாட்டில் நடைபெற்ற இக்கூட்டத்தில், மட்டக்களப்பு மாவட்ட இணைப்பாளர் அநுராத, குருணாகல் மாவட்ட இணைப்பாளர் ஜெயசூரிய, மற்றும் அப்பகுதி பொதுமக்கள் உள்ளிட்ட பலர் இதன்போது கலந்து கொண்டிருந்தனர்.
+
+...
+
+[Data](articles/9973f3ad.json)
 
 ---
 
@@ -669,6 +825,22 @@ Meanwhile, Surya's starring 'Gangua' will be released in a number of Indian lang
 [Data](articles/f21b0dbf.json)
 
 [Extended Data](ext_articles/f21b0dbf.ext.json)
+
+---
+
+### தமிழரசுக்கட்சியிலிருந்து விலகினார் அதன் தலைவர் மாவை சேனாதிராஜா  - உத்தியோகபூர்வ கடிதம் கிடைக்கவில்லை என்கிறார் பொதுச்செயலாளர் சத்தியலிங்கம்
+
+*2024-10-07 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195712) · `ta`
+
+எதிர்வரும் பொதுத்தேர்தலில் தமிழரசுக்கட்சி சார்பில் யாழ் தேர்தல் மாவட்டத்தில் போட்டியிடவிருக்கும் வேட்பாளர்களின் பெயர் பட்டியல் நேற்று முன்தினம் வெளியிடப்பட்ட நிலையில், அதுகுறித்து கட்சியின் சிரேஷ்ட உறுப்பினர்கள் பலரும் அதிருப்தியடைந்திருந்த பின்னணியில் தமிழரசுக்கட்சியின் தலைவர் மாவை சோ.சேனாதிராஜா இன்று  திங்கட்கிழமை (07) கட்சியிலிருந்து விலகினார்.
+
+எதிர்வரும் நவம்பர் மாதம் 14 ஆம் திகதி நடைபெறவிருக்கும் பாராளுமன்றத்தேர்தலில் இலங்கைத் தமிழரசுக்கட்சியின் சார்பில் யாழ் தேர்தல் மாவட்டத்தின் போட்டியிடவிருக்கும் வேட்பாளர்களின் பெயர்கள் அக்கட்சியின் தேர்தல் நியமனக்குழுவினால் நேற்று ஞாயிற்றுக்கிழமை (06)  அறிவிக்கப்பட்டது.
+
+அதன்படி யாழ் மற்றும் கிளிநொச்சி மாவட்டங்களுக்கான வேட்பாளர்களாக எஸ்.சிறிதரன், எம்.ஏ.சுமந்திரன், எஸ்.சி.சி.இளங்கோவன், கேசவன் சயந்தன், சந்திரலிங்கம் சுகிர்தன், சுரேக்கா சசீந்திரன், இம்மானுவல் ஆர்னோல்ட், கிருஸ்ணவேணி சிறிதரன், தியாகராயா பிரகாஷ் ஆகியோர் பெயரிடப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/9405e30c.json)
 
 ---
 
@@ -2177,183 +2349,5 @@ ADB Country Director Takafumi Kadono met Dissanayake to discuss the country’s 
 [Data](articles/e8a47610.json)
 
 [Extended Data](ext_articles/e8a47610.ext.json)
-
----
-
-### World Bank signs additional $200M to support Sri Lanka’s economic reforms
-
-*2024-10-07 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102503/world-bank-signs-additional-200m-to-support-sri-lankas-economic-reforms) · `en`
-
-The World Bank and the Government of Sri Lanka today signed the Second Resilience, Stability, and Economic Turnaround (RESET) Development Policy Operation (DPO) for $200 million. This is the second operation in a two-part series that began in 2022. The first operation, totaling $500 million, was disbursed in June and December 2023.
-
-The Second RESET DPO aims to support reforms that improve economic governance, enhance growth and competitiveness, and protect the poor and vulnerable, helping to build Sri Lanka’s resilience and fostering an equitable economy.
-
-...
-
-[Data](articles/45d8bfd8.json)
-
-[Extended Data](ext_articles/45d8bfd8.ext.json)
-
----
-
-### NIE Director and school teacher further remanded over scholarship exam paper ‘leak’
-
-*2024-10-07 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102502/nie-director-and-school-teacher-further-remanded-over-scholarship-exam-paper-leak) · `en`
-
-The Director of the Planning Division of the National Institute of Education (NIE) in Maharagama and the school teacher, who were arrested by the Criminal Investigations Department (CID) over the Grade 5 scholarship examination question paper issue, have been ordered to be remanded until October 22.
-
-This order was issued after the arrested 58-year-old NIE Director, who was a member of the committee which prepared the 2024 Grade 05 Scholarship Examination paper, and the 49-year-old teacher who had been conducting tuition classes, were produced before the Kaduwela Magistrate’s Court, Ada Derana reporter said.
-
-On September 20, an investigation was launched by the Department of Examinations after it was alleged that a question paper from the exam had been leaked. Later, the initial investigation report has been handed over to the Criminal Investigation Department (CID), which is currently conducting further inquiries.
-
-...
-
-[Data](articles/0e40325f.json)
-
-[Extended Data](ext_articles/0e40325f.ext.json)
-
----
-
-### Wild elephant strikes van driver
-
-*2024-10-07 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195667) · `ta`
-
-Elephant attacks van, killing driver on Sri Lanka highway
-
-🟩
-
-A van driver has been killed when a wild elephant was attacked by a van traveling in the Somiel area on the Kirithala - Pakamuna main road.
-
-A wild elephant in the Somiel area on the main road of Kritala - Pakamuna was trying to cross a wild elephant.
-
-Later, the van crashed into a nearby river as the wild elephant attacked the van.
-
-The driver was only in the van and he died on the spot, police said.
-
-Some people who traveled to the house were unloaded at home and traveled back to the house.
-
-◼️
-
-[Data](articles/058483e1.json)
-
-[Extended Data](ext_articles/058483e1.ext.json)
-
----
-
-### LTL to pay interest after Sri Lanka regulator halts IPO
-
-*2024-10-07 12:28:00* · [`economynextcom`](https://economynext.com/ltl-to-pay-interest-after-sri-lanka-regulator-halts-ipo-182613/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s LTL Holdings said it will pay interest to applicants of an initial public offer which was halted by the regulator pending an interim court order.
-
-The IPO was initially halted pending disclosure of matters including a court case.
-
-The hearing of the court case and possible interim relief is due on October 11.
-
-The SEC has ordered that the IPO be put on hold “until the Supreme Court makes a ruling on the interim relief as sought by the petitioner in SC/FR/Application No. 263/2024.”
-
-LTL said applications already made could be withdrawn or kept till a fresh date for opening of the IPO is decided:
-
-“The Company will pay interest at a rate of 10.49% p.a. (which is the 91-days Treasury Bill rate published by the Central Bank of Sri Lanka on 19th September 2024) from 10th September 2024 or the date of transfer of application monies, whichever is latest, until;
-
-...
-
-[Data](articles/6c8a4617.json)
-
-[Extended Data](ext_articles/6c8a4617.ext.json)
-
----
-
-### SLC confirms Sanath Jayasuriya as national team’s head coach
-
-*2024-10-07 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102501/slc-confirms-sanath-jayasuriya-as-national-teams-head-coach) · `en`
-
-Sri Lanka Cricket has confirmed the appointment of Sanath Jayasuriya as the head coach of the national team.
-
-The Executive Committee of Sri Lanka Cricket has made this decision taking into consideration the team’s good performances in the recent tours against India, England, and New Zealand, where Jayasuriya was in charge as the ‘interim head coach’, Sri Lanka Cricket (SLC) announced.
-
-The SLC said that accordingly, the appointment came into effect on October 1, 2024, and will remain until March 31, 2026.
-
-◼️
-
-[Data](articles/52672159.json)
-
-[Extended Data](ext_articles/52672159.ext.json)
-
----
-
-### Nilantha Jayawardene appeared in court
-
-*2024-10-07 12:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்த-ஜயவர்தன-நீதிமன்றத்தில்-முன்னிலையாகினார்/175-345034) · `ta`
-
-Nilantha Jayawardene appears Supreme Court over rights violations. Court orders 75m compensation unpaid. AG files contempt charges.
-
-🟩
-
-Former Director of the State Intelligence Unit, Nilantha Jayawardena has now appeared before the Supreme Court to present information on fundamental rights violation petitions filed by the Investigation Department.
-
-The Supreme Court has ruled that he has violated basic human rights by failing to prevent the attack and has earlier ordered a compensation of 75 million rupees.
-
-But as he failed to pay off the compensation, the Attorney General filed a contempt of court against him on a court order.
-
-Jayawardena has appeared in court on Monday to present the fact that the Supreme Court has previously announced that it will appear in court on Monday to present the facts.
-
-◼️
-
-[Data](articles/12a8f751.json)
-
-[Extended Data](ext_articles/12a8f751.ext.json)
-
----
-
-### Nanda Jayawardena appeared in court
-
-*2024-10-07 12:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்த-ஜயவர்தன-நீதிமன்றில்-ஆஜர்/175-345034) · `ta`
-
-Former Director of State Intelligence Unit Nanda Jayawardena appears in Supreme Court regarding fundamental rights violations. Court ruled he violated human rights by failing to prevent attack, ordered Rs 75 million compensation. Attorney General filed contempt charges for unpaid compensation. Jayawardena presented facts in court on 07/03.
-
-🟩
-
-The former Director of the State Intelligence Unit, Nilantha Jayawardena, has now appeared in the Supreme Court to present information on fundamental rights violation petitions filed by the intelligence agencies.
-
-The Supreme Court has ruled that he has violated basic human rights by failing to prevent the attack and has earlier ordered a compensation of Rs 75 million.
-
-But as he failed to pay off the compensation, the Attorney General filed a contempt of court against him on a court order.
-
-Jayawardena has appeared in court on Monday (07) to present the facts of the Supreme Court on Monday (07).
-
-◼️
-
-[Data](articles/b454cb64.json)
-
-[Extended Data](ext_articles/b454cb64.ext.json)
-
----
-
-### Flooding Solar Power Plant in Kiriibban Wewa
-
-*2024-10-07 12:13:23* · [`adalk`](https://www.ada.lk/breaking_news/කිරිඉබ්බන්-වැවේ-ඉඳිවන-පාවෙන-සූර්ය-විදුලි-බලාගාරයේ-වැඩ-නිමවෙමින්/11-412346) · `si`
-
-Sri Lanka: $2m solar power plant in Kiriibban Wewa to boost national grid, support local communities and infrastructure development. Project aims to provide electricity and improve living conditions for nearby residents.
-
-🟩
-
-Chairperson of the Sri Lanka Sustainable Energy Authority (SLFP) is the Chairman of the Sri Lanka State Power Plant in the Sevivabanwewa, the Government's assistance in the Sevilagala Divisional Secretariat of Korean.
-
-The project that is spending two million US dollars will be added to the national grid.
-
-Sevanagala Divisional Secretariat, Mahaweli Development Authority will be supported by the project and will emit two and a half acre solar panels.
-
-The project will provide necessary facilities to fishermen in fresh water fishermen and the surrounding facilities are provided to the surrounding villages.
-
-The project will provide electricity and highway facilities in the area and the main damage of the Kiriibban Wewa.
-
-The project, which was started on March 2024, is being implemented a special project and steps will be taken to expand these projects on the progress of the project.. A similar project is being implemented in the Chandrika Wewa of Embilipitiya.
-
-...
-
-[Data](articles/ff1be5af.json)
-
-[Extended Data](ext_articles/ff1be5af.ext.json)
 
 ---

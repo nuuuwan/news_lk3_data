@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 18:00:04**
+As of **2024-10-07 18:19:57**
 
 ## Newspaper Stats
 
-*Scraped **48,215** Articles*
+*Scraped **48,218** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ colombotelegraphcom | 476
 islandlk | 2,849
 economynextcom | 2,949
 dailyftlk | 3,247
-adalk | 4,460
+adalk | 4,462
 dailymirrorlk | 4,733
-adaderanalk | 5,684
+adaderanalk | 5,685
 tamilmirrorlk | 6,522
 virakesarilk | 7,718
 adaderanasinhalalk | 8,342
@@ -26,11 +26,59 @@ adaderanasinhalalk | 8,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,215 (100.0%) of 48,215 articles have been extended.
+48,218 (100.0%) of 48,218 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Asset and liability declarations mandatory for all General Election candidates –EC
+
+*2024-10-07 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102512/asset-and-liability-declarations-mandatory-for-all-general-election-candidates-ec-) · `en`
+
+The Election Commission announced that all candidates representing recognized political parties and independent groups contesting the upcoming general elections are required to submit their asset and liability statements along with their nomination papers.
+
+As per Sections 80(01)(P), 82(01)(E), 82(02), 89, and 90(04) of the Anti-Corruption Act No. 9 of 2023, the declarations must reflect the candidates’ assets and liabilities as of the date on which the election poll is officially announced, the election regulatory body said.
+
+Additionally, in compliance with Article 99A, candidates nominated for National List positions in Parliament must also submit their asset and liability statements to the Election Commission alongside their nomination documents.
+
+The Election Commission has issued a reminder that failure to provide the required declarations along with the nomination papers will constitute a punishable offense under the law.
+
+◼️
+
+[Data](articles/5a29a871.json)
+
+[Extended Data](ext_articles/5a29a871.ext.json)
+
+---
+
+### Sri Lanka supports Sri Lanka for economic development
+
+*2024-10-07 17:29:50* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-සංවර්ධනය-සඳහා-ලංකාවට-ආසියානු-සංවර්ධන-බැංකුවේ-සහය/11-412351) · `si`
+
+Sri Lanka receives financial aid from Asian Development Bank for tourism, energy, and small-scale industries. President Anura Kumara Dissanayake meets Director Takafumi Kadono to discuss implementation. The bank agrees to fund infrastructure improvements in the tourism sector and support energy and small entrepreneur projects.
+
+🟩
+
+Asian Development Bank has agreed to provide financial assistance to develop Sri Lanka's tourism, energy and small scale industries.
+
+President Anura Kumara Dissanayake met with the Director Takafumi Kadoneo for Sri Lanka this morning at the Presidential Secretariat this morning.
+
+Takafumi Kadono (TAKAFUY KADONO), the Director of the Asian Development Bank (Asian Development Bank) will continue to implement the economy of Sri Lanka.
+
+The Asian Development Bank has agreed to provide financial assistance to providing necessary facilities to improve the tourism industry to improve the economy of Sri Lanka.
+
+Accordingly, the Asian Development Bank has decided to provide funds to enhance the infrastructure in the tourism industry.
+
+President Anura Kumara Dissanayake agreed to improve the tourism industry in the North.
+
+...
+
+[Data](articles/2c72f539.json)
+
+[Extended Data](ext_articles/2c72f539.ext.json)
+
+---
 
 ### The boy's death in the fall of the stone
 
@@ -83,6 +131,22 @@ At this moment, the film crew has released a video of the film's hero's birthday
 [Data](articles/cf9303d7.json)
 
 [Extended Data](ext_articles/cf9303d7.ext.json)
+
+---
+
+### Schoolgirl dies after falling from Lotus Tower
+
+*2024-10-07 16:45:22* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුනෙන්-වැටී-පාසල්-සිසුවියක්-ජීවිතක්ෂයට/11-412350) · `si`
+
+A schoolgirl died after falling from the Lotus Tower in Sri Lanka. The incident occurred during a field trip. Authorities are investigating the cause of the fall.
+
+🟩
+
+◼️
+
+[Data](articles/60c7eb14.json)
+
+[Extended Data](ext_articles/60c7eb14.ext.json)
 
 ---
 
@@ -2265,75 +2329,5 @@ A senior official of the Ministry said that there were delays in the payment of 
 [Data](articles/34b14cfd.json)
 
 [Extended Data](ext_articles/34b14cfd.ext.json)
-
----
-
-### EPDP's Wanni District Candidate Details
-
-*2024-10-07 08:25:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈ-பி-டி-பியின்-வன்னி-மாவட்ட-வேட்பாளர்-விபரம்/175-345013) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Kulasingham Dileepan named EPDP's Vanni District candidate. Appointed by Christopher Dinase Rosinran and Madura Prabhot Herath for Vavuniya. Antony Pillai Jayaraj, Vinson Tibol Arulnathan, Chinnathurai also represent Mullaithivu.
-
-🟩
-
-Former parliamentarian Kulasingham Dileepan has been appointed as the primary candidate in the Vanni electoral district.. He has been appointed by Christopher Dinase Rosinran and Madura Prabhot Herath to represent Vavuniya.
-
-Along with them, representing the Mullaithivu of the Vanni electoral district, Antony Pillai Jayaraj, Vinson Tibol Arulnathan, Chinnathurai Dr.. (A)
-
-◼️
-
-[Data](articles/832e39db.json)
-
-[Extended Data](ext_articles/832e39db.ext.json)
-
----
-
-### Sixth of the secretary loses the general election
-
-*2024-10-07 08:17:38* · [`adalk`](https://www.ada.lk/breaking_news/ලේකම්-පිළිබඳව-ගැටලුවලින්-පක්ෂ-හයකට-මහ-මැතිවරණය-අහිමි-වෙයි/11-412340) · `si`
-
-Elections Commission announces 6 nominations rejected due to secretary issues. 77 political parties approved to contest general election.
-
-🟩
-
-The Elections Commission has announced that six nominations have not been made to contest the general election due to the issues of secretary.
-
-Accordingly, the Elever Democratic Front, United People's Freedom Alliance, United People's Front, and the Sri Lanka Progressive Party and the Sri Lanka Progressive Party (BC) and the Sri Lanka Progressive Party (BC) and the Sri Lanka Progressive Party (BC) is published in the November 14, 1981.The election commission will not be accepted for the general election.
-
-The Gazette has announced the names of 77 political parties who have been eligible to contest this year's general election and the Elections Commission.
-
-◼️
-
-[Data](articles/f9ee07ab.json)
-
-[Extended Data](ext_articles/f9ee07ab.ext.json)
-
----
-
-### What is the reason for the price of eggs?
-
-*2024-10-07 08:16:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-எகிறியதற்கு-காரணம்-என்ன/175-345011) · `ta`
-
-Egg prices rise due to increased demand and costs. Daily consumption increases from 80 lakh to 95 lakhs after price drop. Farmers sell at higher rates than purchase cost. Prices expected to normalize in two weeks.
-
-🟩
-
-Poultry farm owners say that the price of eggs has risen again due to the increase in egg prices, and the merchants go to the farms and collect the eggs.
-
-The daily egg consumption in the country is 80 lakh, and the egg prices have been reduced last week and the consumption of eggs has increased to 95 lakhs.
-
-Ajith H.. At an inquiry conducted by Gunasekaran, he said that the eggs purchased at Rs 22 from the farm were sold at a higher price.
-
-However, it is also mentioned that the price of eggs will return to normal in two weeks. Remble
-
-◼️
-
-[Data](articles/07e53254.json)
-
-[Extended Data](ext_articles/07e53254.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 21:38:49**
+As of **2024-10-07 21:58:27**
 
 ## Newspaper Stats
 
-*Scraped **48,244** Articles*
+*Scraped **48,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 477
 islandlk | 2,849
 economynextcom | 2,949
 dailyftlk | 3,247
-adalk | 4,466
+adalk | 4,467
 dailymirrorlk | 4,733
 adaderanalk | 5,687
 tamilmirrorlk | 6,526
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,244 (100.0%) of 48,244 articles have been extended.
+48,245 (100.0%) of 48,245 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,30 @@ Deputy Minister of Police Media Spokesperson DIG Talduwa, Speaking further
 [Data](articles/6ceb20e5.json)
 
 [Extended Data](ext_articles/6ceb20e5.ext.json)
+
+---
+
+### Excise Commissioner also babes foreign travel
+
+*2024-10-07 18:31:53* · [`adalk`](https://www.ada.lk/breaking_news/සුරා-බදු-කොමසාරිස්-ඇතුළු-පිරිසකට-විදෙස්-ගමන්-තහනමක්-ඉල්ලයි/11-412356) · `si`
+
+Supreme Court orders Excise Commissioner to stop issuing liquor licenses illegally. Petitioner claims informal licensing process. Court issues interim injunction on April 2nd.
+
+🟩
+
+A Sura Tax Commissioner General MJ. The Supreme Court today requested a man of a man in Nittambuwa to enabate an abroad ban against them as a group of explendants including Mr. Gunasiri.
+
+Despite the order of the Supreme Court not to issue the ordeal of the Supreme Court not to issue the ordeal of the Supreme Court, this mosquito has been filed in relation to the petition.
+
+Excise commissioner General MJ as respondents who have been produced by Gihan Shawinda Fernando, a resident of Nittambuwa Resident Residents.. Gunasiri, its Additional Director General AMP. Ampath and Deputy Excise Commissioners, Dharmasalan and CJA. Vitivekody gentlemen named.
+
+Gihan Shavinda Fernando, who files a mofter to the petition, has reportedly lays a process of issuing liquor licenses informally.
+
+...
+
+[Data](articles/8954ee83.json)
+
+[Extended Data](ext_articles/8954ee83.ext.json)
 
 ---
 
@@ -2337,27 +2361,5 @@ Issuing an advisory for heavy rains this morning, the department also warned tha
 [Data](articles/965b59cb.json)
 
 [Extended Data](ext_articles/965b59cb.ext.json)
-
----
-
-### The destruction of the wild elephant
-
-*2024-10-07 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201916) · `si`
-
-Young man Dinesh Sandaruwan, 28, killed when van collides with wild elephant. Vehicle overturned in river during return from picnic.
-
-🟩
-
-A young man dies of the 28-year-old Dinesh Sandaruwan, 28-year-old Dinesh Sandaruwan, a young man named Dinesh Sandaruwan.
-
-The young man rode the van collided with a wild elephant collided with the van, where the van, was flipped to the giant stream.
-
-At the time of the incident, he was only in the van and a group of picnic was returning to homes and returned to home.
-
-◼️
-
-[Data](articles/dc5309a0.json)
-
-[Extended Data](ext_articles/dc5309a0.ext.json)
 
 ---

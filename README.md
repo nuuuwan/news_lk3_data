@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 09:39:22**
+As of **2024-10-07 09:58:26**
 
 ## Newspaper Stats
 
-*Scraped **48,119** Articles*
+*Scraped **48,122** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,942
 dailyftlk | 3,247
 adalk | 4,446
 dailymirrorlk | 4,733
-adaderanalk | 5,668
-tamilmirrorlk | 6,498
+adaderanalk | 5,669
+tamilmirrorlk | 6,500
 virakesarilk | 7,701
 adaderanasinhalalk | 8,328
 
@@ -26,11 +26,83 @@ adaderanasinhalalk | 8,328
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,119 (100.0%) of 48,119 articles have been extended.
+48,122 (100.0%) of 48,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Rishad description in Amparai:
+
+*2024-10-07 09:28:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அம்பாறையில்-இழுபறி-ரிஷாட்-விளக்கம்/71-345018) · `ta`
+
+Rishad Bathiudeen: All Ceylon People's Congress won't join coalition supporting 20th Constitutional Amendment. Removed 3 MPs for misconduct. Party contests Ampara District elections separately.
+
+🟩
+
+All Ceylon People's Congress leader Rishad Bathiudeen said that the party will not join the coalition with the party and those who support the twentieth amendment to the Constitution.
+
+A meeting was held on Sunday (06) in Mannar, Manthai, thanks to the people who voted for the United People's Power in the last presidential election.
+
+“Some people who have been excluded from the party for wrongdoing claim that they have left the party today. The wrongdoers are immediately removed from the party. Our party has removed the three MPs who made this wrong.
+
+Similarly, we have removed someone from Kinniya. Today he has joined Ranil. Not only does he leave the party, he tells the media that he has left. Those who violate the decree of the people will teach.
+
+Our party will contest the upcoming general election in several districts including Ampara District. Some districts will compete with the United People's Power. We will not join the alliance that is formed by those who have been removed.
+
+...
+
+[Data](articles/de72ae28.json)
+
+[Extended Data](ext_articles/de72ae28.ext.json)
+
+---
+
+### Japanese language teacher arrested
+
+*2024-10-07 09:18:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிய-மொழி-ஆசிரியர்-கைது/175-345016) · `ta`
+
+Japanese language teacher arrested for fraud. Defrauded parents seeking jobs/education in Japan. Received over 300k rupees per parent. Multiple complaints filed across several districts.
+
+🟩
+
+Horana police say that the Japanese language teacher has been arrested for defrauding about Rs.
+
+The suspect has been arrested in connection with the four complaints against the suspect in connection with the lodge near Horana.
+
+Police investigations have revealed that the arrested suspect had cheated his parents for a job and higher education online for work in Japan and received more than three lakhs of rupees from each parents.
+
+A police officer who is investigating the arrest of the suspect has received several complaints from the Tehiyatta Kandy Sinhala Sinhala, Matugama, Thebuwana, Beliyatta, Morawaka, Tangalle and Wellawaya police.
+
+◼️
+
+[Data](articles/dff5c96a.json)
+
+[Extended Data](ext_articles/dff5c96a.ext.json)
+
+---
+
+### 32-year-old woman dies following attack in Keselwatta
+
+*2024-10-07 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102494/32-year-old-woman-dies-following-attack-in-keselwatta) · `en`
+
+A woman has reportedly died after being attacked with a sharp weapon in the Technical Junction area of the Keselwatta police division.
+
+She succumbed to her injuries after being admitted to the Colombo National Hospital earlier today (07).
+
+The deceased is a 32-year-old woman, but her permanent residential address has not yet been revealed, according to the police.
+
+Investigations have revealed that the murder resulted from a dispute between the deceased and another individual.
+
+The suspect has been identified, and the Keselwatta Police are conducting further investigations to arrest him.
+
+◼️
+
+[Data](articles/8388d57f.json)
+
+[Extended Data](ext_articles/8388d57f.ext.json)
+
+---
 
 ### Airport adventure: 240 people faint;5 people die
 
@@ -2279,85 +2351,5 @@ Meanwhile, the Illilonic Tamil Ahazi party nomination committee met in Vavuniya 
 [Data](articles/923c5596.json)
 
 [Extended Data](ext_articles/923c5596.ext.json)
-
----
-
-### The Department of Inland Revenue achieves a 70 percent tax goal
-
-*2024-10-06 13:01:59* · [`adalk`](https://www.ada.lk/breaking_news/දේශීය-ආදායම්-දෙපාර්තමේන්තුව-සියයට-70ක-බදු-ඉලක්කයක්-සපුරා-ගනියි/11-412324) · `si`
-
-Department of Inland Revenue meets 70% tax goal, earning Rs. 3024 crore. Commissioner General notes slow recovery progress but cites self-assessment scheme for ongoing payments. The department plans to visit taxpayers starting today to recover funds.
-
-🟩
-
-The Department of Inland Revenue earned tax revenue of Rs. 3024 by Rs.
-
-The Department of Inland Revenue has given a tax revenue target this year.
-
-The Commissioner General of Inland Revenue, the Commissioner General of Inland Revenue, said that the progress of recovery is not admirable, but there are still tax payments due to the self-assessment scheme.
-
-She added that the department from today (06) to ensure the recovery of funds will visit these taxpayers today.
-
-◼️
-
-[Data](articles/614a3849.json)
-
-[Extended Data](ext_articles/614a3849.ext.json)
-
----
-
-### Potatoes and B onion tax reached
-
-*2024-10-06 12:51:40* · [`adalk`](https://www.ada.lk/breaking_news/අල-හා-බී-ලූණු-බදු--ඉහළට/11-412323) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Government increases tax on imported potatoes and large onions to support local farmers. Potato tax raised by Rs. [amount], while onion tax increased from Rs. 30 per kg."
-
-🟩
-
-The government has taken steps to increase special import tax on potatoes and big onions. The steps have been taken to protect the local farmers with the local farmers and the potato yields of the local big onions and potatoes.
-
-Accordingly, the special import tax for potatoes has been increased by Rs.
-
-The tax of a kilogram of big onions has been increased by Rs. 30 to Rs.
-
-◼️
-
-[Data](articles/b68f04ba.json)
-
-[Extended Data](ext_articles/b68f04ba.ext.json)
-
----
-
-### The Israeli Prime Minister is waging war for his political future - relatives of those caught hostage by Hamas
-
-*2024-10-06 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195607) · `ta`
-
-Israeli PM Netanyahu faces criticism over handling of Hamas-held hostages. Protests demand action to free captives. Relatives accuse Netanyahu of prioritizing war over hostage release. Demonstrations near Netanyahu's home in Kfar Saba. Critics claim ongoing conflict benefits Netanyahu politically.
-
-🟩
-
-A year after the Hamas Organization has launched an attack on Israel, there have been protests in many cities of Israel in protest of the lack of appropriate measures to release those caught by Hamas.
-
-Demonstrators have requested that further action be taken to release the hostages that have been held in Gaza.
-
-Relatives of hostages who have been protesting in many cities, including the Israeli capital, have appealed for more serious measures to release the hostages.
-
-Demonstrations have also taken place in front of the personal residence of Prime Minister Benjamin Netanyaku in Israel's Kesaria.
-
-The mother of Mutton, Muttan, said that the hostages are still in the Gaza due to Benjamin Netanyaku.
-
-Benjamin Netanyaku did not want to release the hostages, but he wants to continue the war in the south, even though the war ended in the North, the mother said.
-
-"I think the war is politically helping Benjamin Nettanyaku, confirms that he is in power," he said.
-
-...
-
-[Data](articles/0f7332f3.json)
-
-[Extended Data](ext_articles/0f7332f3.ext.json)
 
 ---

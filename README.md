@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 08:45:08**
+As of **2024-10-07 08:59:04**
 
 ## Newspaper Stats
 
-*Scraped **48,106** Articles*
+*Scraped **48,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 2,942
 dailyftlk | 3,247
 adalk | 4,444
 dailymirrorlk | 4,733
-adaderanalk | 5,665
+adaderanalk | 5,666
 tamilmirrorlk | 6,493
 virakesarilk | 7,701
-adaderanasinhalalk | 8,325
+adaderanasinhalalk | 8,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,106 (100.0%) of 48,106 articles have been extended.
+48,106 (100.0%) of 48,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Heavy showers above 100mm expected in parts of the island
+
+*2024-10-07 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102491/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the Intertropical Convergence Zone, where winds from the Northern Hemisphere and Southern Hemisphere converge, is affecting the island’s weather.
+
+Showers or thundershowers will occur at most places in the island during the afternoon or night while heavy showers above 100 mm are likely at some places.
+
+Showers or thundershowers will occur in Western, Sabaragamuwa and North-western provinces and in Galle, Matara, Mannar and Mullaittivu districts during the morning too, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/a8f78fb9.json)
+
+---
 
 ### What is the reason for the price of eggs?
 
@@ -53,6 +71,44 @@ However, it is also mentioned that the price of eggs will return to normal in tw
 [Data](articles/07e53254.json)
 
 [Extended Data](ext_articles/07e53254.ext.json)
+
+---
+
+### මාරක රිය අනතුරු දෙකක්
+
+*2024-10-07 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201911) · `si`
+
+දිවයින පුරා සිදුවූ රිය අනතුරු දෙකකින් පුද්ගලයන් දෙදෙනෙකු මියගොස් තිබේ.
+
+ඒ අනුව, ගණේමුල්ල පොලිස් වසමේ මෝල හන්දිය නුගවෙල අතුරු මාර්ගයේ දී ලොරි රථයක් රියදුරු විසින් පසුපසට ධාවනය කළ අවස්ථාවේදී මාර්ගය අයිනේ ගමන් කළ කාන්තාවකගේ ගැටී සිදුවූ අනතුරින් එම කාන්තාව මියගොස් තිබේ.
+
+මේ අතර, හංවැල්ල පොලිස් වසමේ කළුඅග්ගල ලබුගම මාර්ගයේ පැල්පොල ප්‍රදේශයේදී කළුඅග්ගල දෙස සිට ලබුගම දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කරගත නොහැකිව මාර්ගයෙන් ඉවතට ගොස් අසල තිබූ බොක්කුවක් තුළට වැටී තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ පැදිකරු හා පසුපැදිකරු අවිස්සාවේල්ල රෝහලට ඇතුළත් කිරීමේදි පැදිකරු මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/c5d2d6cd.json)
+
+---
+
+### කොළඹදී කාන්තාවක් ව ඝාතනය කරයි
+
+*2024-10-07 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201910) · `si`
+
+කෙසෙල්වත්ත පොලිස් වසමේ ටෙක්නිකල් හන්දිය ප්‍රදේශයේදී තියුණු ආයුධයකින් පහරදීම හේතුවෙන් කාන්තාවක් මියගොස් තිබේ.
+
+පහරදීමෙන් බරපතළ තත්ත්වයේ පසුවූ ඇය කොළඹ ජාතික රෝහලට ඇතුළත් කිරීමේදි මියගොස් ඇත.
+
+ඇයගේ ස්ථීර පදිංචි ලිපිනය මෙතෙක් අනාවරණ වී නොමැති බව පොලීසිය පවසයි.
+
+මරණකාරිය සහ තවත් පුද්ගලයෙකු අතර ඇතිවූ ආරවුලක් මත මෙම ඝාතනය සිදුව ඇති බව විමර්ශනයේදී අනාවරණ වී ඇත.
+
+සැකකරු හඳුනාගෙන ඇති අතර, ඔහු අත්අඩංගුවට ගැනීම සඳහා කෙසෙල්වත්ත පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
+
+◼️
+
+[Data](articles/2ef542d7.json)
 
 ---
 
@@ -2289,85 +2345,5 @@ The price of eggs has increased again due to the decline of production, the Sri 
 [Data](articles/5c2b6c62.json)
 
 [Extended Data](ext_articles/5c2b6c62.ext.json)
-
----
-
-### 10 rupees per kg of potatoes and 20 rupees per big onion
-
-*2024-10-06 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195597) · `ta`
-
-Potato import tax raised from 50 to 60 rupees, onion tax from 20 to 40 rupees.
-
-🟩
-
-The Ministry of Finance has taken steps to increase the special import tax on one kilogram of potatoes and large onions.
-
-Accordingly, the import tax on one kilogram of potatoes has been increased by 10 rupees and the import tax on one kilogram of large onions has been increased by 20 rupees.
-
-Meanwhile, the potato import tax will be imported from 50 rupees to 60 rupees.. The Ministry of Finance has taken steps to increase the tax from 10 rupees to 30 rupees.
-
-◼️
-
-[Data](articles/bf3f594a.json)
-
-[Extended Data](ext_articles/bf3f594a.ext.json)
-
----
-
-### The former president declared Oiwa
-
-*2024-10-06 11:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதி-ஓய்வை-அறிவித்தார்/175-344969) · `ta`
-
-Former President Mahinda Rajapakse retires from politics due to health issues, criticism, and economic crisis allegations. He will not contest the upcoming election, citing adverse political environment and age.
-
-🟩
-
-Former President Mahinda Rajapakse has decided to retire from politics, reports say.
-
-Information about his retirement from politics has been revealed as Mahinda has decided not to contest the upcoming election.
-
-Sources close to Mahinda said that he had made this decision in view of the adverse environment, health and age in contemporary politics.
-
-It has also been pointed out that the criticism of traditional politics is also responsible for this decision.
-
-Many people who have been a member of the Mahinda regime have been accused of corruption and fraud in the past. The people of the country are very dissatisfied with this.
-
-It is noteworthy that the court ruled that the government was responsible for the economic crisis in Sri Lanka during the last regime
-
-◼️
-
-[Data](articles/e2df239b.json)
-
-[Extended Data](ext_articles/e2df239b.ext.json)
-
----
-
-### President Jayasree Maha Bodhi
-
-*2024-10-06 11:13:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஜயஸ்ரீ-மகா-போதியை-தரிசித்தார்/175-344967) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President Anura Kumara Dissanayake visited Anuradhapura, meeting Buddhist leaders. He emphasized protecting the country, nation, and religion. The President discussed the importance of a national policy and good governance.
-
-🟩
-
-President Anura Kumara Dissanayake was blessed by the historic Jayasree Maha Bodhi in Anuradhapura yesterday afternoon.
-
-The President who had gone to Anuradhapura first met Adamasthanapathi Pallegama Hemaratha Nayaka Thera and blessed him and asked him for good.
-
-Subsequently, the President of the Maha Sangha, led by the President of the President, recited and recited the blessing of the President's worship.
-
-Anuradhapuram. Ethalavetunuveve Gnanathilaka Thera. Kahakalle Gnaninda Thera, Mirichavettiya Vikramadi Velhene Sobhitha Thera, Abayagiri Vikramaditya. Ratnasiri Thera, Historical Irumuni. Religious Sumangla Thera, Anuradhapura Sri Sambutha Jayanthi Vihara. The Maha Sangam led by Nukheenne Panjananda Thera was present.
-
-He said that the country, the nation and the religion were to protect the life of the second time and the responsibility of improving the quality of life of the nation has been assigned to the President.
-
-...
-
-[Data](articles/05b7b3ff.json)
-
-[Extended Data](ext_articles/05b7b3ff.ext.json)
 
 ---

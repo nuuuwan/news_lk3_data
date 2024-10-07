@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 16:38:53**
+As of **2024-10-07 16:57:19**
 
 ## Newspaper Stats
 
-*Scraped **48,204** Articles*
+*Scraped **48,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ colombotelegraphcom | 476
 islandlk | 2,849
 economynextcom | 2,949
 dailyftlk | 3,247
-adalk | 4,458
+adalk | 4,459
 dailymirrorlk | 4,733
-adaderanalk | 5,683
-tamilmirrorlk | 6,520
-virakesarilk | 7,713
+adaderanalk | 5,684
+tamilmirrorlk | 6,521
+virakesarilk | 7,717
 adaderanasinhalalk | 8,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,204 (100.0%) of 48,204 articles have been extended.
+48,211 (100.0%) of 48,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Russian court sentences a 72-year-old American to nearly 7 years in prison for fighting in Ukraine
+
+*2024-10-07 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102511/russian-court-sentences-a-72-year-old-american-to-nearly-7-years-in-prison-for-fighting-in-ukraine) · `en`
+
+A Russian court on Monday sentenced a 72-year-old American in a closed trial to nearly seven years in prison for allegedly fighting as a mercenary in Ukraine.
+
+Prosecutors said Stephen Hubbard signed a contract with the Ukrainian military after Russia sent troops into Ukraine in February 2022 and he fought alongside them until being captured two months later.
+
+He was sentenced to six years and 10 months in a general-security prison. Prosecutors had called for a sentence of seven years in a maximum-security prison.
+
+Hubbard, from the state of Michigan, is the first American known to have been convicted on charges of fighting as a mercenary in the Ukrainian conflict.
+
+The charges carried a potential sentence of 15 years, but prosecutors asked that his age be taken into account along with his admission of guilt, Russian news reports said.
+
+...
+
+[Data](articles/2a8bf9db.json)
+
+[Extended Data](ext_articles/2a8bf9db.ext.json)
+
+---
 
 ### Schoolgirl dies after falling from Lotus Tower
 
@@ -64,6 +86,26 @@ A student of an international school has fallen to death from the observation de
 
 ---
 
+### The body of a police constable in Ja-Elee
+
+*2024-10-07 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195689) · `ta`
+
+Police constable body found in canal near Jala highway. Body discovered at Kaduwela police station.
+
+🟩
+
+A police constable has been recovered from a canal near the Jala highway, police said.
+
+The body of the body was found in the Kaduwela police station, police said.
+
+◼️
+
+[Data](articles/585b3425.json)
+
+[Extended Data](ext_articles/585b3425.ext.json)
+
+---
+
 ### Nobel prize for medicine: US duo Ambros and Ruvkun win for work on microRNA
 
 *2024-10-07 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102509/nobel-prize-for-medicine-us-duo-ambros-and-ruvkun-win-for-work-on-microrna) · `en`
@@ -81,6 +123,52 @@ Their work helped explain how cells specialise and develop into different types,
 [Data](articles/c8bdeb36.json)
 
 [Extended Data](ext_articles/c8bdeb36.ext.json)
+
+---
+
+### Boy death
+
+*2024-10-07 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195678) · `ta`
+
+Boy dies from fall during father's cleanup work. Incident occurred in Pallehake area under Nuriya police division. Boy rushed to hospital, body now at funeral room. Further investigation ongoing.
+
+🟩
+
+Nuri police said that a boy died after falling on his head near a house in the Pallehake area, which belongs to the Nuriya police division of the Kegalle.
+
+During the incident, the father of the deceased was cleaning the mountain pass in the upper part of the house.
+
+During this time, the boy who was injured when he was admitted to the Teraniyagala Hospital after he had fallen into the head of the boy near the house.
+
+The body of the boy has been placed in the funeral room of the Teraniyagala Hospital and further investigations are being carried out by fiber police.
+
+◼️
+
+[Data](articles/d22a7a08.json)
+
+[Extended Data](ext_articles/d22a7a08.ext.json)
+
+---
+
+### A leader who is not lucky in UNP history…!30 years of chairman and could not win any elections
+
+*2024-10-07 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195694) · `ta`
+
+Here's a 200-character summary:
+
+
+
+UNP leader Ranil Wickremesinghe, 78-year-old party head, announces retirement from politics after 47 years. Despite 30 years as chairman, he failed to win elections, losing party symbol. He refuses to give up responsibility but faces isolation within his own party.
+
+🟩
+
+Ranil, who has been the leader of the United National Party for 78 years, has been left alone today, but he is not ready to give up the responsibility of the party.. United National Party (UNP) leader Ranil Wickremesinghe, who has 47 years of parliamentary political experience, has already announced that he will not contest any election in the upcoming general election.. But the history of the fact that he has retired from the parliamentary election by removing the United National Party from the people's minds. He could not save the elephant symbol as the party leader.
+
+◼️
+
+[Data](articles/d4fbde42.json)
+
+[Extended Data](ext_articles/d4fbde42.ext.json)
 
 ---
 
@@ -133,6 +221,32 @@ Police believe that the killing was orchestrated by underworld figure Lalith Kan
 [Data](articles/8a8b2a73.json)
 
 [Extended Data](ext_articles/8a8b2a73.ext.json)
+
+---
+
+### Sri Lanka from World Bank to US $ 200 million
+
+*2024-10-07 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195690) · `ta`
+
+World Bank grants $200 million to Sri Lanka for economic development and rehabilitation programs. Funds allocated for poverty reduction, economic stability, and private sector growth. Second phase of DPF program aims to strengthen state resources management and protect victims of economic downturns.
+
+🟩
+
+The World Bank Group (WBG) International Development Association (IDA) has granted permission to provide more US $ 200 million in collaboration with Sri Lanka's Economic Development and Economic Rehabilitation Programs.
+
+The agreement was held on Monday afternoon at the Presidential Office and the agreement was signed by the President of the Government of Sri Lanka KM Mahinda Siriwardena and the Director of the World Bank David Sisen in the presence of President Anura Kumara Dissanayake.
+
+This financial facility shows the continued cooperation of the World Bank for Sri Lanka's comprehensive restructuring programs.
+
+Sri Lanka has received this financial assistance under the second phase of the DPF program to provide reset development policies to the resettlement, positioning and economy of Sri Lanka.
+
+This two-year program (2023-2024) is implemented to reduce the impact of poverty and the people and create a complete economic stability.
+
+...
+
+[Data](articles/16ef54d2.json)
+
+[Extended Data](ext_articles/16ef54d2.ext.json)
 
 ---
 
@@ -231,6 +345,28 @@ The All Ceylon Tamil Congress, led by former parliamentarian Gajendrakumar Ponna
 [Data](articles/25524dd9.json)
 
 [Extended Data](ext_articles/25524dd9.ext.json)
+
+---
+
+### Gajendran team, nomination
+
+*2024-10-07 15:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஜேந்திரன்-அணி-வேட்புமனு-தாக்கல்/175-345046) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Gajendran team: Nominations submitted by All Ceylon Tamil Congress, led by Gajendrakumar Ponnambalam, for Election District on 07/2023."
+
+🟩
+
+The All Ceylon Tamil Congress, led by former parliamentarian Gajendrakumar Ponnambalam, handed over the nominations for the All Ceylon Tamil Congress Election District on Monday (07).
+
+◼️
+
+[Data](articles/3e880a20.json)
+
+[Extended Data](ext_articles/3e880a20.ext.json)
 
 ---
 
@@ -427,6 +563,26 @@ The victim's house was shot in 2021 and was set on fire to his business.
 [Data](articles/b2f2fb9e.json)
 
 [Extended Data](ext_articles/b2f2fb9e.ext.json)
+
+---
+
+### Two players in Sri Lanka to be the player in September in September
+
+*2024-10-07 14:46:59* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී-සැප්තැම්බර්-මාසයේ-ක්‍රීඩකයා-වීමට-ශ්‍රී-ලංකාවේ-ක්‍රීඩකයන්-දෙදෙනෙක්/9-412349) · `si`
+
+Sri Lanka cricket: Rabath Jayasuriya, Kamindu Mendis selected for ICC tournament in September. Also includes Australian player Travis Hayed.
+
+🟩
+
+Two Sri Lankan players have been included in the International Cricket Council in the month of the month of Sri Lanka.
+
+Accordingly the ICC in September. Recommendation for the player is recommended that the name of the two players, Rabath Jayasuriya and Kamindu Mendis, as well as the name of Travis Hayed, Australia.
+
+◼️
+
+[Data](articles/e0bbd3fa.json)
+
+[Extended Data](ext_articles/e0bbd3fa.ext.json)
 
 ---
 
@@ -2167,137 +2323,5 @@ The acting IGP is also required to pay not paying the instructions paid to the g
 [Data](articles/1b1f47aa.json)
 
 [Extended Data](ext_articles/1b1f47aa.ext.json)
-
----
-
-### IMF report brings dedollarization politics to Sri Lanka
-
-*2024-10-07 07:27:00* · [`economynextcom`](https://economynext.com/imf-report-brings-dedollarization-politics-to-sri-lanka-182501/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund, in a report on how to print money to target a single policy rate, has also brought dedollarization politics to fore, though there is no demand from the public to undermine foreign currency deposit accounts.
-
-Dedollarization has not been on the agenda of the recent election or any other elections in Sri Lanka up to now.
-
-“The CBSL should introduce SRR for FX liabilities for macroprudential objective as part of a comprehensive framework aimed at dedollarization and promoting its own currency,” the IMF technical report on liquidity operations to maintain a ‘single policy rate’ said.
-
-Sri Lankans were given the freedom to have dollar bank accounts (deposit dollarization) by political leaders in 1979 as part of an opening of the economy from the draconian import and exchange controls that crippled the economy due to central bank’s liquidity injections.
-
-...
-
-[Data](articles/f0b4550e.json)
-
-[Extended Data](ext_articles/f0b4550e.ext.json)
-
----
-
-### Board of Directors of Government Institutions remain suspended
-
-*2024-10-07 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201909) · `si`
-
-Government suspends board meetings: No admin decisions allowed; new chairs/heads to be appointed by ministers.
-
-🟩
-
-Pradeep Community, Pradeep Sapathan, said that steps have been taken to suspend the meetings of statutory boards and other government institutions.
-
-He said that during this period, the heads of the institution should not be taken any administrative decision.
-
-He said that the relevant parents were appointed by the relevant officers to the Board of Directors in the future.
-
-Accordingly, the government has announced that the boards of statutory boards and other government institutions will be suspended.
-
-Prime Minister Secretary Pradeep Sapathan said that the appointment of new Chairmen and Heads of institutions were a role of the new Ministers.
-
-◼️
-
-[Data](articles/e5c48b5a.json)
-
-[Extended Data](ext_articles/e5c48b5a.ext.json)
-
----
-
-### Thundershowers in thunderstorms
-
-*2024-10-07 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201908) · `si`
-
-Thunderstorms bring heavy rain and strong winds. The Meteorology Department warns of potential lightning dangers. Thundershowers expected in western, southern, and northern regions. Public advised to be cautious.
-
-🟩
-
-The Department of Meteorology states that the weather in the island is influenced by the island.
-
-Thundershowers showers or thundershowers during the evening or night in many parts of the island.
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa and Northwestern provinces, in Galle, Matara, Mannar and Mullaitivu districts.
-
-The Department has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/368bbb0a.json)
-
-[Extended Data](ext_articles/368bbb0a.ext.json)
-
----
-
-### IIHS adds more professionalism to nurses with CUBN Pinning
-
-*2024-10-07 05:36:00* · [`islandlk`](http://island.lk/iihs-adds-more-professionalism-to-nurses-with-cubn-pinning/) · `en`
-
-IIHS Multiversity celebrated a landmark event recently – the Coventry University Bachelor’s in Nursing (CUBN) Pinning Ceremony.
-
-The occasion marked a significant milestone for aspiring nursing leaders as they formally transitioned from students to healthcare professionals, ready to take on their roles in the dynamic world of healthcare. The ceremony was graced by several distinguished guests, underscoring the importance of the event. Dr. Nihal De Silva, Chancellor/Chairman of IIHS Multiversity, Dr. Kithsiri Edirisinghe, CEO/Co-Founder/Director of International Relations, and Dr. Amal Harsha De Silva, Pro-Vice-Chancellor – International, all played key roles in shaping the day’s proceedings.
-
-...
-
-[Data](articles/81f1d198.json)
-
-[Extended Data](ext_articles/81f1d198.ext.json)
-
----
-
-### First Capital Treasuries recognised globally for industry leadership and reporting
-
-*2024-10-07 05:34:00* · [`islandlk`](http://island.lk/first-capital-treasuries-recognised-globally-for-industry-leadership-and-reporting/) · `en`
-
-First Capital Treasuries PLC (FCT), a leading non-bank primary dealer, continues to solidify its status as a financial powerhouse. The company has been recognized with esteemed international awards, highlighting its strong financial performance, exceptional industry expertise, and ability to leverage market dynamics, all while maintaining the highest reporting standards.
-
-FCT has been recognized by Finance Derivative Magazine as the “Most Leading Non-Bank Primary Dealer in Sri Lanka for 2024,” underscoring its market leadership and ability to navigate complex financial landscapes. This accolade highlights the Primary Dealer division’s outstanding performance in recent times and its skill in seizing market opportunities, even amidst challenging economic conditions.
-
-...
-
-[Data](articles/1b41127d.json)
-
-[Extended Data](ext_articles/1b41127d.ext.json)
-
----
-
-### AFI Corp donates vital sports equipment to deserving rural school in Nawalapitiya
-
-*2024-10-07 05:30:00* · [`islandlk`](http://island.lk/afi-corp-donates-vital-sports-equipment-to-deserving-rural-school-in-nawalapitiya/) · `en`
-
-As the whole world came together to celebrate the Olympic spirit, technology services and international staff solutions company AFI Corp got busy fostering the same spirit at the grassroots level in Sri Lanka.
-
-As an activity of its flagship corporate social responsibility initiative AFI Cares, the organization provided a wide range of much needed sports equipment to CP/GP Greenwood Tamil Vidyalam. A rural school in Nawalapitiya, Greenwood Tamil Vidyalam is nevertheless known for its enthusiasm and diversity in sports. AFI Corp provided a comprehensive set of sports equipment including for football, rugby, cricket, badminton and volleyball. The company also set up a new volleyball court on the school grounds, creating a lasting impact on the students’ ability to engage in the sport.
-
-...
-
-[Data](articles/856e04ce.json)
-
-[Extended Data](ext_articles/856e04ce.ext.json)
-
----
-
-### Diva commences registrations for 6th Entrepreneurial Skills Development Programme
-
-*2024-10-07 05:29:00* · [`islandlk`](http://island.lk/diva-commences-registrations-for-6th-entrepreneurial-skills-development-programme/) · `en`
-
-The ‘Diva Dathata Diriyak Entrepreneurial Skills Programme’ is a transformative collaboration between Diva, the flagship laundry care brand of Hemas Consumer Brands and Women in Management (WIM) to support women entrepreneurs in the island. This programme has been successfully conducted in 5 provinces and empowered over 275 women entrepreneurs to develop their businesses. By equipping these women with the necessary entrepreneurial skills, the programme not only helps them grow their businesses but also contributes to the general economic development of the country.
-
-...
-
-[Data](articles/8aa2c62e.json)
-
-[Extended Data](ext_articles/8aa2c62e.ext.json)
 
 ---

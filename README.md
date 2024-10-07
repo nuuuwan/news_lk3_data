@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 16:12:43**
+As of **2024-10-07 16:23:47**
 
 ## Newspaper Stats
 
-*Scraped **48,195** Articles*
+*Scraped **48,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,54 @@ dbsjeyarajcom | 396
 bbccomsinhala | 476
 colombotelegraphcom | 476
 islandlk | 2,849
-economynextcom | 2,944
+economynextcom | 2,949
 dailyftlk | 3,247
 adalk | 4,458
 dailymirrorlk | 4,733
 adaderanalk | 5,681
 tamilmirrorlk | 6,520
 virakesarilk | 7,713
-adaderanasinhalalk | 8,339
+adaderanasinhalalk | 8,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,195 (100.0%) of 48,195 articles have been extended.
+48,201 (100.0%) of 48,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Finding the Nobel Prize for Medical Science
+
+*2024-10-07 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201924) · `si`
+
+Here's a 200-character summary:
+
+
+
+Victor Ambrose wins Nobel Prize for Medicine for discovering microRNA's role in gene regulation. Established in 1901 by Alfred Nobel, awarded annually in Stockholm (except Peace Prize).
+
+🟩
+
+Victor Ambrose, Victor Ambrose, who won the Nobel Prize for Medical Science, has passed the Nobel Prize and Gary.
+
+They gave them the prize to find the role of Micro RNA and gene regulation.
+
+The prize, which was unveiled by a Swedish modernist and businessman Alfred Nobel, was given for science, literature and peace since 1901.
+
+Other Nobel Prizes are presented in Stockholm in Sweden, while the Nobel Peace Prize is presented in Oslo.
+
+When Alfred Nobel wrote its final will, the political unity between the countries in the Nordic region was considered.
+
+◼️
+
+[Data](articles/04668fa4.json)
+
+[Extended Data](ext_articles/04668fa4.ext.json)
+
+---
 
 ### Hanwella businessman shooting: Suspected shooter arrested
 
@@ -51,6 +81,32 @@ Police believe that the killing was orchestrated by underworld figure Lalith Kan
 [Data](articles/8a8b2a73.json)
 
 [Extended Data](ext_articles/8a8b2a73.ext.json)
+
+---
+
+### Sri Lanka’s China-backed port sees 40-pct rise in RORO moves on quarter
+
+*2024-10-07 15:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-port-sees-40-pct-rise-in-roro-moves-on-quarter-182649/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s China-backed Hambantota International Port said it has seen a 40 percent in roll-on-roll-off vehicle transshipments in the third quarter of 2024, compared to the second.
+
+Vehicles handled rose from 125,526 units in the second quarter to 175,583 units in the September quarter.
+
+“We experienced an increase in the arrival of high and heavy vehicles from our contracted clients, which has significantly contributed to the port’s revenue,” he said in a statement.
+
+“Several RORO shipping lines launching new services to new destinations through HIP, shows their growing confidence in the Port, especially considering the significant increase in the numbers of high end vehicles we transshipments.”
+
+The increase was helped by new shipping lines and new ports joining the network.
+
+Some of the new ports of loading in the portfolio include Shanghai, Ulsan, Taicang, Pyeongtaek, Dafeng and Baltimore.
+
+HIP had already increased yard space, for the expected expansion. (Colombo/Oct07/2024)
+
+◼️
+
+[Data](articles/ef1e754f.json)
+
+[Extended Data](ext_articles/ef1e754f.ext.json)
 
 ---
 
@@ -556,6 +612,26 @@ His great American predecessor rather more pithily summed it up in a few words �
 
 ---
 
+### Sri Lanka inks US$200mn World Bank loan for budget support
+
+*2024-10-07 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-inks-us200mn-world-bank-loan-for-budget-support-182637/) · `en`
+
+ECONOMYNEXT – Sri Lanka has signed an agreement for a 200 million dollar budget support loan with the World Bank linked to economic reforms in debt management, banking and female empowerment, the Washington-based lender said.
+
+This is the second part of the Resilience, Stability, and Economic Turnaround (RESET) Development Policy Operation (DPO). The first part, totaling $500 million, was disbursed in June and December 2023.
+
+“Sri Lanka will now have the opportunity to focus on maintaining its hard-earned stability and investing in the private sector to transform the national growth trajectory,” said David Sislen, World Bank Regional Country Director for Maldives, Nepal, and Sri Lanka.
+
+“Doing so is vital to boosting economic growth, creating jobs, and ensuring that everyone benefits from a stronger, more resilient economy.”
+
+...
+
+[Data](articles/482932cb.json)
+
+[Extended Data](ext_articles/482932cb.ext.json)
+
+---
+
 ### $ 200 million from the World Bank
 
 *2024-10-07 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201920) · `si`
@@ -637,6 +713,26 @@ It is noteworthy that the Eelam People's Democratic Party is contesting in the J
 [Data](articles/644118a4.json)
 
 [Extended Data](ext_articles/644118a4.ext.json)
+
+---
+
+### Sri Lanka opposition factions still in talks on party symbol
+
+*2024-10-07 13:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-factions-still-in-talks-on-party-symbol-182627/) · `en`
+
+ECONOMYNEXT — With five weeks to go to Sri Lanka’s parliamentary election, the island nation’s opposition parties are still in talks on what party symbols to contest under.
+
+The United National Party (UNP) and the faction of the Sri Lanka Podujana Peramuna (SLPP) that backed former president Ranil Wickremesinghe at the presidential election have yet to decide whether to contest under the UNP’s elephant or the gas cylinder under which Wickremesinghe had to contest the presidential poll as an independent candidate.
+
+The UNP’ Vajira Abeyardana told reporters that discussions are under way for a common alliance to contest all districts under the gas cylinder with the exception of two.
+
+“It is very clear that the National People’s Power (NPP) government is following Wickremesinghe’s path. We must support that,” said Abeywardana.
+
+...
+
+[Data](articles/4d87391f.json)
+
+[Extended Data](ext_articles/4d87391f.ext.json)
 
 ---
 
@@ -756,6 +852,30 @@ The two suspects were accused of providing several issues of the scholarship exa
 
 ---
 
+### Sri Lanka president meets ADB, WB representatives
+
+*2024-10-07 12:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-adb-wb-representatives-182623/) · `en`
+
+EONOMYNEXT – Sri Lanka’s President Anura Dissanayake has met World Bank and Asian Development Bank country representatives. The WB has pledged 200 million dollars for Phase 2 of the RESET program.
+
+The Sri Lanka Resilience, Stability and Economic Turnaround (RESET) Development Policy Operation (DPO), which provides budget support to the government was initially signed by the previous government on June 28, 2023.
+
+“This funding supports economic reforms for stability, growth, and protection of the vulnerable,” the president’s media division said.
+
+The agreement was signed by Finance Secretary K M Siriwardana and the World Bank’s Country Director David Sislen, according to the PMD.
+
+ADB Country Director Takafumi Kadono met Dissanayake to discuss the country’s economic recovery.
+
+“Key areas of focus were tourism, energy and support for small-scale entrepreneur,” PMD said, adding that “ADB will aid tourism in the Northern Region,” without giving details. (Colombo/Oct7/2024)
+
+◼️
+
+[Data](articles/e8a47610.json)
+
+[Extended Data](ext_articles/e8a47610.ext.json)
+
+---
+
 ### World Bank signs additional $200M to support Sri Lanka’s economic reforms
 
 *2024-10-07 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102503/world-bank-signs-additional-200m-to-support-sri-lankas-economic-reforms) · `en`
@@ -813,6 +933,30 @@ Some people who traveled to the house were unloaded at home and traveled back to
 [Data](articles/058483e1.json)
 
 [Extended Data](ext_articles/058483e1.ext.json)
+
+---
+
+### LTL to pay interest after Sri Lanka regulator halts IPO
+
+*2024-10-07 12:28:00* · [`economynextcom`](https://economynext.com/ltl-to-pay-interest-after-sri-lanka-regulator-halts-ipo-182613/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s LTL Holdings said it will pay interest to applicants of an initial public offer which was halted by the regulator pending an interim court order.
+
+The IPO was initially halted pending disclosure of matters including a court case.
+
+The hearing of the court case and possible interim relief is due on October 11.
+
+The SEC has ordered that the IPO be put on hold “until the Supreme Court makes a ruling on the interim relief as sought by the petitioner in SC/FR/Application No. 263/2024.”
+
+LTL said applications already made could be withdrawn or kept till a fresh date for opening of the IPO is decided:
+
+“The Company will pay interest at a rate of 10.49% p.a. (which is the 91-days Treasury Bill rate published by the Central Bank of Sri Lanka on 19th September 2024) from 10th September 2024 or the date of transfer of application monies, whichever is latest, until;
+
+...
+
+[Data](articles/6c8a4617.json)
+
+[Extended Data](ext_articles/6c8a4617.ext.json)
 
 ---
 
@@ -2171,111 +2315,5 @@ Last week, the Police Media Division reported that a special meeting was held on
 [Data](articles/6a7a643f.json)
 
 [Extended Data](ext_articles/6a7a643f.ext.json)
-
----
-
-### Rajeev Amarasuriya to contest for post of BASL President 2025/2026
-
-*2024-10-07 04:01:32* · [`dailyftlk`](https://www.ft.lk/news/Rajeev-Amarasuriya-to-contest-for-post-of-BASL-President-2025-2026/56-767644) · `en`
-
-Attorney-at-Law Rajeev Amarasuriya will contest for the post of President of the Bar Association of Sri Lanka (BASL) for the year 2025/2026, at the elections scheduled for February 2025.
-
-Amarasuriya was elected BASL Secretary in February 2020 with a landslide majority, having received 83% of the votes cast, and thereafter commenced his tenure in the midst of the first country lockdown due to the COVID-19 pandemic.
-
-Amarasuriya, as BASL Secretary, is credited for providing transformational leadership to the BASL during the period 2020–2022, which covered both the pandemic and the economic crisis, introducing many novel initiatives and completely changing the way the BASL conducted its operations, making use of new technology and other innovative methods.
-
-...
-
-[Data](articles/50908cae.json)
-
-[Extended Data](ext_articles/50908cae.ext.json)
-
----
-
-### Industry giant Maliban asserts intellectual property rights for ‘Maliban Cream Cracker’ in famous ‘red’ pack
-
-*2024-10-07 03:57:24* · [`dailyftlk`](https://www.ft.lk/business/Industry-giant-Maliban-asserts-intellectual-property-rights-for-Maliban-Cream-Cracker-in-famous-red-pack/34-767643) · `en`
-
-An enjoining order was issued by the Commercial High Court of Colombo on 30 September 2024 enjoining Uswatte Confectionery Works Ltd. from manufacturing, packing, stocking, displaying, distributing, selling, reselling, advertising, promoting, and/or dealing in any manner howsoever, any products under the packaging which is confusingly similar and/or identical to the ‘Maliban Cream Cracker’ packaging owned by the industry giant Maliban Biscuit Manufactories Ltd.
-
-The matter was taken up before Judge K.P. Fernando in the Commercial High Court of Colombo, and upon hearing the submissions made by the Counsel representing Maliban Biscuit Manufactories Ltd., the enjoining order was granted against the Defendant, Uswatte Confectionery Works Ltd.
-
-...
-
-[Data](articles/35640cc2.json)
-
-[Extended Data](ext_articles/35640cc2.ext.json)
-
----
-
-### Ceylon Chamber welcomes successful IMF and OCC agreement on debt relief
-
-*2024-10-07 03:56:55* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-welcomes-successful-IMF-and-OCC-agreement-on-debt-relief/34-767642) · `en`
-
-The Ceylon Chamber of Commerce yesterday commended the Government on the successful completion of consultations with the Official Creditor Committee (OCC) and the International Monetary Fund (IMF) regarding the Agreement in Principle (AIP) reached with international and local holders of International Sovereign Bonds (ISBs).
-
-It said this marks significant progress towards achieving external debt restructuring and is aligned with the first priority out of the 10 key areas The Chamber highlighted in its recommendations to the new administration (https://www.chamber.lk/ceylon-chamber-congratulates-new-president/).
-
-...
-
-[Data](articles/ba9f53c2.json)
-
-[Extended Data](ext_articles/ba9f53c2.ext.json)
-
----
-
-### One person dies in a heavy vehicle collision with a plowing machine
-
-*2024-10-07 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195652) · `ta`
-
-Heavy vehicle collides with plowing machine near Malwatte School, Ampara. One killed instantly, another hospitalized. Driver arrested. Police investigating.
-
-🟩
-
-One person died on the spot when a heavy vehicle crashed with a plowing machine and the other was admitted to the hospital with injuries.
-
-The incident took place on Saturday evening (05) evening at the Malwatte School, located on the Kalmunai Ampara main road, which belongs to the Ampara District.. Another man has been admitted to the Ampara Hospital after being injured.
-
-The accident was on the way back home from the plowing machine and the driver of the heavy vehicle collided with a plowing machine has been arrested by the police.
-
-The body of the deceased in the accident. Samanthurai police are conducting further investigations.
-
-◼️
-
-[Data](articles/02e2d2f3.json)
-
-[Extended Data](ext_articles/02e2d2f3.ext.json)
-
----
-
-### Nine leadership imperatives for new Lankan leader
-
-*2024-10-07 02:18:17* · [`dailyftlk`](https://www.ft.lk/columns/Nine-leadership-imperatives-for-new-Lankan-leader/4-767632) · `en`
-
-The country has spoken loud and clear. We have a new leader, not representing one race or religion but the entire nation. It does not matter whether he was one’s dream leader or not. What does really matter now is his delivery as per the declared desire and design. Let me reflect on leadership in the context of the refreshing revival expected. Let me identify seven leadership challenges for the new Sri Lankan leader, from a management perspective.
-
-...
-
-[Data](articles/fa0b4e9f.json)
-
-[Extended Data](ext_articles/fa0b4e9f.ext.json)
-
----
-
-### American Chamber of Commerce in Sri Lanka holds 32nd AGM
-
-*2024-10-07 01:39:11* · [`dailyftlk`](https://www.ft.lk/business/American-Chamber-of-Commerce-in-Sri-Lanka-holds-32nd-AGM/34-767621) · `en`
-
-The AmCham Sri Lanka held its 32nd Annual General Meeting and election of Directors recently.
-
-At this year’s AGM, the AmCham Sri Lanka reflected on a year of strengthened partnerships, and a commitment to fostering a robust, dynamic business environment. As the voice of the US-Sri Lanka business community, the AmCham Sri Lanka will continue to foster cross-border collaborations that drive economic prosperity.
-
-The AmCham Sri Lanka reported a year of exceptional performance, as highlighted during its AGM. In 2023/24, the Chamber successfully united the local business community through numerous business and social events, further strengthening bilateral relations between Sri Lanka and the United States of America, while demonstrating remarkable resilience and adaptability. The Chamber also achieved its highest net surplus for the fifth consecutive year. This underscores the AmCham Sri Lanka’s strength, even amid challenging economic conditions.
-
-...
-
-[Data](articles/70652c43.json)
-
-[Extended Data](ext_articles/70652c43.ext.json)
 
 ---

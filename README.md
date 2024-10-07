@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 15:58:21**
+As of **2024-10-07 16:12:43**
 
 ## Newspaper Stats
 
-*Scraped **48,192** Articles*
+*Scraped **48,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ newsfirstlk | 363
 dbsjeyarajcom | 396
 bbccomsinhala | 476
 colombotelegraphcom | 476
-islandlk | 2,848
+islandlk | 2,849
 economynextcom | 2,944
 dailyftlk | 3,247
-adalk | 4,457
+adalk | 4,458
 dailymirrorlk | 4,733
-adaderanalk | 5,680
+adaderanalk | 5,681
 tamilmirrorlk | 6,520
 virakesarilk | 7,713
 adaderanasinhalalk | 8,339
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,339
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,192 (100.0%) of 48,192 articles have been extended.
+48,195 (100.0%) of 48,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Hanwella businessman shooting: Suspected shooter arrested
+
+*2024-10-07 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102508/hanwella-businessman-shooting-suspected-shooter-arrested) · `en`
+
+Police have arrested the suspected shooter in the killing of a 55-year-old businessman who was shot dead in the Neluwattuduwa area of Hanwella on September 30, allegedly due to a dispute over failure to pay ransom.
+
+The incident occurred at around 8.15 p.m. on September 30, and the victim, identified as Vajira Nishantha, succumbed to his injuries after being admitted to Avissawella Hospital in critical condition, according to Police Spokesman DIG Nihal Thalduwa.
+
+The shooter, who carried out the attack inside the victim’s home, has been arrested, police confirmed. Authorities suspect the gunman used a T56 assault rifle to commit the murder.
+
+CCTV cameras had captured the moment the suspect jumped over the house’s wall, fired the fatal shots, and fled the scene.
+
+Police believe that the killing was orchestrated by underworld figure Lalith Kannangara, who is currently in hiding in Dubai.
+
+...
+
+[Data](articles/8a8b2a73.json)
+
+[Extended Data](ext_articles/8a8b2a73.ext.json)
+
+---
 
 ### Nilantha Jayawardene apologizes in court
 
@@ -398,6 +420,20 @@ This two-year program (2023-2024) is implemented to reduce the impact of poverty
 
 ---
 
+### The Economy, Executive Presidency, and the Parliamentary Election
+
+*2024-10-07 14:26:00* · [`islandlk`](http://island.lk/the-economy-executive-presidency-and-the-parliamentary-election/) · `en`
+
+Although it was the economy that ended Gotabaya Rajapaksa’s presidency and it was very much the main backdrop to the September presidential election, the results of the election cannot be interpreted as showing a voter preference for any particular direction for economic management. In fact, in an earlier CPA opinion poll, a good majority of the respondents in general, and especially among the Sinhalese, had indicated that they did not trust of any of three main candidates for their abilities to steer the economy out of trouble to recovery and growth.
+
+...
+
+[Data](articles/0dfcf9a7.json)
+
+[Extended Data](ext_articles/0dfcf9a7.ext.json)
+
+---
+
 ### "Please submit property details"
 
 *2024-10-07 14:24:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விபரங்களையும்-சேர்த்து-சமர்ப்பிக்கவும்/175-345042) · `ta`
@@ -504,6 +540,22 @@ And on Monday, Hamas showed that it was still putting up a fight. It launched ro
 
 ---
 
+### The challenge confronting Anura Kumara
+
+*2024-10-07 14:19:00* · [`islandlk`](http://island.lk/the-challenge-confronting-anura-kumara/) · `en`
+
+Anura rose from the humblest of origins to the pinnacle power. In the months to come more lyrical and elegant commentators than this one will serenade this young man’s story and compare it to the expedition that America’s greatest president undertook from log-cabin to White House. An astonishing matter is that the promises Anura gave the nation at the time he was sworn-in was very long; good governance, punishment of corrupt politicos and hangers-on, prosecution of malignant officials, unification of the nation and abolition of racism.
+
+His great American predecessor rather more pithily summed it up in a few words “government of the people, by the people, for the people”. He engaged in war for two inseparable objectives: “To consecrate a portion of the field for those who gave their lives so that the nation might live” and secondly to lay the ground for the Proclamation of Emancipation on January 1, 1863.
+
+...
+
+[Data](articles/c47484fd.json)
+
+[Extended Data](ext_articles/c47484fd.ext.json)
+
+---
+
 ### $ 200 million from the World Bank
 
 *2024-10-07 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201920) · `si`
@@ -585,6 +637,24 @@ It is noteworthy that the Eelam People's Democratic Party is contesting in the J
 [Data](articles/644118a4.json)
 
 [Extended Data](ext_articles/644118a4.ext.json)
+
+---
+
+### Crisis in Sri Lanka-US relations, Janavegaya & Mrs. B separating politics from official work
+
+*2024-10-07 13:36:00* · [`islandlk`](http://island.lk/crisis-in-sri-lanka-us-relations-janavegaya-mrs-b-separating-politics-from-official-work/) · `en`
+
+(Excerpted from the autobiography of Dharmasiri Pieris, Secretary to the Prime Minister)
+
+One could not however easily get away from managing. Besides the day to day management that was necessary to maintain paper and information flows, one had to service important meetings and conferences. There was the perpetual follow-up of numerous matters, each day bringing new material. In the midst of all these, someone often created a crisis, which ultimately ended up with us.
+
+One such, during this time was the strong attack made by the Finance Minister Dr. N.M. Perera, on United States PL 480 assistance to Sri Lanka, before a large gathering on May Day. To the Americans, this attack by a senior Minister and the Finance Minister on an important program of official assistance was indeed inexplicable and unfriendly. Chris Van Hollen the Ambassador was not unnaturally quite exercised over this.
+
+...
+
+[Data](articles/9d642185.json)
+
+[Extended Data](ext_articles/9d642185.ext.json)
 
 ---
 
@@ -1251,6 +1321,28 @@ The Sri Lanka PA (SLPP), which has a majority in the present parliament, has dec
 [Data](articles/9b28765a.json)
 
 [Extended Data](ext_articles/9b28765a.ext.json)
+
+---
+
+### Pilleyan comes to the general election alone
+
+*2024-10-07 10:33:59* · [`adalk`](https://www.ada.lk/breaking_news/පිල්ලෙයාන්-මහ-මැතිවරණයට-තනිවම-එයි/11-412343) · `si`
+
+Ranil Wickremesinghe contests general election solo after Tamil Wikilakara joins UNP. UNP General Secretary Pesalan announces candidacy for East, Trincomalee, Batticaloa, and Ampara districts. Party invites others to join under its banner in Eastern Province.
+
+🟩
+
+Tamil Wikilakara, Chandrakanthan, who has led to common candidate Ranil Wickremesinghe in the presidential election, has decided to contest the same general election this year's general election.
+
+UNP General Secretary of the UNP will hand nominations for the districts of the East to contest the districts of the East, Trincomalee, Batticaloa and Ampara Districts.. Said Mr. Pesanan.
+
+The party has been invited to other parties in the Eastern Province to contest under the mark of the party as a common alliance.
+
+◼️
+
+[Data](articles/e9f3d276.json)
+
+[Extended Data](ext_articles/e9f3d276.ext.json)
 
 ---
 
@@ -2185,97 +2277,5 @@ The AmCham Sri Lanka reported a year of exceptional performance, as highlighted 
 [Data](articles/70652c43.json)
 
 [Extended Data](ext_articles/70652c43.ext.json)
-
----
-
-### Sri Lankan company leaders demonstrate expertise as sustainability champions at Asia and Oceania regional event ‘Forward Faster Now by UN Global Compact’
-
-*2024-10-07 01:35:54* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-company-leaders-demonstrate-expertise-as-sustainability-champions-at-Asia-and-Oceania-regional-event-Forward-Faster-Now-by-UN-Global-Compact/34-767620) · `en`
-
-The UN Global Compact regional flagship event, ‘Forward Faster Now|Asia & Oceania’, held in Kuala Lumpur on 5-6 August, marked a pivotal moment for sustainable business action across the region.
-
-Organised by the United Nations Global Compact in collaboration with 16 Global Compact Country Networks and Country Offices, the inaugural event brought together high-level executives, government leaders, and sustainability experts from across Asia and Oceania.
-
-The landmark event aimed to accelerate sustainable business practices, build partnerships, and highlight impactful stories of corporate sustainability. It served as a platform for regional peer learning and exchange, focusing on key themes such as Sustainable Development Goals (SDGs) progress, business commitment to sustainability, and integrating sustainability into corporate operations.
-
-...
-
-[Data](articles/9e3cf935.json)
-
-[Extended Data](ext_articles/9e3cf935.ext.json)
-
----
-
-### Sri Lanka’s International Sovereign Bonds restructuring – frequently asked questions
-
-*2024-10-07 01:05:47* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-International-Sovereign-Bonds-restructuring-frequently-asked-questions/14-767615) · `en`
-
-On 19 September 2024, the Democratic Socialist Republic of Sri Lanka (the “Republic”) announced agreements in principle on the restructuring of approximately $ 14.2 billion of sovereign debt (as of end 2023) with the holders of its International Sovereign Bonds (the “Bonds”), following negotiations with the Ad Hoc Group of Bondholders (“AHGB”), a representative group of international investors, and the Local Consortium of Sri Lanka (“LCSL”), a representative group of domestic financial institutions.
-
-...
-
-[Data](articles/57f2cef6.json)
-
-[Extended Data](ext_articles/57f2cef6.ext.json)
-
----
-
-### Delma Lanka celebrates Calin Baby Soap’s SLS certification and new product launch at gala event
-
-*2024-10-07 00:44:00* · [`islandlk`](http://island.lk/delma-lanka-celebrates-calin-baby-soaps-sls-certification-and-new-product-launch-at-gala-event-2/) · `en`
-
-Delma Lanka marked a significant milestone on October 1st with a media event at the luxurious Shangri-La Hotel in Colombo, celebrating the SLS certification of Calin Baby Soap. The occasion, timed to coincide with World Children’s Day, was led by a distinguished panel, including founder Lelwala G Piyanandha, Managing Director Umesh Godakanda, Director Chathurika Jayasekara, Sudaraka Chirantha, National Sales Manager, President’s Counsel Dr. Harsha Cabral, and Senior Counsel Sunil Watagala. Maternal and child health consultant Shyamali Pathirage served as chairperson for the event.
-
-A vibrant gathering of media representatives from television, radio, print, and social media joined commercial partners from the Delma Lanka along with notable artists and other prominent guests, making the event a true celebration of community and achievement.
-
-Lelwala G Piyanandha, the founder of Delma Lanka lighting the oil lamp to commence the ceremony
-
-...
-
-[Data](articles/d08cfcac.json)
-
-[Extended Data](ext_articles/d08cfcac.ext.json)
-
----
-
-### LTL Holdings IPO postponed pending supreme court ruling
-
-*2024-10-07 00:42:00* · [`islandlk`](http://island.lk/ltl-holdings-ipo-postponed-pending-supreme-court-ruling/) · `en`
-
-LTL Holdings Limited has announced that its Initial Public Offering (IPO) will be postponed following instructions from the Securities and Exchange Commission of Sri Lanka (SEC).
-
-The decision comes after a directive from the Colombo Stock Exchange (CSE) to publish an addendum to the IPO prospectus dated August 29, 2024.
-
-The SEC, by a letter dated October 01, 2024, has advised the CSE to halt proceedings related to the IPO until the supreme court rules on an interim relief sought by the petitioners in case SC/FR/Application No. 263/2024. The Supreme Court is expected to address the matter on October 11, 2024.
-
-LTL Holdings had previously amended the prospectus on September 08 and September 30, 2024, but the IPO is now on hold until further notice.
-
-First Capital Treasuries recognised globally for industry leadership and reporting
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/4235a7ce.json)
-
-[Extended Data](ext_articles/4235a7ce.ext.json)
-
----
-
-### ADB to spur low-carbon transition in Chinese industrial parks
-
-*2024-10-07 00:41:00* · [`islandlk`](http://island.lk/adb-to-spur-low-carbon-transition-in-chinese-industrial-parks/) · `en`
-
-The Asian Development Bank (ADB) has approved a $200 million loan equivalent to enhance low-carbon transition investments and climate-resilient development in industrial parks in the People’s Republic of China (PRC).
-
-The total project cost is $602.25 million equivalent and is expected to be completed in 2031.
-
-“ADB continues to support the PRC and its climate change commitments by catalyzing financing and strengthening institutional capacity for low-carbon transitions in carbon-intensive sectors,” said ADB Country Director for the PRC Safdar Parvez. “The project will benefit 1.5 million people working and living in industrial parks through reduced carbon emissions and improved air quality.”
-
-...
-
-[Data](articles/84261849.json)
-
-[Extended Data](ext_articles/84261849.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 16:57:19**
+As of **2024-10-07 17:08:23**
 
 ## Newspaper Stats
 
-*Scraped **48,211** Articles*
+*Scraped **48,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ colombotelegraphcom | 476
 islandlk | 2,849
 economynextcom | 2,949
 dailyftlk | 3,247
-adalk | 4,459
+adalk | 4,460
 dailymirrorlk | 4,733
 adaderanalk | 5,684
 tamilmirrorlk | 6,521
 virakesarilk | 7,717
-adaderanasinhalalk | 8,341
+adaderanasinhalalk | 8,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,211 (100.0%) of 48,211 articles have been extended.
+48,213 (100.0%) of 48,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### The Asian Development Bank promise to the President
+
+*2024-10-07 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201926) · `si`
+
+Asian Development Bank agrees to support Sri Lanka's tourism, energy, and small-scale entrepreneurship development. Financial assistance will be provided to enhance infrastructure and improve economic growth. The bank commits to continuing its efforts to strengthen Sri Lanka's economy.
+
+🟩
+
+Asian Development Bank has agreed to provide financial assistance to develop Sri Lanka's tourism, energy and small scale entrepreneurs.
+
+President Anura Kumara Dissanayake met with the Director of Director Takafumi Karator for Sri Lanka at the Presidential Secretariat this morning (07) at the Presidential Secretariat.
+
+The Director of the ADB stressed that all agreements carried out by the Asian Development Bank will continue to implement the economy of Sri Lanka.
+
+The Asian Development Bank has agreed to provide financial assistance to providing necessary facilities to improve the tourism industry to improve the economy of Sri Lanka.
+
+Accordingly, the Asian Development Bank has decided to provide funds to enhance the infrastructure in the tourism industry.
+
+According to the request made by President Anura Kumara Dissanayake, the Director of the Asian Development Bank has agreed to improve the tourism industry in the North.
+
+...
+
+[Data](articles/54be2790.json)
+
+[Extended Data](ext_articles/54be2790.ext.json)
+
+---
 
 ### Russian court sentences a 72-year-old American to nearly 7 years in prison for fighting in Ukraine
 
@@ -76,7 +104,13 @@ A schoolgirl has died after falling from the View Photo Gallery in Colombo and L
 
 *2024-10-07 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102510/student-falls-to-death-from-colombo-lotus-tower) · `en`
 
-A student of an international school has fallen to death from the observation deck of the Lotus Tower in Colombo, the police said.
+A student of an international school has fallen to death from the observation deck of the Lotus Tower in Colombo.
+
+UPDATE: However, the police claims that the female student, who was in civilian clothes, had jumped off the 29th floor of the tower in which the observation deck is located.
+
+The deceased girl has been identified as an 18-year-old, Ada Derana reporter said.
+
+If you or someone you know is in crisis and needs help, resources are available for immediate support:
 
 ◼️
 
@@ -1234,6 +1268,34 @@ Jayawardena has appeared in court on Monday (07) to present the facts of the Sup
 
 ---
 
+### Flooding Solar Power Plant in Kiriibban Wewa
+
+*2024-10-07 12:13:23* · [`adalk`](https://www.ada.lk/breaking_news/කිරිඉබ්බන්-වැවේ-ඉඳිවන-පාවෙන-සූර්ය-විදුලි-බලාගාරයේ-වැඩ-නිමවෙමින්/11-412346) · `si`
+
+Sri Lanka: $2m solar power plant in Kiriibban Wewa to boost national grid, support local communities and infrastructure development. Project aims to provide electricity and improve living conditions for nearby residents.
+
+🟩
+
+Chairperson of the Sri Lanka Sustainable Energy Authority (SLFP) is the Chairman of the Sri Lanka State Power Plant in the Sevivabanwewa, the Government's assistance in the Sevilagala Divisional Secretariat of Korean.
+
+The project that is spending two million US dollars will be added to the national grid.
+
+Sevanagala Divisional Secretariat, Mahaweli Development Authority will be supported by the project and will emit two and a half acre solar panels.
+
+The project will provide necessary facilities to fishermen in fresh water fishermen and the surrounding facilities are provided to the surrounding villages.
+
+The project will provide electricity and highway facilities in the area and the main damage of the Kiriibban Wewa.
+
+The project, which was started on March 2024, is being implemented a special project and steps will be taken to expand these projects on the progress of the project.. A similar project is being implemented in the Chandrika Wewa of Embilipitiya.
+
+...
+
+[Data](articles/ff1be5af.json)
+
+[Extended Data](ext_articles/ff1be5af.ext.json)
+
+---
+
 ### Landslide warnings for several districts
 
 *2024-10-07 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201918) · `si`
@@ -2267,61 +2329,5 @@ The motorcyclist was killed in admission to the Avissawella hospital.
 [Data](articles/c5d2d6cd.json)
 
 [Extended Data](ext_articles/c5d2d6cd.ext.json)
-
----
-
-### Woman murder in Colombo
-
-*2024-10-07 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201910) · `si`
-
-Colombo: Woman murdered in Keselwatta. Sharp weapon used. Admitted to Colombo National Hospital. Suspect identified. Dispute led to killing. Investigations ongoing.
-
-🟩
-
-A woman was killed by a sharp weapon in the Technical Junction area in Keselwatta area.
-
-She was also killed in admission to the Colombo National Hospital.
-
-Police say that her permanent residential residential address has not been revealed yet.
-
-Investigations have revealed that the murder had taken place on a dispute between the deceased and another.
-
-The suspect has been identified and the Keselwatta Police are conducting further investigations.
-
-◼️
-
-[Data](articles/2ef542d7.json)
-
-[Extended Data](ext_articles/2ef542d7.ext.json)
-
----
-
-### 1145 officers who were in the vulnerabilities of elite to the normal duties
-
-*2024-10-07 07:31:23* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූන්ගේ-ආරක්ෂාවට-සිටි-නිලධාරින්-1145ක්-සාමාන්‍ය-රාජකාර‍ිවලට/11-412339) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-1145 officers reassigned from elite protection to regular duties. Acting IGP orders removal of security personnel from elite protection and redeployment to general police stations. Decision made under Public Service Commission and Election Commission oversight. Includes officers of various ranks: women, police inspectors, constables. Acting IGP instructed to redirect funds from elite protection to general police stations.
-
-🟩
-
-1145 officers were immediately assigned to the security of the elite, reports say.
-
-It has been asked that the security personnel deployed by the acting IGP Priyantha Weerasuriya has been removed and attached to the general police stations.
-
-Subject to the Public Service Commission under the Public Service Commission under the Public Service Commission under the Election Commission covering approval is given under the relevant commissioner's Office Procedure.
-
-It is reported that there are also women's officers, police inspectors, police inspectors, services, constables, series, constables, and these ranks.
-
-The acting IGP is also required to pay not paying the instructions paid to the general police stations while employing the officials.
-
-◼️
-
-[Data](articles/1b1f47aa.json)
-
-[Extended Data](ext_articles/1b1f47aa.ext.json)
 
 ---

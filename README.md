@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 10:23:27**
+As of **2024-10-07 10:38:54**
 
 ## Newspaper Stats
 
-*Scraped **48,123** Articles*
+*Scraped **48,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 2,942
 dailyftlk | 3,247
 adalk | 4,447
 dailymirrorlk | 4,733
-adaderanalk | 5,669
+adaderanalk | 5,670
 tamilmirrorlk | 6,500
 virakesarilk | 7,701
-adaderanasinhalalk | 8,328
+adaderanasinhalalk | 8,330
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,123 (100.0%) of 48,123 articles have been extended.
+48,123 (100.0%) of 48,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Easter attacks: Senior DIG Nilantha Jayawardena appears before SC
+
+*2024-10-07 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102495/easter-attacks-senior-dig-nilantha-jayawardena-appears-before-sc) · `en`
+
+The former Senior DIG and head of the State Intelligence Service (SIS), Nilantha Jayawardana, is currently appearing before the Supreme Court to present his case in relation to the Fundamental Rights petitions filed against him for failing to take action to prevent the Easter Sunday attacks, despite receiving sufficient intelligence, said Ada Derana reporter.
+
+As a result, he and others were ordered to pay compensation to the victims of the Easter Sunday attacks.
+
+The Supreme Court ordered former President Sirisena to pay Rs. 100 million in compensation to the petitioners, former IGP Pujith Jayasundara and the former SIS Director Nilantha Jayawardena were each ordered to pay Rs. 75 million, former Defense Secretary Hemasiri Fernando was ordered to pay Rs. 50 million and former National Intelligence Director Sisira Mendis was ordered to pay Rs. 10 million from their personal money.
+
+...
+
+[Data](articles/4f13e536.json)
+
+---
+
+### වැඩිම වර්ෂාපතනය කොළඹ ට
+
+*2024-10-07 09:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201914) · `si`
+
+ඊයේ (06) උදෑසන 8.30 සිට අද උදෑසන 7.00 දක්වා කාලසීමාව තුළ දී කොළඹ දිස්ත්‍රික්කයට මිලි මීටර් 162.5ක වර්ෂාපතනයක් වාර්තා වී ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඊට අමතරව වලල්ලාවිට (මිමී 112.5), හොරණ (මිමී 111.5), නෙළුව (මිමී 109) සහ උඩුගම (මිමී 94.5) යන ප්‍රදේශවලට ඉහළ වර්ෂාපතනයක් වාර්තා වී තිබුණි.
+
+මේ අතර අන්තර් නිවර්තන අභිසාරී කලාපය (උතුරු අර්ධ ගෝලයේ සහ දකුණු අර්ධ ගෝලයේ සිට පැමිණෙන සුළං අභිසාරී වන කලාපය) දිවයිනේ කාලගුණයට බලපෑම් කරමින් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර, මන්නාරම සහ මුලතිව් දිස්ත්‍රික්කවලත් උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+◼️
+
+[Data](articles/9a68f0e8.json)
+
+---
+
+### නිලන්ත ජයවර්ධන ශ්‍රේෂ්ඨාධිකරණයට
+
+*2024-10-07 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201913) · `si`
+
+පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාර සිද්ධිය පිළිබඳව කලින් බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම සම්බන්ධයෙන් ගොනුකර ඇති මූලික අයිතිවාසිකම් පෙත්සම් වලට අදාළ ව කරුණු දැක්වීම සඳහා රාජ්‍ය බුද්ධි සේවයේ හිටපු අධ්‍යක්ෂ නිලන්ත ජයවර්ධන මහතා මේ වනවිට ශ්‍රේෂ්ඨාධිකරණයට පැමිණ සිටින බව අප වාර්තාකරු පවසයි.
+
+අදාළ ප්‍රහාරය වළක්වා ගැනීමට කටයුතු නොකිරීම තුළින් නිලන්ත ජයවර්ධන මහතා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි තීන්දුකළ ශ්‍රේෂ්ඨාධිකරණය ඒ වෙනුවෙන් රුපියල් මිලියන 75ක වන්දියක් ගෙවන ලෙසත් කලින් නියම කර තිබුණි.
+
+එහෙත් එම වන්දි මුදල සම්පූර්ණයෙන්ම ගෙවා අවසන් කිරීමට අපොහොසත් වීම හේතුවෙන් ඔහුට එරෙහිව අධිකරණය විසින් කළ නියෝගය පරිදි නීතිපතිවරයා විසින් අධිකරණයට අපහාස කිරීමේ චෝදනා ගොනු කරනු ලැබීය.
+
+ඊට අදාළව කරුණු දැක්වීම සඳහා අද (07) දින අධිකරණයේ පෙනී සිටින ලෙස ශ්‍රේෂ්ඨාධිකරණය විසින් මීට පෙර නිකුත් කළ නොතීසියකට අනුව නිලන්ත ජයවර්ධන මහතා අධිකරණය හමුවට පැමිණ සිටියි.
+
+◼️
+
+[Data](articles/e79d1123.json)
+
+---
 
 ### Rishad description in Amparai:
 
@@ -2261,89 +2315,5 @@ It has been discussed with the Ministry of Agriculture and the Postal Elements t
 [Data](articles/8cbdceb8.json)
 
 [Extended Data](ext_articles/8cbdceb8.ext.json)
-
----
-
-### Leader and Secretary in Sri Lankan politics
-
-*2024-10-06 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/195613) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ranil missed chance to strengthen UNP in polls. Despite diplomatic skills, lacks key leadership traits like creating new leaders. Parties seek alternative candidates with stronger leadership qualities for upcoming elections.
-
-🟩
-
-Ranil has slipped a wonderful opportunity to build the United National Party in the upcoming parliamentary election. Although he is proud to be a man who has no accusation, diplomat, a diplomat, and the glory of international contacts and political wisdom, he is not the best leadership characteristics. The first of the leadership attributes is to make new leaderships and make them. Ranil does not have those properties. Some parties have once again sought refuge for the upcoming parliamentary elections with such characteristics.
-
-◼️
-
-[Data](articles/9086cffa.json)
-
-[Extended Data](ext_articles/9086cffa.ext.json)
-
----
-
-### Customs and Excise Tax. 67 tax stick
-
-*2024-10-06 13:26:24* · [`adalk`](https://www.ada.lk/breaking_news/රේගුවට-හා-සුරා-බද්දට-රු-බි--67ක-බදු-පොල්ලක්/11-412325) · `si`
-
-Sri Lanka Customs & Excise report: Army tax Rs. 57.8B, Excise Rs. 7.9B. Recovered Rs. 57B from bribery. Government seeks Rs. 90B from local income tax.
-
-🟩
-
-The third report presented by the methods of the Sri Lanka Institute of Customs and the Excise Department this year, the third report presented in the third report on parliament.
-
-According to the report, the army tax on Customs is Rs. 57.8 billion. 7.9 billion in the Excise DepartmentThe report contains Rs.
-
-Also, a sum of Rs 57 billion has been recovered from cutting money. 84 billion in the Halistic group. This report also states that the government's source of Rs.. 900 announcements have been sent to the recovery of the bodies by the local income tax
-
-◼️
-
-[Data](articles/031ade26.json)
-
-[Extended Data](ext_articles/031ade26.ext.json)
-
----
-
-### Two teachers sharing knowledge aside by disorders
-
-*2024-10-06 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201896) · `si`
-
-Here's a 200-character summary:
-
-
-
-World Teachers' Day honors educators globally. In Sri Lanka, it's celebrated on Oct 6th. Two inspiring teachers share knowledge despite disabilities. Samantha Bandara teaches computer skills to students. These dedicated educators serve as role models, demonstrating courage and commitment to education.
-
-🟩
-
-Teachers are assigned to teachers to create a future generation with knowledge and good gains.
-
-On October 5, the world teacher day is named as world teachers' day to evaluate the special task.
-
-Parallel to this, in Sri Lanka will celebrate the teachers' day on October 6.
-
-The main objective of the teachers' day is the evaluation of committed teachers who have dedicated to more definition of their role.
-
-The UNESCO has been named as World Teachers Day on October 05 and the most important role of teachers in over 100 countries worldwide.
-
-Meanwhile, teachers are the highly recognized in our society today.
-
-We meet two teachers who committed to their children with their disorders from the Amispattuwa National School in Kandy.
-
-The teacher loses one hand, even if there is no shortcomings.
-
-She lost a hand today as a teacher as a teacher today as a result of the loss of a hand.
-
-Samantha Bandara, who is the same school, is a similar Great Teacher.
-
-...
-
-[Data](articles/63a9fc03.json)
-
-[Extended Data](ext_articles/63a9fc03.ext.json)
 
 ---

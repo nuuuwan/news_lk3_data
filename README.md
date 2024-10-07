@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 03:39:05**
+As of **2024-10-08 03:57:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,261 (100.0%) of 48,266 articles have been extended.
+48,266 (100.0%) of 48,266 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -202,23 +202,29 @@ Before the end of this year, you will take maximum action to recover. We have th
 
 ---
 
-### 100 மில்லிமீற்றருக்கும் அதிகமான மழை; பல இடங்களில் மண்சரிவு எச்சரிக்கை!
+### More than 100 millimeters of rain;Landslides alert in many places!
 
 *2024-10-07 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195720) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும், காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rainfall (100+ mm) forecasted in Western, Sabaragamuwa, North Western Provinces and districts. Thunderstorms may bring strong winds and lightning. Landslide warnings issued for Galle and Matara. First-level warning for Kegalle district in next 24 hours.
 
-இடியுடன் கூடிய மழை பெய்யும் போது, அந்த பகுதிகளில் தற்காலிக பலத்த காற்று வீசக்கூடும். மேலும், பலத்த மின்னல் ஏற்படுவதற்கான அதிக சாத்தியக்கூறுகள் காணப்படுவதாக திணைக்களம் மேலும் தெரிவித்துள்ளது.
+🟩
 
-மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய விபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கேட்டுக்கொள்கின்றது.
+The Department of Meteorology has said that more than 100 millimeters of heavy rainfall is expected in some places in the Western, Sabaragamuwa and North Western Provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
 
-காலி மற்றும் மாத்தறை மாவட்டங்களில் 2ஆம் நிலை மண்சரிவு எச்சரிக்கை விடுக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
+When thunderstorms are raining, temporary strong winds may blow in those areas. In addition, the department further stated that there is a high likelihood of heavy lightning.
 
-அடுத்த 24 மணி நேரத்தில் கேகாலை பகுதிக்கு முதல் நிலை எச்சரிக்கை விடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The Department of Meteorology is urging the people to take necessary steps to reduce accidents caused by lightning.
+
+It has also been stated that the 2nd level of landslides have been issued in Galle and Matara districts.
+
+It is noteworthy that in the next 24 hours, the first level warning was issued for the Kegalle area.
 
 ◼️
 
 [Data](articles/35e1e5fb.json)
+
+[Extended Data](ext_articles/35e1e5fb.ext.json)
 
 ---
 
@@ -322,35 +328,57 @@ The veneration for the yellow robe has, in many instances, been exploited. The r
 
 [Data](articles/7c57fe83.json)
 
+[Extended Data](ext_articles/7c57fe83.ext.json)
+
 ---
 
-### இலங்கை தொழிலாளர் காங்கிரஸிலிருந்து பதவி விலகிய பாரத் அருள்சாமி
+### Bharat Arulzamy resigned from the Ceylon Workers Congress
 
 *2024-10-07 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195719) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸின் உப தலைவர் பதவியிலிருந்தும், கட்சியின் அடிப்படை உறுப்பினர் பதவியிலிருந்தும் பாரத் அருள்சாமி பதவி விலகும் கடிதத்தை அக்கட்சியின் பொதுச் செயலாளர் ஜீவன் தொண்டமானுக்கு இன்று மாலை அனுப்பி வைத்துள்ளார்.
+Bharat Arulzamy resigns Ceylon Workers Congress Vice President position. Disagrees with contesting former MPs in elections. Criticizes party decisions prioritizing individual interests over public welfare. Expresses gratitude for contributions to party development in Kandy district.
 
-மக்களினதும், கட்சி அங்கத்தவர்களினதும் எதிர்பார்ப்புகளை மீறி எதிர்வரும் பொதுத் தேர்தலில் இந்த நாட்டினை வங்குரோத்து நிலைக்கு அடைய செய்த முன்னாள் பாராளுமன்ற உறுப்பினர்கள் மற்றும் தங்களது சுயநல அரசியலுக்காக கண்டி மக்களை அடகு வைத்த உறுப்பினர்களோடு இணைந்து தாம் போட்டியிட தயார் இல்லை எனவும், கட்சியின் தீர்மானத்திற்கு அமைவாக மக்களின் எதிர்பார்ப்புக்கு அப்பால் தன்னால் செயல்பட இயலாது என்பதன் காரணமாக இந்த முடிவை தான் எடுத்துள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+🟩
+
+Bharat Arulzamy has sent a letter of resignation from the post of Vice President of the Ceylon Workers Congress and the party's basic membership.
+
+He has made this decision because he is not ready to contest with the former MPs who have made a bankruptcy in the upcoming general election, despite the expectations of the people and the party members, and that they are not ready to contest with the people who have mortgaged the Kandyan people for their selfish politics.Said.
+
+In 2013, his father and himself worked tirelessly to obtain the Provincial Council membership in Kandy district.He has sent a letter of dismissal by saying that he has launched a number of programs through the government and NGOs, and that he is not ready to hear the election with the Ceylon Workers Congress and its leadership.
+
+He also pointed out that party decisions should be made for the benefit of the people and that the party should not make decisions only for the development of some individuals.
 
 ...
 
 [Data](articles/bdcaff22.json)
 
+[Extended Data](ext_articles/bdcaff22.ext.json)
+
 ---
 
-### நாட்டின் மறுமலர்ச்சிக்கான செயற்திட்டத்திற்கும் மக்கள் ஒத்துழைப்பு வழங்க வேண்டும் - இ.தவஞானசூரியம்
+### People should cooperate in the country's Renaissance Project
 
 *2024-10-07 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195710) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின்  மறுமலர்ச்சியும் எதிர்கால வளர்ச்சியையும் விவசாயம், மீன்பிடி, கைத்தொழில், தொழில்வாய்ப்பு, போன்ற பல பிரச்சனைகளுக்கு தீர்வு காண முடியும். அதற்கு எமது கட்சியின் தலைவர் அநுரகுமார திசாநாயக்கவின் நாட்டின் மறுமலர்ச்சிக்கான செயற்திட்டத்திற்கும் மக்கள் ஒத்துழைப்பு வழங்க வேண்டும் என தேசிய மக்கள் சக்தி கட்சியின் பட்டிருப்பு தொகுதிக்குரிய அதிகாரமளிக்கப்பட்ட முகவர் இ.தவஞானசூரியம் தெரிவித்துள்ளார்.
+Cooperation key to Batticaloa district's Renaissance Project. National People's Power Party leader Anura Kumara Dissanayake outlines plans for agricultural, fishing, industrial, and employment growth. Party seeks unity to address district challenges in upcoming parliamentary elections.
 
-தேசிய மக்கள் சக்தி கட்சியின் ஏற்பாட்டில் தேர்தல் தொடர்பில் மக்களைத் தெளிவுறுத்தும் கூட்டம் மட்டக்களப்பு செட்டிபாளையம் பொது மைதானத்தில் ஞாயிற்றுக்கிழமை (06) மாலை இடம்பெற்றது.
+🟩
 
-தேசிய மக்கள் சக்தி கட்சியின் ஆதரவாளர் குமாரசாமி கணேசலிங்கத்தின் ஏற்பாட்டில் நடைபெற்ற இக்கூட்டத்தில், மட்டக்களப்பு மாவட்ட இணைப்பாளர் அநுராத, குருணாகல் மாவட்ட இணைப்பாளர் ஜெயசூரிய, மற்றும் அப்பகுதி பொதுமக்கள் உள்ளிட்ட பலர் இதன்போது கலந்து கொண்டிருந்தனர்.
+The revival and future growth of the Batticaloa district can be solved by many problems such as agriculture, fishing, industrial, employment, etc.. The leader of the National People's Shakti Party (NGO) said that the leader of the National People's Shakti Party (NGO) said that the leader of our party, Anura Kumara Dissanayake's country's revival program.
+
+The meeting was held on Sunday evening (06) at the Chettipalayam Public Ground in Batticaloa.
+
+The meeting was organized by Kumaraswamy Ganesalingam, a supporter of the National People's Power Party, Batticaloa District Coordinator Anuradha, Kurunegala District Coordinator Jayasuriya, and many others in the area.
+
+At the meeting, the organizers of the meeting told the party's leaders attending the parliamentary elections in the coming parliamentary elections through the National People's Power Party.
+
+In the last presidential election, our brother Anura Kumara Dissanayake supported and won the parliamentary elections to strengthen his hand.
 
 ...
 
 [Data](articles/9973f3ad.json)
+
+[Extended Data](ext_articles/9973f3ad.ext.json)
 
 ---
 
@@ -828,19 +856,27 @@ Meanwhile, Surya's starring 'Gangua' will be released in a number of Indian lang
 
 ---
 
-### தமிழரசுக்கட்சியிலிருந்து விலகினார் அதன் தலைவர் மாவை சேனாதிராஜா  - உத்தியோகபூர்வ கடிதம் கிடைக்கவில்லை என்கிறார் பொதுச்செயலாளர் சத்தியலிங்கம்
+### General Secretary Sathiyalingam says its leader Mawai Senathirajah
 
 *2024-10-07 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195712) · `ta`
 
-எதிர்வரும் பொதுத்தேர்தலில் தமிழரசுக்கட்சி சார்பில் யாழ் தேர்தல் மாவட்டத்தில் போட்டியிடவிருக்கும் வேட்பாளர்களின் பெயர் பட்டியல் நேற்று முன்தினம் வெளியிடப்பட்ட நிலையில், அதுகுறித்து கட்சியின் சிரேஷ்ட உறுப்பினர்கள் பலரும் அதிருப்தியடைந்திருந்த பின்னணியில் தமிழரசுக்கட்சியின் தலைவர் மாவை சோ.சேனாதிராஜா இன்று  திங்கட்கிழமை (07) கட்சியிலிருந்து விலகினார்.
+Sri Lanka Tamil National Party NTI announces candidates for Jaffna electoral district. Senior member Mawai Senathirajah quits over dissatisfaction with candidate selection process. General Secretary Sathiyalingam denies receiving official resignation letter.
 
-எதிர்வரும் நவம்பர் மாதம் 14 ஆம் திகதி நடைபெறவிருக்கும் பாராளுமன்றத்தேர்தலில் இலங்கைத் தமிழரசுக்கட்சியின் சார்பில் யாழ் தேர்தல் மாவட்டத்தின் போட்டியிடவிருக்கும் வேட்பாளர்களின் பெயர்கள் அக்கட்சியின் தேர்தல் நியமனக்குழுவினால் நேற்று ஞாயிற்றுக்கிழமை (06)  அறிவிக்கப்பட்டது.
+🟩
 
-அதன்படி யாழ் மற்றும் கிளிநொச்சி மாவட்டங்களுக்கான வேட்பாளர்களாக எஸ்.சிறிதரன், எம்.ஏ.சுமந்திரன், எஸ்.சி.சி.இளங்கோவன், கேசவன் சயந்தன், சந்திரலிங்கம் சுகிர்தன், சுரேக்கா சசீந்திரன், இம்மானுவல் ஆர்னோல்ட், கிருஸ்ணவேணி சிறிதரன், தியாகராயா பிரகாஷ் ஆகியோர் பெயரிடப்பட்டுள்ளனர்.
+The list of candidates in the Jaffna electoral district in the upcoming general election was released yesterday, with many senior members of the party's senior members of the party.
+
+The names of the candidates of the Jaffna Election District on behalf of the Sri Lanka Tamil National Party (NTI) in the upcoming parliamentary elections to be held on the 14th of November were announced by the party's election appointment committee on Sunday (06).
+
+Accordingly, Sridharan, MA Sumanthiran, SCC Ilangovan, Kesavan Sayanthan, Chandralingam Sukirthan, Sureka Saseendran, Emmanuel Arnold, Krishnaveni Sridharan and Thiyagaraya Prakash have been named as the candidates for the Jaffna and Kilinochchi districts.
+
+However, the names of senior members of the highly anticipated Tamil party have not been included in the list. Following this, the party's senior member of the party announced yesterday that he would quit the TNA.
 
 ...
 
 [Data](articles/9405e30c.json)
+
+[Extended Data](ext_articles/9405e30c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 20:22:59**
+As of **2024-10-07 20:39:11**
 
 ## Newspaper Stats
 
-*Scraped **48,242** Articles*
+*Scraped **48,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 477
 islandlk | 2,849
 economynextcom | 2,949
 dailyftlk | 3,247
-adalk | 4,464
+adalk | 4,465
 dailymirrorlk | 4,733
 adaderanalk | 5,687
 tamilmirrorlk | 6,526
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,242 (100.0%) of 48,242 articles have been extended.
+48,243 (100.0%) of 48,243 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -247,6 +247,34 @@ This was after the court granted leave to proceed with three Fundamental Rights 
 [Data](articles/e9c087f2.json)
 
 [Extended Data](ext_articles/e9c087f2.ext.json)
+
+---
+
+### Businessman cannot sell what was recovered from treasure
+
+*2024-10-07 18:03:29* · [`adalk`](https://www.ada.lk/breaking_news/නිධානයකින්-ගොඩ-ගත්-දේ-ව්‍යාපාරිකයෙකුට-විකුණන්න-බැරි-වෙයි/11-412354) · `si`
+
+Businessman can't sell recovered treasure. Residents arrested in Parasangaswewa and Devanampiyatissa. Police seized gold and Buddha statue worth Rs. 100,000. Suspects to appear in court.
+
+🟩
+
+More than Rs.
+
+The residents of Parasangaswewa and Devanampiyatissa and Devanampiyatississa have been arrested in Parasangaswewa and Devanampiyathissapura.
+
+The businessman has made a newspaper to buy the telephone number and the call for the businessman has taken about Rs.The price is reduced to a hundred thousand.
+
+The businessman who agreed to check it and buy the statue and buy the statue and purchase the statue, police arrested the suspects near the Anuradhapura Bus Station.
+
+The golden stock of gold was worth about two kilograms and that there were over 1,000 golden gold and more than 1,000 golden gold.
+
+The statue of Buddhism had been thrown into the gold and gold, while the stone was met with the waves of the stage and that the statue was meticulously deposited into the earth's soil soil.
+
+...
+
+[Data](articles/6d483cb7.json)
+
+[Extended Data](ext_articles/6d483cb7.ext.json)
 
 ---
 
@@ -2329,29 +2357,5 @@ Meanwhile, the transfer order of 24 policemen who temporarily served in the Pres
 [Data](articles/418fa175.json)
 
 [Extended Data](ext_articles/418fa175.ext.json)
-
----
-
-### 307 police transfer from PSD
-
-*2024-10-07 10:51:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PSD-இலிருந்து-307-பொலிஸார்-இடமாற்றம்/175-345025) · `ta`
-
-307 police officers transferred from PSD to other divisions. 11 chief inspectors, 5 inspectors, 38 sub-inspectors, 12 female sub-inspectors moved. Transfer order for 24 officers canceled.
-
-🟩
-
-307 policemen have been transferred to various police divisions across the country from the Presidential Security Division.
-
-Under the approval of the Elections Commission under the approval of the Elections Commission under the 258 (1) and (II) of the Public Service Commission's Practice Commission, the Inspector General of Police Priyantha Weerasuriya.
-
-Of the workplace transformers, there are 11 chief inspectors, 5 inspectors, 38 sub-inspectors and 12 female sub-inspectors.
-
-Meanwhile, the transfer order of 24 policemen who temporarily served in the Presidential Security Division has been canceled.
-
-◼️
-
-[Data](articles/4864aadb.json)
-
-[Extended Data](ext_articles/4864aadb.ext.json)
 
 ---

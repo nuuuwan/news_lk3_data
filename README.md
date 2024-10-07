@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 10:57:39**
+As of **2024-10-07 11:11:29**
 
 ## Newspaper Stats
 
-*Scraped **48,126** Articles*
+*Scraped **48,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,670
 tamilmirrorlk | 6,500
 virakesarilk | 7,701
-adaderanasinhalalk | 8,330
+adaderanasinhalalk | 8,331
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,126 (100.0%) of 48,126 articles have been extended.
+48,127 (100.0%) of 48,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Attack on Chinese people in Pakistan
+
+*2024-10-07 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201915) · `si`
+
+Chinese nationals killed in Pakistan explosion near airport. Attack claimed by BLA terrorist group. Incident occurred near power project site.
+
+🟩
+
+Foreign media reports that two Chinese nationals were killed in a large explosion near Pakistan's Karachi Jinna International Airport.
+
+Meanwhile, the Chinese embassy in Pakistan said the attack was a vehicle of Chinese engineers working in a Power Project in Syntha.
+
+The BLA terrorist organization has taken responsibility for the attack.
+
+◼️
+
+[Data](articles/cde11a6b.json)
+
+[Extended Data](ext_articles/cde11a6b.ext.json)
+
+---
 
 ### Easter attacks: Senior DIG Nilantha Jayawardena appears before SC
 
@@ -2303,31 +2325,5 @@ The second match is scheduled to start between Scotland team and the West Indies
 [Data](articles/02d258af.json)
 
 [Extended Data](ext_articles/02d258af.ext.json)
-
----
-
-### A racket of increasing artificial egg equipment
-
-*2024-10-06 13:32:17* · [`adalk`](https://www.ada.lk/breaking_news/කෘතිම-බිත්තර-හිගයක්-මවා-බිත්තර-මිල-ඉහළ-දැමිමේ-ජාවාරමක්/11-412326) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sanjeewa Karuna Sanjeewa discusses artificial egg equipment at a press conference in Kurunegala. He addresses rising egg prices and potential shortages. Sanjeewa plans to increase egg prices in December and provide false eggs to farmers, discussing this with the Ministry of Agriculture and Postal Elements.
-
-🟩
-
-Convener of the Sanjeewa Karuna Sanjeewa, Sanjeewa Karuna Sanjeewa held at the press conference held in Kurunegala.
-
-He is ready to embrace the heat of egg prices, as well as in the marketplace that the eggs were in the market, and preparation to embarrass the shortage of false eggs.Much, he said.
-
-It has been discussed with the Ministry of Agriculture and the Postal Elements to increase the egg prices in December and to provide false eggs to the farmers who have already decreased relief to farmers.Speaking to Sanjeewa added Karunara, he added ...
-
-◼️
-
-[Data](articles/8cbdceb8.json)
-
-[Extended Data](ext_articles/8cbdceb8.ext.json)
 
 ---

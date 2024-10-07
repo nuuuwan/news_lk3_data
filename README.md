@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 09:13:16**
+As of **2024-10-07 09:24:22**
 
 ## Newspaper Stats
 
-*Scraped **48,111** Articles*
+*Scraped **48,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 476
 islandlk | 2,846
 economynextcom | 2,942
 dailyftlk | 3,247
-adalk | 4,444
+adalk | 4,446
 dailymirrorlk | 4,733
-adaderanalk | 5,666
-tamilmirrorlk | 6,495
+adaderanalk | 5,668
+tamilmirrorlk | 6,498
 virakesarilk | 7,701
 adaderanasinhalalk | 8,327
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 8,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,111 (100.0%) of 48,111 articles have been extended.
+48,117 (100.0%) of 48,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Airport adventure: 240 people faint;5 people die
+
+*2024-10-07 09:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-சாகசம்-240-பேர்-மயக்கம்-5-பேர்-உயிரிழப்பு/175-345015) · `ta`
+
+Marina Beach IAF anniversary event chaos: 240 faint, 5 die due to sun exposure and overcrowding. 93 hospitalized, traffic congestion affects entire city. Police criticized for poor coordination.
+
+🟩
+
+More than 15 lakh people gathered at the Marina Beach on Sunday at the 92nd anniversary of the Indian Air Force.. As 240 people were dumped by the sun and congestion, five people died without treatment.
+
+Victims were given first aid treatment at the temporary camp in Marina. 93 people were admitted to Rajiv Gandhi, Omanthoor and Royapettai Government Hospitals for further treatment. Many of them returned home after treatment. More than 10 people were admitted to internal patients.
+
+Among them were Thiruvottiyur Karthikeyan (34), Dinesh Kumar (37), Korukkupettai John Babu (56) and Perungalthur Srinivasan (52).. A 55 -year -old man was taken to hospital near Marina Kamarajar Road. Doctors said he had already died.
+
+Traffic police had made changes to traffic to keep the general public and motorists from being affected. Traffic was banned on Marina Kamarajar Road in particular. The police had advised to use other roads instead. However, there was heavy traffic congestion in Chennai.
+
+...
+
+[Data](articles/c5ebc344.json)
+
+[Extended Data](ext_articles/c5ebc344.ext.json)
+
+---
+
+### Explosion outside Karachi airport kills 2 workers from China and injures others
+
+*2024-10-07 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102493/explosion-outside-karachi-airport-kills-2-workers-from-china-and-injures-others) · `en`
+
+A massive blast outside Karachi Airport in Pakistan on Sunday killed two workers from China and injured at least eight, officials from both countries said.
+
+Police and the provincial government said a tanker exploded outside the airport, which is Pakistan’s biggest.
+
+A Chinese Embassy statement said that a convoy carrying Chinese staff of the Port Qasim Electric Power Company (Private) Limited had been attacked around 11 p.m., killing two Chinese and injuring one other. It said there were Pakistani casualties as well.
+
+The provincial home minister, Zia Ul Hassan, told local TV station Geo that the explosion was an attack targeting foreigners.
+
+Thousands of Chinese workers are in Pakistan, most of them involved in Beijing’s multibillion-dollar Belt and Road Initiative that connects south and central Asia with the Chinese capital.
+
+Videos showed flames engulfing cars and a thick column of smoke rising from the scene. There was a heavy military deployment at the site, which was cordoned off.
+
+...
+
+[Data](articles/206be174.json)
+
+[Extended Data](ext_articles/206be174.ext.json)
+
+---
+
+### Board meetings of statutory bodies and govt institutions suspended
+
+*2024-10-07 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102492/board-meetings-of-statutory-bodies-and-govt-institutions-suspended) · `en`
+
+Prime Minister’s Secretary Pradeep Saputantri announced that steps have been taken to suspend the board meetings of statutory bodies and other government institutions.
+
+He stated that the heads of these institutions should refrain from making any administrative decisions during this period.
+
+While some boards have already appointed new chairpersons, suitable heads for other boards will be appointed by the relevant ministers. In light of the current situation, the government has officially suspended board meetings of constitutional boards and other government institutions.
+
+Saputantri further emphasized that it is the responsibility of the new ministers to appoint new presidents and heads of these institutions.
+
+◼️
+
+[Data](articles/a42548c0.json)
+
+[Extended Data](ext_articles/a42548c0.ext.json)
+
+---
 
 ### Heavy showers above 100mm expected in parts of the island
 
@@ -121,6 +189,30 @@ However, it is also mentioned that the price of eggs will return to normal in tw
 [Data](articles/07e53254.json)
 
 [Extended Data](ext_articles/07e53254.ext.json)
+
+---
+
+### Why is the egg price rise?
+
+*2024-10-07 08:16:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-எகிறியது-ஏன்/175-345011) · `ta`
+
+Egg prices rise due to increased demand and costs. Daily consumption increases from 80 lakh to 95 lakhs after price drop. Farmers sell at higher rates than purchase cost. Prices expected to normalize in two weeks.
+
+🟩
+
+Poultry farm owners say that the price of eggs has risen again due to the increase in egg prices, and the merchants go to the farms and collect the eggs.
+
+The daily egg consumption in the country is 80 lakh, and the egg prices have been reduced last week, and the consumption of eggs has increased to 95 lakhs.
+
+President of the Sri Lanka Livestock Producers Association Ajith H. At an inquiry conducted by Gunasekaran, he said that the eggs purchased at Rs 22 from the farm were sold at a higher price.
+
+However, it is also mentioned that the price of eggs will return to normal in two weeks. Remble
+
+◼️
+
+[Data](articles/c479c29e.json)
+
+[Extended Data](ext_articles/c479c29e.ext.json)
 
 ---
 
@@ -575,6 +667,28 @@ The Department of Meteorology has advised the public to follow security measures
 ---
 
 ### 2024-10-06 (Sunday)
+
+### Ranil's safety is not removed
+
+*2024-10-06 23:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-பாதுகாப்பு-நீக்கப்படவில்லை/175-345008) · `ta`
+
+Former President Ranil Wickremesinghe's security remains unchanged. 163 officers continue to protect him, including 50 from the Police Special Task Force and 6 from the Dignitaries Security Division. Reports of security removal are false.
+
+🟩
+
+The reports that the security of former President Ranil Wickremesinghe has been removed is untrue.
+
+He said 163 officers are still involved in the security duty of the former president.
+
+These include 50 officers of the Police Special Task Force, 6 officers of the Dignitaries Security Division and some of the transferred officers.. (A)
+
+◼️
+
+[Data](articles/ab946b79.json)
+
+[Extended Data](ext_articles/ab946b79.ext.json)
+
+---
 
 ### The security of the former president is not removed
 
@@ -1190,6 +1304,36 @@ This was communicated by Police Spokesman DIG Nihal Thalduwa today (06).
 
 ---
 
+### Traditional political hypocrisy is not on our way
+
+*2024-10-06 18:24:48* · [`adalk`](https://www.ada.lk/breaking_news/සාම්ප්‍රදායික-දේශපාලන-කුහකකම-අපේ-ගමනේ-නෑ/11-412336) · `si`
+
+Here's a 200-character summary:
+
+
+
+Opposition Leader Sajith Premadasa emphasizes country development over political games. He seeks foreign aid, increased Indian tourism, and support for manufacturing and IT industries. Rejects traditional political hypocrisy, focusing on national progress instead of personal interests.
+
+🟩
+
+Leader of the Opposition Leader Sajith Premadasa said that although there is a politically downturn, the country should be first put in place.
+
+He was speaking at a meeting with the party members of the people of the people in Homagama.
+
+The Opposition Leader Sajith Premadasa said so.
+
+"We engage in these political movements to win this democratic journey over the blessings of the people. Build our country. Through this politics, we intend to defend the country and protect the country and protect the people in our country, protecting the citizenship, women's generation and protecting the citizen community, protecting the citizen communityTo create.
+
+I found the Foreign Minister of India. Mr. Dr. Jeyzankar. When I met it, I thanked him for the biggest aid from the bank's bankrupt and financial strength as a single country.I suggested that we support our country more than ever before. I made a request to help our country more and more.
+
+...
+
+[Data](articles/b79e74ff.json)
+
+[Extended Data](ext_articles/b79e74ff.ext.json)
+
+---
+
 ### Solution to the Ministry of Agriculture to protect the egg industry
 
 *2024-10-06 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201901) · `si`
@@ -1247,6 +1391,20 @@ He said he was carrying out the reduction of the cost of chicken. As soon as the
 [Data](articles/ef638e98.json)
 
 [Extended Data](ext_articles/ef638e98.ext.json)
+
+---
+
+### රු. මිලියනයක් වතුරේ ගිය වැඩමුළුව
+
+*2024-10-06 17:53:33* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියනයක්-වතුරේ-ගිය-වැඩමුළුව/11-412333) · `si`
+
+සාමාන්‍ය අධ්‍යාපන නවීකරණ ව්‍යාපෘතිය යටතේ ළමා පොතක් මුද්‍රණයට තෝරා ගැනීම සඳහා පවත්වනු ලැබූ වැඩමුළුවලට සහභාගි වූ සම්පත්දායකයන් සහ දෙපාර්තමේන්තු නිලධාරීන් සඳහා දීමනා ගෙවීමට රුපියල් දසලක්ෂ අසූනවදහස් පන්සිය හතළිස් හයක මුදලක් (1,089,546) වැයකර තිබුණද, එම වැඩමුළු ආශ්‍රිතව එකදු ළමා පොතක් හෝ මුද්‍රණය කිරීමට නොහැකි වී ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත් කොට ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+මෙසේ විශාල මුදලක් වැයකර ළමා පොතක් මුද්‍රණයට තෝරා ගැනීම සම්බන්ධයෙන් වැඩමුළු පවත්වා වැය කළ මුදල නිෂ්ඵල වියදමක් බවට පත්වී තිබූ බවද විගණන වාර්තාවේ සඳහන් වේ.
+
+...
+
+[Data](articles/7e2ffbf2.json)
 
 ---
 
@@ -2197,169 +2355,5 @@ In this case, the body is being investigated and placed in the autopsy of the An
 [Data](articles/2f7e0ab4.json)
 
 [Extended Data](ext_articles/2f7e0ab4.ext.json)
-
----
-
-### Farmer death
-
-*2024-10-06 12:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கிளையில்-உடை-சிக்கி-விவசாயி-மரணம்/175-344973) · `ta`
-
-Farmer WH Siripala (62) dies after falling from tree branch while working in field. His shirt gets stuck, causing fatal injury. Incident reported by neighbor who spotted body. Police investigation ongoing.
-
-🟩
-
-A farmer from Wariyapola Kongolla village has been unfortunately dead in a t Shirt he was wearing, Wariyapola police said.
-
-The deceased is the 62 -year -old WH Siripala, the father of two children from the village.
-
-The man has fallen down the branches of the tree near his field and has died on the spot when the dress he was wearing was trapped in a tree.
-
-A woman who went through the tree saw the body of a farmer in the tree branch, informed the neighbors and later informed the police.
-
-◼️
-
-[Data](articles/9b7d7106.json)
-
-[Extended Data](ext_articles/9b7d7106.ext.json)
-
----
-
-### Egg prices are up again
-
-*2024-10-06 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195593) · `ta`
-
-Egg prices surge: 40-45 rupees reported, previously under 30 rupees. Further increases expected due to current market conditions.
-
-🟩
-
-At present, the price of eggs in many parts of the country has risen to 40 rupees and in some areas to 45 rupees, market sources said.
-
-But, two days ago, the price of eggs was less than 30 rupees.
-
-It is also said that the price of eggs can be increased further in the next few days based on the current situation.
-
-◼️
-
-[Data](articles/b2875ec8.json)
-
-[Extended Data](ext_articles/b2875ec8.ext.json)
-
----
-
-### Adventure Event of Weeding Planes: Video
-
-*2024-10-06 11:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களைகட்டும்-விமானங்களின்-சாகச-நிகழ்ச்சி-காணொளி/175-344972) · `ta`
-
-Indian Air Force adventure event summary: Chennai Marina, 92nd anniversary celebration, attended by governor, chief minister, and armed forces commander. 22 viewing spots set up, 8,000 police officers deployed for safety, additional buses operated from various parts of Chennai.
-
-🟩
-
-The Air Force's adventure was held on Sunday (06) at the Chennai Marina on the 92nd anniversary of the Indian Air Force.
-
-The event was attended by Tamil Nadu Governor RN Ravi, Chief Minister MK Stalin and Anil Saura, Commander of the Armed Forces.
-
-22 places have been selected along the Kamarajar road to enable visitors to watch the adventure event, where the police have made arrangements.
-
-It is noteworthy that about 8,000 policemen have been hired for safety work and additional buses, which are already operating to the adventure events, have been operated from various parts of Chennai.
-
-◼️
-
-[Data](articles/0417a64a.json)
-
-[Extended Data](ext_articles/0417a64a.ext.json)
-
----
-
-### Adventure Event of Art Glabs: Video
-
-*2024-10-06 11:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலைகட்டும்-விமானங்களின்-சாகச-நிகழ்ச்சி-காணொளி/175-344972) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Indian Air Force 92nd anniversary celebration at Chennai Marina. Attended by TN Governor, CM, and Armed Forces Commander. 22 viewing spots set up. 8,000 police officers ensure safety. Additional buses operate from various locations in Chennai.
-
-🟩
-
-The Air Force's adventure was held on Sunday (06) at the Chennai Marina on the 92nd anniversary of the Indian Air Force.
-
-The event was attended by Tamil Nadu Governor RN Ravi, Chief Minister MK Stalin and Anil Saura, Commander of the Armed Forces.
-
-22 places have been selected along the Kamarajar road to enable visitors to watch the adventure event, where the police have made arrangements.
-
-It is noteworthy that about 8,000 policemen have been hired for safety work and additional buses, which are already operating to the adventure events, have been operated from various parts of Chennai.
-
-◼️
-
-[Data](articles/7a029914.json)
-
-[Extended Data](ext_articles/7a029914.ext.json)
-
----
-
-### IRD collects over 70% of 2024 tax revenue target
-
-*2024-10-06 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/102482/ird-collects-over-70-of-2024-tax-revenue-target) · `en`
-
-The Inland Revenue Department has successfully collected Rs. 1,417 billion in taxes as of September 30, 2024, surpassing 70% of the annual revenue target of Rs. 2,024 billion.
-
-In a statement, the Commissioner General of the Department of Inland Revenue Sepalika Chandrasekara noted that while the collection progress is commendable, there are still outstanding taxes owed by certain taxpayers under the self-assessment payment system.
-
-She mentioned that beginning today (06), the department will conduct visits to the premises of these taxpayers to ensure prompt collection of dues.
-
-“Moving forward, we will enforce the collection of unpaid self-assessment taxes through the appropriate legal procedures,” said Chandrasekara.
-
-◼️
-
-[Data](articles/d1113ef8.json)
-
-[Extended Data](ext_articles/d1113ef8.ext.json)
-
----
-
-### Sri Lanka’s tourism earnings reach USD 181 million in September
-
-*2024-10-06 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102481/sri-lankas-tourism-earnings-reach-usd-181-million-in-september-) · `en`
-
-Sri Lanka’s foreign exchange revenue from tourism has reached USD 181 million within the month of September this year.
-
-According to the Central Bank of Sri Lanka (CBSL), this revenue represents a significant increase compared to September of last year, which saw USD 152 million in tourism earnings.
-
-Data from the Central Bank also revealed that revenue earned during the first nine months of this year has surged by 61.2%, totaling USD 2.35 billion compared to USD 1.46 billion during the same period last year.
-
-The Sri Lanka Tourism Development Authority’s weekly report indicated that there were 122,140 tourist arrivals in September, marking a 9.11% increase from 111,938 arrivals in September of the previous year.
-
-So far, the number of tourist arrivals for the first nine months of 2024 stands at 1.48 million, with Sri Lanka expecting a total of 2.3 million tourist arrivals for the year.
-
-...
-
-[Data](articles/175a29ce.json)
-
-[Extended Data](ext_articles/175a29ce.ext.json)
-
----
-
-### Removal of the electric wires provided to Mahinda's home
-
-*2024-10-06 11:36:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-வீட்டுக்கு-வழங்கிய-மின்சார-கம்பிகள்-அகற்றம்/175-344971) · `ta`
-
-Electricity Board removes power lines from Mahinda Rajapaksa's home as part of eliminating facilities for politicians under current government's policy.
-
-🟩
-
-The power lines supplied to the Veerakettiya Carlton estate used by former President Mahinda Rajapaksa were removed by the Electricity Board employees.
-
-Steps are being taken to eliminate the facilities provided to MPs under the policy of the government headed by President Anura Kumara Dissanayake.
-
-According to an official of the Ceylon Electricity Board (CEB), the Ceylon Electricity Board (CEB) said that two power lines were removed to the Carlton estate.
-
-The official added that three three wires have been put in the Carlton garden and two of them will be removed.
-
-◼️
-
-[Data](articles/5584021d.json)
-
-[Extended Data](ext_articles/5584021d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 19:23:09**
+As of **2024-10-07 19:38:55**
 
 ## Newspaper Stats
 
-*Scraped **48,239** Articles*
+*Scraped **48,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 477
 islandlk | 2,849
 economynextcom | 2,949
 dailyftlk | 3,247
-adalk | 4,463
+adalk | 4,464
 dailymirrorlk | 4,733
 adaderanalk | 5,687
 tamilmirrorlk | 6,525
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,236 (100.0%) of 48,239 articles have been extended.
+48,239 (100.0%) of 48,240 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ Travis Head aims to win his second ICC Men’s Player of the Month award after e
 
 [Data](articles/65638214.json)
 
+[Extended Data](ext_articles/65638214.ext.json)
+
 ---
 
-### வரலாற்றில் முதன்முறையாக குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளராக பெண் அதிகாரியின் பெயர் பரிந்துரை
+### Name of Female Officer as the Director of the Criminal Investigation Department for the first time in history
 
 *2024-10-07 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195708) · `ta`
 
-வரலாற்றில் முதன்முறையாக குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளராக பெண் அதிகாரி ஒருவரின் பெயர் பரிந்துரைக்கப்பட்டுள்ளது.
+Female officer named Director of Criminal Investigation Department for first time in history. Senior Superintendent Imesha Muthumalai nominated after joining police service in 2007.
 
-குற்றப் புலனாய்வுத் திணைக்களத்தில் பிரதிப் பணிப்பாளராக கடமையாற்றும் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் இமேஷா முத்துமாலை என்பவரே பரிந்துரைக்கப்பட்டுள்ளார்.
+🟩
 
-அவர் 2007ஆம் ஆண்டில் உதவி பொலிஸ் அத்தியட்சகராக சேவையில் இணைந்ததுடன்  ருஹுனு பல்கலைக்கழகத்தில் தனது இளங்கலை விஞ்ஞான பட்டத்தையும் திறந்த பல்கலைக்கழகத்தில் சட்டத்தில் இளங்கலைப் பட்டத்தையும் நிறைவு செய்துள்ளார் என்பது குறிப்பிடத்தக்கது.
+For the first time in history, the name of a female officer has been nominated as the Director of the Criminal Investigation Department.
+
+Senior Superintendent of Police, Imesha Muthumalai, who is serving as the Deputy Director of the Criminal Investigation Department, has been nominated.
+
+It is noteworthy that he joined the Service as Assistant Superintendent of Police in 2007 and completed his Bachelor's Degree in Ruhunu University and the undergraduate degree in the Open University.
 
 ◼️
 
 [Data](articles/e357ae1c.json)
+
+[Extended Data](ext_articles/e357ae1c.ext.json)
 
 ---
 
@@ -88,19 +96,25 @@ Deputy Minister of Police Media Spokesperson DIG Talduwa, Speaking further
 
 ---
 
-### இலஞ்ச ஊழல் ஆணைக்குழுவின் தலைவர் பதவி விலகினார்
+### Chairman of the Bribery Commission resigned
 
 *2024-10-07 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195716) · `ta`
 
-இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் பணிப்பாளர் நாயகம் கனிஷ்க விஜேரத்ன தனது இராஜினாமா கடிதத்தை ஜனாதிபதி அனுரகுமார திஸாநாயக்கவிடம் கையளித்துள்ளார்.
+Kanishka Wijeratne resigns as Director General of Bribery Commission, citing Supreme Court case on appointment.
 
-இன்று பிற்பகல் 3.00 மணிக்கு தனது இராஜினாமா கடிதத்தை ஜனாதிபதியிடம் கையளிப்பதாக நீதிமன்றினால் நடத்தப்பட்ட விசாரணையின் போது ஜனாதிபதியின் சட்டத்தரணி உதித இகலஹேவா தெரிவித்தார்.
+🟩
 
-இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகத்தை நியமிப்பது தொடர்பில் உச்ச நீதிமன்றில் அடிப்படை உரிமை மீறல் மனுவொன்று சமர்ப்பிக்கப்பட்டுள்ள நிலையிலேயே அவர் தனது இராஜினாமா கடிதத்தை சமர்ப்பித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+Director General of the Bribery Commission, Kanishka Wijeratne, has handed over his resignation letter to President Anura Kumara Dissanayake.
+
+At a hearing by the court, the president's lawyer Udita Igalahewa said that he would hand over his resignation letter to the President at 3.00 pm today.
+
+It is reported that he has submitted his resignation letter as he has filed a fundamental rights violation of the Supreme Court regarding the appointment of the Director General of the Bribery Commission.
 
 ◼️
 
 [Data](articles/6d95321b.json)
+
+[Extended Data](ext_articles/6d95321b.ext.json)
 
 ---
 
@@ -219,6 +233,22 @@ The Test team is in a stable level compared to the Sri Lanka One Day and T20 tea
 [Data](articles/11d6385a.json)
 
 [Extended Data](ext_articles/11d6385a.ext.json)
+
+---
+
+### සහරාන්ට පුපුරණ ද්‍රව්‍ය දුන් අයට නැවතත් පුපුරණ ද්‍රව්‍ය බලපත්‍ර දීලා
+
+*2024-10-07 17:54:51* · [`adalk`](https://www.ada.lk/breaking_news/සහරාන්ට-පුපුරණ-ද්‍රව්‍ය-දුන්-අයට-නැවතත්-පුපුරණ-ද්‍රව්‍ය-බලපත්‍ර-දීලා/11-412353) · `si`
+
+පුපුරණ ද්‍රව්‍ය අළෙවි කිරීම සඳහා බලපත්‍ර නිකුත් කිරීමේ දී පසුගිය රජය සමයේ රුපියල් බිලියන ගණනක වංචා සිදුව තිබෙන බවත් පාස්කු ප්‍රහාරයෙන් පසු සහරාන් කල්ලියට පුපුරණ ද්‍රව්‍ය ලබාදුන් පුද්ගලයින් හඳුනා ගත්තද  ඔවුන් ගේ බලපත්‍ර තහනම් කර ටික කලකට පසු ඔවුන්ට නැවත බලපත්‍ර දුන් බවත්  ඒ පිළිබඳව පූර්ණ විමර්ශනයක් සිදු කරන ලෙස රජයෙන් ඉල්ලා සිටින බවත් සමස්ත ලංකා පුපුරණ ද්‍රව්‍ය අළෙවිකරුවන් ගේ සංසදය සභාපති සූර්ය කුමාර විජේරත්න මහතා පැවසීය.
+
+මහනුවර පේරාදෙණිය තානායමේ දී ඊයේ (06) පැවැති මාධ්‍ය හමුවක දී සමස්ත ලංකා පුපුරණ ද්‍රව්‍ය අළෙවිකරුවන් ගේ සංසදයේ නියෝජිතයින් මෙසේ පැවසිය.
+
+පාස්කු ප්‍රහාරයෙන් පසු අළෙවිකරුවන්ට පුපුරණ ද්‍රව්‍ය නිකුත් කිරීම ආරක්ෂක අමාත්‍යාංශය මගින් නතර කළ බවත් මේ නිසා රටේ කළුගල් ආශ්‍රිත නිෂ්පාදන කටයුතු ඇන හිටීමෙන් ගැටලු රැසක් මතු වුණු බවද  පුපුරණ ද්‍රව්‍ය ලබා ගැනීමට රුපියල් ලක්ෂ 25 ක මුදලක් පගාවක් ලෙස  හිටපු ඇමාත්‍යවරුන්ට දෙන්නට සිදුවු බවද ඔවුන් පැවසිය.
+
+...
+
+[Data](articles/8227d35e.json)
 
 ---
 
@@ -2315,31 +2345,5 @@ The BLA terrorist organization has taken responsibility for the attack.
 [Data](articles/cde11a6b.json)
 
 [Extended Data](ext_articles/cde11a6b.ext.json)
-
----
-
-### Many MPs withdraw from election
-
-*2024-10-07 10:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலிலிருந்து-பல-எம்-பிக்கள்-விலகல்/175-345021) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Many Sri Lankan MPs retiring due to age, health issues, or political changes. Traditional parties shifting; national people's power emerging. Key figures like Rajapaksas, Sabri not contesting. Some uncertain about participation. Political landscape evolving ahead of November 14 elections.
-
-🟩
-
-Daily Mirror reports that many MPs who are currently a member of the Ninth Parliament, which are currently dissolved, have decided to quit politics due to old age, ill health and unfavorable political conditions.
-
-As far as traditional parties are concerned after the presidential election, political movements seem to be changing. For the first time in the history of the post -independence Sri Lanka, the national people's power, beyond the traditional main trend parties, set the field for the seizure of parliamentary power in the general election on November 14.
-
-The Sri Lanka PA (SLPP), which has a majority in the present parliament, has decided not to give nominations to MPs who have left it before the presidential election.. The situation has prompted MPs to get ticket from other alliances.
-
-...
-
-[Data](articles/9b28765a.json)
-
-[Extended Data](ext_articles/9b28765a.ext.json)
 
 ---

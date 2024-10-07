@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 22:12:55**
+As of **2024-10-07 22:25:05**
 
 ## Newspaper Stats
 
-*Scraped **48,247** Articles*
+*Scraped **48,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,247
 adalk | 4,467
 dailymirrorlk | 4,733
 adaderanalk | 5,688
-tamilmirrorlk | 6,526
+tamilmirrorlk | 6,528
 virakesarilk | 7,726
 adaderanasinhalalk | 8,350
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,247 (100.0%) of 48,247 articles have been extended.
+48,249 (100.0%) of 48,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### A warning of landslides for some areas
+
+*2024-10-07 21:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளுக்கு-மண்சரிவு-அபாய-எச்சரிக்கை/175-345057) · `ta`
+
+Heavy rains trigger landslide warnings in Galle and Kalutara districts. NBRO advises residents to be cautious and prepared.
+
+🟩
+
+Due to heavy rains, the National Building Research Institute (NBRO) has issued a secondary landslide warning to Galle and Kalutara districts.
+
+Residents in the affected areas are advised to be vigilant and take necessary precautions. Remble
+
+◼️
+
+[Data](articles/303dd5bc.json)
+
+[Extended Data](ext_articles/303dd5bc.ext.json)
+
+---
+
+### Jeep discovery of a high politician
+
+*2024-10-07 21:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-அரசியல்வாதிக்கு-சொந்தமான-ஜீப்-கண்டுபிடிப்பு/175-345056) · `ta`
+
+Luxury Jeep discovered hidden in power plant complex. Suspected to belong to high-ranking politician in Badulla-Lunugala area. Vehicle had license plates from Jaffna region. Police investigation ongoing.
+
+🟩
+
+A luxury jeep, suspected of belonging to a high -ranking politician in the Badulla - Lunugala area, has been found by police.
+
+The jeep was found hidden in the private power plant complex.
+
+It is worth noting that the digit plates of a small car registered for a living in Jaffna. Remble
+
+◼️
+
+[Data](articles/73f10ce2.json)
+
+[Extended Data](ext_articles/73f10ce2.ext.json)
+
+---
 
 ### 6 parties lose the general election
 
@@ -2315,47 +2357,5 @@ Meanwhile, market sources say that the price of eggs, which has fallen over the 
 [Data](articles/eb82f75a.json)
 
 [Extended Data](ext_articles/eb82f75a.ext.json)
-
----
-
-### Easter attacks: Former SIS chief assures full compensation payment within today
-
-*2024-10-07 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102499/easter-attacks-former-sis-chief-assures-full-compensation-payment-within-today) · `en`
-
-The Legal Counsel of former Director of the State Intelligence Service (SIS) Nilantha Jayawardena has informed the Supreme Court that the arrears of the compensation his client was ordered to pay pertaining to the Easter Sunday attacks will be settled and the relevant documentation will be submitted to the court later today (07).
-
-The former Senior DIG and head of the SIS, Nilantha Jayawardana, appeared before the Supreme Court in relation to the contempt of court charges filed against him, for failing to complete the payment of Rs. 75 million in compensation for the Easter Sunday bomb victims as ordered by the court.
-
-The relevant case was taken up before a seven-member Supreme Court judge bench led by Chief Justice Jayantha Jayasuriya this morning.
-
-...
-
-[Data](articles/35942794.json)
-
-[Extended Data](ext_articles/35942794.ext.json)
-
----
-
-### Heavy rains experience over 100 mm million today and rainfall in Colombo
-
-*2024-10-07 11:20:20* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-මි-මී-100ට-වැඩි-තද-වැසි---ඊයේ-වැඩිම-වර්ෂාපතනය-කොළඹට/11-412344) · `si`
-
-Heavy rains hit Colombo yesterday, peaking at 162.5mm between 8:30am-7am. Other areas like Kalallawita, Horana, and Karu Bavindiane received 94.5mm. Showers/thundershowers expected in Western, Sabaragamuwa, and North Western provinces.
-
-🟩
-
-Yesterday (06th). The Department of Meteorology stated that the highest rainfall has been received from 08.30 am to 07 am and the value of 162.5 mm.
-
-It is also mm in the area, Kalallawita area, Horana area, Karu Bavindiane area and 94.5 mm / mm..
-
-Meanwra, the Department of Meteorology said that the current territory of the island could continue the island's influence in the island.
-
-Showers or thundershowers will occur in the Western, Sabaragamuwa and North Western provinces, Galle, Matara, Kandy and Nuru.
-
-◼️
-
-[Data](articles/6e4b12f9.json)
-
-[Extended Data](ext_articles/6e4b12f9.ext.json)
 
 ---

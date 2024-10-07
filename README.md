@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 05:45:02**
+As of **2024-10-07 06:10:15**
 
 ## Newspaper Stats
 
-*Scraped **48,090** Articles*
+*Scraped **48,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 395
 bbccomsinhala | 475
 colombotelegraphcom | 476
-islandlk | 2,836
+islandlk | 2,846
 economynextcom | 2,942
 dailyftlk | 3,247
 adalk | 4,444
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,090 (100.0%) of 48,090 articles have been extended.
+48,090 (100.0%) of 48,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### IIHS adds more professionalism to nurses with CUBN Pinning
+
+*2024-10-07 05:36:00* · [`islandlk`](http://island.lk/iihs-adds-more-professionalism-to-nurses-with-cubn-pinning/) · `en`
+
+IIHS Multiversity celebrated a landmark event recently – the Coventry University Bachelor’s in Nursing (CUBN) Pinning Ceremony.
+
+The occasion marked a significant milestone for aspiring nursing leaders as they formally transitioned from students to healthcare professionals, ready to take on their roles in the dynamic world of healthcare. The ceremony was graced by several distinguished guests, underscoring the importance of the event. Dr. Nihal De Silva, Chancellor/Chairman of IIHS Multiversity, Dr. Kithsiri Edirisinghe, CEO/Co-Founder/Director of International Relations, and Dr. Amal Harsha De Silva, Pro-Vice-Chancellor – International, all played key roles in shaping the day’s proceedings.
+
+...
+
+[Data](articles/81f1d198.json)
+
+---
+
+### First Capital Treasuries recognised globally for industry leadership and reporting
+
+*2024-10-07 05:34:00* · [`islandlk`](http://island.lk/first-capital-treasuries-recognised-globally-for-industry-leadership-and-reporting/) · `en`
+
+First Capital Treasuries PLC (FCT), a leading non-bank primary dealer, continues to solidify its status as a financial powerhouse. The company has been recognized with esteemed international awards, highlighting its strong financial performance, exceptional industry expertise, and ability to leverage market dynamics, all while maintaining the highest reporting standards.
+
+FCT has been recognized by Finance Derivative Magazine as the “Most Leading Non-Bank Primary Dealer in Sri Lanka for 2024,” underscoring its market leadership and ability to navigate complex financial landscapes. This accolade highlights the Primary Dealer division’s outstanding performance in recent times and its skill in seizing market opportunities, even amidst challenging economic conditions.
+
+...
+
+[Data](articles/1b41127d.json)
+
+---
+
+### AFI Corp donates vital sports equipment to deserving rural school in Nawalapitiya
+
+*2024-10-07 05:30:00* · [`islandlk`](http://island.lk/afi-corp-donates-vital-sports-equipment-to-deserving-rural-school-in-nawalapitiya/) · `en`
+
+As the whole world came together to celebrate the Olympic spirit, technology services and international staff solutions company AFI Corp got busy fostering the same spirit at the grassroots level in Sri Lanka.
+
+As an activity of its flagship corporate social responsibility initiative AFI Cares, the organization provided a wide range of much needed sports equipment to CP/GP Greenwood Tamil Vidyalam. A rural school in Nawalapitiya, Greenwood Tamil Vidyalam is nevertheless known for its enthusiasm and diversity in sports. AFI Corp provided a comprehensive set of sports equipment including for football, rugby, cricket, badminton and volleyball. The company also set up a new volleyball court on the school grounds, creating a lasting impact on the students’ ability to engage in the sport.
+
+...
+
+[Data](articles/856e04ce.json)
+
+---
 
 ### DIG Dhammika Priyantha Kumara replaces Maj. General Suresh Salley as SIS Chief
 
@@ -207,6 +249,80 @@ On 19 September 2024, the Democratic Socialist Republic of Sri Lanka (the “Rep
 [Data](articles/57f2cef6.json)
 
 [Extended Data](ext_articles/57f2cef6.ext.json)
+
+---
+
+### Delma Lanka celebrates Calin Baby Soap’s SLS certification and new product launch at gala event
+
+*2024-10-07 00:44:00* · [`islandlk`](http://island.lk/delma-lanka-celebrates-calin-baby-soaps-sls-certification-and-new-product-launch-at-gala-event-2/) · `en`
+
+Delma Lanka marked a significant milestone on October 1st with a media event at the luxurious Shangri-La Hotel in Colombo, celebrating the SLS certification of Calin Baby Soap. The occasion, timed to coincide with World Children’s Day, was led by a distinguished panel, including founder Lelwala G Piyanandha, Managing Director Umesh Godakanda, Director Chathurika Jayasekara, Sudaraka Chirantha, National Sales Manager, President’s Counsel Dr. Harsha Cabral, and Senior Counsel Sunil Watagala. Maternal and child health consultant Shyamali Pathirage served as chairperson for the event.
+
+A vibrant gathering of media representatives from television, radio, print, and social media joined commercial partners from the Delma Lanka along with notable artists and other prominent guests, making the event a true celebration of community and achievement.
+
+Lelwala G Piyanandha, the founder of Delma Lanka lighting the oil lamp to commence the ceremony
+
+...
+
+[Data](articles/d08cfcac.json)
+
+---
+
+### LTL Holdings IPO postponed pending supreme court ruling
+
+*2024-10-07 00:42:00* · [`islandlk`](http://island.lk/ltl-holdings-ipo-postponed-pending-supreme-court-ruling/) · `en`
+
+LTL Holdings Limited has announced that its Initial Public Offering (IPO) will be postponed following instructions from the Securities and Exchange Commission of Sri Lanka (SEC).
+
+The decision comes after a directive from the Colombo Stock Exchange (CSE) to publish an addendum to the IPO prospectus dated August 29, 2024.
+
+The SEC, by a letter dated October 01, 2024, has advised the CSE to halt proceedings related to the IPO until the supreme court rules on an interim relief sought by the petitioners in case SC/FR/Application No. 263/2024. The Supreme Court is expected to address the matter on October 11, 2024.
+
+LTL Holdings had previously amended the prospectus on September 08 and September 30, 2024, but the IPO is now on hold until further notice.
+
+First Capital Treasuries recognised globally for industry leadership and reporting
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/4235a7ce.json)
+
+---
+
+### ADB to spur low-carbon transition in Chinese industrial parks
+
+*2024-10-07 00:41:00* · [`islandlk`](http://island.lk/adb-to-spur-low-carbon-transition-in-chinese-industrial-parks/) · `en`
+
+The Asian Development Bank (ADB) has approved a $200 million loan equivalent to enhance low-carbon transition investments and climate-resilient development in industrial parks in the People’s Republic of China (PRC).
+
+The total project cost is $602.25 million equivalent and is expected to be completed in 2031.
+
+“ADB continues to support the PRC and its climate change commitments by catalyzing financing and strengthening institutional capacity for low-carbon transitions in carbon-intensive sectors,” said ADB Country Director for the PRC Safdar Parvez. “The project will benefit 1.5 million people working and living in industrial parks through reduced carbon emissions and improved air quality.”
+
+...
+
+[Data](articles/84261849.json)
+
+---
+
+### Chamber of Construction Industry seeks effective interventions by President
+
+*2024-10-07 00:38:00* · [`islandlk`](http://island.lk/chamber-of-construction-industry-seeks-effective-interventions-by-president/) · `en`
+
+The Chamber of Construction Industry of Sri Lanka extends its congratulations to President Anura Kumara Dissanayake on his victory as the 9th Executive President of Sri Lanka and appeals for effective interventions by him to streamline the industry.
+
+Some proposed policies brought forth by Eng.Nissanka N. Wijeratne,Secretary General / CEO of the chamber are as follows.
+
+Projects above Rs. 200 million in value should commence only after a proper feasibility study is undertaken. To ensure this a National Planning Commission (NPC) similar to that in India, should be established and approval of the NPC should be mandatory for all projects exceeding Rs. 200.M.
+
+Procurement action should commence only if adequate funds have been allocated in the Budget or secured.
+
+Procurement Committees on works contracts over Rs. 200 Million shall have a senior professional nominated by the Chamber of Construction Industry of Sri Lanka, as an industry representative.
+
+...
+
+[Data](articles/d7371aa7.json)
 
 ---
 
@@ -2245,177 +2361,5 @@ Meanwhile, the special import tax on a kilogram of onions has been raised by Rs.
 [Data](articles/392a403b.json)
 
 [Extended Data](ext_articles/392a403b.ext.json)
-
----
-
-### Special import levy on potatoes and big onions increased
-
-*2024-10-06 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102479/special-import-levy-on-potatoes-and-big-onions-increased) · `en`
-
-The Ministry of Finance says the special import tax on potatoes has been increased by Rs. 10 per kilogram.
-
-Meanwhile, the special import tax on a kilogram of big onions has been raised by Rs. 20.
-
-Accordingly, the government has implemented measures to increase the import tax on potatoes from Rs. 50 to Rs. 60, an increase of Rs. 10, and the tax on imported big onions from Rs. 10 to Rs. 30, an increase of Rs. 20.
-
-◼️
-
-[Data](articles/653aa8cd.json)
-
-[Extended Data](ext_articles/653aa8cd.ext.json)
-
----
-
-### The 28th General Ceremony for 2023 of the Eastern University
-
-*2024-10-06 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195591) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Eastern University's 28th General Ceremony 2023: 2340 graduates honored. Chief Guest Indian Ambassador Sri Sai Murali. First-time record high graduation. Degrees in various fields including science, agriculture, business, computer science."
-
-🟩
-
-The 28th General Ceremony for the 2023 Eastern University of Eastern University is being held on Saturday (05) and today (06).
-
-Vice Chancellor of the Eastern University, Professor Vallipuram Kanagasingham is held at the Nallaiyaya Memorial Hall.
-
-At the event, the Retired Professor of the Eastern University, Prof. Ma Selvarajah presided over the graduation ceremony and confirmed the degrees of graduates.
-
-Indian Ambassador to Sri Lanka (Jaffna) Sri Sai Murali was the chief guest at the event.
-
-For the first time in history, the highest number of students have graduated this year.
-
-Eastern University Vice Chancellor - Professor Dr. V. Kanagasingham said that nearly 2340 internal, outsiders, doctors and degrees degrees have been confirmed this time.
-
-Deputy Vice Chancellor Professor Dr. R. Prabhakaran and many others were present.
-
-...
-
-[Data](articles/d6ece91a.json)
-
-[Extended Data](ext_articles/d6ece91a.ext.json)
-
----
-
-### Special import tax on imported potatoes and onions increase
-
-*2024-10-06 09:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201894) · `si`
-
-Import tax hike: Potatoes + Onions. Govt increases duty on imported spuds and onions. Potato tax raised from Rs. to Rs., onion tax per kg increased from Rs. to Rs. 10.
-
-🟩
-
-Steps have been taken to increase the special import tax on potatoes by Rs.
-
-The Ministry of Finance has also increased the tax of a kilogram of big onions by Rs.
-
-Accordingly, the government has taken the imported commodity tax of Rs. 10 to Rs.
-
-◼️
-
-[Data](articles/3aba4272.json)
-
-[Extended Data](ext_articles/3aba4272.ext.json)
-
----
-
-### Sri Lanka current account US$1.1bn in surplus to June amid financial outflows
-
-*2024-10-06 09:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-account-us1-1bn-in-surplus-to-june-amid-financial-outflows-182467/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s external current account recorded a 415 million US dollar surplus in the second quarter of 2024, central bank data shows, as debt repayments and reserve collections at an appropriate interest rate, allowed outflows from through the financial account.
-
-So far in 2024, the current account is about 1.1 billion US dollars in surplus and economy is staring to recover.
-
-Sri Lanka started to record current account surpluses from around the third quarter of 2022 when the central bank stopped printing money and its deflationary policy started to show up in the balance of payments.
-
-The financial account officially (subject to errors and omissions) started to show a deficit (outflows) from the fourth quarter for 2022 as loans were repaid on a net basis, and private banks also repaid syndicated loans and later built dollar reserve to cover net open position shortfalls.
-
-The financial account is the mirror image of the current account (subject to errors and omissions).
-
-...
-
-[Data](articles/910819b4.json)
-
-[Extended Data](ext_articles/910819b4.ext.json)
-
----
-
-### Leader of the Leaders' Thero to the school girl who had drunk water
-
-*2024-10-06 09:44:31* · [`adalk`](https://www.ada.lk/breaking_news/ජලයට-සිනි-දමා-පානය-කළ-පාසල්-දැරියට-සඳගිරි-සෑ-නායක-හිමියන්ගේ-පිහිට/11-412322) · `si`
-
-Here's a 200-character summary:
-
-
-
-Leaders' Theory: Girl drank water after fasting. Class teacher accused her of stomach issues. Mother reported to police. Leaders Thera promised to build a house for the family.
-
-🟩
-
-The Entrendness Leader Thero of the girl who had been tolerant for breakfast on the World Children's Day was a dry diet worth Rs. 20,000.
-
-The class teacher's interrogation had stated that the girl was studying the stomach to relieve the inflammation of the stomach to relieve the inflammation of the water.
-
-After hearing the girl's mother, the mother of the girl, had to learn the girl through Katugastota Police and the girl was brought to the Katugastota Ven.
-
-The Leaders Thera said that they would also help them to create a house.
-
-◼️
-
-[Data](articles/53d8ca3f.json)
-
-[Extended Data](ext_articles/53d8ca3f.ext.json)
-
----
-
-### Abdullah Maharoof to UNP
-
-*2024-10-06 09:13:33* · [`adalk`](https://www.ada.lk/breaking_news/අබ්දුල්ලා-මහරුෆ්-එජාපයට/11-412321) · `si`
-
-Ranil Wickremesinghe joins UNP; Abdullah Maharoof becomes district leader; Wickremesinghe named electoral organizer; Maharoof leads nomination process.
-
-🟩
-
-The party membership with the former Ceylon General Organizer of the All Ceylon General Organization, the former National Organization of the All Ceylon Public Organizer and former MP Abdullah Maharupp, who led the nomination was not given nominations, met with Ranil Wickremesinghe.
-
-After the membership of Ranil Wickremesinghe with supporters, he was appointed as the UNP's Muttur electoral organizer.
-
-In addition, Mr. Abdullah Maharup was appointed as the Trincomalee District Leader of the UNP. Ranil Wickremesinghe was also appointed as the leader of the Trincomalee District Team leader of the UNP in the next general election.
-
-◼️
-
-[Data](articles/778bd275.json)
-
-[Extended Data](ext_articles/778bd275.ext.json)
-
----
-
-### Women's back video was arrested
-
-*2024-10-06 09:09:41* · [`adalk`](https://www.ada.lk/breaking_news/කාන්තාවන්ගේ-පසුපස-වීඩියෝ-කළ-අනංගයා-අල්ලයි/11-412320) · `si`
-
-Kandy police arrest suspect over women's back video. CMC unit investigates 30-year-old man. Photos and videos found. Further investigation led by Chief Inspector Anuruddha Bandaranaike.
-
-🟩
-
-The Kandy Employees Criminal Investigation Unit (CMC) has been arrested in the backdrop of young women in Kandy.
-
-The Kandy Vidyalaya Divisional Investigation Unrise Investigation Unit was observed and observed that he was doing something suspiciously in civilian clothes this morning.
-
-The videos and 19 photographs of women in Kandy have been observed in the city of Kandy.
-
-As a hygiene of the Kandy National Hospital, Thirty-year-old manner has been admitted to the videos and photos of him.
-
-The OIC Chief Inspector Investigation OIC Chief Inspector Investigation Unit, Chief Inspector General of Police Anuruddha Bandaranaike, is conducting further investigations.
-
-◼️
-
-[Data](articles/66118351.json)
-
-[Extended Data](ext_articles/66118351.ext.json)
 
 ---

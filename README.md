@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 08:24:17**
+As of **2024-10-07 08:45:08**
 
 ## Newspaper Stats
 
-*Scraped **48,105** Articles*
+*Scraped **48,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,247
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
-tamilmirrorlk | 6,492
+tamilmirrorlk | 6,493
 virakesarilk | 7,701
 adaderanasinhalalk | 8,325
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,325
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,105 (100.0%) of 48,105 articles have been extended.
+48,106 (100.0%) of 48,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### What is the reason for the price of eggs?
+
+*2024-10-07 08:16:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-எகிறியதற்கு-காரணம்-என்ன/175-345011) · `ta`
+
+Egg prices rise due to increased demand and costs. Daily consumption increases from 80 lakh to 95 lakhs after price drop. Farmers sell at higher rates than purchase cost. Prices expected to normalize in two weeks.
+
+🟩
+
+Poultry farm owners say that the price of eggs has risen again due to the increase in egg prices, and the merchants go to the farms and collect the eggs.
+
+The daily egg consumption in the country is 80 lakh, and the egg prices have been reduced last week and the consumption of eggs has increased to 95 lakhs.
+
+Ajith H.. At an inquiry conducted by Gunasekaran, he said that the eggs purchased at Rs 22 from the farm were sold at a higher price.
+
+However, it is also mentioned that the price of eggs will return to normal in two weeks. Remble
+
+◼️
+
+[Data](articles/07e53254.json)
+
+[Extended Data](ext_articles/07e53254.ext.json)
+
+---
 
 ### Board of Directors of Government Institutions remain suspended
 
@@ -2345,31 +2369,5 @@ He said that the country, the nation and the religion were to protect the life o
 [Data](articles/05b7b3ff.json)
 
 [Extended Data](ext_articles/05b7b3ff.ext.json)
-
----
-
-### I don't even write a word about it ”
-
-*2024-10-06 11:03:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-அதைப்-பற்றி-ஒரு-வார்த்தை-கூட-எழுதவில்லை/175-344966) · `ta`
-
-Former President Maithripala Sirisena released autobiography Sihinaya - Nonimia in Colombo. He addressed Easter attacks, saying he didn't mention them. Book took three years to write and was printed abroad due to concerns about local printing. Sirisena felt publishing under new government was right timing.
-
-🟩
-
-Former President Maithripala Sirisena released his autobiography Sihinaya - Nonimia in Colombo last Friday.
-
-Speaking at the event, Sirisena addressed the alive Sunday attacks during the 2019 regime.
-
-“Those who want to discredit me can expect to find something about the Easter attack in this book. I didn't even write a word about it, ”he said.
-
-He explained that it took three years to write this book and that it was concerned about whether it was to printed it in Sri Lanka.. "So, it was printed abroad and had not been released for five years," he added.
-
-Sirisena said he was waiting for the right time to publish the book and that he felt the right time under the new government.
-
-◼️
-
-[Data](articles/e0d6b10c.json)
-
-[Extended Data](ext_articles/e0d6b10c.ext.json)
 
 ---

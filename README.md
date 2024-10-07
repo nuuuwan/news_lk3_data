@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 06:10:15**
+As of **2024-10-07 06:44:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,090 (100.0%) of 48,100 articles have been extended.
+48,099 (100.0%) of 48,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The occasion marked a significant milestone for aspiring nursing leaders as they
 
 [Data](articles/81f1d198.json)
 
+[Extended Data](ext_articles/81f1d198.ext.json)
+
 ---
 
 ### First Capital Treasuries recognised globally for industry leadership and reporting
@@ -58,6 +60,8 @@ FCT has been recognized by Finance Derivative Magazine as the “Most Leading No
 
 [Data](articles/1b41127d.json)
 
+[Extended Data](ext_articles/1b41127d.ext.json)
+
 ---
 
 ### AFI Corp donates vital sports equipment to deserving rural school in Nawalapitiya
@@ -71,6 +75,8 @@ As an activity of its flagship corporate social responsibility initiative AFI Ca
 ...
 
 [Data](articles/856e04ce.json)
+
+[Extended Data](ext_articles/856e04ce.ext.json)
 
 ---
 
@@ -266,6 +272,8 @@ Lelwala G Piyanandha, the founder of Delma Lanka lighting the oil lamp to commen
 
 [Data](articles/d08cfcac.json)
 
+[Extended Data](ext_articles/d08cfcac.ext.json)
+
 ---
 
 ### LTL Holdings IPO postponed pending supreme court ruling
@@ -288,6 +296,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/4235a7ce.json)
 
+[Extended Data](ext_articles/4235a7ce.ext.json)
+
 ---
 
 ### ADB to spur low-carbon transition in Chinese industrial parks
@@ -303,6 +313,8 @@ The total project cost is $602.25 million equivalent and is expected to be compl
 ...
 
 [Data](articles/84261849.json)
+
+[Extended Data](ext_articles/84261849.ext.json)
 
 ---
 
@@ -323,6 +335,8 @@ Procurement Committees on works contracts over Rs. 200 Million shall have a seni
 ...
 
 [Data](articles/d7371aa7.json)
+
+[Extended Data](ext_articles/d7371aa7.ext.json)
 
 ---
 

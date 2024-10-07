@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 12:14:07**
+As of **2024-10-07 12:25:06**
 
 ## Newspaper Stats
 
-*Scraped **48,144** Articles*
+*Scraped **48,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ colombotelegraphcom | 476
 islandlk | 2,847
 economynextcom | 2,944
 dailyftlk | 3,247
-adalk | 4,450
+adalk | 4,451
 dailymirrorlk | 4,733
 adaderanalk | 5,673
-tamilmirrorlk | 6,506
+tamilmirrorlk | 6,507
 virakesarilk | 7,701
-adaderanasinhalalk | 8,332
+adaderanasinhalalk | 8,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,144 (100.0%) of 48,144 articles have been extended.
+48,144 (100.0%) of 48,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### දිස්ත්‍රික්ක කිහිපයකට නායයෑම් අනතුරු ඇඟවීම්
+
+*2024-10-07 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201918) · `si`
+
+දිස්ත්‍රික්ක කිහිපයකට නායයාමේ පූර්ව අනතුරු ඇඟවීම් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+එම සංවිධානය පැවසුවේ මෙම අනතුරු ඇඟවීම අද (07) පෙරවරු 9.30 සිට හෙට පස්වරු 9.30 දක්වා ක්‍රියාත්මක බවයි.
+
+ඒ අනුව ගාල්ල දිස්ත්‍රික්කයේ නාගොඩ, ඇල්පිටිය, කළුතර දිස්ත්‍රික්කයේ වලල්ලාවිට යන ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත ඇම්බර් පැහැයෙන් යුතු "අවදානයෙන් සිටින ලෙසට" අනතුරු අඟවා තිබේ.
+
+තවද ගාල්ල දිස්ත්‍රික්කයේ නියාගම, කෑගල්ල දිස්ත්‍රික්කයේ දෙහිඕවිට, මාතර දිස්ත්‍රික්කයේ පිටබැද්දර යන ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත "කහ පැහැයෙන් යුතු" විමසිලිමත් වන්න යන අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/c90d42ff.json)
+
+---
+
+### 162.5 மில்லிமீற்றர் மழை வீழ்ச்சி பதிவு
+
+*2024-10-07 11:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/162-5-மில்லிமீற்றர்-மழை-வீழ்ச்சி-பதிவு/175-345032) · `ta`
+
+கொழும்பு மாவட்டத்தில் ஞாயிற்றுக்கிழமை (06) இரவு முதல் திங்கட்கிழமை (07) காலை 7.00 மணி வரை பெய்த மழையால்  162.5 மில்லிமீற்றர் மழை வீழ்ச்சி பதிவாகியுள்ளதாக வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+இது தவிர, வல்லல்லாவிட்ட (112.5 மி.மீ.), ஹொரணை (111.5 மி.மீ.), நெலுவ (109 மி.மீ.) மற்றும் உடுகம (94.5 மி.மீ.) ஆகிய இடங்களில் அதிகளவான மழைவீழ்ச்சி பதிவாகியுள்ளதாக அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
+
+இதற்கிடையில், அயன மண்டலங்களுக்கு இடையிலான ஒடுங்கும் வலயம் (வட அரைக்கோளத்திலிருந்தும் தென் அரைக்கோளத்திலிருந்தும் வீசும் வணிகக் காற்றுகள் ஒடுங்கும் பிரதேசம்) நாட்டின் வானிலையில் பாதிப்பை ஏற்படுத்தியுள்ளதாகவும், நாட்டின் பெரும்பாலான பிரதேசங்களில் பிற்பகலில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களிலும் காலி, மாத்தறை, மன்னார் மற்றும் முல்லைத்தீவு மாவட்டங்களிலும் காலை வேளையிலும் மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5025d9c0.json)
+
+---
+
+### සනත් ගේ පත්වීම තහවුරු කෙරේ
+
+*2024-10-07 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201917) · `si`
+
+ශ්‍රී ලංකා හිටපු ක්‍රිකට් නායක සනත් ජයසුරිය ශ්‍රී ලංකා ජාතික කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ලෙස පත්කළ බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය අද (07) නිල වශයෙන් නිවේදනය කළේය.
+
+2024 ඔක්තෝබර් 01 වනදා සිට 2026 මාර්තු 31 වනදා දක්වා කාලය සඳහා ඔහුව අදාළ තනතුර සඳහා පත්කර තිබේ.
+
+පසුගිය ඉන්දීය, එංගලන්ත සහ නවසීලන්ත තරගාවලි වලදී ශ්‍රී ලංකා කණ්ඩායම දැක්වූ දක්ෂතා සැලකිල්ලට ගෙන ශ්‍රී ලංකා ක්‍රිකට් විධායක කමිටුව විසින් අදාළ තීරණය ගෙන ඇති බව දැක්වෙයි.
+
+එම තරගාවලි සඳහා වැඩබලන පුහුණුකරු ලෙස සනත් ජයසූරිය කටයුතු කළේය.
+
+◼️
+
+[Data](articles/2ce60bff.json)
+
+---
 
 ### Landslide early warnings issued for 4 districts
 
@@ -725,6 +779,26 @@ The suspect has been identified and the Keselwatta Police are conducting further
 [Data](articles/2ef542d7.json)
 
 [Extended Data](ext_articles/2ef542d7.ext.json)
+
+---
+
+### ප්‍රභූන්ගේ ආරක්ෂාවට සිටි නිලධාරින් 1145ක් සාමාන්‍ය රාජකාර‍ිවලට
+
+*2024-10-07 07:31:23* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රභූන්ගේ-ආරක්ෂාවට-සිටි-නිලධාරින්-1145ක්-සාමාන්‍ය-රාජකාර‍ිවලට/11-412339) · `si`
+
+ප්‍රභූවරුන්ගේ ආරක්‍ෂාව සඳහා දී තිබු නිලධාරීන් 1145 දෙනෙකු වහාම ක්‍රියාත්මක වන පරිදි ප්‍රභූ ආරක්‍ෂක සේවයෙන් ඉවත් කර සාමාන්‍ය රාජකාරී සඳහා ඊයේ (06) සිට පොලිස්ථාන වලට අනුයුක්ත කර ඇතැයි වාර්තාවේ.
+
+වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසුරිය මහතාගේ අත්සනින් යුතුව නිකුත් කළ නියෝගයක් මඟින් ප්‍රභූවරුන්ගේ ආරක්‍ෂාව සඳහා යොදවා තිබු ආරක්‍ෂක නිලධාරීන් ඉන් ඉවත් කර සාමාන්‍ය පොලිස්ථාන වලට අනුයුක්ත කර ඇතැයි දැනුම් දී ඇත.
+
+මැතිවරණ කොමිෂන් සභාවේ ආවරණ අනුමැතියට යටත්ව රාජ්‍ය සේවා කොමිෂන් සභා කාර්්‍ය පටිපාටික රීතී සංග්‍රහට යටතේ අදාළ මාරූවීම් ලබාදී ඇතැයි සඳහන් වේ.
+
+ප්‍රභූ ආරක්‍ෂක සේවයෙන් ඉවත් කර සාමාන්‍ය පොලිස්ථාන වලට අනුයුක්ත කළ නිලධාරීන් අතර ප්‍රධාන පොලිස් පරීක්‍ෂකවරුන්, පොලිස් පරීක්‍ෂකවරුන්, උප පොලිස් පරීක්‍ෂකවරුන්, සැරයන්වරුන්, කොස්තාපල්වරුන්, මෙන්ම මෙම නිලයන් වල කාන්තා නිලධාරීන්ද සිටින බව වාර්තාවේ.
+
+ප්‍රභූ ආරක්‍ෂක සේවයේ යොදවා සිටියදී එම නිලධාරීන්ට ගෙවනු ලබන උපවේශණ දීමනා සාමාන්‍ය පොලිස්ථාන වලට අනුයුක්ත කළ පසු එම නිලධාරීන්ට නොගෙවීමටද වැඩබලන පොලිස්පතිවරයා අදාළ නියෝගය මඟින් නියම කර ඇත.
+
+◼️
+
+[Data](articles/1b1f47aa.json)
 
 ---
 
@@ -2213,109 +2287,5 @@ It is not the intention of this passage to examine who the true heirs of the Tam
 [Data](articles/c350ded0.json)
 
 [Extended Data](ext_articles/c350ded0.ext.json)
-
----
-
-### The Easter victims are justice and justice
-
-*2024-10-06 17:10:14* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-වින්දිතයන්ට-සාධාරණය-හා-යුක්තිය-ඉටුකරනවා/11-412329) · `si`
-
-Sri Lanka President Anura Kumara Dissanayake addresses Easter victims' families, vows justice and transparency in investigations.
-
-🟩
-
-President Anura Kumara Dissanayake said that the environment is expedited and ensures that such tragedy will not be expedited in the country.
-
-President Anura Kumara Dissanayake made this statement participating at a discussion with the families of the Passover and the families of the deceased.
-
-The President visited the Saint Sebastian St. Sebastian Palayapitiya this morning, the President visited the monument established in the land to commemorate the crowd.
-
-President Anura Kumara Dissanayake had then joined a discussion with the injured and the families of the Passover and died.
-
-The President stressed that the largest tragedy in the country was in recent years on April 21, 2019, that the tragedy would not be allowed to delete the tragedy.
-
-President Anura Kumara Dissanayake said that he believes that the people of the last presidential election includes the prospect of justice and justice prospect of the Passover attack.
-
-...
-
-[Data](articles/29a69bf0.json)
-
-[Extended Data](ext_articles/29a69bf0.ext.json)
-
----
-
-### Two persons arrested for excavation in Bogawantalawa
-
-*2024-10-06 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195631) · `ta`
-
-Two men, ages 38 and 42, arrested for illegal gem mining in Bogawantalawa. Police action taken against unauthorized excavation activities.
-
-🟩
-
-Bogawantalawa police said that two persons who were illegally engaged in gem excavation in the Bogawantalawa police division area have been arrested.
-
-The arrested suspects are from Bogawantalawa, aged 38 and 42.
-
-◼️
-
-[Data](articles/d0b3e8ef.json)
-
-[Extended Data](ext_articles/d0b3e8ef.ext.json)
-
----
-
-### 56 Pakistan prisoners handed over to Pakistan
-
-*2024-10-06 17:02:02* · [`adalk`](https://www.ada.lk/breaking_news/පාකිස්තාන-සිරකරුවන්-56ක්-පාකිස්තානයට-භාර-දෙයි/11-412328) · `si`
-
-56 Pakistani prisoners transferred to Sri Lanka on drug charges. 51 men, 5 women. Handover at Katunayake airport. Over 100 Pakistani officials present. Special flights arranged for transfer.
-
-🟩
-
-The officer in charge of the Airport was confirmed that 56 Pakistani national prisoners in Sri Lanka to be handed over to Sri Lanka by 10/06 pm on drug charges.
-
-Of these, 51 were men's prisoners and the remaining five were women prisoners.
-
-The prisoner had arrived at the Katunayake airport from Pakistan to take these prisoners to the prisoners to take these prisoners to the prisoners.
-
-The airport work officer said that more than 100 Pakistani officials were present at the flight.
-
-These Pakistani prisoners were detained in prisons across Sri Lanka, including Colombo and Sri Lanka.He said the cost of the ferry.
-
-The Pakistan special flights to be taken to Pakistan at the Katunayake airport at Katunayake around 506 pm on 10.0 pm.
-
-◼️
-
-[Data](articles/ccd4ac0f.json)
-
-[Extended Data](ext_articles/ccd4ac0f.ext.json)
-
----
-
-### President guarantees to bring justice to Easter victims
-
-*2024-10-06 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201900) · `si`
-
-Sri Lanka President Anura Kumara Dissanayake vows justice for Easter victims, promising swift investigations and retribution against perpetrators. Emphasizes tragedy's impact on national security and calls for eliminating political motivations behind attacks.
-
-🟩
-
-President Anura Kumara Dissanayake said that the background was prepared to expedite investigations into the Easter attack and re-establish such tragedy.
-
-The President was speaking at a discussion at St. Sebastian Church today (06) with the families of the Past Sunday, Negombo, Kalapitiya, Negombo.
-
-There he also ensured the victims of the victims and justice.
-
-The President emphasized that the Passover attack is the largest tragedy in the country recently, but it will not be allowed to delete the sand.
-
-The President said that he believed that the people of the last presidential election includes the prospect of being the prospect of justice and justice prospect of the Passover attack.
-
-The President of Sri Lanka's citizens, hope, hope and purpose, and the prospect of justice and fairness in Sri Lanka, the prospect of the people, the prospect of the Easter, have already begun.
-
-...
-
-[Data](articles/9814472f.json)
-
-[Extended Data](ext_articles/9814472f.ext.json)
 
 ---

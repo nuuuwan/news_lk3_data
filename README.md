@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 13:39:40**
+As of **2024-10-07 13:58:52**
 
 ## Newspaper Stats
 
-*Scraped **48,162** Articles*
+*Scraped **48,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,944
 dailyftlk | 3,247
 adalk | 4,452
 dailymirrorlk | 4,733
-adaderanalk | 5,676
+adaderanalk | 5,677
 tamilmirrorlk | 6,508
 virakesarilk | 7,709
 adaderanasinhalalk | 8,335
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,162 (100.0%) of 48,162 articles have been extended.
+48,163 (100.0%) of 48,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Body of police officer found in canal at Ja-Ela
+
+*2024-10-07 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102504/body-of-police-officer-found-in-canal-at-ja-ela-) · `en`
+
+Police have recovered the body of a 50-year-old police officer, attached to the Expressway Police from a canal at Pamunugama, Ja-Ela.
+
+◼️
+
+[Data](articles/75fbbbbc.json)
+
+[Extended Data](ext_articles/75fbbbbc.ext.json)
+
+---
 
 ### Court orders the two court of the scholarship issues
 
@@ -2235,27 +2249,5 @@ The culture of declaration of candidates in the Tamil State Party's Committee co
 [Data](articles/1b2e6983.json)
 
 [Extended Data](ext_articles/1b2e6983.ext.json)
-
----
-
-### Recovery as Corps of Corps in Welipanna
-
-*2024-10-06 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195633) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Bodies of couple found dead in Welipanna house. Police investigating suspicious deaths.
-
-🟩
-
-The bodies of the couple who died suspiciously from a house in Welipanna area have been found, Welipanna police said.
-
-◼️
-
-[Data](articles/6c13b0b4.json)
-
-[Extended Data](ext_articles/6c13b0b4.ext.json)
 
 ---

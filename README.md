@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 23:09:46**
+As of **2024-10-07 23:23:07**
 
 ## Newspaper Stats
 
-*Scraped **48,250** Articles*
+*Scraped **48,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,949
 dailyftlk | 3,247
 adalk | 4,467
 dailymirrorlk | 4,733
-adaderanalk | 5,688
+adaderanalk | 5,689
 tamilmirrorlk | 6,528
 virakesarilk | 7,726
 adaderanasinhalalk | 8,351
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,250 (100.0%) of 48,250 articles have been extended.
+48,251 (100.0%) of 48,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### “I don’t play favorites”: Jayasuriya pledges unbiased leadership as Head Coach
+
+*2024-10-07 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102516/i-dont-play-favorites-jayasuriya-pledges-unbiased-leadership-as-head-coach-) · `en`
+
+Sanath Jayasuriya, who was confirmed in the post of head coach of Sri Lankan national cricket team, vowed to lead with impartiality and a commitment to excellence, ensuring the best possible outcomes for the team and the country.
+
+He made these remarks during a press conference held earlier today (07) following his appointment.
+
+When asked about the benefits of appointing a local coach over a foreign one, Jayasuriya emphasized the advantage of stronger communication with the players.
+
+“It is easier to share ideas with the players. If they have shortcomings, there is no barrier in approaching me. That self-confidence is crucial. The players know the kind of cricket I have played and its value,” Jayasuriya stated.
+
+“With the support of senior players, we can make significant progress. As a local coach, I don’t play favorites. I want to field the best team. This is a big challenge, and there’s a great responsibility that comes with it”, Jayasuriya added.
+
+◼️
+
+[Data](articles/b78bef42.json)
+
+[Extended Data](ext_articles/b78bef42.ext.json)
+
+---
 
 ### Law against tax evictions
 
@@ -2345,25 +2367,5 @@ The appointment was effective from October 1, 2024, and will last until March 31
 [Data](articles/fc400b45.json)
 
 [Extended Data](ext_articles/fc400b45.ext.json)
-
----
-
-### Landslide early warnings issued for 4 districts
-
-*2024-10-07 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102500/landslide-early-warnings-issued-for-4-districts) · `en`
-
-The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in four districts, as heavy rainfall continues in parts of the island.
-
-Accordingly, a Level 2 (Amber) warning has been issued for several areas in the Galle and Kalutara districts as follows:
-
-Galle District: Nagoda and Elpitiya Divisional Secretariat Divisions (DSD) and surrounding areas
-
-Meanwhile, a Level 1 (Yellow) warning was issued for the following areas:
-
-◼️
-
-[Data](articles/f0fc3dc7.json)
-
-[Extended Data](ext_articles/f0fc3dc7.ext.json)
 
 ---

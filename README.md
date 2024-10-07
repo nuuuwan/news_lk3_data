@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 19:00:57**
+As of **2024-10-07 19:12:16**
 
 ## Newspaper Stats
 
-*Scraped **48,235** Articles*
+*Scraped **48,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,51 @@ dailymirrorlk | 4,733
 adaderanalk | 5,686
 tamilmirrorlk | 6,525
 virakesarilk | 7,724
-adaderanasinhalalk | 8,347
+adaderanasinhalalk | 8,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,231 (100.0%) of 48,235 articles have been extended.
+48,235 (100.0%) of 48,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
 
-### 6 கட்சிகள் போட்டியிட முடியாது
+### හිටපු ජනපතිගේ ආරක්ෂාව ඉවත් කළා ද?
+
+*2024-10-07 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201932) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආරක්ෂාව ඉවත්කිරීමක් සිදුකර නොමැති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+
+හිටපු ජනාධිපතිවරයාගේ ආරක්ෂාව ඉවත් කිරීමක් සම්බන්ධව නිකුත් වූ වාර්තාව තාක්ෂණික දෝෂයක් මත සිදුව ඇති බවත් සමාජ මාධ්‍ය ඔස්සේ පැතිර යන පුවත සාවද්‍ය බවත් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා අද (07) සඳහන් කළේය.
+
+ඒ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක  නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා,
+
+...
+
+[Data](articles/6ceb20e5.json)
+
+---
+
+### 6 parties cannot compete
 
 *2024-10-07 18:26:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-கட்சிகள்-போட்டியிட-முடியாது/175-345052) · `ta`
 
-எதிர்வரும் பாராளுமன்றத் தேர்தலில் அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகளாக வேட்புமனு தாக்கல் செய்ய முடியாத அரசியல் கட்சிகளை தேசிய தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
+National Election Commission announces 6 parties ineligible for nomination in upcoming parliamentary election due to controversy. Parties' secretaries' offices cannot contest on November 14, 2024.
 
-ஆணைக்குழுவினால் வெளியிடப்பட்ட புதிய வர்த்தமானியின்படி, கட்சியின் செயலாளர் அலுவலகம் சம்பந்தப்பட்ட சர்ச்சைகள் காரணமாக, 2024 நவம்பர் 14 ஆம் திகதி நடைபெறவுள்ள தேர்தலில் குறித்த அரசியல் கட்சிகள் போட்டியிட முடியாது.
+🟩
+
+The National Election Commission has announced political parties that cannot file nominations as recognized political parties in the upcoming parliamentary election.
+
+According to the new gazette issued by the Commission, the party's secretary's office can not contest the elections on November 14, 2024, due to controversy.
 
 ◼️
 
 [Data](articles/ee8eb430.json)
+
+[Extended Data](ext_articles/ee8eb430.ext.json)
 
 ---
 
@@ -304,19 +326,29 @@ On behalf of the Tamil Progressive Alliance led by former parliamentarian Mano G
 
 ---
 
-### විදෙස් කෝකියන්, විදෙස් ආහාර වට්ටොරු කතා සියල්ල අසත්‍යයි
+### Foreign cookies are all false
 
 *2024-10-07 17:37:25* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-කෝකියන්--විදෙස්-ආහාර-වට්ටොරු-කතා-සියල්ල-අසත්‍යයි/11-412352) · `si`
 
-ඉකුත් ජනාධිපතිවරණයෙන් පසුව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉලක්ක කරමින් අඛණ්ඩව අපහාසාත්මක දුස්තොරතුරු රැසක් සමාජගත කරමින් තිබෙන තත්ත්වයක්  පෙනීයන බවත් තම පක්ෂය එකී පදනම් විරහිත ප්‍රකාශ එක්සත් ජාතික පක්ෂය ලෙස තරයේ හෙළා දකින බවත් එක්සත් ජාතික පක්ෂයේ නියෝජ්‍ය නායක රුවන් විජේවර්ධන මහතා අවධාරණය කරයි.
+Sri Lanka: UNP Deputy Leader accuses President of spreading false information about foreign chefs and security officers. Claims government promoting hatred against former President Ranil Wickremesinghe. Denies allegations about misuse of Presidential House and foreign cooks. Calls for dedication to public service.
 
-අටවන විධායක ජනාධිපතිවරයාගේ ප්‍රධාන ආරක්ෂක නිලධාරී ඇතුළු සෙසු ආරක්ෂක නිලධාරීන්ට නම් කරන ලද පොලිස් කොට්ඨාශ වෙත වහාම ක්‍රියාත්මක වන පරිදි වාර්තා කරන ලෙස ඔක්තෝබර් 06 වනදා ලිඛිත  නියෝග ලබාදී ඇති බව සමාජ මාධ්‍ය තුළ ප්‍රචාරය වූ නමුත් මේ වන විට වැඩබලන පොලිස්පතිවරයා එම පුවත ප්‍රතික්ෂේප කර ඇති බවද ඒ මහතා සඳහන් කළේය.
+🟩
 
-එක්සත් ජාතික පක්ෂයේ නියෝජ්‍ය නායක රුවන් විජේවර්ධන මහතා මේ බව සඳහන් කර සිටියේ අද (07) කොළඹදී මාධ්‍ය වෙත විශේෂ ප්‍රකාශයක් සිදුකරමිනි.
+UNP Deputy Leader Ruwan Wijewardena emphasizes that a number of contemptuous wealth is being socialized by the President Ranil Wickremesinghe after the presidential election.
+
+He was propagated in the social media that the acting of the eighth Executive presidents, including the main security officer and other security officers who were designated to the police officers.Mentioned.
+
+UNP Deputy Leader Ruwan Wijewardene made this statement in Colombo today (07).
+
+Also, President Ranil Wickremesinghe and Maithri Wickremasinghe said that he was not used for private duties and the services of foreign chefs were used to provide a falistic as well as political hatred.He was only the lowest statements.
+
+Speaking further UNP UNP Deputy Leader Ruwan Wijewardene added:
 
 ...
 
 [Data](articles/ea410ac4.json)
+
+[Extended Data](ext_articles/ea410ac4.ext.json)
 
 ---
 
@@ -454,23 +486,29 @@ Our correspondent stated that she was impulsive, saying, 'How can I take my fath
 
 ---
 
-### நுவரெலியா - லிந்துலை பகுதியில் மார்பகப் புற்றுநோய் தொடர்பான விழிப்புணர்வு நடைபவனி
+### Awareness of breast cancer in Nuwara Eliya - Lindulai area
 
 *2024-10-07 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195705) · `ta`
 
-நுவரெலியா, லிந்துலை சுகாதார அதிகாரி ஏற்பாட்டில்  மார்பகப் புற்றுநோய் தொடர்பான விழிப்புணர்வு நடைபவனி மற்றும் அது தொடர்பிலான விழிப்புணர்வு வீதி நாடகமும் இன்று திங்கட்கிழமை (07) லிந்துலை நகரில்  நடைபெற்றது.
+Nuwara Eliya Lindulai breast cancer awareness event summary: Health Officer Dr. Rishini led walking and street drama on main road from Lindulai to Hatton. Health officials distributed leaflets providing breast cancer information. Public participation encouraged.
 
-மார்பகப் புற்றுநோய் தொடர்பான விழிப்புணர்வு நடைபவனி லிந்துலை சுகாதார அதிகாரி வைத்தியர் ரெய்ஷினி தலைமையில் இடம்பெற்றது.
+🟩
 
-இதன்போது  விழிப்புணர்வு நடைபவனியும் விழிப்புணர்வு நாடகமும் லிந்துலை நகரில் இருந்து ஆரம்பிக்கப்பட்டு நுவரெலியா ஹட்டன் பிரதான வீதி வழியே 1 கிலோமீற்றர் தூரம் சென்று லிந்துலை நகரை  வந்தடைந்தது.
+Breast Cancer Awareness Walking and Awareness Street Drama was held in Lindulai on Monday (07) in the Nuwara Eliya Health Officer, Nuwara Eliya.
 
-லிந்துலை சுகாதார பணிமனை மற்றும் சுகாதார துறை சார்ந்த அதிகாரிகள், உத்தியோகத்தர்கள்,மற்றும் பொதுமக்களும் கலந்துக் கொண்டமைக் குறிப்பிடத்தக்கது.
+Awareness on breast cancer was held under the patronage of Lindula Health Officer Dr. Rishini.
 
-மேலும்,இதன்போது விழிப்புணர்வு துண்டுப் பிரசுரங்களும் விநியோகிக்கப்பட்டதுடன், மார்பகப் புற்றுநோய் தொடர்பாக விழிப்புணர்வு தகவல்களும் வழங்கப்பட்டன.
+Awareness and awareness drama started from Lindulai city and reached Lindulai on the main road of Hatton, Nuwara Eliya.
+
+It is noteworthy that the Lindula Health Workshop and Health Department officials, officials and the public were also present.
+
+In addition, awareness leaflets were also distributed and awareness information on breast cancer was provided.
 
 ◼️
 
 [Data](articles/a2630515.json)
+
+[Extended Data](ext_articles/a2630515.ext.json)
 
 ---
 
@@ -2319,23 +2357,5 @@ Home Minister Chia ul -Hasan, the province of the province, said it was an attac
 [Data](articles/e840800d.json)
 
 [Extended Data](ext_articles/e840800d.ext.json)
-
----
-
-### Easter attacks: Senior DIG Nilantha Jayawardena appears before SC
-
-*2024-10-07 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102495/easter-attacks-senior-dig-nilantha-jayawardena-appears-before-sc) · `en`
-
-The former Senior DIG and head of the State Intelligence Service (SIS), Nilantha Jayawardana, is currently appearing before the Supreme Court to present his case in relation to the Fundamental Rights petitions filed against him for failing to take action to prevent the Easter Sunday attacks, despite receiving sufficient intelligence, said Ada Derana reporter.
-
-As a result, he and others were ordered to pay compensation to the victims of the Easter Sunday attacks.
-
-The Supreme Court ordered former President Sirisena to pay Rs. 100 million in compensation to the petitioners, former IGP Pujith Jayasundara and the former SIS Director Nilantha Jayawardena were each ordered to pay Rs. 75 million, former Defense Secretary Hemasiri Fernando was ordered to pay Rs. 50 million and former National Intelligence Director Sisira Mendis was ordered to pay Rs. 10 million from their personal money.
-
-...
-
-[Data](articles/4f13e536.json)
-
-[Extended Data](ext_articles/4f13e536.ext.json)
 
 ---

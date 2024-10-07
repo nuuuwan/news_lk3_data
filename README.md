@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 14:12:55**
+As of **2024-10-07 14:39:07**
 
 ## Newspaper Stats
 
-*Scraped **48,163** Articles*
+*Scraped **48,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 396
 bbccomsinhala | 476
 colombotelegraphcom | 476
-islandlk | 2,847
+islandlk | 2,848
 economynextcom | 2,944
 dailyftlk | 3,247
-adalk | 4,452
+adalk | 4,454
 dailymirrorlk | 4,733
-adaderanalk | 5,677
-tamilmirrorlk | 6,508
+adaderanalk | 5,678
+tamilmirrorlk | 6,511
 virakesarilk | 7,709
 adaderanasinhalalk | 8,335
 
@@ -26,11 +26,111 @@ adaderanasinhalalk | 8,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,163 (100.0%) of 48,163 articles have been extended.
+48,170 (100.0%) of 48,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Sir John becomes PM, the Queen’s visit and the 1956 landslide
+
+*2024-10-07 14:24:00* · [`islandlk`](http://island.lk/sir-john-becomes-pm-the-queens-visit-and-the-1956-landslide/) · `en`
+
+The prime minister’s father too had been named John Kotelawela and there was always a whiff of mystery surrounding `John Sr’. There had then been rumours of high intrigue, of family feuds, contract killings and near unassailable alibis. The kavi kola karayas – the wandering minstrels who preceded the radio as purveyors of news in my childhood had sung the story in racy jingles, doubtless embellishing it as time went on. But what was spoken about in whispers was that John Sr had died in prison while awaiting trial after arrest in a foreign land for killing a brother-in-law.
+
+...
+
+[Data](articles/c59293fc.json)
+
+[Extended Data](ext_articles/c59293fc.ext.json)
+
+---
+
+### What is the blocking of the NPP government?
+
+*2024-10-07 14:19:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-அரசாங்கத்தை-தடுத்து-நிறுத்துவது-எது/175-345040) · `ta`
+
+NPP government blocks publication of liquor school lists, prevents operations. Former MP Mano Ganesan criticizes as unethical, corrupt practice. Opposition leaders promised transparency before elections.
+
+🟩
+
+Former parliamentarian Mano Ganesan, who has said that it is not illegal business to establish liquor schools or permits, has questioned what President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya questioned the government from publishing a list of such liquor schools and preventing their movement.
+
+In recent times, Mano Ganesan posted a message on X that the Licensing Department was issued by the Department of Excise, except for legal levels.
+
+He said, "This is a" non -ethical, corruption practice "and" political bribery ".
+
+“Before the September 21 election, it was a thrilling thing. Opposition candidates, including President Anuragumara Dissanayake and Opposition Leader Sajith Premadasa, have promised to publish all the recently issued 'licenses' and publish the list of their respective politicians who have recommended the license.
+
+...
+
+[Data](articles/701d72b0.json)
+
+[Extended Data](ext_articles/701d72b0.ext.json)
+
+---
+
+### Israelis, scarred and battling on multiple fronts, mark a year since Hamas’ Oct. 7 attack
+
+*2024-10-07 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102505/israelis-scarred-and-battling-on-multiple-fronts-mark-a-year-since-hamas-oct-7-attack) · `en`
+
+Israelis were holding vigils and somber ceremonies on Monday to mark a year since the Oct. 7, 2023 Hamas attack, the deadliest in the country’s history, which sparked the war in Gaza and scarred Israelis indelibly.
+
+The surprise cross-border attack, which caught Israel unprepared on a major Jewish holiday, shattered Israelis’ sense of security and shook their faith in their leaders and their military.
+
+Its aftershocks still ripple one year later. The war in Gaza rages on and Israel is fighting a new war against Hezbollah, which began attacking Israel on Oct. 8. There is also an escalating conflict with Iran which backs both Hamas and Hezbollah militant groups that threatens to drag the region into a far more dangerous conflagration.
+
+And on Monday, Hamas showed that it was still putting up a fight. It launched rockets that set off air raid sirens in Tel Aviv, as well as closer to the Gaza border.
+
+...
+
+[Data](articles/3533ecca.json)
+
+[Extended Data](ext_articles/3533ecca.ext.json)
+
+---
+
+### Sanath Jayasuriya
+
+*2024-10-07 14:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/தலைமை-பயிற்றுவிப்பாளரானார்-சனத்-ஜயசூரிய/88-345039) · `ta`
+
+Sanath Jayasuriya named Sri Lanka cricket team chief coach from Oct 2024 to Mar 2026. Decision based on team's performance in India, England, New Zealand competitions.
+
+🟩
+
+Sri Lanka Cricket has officially announced on Monday (07) that former Sri Lankan cricket captain Sanath Jayasuriya has been appointed as the chief coach of the Sri Lanka National Cricket Team.
+
+He has been appointed from October 2024 to 31 March 2026.
+
+Earlier, the Sri Lanka Cricket Executive Committee has taken the decision to consider the skills that the Sri Lankan team have shown in the competitions in India, England and New Zealand.
+
+◼️
+
+[Data](articles/64f449b3.json)
+
+[Extended Data](ext_articles/64f449b3.ext.json)
+
+---
+
+### Eelam People's Democratic Party
+
+*2024-10-07 14:07:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈழ-மக்கள்-ஜனநாயகக்-கட்சி-வேட்புமனு-தாக்கல்/175-345038) · `ta`
+
+Eelam People's Democratic Party nominates for Jaffna parliamentary election under Douglas Devananda's leadership.
+
+🟩
+
+The Eelam People's Democratic Party filed a nomination for the upcoming parliamentary elections at the Jaffna District Secretariat on Monday (07).
+
+It is noteworthy that the Eelam People's Democratic Party is contesting in the Jaffna electoral district under the leadership of Douglas Devananda, former minister of the party and party secretary.
+
+◼️
+
+[Data](articles/644118a4.json)
+
+[Extended Data](ext_articles/644118a4.ext.json)
+
+---
 
 ### Body of police officer found in canal at Ja-Ela
 
@@ -784,6 +884,28 @@ The Supreme Court is present at the courts according to the nobles issued by the
 
 ---
 
+### An extrastream gazetry publishing parties
+
+*2024-10-07 09:35:05* · [`adalk`](https://www.ada.lk/breaking_news/පක්ෂ-ලකුණු-ප්‍රකාශයට-පත්-කරමින්-අති-විශේෂ-ගැසට්ටුවක්/11-412341) · `si`
+
+Elections Commission publishes Gazette with 83 approved marks for 115 political parties. Reserved symbols include cobra, crab, lobster, rat, Ibbar, Boamuna, Botha.
+
+🟩
+
+A special gazette was issued by the Elections Commission, announcing the amended approved approved approved approved approved approved approved approved mark in the Parliamentary Act No. 1 of 1981.
+
+The 83-approved marks set up for 83 recognized political parties have been published and 115 approved marks that have not been allocated.
+
+Among the marks reserved for the recognized political parties is the cobra, the crab, lobster, rat, Ibbar, Boamuna, Botha.
+
+◼️
+
+[Data](articles/23616ed0.json)
+
+[Extended Data](ext_articles/23616ed0.ext.json)
+
+---
+
 ### Rishad description in Amparai:
 
 *2024-10-07 09:28:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அம்பாறையில்-இழுபறி-ரிஷாட்-விளக்கம்/71-345018) · `ta`
@@ -1046,6 +1168,28 @@ Along with them, representing the Mullaithivu of the Vanni electoral district, A
 
 ---
 
+### Sixth of the secretary loses the general election
+
+*2024-10-07 08:17:38* · [`adalk`](https://www.ada.lk/breaking_news/ලේකම්-පිළිබඳව-ගැටලුවලින්-පක්ෂ-හයකට-මහ-මැතිවරණය-අහිමි-වෙයි/11-412340) · `si`
+
+Elections Commission announces 6 nominations rejected due to secretary issues. 77 political parties approved to contest general election.
+
+🟩
+
+The Elections Commission has announced that six nominations have not been made to contest the general election due to the issues of secretary.
+
+Accordingly, the Elever Democratic Front, United People's Freedom Alliance, United People's Front, and the Sri Lanka Progressive Party and the Sri Lanka Progressive Party (BC) and the Sri Lanka Progressive Party (BC) and the Sri Lanka Progressive Party (BC) is published in the November 14, 1981.The election commission will not be accepted for the general election.
+
+The Gazette has announced the names of 77 political parties who have been eligible to contest this year's general election and the Elections Commission.
+
+◼️
+
+[Data](articles/f9ee07ab.json)
+
+[Extended Data](ext_articles/f9ee07ab.ext.json)
+
+---
+
 ### What is the reason for the price of eggs?
 
 *2024-10-07 08:16:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-எகிறியதற்கு-காரணம்-என்ன/175-345011) · `ta`
@@ -1289,6 +1433,20 @@ As an activity of its flagship corporate social responsibility initiative AFI Ca
 [Data](articles/856e04ce.json)
 
 [Extended Data](ext_articles/856e04ce.ext.json)
+
+---
+
+### Diva commences registrations for 6th Entrepreneurial Skills Development Programme
+
+*2024-10-07 05:29:00* · [`islandlk`](http://island.lk/diva-commences-registrations-for-6th-entrepreneurial-skills-development-programme/) · `en`
+
+The ‘Diva Dathata Diriyak Entrepreneurial Skills Programme’ is a transformative collaboration between Diva, the flagship laundry care brand of Hemas Consumer Brands and Women in Management (WIM) to support women entrepreneurs in the island. This programme has been successfully conducted in 5 provinces and empowered over 275 women entrepreneurs to develop their businesses. By equipping these women with the necessary entrepreneurial skills, the programme not only helps them grow their businesses but also contributes to the general economic development of the country.
+
+...
+
+[Data](articles/8aa2c62e.json)
+
+[Extended Data](ext_articles/8aa2c62e.ext.json)
 
 ---
 
@@ -2073,181 +2231,5 @@ Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said 
 [Data](articles/b01e80fe.json)
 
 [Extended Data](ext_articles/b01e80fe.ext.json)
-
----
-
-### Voters who punished traditional parties
-
-*2024-10-06 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195638) · `ta`
-
-Sri Lanka election summary: Voters reject traditional parties, empower small party. High voter turnout, increased rejected votes. Election peaceful without pressure or violence.
-
-🟩
-
-For the first time in Sri Lanka's electoral history, voters have ignored the traditional parties and gave power to a small party. Most voters qualified to vote in this election. As well as more votes have been rejected compared to the last elections. The election was held quietly without any pressure and violence
-
-◼️
-
-[Data](articles/40fc39b4.json)
-
-[Extended Data](ext_articles/40fc39b4.ext.json)
-
----
-
-### Time is over ... Only four submissions
-
-*2024-10-06 19:14:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-முடிந்தது-இதுவரை-நால்வர்-மாத்திரமே-சமர்ப்பிப்பு/175-344993) · `ta`
-
-Elections Commission: Four candidates submitted cost reports out of 38. Deadline is January 13th. Non-compliance may result in legal consequences.
-
-🟩
-
-The Elections Commission said that only four of them have been submitted to 38 candidates who have contested the presidential election, but only four have been submitted so far.
-
-The four candidates who made their cost reports include Dr. Vijayadasa Rajapaksa, the National Democratic Front, Vijayadasa Rajapaksa, the Sri Lanka Samajwadi Party's Mahinda Devage, Independent candidate Premasirimanage and K Ananda Gularatne.
-
-According to the Election Cost of Control Act, it is said that the deadline to submit them is the 13th of this month, and that the reports submitted may be sentenced under illegal charges.. Remble
-
-◼️
-
-[Data](articles/061767d7.json)
-
-[Extended Data](ext_articles/061767d7.ext.json)
-
----
-
-### Arrest someone with foreign cigarettes
-
-*2024-10-06 18:53:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-சிகரெட்டுகளுடன்-ஒருவர்-கைது/175-344992) · `ta`
-
-Sri Lankan navy and STF arrest 54-year-old man with 2020 foreign cigarettes on bus in Puttalam. Suspect handed to local police for legal proceedings.
-
-🟩
-
-A 54 -year -old suspect has been arrested with 2,020 foreign cigarettes taken on a bus last Saturday (05) in a joint venture of the Sri Lanka Navy and Police Special Task Force (STF) in Puttalam.
-
-The Sri Lankan navy said that the move was taken on a confidential information received by the SLNS Thambapanni along with the Special Task Force.
-
-The suspect from Puttalam has been handed over to the Kavalakaswewa police for further legal action with the seized cigarettes.
-
-◼️
-
-[Data](articles/1bad7cb7.json)
-
-[Extended Data](ext_articles/1bad7cb7.ext.json)
-
----
-
-### Expressway to the end of the last days
-
-*2024-10-06 18:51:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉකුත්-රජයන්-සමයේ-අධිවේගී-මාර්ගයත්-අවභාවිතා-කරලා/11-412337) · `si`
-
-Here's a 200-character summary:
-
-
-
-Expressway tolls affect 150-200 vehicles daily. Special passes were used by former presidents. Losses incurred due to unauthorized use. Steps taken to inform applicants about requirements.
-
-🟩
-
-The licenses and telephone calls travel between 150/200 vehicles
-
-The other Tiger was able to put an end to the years in the 'Sand "special pass and the new president was able to put the new president over the years.
-
-The official said that 150-200 vehicles have been a loss of Rs.
-
-Director General of the Road Development Authority S.S. P.M.M. The Deputy Director General of Express Oil Standard Maintenance Management Division said that all cash personnel had taken steps to inform the applicants as per the written directive issued by the Gazette.
-
-Expressway from the Expressway or SC pass (Special Permit) has been operated from the public office without the permits, whether it has not been on the presidential or the Prime Minister.Sources say that the road has to be suffered a loss of Rs.
-
-...
-
-[Data](articles/d47887cb.json)
-
-[Extended Data](ext_articles/d47887cb.ext.json)
-
----
-
-### IGP notifying all police stations
-
-*2024-10-06 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201903) · `si`
-
-IGP instructs police stations to investigate minor complaints. Acting IGP Priyantha Weerasuriya orders probe into public grievances. Police Media Spokesperson DIG Nihal Thalduwala confirms directive.
-
-🟩
-
-Acting IGP Priyantha Weerasuriya has instructed all police stations to investigate and take necessary steps regarding all the minor complaints made by the public.
-
-The Police Media Spokesperson DIG's launches said the DIG's latter and Nihal Thalduwala said that.
-
-◼️
-
-[Data](articles/7c45ade6.json)
-
-[Extended Data](ext_articles/7c45ade6.ext.json)
-
----
-
-### Political justification and solutions for the Tamil people
-
-*2024-10-06 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/195630) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Leadership requires more than education. Political candidates should be judged on life experience, moral character, and empathy for common struggles. These traits are crucial for effective governance and addressing citizen needs.
-
-🟩
-
-When choosing political leaders, it is important to consider not only their academic qualifications but also their moods and qualities. Education is not enough to ensure skilled leadership. The life experiences of a politician, the moral compass, and the understanding of the struggles faced by ordinary citizens are equally important in determining their suitability.
-
-◼️
-
-[Data](articles/dc58f739.json)
-
-[Extended Data](ext_articles/dc58f739.ext.json)
-
----
-
-### Economic crisis intensifies if political promises are fulfilled - Sehan Semasinghe
-
-*2024-10-06 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195643) · `ta`
-
-Economic crisis deepens if election promises fulfilled. IMF review delay impacts $300-$330 million installment. Government cooperation sought for economic recovery.
-
-🟩
-
-The notority of the IMF's third review of the International Monetary Fund will have an impact on receiving the fourth installment. Former Finance Minister Xihan Semasinghe said the economic crisis would be intensified if the promises made during the election period were again intensified.
-
-The President is delighted that the government led by former President Ranil Wickremesinghe for economic recovery. We will cooperate fully to find a steady solution to the economic crisis.
-
-The International Monetary Fund's Special Ambassador to Sri Lanka visited the country last week and held talks with the president. The date for the third review is not certain.
-
-It was initially decided to receive $ 300 or 330 million as a fourth installment of the International Monetary Fund. If the third term review is delayed, the next installment will be affected.
-
-...
-
-[Data](articles/de68c42e.json)
-
-[Extended Data](ext_articles/de68c42e.ext.json)
-
----
-
-### There is no point in traveling with the Tamil state party - Mithilaichelvi
-
-*2024-10-06 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195634) · `ta`
-
-Tamil State Party candidate selection process criticized by Mithilaichelvi as ineffective.
-
-🟩
-
-The culture of declaration of candidates in the Tamil State Party's Committee continues.
-
-◼️
-
-[Data](articles/1b2e6983.json)
-
-[Extended Data](ext_articles/1b2e6983.ext.json)
 
 ---

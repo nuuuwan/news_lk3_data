@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 11:23:00**
+As of **2024-10-07 11:39:43**
 
 ## Newspaper Stats
 
-*Scraped **48,134** Articles*
+*Scraped **48,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,247
 adalk | 4,448
 dailymirrorlk | 4,733
 adaderanalk | 5,671
-tamilmirrorlk | 6,503
+tamilmirrorlk | 6,505
 virakesarilk | 7,701
 adaderanasinhalalk | 8,332
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 8,332
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,127 (100.0%) of 48,134 articles have been extended.
+48,136 (100.0%) of 48,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### The President responded to the furious person
+
+*2024-10-07 11:11:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆத்திரமடைந்த-நபருக்கு-பதிலளித்தார்-ஜனாதிபதி/175-345027) · `ta`
+
+President responds to victim's frustration over Easter attack justice. Victim criticizes politicized judiciary. President denies personal involvement, emphasizes need for thorough investigation and punishment.
+
+🟩
+
+When one of the victims of the 2019 Easter attack, when he spoke directly to President Anura Kumara Dissanayake, he expressed his frustration over the failure to provide justice.
+
+The person made this statement at the time when the President visited the St. Sebastian Church in Negombo yesterday.
+
+The judicial department of this country is not free. It is under politics. I am disgusted by the politics of this country. Now they are testing us like animals.
+
+Everyone knows who comes here. But can you give my child?Can I give my parents?
+
+There was a possibility that the incident (Easter attack) had been fully prevented. The man told the president that you would know you too.
+
+Responding to the allegation, President Dissanayake made it clear that only the Special Security Division of the top politicians had been warned.
+
+He recalled that he and his fellow members of Parliament did not get special security during their tenure.
+
+...
+
+[Data](articles/adab7f06.json)
+
+[Extended Data](ext_articles/adab7f06.ext.json)
+
+---
 
 ### Colombo receives highest rainfall in last 24hrs
 
@@ -46,59 +76,103 @@ Issuing an advisory for heavy rains this morning, the department also warned tha
 
 [Data](articles/965b59cb.json)
 
+[Extended Data](ext_articles/965b59cb.ext.json)
+
 ---
 
-### කුපිත වූ වනඅලියා සිදුකළ විනාශය
+### The destruction of the wild elephant
 
 *2024-10-07 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201916) · `si`
 
-අද (07) පාන්දර පොළොන්නරුව - බකමුණ මාර්ගයේ සිදුවූ වනඅලි ප්‍රහාරයකින් 28 හැවිරිදි දිනේෂ් සඳරුවන් නම් තරුණයෙක් මියගියේය.
+Young man Dinesh Sandaruwan, 28, killed when van collides with wild elephant. Vehicle overturned in river during return from picnic.
 
-එම තරුණයා පැදවූ වෑන් රථය මාර්ගයේ සිටි වනඅලියෙකුගේ ගැටී ඇති අතර එහිදී කුපිත වූ වනඅලියා එම වෑන් රථය යෝධ ඇළ ට පෙරළා තිබුණි.
+🟩
 
-සිද්ධිය වන අවස්ථාවේදී ඔහු පමණක් වෑන් රථයේ සිට ඇති අතර විනෝද චාරිකාවක ගොස් සිටි පිරිසක් නිවෙස් වෙත ඇරලවා නැවත ආපසු එමින් සිටියදී ඔහු මෙම අනතුරට මුහුණපා තිබේ.
+A young man dies of the 28-year-old Dinesh Sandaruwan, 28-year-old Dinesh Sandaruwan, a young man named Dinesh Sandaruwan.
+
+The young man rode the van collided with a wild elephant collided with the van, where the van, was flipped to the giant stream.
+
+At the time of the incident, he was only in the van and a group of picnic was returning to homes and returned to home.
 
 ◼️
 
 [Data](articles/dc5309a0.json)
 
+[Extended Data](ext_articles/dc5309a0.ext.json)
+
 ---
 
-### PSD இலிருந்து 307 பொலிஸார் இடமாற்றம்
+### 307 police transfer from PSD
 
 *2024-10-07 10:51:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/307-பொலிஸார்-இடமாற்றம்/175-345025) · `ta`
 
-ஜனாதிபதி பாதுகாப்புப் பிரிவில்( Presidential Security Division) இருந்து நாடு முழுவதும் உள்ள பல்வேறு பொலிஸ் பிரிவுகளுக்கு உடனடியாக அமுலுக்கு வரும் வகையில் 307 பொலிஸார் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
+307 police officers transferred from PSD to various divisions. 11 chief inspectors, 5 inspectors, 38 sub-inspectors, 12 female sub-inspectors moved. Transfer order for 24 temporary PSD officers cancelled.
 
-பொதுச் சேவை ஆணைக்குழுவின் நடைமுறை விதிகளின் 258(1) மற்றும் (II) இன் படி தேர்தல்கள் ஆணைக்குழுவின் ஒப்புதலின் கீழ் இந்த இடமாற்றங்கள் பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரியவினால் அங்கீகரிக்கப்பட்டுள்ளன.
+🟩
 
-பணியிட மாற்றம் செய்யப்பட்டவர்களில் 11 தலைமை ஆய்வாளர்கள், 5 ஆய்வாளர்கள், 38 சப்-இன்ஸ்பெக்டர்கள் மற்றும் 12 பெண் சப்-இன்ஸ்பெக்டர்கள் உள்ளனர்.
+307 policemen have been transferred to various police divisions across the country from the Presidential Security Division.
 
-இதேவேளை, ஜனாதிபதி பாதுகாப்பு பிரிவில் தற்காலிகமாக கடமையாற்றிய 24 பொலிஸாரின் இடமாற்ற உத்தரவு இரத்து செய்யப்பட்டுள்ளது.
+Under the approval of the Elections Commission under the approval of the Elections Commission under the 258 (1) and (II) of the Public Service Commission's Practice Commission, the Inspector General of Police Priyantha Weerasuriya.
+
+Of the workplace transformers, there are 11 chief inspectors, 5 inspectors, 38 sub-inspectors and 12 female sub-inspectors.
+
+Meanwhile, the transfer order of 24 policemen who temporarily served in the Presidential Security Division has been canceled.
 
 ◼️
 
 [Data](articles/418fa175.json)
 
+[Extended Data](ext_articles/418fa175.ext.json)
+
 ---
 
-### பியுமியிடம் 9 மணிநேரம் விசாரணை
+### 307 police transfer from PSD
+
+*2024-10-07 10:51:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PSD-இலிருந்து-307-பொலிஸார்-இடமாற்றம்/175-345025) · `ta`
+
+307 police officers transferred from PSD to other divisions. 11 chief inspectors, 5 inspectors, 38 sub-inspectors, 12 female sub-inspectors moved. Transfer order for 24 officers canceled.
+
+🟩
+
+307 policemen have been transferred to various police divisions across the country from the Presidential Security Division.
+
+Under the approval of the Elections Commission under the approval of the Elections Commission under the 258 (1) and (II) of the Public Service Commission's Practice Commission, the Inspector General of Police Priyantha Weerasuriya.
+
+Of the workplace transformers, there are 11 chief inspectors, 5 inspectors, 38 sub-inspectors and 12 female sub-inspectors.
+
+Meanwhile, the transfer order of 24 policemen who temporarily served in the Presidential Security Division has been canceled.
+
+◼️
+
+[Data](articles/4864aadb.json)
+
+[Extended Data](ext_articles/4864aadb.ext.json)
+
+---
+
+### 9 hours trial to Pumi
 
 *2024-10-07 10:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியுமியிடம்-9-மணிநேரம்-விசாரணை/175-345023) · `ta`
 
-நடிகை பியுமி ஹன்சமாலியிடம் நேற்று சட்டவிரோத சொத்துக்கள் பிரிவு பொலிஸார் விசாரணை நடத்தினர்.
+Actress Piyumi Hansamali questioned over BMW linked to drug case. Nine-hour interrogation follows confession from smuggler. Vehicle seized from suspect's home.
 
-அவருக்குச் சொந்தமானதாகக் கூறப்படும் BMW வாகனம் தொடர்பாக அவரிடம் ஒன்பது மணிநேரம் விசாரணை நடத்தப்பட்டதாகத் தெரிவிக்கப்படுகிறது.
+🟩
 
-60 மில்லியன் ரூபா பெறுமதியான போதைப்பொருள் கடத்தியதாக பிடிபட்ட போதைப்பொருள் கடத்தல்காரர் ஒருவர் வழங்கிய வாக்குமூலத்தை அடுத்து பியுமி விசாரணைக்கு உட்படுத்தப்பட்டுள்ளார்.
+Actress Biyumi Hansamali yesterday investigated the illegal property unit.
 
-பியுமி ஹன்சமாலிக்கு சொந்தமானது என கூறப்படும் BMW வாகனம் நாவலையிலுள்ள உள்ள இந்த சந்தேகத்திற்குரிய போதைப்பொருள் கடத்தல்காரரின் வீட்டில் அண்மையில் மீட்கப்பட்டது.
+He is reported to have been investigated for nine hours in connection with the BMW vehicle that belongs to him.
 
-இந்த சந்தேக நபர் குறித்த வாகனத்தை பியுமி ஹன்சமாலியிடம் கொள்வனவு செய்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+Piyumi has been interrogated following a confession made by a drug trafficker who was caught for allegedly smuggling 60 million rupees.
+
+The BMW vehicle, which belongs to Piyumi Hansamali, was recently recovered at the house of a suspicious drug trafficker in the novel.
+
+Investigations have revealed that Piyumi Hansamali had purchased the vehicle on the suspect.
 
 ◼️
 
 [Data](articles/1c2a7c02.json)
+
+[Extended Data](ext_articles/1c2a7c02.ext.json)
 
 ---
 
@@ -124,19 +198,29 @@ The BLA terrorist organization has taken responsibility for the attack.
 
 ---
 
-### தேர்தலிலிருந்து பல எம்.பிக்கள் விலகல்
+### Many MPs withdraw from election
 
 *2024-10-07 10:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலிலிருந்து-பல-எம்-பிக்கள்-விலகல்/175-345021) · `ta`
 
-தற்போது கலைக்கப்பட்டுள்ள ஒன்பதாவது பாராளுமன்றத்தில் அங்கம் வகிக்கும் பல பாராளுமன்ற உறுப்பினர்கள் முதுமை, உடல்நலக்குறைவு, அவர்களுக்கு சாதகமற்ற அரசியல் நிலைகள் போன்ற காரணங்களால் அரசியலில் இருந்து விலகத் தீர்மானித்துள்ளதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+Here's a 200-character summary:
 
-ஜனாதிபதித் தேர்தலுக்குப் பின்னர் பாரம்பரியக் கட்சிகளைப் பொறுத்த வரையில் அரசியல் இயக்கங்கள் அடியோடு மாறி வருவதாகத் தெரிகிறது. சுதந்திரத்திற்குப் பிந்தைய இலங்கையின் வரலாற்றில் முதன்முறையாக, பாரம்பரிய பிரதான போக்குடைய கட்சிகளுக்கு அப்பாற்பட்ட ஒரு சக்தியான தேசிய மக்கள் சக்தி, ஜனாதிபதித் தேர்தலில் ஈட்டிய வெற்றி நவம்பர் 14 அன்று பொதுத் தேர்தலில் பாராளுமன்ற அதிகாரத்தை கைப்பற்றுவதற்கான களத்தையும் அமைத்துள்ளது.
 
-தற்போதைய பாராளுமன்றத்தில் பெரும்பான்மையைப் பெற்றுள்ள ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) ஜனாதிபதித் தேர்தலுக்கு முன்னதாக தம்மிடம் இருந்து வெளியேறிய எம்.பி.க்களுக்கு வேட்புமனு வழங்குவதில்லை எனத் தீர்மானித்துள்ளது. இந்நிலை குறித்த எம்.பி.க்களை வேறு வேறு கூட்டணிகளில் இருந்து சீட்டு பெற தூண்டியுள்ளது.
+
+Many Sri Lankan MPs retiring due to age, health issues, or political changes. Traditional parties shifting; national people's power emerging. Key figures like Rajapaksas, Sabri not contesting. Some uncertain about participation. Political landscape evolving ahead of November 14 elections.
+
+🟩
+
+Daily Mirror reports that many MPs who are currently a member of the Ninth Parliament, which are currently dissolved, have decided to quit politics due to old age, ill health and unfavorable political conditions.
+
+As far as traditional parties are concerned after the presidential election, political movements seem to be changing. For the first time in the history of the post -independence Sri Lanka, the national people's power, beyond the traditional main trend parties, set the field for the seizure of parliamentary power in the general election on November 14.
+
+The Sri Lanka PA (SLPP), which has a majority in the present parliament, has decided not to give nominations to MPs who have left it before the presidential election.. The situation has prompted MPs to get ticket from other alliances.
 
 ...
 
 [Data](articles/9b28765a.json)
+
+[Extended Data](ext_articles/9b28765a.ext.json)
 
 ---
 
@@ -1606,19 +1690,25 @@ I found the Foreign Minister of India. Mr. Dr. Jeyzankar. When I met it, I thank
 
 ---
 
-### සුරේෂ් සලෙයි කලින්ම විශ්‍රාම යයි
+### Suresh Salai retires early
 
 *2024-10-06 18:17:36* · [`adalk`](https://www.ada.lk/breaking_news/සුරේෂ්-සලෙයි-කලින්ම-විශ්‍රාම-යයි/11-412335) · `si`
 
-රාජ්‍ය බුද්ධි සේවයේ (SIS) නව අධ්‍යක්ෂවරයා ලෙස නියෝජ්‍ය පොලිස්පති ධම්මික ප්‍රියන්ත මහතා පත් කර තිබේ.
+Suresh Salai retires early; DIG Dhammika Priyantha named new SIS director. Former Major General Suresh Eley replaces him post-retirement. Suresh Salai's planned December retirement accelerated.
 
-හිටපු රාජ්‍ය බුද්ධි සේවයේ  අධ්‍යක්ෂ මේජර් ජෙනරාල් සුරේෂ් සලෙයි මහතා විශ්‍රාම යාමෙන් පසුව මෙම පත් කිරීම සිදු කර  තිබේ.
+🟩
 
-කෙසේ වෙතත් සුරේෂ් සලෙයි මහාත  එළැඹෙන දෙසැම්බර් මාසයේ දී විශ්‍රාම ගැනීමට නියමිතව තිබිණ.
+DIG Dhammika Priyantha has been appointed as the new director of State Intelligence Service (SIS).
+
+The appointment of former State Intelligence Service Major General Suresh Eley has been appointed after retirement.
+
+However, Suresh Elections were to be retired in December, who was coming.
 
 ◼️
 
 [Data](articles/47d89e3b.json)
+
+[Extended Data](ext_articles/47d89e3b.ext.json)
 
 ---
 
@@ -2235,61 +2325,5 @@ Indian fishermen crossed the border have been a serious solution for decades aft
 [Data](articles/6360e483.json)
 
 [Extended Data](ext_articles/6360e483.ext.json)
-
----
-
-### President visits the Kattuvapitti temple
-
-*2024-10-06 15:19:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுவாப்பிட்டி-ஆலயத்திற்கு-ஜனாதிபதி-விஜயம்/175-344978) · `ta`
-
-President Anura Kumara Dissanayake visited Kattuvapitti temple, promising swift investigation into 2019 Easter attacks and justice for affected families. He stressed need for thorough, transparent probe.
-
-🟩
-
-President Anura Kumara Dissanayake has promised to expedite investigations into the 2019 Easter Sunday attacks and that justice will be given to the affected families.
-
-He said this while visiting the St. Sebastian Temple of Katuwapitiya today.
-
-He emphasized the importance of a legitimate and open investigation.
-
-◼️
-
-[Data](articles/27dcfe88.json)
-
-[Extended Data](ext_articles/27dcfe88.ext.json)
-
----
-
-### Samasti - Traditional Tamil Homeland - International mechanism for war crimes - JVP -British Tamil Congress opposed peace efforts
-
-*2024-10-06 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195625) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-JVP opposes peace efforts, supports war crimes investigation opposition. Anura Kumara Dissanayake's leadership questioned. British Tamil Congress criticizes JVP's anti-Tamil history. JVP's influence on Sri Lankan politics and peace process highlighted.
-
-🟩
-
-The British Tamil Congress, which has issued a statement pointing to the JVP's anti -Tamil past and their steps to confuse peace efforts
-
-Under the worst governments;The presence of Anura Kumaratisanayake, who made the promise of the organization's serious changes in the moment of the nation, appears to be a matter of great relief to the Sri Lankan people.
-
-Will this change end the 75 -year violence against the Tamil people?
-
-He is not a Marxist, but he is a left -wing Sinhala nationalist in Sri Lankan politics.
-
-His political life is seen as a testament to things that have not yet taken place during his tenure.
-
-In this statement, the British Tamil Congress wants to present some issues about the JVP and Anuragumaratisanayake.
-
-During his student period, Anuragumaratisanayaka joined the JVP, the anti -Tamil anti -Western anti -Western anti -Western anti -Western anti -Sinhala Sinhalese fundamentalist organization.
-
-...
-
-[Data](articles/8a5e2f78.json)
-
-[Extended Data](ext_articles/8a5e2f78.ext.json)
 
 ---

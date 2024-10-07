@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 11:11:29**
+As of **2024-10-07 11:23:00**
 
 ## Newspaper Stats
 
-*Scraped **48,127** Articles*
+*Scraped **48,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,95 @@ newsfirstlk | 363
 dbsjeyarajcom | 396
 bbccomsinhala | 475
 colombotelegraphcom | 476
-islandlk | 2,846
+islandlk | 2,847
 economynextcom | 2,942
 dailyftlk | 3,247
-adalk | 4,447
+adalk | 4,448
 dailymirrorlk | 4,733
-adaderanalk | 5,670
-tamilmirrorlk | 6,500
+adaderanalk | 5,671
+tamilmirrorlk | 6,503
 virakesarilk | 7,701
-adaderanasinhalalk | 8,331
+adaderanasinhalalk | 8,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,127 (100.0%) of 48,127 articles have been extended.
+48,127 (100.0%) of 48,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Colombo receives highest rainfall in last 24hrs
+
+*2024-10-07 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102498/colombo-receives-highest-rainfall-in-last-24hrs) · `en`
+
+The Department of Meteorology announces that the Colombo District has received the highest rainfall within the period from 08.30 a.m. on Sunday (06) to 07.00 a.m. today (07). The amount of rainfall received by Colombo within this period is 162.5mm.
+
+Meanwhile, heavy downpours have been reported in Walallavita (112.5mm) and Horana (111.5mm) areas of Kalutara District, Neluwa (109.5mm) in Galle Districts and Kalubovitiyana (84.0mm) in Matara District, as per the Department of Meteorology.
+
+Issuing an advisory for heavy rains this morning, the department also warned that the prevailing showery conditions are expected to continue in the south-western part of the island due to the Intertropical Convergence Zone, where winds from the Northern Hemisphere and Southern Hemisphere converge, is affecting the island’s weather.
+
+...
+
+[Data](articles/965b59cb.json)
+
+---
+
+### කුපිත වූ වනඅලියා සිදුකළ විනාශය
+
+*2024-10-07 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201916) · `si`
+
+අද (07) පාන්දර පොළොන්නරුව - බකමුණ මාර්ගයේ සිදුවූ වනඅලි ප්‍රහාරයකින් 28 හැවිරිදි දිනේෂ් සඳරුවන් නම් තරුණයෙක් මියගියේය.
+
+එම තරුණයා පැදවූ වෑන් රථය මාර්ගයේ සිටි වනඅලියෙකුගේ ගැටී ඇති අතර එහිදී කුපිත වූ වනඅලියා එම වෑන් රථය යෝධ ඇළ ට පෙරළා තිබුණි.
+
+සිද්ධිය වන අවස්ථාවේදී ඔහු පමණක් වෑන් රථයේ සිට ඇති අතර විනෝද චාරිකාවක ගොස් සිටි පිරිසක් නිවෙස් වෙත ඇරලවා නැවත ආපසු එමින් සිටියදී ඔහු මෙම අනතුරට මුහුණපා තිබේ.
+
+◼️
+
+[Data](articles/dc5309a0.json)
+
+---
+
+### PSD இலிருந்து 307 பொலிஸார் இடமாற்றம்
+
+*2024-10-07 10:51:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/307-பொலிஸார்-இடமாற்றம்/175-345025) · `ta`
+
+ஜனாதிபதி பாதுகாப்புப் பிரிவில்( Presidential Security Division) இருந்து நாடு முழுவதும் உள்ள பல்வேறு பொலிஸ் பிரிவுகளுக்கு உடனடியாக அமுலுக்கு வரும் வகையில் 307 பொலிஸார் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
+
+பொதுச் சேவை ஆணைக்குழுவின் நடைமுறை விதிகளின் 258(1) மற்றும் (II) இன் படி தேர்தல்கள் ஆணைக்குழுவின் ஒப்புதலின் கீழ் இந்த இடமாற்றங்கள் பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரியவினால் அங்கீகரிக்கப்பட்டுள்ளன.
+
+பணியிட மாற்றம் செய்யப்பட்டவர்களில் 11 தலைமை ஆய்வாளர்கள், 5 ஆய்வாளர்கள், 38 சப்-இன்ஸ்பெக்டர்கள் மற்றும் 12 பெண் சப்-இன்ஸ்பெக்டர்கள் உள்ளனர்.
+
+இதேவேளை, ஜனாதிபதி பாதுகாப்பு பிரிவில் தற்காலிகமாக கடமையாற்றிய 24 பொலிஸாரின் இடமாற்ற உத்தரவு இரத்து செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/418fa175.json)
+
+---
+
+### பியுமியிடம் 9 மணிநேரம் விசாரணை
+
+*2024-10-07 10:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியுமியிடம்-9-மணிநேரம்-விசாரணை/175-345023) · `ta`
+
+நடிகை பியுமி ஹன்சமாலியிடம் நேற்று சட்டவிரோத சொத்துக்கள் பிரிவு பொலிஸார் விசாரணை நடத்தினர்.
+
+அவருக்குச் சொந்தமானதாகக் கூறப்படும் BMW வாகனம் தொடர்பாக அவரிடம் ஒன்பது மணிநேரம் விசாரணை நடத்தப்பட்டதாகத் தெரிவிக்கப்படுகிறது.
+
+60 மில்லியன் ரூபா பெறுமதியான போதைப்பொருள் கடத்தியதாக பிடிபட்ட போதைப்பொருள் கடத்தல்காரர் ஒருவர் வழங்கிய வாக்குமூலத்தை அடுத்து பியுமி விசாரணைக்கு உட்படுத்தப்பட்டுள்ளார்.
+
+பியுமி ஹன்சமாலிக்கு சொந்தமானது என கூறப்படும் BMW வாகனம் நாவலையிலுள்ள உள்ள இந்த சந்தேகத்திற்குரிய போதைப்பொருள் கடத்தல்காரரின் வீட்டில் அண்மையில் மீட்கப்பட்டது.
+
+இந்த சந்தேக நபர் குறித்த வாகனத்தை பியுமி ஹன்சமாலியிடம் கொள்வனவு செய்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/1c2a7c02.json)
+
+---
 
 ### Attack on Chinese people in Pakistan
 
@@ -51,6 +121,22 @@ The BLA terrorist organization has taken responsibility for the attack.
 [Data](articles/cde11a6b.json)
 
 [Extended Data](ext_articles/cde11a6b.ext.json)
+
+---
+
+### தேர்தலிலிருந்து பல எம்.பிக்கள் விலகல்
+
+*2024-10-07 10:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலிலிருந்து-பல-எம்-பிக்கள்-விலகல்/175-345021) · `ta`
+
+தற்போது கலைக்கப்பட்டுள்ள ஒன்பதாவது பாராளுமன்றத்தில் அங்கம் வகிக்கும் பல பாராளுமன்ற உறுப்பினர்கள் முதுமை, உடல்நலக்குறைவு, அவர்களுக்கு சாதகமற்ற அரசியல் நிலைகள் போன்ற காரணங்களால் அரசியலில் இருந்து விலகத் தீர்மானித்துள்ளதாக டெய்லி மிரர் செய்தி வெளியிட்டுள்ளது.
+
+ஜனாதிபதித் தேர்தலுக்குப் பின்னர் பாரம்பரியக் கட்சிகளைப் பொறுத்த வரையில் அரசியல் இயக்கங்கள் அடியோடு மாறி வருவதாகத் தெரிகிறது. சுதந்திரத்திற்குப் பிந்தைய இலங்கையின் வரலாற்றில் முதன்முறையாக, பாரம்பரிய பிரதான போக்குடைய கட்சிகளுக்கு அப்பாற்பட்ட ஒரு சக்தியான தேசிய மக்கள் சக்தி, ஜனாதிபதித் தேர்தலில் ஈட்டிய வெற்றி நவம்பர் 14 அன்று பொதுத் தேர்தலில் பாராளுமன்ற அதிகாரத்தை கைப்பற்றுவதற்கான களத்தையும் அமைத்துள்ளது.
+
+தற்போதைய பாராளுமன்றத்தில் பெரும்பான்மையைப் பெற்றுள்ள ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) ஜனாதிபதித் தேர்தலுக்கு முன்னதாக தம்மிடம் இருந்து வெளியேறிய எம்.பி.க்களுக்கு வேட்புமனு வழங்குவதில்லை எனத் தீர்மானித்துள்ளது. இந்நிலை குறித்த எம்.பி.க்களை வேறு வேறு கூட்டணிகளில் இருந்து சீட்டு பெற தூண்டியுள்ளது.
+
+...
+
+[Data](articles/9b28765a.json)
 
 ---
 
@@ -1520,6 +1606,22 @@ I found the Foreign Minister of India. Mr. Dr. Jeyzankar. When I met it, I thank
 
 ---
 
+### සුරේෂ් සලෙයි කලින්ම විශ්‍රාම යයි
+
+*2024-10-06 18:17:36* · [`adalk`](https://www.ada.lk/breaking_news/සුරේෂ්-සලෙයි-කලින්ම-විශ්‍රාම-යයි/11-412335) · `si`
+
+රාජ්‍ය බුද්ධි සේවයේ (SIS) නව අධ්‍යක්ෂවරයා ලෙස නියෝජ්‍ය පොලිස්පති ධම්මික ප්‍රියන්ත මහතා පත් කර තිබේ.
+
+හිටපු රාජ්‍ය බුද්ධි සේවයේ  අධ්‍යක්ෂ මේජර් ජෙනරාල් සුරේෂ් සලෙයි මහතා විශ්‍රාම යාමෙන් පසුව මෙම පත් කිරීම සිදු කර  තිබේ.
+
+කෙසේ වෙතත් සුරේෂ් සලෙයි මහාත  එළැඹෙන දෙසැම්බර් මාසයේ දී විශ්‍රාම ගැනීමට නියමිතව තිබිණ.
+
+◼️
+
+[Data](articles/47d89e3b.json)
+
+---
+
 ### Solution to the Ministry of Agriculture to protect the egg industry
 
 *2024-10-06 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201901) · `si`
@@ -2189,141 +2291,5 @@ During his student period, Anuragumaratisanayaka joined the JVP, the anti -Tamil
 [Data](articles/8a5e2f78.json)
 
 [Extended Data](ext_articles/8a5e2f78.ext.json)
-
----
-
-### The bodies of the dead couple found in a house
-
-*2024-10-06 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201898) · `si`
-
-Dead couple found in house: Police investigate murder in Welipenna. Bodies discovered during inquiry led by Kalutara Division Criminal Investigations Officers.
-
-🟩
-
-The Welipenna police stated that two bodies of a couple of a resident of Welipenna were arrested in suspicion of a house in Welipenna.
-
-Kalutara Division Criminal Investigations Officers conducting an inquiry into the incident.
-
-◼️
-
-[Data](articles/078c636d.json)
-
-[Extended Data](ext_articles/078c636d.ext.json)
-
----
-
-### India’s ruling party set to lose two state elections, exit polls show
-
-*2024-10-06 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102484/indias-ruling-party-set-to-lose-two-state-elections-exit-polls-show) · `en`
-
-India’s ruling party is projected to have lost two key provincial elections to the main opposition Congress party and its allies, exit polls showed, suggesting another setback after the party fared poorly in national elections.
-
-Local media reported that Congress had a clear advantage in exit polls in the northern state of Haryana, indicating an end to a decade of rule by Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP) in the state. The opposition also held an edge in the Himalayan territory of Jammu and Kashmir.
-
-The two elections were held in phases that ended on Saturday. Votes will be counted on Tuesday and results will be announced the same day. The exit poll results were released late on Saturday.
-
-Exit polls, conducted by private polling firms including TV broadcasters, have a patchy record in India, which analysts say poses a particular challenge due to its large and diverse voting population.
-
-...
-
-[Data](articles/967dbcc2.json)
-
-[Extended Data](ext_articles/967dbcc2.ext.json)
-
----
-
-### 56 Pakistanis held in Sri Lanka return home after years in detention
-
-*2024-10-06 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102483/56-pakistanis-held-in-sri-lanka-return-home-after-years-in-detention) · `en`
-
-56 Pakistanis imprisoned in Sri Lanka for several years are finally set to leave today.
-
-Their return follows months of diplomatic negotiations by the Pakistani government. A chartered flight has been dispatched to Sri Lanka to bring back the detainees.
-
-Federal Minister of Interior Mohsin Naqvi spearheaded the efforts to secure their release, maintaining close contact with Sri Lankan authorities over the last three months.
-
-According to Express News, federal minister for privatization Abdul Aleem Khan is covering all costs associated with the repatriation, ensuring the prisoners’ safe return.
-
-Mohsin Naqvi thanked the Sri Lankan government and its High Commissioner for their cooperation in the matter.
-
-He also expressed gratitude to Abdul Aleem Khan for his financial support, which made the repatriation possible.
-
-The return of these 56 Pakistanis comes after years of detention in Sri Lankan jails.
-
-...
-
-[Data](articles/9ba9871a.json)
-
-[Extended Data](ext_articles/9ba9871a.ext.json)
-
----
-
-### Air strikes on a Gaza church
-
-*2024-10-06 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201897) · `si`
-
-Airstrikes hit Gaza church, killing 24. Foreign media reports possible higher death toll. Attacks displace 2.3 million, kill 42,000 overall.
-
-🟩
-
-24 persons have been killed in airstrike on a rapid attack on Gaza's church in Gaza.
-
-Foreign media reports that the attack on a shrine of the IDPs has been launched.
-
-However, foreign media reports that the deceased could be increased further.
-
-At least 42,000 people have been killed and 2.3 million have been displaced due to the attacks on the charity.
-
-◼️
-
-[Data](articles/44d934c4.json)
-
-[Extended Data](ext_articles/44d934c4.ext.json)
-
----
-
-### 50 people who looted the woman;Allow the video to watch the video
-
-*2024-10-06 13:57:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பெண்ணை-சூறையாடிய-50-பேர்-வீடியோவை-மக்களும்-பார்க்க-அனுமதி/50-344975) · `ta`
-
-Here's a 200-character summary:
-
-
-
-French man drugged wife, brought 50+ people for sex. Wife sues, demands public screening of video evidence. Husband faces 20-year sentence if convicted. Case sparks debate on victim rights and public access to sensitive content.
-
-🟩
-
-There has been an incident in France that the husband gave his wife anesthesia and brought more than 50 people in the absence of self -consciousness.
-
-Kischel Feligot is a resident of France. Her husband is Dominic Beligot. Kissell's husband, Dominic, has been unaware of her for almost 10 years, giving her an anesthetic at home, and when he is not self -conscious, he has brought out the outsiders.. This is photographers, videos and filmed. This detail was recently revealed to the police. In 2020, a Supermarket was arrested by the police, while the Tominic film was held with a secret camera, unaware of them in the underwear of 3 women.. Subsequently, the police inspected his computer and investigated the shocking reports.
-
-...
-
-[Data](articles/08b2d9d0.json)
-
-[Extended Data](ext_articles/08b2d9d0.ext.json)
-
----
-
-### Two other matches of Women's World Cup today
-
-*2024-10-06 13:46:22* · [`adalk`](https://www.ada.lk/sports/කාන්තා-​ලෝක-කුසලානයේ-තවත්-තරග-දෙකක්-අද/9-412327) · `si`
-
-Women's World Cup: India vs Pakistan at 3:30 PM; Scotland vs West Indies later today.
-
-🟩
-
-Two other matures of the Women's T20 World Cup will be held today (06).
-
-Accordingly, the first match will begin at 3.30 pm and the Indian team and Pakistan will compete.
-
-The second match is scheduled to start between Scotland team and the West Indies.
-
-◼️
-
-[Data](articles/02d258af.json)
-
-[Extended Data](ext_articles/02d258af.ext.json)
 
 ---

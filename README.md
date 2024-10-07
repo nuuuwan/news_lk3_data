@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 00:55:45**
+As of **2024-10-08 01:23:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,257 (100.0%) of 48,258 articles have been extended.
+48,258 (100.0%) of 48,258 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1089,6 +1089,8 @@ The case was heard by the Supreme Court Justices P P Surasena, Kumudini Wickreme
 ◼️
 
 [Data](articles/6c12a807.json)
+
+[Extended Data](ext_articles/6c12a807.ext.json)
 
 ---
 

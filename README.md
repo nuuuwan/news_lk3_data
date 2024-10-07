@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 22:39:35**
+As of **2024-10-07 22:57:37**
 
 ## Newspaper Stats
 
-*Scraped **48,249** Articles*
+*Scraped **48,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ dailymirrorlk | 4,733
 adaderanalk | 5,688
 tamilmirrorlk | 6,528
 virakesarilk | 7,726
-adaderanasinhalalk | 8,350
+adaderanasinhalalk | 8,351
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,249 (100.0%) of 48,249 articles have been extended.
+48,250 (100.0%) of 48,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Law against tax evictions
+
+*2024-10-07 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201935) · `si`
+
+Here's a 200-character summary:
+
+
+
+Department of Inland Revenue warns taxpayers: Maximum measures to recover unpaid taxes before year-end. Officials can freeze bank accounts and seize properties. Verify officer identities; never accept cash payments.
+
+🟩
+
+The Department of Inland Revenue states that there is a maximum measures to recover the deficit taxes due before the end of this year and to ban their bank accounts and take over their bank accounts as well as to take over property.
+
+Deputy Commissioner General of the Department of Inland Revenue, has been made to the media. M. N. S. B. Mr. Dissanayake made this statement.
+
+However, he asked the people to inform the people to verify the identity of the officers who visit the officers who visit the officials to be charged.
+
+"Our officials from today to premises to premise taxes. Identify those officers who. They should wear the identity card of our department. Never accepts checks or money or anything.  ඒ නිලධාරීන් හැමවිටම උපදෙස් දිය යුත්තේ දේශීය ආදායම් දෙපාර්තමේන්තුවේ පවතින දේශීය ආදායම් කොමසාරිස් ජනරාල්ගේ ගිණුමට අදාළ හිඟ බදු ගෙවා කටයුතු කරන ලෙස.
+
+Before the end of this year, you will take maximum action to recover. We have the power to ban bank accounts, even to take over the property. "
+
+◼️
+
+[Data](articles/d0d03e3d.json)
+
+[Extended Data](ext_articles/d0d03e3d.ext.json)
+
+---
 
 ### A warning of landslides for some areas
 
@@ -2335,27 +2365,5 @@ Meanwhile, a Level 1 (Yellow) warning was issued for the following areas:
 [Data](articles/f0fc3dc7.json)
 
 [Extended Data](ext_articles/f0fc3dc7.ext.json)
-
----
-
-### Increase in the price of coconut
-
-*2024-10-07 11:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலை-அதிகரிப்பு/175-345029) · `ta`
-
-Coconut prices surge: from Rs 90-100 to Rs 180. Egg prices rebound after dip, now up to Rs 40 in some areas.
-
-🟩
-
-The price of coconut in the market has increased further. Consumers said that coconuts are being sold for 180 rupees in some areas.
-
-In the past, a coconut was sold for Rs 90 to Rs 100.
-
-Meanwhile, market sources say that the price of eggs, which has fallen over the past few days, is rising again.. Egg prices have risen up to 40 rupees in some areas
-
-◼️
-
-[Data](articles/eb82f75a.json)
-
-[Extended Data](ext_articles/eb82f75a.ext.json)
 
 ---

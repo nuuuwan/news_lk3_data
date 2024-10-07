@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 15:23:05**
+As of **2024-10-07 15:38:50**
 
 ## Newspaper Stats
 
-*Scraped **48,185** Articles*
+*Scraped **48,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,144 @@ colombotelegraphcom | 476
 islandlk | 2,848
 economynextcom | 2,944
 dailyftlk | 3,247
-adalk | 4,456
+adalk | 4,457
 dailymirrorlk | 4,733
 adaderanalk | 5,680
-tamilmirrorlk | 6,518
-virakesarilk | 7,710
+tamilmirrorlk | 6,519
+virakesarilk | 7,713
 adaderanasinhalalk | 8,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,184 (100.0%) of 48,185 articles have been extended.
+48,190 (100.0%) of 48,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Congress handed over nominations
+
+*2024-10-07 15:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கிரஸ்-வேட்புமனுக்களை-கையளித்தது/175-345046) · `ta`
+
+Here's a 200-character summary:
+
+
+
+All Ceylon Tamil Congress, led by Gajendrakumar Ponnambalam, submitted nominations for election district on 07/2023.
+
+🟩
+
+The All Ceylon Tamil Congress, led by former parliamentarian Gajendrakumar Ponnambalam, handed over the nominations for the All Ceylon Tamil Congress Election District on Monday (07).
+
+◼️
+
+[Data](articles/25524dd9.json)
+
+[Extended Data](ext_articles/25524dd9.ext.json)
+
+---
+
+### 'People Man'
+
+*2024-10-07 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195682) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Jekavir debuts in '2K Love Story'. Directed by Susheendran, it focuses on wedding photographers in Tamil Nadu, exploring modern youth relationships."
+
+🟩
+
+'People's Man' Ramarajan, the new youngest hero Jega Veer, has introduced the hero of the story as the hero of the Tamil film industry. The introductory meeting was held in Chennai.
+
+Jekavir makes his debut as a newcomer in the film '2K Love Story' directed by director Susheendran.
+
+Meenakshi Govindarajan, Muruganantham, Lion Tiger, G. B.. Muthu, Vinodhini Vaidyanathan, Antony Bhagyaraj, Jayaprakash, Dushyant Jayaprakash and many others have been cast.
+
+V.. S.. Anand Krishnan's cinematography. Iman has composed music.
+
+The film was produced by Vignesh Subramanian on behalf of City Light Pictures.
+
+The shooting of the film is over and the post -shooting technical work is underway.
+
+In this case, the inauguration of Jekavir, who plays the hero in the film. 'People's Man' Ramarajan participated as a special guest.
+
+...
+
+[Data](articles/ec9ad2f2.json)
+
+[Extended Data](ext_articles/ec9ad2f2.ext.json)
+
+---
+
+### Actor Varun Tej starrer 'Mathka'
+
+*2024-10-07 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195680) · `ta`
+
+Varun Tej stars in 'Mathka'. Directed by Karuna Kumar, it features Varun, Meenakshi Chaudhry, and others. Cinematography by Kishore Kumar, music by Prakash Kumar. Produced by Mohan Inguri and Dr. Wijender Reddy. Set for multi-language release on Nov 14.
+
+🟩
+
+Varun Tej, the leading star actor of the Telugu film industry, has been released as the hero of the film 'Mathka'.
+
+Actor Varun Tej, with four different appearances, has been a record of over five million viewers within a short time of the release.
+
+Directed by director Karuna Kumar, Varun Tej, Meenakshi Chaudhry, Nera Fadehi, Naveen Chandra, Kishore, Ajay Ghosh, Mime Gopi, Rupa Lakshmi, Vijay Rama Raju, Jagadish and many others.
+
+A.. Kishore Kumar is a cinematographer for the film.. V.. Prakash Kumar has composed the music.
+
+The film is being produced by Mohan Inguri and Dr. Wijender Reddy on behalf of Vira Entertainments Company.
+
+The film will be released in the film mansions of Tamil, Telugu, Malayalam, Kannada and Hindi on the 14th of November, and the excise scenes, stressful subtitles and emotional scenes are attracted to fans.
+
+The hero of the story decides that he should join the country's wealth. The story of 'Mathka' is to describe the challenging journey he is making.
+
+...
+
+[Data](articles/18dddea4.json)
+
+[Extended Data](ext_articles/18dddea4.ext.json)
+
+---
+
+### Arjun Das starrer 'Onsmore'
+
+*2024-10-07 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195681) · `ta`
+
+Here's a 200-character summary:
+
+
+
+New film "Onsmore" stars Arjun Das and Aditi Shankar. Directed by Vignesh Srikanth, music by Hesham Abdul Wahab. Produced by Yuvraj Ganesan for Million Studios. Released on Valentine's Day 2023. Not related to 1997 film of same name.
+
+🟩
+
+The new film, starring Arjun Das, who has made his debut in the film 'Kaidhi' and attracted fans with his unique voice, has been named 'Onsmore' and has been released.
+
+Aditi Shankar is paired opposite Arjun Das in the film 'Onsmore' directed by debutant director Vignesh Srikanth.
+
+The film crew has not yet released official information about the actors and actresses who have played with them.
+
+Hesham Abdul Wahab has composed the film, which is being recorded by Arvind Viswanathan.
+
+The film was produced by producer Yuvraj Ganesan on behalf of Million Studios.
+
+The film crew has released a special video of 'Onsmore' to celebrate the birthday of actor Arjun Das.
+
+The video will be released in the filmmaker on the 14th of Valentine's Day in February.
+
+The video has only been attracted to the weblishers because the conversation between Arjun Das and Aditi Shankar is young but not asking 'Onsmore'.
+
+...
+
+[Data](articles/8ba0a6dc.json)
+
+[Extended Data](ext_articles/8ba0a6dc.ext.json)
+
+---
 
 ### ADB delegation meets President, pledge continued support for Sri Lanka’s economy
 
@@ -1226,6 +1348,32 @@ Showers or thundershowers will occur at several places in the Western, Sabaragam
 
 ---
 
+### Rs. Rs. 85 000 Treasury billing auction
+
+*2024-10-07 09:40:48* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--85-000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-412342) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Treasury Bill auction on October 11. Second auction this month. Bills worth Rs. 40,000 issued. Payment due on October 11. Total value of auction: Rs. 85,000.
+
+🟩
+
+The Treasury Bill auction is held on the other (9), a Treasury bill auction.
+
+The Treasury bills of Rs. 40,000 worth Rs.
+
+These Treasury Bills issuance and payment are due to be done on October 11. This is the second Treasury billing auction this month.
+
+◼️
+
+[Data](articles/649344fe.json)
+
+[Extended Data](ext_articles/649344fe.ext.json)
+
+---
+
 ### Nilantha Jayawardena to Supreme Court
 
 *2024-10-07 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201913) · `si`
@@ -2121,119 +2269,5 @@ Meanwhile, in the past, a coconut has been sold at a price of 90 rupees to 100 r
 [Data](articles/516da0b4.json)
 
 [Extended Data](ext_articles/516da0b4.ext.json)
-
----
-
-### Warning on the impact of lightning
-
-*2024-10-07 00:00:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கம்-தொடர்பில்-எச்சரிக்கை/175-345009) · `ta`
-
-Lightning warning: Thunderstorms expected in several provinces and districts. Public advised to take precautions.
-
-🟩
-
-The Department of Meteorology advised the public yesterday evening to take care of lightning over the next 24 hours.
-
-Accordingly, thunderstorms will occur at night in the Upper, Sabaragamuwa, Central, North Western, North Western and Uva provinces, Jaffna, Kilinochchi, Batticaloa, Ampara, Galle and Matara districts.
-
-The Department of Meteorology has advised the public to follow security measures in the event of thunderstorms. (A)
-
-◼️
-
-[Data](articles/569b4a04.json)
-
-[Extended Data](ext_articles/569b4a04.ext.json)
-
----
-
-### 2024-10-06 (Sunday)
-
-### Ranil's safety is not removed
-
-*2024-10-06 23:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-பாதுகாப்பு-நீக்கப்படவில்லை/175-345008) · `ta`
-
-Former President Ranil Wickremesinghe's security remains unchanged. 163 officers continue to protect him, including 50 from the Police Special Task Force and 6 from the Dignitaries Security Division. Reports of security removal are false.
-
-🟩
-
-The reports that the security of former President Ranil Wickremesinghe has been removed is untrue.
-
-He said 163 officers are still involved in the security duty of the former president.
-
-These include 50 officers of the Police Special Task Force, 6 officers of the Dignitaries Security Division and some of the transferred officers.. (A)
-
-◼️
-
-[Data](articles/ab946b79.json)
-
-[Extended Data](ext_articles/ab946b79.ext.json)
-
----
-
-### The security of the former president is not removed
-
-*2024-10-06 23:51:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதியின்-பாதுகாப்பு-நீக்கப்படவில்லை/175-345008) · `ta`
-
-Former President Ranil Wickremesinghe's security detail remains unchanged. 163 officers continue to protect him, including 50 Police Special Task Force members and 6 Dignitaries Security Division officers. Transferred personnel also maintain security duties.
-
-🟩
-
-The reports that the security of former President Ranil Wickremesinghe has been removed is untrue.
-
-He said 163 officers are still involved in the security duty of the former president.
-
-These include 50 officers of the Police Special Task Force, 6 officers of the Dignitaries Security Division and some of the transferred officers.. (A)
-
-◼️
-
-[Data](articles/f42c50f6.json)
-
-[Extended Data](ext_articles/f42c50f6.ext.json)
-
----
-
-### Priority matrix for tea sector: Part 1
-
-*2024-10-06 23:34:28* · [`dailyftlk`](https://www.ft.lk/columns/Priority-matrix-for-tea-sector-Part-1/4-767613) · `en`
-
-The tea sector’s value chain is intricately interwoven and deeply interdependent, as not in many other agricultural value chains
-
-Enhancing the financial resilience and empowerment of stakeholders within Sri Lanka’s tea value chain is critical. By ensuring access to finance, improving financial literacy, building capacity, and offering a diverse range of financial services, we can achieve this. By doing so, Sri Lanka can aim to establish a robust support system for tea producers, processors, marketers, and associated businesses
-
-...
-
-[Data](articles/6df057ef.json)
-
-[Extended Data](ext_articles/6df057ef.ext.json)
-
----
-
-### Police certification for the safety of former President
-
-*2024-10-06 23:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201906) · `si`
-
-Here's a 200-character summary:
-
-
-
-Police deny claims of reduced security for ex-President Wickremesinghe. 50 officers still deployed. Number of officers needed to be determined. Presidential Secretariat reduces excess personnel.
-
-🟩
-
-Police Media Spokesperson DIG Talduuwa said that the propaganda that the security of former President Ranil Wickremesinghe has been removed has been completely false.
-
-The police spokesman said that 50 police officers who have been deployed to the security of the former president were working with the police.
-
-Police Media Spokesman DIG Talduwa, responding to the 'Ada Derana', responding to Ada Derana, responding to the safety of former President Ranil Wickremesinghe.
-
-However, he added that the number of officers who should be given to the former President are expected to be determined and established.
-
-Meanwhile, the number of officers who are required to establish the Presidential Secretariat of President Anura Kumara Dissanayake has decided to establish the removal of surplus officers.
-
-◼️
-
-[Data](articles/ce185806.json)
-
-[Extended Data](ext_articles/ce185806.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 11:58:52**
+As of **2024-10-07 12:14:07**
 
 ## Newspaper Stats
 
-*Scraped **48,140** Articles*
+*Scraped **48,144** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 396
-bbccomsinhala | 475
+bbccomsinhala | 476
 colombotelegraphcom | 476
 islandlk | 2,847
 economynextcom | 2,944
 dailyftlk | 3,247
 adalk | 4,450
 dailymirrorlk | 4,733
-adaderanalk | 5,671
-tamilmirrorlk | 6,505
+adaderanalk | 5,673
+tamilmirrorlk | 6,506
 virakesarilk | 7,701
 adaderanasinhalalk | 8,332
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 8,332
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,140 (100.0%) of 48,140 articles have been extended.
+48,144 (100.0%) of 48,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Landslide early warnings issued for 4 districts
+
+*2024-10-07 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102500/landslide-early-warnings-issued-for-4-districts) · `en`
+
+The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in four districts, as heavy rainfall continues in parts of the island.
+
+Accordingly, a Level 2 (Amber) warning has been issued for several areas in the Galle and Kalutara districts as follows:
+
+Galle District: Nagoda and Elpitiya Divisional Secretariat Divisions (DSD) and surrounding areas
+
+Meanwhile, a Level 1 (Yellow) warning was issued for the following areas:
+
+◼️
+
+[Data](articles/f0fc3dc7.json)
+
+[Extended Data](ext_articles/f0fc3dc7.ext.json)
+
+---
+
+### Increase in the price of coconut
+
+*2024-10-07 11:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலை-அதிகரிப்பு/175-345029) · `ta`
+
+Coconut prices surge: from Rs 90-100 to Rs 180. Egg prices rebound after dip, now up to Rs 40 in some areas.
+
+🟩
+
+The price of coconut in the market has increased further. Consumers said that coconuts are being sold for 180 rupees in some areas.
+
+In the past, a coconut was sold for Rs 90 to Rs 100.
+
+Meanwhile, market sources say that the price of eggs, which has fallen over the past few days, is rising again.. Egg prices have risen up to 40 rupees in some areas
+
+◼️
+
+[Data](articles/eb82f75a.json)
+
+[Extended Data](ext_articles/eb82f75a.ext.json)
+
+---
+
+### Easter attacks: Former SIS chief assures full compensation payment within today
+
+*2024-10-07 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102499/easter-attacks-former-sis-chief-assures-full-compensation-payment-within-today) · `en`
+
+The Legal Counsel of former Director of the State Intelligence Service (SIS) Nilantha Jayawardena has informed the Supreme Court that the arrears of the compensation his client was ordered to pay pertaining to the Easter Sunday attacks will be settled and the relevant documentation will be submitted to the court later today (07).
+
+The former Senior DIG and head of the SIS, Nilantha Jayawardana, appeared before the Supreme Court in relation to the contempt of court charges filed against him, for failing to complete the payment of Rs. 75 million in compensation for the Easter Sunday bomb victims as ordered by the court.
+
+The relevant case was taken up before a seven-member Supreme Court judge bench led by Chief Justice Jayantha Jayasuriya this morning.
+
+...
+
+[Data](articles/35942794.json)
+
+[Extended Data](ext_articles/35942794.ext.json)
+
+---
 
 ### Heavy rains experience over 100 mm million today and rainfall in Colombo
 
@@ -783,6 +843,34 @@ As an activity of its flagship corporate social responsibility initiative AFI Ca
 [Data](articles/856e04ce.json)
 
 [Extended Data](ext_articles/856e04ce.ext.json)
+
+---
+
+### What causes the sudden veins beginning?How many more days is it?
+
+*2024-10-07 05:22:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl8epz81gro) · `si`
+
+Sudden vein appearance causes: intermonsoon period, integrated convergence zone, southwest winds. Duration: 5 days. Heavy rain, strong winds, lightning risks.
+
+🟩
+
+Monday (Oct: 07) has increased by a sudden rain condition.
+
+The Department of Meteorology announced that several factors have been affected by the intermonsoon period.
+
+Athula Karunanayake, Director General of Meteorology, Athula Karunanayake said there was an integrated convergence zone above Sri Lanka.
+
+He explained what was the interpreter convergence zone is:
+
+"This is the specialty of this period, the windy pattern of the northern hemisphere and the wind from the southern hemisphere, the wind from the southern hemis. We call this, the intercoming convergence zone. This interim convergence zone is located above Sri Lanka. In this backdrop, there are rainy showers in many parts of the country. "
+
+The Director General of the Department of Meteorology pointed out that the cause of rain during the morning is a southwest winds.
+
+...
+
+[Data](articles/6c7253f8.json)
+
+[Extended Data](ext_articles/6c7253f8.ext.json)
 
 ---
 
@@ -2229,105 +2317,5 @@ The President of Sri Lanka's citizens, hope, hope and purpose, and the prospect 
 [Data](articles/9814472f.json)
 
 [Extended Data](ext_articles/9814472f.ext.json)
-
----
-
-### “Yoshitha has 7 guns”
-
-*2024-10-06 16:47:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யோஷிதவிடம்-7-துப்பாக்கிகள்-உள்ளன/175-344988) · `ta`
-
-Sri Lanka: Former MP receives 8 guns, businessman gets 9. Ministry orders return of weapons for self-defense. Deadline set for November 7.
-
-🟩
-
-The Ministry of Defense has reported that former MP Johnston Fernando has received 8 guns from the last government.
-
-Accordingly, AF 408-9mm CZ 75, AHIBT 219-9mm Glock, ESM 893-9mm GLOCK, 24SLG2-0002-12Bore Repeater, 24SLG2-0151-12 bore Repeater-12410, 2400 2/240888-153399-12410, 2400 2/240888The 8 guns of the war -rebellion have been provided by the Ministry of Defense.
-
-In addition, Nishanga, who runs Avancard, has received 9 guns from the last government.. The guns have 7 pistols (9mm) and 2 warpters.
-
-The Ministry of Defense has decided on Friday (04) to recover all the guns and shoes provided to citizens for self -defense.
-
-Accordingly, all the licensed people were announced to be handed over to the State Business Explosives Reserve in the Sri Lanka Navy's Welisara before November 7.
-
-Former President Mahinda Rajapaksa's son Yoshitha Rajapaksa has been given 07 guns by the previous government.
-
-◼️
-
-[Data](articles/ebd65113.json)
-
-[Extended Data](ext_articles/ebd65113.ext.json)
-
----
-
-### Ceylon Chamber commends ISB restructure progress within IMF, OCC parameters
-
-*2024-10-06 16:42:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-commends-isb-restructure-progress-within-imf-occ-parameters-182489/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Chamber of Commerce said International Monetary Fund and official creditor committee clearance for an in-principle deal with private bondholders, will pave the way for fiscal stability.
-
-Sri Lanka Friday said the IMF and OCC had given their ok for the latest tweaks to a deal with bondholders to re-structure debt.
-
-Sri Lanka plans to issue GDP linked upside/downside bonds and some plain vanilla bonds linked to governance indicators which are yet to be decided.
-
-“The Chamber looks forward to the completion of the restructuring of Sri Lanka’s external debt,” the trade association said.
-
-“The completion of the OCC and IMF consultation process is a positive indicator for ensuring successful future reviews and disbursements under the IMF’s Extended Fund Facility (EFF) arrangement, which will be essential in the country’s journey towards fiscal stability and economic transformation.
-
-...
-
-[Data](articles/ee3a0ceb.json)
-
-[Extended Data](ext_articles/ee3a0ceb.ext.json)
-
----
-
-### Two persons arrested in Katunayake with cigarettes
-
-*2024-10-06 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/195628) · `ta`
-
-Two arrests made at Katunayake airport: 23-year-old woman and 37-year-old man caught smuggling cigarettes from Abu Dhabi. Total of 48,800 cigarettes seized. Investigation ongoing.
-
-🟩
-
-Two suspects have been arrested by police today (06) at the Katunayake airport complex with cigarettes brought from Abu Dhabi to Sri Lanka.
-
-They were arrested during a raid carried out by the Airport Unit of the Police Drug Eradication Unit.
-
-Two 23 -year -old girl from Tehiota area and 37 -year -old male from Panadura area have been arrested by police.
-
-24,200 cigarettes (121 cartoons) from the arrest woman, 24,600 cigarettes (123 cartoons) were seized by the police.
-
-Further investigations are being carried out by the Police Drug Eradication Unit.
-
-◼️
-
-[Data](articles/94eefd96.json)
-
-[Extended Data](ext_articles/94eefd96.ext.json)
-
----
-
-### China
-
-*2024-10-06 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195624) · `ta`
-
-Here's a 200-character summary:
-
-
-
-China's diplomatic strategy in Sri Lanka avoided accusations of "debt trap diplomacy" similar to those faced in India and the West. This approach contrasted with the Rajapaksa regime's downfall due to such claims.
-
-🟩
-
-India and the West's continued allegations of debt trap diplomacy have affected China more. It was through this campaign that the Rajapaksa dynasty in Sri Lanka was removed from power. China could not tolerate this.
-
-China was careful not to bring witchcraft for China's diplomacy and politics in Sri Lanka, just as the allegations of debt -diplomacy caused witchcraft in the politics of Rajapakse.
-
-◼️
-
-[Data](articles/66f49229.json)
-
-[Extended Data](ext_articles/66f49229.ext.json)
 
 ---

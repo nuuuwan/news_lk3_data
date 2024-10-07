@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 11:39:43**
+As of **2024-10-07 11:58:52**
 
 ## Newspaper Stats
 
-*Scraped **48,136** Articles*
+*Scraped **48,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 396
 bbccomsinhala | 475
 colombotelegraphcom | 476
 islandlk | 2,847
-economynextcom | 2,942
+economynextcom | 2,944
 dailyftlk | 3,247
-adalk | 4,448
+adalk | 4,450
 dailymirrorlk | 4,733
 adaderanalk | 5,671
 tamilmirrorlk | 6,505
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,332
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,136 (100.0%) of 48,136 articles have been extended.
+48,140 (100.0%) of 48,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Heavy rains experience over 100 mm million today and rainfall in Colombo
+
+*2024-10-07 11:20:20* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-මි-මී-100ට-වැඩි-තද-වැසි---ඊයේ-වැඩිම-වර්ෂාපතනය-කොළඹට/11-412344) · `si`
+
+Heavy rains hit Colombo yesterday, peaking at 162.5mm between 8:30am-7am. Other areas like Kalallawita, Horana, and Karu Bavindiane received 94.5mm. Showers/thundershowers expected in Western, Sabaragamuwa, and North Western provinces.
+
+🟩
+
+Yesterday (06th). The Department of Meteorology stated that the highest rainfall has been received from 08.30 am to 07 am and the value of 162.5 mm.
+
+It is also mm in the area, Kalallawita area, Horana area, Karu Bavindiane area and 94.5 mm / mm..
+
+Meanwra, the Department of Meteorology said that the current territory of the island could continue the island's influence in the island.
+
+Showers or thundershowers will occur in the Western, Sabaragamuwa and North Western provinces, Galle, Matara, Kandy and Nuru.
+
+◼️
+
+[Data](articles/6e4b12f9.json)
+
+[Extended Data](ext_articles/6e4b12f9.ext.json)
+
+---
 
 ### The President responded to the furious person
 
@@ -239,6 +263,28 @@ The Supreme Court ordered former President Sirisena to pay Rs. 100 million in co
 [Data](articles/4f13e536.json)
 
 [Extended Data](ext_articles/4f13e536.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 293.75/294.25 to US dollar, bond yields steady
+
+*2024-10-07 09:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-293-75-294-25-to-us-dollar-bond-yields-steady-182561/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 293.75/294.25 to the US dollar on Monday, from 294.00/35 a day earlier, while bond yields were broadly steady dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.45/55 percent, down from 10.50/60 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.60/70 percent, down from 11.70/80 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.85/12.00 percent.
+
+In equities, Colombo’s All Share Price Index opened 0.72 percent, or 86.39 points higher at 12,139, while the S&P SL20 of more liquid stocks opened up 1.13 percent or 39.88 points higher at 3,583.
+
+◼️
+
+[Data](articles/63d0503b.json)
+
+[Extended Data](ext_articles/63d0503b.ext.json)
 
 ---
 
@@ -619,6 +665,26 @@ The suspect has been identified and the Keselwatta Police are conducting further
 [Data](articles/2ef542d7.json)
 
 [Extended Data](ext_articles/2ef542d7.ext.json)
+
+---
+
+### IMF report brings dedollarization politics to Sri Lanka
+
+*2024-10-07 07:27:00* · [`economynextcom`](https://economynext.com/imf-report-brings-dedollarization-politics-to-sri-lanka-182501/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund, in a report on how to print money to target a single policy rate, has also brought dedollarization politics to fore, though there is no demand from the public to undermine foreign currency deposit accounts.
+
+Dedollarization has not been on the agenda of the recent election or any other elections in Sri Lanka up to now.
+
+“The CBSL should introduce SRR for FX liabilities for macroprudential objective as part of a comprehensive framework aimed at dedollarization and promoting its own currency,” the IMF technical report on liquidity operations to maintain a ‘single policy rate’ said.
+
+Sri Lankans were given the freedom to have dollar bank accounts (deposit dollarization) by political leaders in 1979 as part of an opening of the economy from the draconian import and exchange controls that crippled the economy due to central bank’s liquidity injections.
+
+...
+
+[Data](articles/f0b4550e.json)
+
+[Extended Data](ext_articles/f0b4550e.ext.json)
 
 ---
 
@@ -1538,6 +1604,36 @@ The suspect from Puttalam has been handed over to the Kavalakaswewa police for f
 
 ---
 
+### Expressway to the end of the last days
+
+*2024-10-06 18:51:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉකුත්-රජයන්-සමයේ-අධිවේගී-මාර්ගයත්-අවභාවිතා-කරලා/11-412337) · `si`
+
+Here's a 200-character summary:
+
+
+
+Expressway tolls affect 150-200 vehicles daily. Special passes were used by former presidents. Losses incurred due to unauthorized use. Steps taken to inform applicants about requirements.
+
+🟩
+
+The licenses and telephone calls travel between 150/200 vehicles
+
+The other Tiger was able to put an end to the years in the 'Sand "special pass and the new president was able to put the new president over the years.
+
+The official said that 150-200 vehicles have been a loss of Rs.
+
+Director General of the Road Development Authority S.S. P.M.M. The Deputy Director General of Express Oil Standard Maintenance Management Division said that all cash personnel had taken steps to inform the applicants as per the written directive issued by the Gazette.
+
+Expressway from the Expressway or SC pass (Special Permit) has been operated from the public office without the permits, whether it has not been on the presidential or the Prime Minister.Sources say that the road has to be suffered a loss of Rs.
+
+...
+
+[Data](articles/d47887cb.json)
+
+[Extended Data](ext_articles/d47887cb.ext.json)
+
+---
+
 ### IGP notifying all police stations
 
 *2024-10-06 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201903) · `si`
@@ -2233,97 +2329,5 @@ China was careful not to bring witchcraft for China's diplomacy and politics in 
 [Data](articles/66f49229.json)
 
 [Extended Data](ext_articles/66f49229.ext.json)
-
----
-
-### Is the Indian attitude change?
-
-*2024-10-06 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195626) · `ta`
-
-India's stance towards Sri Lanka remains unchanged despite regional shifts. New Delhi continues to prioritize stability in its southern neighbor, unaffected by geopolitical developments in neighboring countries. The relationship is built on mutual trust and cooperation, with both nations prioritizing pragmatic solutions over ideological differences.
-
-🟩
-
-India has the most relying on Sri Lanka, regardless of regional political and geopolitical matters and security matters. With the regime changes in countries like Bangladesh and Nepal, New Delhi is trying to make Sri Lanka's regime change as a favorable.. Both sides have come to a position to believe in the "fighter rather than the witness."
-
-◼️
-
-[Data](articles/0aba64ea.json)
-
-[Extended Data](ext_articles/0aba64ea.ext.json)
-
----
-
-### 56 Pakistanis released
-
-*2024-10-06 15:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/56-பாகிஸ்தானியர்கள்-விடுவிப்பு/175-344986) · `ta`
-
-56 Pakistanis freed in Sri Lanka: 51 men, 5 women, flown to Pakistan after detention for drugs and crimes.
-
-🟩
-
-The airport officer confirmed that 56 Pakistani national prisoners who had been detained in Sri Lanka for drug allegations and other crimes were handed over to the Katunayake airport on Sunday (06).
-
-The group includes 51 male prisoners and the remaining 05 female prisoners.
-
-A special flight from Pakistan arrived at the Katunayake airport on Sunday (06) at 03.00 pm to take the prisoners to the prisoners' transfer program, which will be implemented several years later.
-
-The airport official added that there are more than one hundred Pakistani national prison officials on the plane.
-
-The Pakistani prisoners said that the prisoners' hands were placed in the hands of the prisoners until they were taken to prisons across Sri Lanka, including Colombo and Welikada, until they were handed over to Pakistani prison authorities.
-
-The Pakistani special aircraft will be traveling from Katunayake airport to Pakistan at 05.30 pm.
-
-◼️
-
-[Data](articles/63b2fcda.json)
-
-[Extended Data](ext_articles/63b2fcda.ext.json)
-
----
-
-### A new program to search for people who have not paid taxes
-
-*2024-10-06 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201899) · `si`
-
-New tax enforcement program: Inland Revenue Department targets unpaid taxpayers. Commissioner announces launch tomorrow. Income target exceeded, department to recover from identified defaulters through legal means.
-
-🟩
-
-2023/2024 The Inland Revenue Department has decided to implement a tax on the premises of those who have not done tax payments in relation to the valuation year.
-
-Commissioner General of Inland Revenue Seal Palika Chandrasekera said that the program would be launched tomorrow.
-
-The Inland Revenue Department has charged as taxes of Rs 1417 billion in September this year.
-
-The income target for the year 2024 was over 70 percent of Rs. 2024 billion.
-
-However, the Inland Revenue Department has decided to go to their premises as they have been identified as taxpayers payable to payments.
-
-Accordingly, the Department will take immediate action to be immediate recovery towards immediate recovery to the legal procedure.
-
-◼️
-
-[Data](articles/34b6e594.json)
-
-[Extended Data](ext_articles/34b6e594.ext.json)
-
----
-
-### Will the Northern Maritime Department be revived in the new regime?
-
-*2024-10-06 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195627) · `ta`
-
-Northern Maritime Department revival uncertain under new regime. Indian fishermen border crossings long-standing issue affecting 200k livelihoods. New government must address Tamil Nadu's reckless policies to resolve crisis.
-
-🟩
-
-Indian fishermen crossed the border have been a serious solution for decades after decades, and the livelihood of about two hundred thousand fishermen who lived in the sector have been badly affected by the reckless activities of the Tamil Nadu government.. It is not allowed to continue further. The new government needs to find a mechanism for resolving it.
-
-◼️
-
-[Data](articles/6360e483.json)
-
-[Extended Data](ext_articles/6360e483.ext.json)
 
 ---

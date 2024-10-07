@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 19:12:16**
+As of **2024-10-07 19:23:09**
 
 ## Newspaper Stats
 
-*Scraped **48,236** Articles*
+*Scraped **48,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,90 @@ economynextcom | 2,949
 dailyftlk | 3,247
 adalk | 4,463
 dailymirrorlk | 4,733
-adaderanalk | 5,686
+adaderanalk | 5,687
 tamilmirrorlk | 6,525
-virakesarilk | 7,724
+virakesarilk | 7,726
 adaderanasinhalalk | 8,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,235 (100.0%) of 48,236 articles have been extended.
+48,236 (100.0%) of 48,239 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
 
-### හිටපු ජනපතිගේ ආරක්ෂාව ඉවත් කළා ද?
+### Two Sri Lankan players among ICC Player Of The Month nominees
+
+*2024-10-07 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102514/two-sri-lankan-players-among-icc-player-of-the-month-nominees) · `en`
+
+The International Cricket Council (ICC) today named the shortlists for September’s ICC Player of the Month awards, celebrating the outstanding individual performances that took place across a bumper month of action in international cricket.
+
+The ICC Men’s Player of the Month candidates include three previous Player of the Month winners aiming to secure their second prize - two Sri Lankan Test stars, and a multi-format maestro from Australia.
+
+Travis Head aims to win his second ICC Men’s Player of the Month award after excelling with bat and ball in the shorter formats against Scotland and England in September. Joining him on the shortlist for the monthly award is Sri Lankan pair Prabath Jayasuriya and Kamindu Mendis. Jayasuriya shone with the spinning ball, while Mendis celebrated another set of landmarks with strong performances in their World Test Championship outings against England and New Zealand.
+
+...
+
+[Data](articles/65638214.json)
+
+---
+
+### வரலாற்றில் முதன்முறையாக குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளராக பெண் அதிகாரியின் பெயர் பரிந்துரை
+
+*2024-10-07 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195708) · `ta`
+
+வரலாற்றில் முதன்முறையாக குற்றப் புலனாய்வுத் திணைக்களத்தின் பணிப்பாளராக பெண் அதிகாரி ஒருவரின் பெயர் பரிந்துரைக்கப்பட்டுள்ளது.
+
+குற்றப் புலனாய்வுத் திணைக்களத்தில் பிரதிப் பணிப்பாளராக கடமையாற்றும் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் இமேஷா முத்துமாலை என்பவரே பரிந்துரைக்கப்பட்டுள்ளார்.
+
+அவர் 2007ஆம் ஆண்டில் உதவி பொலிஸ் அத்தியட்சகராக சேவையில் இணைந்ததுடன்  ருஹுனு பல்கலைக்கழகத்தில் தனது இளங்கலை விஞ்ஞான பட்டத்தையும் திறந்த பல்கலைக்கழகத்தில் சட்டத்தில் இளங்கலைப் பட்டத்தையும் நிறைவு செய்துள்ளார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e357ae1c.json)
+
+---
+
+### Did the former President removed the security?
 
 *2024-10-07 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201932) · `si`
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආරක්ෂාව ඉවත්කිරීමක් සිදුකර නොමැති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+Former President Ranil Wickremesinghe's security not removed: Police spokesperson clarifies recent reports were due to technical fault. Acting IGP orders completion of pending investigations within 14 days. Public relief day rescheduled for October 11.
 
-හිටපු ජනාධිපතිවරයාගේ ආරක්ෂාව ඉවත් කිරීමක් සම්බන්ධව නිකුත් වූ වාර්තාව තාක්ෂණික දෝෂයක් මත සිදුව ඇති බවත් සමාජ මාධ්‍ය ඔස්සේ පැතිර යන පුවත සාවද්‍ය බවත් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා අද (07) සඳහන් කළේය.
+🟩
 
-ඒ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක  නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා,
+Police Media Spokesperson DIG Talduuwa said that the security of former President Ranil Wickremesinghe has not been removed.
+
+The Police Media Spokesperson stated that the report on the security of the former president's safety was on a technical fault today (07), the police spokesman said.
+
+Deputy Minister of Police Media Spokesperson DIG Talduwa, Speaking further
+
+"Officers who were safely held by the former President have not been removed. 50 other former officers, including 50 Police Special Task Force. But recently, the Presidential Security Division provided security to the present President and former President. Former President, the Presidential Security Division has made a booking for that. No officials have ever been removed at all. When I was released to the former director of its director, technicious message, the officials have not had to remove officers in the area. "
 
 ...
 
 [Data](articles/6ceb20e5.json)
+
+[Extended Data](ext_articles/6ceb20e5.ext.json)
+
+---
+
+### இலஞ்ச ஊழல் ஆணைக்குழுவின் தலைவர் பதவி விலகினார்
+
+*2024-10-07 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195716) · `ta`
+
+இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவின் பணிப்பாளர் நாயகம் கனிஷ்க விஜேரத்ன தனது இராஜினாமா கடிதத்தை ஜனாதிபதி அனுரகுமார திஸாநாயக்கவிடம் கையளித்துள்ளார்.
+
+இன்று பிற்பகல் 3.00 மணிக்கு தனது இராஜினாமா கடிதத்தை ஜனாதிபதியிடம் கையளிப்பதாக நீதிமன்றினால் நடத்தப்பட்ட விசாரணையின் போது ஜனாதிபதியின் சட்டத்தரணி உதித இகலஹேவா தெரிவித்தார்.
+
+இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகத்தை நியமிப்பது தொடர்பில் உச்ச நீதிமன்றில் அடிப்படை உரிமை மீறல் மனுவொன்று சமர்ப்பிக்கப்பட்டுள்ள நிலையிலேயே அவர் தனது இராஜினாமா கடிதத்தை சமர்ப்பித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/6d95321b.json)
 
 ---
 
@@ -2285,77 +2341,5 @@ The Sri Lanka PA (SLPP), which has a majority in the present parliament, has dec
 [Data](articles/9b28765a.json)
 
 [Extended Data](ext_articles/9b28765a.ext.json)
-
----
-
-### Pilleyan comes to the general election alone
-
-*2024-10-07 10:33:59* · [`adalk`](https://www.ada.lk/breaking_news/පිල්ලෙයාන්-මහ-මැතිවරණයට-තනිවම-එයි/11-412343) · `si`
-
-Ranil Wickremesinghe contests general election solo after Tamil Wikilakara joins UNP. UNP General Secretary Pesalan announces candidacy for East, Trincomalee, Batticaloa, and Ampara districts. Party invites others to join under its banner in Eastern Province.
-
-🟩
-
-Tamil Wikilakara, Chandrakanthan, who has led to common candidate Ranil Wickremesinghe in the presidential election, has decided to contest the same general election this year's general election.
-
-UNP General Secretary of the UNP will hand nominations for the districts of the East to contest the districts of the East, Trincomalee, Batticaloa and Ampara Districts.. Said Mr. Pesanan.
-
-The party has been invited to other parties in the Eastern Province to contest under the mark of the party as a common alliance.
-
-◼️
-
-[Data](articles/e9f3d276.json)
-
-[Extended Data](ext_articles/e9f3d276.ext.json)
-
----
-
-### A woman was killed by a sharp weapon in Colombo
-
-*2024-10-07 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/195655) · `ta`
-
-Woman killed by sharp weapon in Colombo. Police investigation reveals personal dispute cause. Victim, 32, died at hospital.
-
-🟩
-
-A woman has been assassinated by a sharp weapon at the Technical Junction, Colombo, Banana Garden, Banana Garden police said.
-
-The murdered woman is 32 years old and has not received any information about her, police said.
-
-Police investigations have revealed that the attack was caused by a personal dispute between the murdered woman and another man.
-
-Subsequently, the injured woman died after being admitted to the Colombo National Hospital, police said.
-
-◼️
-
-[Data](articles/a30c3ea5.json)
-
-[Extended Data](ext_articles/a30c3ea5.ext.json)
-
----
-
-### Explosive incident at Pakistan Karachi airport;Two Chinese killed
-
-*2024-10-07 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195659) · `ta`
-
-Pakistan Karachi airport explosion kills two Chinese. Mysterious object detonates near Jinnah International Airport. Firefighters control car fires. Authorities call it a terrorist attack targeting Chinese workers. Home Minister labels it an attack on foreigners.
-
-🟩
-
-A mysterious object has exploded in Karachi, the capital of Pakistan. The incident took place near Jinnah International Airport.
-
-Places surrounding the Karachi airport have been brought under the safety ring. All the gates of the airport are closed.
-
-Some cars in the area caught fire in the wake of the explosion. The rushed fire extinguisher has controlled the fire.
-
-This is a “terrorist attack”. The Chinese embassy in Pakistan said the explosion had occurred targeted by Chinese engineers working in the Sindh province.
-
-Home Minister Chia ul -Hasan, the province of the province, said it was an attack on foreigners. Officials also claimed that the attack on the Chinese in Pakistan was a targeting attack.
-
-◼️
-
-[Data](articles/e840800d.json)
-
-[Extended Data](ext_articles/e840800d.ext.json)
 
 ---

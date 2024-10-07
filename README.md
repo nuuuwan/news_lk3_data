@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 14:39:07**
+As of **2024-10-07 14:58:09**
 
 ## Newspaper Stats
 
-*Scraped **48,170** Articles*
+*Scraped **48,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,99 @@ dailyftlk | 3,247
 adalk | 4,454
 dailymirrorlk | 4,733
 adaderanalk | 5,678
-tamilmirrorlk | 6,511
+tamilmirrorlk | 6,516
 virakesarilk | 7,709
-adaderanasinhalalk | 8,335
+adaderanasinhalalk | 8,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,170 (100.0%) of 48,170 articles have been extended.
+48,176 (100.0%) of 48,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### A pragmatic approach to governance: An independent citizen’s perspective on President Dissanayake’s recent appointments
+
+*2024-10-07 14:39:00* · [`islandlk`](http://island.lk/a-pragmatic-approach-to-governance-an-independent-citizens-perspective-on-president-dissanayakes-recent-appointments/) · `en`
+
+“It doesn’t matter whether a cat is black or white, as long as it catches mice – Deng Xiaoping”
+
+As a concerned citizen of Sri Lanka, I have closely observed the early days of President Anura Kumara Dissanayake’s (AKD) tenure. Elected on a platform of reform, transparency, and merit-based governance, his recent appointments to key government positions have sparked debate. Some argue that these choices contradict the very principles AKD campaigned on. However, a closer look reveals a more nuanced and pragmatic approach to governance that prioritises results and effective leadership.
+
+...
+
+[Data](articles/b0156f46.json)
+
+[Extended Data](ext_articles/b0156f46.ext.json)
+
+---
+
+### Will there be an October Surprise to sway the 2024 election?
+
+*2024-10-07 14:36:00* · [`islandlk`](http://island.lk/will-there-be-an-october-surprise-to-sway-the-2024-election/) · `en`
+
+An October Surprise is defined as “an unexpected political event or revelation in the month before a presidential election, especially one that seems intended to influence the outcome”. Since 1980, there have been a few “October Surprises” which may have changed the history of the nation.
+
+The phrase originated in 1980, during the presidential election season of that year. Militants in Iran had seized 66 American citizens from the US Embassy in 1979, and held 52 of them hostage for over a year. Jimmy Carter was the incumbent president at the time. His failure to have the hostages released was the main reason he was losing in the polls to Ronald Reagan. The hostage crisis occurred after the Iran’s Islamic revolution and the overthrow of the Pahlavi dynasty. Carter had planned to negotiate a last-minute release of the hostages which would win him the election. It never happened.
+
+...
+
+[Data](articles/77d13664.json)
+
+[Extended Data](ext_articles/77d13664.ext.json)
+
+---
+
+### WB permit to offer $ 200 million
+
+*2024-10-07 14:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-மில்லியன்-டொலர்கள்-வழங்க-WB-அனுமதி/175-345043) · `ta`
+
+World Bank grants $200 million for Sri Lanka's economic development. Agreement signed between President Dissanayake and World Bank Director. Funds allocated for poverty reduction and economic stability through 2023-2024 program.
+
+🟩
+
+The World Bank Group (WBG) International Development Association (IDA) has granted permission to provide more US $ 200 million in collaboration with Sri Lanka's Economic Development and Economic Rehabilitation Programs.
+
+The agreement was held at the Presidential Office this afternoon and signed the agreement in the presence of President Anura Kumara Dissanayake and the Director of Finance of the Government of Sri Lanka KM Mahinda Siriwardena and the Director of the World Bank David Sislane.
+
+This financial facility shows the continued cooperation of the World Bank for Sri Lanka's comprehensive restructuring programs.
+
+Sri Lanka has received this financial assistance under the second phase of the DPF program to provide reset development policies to the resettlement, positioning and economy of Sri Lanka.
+
+This two-year program (2023-2024) is implemented to reduce the impact of poverty and the people and create a complete economic stability.
+
+...
+
+[Data](articles/a97a438b.json)
+
+[Extended Data](ext_articles/a97a438b.ext.json)
+
+---
+
+### "Please submit property details"
+
+*2024-10-07 14:24:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விபரங்களையும்-சேர்த்து-சமர்ப்பிக்கவும்/175-345042) · `ta`
+
+Elections Commission urges candidates to submit asset reports before parliamentary elections. Candidates must disclose financial details and responsibilities. This applies to both party representatives and National List members entering parliament.
+
+🟩
+
+The Elections Commission has urged the candidates contesting the upcoming parliamentary elections with their assets and credit details.
+
+The Commission has issued a statement that all candidates representing key political parties and independent groups should submit a report on their assets and responsibilities.
+
+In addition, members who enter Parliament through the National List are obliged to submit their assets and responsibilities to the Declarations on their assets and responsibilities.
+
+◼️
+
+[Data](articles/68d26ed7.json)
+
+[Extended Data](ext_articles/68d26ed7.ext.json)
+
+---
 
 ### Sir John becomes PM, the Queen’s visit and the 1956 landslide
 
@@ -43,6 +123,32 @@ The prime minister’s father too had been named John Kotelawela and there was a
 [Data](articles/c59293fc.json)
 
 [Extended Data](ext_articles/c59293fc.ext.json)
+
+---
+
+### Asian Development Bank helps
+
+*2024-10-07 14:21:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிய-அபிவிருத்தி-வங்கி-உதவுகிறது/175-345041) · `ta`
+
+Asian Development Bank provides financial aid for Sri Lanka's tourism, power, and small business development. President Anura Kumara Dissanayake meets with ADB representative Takafumi Kadono to discuss economic growth initiatives.
+
+🟩
+
+The Asian Development Bank has promised to provide financial assistance to the development of Sri Lanka's tourism, power and small businesses.
+
+President Anura Kumara Dissanayake met with the Asian Development Bank of Sri Lanka, Takafumi Kadono on Monday (07) at the Presidential Office at the Presidential Office.
+
+Takafumi Kadono, the resident representative of the Asian Development Bank of Sri Lanka, said that all the agreements will be carried out by the Asian Development Bank for the economic development of Sri Lanka.
+
+The Asian Development Bank has also decided to provide financial assistance for the necessary facilities for tourism development for Sri Lanka's economic development.
+
+Accordingly, the Asian Development Bank has decided to provide financial assistance to improve the infrastructure of the tourism industry.
+
+...
+
+[Data](articles/a45195e7.json)
+
+[Extended Data](ext_articles/a45195e7.ext.json)
 
 ---
 
@@ -90,6 +196,26 @@ And on Monday, Hamas showed that it was still putting up a fight. It launched ro
 
 ---
 
+### $ 200 million from the World Bank
+
+*2024-10-07 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201920) · `si`
+
+World Bank provides $200 million to Sri Lanka under Economic Reform Assistance Program. This funding complements previous $500 million allocation in June and December 2023.
+
+🟩
+
+Sri Lanka and the World Bank have signed the agreement to provide another $ 200 million under the Economic Reform Assistance Program in Sri Lanka.
+
+The World Bank opened $ 500 million in June and December, 2023 under this program.
+
+◼️
+
+[Data](articles/3bd281d5.json)
+
+[Extended Data](ext_articles/3bd281d5.ext.json)
+
+---
+
 ### Sanath Jayasuriya
 
 *2024-10-07 14:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/தலைமை-பயிற்றுவிப்பாளரானார்-சனத்-ஜயசூரிய/88-345039) · `ta`
@@ -109,6 +235,28 @@ Earlier, the Sri Lanka Cricket Executive Committee has taken the decision to con
 [Data](articles/64f449b3.json)
 
 [Extended Data](ext_articles/64f449b3.ext.json)
+
+---
+
+### Chief Instructor Sanath
+
+*2024-10-07 14:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/தலைமை-பயிற்றுவிப்பாளர்-சனத்/88-345039) · `ta`
+
+Sanath Jayasuriya named Chief Coach of Sri Lanka National Cricket Team from Oct 2024 to Mar 2026. Decision based on team's performance in India, UK, and New Zealand competitions.
+
+🟩
+
+Sri Lanka Cricket has officially announced on Monday (07) that former Sri Lankan cricket captain Sanath Jayasuriya has been appointed as the chief coach of the Sri Lanka National Cricket Team.
+
+He has been appointed from October 2024 to 31 March 2026.
+
+Earlier, the Sri Lanka Cricket Executive Committee has taken the decision to consider the skills that the Sri Lankan team have made in the competitions in India, the UK and New Zealand.
+
+◼️
+
+[Data](articles/d3321d8e.json)
+
+[Extended Data](ext_articles/d3321d8e.ext.json)
 
 ---
 
@@ -271,6 +419,30 @@ Jayawardena has appeared in court on Monday to present the fact that the Supreme
 [Data](articles/12a8f751.json)
 
 [Extended Data](ext_articles/12a8f751.ext.json)
+
+---
+
+### Nanda Jayawardena appeared in court
+
+*2024-10-07 12:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்த-ஜயவர்தன-நீதிமன்றில்-ஆஜர்/175-345034) · `ta`
+
+Former Director of State Intelligence Unit Nanda Jayawardena appears in Supreme Court regarding fundamental rights violations. Court ruled he violated human rights by failing to prevent attack, ordered Rs 75 million compensation. Attorney General filed contempt charges for unpaid compensation. Jayawardena presented facts in court on 07/03.
+
+🟩
+
+The former Director of the State Intelligence Unit, Nilantha Jayawardena, has now appeared in the Supreme Court to present information on fundamental rights violation petitions filed by the intelligence agencies.
+
+The Supreme Court has ruled that he has violated basic human rights by failing to prevent the attack and has earlier ordered a compensation of Rs 75 million.
+
+But as he failed to pay off the compensation, the Attorney General filed a contempt of court against him on a court order.
+
+Jayawardena has appeared in court on Monday (07) to present the facts of the Supreme Court on Monday (07).
+
+◼️
+
+[Data](articles/b454cb64.json)
+
+[Extended Data](ext_articles/b454cb64.ext.json)
 
 ---
 
@@ -2029,207 +2201,5 @@ As stated in this column last week , the JVP’s second insurgency was ruthlessl
 [Data](articles/2b0b9154.json)
 
 [Extended Data](ext_articles/2b0b9154.ext.json)
-
----
-
-### Many prisoners in Sri Lanka to visit Pakistan
-
-*2024-10-06 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201905) · `si`
-
-Sri Lanka sends 56 Pakistani prisoners home under Prisoner Exchange Act. 5 women, 51 men repatriated for drug offenses. First large-scale exchange in department history. Cooperation between justice, defense ministries, civil aviation authority, and Pakistani embassy facilitated transfer.
-
-🟩
-
-56 Pakistani National Prisoners have been sent back to Pakistan under the Prisoner Exchange Act.
-
-The Prisons Department stated that a group of Pakistani prisoners were sent to Pakistan for drug charges.
-
-Five Pakistani National Women's Women's Women's Lives and 51 males have left for a special flight of Pakistan today (6).
-
-Prison spokesman Prison Spokesman, Commissioner of Prisons Spokesman Gaminayake said that this was the first time a large number of inmates were exchanged in the history of the Department of Prisons.
-
-The Prisoner Exchange, the Ministry of Justice, Ministry of Defense, the Sri Lanka Civil Aviation Authority and the Embassy of the Pakistani Embassy has been implemented.
-
-The prison given to these detainees is to be implemented in prisons in his mother.
-
-◼️
-
-[Data](articles/6954b314.json)
-
-[Extended Data](ext_articles/6954b314.ext.json)
-
----
-
-### India won by 6 wickets in the midst of Pakistan's heavy challenge
-
-*2024-10-06 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195649) · `ta`
-
-India wins ICC Women's R20 World Cup match against Pakistan. India scored 106/4 in 18.5 overs, with Smriti Mandhana scoring 7 runs. Jemima Rodrigues and Shafali Verma shared 43 runs. Harmanpreet Kaur and Deepti Sharma contributed 104 runs. Pakistan batted first, scoring 105/8 in 20 overs. Arundhati Reddy took 3 wickets for 19 runs. India won by 6 wickets.
-
-🟩
-
-India won the ICC Women's R20 World Cup in the Dubai International Cricket Stadium on Sunday (06) at the Dubai International Cricket Stadium.
-
-This victory has given India a great encouragement to New Zealand in its opening match for the group.
-
-However, India won the match against Pakistan, but the team for the A team continues to be fourth.
-
-The four teams - New Zealand, Australia, Pakistan and India have scored 2 points each.
-
-In response to a target of 106 runs, India lost 4 wickets in 18.5 overs in the midst of a heavy challenge.
-
-Smrithi Mandana, who was named for the action, lost the match with 7 runs without a time attack.
-
-However, Jemima Rodrigas shared 43 runs with the other opener Shabali Verma in the 2nd wicket and gave India the confidence.
-
-However, Shabali Verma lost 32 runs and Jemima Rhodrigas 23 runs and Richa Ghosh lost by 19 runs.. (80 - 4 wig.)
-
-The captain of the team, Hamanpreet Gore and Deepti Sharma, were effectively bowled out and raised the total number to 104 runs.
-
-...
-
-[Data](articles/eaf4475c.json)
-
-[Extended Data](ext_articles/eaf4475c.ext.json)
-
----
-
-### Death
-
-*2024-10-06 20:17:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டம்-விட்ட-சிறுவர்கள்-மின்சாரம்-தாக்கி-மரணம்/175-345006) · `ta`
-
-Two 13-year-old boys died after being electrocuted while playing near a high-voltage power supply in Bandaragama, Sri Lanka. They were rushed to the hospital but succumbed to injuries. The incident occurred during their graduation celebration on the third floor of a three-story building. Neighbors reported hearing loud noises before the tragedy unfolded.
-
-🟩
-
-Bandaragama police say that two 13 -year -old boys died when they were taken to the hospital when they were a powerful power supply.
-
-The boys were graduating on the top floor of a three -storey house in Bandaragama Adalugama Kurunduwatta.
-
-During this time, the boys were burned to the body of the boys, hearing the noise of the power of the children.
-
-Though the neighbors were taken to the hospital, they said they died. Remble
-
-◼️
-
-[Data](articles/8087a909.json)
-
-[Extended Data](ext_articles/8087a909.ext.json)
-
----
-
-### Gloss
-
-*2024-10-06 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195648) · `ta`
-
-Coconut prices surge from 90-100 to 180 rupees. Egg prices rebound after brief dip, now up to 40 rupees in some areas.
-
-🟩
-
-Consumers said that coconuts are being sold for 180 rupees in some areas.
-
-In the past, a coconut was sold for Rs 90 to Rs 100.
-
-Meanwhile, market sources said that the price of eggs, which had fallen over the past few days, is rising again.
-
-In some areas, the price of eggs is said to have risen up to 40 rupees. But it is noteworthy that the price of eggs was less than 30 rupees a few days ago.
-
-◼️
-
-[Data](articles/172cd1e1.json)
-
-[Extended Data](ext_articles/172cd1e1.ext.json)
-
----
-
-### 40 foreigners arrested for allegedly defrauding the Internet in Gampaha
-
-*2024-10-06 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195647) · `ta`
-
-Foreigners arrested for fraud in Gampaha: 40 suspects, including Chinese, Indians, Thais. Police seized 499 mobiles, 25 laptops, 29 desktops for investigation.
-
-🟩
-
-Police said that 40 foreigners have been arrested for allegedly defrauding a private company in a hotel and Hanwella in Gampaha.
-
-Of the arrested, 40 were 40 foreigners, including Chinese, 4 Indians and 6 Thailand citizens.
-
-It is noteworthy that 499 mobile phones, 25 laptops and 29 desktop computers have been detained for forensic examination.
-
-◼️
-
-[Data](articles/e8dc3822.json)
-
-[Extended Data](ext_articles/e8dc3822.ext.json)
-
----
-
-### Foreigners arrested for defrauding money online
-
-*2024-10-06 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201904) · `si`
-
-Foreigners arrested for online fraud: 29 Chinese, 1 Indian, 2 Thai nationals detained in Gampaha. Police seized 24 phones and 29 devices used for scams including investment and pig butchering schemes. CID investigating with international cooperation.
-
-🟩
-
-Foreign nationals have been arrested in operational frauds online.
-
-Police have arrested the National Suspects of the Hanwella Road, Hotel in the Hanwella Road, Gampaha Hotel in the Hanwella Road, Avissawella Road and Hanwella Road, Police.
-
-It has been revealed that these people have done financial frauds by social media networks and telephone calls.
-
-The suspects were 29 Chinese nationals, a Chinese woman, Indian male, Indian national male and three women, two Thailand nationals and four women.
-
-The Investigations have been taken into custody 24 mobile phones and 29 delegates used for financial frauds in their possession.
-
-They have also observed that they have been engaged in financial frauds through Investment Scam, Pig Butchering Scam in further investigation into the suspects.
-
-The suspects have also observed that the deposit of the East and Indonesia, Indonesia and Thailand, have also been observed.
-
-...
-
-[Data](articles/ebc0d399.json)
-
-[Extended Data](ext_articles/ebc0d399.ext.json)
-
----
-
-### 40 foreigners involved in online financial scams arrested
-
-*2024-10-06 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/102487/40-foreigners-involved-in-online-financial-scams-arrested) · `en`
-
-Police have arrested 40 foreigners staying in Sri Lanka who were involved in online financial scams this morning (06).
-
-Police Media Division said that the arrested group of foreigners include 30 Chinese, 4 Indian and 6 Thai nationals.
-
-The arrests have been carried out in a hotel in Gampaha and a private institution in Hanwella, according to police.
-
-Meanwhile, the police have also taken 499 mobile phones, 25 laptops and 29 desktop computers into custody for forensic examination.
-
-◼️
-
-[Data](articles/f7cc3643.json)
-
-[Extended Data](ext_articles/f7cc3643.ext.json)
-
----
-
-### The Directorate of the Inspector General of Police In response to all police stations
-
-*2024-10-06 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195646) · `ta`
-
-Inspector General of Police Priyantha Weerasuriya orders investigation of minor complaints within two weeks. Directive applies to all police stations nationwide.
-
-🟩
-
-Inspector General of Police Priyantha Weerasuriya has issued a directive in response to all police stations to investigate all the minor complaints lodged by the public in the next two weeks.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said this.
-
-◼️
-
-[Data](articles/b01e80fe.json)
-
-[Extended Data](ext_articles/b01e80fe.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 19:38:55**
+As of **2024-10-07 19:57:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,239 (100.0%) of 48,240 articles have been extended.
+48,240 (100.0%) of 48,240 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -236,19 +236,31 @@ The Test team is in a stable level compared to the Sri Lanka One Day and T20 tea
 
 ---
 
-### සහරාන්ට පුපුරණ ද්‍රව්‍ය දුන් අයට නැවතත් පුපුරණ ද්‍රව්‍ය බලපත්‍ර දීලා
+### Saran returns explosives
 
 *2024-10-07 17:54:51* · [`adalk`](https://www.ada.lk/breaking_news/සහරාන්ට-පුපුරණ-ද්‍රව්‍ය-දුන්-අයට-නැවතත්-පුපුරණ-ද්‍රව්‍ය-බලපත්‍ර-දීලා/11-412353) · `si`
 
-පුපුරණ ද්‍රව්‍ය අළෙවි කිරීම සඳහා බලපත්‍ර නිකුත් කිරීමේ දී පසුගිය රජය සමයේ රුපියල් බිලියන ගණනක වංචා සිදුව තිබෙන බවත් පාස්කු ප්‍රහාරයෙන් පසු සහරාන් කල්ලියට පුපුරණ ද්‍රව්‍ය ලබාදුන් පුද්ගලයින් හඳුනා ගත්තද  ඔවුන් ගේ බලපත්‍ර තහනම් කර ටික කලකට පසු ඔවුන්ට නැවත බලපත්‍ර දුන් බවත්  ඒ පිළිබඳව පූර්ණ විමර්ශනයක් සිදු කරන ලෙස රජයෙන් ඉල්ලා සිටින බවත් සමස්ත ලංකා පුපුරණ ද්‍රව්‍ය අළෙවිකරුවන් ගේ සංසදය සභාපති සූර්ය කුමාර විජේරත්න මහතා පැවසීය.
+Here's a 200-character summary:
 
-මහනුවර පේරාදෙණිය තානායමේ දී ඊයේ (06) පැවැති මාධ්‍ය හමුවක දී සමස්ත ලංකා පුපුරණ ද්‍රව්‍ය අළෙවිකරුවන් ගේ සංසදයේ නියෝජිතයින් මෙසේ පැවසිය.
 
-පාස්කු ප්‍රහාරයෙන් පසු අළෙවිකරුවන්ට පුපුරණ ද්‍රව්‍ය නිකුත් කිරීම ආරක්ෂක අමාත්‍යාංශය මගින් නතර කළ බවත් මේ නිසා රටේ කළුගල් ආශ්‍රිත නිෂ්පාදන කටයුතු ඇන හිටීමෙන් ගැටලු රැසක් මතු වුණු බවද  පුපුරණ ද්‍රව්‍ය ලබා ගැනීමට රුපියල් ලක්ෂ 25 ක මුදලක් පගාවක් ලෙස  හිටපු ඇමාත්‍යවරුන්ට දෙන්නට සිදුවු බවද ඔවුන් පැවසිය.
+
+Explosives issue: Gov't investigates license permits after Passover attack. Defense Ministry stops issuing explosives licenses. Explosive marketers seek fair solutions under current president.
+
+🟩
+
+In issue of explosives, the last government has been reported to the reconcile of billions of scratches after the Passover attack, but they have to permit their licenses and to conduct a full investigation into the permits of their licenses.The All Ceylon Explosive Marketers' Forum Chairman said that the government is requested.
+
+Representatives of the All Ceylon Explosive Marketers at the All Ceylon Explosive Marketers at a press conference held at the Peradeniya inn Tai of Kandy yesterday (06).
+
+They said that the Ministry of Defense stopped by the Ministry of Defense and had emerged from the Ministry of Defense, the Ministry of Defense has stopped the issuance of the explosives.
+
+The Presidential Defense Secretary Kamal Gunaratne has been released to the licenses that there have been a few days in the distribution of explosives and issuing permits.The stores are already inaugurated in Mahawa and Kandy areas.
 
 ...
 
 [Data](articles/8227d35e.json)
+
+[Extended Data](ext_articles/8227d35e.ext.json)
 
 ---
 

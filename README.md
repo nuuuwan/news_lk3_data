@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 21:58:27**
+As of **2024-10-07 22:12:55**
 
 ## Newspaper Stats
 
-*Scraped **48,245** Articles*
+*Scraped **48,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 2,949
 dailyftlk | 3,247
 adalk | 4,467
 dailymirrorlk | 4,733
-adaderanalk | 5,687
+adaderanalk | 5,688
 tamilmirrorlk | 6,526
 virakesarilk | 7,726
-adaderanasinhalalk | 8,349
+adaderanasinhalalk | 8,350
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,245 (100.0%) of 48,245 articles have been extended.
+48,247 (100.0%) of 48,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### 6 parties lose the general election
+
+*2024-10-07 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201934) · `si`
+
+Six long-standing political parties miss out on general election. 77 parties eligible. Selected parties announced for November 14 vote. United People's Freedom Alliance, United Ceylon General Colonial Party, United People's Party, Sri Lanka Progressive Front, and Elever Democratic Front excluded from contesting.
+
+🟩
+
+The six-term political parties have lost the opportunity to contest the general election this year.
+
+According to the Elections Commission, 77 political parties have the opportunity to contest the election.
+
+The selected political parties and the selected political parties have been published by the political parties that can be held on November 14.
+
+Accordingly, the United People's Freedom Alliance (United People's Party Party), United Ceylon General Colonial Party, the United People's Party, the Sri Lanka Progressive Front and the Elever Democratic Front will not be forwarded for the election.
+
+◼️
+
+[Data](articles/378fc43a.json)
+
+[Extended Data](ext_articles/378fc43a.ext.json)
+
+---
+
+### Ex-President Ranil’s security personnel not recalled - Police
+
+*2024-10-07 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102515/ex-president-ranils-security-personnel-not-recalled-police-) · `en`
+
+Sri Lanka Police Media Spokesperson, Deputy Inspector General of Police (DIG) Nihal Thalduwa stated that the police personnel assigned to former President Ranil Wickremesinghe’s security have not been recalled.
+
+Addressing a media briefing, the Police Spokesperson added that currently, 50 Special Task Force (STF) officers and other personnel assigned to Wickremesinghe’s security remain in place.
+
+Commenting further, he said: “Until recently, the security arrangements for both the current president and former presidents were managed by the President’s Security Division. This division allocated the necessary number of officers for the former president’s security.”
+
+“Although the message regarding changes has been communicated, the officers are still on duty and have not been recalled”, Thalduwa added.
+
+◼️
+
+[Data](articles/b8b48f5b.json)
+
+[Extended Data](ext_articles/b8b48f5b.ext.json)
+
+---
 
 ### Director General of the Bribery Commission resigns
 
@@ -2313,53 +2357,5 @@ Showers or thundershowers will occur in the Western, Sabaragamuwa and North West
 [Data](articles/6e4b12f9.json)
 
 [Extended Data](ext_articles/6e4b12f9.ext.json)
-
----
-
-### The President responded to the furious person
-
-*2024-10-07 11:11:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆத்திரமடைந்த-நபருக்கு-பதிலளித்தார்-ஜனாதிபதி/175-345027) · `ta`
-
-President responds to victim's frustration over Easter attack justice. Victim criticizes politicized judiciary. President denies personal involvement, emphasizes need for thorough investigation and punishment.
-
-🟩
-
-When one of the victims of the 2019 Easter attack, when he spoke directly to President Anura Kumara Dissanayake, he expressed his frustration over the failure to provide justice.
-
-The person made this statement at the time when the President visited the St. Sebastian Church in Negombo yesterday.
-
-The judicial department of this country is not free. It is under politics. I am disgusted by the politics of this country. Now they are testing us like animals.
-
-Everyone knows who comes here. But can you give my child?Can I give my parents?
-
-There was a possibility that the incident (Easter attack) had been fully prevented. The man told the president that you would know you too.
-
-Responding to the allegation, President Dissanayake made it clear that only the Special Security Division of the top politicians had been warned.
-
-He recalled that he and his fellow members of Parliament did not get special security during their tenure.
-
-...
-
-[Data](articles/adab7f06.json)
-
-[Extended Data](ext_articles/adab7f06.ext.json)
-
----
-
-### Colombo receives highest rainfall in last 24hrs
-
-*2024-10-07 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102498/colombo-receives-highest-rainfall-in-last-24hrs) · `en`
-
-The Department of Meteorology announces that the Colombo District has received the highest rainfall within the period from 08.30 a.m. on Sunday (06) to 07.00 a.m. today (07). The amount of rainfall received by Colombo within this period is 162.5mm.
-
-Meanwhile, heavy downpours have been reported in Walallavita (112.5mm) and Horana (111.5mm) areas of Kalutara District, Neluwa (109.5mm) in Galle Districts and Kalubovitiyana (84.0mm) in Matara District, as per the Department of Meteorology.
-
-Issuing an advisory for heavy rains this morning, the department also warned that the prevailing showery conditions are expected to continue in the south-western part of the island due to the Intertropical Convergence Zone, where winds from the Northern Hemisphere and Southern Hemisphere converge, is affecting the island’s weather.
-
-...
-
-[Data](articles/965b59cb.json)
-
-[Extended Data](ext_articles/965b59cb.ext.json)
 
 ---

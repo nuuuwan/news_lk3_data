@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 14:58:09**
+As of **2024-10-07 15:10:22**
 
 ## Newspaper Stats
 
-*Scraped **48,176** Articles*
+*Scraped **48,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 2,944
 dailyftlk | 3,247
 adalk | 4,454
 dailymirrorlk | 4,733
-adaderanalk | 5,678
+adaderanalk | 5,679
 tamilmirrorlk | 6,516
-virakesarilk | 7,709
+virakesarilk | 7,710
 adaderanasinhalalk | 8,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,176 (100.0%) of 48,176 articles have been extended.
+48,178 (100.0%) of 48,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Former SIS chief completes compensation payments to Easter attack victims
+
+*2024-10-07 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102506/former-sis-chief-completes-compensation-payments-to-easter-attack-victims) · `en`
+
+Former Director of the State Intelligence Service (SIS) Nilantha Jayawardena has informed the Supreme Court through his Legal Counsel that the arrears of the compensation which was ordered to be payed to the victims of the Easter Sunday attacks, have been completely settled.
+
+The former Senior DIG and head of the SIS, Nilantha Jayawardana, appeared before the Supreme Court this morning in relation to the contempt of court charges filed against him, for failing to complete the payment of Rs. 75 million in compensation for the Easter Sunday bomb victims as ordered by the court.
+
+...
+
+[Data](articles/18b843f7.json)
+
+[Extended Data](ext_articles/18b843f7.ext.json)
+
+---
 
 ### A pragmatic approach to governance: An independent citizen’s perspective on President Dissanayake’s recent appointments
 
@@ -291,6 +307,34 @@ Police have recovered the body of a 50-year-old police officer, attached to the 
 [Data](articles/75fbbbbc.json)
 
 [Extended Data](ext_articles/75fbbbbc.ext.json)
+
+---
+
+### Sanath Jayasuriya is the permanent chief coach of the Sri Lankan cricket team
+
+*2024-10-07 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195677) · `ta`
+
+Sanath Jayasuriya named permanent chief coach of Sri Lankan cricket team until 2026 ICC T20 World Cup. Appointed after team's success against India, England, New Zealand. Starts work with West Indies ODI series.
+
+🟩
+
+Sri Lanka Cricket appointed Sanath Jayasuriya as the permanent chief coach of the Sri Lankan cricket team on Monday.
+
+Sri Lanka Cricket has announced that Sanath Jayasuriya will be the chief coach of the Sri Lankan team until the ICC T20 World Cup will be held in 2026.
+
+Sri Lanka Cricket's Executive Committee decided to appoint as a coach after Sri Lanka played well in the training of Sanath Jayasuriya in the cricket series against India, England and New Zealand.
+
+Sanath Jayasuriya, who has been the interim coach in all three cricket series, will be the permanent chief coach of the Sri Lanka Cricket Team from today to 31st March 31, 2026.
+
+The Sri Lankan team has won the first ODI series for India in the last 27 years of the training of Sanath Jayasuriya. Sri Lanka continued to win a Test match after 10 years on its own soil on its own soil.
+
+Finally, Sri Lanka was fully wicked in a two -match series against New Zealand.
+
+...
+
+[Data](articles/7f4fdcec.json)
+
+[Extended Data](ext_articles/7f4fdcec.ext.json)
 
 ---
 
@@ -2161,45 +2205,5 @@ The widening conflict risks further drawing in the United States, which has prov
 [Data](articles/aa191e24.json)
 
 [Extended Data](ext_articles/aa191e24.ext.json)
-
----
-
-### TNA in Ampara District
-
-*2024-10-06 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195650) · `ta`
-
-TNA contests separately in Ampara district. Former MP MS Sumanthiran says Ampara District Committee didn't decide on conch symbol. Party will run independently for secretary position.
-
-🟩
-
-Former parliamentarian MS Sumanthiran said that the TNA is contesting separately in Ampara district.
-
-He said this while speaking to the media today.
-
-He said that his Ampara District Committee did not take a decision to contest the conch symbol and that they should contest separately for our party secretary.
-
-◼️
-
-[Data](articles/928c8e66.json)
-
-[Extended Data](ext_articles/928c8e66.ext.json)
-
----
-
-### Anura   Kumara’s Ascendancy Inside the JVP and his  Political Rise  Within  Sri Lanka.
-
-*2024-10-06 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84866) · `en`
-
-Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka – Part Two
-
-Sri Lanka’s newly elected ninth executive president Anura Kumara Dissanayake (AKD) continues to be the focus of this column. In the first part of this article published last week, the early years of  Anura’s eventful life were delved into in some detail. In this week’s  second part,  AKD’s steady rise as a   political leader within the Janatha  Vimukthi  Peramuna (JVP) will be related to some extent.
-
-As stated in this column last week , the JVP’s second insurgency was ruthlessly suppressed by the Ranasinghe Premadasa regime. Tens of thousands of youths were killed or made to disappear. Thousands of youths were incarcerated for years. Hundreds of youths fled Sri Lanka for safety. Hundreds of youths avoided arrest  and possible execution while in Sri Lanka by changing identities and relocating elsewhere. Anura was among those who stayed in Lanka and evaded capture by going underground.
-
-...
-
-[Data](articles/2b0b9154.json)
-
-[Extended Data](ext_articles/2b0b9154.ext.json)
 
 ---

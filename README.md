@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 20:57:55**
+As of **2024-10-07 21:10:33**
 
 ## Newspaper Stats
 
-*Scraped **48,243** Articles*
+*Scraped **48,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 477
 islandlk | 2,849
 economynextcom | 2,949
 dailyftlk | 3,247
-adalk | 4,465
+adalk | 4,466
 dailymirrorlk | 4,733
 adaderanalk | 5,687
 tamilmirrorlk | 6,526
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,243 (100.0%) of 48,243 articles have been extended.
+48,244 (100.0%) of 48,244 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -179,6 +179,32 @@ According to the new gazette issued by the Commission, the party's secretary's o
 [Data](articles/ee8eb430.json)
 
 [Extended Data](ext_articles/ee8eb430.ext.json)
+
+---
+
+### The Prime Minister should go to the composition
+
+*2024-10-07 18:25:18* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිකම-යන්න-ඕන-මාලිමාවට/11-412355) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former Minister Udaya Gammanpila accuses ex-President Ranil Wickremesinghe of receiving two commissions on the Easter attacks without publishing them. He calls for the Prime Minister to resign due to political instability.
+
+🟩
+
+Former President Ranil Wickremesinghe has received two commissions on the Passover attack, former Minister of Porinal Udaya Gammanpila said.
+
+He was speaking at a media briefing held in Colombo today (07).
+
+"When the President had visited the church in Kuwapitiya to the Mosque, we thought that the former president's president of the Passover attack came to the church to publish the two frequently demanded Catholic Church.But he had gone empty-handed.A victim was demanded that our intelligence agencies were involved in the attack, as the new investigations were started, to ban the officers of the officers before commencing new investigations.
+
+...
+
+[Data](articles/63d43834.json)
+
+[Extended Data](ext_articles/63d43834.ext.json)
 
 ---
 
@@ -2333,29 +2359,5 @@ At the time of the incident, he was only in the van and a group of picnic was re
 [Data](articles/dc5309a0.json)
 
 [Extended Data](ext_articles/dc5309a0.ext.json)
-
----
-
-### 307 police transfer from PSD
-
-*2024-10-07 10:51:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/307-பொலிஸார்-இடமாற்றம்/175-345025) · `ta`
-
-307 police officers transferred from PSD to various divisions. 11 chief inspectors, 5 inspectors, 38 sub-inspectors, 12 female sub-inspectors moved. Transfer order for 24 temporary PSD officers cancelled.
-
-🟩
-
-307 policemen have been transferred to various police divisions across the country from the Presidential Security Division.
-
-Under the approval of the Elections Commission under the approval of the Elections Commission under the 258 (1) and (II) of the Public Service Commission's Practice Commission, the Inspector General of Police Priyantha Weerasuriya.
-
-Of the workplace transformers, there are 11 chief inspectors, 5 inspectors, 38 sub-inspectors and 12 female sub-inspectors.
-
-Meanwhile, the transfer order of 24 policemen who temporarily served in the Presidential Security Division has been canceled.
-
-◼️
-
-[Data](articles/418fa175.json)
-
-[Extended Data](ext_articles/418fa175.ext.json)
 
 ---

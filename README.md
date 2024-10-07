@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 17:23:07**
+As of **2024-10-07 17:39:45**
 
 ## Newspaper Stats
 
-*Scraped **48,213** Articles*
+*Scraped **48,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 3,247
 adalk | 4,460
 dailymirrorlk | 4,733
 adaderanalk | 5,684
-tamilmirrorlk | 6,521
-virakesarilk | 7,717
+tamilmirrorlk | 6,522
+virakesarilk | 7,718
 adaderanasinhalalk | 8,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,213 (100.0%) of 48,213 articles have been extended.
+48,215 (100.0%) of 48,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### The boy's death in the fall of the stone
+
+*2024-10-07 17:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கல்-விழுந்ததில்-சிறுவன்-மரணம்/76-345049) · `ta`
+
+Boy dies from head injury after falling while playing near home. Police say incident occurred when child fell from hillside during father's cleanup work.
+
+🟩
+
+The 11 -year -old student, who was injured in the head of a head injury while he was playing in his house, died after being taken to the hospital. Nuri police said.
+
+The student was near the residence of the student and was playing in front of the house during the incident and fell from the top of the mountain top of the hill and fell to the student's head, police said that he died while taking him to the hospital.. It was revealed that the student's father was working on cleaning the mountainside on the day of the incident.
+
+◼️
+
+[Data](articles/f3d212b0.json)
+
+[Extended Data](ext_articles/f3d212b0.ext.json)
+
+---
+
+### 'Martin' starring Durva Sarja
+
+*2024-10-07 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195700) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Dhruva Sarja stars in "Martin" directed by AP Arjun. Released on his birthday, the song video got 3+ million views. Film features Vaibhavi Shandilya, Anup Sai, and others. Composed by Mani Sharma and Ravi Basrur. Produced by Uday K. Mehta and Suraj Uday Mehta. Set to release in Tamil, Telugu, Malayalam, Kannada, and Hindi on Nov 11.
+
+🟩
+
+Durua Sarja, the leading star actor of the Kannada film industry, has been released from the movie 'Martin Antam' and a video for the song.
+
+Released on the birthday of actor Durva Sarja, the song has been visited by more than three million viewers within a short time.
+
+Directed by director AP Arjun, 'Martin' starring Dhruva Sarja, Vaibhavi Sandillia, Anwasi Jain, Georgia Andhirini, Malavika Avinash, Ashyud Kumar, Nawab Shah.
+
+The film has been composed by Mani Sharma and Ravi Basrur for the film.
+
+The film, which is ready to be the Excussion Entertainment, on behalf of the producers of Vasavi Enterprises, Uday K.. Produced by Mehta and Suraj Uday Mehta.
+
+The film will be released in the Indian languages ​​of Tamil, Telugu, Malayalam, Kannada and Hindi on the 11th of this month.
+
+At this moment, the film crew has released a video of the film's hero's birthday.
+
+...
+
+[Data](articles/cf9303d7.json)
+
+[Extended Data](ext_articles/cf9303d7.ext.json)
+
+---
 
 ### The Asian Development Bank promise to the President
 
@@ -2281,53 +2335,5 @@ However, it is also mentioned that the price of eggs will return to normal in tw
 [Data](articles/07e53254.json)
 
 [Extended Data](ext_articles/07e53254.ext.json)
-
----
-
-### Why is the egg price rise?
-
-*2024-10-07 08:16:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலை-எகிறியது-ஏன்/175-345011) · `ta`
-
-Egg prices rise due to increased demand and costs. Daily consumption increases from 80 lakh to 95 lakhs after price drop. Farmers sell at higher rates than purchase cost. Prices expected to normalize in two weeks.
-
-🟩
-
-Poultry farm owners say that the price of eggs has risen again due to the increase in egg prices, and the merchants go to the farms and collect the eggs.
-
-The daily egg consumption in the country is 80 lakh, and the egg prices have been reduced last week, and the consumption of eggs has increased to 95 lakhs.
-
-President of the Sri Lanka Livestock Producers Association Ajith H. At an inquiry conducted by Gunasekaran, he said that the eggs purchased at Rs 22 from the farm were sold at a higher price.
-
-However, it is also mentioned that the price of eggs will return to normal in two weeks. Remble
-
-◼️
-
-[Data](articles/c479c29e.json)
-
-[Extended Data](ext_articles/c479c29e.ext.json)
-
----
-
-### Two fatal accidents
-
-*2024-10-07 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201911) · `si`
-
-Fatal accidents: Woman killed in truck crash near Ganemulla; Motorcyclist dies after falling off bike in Hanwella.
-
-🟩
-
-Two persons were killed in two accidents around the country.
-
-Accordingly, the woman was killed in a woman who had traveled by a woman who was traveling back by a lorry driver at the Nugawela edge of the Ganemulla Police Division.
-
-Meanwhile, a motorcycle traffic from Kaluaggala on the Hanwella Police Division, a motorcycle to Labugala, has fallen into a nearby bay.
-
-The motorcyclist was killed in admission to the Avissawella hospital.
-
-◼️
-
-[Data](articles/c5d2d6cd.json)
-
-[Extended Data](ext_articles/c5d2d6cd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 15:10:22**
+As of **2024-10-07 15:23:05**
 
 ## Newspaper Stats
 
-*Scraped **48,178** Articles*
+*Scraped **48,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ colombotelegraphcom | 476
 islandlk | 2,848
 economynextcom | 2,944
 dailyftlk | 3,247
-adalk | 4,454
+adalk | 4,456
 dailymirrorlk | 4,733
-adaderanalk | 5,679
-tamilmirrorlk | 6,516
+adaderanalk | 5,680
+tamilmirrorlk | 6,518
 virakesarilk | 7,710
-adaderanasinhalalk | 8,336
+adaderanasinhalalk | 8,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,178 (100.0%) of 48,178 articles have been extended.
+48,184 (100.0%) of 48,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### ADB delegation meets President, pledge continued support for Sri Lanka’s economy
+
+*2024-10-07 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102507/adb-delegation-meets-president-pledge-continued-support-for-sri-lankas-economy) · `en`
+
+The Country Director of the Asian Development Bank (ADB) Resident Mission in Sri Lanka, Takafumi Kadono, along with a delegation, met with President Anura Kumara Dissanayake today (07) at the Presidential Secretariat.
+
+The discussions focused on ADB’s ongoing commitment to support Sri Lanka’s economic and social development, the President’s Media Division (PMD) stated.
+
+During the meeting, the ADB reaffirmed its dedication to continuing its projects in Sri Lanka, with particular emphasis on bolstering key sectors crucial to the nation’s recovery.
+
+Tourism was identified as a critical sector that holds immense potential for Sri Lanka’s economic growth. In this regard, the ADB assured further assistance in developing tourism infrastructure to harness the sector’s full potential, the PMD added.
+
+...
+
+[Data](articles/e1f99cc7.json)
+
+[Extended Data](ext_articles/e1f99cc7.ext.json)
+
+---
+
+### Wife who consumed ashes by internet history
+
+*2024-10-07 14:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இணைய-வரலாற்றால்-அஸ்தியை-உட்கொண்ட-மனைவி/50-345045) · `ta`
+
+Canadian writer's wife eats husband's ashes after discovering infidelity through internet history. She mixes ashes with dog feces and swallows them. Book details husband's death and online activities. Wife seeks new partner, still grieving.
+
+🟩
+
+The Canadian writer wrote in his autobiography that she ate her husband's ashes when she was alive.
+
+The book of Memoir -type autobiography of the United States, Jessica Waite, has recently been published in the name of a widow's Guide to Dead Bastards, a widow's guide to death.
+
+In it, her husband, Sean Waite, has defrauded himself and has been in touch with many women, and she has written in detail about the events of death in 2015.. In 2015, her husband died for a texas-ku job.
+
+To ask about where her body is, Houston's Hospital Hospital has taken my husband's I -Pot to search for the phone number. When he searched for Houston, there were many things about the Houston Escards [Escorts] [sexual spouses] in his browsing histori.
+
+I learned that the husband searched for the Excords in various places and their prices. Thereby I found out that my husband had been in touch with many women and was addicted to porn videos.
+
+...
+
+[Data](articles/80485f92.json)
+
+[Extended Data](ext_articles/80485f92.ext.json)
+
+---
 
 ### Former SIS chief completes compensation payments to Easter attack victims
 
@@ -45,6 +91,62 @@ The former Senior DIG and head of the SIS, Nilantha Jayawardana, appeared before
 [Data](articles/18b843f7.json)
 
 [Extended Data](ext_articles/18b843f7.ext.json)
+
+---
+
+### Shooter arrested in Hanwella murder
+
+*2024-10-07 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201922) · `si`
+
+Hanwella murder: Shooter killed, suspect arrested. Victim Vajira Nishantha died. Suspect Lalith Kalli linked to extortion demands. Police investigating under DIG Gyanga Marapana.
+
+🟩
+
+An unidentified gunman was shot dead by an unidentified gunman in Hanwella on a case of non-extortion.
+
+The police spokesman DIG Talduuwa said that the shooter had been arrested.
+
+Police said that the murder had been conducted by Lalith Kalli member, who is in Dubai Kalli.
+
+Those businessmen have refused to comment on the media due to fear of his death threats.
+
+The Western Provincial Counter Varayara Bandara handing over of these incidents commenced investigations under the supervision of DIG Gyanga Marapana.
+
+An unidentified gunman had been assassinated by a unidentified gunman around 8.15 pm in Nebertunuda, Hanwella on 30 pm.
+
+A CCTV camera has been recorded in a CCTE camera how to arise from a wall of the house for the crime.
+
+Vajira Nishantha, who was injured in the shooting, died on admission to the Avissawella Base Hospital.
+
+The victim's house was shot in 2021 and was set on fire to his business.
+
+...
+
+[Data](articles/b2f2fb9e.json)
+
+[Extended Data](ext_articles/b2f2fb9e.ext.json)
+
+---
+
+### Police officer's body found
+
+*2024-10-07 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201921) · `si`
+
+Body of 50-year-old police officer found near Expressway Ja bear. Identified as local resident. Incident occurred today during routine patrol. Investigation ongoing.
+
+🟩
+
+The body of a police officer was found in a magnitude near the Expressway Ja bear.
+
+Police states that the body was found today (07) at a statement made by a person who was traveling along the road.
+
+The deceased has been identified as a 50 year old resident of the Jaela and he is an appointment of the Expressway to the Expressway.
+
+◼️
+
+[Data](articles/097b8603.json)
+
+[Extended Data](ext_articles/097b8603.ext.json)
 
 ---
 
@@ -77,6 +179,24 @@ The phrase originated in 1980, during the presidential election season of that y
 [Data](articles/77d13664.json)
 
 [Extended Data](ext_articles/77d13664.ext.json)
+
+---
+
+### Here is the money Sri Lanka received from the World Bank
+
+*2024-10-07 14:35:43* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බැංකුවෙන්-ශ්‍රී-ලංකාවට-ලැබුණු-මුදල-මෙන්න/11-412348) · `si`
+
+Sri Lanka receives funding from World Bank's second phase program. Agreement signed between countries for financial support.
+
+🟩
+
+Sri Lanka and the World Bank have signed the agreement between Sri Lanka and the World Bank under the second phase of the World Bank Program in Sri Lanka.
+
+◼️
+
+[Data](articles/07c834ba.json)
+
+[Extended Data](ext_articles/07c834ba.ext.json)
 
 ---
 
@@ -307,6 +427,36 @@ Police have recovered the body of a 50-year-old police officer, attached to the 
 [Data](articles/75fbbbbc.json)
 
 [Extended Data](ext_articles/75fbbbbc.ext.json)
+
+---
+
+### Every state leader who has come after independence has been pregnant
+
+*2024-10-07 13:28:13* · [`adalk`](https://www.ada.lk/breaking_news/නිදහසින්-පසු-ආව-සෑම-රාජ්‍ය-නායකයෙක්ම-අකල්-මරණවලට-ගොදුර-කර-තිබෙනවා/11-412347) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+UNP Chairman Vajira Abeywardena supports Ranil Wickremesinghe, stating he shouldn't oppose the president. He emphasizes national unity and economic policies. Criticizes misinformation about Wickremesinghe's expenses on social media. Highlights the importance of protecting leaders in a country with a history of premature deaths.
+
+🟩
+
+UNP Chairman, Vajira Abeywardena stated that if Ranil Wickremesinghe is being carried out before the President.
+
+According to the fact that the issues that have come to appear, the national popularity is traveling along the road to Ranil Wickremesinghe and should not oppose it.
+
+Mr. Vajira Abeywardena made this observation at a young meeting held at the Uluvitike UNP Head Office last year.
+
+"The nomination panel is meeting under the patronage of the UNP leader Ranil Wickremesinghe leader Ranil Wickremesinghe.. We hope to complete all the activities of this week.
+
+Also, the cylinder is also being discussed to compete with the President of Ranil Wickremesinghe and compete with the Vanni district to the Vanni district and the elephant sign to the Vanni district.
+
+...
+
+[Data](articles/0d426637.json)
+
+[Extended Data](ext_articles/0d426637.ext.json)
 
 ---
 
@@ -2085,125 +2235,5 @@ Meanwhile, the number of officers who are required to establish the Presidential
 [Data](articles/ce185806.json)
 
 [Extended Data](ext_articles/ce185806.ext.json)
-
----
-
-### The Women's T20 World Cup against Scotland won by 6 wickets
-
-*2024-10-06 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/195651) · `ta`
-
-Women's T20 World Cup: West Indies defeat Scotland by 6 wickets. Scottish batted first, scoring 98/8 in 20 overs. West Indies replied with 101/4 in 11.4 overs, winning in the 12th over. Giana Joseph top-scored with 4 off 18 balls.
-
-🟩
-
-West Indies won by 6 wickets at the ICC Women's R20 World Cup at the Dubai International Cricket Stadium on Sunday night at the Dubai International Cricket Stadium.
-
-It is certain that the victory will have been a source of excitement for the West Indies, which have defeated South Africa.
-
-Scottish, who decided to bat first in the match, scored 98 runs for the loss of 8 wickets in 20 overs.
-
-Although the five -digit numbers were scored on behalf of Scotland, they all got the runs in a recession.
-
-Eylza Lister (26) and team captain Kethrin Brys (25) were the best coordinators in the 3rd wicket.
-
-Darcy Katter (14 AE), Saskia Horley (11) and Lorna Jeck Brahun (11) scored more than 10 runs.
-
-In reply, the West Indies won by 4 wickets in 11.4 overs and scored 101 runs.
-
-Team captain Hayley Methuses (8), Stefani Taylor (4) and Shemein Kempell (2) were also playing with single digits.
-
-Giana Joseph, who played the most effectively, scored 4 off 18 balls with 3 pounds and one six with a six.
-
-...
-
-[Data](articles/ef57b7b6.json)
-
-[Extended Data](ext_articles/ef57b7b6.ext.json)
-
----
-
-### AKD should not try out RW’s failed ‘Vel Palama’ to cross to the other side
-
-*2024-10-06 23:23:47* · [`dailyftlk`](https://www.ft.lk/columns/AKD-should-not-try-out-RW-s-failed-Vel-Palama-to-cross-to-the-other-side/4-767612) · `en`
-
-AKD cannot waste his time by seeking to cross the cliff by walking through the unstable Vel Palama as suggested by Ranil
-
-The weakness in this Vel Palama equation is that it seeks to resolve the economic issues faced by the country at that time through a conventional method. It is a ‘within-the-frame solution’. When you see a difficulty and there is a conventional way to overcome that difficulty, you follow it without considering its efficacy or timeliness or costs. Economic strategists seek to resolve the issues by looking for solutions outside the frame. This is true for military strategists as well
-
-...
-
-[Data](articles/994ccdb3.json)
-
-[Extended Data](ext_articles/994ccdb3.ext.json)
-
----
-
-### Humility, empathy and authenticity key between RW defeat and AKD victory
-
-*2024-10-06 23:13:49* · [`dailyftlk`](https://www.ft.lk/columns/Humility-empathy-and-authenticity-key-between-RW-defeat-and-AKD-victory/4-767611) · `en`
-
-I attribute RW’s defeat to a distinct lack of empathy which impaired his ability to understand the needs, hardships, feelings, yearnings, and thoughts of a significant component of the population, these being the low-income earners and the lower middle-income earners. Opinions may differ but facts are stubborn. The Achilles heel of RW in many past elections, both presidential and general, has been his inability to respond to the needs of the common person. AKD, on the other hand, understood them perfectly and his message was astutely crafted to tugging at the heart strings of this section of the population, a section which had been disadvantaged over many years by elitist thinking
-
-...
-
-[Data](articles/84068a72.json)
-
-[Extended Data](ext_articles/84068a72.ext.json)
-
----
-
-### Police security for former President Ranil to remain unchanged
-
-*2024-10-06 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102490/police-security-for-former-president-ranil-to-remain-unchanged) · `en`
-
-The Police Spokesman DIG Nihal Thalduwa has confirmed that the security detail for former President Ranil Wickremesinghe, which includes 50 Special Task Force (STF) personnel, will remain unchanged.
-
-However, he noted that the necessary number of personnel required for the former president’s security will be reviewed and allocated soon.
-
-◼️
-
-[Data](articles/331a0872.json)
-
-[Extended Data](ext_articles/331a0872.ext.json)
-
----
-
-### Sri Lanka to commence information collection for census of population, housing
-
-*2024-10-06 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102489/sri-lanka-to-commence-information-collection-for-census-of-population-housing) · `en`
-
-Sri Lanka’s Department of Census and Statistics said on Sunday that it will commence the collection of personal and housing information for the 15th census of population and housing in the country on Monday.
-
-Director General of the department Anoja Senevirathne told journalists in Colombo that census officials will be visiting households across the country to collect vital data.
-
-She said around 50,000 officials will be engaged as enumerators in the process, according to Xinhua news agency.
-
-She said Sri Lanka usually holds a population census once every 10 years, but the process was delayed due to the COVID-19 pandemic and the economic crisis.
-
-The South Asian country’s last population census was conducted in 2012.
-
-◼️
-
-[Data](articles/e0bc658d.json)
-
-[Extended Data](ext_articles/e0bc658d.ext.json)
-
----
-
-### A strike on a mosque kills 19 as Israel bombards northern Gaza and southern Lebanon
-
-*2024-10-06 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102488/a-strike-on-a-mosque-kills-19-as-israel-bombards-northern-gaza-and-southern-lebanon) · `en`
-
-An Israeli strike on a mosque in the Gaza Strip early Sunday killed at least 19 people, Palestinian officials said, as Israel intensified its bombardment of northern Gaza and southern Lebanon in a widening war with Iran-allied militant groups across the region.
-
-Israel still battles Hamas a year after the group’s Oct. 7 attack on Israel, and has opened a new front in Lebanon against Hezbollah, which has traded fire with Israel along the border since the war in Gaza began. Israel has vowed to strike Iran itself after Tehran launched a ballistic missile attack on Israel last week.
-
-The widening conflict risks further drawing in the United States, which has provided crucial military and diplomatic support to Israel. Iran-allied militant groups in Syria, Iraq and Yemen have joined in with long-distance strikes on Israel.
-
-...
-
-[Data](articles/aa191e24.json)
-
-[Extended Data](ext_articles/aa191e24.ext.json)
 
 ---

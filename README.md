@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 15:38:50**
+As of **2024-10-07 15:58:21**
 
 ## Newspaper Stats
 
-*Scraped **48,190** Articles*
+*Scraped **48,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 3,247
 adalk | 4,457
 dailymirrorlk | 4,733
 adaderanalk | 5,680
-tamilmirrorlk | 6,519
+tamilmirrorlk | 6,520
 virakesarilk | 7,713
-adaderanasinhalalk | 8,338
+adaderanasinhalalk | 8,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,190 (100.0%) of 48,190 articles have been extended.
+48,192 (100.0%) of 48,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Nilantha Jayawardene apologizes in court
+
+*2024-10-07 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201923) · `si`
+
+Nilantha Jayawardene apologizes in court over delayed compensation payment. His lawyer informs case about Rs. 65 million payment. Additional Solicitor General represents Attorney General. Case adjourned until November 18.
+
+🟩
+
+Former Director of the State Intelligence Compensation has been paid to the Supreme Court today (07) by the lawyers who have been paid to the basic rights petitions filed by the terror attacks on the Easter..
+
+His lawyer was informed when the case was taken up this afternoon this afternoon.
+
+Additional Solicitor General who appeared on behalf of the Attorney General said that the burden of the compensation has been paid by Rs. 65 million.
+
+Nilantha Jayawardena appeared in court regarding the delay in the payment of this money.
+
+Thereafter, the cases were then sent back on November 18.
+
+◼️
+
+[Data](articles/0e91d20e.json)
+
+[Extended Data](ext_articles/0e91d20e.ext.json)
+
+---
+
+### The National Stamp Exhibition begins tomorrow
+
+*2024-10-07 15:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-முத்திரைக்-கண்காட்சி-நாளை-ஆரம்பம்/175-345047) · `ta`
+
+National Stamp Exhibition: Oct 8-12, postal HQ, 9am-6pm. Patronized by Ministry Secretary. School children competition with prizes.
+
+🟩
+
+The Postal Department has organized a National Stamp Exhibition from Wednesday (08) to October 12 on World Postal Day.
+
+The exhibition will be held at the postal headquarters from 09.00 am to 06.00 pm.
+
+The exhibition will be held under the patronage of Ranjith Aryaratne, Secretary to the Ministry of Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Media.
+
+It is noteworthy that prizes will be awarded to the winners of the stamp exhibition held among schoolchildren.
+
+◼️
+
+[Data](articles/7f33d39e.json)
+
+[Extended Data](ext_articles/7f33d39e.ext.json)
+
+---
 
 ### Congress handed over nominations
 
@@ -2227,47 +2277,5 @@ The total project cost is $602.25 million equivalent and is expected to be compl
 [Data](articles/84261849.json)
 
 [Extended Data](ext_articles/84261849.ext.json)
-
----
-
-### Chamber of Construction Industry seeks effective interventions by President
-
-*2024-10-07 00:38:00* · [`islandlk`](http://island.lk/chamber-of-construction-industry-seeks-effective-interventions-by-president/) · `en`
-
-The Chamber of Construction Industry of Sri Lanka extends its congratulations to President Anura Kumara Dissanayake on his victory as the 9th Executive President of Sri Lanka and appeals for effective interventions by him to streamline the industry.
-
-Some proposed policies brought forth by Eng.Nissanka N. Wijeratne,Secretary General / CEO of the chamber are as follows.
-
-Projects above Rs. 200 million in value should commence only after a proper feasibility study is undertaken. To ensure this a National Planning Commission (NPC) similar to that in India, should be established and approval of the NPC should be mandatory for all projects exceeding Rs. 200.M.
-
-Procurement action should commence only if adequate funds have been allocated in the Budget or secured.
-
-Procurement Committees on works contracts over Rs. 200 Million shall have a senior professional nominated by the Chamber of Construction Industry of Sri Lanka, as an industry representative.
-
-...
-
-[Data](articles/d7371aa7.json)
-
-[Extended Data](ext_articles/d7371aa7.ext.json)
-
----
-
-### Increase in the price of coconut
-
-*2024-10-07 00:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலை-அதிகரிப்பு/175-345010) · `ta`
-
-Coconut prices surge: 150 rupees vs previous 90-100 rupees. Consumers concerned about rising costs.
-
-🟩
-
-Consumers have said that in some areas a coconut is being sold for 150 rupees.
-
-Meanwhile, in the past, a coconut has been sold at a price of 90 rupees to 100 rupees. (A)
-
-◼️
-
-[Data](articles/516da0b4.json)
-
-[Extended Data](ext_articles/516da0b4.ext.json)
 
 ---

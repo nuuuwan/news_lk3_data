@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 20:11:17**
+As of **2024-10-07 20:22:59**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 8,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,240 (100.0%) of 48,242 articles have been extended.
+48,242 (100.0%) of 48,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
 
-### இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகம் இராஜினாமா
+### Director General of the Bribery Commission resigns
 
 *2024-10-07 19:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்ச-ஊழல்-ஆணைக்குழுவின்-பணிப்பாளர்-நாயகம்-இராஜினாமா/175-345054) · `ta`
 
-இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகம் கனிஷ்க விஜேரத்ன தனது இராஜினாமா கடிதத்தை ஜனாதிபதி அனுரகுமார திஸாநாயக்கவிடம் கையளித்துள்ளார்.
+Kanishka Wijeratne resigns as Director General of Bribery Commission, citing Supreme Court case against his own appointment.
 
-இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகம் கனிஷ்க விஜேரத்னவின் நியமனம் தொடர்பில் உயர் நீதிமன்றில் அடிப்படை உரிமை மீறல் மனுவொன்று சமர்ப்பிக்கப்பட்டுள்ள நிலையிலேயே அவர் தனது இராஜினாமா கடிதத்தை சமர்ப்பித்துள்ளார். R
+🟩
+
+Director General of the Bribery Commission, Kanishka Wijeratne, has handed over his resignation letter to President Anura Kumara Dissanayake.
+
+He has submitted his resignation letter as he has submitted a fundamental rights violation petition in the Supreme Court regarding the appointment of Director General of the Bribery Commission, Kanishka Wijeratne.. Remble
 
 ◼️
 
 [Data](articles/54822e3e.json)
 
+[Extended Data](ext_articles/54822e3e.ext.json)
+
 ---
 
-### උපදෙස් පිළිනොපැදීම දඬුවම් ලැබිය හැකි වරදක්
+### The acceptance of advice is a punishable offense
 
 *2024-10-07 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201933) · `si`
 
-පාර්ලිමේන්තු මැතිවරණ කාර්යන් සඳහා පත් කරනු ලැබූ හෝ පත්කරනු ලැබීමට ඉඩ ඇති සියලුම රාජ්‍ය හා ව්‍යවස්ථාපිත මණ්ඩල නිලධාරීන් මෙන්ම සේවකයන් තැපෑලෙන් ඡන්දය දීම සඳහා ඉල්ලුම් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කරමින් අද (7) දන්වා සිටියේය.
+Elections Commission warns: accepting advice on elections is illegal. Employees must follow rules strictly. Those not involved in election tasks cannot vote by post. Violations may result in penalties and imprisonment for up to three years.
 
-එමෙන්ම තැපැල් ඡන්ද ඉල්ලුම් නොකිරීම හෝ යම් යම් අඩුපාඩු මත ඉල්ලුම්පත්‍ර ප්‍රතික්ෂේප වීම මැතිවරණ රාජකාරීවලින් නිදහස් කිරීමට හේතුවක් නොවන බවද එම නිවේදනයේ සඳහන් කර ඇත.
+🟩
 
-සෘජුවම මැතිවරණ හා සම්බන්ධ කාර්ය සඳහා පත් කරනු නොලබන අය තැපැල් ඡන්ද ඉල්ලුම් කිරීම සඳහා සුදුසුකම් නොලබන බවත්, එවැනි නිලධාරීන් තැපැල් ඡන්ද ඉල්ලුම් කිරීම සහ එවැනි ඉල්ලුම්පත් සහතික නොකරන ලෙස මැතිවරණ කොමිෂන් සභාව ආයතන ප්‍රධානීන්ට දැනුම්දී තිබේ.
+The Elections Commission (EPL) has informed the Elections Commission today that employees and employees who have been appointed or appointed to appoint Parliamentary Elections.
 
-ඒ අනුව ඉහත උපදෙස් අනුව ක්‍රියා නොකිරීම දඩයකට හෝ සහ අවුරුදු තුනක් දක්වා බන්ධනාගාරගත කිරීම යන දඬුවම් ලැබිය හැකි වරදක් බවද මැතිවරණ කොමිෂන් සභාව සිය නිවේදනයෙන් වැඩිදුරටත් දන්වා ඇත.
+It is also not a reason for the release of postal votes or rejection of applications on certain shortcomings.
+
+Those who do not be appointed directly for election related tasks are not eligible for postal votes and the Elections Commission has informed the Heads of the Elections to apply for postal votes and not certifying such applications.
+
+Accordingly, not acting in accordance with the above instructions is a punishment of or impunity to a penalty and prison for three years.
 
 ◼️
 
 [Data](articles/7f374e60.json)
+
+[Extended Data](ext_articles/7f374e60.ext.json)
 
 ---
 

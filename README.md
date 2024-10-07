@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 00:38:36**
+As of **2024-10-08 00:55:45**
 
 ## Newspaper Stats
 
-*Scraped **48,252** Articles*
+*Scraped **48,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 396
 colombotelegraphcom | 477
 bbccomsinhala | 477
 islandlk | 2,849
-economynextcom | 2,949
+economynextcom | 2,954
 dailyftlk | 3,247
 adalk | 4,467
 dailymirrorlk | 4,733
 adaderanalk | 5,689
-tamilmirrorlk | 6,528
+tamilmirrorlk | 6,529
 virakesarilk | 7,726
 adaderanasinhalalk | 8,351
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 8,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,252 (100.0%) of 48,252 articles have been extended.
+48,257 (100.0%) of 48,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Taxpayer's bank account freezing, confiscation of assets
+
+*2024-10-07 23:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாதவர்களின்-வங்கிக்-கணக்கு-முடக்கம்-சொத்துகள்-பறிமுதல்/175-345058) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tax authorities threaten to freeze bank accounts and seize assets if unpaid taxes aren't settled by year-end. Officials must show proper ID; payments should not be made via check or cash.
+
+🟩
+
+The Deputy Commissioner of Internal Affairs, N. N. Nu, said that the maximum steps will be taken to collect the tax packs by the end of this year and that if there are no taxpayers, they have the authority to freeze their bank accounts and confiscate the assets.. M.. My. S.. B.. Dissanayake mentioned.
+
+However, he urged the identity of the tax -charging authorities and not to pay the arrears as a check or cash.
+
+“From today, our authorities will come to charge pending taxes. Find out who those officers are. They should wear the identity card of our department. They will never accept checks or money or anything.
+
+If the taxes are pending by the end of this year, the maximum steps will be taken to charge all of them. We have the authority to block bank accounts and confiscate property when followed by the law. ”. Remble
+
+◼️
+
+[Data](articles/bc9d9d6d.json)
+
+[Extended Data](ext_articles/bc9d9d6d.ext.json)
+
+---
 
 ### “I don’t play favorites”: Jayasuriya pledges unbiased leadership as Head Coach
 
@@ -167,6 +195,26 @@ Commenting further, he said: “Until recently, the security arrangements for bo
 [Data](articles/b8b48f5b.json)
 
 [Extended Data](ext_articles/b8b48f5b.ext.json)
+
+---
+
+### Police warn Sri Lanka property owners of renting after financial scams
+
+*2024-10-07 20:33:00* · [`economynextcom`](https://economynext.com/police-warn-sri-lanka-property-owners-of-renting-after-financial-scams-182717/) · `en`
+
+ECONOMYNEXT – Police in Sri Lanka have warned local property owners to do better due diligence before renting their properties after raiding two locations in the island nation’s Western province running financial scams by foreigners including people from China, India, and Thailand.
+
+Police raided two locations where the foreigners have carried out financial scams using online.
+
+They have arrested eight Chinese, four Indians including three females, and five Thai including three females in the first raid on Sunday in the country’s Western town of Hanwella along with 96 mobile and 16 desktop computers, Police Spokesman Nihal Thalduwa said.
+
+In the second raid, also on Sunday, the police have arrested 21 Chinese, one Indian woman, and one Thai woman along with 403 mobile phones, 24 laptops, and 13 desktops.
+
+...
+
+[Data](articles/fe09fd53.json)
+
+[Extended Data](ext_articles/fe09fd53.ext.json)
 
 ---
 
@@ -938,6 +986,76 @@ At this moment, the film crew has released a video of the film's hero's birthday
 
 ---
 
+### Foreign inflows into Sri Lanka’s govt securities up last week
+
+*2024-10-07 16:48:00* · [`economynextcom`](https://economynext.com/foreign-inflows-into-sri-lankas-govt-securities-up-last-week-182664/) · `en`
+
+ECONOMYNEXT – Foreign inflows into Sri Lanka’s government securities saw a slight increase last week, Central Bank data showed, as global investors are taking positions in emerging markets ahead of possible rate cuts by the U.S. Federal Reserves, dealers said.
+
+The foreign holding in Sri Lanka’s Treasury bills and Treasury bonds increased by around 4.4 billion rupees ($14.9 mln at 1 US dollar = 295 LKR) to 43.8 billion rupees in the week ended on October 3, the Central Bank data showed.
+
+“It’s mostly to do with global trends,” a currency dealer told EconomyNext.
+
+“The Fed is expected to cut rates and further cuts in 2025. So, investors are positioning themselves. We are getting the crumbs.”
+
+The new inflows also come after Sri Lanka witnessed a peaceful presidential polls that elected Marxists Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayake as the island nation’s president for a five-year tenure.
+
+...
+
+[Data](articles/4964847d.json)
+
+[Extended Data](ext_articles/4964847d.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 293.45/55 to dollar, bond yields steady
+
+*2024-10-07 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-45-55-to-dollar-bond-yields-steady-182692/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee continued to appreciate, closing at 293.45/55 to the US dollar Monday from 294.00/50 a day earlier, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 10.40/50 percent down from 10.50/65 percent.
+
+A bond maturing on 15.12.2027 closed at 11.50/60 percent from 10.50/65 percent.
+
+A bond maturing on 15.02.2028 closed at 11.65/75 percent down from 11.70/80 percent.
+
+A bond maturing on 15.09.2029 closed stable at 11.95/12.05 percent.
+
+A bond maturing on 15.05.2030 closed at 12.15/30 percent, from 12.15/25 percent. (Colombo/Oct7/2024)
+
+◼️
+
+[Data](articles/641e3d41.json)
+
+[Extended Data](ext_articles/641e3d41.ext.json)
+
+---
+
+### Sri Lanka stocks close up, driven by banks
+
+*2024-10-07 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-banks-182662/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 0.92 percent, or 111.15 points, at 12,164; while the more liquid S&P SL20 Index closed up 1.34 percent, or 47.58 points, at 3, 590.
+
+Top contributors to the ASPI were C T Holdings (up at 316.50), Sampath Bank (up at 83.00), Hatton National Bank (up at 218.50), John Keells Holdings (up at 189.00), and Commercial Bank (up at 106.50).
+
+Top turnover generators were Sampath Bank, Commercial Bank, Pan Asia Banking Corporation (up at 23.30), Waskaduwa Beach Resort (down at 2.10) and John Keells Holdings.
+
+Banking shares continued to see high volumes traded, with almost all closing up. The sector contributed 1.4 billion of the turnover.
+
+Conglomerates Hayleys (up at 100.25), and Melstacorp (up at 88.00) closed up. While Aitken Spence (down at 121.25) and Hemas Holdings (down at 79.00) were among the top five negative contributors to the ASPI.
+
+...
+
+[Data](articles/d5af197d.json)
+
+[Extended Data](ext_articles/d5af197d.ext.json)
+
+---
+
 ### Schoolgirl dies after falling from Lotus Tower
 
 *2024-10-07 16:45:22* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුනෙන්-වැටී-පාසල්-සිසුවියක්-ජීවිතක්ෂයට/11-412350) · `si`
@@ -951,6 +1069,26 @@ A schoolgirl died after falling from the Lotus Tower in Sri Lanka. The incident 
 [Data](articles/60c7eb14.json)
 
 [Extended Data](ext_articles/60c7eb14.ext.json)
+
+---
+
+### Sri Lanka Bribery Commission DG to resign as appointment challenged in Court
+
+*2024-10-07 16:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-bribery-commission-dg-to-resign-as-appointment-challenged-in-court-182661/) · `en`
+
+ECONOMYNEXT – Director General of Sri Lanka’s Director General of the Commission to Investigate Allegations of Bribery or Corruption, Kanishka D. Wijeratne has agreed to resign after the Supreme Court gave leave to proceed, legal officials said.
+
+Transparency International Sri Lanka went to court alleging that the appointment was done in an opaque, ambiguous and circuitous method has been followed in making the said appointment without due consideration of the need to follow due reasonable process.
+
+Lawyers for Wijeratne said he undertook to resign by 3.00 pm, after courts indicated that they were inclined to grant interim relief.
+
+The petitioner sought interim relief to stop the Director General from functioning in office until the completion of the case.
+
+The case was heard by the Supreme Court Justices P P Surasena, Kumudini Wickremesinghe and Janak de Silva. President’s Counsel Viran Corea appeared for TISL. (Colombo/Oct07/2024)
+
+◼️
+
+[Data](articles/6c12a807.json)
 
 ---
 
@@ -2215,149 +2353,5 @@ The project, which was started on March 2024, is being implemented a special pro
 [Data](articles/ff1be5af.json)
 
 [Extended Data](ext_articles/ff1be5af.ext.json)
-
----
-
-### Landslide warnings for several districts
-
-*2024-10-07 11:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201918) · `si`
-
-National Building Research Organization issues landslide warnings for several districts. Warnings operate 9:30 AM to 9:30 PM tomorrow. Affected areas include Walallawita (Kalutara), Pitabeddara (Kegalle). Yellow alerts issued for specific locations.
-
-🟩
-
-The National Building Research Organization has taken steps to issue landslides to several districts.
-
-The warning said that the warning is operating from 9.30 am to 9.30 pm tomorrow.
-
-Accordingly, the phrasal secretary of Valallawita in the Nagoda, Elpitiya, Elpitiya in the Nagoda, Elpitiya, Kalutara district have been warned to Walallawita in Kalutara.
-
-The warnings of "yellow" to the Pitabeddara, District of Dehioadara, in the Kegalle District of Niyagadara, Kegalle District have been issued to the "Yellow" to the Pitabeddara.
-
-◼️
-
-[Data](articles/c90d42ff.json)
-
-[Extended Data](ext_articles/c90d42ff.ext.json)
-
----
-
-### 162.5 millimeters of rainfall record
-
-*2024-10-07 11:57:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/162-5-மில்லிமீற்றர்-மழை-வீழ்ச்சி-பதிவு/175-345032) · `ta`
-
-Heavy rainfall recorded: 162.5mm. Highest in Vellala (112.5mm). Rainfall expected in Western, Sabaragamuwa, and North Western provinces. Possible thunderstorms in afternoon.
-
-🟩
-
-The Department of Meteorology has announced that the rainfall of 162.5 millimeters has been reported due to heavy rains from 7.00 am on Sunday night (06) night (06).
-
-In addition, the department has stated that the heavy rainfall has been reported in Vallalla (112.5 mm), Horana (111.5 mm), Neluwa (109 mm) and Udugama (94.5 mm).
-
-Meanwhile, the interruption zone between the ionosphere (the trade winds that blow from the northern hemisphere and the southern hemisphere are damaged in the weather of the country, and in most parts of the country in most parts of the country, there is a possibility of rainfall or thundershowers in the afternoon.
-
-The Department of Meteorology said that rainfall in the Western, Sabaragamuwa and North Western Provinces will also occur in the morning in the Galle, Matara, Mannar and Mullaitivu districts.
-
-◼️
-
-[Data](articles/5025d9c0.json)
-
-[Extended Data](ext_articles/5025d9c0.ext.json)
-
----
-
-### Sanath's appointment confirmed
-
-*2024-10-07 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201917) · `si`
-
-Sanath Jayasuriya named Chief Trainer of Sri Lanka National Team. Appointed from Oct 1, 2024 to Mar 31, 2026. Decision based on team's performance in India and NZ tours.
-
-🟩
-
-Sri Lanka Cricket official announced that Sri Lanka former Sri Lanka captain Sanath Jayasuriya was appointed as the Chief Trainer of the Sri Lanka National Group.
-
-He has been appointed to the relevant post from October 1, 2024 to 31st March 31, 2026.
-
-The Sri Lanka Cricket Executive Committee has taken the decision to take into account the performance of the Sri Lankan team in last Indian and New Zealand competitions.
-
-Sanath Jayasuriya was the acting coach for the tournament.
-
-◼️
-
-[Data](articles/2ce60bff.json)
-
-[Extended Data](ext_articles/2ce60bff.ext.json)
-
----
-
-### Electricity hit teacher
-
-*2024-10-07 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195663) · `ta`
-
-Retired teacher electrocuted while returning home in Tampera, Dethewale, Beliam. Accidentally touched live wiring meant for pig hunting. Police investigation ongoing.
-
-🟩
-
-A retired school teacher has died after being electrocuted in Tampera, Dethewale, Beliam, police said.
-
-While he was going back to his land, he was trapped in a wiring that was fitted to hunt pigs on another land, police said.
-
-◼️
-
-[Data](articles/f11d875a.json)
-
-[Extended Data](ext_articles/f11d875a.ext.json)
-
----
-
-### Electrical equipment theft at telephone tower in Mirigama;Suspect arrested
-
-*2024-10-07 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195660) · `ta`
-
-Mirigama telephone tower theft: Suspect arrested, 457ft power wires, 40kg copper seized. Equipment stolen from multiple locations including Sande, Nalla, Attanagalla, Palewela, Nittambuwa, Gampaha, Weerakula.
-
-🟩
-
-A suspect who allegedly stole electrical equipment from a telephone tower near the Mirigama railway station has been arrested yesterday (06), police said.
-
-The arrested suspect is a 30 -year -old from the Wayankoda area.
-
-The police have seized 457 feet of power wires and 40 kg of copper from the arrested suspect.
-
-Police investigations have revealed that Sande man has stolen electrical equipment from telephone towers in areas such as Sande and Mirigama, Nalla, Thompe, Attanagalla, Palewela, Nittambuwa, Gampaha and Weerakula.
-
-◼️
-
-[Data](articles/bfc57c9d.json)
-
-[Extended Data](ext_articles/bfc57c9d.ext.json)
-
----
-
-### Most of the rainfall record in Colombo
-
-*2024-10-07 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195666) · `ta`
-
-Heavy rainfall reported in Colombo district and other areas. Thunderstorms possible nationwide. Strong winds and lightning warning issued.
-
-🟩
-
-The Department of Meteorology said that heavy rainfall was reported in the Colombo district in 24 hours from 08.30 am to 07.00 am today (06).
-
-Meanwhile, the Department of Meteorology has reported that heavy rainfall has been reported in the areas of Valalavita (112.5 mm) and Horana (111.5 mm) in the Kalutara district, Neluwa (109.5 mm) in Galle (109.5 mm) and Matara district.
-
-Iron Foreign Zone has an impact on the country's weather. Senior Weather Officer Dr. Mohamed Saliheen said that rain or thunderstorms could occur in most parts of the country in the afternoon or night.
-
-Also, heavy rainfall is expected to occur at 100 millimeters in some places.
-
-He added that there is a chance of rain or thunderstorm in the morning in the mornings, as well as in the Galle, Matara Mannar and Mullaitivu districts.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-◼️
-
-[Data](articles/3c826683.json)
-
-[Extended Data](ext_articles/3c826683.ext.json)
 
 ---

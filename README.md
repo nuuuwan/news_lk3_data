@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 12:38:46**
+As of **2024-10-07 12:57:27**
 
 ## Newspaper Stats
 
-*Scraped **48,149** Articles*
+*Scraped **48,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,944
 dailyftlk | 3,247
 adalk | 4,452
 dailymirrorlk | 4,733
-adaderanalk | 5,673
-tamilmirrorlk | 6,507
+adaderanalk | 5,674
+tamilmirrorlk | 6,508
 virakesarilk | 7,701
 adaderanasinhalalk | 8,334
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,149 (100.0%) of 48,149 articles have been extended.
+48,151 (100.0%) of 48,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### SLC confirms Sanath Jayasuriya as national team’s head coach
+
+*2024-10-07 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102501/slc-confirms-sanath-jayasuriya-as-national-teams-head-coach) · `en`
+
+Sri Lanka Cricket has confirmed the appointment of Sanath Jayasuriya as the head coach of the national team.
+
+The Executive Committee of Sri Lanka Cricket has made this decision taking into consideration the team’s good performances in the recent tours against India, England, and New Zealand, where Jayasuriya was in charge as the ‘interim head coach’, Sri Lanka Cricket (SLC) announced.
+
+The SLC said that accordingly, the appointment came into effect on October 1, 2024, and will remain until March 31, 2026.
+
+◼️
+
+[Data](articles/52672159.json)
+
+[Extended Data](ext_articles/52672159.ext.json)
+
+---
+
+### Nilantha Jayawardene appeared in court
+
+*2024-10-07 12:20:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலந்த-ஜயவர்தன-நீதிமன்றத்தில்-முன்னிலையாகினார்/175-345034) · `ta`
+
+Nilantha Jayawardene appears Supreme Court over rights violations. Court orders 75m compensation unpaid. AG files contempt charges.
+
+🟩
+
+Former Director of the State Intelligence Unit, Nilantha Jayawardena has now appeared before the Supreme Court to present information on fundamental rights violation petitions filed by the Investigation Department.
+
+The Supreme Court has ruled that he has violated basic human rights by failing to prevent the attack and has earlier ordered a compensation of 75 million rupees.
+
+But as he failed to pay off the compensation, the Attorney General filed a contempt of court against him on a court order.
+
+Jayawardena has appeared in court on Monday to present the fact that the Supreme Court has previously announced that it will appear in court on Monday to present the facts.
+
+◼️
+
+[Data](articles/12a8f751.json)
+
+[Extended Data](ext_articles/12a8f751.ext.json)
+
+---
 
 ### Landslide warnings for several districts
 
@@ -2257,55 +2299,5 @@ President Anura Kumara Dissanayake visited the church during the morning and lai
 [Data](articles/00425d88.json)
 
 [Extended Data](ext_articles/00425d88.ext.json)
-
----
-
-### The main announcement issued by the Department of Internal
-
-*2024-10-06 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/195635) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Deadline for 2023-2024 income tax payment was Sept 30. Failure to pay results in legal action, penalties, and interest. Taxpayers must provide accurate financial information and follow tax laws to avoid complications. Online payment options are available through the Internal Revenue Department's website.
-
-🟩
-
-The deadline for completing the income tax for 2023-2024 ended on September 30 last month. The Department of Home Affairs has already warned the taxpayer and those who have to pay the new tax.
-
-The Department has issued a warning of legal proceedings facing those who fail to pay all taxes using this time. According to the relevant notice, the deadline for paying pending taxes was given by October 30, 2024.
-
-The total income target of the Department of Customs and Liquor of Sri Lanka is Rs 4,127 billion this year.. The revenue target of the Internal Revenue Department is 2,024 billion rupees. Accordingly, in the nine months from January to September this year, the Internal Revenue Department is worth 1,518 billion rupees.
-
-However, in the documents provided by the Government Finance Department to the Government of the Government of the Government of India, it is worth noting that 1,498 billion rupees for the first nine months.
-
-...
-
-[Data](articles/9e87c9a1.json)
-
-[Extended Data](ext_articles/9e87c9a1.ext.json)
-
----
-
-### Sri Lanka President resurrects moribund Easter Sunday investigation
-
-*2024-10-06 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-resurrects-moribund-easter-sunday-investigation-182491/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has ordered the Secretary to the Ministry of Public Security to conduct a transparent and impartial investigation into the Easter Sunday bombing, a statement from his office said.
-
-President Dissanayake appointed former police Deputy Inspector General Ravi Seneviratne, who oversaw Criminal Investigation Department probe in to the Easter Sunday bombing as the Secretary to the Public Security Ministry as one of the first acts after being elected.
-
-There is a widespread belief in society that the Easter Sunday attacks may have been carried out to gain political mileage, President Dissanayake was quoted as saying when he visited St Sebastian’s Church in Katuwapitiya Sunday.
-
-If hundreds of innocent lives were sacrificed for political purposes, it would be a profound tragedy, he said.
-
-If politics in the country has reached such an extreme, the first priority must be to eliminate this dangerous situation.
-
-...
-
-[Data](articles/dceacad8.json)
-
-[Extended Data](ext_articles/dceacad8.ext.json)
 
 ---

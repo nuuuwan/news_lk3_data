@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 06:44:12**
+As of **2024-10-07 07:27:06**
 
 ## Newspaper Stats
 
-*Scraped **48,100** Articles*
+*Scraped **48,103** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 395
+dbsjeyarajcom | 396
 bbccomsinhala | 475
 colombotelegraphcom | 476
 islandlk | 2,846
@@ -18,19 +18,43 @@ dailyftlk | 3,247
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
-tamilmirrorlk | 6,490
+tamilmirrorlk | 6,491
 virakesarilk | 7,701
-adaderanasinhalalk | 8,323
+adaderanasinhalalk | 8,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,099 (100.0%) of 48,100 articles have been extended.
+48,102 (100.0%) of 48,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Thundershowers in thunderstorms
+
+*2024-10-07 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201908) · `si`
+
+Thunderstorms bring heavy rain and strong winds. The Meteorology Department warns of potential lightning dangers. Thundershowers expected in western, southern, and northern regions. Public advised to be cautious.
+
+🟩
+
+The Department of Meteorology states that the weather in the island is influenced by the island.
+
+Thundershowers showers or thundershowers during the evening or night in many parts of the island.
+
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa and Northwestern provinces, in Galle, Matara, Mannar and Mullaitivu districts.
+
+The Department has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/368bbb0a.json)
+
+[Extended Data](ext_articles/368bbb0a.ext.json)
+
+---
 
 ### IIHS adds more professionalism to nurses with CUBN Pinning
 
@@ -340,6 +364,28 @@ Procurement Committees on works contracts over Rs. 200 Million shall have a seni
 
 ---
 
+### Warning on the impact of lightning
+
+*2024-10-07 00:00:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கம்-தொடர்பில்-எச்சரிக்கை/175-345009) · `ta`
+
+Lightning warning: Thunderstorms expected in several provinces and districts. Public advised to take precautions.
+
+🟩
+
+The Department of Meteorology advised the public yesterday evening to take care of lightning over the next 24 hours.
+
+Accordingly, thunderstorms will occur at night in the Upper, Sabaragamuwa, Central, North Western, North Western and Uva provinces, Jaffna, Kilinochchi, Batticaloa, Ampara, Galle and Matara districts.
+
+The Department of Meteorology has advised the public to follow security measures in the event of thunderstorms. (A)
+
+◼️
+
+[Data](articles/569b4a04.json)
+
+[Extended Data](ext_articles/569b4a04.ext.json)
+
+---
+
 ### 2024-10-06 (Sunday)
 
 ### The security of the former president is not removed
@@ -549,6 +595,24 @@ He said that his Ampara District Committee did not take a decision to contest th
 [Data](articles/928c8e66.json)
 
 [Extended Data](ext_articles/928c8e66.ext.json)
+
+---
+
+### 
+
+*2024-10-06 21:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84866) · `en`
+
+Anura   Kumara’s Ascendancy Inside the JVP and his Rise  Within  Sri Lanka.
+
+Sri Lanka’s newly elected ninth executive president Anura Kumara Dissanayake (AKD) continues to be the focus of this column. In the first part of this article published last week, the early years of  Anura’s eventful life were delved into in some detail. In this week’s  second part,  AKD’s steady rise as a   political leader within the Janatha  Vimukthi  Peramuna (JVP) will be related to some extent.
+
+As stated in this column last week , the JVP’s second insurgency was ruthlessly suppressed by the Ranasinghe Premadasa regime. Tens of thousands of youths were killed or made to disappear. Thousands of youths were incarcerated for years. Hundreds of youths fled Sri Lanka for safety. Hundreds of youths avoided arrest  and possible execution while in Sri Lanka by changing identities and relocating elsewhere. Anura was among those who stayed in Lanka and evaded capture by going underground.
+
+...
+
+[Data](articles/2b0b9154.json)
+
+[Extended Data](ext_articles/2b0b9154.ext.json)
 
 ---
 
@@ -2305,75 +2369,5 @@ As the bus reached the Vaharai, the two girls who were sleeping in the conductor
 [Data](articles/eb40e721.json)
 
 [Extended Data](ext_articles/eb40e721.ext.json)
-
----
-
-### Notice regarding the price of water bottles
-
-*2024-10-06 10:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்ணீர்-போத்தல்களின்-விலை-தொடர்பில்-அறிவிப்பு/175-344962) · `ta`
-
-Central Province Natural Framework Producers Association announces 500ml water bottles now priced at 70 rupees instead of 100 rupees. Guest Sabumal Kumara made statement during Kandy press conference. Reports suggest commodity prices may drop within two weeks due to strengthening rupee against USD.
-
-🟩
-
-The Central Province Natural Framework Producers Association has issued a new announcement regarding the current water bottle.
-
-It has been announced that a 500mm of water, which is currently sold for 100 rupees in the market, can be sold for 70 rupees.
-
-The guest of the association, Sabumal Kumara, said this while addressing a media briefing held in Kandy on Saturday (5).
-
-Meanwhile, reports have emerged that the price of commodities will fall in the next two weeks.
-
-It is noteworthy that the Ministry of Commerce of Trade, Commerce and Food Security has announced that the value of the rupee against the US dollar has been strengthened.
-
-◼️
-
-[Data](articles/d65270f3.json)
-
-[Extended Data](ext_articles/d65270f3.ext.json)
-
----
-
-### 11 children's father beat up
-
-*2024-10-06 10:17:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/11-பிள்ளைகளின்-தந்தை-அடித்துக்கொலை/76-344959) · `ta`
-
-Father of 11 children killed by second wife during drunken argument. Local residents rushed him to hospitals but died after 10-day ICU stay. Police investigation ongoing.
-
-🟩
-
-Raghwana police said that the father of eleven children (41 years old) from the age of three to fifteen was beaten to death by his wife.
-
-Chellappan Balakrishnan, a plantation worker, who lived in the Rangwaladenna estate, died on the 04th.
-
-Police said the deceased had two wives, seven children for one wife and four children for the other.
-
-When the deceased had a drunken dispute, the deceased was attacked by a wife of a wife.
-
-Later the local residents took the injured person to Raghwana Hospital. From there, he was transferred to Kahawatte Hospital and later transferred to the Ratnapura General Hospital for further treatment.
-
-He died on the 4th after being treated for about ten days in the intensive care unit at the hospital, police said.
-
-◼️
-
-[Data](articles/418a85a8.json)
-
-[Extended Data](ext_articles/418a85a8.ext.json)
-
----
-
-### Special import levy on potatoes and onions increased
-
-*2024-10-06 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/102479/special-import-levy-on-potatoes-and-onions-increased) · `en`
-
-The Ministry of Finance says the special import tax on potatoes has been increased by Rs. 10 per kilogram.
-
-Meanwhile, the special import tax on a kilogram of onions has been raised by Rs. 20.
-
-◼️
-
-[Data](articles/392a403b.json)
-
-[Extended Data](ext_articles/392a403b.ext.json)
 
 ---

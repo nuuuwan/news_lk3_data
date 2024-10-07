@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 09:58:26**
+As of **2024-10-07 10:11:56**
 
 ## Newspaper Stats
 
-*Scraped **48,122** Articles*
+*Scraped **48,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 476
 islandlk | 2,846
 economynextcom | 2,942
 dailyftlk | 3,247
-adalk | 4,446
+adalk | 4,447
 dailymirrorlk | 4,733
 adaderanalk | 5,669
 tamilmirrorlk | 6,500
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,328
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,122 (100.0%) of 48,122 articles have been extended.
+48,123 (100.0%) of 48,123 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1490,6 +1490,30 @@ He said he was carrying out the reduction of the cost of chicken. As soon as the
 
 ---
 
+### The poult is allied
+
+*2024-10-06 18:01:43* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුව-සන්ධානගත-වෙයි/11-412334) · `si`
+
+Sri Lanka General Election: Poult allied, no new alliances formed. Nomination process ongoing, interviews conducted.
+
+🟩
+
+The Sri Lanka General Pupaker's front stated that the current general election is allied at the upcoming general election.
+
+The front states that there is no hope of creating new alliances to increase their party representatives for Parliament.
+
+Accordingly, the nomination of the general election will take place these days and nominations will be handed over to all districts in the coming days.
+
+Interviews for nominations for the general election were held at the party office in Nelum Mawatha, Battaramulla yesterday (06).
+
+◼️
+
+[Data](articles/649a395a.json)
+
+[Extended Data](ext_articles/649a395a.ext.json)
+
+---
+
 ### Rs. Workshop on Water
 
 *2024-10-06 17:53:33* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියනයක්-වතුරේ-ගිය-වැඩමුළුව/11-412333) · `si`
@@ -2321,35 +2345,5 @@ Samantha Bandara, who is the same school, is a similar Great Teacher.
 [Data](articles/63a9fc03.json)
 
 [Extended Data](ext_articles/63a9fc03.ext.json)
-
----
-
-### Tamil parties join in Ampara and Trincomalee Districts?
-
-*2024-10-06 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201895) · `si`
-
-Tamil parties contesting parliamentary elections in Ampara and Trincomalee districts. Former UNP MP Suresh Premachandra confirms Tamil National Alliance and other parties' participation. Candidates selected for each district, including Trincomalee and Ampara.
-
-🟩
-
-All the Tamil parties representing the North and the Ampara districts have to contest for the parliamentary election.
-
-Former UNP MP Suresh Premachandra says that he believes that all the Tamil parties will contest with the two Tamil parties.
-
-Suresh Premachandra has said that the Illiothey Thamil Arija Party leader Mawamanadirrajah has been notified and the party's decision will be informed to the UPFA tomorrow.
-
-The nomination of the Tamil National Alliance (TNA) was held in Vavuniya last yesterday, Speaking to the media after the meeting, Mr. Suresh Premachandran said.
-
-Speaking further he said that the Tamil parties would not be able to select any candidate by contesting the Trincomalee and Ampara districts and that could be unfair.
-
-Accordingly, the ILion is the ICI to contest the democratic TNA, a logo of democratic TNA on behalf of the Trincomalee District.
-
-Meanwhile, the Illilonic Tamil Ahazi party nomination committee met in Vavuniya yesterday.
-
-...
-
-[Data](articles/923c5596.json)
-
-[Extended Data](ext_articles/923c5596.ext.json)
 
 ---

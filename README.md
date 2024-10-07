@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 19:57:24**
+As of **2024-10-07 20:11:17**
 
 ## Newspaper Stats
 
-*Scraped **48,240** Articles*
+*Scraped **48,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 3,247
 adalk | 4,464
 dailymirrorlk | 4,733
 adaderanalk | 5,687
-tamilmirrorlk | 6,525
+tamilmirrorlk | 6,526
 virakesarilk | 7,726
-adaderanasinhalalk | 8,348
+adaderanasinhalalk | 8,349
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,240 (100.0%) of 48,240 articles have been extended.
+48,240 (100.0%) of 48,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகம் இராஜினாமா
+
+*2024-10-07 19:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்ச-ஊழல்-ஆணைக்குழுவின்-பணிப்பாளர்-நாயகம்-இராஜினாமா/175-345054) · `ta`
+
+இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகம் கனிஷ்க விஜேரத்ன தனது இராஜினாமா கடிதத்தை ஜனாதிபதி அனுரகுமார திஸாநாயக்கவிடம் கையளித்துள்ளார்.
+
+இலஞ்ச ஊழல் ஆணைக்குழுவின் பணிப்பாளர் நாயகம் கனிஷ்க விஜேரத்னவின் நியமனம் தொடர்பில் உயர் நீதிமன்றில் அடிப்படை உரிமை மீறல் மனுவொன்று சமர்ப்பிக்கப்பட்டுள்ள நிலையிலேயே அவர் தனது இராஜினாமா கடிதத்தை சமர்ப்பித்துள்ளார். R
+
+◼️
+
+[Data](articles/54822e3e.json)
+
+---
+
+### උපදෙස් පිළිනොපැදීම දඬුවම් ලැබිය හැකි වරදක්
+
+*2024-10-07 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201933) · `si`
+
+පාර්ලිමේන්තු මැතිවරණ කාර්යන් සඳහා පත් කරනු ලැබූ හෝ පත්කරනු ලැබීමට ඉඩ ඇති සියලුම රාජ්‍ය හා ව්‍යවස්ථාපිත මණ්ඩල නිලධාරීන් මෙන්ම සේවකයන් තැපෑලෙන් ඡන්දය දීම සඳහා ඉල්ලුම් කළ යුතු බව මැතිවරණ කොමිෂන් සභාව නිවේදනයක් නිකුත් කරමින් අද (7) දන්වා සිටියේය.
+
+එමෙන්ම තැපැල් ඡන්ද ඉල්ලුම් නොකිරීම හෝ යම් යම් අඩුපාඩු මත ඉල්ලුම්පත්‍ර ප්‍රතික්ෂේප වීම මැතිවරණ රාජකාරීවලින් නිදහස් කිරීමට හේතුවක් නොවන බවද එම නිවේදනයේ සඳහන් කර ඇත.
+
+සෘජුවම මැතිවරණ හා සම්බන්ධ කාර්ය සඳහා පත් කරනු නොලබන අය තැපැල් ඡන්ද ඉල්ලුම් කිරීම සඳහා සුදුසුකම් නොලබන බවත්, එවැනි නිලධාරීන් තැපැල් ඡන්ද ඉල්ලුම් කිරීම සහ එවැනි ඉල්ලුම්පත් සහතික නොකරන ලෙස මැතිවරණ කොමිෂන් සභාව ආයතන ප්‍රධානීන්ට දැනුම්දී තිබේ.
+
+ඒ අනුව ඉහත උපදෙස් අනුව ක්‍රියා නොකිරීම දඩයකට හෝ සහ අවුරුදු තුනක් දක්වා බන්ධනාගාරගත කිරීම යන දඬුවම් ලැබිය හැකි වරදක් බවද මැතිවරණ කොමිෂන් සභාව සිය නිවේදනයෙන් වැඩිදුරටත් දන්වා ඇත.
+
+◼️
+
+[Data](articles/7f374e60.json)
+
+---
 
 ### Two Sri Lankan players among ICC Player Of The Month nominees
 
@@ -2309,53 +2341,5 @@ Meanwhile, the transfer order of 24 policemen who temporarily served in the Pres
 [Data](articles/4864aadb.json)
 
 [Extended Data](ext_articles/4864aadb.ext.json)
-
----
-
-### 9 hours trial to Pumi
-
-*2024-10-07 10:47:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியுமியிடம்-9-மணிநேரம்-விசாரணை/175-345023) · `ta`
-
-Actress Piyumi Hansamali questioned over BMW linked to drug case. Nine-hour interrogation follows confession from smuggler. Vehicle seized from suspect's home.
-
-🟩
-
-Actress Biyumi Hansamali yesterday investigated the illegal property unit.
-
-He is reported to have been investigated for nine hours in connection with the BMW vehicle that belongs to him.
-
-Piyumi has been interrogated following a confession made by a drug trafficker who was caught for allegedly smuggling 60 million rupees.
-
-The BMW vehicle, which belongs to Piyumi Hansamali, was recently recovered at the house of a suspicious drug trafficker in the novel.
-
-Investigations have revealed that Piyumi Hansamali had purchased the vehicle on the suspect.
-
-◼️
-
-[Data](articles/1c2a7c02.json)
-
-[Extended Data](ext_articles/1c2a7c02.ext.json)
-
----
-
-### Attack on Chinese people in Pakistan
-
-*2024-10-07 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201915) · `si`
-
-Chinese nationals killed in Pakistan explosion near airport. Attack claimed by BLA terrorist group. Incident occurred near power project site.
-
-🟩
-
-Foreign media reports that two Chinese nationals were killed in a large explosion near Pakistan's Karachi Jinna International Airport.
-
-Meanwhile, the Chinese embassy in Pakistan said the attack was a vehicle of Chinese engineers working in a Power Project in Syntha.
-
-The BLA terrorist organization has taken responsibility for the attack.
-
-◼️
-
-[Data](articles/cde11a6b.json)
-
-[Extended Data](ext_articles/cde11a6b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 16:23:47**
+As of **2024-10-07 16:38:53**
 
 ## Newspaper Stats
 
-*Scraped **48,201** Articles*
+*Scraped **48,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 2,949
 dailyftlk | 3,247
 adalk | 4,458
 dailymirrorlk | 4,733
-adaderanalk | 5,681
+adaderanalk | 5,683
 tamilmirrorlk | 6,520
 virakesarilk | 7,713
-adaderanasinhalalk | 8,340
+adaderanasinhalalk | 8,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,201 (100.0%) of 48,201 articles have been extended.
+48,204 (100.0%) of 48,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Schoolgirl dies after falling from Lotus Tower
+
+*2024-10-07 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201925) · `si`
+
+Schoolgirl falls to death from Lotus Tower observation deck in Colombo. Incident occurred at View Photo Gallery.
+
+🟩
+
+A schoolgirl has died after falling from the View Photo Gallery in Colombo and Lotus Tower.
+
+◼️
+
+[Data](articles/5d904abc.json)
+
+[Extended Data](ext_articles/5d904abc.ext.json)
+
+---
+
+### Student falls to death from Colombo Lotus Tower
+
+*2024-10-07 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102510/student-falls-to-death-from-colombo-lotus-tower) · `en`
+
+A student of an international school has fallen to death from the observation deck of the Lotus Tower in Colombo, the police said.
+
+◼️
+
+[Data](articles/55a94388.json)
+
+[Extended Data](ext_articles/55a94388.ext.json)
+
+---
+
+### Nobel prize for medicine: US duo Ambros and Ruvkun win for work on microRNA
+
+*2024-10-07 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102509/nobel-prize-for-medicine-us-duo-ambros-and-ruvkun-win-for-work-on-microrna) · `en`
+
+U.S. scientists Victor Ambros and Gary Ruvkun won the 2024 Nobel Prize in Medicine for the discovery of microRNA and its crucial role in how multicellular organisms grow and live, the award-giving body said on Monday.
+
+The Nobel assembly said in a statement that the laureates discovered the new class of tiny RNA molecules, which play a crucial role in gene regulation.
+
+“Their groundbreaking discovery revealed a completely new principle of gene regulation that turned out to be essential for multicellular organisms, including humans,” the assembly said.
+
+Their work helped explain how cells specialise and develop into different types, such as muscle and nerve cells, even though all the cells in an individual contain the same set of genes and instructions for growing and staying alive.
+
+...
+
+[Data](articles/c8bdeb36.json)
+
+[Extended Data](ext_articles/c8bdeb36.ext.json)
+
+---
 
 ### Finding the Nobel Prize for Medical Science
 
@@ -2247,73 +2299,5 @@ The ‘Diva Dathata Diriyak Entrepreneurial Skills Programme’ is a transformat
 [Data](articles/8aa2c62e.json)
 
 [Extended Data](ext_articles/8aa2c62e.ext.json)
-
----
-
-### What causes the sudden veins beginning?How many more days is it?
-
-*2024-10-07 05:22:32* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crl8epz81gro) · `si`
-
-Sudden vein appearance causes: intermonsoon period, integrated convergence zone, southwest winds. Duration: 5 days. Heavy rain, strong winds, lightning risks.
-
-🟩
-
-Monday (Oct: 07) has increased by a sudden rain condition.
-
-The Department of Meteorology announced that several factors have been affected by the intermonsoon period.
-
-Athula Karunanayake, Director General of Meteorology, Athula Karunanayake said there was an integrated convergence zone above Sri Lanka.
-
-He explained what was the interpreter convergence zone is:
-
-"This is the specialty of this period, the windy pattern of the northern hemisphere and the wind from the southern hemisphere, the wind from the southern hemis. We call this, the intercoming convergence zone. This interim convergence zone is located above Sri Lanka. In this backdrop, there are rainy showers in many parts of the country. "
-
-The Director General of the Department of Meteorology pointed out that the cause of rain during the morning is a southwest winds.
-
-...
-
-[Data](articles/6c7253f8.json)
-
-[Extended Data](ext_articles/6c7253f8.ext.json)
-
----
-
-### DIG Dhammika Priyantha Kumara replaces Maj. General Suresh Salley as SIS Chief
-
-*2024-10-07 04:04:02* · [`dailyftlk`](https://www.ft.lk/news/DIG-Dhammika-Priyantha-Kumara-replaces-Maj-General-Suresh-Salley-as-SISChief/56-767646) · `en`
-
-Deputy Inspector General of Police (DIG) Dhammika Priyantha Kumara has been appointed as the new Director of the State Intelligence Service (SIS), replacing Major General Suresh Salley who has faced ongoing allegations of involvement in the 2019 Easter Sunday bombings.
-
-DIG Kumara’s appointment follows the dismissal of Salley and comes at a time of growing demands for accountability in one of Sri Lanka’s most devastating terror attacks.
-
-DIG Kumara, who previously held key positions such as Financial Crimes Investigation Division (FCID) Director and Criminal Investigation Department (CID) Deputy Director, brings extensive experience in handling high-profile investigations.
-
-...
-
-[Data](articles/75ba1f2e.json)
-
-[Extended Data](ext_articles/75ba1f2e.ext.json)
-
----
-
-### Acting IGP orders swift action on police complaints
-
-*2024-10-07 04:03:29* · [`dailyftlk`](https://www.ft.lk/news/Acting-IGP-orders-swift-action-on-police-complaints/56-767645) · `en`
-
-All investigations into complaints received are commenced on the same day and are completed within 48 hours
-
-Sets a deadline of two weeks to resolve all uninvestigated and unresolved complaints to date
-
-Acting Inspector General of Police (IGP) Priyantha Weerasooriya has directed all police stations across the country to ensure that investigations into complaints received are commenced on the same day and are completed within 48 hours. He has also issued an urgent order to resolve all uninvestigated and unresolved complaints to date within two weeks.
-
-The directive aims to improve the efficiency of police investigations and ensure swift justice for the public. The Acting IGP’s orders come amid concerns over delayed investigations and unresolved cases at police stations nationwide.
-
-Last week, the Police Media Division reported that a special meeting was held on 3 October at the Police Headquarters, chaired by the new Public Security Ministry Secretary Senior DIG (Rtd) Ravi Seneviratne.
-
-...
-
-[Data](articles/6a7a643f.json)
-
-[Extended Data](ext_articles/6a7a643f.ext.json)
 
 ---

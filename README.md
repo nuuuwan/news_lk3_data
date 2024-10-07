@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 23:39:26**
+As of **2024-10-08 00:12:32**
 
 ## Newspaper Stats
 
-*Scraped **48,251** Articles*
+*Scraped **48,252** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 396
-colombotelegraphcom | 476
+colombotelegraphcom | 477
 bbccomsinhala | 477
 islandlk | 2,849
 economynextcom | 2,949
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,251 (100.0%) of 48,251 articles have been extended.
+48,252 (100.0%) of 48,252 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -389,6 +389,20 @@ In addition, voters who cannot visit with a assistant are also facilitated to id
 [Data](articles/9a514b80.json)
 
 [Extended Data](ext_articles/9a514b80.ext.json)
+
+---
+
+### Why Does The JVP Need The Support Of Monks?
+
+*2024-10-07 18:11:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-does-the-jvp-need-the-support-of-monks/) · `en`
+
+A significant portion of Sinhala-Buddhists, including monks, supported the JVP-led National People’s Power (NPP) in the recent September 2024 presidential election. The results indicate that the JVP captured a considerable share of votes from Mahinda Rajapaksa’s traditional Sinhala-Buddhist base. Emerging in the late 1960s as a radical leftist political entity, the JVP initially advocated for social justice and anti-imperialism. Over time, however, socio-political dynamics among Sinhala-Buddhists shaped the party’s ideology and its relationship with the Buddhist clergy. This commentary examines the interaction between the JVP, Buddhist monks, and Sinhala-Buddhist hegemony, highlighting their mutual influence on Sri Lanka’s political landscape.
+
+...
+
+[Data](articles/644ebe08.json)
+
+[Extended Data](ext_articles/644ebe08.ext.json)
 
 ---
 
@@ -2345,27 +2359,5 @@ The public is asked to act with vigilance in the events of strong winds and ligh
 [Data](articles/3c826683.json)
 
 [Extended Data](ext_articles/3c826683.ext.json)
-
----
-
-### Here is the responsibility of the Jayasuriya
-
-*2024-10-07 11:46:12* · [`adalk`](https://www.ada.lk/sports/ස්ථීරවම-ජයසූරියට-ලැබුණු-වගකීම-මෙන්න/9-412345) · `si`
-
-Sanath Jayasuriya appointed head coach Sri Lankan cricket team Oct 1, 2024 - Mar 31, 2026. Previously acted as coach.
-
-🟩
-
-The SLC Executive Committee has decided to appoint Sanath Jayasuriya as the head coach of the Sri Lankan cricket team.
-
-Sri Lanka Cricket announced that Sanath Jayasuriya was previously acting coach.
-
-The appointment was effective from October 1, 2024, and will last until March 31, 2026.
-
-◼️
-
-[Data](articles/fc400b45.json)
-
-[Extended Data](ext_articles/fc400b45.ext.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 18:34:52**
+As of **2024-10-07 18:48:14**
 
 ## Newspaper Stats
 
-*Scraped **48,232** Articles*
+*Scraped **48,233** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 396
-bbccomsinhala | 476
 colombotelegraphcom | 476
+bbccomsinhala | 477
 islandlk | 2,849
 economynextcom | 2,949
 dailyftlk | 3,247
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,222 (100.0%) of 48,232 articles have been extended.
+48,222 (100.0%) of 48,233 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2232,6 +2232,26 @@ The Supreme Court ordered former President Sirisena to pay Rs. 100 million in co
 
 ---
 
+### පාස්කු ඉරිදා ප්‍රහාරය: හිටපු රාජ්‍ය බුද්ධි ප්‍රධානියා  වන්දි ගෙවා අවසන් කරයි
+
+*2024-10-07 10:10:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckgnjxnx4p9o) · `si`
+
+පාස්කු ඉරිදා ප්‍රහාරය: හිටපු රාජ්‍ය බුද්ධි ප්‍රධානියා  වන්දි ගෙවා අවසන් කරයි
+
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාර සිද්ධිය පිළිබඳව කලින් බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම සම්බන්ධයෙන් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සම්වලට අදාළව නියම වූ රුපියල් මිලියන 75ක වන්දි මුදල සම්පූර්ණයෙන් ගෙවා අවසන් කර තිබෙන බව රාජ්‍ය බුද්ධි සේවයේ හිටපු අධ්‍යක්ෂ නිලන්ත ජයවර්ධන සිය නීතිඥවරුන් මාර්ගයෙන් අද (ඔක්තෝබර් 7) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේ ය.
+
+අදාළ වන්දි මුදල් සම්පූර්ණයෙන් ගෙවා අවසන් නොකිරීම හේතුවෙන් අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් නිලන්ත ජයවර්ධනට එරෙහිව ගොනු කර තිබූ නඩුකරය අද (ඔක්තෝබර් 7) දහවල් යළි කැඳවූ අවස්ථාවේදී ඔහු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ චන්දක ජයසුන්දර මෙම දැනුම් දීම කළේ ය.
+
+ඒ බව තහවුරු කරන ලේඛනයක් ද ජනාධිපති නීතිඥවරයා අධිකරණයට ඉදිරිපත් කළේ ය.
+
+මෙම අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් විවේකා සිරිවර්ධන ද අධිකරණයට දැනුම් දුන්නේ, වගඋත්තරකරු විසින් අද දින රුපියල් මිලියන 65ක වන්දි මුදලක් ගෙවනු ලැබ ඇති බව හානි පූර්ණ කාර්යාලය මගින් වාර්තා කර ඇති බව ය.
+
+...
+
+[Data](articles/3e9c2737.json)
+
+---
+
 ### TV drama actor arrested with drug
 
 *2024-10-07 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195656) · `ta`
@@ -2257,27 +2277,5 @@ A police team is conducting further investigations under the TMP Bandara, the ch
 [Data](articles/43bbc177.json)
 
 [Extended Data](ext_articles/43bbc177.ext.json)
-
----
-
-### Sri Lanka rupee opens at 293.75/294.25 to US dollar, bond yields steady
-
-*2024-10-07 09:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-293-75-294-25-to-us-dollar-bond-yields-steady-182561/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 293.75/294.25 to the US dollar on Monday, from 294.00/35 a day earlier, while bond yields were broadly steady dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.45/55 percent, down from 10.50/60 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.60/70 percent, down from 11.70/80 percent.
-
-A bond maturing on 15.06.2029 was quoted at 11.85/12.00 percent.
-
-In equities, Colombo’s All Share Price Index opened 0.72 percent, or 86.39 points higher at 12,139, while the S&P SL20 of more liquid stocks opened up 1.13 percent or 39.88 points higher at 3,583.
-
-◼️
-
-[Data](articles/63d0503b.json)
-
-[Extended Data](ext_articles/63d0503b.ext.json)
 
 ---

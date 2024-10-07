@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 07:27:06**
+As of **2024-10-07 08:02:43**
 
 ## Newspaper Stats
 
-*Scraped **48,103** Articles*
+*Scraped **48,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 3,247
 adalk | 4,444
 dailymirrorlk | 4,733
 adaderanalk | 5,665
-tamilmirrorlk | 6,491
+tamilmirrorlk | 6,492
 virakesarilk | 7,701
-adaderanasinhalalk | 8,324
+adaderanasinhalalk | 8,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,102 (100.0%) of 48,103 articles have been extended.
+48,105 (100.0%) of 48,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Board of Directors of Government Institutions remain suspended
+
+*2024-10-07 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201909) · `si`
+
+Government suspends board meetings: No admin decisions allowed; new chairs/heads to be appointed by ministers.
+
+🟩
+
+Pradeep Community, Pradeep Sapathan, said that steps have been taken to suspend the meetings of statutory boards and other government institutions.
+
+He said that during this period, the heads of the institution should not be taken any administrative decision.
+
+He said that the relevant parents were appointed by the relevant officers to the Board of Directors in the future.
+
+Accordingly, the government has announced that the boards of statutory boards and other government institutions will be suspended.
+
+Prime Minister Secretary Pradeep Sapathan said that the appointment of new Chairmen and Heads of institutions were a role of the new Ministers.
+
+◼️
+
+[Data](articles/e5c48b5a.json)
+
+[Extended Data](ext_articles/e5c48b5a.ext.json)
+
+---
 
 ### Thundershowers in thunderstorms
 
@@ -364,6 +390,26 @@ Procurement Committees on works contracts over Rs. 200 Million shall have a seni
 
 ---
 
+### Increase in the price of coconut
+
+*2024-10-07 00:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-விலை-அதிகரிப்பு/175-345010) · `ta`
+
+Coconut prices surge: 150 rupees vs previous 90-100 rupees. Consumers concerned about rising costs.
+
+🟩
+
+Consumers have said that in some areas a coconut is being sold for 150 rupees.
+
+Meanwhile, in the past, a coconut has been sold at a price of 90 rupees to 100 rupees. (A)
+
+◼️
+
+[Data](articles/516da0b4.json)
+
+[Extended Data](ext_articles/516da0b4.ext.json)
+
+---
+
 ### Warning on the impact of lightning
 
 *2024-10-07 00:00:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கம்-தொடர்பில்-எச்சரிக்கை/175-345009) · `ta`
@@ -598,11 +644,11 @@ He said that his Ampara District Committee did not take a decision to contest th
 
 ---
 
-### 
+### Anura   Kumara’s Ascendancy Inside the JVP and his  Political Rise  Within  Sri Lanka.
 
-*2024-10-06 21:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84866) · `en`
+*2024-10-06 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84866) · `en`
 
-Anura   Kumara’s Ascendancy Inside the JVP and his Rise  Within  Sri Lanka.
+Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka – Part Two
 
 Sri Lanka’s newly elected ninth executive president Anura Kumara Dissanayake (AKD) continues to be the focus of this column. In the first part of this article published last week, the early years of  Anura’s eventful life were delved into in some detail. In this week’s  second part,  AKD’s steady rise as a   political leader within the Janatha  Vimukthi  Peramuna (JVP) will be related to some extent.
 
@@ -2325,49 +2371,5 @@ Sirisena said he was waiting for the right time to publish the book and that he 
 [Data](articles/e0d6b10c.json)
 
 [Extended Data](ext_articles/e0d6b10c.ext.json)
-
----
-
-### Potato, onion tax increase
-
-*2024-10-06 10:51:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உருளைக்கிழங்கு-வெங்காயத்தின்-வரி-அதிகரிப்பு/175-344964) · `ta`
-
-Potato, onion tax hike: Potato tax rises 10 rupees/kg, onion tax increases 20 rupees/kg.
-
-🟩
-
-The Ministry of Finance has increased the special import tax on potatoes and large onions.
-
-Accordingly, the tax on potatoes has been increased by 10 rupees per kg and the tax on onion is 20 rupees per kg.
-
-◼️
-
-[Data](articles/3cb8f7f3.json)
-
-[Extended Data](ext_articles/3cb8f7f3.ext.json)
-
----
-
-### The girls who left the house are sexually abused
-
-*2024-10-06 10:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டை-விட்டு-வெளியேறிய-சிறுமிகள்-பாலியல்-வன்கொடுமை/175-344963) · `ta`
-
-Sexual abuse case: Two girls, ages 2 and 14, assaulted on bus. Conductor and driver arrested. Victims hospitalized. Case remanded for investigation.
-
-🟩
-
-The conductor and driver of a private bus who had been sexually assaulted by a 14 -year -old girl who had left the house to live in Colombo, had been arrested on Saturday (5).
-
-Two -year -old girls from Kattankudy area continued to condemn their parents who were planning to leave the house on Wednesday morning (02) and went to Batticaloa to travel to Colombo to travel to Colombo on Wednesday morning.Waiting at the station.
-
-During this time, a private bus traveling from Akkaraipattu to Trincomalee arrived at the Batticaloa main bus stand and the two were able to go to Colombo and get to Colombo.
-
-As the bus reached the Vaharai, the two girls who were sleeping in the conductor went to the Ottumavadi, and you have not come down to the Vakarai.
-
-...
-
-[Data](articles/eb40e721.json)
-
-[Extended Data](ext_articles/eb40e721.ext.json)
 
 ---

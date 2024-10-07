@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 09:24:22**
+As of **2024-10-07 09:39:22**
 
 ## Newspaper Stats
 
-*Scraped **48,118** Articles*
+*Scraped **48,119** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ dailymirrorlk | 4,733
 adaderanalk | 5,668
 tamilmirrorlk | 6,498
 virakesarilk | 7,701
-adaderanasinhalalk | 8,327
+adaderanasinhalalk | 8,328
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,117 (100.0%) of 48,118 articles have been extended.
+48,119 (100.0%) of 48,119 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,30 @@ Traffic police had made changes to traffic to keep the general public and motori
 [Data](articles/c5ebc344.json)
 
 [Extended Data](ext_articles/c5ebc344.ext.json)
+
+---
+
+### Man arrested for copper cables in transmission towers
+
+*2024-10-07 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201912) · `si`
+
+Man arrested for stealing copper cables from transmission towers. Cut wires near railway station. Seized 457 ft, 40 kg copper. Confessed cutting wires in phone towers across several divisions.
+
+🟩
+
+A person who stole a person who cut copper wires near the Mirigama Railway Station and cut into copper wires.
+
+The suspect was arrested on information received by the Mirigama Police Station.
+
+Police have also seized 457 feet and 40 kg of copper, which was stolen and wired.
+
+The suspect has revealed that the police have cut off copper wires in the telephone transmission towers and transformers in the telephone transmission tower and transformers in the Mirigama, Navigamuwa, Pallembuwa, Gampaha, and Wirala Police Divisions.
+
+◼️
+
+[Data](articles/e6afa752.json)
+
+[Extended Data](ext_articles/e6afa752.ext.json)
 
 ---
 
@@ -1394,17 +1418,27 @@ He said he was carrying out the reduction of the cost of chicken. As soon as the
 
 ---
 
-### රු. මිලියනයක් වතුරේ ගිය වැඩමුළුව
+### Rs. Workshop on Water
 
 *2024-10-06 17:53:33* · [`adalk`](https://www.ada.lk/breaking_news/රු--මිලියනයක්-වතුරේ-ගිය-වැඩමුළුව/11-412333) · `si`
 
-සාමාන්‍ය අධ්‍යාපන නවීකරණ ව්‍යාපෘතිය යටතේ ළමා පොතක් මුද්‍රණයට තෝරා ගැනීම සඳහා පවත්වනු ලැබූ වැඩමුළුවලට සහභාගි වූ සම්පත්දායකයන් සහ දෙපාර්තමේන්තු නිලධාරීන් සඳහා දීමනා ගෙවීමට රුපියල් දසලක්ෂ අසූනවදහස් පන්සිය හතළිස් හයක මුදලක් (1,089,546) වැයකර තිබුණද, එම වැඩමුළු ආශ්‍රිතව එකදු ළමා පොතක් හෝ මුද්‍රණය කිරීමට නොහැකි වී ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත් කොට ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+Audit report reveals excessive spending on children's book selection. Educational Publications Department incurred Rs. 5,759,018 on unsuitable manuscripts. 228,950 books printed in Sinhala and Tamil. Expenditure deemed futile due to poor quality content.
 
-මෙසේ විශාල මුදලක් වැයකර ළමා පොතක් මුද්‍රණයට තෝරා ගැනීම සම්බන්ධයෙන් වැඩමුළු පවත්වා වැය කළ මුදල නිෂ්ඵල වියදමක් බවට පත්වී තිබූ බවද විගණන වාර්තාවේ සඳහන් වේ.
+🟩
 
-...
+Implementation of a Children's Book (1,089,546) to be spent on the selection of a Children's Book of Workshops for the selection of a Children's Book (1,08966).A new audit report released by the Audit Office is stated.
+
+The Audit Report states that the cost of the selection of a children's book to be used by a large sum of money has become futile expenditure.
+
+The Department of Educational Publications had decided that the 64 manuscript was not suitable for printing or a copy of the 64 manuscripts surveyed.. In the workshops conducted by this manner in this manner, the Department of Educational Publications had decided to write a book from a writing writer in the workshops after not to select a child.. A total of Rs. 5,759,018 has been spent on it.
+
+155,475 copies of books in Sinhala and 73,475 copies were printed in Tamil. This information is included in the special audit report released on the role of the Educational Publications Department.
+
+◼️
 
 [Data](articles/7e2ffbf2.json)
+
+[Extended Data](ext_articles/7e2ffbf2.ext.json)
 
 ---
 
@@ -2325,35 +2359,5 @@ Benjamin Netanyaku did not want to release the hostages, but he wants to continu
 [Data](articles/0f7332f3.json)
 
 [Extended Data](ext_articles/0f7332f3.ext.json)
-
----
-
-### Diesel
-
-*2024-10-06 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/195594) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-60-year-old man killed by crocodile in Sri Lanka's Anuradhapura district. Incident occurred on Friday evening near Mora Oya. Victim was attacked while crossing a stream to retrieve meat. Body undergoing autopsy at Anuradhapura Hospital.
-
-🟩
-
-A 60 -year -old man has died after being attacked by a crocodile in Mora Oya in the Anuradhapura - Gemunupura area, police said.
-
-The incident took place last Friday (4), the police media unit said.
-
-On Friday evening, three people sat together in the Ranjith Mangada area near Mora Oya.
-
-Preliminary inquiries by the police revealed that one of them had been attacked by the first when crossing the stream to go back to his home to take the meat.
-
-In this case, the body is being investigated and placed in the autopsy of the Anuradhapura Hospital.
-
-◼️
-
-[Data](articles/2f7e0ab4.json)
-
-[Extended Data](ext_articles/2f7e0ab4.ext.json)
 
 ---

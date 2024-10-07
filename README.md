@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-07 13:23:24**
+As of **2024-10-07 13:39:40**
 
 ## Newspaper Stats
 
-*Scraped **48,161** Articles*
+*Scraped **48,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,676
 tamilmirrorlk | 6,508
 virakesarilk | 7,709
-adaderanasinhalalk | 8,334
+adaderanasinhalalk | 8,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,161 (100.0%) of 48,161 articles have been extended.
+48,162 (100.0%) of 48,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-07 (Monday)
+
+### Court orders the two court of the scholarship issues
+
+*2024-10-07 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201919) · `si`
+
+Here's a 200-character summary:
+
+
+
+Court orders remand of National Institute of Education Director and school teacher until 22nd. Accused of providing issues of scholarship examination. Produced before Kaduwela Magistrate's Court on 07.
+
+🟩
+
+The Director of the National Institute of Education and the school teacher, the Director of the National Institute of Education and the school teacher has been remanded until the 22nd.
+
+They were produced before the Kaduwela Magistrate's Court today (07).
+
+The two suspects were accused of providing several issues of the scholarship examination.
+
+◼️
+
+[Data](articles/4ef433da.json)
+
+[Extended Data](ext_articles/4ef433da.ext.json)
+
+---
 
 ### World Bank signs additional $200M to support Sri Lanka’s economic reforms
 
@@ -210,6 +236,10 @@ Sanath Jayasuriya was the acting coach for the tournament.
 
 *2024-10-07 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/195663) · `ta`
 
+Retired teacher electrocuted while returning home in Tampera, Dethewale, Beliam. Accidentally touched live wiring meant for pig hunting. Police investigation ongoing.
+
+🟩
+
 A retired school teacher has died after being electrocuted in Tampera, Dethewale, Beliam, police said.
 
 While he was going back to his land, he was trapped in a wiring that was fitted to hunt pigs on another land, police said.
@@ -225,6 +255,10 @@ While he was going back to his land, he was trapped in a wiring that was fitted 
 ### Electrical equipment theft at telephone tower in Mirigama;Suspect arrested
 
 *2024-10-07 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195660) · `ta`
+
+Mirigama telephone tower theft: Suspect arrested, 457ft power wires, 40kg copper seized. Equipment stolen from multiple locations including Sande, Nalla, Attanagalla, Palewela, Nittambuwa, Gampaha, Weerakula.
+
+🟩
 
 A suspect who allegedly stole electrical equipment from a telephone tower near the Mirigama railway station has been arrested yesterday (06), police said.
 
@@ -2223,21 +2257,5 @@ The bodies of the couple who died suspiciously from a house in Welipanna area ha
 [Data](articles/6c13b0b4.json)
 
 [Extended Data](ext_articles/6c13b0b4.ext.json)
-
----
-
-### Acting IGP orders police to resolve all minor complaints within 2 weeks
-
-*2024-10-06 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102486/acting-igp-orders-police-to-resolve-all-minor-complaints-within-2-weeks) · `en`
-
-The Acting Inspector General of Police (IGP) Priyantha Weerasooriya has instructed all police stations to inquire into all pending minor complaints lodged by the public and take necessary actions within the next two weeks.
-
-This was communicated by Police Spokesman DIG Nihal Thalduwa today (06).
-
-◼️
-
-[Data](articles/c04870b8.json)
-
-[Extended Data](ext_articles/c04870b8.ext.json)
 
 ---

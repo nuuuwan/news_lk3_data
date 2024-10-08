@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 14:38:52**
+As of **2024-10-08 14:57:51**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 8,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,368 (100.0%) of 48,373 articles have been extended.
+48,373 (100.0%) of 48,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
 
-### වාසු මාලිමාව දෙසට හැරෙයි
+### Vasu turns toward the compass
 
 *2024-10-08 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201951) · `si`
 
-ඉදිරි පාර්ලිමේන්තු මැතිවරණයේදී ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණේ සහාය ජාතික ජන බලවේගයට ලබාදීමට එම පක්ෂය තීරණය කර තිබේ.
+Democratic Left Front supports Nationality Force in upcoming parliamentary election. Party contests separately but provides backing. Leader Vasudeva Nanayakkara emphasizes unity despite policy differences.
 
-අද (08) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් එම පෙරමුණේ නායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී වාසුදේව නානායක්කාර මහතා ඒ බව පවසා සිටියේය.
+🟩
 
-"ඉදිරියේ පාර්ලිමේන්තු මැතිවරණය එනවා. මේ පාර්ලිමේන්තු මැතිවරණයේදී අපේ පක්ෂය අපි සහයෝගය දක්වන්නේ මාලිමාවට. අපේ පක්ෂය තරග කරනවා. තරග කරන්නේ ජාතික ජන බලවේගයට සහයෝගය පළකරමින්. අපි උත්සාහ කළා ජාතික ජන බලවේගය එක්ක සම්බන්ධතාවයක් ගොඩනගාගෙන එකට මේ ඡන්දයේදී තරගයට ඉදිරිපත් වෙන්න, ජනාධිපතිවරණයේදී පවා එබඳු සමීපකමක් ඇති කරන්න උත්සාහ කළා. නමුත් ඒක සාර්ථක වුණේ නැහැ. ඒක ජාතික ජනබලවේගයේ යම් ප්‍රතිපත්තිමය ප්‍රශ්නයක් නිසා. පාර්ලිමේන්තු මැතිවරණයේදී අපි වෙනම තරග කරනවා. වෙනම තරගකරත් අපේ සහයෝගය අපි ජාතික ජන බලවේගයට ලබාදෙනවා. අපේ අනුගාමිකයින්ට අපි කියා සිටිනවා අපිට දෙන ඡන්දයත් ජාතික ජන බලවේගයට දෙන ඡන්දයක් බව."
+The party has decided to provide support from the Democratic Left Front at the next parliamentary election.
+
+Leader of the Front Parliamentarian Vasudeva Nanayakkara told him that a media briefing held today (08).
+
+"The parliamentary election is coming. In this parliamentary election, our party supports the composition. Our party is contesting. Competition to Nationalality Force. We tried to build a relationship with the national folk force and trying to make such a close existence in the presidential election to contest the election together. But that didn't work. Because it is for some policy issues in national popularity. We will compete in Parliamentary election separately. We provide our support for the national propagation. We call on our followers that the votes we give to the national propagation. "
 
 ◼️
 
 [Data](articles/47d0c951.json)
 
+[Extended Data](ext_articles/47d0c951.ext.json)
+
 ---
 
-### රාජපක්ෂලාගේ සියලු දූෂණ ගැන සොයනවා - වසන්ත සමරසිංහ
+### Seek for all the Rajapaksas' corruption - Wasantha Samarasinghe
 
 *2024-10-08 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201950) · `si`
 
-පසුගිය සමයේ ආන්දෝලනයට තුඩුදුන් රාජපක්ෂවරුන්ට එරෙහි සියලු දූෂණ වංචා නඩු පිළිබඳ විමර්ශන යළි ආරම්භ කර ඇතැයි ජාතික ජනබලවේගයේ ජාතික විධායක සභික වසන්ත සමරසිංහ මහතා පවසයි.
+Wasantha Samarasinghe accuses Rajapaksas of corruption, citing ongoing investigations into past scandals and alleged financial misdeeds.
 
-ඔහු ඒ බව සඳහන් කළේ අද (08) පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
+🟩
+
+The National Executive Committee of the National Executive Executive Committee of the National Executive Executive Committee Wasanthantha Samarasinghe says that the investigations into the past contrustrations have been resigned on the last season have resumed investigations.
+
+He was speaking at a press conference held today (08).
 
 ...
 
 [Data](articles/bb418c2b.json)
+
+[Extended Data](ext_articles/bb418c2b.ext.json)
 
 ---
 
@@ -80,29 +92,45 @@ He mentioned this during the Cabinet press conference held today (08).
 
 ---
 
-### ඉතිහාසයේ ව‍ු වැරදි අපේ ආණ්ඩුවෙන් වෙන්න දෙන්නේ නෑ
+### The mistakes in history will not be allowed to be our government
 
 *2024-10-08 13:50:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාසයේ-ව‍ු-වැරදි-අපේ-ආණ්ඩුවෙන්-වෙන්න-දෙන්නේ-නෑ/11-412371) · `si`
 
-පාස්කු ප්‍රහාරය මෙහෙය වූ අයට එරෙහිව අනිවාර්යයෙන්ම නීතිය ක්‍රියාත්මක කරන බවත්, ජනාධිපතිවරයා බලයට පත් වූ කෙටි කාලය තුළම ඒ සඳහා මූලික කටයුතු ආරම්භ කර ඇති බවත් අමාත්‍ය මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක, බුද්ධශාසන, ආගමික සහ සංස්කෘතික කටයුතු, ජාතික ඒකාබද්ධතා, සමාජ ආරක්ෂණ සහ ජනමාධ්‍ය අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+Here's a summary of 200 characters:
 
-අද (08)  රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
 
-“මේ සඳහා අපි විශේෂ කමිටුවක් පත් කර තිබෙනවා. එම කමිටුව හරහා ජනාධිපති කාර්යාලය හරහා යම් අක්‍රමිකතාවක් වුණා නම් ඒ් පිළිබඳවත්, කොමිෂන් සභා වාර්තාවල යම් අඩුපාඩුවක් වෙලා තිබේ ද යන්න පිළිබඳවත් විමර්ෂණය කරනවා. ජනාධිපතිවරයා  පත් වූ මේ පුංචි කාලය තුළම මේ සම්බන්ධයෙන් කටයුතු  අපි ආරම්භ කර තිබෙනවා. ඉතිහාසයේ වූ වැරදි මේ ආණ්ඩුව යටතේ සිදු වීමට අපි ඉඩ තබන්නේ නැහැ.ඒ පිළිබඳව කිසිදු අසාධාරණයක් මේ රටේ ජනතාවට වෙන්න ඉඩ තියන්නේ නැහැ.
+
+Government forms committee to investigate historical errors. Minister emphasizes no tolerance for past mistakes under current administration. Committee tasked with reviewing commission reports for inaccuracies. Work has already begun, led by the President.
+
+🟩
+
+Cabinet, Religious and Cultural Affairs, National Integration, Social Security, Social Security, Social Security and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media, the President.Says.
+
+The Minister was speaking at the press conference held at the Government Information Department today (08).
+
+"We have appointed a special committee to do this. If the committee is an irregularity across the committee, investigating whether the commission reports have been a defect. We have begun work on this while the President was appointed. Under this government, we do not allow the wrongs in history.
 
 ◼️
 
 [Data](articles/44c5ef2f.json)
 
+[Extended Data](ext_articles/44c5ef2f.ext.json)
+
 ---
 
-### පිටකොටුව - මැලිබන් වීදියේ ගොඩනැගිල්ලක ගින්නක්
+### Fire in a building at Maliban Street
 
 *2024-10-08 13:39:14* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුව---මැලිබන්-වීදියේ-ගොඩනැගිල්ලක-ගින්නක්/11-412369) · `si`
+
+A fire broke out in a building on Maliban Street. Firefighters responded quickly to contain the blaze. No injuries reported. Cause of fire under investigation. Building sustained minor damage. Evacuated residents returned once area deemed safe. Fire department praised for swift action.
+
+🟩
 
 ◼️
 
 [Data](articles/a06e6fe1.json)
+
+[Extended Data](ext_articles/a06e6fe1.ext.json)
 
 ---
 
@@ -1368,31 +1396,45 @@ The delegation is held at the Colombo Police morgue and the Maradana Police are 
 
 ---
 
-### කාන්තා T20 ක්‍රිකට් ලෝක කුසලානය: වාර්තාගත උඩපන්දු ගිලිහී යාමට හේතුව කුමක් ද?
+### Women T20 Cricket World Cup: Why is the record Uppointment lost?
 
 *2024-10-08 07:23:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20jzpwrww1o) · `si`
 
-කාන්තා T20 ක්‍රිකට් ලෝක කුසලානය: වාර්තාගත උඩපන්දු ගිලිහී යාමට හේතුව කුමක් ද?
+Here's a 200-character summary:
 
-මේ වන විට එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වෙන කාන්තා T20 ක්‍රිකට් ලෝක කුසලාන තරගාවලියේ සිදුවෙමින් පවතින විස්මිත ප්‍රවණතාවක් පිළිබඳව ක්‍රීඩා ලෝලීන්ගේ අවධානය යොමු වී තිබේ.
 
-ඒ, උඩපන්දු ගිලිහී යාමේ විස්මිත ආකාරයේ ප්‍රවණතාවක් මතුව තිබීම පිළිබඳව ය.
 
-ඔක්තෝබර් 6 වන දා වන විට තරගාවලියේ එතෙක් පැවති තරගවලදී උඩපන්දු 62ක් රැකගෙන තිබුණු අතර ගිලිහී ගිය උඩපන්දු සංඛ්‍යාව 35කි.
+Women's T20 Cricket World Cup UAE 2024: Record overthrows lost due to LED lights, climate conditions, and stadium design affecting bowlers. Overthrow percentage decreased by 18% compared to previous years.
 
-ඇතැම් උඩපන්දු රැක ගැනීමට අසීරු තත්ත්වයක පැවතිය ද, උඩපන්දු රැක ගැනීමේ සාමාන්‍යය නම් සැලකිය යුතු ලෙස පහළ මට්ටමක පවතී.
+🟩
 
-2023 වසරේ මෙම තරගාවලියේදී උඩපන්දු 50ක් රැක ගත් අතර, 11ක් ගිලිහී ගොස් තිබිණි. එහි උඩපන්දු රැක ගැනීමේ සාමාන්‍යය 82%ක් විය.
+Women T20 Cricket World Cup: Why is the record Uppointment lost?
 
-2020 වසරේ තරගාවලියේදී උඩපන්දු 48ක් රැකගෙන 6ක් ගිලිහී ගියේ ය. එහි සාමාන්‍යය 89%කි.
+The lovers of sports are now concerned about amazing tendency on the Women's T20 World Cup in the United Arab Emirate.
 
-2018 වසරේ තරගාවලිය තුළ ද උඩපන්දු රැක ගැනීමේ සාමාන්‍යය 85%ක් ලෙස පැවතිණි.
+It is about having an amazing trend on the sky losing over.
 
-සිවිල් නොසන්සුන්තාවන් හේතුවෙන් 2024 කාන්තා T20 ලෝක කුසලාන තරගාවලිය කෙටි දැනුම්දීමකින් බංග්ලාදේශයේ සිට එක්සත් අරාබි එමීර් රාජ්‍යය වෙත ගෙන යන ලදී.
+By October 6, 62 overpoites were preserved in the tournament.
+
+Although there is a difficult situation to protect some overhead, the average is to be normal.
+
+In 2023, the tournament was held in this tournament, while 11 were lost. The average of its upperbone was 82%.
+
+The 2020 high served in the tournament was killed and 6 fired. Its average is 89%.
+
+85% of the UPD to preserve the Udaku in the year 2018.
+
+The 2024 Women's T20 World Cup was taken to the United Arab Emirates from Bangladesh by short notice due to civil unrest.
+
+The matches of Dubai and Sarja Hopered both stadiums, especially for the men's cricket matches.
+
+The United Arab Emirates have hosted a number of Indian Premier League (IPL) competitions in the 2020 matches since the 2020s.
 
 ...
 
 [Data](articles/cf81c0bd.json)
+
+[Extended Data](ext_articles/cf81c0bd.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 13:23:13**
+As of **2024-10-08 13:39:32**
 
 ## Newspaper Stats
 
-*Scraped **48,360** Articles*
+*Scraped **48,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,474
 dailymirrorlk | 4,733
-adaderanalk | 5,698
+adaderanalk | 5,699
 tamilmirrorlk | 6,552
 virakesarilk | 7,738
 adaderanasinhalalk | 8,363
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,360 (100.0%) of 48,360 articles have been extended.
+48,361 (100.0%) of 48,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Fire breaks out at building in Pettah
+
+*2024-10-08 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102527/fire-breaks-out-at-building-in-pettah) · `en`
+
+A fire has reportedly broken out on the third floor of a building on Maliban Street in Pettah.
+
+The Colombo Fire Brigade has managed to douse the flames after deploying seven fire trucks to the scene, Ada Derana reporter said.
+
+The building in question had been used as a storage facility, according to the reporter.
+
+However, the cause of the fire is yet to be determined while police have initiated investigations into the incident.
+
+◼️
+
+[Data](articles/7a9bbb09.json)
+
+[Extended Data](ext_articles/7a9bbb09.ext.json)
+
+---
 
 ### Sudden increase in HIV infection in Hambantota
 
@@ -2195,21 +2215,5 @@ In the last presidential election, our brother Anura Kumara Dissanayake supporte
 [Data](articles/9973f3ad.json)
 
 [Extended Data](ext_articles/9973f3ad.ext.json)
-
----
-
-### On what legal basis did President Dissanayake call out the armed forces to maintain ‘public order?
-
-*2024-10-07 20:35:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84874) · `en`
-
-Is the Anura Kumara Dissanayake (AKD) Presidency which came into power on a ‘reformist’ election platform able to legally justify the invocation of Section 12 of the Public Security Ordinance (PSO) using ‘special powers’ to call out the armed forces for the maintenance of public order?
-
-Speaking to me soon after, a colleague ruminated as to whether this was a routine act, the signing of a gazette placed before the President by a staffer, the issuing of which was not so much a deliberate notification but a misstep. That is however hard to believe. But the fact that, such a preposterous possibility is even talked about, indicates the deeply chaotic extent to which official processes have been reduced to.
-
-...
-
-[Data](articles/a818b85f.json)
-
-[Extended Data](ext_articles/a818b85f.ext.json)
 
 ---

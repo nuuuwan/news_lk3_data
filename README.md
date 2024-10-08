@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 18:19:47**
+As of **2024-10-08 18:33:47**
 
 ## Newspaper Stats
 
-*Scraped **48,409** Articles*
+*Scraped **48,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,70 @@ economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,486
 dailymirrorlk | 4,733
-adaderanalk | 5,708
+adaderanalk | 5,709
 tamilmirrorlk | 6,565
 virakesarilk | 7,738
-adaderanasinhalalk | 8,375
+adaderanasinhalalk | 8,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,409 (100.0%) of 48,409 articles have been extended.
+48,411 (100.0%) of 48,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
 
+### Sri Lanka’s new government pledges review of Adani Wind Project
+
+*2024-10-08 18:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/102538/sri-lankas-new-government-pledges-review-of-adani-wind-project) · `en`
+
+Sri Lanka’s new government said it will review a wind power deal with the Adani Group, throwing a fresh hurdle for the Indian conglomerate as it seeks to expand abroad.
+
+The previous administration’s approval of electricity prices for Adani Green Energy Ltd.’s projects “was a problem,” Foreign Minister Vijitha Herath told reporters after a meeting of the Cabinet ministers on Tuesday. The new government would give the deal a fresh look after parliamentary elections are held Nov. 14, he said.
+
+The move to reassess the Adani Green deal follows through on a campaign pledge by newly elected president Anura Kumara Dissanayake, who was swept into office last month after a closely contested three-way race. Dissanayake had called the project a threat to Sri Lanka’s energy sovereignty and vowed to cancel it.
+
+...
+
+[Data](articles/6e006776.json)
+
+[Extended Data](ext_articles/6e006776.ext.json)
+
+---
+
+### An announcement of the weather
+
+*2024-10-08 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201962) · `si`
+
+Weather alert: Lightning strikes expected in several provinces. Thunderstorms forecasted for Anuradhapura District. Strong winds possible during storms. Public advised to take precautions against lightning.
+
+🟩
+
+The Department of Meteorology has issued a warning of a powerful lightning strike.
+
+Accordingly, the Western, Southern, Sabaragamuwa, North Western, North and Uva provinces and thundershowers at night in the Anuradhapura District or night.
+
+There may be temporary localized strong winds during thundershowers.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce the dangers of lightning.
+
+◼️
+
+[Data](articles/257bf2c2.json)
+
+[Extended Data](ext_articles/257bf2c2.ext.json)
+
+---
+
 ### US assistance to strengthen the economy of Sri Lanka
 
 *2024-10-08 17:49:37* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ආර්ථිකය-ශක්තිමත්-කිරීමට-ඇමෙරිකාවේ-සහාය/11-412375) · `si`
+
+US aid strengthens Sri Lanka's economy through IMF cooperation, USAID support, and initiatives in renewable energy, agriculture, and anti-corruption efforts.
+
+🟩
 
 The United States has agreed to extend any support to strengthen the economy of Sri Lanka.
 
@@ -61,6 +107,10 @@ The United States has agreed to support any support for a good governance and to
 ### Amended postal voting applications for general election is amended
 
 *2024-10-08 17:32:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේ-තැපැල්-ඡන්ද-අයදුම්පත්-භාර-ගැනීමේ-කාලය-සංශෝදනය-කෙරේ/11-412374) · `si`
+
+Elections Commission extends deadline for postal voting applications from midnight today to 12 AM Thursday.
+
+🟩
 
 The Elections Commission states that the period of time of postal voting applications was extended.
 
@@ -2327,45 +2377,5 @@ The remains were placed at the Nochchiyagama hospital morgue and the wife of the
 [Data](articles/125a6a79.json)
 
 [Extended Data](ext_articles/125a6a79.ext.json)
-
----
-
-### The main point of the CWC resigns
-
-*2024-10-08 06:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-முக்கிய-புள்ளி-இராஜினாமா/76-345063) · `ta`
-
-Bharat Arulzamy resigns as CWC VP and party member, sending letter to Jeevan Thondaman.
-
-🟩
-
-He sent his resignation letter to Jeevan Thondaman, General Secretary of the Ceylon Workers Congress yesterday evening.
-
-Accordingly, Bharat Arulzamy has announced that he will resign from the post of vice president and the basic membership of the party.. (A)
-
-◼️
-
-[Data](articles/3201d92a.json)
-
-[Extended Data](ext_articles/3201d92a.ext.json)
-
----
-
-### The main point of the CWC resigns
-
-*2024-10-08 06:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவின்-முக்கிய-புள்ளி-இராஜினாமா/175-345063) · `ta`
-
-Bharat Arulzamy resigns as CWC VP and party member. Sent letter to Jeevan Thondaman.
-
-🟩
-
-He sent his resignation letter to Jeevan Thondaman, General Secretary of the Ceylon Workers Congress yesterday evening.
-
-Accordingly, Bharat Arulzamy has announced that he will resign from the post of vice president and the basic membership of the party.. (A)
-
-◼️
-
-[Data](articles/71eea84d.json)
-
-[Extended Data](ext_articles/71eea84d.ext.json)
 
 ---

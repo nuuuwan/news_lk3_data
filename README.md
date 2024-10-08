@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 00:38:49**
+As of **2024-10-09 01:08:12**
 
 ## Newspaper Stats
 
-*Scraped **48,455** Articles*
+*Scraped **48,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 480
 bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,970
-dailyftlk | 3,267
+dailyftlk | 3,268
 adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
@@ -26,9 +26,27 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,455 (100.0%) of 48,455 articles have been extended.
+48,456 (100.0%) of 48,456 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-09 (Wednesday)
+
+### Meritocracy – A silver lining for Sri Lanka
+
+*2024-10-09 00:02:11* · [`dailyftlk`](https://www.ft.lk/columns/Meritocracy-A-silver-lining-for-Sri-Lanka/4-767705) · `en`
+
+It is with great pleasure that we observe the recent appointments made by President Anura Kumara Dissanayaka. The appointments made so far to the Government are on merit and of qualified, educated persons. This is indeed a positive sign to us Sri Lankan citizens.
+
+Starting from the appointment of the lady prime minister. A lady who fights for women empowerment and benefits and welfare of the common man, whatever her family background is. In other words, she is for peoplism. We hope she will use her education to the betterment of Sri Lanka and bring about a positive change that we all need and look forward to.
+
+...
+
+[Data](articles/84bbc2b4.json)
+
+[Extended Data](ext_articles/84bbc2b4.ext.json)
+
+---
 
 ### 2024-10-08 (Tuesday)
 
@@ -2367,27 +2385,5 @@ Minister Herath also elaborated on the government’s foreign relations policy: 
 [Data](articles/688dbecf.json)
 
 [Extended Data](ext_articles/688dbecf.ext.json)
-
----
-
-### Resignation
-
-*2024-10-08 11:27:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-கா-சிவலிங்கம்-இராஜினாமா/76-345080) · `ta`
-
-Here's a summary of the resignation in 200 characters:
-
-
-
-Vice President Arumugam Sivalingam resigns from Ceylon Workers Congress and party membership.
-
-🟩
-
-Arumugam Sivalingam, the Vice President of the Ceylon Workers Congress and former member of the Uva Provincial Council, has sent a letter to the party's leadership, saying he would quit the vice president and the party's basic membership.
-
-◼️
-
-[Data](articles/7787e31d.json)
-
-[Extended Data](ext_articles/7787e31d.ext.json)
 
 ---

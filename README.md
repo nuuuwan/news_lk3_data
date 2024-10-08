@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 03:23:06**
+As of **2024-10-09 03:38:45**
 
 ## Newspaper Stats
 
-*Scraped **48,473** Articles*
+*Scraped **48,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 480
 bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,970
-dailyftlk | 3,274
+dailyftlk | 3,275
 adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
@@ -26,11 +26,25 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,473 (100.0%) of 48,473 articles have been extended.
+48,474 (100.0%) of 48,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Open letter to President: Do we need a new development bank?
+
+*2024-10-09 02:57:37* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-President-Do-we-need-a-new-development-bank/14-767720) · `en`
+
+The manner in which the thinking about development banking has evolved, clearly shows that more thought must be given to setting up an entirely new development bank. This is not to say that development banking is not required. What we need to think about is, can we not look at the existing banks with development banking competence before looking at reinventing the wheel?
+
+...
+
+[Data](articles/cff29ffb.json)
+
+[Extended Data](ext_articles/cff29ffb.ext.json)
+
+---
 
 ### Call for nine provincial units of development
 
@@ -2375,29 +2389,5 @@ He made these comments at a press notice of cabinet decisions today (08).
 [Data](articles/8f3830e1.json)
 
 [Extended Data](ext_articles/8f3830e1.ext.json)
-
----
-
-### A way to reduce egg prices
-
-*2024-10-08 13:15:47* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-මිල-අඩුකරන්න-ක්‍රමයක්/11-412367) · `si`
-
-Reduce egg prices: Lower chicken feed costs, boost local egg production, and stabilize imports.
-
-🟩
-
-Land, Agriculture, Livestock, Irrigation and Aquatic Resources, which is fully depends on chicken, the prices of eggsSaid .PNM Wickremasinghe said.
-
-The secretary of the egg wholesale prices have gone up and said that the increase in chicken prices was raised.Speaking to the media, he said this.
-
-"The price of eggs is completely determined on chicken food. 80% of chicken eats provides the belly tricks. The supply of stomach is to do the lesser price. The hurdge needs of our country is Rs.. 3 lakhs have to be imported. In the future, it is triggered and trying to keep a fixed price.
-
-There are several institutions that manufacture more than 50,000 eggs per day. In addition, there are agencies of 5000 to 50,000 and institutions that make agencies and less eggs. There is no financial energy to import corn directly directly. Companies that imported maize imports have also focused on providing small scale egg production agencies. "
-
-◼️
-
-[Data](articles/392b3a59.json)
-
-[Extended Data](ext_articles/392b3a59.ext.json)
 
 ---

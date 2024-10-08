@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 15:38:53**
+As of **2024-10-08 15:57:45**
 
 ## Newspaper Stats
 
-*Scraped **48,378** Articles*
+*Scraped **48,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 479
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,479
+adalk | 4,480
 dailymirrorlk | 4,733
 adaderanalk | 5,701
-tamilmirrorlk | 6,557
+tamilmirrorlk | 6,559
 virakesarilk | 7,738
 adaderanasinhalalk | 8,367
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,367
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,378 (100.0%) of 48,378 articles have been extended.
+48,381 (100.0%) of 48,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Manager who saved the young man's life
+
+*2024-10-08 15:30:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இளைஞனின்-உயிரை-காப்பாற்றிய-முகாமையாளர்/76-345089) · `ta`
+
+Hotel manager saves drowning youth at Kasalree reservoir. Incident occurred on Tuesday. Police investigating identity of rescued 18-20 year old.
+
+🟩
+
+The incident took place on Tuesday (08) that a young man who was drowning in the Kasalree reservoir rescued a tourist manager near the reservoir.
+
+The hotel manager said that when he heard the screaming noise from the Kasalri reservoir, the young man was drowning in the reservoir.
+
+Norwood police said the rescued young man was 18-20 years old and is conducting further investigations.
+
+◼️
+
+[Data](articles/7caed2a7.json)
+
+[Extended Data](ext_articles/7caed2a7.ext.json)
+
+---
 
 ### Greeting Joe Bidan
 
@@ -259,6 +281,30 @@ He made these comments at a press notice of cabinet decisions today (08).
 [Data](articles/8f3830e1.json)
 
 [Extended Data](ext_articles/8f3830e1.ext.json)
+
+---
+
+### A way to reduce egg prices
+
+*2024-10-08 13:15:47* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-මිල-අඩුකරන්න-ක්‍රමයක්/11-412367) · `si`
+
+Reduce egg prices: Lower chicken feed costs, boost local egg production, and stabilize imports.
+
+🟩
+
+Land, Agriculture, Livestock, Irrigation and Aquatic Resources, which is fully depends on chicken, the prices of eggsSaid .PNM Wickremasinghe said.
+
+The secretary of the egg wholesale prices have gone up and said that the increase in chicken prices was raised.Speaking to the media, he said this.
+
+"The price of eggs is completely determined on chicken food. 80% of chicken eats provides the belly tricks. The supply of stomach is to do the lesser price. The hurdge needs of our country is Rs.. 3 lakhs have to be imported. In the future, it is triggered and trying to keep a fixed price.
+
+There are several institutions that manufacture more than 50,000 eggs per day. In addition, there are agencies of 5000 to 50,000 and institutions that make agencies and less eggs. There is no financial energy to import corn directly directly. Companies that imported maize imports have also focused on providing small scale egg production agencies. "
+
+◼️
+
+[Data](articles/392b3a59.json)
+
+[Extended Data](ext_articles/392b3a59.ext.json)
 
 ---
 
@@ -1622,6 +1668,26 @@ The remains were placed at the Nochchiyagama hospital morgue and the wife of the
 
 ### The main point of the CWC resigns
 
+*2024-10-08 06:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-முக்கிய-புள்ளி-இராஜினாமா/76-345063) · `ta`
+
+Bharat Arulzamy resigns as CWC VP and party member, sending letter to Jeevan Thondaman.
+
+🟩
+
+He sent his resignation letter to Jeevan Thondaman, General Secretary of the Ceylon Workers Congress yesterday evening.
+
+Accordingly, Bharat Arulzamy has announced that he will resign from the post of vice president and the basic membership of the party.. (A)
+
+◼️
+
+[Data](articles/3201d92a.json)
+
+[Extended Data](ext_articles/3201d92a.ext.json)
+
+---
+
+### The main point of the CWC resigns
+
 *2024-10-08 06:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவின்-முக்கிய-புள்ளி-இராஜினாமா/175-345063) · `ta`
 
 Bharat Arulzamy resigns as CWC VP and party member. Sent letter to Jeevan Thondaman.
@@ -2201,63 +2267,5 @@ If the taxes are pending by the end of this year, the maximum steps will be take
 [Data](articles/bc9d9d6d.json)
 
 [Extended Data](ext_articles/bc9d9d6d.ext.json)
-
----
-
-### A show not to be missed, says Suzi
-
-*2024-10-07 23:32:00* · [`islandlk`](http://island.lk/a-show-not-to-be-missed-says-suzi/) · `en`
-
-Singer Suzie Croner, who is now a popular figure in the entertainment scene, in her hometown of Zurich, in Switzerland, was in contact with The Island to elaborate on her plans when she travels to Australia later this month for ‘Country Night’ to be held in Melbourne on 26th October.
-
-Referring to last week’s article ‘More excitement for Sri Lankans in Melbourne’, Suzi said that it’s certainly going to be a happening scene on 26th October.
-
-“I wasn’t 100 percent fit when I last performed in Australia, and that was in October 2023.
-
-“I fell sick and had a bad throat, but I still sang, and, jokingly, she added: “Perhaps I would have sounded like those roosters crowing in the morning cock-a-doodle-doo!”
-
-“I was in bed for 11 days, but I did perform as I couldn’t disappoint the crowd; the show had to go on.
-
-...
-
-[Data](articles/5d800bbd.json)
-
-[Extended Data](ext_articles/5d800bbd.ext.json)
-
----
-
-### Back on stage…
-
-*2024-10-07 23:30:00* · [`islandlk`](http://island.lk/back-on-stage/) · `en`
-
-The very first time music lovers here had the opportunity of experiencing the singing capabilities of Kay Jay was when she teamed up with her father, the late Ivan Jayaratne, and operated as a duo.
-
-The father and daughter combination turned out to be quite popular, and, before long, Kay Jay found herself doing vocals for some of the leading bands, in the local scene, during that era, including Dream Team, 20th Century and Cardinal Outburst.
-
-Later, Kay Jay operated as a solo artiste before deciding to seek new pastures abroad.
-
-Kay Jay had to curtail her musical career, when she got to Germany, as she got involved in the beauty industry…having her own beauty salon in Germany and now in Switzerland, as well.
-
-In addition to her beauty salons, Kay Jay has also come up with her own beauty products – Kay Jay cosmetics.
-
-...
-
-[Data](articles/368a035d.json)
-
-[Extended Data](ext_articles/368a035d.ext.json)
-
----
-
-### The role of Management Accountants in economic development
-
-*2024-10-07 23:15:00* · [`islandlk`](http://island.lk/the-role-of-management-accountants-in-economic-development/) · `en`
-
-Qualified Mmanagement Accountants make a substantial influence to the economy at both national and international levels. It is important to understand as to how they contribute towards the growth of an organization as well as the development of a country.
-
-...
-
-[Data](articles/d57a5cf2.json)
-
-[Extended Data](ext_articles/d57a5cf2.ext.json)
 
 ---

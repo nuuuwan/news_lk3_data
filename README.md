@@ -1,54 +1,146 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 08:59:03**
+As of **2024-10-08 09:13:00**
 
 ## Newspaper Stats
 
-*Scraped **48,310** Articles*
+*Scraped **48,315** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 396
-bbccomsinhala | 477
+bbccomsinhala | 478
 colombotelegraphcom | 478
 islandlk | 2,860
 economynextcom | 2,954
 dailyftlk | 3,267
 adalk | 4,469
 dailymirrorlk | 4,733
-adaderanalk | 5,689
-tamilmirrorlk | 6,536
+adaderanalk | 5,691
+tamilmirrorlk | 6,537
 virakesarilk | 7,733
-adaderanasinhalalk | 8,355
+adaderanasinhalalk | 8,356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,292 (100.0%) of 48,310 articles have been extended.
+48,299 (100.0%) of 48,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
 
-### සුරාබදු කොමසාරිස් ජනරාල් ඇතුළු පිරිසකට එරෙහිව ශ්‍රේෂ්ඨාධිකරණයට මෝසමක්
+### Senior Professor Hareendra Dissabandara appointed SEC Chairman
+
+*2024-10-08 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102518/senior-professor-hareendra-dissabandara-appointed-sec-chairman) · `en`
+
+Senior Professor Hareendra Dissabandara has been appointed as the new Chairman of the Securities and Exchange Commission of Sri Lanka (SEC).
+
+◼️
+
+[Data](articles/833ed7ad.json)
+
+[Extended Data](ext_articles/833ed7ad.ext.json)
+
+---
+
+### New Chairman of Securities and Exchange Commission
+
+*2024-10-08 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201941) · `si`
+
+Harindra Dissandra named SEC Chairman Sri Lanka. Previously Director General SEC. Appointed to lead regulatory body overseeing securities market.
+
+🟩
+
+Senior Professor Harindra Dissandra has been appointed as the Chairman of the Securities and Exchange Commission of Sri Lanka.
+
+Senior Professor Harindra Dissandra has previously served as the Director General of Securities and Exchange Commission.
+
+◼️
+
+[Data](articles/34a6081c.json)
+
+[Extended Data](ext_articles/34a6081c.ext.json)
+
+---
+
+### Heavy showers above 100 mm expected today
+
+*2024-10-08 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102517/heavy-showers-above-100-mm-expected-today) · `en`
+
+The Intertropical Convergence Zone, where winds from the Northern Hemisphere and Southern Hemisphere converge, further affects the island’s weather, according to the Meteorology Department.
+
+Accordingly, showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts, it said.
+
+Showers or thundershowers will occur elsewhere at several places in the island during the afternoon or night.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central, Uva and Eastern provinces and in Galle, Matara and Puttalam districts.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/24064986.json)
+
+[Extended Data](ext_articles/24064986.ext.json)
+
+---
+
+### Postal Voting Application Period Today is completed
+
+*2024-10-08 08:23:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்களிப்பு-விண்ணப்ப-காலம்-இன்றுடன்-நிறைவு/175-345066) · `ta`
+
+Postal voting application deadline today. Government officials must apply. Rejection doesn't excuse election duties. Chiefs ineligible unless directly involved. Failure to comply may result in fines or imprisonment.
+
+🟩
+
+The period of accepting applications for postal voting in the upcoming general election is due to end today.
+
+The Elections Commission said that all government officials and servants who could be appointed or appointed for parliamentary elections should apply to vote by mail.
+
+The Commission also said that the failure of the postal votes or the rejection of applications was not a reason to release the election duties due to some shortcomings.
+
+In addition, the Election Commission has instructed the chiefs of the Election Commission that those who are not directly related to the election are not eligible to vote votes and that such authorities do not apply for postal voting.
+
+The Elections Commission has advised that if they fail to act on these suggestions, the constitution will be fined or sentenced to 3 years in prison.. (A)
+
+◼️
+
+[Data](articles/7ec711a6.json)
+
+[Extended Data](ext_articles/7ec711a6.ext.json)
+
+---
+
+### Monastery for the Supreme Court including the Commissioner General of Excise
 
 *2024-10-08 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201940) · `si`
 
-අධිකරණයට අපහාස කිරීම පිළිබඳ නඩුකරයකට මුහුණ දී සිටින සුරාබදු කොමසාරිස් ජනරාල් එම්. ජේ. ගුණසිරි මහතා ඇතුළු වගඋත්තරකාර නිලධාරීන් පිරිසක් විදෙස් ගතවීමේ සූදානමක් ඇති බවට තොරතුරු ලැබී ඇති බැවින් ඔවුන් විදෙස්ගත වීම වළක්වාලන තහනම් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මෝසමක් ඉදිරිපත් වී තිබේ.
+Supreme Court case: Monastery petition against Commissioner General of Excise. Motion to ban abroad. Bribery Commission Director General resigns. Fundamental rights petitions filed.
 
-නිට්ටඹුව ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විසින් එම මෝසම ඉදිරිපත් කර ඇති බව "අද දෙරණ" අධිකරණ වාර්තාකරු පැවසීය.
+🟩
 
-නීතියට පටහැනි ලෙස නව මත්පැන් බලපත්‍ර නිකුත් නොකරන ලෙස ශ්‍රේෂ්ඨාධිකරණය විසින් ඉකුත්දා නිකුත් කරනු ලැබූ අතුරු තහනම් නියෝගය නොතකා කටයුතු කිරීම තුළින් සුරාබදු කොමසාරිස් ජනරාල්වරයා ඇතුළු වගඋත්තරකරුන් අධිකරණයට අපහාසයක් සිදුකර ඇති බවට චෝදනා කරමින් ගොනුකර ඇති පෙත්සමට අදාළව එම මෝසම ඉදිරිපත් කර තිබේ.
+The Commissioner General of Excise M. M. M.. J. A motion has been presented in the Supreme Court as to issue a ban to issue a ban abroad, including Mr. Gunasiri.
 
-‍මේ අතර අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ අධ්‍යක්ෂ ජනරාල් ඩබ්ලිව්.ඒ.කේ විජේරත්න මහතා සිය ධුරයෙන් ඉල්ලා අස්වි තිබේ.
+"Today, Ada Derana stated that the monsoon has been submitted by a resident of Nittambuwa.
 
-ඊට අදාළ ලිපිය ඊයේ (07) දිනයේ දී ජනාධිපතිවරයා වෙත යොමුකර ඇති බව ඔහුගේ නීතීඥවරුන් විසින් ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබුණි.
+The monsoon has been submitted in relation to the petition filed by the Supreme Court and the respondents filed by the Supreme Court and the respondents by accusing the judiciary.
+
+Meanwhile, the Director General of Bribery and Corruption Commission has resigned from his post.
+
+His lawyers had informed the Supreme Court that the letter had been forwarded to the President yesterday (07).
+
+The informed of the fundamental rights petitions have been made by the Director General of Bribery or Corruption.
+
+Accordingly, the Supreme Court has granted permission to be heard and resign from the resignation of the respondents, reports say that the partners have not been told that it is necessary to consider.
 
 ...
 
 [Data](articles/a0ce5bd0.json)
+
+[Extended Data](ext_articles/a0ce5bd0.ext.json)
 
 ---
 
@@ -292,6 +384,8 @@ Having a clear understanding among your team members of the kind of customer exp
 
 [Data](articles/cd9ab4e9.json)
 
+[Extended Data](ext_articles/cd9ab4e9.ext.json)
+
 ---
 
 ### Showers over 100 mm
@@ -331,6 +425,8 @@ There is increasing recognition that sustainability can lead to long-term econom
 ...
 
 [Data](articles/6a963b70.json)
+
+[Extended Data](ext_articles/6a963b70.ext.json)
 
 ---
 
@@ -579,6 +675,22 @@ However, Net Shivar Brand gave 11 runs that needed further success.
 [Data](articles/9af8ab89.json)
 
 [Extended Data](ext_articles/9af8ab89.ext.json)
+
+---
+
+### 'වේදිකාවල කී පරිදි' ඉන්ධන මිල අඩු කළ හැකි ද?
+
+*2024-10-08 02:04:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy80yz7pzl1o) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක ධූරයට පත්වීමෙන් පසු ක්‍රියාත්මක කළ පළමු ඉන්ධන මිල සූත්‍රය අනුව, ඔක්තෝබර් 01 වන දා සිට ඉන්ධන මිල ගණන් යම් ප්‍රමාණයකින් අඩු විය.
+
+කෙසේ වෙතත්, අනුර ජනාධිපති බවට පත් වීමට පෙර ප්‍රචාරක රැලිවලදී දුන් පොරොන්දු අනුව මිල සංශෝධනයක් නොකිරීම පිළිබඳව සමාජ මාධ්‍ය ඔස්සේ ඇතැමෙකු ප්‍රශ්න කර තිබිණි.
+
+Skip Facebook post, 1Facebook අන්තර්ගතයට අවසරදීමට ඔබ එකඟ ද?මෙම ලිපියේ Facebook විසින් සපයන ලද අන්තර්ගතයන් අඩංගු වේ. ඔවුන් කුකීස් සහ වෙනත් තාක්ෂණයන් භාවිතා කරන නිසා, ඒ කිසිවක් පූරණය වීමට පෙර අපි ඔබගේ අවසරය ඉල්ලා සිටිමු. එයට අවසරදීමට පෙර ඔබට Facebook කුකී ප්‍රතිපත්තිය සහ රහස්‍යතා ප්‍රතිපත්තිය කියවීමට අවශ්‍ය විය හැකි ය. මෙම අන්තර්ගතය බැලීමට 'පිළිගෙන ඉදිරියට යන්න' තෝරන්න.Accept and continueඅනතුරු ඇඟවීමයි: බාහිර වෙබ් අඩවිවල අන්තර්ගතය සඳහා BBCය වගකියනු නොලැබේ.End of Facebook post, 1මෙහි අන්තර්ගතය නැතවැඩිදුරටත් Facebook බලන්නබාහිර වෙබ් අඩවිවල අන්තර්ගතයට බීබීසී වගකියනු නොලැබේ.
+
+...
+
+[Data](articles/c489184f.json)
 
 ---
 
@@ -2115,107 +2227,5 @@ The charges carried a potential sentence of 15 years, but prosecutors asked that
 [Data](articles/2a8bf9db.json)
 
 [Extended Data](ext_articles/2a8bf9db.ext.json)
-
----
-
-### Schoolgirl dies after falling from Lotus Tower
-
-*2024-10-07 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201925) · `si`
-
-Schoolgirl falls to death from Lotus Tower observation deck in Colombo. Incident occurred at View Photo Gallery.
-
-🟩
-
-A schoolgirl has died after falling from the View Photo Gallery in Colombo and Lotus Tower.
-
-◼️
-
-[Data](articles/5d904abc.json)
-
-[Extended Data](ext_articles/5d904abc.ext.json)
-
----
-
-### Student falls to death from Colombo Lotus Tower
-
-*2024-10-07 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102510/student-falls-to-death-from-colombo-lotus-tower) · `en`
-
-A student of an international school has fallen to death from the observation deck of the Lotus Tower in Colombo.
-
-UPDATE: However, the police claims that the female student, who was in civilian clothes, had jumped off the 29th floor of the tower in which the observation deck is located.
-
-The deceased girl has been identified as an 18-year-old, Ada Derana reporter said.
-
-If you or someone you know is in crisis and needs help, resources are available for immediate support:
-
-◼️
-
-[Data](articles/55a94388.json)
-
-[Extended Data](ext_articles/55a94388.ext.json)
-
----
-
-### The body of a police constable in Ja-Elee
-
-*2024-10-07 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/195689) · `ta`
-
-Police constable body found in canal near Jala highway. Body discovered at Kaduwela police station.
-
-🟩
-
-A police constable has been recovered from a canal near the Jala highway, police said.
-
-The body of the body was found in the Kaduwela police station, police said.
-
-◼️
-
-[Data](articles/585b3425.json)
-
-[Extended Data](ext_articles/585b3425.ext.json)
-
----
-
-### Nobel prize for medicine: US duo Ambros and Ruvkun win for work on microRNA
-
-*2024-10-07 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/102509/nobel-prize-for-medicine-us-duo-ambros-and-ruvkun-win-for-work-on-microrna) · `en`
-
-U.S. scientists Victor Ambros and Gary Ruvkun won the 2024 Nobel Prize in Medicine for the discovery of microRNA and its crucial role in how multicellular organisms grow and live, the award-giving body said on Monday.
-
-The Nobel assembly said in a statement that the laureates discovered the new class of tiny RNA molecules, which play a crucial role in gene regulation.
-
-“Their groundbreaking discovery revealed a completely new principle of gene regulation that turned out to be essential for multicellular organisms, including humans,” the assembly said.
-
-Their work helped explain how cells specialise and develop into different types, such as muscle and nerve cells, even though all the cells in an individual contain the same set of genes and instructions for growing and staying alive.
-
-...
-
-[Data](articles/c8bdeb36.json)
-
-[Extended Data](ext_articles/c8bdeb36.ext.json)
-
----
-
-### Boy death
-
-*2024-10-07 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195678) · `ta`
-
-Boy dies from fall during father's cleanup work. Incident occurred in Pallehake area under Nuriya police division. Boy rushed to hospital, body now at funeral room. Further investigation ongoing.
-
-🟩
-
-Nuri police said that a boy died after falling on his head near a house in the Pallehake area, which belongs to the Nuriya police division of the Kegalle.
-
-During the incident, the father of the deceased was cleaning the mountain pass in the upper part of the house.
-
-During this time, the boy who was injured when he was admitted to the Teraniyagala Hospital after he had fallen into the head of the boy near the house.
-
-The body of the boy has been placed in the funeral room of the Teraniyagala Hospital and further investigations are being carried out by fiber police.
-
-◼️
-
-[Data](articles/d22a7a08.json)
-
-[Extended Data](ext_articles/d22a7a08.ext.json)
 
 ---

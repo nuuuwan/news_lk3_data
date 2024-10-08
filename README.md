@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 19:39:00**
+As of **2024-10-08 19:57:53**
 
 ## Newspaper Stats
 
-*Scraped **48,422** Articles*
+*Scraped **48,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,487
+adalk | 4,488
 dailymirrorlk | 4,733
-adaderanalk | 5,709
+adaderanalk | 5,710
 tamilmirrorlk | 6,566
 virakesarilk | 7,747
-adaderanasinhalalk | 8,376
+adaderanasinhalalk | 8,377
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,422 (100.0%) of 48,422 articles have been extended.
+48,425 (100.0%) of 48,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Hezbollah supports ceasefire efforts in Lebanon, deputy chief says
+
+*2024-10-08 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102539/hezbollah-supports-ceasefire-efforts-in-lebanon-deputy-chief-says) · `en`
+
+Hezbollah left the door open to a negotiated ceasefire on Tuesday after Israeli forces made new incursions in Lebanon, and Israel’s defence minister said another senior official from the Iran-backed group appeared to have been killed.
+
+In what could be the latest in a series of major blows to Hezbollah, Israeli Defence Minister Yoav Gallant said it appeared the replacement for slain Hezbollah leader Sayyed Hassan Nasrallah had been “eliminated”.
+
+Hashem Safieddine, a top Hezbollah official, was widely expected to succeed Nasrallah. Safieddine has not been heard from publicly since an Israeli airstrike late last week.
+
+“Hezbollah is an organization without a head. Nasrallah was eliminated, his replacement was probably also eliminated,” Gallant told officers at the Israeli military’s northern command centre, in a brief video segment distributed by the military.
+
+“There’s no one to make decisions, no one to act,” he said, without providing further details.
+
+...
+
+[Data](articles/0c2d613a.json)
+
+[Extended Data](ext_articles/0c2d613a.ext.json)
+
+---
+
+### About the student who committed suicide revealed
+
+*2024-10-08 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201964) · `si`
+
+Student commits suicide at Lotus Tower. Close friend also died recently. Both 16, 11th graders. School uniforms found. Parents' support crucial.
+
+🟩
+
+The school girl who committed suicide by the Lotus Tower, the police revealed that a close friend of the school student and student who committed the Slaven housing complex in Slave Island.
+
+The 16-year-old schoolgrounds had committed suicide from the 29th floor of the Nelum Tower at around 3.15 pm yesterday.
+
+She also bought a ticket and entered the Lotus Tower at around 2.30 pm yesterday.
+
+It is reported that the student had stayed in the lobby in the lobby, it is reported that the Lotus Tower had come to the toilet to bed.
+
+In the place, she was noted that she had a few minutes of school bag, timing pair and shoes, and the CCTV cameras.
+
+When it was taken place, five security personnel had been in the same location and was after she had jumped until they were distracted.
+
+It is reported that she has made some effort to jump due to the design of the international standards.
+
+...
+
+[Data](articles/8022ecca.json)
+
+[Extended Data](ext_articles/8022ecca.ext.json)
+
+---
 
 ### Excavation work in search of LTTE weapons at Mullivaikkal
 
@@ -91,6 +143,34 @@ The move to reassess the Adani Green deal follows through on a campaign pledge b
 [Data](articles/6e006776.json)
 
 [Extended Data](ext_articles/6e006776.ext.json)
+
+---
+
+### President insists three government projects
+
+*2024-10-08 18:10:45* · [`adalk`](https://www.ada.lk/breaking_news/පසුගිය-රජයේ-ව්‍යාපෘති-තුනක්-ජනපති-අනුර-අත්හිටුවයි/11-412377) · `si`
+
+Here's a 200-character summary:
+
+
+
+President suspends three govt projects: National JHD secretariat, Agriculture Aluth Settlement, citing need to strengthen Jana Sabha system. Project staff services suspended from 30th.
+
+🟩
+
+The cabinet paper presented by President Anura Kumara Dissanayake has approved the suspension of three projects carried out by the government.
+
+Accordingly, the National JHD secretariat office and the Agriculture Aluth Settlement program is to be suspended for strengthening the Jana Sabha system for strengthening the Jana Sabha.
+
+The programs have been stopped due to the potential to implement the work expected by the relevant Ministries by the relevant Ministries.
+
+The services of the officers and advisors who were recruited for the projects have also been suspended from the 30th of this month.
+
+◼️
+
+[Data](articles/26aee436.json)
+
+[Extended Data](ext_articles/26aee436.ext.json)
 
 ---
 
@@ -2293,77 +2373,5 @@ The body of the student is being investigated and the Colombo police are placed 
 [Data](articles/5a417799.json)
 
 [Extended Data](ext_articles/5a417799.ext.json)
-
----
-
-### Sri Lanka, Jordan explore commercial, investment prospects
-
-*2024-10-08 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102519/sri-lanka-jordan-explore-commercial-investment-prospects) · `en`
-
-Irbid Chamber of Commerce Chairman, Mohammad Shoha, and Sri Lankan Ambassador Priyangika Wijegunasekera on Monday discussed prospects of enhancing trade and investment cooperation between Jordan and Sri Lanka.
-
-During their meeting, Shoha emphasized the importance of boosting trade ties, particularly in agriculture and commerce, and called for exploring new investment opportunities that benefit both countries.
-
-He highlighted the private sector’s involvement in advancing bilateral trade, tourism and investment cooperation, suggesting organizing joint exhibitions and visits by economic delegations to further these goals.
-
-The Irbid Chamber is committed to supporting import and export operations and the flow of goods and services between the two nations, Shoha pledged, stressing the potential for increased trade in agricultural, industrial, and handicraft products to introduce Jordanian goods to the Sri Lankan market.
-
-...
-
-[Data](articles/3fa8379d.json)
-
-[Extended Data](ext_articles/3fa8379d.ext.json)
-
----
-
-### 19 Chinese citizens arrested
-
-*2024-10-08 08:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19-சீனப்-பிரஜைகள்-கைது/175-345067) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"19 Chinese nationals detained in Nawala Koswatte. CID investigation ongoing."
-
-🟩
-
-19 Chinese citizens have been arrested by the Criminal Investigation Division in the Nawala Koswatte area.
-
-Chinese citizens are reported to have been involved. Remble
-
-◼️
-
-[Data](articles/35c5b8d6.json)
-
-[Extended Data](ext_articles/35c5b8d6.ext.json)
-
----
-
-### Thundershowers - Department of Meteorology
-
-*2024-10-08 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195724) · `ta`
-
-Thunderstorms forecasted in Sabaragamuwa, Western, North Western provinces and Galle, Matara districts. Heavy rains expected in Central, Eastern provinces. Strong winds and lightning warnings issued. Sea regions turbulent due to southwest winds.
-
-🟩
-
-The Iron Foreign Zone has further impacts the country's weather.As a result of this, the Department of Meteorology, Dr. Mohamed Saliheen, said that there will be frequent rain or thunderstorms in the Sabaragamuwa, Western and North Western provinces, as well as in the Galle and Matara districts.
-
-Showers or thunderstorms can occur in many parts of the other parts of the country during the afternoon or night.
-
-Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper, Eastern and Uva provinces, as well as in some parts of Galle, Matara and Puttalam districts.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
-
-Winds from the southwest at speeds of 25 - 35 km / h in the sea regions.
-
-...
-
-[Data](articles/b91e5607.json)
-
-[Extended Data](ext_articles/b91e5607.ext.json)
 
 ---

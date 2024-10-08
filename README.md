@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 15:23:09**
+As of **2024-10-08 15:38:53**
 
 ## Newspaper Stats
 
-*Scraped **48,375** Articles*
+*Scraped **48,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 479
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,478
+adalk | 4,479
 dailymirrorlk | 4,733
 adaderanalk | 5,701
-tamilmirrorlk | 6,555
+tamilmirrorlk | 6,557
 virakesarilk | 7,738
 adaderanasinhalalk | 8,367
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,367
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,375 (100.0%) of 48,375 articles have been extended.
+48,378 (100.0%) of 48,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Greeting Joe Bidan
+
+*2024-10-08 15:09:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-ஜோ-பைடன்-வாழ்த்து/175-345087) · `ta`
+
+US President Joe Biden congratulates Sri Lanka's President Anura Kumara Dissanayake, praising Sri Lanka's democratic institutions and expressing hope for strengthened US-Sri Lankan cooperation in economic growth, regional security, and democratic governance.
+
+🟩
+
+US President Joe Bidan congratulates President Anura Kumara Dissanayake.
+
+Recalling the long -standing ties between the US and Sri Lanka, Joe Biden congratulated President Anura Kumara Dissanayake on behalf of the entire American people and expressed his praise for the past presidential and presidential election by further strengthening Sri Lanka's democracy.
+
+Joe Bidan added in his congratulatory message, "This election illustrates the strength of Sri Lankan democratic institutions and the dedication of the Sri Lankan people to design their future through a peaceful, independent and fair election, the basics of democracy."
+
+President Joe Biden also emphasized the importance of developing cooperation between the US and Sri Lanka to achieve all Sri Lankan citizens' stability, prosperity and progress.
+
+...
+
+[Data](articles/0676dfe0.json)
+
+[Extended Data](ext_articles/0676dfe0.ext.json)
+
+---
 
 ### Missile attack on commemoration
 
@@ -235,6 +259,32 @@ He made these comments at a press notice of cabinet decisions today (08).
 [Data](articles/8f3830e1.json)
 
 [Extended Data](ext_articles/8f3830e1.ext.json)
+
+---
+
+### Shan Wijayakalal has not been given to the general election
+
+*2024-10-08 13:09:55* · [`adalk`](https://www.ada.lk/breaking_news/ෂාන්-විජයලාලුත්-මහ-මැතිවරණයට-නොඑයි/11-412366) · `si`
+
+Shan Wijayakalal not contesting general election. Former UNP MP Ambalangoda Galle district. Informed Movement Secretary General. Fahan Vijayalal Silva continues political involvement despite not contesting. Shan previously supported SLFP, later abandoned. Served as Chief Minister Southern Province, Governor Eastern Province.
+
+🟩
+
+He said the Chief Observance of former UNP MP Ambalangoda electorate, Galle
+
+He said he was informed of the Secretary General of the Movement that he would not contest for the next parliamentary election in the future parliamentary general election.
+
+Fahan Vijayalal Silva says that he will continue to collate in politics, even if they are not competed in politics.
+
+Mr. Shan Wijaylal also secured the SLFP leader in the past general election and he was later abandoned by the Sri Lanka Freedom Party (SLFP) leader.
+
+He served as the Chief Minister of the Southern Province and was also the Governor of the Eastern Province.
+
+◼️
+
+[Data](articles/e018375d.json)
+
+[Extended Data](ext_articles/e018375d.ext.json)
 
 ---
 
@@ -923,6 +973,28 @@ In equities, Colombo’s All Share Price Index opened 0.19 percent, or 23.61 poi
 [Data](articles/fec97a31.json)
 
 [Extended Data](ext_articles/fec97a31.ext.json)
+
+---
+
+### 35 pound jewelry robbery of mother -in -law
+
+*2024-10-08 10:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியாரை-வன்புணர்ந்து-35-பவுண்-நகை-கொள்ளை/175-345071) · `ta`
+
+35-year-old woman robbed of 35-pound gold jewelry by 16-member gang led by her son-in-law. Victim's husband absent; daughter lives elsewhere. Incident reported to police, leading to hospital admission.
+
+🟩
+
+A 35 -year -old mother -in -law's house in a lonely mother -in -law went with a 16 -member group of a son -in -law, who was sexually abused and robbed of 35 pound gold jewelery and money from the house.
+
+In the absence of the victim's husband, her (22) daughter is married and is living elsewhere and is living alone in her home.
+
+He was admitted to the hospital after a complaint was lodged at the police station on Monday night (07).
+
+◼️
+
+[Data](articles/8fcc0b0b.json)
+
+[Extended Data](ext_articles/8fcc0b0b.ext.json)
 
 ---
 
@@ -2187,61 +2259,5 @@ Qualified Mmanagement Accountants make a substantial influence to the economy at
 [Data](articles/d57a5cf2.json)
 
 [Extended Data](ext_articles/d57a5cf2.ext.json)
-
----
-
-### Hotel Emporium CEO recognised at inaugural World Sustainable Travel & Hospitality Awards
-
-*2024-10-07 23:14:00* · [`islandlk`](http://island.lk/hotel-emporium-ceo-recognised-at-inaugural-world-sustainable-travel-hospitality-awards/) · `en`
-
-Andy de Silva Receives Prestigious World’s Leading Sustainability Leader of Tomorrow 2024 Award
-
-Hotel Emporium, the leading direct manufacturer of premium hotel amenities is proud to announce that its Co-Founder and CEO, Andy de Silva has been honoured with the prestigious ‘World’s Leading Sustainability Leader of Tomorrow 2024’ award at the inaugural World Sustainable Travel & Hospitality Awards. This marks the first time a Sri Lankan has received such recognition in sustainable travel, highlighting Andy’s commitment to environmental stewardship in the global hospitality industry.
-
-...
-
-[Data](articles/9fe3e5bb.json)
-
-[Extended Data](ext_articles/9fe3e5bb.ext.json)
-
----
-
-### Tireless CEAT dealers celebrate their successes in Bangkok and Pattaya
-
-*2024-10-07 23:13:00* · [`islandlk`](http://island.lk/tireless-ceat-dealers-celebrate-their-successes-in-bangkok-and-pattaya/) · `en`
-
-Top-performing tyre dealers who exceeded their targets for the sale of truck and bus tyres were rewarded with a fun-filled holiday in Thailand recently by CEAT Kelani Holdings, Sri Lanka’s leading tyre manufacturer.
-
-A total of 31 dealers qualified for the tour. Participants including dealers and representatives of CEAT’s Sales & Marketing Division along with members of the senior management of CEAT spent four days in Pattaya and Bangkok celebrating the sales achievements for the specified period – February to April 2024.
-
-Hotel Emporium CEO recognised at inaugural World Sustainable Travel & Hospitality Awards
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/a4723a79.json)
-
-[Extended Data](ext_articles/a4723a79.ext.json)
-
----
-
-### Positive debt restructuring developments give share market added impetus
-
-*2024-10-07 23:11:00* · [`islandlk`](http://island.lk/positive-debt-restructuring-developments-give-share-market-added-impetus/) · `en`
-
-The stock market was extremely bullish throughout yesterday and banking sector counters performed remarkably well due to positive debt restructuring developments. It is said that Citi Bank has been appointed manager for the exchange of bonds and for expediting the whole process and this created some impetus to market activities, market analysts said.
-
-Further, the Official Creditors Committee (OCC) has given its consent to ending the debt restructuring process, thus enabling banking sector counters to perform well during the day.
-
-Consequently, investor participation in the share market, inclusive of the retail and institutional sectors, has improved, while the turnover has also grown over the last few weeks, stock brokers said.
-
-...
-
-[Data](articles/2d613af2.json)
-
-[Extended Data](ext_articles/2d613af2.ext.json)
 
 ---

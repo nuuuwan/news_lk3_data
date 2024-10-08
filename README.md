@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 05:08:42**
+As of **2024-10-09 05:23:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,480 (100.0%) of 48,481 articles have been extended.
+48,481 (100.0%) of 48,481 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ BRICS originally comprising Brazil, Russia, India, China and South Africa, is a 
 ...
 
 [Data](articles/927bc680.json)
+
+[Extended Data](ext_articles/927bc680.ext.json)
 
 ---
 

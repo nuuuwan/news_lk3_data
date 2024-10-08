@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 03:09:09**
+As of **2024-10-09 03:23:06**
 
 ## Newspaper Stats
 
-*Scraped **48,463** Articles*
+*Scraped **48,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
 tamilmirrorlk | 6,570
-virakesarilk | 7,747
+virakesarilk | 7,757
 adaderanasinhalalk | 8,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,463 (100.0%) of 48,463 articles have been extended.
+48,473 (100.0%) of 48,473 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -178,6 +178,60 @@ Starting from the appointment of the lady prime minister. A lady who fights for 
 
 ### 2024-10-08 (Tuesday)
 
+### New Zealand won by 66 runs for 88 runs
+
+*2024-10-08 23:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195808) · `ta`
+
+New Zealand wins by 66 runs in UAE Women's T20 World Cup. Australia scores 148/8, NZ 88/10. Beth Mooney and Ellyse Perry shine for Australia. NZ advances to semis.
+
+🟩
+
+New Zealand won by 60 runs in the A Group of Competition in the Ninth Women's R20 World Cup in the United Arab Emirates.
+
+Australia, which controlled New Zealand to 88 runs in the upting match, confirmed that this victory was powerful.
+
+The best bowls of Beth Mooni and Elis Perry and the accurate bowling of Megan Shut, Anabel Sadalant and Sofi Molinox have made Australia easier.
+
+With this victory, Australia, which is ranked number one in the A group, has increased its chance of advanced to the semi -finals.
+
+Australia will face Pakistan and India in the remaining two matches that win Sri Lanka in their first match.
+
+Australia decided to bat first at the Sharjah Cricket Stadium on Tuesday night (08) and scored 148 runs for the loss of 8 wickets in 20 overs.
+
+Australia gained a significant total number, despite the New Zealand bowling for New Zealand and took 4 wickets for 29 runs in 4 overs.
+
+Both Beth Mooney and Elis Perry have fascinated the fast and strengthened Australia.
+
+...
+
+[Data](articles/4ca5a8f5.json)
+
+[Extended Data](ext_articles/4ca5a8f5.ext.json)
+
+---
+
+### CWC competing in the elephant symbol: Released
+
+*2024-10-08 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195809) · `ta`
+
+CWC contests elephant symbol in Nuwara Eliya; Jeevan Thondaman, Maruthapandi Rameswaran, P Sakthivel run; Ganapathi Kanakaraj elected via national list; competes under cylinder symbol in other districts.
+
+🟩
+
+Jeevan Thondaman, General Secretary of the CWC, Maruthapandi Rameswaran and National Organizer P Sakthivel will contest in the Nuwara Eliya district.
+
+Meanwhile, the party's deputy leader Ganapathi Kanakaraj has been decided to elect the parliament to the parliament through the national list.
+
+It is noteworthy that the CWC has also decided to compete under the cylinder symbol of the coalition in other districts.
+
+◼️
+
+[Data](articles/b0c31bae.json)
+
+[Extended Data](ext_articles/b0c31bae.ext.json)
+
+---
+
 ### Special time for Sri Lankans in Lebanon
 
 *2024-10-08 23:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-உள்ள-இலங்கையர்களுக்கு-விசேட-கால-அவகாசம்/50-345121) · `ta`
@@ -207,6 +261,38 @@ This registration process is charged as $ 62 (USD 62/-).
 [Data](articles/ad4ffcaf.json)
 
 [Extended Data](ext_articles/ad4ffcaf.ext.json)
+
+---
+
+### Central Asian Sangam Strike under 20
+
+*2024-10-08 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195807) · `ta`
+
+Sri Lanka loses 2-3 to Kyrgyzstan in U-20 volleyball tournament. Won first set 25-16 but fell short in final set 15-9. Now 4th place overall.
+
+🟩
+
+Sri Lanka lost the second defeat this evening at the Under -20 Central Asian Ceylon Tournament at the Sugathadasa Stadium in Colombo.
+
+Sri Lanka lost to Kyrgyzstan by 2 - 3 today, the third day of the match.
+
+Sri Lanka won by 25 - 16 in the first set.
+
+The next two sets were leading 2 - 1, based on the Kyrgyzstan Tanataki sets, based on 25 - 19, 25 - 20, respectively.
+
+In the fourth set, the two teams could win the team to fight hard.
+
+In the end, the fourth set of the fourth set was equal to the position of 2 - 2.
+
+Kyrgyzstan, who played the fifth and decisive set efficiently, won by 15 - 9 and won by a margin of 3 - 2.
+
+Sri Lanka behind the 4th place in the teams due to losing the match.
+
+◼️
+
+[Data](articles/270ddf2e.json)
+
+[Extended Data](ext_articles/270ddf2e.ext.json)
 
 ---
 
@@ -428,6 +514,32 @@ The Election Commission has said that the closing date for nominations is Friday
 
 ---
 
+### Murugan meets former minister Douglas Devananda
+
+*2024-10-08 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195806) · `ta`
+
+Murugan, exonerated after 31 years, meets Douglas Devananda. Former minister helped secure his release. Shanthan remains imprisoned.
+
+🟩
+
+Murugan, who was arrested in the murder case of former Prime Minister Rajiv Gandhi, met with former minister Douglas Devananda on Tuesday (08).
+
+He was released in November 2022 after being detained in prison for 31 years.
+
+Murugan was detained for about a year at the Trichy special camp because there were no documents to go to Sri Lanka because they were from Sri Lanka.
+
+It is noteworthy that Douglas Devananda, the then Minister of Fisheries, had taken some steps to bring him back to Sri Lanka.
+
+At the same time, Shantan, who was arrested with him, was detained at the Trichy Special Camp last February.
+
+◼️
+
+[Data](articles/d1feb2e8.json)
+
+[Extended Data](ext_articles/d1feb2e8.ext.json)
+
+---
+
 ### Another drug fraud reveals
 
 *2024-10-08 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201966) · `si`
@@ -452,6 +564,86 @@ Deputy Solicitor General Lakmini Girihagama, who spoke for the division, stated 
 
 ---
 
+### Arjun - Jeeva joins 'Agathia'
+
+*2024-10-08 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195757) · `ta`
+
+"Agathiah" film update: Arjun, Jeeva star alongside Hollywood actor Edward Sonninfik. Directed by Pa. Songwriter and composer Yuvan Shankar Raja. Produced by Anish Arjun Dev and White Angle Media. Set for release in Tamil, Telugu, and Hindi.
+
+🟩
+
+The new film, 'Agathia', has been named 'Agathiah', which has been named 'Agathiah', starring the star actors of the Tamil film 'Akshan King' Arjun - Jeeva.
+
+Songwriter, Actor and Director Pa. Hollywood actor Edward Sonninfik has starred in the upcoming film 'Agathiah', including Arjun, Jeeva, Rasi Khanna, Yogi Babu, VTV Ganesh and Redin Kingsley.
+
+Yuvan Shankar Raja is composed by Deepak Kumar Pate.
+
+The film is ready for the competition between angels and demons on behalf of Wales Film International. Producer Anish Arjun Dev is co -produced by Ganesh and White Angle Media.
+
+The film is currently being prepared in Tamil, Telugu and Hindi.
+
+The expectation of the film has increased in fans as the Hollywood actor appears to be with Arjun, Jeeva and Rasi Kanna at first glance for the film.
+
+◼️
+
+[Data](articles/b276e081.json)
+
+[Extended Data](ext_articles/b276e081.ext.json)
+
+---
+
+### The original thriller web series of Prime Video
+
+*2024-10-08 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195764) · `ta`
+
+Prime Video releases original thriller web series "Snex & Laders" on 18th. Directed by Ashok Veerappan, Bharat Muralitharan, and Kamala Alkemis. Starring Naveen Chandra, Nanda, Manoj Bharathiraja. Produced by Karthik Subburaj and Kalyan Subramanian. Available in Tamil and other languages on Prime Video.
+
+🟩
+
+The number of fans is currently increasing in the digital site, parallel to the film mansion.
+
+Each leading digital site companies are creating and providing new internet series weekly.
+
+The Prime video will release the original thriller web series Snex & Laders on the 18th. An official announcement has been made.
+
+Directed by Directors Ashok Veerappan, Bharat Muralitharan and Kamala Alkemis, the original Thriller Internet Series of 'Snacks & Laders' Internet Series, Naveen Chandra, Nanda, Manoj Bharathiraja, Muthukumar, Srinda, Sreejith Ravi, Samrit, Surya RaghakashwarMany have played.
+
+Karthik Subburaj and Kalyan Subramanian have co -produced the internet series on behalf of Stone Bench Productions Company.
+
+Commenting on the Internet series, Director Kamala Alkemis said, “Friends of Kili, Lord, Sandy, Bala, who are studying in their adventure, are describing the adventure of their adolescents.
+
+...
+
+[Data](articles/863e5067.json)
+
+[Extended Data](ext_articles/863e5067.ext.json)
+
+---
+
+### Application results for postal votingGo and hand over applications - Elections Commission
+
+*2024-10-08 21:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/195805) · `ta`
+
+Postal voting application deadline extended to Thursday. Handover applications to District Election Offices before midnight. Completed forms from 9th-10th September should be submitted promptly to avoid delays. No further extensions expected.
+
+🟩
+
+Application for postal voting will be accepted until Thursday (10). The Elections Commission has announced that the applications should be sent to the District Elections Office.
+
+The application date for the postal voting for the general election has been extended till Thursday (10), with the delay in the postal distribution and demands of the Commission.
+
+Accordingly, the eligible government officials who have not yet applied for the postal voting should hand over applications to the appropriate district election offices before midnight on Thursday (10).
+
+It is very good to hand over the postal voting applications that have been completed on the 09th and 10th day to avoid the time period when sending applications to the postage, but it will be very good to hand them over to the district elections office in the district of the district where the office is located in different correspondence.
+
+...
+
+[Data](articles/e61b9503.json)
+
+[Extended Data](ext_articles/e61b9503.ext.json)
+
+---
+
 ### Sri Lank parliamentary election: Nominations close on Oct 12
 
 *2024-10-08 20:53:00* · [`economynextcom`](https://economynext.com/sri-lank-parliamentary-election-nominations-close-on-oct-12-182875/) · `en`
@@ -473,6 +665,34 @@ The Election Commission started accepting nominations on October 04. The new par
 [Data](articles/039c7304.json)
 
 [Extended Data](ext_articles/039c7304.ext.json)
+
+---
+
+### Shawn Roldan's music will attract 'your sami my sami'
+
+*2024-10-08 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/195769) · `ta`
+
+Shawn Roldan's 'Un Sami N Sami' attracts fans. Song from 'Parari' movie, featuring Hari Shankar, released with lyrical video. Composer's work praised by audience.
+
+🟩
+
+The second song, 'Un Sami N Sami', which is featured in the movie 'Parari' starring actor Hari Shankar, has been released.
+
+Hari Shankar, Sangeetha Kalyan, Guru Rajendran, Samrat Suresh, fame Mahendran, V. Many people including Premnath have acted.
+
+The film was produced by producer Hari Shankar on behalf of Kala Films Pvt.. The film is presented by director Rajamurugan.
+
+The second song in the film, 'Un Sami N Sami Vadiyappan ..', which will be released and the lyrical video for the song, has been released.
+
+This song is written by Umadevi, who is sung by composer Shaun Roldan.
+
+The lyrics and ideas that are featured in this song are attracted to the fans.
+
+◼️
+
+[Data](articles/29750c74.json)
+
+[Extended Data](ext_articles/29750c74.ext.json)
 
 ---
 
@@ -621,6 +841,28 @@ Also, the overall stock price index has increased by 6.46 points, 0.05 percent a
 [Data](articles/32c2f2bc.json)
 
 [Extended Data](ext_articles/32c2f2bc.ext.json)
+
+---
+
+### Department of Meteorology Warning in Lightning
+
+*2024-10-08 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195804) · `ta`
+
+Heavy lightning warning: Thunderstorms expected in western, southern, central, Sabaragamuwa, northwestern, northern, and Uva districts. Strong winds possible. Take precautions against lightning-related accidents.
+
+🟩
+
+Accordingly, there is a high likelihood of heavy lightning with thunderstorms in the evening or night in the provinces of the West, South, Central, Sabaragamuwa, North Western, North and Uva district.
+
+During thunderstorms, strong winds can be temporarily blowing in those areas.
+
+It is noteworthy that the Department of Meteorology has requested the people to take necessary steps to reduce accidents caused by lightning.
+
+◼️
+
+[Data](articles/fdd0fad4.json)
+
+[Extended Data](ext_articles/fdd0fad4.ext.json)
 
 ---
 
@@ -1247,6 +1489,32 @@ Meanwhile, the central bank announced it would be offering 95,000 million rupees
 [Data](articles/9e3ad0ed.json)
 
 [Extended Data](ext_articles/9e3ad0ed.ext.json)
+
+---
+
+### Fuel shortage in Sri Lanka due to the Middle East War environment - Cabinet spokesman
+
+*2024-10-08 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195767) · `ta`
+
+Sri Lanka denies fuel shortages due to Middle East war. Cabinet says current supplies sufficient, but warns future price increases possible if global market changes.
+
+🟩
+
+Sri Lanka will not cause fuel shortages due to the war environment in the Middle East. Cabinet spokesman Vijitha Herath said that if prices in the world market are on the basis of fuel prices in Sri Lanka.
+
+He further stated at a press conference announcing the Cabinet decisions held on Tuesday.
+
+It is customary to increase prices of fuels in the event of such a war environment. So if fuel prices are increased in the world market, it will also have an impact on Sri Lanka.
+
+But at present there is no impact on that. The fuel that has been purchased earlier is currently used. They can be used for a period of time.
+
+Their prices are currently in effect. If the war environment is intensified and prices are increased, the prices of fuels will be determined accordingly. He said there was no problem at present.
+
+◼️
+
+[Data](articles/ac2f9fa6.json)
+
+[Extended Data](ext_articles/ac2f9fa6.ext.json)
 
 ---
 
@@ -2131,235 +2399,5 @@ There are several institutions that manufacture more than 50,000 eggs per day. I
 [Data](articles/392b3a59.json)
 
 [Extended Data](ext_articles/392b3a59.ext.json)
-
----
-
-### Shan Wijayakalal has not been given to the general election
-
-*2024-10-08 13:09:55* · [`adalk`](https://www.ada.lk/breaking_news/ෂාන්-විජයලාලුත්-මහ-මැතිවරණයට-නොඑයි/11-412366) · `si`
-
-Shan Wijayakalal not contesting general election. Former UNP MP Ambalangoda Galle district. Informed Movement Secretary General. Fahan Vijayalal Silva continues political involvement despite not contesting. Shan previously supported SLFP, later abandoned. Served as Chief Minister Southern Province, Governor Eastern Province.
-
-🟩
-
-He said the Chief Observance of former UNP MP Ambalangoda electorate, Galle
-
-He said he was informed of the Secretary General of the Movement that he would not contest for the next parliamentary election in the future parliamentary general election.
-
-Fahan Vijayalal Silva says that he will continue to collate in politics, even if they are not competed in politics.
-
-Mr. Shan Wijaylal also secured the SLFP leader in the past general election and he was later abandoned by the Sri Lanka Freedom Party (SLFP) leader.
-
-He served as the Chief Minister of the Southern Province and was also the Governor of the Eastern Province.
-
-◼️
-
-[Data](articles/e018375d.json)
-
-[Extended Data](ext_articles/e018375d.ext.json)
-
----
-
-### Fire breaks out at building in Pettah
-
-*2024-10-08 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102527/fire-breaks-out-at-building-in-pettah) · `en`
-
-A fire has reportedly broken out on the third floor of a building on Maliban Street in Pettah.
-
-The Colombo Fire Brigade has managed to douse the flames after deploying seven fire trucks to the scene, Ada Derana reporter said.
-
-The building in question had been used as a storage facility, according to the reporter.
-
-However, the cause of the fire is yet to be determined while police have initiated investigations into the incident.
-
-◼️
-
-[Data](articles/7a9bbb09.json)
-
-[Extended Data](ext_articles/7a9bbb09.ext.json)
-
----
-
-### Sudden increase in HIV infection in Hambantota
-
-*2024-10-08 12:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டையில்-எச்-ஐ-வி-தொற்று-திடீர்-அதிகரிப்பு/175-345084) · `ta`
-
-HIV cases surge in Hambantota: 21 new infections reported, 87 total. Health officials warn of potential undiagnosed cases. Early detection possible before progression to AIDS.
-
-🟩
-
-Health officials are concerned about the rapid increase in HIV infected people this year in Hambantota district.
-
-A medical officer of the Hambantota District Milky Way Prevention Unit made this statement during a recent medical camp in Ambalangoda.
-
-He pointed out that this year's 21 HIV infected people have been identified and there may be more identified people.
-
-He said that a total of 87 patients have been identified in the Hambantota district, and most of them belong to the Suryawewa and Tissamaharama areas and may be still identified.
-
-The medical officer added that HIV is not an infected disease and can be detected at an early stage before growing in AIDS.
-
-◼️
-
-[Data](articles/32b9942f.json)
-
-[Extended Data](ext_articles/32b9942f.ext.json)
-
----
-
-### HIV Increase in Hambantota
-
-*2024-10-08 12:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டையில்-எச்-ஐ-வி-அதிகரிப்பு/175-345084) · `ta`
-
-Rapid HIV increase in Hambantota district. 21 new cases identified this year. Most in Suryawewa and Tissamaharama areas. Early detection crucial.
-
-🟩
-
-Health officials are concerned about the rapid increase in HIV infected people this year in Hambantota district.
-
-A medical officer of the Hambantota District Milky Way Prevention Unit made this comment to the media during a recent medical camp in Ambalangoda.
-
-He pointed out that this year's 21 HIV infected people have been identified and there may be more identified people.
-
-He said that a total of 87 patients have been identified in the Hambantota district, and most of them belong to the Suryawewa and Tissamaharama areas and may be still identified.
-
-The medical officer added that HIV is not a curable disease and can be detected at an early stage before developing AIDS.
-
-◼️
-
-[Data](articles/6d18ed2f.json)
-
-[Extended Data](ext_articles/6d18ed2f.ext.json)
-
----
-
-### 3 projects of the past regime
-
-*2024-10-08 12:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-ஆட்சியின்-3-திட்டங்கள்-நிறுத்தம்/175-345083) · `ta`
-
-Previous government's 3 projects suspended. National People's Council established. Agriculture modernization program implemented. Contract-based appointments ended by new President before September 30, 2024.
-
-🟩
-
-The Cabinet has decided to suspend the service of the authorities and advisers appointed on contract basis for the three projects initiated by the previous government.
-
-Steps have been taken to establish the 'National People's Council' to establish the 'National People's Council' under the Presidential Office and to implement a 'agriculture modernization program'.
-
-The previous government appointed officials and consultants on contract basis for these initiatives.
-
-However, as President Anura Kumara Dissanayake has taken steps to end the agreements before September 30, 2024, after the Ministers announced the Cabinet as the Ministries of these offices and programs are now in their hands.
-
-◼️
-
-[Data](articles/3b9ca89a.json)
-
-[Extended Data](ext_articles/3b9ca89a.ext.json)
-
----
-
-### National Janasabha Secretariat canceled
-
-*2024-10-08 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201948) · `si`
-
-National Janasabha Secretariat cancels projects. Cabinet suspends "Office of Sri Lanka" and "Niblri Navigation Program". Offices closed due to Presidential Secretariat approval. Contract-based positions terminated. Activities transferred to relevant ministries.
-
-🟩
-
-Cabinet spokesman Vijitha Herath says that the Cabinet has decided to cancel several projects implemented by the National Janasabha Secretariat.
-
-Accordingly, the office of the "Office of Sri Lanka" and the "Niblri Navigation Program" has been suspended for the presence of the Presidential Secretariat on the approval of the President.
-
-The National JHD secretary office was established to establish the Jana Sabha system to strengthen participating democracy.
-
-Officers / instructors have been appointed on contract basis for these projects.
-
-The Cabinet spokesman said that the activities of the offices and the program were implemented by the relevant ministries to implement the expected functions of the relevant Ministries and the services of the officers / counselors have been completed on the 30th September.
-
-The Cabinet of Ministers Vijitha Herath said that the Cabinet of Ministers Anura Kumara Dissanayake was informed of the matter.
-
-◼️
-
-[Data](articles/dc6f8bce.json)
-
-[Extended Data](ext_articles/dc6f8bce.ext.json)
-
----
-
-### New chairman is a new Chairman to the Sucade and Exchange Commission
-
-*2024-10-08 12:20:30* · [`adalk`](https://www.ada.lk/breaking_news/සුරකුම්පත්-සහ-විනිමය-කොමිෂන්-සභාවට-නව-සභාපතිවරයෙක්/11-412365) · `si`
-
-Harindra Dissandra named new Chairman of Sri Lanka Co-operations and Exchange Commission. He previously served as Director General of Sri Lanka and Capital Market Exchange Commission.
-
-🟩
-
-Senior Professor Harindra Dissandra has been appointed as the new Chairman of the Sri Lanka Co-operations and Exchange Commission.He was also the Director General of Sri Lanka and the Director General of the Sri Lankabeal and Exchange Commission of the Capital Market.
-
-◼️
-
-[Data](articles/565d9d1f.json)
-
-[Extended Data](ext_articles/565d9d1f.ext.json)
-
----
-
-### Govt launches probe into missing sections of Easter attacks investigation report - Minister
-
-*2024-10-08 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102525/govt-launches-probe-into-missing-sections-of-easter-attacks-investigation-report-minister) · `en`
-
-Cabinet Spokesman Minister Vijitha Herath assured that legal action will be taken against those involved in orchestrating and leading the Easter Sunday terror attacks.
-
-In response to a question raised by a journalist during today’s (08) Cabinet press conference regarding the government’s approach to the ongoing investigation, Minister Herath noted that a special probe is in place on how certain parts of the investigation committee’s report went missing.
-
-“We have initiated a special inquiry to uncover the full truth behind the Easter attack. We are investigating how certain parts of the committee’s [committee appointed to inquire into the attacks] report went missing, including how pages were lost during the process. The investigation is progressing according to procedure, and we are committed to providing the people with answers”, he said.
-
-...
-
-[Data](articles/507d8c61.json)
-
-[Extended Data](ext_articles/507d8c61.ext.json)
-
----
-
-### Sri Lanka to review Adani wind power plant after polls
-
-*2024-10-08 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-review-adani-wind-power-plant-after-polls-182779/) · `en`
-
-ECONOMYNEXT – Sri Lanka will review a wind power plant promoted by India’s Adani group after elections, as no policy decisions will be taken on projects in the transition period, Foreign Minister Vjitha Herath said.
-
-Sri Lanka will have to look at the pros and cons of the agreement where a special problem was the high unit price of the electricity, he said.
-
-Sri Lanka approved a negotiated a feed in tarrif of 8.26 cents per unit for the Adani wind plant in Mannar, which was sharply higher than other renewable plants which came on competitive tender.
-
-“We will not take any decision in the interim period,” Minister Herath told a post-cabinet press briefing.
-
-“On that we will have to act after the new government is in place. There are some information by the Public Utility Commission, there is a court case, there are views by CEB officials.”
-
-...
-
-[Data](articles/3bf44ec3.json)
-
-[Extended Data](ext_articles/3bf44ec3.ext.json)
-
----
-
-### Fire in the back of the fort;Video
-
-*2024-10-08 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டையில்-தீப்பரவல்-காணொளி/175-345082) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Fire erupts at Kadadasi stamp factory on Meliban Road, Parakkottai. Blaze spreading rapidly."
-
-🟩
-
-A fire broke out at a Kadadasi stamp on Meliban Road, Parakkottai. It is reported that the fire is underway.
-
-◼️
-
-[Data](articles/18368b44.json)
-
-[Extended Data](ext_articles/18368b44.ext.json)
 
 ---

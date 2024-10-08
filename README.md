@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 12:13:36**
+As of **2024-10-08 12:25:00**
 
 ## Newspaper Stats
 
-*Scraped **48,352** Articles*
+*Scraped **48,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ colombotelegraphcom | 478
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,472
+adalk | 4,473
 dailymirrorlk | 4,733
-adaderanalk | 5,697
+adaderanalk | 5,698
 tamilmirrorlk | 6,549
 virakesarilk | 7,738
-adaderanasinhalalk | 8,361
+adaderanasinhalalk | 8,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,352 (100.0%) of 48,352 articles have been extended.
+48,355 (100.0%) of 48,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Govt launches probe into missing sections of Easter attacks investigation report - Minister
+
+*2024-10-08 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102525/govt-launches-probe-into-missing-sections-of-easter-attacks-investigation-report-minister) · `en`
+
+Cabinet Spokesman Minister Vijitha Herath assured that legal action will be taken against those involved in orchestrating and leading the Easter Sunday terror attacks.
+
+In response to a question raised by a journalist during today’s (08) Cabinet press conference regarding the government’s approach to the ongoing investigation, Minister Herath noted that a special probe is in place on how certain parts of the investigation committee’s report went missing.
+
+“We have initiated a special inquiry to uncover the full truth behind the Easter attack. We are investigating how certain parts of the committee’s [committee appointed to inquire into the attacks] report went missing, including how pages were lost during the process. The investigation is progressing according to procedure, and we are committed to providing the people with answers”, he said.
+
+...
+
+[Data](articles/507d8c61.json)
+
+[Extended Data](ext_articles/507d8c61.ext.json)
+
+---
 
 ### Back line
 
@@ -50,6 +68,26 @@ A fire broke out at a Kadadasi stamp on Meliban Road, Parakkottai. It is reporte
 
 ---
 
+### What happened to the Passover commission report?
+
+*2024-10-08 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201947) · `si`
+
+Passover commission report status: Cabinet denies interference, claims investigation ongoing. Spokesman vows transparency and accountability.
+
+🟩
+
+Cabinet spokesman Vijitha Herath says that the Law will be implemented against the persons who intervened and operated the Passover attack.
+
+Addressing a question raised by a journalist who participated in the press briefing held in the press conference held today (08).
+
+...
+
+[Data](articles/38f1418d.json)
+
+[Extended Data](ext_articles/38f1418d.ext.json)
+
+---
+
 ### Sri Lanka to reject UNHRC draft resolution, uphold local reconciliation efforts
 
 *2024-10-08 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102524/sri-lanka-to-reject-unhrc-draft-resolution-uphold-local-reconciliation-efforts) · `en`
@@ -65,6 +103,26 @@ Furthermore, the Cabinet of Ministers has agreed that even though, the said prop
 [Data](articles/2bbfdcdc.json)
 
 [Extended Data](ext_articles/2bbfdcdc.ext.json)
+
+---
+
+### Constitutional Council will meet today
+
+*2024-10-08 11:42:33* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යවස්ථාදායක-සභාව-අද-රැස්වෙයි---අද-ගන්න-යන-අනුමැතිය-මෙන්න/11-412364) · `si`
+
+Constitutional Council meets today. Legislative Council convenes with Speaker Mahinda Yapa Abeywardena. Minister Vijitha Herath announces 2 pm session at Parliament Complex to approve IGP.
+
+🟩
+
+The Legislative Council is scheduled to meet with the Chairman of the Speaker Mahinda Yapa Abeywardena today (08th).
+
+Minister Vijitha Herath said that the meeting will be held at the Parliament complex at the Parliamentary Complex at 2 pm and seeks to approve of the IGP.
+
+◼️
+
+[Data](articles/95c7db41.json)
+
+[Extended Data](ext_articles/95c7db41.ext.json)
 
 ---
 
@@ -2131,71 +2189,5 @@ Accordingly, not acting in accordance with the above instructions is a punishmen
 [Data](articles/7f374e60.json)
 
 [Extended Data](ext_articles/7f374e60.ext.json)
-
----
-
-### Two Sri Lankan players among ICC Player Of The Month nominees
-
-*2024-10-07 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102514/two-sri-lankan-players-among-icc-player-of-the-month-nominees) · `en`
-
-The International Cricket Council (ICC) today named the shortlists for September’s ICC Player of the Month awards, celebrating the outstanding individual performances that took place across a bumper month of action in international cricket.
-
-The ICC Men’s Player of the Month candidates include three previous Player of the Month winners aiming to secure their second prize - two Sri Lankan Test stars, and a multi-format maestro from Australia.
-
-Travis Head aims to win his second ICC Men’s Player of the Month award after excelling with bat and ball in the shorter formats against Scotland and England in September. Joining him on the shortlist for the monthly award is Sri Lankan pair Prabath Jayasuriya and Kamindu Mendis. Jayasuriya shone with the spinning ball, while Mendis celebrated another set of landmarks with strong performances in their World Test Championship outings against England and New Zealand.
-
-...
-
-[Data](articles/65638214.json)
-
-[Extended Data](ext_articles/65638214.ext.json)
-
----
-
-### Name of Female Officer as the Director of the Criminal Investigation Department for the first time in history
-
-*2024-10-07 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195708) · `ta`
-
-Female officer named Director of Criminal Investigation Department for first time in history. Senior Superintendent Imesha Muthumalai nominated after joining police service in 2007.
-
-🟩
-
-For the first time in history, the name of a female officer has been nominated as the Director of the Criminal Investigation Department.
-
-Senior Superintendent of Police, Imesha Muthumalai, who is serving as the Deputy Director of the Criminal Investigation Department, has been nominated.
-
-It is noteworthy that he joined the Service as Assistant Superintendent of Police in 2007 and completed his Bachelor's Degree in Ruhunu University and the undergraduate degree in the Open University.
-
-◼️
-
-[Data](articles/e357ae1c.json)
-
-[Extended Data](ext_articles/e357ae1c.ext.json)
-
----
-
-### The candidates' assets of candidates should be given
-
-*2024-10-07 18:57:36* · [`adalk`](https://www.ada.lk/breaking_news/නාම-යෝජනා-පත්‍ර-සමග-අපේක්ෂකයන්ගේ-වත්කම්-බැරකම්-දිය-යුතුයි/11-412359) · `si`
-
-Candidates must disclose assets before elections. Election Commission requires candidates to submit financial statements. Non-compliance may result in legal consequences.
-
-🟩
-
-The Elections Commission states that the assets of the candidates contesting the parliamentary elections on the 14th of next month should be handed over with statements.
-
-The Commission points out that according to the anti-corruption Act, No. 09, No. 09 of the Policy Act, the election should be subscribed to the Selection Officers.
-
-All candidates of the recognized political parties and independent groups will be followed by nominations.
-
-In addition, the National List seat candidates should be handed over to the Election Commission with the policy of the Asset and Liability.
-
-It is said that accepting asset liabilities with nomination papers is a pandalistic offense.
-
-◼️
-
-[Data](articles/64d9a56e.json)
-
-[Extended Data](ext_articles/64d9a56e.ext.json)
 
 ---

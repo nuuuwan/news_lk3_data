@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 18:59:15**
+As of **2024-10-08 19:22:47**
 
 ## Newspaper Stats
 
-*Scraped **48,411** Articles*
+*Scraped **48,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,66 @@ bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,486
+adalk | 4,487
 dailymirrorlk | 4,733
 adaderanalk | 5,709
-tamilmirrorlk | 6,565
-virakesarilk | 7,738
+tamilmirrorlk | 6,566
+virakesarilk | 7,747
 adaderanasinhalalk | 8,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,411 (100.0%) of 48,411 articles have been extended.
+48,422 (100.0%) of 48,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Excavation work in search of LTTE weapons at Mullivaikkal
+
+*2024-10-08 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195803) · `ta`
+
+LTTE weapon excavation underway in Mullivaikkal East, Mullaitivu District. Police team from Colombo conducting searches under court permission.
+
+🟩
+
+The excavation work is being carried out at the Mullivaikkal East in the Mullaitivu District of the Mullaitivu District, reports that the LTTE is buried in the East of the Mullivaikkal East.
+
+The excavation work with the permission of the Colombo Court is being carried out by a police team from Colombo.
+
+◼️
+
+[Data](articles/e5b06a0f.json)
+
+[Extended Data](ext_articles/e5b06a0f.ext.json)
+
+---
+
+### For the former minister's residence to school
+
+*2024-10-08 18:48:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சரின்-இல்லம்-பாடசாலைக்கு/175-345106) · `ta`
+
+Former Agriculture Minister Mahinda Amaraweera hands over official residence to Sirimavo Bandaranaike Vidyalaya in Colombo after recent coup.
+
+🟩
+
+Former Agriculture Minister Mahinda Amaraweera has handed over his official residence on the Page Road in Colombo to the Sirimavo Bandaranaike Vidyalaya, Colombo.
+
+The former minister has vacated his official residence today in accordance with the recent coup.
+
+Commenting on the media, Mahinda Amaraweera said that he had proposed the proposal to the Sirimavo Bandaranaike Vidyalaya.
+
+He said that the Cabinet approval by the former government has been completed and all the necessary documents for the transfer have been completed and the school can now be used.
+
+◼️
+
+[Data](articles/03ac56c3.json)
+
+[Extended Data](ext_articles/03ac56c3.ext.json)
+
+---
 
 ### Sri Lanka’s new government pledges review of Adani Wind Project
 
@@ -74,6 +118,32 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### US support for economic growth in Sri Lanka
+
+*2024-10-08 17:55:51* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ආර්ථික-වර්ධනයට-ඇමෙරිකාවේ-සහාය/11-412376) · `si`
+
+US President Joe Biden supports Sri Lanka's economic growth, emphasizing cooperation for stability, prosperity, and progress. He expresses optimism about strengthening bilateral relations under President Anura Kumara Dissanayake's leadership.
+
+🟩
+
+US President Joe Biden has joined President Anura Kumara Dissanayake.
+
+Joe Biden, who contested the long-standing relationship between Sri Lanka, has given him a greeting President Anura Kumara Dissanayake to continue the democratic of Sri Lanka and maintain the last presidential and post presidential season.Available.
+
+US President Biden states:. "This election highlights the public commitment to conform to their future through the foundation of the energy and democracy in Sri Lanka.
+
+President Joe Biden has also emphasized the importance of enhancing cooperation between the United States and Sri Lanka to acquire stability, prosperity and progress to all Sri Lankan citizens.
+
+The US President has also emphasized the importance of cooperation between the two countries to acquire stability, prosperity and progress to all Sri Lankan citizens.. President Bideman expressed optimism on strengthening bilateral relations under the leadership of President Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/c19c6a06.json)
+
+[Extended Data](ext_articles/c19c6a06.ext.json)
+
+---
+
 ### US assistance to strengthen the economy of Sri Lanka
 
 *2024-10-08 17:49:37* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ආර්ථිකය-ශක්තිමත්-කිරීමට-ඇමෙරිකාවේ-සහාය/11-412375) · `si`
@@ -104,6 +174,82 @@ The United States has agreed to support any support for a good governance and to
 
 ---
 
+### Mullaitivu - A shop in Chilawatte
+
+*2024-10-08 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195797) · `ta`
+
+Shop burns in Mullaitivu; police investigate cause. State bus driver helps extinguish flames. Electricity Board and Forensic Police involved in investigation.
+
+🟩
+
+A shop in Mullaitivu, Chilawatte, was burnt in the early hours of Tuesday (08).
+
+A grocery store in front of the Mullaitivu Silawatta market and a reservoir that accompanied it was burnt.
+
+The state bus driver and the conductor observed this and brought the fire under the help of neighbors.
+
+However, the Mullaitivu police are conducting investigations at various angles, such as the planned operation or the fire that caused it.
+
+The police said that the Electricity Board and the Forensic Police will carry out further raids.
+
+◼️
+
+[Data](articles/667adf3c.json)
+
+[Extended Data](ext_articles/667adf3c.ext.json)
+
+---
+
+### Balakrishnan Prasad Kumar appointed as the CWC's political and trade union organizer for the Kandy district
+
+*2024-10-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/195792) · `ta`
+
+Balakrishnan Prasad Kumar named CWC's political/trade union organizer for Kandy district. Appointed after discussions with party leaders. Previously served as senior organizer for CWC youth team. Event attended by CWC General Secretary Jeevan Thondaman, Chairman Senthil Thondaman, and Chairman Maruthapandi Rameswaran.
+
+🟩
+
+Balakrishnan Prasad Kumar has been appointed as the new political and trade union organizer of the CWC for the Kandy district on Tuesday (08).
+
+The status quo has been issued after a discussion with party high -ranking members today (08) at the CWC headquarters.
+
+It is also worth noting that the CWC leadership has completed the last 24 hours to meet the vacancy of the post of the top organizer in the Kandy district.
+
+It is noteworthy that Balakrishnan Prasad Kumar is a younger generation and has made his duty as a senior organizer of the CWC youth team for the Kandy district in the past.
+
+The event was presented by CWC General Secretary Jeevan Thondaman, Chairman Senthil Thondaman and Chairman Maruthapandi Rameswaran.
+
+◼️
+
+[Data](articles/a515ebc4.json)
+
+[Extended Data](ext_articles/a515ebc4.ext.json)
+
+---
+
+### A man arrested with illegal liquor in Negombo
+
+*2024-10-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/195796) · `ta`
+
+Negombo police arrest 44-year-old local man with 57 liters of illegal liquor in Talapotha area.
+
+🟩
+
+Negombo police said that a suspect was arrested on Monday (07) with illegal liquor in Talapotha area belonging to the Negombo Police Division.
+
+The suspect has been arrested in connection with information received by the Negombo police.
+
+The suspect is 44 -year -old, a native of Negombo, Talapotha.
+
+57 liters of 750 ml of illegal liquor has been seized from the arrested suspect.
+
+◼️
+
+[Data](articles/d3b95ccd.json)
+
+[Extended Data](ext_articles/d3b95ccd.ext.json)
+
+---
+
 ### Amended postal voting applications for general election is amended
 
 *2024-10-08 17:32:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේ-තැපැල්-ඡන්ද-අයදුම්පත්-භාර-ගැනීමේ-කාලය-සංශෝදනය-කෙරේ/11-412374) · `si`
@@ -121,6 +267,34 @@ Accordingly, the applications to be completed in midnight today (08) have been e
 [Data](articles/0d8bf3db.json)
 
 [Extended Data](ext_articles/0d8bf3db.ext.json)
+
+---
+
+### Parliamentary election;The Cafe Organization demands all political parties to give women the opportunity to select candidates
+
+*2024-10-08 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195794) · `ta`
+
+Cafe Organization calls for increased female youth representation in upcoming parliamentary elections. Senior politicians opting out, prompting request for more opportunities for underrepresented groups. Current low female representation (48%) cited as concern.
+
+🟩
+
+Senior politicians who have been involved in politics for many years have decided not to contest the upcoming general election this year.. Therefore, the Cafe Organization has requested all political parties to provide a significant place to women and youth when nominating nominations from each political party.
+
+We have observed that some people who have been elected to Parliament in the past have not done their duty as people's representatives.
+
+Moreover, the people express their wishes to the people elected by the respective party.
+
+Therefore, the Managing Director of the Cafe Organization, Marangi Aryavansa, urges all political parties to come forward to provide a significant opportunity for young people and women without selecting the accused by the public.
+
+The report issued to the media yesterday (07) and continued in the report.
+
+The majority of the voters in this country are seen as women. In that respect, it is especially 50% to 52%.
+
+...
+
+[Data](articles/5254db99.json)
+
+[Extended Data](ext_articles/5254db99.ext.json)
 
 ---
 
@@ -174,6 +348,28 @@ On October 11, 2013, the Attorney General has filed a lawsuit against the defend
 
 ---
 
+### Elections Commissioner General and Jaffna. Meeting between District Response Secretary and Elections Officer!
+
+*2024-10-08 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195790) · `ta`
+
+Saman Sri Ratnayake met Jaffna District Secretary Marudalingam Pradeepan today at the District Secretariat Government Agent's office. Discussion centered on the current nomination session and ongoing proceedings in Jaffna district for the upcoming parliamentary elections on November 14th. Deputy Commissioner Achuthan also attended.
+
+🟩
+
+Elections Commissioner Saman Sri Ratnayake met with Jaffna District Secretary and Electoral Officer Marudalingam Pradeepan today (08) at the District Secretariat Government Agent's office.
+
+The discussion was discussed on the current nomination session and the ongoing proceedings in the Jaffna district on the upcoming parliamentary elections to be held on the 14th of November.
+
+Deputy Commissioner of Elections Department. Achuthan also attended.
+
+◼️
+
+[Data](articles/06d121c0.json)
+
+[Extended Data](ext_articles/06d121c0.ext.json)
+
+---
+
 ### Postal Voting Application Date Prolongation
 
 *2024-10-08 17:21:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்களிப்பு-விண்ணப்பத்-திகதி-நீடிப்பு/175-345101) · `ta`
@@ -193,6 +389,54 @@ In order to avoid the delay in applications, on the 9th and 10th of October 2024
 [Data](articles/aa39c20a.json)
 
 [Extended Data](ext_articles/aa39c20a.ext.json)
+
+---
+
+### The event at the University of Vavuniya
+
+*2024-10-08 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/195788) · `ta`
+
+University of Vavuniya event summary: Sri Lanka Friendship Association sponsored gathering featuring Prof. Ri, Dr. Rajendran, and guest speakers including Indian Deputy Ambassador Sri V Ram Mahesh. Organized by Prof. A. Nandakumaran, attended by university officials and faculty members.
+
+🟩
+
+The University of Vavuniya, with the sponsorship of the Sri Lanka Sri Lanka Friendship Association, was held at the University of Vavuniya today (08).
+
+The event, which commenced at 9 am, Professor Ri, Doctor of the World War II Research Institute. Rajendran was a special speech.
+
+Prof. A. Nandakumaran organized the Vavuniya University Vice Chancellor. Indian Deputy Ambassador Sri V Ram Mahesh and University Business Studies Faculty of Business Studies Y. Nandakopan, Growing up and many others participated in the event.
+
+◼️
+
+[Data](articles/81ba1982.json)
+
+[Extended Data](ext_articles/81ba1982.ext.json)
+
+---
+
+### A man arrested with illegal liquor in Kandana
+
+*2024-10-08 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/195783) · `ta`
+
+Man arrested with 55 bottles of illicit liquor in Kandana. Suspect aged 56 from Habukoda area. Raid conducted based on confidential tip. Further investigation ongoing.
+
+🟩
+
+A suspect with illegal liquor in the Habukoda area of ​​Kandanai police division was arrested by the Northern Police Crime Unit of the Western Province on Monday (07).
+
+The suspect was arrested during a raid carried out on confidential information received by the Northern Police Crime Unit of the Western Province.
+
+The arrested suspect is 56 years old from Habukoda, Kandana.
+
+41 liters of 250 ml of liters (55 bottles) from the arrested suspect has been seized.
+
+Further investigations are being carried out by the Northern Police Crime Unit of the Western Province.
+
+◼️
+
+[Data](articles/3a081b8e.json)
+
+[Extended Data](ext_articles/3a081b8e.ext.json)
 
 ---
 
@@ -1312,6 +1556,36 @@ It is noteworthy that the scheme of providing lunch for students from 1st to fif
 
 ---
 
+### The impact of non -standard drugs and the need for the purchase law
+
+*2024-10-08 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/195734) · `ta`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Non-standard drugs purchased during Sri Lanka's economic crisis caused permanent vision loss in patients. Compensation cases are ongoing. Experts call for transparency in pharmaceutical purchases and stricter regulations. A new purchasing law is proposed to prevent future issues.
+
+🟩
+
+64 -year -old Makkari Rajaratnam, a native of Kandapalai, was admitted to the Nuwara Eliya General Hospital last year to address the sight of his left eye.
+
+After a cataract surgery on April 5, 2023, he returned home on April 6. Brednisolone, provided by the hospital at the time, used the ophthalmology.
+
+After its aftermath. He was admitted to the Colombo National Eye Hospital for further treatment on May 10.
+
+In an examination carried out at the time, the tragic news that Makkari Rajaratnam had permanently lost sight was published by the medical authorities.
+
+At the same time, 64 -year -old PA Nandasena from Aluthgama, Bandarawela was undergoing cataract surgery at the Nuwara Eliya General Hospital.. Upon his return home on April 6, the Britzisolon Azherad, provided by the hospital, started using the ophthalmology.
+
+...
+
+[Data](articles/78d93c76.json)
+
+[Extended Data](ext_articles/78d93c76.ext.json)
+
+---
+
 ### Minister Vijitha Herath clarifies new govt’s foreign relations policy
 
 *2024-10-08 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102523/minister-vijitha-herath-clarifies-new-govts-foreign-relations-policy) · `en`
@@ -2091,291 +2365,5 @@ Winds from the southwest at speeds of 25 - 35 km / h in the sea regions.
 [Data](articles/b91e5607.json)
 
 [Extended Data](ext_articles/b91e5607.ext.json)
-
----
-
-### Senior Professor Hareendra Dissabandara appointed SEC Chairman
-
-*2024-10-08 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102518/senior-professor-hareendra-dissabandara-appointed-sec-chairman) · `en`
-
-Senior Professor Hareendra Dissabandara has been appointed as the new Chairman of the Securities and Exchange Commission of Sri Lanka (SEC).
-
-He had previously served as SEC Director General from 2012-2013 as well as its Director of Financial Services Academy and Capital Market Education and Training Division from 2008-2012.
-
-Dissabandara is a Senior Professor of Finance and Corporate Governance in the Department of Finance of the Faculty of Management Studies and Commerce at the University of Sri Jayewardenepura.
-
-He obtained his B.Sc. in Management Special Degree from the University of Sri Jayewardenepura in 1993 and M.Sc. in Management (Finance) from the same university in 2000. He obtained his Ph.D. in Finance from Japan under the prestigious MONBUSHO (Japanese Government) scholarship in 2006.
-
-Professor Dissabandara takes over the reigns from Faizal Salieh, who had been appointed to the top post in the capital market regulatory body in February 2023 by then-President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/833ed7ad.json)
-
-[Extended Data](ext_articles/833ed7ad.ext.json)
-
----
-
-### Sri Lanka tax revenues up 43-pct, interest costs down to July 2024
-
-*2024-10-08 08:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-revenues-up-43-pct-interest-costs-down-to-july-2024-182729/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tax revenues grew 43 percent to 2,156 billion rupees in the seven months to July 2024, and the overall budget deficit fell steeply by 41 percent to 1,470 billion rupees, data published by the central bank shows.
-
-Tax revenues grew 43 percent to 2,156 billion rupees amid higher rates and also a pick up in economic growth made possible by monetary stability provided by the central bank by undershooting its high 5 percent inflation target.
-
-Tax revenues showed a gain from 5.0 of GDP last year to 6.3 percent of projected GDP this year in the seven months and total revenues went up to 6.9 percent of GDP from 5.5 percent.
-
-The IMF is pushing Sri Lanka to take its revenue to GDP ratio to around 15 percent.
-
-Meanwhile current expenditure was kept in check at 2,673 billion rupees up to July 2024, flat from 2,674.8 billion rupees, in an unusual phenomenon helped by monetary stability.
-
-...
-
-[Data](articles/1499ed0f.json)
-
-[Extended Data](ext_articles/1499ed0f.ext.json)
-
----
-
-### New Chairman of Securities and Exchange Commission
-
-*2024-10-08 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201941) · `si`
-
-Harindra Dissandra named SEC Chairman Sri Lanka. Previously Director General SEC. Appointed to lead regulatory body overseeing securities market.
-
-🟩
-
-Senior Professor Harindra Dissandra has been appointed as the Chairman of the Securities and Exchange Commission of Sri Lanka.
-
-Senior Professor Harindra Dissandra has previously served as the Director General of Securities and Exchange Commission.
-
-◼️
-
-[Data](articles/34a6081c.json)
-
-[Extended Data](ext_articles/34a6081c.ext.json)
-
----
-
-### Heavy showers above 100 mm expected today
-
-*2024-10-08 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102517/heavy-showers-above-100-mm-expected-today) · `en`
-
-The Intertropical Convergence Zone, where winds from the Northern Hemisphere and Southern Hemisphere converge, further affects the island’s weather, according to the Meteorology Department.
-
-Accordingly, showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts, it said.
-
-Showers or thundershowers will occur elsewhere at several places in the island during the afternoon or night.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, Central, Uva and Eastern provinces and in Galle, Matara and Puttalam districts.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/24064986.json)
-
-[Extended Data](ext_articles/24064986.ext.json)
-
----
-
-### Postal Voting Application Period Today is completed
-
-*2024-10-08 08:23:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்களிப்பு-விண்ணப்ப-காலம்-இன்றுடன்-நிறைவு/175-345066) · `ta`
-
-Postal voting application deadline today. Government officials must apply. Rejection doesn't excuse election duties. Chiefs ineligible unless directly involved. Failure to comply may result in fines or imprisonment.
-
-🟩
-
-The period of accepting applications for postal voting in the upcoming general election is due to end today.
-
-The Elections Commission said that all government officials and servants who could be appointed or appointed for parliamentary elections should apply to vote by mail.
-
-The Commission also said that the failure of the postal votes or the rejection of applications was not a reason to release the election duties due to some shortcomings.
-
-In addition, the Election Commission has instructed the chiefs of the Election Commission that those who are not directly related to the election are not eligible to vote votes and that such authorities do not apply for postal voting.
-
-The Elections Commission has advised that if they fail to act on these suggestions, the constitution will be fined or sentenced to 3 years in prison.. (A)
-
-◼️
-
-[Data](articles/7ec711a6.json)
-
-[Extended Data](ext_articles/7ec711a6.ext.json)
-
----
-
-### Monastery for the Supreme Court including the Commissioner General of Excise
-
-*2024-10-08 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201940) · `si`
-
-Supreme Court case: Monastery petition against Commissioner General of Excise. Motion to ban abroad. Bribery Commission Director General resigns. Fundamental rights petitions filed.
-
-🟩
-
-The Commissioner General of Excise M. M. M.. J. A motion has been presented in the Supreme Court as to issue a ban to issue a ban abroad, including Mr. Gunasiri.
-
-"Today, Ada Derana stated that the monsoon has been submitted by a resident of Nittambuwa.
-
-The monsoon has been submitted in relation to the petition filed by the Supreme Court and the respondents filed by the Supreme Court and the respondents by accusing the judiciary.
-
-Meanwhile, the Director General of Bribery and Corruption Commission has resigned from his post.
-
-His lawyers had informed the Supreme Court that the letter had been forwarded to the President yesterday (07).
-
-The informed of the fundamental rights petitions have been made by the Director General of Bribery or Corruption.
-
-Accordingly, the Supreme Court has granted permission to be heard and resign from the resignation of the respondents, reports say that the partners have not been told that it is necessary to consider.
-
-...
-
-[Data](articles/a0ce5bd0.json)
-
-[Extended Data](ext_articles/a0ce5bd0.ext.json)
-
----
-
-### Student and Student with the student and student from the GKU
-
-*2024-10-08 07:47:04* · [`adalk`](https://www.ada.lk/breaking_news/අල්ටෙයාර්-කුලු‍නෙන්-පැන්න-සිසුවා-හා-සිසුවිය-හා-නෙලුම්-කුලු‍නෙන්-පැන්න-සිසුවිය-මිතුරන්/11-412360) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Student commits suicide on 29th floor of Colombo Nelum Tower. Police investigate. Student reportedly struggled with depression after friend's similar suicide in Slave Island. Incident occurs in Kollupitiya, Colombo.
-
-🟩
-
-Police have commissioned the student who had committed suicide by the 29th floor of the Colombo Nelum Tower.
-
-Mes died in Kollupitiya, Kollupitiya, Colombo.
-
-The student also said that the student and a friend of the students and the student who had suffered suicide by the Slave Island Altar a few months ago and had suffered depression.
-
-◼️
-
-[Data](articles/12fd7b64.json)
-
-[Extended Data](ext_articles/12fd7b64.ext.json)
-
----
-
-### Student reveals from Lotus Tower
-
-*2024-10-08 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201939) · `si`
-
-Student found dead on 29th floor of Nelum Tower in Maradana. 16-year-old from Kollupitiya. Police investigation ongoing.
-
-🟩
-
-The police have revealed the students who were committed to the 29th floor of the Nelum Tower in the Maradana Police Division last evening.
-
-The victim is a 16 year old resident of Kollupitiya, police said.
-
-The school girl was a school study in Colombo in Colombo and had a schoolgirl studying in Colombo and had taken his suicide by going to the Nelum Fed.
-
-The student has also been a friend of the schoolgirl and the student who laid the miracle of the Slave Island Police Division a month ago, and her father said to the police that she was stressful.
-
-The delegation is held at the Colombo Police morgue and the Maradana Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f6176d70.json)
-
-[Extended Data](ext_articles/f6176d70.ext.json)
-
----
-
-### Women T20 Cricket World Cup: Why is the record Uppointment lost?
-
-*2024-10-08 07:23:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20jzpwrww1o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Women's T20 Cricket World Cup UAE 2024: Record overthrows lost due to LED lights, climate conditions, and stadium design affecting bowlers. Overthrow percentage decreased by 18% compared to previous years.
-
-🟩
-
-Women T20 Cricket World Cup: Why is the record Uppointment lost?
-
-The lovers of sports are now concerned about amazing tendency on the Women's T20 World Cup in the United Arab Emirate.
-
-It is about having an amazing trend on the sky losing over.
-
-By October 6, 62 overpoites were preserved in the tournament.
-
-Although there is a difficult situation to protect some overhead, the average is to be normal.
-
-In 2023, the tournament was held in this tournament, while 11 were lost. The average of its upperbone was 82%.
-
-The 2020 high served in the tournament was killed and 6 fired. Its average is 89%.
-
-85% of the UPD to preserve the Udaku in the year 2018.
-
-The 2024 Women's T20 World Cup was taken to the United Arab Emirates from Bangladesh by short notice due to civil unrest.
-
-The matches of Dubai and Sarja Hopered both stadiums, especially for the men's cricket matches.
-
-The United Arab Emirates have hosted a number of Indian Premier League (IPL) competitions in the 2020 matches since the 2020s.
-
-...
-
-[Data](articles/cf81c0bd.json)
-
-[Extended Data](ext_articles/cf81c0bd.ext.json)
-
----
-
-### Lock for a track on the Katunayake Highway
-
-*2024-10-08 07:03:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்க-நெடுஞ்சாலையின்-ஒரு-பாதைக்கு-பூட்டு/175-345064) · `ta`
-
-Here's a summary of "Lock for a track on the Katunayake Highway" in 200 characters:
-
-
-
-A security measure implemented along the Katunayake Highway to control unauthorized vehicle access. The lock system restricts entry points, enhancing road safety and reducing potential threats. It's part of Sri Lanka's efforts to secure major transportation routes.
-
-🟩
-
-◼️
-
-[Data](articles/fb729fcd.json)
-
-[Extended Data](ext_articles/fb729fcd.ext.json)
-
----
-
-### A life of life
-
-*2024-10-08 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201938) · `si`
-
-Family dispute leads to death in Wealalagama. Police investigation reveals wife used fabric to silence husband during argument. Wife arrested after incident reported to 119 center.
-
-🟩
-
-A family dispute has died due to a family dispute in the Wealalagama area in Nochchiyagama.
-
-The incident was reported yesterday (08) at night.
-
-Police officers have gone to travel to visit on a tip of the 119 centers that the family had a family dispute.
-
-While he was admitted to hospital while a person was unconscious and he was told that the person had died.
-
-It has been revealed that he was a person who was drunk with his wife and was a person who had a dispute with his wife and to their neighbors.
-
-Police say that police investigations have revealed that the wife had been unconscious by a piece of fabric to prevent his mouth to stop the death of the deceased.
-
-The remains were placed at the Nochchiyagama hospital morgue and the wife of the 42 year old delegation was arrested.
-
-◼️
-
-[Data](articles/125a6a79.json)
-
-[Extended Data](ext_articles/125a6a79.ext.json)
 
 ---

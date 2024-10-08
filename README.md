@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 21:58:59**
+As of **2024-10-08 22:13:30**
 
 ## Newspaper Stats
 
-*Scraped **48,434** Articles*
+*Scraped **48,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ dailymirrorlk | 4,733
 adaderanalk | 5,711
 tamilmirrorlk | 6,568
 virakesarilk | 7,747
-adaderanasinhalalk | 8,379
+adaderanasinhalalk | 8,380
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,434 (100.0%) of 48,434 articles have been extended.
+48,435 (100.0%) of 48,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Law was jailed for eight years in prison
+
+*2024-10-08 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201967) · `si`
+
+Lawyer jailed 8 years for fraud Colombo High Court Judge Adurdarandi verdict Senior State Counsel Lishan Ratnayake prosecution
+
+🟩
+
+Colombo High Court Judge Adurdarandi today (08) was held today (08).
+
+The disabled, which was mandatory, the compulsory, the disabled of eight years, subordinated the accused of Rs.
+
+The judge decided that the defendant had proved that the complaint was proved to be disrupted by a dead lawyer in a period of 10 years.
+
+As a result of the criminal deterioration of the legal people, the accused is a demand for the complaint, a request made by Senior State Counsel Lyln Ratnayake, who appeared to the complaint is a lesson to punish the complaint.
+
+The lawyer had filed a case against the accused with a false notice of a predictor of a lack of legal document, using a false notice license with a legal lawyer in Koswatte on the 11th of October 2013.
+
+The Attorney General has filed prosecuted in 2015 against the defendant's lawyer and decided that the judge had previously heard the charges against the accused.
+
+...
+
+[Data](articles/6f5ee319.json)
+
+[Extended Data](ext_articles/6f5ee319.ext.json)
+
+---
 
 ### Over 40,000 dengue cases reported in Sri Lanka so far in 2024
 
@@ -2347,31 +2375,5 @@ He was admitted to the hospital after a complaint was lodged at the police stati
 [Data](articles/b16a11cc.json)
 
 [Extended Data](ext_articles/b16a11cc.ext.json)
-
----
-
-### Mother -in -law: 35 pound jewelry robbery
-
-*2024-10-08 10:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியாரிடம்-வன்புணர்வு-35-பவுண்-நகை-கொள்ளை/175-345071) · `ta`
-
-Here's a 200-character summary:
-
-
-
-35-year-old woman's house burgled by 16-strong gang. Son-in-law sexually assaulted, robbed of £35k gold jewelry and cash. Victim's husband absent, daughter married elsewhere. Police notified Monday night.
-
-🟩
-
-A 35 -year -old mother -in -law's house in a lonely mother -in -law went with a 16 -member group of a son -in -law, who was sexually abused and robbed of 35 pound gold jewelery and money from the house.
-
-In the absence of the victim's husband, her (22) daughter is married and is living elsewhere and is living alone in her home.
-
-He was admitted to the hospital after a complaint was lodged at the police station on Monday night (07).
-
-◼️
-
-[Data](articles/edd13e77.json)
-
-[Extended Data](ext_articles/edd13e77.ext.json)
 
 ---

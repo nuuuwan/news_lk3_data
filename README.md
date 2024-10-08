@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 06:44:07**
+As of **2024-10-08 07:26:13**
 
 ## Newspaper Stats
 
-*Scraped **48,277** Articles*
+*Scraped **48,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,85 @@ dailyftlk | 3,247
 adalk | 4,467
 dailymirrorlk | 4,733
 adaderanalk | 5,689
-tamilmirrorlk | 6,529
+tamilmirrorlk | 6,534
 virakesarilk | 7,733
-adaderanasinhalalk | 8,351
+adaderanasinhalalk | 8,352
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,272 (100.0%) of 48,277 articles have been extended.
+48,281 (100.0%) of 48,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Bharat Arulzamy's departure from CWC
+
+*2024-10-08 06:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவிலிருந்து-பாரத்-அருள்சாமி-விலகல்/175-345063) · `ta`
+
+Bharat Arulzamy resigns as CWC VP and member. Sent letter to Jeevan Thondaman.
+
+🟩
+
+He sent his resignation letter to Jeevan Thondaman, General Secretary of the Ceylon Workers Congress yesterday evening.
+
+Accordingly, Bharat Arulzamy has announced that he will resign from the post of vice president and the basic membership of the party.. (A)
+
+◼️
+
+[Data](articles/8ac86ebd.json)
+
+[Extended Data](ext_articles/8ac86ebd.ext.json)
+
+---
+
+### Heavy rain
+
+*2024-10-08 06:19:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-பலத்த-மழை/175-345062) · `ta`
+
+Heavy rain warning: 100+mm expected in Sabaragamuwa, North Western provinces and parts of Galle, Matara, Kandy, Nuwara Eliya districts.
+
+🟩
+
+In some parts of the country, heavy rainfall is likely to occur over 100 millimeters, according to a renewed report issued by the Department of Meteorology.
+
+According to the report, there will be more than 100 mm of heavy rains in the top, Sabaragamuwa and North Western Provinces in some parts of Galle, Matara, Kandy and Nuwara Eliya districts.. (A)
+
+◼️
+
+[Data](articles/6690fa40.json)
+
+[Extended Data](ext_articles/6690fa40.ext.json)
+
+---
+
+### Showers over 100 mm
+
+*2024-10-08 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201937) · `si`
+
+Heavy showers expected in Western, Sabaragamuwa, North Western provinces and Galle, Matara districts. Thunderstorms possible tonight. Public advised to be cautious due to strong winds and lightning.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces and at times in the Galle and Matara districts today (08).
+
+The departments say that showers or thundershowers will occur at night in the evening or night in the rest of the island.
+
+MM in the Western, Sabaragamuwa, Central, Uva and Eastern Provinces, Galle, Matara and Puttalam Districts. The Met Department announced heavy showers exceeding over 100.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+The Department of Meteorology further states that the weather in the island is still influenced by the weather in the island.
+
+◼️
+
+[Data](articles/c9e59b31.json)
+
+[Extended Data](ext_articles/c9e59b31.ext.json)
+
+---
 
 ### England progresses to the top spot by defeating South Africa in the Women's R20 World Cup
 
@@ -93,6 +159,30 @@ He was speaking at a media briefing at the Sri Lanka Cricket Headquarters this a
 ---
 
 ### 2024-10-07 (Monday)
+
+### Taxpore account freeze,
+
+*2024-10-07 23:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-ஏய்ப்போரின்-கணக்கு-முடக்கம்/175-345058) · `ta`
+
+Taxpore account freeze: Authorities to collect tax packs by year-end. Failure to pay may result in frozen bank accounts and asset seizure. Identify tax collectors; only accept official ID cards, not checks or cash payments.
+
+🟩
+
+The Deputy Commissioner of Internal Affairs, N. N. Nu, said that the maximum steps will be taken to collect the tax packs by the end of this year and that if there are no taxpayers, they have the authority to freeze their bank accounts and confiscate the assets.. M.. My. S.. B.. Dissanayake mentioned.
+
+However, he urged the identity of the tax -charging authorities and not to pay the arrears as a check or cash.
+
+“From today, our authorities will come to charge pending taxes. Find out who those officers are. They should wear the identity card of our department. They will never accept checks or money or anything.
+
+If the taxes are pending by the end of this year, the maximum steps will be taken to charge all of them. We have the authority to block bank accounts and confiscate property when followed by the law. ”. Remble
+
+◼️
+
+[Data](articles/224ada9e.json)
+
+[Extended Data](ext_articles/224ada9e.ext.json)
+
+---
 
 ### Taxpayer's bank account freezing, confiscation of assets
 
@@ -330,6 +420,8 @@ President Dissanayake highlighted the importance of promoting tourism in the Nor
 
 [Data](articles/d196129e.json)
 
+[Extended Data](ext_articles/d196129e.ext.json)
+
 ---
 
 ### More than 100 millimeters of rain;Landslides alert in many places!
@@ -375,6 +467,32 @@ Residents in the affected areas are advised to be vigilant and take necessary pr
 [Data](articles/303dd5bc.json)
 
 [Extended Data](ext_articles/303dd5bc.ext.json)
+
+---
+
+### Jeep discovery of the politician
+
+*2024-10-07 21:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்வாதிக்கு-சொந்தமான-ஜீப்-கண்டுபிடிப்பு/175-345056) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Luxury Jeep discovered hidden in private power plant complex. Suspected owned by high-ranking politician in Badulla-Lunugala area. Vehicle had license plates from a small car registered in Jaffna.
+
+🟩
+
+A luxury jeep, suspected of belonging to a high -ranking politician in the Badulla - Lunugala area, has been found by police.
+
+The jeep was found hidden in the private power plant complex.
+
+It is worth noting that the digit plates of a small car registered for a living in Jaffna. Remble
+
+◼️
+
+[Data](articles/33f616ad.json)
+
+[Extended Data](ext_articles/33f616ad.ext.json)
 
 ---
 
@@ -549,6 +667,26 @@ He has submitted his resignation letter as he has submitted a fundamental rights
 [Data](articles/54822e3e.json)
 
 [Extended Data](ext_articles/54822e3e.ext.json)
+
+---
+
+### Director General resigns
+
+*2024-10-07 19:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்பாளர்-நாயகம்-இராஜினாமா/175-345054) · `ta`
+
+Director General resigns from Commission to Investigate Bribery and Corruption. Submits resignation due to filing fundamental rights violation petition against Director General Kanishka Wijeratne's appointment. Hands over resignation letter to President Anura Kumara Dissanayake.
+
+🟩
+
+Director General of the Commission to Investigate Bribery and Corruption has handed over his resignation letter to President Anura Kumara Dissanayake.
+
+He has submitted his resignation letter as he has submitted a fundamental rights violation petition in the Supreme Court regarding the appointment of Director General of the Bribery Commission, Kanishka Wijeratne.. Remble
+
+◼️
+
+[Data](articles/ee078bab.json)
+
+[Extended Data](ext_articles/ee078bab.ext.json)
 
 ---
 
@@ -2235,125 +2373,5 @@ And on Monday, Hamas showed that it was still putting up a fight. It launched ro
 [Data](articles/3533ecca.json)
 
 [Extended Data](ext_articles/3533ecca.ext.json)
-
----
-
-### The challenge confronting Anura Kumara
-
-*2024-10-07 14:19:00* · [`islandlk`](http://island.lk/the-challenge-confronting-anura-kumara/) · `en`
-
-Anura rose from the humblest of origins to the pinnacle power. In the months to come more lyrical and elegant commentators than this one will serenade this young man’s story and compare it to the expedition that America’s greatest president undertook from log-cabin to White House. An astonishing matter is that the promises Anura gave the nation at the time he was sworn-in was very long; good governance, punishment of corrupt politicos and hangers-on, prosecution of malignant officials, unification of the nation and abolition of racism.
-
-His great American predecessor rather more pithily summed it up in a few words “government of the people, by the people, for the people”. He engaged in war for two inseparable objectives: “To consecrate a portion of the field for those who gave their lives so that the nation might live” and secondly to lay the ground for the Proclamation of Emancipation on January 1, 1863.
-
-...
-
-[Data](articles/c47484fd.json)
-
-[Extended Data](ext_articles/c47484fd.ext.json)
-
----
-
-### Sri Lanka inks US$200mn World Bank loan for budget support
-
-*2024-10-07 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-inks-us200mn-world-bank-loan-for-budget-support-182637/) · `en`
-
-ECONOMYNEXT – Sri Lanka has signed an agreement for a 200 million dollar budget support loan with the World Bank linked to economic reforms in debt management, banking and female empowerment, the Washington-based lender said.
-
-This is the second part of the Resilience, Stability, and Economic Turnaround (RESET) Development Policy Operation (DPO). The first part, totaling $500 million, was disbursed in June and December 2023.
-
-“Sri Lanka will now have the opportunity to focus on maintaining its hard-earned stability and investing in the private sector to transform the national growth trajectory,” said David Sislen, World Bank Regional Country Director for Maldives, Nepal, and Sri Lanka.
-
-“Doing so is vital to boosting economic growth, creating jobs, and ensuring that everyone benefits from a stronger, more resilient economy.”
-
-...
-
-[Data](articles/482932cb.json)
-
-[Extended Data](ext_articles/482932cb.ext.json)
-
----
-
-### $ 200 million from the World Bank
-
-*2024-10-07 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201920) · `si`
-
-World Bank provides $200 million to Sri Lanka under Economic Reform Assistance Program. This funding complements previous $500 million allocation in June and December 2023.
-
-🟩
-
-Sri Lanka and the World Bank have signed the agreement to provide another $ 200 million under the Economic Reform Assistance Program in Sri Lanka.
-
-The World Bank opened $ 500 million in June and December, 2023 under this program.
-
-◼️
-
-[Data](articles/3bd281d5.json)
-
-[Extended Data](ext_articles/3bd281d5.ext.json)
-
----
-
-### Sanath Jayasuriya
-
-*2024-10-07 14:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/தலைமை-பயிற்றுவிப்பாளரானார்-சனத்-ஜயசூரிய/88-345039) · `ta`
-
-Sanath Jayasuriya named Sri Lanka cricket team chief coach from Oct 2024 to Mar 2026. Decision based on team's performance in India, England, New Zealand competitions.
-
-🟩
-
-Sri Lanka Cricket has officially announced on Monday (07) that former Sri Lankan cricket captain Sanath Jayasuriya has been appointed as the chief coach of the Sri Lanka National Cricket Team.
-
-He has been appointed from October 2024 to 31 March 2026.
-
-Earlier, the Sri Lanka Cricket Executive Committee has taken the decision to consider the skills that the Sri Lankan team have shown in the competitions in India, England and New Zealand.
-
-◼️
-
-[Data](articles/64f449b3.json)
-
-[Extended Data](ext_articles/64f449b3.ext.json)
-
----
-
-### Chief Instructor Sanath
-
-*2024-10-07 14:13:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உள்ளூர்-விளையாட்டு/தலைமை-பயிற்றுவிப்பாளர்-சனத்/88-345039) · `ta`
-
-Sanath Jayasuriya named Chief Coach of Sri Lanka National Cricket Team from Oct 2024 to Mar 2026. Decision based on team's performance in India, UK, and New Zealand competitions.
-
-🟩
-
-Sri Lanka Cricket has officially announced on Monday (07) that former Sri Lankan cricket captain Sanath Jayasuriya has been appointed as the chief coach of the Sri Lanka National Cricket Team.
-
-He has been appointed from October 2024 to 31 March 2026.
-
-Earlier, the Sri Lanka Cricket Executive Committee has taken the decision to consider the skills that the Sri Lankan team have made in the competitions in India, the UK and New Zealand.
-
-◼️
-
-[Data](articles/d3321d8e.json)
-
-[Extended Data](ext_articles/d3321d8e.ext.json)
-
----
-
-### Eelam People's Democratic Party
-
-*2024-10-07 14:07:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈழ-மக்கள்-ஜனநாயகக்-கட்சி-வேட்புமனு-தாக்கல்/175-345038) · `ta`
-
-Eelam People's Democratic Party nominates for Jaffna parliamentary election under Douglas Devananda's leadership.
-
-🟩
-
-The Eelam People's Democratic Party filed a nomination for the upcoming parliamentary elections at the Jaffna District Secretariat on Monday (07).
-
-It is noteworthy that the Eelam People's Democratic Party is contesting in the Jaffna electoral district under the leadership of Douglas Devananda, former minister of the party and party secretary.
-
-◼️
-
-[Data](articles/644118a4.json)
-
-[Extended Data](ext_articles/644118a4.ext.json)
 
 ---

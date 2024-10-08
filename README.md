@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 10:23:14**
+As of **2024-10-08 10:38:52**
 
 ## Newspaper Stats
 
-*Scraped **48,324** Articles*
+*Scraped **48,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 478
 islandlk | 2,860
 economynextcom | 2,954
 dailyftlk | 3,267
-adalk | 4,469
+adalk | 4,470
 dailymirrorlk | 4,733
 adaderanalk | 5,693
-tamilmirrorlk | 6,540
+tamilmirrorlk | 6,541
 virakesarilk | 7,733
 adaderanasinhalalk | 8,358
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,320 (100.0%) of 48,324 articles have been extended.
+48,323 (100.0%) of 48,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### 35 pound jewelry robbery to mother -in -law
+
+*2024-10-08 10:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியாரிடம்-சேஷ்டை-35-பவுண்-நகை-கொள்ளை/175-345071) · `ta`
+
+Mother-in-law robbed of £35k jewelry by 16-strong gang led by son-in-law. Victim hospitalized after reporting incident to police.
+
+🟩
+
+A 35 -year -old mother -in -law's house in a lonely mother -in -law went with a 16 -member group of a son -in -law, who was sexually abused and robbed of 35 pound gold jewelery and money from the house.
+
+In the absence of the victim's husband, her (22) daughter is married and is living elsewhere and is living alone in her home.
+
+He was admitted to the hospital after a complaint was lodged at the police station on Monday night (07).
+
+◼️
+
+[Data](articles/b16a11cc.json)
+
+[Extended Data](ext_articles/b16a11cc.ext.json)
+
+---
 
 ### Prison regulator's illegal work
 
@@ -1424,6 +1446,8 @@ Speaking to me soon after, a colleague ruminated as to whether this was a routin
 
 [Data](articles/a818b85f.json)
 
+[Extended Data](ext_articles/a818b85f.ext.json)
+
 ---
 
 ### Police warn Sri Lanka property owners of renting after financial scams
@@ -1459,6 +1483,8 @@ President Dissanayake will ask the people who elected him as President to give h
 ...
 
 [Data](articles/30a5dd52.json)
+
+[Extended Data](ext_articles/30a5dd52.ext.json)
 
 ---
 
@@ -1563,6 +1589,26 @@ It is noteworthy that he joined the Service as Assistant Superintendent of Polic
 [Data](articles/e357ae1c.json)
 
 [Extended Data](ext_articles/e357ae1c.ext.json)
+
+---
+
+### නාම යෝජනා පත්‍ර සමග අපේක්ෂකයන්ගේ වත්කම් බැරකම් දිය යුතුයි
+
+*2024-10-07 18:57:36* · [`adalk`](https://www.ada.lk/breaking_news/නාම-යෝජනා-පත්‍ර-සමග-අපේක්ෂකයන්ගේ-වත්කම්-බැරකම්-දිය-යුතුයි/11-412359) · `si`
+
+ලබන මස 14 වැනි දින පැවැත්වෙන පාර්ලිමේන්තු මැතිවරණයට තරග කරන  අපේක්ෂකයන්ගේ  වත්කම් බැරකම් ප්‍රකාශ නාමයෝජනා පත්‍ර සමග භාර දිය යුතු බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+2023 අංක 09 දරන දූෂණ විරෝධී පනතට අනුව ඡන්ද විමසීම පැවැත්වෙන දිනය ප්‍රකාශයට පත් කළ  දිනයට තමන්ගේ වත්කම් බැරකම් ප්‍රකාශය තේරීම්භාර නිලධාරීන්ට භාර දිය යුතු බවද කොමිසම පෙන්වා දෙයි.
+
+නාමයෝජනා භාර දෙන පිළිගත් දේශපාලන පක්ෂ  හා ස්වාධීන කණ්ඩායම්වල සියලුම අපේක්ෂකයන් මෙය අනුගමනය කළ යුතුය.
+
+මීට අමතරව ජාතික ලැයිස්තු මන්ත්‍රී ධුර අපේක්ෂකයන් ද වත්කම් බැරකම් ප්‍රකාශ  නමයෝජනා පත්‍රය සමග  මැතිවරණ කොමිෂන් සභාවට භාර දිය යුතු බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+නාම යෝජනා පත්‍රය සමග වත්කම් බැරකම් ප්‍රකාශ භාරදීමට අපොහාසත්  වීම දණ්‍ඩනයකට යටත් විය යුතු වරදක් බවද සඳහන් කරයි.
+
+◼️
+
+[Data](articles/64d9a56e.json)
 
 ---
 
@@ -2195,63 +2241,5 @@ President Anura Kumara Dissanayake agreed to improve the tourism industry in the
 [Data](articles/2c72f539.json)
 
 [Extended Data](ext_articles/2c72f539.ext.json)
-
----
-
-### Attorney-at-law and the family were remanded for violence after an accident
-
-*2024-10-07 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201927) · `si`
-
-Lawyer, family remanded over accident: attorney assaulted driver, police officer; magistrate orders detention pending investigation.
-
-🟩
-
-The Kesbewa Acting Magistrate has ordered a lawyer who behaved at a timely accident and three members of her family to be remanded tomorrow after an accident in the Kesbewa Junction.
-
-The suspect's lawyer has been accused of assaulting a tipper driver and a police sergeant.
-
-A car was stopped near Polgasowita from Colombo yesterday at around 8.45 am yesterday (06) at the Kesbewa Junction.
-
-At the same time a tipper, which was on the back of the car, has collided.
-
-But even though it had happened to the back section of the car, but the driver of the car and two others were down.
-
-A police sergeant at the Kesbewa Police Station had gone to the place to control the traffic congestion at the Kesbewa junction.
-
-The daughter of the car driver who was arrested and taken to the police station regarding the attack on the accident had come there.
-
-Our correspondent stated that she was impulsive, saying, 'How can I take my father, you will not take my father, and you will not bring my dad. "
-
-...
-
-[Data](articles/211da1c2.json)
-
-[Extended Data](ext_articles/211da1c2.ext.json)
-
----
-
-### Awareness of breast cancer in Nuwara Eliya - Lindulai area
-
-*2024-10-07 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195705) · `ta`
-
-Nuwara Eliya Lindulai breast cancer awareness event summary: Health Officer Dr. Rishini led walking and street drama on main road from Lindulai to Hatton. Health officials distributed leaflets providing breast cancer information. Public participation encouraged.
-
-🟩
-
-Breast Cancer Awareness Walking and Awareness Street Drama was held in Lindulai on Monday (07) in the Nuwara Eliya Health Officer, Nuwara Eliya.
-
-Awareness on breast cancer was held under the patronage of Lindula Health Officer Dr. Rishini.
-
-Awareness and awareness drama started from Lindulai city and reached Lindulai on the main road of Hatton, Nuwara Eliya.
-
-It is noteworthy that the Lindula Health Workshop and Health Department officials, officials and the public were also present.
-
-In addition, awareness leaflets were also distributed and awareness information on breast cancer was provided.
-
-◼️
-
-[Data](articles/a2630515.json)
-
-[Extended Data](ext_articles/a2630515.ext.json)
 
 ---

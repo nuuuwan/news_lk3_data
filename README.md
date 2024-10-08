@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 09:24:12**
+As of **2024-10-08 09:38:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,301 (100.0%) of 48,318 articles have been extended.
+48,305 (100.0%) of 48,318 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,19 +48,31 @@ The Irbid Chamber is committed to supporting import and export operations and th
 
 [Data](articles/3fa8379d.json)
 
+[Extended Data](ext_articles/3fa8379d.ext.json)
+
 ---
 
-### 19 சீனப் பிரஜைகள் கைது
+### 19 Chinese citizens arrested
 
 *2024-10-08 08:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19-சீனப்-பிரஜைகள்-கைது/175-345067) · `ta`
 
-நாவல கொஸ்வத்தை பகுதியில் 19 சீன பிரஜைகள் குற்றப்புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-இணையவழி பண மோசடி குற்றச்சாட்டில் குறித்த சீன பிரஜைகள் தொடர்புபட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+
+"19 Chinese nationals detained in Nawala Koswatte. CID investigation ongoing."
+
+🟩
+
+19 Chinese citizens have been arrested by the Criminal Investigation Division in the Nawala Koswatte area.
+
+Chinese citizens are reported to have been involved. Remble
 
 ◼️
 
 [Data](articles/35c5b8d6.json)
+
+[Extended Data](ext_articles/35c5b8d6.ext.json)
 
 ---
 
@@ -512,6 +524,8 @@ Dissanayake leads the National People’s Power alliance (NPP), which includes h
 
 [Data](articles/e8256cda.json)
 
+[Extended Data](ext_articles/e8256cda.ext.json)
+
 ---
 
 ### Harini Amarasuriya: First among equals
@@ -525,6 +539,8 @@ South Asia is no stranger to women holding top positions of political power. Sri
 ...
 
 [Data](articles/67d48244.json)
+
+[Extended Data](ext_articles/67d48244.ext.json)
 
 ---
 

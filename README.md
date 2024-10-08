@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 13:58:40**
+As of **2024-10-08 14:12:37**
 
 ## Newspaper Stats
 
-*Scraped **48,363** Articles*
+*Scraped **48,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,267
 adalk | 4,475
 dailymirrorlk | 4,733
 adaderanalk | 5,699
-tamilmirrorlk | 6,552
+tamilmirrorlk | 6,554
 virakesarilk | 7,738
 adaderanasinhalalk | 8,364
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,363 (100.0%) of 48,363 articles have been extended.
+48,365 (100.0%) of 48,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Many will come through the national list
+
+*2024-10-08 13:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலர்-தேசிய-பட்டியல்-மூலம்-வருவார்கள்/175-345085) · `ta`
+
+Former MP from SJB party likely to enter parliament via national list this year. Party leader Sajith Premadasa to contest in Colombo district. Senior members, including general secretary, may also join through national list.
+
+🟩
+
+Former MP of the United People's Power (SJB) party is expected to come to parliament through the national list this year.. One said.
+
+Most of our senior members, including general secretary Ranjith Mathuma Bandara, are expected to come to parliament through the National List this year, said Kings Nelson, a former MP and Polonnaruwa district president Kings Nelson.
+
+However, party leader Sajith Premadasa will contest this time in the Colombo district, he said.
+
+◼️
+
+[Data](articles/10e83daa.json)
+
+[Extended Data](ext_articles/10e83daa.ext.json)
+
+---
 
 ### The increased fertilizer subsidy from Monday
 
@@ -97,6 +119,32 @@ The medical officer added that HIV is not an infected disease and can be detecte
 [Data](articles/32b9942f.json)
 
 [Extended Data](ext_articles/32b9942f.ext.json)
+
+---
+
+### HIV Increase in Hambantota
+
+*2024-10-08 12:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டையில்-எச்-ஐ-வி-அதிகரிப்பு/175-345084) · `ta`
+
+Rapid HIV increase in Hambantota district. 21 new cases identified this year. Most in Suryawewa and Tissamaharama areas. Early detection crucial.
+
+🟩
+
+Health officials are concerned about the rapid increase in HIV infected people this year in Hambantota district.
+
+A medical officer of the Hambantota District Milky Way Prevention Unit made this comment to the media during a recent medical camp in Ambalangoda.
+
+He pointed out that this year's 21 HIV infected people have been identified and there may be more identified people.
+
+He said that a total of 87 patients have been identified in the Hambantota district, and most of them belong to the Suryawewa and Tissamaharama areas and may be still identified.
+
+The medical officer added that HIV is not a curable disease and can be detected at an early stage before developing AIDS.
+
+◼️
+
+[Data](articles/6d18ed2f.json)
+
+[Extended Data](ext_articles/6d18ed2f.ext.json)
 
 ---
 
@@ -2183,47 +2231,5 @@ Commenting further, he said: “Until recently, the security arrangements for bo
 [Data](articles/b8b48f5b.json)
 
 [Extended Data](ext_articles/b8b48f5b.ext.json)
-
----
-
-### The Role Of Buddhist Monks In Reforming Sri Lanka
-
-*2024-10-07 21:13:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-role-of-buddhist-monks-in-reforming-sri-lanka/) · `en`
-
-Anura Kumara Dissanayake, following tradition, undertook a round-trip meeting with leading monks, visiting temples and places of worship after his election. This was also a necessary move to counter rivals’ claims that the NPP would not prioritize Buddhism.
-
-We are writing at a time when the yellow robe, which commands respect and reverence, seems to empower many monks to appear as custodians of the nation’s spiritual well-being. However, this role has come under increasing scrutiny. Over recent decades, some monks have diverged from their spiritual calling by becoming involved in politics, raising concerns about their role in society.
-
-The veneration for the yellow robe has, in many instances, been exploited. The respect associated with the robe has sometimes been leveraged to assert authority beyond spiritual matters, with monks engaging in activities unrelated to either mundane development or spiritual progress.
-
-...
-
-[Data](articles/7c57fe83.json)
-
-[Extended Data](ext_articles/7c57fe83.ext.json)
-
----
-
-### Bharat Arulzamy resigned from the Ceylon Workers Congress
-
-*2024-10-07 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195719) · `ta`
-
-Bharat Arulzamy resigns Ceylon Workers Congress Vice President position. Disagrees with contesting former MPs in elections. Criticizes party decisions prioritizing individual interests over public welfare. Expresses gratitude for contributions to party development in Kandy district.
-
-🟩
-
-Bharat Arulzamy has sent a letter of resignation from the post of Vice President of the Ceylon Workers Congress and the party's basic membership.
-
-He has made this decision because he is not ready to contest with the former MPs who have made a bankruptcy in the upcoming general election, despite the expectations of the people and the party members, and that they are not ready to contest with the people who have mortgaged the Kandyan people for their selfish politics.Said.
-
-In 2013, his father and himself worked tirelessly to obtain the Provincial Council membership in Kandy district.He has sent a letter of dismissal by saying that he has launched a number of programs through the government and NGOs, and that he is not ready to hear the election with the Ceylon Workers Congress and its leadership.
-
-He also pointed out that party decisions should be made for the benefit of the people and that the party should not make decisions only for the development of some individuals.
-
-...
-
-[Data](articles/bdcaff22.json)
-
-[Extended Data](ext_articles/bdcaff22.ext.json)
 
 ---

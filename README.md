@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 21:23:18**
+As of **2024-10-08 21:39:11**
 
 ## Newspaper Stats
 
-*Scraped **48,431** Articles*
+*Scraped **48,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,490
+adalk | 4,491
 dailymirrorlk | 4,733
 adaderanalk | 5,710
 tamilmirrorlk | 6,568
 virakesarilk | 7,747
-adaderanasinhalalk | 8,378
+adaderanasinhalalk | 8,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,431 (100.0%) of 48,431 articles have been extended.
+48,433 (100.0%) of 48,433 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Another drug fraud reveals
+
+*2024-10-08 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201966) · `si`
+
+Drug fraud revealed: Rs. 97 million loss. Bribery Commission ordered to investigate. Medical Supplies Division involved. Tender irregularities uncovered.
+
+🟩
+
+The Attorney General said the government had reportedly a loss of Rs. 97 million that the government had lost Rs.
+
+Accordingly, Maligakanda Magistrate Lokani Abeywickrema ordered the Bribery Commission to take further steps in connection with the complaint.
+
+The Criminal Investigation Department (CID) reported a fraud before the rejection of the Director of the Medical Supplies Division (Medical Supplies) in the administration of the Director of the Medical Supplies Division.
+
+Deputy Solicitor General Lakmini Girihagama, who spoke for the division, stated that the fraud had taken place when he was purchased.
+
+...
+
+[Data](articles/784cdf86.json)
+
+[Extended Data](ext_articles/784cdf86.ext.json)
+
+---
 
 ### High possibilities for heavy lightning
 
@@ -229,6 +253,34 @@ He said that the Cabinet approval by the former government has been completed an
 [Data](articles/03ac56c3.json)
 
 [Extended Data](ext_articles/03ac56c3.ext.json)
+
+---
+
+### Upul Tharanga arrest warrants
+
+*2024-10-08 18:46:24* · [`adalk`](https://www.ada.lk/breaking_news/උපුල්-තරංග-අත්අඩංගුවට-ගන්න-වරෙන්තු/11-412379) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Judge Ravindra Premaratne arrested for bribery related to cricket tournament. Upul Tharanga, Sri Lanka cricket team manager, accused. Case postponed until January next year due to witness unavailability. Foreign travel ban issued for key witness Yogi Patel.
+
+🟩
+
+Sampath High Court Judge Ravindra Premaratne, who was arrested by the Skarakara Selection Committee Chairman of the Karakatha Selection Committee, was arrested by the Bandaranaike International Airport at Bandaranaike International Airport today (08).
+
+Sri Lanka's first cricket team, a manager of the first cricket team at the Pallekele Cricket Tournament in the Pallekele International Cricket Tournament in the Pallekele Cricket Tournament in the Pallekele Cricket Tournament was held at the Pallekele Cricket TournamentThe judge was issued such warrants to concern the issues that were submitted.
+
+The judge also stated that the order of President Attorney-at-Law Runishi Arsakularatne appearing on behalf of him to remove the country's foreign travel ban on behalf of the country.
+
+The case was filed by the Attorney under the National Cricket Selection Committee Chairman of the National Cricket Selection Committee on March 08, between the 19th and January 19.
+
+...
+
+[Data](articles/637fee8e.json)
+
+[Extended Data](ext_articles/637fee8e.ext.json)
 
 ---
 
@@ -2321,51 +2373,5 @@ The body has been recovered by fellow workers and has been handed over to the Pe
 [Data](articles/628f1133.json)
 
 [Extended Data](ext_articles/628f1133.ext.json)
-
----
-
-### Arrested 19 Chinese citizens involved in financial fraud
-
-*2024-10-08 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195728) · `ta`
-
-Chinese nationals arrested for online financial fraud in Nawala area. Police detained 19 suspects based on CID intelligence.
-
-🟩
-
-Police said 19 Chinese nationals have been arrested in connection with the financial fraud on the Internet.
-
-The suspects have been arrested in Nawala area on information received by the Criminal Investigation Department officials.
-
-◼️
-
-[Data](articles/f9ba3c90.json)
-
-[Extended Data](ext_articles/f9ba3c90.ext.json)
-
----
-
-### Action to carry out cataract surgery in the north - medical expert M. Blossom
-
-*2024-10-08 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195729) · `ta`
-
-Cataract surgery initiative in Northern Province: 2,000 surgeries planned over 10 days, aiming to reduce waiting times significantly. Collaboration between hospitals and foundations to increase capacity. Goal to perform over 20,000 surgeries this year, compared to previous years' totals.
-
-🟩
-
-The Northern Province will carry out cataract surgery without a waiting list and 2 thousand cataracts will be carried out for 10 days.. Teaching Hospital Eye Expert. Malaravan said.
-
-International Vision Day, Jaffna. In the teaching hospital, we will be treating 2 thousand cataracts.
-
-This is the third time that the cataract surgery camp is being held at the Jaffna Teaching Hospital. This is the fourth time in the Northern Province.
-
-Even in SAARC countries without "Baco", such surgery camps are not conducted in Sri Lanka. Such eyeballs have been conducted in the North.
-
-For the first time we carried out 1200 surgery. Last year, we performed 1200 surgery in five days ahead of the "International Views Day - 2023" organized by the Ratnapura Hospital Friendship Forum.
-
-...
-
-[Data](articles/04fde42a.json)
-
-[Extended Data](ext_articles/04fde42a.ext.json)
 
 ---

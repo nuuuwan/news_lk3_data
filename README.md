@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 09:38:54**
+As of **2024-10-08 09:58:14**
 
 ## Newspaper Stats
 
-*Scraped **48,318** Articles*
+*Scraped **48,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 2,954
 dailyftlk | 3,267
 adalk | 4,469
 dailymirrorlk | 4,733
-adaderanalk | 5,692
-tamilmirrorlk | 6,538
+adaderanalk | 5,693
+tamilmirrorlk | 6,540
 virakesarilk | 7,733
 adaderanasinhalalk | 8,356
 
@@ -26,11 +26,85 @@ adaderanasinhalalk | 8,356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,305 (100.0%) of 48,318 articles have been extended.
+48,309 (100.0%) of 48,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Snake
+
+*2024-10-08 09:31:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்ஸில்-பதற்றத்தை-ஏற்படுத்திய-பாம்பு/175-345069) · `ta`
+
+A snake appeared on a bus traveling from Kurunegala to Mawathakama Madipokka. It was spotted under a seat near the back door, causing panic among passengers. The driver stopped the bus near a temple, but the snake disappeared before it could be removed. The bus continued its journey without the reptile.
+
+🟩
+
+It is reported that the snake was on a private bus traveling from Kurunegala to Mawathakama Madipokka yesterday morning.
+
+The bus departed from the Kurunegala main bus station at around 8 am yesterday and a few minutes later, there was a snake beneath the seat near the back door of the bus.
+
+At this time, a woman who saw the snake emerged from the bottom of the seat, was very scared and made a noise as 'snake .. pampa ..'.
+
+The driver, who saw the snake coming in front, stopped the bus near the Kurunegala Adkanda temple.
+
+After a while the snake on the bus was not found anywhere. However, even though the bus started the journey again. Remble
+
+◼️
+
+[Data](articles/de035976.json)
+
+[Extended Data](ext_articles/de035976.ext.json)
+
+---
+
+### 56 prisoners repatriated to Pakistan from Sri Lanka
+
+*2024-10-08 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102520/56-prisoners-repatriated-to-pakistan-from-sri-lanka) · `en`
+
+As many as 56 Pakistani nationals imprisoned in Sri Lankan jails were repatriated on Monday as a result of successful efforts by the Pakistani Ministry of Interior.
+
+A chartered plane was dispatched to bring the prisoners back to Pakistan. The repatriated Pakistani nationals include five women and 51 men. The repatriation followed three months of coordination between the Ministry of Interior, under the direction of Mohsin Naqvi and Sri Lankan authorities.
+
+Speaking on the occasion, one of the repatriate women thanked the government for bringing them back to the country. Another repatriate said that he was happy to be back in Pakistan after undergoing difficult circumstances during their imprisonment in Sri Lanka.
+
+Reacting to the return of Pakistani prisoners, Interior Minister Naqvi said that he is grateful to the Sri Lankan government and high commissioner for their role in the repatriation.
+
+...
+
+[Data](articles/55e9e330.json)
+
+[Extended Data](ext_articles/55e9e330.ext.json)
+
+---
+
+### Information on the death of the deceased student
+
+*2024-10-08 09:15:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-மாணவி-குறித்து-வெளியான-திடுக்கிடும்-தகவல்/175-345068) · `ta`
+
+Student dies from 29th floor of Lotus Tower in Colombo. 16-year-old from Kaluppitiya area. Attends international school in Colombo. Commits suicide by jumping. School friends also died recently. Father reports severe depression due to friend's death. Police investigating cause of death.
+
+🟩
+
+Police have released some information about a student who died from the 29th floor of the Lotus Tower in Colombo.
+
+A 16 -year -old student from Kaluppitti area has died in the incident, police said.
+
+The student was studying at an international school in Colombo in an international school in Colombo and had committed suicide by jumping from the 29th floor to the Lotus Tower at the end of the school.
+
+Meanwhile, the school's friends of the 15 -year -old girl and a boy who died from the 67th floor of the Odeyar Luxury Apartments in Kompanideru last July.
+
+In addition, her father has confessed to the police that the student was severely depressed by the death of friends.
+
+The body of the student is being investigated and the Colombo police are placed in the funeral room and the Maradana police are conducting further investigations.. Remble
+
+◼️
+
+[Data](articles/5a417799.json)
+
+[Extended Data](ext_articles/5a417799.ext.json)
+
+---
 
 ### Sri Lanka, Jordan explore commercial, investment prospects
 
@@ -81,6 +155,14 @@ Chinese citizens are reported to have been involved. Remble
 *2024-10-08 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102518/senior-professor-hareendra-dissabandara-appointed-sec-chairman) · `en`
 
 Senior Professor Hareendra Dissabandara has been appointed as the new Chairman of the Securities and Exchange Commission of Sri Lanka (SEC).
+
+He had previously served as SEC Director General from 2012-2013 as well as its Director of Financial Services Academy and Capital Market Education and Training Division from 2008-2012.
+
+Dissabandara is a Senior Professor of Finance and Corporate Governance in the Department of Finance of the Faculty of Management Studies and Commerce at the University of Sri Jayewardenepura.
+
+He obtained his B.Sc. in Management Special Degree from the University of Sri Jayewardenepura in 1993 and M.Sc. in Management (Finance) from the same university in 2000. He obtained his Ph.D. in Finance from Japan under the prestigious MONBUSHO (Japanese Government) scholarship in 2006.
+
+Professor Dissabandara takes over the reigns from Faizal Salieh, who had been appointed to the top post in the capital market regulatory body in February 2023 by then-President Ranil Wickremesinghe.
 
 ◼️
 
@@ -557,6 +639,8 @@ Alas this solution is no salvation. Much that was stolen never left us. Instead 
 ...
 
 [Data](articles/ad690b1c.json)
+
+[Extended Data](ext_articles/ad690b1c.ext.json)
 
 ---
 
@@ -1214,6 +1298,24 @@ He also pointed out that party decisions should be made for the benefit of the p
 
 ---
 
+### Anura   Kumara’s Ascendancy Inside the JVP and his  Political Rise  Within  Sri Lanka.
+
+*2024-10-07 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84866) · `en`
+
+Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka – Part Two
+
+Sri Lanka’s newly elected ninth executive president Anura Kumara Dissanayake (AKD) continues to be the focus of this column. In the first part of this article published last week, the early years of  Anura’s eventful life were delved into in some detail. In this week’s  second part,  AKD’s steady rise as a   political leader within the Janatha  Vimukthi  Peramuna (JVP) will be related to some extent.
+
+As stated in this column last week , the JVP’s second insurgency was ruthlessly suppressed by the Ranasinghe Premadasa regime. Tens of thousands of youths were killed or made to disappear. Thousands of youths were incarcerated for years. Hundreds of youths fled Sri Lanka for safety. Hundreds of youths avoided arrest  and possible execution while in Sri Lanka by changing identities and relocating elsewhere. Anura was among those who stayed in Lanka and evaded capture by going underground.
+
+...
+
+[Data](articles/2b0b9154.json)
+
+[Extended Data](ext_articles/2b0b9154.ext.json)
+
+---
+
 ### People should cooperate in the country's Renaissance Project
 
 *2024-10-07 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195710) · `ta`
@@ -1240,11 +1342,9 @@ In the last presidential election, our brother Anura Kumara Dissanayake supporte
 
 ---
 
-### 
+### On what legal basis did President Dissanayake call out the armed forces to maintain ‘public order?
 
 *2024-10-07 20:35:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84874) · `en`
-
-On what legal basis did President Dissanayake call out the armed forces to maintain ‘public order?
 
 Is the Anura Kumara Dissanayake (AKD) Presidency which came into power on a ‘reformist’ election platform able to legally justify the invocation of Section 12 of the Public Security Ordinance (PSO) using ‘special powers’ to call out the armed forces for the maintenance of public order?
 
@@ -2137,91 +2237,5 @@ At this moment, the film crew has released a video of the film's hero's birthday
 [Data](articles/cf9303d7.json)
 
 [Extended Data](ext_articles/cf9303d7.ext.json)
-
----
-
-### Foreign inflows into Sri Lanka’s govt securities up last week
-
-*2024-10-07 16:48:00* · [`economynextcom`](https://economynext.com/foreign-inflows-into-sri-lankas-govt-securities-up-last-week-182664/) · `en`
-
-ECONOMYNEXT – Foreign inflows into Sri Lanka’s government securities saw a slight increase last week, Central Bank data showed, as global investors are taking positions in emerging markets ahead of possible rate cuts by the U.S. Federal Reserves, dealers said.
-
-The foreign holding in Sri Lanka’s Treasury bills and Treasury bonds increased by around 4.4 billion rupees ($14.9 mln at 1 US dollar = 295 LKR) to 43.8 billion rupees in the week ended on October 3, the Central Bank data showed.
-
-“It’s mostly to do with global trends,” a currency dealer told EconomyNext.
-
-“The Fed is expected to cut rates and further cuts in 2025. So, investors are positioning themselves. We are getting the crumbs.”
-
-The new inflows also come after Sri Lanka witnessed a peaceful presidential polls that elected Marxists Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayake as the island nation’s president for a five-year tenure.
-
-...
-
-[Data](articles/4964847d.json)
-
-[Extended Data](ext_articles/4964847d.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 293.45/55 to dollar, bond yields steady
-
-*2024-10-07 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-45-55-to-dollar-bond-yields-steady-182692/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee continued to appreciate, closing at 293.45/55 to the US dollar Monday from 294.00/50 a day earlier, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 10.40/50 percent down from 10.50/65 percent.
-
-A bond maturing on 15.12.2027 closed at 11.50/60 percent from 10.50/65 percent.
-
-A bond maturing on 15.02.2028 closed at 11.65/75 percent down from 11.70/80 percent.
-
-A bond maturing on 15.09.2029 closed stable at 11.95/12.05 percent.
-
-A bond maturing on 15.05.2030 closed at 12.15/30 percent, from 12.15/25 percent. (Colombo/Oct7/2024)
-
-◼️
-
-[Data](articles/641e3d41.json)
-
-[Extended Data](ext_articles/641e3d41.ext.json)
-
----
-
-### Sri Lanka stocks close up, driven by banks
-
-*2024-10-07 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-banks-182662/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader All Share Index closed up 0.92 percent, or 111.15 points, at 12,164; while the more liquid S&P SL20 Index closed up 1.34 percent, or 47.58 points, at 3, 590.
-
-Top contributors to the ASPI were C T Holdings (up at 316.50), Sampath Bank (up at 83.00), Hatton National Bank (up at 218.50), John Keells Holdings (up at 189.00), and Commercial Bank (up at 106.50).
-
-Top turnover generators were Sampath Bank, Commercial Bank, Pan Asia Banking Corporation (up at 23.30), Waskaduwa Beach Resort (down at 2.10) and John Keells Holdings.
-
-Banking shares continued to see high volumes traded, with almost all closing up. The sector contributed 1.4 billion of the turnover.
-
-Conglomerates Hayleys (up at 100.25), and Melstacorp (up at 88.00) closed up. While Aitken Spence (down at 121.25) and Hemas Holdings (down at 79.00) were among the top five negative contributors to the ASPI.
-
-...
-
-[Data](articles/d5af197d.json)
-
-[Extended Data](ext_articles/d5af197d.ext.json)
-
----
-
-### Schoolgirl dies after falling from Lotus Tower
-
-*2024-10-07 16:45:22* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්-කුළුනෙන්-වැටී-පාසල්-සිසුවියක්-ජීවිතක්ෂයට/11-412350) · `si`
-
-A schoolgirl died after falling from the Lotus Tower in Sri Lanka. The incident occurred during a field trip. Authorities are investigating the cause of the fall.
-
-🟩
-
-◼️
-
-[Data](articles/60c7eb14.json)
-
-[Extended Data](ext_articles/60c7eb14.ext.json)
 
 ---

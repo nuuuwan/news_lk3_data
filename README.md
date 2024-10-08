@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 06:08:24**
+As of **2024-10-08 06:44:07**
 
 ## Newspaper Stats
 
-*Scraped **48,266** Articles*
+*Scraped **48,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 396
 bbccomsinhala | 477
 colombotelegraphcom | 478
-islandlk | 2,849
+islandlk | 2,860
 economynextcom | 2,954
 dailyftlk | 3,247
 adalk | 4,467
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,266 (100.0%) of 48,266 articles have been extended.
+48,272 (100.0%) of 48,277 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -122,6 +122,120 @@ If the taxes are pending by the end of this year, the maximum steps will be take
 
 ---
 
+### A show not to be missed, says Suzi
+
+*2024-10-07 23:32:00* · [`islandlk`](http://island.lk/a-show-not-to-be-missed-says-suzi/) · `en`
+
+Singer Suzie Croner, who is now a popular figure in the entertainment scene, in her hometown of Zurich, in Switzerland, was in contact with The Island to elaborate on her plans when she travels to Australia later this month for ‘Country Night’ to be held in Melbourne on 26th October.
+
+Referring to last week’s article ‘More excitement for Sri Lankans in Melbourne’, Suzi said that it’s certainly going to be a happening scene on 26th October.
+
+“I wasn’t 100 percent fit when I last performed in Australia, and that was in October 2023.
+
+“I fell sick and had a bad throat, but I still sang, and, jokingly, she added: “Perhaps I would have sounded like those roosters crowing in the morning cock-a-doodle-doo!”
+
+“I was in bed for 11 days, but I did perform as I couldn’t disappoint the crowd; the show had to go on.
+
+...
+
+[Data](articles/5d800bbd.json)
+
+[Extended Data](ext_articles/5d800bbd.ext.json)
+
+---
+
+### Back on stage…
+
+*2024-10-07 23:30:00* · [`islandlk`](http://island.lk/back-on-stage/) · `en`
+
+The very first time music lovers here had the opportunity of experiencing the singing capabilities of Kay Jay was when she teamed up with her father, the late Ivan Jayaratne, and operated as a duo.
+
+The father and daughter combination turned out to be quite popular, and, before long, Kay Jay found herself doing vocals for some of the leading bands, in the local scene, during that era, including Dream Team, 20th Century and Cardinal Outburst.
+
+Later, Kay Jay operated as a solo artiste before deciding to seek new pastures abroad.
+
+Kay Jay had to curtail her musical career, when she got to Germany, as she got involved in the beauty industry…having her own beauty salon in Germany and now in Switzerland, as well.
+
+In addition to her beauty salons, Kay Jay has also come up with her own beauty products – Kay Jay cosmetics.
+
+...
+
+[Data](articles/368a035d.json)
+
+[Extended Data](ext_articles/368a035d.ext.json)
+
+---
+
+### The role of Management Accountants in economic development
+
+*2024-10-07 23:15:00* · [`islandlk`](http://island.lk/the-role-of-management-accountants-in-economic-development/) · `en`
+
+Qualified Mmanagement Accountants make a substantial influence to the economy at both national and international levels. It is important to understand as to how they contribute towards the growth of an organization as well as the development of a country.
+
+...
+
+[Data](articles/d57a5cf2.json)
+
+[Extended Data](ext_articles/d57a5cf2.ext.json)
+
+---
+
+### Hotel Emporium CEO recognised at inaugural World Sustainable Travel & Hospitality Awards
+
+*2024-10-07 23:14:00* · [`islandlk`](http://island.lk/hotel-emporium-ceo-recognised-at-inaugural-world-sustainable-travel-hospitality-awards/) · `en`
+
+Andy de Silva Receives Prestigious World’s Leading Sustainability Leader of Tomorrow 2024 Award
+
+Hotel Emporium, the leading direct manufacturer of premium hotel amenities is proud to announce that its Co-Founder and CEO, Andy de Silva has been honoured with the prestigious ‘World’s Leading Sustainability Leader of Tomorrow 2024’ award at the inaugural World Sustainable Travel & Hospitality Awards. This marks the first time a Sri Lankan has received such recognition in sustainable travel, highlighting Andy’s commitment to environmental stewardship in the global hospitality industry.
+
+...
+
+[Data](articles/9fe3e5bb.json)
+
+[Extended Data](ext_articles/9fe3e5bb.ext.json)
+
+---
+
+### Tireless CEAT dealers celebrate their successes in Bangkok and Pattaya
+
+*2024-10-07 23:13:00* · [`islandlk`](http://island.lk/tireless-ceat-dealers-celebrate-their-successes-in-bangkok-and-pattaya/) · `en`
+
+Top-performing tyre dealers who exceeded their targets for the sale of truck and bus tyres were rewarded with a fun-filled holiday in Thailand recently by CEAT Kelani Holdings, Sri Lanka’s leading tyre manufacturer.
+
+A total of 31 dealers qualified for the tour. Participants including dealers and representatives of CEAT’s Sales & Marketing Division along with members of the senior management of CEAT spent four days in Pattaya and Bangkok celebrating the sales achievements for the specified period – February to April 2024.
+
+Hotel Emporium CEO recognised at inaugural World Sustainable Travel & Hospitality Awards
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/a4723a79.json)
+
+[Extended Data](ext_articles/a4723a79.ext.json)
+
+---
+
+### Positive debt restructuring developments give share market added impetus
+
+*2024-10-07 23:11:00* · [`islandlk`](http://island.lk/positive-debt-restructuring-developments-give-share-market-added-impetus/) · `en`
+
+The stock market was extremely bullish throughout yesterday and banking sector counters performed remarkably well due to positive debt restructuring developments. It is said that Citi Bank has been appointed manager for the exchange of bonds and for expediting the whole process and this created some impetus to market activities, market analysts said.
+
+Further, the Official Creditors Committee (OCC) has given its consent to ending the debt restructuring process, thus enabling banking sector counters to perform well during the day.
+
+Consequently, investor participation in the share market, inclusive of the retail and institutional sectors, has improved, while the turnover has also grown over the last few weeks, stock brokers said.
+
+...
+
+[Data](articles/2d613af2.json)
+
+[Extended Data](ext_articles/2d613af2.ext.json)
+
+---
+
 ### Ranil Wickremesinghe's security officials have been removed -the UNP is not true -the UNP. Deputy Chairman Ruwan Wijewardena's announcement
 
 *2024-10-07 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195721) · `ta`
@@ -199,6 +313,22 @@ Before the end of this year, you will take maximum action to recover. We have th
 [Data](articles/d0d03e3d.json)
 
 [Extended Data](ext_articles/d0d03e3d.ext.json)
+
+---
+
+### ADB delegation meets President Dissanayake, pledges continued support for Sri Lanka’s economic development
+
+*2024-10-07 22:16:00* · [`islandlk`](http://island.lk/adb-delegation-meets-president-dissanayake-pledges-continued-support-for-sri-lankas-economic-development/) · `en`
+
+The Country Director of the Asian Development Bank (ADB) Resident Mission in Sri Lanka, Takafumi Kadono, along with a delegation, met President Anura Kumara Dissanayake today (07) at the Presidential Secretariat.
+
+During the discussion, which focused on ADB’s ongoing commitment to support Sri Lanka’s economic and social development, the ADB reaffirmed its dedication to continuing its projects in Sri Lanka, with particular emphasis on bolstering key sectors crucial to the nation’s recovery. Tourism was identified as a critical sector that holds immense potential for Sri Lanka’s economic growth. In this regard, the ADB assured further assistance in developing tourism infrastructure to harness the sector’s full potential.
+
+President Dissanayake highlighted the importance of promoting tourism in the Northern Region, requesting ADB’s specific support to develop this area. The ADB delegation expressed its willingness to collaborate and provide resources for this initiative.
+
+...
+
+[Data](articles/d196129e.json)
 
 ---
 
@@ -2225,165 +2355,5 @@ It is noteworthy that the Eelam People's Democratic Party is contesting in the J
 [Data](articles/644118a4.json)
 
 [Extended Data](ext_articles/644118a4.ext.json)
-
----
-
-### Sri Lanka opposition factions still in talks on party symbol
-
-*2024-10-07 13:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-factions-still-in-talks-on-party-symbol-182627/) · `en`
-
-ECONOMYNEXT — With five weeks to go to Sri Lanka’s parliamentary election, the island nation’s opposition parties are still in talks on what party symbols to contest under.
-
-The United National Party (UNP) and the faction of the Sri Lanka Podujana Peramuna (SLPP) that backed former president Ranil Wickremesinghe at the presidential election have yet to decide whether to contest under the UNP’s elephant or the gas cylinder under which Wickremesinghe had to contest the presidential poll as an independent candidate.
-
-The UNP’ Vajira Abeyardana told reporters that discussions are under way for a common alliance to contest all districts under the gas cylinder with the exception of two.
-
-“It is very clear that the National People’s Power (NPP) government is following Wickremesinghe’s path. We must support that,” said Abeywardana.
-
-...
-
-[Data](articles/4d87391f.json)
-
-[Extended Data](ext_articles/4d87391f.ext.json)
-
----
-
-### Crisis in Sri Lanka-US relations, Janavegaya & Mrs. B separating politics from official work
-
-*2024-10-07 13:36:00* · [`islandlk`](http://island.lk/crisis-in-sri-lanka-us-relations-janavegaya-mrs-b-separating-politics-from-official-work/) · `en`
-
-(Excerpted from the autobiography of Dharmasiri Pieris, Secretary to the Prime Minister)
-
-One could not however easily get away from managing. Besides the day to day management that was necessary to maintain paper and information flows, one had to service important meetings and conferences. There was the perpetual follow-up of numerous matters, each day bringing new material. In the midst of all these, someone often created a crisis, which ultimately ended up with us.
-
-One such, during this time was the strong attack made by the Finance Minister Dr. N.M. Perera, on United States PL 480 assistance to Sri Lanka, before a large gathering on May Day. To the Americans, this attack by a senior Minister and the Finance Minister on an important program of official assistance was indeed inexplicable and unfriendly. Chris Van Hollen the Ambassador was not unnaturally quite exercised over this.
-
-...
-
-[Data](articles/9d642185.json)
-
-[Extended Data](ext_articles/9d642185.ext.json)
-
----
-
-### Body of police officer found in canal at Ja-Ela
-
-*2024-10-07 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102504/body-of-police-officer-found-in-canal-at-ja-ela-) · `en`
-
-Police have recovered the body of a 50-year-old police officer, attached to the Expressway Police from a canal at Pamunugama, Ja-Ela.
-
-◼️
-
-[Data](articles/75fbbbbc.json)
-
-[Extended Data](ext_articles/75fbbbbc.ext.json)
-
----
-
-### Every state leader who has come after independence has been pregnant
-
-*2024-10-07 13:28:13* · [`adalk`](https://www.ada.lk/breaking_news/නිදහසින්-පසු-ආව-සෑම-රාජ්‍ය-නායකයෙක්ම-අකල්-මරණවලට-ගොදුර-කර-තිබෙනවා/11-412347) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-UNP Chairman Vajira Abeywardena supports Ranil Wickremesinghe, stating he shouldn't oppose the president. He emphasizes national unity and economic policies. Criticizes misinformation about Wickremesinghe's expenses on social media. Highlights the importance of protecting leaders in a country with a history of premature deaths.
-
-🟩
-
-UNP Chairman, Vajira Abeywardena stated that if Ranil Wickremesinghe is being carried out before the President.
-
-According to the fact that the issues that have come to appear, the national popularity is traveling along the road to Ranil Wickremesinghe and should not oppose it.
-
-Mr. Vajira Abeywardena made this observation at a young meeting held at the Uluvitike UNP Head Office last year.
-
-"The nomination panel is meeting under the patronage of the UNP leader Ranil Wickremesinghe leader Ranil Wickremesinghe.. We hope to complete all the activities of this week.
-
-Also, the cylinder is also being discussed to compete with the President of Ranil Wickremesinghe and compete with the Vanni district to the Vanni district and the elephant sign to the Vanni district.
-
-...
-
-[Data](articles/0d426637.json)
-
-[Extended Data](ext_articles/0d426637.ext.json)
-
----
-
-### Sanath Jayasuriya is the permanent chief coach of the Sri Lankan cricket team
-
-*2024-10-07 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/195677) · `ta`
-
-Sanath Jayasuriya named permanent chief coach of Sri Lankan cricket team until 2026 ICC T20 World Cup. Appointed after team's success against India, England, New Zealand. Starts work with West Indies ODI series.
-
-🟩
-
-Sri Lanka Cricket appointed Sanath Jayasuriya as the permanent chief coach of the Sri Lankan cricket team on Monday.
-
-Sri Lanka Cricket has announced that Sanath Jayasuriya will be the chief coach of the Sri Lankan team until the ICC T20 World Cup will be held in 2026.
-
-Sri Lanka Cricket's Executive Committee decided to appoint as a coach after Sri Lanka played well in the training of Sanath Jayasuriya in the cricket series against India, England and New Zealand.
-
-Sanath Jayasuriya, who has been the interim coach in all three cricket series, will be the permanent chief coach of the Sri Lanka Cricket Team from today to 31st March 31, 2026.
-
-The Sri Lankan team has won the first ODI series for India in the last 27 years of the training of Sanath Jayasuriya. Sri Lanka continued to win a Test match after 10 years on its own soil on its own soil.
-
-Finally, Sri Lanka was fully wicked in a two -match series against New Zealand.
-
-...
-
-[Data](articles/7f4fdcec.json)
-
-[Extended Data](ext_articles/7f4fdcec.ext.json)
-
----
-
-### Court orders the two court of the scholarship issues
-
-*2024-10-07 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201919) · `si`
-
-Here's a 200-character summary:
-
-
-
-Court orders remand of National Institute of Education Director and school teacher until 22nd. Accused of providing issues of scholarship examination. Produced before Kaduwela Magistrate's Court on 07.
-
-🟩
-
-The Director of the National Institute of Education and the school teacher, the Director of the National Institute of Education and the school teacher has been remanded until the 22nd.
-
-They were produced before the Kaduwela Magistrate's Court today (07).
-
-The two suspects were accused of providing several issues of the scholarship examination.
-
-◼️
-
-[Data](articles/4ef433da.json)
-
-[Extended Data](ext_articles/4ef433da.ext.json)
-
----
-
-### Sri Lanka president meets ADB, WB representatives
-
-*2024-10-07 12:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-adb-wb-representatives-182623/) · `en`
-
-EONOMYNEXT – Sri Lanka’s President Anura Dissanayake has met World Bank and Asian Development Bank country representatives. The WB has pledged 200 million dollars for Phase 2 of the RESET program.
-
-The Sri Lanka Resilience, Stability and Economic Turnaround (RESET) Development Policy Operation (DPO), which provides budget support to the government was initially signed by the previous government on June 28, 2023.
-
-“This funding supports economic reforms for stability, growth, and protection of the vulnerable,” the president’s media division said.
-
-The agreement was signed by Finance Secretary K M Siriwardana and the World Bank’s Country Director David Sislen, according to the PMD.
-
-ADB Country Director Takafumi Kadono met Dissanayake to discuss the country’s economic recovery.
-
-“Key areas of focus were tourism, energy and support for small-scale entrepreneur,” PMD said, adding that “ADB will aid tourism in the Northern Region,” without giving details. (Colombo/Oct7/2024)
-
-◼️
-
-[Data](articles/e8a47610.json)
-
-[Extended Data](ext_articles/e8a47610.ext.json)
 
 ---

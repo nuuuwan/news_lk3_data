@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 17:23:09**
+As of **2024-10-08 17:39:59**
 
 ## Newspaper Stats
 
-*Scraped **48,399** Articles*
+*Scraped **48,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,483
 dailymirrorlk | 4,733
-adaderanalk | 5,707
-tamilmirrorlk | 6,562
+adaderanalk | 5,708
+tamilmirrorlk | 6,563
 virakesarilk | 7,738
-adaderanasinhalalk | 8,372
+adaderanasinhalalk | 8,374
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,399 (100.0%) of 48,399 articles have been extended.
+48,403 (100.0%) of 48,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### 2024 General Election: Deadline for postal voting applications extended
+
+*2024-10-08 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102537/2024-general-election-deadline-for-postal-voting-applications-extended-) · `en`
+
+The Election Commission of Sri Lanka today announced that the deadline for accepting applications for postal voting in the 2024 General Election, which was scheduled to end at midnight today (8), has been extended until midnight on 10 October 2024.
+
+The Elections Commissioner General said that this decision was made in consideration of the possible postal delays and several requests made by the public to the commission.
+
+Furthermore, the election regulatory body has also advised that it is more appropriate to hand over the postal vote applications completed on October 09 and 10 by hand to the district election office of the district where the office of the certifying officer is located, instead of handing them over to the posts, in order to avoid the possible delays.
+
+The Election Commission also noted that the application deadline will not be extended further under any circumstances.
+
+◼️
+
+[Data](articles/c3a4b1d7.json)
+
+[Extended Data](ext_articles/c3a4b1d7.ext.json)
+
+---
+
+### Postal voting applications extended
+
+*2024-10-08 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201960) · `si`
+
+Postal voting deadline extended to Oct 10, 2024, at 10 PM. Applications accepted until midnight due to delays. District offices handling submissions. Date may be extended further if needed.
+
+🟩
+
+The postal voting scheme of the postal voting date has been extended to the parliamentary election that is scheduled to end on October 8, 2024.
+
+Elections Deputy Commissioner General Saman Sri Ratnayake said that the demands of the postal delays and the Commission had been extended to 12.00 midnight.
+
+Accordingly, the applications should be received on the end of the end of the end of the end of the end of 2024 at 10 pm on the 10th of October 10 pm.
+
+To prevent the delay in receipt of applications to prevent the delay in the receipt of the possible delay, the office office of the district is handed over by the District Election Office in the district.It is informed that it is best to work.
+
+Saman Sri Ratnayake has further stated that this date will be extended again for any reason.
+
+◼️
+
+[Data](articles/17e74750.json)
+
+[Extended Data](ext_articles/17e74750.ext.json)
+
+---
 
 ### US pledges continued support to bolster Sri Lanka’s economy
 
@@ -54,21 +100,77 @@ The United States has pledged both financial and technical support for President
 
 ---
 
+### The stream swallowed a 4 -year -old girl
+
+*2024-10-08 16:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-வயதான-சிறுமியை-ஓடை-விழுங்கியது/175-345099) · `ta`
+
+Four-year-old Ananya Parami drowns in stream behind house. Parents absent when tragedy occurs. Police investigating incident.
+
+🟩
+
+A four -year -old girl named Ananya Parami, a yogi, belonging to the Thangotuwa police division, fell into an unsafe stream at the back of her house on Tuesday (08) afternoon, Thangotuwa police said.
+
+When her grandmother went to the pre -school and returned home, her grandmother went to bathe the water, police said.
+
+It has been revealed that the mother and father of the girl who died during the incident were not at home and further investigations are being carried out by the Thangoduwa police.
+
+◼️
+
+[Data](articles/18aff379.json)
+
+[Extended Data](ext_articles/18aff379.ext.json)
+
+---
+
+### Priyantha Weerasuriya approval of the Legislative Council
+
+*2024-10-08 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201959) · `si`
+
+Priyantha Weerasuriya's appointment as acting IGP approved by Constitutional Council. He's first police constable to hold position in 158 years. Former Senior DIG North Central Province. Masters degree in Human Resources Management.
+
+🟩
+
+The constituency of Senior DIG Priyantha Weerasuriya as acting IGP has been approved by the Constitutional Council.
+
+According to the existing law, the approval of the Legislative Council should be obtained for the Legislative Council.
+
+Presidential Secretary to the President Dr. Nandika, Priyantha Weerasuriya was appointed as the acting IGP.
+
+The appointment was made as well as the authority assigned to the President.
+
+Priyantha Weerasuriya is the only official appointment as a police constable to serve as a police constable in 158 years.
+
+A graduate of the University of Colombo, he was promoted as a Assistant Superintendent of the Sri Lanka Law College.
+
+He has won the Masters Degree in Human Resources Management from the University of Colombo.
+
+Weerasuriya, who has served as the DIG in charge of the police crime and traffic director, and the Police supplies director.
+
+Mr. Weerasuriya was duty as Senior DIG in charge of the North Central Province when he was appointed as acting IGP.
+
+◼️
+
+[Data](articles/5f65fd48.json)
+
+[Extended Data](ext_articles/5f65fd48.ext.json)
+
+---
+
 ### Constitutional Council approves Acting IGP appointment
 
 *2024-10-08 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102535/constitutional-council-approves-acting-igp-appointment) · `en`
 
 The Constitutional Council has approved the appointment of Senior DIG Priyantha Weerasooriya as the Acting Inspector General of Police (IGP).
 
+The Constitutional Council convened a meeting at the parliamentary complex today (08) under the chairmanship of Speaker Mahinda Yapa Abeywardena to take a final decision on approving the appointment of the Acting IGP.
+
+Under existing regulations, any individual serving as Acting IGP for more than 14 days must receive the formal approval of the Constitutional Council.
+
 Weerasooriya was appointed as Acting IGP by President Anura Kumara Dissanayake on September 27, under the constitutional powers vested in the President.
 
 He had received his letter of appointment from the President’s Secretary Dr. Nandika Kumanayake at the Presidential Secretariat in Colombo on the same day.
 
 Prior to this appointment, Weerasooriya served as the Senior SIG in charge of the North Central Province, a position he held since March 2024.
-
-A law enforcement professional with 36 years of unblemished service, Weerasooriya had served across various ranks, from Police Constable to Senior DIG, with key roles in operational, middle, and strategic management.
-
-Notably, SDIG Priyantha Weerasooriya is the first officer in the 158-year history of the police service to rise from the rank of Police Constable to Inspector General of Police (IGP).
 
 ...
 
@@ -2247,81 +2349,5 @@ In this exclusive interview, Linda Speldewinde, Visionary Founder of AOD/SLDF an
 [Data](articles/acff9474.json)
 
 [Extended Data](ext_articles/acff9474.ext.json)
-
----
-
-### AAT Sri Lanka 2024 Conference: Bridging education and professional skills for a dynamic market
-
-*2024-10-08 06:11:10* · [`dailyftlk`](https://www.ft.lk/business/AAT-Sri-Lanka-2024-Conference-Bridging-education-and-professional-skills-for-a-dynamic-market/34-767682) · `en`
-
-The Association of Accounting Technicians of Sri Lanka (AAT), recently held 2024 Conference at Waters Edge, Battaramulla.
-
-Themed ‘Rise to Conquer: Resilient | Innovate | Synergize | Empower’, the event drew prominent figures from the accounting and business sectors to highlight the importance of AAT and set the stage for discussions on topics relevant to the future of accounting.
-
-In his address, Chief Guest Secretary to the Prime Minister Pradeep Saputhanthri observed that AAT plays a key role in offering job-oriented qualifications to those without university placements, contributing to a skilled workforce. “As the Government focuses on improving the education system to support a prosperous and thriving Sri Lanka, I am pleased to align with AAT, which plays a vital role as a not-for-profit private educational body in this endeavour,” he stated.
-
-...
-
-[Data](articles/e660d476.json)
-
-[Extended Data](ext_articles/e660d476.ext.json)
-
----
-
-### Formulating a customer experience culture
-
-*2024-10-08 06:07:06* · [`dailyftlk`](https://www.ft.lk/columns/Formulating-a-customer-experience-culture/4-767681) · `en`
-
-Customer experience is the culmination of the service a customer receives throughout their entire journey with your company, passing through multiple interaction points. A positive customer experience can result in higher customer retention, loyalty, referrals, and increased sales. A Customer Experience Culture refers to when everyone in the organisation consistently strives to create a unique, valuable experience that is highly appreciated by the recipient. Building an excellent customer experience culture can be a key differentiator, setting your business apart in the marketplace.
-
-Having a clear understanding among your team members of the kind of customer experience culture you want to foster is essential. This culture should align with your company’s vision, core values, and brand identity. Once you define the desired customer experience culture, you need to embed its essence into the organisation’s philosophy.
-
-...
-
-[Data](articles/cd9ab4e9.json)
-
-[Extended Data](ext_articles/cd9ab4e9.ext.json)
-
----
-
-### Showers over 100 mm
-
-*2024-10-08 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201937) · `si`
-
-Heavy showers expected in Western, Sabaragamuwa, North Western provinces and Galle, Matara districts. Thunderstorms possible tonight. Public advised to be cautious due to strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces and at times in the Galle and Matara districts today (08).
-
-The departments say that showers or thundershowers will occur at night in the evening or night in the rest of the island.
-
-MM in the Western, Sabaragamuwa, Central, Uva and Eastern Provinces, Galle, Matara and Puttalam Districts. The Met Department announced heavy showers exceeding over 100.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-The Department of Meteorology further states that the weather in the island is still influenced by the weather in the island.
-
-◼️
-
-[Data](articles/c9e59b31.json)
-
-[Extended Data](ext_articles/c9e59b31.ext.json)
-
----
-
-### A business case for ESG in a stabilising economy
-
-*2024-10-08 06:01:42* · [`dailyftlk`](https://www.ft.lk/columns/A-business-case-for-ESG-in-a-stabilising-economy/4-767680) · `en`
-
-As Sri Lanka navigates its current state of economic recovery—while anticipating parliamentary elections and looming political change — the corporate sector has a significant opportunity to strengthen their businesses and further contribute towards a stabilising economy.
-
-There is increasing recognition that sustainability can lead to long-term economic benefits. For years, many companies have grappled with integrating sustainable practices into their operations, driven by increasing consumer and investor demand for responsible corporate behaviour. Sustainable practices not only enhance brand reputation and customer loyalty but also create operational efficiencies that reduce costs and mitigate risks. In an unpredictable economic landscape, companies that prioritise sustainability are generally better equipped to adapt to regulatory changes, resource scarcity, and market volatility.
-
-...
-
-[Data](articles/6a963b70.json)
-
-[Extended Data](ext_articles/6a963b70.ext.json)
 
 ---

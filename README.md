@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 10:38:52**
+As of **2024-10-08 10:57:20**
 
 ## Newspaper Stats
 
-*Scraped **48,326** Articles*
+*Scraped **48,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 4,470
 dailymirrorlk | 4,733
 adaderanalk | 5,693
 tamilmirrorlk | 6,541
-virakesarilk | 7,733
-adaderanasinhalalk | 8,358
+virakesarilk | 7,738
+adaderanasinhalalk | 8,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,323 (100.0%) of 48,326 articles have been extended.
+48,331 (100.0%) of 48,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Commissioner General of Excise M.. J. Gunasiri's service will be completed
+
+*2024-10-08 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201944) · `si`
+
+Commissioner General of Excise M.J. Gunasiri's service ends immediately. Government decision made by President Anura Kumara Dissanayake. Approved by Cabinet. Working on contract basis. Replaced by Additional Secretary (Establishment Coordinating 2).
+
+🟩
+
+Commissioner General of Excise M.. J. The government has decided to complete the service of Mr. Gunasiri with immediate effect.
+
+Cabinet spokesman Vijitha Herath said that the proposal was made by President Anura Kumara Dissanayake and received the approval of the Cabinet.
+
+Mr. Gunasiri was working on contract basis as the Commissioner General of Excise.
+
+The Cabinet has been approved by the Additional Secretary (Establishment Coordinating 2) to be the Additional Secretary to the post.
+
+◼️
+
+[Data](articles/c0ed2203.json)
+
+[Extended Data](ext_articles/c0ed2203.ext.json)
+
+---
 
 ### 35 pound jewelry robbery to mother -in -law
 
@@ -54,6 +78,76 @@ He was admitted to the hospital after a complaint was lodged at the police stati
 
 ---
 
+### Fisherman's death
+
+*2024-10-08 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195731) · `ta`
+
+Fisherman drowns in accident off Jaffna coast. 69-year-old Tiruchelvam Gnanaprakasam from Luther Month Temple in Thumbala. Body recovered, handed to Pedro Base Hospital for examination.
+
+🟩
+
+A fisherman drowned in a sea of ​​accident in Jaffna.
+
+The deceased is Tiruchelvam Gnanaprakasam, aged 69, from the Luther Month Temple in Thumbala.
+
+He was drowned in the sea when he crashed into the sea when he went into the sea for the sea.
+
+The body has been recovered by fellow workers and has been handed over to the Pedro Base Hospital for anatomical examination.
+
+◼️
+
+[Data](articles/628f1133.json)
+
+[Extended Data](ext_articles/628f1133.ext.json)
+
+---
+
+### Arrested 19 Chinese citizens involved in financial fraud
+
+*2024-10-08 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195728) · `ta`
+
+Chinese nationals arrested for online financial fraud in Nawala area. Police detained 19 suspects based on CID intelligence.
+
+🟩
+
+Police said 19 Chinese nationals have been arrested in connection with the financial fraud on the Internet.
+
+The suspects have been arrested in Nawala area on information received by the Criminal Investigation Department officials.
+
+◼️
+
+[Data](articles/f9ba3c90.json)
+
+[Extended Data](ext_articles/f9ba3c90.ext.json)
+
+---
+
+### Action to carry out cataract surgery in the north - medical expert M. Blossom
+
+*2024-10-08 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195729) · `ta`
+
+Cataract surgery initiative in Northern Province: 2,000 surgeries planned over 10 days, aiming to reduce waiting times significantly. Collaboration between hospitals and foundations to increase capacity. Goal to perform over 20,000 surgeries this year, compared to previous years' totals.
+
+🟩
+
+The Northern Province will carry out cataract surgery without a waiting list and 2 thousand cataracts will be carried out for 10 days.. Teaching Hospital Eye Expert. Malaravan said.
+
+International Vision Day, Jaffna. In the teaching hospital, we will be treating 2 thousand cataracts.
+
+This is the third time that the cataract surgery camp is being held at the Jaffna Teaching Hospital. This is the fourth time in the Northern Province.
+
+Even in SAARC countries without "Baco", such surgery camps are not conducted in Sri Lanka. Such eyeballs have been conducted in the North.
+
+For the first time we carried out 1200 surgery. Last year, we performed 1200 surgery in five days ahead of the "International Views Day - 2023" organized by the Ratnapura Hospital Friendship Forum.
+
+...
+
+[Data](articles/04fde42a.json)
+
+[Extended Data](ext_articles/04fde42a.ext.json)
+
+---
+
 ### Prison regulator's illegal work
 
 *2024-10-08 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201943) · `si`
@@ -73,6 +167,30 @@ The devices have been found while investigating a prison guard on the special du
 [Data](articles/31355e9e.json)
 
 [Extended Data](ext_articles/31355e9e.ext.json)
+
+---
+
+### Husband's death due to family dispute;Wife arrested!
+
+*2024-10-08 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195726) · `ta`
+
+Husband dies in family dispute. Wife arrested. Husband tried to revive him but doctors confirm death. Police investigating frequent arguments between couple.
+
+🟩
+
+In the meantime, the husband is unconscious when he tries to tie the mouth of the deceased husband.
+
+Subsequently, the doctors said the husband had already died after being taken to the hospital.
+
+The wife has been arrested on suspicion of the incident, police said.
+
+Police investigations have revealed that the deceased husband was frequently arguing with his wife and scolding foreigners with inappropriate words.
+
+◼️
+
+[Data](articles/68ecc059.json)
+
+[Extended Data](ext_articles/68ecc059.ext.json)
 
 ---
 
@@ -217,6 +335,34 @@ Chinese citizens are reported to have been involved. Remble
 [Data](articles/35c5b8d6.json)
 
 [Extended Data](ext_articles/35c5b8d6.ext.json)
+
+---
+
+### Thundershowers - Department of Meteorology
+
+*2024-10-08 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/195724) · `ta`
+
+Thunderstorms forecasted in Sabaragamuwa, Western, North Western provinces and Galle, Matara districts. Heavy rains expected in Central, Eastern provinces. Strong winds and lightning warnings issued. Sea regions turbulent due to southwest winds.
+
+🟩
+
+The Iron Foreign Zone has further impacts the country's weather.As a result of this, the Department of Meteorology, Dr. Mohamed Saliheen, said that there will be frequent rain or thunderstorms in the Sabaragamuwa, Western and North Western provinces, as well as in the Galle and Matara districts.
+
+Showers or thunderstorms can occur in many parts of the other parts of the country during the afternoon or night.
+
+Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper, Eastern and Uva provinces, as well as in some parts of Galle, Matara and Puttalam districts.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
+
+Winds from the southwest at speeds of 25 - 35 km / h in the sea regions.
+
+...
+
+[Data](articles/b91e5607.json)
+
+[Extended Data](ext_articles/b91e5607.ext.json)
 
 ---
 
@@ -1592,41 +1738,53 @@ It is noteworthy that he joined the Service as Assistant Superintendent of Polic
 
 ---
 
-### නාම යෝජනා පත්‍ර සමග අපේක්ෂකයන්ගේ වත්කම් බැරකම් දිය යුතුයි
+### The candidates' assets of candidates should be given
 
 *2024-10-07 18:57:36* · [`adalk`](https://www.ada.lk/breaking_news/නාම-යෝජනා-පත්‍ර-සමග-අපේක්ෂකයන්ගේ-වත්කම්-බැරකම්-දිය-යුතුයි/11-412359) · `si`
 
-ලබන මස 14 වැනි දින පැවැත්වෙන පාර්ලිමේන්තු මැතිවරණයට තරග කරන  අපේක්ෂකයන්ගේ  වත්කම් බැරකම් ප්‍රකාශ නාමයෝජනා පත්‍ර සමග භාර දිය යුතු බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+Candidates must disclose assets before elections. Election Commission requires candidates to submit financial statements. Non-compliance may result in legal consequences.
 
-2023 අංක 09 දරන දූෂණ විරෝධී පනතට අනුව ඡන්ද විමසීම පැවැත්වෙන දිනය ප්‍රකාශයට පත් කළ  දිනයට තමන්ගේ වත්කම් බැරකම් ප්‍රකාශය තේරීම්භාර නිලධාරීන්ට භාර දිය යුතු බවද කොමිසම පෙන්වා දෙයි.
+🟩
 
-නාමයෝජනා භාර දෙන පිළිගත් දේශපාලන පක්ෂ  හා ස්වාධීන කණ්ඩායම්වල සියලුම අපේක්ෂකයන් මෙය අනුගමනය කළ යුතුය.
+The Elections Commission states that the assets of the candidates contesting the parliamentary elections on the 14th of next month should be handed over with statements.
 
-මීට අමතරව ජාතික ලැයිස්තු මන්ත්‍රී ධුර අපේක්ෂකයන් ද වත්කම් බැරකම් ප්‍රකාශ  නමයෝජනා පත්‍රය සමග  මැතිවරණ කොමිෂන් සභාවට භාර දිය යුතු බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+The Commission points out that according to the anti-corruption Act, No. 09, No. 09 of the Policy Act, the election should be subscribed to the Selection Officers.
 
-නාම යෝජනා පත්‍රය සමග වත්කම් බැරකම් ප්‍රකාශ භාරදීමට අපොහාසත්  වීම දණ්‍ඩනයකට යටත් විය යුතු වරදක් බවද සඳහන් කරයි.
+All candidates of the recognized political parties and independent groups will be followed by nominations.
+
+In addition, the National List seat candidates should be handed over to the Election Commission with the policy of the Asset and Liability.
+
+It is said that accepting asset liabilities with nomination papers is a pandalistic offense.
 
 ◼️
 
 [Data](articles/64d9a56e.json)
 
+[Extended Data](ext_articles/64d9a56e.ext.json)
+
 ---
 
-### දුම්පානය හේතුවෙන් ලංකාවේ වසරකට මරණ 20000ක්
+### 20000 deaths per year in Sri Lanka due to smoking
 
 *2024-10-07 18:52:25* · [`adalk`](https://www.ada.lk/breaking_news/දුම්පානය-හේතුවෙන්-ලංකාවේ-වසරකට-මරණ-20000ක්/11-412358) · `si`
 
-දුම්පානය හේතුවෙන් මෙරටෙහි වාර්ෂිකව පුද්ගලයන් 20,000ක් පමණ මරණයට පත්වන බව සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්, විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා ප්‍රකාශ කළේය.
+Sri Lanka: 20,000 annual deaths from smoking. Ministry of Health warns about alcohol and unhealthy food consumption. Emphasizes healthcare awareness and preventive measures to reduce costs.
 
-ඔහු පෙන්වා දුන්නේ දුම්පානය නොකරන ලෙසට කොපමණ උපදෙස් හා සෞඛ්‍ය අවවාද ලබා දුන්නද ජනතාව ඒවා නොසලකා හරින බවයි.
+🟩
 
-එසේම මද්‍යසාර භාවිතය  සහ සෞඛ්‍ය සම්පන්න නොවන ආහාර භාවිතය හේතුවෙන්   සිදුවන මරණ ප්‍රමාණයේ ද, යම් වර්ධනයක් පෙන්නුම් කරන බව ලේකම්වරයා අවධාරණය කළේය.
+According to the Ministry of Health, Medical Palitha Mahipala said that almost 20,000 people in Sri Lanka to be killed due to smoking.
 
-ඔහු වැඩිදුරටත් සඳහන් කර සිටියේ සෞඛ්‍ය සේවාව ලබා ගැනීම අයිතිවාසිකමක් බවත් ඒ අනුව  සෞඛ්‍ය සේවාව ලැබීමේ හිමිකම ඇති නමුත් වළක්වා ගත හැකි මරණ වළක්වා ගැනීමට හා  අනවශ්‍ය ලෙස සෞඛ්‍ය සඳහා වැයවන රජයේ මුදල් ඉතිරි කර ගැනීමට සියලු දෙනා අවබෝධයෙන් කටයුතු කළ යුතු වන බවයි.
+He pointed out that the people ignore them, but the people ignore them.
+
+The Secretary emphasized that the use of alcohol and non-healthy use of foods and unhealthy foods, the Secretary stressed.
+
+He further stated that it is necessary to be aware of the ownership of health care and obtain the health service, and to avoid preventive health, and save government money to save health.
 
 ◼️
 
 [Data](articles/ba0c0356.json)
+
+[Extended Data](ext_articles/ba0c0356.ext.json)
 
 ---
 
@@ -2095,151 +2253,5 @@ The Elections Commission is notified that failure to hand over assets and liabil
 [Data](articles/9eb3538a.json)
 
 [Extended Data](ext_articles/9eb3538a.ext.json)
-
----
-
-### Lotion competition in Colombo
-
-*2024-10-07 17:38:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-லோஷன்-போட்டி/175-345051) · `ta`
-
-Tamil Progressive Alliance leader Mano Ganesan announces lotion competition in Colombo district. Famous announcer ARV involved.
-
-🟩
-
-On behalf of the Tamil Progressive Alliance led by former parliamentarian Mano Ganesan, the famous announcer ARV in Colombo district. Lotion is competing.
-
-◼️
-
-[Data](articles/a04cd630.json)
-
-[Extended Data](ext_articles/a04cd630.ext.json)
-
----
-
-### Foreign cookies are all false
-
-*2024-10-07 17:37:25* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-කෝකියන්--විදෙස්-ආහාර-වට්ටොරු-කතා-සියල්ල-අසත්‍යයි/11-412352) · `si`
-
-Sri Lanka: UNP Deputy Leader accuses President of spreading false information about foreign chefs and security officers. Claims government promoting hatred against former President Ranil Wickremesinghe. Denies allegations about misuse of Presidential House and foreign cooks. Calls for dedication to public service.
-
-🟩
-
-UNP Deputy Leader Ruwan Wijewardena emphasizes that a number of contemptuous wealth is being socialized by the President Ranil Wickremesinghe after the presidential election.
-
-He was propagated in the social media that the acting of the eighth Executive presidents, including the main security officer and other security officers who were designated to the police officers.Mentioned.
-
-UNP Deputy Leader Ruwan Wijewardene made this statement in Colombo today (07).
-
-Also, President Ranil Wickremesinghe and Maithri Wickremasinghe said that he was not used for private duties and the services of foreign chefs were used to provide a falistic as well as political hatred.He was only the lowest statements.
-
-Speaking further UNP UNP Deputy Leader Ruwan Wijewardene added:
-
-...
-
-[Data](articles/ea410ac4.json)
-
-[Extended Data](ext_articles/ea410ac4.ext.json)
-
----
-
-### We will capture two seats in Vanni - EPDP
-
-*2024-10-07 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/195706) · `ta`
-
-EPDP aims to win 2 seats in Vanni and 3 in Jaffna. Former MP Dileepan filed nomination papers, citing positive reception from locals due to development projects.
-
-🟩
-
-Former Member of Parliament who filed a nomination papers on behalf of the EPDP on Monday (07). Said Dileepan.
-
-He was speaking to the media after the Vavuniya Elections Officer's Office filed a nomination papers for the Vanni electorate today.
-
-E P DP is a great welcome among people. People have congratulated us on the phone and face.
-
-We have made many development projects in these areas. In response, we have two seats in the Vanni electoral constituency.
-
-As well as Jaffna. We will capture three seats in the electorate. He said that we will carry out the development of the people.
-
-◼️
-
-[Data](articles/daddf7cf.json)
-
-[Extended Data](ext_articles/daddf7cf.ext.json)
-
----
-
-### “Ranil's security has not been withdrawn”
-
-*2024-10-07 17:35:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-பாதுகாப்பு-வாபஸ்-பெறவில்லை/175-345050) · `ta`
-
-"UNP Deputy Leader denies claims about Ranil Wickremesinghe's security withdrawal. He criticizes spread of insulting misinformation about the former president."
-
-🟩
-
-United National Party (UNP) Deputy Leader Ruwan Wijewardena has said that after the last presidential election, many insulting information was spreading and that he had strongly denounced former President Ranil Wickremesinghe.
-
-United National Party Deputy Leader Ruwan Wijewardena made this statement when he made a special comment to the media in Colombo on Monday (07).
-
-Moreover, Ranil Wickremesinghe and Mrs Maithri Wickremesinghe have not used the Presidential Palace for personal use and that the subversive statements are being made with false and completely political disgust regarding the services of luxury food and foreign chefs.
-
-Former President Ranil Wickremesinghe has done many tasks for this country. Also, turned the country's economy into a favorable side. But some insulting false information is spreading on him.
-
-...
-
-[Data](articles/20270d53.json)
-
-[Extended Data](ext_articles/20270d53.ext.json)
-
----
-
-### Key notification for candidates contesting the general election;Eagle commission
-
-*2024-10-07 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/195702) · `ta`
-
-Election Commission notice: Candidates must hand over asset details to appointment officers by Nov 14. Failure to comply is punishable. Applies to political party candidates and independents. National List MPs also required to submit asset information.
-
-🟩
-
-The Election Commission has issued a key notice to all candidates of the recognized political parties and independent groups to hand over appointments on the name of the general election on November 14.
-
-80 (1) () of the Anti -Corruption Act No. 9 of 2023. 82 (1) (f), 82 (2), 89, 90 (4) should hand over the appointment of their assets and responsibilities to the appointment officer on the day of the Election Day declared.
-
-Similarly, in accordance with section 99, the National List MP must be handed over to the Commission with the appointment of names on assets and responsibilities.
-
-The announcement further stated that failing to hand over revelations of assets and responsibilities with the appointment of the name is a punishable offense.
-
-◼️
-
-[Data](articles/a34b2b41.json)
-
-[Extended Data](ext_articles/a34b2b41.ext.json)
-
----
-
-### Sri Lanka supports Sri Lanka for economic development
-
-*2024-10-07 17:29:50* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-සංවර්ධනය-සඳහා-ලංකාවට-ආසියානු-සංවර්ධන-බැංකුවේ-සහය/11-412351) · `si`
-
-Sri Lanka receives financial aid from Asian Development Bank for tourism, energy, and small-scale industries. President Anura Kumara Dissanayake meets Director Takafumi Kadono to discuss implementation. The bank agrees to fund infrastructure improvements in the tourism sector and support energy and small entrepreneur projects.
-
-🟩
-
-Asian Development Bank has agreed to provide financial assistance to develop Sri Lanka's tourism, energy and small scale industries.
-
-President Anura Kumara Dissanayake met with the Director Takafumi Kadoneo for Sri Lanka this morning at the Presidential Secretariat this morning.
-
-Takafumi Kadono (TAKAFUY KADONO), the Director of the Asian Development Bank (Asian Development Bank) will continue to implement the economy of Sri Lanka.
-
-The Asian Development Bank has agreed to provide financial assistance to providing necessary facilities to improve the tourism industry to improve the economy of Sri Lanka.
-
-Accordingly, the Asian Development Bank has decided to provide funds to enhance the infrastructure in the tourism industry.
-
-President Anura Kumara Dissanayake agreed to improve the tourism industry in the North.
-
-...
-
-[Data](articles/2c72f539.json)
-
-[Extended Data](ext_articles/2c72f539.ext.json)
 
 ---

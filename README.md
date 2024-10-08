@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 10:57:20**
+As of **2024-10-08 11:10:26**
 
 ## Newspaper Stats
 
-*Scraped **48,332** Articles*
+*Scraped **48,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 2,954
 dailyftlk | 3,267
 adalk | 4,470
 dailymirrorlk | 4,733
-adaderanalk | 5,693
-tamilmirrorlk | 6,541
+adaderanalk | 5,694
+tamilmirrorlk | 6,542
 virakesarilk | 7,738
-adaderanasinhalalk | 8,359
+adaderanasinhalalk | 8,360
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,331 (100.0%) of 48,332 articles have been extended.
+48,335 (100.0%) of 48,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### New Acting Commissioner General appointed to Excise Dept.
+
+*2024-10-08 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102521/new-acting-commissioner-general-appointed-to-excise-dept) · `en`
+
+The Cabinet of Ministers has approved appointing Senior Special Grade Officer of the Inland Revenue Department (IRD), U.D.N. Jayaweera as the Acting Commissioner General of Excise with immediate effect.
+
+Speaking during the Cabinet press conference held this morning (08), Cabinet Spokesman, Minister Vijitha Herath stated that the Sri Lanka Excise Department is the main revenue collection agency of the government and the efficiency and the good governance of this department directly affects the revenue of the government.
+
+...
+
+[Data](articles/c0fefbc1.json)
+
+[Extended Data](ext_articles/c0fefbc1.ext.json)
+
+---
+
+### New officer to be appointed as the Commissioner General of Registration of Persons
+
+*2024-10-08 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201945) · `si`
+
+New Commissioner General of Registration of Persons appointed: MSP Solepperuma, previously Additional Secretary of Public Defense Ministry. Vacancy began September 24. Proposal approved by Cabinet.
+
+🟩
+
+The Commissioner General of Registration of Persons has been vacant from September 24.
+
+Accordingly, employers MSP Solepperuma who currently operates as an Additional Secretary of the Public Defense Ministry have been appointed as the Commissioner General of Registration.
+
+Cabinet spokesperson Vijitha Herath said that the proposal made by the Public Defense Minister was approved by the Cabinet.
+
+◼️
+
+[Data](articles/dccd6262.json)
+
+[Extended Data](ext_articles/dccd6262.ext.json)
+
+---
+
+### Appointment of Professor Harindra Dissabandara
+
+*2024-10-08 10:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஹரீந்திர-திசபண்டார-நியமனம்/175-345074) · `ta`
+
+Professor Harindra Dissabandara appointed Chairman of SEC. Formerly Director General and Director of Financial Services Academy. Also Professor of Finance at Sri Jayawardenapura University.
+
+🟩
+
+Senior Professor Harindra Dissabandara has been appointed as the new Chairman of the Sri Lanka's Securities and Transaction Commission (SEC).
+
+He was formerly the Director General of the SEC and the Director of the Financial Services Academy and Capital Market Education and Training Unit from 2008 to 2012.
+
+It is also worth noting that Professor of Finance and Institution of Finance, Management Studies and Business at Sri Jayawardenapura University, Dissabandara.
+
+◼️
+
+[Data](articles/12a54cf6.json)
+
+[Extended Data](ext_articles/12a54cf6.ext.json)
+
+---
 
 ### Commissioner General of Excise M.. J. Gunasiri's service will be completed
 
@@ -1812,21 +1872,31 @@ Deputy Minister of Police Media Spokesperson DIG Talduwa, Speaking further
 
 ---
 
-### අද බොහෝ ප්‍රදේශවලට වැසි
+### Showers in many areas today
 
 *2024-10-07 18:48:00* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-ප්‍රදේශවලට-වැසි/11-412357) · `si`
 
-අන්තර් නිවර්තන අභිසාරී කලාපය (උතුරු අර්ධ ගෝලයේ සහ දකුණු අර්ධ ගෝලයේ සිට පැමිණෙන සුළං අභිසාරී වන කලාපය) දිවයිනේ කාලගුණයට බලපෑම් කරමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+Heavy rain expected across multiple provinces today. Thunderstorms possible, especially at night. Strong winds and rough seas forecasted. Public advised to take precautions against flooding and landslides.
 
-මේ අනුව අද (08දා) දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන  බවද පෙන්වා දෙයි.
+🟩
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වලත් ගාල්ල, මාතර සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකා බවද දෙපාර්තමේන්තුව  සඳහන් කරයි.බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදීත්  වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The Department of Meteorology states that the weather in the island is influenced by the island, the weather in the island.
 
-ගිගුරුම්  සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.ඊයේ (07) උදේ 8.00 අවසන් වු පැය 24 ක කාලය සැලකිමේදි වැඩිම වර්ෂාපතනය කොලඹ දිස්ත්‍රික්කයෙන් වාර්තා වි තිබෙන අතර එම අය මිලිමිටර් 162.5 කි.
+Thundershowers showers or thundershowers at night in many parts of the island today (08th).
+
+MM in the Western, Sabaragamuwa, Central, Uva and Eastern Provinces, Galle, Matara and Puttalam Districts. Heavy showers that can cause more than 100 showers in the Eastern, Sabaragamuwa and North Western Provinces and in the Galle and Matara districts.
+
+The department is asking the public to take necessary steps to minimize temporary strong winds and the end of the lightning due to thunderstorms. (07) The Colombo DistrictThere are 162.5 millimeters.
+
+111.5 millimeters in the area of ​​Talallawita were reported from 111.5 millimeters from the Udugama area in Matara for 111.5 mm in Matara.
+
+The National Building Research Organization states that the current rainfall can be subjected to mountain ranges in Kegalle.
 
 ...
 
 [Data](articles/d18d3148.json)
+
+[Extended Data](ext_articles/d18d3148.ext.json)
 
 ---
 
@@ -2173,85 +2243,5 @@ Meanwhile, Surya's starring 'Gangua' will be released in a number of Indian lang
 [Data](articles/f21b0dbf.json)
 
 [Extended Data](ext_articles/f21b0dbf.ext.json)
-
----
-
-### General Secretary Sathiyalingam says its leader Mawai Senathirajah
-
-*2024-10-07 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/195712) · `ta`
-
-Sri Lanka Tamil National Party NTI announces candidates for Jaffna electoral district. Senior member Mawai Senathirajah quits over dissatisfaction with candidate selection process. General Secretary Sathiyalingam denies receiving official resignation letter.
-
-🟩
-
-The list of candidates in the Jaffna electoral district in the upcoming general election was released yesterday, with many senior members of the party's senior members of the party.
-
-The names of the candidates of the Jaffna Election District on behalf of the Sri Lanka Tamil National Party (NTI) in the upcoming parliamentary elections to be held on the 14th of November were announced by the party's election appointment committee on Sunday (06).
-
-Accordingly, Sridharan, MA Sumanthiran, SCC Ilangovan, Kesavan Sayanthan, Chandralingam Sukirthan, Sureka Saseendran, Emmanuel Arnold, Krishnaveni Sridharan and Thiyagaraya Prakash have been named as the candidates for the Jaffna and Kilinochchi districts.
-
-However, the names of senior members of the highly anticipated Tamil party have not been included in the list. Following this, the party's senior member of the party announced yesterday that he would quit the TNA.
-
-...
-
-[Data](articles/9405e30c.json)
-
-[Extended Data](ext_articles/9405e30c.ext.json)
-
----
-
-### The boys who chase wild elephants with fire;Officers who are having fun
-
-*2024-10-07 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195707) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Wild elephants frequent Kalmunai area, causing concern. Residents demand action as animals enter residential zones. Wildlife protection efforts reduce elephant-human conflicts.
-
-🟩
-
-The events of wild elephants every day have become the usual area of ​​the Kalmunai Municipal border in the Ampara district.
-
-Wild elephants have been on the rise in the Kalmunai Sainthamaruthu and Napitimunai area area near the Kalmunai Sainthamaruthu and Napitimunai area, which has been increasing in the area near the Kalmunai and Napitimunai area.
-
-Wild elephants have been visiting from 08 to 10 for the past few days in the outer field of the West.
-
-Thus, wild elephants have been logged in into a nearby residential areas and have been seen in the past few days in the process of chasing the elephants.
-
-It is noteworthy that the arrival of wild elephants in the Kalmunai Municipal Border Division is located in the Kalmunai area and the Bolivariyan residential housing project located in the Kalmunai area in Kalmunai area.
-
-The general public reports that wild elephants are in attendance, especially during the night and day.
-
-...
-
-[Data](articles/ed08de71.json)
-
-[Extended Data](ext_articles/ed08de71.ext.json)
-
----
-
-### A statement on assets and liabilities of candidates who attend the general election
-
-*2024-10-07 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201928) · `si`
-
-Candidates must submit asset-liability declarations when filing nominations for the general election. This includes all political party and independent group candidates. National list candidates must also provide these declarations to the Election Commission. Failure to comply may result in notification from the Elections Commission.
-
-🟩
-
-All candidates of political parties and independent groups who have handed over nominations to contest the general election should be handed over with nominations of the selection officers with nominations.
-
-Declaration of Assets and Liability Statements to date of appointment of Election Day, 82 (01), 82 (01), 82 (01), 82 (04), 82 (04), 82 (04)Should be submitted.
-
-Also, according to the 99 Constitution, national lists candidates should be handed over to the Election Commission with nominations of assets and liabilities.
-
-The Elections Commission is notified that failure to hand over assets and liabilities with nomination sheet.
-
-◼️
-
-[Data](articles/9eb3538a.json)
-
-[Extended Data](ext_articles/9eb3538a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 02:58:05**
+As of **2024-10-09 03:09:09**
 
 ## Newspaper Stats
 
-*Scraped **48,462** Articles*
+*Scraped **48,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 480
 bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,970
-dailyftlk | 3,273
+dailyftlk | 3,274
 adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
@@ -26,11 +26,27 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,462 (100.0%) of 48,462 articles have been extended.
+48,463 (100.0%) of 48,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Call for nine provincial units of development
+
+*2024-10-09 02:22:12* · [`dailyftlk`](https://www.ft.lk/columns/Call-for-nine-provincial-units-of-development/4-767719) · `en`
+
+The economic challenges, the debt restructuring, etc. are a perfect storm. If the promise of the constitution is to protect and promote the development of the lives of citizens, I suggest the centre and nine provinces must synergies and seamlessly harmonise government
+
+This piece was prompted by the scaling back of ministries at the centre post the recent elections. The focus has been on cutting back on waste at the centre. Governance is carried out by layered structures; i.e. national, provincial and local. There are nine second-tier provinces and 341 third-level local government: 24 municipal councils, 41 urban councils and 276 Pradeshiya sabhas (village councils). All staffed by Government employees.
+
+...
+
+[Data](articles/9882094d.json)
+
+[Extended Data](ext_articles/9882094d.ext.json)
+
+---
 
 ### E.w.w.. Competition in the elephant symbol
 
@@ -2345,23 +2361,5 @@ A fire broke out at a Kadadasi stamp on Meliban Road, Parakkottai. It is reporte
 [Data](articles/18368b44.json)
 
 [Extended Data](ext_articles/18368b44.ext.json)
-
----
-
-### Back line
-
-*2024-10-08 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டையில்-தீப்பரவல்/175-345082) · `ta`
-
-Fire breaks out at Kadadasi stamp on Meliban Road, Parakkottai. Incident ongoing.
-
-🟩
-
-A fire broke out at a Kadadasi stamp on Meliban Road, Parakkottai. It is reported that the fire is underway.
-
-◼️
-
-[Data](articles/d6348f91.json)
-
-[Extended Data](ext_articles/d6348f91.ext.json)
 
 ---

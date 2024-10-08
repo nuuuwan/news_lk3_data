@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 16:57:45**
+As of **2024-10-08 17:09:23**
 
 ## Newspaper Stats
 
-*Scraped **48,392** Articles*
+*Scraped **48,399** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 398
 colombotelegraphcom | 478
-bbccomsinhala | 479
+bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,480
+adalk | 4,483
 dailymirrorlk | 4,733
-adaderanalk | 5,705
-tamilmirrorlk | 6,561
+adaderanalk | 5,707
+tamilmirrorlk | 6,562
 virakesarilk | 7,738
 adaderanasinhalalk | 8,372
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 8,372
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,392 (100.0%) of 48,392 articles have been extended.
+48,399 (100.0%) of 48,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### US pledges continued support to bolster Sri Lanka’s economy
+
+*2024-10-08 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102536/us-pledges-continued-support-to-bolster-sri-lankas-economy) · `en`
+
+The United States has committed to providing essential support to strengthen Sri Lanka’s economy.
+
+In a meeting held today (Oct 8) at the Presidential Secretariat in Colombo, Julie J. Chung, the US Ambassador to Sri Lanka, announced that support would be focused on fostering an export-driven economy in the country, the President’s Media Division (PMD) said in a statement.
+
+Additionally, Ambassador Chung conveyed congratulations from US President Joe Biden to President Anura Kumara Dissanayake, delivered through Secretary to the President Dr. Nandika Sanath Kumanayake.
+
+She also noted that the International Monetary Fund (IMF) and the United States Agency for International Development (USAID) are prepared to offer financial support to help enhance the economic prospects of Sri Lanka, the PMD said.
+
+The United States has pledged both financial and technical support for President Anura Kumara Dissanayake’s initiatives aimed at preventing fraud and corruption, the statement mentioned.
+
+...
+
+[Data](articles/34bdf61b.json)
+
+[Extended Data](ext_articles/34bdf61b.ext.json)
+
+---
+
+### Constitutional Council approves Acting IGP appointment
+
+*2024-10-08 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102535/constitutional-council-approves-acting-igp-appointment) · `en`
+
+The Constitutional Council has approved the appointment of Senior DIG Priyantha Weerasooriya as the Acting Inspector General of Police (IGP).
+
+Weerasooriya was appointed as Acting IGP by President Anura Kumara Dissanayake on September 27, under the constitutional powers vested in the President.
+
+He had received his letter of appointment from the President’s Secretary Dr. Nandika Kumanayake at the Presidential Secretariat in Colombo on the same day.
+
+Prior to this appointment, Weerasooriya served as the Senior SIG in charge of the North Central Province, a position he held since March 2024.
+
+A law enforcement professional with 36 years of unblemished service, Weerasooriya had served across various ranks, from Police Constable to Senior DIG, with key roles in operational, middle, and strategic management.
+
+Notably, SDIG Priyantha Weerasooriya is the first officer in the 158-year history of the police service to rise from the rank of Police Constable to Inspector General of Police (IGP).
+
+...
+
+[Data](articles/c158675a.json)
+
+[Extended Data](ext_articles/c158675a.ext.json)
+
+---
 
 ### Moody will come to save the Maldives
 
@@ -113,6 +159,28 @@ President Bideman has expressed optimism to strengthen bilateral relations under
 [Data](articles/c6e9df70.json)
 
 [Extended Data](ext_articles/c6e9df70.ext.json)
+
+---
+
+### Bharat Arulzamy joined Mano
+
+*2024-10-08 16:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோவுடன்-இணைந்தார்-பாரத்-அருள்சாமி/175-345098) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Bharat Arulsamy, Vice President of Ceylon Workers Congress, joins Tamil Progressive Alliance led by Mano Ganesan.
+
+🟩
+
+Vice President of the Ceylon Workers Congress Bharat Arulsamy has joined the Tamil Progressive Alliance led by former parliamentarian Mano Ganesan.
+
+◼️
+
+[Data](articles/035994e2.json)
+
+[Extended Data](ext_articles/035994e2.ext.json)
 
 ---
 
@@ -328,6 +396,26 @@ Norwood police said the rescued young man was 18-20 years old and is conducting 
 
 ---
 
+### Here is the decision by Vasu's party about the general election
+
+*2024-10-08 15:23:25* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණ​ය-ගැන-වාසුගේ-පක්ෂය-ගත්ත-තීරණය-මෙන්න/11-412372) · `si`
+
+Democratic Left Front supports national propaganda in upcoming general election. UNP MP Vasudeva Nanayakkara announced decision at press conference.
+
+🟩
+
+Democratic Left Front has decided to support the national propaganda at the next general election.
+
+The General Secretary of the UNP MP Vasudeva Nanayakkara said about a press conference held at a press conference held today (08).
+
+◼️
+
+[Data](articles/2b1827cc.json)
+
+[Extended Data](ext_articles/2b1827cc.ext.json)
+
+---
+
 ### Greeting Joe Bidan
 
 *2024-10-08 15:09:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-ஜோ-பைடன்-வாழ்த்து/175-345087) · `ta`
@@ -498,6 +586,30 @@ The Minister was speaking at the press conference held at the Government Informa
 
 ---
 
+### Kataragama Runs
+
+*2024-10-08 13:42:43* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-හිටපු-ග්‍රාමසේවක-වෙඩි-තබාගෙන-ජීවිතක්ෂයට/11-412370) · `si`
+
+Retired Grama Niladhari Anura Wickremasinghe killed in Kataragama. Occurred in his home. Served in Kataragama and Moneragala districts. Author of nine books. Kataragama Police investigating.
+
+🟩
+
+Anura Wickremasinghe, who is a retired Grama Niladhari, has been shot dead on firearms and has been shot on firearms.
+
+These suicide have been committed in a room in the house where Kataragama is located in Kadasuriyagama. Anura Wickremasinghe has served as a Grama Niladhari Division in several places in Kataragama and Moneragala district.
+
+Anura Wickremesinghe has written nine books as a writer as a writer who publicly expressed the new alcohol in Kataragama recently.
+
+Kataragama Emergency Inspector Saman Wickremesinghe and former Chairman of the Kataragama Pradeshiya Sabha Asko Wickramasinghe. Kataragama Police are conducting further investigations.
+
+◼️
+
+[Data](articles/eff0fae1.json)
+
+[Extended Data](ext_articles/eff0fae1.ext.json)
+
+---
+
 ### Fire in a building at Maliban Street
 
 *2024-10-08 13:39:14* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුව---මැලිබන්-වීදියේ-ගොඩනැගිල්ලක-ගින්නක්/11-412369) · `si`
@@ -533,6 +645,32 @@ However, party leader Sajith Premadasa will contest this time in the Colombo dis
 [Data](articles/10e83daa.json)
 
 [Extended Data](ext_articles/10e83daa.ext.json)
+
+---
+
+### Thondamanla's big branch escapes
+
+*2024-10-08 13:22:32* · [`adalk`](https://www.ada.lk/breaking_news/තොණ්ඩමන්ලාගේ-ලොකු-අත්තක්-ගැලවෙයි/11-412368) · `si`
+
+Here's a 200-character summary:
+
+
+
+Bharatha Arulzami joins Democratic People's Front. Formerly Kandy District VP Ceylon Workers Congress. Son of MP S. Euslany. Leads Tamil Progress Alliance in Kandy district election campaign.
+
+🟩
+
+Mr. Bharatha Arulzami, the Kandy District and Vice President of the Ceylon Workers Congress, has joined the Democratic People's Front, leader of Tamil Progress Democracy.
+
+Mr. Bharaththalzamy has also served as the Chairman of Human Resource Trust and the son of the Ceylon Workers Congress is the son of MP Mr. S. Euulsamy.
+
+A Tamil Progress Alliance said that Mr. Bharatuwa Arulzami, along with the Democratic People's Front, said that the nomination campaign will be handed over to the Kandy district election.
+
+◼️
+
+[Data](articles/bb396d49.json)
+
+[Extended Data](ext_articles/bb396d49.ext.json)
 
 ---
 
@@ -1125,6 +1263,24 @@ The Sri Lanka Excise Department is one of the main revenue collection agencies o
 [Data](articles/2e33c14a.json)
 
 [Extended Data](ext_articles/2e33c14a.ext.json)
+
+---
+
+### Voice from Gaza through BBC radio
+
+*2024-10-08 10:59:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqjr9evj5kjo) · `si`
+
+BBC Radio broadcasts daily from Gaza, sharing experiences and advice. Journalist Amara reports bombings, displacement, and arrests during live programs. Radio remains vital communication link amidst conflict.
+
+🟩
+
+BBC News Broadcasting a daily radio program for nearly a year. By that, they share their experiences and gives them advice. Often, when all other communication is disconnected, radio is the only way to close to them to talk to them. Amara, a journalist serving in the program, shared very sensitive and sad occasions with us. The bombings were heard in a girl and the narrow column, who had lost their friends and the narrow column in the narrow column, and after a few months after the IDPs were forcibly displaced,. It also contains the story of a medical servant arrested by the Israeli security force while participating at a live radio program.
+
+◼️
+
+[Data](articles/1e136ae2.json)
+
+[Extended Data](ext_articles/1e136ae2.ext.json)
 
 ---
 
@@ -2167,125 +2323,5 @@ There is increasing recognition that sustainability can lead to long-term econom
 [Data](articles/6a963b70.json)
 
 [Extended Data](ext_articles/6a963b70.ext.json)
-
----
-
-### ACCA’s Approved Employer Program elevates finance careers and industry standards
-
-*2024-10-08 05:57:27* · [`dailyftlk`](https://www.ft.lk/opinion/ACCA-s-Approved-Employer-Program-elevates-finance-careers-and-industry-standards/14-767679) · `en`
-
-Prioritising the needs of both professionals and employers, The Association of Chartered Certified Accountants (ACCA) is setting benchmarks in the finance sector, by placing employability at the heart of its mission through its Approved Employer Program.
-
-ACCA Business Development Manager - Members and Employers Ruchera Jayawardena Peries emphasised “our mission is to develop highly skilled, globally recognised finance professionals, equipped with the skills employer’s demand. This not only enhances individual careers but also elevates standards across the entire finance profession.”
-
-...
-
-[Data](articles/1d3a11cc.json)
-
-[Extended Data](ext_articles/1d3a11cc.ext.json)
-
----
-
-### Priority matrix for tea sector: Part 2
-
-*2024-10-08 05:55:58* · [`dailyftlk`](https://www.ft.lk/columns/Priority-matrix-for-tea-sector-Part-2/4-767678) · `en`
-
-To restore or to maintain in the long run, Ceylon tea’s pre-eminence in terms of quality and reputation, a complete overhaul of Sri Lanka’s extension approach is crucial, driven by digitalisation, socioeconomic strategies, and scientific innovations to produce tea to its highest quality at the highest productivity (optimum yield). The current methods must evolve to meet the demands of modern tea production and global market standards.
-
-A new framework is needed that integrates cutting-edge tools with advanced agronomic practices and considers the socioeconomic realities of smallholders, estate managers, and processors. By leveraging mobile platforms, precision agriculture, data analytics, and real-time feedback systems, tea producers can access essential knowledge and resources more efficiently, making informed decisions on replanting, mechanisation, and sustainable farming techniques.
-
-...
-
-[Data](articles/dc337318.json)
-
-[Extended Data](ext_articles/dc337318.ext.json)
-
----
-
-### Political rupture in Sri Lanka: What lies ahead?
-
-*2024-10-08 05:50:54* · [`dailyftlk`](https://www.ft.lk/columns/Political-rupture-in-Sri-Lanka-What-lies-ahead/4-767677) · `en`
-
-If Sri Lankans rally behind Dissanayake and the NPP at the forthcoming general elections, then the IMF may need to listen – Pic by Shehan Gunasekara
-
-21 September was a day of many firsts in Sri Lanka. Millions of people went to the polls to vote in the first Presidential elections since mass protests forced the country’s last elected president, Gotabaya Rajapaksa, from office in 2022. 1, 2
-
-It also marked the first time in Sri Lanka’s history that a second round of counting had to take place after none of the candidates secured the 50% margin required for victory.
-
-A count of the second-choice votes revealed the biggest shock in decades. In Anura Kumara Dissanayake, Sri Lankans for the first time elected a candidate who does not belong to the two major parties that have dominated the country’s politics since independence in 1948.3
-
-Dissanayake leads the National People’s Power alliance (NPP), which includes his Janatha Vimukthi Peramuna (JVP) – a party known for its leftwing policies.
-
-...
-
-[Data](articles/e8256cda.json)
-
-[Extended Data](ext_articles/e8256cda.ext.json)
-
----
-
-### Harini Amarasuriya: First among equals
-
-*2024-10-08 05:45:54* · [`dailyftlk`](https://www.ft.lk/columns/Harini-Amarasuriya-First-among-equals/4-767676) · `en`
-
-Will she be voted back as the first non-dynastic woman PM of South Asia?
-
-South Asia is no stranger to women holding top positions of political power. Sri Lanka led the way with Sirimavo Bandaranaike being the world’s first ever woman Prime Minister. She took on the mantle (party leader SLFP) vacated by her husband S.W.R.D. Bandaranaike who was assassinated in 1959. She ran for elections in 1960 and won and later on again in 1970 she took on the role of PM. Her daughter Chandrika Kumaratunga too became PM from August to November 1994 and was later on President of Sri Lanka from 1994-2005.
-
-...
-
-[Data](articles/67d48244.json)
-
-[Extended Data](ext_articles/67d48244.ext.json)
-
----
-
-### Corruption is not the cause
-
-*2024-10-08 05:40:39* · [`dailyftlk`](https://www.ft.lk/columns/Corruption-is-not-the-cause/4-767675) · `en`
-
-Sri Lanka’s economic woes are overwhelmingly a result of stupidity, not corruption
-
-Jail the corrupt and bring our money back! This is the cry of our times. It rings from the four corners of the island and echoes across the usual divisions of race, religion, language and class. For our woes were caused by corruption, and redemption will be found when the thieves are caught and their loot returns to the public purse.
-
-Alas this solution is no salvation. Much that was stolen never left us. Instead it was recycled at home for patronage and campaigns. Even if a few billion dollars were siphoned away, prospects of retrieval are slim. The World Bank’s report on stolen assets is called “Few and Far Between” for a reason. It laments that between 2006 and 2012 all developed countries only returned $ 423 million in stolen assets.1 Nor will jailing the chief miscreants prevent the same mistakes from happening again.
-
-...
-
-[Data](articles/ad690b1c.json)
-
-[Extended Data](ext_articles/ad690b1c.ext.json)
-
----
-
-### Sunshine Healthcare Lanka attracts $ 10 m FDI from IFC
-
-*2024-10-08 05:35:55* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Healthcare-Lanka-attracts-10-m-FDI-from-IFC/34-767673) · `en`
-
-From left: IFC Senior Country Officer Victor Antonypillai, IFC Regional Director for South Asia Imad Fakhoury, Sunshine Holdings Group CEO Shyam Sathasivam, IFC Vice President for Asia Pacific Riccardo Puliti, Sunshine Holdings Deputy Vice Chairman Vish Govindasamy, IFC Sri Lanka and Maldives Country Manager Alejandro Alvarez de la Campa, IFC Senior Investment Officer Priyanka Cooray
-
-Sunshine Healthcare Lanka Ltd. (SHL), the healthcare arm of diversified conglomerate Sunshine Holdings PLC, yesterday announced the successful conclusion of the approximately Rs. 3,270 million equity investment from the International Finance Corporation (IFC), a member of the World Bank Group.
-
-It said this landmark investment strengthens SHL’s vision to expand healthcare accessibility and bolster innovation across Sri Lanka.
-
-...
-
-[Data](articles/0d0abdc0.json)
-
-[Extended Data](ext_articles/0d0abdc0.ext.json)
-
----
-
-### Emojot announces leadership restructuring and secures strategic investment to accelerate growth
-
-*2024-10-08 05:34:43* · [`dailyftlk`](https://www.ft.lk/business/Emojot-announces-leadership-restructuring-and-secures-strategic-investment-to-accelerate-growth/34-767672) · `en`
-
-From left: Sachintha Ponnamperuma, Dr. Shahani Markus and Andun Liyanagunawardana
-
-...
-
-[Data](articles/dec40a63.json)
-
-[Extended Data](ext_articles/dec40a63.ext.json)
 
 ---

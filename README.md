@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 16:23:05**
+As of **2024-10-08 16:38:38**
 
 ## Newspaper Stats
 
-*Scraped **48,384** Articles*
+*Scraped **48,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,128 @@ economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,480
 dailymirrorlk | 4,733
-adaderanalk | 5,702
-tamilmirrorlk | 6,559
+adaderanalk | 5,704
+tamilmirrorlk | 6,561
 virakesarilk | 7,738
-adaderanasinhalalk | 8,369
+adaderanasinhalalk | 8,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,384 (100.0%) of 48,384 articles have been extended.
+48,389 (100.0%) of 48,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Bharat joined Mano
+
+*2024-10-08 16:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோவுடன்-இணைந்தார்-பாரத்/175-345098) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Bharat Arulsamy, Vice President of Ceylon Workers Congress, joins Tamil Progressive Alliance under Mano Ganesan's leadership.
+
+🟩
+
+Vice President of the Ceylon Workers Congress Bharat Arulsamy has joined the Tamil Progressive Alliance led by former parliamentarian Mano Ganesan.
+
+◼️
+
+[Data](articles/ef59bf26.json)
+
+[Extended Data](ext_articles/ef59bf26.ext.json)
+
+---
+
+### Appointment of new organizer of CWC
+
+*2024-10-08 16:10:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவின்-புதிய-அமைப்பாளர்-நியமனம்/175-345097) · `ta`
+
+Balakrishnan Prasadkumar named new CWC organizer for Kandy district. Appointed after discussions with senior party members. Replaces previous top organizer. Younger generation leader previously served as Senior Organizer for CWC Youth Team. Event attended by General Secretary Jeevan Thondaman, Chairman Senthil Thondaman, and Chairman Maruthapandi Rameswaran.
+
+🟩
+
+Balakrishnan Prasadkumar has been appointed as the new political and trade union organizer of the CWC for the Kandy district today (08).
+
+The status quo has been issued after a discussion with party high -ranking party members today (08) at the CWC headquarters.
+
+It is also worth noting that the CWC leadership has completed the last 24 hours to meet the vacancy of the post of the top organizer in the Kandy district.
+
+It is noteworthy that Balakrishnan Prasad Kumar is a younger generation and has done his duty as the Senior Organizer of the CWC Youth Team for the Kandy district in the past.
+
+The event was presented by CWC General Secretary Jeevan Thondaman, Chairman Senthil Thondaman and Chairman Maruthapandi Rameswaran.
+
+◼️
+
+[Data](articles/d4202022.json)
+
+[Extended Data](ext_articles/d4202022.ext.json)
+
+---
+
+### Chinese warship ‘Po Lang’ docks in Colombo
+
+*2024-10-08 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102533/chinese-warship-po-lang-docks-in-colombo) · `en`
+
+The Chinese People’s Liberation Army Navy Sail Training Warship ‘Po Lang’ has arrived at the port of Colombo on a formal visit this morning (08 October). The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions.
+
+‘PO LANG’ is an 86-meter-long Sail Training Vessel crewed by 130 personnel including 35 Officer Cadets, Sri Lanka Navy said in a statement.
+
+Meanwhile, the Commanding Officer of the ship, Commander Ma Wenyong is scheduled to call on the Commander Western Naval Area, Rear Admiral Chinthaka Kumarasinghe at the Western Naval Command Headquarters today (08).
+
+To strengthen the camaraderie between the two navies, crew members of the ship are set to participate in a series of programmes organized by the Sri Lanka Navy, the statement added.
+
+...
+
+[Data](articles/50d7c29e.json)
+
+[Extended Data](ext_articles/50d7c29e.ext.json)
+
+---
+
+### Nobel Prize for Physics
+
+*2024-10-08 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201955) · `si`
+
+John Hopfield (Princeton) and Geoffrey Hinton (Toronto) won the Nobel Prize for Physics. Awarded by the Royal Swedish Academy of Sciences for work in statistical physics.
+
+🟩
+
+John Hopfield and Geoffrey Hinton have been able to win the Nobel Prize for Physics.
+
+Hopfield was conducted at Princeton University and Hinston works at the University of Toronto.
+
+The prize was awarded by the Nobel Committee of the Royal Academy of the Royal Academy of Sweden Science, the two scientists using statistical physics schedule.
+
+◼️
+
+[Data](articles/64212483.json)
+
+[Extended Data](ext_articles/64212483.ext.json)
+
+---
+
+### Arrest warrant issued against Upul Tharanga for failure to appear at court
+
+*2024-10-08 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102532/arrest-warrant-issued-against-upul-tharanga-for-failure-to-appear-at-court) · `en`
+
+The Matale High Court has issued an arrest warrant against the Chairman of the Selection Committee at Sri Lanka Cricket (SLC), former Sri Lankan cricketer Upul Tharanga today (08).
+
+The arrest warrant has reportedly been issued over failure to appear before the court pertaining to a match-fixing case during the 2024 Legends Cricket Tournament.
+
+However, the relevant case has been filed by Tharanga himself and he has left the country for cricketing purposes without informing the court in that regard.
+
+◼️
+
+[Data](articles/36da46ba.json)
+
+[Extended Data](ext_articles/36da46ba.ext.json)
+
+---
 
 ### Attack in the Black Sea
 
@@ -2147,129 +2255,5 @@ A protest was held in front of the United Nations (UN) office in Colombo yesterd
 [Data](articles/8cdd9590.json)
 
 [Extended Data](ext_articles/8cdd9590.ext.json)
-
----
-
-### 56 Pakistanis imprisoned in SL return home
-
-*2024-10-08 05:28:50* · [`dailyftlk`](https://www.ft.lk/news/56-Pakistanis-imprisoned-in-SL-return-home/56-767668) · `en`
-
-ISLAMABAD: 56 Pakistanis imprisoned in Sri Lanka for several years are being brought back to Pakistan on a chartered plane, on Sunday.
-
-In a meeting with Prime Minister Shehbaz Sharif in Lahore, the interior minister briefed him on the return of 56 Pakistani prisoners from Sri Lanka. He said Federal Minister Abdul Aleem Khan was willing to bear all expenses for the return of Pakistani prisoners.
-
-The Prime Minister appreciated the efforts of both Cabinet members for facilitating the return of the prisoners.
-
-A chartered plane was earlier dispatched to bring the prisoners back to Pakistan, APP adds.
-
-The repatriation was a result of three months of coordination between the interior Ministry, under the direction of Mohsin Naqvi, and Sri Lankan authorities.
-
-Naqvi had tasked the Ministry with facilitating the release and return of the Pakistani nationals. He expressed his gratitude to the Sri Lankan Government and its High Commissioner for their assistance in the matter.
-
-...
-
-[Data](articles/a8293f16.json)
-
-[Extended Data](ext_articles/a8293f16.ext.json)
-
----
-
-### Indian financial aid opens ‘new chapter’ with Maldives
-
-*2024-10-08 05:28:21* · [`dailyftlk`](https://www.ft.lk/news/Indian-financial-aid-opens-new-chapter-with-Maldives/56-767667) · `en`
-
-BBC: India has agreed to extend hundreds of millions of dollars in financial support to the Maldives to help strengthen its struggling economy.
-
-The deal was announced after Maldives President Mohammed Muizzu held talks with Prime Minister Narendra Modi during his five-day visit to India.
-
-The support includes a $ 400 million currency swap deal and an additional Rs. 30 billion ($ 357 million; £ 273 million) in another swap agreement which will allow companies to do business in local currencies rather than in US dollars.
-
-The Maldivian President was given red carpet treatment after relations soured in recent months. Modi called his visit a ‘new chapter’ in ties.
-
-“India will always be there for the progress and prosperity of the people of Maldives,” he said.
-
-The statements – and the Indian financial package – signal a significant improvement in relations between Male and Delhi, which have been strained since Muizzu came to power in November 2023.
-
-...
-
-[Data](articles/072fc0df.json)
-
-[Extended Data](ext_articles/072fc0df.ext.json)
-
----
-
-### Kalalaya School of Dance and Music ‘Navarathiri’ on 9 Oct.
-
-*2024-10-08 05:27:22* · [`dailyftlk`](https://www.ft.lk/news/Kalalaya-School-of-Dance-and-Music-Navarathiri-on-9-Oct/56-767666) · `en`
-
-The Kalalaya School of Dance and Music, which was established by the Sri Lanka Tamil Women’s Union in 1948, will be celebrating ‘Navarathiri’ at the Kalalaya Hall at No. 400/2, Bauddhaloka Mawatha on 9 October.
-
-New students will be enrolled for Carnatic Music and Bharatha Natyam on ‘Vijayadabami’ on Saturday, 12 October at 10 a.m. Those who are interested in learning Carnatic Music and/or Bharatha Natyam are requested to enrol themselves by calling one of the following telephone numbers before 12 October: Principal, Kalalaya – 0777 55 7051 or Vice Principal – 0777 88 5434.
-
-The Sri Lanka Tamil Women’s Union, founded in 1909, is headed by its new President Yalini Cooke, and Gowri Shankar Somasundaram and Adhirupini Thiyagarajah have been appointed as the Principal and Vice Principal, respectively, of the Kalalaya School of Dance and Music.
-
-◼️
-
-[Data](articles/585499df.json)
-
-[Extended Data](ext_articles/585499df.ext.json)
-
----
-
-### England progresses to the top spot by defeating South Africa in the Women's R20 World Cup
-
-*2024-10-08 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195723) · `ta`
-
-England beats South Africa in Women's R20 World Cup, winning by 7 wickets. Key players: Deni Viet Haj, Net Shivar Brand. South Africa scored 124 runs in 20 overs. England advances chances for semi-finals.
-
-🟩
-
-England won by 7 wickets in the Sharjah Cricket Stadium against South Africa on Monday (07).
-
-With this victory, the England and B team teams have increased their chances for the semi -finals.
-
-In response, England were bowled out for 125 runs for the loss of 125 runs in 19.2 overs, scoring 125 runs.
-
-England's start, scoring only 3 runs in the first two overs, did not excel.
-
-However, the speed of the drive has increased and the efficient bats of both Deni Vietal Haj and Net Shivar Brand have ensured England's success.
-
-There is no denying that South Africa's victory played a key role in the missing of 3 bats, including 2 grip, South Africa.
-
-The total number of England was 16 runs when the initial hero Mala Boucher (8) lost the game.
-
-Deni Viet Haj and Alice Kepsi then shared 34 runs in the 2nd wicket.
-
-Subsequently, Deni Viet Haj and Net Sivar Brend shared 64 runs in 55 balls in the 3rd wicket.
-
-However, Net Shivar Brand gave 11 runs that needed further success.
-
-...
-
-[Data](articles/9af8ab89.json)
-
-[Extended Data](ext_articles/9af8ab89.ext.json)
-
----
-
-### Can fuel prices be reduced?
-
-*2024-10-08 02:04:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy80yz7pzl1o) · `si`
-
-Fuel prices reduced under President Anura Kumara Dissanayake. Pre-election promises made but implementation delayed due to parliamentary approvals needed. Impact debated, with some arguing benefits mainly for wealthy consumers rather than reducing economic burden.
-
-🟩
-
-Fuel prices from 1st October have been reduced by the first fuel prices implemented by President Anura Kumara Dissanayake.
-
-However, before he became the presidential declarations, some had questioned the propaganda rally.
-
-Skip Facebook Post, you agree to reach the content of 1facebook content? This article contains content provided by Facebook. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Facebook cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the external web sites.
-
-...
-
-[Data](articles/c489184f.json)
-
-[Extended Data](ext_articles/c489184f.ext.json)
 
 ---

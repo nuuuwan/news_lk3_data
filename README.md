@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 17:39:59**
+As of **2024-10-08 17:59:55**
 
 ## Newspaper Stats
 
-*Scraped **48,403** Articles*
+*Scraped **48,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,483
+adalk | 4,484
 dailymirrorlk | 4,733
 adaderanalk | 5,708
-tamilmirrorlk | 6,563
+tamilmirrorlk | 6,565
 virakesarilk | 7,738
-adaderanasinhalalk | 8,374
+adaderanasinhalalk | 8,375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,403 (100.0%) of 48,403 articles have been extended.
+48,407 (100.0%) of 48,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Applications of the Dhamma School Final Examination are extended
+
+*2024-10-08 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201961) · `si`
+
+Dhamma School exam application deadline extended to April 21, 2014. Obtain forms from www.doenets.lk, submit completed applications to Commissioner General of Examinations, Department of Examinations, Colombo.
+
+🟩
+
+The applications of the Dhamma School Last Certificate Examination has been extended to 21.04.2014 to 21.2014.
+
+Commissioner General of Examinations, Amit Jayasundara has made this statement.
+
+Accordingly, the applications have to be obtained from the website www.doenets.lk and the necessary steps have been made from all Divisional Secretariats.
+
+Completed applications should be sent to the Commissioner General of Examinations, the Commissioner General of Examinations, the Commissioner General of Examinations, the Department of Examinations, PO, 1503, Colombo.
+
+◼️
+
+[Data](articles/ee277324.json)
+
+[Extended Data](ext_articles/ee277324.ext.json)
+
+---
+
+### Eight years in prison for lawyer
+
+*2024-10-08 17:26:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணிக்கு-எட்டு-வருட-கடூழிய-சிறை/175-345102) · `ta`
+
+Lawyer sentenced to 8 years for land fraud. Colombo High Court judge rules accused used deceased lawyer's license to defraud land bonds. Senior attorney appeals for harsher sentences to deter similar crimes.
+
+🟩
+
+Colombo High Court Judge Aditya Badapandike sentenced him to 8 years' rigorous imprisonment on Tuesday (08), who was accused of allegedly making land guarantees and accused of fraud.
+
+The accused was sentenced to four years for a five-year sentence and a sentence of two charges and Rs 20,000/-.
+
+The judge ruled that the accused lawyer has undoubtedly proven that the deceased lawyer has defrauded the land bonds using the dead lawyer's license.
+
+Senior lawyer Lishan Ratnayan, who appeared on behalf of the government, has appealed to the defendant to be sentenced to others who commit such crimes, as the community is in a state of decline due to the crimes committed by the law.
+
+On October 11, 2013, the Attorney General has filed a lawsuit against the defendant on charges of fraudulently producing bonds and false documents for the land using a fake Nondaris license in the Rajagiriya Koswatta area.
+
+...
+
+[Data](articles/f4895a8a.json)
+
+[Extended Data](ext_articles/f4895a8a.ext.json)
+
+---
+
+### Postal Voting Application Date Prolongation
+
+*2024-10-08 17:21:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்களிப்பு-விண்ணப்பத்-திகதி-நீடிப்பு/175-345101) · `ta`
+
+Elections Commission extends general election application deadline until midnight tomorrow due to postal delays and commission requests. Postal voting applications now accepted until October 8, 2024, at 12:00 PM. Applications can also be submitted at District Election Offices from October 9-10, 2024.
+
+🟩
+
+The Elections Commission said that the deadline for the upcoming general election has been extended till midnight tomorrow (8).
+
+The extension was carried out in view of the delay in the post and the demands of the Commission, as the post was announced to accept the postal voting applications for the parliamentary election, which will be completed at 12.00 pm on October 08, 2024.
+
+In order to avoid the delay in applications, on the 9th and 10th of October 2024, steps have been taken to bring them to the District Elections Office of the District Elections Office where the office is located in different correspondence in different correspondence.
+
+◼️
+
+[Data](articles/aa39c20a.json)
+
+[Extended Data](ext_articles/aa39c20a.ext.json)
+
+---
 
 ### 2024 General Election: Deadline for postal voting applications extended
 
@@ -153,6 +225,24 @@ Mr. Weerasuriya was duty as Senior DIG in charge of the North Central Province w
 [Data](articles/5f65fd48.json)
 
 [Extended Data](ext_articles/5f65fd48.ext.json)
+
+---
+
+### Here are over 100 mm in these provinces
+
+*2024-10-08 16:39:58* · [`adalk`](https://www.ada.lk/breaking_news/හෙටත්-මෙන්න-මේ-පලාත්වලට-මි-මී-100-ඉක්මවා-වැසි/11-412373) · `si`
+
+Heavy rainfall expected: 100mm+ in Western, Sabaragamuwa, Central, Uva, Eastern provinces.
+
+🟩
+
+The Department of Meteorology has informed that there will be heavy at least 100 mm in the Western, Sabaragamuwa, Central, Central, Uva and Eastern provinces..  ( I J )
+
+◼️
+
+[Data](articles/62b70d04.json)
+
+[Extended Data](ext_articles/62b70d04.ext.json)
 
 ---
 
@@ -2273,81 +2363,5 @@ The award was presented by Zero Discharge of Hazardous Chemicals (ZDHC) South As
 [Data](articles/d4e82ba8.json)
 
 [Extended Data](ext_articles/d4e82ba8.ext.json)
-
----
-
-### Calin Baby Soap products receive SLS certification
-
-*2024-10-08 06:21:20* · [`dailyftlk`](https://www.ft.lk/business/Calin-Baby-Soap-products-receive-SLS-certification/34-767685) · `en`
-
-The Delma Lanka Company held a media event on 1 October at the Shangri-La Hotel premises in Colombo to raise awareness about the SLS certification for Calin Baby Soap products.
-
-It was presided over by Delma Lanka Company Founder Lelwala G. Piyananda, Managing Director Umesh Godakanda, and Director Chaturika Jayasekara.
-
-President’s Counsel Dr. Harsha Cabral and Senior Advocate Sunil Watagala were the Chief Guests, and a large number of people representing all print media, including television channels, radio channels, newspapers, and social media, participated in this event. Calin company’s trade representatives, trade partners, and many distinguished guests, including artists, also participated in this event.
-
-Maternal and Child Health Adviser Shyamali Pathirage, President’s Counsel Dr. Cabral, and Senior Attorney Sunil Vetagala addressed the ceremony and gave comments.
-
-...
-
-[Data](articles/c9b2fe2d.json)
-
-[Extended Data](ext_articles/c9b2fe2d.ext.json)
-
----
-
-### A coat of protection for Sri Lanka’s high-rise buildings
-
-*2024-10-08 06:19:59* · [`dailyftlk`](https://www.ft.lk/business/A-coat-of-protection-for-Sri-Lanka-s-high-rise-buildings/34-767684) · `en`
-
-Civil & Structural Engineering Consultants Managing Director/Principal Structural Engineer Shiromal Fernando
-
-Shiromal Fernando explains how high performance paints not only beautify but also preserve the structural integrity of modern buildings.
-
-Amid Colombo’s rapidly evolving skyline, maintaining the longevity and appeal of modern buildings has become increasingly critical. For structural engineers like Shiromal Fernando, the challenge goes beyond aesthetics—it’s about safeguarding buildings against harsh weather conditions and ensuring their durability over time. As a Principal Structural Engineer at Civil & Structural Engineering Consultants Ltd., Fernando has contributed to some of the tallest developments in Sri Lanka. In this interview, he shares his expert insights on the essential qualities required for exterior finishes to protect and preserve the structural integrity of these towering landmarks.
-
-...
-
-[Data](articles/1e19d0ff.json)
-
-[Extended Data](ext_articles/1e19d0ff.ext.json)
-
----
-
-### Heavy rain
-
-*2024-10-08 06:19:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-பலத்த-மழை/175-345062) · `ta`
-
-Heavy rain warning: 100+mm expected in Sabaragamuwa, North Western provinces and parts of Galle, Matara, Kandy, Nuwara Eliya districts.
-
-🟩
-
-In some parts of the country, heavy rainfall is likely to occur over 100 millimeters, according to a renewed report issued by the Department of Meteorology.
-
-According to the report, there will be more than 100 mm of heavy rains in the top, Sabaragamuwa and North Western Provinces in some parts of Galle, Matara, Kandy and Nuwara Eliya districts.. (A)
-
-◼️
-
-[Data](articles/6690fa40.json)
-
-[Extended Data](ext_articles/6690fa40.ext.json)
-
----
-
-### Fuelling innovation from grassroots to global
-
-*2024-10-08 06:16:39* · [`dailyftlk`](https://www.ft.lk/business/Fuelling-innovation-from-grassroots-to-global/34-767683) · `en`
-
-AOD’s Sri Lanka Design Festival 2024 to unveil ‘Innovation Island’ at Cinnamon Life – City of Dreams Sri Lanka
-
-Sri Lanka, a nation bearing enough promise to go beyond the adversity it has faced—from the Easter attacks of 2019 to a major economic collapse on top of the global pandemic—stands at a moment calling for renewal. The 15th edition of the Sri Lanka Design Festival (SLDF) by The Academy of Design (AOD), to be hosted at the iconic Cinnamon Life Integrated Resort, presents a roadmap to leverage creative industries to support the nation’s revival at this turning point. It’s more than a festival—a symbol of the country’s resilience, a representation of how creativity and innovation can rebuild a nation’s spirit and future.
-
-In this exclusive interview, Linda Speldewinde, Visionary Founder of AOD/SLDF and pioneer of the creative industries in Sri Lanka, shares her insights on how creative innovation is setting the stage for Sri Lanka’s revival.
-
-...
-
-[Data](articles/acff9474.json)
-
-[Extended Data](ext_articles/acff9474.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 22:57:16**
+As of **2024-10-08 23:09:50**
 
 ## Newspaper Stats
 
-*Scraped **48,439** Articles*
+*Scraped **48,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,492
 dailymirrorlk | 4,733
-adaderanalk | 5,711
+adaderanalk | 5,713
 tamilmirrorlk | 6,568
 virakesarilk | 7,747
 adaderanasinhalalk | 8,383
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,439 (100.0%) of 48,439 articles have been extended.
+48,441 (100.0%) of 48,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Three prison officers interdicted after inmates escape
+
+*2024-10-08 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102542/three-prison-officers-interdicted-after-inmates-escape) · `en`
+
+Three officers at the Angunakolapelessa Prison have been interdicted following the escape of four inmates on October 1, 2024.
+
+The incident had occurred after ten inmates were reportedly taken out of the prison for cleaning activities in the premises outside the prison without the approval of the Prison Superintendent.
+
+The Chief Jailer had arranged for the ten prisoners to be taken outside to clean the outer premises, during which four inmates had escaped custody, said the Prisons Spokesperson.
+
+The escaped prisoners include individuals with pending court cases, one of whom has a 21-year sentence and two pending cases.
+
+Meanwhile, three of the escaped inmates have been recaptured, while one still remains at large, the spokesman said.
+
+The Chief Jailer and two other officers including a secondar jailor and a guard have been suspended pending further investigation into the incident.
+
+◼️
+
+[Data](articles/74bd0b94.json)
+
+[Extended Data](ext_articles/74bd0b94.ext.json)
+
+---
+
+### Amnesty period for unregistered Sri Lankan migrant workers in Lebanon
+
+*2024-10-08 22:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102541/amnesty-period-for-unregistered-sri-lankan-migrant-workers-in-lebanon) · `en`
+
+Sri Lankans who have traveled to Lebanon for employment without registering with the Sri Lanka Bureau of Foreign Employment (SLBFE) have been granted an amnesty until January 8, 2025.
+
+Accordingly, this initiative allows unregistered migrant workers to rectify their status by registering at the Sri Lankan Embassy in Lebanon.
+
+◼️
+
+[Data](articles/43f6fb3f.json)
+
+[Extended Data](ext_articles/43f6fb3f.ext.json)
+
+---
 
 ### Special Relief for Sri Lankans
 
@@ -2343,51 +2383,5 @@ Cabinet spokesperson Vijitha Herath said that the proposal made by the Public De
 [Data](articles/dccd6262.json)
 
 [Extended Data](ext_articles/dccd6262.ext.json)
-
----
-
-### Appointment of Professor Harindra Dissabandara
-
-*2024-10-08 10:43:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-ஹரீந்திர-திசபண்டார-நியமனம்/175-345074) · `ta`
-
-Professor Harindra Dissabandara appointed Chairman of SEC. Formerly Director General and Director of Financial Services Academy. Also Professor of Finance at Sri Jayawardenapura University.
-
-🟩
-
-Senior Professor Harindra Dissabandara has been appointed as the new Chairman of the Sri Lanka's Securities and Transaction Commission (SEC).
-
-He was formerly the Director General of the SEC and the Director of the Financial Services Academy and Capital Market Education and Training Unit from 2008 to 2012.
-
-It is also worth noting that Professor of Finance and Institution of Finance, Management Studies and Business at Sri Jayawardenapura University, Dissabandara.
-
-◼️
-
-[Data](articles/12a54cf6.json)
-
-[Extended Data](ext_articles/12a54cf6.ext.json)
-
----
-
-### Commissioner General of Excise M.. J. Gunasiri's service will be completed
-
-*2024-10-08 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201944) · `si`
-
-Commissioner General of Excise M.J. Gunasiri's service ends immediately. Government decision made by President Anura Kumara Dissanayake. Approved by Cabinet. Working on contract basis. Replaced by Additional Secretary (Establishment Coordinating 2).
-
-🟩
-
-Commissioner General of Excise M.. J. The government has decided to complete the service of Mr. Gunasiri with immediate effect.
-
-Cabinet spokesman Vijitha Herath said that the proposal was made by President Anura Kumara Dissanayake and received the approval of the Cabinet.
-
-Mr. Gunasiri was working on contract basis as the Commissioner General of Excise.
-
-The Cabinet has been approved by the Additional Secretary (Establishment Coordinating 2) to be the Additional Secretary to the post.
-
-◼️
-
-[Data](articles/c0ed2203.json)
-
-[Extended Data](ext_articles/c0ed2203.ext.json)
 
 ---

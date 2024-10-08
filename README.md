@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 10:11:38**
+As of **2024-10-08 10:23:14**
 
 ## Newspaper Stats
 
-*Scraped **48,323** Articles*
+*Scraped **48,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,693
 tamilmirrorlk | 6,540
 virakesarilk | 7,733
-adaderanasinhalalk | 8,357
+adaderanasinhalalk | 8,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,315 (100.0%) of 48,323 articles have been extended.
+48,320 (100.0%) of 48,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Prison regulator's illegal work
+
+*2024-10-08 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201943) · `si`
+
+STF arrests prison guard with mobile phone charger and data device during investigation. Incident occurred in Bau district.
+
+🟩
+
+A prison guard with a mobile phone charge and a DATA has been arrested by the STF personnel carrying a mobile phone charge and a DATA.
+
+The special Task Force was found in the shorter sector of the Bau HEARS SCRUI yesterday (07).
+
+The devices have been found while investigating a prison guard on the special duties of the prison special.
+
+◼️
+
+[Data](articles/31355e9e.json)
+
+[Extended Data](ext_articles/31355e9e.ext.json)
+
+---
 
 ### Ministry of Education announced on false news
 
@@ -774,6 +796,8 @@ Naqvi had tasked the Ministry with facilitating the release and return of the Pa
 
 [Data](articles/a8293f16.json)
 
+[Extended Data](ext_articles/a8293f16.ext.json)
+
 ---
 
 ### Indian financial aid opens ‘new chapter’ with Maldives
@@ -796,6 +820,8 @@ The statements – and the Indian financial package – signal a significant imp
 
 [Data](articles/072fc0df.json)
 
+[Extended Data](ext_articles/072fc0df.ext.json)
+
 ---
 
 ### Kalalaya School of Dance and Music ‘Navarathiri’ on 9 Oct.
@@ -811,6 +837,8 @@ The Sri Lanka Tamil Women’s Union, founded in 1909, is headed by its new Presi
 ◼️
 
 [Data](articles/585499df.json)
+
+[Extended Data](ext_articles/585499df.ext.json)
 
 ---
 
@@ -850,19 +878,25 @@ However, Net Shivar Brand gave 11 runs that needed further success.
 
 ---
 
-### 'වේදිකාවල කී පරිදි' ඉන්ධන මිල අඩු කළ හැකි ද?
+### Can fuel prices be reduced?
 
 *2024-10-08 02:04:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy80yz7pzl1o) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක ධූරයට පත්වීමෙන් පසු ක්‍රියාත්මක කළ පළමු ඉන්ධන මිල සූත්‍රය අනුව, ඔක්තෝබර් 01 වන දා සිට ඉන්ධන මිල ගණන් යම් ප්‍රමාණයකින් අඩු විය.
+Fuel prices reduced under President Anura Kumara Dissanayake. Pre-election promises made but implementation delayed due to parliamentary approvals needed. Impact debated, with some arguing benefits mainly for wealthy consumers rather than reducing economic burden.
 
-කෙසේ වෙතත්, අනුර ජනාධිපති බවට පත් වීමට පෙර ප්‍රචාරක රැලිවලදී දුන් පොරොන්දු අනුව මිල සංශෝධනයක් නොකිරීම පිළිබඳව සමාජ මාධ්‍ය ඔස්සේ ඇතැමෙකු ප්‍රශ්න කර තිබිණි.
+🟩
 
-Skip Facebook post, 1Facebook අන්තර්ගතයට අවසරදීමට ඔබ එකඟ ද?මෙම ලිපියේ Facebook විසින් සපයන ලද අන්තර්ගතයන් අඩංගු වේ. ඔවුන් කුකීස් සහ වෙනත් තාක්ෂණයන් භාවිතා කරන නිසා, ඒ කිසිවක් පූරණය වීමට පෙර අපි ඔබගේ අවසරය ඉල්ලා සිටිමු. එයට අවසරදීමට පෙර ඔබට Facebook කුකී ප්‍රතිපත්තිය සහ රහස්‍යතා ප්‍රතිපත්තිය කියවීමට අවශ්‍ය විය හැකි ය. මෙම අන්තර්ගතය බැලීමට 'පිළිගෙන ඉදිරියට යන්න' තෝරන්න.Accept and continueඅනතුරු ඇඟවීමයි: බාහිර වෙබ් අඩවිවල අන්තර්ගතය සඳහා BBCය වගකියනු නොලැබේ.End of Facebook post, 1මෙහි අන්තර්ගතය නැතවැඩිදුරටත් Facebook බලන්නබාහිර වෙබ් අඩවිවල අන්තර්ගතයට බීබීසී වගකියනු නොලැබේ.
+Fuel prices from 1st October have been reduced by the first fuel prices implemented by President Anura Kumara Dissanayake.
+
+However, before he became the presidential declarations, some had questioned the propaganda rally.
+
+Skip Facebook Post, you agree to reach the content of 1facebook content? This article contains content provided by Facebook. Since they use cookies and other technologies, we urgent your permission before they load. You may need to read Facebook cookie policy and privacy policy before it is permitted. Select 'acknowledged forward' to view this content. The content is not responsible for the content of the external web sites.
 
 ...
 
 [Data](articles/c489184f.json)
+
+[Extended Data](ext_articles/c489184f.ext.json)
 
 ---
 
@@ -2219,25 +2253,5 @@ In addition, awareness leaflets were also distributed and awareness information 
 [Data](articles/a2630515.json)
 
 [Extended Data](ext_articles/a2630515.ext.json)
-
----
-
-### The boy's death in the fall of the stone
-
-*2024-10-07 17:13:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கல்-விழுந்ததில்-சிறுவன்-மரணம்/76-345049) · `ta`
-
-Boy dies from head injury after falling while playing near home. Police say incident occurred when child fell from hillside during father's cleanup work.
-
-🟩
-
-The 11 -year -old student, who was injured in the head of a head injury while he was playing in his house, died after being taken to the hospital. Nuri police said.
-
-The student was near the residence of the student and was playing in front of the house during the incident and fell from the top of the mountain top of the hill and fell to the student's head, police said that he died while taking him to the hospital.. It was revealed that the student's father was working on cleaning the mountainside on the day of the incident.
-
-◼️
-
-[Data](articles/f3d212b0.json)
-
-[Extended Data](ext_articles/f3d212b0.ext.json)
 
 ---

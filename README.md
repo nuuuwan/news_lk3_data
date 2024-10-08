@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 11:58:59**
+As of **2024-10-08 12:13:36**
 
 ## Newspaper Stats
 
-*Scraped **48,344** Articles*
+*Scraped **48,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 398
 bbccomsinhala | 478
 colombotelegraphcom | 478
 islandlk | 2,860
-economynextcom | 2,954
+economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,472
 dailymirrorlk | 4,733
-adaderanalk | 5,695
-tamilmirrorlk | 6,547
+adaderanalk | 5,697
+tamilmirrorlk | 6,549
 virakesarilk | 7,738
 adaderanasinhalalk | 8,361
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 8,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,344 (100.0%) of 48,344 articles have been extended.
+48,352 (100.0%) of 48,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Back line
+
+*2024-10-08 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டையில்-தீப்பரவல்/175-345082) · `ta`
+
+Fire breaks out at Kadadasi stamp on Meliban Road, Parakkottai. Incident ongoing.
+
+🟩
+
+A fire broke out at a Kadadasi stamp on Meliban Road, Parakkottai. It is reported that the fire is underway.
+
+◼️
+
+[Data](articles/d6348f91.json)
+
+[Extended Data](ext_articles/d6348f91.ext.json)
+
+---
+
+### Sri Lanka to reject UNHRC draft resolution, uphold local reconciliation efforts
+
+*2024-10-08 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102524/sri-lanka-to-reject-unhrc-draft-resolution-uphold-local-reconciliation-efforts) · `en`
+
+Taking into consideration the matters submitted by Sri Lanka’s Minister of Foreign Affairs Vijitha Herath relevant to the 57th session of the United Nations Human Rights Council (UNHRC), which is held from September 09 to October 11, 2024 in Geneva, the consent of the Cabinet of Ministers has been obtained to present the position of Sri Lanka for certain matters.
+
+Accordingly, Sri Lanka has strongly rejected the proposed drafted resolution at the present session of the United Nations Human Rights Council and Sri Lanka continues to oppose the 51/1 resolution of the drafted resolution of the United Nations Human Rights Council and has not agreed to any resolution that extends the powers of the collection of external evidence mechanism.
+
+Furthermore, the Cabinet of Ministers has agreed that even though, the said proposal has been denied, Sri Lanka has firmly believed to take action in respect of main human right issues including the reconciliation through local procedure.
+
+...
+
+[Data](articles/2bbfdcdc.json)
+
+[Extended Data](ext_articles/2bbfdcdc.ext.json)
+
+---
+
+### The main notice of the Ministry of Education
+
+*2024-10-08 11:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சின்-முக்கிய-அறிவிப்பு/175-345081) · `ta`
+
+Ministry of Education denies halt in school lunch program for primary students. Secretary Tilaka Jayasundara confirms continuation and plans to extend until next year. Program launched in March for grades 1-5 in government schools.
+
+🟩
+
+The Ministry of Education said that the provision of lunch for primary students in state schools has been temporarily stopped.
+
+Secretary of the Ministry of Education Tilaka Jayasundara said that various information has been spreading over the past few days that the school lunch program has been halted and that all the information is false and the school will continue to provide lunch for school children.
+
+He added that arrangements have been made to implement the program until next year.
+
+It is noteworthy that the scheme of providing lunch for students from 1st to fifth grade in government schools has been launched since March.
+
+◼️
+
+[Data](articles/1a5e5a44.json)
+
+[Extended Data](ext_articles/1a5e5a44.ext.json)
+
+---
+
+### Minister Vijitha Herath clarifies new govt’s foreign relations policy
+
+*2024-10-08 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102523/minister-vijitha-herath-clarifies-new-govts-foreign-relations-policy) · `en`
+
+Cabinet Spokesman Minister Vijitha Herath emphasized that Sri Lanka maintains balanced diplomatic relations with all countries, reaffirming that no nation is given special treatment.
+
+Speaking at the Cabinet press briefing this morning (08), Minister Herath stated, “We are doing business with China just as we are doing business with India.”
+
+Furthermore, he addressed the government’s decision to allow a Chinese military training vessel to visit Sri Lanka later this month, noting that this falls within the framework of the country’s diplomatic engagements.
+
+“The ship is scheduled to arrive in the port of Colombo this month,” he said.
+
+Minister Herath also elaborated on the government’s foreign relations policy: “We don’t consider any country to be special. Whether it’s China, India, the United States, Russia, Cuba, or Vietnam, Sri Lanka maintains diplomatic relations with all countries—big or small. We have no bias in our approach.”
+
+...
+
+[Data](articles/688dbecf.json)
+
+[Extended Data](ext_articles/688dbecf.ext.json)
+
+---
 
 ### Resignation
 
@@ -172,6 +254,26 @@ New Commissioner General. He is currently serving as the Additional Secretary of
 
 ---
 
+### Sri Lanka appoints acting excise, registrar dept chiefs
+
+*2024-10-08 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-acting-excise-registrar-dept-chiefs-182757/) · `en`
+
+ECONOMYNEXT – Sri Lanka has appointed new chiefs for its Department for Registration of Persons and Inland Revenue Service, Cabinet spokesman minister Vijitha Herath said.
+
+M S P Sooriyapperuma, an Administrative Service special grade officer, was appointed as Commissioner General of the Department for Registration of Persons.
+
+U D N Jayaweera, a special grade officer of the Inland Revenue Service, was appointed as the Commissioner General of the Excise Department.
+
+The Sri Lanka Excise Department is one of the main revenue collection agencies of the government. (Colombo/Oct8/2024)
+
+◼️
+
+[Data](articles/2e33c14a.json)
+
+[Extended Data](ext_articles/2e33c14a.ext.json)
+
+---
+
 ### The squad up
 
 *2024-10-08 10:59:36* · [`adalk`](https://www.ada.lk/breaking_news/සංචිතය-ඉහළට/11-412361) · `si`
@@ -291,6 +393,52 @@ The Cabinet has been approved by the Additional Secretary (Establishment Coordin
 [Data](articles/c0ed2203.json)
 
 [Extended Data](ext_articles/c0ed2203.ext.json)
+
+---
+
+### Sri Lanka to seek BRICS membership this month: Cabinet Spokesman
+
+*2024-10-08 10:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-brics-membership-this-month-cabinet-spokesman-182752/) · `en`
+
+Sri Lanka’s will seek membership of the BRICS organization at the a meeting in Russia later this month, Cabinet Spokesman Vijitha Herath said.
+
+“Sri Lanka has been invited for the BRICS later this month… and we expect to seel membership in BRICS,” Herath told a weekly media briefing to announce the cabinet decisions.
+
+“We have discussed with Indian Foreign Minister when he was here last week as well.”
+
+The previous government’s cabinet approved the country seeking the membership in the BROCS which includes economic giants such as China, India, and Brazil.
+
+BRICS, originally comprising Brazil, Russia, India, China and South Africa, is an intergovernmental organization of emerging market countries seeking to strengthen economic ties.
+
+This year, it has granted four new members so fer: Iran, Egypt, Ethiopia, and the United Arab Emirates. (Colombo/October 08/2024)
+
+◼️
+
+[Data](articles/1bada754.json)
+
+[Extended Data](ext_articles/1bada754.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 293.40/50 to US dollar, bond yields steady
+
+*2024-10-08 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-293-40-50-to-us-dollar-bond-yields-steady-182750/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened flat at 293.40/50 to the US dollar on Tuesday, from 293.45/55 a day earlier, while bond yields were broadly steady dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 11.45/60 percent, down from 11.50/60 percent.
+
+A bond maturing on 15.02.2028 was quoted stable at 11.65/75 percent.
+
+A bond maturing on 15.09.2029 was quoted at 12.00/15 percent, up from 11.95/12.05 percent.
+
+In equities, Colombo’s All Share Price Index opened 0.19 percent, or 23.61 points lower at 12,141, while the S&P SL20 of more liquid stocks opened up 0.21 percent or 7.54 points lower at 3,583.
+
+◼️
+
+[Data](articles/fec97a31.json)
+
+[Extended Data](ext_articles/fec97a31.ext.json)
 
 ---
 
@@ -623,6 +771,28 @@ Professor Dissabandara takes over the reigns from Faizal Salieh, who had been ap
 [Data](articles/833ed7ad.json)
 
 [Extended Data](ext_articles/833ed7ad.ext.json)
+
+---
+
+### Sri Lanka tax revenues up 43-pct, interest costs down to July 2024
+
+*2024-10-08 08:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-revenues-up-43-pct-interest-costs-down-to-july-2024-182729/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tax revenues grew 43 percent to 2,156 billion rupees in the seven months to July 2024, and the overall budget deficit fell steeply by 41 percent to 1,470 billion rupees, data published by the central bank shows.
+
+Tax revenues grew 43 percent to 2,156 billion rupees amid higher rates and also a pick up in economic growth made possible by monetary stability provided by the central bank by undershooting its high 5 percent inflation target.
+
+Tax revenues showed a gain from 5.0 of GDP last year to 6.3 percent of projected GDP this year in the seven months and total revenues went up to 6.9 percent of GDP from 5.5 percent.
+
+The IMF is pushing Sri Lanka to take its revenue to GDP ratio to around 15 percent.
+
+Meanwhile current expenditure was kept in check at 2,673 billion rupees up to July 2024, flat from 2,674.8 billion rupees, in an unusual phenomenon helped by monetary stability.
+
+...
+
+[Data](articles/1499ed0f.json)
+
+[Extended Data](ext_articles/1499ed0f.ext.json)
 
 ---
 
@@ -2027,195 +2197,5 @@ It is said that accepting asset liabilities with nomination papers is a pandalis
 [Data](articles/64d9a56e.json)
 
 [Extended Data](ext_articles/64d9a56e.ext.json)
-
----
-
-### 20000 deaths per year in Sri Lanka due to smoking
-
-*2024-10-07 18:52:25* · [`adalk`](https://www.ada.lk/breaking_news/දුම්පානය-හේතුවෙන්-ලංකාවේ-වසරකට-මරණ-20000ක්/11-412358) · `si`
-
-Sri Lanka: 20,000 annual deaths from smoking. Ministry of Health warns about alcohol and unhealthy food consumption. Emphasizes healthcare awareness and preventive measures to reduce costs.
-
-🟩
-
-According to the Ministry of Health, Medical Palitha Mahipala said that almost 20,000 people in Sri Lanka to be killed due to smoking.
-
-He pointed out that the people ignore them, but the people ignore them.
-
-The Secretary emphasized that the use of alcohol and non-healthy use of foods and unhealthy foods, the Secretary stressed.
-
-He further stated that it is necessary to be aware of the ownership of health care and obtain the health service, and to avoid preventive health, and save government money to save health.
-
-◼️
-
-[Data](articles/ba0c0356.json)
-
-[Extended Data](ext_articles/ba0c0356.ext.json)
-
----
-
-### Did the former President removed the security?
-
-*2024-10-07 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201932) · `si`
-
-Former President Ranil Wickremesinghe's security not removed: Police spokesperson clarifies recent reports were due to technical fault. Acting IGP orders completion of pending investigations within 14 days. Public relief day rescheduled for October 11.
-
-🟩
-
-Police Media Spokesperson DIG Talduuwa said that the security of former President Ranil Wickremesinghe has not been removed.
-
-The Police Media Spokesperson stated that the report on the security of the former president's safety was on a technical fault today (07), the police spokesman said.
-
-Deputy Minister of Police Media Spokesperson DIG Talduwa, Speaking further
-
-"Officers who were safely held by the former President have not been removed. 50 other former officers, including 50 Police Special Task Force. But recently, the Presidential Security Division provided security to the present President and former President. Former President, the Presidential Security Division has made a booking for that. No officials have ever been removed at all. When I was released to the former director of its director, technicious message, the officials have not had to remove officers in the area. "
-
-...
-
-[Data](articles/6ceb20e5.json)
-
-[Extended Data](ext_articles/6ceb20e5.ext.json)
-
----
-
-### Showers in many areas today
-
-*2024-10-07 18:48:00* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-ප්‍රදේශවලට-වැසි/11-412357) · `si`
-
-Heavy rain expected across multiple provinces today. Thunderstorms possible, especially at night. Strong winds and rough seas forecasted. Public advised to take precautions against flooding and landslides.
-
-🟩
-
-The Department of Meteorology states that the weather in the island is influenced by the island, the weather in the island.
-
-Thundershowers showers or thundershowers at night in many parts of the island today (08th).
-
-MM in the Western, Sabaragamuwa, Central, Uva and Eastern Provinces, Galle, Matara and Puttalam Districts. Heavy showers that can cause more than 100 showers in the Eastern, Sabaragamuwa and North Western Provinces and in the Galle and Matara districts.
-
-The department is asking the public to take necessary steps to minimize temporary strong winds and the end of the lightning due to thunderstorms. (07) The Colombo DistrictThere are 162.5 millimeters.
-
-111.5 millimeters in the area of ​​Talallawita were reported from 111.5 millimeters from the Udugama area in Matara for 111.5 mm in Matara.
-
-The National Building Research Organization states that the current rainfall can be subjected to mountain ranges in Kegalle.
-
-...
-
-[Data](articles/d18d3148.json)
-
-[Extended Data](ext_articles/d18d3148.ext.json)
-
----
-
-### Excise Commissioner also babes foreign travel
-
-*2024-10-07 18:31:53* · [`adalk`](https://www.ada.lk/breaking_news/සුරා-බදු-කොමසාරිස්-ඇතුළු-පිරිසකට-විදෙස්-ගමන්-තහනමක්-ඉල්ලයි/11-412356) · `si`
-
-Supreme Court orders Excise Commissioner to stop issuing liquor licenses illegally. Petitioner claims informal licensing process. Court issues interim injunction on April 2nd.
-
-🟩
-
-A Sura Tax Commissioner General MJ. The Supreme Court today requested a man of a man in Nittambuwa to enabate an abroad ban against them as a group of explendants including Mr. Gunasiri.
-
-Despite the order of the Supreme Court not to issue the ordeal of the Supreme Court not to issue the ordeal of the Supreme Court, this mosquito has been filed in relation to the petition.
-
-Excise commissioner General MJ as respondents who have been produced by Gihan Shawinda Fernando, a resident of Nittambuwa Resident Residents.. Gunasiri, its Additional Director General AMP. Ampath and Deputy Excise Commissioners, Dharmasalan and CJA. Vitivekody gentlemen named.
-
-Gihan Shavinda Fernando, who files a mofter to the petition, has reportedly lays a process of issuing liquor licenses informally.
-
-...
-
-[Data](articles/8954ee83.json)
-
-[Extended Data](ext_articles/8954ee83.ext.json)
-
----
-
-### Chairman of the Bribery Commission resigned
-
-*2024-10-07 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/195716) · `ta`
-
-Kanishka Wijeratne resigns as Director General of Bribery Commission, citing Supreme Court case on appointment.
-
-🟩
-
-Director General of the Bribery Commission, Kanishka Wijeratne, has handed over his resignation letter to President Anura Kumara Dissanayake.
-
-At a hearing by the court, the president's lawyer Udita Igalahewa said that he would hand over his resignation letter to the President at 3.00 pm today.
-
-It is reported that he has submitted his resignation letter as he has filed a fundamental rights violation of the Supreme Court regarding the appointment of the Director General of the Bribery Commission.
-
-◼️
-
-[Data](articles/6d95321b.json)
-
-[Extended Data](ext_articles/6d95321b.ext.json)
-
----
-
-### 6 parties cannot compete
-
-*2024-10-07 18:26:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-கட்சிகள்-போட்டியிட-முடியாது/175-345052) · `ta`
-
-National Election Commission announces 6 parties ineligible for nomination in upcoming parliamentary election due to controversy. Parties' secretaries' offices cannot contest on November 14, 2024.
-
-🟩
-
-The National Election Commission has announced political parties that cannot file nominations as recognized political parties in the upcoming parliamentary election.
-
-According to the new gazette issued by the Commission, the party's secretary's office can not contest the elections on November 14, 2024, due to controversy.
-
-◼️
-
-[Data](articles/ee8eb430.json)
-
-[Extended Data](ext_articles/ee8eb430.ext.json)
-
----
-
-### The Prime Minister should go to the composition
-
-*2024-10-07 18:25:18* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිකම-යන්න-ඕන-මාලිමාවට/11-412355) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Minister Udaya Gammanpila accuses ex-President Ranil Wickremesinghe of receiving two commissions on the Easter attacks without publishing them. He calls for the Prime Minister to resign due to political instability.
-
-🟩
-
-Former President Ranil Wickremesinghe has received two commissions on the Passover attack, former Minister of Porinal Udaya Gammanpila said.
-
-He was speaking at a media briefing held in Colombo today (07).
-
-"When the President had visited the church in Kuwapitiya to the Mosque, we thought that the former president's president of the Passover attack came to the church to publish the two frequently demanded Catholic Church.But he had gone empty-handed.A victim was demanded that our intelligence agencies were involved in the attack, as the new investigations were started, to ban the officers of the officers before commencing new investigations.
-
-...
-
-[Data](articles/63d43834.json)
-
-[Extended Data](ext_articles/63d43834.ext.json)
-
----
-
-### Information on Voters of Special Need
-
-*2024-10-07 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/195711) · `ta`
-
-Election Commission: Assistants aged 18+ identify ballots at polling stations. Non-candidates allowed. Alternative: Head of referendum officer facilitates ballot identification for voters unable to bring assistants.
-
-🟩
-
-The Election Commission has said that legal arrangements have been made to take an assistant with the assistant to identify the ballot at the polling stations during the election.
-
-The assistant who takes so must be the one who has completed the age of 18 and should be a non -candidate in the election.
-
-In addition, voters who cannot visit with a assistant are also facilitated to identify their ballot through the head of the referendum officer.
-
-◼️
-
-[Data](articles/9a514b80.json)
-
-[Extended Data](ext_articles/9a514b80.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 14:12:37**
+As of **2024-10-08 14:25:26**
 
 ## Newspaper Stats
 
-*Scraped **48,365** Articles*
+*Scraped **48,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ colombotelegraphcom | 478
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,475
+adalk | 4,476
 dailymirrorlk | 4,733
-adaderanalk | 5,699
-tamilmirrorlk | 6,554
+adaderanalk | 5,700
+tamilmirrorlk | 6,555
 virakesarilk | 7,738
 adaderanasinhalalk | 8,364
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 8,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,365 (100.0%) of 48,365 articles have been extended.
+48,368 (100.0%) of 48,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Farmers to receive fertilizer subsidy from Monday
+
+*2024-10-08 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102529/farmers-to-receive-fertilizer-subsidy-from-monday-) · `en`
+
+Cabinet Spokesman Minister Vijitha Herath says that the fertilizer subsidy of Rs. 25,000 for paddy farmers will commence from Ampara District next Monday (Oct. 14).
+
+He mentioned this during the Cabinet press conference held today (08).
+
+“The Maha season is about to start. We are going to provide this fertilizer subsidy to the people of Ampara district by Monday next week. After that, we will provide the relevant subsidy to the farmers in Polonnaruwa, Anuradhapura, Mahiyanganaya and Mahaweli regions”, he added.
+
+◼️
+
+[Data](articles/3be055b8.json)
+
+[Extended Data](ext_articles/3be055b8.ext.json)
+
+---
 
 ### Many will come through the national list
 
@@ -197,6 +215,24 @@ The Cabinet of Ministers Vijitha Herath said that the Cabinet of Ministers Anura
 [Data](articles/dc6f8bce.json)
 
 [Extended Data](ext_articles/dc6f8bce.ext.json)
+
+---
+
+### New chairman is a new Chairman to the Sucade and Exchange Commission
+
+*2024-10-08 12:20:30* · [`adalk`](https://www.ada.lk/breaking_news/සුරකුම්පත්-සහ-විනිමය-කොමිෂන්-සභාවට-නව-සභාපතිවරයෙක්/11-412365) · `si`
+
+Harindra Dissandra named new Chairman of Sri Lanka Co-operations and Exchange Commission. He previously served as Director General of Sri Lanka and Capital Market Exchange Commission.
+
+🟩
+
+Senior Professor Harindra Dissandra has been appointed as the new Chairman of the Sri Lanka Co-operations and Exchange Commission.He was also the Director General of Sri Lanka and the Director General of the Sri Lankabeal and Exchange Commission of the Capital Market.
+
+◼️
+
+[Data](articles/565d9d1f.json)
+
+[Extended Data](ext_articles/565d9d1f.ext.json)
 
 ---
 
@@ -765,6 +801,32 @@ He was admitted to the hospital after a complaint was lodged at the police stati
 [Data](articles/b16a11cc.json)
 
 [Extended Data](ext_articles/b16a11cc.ext.json)
+
+---
+
+### Mother -in -law: 35 pound jewelry robbery
+
+*2024-10-08 10:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியாரிடம்-வன்புணர்வு-35-பவுண்-நகை-கொள்ளை/175-345071) · `ta`
+
+Here's a 200-character summary:
+
+
+
+35-year-old woman's house burgled by 16-strong gang. Son-in-law sexually assaulted, robbed of £35k gold jewelry and cash. Victim's husband absent, daughter married elsewhere. Police notified Monday night.
+
+🟩
+
+A 35 -year -old mother -in -law's house in a lonely mother -in -law went with a 16 -member group of a son -in -law, who was sexually abused and robbed of 35 pound gold jewelery and money from the house.
+
+In the absence of the victim's husband, her (22) daughter is married and is living elsewhere and is living alone in her home.
+
+He was admitted to the hospital after a complaint was lodged at the police station on Monday night (07).
+
+◼️
+
+[Data](articles/edd13e77.json)
+
+[Extended Data](ext_articles/edd13e77.ext.json)
 
 ---
 
@@ -2165,71 +2227,5 @@ It is worth noting that the digit plates of a small car registered for a living 
 [Data](articles/33f616ad.json)
 
 [Extended Data](ext_articles/33f616ad.ext.json)
-
----
-
-### Jeep discovery of a high politician
-
-*2024-10-07 21:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்-அரசியல்வாதிக்கு-சொந்தமான-ஜீப்-கண்டுபிடிப்பு/175-345056) · `ta`
-
-Luxury Jeep discovered hidden in power plant complex. Suspected to belong to high-ranking politician in Badulla-Lunugala area. Vehicle had license plates from Jaffna region. Police investigation ongoing.
-
-🟩
-
-A luxury jeep, suspected of belonging to a high -ranking politician in the Badulla - Lunugala area, has been found by police.
-
-The jeep was found hidden in the private power plant complex.
-
-It is worth noting that the digit plates of a small car registered for a living in Jaffna. Remble
-
-◼️
-
-[Data](articles/73f10ce2.json)
-
-[Extended Data](ext_articles/73f10ce2.ext.json)
-
----
-
-### 6 parties lose the general election
-
-*2024-10-07 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201934) · `si`
-
-Six long-standing political parties miss out on general election. 77 parties eligible. Selected parties announced for November 14 vote. United People's Freedom Alliance, United Ceylon General Colonial Party, United People's Party, Sri Lanka Progressive Front, and Elever Democratic Front excluded from contesting.
-
-🟩
-
-The six-term political parties have lost the opportunity to contest the general election this year.
-
-According to the Elections Commission, 77 political parties have the opportunity to contest the election.
-
-The selected political parties and the selected political parties have been published by the political parties that can be held on November 14.
-
-Accordingly, the United People's Freedom Alliance (United People's Party Party), United Ceylon General Colonial Party, the United People's Party, the Sri Lanka Progressive Front and the Elever Democratic Front will not be forwarded for the election.
-
-◼️
-
-[Data](articles/378fc43a.json)
-
-[Extended Data](ext_articles/378fc43a.ext.json)
-
----
-
-### Ex-President Ranil’s security personnel not recalled - Police
-
-*2024-10-07 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/102515/ex-president-ranils-security-personnel-not-recalled-police-) · `en`
-
-Sri Lanka Police Media Spokesperson, Deputy Inspector General of Police (DIG) Nihal Thalduwa stated that the police personnel assigned to former President Ranil Wickremesinghe’s security have not been recalled.
-
-Addressing a media briefing, the Police Spokesperson added that currently, 50 Special Task Force (STF) officers and other personnel assigned to Wickremesinghe’s security remain in place.
-
-Commenting further, he said: “Until recently, the security arrangements for both the current president and former presidents were managed by the President’s Security Division. This division allocated the necessary number of officers for the former president’s security.”
-
-“Although the message regarding changes has been communicated, the officers are still on duty and have not been recalled”, Thalduwa added.
-
-◼️
-
-[Data](articles/b8b48f5b.json)
-
-[Extended Data](ext_articles/b8b48f5b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 08:02:56**
+As of **2024-10-08 08:59:03**
 
 ## Newspaper Stats
 
-*Scraped **48,285** Articles*
+*Scraped **48,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,69 @@ bbccomsinhala | 477
 colombotelegraphcom | 478
 islandlk | 2,860
 economynextcom | 2,954
-dailyftlk | 3,247
-adalk | 4,467
+dailyftlk | 3,267
+adalk | 4,469
 dailymirrorlk | 4,733
 adaderanalk | 5,689
-tamilmirrorlk | 6,535
+tamilmirrorlk | 6,536
 virakesarilk | 7,733
-adaderanasinhalalk | 8,353
+adaderanasinhalalk | 8,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,285 (100.0%) of 48,285 articles have been extended.
+48,292 (100.0%) of 48,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### සුරාබදු කොමසාරිස් ජනරාල් ඇතුළු පිරිසකට එරෙහිව ශ්‍රේෂ්ඨාධිකරණයට මෝසමක්
+
+*2024-10-08 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201940) · `si`
+
+අධිකරණයට අපහාස කිරීම පිළිබඳ නඩුකරයකට මුහුණ දී සිටින සුරාබදු කොමසාරිස් ජනරාල් එම්. ජේ. ගුණසිරි මහතා ඇතුළු වගඋත්තරකාර නිලධාරීන් පිරිසක් විදෙස් ගතවීමේ සූදානමක් ඇති බවට තොරතුරු ලැබී ඇති බැවින් ඔවුන් විදෙස්ගත වීම වළක්වාලන තහනම් නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මෝසමක් ඉදිරිපත් වී තිබේ.
+
+නිට්ටඹුව ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විසින් එම මෝසම ඉදිරිපත් කර ඇති බව "අද දෙරණ" අධිකරණ වාර්තාකරු පැවසීය.
+
+නීතියට පටහැනි ලෙස නව මත්පැන් බලපත්‍ර නිකුත් නොකරන ලෙස ශ්‍රේෂ්ඨාධිකරණය විසින් ඉකුත්දා නිකුත් කරනු ලැබූ අතුරු තහනම් නියෝගය නොතකා කටයුතු කිරීම තුළින් සුරාබදු කොමසාරිස් ජනරාල්වරයා ඇතුළු වගඋත්තරකරුන් අධිකරණයට අපහාසයක් සිදුකර ඇති බවට චෝදනා කරමින් ගොනුකර ඇති පෙත්සමට අදාළව එම මෝසම ඉදිරිපත් කර තිබේ.
+
+‍මේ අතර අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිසමේ අධ්‍යක්ෂ ජනරාල් ඩබ්ලිව්.ඒ.කේ විජේරත්න මහතා සිය ධුරයෙන් ඉල්ලා අස්වි තිබේ.
+
+ඊට අදාළ ලිපිය ඊයේ (07) දිනයේ දී ජනාධිපතිවරයා වෙත යොමුකර ඇති බව ඔහුගේ නීතීඥවරුන් විසින් ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබුණි.
+
+...
+
+[Data](articles/a0ce5bd0.json)
+
+---
+
+### Student reveals from Lotus Tower
+
+*2024-10-08 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201939) · `si`
+
+Student found dead on 29th floor of Nelum Tower in Maradana. 16-year-old from Kollupitiya. Police investigation ongoing.
+
+🟩
+
+The police have revealed the students who were committed to the 29th floor of the Nelum Tower in the Maradana Police Division last evening.
+
+The victim is a 16 year old resident of Kollupitiya, police said.
+
+The school girl was a school study in Colombo in Colombo and had a schoolgirl studying in Colombo and had taken his suicide by going to the Nelum Fed.
+
+The student has also been a friend of the schoolgirl and the student who laid the miracle of the Slave Island Police Division a month ago, and her father said to the police that she was stressful.
+
+The delegation is held at the Colombo Police morgue and the Maradana Police are conducting further investigations.
+
+◼️
+
+[Data](articles/f6176d70.json)
+
+[Extended Data](ext_articles/f6176d70.ext.json)
+
+---
 
 ### Lock for a track on the Katunayake Highway
 
@@ -82,6 +128,26 @@ The remains were placed at the Nochchiyagama hospital morgue and the wife of the
 
 ---
 
+### The main point of the CWC resigns
+
+*2024-10-08 06:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவின்-முக்கிய-புள்ளி-இராஜினாமா/175-345063) · `ta`
+
+Bharat Arulzamy resigns as CWC VP and party member. Sent letter to Jeevan Thondaman.
+
+🟩
+
+He sent his resignation letter to Jeevan Thondaman, General Secretary of the Ceylon Workers Congress yesterday evening.
+
+Accordingly, Bharat Arulzamy has announced that he will resign from the post of vice president and the basic membership of the party.. (A)
+
+◼️
+
+[Data](articles/71eea84d.json)
+
+[Extended Data](ext_articles/71eea84d.ext.json)
+
+---
+
 ### Bharat Arulzamy's departure from CWC
 
 *2024-10-08 06:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவிலிருந்து-பாரத்-அருள்சாமி-விலகல்/175-345063) · `ta`
@@ -102,6 +168,62 @@ Accordingly, Bharat Arulzamy has announced that he will resign from the post of 
 
 ---
 
+### Hayleys Fabric receives prestigious ZDHC Torchbearer Award
+
+*2024-10-08 06:22:32* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fabric-receives-prestigious-ZDHC-Torchbearer-Award/34-767686) · `en`
+
+Sri Lankan textile manufacturer honoured for sustainable chemical management in South Asia
+
+Hayleys Fabric PLC, Sri Lanka’s largest and leading textile manufacturer, has been recognised for its exceptional leadership in sustainable chemical management by receiving the prestigious ZDHC Torchbearer Award.
+
+The award was presented by Zero Discharge of Hazardous Chemicals (ZDHC) South Asia Region Director Prasad Pant at the fifth ZDHC South Asia Regional Conference on Sustainable Chemical Management in the Fashion Industry held in Chennai, India on 25 September.
+
+...
+
+[Data](articles/d4e82ba8.json)
+
+[Extended Data](ext_articles/d4e82ba8.ext.json)
+
+---
+
+### Calin Baby Soap products receive SLS certification
+
+*2024-10-08 06:21:20* · [`dailyftlk`](https://www.ft.lk/business/Calin-Baby-Soap-products-receive-SLS-certification/34-767685) · `en`
+
+The Delma Lanka Company held a media event on 1 October at the Shangri-La Hotel premises in Colombo to raise awareness about the SLS certification for Calin Baby Soap products.
+
+It was presided over by Delma Lanka Company Founder Lelwala G. Piyananda, Managing Director Umesh Godakanda, and Director Chaturika Jayasekara.
+
+President’s Counsel Dr. Harsha Cabral and Senior Advocate Sunil Watagala were the Chief Guests, and a large number of people representing all print media, including television channels, radio channels, newspapers, and social media, participated in this event. Calin company’s trade representatives, trade partners, and many distinguished guests, including artists, also participated in this event.
+
+Maternal and Child Health Adviser Shyamali Pathirage, President’s Counsel Dr. Cabral, and Senior Attorney Sunil Vetagala addressed the ceremony and gave comments.
+
+...
+
+[Data](articles/c9b2fe2d.json)
+
+[Extended Data](ext_articles/c9b2fe2d.ext.json)
+
+---
+
+### A coat of protection for Sri Lanka’s high-rise buildings
+
+*2024-10-08 06:19:59* · [`dailyftlk`](https://www.ft.lk/business/A-coat-of-protection-for-Sri-Lanka-s-high-rise-buildings/34-767684) · `en`
+
+Civil & Structural Engineering Consultants Managing Director/Principal Structural Engineer Shiromal Fernando
+
+Shiromal Fernando explains how high performance paints not only beautify but also preserve the structural integrity of modern buildings.
+
+Amid Colombo’s rapidly evolving skyline, maintaining the longevity and appeal of modern buildings has become increasingly critical. For structural engineers like Shiromal Fernando, the challenge goes beyond aesthetics—it’s about safeguarding buildings against harsh weather conditions and ensuring their durability over time. As a Principal Structural Engineer at Civil & Structural Engineering Consultants Ltd., Fernando has contributed to some of the tallest developments in Sri Lanka. In this interview, he shares his expert insights on the essential qualities required for exterior finishes to protect and preserve the structural integrity of these towering landmarks.
+
+...
+
+[Data](articles/1e19d0ff.json)
+
+[Extended Data](ext_articles/1e19d0ff.ext.json)
+
+---
+
 ### Heavy rain
 
 *2024-10-08 06:19:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-பலத்த-மழை/175-345062) · `ta`
@@ -119,6 +241,56 @@ According to the report, there will be more than 100 mm of heavy rains in the to
 [Data](articles/6690fa40.json)
 
 [Extended Data](ext_articles/6690fa40.ext.json)
+
+---
+
+### Fuelling innovation from grassroots to global
+
+*2024-10-08 06:16:39* · [`dailyftlk`](https://www.ft.lk/business/Fuelling-innovation-from-grassroots-to-global/34-767683) · `en`
+
+AOD’s Sri Lanka Design Festival 2024 to unveil ‘Innovation Island’ at Cinnamon Life – City of Dreams Sri Lanka
+
+Sri Lanka, a nation bearing enough promise to go beyond the adversity it has faced—from the Easter attacks of 2019 to a major economic collapse on top of the global pandemic—stands at a moment calling for renewal. The 15th edition of the Sri Lanka Design Festival (SLDF) by The Academy of Design (AOD), to be hosted at the iconic Cinnamon Life Integrated Resort, presents a roadmap to leverage creative industries to support the nation’s revival at this turning point. It’s more than a festival—a symbol of the country’s resilience, a representation of how creativity and innovation can rebuild a nation’s spirit and future.
+
+In this exclusive interview, Linda Speldewinde, Visionary Founder of AOD/SLDF and pioneer of the creative industries in Sri Lanka, shares her insights on how creative innovation is setting the stage for Sri Lanka’s revival.
+
+...
+
+[Data](articles/acff9474.json)
+
+[Extended Data](ext_articles/acff9474.ext.json)
+
+---
+
+### AAT Sri Lanka 2024 Conference: Bridging education and professional skills for a dynamic market
+
+*2024-10-08 06:11:10* · [`dailyftlk`](https://www.ft.lk/business/AAT-Sri-Lanka-2024-Conference-Bridging-education-and-professional-skills-for-a-dynamic-market/34-767682) · `en`
+
+The Association of Accounting Technicians of Sri Lanka (AAT), recently held 2024 Conference at Waters Edge, Battaramulla.
+
+Themed ‘Rise to Conquer: Resilient | Innovate | Synergize | Empower’, the event drew prominent figures from the accounting and business sectors to highlight the importance of AAT and set the stage for discussions on topics relevant to the future of accounting.
+
+In his address, Chief Guest Secretary to the Prime Minister Pradeep Saputhanthri observed that AAT plays a key role in offering job-oriented qualifications to those without university placements, contributing to a skilled workforce. “As the Government focuses on improving the education system to support a prosperous and thriving Sri Lanka, I am pleased to align with AAT, which plays a vital role as a not-for-profit private educational body in this endeavour,” he stated.
+
+...
+
+[Data](articles/e660d476.json)
+
+[Extended Data](ext_articles/e660d476.ext.json)
+
+---
+
+### Formulating a customer experience culture
+
+*2024-10-08 06:07:06* · [`dailyftlk`](https://www.ft.lk/columns/Formulating-a-customer-experience-culture/4-767681) · `en`
+
+Customer experience is the culmination of the service a customer receives throughout their entire journey with your company, passing through multiple interaction points. A positive customer experience can result in higher customer retention, loyalty, referrals, and increased sales. A Customer Experience Culture refers to when everyone in the organisation consistently strives to create a unique, valuable experience that is highly appreciated by the recipient. Building an excellent customer experience culture can be a key differentiator, setting your business apart in the marketplace.
+
+Having a clear understanding among your team members of the kind of customer experience culture you want to foster is essential. This culture should align with your company’s vision, core values, and brand identity. Once you define the desired customer experience culture, you need to embed its essence into the organisation’s philosophy.
+
+...
+
+[Data](articles/cd9ab4e9.json)
 
 ---
 
@@ -145,6 +317,232 @@ The Department of Meteorology further states that the weather in the island is s
 [Data](articles/c9e59b31.json)
 
 [Extended Data](ext_articles/c9e59b31.ext.json)
+
+---
+
+### A business case for ESG in a stabilising economy
+
+*2024-10-08 06:01:42* · [`dailyftlk`](https://www.ft.lk/columns/A-business-case-for-ESG-in-a-stabilising-economy/4-767680) · `en`
+
+As Sri Lanka navigates its current state of economic recovery—while anticipating parliamentary elections and looming political change — the corporate sector has a significant opportunity to strengthen their businesses and further contribute towards a stabilising economy.
+
+There is increasing recognition that sustainability can lead to long-term economic benefits. For years, many companies have grappled with integrating sustainable practices into their operations, driven by increasing consumer and investor demand for responsible corporate behaviour. Sustainable practices not only enhance brand reputation and customer loyalty but also create operational efficiencies that reduce costs and mitigate risks. In an unpredictable economic landscape, companies that prioritise sustainability are generally better equipped to adapt to regulatory changes, resource scarcity, and market volatility.
+
+...
+
+[Data](articles/6a963b70.json)
+
+---
+
+### ACCA’s Approved Employer Program elevates finance careers and industry standards
+
+*2024-10-08 05:57:27* · [`dailyftlk`](https://www.ft.lk/opinion/ACCA-s-Approved-Employer-Program-elevates-finance-careers-and-industry-standards/14-767679) · `en`
+
+Prioritising the needs of both professionals and employers, The Association of Chartered Certified Accountants (ACCA) is setting benchmarks in the finance sector, by placing employability at the heart of its mission through its Approved Employer Program.
+
+ACCA Business Development Manager - Members and Employers Ruchera Jayawardena Peries emphasised “our mission is to develop highly skilled, globally recognised finance professionals, equipped with the skills employer’s demand. This not only enhances individual careers but also elevates standards across the entire finance profession.”
+
+...
+
+[Data](articles/1d3a11cc.json)
+
+---
+
+### Priority matrix for tea sector: Part 2
+
+*2024-10-08 05:55:58* · [`dailyftlk`](https://www.ft.lk/columns/Priority-matrix-for-tea-sector-Part-2/4-767678) · `en`
+
+To restore or to maintain in the long run, Ceylon tea’s pre-eminence in terms of quality and reputation, a complete overhaul of Sri Lanka’s extension approach is crucial, driven by digitalisation, socioeconomic strategies, and scientific innovations to produce tea to its highest quality at the highest productivity (optimum yield). The current methods must evolve to meet the demands of modern tea production and global market standards.
+
+A new framework is needed that integrates cutting-edge tools with advanced agronomic practices and considers the socioeconomic realities of smallholders, estate managers, and processors. By leveraging mobile platforms, precision agriculture, data analytics, and real-time feedback systems, tea producers can access essential knowledge and resources more efficiently, making informed decisions on replanting, mechanisation, and sustainable farming techniques.
+
+...
+
+[Data](articles/dc337318.json)
+
+---
+
+### Political rupture in Sri Lanka: What lies ahead?
+
+*2024-10-08 05:50:54* · [`dailyftlk`](https://www.ft.lk/columns/Political-rupture-in-Sri-Lanka-What-lies-ahead/4-767677) · `en`
+
+If Sri Lankans rally behind Dissanayake and the NPP at the forthcoming general elections, then the IMF may need to listen – Pic by Shehan Gunasekara
+
+21 September was a day of many firsts in Sri Lanka. Millions of people went to the polls to vote in the first Presidential elections since mass protests forced the country’s last elected president, Gotabaya Rajapaksa, from office in 2022. 1, 2
+
+It also marked the first time in Sri Lanka’s history that a second round of counting had to take place after none of the candidates secured the 50% margin required for victory.
+
+A count of the second-choice votes revealed the biggest shock in decades. In Anura Kumara Dissanayake, Sri Lankans for the first time elected a candidate who does not belong to the two major parties that have dominated the country’s politics since independence in 1948.3
+
+Dissanayake leads the National People’s Power alliance (NPP), which includes his Janatha Vimukthi Peramuna (JVP) – a party known for its leftwing policies.
+
+...
+
+[Data](articles/e8256cda.json)
+
+---
+
+### Harini Amarasuriya: First among equals
+
+*2024-10-08 05:45:54* · [`dailyftlk`](https://www.ft.lk/columns/Harini-Amarasuriya-First-among-equals/4-767676) · `en`
+
+Will she be voted back as the first non-dynastic woman PM of South Asia?
+
+South Asia is no stranger to women holding top positions of political power. Sri Lanka led the way with Sirimavo Bandaranaike being the world’s first ever woman Prime Minister. She took on the mantle (party leader SLFP) vacated by her husband S.W.R.D. Bandaranaike who was assassinated in 1959. She ran for elections in 1960 and won and later on again in 1970 she took on the role of PM. Her daughter Chandrika Kumaratunga too became PM from August to November 1994 and was later on President of Sri Lanka from 1994-2005.
+
+...
+
+[Data](articles/67d48244.json)
+
+---
+
+### Corruption is not the cause
+
+*2024-10-08 05:40:39* · [`dailyftlk`](https://www.ft.lk/columns/Corruption-is-not-the-cause/4-767675) · `en`
+
+Sri Lanka’s economic woes are overwhelmingly a result of stupidity, not corruption
+
+Jail the corrupt and bring our money back! This is the cry of our times. It rings from the four corners of the island and echoes across the usual divisions of race, religion, language and class. For our woes were caused by corruption, and redemption will be found when the thieves are caught and their loot returns to the public purse.
+
+Alas this solution is no salvation. Much that was stolen never left us. Instead it was recycled at home for patronage and campaigns. Even if a few billion dollars were siphoned away, prospects of retrieval are slim. The World Bank’s report on stolen assets is called “Few and Far Between” for a reason. It laments that between 2006 and 2012 all developed countries only returned $ 423 million in stolen assets.1 Nor will jailing the chief miscreants prevent the same mistakes from happening again.
+
+...
+
+[Data](articles/ad690b1c.json)
+
+---
+
+### Sunshine Healthcare Lanka attracts $ 10 m FDI from IFC
+
+*2024-10-08 05:35:55* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Healthcare-Lanka-attracts-10-m-FDI-from-IFC/34-767673) · `en`
+
+From left: IFC Senior Country Officer Victor Antonypillai, IFC Regional Director for South Asia Imad Fakhoury, Sunshine Holdings Group CEO Shyam Sathasivam, IFC Vice President for Asia Pacific Riccardo Puliti, Sunshine Holdings Deputy Vice Chairman Vish Govindasamy, IFC Sri Lanka and Maldives Country Manager Alejandro Alvarez de la Campa, IFC Senior Investment Officer Priyanka Cooray
+
+Sunshine Healthcare Lanka Ltd. (SHL), the healthcare arm of diversified conglomerate Sunshine Holdings PLC, yesterday announced the successful conclusion of the approximately Rs. 3,270 million equity investment from the International Finance Corporation (IFC), a member of the World Bank Group.
+
+It said this landmark investment strengthens SHL’s vision to expand healthcare accessibility and bolster innovation across Sri Lanka.
+
+...
+
+[Data](articles/0d0abdc0.json)
+
+---
+
+### Emojot announces leadership restructuring and secures strategic investment to accelerate growth
+
+*2024-10-08 05:34:43* · [`dailyftlk`](https://www.ft.lk/business/Emojot-announces-leadership-restructuring-and-secures-strategic-investment-to-accelerate-growth/34-767672) · `en`
+
+From left: Sachintha Ponnamperuma, Dr. Shahani Markus and Andun Liyanagunawardana
+
+...
+
+[Data](articles/dec40a63.json)
+
+---
+
+### Ex-Intel Chief Nilantha Jayawardena settles Rs. 75 m Easter Sunday compensation
+
+*2024-10-08 05:33:07* · [`dailyftlk`](https://www.ft.lk/news/Ex-Intel-Chief-Nilantha-Jayawardena-settles-Rs-75-m-Easter-Sunday-compensation/56-767671) · `en`
+
+Friends and family rally to pay remaining Rs. 65 m after Jayawardena only managed to pay Rs. 10 m initially
+
+The State Intelligence Service’s former Director Senior DIG Nilantha Jayawardena has paid the full Rs. 75 million compensation ordered by the Supreme Court in connection with the 2019 Easter Sunday terror attacks. The compensation was mandated after petitions were filed accusing him of failing to prevent the attack, despite having received prior intelligence.
+
+The compensation payment was confirmed yesterday by Jayawardena’s lawyer, Chandaka Jayasundara PC, during a Supreme Court hearing. Jayasundara informed the Court that the full amount had been paid, submitting documentation to corroborate the payment. This announcement came as the Court was hearing a contempt of court case against Jayawardena for initially failing to make the full payment.
+
+...
+
+[Data](articles/8c5189e1.json)
+
+---
+
+### CWC Vice President Barath resigns
+
+*2024-10-08 05:31:38* · [`dailyftlk`](https://www.ft.lk/news/CWC-Vice-President-Barath-resigns/56-767670) · `en`
+
+Says will continue to work on “sustainable future” of the country
+
+The Ceylon Workers’ Congress (CWC) Vice President Barath Arullsamy, who had been representing the Kandy district, has tendered his resignation via an official letter sent to the party’s general secretary.
+
+In his letter, Barath had cited his disagreement with the CWC’s alignment with representatives who have been accused of harming the country for their own benefit during a time of national crisis. “This view is contrary to the opinions of the constituents in my constituency whom I have served sincerely for the past five years.”
+
+Barath had served as the Assistant Secretary and been a crucial figure in developing the international relations of the organisation. He contested in the 2020 General Election and obtained 24,000 preferential votes for the first time as a young candidate of the CWC.
+
+...
+
+[Data](articles/18215841.json)
+
+---
+
+### Protest against a year of Israel atrocities in Palestine
+
+*2024-10-08 05:29:53* · [`dailyftlk`](https://www.ft.lk/news/Protest-against-a-year-of-Israel-atrocities-in-Palestine/56-767669) · `en`
+
+A protest was held in front of the United Nations (UN) office in Colombo yesterday by several organisations condemning Israel’s occupation of Gaza and killing of civilians in the State of Palestine and Lebanon. Yesterday also marked one year of Israel atrocities in Palestine killing over 40,000 people including over 16,000 children
+
+◼️
+
+[Data](articles/8cdd9590.json)
+
+---
+
+### 56 Pakistanis imprisoned in SL return home
+
+*2024-10-08 05:28:50* · [`dailyftlk`](https://www.ft.lk/news/56-Pakistanis-imprisoned-in-SL-return-home/56-767668) · `en`
+
+ISLAMABAD: 56 Pakistanis imprisoned in Sri Lanka for several years are being brought back to Pakistan on a chartered plane, on Sunday.
+
+In a meeting with Prime Minister Shehbaz Sharif in Lahore, the interior minister briefed him on the return of 56 Pakistani prisoners from Sri Lanka. He said Federal Minister Abdul Aleem Khan was willing to bear all expenses for the return of Pakistani prisoners.
+
+The Prime Minister appreciated the efforts of both Cabinet members for facilitating the return of the prisoners.
+
+A chartered plane was earlier dispatched to bring the prisoners back to Pakistan, APP adds.
+
+The repatriation was a result of three months of coordination between the interior Ministry, under the direction of Mohsin Naqvi, and Sri Lankan authorities.
+
+Naqvi had tasked the Ministry with facilitating the release and return of the Pakistani nationals. He expressed his gratitude to the Sri Lankan Government and its High Commissioner for their assistance in the matter.
+
+...
+
+[Data](articles/a8293f16.json)
+
+---
+
+### Indian financial aid opens ‘new chapter’ with Maldives
+
+*2024-10-08 05:28:21* · [`dailyftlk`](https://www.ft.lk/news/Indian-financial-aid-opens-new-chapter-with-Maldives/56-767667) · `en`
+
+BBC: India has agreed to extend hundreds of millions of dollars in financial support to the Maldives to help strengthen its struggling economy.
+
+The deal was announced after Maldives President Mohammed Muizzu held talks with Prime Minister Narendra Modi during his five-day visit to India.
+
+The support includes a $ 400 million currency swap deal and an additional Rs. 30 billion ($ 357 million; £ 273 million) in another swap agreement which will allow companies to do business in local currencies rather than in US dollars.
+
+The Maldivian President was given red carpet treatment after relations soured in recent months. Modi called his visit a ‘new chapter’ in ties.
+
+“India will always be there for the progress and prosperity of the people of Maldives,” he said.
+
+The statements – and the Indian financial package – signal a significant improvement in relations between Male and Delhi, which have been strained since Muizzu came to power in November 2023.
+
+...
+
+[Data](articles/072fc0df.json)
+
+---
+
+### Kalalaya School of Dance and Music ‘Navarathiri’ on 9 Oct.
+
+*2024-10-08 05:27:22* · [`dailyftlk`](https://www.ft.lk/news/Kalalaya-School-of-Dance-and-Music-Navarathiri-on-9-Oct/56-767666) · `en`
+
+The Kalalaya School of Dance and Music, which was established by the Sri Lanka Tamil Women’s Union in 1948, will be celebrating ‘Navarathiri’ at the Kalalaya Hall at No. 400/2, Bauddhaloka Mawatha on 9 October.
+
+New students will be enrolled for Carnatic Music and Bharatha Natyam on ‘Vijayadabami’ on Saturday, 12 October at 10 a.m. Those who are interested in learning Carnatic Music and/or Bharatha Natyam are requested to enrol themselves by calling one of the following telephone numbers before 12 October: Principal, Kalalaya – 0777 55 7051 or Vice Principal – 0777 88 5434.
+
+The Sri Lanka Tamil Women’s Union, founded in 1909, is headed by its new President Yalini Cooke, and Gowri Shankar Somasundaram and Adhirupini Thiyagarajah have been appointed as the Principal and Vice Principal, respectively, of the Kalalaya School of Dance and Music.
+
+◼️
+
+[Data](articles/585499df.json)
 
 ---
 
@@ -343,8 +741,6 @@ Hotel Emporium, the leading direct manufacturer of premium hotel amenities is pr
 Top-performing tyre dealers who exceeded their targets for the sale of truck and bus tyres were rewarded with a fun-filled holiday in Thailand recently by CEAT Kelani Holdings, Sri Lanka’s leading tyre manufacturer.
 
 A total of 31 dealers qualified for the tour. Participants including dealers and representatives of CEAT’s Sales & Marketing Division along with members of the senior management of CEAT spent four days in Pattaya and Bangkok celebrating the sales achievements for the specified period – February to April 2024.
-
-Hotel Emporium CEO recognised at inaugural World Sustainable Travel & Hospitality Awards
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
@@ -804,6 +1200,24 @@ It is noteworthy that he joined the Service as Assistant Superintendent of Polic
 
 ---
 
+### දුම්පානය හේතුවෙන් ලංකාවේ වසරකට මරණ 20000ක්
+
+*2024-10-07 18:52:25* · [`adalk`](https://www.ada.lk/breaking_news/දුම්පානය-හේතුවෙන්-ලංකාවේ-වසරකට-මරණ-20000ක්/11-412358) · `si`
+
+දුම්පානය හේතුවෙන් මෙරටෙහි වාර්ෂිකව පුද්ගලයන් 20,000ක් පමණ මරණයට පත්වන බව සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්, විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා ප්‍රකාශ කළේය.
+
+ඔහු පෙන්වා දුන්නේ දුම්පානය නොකරන ලෙසට කොපමණ උපදෙස් හා සෞඛ්‍ය අවවාද ලබා දුන්නද ජනතාව ඒවා නොසලකා හරින බවයි.
+
+එසේම මද්‍යසාර භාවිතය  සහ සෞඛ්‍ය සම්පන්න නොවන ආහාර භාවිතය හේතුවෙන්   සිදුවන මරණ ප්‍රමාණයේ ද, යම් වර්ධනයක් පෙන්නුම් කරන බව ලේකම්වරයා අවධාරණය කළේය.
+
+ඔහු වැඩිදුරටත් සඳහන් කර සිටියේ සෞඛ්‍ය සේවාව ලබා ගැනීම අයිතිවාසිකමක් බවත් ඒ අනුව  සෞඛ්‍ය සේවාව ලැබීමේ හිමිකම ඇති නමුත් වළක්වා ගත හැකි මරණ වළක්වා ගැනීමට හා  අනවශ්‍ය ලෙස සෞඛ්‍ය සඳහා වැයවන රජයේ මුදල් ඉතිරි කර ගැනීමට සියලු දෙනා අවබෝධයෙන් කටයුතු කළ යුතු වන බවයි.
+
+◼️
+
+[Data](articles/ba0c0356.json)
+
+---
+
 ### Did the former President removed the security?
 
 *2024-10-07 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201932) · `si`
@@ -825,6 +1239,24 @@ Deputy Minister of Police Media Spokesperson DIG Talduwa, Speaking further
 [Data](articles/6ceb20e5.json)
 
 [Extended Data](ext_articles/6ceb20e5.ext.json)
+
+---
+
+### අද බොහෝ ප්‍රදේශවලට වැසි
+
+*2024-10-07 18:48:00* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-ප්‍රදේශවලට-වැසි/11-412357) · `si`
+
+අන්තර් නිවර්තන අභිසාරී කලාපය (උතුරු අර්ධ ගෝලයේ සහ දකුණු අර්ධ ගෝලයේ සිට පැමිණෙන සුළං අභිසාරී වන කලාපය) දිවයිනේ කාලගුණයට බලපෑම් කරමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+මේ අනුව අද (08දා) දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන  බවද පෙන්වා දෙයි.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වලත් ගාල්ල, මාතර සහ පුත්තලම දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකා බවද දෙපාර්තමේන්තුව  සඳහන් කරයි.බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් උදෑසන කාලයේදීත්  වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+ගිගුරුම්  සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.ඊයේ (07) උදේ 8.00 අවසන් වු පැය 24 ක කාලය සැලකිමේදි වැඩිම වර්ෂාපතනය කොලඹ දිස්ත්‍රික්කයෙන් වාර්තා වි තිබෙන අතර එම අය මිලිමිටර් 162.5 කි.
+
+...
+
+[Data](articles/d18d3148.json)
 
 ---
 
@@ -1478,6 +1910,22 @@ The student was near the residence of the student and was playing in front of th
 
 ---
 
+### Medical Humanities:an interdisciplinary approach to holistic health
+
+*2024-10-07 17:13:00* · [`islandlk`](http://island.lk/medical-humanitiesan-interdisciplinary-approach-to-holistic-health/) · `en`
+
+The Department of Medical Humanities at the University of Colombo’s Medical Faculty is another groundbreaking initiative by the institution as the pioneer of the discipline here at home and in South Asia. In an interview with the Sunday Island, Clinical Psychologist and Head of the Department of Medical Humanities, Dr. Santushi Amarasuriya elucidates on how this discipline, which is gaining momentum the world over, explores human experiences of health and illness drawing from a spectrum of other social and aesthetic branches.
+
+Q: Could you please share the ‘story’ behind the establishment of the Department of Medical Humanities at the Colombo Medical Faculty?
+
+...
+
+[Data](articles/002d568a.json)
+
+[Extended Data](ext_articles/002d568a.ext.json)
+
+---
+
 ### 'Martin' starring Durva Sarja
 
 *2024-10-07 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195700) · `ta`
@@ -1769,615 +2217,5 @@ The body of the boy has been placed in the funeral room of the Teraniyagala Hosp
 [Data](articles/d22a7a08.json)
 
 [Extended Data](ext_articles/d22a7a08.ext.json)
-
----
-
-### A leader who is not lucky in UNP history…!30 years of chairman and could not win any elections
-
-*2024-10-07 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195694) · `ta`
-
-Here's a 200-character summary:
-
-
-
-UNP leader Ranil Wickremesinghe, 78-year-old party head, announces retirement from politics after 47 years. Despite 30 years as chairman, he failed to win elections, losing party symbol. He refuses to give up responsibility but faces isolation within his own party.
-
-🟩
-
-Ranil, who has been the leader of the United National Party for 78 years, has been left alone today, but he is not ready to give up the responsibility of the party.. United National Party (UNP) leader Ranil Wickremesinghe, who has 47 years of parliamentary political experience, has already announced that he will not contest any election in the upcoming general election.. But the history of the fact that he has retired from the parliamentary election by removing the United National Party from the people's minds. He could not save the elephant symbol as the party leader.
-
-◼️
-
-[Data](articles/d4fbde42.json)
-
-[Extended Data](ext_articles/d4fbde42.ext.json)
-
----
-
-### Finding the Nobel Prize for Medical Science
-
-*2024-10-07 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201924) · `si`
-
-Here's a 200-character summary:
-
-
-
-Victor Ambrose wins Nobel Prize for Medicine for discovering microRNA's role in gene regulation. Established in 1901 by Alfred Nobel, awarded annually in Stockholm (except Peace Prize).
-
-🟩
-
-Victor Ambrose, Victor Ambrose, who won the Nobel Prize for Medical Science, has passed the Nobel Prize and Gary.
-
-They gave them the prize to find the role of Micro RNA and gene regulation.
-
-The prize, which was unveiled by a Swedish modernist and businessman Alfred Nobel, was given for science, literature and peace since 1901.
-
-Other Nobel Prizes are presented in Stockholm in Sweden, while the Nobel Peace Prize is presented in Oslo.
-
-When Alfred Nobel wrote its final will, the political unity between the countries in the Nordic region was considered.
-
-◼️
-
-[Data](articles/04668fa4.json)
-
-[Extended Data](ext_articles/04668fa4.ext.json)
-
----
-
-### Hanwella businessman shooting: Suspected shooter arrested
-
-*2024-10-07 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/102508/hanwella-businessman-shooting-suspected-shooter-arrested) · `en`
-
-Police have arrested the suspected shooter in the killing of a 55-year-old businessman who was shot dead in the Neluwattuduwa area of Hanwella on September 30, allegedly due to a dispute over failure to pay ransom.
-
-The incident occurred at around 8.15 p.m. on September 30, and the victim, identified as Vajira Nishantha, succumbed to his injuries after being admitted to Avissawella Hospital in critical condition, according to Police Spokesman DIG Nihal Thalduwa.
-
-The shooter, who carried out the attack inside the victim’s home, has been arrested, police confirmed. Authorities suspect the gunman used a T56 assault rifle to commit the murder.
-
-CCTV cameras had captured the moment the suspect jumped over the house’s wall, fired the fatal shots, and fled the scene.
-
-Police believe that the killing was orchestrated by underworld figure Lalith Kannangara, who is currently in hiding in Dubai.
-
-...
-
-[Data](articles/8a8b2a73.json)
-
-[Extended Data](ext_articles/8a8b2a73.ext.json)
-
----
-
-### Sri Lanka from World Bank to US $ 200 million
-
-*2024-10-07 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/195690) · `ta`
-
-World Bank grants $200 million to Sri Lanka for economic development and rehabilitation programs. Funds allocated for poverty reduction, economic stability, and private sector growth. Second phase of DPF program aims to strengthen state resources management and protect victims of economic downturns.
-
-🟩
-
-The World Bank Group (WBG) International Development Association (IDA) has granted permission to provide more US $ 200 million in collaboration with Sri Lanka's Economic Development and Economic Rehabilitation Programs.
-
-The agreement was held on Monday afternoon at the Presidential Office and the agreement was signed by the President of the Government of Sri Lanka KM Mahinda Siriwardena and the Director of the World Bank David Sisen in the presence of President Anura Kumara Dissanayake.
-
-This financial facility shows the continued cooperation of the World Bank for Sri Lanka's comprehensive restructuring programs.
-
-Sri Lanka has received this financial assistance under the second phase of the DPF program to provide reset development policies to the resettlement, positioning and economy of Sri Lanka.
-
-This two-year program (2023-2024) is implemented to reduce the impact of poverty and the people and create a complete economic stability.
-
-...
-
-[Data](articles/16ef54d2.json)
-
-[Extended Data](ext_articles/16ef54d2.ext.json)
-
----
-
-### Sri Lanka’s China-backed port sees 40-pct rise in RORO moves on quarter
-
-*2024-10-07 15:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-port-sees-40-pct-rise-in-roro-moves-on-quarter-182649/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s China-backed Hambantota International Port said it has seen a 40 percent in roll-on-roll-off vehicle transshipments in the third quarter of 2024, compared to the second.
-
-Vehicles handled rose from 125,526 units in the second quarter to 175,583 units in the September quarter.
-
-“We experienced an increase in the arrival of high and heavy vehicles from our contracted clients, which has significantly contributed to the port’s revenue,” he said in a statement.
-
-“Several RORO shipping lines launching new services to new destinations through HIP, shows their growing confidence in the Port, especially considering the significant increase in the numbers of high end vehicles we transshipments.”
-
-The increase was helped by new shipping lines and new ports joining the network.
-
-Some of the new ports of loading in the portfolio include Shanghai, Ulsan, Taicang, Pyeongtaek, Dafeng and Baltimore.
-
-HIP had already increased yard space, for the expected expansion. (Colombo/Oct07/2024)
-
-◼️
-
-[Data](articles/ef1e754f.json)
-
-[Extended Data](ext_articles/ef1e754f.ext.json)
-
----
-
-### Nilantha Jayawardene apologizes in court
-
-*2024-10-07 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201923) · `si`
-
-Nilantha Jayawardene apologizes in court over delayed compensation payment. His lawyer informs case about Rs. 65 million payment. Additional Solicitor General represents Attorney General. Case adjourned until November 18.
-
-🟩
-
-Former Director of the State Intelligence Compensation has been paid to the Supreme Court today (07) by the lawyers who have been paid to the basic rights petitions filed by the terror attacks on the Easter..
-
-His lawyer was informed when the case was taken up this afternoon this afternoon.
-
-Additional Solicitor General who appeared on behalf of the Attorney General said that the burden of the compensation has been paid by Rs. 65 million.
-
-Nilantha Jayawardena appeared in court regarding the delay in the payment of this money.
-
-Thereafter, the cases were then sent back on November 18.
-
-◼️
-
-[Data](articles/0e91d20e.json)
-
-[Extended Data](ext_articles/0e91d20e.ext.json)
-
----
-
-### The National Stamp Exhibition begins tomorrow
-
-*2024-10-07 15:22:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-முத்திரைக்-கண்காட்சி-நாளை-ஆரம்பம்/175-345047) · `ta`
-
-National Stamp Exhibition: Oct 8-12, postal HQ, 9am-6pm. Patronized by Ministry Secretary. School children competition with prizes.
-
-🟩
-
-The Postal Department has organized a National Stamp Exhibition from Wednesday (08) to October 12 on World Postal Day.
-
-The exhibition will be held at the postal headquarters from 09.00 am to 06.00 pm.
-
-The exhibition will be held under the patronage of Ranjith Aryaratne, Secretary to the Ministry of Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Media.
-
-It is noteworthy that prizes will be awarded to the winners of the stamp exhibition held among schoolchildren.
-
-◼️
-
-[Data](articles/7f33d39e.json)
-
-[Extended Data](ext_articles/7f33d39e.ext.json)
-
----
-
-### Congress handed over nominations
-
-*2024-10-07 15:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கிரஸ்-வேட்புமனுக்களை-கையளித்தது/175-345046) · `ta`
-
-Here's a 200-character summary:
-
-
-
-All Ceylon Tamil Congress, led by Gajendrakumar Ponnambalam, submitted nominations for election district on 07/2023.
-
-🟩
-
-The All Ceylon Tamil Congress, led by former parliamentarian Gajendrakumar Ponnambalam, handed over the nominations for the All Ceylon Tamil Congress Election District on Monday (07).
-
-◼️
-
-[Data](articles/25524dd9.json)
-
-[Extended Data](ext_articles/25524dd9.ext.json)
-
----
-
-### Gajendran team, nomination
-
-*2024-10-07 15:10:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஜேந்திரன்-அணி-வேட்புமனு-தாக்கல்/175-345046) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Gajendran team: Nominations submitted by All Ceylon Tamil Congress, led by Gajendrakumar Ponnambalam, for Election District on 07/2023."
-
-🟩
-
-The All Ceylon Tamil Congress, led by former parliamentarian Gajendrakumar Ponnambalam, handed over the nominations for the All Ceylon Tamil Congress Election District on Monday (07).
-
-◼️
-
-[Data](articles/3e880a20.json)
-
-[Extended Data](ext_articles/3e880a20.ext.json)
-
----
-
-### 'People Man'
-
-*2024-10-07 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/195682) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Jekavir debuts in '2K Love Story'. Directed by Susheendran, it focuses on wedding photographers in Tamil Nadu, exploring modern youth relationships."
-
-🟩
-
-'People's Man' Ramarajan, the new youngest hero Jega Veer, has introduced the hero of the story as the hero of the Tamil film industry. The introductory meeting was held in Chennai.
-
-Jekavir makes his debut as a newcomer in the film '2K Love Story' directed by director Susheendran.
-
-Meenakshi Govindarajan, Muruganantham, Lion Tiger, G. B.. Muthu, Vinodhini Vaidyanathan, Antony Bhagyaraj, Jayaprakash, Dushyant Jayaprakash and many others have been cast.
-
-V.. S.. Anand Krishnan's cinematography. Iman has composed music.
-
-The film was produced by Vignesh Subramanian on behalf of City Light Pictures.
-
-The shooting of the film is over and the post -shooting technical work is underway.
-
-In this case, the inauguration of Jekavir, who plays the hero in the film. 'People's Man' Ramarajan participated as a special guest.
-
-...
-
-[Data](articles/ec9ad2f2.json)
-
-[Extended Data](ext_articles/ec9ad2f2.ext.json)
-
----
-
-### Actor Varun Tej starrer 'Mathka'
-
-*2024-10-07 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195680) · `ta`
-
-Varun Tej stars in 'Mathka'. Directed by Karuna Kumar, it features Varun, Meenakshi Chaudhry, and others. Cinematography by Kishore Kumar, music by Prakash Kumar. Produced by Mohan Inguri and Dr. Wijender Reddy. Set for multi-language release on Nov 14.
-
-🟩
-
-Varun Tej, the leading star actor of the Telugu film industry, has been released as the hero of the film 'Mathka'.
-
-Actor Varun Tej, with four different appearances, has been a record of over five million viewers within a short time of the release.
-
-Directed by director Karuna Kumar, Varun Tej, Meenakshi Chaudhry, Nera Fadehi, Naveen Chandra, Kishore, Ajay Ghosh, Mime Gopi, Rupa Lakshmi, Vijay Rama Raju, Jagadish and many others.
-
-A.. Kishore Kumar is a cinematographer for the film.. V.. Prakash Kumar has composed the music.
-
-The film is being produced by Mohan Inguri and Dr. Wijender Reddy on behalf of Vira Entertainments Company.
-
-The film will be released in the film mansions of Tamil, Telugu, Malayalam, Kannada and Hindi on the 14th of November, and the excise scenes, stressful subtitles and emotional scenes are attracted to fans.
-
-The hero of the story decides that he should join the country's wealth. The story of 'Mathka' is to describe the challenging journey he is making.
-
-...
-
-[Data](articles/18dddea4.json)
-
-[Extended Data](ext_articles/18dddea4.ext.json)
-
----
-
-### Arjun Das starrer 'Onsmore'
-
-*2024-10-07 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/195681) · `ta`
-
-Here's a 200-character summary:
-
-
-
-New film "Onsmore" stars Arjun Das and Aditi Shankar. Directed by Vignesh Srikanth, music by Hesham Abdul Wahab. Produced by Yuvraj Ganesan for Million Studios. Released on Valentine's Day 2023. Not related to 1997 film of same name.
-
-🟩
-
-The new film, starring Arjun Das, who has made his debut in the film 'Kaidhi' and attracted fans with his unique voice, has been named 'Onsmore' and has been released.
-
-Aditi Shankar is paired opposite Arjun Das in the film 'Onsmore' directed by debutant director Vignesh Srikanth.
-
-The film crew has not yet released official information about the actors and actresses who have played with them.
-
-Hesham Abdul Wahab has composed the film, which is being recorded by Arvind Viswanathan.
-
-The film was produced by producer Yuvraj Ganesan on behalf of Million Studios.
-
-The film crew has released a special video of 'Onsmore' to celebrate the birthday of actor Arjun Das.
-
-The video will be released in the filmmaker on the 14th of Valentine's Day in February.
-
-The video has only been attracted to the weblishers because the conversation between Arjun Das and Aditi Shankar is young but not asking 'Onsmore'.
-
-...
-
-[Data](articles/8ba0a6dc.json)
-
-[Extended Data](ext_articles/8ba0a6dc.ext.json)
-
----
-
-### ADB delegation meets President, pledge continued support for Sri Lanka’s economy
-
-*2024-10-07 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102507/adb-delegation-meets-president-pledge-continued-support-for-sri-lankas-economy) · `en`
-
-The Country Director of the Asian Development Bank (ADB) Resident Mission in Sri Lanka, Takafumi Kadono, along with a delegation, met with President Anura Kumara Dissanayake today (07) at the Presidential Secretariat.
-
-The discussions focused on ADB’s ongoing commitment to support Sri Lanka’s economic and social development, the President’s Media Division (PMD) stated.
-
-During the meeting, the ADB reaffirmed its dedication to continuing its projects in Sri Lanka, with particular emphasis on bolstering key sectors crucial to the nation’s recovery.
-
-Tourism was identified as a critical sector that holds immense potential for Sri Lanka’s economic growth. In this regard, the ADB assured further assistance in developing tourism infrastructure to harness the sector’s full potential, the PMD added.
-
-...
-
-[Data](articles/e1f99cc7.json)
-
-[Extended Data](ext_articles/e1f99cc7.ext.json)
-
----
-
-### Wife who consumed ashes by internet history
-
-*2024-10-07 14:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இணைய-வரலாற்றால்-அஸ்தியை-உட்கொண்ட-மனைவி/50-345045) · `ta`
-
-Canadian writer's wife eats husband's ashes after discovering infidelity through internet history. She mixes ashes with dog feces and swallows them. Book details husband's death and online activities. Wife seeks new partner, still grieving.
-
-🟩
-
-The Canadian writer wrote in his autobiography that she ate her husband's ashes when she was alive.
-
-The book of Memoir -type autobiography of the United States, Jessica Waite, has recently been published in the name of a widow's Guide to Dead Bastards, a widow's guide to death.
-
-In it, her husband, Sean Waite, has defrauded himself and has been in touch with many women, and she has written in detail about the events of death in 2015.. In 2015, her husband died for a texas-ku job.
-
-To ask about where her body is, Houston's Hospital Hospital has taken my husband's I -Pot to search for the phone number. When he searched for Houston, there were many things about the Houston Escards [Escorts] [sexual spouses] in his browsing histori.
-
-I learned that the husband searched for the Excords in various places and their prices. Thereby I found out that my husband had been in touch with many women and was addicted to porn videos.
-
-...
-
-[Data](articles/80485f92.json)
-
-[Extended Data](ext_articles/80485f92.ext.json)
-
----
-
-### Former SIS chief completes compensation payments to Easter attack victims
-
-*2024-10-07 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/102506/former-sis-chief-completes-compensation-payments-to-easter-attack-victims) · `en`
-
-Former Director of the State Intelligence Service (SIS) Nilantha Jayawardena has informed the Supreme Court through his Legal Counsel that the arrears of the compensation which was ordered to be payed to the victims of the Easter Sunday attacks, have been completely settled.
-
-The former Senior DIG and head of the SIS, Nilantha Jayawardana, appeared before the Supreme Court this morning in relation to the contempt of court charges filed against him, for failing to complete the payment of Rs. 75 million in compensation for the Easter Sunday bomb victims as ordered by the court.
-
-...
-
-[Data](articles/18b843f7.json)
-
-[Extended Data](ext_articles/18b843f7.ext.json)
-
----
-
-### Shooter arrested in Hanwella murder
-
-*2024-10-07 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201922) · `si`
-
-Hanwella murder: Shooter killed, suspect arrested. Victim Vajira Nishantha died. Suspect Lalith Kalli linked to extortion demands. Police investigating under DIG Gyanga Marapana.
-
-🟩
-
-An unidentified gunman was shot dead by an unidentified gunman in Hanwella on a case of non-extortion.
-
-The police spokesman DIG Talduuwa said that the shooter had been arrested.
-
-Police said that the murder had been conducted by Lalith Kalli member, who is in Dubai Kalli.
-
-Those businessmen have refused to comment on the media due to fear of his death threats.
-
-The Western Provincial Counter Varayara Bandara handing over of these incidents commenced investigations under the supervision of DIG Gyanga Marapana.
-
-An unidentified gunman had been assassinated by a unidentified gunman around 8.15 pm in Nebertunuda, Hanwella on 30 pm.
-
-A CCTV camera has been recorded in a CCTE camera how to arise from a wall of the house for the crime.
-
-Vajira Nishantha, who was injured in the shooting, died on admission to the Avissawella Base Hospital.
-
-The victim's house was shot in 2021 and was set on fire to his business.
-
-...
-
-[Data](articles/b2f2fb9e.json)
-
-[Extended Data](ext_articles/b2f2fb9e.ext.json)
-
----
-
-### Two players in Sri Lanka to be the player in September in September
-
-*2024-10-07 14:46:59* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී-සැප්තැම්බර්-මාසයේ-ක්‍රීඩකයා-වීමට-ශ්‍රී-ලංකාවේ-ක්‍රීඩකයන්-දෙදෙනෙක්/9-412349) · `si`
-
-Sri Lanka cricket: Rabath Jayasuriya, Kamindu Mendis selected for ICC tournament in September. Also includes Australian player Travis Hayed.
-
-🟩
-
-Two Sri Lankan players have been included in the International Cricket Council in the month of the month of Sri Lanka.
-
-Accordingly the ICC in September. Recommendation for the player is recommended that the name of the two players, Rabath Jayasuriya and Kamindu Mendis, as well as the name of Travis Hayed, Australia.
-
-◼️
-
-[Data](articles/e0bbd3fa.json)
-
-[Extended Data](ext_articles/e0bbd3fa.ext.json)
-
----
-
-### Police officer's body found
-
-*2024-10-07 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201921) · `si`
-
-Body of 50-year-old police officer found near Expressway Ja bear. Identified as local resident. Incident occurred today during routine patrol. Investigation ongoing.
-
-🟩
-
-The body of a police officer was found in a magnitude near the Expressway Ja bear.
-
-Police states that the body was found today (07) at a statement made by a person who was traveling along the road.
-
-The deceased has been identified as a 50 year old resident of the Jaela and he is an appointment of the Expressway to the Expressway.
-
-◼️
-
-[Data](articles/097b8603.json)
-
-[Extended Data](ext_articles/097b8603.ext.json)
-
----
-
-### A pragmatic approach to governance: An independent citizen’s perspective on President Dissanayake’s recent appointments
-
-*2024-10-07 14:39:00* · [`islandlk`](http://island.lk/a-pragmatic-approach-to-governance-an-independent-citizens-perspective-on-president-dissanayakes-recent-appointments/) · `en`
-
-“It doesn’t matter whether a cat is black or white, as long as it catches mice – Deng Xiaoping”
-
-As a concerned citizen of Sri Lanka, I have closely observed the early days of President Anura Kumara Dissanayake’s (AKD) tenure. Elected on a platform of reform, transparency, and merit-based governance, his recent appointments to key government positions have sparked debate. Some argue that these choices contradict the very principles AKD campaigned on. However, a closer look reveals a more nuanced and pragmatic approach to governance that prioritises results and effective leadership.
-
-...
-
-[Data](articles/b0156f46.json)
-
-[Extended Data](ext_articles/b0156f46.ext.json)
-
----
-
-### Will there be an October Surprise to sway the 2024 election?
-
-*2024-10-07 14:36:00* · [`islandlk`](http://island.lk/will-there-be-an-october-surprise-to-sway-the-2024-election/) · `en`
-
-An October Surprise is defined as “an unexpected political event or revelation in the month before a presidential election, especially one that seems intended to influence the outcome”. Since 1980, there have been a few “October Surprises” which may have changed the history of the nation.
-
-The phrase originated in 1980, during the presidential election season of that year. Militants in Iran had seized 66 American citizens from the US Embassy in 1979, and held 52 of them hostage for over a year. Jimmy Carter was the incumbent president at the time. His failure to have the hostages released was the main reason he was losing in the polls to Ronald Reagan. The hostage crisis occurred after the Iran’s Islamic revolution and the overthrow of the Pahlavi dynasty. Carter had planned to negotiate a last-minute release of the hostages which would win him the election. It never happened.
-
-...
-
-[Data](articles/77d13664.json)
-
-[Extended Data](ext_articles/77d13664.ext.json)
-
----
-
-### Here is the money Sri Lanka received from the World Bank
-
-*2024-10-07 14:35:43* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බැංකුවෙන්-ශ්‍රී-ලංකාවට-ලැබුණු-මුදල-මෙන්න/11-412348) · `si`
-
-Sri Lanka receives funding from World Bank's second phase program. Agreement signed between countries for financial support.
-
-🟩
-
-Sri Lanka and the World Bank have signed the agreement between Sri Lanka and the World Bank under the second phase of the World Bank Program in Sri Lanka.
-
-◼️
-
-[Data](articles/07c834ba.json)
-
-[Extended Data](ext_articles/07c834ba.ext.json)
-
----
-
-### WB permit to offer $ 200 million
-
-*2024-10-07 14:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-மில்லியன்-டொலர்கள்-வழங்க-WB-அனுமதி/175-345043) · `ta`
-
-World Bank grants $200 million for Sri Lanka's economic development. Agreement signed between President Dissanayake and World Bank Director. Funds allocated for poverty reduction and economic stability through 2023-2024 program.
-
-🟩
-
-The World Bank Group (WBG) International Development Association (IDA) has granted permission to provide more US $ 200 million in collaboration with Sri Lanka's Economic Development and Economic Rehabilitation Programs.
-
-The agreement was held at the Presidential Office this afternoon and signed the agreement in the presence of President Anura Kumara Dissanayake and the Director of Finance of the Government of Sri Lanka KM Mahinda Siriwardena and the Director of the World Bank David Sislane.
-
-This financial facility shows the continued cooperation of the World Bank for Sri Lanka's comprehensive restructuring programs.
-
-Sri Lanka has received this financial assistance under the second phase of the DPF program to provide reset development policies to the resettlement, positioning and economy of Sri Lanka.
-
-This two-year program (2023-2024) is implemented to reduce the impact of poverty and the people and create a complete economic stability.
-
-...
-
-[Data](articles/a97a438b.json)
-
-[Extended Data](ext_articles/a97a438b.ext.json)
-
----
-
-### The Economy, Executive Presidency, and the Parliamentary Election
-
-*2024-10-07 14:26:00* · [`islandlk`](http://island.lk/the-economy-executive-presidency-and-the-parliamentary-election/) · `en`
-
-Although it was the economy that ended Gotabaya Rajapaksa’s presidency and it was very much the main backdrop to the September presidential election, the results of the election cannot be interpreted as showing a voter preference for any particular direction for economic management. In fact, in an earlier CPA opinion poll, a good majority of the respondents in general, and especially among the Sinhalese, had indicated that they did not trust of any of three main candidates for their abilities to steer the economy out of trouble to recovery and growth.
-
-...
-
-[Data](articles/0dfcf9a7.json)
-
-[Extended Data](ext_articles/0dfcf9a7.ext.json)
-
----
-
-### "Please submit property details"
-
-*2024-10-07 14:24:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விபரங்களையும்-சேர்த்து-சமர்ப்பிக்கவும்/175-345042) · `ta`
-
-Elections Commission urges candidates to submit asset reports before parliamentary elections. Candidates must disclose financial details and responsibilities. This applies to both party representatives and National List members entering parliament.
-
-🟩
-
-The Elections Commission has urged the candidates contesting the upcoming parliamentary elections with their assets and credit details.
-
-The Commission has issued a statement that all candidates representing key political parties and independent groups should submit a report on their assets and responsibilities.
-
-In addition, members who enter Parliament through the National List are obliged to submit their assets and responsibilities to the Declarations on their assets and responsibilities.
-
-◼️
-
-[Data](articles/68d26ed7.json)
-
-[Extended Data](ext_articles/68d26ed7.ext.json)
-
----
-
-### Sir John becomes PM, the Queen’s visit and the 1956 landslide
-
-*2024-10-07 14:24:00* · [`islandlk`](http://island.lk/sir-john-becomes-pm-the-queens-visit-and-the-1956-landslide/) · `en`
-
-The prime minister’s father too had been named John Kotelawela and there was always a whiff of mystery surrounding `John Sr’. There had then been rumours of high intrigue, of family feuds, contract killings and near unassailable alibis. The kavi kola karayas – the wandering minstrels who preceded the radio as purveyors of news in my childhood had sung the story in racy jingles, doubtless embellishing it as time went on. But what was spoken about in whispers was that John Sr had died in prison while awaiting trial after arrest in a foreign land for killing a brother-in-law.
-
-...
-
-[Data](articles/c59293fc.json)
-
-[Extended Data](ext_articles/c59293fc.ext.json)
-
----
-
-### Asian Development Bank helps
-
-*2024-10-07 14:21:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிய-அபிவிருத்தி-வங்கி-உதவுகிறது/175-345041) · `ta`
-
-Asian Development Bank provides financial aid for Sri Lanka's tourism, power, and small business development. President Anura Kumara Dissanayake meets with ADB representative Takafumi Kadono to discuss economic growth initiatives.
-
-🟩
-
-The Asian Development Bank has promised to provide financial assistance to the development of Sri Lanka's tourism, power and small businesses.
-
-President Anura Kumara Dissanayake met with the Asian Development Bank of Sri Lanka, Takafumi Kadono on Monday (07) at the Presidential Office at the Presidential Office.
-
-Takafumi Kadono, the resident representative of the Asian Development Bank of Sri Lanka, said that all the agreements will be carried out by the Asian Development Bank for the economic development of Sri Lanka.
-
-The Asian Development Bank has also decided to provide financial assistance for the necessary facilities for tourism development for Sri Lanka's economic development.
-
-Accordingly, the Asian Development Bank has decided to provide financial assistance to improve the infrastructure of the tourism industry.
-
-...
-
-[Data](articles/a45195e7.json)
-
-[Extended Data](ext_articles/a45195e7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 22:13:30**
+As of **2024-10-08 22:57:16**
 
 ## Newspaper Stats
 
-*Scraped **48,435** Articles*
+*Scraped **48,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,106 @@ bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,491
+adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,711
 tamilmirrorlk | 6,568
 virakesarilk | 7,747
-adaderanasinhalalk | 8,380
+adaderanasinhalalk | 8,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,435 (100.0%) of 48,435 articles have been extended.
+48,439 (100.0%) of 48,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Special Relief for Sri Lankans
+
+*2024-10-08 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201970) · `si`
+
+Sri Lanka Bureau registration: Special relief for Sri Lankans. Concessions granted for obtaining registration.
+
+🟩
+
+The Registration of the Sri Lanka Bureau has been given special concessions for Sri Lankans to obtain the registration of the Sri Lanka Bureau.
+
+◼️
+
+[Data](articles/1df7d1c1.json)
+
+[Extended Data](ext_articles/1df7d1c1.ext.json)
+
+---
+
+### What happened in the IMF talks?
+
+*2024-10-08 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201969) · `si`
+
+IMF talks summary: Conceptual discussion without structural changes. Officer-level talks needed for decisions. New government considers options, including DSA. Economy faces challenges; no immediate changes planned.
+
+🟩
+
+Cabinet Publisjaket says that only a conceptual discussion was held recently and had not been discussed with a structural change and did notice the decisions.
+
+He was speaking at the cabinet decision notification held today (08).
+
+Speaking further the Minister said that the officer's level discussion should be made in order to make decisions on such a structural change.
+
+Q. The IMF Representative recently held discussions. Despite the media, Professor is a professor. Just didn't generate. What did you consider?
+
+"This was a conviction of this IMF representatives and how the new government would deal with this. Otherwise, the decisions did not make decisions. It is tumbled on the officer at the officer at the official level. "
+
+Q. There was an alternative debt insisctious analysis of the policy expression of the national power. That DSA. Said it would create structural discussions. Are you trying to build the Options DSA and submit?
+
+...
+
+[Data](articles/498fd43e.json)
+
+[Extended Data](ext_articles/498fd43e.ext.json)
+
+---
+
+### Railway restriction on Kandyan railway line
+
+*2024-10-08 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201968) · `si`
+
+Here's a 200-character summary:
+
+
+
+Kandyan railway line restrictions: Upcountry trains limited to Ella station. Specific schedules for various routes between Colombo Fort and Badulla. Buses deployed as alternative transport.
+
+🟩
+
+The upcountry route train is restricted to the Ella railway station from the Colombo Fort to the Station.
+
+NJ, deploying an announcement. Mr. Nepha's who is said to be this.
+
+Accordingly, the relevant fillets on the arch 9 bridge between October 15 (09) to October 15.
+
+Therefore, the above statement further states that only between 7.30 am to 2:30 am to 5.30 pm, the statement further states.
+
+The railway plan on the upcountry road from up to 15.10.2014 to 15.10.2013.
+
+01. Runing only 1005 runs from Colombo Fort to Badulla to the railway station.
+
+02. Runing only to the 'Odyssey "Railway Station to run from Colombo Fort to Badulla on October 10-11,12 and 13.
+
+03. On October 11,12,13 and 14, the 'Oddi' train falls will be opened from the train falls and leaves from the station from the station.
+
+04. The number 1006 (Podi Menica) from Badulla to Colombo Fort will commence from the railway station and leaves from the station from the station .09.40.
+
+...
+
+[Data](articles/d3ccbed0.json)
+
+[Extended Data](ext_articles/d3ccbed0.ext.json)
+
+---
 
 ### Law was jailed for eight years in prison
 
@@ -261,6 +345,26 @@ It is reported that she has made some effort to jump due to the design of the in
 [Data](articles/8022ecca.json)
 
 [Extended Data](ext_articles/8022ecca.ext.json)
+
+---
+
+### Upcountry railway line restricted due to Indo-Lanka joint film
+
+*2024-10-08 19:00:22* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු-ලංකා-ඒකාබද්ධ-සිනමා-පටයක්-හේතුවෙන්-උඩරට-දුම්රිය-මාර්ගයේ-ඇල්ලට-සීමාවෙයි/11-412380) · `si`
+
+Colombo Fort railway line closed tomorrow due to Indo-Lanka film shoot. Train service halted between Colombo Fort and Fort Railway Station. Ministry-approved project aims to boost Sri Lanka's tourism after film release.
+
+🟩
+
+The Railway Department states that train from Colombo Fort to the Fort Railway Station, Colombo will be restricted to the falls from Colombo Fort to Fort Railway Station tomorrow due to an Indo-Sri Lanka joint film project.
+
+The filming is on the approval of the Ministry as additional tourist attractions will occur over Sri Lanka after the display of this film.
+
+◼️
+
+[Data](articles/6acdd852.json)
+
+[Extended Data](ext_articles/6acdd852.ext.json)
 
 ---
 
@@ -2285,95 +2389,5 @@ The Cabinet has been approved by the Additional Secretary (Establishment Coordin
 [Data](articles/c0ed2203.json)
 
 [Extended Data](ext_articles/c0ed2203.ext.json)
-
----
-
-### Sri Lanka to seek BRICS membership this month: Cabinet Spokesman
-
-*2024-10-08 10:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-brics-membership-this-month-cabinet-spokesman-182752/) · `en`
-
-Sri Lanka’s will seek membership of the BRICS organization at the a meeting in Russia later this month, Cabinet Spokesman Vijitha Herath said.
-
-“Sri Lanka has been invited for the BRICS later this month… and we expect to seel membership in BRICS,” Herath told a weekly media briefing to announce the cabinet decisions.
-
-“We have discussed with Indian Foreign Minister when he was here last week as well.”
-
-The previous government’s cabinet approved the country seeking the membership in the BROCS which includes economic giants such as China, India, and Brazil.
-
-BRICS, originally comprising Brazil, Russia, India, China and South Africa, is an intergovernmental organization of emerging market countries seeking to strengthen economic ties.
-
-This year, it has granted four new members so fer: Iran, Egypt, Ethiopia, and the United Arab Emirates. (Colombo/October 08/2024)
-
-◼️
-
-[Data](articles/1bada754.json)
-
-[Extended Data](ext_articles/1bada754.ext.json)
-
----
-
-### Sri Lanka rupee opens at 293.40/50 to US dollar, bond yields steady
-
-*2024-10-08 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-293-40-50-to-us-dollar-bond-yields-steady-182750/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened flat at 293.40/50 to the US dollar on Tuesday, from 293.45/55 a day earlier, while bond yields were broadly steady dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 11.45/60 percent, down from 11.50/60 percent.
-
-A bond maturing on 15.02.2028 was quoted stable at 11.65/75 percent.
-
-A bond maturing on 15.09.2029 was quoted at 12.00/15 percent, up from 11.95/12.05 percent.
-
-In equities, Colombo’s All Share Price Index opened 0.19 percent, or 23.61 points lower at 12,141, while the S&P SL20 of more liquid stocks opened up 0.21 percent or 7.54 points lower at 3,583.
-
-◼️
-
-[Data](articles/fec97a31.json)
-
-[Extended Data](ext_articles/fec97a31.ext.json)
-
----
-
-### 35 pound jewelry robbery of mother -in -law
-
-*2024-10-08 10:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியாரை-வன்புணர்ந்து-35-பவுண்-நகை-கொள்ளை/175-345071) · `ta`
-
-35-year-old woman robbed of 35-pound gold jewelry by 16-member gang led by her son-in-law. Victim's husband absent; daughter lives elsewhere. Incident reported to police, leading to hospital admission.
-
-🟩
-
-A 35 -year -old mother -in -law's house in a lonely mother -in -law went with a 16 -member group of a son -in -law, who was sexually abused and robbed of 35 pound gold jewelery and money from the house.
-
-In the absence of the victim's husband, her (22) daughter is married and is living elsewhere and is living alone in her home.
-
-He was admitted to the hospital after a complaint was lodged at the police station on Monday night (07).
-
-◼️
-
-[Data](articles/8fcc0b0b.json)
-
-[Extended Data](ext_articles/8fcc0b0b.ext.json)
-
----
-
-### 35 pound jewelry robbery to mother -in -law
-
-*2024-10-08 10:08:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமியாரிடம்-சேஷ்டை-35-பவுண்-நகை-கொள்ளை/175-345071) · `ta`
-
-Mother-in-law robbed of £35k jewelry by 16-strong gang led by son-in-law. Victim hospitalized after reporting incident to police.
-
-🟩
-
-A 35 -year -old mother -in -law's house in a lonely mother -in -law went with a 16 -member group of a son -in -law, who was sexually abused and robbed of 35 pound gold jewelery and money from the house.
-
-In the absence of the victim's husband, her (22) daughter is married and is living elsewhere and is living alone in her home.
-
-He was admitted to the hospital after a complaint was lodged at the police station on Monday night (07).
-
-◼️
-
-[Data](articles/b16a11cc.json)
-
-[Extended Data](ext_articles/b16a11cc.ext.json)
 
 ---

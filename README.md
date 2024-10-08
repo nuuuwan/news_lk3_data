@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 16:38:38**
+As of **2024-10-08 16:57:45**
 
 ## Newspaper Stats
 
-*Scraped **48,389** Articles*
+*Scraped **48,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,480
 dailymirrorlk | 4,733
-adaderanalk | 5,704
+adaderanalk | 5,705
 tamilmirrorlk | 6,561
 virakesarilk | 7,738
-adaderanasinhalalk | 8,370
+adaderanasinhalalk | 8,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,389 (100.0%) of 48,389 articles have been extended.
+48,392 (100.0%) of 48,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Moody will come to save the Maldives
+
+*2024-10-08 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201957) · `si`
+
+India supports Maldives' economy with $400m loan and $3bn currency swap. Moody's rating upgrade expected. Local currency use encouraged. Foreign reserves critical at $440m. Import cover only 1.5 months.
+
+🟩
+
+India has also been present to support the Maldives's economy, which is facing an economic crisis.
+
+Announced this after the discussions between the President Mohammed Mischu and Indian Prime Minister Narendra Moodi.
+
+The assistance is a $ 400 million financial transfer and an agreement with another financial exchange of Rs. 30 billion.
+
+It will make businesses using local fi- not dollars.
+
+After the President of the Maldives, the President was appointed as his post, critically.
+
+The foreign exchange reserved in the Maldives has fallen to $ 440 million, so they are facing a problem with a debt.
+
+The squad is sufficient for import work only for 1 1/2 months.
+
+◼️
+
+[Data](articles/162c6d63.json)
+
+[Extended Data](ext_articles/162c6d63.ext.json)
+
+---
+
+### Indian financial aid opens ‘new chapter’ with Maldives
+
+*2024-10-08 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/102534/indian-financial-aid-opens-new-chapter-with-maldives) · `en`
+
+India has agreed to extend hundreds of millions of dollars in financial support to the Maldives to help strengthen its struggling economy.
+
+The deal was announced after Maldives President Mohammed Muizzu held talks with Prime Minister Narendra Modi during his five-day visit to India.
+
+The support includes a $400m currency swap deal and an additional 30bn rupees ($357m; £273m) in another swap agreement which will allow companies to do business in local currencies rather than in US dollars.
+
+The Maldivian president was given red carpet treatment after relations soured in recent months. Modi called his visit a “new chapter” in ties.
+
+“India will always be there for the progress and prosperity of the people of Maldives,” he said.
+
+The statements - and the Indian financial package - signal a significant improvement in relations between Male and Delhi, which have been strained since Muizzu came to power in November 2023.
+
+...
+
+[Data](articles/275e9db0.json)
+
+[Extended Data](ext_articles/275e9db0.ext.json)
+
+---
+
+### President welcomes President of Bidain
+
+*2024-10-08 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201956) · `si`
+
+US President Joe Biden welcomed President Anura Kumara Dissanayake, praising Sri Lanka's peaceful transition. He emphasized strengthening US-Sri Lanka ties for stability, prosperity, and progress. The presidents discussed cooperation in economic growth, regional security, and democratic governance.
+
+🟩
+
+US President Joe Biden has commended the last presidential and post presidential and post presidential season in peace.
+
+Joe Biden has said this to the President Anura Kumara Dissanayake, who concludes the long-term relations between the US and Sri Lanka.
+
+US President Bideen has wrote to the greetings.
+
+"This election highlights the public commitment to conform to their future through the foundation of the energy and democracy in Sri Lanka."
+
+President Joe Biden has also emphasized the importance of enhancing cooperation between the United States and Sri Lanka to acquire stability, prosperity and progress to all Sri Lankan citizens.
+
+The US President also emphasized the importance of cooperation between the two countries to acquire stability, prosperity and progress to all Sri Lankan citizens.
+
+President Bideman has expressed optimism to strengthen bilateral relations under the leadership of President Anura Kumara Dissanayake, the leadership of President Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/c6e9df70.json)
+
+[Extended Data](ext_articles/c6e9df70.ext.json)
+
+---
 
 ### Bharat joined Mano
 
@@ -2203,57 +2287,5 @@ From left: Sachintha Ponnamperuma, Dr. Shahani Markus and Andun Liyanagunawardan
 [Data](articles/dec40a63.json)
 
 [Extended Data](ext_articles/dec40a63.ext.json)
-
----
-
-### Ex-Intel Chief Nilantha Jayawardena settles Rs. 75 m Easter Sunday compensation
-
-*2024-10-08 05:33:07* · [`dailyftlk`](https://www.ft.lk/news/Ex-Intel-Chief-Nilantha-Jayawardena-settles-Rs-75-m-Easter-Sunday-compensation/56-767671) · `en`
-
-Friends and family rally to pay remaining Rs. 65 m after Jayawardena only managed to pay Rs. 10 m initially
-
-The State Intelligence Service’s former Director Senior DIG Nilantha Jayawardena has paid the full Rs. 75 million compensation ordered by the Supreme Court in connection with the 2019 Easter Sunday terror attacks. The compensation was mandated after petitions were filed accusing him of failing to prevent the attack, despite having received prior intelligence.
-
-The compensation payment was confirmed yesterday by Jayawardena’s lawyer, Chandaka Jayasundara PC, during a Supreme Court hearing. Jayasundara informed the Court that the full amount had been paid, submitting documentation to corroborate the payment. This announcement came as the Court was hearing a contempt of court case against Jayawardena for initially failing to make the full payment.
-
-...
-
-[Data](articles/8c5189e1.json)
-
-[Extended Data](ext_articles/8c5189e1.ext.json)
-
----
-
-### CWC Vice President Barath resigns
-
-*2024-10-08 05:31:38* · [`dailyftlk`](https://www.ft.lk/news/CWC-Vice-President-Barath-resigns/56-767670) · `en`
-
-Says will continue to work on “sustainable future” of the country
-
-The Ceylon Workers’ Congress (CWC) Vice President Barath Arullsamy, who had been representing the Kandy district, has tendered his resignation via an official letter sent to the party’s general secretary.
-
-In his letter, Barath had cited his disagreement with the CWC’s alignment with representatives who have been accused of harming the country for their own benefit during a time of national crisis. “This view is contrary to the opinions of the constituents in my constituency whom I have served sincerely for the past five years.”
-
-Barath had served as the Assistant Secretary and been a crucial figure in developing the international relations of the organisation. He contested in the 2020 General Election and obtained 24,000 preferential votes for the first time as a young candidate of the CWC.
-
-...
-
-[Data](articles/18215841.json)
-
-[Extended Data](ext_articles/18215841.ext.json)
-
----
-
-### Protest against a year of Israel atrocities in Palestine
-
-*2024-10-08 05:29:53* · [`dailyftlk`](https://www.ft.lk/news/Protest-against-a-year-of-Israel-atrocities-in-Palestine/56-767669) · `en`
-
-A protest was held in front of the United Nations (UN) office in Colombo yesterday by several organisations condemning Israel’s occupation of Gaza and killing of civilians in the State of Palestine and Lebanon. Yesterday also marked one year of Israel atrocities in Palestine killing over 40,000 people including over 16,000 children
-
-◼️
-
-[Data](articles/8cdd9590.json)
-
-[Extended Data](ext_articles/8cdd9590.ext.json)
 
 ---

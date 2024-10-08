@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 07:26:13**
+As of **2024-10-08 08:02:56**
 
 ## Newspaper Stats
 
-*Scraped **48,283** Articles*
+*Scraped **48,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 3,247
 adalk | 4,467
 dailymirrorlk | 4,733
 adaderanalk | 5,689
-tamilmirrorlk | 6,534
+tamilmirrorlk | 6,535
 virakesarilk | 7,733
-adaderanasinhalalk | 8,352
+adaderanasinhalalk | 8,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,281 (100.0%) of 48,283 articles have been extended.
+48,285 (100.0%) of 48,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Lock for a track on the Katunayake Highway
+
+*2024-10-08 07:03:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்க-நெடுஞ்சாலையின்-ஒரு-பாதைக்கு-பூட்டு/175-345064) · `ta`
+
+Here's a summary of "Lock for a track on the Katunayake Highway" in 200 characters:
+
+
+
+A security measure implemented along the Katunayake Highway to control unauthorized vehicle access. The lock system restricts entry points, enhancing road safety and reducing potential threats. It's part of Sri Lanka's efforts to secure major transportation routes.
+
+🟩
+
+◼️
+
+[Data](articles/fb729fcd.json)
+
+[Extended Data](ext_articles/fb729fcd.ext.json)
+
+---
+
+### A life of life
+
+*2024-10-08 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201938) · `si`
+
+Family dispute leads to death in Wealalagama. Police investigation reveals wife used fabric to silence husband during argument. Wife arrested after incident reported to 119 center.
+
+🟩
+
+A family dispute has died due to a family dispute in the Wealalagama area in Nochchiyagama.
+
+The incident was reported yesterday (08) at night.
+
+Police officers have gone to travel to visit on a tip of the 119 centers that the family had a family dispute.
+
+While he was admitted to hospital while a person was unconscious and he was told that the person had died.
+
+It has been revealed that he was a person who was drunk with his wife and was a person who had a dispute with his wife and to their neighbors.
+
+Police say that police investigations have revealed that the wife had been unconscious by a piece of fabric to prevent his mouth to stop the death of the deceased.
+
+The remains were placed at the Nochchiyagama hospital morgue and the wife of the 42 year old delegation was arrested.
+
+◼️
+
+[Data](articles/125a6a79.json)
+
+[Extended Data](ext_articles/125a6a79.ext.json)
+
+---
 
 ### Bharat Arulzamy's departure from CWC
 
@@ -2329,49 +2379,5 @@ Accordingly, the Asian Development Bank has decided to provide financial assista
 [Data](articles/a45195e7.json)
 
 [Extended Data](ext_articles/a45195e7.ext.json)
-
----
-
-### What is the blocking of the NPP government?
-
-*2024-10-07 14:19:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/NPP-அரசாங்கத்தை-தடுத்து-நிறுத்துவது-எது/175-345040) · `ta`
-
-NPP government blocks publication of liquor school lists, prevents operations. Former MP Mano Ganesan criticizes as unethical, corrupt practice. Opposition leaders promised transparency before elections.
-
-🟩
-
-Former parliamentarian Mano Ganesan, who has said that it is not illegal business to establish liquor schools or permits, has questioned what President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya questioned the government from publishing a list of such liquor schools and preventing their movement.
-
-In recent times, Mano Ganesan posted a message on X that the Licensing Department was issued by the Department of Excise, except for legal levels.
-
-He said, "This is a" non -ethical, corruption practice "and" political bribery ".
-
-“Before the September 21 election, it was a thrilling thing. Opposition candidates, including President Anuragumara Dissanayake and Opposition Leader Sajith Premadasa, have promised to publish all the recently issued 'licenses' and publish the list of their respective politicians who have recommended the license.
-
-...
-
-[Data](articles/701d72b0.json)
-
-[Extended Data](ext_articles/701d72b0.ext.json)
-
----
-
-### Israelis, scarred and battling on multiple fronts, mark a year since Hamas’ Oct. 7 attack
-
-*2024-10-07 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/102505/israelis-scarred-and-battling-on-multiple-fronts-mark-a-year-since-hamas-oct-7-attack) · `en`
-
-Israelis were holding vigils and somber ceremonies on Monday to mark a year since the Oct. 7, 2023 Hamas attack, the deadliest in the country’s history, which sparked the war in Gaza and scarred Israelis indelibly.
-
-The surprise cross-border attack, which caught Israel unprepared on a major Jewish holiday, shattered Israelis’ sense of security and shook their faith in their leaders and their military.
-
-Its aftershocks still ripple one year later. The war in Gaza rages on and Israel is fighting a new war against Hezbollah, which began attacking Israel on Oct. 8. There is also an escalating conflict with Iran which backs both Hamas and Hezbollah militant groups that threatens to drag the region into a far more dangerous conflagration.
-
-And on Monday, Hamas showed that it was still putting up a fight. It launched rockets that set off air raid sirens in Tel Aviv, as well as closer to the Gaza border.
-
-...
-
-[Data](articles/3533ecca.json)
-
-[Extended Data](ext_articles/3533ecca.ext.json)
 
 ---

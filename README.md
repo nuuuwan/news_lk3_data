@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 02:08:07**
+As of **2024-10-09 02:58:05**
 
 ## Newspaper Stats
 
-*Scraped **48,460** Articles*
+*Scraped **48,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 480
 bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,970
-dailyftlk | 3,272
+dailyftlk | 3,273
 adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
-tamilmirrorlk | 6,569
+tamilmirrorlk | 6,570
 virakesarilk | 7,747
 adaderanasinhalalk | 8,383
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,460 (100.0%) of 48,460 articles have been extended.
+48,462 (100.0%) of 48,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### E.w.w.. Competition in the elephant symbol
+
+*2024-10-09 02:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-கா-யானை-சின்னத்தில்-போட்டி/175-345122) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Ceylon Workers Congress contests elephant symbol in Nuwara Eliya district for November elections. They've finalized plans for candidate allocation across coalitions and symbols.
+
+🟩
+
+The Ceylon Workers Congress has decided to contest the elephant symbol in the Nuwara Eliya district in the upcoming general election in November.
+
+The Ceylon Workers Congress announced the final decision yesterday as the Ceylon Workers Congress (Ceylon) has come up with a concept of how many candidates will contest in any coalition and in any symbol.. (A)
+
+◼️
+
+[Data](articles/27d2aad6.json)
+
+[Extended Data](ext_articles/27d2aad6.ext.json)
+
+---
+
+### Foreign observers at polls: Evolution of the concept and practice of election observation
+
+*2024-10-09 02:01:43* · [`dailyftlk`](https://www.ft.lk/columns/Foreign-observers-at-polls-Evolution-of-the-concept-and-practice-of-election-observation/4-767718) · `en`
+
+Ideals and values of the organisation as well as the duty of transparency and communication appears to bear upon how elections are observed – Pic by Shehan Gunasekara
+
+The question then arises as to whether all this makes them independent observers or observers who are partial to the sending organisation. The answer is of a binary nature. They are independent in so far as their functioning in the receiving country is concerned. They are required to not take sides in a contest, but to diligently observe whether the conduct of the election was free and fair. The agreement or understanding reached with the national agency and the mandate or the terms of reference under which the organisation concerned nominates the election observers are applicable here. This notwithstanding, there is no denying the fact that the observers bear partiality towards the sending organisation, which means that they uphold the ideals and values of that organisation at all times during their mission
+
+...
+
+[Data](articles/35e18060.json)
+
+[Extended Data](ext_articles/35e18060.ext.json)
+
+---
 
 ### CCI to kick off Build SL Housing & Construction Expo 2025 on 30 May
 
@@ -2323,43 +2363,5 @@ A fire broke out at a Kadadasi stamp on Meliban Road, Parakkottai. It is reporte
 [Data](articles/d6348f91.json)
 
 [Extended Data](ext_articles/d6348f91.ext.json)
-
----
-
-### What happened to the Passover commission report?
-
-*2024-10-08 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201947) · `si`
-
-Passover commission report status: Cabinet denies interference, claims investigation ongoing. Spokesman vows transparency and accountability.
-
-🟩
-
-Cabinet spokesman Vijitha Herath says that the Law will be implemented against the persons who intervened and operated the Passover attack.
-
-Addressing a question raised by a journalist who participated in the press briefing held in the press conference held today (08).
-
-...
-
-[Data](articles/38f1418d.json)
-
-[Extended Data](ext_articles/38f1418d.ext.json)
-
----
-
-### Sri Lanka to reject UNHRC draft resolution, uphold local reconciliation efforts
-
-*2024-10-08 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/102524/sri-lanka-to-reject-unhrc-draft-resolution-uphold-local-reconciliation-efforts) · `en`
-
-Taking into consideration the matters submitted by Sri Lanka’s Minister of Foreign Affairs Vijitha Herath relevant to the 57th session of the United Nations Human Rights Council (UNHRC), which is held from September 09 to October 11, 2024 in Geneva, the consent of the Cabinet of Ministers has been obtained to present the position of Sri Lanka for certain matters.
-
-Accordingly, Sri Lanka has strongly rejected the proposed drafted resolution at the present session of the United Nations Human Rights Council and Sri Lanka continues to oppose the 51/1 resolution of the drafted resolution of the United Nations Human Rights Council and has not agreed to any resolution that extends the powers of the collection of external evidence mechanism.
-
-Furthermore, the Cabinet of Ministers has agreed that even though, the said proposal has been denied, Sri Lanka has firmly believed to take action in respect of main human right issues including the reconciliation through local procedure.
-
-...
-
-[Data](articles/2bbfdcdc.json)
-
-[Extended Data](ext_articles/2bbfdcdc.ext.json)
 
 ---

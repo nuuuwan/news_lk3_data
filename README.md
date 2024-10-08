@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 15:57:45**
+As of **2024-10-08 16:12:17**
 
 ## Newspaper Stats
 
-*Scraped **48,381** Articles*
+*Scraped **48,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,480
 dailymirrorlk | 4,733
-adaderanalk | 5,701
+adaderanalk | 5,702
 tamilmirrorlk | 6,559
 virakesarilk | 7,738
-adaderanasinhalalk | 8,367
+adaderanasinhalalk | 8,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,381 (100.0%) of 48,381 articles have been extended.
+48,384 (100.0%) of 48,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Attack in the Black Sea
+
+*2024-10-08 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201954) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Russian missile attacks damage ships in Odessa harbor. Ukrainian FM calls for safe passage. One worker killed, 5 ships injured. Russia denies targeting civilian vessels. Ukraine claims operation against Russian warship successful.
+
+🟩
+
+Ukrainian Foreign Minister Andreil Siribhaha says that two ships of the export ships of the Odeza Harbor premises in South Ukraine said.
+
+Earnian Foreign Minister emphasized all responsible state and organizations to ensure free ship transport at ear to the ear.
+
+However, it is reported that the situation has not been revealed in the attack.
+
+The Russian Defense Ministry has also said that the most frequent Russian defense ministry has not responded to the civil goals.
+
+The Governor of the Odeza region stated that a port worker was killed by the Russian missile attack and five foreign ships were injured.
+
+One of the hourly vessels has reached the port a few hours ago.
+
+Deputy Prime Minister Oleky Killhaba has stated that Russia is rising global food safety by habits in this manner.
+
+He said that it would create instability in sensitive zones that depend on food imports.
+
+It is reported that 6,000 tons of corn was imposed on the other ship.
+
+...
+
+[Data](articles/2425d7b3.json)
+
+[Extended Data](ext_articles/2425d7b3.ext.json)
+
+---
+
+### Upul Tharanga Warrants
+
+*2024-10-08 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201953) · `si`
+
+Upul Tharanga arrested on warrant over Legends League influence claim. Court issues warrant for his arrest upon return to Sri Lanka.
+
+🟩
+
+The Matale High Court today has issued warrants today (08) due to the Chairman of the SLC selection committee.
+
+According to Mr. Upul Tharanga, it is relevant to a complaint that the "Legends League" has been influenced by a complaint with a complaint with a complaint that the "Legends League 'has been affected in March this year.
+
+The court has issued a warrant to arrest him at the airport at the airport due to the premises without notice to the judiciary.
+
+He has been informed by a motion that he is abroad as he is returning to the island.
+
+◼️
+
+[Data](articles/b7c45e60.json)
+
+[Extended Data](ext_articles/b7c45e60.ext.json)
+
+---
+
+### Hopfield and Hinton win 2024 Nobel Prize in Physics
+
+*2024-10-08 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102531/hopfield-and-hinton-win-2024-nobel-prize-in-physics) · `en`
+
+Scientists John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics for discoveries and inventions that enable machine learning within artificial neural networks, the award-giving body said on Tuesday.
+
+The award comes with a prize sum of 11 million Swedish crowns ($1.1 million), which is shared between the winners if there are several. The physics prize is awarded by the Royal Swedish Academy of Sciences.
+
+“This year’s two Nobel Laureates in physics have used tools from physics to develop methods that are the foundation of today’s powerful machine learning,” the award-giving body said in a statement.
+
+Widely considered the most prestigious prize for physicists across the world, it was created, along with awards for achievements in science, literature and peace, in the will of Alfred Nobel.
+
+...
+
+[Data](articles/13454e42.json)
+
+[Extended Data](ext_articles/13454e42.ext.json)
+
+---
 
 ### Manager who saved the young man's life
 
@@ -2189,83 +2271,5 @@ Skip Facebook Post, you agree to reach the content of 1facebook content? This ar
 [Data](articles/c489184f.json)
 
 [Extended Data](ext_articles/c489184f.ext.json)
-
----
-
-### Sanath Jayasuriya says that he has built confidence in the team and confidence in others
-
-*2024-10-08 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195722) · `ta`
-
-Sanath Jayasuriya emphasizes building team confidence and believes in player abilities. He aims to create a supportive environment and encourages open communication. As Sri Lanka's new chief coach, he targets qualifying for the ICC World Test Championship final by winning key matches against South Africa and Australia.
-
-🟩
-
-Sri Lanka Cricket's chief coach Sanath Jayasuriya said that all the confidence in the cricket arena, the confidence in the other, and the luck.
-
-He was speaking at a media briefing at the Sri Lanka Cricket Headquarters this afternoon after his appointment as the chief coach of the Sri Lankan cricket team.
-
-'What I always say is that self -confidence and believing in the other person. I have made this into the team. That is very important. I think it contains a little fortune. How hard can we work. But sometimes we need luck, 'he said.
-
-'All players are dedicated to play efficiently. Know what they have faced in the last two years. They had gone to the beginning. Thus I asked the public to support the Sri Lankan soldiers. They are a great cricket group. They have talent. I have fed up with them. I am with them. They can discuss anything with me, ”Sanath Jayasuriya added.
-
-...
-
-[Data](articles/cef31173.json)
-
-[Extended Data](ext_articles/cef31173.ext.json)
-
----
-
-### 2024-10-07 (Monday)
-
-### Taxpore account freeze,
-
-*2024-10-07 23:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-ஏய்ப்போரின்-கணக்கு-முடக்கம்/175-345058) · `ta`
-
-Taxpore account freeze: Authorities to collect tax packs by year-end. Failure to pay may result in frozen bank accounts and asset seizure. Identify tax collectors; only accept official ID cards, not checks or cash payments.
-
-🟩
-
-The Deputy Commissioner of Internal Affairs, N. N. Nu, said that the maximum steps will be taken to collect the tax packs by the end of this year and that if there are no taxpayers, they have the authority to freeze their bank accounts and confiscate the assets.. M.. My. S.. B.. Dissanayake mentioned.
-
-However, he urged the identity of the tax -charging authorities and not to pay the arrears as a check or cash.
-
-“From today, our authorities will come to charge pending taxes. Find out who those officers are. They should wear the identity card of our department. They will never accept checks or money or anything.
-
-If the taxes are pending by the end of this year, the maximum steps will be taken to charge all of them. We have the authority to block bank accounts and confiscate property when followed by the law. ”. Remble
-
-◼️
-
-[Data](articles/224ada9e.json)
-
-[Extended Data](ext_articles/224ada9e.ext.json)
-
----
-
-### Taxpayer's bank account freezing, confiscation of assets
-
-*2024-10-07 23:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-செலுத்தாதவர்களின்-வங்கிக்-கணக்கு-முடக்கம்-சொத்துகள்-பறிமுதல்/175-345058) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tax authorities threaten to freeze bank accounts and seize assets if unpaid taxes aren't settled by year-end. Officials must show proper ID; payments should not be made via check or cash.
-
-🟩
-
-The Deputy Commissioner of Internal Affairs, N. N. Nu, said that the maximum steps will be taken to collect the tax packs by the end of this year and that if there are no taxpayers, they have the authority to freeze their bank accounts and confiscate the assets.. M.. My. S.. B.. Dissanayake mentioned.
-
-However, he urged the identity of the tax -charging authorities and not to pay the arrears as a check or cash.
-
-“From today, our authorities will come to charge pending taxes. Find out who those officers are. They should wear the identity card of our department. They will never accept checks or money or anything.
-
-If the taxes are pending by the end of this year, the maximum steps will be taken to charge all of them. We have the authority to block bank accounts and confiscate property when followed by the law. ”. Remble
-
-◼️
-
-[Data](articles/bc9d9d6d.json)
-
-[Extended Data](ext_articles/bc9d9d6d.ext.json)
 
 ---

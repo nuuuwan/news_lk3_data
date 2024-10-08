@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 09:13:00**
+As of **2024-10-08 09:24:12**
 
 ## Newspaper Stats
 
-*Scraped **48,315** Articles*
+*Scraped **48,318** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 396
+dbsjeyarajcom | 397
 bbccomsinhala | 478
 colombotelegraphcom | 478
 islandlk | 2,860
@@ -17,8 +17,8 @@ economynextcom | 2,954
 dailyftlk | 3,267
 adalk | 4,469
 dailymirrorlk | 4,733
-adaderanalk | 5,691
-tamilmirrorlk | 6,537
+adaderanalk | 5,692
+tamilmirrorlk | 6,538
 virakesarilk | 7,733
 adaderanasinhalalk | 8,356
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 8,356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,299 (100.0%) of 48,315 articles have been extended.
+48,301 (100.0%) of 48,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Sri Lanka, Jordan explore commercial, investment prospects
+
+*2024-10-08 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/102519/sri-lanka-jordan-explore-commercial-investment-prospects) · `en`
+
+Irbid Chamber of Commerce Chairman, Mohammad Shoha, and Sri Lankan Ambassador Priyangika Wijegunasekera on Monday discussed prospects of enhancing trade and investment cooperation between Jordan and Sri Lanka.
+
+During their meeting, Shoha emphasized the importance of boosting trade ties, particularly in agriculture and commerce, and called for exploring new investment opportunities that benefit both countries.
+
+He highlighted the private sector’s involvement in advancing bilateral trade, tourism and investment cooperation, suggesting organizing joint exhibitions and visits by economic delegations to further these goals.
+
+The Irbid Chamber is committed to supporting import and export operations and the flow of goods and services between the two nations, Shoha pledged, stressing the potential for increased trade in agricultural, industrial, and handicraft products to introduce Jordanian goods to the Sri Lankan market.
+
+...
+
+[Data](articles/3fa8379d.json)
+
+---
+
+### 19 சீனப் பிரஜைகள் கைது
+
+*2024-10-08 08:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19-சீனப்-பிரஜைகள்-கைது/175-345067) · `ta`
+
+நாவல கொஸ்வத்தை பகுதியில் 19 சீன பிரஜைகள் குற்றப்புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இணையவழி பண மோசடி குற்றச்சாட்டில் குறித்த சீன பிரஜைகள் தொடர்புபட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/35c5b8d6.json)
+
+---
 
 ### Senior Professor Hareendra Dissabandara appointed SEC Chairman
 
@@ -442,6 +474,8 @@ ACCA Business Development Manager - Members and Employers Ruchera Jayawardena Pe
 
 [Data](articles/1d3a11cc.json)
 
+[Extended Data](ext_articles/1d3a11cc.ext.json)
+
 ---
 
 ### Priority matrix for tea sector: Part 2
@@ -455,6 +489,8 @@ A new framework is needed that integrates cutting-edge tools with advanced agron
 ...
 
 [Data](articles/dc337318.json)
+
+[Extended Data](ext_articles/dc337318.ext.json)
 
 ---
 
@@ -1185,6 +1221,22 @@ In the last presidential election, our brother Anura Kumara Dissanayake supporte
 [Data](articles/9973f3ad.json)
 
 [Extended Data](ext_articles/9973f3ad.ext.json)
+
+---
+
+### 
+
+*2024-10-07 20:35:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84874) · `en`
+
+On what legal basis did President Dissanayake call out the armed forces to maintain ‘public order?
+
+Is the Anura Kumara Dissanayake (AKD) Presidency which came into power on a ‘reformist’ election platform able to legally justify the invocation of Section 12 of the Public Security Ordinance (PSO) using ‘special powers’ to call out the armed forces for the maintenance of public order?
+
+Speaking to me soon after, a colleague ruminated as to whether this was a routine act, the signing of a gazette placed before the President by a staffer, the issuing of which was not so much a deliberate notification but a misstep. That is however hard to believe. But the fact that, such a preposterous possibility is even talked about, indicates the deeply chaotic extent to which official processes have been reduced to.
+
+...
+
+[Data](articles/a818b85f.json)
 
 ---
 
@@ -2155,77 +2207,5 @@ A schoolgirl died after falling from the Lotus Tower in Sri Lanka. The incident 
 [Data](articles/60c7eb14.json)
 
 [Extended Data](ext_articles/60c7eb14.ext.json)
-
----
-
-### Sri Lanka Bribery Commission DG to resign as appointment challenged in Court
-
-*2024-10-07 16:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-bribery-commission-dg-to-resign-as-appointment-challenged-in-court-182661/) · `en`
-
-ECONOMYNEXT – Director General of Sri Lanka’s Director General of the Commission to Investigate Allegations of Bribery or Corruption, Kanishka D. Wijeratne has agreed to resign after the Supreme Court gave leave to proceed, legal officials said.
-
-Transparency International Sri Lanka went to court alleging that the appointment was done in an opaque, ambiguous and circuitous method has been followed in making the said appointment without due consideration of the need to follow due reasonable process.
-
-Lawyers for Wijeratne said he undertook to resign by 3.00 pm, after courts indicated that they were inclined to grant interim relief.
-
-The petitioner sought interim relief to stop the Director General from functioning in office until the completion of the case.
-
-The case was heard by the Supreme Court Justices P P Surasena, Kumudini Wickremesinghe and Janak de Silva. President’s Counsel Viran Corea appeared for TISL. (Colombo/Oct07/2024)
-
-◼️
-
-[Data](articles/6c12a807.json)
-
-[Extended Data](ext_articles/6c12a807.ext.json)
-
----
-
-### The Asian Development Bank promise to the President
-
-*2024-10-07 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201926) · `si`
-
-Asian Development Bank agrees to support Sri Lanka's tourism, energy, and small-scale entrepreneurship development. Financial assistance will be provided to enhance infrastructure and improve economic growth. The bank commits to continuing its efforts to strengthen Sri Lanka's economy.
-
-🟩
-
-Asian Development Bank has agreed to provide financial assistance to develop Sri Lanka's tourism, energy and small scale entrepreneurs.
-
-President Anura Kumara Dissanayake met with the Director of Director Takafumi Karator for Sri Lanka at the Presidential Secretariat this morning (07) at the Presidential Secretariat.
-
-The Director of the ADB stressed that all agreements carried out by the Asian Development Bank will continue to implement the economy of Sri Lanka.
-
-The Asian Development Bank has agreed to provide financial assistance to providing necessary facilities to improve the tourism industry to improve the economy of Sri Lanka.
-
-Accordingly, the Asian Development Bank has decided to provide funds to enhance the infrastructure in the tourism industry.
-
-According to the request made by President Anura Kumara Dissanayake, the Director of the Asian Development Bank has agreed to improve the tourism industry in the North.
-
-...
-
-[Data](articles/54be2790.json)
-
-[Extended Data](ext_articles/54be2790.ext.json)
-
----
-
-### Russian court sentences a 72-year-old American to nearly 7 years in prison for fighting in Ukraine
-
-*2024-10-07 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102511/russian-court-sentences-a-72-year-old-american-to-nearly-7-years-in-prison-for-fighting-in-ukraine) · `en`
-
-A Russian court on Monday sentenced a 72-year-old American in a closed trial to nearly seven years in prison for allegedly fighting as a mercenary in Ukraine.
-
-Prosecutors said Stephen Hubbard signed a contract with the Ukrainian military after Russia sent troops into Ukraine in February 2022 and he fought alongside them until being captured two months later.
-
-He was sentenced to six years and 10 months in a general-security prison. Prosecutors had called for a sentence of seven years in a maximum-security prison.
-
-Hubbard, from the state of Michigan, is the first American known to have been convicted on charges of fighting as a mercenary in the Ukrainian conflict.
-
-The charges carried a potential sentence of 15 years, but prosecutors asked that his age be taken into account along with his admission of guilt, Russian news reports said.
-
-...
-
-[Data](articles/2a8bf9db.json)
-
-[Extended Data](ext_articles/2a8bf9db.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 01:08:12**
+As of **2024-10-09 01:38:43**
 
 ## Newspaper Stats
 
-*Scraped **48,456** Articles*
+*Scraped **48,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 480
 bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,970
-dailyftlk | 3,268
+dailyftlk | 3,272
 adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
@@ -26,11 +26,83 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,456 (100.0%) of 48,456 articles have been extended.
+48,460 (100.0%) of 48,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### CCI to kick off Build SL Housing & Construction Expo 2025 on 30 May
+
+*2024-10-09 01:10:00* · [`dailyftlk`](https://www.ft.lk/business/CCI-to-kick-off-Build-SL-Housing-Construction-Expo-2025-on-30-May/34-767709) · `en`
+
+The Chamber of Construction Industry of Sri Lanka (CCI) has announced that the 20th edition of the premier Build SL Housing and Construction Expo 2025 will be held from 30, 31 May and 1 June at the Sirimavo Bandaranaike Convention Centre, BMICH.
+
+The announcement was made at a launch attended by the CCI President Arch President Jayantha Perera, members of the Board of Management and the Council members of the Chamber, longstanding exhibitors at the previous Build SL Expo’s, last year valued sponsors and industry leaders.
+
+Plaques of Appreciation were presented to all sponsors of the last Expo. In addition, pledges of support for the forthcoming Expo were made by the sponsors who have already decided by handing over sponsorship cheques to the CCI President.
+
+...
+
+[Data](articles/16b59aed.json)
+
+[Extended Data](ext_articles/16b59aed.ext.json)
+
+---
+
+### Lankan envoy in Warsaw meets Polish Chamber of Commerce
+
+*2024-10-09 01:06:57* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-in-Warsaw-meets-Polish-Chamber-of-Commerce/34-767708) · `en`
+
+Ambassador of Sri Lanka to the Republic of Poland Priyangika Dharmasena engaged in discussions with Polish Chamber of Commerce Regional Director Katarzyna Kaniewska, on further promoting trade relations between Sri Lanka and Poland on 6 October 2024.
+
+Ambassador Dharmasena pointed out Sri Lanka’s potential to introduce a vast range of novel Sri Lankan products to the Polish market, in addition to tea and textiles which are the current main commodity items from Sri Lanka. She also suggested that a Polish trade delegation visit Sri Lanka to explore the trade environment in the country. An online seminar to educate the Polish businessmen and entities on Sri Lanka’s trading environment and potential products would also facilitate this further, Ambassador Dharmasena noted.
+
+Director Kaniewska welcomed the proposals and conveyed the Chamber’s willingness to cooperate in that regard.
+
+◼️
+
+[Data](articles/94d7ec27.json)
+
+[Extended Data](ext_articles/94d7ec27.ext.json)
+
+---
+
+### Priority matrix for tea sector: Part 3
+
+*2024-10-09 00:59:31* · [`dailyftlk`](https://www.ft.lk/columns/Priority-matrix-for-tea-sector-Part-3/4-767707) · `en`
+
+Digital literacy: Implement digital literacy programs to train tea growers and workforce on using digital tools and platforms effectively. This will ensure that all stakeholders can benefit from digital transformation.
+
+Adoption and integration: Provide ongoing technical support and resources to help stakeholders adopt and integrate digital technologies into their operations.
+
+Enhancement: Invest in research and development to explore new digital technologies and innovations that can further enhance the tea value chain.
+
+Piloting: Launch pilot projects to test and demonstrate the benefits of digital technologies in different aspects of the tea value chain.
+
+...
+
+[Data](articles/5ee153e8.json)
+
+[Extended Data](ext_articles/5ee153e8.ext.json)
+
+---
+
+### Greece as a lens to understand present political changes
+
+*2024-10-09 00:36:45* · [`dailyftlk`](https://www.ft.lk/columns/Greece-as-a-lens-to-understand-present-political-changes/4-767706) · `en`
+
+The Government of Greece, like its counterpart in Sri Lanka, spent more than the revenue it generated year after year, piling up debt. Unlike in Sri Lanka, Greece lacked the ability to reset the economy by letting the currency float. In both countries the post-crisis focus was on the primary balance. In Sri Lanka this was to be achieved from the revenue side with no overt cuts in expenditure; in Greece by cutting Government expenditures including salaries and pensions, by downsizing Government, and by raising taxes. Syriza did it and now Greece is back to normalcy
+
+Inflation in August 2024 was 0.5%, the lowest since 2000. There are no shortages. No bank collapsed. Reserves are up. Agreement is close on the commercial debt, the last piece of the restructuring.
+
+...
+
+[Data](articles/a545d74d.json)
+
+[Extended Data](ext_articles/a545d74d.ext.json)
+
+---
 
 ### Meritocracy – A silver lining for Sri Lanka
 
@@ -2289,101 +2361,5 @@ Furthermore, the Cabinet of Ministers has agreed that even though, the said prop
 [Data](articles/2bbfdcdc.json)
 
 [Extended Data](ext_articles/2bbfdcdc.ext.json)
-
----
-
-### Constitutional Council will meet today
-
-*2024-10-08 11:42:33* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යවස්ථාදායක-සභාව-අද-රැස්වෙයි---අද-ගන්න-යන-අනුමැතිය-මෙන්න/11-412364) · `si`
-
-Constitutional Council meets today. Legislative Council convenes with Speaker Mahinda Yapa Abeywardena. Minister Vijitha Herath announces 2 pm session at Parliament Complex to approve IGP.
-
-🟩
-
-The Legislative Council is scheduled to meet with the Chairman of the Speaker Mahinda Yapa Abeywardena today (08th).
-
-Minister Vijitha Herath said that the meeting will be held at the Parliament complex at the Parliamentary Complex at 2 pm and seeks to approve of the IGP.
-
-◼️
-
-[Data](articles/95c7db41.json)
-
-[Extended Data](ext_articles/95c7db41.ext.json)
-
----
-
-### The main notice of the Ministry of Education
-
-*2024-10-08 11:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சின்-முக்கிய-அறிவிப்பு/175-345081) · `ta`
-
-Ministry of Education denies halt in school lunch program for primary students. Secretary Tilaka Jayasundara confirms continuation and plans to extend until next year. Program launched in March for grades 1-5 in government schools.
-
-🟩
-
-The Ministry of Education said that the provision of lunch for primary students in state schools has been temporarily stopped.
-
-Secretary of the Ministry of Education Tilaka Jayasundara said that various information has been spreading over the past few days that the school lunch program has been halted and that all the information is false and the school will continue to provide lunch for school children.
-
-He added that arrangements have been made to implement the program until next year.
-
-It is noteworthy that the scheme of providing lunch for students from 1st to fifth grade in government schools has been launched since March.
-
-◼️
-
-[Data](articles/1a5e5a44.json)
-
-[Extended Data](ext_articles/1a5e5a44.ext.json)
-
----
-
-### The impact of non -standard drugs and the need for the purchase law
-
-*2024-10-08 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/195734) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Non-standard drugs purchased during Sri Lanka's economic crisis caused permanent vision loss in patients. Compensation cases are ongoing. Experts call for transparency in pharmaceutical purchases and stricter regulations. A new purchasing law is proposed to prevent future issues.
-
-🟩
-
-64 -year -old Makkari Rajaratnam, a native of Kandapalai, was admitted to the Nuwara Eliya General Hospital last year to address the sight of his left eye.
-
-After a cataract surgery on April 5, 2023, he returned home on April 6. Brednisolone, provided by the hospital at the time, used the ophthalmology.
-
-After its aftermath. He was admitted to the Colombo National Eye Hospital for further treatment on May 10.
-
-In an examination carried out at the time, the tragic news that Makkari Rajaratnam had permanently lost sight was published by the medical authorities.
-
-At the same time, 64 -year -old PA Nandasena from Aluthgama, Bandarawela was undergoing cataract surgery at the Nuwara Eliya General Hospital.. Upon his return home on April 6, the Britzisolon Azherad, provided by the hospital, started using the ophthalmology.
-
-...
-
-[Data](articles/78d93c76.json)
-
-[Extended Data](ext_articles/78d93c76.ext.json)
-
----
-
-### Minister Vijitha Herath clarifies new govt’s foreign relations policy
-
-*2024-10-08 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/102523/minister-vijitha-herath-clarifies-new-govts-foreign-relations-policy) · `en`
-
-Cabinet Spokesman Minister Vijitha Herath emphasized that Sri Lanka maintains balanced diplomatic relations with all countries, reaffirming that no nation is given special treatment.
-
-Speaking at the Cabinet press briefing this morning (08), Minister Herath stated, “We are doing business with China just as we are doing business with India.”
-
-Furthermore, he addressed the government’s decision to allow a Chinese military training vessel to visit Sri Lanka later this month, noting that this falls within the framework of the country’s diplomatic engagements.
-
-“The ship is scheduled to arrive in the port of Colombo this month,” he said.
-
-Minister Herath also elaborated on the government’s foreign relations policy: “We don’t consider any country to be special. Whether it’s China, India, the United States, Russia, Cuba, or Vietnam, Sri Lanka maintains diplomatic relations with all countries—big or small. We have no bias in our approach.”
-
-...
-
-[Data](articles/688dbecf.json)
-
-[Extended Data](ext_articles/688dbecf.ext.json)
 
 ---

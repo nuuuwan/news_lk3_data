@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 23:39:07**
+As of **2024-10-09 00:13:04**
 
 ## Newspaper Stats
 
-*Scraped **48,441** Articles*
+*Scraped **48,455** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 398
-colombotelegraphcom | 479
+colombotelegraphcom | 480
 bbccomsinhala | 480
 islandlk | 2,860
-economynextcom | 2,958
+economynextcom | 2,970
 dailyftlk | 3,267
 adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
-tamilmirrorlk | 6,568
+tamilmirrorlk | 6,569
 virakesarilk | 7,747
 adaderanasinhalalk | 8,383
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,441 (100.0%) of 48,441 articles have been extended.
+48,449 (100.0%) of 48,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Special time for Sri Lankans in Lebanon
+
+*2024-10-08 23:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-உள்ள-இலங்கையர்களுக்கு-விசேட-கால-அவகாசம்/50-345121) · `ta`
+
+Sri Lankans in Lebanon get special registration deal. Register now until Oct 8, 2025. Cost: $62. Embassy open Sundays 9am-2pm. Register quickly for welfare and insurance benefits.
+
+🟩
+
+Sri Lankans in Lebanon have been given special time for registering at the Sri Lanka Foreign Employment Bureau.
+
+The concession has been granted to Sri Lankan employees who have long been working on the Sri Lankan Foreign Employment Bureau and not renewed the same record after arriving in Lebanon.
+
+The offer period will remain in effect for the period of 08 October 08 to 2025, ie 03 months.
+
+The Sri Lanka Bureau of Foreign Employment has announced that the registration can be made quickly to the embassy.
+
+Accordingly, the Sri Lankan Foreign Employment Bureau has been asked to bring the following documents to the Embassy Office.
+
+02) Current Employment Contract or JOB Offer Letter issued by a workplace related to the current workplace
+
+Those who do not have a Current Employment Contract or Job Offer Letter issued by the job offer letter can be filled by the Self-Declaration provided by the embassy.
+
+This registration process is charged as $ 62 (USD 62/-).
+
+...
+
+[Data](articles/ad4ffcaf.json)
+
+[Extended Data](ext_articles/ad4ffcaf.ext.json)
+
+---
 
 ### Three prison officers interdicted after inmates escape
 
@@ -156,6 +188,26 @@ The railway plan on the upcountry road from up to 15.10.2014 to 15.10.2013.
 
 ---
 
+### AKD win major leftist coup, says Vasu; Sri Lanka “old left” wants in
+
+*2024-10-08 21:52:00* · [`economynextcom`](https://economynext.com/akd-win-major-leftist-coup-says-vasu-sri-lanka-old-left-wants-in-182880/) · `en`
+
+ECONOMYNEXT — Former MP Vasudewa Nanayakkara, a foremost voice of Sri Lanka’s “old left” which later embraced left-nationalism, has decided to throw in his lot with the ruling National People’s Power (NPP).
+
+Speaking to reporters on Tuesday October 08, Nanayakkara said the result of Sri Lanka’s September 21 presidential election was a “big leftist victory”.
+
+“Our view is that we should join this government and support them. MPs elected from our Democratic Left Front (DLF) will not join the opposition. We will join the National People’s Power (NPP) government,” he said.
+
+“I think we’re the only party that is making such a statement,” he added.
+
+...
+
+[Data](articles/19ba4c28.json)
+
+[Extended Data](ext_articles/19ba4c28.ext.json)
+
+---
+
 ### Law was jailed for eight years in prison
 
 *2024-10-08 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201967) · `si`
@@ -208,6 +260,28 @@ Last year, a total of more than 88,000 dengue cases were reported with a death t
 
 ---
 
+### Sri Lanka ex-president’s backers to name opposition leader pick on Oct 14
+
+*2024-10-08 21:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-presidents-backers-to-name-opposition-leader-pick-on-oct-14-182789/) · `en`
+
+ECONOMYNEXT — Politicians who backed former President Ranil Wickremesinghe during the presidential election will announce on Monday October 14 their choice for opposition leader at the upcoming parliamentary election.
+
+Former MP Nimal Lanza told reporters following a round of talks held in Colombo on Tuesday October 08 that their faction will submit strong lists of nominees covering the entire island.
+
+The Election Commission has said that the closing date for nominations is Friday October 11.
+
+“There will be a strong list for all of Sri Lanka. We don’t want a government but we do anticipate the opposition leadership,” said Lanza.
+
+“After we submit nominations on the 11th, we will meet on Saturday. On Monday there will be a meeting chaired by former President Wickremesinghe and former Prime Minister Dinesh Gunawardena. We will bring everyone who was nominated to Colombo and there we will announce who our opposition leader is,” he said.
+
+...
+
+[Data](articles/70f35a05.json)
+
+[Extended Data](ext_articles/70f35a05.ext.json)
+
+---
+
 ### Another drug fraud reveals
 
 *2024-10-08 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201966) · `si`
@@ -229,6 +303,52 @@ Deputy Solicitor General Lakmini Girihagama, who spoke for the division, stated 
 [Data](articles/784cdf86.json)
 
 [Extended Data](ext_articles/784cdf86.ext.json)
+
+---
+
+### Sri Lank parliamentary election: Nominations close on Oct 12
+
+*2024-10-08 20:53:00* · [`economynextcom`](https://economynext.com/sri-lank-parliamentary-election-nominations-close-on-oct-12-182875/) · `en`
+
+ECONOMYNEXT — Nominations for Sri Lanka’s parliamentary elections will be accepted until 12.30pm on Friday October 11, the Election Commission said.
+
+“Nominations close at noon Friday October 11. Objections will be accepted between 12.30pm to 1.30pm,” Election Commission Chairman R M A L Ratnayake said.
+
+“On this day, after nominations and objections are accepted, no march or gathering is allowed. Police has made special security arrangements,” he added.
+
+“We request supporters of parties and independent groups to refrain from illegal activities after nominations and not to create any problematic situation until the nominees have left the premises.”
+
+Sri Lanka President Anura Kumara Dissanayake has signed a gazette notice dissolving parliament, calling elections on November 14.
+
+The Election Commission started accepting nominations on October 04. The new parliament is to meet on November 21.
+
+...
+
+[Data](articles/039c7304.json)
+
+[Extended Data](ext_articles/039c7304.ext.json)
+
+---
+
+### Sri Lanka’s new govt can’t take “many actions” against past corruptions: cabinet spox
+
+*2024-10-08 20:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-govt-cant-take-many-actions-against-past-corruptions-cabinet-spox-182871/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new government under President Anura Kumara Dissanayake cannot take many actions against past corruption because it is not stable amid an election period, Cabinet Spokesman Vijitha Herath said.
+
+President Dissanayake’s Marxists party Janatha Vimukthi Peremuna (JVP) before the presidential election promised to take immediate legal action on the past alleged corrupt deals.
+
+Those alleged deals include a bond scam involved with former president Ranil Wickremesinghe and recovering stolen assets from the family members of former leader Mahinda Rajapaksa.
+
+However, Namal Rajapaksa, son of Rajapaksa last week challenged the JVP-led coalition government to start actions against him to recover alleged stolen assets as claimed in public, while Wickremesinghe said he has nothing to do with the 2015 bond scam.
+
+“Actually we have passed only a few days. We want some time,” Herath told a weekly Cabinet press briefing on Tuesday in Colombo.
+
+...
+
+[Data](articles/84179c93.json)
+
+[Extended Data](ext_articles/84179c93.ext.json)
 
 ---
 
@@ -281,6 +401,28 @@ The price of imported potatoes can be sold from 160 to 234 rupees and dried chil
 [Data](articles/9d3b3150.json)
 
 [Extended Data](ext_articles/9d3b3150.ext.json)
+
+---
+
+### Sri Lanka allows Chinese military training ship, yet to decide on research vessels
+
+*2024-10-08 19:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-allows-chinese-military-training-ship-yet-to-decide-on-research-vessels-182853/) · `en`
+
+ECONOMYNEXT – Sri Lanka has allowed a Chinese military training ship to enter the island nation’s main Colombo port as it is not a security threat to the country, Cabinet Spokesman Vijitha Herath said.
+
+The Chinese military ship will be the first foreign military vessel to Sri Lanka under the newly elected President Anura Kumara Dissanayake, the leader of Marxists Janatha Vimukthi Peremuna (JVP) which has maintained a strong anti-Indian sentiment in the past.
+
+Strong security concerns raised by India and the U.S. have already forced the Sri Lankan government last year to temporarily ban Chinese ships coming to Sri Lanka for research purposes.
+
+“Chinese military training ship has been granted permission to visit Sri Lanka. There is no security threat to Sri Lanka from it,” Hearth told the weekly Cabinet news briefing in Colombo on Tuesday (08).
+
+“Even in the past, war training ships from India, the United States, and Germany have visited Sri Lanka. We have given permission for a short period.
+
+...
+
+[Data](articles/9233b87e.json)
+
+[Extended Data](ext_articles/9233b87e.ext.json)
 
 ---
 
@@ -656,6 +798,26 @@ The police said that the Electricity Board and the Forensic Police will carry ou
 
 ---
 
+### Minority groups’ representation in Sri Lanka’s Parliament splintering: Research
+
+*2024-10-08 17:47:00* · [`economynextcom`](https://economynext.com/minority-groups-representation-in-sri-lankas-parliament-splintering-research-182821/) · `en`
+
+ECONOMYNEXT – Representation of minority groups in Sri Lanka’s Parliament is in danger of weakening in the upcoming November 14 elections, which could affect their rights, an European Commission funded study has revealed.
+
+Research by Oxford Brookes University as part of the Minority empowerment for democracy and pluralism programme revealed that major national parties have successively reduced the space within their parties for minorities to participate and raise their issues.
+
+Minority ethnic parties are also divided and their campaigning is shaped by the majority agenda rather than the needs and rights of their communities.
+
+“The main national parties in Sri Lanka have had a history of nominating representatives from minority communities who have gone on to take leadership positions. This is changing now with minority politicians in these parties often feeling isolated and finding fewer opportunities to raise minority rights issues,” lead researcher Dr Farah Mihlar said.
+
+...
+
+[Data](articles/e1514100.json)
+
+[Extended Data](ext_articles/e1514100.ext.json)
+
+---
+
 ### Balakrishnan Prasad Kumar appointed as the CWC's political and trade union organizer for the Kandy district
 
 *2024-10-08 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/195792) · `ta`
@@ -848,6 +1010,28 @@ In order to avoid the delay in applications, on the 9th and 10th of October 2024
 
 ---
 
+### Sri Lankan-Australian Mariam Riza wants make Melbourne hum again as Mayor
+
+*2024-10-08 17:17:00* · [`economynextcom`](https://economynext.com/sri-lankan-australian-mariam-riza-wants-make-melbourne-hum-again-as-mayor-182807/) · `en`
+
+ECONOMYNEXT – Mariam Riza, who is running for Lord Mayor of Melbourne as the Liberal Party candidate wants to make the city hum with life by driving policies to fill empty buildings, boost small businesses and bring people back to the central business district.
+
+Riza, a long time resident of Melbourne, says the city hummed with life before Covid. But parts of the business district started to lose their bustle and vacancies are now growing in buildings.
+
+“It was a thriving city,” Riza told EconomyNext during a visit to Colombo. “And during COVID, it was the start of the decline of the city. Shopfronts started getting empty.
+
+“Office complexes had less people coming in. That created empty or hot spots and then safety became a significant issue in the city as well.”
+
+“It was sad to see a city go downhill, basically. And Melbourne is such a successful city. If we don’t nip these things in the bud and make course-corrective actions, you then set a city on a path of decline.
+
+...
+
+[Data](articles/69dd52cf.json)
+
+[Extended Data](ext_articles/69dd52cf.ext.json)
+
+---
+
 ### The event at the University of Vavuniya
 
 *2024-10-08 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/195788) · `ta`
@@ -893,6 +1077,28 @@ Further investigations are being carried out by the Northern Police Crime Unit o
 [Data](articles/3a081b8e.json)
 
 [Extended Data](ext_articles/3a081b8e.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 293.15/20 to dollar, bond yields up
+
+*2024-10-08 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-15-20-to-dollar-bond-yields-up-182805/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee continued to appreciate, closing at 293.15/20 to the US dollar Tuesday from 293.45/55 a day earlier, dealers said, while bond yields were slightly up ahead of bond and bill auctions this week.
+
+A bond maturing on 15.12.2026 closed at 10.40/60 percent, up from 10.40/50 percent.
+
+A bond maturing on 15.12.2027 closed at 11.45/65 percent, from 11.50/60 percent.
+
+A bond maturing on 15.02.2028 closed at 11.70/85 percent, up from 11.65/75 percent.
+
+A bond maturing on 15.09.2029 closed at 12.00/20 percent, up from 11.95/12.05 percent.
+
+Meanwhile, the central bank announced it would be offering 95,000 million rupees in Treasury bonds at an auction on Friday (11), and 85,000 million rupees in Treasury bills through an auction on Wednesday (9). (Colombo/Oct8/2024)
+
+◼️
+
+[Data](articles/9e3ad0ed.json)
 
 ---
 
@@ -1017,6 +1223,26 @@ Mr. Weerasuriya was duty as Senior DIG in charge of the North Central Province w
 [Data](articles/5f65fd48.json)
 
 [Extended Data](ext_articles/5f65fd48.ext.json)
+
+---
+
+### Sri Lanka stocks close up as buying interest persists
+
+*2024-10-08 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-as-buying-interest-persists-182801/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.05 percent, or 6.46 points, at 12,171; while the more liquid S&P SL20 Index closed up 0.14 percent, or 4.93 points, at 3, 595.
+
+Top turnover generators were Commercial Bank (up at 107.00), Hayleys (up at 104.75), John Keells Holdings (up at 193.75), Sampath Bank (down at 82.20), and Agarapatana Plantations (flat at 8.20).
+
+Top foreign buying was seen in Richard Pieris and Co (up at 21.70), Dipped Products (up at 37.00), Maharaja Foods (up at 5.40), Ceylon Land and Equity (flat at 8.00), Sampath Bank, and Vidullanka (flat at 13.90).
+
+Top foreign selling was seen in Commercial Bank, John Keells Hotels (flat at 17.00), Dialog Axiata (up at 9.50), John Keells, Serendib Hotels non-voting (up at 10.30), and Ceylon Beverage Holdings (flat at 2,000.00).
+
+◼️
+
+[Data](articles/366b15e6.json)
 
 ---
 
@@ -1400,6 +1626,24 @@ The General Secretary of the UNP MP Vasudeva Nanayakkara said about a press conf
 
 ---
 
+### Hareendra Dissabandara new Sri Lanka SEC Chairman
+
+*2024-10-08 15:19:00* · [`economynextcom`](https://economynext.com/hareendra-dissabandara-new-sri-lanka-sec-chairman-182790/) · `en`
+
+ECONOMYNEXT – Hareendra Dissabandara has been appointed chairman of Sri Lanka’s Securities and Exchange Commission, by President Anura Dissanayake, official sources said.
+
+Dissabandara is a senior professor of the Department of Finance, Faculty of Management Studies and Commerce, University of Sri Jayewardenepura.
+
+He was also the Deputy Secretary General of Financial Affairs, National Economic Council of Sri Lanka, 2018-2019.
+
+He has a PhD in Finance, Japan (MONBUSHO Scholarship), 2006 MSc in Management, University of Sri Jayewardenepura, 2000 and BSc in Management (Special Degree), University of Sri Jayewardenepura. (Colombo/Oct8/2024)
+
+◼️
+
+[Data](articles/89ef8f65.json)
+
+---
+
 ### Greeting Joe Bidan
 
 *2024-10-08 15:09:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-ஜோ-பைடன்-வாழ்த்து/175-345087) · `ta`
@@ -1619,6 +1863,26 @@ A fire broke out in a building on Maliban Street. Firefighters responded quickly
 [Data](articles/a06e6fe1.json)
 
 [Extended Data](ext_articles/a06e6fe1.ext.json)
+
+---
+
+### Sri Lanka’s CDB ‘BBB(lka)’ rating confirmed by Fitch; Outlook Stable
+
+*2024-10-08 13:33:00* · [`economynextcom`](https://economynext.com/sri-lankas-cdb-bbblka-rating-confirmed-by-fitch-outlook-stable-182781/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has confirmed Citizens Development Business Finance PLC’s (CDB) National Long-Term Rating at ‘BBB(lka)’ with a Stable Outlook.
+
+CDB is one of Sri Lanka’s largest finance and leasing companies with key exposure to vehicle financing and gold-backed lending, which accounted for 75% and 18% of gross loans, Fitch noted.
+
+“We expect three-wheeler exposure to decline further while gold and four-wheeler loans continue to grow. This should be mildly positive for blended asset quality, if managed well.”
+
+A gradual easing in vehicle import bans may further underpin growth, albeit with some collateral value risk, Fitch said.
+
+Fitch Ratings – Colombo – 04 Oct 2024: Fitch Ratings has affirmed Citizens Development Business Finance PLC’s (CDB) National Long-Term Rating at ‘BBB(lka)’ with a Stable Outlook. Fitch has also affirmed CDB’s subordinated debt rating at ‘BB+(lka)’.
+
+...
+
+[Data](articles/302b47a7.json)
 
 ---
 
@@ -1902,6 +2166,26 @@ In response to a question raised by a journalist during today’s (08) Cabinet p
 
 ---
 
+### Sri Lanka to review Adani wind power plant after polls
+
+*2024-10-08 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-review-adani-wind-power-plant-after-polls-182779/) · `en`
+
+ECONOMYNEXT – Sri Lanka will review a wind power plant promoted by India’s Adani group after elections, as no policy decisions will be taken on projects in the transition period, Foreign Minister Vjitha Herath said.
+
+Sri Lanka will have to look at the pros and cons of the agreement where a special problem was the high unit price of the electricity, he said.
+
+Sri Lanka approved a negotiated a feed in tarrif of 8.26 cents per unit for the Adani wind plant in Mannar, which was sharply higher than other renewable plants which came on competitive tender.
+
+“We will not take any decision in the interim period,” Minister Herath told a post-cabinet press briefing.
+
+“On that we will have to act after the new government is in place. There are some information by the Public Utility Commission, there is a court case, there are views by CEB officials.”
+
+...
+
+[Data](articles/3bf44ec3.json)
+
+---
+
 ### Fire in the back of the fort;Video
 
 *2024-10-08 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டையில்-தீப்பரவல்-காணொளி/175-345082) · `ta`
@@ -2095,293 +2379,5 @@ Arumugam Sivalingam, the Vice President of the Ceylon Workers Congress and forme
 [Data](articles/7787e31d.json)
 
 [Extended Data](ext_articles/7787e31d.ext.json)
-
----
-
-### Let's see some pages: Vijitha says the investigation
-
-*2024-10-08 11:24:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பக்கங்களை-காணோம்-விசாரணை-என்கிறார்-விஜித/175-345079) · `ta`
-
-Government investigates missing Pages of Special Presidential Commission report on Easter Sunday bombings. Minister Vijitha Herath announces ongoing probe, results expected soon. Inquiry aims to determine cause of disappearance and verify report integrity.
-
-🟩
-
-Minister Vijitha Herath said on Wednesday that the government had begun investigations into the alleged disappearance of the Pages of the Special Presidential Commission on Easter Sunday bombings.
-
-Speaking at a weekly conference announcing the Cabinet decisions, he said the results of the hearing will be released soon.
-
-Investigations will find out how the pages disappeared and whether all the sides remain in the report submitted to the President.
-
-◼️
-
-[Data](articles/dceea403.json)
-
-[Extended Data](ext_articles/dceea403.ext.json)
-
----
-
-### Cabinet spokesman explains about government diplomatic policy
-
-*2024-10-08 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201946) · `si`
-
-Sri Lanka maintains balanced diplomacy with China, India, US, Cuba, Vietnam. Approves Chinese warship visit, solar panel project, military training. Considers no single nation over others in foreign relations.
-
-🟩
-
-Cabinet spokesman Vijitha Herath says that the government is balanced with every country in diplomatic relations.
-
-Addressing the Cabinet Decision
-
-He further stated that the government granted permission from the government to visit Sri Lanka for a Chinese war.
-
-The ship is due this to arrive this month.
-
-"We don't really consider any country. Sri Lanka has diplomatic relations with all these countries. We have diplomatic relations with China and China with China and India, USA, Cuba, and Vietnam. We deal with India and also deal with China. China has a project to provide sola panels for temples. We intervene for it. Chinese military training ark begins to Sri Lanka. We have given permission for that. It is not harming any security. Americans, Indian, German war exercises have come. In such diplomatic relations, we will be balanced with every country ... "
-
-◼️
-
-[Data](articles/6c749d48.json)
-
-[Extended Data](ext_articles/6c749d48.ext.json)
-
----
-
-### Welid wife arrested
-
-*2024-10-08 11:19:14* · [`adalk`](https://www.ada.lk/breaking_news/සැමියාගේ-ගෙල-සිරකර-ඝතනය-කළ-බිරිඳ-අල්ලයි/11-412363) · `si`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Wife arrested for murdering husband in Nochichiyagama. Police say she assaulted him when he tried to control her. Victim died at hospital. Suspect to appear in court today. Investigation ongoing.
-
-🟩
-
-Achchiyagama Police say that the wife (7) night in the Wallepolagama police and the wife in the Walpolagama area in the Nochichiyagama area in the Walpolagama area in the year.
-
-The deceased has been identified as Magamage Kumara, Mahatamage Kumara, a 38 year old resident of the Galwala Road, Walalagama, Waltalagama.
-
-The murder was arrested in connection with the deceased's wife, Walpola Road, Walpola Road, Walpola Road, Nochichagama.
-
-The deceased has leaving the house at around 6.30 pm to the deceased (on the 7th) and had been resumed and arrested in the dawn and the arrest of his wife.
-
-The victim had assaulted his wife when the suspect washed his death to control his husband's hands to control it.
-
-The suspect was then imprisoned due to the door of the door to close his husband's cloth to control his husband, police said.
-
-...
-
-[Data](articles/d9fcf723.json)
-
-[Extended Data](ext_articles/d9fcf723.ext.json)
-
----
-
-### Solar Power Plant floating in Chandrika
-
-*2024-10-08 11:14:54* · [`adalk`](https://www.ada.lk/picture_story/චන්ද්‍රිකා-වැවේ-පාවෙන-සූර්ය-බලාගාරයේ-වැඩ-නිමවෙමින්/10-412362) · `si`
-
-Sri Lanka's Chandrika Wewawa solar power plant, valued at $3.05 million, is nearing completion. It will generate 1,300 MWh of electricity when connected to the national grid within three months.
-
-🟩
-
-Work in Embilipitiya Chandrika Wewawa, Embilipitiya, is now being constructed by the Sri Lanka Sustainable Energy Authority. The project will specify $ 3.05 million on the government's assistance.
-
-Its solar module 540 Wx1872 is 1300 mwh.
-
-The project is due to join the national grid to the national grid by the project.
-
-The Assistant Director of the Sri Lanka Sustainage Assistant Energy Authority, Assistant Director of the Energy Authority, said that the construction is nearing completion and another three months.
-
-◼️
-
-[Data](articles/bd91cada.json)
-
-[Extended Data](ext_articles/bd91cada.ext.json)
-
----
-
-### Acting Commissioner General of Registration of Persons appointed
-
-*2024-10-08 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102522/acting-commissioner-general-of-registration-of-persons-appointed-) · `en`
-
-The Cabinet of Ministers has approved the appointment of Mrs. M.S.P. Sooriyapperuma as the Acting Commissioner General of Registration of Persons.
-
-The post of Commissioner General of the Department of Registration of Persons has been vacant from September 24, 2024.
-
-Accordingly, the Cabinet of Ministers has approved the proposal presented by the Minister of Public Security to appoint Mrs. Sooriyapperuma, a special grade officer of the Sri Lanka Administrative Service, who is currently working as an Additional Secretary of the Ministry of Public Security, to the post of Commissioner General of Registration of Persons on an acting basis.
-
-◼️
-
-[Data](articles/8e4a0583.json)
-
-[Extended Data](ext_articles/8e4a0583.ext.json)
-
----
-
-### New Commissioner to Excise
-
-*2024-10-08 11:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாலுக்கு-புதிய-ஆணையாளர்/175-345078) · `ta`
-
-Cabinet approves new Excise Commissioner. JM Gunasiri sacked. New appointee from Presidential Secretariat. Key role in government revenue collection.
-
-🟩
-
-The Cabinet has approved the appointment of the new Commissioner General in the immediate implementation of the Department of Excise.
-
-The Cabinet Motion was approved by the President as the Minister of Finance, Economic Development, Policy Creation, Planning and Tourism.
-
-The President has approved the sacking of JM Gunasiri, who recently served as the Commissioner General of Excise on a contract basis.
-
-The Sri Lanka Excise Department is the main income collection agent of the government and directly affects the revenue and goodwill government of the department.
-
-New Commissioner General. He is currently serving as the Additional Secretary of the Presidential Secretariat (Agency Coordination II).
-
-◼️
-
-[Data](articles/236dee54.json)
-
-[Extended Data](ext_articles/236dee54.ext.json)
-
----
-
-### New Commissioner General for the Department of Excise
-
-*2024-10-08 11:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-திணைக்களத்திற்கு-புதிய-ஆணையாளர்-நாயகம்/175-345078) · `ta`
-
-Cabinet approves new Commissioner General for Excise Department. JM Gunasiri sacked. New appointee serves as Additional Secretary of Presidential Secretariat. Excise Department crucial for government revenue and reputation.
-
-🟩
-
-The Cabinet has approved the appointment of the new Commissioner General in the immediate implementation of the Department of Excise.
-
-The Cabinet Motion was approved by the President as the Minister of Finance, Economic Development, Policy Creation, Planning and Tourism.
-
-The President has approved the sacking of JM Gunasiri, who recently served as the Commissioner General of Excise on a contract basis.
-
-The Sri Lanka Excise Department is the main income collection agent of the government and directly affects the revenue and goodwill government of the department.
-
-New Commissioner General. He is currently serving as the Additional Secretary of the Presidential Secretariat (Agency Coordination II).
-
-◼️
-
-[Data](articles/2fa1fbd9.json)
-
-[Extended Data](ext_articles/2fa1fbd9.ext.json)
-
----
-
-### Sri Lanka appoints acting excise, registrar dept chiefs
-
-*2024-10-08 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-acting-excise-registrar-dept-chiefs-182757/) · `en`
-
-ECONOMYNEXT – Sri Lanka has appointed new chiefs for its Department for Registration of Persons and Inland Revenue Service, Cabinet spokesman minister Vijitha Herath said.
-
-M S P Sooriyapperuma, an Administrative Service special grade officer, was appointed as Commissioner General of the Department for Registration of Persons.
-
-U D N Jayaweera, a special grade officer of the Inland Revenue Service, was appointed as the Commissioner General of the Excise Department.
-
-The Sri Lanka Excise Department is one of the main revenue collection agencies of the government. (Colombo/Oct8/2024)
-
-◼️
-
-[Data](articles/2e33c14a.json)
-
-[Extended Data](ext_articles/2e33c14a.ext.json)
-
----
-
-### Voice from Gaza through BBC radio
-
-*2024-10-08 10:59:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cqjr9evj5kjo) · `si`
-
-BBC Radio broadcasts daily from Gaza, sharing experiences and advice. Journalist Amara reports bombings, displacement, and arrests during live programs. Radio remains vital communication link amidst conflict.
-
-🟩
-
-BBC News Broadcasting a daily radio program for nearly a year. By that, they share their experiences and gives them advice. Often, when all other communication is disconnected, radio is the only way to close to them to talk to them. Amara, a journalist serving in the program, shared very sensitive and sad occasions with us. The bombings were heard in a girl and the narrow column, who had lost their friends and the narrow column in the narrow column, and after a few months after the IDPs were forcibly displaced,. It also contains the story of a medical servant arrested by the Israeli security force while participating at a live radio program.
-
-◼️
-
-[Data](articles/1e136ae2.json)
-
-[Extended Data](ext_articles/1e136ae2.ext.json)
-
----
-
-### The squad up
-
-*2024-10-08 10:59:36* · [`adalk`](https://www.ada.lk/breaking_news/සංචිතය-ඉහළට/11-412361) · `si`
-
-Central Bank's official reserves increased from $5,959 million in August 2024 to $5,992 million in September 2024, representing a 0.5% growth.
-
-🟩
-
-At the end of September 2024, the Central Bank's official squad grew to US $ 5,992 million.This is 0.5% increase in the quantity of $ 5,959 million in August 2024.
-
-◼️
-
-[Data](articles/c9ba6c2b.json)
-
-[Extended Data](ext_articles/c9ba6c2b.ext.json)
-
----
-
-### Will Mahinda compete?
-
-*2024-10-08 10:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-போட்டியிடுவாரா/175-345077) · `ta`
-
-Mahinda Rajapaksa may contest Sri Lanka parliamentary election. Party awaits his decision within days.
-
-🟩
-
-It is reported that the Sri Lanka PA is waiting for his decision on whether former President Mahinda Rajapaksa will contest the upcoming parliamentary election.
-
-Sakara Kariyawasam, General Secretary of the Sri Lanka PA, told the journalists that the party would expect that Rajapakse would make his decision within the next few days and that it would act accordingly.
-
-◼️
-
-[Data](articles/918ba59b.json)
-
-[Extended Data](ext_articles/918ba59b.ext.json)
-
----
-
-### New Acting Commissioner General appointed to Excise Dept.
-
-*2024-10-08 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/102521/new-acting-commissioner-general-appointed-to-excise-dept) · `en`
-
-The Cabinet of Ministers has approved appointing Senior Special Grade Officer of the Inland Revenue Department (IRD), U.D.N. Jayaweera as the Acting Commissioner General of Excise with immediate effect.
-
-Speaking during the Cabinet press conference held this morning (08), Cabinet Spokesman, Minister Vijitha Herath stated that the Sri Lanka Excise Department is the main revenue collection agency of the government and the efficiency and the good governance of this department directly affects the revenue of the government.
-
-...
-
-[Data](articles/c0fefbc1.json)
-
-[Extended Data](ext_articles/c0fefbc1.ext.json)
-
----
-
-### New officer to be appointed as the Commissioner General of Registration of Persons
-
-*2024-10-08 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201945) · `si`
-
-New Commissioner General of Registration of Persons appointed: MSP Solepperuma, previously Additional Secretary of Public Defense Ministry. Vacancy began September 24. Proposal approved by Cabinet.
-
-🟩
-
-The Commissioner General of Registration of Persons has been vacant from September 24.
-
-Accordingly, employers MSP Solepperuma who currently operates as an Additional Secretary of the Public Defense Ministry have been appointed as the Commissioner General of Registration.
-
-Cabinet spokesperson Vijitha Herath said that the proposal made by the Public Defense Minister was approved by the Cabinet.
-
-◼️
-
-[Data](articles/dccd6262.json)
-
-[Extended Data](ext_articles/dccd6262.ext.json)
 
 ---

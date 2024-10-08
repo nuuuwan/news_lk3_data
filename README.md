@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 09:58:14**
+As of **2024-10-08 10:11:38**
 
 ## Newspaper Stats
 
-*Scraped **48,321** Articles*
+*Scraped **48,323** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 397
+dbsjeyarajcom | 398
 bbccomsinhala | 478
 colombotelegraphcom | 478
 islandlk | 2,860
@@ -20,17 +20,43 @@ dailymirrorlk | 4,733
 adaderanalk | 5,693
 tamilmirrorlk | 6,540
 virakesarilk | 7,733
-adaderanasinhalalk | 8,356
+adaderanasinhalalk | 8,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,309 (100.0%) of 48,321 articles have been extended.
+48,315 (100.0%) of 48,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Ministry of Education announced on false news
+
+*2024-10-08 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201942) · `si`
+
+Ministry of Education denies false reports about stopping school lunches. Secretary Thilaka Jayasundara confirms program continues, funded through next year.
+
+🟩
+
+Reports say that it is false that it is false that the lunch that has been stopped at primary grades in government schools is false.
+
+The Secretary to the Ministry of Education Thilaka Jayasundara said that various information had spread over the past few days that the program of providing lunch in schools had spread.
+
+Thilaka Jayasundara said that all these accounts were false and the program of providing lunch for school children continuously implement Ms. Thilaka Jayasundara.
+
+She added that there is also the funds necessary to implement the relevant program until next year.
+
+The program was launched from the first grade to the first grade of public schools from March last March.
+
+◼️
+
+[Data](articles/d72b7aab.json)
+
+[Extended Data](ext_articles/d72b7aab.ext.json)
+
+---
 
 ### Snake
 
@@ -658,6 +684,8 @@ It said this landmark investment strengthens SHL’s vision to expand healthcare
 
 [Data](articles/0d0abdc0.json)
 
+[Extended Data](ext_articles/0d0abdc0.ext.json)
+
 ---
 
 ### Emojot announces leadership restructuring and secures strategic investment to accelerate growth
@@ -669,6 +697,8 @@ From left: Sachintha Ponnamperuma, Dr. Shahani Markus and Andun Liyanagunawardan
 ...
 
 [Data](articles/dec40a63.json)
+
+[Extended Data](ext_articles/dec40a63.ext.json)
 
 ---
 
@@ -685,6 +715,8 @@ The compensation payment was confirmed yesterday by Jayawardena’s lawyer, Chan
 ...
 
 [Data](articles/8c5189e1.json)
+
+[Extended Data](ext_articles/8c5189e1.ext.json)
 
 ---
 
@@ -704,6 +736,8 @@ Barath had served as the Assistant Secretary and been a crucial figure in develo
 
 [Data](articles/18215841.json)
 
+[Extended Data](ext_articles/18215841.ext.json)
+
 ---
 
 ### Protest against a year of Israel atrocities in Palestine
@@ -715,6 +749,8 @@ A protest was held in front of the United Nations (UN) office in Colombo yesterd
 ◼️
 
 [Data](articles/8cdd9590.json)
+
+[Extended Data](ext_articles/8cdd9590.ext.json)
 
 ---
 
@@ -1373,6 +1409,22 @@ In the second raid, also on Sunday, the police have arrested 21 Chinese, one Ind
 [Data](articles/fe09fd53.json)
 
 [Extended Data](ext_articles/fe09fd53.ext.json)
+
+---
+
+### Just as people in the south have begun to reject traditional political parties and leaders, a rejection is also needed in the north and east.
+
+*2024-10-07 20:17:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84879) · `en`
+
+Sri Lankan political parties have been forced to prepare for the Parliamentary Elections before the exhaustion of campaigning for the Presidential Election has worn off. Particularly, the parties of the losers among the main presidential candidates have to face a national election again before they can recover from the impact of the defeat.
+
+The new President, Anura Kumara Dissanayake, dissolved Parliament a day after taking office and called a General Election, as he had promised the people during the election campaign. The process of accepting nominations, which began last Friday (4), will be completed next Friday (11). The election will be held on 14 November.
+
+President Dissanayake will ask the people who elected him as President to give him a resounding victory at the Parliamentary Elections to form a strong National People’s Power (NPP) government to facilitate the firm continuation of his rule.
+
+...
+
+[Data](articles/30a5dd52.json)
 
 ---
 
@@ -2187,55 +2239,5 @@ The student was near the residence of the student and was playing in front of th
 [Data](articles/f3d212b0.json)
 
 [Extended Data](ext_articles/f3d212b0.ext.json)
-
----
-
-### Medical Humanities:an interdisciplinary approach to holistic health
-
-*2024-10-07 17:13:00* · [`islandlk`](http://island.lk/medical-humanitiesan-interdisciplinary-approach-to-holistic-health/) · `en`
-
-The Department of Medical Humanities at the University of Colombo’s Medical Faculty is another groundbreaking initiative by the institution as the pioneer of the discipline here at home and in South Asia. In an interview with the Sunday Island, Clinical Psychologist and Head of the Department of Medical Humanities, Dr. Santushi Amarasuriya elucidates on how this discipline, which is gaining momentum the world over, explores human experiences of health and illness drawing from a spectrum of other social and aesthetic branches.
-
-Q: Could you please share the ‘story’ behind the establishment of the Department of Medical Humanities at the Colombo Medical Faculty?
-
-...
-
-[Data](articles/002d568a.json)
-
-[Extended Data](ext_articles/002d568a.ext.json)
-
----
-
-### 'Martin' starring Durva Sarja
-
-*2024-10-07 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195700) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Dhruva Sarja stars in "Martin" directed by AP Arjun. Released on his birthday, the song video got 3+ million views. Film features Vaibhavi Shandilya, Anup Sai, and others. Composed by Mani Sharma and Ravi Basrur. Produced by Uday K. Mehta and Suraj Uday Mehta. Set to release in Tamil, Telugu, Malayalam, Kannada, and Hindi on Nov 11.
-
-🟩
-
-Durua Sarja, the leading star actor of the Kannada film industry, has been released from the movie 'Martin Antam' and a video for the song.
-
-Released on the birthday of actor Durva Sarja, the song has been visited by more than three million viewers within a short time.
-
-Directed by director AP Arjun, 'Martin' starring Dhruva Sarja, Vaibhavi Sandillia, Anwasi Jain, Georgia Andhirini, Malavika Avinash, Ashyud Kumar, Nawab Shah.
-
-The film has been composed by Mani Sharma and Ravi Basrur for the film.
-
-The film, which is ready to be the Excussion Entertainment, on behalf of the producers of Vasavi Enterprises, Uday K.. Produced by Mehta and Suraj Uday Mehta.
-
-The film will be released in the Indian languages ​​of Tamil, Telugu, Malayalam, Kannada and Hindi on the 11th of this month.
-
-At this moment, the film crew has released a video of the film's hero's birthday.
-
-...
-
-[Data](articles/cf9303d7.json)
-
-[Extended Data](ext_articles/cf9303d7.ext.json)
 
 ---

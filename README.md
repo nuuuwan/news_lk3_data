@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 04:57:34**
+As of **2024-10-09 05:08:42**
 
 ## Newspaper Stats
 
-*Scraped **48,480** Articles*
+*Scraped **48,481** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 480
 bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,970
-dailyftlk | 3,281
+dailyftlk | 3,282
 adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
@@ -26,11 +26,31 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,480 (100.0%) of 48,480 articles have been extended.
+48,480 (100.0%) of 48,481 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Sri Lanka to seek BRICS memberships at upcoming meeting in Russia
+
+*2024-10-09 04:40:16* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-to-seek-BRICS-memberships-at-upcoming-meeting-in-Russia/56-767739) · `en`
+
+Cabinet Spokesman and Minister Vijitha Herath yesterday said Sri Lanka is set to pursue membership in the BRICS economic bloc during an upcoming meeting in Russia later this month.
+
+“Sri Lanka has been invited to the BRICS meeting later this month and we expect to seek membership,” he said at the post-Cabinet meeting media briefing yesterday.
+
+Herath added that discussions on Sri Lanka’s BRICS membership ambitions were also held with Indian Foreign Minister S. Jaishankar during his recent visit to Colombo.
+
+The push to join BRICS follows a decision made by the previous administration, which has approved the move to join the organisation that includes major global economies such as China, India and Brazil.
+
+BRICS originally comprising Brazil, Russia, India, China and South Africa, is a prominent intergovernmental organisation of emerging market nations aimed at boosting economic cooperation. This year, the group has already expanded welcoming four new members, Iran, Egypt, Ethiopia and the UAE.
+
+...
+
+[Data](articles/927bc680.json)
+
+---
 
 ### ECSL confirms approval of Govt. postings during pre-election period
 
@@ -2353,31 +2373,5 @@ He mentioned this during the Cabinet press conference held today (08).
 [Data](articles/3be055b8.json)
 
 [Extended Data](ext_articles/3be055b8.ext.json)
-
----
-
-### The mistakes in history will not be allowed to be our government
-
-*2024-10-08 13:50:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාසයේ-ව‍ු-වැරදි-අපේ-ආණ්ඩුවෙන්-වෙන්න-දෙන්නේ-නෑ/11-412371) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Government forms committee to investigate historical errors. Minister emphasizes no tolerance for past mistakes under current administration. Committee tasked with reviewing commission reports for inaccuracies. Work has already begun, led by the President.
-
-🟩
-
-Cabinet, Religious and Cultural Affairs, National Integration, Social Security, Social Security, Social Security and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media and Mass Media, the President.Says.
-
-The Minister was speaking at the press conference held at the Government Information Department today (08).
-
-"We have appointed a special committee to do this. If the committee is an irregularity across the committee, investigating whether the commission reports have been a defect. We have begun work on this while the President was appointed. Under this government, we do not allow the wrongs in history.
-
-◼️
-
-[Data](articles/44c5ef2f.json)
-
-[Extended Data](ext_articles/44c5ef2f.ext.json)
 
 ---

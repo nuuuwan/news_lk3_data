@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 20:11:54**
+As of **2024-10-08 20:23:14**
 
 ## Newspaper Stats
 
-*Scraped **48,426** Articles*
+*Scraped **48,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,267
 adalk | 4,488
 dailymirrorlk | 4,733
 adaderanalk | 5,710
-tamilmirrorlk | 6,566
+tamilmirrorlk | 6,567
 virakesarilk | 7,747
 adaderanasinhalalk | 8,378
 
@@ -26,15 +26,53 @@ adaderanasinhalalk | 8,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,426 (100.0%) of 48,426 articles have been extended.
+48,427 (100.0%) of 48,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
 
+### Standard Price for Essential Items
+
+*2024-10-08 20:04:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசியப்-பொருட்களுக்கு-நிர்ணய-விலை/175-345107) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Consumer Affairs Authority sets prices for essentials: sugar (237-269/kg), wheat mango (149-177/kg), pulses (270-317/kg), imported potatoes (160-234/kg), dried chili (685-845/kg).
+
+🟩
+
+The Consumer Affairs Authority has announced this weekly price of essential commodities.
+
+The Consumer Affairs Authority (CAA) issues the fixed price for some essential commodities, including sugar and wheat mango.
+
+Accordingly, the price of a kilogram of white Chinese can be sold at 237 to 269 rupees.
+
+Wheat mango can be sold from 149 rupees to 177 rupees and 1 kg of pulses can be sold for Rs 270 to Rs 317.
+
+The price of imported potatoes can be sold from 160 to 234 rupees and dried chilli can be sold from 685 to 845 kg.. Remble
+
+◼️
+
+[Data](articles/9d3b3150.json)
+
+[Extended Data](ext_articles/9d3b3150.ext.json)
+
+---
+
 ### Roshan is appointed as Kalutara district leader of the universality
 
 *2024-10-08 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201965) · `si`
+
+Here's a 200-character summary:
+
+
+
+Roshan Ranasinghe appointed Kalutara district leader. Dilith Jayaweera strengthens Motherland People's Party. Upali Jayasekara named Colombo district captain. Appointments made in various districts. Party emphasizes patriotism and entrepreneurship. Leaders express gratitude and confidence in their roles.
+
+🟩
 
 Mamalanda Janatha Janasinghe Chairman Roshan Ranasinghe was appointed as the Kalutara District Leader and Matugama electoral organizer of the exangeration.
 
@@ -2349,25 +2387,5 @@ After a while the snake on the bus was not found anywhere. However, even though 
 [Data](articles/de035976.json)
 
 [Extended Data](ext_articles/de035976.ext.json)
-
----
-
-### 56 prisoners repatriated to Pakistan from Sri Lanka
-
-*2024-10-08 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102520/56-prisoners-repatriated-to-pakistan-from-sri-lanka) · `en`
-
-As many as 56 Pakistani nationals imprisoned in Sri Lankan jails were repatriated on Monday as a result of successful efforts by the Pakistani Ministry of Interior.
-
-A chartered plane was dispatched to bring the prisoners back to Pakistan. The repatriated Pakistani nationals include five women and 51 men. The repatriation followed three months of coordination between the Ministry of Interior, under the direction of Mohsin Naqvi and Sri Lankan authorities.
-
-Speaking on the occasion, one of the repatriate women thanked the government for bringing them back to the country. Another repatriate said that he was happy to be back in Pakistan after undergoing difficult circumstances during their imprisonment in Sri Lanka.
-
-Reacting to the return of Pakistani prisoners, Interior Minister Naqvi said that he is grateful to the Sri Lankan government and high commissioner for their role in the repatriation.
-
-...
-
-[Data](articles/55e9e330.json)
-
-[Extended Data](ext_articles/55e9e330.ext.json)
 
 ---

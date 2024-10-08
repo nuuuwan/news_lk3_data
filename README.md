@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 04:39:07**
+As of **2024-10-09 04:57:34**
 
 ## Newspaper Stats
 
-*Scraped **48,474** Articles*
+*Scraped **48,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 480
 bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,970
-dailyftlk | 3,275
+dailyftlk | 3,281
 adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
@@ -26,11 +26,133 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,474 (100.0%) of 48,474 articles have been extended.
+48,480 (100.0%) of 48,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### ECSL confirms approval of Govt. postings during pre-election period
+
+*2024-10-09 04:37:45* · [`dailyftlk`](https://www.ft.lk/news/ECSL-confirms-approval-of-Govt-postings-during-pre-election-period/56-767738) · `en`
+
+The Election Commission of Sri Lanka (ECSL) has confirmed that all recent political appointments made by the Government were submitted to the ECSL for approval, in line with directives for appointments and transfers during the pre-election period.
+
+ECSL Chairperson R.M.L. Ratnayake emphasised that the commission oversees all appointments during this sensitive time. “No appointments can be made without the approval of the ECSL. Any appointment is only confirmed after ECSL approval,” Ratnayake said, assuring that the Commission is aware of each appointment.
+
+The clarification comes in response to concerns raised on social media regarding the Government’s continued appointments despite the election period. According to Ratnayake, the ECSL’s guidelines permit appointments to essential positions even during this time.
+
+...
+
+[Data](articles/dff4f0d0.json)
+
+[Extended Data](ext_articles/dff4f0d0.ext.json)
+
+---
+
+### Vasu abandons Dilith’s MJP to support NPP
+
+*2024-10-09 04:36:45* · [`dailyftlk`](https://www.ft.lk/news/Vasu-abandons-Dilith-s-MJP-to-support-NPP/56-767737) · `en`
+
+Says DLF will support NPP despite not receiving a formal response from party
+
+Claims recent electoral victory of leftist movement has prompted his party’s decision to distance itself from MJP
+
+Stresses no point in aligning with alternative parties seeking to be in opposition
+
+Democratic Left Front (DLF) leader former MP Vasudeva Nanayakkara has announced his party’s withdrawal from the Mawbima Janatha Party (MJP) and confirmed his party’s support for the National People’s Power (NPP), led by President Anura Kumara Dissanayake, in the upcoming General Election.
+
+Nanayakkara made the announcement at a media briefing yesterday, explaining that the recent electoral victory of the leftist movement has prompted his party’s decision to distance itself from the MJP. “The election results were a resounding victory for the leftists,” he said, adding, “There is no point in aligning with alternative parties. We must all unite and take this victory forward in the Parliamentary elections.”
+
+...
+
+[Data](articles/14d6df52.json)
+
+[Extended Data](ext_articles/14d6df52.ext.json)
+
+---
+
+### SJB seniors to enter Parliament via national list – Kins Nelson
+
+*2024-10-09 04:34:43* · [`dailyftlk`](https://www.ft.lk/news/SJB-seniors-to-enter-Parliament-via-national-list-Kins-Nelson/56-767736) · `en`
+
+Says SJB Party Leader Sajith Premadasa will once again contest from Colombo
+
+Stresses SJB has prepared strong team for elections under Premadasa’s leadership
+
+Claims those who recently supported Ranil Wickremesinghe are now uniting with SJB
+
+Says SJB candidates are well known in contrast to candidates expected to contest from NPP
+
+Samagi Jana Balawegaya (SJB) Polonnaruwa District Leader and former MP Kins Nelson has revealed that the majority of senior members of the party are expected to enter Parliament through the national list in the upcoming Parliamentary elections. Nelson, the son of former UNP politician H.G.P. Nelson highlighted that General Secretary Ranjith Madduma Bandara is among those likely to secure a seat via the national list.
+
+...
+
+[Data](articles/ead67f25.json)
+
+[Extended Data](ext_articles/ead67f25.ext.json)
+
+---
+
+### SC orders SLISM petitioners to name ex-President Gotabaya as respondent in FR case
+
+*2024-10-09 04:31:57* · [`dailyftlk`](https://www.ft.lk/news/SC-orders-SLISM-petitioners-to-name-ex-President-Gotabaya-as-respondent-in-FR-case/56-767735) · `en`
+
+The Supreme Court on Monday ordered the petitioners in a Fundamental Rights petition, filed by the Sri Lanka Islamic Students Movement (SLISM), to name former President Gotabaya Rajapaksa as the first respondent. The case, filed in response to a 2021 Gazette notification issued under Rajapaksa’s presidency, challenges its validity and alleges infringement of the petitioner’s constitutional rights.
+
+President’s Counsel M.N.M. Zuhair, representing SLISM, argued that Gazette notification No. 2223/3, dated April 13, 2021, signed by Gotabaya Rajapaksa, was “ultra vires” (beyond legal authority), invalid, and unlawful. He contended that the notification had no force or effect in law and should be declared null and void by the court.
+
+...
+
+[Data](articles/0b457824.json)
+
+[Extended Data](ext_articles/0b457824.ext.json)
+
+---
+
+### Chinese Navy Sail Training warship ‘PO LANG’ arrives in Colombo
+
+*2024-10-09 04:31:22* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Navy-Sail-Training-warship-PO-LANG-arrives-in-Colombo/56-767734) · `en`
+
+The Chinese People’s Liberation Army Navy Sail Training Warship ‘PO LANG’ arrived at the port of Colombo on a formal visit yesterday.
+
+The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions.
+
+‘PO LANG’ is an 86-meter-long Sail Training Vessel crewed by 130 personnel including 35 Officer Cadets.
+
+The Commanding Officer of the ship, Commander Ma Wenyong called on the Commander Western Naval Area, Rear Admiral Chinthaka Kumarasinghe at the Western Naval Command Headquarters. To strengthen the camaraderie between the two navies, crew members of the ship are set to participate in a series of programs organised by the Sri Lanka Navy.
+
+In addition crew members of the ship will explore some of the tourist attractions of the country, during their stay in Colombo. Additionally, Sri Lanka Navy personnel will have the opportunity to participate in briefings on the operational functions of the ships as well.
+
+...
+
+[Data](articles/b7d89dd8.json)
+
+[Extended Data](ext_articles/b7d89dd8.ext.json)
+
+---
+
+### Akram Cassim takes helm as President of Sri Lanka Gem and Jewellery Association
+
+*2024-10-09 04:10:59* · [`dailyftlk`](https://www.ft.lk/business/Akram-Cassim-takes-helm-as-President-of-Sri-Lanka-Gem-and-Jewellery-Association/34-767729) · `en`
+
+The SLGJA Committee for 2024/25, ready to steer the industry towards a promising future
+
+With deep appreciation, Akram Cassim honors Ajward Deen for his outstanding service as SLGJA President
+
+Calls for urgent policy reforms and promotion of a Sapphire experience
+
+Akram Cassim unveils his vision for a dynamic and innovative future for SLGJA
+
+At the Annual General Meeting of the Sri Lanka Gem and Jewellery Association (SLGJA), Akram Cassim, a longstanding member of the industry, was officially announced as the newly elected President. In a speech that was both forward-looking and deeply appreciative of Sri Lanka’s gem and jewellery heritage, Cassim outlined his vision to drive the industry forward, tackle challenges collectively, and capitalise on the unique legacy of the Ceylon Sapphire.
+
+...
+
+[Data](articles/81e29a68.json)
+
+[Extended Data](ext_articles/81e29a68.ext.json)
+
+---
 
 ### Open letter to President: Do we need a new development bank?
 
@@ -2257,137 +2379,5 @@ The Minister was speaking at the press conference held at the Government Informa
 [Data](articles/44c5ef2f.json)
 
 [Extended Data](ext_articles/44c5ef2f.ext.json)
-
----
-
-### Kataragama Runs
-
-*2024-10-08 13:42:43* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-හිටපු-ග්‍රාමසේවක-වෙඩි-තබාගෙන-ජීවිතක්ෂයට/11-412370) · `si`
-
-Retired Grama Niladhari Anura Wickremasinghe killed in Kataragama. Occurred in his home. Served in Kataragama and Moneragala districts. Author of nine books. Kataragama Police investigating.
-
-🟩
-
-Anura Wickremasinghe, who is a retired Grama Niladhari, has been shot dead on firearms and has been shot on firearms.
-
-These suicide have been committed in a room in the house where Kataragama is located in Kadasuriyagama. Anura Wickremasinghe has served as a Grama Niladhari Division in several places in Kataragama and Moneragala district.
-
-Anura Wickremesinghe has written nine books as a writer as a writer who publicly expressed the new alcohol in Kataragama recently.
-
-Kataragama Emergency Inspector Saman Wickremesinghe and former Chairman of the Kataragama Pradeshiya Sabha Asko Wickramasinghe. Kataragama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/eff0fae1.json)
-
-[Extended Data](ext_articles/eff0fae1.ext.json)
-
----
-
-### Fire in a building at Maliban Street
-
-*2024-10-08 13:39:14* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුව---මැලිබන්-වීදියේ-ගොඩනැගිල්ලක-ගින්නක්/11-412369) · `si`
-
-A fire broke out in a building on Maliban Street. Firefighters responded quickly to contain the blaze. No injuries reported. Cause of fire under investigation. Building sustained minor damage. Evacuated residents returned once area deemed safe. Fire department praised for swift action.
-
-🟩
-
-◼️
-
-[Data](articles/a06e6fe1.json)
-
-[Extended Data](ext_articles/a06e6fe1.ext.json)
-
----
-
-### Sri Lanka’s CDB ‘BBB(lka)’ rating confirmed by Fitch; Outlook Stable
-
-*2024-10-08 13:33:00* · [`economynextcom`](https://economynext.com/sri-lankas-cdb-bbblka-rating-confirmed-by-fitch-outlook-stable-182781/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has confirmed Citizens Development Business Finance PLC’s (CDB) National Long-Term Rating at ‘BBB(lka)’ with a Stable Outlook.
-
-CDB is one of Sri Lanka’s largest finance and leasing companies with key exposure to vehicle financing and gold-backed lending, which accounted for 75% and 18% of gross loans, Fitch noted.
-
-“We expect three-wheeler exposure to decline further while gold and four-wheeler loans continue to grow. This should be mildly positive for blended asset quality, if managed well.”
-
-A gradual easing in vehicle import bans may further underpin growth, albeit with some collateral value risk, Fitch said.
-
-Fitch Ratings – Colombo – 04 Oct 2024: Fitch Ratings has affirmed Citizens Development Business Finance PLC’s (CDB) National Long-Term Rating at ‘BBB(lka)’ with a Stable Outlook. Fitch has also affirmed CDB’s subordinated debt rating at ‘BB+(lka)’.
-
-...
-
-[Data](articles/302b47a7.json)
-
-[Extended Data](ext_articles/302b47a7.ext.json)
-
----
-
-### Many will come through the national list
-
-*2024-10-08 13:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலர்-தேசிய-பட்டியல்-மூலம்-வருவார்கள்/175-345085) · `ta`
-
-Former MP from SJB party likely to enter parliament via national list this year. Party leader Sajith Premadasa to contest in Colombo district. Senior members, including general secretary, may also join through national list.
-
-🟩
-
-Former MP of the United People's Power (SJB) party is expected to come to parliament through the national list this year.. One said.
-
-Most of our senior members, including general secretary Ranjith Mathuma Bandara, are expected to come to parliament through the National List this year, said Kings Nelson, a former MP and Polonnaruwa district president Kings Nelson.
-
-However, party leader Sajith Premadasa will contest this time in the Colombo district, he said.
-
-◼️
-
-[Data](articles/10e83daa.json)
-
-[Extended Data](ext_articles/10e83daa.ext.json)
-
----
-
-### Thondamanla's big branch escapes
-
-*2024-10-08 13:22:32* · [`adalk`](https://www.ada.lk/breaking_news/තොණ්ඩමන්ලාගේ-ලොකු-අත්තක්-ගැලවෙයි/11-412368) · `si`
-
-Here's a 200-character summary:
-
-
-
-Bharatha Arulzami joins Democratic People's Front. Formerly Kandy District VP Ceylon Workers Congress. Son of MP S. Euslany. Leads Tamil Progress Alliance in Kandy district election campaign.
-
-🟩
-
-Mr. Bharatha Arulzami, the Kandy District and Vice President of the Ceylon Workers Congress, has joined the Democratic People's Front, leader of Tamil Progress Democracy.
-
-Mr. Bharaththalzamy has also served as the Chairman of Human Resource Trust and the son of the Ceylon Workers Congress is the son of MP Mr. S. Euulsamy.
-
-A Tamil Progress Alliance said that Mr. Bharatuwa Arulzami, along with the Democratic People's Front, said that the nomination campaign will be handed over to the Kandy district election.
-
-◼️
-
-[Data](articles/bb396d49.json)
-
-[Extended Data](ext_articles/bb396d49.ext.json)
-
----
-
-### The increased fertilizer subsidy from Monday
-
-*2024-10-08 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201949) · `si`
-
-Fertilizer subsidy for paddy farmers starts Monday in Ampara District. Cabinet spokesperson Vijitha Herath announced the initiative during a press briefing on cabinet decisions. The program aims to support farming in Polonnaruwa, Anuradhapura, and Mahiyanganaya districts.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the fertilizer subsidy for paddy farmers will commence from the Ampara District on Monday.
-
-He made these comments at a press notice of cabinet decisions today (08).
-
-"This Maha Season begins. This fertilizer subsidy to the people of the Ampara district following the next week.. Steps will be taken to provide. Follow the arrangement for the production of Polonnaruwa, Anuradhapura, and Mahiyanganaya. "
-
-◼️
-
-[Data](articles/8f3830e1.json)
-
-[Extended Data](ext_articles/8f3830e1.ext.json)
 
 ---

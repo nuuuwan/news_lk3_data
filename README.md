@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 12:57:41**
+As of **2024-10-08 13:08:35**
 
 ## Newspaper Stats
 
-*Scraped **48,355** Articles*
+*Scraped **48,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ colombotelegraphcom | 478
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,473
+adalk | 4,474
 dailymirrorlk | 4,733
 adaderanalk | 5,698
-tamilmirrorlk | 6,549
+tamilmirrorlk | 6,552
 virakesarilk | 7,738
-adaderanasinhalalk | 8,362
+adaderanasinhalalk | 8,363
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,355 (100.0%) of 48,355 articles have been extended.
+48,360 (100.0%) of 48,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Sudden increase in HIV infection in Hambantota
+
+*2024-10-08 12:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டையில்-எச்-ஐ-வி-தொற்று-திடீர்-அதிகரிப்பு/175-345084) · `ta`
+
+HIV cases surge in Hambantota: 21 new infections reported, 87 total. Health officials warn of potential undiagnosed cases. Early detection possible before progression to AIDS.
+
+🟩
+
+Health officials are concerned about the rapid increase in HIV infected people this year in Hambantota district.
+
+A medical officer of the Hambantota District Milky Way Prevention Unit made this statement during a recent medical camp in Ambalangoda.
+
+He pointed out that this year's 21 HIV infected people have been identified and there may be more identified people.
+
+He said that a total of 87 patients have been identified in the Hambantota district, and most of them belong to the Suryawewa and Tissamaharama areas and may be still identified.
+
+The medical officer added that HIV is not an infected disease and can be detected at an early stage before growing in AIDS.
+
+◼️
+
+[Data](articles/32b9942f.json)
+
+[Extended Data](ext_articles/32b9942f.ext.json)
+
+---
+
+### 3 projects of the past regime
+
+*2024-10-08 12:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-ஆட்சியின்-3-திட்டங்கள்-நிறுத்தம்/175-345083) · `ta`
+
+Previous government's 3 projects suspended. National People's Council established. Agriculture modernization program implemented. Contract-based appointments ended by new President before September 30, 2024.
+
+🟩
+
+The Cabinet has decided to suspend the service of the authorities and advisers appointed on contract basis for the three projects initiated by the previous government.
+
+Steps have been taken to establish the 'National People's Council' to establish the 'National People's Council' under the Presidential Office and to implement a 'agriculture modernization program'.
+
+The previous government appointed officials and consultants on contract basis for these initiatives.
+
+However, as President Anura Kumara Dissanayake has taken steps to end the agreements before September 30, 2024, after the Ministers announced the Cabinet as the Ministries of these offices and programs are now in their hands.
+
+◼️
+
+[Data](articles/3b9ca89a.json)
+
+[Extended Data](ext_articles/3b9ca89a.ext.json)
+
+---
+
+### National Janasabha Secretariat canceled
+
+*2024-10-08 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201948) · `si`
+
+National Janasabha Secretariat cancels projects. Cabinet suspends "Office of Sri Lanka" and "Niblri Navigation Program". Offices closed due to Presidential Secretariat approval. Contract-based positions terminated. Activities transferred to relevant ministries.
+
+🟩
+
+Cabinet spokesman Vijitha Herath says that the Cabinet has decided to cancel several projects implemented by the National Janasabha Secretariat.
+
+Accordingly, the office of the "Office of Sri Lanka" and the "Niblri Navigation Program" has been suspended for the presence of the Presidential Secretariat on the approval of the President.
+
+The National JHD secretary office was established to establish the Jana Sabha system to strengthen participating democracy.
+
+Officers / instructors have been appointed on contract basis for these projects.
+
+The Cabinet spokesman said that the activities of the offices and the program were implemented by the relevant ministries to implement the expected functions of the relevant Ministries and the services of the officers / counselors have been completed on the 30th September.
+
+The Cabinet of Ministers Vijitha Herath said that the Cabinet of Ministers Anura Kumara Dissanayake was informed of the matter.
+
+◼️
+
+[Data](articles/dc6f8bce.json)
+
+[Extended Data](ext_articles/dc6f8bce.ext.json)
+
+---
 
 ### Govt launches probe into missing sections of Easter attacks investigation report - Minister
 
@@ -47,6 +125,28 @@ In response to a question raised by a journalist during today’s (08) Cabinet p
 [Data](articles/507d8c61.json)
 
 [Extended Data](ext_articles/507d8c61.ext.json)
+
+---
+
+### Fire in the back of the fort;Video
+
+*2024-10-08 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டையில்-தீப்பரவல்-காணொளி/175-345082) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Fire erupts at Kadadasi stamp factory on Meliban Road, Parakkottai. Blaze spreading rapidly."
+
+🟩
+
+A fire broke out at a Kadadasi stamp on Meliban Road, Parakkottai. It is reported that the fire is underway.
+
+◼️
+
+[Data](articles/18368b44.json)
+
+[Extended Data](ext_articles/18368b44.ext.json)
 
 ---
 
@@ -239,6 +339,30 @@ The ship is due this to arrive this month.
 [Data](articles/6c749d48.json)
 
 [Extended Data](ext_articles/6c749d48.ext.json)
+
+---
+
+### Solar Power Plant floating in Chandrika
+
+*2024-10-08 11:14:54* · [`adalk`](https://www.ada.lk/picture_story/චන්ද්‍රිකා-වැවේ-පාවෙන-සූර්ය-බලාගාරයේ-වැඩ-නිමවෙමින්/10-412362) · `si`
+
+Sri Lanka's Chandrika Wewawa solar power plant, valued at $3.05 million, is nearing completion. It will generate 1,300 MWh of electricity when connected to the national grid within three months.
+
+🟩
+
+Work in Embilipitiya Chandrika Wewawa, Embilipitiya, is now being constructed by the Sri Lanka Sustainable Energy Authority. The project will specify $ 3.05 million on the government's assistance.
+
+Its solar module 540 Wx1872 is 1300 mwh.
+
+The project is due to join the national grid to the national grid by the project.
+
+The Assistant Director of the Sri Lanka Sustainage Assistant Energy Authority, Assistant Director of the Energy Authority, said that the construction is nearing completion and another three months.
+
+◼️
+
+[Data](articles/bd91cada.json)
+
+[Extended Data](ext_articles/bd91cada.ext.json)
 
 ---
 
@@ -2087,107 +2211,5 @@ Speaking to me soon after, a colleague ruminated as to whether this was a routin
 [Data](articles/a818b85f.json)
 
 [Extended Data](ext_articles/a818b85f.ext.json)
-
----
-
-### Police warn Sri Lanka property owners of renting after financial scams
-
-*2024-10-07 20:33:00* · [`economynextcom`](https://economynext.com/police-warn-sri-lanka-property-owners-of-renting-after-financial-scams-182717/) · `en`
-
-ECONOMYNEXT – Police in Sri Lanka have warned local property owners to do better due diligence before renting their properties after raiding two locations in the island nation’s Western province running financial scams by foreigners including people from China, India, and Thailand.
-
-Police raided two locations where the foreigners have carried out financial scams using online.
-
-They have arrested eight Chinese, four Indians including three females, and five Thai including three females in the first raid on Sunday in the country’s Western town of Hanwella along with 96 mobile and 16 desktop computers, Police Spokesman Nihal Thalduwa said.
-
-In the second raid, also on Sunday, the police have arrested 21 Chinese, one Indian woman, and one Thai woman along with 403 mobile phones, 24 laptops, and 13 desktops.
-
-...
-
-[Data](articles/fe09fd53.json)
-
-[Extended Data](ext_articles/fe09fd53.ext.json)
-
----
-
-### Just as people in the south have begun to reject traditional political parties and leaders, a rejection is also needed in the north and east.
-
-*2024-10-07 20:17:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84879) · `en`
-
-Sri Lankan political parties have been forced to prepare for the Parliamentary Elections before the exhaustion of campaigning for the Presidential Election has worn off. Particularly, the parties of the losers among the main presidential candidates have to face a national election again before they can recover from the impact of the defeat.
-
-The new President, Anura Kumara Dissanayake, dissolved Parliament a day after taking office and called a General Election, as he had promised the people during the election campaign. The process of accepting nominations, which began last Friday (4), will be completed next Friday (11). The election will be held on 14 November.
-
-President Dissanayake will ask the people who elected him as President to give him a resounding victory at the Parliamentary Elections to form a strong National People’s Power (NPP) government to facilitate the firm continuation of his rule.
-
-...
-
-[Data](articles/30a5dd52.json)
-
-[Extended Data](ext_articles/30a5dd52.ext.json)
-
----
-
-### Director General of the Bribery Commission resigns
-
-*2024-10-07 19:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்ச-ஊழல்-ஆணைக்குழுவின்-பணிப்பாளர்-நாயகம்-இராஜினாமா/175-345054) · `ta`
-
-Kanishka Wijeratne resigns as Director General of Bribery Commission, citing Supreme Court case against his own appointment.
-
-🟩
-
-Director General of the Bribery Commission, Kanishka Wijeratne, has handed over his resignation letter to President Anura Kumara Dissanayake.
-
-He has submitted his resignation letter as he has submitted a fundamental rights violation petition in the Supreme Court regarding the appointment of Director General of the Bribery Commission, Kanishka Wijeratne.. Remble
-
-◼️
-
-[Data](articles/54822e3e.json)
-
-[Extended Data](ext_articles/54822e3e.ext.json)
-
----
-
-### Director General resigns
-
-*2024-10-07 19:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்பாளர்-நாயகம்-இராஜினாமா/175-345054) · `ta`
-
-Director General resigns from Commission to Investigate Bribery and Corruption. Submits resignation due to filing fundamental rights violation petition against Director General Kanishka Wijeratne's appointment. Hands over resignation letter to President Anura Kumara Dissanayake.
-
-🟩
-
-Director General of the Commission to Investigate Bribery and Corruption has handed over his resignation letter to President Anura Kumara Dissanayake.
-
-He has submitted his resignation letter as he has submitted a fundamental rights violation petition in the Supreme Court regarding the appointment of Director General of the Bribery Commission, Kanishka Wijeratne.. Remble
-
-◼️
-
-[Data](articles/ee078bab.json)
-
-[Extended Data](ext_articles/ee078bab.ext.json)
-
----
-
-### The acceptance of advice is a punishable offense
-
-*2024-10-07 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201933) · `si`
-
-Elections Commission warns: accepting advice on elections is illegal. Employees must follow rules strictly. Those not involved in election tasks cannot vote by post. Violations may result in penalties and imprisonment for up to three years.
-
-🟩
-
-The Elections Commission (EPL) has informed the Elections Commission today that employees and employees who have been appointed or appointed to appoint Parliamentary Elections.
-
-It is also not a reason for the release of postal votes or rejection of applications on certain shortcomings.
-
-Those who do not be appointed directly for election related tasks are not eligible for postal votes and the Elections Commission has informed the Heads of the Elections to apply for postal votes and not certifying such applications.
-
-Accordingly, not acting in accordance with the above instructions is a punishment of or impunity to a penalty and prison for three years.
-
-◼️
-
-[Data](articles/7f374e60.json)
-
-[Extended Data](ext_articles/7f374e60.ext.json)
 
 ---

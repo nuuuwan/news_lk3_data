@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 20:39:12**
+As of **2024-10-08 20:58:13**
 
 ## Newspaper Stats
 
-*Scraped **48,427** Articles*
+*Scraped **48,431** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 398
-colombotelegraphcom | 478
+colombotelegraphcom | 479
 bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,488
+adalk | 4,490
 dailymirrorlk | 4,733
 adaderanalk | 5,710
-tamilmirrorlk | 6,567
+tamilmirrorlk | 6,568
 virakesarilk | 7,747
 adaderanasinhalalk | 8,378
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,427 (100.0%) of 48,427 articles have been extended.
+48,431 (100.0%) of 48,431 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### High possibilities for heavy lightning
+
+*2024-10-08 20:14:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-மின்னலுக்கான-அதிக-சாத்தியக்கூறுகள்/175-345108) · `ta`
+
+Heavy lightning warning: Anuradhapura, Western, Southern, Central, Sabaragamuwa, North Western, North, Uva districts. Strong winds during thunderstorms. Take precautions against lightning strikes.
+
+🟩
+
+The Department of Meteorology has predicted that there are high possibilities for heavy lightning in the evening or night in the Anuradhapura district and the Anuradhapura district in the Western, Southern, Central, Sabaragamuwa, North Western, North and Uva district.
+
+During thunderstorms, strong winds can be temporarily blowing in the area.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce accidents caused by lightning strikes. Remble
+
+◼️
+
+[Data](articles/f2be8ebd.json)
+
+[Extended Data](ext_articles/f2be8ebd.ext.json)
+
+---
 
 ### Standard Price for Essential Items
 
@@ -91,6 +113,26 @@ Also, appointment letters were awarded to the organizers of many other seats in 
 [Data](articles/1b365359.json)
 
 [Extended Data](ext_articles/1b365359.ext.json)
+
+---
+
+### Colombo Stock Exchange today
+
+*2024-10-08 19:44:06* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-කොටස්-වෙළඳපොළ-අදත්-ඉහළට/11-412386) · `si`
+
+Colombo Stock Exchange shows growth today. Overall index increases 6.46 points (0.05%) and S&P index rises 0.14% (4.93). Total trading value reaches Rs. 1.39 billion.
+
+🟩
+
+The Colombo Stock Exchange showed growth today. Accordingly, Rs. 1.39 billion on the date.
+
+Also, the overall stock price index has increased by 6.46 points, 0.05 percent and the S & P index by 0.14 percent, 4.93. ;
+
+◼️
+
+[Data](articles/32c2f2bc.json)
+
+[Extended Data](ext_articles/32c2f2bc.ext.json)
 
 ---
 
@@ -187,6 +229,30 @@ He said that the Cabinet approval by the former government has been completed an
 [Data](articles/03ac56c3.json)
 
 [Extended Data](ext_articles/03ac56c3.ext.json)
+
+---
+
+### A new Excise Commissioner General
+
+*2024-10-08 18:25:49* · [`adalk`](https://www.ada.lk/breaking_news/නව-සුරාබදු-කොමසාරිස්-ජනරාල්වරයෙක්/11-412378) · `si`
+
+Here's a 200-character summary:
+
+
+
+New Excise Commissioner: President Anura Kumara Dissanayake appoints JM as Commissioner General of Excise, replacing current contract holder. Appointment takes immediate effect.
+
+🟩
+
+President Anura Kumara Dissanayake has acted to appoint a new Excise Appointment for the Sri Lanka Excise Department.
+
+Accordingly, as the Commissioner General of Excise, JM, who is currently serving on contract basis. Office of the Inland Revenue Service (Institutional Coordinators) at the Presidential Secretariat (2 Establishment Coordinating). The Jathika has been appointed to see the Commissioner General of Excise with immediate effect.
+
+◼️
+
+[Data](articles/c8088d9e.json)
+
+[Extended Data](ext_articles/c8088d9e.ext.json)
 
 ---
 
@@ -1107,6 +1173,18 @@ President Joe Biden also emphasized the importance of developing cooperation bet
 [Data](articles/0676dfe0.json)
 
 [Extended Data](ext_articles/0676dfe0.ext.json)
+
+---
+
+### Genocide In Gaza; One Year On! Shameful Indifference Towards Israeli Impunity!
+
+*2024-10-08 15:05:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/genocide-in-gaza-one-year-on-shameful-indifference-towards-israeli-impunity/) · `en`
+
+...
+
+[Data](articles/6b918fc1.json)
+
+[Extended Data](ext_articles/6b918fc1.ext.json)
 
 ---
 
@@ -2289,103 +2367,5 @@ For the first time we carried out 1200 surgery. Last year, we performed 1200 sur
 [Data](articles/04fde42a.json)
 
 [Extended Data](ext_articles/04fde42a.ext.json)
-
----
-
-### Prison regulator's illegal work
-
-*2024-10-08 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201943) · `si`
-
-STF arrests prison guard with mobile phone charger and data device during investigation. Incident occurred in Bau district.
-
-🟩
-
-A prison guard with a mobile phone charge and a DATA has been arrested by the STF personnel carrying a mobile phone charge and a DATA.
-
-The special Task Force was found in the shorter sector of the Bau HEARS SCRUI yesterday (07).
-
-The devices have been found while investigating a prison guard on the special duties of the prison special.
-
-◼️
-
-[Data](articles/31355e9e.json)
-
-[Extended Data](ext_articles/31355e9e.ext.json)
-
----
-
-### Husband's death due to family dispute;Wife arrested!
-
-*2024-10-08 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195726) · `ta`
-
-Husband dies in family dispute. Wife arrested. Husband tried to revive him but doctors confirm death. Police investigating frequent arguments between couple.
-
-🟩
-
-In the meantime, the husband is unconscious when he tries to tie the mouth of the deceased husband.
-
-Subsequently, the doctors said the husband had already died after being taken to the hospital.
-
-The wife has been arrested on suspicion of the incident, police said.
-
-Police investigations have revealed that the deceased husband was frequently arguing with his wife and scolding foreigners with inappropriate words.
-
-◼️
-
-[Data](articles/68ecc059.json)
-
-[Extended Data](ext_articles/68ecc059.ext.json)
-
----
-
-### Ministry of Education announced on false news
-
-*2024-10-08 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201942) · `si`
-
-Ministry of Education denies false reports about stopping school lunches. Secretary Thilaka Jayasundara confirms program continues, funded through next year.
-
-🟩
-
-Reports say that it is false that it is false that the lunch that has been stopped at primary grades in government schools is false.
-
-The Secretary to the Ministry of Education Thilaka Jayasundara said that various information had spread over the past few days that the program of providing lunch in schools had spread.
-
-Thilaka Jayasundara said that all these accounts were false and the program of providing lunch for school children continuously implement Ms. Thilaka Jayasundara.
-
-She added that there is also the funds necessary to implement the relevant program until next year.
-
-The program was launched from the first grade to the first grade of public schools from March last March.
-
-◼️
-
-[Data](articles/d72b7aab.json)
-
-[Extended Data](ext_articles/d72b7aab.ext.json)
-
----
-
-### Snake
-
-*2024-10-08 09:31:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்ஸில்-பதற்றத்தை-ஏற்படுத்திய-பாம்பு/175-345069) · `ta`
-
-A snake appeared on a bus traveling from Kurunegala to Mawathakama Madipokka. It was spotted under a seat near the back door, causing panic among passengers. The driver stopped the bus near a temple, but the snake disappeared before it could be removed. The bus continued its journey without the reptile.
-
-🟩
-
-It is reported that the snake was on a private bus traveling from Kurunegala to Mawathakama Madipokka yesterday morning.
-
-The bus departed from the Kurunegala main bus station at around 8 am yesterday and a few minutes later, there was a snake beneath the seat near the back door of the bus.
-
-At this time, a woman who saw the snake emerged from the bottom of the seat, was very scared and made a noise as 'snake .. pampa ..'.
-
-The driver, who saw the snake coming in front, stopped the bus near the Kurunegala Adkanda temple.
-
-After a while the snake on the bus was not found anywhere. However, even though the bus started the journey again. Remble
-
-◼️
-
-[Data](articles/de035976.json)
-
-[Extended Data](ext_articles/de035976.ext.json)
 
 ---

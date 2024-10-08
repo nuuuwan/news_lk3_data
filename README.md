@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 21:39:11**
+As of **2024-10-08 21:58:59**
 
 ## Newspaper Stats
 
-*Scraped **48,433** Articles*
+*Scraped **48,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,491
 dailymirrorlk | 4,733
-adaderanalk | 5,710
+adaderanalk | 5,711
 tamilmirrorlk | 6,568
 virakesarilk | 7,747
 adaderanasinhalalk | 8,379
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,433 (100.0%) of 48,433 articles have been extended.
+48,434 (100.0%) of 48,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Over 40,000 dengue cases reported in Sri Lanka so far in 2024
+
+*2024-10-08 21:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102540/over-40000-dengue-cases-reported-in-sri-lanka-so-far-in-2024) · `en`
+
+More than 40,000 dengue cases have been reported so far this year in Sri Lanka, according to the latest statistics released by the National Dengue Control Unit (NDCU) on Tuesday.
+
+The NDCU said that 40,109 cases had been reported with 19 fatalities so far, Xinhua news agency reported.
+
+The western province recorded the highest number of cases accounting for 42.3 per cent of the total.
+
+The northern province had the second highest number of cases accounting for 12 per cent and the central province had the third highest with 10.3 per cent.
+
+In the western province, the highest number of 10,027 cases have been reported from the Colombo district. The Gampaha district trails behind in the province with 4,698 cases.
+
+Last year, a total of more than 88,000 dengue cases were reported with a death toll of 57, according to the NDCU.
+
+◼️
+
+[Data](articles/5f9deb8c.json)
+
+[Extended Data](ext_articles/5f9deb8c.ext.json)
+
+---
 
 ### Another drug fraud reveals
 
@@ -2349,29 +2373,5 @@ He was admitted to the hospital after a complaint was lodged at the police stati
 [Data](articles/edd13e77.json)
 
 [Extended Data](ext_articles/edd13e77.ext.json)
-
----
-
-### Fisherman's death
-
-*2024-10-08 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/195731) · `ta`
-
-Fisherman drowns in accident off Jaffna coast. 69-year-old Tiruchelvam Gnanaprakasam from Luther Month Temple in Thumbala. Body recovered, handed to Pedro Base Hospital for examination.
-
-🟩
-
-A fisherman drowned in a sea of ​​accident in Jaffna.
-
-The deceased is Tiruchelvam Gnanaprakasam, aged 69, from the Luther Month Temple in Thumbala.
-
-He was drowned in the sea when he crashed into the sea when he went into the sea for the sea.
-
-The body has been recovered by fellow workers and has been handed over to the Pedro Base Hospital for anatomical examination.
-
-◼️
-
-[Data](articles/628f1133.json)
-
-[Extended Data](ext_articles/628f1133.ext.json)
 
 ---

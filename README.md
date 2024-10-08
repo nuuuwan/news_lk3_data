@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 11:23:01**
+As of **2024-10-08 11:39:36**
 
 ## Newspaper Stats
 
-*Scraped **48,336** Articles*
+*Scraped **48,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,102 @@ colombotelegraphcom | 478
 islandlk | 2,860
 economynextcom | 2,954
 dailyftlk | 3,267
-adalk | 4,471
+adalk | 4,472
 dailymirrorlk | 4,733
-adaderanalk | 5,694
-tamilmirrorlk | 6,542
+adaderanalk | 5,695
+tamilmirrorlk | 6,544
 virakesarilk | 7,738
-adaderanasinhalalk | 8,360
+adaderanasinhalalk | 8,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,336 (100.0%) of 48,336 articles have been extended.
+48,336 (100.0%) of 48,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### රජයේ රාජ්‍ය තාන්ත්‍රික ප්‍රතිපත්තිය ගැන කැබිනට් ප්‍රකාශක පැහැදිලි කරයි
+
+*2024-10-08 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201946) · `si`
+
+රාජ්‍ය තාන්ත්‍රික සම්බන්ධතාවලදී රජය හැම රටක් සමගම සමබරව කටයුතු කරන බව කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+කැබිනට් තීරණ දැනුම්දීම මාධ්‍ය හමුවට එක්වෙමින් ඒ මහතා පැවසුවේ, "ඉන්දියාව එක්ක ගනුදෙනු කරනවා වගේම චීනය එක්කත් අපි ගනුදෙනු කරනවා," යනුවෙනි.
+
+ඔහු තවදුරටත් පැවසුවේ චීන යුද පුහුණු නැවක් සඳහා ශ්‍රී ලංකාවට පැමිණීමට රජය විසින් අවසර ලබාදුන් බවයි.
+
+එම නෞකාව මෙම මාසයේදී මෙරටට් පැමිණීමට නියමිත බව අමාත්‍යවරයා පැවසීය.
+
+...
+
+[Data](articles/6c749d48.json)
+
+---
+
+### Acting Commissioner General of Registration of Persons appointed
+
+*2024-10-08 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/102522/acting-commissioner-general-of-registration-of-persons-appointed-) · `en`
+
+The Cabinet of Ministers has approved the appointment of Mrs. M.S.P. Sooriyapperuma as the Acting Commissioner General of Registration of Persons.
+
+The post of Commissioner General of the Department of Registration of Persons has been vacant from September 24, 2024.
+
+Accordingly, the Cabinet of Ministers has approved the proposal presented by the Minister of Public Security to appoint Mrs. Sooriyapperuma, a special grade officer of the Sri Lanka Administrative Service, who is currently working as an Additional Secretary of the Ministry of Public Security, to the post of Commissioner General of Registration of Persons on an acting basis.
+
+◼️
+
+[Data](articles/8e4a0583.json)
+
+---
+
+### கலால் திணைக்களத்திற்கு புதிய ஆணையாளர் நாயகம்
+
+*2024-10-08 11:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-திணைக்களத்திற்கு-புதிய-ஆணையாளர்-நாயகம்/175-345078) · `ta`
+
+கலால் திணைக்களத்திற்கு உடனடியாக அமுலுக்கு வரும் வகையில் புதிய ஆணையாளர் நாயகத்தை நியமிப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+நிதி, பொருளாதார அபிவிருத்தி, கொள்கை உருவாக்கம், திட்டமிடல் மற்றும் சுற்றுலாத்துறை அமைச்சர் என்ற வகையில் அமைச்சரவைப் பிரேரணை ஜனாதிபதியினால் அங்கீகரிக்கப்பட்டது.
+
+அண்மையில் ஒப்பந்த அடிப்படையில் கலால் ஆணையாளர் நாயகமாக கடமையாற்றிய ஜே.எம்.குணசிறியின் சேவையை உடனடியாக அமுலுக்கு வரும் வகையில் பதவி நீக்கம் செய்வதற்கு ஜனாதிபதி அனுமதியளித்துள்ளார்.
+
+இலங்கை கலால் திணைக்களம் அரசாங்கத்தின் பிரதான வருமான சேகரிப்பு முகவர் என்பதுடன் இத்திணைக்களத்தின் வினைத்திறன் மற்றும் நல்லாட்சி அரசாங்கத்தின் வருவாயை நேரடியாக பாதிக்கிறது.
+
+புதிய ஆணையாளர் நாயகம் யு.டி.என் ஜயவீர உள்நாட்டு இறைவரி சேவையின் விசேட தர அதிகாரி ஆவார். அவர் தற்போது ஜனாதிபதி செயலகத்தின் மேலதிக செயலாளராக (ஏஜென்சி ஒருங்கிணைப்பு II) கடமையாற்றி வருகிறார்.
+
+◼️
+
+[Data](articles/2fa1fbd9.json)
+
+---
+
+### සංචිතය ඉහළට
+
+*2024-10-08 10:59:36* · [`adalk`](https://www.ada.lk/breaking_news/සංචිතය-ඉහළට/11-412361) · `si`
+
+2024 සැප්තැම්බර් මාසය අවසානයේ දී මහ බැංකුව සතු නිල  සංචිතය ඩොලර් මිලියන 5,992 ක් දක්වා වර්ධනය වී තිබේ.  මෙය 2024 අගෝස්තු මාසය අවසානයේ පැවති ඩොලර් මිලියන 5,959 ක් වූ සංචිත ප්‍රමාණය හා සැසඳීමේ දී 0.5% ක ඉහළ යාමකි.
+
+◼️
+
+[Data](articles/c9ba6c2b.json)
+
+---
+
+### மஹிந்த போட்டியிடுவாரா?
+
+*2024-10-08 10:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-போட்டியிடுவாரா/175-345077) · `ta`
+
+எதிர்வரும் பாராளுமன்றத் தேர்தலில் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ச போட்டியிடுவாரா இ்ல்லையா என்பது குறித்து அவரின் முடிவிற்காக ஸ்ரீலங்கா பொதுஜன  பெரமுன காத்திருப்பதாக தெரிவிக்கபடுகிறது.
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பொதுச் செயலாளர் சாகர காரியவசம் ஊடகவியலாளர்களிடம் கருத்து தெரிவிக்கையில், அடுத்த சில நாட்களுக்குள் ராஜபக்ச தனது முடிவை எடுப்பார் என கட்சி எதிர்பார்ப்பதுடன், அது அறிவிக்கப்பட்டவுடன் அதன்படி செயல்படுவோம் எனவும் கூறினார்.
+
+◼️
+
+[Data](articles/918ba59b.json)
+
+---
 
 ### New Acting Commissioner General appointed to Excise Dept.
 
@@ -2097,147 +2177,5 @@ This was after the court granted leave to proceed with three Fundamental Rights 
 [Data](articles/e9c087f2.json)
 
 [Extended Data](ext_articles/e9c087f2.ext.json)
-
----
-
-### Businessman cannot sell what was recovered from treasure
-
-*2024-10-07 18:03:29* · [`adalk`](https://www.ada.lk/breaking_news/නිධානයකින්-ගොඩ-ගත්-දේ-ව්‍යාපාරිකයෙකුට-විකුණන්න-බැරි-වෙයි/11-412354) · `si`
-
-Businessman can't sell recovered treasure. Residents arrested in Parasangaswewa and Devanampiyatissa. Police seized gold and Buddha statue worth Rs. 100,000. Suspects to appear in court.
-
-🟩
-
-More than Rs.
-
-The residents of Parasangaswewa and Devanampiyatissa and Devanampiyatississa have been arrested in Parasangaswewa and Devanampiyathissapura.
-
-The businessman has made a newspaper to buy the telephone number and the call for the businessman has taken about Rs.The price is reduced to a hundred thousand.
-
-The businessman who agreed to check it and buy the statue and buy the statue and purchase the statue, police arrested the suspects near the Anuradhapura Bus Station.
-
-The golden stock of gold was worth about two kilograms and that there were over 1,000 golden gold and more than 1,000 golden gold.
-
-The statue of Buddhism had been thrown into the gold and gold, while the stone was met with the waves of the stage and that the statue was meticulously deposited into the earth's soil soil.
-
-...
-
-[Data](articles/6d483cb7.json)
-
-[Extended Data](ext_articles/6d483cb7.ext.json)
-
----
-
-### His promise to the country
-
-*2024-10-07 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201930) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sanath Jayasuriya emphasizes local coaching benefits, stability in Test team, and plans for improving ODI and T20 performances. He discusses contract issues, West Indies tour success, and World Cup preparations.
-
-🟩
-
-Sanath Jayasuriya, head of SLC, said he was not biased for the players and the country.
-
-He was speaking at a media briefing held by Sri Lanka Cricket Chief Trainer.
-
-The journalist inquired from Jayasuriya was the advantage of appointing a local coach instead of a foreign trainer.
-
-"It's easy to share with players'. If the players have shortcomings, there is no hindrance to talk to me. That self-confidence should be. They know what cricket I was cruised. Know that value. With that, it is customary to the support of senior players. I want to remember as a local coach I have no Fawights. I'm independent. I want to play the best team. It's good for the tim, that's good for the country.  මේක ලොකු අභියෝගයක්. Or this job does not get back to the local. I have a great responsibility on that way ".
-
-The Test team is in a stable level compared to the Sri Lanka One Day and T20 teams, and what the difference is to be. Mr. Jayasuriya replied
-
-...
-
-[Data](articles/11d6385a.json)
-
-[Extended Data](ext_articles/11d6385a.ext.json)
-
----
-
-### Saran returns explosives
-
-*2024-10-07 17:54:51* · [`adalk`](https://www.ada.lk/breaking_news/සහරාන්ට-පුපුරණ-ද්‍රව්‍ය-දුන්-අයට-නැවතත්-පුපුරණ-ද්‍රව්‍ය-බලපත්‍ර-දීලා/11-412353) · `si`
-
-Here's a 200-character summary:
-
-
-
-Explosives issue: Gov't investigates license permits after Passover attack. Defense Ministry stops issuing explosives licenses. Explosive marketers seek fair solutions under current president.
-
-🟩
-
-In issue of explosives, the last government has been reported to the reconcile of billions of scratches after the Passover attack, but they have to permit their licenses and to conduct a full investigation into the permits of their licenses.The All Ceylon Explosive Marketers' Forum Chairman said that the government is requested.
-
-Representatives of the All Ceylon Explosive Marketers at the All Ceylon Explosive Marketers at a press conference held at the Peradeniya inn Tai of Kandy yesterday (06).
-
-They said that the Ministry of Defense stopped by the Ministry of Defense and had emerged from the Ministry of Defense, the Ministry of Defense has stopped the issuance of the explosives.
-
-The Presidential Defense Secretary Kamal Gunaratne has been released to the licenses that there have been a few days in the distribution of explosives and issuing permits.The stores are already inaugurated in Mahawa and Kandy areas.
-
-...
-
-[Data](articles/8227d35e.json)
-
-[Extended Data](ext_articles/8227d35e.ext.json)
-
----
-
-### Asset and liability declarations mandatory for all General Election candidates –EC
-
-*2024-10-07 17:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102512/asset-and-liability-declarations-mandatory-for-all-general-election-candidates-ec-) · `en`
-
-The Election Commission announced that all candidates representing recognized political parties and independent groups contesting the upcoming general elections are required to submit their asset and liability statements along with their nomination papers.
-
-As per Sections 80(01)(P), 82(01)(E), 82(02), 89, and 90(04) of the Anti-Corruption Act No. 9 of 2023, the declarations must reflect the candidates’ assets and liabilities as of the date on which the election poll is officially announced, the election regulatory body said.
-
-Additionally, in compliance with Article 99A, candidates nominated for National List positions in Parliament must also submit their asset and liability statements to the Election Commission alongside their nomination documents.
-
-The Election Commission has issued a reminder that failure to provide the required declarations along with the nomination papers will constitute a punishable offense under the law.
-
-◼️
-
-[Data](articles/5a29a871.json)
-
-[Extended Data](ext_articles/5a29a871.ext.json)
-
----
-
-### More information about Hanwella killer reveals
-
-*2024-10-07 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201929) · `si`
-
-Hanwella shooter arrested businessman killed Western South Crimes Division Balangoda suspect 38 years old former army soldier Kaltota claims Conductor Lalia hired Dubai no payment recovered weapons 15 T-56 bullets grenade DIG Gangara Marapana questioning 72 hours
-
-🟩
-
-The shooter has been arrested in the Hanwella, a businessman who shot dead in Hanwella based on an unavailable incident.
-
-The suspect was arrested by the Western South Crimes Division this morning (07).
-
-The suspect was arrested in the home of the party of Balangoda, the police said.
-
-He is currently a 38 year old resident of Kaltota, a former army soldier who is currently living in Balangoda, Hanwella.
-
-The suspect had told the police that Lalith Kannangara, or "Conductor Lalia" was given to the assassination of the businessman, which is hiding in Dubai.
-
-However, the money has not been provided and has been given to the sale of ice, marketing, marketing and cash.
-
-The suspect had come to the shooting of the businessman last month and 19 o'clock on the 19th.
-
-It is reported that the suspect had come alone to kill the businessman.
-
-Several mobile phones used for the gunk have been recovered, including 15 T-56 bullets and a grenade.
-
-The suspect was conducted by Roshan murder on 25.12.2012, police said.
-
-...
-
-[Data](articles/0f726542.json)
-
-[Extended Data](ext_articles/0f726542.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 17:59:55**
+As of **2024-10-08 18:19:47**
 
 ## Newspaper Stats
 
-*Scraped **48,407** Articles*
+*Scraped **48,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 480
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,484
+adalk | 4,486
 dailymirrorlk | 4,733
 adaderanalk | 5,708
 tamilmirrorlk | 6,565
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,375
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,407 (100.0%) of 48,407 articles have been extended.
+48,409 (100.0%) of 48,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### US assistance to strengthen the economy of Sri Lanka
+
+*2024-10-08 17:49:37* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ආර්ථිකය-ශක්තිමත්-කිරීමට-ඇමෙරිකාවේ-සහාය/11-412375) · `si`
+
+The United States has agreed to extend any support to strengthen the economy of Sri Lanka.
+
+Sri Lanka's Ambassador to Sri Lanka, July Chang, July Changa said Sri Lanka would be able to create an export market economy to Sri Lanka.
+
+The Presidential Secretary Dr. Nandika Sanath Sanath and Sri Lanka Ambassador to Sri Lanka
+
+Sri Lanka's Ambassador to Sri Lanka's Ambassador to Sri Lanka July Chang, July Chang was also presented to the President of US President Joe Biden to win President Anura Kumara Dissanayake.
+
+The US Ambassador also stated that the International Monetary Fund is ready to cooperate the financial support of the US International Development Agency (USAID) to enhance the economy of Sri Lanka.
+
+The United States of America also guarded the financial and technical contribution to the motion of President Anura Kumara Dissanayake to prevent fraud corruption and corruption.
+
+The United States has agreed to support any support for a good governance and to support Sri Lanka's security.
+
+...
+
+[Data](articles/1dc93a86.json)
+
+[Extended Data](ext_articles/1dc93a86.ext.json)
+
+---
+
+### Amended postal voting applications for general election is amended
+
+*2024-10-08 17:32:18* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේ-තැපැල්-ඡන්ද-අයදුම්පත්-භාර-ගැනීමේ-කාලය-සංශෝදනය-කෙරේ/11-412374) · `si`
+
+The Elections Commission states that the period of time of postal voting applications was extended.
+
+Accordingly, the applications to be completed in midnight today (08) have been extended to 12 midnight on Thursday.
+
+◼️
+
+[Data](articles/0d8bf3db.json)
+
+[Extended Data](ext_articles/0d8bf3db.ext.json)
+
+---
 
 ### Applications of the Dhamma School Final Examination are extended
 
@@ -2325,43 +2367,5 @@ Accordingly, Bharat Arulzamy has announced that he will resign from the post of 
 [Data](articles/71eea84d.json)
 
 [Extended Data](ext_articles/71eea84d.ext.json)
-
----
-
-### Bharat Arulzamy's departure from CWC
-
-*2024-10-08 06:28:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவிலிருந்து-பாரத்-அருள்சாமி-விலகல்/175-345063) · `ta`
-
-Bharat Arulzamy resigns as CWC VP and member. Sent letter to Jeevan Thondaman.
-
-🟩
-
-He sent his resignation letter to Jeevan Thondaman, General Secretary of the Ceylon Workers Congress yesterday evening.
-
-Accordingly, Bharat Arulzamy has announced that he will resign from the post of vice president and the basic membership of the party.. (A)
-
-◼️
-
-[Data](articles/8ac86ebd.json)
-
-[Extended Data](ext_articles/8ac86ebd.ext.json)
-
----
-
-### Hayleys Fabric receives prestigious ZDHC Torchbearer Award
-
-*2024-10-08 06:22:32* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fabric-receives-prestigious-ZDHC-Torchbearer-Award/34-767686) · `en`
-
-Sri Lankan textile manufacturer honoured for sustainable chemical management in South Asia
-
-Hayleys Fabric PLC, Sri Lanka’s largest and leading textile manufacturer, has been recognised for its exceptional leadership in sustainable chemical management by receiving the prestigious ZDHC Torchbearer Award.
-
-The award was presented by Zero Discharge of Hazardous Chemicals (ZDHC) South Asia Region Director Prasad Pant at the fifth ZDHC South Asia Regional Conference on Sustainable Chemical Management in the Fashion Industry held in Chennai, India on 25 September.
-
-...
-
-[Data](articles/d4e82ba8.json)
-
-[Extended Data](ext_articles/d4e82ba8.ext.json)
 
 ---

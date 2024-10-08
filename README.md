@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 13:39:32**
+As of **2024-10-08 13:58:40**
 
 ## Newspaper Stats
 
-*Scraped **48,361** Articles*
+*Scraped **48,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ colombotelegraphcom | 478
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,474
+adalk | 4,475
 dailymirrorlk | 4,733
 adaderanalk | 5,699
 tamilmirrorlk | 6,552
 virakesarilk | 7,738
-adaderanasinhalalk | 8,363
+adaderanasinhalalk | 8,364
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,361 (100.0%) of 48,361 articles have been extended.
+48,363 (100.0%) of 48,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### The increased fertilizer subsidy from Monday
+
+*2024-10-08 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201949) · `si`
+
+Fertilizer subsidy for paddy farmers starts Monday in Ampara District. Cabinet spokesperson Vijitha Herath announced the initiative during a press briefing on cabinet decisions. The program aims to support farming in Polonnaruwa, Anuradhapura, and Mahiyanganaya districts.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath says that the fertilizer subsidy for paddy farmers will commence from the Ampara District on Monday.
+
+He made these comments at a press notice of cabinet decisions today (08).
+
+"This Maha Season begins. This fertilizer subsidy to the people of the Ampara district following the next week.. Steps will be taken to provide. Follow the arrangement for the production of Polonnaruwa, Anuradhapura, and Mahiyanganaya. "
+
+◼️
+
+[Data](articles/8f3830e1.json)
+
+[Extended Data](ext_articles/8f3830e1.ext.json)
+
+---
 
 ### Fire breaks out at building in Pettah
 
@@ -359,6 +381,38 @@ The ship is due this to arrive this month.
 [Data](articles/6c749d48.json)
 
 [Extended Data](ext_articles/6c749d48.ext.json)
+
+---
+
+### Welid wife arrested
+
+*2024-10-08 11:19:14* · [`adalk`](https://www.ada.lk/breaking_news/සැමියාගේ-ගෙල-සිරකර-ඝතනය-කළ-බිරිඳ-අල්ලයි/11-412363) · `si`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Wife arrested for murdering husband in Nochichiyagama. Police say she assaulted him when he tried to control her. Victim died at hospital. Suspect to appear in court today. Investigation ongoing.
+
+🟩
+
+Achchiyagama Police say that the wife (7) night in the Wallepolagama police and the wife in the Walpolagama area in the Nochichiyagama area in the Walpolagama area in the year.
+
+The deceased has been identified as Magamage Kumara, Mahatamage Kumara, a 38 year old resident of the Galwala Road, Walalagama, Waltalagama.
+
+The murder was arrested in connection with the deceased's wife, Walpola Road, Walpola Road, Walpola Road, Nochichagama.
+
+The deceased has leaving the house at around 6.30 pm to the deceased (on the 7th) and had been resumed and arrested in the dawn and the arrest of his wife.
+
+The victim had assaulted his wife when the suspect washed his death to control his husband's hands to control it.
+
+The suspect was then imprisoned due to the door of the door to close his husband's cloth to control his husband, police said.
+
+...
+
+[Data](articles/d9fcf723.json)
+
+[Extended Data](ext_articles/d9fcf723.ext.json)
 
 ---
 
@@ -2171,49 +2225,5 @@ He also pointed out that party decisions should be made for the benefit of the p
 [Data](articles/bdcaff22.json)
 
 [Extended Data](ext_articles/bdcaff22.ext.json)
-
----
-
-### Anura   Kumara’s Ascendancy Inside the JVP and his  Political Rise  Within  Sri Lanka.
-
-*2024-10-07 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84866) · `en`
-
-Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka – Part Two
-
-Sri Lanka’s newly elected ninth executive president Anura Kumara Dissanayake (AKD) continues to be the focus of this column. In the first part of this article published last week, the early years of  Anura’s eventful life were delved into in some detail. In this week’s  second part,  AKD’s steady rise as a   political leader within the Janatha  Vimukthi  Peramuna (JVP) will be related to some extent.
-
-As stated in this column last week , the JVP’s second insurgency was ruthlessly suppressed by the Ranasinghe Premadasa regime. Tens of thousands of youths were killed or made to disappear. Thousands of youths were incarcerated for years. Hundreds of youths fled Sri Lanka for safety. Hundreds of youths avoided arrest  and possible execution while in Sri Lanka by changing identities and relocating elsewhere. Anura was among those who stayed in Lanka and evaded capture by going underground.
-
-...
-
-[Data](articles/2b0b9154.json)
-
-[Extended Data](ext_articles/2b0b9154.ext.json)
-
----
-
-### People should cooperate in the country's Renaissance Project
-
-*2024-10-07 21:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/195710) · `ta`
-
-Cooperation key to Batticaloa district's Renaissance Project. National People's Power Party leader Anura Kumara Dissanayake outlines plans for agricultural, fishing, industrial, and employment growth. Party seeks unity to address district challenges in upcoming parliamentary elections.
-
-🟩
-
-The revival and future growth of the Batticaloa district can be solved by many problems such as agriculture, fishing, industrial, employment, etc.. The leader of the National People's Shakti Party (NGO) said that the leader of the National People's Shakti Party (NGO) said that the leader of our party, Anura Kumara Dissanayake's country's revival program.
-
-The meeting was held on Sunday evening (06) at the Chettipalayam Public Ground in Batticaloa.
-
-The meeting was organized by Kumaraswamy Ganesalingam, a supporter of the National People's Power Party, Batticaloa District Coordinator Anuradha, Kurunegala District Coordinator Jayasuriya, and many others in the area.
-
-At the meeting, the organizers of the meeting told the party's leaders attending the parliamentary elections in the coming parliamentary elections through the National People's Power Party.
-
-In the last presidential election, our brother Anura Kumara Dissanayake supported and won the parliamentary elections to strengthen his hand.
-
-...
-
-[Data](articles/9973f3ad.json)
-
-[Extended Data](ext_articles/9973f3ad.ext.json)
 
 ---

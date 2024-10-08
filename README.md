@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 19:57:53**
+As of **2024-10-08 20:11:54**
 
 ## Newspaper Stats
 
-*Scraped **48,425** Articles*
+*Scraped **48,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ dailymirrorlk | 4,733
 adaderanalk | 5,710
 tamilmirrorlk | 6,566
 virakesarilk | 7,747
-adaderanasinhalalk | 8,377
+adaderanasinhalalk | 8,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,425 (100.0%) of 48,425 articles have been extended.
+48,426 (100.0%) of 48,426 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Roshan is appointed as Kalutara district leader of the universality
+
+*2024-10-08 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201965) · `si`
+
+Mamalanda Janatha Janasinghe Chairman Roshan Ranasinghe was appointed as the Kalutara District Leader and Matugama electoral organizer of the exangeration.
+
+The letter was released on the letter of appointment.
+
+The leader of the Motherland People's Party Dilith Jayaweera said that his party would strengthen their party's Patriotic Nationalist Camp.
+
+Meanwhile, Entrepreneral Uplly Tetley Upali Jayasekara was the Colombo district captain of the Colombo district and AR Thawatndra John was appointed as the Ratnapura District Team leader today (08).
+
+Also, appointment letters were awarded to the organizers of many other seats in many other districts.
+
+"We have been asserting a victorious journey, further confirming whether we believe in the patriotic politics in Sri Lanka. So we believe only by ensuring our nationality to create the background of this country to make this country happy and the concept of an entrepreneurship state. "
+
+...
+
+[Data](articles/1b365359.json)
+
+[Extended Data](ext_articles/1b365359.ext.json)
+
+---
 
 ### Hezbollah supports ceasefire efforts in Lebanon, deputy chief says
 
@@ -2345,33 +2369,5 @@ Reacting to the return of Pakistani prisoners, Interior Minister Naqvi said that
 [Data](articles/55e9e330.json)
 
 [Extended Data](ext_articles/55e9e330.ext.json)
-
----
-
-### Information on the death of the deceased student
-
-*2024-10-08 09:15:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-மாணவி-குறித்து-வெளியான-திடுக்கிடும்-தகவல்/175-345068) · `ta`
-
-Student dies from 29th floor of Lotus Tower in Colombo. 16-year-old from Kaluppitiya area. Attends international school in Colombo. Commits suicide by jumping. School friends also died recently. Father reports severe depression due to friend's death. Police investigating cause of death.
-
-🟩
-
-Police have released some information about a student who died from the 29th floor of the Lotus Tower in Colombo.
-
-A 16 -year -old student from Kaluppitti area has died in the incident, police said.
-
-The student was studying at an international school in Colombo in an international school in Colombo and had committed suicide by jumping from the 29th floor to the Lotus Tower at the end of the school.
-
-Meanwhile, the school's friends of the 15 -year -old girl and a boy who died from the 67th floor of the Odeyar Luxury Apartments in Kompanideru last July.
-
-In addition, her father has confessed to the police that the student was severely depressed by the death of friends.
-
-The body of the student is being investigated and the Colombo police are placed in the funeral room and the Maradana police are conducting further investigations.. Remble
-
-◼️
-
-[Data](articles/5a417799.json)
-
-[Extended Data](ext_articles/5a417799.ext.json)
 
 ---

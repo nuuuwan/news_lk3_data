@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 15:09:51**
+As of **2024-10-08 15:23:09**
 
 ## Newspaper Stats
 
-*Scraped **48,373** Articles*
+*Scraped **48,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 2,958
 dailyftlk | 3,267
 adalk | 4,478
 dailymirrorlk | 4,733
-adaderanalk | 5,700
+adaderanalk | 5,701
 tamilmirrorlk | 6,555
 virakesarilk | 7,738
-adaderanasinhalalk | 8,366
+adaderanasinhalalk | 8,367
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,373 (100.0%) of 48,373 articles have been extended.
+48,375 (100.0%) of 48,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### Missile attack on commemoration
+
+*2024-10-08 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201952) · `si`
+
+Here's a 200-character summary:
+
+
+
+Hamas launches missile attack on Tiberias, Israel. Israeli Army responds with airstrikes in Lebanon. Hezbollah involved. UNIFIL concerned. International community seeks diplomatic solution. Iran warns against attacking Iranian infrastructure.
+
+🟩
+
+October 07 As the first year of the first year of the Hamas attack, security critics introduced to Hybollah and Hamas missiles to Tiberiaz.
+
+A military base in the south of Israel, the third largest city in Israel, is the target of the missile attack.
+
+It is reported that Fadi-1 (Fudy One) missiles have been used for this purpose.
+
+Tiberias attacked Tiberias from HiFA, about 65 miles [65 km] away.
+
+The Israeli Army stated that about 190 missiles and rockets were launched in the Israeli area only yesterday.
+
+The Israeli Army stated that the Air Force fighter launched a series of broader air strikes to the South Lebanon.
+
+Two more Israeli soldiers were killed in Lebanon landing operations yesterday.
+
+Accordingly, the number of Israeli soldiers who died in the Lebanon land operation increased to 11.
+
+About 1.2 million is displaced due to Israeli air strikes and land operations.
+
+The Lebanonans are afraid of intensifying air strikes on the air strikes of Israel.
+
+...
+
+[Data](articles/cff13449.json)
+
+[Extended Data](ext_articles/cff13449.ext.json)
+
+---
+
+### Vasu’s DLF decides to back NPP in general election
+
+*2024-10-08 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102530/vasus-dlf-decides-to-back-npp-in-general-election) · `en`
+
+The Democratic Left Front (Prajathanthravadi Vamanshika Peramuna) has officially announced its support for the National People’s Power (NPP) in the forthcoming parliamentary elections.
+
+The party’s leader, former Member of Parliament Vasudeva Nanayakkara, confirmed this decision during a press conference held today (08).
+
+Speaking about the party’s stance, Nanayakkara stated, “The parliamentary election is approaching, and our party has decided to support the National People’s Power. We will be contesting while backing them in this election.”
+
+He explained the Democratic Left Front’s efforts to align with the NPP: “We have worked to build a relationship with the National People’s Power and contest this election together. Even during the presidential election, we tried to make a cooperation. Although it came down to a matter of policy for the NPP, we are now offering our full support to the National People’s Power.”
+
+...
+
+[Data](articles/eaadb94a.json)
+
+[Extended Data](ext_articles/eaadb94a.ext.json)
+
+---
 
 ### Vasu turns toward the compass
 
@@ -2183,55 +2243,5 @@ Consequently, investor participation in the share market, inclusive of the retai
 [Data](articles/2d613af2.json)
 
 [Extended Data](ext_articles/2d613af2.ext.json)
-
----
-
-### Ranil Wickremesinghe's security officials have been removed -the UNP is not true -the UNP. Deputy Chairman Ruwan Wijewardena's announcement
-
-*2024-10-07 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/195721) · `ta`
-
-Here's a 200-character summary:
-
-
-
-UNP denies claims of Ranil Wickremesinghe's security removals. Police IG disputes reports. UNP condemns misinformation campaigns against former president.
-
-🟩
-
-The Inspector General of Police has denied the reply even though the police officers who have been for the protection of former President Ranil Wickremesinghe have been dismissed.
-
-UNP Deputy Leader Ruwan Wijewardena has said that we are strongly condemned as the United National Party (UNP) for the purpose of insulting Ranil Wickremesinghe and insulting him.
-
-After the presidential election, former President Ranil Wickremesinghe continues to insult him to insult him.. As a United National Party, we vehemently condemn those issues.
-
-Ranil Wickremesinghe has done massive tasks for this country. He was the one who built the economy of this country that had fallen in the past. However, false information is being circulated on social media.
-
-...
-
-[Data](articles/5c281a06.json)
-
-[Extended Data](ext_articles/5c281a06.ext.json)
-
----
-
-### “I don’t play favorites”: Jayasuriya pledges unbiased leadership as Head Coach
-
-*2024-10-07 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/102516/i-dont-play-favorites-jayasuriya-pledges-unbiased-leadership-as-head-coach-) · `en`
-
-Sanath Jayasuriya, who was confirmed in the post of head coach of Sri Lankan national cricket team, vowed to lead with impartiality and a commitment to excellence, ensuring the best possible outcomes for the team and the country.
-
-He made these remarks during a press conference held earlier today (07) following his appointment.
-
-When asked about the benefits of appointing a local coach over a foreign one, Jayasuriya emphasized the advantage of stronger communication with the players.
-
-“It is easier to share ideas with the players. If they have shortcomings, there is no barrier in approaching me. That self-confidence is crucial. The players know the kind of cricket I have played and its value,” Jayasuriya stated.
-
-“With the support of senior players, we can make significant progress. As a local coach, I don’t play favorites. I want to field the best team. This is a big challenge, and there’s a great responsibility that comes with it”, Jayasuriya added.
-
-◼️
-
-[Data](articles/b78bef42.json)
-
-[Extended Data](ext_articles/b78bef42.ext.json)
 
 ---

@@ -1,36 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 14:25:26**
+As of **2024-10-08 14:38:52**
 
 ## Newspaper Stats
 
-*Scraped **48,368** Articles*
+*Scraped **48,373** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 398
-bbccomsinhala | 478
 colombotelegraphcom | 478
+bbccomsinhala | 479
 islandlk | 2,860
 economynextcom | 2,958
 dailyftlk | 3,267
-adalk | 4,476
+adalk | 4,478
 dailymirrorlk | 4,733
 adaderanalk | 5,700
 tamilmirrorlk | 6,555
 virakesarilk | 7,738
-adaderanasinhalalk | 8,364
+adaderanasinhalalk | 8,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,368 (100.0%) of 48,368 articles have been extended.
+48,368 (100.0%) of 48,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
+
+### වාසු මාලිමාව දෙසට හැරෙයි
+
+*2024-10-08 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201951) · `si`
+
+ඉදිරි පාර්ලිමේන්තු මැතිවරණයේදී ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණේ සහාය ජාතික ජන බලවේගයට ලබාදීමට එම පක්ෂය තීරණය කර තිබේ.
+
+අද (08) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් එම පෙරමුණේ නායක හිටපු පාර්ලිමේන්තු මන්ත්‍රී වාසුදේව නානායක්කාර මහතා ඒ බව පවසා සිටියේය.
+
+"ඉදිරියේ පාර්ලිමේන්තු මැතිවරණය එනවා. මේ පාර්ලිමේන්තු මැතිවරණයේදී අපේ පක්ෂය අපි සහයෝගය දක්වන්නේ මාලිමාවට. අපේ පක්ෂය තරග කරනවා. තරග කරන්නේ ජාතික ජන බලවේගයට සහයෝගය පළකරමින්. අපි උත්සාහ කළා ජාතික ජන බලවේගය එක්ක සම්බන්ධතාවයක් ගොඩනගාගෙන එකට මේ ඡන්දයේදී තරගයට ඉදිරිපත් වෙන්න, ජනාධිපතිවරණයේදී පවා එබඳු සමීපකමක් ඇති කරන්න උත්සාහ කළා. නමුත් ඒක සාර්ථක වුණේ නැහැ. ඒක ජාතික ජනබලවේගයේ යම් ප්‍රතිපත්තිමය ප්‍රශ්නයක් නිසා. පාර්ලිමේන්තු මැතිවරණයේදී අපි වෙනම තරග කරනවා. වෙනම තරගකරත් අපේ සහයෝගය අපි ජාතික ජන බලවේගයට ලබාදෙනවා. අපේ අනුගාමිකයින්ට අපි කියා සිටිනවා අපිට දෙන ඡන්දයත් ජාතික ජන බලවේගයට දෙන ඡන්දයක් බව."
+
+◼️
+
+[Data](articles/47d0c951.json)
+
+---
+
+### රාජපක්ෂලාගේ සියලු දූෂණ ගැන සොයනවා - වසන්ත සමරසිංහ
+
+*2024-10-08 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201950) · `si`
+
+පසුගිය සමයේ ආන්දෝලනයට තුඩුදුන් රාජපක්ෂවරුන්ට එරෙහි සියලු දූෂණ වංචා නඩු පිළිබඳ විමර්ශන යළි ආරම්භ කර ඇතැයි ජාතික ජනබලවේගයේ ජාතික විධායක සභික වසන්ත සමරසිංහ මහතා පවසයි.
+
+ඔහු ඒ බව සඳහන් කළේ අද (08) පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමිනි.
+
+...
+
+[Data](articles/bb418c2b.json)
+
+---
 
 ### Farmers to receive fertilizer subsidy from Monday
 
@@ -47,6 +77,32 @@ He mentioned this during the Cabinet press conference held today (08).
 [Data](articles/3be055b8.json)
 
 [Extended Data](ext_articles/3be055b8.ext.json)
+
+---
+
+### ඉතිහාසයේ ව‍ු වැරදි අපේ ආණ්ඩුවෙන් වෙන්න දෙන්නේ නෑ
+
+*2024-10-08 13:50:38* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාසයේ-ව‍ු-වැරදි-අපේ-ආණ්ඩුවෙන්-වෙන්න-දෙන්නේ-නෑ/11-412371) · `si`
+
+පාස්කු ප්‍රහාරය මෙහෙය වූ අයට එරෙහිව අනිවාර්යයෙන්ම නීතිය ක්‍රියාත්මක කරන බවත්, ජනාධිපතිවරයා බලයට පත් වූ කෙටි කාලය තුළම ඒ සඳහා මූලික කටයුතු ආරම්භ කර ඇති බවත් අමාත්‍ය මණ්ඩලයේ මාධ්‍ය ප්‍රකාශක, බුද්ධශාසන, ආගමික සහ සංස්කෘතික කටයුතු, ජාතික ඒකාබද්ධතා, සමාජ ආරක්ෂණ සහ ජනමාධ්‍ය අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+අද (08)  රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් තීරණ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+“මේ සඳහා අපි විශේෂ කමිටුවක් පත් කර තිබෙනවා. එම කමිටුව හරහා ජනාධිපති කාර්යාලය හරහා යම් අක්‍රමිකතාවක් වුණා නම් ඒ් පිළිබඳවත්, කොමිෂන් සභා වාර්තාවල යම් අඩුපාඩුවක් වෙලා තිබේ ද යන්න පිළිබඳවත් විමර්ෂණය කරනවා. ජනාධිපතිවරයා  පත් වූ මේ පුංචි කාලය තුළම මේ සම්බන්ධයෙන් කටයුතු  අපි ආරම්භ කර තිබෙනවා. ඉතිහාසයේ වූ වැරදි මේ ආණ්ඩුව යටතේ සිදු වීමට අපි ඉඩ තබන්නේ නැහැ.ඒ පිළිබඳව කිසිදු අසාධාරණයක් මේ රටේ ජනතාවට වෙන්න ඉඩ තියන්නේ නැහැ.
+
+◼️
+
+[Data](articles/44c5ef2f.json)
+
+---
+
+### පිටකොටුව - මැලිබන් වීදියේ ගොඩනැගිල්ලක ගින්නක්
+
+*2024-10-08 13:39:14* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුව---මැලිබන්-වීදියේ-ගොඩනැගිල්ලක-ගින්නක්/11-412369) · `si`
+
+◼️
+
+[Data](articles/a06e6fe1.json)
 
 ---
 
@@ -1312,6 +1368,34 @@ The delegation is held at the Colombo Police morgue and the Maradana Police are 
 
 ---
 
+### කාන්තා T20 ක්‍රිකට් ලෝක කුසලානය: වාර්තාගත උඩපන්දු ගිලිහී යාමට හේතුව කුමක් ද?
+
+*2024-10-08 07:23:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20jzpwrww1o) · `si`
+
+කාන්තා T20 ක්‍රිකට් ලෝක කුසලානය: වාර්තාගත උඩපන්දු ගිලිහී යාමට හේතුව කුමක් ද?
+
+මේ වන විට එක්සත් අරාබි එමීර් රාජ්‍යයේ පැවැත්වෙන කාන්තා T20 ක්‍රිකට් ලෝක කුසලාන තරගාවලියේ සිදුවෙමින් පවතින විස්මිත ප්‍රවණතාවක් පිළිබඳව ක්‍රීඩා ලෝලීන්ගේ අවධානය යොමු වී තිබේ.
+
+ඒ, උඩපන්දු ගිලිහී යාමේ විස්මිත ආකාරයේ ප්‍රවණතාවක් මතුව තිබීම පිළිබඳව ය.
+
+ඔක්තෝබර් 6 වන දා වන විට තරගාවලියේ එතෙක් පැවති තරගවලදී උඩපන්දු 62ක් රැකගෙන තිබුණු අතර ගිලිහී ගිය උඩපන්දු සංඛ්‍යාව 35කි.
+
+ඇතැම් උඩපන්දු රැක ගැනීමට අසීරු තත්ත්වයක පැවතිය ද, උඩපන්දු රැක ගැනීමේ සාමාන්‍යය නම් සැලකිය යුතු ලෙස පහළ මට්ටමක පවතී.
+
+2023 වසරේ මෙම තරගාවලියේදී උඩපන්දු 50ක් රැක ගත් අතර, 11ක් ගිලිහී ගොස් තිබිණි. එහි උඩපන්දු රැක ගැනීමේ සාමාන්‍යය 82%ක් විය.
+
+2020 වසරේ තරගාවලියේදී උඩපන්දු 48ක් රැකගෙන 6ක් ගිලිහී ගියේ ය. එහි සාමාන්‍යය 89%කි.
+
+2018 වසරේ තරගාවලිය තුළ ද උඩපන්දු රැක ගැනීමේ සාමාන්‍යය 85%ක් ලෙස පැවතිණි.
+
+සිවිල් නොසන්සුන්තාවන් හේතුවෙන් 2024 කාන්තා T20 ලෝක කුසලාන තරගාවලිය කෙටි දැනුම්දීමකින් බංග්ලාදේශයේ සිට එක්සත් අරාබි එමීර් රාජ්‍යය වෙත ගෙන යන ලදී.
+
+...
+
+[Data](articles/cf81c0bd.json)
+
+---
+
 ### Lock for a track on the Katunayake Highway
 
 *2024-10-08 07:03:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டுநாயக்க-நெடுஞ்சாலையின்-ஒரு-பாதைக்கு-பூட்டு/175-345064) · `ta`
@@ -2107,125 +2191,5 @@ When asked about the benefits of appointing a local coach over a foreign one, Ja
 [Data](articles/b78bef42.json)
 
 [Extended Data](ext_articles/b78bef42.ext.json)
-
----
-
-### Law against tax evictions
-
-*2024-10-07 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201935) · `si`
-
-Here's a 200-character summary:
-
-
-
-Department of Inland Revenue warns taxpayers: Maximum measures to recover unpaid taxes before year-end. Officials can freeze bank accounts and seize properties. Verify officer identities; never accept cash payments.
-
-🟩
-
-The Department of Inland Revenue states that there is a maximum measures to recover the deficit taxes due before the end of this year and to ban their bank accounts and take over their bank accounts as well as to take over property.
-
-Deputy Commissioner General of the Department of Inland Revenue, has been made to the media. M. N. S. B. Mr. Dissanayake made this statement.
-
-However, he asked the people to inform the people to verify the identity of the officers who visit the officers who visit the officials to be charged.
-
-"Our officials from today to premises to premise taxes. Identify those officers who. They should wear the identity card of our department. Never accepts checks or money or anything.  ඒ නිලධාරීන් හැමවිටම උපදෙස් දිය යුත්තේ දේශීය ආදායම් දෙපාර්තමේන්තුවේ පවතින දේශීය ආදායම් කොමසාරිස් ජනරාල්ගේ ගිණුමට අදාළ හිඟ බදු ගෙවා කටයුතු කරන ලෙස.
-
-Before the end of this year, you will take maximum action to recover. We have the power to ban bank accounts, even to take over the property. "
-
-◼️
-
-[Data](articles/d0d03e3d.json)
-
-[Extended Data](ext_articles/d0d03e3d.ext.json)
-
----
-
-### ADB delegation meets President Dissanayake, pledges continued support for Sri Lanka’s economic development
-
-*2024-10-07 22:16:00* · [`islandlk`](http://island.lk/adb-delegation-meets-president-dissanayake-pledges-continued-support-for-sri-lankas-economic-development/) · `en`
-
-The Country Director of the Asian Development Bank (ADB) Resident Mission in Sri Lanka, Takafumi Kadono, along with a delegation, met President Anura Kumara Dissanayake today (07) at the Presidential Secretariat.
-
-During the discussion, which focused on ADB’s ongoing commitment to support Sri Lanka’s economic and social development, the ADB reaffirmed its dedication to continuing its projects in Sri Lanka, with particular emphasis on bolstering key sectors crucial to the nation’s recovery. Tourism was identified as a critical sector that holds immense potential for Sri Lanka’s economic growth. In this regard, the ADB assured further assistance in developing tourism infrastructure to harness the sector’s full potential.
-
-President Dissanayake highlighted the importance of promoting tourism in the Northern Region, requesting ADB’s specific support to develop this area. The ADB delegation expressed its willingness to collaborate and provide resources for this initiative.
-
-...
-
-[Data](articles/d196129e.json)
-
-[Extended Data](ext_articles/d196129e.ext.json)
-
----
-
-### More than 100 millimeters of rain;Landslides alert in many places!
-
-*2024-10-07 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/195720) · `ta`
-
-Heavy rainfall (100+ mm) forecasted in Western, Sabaragamuwa, North Western Provinces and districts. Thunderstorms may bring strong winds and lightning. Landslide warnings issued for Galle and Matara. First-level warning for Kegalle district in next 24 hours.
-
-🟩
-
-The Department of Meteorology has said that more than 100 millimeters of heavy rainfall is expected in some places in the Western, Sabaragamuwa and North Western Provinces, Galle, Matara, Kandy and Nuwara Eliya districts.
-
-When thunderstorms are raining, temporary strong winds may blow in those areas. In addition, the department further stated that there is a high likelihood of heavy lightning.
-
-The Department of Meteorology is urging the people to take necessary steps to reduce accidents caused by lightning.
-
-It has also been stated that the 2nd level of landslides have been issued in Galle and Matara districts.
-
-It is noteworthy that in the next 24 hours, the first level warning was issued for the Kegalle area.
-
-◼️
-
-[Data](articles/35e1e5fb.json)
-
-[Extended Data](ext_articles/35e1e5fb.ext.json)
-
----
-
-### A warning of landslides for some areas
-
-*2024-10-07 21:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளுக்கு-மண்சரிவு-அபாய-எச்சரிக்கை/175-345057) · `ta`
-
-Heavy rains trigger landslide warnings in Galle and Kalutara districts. NBRO advises residents to be cautious and prepared.
-
-🟩
-
-Due to heavy rains, the National Building Research Institute (NBRO) has issued a secondary landslide warning to Galle and Kalutara districts.
-
-Residents in the affected areas are advised to be vigilant and take necessary precautions. Remble
-
-◼️
-
-[Data](articles/303dd5bc.json)
-
-[Extended Data](ext_articles/303dd5bc.ext.json)
-
----
-
-### Jeep discovery of the politician
-
-*2024-10-07 21:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்வாதிக்கு-சொந்தமான-ஜீப்-கண்டுபிடிப்பு/175-345056) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Luxury Jeep discovered hidden in private power plant complex. Suspected owned by high-ranking politician in Badulla-Lunugala area. Vehicle had license plates from a small car registered in Jaffna.
-
-🟩
-
-A luxury jeep, suspected of belonging to a high -ranking politician in the Badulla - Lunugala area, has been found by police.
-
-The jeep was found hidden in the private power plant complex.
-
-It is worth noting that the digit plates of a small car registered for a living in Jaffna. Remble
-
-◼️
-
-[Data](articles/33f616ad.json)
-
-[Extended Data](ext_articles/33f616ad.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 11:10:26**
+As of **2024-10-08 11:23:01**
 
 ## Newspaper Stats
 
-*Scraped **48,335** Articles*
+*Scraped **48,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ colombotelegraphcom | 478
 islandlk | 2,860
 economynextcom | 2,954
 dailyftlk | 3,267
-adalk | 4,470
+adalk | 4,471
 dailymirrorlk | 4,733
 adaderanalk | 5,694
 tamilmirrorlk | 6,542
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,360
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,335 (100.0%) of 48,335 articles have been extended.
+48,336 (100.0%) of 48,336 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -543,6 +543,32 @@ Accordingly, the Supreme Court has granted permission to be heard and resign fro
 [Data](articles/a0ce5bd0.json)
 
 [Extended Data](ext_articles/a0ce5bd0.ext.json)
+
+---
+
+### Student and Student with the student and student from the GKU
+
+*2024-10-08 07:47:04* · [`adalk`](https://www.ada.lk/breaking_news/අල්ටෙයාර්-කුලු‍නෙන්-පැන්න-සිසුවා-හා-සිසුවිය-හා-නෙලුම්-කුලු‍නෙන්-පැන්න-සිසුවිය-මිතුරන්/11-412360) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Student commits suicide on 29th floor of Colombo Nelum Tower. Police investigate. Student reportedly struggled with depression after friend's similar suicide in Slave Island. Incident occurs in Kollupitiya, Colombo.
+
+🟩
+
+Police have commissioned the student who had committed suicide by the 29th floor of the Colombo Nelum Tower.
+
+Mes died in Kollupitiya, Kollupitiya, Colombo.
+
+The student also said that the student and a friend of the students and the student who had suffered suicide by the Slave Island Altar a few months ago and had suffered depression.
+
+◼️
+
+[Data](articles/12fd7b64.json)
+
+[Extended Data](ext_articles/12fd7b64.ext.json)
 
 ---
 
@@ -2213,35 +2239,5 @@ The suspect was conducted by Roshan murder on 25.12.2012, police said.
 [Data](articles/0f726542.json)
 
 [Extended Data](ext_articles/0f726542.ext.json)
-
----
-
-### Surya starring 'Surya 44'
-
-*2024-10-07 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195714) · `ta`
-
-"Surya 44" film update: Shooting complete, stars Surya, Pooja Hegde, Jayaram. Directed by Karthik Subburaj, produced by Stone Bench Films & 2D Entertainment. Scheduled release next year. Surya's "Gangua" releasing November 14 in multiple Indian languages.
-
-🟩
-
-The film crew has been enthusiastically announced that the shooting of the unnamed film starring the hero of the Tamil film industry, Surya, who is the hero of the story.
-
-Director and producer Karthik Subburaj starred in the upcoming film 'Surya 44', Surya, Pooja Hegde, Jayaram, Joju George, Karunakaran, Nasser, Sujit Shankar, Tamil, Prem Kumar, Rams, Ramya Suresh. Actress Shreya Saran has danced exclusively for a song.
-
-The film is being produced by Stone Bench Bench Films and 2D Entertainment Companies, which is ready for gangster background entertainer.
-
-The film crew has announced a special photo that the shooting of the film has been completed in several stages.
-
-The film crew released a special video on the film on Surya's birthday.
-
-The film crew said the film is scheduled to be released next year.
-
-Meanwhile, Surya's starring 'Gangua' will be released in a number of Indian languages ​​including Tamil, Telugu, Malayalam, Kannada, Hindi and Bengal on the 14th of November.
-
-◼️
-
-[Data](articles/f21b0dbf.json)
-
-[Extended Data](ext_articles/f21b0dbf.ext.json)
 
 ---

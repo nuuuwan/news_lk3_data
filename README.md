@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-08 11:39:36**
+As of **2024-10-08 11:58:59**
 
 ## Newspaper Stats
 
-*Scraped **48,341** Articles*
+*Scraped **48,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,267
 adalk | 4,472
 dailymirrorlk | 4,733
 adaderanalk | 5,695
-tamilmirrorlk | 6,544
+tamilmirrorlk | 6,547
 virakesarilk | 7,738
 adaderanasinhalalk | 8,361
 
@@ -26,27 +26,79 @@ adaderanasinhalalk | 8,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,336 (100.0%) of 48,341 articles have been extended.
+48,344 (100.0%) of 48,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-08 (Tuesday)
 
-### රජයේ රාජ්‍ය තාන්ත්‍රික ප්‍රතිපත්තිය ගැන කැබිනට් ප්‍රකාශක පැහැදිලි කරයි
+### Resignation
+
+*2024-10-08 11:27:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-கா-சிவலிங்கம்-இராஜினாமா/76-345080) · `ta`
+
+Here's a summary of the resignation in 200 characters:
+
+
+
+Vice President Arumugam Sivalingam resigns from Ceylon Workers Congress and party membership.
+
+🟩
+
+Arumugam Sivalingam, the Vice President of the Ceylon Workers Congress and former member of the Uva Provincial Council, has sent a letter to the party's leadership, saying he would quit the vice president and the party's basic membership.
+
+◼️
+
+[Data](articles/7787e31d.json)
+
+[Extended Data](ext_articles/7787e31d.ext.json)
+
+---
+
+### Let's see some pages: Vijitha says the investigation
+
+*2024-10-08 11:24:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பக்கங்களை-காணோம்-விசாரணை-என்கிறார்-விஜித/175-345079) · `ta`
+
+Government investigates missing Pages of Special Presidential Commission report on Easter Sunday bombings. Minister Vijitha Herath announces ongoing probe, results expected soon. Inquiry aims to determine cause of disappearance and verify report integrity.
+
+🟩
+
+Minister Vijitha Herath said on Wednesday that the government had begun investigations into the alleged disappearance of the Pages of the Special Presidential Commission on Easter Sunday bombings.
+
+Speaking at a weekly conference announcing the Cabinet decisions, he said the results of the hearing will be released soon.
+
+Investigations will find out how the pages disappeared and whether all the sides remain in the report submitted to the President.
+
+◼️
+
+[Data](articles/dceea403.json)
+
+[Extended Data](ext_articles/dceea403.ext.json)
+
+---
+
+### Cabinet spokesman explains about government diplomatic policy
 
 *2024-10-08 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201946) · `si`
 
-රාජ්‍ය තාන්ත්‍රික සම්බන්ධතාවලදී රජය හැම රටක් සමගම සමබරව කටයුතු කරන බව කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+Sri Lanka maintains balanced diplomacy with China, India, US, Cuba, Vietnam. Approves Chinese warship visit, solar panel project, military training. Considers no single nation over others in foreign relations.
 
-කැබිනට් තීරණ දැනුම්දීම මාධ්‍ය හමුවට එක්වෙමින් ඒ මහතා පැවසුවේ, "ඉන්දියාව එක්ක ගනුදෙනු කරනවා වගේම චීනය එක්කත් අපි ගනුදෙනු කරනවා," යනුවෙනි.
+🟩
 
-ඔහු තවදුරටත් පැවසුවේ චීන යුද පුහුණු නැවක් සඳහා ශ්‍රී ලංකාවට පැමිණීමට රජය විසින් අවසර ලබාදුන් බවයි.
+Cabinet spokesman Vijitha Herath says that the government is balanced with every country in diplomatic relations.
 
-එම නෞකාව මෙම මාසයේදී මෙරටට් පැමිණීමට නියමිත බව අමාත්‍යවරයා පැවසීය.
+Addressing the Cabinet Decision
 
-...
+He further stated that the government granted permission from the government to visit Sri Lanka for a Chinese war.
+
+The ship is due this to arrive this month.
+
+"We don't really consider any country. Sri Lanka has diplomatic relations with all these countries. We have diplomatic relations with China and China with China and India, USA, Cuba, and Vietnam. We deal with India and also deal with China. China has a project to provide sola panels for temples. We intervene for it. Chinese military training ark begins to Sri Lanka. We have given permission for that. It is not harming any security. Americans, Indian, German war exercises have come. In such diplomatic relations, we will be balanced with every country ... "
+
+◼️
 
 [Data](articles/6c749d48.json)
+
+[Extended Data](ext_articles/6c749d48.ext.json)
 
 ---
 
@@ -64,51 +116,97 @@ Accordingly, the Cabinet of Ministers has approved the proposal presented by the
 
 [Data](articles/8e4a0583.json)
 
+[Extended Data](ext_articles/8e4a0583.ext.json)
+
 ---
 
-### கலால் திணைக்களத்திற்கு புதிய ஆணையாளர் நாயகம்
+### New Commissioner to Excise
+
+*2024-10-08 11:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாலுக்கு-புதிய-ஆணையாளர்/175-345078) · `ta`
+
+Cabinet approves new Excise Commissioner. JM Gunasiri sacked. New appointee from Presidential Secretariat. Key role in government revenue collection.
+
+🟩
+
+The Cabinet has approved the appointment of the new Commissioner General in the immediate implementation of the Department of Excise.
+
+The Cabinet Motion was approved by the President as the Minister of Finance, Economic Development, Policy Creation, Planning and Tourism.
+
+The President has approved the sacking of JM Gunasiri, who recently served as the Commissioner General of Excise on a contract basis.
+
+The Sri Lanka Excise Department is the main income collection agent of the government and directly affects the revenue and goodwill government of the department.
+
+New Commissioner General. He is currently serving as the Additional Secretary of the Presidential Secretariat (Agency Coordination II).
+
+◼️
+
+[Data](articles/236dee54.json)
+
+[Extended Data](ext_articles/236dee54.ext.json)
+
+---
+
+### New Commissioner General for the Department of Excise
 
 *2024-10-08 11:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-திணைக்களத்திற்கு-புதிய-ஆணையாளர்-நாயகம்/175-345078) · `ta`
 
-கலால் திணைக்களத்திற்கு உடனடியாக அமுலுக்கு வரும் வகையில் புதிய ஆணையாளர் நாயகத்தை நியமிப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+Cabinet approves new Commissioner General for Excise Department. JM Gunasiri sacked. New appointee serves as Additional Secretary of Presidential Secretariat. Excise Department crucial for government revenue and reputation.
 
-நிதி, பொருளாதார அபிவிருத்தி, கொள்கை உருவாக்கம், திட்டமிடல் மற்றும் சுற்றுலாத்துறை அமைச்சர் என்ற வகையில் அமைச்சரவைப் பிரேரணை ஜனாதிபதியினால் அங்கீகரிக்கப்பட்டது.
+🟩
 
-அண்மையில் ஒப்பந்த அடிப்படையில் கலால் ஆணையாளர் நாயகமாக கடமையாற்றிய ஜே.எம்.குணசிறியின் சேவையை உடனடியாக அமுலுக்கு வரும் வகையில் பதவி நீக்கம் செய்வதற்கு ஜனாதிபதி அனுமதியளித்துள்ளார்.
+The Cabinet has approved the appointment of the new Commissioner General in the immediate implementation of the Department of Excise.
 
-இலங்கை கலால் திணைக்களம் அரசாங்கத்தின் பிரதான வருமான சேகரிப்பு முகவர் என்பதுடன் இத்திணைக்களத்தின் வினைத்திறன் மற்றும் நல்லாட்சி அரசாங்கத்தின் வருவாயை நேரடியாக பாதிக்கிறது.
+The Cabinet Motion was approved by the President as the Minister of Finance, Economic Development, Policy Creation, Planning and Tourism.
 
-புதிய ஆணையாளர் நாயகம் யு.டி.என் ஜயவீர உள்நாட்டு இறைவரி சேவையின் விசேட தர அதிகாரி ஆவார். அவர் தற்போது ஜனாதிபதி செயலகத்தின் மேலதிக செயலாளராக (ஏஜென்சி ஒருங்கிணைப்பு II) கடமையாற்றி வருகிறார்.
+The President has approved the sacking of JM Gunasiri, who recently served as the Commissioner General of Excise on a contract basis.
+
+The Sri Lanka Excise Department is the main income collection agent of the government and directly affects the revenue and goodwill government of the department.
+
+New Commissioner General. He is currently serving as the Additional Secretary of the Presidential Secretariat (Agency Coordination II).
 
 ◼️
 
 [Data](articles/2fa1fbd9.json)
 
+[Extended Data](ext_articles/2fa1fbd9.ext.json)
+
 ---
 
-### සංචිතය ඉහළට
+### The squad up
 
 *2024-10-08 10:59:36* · [`adalk`](https://www.ada.lk/breaking_news/සංචිතය-ඉහළට/11-412361) · `si`
 
-2024 සැප්තැම්බර් මාසය අවසානයේ දී මහ බැංකුව සතු නිල  සංචිතය ඩොලර් මිලියන 5,992 ක් දක්වා වර්ධනය වී තිබේ.  මෙය 2024 අගෝස්තු මාසය අවසානයේ පැවති ඩොලර් මිලියන 5,959 ක් වූ සංචිත ප්‍රමාණය හා සැසඳීමේ දී 0.5% ක ඉහළ යාමකි.
+Central Bank's official reserves increased from $5,959 million in August 2024 to $5,992 million in September 2024, representing a 0.5% growth.
+
+🟩
+
+At the end of September 2024, the Central Bank's official squad grew to US $ 5,992 million.This is 0.5% increase in the quantity of $ 5,959 million in August 2024.
 
 ◼️
 
 [Data](articles/c9ba6c2b.json)
 
+[Extended Data](ext_articles/c9ba6c2b.ext.json)
+
 ---
 
-### மஹிந்த போட்டியிடுவாரா?
+### Will Mahinda compete?
 
 *2024-10-08 10:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-போட்டியிடுவாரா/175-345077) · `ta`
 
-எதிர்வரும் பாராளுமன்றத் தேர்தலில் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ச போட்டியிடுவாரா இ்ல்லையா என்பது குறித்து அவரின் முடிவிற்காக ஸ்ரீலங்கா பொதுஜன  பெரமுன காத்திருப்பதாக தெரிவிக்கபடுகிறது.
+Mahinda Rajapaksa may contest Sri Lanka parliamentary election. Party awaits his decision within days.
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பொதுச் செயலாளர் சாகர காரியவசம் ஊடகவியலாளர்களிடம் கருத்து தெரிவிக்கையில், அடுத்த சில நாட்களுக்குள் ராஜபக்ச தனது முடிவை எடுப்பார் என கட்சி எதிர்பார்ப்பதுடன், அது அறிவிக்கப்பட்டவுடன் அதன்படி செயல்படுவோம் எனவும் கூறினார்.
+🟩
+
+It is reported that the Sri Lanka PA is waiting for his decision on whether former President Mahinda Rajapaksa will contest the upcoming parliamentary election.
+
+Sakara Kariyawasam, General Secretary of the Sri Lanka PA, told the journalists that the party would expect that Rajapakse would make his decision within the next few days and that it would act accordingly.
 
 ◼️
 
 [Data](articles/918ba59b.json)
+
+[Extended Data](ext_articles/918ba59b.ext.json)
 
 ---
 
@@ -1394,6 +1492,8 @@ Top-performing tyre dealers who exceeded their targets for the sale of truck and
 
 A total of 31 dealers qualified for the tour. Participants including dealers and representatives of CEAT’s Sales & Marketing Division along with members of the senior management of CEAT spent four days in Pattaya and Bangkok celebrating the sales achievements for the specified period – February to April 2024.
 
+Hotel Emporium CEO recognised at inaugural World Sustainable Travel & Hospitality Awards
+
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
 Save my name, email, and website in this browser for the next time I comment.
@@ -2117,65 +2217,5 @@ In addition, voters who cannot visit with a assistant are also facilitated to id
 [Data](articles/9a514b80.json)
 
 [Extended Data](ext_articles/9a514b80.ext.json)
-
----
-
-### Why Does The JVP Need The Support Of Monks?
-
-*2024-10-07 18:11:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-does-the-jvp-need-the-support-of-monks/) · `en`
-
-A significant portion of Sinhala-Buddhists, including monks, supported the JVP-led National People’s Power (NPP) in the recent September 2024 presidential election. The results indicate that the JVP captured a considerable share of votes from Mahinda Rajapaksa’s traditional Sinhala-Buddhist base. Emerging in the late 1960s as a radical leftist political entity, the JVP initially advocated for social justice and anti-imperialism. Over time, however, socio-political dynamics among Sinhala-Buddhists shaped the party’s ideology and its relationship with the Buddhist clergy. This commentary examines the interaction between the JVP, Buddhist monks, and Sinhala-Buddhist hegemony, highlighting their mutual influence on Sri Lanka’s political landscape.
-
-...
-
-[Data](articles/644ebe08.json)
-
-[Extended Data](ext_articles/644ebe08.ext.json)
-
----
-
-### DG resigns in Bribery or Corruption
-
-*2024-10-07 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201931) · `si`
-
-Director General resigns amid bribery allegations. Supreme Court case challenges appointment. Resignation accepted. Transparency International and activists involved.
-
-🟩
-
-Director General of Bribery or Corruption Commission. His lawyers have informed the Supreme Court today that Wijeratne resigns his post.
-
-This was made informed when the Bureau of Bribery or Corruption Commission was challenging the appointment of the Commission.
-
-The petition was called before the Supreme Court Judge Mrs. Dr. Surasena, Kumuduni Wickramasinghe and Janakamuwa.
-
-The President's Counsel Uditha Iganahewa, who appeared in behalf of the Director General of the respondent, he decided to resign from the post of Director General of Bribery Commission.
-
-When inquired by court, the President's Counsel said he would hand over his resignation to the President at 3.00 pm.
-
-Accordingly, the Supreme Court granted permission from the Supreme Court and resign from the resignation of the respondents, and the parties said in court.
-
-The petitions were presented by the Transparency International Sri Lanka, a social activist, and journalists, journalists.
-
-...
-
-[Data](articles/b7c4cdaa.json)
-
-[Extended Data](ext_articles/b7c4cdaa.ext.json)
-
----
-
-### Bribery Commission DG gives undertaking to resign
-
-*2024-10-07 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102513/bribery-commission-dg-gives-undertaking-to-resign-) · `en`
-
-The Director General of the Commission to Investigate Allegations against Bribery or Corruption (CIABOC) Kanishka Wijeratne today (07) gave undertaking to the Supreme Court to resign from office.
-
-This was after the court granted leave to proceed with three Fundamental Rights (FR) applications filed challenging his appointment as the Director General of the Bribery Commission.
-
-◼️
-
-[Data](articles/e9c087f2.json)
-
-[Extended Data](ext_articles/e9c087f2.ext.json)
 
 ---

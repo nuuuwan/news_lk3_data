@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 00:13:04**
+As of **2024-10-09 00:23:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,449 (100.0%) of 48,455 articles have been extended.
+48,455 (100.0%) of 48,455 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1100,6 +1100,8 @@ Meanwhile, the central bank announced it would be offering 95,000 million rupees
 
 [Data](articles/9e3ad0ed.json)
 
+[Extended Data](ext_articles/9e3ad0ed.ext.json)
+
 ---
 
 ### 2024 General Election: Deadline for postal voting applications extended
@@ -1243,6 +1245,8 @@ Top foreign selling was seen in Commercial Bank, John Keells Hotels (flat at 17.
 ◼️
 
 [Data](articles/366b15e6.json)
+
+[Extended Data](ext_articles/366b15e6.ext.json)
 
 ---
 
@@ -1642,6 +1646,8 @@ He has a PhD in Finance, Japan (MONBUSHO Scholarship), 2006 MSc in Management, U
 
 [Data](articles/89ef8f65.json)
 
+[Extended Data](ext_articles/89ef8f65.ext.json)
+
 ---
 
 ### Greeting Joe Bidan
@@ -1883,6 +1889,8 @@ Fitch Ratings – Colombo – 04 Oct 2024: Fitch Ratings has affirmed Citizens D
 ...
 
 [Data](articles/302b47a7.json)
+
+[Extended Data](ext_articles/302b47a7.ext.json)
 
 ---
 
@@ -2183,6 +2191,8 @@ Sri Lanka approved a negotiated a feed in tarrif of 8.26 cents per unit for the 
 ...
 
 [Data](articles/3bf44ec3.json)
+
+[Extended Data](ext_articles/3bf44ec3.ext.json)
 
 ---
 

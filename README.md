@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 17:40:15**
+As of **2024-10-09 17:59:58**
 
 ## Newspaper Stats
 
-*Scraped **48,599** Articles*
+*Scraped **48,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 4,508
 dailymirrorlk | 4,733
 adaderanalk | 5,735
 tamilmirrorlk | 6,594
-virakesarilk | 7,768
+virakesarilk | 7,775
 adaderanasinhalalk | 8,406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,599 (100.0%) of 48,599 articles have been extended.
+48,599 (100.0%) of 48,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### சுயேட்சை சின்னமாக இருந்த சங்கு சின்னம் தற்போது கட்சியின் சின்னமாக மாற்றப்பட்டிருக்கின்றது – சிறிநேசன் ஆதங்கம்
+
+*2024-10-09 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/195860) · `ta`
+
+ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளராக பா.அரியநேத்திரன் சங்கு சின்னத்தில் தமிழ் மக்களின் ஒற்றுமை கருதி போட்டியிட்டிருந்தார். ஆனால் தற்போது  ஜனநாயக தமிழ் தேசிய கூட்டமைப்பின் சின்னமாக சங்கு சின்னம் அமைந்துள்ளதாக  இலங்கைத் தமிழரசுக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஞானமுத்து சிறிநேசன் தெரிவித்தார்.
+
+மக்கள் தற்போது தெளிவாக விளங்கிக் கொள்ள வேண்டும். தமிழ் பொதுமக்கள் சபையானது ஜனாதிபதி தேர்தலின் போது சுயேச்சை சின்னமாகதான் சங்கு சின்னம் அமைந்துள்ளது. இப்போது அந்த சங்கு சின்னம் என்பது ஒரு கட்சியின் சின்னமாக மாற்றப்பட்டிருக்கின்றது.  அதாவது ஜனநாயகம் தமிழ் தேசிய கூட்டமைப்பானது தனது குத்து விளக்கு சின்னத்தை விட்டு விட்டு சங்கு சின்னத்தை எடுத்திருக்கின்றனர்.
+
+இந்த பொதுமக்கள் சபை சார்பாக நிறுத்தப்பட்ட அந்த தமிழ் வேட்பாளருக்கு ஒரு பகுதியினர் ஆதரவு அளித்தனர். இன்னுமொரு பகுதியில் இந்த தொலைபேசி சின்னத்தில் போட்டியிட்டு ஐக்கிய மக்கள் சக்தியை வேட்பாளருக்கு ஆதரவளித்திருந்தனர்.
+
+...
+
+[Data](articles/c383b354.json)
+
+---
+
+### சுப்பர் ஸ்டாரின் 'வேட்டையன்' படத்தை பட மாளிகையில் சென்று ரசிப்பதற்கான காரணங்கள்...!?
+
+*2024-10-09 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195868) · `ta`
+
+சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் தயாராகி ஒக்டோபர் பத்தாம் திகதி முதல் அதாவது நாளை முதல் உலகம் முழுவதும் பட மாளிகைகளில் தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளில் வெளியாகும் திரைப்படம் 'வேட்டையன்'. இந்த திரைப்படத்தினை முதல் நாள் முதல் காட்சி சென்று பார்ப்பதற்கு சுப்பர் ஸ்டாரின் ரசிகர்கள் மட்டுமல்லாமல் திரையுலக ஆர்வலர்களும் ஆர்வமாய் இருக்கிறார்கள். இதற்கான காரணத்தை கீழே காணலாம்.
+
+சுப்பர் ஸ்டார் ரஜினிகாந்த் - 70 வயதைக் கடந்திருந்தாலும் இன்றும் கதையின் நாயகனாக நடிப்பதிலும்.. அதிலும் தன்னுடைய பிரத்யேக உடல் மொழி -உரையாடல் - உச்சரிப்பு ஆகியவற்றின் அவருக்கே உரிய வேகத்தை காட்டி நடித்திருப்பது முதன்மையான காரணம்.
+
+அவர் எந்த கதாபாத்திரத்தை ஏற்று நடித்தாலும் அதில் தன்னுடைய தனித்துவமான ஸ்டைலை புகுத்தி, அந்த கதாபாத்திரத்தை ரசிக்க வைப்பார். அதிலும் அவர் காவல்துறை அதிகாரி  வேடத்தை ஏற்று நடிக்கும் போது கம்பீரத்துடன் கூடிய தோற்றமும், அந்த கதாபாத்திரத்திற்கே உரிய வேகமும் ரசிகர்களை கவரும் வகையில் வடிவமைத்துக்கொண்டு நடிப்பார். அதை 'வேட்டையன்' படத்திலும் காணலாம் என்பதால் இதுவும் ஒரு காரணம்.
+
+...
+
+[Data](articles/b95819bf.json)
+
+---
+
+### எழுத்தையும், எழுத்தாளரையும் கொண்டாடும் 'ஆலன்' திரைப்படம் வெற்றி பெறுமா...!?
+
+*2024-10-09 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195870) · `ta`
+
+தமிழ் திரையுலகில் ரசிகர்களைக் கவர்ந்த ஏராளமான கதாபாத்திரங்களில் எழுத்தாளர் கதாபாத்திரமும் ஒன்று. எழுத்தாளராக கதையின் நாயகன் நடிக்கும்போது அதற்கான உச்சகட்ட காட்சி எப்போதும் பார்வையாளர்கள் எளிதில் யூகிக்காத வகையில் அமைக்கப்பட்டிருக்கும். இப்படி பல படங்கள் வெளியாகி வெற்றியும் பெற்றிருக்கிறது.
+
+தோல்வியையும் தழுவி இருக்கிறது. அதே தருணத்தில் எழுத்தாளர் கதாபாத்திரத்தை நகைச்சுவைக்காக உருவாக்கி அதில் 90 சதவீதத்திற்கு மேல் வெற்றியும் பெற்றிருக்கிறார்கள்.
+
+இந்நிலையில் சிறிய இடைவெளிக்குப் பிறகு, தன்னுடைய வாழ்க்கை எழுத்துகளாலும், புத்தகங்களை வாசித்தாலும் தான் மாற்றம் பெற்றது என்பதை பொதுவெளியில் உறுதியாக கூறும் சிங்கப்பூரை சேர்ந்த தொழிலதிபர் ஆர் . சிவா - எழுத்தையும், எழுத்தாளர்களையும் கொண்டாடும் வகையில் 'ஆலன்' என்றொரு திரைப்படத்தை உருவாக்கி இருக்கிறார்.
+
+...
+
+[Data](articles/ec7e36bd.json)
+
+---
 
 ### Sri Lanka is named Sri Lanka 20 squad
 
@@ -80,6 +128,40 @@ The police media division has issued an announcement on the 6th of October and t
 
 ---
 
+### ஜம்மு காஷ்மீர் யூனியன் பிரதேசத்திற்கான தேர்தலில் இந்தியா கூட்டணி வெற்றி
+
+*2024-10-09 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195864) · `ta`
+
+90 சட்டப்பேரவை தொகுதிகளை கொண்ட ஜம்மு & காஷ்மீர் யூனியன் பிரதேசத்திற்காக நடைபெற்ற தேர்தலில் இந்தியா கூட்டணி வெற்றி பெற்று ஆட்சி அமைக்கிறது.
+
+ஜம்மு  காஷ்மீர் யூனியன் பிரதேசத்திற்கு மூன்று கட்டங்களாக தேர்தல் நடைபெற்றது. தேர்தலில் பதிவான வாக்குகளை எண்ணும் பணி ஒக்டோபர் எட்டாம் திகதியன்று நடைபெற்றது. இதைத்தொடர்ந்து தேர்தல் முடிவுகள் அறிவிக்கப்பட்டன.
+
+தேசிய மாநாட்டு கட்சி 42 இடங்களிலும், பாரதிய ஜனதா கட்சி 29 இடங்களிலும், இந்திய தேசிய காங்கிரஸ் கட்சி ஆறு இடங்களிலும், ஜம்மு காஷ்மீர் மக்கள் ஜனநாயகக் கட்சி மூன்று இடங்களிலும் , ஜம்மு காஷ்மீர் மக்கள் கட்சி ஒரு இடத்திலும், இந்திய மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி ஒரு இடத்திலும்,  ஆம் ஆத்மி கட்சி ஒரு இடத்திலும், ஏழு இடங்களில் சுயேட்சை உறுப்பினர்களும் வெற்றி பெற்று இருக்கிறார்கள்.
+
+இந்தியா கூட்டணி சார்பில் போட்டியிட்ட தேசிய மாநாடு கட்சி 42 இடங்களிலும், காங்கிரஸ் கட்சி ஆறு இடங்களிலும் வென்றிருக்கிறார்கள். இதனால் இந்த கூட்டணி ஆட்சியை அமைக்கிறது. இந்த கூட்டணியின் சார்பில் முன்னாள் முதல்வர் உமர் அப்துல்லா முதல்வராக பதவி ஏற்பார் என தகவல்கள் வெளியாகி இருக்கிறது.
+
+...
+
+[Data](articles/b83f64a8.json)
+
+---
+
+### ஹரியானாவில் மூன்றாவது முறையாக ஆட்சி அமைக்கிறது பாரதிய ஜனதா கட்சி
+
+*2024-10-09 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195861) · `ta`
+
+வட இந்திய மாநிலங்களில் ஒன்றான ஹரியானா மாநிலத்தில் நடைபெற்ற சட்டப்பேரவை தேர்தலில் பாரதிய ஜனதா கட்சி வெற்றி பெற்று மூன்றாவது முறையாக ஆட்சி அமைக்கிறது.
+
+கடந்த ஒக்டோபர் மாதம் ஐந்தாம் திகதி அன்று ஹரியானா மாநிலத்திற்கு ஒரே கட்டமாக மொத்தமுள்ள 90 தொகுதிகளுக்கான சட்டப் பேரவை தேர்தல் நடைபெற்றது. தேர்தல் வாக்குப்பதிவு நிறைவடைந்த உடன் வெளியான கருத்துக் கணிப்பில் காங்கிரஸ் கட்சி ஆட்சியை கைப்பற்றும் என செய்தி வெளியானது. இதனால் காங்கிரஸ் கட்சியினர் உற்சாகமடைந்தனர். ஆனால் தேர்தல் முடிவுகள் வேறு விதமாக அமைந்திருந்தது.
+
+அதிகாரப்பூர்வமாக அறிவிக்கப்பட்ட முடிவின்படி பாரதிய ஜனதா கட்சி 48 இடங்களிலும், இந்திய தேசிய காங்கிரஸ் 37 இடங்களிலும், தேசிய லோக் தள் கட்சி இரண்டு இடங்களிலும், சுயேச்சைகள் மூன்று இடங்களிலும் வெற்றி பெற்று இருக்கிறார்கள். இதன் மூலம் பாரதிய ஜனதா கட்சி தொடர்ந்து மூன்றாவது முறையாக அறுதி பெரும்பான்மையுடன் வெற்றி பெற்று ஆட்சியை கைப்பற்றி இருக்கிறது.
+
+...
+
+[Data](articles/a4b5358f.json)
+
+---
+
 ### "The post office will not be delivered to anyone"
 
 *2024-10-09 16:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-நிலையம்-எவருக்கும்-வழங்கப்படாது/175-345167) · `ta`
@@ -101,6 +183,22 @@ We will only allocate this special building and its premises to the Postal Depar
 [Data](articles/87582d8a.json)
 
 [Extended Data](ext_articles/87582d8a.ext.json)
+
+---
+
+### இலங்கையின் கடினமான பயணத்திற்கு சர்வதேச சமூகம் ஆதரவளிக்க வேண்டும் - உலகத் தமிழர் பேரவை கோரிக்கை
+
+*2024-10-09 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195852) · `ta`
+
+இலங்கை பொறுப்புக்கூறலை நிறைவு செய்வதற்கான அர்த்தமுள்ள நீடிப்பை வழங்குவதோடு அதற்கான மேலதிக நடவடிக்கைகளுக்காக விடயத்துடன் தொடர்புடைய அனைத்து ஐ.நா அமைப்புகளுக்கும் உயர்ஸ்தானிகரின் அறிக்கையை அனுப்பவும் வலியுறுத்துகின்றோம் என்று உலத் தமிழர் பேரவை தெரிவித்துள்ளது.
+
+மனித உரிமைகள் பேரவையின் 57ஆவது அமர்வில், உயர்ஸ்தானிகர் வெளியிட்டுள்ள அறிக்கை உட்பட பொறுப்புக்கூறல் தொடர்பில் வெளியிட்டுள்ள ஊடக அறிக்கையிலேயே மேற்கண்டவாறு தெரிவித்துள்ளது.
+
+“இலங்கையில் மனித உரிமைகள் நிலை” என்ற தலைப்பில் ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டர்க் வெளியிட்ட அறிக்கையையும், அதனைத் தொடர்ந்து நடைபெற்ற உரையாடலையும் உலகத்தமிழர் பேரவை வரவேற்கிறது. இலங்கையில் பொறுப்புக்கூறல் மற்றும் நல்லிணக்கத்தை முன்னெடுப்பதற்கு தேசிய மற்றும் சர்வதேச நடவடிக்கைகளுக்கு அழைப்பு விடுப்பதோடு, நடந்துவரும் மனித உரிமை மீறல்களை குறித்து அறிக்கை எடுத்துக்காட்டுகிறது.
+
+...
+
+[Data](articles/84b6c5a8.json)
 
 ---
 
@@ -167,6 +265,20 @@ He said that he was only used under the Postal Department but participating at a
 [Data](articles/573c349a.json)
 
 [Extended Data](ext_articles/573c349a.ext.json)
+
+---
+
+### ஸ்ரீலங்கா பொதுஜன பெரமுனவில் யாழில் களமிறங்குகிறார் காசிலிங்கம்
+
+*2024-10-09 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195857) · `ta`
+
+எதிர்வரும் பொதுத் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தி யாழ்ப்பாண மாவட்டத்தில் ஜி. காசிலிங்கம் போட்டியிடுகிறார்.
+
+ஜி. காசிலிங்கம் வேட்புமனுவில் , முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ முன்னிலையில் இன்று புதன்கிழமை (09) கையொப்பமிட்டார்.
+
+◼️
+
+[Data](articles/bb0a059e.json)
 
 ---
 
@@ -977,6 +1089,36 @@ Meanwhile, the Elections Commission says that many foreign electorates have been
 [Data](articles/34b6718c.json)
 
 [Extended Data](ext_articles/34b6718c.ext.json)
+
+---
+
+### The impact of non -standard drugs and the need for the purchase law
+
+*2024-10-09 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195734) · `ta`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Non-standard drugs purchased during Sri Lanka's economic crisis caused permanent vision loss in patients. Compensation cases are ongoing. Experts call for transparency in pharmaceutical purchases and stricter regulations. A new purchasing law is proposed to prevent future issues.
+
+🟩
+
+64 -year -old Makkari Rajaratnam, a native of Kandapalai, was admitted to the Nuwara Eliya General Hospital last year to address the sight of his left eye.
+
+After a cataract surgery on April 5, 2023, he returned home on April 6. Brednisolone, provided by the hospital at the time, used the ophthalmology.
+
+After its aftermath. He was admitted to the Colombo National Eye Hospital for further treatment on May 10.
+
+In an examination carried out at the time, the tragic news that Makkari Rajaratnam had permanently lost sight was published by the medical authorities.
+
+At the same time, 64 -year -old PA Nandasena from Aluthgama, Bandarawela was undergoing cataract surgery at the Nuwara Eliya General Hospital.. Upon his return home on April 6, the Britzisolon Azherad, provided by the hospital, started using the ophthalmology.
+
+...
+
+[Data](articles/78d93c76.json)
+
+[Extended Data](ext_articles/78d93c76.ext.json)
 
 ---
 
@@ -2237,181 +2379,5 @@ Applications were to end up midnight yesterday.
 [Data](articles/f375f707.json)
 
 [Extended Data](ext_articles/f375f707.ext.json)
-
----
-
-### A bowl falls into a canal
-
-*2024-10-09 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201974) · `si`
-
-A young girl fell into a hot canal near a reservoir in Sri Lanka. She was rushed to a nearby hospital but sadly passed away. The incident occurred in the Dankaduwa police division.
-
-🟩
-
-A small girl has fallen into a heated canal from the Singakuliya tank in Wellaku, Dankaduwa Police Division.
-
-The police said that the girl who had fallen into the canal died on admission to the Dankotuwa hospital.
-
-◼️
-
-[Data](articles/0a815817.json)
-
-[Extended Data](ext_articles/0a815817.ext.json)
-
----
-
-### Three prison officials to investigate inmates
-
-*2024-10-09 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201973) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Three prison officials investigating four escaped inmates at Angunakolapelessa Prison. Main jailer accused of unauthorized prisoner transfers. Four detainees rearrested, two-year-old sentenced to 21 years. Preliminary investigation ongoing."
-
-🟩
-
-Three prison officials have been assigned to the fleeing four delegates at Angunakolapelessa Prison.
-
-Prison spokesman Gamini Dissanayake said that several detainees have been placed in the control of the custody of prisons in custody.
-
-Investigations have revealed that the main Jileir has taken measures to take out these detained for cleansing without consultation without consultation without consultation without consulting or inquiring.
-
-The four arrests have been detained in court, and the two-year-year-old remains with a sentence of 21 years.
-
-Three of the four persons who escaped were able to be arrested again.
-
-The main jail of the Angunakolapelessa Prison in charge of the Clearance of the prisoners and the cleansing group, which was in charge of the Cleaners and the Clearance of the Cleaners, was under the preliminary investigation.
-
-◼️
-
-[Data](articles/3f955bec.json)
-
-[Extended Data](ext_articles/3f955bec.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-10-09 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201971) · `si`
-
-Heavy rains today: Showers/thunderstorms in Western, Sabaragamuwa, North Western provinces and Galle/Matara districts. Possible heavy rain exceeding 75mm. Public advised to take precautions against wind/lightning.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces and in the Galle and Matara districts.
-
-The Department of Meteorology says that there will be showers at several places during the rest of the island or night.
-
-MM, in the Western, Sabaragamuwa, Central, North Western, Uva and Eastern provinces and in Galle and Matara districts. Heavy rains can occur more than 75.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/e4cac8fc.json)
-
-[Extended Data](ext_articles/e4cac8fc.ext.json)
-
----
-
-### Sri Lanka to seek BRICS memberships at upcoming meeting in Russia
-
-*2024-10-09 04:40:16* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-to-seek-BRICS-memberships-at-upcoming-meeting-in-Russia/56-767739) · `en`
-
-Cabinet Spokesman and Minister Vijitha Herath yesterday said Sri Lanka is set to pursue membership in the BRICS economic bloc during an upcoming meeting in Russia later this month.
-
-“Sri Lanka has been invited to the BRICS meeting later this month and we expect to seek membership,” he said at the post-Cabinet meeting media briefing yesterday.
-
-Herath added that discussions on Sri Lanka’s BRICS membership ambitions were also held with Indian Foreign Minister S. Jaishankar during his recent visit to Colombo.
-
-The push to join BRICS follows a decision made by the previous administration, which has approved the move to join the organisation that includes major global economies such as China, India and Brazil.
-
-BRICS originally comprising Brazil, Russia, India, China and South Africa, is a prominent intergovernmental organisation of emerging market nations aimed at boosting economic cooperation. This year, the group has already expanded welcoming four new members, Iran, Egypt, Ethiopia and the UAE.
-
-...
-
-[Data](articles/927bc680.json)
-
-[Extended Data](ext_articles/927bc680.ext.json)
-
----
-
-### ECSL confirms approval of Govt. postings during pre-election period
-
-*2024-10-09 04:37:45* · [`dailyftlk`](https://www.ft.lk/news/ECSL-confirms-approval-of-Govt-postings-during-pre-election-period/56-767738) · `en`
-
-The Election Commission of Sri Lanka (ECSL) has confirmed that all recent political appointments made by the Government were submitted to the ECSL for approval, in line with directives for appointments and transfers during the pre-election period.
-
-ECSL Chairperson R.M.L. Ratnayake emphasised that the commission oversees all appointments during this sensitive time. “No appointments can be made without the approval of the ECSL. Any appointment is only confirmed after ECSL approval,” Ratnayake said, assuring that the Commission is aware of each appointment.
-
-The clarification comes in response to concerns raised on social media regarding the Government’s continued appointments despite the election period. According to Ratnayake, the ECSL’s guidelines permit appointments to essential positions even during this time.
-
-...
-
-[Data](articles/dff4f0d0.json)
-
-[Extended Data](ext_articles/dff4f0d0.ext.json)
-
----
-
-### Vasu abandons Dilith’s MJP to support NPP
-
-*2024-10-09 04:36:45* · [`dailyftlk`](https://www.ft.lk/news/Vasu-abandons-Dilith-s-MJP-to-support-NPP/56-767737) · `en`
-
-Says DLF will support NPP despite not receiving a formal response from party
-
-Claims recent electoral victory of leftist movement has prompted his party’s decision to distance itself from MJP
-
-Stresses no point in aligning with alternative parties seeking to be in opposition
-
-Democratic Left Front (DLF) leader former MP Vasudeva Nanayakkara has announced his party’s withdrawal from the Mawbima Janatha Party (MJP) and confirmed his party’s support for the National People’s Power (NPP), led by President Anura Kumara Dissanayake, in the upcoming General Election.
-
-Nanayakkara made the announcement at a media briefing yesterday, explaining that the recent electoral victory of the leftist movement has prompted his party’s decision to distance itself from the MJP. “The election results were a resounding victory for the leftists,” he said, adding, “There is no point in aligning with alternative parties. We must all unite and take this victory forward in the Parliamentary elections.”
-
-...
-
-[Data](articles/14d6df52.json)
-
-[Extended Data](ext_articles/14d6df52.ext.json)
-
----
-
-### SJB seniors to enter Parliament via national list – Kins Nelson
-
-*2024-10-09 04:34:43* · [`dailyftlk`](https://www.ft.lk/news/SJB-seniors-to-enter-Parliament-via-national-list-Kins-Nelson/56-767736) · `en`
-
-Says SJB Party Leader Sajith Premadasa will once again contest from Colombo
-
-Stresses SJB has prepared strong team for elections under Premadasa’s leadership
-
-Claims those who recently supported Ranil Wickremesinghe are now uniting with SJB
-
-Says SJB candidates are well known in contrast to candidates expected to contest from NPP
-
-Samagi Jana Balawegaya (SJB) Polonnaruwa District Leader and former MP Kins Nelson has revealed that the majority of senior members of the party are expected to enter Parliament through the national list in the upcoming Parliamentary elections. Nelson, the son of former UNP politician H.G.P. Nelson highlighted that General Secretary Ranjith Madduma Bandara is among those likely to secure a seat via the national list.
-
-...
-
-[Data](articles/ead67f25.json)
-
-[Extended Data](ext_articles/ead67f25.ext.json)
-
----
-
-### SC orders SLISM petitioners to name ex-President Gotabaya as respondent in FR case
-
-*2024-10-09 04:31:57* · [`dailyftlk`](https://www.ft.lk/news/SC-orders-SLISM-petitioners-to-name-ex-President-Gotabaya-as-respondent-in-FR-case/56-767735) · `en`
-
-The Supreme Court on Monday ordered the petitioners in a Fundamental Rights petition, filed by the Sri Lanka Islamic Students Movement (SLISM), to name former President Gotabaya Rajapaksa as the first respondent. The case, filed in response to a 2021 Gazette notification issued under Rajapaksa’s presidency, challenges its validity and alleges infringement of the petitioner’s constitutional rights.
-
-President’s Counsel M.N.M. Zuhair, representing SLISM, argued that Gazette notification No. 2223/3, dated April 13, 2021, signed by Gotabaya Rajapaksa, was “ultra vires” (beyond legal authority), invalid, and unlawful. He contended that the notification had no force or effect in law and should be declared null and void by the court.
-
-...
-
-[Data](articles/0b457824.json)
-
-[Extended Data](ext_articles/0b457824.ext.json)
 
 ---

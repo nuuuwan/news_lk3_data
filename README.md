@@ -1,36 +1,118 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 14:12:32**
+As of **2024-10-09 14:38:56**
 
 ## Newspaper Stats
 
-*Scraped **48,560** Articles*
+*Scraped **48,565** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 399
 colombotelegraphcom | 480
-bbccomsinhala | 481
+bbccomsinhala | 482
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
 adalk | 4,501
 dailymirrorlk | 4,733
 adaderanalk | 5,726
-tamilmirrorlk | 6,583
+tamilmirrorlk | 6,586
 virakesarilk | 7,766
-adaderanasinhalalk | 8,398
+adaderanasinhalalk | 8,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,560 (100.0%) of 48,560 articles have been extended.
+48,565 (100.0%) of 48,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### We will not reduce the privileges: the Secretary of Defense
+
+*2024-10-09 14:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைகளை-குறைக்கமாட்டோம்-பாதுகாப்பு-செயலாளர்/175-345160) · `ta`
+
+“I learned that there are false rumors in the media regarding the reduction of the concessions offered to the soldiers by the government. However, I will report that the current government has no intention of reducing the concessions offered to the soldiers. ”
+
+Defense Secretary Air Vice Marshall Sampath Dihakonda (Retired) said this while addressing the Air Force personnel during his first visit to the Sri Lanka Air Force Headquarters in Sri Jayawardenapura Kotte.
+
+Air Force Commander Air Marshal Udayani visited several sections of the Air Force Headquarters with Rajapakse and other senior officials.
+
+◼️
+
+[Data](articles/60e9092f.json)
+
+[Extended Data](ext_articles/60e9092f.ext.json)
+
+---
+
+### Commentary on the cause of the cause of suicide
+
+*2024-10-09 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201989) · `si`
+
+Professor Mohammed Mahjeh, Colombo, says that the determination of human relationships and the isolation of people commit suicide.
+
+The Ada Derana joined the Ada Derana to the Big FUCUS program.
+
+Professor Mohammed Mah scores the reasons for the collapse of human relationships, the modern man, more transactions than the transactions carried out with others.
+
+"We see suicides in the world's advanced modern countries most of the world. But Sri Lanka is not a modern country. But we can see the isolation of human relationships, individuals, one of the main reasons. One is that we do not understand us and we will break this relationship with others. To control this, we must read us again. Our culture should be reread back. The main reason for this is the main reason for human desires, aspirations. One is to exceed your needs. Living with the big desires that go to the need. "
+
+...
+
+[Data](articles/48af7486.json)
+
+[Extended Data](ext_articles/48af7486.ext.json)
+
+---
+
+### Legal action on those who are constantly at home
+
+*2024-10-09 14:03:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-வீட்டிலிருப்பவர்கள்-மீது-சட்ட-நடவடிக்கை/175-345159) · `ta`
+
+The Ministry of Public Administration and Home Affairs has decided to take legal action against members of the former government holding official homes.
+
+Of the 41 official houses allocated following the coup, only 14 houses have been returned, a ministry official said.
+
+A total of 41 apartments have been allocated to the ministers of the former government, the Ministry official said.
+
+After the 2024 presidential election, the Ministry of Public Administration and Home Affairs issued a notification to withdraw official homes.
+
+However, so far, only 14 apartments have been renovated, and the Ministry of Public Administration and Home Affairs has accelerated to take legal action.
+
+◼️
+
+[Data](articles/675a5e4b.json)
+
+[Extended Data](ext_articles/675a5e4b.ext.json)
+
+---
+
+### Bail to doctor Aruchuna
+
+*2024-10-09 14:01:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அருச்சுனாவுக்கு-பிணை/175-345158) · `ta`
+
+The Chavakachcheri Magistrate's Court has been released on bail after the doctor Aruchuna has promised not to violate the bail conditions.
+
+The Jaffna - Chavakachcheri Hospital has filed a case at the Chavakachcheri Hospital against crimes including the threat of fellow doctors on the telephone and slander on social media.
+
+During the last case, the doctor was released on bail, and during the last case, he was canceled and detained for allegedly violating bail conditions and failure to submit evidence.
+
+Last week, Aruchuna's Attorney General had issued a bail application in the forum through the Movement Movement.
+
+In the meantime, on Wednesday (09), a bail application was granted by the forum, and the doctor was allowed to go on bail as he promised not to violate the bail conditions in the near future.
+
+◼️
+
+[Data](articles/adb3d417.json)
+
+[Extended Data](ext_articles/adb3d417.ext.json)
+
+---
 
 ### Ranjan Ramanayake forms new political party
 
@@ -1184,6 +1266,38 @@ President of the Sri Lanka Animal Manufacturers Association, Ajith Gunasekera sa
 
 ---
 
+### The story behind the abolition of the pensions of the Central Bank of Sri Lanka
+
+*2024-10-09 08:05:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1k7gz01l40o) · `si`
+
+The story behind the abolition of the pensions of the Central Bank of Sri Lanka
+
+A special gazette sheet was issued on 25 September, abolishing pensions for the manipons of the Central Bank of Sri Lanka.
+
+The gazette was signed by Dr. Nandalal Weerasinghe as the Chairman of the Central Bank of Sri Lanka and the Governor of the Central Bank of Sri Lanka.
+
+Accordingly, former manners will not pay a pension at present and in the future.
+
+According to the special gazette issued by the Central Bank of Sri Lanka, the Central Bank's Governors' pension is abolished since 11 September.
+
+The pensions of the Governors of the Central Bank of Sri Lanka were lost this year.
+
+The Pension of the Central Bank was abolished from the first on January 1998.
+
+However, later decided to pay pensions since the first day of January 2015.
+
+Why did Ajith Nivard Cabraal imposed an enjoining order?
+
+Accordingly, former manners in the Central Bank of Sri Lanka received a monthly pension with effect from the first January 2015.
+
+...
+
+[Data](articles/34da9fba.json)
+
+[Extended Data](ext_articles/34da9fba.ext.json)
+
+---
+
 ### A dead body of a young man meets a well
 
 *2024-10-09 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201976) · `si`
@@ -2171,133 +2285,5 @@ Last year, a total of more than 88,000 dengue cases were reported with a death t
 [Data](articles/5f9deb8c.json)
 
 [Extended Data](ext_articles/5f9deb8c.ext.json)
-
----
-
-### Sri Lanka ex-president’s backers to name opposition leader pick on Oct 14
-
-*2024-10-08 21:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-ex-presidents-backers-to-name-opposition-leader-pick-on-oct-14-182789/) · `en`
-
-ECONOMYNEXT — Politicians who backed former President Ranil Wickremesinghe during the presidential election will announce on Monday October 14 their choice for opposition leader at the upcoming parliamentary election.
-
-Former MP Nimal Lanza told reporters following a round of talks held in Colombo on Tuesday October 08 that their faction will submit strong lists of nominees covering the entire island.
-
-The Election Commission has said that the closing date for nominations is Friday October 11.
-
-“There will be a strong list for all of Sri Lanka. We don’t want a government but we do anticipate the opposition leadership,” said Lanza.
-
-“After we submit nominations on the 11th, we will meet on Saturday. On Monday there will be a meeting chaired by former President Wickremesinghe and former Prime Minister Dinesh Gunawardena. We will bring everyone who was nominated to Colombo and there we will announce who our opposition leader is,” he said.
-
-...
-
-[Data](articles/70f35a05.json)
-
-[Extended Data](ext_articles/70f35a05.ext.json)
-
----
-
-### Murugan meets former minister Douglas Devananda
-
-*2024-10-08 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195806) · `ta`
-
-Murugan, exonerated after 31 years, meets Douglas Devananda. Former minister helped secure his release. Shanthan remains imprisoned.
-
-🟩
-
-Murugan, who was arrested in the murder case of former Prime Minister Rajiv Gandhi, met with former minister Douglas Devananda on Tuesday (08).
-
-He was released in November 2022 after being detained in prison for 31 years.
-
-Murugan was detained for about a year at the Trichy special camp because there were no documents to go to Sri Lanka because they were from Sri Lanka.
-
-It is noteworthy that Douglas Devananda, the then Minister of Fisheries, had taken some steps to bring him back to Sri Lanka.
-
-At the same time, Shantan, who was arrested with him, was detained at the Trichy Special Camp last February.
-
-◼️
-
-[Data](articles/d1feb2e8.json)
-
-[Extended Data](ext_articles/d1feb2e8.ext.json)
-
----
-
-### Another drug fraud reveals
-
-*2024-10-08 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201966) · `si`
-
-Drug fraud revealed: Rs. 97 million loss. Bribery Commission ordered to investigate. Medical Supplies Division involved. Tender irregularities uncovered.
-
-🟩
-
-The Attorney General said the government had reportedly a loss of Rs. 97 million that the government had lost Rs.
-
-Accordingly, Maligakanda Magistrate Lokani Abeywickrema ordered the Bribery Commission to take further steps in connection with the complaint.
-
-The Criminal Investigation Department (CID) reported a fraud before the rejection of the Director of the Medical Supplies Division (Medical Supplies) in the administration of the Director of the Medical Supplies Division.
-
-Deputy Solicitor General Lakmini Girihagama, who spoke for the division, stated that the fraud had taken place when he was purchased.
-
-...
-
-[Data](articles/784cdf86.json)
-
-[Extended Data](ext_articles/784cdf86.ext.json)
-
----
-
-### Arjun - Jeeva joins 'Agathia'
-
-*2024-10-08 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/195757) · `ta`
-
-"Agathiah" film update: Arjun, Jeeva star alongside Hollywood actor Edward Sonninfik. Directed by Pa. Songwriter and composer Yuvan Shankar Raja. Produced by Anish Arjun Dev and White Angle Media. Set for release in Tamil, Telugu, and Hindi.
-
-🟩
-
-The new film, 'Agathia', has been named 'Agathiah', which has been named 'Agathiah', starring the star actors of the Tamil film 'Akshan King' Arjun - Jeeva.
-
-Songwriter, Actor and Director Pa. Hollywood actor Edward Sonninfik has starred in the upcoming film 'Agathiah', including Arjun, Jeeva, Rasi Khanna, Yogi Babu, VTV Ganesh and Redin Kingsley.
-
-Yuvan Shankar Raja is composed by Deepak Kumar Pate.
-
-The film is ready for the competition between angels and demons on behalf of Wales Film International. Producer Anish Arjun Dev is co -produced by Ganesh and White Angle Media.
-
-The film is currently being prepared in Tamil, Telugu and Hindi.
-
-The expectation of the film has increased in fans as the Hollywood actor appears to be with Arjun, Jeeva and Rasi Kanna at first glance for the film.
-
-◼️
-
-[Data](articles/b276e081.json)
-
-[Extended Data](ext_articles/b276e081.ext.json)
-
----
-
-### The original thriller web series of Prime Video
-
-*2024-10-08 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195764) · `ta`
-
-Prime Video releases original thriller web series "Snex & Laders" on 18th. Directed by Ashok Veerappan, Bharat Muralitharan, and Kamala Alkemis. Starring Naveen Chandra, Nanda, Manoj Bharathiraja. Produced by Karthik Subburaj and Kalyan Subramanian. Available in Tamil and other languages on Prime Video.
-
-🟩
-
-The number of fans is currently increasing in the digital site, parallel to the film mansion.
-
-Each leading digital site companies are creating and providing new internet series weekly.
-
-The Prime video will release the original thriller web series Snex & Laders on the 18th. An official announcement has been made.
-
-Directed by Directors Ashok Veerappan, Bharat Muralitharan and Kamala Alkemis, the original Thriller Internet Series of 'Snacks & Laders' Internet Series, Naveen Chandra, Nanda, Manoj Bharathiraja, Muthukumar, Srinda, Sreejith Ravi, Samrit, Surya RaghakashwarMany have played.
-
-Karthik Subburaj and Kalyan Subramanian have co -produced the internet series on behalf of Stone Bench Productions Company.
-
-Commenting on the Internet series, Director Kamala Alkemis said, “Friends of Kili, Lord, Sandy, Bala, who are studying in their adventure, are describing the adventure of their adolescents.
-
-...
-
-[Data](articles/863e5067.json)
-
-[Extended Data](ext_articles/863e5067.ext.json)
 
 ---

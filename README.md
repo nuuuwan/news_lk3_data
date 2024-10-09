@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 12:14:06**
+As of **2024-10-09 12:25:00**
 
 ## Newspaper Stats
 
-*Scraped **48,542** Articles*
+*Scraped **48,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 4,497
 dailymirrorlk | 4,733
 adaderanalk | 5,723
 tamilmirrorlk | 6,581
-virakesarilk | 7,762
+virakesarilk | 7,764
 adaderanasinhalalk | 8,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,541 (100.0%) of 48,542 articles have been extended.
+48,544 (100.0%) of 48,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### The new party headed by Ranjan Ramanayake
+
+*2024-10-09 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/195828) · `ta`
+
+Here's a 200-character summary:
+
+
+
+New party "United Democratic Voice" launched today (09) led by former MP Ranjan Ramanayake. Claims citizenship deleted but received ballot for presidential election, allowing voting and candidacy.
+
+🟩
+
+The "United Democratic Voice", led by former parliamentarian Ranjan Ramanayake, was launched today (09).
+
+Mentioned that my citizenship was deleted. But this time the ballot was received to vote in the presidential election. So I can vote and contest the election.
+
+◼️
+
+[Data](articles/cd3bfcf7.json)
+
+[Extended Data](ext_articles/cd3bfcf7.ext.json)
+
+---
 
 ### Netanyahu a threat to the Lebanonans
 
@@ -129,6 +153,34 @@ Some parties have invited me to contest the election and I will consider all the
 [Data](articles/8354b746.json)
 
 [Extended Data](ext_articles/8354b746.ext.json)
+
+---
+
+### People will completely reject major political parties if corrupt politicians stop
+
+*2024-10-09 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195823) · `ta`
+
+Public rejects corrupt politicians; civil groups set 10-point criteria for candidate selection; election watchdog warns parties to choose honest candidates; Pakistani Saravanamuttu urges public to change political culture by avoiding corrupt politicians.
+
+🟩
+
+Civil community representatives have warned that the main parties in the upcoming general election may be completely rejected if the public has decided to vote against the current corruption culture.
+
+Civil community representatives made this request at the event in Colombo yesterday.
+
+More than 40 civil society organizations have introduced 10 -point criteria for the public selection of the appropriate candidate.
+
+Election watchdog, Rogan Hettiarachchi, has requested that the political parties and its leaders should be very cautious about the selection of their candidates as the people are very aware of the need to choose politicians who are not corrupt in the future.
+
+He said that the public will definitely reject those with dishonest corruption political background, he said.
+
+He said that not only on sending the appropriate candidate to Parliament, but also on the sending of the best intelligent people on parliamentary affairs, he said.
+
+...
+
+[Data](articles/7c240c6a.json)
+
+[Extended Data](ext_articles/7c240c6a.ext.json)
 
 ---
 
@@ -2006,6 +2058,8 @@ The Election Commission started accepting nominations on October 04. The new par
 
 [Data](articles/2d297252.json)
 
+[Extended Data](ext_articles/2d297252.ext.json)
+
 ---
 
 ### Shawn Roldan's music will attract 'your sami my sami'
@@ -2297,51 +2351,5 @@ The Public Health Inspector added that the allocations of the Food Act, which wa
 [Data](articles/0f1d6769.json)
 
 [Extended Data](ext_articles/0f1d6769.ext.json)
-
----
-
-### Hezbollah supports ceasefire efforts in Lebanon, deputy chief says
-
-*2024-10-08 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102539/hezbollah-supports-ceasefire-efforts-in-lebanon-deputy-chief-says) · `en`
-
-Hezbollah left the door open to a negotiated ceasefire on Tuesday after Israeli forces made new incursions in Lebanon, and Israel’s defence minister said another senior official from the Iran-backed group appeared to have been killed.
-
-In what could be the latest in a series of major blows to Hezbollah, Israeli Defence Minister Yoav Gallant said it appeared the replacement for slain Hezbollah leader Sayyed Hassan Nasrallah had been “eliminated”.
-
-Hashem Safieddine, a top Hezbollah official, was widely expected to succeed Nasrallah. Safieddine has not been heard from publicly since an Israeli airstrike late last week.
-
-“Hezbollah is an organization without a head. Nasrallah was eliminated, his replacement was probably also eliminated,” Gallant told officers at the Israeli military’s northern command centre, in a brief video segment distributed by the military.
-
-“There’s no one to make decisions, no one to act,” he said, without providing further details.
-
-...
-
-[Data](articles/0c2d613a.json)
-
-[Extended Data](ext_articles/0c2d613a.ext.json)
-
----
-
-### The south of fish production in 2023
-
-*2024-10-08 19:16:43* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-මත්ස්‍ය-නිෂ්පාදනයෙන්-දකුණ-කප්-ගහයි/11-412382) · `si`
-
-Sri Lanka's fish production summary: South produces 98,280 metric tons, East leads with 71,525, while Sabaragamuwa lags behind at 1,475 metric tons.
-
-🟩
-
-The Sri Lankan central bank, the Central Bank of Sri Lanka (SLTB) has contributed 104,670 metrics to fish production in Sri Lanka.
-
-The Southern Province has produced 98,280 metric fish from the Southern Province in the last year and the size of 6,390 metric ventures.
-
-The highest fish production has been made from the Eastern Province, and 71,525 metrics. The report also states that 5775 metrics from the Western Province have produced 64,935 metricton from the Northern Province.
-
-Fish production in the North Western Province is 64,715 metricton. The lowest fish generation has been made from the Sabaragamuwa Province and the fish production in the province is 1,475 metricton.
-
-◼️
-
-[Data](articles/1ab1b6aa.json)
-
-[Extended Data](ext_articles/1ab1b6aa.ext.json)
 
 ---

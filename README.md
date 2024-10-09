@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 17:08:24**
+As of **2024-10-09 17:23:20**
 
 ## Newspaper Stats
 
-*Scraped **48,595** Articles*
+*Scraped **48,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,87 @@ dailymirrorlk | 4,733
 adaderanalk | 5,735
 tamilmirrorlk | 6,594
 virakesarilk | 7,768
-adaderanasinhalalk | 8,404
+adaderanasinhalalk | 8,406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,594 (100.0%) of 48,595 articles have been extended.
+48,597 (100.0%) of 48,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
 
-### ”தபால் நிலையம் எவருக்கும் வழங்கப்படாது”
+### Sri Lanka is named Sri Lanka 20 squad
+
+*2024-10-09 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201995) · `si`
+
+Sri Lanka names 20-squad team for West Indies tour. Squad includes Charith Asalanka, Kusal Mendis, Niroshan Dickwella, Dasun Shanaka, and others.
+
+🟩
+
+The Sri Lankan squad has been named for the 20th tournament with the West Indies.
+
+Sri Lanka Cricket (SLC) announced that Minister of Sports, Prime Minister Dr. Weli Amarasuriya for the squad.
+
+Charith Sixty, Kusal Mendis, Kusel Mendis, Kuffel Janads, Gonuka Wins, Geoffrewissenu, Nuwan Wickrele, Vesara, Dinesh Tharula, Jayura Pathirana, Banura Pathirana, BuddhasFernando and Asapitha Fernando
+
+◼️
+
+[Data](articles/6f035be5.json)
+
+[Extended Data](ext_articles/6f035be5.ext.json)
+
+---
+
+### Chinese remanded
+
+*2024-10-09 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201996) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+20 Chinese officers remanded until Oct 23 in Panadura. Arrested by Panadura police based on tip from Western Buddha officers. CID and Hanwella police also involved. Announcement made on Oct 6.
+
+🟩
+
+Twenty Chinese officers were remanded today (09) to be remanded until the 23rd of the Panadura Goekara.
+
+The suspects were arrested by the police officers of the Panadura on information received from the officers of the Western Buddha.
+
+The police media division has issued an announcement on the 6th of October and the Chinese men who were arrested by the CID and the Chinese arrested in the Hanwella Police Division.It is done.
+
+◼️
+
+[Data](articles/faa65be0.json)
+
+[Extended Data](ext_articles/faa65be0.ext.json)
+
+---
+
+### "The post office will not be delivered to anyone"
 
 *2024-10-09 16:46:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-நிலையம்-எவருக்கும்-வழங்கப்படாது/175-345167) · `ta`
 
-நுவரெலியாவிலுள்ள காலனித்துவ கால தபால் நிலையத்தை ஹோட்டல் திட்டத்திற்காக வழங்குவதற்கு கடந்த அரசாங்கம் எடுத்த தீர்மானத்தை இடைநிறுத்த அரசாங்கம் தீர்மானித்துள்ளதாக அமைச்சர் விஜித ஹேரத் தெரிவித்துள்ளார்.
+Nuwara Eliya post office saved from hotel project. Government suspends previous decision, allocates building solely to postal department. Minister Vijitha Herath ensures no other use.
 
-உலக அஞ்சல் தினத்தை முன்னிட்டு நடைபெற்ற நிகழ்ச்சியில் பேசிய அவர், கட்டிடம் மற்றும் அதன் நிலப்பரப்பு அஞ்சல் துறைக்கு மட்டுமே ஒதுக்கப்படும் என்றார்.
+🟩
 
-“முந்தைய அரசாங்கம் நுவரெலியா தபால் நிலைய வளாகத்தை வலுக்கட்டாயமாக கையகப்படுத்தும் தீர்மானங்களை எடுத்தது. அது புதிய ஜனாதிபதி மற்றும் புதிய அரசாங்கத்தின் கொள்கைகளுக்குள் உள்ளடங்காது என்பதை பொறுப்புணர்வுடன் கூறுவோம்.
+Minister Vijitha Herath has said that the government has decided to suspend the decision taken by the last government to provide the colonial post office in Nuwara Eliya for the hotel project.
 
-சிறப்புமிக்க இக்கட்டிடத்தையும் அதன் வளாகத்தையும் தபால் திணைக்களத்திற்கு மட்டுமே ஒதுக்குவோம். இது எவருக்கும் வழங்கப்பட மாட்டாது, முன்மொழியப்பட்ட திட்டம் தொடர்பாக இதுவரை எடுக்கப்பட்ட அனைத்து முடிவுகளையும் நாங்கள் நிறுத்தி வைப்போம் என்று அவர் கூறினார்.
+Speaking at a function held on World Postal Day, he said that the building and its terrain will be allocated only to the postal department.
+
+“The previous government made decisions for forcibly acquisition of the Nuwara Eliya Post Office complex. We will be responsible that it does not include the policies of the new president and the new government.
+
+We will only allocate this special building and its premises to the Postal Department. This will not be given to anyone, we will stop all the decisions made on the proposed plan, ”he said.
 
 ◼️
 
 [Data](articles/87582d8a.json)
+
+[Extended Data](ext_articles/87582d8a.ext.json)
 
 ---
 
@@ -2361,33 +2415,5 @@ At the Annual General Meeting of the Sri Lanka Gem and Jewellery Association (SL
 [Data](articles/81e29a68.json)
 
 [Extended Data](ext_articles/81e29a68.ext.json)
-
----
-
-### Open letter to President: Do we need a new development bank?
-
-*2024-10-09 02:57:37* · [`dailyftlk`](https://www.ft.lk/columns/Open-letter-to-President-Do-we-need-a-new-development-bank/4-767720) · `en`
-
-The manner in which the thinking about development banking has evolved, clearly shows that more thought must be given to setting up an entirely new development bank. This is not to say that development banking is not required. What we need to think about is, can we not look at the existing banks with development banking competence before looking at reinventing the wheel?
-
-...
-
-[Data](articles/3774441c.json)
-
-[Extended Data](ext_articles/3774441c.ext.json)
-
----
-
-### Open letter to President: Do we need a new development bank?
-
-*2024-10-09 02:57:37* · [`dailyftlk`](https://www.ft.lk/opinion/Open-letter-to-President-Do-we-need-a-new-development-bank/14-767720) · `en`
-
-The manner in which the thinking about development banking has evolved, clearly shows that more thought must be given to setting up an entirely new development bank. This is not to say that development banking is not required. What we need to think about is, can we not look at the existing banks with development banking competence before looking at reinventing the wheel?
-
-...
-
-[Data](articles/cff29ffb.json)
-
-[Extended Data](ext_articles/cff29ffb.ext.json)
 
 ---

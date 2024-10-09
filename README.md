@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 11:58:58**
+As of **2024-10-09 12:14:06**
 
 ## Newspaper Stats
 
-*Scraped **48,538** Articles*
+*Scraped **48,542** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 398
+dbsjeyarajcom | 399
 colombotelegraphcom | 480
 bbccomsinhala | 481
 islandlk | 2,870
@@ -17,20 +17,96 @@ economynextcom | 2,974
 dailyftlk | 3,283
 adalk | 4,497
 dailymirrorlk | 4,733
-adaderanalk | 5,722
-tamilmirrorlk | 6,580
+adaderanalk | 5,723
+tamilmirrorlk | 6,581
 virakesarilk | 7,762
-adaderanasinhalalk | 8,395
+adaderanasinhalalk | 8,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,536 (100.0%) of 48,538 articles have been extended.
+48,541 (100.0%) of 48,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Netanyahu a threat to the Lebanonans
+
+*2024-10-09 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201986) · `si`
+
+Here's a 200-character summary:
+
+
+
+Israel launches airstrikes on Lebanon, targeting Hezbollah. Netanyahu warns against another Gaza-like situation. He threatens increased military presence in Lebanon. Claims Hashim Safieddine will lead Hezbollah soon.
+
+🟩
+
+Israel continues to launch air strikes at Lebanon targeting various places, including Hezbollah's heads.
+
+Israeli Prime Minister Benjamin Netanyahu informed the civilians who were released from such a background.
+
+He was threatening, not if the Lebanon was another Gaza.
+
+The Prime Minister also revealed that another land forces to Lebanon will be expanded.
+
+Meanwhile, Prime Minister Netanyau says that Hashim Shafyaden was supposed to be the next leader of the Hezhimullah Organization.
+
+◼️
+
+[Data](articles/6f3a9f62.json)
+
+[Extended Data](ext_articles/6f3a9f62.ext.json)
+
+---
+
+### All the major parties that are destroying the telephone number
+
+*2024-10-09 11:44:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-பிரதான-கட்சிகளும்-அழிவைச்-சந்திக்கும்/175-345141) · `ta`
+
+Civil Collective Organization warns major political parties against corrupt candidates. Public demands clean leaders for upcoming election. 10-point criteria evaluate ideal candidates. Citizens urged to reject corrupt politicians. Organizations like YMBA, Sri Lanka National Peace Council, Paffrel support clean governance.
+
+🟩
+
+The Civil Collective Organization has said that almost all major political parties will be destroyed if they do not field the best candidates on their list to contest the upcoming general election, as the public is determined to vote against corrupt political culture.
+
+During the general election launched in Colombo yesterday, the civil collector's general election, which includes more than 40 civil society organizations, introduced 10 -point criteria to evaluate the 'profile for an ideal political candidate' during the general election.
+
+Political parties and its leaders need to be very careful in putting their candidates through lists, as people are very careful in choosing representatives with pure law in the future.
+
+This time, the people will clearly reject candidates with a political and corrupt political background, said its Executive Director, Rohana Hettiarachchi, representing the March 12 movement and PAffrel.
+
+...
+
+[Data](articles/67b32ec7.json)
+
+[Extended Data](ext_articles/67b32ec7.ext.json)
+
+---
+
+### Afghan man arrested in alleged US election day attack plot
+
+*2024-10-09 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102552/afghan-man-arrested-in-alleged-us-election-day-attack-plot) · `en`
+
+The US Department of Justice has arrested a man who allegedly planned an attack on Election Day in the name of the Islamic State group.
+
+The suspect, Nasir Ahmad Tawhedi, 27, is a citizen of Afghanistan residing in Oklahoma City, Oklahoma, according to prosecutors.
+
+“This defendant, motivated by ISIS, allegedly conspired to commit a violent attack, on Election Day, here on our homeland,” said FBI Director Christopher Wray in a statement on Tuesday.
+
+The FBI said he was attempting stockpile firearms, and had taken steps to liquidate his family’s assets and relocate members overseas.
+
+Mr Tawhedi is charged with providing, attempting to provide, and conspiracy to provide support or resources to a foreign terrorist organization; and with trying to procure firearms and ammunition to use to commit a felony or act of terrorism.
+
+...
+
+[Data](articles/7c77ff3f.json)
+
+[Extended Data](ext_articles/7c77ff3f.ext.json)
+
+---
 
 ### Is Ranjan changing the party?
 
@@ -722,6 +798,8 @@ Sri Lanka is regarded as country in default until the debt is restructured. A co
 
 [Data](articles/426a5de2.json)
 
+[Extended Data](ext_articles/426a5de2.ext.json)
+
 ---
 
 ### The main notice of railway services
@@ -1230,6 +1308,24 @@ The question then arises as to whether all this makes them independent observers
 
 ---
 
+### Anura   Kumara’s Ascendancy Inside the JVP and his  Political Rise  Within  Sri Lanka.
+
+*2024-10-09 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84866) · `en`
+
+Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka – Part Two
+
+Sri Lanka’s newly elected ninth executive president Anura Kumara Dissanayake (AKD) continues to be the focus of this column. In the first part of this article published last week, the early years of  Anura’s eventful life were delved into in some detail. In this week’s  second part,  AKD’s steady rise as a   political leader within the Janatha  Vimukthi  Peramuna (JVP) will be related to some extent.
+
+As stated in this column last week , the JVP’s second insurgency was ruthlessly suppressed by the Ranasinghe Premadasa regime. Tens of thousands of youths were killed or made to disappear. Thousands of youths were incarcerated for years. Hundreds of youths fled Sri Lanka for safety. Hundreds of youths avoided arrest  and possible execution while in Sri Lanka by changing identities and relocating elsewhere. Anura was among those who stayed in Lanka and evaded capture by going underground.
+
+...
+
+[Data](articles/2b0b9154.json)
+
+[Extended Data](ext_articles/2b0b9154.ext.json)
+
+---
+
 ### CCI to kick off Build SL Housing & Construction Expo 2025 on 30 May
 
 *2024-10-09 01:10:00* · [`dailyftlk`](https://www.ft.lk/business/CCI-to-kick-off-Build-SL-Housing-Construction-Expo-2025-on-30-May/34-767709) · `en`
@@ -1263,6 +1359,22 @@ Director Kaniewska welcomed the proposals and conveyed the Chamber’s willingne
 [Data](articles/94d7ec27.json)
 
 [Extended Data](ext_articles/94d7ec27.ext.json)
+
+---
+
+### ஜே.வி.பி . இயக்கத்தில் அநுர குமார திசாநாயக்கவின் வளர்ச்சியும் இலங்கை அரசியலில் துரித  எழுச்சியும்
+
+*2024-10-09 01:02:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84886) · `en`
+
+அநுர குமார திசாநாயக்க ; இலங்கை வானில் ‘ இடதுசாரி ‘ நட்சத்திரம் -2
+
+இலங்கையின் ஒன்பதாவது நிறைவேற்று அதிகார ஜனாதிபதி அநுரா குமார திசாநாயக்கவின் பரபரப்பான நிகழ்வுகள் பலப்பல நிறைந்த ஆரம்ப வாழ்க்கையைப் பற்றி  இந்த கட்டுரைத் தொடரின் முதல் பாகத்தில் கடந்தவாரம் எழுதியிருந்தேன். இந்த இரண்டாவது பாகத்தில் ஜனதா விமுக்தி பெரமுனவுக்குள் (ஜே.வி.பி.) ஒரு அரசியல் தலைவராக அவரின் படிப்படியான சீரான வளர்ச்சி குறித்து பாராப்போம்.
+
+...
+
+[Data](articles/9e9617de.json)
+
+[Extended Data](ext_articles/9e9617de.ext.json)
 
 ---
 
@@ -2231,127 +2343,5 @@ Fish production in the North Western Province is 64,715 metricton. The lowest fi
 [Data](articles/1ab1b6aa.json)
 
 [Extended Data](ext_articles/1ab1b6aa.ext.json)
-
----
-
-### About the student who committed suicide revealed
-
-*2024-10-08 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201964) · `si`
-
-Student commits suicide at Lotus Tower. Close friend also died recently. Both 16, 11th graders. School uniforms found. Parents' support crucial.
-
-🟩
-
-The school girl who committed suicide by the Lotus Tower, the police revealed that a close friend of the school student and student who committed the Slaven housing complex in Slave Island.
-
-The 16-year-old schoolgrounds had committed suicide from the 29th floor of the Nelum Tower at around 3.15 pm yesterday.
-
-She also bought a ticket and entered the Lotus Tower at around 2.30 pm yesterday.
-
-It is reported that the student had stayed in the lobby in the lobby, it is reported that the Lotus Tower had come to the toilet to bed.
-
-In the place, she was noted that she had a few minutes of school bag, timing pair and shoes, and the CCTV cameras.
-
-When it was taken place, five security personnel had been in the same location and was after she had jumped until they were distracted.
-
-It is reported that she has made some effort to jump due to the design of the international standards.
-
-...
-
-[Data](articles/8022ecca.json)
-
-[Extended Data](ext_articles/8022ecca.ext.json)
-
----
-
-### Upcountry railway line restricted due to Indo-Lanka joint film
-
-*2024-10-08 19:00:22* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු-ලංකා-ඒකාබද්ධ-සිනමා-පටයක්-හේතුවෙන්-උඩරට-දුම්රිය-මාර්ගයේ-ඇල්ලට-සීමාවෙයි/11-412380) · `si`
-
-Colombo Fort railway line closed tomorrow due to Indo-Lanka film shoot. Train service halted between Colombo Fort and Fort Railway Station. Ministry-approved project aims to boost Sri Lanka's tourism after film release.
-
-🟩
-
-The Railway Department states that train from Colombo Fort to the Fort Railway Station, Colombo will be restricted to the falls from Colombo Fort to Fort Railway Station tomorrow due to an Indo-Sri Lanka joint film project.
-
-The filming is on the approval of the Ministry as additional tourist attractions will occur over Sri Lanka after the display of this film.
-
-◼️
-
-[Data](articles/6acdd852.json)
-
-[Extended Data](ext_articles/6acdd852.ext.json)
-
----
-
-### Excavation work in search of LTTE weapons at Mullivaikkal
-
-*2024-10-08 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/195803) · `ta`
-
-LTTE weapon excavation underway in Mullivaikkal East, Mullaitivu District. Police team from Colombo conducting searches under court permission.
-
-🟩
-
-The excavation work is being carried out at the Mullivaikkal East in the Mullaitivu District of the Mullaitivu District, reports that the LTTE is buried in the East of the Mullivaikkal East.
-
-The excavation work with the permission of the Colombo Court is being carried out by a police team from Colombo.
-
-◼️
-
-[Data](articles/e5b06a0f.json)
-
-[Extended Data](ext_articles/e5b06a0f.ext.json)
-
----
-
-### For the former minister's residence to school
-
-*2024-10-08 18:48:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சரின்-இல்லம்-பாடசாலைக்கு/175-345106) · `ta`
-
-Former Agriculture Minister Mahinda Amaraweera hands over official residence to Sirimavo Bandaranaike Vidyalaya in Colombo after recent coup.
-
-🟩
-
-Former Agriculture Minister Mahinda Amaraweera has handed over his official residence on the Page Road in Colombo to the Sirimavo Bandaranaike Vidyalaya, Colombo.
-
-The former minister has vacated his official residence today in accordance with the recent coup.
-
-Commenting on the media, Mahinda Amaraweera said that he had proposed the proposal to the Sirimavo Bandaranaike Vidyalaya.
-
-He said that the Cabinet approval by the former government has been completed and all the necessary documents for the transfer have been completed and the school can now be used.
-
-◼️
-
-[Data](articles/03ac56c3.json)
-
-[Extended Data](ext_articles/03ac56c3.ext.json)
-
----
-
-### Upul Tharanga arrest warrants
-
-*2024-10-08 18:46:24* · [`adalk`](https://www.ada.lk/breaking_news/උපුල්-තරංග-අත්අඩංගුවට-ගන්න-වරෙන්තු/11-412379) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Judge Ravindra Premaratne arrested for bribery related to cricket tournament. Upul Tharanga, Sri Lanka cricket team manager, accused. Case postponed until January next year due to witness unavailability. Foreign travel ban issued for key witness Yogi Patel.
-
-🟩
-
-Sampath High Court Judge Ravindra Premaratne, who was arrested by the Skarakara Selection Committee Chairman of the Karakatha Selection Committee, was arrested by the Bandaranaike International Airport at Bandaranaike International Airport today (08).
-
-Sri Lanka's first cricket team, a manager of the first cricket team at the Pallekele Cricket Tournament in the Pallekele International Cricket Tournament in the Pallekele Cricket Tournament in the Pallekele Cricket Tournament was held at the Pallekele Cricket TournamentThe judge was issued such warrants to concern the issues that were submitted.
-
-The judge also stated that the order of President Attorney-at-Law Runishi Arsakularatne appearing on behalf of him to remove the country's foreign travel ban on behalf of the country.
-
-The case was filed by the Attorney under the National Cricket Selection Committee Chairman of the National Cricket Selection Committee on March 08, between the 19th and January 19.
-
-...
-
-[Data](articles/637fee8e.json)
-
-[Extended Data](ext_articles/637fee8e.ext.json)
 
 ---

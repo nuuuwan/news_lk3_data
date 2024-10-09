@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 15:23:22**
+As of **2024-10-09 15:39:14**
 
 ## Newspaper Stats
 
-*Scraped **48,574** Articles*
+*Scraped **48,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 482
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,503
+adalk | 4,504
 dailymirrorlk | 4,733
-adaderanalk | 5,729
-tamilmirrorlk | 6,588
+adaderanalk | 5,730
+tamilmirrorlk | 6,591
 virakesarilk | 7,766
 adaderanasinhalalk | 8,401
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 8,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,574 (100.0%) of 48,574 articles have been extended.
+48,579 (100.0%) of 48,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### New govt scraps previous decisions on iconic N’Eliya post office building
+
+*2024-10-09 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/102559/new-govt-scraps-previous-decisions-on-iconic-neliya-post-office-building) · `en`
+
+Minister Vijitha Herath has revealed that the 130-year-old iconic Nuwara Eliya Post Office building, along with its premises, will be used exclusively for postal department operations.
+
+Additionally, all previously decisions regarding the property will be suspended, he said, explaining the new government’s stance on the matter.
+
+Under the former government, it had been proposed to hand over the colonial-era building to the private sector for a hotel project which had drawn a string of protests from people, trade unions, and other organisations.
+
+The post office, located in the city of Nuwara Eliya, is renowned for its Tudor Revival architecture and is a landmark tourist point in the country.
+
+◼️
+
+[Data](articles/69a55e68.json)
+
+[Extended Data](ext_articles/69a55e68.ext.json)
+
+---
+
+### Actress Tamita Competition
+
+*2024-10-09 15:10:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-தமிதா-போட்டி/175-345164) · `ta`
+
+Famous actress Tamitha Abeyratne has signed documents that she will contest the general election in the Ratnapura district.
+
+When asked by Tamita Abeyratna, he said that he decided to contest the next general election to perform some tasks for the suffering people.
+
+He also noted that he has a good understanding of the problems of people and especially artists.
+
+◼️
+
+[Data](articles/ccf62fde.json)
+
+[Extended Data](ext_articles/ccf62fde.ext.json)
+
+---
 
 ### Global watchdogs to monitor Sri Lanka’s General Election
 
@@ -67,6 +105,30 @@ Admiral Koehler will engage with senior Sri Lankan officials to discuss rising s
 [Data](articles/965b3a42.json)
 
 [Extended Data](ext_articles/965b3a42.ext.json)
+
+---
+
+### Anandakumar lifted the inch
+
+*2024-10-09 14:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அங்குசத்தை-தூக்கி-எறிந்தார்-ஆனந்தகுமார்/76-345163) · `ta`
+
+Subbaiah Anandakumar, organizer of the United National Party's Ratnapura district, has decided to quit the party.
+
+He will inform the party leader Ranil Wickremesinghe and the party's general secretary in this regard.
+
+“After the defeat of the United National Party in the 2020 general election, many left the party. However, we were the only one who went down the field for the development of the party.
+
+Even after party leader Ranil Wickremesinghe was elected president, we were carrying out the tasks without getting any allowances. There is no use of state vehicles. There is no state resources.
+
+However, the activities of a few of the party are not satisfactory. Moreover, the politicians who have been rejected by the people and the Rajapaksas have been accommodated in the Ratnapura district.
+
+UNP supporters are very dissatisfied with this.. In that case, I am rescuing the post of Ratnapura District Organizer. I am leaving the party. ”- That is mentioned in the report.
+
+◼️
+
+[Data](articles/c7a8516a.json)
+
+[Extended Data](ext_articles/c7a8516a.ext.json)
 
 ---
 
@@ -120,6 +182,20 @@ The sealing of 960 packets of pseudo-agricultural input inputs will be sealing a
 
 ---
 
+### Casilingam competition in Jaffna
+
+*2024-10-09 14:40:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காசிலிங்கம்-யாழில்-போட்டி/175-345162) · `ta`
+
+Ge in the upcoming general election representing Sri Lanka PA. Kasilingam signed the presence of former President Mahinda Rajapaksa.
+
+◼️
+
+[Data](articles/f15bb5e9.json)
+
+[Extended Data](ext_articles/f15bb5e9.ext.json)
+
+---
+
 ### We will not reduce the privileges: the Secretary of Defense
 
 *2024-10-09 14:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைகளை-குறைக்கமாட்டோம்-பாதுகாப்பு-செயலாளர்/175-345160) · `ta`
@@ -153,6 +229,22 @@ Air Force Commander Air Marshal Udayani visited several sections of the Air Forc
 [Data](articles/74e6f25d.json)
 
 [Extended Data](ext_articles/74e6f25d.ext.json)
+
+---
+
+### Indo-Sri Lanka women's cricket clash today
+
+*2024-10-09 14:06:46* · [`adalk`](https://www.ada.lk/sports/ඉන්දු---ශ්‍රී-ලංකා-කාන්තා-ක්‍රිකට්-ගැටුම-අද/9-412396) · `si`
+
+The match between the Sri Lanka Women's Group and the Indian Women's World Cup this year is scheduled to be held today (09).
+
+The match is in Sri Lanka. Arrangements have been made to start at 07.30.
+
+◼️
+
+[Data](articles/f7ba888b.json)
+
+[Extended Data](ext_articles/f7ba888b.ext.json)
 
 ---
 
@@ -2157,117 +2249,5 @@ It is noteworthy that the CWC has also decided to compete under the cylinder sym
 [Data](articles/b0c31bae.json)
 
 [Extended Data](ext_articles/b0c31bae.ext.json)
-
----
-
-### Special time for Sri Lankans in Lebanon
-
-*2024-10-08 23:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனானில்-உள்ள-இலங்கையர்களுக்கு-விசேட-கால-அவகாசம்/50-345121) · `ta`
-
-Sri Lankans in Lebanon get special registration deal. Register now until Oct 8, 2025. Cost: $62. Embassy open Sundays 9am-2pm. Register quickly for welfare and insurance benefits.
-
-🟩
-
-Sri Lankans in Lebanon have been given special time for registering at the Sri Lanka Foreign Employment Bureau.
-
-The concession has been granted to Sri Lankan employees who have long been working on the Sri Lankan Foreign Employment Bureau and not renewed the same record after arriving in Lebanon.
-
-The offer period will remain in effect for the period of 08 October 08 to 2025, ie 03 months.
-
-The Sri Lanka Bureau of Foreign Employment has announced that the registration can be made quickly to the embassy.
-
-Accordingly, the Sri Lankan Foreign Employment Bureau has been asked to bring the following documents to the Embassy Office.
-
-02) Current Employment Contract or JOB Offer Letter issued by a workplace related to the current workplace
-
-Those who do not have a Current Employment Contract or Job Offer Letter issued by the job offer letter can be filled by the Self-Declaration provided by the embassy.
-
-This registration process is charged as $ 62 (USD 62/-).
-
-...
-
-[Data](articles/ad4ffcaf.json)
-
-[Extended Data](ext_articles/ad4ffcaf.ext.json)
-
----
-
-### Central Asian Sangam Strike under 20
-
-*2024-10-08 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195807) · `ta`
-
-Sri Lanka loses 2-3 to Kyrgyzstan in U-20 volleyball tournament. Won first set 25-16 but fell short in final set 15-9. Now 4th place overall.
-
-🟩
-
-Sri Lanka lost the second defeat this evening at the Under -20 Central Asian Ceylon Tournament at the Sugathadasa Stadium in Colombo.
-
-Sri Lanka lost to Kyrgyzstan by 2 - 3 today, the third day of the match.
-
-Sri Lanka won by 25 - 16 in the first set.
-
-The next two sets were leading 2 - 1, based on the Kyrgyzstan Tanataki sets, based on 25 - 19, 25 - 20, respectively.
-
-In the fourth set, the two teams could win the team to fight hard.
-
-In the end, the fourth set of the fourth set was equal to the position of 2 - 2.
-
-Kyrgyzstan, who played the fifth and decisive set efficiently, won by 15 - 9 and won by a margin of 3 - 2.
-
-Sri Lanka behind the 4th place in the teams due to losing the match.
-
-◼️
-
-[Data](articles/270ddf2e.json)
-
-[Extended Data](ext_articles/270ddf2e.ext.json)
-
----
-
-### Standard Chartered Priority and Durdans Hospital partner to deliver an exclusive healthcare experience
-
-*2024-10-08 22:53:00* · [`islandlk`](http://island.lk/standard-chartered-priority-and-durdans-hospital-partner-to-deliver-an-exclusive-healthcare-experience/) · `en`
-
-Standard Chartered Priority, Sri Lanka has collaborated with Durdans Hospitals, a trusted name in Sri Lankan healthcare for over seven decades, to provide Standard Chartered Priority customers an enhanced and rewarding healthcare experience via the Durdans Priority Circle, an exclusive healthcare proposition.
-
-The Durdans Priority Circle was established with the goal of providing premium, tailored healthcare based on individual specifications. Currently the Priority Circle offers end-to-end personalised services to all members, with state-of- the-art facilities and competitive rates on many outpatient and inpatient services.
-
-...
-
-[Data](articles/0b97be95.json)
-
-[Extended Data](ext_articles/0b97be95.ext.json)
-
----
-
-### Cinnamon Hotels & Resorts elevates biodiversity awareness through ‘The Gathering of Giants’
-
-*2024-10-08 22:51:00* · [`islandlk`](http://island.lk/cinnamon-hotels-resorts-elevates-biodiversity-awareness-through-the-gathering-of-giants/) · `en`
-
-The Cinnamon Hotels & Resorts together with Cinnamon Nature Trails proudly hosted the second annual ‘The Gathering of Giants’ event at Cinnamon Habarana Complex from August 9th to 11th, 2024, in partnership with Seylan Bank, attracting wildlife enthusiasts, conservationists, and nature lovers from around the world. The event, which centred around the awe-inspiring elephant gathering at Minneriya and Kaudulla National Parks, offered attendees a once-in-a-lifetime experience to witness and learn about one of nature’s most extraordinary spectacles.
-
-...
-
-[Data](articles/72c9ee4e.json)
-
-[Extended Data](ext_articles/72c9ee4e.ext.json)
-
----
-
-### Mahindra Ideal Finance appoints Mufaddal Choonia as MD & CEO
-
-*2024-10-08 22:48:00* · [`islandlk`](http://island.lk/mahindra-ideal-finance-appoints-mufaddal-choonia-as-md-ceo/) · `en`
-
-Sri Lanka 08th October, 2024: Mahindra Ideal Finance Limited (MIFL), a subsidiary of Mahindra Finance has announced the appointment of Mufaddal Choonia as its new Managing Director & CEO with immediate effect. Mufaddal will succeed Duminda Weerasekare, who retired as MIFL’s CEO.
-
-In his new role, Mufaddal will focus on building a robust digital lending ecosystem, especially benefitting SME and rural customer segments. He will also be responsible for further enhancing MIFL’s customer value proposition by introducing a wider range of products.
-
-Raul Rebello, Managing Director & CEO, Mahindra Finance, said, “Mufaddal has played various leadership roles across the Mahindra group and at Mahindra Finance. While thanking Duminda for his contribution towards building a robust financial services business in Sri Lanka, I am positive that with his experience, Mufaddal will take MIFL to newer heights”.
-
-...
-
-[Data](articles/07badc9d.json)
-
-[Extended Data](ext_articles/07badc9d.ext.json)
 
 ---

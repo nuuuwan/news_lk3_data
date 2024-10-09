@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 08:43:22**
+As of **2024-10-09 08:58:34**
 
 ## Newspaper Stats
 
-*Scraped **48,502** Articles*
+*Scraped **48,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ bbccomsinhala | 481
 islandlk | 2,870
 economynextcom | 2,970
 dailyftlk | 3,282
-adalk | 4,493
+adalk | 4,494
 dailymirrorlk | 4,733
 adaderanalk | 5,713
-tamilmirrorlk | 6,573
+tamilmirrorlk | 6,574
 virakesarilk | 7,757
-adaderanasinhalalk | 8,389
+adaderanasinhalalk | 8,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,502 (100.0%) of 48,502 articles have been extended.
+48,505 (100.0%) of 48,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### An increase in online financial fraud
+
+*2024-10-09 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201978) · `si`
+
+Online financial fraud surges: 7,210 complaints by September, mostly social media-related. Senior engineers warn of increased threats to internet users' security, particularly around temporary passwords and OTPs.
+
+🟩
+
+The Computer Emergency Response Forum says that there is an increase in complaints regarding financial irregularities online.
+
+Senior Information Security Engineers Warrankarapola said that there were over 340 complaints of financial difficulty during the year.
+
+"By September, 7,210 complaints have been reported on the Internet by September. Most of these are events related to social media. Complaints received from the persons who had received 20% of the Internet events directly. A significant growth is found on the Internet fraud that is targeting the users online users online. Long time do not pay more concern about security, temporary password OTP number, which is available online. 340 complaints have been reported on the fraud on Internet Banking in the past. This site has not been identified by his banking, he has often been caught by these scam. "
+
+◼️
+
+[Data](articles/7655e18c.json)
+
+[Extended Data](ext_articles/7655e18c.ext.json)
+
+---
+
+### The main notice of railway services
+
+*2024-10-09 08:20:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவைகள்-குறித்து-முக்கிய-அறிவிப்பு/175-345126) · `ta`
+
+Railway service disruption: Nine bridges closed Oct 15-15 due to filming. Trains rerouted via Ella/Bandarawa instead of Badulla from 7:30 AM to 5:30 PM daily.
+
+🟩
+
+The Railways Department has announced that nine arches will be shut down from Colombo and Kandy in the bridge, through the bridge, from the 15th of October to the 15th of October for the shooting for the film.
+
+From 7:30 am to 5:30 pm. Similarly, the trains in the opposite direction will depart from Ella or Bandarawa instead of Badulla during this period. Remble
+
+◼️
+
+[Data](articles/31830aa0.json)
+
+[Extended Data](ext_articles/31830aa0.ext.json)
+
+---
 
 ### Recreated eggs
 
@@ -1392,6 +1434,30 @@ Hashem Safieddine, a top Hezbollah official, was widely expected to succeed Nasr
 
 ---
 
+### The south of fish production in 2023
+
+*2024-10-08 19:16:43* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-මත්ස්‍ය-නිෂ්පාදනයෙන්-දකුණ-කප්-ගහයි/11-412382) · `si`
+
+Sri Lanka's fish production summary: South produces 98,280 metric tons, East leads with 71,525, while Sabaragamuwa lags behind at 1,475 metric tons.
+
+🟩
+
+The Sri Lankan central bank, the Central Bank of Sri Lanka (SLTB) has contributed 104,670 metrics to fish production in Sri Lanka.
+
+The Southern Province has produced 98,280 metric fish from the Southern Province in the last year and the size of 6,390 metric ventures.
+
+The highest fish production has been made from the Eastern Province, and 71,525 metrics. The report also states that 5775 metrics from the Western Province have produced 64,935 metricton from the Northern Province.
+
+Fish production in the North Western Province is 64,715 metricton. The lowest fish generation has been made from the Sabaragamuwa Province and the fish production in the province is 1,475 metricton.
+
+◼️
+
+[Data](articles/1ab1b6aa.json)
+
+[Extended Data](ext_articles/1ab1b6aa.ext.json)
+
+---
+
 ### About the student who committed suicide revealed
 
 *2024-10-08 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201964) · `si`
@@ -2313,73 +2379,5 @@ Vice President of the Ceylon Workers Congress Bharat Arulsamy has joined the Tam
 [Data](articles/035994e2.json)
 
 [Extended Data](ext_articles/035994e2.ext.json)
-
----
-
-### Bharat joined Mano
-
-*2024-10-08 16:13:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோவுடன்-இணைந்தார்-பாரத்/175-345098) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Bharat Arulsamy, Vice President of Ceylon Workers Congress, joins Tamil Progressive Alliance under Mano Ganesan's leadership.
-
-🟩
-
-Vice President of the Ceylon Workers Congress Bharat Arulsamy has joined the Tamil Progressive Alliance led by former parliamentarian Mano Ganesan.
-
-◼️
-
-[Data](articles/ef59bf26.json)
-
-[Extended Data](ext_articles/ef59bf26.ext.json)
-
----
-
-### Appointment of new organizer of CWC
-
-*2024-10-08 16:10:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இ-தொ-காவின்-புதிய-அமைப்பாளர்-நியமனம்/175-345097) · `ta`
-
-Balakrishnan Prasadkumar named new CWC organizer for Kandy district. Appointed after discussions with senior party members. Replaces previous top organizer. Younger generation leader previously served as Senior Organizer for CWC Youth Team. Event attended by General Secretary Jeevan Thondaman, Chairman Senthil Thondaman, and Chairman Maruthapandi Rameswaran.
-
-🟩
-
-Balakrishnan Prasadkumar has been appointed as the new political and trade union organizer of the CWC for the Kandy district today (08).
-
-The status quo has been issued after a discussion with party high -ranking party members today (08) at the CWC headquarters.
-
-It is also worth noting that the CWC leadership has completed the last 24 hours to meet the vacancy of the post of the top organizer in the Kandy district.
-
-It is noteworthy that Balakrishnan Prasad Kumar is a younger generation and has done his duty as the Senior Organizer of the CWC Youth Team for the Kandy district in the past.
-
-The event was presented by CWC General Secretary Jeevan Thondaman, Chairman Senthil Thondaman and Chairman Maruthapandi Rameswaran.
-
-◼️
-
-[Data](articles/d4202022.json)
-
-[Extended Data](ext_articles/d4202022.ext.json)
-
----
-
-### Chinese warship ‘Po Lang’ docks in Colombo
-
-*2024-10-08 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/102533/chinese-warship-po-lang-docks-in-colombo) · `en`
-
-The Chinese People’s Liberation Army Navy Sail Training Warship ‘Po Lang’ has arrived at the port of Colombo on a formal visit this morning (08 October). The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions.
-
-‘PO LANG’ is an 86-meter-long Sail Training Vessel crewed by 130 personnel including 35 Officer Cadets, Sri Lanka Navy said in a statement.
-
-Meanwhile, the Commanding Officer of the ship, Commander Ma Wenyong is scheduled to call on the Commander Western Naval Area, Rear Admiral Chinthaka Kumarasinghe at the Western Naval Command Headquarters today (08).
-
-To strengthen the camaraderie between the two navies, crew members of the ship are set to participate in a series of programmes organized by the Sri Lanka Navy, the statement added.
-
-...
-
-[Data](articles/50d7c29e.json)
-
-[Extended Data](ext_articles/50d7c29e.ext.json)
 
 ---

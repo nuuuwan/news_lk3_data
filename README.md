@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 04:38:58**
+As of **2024-10-10 05:09:19**
 
 ## Newspaper Stats
 
-*Scraped **48,668** Articles*
+*Scraped **48,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 481
 bbccomsinhala | 483
 islandlk | 2,871
 economynextcom | 2,985
-dailyftlk | 3,290
+dailyftlk | 3,299
 adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,743
@@ -26,11 +26,183 @@ adaderanasinhalalk | 8,416
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,668 (100.0%) of 48,668 articles have been extended.
+48,677 (100.0%) of 48,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Ranjan Ramanayake launches new political party – United Democratic Voice
+
+*2024-10-10 04:41:44* · [`dailyftlk`](https://www.ft.lk/news/Ranjan-Ramanayake-launches-new-political-party-United-Democratic-Voice/56-767782) · `en`
+
+Says he has received mixed advice about continuing in politics, with some encouraging him to speak up for the people
+
+Notes shortage of genuine representatives in Parliament and expresses his determination to combat corruption
+
+Emphasises need for new, clean political party, believing it to be best solution for SL
+
+Former Member of Parliament and actor-turned-politician Ranjan Ramanayake has announced the formation of a new political party named the “United Democratic Voice” (Eksath Prajathanthravadi Handa). The launch event was held yesterday at the Taj Samudra Hotel in Colombo, where Ramanayake revealed the party’s symbol – a microphone – representing the party’s mission to be a voice for the voiceless.
+
+...
+
+[Data](articles/a3f95f40.json)
+
+[Extended Data](ext_articles/a3f95f40.ext.json)
+
+---
+
+### Mavai quits ITAK interim leadership
+
+*2024-10-10 04:38:51* · [`dailyftlk`](https://www.ft.lk/news/Mavai-quits-ITAK-interim-leadership/56-767781) · `en`
+
+Writes to S. Shritharan requesting him to take over leadership responsibilities
+
+However, an injunction order against Shritharan continues barring him from functioning as ITAK leader
+
+ITAK General Secretary P. Sathiyalingam also says he has not received any formal communique from Senathiraja on resignation
+
+Mavai Senathiraja, who has served as the leader of the Ilankai Tamil Arasu Katchi (ITAK) for nearly a decade, officially announced his resignation this week.
+
+In a letter addressed to Former Jaffna District Parliamentarian S. Shritharan on 7 October 2024, Senathiraja confirmed that he would be stepping down from the leadership role and urged Shritharan to take over as the party’s leader.
+
+Senathiraja acknowledged that Shritharan had already been elected as the party leader during ITAK’s 17th National Convention held in January 2024. However, despite winning the leadership race, Shritharan had not yet assumed the position due to legal restrictions.
+
+...
+
+[Data](articles/57766756.json)
+
+[Extended Data](ext_articles/57766756.ext.json)
+
+---
+
+### Dilith criticises Sajith for weak Opposition leadership
+
+*2024-10-10 04:36:38* · [`dailyftlk`](https://www.ft.lk/news/Dilith-criticises-Sajith-for-weak-Opposition-leadership/56-767780) · `en`
+
+Sarvajana Balaya Alliance leader Dilith Jayaweera criticised Opposition leader Sajith Premadasa for failing to effectively challenge the Government and offer robust leadership. At a press conference held yesterday, Jayaweera argued that Premadasa was “forced to remain in Opposition” because he has not fulfilled the responsibilities of the position with sufficient bravery and vision.
+
+According to Jayaweera, a true Opposition must not only criticise the Government but also guide it toward the correct path, offering constructive solutions while laying the groundwork for future political progress. “A brave Opposition must remain in Opposition but show the Government the correct path and provide guidance,” Jayaweera stated. “The Opposition should create the necessary circumstances for the future of politics to promote our political beliefs, our program, and our vision to realise the aspirations of the people.”
+
+...
+
+[Data](articles/9fcec275.json)
+
+[Extended Data](ext_articles/9fcec275.ext.json)
+
+---
+
+### Cabinet decides to terminate services of contract-based officers and consultants
+
+*2024-10-10 04:33:00* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-decides-to-terminate-services-of-contract-based-officers-and-consultants/56-767779) · `en`
+
+The Cabinet of Ministers at their meeting on Monday approved terminating the services of officers and consultants appointed on contract basis, effective from 30 September 2024.
+
+These contract-based appointments were originally made to establish two key entities – the ‘Office for the Affairs of Sri Lankans Abroad’ under the President’s Office and the ‘National Peoples Council’ which was set up to enhance public participation in democracy alongside the implementation of the ‘Agriculture Modernisation Program’. “The Government now believes that the functions anticipated from these offices and programs can be successfully carried out by the respective Ministries and Provincial Councils. Therefore, it was decided to discontinue the contract-based appointments,” Cabinet Spokesman and Minister Vijitha Herath said at the post-Cabinet meeting media briefing on Tuesday.
+
+◼️
+
+[Data](articles/2768513c.json)
+
+[Extended Data](ext_articles/2768513c.ext.json)
+
+---
+
+### Sri Lanka rejects draft resolution adopted at UNHRC, decries external mechanism
+
+*2024-10-10 04:28:29* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-rejects-draft-resolution-adopted-at-UNHRC-decries-external-mechanism/56-767778) · `en`
+
+Draft resolution A/HRC/57/L.1 on promoting reconciliation, accountability and human rights in Sri Lanka adopted without a vote at 57th Regular Session of the UNHRC in Geneva
+
+Sri Lanka yesterday rejected the draft resolution which was tabled before the United Nations Human Rights Council (UNHRC) seeking to extend the mandate of Resolution 51/1 on promoting reconciliation, accountability and human rights in Sri Lanka.
+
+Earlier the draft resolution A/HRC/57/L.1 on promoting reconciliation, accountability and human rights in Sri Lanka was adopted without a vote during the ongoing 57th Regular Session of the UNHRC in Geneva.
+
+However, delivering the government’s statement prior to the adoption of the draft proposal, Sri Lanka’s Permanent Representative to the UN Himalee Arunatilaka said the draft resolution 57/L.1 extends the mandates contained in Human Rights Council resolution 51/1.
+
+...
+
+[Data](articles/5d249f19.json)
+
+[Extended Data](ext_articles/5d249f19.ext.json)
+
+---
+
+### Korean Ambassador calls on President Dissanayake
+
+*2024-10-10 04:26:12* · [`dailyftlk`](https://www.ft.lk/news/Korean-Ambassador-calls-on-President-Dissanayake/56-767777) · `en`
+
+The Ambassador of the Republic of Korea Miyon Lee made a courtesy call on President Anura Kumara Dissanayake yesterday.
+
+The visit marked an important juncture in strengthening bilateral ties between Korea and Sri Lanka.
+
+During the meeting, Ambassador Lee congratulated President Dissanayake on his inauguration and also conveyed best wishes from President Yoon Suk Yeol and his expectations to bolster the relationship between the two countries under the new leadership.
+
+...
+
+[Data](articles/d8c96ade.json)
+
+[Extended Data](ext_articles/d8c96ade.ext.json)
+
+---
+
+### German Ambassador assures President continued support for development and trade
+
+*2024-10-10 04:24:08* · [`dailyftlk`](https://www.ft.lk/news/German-Ambassador-assures-President-continued-support-for-development-and-trade/56-767776) · `en`
+
+German Ambassador Felix Neumann yesterday met with President Anura Kumara Dissanayake.
+
+Ambassador Neumann congratulated President Dissanayake on his recent election victory and conveyed Germany’s commitment to standing by Sri Lanka as a steadfast partner. The Ambassador also passed on the warm greetings and best wishes of German Chancellor Olaf Scholz.
+
+Ambassador Neumann emphasised the longstanding partnership between Germany and Sri Lanka and expressed Germany’s eagerness to continue cooperation on mutual interests. He highlighted Germany’s 70 years of experience in human resource development and pledged support to Sri Lanka in strengthening this sector.
+
+...
+
+[Data](articles/12484c56.json)
+
+[Extended Data](ext_articles/12484c56.ext.json)
+
+---
+
+### Swiss Ambassador pledges support to President on economic and anti-corruption efforts
+
+*2024-10-10 04:22:21* · [`dailyftlk`](https://www.ft.lk/news/Swiss-Ambassador-pledges-support-to-President-on-economic-and-anti-corruption-efforts/56-767775) · `en`
+
+Ambassador Extraordinary and Plenipotentiary of Switzerland to Sri Lanka Dr. Siri Walt yesterday held a meeting with President Anura Kumara Dissanayake.
+
+During the meeting, Ambassador Walt extended her congratulations to President Dissanayake on his recent election victory, conveying best wishes on behalf of the Government and people of Switzerland.
+
+Ambassador Walt reaffirmed Switzerland’s commitment to supporting Sri Lanka, particularly through the ongoing IMF program, and expressed Switzerland’s readiness to assist President Dissanayake’s efforts to combat corruption. She also emphasised Switzerland’s expertise in foreign direct investments (FDIs) and tourism, offering assistance to Sri Lanka in these sectors to promote economic growth.
+
+Further areas of collaboration discussed included constitutional reforms and labour migration, with Ambassador Walt noting Sri Lanka’s potential in these areas and pledging Switzerland’s support in facilitating progress.
+
+...
+
+[Data](articles/9ba54309.json)
+
+[Extended Data](ext_articles/9ba54309.ext.json)
+
+---
+
+### US Admiral visits Sri Lanka today, strengthening bilateral security cooperation
+
+*2024-10-10 04:20:37* · [`dailyftlk`](https://www.ft.lk/news/US-Admiral-visits-Sri-Lanka-today-strengthening-bilateral-security-cooperation/56-767774) · `en`
+
+The US Embassy in Sri Lanka yesterday announced that Admiral Steve Koehler, a 4-star US Navy Admiral and Commander of US Pacific Fleet, will visit Sri Lanka today, marking the highest-level US military visit to the country since 2021.
+
+During the visit, Admiral Koehler will reaffirm the strong partnership between the United States and Sri Lanka for an enduring, resilient, free and open Indo-Pacific.
+
+Admiral Koehler will engage with senior Sri Lankan officials to discuss rising security challenges in the Indian Ocean region, strengthen collaboration on maritime domain awareness and disaster response, reaffirm US commitment to supporting Sri Lanka in combating transnational threats, and discuss the growing cooperation between US and Sri Lankan forces.
+
+This visit underscores the United States’ strong commitment to strengthening security ties with Sri Lanka, a key partner in promoting peace and stability in the Indo-Pacific region.
+
+◼️
+
+[Data](articles/bdf0fd16.json)
+
+[Extended Data](ext_articles/bdf0fd16.ext.json)
+
+---
 
 ### Institute of Policy Studies Chief advocates fiscal austerity measures
 
@@ -2113,233 +2285,5 @@ Air Force Commander Air Marshal Udayani visited several sections of the Air Forc
 [Data](articles/74e6f25d.json)
 
 [Extended Data](ext_articles/74e6f25d.ext.json)
-
----
-
-### Bail to doctor Aruchuna
-
-*2024-10-09 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195838) · `ta`
-
-Doctor Aruchuna released on bail, promises not to violate conditions. Case filed against him for threatening colleagues and online slander. Bail order expected tomorrow. Court hearings scheduled for today regarding the case against him.
-
-🟩
-
-The Chavakachcheri Magistrate's Court has been released on bail after the doctor Aruchuna has promised not to violate the bail conditions.
-
-The Jaffna - Chavakachcheri Hospital has filed a case at the Chavakachcheri Hospital against crimes including the threat of fellow doctors on the telephone and slander on social media.
-
-While the doctor was released on bail, he was canceled and interrogated during the last case, including violation of bail conditions and failing to submit evidence.
-
-இந்நிலையில் கடந்த வாரம் அருச்சுனாவின் சட்டத்தரணி நகர்த்தல் பத்திரம் மூலம் மன்றில் பிணை விண்ணப்பம் செய்திருந்த நிலையில் அதற்கான கட்டளை நாளை வியாழக்கிழமை (10) வழங்கப்படும் என மன்று திகதியிட்டிருந்தது.
-
-With a re -move on Wednesday (09), a bail application was granted, and the doctors were allowed to go on bail as they promised not to violate the bail conditions in the near future.
-
-அதேவேளை வைத்தியருக்கு எதிரான வழக்கு விசாரணைகள் நாளை வியாழக்கிழமை மன்றில் எடுத்துக்கொள்ளப்படவுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/386b91b0.json)
-
-[Extended Data](ext_articles/386b91b0.ext.json)
-
----
-
-### Indo-Sri Lanka women's cricket clash today
-
-*2024-10-09 14:06:46* · [`adalk`](https://www.ada.lk/sports/ඉන්දු---ශ්‍රී-ලංකා-කාන්තා-ක්‍රිකට්-ගැටුම-අද/9-412396) · `si`
-
-Sri Lanka Women's Cricket vs India Women's World Cup match today at 7:30 AM local time in Sri Lanka.
-
-🟩
-
-The match between the Sri Lanka Women's Group and the Indian Women's World Cup this year is scheduled to be held today (09).
-
-The match is in Sri Lanka. Arrangements have been made to start at 07.30.
-
-◼️
-
-[Data](articles/f7ba888b.json)
-
-[Extended Data](ext_articles/f7ba888b.ext.json)
-
----
-
-### Commentary on the cause of the cause of suicide
-
-*2024-10-09 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201989) · `si`
-
-Here's a 200-character summary:
-
-
-
-Professor Mohammed Mahjeh attributes rising suicides to social isolation and declining human connections in modern society. He cites excessive mobile phone use as a factor, suggesting it replaces face-to-face interactions and deepens loneliness.
-
-🟩
-
-Professor Mohammed Mahjeh, Colombo, says that the determination of human relationships and the isolation of people commit suicide.
-
-The Ada Derana joined the Ada Derana to the Big FUCUS program.
-
-Professor Mohammed Mah scores the reasons for the collapse of human relationships, the modern man, more transactions than the transactions carried out with others.
-
-"We see suicides in the world's advanced modern countries most of the world. But Sri Lanka is not a modern country. But we can see the isolation of human relationships, individuals, one of the main reasons. One is that we do not understand us and we will break this relationship with others. To control this, we must read us again. Our culture should be reread back. The main reason for this is the main reason for human desires, aspirations. One is to exceed your needs. Living with the big desires that go to the need. "
-
-...
-
-[Data](articles/48af7486.json)
-
-[Extended Data](ext_articles/48af7486.ext.json)
-
----
-
-### “If you are constantly at home, the law will flow”
-
-*2024-10-09 14:03:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-வீட்டில்-இருந்தால்-சட்டம்-பாயும்/175-345159) · `ta`
-
-Former government officials failing to return official homes after coup. Only 14 out of 41 homes returned. Ministry threatens legal action.
-
-🟩
-
-The Ministry of Public Administration and Home Affairs has decided to take legal action against members of the former government holding official homes.
-
-Of the 41 official houses allocated following the coup, only 14 houses have been returned, a ministry official said.
-
-A total of 41 apartments have been allocated to the ministers of the former government, the Ministry official said.
-
-After the 2024 presidential election, the Ministry of Public Administration and Home Affairs issued a notification to withdraw official homes.
-
-However, so far, only 14 apartments have been renovated, and the Ministry of Public Administration and Home Affairs has accelerated to take legal action.
-
-◼️
-
-[Data](articles/12ae30d2.json)
-
-[Extended Data](ext_articles/12ae30d2.ext.json)
-
----
-
-### Legal action on those who are constantly at home
-
-*2024-10-09 14:03:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-வீட்டிலிருப்பவர்கள்-மீது-சட்ட-நடவடிக்கை/175-345159) · `ta`
-
-Ministry takes legal action against former officials for failing to return official homes after coup. Only 14 out of 41 allocated homes have been returned. Ministry accelerates legal action after notification issued post-2024 election.
-
-🟩
-
-The Ministry of Public Administration and Home Affairs has decided to take legal action against members of the former government holding official homes.
-
-Of the 41 official houses allocated following the coup, only 14 houses have been returned, a ministry official said.
-
-A total of 41 apartments have been allocated to the ministers of the former government, the Ministry official said.
-
-After the 2024 presidential election, the Ministry of Public Administration and Home Affairs issued a notification to withdraw official homes.
-
-However, so far, only 14 apartments have been renovated, and the Ministry of Public Administration and Home Affairs has accelerated to take legal action.
-
-◼️
-
-[Data](articles/675a5e4b.json)
-
-[Extended Data](ext_articles/675a5e4b.ext.json)
-
----
-
-### Bail to doctor Aruchuna
-
-*2024-10-09 14:01:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அருச்சுனாவுக்கு-பிணை/175-345158) · `ta`
-
-Doctor Aruchuna released on bail, promises not to violate conditions. Case filed against him for threatening doctors and slander on social media. Previously detained for alleged violations. Bail granted after attorney general's application.
-
-🟩
-
-The Chavakachcheri Magistrate's Court has been released on bail after the doctor Aruchuna has promised not to violate the bail conditions.
-
-The Jaffna - Chavakachcheri Hospital has filed a case at the Chavakachcheri Hospital against crimes including the threat of fellow doctors on the telephone and slander on social media.
-
-During the last case, the doctor was released on bail, and during the last case, he was canceled and detained for allegedly violating bail conditions and failure to submit evidence.
-
-Last week, Aruchuna's Attorney General had issued a bail application in the forum through the Movement Movement.
-
-In the meantime, on Wednesday (09), a bail application was granted by the forum, and the doctor was allowed to go on bail as he promised not to violate the bail conditions in the near future.
-
-◼️
-
-[Data](articles/adb3d417.json)
-
-[Extended Data](ext_articles/adb3d417.ext.json)
-
----
-
-### Sri Lanka default rating could be removed after commercial debt restructure: Fitch
-
-*2024-10-09 14:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-default-rating-could-be-removed-after-commercial-debt-restructure-fitch-182970/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s restricted default (RD) rating could be removed after debt restructuring is complete, and relations with commercial creditors are normalized, Fitch Ratings said.
-
-With the new administration endorsing a deal with sovereign bondholders, political risks have to debt restructure has receded, Fitch said.
-
-Foreign Minister Vijitha Herath said the administration decided to go ahead with the deal negotiated shortly before the Presidential elections because delays could lead to bigger problems for the economy.
-
-Sri Lanka going ahead ISB deal to avoid bigger problems from delay: Foreign Minister
-
-Sri Lanka going ahead ISB deal to avoid bigger problems from delay: Foreign MinisterSee more
-
-Fitch put Sri Lanka’s long term foreign currency rating (the Issuer Default Rating) at RD in May 2022 after coupon payment was missed.
-
-...
-
-[Data](articles/80ffc0c8.json)
-
-[Extended Data](ext_articles/80ffc0c8.ext.json)
-
----
-
-### Karry Samba to buy 15000 kilo of Nadda
-
-*2024-10-09 13:54:47* · [`adalk`](https://www.ada.lk/breaking_news/නාඩු-කිලෝ-5000ක්-ගන්න-කීරි-සම්බා-කිලෝ-15000ක්-මිලදී-ගන්න-කියයි/11-412395) · `si`
-
-Karry Samba buys 15,000 kg of Nadda rice from Hatton rice mills. Rice shortage risk exists due to limited stock. Prices: 1kg Nadda rice = Rs. [price not specified]. Egg prices: White egg = Rs. 41, Red egg = [price not specified]. Vegetable prices fluctuate based on region (upcountry/lowland).
-
-🟩
-
-Relled in Hatton states that the risk of a shortage of rice in the premises of the rice mill owners is a risk of a shortage of rice in the premises.
-
-Key Sambaba should take up five thousand kilos to rice prices to buy five thousand prices and to get five thousand kilos of Nadu rice in a major rice mill owner.The rice suitable is that the stocks are puzzing.
-
-The rice mill owners have followed such a system to end the owners of the rice mill owners and that a kilo of nadi rice will be released to Rs.
-
-Accordingly, a kilo of Nadu rice should be sold at a maximum retail price of Rs.
-
-And the eggs and coconut in Hatton say that a white egg is sold for Rs 41, a red egg.
-
-Vegetables were the increase in rice, eggs and coconut prices, but the prices of the upcountry and lowland were down.
-
-◼️
-
-[Data](articles/059c51ac.json)
-
-[Extended Data](ext_articles/059c51ac.ext.json)
-
----
-
-### Ranjan Ramanayake forms new political party
-
-*2024-10-09 13:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102556/ranjan-ramanayake-forms-new-political-party) · `en`
-
-Former Member of Parliament Ranjan Ramanayake has formed a new political party named the “United Democratic Voice” (Eksath Prajathanthravadi Handa).
-
-The ‘microphone’ was unveiled as the symbol of the United Democratic Voice.
-
-Former Sri Lankan cricketer Thilakarathne Dilshan, also known as TM Dilshan, has been appointed as the national organizer of the new party led by actor-turned-politician Ranjan Ramanayake.
-
-Meanwhile, former Samagi Jana Balawegaya (SJB) Parliamentarian Vadivel Suresh was also present at the occasion of unveiling the new political party.
-
-In 2010, Ranjan Ramanayake was first elected to the Parliament representing Ratnapura District from the United National Party (UNP).
-
-◼️
-
-[Data](articles/a0cca912.json)
-
-[Extended Data](ext_articles/a0cca912.ext.json)
 
 ---

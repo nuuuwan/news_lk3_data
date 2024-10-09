@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 01:38:55**
+As of **2024-10-10 01:58:01**
 
 ## Newspaper Stats
 
-*Scraped **48,660** Articles*
+*Scraped **48,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,742
 tamilmirrorlk | 6,602
-virakesarilk | 7,783
+virakesarilk | 7,785
 adaderanasinhalalk | 8,416
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,660 (100.0%) of 48,660 articles have been extended.
+48,662 (100.0%) of 48,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### The new Director of the SriLankan Airlines Service
+
+*2024-10-10 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/195903) · `ta`
+
+SriLankan Airlines appoints new directorate on Wednesday, September 9. National Airlines Company names new leadership team.
+
+🟩
+
+A new Directorate has been appointed by the National Airlines Company, SriLankan Airlines on Wednesday (09).
+
+◼️
+
+[Data](articles/5a39e24d.json)
+
+[Extended Data](ext_articles/5a39e24d.ext.json)
+
+---
+
+### Dasun Shanaka is not in the Sri Lankan group named for the T20 series against the West Indies
+
+*2024-10-10 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195902) · `ta`
+
+Dasun Shanaka excluded from Sri Lanka's T20 squad vs West Indies. Sarith Asalanka named captain. Young player Samindu Wickremesinghe debuts. Fast bowlers Madisha Pathirana, Nuwan Dushara included. Sanath Jayasuriya appointed full-time coach. Matches scheduled October 13-17 at Rangiri Dambulla International Cricket Stadium.
+
+🟩
+
+The Sri Lankan group, which has 17 players, has been named after the three -match international T20 cricket series against the West Indies.
+
+Former Sri Lankan captain Dasun Shanaka and Dushmantha Sameera have not been given the opportunity to lose a 0 -3 match in the International T20 series against India in July against India.
+
+Sarid Asalan has been appointed as the captain of the Sri Lankan team and the young player Samindu Wickremesinghe has been given the opportunity to quit.
+
+Samindu Wickremasinghe, who made his debut in the last T20 against India, took 4 overs and took only 17 runs.
+
+Meanwhile, fast bowlers Madisha Pathirana, Nuwan Dushara and batsman Avishka Fernando have also been included in the group.
+
+In the meantime, Sanath Jayasuriya, who led the Sri Lankan team as an interim coach in the series against India, England and New Zealand, will begin his work with the series against the West Indies as a full -time instructor.
+
+...
+
+[Data](articles/ef7e7c7d.json)
+
+[Extended Data](ext_articles/ef7e7c7d.ext.json)
+
+---
 
 ### Innovation in action: SLDF 2024 highlights why creative industries mean business
 
@@ -2315,69 +2361,5 @@ The police said that no commander of the arrested suspect had no passport.
 [Data](articles/3bfb59a1.json)
 
 [Extended Data](ext_articles/3bfb59a1.ext.json)
-
----
-
-### A number of parties signing nominations
-
-*2024-10-09 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201987) · `si`
-
-Multiple parties submit nominations for upcoming general election. 66 groups total. National nomination signed at party HQ. Other parties sign at various locations. Postal voting ends midnight. Foreign observers invited, including Russia and SAARC countries. Commonwealth and Asian Election Observers to attend.
-
-🟩
-
-Several major political parties who contest for the next general election have been signed nomination papers today (09).
-
-So 33 independent groups and 33 political parties have already been handed over.
-
-The national nomination signed its nomination papers at the party headquarters in Pelawatta.
-
-The UPFA signed the nomination papers at the UPFA's office at the same party.
-
-The new Democratic Front serves under the sign of the gas cylinder.
-
-Former President Ranil Wickremesinghe's Election Operations office located at the Colombo Flower Road.
-
-The Sri Lanka General Front also signed nominations for the next general election.
-
-Meanwhile, the period of postal votes related to the general election is due to end a midnight tomorrow.
-
-Meanwhile, the Elections Commission says that many foreign electorates have been invited to generaliality.
-
-...
-
-[Data](articles/34b6718c.json)
-
-[Extended Data](ext_articles/34b6718c.ext.json)
-
----
-
-### The impact of non -standard drugs and the need for the purchase law
-
-*2024-10-09 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195734) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Non-standard drugs purchased during Sri Lanka's economic crisis caused permanent vision loss in patients. Compensation cases are ongoing. Experts call for transparency in pharmaceutical purchases and stricter regulations. A new purchasing law is proposed to prevent future issues.
-
-🟩
-
-64 -year -old Makkari Rajaratnam, a native of Kandapalai, was admitted to the Nuwara Eliya General Hospital last year to address the sight of his left eye.
-
-After a cataract surgery on April 5, 2023, he returned home on April 6. Brednisolone, provided by the hospital at the time, used the ophthalmology.
-
-After its aftermath. He was admitted to the Colombo National Eye Hospital for further treatment on May 10.
-
-In an examination carried out at the time, the tragic news that Makkari Rajaratnam had permanently lost sight was published by the medical authorities.
-
-At the same time, 64 -year -old PA Nandasena from Aluthgama, Bandarawela was undergoing cataract surgery at the Nuwara Eliya General Hospital.. Upon his return home on April 6, the Britzisolon Azherad, provided by the hospital, started using the ophthalmology.
-
-...
-
-[Data](articles/78d93c76.json)
-
-[Extended Data](ext_articles/78d93c76.ext.json)
 
 ---

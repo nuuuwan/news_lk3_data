@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 01:58:01**
+As of **2024-10-10 02:23:22**
 
 ## Newspaper Stats
 
-*Scraped **48,662** Articles*
+*Scraped **48,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ colombotelegraphcom | 481
 bbccomsinhala | 483
 islandlk | 2,871
 economynextcom | 2,985
-dailyftlk | 3,286
+dailyftlk | 3,288
 adalk | 4,516
 dailymirrorlk | 4,733
-adaderanalk | 5,742
+adaderanalk | 5,743
 tamilmirrorlk | 6,602
 virakesarilk | 7,785
 adaderanasinhalalk | 8,416
@@ -26,11 +26,65 @@ adaderanasinhalalk | 8,416
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,662 (100.0%) of 48,662 articles have been extended.
+48,665 (100.0%) of 48,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Misinformation lovingly brought to you by Big Tech
+
+*2024-10-10 01:53:48* · [`dailyftlk`](https://www.ft.lk/columns/Misinformation-lovingly-brought-to-you-by-Big-Tech/4-767758) · `en`
+
+Teens spend on average five hours a day on social media, of their nine hours on screens
+
+Hiding under a lobby group called NetChoice, it’s anything but
+
+I keep tabs on misinformation, and its close cousin, disinformation for a simple reason. I teach a computer class. These topics are all part of an ecosystem that students didn’t have to worry about, say, a decade ago. I am talking about phenomena such as data harvesting, trolls, linkbait, sexting, two-factor authentication, ransomware and the whole nine yards of cyber security that IT administrators –and now the rest of us–lose sleep over.
+
+...
+
+[Data](articles/299779c3.json)
+
+[Extended Data](ext_articles/299779c3.ext.json)
+
+---
+
+### Overcoming common mistakes in customer experience
+
+*2024-10-10 01:47:17* · [`dailyftlk`](https://www.ft.lk/columns/Overcoming-common-mistakes-in-customer-experience/4-767757) · `en`
+
+The customer is the primary focus of any business. Even with the best intentions, companies sometimes fail to meet customer expectations, leading to dissatisfaction. This often occurs owing to the following issues:
+
+When a problem arises, customers usually contact the company right away, expecting an immediate response. Responsiveness plays a crucial role in shaping the customer experience. Customers expect their issues to be resolved on the first contact or at least within the shortest possible time. Therefore, decision-making power should be as close to the customer as possible.
+
+...
+
+[Data](articles/4601c0a5.json)
+
+[Extended Data](ext_articles/4601c0a5.ext.json)
+
+---
+
+### Ratan Tata, former Tata Group chairman, dies at age 86
+
+*2024-10-10 01:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/102574/ratan-tata-former-tata-group-chairman-dies-at-age-86) · `en`
+
+(Reuters) - Ratan Tata, the former Tata Group chairman who put a staid and sprawling Indian conglomerate on the global stage with a string of high-profile acquisitions, has died, the Tata Group said in a statement late on Wednesday. He was 86.
+
+Tata, who ran the conglomerate for more than 20 years as chairman, had been undergoing intensive care in a Mumbai hospital, two sources with direct knowledge of his medical situation told Reuters earlier on Wednesday.
+
+After graduating with a degree in architecture at Cornell University, he returned to India and in 1962 began working for the group his great-grandfather had founded nearly a century earlier.
+
+He worked in several Tata companies, including Telco, now Tata Motors Ltd, as well as Tata Steel Ltd, later making his mark by erasing losses and increasing market share at group unit National Radio & Electronics Company.
+
+...
+
+[Data](articles/8b9e0a1a.json)
+
+[Extended Data](ext_articles/8b9e0a1a.ext.json)
+
+---
 
 ### The new Director of the SriLankan Airlines Service
 
@@ -2285,81 +2339,5 @@ We will solve the basic problems of the upcountry people through the United Demo
 [Data](articles/a5287576.json)
 
 [Extended Data](ext_articles/a5287576.ext.json)
-
----
-
-### Vadivel Sureshum jumped
-
-*2024-10-09 13:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடிவேல்-சுரேஷூம்-தாவினார்/175-345155) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former MP Vadivel Suresh joins United Democratic Voice party. Promises to address issues affecting rural communities, criticizing corrupt politicians.
-
-🟩
-
-Former parliamentarian Vadivel Suresh announced on Wednesday (09) that he is contesting through the "United Democratic Voice" party.
-
-“We will resolve the basic problems of the upcountry people through the United Democratic Voice Party. People have cut off state leaders who deceive the upcountry people. We can't deceive us anymore. ”
-
-◼️
-
-[Data](articles/676754e0.json)
-
-[Extended Data](ext_articles/676754e0.ext.json)
-
----
-
-### A new political party from Ranjan Ramanayake
-
-*2024-10-09 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201988) · `si`
-
-Ranjan Ramanayake launches United Democratic Voice party. Tilakaratne Dilshan named national organizer. Former MP Vundayale Suresh attends launch event.
-
-🟩
-
-Former MP Ranjan Ramanayake has launched a new political party.
-
-The political party is the sign of that political party established, "United Democratic Voice."
-
-Tillakaratne Dilshan has been appointed as the national organizer of the party.
-
-Meanwhile, former parliamentarian, MP Vundayale Suresh was also present at the occasion.
-
-◼️
-
-[Data](articles/5cfec02c.json)
-
-[Extended Data](ext_articles/5cfec02c.ext.json)
-
----
-
-### චීන ජාතිකයන් 20ක් අල්ලයි
-
-*2024-10-09 13:12:26* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතිකයන්-20ක්-අල්ලයි/11-412394) · `si`
-
-Chinese nationals arrested without visas suspected of illegally earning money online. Police seized smartphones, laptops, and other equipment used for internet services. 20 suspects detained, 18 escaped during raid. No passports found among detainees. Police investigating illegal activities and money laundering.
-
-🟩
-
-වීසා නොමැතිව රැදී සිටිමින් අයථා ලෙස අන්තර්ජාලය හරහා මුදල් ඉපයූ බවට සැක කරන චීන ජාතිකයන් 20 කු පානදුර උතුර ගොරකාන  ධම්මානන්ද මාවතේ ලැගුම්හලක සිටියදී  අත්අඩංගුවට ගැනීමට පානදුර උතුර පොලිසිය සමත් වී ඇත.
-
-වැටලීමත් සමගම එම ස්ථානයේ සිටි තවත් චීන ජාතිකයන්න්18 කු පලා ගොස් ඇත.
-
-The police said that no commander of the arrested suspect had no passport.
-
-එම ස්ථානයේ තිබී විවිධ වර්ගයේ ස්මාර්ට්  ජංගම දුරකථන 432 ක් ,  ජංගම දුරකථන චාජර් කැට 133 , යු එස් ,බි කේබල් 340 ක් ,
-
-ලැෆ්ටොෆ්  පරිගණක, යු එස් බි චාජර් කෝඩ් , පවර් කෝඩ් , රවුටර්  ,මොනිටර් , ඝනක යන්ත්‍ර , යු පි එස්  3 ක් , වීඩියෝ කැමරා , ආදී අන්තර්ජාල පහසුකම් සඳහා යොදාගන්නා උපකරණ රැසක් පොලිස් භාරයට ගෙන ඇත.
-
-පානදුර  උතුර ,ගොරකාන ධම්මානන්ද මාවතේ ලැගුම් හලක් තුළ සැක කටයුතු විදේශිකයන් පිරිසක් රැඳී සිටින බවට පානදුර උතුර පොලිසියට අනුයුක්ත බස්නාහිර පළාත් බුද්ධි කොට්ඨාසයේ නිලධාරියකුට ලද තොරතුරු වලට අනුව පානදුර උතුර පොලිසියේ නිලධාරීන් සහ පානදුර කොට්ඨාස අපරාධ අංශයේ  නිලධාරීන් කණ්ඩායමක් 8 රාත්‍රී එම ස්ථානය වටලා සැකකාර චීන ජාතිකයන් පිරිස අත්අඩංගුවට ගෙන ඇත
-
-...
-
-[Data](articles/3bfb59a1.json)
-
-[Extended Data](ext_articles/3bfb59a1.ext.json)
 
 ---

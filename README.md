@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 17:59:58**
+As of **2024-10-09 18:19:59**
 
 ## Newspaper Stats
 
-*Scraped **48,606** Articles*
+*Scraped **48,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,63 +20,117 @@ dailymirrorlk | 4,733
 adaderanalk | 5,735
 tamilmirrorlk | 6,594
 virakesarilk | 7,775
-adaderanasinhalalk | 8,406
+adaderanasinhalalk | 8,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,599 (100.0%) of 48,606 articles have been extended.
+48,604 (100.0%) of 48,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
 
-### சுயேட்சை சின்னமாக இருந்த சங்கு சின்னம் தற்போது கட்சியின் சின்னமாக மாற்றப்பட்டிருக்கின்றது – சிறிநேசன் ஆதங்கம்
+### The Sangu symbol, which was an independent symbol, has now been transformed into a symbol of the party - Sirinasan
 
 *2024-10-09 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/195860) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளராக பா.அரியநேத்திரன் சங்கு சின்னத்தில் தமிழ் மக்களின் ஒற்றுமை கருதி போட்டியிட்டிருந்தார். ஆனால் தற்போது  ஜனநாயக தமிழ் தேசிய கூட்டமைப்பின் சின்னமாக சங்கு சின்னம் அமைந்துள்ளதாக  இலங்கைத் தமிழரசுக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஞானமுத்து சிறிநேசன் தெரிவித்தார்.
+Sangu symbol transformed from independent to TNA symbol. PA Ariyanethran contested under Sangu symbol. Now TNA uses conch symbol. Candidates switch parties due to election timing issues. TNA emphasizes unity among Tamil parties for future elections.
 
-மக்கள் தற்போது தெளிவாக விளங்கிக் கொள்ள வேண்டும். தமிழ் பொதுமக்கள் சபையானது ஜனாதிபதி தேர்தலின் போது சுயேச்சை சின்னமாகதான் சங்கு சின்னம் அமைந்துள்ளது. இப்போது அந்த சங்கு சின்னம் என்பது ஒரு கட்சியின் சின்னமாக மாற்றப்பட்டிருக்கின்றது.  அதாவது ஜனநாயகம் தமிழ் தேசிய கூட்டமைப்பானது தனது குத்து விளக்கு சின்னத்தை விட்டு விட்டு சங்கு சின்னத்தை எடுத்திருக்கின்றனர்.
+🟩
 
-இந்த பொதுமக்கள் சபை சார்பாக நிறுத்தப்பட்ட அந்த தமிழ் வேட்பாளருக்கு ஒரு பகுதியினர் ஆதரவு அளித்தனர். இன்னுமொரு பகுதியில் இந்த தொலைபேசி சின்னத்தில் போட்டியிட்டு ஐக்கிய மக்கள் சக்தியை வேட்பாளருக்கு ஆதரவளித்திருந்தனர்.
+PA Ariyanethran contested the presidential election for the unity of the Tamil people in the Sangu symbol. But now the Sangam symbol is the symbol of the Democratic Tamil National Alliance (TNA), said Gnanamuthu Sirinasan, a former MP of the Sri Lanka Tamil National Party.
+
+People are currently clearly understood. The Tamil Public Council is the independent symbol during the presidential election. Now the conch symbol has been transformed into a party's symbol.That is, the Tamil National Alliance (TNA) has left its punch lamp symbol and took the conch symbol.
+
+Part of the Tamil candidate, who was standing on behalf of this public council. In another area, the telephone symbol had been supported by the United People's Power.
 
 ...
 
 [Data](articles/c383b354.json)
 
+[Extended Data](ext_articles/c383b354.ext.json)
+
 ---
 
-### சுப்பர் ஸ்டாரின் 'வேட்டையன்' படத்தை பட மாளிகையில் சென்று ரசிப்பதற்கான காரணங்கள்...!?
+### Kamal Garachchi for general election
+
+*2024-10-09 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201997) · `si`
+
+Kamal Attaarachchi contests general election. Second Generation Party formed. Civil organizations support. Led by Rohana Wijeweera's son. Promises new leadership, development.
+
+🟩
+
+Veteran performer Kamal Attaarachchi is due to contest the second generation to the general election this year.
+
+The second Nurses, the party said at a press conference organized by the Talawatugoda area today (09).
+
+"To build a good parliament building. We break the tradition of the failed people to parliament again. Let us choose a new group you can work in collaboration and intelligently. Second generation can give that strength. I also strengthened them to them today with the second generation. "
+
+A few civil organizations joined the Second Regional Party and had signed a compromise.
+
+The son of the JVP Rohana Wijeweera, the son of the JVP Rohana Wijeweera, is headed by the Second Regime party.
+
+"If the opposition is sent to the old thieves, the country cannot be developed. Fill in the people who love this country. "
+
+◼️
+
+[Data](articles/819371c1.json)
+
+[Extended Data](ext_articles/819371c1.ext.json)
+
+---
+
+### The reasons why Super Star's 'Vettayan' is going to the film House ...!?
 
 *2024-10-09 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195868) · `ta`
 
-சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் தயாராகி ஒக்டோபர் பத்தாம் திகதி முதல் அதாவது நாளை முதல் உலகம் முழுவதும் பட மாளிகைகளில் தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளில் வெளியாகும் திரைப்படம் 'வேட்டையன்'. இந்த திரைப்படத்தினை முதல் நாள் முதல் காட்சி சென்று பார்ப்பதற்கு சுப்பர் ஸ்டாரின் ரசிகர்கள் மட்டுமல்லாமல் திரையுலக ஆர்வலர்களும் ஆர்வமாய் இருக்கிறார்கள். இதற்கான காரணத்தை கீழே காணலாம்.
+Here's a 200-character summary:
 
-சுப்பர் ஸ்டார் ரஜினிகாந்த் - 70 வயதைக் கடந்திருந்தாலும் இன்றும் கதையின் நாயகனாக நடிப்பதிலும்.. அதிலும் தன்னுடைய பிரத்யேக உடல் மொழி -உரையாடல் - உச்சரிப்பு ஆகியவற்றின் அவருக்கே உரிய வேகத்தை காட்டி நடித்திருப்பது முதன்மையான காரணம்.
 
-அவர் எந்த கதாபாத்திரத்தை ஏற்று நடித்தாலும் அதில் தன்னுடைய தனித்துவமான ஸ்டைலை புகுத்தி, அந்த கதாபாத்திரத்தை ரசிக்க வைப்பார். அதிலும் அவர் காவல்துறை அதிகாரி  வேடத்தை ஏற்று நடிக்கும் போது கம்பீரத்துடன் கூடிய தோற்றமும், அந்த கதாபாத்திரத்திற்கே உரிய வேகமும் ரசிகர்களை கவரும் வகையில் வடிவமைத்துக்கொண்டு நடிப்பார். அதை 'வேட்டையன்' படத்திலும் காணலாம் என்பதால் இதுவும் ஒரு காரணம்.
+
+Super Star Rajinikanth's 'Vettayan' releases tomorrow in Tamil, Telugu, Malayalam, Kannada, and Hindi. Fans and film enthusiasts eagerly await due to Rajinikanth's age-defying performance, unique acting style, and director Cm. Gnanvel's focus on community storytelling. The film features talented actors and actresses, including Rana Daggubati and Manju Warrier. With its special sound design and support from alternative filmmakers, 'Vettayan' promises to be a significant event in Tamil cinema.
+
+🟩
+
+Super Star Rajinikanth's upcoming film 'Vettayan' in Tamil, Telugu, Malayalam, Kannada and Hindi in the film mansions from tomorrow.. Not only the fans of Super Star, but also the film enthusiasts are interested in watching the film from the first day.. Below is the reason for this.
+
+Super Star Rajinikanth - Even though he is over 70 years old, even today, the hero of the story.. The first reason is that he has been showing the speed with his exclusive body language - the pronunciation and the pronunciation.
+
+Whatever the character he plays, he enjoys his unique style and enjoys the character. When he plays the role of a police officer, he is designed to attract the fans to the role of the character and the speed with the character.. This is one of the reasons why it can also be found in 'Vettayan'.
 
 ...
 
 [Data](articles/b95819bf.json)
 
+[Extended Data](ext_articles/b95819bf.ext.json)
+
 ---
 
-### எழுத்தையும், எழுத்தாளரையும் கொண்டாடும் 'ஆலன்' திரைப்படம் வெற்றி பெறுமா...!?
+### Will 'Alan' celebrate the writing and the writer win ...!?
 
 *2024-10-09 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/195870) · `ta`
 
-தமிழ் திரையுலகில் ரசிகர்களைக் கவர்ந்த ஏராளமான கதாபாத்திரங்களில் எழுத்தாளர் கதாபாத்திரமும் ஒன்று. எழுத்தாளராக கதையின் நாயகன் நடிக்கும்போது அதற்கான உச்சகட்ட காட்சி எப்போதும் பார்வையாளர்கள் எளிதில் யூகிக்காத வகையில் அமைக்கப்பட்டிருக்கும். இப்படி பல படங்கள் வெளியாகி வெற்றியும் பெற்றிருக்கிறது.
+"Alan" celebrates writing and writers. Successful Tamil film with comedic writer character. Mixed reviews before release. Preview underwhelming.
 
-தோல்வியையும் தழுவி இருக்கிறது. அதே தருணத்தில் எழுத்தாளர் கதாபாத்திரத்தை நகைச்சுவைக்காக உருவாக்கி அதில் 90 சதவீதத்திற்கு மேல் வெற்றியும் பெற்றிருக்கிறார்கள்.
+🟩
 
-இந்நிலையில் சிறிய இடைவெளிக்குப் பிறகு, தன்னுடைய வாழ்க்கை எழுத்துகளாலும், புத்தகங்களை வாசித்தாலும் தான் மாற்றம் பெற்றது என்பதை பொதுவெளியில் உறுதியாக கூறும் சிங்கப்பூரை சேர்ந்த தொழிலதிபர் ஆர் . சிவா - எழுத்தையும், எழுத்தாளர்களையும் கொண்டாடும் வகையில் 'ஆலன்' என்றொரு திரைப்படத்தை உருவாக்கி இருக்கிறார்.
+One of the many characters who attracted fans in the Tamil film industry. When the hero of the story as a writer, the peak scene is always set in a way that the audience is not easily guessed. Many films have been released and have been successful.
+
+There is also a failure. At the same time, the writer's character has been created for comedy and has over 90 percent of it.
+
+After a short break, the businessman from Singapore, R., is confirmed by the public that he has changed his life writings and books.. Siva - has made a movie called 'Alan' to celebrate writing and writers.
+
+Actor who plays the real hero and earns the reputation of fans has been released as the hero of the film.. It has been officially announced that the film will be released at the film House around the world on the 18th.
+
+Was the film ahead of the release of the film, and has been expected?Do you want to go to the film House?The results are negative.
 
 ...
 
 [Data](articles/ec7e36bd.json)
+
+[Extended Data](ext_articles/ec7e36bd.ext.json)
 
 ---
 
@@ -128,21 +182,27 @@ The police media division has issued an announcement on the 6th of October and t
 
 ---
 
-### ஜம்மு காஷ்மீர் யூனியன் பிரதேசத்திற்கான தேர்தலில் இந்தியா கூட்டணி வெற்றி
+### India coalition wins election for Jammu and Kashmir Union Territory
 
 *2024-10-09 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/195864) · `ta`
 
-90 சட்டப்பேரவை தொகுதிகளை கொண்ட ஜம்மு & காஷ்மீர் யூனியன் பிரதேசத்திற்காக நடைபெற்ற தேர்தலில் இந்தியா கூட்டணி வெற்றி பெற்று ஆட்சி அமைக்கிறது.
+India coalition wins Jammu & Kashmir UT election. National Conference leads with 42 seats, BJP second with 29. Congress wins 6 seats. Omar Abdullah likely to become Chief Minister. Aam Aadmi Party makes debut.
 
-ஜம்மு  காஷ்மீர் யூனியன் பிரதேசத்திற்கு மூன்று கட்டங்களாக தேர்தல் நடைபெற்றது. தேர்தலில் பதிவான வாக்குகளை எண்ணும் பணி ஒக்டோபர் எட்டாம் திகதியன்று நடைபெற்றது. இதைத்தொடர்ந்து தேர்தல் முடிவுகள் அறிவிக்கப்பட்டன.
+🟩
 
-தேசிய மாநாட்டு கட்சி 42 இடங்களிலும், பாரதிய ஜனதா கட்சி 29 இடங்களிலும், இந்திய தேசிய காங்கிரஸ் கட்சி ஆறு இடங்களிலும், ஜம்மு காஷ்மீர் மக்கள் ஜனநாயகக் கட்சி மூன்று இடங்களிலும் , ஜம்மு காஷ்மீர் மக்கள் கட்சி ஒரு இடத்திலும், இந்திய மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சி ஒரு இடத்திலும்,  ஆம் ஆத்மி கட்சி ஒரு இடத்திலும், ஏழு இடங்களில் சுயேட்சை உறுப்பினர்களும் வெற்றி பெற்று இருக்கிறார்கள்.
+India is winning the coalition election for the Jammu & Kashmir Union Territory, which has 90 seats.
 
-இந்தியா கூட்டணி சார்பில் போட்டியிட்ட தேசிய மாநாடு கட்சி 42 இடங்களிலும், காங்கிரஸ் கட்சி ஆறு இடங்களிலும் வென்றிருக்கிறார்கள். இதனால் இந்த கூட்டணி ஆட்சியை அமைக்கிறது. இந்த கூட்டணியின் சார்பில் முன்னாள் முதல்வர் உமர் அப்துல்லா முதல்வராக பதவி ஏற்பார் என தகவல்கள் வெளியாகி இருக்கிறது.
+Elections to the Jammu and Kashmir Union Territory were held in three phases. The process of counting the votes cast in the election was held on the eighth day of October. Following this, the election results were announced.
+
+The National Convention Party is in 42 seats, Bharatiya Janata Party (29), Indian National Congress Party in six seats, Jammu and Kashmir People's Democratic Party in three seats, Jammu and Kashmir People's Party in one seat, Indian Marxist Communist Party one seat, Aam Aadmi PartyMembers are also successful.
+
+The National Convention, which contested on behalf of the India coalition, has won 42 seats and the Congress party in six seats. Thus this alliance sets the regime. It has been reported that former Chief Minister Omar Abdullah will be appointed as the Chief Minister on behalf of the coalition.
 
 ...
 
 [Data](articles/b83f64a8.json)
+
+[Extended Data](ext_articles/b83f64a8.ext.json)
 
 ---
 
@@ -2351,33 +2411,5 @@ She added that there is also the funds necessary to implement the relevant progr
 [Data](articles/394638b7.json)
 
 [Extended Data](ext_articles/394638b7.ext.json)
-
----
-
-### Independent groups and 33 political parties for general election
-
-*2024-10-09 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201975) · `si`
-
-General election: 17 parties, 16 independents submit nominations. No submissions in 5 districts. Nomination period ends Oct 11. Postal vote deadline extended to Oct 10.
-
-🟩
-
-The nominations have been handed over to the general election this year.
-
-The Election Commission says that 17 political parties and 16 independent groups had handed over the names of 16 political parties by the end of the day.
-
-According to the Commission, no nominations have been handed over to the Electorate in Matale, Galle, Matara, Kurunegala and Badulla districts.
-
-The nomination scheme for the general election began on October 4, and the 11th of this month will be held on the 11th.
-
-Meanwhile, the submission of the postal votes related to the general election has been extended until the 10th.
-
-Applications were to end up midnight yesterday.
-
-◼️
-
-[Data](articles/f375f707.json)
-
-[Extended Data](ext_articles/f375f707.ext.json)
 
 ---

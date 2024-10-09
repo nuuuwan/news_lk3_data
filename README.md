@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 05:44:46**
+As of **2024-10-09 07:26:01**
 
 ## Newspaper Stats
 
-*Scraped **48,481** Articles*
+*Scraped **48,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,49 @@ newsfirstlk | 363
 dbsjeyarajcom | 398
 colombotelegraphcom | 480
 bbccomsinhala | 480
-islandlk | 2,860
+islandlk | 2,870
 economynextcom | 2,970
 dailyftlk | 3,282
 adalk | 4,492
 dailymirrorlk | 4,733
 adaderanalk | 5,713
-tamilmirrorlk | 6,570
+tamilmirrorlk | 6,571
 virakesarilk | 7,757
-adaderanasinhalalk | 8,383
+adaderanasinhalalk | 8,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,481 (100.0%) of 48,481 articles have been extended.
+48,489 (100.0%) of 48,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Heavy rains today
+
+*2024-10-09 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201971) · `si`
+
+Heavy rains today: Showers/thunderstorms in Western, Sabaragamuwa, North Western provinces and Galle/Matara districts. Possible heavy rain exceeding 75mm. Public advised to take precautions against wind/lightning.
+
+🟩
+
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa and North Western provinces and in the Galle and Matara districts.
+
+The Department of Meteorology says that there will be showers at several places during the rest of the island or night.
+
+MM, in the Western, Sabaragamuwa, Central, North Western, Uva and Eastern provinces and in Galle and Matara districts. Heavy rains can occur more than 75.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/e4cac8fc.json)
+
+[Extended Data](ext_articles/e4cac8fc.ext.json)
+
+---
 
 ### Sri Lanka to seek BRICS memberships at upcoming meeting in Russia
 
@@ -203,6 +227,32 @@ This piece was prompted by the scaling back of ministries at the centre post the
 [Data](articles/9882094d.json)
 
 [Extended Data](ext_articles/9882094d.ext.json)
+
+---
+
+### 145 families affected by random weather
+
+*2024-10-09 02:18:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலையால்-145-குடும்பங்கள்-பாதிப்பு/175-345123) · `ta`
+
+145 families impacted by heavy rain in Colombo and Kegalle districts. 716 people affected, 4 homes partially damaged. Water levels rise in Pulathsingha-Kutta Ganga due to meteorological predictions.
+
+🟩
+
+The Department of Meteorology has predicted more than 100 millimeters of rainfall in many parts of the country.
+
+Meanwhile, the Irrigation Department has said that the water level of the Pulathsingha -Kutta Ganga has increased.
+
+Due to inclement weather in the country, the Colombo and Kegalle districts are reportedly highly affected.
+
+Accordingly, 716 people from 145 families have been affected in the two districts.
+
+In addition, 4 houses have been partially damaged, the Disaster Management Center said. (A)
+
+◼️
+
+[Data](articles/348db096.json)
+
+[Extended Data](ext_articles/348db096.ext.json)
 
 ---
 
@@ -451,6 +501,70 @@ Sri Lanka behind the 4th place in the teams due to losing the match.
 [Data](articles/270ddf2e.json)
 
 [Extended Data](ext_articles/270ddf2e.ext.json)
+
+---
+
+### Standard Chartered Priority and Durdans Hospital partner to deliver an exclusive healthcare experience
+
+*2024-10-08 22:53:00* · [`islandlk`](http://island.lk/standard-chartered-priority-and-durdans-hospital-partner-to-deliver-an-exclusive-healthcare-experience/) · `en`
+
+Standard Chartered Priority, Sri Lanka has collaborated with Durdans Hospitals, a trusted name in Sri Lankan healthcare for over seven decades, to provide Standard Chartered Priority customers an enhanced and rewarding healthcare experience via the Durdans Priority Circle, an exclusive healthcare proposition.
+
+The Durdans Priority Circle was established with the goal of providing premium, tailored healthcare based on individual specifications. Currently the Priority Circle offers end-to-end personalised services to all members, with state-of- the-art facilities and competitive rates on many outpatient and inpatient services.
+
+...
+
+[Data](articles/0b97be95.json)
+
+[Extended Data](ext_articles/0b97be95.ext.json)
+
+---
+
+### Cinnamon Hotels & Resorts elevates biodiversity awareness through ‘The Gathering of Giants’
+
+*2024-10-08 22:51:00* · [`islandlk`](http://island.lk/cinnamon-hotels-resorts-elevates-biodiversity-awareness-through-the-gathering-of-giants/) · `en`
+
+The Cinnamon Hotels & Resorts together with Cinnamon Nature Trails proudly hosted the second annual ‘The Gathering of Giants’ event at Cinnamon Habarana Complex from August 9th to 11th, 2024, in partnership with Seylan Bank, attracting wildlife enthusiasts, conservationists, and nature lovers from around the world. The event, which centred around the awe-inspiring elephant gathering at Minneriya and Kaudulla National Parks, offered attendees a once-in-a-lifetime experience to witness and learn about one of nature’s most extraordinary spectacles.
+
+...
+
+[Data](articles/72c9ee4e.json)
+
+[Extended Data](ext_articles/72c9ee4e.ext.json)
+
+---
+
+### Mahindra Ideal Finance appoints Mufaddal Choonia as MD & CEO
+
+*2024-10-08 22:48:00* · [`islandlk`](http://island.lk/mahindra-ideal-finance-appoints-mufaddal-choonia-as-md-ceo/) · `en`
+
+Sri Lanka 08th October, 2024: Mahindra Ideal Finance Limited (MIFL), a subsidiary of Mahindra Finance has announced the appointment of Mufaddal Choonia as its new Managing Director & CEO with immediate effect. Mufaddal will succeed Duminda Weerasekare, who retired as MIFL’s CEO.
+
+In his new role, Mufaddal will focus on building a robust digital lending ecosystem, especially benefitting SME and rural customer segments. He will also be responsible for further enhancing MIFL’s customer value proposition by introducing a wider range of products.
+
+Raul Rebello, Managing Director & CEO, Mahindra Finance, said, “Mufaddal has played various leadership roles across the Mahindra group and at Mahindra Finance. While thanking Duminda for his contribution towards building a robust financial services business in Sri Lanka, I am positive that with his experience, Mufaddal will take MIFL to newer heights”.
+
+...
+
+[Data](articles/07badc9d.json)
+
+[Extended Data](ext_articles/07badc9d.ext.json)
+
+---
+
+### CSE plunges from bullish to bearish mode; profit-takings among banking counters
+
+*2024-10-08 22:46:00* · [`islandlk`](http://island.lk/cse-plunges-from-bullish-to-bearish-mode-profit-takings-among-banking-counters/) · `en`
+
+The stock market which was going through a bullish trend over several working days suddenly indicated a bearish trend yesterday due to profit- takings among banking sector counters. But a price appreciation was noted in Hayleys stocks by five percent. Its share price moved to Rs 104.75 from Rs 100.25 during the day, stock market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index up by 6.46 points and the S and P SL20 rose by 14.55 points. Turnover stood at Rs 1.39 billion with one crossing. The crossing was reported in Ambeon Capital, which crossed 2.5 million shares to the tune of Rs 30.8 million; its shares traded at Rs 12.30.
+
+...
+
+[Data](articles/145f7292.json)
+
+[Extended Data](ext_articles/145f7292.ext.json)
 
 ---
 
@@ -2243,137 +2357,5 @@ President Joe Biden also emphasized the importance of developing cooperation bet
 [Data](articles/0676dfe0.json)
 
 [Extended Data](ext_articles/0676dfe0.ext.json)
-
----
-
-### Genocide In Gaza; One Year On! Shameful Indifference Towards Israeli Impunity!
-
-*2024-10-08 15:05:13* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/genocide-in-gaza-one-year-on-shameful-indifference-towards-israeli-impunity/) · `en`
-
-...
-
-[Data](articles/6b918fc1.json)
-
-[Extended Data](ext_articles/6b918fc1.ext.json)
-
----
-
-### Missile attack on commemoration
-
-*2024-10-08 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201952) · `si`
-
-Here's a 200-character summary:
-
-
-
-Hamas launches missile attack on Tiberias, Israel. Israeli Army responds with airstrikes in Lebanon. Hezbollah involved. UNIFIL concerned. International community seeks diplomatic solution. Iran warns against attacking Iranian infrastructure.
-
-🟩
-
-October 07 As the first year of the first year of the Hamas attack, security critics introduced to Hybollah and Hamas missiles to Tiberiaz.
-
-A military base in the south of Israel, the third largest city in Israel, is the target of the missile attack.
-
-It is reported that Fadi-1 (Fudy One) missiles have been used for this purpose.
-
-Tiberias attacked Tiberias from HiFA, about 65 miles [65 km] away.
-
-The Israeli Army stated that about 190 missiles and rockets were launched in the Israeli area only yesterday.
-
-The Israeli Army stated that the Air Force fighter launched a series of broader air strikes to the South Lebanon.
-
-Two more Israeli soldiers were killed in Lebanon landing operations yesterday.
-
-Accordingly, the number of Israeli soldiers who died in the Lebanon land operation increased to 11.
-
-About 1.2 million is displaced due to Israeli air strikes and land operations.
-
-The Lebanonans are afraid of intensifying air strikes on the air strikes of Israel.
-
-...
-
-[Data](articles/cff13449.json)
-
-[Extended Data](ext_articles/cff13449.ext.json)
-
----
-
-### Vasu’s DLF decides to back NPP in general election
-
-*2024-10-08 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/102530/vasus-dlf-decides-to-back-npp-in-general-election) · `en`
-
-The Democratic Left Front (Prajathanthravadi Vamanshika Peramuna) has officially announced its support for the National People’s Power (NPP) in the forthcoming parliamentary elections.
-
-The party’s leader, former Member of Parliament Vasudeva Nanayakkara, confirmed this decision during a press conference held today (08).
-
-Speaking about the party’s stance, Nanayakkara stated, “The parliamentary election is approaching, and our party has decided to support the National People’s Power. We will be contesting while backing them in this election.”
-
-He explained the Democratic Left Front’s efforts to align with the NPP: “We have worked to build a relationship with the National People’s Power and contest this election together. Even during the presidential election, we tried to make a cooperation. Although it came down to a matter of policy for the NPP, we are now offering our full support to the National People’s Power.”
-
-...
-
-[Data](articles/eaadb94a.json)
-
-[Extended Data](ext_articles/eaadb94a.ext.json)
-
----
-
-### Vasu turns toward the compass
-
-*2024-10-08 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201951) · `si`
-
-Democratic Left Front supports Nationality Force in upcoming parliamentary election. Party contests separately but provides backing. Leader Vasudeva Nanayakkara emphasizes unity despite policy differences.
-
-🟩
-
-The party has decided to provide support from the Democratic Left Front at the next parliamentary election.
-
-Leader of the Front Parliamentarian Vasudeva Nanayakkara told him that a media briefing held today (08).
-
-"The parliamentary election is coming. In this parliamentary election, our party supports the composition. Our party is contesting. Competition to Nationalality Force. We tried to build a relationship with the national folk force and trying to make such a close existence in the presidential election to contest the election together. But that didn't work. Because it is for some policy issues in national popularity. We will compete in Parliamentary election separately. We provide our support for the national propagation. We call on our followers that the votes we give to the national propagation. "
-
-◼️
-
-[Data](articles/47d0c951.json)
-
-[Extended Data](ext_articles/47d0c951.ext.json)
-
----
-
-### Seek for all the Rajapaksas' corruption - Wasantha Samarasinghe
-
-*2024-10-08 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201950) · `si`
-
-Wasantha Samarasinghe accuses Rajapaksas of corruption, citing ongoing investigations into past scandals and alleged financial misdeeds.
-
-🟩
-
-The National Executive Committee of the National Executive Executive Committee of the National Executive Executive Committee Wasanthantha Samarasinghe says that the investigations into the past contrustrations have been resigned on the last season have resumed investigations.
-
-He was speaking at a press conference held today (08).
-
-...
-
-[Data](articles/bb418c2b.json)
-
-[Extended Data](ext_articles/bb418c2b.ext.json)
-
----
-
-### Farmers to receive fertilizer subsidy from Monday
-
-*2024-10-08 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102529/farmers-to-receive-fertilizer-subsidy-from-monday-) · `en`
-
-Cabinet Spokesman Minister Vijitha Herath says that the fertilizer subsidy of Rs. 25,000 for paddy farmers will commence from Ampara District next Monday (Oct. 14).
-
-He mentioned this during the Cabinet press conference held today (08).
-
-“The Maha season is about to start. We are going to provide this fertilizer subsidy to the people of Ampara district by Monday next week. After that, we will provide the relevant subsidy to the farmers in Polonnaruwa, Anuradhapura, Mahiyanganaya and Mahaweli regions”, he added.
-
-◼️
-
-[Data](articles/3be055b8.json)
-
-[Extended Data](ext_articles/3be055b8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 22:38:57**
+As of **2024-10-09 22:57:37**
 
 ## Newspaper Stats
 
-*Scraped **48,639** Articles*
+*Scraped **48,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ bbccomsinhala | 483
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,514
+adalk | 4,515
 dailymirrorlk | 4,733
-adaderanalk | 5,740
+adaderanalk | 5,741
 tamilmirrorlk | 6,601
 virakesarilk | 7,781
 adaderanasinhalalk | 8,414
@@ -26,11 +26,33 @@ adaderanasinhalalk | 8,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,638 (100.0%) of 48,639 articles have been extended.
+48,641 (100.0%) of 48,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Suspect held with 600,000 capsules of prescription drugs in Borella
+
+*2024-10-09 22:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/102572/suspect-held-with-600000-capsules-of-prescription-drugs-in-borella) · `en`
+
+A search operation conducted by the Navy and Police Special Task Force (STF) has led to the arrest of a suspect with around 600,000 capsules of a prescription drug, commonly abused for intoxication, which were being transferred to sell.
+
+The coordinated operation, which also resulted in the seizure of a lorry used to peddle the drugs, was mounted in the Borella area on Wednesday (09), the navy said.
+
+Based on information received by naval intelligence, the search operation was mounted by Sri Lanka Navy in coordination with the Police STF.
+
+After having searched a suspicious lorry in the Borella area, these stock of prescription drugs were recovered from the possession of the suspect in the vehicles. Accordingly, the suspect together with drugs and the lorry were taken into custody, the navy said.
+
+The suspect held in this operation was identified as a resident of Mannar, aged 44.
+
+...
+
+[Data](articles/f7c5fced.json)
+
+[Extended Data](ext_articles/f7c5fced.ext.json)
+
+---
 
 ### Sri Lanka's response to proposal adopted in Geneva
 
@@ -97,6 +119,8 @@ She said Sri Lanka has opposed HRC resolution 51/1 and the preceding HRC resolut
 ...
 
 [Data](articles/3e5363fd.json)
+
+[Extended Data](ext_articles/3e5363fd.ext.json)
 
 ---
 
@@ -489,6 +513,30 @@ Head of the Western Province Road Bureau of the Western Provincial Road Passenge
 [Data](articles/8286a456.json)
 
 [Extended Data](ext_articles/8286a456.ext.json)
+
+---
+
+### Samagi CPC contests 22 electoral districts
+
+*2024-10-09 19:04:04* · [`adalk`](https://www.ada.lk/breaking_news/සමගි-ජන-සන්ධානය-මැතිවරණ-දිස්ත්‍රික්ක-22ටම-තරග-කරයි/11-412409) · `si`
+
+Samagi CPC contests 22 electoral districts. Nomination tomorrow. Party aims competitive lists with new faces, youth, women representation. Challenges: many candidates, competition for nominations.
+
+🟩
+
+The reconciliation districts will compete in the next general election and the nomination will be held tomorrow (10th) and the National Organizer of the Agreemental Unity (11) and the National Organizer of the Agreemental Reconciliation.
+
+He was speaking at a media briefing held in Colombo today (9).Speaking further Mr. Tissa Attanayake said:
+
+"All our nomination papers have been prepared for 22 districts with electoral elections for the Parliament elections. We hope to submit competitive lists at 22 districts. The biggest challenge we have at this time is that a large number of people are presenting for nominations, and a large number of competition is already in place to obtain nominations. However, the party's nomination papers decided to give our nominations a new look as much as possible.
+
+That means we have a number of names of the tradition. Because our organizers, our former MPs and a party are to be presented.
+
+...
+
+[Data](articles/ff4bc7d1.json)
+
+[Extended Data](ext_articles/ff4bc7d1.ext.json)
 
 ---
 
@@ -2397,49 +2445,5 @@ The post mortem examination of the deceased youth will be held today (09) at the
 [Data](articles/b050857f.json)
 
 [Extended Data](ext_articles/b050857f.ext.json)
-
----
-
-### Sri Lanka to seek BRICS membership at upcoming summit in Russia
-
-*2024-10-09 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102551/sri-lanka-to-seek-brics-membership-at-upcoming-summit-in-russia) · `en`
-
-Sri Lanka will pursue BRICS membership at a meeting in Russia later this month, cabinet spokesman Vijitha Herath told media on Tuesday.
-
-Herath said that Russia will host the BRICS Summit in Kazan from Oct. 22 to Oct. 24, 2024.
-
-Although President Anura Kumara Dissanayake was invited to attend the summit, he will be unable to participate due to domestic commitments, Herath explained.
-
-The country’s secretary to the Ministry of Foreign Affairs, along with a team of officials, will represent Sri Lanka at the summit, where the country will formally seek BRICS membership, Herath said.
-
-Sri Lanka plans to reach out to the foreign ministers of all BRICS nations for support soon, Herath said.
-
-◼️
-
-[Data](articles/5ed0c2a5.json)
-
-[Extended Data](ext_articles/5ed0c2a5.ext.json)
-
----
-
-### 2024 General Election: 33 independent groups and political parties complete nominations
-
-*2024-10-09 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102550/2024-general-election-33-independent-groups-and-political-parties-complete-nominations-) · `en`
-
-A total of 33 independent groups and political parties have submitted nominations to contest the 2024 General Election, according to the Election Commission.
-
-The Election Commission says that as of yesterday (08), 17 political parties and 16 independent groups had completed their nominations.
-
-The commission further noted that no nominations have been submitted for the constituencies in the Matale, Galle, Matara, Kurunegala, and Badulla districts yet.
-
-Accepting nominations for the General Election commenced on October 4 and will continue until 12.00 noon on October 11.
-
-Meanwhile, the deadline for accepting postal vote applications for the General Election has been extended to October 10.
-
-◼️
-
-[Data](articles/558fc87c.json)
-
-[Extended Data](ext_articles/558fc87c.ext.json)
 
 ---

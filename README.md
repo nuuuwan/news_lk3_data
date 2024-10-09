@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 22:57:37**
+As of **2024-10-09 23:23:16**
 
 ## Newspaper Stats
 
-*Scraped **48,641** Articles*
+*Scraped **48,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ dailymirrorlk | 4,733
 adaderanalk | 5,741
 tamilmirrorlk | 6,601
 virakesarilk | 7,781
-adaderanasinhalalk | 8,414
+adaderanasinhalalk | 8,416
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,641 (100.0%) of 48,641 articles have been extended.
+48,643 (100.0%) of 48,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### New Chairman of SriLankan Airlines
+
+*2024-10-09 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202008) · `si`
+
+SriLankan Airlines appoints Mr. Sarath Kamagoda as new Chairman.
+
+🟩
+
+Mr. Sarath Kamagoda has been appointed as the new Chairman of SriLankan Airlines.
+
+◼️
+
+[Data](articles/5a943e31.json)
+
+[Extended Data](ext_articles/5a943e31.ext.json)
+
+---
+
+### A bitter defeat in the Tuth Competition
+
+*2024-10-09 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202007) · `si`
+
+India vs Sri Lanka: India scores 172/3 in 20 overs, sets record. Sri Lanka falls short chasing 173, bowled out for 90 in 19 overs. India wins World Cup match.
+
+🟩
+
+The third match of the World Cup was defeated by the Sri Lankan team in front of India today (09).
+
+The Indian captain won the toss and elected to bat first.
+
+Accordingly, India scored 172 runs for the loss of 3 wickets at the end of 20 overs.
+
+The number of marks was among the records of the 20 women's cricket tour.
+
+Chasing a target of 173 runs to win the match, Sri Lanka was bowled out for 90 runs in 19 overs.
+
+◼️
+
+[Data](articles/ff1c0a6c.json)
+
+[Extended Data](ext_articles/ff1c0a6c.ext.json)
+
+---
 
 ### Suspect held with 600,000 capsules of prescription drugs in Borella
 
@@ -2387,63 +2431,5 @@ Some parties have invited me to contest the election and I will consider all the
 [Data](articles/8354b746.json)
 
 [Extended Data](ext_articles/8354b746.ext.json)
-
----
-
-### People will completely reject major political parties if corrupt politicians stop
-
-*2024-10-09 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195823) · `ta`
-
-Public rejects corrupt politicians; civil groups set 10-point criteria for candidate selection; election watchdog warns parties to choose honest candidates; Pakistani Saravanamuttu urges public to change political culture by avoiding corrupt politicians.
-
-🟩
-
-Civil community representatives have warned that the main parties in the upcoming general election may be completely rejected if the public has decided to vote against the current corruption culture.
-
-Civil community representatives made this request at the event in Colombo yesterday.
-
-More than 40 civil society organizations have introduced 10 -point criteria for the public selection of the appropriate candidate.
-
-Election watchdog, Rogan Hettiarachchi, has requested that the political parties and its leaders should be very cautious about the selection of their candidates as the people are very aware of the need to choose politicians who are not corrupt in the future.
-
-He said that the public will definitely reject those with dishonest corruption political background, he said.
-
-He said that not only on sending the appropriate candidate to Parliament, but also on the sending of the best intelligent people on parliamentary affairs, he said.
-
-...
-
-[Data](articles/7c240c6a.json)
-
-[Extended Data](ext_articles/7c240c6a.ext.json)
-
----
-
-### The fatal accident that lost his life
-
-*2024-10-09 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201985) · `si`
-
-Motorcycle crash kills 18-year-old, injures 49-year-old near Bandaragama. Police investigating. Post-mortem scheduled for tomorrow.
-
-🟩
-
-Two persons traveling to a motorcycle traveled by a Kumbuk tree near the UPKuputuwa Junction of Bandaragama.
-
-Bandaragama police said that one youth was killed and another injured were seriously injured.
-
-The deceased has been identified as an 18-year-old youth, a resident of Bandaragama and West Bandaragama.
-
-Police investigations have revealed that the motorbike was running out of the Kumbuk tree in the Bandarathtuwa Bandarawela on the Bandaragama-Kalutara road.
-
-The victim was a 49-year-old man who had been admitted to the Colombo National Hospital yesterday (08).
-
-The front wheel of the motorcyclist was severely damaged and the Kumbuk tree was damaged.
-
-The post mortem examination of the deceased youth will be held today (09) at the Horana District Hospital.
-
-◼️
-
-[Data](articles/b050857f.json)
-
-[Extended Data](ext_articles/b050857f.ext.json)
 
 ---

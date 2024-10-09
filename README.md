@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 15:39:14**
+As of **2024-10-09 15:58:04**
 
 ## Newspaper Stats
 
-*Scraped **48,579** Articles*
+*Scraped **48,581** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 399
-colombotelegraphcom | 480
+colombotelegraphcom | 481
 bbccomsinhala | 482
 islandlk | 2,870
 economynextcom | 2,977
@@ -20,17 +20,39 @@ dailymirrorlk | 4,733
 adaderanalk | 5,730
 tamilmirrorlk | 6,591
 virakesarilk | 7,766
-adaderanasinhalalk | 8,401
+adaderanasinhalalk | 8,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,579 (100.0%) of 48,579 articles have been extended.
+48,581 (100.0%) of 48,581 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Nuwara Eliya Post Office, led to controversy
+
+*2024-10-09 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201992) · `si`
+
+Minister Vijitha Herath said that all decisions taken regarding the Nuwara Eliya Post Office Building for the Nuwara Eliya Post Office Building for the Nuwara Eliya Post Office Building with 130 years old said.
+
+The Minister made this observation at a function held at Temple Trees for the 150th World Days.
+
+The Minister further stated that the Nuwara Eliya Post Office, the building and its premises are used only for the post of Postal Department.
+
+"Nuwara Eliya Post Office Building took over the past to force. We divide the Nuwara Eliya Post Office Building and the post of Postal Department by the new President's new Presidential Policy. Doesn't give anybody else. We suspended all the decisions ever brought so far. "
+
+The Nuwara Eliya Post Office Building for a hotel project was held recently.
+
+◼️
+
+[Data](articles/03db3ee8.json)
+
+[Extended Data](ext_articles/03db3ee8.ext.json)
+
+---
 
 ### New govt scraps previous decisions on iconic N’Eliya post office building
 
@@ -406,6 +428,10 @@ Former parliamentarian Vadivel Suresh announced on Wednesday (09) that he is con
 
 *2024-10-09 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201988) · `si`
 
+Ranjan Ramanayake launches United Democratic Voice party. Tilakaratne Dilshan named national organizer. Former MP Vundayale Suresh attends launch event.
+
+🟩
+
 Former MP Ranjan Ramanayake has launched a new political party.
 
 The political party is the sign of that political party established, "United Democratic Voice."
@@ -425,6 +451,10 @@ Meanwhile, former parliamentarian, MP Vundayale Suresh was also present at the o
 ### A number of parties signing nominations
 
 *2024-10-09 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201987) · `si`
+
+Multiple parties submit nominations for upcoming general election. 66 groups total. National nomination signed at party HQ. Other parties sign at various locations. Postal voting ends midnight. Foreign observers invited, including Russia and SAARC countries. Commonwealth and Asian Election Observers to attend.
+
+🟩
 
 Several major political parties who contest for the next general election have been signed nomination papers today (09).
 
@@ -455,6 +485,10 @@ Meanwhile, the Elections Commission says that many foreign electorates have been
 ### 12-year-old is Sri Lanka's youngest female invasional master
 
 *2024-10-09 12:52:24* · [`adalk`](https://www.ada.lk/sports/12-හැවිරිදි-ඔෂිනි-ලංකාවේ-ලාබාලතම-කාන්තා-ඉන්ටර්නැෂනල්-මාස්ටර්-වෙයි/9-412393) · `si`
+
+Vivvinda Osinya Osini Gunawardena, 12, becomes Sri Lanka's youngest female International Master in chess. Achieves title after 5 years, surpassing previous record holder. Currently national champion and school chess coach.
+
+🟩
 
 The rising 12-year-old, Vivvinda Osinya Osini Gunawardena, the 12-year-old school, Colombo, is the 12-year-old women's chess online.
 
@@ -494,6 +528,10 @@ The Sri Lankan authorities’ confirmation that they endorse the targets set und
 
 *2024-10-09 12:31:42* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්-හා-ඩිල්ෂාන්-එක්ව-නව-පක්ෂයක්-හදයි/11-412392) · `si`
 
+New political party formed: United Democratic Voice. Led by actor Ranjan Ramanayake and organized by cricket legend Dilshan.
+
+🟩
+
 A new political party has commenced a new political party with a popular actor and former deputy minister Ranjan Ramanayake.
 
 Ranjan Ramanayake and former Sri Lanka Cricket Leader Ties. Dilshan is coping this party. The party established under the microphone sign is the United Democratic Acceptance.
@@ -513,6 +551,14 @@ Ramanayake is The Leader of the Party WHILE Dilshan IS The National Organizer.
 ### The party's decisions are severely dissatisfied;Maui report to Sridharan who met in person: participate in the election process
 
 *2024-10-09 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195824) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Party leader quits over dissatisfaction with decisions. Demands restoration of resignation letter. Will participate in elections as party member. Continues commitment to Tamil liberation.
+
+🟩
 
 Sivagnanam Sridharan, who met them in person, said that he had severe dissatisfaction with the party's decisions in the parliamentary election.
 
@@ -610,6 +656,10 @@ The competition marks the sixtieth anniversary of Wildlife Photographer of the Y
 
 *2024-10-09 12:02:30* · [`adalk`](https://www.ada.lk/breaking_news/උප-පොලිස්-පරීක්ෂකවරයාගේ-රංගනය-අතේ-පත්තු-වෙයි/11-412391) · `si`
 
+Sub-Inspector's performance questioned after nightclub incident involving police officers. OIC misled about injuries. Constable suspended. Sub-Inspector accused of conflict with drug dealer. Motorcycle chase leads to officer's injury. High-ranking police officials involved in investigation.
+
+🟩
+
 Colombo South Senior Superintendent's Office, the OIC of the Kirulapone Police have misled the OIC of the Kirulapone Police who had been severely injured when he went to a nightclub and a large number of police officers had been severely injured when he went to a nightclub.Means the roads.
 
 The duties of a constable who covered the incident have been suspended.
@@ -631,6 +681,10 @@ The sub-Inspector remained in the single reed.
 ### A new political party from Ranjan
 
 *2024-10-09 12:02:13* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්ගෙන්-නව-දේශපාලන-පක්ෂයක්/11-412390) · `si`
+
+Ranjan Ramanayake launches new political party. Dilshan named national organizer. Wadveyel Suresh joins. Party symbol: Microphone.
+
+🟩
 
 Former Parliamentarian Ranjan Ramanayake has established a new political party.
 
@@ -1184,6 +1238,26 @@ However, Sumanthiran has announced that the TNA will be in the house of the Tami
 
 ---
 
+### Attempt Of Senior Advisor To AKD To Crush ‘Aragalaya’ & Dilution Of Corruption Agenda
+
+*2024-10-09 09:55:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/attempt-of-senior-advisor-to-akd-to-crush-aragalaya-dilution-of-corruption-agenda/) · `en`
+
+I refer to the media report attributed to Minister of Foreign Affairs & Cabinet Spokesman, Vijitha Herath that Messrs. Duminda Hulangamuwa and Prof. Anil Fernando have been appointed ‘Senior Advisors to the President on Economic Affairs & Finance’.
+
+As a person who voted for President Anura Kumara Dissanayake who is also Minister of Finance, I am shocked to learn of the appointment of Duminda Hulangamuwa.
+
+My vote for AKD was mainly due to my belief that he is sincere in combating corruption being at the center of his agenda.
+
+The corrosive link between politicians/professionals/private sector is best exemplified by the call of business chambers led by the Ceylon Chamber of Commerce (CCC) to “call off mass protests” planned for 2 November 2022 by those seeking  economic and social justice and accountability for economic crimes after the ‘Aragalaya’ was violently dismantled by then unelected President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/9551add5.json)
+
+[Extended Data](ext_articles/9551add5.ext.json)
+
+---
+
 ### Massive change in the price of an egg suddenly
 
 *2024-10-09 09:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-முட்டை-விலையில்-பாரிய-மாற்றம்/175-345129) · `ta`
@@ -1557,6 +1631,10 @@ President of the Sri Lanka Animal Manufacturers Association, Ajith Gunasekera sa
 ### The story behind the abolition of the pensions of the Central Bank of Sri Lanka
 
 *2024-10-09 08:05:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1k7gz01l40o) · `si`
+
+Central Bank of Sri Lanka abolishes pensions for its governors and employees. Decision made by governing body, not sudden. Current governor exempt but other staff affected. Pensions reinstated in 2015 after initial 1998 abolition.
+
+🟩
 
 The story behind the abolition of the pensions of the Central Bank of Sri Lanka
 
@@ -2193,61 +2271,5 @@ Starting from the appointment of the lady prime minister. A lady who fights for 
 [Data](articles/84bbc2b4.json)
 
 [Extended Data](ext_articles/84bbc2b4.ext.json)
-
----
-
-### 2024-10-08 (Tuesday)
-
-### New Zealand won by 66 runs for 88 runs
-
-*2024-10-08 23:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/195808) · `ta`
-
-New Zealand wins by 66 runs in UAE Women's T20 World Cup. Australia scores 148/8, NZ 88/10. Beth Mooney and Ellyse Perry shine for Australia. NZ advances to semis.
-
-🟩
-
-New Zealand won by 60 runs in the A Group of Competition in the Ninth Women's R20 World Cup in the United Arab Emirates.
-
-Australia, which controlled New Zealand to 88 runs in the upting match, confirmed that this victory was powerful.
-
-The best bowls of Beth Mooni and Elis Perry and the accurate bowling of Megan Shut, Anabel Sadalant and Sofi Molinox have made Australia easier.
-
-With this victory, Australia, which is ranked number one in the A group, has increased its chance of advanced to the semi -finals.
-
-Australia will face Pakistan and India in the remaining two matches that win Sri Lanka in their first match.
-
-Australia decided to bat first at the Sharjah Cricket Stadium on Tuesday night (08) and scored 148 runs for the loss of 8 wickets in 20 overs.
-
-Australia gained a significant total number, despite the New Zealand bowling for New Zealand and took 4 wickets for 29 runs in 4 overs.
-
-Both Beth Mooney and Elis Perry have fascinated the fast and strengthened Australia.
-
-...
-
-[Data](articles/4ca5a8f5.json)
-
-[Extended Data](ext_articles/4ca5a8f5.ext.json)
-
----
-
-### CWC competing in the elephant symbol: Released
-
-*2024-10-08 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/195809) · `ta`
-
-CWC contests elephant symbol in Nuwara Eliya; Jeevan Thondaman, Maruthapandi Rameswaran, P Sakthivel run; Ganapathi Kanakaraj elected via national list; competes under cylinder symbol in other districts.
-
-🟩
-
-Jeevan Thondaman, General Secretary of the CWC, Maruthapandi Rameswaran and National Organizer P Sakthivel will contest in the Nuwara Eliya district.
-
-Meanwhile, the party's deputy leader Ganapathi Kanakaraj has been decided to elect the parliament to the parliament through the national list.
-
-It is noteworthy that the CWC has also decided to compete under the cylinder symbol of the coalition in other districts.
-
-◼️
-
-[Data](articles/b0c31bae.json)
-
-[Extended Data](ext_articles/b0c31bae.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 17:23:20**
+As of **2024-10-09 17:40:15**
 
 ## Newspaper Stats
 
-*Scraped **48,597** Articles*
+*Scraped **48,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 482
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,506
+adalk | 4,508
 dailymirrorlk | 4,733
 adaderanalk | 5,735
 tamilmirrorlk | 6,594
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,597 (100.0%) of 48,597 articles have been extended.
+48,599 (100.0%) of 48,599 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -125,6 +125,48 @@ He expressed his favorable opinion on the future of Sri Lanka and that the peopl
 [Data](articles/7058ed73.json)
 
 [Extended Data](ext_articles/7058ed73.ext.json)
+
+---
+
+### North Korea - South Korea be separated forever?Here is the decision that you have taken
+
+*2024-10-09 16:25:54* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-කොරියාව---දකුණු-කොරියාව-සදහටම-වෙන්-වෙයි--අද-ගත්ත-තීරණය-මෙන්න/11-412398) · `si`
+
+North Korea closes borders with South Korea permanently due to security concerns. KPA claims roads will remain closed indefinitely. This decision may impact future reunification efforts between the two nations.
+
+🟩
+
+North Korea has taken steps to close all roads and railways to South Korea from North Korea and South Korea.
+
+The Korean People's Army (KPA) has stated that this step has been taken as a self-security measure of preventing the war.
+
+The North Korean army has said that these roads will be closed forever.
+
+◼️
+
+[Data](articles/16dd1230.json)
+
+[Extended Data](ext_articles/16dd1230.ext.json)
+
+---
+
+### Here is the decision of the Government of the Nuwara Eliya Post Office Building
+
+*2024-10-09 16:13:03* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළිය-තැපැල්-කාර්යාල-ගොඩනැගිල්ල-ගැන-රජය-ගත්-තීරණය-මෙන්න/11-412397) · `si`
+
+Nuwara Eliya Post Office Building decision: Minister Vijitha Herath announced the government will take over this 130-year-old building, previously used solely by the Postal Department. The announcement was made during a function at Temple Trees on September 9th.
+
+🟩
+
+Minister Vijitha Herath said the last government decided to take over 130 years old Nuwara Eliya Post Office Building.
+
+He said that he was only used under the Postal Department but participating at a function held at Temple Trees today (09).
+
+◼️
+
+[Data](articles/573c349a.json)
+
+[Extended Data](ext_articles/573c349a.ext.json)
 
 ---
 
@@ -2371,49 +2413,5 @@ President’s Counsel M.N.M. Zuhair, representing SLISM, argued that Gazette not
 [Data](articles/0b457824.json)
 
 [Extended Data](ext_articles/0b457824.ext.json)
-
----
-
-### Chinese Navy Sail Training warship ‘PO LANG’ arrives in Colombo
-
-*2024-10-09 04:31:22* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Navy-Sail-Training-warship-PO-LANG-arrives-in-Colombo/56-767734) · `en`
-
-The Chinese People’s Liberation Army Navy Sail Training Warship ‘PO LANG’ arrived at the port of Colombo on a formal visit yesterday.
-
-The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions.
-
-‘PO LANG’ is an 86-meter-long Sail Training Vessel crewed by 130 personnel including 35 Officer Cadets.
-
-The Commanding Officer of the ship, Commander Ma Wenyong called on the Commander Western Naval Area, Rear Admiral Chinthaka Kumarasinghe at the Western Naval Command Headquarters. To strengthen the camaraderie between the two navies, crew members of the ship are set to participate in a series of programs organised by the Sri Lanka Navy.
-
-In addition crew members of the ship will explore some of the tourist attractions of the country, during their stay in Colombo. Additionally, Sri Lanka Navy personnel will have the opportunity to participate in briefings on the operational functions of the ships as well.
-
-...
-
-[Data](articles/b7d89dd8.json)
-
-[Extended Data](ext_articles/b7d89dd8.ext.json)
-
----
-
-### Akram Cassim takes helm as President of Sri Lanka Gem and Jewellery Association
-
-*2024-10-09 04:10:59* · [`dailyftlk`](https://www.ft.lk/business/Akram-Cassim-takes-helm-as-President-of-Sri-Lanka-Gem-and-Jewellery-Association/34-767729) · `en`
-
-The SLGJA Committee for 2024/25, ready to steer the industry towards a promising future
-
-With deep appreciation, Akram Cassim honors Ajward Deen for his outstanding service as SLGJA President
-
-Calls for urgent policy reforms and promotion of a Sapphire experience
-
-Akram Cassim unveils his vision for a dynamic and innovative future for SLGJA
-
-At the Annual General Meeting of the Sri Lanka Gem and Jewellery Association (SLGJA), Akram Cassim, a longstanding member of the industry, was officially announced as the newly elected President. In a speech that was both forward-looking and deeply appreciative of Sri Lanka’s gem and jewellery heritage, Cassim outlined his vision to drive the industry forward, tackle challenges collectively, and capitalise on the unique legacy of the Ceylon Sapphire.
-
-...
-
-[Data](articles/81e29a68.json)
-
-[Extended Data](ext_articles/81e29a68.ext.json)
 
 ---

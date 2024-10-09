@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 15:58:04**
+As of **2024-10-09 16:12:40**
 
 ## Newspaper Stats
 
-*Scraped **48,581** Articles*
+*Scraped **48,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,26 +15,48 @@ bbccomsinhala | 482
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,504
+adalk | 4,505
 dailymirrorlk | 4,733
 adaderanalk | 5,730
 tamilmirrorlk | 6,591
-virakesarilk | 7,766
+virakesarilk | 7,768
 adaderanasinhalalk | 8,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,581 (100.0%) of 48,581 articles have been extended.
+48,584 (100.0%) of 48,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
 
+### Today's currency exchange rate
+
+*2024-10-09 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/195843) · `ta`
+
+US Dollar: 288.58 INR buying, 297.62 INR selling. Central Bank rate update on 09/2023.
+
+🟩
+
+The US dollar purchasing price was 288.5806 rupees and the sales price were 297.6233 rupees based on a currency exchange rate released by the Central Bank on Wednesday (09).
+
+◼️
+
+[Data](articles/3719448f.json)
+
+[Extended Data](ext_articles/3719448f.ext.json)
+
+---
+
 ### Nuwara Eliya Post Office, led to controversy
 
 *2024-10-09 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201992) · `si`
+
+Controversy surrounds Nuwara Eliya Post Office building. Minister Vijitha Herath states it's solely for postal use, rejecting hotel plans. Decisions previously made were suspended.
+
+🟩
 
 Minister Vijitha Herath said that all decisions taken regarding the Nuwara Eliya Post Office Building for the Nuwara Eliya Post Office Building for the Nuwara Eliya Post Office Building with 130 years old said.
 
@@ -77,6 +99,10 @@ The post office, located in the city of Nuwara Eliya, is renowned for its Tudor 
 ### Actress Tamita Competition
 
 *2024-10-09 15:10:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகை-தமிதா-போட்டி/175-345164) · `ta`
+
+Tamitha Abeyratne, famous actress, contests general election in Ratnapura district. She aims to help suffering people and understand artist issues.
+
+🟩
 
 Famous actress Tamitha Abeyratne has signed documents that she will contest the general election in the Ratnapura district.
 
@@ -134,6 +160,10 @@ Admiral Koehler will engage with senior Sri Lankan officials to discuss rising s
 
 *2024-10-09 14:57:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அங்குசத்தை-தூக்கி-எறிந்தார்-ஆனந்தகுமார்/76-345163) · `ta`
 
+Subbaiah Anandakumar quits UNP Ratnapura district organizer role due to dissatisfaction with party leadership and accommodation of rejected politicians.
+
+🟩
+
 Subbaiah Anandakumar, organizer of the United National Party's Ratnapura district, has decided to quit the party.
 
 He will inform the party leader Ranil Wickremesinghe and the party's general secretary in this regard.
@@ -158,6 +188,10 @@ UNP supporters are very dissatisfied with this.. In that case, I am rescuing the
 
 *2024-10-09 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201991) · `si`
 
+Petition against Nilantha Jayawardena postponed. Court of Appeal summons National Police Commission for disciplinary action. New Supreme Court investigation initiated. Next hearing on November 13.
+
+🟩
+
 The Court of Appeal today (09) the Court of Appeal was held today (09) to be summoned to the National Police Commission to issue disciplinary action against the former Director of State Intelligence.
 
 The petition has been filed against Nilantha Jayawardena against the pre-intelligence attack on the Easter intelligence.
@@ -179,6 +213,10 @@ Do you confirm the petition regarding the petition?Or do you withdrawal?The cour
 ### Inferior chemical that comes to the good name
 
 *2024-10-09 14:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201990) · `si`
+
+Fake agricultural inputs racket busted in Thambuththegama, 960 packets seized from leading manufacturer.
+
+🟩
 
 A racket that sells the fake agricultural inputhorator in the market is being operated by the fake agricultural deposits market as the brand of the country.
 
@@ -208,6 +246,14 @@ The sealing of 960 packets of pseudo-agricultural input inputs will be sealing a
 
 *2024-10-09 14:40:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காசிலிங்கம்-யாழில்-போட்டி/175-345162) · `ta`
 
+Here's a 200-character summary:
+
+
+
+Kasilingam competes in Jaffna election, backed by Mahinda Rajapaksa. Represents Sri Lanka PA party.
+
+🟩
+
 Ge in the upcoming general election representing Sri Lanka PA. Kasilingam signed the presence of former President Mahinda Rajapaksa.
 
 ◼️
@@ -221,6 +267,10 @@ Ge in the upcoming general election representing Sri Lanka PA. Kasilingam signed
 ### We will not reduce the privileges: the Secretary of Defense
 
 *2024-10-09 14:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைகளை-குறைக்கமாட்டோம்-பாதுகாப்பு-செயலாளர்/175-345160) · `ta`
+
+Sri Lanka Defense Secretary denies rumors of soldier concession cuts, reaffirms government support during visit to Air Force Headquarters.
+
+🟩
 
 “I learned that there are false rumors in the media regarding the reduction of the concessions offered to the soldiers by the government. However, I will report that the current government has no intention of reducing the concessions offered to the soldiers. ”
 
@@ -240,6 +290,10 @@ Air Force Commander Air Marshal Udayani visited several sections of the Air Forc
 
 *2024-10-09 14:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைகளை-குறைக்கமாட்டோம்/175-345160) · `ta`
 
+Sri Lanka Defense Secretary denies rumors about soldier concessions. Government committed to maintaining current benefits, says Air Vice Marshall Sampath Dihakonda during visit to Air Force Headquarters.
+
+🟩
+
 “I learned that there are false rumors in the media regarding the reduction of the concessions offered to the soldiers by the government. However, I am saying that the current government has no intention of reducing the concessions offered to the soldiers. ”
 
 Defense Secretary Air Vice Marshall Sampath Dihakonda (Retired) said this while addressing the Air Force personnel during his first visit to the Sri Lanka Air Force Headquarters in Sri Jayawardenapura Kotte.
@@ -254,9 +308,41 @@ Air Force Commander Air Marshal Udayani visited several sections of the Air Forc
 
 ---
 
+### Bail to doctor Aruchuna
+
+*2024-10-09 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195838) · `ta`
+
+Doctor Aruchuna released on bail, promises not to violate conditions. Case filed against him for threatening colleagues and online slander. Bail order expected tomorrow. Court hearings scheduled for today regarding the case against him.
+
+🟩
+
+The Chavakachcheri Magistrate's Court has been released on bail after the doctor Aruchuna has promised not to violate the bail conditions.
+
+The Jaffna - Chavakachcheri Hospital has filed a case at the Chavakachcheri Hospital against crimes including the threat of fellow doctors on the telephone and slander on social media.
+
+While the doctor was released on bail, he was canceled and interrogated during the last case, including violation of bail conditions and failing to submit evidence.
+
+இந்நிலையில் கடந்த வாரம் அருச்சுனாவின் சட்டத்தரணி நகர்த்தல் பத்திரம் மூலம் மன்றில் பிணை விண்ணப்பம் செய்திருந்த நிலையில் அதற்கான கட்டளை நாளை வியாழக்கிழமை (10) வழங்கப்படும் என மன்று திகதியிட்டிருந்தது.
+
+With a re -move on Wednesday (09), a bail application was granted, and the doctors were allowed to go on bail as they promised not to violate the bail conditions in the near future.
+
+அதேவேளை வைத்தியருக்கு எதிரான வழக்கு விசாரணைகள் நாளை வியாழக்கிழமை மன்றில் எடுத்துக்கொள்ளப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/386b91b0.json)
+
+[Extended Data](ext_articles/386b91b0.ext.json)
+
+---
+
 ### Indo-Sri Lanka women's cricket clash today
 
 *2024-10-09 14:06:46* · [`adalk`](https://www.ada.lk/sports/ඉන්දු---ශ්‍රී-ලංකා-කාන්තා-ක්‍රිකට්-ගැටුම-අද/9-412396) · `si`
+
+Sri Lanka Women's Cricket vs India Women's World Cup match today at 7:30 AM local time in Sri Lanka.
+
+🟩
 
 The match between the Sri Lanka Women's Group and the Indian Women's World Cup this year is scheduled to be held today (09).
 
@@ -273,6 +359,14 @@ The match is in Sri Lanka. Arrangements have been made to start at 07.30.
 ### Commentary on the cause of the cause of suicide
 
 *2024-10-09 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201989) · `si`
+
+Here's a 200-character summary:
+
+
+
+Professor Mohammed Mahjeh attributes rising suicides to social isolation and declining human connections in modern society. He cites excessive mobile phone use as a factor, suggesting it replaces face-to-face interactions and deepens loneliness.
+
+🟩
 
 Professor Mohammed Mahjeh, Colombo, says that the determination of human relationships and the isolation of people commit suicide.
 
@@ -293,6 +387,10 @@ Professor Mohammed Mah scores the reasons for the collapse of human relationship
 ### “If you are constantly at home, the law will flow”
 
 *2024-10-09 14:03:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-வீட்டில்-இருந்தால்-சட்டம்-பாயும்/175-345159) · `ta`
+
+Former government officials failing to return official homes after coup. Only 14 out of 41 homes returned. Ministry threatens legal action.
+
+🟩
 
 The Ministry of Public Administration and Home Affairs has decided to take legal action against members of the former government holding official homes.
 
@@ -315,6 +413,10 @@ However, so far, only 14 apartments have been renovated, and the Ministry of Pub
 ### Legal action on those who are constantly at home
 
 *2024-10-09 14:03:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-வீட்டிலிருப்பவர்கள்-மீது-சட்ட-நடவடிக்கை/175-345159) · `ta`
+
+Ministry takes legal action against former officials for failing to return official homes after coup. Only 14 out of 41 allocated homes have been returned. Ministry accelerates legal action after notification issued post-2024 election.
+
+🟩
 
 The Ministry of Public Administration and Home Affairs has decided to take legal action against members of the former government holding official homes.
 
@@ -382,6 +484,10 @@ In 2010, Ranjan Ramanayake was first elected to the Parliament representing Ratn
 
 *2024-10-09 13:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சன்-டில்ஷான்-புதிய-கட்சியை-துவங்கினர்/175-345156) · `ta`
 
+Ranjan Ramanayake and Dilshan announce new party: United Democratic Voice (UDV). Actor-politician and former cricketer team up for political venture.
+
+🟩
+
 Actor and politician Ranjan Ramanayake and former Sri Lankan cricketer DM Dilshan have announced that they will launch a new political party called the United Democratic Voice (UDV).
 
 ◼️
@@ -411,6 +517,14 @@ We will solve the basic problems of the upcountry people through the United Demo
 ### Vadivel Sureshum jumped
 
 *2024-10-09 13:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடிவேல்-சுரேஷூம்-தாவினார்/175-345155) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former MP Vadivel Suresh joins United Democratic Voice party. Promises to address issues affecting rural communities, criticizing corrupt politicians.
+
+🟩
 
 Former parliamentarian Vadivel Suresh announced on Wednesday (09) that he is contesting through the "United Democratic Voice" party.
 
@@ -445,6 +559,34 @@ Meanwhile, former parliamentarian, MP Vundayale Suresh was also present at the o
 [Data](articles/5cfec02c.json)
 
 [Extended Data](ext_articles/5cfec02c.ext.json)
+
+---
+
+### චීන ජාතිකයන් 20ක් අල්ලයි
+
+*2024-10-09 13:12:26* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ජාතිකයන්-20ක්-අල්ලයි/11-412394) · `si`
+
+Chinese nationals arrested without visas suspected of illegally earning money online. Police seized smartphones, laptops, and other equipment used for internet services. 20 suspects detained, 18 escaped during raid. No passports found among detainees. Police investigating illegal activities and money laundering.
+
+🟩
+
+වීසා නොමැතිව රැදී සිටිමින් අයථා ලෙස අන්තර්ජාලය හරහා මුදල් ඉපයූ බවට සැක කරන චීන ජාතිකයන් 20 කු පානදුර උතුර ගොරකාන  ධම්මානන්ද මාවතේ ලැගුම්හලක සිටියදී  අත්අඩංගුවට ගැනීමට පානදුර උතුර පොලිසිය සමත් වී ඇත.
+
+වැටලීමත් සමගම එම ස්ථානයේ සිටි තවත් චීන ජාතිකයන්න්18 කු පලා ගොස් ඇත.
+
+The police said that no commander of the arrested suspect had no passport.
+
+එම ස්ථානයේ තිබී විවිධ වර්ගයේ ස්මාර්ට්  ජංගම දුරකථන 432 ක් ,  ජංගම දුරකථන චාජර් කැට 133 , යු එස් ,බි කේබල් 340 ක් ,
+
+ලැෆ්ටොෆ්  පරිගණක, යු එස් බි චාජර් කෝඩ් , පවර් කෝඩ් , රවුටර්  ,මොනිටර් , ඝනක යන්ත්‍ර , යු පි එස්  3 ක් , වීඩියෝ කැමරා , ආදී අන්තර්ජාල පහසුකම් සඳහා යොදාගන්නා උපකරණ රැසක් පොලිස් භාරයට ගෙන ඇත.
+
+පානදුර  උතුර ,ගොරකාන ධම්මානන්ද මාවතේ ලැගුම් හලක් තුළ සැක කටයුතු විදේශිකයන් පිරිසක් රැඳී සිටින බවට පානදුර උතුර පොලිසියට අනුයුක්ත බස්නාහිර පළාත් බුද්ධි කොට්ඨාසයේ නිලධාරියකුට ලද තොරතුරු වලට අනුව පානදුර උතුර පොලිසියේ නිලධාරීන් සහ පානදුර කොට්ඨාස අපරාධ අංශයේ  නිලධාරීන් කණ්ඩායමක් 8 රාත්‍රී එම ස්ථානය වටලා සැකකාර චීන ජාතිකයන් පිරිස අත්අඩංගුවට ගෙන ඇත
+
+...
+
+[Data](articles/3bfb59a1.json)
+
+[Extended Data](ext_articles/3bfb59a1.ext.json)
 
 ---
 
@@ -2219,57 +2361,5 @@ Director Kaniewska welcomed the proposals and conveyed the Chamber’s willingne
 [Data](articles/9e9617de.json)
 
 [Extended Data](ext_articles/9e9617de.ext.json)
-
----
-
-### Priority matrix for tea sector: Part 3
-
-*2024-10-09 00:59:31* · [`dailyftlk`](https://www.ft.lk/columns/Priority-matrix-for-tea-sector-Part-3/4-767707) · `en`
-
-Digital literacy: Implement digital literacy programs to train tea growers and workforce on using digital tools and platforms effectively. This will ensure that all stakeholders can benefit from digital transformation.
-
-Adoption and integration: Provide ongoing technical support and resources to help stakeholders adopt and integrate digital technologies into their operations.
-
-Enhancement: Invest in research and development to explore new digital technologies and innovations that can further enhance the tea value chain.
-
-Piloting: Launch pilot projects to test and demonstrate the benefits of digital technologies in different aspects of the tea value chain.
-
-...
-
-[Data](articles/5ee153e8.json)
-
-[Extended Data](ext_articles/5ee153e8.ext.json)
-
----
-
-### Greece as a lens to understand present political changes
-
-*2024-10-09 00:36:45* · [`dailyftlk`](https://www.ft.lk/columns/Greece-as-a-lens-to-understand-present-political-changes/4-767706) · `en`
-
-The Government of Greece, like its counterpart in Sri Lanka, spent more than the revenue it generated year after year, piling up debt. Unlike in Sri Lanka, Greece lacked the ability to reset the economy by letting the currency float. In both countries the post-crisis focus was on the primary balance. In Sri Lanka this was to be achieved from the revenue side with no overt cuts in expenditure; in Greece by cutting Government expenditures including salaries and pensions, by downsizing Government, and by raising taxes. Syriza did it and now Greece is back to normalcy
-
-Inflation in August 2024 was 0.5%, the lowest since 2000. There are no shortages. No bank collapsed. Reserves are up. Agreement is close on the commercial debt, the last piece of the restructuring.
-
-...
-
-[Data](articles/a545d74d.json)
-
-[Extended Data](ext_articles/a545d74d.ext.json)
-
----
-
-### Meritocracy – A silver lining for Sri Lanka
-
-*2024-10-09 00:02:11* · [`dailyftlk`](https://www.ft.lk/columns/Meritocracy-A-silver-lining-for-Sri-Lanka/4-767705) · `en`
-
-It is with great pleasure that we observe the recent appointments made by President Anura Kumara Dissanayaka. The appointments made so far to the Government are on merit and of qualified, educated persons. This is indeed a positive sign to us Sri Lankan citizens.
-
-Starting from the appointment of the lady prime minister. A lady who fights for women empowerment and benefits and welfare of the common man, whatever her family background is. In other words, she is for peoplism. We hope she will use her education to the betterment of Sri Lanka and bring about a positive change that we all need and look forward to.
-
-...
-
-[Data](articles/84bbc2b4.json)
-
-[Extended Data](ext_articles/84bbc2b4.ext.json)
 
 ---

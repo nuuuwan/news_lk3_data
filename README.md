@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 07:26:01**
+As of **2024-10-09 08:01:16**
 
 ## Newspaper Stats
 
-*Scraped **48,493** Articles*
+*Scraped **48,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ dailymirrorlk | 4,733
 adaderanalk | 5,713
 tamilmirrorlk | 6,571
 virakesarilk | 7,757
-adaderanasinhalalk | 8,384
+adaderanasinhalalk | 8,386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,489 (100.0%) of 48,493 articles have been extended.
+48,495 (100.0%) of 48,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### A bowl falls into a canal
+
+*2024-10-09 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201974) · `si`
+
+A young girl fell into a hot canal near a reservoir in Sri Lanka. She was rushed to a nearby hospital but sadly passed away. The incident occurred in the Dankaduwa police division.
+
+🟩
+
+A small girl has fallen into a heated canal from the Singakuliya tank in Wellaku, Dankaduwa Police Division.
+
+The police said that the girl who had fallen into the canal died on admission to the Dankotuwa hospital.
+
+◼️
+
+[Data](articles/0a815817.json)
+
+[Extended Data](ext_articles/0a815817.ext.json)
+
+---
+
+### Three prison officials to investigate inmates
+
+*2024-10-09 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201973) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Three prison officials investigating four escaped inmates at Angunakolapelessa Prison. Main jailer accused of unauthorized prisoner transfers. Four detainees rearrested, two-year-old sentenced to 21 years. Preliminary investigation ongoing."
+
+🟩
+
+Three prison officials have been assigned to the fleeing four delegates at Angunakolapelessa Prison.
+
+Prison spokesman Gamini Dissanayake said that several detainees have been placed in the control of the custody of prisons in custody.
+
+Investigations have revealed that the main Jileir has taken measures to take out these detained for cleansing without consultation without consultation without consultation without consulting or inquiring.
+
+The four arrests have been detained in court, and the two-year-year-old remains with a sentence of 21 years.
+
+Three of the four persons who escaped were able to be arrested again.
+
+The main jail of the Angunakolapelessa Prison in charge of the Clearance of the prisoners and the cleansing group, which was in charge of the Cleaners and the Clearance of the Cleaners, was under the preliminary investigation.
+
+◼️
+
+[Data](articles/3f955bec.json)
+
+[Extended Data](ext_articles/3f955bec.ext.json)
+
+---
 
 ### Heavy rains today
 
@@ -2313,49 +2365,5 @@ The General Secretary of the UNP MP Vasudeva Nanayakkara said about a press conf
 [Data](articles/2b1827cc.json)
 
 [Extended Data](ext_articles/2b1827cc.ext.json)
-
----
-
-### Hareendra Dissabandara new Sri Lanka SEC Chairman
-
-*2024-10-08 15:19:00* · [`economynextcom`](https://economynext.com/hareendra-dissabandara-new-sri-lanka-sec-chairman-182790/) · `en`
-
-ECONOMYNEXT – Hareendra Dissabandara has been appointed chairman of Sri Lanka’s Securities and Exchange Commission, by President Anura Dissanayake, official sources said.
-
-Dissabandara is a senior professor of the Department of Finance, Faculty of Management Studies and Commerce, University of Sri Jayewardenepura.
-
-He was also the Deputy Secretary General of Financial Affairs, National Economic Council of Sri Lanka, 2018-2019.
-
-He has a PhD in Finance, Japan (MONBUSHO Scholarship), 2006 MSc in Management, University of Sri Jayewardenepura, 2000 and BSc in Management (Special Degree), University of Sri Jayewardenepura. (Colombo/Oct8/2024)
-
-◼️
-
-[Data](articles/89ef8f65.json)
-
-[Extended Data](ext_articles/89ef8f65.ext.json)
-
----
-
-### Greeting Joe Bidan
-
-*2024-10-08 15:09:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுரவுக்கு-ஜோ-பைடன்-வாழ்த்து/175-345087) · `ta`
-
-US President Joe Biden congratulates Sri Lanka's President Anura Kumara Dissanayake, praising Sri Lanka's democratic institutions and expressing hope for strengthened US-Sri Lankan cooperation in economic growth, regional security, and democratic governance.
-
-🟩
-
-US President Joe Bidan congratulates President Anura Kumara Dissanayake.
-
-Recalling the long -standing ties between the US and Sri Lanka, Joe Biden congratulated President Anura Kumara Dissanayake on behalf of the entire American people and expressed his praise for the past presidential and presidential election by further strengthening Sri Lanka's democracy.
-
-Joe Bidan added in his congratulatory message, "This election illustrates the strength of Sri Lankan democratic institutions and the dedication of the Sri Lankan people to design their future through a peaceful, independent and fair election, the basics of democracy."
-
-President Joe Biden also emphasized the importance of developing cooperation between the US and Sri Lanka to achieve all Sri Lankan citizens' stability, prosperity and progress.
-
-...
-
-[Data](articles/0676dfe0.json)
-
-[Extended Data](ext_articles/0676dfe0.ext.json)
 
 ---

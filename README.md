@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 18:34:23**
+As of **2024-10-09 18:59:37**
 
 ## Newspaper Stats
 
-*Scraped **48,613** Articles*
+*Scraped **48,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,977
 dailyftlk | 3,283
 adalk | 4,510
 dailymirrorlk | 4,733
-adaderanalk | 5,736
+adaderanalk | 5,738
 tamilmirrorlk | 6,596
 virakesarilk | 7,775
 adaderanasinhalalk | 8,407
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,611 (100.0%) of 48,613 articles have been extended.
+48,615 (100.0%) of 48,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### 20 Chinese nationals arrested in Panadura remanded
+
+*2024-10-09 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/102569/20-chinese-nationals-arrested-in-panadura-remanded) · `en`
+
+The Panadura Magistrate today ordered (09) to remand the 20 Chinese nationals, who were arrested while staying at a hotel in the Gorakana area of Panadura for overstaying their visas, until October 23.
+
+The arrest was made following a tip-off received by officers of the Western Province Intelligence Division.
+
+In a statement, the Police Media Division indicated that investigations are underway to determine whether there is a connection between the Chinese nationals arrested today and those apprehended by the Criminal Investigation Department (CID) on October 6 in the Hanwella police area, on suspicion of engaging in organized online financial scams.
+
+Officers from the Panadura Special Crimes Unit, who carried out a raid on the hotel, have discovered that the group of Chinese nationals had been staying at the hotel on a monthly rent of Rs. 2 million.
+
+...
+
+[Data](articles/43ba8737.json)
+
+[Extended Data](ext_articles/43ba8737.ext.json)
+
+---
+
+### Petition against former SIS chief deferred
+
+*2024-10-09 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/102568/petition-against-former-sis-chief-deferred) · `en`
+
+The Court of Appeal has ordered that a petition filed seeking an order be issued to the National Police Commission to take disciplinary actions against the former Director of the State Intelligence Service (SIS) Nilantha Jayawardena, to be taken up on November 13.
+
+This petition has been filed against the former SIS chief over his failure to take action to prevent the Easter Sunday terror attack despite receiving intelligence in advance.
+
+The petition filed by the Centre for Society and Religion (CSR) was taken up before a two-member Appeals Court judge bench consisting of Justices Sobhitha Rajakaruna and Mahen Gopallawa today.
+
+During the hearing, President’s Counsel Chandaka Jayasundara, who appeared for the defendant, stated before the court that the relevant petition filed against his client should be dismissed since the National Police Commission has already initiated a new investigation regarding the matter following a Supreme Court order.
+
+...
+
+[Data](articles/7495f766.json)
+
+[Extended Data](ext_articles/7495f766.ext.json)
+
+---
 
 ### Foreign monitors invading Sri Lanka
 
@@ -460,17 +500,23 @@ He said that he was only used under the Postal Department but participating at a
 
 ---
 
-### ஸ்ரீலங்கா பொதுஜன பெரமுனவில் யாழில் களமிறங்குகிறார் காசிலிங்கம்
+### Kasilingam is in Jaffna
 
 *2024-10-09 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/195857) · `ta`
 
-எதிர்வரும் பொதுத் தேர்தலில் ஸ்ரீலங்கா பொதுஜன பெரமுனவை பிரதிநிதித்துவப்படுத்தி யாழ்ப்பாண மாவட்டத்தில் ஜி. காசிலிங்கம் போட்டியிடுகிறார்.
+Kasilingam running in Jaffna election. Former President Mahinda Rajapaksa supports Kasilingam's nomination.
 
-ஜி. காசிலிங்கம் வேட்புமனுவில் , முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ முன்னிலையில் இன்று புதன்கிழமை (09) கையொப்பமிட்டார்.
+🟩
+
+In the upcoming general election. Kaslingam is competing.
+
+G. Former President Mahinda Rajapaksa signed a signed on Wednesday (09) at Kasilingam's nomination.
 
 ◼️
 
 [Data](articles/bb0a059e.json)
+
+[Extended Data](ext_articles/bb0a059e.ext.json)
 
 ---
 
@@ -1610,25 +1656,33 @@ This time, the people will clearly reject candidates with a political and corrup
 
 ---
 
-### ඉන්දු - ශ්‍රී ලංකා සිනමා ව්‍යාපෘතිය: උඩරට දුම්රියට සිදුවන්නේ කුමක් ද?
+### Indo-Sri Lanka Movie Project: What happens to the Upuran Train?
 
 *2024-10-09 11:40:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4g5jq87l7no) · `si`
 
-ඉන්දු - ශ්‍රී ලංකා සිනමා ව්‍යාපෘතිය: උඩරට දුම්රියට සිදුවන්නේ කුමක් ද?
+Sri Lanka Railways restricts train services for Indian film shoot. Public concerns raised about impact on daily commute. Film company pays compensation and provides alternative transport. Project aims to boost Sri Lanka's tourism industry.
 
-"මගී ප්‍රවාහනය සහ භාණ්ඩ ප්‍රවාහනය සඳහා ආරක්ෂාකාරී, විශ්වාසවන්ත හා නිසි කලට වේලාවට ක්‍රියාත්මක දුම්රිය ප්‍රවාහන සේවාව ලාභදායි හා කාර්යක්‍ෂම ලෙස සැපයීම" තම මෙහෙවර බවට ප්‍රකාශ කරන ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව විසින් එකවර ගනු ලැබූ තීරණයක් සම්බන්ධයෙන් ජනතාව තුළ ප්‍රශ්නාර්ථයක් මතුව තිබේ.
+🟩
 
-ඉන්දියානු චිත්‍රපටයක රූගත කිරීම වෙනුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවන කටයුතු අද (ඔක් 09) දින සිට සතියක කාලයක් සීමා කිරීමට තීරණය කර තිබීම ඊට ප්‍රධාන හේතුව වී ඇත.
+Indo-Sri Lanka Movie Project: What happens to the Upuran Train?
 
-මෙම චිත්‍රපටයේ රූගත කිරීම් සිදුකරන්නේ දෙමෝදර ආරක්කු නමයේ පාලම මත බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+"The public is a question in the public regarding the decision taken by the Sri Lanka Railways, which promotes safe and efficient supply of goods to the transportation of passenger transportation and productive transportation.
 
-ඒ අනුව සිනමා පටයේ රූගත කිරීම හේතුවෙන් කොළඹ කොටුවේ සිට ඇල්ල දුම්රිය ස්ථානය අතර උදෑසන 07.30 සිට සවස 5.30 දක්වා මෙලෙස දුම්රිය ධාවන කටයුතු සීමා කෙරෙන බව සඳහන් කරමින් දුම්රිය දෙපාර්තමේන්තුව නිවේදනයක් නිකුත්කර තිබේ.
+The main reason for the filing of the upcountry route to the filming in an Indian film has decided to limit a week from today (90).
 
-මේ යටතේ අද (ඔක්: 09වැනිදා) සිට ලබන 15 වැනිදා දක්වා දින 7ක් උඩරට මාර්ගයේ දුම්රිය ධාවනය සීමා කෙරෙනු ඇත.
+The film is done on the bridge of the Demodara Security Nine.
+
+According to the filming of the film, the Railway Department has issued a statement regarding the filing of the film to the Ella train station from 07.30 am to 5.30 pm.
+
+The railway operation will be restricted to 7 days from today (October) to date.
+
+Speaking to BBC Sinhala service (Transport) Deputy General Manager (Transportation) NJ. Venerable The Venerators said that the upcountry train service is that his department expresses the sadness of the inconvenience caused by the passenger people.
 
 ...
 
 [Data](articles/d008e1b8.json)
+
+[Extended Data](ext_articles/d008e1b8.ext.json)
 
 ---
 
@@ -2371,47 +2425,5 @@ The leader said that veterinarians have the ability to test whether the virus sp
 [Data](articles/21c2f2b5.json)
 
 [Extended Data](ext_articles/21c2f2b5.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the country
-
-*2024-10-09 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/102543/fairly-heavy-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department say showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur elsewhere at several places in the island during the afternoon or night.
-
-Fairly heavy showers above 75mm are likely at some places in Western, Sabaragamuwa, Central, North-western, Uva and Eastern provinces and in Galle and Matara districts, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/1a6ada6a.json)
-
-[Extended Data](ext_articles/1a6ada6a.ext.json)
-
----
-
-### An increase in online financial fraud
-
-*2024-10-09 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201978) · `si`
-
-Online financial fraud surges: 7,210 complaints by September, mostly social media-related. Senior engineers warn of increased threats to internet users' security, particularly around temporary passwords and OTPs.
-
-🟩
-
-The Computer Emergency Response Forum says that there is an increase in complaints regarding financial irregularities online.
-
-Senior Information Security Engineers Warrankarapola said that there were over 340 complaints of financial difficulty during the year.
-
-"By September, 7,210 complaints have been reported on the Internet by September. Most of these are events related to social media. Complaints received from the persons who had received 20% of the Internet events directly. A significant growth is found on the Internet fraud that is targeting the users online users online. Long time do not pay more concern about security, temporary password OTP number, which is available online. 340 complaints have been reported on the fraud on Internet Banking in the past. This site has not been identified by his banking, he has often been caught by these scam. "
-
-◼️
-
-[Data](articles/7655e18c.json)
-
-[Extended Data](ext_articles/7655e18c.ext.json)
 
 ---

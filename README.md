@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 19:12:11**
+As of **2024-10-09 19:23:21**
 
 ## Newspaper Stats
 
-*Scraped **48,615** Articles*
+*Scraped **48,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ bbccomsinhala | 483
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,510
+adalk | 4,511
 dailymirrorlk | 4,733
 adaderanalk | 5,738
 tamilmirrorlk | 6,596
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,615 (100.0%) of 48,615 articles have been extended.
+48,616 (100.0%) of 48,616 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -89,6 +89,32 @@ These international monitoring groups include representatives of Russia, the Com
 [Data](articles/c7004755.json)
 
 [Extended Data](ext_articles/c7004755.ext.json)
+
+---
+
+### Supports economic growth and anti-corruption efforts
+
+*2024-10-09 18:15:10* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-වර්ධනයට-සහ-දූෂණ-විරෝධී-ප්‍රයත්නයන්-සඳහා-සහාය-පළ-කරයි/11-412401) · `si`
+
+Siri Walt, Sri Lanka's ambassador to Switzerland, met President Dissanayake. She discussed supporting economic growth, anti-corruption efforts, IMF program, foreign investment, tourism, constitutional reforms, labor migration, and sustainable development cooperation between Sri Lanka and Switzerland.
+
+🟩
+
+Sri Lanka's Siri Walt (SIRI Walt), Siri Walt (SIRI WALL), met President Anura Kumara Dissanayake at the Presidential Secretariat today (09).
+
+Ambassador Siri Walt was also presented to President Anura Kumara Dissanayake regarding the presidential election.
+
+The Ambassador to Sri Lanka is ready to support Sri Lanka through the International Monetary Fund Program in Sri Lanka.. She also stated that she was also highlighted by the Switzerland expertise on the Foreign Investment and Tourism Experts.
+
+The fields of constitutional reforms and labor migration were also concerned with the ambassador Siri Walt, the support of Switzerland to further strengthen Sri Lanka's capabilities in these areas.
+
+The Ambassador continued to strengthen the continuous cooperation in Switzerland to promote strong diplomatic relations between Sri Lanka and Switzerland as well as the quality of sustainable development and control of Sri Lanka's sustainable development and control.
+
+◼️
+
+[Data](articles/93886c22.json)
+
+[Extended Data](ext_articles/93886c22.ext.json)
 
 ---
 
@@ -2389,41 +2415,5 @@ Ahead of the presidential polls last month, cash-strapped Sri Lanka had on Septe
 [Data](articles/65814252.json)
 
 [Extended Data](ext_articles/65814252.ext.json)
-
----
-
-### Virus pigs sales - people are observation
-
-*2024-10-09 08:48:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைரஸ்-பன்றிகளின்-இறைச்சி-விற்பனை-மக்களே-அவதானம்/175-345127) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Pigs in Western Province spreading virus. Infected pork sold cheaply. 50 pigs die daily. Virus causes respiratory issues, fever. Veterinarians can test animal-to-animal transmission.
-
-🟩
-
-Pig farms in the Western Province are reportedly spreading rapidly.
-
-According to reports, the meat of the pigs that are infected with the virus are stored in the refrigerator for Rs 300 to Rs 400 per kg.
-
-At a meeting held at the JHU Pradeshiya Sabha, the death of pigs on pig farms in Dadugama area was also discussed.
-
-About 50 pigs die daily on pig farms in the area.
-
-It is also reported that the meat of the pigs is being sold for human consumption at a lower price.
-
-The President of the Government Veterinary Medical Officers Association, Sisira Piyasiri, said that the virus is spreading in the pigs on the pigs in the Colombo and Gampaha districts.
-
-He noted that the virus spreads to pigs through urine and saliva drops, and that the virus can cause difficulties in breathing, lung failure, fever, and appetite.
-
-The leader said that veterinarians have the ability to test whether the virus spreads from animals to animals. Remble
-
-◼️
-
-[Data](articles/21c2f2b5.json)
-
-[Extended Data](ext_articles/21c2f2b5.ext.json)
 
 ---

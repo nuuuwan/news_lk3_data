@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 22:24:52**
+As of **2024-10-09 22:38:57**
 
 ## Newspaper Stats
 
-*Scraped **48,637** Articles*
+*Scraped **48,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ economynextcom | 2,977
 dailyftlk | 3,283
 adalk | 4,514
 dailymirrorlk | 4,733
-adaderanalk | 5,739
+adaderanalk | 5,740
 tamilmirrorlk | 6,601
 virakesarilk | 7,781
-adaderanasinhalalk | 8,413
+adaderanasinhalalk | 8,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,637 (100.0%) of 48,637 articles have been extended.
+48,638 (100.0%) of 48,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Sri Lanka's response to proposal adopted in Geneva
+
+*2024-10-09 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202006) · `si`
+
+Sri Lanka rejects UN draft proposal extending 51/1 Mechanism, citing sovereignty concerns. Government commits to human rights, accountability, and reconciliation efforts domestically.
+
+🟩
+
+A draft proposal to promote reconciliation, accountability and human rights in Sri Lanka have been adopted at the 57th Session of the UN Human Rights Council of Geneva today.
+
+The statement made by the Sri Lanka Permanent Representative for the United Nations at the 57th session of the UN Human Rights Council in Geneva.
+
+It states that Sri Lanka rejects the draft proposal presented before the Council today to extend the 51/1 Solution's proposal.
+
+Below is the full statement made by the Sri Lanka Permanent Representative at the session,
+
+As the country's newly elected Sri Lankan government, I would like to educate the Council on the latest developments in the country.
+
+After decades of exemplary behavior for decades, President of the President Anura Kumara Dissanayake was sworn in as the new Executive President of Sri Lanka.
+
+...
+
+[Data](articles/66c32dae.json)
+
+[Extended Data](ext_articles/66c32dae.ext.json)
+
+---
 
 ### Maithri who suddenly came for his son
 
@@ -51,6 +79,24 @@ Taham Sirisena, son of former President Maithripala Sirisena, has been appointed
 [Data](articles/23485ea7.json)
 
 [Extended Data](ext_articles/23485ea7.ext.json)
+
+---
+
+### Sri Lanka rejects draft resolution adopted at UNHRC, decries external mechanism
+
+*2024-10-09 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/102571/sri-lanka-rejects-draft-resolution-adopted-at-unhrc-decries-external-mechanism) · `en`
+
+Sri Lanka today rejected the draft resolution which was tabled before the United Nations Human Rights Council (UNHRC) seeking to extend the mandate of Resolution 51/1 on promoting reconciliation, accountability and human rights in Sri Lanka.
+
+Earlier today (09), the draft resolution A/HRC/57/L.1 on promoting reconciliation, accountability and human rights in Sri Lanka was adopted without a vote during the ongoing 57th Regular Session of the UNHRC in Geneva.
+
+However, delivering the government’s statement prior to the adoption of the draft proposal, Sri Lanka’s Permanent Representative to the UN Himalee Arunatilaka said the draft resolution 57/L.1 extends the mandates contained in Human Rights Council resolution 51/1.
+
+She said Sri Lanka has opposed HRC resolution 51/1 and the preceding HRC resolution 46/1 under which an external evidence gathering mechanism has been established within the OHCHR.
+
+...
+
+[Data](articles/3e5363fd.json)
 
 ---
 
@@ -2395,43 +2441,5 @@ Meanwhile, the deadline for accepting postal vote applications for the General E
 [Data](articles/558fc87c.json)
 
 [Extended Data](ext_articles/558fc87c.ext.json)
-
----
-
-### Damitha contest to parliament
-
-*2024-10-09 11:11:30* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-පාර්ලිමේන්තුවට-තරගකරයි/11-412389) · `si`
-
-Damitha Abeyratne contests general election 2023 in Ratnapura district, focusing on reconciliation.
-
-🟩
-
-Damitha Abeyratne has decided to contest the general election this year. She further stated that she will contest to the Ratnapura district with a reconciliation this year.. (I j)
-
-◼️
-
-[Data](articles/c1c3fcb3.json)
-
-[Extended Data](ext_articles/c1c3fcb3.ext.json)
-
----
-
-### ‘From rags to riches’: Sri Lankan worker becomes millionaire doing cleaning jobs in Australia
-
-*2024-10-09 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/102549/from-rags-to-riches-sri-lankan-worker-becomes-millionaire-doing-cleaning-jobs-in-australia) · `en`
-
-The story of a Sri Lankan worker, who migrated to Australia less than a decade ago and has become a millionaire now, has taken the internet by storm. At the age of 25, Vinul Karunaratne has made enough money to quit and shift full-time to doing gig jobs.
-
-Karunaratne moved to Australia in 2015 and started working at 7-Eleven stores. But in 2019, he started taking on end-of-lease cleaning jobs on Airtasker. It’s a Sydney-based online marketplace that enables people to outsource everyday tasks - such as cleaning, assembling furniture, or yard work - for others to complete in exchange for cash.
-
-Karunaratne told local news channel 7News that he didn’t have much resources and equipment when he started. “When I started, I didn’t even have much equipment. I had a vacuum, mop, bucket, and some rags,” he said, adding, “That was the stuff I had at home.”
-
-His hard work eventually paid off and he was soon able to ditch his job at 7-Eleven to shift full-time to Airtasker.
-
-...
-
-[Data](articles/7a9984c4.json)
-
-[Extended Data](ext_articles/7a9984c4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 15:10:07**
+As of **2024-10-09 15:23:22**
 
 ## Newspaper Stats
 
-*Scraped **48,572** Articles*
+*Scraped **48,574** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,977
 dailyftlk | 3,283
 adalk | 4,503
 dailymirrorlk | 4,733
-adaderanalk | 5,727
+adaderanalk | 5,729
 tamilmirrorlk | 6,588
 virakesarilk | 7,766
 adaderanasinhalalk | 8,401
@@ -26,11 +26,49 @@ adaderanasinhalalk | 8,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,572 (100.0%) of 48,572 articles have been extended.
+48,574 (100.0%) of 48,574 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Global watchdogs to monitor Sri Lanka’s General Election
+
+*2024-10-09 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/102558/global-watchdogs-to-monitor-sri-lankas-general-election) · `en`
+
+The Election Commission of Sri Lanka has confirmed the participation of observers from eight nations to ensure the integrity of the upcoming general election scheduled for November 14.
+
+This international presence includes representatives from Russia, the Commonwealth, the European Union, and other regional countries, foreign media reported.
+
+According to R M A L Ratnayake, the commission’s chairman, these observers will provide vital oversight during the election proceedings.
+
+Simultaneously, major political parties are in the process of candidate selection and coalition-building, as the deadline for filing nominations looms on October 11.
+
+◼️
+
+[Data](articles/211bfcf2.json)
+
+[Extended Data](ext_articles/211bfcf2.ext.json)
+
+---
+
+### US Pacific Fleet commander to visit Sri Lanka
+
+*2024-10-09 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/102557/us-pacific-fleet-commander-to-visit-sri-lanka-) · `en`
+
+The U.S. Embassy in Sri Lanka announced that Admiral Steve Koehler, a 4-star U.S. Navy Admiral and Commander of U.S. Pacific Fleet will visit Sri Lanka on October 10, marking the highest-level U.S. military visit to the country since 2021.
+
+During the visit, Admiral Koehler will reaffirm the strong partnership between the United States and Sri Lanka for an enduring, resilient, free and open Indo-Pacific, the U.S. Embassy said in a statement.
+
+Admiral Koehler will engage with senior Sri Lankan officials to discuss rising security challenges in the Indian Ocean region, strengthen collaboration on maritime domain awareness and disaster response, reaffirm U.S. commitment to supporting Sri Lanka in combating transnational threats, and discuss the growing cooperation between U.S. and Sri Lankan forces, it said.
+
+...
+
+[Data](articles/965b3a42.json)
+
+[Extended Data](ext_articles/965b3a42.ext.json)
+
+---
 
 ### Petition against Nilantha Jayawardena postponed
 
@@ -2231,45 +2269,5 @@ Raul Rebello, Managing Director & CEO, Mahindra Finance, said, “Mufaddal has p
 [Data](articles/07badc9d.json)
 
 [Extended Data](ext_articles/07badc9d.ext.json)
-
----
-
-### CSE plunges from bullish to bearish mode; profit-takings among banking counters
-
-*2024-10-08 22:46:00* · [`islandlk`](http://island.lk/cse-plunges-from-bullish-to-bearish-mode-profit-takings-among-banking-counters/) · `en`
-
-The stock market which was going through a bullish trend over several working days suddenly indicated a bearish trend yesterday due to profit- takings among banking sector counters. But a price appreciation was noted in Hayleys stocks by five percent. Its share price moved to Rs 104.75 from Rs 100.25 during the day, stock market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index up by 6.46 points and the S and P SL20 rose by 14.55 points. Turnover stood at Rs 1.39 billion with one crossing. The crossing was reported in Ambeon Capital, which crossed 2.5 million shares to the tune of Rs 30.8 million; its shares traded at Rs 12.30.
-
-...
-
-[Data](articles/145f7292.json)
-
-[Extended Data](ext_articles/145f7292.ext.json)
-
----
-
-### Three prison officers interdicted after inmates escape
-
-*2024-10-08 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/102542/three-prison-officers-interdicted-after-inmates-escape) · `en`
-
-Three officers at the Angunakolapelessa Prison have been interdicted following the escape of four inmates on October 1, 2024.
-
-The incident had occurred after ten inmates were reportedly taken out of the prison for cleaning activities in the premises outside the prison without the approval of the Prison Superintendent.
-
-The Chief Jailer had arranged for the ten prisoners to be taken outside to clean the outer premises, during which four inmates had escaped custody, said the Prisons Spokesperson.
-
-The escaped prisoners include individuals with pending court cases, one of whom has a 21-year sentence and two pending cases.
-
-Meanwhile, three of the escaped inmates have been recaptured, while one still remains at large, the spokesman said.
-
-The Chief Jailer and two other officers including a secondar jailor and a guard have been suspended pending further investigation into the incident.
-
-◼️
-
-[Data](articles/74bd0b94.json)
-
-[Extended Data](ext_articles/74bd0b94.ext.json)
 
 ---

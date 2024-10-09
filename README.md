@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 21:23:35**
+As of **2024-10-09 21:39:17**
 
 ## Newspaper Stats
 
-*Scraped **48,629** Articles*
+*Scraped **48,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailyftlk | 3,283
 adalk | 4,513
 dailymirrorlk | 4,733
 adaderanalk | 5,739
-tamilmirrorlk | 6,598
+tamilmirrorlk | 6,599
 virakesarilk | 7,780
-adaderanasinhalalk | 8,410
+adaderanasinhalalk | 8,411
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,629 (100.0%) of 48,629 articles have been extended.
+48,631 (100.0%) of 48,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### India target 173 runs
+
+*2024-10-09 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202003) · `si`
+
+India set 173-run target vs Sri Lanka in T20 World Cup. India batsmen score 172/3 in 20 overs. Sri Lanka wins by chasing down the total.
+
+🟩
+
+Sri Lanka are currently participating in the participation of Sri Lanka under the participation of the 20 World Cup.
+
+The Indian captain won the toss and elected to bat first.
+
+Accordingly, India scored 172 runs for the loss of 3 wickets at the end of 20 overs.
+
+Sri Lanka has scored 173 runs in winning the match.
+
+◼️
+
+[Data](articles/a417db8f.json)
+
+[Extended Data](ext_articles/a417db8f.ext.json)
+
+---
+
+### Sri Lanka -related resolution completion in UN
+
+*2024-10-09 20:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நாவில்-இலங்கை-தொடர்பான-தீர்மானம்-நிறைவேற்றம்/175-345176) · `ta`
+
+UN HRC 57/L.1 resolution promotes reconciliation, accountability, and human rights in Sri Lanka, passed without referendum during 57th session in Geneva.
+
+🟩
+
+A/HRC/57/L.1 resolution to promote reconciliation, accountability and human rights in Sri Lanka was passed without a referendum during the 57th session of the United Nations Human Rights Council in Geneva.. Remble
+
+◼️
+
+[Data](articles/a10f932a.json)
+
+[Extended Data](ext_articles/a10f932a.ext.json)
+
+---
 
 ### Lotus Tower is more information about the student
 
@@ -2375,55 +2417,5 @@ Chairman of Sri Lanka Livestock Producers Association Ajith Gunasekara stated th
 [Data](articles/ea293625.json)
 
 [Extended Data](ext_articles/ea293625.ext.json)
-
----
-
-### Older business in small England
-
-*2024-10-09 10:21:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சின்ன-இங்கிலாந்தில்-பழைய-தொழில்/76-345132) · `ta`
-
-Brothels disguised as massage parlors raided in Nuwara Eliya. Five women arrested, ages 32-47. To be presented in court on Wednesday.
-
-🟩
-
-The brothels, which are under the guise of a massage station in Nuwara Eliya, known as the most cool area, are surrounded by a brothel.
-
-Nuwara Eliya police said that the manager of the hotel, including five women, was arrested on Tuesday afternoon, surrounded by a brothel in the guise of a massage station in front of the Nuwara Eliya Cinicita Ground.
-
-In a rented building, police said that the arrest was carried out during a raid on the secret information received by the police claiming to be selling a massage center, claiming to be selling a massage center.
-
-The arrested women have been aged 32-47 from Kolonnawa, Halaka, Kadavatha, Welimada and Homagama.
-
-The Chief Inspector of Police said that they will be produced before the Nuwara Eliya Magistrate's Court on Wednesday (09).
-
-◼️
-
-[Data](articles/f97cc3c9.json)
-
-[Extended Data](ext_articles/f97cc3c9.ext.json)
-
----
-
-### Date for the case against Shashi
-
-*2024-10-09 10:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷஷிக்கு-எதிரான-வழக்குக்கு-திகதி/175-345131) · `ta`
-
-Case against Shashi Weerawansa: Hearing date set for Oct 8, 2023. Accused appears in court. Case filed on Oct 13, 2010, alleging submission of fake birth certificate for diplomatic passport. Former Immigration Controller named witness.
-
-🟩
-
-Colombo Additional Magistrate Harshana Kekunuwala, who rejected the defendant's objection to the case against former minister Wimal Weerawansa's wife Mrs. Shashi Weerawansa, who allegedly obtained an illegal diplomatic passport by submitting a fake birth certificate, ordered the hearing of the case on Tuesday (08).
-
-Former Immigration Controller who has been named as witness of the case. R. Sulananda Perera issued a notice to the two witnesses to testify in court that day.
-
-When the case was taken up for hearing, the accused Mrs. Shashi Weerawansa appeared in court. H. According to the complaint lodged by a person named Saminda, the Criminal Investigation Department launched an investigation.
-
-The case was filed on October 13, 2010, on charges of submitting the application with documents, including the wrong birth certificate, for obtaining a foreign passport to the immigrant controller.
-
-◼️
-
-[Data](articles/3da410cd.json)
-
-[Extended Data](ext_articles/3da410cd.ext.json)
 
 ---

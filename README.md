@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 10:23:21**
+As of **2024-10-09 10:39:28**
 
 ## Newspaper Stats
 
@@ -1476,7 +1476,7 @@ It is very good to hand over the postal voting applications that have been compl
 
 ---
 
-### Sri Lank parliamentary election: Nominations close on Oct 12
+### Sri Lank parliamentary election: Nominations close on Oct 11
 
 *2024-10-08 20:53:00* · [`economynextcom`](https://economynext.com/sri-lank-parliamentary-election-nominations-close-on-oct-12-182875/) · `en`
 

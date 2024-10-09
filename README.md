@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 11:11:24**
+As of **2024-10-09 11:23:05**
 
 ## Newspaper Stats
 
-*Scraped **48,525** Articles*
+*Scraped **48,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,970
 dailyftlk | 3,283
 adalk | 4,495
 dailymirrorlk | 4,733
-adaderanalk | 5,717
+adaderanalk | 5,719
 tamilmirrorlk | 6,579
 virakesarilk | 7,762
 adaderanasinhalalk | 8,394
@@ -26,11 +26,53 @@ adaderanasinhalalk | 8,394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,525 (100.0%) of 48,525 articles have been extended.
+48,527 (100.0%) of 48,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### 20 Chinese nationals arrested for visa overstay: 437 mobile phones and other devices seized
+
+*2024-10-09 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/102548/20-chinese-nationals-arrested-for-visa-overstay-437-mobile-phones-and-other-devices-seized) · `en`
+
+Police have arrested 20 Chinese nationals who were staying at a hotel in the Gorakana area of Panadura without valid visas. The arrest has been made following a tip-off received from the officers of the Western Province Intelligence Division.
+
+The officers of Panadura Special Crimes Unit who carried out a raid in the hotel have discovered the group of Chinese nationals staying at the hotel on a monthly rent of Rs. 2 million.
+
+During the raid, the police have also seized a significant number of electronic devices, including 5 laptops, 437 mobile phones, 332 USB cables, 133 mobile phone chargers, 21 USB wire cords, 17 routers, 2 iPhones, and other accessories. The items are suspected to be linked to potential financial fraud and scams.
+
+The arrested individuals were provided meals from the hotel, where they had been residing for an extended period, the police said.
+
+...
+
+[Data](articles/c2242cf4.json)
+
+[Extended Data](ext_articles/c2242cf4.ext.json)
+
+---
+
+### Increase in online financial fraud: Over 340 online banking scams reported in 2024
+
+*2024-10-09 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/102547/increase-in-online-financial-fraud-over-340-online-banking-scams-reported-in-2024) · `en`
+
+Sri Lanka Computer Emergency Response Team (SL CERT) has reported a significant rise in complaints related to online financial fraud in 2024.
+
+According to SL CERT’s Senior Information Engineer Charuka Damunupola, over 340 complaints involving financial scams have been received so far this year.
+
+“Up to September, we’ve received 7,210 complaints regarding online scams, with the majority of these linked to social media platforms. When we focus specifically on online-based fraud, around 20% of the complaints involve financial scams. This highlights a growing trend of internet fraud targeting online banking users,” Damunupola stated.
+
+He further explained that many victims fall prey to scams due to a lack of attention to security measures, particularly with One-Time Passwords (OTPs).
+
+“Many users do not take proper care in safeguarding their OTPs or fail to recognize fraudulent websites. This often results in them being caught in these online banking scams,” Damunupola added.
+
+...
+
+[Data](articles/c381dc28.json)
+
+[Extended Data](ext_articles/c381dc28.ext.json)
+
+---
 
 ### Conversation on Douglas phone with President Anura
 
@@ -2335,57 +2377,5 @@ Accordingly, the applications to be completed in midnight today (08) have been e
 [Data](articles/0d8bf3db.json)
 
 [Extended Data](ext_articles/0d8bf3db.ext.json)
-
----
-
-### Parliamentary election;The Cafe Organization demands all political parties to give women the opportunity to select candidates
-
-*2024-10-08 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195794) · `ta`
-
-Cafe Organization calls for increased female youth representation in upcoming parliamentary elections. Senior politicians opting out, prompting request for more opportunities for underrepresented groups. Current low female representation (48%) cited as concern.
-
-🟩
-
-Senior politicians who have been involved in politics for many years have decided not to contest the upcoming general election this year.. Therefore, the Cafe Organization has requested all political parties to provide a significant place to women and youth when nominating nominations from each political party.
-
-We have observed that some people who have been elected to Parliament in the past have not done their duty as people's representatives.
-
-Moreover, the people express their wishes to the people elected by the respective party.
-
-Therefore, the Managing Director of the Cafe Organization, Marangi Aryavansa, urges all political parties to come forward to provide a significant opportunity for young people and women without selecting the accused by the public.
-
-The report issued to the media yesterday (07) and continued in the report.
-
-The majority of the voters in this country are seen as women. In that respect, it is especially 50% to 52%.
-
-...
-
-[Data](articles/5254db99.json)
-
-[Extended Data](ext_articles/5254db99.ext.json)
-
----
-
-### Applications of the Dhamma School Final Examination are extended
-
-*2024-10-08 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201961) · `si`
-
-Dhamma School exam application deadline extended to April 21, 2014. Obtain forms from www.doenets.lk, submit completed applications to Commissioner General of Examinations, Department of Examinations, Colombo.
-
-🟩
-
-The applications of the Dhamma School Last Certificate Examination has been extended to 21.04.2014 to 21.2014.
-
-Commissioner General of Examinations, Amit Jayasundara has made this statement.
-
-Accordingly, the applications have to be obtained from the website www.doenets.lk and the necessary steps have been made from all Divisional Secretariats.
-
-Completed applications should be sent to the Commissioner General of Examinations, the Commissioner General of Examinations, the Commissioner General of Examinations, the Department of Examinations, PO, 1503, Colombo.
-
-◼️
-
-[Data](articles/ee277324.json)
-
-[Extended Data](ext_articles/ee277324.ext.json)
 
 ---

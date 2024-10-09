@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 23:39:18**
+As of **2024-10-10 00:13:15**
 
 ## Newspaper Stats
 
-*Scraped **48,653** Articles*
+*Scraped **48,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ bbccomsinhala | 483
 islandlk | 2,871
 economynextcom | 2,985
 dailyftlk | 3,283
-adalk | 4,515
+adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,742
-tamilmirrorlk | 6,601
-virakesarilk | 7,781
+tamilmirrorlk | 6,602
+virakesarilk | 7,782
 adaderanasinhalalk | 8,416
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,652 (100.0%) of 48,653 articles have been extended.
+48,656 (100.0%) of 48,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Asian Champion, who surrendered to India, leaves Sri Lanka's first round;India's semi -final chance swing
+
+*2024-10-09 23:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/195900) · `ta`
+
+India beats Sri Lanka in ICC Women's T20 World Cup, advancing to semis. India scores 
+
+🟩
+
+The Asian Champion Sri Lanka surrendered to India at the ICC Women's T20 World Cup A group held at the Dubai International Cricket Stadium on Wednesday night.
+
+India won by 82 runs in all sectors to surpass Sri Lanka in this competition, but its semi -final chance.
+
+India's last match is against Australia with 4 points. Meanwhile, New Zealand, with 2 points in Sri Lanka and Pakistan. With today's victory, India has advanced to second place with 4 points.
+
+India decided to bat first in today's match against Sri Lanka and scored 172 runs for the loss of only 3 wickets in 20 overs.
+
+All India's leading heroes made the best contribution and strengthened the total number.
+
+Shabali Verma and Smrithi Mandana played a stunning bats and shared 98 runs off 76 balls.
+
+Smrithi Mandana scored 50 runs off 38 balls while Shabali Verma scored 43 off 40 balls.
+
+Rotrix was out with 16 runs while both team captain Hamanpreet Gor and Jemima Rotrix shared 30 runs in the 3rd wicket.
+
+...
+
+[Data](articles/dbec06af.json)
+
+[Extended Data](ext_articles/dbec06af.ext.json)
+
+---
+
+### New leader for SriLankan Airlines
+
+*2024-10-09 23:32:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீலங்கன்-எயார்லைன்ஸிற்கு-புதிய-தலைவர்/175-345191) · `ta`
+
+SriLankan Airlines appoints new CEO. The airline aims to improve its financial performance and expand its route network. The new leader brings experience from other airlines and promises to enhance customer service.
+
+🟩
+
+◼️
+
+[Data](articles/a8882365.json)
+
+[Extended Data](ext_articles/a8882365.ext.json)
+
+---
 
 ### Sarath Ganegoda appointed new chairman of SriLankan Airlines
 
@@ -39,6 +87,16 @@ Extensions include translations and NER (Named Entity Recognition).
 Sarath Ganegoda has been appointed as the new Chairman of SriLankan Airlines effective from today (09).
 
 Meanwhile, a new Board of Directors has also been appointed to Sri Lanka’s national carrier, under the chairmanship of Mr. Ganegoda.
+
+A prominent business leader, Mr Ganegoda currently serves as the Group Executive Director of Sri Lankan multinational Hayleys PLC and Deputy Chairman of Alumex PLC.
+
+He joined the Hayleys Group in 2007 and was appointed to the Group Management Committee in July 2007.
+
+He was appointed to the Board of Hayleys PLC in September 2009 and to the Board of Alumex PLC in November 2010.
+
+He is a Fellow Member of CA Sri Lanka and a Member of the Institute of Chartered Management Accountants of Australia. He holds an MBA from the Post Graduate Institute of Management, University of Sri Jayewardenepura.
+
+He held several senior management positions in large private entities in Sri Lanka and overseas.
 
 ◼️
 
@@ -573,6 +631,28 @@ Head of the Western Province Road Bureau of the Western Provincial Road Passenge
 [Data](articles/8286a456.json)
 
 [Extended Data](ext_articles/8286a456.ext.json)
+
+---
+
+### Nominations launched signing nomination
+
+*2024-10-09 19:16:50* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-නාම-යෝජනා-අත්සන්-තැබීම-අරඹයි/11-412411) · `si`
+
+Sri Lanka Civil Front launches nominations for general election. Party leader Mahinda Rajapaksa signs nomination papers at party headquarters. Activities began today at Nelum Mawatha, Battaramulla.
+
+🟩
+
+The Nominations of the Sri Lanka Civil Front has commenced its signing of the Sri Lanka Promotion for the upcoming general election.
+
+Accordingly, these activities were commenced today (09) at the party headquarters at Nelum Mawatha, Battaramulla.
+
+The party leader, former President Mahinda Rajapaksa, was also present at the occasion.
+
+◼️
+
+[Data](articles/f0420c83.json)
+
+[Extended Data](ext_articles/f0420c83.ext.json)
 
 ---
 
@@ -2311,79 +2391,5 @@ However, Maui Senathirajah is not acceptable that some of the party's decisions 
 [Data](articles/682f4798.json)
 
 [Extended Data](ext_articles/682f4798.ext.json)
-
----
-
-### Ceylon Workers Congress to contest election under elephant symbol
-
-*2024-10-09 12:20:00* · [`economynextcom`](https://economynext.com/ceylon-workers-congress-to-contest-election-under-elephant-symbol-182943/) · `en`
-
-ECONOMYNEXT – The Ceylon Workers Congress will contest the upcoming General Elections under the United National Party-led alliance of former President Ranil Wickremesinghe, its General Secretary said.
-
-“In Nuwara Eliya, the Ceylon Workers Congress will contest under the United National Party led alliance of former President @RW_SRILANKA. Our symbol will be the Elephant 🐘,” Jeevan Thondaman said.
-
-Thondaman signed the nomination papers on Tuesday (8) to contest from the Nuwara Eliya District.
-
-“I look forward to continue to serve the people of our country.”
-
-The Ceylon Workers’ Congress has traditionally represented Malaiyaga Tamils working in the plantation sector.
-
-But Thondaman, who last year was sworn in as the youngest Cabinet minister, was given a broader remit with the Ministry of Water Supply.
-
-Sri Lanka’s traditional party structure has been splintered with all major parties split or in coalitions.
-
-...
-
-[Data](articles/57d5c4d1.json)
-
-[Extended Data](ext_articles/57d5c4d1.ext.json)
-
----
-
-### Sri Lanka’s Prasantha Vinod wins prize at Wildlife Photographer of the Year Awards
-
-*2024-10-09 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102553/sri-lankas-prasantha-vinod-wins-prize-at-wildlife-photographer-of-the-year-awards) · `en`
-
-A Sri Lankan photographer has managed to win the prize in the “Behaviour: Mammals” category at the Wildlife Photographer of the Year Awards 2024 held in London’s Natural History Museum.
-
-After photographing birds and leopards, Hikkaduwa Liyanage Prasantha Vinod captured a young toque macaque peacefully sleeping in an adult’s arms to highlight the challenges these monkeys face amid habitat loss and farmer conflicts.
-
-His photograph - “A Tranquil Moment”, has secured him the prize in the “Behaviour: Mammals” category at the prestigious event.
-
-Meanwhile, a snapshot of wriggling toad tadpoles has earned Shane Gross the title of Wildlife Photographer of the Year.
-
-Shane Gross wins the grand prize - and the ‘Wetlands: The Bigger Picture’ category
-
-The competition marks the sixtieth anniversary of Wildlife Photographer of the Year. For decades this competition has revealed the beauty, wonder and vulnerability of the natural world.
-
-...
-
-[Data](articles/0827f231.json)
-
-[Extended Data](ext_articles/0827f231.ext.json)
-
----
-
-### Sri Lanka’s Prasantha Vinod wins prize at Wildlife Photographer of the Year
-
-*2024-10-09 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102553/sri-lankas-prasantha-vinod-wins-prize-at-wildlife-photographer-of-the-year) · `en`
-
-A Sri Lankan photographer has managed to win the prize in the “Behaviour: Mammals” category at the Wildlife Photographer of the Year Awards 2024 held in London’s Natural History Museum.
-
-After photographing birds and leopards, Hikkaduwa Liyanage Prasantha Vinod captured a young toque macaque peacefully sleeping in an adult’s arms to highlight the challenges these monkeys face amid habitat loss and farmer conflicts.
-
-His photograph - “A Tranquil Moment”, has secured him the prize in the “Behaviour: Mammals” category at the prestigious event.
-
-Meanwhile, a snapshot of wriggling toad tadpoles has earned Shane Gross the title of Wildlife Photographer of the Year.
-
-Shane Gross wins the grand prize - and the ‘Wetlands: The Bigger Picture’ category
-
-The competition marks the sixtieth anniversary of Wildlife Photographer of the Year. For decades this competition has revealed the beauty, wonder and vulnerability of the natural world.
-
-...
-
-[Data](articles/9088d8a4.json)
-
-[Extended Data](ext_articles/9088d8a4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 20:23:11**
+As of **2024-10-09 20:39:41**
 
 ## Newspaper Stats
 
-*Scraped **48,626** Articles*
+*Scraped **48,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ dailymirrorlk | 4,733
 adaderanalk | 5,739
 tamilmirrorlk | 6,598
 virakesarilk | 7,780
-adaderanasinhalalk | 8,408
+adaderanasinhalalk | 8,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,626 (100.0%) of 48,626 articles have been extended.
+48,627 (100.0%) of 48,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Sri Lanka adopts a proposal in Geneva
+
+*2024-10-09 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202000) · `si`
+
+Sri Lanka adopts Geneva proposal promoting reconciliation, accountability, and human rights at UN Human Rights Council session.
+
+🟩
+
+A draft proposal to promote reconciliation, accountability and human rights in Sri Lanka have been adopted at the 57th Session of the UN Human Rights Council of Geneva today.
+
+◼️
+
+[Data](articles/9afc4309.json)
+
+[Extended Data](ext_articles/9afc4309.ext.json)
+
+---
 
 ### Actor Kamal Adarachchi also resolves to contest
 
@@ -2407,25 +2425,5 @@ However, Sumanthiran has announced that the TNA will be in the house of the Tami
 [Data](articles/56720503.json)
 
 [Extended Data](ext_articles/56720503.ext.json)
-
----
-
-### Attempt Of Senior Advisor To AKD To Crush ‘Aragalaya’ & Dilution Of Corruption Agenda
-
-*2024-10-09 09:55:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/attempt-of-senior-advisor-to-akd-to-crush-aragalaya-dilution-of-corruption-agenda/) · `en`
-
-I refer to the media report attributed to Minister of Foreign Affairs & Cabinet Spokesman, Vijitha Herath that Messrs. Duminda Hulangamuwa and Prof. Anil Fernando have been appointed ‘Senior Advisors to the President on Economic Affairs & Finance’.
-
-As a person who voted for President Anura Kumara Dissanayake who is also Minister of Finance, I am shocked to learn of the appointment of Duminda Hulangamuwa.
-
-My vote for AKD was mainly due to my belief that he is sincere in combating corruption being at the center of his agenda.
-
-The corrosive link between politicians/professionals/private sector is best exemplified by the call of business chambers led by the Ceylon Chamber of Commerce (CCC) to “call off mass protests” planned for 2 November 2022 by those seeking  economic and social justice and accountability for economic crimes after the ‘Aragalaya’ was violently dismantled by then unelected President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/9551add5.json)
-
-[Extended Data](ext_articles/9551add5.ext.json)
 
 ---

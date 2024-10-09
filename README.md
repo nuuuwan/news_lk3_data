@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 13:39:36**
+As of **2024-10-09 13:59:50**
 
 ## Newspaper Stats
 
-*Scraped **48,553** Articles*
+*Scraped **48,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ bbccomsinhala | 481
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,500
+adalk | 4,501
 dailymirrorlk | 4,733
 adaderanalk | 5,725
-tamilmirrorlk | 6,581
+tamilmirrorlk | 6,582
 virakesarilk | 7,764
-adaderanasinhalalk | 8,397
+adaderanasinhalalk | 8,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,553 (100.0%) of 48,553 articles have been extended.
+48,556 (100.0%) of 48,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Vadivel Sureshum jumped
+
+*2024-10-09 13:34:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடிவேல்-சுரேஷூம்-தாவினார்/175-345155) · `ta`
+
+Former parliamentarian Vadivel Suresh announced on Wednesday (09) that he is contesting through the "United Democratic Voice" party.
+
+“We will resolve the basic problems of the upcountry people through the United Democratic Voice Party. People have cut off state leaders who deceive the upcountry people. We can't deceive us anymore. ”
+
+◼️
+
+[Data](articles/676754e0.json)
+
+[Extended Data](ext_articles/676754e0.ext.json)
+
+---
+
+### A new political party from Ranjan Ramanayake
+
+*2024-10-09 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201988) · `si`
+
+Former MP Ranjan Ramanayake has launched a new political party.
+
+The political party is the sign of that political party established, "United Democratic Voice."
+
+Tillakaratne Dilshan has been appointed as the national organizer of the party.
+
+Meanwhile, former parliamentarian, MP Vundayale Suresh was also present at the occasion.
+
+◼️
+
+[Data](articles/5cfec02c.json)
+
+[Extended Data](ext_articles/5cfec02c.ext.json)
+
+---
 
 ### A number of parties signing nominations
 
@@ -123,6 +159,28 @@ The competition marks the sixtieth anniversary of Wildlife Photographer of the Y
 [Data](articles/9088d8a4.json)
 
 [Extended Data](ext_articles/9088d8a4.ext.json)
+
+---
+
+### Sub-Inspector's performance in hand
+
+*2024-10-09 12:02:30* · [`adalk`](https://www.ada.lk/breaking_news/උප-පොලිස්-පරීක්ෂකවරයාගේ-රංගනය-අතේ-පත්තු-වෙයි/11-412391) · `si`
+
+Colombo South Senior Superintendent's Office, the OIC of the Kirulapone Police have misled the OIC of the Kirulapone Police who had been severely injured when he went to a nightclub and a large number of police officers had been severely injured when he went to a nightclub.Means the roads.
+
+The duties of a constable who covered the incident have been suspended.
+
+Sub Inspector who served as the OIC of the Anti-Corruption Unit has a drug dealer at Bambalapitiya last night with a drug dealer at the Bambalapitiya last night and a man was a conflict with the drug dealerSources say that the attack was attacked to the hand of the sub-inspector.
+
+The information book has fled from a motorcycle near the 4th Lane of Kirulapovul, which was in a motorcycle where the motorcycle was on the occasion when the police constable was dunishes on the same day.Sources said.
+
+The sub-Inspector remained in the single reed.
+
+...
+
+[Data](articles/1bb7a6a0.json)
+
+[Extended Data](ext_articles/1bb7a6a0.ext.json)
 
 ---
 
@@ -2267,79 +2325,5 @@ The lyrics and ideas that are featured in this song are attracted to the fans.
 [Data](articles/29750c74.json)
 
 [Extended Data](ext_articles/29750c74.ext.json)
-
----
-
-### Sri Lanka’s new govt can’t take “many actions” against past corruptions: cabinet spox
-
-*2024-10-08 20:25:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-govt-cant-take-many-actions-against-past-corruptions-cabinet-spox-182871/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new government under President Anura Kumara Dissanayake cannot take many actions against past corruption because it is not stable amid an election period, Cabinet Spokesman Vijitha Herath said.
-
-President Dissanayake’s Marxists party Janatha Vimukthi Peremuna (JVP) before the presidential election promised to take immediate legal action on the past alleged corrupt deals.
-
-Those alleged deals include a bond scam involved with former president Ranil Wickremesinghe and recovering stolen assets from the family members of former leader Mahinda Rajapaksa.
-
-However, Namal Rajapaksa, son of Rajapaksa last week challenged the JVP-led coalition government to start actions against him to recover alleged stolen assets as claimed in public, while Wickremesinghe said he has nothing to do with the 2015 bond scam.
-
-“Actually we have passed only a few days. We want some time,” Herath told a weekly Cabinet press briefing on Tuesday in Colombo.
-
-...
-
-[Data](articles/84179c93.json)
-
-[Extended Data](ext_articles/84179c93.ext.json)
-
----
-
-### High possibilities for heavy lightning
-
-*2024-10-08 20:14:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-மின்னலுக்கான-அதிக-சாத்தியக்கூறுகள்/175-345108) · `ta`
-
-Heavy lightning warning: Anuradhapura, Western, Southern, Central, Sabaragamuwa, North Western, North, Uva districts. Strong winds during thunderstorms. Take precautions against lightning strikes.
-
-🟩
-
-The Department of Meteorology has predicted that there are high possibilities for heavy lightning in the evening or night in the Anuradhapura district and the Anuradhapura district in the Western, Southern, Central, Sabaragamuwa, North Western, North and Uva district.
-
-During thunderstorms, strong winds can be temporarily blowing in the area.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce accidents caused by lightning strikes. Remble
-
-◼️
-
-[Data](articles/f2be8ebd.json)
-
-[Extended Data](ext_articles/f2be8ebd.ext.json)
-
----
-
-### Standard Price for Essential Items
-
-*2024-10-08 20:04:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசியப்-பொருட்களுக்கு-நிர்ணய-விலை/175-345107) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Consumer Affairs Authority sets prices for essentials: sugar (237-269/kg), wheat mango (149-177/kg), pulses (270-317/kg), imported potatoes (160-234/kg), dried chili (685-845/kg).
-
-🟩
-
-The Consumer Affairs Authority has announced this weekly price of essential commodities.
-
-The Consumer Affairs Authority (CAA) issues the fixed price for some essential commodities, including sugar and wheat mango.
-
-Accordingly, the price of a kilogram of white Chinese can be sold at 237 to 269 rupees.
-
-Wheat mango can be sold from 149 rupees to 177 rupees and 1 kg of pulses can be sold for Rs 270 to Rs 317.
-
-The price of imported potatoes can be sold from 160 to 234 rupees and dried chilli can be sold from 685 to 845 kg.. Remble
-
-◼️
-
-[Data](articles/9d3b3150.json)
-
-[Extended Data](ext_articles/9d3b3150.ext.json)
 
 ---

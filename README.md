@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 03:57:34**
+As of **2024-10-10 04:10:48**
 
 ## Newspaper Stats
 
-*Scraped **48,665** Articles*
+*Scraped **48,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 481
 bbccomsinhala | 483
 islandlk | 2,871
 economynextcom | 2,985
-dailyftlk | 3,288
+dailyftlk | 3,290
 adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,743
@@ -26,11 +26,51 @@ adaderanasinhalalk | 8,416
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,665 (100.0%) of 48,665 articles have been extended.
+48,667 (100.0%) of 48,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-10 (Thursday)
+
+### Institute of Policy Studies Chief advocates fiscal austerity measures
+
+*2024-10-10 03:47:00* · [`dailyftlk`](https://www.ft.lk/business/Institute-of-Policy-Studies-Chief-advocates-fiscal-austerity-measures/34-767769) · `en`
+
+Launches ‘Sri Lanka: State of the Economy 2024’ report with theme “Economic Scars of Multiple Crises: From Data to Policy”
+
+The Institute of Policy Studies (IPS) on Tuesday hosted a knowledge sharing and networking event to launch its annual flagship report ‘Sri Lanka: State of the Economy 2024: Economic Scars of Multiple Crises: From Data to Policy.’
+
+The report analyses the policies implemented to curb the fallout of the 2022 economic crisis-its varying impacts on stakeholders, and the measures taken to aid the financially vulnerable populations of the country through data driven evidence.
+
+IPS Executive Director Dr. Dushni Weerakoon reiterated that despite a 4% rise in GDP growth post the recent crisis, output levels still remain significantly lower than 2018 and 2019 levels.
+
+...
+
+[Data](articles/6f3c1432.json)
+
+[Extended Data](ext_articles/6f3c1432.ext.json)
+
+---
+
+### Advocata Institute congratulates President Anura Kumara Dissanayake
+
+*2024-10-10 03:35:10* · [`dailyftlk`](https://www.ft.lk/business/Advocata-Institute-congratulates-President-Anura-Kumara-Dissanayake/34-767768) · `en`
+
+The Advocata Institute has extended its heartfelt congratulations to President Anura Kumara Dissanayake on his election as the ninth Executive President of the Democratic Socialist Republic of Sri Lanka.
+
+In a message addressed to the President, Advocata Institute Chairman Murtaza Jafferjee and CEO Dhananath Fernando acknowledged the trust and confidence placed in President Dissanayake by the people of Sri Lanka.
+
+They expressed optimism that his leadership will guide the country towards a more prosperous and equitable future.
+
+“As an independent policy think tank committed to advancing economic freedoms and improving the well-being of Sri Lankans through economic prosperity, we believe your tenure offers a unique opportunity to pursue meaningful reforms that will continue economic stability, promote sustainable growth, enhance governance, and uplift the living standards of all citizens,” Jafferjee said.
+
+...
+
+[Data](articles/f0cb4d88.json)
+
+[Extended Data](ext_articles/f0cb4d88.ext.json)
+
+---
 
 ### Misinformation lovingly brought to you by Big Tech
 
@@ -2301,43 +2341,5 @@ In 2010, Ranjan Ramanayake was first elected to the Parliament representing Ratn
 [Data](articles/a0cca912.json)
 
 [Extended Data](ext_articles/a0cca912.ext.json)
-
----
-
-### Ranjan, Dilshan started the new party
-
-*2024-10-09 13:44:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சன்-டில்ஷான்-புதிய-கட்சியை-துவங்கினர்/175-345156) · `ta`
-
-Ranjan Ramanayake and Dilshan announce new party: United Democratic Voice (UDV). Actor-politician and former cricketer team up for political venture.
-
-🟩
-
-Actor and politician Ranjan Ramanayake and former Sri Lankan cricketer DM Dilshan have announced that they will launch a new political party called the United Democratic Voice (UDV).
-
-◼️
-
-[Data](articles/f13ab64c.json)
-
-[Extended Data](ext_articles/f13ab64c.ext.json)
-
----
-
-### Vadivel Suresh Competition in United Democratic Voice Party
-
-*2024-10-09 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/195835) · `ta`
-
-Vadivel Suresh contests United Democratic Voice Party election. Promises to address issues affecting rural communities. Criticizes previous leaders for deceiving hill country residents.
-
-🟩
-
-Former parliamentarian Vadivel Suresh has announced that he will contest the "United Democratic Voice" party today (09).
-
-We will solve the basic problems of the upcountry people through the United Democratic Voice Party. People have punished state leaders who deceived the hill country. He said he could not deceive us anymore.
-
-◼️
-
-[Data](articles/a5287576.json)
-
-[Extended Data](ext_articles/a5287576.ext.json)
 
 ---

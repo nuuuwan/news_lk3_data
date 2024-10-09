@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 19:57:41**
+As of **2024-10-09 20:12:39**
 
 ## Newspaper Stats
 
-*Scraped **48,618** Articles*
+*Scraped **48,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,166 @@ bbccomsinhala | 483
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,511
+adalk | 4,512
 dailymirrorlk | 4,733
 adaderanalk | 5,739
-tamilmirrorlk | 6,596
-virakesarilk | 7,775
+tamilmirrorlk | 6,598
+virakesarilk | 7,780
 adaderanasinhalalk | 8,408
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,618 (100.0%) of 48,618 articles have been extended.
+48,626 (100.0%) of 48,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Actor Kamal Adarachchi also resolves to contest
+
+*2024-10-09 19:51:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-கமல்-அதரராச்சியும்-போட்டியிட-தீர்மானம்/175-345175) · `ta`
+
+Kamal Atharachchi contests general election representing Devan Parapura party in Trincomalee district. Previously supported Anura Kumara Dissanayake in presidential election.
+
+🟩
+
+Sri Lankan senior actor Kamal Atharachchi has decided to contest the upcoming general election.
+
+He will represent the 'Devan Parapura' party headed by Uvindu Wijeweera, son of former Janatha Vimukthi Peramuna (JVP) leader Rohana Wijeweera.
+
+Adarachchi has confirmed that he will contest in Trincomalee district. It is noteworthy that he had previously supported President Anura Kumara Dissanayake during the last presidential election.
+
+◼️
+
+[Data](articles/c8e658a8.json)
+
+[Extended Data](ext_articles/c8e658a8.ext.json)
+
+---
+
+### Fulfillment in Sri Lanka's Reconciliation, Liability and Human Rights
+
+*2024-10-09 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/195895) · `ta`
+
+UNHRC passes resolution on Sri Lanka's reconciliation, accountability, and human rights without referendum. Draft approved in 57th session, focusing on improving post-conflict healing and justice.
+
+🟩
+
+Draft resolution to improve reconciliation, accountability and human rights in Sri Lanka was passed without a referendum
+
+The A/HRC/57/L.1 resolution has been adopted without a referendum for reconciliation, accountability and human rights in Sri Lanka.
+
+It is noteworthy that the draft draft was passed in the 57th session of the United Nations Human Rights Council.
+
+◼️
+
+[Data](articles/2c1d3b2d.json)
+
+[Extended Data](ext_articles/2c1d3b2d.ext.json)
+
+---
+
+### Three -wheeler charges
+
+*2024-10-09 19:44:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கரவண்டிக்-கட்டணங்கள்-திருத்தம்/175-345174) · `ta`
+
+Western Province Road Passenger Transport Authority announces revised three-wheeler fares effective Oct 7. First km: Rs. 100, second km: Rs. 85. New rates must be displayed prominently. Association president threatens legal action against non-compliance.
+
+🟩
+
+The Western Province Road Passenger Transport Authority has announced that the three -wheeler fares will be revised with effect from October 7.
+
+The decision has been taken following the decision to implement the tariff amendments after a meeting with the three -wheeler fare review committee on October 3.
+
+According to the new payment amendment, the first kilometer fee of Rs.. 100, and a second kilometer fee of Rs.. Has been reduced to 85.
+
+The new fees should be used for the meter taxi system, and the revised fees should be clearly shown to be visible to the passengers on the front of the three -wheeler.
+
+The President of the All Ceylon Three Wheeler Drivers Association, Lalith Dharmasekara, has urged legal action to take legal action against those who fail to follow the instructions.
+
+◼️
+
+[Data](articles/55c79428.json)
+
+[Extended Data](ext_articles/55c79428.ext.json)
+
+---
+
+### India bats for Women's R20 World Cup with Sri Lanka
+
+*2024-10-09 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/195894) · `ta`
+
+India chose to bat first against Sri Lanka in the ICC Women's T20 World Cup A Group match at Dubai International Cricket Stadium. Both teams have strong lineups, with experienced players like Smriti Mandana for India and Samari Attapattu for Sri Lanka. The match promises to be exciting as both teams aim for victory.
+
+🟩
+
+India decided to bat first at the ICC Women's T20 World Cup A Group, which is currently being held at the Dubai International Cricket Stadium.
+
+Sri Lanka: Samari Attapattu (Head), Vishmi Gunaratne, Harshita Samarawickrama, Kavisha Tilhari, Nilakshika Silva, Anushka Sanjeevani, Sukandika Kumari, Inoshi Priyadhani, Udayshika Prabodhani, Ama Kanchana, Inka Ranavira.
+
+India: Hamanpreet Gore (Head), Smriti Mandana, Shabali Verma, Jemima Rodrigas, Richa Ghosh, Deepti Sharma, Sajana Sajivan, Arundhati Reddy, Sriyanka Battil, Asha Sobhana, Renuka Singh Tagore.
+
+◼️
+
+[Data](articles/25426b20.json)
+
+[Extended Data](ext_articles/25426b20.ext.json)
+
+---
+
+### 'Big Boss' Darshan starrer 'pilgrimage'
+
+*2024-10-09 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195873) · `ta`
+
+"Pilgrimage" stars Darshan, Malavika, Kali Venkat, Rahul, Banu. Directed by Prem Nasir, music by Abhishek, cinematography by Santhanam Shekhar. Produced by Rajammal Media Pictures Productions and Dhanalakshmi Gopalan. First shoot completed, next phase soon.
+
+🟩
+
+The film crew has said that the shooting of the new movie, 'Pilgrimage', has been named 'Pilgrimage', which is the hero of the famous actor Darshan - Big Poss Darshan, who is the hero of the story of 'Google Kuttappa' and 'Nadam'.
+
+Darshan, Malavika, Kali Venkat, 'Frank Star' Rahul, Banu and many others are starring in the upcoming film 'Pilgrimage' directed by debutant director Prem Nasir.
+
+Abhishek is composing the film, which is being recorded by Santhanam Shekhar. The film was made by Rajammal Media Pictures Productions. G. Produced by Dhanalakshmi Gopalan.
+
+Commenting on the film, the director said, “This is a film, which is centered on the travels called Travel We Lock.. Two different people follow different ideologies.
+
+They both join the mysterious event. What is their journey after that?The film's screenplay. '' He said.
+
+The film crew has said that the first shooting of the film has been completed and the next phase of filming will be held soon.
+
+◼️
+
+[Data](articles/3711ad3e.json)
+
+[Extended Data](ext_articles/3711ad3e.ext.json)
+
+---
+
+### Introduction to Sivakarthikeyan's 'Amaran' movie!?
+
+*2024-10-09 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/195876) · `ta`
+
+Sivakarthikeyan's 'Amaran' movie: Diwali release, starring Sai Pallavi, directed by Rajkumar Periyasamy. Based on Major Mukund Varadarajan's biography, patriotic theme. Budget ₹200 crore. Kamal Haasan produces. Two-part video introduction released. Moderate fan interest.
+
+🟩
+
+The film 'Amaran' will be introduced to the fans of the film 'Amaran', which will be released on Diwali on the upcoming Diwali day, starring Siva Karthikeyan, the leading star actor of Tamil cinema.Did this video attract the attention of fans?Or not?We will continue to see.
+
+Video to introduce 'Amaran' has been released as two chapters. The video is about the role of 'Lokayanagan' Kamal Haasan, the hero of the film Sivakarthikeyan, heroine Sai Pallavi and director Rajkumar Periyasamy.
+
+The film crew has said that the autobiography, which is preparing for the heroic death of late Indian soldier Major Mukund Varadarajan, has been made different and business, unlike the usual autobiography films.
+
+In addition, the paradigm of the soldiers for the Republic Day and the Independence Day celebration on television has been seen as a magnificent and a new experience for fans.They said they would attract fans because they were set up.
+
+...
+
+[Data](articles/6b95f598.json)
+
+[Extended Data](ext_articles/6b95f598.ext.json)
+
+---
 
 ### UNHRC adopts draft resolution on Sri Lanka without a vote
 
@@ -38,9 +182,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The draft resolution A/HRC/57/L.1 on promoting reconciliation, accountability and human rights in Sri Lanka has been adopted without a vote during the ongoing 57th Regular Session of the United Nations Human Rights Council (UNHRC) in Geneva.
 
-On Tuesday, Sri Lanka’s Cabinet of Ministers agreed to strongly reject the proposed drafted resolution at the present session of the United Nations Human Rights Council and that Sri Lanka continues to oppose the 51/1 resolution of the drafted resolution of the United Nations Human Rights Council and has not agreed to any resolution that extends the powers of the collection of external evidence mechanism.
+The draft resolution is sponsored by countries including the United Kingdom of Great Britain and Northern Ireland, Canada, Malawi, Montenegro, North Macedonia and the United States of America.
 
-Furthermore, the Cabinet of Ministers agreed that even though, the said proposal has been denied, Sri Lanka has firmly believed to take action in respect of main human right issues including the reconciliation through local procedure.
+Guided by the purposes and principles of the Charter of the UN, the Universal Declaration of Human Rights and relevant international human rights treaties, the Human Rights Council has decided to:
+
+Recalling previous Human Rights Council resolutions on promoting reconciliation, accountability and human rights in Sri Lanka, the most recent of which being resolution 51/1 of 6 October 2022,
 
 ...
 
@@ -109,6 +255,58 @@ During the hearing, President’s Counsel Chandaka Jayasundara, who appeared for
 [Data](articles/7495f766.json)
 
 [Extended Data](ext_articles/7495f766.ext.json)
+
+---
+
+### Vatican Ambassador to the Vatican Ambassador to the President
+
+*2024-10-09 18:23:12* · [`adalk`](https://www.ada.lk/breaking_news/පාප්වහන්සේගේ-සුබ-පැතුම්-වතිකාන-තානාපතිවරයා-ජනපතිට-පිළිගන්වයි/11-412402) · `si`
+
+Vatican Ambassador meets Sri Lanka's President Anura Kumara Dissanayake. Discusses mutual cooperation, development, and justice.
+
+🟩
+
+Vatican Apostolic Ambassador in Sri Lanka Most High Isar Brian Upurgewaya (Rev. Dr.bribrian Udaigwe The monk called for President Anura Kumara Dissanayake at the President's Office (09).
+
+The Vatican Ambassador who accepted its warm greetings to mark the new president of Sri Lanka to mark the new president of Sri Lanka.
+
+The Vatican Ambassador, said that under the leadership of the new President Anura Kumara Dissanayake, Udirigawe is said that he had the best of his heart.
+
+The Most High Udeigwaya Thero, who has commented on the future of Sri Lanka, is already undergoing development in the country.. The Ambassador who evaluated the President's vision and commitment to the President also provides assistance to all these efforts.
+
+The Most High Courts, who had expressed the sadness of the Passover and Sunday, was also commended by President Anura Kumara Dissanayake to investigate the gathering of the Passover experienced.
+
+...
+
+[Data](articles/1d83a71d.json)
+
+[Extended Data](ext_articles/1d83a71d.ext.json)
+
+---
+
+### The letters are not available in hand;Disciplinary action to Sasikala- Satyalingam
+
+*2024-10-09 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/195885) · `ta`
+
+TNA leader resignations pending, party denies receiving letters. Disciplinary action threatened against Sasikala for leaving via media. Candidate lists finalized, no changes possible. TNA to skip Colombo elections.
+
+🟩
+
+The party's reply secretary P. Satyalingam on Wednesday said that I have not received any letters of the resignation letters of the TNA leader Mawai Senathirajah and others.
+
+The appointment committee to deal with the TNA candidate met on Wednesday (09) in Vavuniya. He then commented on this.
+
+The list of candidates for Vanni. The final details will be announced tomorrow morning. I have not yet received any letter of resignation of the leader of the Tamil National Party Mawai Senathirajah.
+
+Similarly, Sasikala and Tavarasa have left the party through the media.. Their letter is not yet available. It is said that newspapers have been sent. So I cannot comment on this.
+
+As well as there are no chances of changing the candidate lists already announced. The party's central committee appointed the Election Appointment Committee. The committee has made appointments on the basis of the decision on what kind of candidates should be known.
+
+...
+
+[Data](articles/ba421a05.json)
+
+[Extended Data](ext_articles/ba421a05.ext.json)
 
 ---
 
@@ -2229,181 +2427,5 @@ The corrosive link between politicians/professionals/private sector is best exem
 [Data](articles/9551add5.json)
 
 [Extended Data](ext_articles/9551add5.ext.json)
-
----
-
-### Massive change in the price of an egg suddenly
-
-*2024-10-09 09:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-முட்டை-விலையில்-பாரிய-மாற்றம்/175-345129) · `ta`
-
-Egg prices surge from 30 to 40 rupees. Factors: wholesalers buying excess supply, current surplus production affecting market. Price fluctuation impacts consumers.
-
-🟩
-
-It is reported that the price of an egg sold at 30 rupees recently has risen to over 40 rupees again.
-
-Ajith Gunasekera, president of the Sri Lanka Livestock Producers Association, said that many factors have influenced the increase in egg prices.
-
-Wholesalers took the eggs and sold the eggs. This resulted in a massive relief to the consumers. Currently, surplus production products have left the market. The daily eggs that are currently produced are the market. But it is noteworthy that a major fluctuation at the price. Remble
-
-◼️
-
-[Data](articles/3c0bdf7e.json)
-
-[Extended Data](ext_articles/3c0bdf7e.ext.json)
-
----
-
-### Request of radiation science technologists by Prime Minister
-
-*2024-10-09 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201980) · `si`
-
-Prime Minister requests committee to investigate Ministry of Health corruption. Trade union offers assistance. Committee must be independent to address recent drug purchase frauds.
-
-🟩
-
-The Prime Minister of Radio Technology Association says that the Prime Minister has requested a committee to appoint a committee to find a committee to find corruption in the Ministry of Health in the recent past.
-
-The Chairman Chanaka Dharmawickrema said his union would provide information on corruption to the committee.
-
-"At present the Prime Minister is the Health Minister. Especially we say that a large number of frauds took place in the recent past purchase of drugs. We have been revealed to them in length as a trade union. We are especially expected that this new President and Health Minister has appointed a committee to find the recent frauds. It should not be the old kind of committee. It should be an independent committee. The trade union leaders in this health service should be created to ensure that these health workers do not claim information about corruption they know. "
-
-◼️
-
-[Data](articles/58524f35.json)
-
-[Extended Data](ext_articles/58524f35.ext.json)
-
----
-
-### 33 parties filing nominations so far
-
-*2024-10-09 09:42:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-33-கட்சிகள்-வேட்புமனு-தாக்கல்/175-345128) · `ta`
-
-33 parties nominated for general election: 17 political parties, 16 independent groups. No submissions from Matale, Galle, Matara, Kurunegala, Badulla. Nominations open Oct 4-11. Postal voting deadline extended to Oct 10.
-
-🟩
-
-A total of 33 parties have filed nominations for this year's general election, independent groups and political parties.
-
-The Elections Commission said that yesterday (08), 17 political parties and 16 independent groups have filed nominations.
-
-No political party or independent committee has submitted nominations to the electorate of the districts of Matale, Galle, Matara, Kurunegala and Badulla till the end, the Commission said.
-
-The filing of nominations for the general election will commence on October 4 and will be held on the 11th and will be held till 12 noon.
-
-Meanwhile, the period of acceptance of postal voting applications related to the General Election has been extended till the 10th of this month.. Remble
-
-◼️
-
-[Data](articles/fc26d7d1.json)
-
-[Extended Data](ext_articles/fc26d7d1.ext.json)
-
----
-
-### Public pardon for Sri Lankan workers working in Lebanon without registration
-
-*2024-10-09 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195812) · `ta`
-
-Sri Lanka offers public pardon to unregistered workers in Lebanon. Amnesty granted until Jan 8, 2025. Workers can register at Sri Lankan embassy in Lebanon.
-
-🟩
-
-The Foreign Employment Bureau has decided to give public apology for Sri Lankan workers working in Lebanon.
-
-Accordingly, the Sri Lankans who went to Lebanon for work without registering the SLBFE at the Sri Lanka Foreign Employment Bureau (SLBFE) have been granted amnesty until 8th January 2025.
-
-It has been announced that unregistered migrant workers can register themselves at the Sri Lankan embassy in Lebanon.
-
-◼️
-
-[Data](articles/510a0884.json)
-
-[Extended Data](ext_articles/510a0884.ext.json)
-
----
-
-### Two foreign nationals rescued
-
-*2024-10-09 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201979) · `si`
-
-Two foreign nationals (American, Swiss) rescued off Hikkaduwa coast. Local police and life-saving team responded quickly.
-
-🟩
-
-Foreign nationals have rescued a diagnostic in the Hikkaduwa coast.
-
-Police said that the officials of the Hikkaduwa Police Life Saving Vehicle Saving the Police have taken immediate action and devoured the victims of the injuries.
-
-The victim is a 20-year-old American and Switzerland.
-
-Police Inspector Hewage, Sub-Inspector Sirimal Police Constable at 94884 Charming to Hikkaduwa, 94884 Hamakumara Police Constable 27794 Hemakumara Police 172748 Dissanayake 10294 Dissanayake 102748 Dissanayake.
-
-◼️
-
-[Data](articles/e5b00f24.json)
-
-[Extended Data](ext_articles/e5b00f24.ext.json)
-
----
-
-### US committed to Sri Lanka’s economic development, Biden writes to AKD
-
-*2024-10-09 09:08:00* · [`economynextcom`](https://economynext.com/us-committed-to-sri-lankas-economic-development-biden-writes-to-akd-182898/) · `en`
-
-ECONOMYNEXT — US President Joe Biden has written to Sri Lanka President Anura Kumar Dissanayake calling for enhanced cooperation between the two countries in promoting economic growth, regional security and democratic governance.
-
-The President’s Media Division (PMD) in Colombo said on Tuesday October 08 that Biden had written to Dissanayake to congratulate him on his recent election victory. The PMD called Biden’s letter a “significant gesture of diplomatic goodwill”.
-
-In a separate statement, the PMD said the US has also committed to providing essential support to strengthen Sri Lanka’s economy. According to the PMD, US Ambassador Julie Chung has said in a meeting on Tuesday that support would be focused on fostering an export-driven economy in the island nation.
-
-...
-
-[Data](articles/b975c48c.json)
-
-[Extended Data](ext_articles/b975c48c.ext.json)
-
----
-
-### A private elephant who damaged residential areas in Samanthurai
-
-*2024-10-09 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195811) · `ta`
-
-Private elephant damages property in Samanthurai. Public seeks action from authorities after two-day rampage near courthouse.
-
-🟩
-
-The Ampara District Samanthurai Tamil section 4 - A private elephant has caused damage to the land in front of the Quasy Court on Wednesday morning.
-
-The public alleges that a separate elephant has been in the courtroom for the past two days and has been causing damage to the Quasi courts.
-
-Therefore, the public has requested the concerned authorities to take action on this issue.
-
-◼️
-
-[Data](articles/ea4fbc70.json)
-
-[Extended Data](ext_articles/ea4fbc70.ext.json)
-
----
-
-### Israel says it has killed slain Hezbollah leader’s successors
-
-*2024-10-09 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/102545/israel-says-it-has-killed-slain-hezbollah-leaders-successors) · `en`
-
-(Reuters) - Prime Minister Benjamin Netanyahu said on Tuesday Israeli airstrikes had killed two successors to Hezbollah’s slain leader, as Israel expanded its ground offensive against the Iran-backed group with a fourth army division deployed into south Lebanon.
-
-Netanyahu spoke in a video released by his office hours after the deputy leader of Hezbollah, which is reeling after a spate of killings of senior commanders in Israeli airstrikes, left the door open to a negotiated ceasefire.
-
-“We’ve degraded Hezbollah’s capabilities. We took out thousands of terrorists, including (Hassan) Nasrallah himself and Nasrallah’s replacement, and the replacement of the replacement,” Netanyahu said, without naming the latter two.
-
-Israeli Defence Minister Yoav Gallant said Hashem Safieddine, the man expected to succeed Nasrallah, had probably been “eliminated”. It was not immediately clear whom Netanyahu meant by the “replacement of the replacement”.
-
-...
-
-[Data](articles/ad0d5f86.json)
-
-[Extended Data](ext_articles/ad0d5f86.ext.json)
 
 ---

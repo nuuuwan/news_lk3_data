@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 00:56:05**
+As of **2024-10-10 01:09:18**
 
 ## Newspaper Stats
 
-*Scraped **48,657** Articles*
+*Scraped **48,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 481
 bbccomsinhala | 483
 islandlk | 2,871
 economynextcom | 2,985
-dailyftlk | 3,284
+dailyftlk | 3,285
 adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,742
@@ -26,9 +26,29 @@ adaderanasinhalalk | 8,416
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,657 (100.0%) of 48,657 articles have been extended.
+48,658 (100.0%) of 48,658 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-10-10 (Thursday)
+
+### From Lebanon to Lanka: Evils of unipolarity, imperatives of resistance
+
+*2024-10-10 00:30:10* · [`dailyftlk`](https://www.ft.lk/columns/From-Lebanon-to-Lanka-Evils-of-unipolarity-imperatives-of-resistance/4-767755) · `en`
+
+Somewhere in 2011, jazz genius Herbie Hancock made a generous reference to my familiarity with jazz and blues in the LA Times, due to my inputs into International Jazz Day which he initiated at the UNESCO, Paris. This American initiative was unanimously supported by the enthusiastic membership, with every ambassador testifying about his/her indelible first encounter with jazz, a cumulative testament to its unique universality.
+
+Mere months later, the US was isolated at UNESCO when Palestine was admitted as a member by over the mandatory two-thirds vote, despite a stern warning delivered in person by US Secretary of State Hillary Clinton who flew in for the purpose. I figured in this battle for Palestine too with photos appearing in Liberation (founded by Sartre) and the international press.
+
+Several months afterwards, all of us reconverged warmly at the first ever International Jazz Day Concert by Herbie Hancock and Friends at the UNESCO auditorium in Paris.
+
+...
+
+[Data](articles/74eced04.json)
+
+[Extended Data](ext_articles/74eced04.ext.json)
+
+---
 
 ### 2024-10-09 (Wednesday)
 
@@ -2355,29 +2375,5 @@ The Sri Lankan authorities’ confirmation that they endorse the targets set und
 [Data](articles/63520b40.json)
 
 [Extended Data](ext_articles/63520b40.ext.json)
-
----
-
-### Ranjan and Dilshan builds a new party
-
-*2024-10-09 12:31:42* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්-හා-ඩිල්ෂාන්-එක්ව-නව-පක්ෂයක්-හදයි/11-412392) · `si`
-
-New political party formed: United Democratic Voice. Led by actor Ranjan Ramanayake and organized by cricket legend Dilshan.
-
-🟩
-
-A new political party has commenced a new political party with a popular actor and former deputy minister Ranjan Ramanayake.
-
-Ranjan Ramanayake and former Sri Lanka Cricket Leader Ties. Dilshan is coping this party. The party established under the microphone sign is the United Democratic Acceptance.
-
-Actor-turned-politician ranjan ranjan ranjan ranjan ranjan ranjan ranjan ranjan ranjan ranjan ranjeke and former Sri lanayake crickter t. Dilshan Announced Party, The United Demonocratic Voice (UDV), a shorot while ago.
-
-Ramanayake is The Leader of the Party WHILE Dilshan IS The National Organizer.
-
-◼️
-
-[Data](articles/c4383626.json)
-
-[Extended Data](ext_articles/c4383626.ext.json)
 
 ---

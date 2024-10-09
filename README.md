@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-10 00:13:15**
+As of **2024-10-10 00:24:25**
 
 ## Newspaper Stats
 
-*Scraped **48,656** Articles*
+*Scraped **48,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 481
 bbccomsinhala | 483
 islandlk | 2,871
 economynextcom | 2,985
-dailyftlk | 3,283
+dailyftlk | 3,284
 adalk | 4,516
 dailymirrorlk | 4,733
 adaderanalk | 5,742
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,416
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,656 (100.0%) of 48,656 articles have been extended.
+48,656 (100.0%) of 48,657 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -103,6 +103,22 @@ He held several senior management positions in large private entities in Sri Lan
 [Data](articles/072897d7.json)
 
 [Extended Data](ext_articles/072897d7.ext.json)
+
+---
+
+### India and China key for Sri Lanka’s full recovery
+
+*2024-10-09 23:15:48* · [`dailyftlk`](https://www.ft.lk/columns/India-and-China-key-for-Sri-Lanka-s-full-recovery/4-767754) · `en`
+
+Ambassador of the People’s Republic of China Qi Zhenhong, a great supporter of Sri Lanka’s progress, met with President Anura Kumara Dissanayake
+
+Indian External Affairs Minister Dr. S. Jaishankar met Sri Lankan President Anura Kumara Dissanayake in Colombo on Friday. Dr. Jaishankar recently urged for all Indians to visit Sri Lanka for holiday
+
+With a new president in office, Sri Lanka is grappling with the aftermath of one of the worst economic crises in its history, which came to a head in 2022. While the former president bore the brunt of public dissatisfaction for enforcing painful austerity measures, many Sri Lankans have since underestimated and largely forgotten the precariousness of the country’s situation at that time.
+
+...
+
+[Data](articles/15cc1d08.json)
 
 ---
 
@@ -2361,35 +2377,5 @@ Ramanayake is The Leader of the Party WHILE Dilshan IS The National Organizer.
 [Data](articles/c4383626.json)
 
 [Extended Data](ext_articles/c4383626.ext.json)
-
----
-
-### The party's decisions are severely dissatisfied;Maui report to Sridharan who met in person: participate in the election process
-
-*2024-10-09 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/195824) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Party leader quits over dissatisfaction with decisions. Demands restoration of resignation letter. Will participate in elections as party member. Continues commitment to Tamil liberation.
-
-🟩
-
-Sivagnanam Sridharan, who met them in person, said that he had severe dissatisfaction with the party's decisions in the parliamentary election.
-
-Sivagnanam has sent a written announcement that he will quit the party's leadership. B. He has also sent to Satyalingam.
-
-In this case, Sivagnanam Sirirathan visited the residence of Mavai Senathiraja's Mavitha Prakam on Monday.
-
-The first spoken about the issue of the Rajinaam. In the meantime, Sridharan has called for the restoration of the Rajinaam letter and continued to act in the headline.
-
-However, Maui Senathirajah is not acceptable that some of the party's decisions are based on personal interests, but that some of the party's decisions are based on personal interests.. Continuing conditions are causing great dissatisfaction and embarrassment. That is why I took the decision to quit the party leadership.
-
-...
-
-[Data](articles/682f4798.json)
-
-[Extended Data](ext_articles/682f4798.ext.json)
 
 ---

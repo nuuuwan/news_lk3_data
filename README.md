@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 16:39:07**
+As of **2024-10-09 16:56:29**
 
 ## Newspaper Stats
 
-*Scraped **48,592** Articles*
+*Scraped **48,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 482
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,505
+adalk | 4,506
 dailymirrorlk | 4,733
 adaderanalk | 5,735
-tamilmirrorlk | 6,592
+tamilmirrorlk | 6,593
 virakesarilk | 7,768
 adaderanasinhalalk | 8,404
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 8,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,592 (100.0%) of 48,592 articles have been extended.
+48,594 (100.0%) of 48,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Holy Pope greeting the President
+
+*2024-10-09 16:30:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரிசுத்த-பாப்பரசரும்-ஜனாதிபதிக்கு-வாழ்த்து/175-345166) · `ta`
+
+Pope greets Sri Lanka's new President Anura Kumara Dissanayake. Vatican rep Brian Udaigwe meets him, praising his vision and commitment to justice. Both agree to strengthen ties between Sri Lanka and the Vatican for mutual benefit.
+
+🟩
+
+The Vatican Apostolic Representative for Sri Lanka. Dr.brian Udaigwe met President Anura Kumara Dissanayake at the Presidential Office on Wednesday (09).
+
+The Vatican Representative, who congratulated Anuragumara Dissanayake, who was sworn in as the new president of Sri Lanka, handed over the President's President of the Catholic Church and the Holy Pope of the Sovereign Vatican Government, the first Francis.
+
+Vatican's representative Udaikve Andagai said that he would congratulate Sri Lanka under the leadership of the new President Anura Kumara Dissanayake.
+
+He expressed his favorable opinion on the future of Sri Lanka and that the people are already in the country to expect better development in the country.. He praised the president's vision and dedication to the President and said the Vatican would support all those efforts.
+
+...
+
+[Data](articles/7058ed73.json)
+
+[Extended Data](ext_articles/7058ed73.ext.json)
+
+---
 
 ### Human burial telephone number scan
 
@@ -641,6 +665,34 @@ In the meantime, on Wednesday (09), a bail application was granted by the forum,
 [Data](articles/adb3d417.json)
 
 [Extended Data](ext_articles/adb3d417.ext.json)
+
+---
+
+### Karry Samba to buy 15000 kilo of Nadda
+
+*2024-10-09 13:54:47* · [`adalk`](https://www.ada.lk/breaking_news/නාඩු-කිලෝ-5000ක්-ගන්න-කීරි-සම්බා-කිලෝ-15000ක්-මිලදී-ගන්න-කියයි/11-412395) · `si`
+
+Karry Samba buys 15,000 kg of Nadda rice from Hatton rice mills. Rice shortage risk exists due to limited stock. Prices: 1kg Nadda rice = Rs. [price not specified]. Egg prices: White egg = Rs. 41, Red egg = [price not specified]. Vegetable prices fluctuate based on region (upcountry/lowland).
+
+🟩
+
+Relled in Hatton states that the risk of a shortage of rice in the premises of the rice mill owners is a risk of a shortage of rice in the premises.
+
+Key Sambaba should take up five thousand kilos to rice prices to buy five thousand prices and to get five thousand kilos of Nadu rice in a major rice mill owner.The rice suitable is that the stocks are puzzing.
+
+The rice mill owners have followed such a system to end the owners of the rice mill owners and that a kilo of nadi rice will be released to Rs.
+
+Accordingly, a kilo of Nadu rice should be sold at a maximum retail price of Rs.
+
+And the eggs and coconut in Hatton say that a white egg is sold for Rs 41, a red egg.
+
+Vegetables were the increase in rice, eggs and coconut prices, but the prices of the upcountry and lowland were down.
+
+◼️
+
+[Data](articles/059c51ac.json)
+
+[Extended Data](ext_articles/059c51ac.ext.json)
 
 ---
 
@@ -2345,43 +2397,5 @@ Accordingly, the fertilizer subsidy given to a hectares of Rs.. (A)
 [Data](articles/7416b0ea.json)
 
 [Extended Data](ext_articles/7416b0ea.ext.json)
-
----
-
-### Call for nine provincial units of development
-
-*2024-10-09 02:22:12* · [`dailyftlk`](https://www.ft.lk/columns/Call-for-nine-provincial-units-of-development/4-767719) · `en`
-
-The economic challenges, the debt restructuring, etc. are a perfect storm. If the promise of the constitution is to protect and promote the development of the lives of citizens, I suggest the centre and nine provinces must synergies and seamlessly harmonise government
-
-This piece was prompted by the scaling back of ministries at the centre post the recent elections. The focus has been on cutting back on waste at the centre. Governance is carried out by layered structures; i.e. national, provincial and local. There are nine second-tier provinces and 341 third-level local government: 24 municipal councils, 41 urban councils and 276 Pradeshiya sabhas (village councils). All staffed by Government employees.
-
-...
-
-[Data](articles/9882094d.json)
-
-[Extended Data](ext_articles/9882094d.ext.json)
-
----
-
-### Limited mountain rail service
-
-*2024-10-09 02:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டுப்படுத்தப்படும்-மலையக-ரயில்-சேவை/175-345124) · `ta`
-
-Railway service limited: Colombo to Ella only. Restricted until 15th due to shooting project.
-
-🟩
-
-The Railway Department said that the railway traffic on the hill country will be restricted from today to the 15th.
-
-Accordingly, rail transport will be carried out from Colombo Fort to Ella Railway Station during the period.
-
-The Railway Department said the decision was taken due to the shooting project.(a)
-
-◼️
-
-[Data](articles/d0dbe3a9.json)
-
-[Extended Data](ext_articles/d0dbe3a9.ext.json)
 
 ---

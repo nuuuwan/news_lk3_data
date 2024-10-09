@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 19:23:21**
+As of **2024-10-09 19:39:10**
 
 ## Newspaper Stats
 
-*Scraped **48,616** Articles*
+*Scraped **48,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 2,977
 dailyftlk | 3,283
 adalk | 4,511
 dailymirrorlk | 4,733
-adaderanalk | 5,738
+adaderanalk | 5,739
 tamilmirrorlk | 6,596
 virakesarilk | 7,775
-adaderanasinhalalk | 8,407
+adaderanasinhalalk | 8,408
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,616 (100.0%) of 48,616 articles have been extended.
+48,616 (100.0%) of 48,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### UNHRC adopts draft resolution on Sri Lanka without a vote
+
+*2024-10-09 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/102570/unhrc-adopts-draft-resolution-on-sri-lanka-without-a-vote) · `en`
+
+The draft resolution A/HRC/57/L.1 on promoting reconciliation, accountability and human rights in Sri Lanka has been adopted without a vote during the ongoing 57th Regular Session of the United Nations Human Rights Council (UNHRC) in Geneva.
+
+On Tuesday, Sri Lanka’s Cabinet of Ministers agreed to strongly reject the proposed drafted resolution at the present session of the United Nations Human Rights Council and that Sri Lanka continues to oppose the 51/1 resolution of the drafted resolution of the United Nations Human Rights Council and has not agreed to any resolution that extends the powers of the collection of external evidence mechanism.
+
+Furthermore, the Cabinet of Ministers agreed that even though, the said proposal has been denied, Sri Lanka has firmly believed to take action in respect of main human right issues including the reconciliation through local procedure.
+
+...
+
+[Data](articles/f830bc83.json)
+
+---
+
+### අද සිට ත්‍රිරෝද රථ ගාස්තු අඩුකරයි
+
+*2024-10-09 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201999) · `si`
+
+ත්‍රිරෝද රථ සඳහා අය කරන ගාස්තුව අද (09) සිට රුපියල් 5කින් අඩු කිරීමට තීරණය කර තිබේ.
+
+බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ ත්‍රිරෝද රථ කාර්යාංශයේ ප්‍රධානී ජීවින්ද කීර්තිරත්න මහතා ඒ බව පැවසීය.
+
+"ඒ අනුව අද සිට දෙවන කිලෝමීටරය සඳහා රුපියල් 5 කින් ගාස්තු අඩුකරන්න තීරණය කළා. ඒ අනුව පළමු කිලෝමීටරය රුපියල් 100ක් සහ දෙවෙනි කිලෝමීටරය රුපියල් 85 බවට පත්වෙනවා. ඒ අනුව බස්නාහිර පළාත තුළ එලෙස ගාස්තු නියාමනය කෙරෙනවා. සියලුම ජනතාවගෙන් ඉල්ලා සිටිනවා නියමිත මුදලට වඩා ගෙවා සේවාවන් ලබාගන්න එපා කියලා."
+
+◼️
+
+[Data](articles/8286a456.json)
+
+---
 
 ### 20 Chinese nationals arrested in Panadura remanded
 
@@ -2365,55 +2397,5 @@ Israeli Defence Minister Yoav Gallant said Hashem Safieddine, the man expected t
 [Data](articles/ad0d5f86.json)
 
 [Extended Data](ext_articles/ad0d5f86.ext.json)
-
----
-
-### Some areas are frequently raining
-
-*2024-10-09 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195810) · `ta`
-
-Frequent rain/thunderstorms expected in Sabaragamuwa, Western, North Western Provinces and Galle/Matara districts. Heavy rains predicted in Central, Eastern, Uva Provinces. Strong winds and lightning warnings issued. Sea regions may be turbulent due to high winds.
-
-🟩
-
-Senior Weather Officer Dr. Mohamed Saliheen said frequent rainfall or thunderstorms are expected in Sabaragamuwa, Western and North Western Provinces as well as in Galle and Matara districts.
-
-Showers or thunderstorms can occur in many parts of the other parts of the country during the afternoon or night.
-
-Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper, North Western, Eastern and Uva provinces as well as 75 mm in the Galle, Matara and Puttalam districts.
-
-The public is asked to act with vigilance in the events of strong winds and lightning.
-
-Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
-
-In the sea regions, the wind blows from the southwest or the contrasting directions at 25 - 35 km / h.
-
-Frequent winds are likely to blow at 45 - 50 km / h in the sea regions from Mannar, Colombo and Galle via Mannar, Colombo and Hambantota.. In such cases, these sea regions are somewhat turbulent.
-
-...
-
-[Data](articles/1784e936.json)
-
-[Extended Data](ext_articles/1784e936.ext.json)
-
----
-
-### Jaishankar’s visit was crucial in ending debt restructuring – Minister
-
-*2024-10-09 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/102544/jaishankars-visit-was-crucial-in-ending-debt-restructuring-minister) · `en`
-
-Sri Lanka on Tuesday said the recent visit by Indian External Affairs Minister S Jaishankar was important in ending its debt restructuring with international sovereign bond holders.
-
-Jaishankar, who made a day-long trip to Sri Lanka on October 4, became the first foreign dignitary to visit the island nation after Anura Kumara Dissanayake assumed office as the new president on September 23.
-
-Cabinet spokesman and foreign affairs minister Vijitha Herath told reporters here that India’s signing up for the agreement as a bilateral creditor endorsing that the agreement was compatible with the comparative treatment principle in debt restructuring.
-
-Ahead of the presidential polls last month, cash-strapped Sri Lanka had on September 19 announced that it had reached an in principle agreement with the external commercial creditors for the restructuring of approximately USD 17.5 billion of external commercial debts.
-
-...
-
-[Data](articles/65814252.json)
-
-[Extended Data](ext_articles/65814252.ext.json)
 
 ---

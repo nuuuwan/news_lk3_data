@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 12:39:01**
+As of **2024-10-09 12:57:33**
 
 ## Newspaper Stats
 
-*Scraped **48,546** Articles*
+*Scraped **48,548** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 2,974
 dailyftlk | 3,283
 adalk | 4,499
 dailymirrorlk | 4,733
-adaderanalk | 5,723
+adaderanalk | 5,725
 tamilmirrorlk | 6,581
 virakesarilk | 7,764
 adaderanasinhalalk | 8,396
@@ -26,11 +26,49 @@ adaderanasinhalalk | 8,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,546 (100.0%) of 48,546 articles have been extended.
+48,548 (100.0%) of 48,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Political risks to Sri Lanka’s debt restructuring agreement recede – Fitch
+
+*2024-10-09 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102554/political-risks-to-sri-lankas-debt-restructuring-agreement-recede-fitch) · `en`
+
+The Sri Lankan authorities’ confirmation that they endorse the targets set under the country’s IMF programme, and intend to implement debt restructuring based on the terms agreed with international sovereign bondholders in September, reduces risks to the debt treatment process associated with the outcome of the presidential election on 21 September, says Fitch Ratings.
+
+...
+
+[Data](articles/63520b40.json)
+
+[Extended Data](ext_articles/63520b40.ext.json)
+
+---
+
+### Sri Lanka’s Prasantha Vinod wins prize at Wildlife Photographer of the Year
+
+*2024-10-09 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/102553/sri-lankas-prasantha-vinod-wins-prize-at-wildlife-photographer-of-the-year) · `en`
+
+A Sri Lankan photographer has managed to win the prize in the “Behaviour: Mammals” category at the Wildlife Photographer of the Year Awards 2024 held in London’s Natural History Museum.
+
+After photographing birds and leopards, Hikkaduwa Liyanage Prasantha Vinod captured a young toque macaque peacefully sleeping in an adult’s arms to highlight the challenges these monkeys face amid habitat loss and farmer conflicts.
+
+His photograph - “A Tranquil Moment”, has secured him the prize in the “Behaviour: Mammals” category at the prestigious event.
+
+Meanwhile, a snapshot of wriggling toad tadpoles has earned Shane Gross the title of Wildlife Photographer of the Year.
+
+Shane Gross wins the grand prize - and the ‘Wetlands: The Bigger Picture’ category
+
+The competition marks the sixtieth anniversary of Wildlife Photographer of the Year. For decades this competition has revealed the beauty, wonder and vulnerability of the natural world.
+
+...
+
+[Data](articles/9088d8a4.json)
+
+[Extended Data](ext_articles/9088d8a4.ext.json)
+
+---
 
 ### The new party headed by Ranjan Ramanayake
 
@@ -2301,49 +2339,5 @@ Also, the overall stock price index has increased by 6.46 points, 0.05 percent a
 [Data](articles/32c2f2bc.json)
 
 [Extended Data](ext_articles/32c2f2bc.ext.json)
-
----
-
-### Department of Meteorology Warning in Lightning
-
-*2024-10-08 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195804) · `ta`
-
-Heavy lightning warning: Thunderstorms expected in western, southern, central, Sabaragamuwa, northwestern, northern, and Uva districts. Strong winds possible. Take precautions against lightning-related accidents.
-
-🟩
-
-Accordingly, there is a high likelihood of heavy lightning with thunderstorms in the evening or night in the provinces of the West, South, Central, Sabaragamuwa, North Western, North and Uva district.
-
-During thunderstorms, strong winds can be temporarily blowing in those areas.
-
-It is noteworthy that the Department of Meteorology has requested the people to take necessary steps to reduce accidents caused by lightning.
-
-◼️
-
-[Data](articles/fdd0fad4.json)
-
-[Extended Data](ext_articles/fdd0fad4.ext.json)
-
----
-
-### Despite the dissolution of the Provincial Council, former chairperson of the South paid the office allowance of Rs 18 lakhs
-
-*2024-10-08 19:31:03* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-සභාව-විසුරුවා-තිබියදී-දකුණේ-හිටපු-සභාපතිට-ලක්ෂ-18ක-කාර්යාල-දීමනා-ගෙවලා/11-412385) · `si`
-
-Former chairperson of South Provincial Council paid Rs 18 lakhs office allowance despite dissolution. Audit recommends recovering non-compliant payments. Chief Accounting Officer claims allowance approved by Chief Secretary but stopped in 2022 due to circular.
-
-🟩
-
-The Chairman of the Southern Provincial Council cannot be paid after the dissolution of the Provincial Council (January to October 2022) as an offices of Rs.A report states.
-
-The Audit report states that the rent of the Southern Provincial Council of Southern Provincial Councils for October 2020, Rs. 1,350,000 (1,350,000) has been paid to the Chairman of the Southern Provincial Council.
-
-Audit recommended by the audit that action should be taken to recover the non-compliance. The main account officer of the Southern Provincial Council has stated to the audit to the payment of this allowance from October 2022, from October 2022. After the dissolution of the PC, the Chief Accounting Officer of the Provincial Council has stated that there is no mention of the office allowance in terms of the office allowance.
-
-...
-
-[Data](articles/3a953ca6.json)
-
-[Extended Data](ext_articles/3a953ca6.ext.json)
 
 ---

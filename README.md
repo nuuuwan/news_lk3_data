@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 18:19:59**
+As of **2024-10-09 18:34:23**
 
 ## Newspaper Stats
 
-*Scraped **48,607** Articles*
+*Scraped **48,613** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 399
 colombotelegraphcom | 481
-bbccomsinhala | 482
+bbccomsinhala | 483
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,508
+adalk | 4,510
 dailymirrorlk | 4,733
-adaderanalk | 5,735
-tamilmirrorlk | 6,594
+adaderanalk | 5,736
+tamilmirrorlk | 6,596
 virakesarilk | 7,775
 adaderanasinhalalk | 8,407
 
@@ -26,11 +26,107 @@ adaderanasinhalalk | 8,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,604 (100.0%) of 48,607 articles have been extended.
+48,611 (100.0%) of 48,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Foreign monitors invading Sri Lanka
+
+*2024-10-09 18:15:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-படையெடுக்கும்-வெளிநாட்டு-கண்காணிப்பாளர்கள்/175-345173) · `ta`
+
+International monitors invade Sri Lanka for elections. Eight groups from Russia, Commonwealth, EU, and others confirmed to observe general election process.
+
+🟩
+
+The Election Commission has confirmed that eight international monitors will come to Sri Lanka to monitor the upcoming general election.
+
+These international monitoring groups include representatives of Russia, the Commonwealth, the European Union and other countries.. Remble
+
+◼️
+
+[Data](articles/c7004755.json)
+
+[Extended Data](ext_articles/c7004755.ext.json)
+
+---
+
+### More employment opportunities for Sri Lankans in South Korea
+
+*2024-10-09 18:06:05* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියාවේ-සිටින-ලාංකිකයන්-සඳහා-වැඩි-රැකියා-අවස්ථා/11-412400) · `si`
+
+South Korean Ambassador Miyon Lee meets Sri Lankan President Anura Kumara Dissanayake. Discusses increasing employment opportunities for Sri Lankans in South Korea, promoting tourism, supporting healthcare, combating corruption, addressing climate change, and expanding Korean presence in Sri Lanka.
+
+🟩
+
+Sri Lanka's South Korean Ambassador to Sri Lanka's South Korea Ambassador to Sri Lanka's South Korea Ambassador Ms. Miyon LEE, Sri Lankan South Korean Ambassador Miyon Lee met President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
+
+The Ambassador Mary was greeted by the Ambassador Mary Dissanayake and presented the greetings of the South Korean government.
+
+Ambassador Men Lind was also remembered by Ambassador to South Korea to strengthen bilateral relations between Sri Lanka and South Korea.. The Ambassador that South Korea was in the sixth place to provide foreign remittances to Sri Lanka, he promised to create more employment opportunities for Sri Lankans in South Korea and increase the remittances.
+
+In addition, it is said that Sri Lanka will promote Sri Lanka as an attractive country to travel among Korean tourists.
+
+The ambassador who was certified for Sri Lanka's economically supported and that South Korea was also facing such economic challenges.
+
+...
+
+[Data](articles/4909b3a1.json)
+
+[Extended Data](ext_articles/4909b3a1.ext.json)
+
+---
+
+### Kamal Addararachchi announces candidacy in General Election
+
+*2024-10-09 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/102567/kamal-addararachchi-announces-candidacy-in-general-election) · `en`
+
+Veteran Sri Lankan actor Kamal Addararachchi has announced his decision to contest in the upcoming General Election.
+
+He is expected to contest the election representing the ‘Devana Parapura’ party (Second Generation) led by Uvindu Wijeweera, the son of former leader of Janatha Vimukthi Peramuna (JVP) Rohana Wijeweera.
+
+Addressing a press briefing held today (09), Addararachchi said: “It is the responsibility of the people to form a good Parliament. Let’s break the culture of bringing unsuccessful people to the Parliament again and again. Let’s select a new team that can work cooperatively and intelligently.”
+
+“That strength can be given through the ‘Devana Parapura’. I also joined ‘Devana Parapura’ today to strengthen them.”
+
+Commenting at the press briefing, leader of the party Uvindu Wijeweera said: “The country cannot be developed if you send the same old thieves to the opposition. Let’s fill the entire Parliament with people who love this country.”
+
+◼️
+
+[Data](articles/10a77e16.json)
+
+[Extended Data](ext_articles/10a77e16.ext.json)
+
+---
+
+### Charles left out again
+
+*2024-10-09 17:50:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-வெளியேறினார்-சாள்ஸ்/175-345172) · `ta`
+
+Charles Nirmalanathan leaves parliamentary race; Selvaraj Dinesen confirmed for Mannar constituency; TNA to finalize decision on Thursday.
+
+🟩
+
+Former parliamentarian Charles Nirmalanathan has left the list of parliamentary candidates.
+
+Attorney Selvaraj Dinesen has been confirmed only in the Mannar constituency as a candidate for the Vanni district field.
+
+Former MP Charles Nirmalanathan had initially announced that he would withdraw from the election. However, it was announced that he would contest the general election due to the insistence of supporters. However, he announced on Tuesday (08) that he would leave.
+
+In this case, the Mannar TNA branch has continued to negotiate various initiatives and two candidates from Mannar.
+
+However, although many have been nominated as a candidate by the Tamil Cattle, it is revealed that they have not yet expressed their wishes.
+
+It is reported that the TNA's decision will be finalized on Thursday (10) in the Vanni electorate.
+
+◼️
+
+[Data](articles/5de95b3d.json)
+
+[Extended Data](ext_articles/5de95b3d.ext.json)
+
+---
 
 ### The Sangu symbol, which was an independent symbol, has now been transformed into a symbol of the party - Sirinasan
 
@@ -134,6 +230,28 @@ Was the film ahead of the release of the film, and has been expected?Do you want
 
 ---
 
+### Sri Lanka 20 Sri Lanka Twenty20 squad against West Indies
+
+*2024-10-09 17:19:01* · [`adalk`](https://www.ada.lk/sports/කොදෙව්වන්ට-එරෙහි-ශ්‍රී-ලංකා-විස්සයි-20-සංචිතය-නම්-කෙරේ/9-412399) · `si`
+
+Sri Lanka names 17-player T20 squad vs West Indies. Three-match series at Rangiri Dambulla International Cricket Stadium from March 13-17.
+
+🟩
+
+The Sri Lanka Twenty20 squad against the tourist West Indies has been named.
+
+Seventeen players have been included in the squad of Charith.
+
+The tournament includes three matches and will be held at the Rangiri Dambulla International Cricket Stadium, which is 13,15 and 17.
+
+◼️
+
+[Data](articles/fc805e25.json)
+
+[Extended Data](ext_articles/fc805e25.ext.json)
+
+---
+
 ### Sri Lanka is named Sri Lanka 20 squad
 
 *2024-10-09 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201995) · `si`
@@ -206,19 +324,25 @@ The National Convention, which contested on behalf of the India coalition, has w
 
 ---
 
-### ஹரியானாவில் மூன்றாவது முறையாக ஆட்சி அமைக்கிறது பாரதிய ஜனதா கட்சி
+### Bharatiya Janata Party for the third time in Haryana
 
 *2024-10-09 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/195861) · `ta`
 
-வட இந்திய மாநிலங்களில் ஒன்றான ஹரியானா மாநிலத்தில் நடைபெற்ற சட்டப்பேரவை தேர்தலில் பாரதிய ஜனதா கட்சி வெற்றி பெற்று மூன்றாவது முறையாக ஆட்சி அமைக்கிறது.
+BJP wins 3rd term in Haryana assembly polls, securing 48 seats. Congress gets 37, others 5. BJP maintains majority rule despite Congress hopes.
 
-கடந்த ஒக்டோபர் மாதம் ஐந்தாம் திகதி அன்று ஹரியானா மாநிலத்திற்கு ஒரே கட்டமாக மொத்தமுள்ள 90 தொகுதிகளுக்கான சட்டப் பேரவை தேர்தல் நடைபெற்றது. தேர்தல் வாக்குப்பதிவு நிறைவடைந்த உடன் வெளியான கருத்துக் கணிப்பில் காங்கிரஸ் கட்சி ஆட்சியை கைப்பற்றும் என செய்தி வெளியானது. இதனால் காங்கிரஸ் கட்சியினர் உற்சாகமடைந்தனர். ஆனால் தேர்தல் முடிவுகள் வேறு விதமாக அமைந்திருந்தது.
+🟩
 
-அதிகாரப்பூர்வமாக அறிவிக்கப்பட்ட முடிவின்படி பாரதிய ஜனதா கட்சி 48 இடங்களிலும், இந்திய தேசிய காங்கிரஸ் 37 இடங்களிலும், தேசிய லோக் தள் கட்சி இரண்டு இடங்களிலும், சுயேச்சைகள் மூன்று இடங்களிலும் வெற்றி பெற்று இருக்கிறார்கள். இதன் மூலம் பாரதிய ஜனதா கட்சி தொடர்ந்து மூன்றாவது முறையாக அறுதி பெரும்பான்மையுடன் வெற்றி பெற்று ஆட்சியை கைப்பற்றி இருக்கிறது.
+The Bharatiya Janata Party (BJP) has won for the third time in the assembly elections in Haryana, one of the North Indian states.
+
+On the fifth of October, the state of Haryana was held for the same phase of the 90 constituencies.. It was reported that the Congress party would take over the poll in a poll released after the election voting was over.. Thus the Congress party was excited. But the election results were different.
+
+According to the official announcement, the Bharatiya Janata Party (BJP) has won 48 seats, the Indian National Congress 37, the National Lok Dal Party in two places and independents in three seats.. With this, the Bharatiya Janata Party has won the third consecutive year with the quarter -majority and seized the regime.
 
 ...
 
 [Data](articles/a4b5358f.json)
+
+[Extended Data](ext_articles/a4b5358f.ext.json)
 
 ---
 
@@ -246,19 +370,27 @@ We will only allocate this special building and its premises to the Postal Depar
 
 ---
 
-### இலங்கையின் கடினமான பயணத்திற்கு சர்வதேச சமூகம் ஆதரவளிக்க வேண்டும் - உலகத் தமிழர் பேரவை கோரிக்கை
+### International community should support Sri Lanka's hard journey - World Tamil Congress demand
 
 *2024-10-09 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/195852) · `ta`
 
-இலங்கை பொறுப்புக்கூறலை நிறைவு செய்வதற்கான அர்த்தமுள்ள நீடிப்பை வழங்குவதோடு அதற்கான மேலதிக நடவடிக்கைகளுக்காக விடயத்துடன் தொடர்புடைய அனைத்து ஐ.நா அமைப்புகளுக்கும் உயர்ஸ்தானிகரின் அறிக்கையை அனுப்பவும் வலியுறுத்துகின்றோம் என்று உலத் தமிழர் பேரவை தெரிவித்துள்ளது.
+Sri Lanka faces challenges in human rights and accountability. UN calls for reforms and international support. Tamil Nadu Council offers assistance.
 
-மனித உரிமைகள் பேரவையின் 57ஆவது அமர்வில், உயர்ஸ்தானிகர் வெளியிட்டுள்ள அறிக்கை உட்பட பொறுப்புக்கூறல் தொடர்பில் வெளியிட்டுள்ள ஊடக அறிக்கையிலேயே மேற்கண்டவாறு தெரிவித்துள்ளது.
+🟩
 
-“இலங்கையில் மனித உரிமைகள் நிலை” என்ற தலைப்பில் ஐ.நா மனித உரிமைகள் உயர்ஸ்தானிகர் வோல்கர் டர்க் வெளியிட்ட அறிக்கையையும், அதனைத் தொடர்ந்து நடைபெற்ற உரையாடலையும் உலகத்தமிழர் பேரவை வரவேற்கிறது. இலங்கையில் பொறுப்புக்கூறல் மற்றும் நல்லிணக்கத்தை முன்னெடுப்பதற்கு தேசிய மற்றும் சர்வதேச நடவடிக்கைகளுக்கு அழைப்பு விடுப்பதோடு, நடந்துவரும் மனித உரிமை மீறல்களை குறித்து அறிக்கை எடுத்துக்காட்டுகிறது.
+The Tamil Nadu Council has said that we will provide a meaningful extension to fulfill Sri Lanka and send a report by the High Commission to all the UN organizations related to the matter for further measures.
+
+The 57th session of the Human Rights Council said in a media report issued on accountability, including a report issued by the High Commissioner.
+
+The World Tamil Council welcomes the statement issued by the UN Human Rights Commissioner Volcker Turk, titled "Human Rights Status in Sri Lanka". The report is calling for national and international measures to carry out accountability and reconciliation in Sri Lanka and highlights on the ongoing human rights violations.
+
+The High Commissioner's report has indicated a series of human rights violations, including spontaneous police activities such as the harassment, land grabbing and preventing victims of relatives of civil society activists, journalists and forcibly missing in the North and East.
 
 ...
 
 [Data](articles/84b6c5a8.json)
+
+[Extended Data](ext_articles/84b6c5a8.ext.json)
 
 ---
 
@@ -1478,6 +1610,28 @@ This time, the people will clearly reject candidates with a political and corrup
 
 ---
 
+### ඉන්දු - ශ්‍රී ලංකා සිනමා ව්‍යාපෘතිය: උඩරට දුම්රියට සිදුවන්නේ කුමක් ද?
+
+*2024-10-09 11:40:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4g5jq87l7no) · `si`
+
+ඉන්දු - ශ්‍රී ලංකා සිනමා ව්‍යාපෘතිය: උඩරට දුම්රියට සිදුවන්නේ කුමක් ද?
+
+"මගී ප්‍රවාහනය සහ භාණ්ඩ ප්‍රවාහනය සඳහා ආරක්ෂාකාරී, විශ්වාසවන්ත හා නිසි කලට වේලාවට ක්‍රියාත්මක දුම්රිය ප්‍රවාහන සේවාව ලාභදායි හා කාර්යක්‍ෂම ලෙස සැපයීම" තම මෙහෙවර බවට ප්‍රකාශ කරන ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව විසින් එකවර ගනු ලැබූ තීරණයක් සම්බන්ධයෙන් ජනතාව තුළ ප්‍රශ්නාර්ථයක් මතුව තිබේ.
+
+ඉන්දියානු චිත්‍රපටයක රූගත කිරීම වෙනුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවන කටයුතු අද (ඔක් 09) දින සිට සතියක කාලයක් සීමා කිරීමට තීරණය කර තිබීම ඊට ප්‍රධාන හේතුව වී ඇත.
+
+මෙම චිත්‍රපටයේ රූගත කිරීම් සිදුකරන්නේ දෙමෝදර ආරක්කු නමයේ පාලම මත බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+
+ඒ අනුව සිනමා පටයේ රූගත කිරීම හේතුවෙන් කොළඹ කොටුවේ සිට ඇල්ල දුම්රිය ස්ථානය අතර උදෑසන 07.30 සිට සවස 5.30 දක්වා මෙලෙස දුම්රිය ධාවන කටයුතු සීමා කෙරෙන බව සඳහන් කරමින් දුම්රිය දෙපාර්තමේන්තුව නිවේදනයක් නිකුත්කර තිබේ.
+
+මේ යටතේ අද (ඔක්: 09වැනිදා) සිට ලබන 15 වැනිදා දක්වා දින 7ක් උඩරට මාර්ගයේ දුම්රිය ධාවනය සීමා කෙරෙනු ඇත.
+
+...
+
+[Data](articles/d008e1b8.json)
+
+---
+
 ### Sri Lanka rupee trades stronger at 292.75/85 to US dollar, bond yields inch up
 
 *2024-10-09 11:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-292-75-85-to-us-dollar-bond-yields-inch-up-182931/) · `en`
@@ -2259,157 +2413,5 @@ Senior Information Security Engineers Warrankarapola said that there were over 3
 [Data](articles/7655e18c.json)
 
 [Extended Data](ext_articles/7655e18c.ext.json)
-
----
-
-### Sri Lanka going ahead ISB deal to avoid bigger problems from delay: Foreign Minister
-
-*2024-10-09 08:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-going-ahead-isb-deal-to-avoid-bigger-problems-from-delay-foreign-minister-182883/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new administration decided to go ahead with a restructure deal reached with sovereign bondholders before the presidential election to avoid bigger economic problems from a delay, Foreign Minister Vijitha Herath said.
-
-“We as a government did not change the process especially on ISBs,” Foreign Minister Vijitha Herath told reporters after this week’s cabinet meeting.
-
-“We intervened to take the process forward without breaking it down.
-
-“If we stopped it and then checked whether it was correct or not, it will take a very long time, the economy would have to face big problems.”
-
-Sri Lanka reached an in-principle deal with sovereign bondholders which was in line with International Monetary Fund’s debt sustainability analysis.
-
-Sri Lanka is regarded as country in default until the debt is restructured. A court case has also been filed in the US by some bondholders.
-
-...
-
-[Data](articles/426a5de2.json)
-
-[Extended Data](ext_articles/426a5de2.ext.json)
-
----
-
-### The main notice of railway services
-
-*2024-10-09 08:20:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரத-சேவைகள்-குறித்து-முக்கிய-அறிவிப்பு/175-345126) · `ta`
-
-Railway service disruption: Nine bridges closed Oct 15-15 due to filming. Trains rerouted via Ella/Bandarawa instead of Badulla from 7:30 AM to 5:30 PM daily.
-
-🟩
-
-The Railways Department has announced that nine arches will be shut down from Colombo and Kandy in the bridge, through the bridge, from the 15th of October to the 15th of October for the shooting for the film.
-
-From 7:30 am to 5:30 pm. Similarly, the trains in the opposite direction will depart from Ella or Bandarawa instead of Badulla during this period. Remble
-
-◼️
-
-[Data](articles/31830aa0.json)
-
-[Extended Data](ext_articles/31830aa0.ext.json)
-
----
-
-### Recreated eggs
-
-*2024-10-09 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201977) · `si`
-
-Egg prices surge despite drop to Rs. 30 due to bulk purchases and oversupply issues. President Ajith Gunasekera cites artificial fluctuations as main concern.
-
-🟩
-
-The price of an egg, which has been reduced to Rs. 30 has reached over Rs.
-
-President of the Sri Lanka Animal Manufacturers Association, Ajith Gunasekera said that several factors have been affected to rise again.
-
-"Large large quantities of bulk dealers take egg wikka. It got a great relief to customers. The excess of production has already left the market. Daily eggs currently produced by the daily eggs he comes to the market. But there is a large price fluctuation. It is a problem for us that it is artificially happens. "
-
-◼️
-
-[Data](articles/db0ddb69.json)
-
-[Extended Data](ext_articles/db0ddb69.ext.json)
-
----
-
-### The story behind the abolition of the pensions of the Central Bank of Sri Lanka
-
-*2024-10-09 08:05:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1k7gz01l40o) · `si`
-
-Central Bank of Sri Lanka abolishes pensions for its governors and employees. Decision made by governing body, not sudden. Current governor exempt but other staff affected. Pensions reinstated in 2015 after initial 1998 abolition.
-
-🟩
-
-The story behind the abolition of the pensions of the Central Bank of Sri Lanka
-
-A special gazette sheet was issued on 25 September, abolishing pensions for the manipons of the Central Bank of Sri Lanka.
-
-The gazette was signed by Dr. Nandalal Weerasinghe as the Chairman of the Central Bank of Sri Lanka and the Governor of the Central Bank of Sri Lanka.
-
-Accordingly, former manners will not pay a pension at present and in the future.
-
-According to the special gazette issued by the Central Bank of Sri Lanka, the Central Bank's Governors' pension is abolished since 11 September.
-
-The pensions of the Governors of the Central Bank of Sri Lanka were lost this year.
-
-The Pension of the Central Bank was abolished from the first on January 1998.
-
-However, later decided to pay pensions since the first day of January 2015.
-
-Why did Ajith Nivard Cabraal imposed an enjoining order?
-
-Accordingly, former manners in the Central Bank of Sri Lanka received a monthly pension with effect from the first January 2015.
-
-...
-
-[Data](articles/34da9fba.json)
-
-[Extended Data](ext_articles/34da9fba.ext.json)
-
----
-
-### A dead body of a young man meets a well
-
-*2024-10-09 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201976) · `si`
-
-Body found in well at Elpitiya Police Stadium. Victim: 23-year-old from Mattechida. Attended concert at stadium. Body sent for post-mortem exam after investigation.
-
-🟩
-
-A youth has found a body of a young man in a well on the Elpitiya Police Stadium.
-
-Police said that the police had received a message from the afternoon yesterday.
-
-The victim is a 23 year old resident of Mattechida.
-
-The deceased has revealed that the deceased has visited a concert held at Elpitiya Public Stadium.
-
-The body has been placed at the Elpitiya Hospital for the post mortem examination after the magisterial inquiry.
-
-◼️
-
-[Data](articles/267d0d2f.json)
-
-[Extended Data](ext_articles/267d0d2f.ext.json)
-
----
-
-### Have not stopped lunch offered to primary students
-
-*2024-10-09 07:39:52* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-සිසුන්ට-දෙන-දිවා-ආහාරය-නවතා-නෑ/11-412388) · `si`
-
-Lunch program for primary students continues despite rumors of suspension. Ministry denies claims, stating funding secured through 2024.
-
-🟩
-
-Reports say that it is false that the liege has been stopped at government schools in government schools has been suspended.
-
-The Ministry of Education, Thilaka Jayasundara said that there were many information in the past few days that the program has been stopped in schools.
-
-Thilaka Jayasundara said that all these accounts were false and the program of providing lunch for school children continues to implement the program.
-
-She added that there is also the funds necessary to implement the relevant program until next year.
-
-◼️
-
-[Data](articles/394638b7.json)
-
-[Extended Data](ext_articles/394638b7.ext.json)
 
 ---

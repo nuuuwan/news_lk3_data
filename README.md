@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 09:39:05**
+As of **2024-10-09 10:11:29**
 
 ## Newspaper Stats
 
-*Scraped **48,510** Articles*
+*Scraped **48,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,192 @@ bbccomsinhala | 481
 islandlk | 2,870
 economynextcom | 2,970
 dailyftlk | 3,283
-adalk | 4,494
+adalk | 4,495
 dailymirrorlk | 4,733
 adaderanalk | 5,716
-tamilmirrorlk | 6,575
-virakesarilk | 7,757
-adaderanasinhalalk | 8,390
+tamilmirrorlk | 6,577
+virakesarilk | 7,761
+adaderanasinhalalk | 8,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,509 (100.0%) of 48,510 articles have been extended.
+48,519 (100.0%) of 48,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Massive change in the price of an egg suddenly
+
+*2024-10-09 09:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-முட்டை-விலையில்-பாரிய-மாற்றம்/175-345129) · `ta`
+
+Egg prices surge from 30 to 40 rupees. Factors: wholesalers buying excess supply, current surplus production affecting market. Price fluctuation impacts consumers.
+
+🟩
+
+It is reported that the price of an egg sold at 30 rupees recently has risen to over 40 rupees again.
+
+Ajith Gunasekera, president of the Sri Lanka Livestock Producers Association, said that many factors have influenced the increase in egg prices.
+
+Wholesalers took the eggs and sold the eggs. This resulted in a massive relief to the consumers. Currently, surplus production products have left the market. The daily eggs that are currently produced are the market. But it is noteworthy that a major fluctuation at the price. Remble
+
+◼️
+
+[Data](articles/3c0bdf7e.json)
+
+[Extended Data](ext_articles/3c0bdf7e.ext.json)
+
+---
+
+### Request of radiation science technologists by Prime Minister
+
+*2024-10-09 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201980) · `si`
+
+Prime Minister requests committee to investigate Ministry of Health corruption. Trade union offers assistance. Committee must be independent to address recent drug purchase frauds.
+
+🟩
+
+The Prime Minister of Radio Technology Association says that the Prime Minister has requested a committee to appoint a committee to find a committee to find corruption in the Ministry of Health in the recent past.
+
+The Chairman Chanaka Dharmawickrema said his union would provide information on corruption to the committee.
+
+"At present the Prime Minister is the Health Minister. Especially we say that a large number of frauds took place in the recent past purchase of drugs. We have been revealed to them in length as a trade union. We are especially expected that this new President and Health Minister has appointed a committee to find the recent frauds. It should not be the old kind of committee. It should be an independent committee. The trade union leaders in this health service should be created to ensure that these health workers do not claim information about corruption they know. "
+
+◼️
+
+[Data](articles/58524f35.json)
+
+[Extended Data](ext_articles/58524f35.ext.json)
+
+---
+
+### 33 parties filing nominations so far
+
+*2024-10-09 09:42:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரை-33-கட்சிகள்-வேட்புமனு-தாக்கல்/175-345128) · `ta`
+
+33 parties nominated for general election: 17 political parties, 16 independent groups. No submissions from Matale, Galle, Matara, Kurunegala, Badulla. Nominations open Oct 4-11. Postal voting deadline extended to Oct 10.
+
+🟩
+
+A total of 33 parties have filed nominations for this year's general election, independent groups and political parties.
+
+The Elections Commission said that yesterday (08), 17 political parties and 16 independent groups have filed nominations.
+
+No political party or independent committee has submitted nominations to the electorate of the districts of Matale, Galle, Matara, Kurunegala and Badulla till the end, the Commission said.
+
+The filing of nominations for the general election will commence on October 4 and will be held on the 11th and will be held till 12 noon.
+
+Meanwhile, the period of acceptance of postal voting applications related to the General Election has been extended till the 10th of this month.. Remble
+
+◼️
+
+[Data](articles/fc26d7d1.json)
+
+[Extended Data](ext_articles/fc26d7d1.ext.json)
+
+---
+
+### Public pardon for Sri Lankan workers working in Lebanon without registration
+
+*2024-10-09 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/195812) · `ta`
+
+Sri Lanka offers public pardon to unregistered workers in Lebanon. Amnesty granted until Jan 8, 2025. Workers can register at Sri Lankan embassy in Lebanon.
+
+🟩
+
+The Foreign Employment Bureau has decided to give public apology for Sri Lankan workers working in Lebanon.
+
+Accordingly, the Sri Lankans who went to Lebanon for work without registering the SLBFE at the Sri Lanka Foreign Employment Bureau (SLBFE) have been granted amnesty until 8th January 2025.
+
+It has been announced that unregistered migrant workers can register themselves at the Sri Lankan embassy in Lebanon.
+
+◼️
+
+[Data](articles/510a0884.json)
+
+[Extended Data](ext_articles/510a0884.ext.json)
+
+---
+
+### Two foreign nationals rescued
+
+*2024-10-09 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201979) · `si`
+
+Two foreign nationals (American, Swiss) rescued off Hikkaduwa coast. Local police and life-saving team responded quickly.
+
+🟩
+
+Foreign nationals have rescued a diagnostic in the Hikkaduwa coast.
+
+Police said that the officials of the Hikkaduwa Police Life Saving Vehicle Saving the Police have taken immediate action and devoured the victims of the injuries.
+
+The victim is a 20-year-old American and Switzerland.
+
+Police Inspector Hewage, Sub-Inspector Sirimal Police Constable at 94884 Charming to Hikkaduwa, 94884 Hamakumara Police Constable 27794 Hemakumara Police 172748 Dissanayake 10294 Dissanayake 102748 Dissanayake.
+
+◼️
+
+[Data](articles/e5b00f24.json)
+
+[Extended Data](ext_articles/e5b00f24.ext.json)
+
+---
+
+### Conversation on Douglas phone with President Anura
+
+*2024-10-09 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195813) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura speaks with Douglas about Indian fishermen arrests. Public urges action against livelihood destruction. President promises to address issue soon.
+
+🟩
+
+A conversation between President Anura Kumara Dissanayake and Douglas Devananda, Secretary General of the Eelam Democratic Party and Douglas Devananda.
+
+At the moment Douglas Devananda visited the area to meet the public to the Velani area, the Indian dragons were on the rise that the Indian tracts were increasing in their areas.
+
+As such conditions continue, fifty Indian fishermen arrested on charges of violating the Sri Lankan waters during the visit of Indian Foreign Minister Subramaniam Jaishankar have been released without any conditions.
+
+Therefore, the public has urged Douglas to take appropriate action by the new rulers that their livelihood is being destroyed.
+
+Douglas, who was standing in the area, spoke to President Anura on the phone. He has also highlighted the public expressed.
+
+At the same time, the President said that he would focus on the issue of Anuragumara and that he would soon hold talks with Douglas.
+
+◼️
+
+[Data](articles/77145f1b.json)
+
+[Extended Data](ext_articles/77145f1b.ext.json)
+
+---
+
+### A private elephant who damaged residential areas in Samanthurai
+
+*2024-10-09 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/195811) · `ta`
+
+Private elephant damages property in Samanthurai. Public seeks action from authorities after two-day rampage near courthouse.
+
+🟩
+
+The Ampara District Samanthurai Tamil section 4 - A private elephant has caused damage to the land in front of the Quasy Court on Wednesday morning.
+
+The public alleges that a separate elephant has been in the courtroom for the past two days and has been causing damage to the Quasi courts.
+
+Therefore, the public has requested the concerned authorities to take action on this issue.
+
+◼️
+
+[Data](articles/ea4fbc70.json)
+
+[Extended Data](ext_articles/ea4fbc70.ext.json)
+
+---
 
 ### Israel says it has killed slain Hezbollah leader’s successors
 
@@ -49,6 +219,36 @@ Israeli Defence Minister Yoav Gallant said Hashem Safieddine, the man expected t
 [Data](articles/ad0d5f86.json)
 
 [Extended Data](ext_articles/ad0d5f86.ext.json)
+
+---
+
+### Some areas are frequently raining
+
+*2024-10-09 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/195810) · `ta`
+
+Frequent rain/thunderstorms expected in Sabaragamuwa, Western, North Western Provinces and Galle/Matara districts. Heavy rains predicted in Central, Eastern, Uva Provinces. Strong winds and lightning warnings issued. Sea regions may be turbulent due to high winds.
+
+🟩
+
+Senior Weather Officer Dr. Mohamed Saliheen said frequent rainfall or thunderstorms are expected in Sabaragamuwa, Western and North Western Provinces as well as in Galle and Matara districts.
+
+Showers or thunderstorms can occur in many parts of the other parts of the country during the afternoon or night.
+
+Heavy rains are expected to occur in some parts of the Central, Sabaragamuwa, Upper, North Western, Eastern and Uva provinces as well as 75 mm in the Galle, Matara and Puttalam districts.
+
+The public is asked to act with vigilance in the events of strong winds and lightning.
+
+Rain or thunderstorms are likely to occur in many parts of the sea regions around the country.
+
+In the sea regions, the wind blows from the southwest or the contrasting directions at 25 - 35 km / h.
+
+Frequent winds are likely to blow at 45 - 50 km / h in the sea regions from Mannar, Colombo and Galle via Mannar, Colombo and Hambantota.. In such cases, these sea regions are somewhat turbulent.
+
+...
+
+[Data](articles/1784e936.json)
+
+[Extended Data](ext_articles/1784e936.ext.json)
 
 ---
 
@@ -475,6 +675,8 @@ The manner in which the thinking about development banking has evolved, clearly 
 ...
 
 [Data](articles/3774441c.json)
+
+[Extended Data](ext_articles/3774441c.ext.json)
 
 ---
 
@@ -1520,6 +1722,30 @@ The present government is looking to cooperate with all countries in India, Amer
 
 ---
 
+### No butter in cakes, eggs or margarine
+
+*2024-10-08 19:22:49* · [`adalk`](https://www.ada.lk/breaking_news/කේක්වල-බටර්--බිත්තර-හෝ-මාගරින්-නෑ/11-412383) · `si`
+
+Sri Lanka lacks regulations to check cake ingredients. Many bakeries use artificial flavors instead of real eggs, butter, or margarine. The outdated Food Act doesn't penalize non-compliance.
+
+🟩
+
+The public health inspector Sandun Ratnayake stressed that there is still no provision in Sri Lanka to check the contents of the cake.
+
+He points out that the majority of the companies are not using eggs or butter or margarine to produce corporate cake.
+
+Accordingly, the butter flavorful substances and artificial egg flavors have to be remembered that the cakes of the cake is available in the cake in the market.
+
+The Public Health Inspector added that the allocations of the Food Act, which was built over 44 years ago, has not yet been prepared to punish the Food Act No. 26 of 1980.
+
+◼️
+
+[Data](articles/0f1d6769.json)
+
+[Extended Data](ext_articles/0f1d6769.ext.json)
+
+---
+
 ### Hezbollah supports ceasefire efforts in Lebanon, deputy chief says
 
 *2024-10-08 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/102539/hezbollah-supports-ceasefire-efforts-in-lebanon-deputy-chief-says) · `en`
@@ -2143,219 +2369,5 @@ Further investigations are being carried out by the Northern Police Crime Unit o
 [Data](articles/3a081b8e.json)
 
 [Extended Data](ext_articles/3a081b8e.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 293.15/20 to dollar, bond yields up
-
-*2024-10-08 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-15-20-to-dollar-bond-yields-up-182805/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee continued to appreciate, closing at 293.15/20 to the US dollar Tuesday from 293.45/55 a day earlier, dealers said, while bond yields were slightly up ahead of bond and bill auctions this week.
-
-A bond maturing on 15.12.2026 closed at 10.40/60 percent, up from 10.40/50 percent.
-
-A bond maturing on 15.12.2027 closed at 11.45/65 percent, from 11.50/60 percent.
-
-A bond maturing on 15.02.2028 closed at 11.70/85 percent, up from 11.65/75 percent.
-
-A bond maturing on 15.09.2029 closed at 12.00/20 percent, up from 11.95/12.05 percent.
-
-Meanwhile, the central bank announced it would be offering 95,000 million rupees in Treasury bonds at an auction on Friday (11), and 85,000 million rupees in Treasury bills through an auction on Wednesday (9). (Colombo/Oct8/2024)
-
-◼️
-
-[Data](articles/9e3ad0ed.json)
-
-[Extended Data](ext_articles/9e3ad0ed.ext.json)
-
----
-
-### Fuel shortage in Sri Lanka due to the Middle East War environment - Cabinet spokesman
-
-*2024-10-08 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/195767) · `ta`
-
-Sri Lanka denies fuel shortages due to Middle East war. Cabinet says current supplies sufficient, but warns future price increases possible if global market changes.
-
-🟩
-
-Sri Lanka will not cause fuel shortages due to the war environment in the Middle East. Cabinet spokesman Vijitha Herath said that if prices in the world market are on the basis of fuel prices in Sri Lanka.
-
-He further stated at a press conference announcing the Cabinet decisions held on Tuesday.
-
-It is customary to increase prices of fuels in the event of such a war environment. So if fuel prices are increased in the world market, it will also have an impact on Sri Lanka.
-
-But at present there is no impact on that. The fuel that has been purchased earlier is currently used. They can be used for a period of time.
-
-Their prices are currently in effect. If the war environment is intensified and prices are increased, the prices of fuels will be determined accordingly. He said there was no problem at present.
-
-◼️
-
-[Data](articles/ac2f9fa6.json)
-
-[Extended Data](ext_articles/ac2f9fa6.ext.json)
-
----
-
-### 2024 General Election: Deadline for postal voting applications extended
-
-*2024-10-08 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/102537/2024-general-election-deadline-for-postal-voting-applications-extended-) · `en`
-
-The Election Commission of Sri Lanka today announced that the deadline for accepting applications for postal voting in the 2024 General Election, which was scheduled to end at midnight today (8), has been extended until midnight on 10 October 2024.
-
-The Elections Commissioner General said that this decision was made in consideration of the possible postal delays and several requests made by the public to the commission.
-
-Furthermore, the election regulatory body has also advised that it is more appropriate to hand over the postal vote applications completed on October 09 and 10 by hand to the district election office of the district where the office of the certifying officer is located, instead of handing them over to the posts, in order to avoid the possible delays.
-
-The Election Commission also noted that the application deadline will not be extended further under any circumstances.
-
-◼️
-
-[Data](articles/c3a4b1d7.json)
-
-[Extended Data](ext_articles/c3a4b1d7.ext.json)
-
----
-
-### Postal voting applications extended
-
-*2024-10-08 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201960) · `si`
-
-Postal voting deadline extended to Oct 10, 2024, at 10 PM. Applications accepted until midnight due to delays. District offices handling submissions. Date may be extended further if needed.
-
-🟩
-
-The postal voting scheme of the postal voting date has been extended to the parliamentary election that is scheduled to end on October 8, 2024.
-
-Elections Deputy Commissioner General Saman Sri Ratnayake said that the demands of the postal delays and the Commission had been extended to 12.00 midnight.
-
-Accordingly, the applications should be received on the end of the end of the end of the end of the end of 2024 at 10 pm on the 10th of October 10 pm.
-
-To prevent the delay in receipt of applications to prevent the delay in the receipt of the possible delay, the office office of the district is handed over by the District Election Office in the district.It is informed that it is best to work.
-
-Saman Sri Ratnayake has further stated that this date will be extended again for any reason.
-
-◼️
-
-[Data](articles/17e74750.json)
-
-[Extended Data](ext_articles/17e74750.ext.json)
-
----
-
-### US pledges continued support to bolster Sri Lanka’s economy
-
-*2024-10-08 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/102536/us-pledges-continued-support-to-bolster-sri-lankas-economy) · `en`
-
-The United States has committed to providing essential support to strengthen Sri Lanka’s economy.
-
-In a meeting held today (Oct 8) at the Presidential Secretariat in Colombo, Julie J. Chung, the US Ambassador to Sri Lanka, announced that support would be focused on fostering an export-driven economy in the country, the President’s Media Division (PMD) said in a statement.
-
-Additionally, Ambassador Chung conveyed congratulations from US President Joe Biden to President Anura Kumara Dissanayake, delivered through Secretary to the President Dr. Nandika Sanath Kumanayake.
-
-She also noted that the International Monetary Fund (IMF) and the United States Agency for International Development (USAID) are prepared to offer financial support to help enhance the economic prospects of Sri Lanka, the PMD said.
-
-The United States has pledged both financial and technical support for President Anura Kumara Dissanayake’s initiatives aimed at preventing fraud and corruption, the statement mentioned.
-
-...
-
-[Data](articles/34bdf61b.json)
-
-[Extended Data](ext_articles/34bdf61b.ext.json)
-
----
-
-### The stream swallowed a 4 -year -old girl
-
-*2024-10-08 16:53:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-வயதான-சிறுமியை-ஓடை-விழுங்கியது/175-345099) · `ta`
-
-Four-year-old Ananya Parami drowns in stream behind house. Parents absent when tragedy occurs. Police investigating incident.
-
-🟩
-
-A four -year -old girl named Ananya Parami, a yogi, belonging to the Thangotuwa police division, fell into an unsafe stream at the back of her house on Tuesday (08) afternoon, Thangotuwa police said.
-
-When her grandmother went to the pre -school and returned home, her grandmother went to bathe the water, police said.
-
-It has been revealed that the mother and father of the girl who died during the incident were not at home and further investigations are being carried out by the Thangoduwa police.
-
-◼️
-
-[Data](articles/18aff379.json)
-
-[Extended Data](ext_articles/18aff379.ext.json)
-
----
-
-### Priyantha Weerasuriya approval of the Legislative Council
-
-*2024-10-08 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201959) · `si`
-
-Priyantha Weerasuriya's appointment as acting IGP approved by Constitutional Council. He's first police constable to hold position in 158 years. Former Senior DIG North Central Province. Masters degree in Human Resources Management.
-
-🟩
-
-The constituency of Senior DIG Priyantha Weerasuriya as acting IGP has been approved by the Constitutional Council.
-
-According to the existing law, the approval of the Legislative Council should be obtained for the Legislative Council.
-
-Presidential Secretary to the President Dr. Nandika, Priyantha Weerasuriya was appointed as the acting IGP.
-
-The appointment was made as well as the authority assigned to the President.
-
-Priyantha Weerasuriya is the only official appointment as a police constable to serve as a police constable in 158 years.
-
-A graduate of the University of Colombo, he was promoted as a Assistant Superintendent of the Sri Lanka Law College.
-
-He has won the Masters Degree in Human Resources Management from the University of Colombo.
-
-Weerasuriya, who has served as the DIG in charge of the police crime and traffic director, and the Police supplies director.
-
-Mr. Weerasuriya was duty as Senior DIG in charge of the North Central Province when he was appointed as acting IGP.
-
-◼️
-
-[Data](articles/5f65fd48.json)
-
-[Extended Data](ext_articles/5f65fd48.ext.json)
-
----
-
-### Sri Lanka stocks close up as buying interest persists
-
-*2024-10-08 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-as-buying-interest-persists-182801/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.05 percent, or 6.46 points, at 12,171; while the more liquid S&P SL20 Index closed up 0.14 percent, or 4.93 points, at 3, 595.
-
-Top turnover generators were Commercial Bank (up at 107.00), Hayleys (up at 104.75), John Keells Holdings (up at 193.75), Sampath Bank (down at 82.20), and Agarapatana Plantations (flat at 8.20).
-
-Top foreign buying was seen in Richard Pieris and Co (up at 21.70), Dipped Products (up at 37.00), Maharaja Foods (up at 5.40), Ceylon Land and Equity (flat at 8.00), Sampath Bank, and Vidullanka (flat at 13.90).
-
-Top foreign selling was seen in Commercial Bank, John Keells Hotels (flat at 17.00), Dialog Axiata (up at 9.50), John Keells, Serendib Hotels non-voting (up at 10.30), and Ceylon Beverage Holdings (flat at 2,000.00).
-
-◼️
-
-[Data](articles/366b15e6.json)
-
-[Extended Data](ext_articles/366b15e6.ext.json)
-
----
-
-### Here are over 100 mm in these provinces
-
-*2024-10-08 16:39:58* · [`adalk`](https://www.ada.lk/breaking_news/හෙටත්-මෙන්න-මේ-පලාත්වලට-මි-මී-100-ඉක්මවා-වැසි/11-412373) · `si`
-
-Heavy rainfall expected: 100mm+ in Western, Sabaragamuwa, Central, Uva, Eastern provinces.
-
-🟩
-
-The Department of Meteorology has informed that there will be heavy at least 100 mm in the Western, Sabaragamuwa, Central, Central, Uva and Eastern provinces..  ( I J )
-
-◼️
-
-[Data](articles/62b70d04.json)
-
-[Extended Data](ext_articles/62b70d04.ext.json)
 
 ---

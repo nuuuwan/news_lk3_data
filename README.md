@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 20:39:41**
+As of **2024-10-09 20:58:48**
 
 ## Newspaper Stats
 
-*Scraped **48,627** Articles*
+*Scraped **48,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ bbccomsinhala | 483
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,512
+adalk | 4,513
 dailymirrorlk | 4,733
 adaderanalk | 5,739
 tamilmirrorlk | 6,598
 virakesarilk | 7,780
-adaderanasinhalalk | 8,409
+adaderanasinhalalk | 8,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,627 (100.0%) of 48,627 articles have been extended.
+48,629 (100.0%) of 48,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Lotus Tower is more information about the student
+
+*2024-10-09 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202002) · `si`
+
+Student commits suicide at Lotus Tower after ransom demand. Father reveals daughter struggled with mental health issues and medication. Police investigation ongoing. Ministry appoints committee to examine suicide.
+
+🟩
+
+Her father has revealed that she had committed the ransom from the Nelum Tale that he was educated in the international school.
+
+However, as soon as she committed suicide, she has not yet been revealed.
+
+A 17-year-old schoolgirl has committed suicide by jumping from the Lotus Talany on Monday.
+
+Her mortality was held at the Colombo Municipal Mortality Inspector at the Colombo Municipal Emergency Inspector, where her father was awarded before Mohamed Ashraf Rumi.
+
+The father of the student has said that he has two daughters and the deceased daughter's elder brother will be second year at Belarushe medical college.
+
+The father has said that the daughter of the deceased daughter in Colombo today to sit for the London Ordinary Level examination.
+
+On the morning of the incident, he had left the daughter's school gate and revealed his experience,
+
+...
+
+[Data](articles/4d81ad11.json)
+
+[Extended Data](ext_articles/4d81ad11.ext.json)
+
+---
 
 ### Sri Lanka adopts a proposal in Geneva
 
@@ -233,6 +263,30 @@ Head of the Western Province Road Bureau of the Western Provincial Road Passenge
 [Data](articles/8286a456.json)
 
 [Extended Data](ext_articles/8286a456.ext.json)
+
+---
+
+### The tutor to the Kandalama reservoir is completely destroyed by the above order
+
+*2024-10-09 18:33:25* · [`adalk`](https://www.ada.lk/breaking_news/ඉහලින්-ලැබුණු-නියෝගයකට-කණ්ඩලම-ජලාශයේ-ලස්සනම-තුරු-ලතා-වදුල-සම්පුර්ණයෙන්-කපා-විනාශ-කරලා/11-412403) · `si`
+
+Kandalama reservoir tutor destroyed. Mahaweli Authority rebuilds tourist hotel. Farmers protest tree felling. Accusations against contractors. Police investigation ongoing.
+
+🟩
+
+Farmers' Organization alleges that a large number of beautiful festivals in the left bank of the condalam reservoir administered by the Mahaweli Authority administered by the Mahaweli Authority of the Sri Lanka Mahaweli Authority.. On the 9th, they said they had a complaint to the Dambulla Police.
+
+The Mahaweli Authority is rebuilt by a tourist hotel that has been banned by the Mahaweli Authority.Gold Left Bank Farmers' Organization of Kandee. Ranjith Upul Kumara accused.
+
+At the request of the Farmer Organization Officials, the farmers' demands were made to see that the farmers have been identified as a blend to the ground and have made a special request for the burning of the trees.The construction of a group of people in the hotel was bragged that the Great Crime was committed by the farmers' organization.
+
+The Mahaweli Authority of Sri Lanka has bordered the wewa of the Wewa, the tank is marked and marked with the prosperity.
+
+...
+
+[Data](articles/05bac329.json)
+
+[Extended Data](ext_articles/05bac329.ext.json)
 
 ---
 
@@ -2371,59 +2425,5 @@ The case was filed on October 13, 2010, on charges of submitting the application
 [Data](articles/3da410cd.json)
 
 [Extended Data](ext_articles/3da410cd.ext.json)
-
----
-
-### Chinese nationals arrested with laptops and mobile phones
-
-*2024-10-09 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201981) · `si`
-
-Chinese nationals arrested in Sri Lanka with laptops, phones, and other devices. Police investigating potential financial crimes.
-
-🟩
-
-The Panadura North police officers arrested 20 Chinese nationals who were staying at a hotel in the Panadura, Panadura, on information received from the officers of the Western Buddha.
-
-Five laptops, 437 mobile phones, 437 mobile phones, USB cable, 21 routers, 2 corners, and more devices.
-
-They had obtained food from the hotel they were staying and they were staying at the same hotel on a base of Rs.
-
-They are to be produced before Panadura Magistrate today (09).
-
-Investigations are being investigated to investigate whether they have committed the financial crime.
-
-◼️
-
-[Data](articles/28df6528.json)
-
-[Extended Data](ext_articles/28df6528.ext.json)
-
----
-
-### Democratic Tamil National Alliance Competition with the Tamil Government in Tirumalai
-
-*2024-10-09 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195815) · `ta`
-
-Sri Lankan Tamil parties compete in Trincomalee and Ampara districts. TNA refuses to share election symbol, leading to separate candidacies. Compliance issues arise in Ampara, affecting Tamil representation.
-
-🟩
-
-The Sri Lankan Tamil state party and the Democratic Tamil National Alliance (TNA) have decided to join the Trincomalee District.
-
-However, due to the refusal of the TNA to contest the Sangu symbol in Ampara, both sides have decided to field separately.
-
-With every Tamil representation in Trincomalee and Ampara, the Archdiocese of Thirumalai has taken steps to join the Tamil state and the Democratic Tamil National Alliance.
-
-Accordingly, the two sides in Trincomalee have reached compliance with the field.. As a result, four candidates will be fielded on behalf of the Tamil Nadu Party and the three candidates on behalf of the Democratic Tamil National Alliance (TNA).
-
-As far as Amparai is concerned, it has been agreed that Mavai Sonathirajah, Sivagnanam Sridharan and Dr. Sathiyalingam are contesting on behalf of the Sri Lankan Tamil party.
-
-However, Sumanthiran has announced that the TNA will be in the house of the Tamil Nadu House in the five electoral districts of the North and East.
-
-...
-
-[Data](articles/56720503.json)
-
-[Extended Data](ext_articles/56720503.ext.json)
 
 ---

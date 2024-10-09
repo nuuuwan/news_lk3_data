@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 10:39:28**
+As of **2024-10-09 11:11:24**
 
 ## Newspaper Stats
 
-*Scraped **48,519** Articles*
+*Scraped **48,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,210 @@ economynextcom | 2,970
 dailyftlk | 3,283
 adalk | 4,495
 dailymirrorlk | 4,733
-adaderanalk | 5,716
-tamilmirrorlk | 6,577
-virakesarilk | 7,761
-adaderanasinhalalk | 8,392
+adaderanalk | 5,717
+tamilmirrorlk | 6,579
+virakesarilk | 7,762
+adaderanasinhalalk | 8,394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,519 (100.0%) of 48,519 articles have been extended.
+48,525 (100.0%) of 48,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### Conversation on Douglas phone with President Anura
+
+*2024-10-09 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/195813) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura speaks with Douglas about Indian fishermen arrests. Public urges action against livelihood destruction. President promises to address issue soon.
+
+🟩
+
+A conversation between President Anura Kumara Dissanayake and Douglas Devananda, Secretary General of the Eelam Democratic Party and Douglas Devananda.
+
+At the moment Douglas Devananda visited the area to meet the public to the Velani area, the Indian dragons were on the rise that the Indian tracts were increasing in their areas.
+
+As such conditions continue, fifty Indian fishermen arrested on charges of violating the Sri Lankan waters during the visit of Indian Foreign Minister Subramaniam Jaishankar have been released without any conditions.
+
+Therefore, the public has urged Douglas to take appropriate action by the new rulers that their livelihood is being destroyed.
+
+Douglas, who was standing in the area, spoke to President Anura on the phone. He has also highlighted the public expressed.
+
+At the same time, the President said that he would focus on the issue of Anuragumara and that he would soon hold talks with Douglas.
+
+◼️
+
+[Data](articles/77145f1b.json)
+
+[Extended Data](ext_articles/77145f1b.ext.json)
+
+---
+
+### He went to Australia empty-handed and went to Australia, a millpect
+
+*2024-10-09 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201983) · `si`
+
+Sri Lankan youth wins big in Australia: From student to millionaire through Airtasker success.
+
+🟩
+
+A Sri Lankan youth who went to Australia for his education around the year ago, a Sri Lankan youth has been a millionaire.
+
+Winzul Karunaratne, who is currently in Melbourne, is 25-year-old.
+
+While working in a temporary basis, the night was employed on a temporary basis while conducting his studies.
+
+He is also involved in housing cleaning activities during the rest.
+
+Since the income received was good, he later joined the site of airtasker.
+
+Vinul is among the top 10 and the highest number of income related to the site.
+
+It is said that the service of Vinul is more demand and his daily income is between $ 1,000 and 1,400 Australian income.
+
+He has also been able to buy a house to buy the car he was dreaming and in Sri Lanka.
+
+It plans to buy a house in full-time and to invest in other areas.
+
+◼️
+
+[Data](articles/66383f77.json)
+
+[Extended Data](ext_articles/66383f77.ext.json)
+
+---
+
+### Prices of eggs spike again in local markets
+
+*2024-10-09 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/102546/prices-of-eggs-spike-again-in-local-markets) · `en`
+
+The price of an egg has spiked again after the recent price drop.
+
+The price of an egg was seen reduced to Rs. 30 in local markets recently, however, it was reported that an egg is being sold at prices of over Rs. 40 this week.
+
+Chairman of Sri Lanka Livestock Producers Association Ajith Gunasekara stated that several factors have impacted the relevant price hike.
+
+“A large number of wholesalers have sold the eggs at lower price. It brought great relief to the customers. By now, the surplus products have left the market. Only the daily eggs that are currently produced come to the market. But there has been a huge price fluctuation. We have a question whether it happens artificially.”
+
+◼️
+
+[Data](articles/ea293625.json)
+
+[Extended Data](ext_articles/ea293625.ext.json)
+
+---
+
+### Older business in small England
+
+*2024-10-09 10:21:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சின்ன-இங்கிலாந்தில்-பழைய-தொழில்/76-345132) · `ta`
+
+Brothels disguised as massage parlors raided in Nuwara Eliya. Five women arrested, ages 32-47. To be presented in court on Wednesday.
+
+🟩
+
+The brothels, which are under the guise of a massage station in Nuwara Eliya, known as the most cool area, are surrounded by a brothel.
+
+Nuwara Eliya police said that the manager of the hotel, including five women, was arrested on Tuesday afternoon, surrounded by a brothel in the guise of a massage station in front of the Nuwara Eliya Cinicita Ground.
+
+In a rented building, police said that the arrest was carried out during a raid on the secret information received by the police claiming to be selling a massage center, claiming to be selling a massage center.
+
+The arrested women have been aged 32-47 from Kolonnawa, Halaka, Kadavatha, Welimada and Homagama.
+
+The Chief Inspector of Police said that they will be produced before the Nuwara Eliya Magistrate's Court on Wednesday (09).
+
+◼️
+
+[Data](articles/f97cc3c9.json)
+
+[Extended Data](ext_articles/f97cc3c9.ext.json)
+
+---
+
+### Date for the case against Shashi
+
+*2024-10-09 10:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷஷிக்கு-எதிரான-வழக்குக்கு-திகதி/175-345131) · `ta`
+
+Case against Shashi Weerawansa: Hearing date set for Oct 8, 2023. Accused appears in court. Case filed on Oct 13, 2010, alleging submission of fake birth certificate for diplomatic passport. Former Immigration Controller named witness.
+
+🟩
+
+Colombo Additional Magistrate Harshana Kekunuwala, who rejected the defendant's objection to the case against former minister Wimal Weerawansa's wife Mrs. Shashi Weerawansa, who allegedly obtained an illegal diplomatic passport by submitting a fake birth certificate, ordered the hearing of the case on Tuesday (08).
+
+Former Immigration Controller who has been named as witness of the case. R. Sulananda Perera issued a notice to the two witnesses to testify in court that day.
+
+When the case was taken up for hearing, the accused Mrs. Shashi Weerawansa appeared in court. H. According to the complaint lodged by a person named Saminda, the Criminal Investigation Department launched an investigation.
+
+The case was filed on October 13, 2010, on charges of submitting the application with documents, including the wrong birth certificate, for obtaining a foreign passport to the immigrant controller.
+
+◼️
+
+[Data](articles/3da410cd.json)
+
+[Extended Data](ext_articles/3da410cd.ext.json)
+
+---
+
+### Chinese nationals arrested with laptops and mobile phones
+
+*2024-10-09 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201981) · `si`
+
+Chinese nationals arrested in Sri Lanka with laptops, phones, and other devices. Police investigating potential financial crimes.
+
+🟩
+
+The Panadura North police officers arrested 20 Chinese nationals who were staying at a hotel in the Panadura, Panadura, on information received from the officers of the Western Buddha.
+
+Five laptops, 437 mobile phones, 437 mobile phones, USB cable, 21 routers, 2 corners, and more devices.
+
+They had obtained food from the hotel they were staying and they were staying at the same hotel on a base of Rs.
+
+They are to be produced before Panadura Magistrate today (09).
+
+Investigations are being investigated to investigate whether they have committed the financial crime.
+
+◼️
+
+[Data](articles/28df6528.json)
+
+[Extended Data](ext_articles/28df6528.ext.json)
+
+---
+
+### Democratic Tamil National Alliance Competition with the Tamil Government in Tirumalai
+
+*2024-10-09 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/195815) · `ta`
+
+Sri Lankan Tamil parties compete in Trincomalee and Ampara districts. TNA refuses to share election symbol, leading to separate candidacies. Compliance issues arise in Ampara, affecting Tamil representation.
+
+🟩
+
+The Sri Lankan Tamil state party and the Democratic Tamil National Alliance (TNA) have decided to join the Trincomalee District.
+
+However, due to the refusal of the TNA to contest the Sangu symbol in Ampara, both sides have decided to field separately.
+
+With every Tamil representation in Trincomalee and Ampara, the Archdiocese of Thirumalai has taken steps to join the Tamil state and the Democratic Tamil National Alliance.
+
+Accordingly, the two sides in Trincomalee have reached compliance with the field.. As a result, four candidates will be fielded on behalf of the Tamil Nadu Party and the three candidates on behalf of the Democratic Tamil National Alliance (TNA).
+
+As far as Amparai is concerned, it has been agreed that Mavai Sonathirajah, Sivagnanam Sridharan and Dr. Sathiyalingam are contesting on behalf of the Sri Lankan Tamil party.
+
+However, Sumanthiran has announced that the TNA will be in the house of the Tamil Nadu House in the five electoral districts of the North and East.
+
+...
+
+[Data](articles/56720503.json)
+
+[Extended Data](ext_articles/56720503.ext.json)
+
+---
 
 ### Massive change in the price of an egg suddenly
 
@@ -145,38 +335,6 @@ Police Inspector Hewage, Sub-Inspector Sirimal Police Constable at 94884 Charmin
 [Data](articles/e5b00f24.json)
 
 [Extended Data](ext_articles/e5b00f24.ext.json)
-
----
-
-### Conversation on Douglas phone with President Anura
-
-*2024-10-09 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195813) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura speaks with Douglas about Indian fishermen arrests. Public urges action against livelihood destruction. President promises to address issue soon.
-
-🟩
-
-A conversation between President Anura Kumara Dissanayake and Douglas Devananda, Secretary General of the Eelam Democratic Party and Douglas Devananda.
-
-At the moment Douglas Devananda visited the area to meet the public to the Velani area, the Indian dragons were on the rise that the Indian tracts were increasing in their areas.
-
-As such conditions continue, fifty Indian fishermen arrested on charges of violating the Sri Lankan waters during the visit of Indian Foreign Minister Subramaniam Jaishankar have been released without any conditions.
-
-Therefore, the public has urged Douglas to take appropriate action by the new rulers that their livelihood is being destroyed.
-
-Douglas, who was standing in the area, spoke to President Anura on the phone. He has also highlighted the public expressed.
-
-At the same time, the President said that he would focus on the issue of Anuragumara and that he would soon hold talks with Douglas.
-
-◼️
-
-[Data](articles/77145f1b.json)
-
-[Extended Data](ext_articles/77145f1b.ext.json)
 
 ---
 
@@ -2229,145 +2387,5 @@ Completed applications should be sent to the Commissioner General of Examination
 [Data](articles/ee277324.json)
 
 [Extended Data](ext_articles/ee277324.ext.json)
-
----
-
-### Eight years in prison for lawyer
-
-*2024-10-08 17:26:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தரணிக்கு-எட்டு-வருட-கடூழிய-சிறை/175-345102) · `ta`
-
-Lawyer sentenced to 8 years for land fraud. Colombo High Court judge rules accused used deceased lawyer's license to defraud land bonds. Senior attorney appeals for harsher sentences to deter similar crimes.
-
-🟩
-
-Colombo High Court Judge Aditya Badapandike sentenced him to 8 years' rigorous imprisonment on Tuesday (08), who was accused of allegedly making land guarantees and accused of fraud.
-
-The accused was sentenced to four years for a five-year sentence and a sentence of two charges and Rs 20,000/-.
-
-The judge ruled that the accused lawyer has undoubtedly proven that the deceased lawyer has defrauded the land bonds using the dead lawyer's license.
-
-Senior lawyer Lishan Ratnayan, who appeared on behalf of the government, has appealed to the defendant to be sentenced to others who commit such crimes, as the community is in a state of decline due to the crimes committed by the law.
-
-On October 11, 2013, the Attorney General has filed a lawsuit against the defendant on charges of fraudulently producing bonds and false documents for the land using a fake Nondaris license in the Rajagiriya Koswatta area.
-
-...
-
-[Data](articles/f4895a8a.json)
-
-[Extended Data](ext_articles/f4895a8a.ext.json)
-
----
-
-### Elections Commissioner General and Jaffna. Meeting between District Response Secretary and Elections Officer!
-
-*2024-10-08 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/195790) · `ta`
-
-Saman Sri Ratnayake met Jaffna District Secretary Marudalingam Pradeepan today at the District Secretariat Government Agent's office. Discussion centered on the current nomination session and ongoing proceedings in Jaffna district for the upcoming parliamentary elections on November 14th. Deputy Commissioner Achuthan also attended.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake met with Jaffna District Secretary and Electoral Officer Marudalingam Pradeepan today (08) at the District Secretariat Government Agent's office.
-
-The discussion was discussed on the current nomination session and the ongoing proceedings in the Jaffna district on the upcoming parliamentary elections to be held on the 14th of November.
-
-Deputy Commissioner of Elections Department. Achuthan also attended.
-
-◼️
-
-[Data](articles/06d121c0.json)
-
-[Extended Data](ext_articles/06d121c0.ext.json)
-
----
-
-### Postal Voting Application Date Prolongation
-
-*2024-10-08 17:21:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூல-வாக்களிப்பு-விண்ணப்பத்-திகதி-நீடிப்பு/175-345101) · `ta`
-
-Elections Commission extends general election application deadline until midnight tomorrow due to postal delays and commission requests. Postal voting applications now accepted until October 8, 2024, at 12:00 PM. Applications can also be submitted at District Election Offices from October 9-10, 2024.
-
-🟩
-
-The Elections Commission said that the deadline for the upcoming general election has been extended till midnight tomorrow (8).
-
-The extension was carried out in view of the delay in the post and the demands of the Commission, as the post was announced to accept the postal voting applications for the parliamentary election, which will be completed at 12.00 pm on October 08, 2024.
-
-In order to avoid the delay in applications, on the 9th and 10th of October 2024, steps have been taken to bring them to the District Elections Office of the District Elections Office where the office is located in different correspondence in different correspondence.
-
-◼️
-
-[Data](articles/aa39c20a.json)
-
-[Extended Data](ext_articles/aa39c20a.ext.json)
-
----
-
-### Sri Lankan-Australian Mariam Riza wants make Melbourne hum again as Mayor
-
-*2024-10-08 17:17:00* · [`economynextcom`](https://economynext.com/sri-lankan-australian-mariam-riza-wants-make-melbourne-hum-again-as-mayor-182807/) · `en`
-
-ECONOMYNEXT – Mariam Riza, who is running for Lord Mayor of Melbourne as the Liberal Party candidate wants to make the city hum with life by driving policies to fill empty buildings, boost small businesses and bring people back to the central business district.
-
-Riza, a long time resident of Melbourne, says the city hummed with life before Covid. But parts of the business district started to lose their bustle and vacancies are now growing in buildings.
-
-“It was a thriving city,” Riza told EconomyNext during a visit to Colombo. “And during COVID, it was the start of the decline of the city. Shopfronts started getting empty.
-
-“Office complexes had less people coming in. That created empty or hot spots and then safety became a significant issue in the city as well.”
-
-“It was sad to see a city go downhill, basically. And Melbourne is such a successful city. If we don’t nip these things in the bud and make course-corrective actions, you then set a city on a path of decline.
-
-...
-
-[Data](articles/69dd52cf.json)
-
-[Extended Data](ext_articles/69dd52cf.ext.json)
-
----
-
-### The event at the University of Vavuniya
-
-*2024-10-08 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/195788) · `ta`
-
-University of Vavuniya event summary: Sri Lanka Friendship Association sponsored gathering featuring Prof. Ri, Dr. Rajendran, and guest speakers including Indian Deputy Ambassador Sri V Ram Mahesh. Organized by Prof. A. Nandakumaran, attended by university officials and faculty members.
-
-🟩
-
-The University of Vavuniya, with the sponsorship of the Sri Lanka Sri Lanka Friendship Association, was held at the University of Vavuniya today (08).
-
-The event, which commenced at 9 am, Professor Ri, Doctor of the World War II Research Institute. Rajendran was a special speech.
-
-Prof. A. Nandakumaran organized the Vavuniya University Vice Chancellor. Indian Deputy Ambassador Sri V Ram Mahesh and University Business Studies Faculty of Business Studies Y. Nandakopan, Growing up and many others participated in the event.
-
-◼️
-
-[Data](articles/81ba1982.json)
-
-[Extended Data](ext_articles/81ba1982.ext.json)
-
----
-
-### A man arrested with illegal liquor in Kandana
-
-*2024-10-08 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/195783) · `ta`
-
-Man arrested with 55 bottles of illicit liquor in Kandana. Suspect aged 56 from Habukoda area. Raid conducted based on confidential tip. Further investigation ongoing.
-
-🟩
-
-A suspect with illegal liquor in the Habukoda area of ​​Kandanai police division was arrested by the Northern Police Crime Unit of the Western Province on Monday (07).
-
-The suspect was arrested during a raid carried out on confidential information received by the Northern Police Crime Unit of the Western Province.
-
-The arrested suspect is 56 years old from Habukoda, Kandana.
-
-41 liters of 250 ml of liters (55 bottles) from the arrested suspect has been seized.
-
-Further investigations are being carried out by the Northern Police Crime Unit of the Western Province.
-
-◼️
-
-[Data](articles/3a081b8e.json)
-
-[Extended Data](ext_articles/3a081b8e.ext.json)
 
 ---

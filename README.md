@@ -1,36 +1,78 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 08:01:16**
+As of **2024-10-09 08:22:00**
 
 ## Newspaper Stats
 
-*Scraped **48,495** Articles*
+*Scraped **48,500** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 398
 colombotelegraphcom | 480
-bbccomsinhala | 480
+bbccomsinhala | 481
 islandlk | 2,870
 economynextcom | 2,970
 dailyftlk | 3,282
-adalk | 4,492
+adalk | 4,493
 dailymirrorlk | 4,733
 adaderanalk | 5,713
-tamilmirrorlk | 6,571
+tamilmirrorlk | 6,572
 virakesarilk | 7,757
-adaderanasinhalalk | 8,386
+adaderanasinhalalk | 8,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,495 (100.0%) of 48,495 articles have been extended.
+48,495 (100.0%) of 48,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-09 (Wednesday)
+
+### තරුණයෙකුගේ මළ සිරුරක් ළිඳකින් හමුවෙයි
+
+*2024-10-09 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201976) · `si`
+
+ඇල්පිටිය පොලිස් වසමේ ඇල්පිටිය මහජන ක්‍රීඩාංගණය අසල ඇති අතුරු මාර්ගයක ඇති ළිඳක් තුළ තිබී තරුණයෙකුගේ මළ සිරුරක් සොයාගෙන තිබේ.
+
+පොලීසිය පැවසුවේ ඊයේ (08) දහවල් ඒ පිළිබ﻿ඳව පොලීසියට පණිවුඩයක් ලැබුණු බවය.
+
+එලෙස මියගොස් ඇත්තේ, අවුරුදු 23ක් වූ වැයිහේන, මත්තක ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මියගිය තරුණයා ඊට පෙරදින ඇල්පිටිය මහජන ක්‍රීඩාංගණයේ පැවති සංගීත ප්‍රසංගයක් නැරඹීම සඳහා ගොස් ඇතැයි අනාවරණය වී තිබේ.
+
+මෘත ශරීරය මහෙස්ත්‍රාත් පරීක්ෂණයෙන් පසු පශ්චාත් මරණ පරීක්ෂණය සඳහා ඇල්පිටිය රෝහලේ තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/267d0d2f.json)
+
+---
+
+### මහ ඡන්දෙට ස්වාධීන කණ්ඩායම් සහ දේශපාලන පක්ෂ 33ක්
+
+*2024-10-09 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201975) · `si`
+
+මෙවර මහ මැතිවරණය සඳහා ස්වාධීන කණ්ඩායම් සහ දේශපාලන පක්ෂ 33ක් නාමයෝජනා භාර දී තිබේ.
+
+මැතිවරණ කොමිෂන් සභාව පවසන්නේ ඊයේ (08) දිනය අවසන් වන විට දේශපාලන පක්ෂ 17ක් සහ ස්වාධින කණ්ඩායම් 16ක් එලෙස නාම යෝජනා භාරදී තිබූ බවය.
+
+මාතලේ, ගාල්ල, මාතර, කුරුණෑගල සහ බදුල්ල යන දිස්ත්‍රික්කවල මැතිවරණ කොට්ඨාස සඳහා ඊයේ දිනය අවසන් වනතෙක් කිසිදු දේශපාලන පක්ෂයක් හෝ ස්වාධීන කණ්ඩායමක් නාමයෝජනා භාර දී නොතිබු බව එම කොමිෂන් සභාව පවසයි.
+
+මහ මැතිවරණය සඳහා නාම යෝජනාභාර ගැනීම ඔක්තෝම්බර් මස 4 වනදා ආරම්භ වූ අතර ලබන 11 වනදා මධ්‍යාහ්න 12.00 දක්වා සිදුකිරීමට නියමිතය.
+
+මේ අතර මහ මැතිවරණයට අදාළ තැපැල් ජන්ද අයඳුම්පත් භාර ගැනීමේ කාලය ලබන 10 වනදා දක්වා දීර්ඝ කර තිබේ.
+
+ඒ සඳහා අයඳුම්පත් භාරගැනීම ඊයේ මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතිව තිබුණි.
+
+◼️
+
+[Data](articles/f375f707.json)
+
+---
 
 ### A bowl falls into a canal
 
@@ -282,6 +324,22 @@ This piece was prompted by the scaling back of ministries at the centre post the
 
 ---
 
+### மட்டுப்படுத்தப்படும் மலையக ரயில் சேவை
+
+*2024-10-09 02:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டுப்படுத்தப்படும்-மலையக-ரயில்-சேவை/175-345124) · `ta`
+
+இன்று முதல் எதிர்வரும் 15 ஆம் திகதி வரை மலையக மார்க்கத்திலான ரயில் போக்குவரத்து மட்டுப்படுத்தப்படவுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+அதற்கமைய, குறித்த காலப்பகுதியில் கொழும்பு கோட்டையிலிருந்து எல்ல ரயில் நிலையம் வரையே ரயில் போக்குவரத்து முன்னெடுக்கப்படவுள்ளது.
+
+படப்பிடிப்பு செயற்றிட்டம் காரணமாக இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் குறிப்பிட்டுள்ளது.  (a)
+
+◼️
+
+[Data](articles/d0dbe3a9.json)
+
+---
+
 ### 145 families affected by random weather
 
 *2024-10-09 02:18:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலையால்-145-குடும்பங்கள்-பாதிப்பு/175-345123) · `ta`
@@ -329,6 +387,24 @@ The Ceylon Workers Congress announced the final decision yesterday as the Ceylon
 [Data](articles/27d2aad6.json)
 
 [Extended Data](ext_articles/27d2aad6.ext.json)
+
+---
+
+### 'මාස්ටර් බ්ලාස්ටර්': කලින් කලට පුවත් මවන සනත් ජයසූරියගේ අලුත් ම අභියෝගය
+
+*2024-10-09 02:08:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgwjpvkllzo) · `si`
+
+'මාස්ටර් බ්ලාස්ටර්': කලින් කලට පුවත් මවන සනත් ජයසූරියගේ අලුත් ම අභියෝගය
+
+කාලයෙන් කාලයට පුවත් මවන චරිතයක් වූ සනත් ජයසූරිය ගැන නැවත වරක් ක්‍රිකට් ලෝකයේ අවධානය යොමුව තිබේ. ඒ, ඔහු ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ නිත්‍ය පුහුණුකරු ලෙස පත් කිරීමත් සමග ය.
+
+ඔහුගේ එම පත්වීම 2026 වසරේ මාර්තු මස 31 වන දා දක්වා බලපැවැත්වෙන අතර ශ්‍රී ලංකාව සහ ඉන්දියාව සම සත්කාරකත්වය දරන පන්දු වාර 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ද ඔහුගේ රාජකාරී කාල සීමාව තුළ පැවැත්වීමට නියමිත ය.
+
+ශ්‍රී ලංකාවෙන් බිහිවූ ප්‍රවේගකාරී පිතිකරුවෙකු මෙන් ම ක්‍රිකට් නායකයෙකු ද වූ සනත් ජයසූරිය, ඉකුත් ජූලි මාසයේ සිට ජාතික ක්‍රිකට් කණ්ඩායමේ වැඩබලන පුහුණුකරු ලෙස කටයුතු කළේ ය.
+
+...
+
+[Data](articles/957ad606.json)
 
 ---
 
@@ -1187,6 +1263,24 @@ It is noteworthy that the Department of Meteorology has requested the people to 
 [Data](articles/fdd0fad4.json)
 
 [Extended Data](ext_articles/fdd0fad4.ext.json)
+
+---
+
+### චීන යුද නැවකට ලංකාවට එන්න අවසර
+
+*2024-10-08 19:26:02* · [`adalk`](https://www.ada.lk/breaking_news/චීන-යුද-නැවකට-ලංකාවට-එන්න-අවසර/11-412384) · `si`
+
+චීන යුද පුහුණු නෞකාවකට මෙරටට පැමිණීමට අවසර ලබාදුන් බව කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය විජිත හේරත් මහතා පැවසීය. ඒ අනුව එම නෞකාව මේ මාසයේදී මෙරටට පැමිණීමට නියමිත බවද ඔහු සඳහන් කළේය.
+
+අද (08දා) පැවති කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවේදී ඔහු මෙම අදහස් පළ කළේය.
+
+එය මෙරට ආරක්ෂාවට හානියක් නොවන බවත්, මින් පෙරද යුද අභ්‍යාස සඳහා මෙවැනි නැව් මෙරටට පැමිණ ඇති බවත් ඔහු ප්‍රකාශ කළේය.
+
+වත්මන් රජය ඉන්දියාව, ඇමරිකාව, චීනය යන සියලු රටවල් සමග සහයෝගයෙන් කටයුතු කිරීමට බලාපොරොත්තු වන බවත් ඔහු කීවේය.
+
+◼️
+
+[Data](articles/8e7f27c6.json)
 
 ---
 
@@ -2241,129 +2335,5 @@ However, the relevant case has been filed by Tharanga himself and he has left th
 [Data](articles/36da46ba.json)
 
 [Extended Data](ext_articles/36da46ba.ext.json)
-
----
-
-### Attack in the Black Sea
-
-*2024-10-08 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201954) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Russian missile attacks damage ships in Odessa harbor. Ukrainian FM calls for safe passage. One worker killed, 5 ships injured. Russia denies targeting civilian vessels. Ukraine claims operation against Russian warship successful.
-
-🟩
-
-Ukrainian Foreign Minister Andreil Siribhaha says that two ships of the export ships of the Odeza Harbor premises in South Ukraine said.
-
-Earnian Foreign Minister emphasized all responsible state and organizations to ensure free ship transport at ear to the ear.
-
-However, it is reported that the situation has not been revealed in the attack.
-
-The Russian Defense Ministry has also said that the most frequent Russian defense ministry has not responded to the civil goals.
-
-The Governor of the Odeza region stated that a port worker was killed by the Russian missile attack and five foreign ships were injured.
-
-One of the hourly vessels has reached the port a few hours ago.
-
-Deputy Prime Minister Oleky Killhaba has stated that Russia is rising global food safety by habits in this manner.
-
-He said that it would create instability in sensitive zones that depend on food imports.
-
-It is reported that 6,000 tons of corn was imposed on the other ship.
-
-...
-
-[Data](articles/2425d7b3.json)
-
-[Extended Data](ext_articles/2425d7b3.ext.json)
-
----
-
-### Upul Tharanga Warrants
-
-*2024-10-08 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201953) · `si`
-
-Upul Tharanga arrested on warrant over Legends League influence claim. Court issues warrant for his arrest upon return to Sri Lanka.
-
-🟩
-
-The Matale High Court today has issued warrants today (08) due to the Chairman of the SLC selection committee.
-
-According to Mr. Upul Tharanga, it is relevant to a complaint that the "Legends League" has been influenced by a complaint with a complaint with a complaint that the "Legends League 'has been affected in March this year.
-
-The court has issued a warrant to arrest him at the airport at the airport due to the premises without notice to the judiciary.
-
-He has been informed by a motion that he is abroad as he is returning to the island.
-
-◼️
-
-[Data](articles/b7c45e60.json)
-
-[Extended Data](ext_articles/b7c45e60.ext.json)
-
----
-
-### Hopfield and Hinton win 2024 Nobel Prize in Physics
-
-*2024-10-08 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/102531/hopfield-and-hinton-win-2024-nobel-prize-in-physics) · `en`
-
-Scientists John Hopfield and Geoffrey Hinton won the 2024 Nobel Prize in Physics for discoveries and inventions that enable machine learning within artificial neural networks, the award-giving body said on Tuesday.
-
-The award comes with a prize sum of 11 million Swedish crowns ($1.1 million), which is shared between the winners if there are several. The physics prize is awarded by the Royal Swedish Academy of Sciences.
-
-“This year’s two Nobel Laureates in physics have used tools from physics to develop methods that are the foundation of today’s powerful machine learning,” the award-giving body said in a statement.
-
-Widely considered the most prestigious prize for physicists across the world, it was created, along with awards for achievements in science, literature and peace, in the will of Alfred Nobel.
-
-...
-
-[Data](articles/13454e42.json)
-
-[Extended Data](ext_articles/13454e42.ext.json)
-
----
-
-### Manager who saved the young man's life
-
-*2024-10-08 15:30:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இளைஞனின்-உயிரை-காப்பாற்றிய-முகாமையாளர்/76-345089) · `ta`
-
-Hotel manager saves drowning youth at Kasalree reservoir. Incident occurred on Tuesday. Police investigating identity of rescued 18-20 year old.
-
-🟩
-
-The incident took place on Tuesday (08) that a young man who was drowning in the Kasalree reservoir rescued a tourist manager near the reservoir.
-
-The hotel manager said that when he heard the screaming noise from the Kasalri reservoir, the young man was drowning in the reservoir.
-
-Norwood police said the rescued young man was 18-20 years old and is conducting further investigations.
-
-◼️
-
-[Data](articles/7caed2a7.json)
-
-[Extended Data](ext_articles/7caed2a7.ext.json)
-
----
-
-### Here is the decision by Vasu's party about the general election
-
-*2024-10-08 15:23:25* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණ​ය-ගැන-වාසුගේ-පක්ෂය-ගත්ත-තීරණය-මෙන්න/11-412372) · `si`
-
-Democratic Left Front supports national propaganda in upcoming general election. UNP MP Vasudeva Nanayakkara announced decision at press conference.
-
-🟩
-
-Democratic Left Front has decided to support the national propaganda at the next general election.
-
-The General Secretary of the UNP MP Vasudeva Nanayakkara said about a press conference held at a press conference held today (08).
-
-◼️
-
-[Data](articles/2b1827cc.json)
-
-[Extended Data](ext_articles/2b1827cc.ext.json)
 
 ---

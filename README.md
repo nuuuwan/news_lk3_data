@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-09 14:38:56**
+As of **2024-10-09 14:57:59**
 
 ## Newspaper Stats
 
-*Scraped **48,565** Articles*
+*Scraped **48,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ bbccomsinhala | 482
 islandlk | 2,870
 economynextcom | 2,977
 dailyftlk | 3,283
-adalk | 4,501
+adalk | 4,503
 dailymirrorlk | 4,733
 adaderanalk | 5,726
-tamilmirrorlk | 6,586
+tamilmirrorlk | 6,588
 virakesarilk | 7,766
 adaderanasinhalalk | 8,399
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 8,399
 
 Extensions include translations and NER (Named Entity Recognition).
 
-48,565 (100.0%) of 48,565 articles have been extended.
+48,569 (100.0%) of 48,569 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,24 @@ Air Force Commander Air Marshal Udayani visited several sections of the Air Forc
 
 ---
 
+### Do not reduce the concessions of the telephone number
+
+*2024-10-09 14:16:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலுகைகளை-குறைக்கமாட்டோம்/175-345160) · `ta`
+
+“I learned that there are false rumors in the media regarding the reduction of the concessions offered to the soldiers by the government. However, I am saying that the current government has no intention of reducing the concessions offered to the soldiers. ”
+
+Defense Secretary Air Vice Marshall Sampath Dihakonda (Retired) said this while addressing the Air Force personnel during his first visit to the Sri Lanka Air Force Headquarters in Sri Jayawardenapura Kotte.
+
+Air Force Commander Air Marshal Udayani visited several sections of the Air Force Headquarters with Rajapakse and other senior officials.
+
+◼️
+
+[Data](articles/74e6f25d.json)
+
+[Extended Data](ext_articles/74e6f25d.ext.json)
+
+---
+
 ### Commentary on the cause of the cause of suicide
 
 *2024-10-09 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201989) · `si`
@@ -67,6 +85,28 @@ Professor Mohammed Mah scores the reasons for the collapse of human relationship
 [Data](articles/48af7486.json)
 
 [Extended Data](ext_articles/48af7486.ext.json)
+
+---
+
+### “If you are constantly at home, the law will flow”
+
+*2024-10-09 14:03:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-வீட்டில்-இருந்தால்-சட்டம்-பாயும்/175-345159) · `ta`
+
+The Ministry of Public Administration and Home Affairs has decided to take legal action against members of the former government holding official homes.
+
+Of the 41 official houses allocated following the coup, only 14 houses have been returned, a ministry official said.
+
+A total of 41 apartments have been allocated to the ministers of the former government, the Ministry official said.
+
+After the 2024 presidential election, the Ministry of Public Administration and Home Affairs issued a notification to withdraw official homes.
+
+However, so far, only 14 apartments have been renovated, and the Ministry of Public Administration and Home Affairs has accelerated to take legal action.
+
+◼️
+
+[Data](articles/12ae30d2.json)
+
+[Extended Data](ext_articles/12ae30d2.ext.json)
 
 ---
 
@@ -232,6 +272,30 @@ Meanwhile, the Elections Commission says that many foreign electorates have been
 
 ---
 
+### 12-year-old is Sri Lanka's youngest female invasional master
+
+*2024-10-09 12:52:24* · [`adalk`](https://www.ada.lk/sports/12-හැවිරිදි-ඔෂිනි-ලංකාවේ-ලාබාලතම-කාන්තා-ඉන්ටර්නැෂනල්-මාස්ටර්-වෙයි/9-412393) · `si`
+
+The rising 12-year-old, Vivvinda Osinya Osini Gunawardena, the 12-year-old school, Colombo, is the 12-year-old women's chess online.
+
+The Women International Master post was officially presented by the World Chess Federation (FIDE).
+
+It is awarded this position from the World Chez Conference, conspiring the target of 2000 rated points of chess games and the summary of the target marks and in international chess competitions.
+
+At the same time, three women chess players in Sri Lanka are currently three women's Masinghen.. After her, the Nelukana Medhieganiya. Five years later, Osini was able to obtain this position.
+
+Women and Male International Masters have a four-member fingers in Sri Lanka.. Eighteen -une Susal Lokuge is currently the youngest international master of Sri Lanka.
+
+As the youngest women's chess International Master of Sri Lanka, the most youngest female chess International Master is also the current national chess champion.
+
+...
+
+[Data](articles/2edc5584.json)
+
+[Extended Data](ext_articles/2edc5584.ext.json)
+
+---
+
 ### Political risks to Sri Lanka’s debt restructuring agreement recede – Fitch
 
 *2024-10-09 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/102554/political-risks-to-sri-lankas-debt-restructuring-agreement-recede-fitch) · `en`
@@ -243,6 +307,26 @@ The Sri Lankan authorities’ confirmation that they endorse the targets set und
 [Data](articles/63520b40.json)
 
 [Extended Data](ext_articles/63520b40.ext.json)
+
+---
+
+### Ranjan and Dilshan builds a new party
+
+*2024-10-09 12:31:42* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්-හා-ඩිල්ෂාන්-එක්ව-නව-පක්ෂයක්-හදයි/11-412392) · `si`
+
+A new political party has commenced a new political party with a popular actor and former deputy minister Ranjan Ramanayake.
+
+Ranjan Ramanayake and former Sri Lanka Cricket Leader Ties. Dilshan is coping this party. The party established under the microphone sign is the United Democratic Acceptance.
+
+Actor-turned-politician ranjan ranjan ranjan ranjan ranjan ranjan ranjan ranjan ranjan ranjan ranjeke and former Sri lanayake crickter t. Dilshan Announced Party, The United Demonocratic Voice (UDV), a shorot while ago.
+
+Ramanayake is The Leader of the Party WHILE Dilshan IS The National Organizer.
+
+◼️
+
+[Data](articles/c4383626.json)
+
+[Extended Data](ext_articles/c4383626.ext.json)
 
 ---
 
@@ -2175,115 +2259,5 @@ Q. There was an alternative debt insisctious analysis of the policy expression o
 [Data](articles/498fd43e.json)
 
 [Extended Data](ext_articles/498fd43e.ext.json)
-
----
-
-### Railway restriction on Kandyan railway line
-
-*2024-10-08 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201968) · `si`
-
-Here's a 200-character summary:
-
-
-
-Kandyan railway line restrictions: Upcountry trains limited to Ella station. Specific schedules for various routes between Colombo Fort and Badulla. Buses deployed as alternative transport.
-
-🟩
-
-The upcountry route train is restricted to the Ella railway station from the Colombo Fort to the Station.
-
-NJ, deploying an announcement. Mr. Nepha's who is said to be this.
-
-Accordingly, the relevant fillets on the arch 9 bridge between October 15 (09) to October 15.
-
-Therefore, the above statement further states that only between 7.30 am to 2:30 am to 5.30 pm, the statement further states.
-
-The railway plan on the upcountry road from up to 15.10.2014 to 15.10.2013.
-
-01. Runing only 1005 runs from Colombo Fort to Badulla to the railway station.
-
-02. Runing only to the 'Odyssey "Railway Station to run from Colombo Fort to Badulla on October 10-11,12 and 13.
-
-03. On October 11,12,13 and 14, the 'Oddi' train falls will be opened from the train falls and leaves from the station from the station.
-
-04. The number 1006 (Podi Menica) from Badulla to Colombo Fort will commence from the railway station and leaves from the station from the station .09.40.
-
-...
-
-[Data](articles/d3ccbed0.json)
-
-[Extended Data](ext_articles/d3ccbed0.ext.json)
-
----
-
-### AKD win major leftist coup, says Vasu; Sri Lanka “old left” wants in
-
-*2024-10-08 21:52:00* · [`economynextcom`](https://economynext.com/akd-win-major-leftist-coup-says-vasu-sri-lanka-old-left-wants-in-182880/) · `en`
-
-ECONOMYNEXT — Former MP Vasudewa Nanayakkara, a foremost voice of Sri Lanka’s “old left” which later embraced left-nationalism, has decided to throw in his lot with the ruling National People’s Power (NPP).
-
-Speaking to reporters on Tuesday October 08, Nanayakkara said the result of Sri Lanka’s September 21 presidential election was a “big leftist victory”.
-
-“Our view is that we should join this government and support them. MPs elected from our Democratic Left Front (DLF) will not join the opposition. We will join the National People’s Power (NPP) government,” he said.
-
-“I think we’re the only party that is making such a statement,” he added.
-
-...
-
-[Data](articles/19ba4c28.json)
-
-[Extended Data](ext_articles/19ba4c28.ext.json)
-
----
-
-### Law was jailed for eight years in prison
-
-*2024-10-08 21:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/201967) · `si`
-
-Lawyer jailed 8 years for fraud Colombo High Court Judge Adurdarandi verdict Senior State Counsel Lishan Ratnayake prosecution
-
-🟩
-
-Colombo High Court Judge Adurdarandi today (08) was held today (08).
-
-The disabled, which was mandatory, the compulsory, the disabled of eight years, subordinated the accused of Rs.
-
-The judge decided that the defendant had proved that the complaint was proved to be disrupted by a dead lawyer in a period of 10 years.
-
-As a result of the criminal deterioration of the legal people, the accused is a demand for the complaint, a request made by Senior State Counsel Lyln Ratnayake, who appeared to the complaint is a lesson to punish the complaint.
-
-The lawyer had filed a case against the accused with a false notice of a predictor of a lack of legal document, using a false notice license with a legal lawyer in Koswatte on the 11th of October 2013.
-
-The Attorney General has filed prosecuted in 2015 against the defendant's lawyer and decided that the judge had previously heard the charges against the accused.
-
-...
-
-[Data](articles/6f5ee319.json)
-
-[Extended Data](ext_articles/6f5ee319.ext.json)
-
----
-
-### Over 40,000 dengue cases reported in Sri Lanka so far in 2024
-
-*2024-10-08 21:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/102540/over-40000-dengue-cases-reported-in-sri-lanka-so-far-in-2024) · `en`
-
-More than 40,000 dengue cases have been reported so far this year in Sri Lanka, according to the latest statistics released by the National Dengue Control Unit (NDCU) on Tuesday.
-
-The NDCU said that 40,109 cases had been reported with 19 fatalities so far, Xinhua news agency reported.
-
-The western province recorded the highest number of cases accounting for 42.3 per cent of the total.
-
-The northern province had the second highest number of cases accounting for 12 per cent and the central province had the third highest with 10.3 per cent.
-
-In the western province, the highest number of 10,027 cases have been reported from the Colombo district. The Gampaha district trails behind in the province with 4,698 cases.
-
-Last year, a total of more than 88,000 dengue cases were reported with a death toll of 57, according to the NDCU.
-
-◼️
-
-[Data](articles/5f9deb8c.json)
-
-[Extended Data](ext_articles/5f9deb8c.ext.json)
 
 ---
